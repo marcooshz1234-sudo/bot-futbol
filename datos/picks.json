@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22 17:45",
+ "generado": "2026-10-22 18:23",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -20,7 +20,7 @@
      "texto": "1899 Hoffenheim marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 1.0,
-     "detalle": "1899 Hoffenheim 8/8 · Lyon 10/10",
+     "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
      "ventaja": 0.265
     },
     {
@@ -34,7 +34,7 @@
      "texto": "Bournemouth marca menos de 2,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.944,
-     "detalle": "Bournemouth 8/9 · AC Milan 9/9",
+     "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
      "ventaja": 0.144
     },
     {
@@ -48,7 +48,7 @@
      "texto": "Lyon marca más de 0,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.944,
-     "detalle": "1899 Hoffenheim 8/8 · Lyon 9/10",
+     "detalle": "1899 Hoffenheim (en contra) 8/8 · Lyon 9/10",
      "ventaja": 0.144
     },
     {
@@ -132,7 +132,7 @@
      "texto": "SC Freiburg marca más de 0,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.895,
-     "detalle": "Monaco 8/10 · SC Freiburg 9/9",
+     "detalle": "Monaco (en contra) 8/10 · SC Freiburg 9/9",
      "ventaja": 0.126
     },
     {
@@ -146,7 +146,7 @@
      "texto": "FC Lugano marca más de 0,5 goles",
      "cuota": 1.57,
      "frecuencia": 0.882,
-     "detalle": "Getafe 8/10 · FC Lugano 7/7",
+     "detalle": "Getafe (en contra) 8/10 · FC Lugano 7/7",
      "ventaja": 0.245
     },
     {
@@ -188,7 +188,7 @@
      "texto": "Atalanta marca más de 0,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.882,
-     "detalle": "Ajax 7/7 · Atalanta 8/10",
+     "detalle": "Ajax (en contra) 7/7 · Atalanta 8/10",
      "ventaja": 0.082
     },
     {
@@ -202,7 +202,7 @@
      "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
      "cuota": 1.62,
      "frecuencia": 0.875,
-     "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë 8/9",
+     "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
      "ventaja": 0.258
     },
     {
@@ -216,7 +216,7 @@
      "texto": "Twente marca menos de 3,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.875,
-     "detalle": "Lincoln Red Imps FC 9/9 · Twente 5/7",
+     "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
      "ventaja": 0.14
     },
     {
@@ -230,7 +230,7 @@
      "texto": "Pafos marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.875,
-     "detalle": "Pafos 5/7 · Riga 9/9",
+     "detalle": "Pafos 5/7 · Riga (en contra) 9/9",
      "ventaja": 0.14
     },
     {
@@ -244,7 +244,7 @@
      "texto": "Universitatea Craiova marca menos de 2,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.875,
-     "detalle": "Inter Club d'Escaldes 6/7 · Universitatea Craiova 8/9",
+     "detalle": "Inter Club d'Escaldes (en contra) 6/7 · Universitatea Craiova 8/9",
      "ventaja": 0.123
     },
     {
@@ -342,7 +342,7 @@
      "texto": "Juventus marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.833,
-     "detalle": "Juventus 8/9 · Rennes 7/9",
+     "detalle": "Juventus 8/9 · Rennes (en contra) 7/9",
      "ventaja": 0.167
     },
     {
@@ -356,7 +356,7 @@
      "texto": "AC Milan marca más de 0,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.833,
-     "detalle": "Bournemouth 7/9 · AC Milan 8/9",
+     "detalle": "Bournemouth (en contra) 7/9 · AC Milan 8/9",
      "ventaja": 0.081
     },
     {
@@ -398,7 +398,7 @@
      "texto": "Inter Club d'Escaldes marca más de 0,5 goles",
      "cuota": 1.67,
      "frecuencia": 0.812,
-     "detalle": "Inter Club d'Escaldes 5/7 · Universitatea Craiova 8/9",
+     "detalle": "Inter Club d'Escaldes 5/7 · Universitatea Craiova (en contra) 8/9",
      "ventaja": 0.214
     },
     {
@@ -412,7 +412,7 @@
      "texto": "Riga marca más de 0,5 goles",
      "cuota": 1.53,
      "frecuencia": 0.812,
-     "detalle": "Pafos 6/7 · Riga 7/9",
+     "detalle": "Pafos (en contra) 6/7 · Riga 7/9",
      "ventaja": 0.159
     },
     {
@@ -426,7 +426,7 @@
      "texto": "Aarhus marca menos de 2,5 goles",
      "cuota": 1.44,
      "frecuencia": 0.812,
-     "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë 7/9",
+     "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë (en contra) 7/9",
      "ventaja": 0.118
     },
     {
@@ -510,7 +510,7 @@
      "texto": "Marseille marca menos de 2,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.8,
-     "detalle": "Sturm Graz 5/6 · Marseille 7/9",
+     "detalle": "Sturm Graz (en contra) 5/6 · Marseille 7/9",
      "ventaja": 0.019
     },
     {
@@ -538,7 +538,7 @@
      "texto": "SC Braga marca menos de 1,5 goles",
      "cuota": 1.67,
      "frecuencia": 0.786,
-     "detalle": "SC Braga 5/7 · Gent 6/7",
+     "detalle": "SC Braga 5/7 · Gent (en contra) 6/7",
      "ventaja": 0.187
     },
     {
@@ -594,7 +594,7 @@
      "texto": "KuPS marca más de 0,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.778,
-     "detalle": "Borac Banja Luka 7/9 · KuPS 7/9",
+     "detalle": "Borac Banja Luka (en contra) 7/9 · KuPS 7/9",
      "ventaja": 0.111
     },
     {
@@ -678,7 +678,7 @@
      "texto": "Omonia Nicosia marca más de 0,5 goles",
      "cuota": 1.67,
      "frecuencia": 0.75,
-     "detalle": "Omonia Nicosia 6/8 · Benfica 6/8",
+     "detalle": "Omonia Nicosia 6/8 · Benfica (en contra) 6/8",
      "ventaja": 0.151
     }
    ],
@@ -694,7 +694,7 @@
      "texto": "1899 Hoffenheim marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 1.0,
-     "detalle": "1899 Hoffenheim 8/8 · Lyon 10/10",
+     "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
      "ventaja": 0.265
     },
     {
@@ -708,7 +708,7 @@
      "texto": "Bournemouth marca menos de 2,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.944,
-     "detalle": "Bournemouth 8/9 · AC Milan 9/9",
+     "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
      "ventaja": 0.144
     },
     {
@@ -792,7 +792,7 @@
      "texto": "FC Lugano marca más de 0,5 goles",
      "cuota": 1.57,
      "frecuencia": 0.882,
-     "detalle": "Getafe 8/10 · FC Lugano 7/7",
+     "detalle": "Getafe (en contra) 8/10 · FC Lugano 7/7",
      "ventaja": 0.245
     },
     {
@@ -834,7 +834,7 @@
      "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
      "cuota": 1.62,
      "frecuencia": 0.875,
-     "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë 8/9",
+     "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
      "ventaja": 0.258
     },
     {
@@ -848,7 +848,7 @@
      "texto": "Twente marca menos de 3,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.875,
-     "detalle": "Lincoln Red Imps FC 9/9 · Twente 5/7",
+     "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
      "ventaja": 0.14
     },
     {
@@ -862,7 +862,7 @@
      "texto": "Pafos marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.875,
-     "detalle": "Pafos 5/7 · Riga 9/9",
+     "detalle": "Pafos 5/7 · Riga (en contra) 9/9",
      "ventaja": 0.14
     },
     {
@@ -876,7 +876,7 @@
      "texto": "Universitatea Craiova marca menos de 2,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.875,
-     "detalle": "Inter Club d'Escaldes 6/7 · Universitatea Craiova 8/9",
+     "detalle": "Inter Club d'Escaldes (en contra) 6/7 · Universitatea Craiova 8/9",
      "ventaja": 0.123
     },
     {
@@ -904,7 +904,7 @@
      "texto": "Juventus marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.833,
-     "detalle": "Juventus 8/9 · Rennes 7/9",
+     "detalle": "Juventus 8/9 · Rennes (en contra) 7/9",
      "ventaja": 0.167
     },
     {
@@ -946,7 +946,7 @@
      "texto": "KuPS marca más de 0,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.778,
-     "detalle": "Borac Banja Luka 7/9 · KuPS 7/9",
+     "detalle": "Borac Banja Luka (en contra) 7/9 · KuPS 7/9",
      "ventaja": 0.111
     },
     {
@@ -960,7 +960,7 @@
      "texto": "Omonia Nicosia marca más de 0,5 goles",
      "cuota": 1.67,
      "frecuencia": 0.75,
-     "detalle": "Omonia Nicosia 6/8 · Benfica 6/8",
+     "detalle": "Omonia Nicosia 6/8 · Benfica (en contra) 6/8",
      "ventaja": 0.151
     }
    ],
@@ -978,7 +978,7 @@
        "texto": "1899 Hoffenheim marca menos de 2,5 goles",
        "cuota": 1.36,
        "frecuencia": 1.0,
-       "detalle": "1899 Hoffenheim 8/8 · Lyon 10/10",
+       "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
        "ventaja": 0.265
       },
       {
@@ -992,7 +992,7 @@
        "texto": "Bournemouth marca menos de 2,5 goles",
        "cuota": 1.25,
        "frecuencia": 0.944,
-       "detalle": "Bournemouth 8/9 · AC Milan 9/9",
+       "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
        "ventaja": 0.144
       }
      ],
@@ -1011,7 +1011,7 @@
        "texto": "Lyon marca más de 0,5 goles",
        "cuota": 1.25,
        "frecuencia": 0.944,
-       "detalle": "1899 Hoffenheim 8/8 · Lyon 9/10",
+       "detalle": "1899 Hoffenheim (en contra) 8/8 · Lyon 9/10",
        "ventaja": 0.144
       },
       {
@@ -1100,7 +1100,7 @@
        "texto": "FC Lugano marca más de 0,5 goles",
        "cuota": 1.57,
        "frecuencia": 0.882,
-       "detalle": "Getafe 8/10 · FC Lugano 7/7",
+       "detalle": "Getafe (en contra) 8/10 · FC Lugano 7/7",
        "ventaja": 0.245
       },
       {
@@ -1142,7 +1142,7 @@
        "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
        "cuota": 1.62,
        "frecuencia": 0.875,
-       "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë 8/9",
+       "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
        "ventaja": 0.258
       },
       {
@@ -1156,7 +1156,7 @@
        "texto": "Twente marca menos de 3,5 goles",
        "cuota": 1.36,
        "frecuencia": 0.875,
-       "detalle": "Lincoln Red Imps FC 9/9 · Twente 5/7",
+       "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
        "ventaja": 0.14
       },
       {
@@ -1170,7 +1170,7 @@
        "texto": "Pafos marca menos de 2,5 goles",
        "cuota": 1.36,
        "frecuencia": 0.875,
-       "detalle": "Pafos 5/7 · Riga 9/9",
+       "detalle": "Pafos 5/7 · Riga (en contra) 9/9",
        "ventaja": 0.14
       }
      ],
@@ -1205,7 +1205,7 @@
      "texto": "Monza marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.929,
-     "detalle": "Torino 6/7 · Monza 7/7",
+     "detalle": "Torino (en contra) 6/7 · Monza 7/7",
      "ventaja": 0.214
     },
     {
@@ -1289,7 +1289,7 @@
      "texto": "Ipswich marca más de 0,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.786,
-     "detalle": "Ipswich 5/7 · Nottingham Forest 6/7",
+     "detalle": "Ipswich 5/7 · Nottingham Forest (en contra) 6/7",
      "ventaja": 0.016
     }
    ],
@@ -1388,7 +1388,7 @@
      "texto": "Atletico Madrid marca menos de 3,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.947,
-     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna 9/9",
+     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
      "ventaja": 0.147
     },
     {
@@ -1402,7 +1402,7 @@
      "texto": "Espanyol marca más de 0,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.944,
-     "detalle": "Racing Santander 9/9 · Espanyol 8/9",
+     "detalle": "Racing Santander (en contra) 9/9 · Espanyol 8/9",
      "ventaja": 0.144
     },
     {
@@ -1416,7 +1416,7 @@
      "texto": "Sassuolo marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.941,
-     "detalle": "Como 9/10 · Sassuolo 7/7",
+     "detalle": "Como (en contra) 9/10 · Sassuolo 7/7",
      "ventaja": 0.227
     },
     {
@@ -1444,7 +1444,7 @@
      "texto": "Arsenal marca menos de 2,5 goles",
      "cuota": 1.44,
      "frecuencia": 0.882,
-     "detalle": "Arsenal 8/10 · Everton 7/7",
+     "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
      "ventaja": 0.188
     },
     {
@@ -1472,7 +1472,7 @@
      "texto": "RB Leipzig marca menos de 3,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.867,
-     "detalle": "RB Leipzig 7/9 · SV Elversberg 6/6",
+     "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
      "ventaja": 0.115
     },
     {
@@ -1486,7 +1486,7 @@
      "texto": "Cagliari marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.857,
-     "detalle": "Cagliari 5/7 · Bologna 7/7",
+     "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7",
      "ventaja": 0.143
     },
     {
@@ -1570,7 +1570,7 @@
      "texto": "1. FC Köln marca menos de 2,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.833,
-     "detalle": "1. FC Köln 5/6 · FC Schalke 04 5/6",
+     "detalle": "1. FC Köln 5/6 · FC Schalke 04 (en contra) 5/6",
      "ventaja": 0.052
     },
     {
@@ -1668,7 +1668,7 @@
      "texto": "Atletico Madrid marca menos de 2,5 goles",
      "cuota": 1.73,
      "frecuencia": 0.789,
-     "detalle": "Atletico Madrid 7/10 · Deportivo La Coruna 8/9",
+     "detalle": "Atletico Madrid 7/10 · Deportivo La Coruna (en contra) 8/9",
      "ventaja": 0.211
     },
     {
@@ -1696,7 +1696,7 @@
      "texto": "Bologna marca menos de 1,5 goles",
      "cuota": 1.53,
      "frecuencia": 0.786,
-     "detalle": "Cagliari 6/7 · Bologna 5/7",
+     "detalle": "Cagliari (en contra) 6/7 · Bologna 5/7",
      "ventaja": 0.132
     },
     {
@@ -1752,7 +1752,7 @@
      "texto": "Cagliari marca menos de 1,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.786,
-     "detalle": "Cagliari 6/7 · Bologna 5/7",
+     "detalle": "Cagliari 6/7 · Bologna (en contra) 5/7",
      "ventaja": 0.05
     },
     {
@@ -1810,7 +1810,7 @@
      "texto": "Atletico Madrid marca menos de 3,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.947,
-     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna 9/9",
+     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
      "ventaja": 0.147
     },
     {
@@ -1824,7 +1824,7 @@
      "texto": "Espanyol marca más de 0,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.944,
-     "detalle": "Racing Santander 9/9 · Espanyol 8/9",
+     "detalle": "Racing Santander (en contra) 9/9 · Espanyol 8/9",
      "ventaja": 0.144
     },
     {
@@ -1838,7 +1838,7 @@
      "texto": "Sassuolo marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.941,
-     "detalle": "Como 9/10 · Sassuolo 7/7",
+     "detalle": "Como (en contra) 9/10 · Sassuolo 7/7",
      "ventaja": 0.227
     },
     {
@@ -1852,7 +1852,7 @@
      "texto": "Arsenal marca menos de 2,5 goles",
      "cuota": 1.44,
      "frecuencia": 0.882,
-     "detalle": "Arsenal 8/10 · Everton 7/7",
+     "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
      "ventaja": 0.188
     },
     {
@@ -1880,7 +1880,7 @@
      "texto": "RB Leipzig marca menos de 3,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.867,
-     "detalle": "RB Leipzig 7/9 · SV Elversberg 6/6",
+     "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
      "ventaja": 0.115
     },
     {
@@ -1894,7 +1894,7 @@
      "texto": "Cagliari marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.857,
-     "detalle": "Cagliari 5/7 · Bologna 7/7",
+     "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7",
      "ventaja": 0.143
     },
     {
@@ -2010,7 +2010,7 @@
        "texto": "Atletico Madrid marca menos de 3,5 goles",
        "cuota": 1.25,
        "frecuencia": 0.947,
-       "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna 9/9",
+       "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
        "ventaja": 0.147
       },
       {
@@ -2024,7 +2024,7 @@
        "texto": "Espanyol marca más de 0,5 goles",
        "cuota": 1.25,
        "frecuencia": 0.944,
-       "detalle": "Racing Santander 9/9 · Espanyol 8/9",
+       "detalle": "Racing Santander (en contra) 9/9 · Espanyol 8/9",
        "ventaja": 0.144
       }
      ],
@@ -2043,7 +2043,7 @@
        "texto": "Sassuolo marca más de 0,5 goles",
        "cuota": 1.4,
        "frecuencia": 0.941,
-       "detalle": "Como 9/10 · Sassuolo 7/7",
+       "detalle": "Como (en contra) 9/10 · Sassuolo 7/7",
        "ventaja": 0.227
       },
       {
@@ -2057,7 +2057,7 @@
        "texto": "Arsenal marca menos de 2,5 goles",
        "cuota": 1.44,
        "frecuencia": 0.882,
-       "detalle": "Arsenal 8/10 · Everton 7/7",
+       "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
        "ventaja": 0.188
       },
       {
@@ -2085,7 +2085,7 @@
        "texto": "RB Leipzig marca menos de 3,5 goles",
        "cuota": 1.33,
        "frecuencia": 0.867,
-       "detalle": "RB Leipzig 7/9 · SV Elversberg 6/6",
+       "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
        "ventaja": 0.115
       }
      ],
@@ -2118,7 +2118,7 @@
        "texto": "Cagliari marca más de 0,5 goles",
        "cuota": 1.4,
        "frecuencia": 0.857,
-       "detalle": "Cagliari 5/7 · Bologna 7/7",
+       "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7",
        "ventaja": 0.143
       },
       {
@@ -2251,7 +2251,7 @@
      "texto": "Lyon marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.9,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 9/10",
+     "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 9/10",
      "ventaja": 0.186
     },
     {
@@ -2265,7 +2265,7 @@
      "texto": "Bournemouth marca más de 0,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.895,
-     "detalle": "Manchester United 9/10 · Bournemouth 8/9",
+     "detalle": "Manchester United (en contra) 9/10 · Bournemouth 8/9",
      "ventaja": 0.143
     },
     {
@@ -2293,7 +2293,7 @@
      "texto": "Bayer Leverkusen marca más de 1,5 goles",
      "cuota": 1.67,
      "frecuencia": 0.875,
-     "detalle": "1899 Hoffenheim 6/8 · Bayer Leverkusen 8/8",
+     "detalle": "1899 Hoffenheim (en contra) 6/8 · Bayer Leverkusen 8/8",
      "ventaja": 0.276
     },
     {
@@ -2349,7 +2349,7 @@
      "texto": "1899 Hoffenheim marca menos de 2,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.875,
-     "detalle": "1899 Hoffenheim 8/8 · Bayer Leverkusen 6/8",
+     "detalle": "1899 Hoffenheim 8/8 · Bayer Leverkusen (en contra) 6/8",
      "ventaja": 0.075
     },
     {
@@ -2391,7 +2391,7 @@
      "texto": "Brentford marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.857,
-     "detalle": "Hull City 7/7 · Brentford 5/7",
+     "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
      "ventaja": 0.122
     },
     {
@@ -2433,7 +2433,7 @@
      "texto": "Le Mans marca más de 0,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.857,
-     "detalle": "Auxerre 6/7 · Le Mans 6/7",
+     "detalle": "Auxerre (en contra) 6/7 · Le Mans 6/7",
      "ventaja": 0.088
     },
     {
@@ -2461,7 +2461,7 @@
      "texto": "Lille marca más de 0,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.85,
-     "detalle": "Monaco 8/10 · Lille 9/10",
+     "detalle": "Monaco (en contra) 8/10 · Lille 9/10",
      "ventaja": 0.115
     },
     {
@@ -2475,7 +2475,7 @@
      "texto": "Liverpool marca menos de 2,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.85,
-     "detalle": "Liverpool 8/10 · Brighton 9/10",
+     "detalle": "Liverpool 8/10 · Brighton (en contra) 9/10",
      "ventaja": 0.069
     },
     {
@@ -2489,7 +2489,7 @@
      "texto": "Paris Saint Germain marca menos de 3,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.85,
-     "detalle": "Paris Saint Germain 7/10 · Lyon 10/10",
+     "detalle": "Paris Saint Germain 7/10 · Lyon (en contra) 10/10",
      "ventaja": 0.05
     },
     {
@@ -2503,7 +2503,7 @@
      "texto": "Manchester United marca menos de 2,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.842,
-     "detalle": "Manchester United 8/10 · Bournemouth 8/9",
+     "detalle": "Manchester United 8/10 · Bournemouth (en contra) 8/9",
      "ventaja": 0.073
     },
     {
@@ -2545,7 +2545,7 @@
      "texto": "Atalanta marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.824,
-     "detalle": "Atalanta 8/10 · Frosinone 6/7",
+     "detalle": "Atalanta 8/10 · Frosinone (en contra) 6/7",
      "ventaja": 0.157
     },
     {
@@ -2587,7 +2587,7 @@
      "texto": "Inter marca menos de 3,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.824,
-     "detalle": "Inter 8/10 · Fiorentina 6/7",
+     "detalle": "Inter 8/10 · Fiorentina (en contra) 6/7",
      "ventaja": 0.042
     },
     {
@@ -2615,7 +2615,7 @@
      "texto": "Juventus marca menos de 2,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.812,
-     "detalle": "Lecce 5/7 · Juventus 8/9",
+     "detalle": "Lecce (en contra) 5/7 · Juventus 8/9",
      "ventaja": 0.098
     },
     {
@@ -2657,7 +2657,7 @@
      "texto": "Sunderland marca menos de 1,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.812,
-     "detalle": "Sunderland 7/9 · Leeds 6/7",
+     "detalle": "Sunderland 7/9 · Leeds (en contra) 6/7",
      "ventaja": 0.077
     },
     {
@@ -2685,7 +2685,7 @@
      "texto": "Strasbourg marca más de 0,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.812,
-     "detalle": "Rennes 7/9 · Strasbourg 6/7",
+     "detalle": "Rennes (en contra) 7/9 · Strasbourg 6/7",
      "ventaja": 0.043
     },
     {
@@ -2713,7 +2713,7 @@
      "texto": "Leeds marca más de 0,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.812,
-     "detalle": "Sunderland 7/9 · Leeds 6/7",
+     "detalle": "Sunderland (en contra) 7/9 · Leeds 6/7",
      "ventaja": 0.031
     },
     {
@@ -2839,7 +2839,7 @@
      "texto": "Athletic Club marca menos de 1,5 goles",
      "cuota": 1.8,
      "frecuencia": 0.778,
-     "detalle": "Athletic Club 6/8 · Getafe 8/10",
+     "detalle": "Athletic Club 6/8 · Getafe (en contra) 8/10",
      "ventaja": 0.222
     },
     {
@@ -2867,7 +2867,7 @@
      "texto": "Marseille marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.75,
-     "detalle": "Marseille 7/9 · Le Havre 5/7",
+     "detalle": "Marseille 7/9 · Le Havre (en contra) 5/7",
      "ventaja": 0.083
     },
     {
@@ -2967,7 +2967,7 @@
      "texto": "Lyon marca más de 0,5 goles",
      "cuota": 1.4,
      "frecuencia": 0.9,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 9/10",
+     "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 9/10",
      "ventaja": 0.186
     },
     {
@@ -2981,7 +2981,7 @@
      "texto": "Bournemouth marca más de 0,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.895,
-     "detalle": "Manchester United 9/10 · Bournemouth 8/9",
+     "detalle": "Manchester United (en contra) 9/10 · Bournemouth 8/9",
      "ventaja": 0.143
     },
     {
@@ -3065,7 +3065,7 @@
      "texto": "Brentford marca menos de 2,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.857,
-     "detalle": "Hull City 7/7 · Brentford 5/7",
+     "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
      "ventaja": 0.122
     },
     {
@@ -3079,7 +3079,7 @@
      "texto": "Lille marca más de 0,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.85,
-     "detalle": "Monaco 8/10 · Lille 9/10",
+     "detalle": "Monaco (en contra) 8/10 · Lille 9/10",
      "ventaja": 0.115
     },
     {
@@ -3093,7 +3093,7 @@
      "texto": "Liverpool marca menos de 2,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.85,
-     "detalle": "Liverpool 8/10 · Brighton 9/10",
+     "detalle": "Liverpool 8/10 · Brighton (en contra) 9/10",
      "ventaja": 0.069
     },
     {
@@ -3121,7 +3121,7 @@
      "texto": "Atalanta marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.824,
-     "detalle": "Atalanta 8/10 · Frosinone 6/7",
+     "detalle": "Atalanta 8/10 · Frosinone (en contra) 6/7",
      "ventaja": 0.157
     },
     {
@@ -3191,7 +3191,7 @@
      "texto": "Marseille marca menos de 2,5 goles",
      "cuota": 1.5,
      "frecuencia": 0.75,
-     "detalle": "Marseille 7/9 · Le Havre 5/7",
+     "detalle": "Marseille 7/9 · Le Havre (en contra) 5/7",
      "ventaja": 0.083
     },
     {
@@ -3270,7 +3270,7 @@
        "texto": "Lyon marca más de 0,5 goles",
        "cuota": 1.4,
        "frecuencia": 0.9,
-       "detalle": "Paris Saint Germain 9/10 · Lyon 9/10",
+       "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 9/10",
        "ventaja": 0.186
       },
       {
@@ -3284,7 +3284,7 @@
        "texto": "Bournemouth marca más de 0,5 goles",
        "cuota": 1.33,
        "frecuencia": 0.895,
-       "detalle": "Manchester United 9/10 · Bournemouth 8/9",
+       "detalle": "Manchester United (en contra) 9/10 · Bournemouth 8/9",
        "ventaja": 0.143
       },
       {
@@ -3317,7 +3317,7 @@
        "texto": "Bayer Leverkusen marca más de 1,5 goles",
        "cuota": 1.67,
        "frecuencia": 0.875,
-       "detalle": "1899 Hoffenheim 6/8 · Bayer Leverkusen 8/8",
+       "detalle": "1899 Hoffenheim (en contra) 6/8 · Bayer Leverkusen 8/8",
        "ventaja": 0.276
       },
       {
@@ -3387,7 +3387,7 @@
        "texto": "Brentford marca menos de 2,5 goles",
        "cuota": 1.36,
        "frecuencia": 0.857,
-       "detalle": "Hull City 7/7 · Brentford 5/7",
+       "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
        "ventaja": 0.122
       },
       {
@@ -3475,7 +3475,7 @@
      "texto": "Torino marca más de 0,5 goles",
      "cuota": 1.44,
      "frecuencia": 0.882,
-     "detalle": "Torino 6/7 · Como 9/10",
+     "detalle": "Torino 6/7 · Como (en contra) 9/10",
      "ventaja": 0.188
     },
     {
@@ -3561,7 +3561,7 @@
      "texto": "Torino marca más de 0,5 goles",
      "cuota": 1.44,
      "frecuencia": 0.882,
-     "detalle": "Torino 6/7 · Como 9/10",
+     "detalle": "Torino 6/7 · Como (en contra) 9/10",
      "ventaja": 0.188
     },
     {
@@ -3626,7 +3626,7 @@
      "texto": "Juventus marca menos de 2,5 goles",
      "cuota": 1.25,
      "frecuencia": 0.875,
-     "detalle": "Genoa 6/7 · Juventus 8/9",
+     "detalle": "Genoa (en contra) 6/7 · Juventus 8/9",
      "ventaja": 0.075
     },
     {
@@ -3668,7 +3668,7 @@
      "texto": "Udinese marca más de 0,5 goles",
      "cuota": 1.3,
      "frecuencia": 0.857,
-     "detalle": "Parma 7/7 · Udinese 5/7",
+     "detalle": "Parma (en contra) 7/7 · Udinese 5/7",
      "ventaja": 0.088
     },
     {
@@ -3696,7 +3696,7 @@
      "texto": "Monza marca más de 0,5 goles",
      "cuota": 1.36,
      "frecuencia": 0.824,
-     "detalle": "Monza 7/7 · Napoli 7/10",
+     "detalle": "Monza 7/7 · Napoli (en contra) 7/10",
      "ventaja": 0.088
     },
     {
@@ -3710,7 +3710,7 @@
      "texto": "Inter marca menos de 3,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.824,
-     "detalle": "Venezia 6/7 · Inter 8/10",
+     "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
      "ventaja": 0.072
     },
     {
@@ -3824,7 +3824,7 @@
      "texto": "Inter marca menos de 3,5 goles",
      "cuota": 1.33,
      "frecuencia": 0.824,
-     "detalle": "Venezia 6/7 · Inter 8/10",
+     "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
      "ventaja": 0.072
     }
    ],
@@ -3875,7 +3875,7 @@
        "texto": "Juventus marca menos de 2,5 goles",
        "cuota": 1.25,
        "frecuencia": 0.875,
-       "detalle": "Genoa 6/7 · Juventus 8/9",
+       "detalle": "Genoa (en contra) 6/7 · Juventus 8/9",
        "ventaja": 0.075
       },
       {
@@ -3903,7 +3903,7 @@
        "texto": "Monza marca más de 0,5 goles",
        "cuota": 1.36,
        "frecuencia": 0.824,
-       "detalle": "Monza 7/7 · Napoli 7/10",
+       "detalle": "Monza 7/7 · Napoli (en contra) 7/10",
        "ventaja": 0.088
       },
       {
@@ -3917,7 +3917,7 @@
        "texto": "Inter marca menos de 3,5 goles",
        "cuota": 1.33,
        "frecuencia": 0.824,
-       "detalle": "Venezia 6/7 · Inter 8/10",
+       "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
        "ventaja": 0.072
       }
      ],
@@ -3981,7 +3981,7 @@
      "texto": "Atalanta marca más de 0,5 goles",
      "cuota": 1.28,
      "frecuencia": 0.882,
-     "detalle": "Fiorentina 7/7 · Atalanta 8/10",
+     "detalle": "Fiorentina (en contra) 7/7 · Atalanta 8/10",
      "ventaja": 0.101
     }
    ],

@@ -209,7 +209,9 @@ def picks_partido(prox, hist, ahora):
                 "texto": texto_pick(mercado, opcion, loc["name"], vis["name"]),
                 "cuota": cuota,
                 "frecuencia": round(frec, 3),
-                "detalle": f"{loc['name']} {a}/{na} · {vis['name']} {b}/{nb}",
+                "detalle": (f"{loc['name']} {a}/{na} · {vis['name']} (en contra) {b}/{nb}" if mercado == "Total - Home"
+                            else f"{loc['name']} (en contra) {a}/{na} · {vis['name']} {b}/{nb}" if mercado == "Total - Away"
+                            else f"{loc['name']} {a}/{na} · {vis['name']} {b}/{nb}"),
                 "ventaja": round(frec - implicita, 3),
             })
     return salida
