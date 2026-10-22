@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22 20:46",
+ "generado": "2026-10-22 23:06",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,855 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-10-22": {
-   "picks": [
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "1899 Hoffenheim marca menos de 2,5 goles",
-     "cuota": 1.36,
-     "frecuencia": 1.0,
-     "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
-     "ventaja": 0.265
-    },
-    {
-     "partido_id": 1636235,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Bournemouth",
-     "visitante": "AC Milan",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Bournemouth marca menos de 2,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.944,
-     "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
-     "ventaja": 0.163
-    },
-    {
-     "partido_id": 1636234,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Beşiktaş",
-     "visitante": "Crystal Palace",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Beşiktaş–Crystal Palace",
-     "cuota": 1.28,
-     "frecuencia": 0.941,
-     "detalle": "Beşiktaş 8/8 · Crystal Palace 8/9",
-     "ventaja": 0.16
-    },
-    {
-     "partido_id": 1636273,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Jagiellonia",
-     "visitante": "Anderlecht",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del Jagiellonia–Anderlecht",
-     "cuota": 1.33,
-     "frecuencia": 0.929,
-     "detalle": "Jagiellonia 6/6 · Anderlecht 7/8",
-     "ventaja": 0.177
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 1.5",
-     "texto": "Menos de 1,5 goles en la 1ª parte del SC Braga–Gent",
-     "cuota": 1.33,
-     "frecuencia": 0.929,
-     "detalle": "SC Braga 6/7 · Gent 7/7",
-     "ventaja": 0.177
-    },
-    {
-     "partido_id": 1636454,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Monaco",
-     "visitante": "SC Freiburg",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del Monaco–SC Freiburg",
-     "cuota": 1.3,
-     "frecuencia": 0.895,
-     "detalle": "Monaco 8/10 · SC Freiburg 9/9",
-     "ventaja": 0.126
-    },
-    {
-     "partido_id": 1636454,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Monaco",
-     "visitante": "SC Freiburg",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "SC Freiburg marca más de 0,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.895,
-     "detalle": "Monaco (en contra) 8/10 · SC Freiburg 9/9",
-     "ventaja": 0.113
-    },
-    {
-     "partido_id": 1636454,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Monaco",
-     "visitante": "SC Freiburg",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Monaco marca menos de 2,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.895,
-     "detalle": "Monaco 8/10 · SC Freiburg (en contra) 9/9",
-     "ventaja": 0.095
-    },
-    {
-     "partido_id": 1636379,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Ajax",
-     "visitante": "Atalanta",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Ajax–Atalanta",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Ajax 6/7 · Atalanta 9/10",
-     "ventaja": 0.082
-    },
-    {
-     "partido_id": 1636379,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Ajax",
-     "visitante": "Atalanta",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "Atalanta marca más de 0,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Ajax (en contra) 7/7 · Atalanta 8/10",
-     "ventaja": 0.082
-    },
-    {
-     "partido_id": 1636378,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Aarhus",
-     "visitante": "Egnatia Rrogozhinë",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
-     "cuota": 1.62,
-     "frecuencia": 0.875,
-     "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
-     "ventaja": 0.258
-    },
-    {
-     "partido_id": 1636442,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Lincoln Red Imps FC",
-     "visitante": "Twente",
-     "mercado": "Total - Away",
-     "opcion": "Under 3.5",
-     "texto": "Twente marca menos de 3,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.875,
-     "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
-     "ventaja": 0.161
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Both Teams Score",
-     "opcion": "No",
-     "texto": "No marcan los dos en SC Braga–Gent",
-     "cuota": 1.73,
-     "frecuencia": 0.857,
-     "detalle": "SC Braga 7/7 · Gent 5/7",
-     "ventaja": 0.279
-    },
-    {
-     "partido_id": 1636273,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Jagiellonia",
-     "visitante": "Anderlecht",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Jagiellonia–Anderlecht",
-     "cuota": 1.28,
-     "frecuencia": 0.857,
-     "detalle": "Jagiellonia 5/6 · Anderlecht 7/8",
-     "ventaja": 0.076
-    },
-    {
-     "partido_id": 1636241,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Celje",
-     "visitante": "Red Bull Salzburg",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 4.5",
-     "texto": "Menos de 4,5 goles en Celje–Red Bull Salzburg",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "detalle": "Celje 7/8 · Red Bull Salzburg 5/6",
-     "ventaja": 0.057
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Total - Away",
-     "opcion": "Under 1.5",
-     "texto": "Gent marca menos de 1,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "detalle": "SC Braga (en contra) 6/7 · Gent 6/7",
-     "ventaja": 0.057
-    },
-    {
-     "partido_id": 1636454,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Monaco",
-     "visitante": "SC Freiburg",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Monaco–SC Freiburg",
-     "cuota": 1.28,
-     "frecuencia": 0.842,
-     "detalle": "Monaco 8/10 · SC Freiburg 8/9",
-     "ventaja": 0.061
-    },
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Corners Over Under",
-     "opcion": "Over 9.5",
-     "texto": "Más de 9,5 córners en 1899 Hoffenheim–Lyon",
-     "cuota": 1.73,
-     "frecuencia": 0.833,
-     "detalle": "1899 Hoffenheim 7/8 · Lyon 8/10",
-     "ventaja": 0.255
-    },
-    {
-     "partido_id": 1636235,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Bournemouth",
-     "visitante": "AC Milan",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "AC Milan marca más de 0,5 goles",
-     "cuota": 1.36,
-     "frecuencia": 0.833,
-     "detalle": "Bournemouth (en contra) 7/9 · AC Milan 8/9",
-     "ventaja": 0.098
-    },
-    {
-     "partido_id": 1636378,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Aarhus",
-     "visitante": "Egnatia Rrogozhinë",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Aarhus marca menos de 2,5 goles",
-     "cuota": 1.5,
-     "frecuencia": 0.812,
-     "detalle": "Aarhus 6/7 · Egnatia Rrogozhinë (en contra) 7/9",
-     "ventaja": 0.146
-    },
-    {
-     "partido_id": 1636474,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "FC Thun",
-     "visitante": "HNK Hajduk Split",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "texto": "HNK Hajduk Split o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.812,
-     "detalle": "FC Thun 6/7 · HNK Hajduk Split 7/9",
-     "ventaja": 0.077
-    },
-    {
-     "partido_id": 1636378,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Aarhus",
-     "visitante": "Egnatia Rrogozhinë",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del Aarhus–Egnatia Rrogozhinë",
-     "cuota": 1.3,
-     "frecuencia": 0.812,
-     "detalle": "Aarhus 5/7 · Egnatia Rrogozhinë 8/9",
-     "ventaja": 0.043
-    },
-    {
-     "partido_id": 1636474,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "FC Thun",
-     "visitante": "HNK Hajduk Split",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del FC Thun–HNK Hajduk Split",
-     "cuota": 1.28,
-     "frecuencia": 0.812,
-     "detalle": "FC Thun 6/7 · HNK Hajduk Split 7/9",
-     "ventaja": 0.031
-    },
-    {
-     "partido_id": 1636474,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "FC Thun",
-     "visitante": "HNK Hajduk Split",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en FC Thun–HNK Hajduk Split",
-     "cuota": 1.28,
-     "frecuencia": 0.812,
-     "detalle": "FC Thun 5/7 · HNK Hajduk Split 8/9",
-     "ventaja": 0.031
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Total - Home",
-     "opcion": "Under 1.5",
-     "texto": "SC Braga marca menos de 1,5 goles",
-     "cuota": 1.67,
-     "frecuencia": 0.786,
-     "detalle": "SC Braga 5/7 · Gent (en contra) 6/7",
-     "ventaja": 0.187
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en SC Braga–Gent",
-     "cuota": 1.65,
-     "frecuencia": 0.786,
-     "detalle": "SC Braga 5/7 · Gent 6/7",
-     "ventaja": 0.18
-    },
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "texto": "Lyon o empate",
-     "cuota": 1.8,
-     "frecuencia": 0.778,
-     "detalle": "1899 Hoffenheim 6/8 · Lyon 8/10",
-     "ventaja": 0.222
-    },
-    {
-     "partido_id": 1636385,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Borac Banja Luka",
-     "visitante": "KuPS",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "KuPS marca más de 0,5 goles",
-     "cuota": 1.57,
-     "frecuencia": 0.778,
-     "detalle": "Borac Banja Luka (en contra) 7/9 · KuPS 7/9",
-     "ventaja": 0.141
-    },
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "texto": "Más de 2,5 goles en 1899 Hoffenheim–Lyon",
-     "cuota": 1.44,
-     "frecuencia": 0.778,
-     "detalle": "1899 Hoffenheim 7/8 · Lyon 7/10",
-     "ventaja": 0.083
-    },
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "texto": "Ambos marcan en 1899 Hoffenheim–Lyon",
-     "cuota": 1.4,
-     "frecuencia": 0.778,
-     "detalle": "1899 Hoffenheim 7/8 · Lyon 7/10",
-     "ventaja": 0.063
-    },
-    {
-     "partido_id": 1636385,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Borac Banja Luka",
-     "visitante": "KuPS",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 1.5",
-     "texto": "Menos de 1,5 goles en la 1ª parte del Borac Banja Luka–KuPS",
-     "cuota": 1.4,
-     "frecuencia": 0.778,
-     "detalle": "Borac Banja Luka 7/9 · KuPS 7/9",
-     "ventaja": 0.063
-    },
-    {
-     "partido_id": 1636442,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Lincoln Red Imps FC",
-     "visitante": "Twente",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 1.5",
-     "texto": "Menos de 1,5 goles en la 1ª parte del Lincoln Red Imps FC–Twente",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "detalle": "Lincoln Red Imps FC 7/9 · Twente 5/7",
-     "ventaja": 0.194
-    },
-    {
-     "partido_id": 1636311,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Omonia Nicosia",
-     "visitante": "Benfica",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "texto": "Omonia Nicosia marca más de 0,5 goles",
-     "cuota": 1.67,
-     "frecuencia": 0.75,
-     "detalle": "Omonia Nicosia 6/8 · Benfica (en contra) 6/8",
-     "ventaja": 0.151
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1636267,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "1899 Hoffenheim",
-     "visitante": "Lyon",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "1899 Hoffenheim marca menos de 2,5 goles",
-     "cuota": 1.36,
-     "frecuencia": 1.0,
-     "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
-     "ventaja": 0.265
-    },
-    {
-     "partido_id": 1636235,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Bournemouth",
-     "visitante": "AC Milan",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Bournemouth marca menos de 2,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.944,
-     "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
-     "ventaja": 0.163
-    },
-    {
-     "partido_id": 1636234,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Beşiktaş",
-     "visitante": "Crystal Palace",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Beşiktaş–Crystal Palace",
-     "cuota": 1.28,
-     "frecuencia": 0.941,
-     "detalle": "Beşiktaş 8/8 · Crystal Palace 8/9",
-     "ventaja": 0.16
-    },
-    {
-     "partido_id": 1636273,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Jagiellonia",
-     "visitante": "Anderlecht",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del Jagiellonia–Anderlecht",
-     "cuota": 1.33,
-     "frecuencia": 0.929,
-     "detalle": "Jagiellonia 6/6 · Anderlecht 7/8",
-     "ventaja": 0.177
-    },
-    {
-     "partido_id": 1636388,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "SC Braga",
-     "visitante": "Gent",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 1.5",
-     "texto": "Menos de 1,5 goles en la 1ª parte del SC Braga–Gent",
-     "cuota": 1.33,
-     "frecuencia": 0.929,
-     "detalle": "SC Braga 6/7 · Gent 7/7",
-     "ventaja": 0.177
-    },
-    {
-     "partido_id": 1636454,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Monaco",
-     "visitante": "SC Freiburg",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "texto": "Más de 0,5 goles en la 1ª parte del Monaco–SC Freiburg",
-     "cuota": 1.3,
-     "frecuencia": 0.895,
-     "detalle": "Monaco 8/10 · SC Freiburg 9/9",
-     "ventaja": 0.126
-    },
-    {
-     "partido_id": 1636379,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Ajax",
-     "visitante": "Atalanta",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "texto": "No hay empate en Ajax–Atalanta",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Ajax 6/7 · Atalanta 9/10",
-     "ventaja": 0.082
-    },
-    {
-     "partido_id": 1636378,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Aarhus",
-     "visitante": "Egnatia Rrogozhinë",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
-     "cuota": 1.62,
-     "frecuencia": 0.875,
-     "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
-     "ventaja": 0.258
-    },
-    {
-     "partido_id": 1636442,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Lincoln Red Imps FC",
-     "visitante": "Twente",
-     "mercado": "Total - Away",
-     "opcion": "Under 3.5",
-     "texto": "Twente marca menos de 3,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.875,
-     "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
-     "ventaja": 0.161
-    },
-    {
-     "partido_id": 1636241,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Celje",
-     "visitante": "Red Bull Salzburg",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 4.5",
-     "texto": "Menos de 4,5 goles en Celje–Red Bull Salzburg",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "detalle": "Celje 7/8 · Red Bull Salzburg 5/6",
-     "ventaja": 0.057
-    },
-    {
-     "partido_id": 1636474,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "FC Thun",
-     "visitante": "HNK Hajduk Split",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "texto": "HNK Hajduk Split o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.812,
-     "detalle": "FC Thun 6/7 · HNK Hajduk Split 7/9",
-     "ventaja": 0.077
-    },
-    {
-     "partido_id": 1636385,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Conference",
-     "local": "Borac Banja Luka",
-     "visitante": "KuPS",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "texto": "KuPS marca más de 0,5 goles",
-     "cuota": 1.57,
-     "frecuencia": 0.778,
-     "detalle": "Borac Banja Luka (en contra) 7/9 · KuPS 7/9",
-     "ventaja": 0.141
-    },
-    {
-     "partido_id": 1636311,
-     "fecha": "2026-10-22T21:00",
-     "competicion": "Europa League",
-     "local": "Omonia Nicosia",
-     "visitante": "Benfica",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "texto": "Omonia Nicosia marca más de 0,5 goles",
-     "cuota": 1.67,
-     "frecuencia": 0.75,
-     "detalle": "Omonia Nicosia 6/8 · Benfica (en contra) 6/8",
-     "ventaja": 0.151
-    }
-   ],
-   "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1636267,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Europa League",
-       "local": "1899 Hoffenheim",
-       "visitante": "Lyon",
-       "mercado": "Total - Home",
-       "opcion": "Under 2.5",
-       "texto": "1899 Hoffenheim marca menos de 2,5 goles",
-       "cuota": 1.36,
-       "frecuencia": 1.0,
-       "detalle": "1899 Hoffenheim 8/8 · Lyon (en contra) 10/10",
-       "ventaja": 0.265
-      },
-      {
-       "partido_id": 1636235,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Europa League",
-       "local": "Bournemouth",
-       "visitante": "AC Milan",
-       "mercado": "Total - Home",
-       "opcion": "Under 2.5",
-       "texto": "Bournemouth marca menos de 2,5 goles",
-       "cuota": 1.28,
-       "frecuencia": 0.944,
-       "detalle": "Bournemouth 8/9 · AC Milan (en contra) 9/9",
-       "ventaja": 0.163
-      }
-     ],
-     "cuota": 1.74
-    },
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1636234,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Europa League",
-       "local": "Beşiktaş",
-       "visitante": "Crystal Palace",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "texto": "No hay empate en Beşiktaş–Crystal Palace",
-       "cuota": 1.28,
-       "frecuencia": 0.941,
-       "detalle": "Beşiktaş 8/8 · Crystal Palace 8/9",
-       "ventaja": 0.16
-      },
-      {
-       "partido_id": 1636273,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Europa League",
-       "local": "Jagiellonia",
-       "visitante": "Anderlecht",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "texto": "Más de 0,5 goles en la 1ª parte del Jagiellonia–Anderlecht",
-       "cuota": 1.33,
-       "frecuencia": 0.929,
-       "detalle": "Jagiellonia 6/6 · Anderlecht 7/8",
-       "ventaja": 0.177
-      },
-      {
-       "partido_id": 1636388,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "SC Braga",
-       "visitante": "Gent",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Under 1.5",
-       "texto": "Menos de 1,5 goles en la 1ª parte del SC Braga–Gent",
-       "cuota": 1.33,
-       "frecuencia": 0.929,
-       "detalle": "SC Braga 6/7 · Gent 7/7",
-       "ventaja": 0.177
-      },
-      {
-       "partido_id": 1636454,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Monaco",
-       "visitante": "SC Freiburg",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "texto": "Más de 0,5 goles en la 1ª parte del Monaco–SC Freiburg",
-       "cuota": 1.3,
-       "frecuencia": 0.895,
-       "detalle": "Monaco 8/10 · SC Freiburg 9/9",
-       "ventaja": 0.126
-      },
-      {
-       "partido_id": 1636379,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Ajax",
-       "visitante": "Atalanta",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "texto": "No hay empate en Ajax–Atalanta",
-       "cuota": 1.25,
-       "frecuencia": 0.882,
-       "detalle": "Ajax 6/7 · Atalanta 9/10",
-       "ventaja": 0.082
-      }
-     ],
-     "cuota": 3.68
-    },
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1636454,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Monaco",
-       "visitante": "SC Freiburg",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "texto": "SC Freiburg marca más de 0,5 goles",
-       "cuota": 1.28,
-       "frecuencia": 0.895,
-       "detalle": "Monaco (en contra) 8/10 · SC Freiburg 9/9",
-       "ventaja": 0.113
-      },
-      {
-       "partido_id": 1636379,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Ajax",
-       "visitante": "Atalanta",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "texto": "Atalanta marca más de 0,5 goles",
-       "cuota": 1.25,
-       "frecuencia": 0.882,
-       "detalle": "Ajax (en contra) 7/7 · Atalanta 8/10",
-       "ventaja": 0.082
-      },
-      {
-       "partido_id": 1636378,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Aarhus",
-       "visitante": "Egnatia Rrogozhinë",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "texto": "Egnatia Rrogozhinë marca más de 0,5 goles",
-       "cuota": 1.62,
-       "frecuencia": 0.875,
-       "detalle": "Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9",
-       "ventaja": 0.258
-      },
-      {
-       "partido_id": 1636442,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "Lincoln Red Imps FC",
-       "visitante": "Twente",
-       "mercado": "Total - Away",
-       "opcion": "Under 3.5",
-       "texto": "Twente marca menos de 3,5 goles",
-       "cuota": 1.4,
-       "frecuencia": 0.875,
-       "detalle": "Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7",
-       "ventaja": 0.161
-      },
-      {
-       "partido_id": 1636388,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Conference",
-       "local": "SC Braga",
-       "visitante": "Gent",
-       "mercado": "Both Teams Score",
-       "opcion": "No",
-       "texto": "No marcan los dos en SC Braga–Gent",
-       "cuota": 1.73,
-       "frecuencia": 0.857,
-       "detalle": "SC Braga 7/7 · Gent 5/7",
-       "ventaja": 0.279
-      },
-      {
-       "partido_id": 1636273,
-       "fecha": "2026-10-22T21:00",
-       "competicion": "Europa League",
-       "local": "Jagiellonia",
-       "visitante": "Anderlecht",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "texto": "No hay empate en Jagiellonia–Anderlecht",
-       "cuota": 1.28,
-       "frecuencia": 0.857,
-       "detalle": "Jagiellonia 5/6 · Anderlecht 7/8",
-       "ventaja": 0.076
-      }
-     ],
-     "cuota": 8.04
-    }
-   }
-  },
   "2026-10-23": {
    "picks": [
     {
@@ -1056,20 +207,6 @@
   "2026-10-24": {
    "picks": [
     {
-     "partido_id": 1570425,
-     "fecha": "2026-10-24T21:00",
-     "competicion": "LaLiga",
-     "local": "Atletico Madrid",
-     "visitante": "Deportivo La Coruna",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "Atletico Madrid marca menos de 3,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.947,
-     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
-     "ventaja": 0.147
-    },
-    {
      "partido_id": 1570428,
      "fecha": "2026-10-24T16:15",
      "competicion": "LaLiga",
@@ -1112,20 +249,6 @@
      "ventaja": 0.245
     },
     {
-     "partido_id": 1557437,
-     "fecha": "2026-10-24T16:00",
-     "competicion": "Premier",
-     "local": "Arsenal",
-     "visitante": "Everton",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Arsenal marca menos de 2,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.882,
-     "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
-     "ventaja": 0.168
-    },
-    {
      "partido_id": 1570429,
      "fecha": "2026-10-24T14:00",
      "competicion": "LaLiga",
@@ -1140,20 +263,6 @@
      "ventaja": 0.082
     },
     {
-     "partido_id": 1575195,
-     "fecha": "2026-10-24T15:30",
-     "competicion": "Bundesliga",
-     "local": "RB Leipzig",
-     "visitante": "SV Elversberg",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "RB Leipzig marca menos de 3,5 goles",
-     "cuota": 1.33,
-     "frecuencia": 0.867,
-     "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
-     "ventaja": 0.115
-    },
-    {
      "partido_id": 1550158,
      "fecha": "2026-10-24T15:00",
      "competicion": "Serie A",
@@ -1166,20 +275,6 @@
      "frecuencia": 0.857,
      "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7",
      "ventaja": 0.143
-    },
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Lazio–Parma",
-     "cuota": 1.36,
-     "frecuencia": 0.857,
-     "detalle": "Lazio 5/7 · Parma 7/7",
-     "ventaja": 0.122
     },
     {
      "partido_id": 1550158,
@@ -1238,20 +333,6 @@
      "ventaja": 0.064
     },
     {
-     "partido_id": 1575201,
-     "fecha": "2026-10-24T15:30",
-     "competicion": "Bundesliga",
-     "local": "1. FC Köln",
-     "visitante": "FC Schalke 04",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "1. FC Köln marca menos de 2,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.833,
-     "detalle": "1. FC Köln 5/6 · FC Schalke 04 (en contra) 5/6",
-     "ventaja": 0.052
-    },
-    {
      "partido_id": 1575202,
      "fecha": "2026-10-24T15:30",
      "competicion": "Bundesliga",
@@ -1278,20 +359,6 @@
      "frecuencia": 0.833,
      "detalle": "FSV Mainz 05 5/6 · Werder Bremen 5/6",
      "ventaja": 0.033
-    },
-    {
-     "partido_id": 1557437,
-     "fecha": "2026-10-24T16:00",
-     "competicion": "Premier",
-     "local": "Arsenal",
-     "visitante": "Everton",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Arsenal–Everton",
-     "cuota": 1.36,
-     "frecuencia": 0.824,
-     "detalle": "Arsenal 9/10 · Everton 5/7",
-     "ventaja": 0.088
     },
     {
      "partido_id": 1552795,
@@ -1334,20 +401,6 @@
      "frecuencia": 0.8,
      "detalle": "Napoli 7/10 · AS Roma 9/10",
      "ventaja": 0.019
-    },
-    {
-     "partido_id": 1570425,
-     "fecha": "2026-10-24T21:00",
-     "competicion": "LaLiga",
-     "local": "Atletico Madrid",
-     "visitante": "Deportivo La Coruna",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Atletico Madrid marca menos de 2,5 goles",
-     "cuota": 1.73,
-     "frecuencia": 0.789,
-     "detalle": "Atletico Madrid 7/10 · Deportivo La Coruna (en contra) 8/9",
-     "ventaja": 0.211
     },
     {
      "partido_id": 1550158,
@@ -1478,20 +531,6 @@
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1570425,
-     "fecha": "2026-10-24T21:00",
-     "competicion": "LaLiga",
-     "local": "Atletico Madrid",
-     "visitante": "Deportivo La Coruna",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "Atletico Madrid marca menos de 3,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.947,
-     "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
-     "ventaja": 0.147
-    },
-    {
      "partido_id": 1570428,
      "fecha": "2026-10-24T16:15",
      "competicion": "LaLiga",
@@ -1520,20 +559,6 @@
      "ventaja": 0.227
     },
     {
-     "partido_id": 1557437,
-     "fecha": "2026-10-24T16:00",
-     "competicion": "Premier",
-     "local": "Arsenal",
-     "visitante": "Everton",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Arsenal marca menos de 2,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.882,
-     "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
-     "ventaja": 0.168
-    },
-    {
      "partido_id": 1570429,
      "fecha": "2026-10-24T14:00",
      "competicion": "LaLiga",
@@ -1548,20 +573,6 @@
      "ventaja": 0.082
     },
     {
-     "partido_id": 1575195,
-     "fecha": "2026-10-24T15:30",
-     "competicion": "Bundesliga",
-     "local": "RB Leipzig",
-     "visitante": "SV Elversberg",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "RB Leipzig marca menos de 3,5 goles",
-     "cuota": 1.33,
-     "frecuencia": 0.867,
-     "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
-     "ventaja": 0.115
-    },
-    {
      "partido_id": 1550158,
      "fecha": "2026-10-24T15:00",
      "competicion": "Serie A",
@@ -1574,20 +585,6 @@
      "frecuencia": 0.857,
      "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7",
      "ventaja": 0.143
-    },
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Lazio–Parma",
-     "cuota": 1.36,
-     "frecuencia": 0.857,
-     "detalle": "Lazio 5/7 · Parma 7/7",
-     "ventaja": 0.122
     },
     {
      "partido_id": 1557440,
@@ -1672,25 +669,25 @@
      "frecuencia": 0.8,
      "detalle": "Napoli 9/10 · AS Roma 7/10",
      "ventaja": 0.065
+    },
+    {
+     "partido_id": 1550162,
+     "fecha": "2026-10-24T20:45",
+     "competicion": "Serie A",
+     "local": "Lazio",
+     "visitante": "Parma",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "texto": "Gana el Lazio",
+     "cuota": 1.4,
+     "frecuencia": 0.786,
+     "detalle": "Lazio 6/7 · Parma 5/7",
+     "ventaja": 0.071
     }
    ],
    "combis": {
     "segura": {
      "picks": [
-      {
-       "partido_id": 1570425,
-       "fecha": "2026-10-24T21:00",
-       "competicion": "LaLiga",
-       "local": "Atletico Madrid",
-       "visitante": "Deportivo La Coruna",
-       "mercado": "Total - Home",
-       "opcion": "Under 3.5",
-       "texto": "Atletico Madrid marca menos de 3,5 goles",
-       "cuota": 1.25,
-       "frecuencia": 0.947,
-       "detalle": "Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9",
-       "ventaja": 0.147
-      },
       {
        "partido_id": 1570428,
        "fecha": "2026-10-24T16:15",
@@ -1704,12 +701,7 @@
        "frecuencia": 0.944,
        "detalle": "Racing Santander (en contra) 9/9 · Espanyol 8/9",
        "ventaja": 0.144
-      }
-     ],
-     "cuota": 1.56
-    },
-    "cuota_3": {
-     "picks": [
+      },
       {
        "partido_id": 1550159,
        "fecha": "2026-10-24T15:00",
@@ -1723,53 +715,11 @@
        "frecuencia": 0.941,
        "detalle": "Como (en contra) 9/10 · Sassuolo 7/7",
        "ventaja": 0.227
-      },
-      {
-       "partido_id": 1557437,
-       "fecha": "2026-10-24T16:00",
-       "competicion": "Premier",
-       "local": "Arsenal",
-       "visitante": "Everton",
-       "mercado": "Total - Home",
-       "opcion": "Under 2.5",
-       "texto": "Arsenal marca menos de 2,5 goles",
-       "cuota": 1.4,
-       "frecuencia": 0.882,
-       "detalle": "Arsenal 8/10 · Everton (en contra) 7/7",
-       "ventaja": 0.168
-      },
-      {
-       "partido_id": 1570429,
-       "fecha": "2026-10-24T14:00",
-       "competicion": "LaLiga",
-       "local": "Rayo Vallecano",
-       "visitante": "Elche",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
-       "cuota": 1.25,
-       "frecuencia": 0.882,
-       "detalle": "Rayo Vallecano 8/8 · Elche 7/9",
-       "ventaja": 0.082
-      },
-      {
-       "partido_id": 1575195,
-       "fecha": "2026-10-24T15:30",
-       "competicion": "Bundesliga",
-       "local": "RB Leipzig",
-       "visitante": "SV Elversberg",
-       "mercado": "Total - Home",
-       "opcion": "Under 3.5",
-       "texto": "RB Leipzig marca menos de 3,5 goles",
-       "cuota": 1.33,
-       "frecuencia": 0.867,
-       "detalle": "RB Leipzig 7/9 · SV Elversberg (en contra) 6/6",
-       "ventaja": 0.115
       }
      ],
-     "cuota": 3.26
+     "cuota": 1.75
     },
-    "loca": {
+    "cuota_3": {
      "picks": [
       {
        "partido_id": 1550159,
@@ -1786,6 +736,20 @@
        "ventaja": 0.245
       },
       {
+       "partido_id": 1570429,
+       "fecha": "2026-10-24T14:00",
+       "competicion": "LaLiga",
+       "local": "Rayo Vallecano",
+       "visitante": "Elche",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
+       "cuota": 1.25,
+       "frecuencia": 0.882,
+       "detalle": "Rayo Vallecano 8/8 · Elche 7/9",
+       "ventaja": 0.082
+      },
+      {
        "partido_id": 1550158,
        "fecha": "2026-10-24T15:00",
        "competicion": "Serie A",
@@ -1800,20 +764,6 @@
        "ventaja": 0.143
       },
       {
-       "partido_id": 1550162,
-       "fecha": "2026-10-24T20:45",
-       "competicion": "Serie A",
-       "local": "Lazio",
-       "visitante": "Parma",
-       "mercado": "Goals Over/Under",
-       "opcion": "Under 3.5",
-       "texto": "Menos de 3,5 goles en Lazio–Parma",
-       "cuota": 1.36,
-       "frecuencia": 0.857,
-       "detalle": "Lazio 5/7 · Parma 7/7",
-       "ventaja": 0.122
-      },
-      {
        "partido_id": 1557440,
        "fecha": "2026-10-24T16:00",
        "competicion": "Premier",
@@ -1826,6 +776,25 @@
        "frecuencia": 0.857,
        "detalle": "Coventry 7/7 · Fulham 5/7",
        "ventaja": 0.088
+      }
+     ],
+     "cuota": 3.57
+    },
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1550158,
+       "fecha": "2026-10-24T15:00",
+       "competicion": "Serie A",
+       "local": "Cagliari",
+       "visitante": "Bologna",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Under 1.5",
+       "texto": "Menos de 1,5 goles en la 1ª parte del Cagliari–Bologna",
+       "cuota": 1.33,
+       "frecuencia": 0.857,
+       "detalle": "Cagliari 6/7 · Bologna 6/7",
+       "ventaja": 0.105
       },
       {
        "partido_id": 1575201,
@@ -1868,9 +837,65 @@
        "frecuencia": 0.833,
        "detalle": "SC Paderborn 07 5/6 · Hamburger SV 5/6",
        "ventaja": 0.052
+      },
+      {
+       "partido_id": 1575200,
+       "fecha": "2026-10-24T15:30",
+       "competicion": "Bundesliga",
+       "local": "FSV Mainz 05",
+       "visitante": "Werder Bremen",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "texto": "Más de 0,5 goles en la 1ª parte del FSV Mainz 05–Werder Bremen",
+       "cuota": 1.25,
+       "frecuencia": 0.833,
+       "detalle": "FSV Mainz 05 5/6 · Werder Bremen 5/6",
+       "ventaja": 0.033
+      },
+      {
+       "partido_id": 1552795,
+       "fecha": "2026-10-24T20:45",
+       "competicion": "Ligue 1",
+       "local": "Lens",
+       "visitante": "Paris FC",
+       "mercado": "Double Chance",
+       "opcion": "Home/Away",
+       "texto": "No hay empate en Lens–Paris FC",
+       "cuota": 1.28,
+       "frecuencia": 0.824,
+       "detalle": "Lens 9/10 · Paris FC 5/7",
+       "ventaja": 0.042
+      },
+      {
+       "partido_id": 1550164,
+       "fecha": "2026-10-24T18:00",
+       "competicion": "Serie A",
+       "local": "Napoli",
+       "visitante": "AS Roma",
+       "mercado": "Double Chance",
+       "opcion": "Home/Away",
+       "texto": "No hay empate en Napoli–AS Roma",
+       "cuota": 1.36,
+       "frecuencia": 0.8,
+       "detalle": "Napoli 9/10 · AS Roma 7/10",
+       "ventaja": 0.065
+      },
+      {
+       "partido_id": 1557440,
+       "fecha": "2026-10-24T16:00",
+       "competicion": "Premier",
+       "local": "Coventry",
+       "visitante": "Fulham",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Under 1.5",
+       "texto": "Menos de 1,5 goles en la 1ª parte del Coventry–Fulham",
+       "cuota": 1.5,
+       "frecuencia": 0.786,
+       "detalle": "Coventry 6/7 · Fulham 5/7",
+       "ventaja": 0.119
       }
      ],
-     "cuota": 10.15
+     "cuota": 11.34
     }
    }
   },
@@ -1989,34 +1014,6 @@
      "ventaja": 0.082
     },
     {
-     "partido_id": 1557446,
-     "fecha": "2026-10-25T17:30",
-     "competicion": "Premier",
-     "local": "Sunderland",
-     "visitante": "Leeds",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Sunderland–Leeds",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Sunderland 9/10 · Leeds 6/7",
-     "ventaja": 0.082
-    },
-    {
-     "partido_id": 1575197,
-     "fecha": "2026-10-25T15:30",
-     "competicion": "Bundesliga",
-     "local": "1899 Hoffenheim",
-     "visitante": "Bayer Leverkusen",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "1899 Hoffenheim marca menos de 2,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "1899 Hoffenheim 8/8 · Bayer Leverkusen (en contra) 7/9",
-     "ventaja": 0.082
-    },
-    {
      "partido_id": 1557441,
      "fecha": "2026-10-25T15:00",
      "competicion": "Premier",
@@ -2057,20 +1054,6 @@
      "frecuencia": 0.857,
      "detalle": "Auxerre 6/7 · Le Mans 6/7",
      "ventaja": 0.22
-    },
-    {
-     "partido_id": 1557442,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "local": "Hull City",
-     "visitante": "Brentford",
-     "mercado": "Total - Away",
-     "opcion": "Under 2.5",
-     "texto": "Brentford marca menos de 2,5 goles",
-     "cuota": 1.36,
-     "frecuencia": 0.857,
-     "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
-     "ventaja": 0.122
     },
     {
      "partido_id": 1550160,
@@ -2143,62 +1126,6 @@
      "ventaja": 0.115
     },
     {
-     "partido_id": 1557444,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "local": "Liverpool",
-     "visitante": "Brighton",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Liverpool marca menos de 2,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.85,
-     "detalle": "Liverpool 8/10 · Brighton (en contra) 9/10",
-     "ventaja": 0.069
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "Paris Saint Germain marca menos de 3,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.85,
-     "detalle": "Paris Saint Germain 7/10 · Lyon (en contra) 10/10",
-     "ventaja": 0.05
-    },
-    {
-     "partido_id": 1557445,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "local": "Manchester United",
-     "visitante": "Bournemouth",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Manchester United marca menos de 2,5 goles",
-     "cuota": 1.3,
-     "frecuencia": 0.842,
-     "detalle": "Manchester United 8/10 · Bournemouth (en contra) 8/9",
-     "ventaja": 0.073
-    },
-    {
-     "partido_id": 1575198,
-     "fecha": "2026-10-25T17:30",
-     "competicion": "Bundesliga",
-     "local": "SC Freiburg",
-     "visitante": "Bayern München",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en la 1ª parte del SC Freiburg–Bayern München",
-     "cuota": 1.3,
-     "frecuencia": 0.833,
-     "detalle": "SC Freiburg 8/9 · Bayern München 7/9",
-     "ventaja": 0.064
-    },
-    {
      "partido_id": 1552796,
      "fecha": "2026-10-25T17:15",
      "competicion": "Ligue 1",
@@ -2211,20 +1138,6 @@
      "frecuencia": 0.824,
      "detalle": "Marseille 7/10 · Le Havre 7/7",
      "ventaja": 0.206
-    },
-    {
-     "partido_id": 1550157,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Serie A",
-     "local": "Atalanta",
-     "visitante": "Frosinone",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Atalanta marca menos de 2,5 goles",
-     "cuota": 1.5,
-     "frecuencia": 0.824,
-     "detalle": "Atalanta 8/10 · Frosinone (en contra) 6/7",
-     "ventaja": 0.157
     },
     {
      "partido_id": 1550161,
@@ -2253,20 +1166,6 @@
      "frecuencia": 0.824,
      "detalle": "Rennes 8/10 · Strasbourg 6/7",
      "ventaja": 0.129
-    },
-    {
-     "partido_id": 1550163,
-     "fecha": "2026-10-25T18:00",
-     "competicion": "Serie A",
-     "local": "Lecce",
-     "visitante": "Juventus",
-     "mercado": "Total - Away",
-     "opcion": "Under 2.5",
-     "texto": "Juventus marca menos de 2,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.824,
-     "detalle": "Lecce (en contra) 5/7 · Juventus 9/10",
-     "ventaja": 0.109
     },
     {
      "partido_id": 1575197,
@@ -2337,20 +1236,6 @@
      "frecuencia": 0.824,
      "detalle": "Rennes (en contra) 8/10 · Strasbourg 6/7",
      "ventaja": 0.054
-    },
-    {
-     "partido_id": 1550161,
-     "fecha": "2026-10-25T12:30",
-     "competicion": "Serie A",
-     "local": "Inter",
-     "visitante": "Fiorentina",
-     "mercado": "Total - Home",
-     "opcion": "Under 3.5",
-     "texto": "Inter marca menos de 3,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.824,
-     "detalle": "Inter 8/10 · Fiorentina (en contra) 6/7",
-     "ventaja": 0.042
     },
     {
      "partido_id": 1557446,
@@ -2507,20 +1392,6 @@
      "ventaja": 0.009
     },
     {
-     "partido_id": 1552796,
-     "fecha": "2026-10-25T17:15",
-     "competicion": "Ligue 1",
-     "local": "Marseille",
-     "visitante": "Le Havre",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Marseille marca menos de 2,5 goles",
-     "cuota": 1.5,
-     "frecuencia": 0.765,
-     "detalle": "Marseille 8/10 · Le Havre (en contra) 5/7",
-     "ventaja": 0.098
-    },
-    {
      "partido_id": 1552798,
      "fecha": "2026-10-25T17:15",
      "competicion": "Ligue 1",
@@ -2589,20 +1460,6 @@
      "frecuencia": 0.75,
      "detalle": "Crystal Palace 7/9 · Newcastle 5/7",
      "ventaja": 0.133
-    },
-    {
-     "partido_id": 1570426,
-     "fecha": "2026-10-25T21:00",
-     "competicion": "LaLiga",
-     "local": "Barcelona",
-     "visitante": "Real Madrid",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en la 1ª parte del Barcelona–Real Madrid",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "detalle": "Barcelona 7/10 · Real Madrid 8/10",
-     "ventaja": 0.015
     }
    ],
    "mejores_por_partido": [
@@ -2705,20 +1562,6 @@
      "ventaja": 0.082
     },
     {
-     "partido_id": 1557446,
-     "fecha": "2026-10-25T17:30",
-     "competicion": "Premier",
-     "local": "Sunderland",
-     "visitante": "Leeds",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Sunderland–Leeds",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Sunderland 9/10 · Leeds 6/7",
-     "ventaja": 0.082
-    },
-    {
      "partido_id": 1557441,
      "fecha": "2026-10-25T15:00",
      "competicion": "Premier",
@@ -2747,20 +1590,6 @@
      "ventaja": 0.279
     },
     {
-     "partido_id": 1557442,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "local": "Hull City",
-     "visitante": "Brentford",
-     "mercado": "Total - Away",
-     "opcion": "Under 2.5",
-     "texto": "Brentford marca menos de 2,5 goles",
-     "cuota": 1.36,
-     "frecuencia": 0.857,
-     "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
-     "ventaja": 0.122
-    },
-    {
      "partido_id": 1552797,
      "fecha": "2026-10-25T15:00",
      "competicion": "Ligue 1",
@@ -2775,20 +1604,6 @@
      "ventaja": 0.115
     },
     {
-     "partido_id": 1557444,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "local": "Liverpool",
-     "visitante": "Brighton",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Liverpool marca menos de 2,5 goles",
-     "cuota": 1.28,
-     "frecuencia": 0.85,
-     "detalle": "Liverpool 8/10 · Brighton (en contra) 9/10",
-     "ventaja": 0.069
-    },
-    {
      "partido_id": 1552796,
      "fecha": "2026-10-25T17:15",
      "competicion": "Ligue 1",
@@ -2801,20 +1616,6 @@
      "frecuencia": 0.824,
      "detalle": "Marseille 7/10 · Le Havre 7/7",
      "ventaja": 0.206
-    },
-    {
-     "partido_id": 1550157,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Serie A",
-     "local": "Atalanta",
-     "visitante": "Frosinone",
-     "mercado": "Total - Home",
-     "opcion": "Under 2.5",
-     "texto": "Atalanta marca menos de 2,5 goles",
-     "cuota": 1.5,
-     "frecuencia": 0.824,
-     "detalle": "Atalanta 8/10 · Frosinone (en contra) 6/7",
-     "ventaja": 0.157
     },
     {
      "partido_id": 1550161,
@@ -2843,6 +1644,34 @@
      "frecuencia": 0.824,
      "detalle": "Rennes 8/10 · Strasbourg 6/7",
      "ventaja": 0.129
+    },
+    {
+     "partido_id": 1557446,
+     "fecha": "2026-10-25T17:30",
+     "competicion": "Premier",
+     "local": "Sunderland",
+     "visitante": "Leeds",
+     "mercado": "Total - Home",
+     "opcion": "Under 1.5",
+     "texto": "Sunderland marca menos de 1,5 goles",
+     "cuota": 1.36,
+     "frecuencia": 0.824,
+     "detalle": "Sunderland 8/10 · Leeds (en contra) 6/7",
+     "ventaja": 0.088
+    },
+    {
+     "partido_id": 1550157,
+     "fecha": "2026-10-25T15:00",
+     "competicion": "Serie A",
+     "local": "Atalanta",
+     "visitante": "Frosinone",
+     "mercado": "Goals Over/Under",
+     "opcion": "Under 4.5",
+     "texto": "Menos de 4,5 goles en Atalanta–Frosinone",
+     "cuota": 1.33,
+     "frecuencia": 0.824,
+     "detalle": "Atalanta 9/10 · Frosinone 5/7",
+     "ventaja": 0.072
     },
     {
      "partido_id": 1570427,
@@ -2885,20 +1714,6 @@
      "frecuencia": 0.778,
      "detalle": "Athletic Club 6/8 · Getafe 8/10",
      "ventaja": 0.009
-    },
-    {
-     "partido_id": 1570426,
-     "fecha": "2026-10-25T21:00",
-     "competicion": "LaLiga",
-     "local": "Barcelona",
-     "visitante": "Real Madrid",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en la 1ª parte del Barcelona–Real Madrid",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "detalle": "Barcelona 7/10 · Real Madrid 8/10",
-     "ventaja": 0.015
     }
    ],
    "combis": {
@@ -3027,20 +1842,6 @@
        "ventaja": 0.082
       },
       {
-       "partido_id": 1557446,
-       "fecha": "2026-10-25T17:30",
-       "competicion": "Premier",
-       "local": "Sunderland",
-       "visitante": "Leeds",
-       "mercado": "Goals Over/Under",
-       "opcion": "Under 3.5",
-       "texto": "Menos de 3,5 goles en Sunderland–Leeds",
-       "cuota": 1.25,
-       "frecuencia": 0.882,
-       "detalle": "Sunderland 9/10 · Leeds 6/7",
-       "ventaja": 0.082
-      },
-      {
        "partido_id": 1557441,
        "fecha": "2026-10-25T15:00",
        "competicion": "Premier",
@@ -3069,20 +1870,6 @@
        "ventaja": 0.279
       },
       {
-       "partido_id": 1557442,
-       "fecha": "2026-10-25T15:00",
-       "competicion": "Premier",
-       "local": "Hull City",
-       "visitante": "Brentford",
-       "mercado": "Total - Away",
-       "opcion": "Under 2.5",
-       "texto": "Brentford marca menos de 2,5 goles",
-       "cuota": 1.36,
-       "frecuencia": 0.857,
-       "detalle": "Hull City (en contra) 7/7 · Brentford 5/7",
-       "ventaja": 0.122
-      },
-      {
        "partido_id": 1550160,
        "fecha": "2026-10-25T15:00",
        "competicion": "Serie A",
@@ -3095,9 +1882,23 @@
        "frecuencia": 0.857,
        "detalle": "Genoa 6/7 · Venezia 6/7",
        "ventaja": 0.088
+      },
+      {
+       "partido_id": 1552800,
+       "fecha": "2026-10-25T20:45",
+       "competicion": "Ligue 1",
+       "local": "Paris Saint Germain",
+       "visitante": "Lyon",
+       "mercado": "Cards Over/Under",
+       "opcion": "Under 4.5",
+       "texto": "Menos de 4,5 tarjetas en Paris Saint Germain–Lyon",
+       "cuota": 1.62,
+       "frecuencia": 0.85,
+       "detalle": "Paris Saint Germain 9/10 · Lyon 8/10",
+       "ventaja": 0.233
       }
      ],
-     "cuota": 10.22
+     "cuota": 9.74
     }
    }
   },
@@ -3308,20 +2109,6 @@
      "ventaja": 0.101
     },
     {
-     "partido_id": 1550171,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "local": "Genoa",
-     "visitante": "Juventus",
-     "mercado": "Total - Away",
-     "opcion": "Under 2.5",
-     "texto": "Juventus marca menos de 2,5 goles",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Genoa (en contra) 6/7 · Juventus 9/10",
-     "ventaja": 0.082
-    },
-    {
      "partido_id": 1550173,
      "fecha": "2026-10-28T18:30",
      "competicion": "Serie A",
@@ -3364,20 +2151,6 @@
      "ventaja": 0.088
     },
     {
-     "partido_id": 1550173,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "local": "Parma",
-     "visitante": "Udinese",
-     "mercado": "Goals Over/Under",
-     "opcion": "Under 3.5",
-     "texto": "Menos de 3,5 goles en Parma–Udinese",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "detalle": "Parma 7/7 · Udinese 5/7",
-     "ventaja": 0.057
-    },
-    {
      "partido_id": 1550172,
      "fecha": "2026-10-28T20:45",
      "competicion": "Serie A",
@@ -3390,20 +2163,6 @@
      "frecuencia": 0.824,
      "detalle": "Monza 7/7 · Napoli (en contra) 7/10",
      "ventaja": 0.088
-    },
-    {
-     "partido_id": 1550176,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "local": "Venezia",
-     "visitante": "Inter",
-     "mercado": "Total - Away",
-     "opcion": "Under 3.5",
-     "texto": "Inter marca menos de 3,5 goles",
-     "cuota": 1.33,
-     "frecuencia": 0.824,
-     "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
-     "ventaja": 0.072
     },
     {
      "partido_id": 1550171,
@@ -3483,13 +2242,13 @@
      "competicion": "Serie A",
      "local": "Venezia",
      "visitante": "Inter",
-     "mercado": "Total - Away",
-     "opcion": "Under 3.5",
-     "texto": "Inter marca menos de 3,5 goles",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "texto": "Gana el Inter",
      "cuota": 1.33,
-     "frecuencia": 0.824,
-     "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
-     "ventaja": 0.072
+     "frecuencia": 0.765,
+     "detalle": "Venezia 6/7 · Inter 7/10",
+     "ventaja": 0.013
     }
    ],
    "combis": {
@@ -3529,20 +2288,6 @@
     "cuota_3": {
      "picks": [
       {
-       "partido_id": 1550171,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "local": "Genoa",
-       "visitante": "Juventus",
-       "mercado": "Total - Away",
-       "opcion": "Under 2.5",
-       "texto": "Juventus marca menos de 2,5 goles",
-       "cuota": 1.25,
-       "frecuencia": 0.882,
-       "detalle": "Genoa (en contra) 6/7 · Juventus 9/10",
-       "ventaja": 0.082
-      },
-      {
        "partido_id": 1550173,
        "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
@@ -3571,21 +2316,35 @@
        "ventaja": 0.088
       },
       {
+       "partido_id": 1550171,
+       "fecha": "2026-10-28T20:45",
+       "competicion": "Serie A",
+       "local": "Genoa",
+       "visitante": "Juventus",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Under 1.5",
+       "texto": "Menos de 1,5 goles en la 1ª parte del Genoa–Juventus",
+       "cuota": 1.36,
+       "frecuencia": 0.765,
+       "detalle": "Genoa 5/7 · Juventus 8/10",
+       "ventaja": 0.029
+      },
+      {
        "partido_id": 1550176,
        "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
        "local": "Venezia",
        "visitante": "Inter",
-       "mercado": "Total - Away",
-       "opcion": "Under 3.5",
-       "texto": "Inter marca menos de 3,5 goles",
+       "mercado": "Match Winner",
+       "opcion": "Away",
+       "texto": "Gana el Inter",
        "cuota": 1.33,
-       "frecuencia": 0.824,
-       "detalle": "Venezia (en contra) 6/7 · Inter 8/10",
-       "ventaja": 0.072
+       "frecuencia": 0.765,
+       "detalle": "Venezia 6/7 · Inter 7/10",
+       "ventaja": 0.013
       }
      ],
-     "cuota": 3.07
+     "cuota": 3.35
     },
     "loca": null
    }
@@ -3725,34 +2484,6 @@
      "competicion": "Ligue 1",
      "local": "Le Havre",
      "visitante": "Paris Saint Germain",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en la 1ª parte del Le Havre–Paris Saint Germain",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Le Havre 7/7 · Paris Saint Germain 8/10",
-     "ventaja": 0.082
-    },
-    {
-     "partido_id": 1552801,
-     "fecha": "2026-10-30T19:00",
-     "competicion": "Ligue 1",
-     "local": "Le Havre",
-     "visitante": "Paris Saint Germain",
-     "mercado": "Total - Away",
-     "opcion": "Under 3.5",
-     "texto": "Paris Saint Germain marca menos de 3,5 goles",
-     "cuota": 1.4,
-     "frecuencia": 0.824,
-     "detalle": "Le Havre (en contra) 7/7 · Paris Saint Germain 7/10",
-     "ventaja": 0.109
-    },
-    {
-     "partido_id": 1552801,
-     "fecha": "2026-10-30T19:00",
-     "competicion": "Ligue 1",
-     "local": "Le Havre",
-     "visitante": "Paris Saint Germain",
      "mercado": "Goals Over/Under",
      "opcion": "Under 4.5",
      "texto": "Menos de 4,5 goles en Le Havre–Paris Saint Germain",
@@ -3769,13 +2500,13 @@
      "competicion": "Ligue 1",
      "local": "Le Havre",
      "visitante": "Paris Saint Germain",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Under 2.5",
-     "texto": "Menos de 2,5 goles en la 1ª parte del Le Havre–Paris Saint Germain",
-     "cuota": 1.25,
-     "frecuencia": 0.882,
-     "detalle": "Le Havre 7/7 · Paris Saint Germain 8/10",
-     "ventaja": 0.082
+     "mercado": "Goals Over/Under",
+     "opcion": "Under 4.5",
+     "texto": "Menos de 4,5 goles en Le Havre–Paris Saint Germain",
+     "cuota": 1.4,
+     "frecuencia": 0.765,
+     "detalle": "Le Havre 6/7 · Paris Saint Germain 7/10",
+     "ventaja": 0.05
     }
    ],
    "combis": {

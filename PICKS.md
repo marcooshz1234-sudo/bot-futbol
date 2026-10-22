@@ -1,63 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota._
-
-## Jueves 22/10
-
-**🔒 Combi segura · cuota 1,74**
-- 1899 Hoffenheim marca menos de 2,5 goles (1,36)
-- Bournemouth marca menos de 2,5 goles (1,28)
-
-**💥 Combi cuota 3-4 · cuota 3,68**
-- No hay empate en Beşiktaş–Crystal Palace (1,28)
-- Más de 0,5 goles en la 1ª parte del Jagiellonia–Anderlecht (1,33)
-- Menos de 1,5 goles en la 1ª parte del SC Braga–Gent (1,33)
-- Más de 0,5 goles en la 1ª parte del Monaco–SC Freiburg (1,30)
-- No hay empate en Ajax–Atalanta (1,25)
-
-**🤪 Combi loca · cuota 8,04**
-- SC Freiburg marca más de 0,5 goles (1,28)
-- Atalanta marca más de 0,5 goles (1,25)
-- Egnatia Rrogozhinë marca más de 0,5 goles (1,62)
-- Twente marca menos de 3,5 goles (1,40)
-- No marcan los dos en SC Braga–Gent (1,73)
-- No hay empate en Jagiellonia–Anderlecht (1,28)
-
-| Hora | Pick | Cuota | Se cumplió | Detalle |
-|---|---|---|---|---|
-| 21:00 | 1899 Hoffenheim marca menos de 2,5 goles | 1.36 | 100% | 1899 Hoffenheim 8/8 · Lyon (en contra) 10/10 |
-| 21:00 | Bournemouth marca menos de 2,5 goles | 1.28 | 94% | Bournemouth 8/9 · AC Milan (en contra) 9/9 |
-| 21:00 | No hay empate en Beşiktaş–Crystal Palace | 1.28 | 94% | Beşiktaş 8/8 · Crystal Palace 8/9 |
-| 21:00 | Más de 0,5 goles en la 1ª parte del Jagiellonia–Anderlecht | 1.33 | 93% | Jagiellonia 6/6 · Anderlecht 7/8 |
-| 21:00 | Menos de 1,5 goles en la 1ª parte del SC Braga–Gent | 1.33 | 93% | SC Braga 6/7 · Gent 7/7 |
-| 21:00 | Más de 0,5 goles en la 1ª parte del Monaco–SC Freiburg | 1.30 | 90% | Monaco 8/10 · SC Freiburg 9/9 |
-| 21:00 | SC Freiburg marca más de 0,5 goles | 1.28 | 90% | Monaco (en contra) 8/10 · SC Freiburg 9/9 |
-| 21:00 | Monaco marca menos de 2,5 goles | 1.25 | 90% | Monaco 8/10 · SC Freiburg (en contra) 9/9 |
-| 21:00 | No hay empate en Ajax–Atalanta | 1.25 | 88% | Ajax 6/7 · Atalanta 9/10 |
-| 21:00 | Atalanta marca más de 0,5 goles | 1.25 | 88% | Ajax (en contra) 7/7 · Atalanta 8/10 |
-| 21:00 | Egnatia Rrogozhinë marca más de 0,5 goles | 1.62 | 88% | Aarhus (en contra) 6/7 · Egnatia Rrogozhinë 8/9 |
-| 21:00 | Twente marca menos de 3,5 goles | 1.40 | 88% | Lincoln Red Imps FC (en contra) 9/9 · Twente 5/7 |
-| 21:00 | No marcan los dos en SC Braga–Gent | 1.73 | 86% | SC Braga 7/7 · Gent 5/7 |
-| 21:00 | No hay empate en Jagiellonia–Anderlecht | 1.28 | 86% | Jagiellonia 5/6 · Anderlecht 7/8 |
-| 21:00 | Menos de 4,5 goles en Celje–Red Bull Salzburg | 1.25 | 86% | Celje 7/8 · Red Bull Salzburg 5/6 |
-| 21:00 | Gent marca menos de 1,5 goles | 1.25 | 86% | SC Braga (en contra) 6/7 · Gent 6/7 |
-| 21:00 | No hay empate en Monaco–SC Freiburg | 1.28 | 84% | Monaco 8/10 · SC Freiburg 8/9 |
-| 21:00 | Más de 9,5 córners en 1899 Hoffenheim–Lyon | 1.73 | 83% | 1899 Hoffenheim 7/8 · Lyon 8/10 |
-| 21:00 | AC Milan marca más de 0,5 goles | 1.36 | 83% | Bournemouth (en contra) 7/9 · AC Milan 8/9 |
-| 21:00 | Aarhus marca menos de 2,5 goles | 1.50 | 81% | Aarhus 6/7 · Egnatia Rrogozhinë (en contra) 7/9 |
-| 21:00 | HNK Hajduk Split o empate | 1.36 | 81% | FC Thun 6/7 · HNK Hajduk Split 7/9 |
-| 21:00 | Más de 0,5 goles en la 1ª parte del Aarhus–Egnatia Rrogozhinë | 1.30 | 81% | Aarhus 5/7 · Egnatia Rrogozhinë 8/9 |
-| 21:00 | Más de 0,5 goles en la 1ª parte del FC Thun–HNK Hajduk Split | 1.28 | 81% | FC Thun 6/7 · HNK Hajduk Split 7/9 |
-| 21:00 | No hay empate en FC Thun–HNK Hajduk Split | 1.28 | 81% | FC Thun 5/7 · HNK Hajduk Split 8/9 |
-| 21:00 | SC Braga marca menos de 1,5 goles | 1.67 | 79% | SC Braga 5/7 · Gent (en contra) 6/7 |
-| 21:00 | Menos de 2,5 goles en SC Braga–Gent | 1.65 | 79% | SC Braga 5/7 · Gent 6/7 |
-| 21:00 | Lyon o empate | 1.80 | 78% | 1899 Hoffenheim 6/8 · Lyon 8/10 |
-| 21:00 | KuPS marca más de 0,5 goles | 1.57 | 78% | Borac Banja Luka (en contra) 7/9 · KuPS 7/9 |
-| 21:00 | Más de 2,5 goles en 1899 Hoffenheim–Lyon | 1.44 | 78% | 1899 Hoffenheim 7/8 · Lyon 7/10 |
-| 21:00 | Ambos marcan en 1899 Hoffenheim–Lyon | 1.40 | 78% | 1899 Hoffenheim 7/8 · Lyon 7/10 |
-| 21:00 | Menos de 1,5 goles en la 1ª parte del Borac Banja Luka–KuPS | 1.40 | 78% | Borac Banja Luka 7/9 · KuPS 7/9 |
-| 21:00 | Menos de 1,5 goles en la 1ª parte del Lincoln Red Imps FC–Twente | 1.80 | 75% | Lincoln Red Imps FC 7/9 · Twente 5/7 |
-| 21:00 | Omonia Nicosia marca más de 0,5 goles | 1.67 | 75% | Omonia Nicosia 6/8 · Benfica (en contra) 6/8 |
+_Generado el 2026-10-22 23:06 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota._
 
 ## Viernes 23/10
 
@@ -78,48 +21,42 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Sábado 24/10
 
-**🔒 Combi segura · cuota 1,56**
-- Atletico Madrid marca menos de 3,5 goles (1,25)
+**🔒 Combi segura · cuota 1,75**
 - Espanyol marca más de 0,5 goles (1,25)
-
-**💥 Combi cuota 3-4 · cuota 3,26**
 - Sassuolo marca más de 0,5 goles (1,40)
-- Arsenal marca menos de 2,5 goles (1,40)
-- Más de 1,5 goles en Rayo Vallecano–Elche (1,25)
-- RB Leipzig marca menos de 3,5 goles (1,33)
 
-**🤪 Combi loca · cuota 10,15**
+**💥 Combi cuota 3-4 · cuota 3,57**
 - Ambos marcan en Como–Sassuolo (1,57)
+- Más de 1,5 goles en Rayo Vallecano–Elche (1,25)
 - Cagliari marca más de 0,5 goles (1,40)
-- Menos de 3,5 goles en Lazio–Parma (1,36)
 - No hay empate en Coventry–Fulham (1,30)
+
+**🤪 Combi loca · cuota 11,34**
+- Menos de 1,5 goles en la 1ª parte del Cagliari–Bologna (1,33)
 - Menos de 1,5 goles en la 1ª parte del 1, FC Köln–FC Schalke 04 (1,57)
 - Más de 0,5 goles en la 1ª parte del Racing Santander–Espanyol (1,30)
 - Más de 0,5 goles en la 1ª parte del SC Paderborn 07–Hamburger SV (1,28)
+- Más de 0,5 goles en la 1ª parte del FSV Mainz 05–Werder Bremen (1,25)
+- No hay empate en Lens–Paris FC (1,28)
+- No hay empate en Napoli–AS Roma (1,36)
+- Menos de 1,5 goles en la 1ª parte del Coventry–Fulham (1,50)
 
 | Hora | Pick | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|
-| 21:00 | Atletico Madrid marca menos de 3,5 goles | 1.25 | 95% | Atletico Madrid 9/10 · Deportivo La Coruna (en contra) 9/9 |
 | 16:15 | Espanyol marca más de 0,5 goles | 1.25 | 94% | Racing Santander (en contra) 9/9 · Espanyol 8/9 |
 | 15:00 | Sassuolo marca más de 0,5 goles | 1.40 | 94% | Como (en contra) 9/10 · Sassuolo 7/7 |
 | 15:00 | Ambos marcan en Como–Sassuolo | 1.57 | 88% | Como 8/10 · Sassuolo 7/7 |
-| 16:00 | Arsenal marca menos de 2,5 goles | 1.40 | 88% | Arsenal 8/10 · Everton (en contra) 7/7 |
 | 14:00 | Más de 1,5 goles en Rayo Vallecano–Elche | 1.25 | 88% | Rayo Vallecano 8/8 · Elche 7/9 |
-| 15:30 | RB Leipzig marca menos de 3,5 goles | 1.33 | 87% | RB Leipzig 7/9 · SV Elversberg (en contra) 6/6 |
 | 15:00 | Cagliari marca más de 0,5 goles | 1.40 | 86% | Cagliari 5/7 · Bologna (en contra) 7/7 |
-| 20:45 | Menos de 3,5 goles en Lazio–Parma | 1.36 | 86% | Lazio 5/7 · Parma 7/7 |
 | 15:00 | Menos de 1,5 goles en la 1ª parte del Cagliari–Bologna | 1.33 | 86% | Cagliari 6/7 · Bologna 6/7 |
 | 16:00 | No hay empate en Coventry–Fulham | 1.30 | 86% | Coventry 7/7 · Fulham 5/7 |
 | 15:30 | Menos de 1,5 goles en la 1ª parte del 1. FC Köln–FC Schalke 04 | 1.57 | 83% | 1. FC Köln 5/6 · FC Schalke 04 5/6 |
 | 16:15 | Más de 0,5 goles en la 1ª parte del Racing Santander–Espanyol | 1.30 | 83% | Racing Santander 8/9 · Espanyol 7/9 |
-| 15:30 | 1. FC Köln marca menos de 2,5 goles | 1.28 | 83% | 1. FC Köln 5/6 · FC Schalke 04 (en contra) 5/6 |
 | 15:30 | Más de 0,5 goles en la 1ª parte del SC Paderborn 07–Hamburger SV | 1.28 | 83% | SC Paderborn 07 5/6 · Hamburger SV 5/6 |
 | 15:30 | Más de 0,5 goles en la 1ª parte del FSV Mainz 05–Werder Bremen | 1.25 | 83% | FSV Mainz 05 5/6 · Werder Bremen 5/6 |
-| 16:00 | Menos de 3,5 goles en Arsenal–Everton | 1.36 | 82% | Arsenal 9/10 · Everton 5/7 |
 | 20:45 | No hay empate en Lens–Paris FC | 1.28 | 82% | Lens 9/10 · Paris FC 5/7 |
 | 18:00 | No hay empate en Napoli–AS Roma | 1.36 | 80% | Napoli 9/10 · AS Roma 7/10 |
 | 18:00 | Más de 1,5 goles en Napoli–AS Roma | 1.28 | 80% | Napoli 7/10 · AS Roma 9/10 |
-| 21:00 | Atletico Madrid marca menos de 2,5 goles | 1.73 | 79% | Atletico Madrid 7/10 · Deportivo La Coruna (en contra) 8/9 |
 | 15:00 | Cagliari o empate | 1.53 | 79% | Cagliari 5/7 · Bologna 6/7 |
 | 15:00 | Bologna marca menos de 1,5 goles | 1.50 | 79% | Cagliari (en contra) 6/7 · Bologna 5/7 |
 | 16:00 | Menos de 1,5 goles en la 1ª parte del Coventry–Fulham | 1.50 | 79% | Coventry 6/7 · Fulham 5/7 |
@@ -142,14 +79,13 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Bournemouth marca más de 0,5 goles (1,33)
 - Más de 2,5 goles en SC Freiburg–Bayern München (1,25)
 
-**🤪 Combi loca · cuota 10,22**
+**🤪 Combi loca · cuota 9,74**
 - Bayer Leverkusen marca más de 1,5 goles (1,67)
 - Más de 1,5 goles en Lecce–Juventus (1,25)
-- Menos de 3,5 goles en Sunderland–Leeds (1,25)
 - Más de 0,5 goles en la 1ª parte del Crystal Palace–Newcastle (1,28)
 - Más de 2,5 goles en Auxerre–Le Mans (1,73)
-- Brentford marca menos de 2,5 goles (1,36)
 - Más de 1,5 goles en Genoa–Venezia (1,30)
+- Menos de 4,5 tarjetas en Paris Saint Germain–Lyon (1,62)
 
 | Hora | Pick | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|
@@ -161,32 +97,22 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 17:30 | Más de 2,5 goles en SC Freiburg–Bayern München | 1.25 | 89% | SC Freiburg 8/9 · Bayern München 8/9 |
 | 15:30 | Bayer Leverkusen marca más de 1,5 goles | 1.67 | 88% | 1899 Hoffenheim (en contra) 6/8 · Bayer Leverkusen 9/9 |
 | 18:00 | Más de 1,5 goles en Lecce–Juventus | 1.25 | 88% | Lecce 6/7 · Juventus 9/10 |
-| 17:30 | Menos de 3,5 goles en Sunderland–Leeds | 1.25 | 88% | Sunderland 9/10 · Leeds 6/7 |
-| 15:30 | 1899 Hoffenheim marca menos de 2,5 goles | 1.25 | 88% | 1899 Hoffenheim 8/8 · Bayer Leverkusen (en contra) 7/9 |
 | 15:00 | Más de 0,5 goles en la 1ª parte del Crystal Palace–Newcastle | 1.28 | 88% | Crystal Palace 8/9 · Newcastle 6/7 |
 | 17:15 | Más de 2,5 goles en Auxerre–Le Mans | 1.73 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Ambos marcan en Auxerre–Le Mans | 1.57 | 86% | Auxerre 6/7 · Le Mans 6/7 |
-| 15:00 | Brentford marca menos de 2,5 goles | 1.36 | 86% | Hull City (en contra) 7/7 · Brentford 5/7 |
 | 15:00 | Más de 1,5 goles en Genoa–Venezia | 1.30 | 86% | Genoa 6/7 · Venezia 6/7 |
 | 17:15 | Más de 0,5 goles en la 1ª parte del Auxerre–Le Mans | 1.30 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Le Mans marca más de 0,5 goles | 1.30 | 86% | Auxerre (en contra) 6/7 · Le Mans 6/7 |
 | 20:45 | Menos de 4,5 tarjetas en Paris Saint Germain–Lyon | 1.62 | 85% | Paris Saint Germain 9/10 · Lyon 8/10 |
 | 15:00 | Lille marca más de 0,5 goles | 1.36 | 85% | Monaco (en contra) 8/10 · Lille 9/10 |
-| 15:00 | Liverpool marca menos de 2,5 goles | 1.28 | 85% | Liverpool 8/10 · Brighton (en contra) 9/10 |
-| 20:45 | Paris Saint Germain marca menos de 3,5 goles | 1.25 | 85% | Paris Saint Germain 7/10 · Lyon (en contra) 10/10 |
-| 15:00 | Manchester United marca menos de 2,5 goles | 1.30 | 84% | Manchester United 8/10 · Bournemouth (en contra) 8/9 |
-| 17:30 | Menos de 2,5 goles en la 1ª parte del SC Freiburg–Bayern München | 1.30 | 83% | SC Freiburg 8/9 · Bayern München 7/9 |
 | 17:15 | Menos de 1,5 goles en la 1ª parte del Marseille–Le Havre | 1.62 | 82% | Marseille 7/10 · Le Havre 7/7 |
-| 15:00 | Atalanta marca menos de 2,5 goles | 1.50 | 82% | Atalanta 8/10 · Frosinone (en contra) 6/7 |
 | 12:30 | Más de 2,5 goles en Inter–Fiorentina | 1.44 | 82% | Inter 8/10 · Fiorentina 6/7 |
 | 17:15 | Más de 2,5 goles en Rennes–Strasbourg | 1.44 | 82% | Rennes 8/10 · Strasbourg 6/7 |
-| 18:00 | Juventus marca menos de 2,5 goles | 1.40 | 82% | Lecce (en contra) 5/7 · Juventus 9/10 |
 | 15:30 | Bayer Leverkusen o empate | 1.40 | 82% | 1899 Hoffenheim 6/8 · Bayer Leverkusen 8/9 |
 | 17:30 | Sunderland marca menos de 1,5 goles | 1.36 | 82% | Sunderland 8/10 · Leeds (en contra) 6/7 |
 | 15:00 | Menos de 4,5 goles en Atalanta–Frosinone | 1.33 | 82% | Atalanta 9/10 · Frosinone 5/7 |
 | 17:30 | Menos de 1,5 goles en la 1ª parte del Sunderland–Leeds | 1.33 | 82% | Sunderland 8/10 · Leeds 6/7 |
 | 17:15 | Strasbourg marca más de 0,5 goles | 1.30 | 82% | Rennes (en contra) 8/10 · Strasbourg 6/7 |
-| 12:30 | Inter marca menos de 3,5 goles | 1.28 | 82% | Inter 8/10 · Fiorentina (en contra) 6/7 |
 | 17:30 | Leeds marca más de 0,5 goles | 1.28 | 82% | Sunderland (en contra) 8/10 · Leeds 6/7 |
 | 15:00 | No hay empate en Crystal Palace–Newcastle | 1.28 | 81% | Crystal Palace 8/9 · Newcastle 5/7 |
 | 15:00 | Menos de 4,5 tarjetas en Monaco–Lille | 1.73 | 80% | Monaco 8/10 · Lille 8/10 |
@@ -198,13 +124,11 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | No hay empate en Monaco–Lille | 1.28 | 80% | Monaco 8/10 · Lille 8/10 |
 | 17:15 | No hay empate en Angers–Lorient | 1.33 | 79% | Angers 6/7 · Lorient 5/7 |
 | 14:00 | Menos de 1,5 goles en la 1ª parte del Athletic Club–Getafe | 1.30 | 78% | Athletic Club 6/8 · Getafe 8/10 |
-| 17:15 | Marseille marca menos de 2,5 goles | 1.50 | 76% | Marseille 8/10 · Le Havre (en contra) 5/7 |
 | 17:15 | Ambos marcan en Rennes–Strasbourg | 1.44 | 76% | Rennes 7/10 · Strasbourg 6/7 |
 | 17:30 | Más de 1,5 goles en Sunderland–Leeds | 1.36 | 76% | Sunderland 8/10 · Leeds 5/7 |
 | 17:30 | Leeds o empate | 1.36 | 76% | Sunderland 7/10 · Leeds 6/7 |
 | 18:00 | Más de 0,5 goles en la 1ª parte del Lecce–Juventus | 1.33 | 76% | Lecce 6/7 · Juventus 7/10 |
 | 15:00 | Más de 2,5 goles en Crystal Palace–Newcastle | 1.62 | 75% | Crystal Palace 7/9 · Newcastle 5/7 |
-| 21:00 | Menos de 2,5 goles en la 1ª parte del Barcelona–Real Madrid | 1.36 | 75% | Barcelona 7/10 · Real Madrid 8/10 |
 
 ## Lunes 26/10
 
@@ -230,23 +154,20 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Más de 1,5 goles en Genoa–Juventus (1,30)
 - No hay empate en Monza–Napoli (1,28)
 
-**💥 Combi cuota 3-4 · cuota 3,07**
-- Juventus marca menos de 2,5 goles (1,25)
+**💥 Combi cuota 3-4 · cuota 3,35**
 - Más de 1,5 goles en Parma–Udinese (1,36)
 - Monza marca más de 0,5 goles (1,36)
-- Inter marca menos de 3,5 goles (1,33)
+- Menos de 1,5 goles en la 1ª parte del Genoa–Juventus (1,36)
+- Gana el Inter (1,33)
 
 | Hora | Pick | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|
 | 20:45 | Más de 1,5 goles en Genoa–Juventus | 1.30 | 88% | Genoa 6/7 · Juventus 9/10 |
 | 20:45 | No hay empate en Monza–Napoli | 1.28 | 88% | Monza 6/7 · Napoli 9/10 |
-| 20:45 | Juventus marca menos de 2,5 goles | 1.25 | 88% | Genoa (en contra) 6/7 · Juventus 9/10 |
 | 18:30 | Más de 1,5 goles en Parma–Udinese | 1.36 | 86% | Parma 6/7 · Udinese 6/7 |
 | 18:30 | No hay empate en Parma–Udinese | 1.36 | 86% | Parma 6/7 · Udinese 6/7 |
 | 18:30 | Udinese marca más de 0,5 goles | 1.30 | 86% | Parma (en contra) 7/7 · Udinese 5/7 |
-| 18:30 | Menos de 3,5 goles en Parma–Udinese | 1.25 | 86% | Parma 7/7 · Udinese 5/7 |
 | 20:45 | Monza marca más de 0,5 goles | 1.36 | 82% | Monza 7/7 · Napoli (en contra) 7/10 |
-| 18:30 | Inter marca menos de 3,5 goles | 1.33 | 82% | Venezia (en contra) 6/7 · Inter 8/10 |
 | 20:45 | Menos de 1,5 goles en la 1ª parte del Genoa–Juventus | 1.36 | 76% | Genoa 5/7 · Juventus 8/10 |
 | 18:30 | Gana el Inter | 1.33 | 76% | Venezia 6/7 · Inter 7/10 |
 
@@ -267,6 +188,4 @@ _Generado el 2026-10-22 20:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 | Hora | Pick | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|
-| 19:00 | Menos de 2,5 goles en la 1ª parte del Le Havre–Paris Saint Germain | 1.25 | 88% | Le Havre 7/7 · Paris Saint Germain 8/10 |
-| 19:00 | Paris Saint Germain marca menos de 3,5 goles | 1.40 | 82% | Le Havre (en contra) 7/7 · Paris Saint Germain 7/10 |
 | 19:00 | Menos de 4,5 goles en Le Havre–Paris Saint Germain | 1.40 | 76% | Le Havre 6/7 · Paris Saint Germain 7/10 |
