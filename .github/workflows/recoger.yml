@@ -20,7 +20,7 @@ jobs:
       - name: Recoger datos y generar informes
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: python bot.py
+        run: python -u bot.py
       - name: Guardar cambios
         run: |
           git config user.name "bot-futbol"
