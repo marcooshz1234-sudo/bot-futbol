@@ -1,7 +1,7 @@
 # Lens – Paris FC
 **Ligue 1** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_

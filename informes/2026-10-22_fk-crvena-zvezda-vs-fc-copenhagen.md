@@ -1,7 +1,7 @@
 # FK Crvena Zvezda – FC Copenhagen
 **Conference League** · League Stage - 2 · 22/10/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_

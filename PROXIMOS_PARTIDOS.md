@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 22/10/2026 13:26 (hora España). Partidos guardados en la base de datos: 882._
+_Actualizado el 22/10/2026 14:48 (hora España). Partidos guardados en la base de datos: 882._
 
 
 ## Jueves 22/10

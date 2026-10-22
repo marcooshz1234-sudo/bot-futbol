@@ -1,7 +1,7 @@
 # Udinese – AC Milan
 **Serie A** · Regular Season - 8 · 25/10/2026 20:45 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
