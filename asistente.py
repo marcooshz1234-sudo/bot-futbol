@@ -7,7 +7,7 @@ y la siguiente toma el relevo.
 
 Comandos:
   /hoy        lo que hay programado hoy en el canal
-  /picks      picks de hoy (/picks mañana)
+  /picks      picks de hoy · /manana picks de mañana
   /combis     combis de hoy y escalera
   /pausa      para todas las publicaciones automáticas · /reanudar
   /ayuda
@@ -72,6 +72,15 @@ class Asistente:
         self.duenio = next(a["user"]["id"] for a in admins if a["status"] == "creator")
         self.esperando = None       # ("cambiar", id) / ("editar", mensaje_id, es_foto)
         self.borrador = None        # texto/foto recibidos pendientes de "¿lo subo?"
+        api(token, "setMyCommands", {"commands": [
+            {"command": "hoy", "description": "Lo programado hoy en el canal"},
+            {"command": "picks", "description": "Picks de hoy"},
+            {"command": "manana", "description": "Picks de mañana"},
+            {"command": "combis", "description": "Combis de hoy y escalera"},
+            {"command": "editar", "description": "Cambiar un post ya publicado"},
+            {"command": "pausa", "description": "Parar las publicaciones automáticas"},
+            {"command": "reanudar", "description": "Volver a publicar"},
+            {"command": "ayuda", "description": "Qué puedo hacer"}]})
 
     # ---------------------------------------------------------------- utilidades
     def enviar(self, texto, botones=None):
@@ -134,8 +143,9 @@ class Asistente:
                 lineas.append(f"{p['fecha'][11:]} · {p['texto'].splitlines()[0][:45]} · {estado}")
             pausa = "\n\n⏸️ PUBLICACIONES EN PAUSA (/reanudar)" if c["pausa"] else ""
             return self.enviar("📅 Hoy en el canal:\n\n" + ("\n".join(lineas) or "Nada programado") + pausa)
-        if orden == "/picks":
-            dia = hoy + timedelta(days=1 if len(partes) > 1 and partes[1].lower().startswith("ma") else 0)
+        if orden in ("/picks", "/manana", "/picks_manana", "/picksmanana"):
+            pide_manana = orden != "/picks" or (len(partes) > 1 and partes[1].lower().startswith("ma"))
+            dia = hoy + timedelta(days=1 if pide_manana else 0)
             d = (leer(RAIZ / "datos" / "picks.json", {}).get("dias") or {}).get(dia.isoformat())
             if not d:
                 return self.enviar(f"No hay picks para el {dia:%d/%m}.")
