@@ -306,7 +306,8 @@ def recoger(api):
         fid = p["fixture"]["id"]
         ruta = EXTRA / f"{fid}.json"
         ex = leer(ruta, {})
-        reciente = ex.get("actualizado") and ahora() - fecha(ex["actualizado"]) < timedelta(hours=HORAS_REFRESCO)
+        reciente = (ex.get("actualizado") and ahora() - fecha(ex["actualizado"]) < timedelta(hours=HORAS_REFRESCO)
+                    and ex.get("cuotas_version") == CUOTAS_VERSION)
         if not reciente:
             ex["lesiones"] = [
                 {"equipo": l["team"]["id"], "jugador": l["player"]["name"],
@@ -317,6 +318,7 @@ def recoger(api):
             if cuotas:
                 ex["cuotas"] = recortar_cuotas(cuotas)
                 ex["cuotas_hora"] = ahora().isoformat()
+                ex["cuotas_version"] = CUOTAS_VERSION
             ex["actualizado"] = ahora().isoformat()
         if "h2h" not in ex:
             a, b = p["teams"]["home"]["id"], p["teams"]["away"]["id"]
@@ -340,6 +342,8 @@ def recoger(api):
             ruta.unlink()
     return proximos
 
+
+CUOTAS_VERSION = 2   # súbelo al cambiar MERCADOS: fuerza a volver a pedir las cuotas
 
 MERCADOS = [
     "Match Winner", "Double Chance", "Both Teams Score", "Goals Over/Under",

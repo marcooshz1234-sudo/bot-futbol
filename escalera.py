@@ -25,6 +25,7 @@ DESDE = "2026-10-27"
 
 def elegir(picks):
     """Dos picks de partidos distintos con cuota total en rango, los más fiables primero."""
+    picks = [p for p in picks if p.get("tipo") != "jugador"]   # los de jugador se corrigen aparte
     orden = sorted(picks, key=lambda p: (-p["frecuencia"], -p["ventaja"]))
     mejor = None
     for i, a in enumerate(orden):
