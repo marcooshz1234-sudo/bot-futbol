@@ -1,0 +1,50 @@
+name: Descubrir mercados
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/descubrir.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  descubrir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mercados de bet365 y alineaciones disponibles
+        env:
+          KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, glob
+          def get(path):
+              r = urllib.request.Request("https://v3.football.api-sports.io/" + path, headers={"x-apisports-key": os.environ["KEY"]})
+              return json.load(urllib.request.urlopen(r, timeout=40))
+          out = {}
+          b = get("odds/bets")
+          out["todos_los_mercados"] = [x["name"] for x in b.get("response", [])]
+          # mercados de bet365 en un partido grande próximo
+          ids = [json.load(open(f))["partido"]["fixture"]["id"] for f in sorted(glob.glob("datos/proximos/*.json"))]
+          fid = None
+          for f in glob.glob("datos/proximos/*.json"):
+              d = json.load(open(f))
+              if "Barcelona" in d["partido"]["teams"]["home"]["name"]:
+                  fid = d["partido"]["fixture"]["id"]
+          fid = fid or ids[0]
+          o = get(f"odds?fixture={fid}&bookmaker=8")
+          bets = []
+          for it in o.get("response", []):
+              for bk in it.get("bookmakers", []):
+                  for bt in bk.get("bets", []):
+                      bets.append({"nombre": bt["name"], "ejemplos": bt["values"][:4]})
+          out["bet365_partido"] = fid
+          out["bet365_mercados"] = bets
+          st = get("status")
+          out["cuenta"] = st.get("response", {}).get("subscription")
+          out["peticiones"] = st.get("response", {}).get("requests")
+          json.dump(out, open("datos/mercados_disponibles.json", "w"), ensure_ascii=False, indent=1)
+          print(len(out["todos_los_mercados"]), len(bets))
+          PY
+      - run: |
+          git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
+          git add datos/mercados_disponibles.json && git commit -m "Descubrir mercados" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
