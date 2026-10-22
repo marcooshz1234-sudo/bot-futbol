@@ -26,7 +26,9 @@ from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
 RAIZ = Path(__file__).resolve().parent
-COLA = RAIZ / "publicaciones" / "cola.json"
+COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dentro)
+AUTO = RAIZ / "publicaciones" / "auto.json"        # posts de El Analista (solo lee)
+ENVIADOS = RAIZ / "publicaciones" / "enviados.json"  # estado de los de auto.json
 MADRID = ZoneInfo("Europe/Madrid")
 PIE = "🔞 +18 | Juega con responsabilidad"
 MAX_RETRASO = timedelta(hours=6)   # si se pasa más de esto, no se publica (se marca como caducada)
@@ -97,8 +99,13 @@ def main():
     ahora = datetime.now(MADRID)
     comprobar(token, canal, ahora)
     cola = json.loads(COLA.read_text(encoding="utf-8")) if COLA.exists() else []
+    auto = json.loads(AUTO.read_text(encoding="utf-8")) if AUTO.exists() else []
+    enviados = json.loads(ENVIADOS.read_text(encoding="utf-8")) if ENVIADOS.exists() else {}
+    for p in auto:  # el estado de los automáticos vive en enviados.json
+        p.update(enviados.get(p["id"], {}))
+        p["_auto"] = True
     cambios = 0
-    for p in sorted(cola, key=lambda x: x["fecha"]):
+    for p in sorted(cola + auto, key=lambda x: x["fecha"]):
         if p.get("enviado") or p.get("caducada"):
             continue
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
@@ -134,6 +141,11 @@ def main():
         time.sleep(2)
     if cambios:
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        for p in auto:
+            estado = {k: p[k] for k in ("enviado", "mensaje_id", "caducada", "error") if k in p}
+            if estado:
+                enviados[p["id"]] = estado
+        ENVIADOS.write_text(json.dumps(enviados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Hecho. Cambios: {cambios}")
 
 
