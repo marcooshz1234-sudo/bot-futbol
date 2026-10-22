@@ -30,6 +30,7 @@ COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dent
 AUTOS = [RAIZ / "publicaciones" / "auto.json",      # posts de El Analista (solo lee)
          RAIZ / "publicaciones" / "alineaciones.json"]  # combis de jugadores (solo lee)
 ENVIADOS = RAIZ / "publicaciones" / "enviados.json"  # estado de los de auto.json
+CONTROL = RAIZ / "publicaciones" / "control.json"    # decisiones desde el móvil (asistente)
 MADRID = ZoneInfo("Europe/Madrid")
 PIE = "🔞 +18 | Juega con responsabilidad"
 MAX_RETRASO = timedelta(hours=6)   # si se pasa más de esto, no se publica (se marca como caducada)
@@ -105,10 +106,20 @@ def main():
     for p in auto:  # el estado de los automáticos vive en enviados.json
         p.update(enviados.get(p["id"], {}))
         p["_auto"] = True
+    control = json.loads(CONTROL.read_text(encoding="utf-8")) if CONTROL.exists() else {}
+    if control.get("pausa"):
+        print("En pausa (desde el asistente): no se publica nada")
+        return
     cambios = 0
     for p in sorted(cola + auto, key=lambda x: x["fecha"]):
         if p.get("enviado") or p.get("caducada"):
             continue
+        if p["id"] in control.get("cancelados", []):
+            p["caducada"] = "cancelado"
+            cambios += 1
+            continue
+        if p["id"] in control.get("textos", {}):
+            p["texto"] = control["textos"][p["id"]]
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
         if cuando > ahora:
             continue
