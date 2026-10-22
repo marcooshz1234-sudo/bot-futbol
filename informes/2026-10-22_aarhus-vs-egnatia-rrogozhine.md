@@ -1,7 +1,7 @@
 # Aarhus – Egnatia Rrogozhinë
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.67**  ·  Menos de 2.5 **2.15**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **1.53**  ·  Menos de 1.5 **2.38**  ·  Más de 2.5 **2.62**  ·  Menos de 2.5 **1.44**  ·  Más de 3.5 **5.50**  ·  Menos de 3.5 **1.14**  ·  Más de 0.5 **1.10**  ·  Menos de 0.5 **7.00**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **4.00**  ·  Menos de 1.5 **1.22**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.62**  ·  Menos de 0.5 **2.20**
-- **Córners más/menos:** Más de 8.5 **1.80**  ·  Menos de 8.5 **1.91**  ·  Más de 9 **1.88**  ·  Menos de 9 **1.92**  ·  Más de 9.5 **2.10**  ·  Menos de 9.5 **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **1.91**
+    - 9: más **1.88** · menos **1.92**
+    - 9,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **6.00**
 
 ## Estadísticas de equipo
@@ -41,21 +60,21 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 21,1 | 15,7 | 9,6 | 11,5 |
 | Tiros a puerta recibidos | 7,9 | 6,3 | 3,6 | 3,7 |
 | Posesión media % | 44 | 43 | 48 | 45 |
-| Córners a favor | 3,3 | 4,3 | 5,4 | 6,0 |
-| Córners en contra | 7,9 | 4,0 | 5,3 | 5,3 |
-| Córners a favor 1ª parte | 1,9 | 2,7 | 3,0 | 2,5 |
-| Córners a favor 2ª parte | 1,4 | 1,7 | 1,2 | 1,0 |
-| Córners totales del partido | 11,1 | 8,3 | 10,7 | 11,3 |
-| Córners totales 1ª parte | 5,7 | 4,3 | 4,8 | 3,0 |
-| Córners totales 2ª parte | 4,7 | 4,0 | 4,2 | 4,0 |
-| Más de 8,5 córners | 71% | 33% | 71% | 67% |
-| Más de 9,5 córners | 71% | 33% | 57% | 33% |
-| Más de 10,5 córners | 71% | 33% | 43% | 33% |
+| Córners a favor | 3,3 | 4,3 | 4,8 | 4,5 |
+| Córners en contra | 7,9 | 4,0 | 4,6 | 4,0 |
+| Córners a favor 1ª parte | 1,9 | 2,7 | 1,9 | 1,2 |
+| Córners a favor 2ª parte | 1,4 | 1,7 | 0,8 | 0,5 |
+| Córners totales del partido | 11,1 | 8,3 | 9,4 | 8,5 |
+| Córners totales 1ª parte | 5,7 | 4,3 | 3,0 | 1,5 |
+| Córners totales 2ª parte | 4,7 | 4,0 | 2,6 | 2,0 |
+| Más de 8,5 córners | 71% | 33% | 62% | 50% |
+| Más de 9,5 córners | 71% | 33% | 50% | 25% |
+| Más de 10,5 córners | 71% | 33% | 38% | 25% |
 | Faltas cometidas | 13,0 | 11,7 | 10,3 | 8,0 |
 | Faltas recibidas | 10,7 | 10,7 | 14,0 | 11,0 |
 | Amarillas propias | 2,1 | 1,7 | 2,0 | 2,2 |
 | Amarillas del rival | 1,4 | 1,3 | 1,9 | 2,8 |
-| Rojas / partido | 0,33 | 0,50 | 0,14 | 0,25 |
+| Rojas / partido | 0,14 | 0,33 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Aarhus | Recibe Aarhus | Tarjetas Aarhus | Goles Egnatia Rrogozhinë | Recibe Egnatia Rrogozhinë | Tarjetas Egnatia Rrogozhinë |

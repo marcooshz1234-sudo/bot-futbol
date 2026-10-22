@@ -1,7 +1,7 @@
 # Lech Poznan – Sunderland
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Stadion Miejski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **4.50**  ·  X **3.90**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.25**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **3.00**  ·  Menos de 3.5 **1.40**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **3.50**  ·  Menos de 1.5 **1.28**  ·  Más de 2.5 **11.00**  ·  Menos de 2.5 **1.05**  ·  Más de 3.5 **29.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.50**  ·  Menos de 0.5 **2.50**
-- **Goles del visitante:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.40**  ·  Menos de 2.5 **1.30**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 3.5 **1.73**  ·  Menos de 3.5 **2.00**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.30**  ·  2 **2.25**
 
 ## Estadísticas de equipo
@@ -44,11 +62,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 45 | 36 | 49 | 51 |
 | Córners a favor | 5,9 | 7,0 | 5,7 | 5,0 |
 | Córners en contra | 4,4 | 3,8 | 4,0 | 4,0 |
-| Córners a favor 1ª parte | 2,0 | 3,0 | 3,2 | 2,8 |
-| Córners a favor 2ª parte | 2,7 | 3,0 | 2,4 | 2,2 |
+| Córners a favor 1ª parte | 1,5 | 2,2 | 3,2 | 2,8 |
+| Córners a favor 2ª parte | 2,0 | 2,2 | 2,4 | 2,2 |
 | Córners totales del partido | 10,2 | 10,8 | 9,7 | 9,0 |
-| Córners totales 1ª parte | 4,3 | 5,0 | 5,2 | 4,8 |
-| Córners totales 2ª parte | 4,8 | 4,7 | 4,4 | 4,2 |
+| Córners totales 1ª parte | 3,2 | 3,8 | 5,2 | 4,8 |
+| Córners totales 2ª parte | 3,6 | 3,5 | 4,4 | 4,2 |
 | Más de 8,5 córners | 75% | 75% | 44% | 40% |
 | Más de 9,5 córners | 38% | 25% | 44% | 40% |
 | Más de 10,5 córners | 38% | 25% | 44% | 40% |
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 14,2 | 14,2 | 13,9 | 14,8 |
 | Amarillas propias | 1,6 | 1,2 | 2,2 | 2,2 |
 | Amarillas del rival | 2,4 | 3,0 | 1,6 | 1,4 |
-| Rojas / partido | 0,14 | 0,00 | 0,33 | 0,33 |
+| Rojas / partido | 0,12 | 0,00 | 0,22 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lech Poznan | Recibe Lech Poznan | Tarjetas Lech Poznan | Goles Sunderland | Recibe Sunderland | Tarjetas Sunderland |

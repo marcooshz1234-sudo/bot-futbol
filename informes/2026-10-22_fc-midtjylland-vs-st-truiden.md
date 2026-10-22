@@ -1,7 +1,7 @@
 # FC Midtjylland – St. Truiden
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.67**  ·  X **3.90**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.15**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.35**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.53**  ·  Menos de 1.5 **2.38**  ·  Más de 2.5 **2.62**  ·  Menos de 2.5 **1.44**  ·  Más de 3.5 **5.50**  ·  Menos de 3.5 **1.14**  ·  Más de 0.5 **1.10**  ·  Menos de 0.5 **7.00**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Córners más/menos:** Más de 9.5 **1.98**  ·  Menos de 9.5 **1.82**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.75**
 
 ## Estadísticas de equipo
@@ -41,21 +58,21 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 9,4 | 10,0 | 10,3 | 19,0 |
 | Tiros a puerta recibidos | 3,2 | 2,5 | 2,7 | 5,0 |
 | Posesión media % | 58 | 62 | 56 | 53 |
-| Córners a favor | 6,4 | 5,5 | 5,3 | 6,0 |
-| Córners en contra | 2,8 | 3,5 | 2,0 | 5,0 |
-| Córners a favor 1ª parte | 2,8 | 2,0 | 1,3 | 1,0 |
-| Córners a favor 2ª parte | 3,6 | 3,5 | 4,0 | 5,0 |
-| Córners totales del partido | 9,2 | 9,0 | 7,3 | 11,0 |
-| Córners totales 1ª parte | 4,6 | 4,5 | 1,7 | 2,0 |
-| Córners totales 2ª parte | 4,6 | 4,5 | 5,7 | 9,0 |
-| Más de 8,5 córners | 80% | 100% | 33% | 100% |
-| Más de 9,5 córners | 20% | 0% | 33% | 100% |
-| Más de 10,5 córners | 20% | 0% | 33% | 100% |
+| Córners a favor | 4,6 | 3,7 | 5,3 | 6,0 |
+| Córners en contra | 2,0 | 2,3 | 2,0 | 5,0 |
+| Córners a favor 1ª parte | 2,0 | 1,3 | 1,3 | 1,0 |
+| Córners a favor 2ª parte | 2,6 | 2,3 | 4,0 | 5,0 |
+| Córners totales del partido | 6,6 | 6,0 | 7,3 | 11,0 |
+| Córners totales 1ª parte | 3,3 | 3,0 | 1,7 | 2,0 |
+| Córners totales 2ª parte | 3,3 | 3,0 | 5,7 | 9,0 |
+| Más de 8,5 córners | 57% | 67% | 33% | 100% |
+| Más de 9,5 córners | 14% | 0% | 33% | 100% |
+| Más de 10,5 córners | 14% | 0% | 33% | 100% |
 | Faltas cometidas | 16,4 | 19,5 | 16,3 | 12,0 |
 | Faltas recibidas | 13,6 | 15,0 | 10,0 | 10,0 |
 | Amarillas propias | 1,7 | 2,7 | 2,3 | 5,0 |
 | Amarillas del rival | 2,1 | 2,7 | 1,0 | 1,0 |
-| Rojas / partido | 1,00 | 1,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,29 | 0,33 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FC Midtjylland | Recibe FC Midtjylland | Tarjetas FC Midtjylland | Goles St. Truiden | Recibe St. Truiden | Tarjetas St. Truiden |

@@ -1,7 +1,7 @@
 # Auxerre – Le Mans
-**Ligue 1** · Regular Season - 8 · 25/10/2026 18:15 (hora España) · Stade de l'Abbé-Deschamps
+**Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.10**  ·  X **3.50**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**
-- **Goles del local:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 4.5 **2.20**  ·  Menos de 4.5 **1.62**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.30**  ·  2 **3.75**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,1 | 8,7 | 9,9 | 7,3 |
 | Amarillas propias | 1,4 | 1,7 | 2,3 | 2,7 |
 | Amarillas del rival | 1,6 | 1,3 | 1,9 | 1,7 |
-| Rojas / partido | 0,50 | – | 0,50 | 1,00 |
+| Rojas / partido | 0,14 | 0,00 | 0,14 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Auxerre | Recibe Auxerre | Tarjetas Auxerre | Goles Le Mans | Recibe Le Mans | Tarjetas Le Mans |

@@ -1,7 +1,7 @@
 # Sturm Graz – Marseille
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Stadion Graz-Liebenau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **4.00**  ·  X **3.60**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.67**  ·  Menos de 2.5 **2.20**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**
-- **Goles del local:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **1.80**  ·  Menos de 1.5 **1.91**  ·  Más de 2.5 **3.50**  ·  Menos de 2.5 **1.28**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.92**  ·  Menos de 9.5 **1.88**
-- **Tarjetas más/menos:** Más de 3.5 **1.67**  ·  Menos de 3.5 **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.67** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.92** · menos **1.88**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.38**  ·  2 **2.50**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 10,5 | 10,7 | 10,9 | 12,0 |
 | Amarillas propias | 1,8 | 1,3 | 1,6 | 1,4 |
 | Amarillas del rival | 1,3 | 1,7 | 2,1 | 2,4 |
-| Rojas / partido | 0,00 | 0,00 | 0,20 | 0,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sturm Graz | Recibe Sturm Graz | Tarjetas Sturm Graz | Goles Marseille | Recibe Marseille | Tarjetas Marseille |

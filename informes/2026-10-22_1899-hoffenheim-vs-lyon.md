@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – Lyon
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Prezero Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,32 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.05**  ·  X **4.20**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.22**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
-- **Goles más/menos:** Más de 1.5 **1.14**  ·  Menos de 1.5 **5.50**  ·  Más de 2.5 **1.44**  ·  Menos de 2.5 **2.75**  ·  Más de 3.5 **2.20**  ·  Menos de 3.5 **1.67**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **19.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.75**  ·  Menos de 4.5 **1.28**  ·  Más de 7.5 **23.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **6.50**  ·  Menos de 5.5 **1.11**  ·  Más de 6.5 **13.00**  ·  Menos de 6.5 **1.04**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.00**  ·  Menos de 2.5 **1.36**  ·  Más de 3.5 **6.50**  ·  Menos de 3.5 **1.11**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **17.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **34.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **34.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.73**  ·  Menos de 9.5 **2.00**  ·  Más de 10 **1.98**  ·  Menos de 10 **1.82**
-- **Tarjetas más/menos:** Más de 4.5 **2.00**  ·  Menos de 4.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.50**  ·  2 **3.50**
 
 ## Estadísticas de equipo
@@ -56,7 +76,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 9,6 | 9,8 | 13,5 | 14,2 |
 | Amarillas propias | 2,6 | 3,2 | 1,2 | 1,2 |
 | Amarillas del rival | 1,0 | 0,8 | 1,9 | 1,3 |
-| Rojas / partido | 0,33 | 0,50 | 0,25 | 0,00 |
+| Rojas / partido | 0,12 | 0,25 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles 1899 Hoffenheim | Recibe 1899 Hoffenheim | Tarjetas 1899 Hoffenheim | Goles Lyon | Recibe Lyon | Tarjetas Lyon |

@@ -1,7 +1,7 @@
 # Torino – Monza
 **Serie A** · Regular Season - 8 · 23/10/2026 20:45 (hora España) · Stadio Olimpico Grande Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.15**  ·  X **3.30**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.33**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
-- **Goles más/menos:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.91**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.40**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Goles del local:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Córners más/menos:** Más de 8.5 **1.83**  ·  Menos de 8.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.91** · menos **1.91**
+    - 3,5: más **3.40** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.75**
 
 ## Estadísticas de equipo
@@ -53,9 +70,9 @@ _Actualizadas: 22/10 13:13_
 | Más de 10,5 córners | 0% | 0% | 29% | 25% |
 | Faltas cometidas | 9,6 | 7,0 | 12,1 | 13,0 |
 | Faltas recibidas | 12,7 | 13,0 | 11,0 | 11,2 |
-| Amarillas propias | 1,0 | 0,0 | 1,6 | 1,2 |
-| Amarillas del rival | 1,7 | 1,3 | 1,7 | 2,2 |
-| Rojas / partido | 0,00 | – | 0,25 | 0,50 |
+| Amarillas propias | 0,9 | 0,0 | 1,6 | 1,2 |
+| Amarillas del rival | 1,4 | 1,3 | 1,7 | 2,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,14 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Torino | Recibe Torino | Tarjetas Torino | Goles Monza | Recibe Monza | Tarjetas Monza |

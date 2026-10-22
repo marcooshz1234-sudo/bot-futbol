@@ -1,7 +1,7 @@
 # Plzen – Levski Sofia
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Doosan Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.70**  ·  X **3.90**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Córners más/menos:** Más de 9.5 **1.91**  ·  Menos de 9.5 **1.80**
-- **Tarjetas más/menos:** Más de 3.5 **1.62**  ·  Menos de 3.5 **2.20**  ·  Más de 4.5 **2.10**  ·  Menos de 4.5 **1.67**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.38**  ·  2 **4.75**
 
 ## Estadísticas de equipo
@@ -44,18 +63,18 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 50 | 52 | 52 | 48 |
 | Córners a favor | 4,5 | 6,5 | 4,2 | 3,8 |
 | Córners en contra | 3,0 | 2,0 | 4,6 | 6,6 |
-| Córners a favor 1ª parte | 1,3 | 1,5 | 2,7 | 2,0 |
-| Córners a favor 2ª parte | 3,0 | 3,5 | 1,5 | 1,8 |
+| Córners a favor 1ª parte | 1,0 | 1,5 | 2,7 | 2,0 |
+| Córners a favor 2ª parte | 2,2 | 3,5 | 1,5 | 1,8 |
 | Córners totales del partido | 7,5 | 8,5 | 8,8 | 10,4 |
-| Córners totales 1ª parte | 3,3 | 2,0 | 4,7 | 4,8 |
-| Córners totales 2ª parte | 4,7 | 5,0 | 4,1 | 5,6 |
+| Córners totales 1ª parte | 2,5 | 2,0 | 4,7 | 4,8 |
+| Córners totales 2ª parte | 3,5 | 5,0 | 4,1 | 5,6 |
 | Más de 8,5 córners | 50% | 50% | 60% | 80% |
 | Más de 9,5 córners | 50% | 50% | 30% | 60% |
 | Más de 10,5 córners | 25% | 50% | 20% | 40% |
 | Faltas cometidas | 16,0 | 21,5 | 10,8 | 12,3 |
 | Faltas recibidas | 12,0 | 16,0 | 15,6 | 13,3 |
-| Amarillas propias | 2,0 | 1,5 | 1,6 | 1,8 |
-| Amarillas del rival | 3,5 | 4,5 | 2,4 | 2,4 |
+| Amarillas propias | 2,0 | 1,5 | 1,4 | 1,8 |
+| Amarillas del rival | 3,5 | 4,5 | 2,2 | 2,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos

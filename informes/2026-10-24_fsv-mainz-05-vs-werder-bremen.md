@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Werder Bremen
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · MEWA Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.73**  ·  X **4.00**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.30**  ·  Menos de 3.5 **1.62**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.22**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.57**  ·  Menos de 1.5 **2.25**  ·  Más de 2.5 **2.75**  ·  Menos de 2.5 **1.40**  ·  Más de 3.5 **6.00**  ·  Menos de 3.5 **1.12**  ·  Más de 0.5 **1.11**  ·  Menos de 0.5 **6.50**  ·  Más de 4.5 **15.00**  ·  Menos de 4.5 **1.03**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.80**  ·  Menos de 9.5 **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.30** · menos **1.62**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.33**
 
 ## Estadísticas de equipo
@@ -55,7 +71,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,2 | 9,7 | 11,2 | 11,3 |
 | Amarillas propias | 2,3 | 1,3 | 1,2 | 1,0 |
 | Amarillas del rival | 2,0 | 1,7 | 1,3 | 1,7 |
-| Rojas / partido | – | – | – | – |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FSV Mainz 05 | Recibe FSV Mainz 05 | Tarjetas FSV Mainz 05 | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen |

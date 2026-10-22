@@ -1,7 +1,7 @@
 # SC Braga – Gent
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.85**  ·  X **3.70**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
-- **Goles más/menos:** Más de 1.5 **1.36**  ·  Menos de 1.5 **3.00**  ·  Más de 2.5 **2.10**  ·  Menos de 2.5 **1.70**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **19.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **41.00**  ·  Menos de 6.5 **1.00**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del local:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **4.00**  ·  Menos de 1.5 **1.22**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.62**  ·  Menos de 0.5 **2.20**
-- **Córners más/menos:** Más de 8.5 **1.67**  ·  Menos de 8.5 **2.10**  ·  Más de 9 **1.95**  ·  Menos de 9 **1.85**  ·  Más de 9.5 **1.73**  ·  Menos de 9.5 **2.00**  ·  Más de 10 **2.02**  ·  Menos de 10 **1.78**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.95** · menos **1.85**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.10**  ·  2 **5.00**
 
 ## Estadísticas de equipo
@@ -43,11 +62,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 56 | 66 | 50 | 50 |
 | Córners a favor | 5,2 | 7,0 | 6,8 | 4,5 |
 | Córners en contra | 2,6 | 2,5 | 3,0 | 4,0 |
-| Córners a favor 1ª parte | 2,0 | 4,0 | 3,5 | 1,0 |
-| Córners a favor 2ª parte | 2,3 | 1,0 | 5,0 | 5,0 |
+| Córners a favor 1ª parte | 1,2 | 2,0 | 1,4 | 0,5 |
+| Córners a favor 2ª parte | 1,4 | 0,5 | 2,0 | 2,5 |
 | Córners totales del partido | 7,8 | 9,5 | 9,8 | 8,5 |
-| Córners totales 1ª parte | 3,3 | 5,0 | 6,5 | 5,0 |
-| Córners totales 2ª parte | 4,0 | 4,0 | 6,0 | 7,0 |
+| Córners totales 1ª parte | 2,0 | 2,5 | 2,6 | 2,5 |
+| Córners totales 2ª parte | 2,4 | 2,0 | 2,4 | 3,5 |
 | Más de 8,5 córners | 40% | 100% | 80% | 50% |
 | Más de 9,5 córners | 20% | 50% | 60% | 50% |
 | Más de 10,5 córners | 0% | 0% | 40% | 50% |

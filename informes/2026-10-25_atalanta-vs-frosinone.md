@@ -1,7 +1,7 @@
 # Atalanta – Frosinone
-**Serie A** · Regular Season - 8 · 25/10/2026 16:00 (hora España) · New Balance Arena
+**Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,31 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.75**  ·  X **4.00**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.00**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
-- **Goles más/menos:** Más de 1.5 **1.12**  ·  Menos de 1.5 **6.00**  ·  Más de 2.5 **1.40**  ·  Menos de 2.5 **3.00**  ·  Más de 3.5 **2.00**  ·  Menos de 3.5 **1.80**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **19.00**  ·  Más de 8.5 **41.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.40**  ·  Menos de 4.5 **1.33**  ·  Más de 7.5 **21.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **5.50**  ·  Menos de 5.5 **1.14**  ·  Más de 6.5 **11.00**  ·  Menos de 6.5 **1.05**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.50**  ·  Menos de 1.5 **2.50**  ·  Más de 2.5 **2.50**  ·  Menos de 2.5 **1.50**  ·  Más de 3.5 **5.00**  ·  Menos de 3.5 **1.17**  ·  Más de 0.5 **1.08**  ·  Menos de 0.5 **8.00**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **26.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 10 **1.85**  ·  Menos de 10 **1.95**  ·  Más de 10.5 **2.00**  ·  Menos de 10.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 10: más **1.85** · menos **1.95**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.62**  ·  2 **4.00**
 
 ## Estadísticas de equipo
@@ -53,9 +73,9 @@ _Actualizadas: 22/10 13:14_
 | Más de 10,5 córners | 30% | 17% | 57% | 67% |
 | Faltas cometidas | 10,8 | 10,8 | 16,0 | 15,0 |
 | Faltas recibidas | 9,7 | 10,5 | 12,1 | 11,3 |
-| Amarillas propias | 1,1 | 1,0 | 1,7 | 1,7 |
-| Amarillas del rival | 1,6 | 1,3 | 2,4 | 2,7 |
-| Rojas / partido | 1,00 | 1,00 | 0,00 | 0,00 |
+| Amarillas propias | 0,8 | 0,5 | 1,7 | 1,7 |
+| Amarillas del rival | 1,1 | 0,7 | 2,4 | 2,7 |
+| Rojas / partido | 0,20 | 0,17 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Atalanta | Recibe Atalanta | Tarjetas Atalanta | Goles Frosinone | Recibe Frosinone | Tarjetas Frosinone |

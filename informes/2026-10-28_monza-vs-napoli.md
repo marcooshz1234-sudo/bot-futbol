@@ -1,7 +1,7 @@
 # Monza – Napoli
-**Serie A** · Regular Season - 9 · 28/10/2026 21:45 (hora España)
+**Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **4.00**  ·  X **3.50**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**
-- **Goles del local:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **1.80**  ·  Menos de 1.5 **1.91**  ·  Más de 2.5 **3.50**  ·  Menos de 2.5 **1.28**  ·  Más de 3.5 **9.00**  ·  Menos de 3.5 **1.07**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.80**  ·  Menos de 8.5 **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.50**
 
 ## Estadísticas de equipo
@@ -55,7 +72,7 @@ _Actualizadas: 22/10 13:15_
 | Faltas recibidas | 11,0 | 10,7 | 8,6 | 8,6 |
 | Amarillas propias | 1,6 | 2,0 | 1,4 | 1,2 |
 | Amarillas del rival | 1,7 | 1,0 | 1,2 | 2,0 |
-| Rojas / partido | 0,25 | 0,00 | 0,00 | – |
+| Rojas / partido | 0,14 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Monza | Recibe Monza | Tarjetas Monza | Goles Napoli | Recibe Napoli | Tarjetas Napoli |

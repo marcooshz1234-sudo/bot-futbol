@@ -1,7 +1,7 @@
 # Napoli – AS Roma
 **Serie A** · Regular Season - 8 · 24/10/2026 18:00 (hora España) · Maradona Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.88**  ·  X **3.20**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.36**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
-- **Goles más/menos:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.91**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.20**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **6.00**  ·  Menos de 4.5 **1.12**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.83**  ·  Menos de 8.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.91** · menos **1.91**
+    - 3,5: más **3.20** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.20**  ·  2 **3.10**
 
 ## Estadísticas de equipo
@@ -55,7 +71,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 8,6 | 8,6 | 9,0 | 9,2 |
 | Amarillas propias | 1,4 | 1,6 | 1,8 | 2,0 |
 | Amarillas del rival | 1,2 | 0,4 | 2,0 | 1,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,25 | 1,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Napoli | Recibe Napoli | Tarjetas Napoli | Goles AS Roma | Recibe AS Roma | Tarjetas AS Roma |

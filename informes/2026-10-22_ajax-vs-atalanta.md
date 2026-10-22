@@ -1,7 +1,7 @@
 # Ajax – Atalanta
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.15**  ·  X **3.75**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
-- **Goles más/menos:** Más de 1.5 **1.14**  ·  Menos de 1.5 **5.50**  ·  Más de 2.5 **1.48**  ·  Menos de 2.5 **2.60**  ·  Más de 3.5 **2.10**  ·  Menos de 3.5 **1.67**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **17.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.75**  ·  Menos de 4.5 **1.25**  ·  Más de 7.5 **26.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **7.00**  ·  Menos de 5.5 **1.10**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.80**  ·  Menos de 1.5 **1.91**  ·  Más de 2.5 **3.50**  ·  Menos de 2.5 **1.28**  ·  Más de 3.5 **9.00**  ·  Menos de 3.5 **1.07**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 8.5 **1.67**  ·  Menos de 8.5 **2.10**  ·  Más de 9 **1.95**  ·  Menos de 9 **1.85**
-- **Tarjetas más/menos:** Más de 3.5 **1.83**  ·  Menos de 3.5 **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+- **Goles del local:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.95** · menos **1.85**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.50**  ·  2 **3.40**
 
 ## Estadísticas de equipo
@@ -54,9 +73,9 @@ _Actualizadas: 22/10 13:13_
 | Más de 10,5 córners | 57% | 33% | 30% | 50% |
 | Faltas cometidas | 9,6 | 8,3 | 10,8 | 10,8 |
 | Faltas recibidas | 12,0 | 9,7 | 9,7 | 8,5 |
-| Amarillas propias | 1,1 | 0,3 | 1,1 | 1,2 |
-| Amarillas del rival | 2,1 | 1,7 | 1,6 | 1,8 |
-| Rojas / partido | – | – | 1,00 | 1,00 |
+| Amarillas propias | 1,1 | 0,3 | 0,8 | 1,2 |
+| Amarillas del rival | 2,1 | 1,7 | 1,1 | 1,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,20 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Ajax | Recibe Ajax | Tarjetas Ajax | Goles Atalanta | Recibe Atalanta | Tarjetas Atalanta |

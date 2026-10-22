@@ -1,7 +1,7 @@
 # Udinese – AC Milan
-**Serie A** · Regular Season - 8 · 25/10/2026 21:45 (hora España) · Bluenergy Stadium - Stadio Friuli
+**Serie A** · Regular Season - 8 · 25/10/2026 20:45 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **5.50**  ·  X **3.75**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.25**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **3.20**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **34.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.57**  ·  Menos de 0.5 **2.25**
-- **Goles del visitante:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **2.00**  ·  Menos de 9 **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.20** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **2.00** · menos **1.80**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.30**  ·  2 **2.20**
 
 ## Estadísticas de equipo
@@ -55,7 +73,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 8,9 | 9,8 | 12,1 | 12,2 |
 | Amarillas propias | 1,9 | 2,8 | 1,7 | 2,4 |
 | Amarillas del rival | 0,4 | 0,2 | 1,9 | 1,2 |
-| Rojas / partido | 0,00 | – | 0,50 | 1,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Udinese | Recibe Udinese | Tarjetas Udinese | Goles AC Milan | Recibe AC Milan | Tarjetas AC Milan |

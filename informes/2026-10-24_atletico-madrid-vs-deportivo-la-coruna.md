@@ -1,7 +1,7 @@
 # Atletico Madrid – Deportivo La Coruna
 **LaLiga** · Regular Season - 10 · 24/10/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.14**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.57**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.22**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.33**  ·  Menos de 1.5 **3.25**  ·  Más de 2.5 **2.00**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **19.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **34.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **5.50**  ·  Menos de 1.5 **1.14**  ·  Más de 2.5 **21.00**  ·  Menos de 2.5 **1.01**  ·  Más de 0.5 **1.83**  ·  Menos de 0.5 **1.83**
-- **Córners más/menos:** Más de 9.5 **1.73**  ·  Menos de 9.5 **2.00**  ·  Más de 10 **2.00**  ·  Menos de 10 **1.80**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.00** · menos **1.80**
 - **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **9.00**
 
 ## Estadísticas de equipo
@@ -55,7 +73,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,9 | 11,0 | 12,0 | 13,5 |
 | Amarillas propias | 1,8 | 1,8 | 2,0 | 2,2 |
 | Amarillas del rival | 1,6 | 2,0 | 1,9 | 1,8 |
-| Rojas / partido | 0,40 | 0,33 | 1,00 | 1,00 |
+| Rojas / partido | 0,17 | 0,20 | 0,33 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Atletico Madrid | Recibe Atletico Madrid | Tarjetas Atletico Madrid | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna |

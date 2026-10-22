@@ -1,7 +1,7 @@
 # Fiorentina – Atalanta
-**Serie A** · Regular Season - 9 · 29/10/2026 21:45 (hora España) · Stadio Artemio Franchi
+**Serie A** · Regular Season - 9 · 29/10/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,29 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **2.02**  ·  Menos de 9 **1.78**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.40**
 
 ## Estadísticas de equipo
@@ -53,9 +71,9 @@ _Actualizadas: 22/10 13:15_
 | Más de 10,5 córners | 29% | 50% | 30% | 50% |
 | Faltas cometidas | 11,0 | 12,5 | 10,8 | 10,8 |
 | Faltas recibidas | 12,6 | 12,8 | 9,7 | 8,5 |
-| Amarillas propias | 2,3 | 2,7 | 1,1 | 1,2 |
-| Amarillas del rival | 2,5 | 2,0 | 1,6 | 1,8 |
-| Rojas / partido | – | – | 1,00 | 1,00 |
+| Amarillas propias | 2,0 | 2,0 | 0,8 | 1,2 |
+| Amarillas del rival | 2,1 | 1,5 | 1,1 | 1,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,20 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Fiorentina | Recibe Fiorentina | Tarjetas Fiorentina | Goles Atalanta | Recibe Atalanta | Tarjetas Atalanta |

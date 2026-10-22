@@ -1,7 +1,7 @@
 # Borussia Dortmund – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 7 · 24/10/2026 18:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.48**  ·  X **5.00**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
-- **Goles más/menos:** Más de 1.5 **1.10**  ·  Menos de 1.5 **7.00**  ·  Más de 2.5 **1.33**  ·  Menos de 2.5 **3.40**  ·  Más de 3.5 **1.91**  ·  Menos de 3.5 **1.91**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **29.00**  ·  Más de 8.5 **29.00**  ·  Menos de 8.5 **1.01**  ·  Más de 4.5 **3.00**  ·  Menos de 4.5 **1.40**  ·  Más de 7.5 **19.00**  ·  Menos de 7.5 **1.02**  ·  Más de 5.5 **5.00**  ·  Menos de 5.5 **1.17**  ·  Más de 6.5 **10.00**  ·  Menos de 6.5 **1.06**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.33**  ·  Menos de 1.5 **3.25**  ·  Más de 2.5 **2.00**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **17.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **34.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.88**  ·  Menos de 9.5 **1.92**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.00** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.88** · menos **1.92**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.88**  ·  2 **5.00**
 
 ## Estadísticas de equipo
@@ -55,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,7 | 11,5 | 13,2 | 12,7 |
 | Amarillas propias | 2,0 | 1,5 | 2,3 | 3,0 |
 | Amarillas del rival | 2,1 | 1,5 | 1,3 | 1,0 |
-| Rojas / partido | 0,33 | 1,00 | – | – |
+| Rojas / partido | 0,11 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Borussia Dortmund | Recibe Borussia Dortmund | Tarjetas Borussia Dortmund | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt |

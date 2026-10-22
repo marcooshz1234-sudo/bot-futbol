@@ -1,7 +1,7 @@
 # Venezia – Inter
-**Serie A** · Regular Season - 9 · 28/10/2026 19:30 (hora España) · Stadio Pierluigi Penzo
+**Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,32 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **8.50**  ·  X **5.00**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.08**  ·  Menos de 1.5 **8.00**  ·  Más de 2.5 **1.33**  ·  Menos de 2.5 **3.40**  ·  Más de 3.5 **1.80**  ·  Menos de 3.5 **2.00**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **23.00**  ·  Más de 8.5 **29.00**  ·  Menos de 8.5 **1.01**  ·  Más de 9.5 **51.00**  ·  Menos de 9.5 **1.00**  ·  Más de 4.5 **2.75**  ·  Menos de 4.5 **1.44**  ·  Más de 7.5 **17.00**  ·  Menos de 7.5 **1.02**  ·  Más de 5.5 **4.50**  ·  Menos de 5.5 **1.20**  ·  Más de 6.5 **9.00**  ·  Menos de 6.5 **1.07**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **10.00**  ·  Menos de 2.5 **1.06**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del visitante:** Más de 1.5 **1.25**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.83**  ·  Menos de 2.5 **1.83**  ·  Más de 3.5 **3.25**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Córners más/menos:** Más de 8.5 **1.67**  ·  Menos de 8.5 **2.10**  ·  Más de 9 **1.95**  ·  Menos de 9 **1.85**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.80** · menos **2.00**
+    - 4,5: más **2.75** · menos **1.44**
+    - 5,5: más **4.50** · menos **1.20**
+    - 6,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **6.50**  ·  X **3.00**  ·  2 **1.73**
 
 ## Estadísticas de equipo
@@ -53,9 +74,9 @@ _Actualizadas: 22/10 13:15_
 | Más de 10,5 córners | 29% | 25% | 40% | 50% |
 | Faltas cometidas | 10,1 | 10,0 | 8,2 | 8,2 |
 | Faltas recibidas | 10,3 | 8,0 | 10,1 | 9,8 |
-| Amarillas propias | 2,9 | 2,8 | 2,2 | 2,5 |
-| Amarillas del rival | 1,1 | 1,0 | 2,3 | 2,5 |
-| Rojas / partido | 0,00 | – | 1,00 | – |
+| Amarillas propias | 2,9 | 2,8 | 2,0 | 2,5 |
+| Amarillas del rival | 1,1 | 1,0 | 2,1 | 2,5 |
+| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Venezia | Recibe Venezia | Tarjetas Venezia | Goles Inter | Recibe Inter | Tarjetas Inter |

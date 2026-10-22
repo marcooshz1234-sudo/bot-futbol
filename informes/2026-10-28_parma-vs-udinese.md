@@ -1,7 +1,7 @@
 # Parma – Udinese
-**Serie A** · Regular Season - 9 · 28/10/2026 19:30 (hora España) · Stadio Ennio Tardini
+**Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **3.00**  ·  X **3.20**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.91**
-- **Goles más/menos:** Más de 1.5 **1.36**  ·  Menos de 1.5 **3.20**  ·  Más de 2.5 **2.10**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **4.00**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **9.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **17.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **34.00**  ·  Menos de 6.5 **1.00**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del local:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Goles del visitante:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9 **1.80**  ·  Menos de 9 **2.00**  ·  Más de 9.5 **2.00**  ·  Menos de 9.5 **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.20**
+    - 2,5: más **2.10** · menos **1.73**
+    - 3,5: más **4.00** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Córners más/menos:**
+    - 9: más **1.80** · menos **2.00**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.05**  ·  2 **3.10**
 
 ## Estadísticas de equipo
@@ -53,8 +69,8 @@ _Actualizadas: 22/10 13:15_
 | Más de 10,5 córners | 29% | 0% | 43% | 33% |
 | Faltas cometidas | 10,1 | 11,5 | 11,0 | 10,3 |
 | Faltas recibidas | 15,7 | 16,5 | 8,9 | 7,7 |
-| Amarillas propias | 1,8 | 2,0 | 1,9 | 0,7 |
-| Amarillas del rival | 2,0 | 2,2 | 0,4 | 0,7 |
+| Amarillas propias | 1,6 | 2,0 | 1,9 | 0,7 |
+| Amarillas del rival | 1,7 | 2,2 | 0,4 | 0,7 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos

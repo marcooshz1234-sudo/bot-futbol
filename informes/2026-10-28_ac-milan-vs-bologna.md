@@ -1,7 +1,7 @@
 # AC Milan – Bologna
-**Serie A** · Regular Season - 9 · 28/10/2026 19:30 (hora España)
+**Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **1.60**  ·  X **3.80**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.30**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.25**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **3.00**  ·  Menos de 3.5 **1.40**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **17.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.57**  ·  Menos de 0.5 **2.25**
-- **Córners más/menos:** Más de 8.5 **1.91**  ·  Menos de 8.5 **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.30**  ·  2 **5.50**
 
 ## Estadísticas de equipo
@@ -55,7 +72,7 @@ _Actualizadas: 22/10 13:15_
 | Faltas recibidas | 12,1 | 12,0 | 13,1 | 14,0 |
 | Amarillas propias | 1,7 | 0,8 | 2,0 | 1,0 |
 | Amarillas del rival | 1,9 | 2,8 | 2,1 | 1,3 |
-| Rojas / partido | 0,50 | 0,00 | – | – |
+| Rojas / partido | 0,11 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles AC Milan | Recibe AC Milan | Tarjetas AC Milan | Goles Bologna | Recibe Bologna | Tarjetas Bologna |

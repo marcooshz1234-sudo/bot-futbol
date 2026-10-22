@@ -1,7 +1,7 @@
 # FC Iberia 1999 – Mjallby AIF
 **Conference League** · League Stage - 2 · 22/10/2026 18:45 (hora España) · Mikheil Meskhi Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.88**  ·  X **3.50**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
-- **Goles más/menos:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.50**  ·  Más de 2.5 **1.90**  ·  Menos de 2.5 **1.90**  ·  Más de 3.5 **3.25**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.50**  ·  X **2.20**  ·  2 **3.00**
 
 ## Estadísticas de equipo
@@ -41,16 +58,16 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 13,6 | 11,3 | 8,8 | 13,0 |
 | Tiros a puerta recibidos | 4,5 | 4,5 | 4,3 | 5,3 |
 | Posesión media % | 58 | 64 | 45 | 46 |
-| Córners a favor | 6,1 | 8,0 | 3,7 | 4,0 |
-| Córners en contra | 3,6 | 4,0 | 4,7 | 4,7 |
-| Córners a favor 1ª parte | 2,8 | 4,3 | 2,5 | 3,0 |
-| Córners a favor 2ª parte | 2,4 | 2,7 | 2,5 | 5,0 |
-| Córners totales del partido | 9,7 | 12,0 | 8,4 | 8,7 |
-| Córners totales 1ª parte | 5,0 | 6,7 | 5,0 | 6,0 |
-| Córners totales 2ª parte | 4,2 | 5,3 | 4,5 | 7,0 |
-| Más de 8,5 córners | 71% | 100% | 43% | 33% |
-| Más de 9,5 córners | 71% | 100% | 29% | 33% |
-| Más de 10,5 córners | 57% | 100% | 14% | 33% |
+| Córners a favor | 4,8 | 8,0 | 3,7 | 4,0 |
+| Córners en contra | 2,8 | 4,0 | 4,7 | 4,7 |
+| Córners a favor 1ª parte | 1,8 | 3,2 | 1,4 | 1,0 |
+| Córners a favor 2ª parte | 1,5 | 2,0 | 1,4 | 1,7 |
+| Córners totales del partido | 7,6 | 12,0 | 8,4 | 8,7 |
+| Córners totales 1ª parte | 3,1 | 5,0 | 2,9 | 2,0 |
+| Córners totales 2ª parte | 2,6 | 4,0 | 2,6 | 2,3 |
+| Más de 8,5 córners | 56% | 100% | 43% | 33% |
+| Más de 9,5 córners | 56% | 100% | 29% | 33% |
+| Más de 10,5 córners | 44% | 100% | 14% | 33% |
 | Faltas cometidas | 13,8 | 14,0 | 10,0 | 9,5 |
 | Faltas recibidas | 22,2 | 22,5 | 10,2 | 10,0 |
 | Amarillas propias | 2,7 | 3,5 | 2,4 | 3,3 |

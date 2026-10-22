@@ -1,7 +1,7 @@
 # Lazio – Parma
 **Serie A** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.42**  ·  X **4.33**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.20**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **2.05**  ·  No **1.70**
-- **Goles más/menos:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.91**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.20**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **6.00**  ·  Menos de 4.5 **1.12**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **1.57**  ·  Menos de 1.5 **2.25**  ·  Más de 2.5 **2.75**  ·  Menos de 2.5 **1.40**  ·  Más de 3.5 **6.00**  ·  Menos de 3.5 **1.12**  ·  Más de 0.5 **1.11**  ·  Menos de 0.5 **6.50**  ·  Más de 4.5 **15.00**  ·  Menos de 4.5 **1.03**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **5.50**  ·  Menos de 1.5 **1.14**  ·  Más de 2.5 **21.00**  ·  Menos de 2.5 **1.01**  ·  Más de 3.5 **51.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.83**  ·  Menos de 0.5 **1.83**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **1.98**  ·  Menos de 9 **1.82**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.91** · menos **1.91**
+    - 3,5: más **3.20** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.38**  ·  2 **7.50**
 
 ## Estadísticas de equipo
@@ -53,8 +70,8 @@ _Actualizadas: 22/10 13:14_
 | Más de 10,5 córners | 43% | 33% | 29% | 67% |
 | Faltas cometidas | 12,3 | 14,3 | 10,1 | 8,3 |
 | Faltas recibidas | 11,6 | 9,7 | 15,7 | 14,7 |
-| Amarillas propias | 1,9 | 2,0 | 1,8 | 1,5 |
-| Amarillas del rival | 3,0 | 2,0 | 2,0 | 1,5 |
+| Amarillas propias | 1,9 | 2,0 | 1,6 | 1,0 |
+| Amarillas del rival | 3,0 | 2,0 | 1,7 | 1,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos

@@ -1,7 +1,7 @@
 # Sunderland – Leeds
-**Premier League** · Regular Season - 8 · 25/10/2026 18:30 (hora España) · Stadium of Light
+**Premier League** · Regular Season - 8 · 25/10/2026 17:30 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **3.10**  ·  X **3.25**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.36**  ·  Menos de 1.5 **3.20**  ·  Más de 2.5 **2.10**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **4.00**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **9.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **17.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **34.00**  ·  Menos de 6.5 **1.00**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del local:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.67**  ·  Menos de 8.5 **2.10**  ·  Más de 9 **1.90**  ·  Menos de 9 **1.90**
-- **Tarjetas más/menos:** Más de 4.5 **1.83**  ·  Menos de 4.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.20**
+    - 2,5: más **2.10** · menos **1.73**
+    - 3,5: más **4.00** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.90** · menos **1.90**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.10**  ·  2 **3.00**
 
 ## Estadísticas de equipo
@@ -56,7 +73,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 13,9 | 12,8 | 11,9 | 13,3 |
 | Amarillas propias | 2,2 | 2,2 | 1,9 | 2,7 |
 | Amarillas del rival | 1,6 | 1,8 | 2,4 | 2,0 |
-| Rojas / partido | 0,33 | 0,33 | 0,00 | – |
+| Rojas / partido | 0,22 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sunderland | Recibe Sunderland | Tarjetas Sunderland | Goles Leeds | Recibe Leeds | Tarjetas Leeds |

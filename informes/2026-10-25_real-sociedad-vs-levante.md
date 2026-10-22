@@ -1,7 +1,7 @@
 # Real Sociedad – Levante
-**LaLiga** · Regular Season - 10 · 25/10/2026 19:30 (hora España) · Anoeta
+**LaLiga** · Regular Season - 10 · 25/10/2026 18:30 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.73**  ·  X **3.80**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.62**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.50**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **1.62**  ·  Menos de 1.5 **2.20**  ·  Más de 2.5 **3.00**  ·  Menos de 2.5 **1.36**  ·  Más de 3.5 **6.50**  ·  Menos de 3.5 **1.11**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **15.00**  ·  Menos de 4.5 **1.03**  ·  Más de 5.5 **34.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Córners más/menos:** Más de 10 **1.85**  ·  Menos de 10 **1.95**  ·  Más de 10.5 **2.00**  ·  Menos de 10.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.53**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 10: más **1.85** · menos **1.95**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.40**  ·  2 **4.50**
 
 ## Estadísticas de equipo
@@ -55,7 +72,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,5 | 12,0 | 12,7 | 13,4 |
 | Amarillas propias | 2,1 | 2,0 | 1,3 | 1,2 |
 | Amarillas del rival | 2,5 | 2,6 | 2,4 | 2,6 |
-| Rojas / partido | 0,60 | 0,50 | 0,00 | – |
+| Rojas / partido | 0,27 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Real Sociedad | Recibe Real Sociedad | Tarjetas Real Sociedad | Goles Levante | Recibe Levante | Tarjetas Levante |

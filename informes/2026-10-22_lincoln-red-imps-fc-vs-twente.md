@@ -1,7 +1,7 @@
 # Lincoln Red Imps FC – Twente
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **12.00**  ·  X **7.00**  ·  2 **1.20**
 - **Doble oportunidad:** 1X **4.33**  ·  12 **1.11**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
-- **Goles más/menos:** Más de 1.5 **1.12**  ·  Menos de 1.5 **6.00**  ·  Más de 2.5 **1.44**  ·  Menos de 2.5 **2.70**  ·  Más de 3.5 **2.00**  ·  Menos de 3.5 **1.73**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **21.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.40**  ·  Menos de 4.5 **1.30**  ·  Más de 7.5 **23.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **6.00**  ·  Menos de 5.5 **1.12**  ·  Más de 6.5 **13.00**  ·  Menos de 6.5 **1.04**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **5.50**  ·  Menos de 1.5 **1.14**  ·  Más de 2.5 **19.00**  ·  Menos de 2.5 **1.02**  ·  Más de 0.5 **1.83**  ·  Menos de 0.5 **1.83**
-- **Goles del visitante:** Más de 1.5 **1.25**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.00**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **6.00**  ·  Menos de 4.5 **1.12**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Córners más/menos:** Más de 9 **1.85**  ·  Menos de 9 **1.95**  ·  Más de 9.5 **2.10**  ·  Menos de 9.5 **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9: más **1.85** · menos **1.95**
+    - 9,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **10.00**  ·  X **3.00**  ·  2 **1.53**
 
 ## Estadísticas de equipo
@@ -43,11 +63,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 43 | 41 | 65 | 63 |
 | Córners a favor | 4,5 | 4,5 | 7,3 | 9,7 |
 | Córners en contra | 8,0 | 6,2 | 2,6 | 1,7 |
-| Córners a favor 1ª parte | 1,8 | 1,5 | 3,7 | 4,3 |
-| Córners a favor 2ª parte | 2,0 | 2,5 | 3,6 | 5,3 |
+| Córners a favor 1ª parte | 1,1 | 0,8 | 3,7 | 4,3 |
+| Córners a favor 2ª parte | 1,2 | 1,2 | 3,6 | 5,3 |
 | Córners totales del partido | 12,5 | 10,8 | 9,9 | 11,3 |
-| Córners totales 1ª parte | 4,6 | 3,0 | 5,7 | 5,7 |
-| Córners totales 2ª parte | 8,4 | 8,0 | 4,1 | 5,7 |
+| Córners totales 1ª parte | 2,9 | 1,5 | 5,7 | 5,7 |
+| Córners totales 2ª parte | 5,2 | 4,0 | 4,1 | 5,7 |
 | Más de 8,5 córners | 100% | 100% | 57% | 100% |
 | Más de 9,5 córners | 75% | 50% | 43% | 67% |
 | Más de 10,5 córners | 62% | 50% | 29% | 33% |

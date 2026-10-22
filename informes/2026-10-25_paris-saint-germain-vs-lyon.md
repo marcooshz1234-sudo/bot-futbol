@@ -1,7 +1,7 @@
 # Paris Saint Germain – Lyon
-**Ligue 1** · Regular Season - 8 · 25/10/2026 21:45 (hora España) · Parc des Princes
+**Ligue 1** · Regular Season - 8 · 25/10/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,33 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.48**  ·  X **4.75**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.11**  ·  Menos de 1.5 **6.50**  ·  Más de 2.5 **1.40**  ·  Menos de 2.5 **3.00**  ·  Más de 3.5 **2.00**  ·  Menos de 3.5 **1.80**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **23.00**  ·  Más de 8.5 **41.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.20**  ·  Menos de 4.5 **1.36**  ·  Más de 7.5 **21.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **5.50**  ·  Menos de 5.5 **1.14**  ·  Más de 6.5 **11.00**  ·  Menos de 6.5 **1.05**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.91**  ·  Menos de 1.5 **1.80**  ·  Más de 2.5 **4.00**  ·  Menos de 2.5 **1.22**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.33**  ·  Menos de 1.5 **3.25**  ·  Más de 2.5 **2.00**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **19.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **41.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Córners más/menos:** Más de 9.5 **1.67**  ·  Menos de 9.5 **2.10**  ·  Más de 10 **1.92**  ·  Menos de 10 **1.88**
-- **Tarjetas más/menos:** Más de 4.5 **2.20**  ·  Menos de 4.5 **1.62**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.92** · menos **1.88**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **5.50**
 
 ## Estadísticas de equipo
@@ -56,7 +77,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,6 | 11,0 | 13,5 | 14,2 |
 | Amarillas propias | 0,8 | 0,2 | 1,2 | 1,2 |
 | Amarillas del rival | 1,9 | 1,8 | 1,9 | 1,3 |
-| Rojas / partido | 0,00 | 0,00 | 0,25 | 0,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Paris Saint Germain | Recibe Paris Saint Germain | Tarjetas Paris Saint Germain | Goles Lyon | Recibe Lyon | Tarjetas Lyon |

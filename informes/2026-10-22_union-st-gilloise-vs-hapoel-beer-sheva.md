@@ -1,7 +1,7 @@
 # Union St. Gilloise – Hapoel Beer Sheva
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Merkur Spielarena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,33 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.50**  ·  Menos de 2.5 **2.62**  ·  Más de 3.5 **2.30**  ·  Menos de 3.5 **1.62**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **17.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **4.00**  ·  Menos de 4.5 **1.25**  ·  Más de 7.5 **26.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **7.00**  ·  Menos de 5.5 **1.10**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.36**  ·  Menos de 1.5 **3.00**  ·  Más de 2.5 **2.10**  ·  Menos de 2.5 **1.67**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **19.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **41.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **4.00**  ·  Menos de 1.5 **1.22**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.62**  ·  Menos de 0.5 **2.20**
-- **Córners más/menos:** Más de 8.5 **1.67**  ·  Menos de 8.5 **2.10**  ·  Más de 9 **1.92**  ·  Menos de 9 **1.88**
-- **Tarjetas más/menos:** Más de 3.5 **1.62**  ·  Menos de 3.5 **2.20**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.30** · menos **1.62**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.92** · menos **1.88**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **7.00**
 
 ## Estadísticas de equipo
@@ -44,11 +65,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 43 | 46 | 52 | 58 |
 | Córners a favor | 2,8 | 4,5 | 3,6 | 2,0 |
 | Córners en contra | 4,2 | 1,0 | 5,2 | 6,5 |
-| Córners a favor 1ª parte | 1,5 | 2,5 | 1,4 | 0,3 |
-| Córners a favor 2ª parte | 1,2 | 2,0 | 2,3 | 1,3 |
+| Córners a favor 1ª parte | 1,5 | 2,5 | 1,2 | 0,2 |
+| Córners a favor 2ª parte | 1,2 | 2,0 | 2,0 | 1,0 |
 | Córners totales del partido | 7,0 | 5,5 | 8,9 | 8,5 |
-| Córners totales 1ª parte | 3,5 | 3,0 | 4,3 | 4,7 |
-| Córners totales 2ª parte | 2,5 | 2,5 | 5,0 | 4,7 |
+| Córners totales 1ª parte | 3,5 | 3,0 | 3,8 | 3,5 |
+| Córners totales 2ª parte | 2,5 | 2,5 | 4,4 | 3,5 |
 | Más de 8,5 córners | 25% | 0% | 38% | 25% |
 | Más de 9,5 córners | 25% | 0% | 38% | 25% |
 | Más de 10,5 córners | 25% | 0% | 38% | 25% |

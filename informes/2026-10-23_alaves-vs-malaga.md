@@ -1,7 +1,7 @@
 # Alaves – Malaga
 **LaLiga** · Regular Season - 10 · 23/10/2026 21:00 (hora España) · Estadio de Mendizorroza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.73**  ·  X **3.50**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
-- **Goles más/menos:** Más de 1.5 **1.33**  ·  Menos de 1.5 **3.40**  ·  Más de 2.5 **2.10**  ·  Menos de 2.5 **1.73**  ·  Más de 3.5 **3.75**  ·  Menos de 3.5 **1.28**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **9.00**  ·  Más de 4.5 **7.00**  ·  Menos de 4.5 **1.10**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Goles del local:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **4.00**  ·  Menos de 1.5 **1.22**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.62**  ·  Menos de 0.5 **2.20**
-- **Córners más/menos:** Más de 9.5 **1.80**  ·  Menos de 9.5 **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.40**
+    - 2,5: más **2.10** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.20**  ·  2 **5.00**
 
 ## Estadísticas de equipo
@@ -55,7 +71,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 13,3 | 12,4 | 11,8 | 12,2 |
 | Amarillas propias | 1,8 | 2,0 | 2,6 | 2,0 |
 | Amarillas del rival | 2,1 | 2,6 | 2,3 | 1,8 |
-| Rojas / partido | 0,33 | 0,50 | – | – |
+| Rojas / partido | 0,11 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Alaves | Recibe Alaves | Tarjetas Alaves | Goles Malaga | Recibe Malaga | Tarjetas Malaga |

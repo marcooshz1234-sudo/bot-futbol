@@ -1,7 +1,7 @@
 # Juventus – Rennes
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.45**  ·  X **4.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.62**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.50**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **1.50**  ·  Menos de 1.5 **2.50**  ·  Más de 2.5 **2.50**  ·  Menos de 2.5 **1.50**  ·  Más de 3.5 **5.00**  ·  Menos de 3.5 **1.17**  ·  Más de 0.5 **1.08**  ·  Menos de 0.5 **8.00**  ·  Más de 4.5 **11.00**  ·  Menos de 4.5 **1.05**  ·  Más de 5.5 **26.00**  ·  Menos de 5.5 **1.01**  ·  Más de 6.5 **51.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **4.00**  ·  Menos de 1.5 **1.22**  ·  Más de 2.5 **13.00**  ·  Menos de 2.5 **1.04**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.57**  ·  Menos de 0.5 **2.25**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 3.5 **1.83**  ·  Menos de 3.5 **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.53**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.50**  ·  2 **6.00**
 
 ## Estadísticas de equipo

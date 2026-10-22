@@ -1,7 +1,7 @@
 # Angers – Lorient
-**Ligue 1** · Regular Season - 8 · 25/10/2026 18:15 (hora España) · Stade Raymond Kopa
+**Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **3.10**  ·  X **3.30**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.33**  ·  Menos de 1.5 **3.40**  ·  Más de 2.5 **2.00**  ·  Menos de 2.5 **1.80**  ·  Más de 3.5 **3.50**  ·  Menos de 3.5 **1.30**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **9.50**  ·  Más de 4.5 **7.00**  ·  Menos de 4.5 **1.10**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Goles del local:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9 **1.82**  ·  Menos de 9 **1.98**  ·  Más de 9.5 **2.00**  ·  Menos de 9.5 **1.73**
-- **Tarjetas más/menos:** Más de 3.5 **1.83**  ·  Menos de 3.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **9.50**
+    - 1,5: más **1.33** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 9: más **1.82** · menos **1.98**
+    - 9,5: más **2.00** · menos **1.73**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **3.00**
 
 ## Estadísticas de equipo
@@ -56,7 +73,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 13,0 | 13,8 | 15,3 | 16,0 |
 | Amarillas propias | 1,6 | 1,8 | 1,1 | 1,3 |
 | Amarillas del rival | 1,6 | 1,5 | 2,4 | 2,7 |
-| Rojas / partido | 0,50 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,14 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Angers | Recibe Angers | Tarjetas Angers | Goles Lorient | Recibe Lorient | Tarjetas Lorient |

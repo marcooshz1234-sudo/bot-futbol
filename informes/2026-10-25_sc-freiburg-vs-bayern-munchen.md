@@ -1,7 +1,7 @@
 # SC Freiburg – Bayern München
-**Bundesliga** · Regular Season - 7 · 25/10/2026 18:30 (hora España) · Europa-Park Stadion
+**Bundesliga** · Regular Season - 7 · 25/10/2026 17:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,33 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **6.50**  ·  X **5.75**  ·  2 **1.38**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.14**  ·  X2 **1.11**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
-- **Goles más/menos:** Más de 1.5 **1.07**  ·  Menos de 1.5 **9.00**  ·  Más de 2.5 **1.25**  ·  Menos de 2.5 **4.00**  ·  Más de 3.5 **1.62**  ·  Menos de 3.5 **2.30**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **26.00**  ·  Más de 8.5 **23.00**  ·  Menos de 8.5 **1.01**  ·  Más de 9.5 **41.00**  ·  Menos de 9.5 **1.00**  ·  Más de 4.5 **2.38**  ·  Menos de 4.5 **1.57**  ·  Más de 7.5 **13.00**  ·  Menos de 7.5 **1.04**  ·  Más de 5.5 **4.00**  ·  Menos de 5.5 **1.25**  ·  Más de 6.5 **6.50**  ·  Menos de 6.5 **1.11**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.40**  ·  Menos de 2.5 **1.30**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**
-- **Goles del local:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.40**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Córners más/menos:** Más de 9 **1.82**  ·  Menos de 9 **1.98**  ·  Más de 9.5 **2.00**  ·  Menos de 9.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.25** · menos **4.00**
+    - 3,5: más **1.62** · menos **2.30**
+    - 4,5: más **2.38** · menos **1.57**
+    - 5,5: más **4.00** · menos **1.25**
+    - 6,5: más **6.50** · menos **1.11**
+    - 7,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.00**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9: más **1.82** · menos **1.98**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **5.50**  ·  X **3.10**  ·  2 **1.73**
 
 ## Estadísticas de equipo
@@ -55,7 +77,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 13,8 | 14,0 | 9,1 | 9,0 |
 | Amarillas propias | 1,4 | 1,2 | 1,0 | 1,5 |
 | Amarillas del rival | 2,0 | 2,0 | 2,0 | 2,2 |
-| Rojas / partido | 0,25 | 0,33 | 0,33 | 1,00 |
+| Rojas / partido | 0,11 | 0,20 | 0,11 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles SC Freiburg | Recibe SC Freiburg | Tarjetas SC Freiburg | Goles Bayern München | Recibe Bayern München | Tarjetas Bayern München |

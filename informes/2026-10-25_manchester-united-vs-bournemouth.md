@@ -1,7 +1,7 @@
 # Manchester United – Bournemouth
-**Premier League** · Regular Season - 8 · 25/10/2026 16:00 (hora España) · Old Trafford
+**Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.95**  ·  X **3.80**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.62**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.50**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.40**  ·  Menos de 2.5 **1.30**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 10 **1.88**  ·  Menos de 10 **1.92**  ·  Más de 10.5 **2.10**  ·  Menos de 10.5 **1.67**
-- **Tarjetas más/menos:** Más de 4.5 **1.91**  ·  Menos de 4.5 **1.80**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.53**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 10: más **1.88** · menos **1.92**
+    - 10,5: más **2.10** · menos **1.67**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.40**  ·  2 **3.75**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,4 | 12,8 | 12,9 | 12,8 |
 | Amarillas propias | 1,7 | 1,8 | 3,0 | 3,0 |
 | Amarillas del rival | 2,1 | 2,2 | 1,8 | 1,5 |
-| Rojas / partido | 0,12 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,10 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United | Goles Bournemouth | Recibe Bournemouth | Tarjetas Bournemouth |

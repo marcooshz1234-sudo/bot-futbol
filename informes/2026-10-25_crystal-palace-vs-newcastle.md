@@ -1,7 +1,7 @@
 # Crystal Palace – Newcastle
-**Premier League** · Regular Season - 8 · 25/10/2026 16:00 (hora España) · Selhurst Park
+**Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.62**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.50**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **1.91**  ·  Menos de 1.5 **1.80**  ·  Más de 2.5 **4.00**  ·  Menos de 2.5 **1.22**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 9.5 **1.80**  ·  Menos de 9.5 **1.91**
-- **Tarjetas más/menos:** Más de 4.5 **2.20**  ·  Menos de 4.5 **1.62**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.53**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **1.91**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.38**  ·  2 **2.88**
 
 ## Estadísticas de equipo
@@ -54,9 +72,9 @@ _Actualizadas: 22/10 13:14_
 | Más de 10,5 córners | 33% | 50% | 29% | 33% |
 | Faltas cometidas | 9,9 | 9,0 | 12,1 | 10,7 |
 | Faltas recibidas | 9,1 | 11,0 | 11,3 | 8,7 |
-| Amarillas propias | 1,5 | 1,0 | 2,7 | 1,7 |
-| Amarillas del rival | 1,6 | 2,0 | 2,1 | 1,0 |
-| Rojas / partido | 0,25 | 0,33 | 0,00 | 0,00 |
+| Amarillas propias | 1,3 | 1,0 | 2,7 | 1,7 |
+| Amarillas del rival | 1,4 | 2,0 | 2,1 | 1,0 |
+| Rojas / partido | 0,11 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Crystal Palace | Recibe Crystal Palace | Tarjetas Crystal Palace | Goles Newcastle | Recibe Newcastle | Tarjetas Newcastle |

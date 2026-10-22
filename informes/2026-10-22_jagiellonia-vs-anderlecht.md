@@ -1,7 +1,7 @@
 # Jagiellonia – Anderlecht
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Stadion Miejski w Białymstoku
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **3.10**  ·  X **3.50**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**  ·  Más de 4.5 **41.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 4.5 **2.00**  ·  Menos de 4.5 **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.50**  ·  X **2.25**  ·  2 **2.88**
 
 ## Estadísticas de equipo
@@ -42,21 +60,21 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 20,7 | 15,0 | 12,2 | 14,5 |
 | Tiros a puerta recibidos | 5,0 | 4,7 | 4,0 | 2,7 |
 | Posesión media % | 42 | 44 | 53 | 52 |
-| Córners a favor | 2,2 | 2,3 | 5,1 | 3,7 |
-| Córners en contra | 7,0 | 4,7 | 4,0 | 4,3 |
-| Córners a favor 1ª parte | 1,0 | 2,0 | 1,5 | 0,5 |
-| Córners a favor 2ª parte | 1,0 | 0,0 | 1,2 | 1,0 |
-| Córners totales del partido | 9,2 | 7,0 | 9,1 | 8,0 |
-| Córners totales 1ª parte | 5,3 | 3,0 | 4,2 | 3,5 |
-| Córners totales 2ª parte | 4,7 | 2,0 | 4,2 | 3,5 |
-| Más de 8,5 córners | 60% | 33% | 71% | 33% |
-| Más de 9,5 córners | 60% | 33% | 71% | 33% |
+| Córners a favor | 2,2 | 2,3 | 4,5 | 2,8 |
+| Córners en contra | 7,0 | 4,7 | 3,5 | 3,2 |
+| Córners a favor 1ª parte | 0,6 | 0,7 | 0,8 | 0,2 |
+| Córners a favor 2ª parte | 0,6 | 0,0 | 0,6 | 0,5 |
+| Córners totales del partido | 9,2 | 7,0 | 8,0 | 6,0 |
+| Córners totales 1ª parte | 3,2 | 1,0 | 2,1 | 1,8 |
+| Córners totales 2ª parte | 2,8 | 0,7 | 2,1 | 1,8 |
+| Más de 8,5 córners | 60% | 33% | 62% | 25% |
+| Más de 9,5 córners | 60% | 33% | 62% | 25% |
 | Más de 10,5 córners | 40% | 0% | 0% | 0% |
 | Faltas cometidas | 16,8 | 17,7 | 14,3 | 16,3 |
 | Faltas recibidas | 12,8 | 15,0 | 12,6 | 15,7 |
 | Amarillas propias | 1,6 | 1,7 | 2,4 | 3,0 |
 | Amarillas del rival | 3,2 | 3,3 | 2,2 | 1,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,14 | 0,25 |
+| Rojas / partido | 0,00 | 0,00 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Jagiellonia | Recibe Jagiellonia | Tarjetas Jagiellonia | Goles Anderlecht | Recibe Anderlecht | Tarjetas Anderlecht |

@@ -1,7 +1,7 @@
 # Monaco – Lille
-**Ligue 1** · Regular Season - 8 · 25/10/2026 16:00 (hora España) · Stade Louis II
+**Ligue 1** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.10**  ·  X **3.50**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
-- **Goles más/menos:** Más de 1.5 **1.25**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **3.20**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.91**  ·  Menos de 9.5 **1.80**
-- **Tarjetas más/menos:** Más de 4.5 **2.00**  ·  Menos de 4.5 **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.20** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.25**  ·  2 **3.75**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,5 | 12,0 | 13,8 | 14,0 |
 | Amarillas propias | 1,8 | 1,8 | 1,4 | 1,0 |
 | Amarillas del rival | 1,7 | 1,2 | 1,7 | 2,0 |
-| Rojas / partido | – | – | 0,17 | 0,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Monaco | Recibe Monaco | Tarjetas Monaco | Goles Lille | Recibe Lille | Tarjetas Lille |

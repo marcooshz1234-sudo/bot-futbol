@@ -1,7 +1,7 @@
 # Kairat Almaty – Panathinaikos
 **Conference League** · League Stage - 2 · 22/10/2026 16:30 (hora España) · Almaty Central Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
-- **Goles más/menos:** Más de 1.5 **1.25**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **3.00**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **23.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **11.00**  ·  Menos de 2.5 **1.05**  ·  Más de 3.5 **29.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.53**  ·  Menos de 0.5 **2.38**
-- **Goles del visitante:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **17.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.90**  ·  Menos de 8.5 **1.90**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 8,5: más **1.90** · menos **1.90**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.30**  ·  2 **2.20**
 
 ## Estadísticas de equipo
@@ -41,21 +58,21 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 10,4 | 8,0 | 13,3 | 16,3 |
 | Tiros a puerta recibidos | 3,4 | 2,0 | 3,7 | 5,0 |
 | Posesión media % | 49 | 56 | 54 | 50 |
-| Córners a favor | 5,1 | 6,0 | 7,3 | 6,0 |
-| Córners en contra | 4,3 | 4,3 | 5,3 | 6,7 |
-| Córners a favor 1ª parte | 2,6 | 2,5 | 3,2 | 2,7 |
-| Córners a favor 2ª parte | 3,6 | 5,5 | 4,0 | 2,7 |
-| Córners totales del partido | 9,4 | 10,3 | 12,6 | 12,7 |
-| Córners totales 1ª parte | 4,6 | 3,5 | 5,3 | 4,0 |
-| Córners totales 2ª parte | 4,6 | 7,0 | 5,5 | 4,7 |
-| Más de 8,5 córners | 57% | 67% | 100% | 100% |
-| Más de 9,5 córners | 57% | 67% | 71% | 33% |
-| Más de 10,5 córners | 29% | 33% | 71% | 33% |
+| Córners a favor | 4,0 | 4,5 | 7,3 | 6,0 |
+| Córners en contra | 3,3 | 3,2 | 5,3 | 6,7 |
+| Córners a favor 1ª parte | 1,9 | 1,7 | 2,7 | 2,7 |
+| Córners a favor 2ª parte | 2,6 | 3,7 | 3,4 | 2,7 |
+| Córners totales del partido | 7,3 | 7,8 | 12,6 | 12,7 |
+| Córners totales 1ª parte | 3,3 | 2,3 | 4,6 | 4,0 |
+| Córners totales 2ª parte | 3,3 | 4,7 | 4,7 | 4,7 |
+| Más de 8,5 córners | 44% | 50% | 100% | 100% |
+| Más de 9,5 córners | 44% | 50% | 71% | 33% |
+| Más de 10,5 córners | 22% | 25% | 71% | 33% |
 | Faltas cometidas | 12,0 | 10,5 | 12,1 | 12,0 |
 | Faltas recibidas | 13,0 | 15,5 | 12,7 | 12,7 |
 | Amarillas propias | 2,1 | 2,0 | 2,0 | 3,3 |
 | Amarillas del rival | 2,1 | 3,0 | 1,9 | 2,0 |
-| Rojas / partido | 0,14 | 0,33 | 0,00 | – |
+| Rojas / partido | 0,11 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Kairat Almaty | Recibe Kairat Almaty | Tarjetas Kairat Almaty | Goles Panathinaikos | Recibe Panathinaikos | Tarjetas Panathinaikos |

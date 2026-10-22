@@ -1,7 +1,7 @@
 # Lens – Paris FC
 **Ligue 1** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.38**  ·  X **3.50**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.67**  ·  Menos de 2.5 **2.20**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.38**  ·  Menos de 1.5 **1.53**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**
-- **Goles del local:** Más de 1.5 **1.91**  ·  Menos de 1.5 **1.80**  ·  Más de 2.5 **4.00**  ·  Menos de 2.5 **1.22**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **34.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.80**  ·  Menos de 9.5 **1.91**
-- **Tarjetas más/menos:** Más de 4.5 **2.10**  ·  Menos de 4.5 **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.67** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **1.91**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.38**  ·  2 **3.25**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,8 | 12,8 | 10,7 | 9,0 |
 | Amarillas propias | 1,9 | 2,0 | 2,3 | 2,7 |
 | Amarillas del rival | 1,2 | 0,8 | 1,6 | 1,0 |
-| Rojas / partido | 0,40 | 0,67 | 0,00 | – |
+| Rojas / partido | 0,20 | 0,50 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lens | Recibe Lens | Tarjetas Lens | Goles Paris FC | Recibe Paris FC | Tarjetas Paris FC |

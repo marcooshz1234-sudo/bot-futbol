@@ -1,7 +1,7 @@
 # Celtic – Celta Vigo
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,33 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.70**  ·  X **3.40**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.50**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **19.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 9.5 **1.73**  ·  Menos de 9.5 **2.00**  ·  Más de 10 **2.00**  ·  Menos de 10 **1.80**
-- **Tarjetas más/menos:** Más de 3.5 **1.62**  ·  Menos de 3.5 **2.20**  ·  Más de 4.5 **2.10**  ·  Menos de 4.5 **1.67**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.00** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.30**  ·  2 **3.10**
 
 ## Estadísticas de equipo
@@ -56,7 +77,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 13,0 | 11,5 | 13,9 | 12,6 |
 | Amarillas propias | 0,2 | 0,0 | 1,7 | 2,4 |
 | Amarillas del rival | 2,0 | 1,5 | 2,0 | 1,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,25 | 0,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Celtic | Recibe Celtic | Tarjetas Celtic | Goles Celta Vigo | Recibe Celta Vigo | Tarjetas Celta Vigo |

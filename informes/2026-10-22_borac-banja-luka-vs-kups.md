@@ -1,7 +1,7 @@
 # Borac Banja Luka – KuPS
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Gradski stadion Banja Luka
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.80**  ·  X **3.70**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
-- **Goles más/menos:** Más de 1.5 **1.30**  ·  Menos de 1.5 **3.40**  ·  Más de 2.5 **1.95**  ·  Menos de 2.5 **1.85**  ·  Más de 3.5 **3.40**  ·  Menos de 3.5 **1.30**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **7.00**  ·  Menos de 4.5 **1.10**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.50**  ·  Menos de 1.5 **1.28**  ·  Más de 2.5 **10.00**  ·  Menos de 2.5 **1.06**  ·  Más de 3.5 **29.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.50**  ·  Menos de 0.5 **2.50**
-- **Córners más/menos:** Más de 9.5 **2.00**  ·  Menos de 9.5 **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **2.00** · menos **1.80**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.75**
 
 ## Estadísticas de equipo
@@ -43,11 +59,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 47 | 57 | 51 | 46 |
 | Córners a favor | 3,0 | 4,3 | 5,6 | 2,3 |
 | Córners en contra | 6,6 | 4,7 | 4,0 | 3,3 |
-| Córners a favor 1ª parte | 1,0 | 2,0 | 2,8 | 1,5 |
-| Córners a favor 2ª parte | 0,7 | 1,0 | 3,2 | 0,5 |
+| Córners a favor 1ª parte | 0,4 | 0,7 | 1,8 | 1,0 |
+| Córners a favor 2ª parte | 0,3 | 0,3 | 2,0 | 0,3 |
 | Córners totales del partido | 9,6 | 9,0 | 9,6 | 5,7 |
-| Córners totales 1ª parte | 5,3 | 5,0 | 4,2 | 2,5 |
-| Córners totales 2ª parte | 4,7 | 5,0 | 6,8 | 3,5 |
+| Córners totales 1ª parte | 2,3 | 1,7 | 2,6 | 1,7 |
+| Córners totales 2ª parte | 2,0 | 1,7 | 4,2 | 2,3 |
 | Más de 8,5 córners | 71% | 67% | 38% | 0% |
 | Más de 9,5 córners | 43% | 33% | 38% | 0% |
 | Más de 10,5 córners | 29% | 0% | 38% | 0% |

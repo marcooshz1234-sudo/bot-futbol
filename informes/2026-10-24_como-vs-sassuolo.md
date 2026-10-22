@@ -1,7 +1,7 @@
 # Como – Sassuolo
 **Serie A** · Regular Season - 8 · 24/10/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
-- **Goles más/menos:** Más de 1.5 **1.12**  ·  Menos de 1.5 **6.00**  ·  Más de 2.5 **1.44**  ·  Menos de 2.5 **2.75**  ·  Más de 3.5 **2.10**  ·  Menos de 3.5 **1.73**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **19.00**  ·  Más de 8.5 **41.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.50**  ·  Menos de 4.5 **1.30**  ·  Más de 7.5 **23.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **6.00**  ·  Menos de 5.5 **1.12**  ·  Más de 6.5 **13.00**  ·  Menos de 6.5 **1.04**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**
-- **Goles del local:** Más de 1.5 **1.40**  ·  Menos de 1.5 **2.75**  ·  Más de 2.5 **2.25**  ·  Menos de 2.5 **1.57**  ·  Más de 3.5 **4.33**  ·  Menos de 3.5 **1.20**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **9.00**  ·  Más de 4.5 **10.00**  ·  Menos de 4.5 **1.06**  ·  Más de 5.5 **21.00**  ·  Menos de 5.5 **1.01**  ·  Más de 6.5 **51.00**  ·  Menos de 6.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.90**  ·  Menos de 9.5 **1.90**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.50** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.90** · menos **1.90**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.62**  ·  2 **5.50**
 
 ## Estadísticas de equipo
@@ -53,9 +72,9 @@ _Actualizadas: 22/10 13:14_
 | Más de 10,5 córners | 40% | 25% | 43% | 50% |
 | Faltas cometidas | 9,7 | 9,0 | 9,7 | 8,8 |
 | Faltas recibidas | 11,6 | 8,5 | 11,7 | 12,2 |
-| Amarillas propias | 1,5 | 1,5 | 1,7 | 1,0 |
-| Amarillas del rival | 2,2 | 2,2 | 2,3 | 2,3 |
-| Rojas / partido | 0,00 | 0,00 | – | – |
+| Amarillas propias | 1,5 | 1,5 | 1,4 | 0,8 |
+| Amarillas del rival | 2,2 | 2,2 | 2,0 | 1,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Como | Recibe Como | Tarjetas Como | Goles Sassuolo | Recibe Sassuolo | Tarjetas Sassuolo |

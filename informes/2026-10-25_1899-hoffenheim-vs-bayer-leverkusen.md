@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – Bayer Leverkusen
-**Bundesliga** · Regular Season - 7 · 25/10/2026 16:30 (hora España) · SNP Arena
+**Bundesliga** · Regular Season - 7 · 25/10/2026 15:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,31 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.88**  ·  X **3.75**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
-- **Goles más/menos:** Más de 1.5 **1.11**  ·  Menos de 1.5 **6.50**  ·  Más de 2.5 **1.40**  ·  Menos de 2.5 **3.00**  ·  Más de 3.5 **2.00**  ·  Menos de 3.5 **1.80**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **23.00**  ·  Más de 8.5 **41.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.40**  ·  Menos de 4.5 **1.33**  ·  Más de 7.5 **21.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **5.50**  ·  Menos de 5.5 **1.14**  ·  Más de 6.5 **11.00**  ·  Menos de 6.5 **1.05**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.00**  ·  Menos de 2.5 **1.22**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.20**  ·  Menos de 0.5 **4.33**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **9.00**  ·  Menos de 3.5 **1.07**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 10 **1.80**  ·  Menos de 10 **2.00**  ·  Más de 10.5 **2.00**  ·  Menos de 10.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10: más **1.80** · menos **2.00**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.60**  ·  2 **2.75**
 
 ## Estadísticas de equipo
@@ -55,7 +75,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 9,6 | 9,8 | 9,4 | 10,0 |
 | Amarillas propias | 2,6 | 3,2 | 1,2 | 1,5 |
 | Amarillas del rival | 1,0 | 0,8 | 1,8 | 2,0 |
-| Rojas / partido | 0,33 | 0,50 | 0,00 | 0,00 |
+| Rojas / partido | 0,12 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles 1899 Hoffenheim | Recibe 1899 Hoffenheim | Tarjetas 1899 Hoffenheim | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen |

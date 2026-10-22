@@ -1,7 +1,7 @@
 # FC Thun – HNK Hajduk Split
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **2.88**  ·  X **3.40**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.60**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **34.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **9.00**  ·  Menos de 5.5 **1.07**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **4.00**  ·  Menos de 2.5 **1.22**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.91**  ·  Menos de 9.5 **1.80**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.60** · menos **2.30**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.40**  ·  2 **2.88**
 
 ## Estadísticas de equipo
@@ -41,21 +58,21 @@ _Actualizadas: 22/10 13:13_
 | Tiros recibidos | 21,4 | 16,5 | 15,3 | 20,0 |
 | Tiros a puerta recibidos | 5,5 | 3,7 | 3,8 | 5,0 |
 | Posesión media % | 38 | 43 | 49 | 42 |
-| Córners a favor | 4,3 | 7,0 | 5,8 | 4,5 |
-| Córners en contra | 6,3 | 4,0 | 4,8 | 3,5 |
-| Córners a favor 1ª parte | 2,0 | 3,5 | 3,7 | 2,0 |
-| Córners a favor 2ª parte | 2,0 | 4,0 | 1,0 | 0,0 |
-| Córners totales del partido | 10,7 | 11,0 | 10,7 | 8,0 |
-| Córners totales 1ª parte | 4,6 | 4,5 | 6,7 | 4,0 |
-| Córners totales 2ª parte | 5,4 | 7,0 | 3,3 | 2,0 |
-| Más de 8,5 córners | 67% | 100% | 83% | 50% |
-| Más de 9,5 córners | 50% | 67% | 50% | 0% |
-| Más de 10,5 córners | 33% | 33% | 50% | 0% |
+| Córners a favor | 4,3 | 7,0 | 3,9 | 2,2 |
+| Córners en contra | 6,3 | 4,0 | 3,2 | 1,8 |
+| Córners a favor 1ª parte | 1,7 | 2,3 | 1,2 | 0,5 |
+| Córners a favor 2ª parte | 1,7 | 2,7 | 0,3 | 0,0 |
+| Córners totales del partido | 10,7 | 11,0 | 7,1 | 4,0 |
+| Córners totales 1ª parte | 3,8 | 3,0 | 2,2 | 1,0 |
+| Córners totales 2ª parte | 4,5 | 4,7 | 1,1 | 0,5 |
+| Más de 8,5 córners | 67% | 100% | 56% | 25% |
+| Más de 9,5 córners | 50% | 67% | 33% | 0% |
+| Más de 10,5 córners | 33% | 33% | 33% | 0% |
 | Faltas cometidas | 16,3 | 16,3 | 18,8 | 21,0 |
 | Faltas recibidas | 10,8 | 12,0 | 12,0 | 13,5 |
 | Amarillas propias | 1,8 | 2,3 | 2,0 | 1,8 |
 | Amarillas del rival | 2,3 | 2,3 | 1,8 | 2,5 |
-| Rojas / partido | 0,40 | 0,00 | 0,14 | 0,00 |
+| Rojas / partido | 0,33 | 0,00 | 0,11 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FC Thun | Recibe FC Thun | Tarjetas FC Thun | Goles HNK Hajduk Split | Recibe HNK Hajduk Split | Tarjetas HNK Hajduk Split |

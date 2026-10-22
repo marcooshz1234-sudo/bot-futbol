@@ -1,7 +1,7 @@
 # Genoa – Venezia
-**Serie A** · Regular Season - 8 · 25/10/2026 16:00 (hora España) · Stadio Luigi Ferraris
+**Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
-- **Goles más/menos:** Más de 1.5 **1.30**  ·  Menos de 1.5 **3.50**  ·  Más de 2.5 **1.91**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.40**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**
-- **Goles del local:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **2.02**  ·  Menos de 9 **1.78**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.50**
+    - 2,5: más **1.91** · menos **1.91**
+    - 3,5: más **3.40** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.20**  ·  2 **4.00**
 
 ## Estadísticas de equipo
@@ -55,7 +73,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,7 | 9,2 | 10,3 | 13,3 |
 | Amarillas propias | 2,9 | 3,0 | 2,9 | 3,0 |
 | Amarillas del rival | 1,9 | 1,8 | 1,1 | 1,3 |
-| Rojas / partido | 1,00 | 1,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,14 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Genoa | Recibe Genoa | Tarjetas Genoa | Goles Venezia | Recibe Venezia | Tarjetas Venezia |

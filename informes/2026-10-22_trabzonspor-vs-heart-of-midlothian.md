@@ -1,7 +1,7 @@
 # Trabzonspor – Heart Of Midlothian
 **Conference League** · League Stage - 2 · 22/10/2026 18:45 (hora España) · Papara Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.22**  ·  X **6.50**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.50**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
-- **Goles más/menos:** Más de 1.5 **1.12**  ·  Menos de 1.5 **6.00**  ·  Más de 2.5 **1.44**  ·  Menos de 2.5 **2.70**  ·  Más de 3.5 **2.00**  ·  Menos de 3.5 **1.73**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **21.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **3.40**  ·  Menos de 4.5 **1.30**  ·  Más de 7.5 **23.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **6.00**  ·  Menos de 5.5 **1.12**  ·  Más de 6.5 **13.00**  ·  Menos de 6.5 **1.04**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.00**  ·  Menos de 1.5 **1.73**  ·  Más de 2.5 **4.33**  ·  Menos de 2.5 **1.20**  ·  Más de 3.5 **11.00**  ·  Menos de 3.5 **1.05**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **26.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.50**  ·  Más de 2.5 **1.83**  ·  Menos de 2.5 **1.83**  ·  Más de 3.5 **3.40**  ·  Menos de 3.5 **1.30**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **4.33**  ·  Menos de 1.5 **1.20**  ·  Más de 2.5 **15.00**  ·  Menos de 2.5 **1.03**  ·  Más de 3.5 **51.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.67**  ·  Menos de 0.5 **2.10**
-- **Córners más/menos:** Más de 9.5 **1.88**  ·  Menos de 9.5 **1.92**
-- **Tarjetas más/menos:** Más de 4.5 **1.73**  ·  Menos de 4.5 **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Córners más/menos:**
+    - 9,5: más **1.88** · menos **1.92**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **1.67**  ·  X **2.88**  ·  2 **7.50**
 
 ## Estadísticas de equipo
@@ -44,11 +63,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 51 | 66 | 45 | 44 |
 | Córners a favor | 5,7 | 7,0 | 5,4 | 6,7 |
 | Córners en contra | 7,7 | 5,0 | 6,9 | 7,7 |
-| Córners a favor 1ª parte | 2,0 | 4,0 | 1,9 | 1,7 |
-| Córners a favor 2ª parte | 4,5 | 3,0 | 3,6 | 5,0 |
+| Córners a favor 1ª parte | 1,3 | 4,0 | 1,9 | 1,7 |
+| Córners a favor 2ª parte | 3,0 | 3,0 | 3,6 | 5,0 |
 | Córners totales del partido | 13,3 | 12,0 | 12,3 | 14,3 |
-| Córners totales 1ª parte | 4,5 | 8,0 | 4,9 | 4,7 |
-| Córners totales 2ª parte | 9,0 | 4,0 | 6,7 | 8,0 |
+| Córners totales 1ª parte | 3,0 | 8,0 | 4,9 | 4,7 |
+| Córners totales 2ª parte | 6,0 | 4,0 | 6,7 | 8,0 |
 | Más de 8,5 córners | 100% | 100% | 86% | 67% |
 | Más de 9,5 córners | 100% | 100% | 71% | 67% |
 | Más de 10,5 córners | 100% | 100% | 57% | 67% |
@@ -56,7 +75,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 15,7 | 24,0 | 15,6 | 16,7 |
 | Amarillas propias | 1,7 | 0,0 | 2,1 | 3,3 |
 | Amarillas del rival | 3,0 | 5,0 | 1,9 | 2,0 |
-| Rojas / partido | 1,50 | 1,00 | 0,33 | 0,50 |
+| Rojas / partido | 1,00 | 1,00 | 0,14 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Trabzonspor | Recibe Trabzonspor | Tarjetas Trabzonspor | Goles Heart Of Midlothian | Recibe Heart Of Midlothian | Tarjetas Heart Of Midlothian |

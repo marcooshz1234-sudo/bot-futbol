@@ -1,7 +1,7 @@
 # Frosinone – Lecce
-**Serie A** · Regular Season - 9 · 29/10/2026 19:30 (hora España) · Stadio Benito Stirpe
+**Serie A** · Regular Season - 9 · 29/10/2026 18:30 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **1.91**  ·  X **3.60**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.57**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.22**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **41.00**  ·  Menos de 5.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 10 **1.88**  ·  Menos de 10 **1.92**  ·  Más de 10.5 **2.10**  ·  Menos de 10.5 **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 10: más **1.88** · menos **1.92**
+    - 10,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.40**  ·  2 **4.00**
 
 ## Estadísticas de equipo
@@ -55,7 +72,7 @@ _Actualizadas: 22/10 13:15_
 | Faltas recibidas | 12,1 | 12,8 | 9,3 | 9,0 |
 | Amarillas propias | 1,7 | 1,8 | 1,9 | 1,8 |
 | Amarillas del rival | 2,4 | 2,2 | 0,9 | 0,8 |
-| Rojas / partido | 0,00 | – | – | – |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Frosinone | Recibe Frosinone | Tarjetas Frosinone | Goles Lecce | Recibe Lecce | Tarjetas Lecce |

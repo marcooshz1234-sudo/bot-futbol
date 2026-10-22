@@ -1,7 +1,7 @@
 # Toulouse – Estac Troyes
-**Ligue 1** · Regular Season - 8 · 25/10/2026 18:15 (hora España) · Stadium Municipal
+**Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.62**  ·  X **4.00**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.25**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.50**  ·  Más de 2.5 **1.62**  ·  Menos de 2.5 **2.30**  ·  Más de 3.5 **2.50**  ·  Menos de 3.5 **1.53**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.50**  ·  Menos de 4.5 **1.20**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **1.57**  ·  Menos de 1.5 **2.25**  ·  Más de 2.5 **2.75**  ·  Menos de 2.5 **1.40**  ·  Más de 3.5 **6.00**  ·  Menos de 3.5 **1.12**  ·  Más de 0.5 **1.11**  ·  Menos de 0.5 **6.50**  ·  Más de 4.5 **15.00**  ·  Menos de 4.5 **1.03**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **10.00**  ·  Menos de 2.5 **1.06**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Córners más/menos:** Más de 9 **1.78**  ·  Menos de 9 **2.02**  ·  Más de 9.5 **2.00**  ·  Menos de 9.5 **1.73**
-- **Tarjetas más/menos:** Más de 3.5 **1.83**  ·  Menos de 3.5 **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.53**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9: más **1.78** · menos **2.02**
+    - 9,5: más **2.00** · menos **1.73**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.50**  ·  2 **5.00**
 
 ## Estadísticas de equipo

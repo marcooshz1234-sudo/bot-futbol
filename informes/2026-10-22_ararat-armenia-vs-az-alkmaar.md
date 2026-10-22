@@ -1,7 +1,7 @@
 # Ararat-Armenia – AZ Alkmaar
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Vazgen Sargsyan Republican Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **7.00**  ·  X **4.75**  ·  2 **1.42**
 - **Doble oportunidad:** 1X **2.75**  ·  12 **1.18**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.53**  ·  Menos de 2.5 **2.50**  ·  Más de 3.5 **2.30**  ·  Menos de 3.5 **1.62**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **17.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **4.00**  ·  Menos de 4.5 **1.25**  ·  Más de 7.5 **26.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **7.00**  ·  Menos de 5.5 **1.10**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **11.00**  ·  Menos de 2.5 **1.05**  ·  Más de 3.5 **34.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.53**  ·  Menos de 0.5 **2.38**
-- **Goles del visitante:** Más de 1.5 **1.40**  ·  Menos de 1.5 **2.75**  ·  Más de 2.5 **2.20**  ·  Menos de 2.5 **1.62**  ·  Más de 3.5 **4.33**  ·  Menos de 3.5 **1.20**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **9.00**  ·  Más de 4.5 **10.00**  ·  Menos de 4.5 **1.06**  ·  Más de 5.5 **21.00**  ·  Menos de 5.5 **1.01**  ·  Más de 6.5 **41.00**  ·  Menos de 6.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.88**  ·  Menos de 9.5 **1.92**
-- **Tarjetas más/menos:** Más de 4.5 **2.20**  ·  Menos de 4.5 **1.62**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.50**
+    - 3,5: más **2.30** · menos **1.62**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.88** · menos **1.92**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.62**  ·  2 **1.83**
 
 ## Estadísticas de equipo
@@ -44,11 +63,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 45 | 43 | 56 | 55 |
 | Córners a favor | 3,7 | 3,4 | 5,0 | 5,0 |
 | Córners en contra | 7,4 | 7,4 | 6,5 | 12,0 |
-| Córners a favor 1ª parte | 0,9 | 0,8 | 3,5 | 3,0 |
-| Córners a favor 2ª parte | 2,1 | 2,6 | 1,5 | 2,0 |
+| Córners a favor 1ª parte | 0,7 | 0,8 | 3,5 | 3,0 |
+| Córners a favor 2ª parte | 1,7 | 2,6 | 1,5 | 2,0 |
 | Córners totales del partido | 11,1 | 10,8 | 11,5 | 17,0 |
-| Córners totales 1ª parte | 3,8 | 4,6 | 7,0 | 10,0 |
-| Córners totales 2ª parte | 6,0 | 6,2 | 4,5 | 7,0 |
+| Córners totales 1ª parte | 3,0 | 4,6 | 7,0 | 10,0 |
+| Córners totales 2ª parte | 4,8 | 6,2 | 4,5 | 7,0 |
 | Más de 8,5 córners | 80% | 80% | 50% | 100% |
 | Más de 9,5 córners | 70% | 80% | 50% | 100% |
 | Más de 10,5 córners | 50% | 60% | 50% | 100% |

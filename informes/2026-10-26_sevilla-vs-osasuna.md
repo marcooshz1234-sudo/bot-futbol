@@ -1,7 +1,7 @@
 # Sevilla – Osasuna
-**LaLiga** · Regular Season - 10 · 26/10/2026 22:00 (hora España) · Estadio Ramón Sánchez-Pizjuán
+**LaLiga** · Regular Season - 10 · 26/10/2026 21:00 (hora España) · Estadio Ramón Sánchez-Pizjuán
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.95**  ·  X **3.30**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
-- **Goles más/menos:** Más de 1.5 **1.36**  ·  Menos de 1.5 **3.20**  ·  Más de 2.5 **2.20**  ·  Menos de 2.5 **1.67**  ·  Más de 3.5 **4.00**  ·  Menos de 3.5 **1.25**  ·  Más de 0.5 **1.07**  ·  Menos de 0.5 **8.50**  ·  Más de 4.5 **8.00**  ·  Menos de 4.5 **1.08**  ·  Más de 5.5 **17.00**  ·  Menos de 5.5 **1.02**  ·  Más de 6.5 **34.00**  ·  Menos de 6.5 **1.00**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del local:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **11.00**  ·  Menos de 2.5 **1.05**  ·  Más de 3.5 **34.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.53**  ·  Menos de 0.5 **2.38**
-- **Córners más/menos:** Más de 8.5 **1.98**  ·  Menos de 8.5 **1.82**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **8.50**
+    - 1,5: más **1.36** · menos **3.20**
+    - 2,5: más **2.20** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 8,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.10**  ·  2 **4.50**
 
 ## Estadísticas de equipo
@@ -55,7 +71,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 13,0 | 14,2 | 12,3 | 9,8 |
 | Amarillas propias | 3,1 | 2,0 | 2,7 | 2,5 |
 | Amarillas del rival | 1,9 | 2,0 | 2,0 | 1,2 |
-| Rojas / partido | 0,60 | 1,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,33 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sevilla | Recibe Sevilla | Tarjetas Sevilla | Goles Osasuna | Recibe Osasuna | Tarjetas Osasuna |

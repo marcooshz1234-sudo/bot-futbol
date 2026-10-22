@@ -1,7 +1,7 @@
 # RB Leipzig – SV Elversberg
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,31 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.44**  ·  X **5.00**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
-- **Goles más/menos:** Más de 1.5 **1.07**  ·  Menos de 1.5 **9.00**  ·  Más de 2.5 **1.28**  ·  Menos de 2.5 **3.75**  ·  Más de 3.5 **1.73**  ·  Menos de 3.5 **2.10**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **29.00**  ·  Más de 8.5 **26.00**  ·  Menos de 8.5 **1.01**  ·  Más de 9.5 **51.00**  ·  Menos de 9.5 **1.00**  ·  Más de 4.5 **2.62**  ·  Menos de 4.5 **1.50**  ·  Más de 7.5 **15.00**  ·  Menos de 7.5 **1.03**  ·  Más de 5.5 **4.33**  ·  Menos de 5.5 **1.22**  ·  Más de 6.5 **8.00**  ·  Menos de 6.5 **1.08**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.80**  ·  Menos de 1.5 **1.91**  ·  Más de 2.5 **3.50**  ·  Menos de 2.5 **1.28**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.25**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.25**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **6.00**  ·  Menos de 4.5 **1.12**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.62**  ·  Menos de 1.5 **1.44**  ·  Más de 2.5 **7.00**  ·  Menos de 2.5 **1.10**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 10.5 **1.98**  ·  Menos de 10.5 **1.82**
+- **Goles más/menos:**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.28** · menos **3.75**
+    - 3,5: más **1.73** · menos **2.10**
+    - 4,5: más **2.62** · menos **1.50**
+    - 5,5: más **4.33** · menos **1.22**
+    - 6,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **1.73**  ·  X **3.00**  ·  2 **5.50**
 
 ## Estadísticas de equipo
@@ -55,7 +75,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 12,8 | 12,8 | 13,2 | 14,0 |
 | Amarillas propias | 1,2 | 1,0 | 2,2 | 1,3 |
 | Amarillas del rival | 1,6 | 1,8 | 1,8 | 2,0 |
-| Rojas / partido | 0,00 | – | – | – |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig | Goles SV Elversberg | Recibe SV Elversberg | Tarjetas SV Elversberg |

@@ -1,7 +1,7 @@
 # Barcelona – Real Madrid
-**LaLiga** · Regular Season - 10 · 25/10/2026 22:00 (hora España) · Camp Nou
+**LaLiga** · Regular Season - 10 · 25/10/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,32 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.65**  ·  X **6.00**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.12**  ·  X2 **2.20**
 - **Ambos marcan:** Sí **1.28**  ·  No **3.50**
-- **Goles más/menos:** Más de 1.5 **1.05**  ·  Menos de 1.5 **11.00**  ·  Más de 2.5 **1.20**  ·  Menos de 2.5 **4.50**  ·  Más de 3.5 **1.53**  ·  Menos de 3.5 **2.50**  ·  Más de 0.5 **1.00**  ·  Menos de 0.5 **34.00**  ·  Más de 8.5 **19.00**  ·  Menos de 8.5 **1.02**  ·  Más de 9.5 **29.00**  ·  Menos de 9.5 **1.01**  ·  Más de 4.5 **2.10**  ·  Menos de 4.5 **1.73**  ·  Más de 7.5 **10.00**  ·  Menos de 7.5 **1.06**  ·  Más de 5.5 **3.40**  ·  Menos de 5.5 **1.33**  ·  Más de 6.5 **5.50**  ·  Menos de 6.5 **1.14**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.00**  ·  Menos de 2.5 **1.36**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **17.00**  ·  Menos de 4.5 **1.02**
-- **Goles del local:** Más de 1.5 **1.28**  ·  Menos de 1.5 **3.50**  ·  Más de 2.5 **1.83**  ·  Menos de 2.5 **1.83**  ·  Más de 3.5 **3.25**  ·  Menos de 3.5 **1.33**  ·  Más de 0.5 **1.05**  ·  Menos de 0.5 **11.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **9.00**  ·  Menos de 3.5 **1.07**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 10.5 **1.80**  ·  Menos de 10.5 **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.05** · menos **11.00**
+    - 2,5: más **1.20** · menos **4.50**
+    - 3,5: más **1.53** · menos **2.50**
+    - 4,5: más **2.10** · menos **1.73**
+    - 5,5: más **3.40** · menos **1.33**
+    - 6,5: más **5.50** · menos **1.14**
+    - 7,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 10,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **2.00**  ·  X **3.00**  ·  2 **4.00**
 
 ## Estadísticas de equipo
@@ -55,7 +76,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,6 | 10,6 | 13,7 | 17,0 |
 | Amarillas propias | 1,2 | 1,4 | 1,8 | 2,0 |
 | Amarillas del rival | 1,6 | 2,0 | 2,6 | 3,4 |
-| Rojas / partido | 0,00 | – | 0,50 | 0,50 |
+| Rojas / partido | 0,00 | 0,00 | 0,17 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Barcelona | Recibe Barcelona | Tarjetas Barcelona | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid |

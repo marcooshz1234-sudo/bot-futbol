@@ -1,7 +1,7 @@
 # Sassuolo – Lazio
-**Serie A** · Regular Season - 9 · 27/10/2026 19:30 (hora España)
+**Serie A** · Regular Season - 9 · 27/10/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,11 +9,29 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **2.75**  ·  X **3.40**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.30**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**  ·  Más de 4.5 **34.00**  ·  Menos de 4.5 **1.00**
-- **Goles del visitante:** Más de 1.5 **2.10**  ·  Menos de 1.5 **1.67**  ·  Más de 2.5 **4.50**  ·  Menos de 2.5 **1.18**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.22**  ·  Menos de 0.5 **4.00**  ·  Más de 4.5 **29.00**  ·  Menos de 4.5 **1.01**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **2.02**  ·  Menos de 9 **1.78**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.30**  ·  2 **3.00**
 
 ## Estadísticas de equipo
@@ -53,9 +71,9 @@ _Actualizadas: 22/10 13:14_
 | Más de 10,5 córners | 43% | 33% | 43% | 50% |
 | Faltas cometidas | 9,7 | 11,0 | 12,3 | 10,8 |
 | Faltas recibidas | 11,7 | 11,0 | 11,6 | 13,0 |
-| Amarillas propias | 1,7 | 2,3 | 1,9 | 1,8 |
-| Amarillas del rival | 2,3 | 2,3 | 3,0 | 3,8 |
-| Rojas / partido | – | – | 0,00 | – |
+| Amarillas propias | 1,4 | 2,3 | 1,9 | 1,8 |
+| Amarillas del rival | 2,0 | 2,3 | 3,0 | 3,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sassuolo | Recibe Sassuolo | Tarjetas Sassuolo | Goles Lazio | Recibe Lazio | Tarjetas Lazio |

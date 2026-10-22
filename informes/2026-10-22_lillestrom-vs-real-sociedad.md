@@ -1,7 +1,7 @@
 # Lillestrom – Real Sociedad
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Åråsen Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,33 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **6.50**  ·  X **5.00**  ·  2 **1.42**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.18**  ·  X2 **1.12**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.57**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.22**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **17.00**  ·  Menos de 6.5 **1.02**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.25**  ·  Menos de 1.5 **1.57**  ·  Más de 2.5 **5.50**  ·  Menos de 2.5 **1.14**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.28**  ·  Menos de 0.5 **3.50**
-- **Goles del local:** Más de 1.5 **3.75**  ·  Menos de 1.5 **1.25**  ·  Más de 2.5 **11.00**  ·  Menos de 2.5 **1.05**  ·  Más de 3.5 **34.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.57**  ·  Menos de 0.5 **2.25**
-- **Goles del visitante:** Más de 1.5 **1.44**  ·  Menos de 1.5 **2.62**  ·  Más de 2.5 **2.50**  ·  Menos de 2.5 **1.50**  ·  Más de 3.5 **5.00**  ·  Menos de 3.5 **1.17**  ·  Más de 0.5 **1.08**  ·  Menos de 0.5 **8.00**  ·  Más de 4.5 **11.00**  ·  Menos de 4.5 **1.05**  ·  Más de 5.5 **23.00**  ·  Menos de 5.5 **1.01**  ·  Más de 6.5 **51.00**  ·  Menos de 6.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.67**  ·  Menos de 9.5 **2.10**  ·  Más de 10 **1.90**  ·  Menos de 10 **1.90**  ·  Más de 10.5 **2.10**  ·  Menos de 10.5 **1.67**
-- **Tarjetas más/menos:** Más de 3.5 **1.73**  ·  Menos de 3.5 **2.00**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.90** · menos **1.90**
+    - 10,5: más **2.10** · menos **1.67**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.50**  ·  2 **1.91**
 
 ## Estadísticas de equipo
@@ -44,11 +65,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 55 | 62 | 50 | 50 |
 | Córners a favor | 6,2 | 10,0 | 6,8 | 5,2 |
 | Córners en contra | 5,5 | 5,0 | 4,6 | 4,8 |
-| Córners a favor 1ª parte | 3,5 | 7,0 | 3,5 | 2,5 |
-| Córners a favor 2ª parte | 2,5 | 4,0 | 3,3 | 2,7 |
+| Córners a favor 1ª parte | 1,8 | 3,5 | 3,5 | 2,5 |
+| Córners a favor 2ª parte | 1,2 | 2,0 | 3,3 | 2,7 |
 | Córners totales del partido | 11,8 | 15,0 | 11,5 | 10,0 |
-| Córners totales 1ª parte | 6,5 | 8,0 | 5,1 | 4,2 |
-| Córners totales 2ª parte | 3,5 | 5,0 | 6,4 | 5,8 |
+| Córners totales 1ª parte | 3,2 | 4,0 | 5,1 | 4,2 |
+| Córners totales 2ª parte | 1,8 | 2,5 | 6,4 | 5,8 |
 | Más de 8,5 córners | 75% | 100% | 91% | 83% |
 | Más de 9,5 córners | 75% | 100% | 73% | 50% |
 | Más de 10,5 córners | 50% | 100% | 64% | 50% |
@@ -56,7 +77,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 11,2 | 11,0 | 10,5 | 9,3 |
 | Amarillas propias | 1,8 | 2,0 | 2,1 | 2,2 |
 | Amarillas del rival | 2,2 | 2,5 | 2,5 | 2,5 |
-| Rojas / partido | 0,00 | 0,00 | 0,60 | 0,67 |
+| Rojas / partido | 0,00 | 0,00 | 0,27 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lillestrom | Recibe Lillestrom | Tarjetas Lillestrom | Goles Real Sociedad | Recibe Real Sociedad | Tarjetas Real Sociedad |

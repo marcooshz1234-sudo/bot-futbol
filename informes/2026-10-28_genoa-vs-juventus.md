@@ -1,7 +1,7 @@
 # Genoa – Juventus
-**Serie A** · Regular Season - 9 · 28/10/2026 21:45 (hora España) · Stadio Luigi Ferraris
+**Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,27 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **5.50**  ·  X **3.60**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
-- **Goles más/menos:** Más de 1.5 **1.30**  ·  Menos de 1.5 **3.50**  ·  Más de 2.5 **2.00**  ·  Menos de 2.5 **1.80**  ·  Más de 3.5 **3.50**  ·  Menos de 3.5 **1.30**  ·  Más de 0.5 **1.06**  ·  Menos de 0.5 **10.00**  ·  Más de 4.5 **6.50**  ·  Menos de 4.5 **1.11**  ·  Más de 5.5 **15.00**  ·  Menos de 5.5 **1.03**  ·  Más de 6.5 **29.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **3.00**  ·  Menos de 1.5 **1.36**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **23.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.40**  ·  Menos de 0.5 **2.75**
-- **Goles del local:** Más de 1.5 **4.50**  ·  Menos de 1.5 **1.18**  ·  Más de 2.5 **15.00**  ·  Menos de 2.5 **1.03**  ·  Más de 3.5 **51.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.67**  ·  Menos de 0.5 **2.10**
-- **Goles del visitante:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **9.00**  ·  Menos de 3.5 **1.07**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.73**  ·  Menos de 8.5 **2.00**  ·  Más de 9 **1.98**  ·  Menos de 9 **1.82**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.50**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.50** · menos **1.18**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.20**  ·  2 **2.25**
 
 ## Estadísticas de equipo
@@ -55,7 +71,7 @@ _Actualizadas: 22/10 13:15_
 | Faltas recibidas | 11,7 | 9,2 | 11,3 | 10,8 |
 | Amarillas propias | 2,9 | 3,0 | 1,3 | 1,8 |
 | Amarillas del rival | 1,9 | 1,8 | 2,1 | 2,0 |
-| Rojas / partido | 1,00 | 1,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,14 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Genoa | Recibe Genoa | Tarjetas Genoa | Goles Juventus | Recibe Juventus | Tarjetas Juventus |

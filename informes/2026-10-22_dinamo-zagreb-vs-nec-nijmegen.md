@@ -1,7 +1,7 @@
 # Dinamo Zagreb – NEC Nijmegen
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Stadion Maksimir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,31 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.53**  ·  X **4.33**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.20**  ·  X2 **2.30**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.30**  ·  Menos de 3.5 **1.62**  ·  Más de 0.5 **1.03**  ·  Menos de 0.5 **15.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **4.00**  ·  Menos de 4.5 **1.25**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **7.00**  ·  Menos de 5.5 **1.10**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.50**  ·  Menos de 1.5 **2.50**  ·  Más de 2.5 **2.62**  ·  Menos de 2.5 **1.44**  ·  Más de 3.5 **5.50**  ·  Menos de 3.5 **1.14**  ·  Más de 0.5 **1.10**  ·  Menos de 0.5 **7.00**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **26.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 3.5 **1.80**  ·  Menos de 3.5 **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.30** · menos **1.62**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.00**
 
 ## Estadísticas de equipo
@@ -44,11 +63,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 55 | 62 | 49 | 40 |
 | Córners a favor | 6,6 | 10,0 | 3,5 | 1,7 |
 | Córners en contra | 4,0 | 1,5 | 2,7 | 3,0 |
-| Córners a favor 1ª parte | 2,9 | 4,0 | 1,8 | 1,3 |
-| Córners a favor 2ª parte | 4,0 | 5,0 | 1,7 | 0,3 |
+| Córners a favor 1ª parte | 2,5 | 4,0 | 1,8 | 1,3 |
+| Córners a favor 2ª parte | 3,5 | 5,0 | 1,7 | 0,3 |
 | Córners totales del partido | 10,6 | 11,5 | 6,2 | 4,7 |
-| Córners totales 1ª parte | 4,3 | 4,2 | 3,7 | 3,7 |
-| Córners totales 2ª parte | 6,0 | 6,2 | 2,3 | 1,0 |
+| Córners totales 1ª parte | 3,8 | 4,2 | 3,7 | 3,7 |
+| Córners totales 2ª parte | 5,2 | 6,2 | 2,3 | 1,0 |
 | Más de 8,5 córners | 62% | 75% | 17% | 0% |
 | Más de 9,5 córners | 50% | 75% | 0% | 0% |
 | Más de 10,5 córners | 38% | 50% | 0% | 0% |
@@ -56,7 +75,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 13,7 | 12,3 | 12,5 | 10,0 |
 | Amarillas propias | 1,6 | 2,0 | 1,5 | 1,3 |
 | Amarillas del rival | 1,8 | 1,2 | 1,3 | 1,0 |
-| Rojas / partido | 0,20 | 0,00 | 0,20 | 0,50 |
+| Rojas / partido | 0,12 | 0,00 | 0,17 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Dinamo Zagreb | Recibe Dinamo Zagreb | Tarjetas Dinamo Zagreb | Goles NEC Nijmegen | Recibe NEC Nijmegen | Tarjetas NEC Nijmegen |

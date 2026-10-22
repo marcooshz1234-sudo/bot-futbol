@@ -1,7 +1,7 @@
 # Marseille – Le Havre
-**Ligue 1** · Regular Season - 8 · 25/10/2026 18:15 (hora España) · Orange Vélodrome
+**Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,30 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.57**  ·  X **4.20**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.30**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
-- **Goles más/menos:** Más de 1.5 **1.17**  ·  Menos de 1.5 **5.00**  ·  Más de 2.5 **1.57**  ·  Menos de 2.5 **2.38**  ·  Más de 3.5 **2.38**  ·  Menos de 3.5 **1.57**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **17.00**  ·  Más de 4.5 **4.33**  ·  Menos de 4.5 **1.22**  ·  Más de 7.5 **29.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **8.00**  ·  Menos de 5.5 **1.08**  ·  Más de 6.5 **15.00**  ·  Menos de 6.5 **1.03**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **15.00**  ·  Menos de 3.5 **1.03**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.50**  ·  Menos de 1.5 **2.50**  ·  Más de 2.5 **2.50**  ·  Menos de 2.5 **1.50**  ·  Más de 3.5 **5.50**  ·  Menos de 3.5 **1.14**  ·  Más de 0.5 **1.10**  ·  Menos de 0.5 **7.00**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **26.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **10.00**  ·  Menos de 2.5 **1.06**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Córners más/menos:** Más de 9.5 **1.83**  ·  Menos de 9.5 **1.83**
-- **Tarjetas más/menos:** Más de 3.5 **1.67**  ·  Menos de 3.5 **2.10**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.00**
 
 ## Estadísticas de equipo
@@ -56,7 +74,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 10,9 | 9,5 | 15,1 | 13,7 |
 | Amarillas propias | 1,6 | 1,8 | 1,6 | 1,7 |
 | Amarillas del rival | 2,1 | 1,8 | 1,6 | 1,7 |
-| Rojas / partido | 0,20 | 0,33 | 0,67 | 1,00 |
+| Rojas / partido | 0,11 | 0,25 | 0,29 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Marseille | Recibe Marseille | Tarjetas Marseille | Goles Le Havre | Recibe Le Havre | Tarjetas Le Havre |

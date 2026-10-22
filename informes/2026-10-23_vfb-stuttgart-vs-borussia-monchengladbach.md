@@ -1,7 +1,7 @@
 # VfB Stuttgart – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 7 · 23/10/2026 20:30 (hora España) · MHP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,32 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **1.38**  ·  X **5.00**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
-- **Goles más/menos:** Más de 1.5 **1.08**  ·  Menos de 1.5 **8.00**  ·  Más de 2.5 **1.28**  ·  Menos de 2.5 **3.75**  ·  Más de 3.5 **1.73**  ·  Menos de 3.5 **2.10**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **23.00**  ·  Más de 8.5 **26.00**  ·  Menos de 8.5 **1.01**  ·  Más de 9.5 **51.00**  ·  Menos de 9.5 **1.00**  ·  Más de 4.5 **2.62**  ·  Menos de 4.5 **1.50**  ·  Más de 7.5 **15.00**  ·  Menos de 7.5 **1.03**  ·  Más de 5.5 **4.33**  ·  Menos de 5.5 **1.22**  ·  Más de 6.5 **8.00**  ·  Menos de 6.5 **1.08**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.80**  ·  Menos de 1.5 **1.91**  ·  Más de 2.5 **3.50**  ·  Menos de 2.5 **1.28**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.17**  ·  Menos de 0.5 **5.00**  ·  Más de 4.5 **21.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **1.25**  ·  Menos de 1.5 **3.75**  ·  Más de 2.5 **1.80**  ·  Menos de 2.5 **1.91**  ·  Más de 3.5 **3.00**  ·  Menos de 3.5 **1.36**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **6.00**  ·  Menos de 4.5 **1.12**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **13.00**  ·  Menos de 5.5 **1.04**  ·  Más de 6.5 **26.00**  ·  Menos de 6.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.67**  ·  Menos de 9.5 **2.10**  ·  Más de 10 **1.92**  ·  Menos de 10 **1.88**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.28** · menos **3.75**
+    - 3,5: más **1.73** · menos **2.10**
+    - 4,5: más **2.62** · menos **1.50**
+    - 5,5: más **4.33** · menos **1.22**
+    - 6,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.92** · menos **1.88**
 - **1X2 descanso:** 1 **1.73**  ·  X **3.00**  ·  2 **6.00**
 
 ## Estadísticas de equipo
@@ -55,7 +76,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 10,9 | 10,0 | 10,2 | 8,3 |
 | Amarillas propias | 1,1 | 1,0 | 3,2 | 2,3 |
 | Amarillas del rival | 2,0 | 2,8 | 1,8 | 1,0 |
-| Rojas / partido | 0,00 | 0,00 | 1,00 | 1,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,17 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles VfB Stuttgart | Recibe VfB Stuttgart | Tarjetas VfB Stuttgart | Goles Borussia Mönchengladbach | Recibe Borussia Mönchengladbach | Tarjetas Borussia Mönchengladbach |

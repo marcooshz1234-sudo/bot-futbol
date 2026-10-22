@@ -1,7 +1,7 @@
 # Kauno Žalgiris – Brann
 **Conference League** · League Stage - 2 · 22/10/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,11 +9,30 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **4.75**  ·  X **3.80**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
-- **Goles más/menos:** Más de 1.5 **1.20**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.67**  ·  Menos de 2.5 **2.15**  ·  Más de 3.5 **2.62**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **10.00**  ·  Menos de 5.5 **1.06**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.00**  ·  Menos de 2.5 **1.12**  ·  Más de 3.5 **17.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.30**  ·  Menos de 0.5 **3.40**
-- **Goles del local:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **10.00**  ·  Menos de 2.5 **1.06**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del visitante:** Más de 1.5 **1.67**  ·  Menos de 1.5 **2.10**  ·  Más de 2.5 **3.25**  ·  Menos de 2.5 **1.33**  ·  Más de 3.5 **7.00**  ·  Menos de 3.5 **1.10**  ·  Más de 0.5 **1.12**  ·  Menos de 0.5 **6.00**  ·  Más de 4.5 **17.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **34.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 9.5 **1.73**  ·  Menos de 9.5 **2.00**  ·  Más de 10 **1.78**  ·  Menos de 10 **2.02**  ·  Más de 10.5 **2.00**  ·  Menos de 10.5 **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.78** · menos **2.02**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **4.75**  ·  X **2.38**  ·  2 **2.20**
 
 ## Estadísticas de equipo
@@ -43,11 +62,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 43 | 49 | 42 | 66 |
 | Córners a favor | 3,0 | 3,5 | 7,8 | 2,0 |
 | Córners en contra | 6,8 | 2,8 | 4,8 | 8,5 |
-| Córners a favor 1ª parte | 1,1 | 1,3 | 4,0 | 1,0 |
-| Córners a favor 2ª parte | 1,2 | 0,7 | 6,0 | 2,0 |
+| Córners a favor 1ª parte | 1,0 | 1,0 | 1,6 | 0,5 |
+| Córners a favor 2ª parte | 1,1 | 0,5 | 2,4 | 1,0 |
 | Córners totales del partido | 9,8 | 6,2 | 12,6 | 10,5 |
-| Córners totales 1ª parte | 4,6 | 3,3 | 5,5 | 4,0 |
-| Córners totales 2ª parte | 5,2 | 2,0 | 9,5 | 7,0 |
+| Córners totales 1ª parte | 4,1 | 2,5 | 2,2 | 2,0 |
+| Córners totales 2ª parte | 4,7 | 1,5 | 3,8 | 3,5 |
 | Más de 8,5 córners | 67% | 25% | 100% | 100% |
 | Más de 9,5 córners | 56% | 0% | 100% | 100% |
 | Más de 10,5 córners | 44% | 0% | 60% | 50% |
@@ -55,7 +74,7 @@ _Actualizadas: 22/10 13:13_
 | Faltas recibidas | 7,8 | 8,5 | 11,6 | 9,0 |
 | Amarillas propias | 1,8 | 2,0 | 2,4 | 3,0 |
 | Amarillas del rival | 1,3 | 1,8 | 2,8 | 2,5 |
-| Rojas / partido | 0,00 | 0,00 | 0,50 | 1,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,40 | 0,50 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Kauno Žalgiris | Recibe Kauno Žalgiris | Tarjetas Kauno Žalgiris | Goles Brann | Recibe Brann | Tarjetas Brann |

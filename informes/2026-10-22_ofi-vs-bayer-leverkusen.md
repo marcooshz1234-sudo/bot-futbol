@@ -1,7 +1,7 @@
 # OFI – Bayer Leverkusen
 **Europa League** · League Stage - 3 · 22/10/2026 18:45 (hora España) · Pankritio Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:13_
@@ -9,12 +9,33 @@ _Actualizadas: 22/10 13:13_
 - **1X2:** 1 **11.00**  ·  X **7.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.10**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
-- **Goles más/menos:** Más de 1.5 **1.10**  ·  Menos de 1.5 **7.00**  ·  Más de 2.5 **1.33**  ·  Menos de 2.5 **3.40**  ·  Más de 3.5 **1.91**  ·  Menos de 3.5 **1.91**  ·  Más de 0.5 **1.01**  ·  Menos de 0.5 **26.00**  ·  Más de 8.5 **29.00**  ·  Menos de 8.5 **1.01**  ·  Más de 4.5 **3.00**  ·  Menos de 4.5 **1.40**  ·  Más de 7.5 **19.00**  ·  Menos de 7.5 **1.02**  ·  Más de 5.5 **5.00**  ·  Menos de 5.5 **1.17**  ·  Más de 6.5 **10.00**  ·  Menos de 6.5 **1.06**
-- **Goles 1ª parte más/menos:** Más de 1.5 **1.83**  ·  Menos de 1.5 **1.83**  ·  Más de 2.5 **3.75**  ·  Menos de 2.5 **1.25**  ·  Más de 3.5 **10.00**  ·  Menos de 3.5 **1.06**  ·  Más de 0.5 **1.18**  ·  Menos de 0.5 **4.50**  ·  Más de 4.5 **23.00**  ·  Menos de 4.5 **1.01**
-- **Goles del local:** Más de 1.5 **4.33**  ·  Menos de 1.5 **1.20**  ·  Más de 2.5 **15.00**  ·  Menos de 2.5 **1.03**  ·  Más de 3.5 **41.00**  ·  Menos de 3.5 **1.00**  ·  Más de 0.5 **1.67**  ·  Menos de 0.5 **2.10**
-- **Goles del visitante:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.00**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.00**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.40**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.50**  ·  Menos de 4.5 **1.14**  ·  Más de 7.5 **51.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Córners más/menos:** Más de 9 **1.82**  ·  Menos de 9 **1.98**  ·  Más de 9.5 **2.00**  ·  Menos de 9.5 **1.73**
-- **Tarjetas más/menos:** Más de 3.5 **1.67**  ·  Menos de 3.5 **2.10**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.00** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Goles del visitante:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.00**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9: más **1.82** · menos **1.98**
+    - 9,5: más **2.00** · menos **1.73**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **9.00**  ·  X **3.10**  ·  2 **1.53**
 
 ## Estadísticas de equipo
@@ -44,11 +65,11 @@ _Actualizadas: 22/10 13:13_
 | Posesión media % | 39 | 39 | 58 | 61 |
 | Córners a favor | 3,2 | 2,5 | 6,9 | 6,2 |
 | Córners en contra | 8,0 | 6,0 | 3,2 | 3,5 |
-| Córners a favor 1ª parte | 1,0 | 0,0 | 2,6 | 2,2 |
-| Córners a favor 2ª parte | 3,0 | 4,0 | 4,2 | 4,0 |
+| Córners a favor 1ª parte | 0,8 | 0,0 | 2,6 | 2,2 |
+| Córners a favor 2ª parte | 2,2 | 2,0 | 4,2 | 4,0 |
 | Córners totales del partido | 11,2 | 8,5 | 10,1 | 9,8 |
-| Córners totales 1ª parte | 5,0 | 3,0 | 4,5 | 4,8 |
-| Córners totales 2ª parte | 8,3 | 9,0 | 5,6 | 5,0 |
+| Córners totales 1ª parte | 3,8 | 1,5 | 4,5 | 4,8 |
+| Córners totales 2ª parte | 6,2 | 4,5 | 5,6 | 5,0 |
 | Más de 8,5 córners | 75% | 50% | 50% | 50% |
 | Más de 9,5 córners | 75% | 50% | 38% | 25% |
 | Más de 10,5 córners | 75% | 50% | 38% | 25% |

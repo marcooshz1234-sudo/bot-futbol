@@ -1,7 +1,7 @@
 # Torino – Como
-**Serie A** · Regular Season - 9 · 27/10/2026 21:45 (hora España) · Stadio Olimpico di Torino
+**Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:15_
@@ -9,11 +9,28 @@ _Actualizadas: 22/10 13:15_
 - **1X2:** 1 **4.50**  ·  X **3.60**  ·  2 **1.75**
 - **Doble oportunidad:** 1X **2.00**  ·  12 **1.28**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
-- **Goles más/menos:** Más de 1.5 **1.22**  ·  Menos de 1.5 **4.33**  ·  Más de 2.5 **1.73**  ·  Menos de 2.5 **2.10**  ·  Más de 3.5 **2.75**  ·  Menos de 3.5 **1.44**  ·  Más de 0.5 **1.04**  ·  Menos de 0.5 **13.00**  ·  Más de 4.5 **5.00**  ·  Menos de 4.5 **1.17**  ·  Más de 7.5 **41.00**  ·  Menos de 7.5 **1.00**  ·  Más de 5.5 **11.00**  ·  Menos de 5.5 **1.05**  ·  Más de 6.5 **21.00**  ·  Menos de 6.5 **1.01**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.50**  ·  Menos de 1.5 **1.50**  ·  Más de 2.5 **6.50**  ·  Menos de 2.5 **1.11**  ·  Más de 3.5 **19.00**  ·  Menos de 3.5 **1.02**  ·  Más de 0.5 **1.33**  ·  Menos de 0.5 **3.25**
-- **Goles del local:** Más de 1.5 **3.25**  ·  Menos de 1.5 **1.33**  ·  Más de 2.5 **9.00**  ·  Menos de 2.5 **1.07**  ·  Más de 3.5 **26.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.44**  ·  Menos de 0.5 **2.62**
-- **Goles del visitante:** Más de 1.5 **1.73**  ·  Menos de 1.5 **2.00**  ·  Más de 2.5 **3.40**  ·  Menos de 2.5 **1.30**  ·  Más de 3.5 **8.00**  ·  Menos de 3.5 **1.08**  ·  Más de 0.5 **1.14**  ·  Menos de 0.5 **5.50**  ·  Más de 4.5 **19.00**  ·  Menos de 4.5 **1.02**  ·  Más de 5.5 **51.00**  ·  Menos de 5.5 **1.00**
-- **Córners más/menos:** Más de 8.5 **1.83**  ·  Menos de 8.5 **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **4.50**  ·  X **2.30**  ·  2 **2.30**
 
 ## Estadísticas de equipo
@@ -53,9 +70,9 @@ _Actualizadas: 22/10 13:15_
 | Más de 10,5 córners | 0% | 0% | 40% | 50% |
 | Faltas cometidas | 9,6 | 7,0 | 9,7 | 10,2 |
 | Faltas recibidas | 12,7 | 13,0 | 11,6 | 13,7 |
-| Amarillas propias | 1,0 | 0,0 | 1,5 | 1,5 |
-| Amarillas del rival | 1,7 | 1,3 | 2,2 | 2,2 |
-| Rojas / partido | 0,00 | – | 0,00 | 0,00 |
+| Amarillas propias | 0,9 | 0,0 | 1,5 | 1,5 |
+| Amarillas del rival | 1,4 | 1,3 | 2,2 | 2,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Torino | Recibe Torino | Tarjetas Torino | Goles Como | Recibe Como | Tarjetas Como |

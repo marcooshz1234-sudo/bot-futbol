@@ -1,7 +1,7 @@
 # Chelsea – Tottenham
 **Premier League** · Regular Season - 8 · 24/10/2026 18:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 13:26._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 13:14_
@@ -9,12 +9,32 @@ _Actualizadas: 22/10 13:14_
 - **1X2:** 1 **1.67**  ·  X **4.20**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.15**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
-- **Goles más/menos:** Más de 1.5 **1.14**  ·  Menos de 1.5 **5.50**  ·  Más de 2.5 **1.50**  ·  Menos de 2.5 **2.62**  ·  Más de 3.5 **2.20**  ·  Menos de 3.5 **1.67**  ·  Más de 0.5 **1.02**  ·  Menos de 0.5 **17.00**  ·  Más de 8.5 **51.00**  ·  Menos de 8.5 **1.00**  ·  Más de 4.5 **4.00**  ·  Menos de 4.5 **1.25**  ·  Más de 7.5 **26.00**  ·  Menos de 7.5 **1.01**  ·  Más de 5.5 **6.50**  ·  Menos de 5.5 **1.11**  ·  Más de 6.5 **13.00**  ·  Menos de 6.5 **1.04**
-- **Goles 1ª parte más/menos:** Más de 1.5 **2.20**  ·  Menos de 1.5 **1.62**  ·  Más de 2.5 **5.00**  ·  Menos de 2.5 **1.17**  ·  Más de 3.5 **13.00**  ·  Menos de 3.5 **1.04**  ·  Más de 0.5 **1.25**  ·  Menos de 0.5 **3.75**
-- **Goles del local:** Más de 1.5 **1.53**  ·  Menos de 1.5 **2.38**  ·  Más de 2.5 **2.62**  ·  Menos de 2.5 **1.44**  ·  Más de 3.5 **5.50**  ·  Menos de 3.5 **1.14**  ·  Más de 0.5 **1.11**  ·  Menos de 0.5 **6.50**  ·  Más de 4.5 **13.00**  ·  Menos de 4.5 **1.04**  ·  Más de 5.5 **29.00**  ·  Menos de 5.5 **1.01**
-- **Goles del visitante:** Más de 1.5 **2.75**  ·  Menos de 1.5 **1.40**  ·  Más de 2.5 **8.00**  ·  Menos de 2.5 **1.08**  ·  Más de 3.5 **21.00**  ·  Menos de 3.5 **1.01**  ·  Más de 0.5 **1.36**  ·  Menos de 0.5 **3.00**  ·  Más de 4.5 **51.00**  ·  Menos de 4.5 **1.00**
-- **Córners más/menos:** Más de 10.5 **1.83**  ·  Menos de 10.5 **1.83**
-- **Tarjetas más/menos:** Más de 5.5 **2.00**  ·  Menos de 5.5 **1.73**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 10,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 5,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.50**
 
 ## Estadísticas de equipo
@@ -56,7 +76,7 @@ _Actualizadas: 22/10 13:14_
 | Faltas recibidas | 11,7 | 13,0 | 13,7 | 17,3 |
 | Amarillas propias | 1,9 | 0,7 | 1,3 | 2,0 |
 | Amarillas del rival | 3,0 | 4,0 | 2,3 | 2,3 |
-| Rojas / partido | – | – | 0,25 | 1,00 |
+| Rojas / partido | 0,00 | 0,00 | 0,14 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Chelsea | Recibe Chelsea | Tarjetas Chelsea | Goles Tottenham | Recibe Tottenham | Tarjetas Tottenham |
