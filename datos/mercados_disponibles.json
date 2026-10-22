@@ -1,0 +1,2103 @@
+{
+ "todos_los_mercados": [
+  "Match Winner",
+  "Home/Away",
+  "Second Half Winner",
+  "Asian Handicap",
+  "Goals Over/Under",
+  "Goals Over/Under First Half",
+  "HT/FT Double",
+  "Both Teams Score",
+  "Handicap Result",
+  "Exact Score",
+  "Highest Scoring Half",
+  "Double Chance",
+  "First Half Winner",
+  "Team To Score First",
+  "Team To Score Last",
+  "Total - Home",
+  "Total - Away",
+  "Handicap Result - First Half",
+  "Asian Handicap First Half",
+  "Double Chance - First Half",
+  "Odd/Even",
+  "Odd/Even - First Half",
+  "Home Odd/Even",
+  "Results/Both Teams Score",
+  "Result/Total Goals",
+  "Goals Over/Under - Second Half",
+  "Clean Sheet - Home",
+  "Clean Sheet - Away",
+  "Win to Nil - Home",
+  "Win to Nil - Away",
+  "Correct Score - First Half",
+  "Win Both Halves",
+  "Double Chance - Second Half",
+  "Both Teams Score - First Half",
+  "Both Teams To Score - Second Half",
+  "Win To Nil",
+  "Home win both halves",
+  "Exact Goals Number",
+  "To Win Either Half",
+  "Home Team Exact Goals Number",
+  "Away Team Exact Goals Number",
+  "Second Half Exact Goals Number",
+  "Home Team Score a Goal",
+  "Away Team Score a Goal",
+  "Corners Over Under",
+  "Exact Goals Number - First Half",
+  "Winning Margin",
+  "To Score In Both Halves By Teams",
+  "Total Goals/Both Teams To Score",
+  "Goal Line",
+  "Halftime Result/Total Goals",
+  "Halftime Result/Both Teams Score",
+  "Away win both halves",
+  "First 10 min Winner",
+  "Corners 1x2",
+  "Corners Asian Handicap",
+  "Home Corners Over/Under",
+  "Away Corners Over/Under",
+  "Own Goal",
+  "Away Odd/Even",
+  "To Qualify",
+  "Correct Score - Second Half",
+  "Odd/Even - Second Half",
+  "Goal Line (1st Half)",
+  "Both Teams to Score 1st Half - 2nd Half",
+  "10 Over/Under",
+  "Last Corner",
+  "First Corner",
+  "Total Corners (1st Half)",
+  "RTG_H1",
+  "Cards European Handicap",
+  "Cards Over/Under",
+  "Cards Asian Handicap",
+  "Home Team Total Cards",
+  "Away Team Total Cards",
+  "Total Corners (3 way) (1st Half)",
+  "Total Corners (3 way)",
+  "RCARD",
+  "Total ShotOnGoal",
+  "Home Total ShotOnGoal",
+  "Away Total ShotOnGoal",
+  "Total Goals (3 way)",
+  "Anytime Goal Scorer",
+  "First Goal Scorer",
+  "Last Goal Scorer",
+  "To Score Two or More Goals",
+  "Last Goal Scorer",
+  "First Goal Method",
+  "To Score A Penalty",
+  "To Miss A Penalty",
+  "Player to be booked",
+  "Player to be Sent Off",
+  "Asian Handicap (2nd Half)",
+  "Home Team Total Goals(1st Half)",
+  "Away Team Total Goals(1st Half)",
+  "Home Team Total Goals(2nd Half)",
+  "Away Team Total Goals(2nd Half)",
+  "Draw No Bet (1st Half)",
+  "Scoring Draw",
+  "Home team will score in both halves",
+  "Away team will score in both halves",
+  "Both Teams To Score in Both Halves",
+  "Home Team Score a Goal (1st Half)",
+  "Home Team Score a Goal (2nd Half)",
+  "Away Team Score a Goal (1st Half)",
+  "Away Team Score a Goal (2nd Half)",
+  "Home Win/Over",
+  "Home Win/Under",
+  "Away Win/Over",
+  "Away Win/Under",
+  "Home team will win either half",
+  "Away team will win either half",
+  "Home Come From Behind and Win",
+  "Corners Asian Handicap (1st Half)",
+  "Corners Asian Handicap (2nd Half)",
+  "Total Corners (2nd Half)",
+  "Total Corners (3 way) (2nd Half)",
+  "Away Come From Behind and Win",
+  "Corners 1x2 (1st Half)",
+  "Corners 1x2 (2nd Half)",
+  "Home Total Corners (1st Half)",
+  "Home Total Corners (2nd Half)",
+  "Away Total Corners (1st Half)",
+  "Away Total Corners (2nd Half)",
+  "1x2 - 15 minutes",
+  "1x2 - 60 minutes",
+  "1x2 - 75 minutes",
+  "1x2 - 30 minutes",
+  "DC - 30 minutes",
+  "DC - 15 minutes",
+  "DC - 60 minutes",
+  "DC - 75 minutes",
+  "Goal in 1-15 minutes",
+  "Goal in 16-30 minutes",
+  "Goal in 31-45 minutes",
+  "Goal in 46-60 minutes",
+  "Goal in 61-75 minutes",
+  "Goal in 76-90 minutes",
+  "Home Team Yellow Cards",
+  "Away Team Yellow Cards",
+  "Yellow Asian Handicap",
+  "Yellow Over/Under",
+  "Yellow Double Chance",
+  "Yellow Over/Under (1st Half)",
+  "Yellow Over/Under (2nd Half)",
+  "Yellow Odd/Even",
+  "Yellow Cards 1x2",
+  "Yellow Asian Handicap (1st Half)",
+  "Yellow Asian Handicap (2nd Half)",
+  "Yellow Cards 1x2 (1st Half)",
+  "Yellow Cards 1x2 (2nd Half)",
+  "Penalty Awarded",
+  "Offsides Total",
+  "Offsides 1x2",
+  "Offsides Handicap",
+  "Offsides Home Total",
+  "Offsides Away Total",
+  "Offsides Double Chance",
+  "Fouls. Away Total",
+  "Fouls. Home Total",
+  "Fouls. Double Chance",
+  "Fouls. Total",
+  "Fouls. Handicap",
+  "Fouls. 1x2",
+  "ShotOnTarget 1x2",
+  "ShotOnTarget Handicap",
+  "ShotOnTarget Double Chance",
+  "First Team to Score",
+  "Last Team to Score",
+  "European Handicap (2nd Half)",
+  "Draw No Bet (2nd Half)",
+  "Double Chance/Total",
+  "To Score in Both Halves",
+  "First Team to Score (3 way) 1st Half",
+  "Total Goals Number By Ranges",
+  "Total Goals By Ranges (1st Half)",
+  "Clean Sheet",
+  "To Advance Handicap",
+  "Home Exact Goals Number (1st Half)",
+  "Away Exact Goals Number (1st Half)",
+  "Home Highest Scoring Half",
+  "Away Highest Scoring Half",
+  "Result/Total Goals (2nd Half)",
+  "Either Team Wins By 1 Goals",
+  "Either Team Wins By 2 Goals",
+  "Over/Under 15m-30m",
+  "Over/Under 30m-45m",
+  "Home Win To Nill (1st Half)",
+  "Home Win To Nill (2nd Half)",
+  "To Score In 1st Half",
+  "To Score In 2nd Half",
+  "Yellow Cards. Odd/Even (1st Half)",
+  "Yellow Cards. Odd/Even (2nd Half)",
+  "First Team to Score (3 way) 2nd Half",
+  "Home No Bet",
+  "Away No Bet",
+  "Corners. First Corner (3 way)",
+  "Home Come From Behind and Draw",
+  "Away Come From Behind and Draw",
+  "Total Shots",
+  "Player Assists",
+  "Player Triples",
+  "Player Points",
+  "Player Singles",
+  "Multi Touchdown Scorer (2 or More)",
+  "Multi Touchdown Scorer (3 or More)",
+  "Away Anytime Goal Scorer",
+  "Away First Goal Scorer",
+  "Shots. Away Total",
+  "Shots. Home Total",
+  "To Win From Behind",
+  "Number of Goals In Match (Range)",
+  "Game Decided After Penalties",
+  "Game Decided in Extra Time",
+  "Away Last Goal Scorer",
+  "Goal Method Header",
+  "Home Goal Method Header",
+  "Goal Method Outside the Box",
+  "Home Goal Method Outside the Box",
+  "Home Anytime Goal Scorer",
+  "Home First Goal Scorer",
+  "Home Last Goal Scorer",
+  "Home To Score Three or More Goals",
+  "Away To Score Three or More Goals",
+  "Away To Score Two or More Goals",
+  "Home To Score Two or More Goals",
+  "Home Team Goalscorers First",
+  "Corners. European Handicap",
+  "Home Player Shots",
+  "Away Player Shots",
+  "Player Shots On Target",
+  "Home Shots On Target",
+  "Away Shots On Target",
+  "Away Goal Method Header",
+  "Away Goal Method Outside the Box",
+  "Corners Race To",
+  "Time Of 1st Score",
+  "Multicorners",
+  "First Card Received (3 way)",
+  "Player to be booked",
+  "Both Teams to Receive a Card",
+  "Time Of 1st Score",
+  "Team Performances (Range)",
+  "Home Player Assists",
+  "Away Player Assists",
+  "Player to Score or Assist",
+  "Home Player to Score or Assist",
+  "Away Player to Score or Assist",
+  "Team Time Of 1st Score",
+  "Total Goal Minutes (Range)",
+  "Late Goal (Range)",
+  "Early Goal (Range)",
+  "Player Shots On Target Total",
+  "Player Shots Total",
+  "Player Fouls Committed",
+  "Goalkeeper Saves",
+  "Home Goalkeeper Saves",
+  "Home Player Shots On Target Total",
+  "Home Player Shots Total",
+  "Home Player Fouls Committed",
+  "Home Player Tackles",
+  "Home Player Passes",
+  "Away Goalkeeper Saves",
+  "Away Player Shots On Target Total",
+  "Away Player Shots Total",
+  "Away Player Fouls Committed",
+  "Away Player Tackles",
+  "Away Player Passes",
+  "First Set Piece 5 Minutes",
+  "Total Tackles",
+  "Double Chance/Both Teams To Score",
+  "Away Win To Nill (1st Half)",
+  "Away Win To Nill (2nd Half)",
+  "Team To Score (Goals)",
+  "Team Goalscorers First",
+  "Team Goalscorers Last",
+  "Home Team Goalscorers Last",
+  "Away Team Goalscorers First",
+  "Away Team Goalscorers Last",
+  "Time of First Goal Brackets (Range)",
+  "Over/Under between 0 and 10m",
+  "Double Chance 0-15m",
+  "Double Chance 15-30m",
+  "Corners. Total (Range)",
+  "Double Chance 30-45m",
+  "Corners. total between 0 and 10m",
+  "Method of Victory",
+  "Cards over/under between 0 and 10 m",
+  "Both Teams to Receive 2+ Cards",
+  "Tackles. Away Total",
+  "Tackles. Home Total",
+  "Over/Under between 0 and 10 m",
+  "Over/Under between  0 and 10 m",
+  "Race to the 2nd goal?",
+  "Race to the 3rd goal?",
+  "Corners. Double Chance",
+  "Race To",
+  "Yellow Cards. Home Total (1st Half)",
+  "Yellow Cards Away Total (1st Half)",
+  "Which team will score the 1st goal?",
+  "1x2 - 20 minutes",
+  "Offsides Odd/Even",
+  "Fouls Odd/Even",
+  "Saves Total",
+  "Saves 1x2",
+  "Saves Asian H",
+  "Saves O/U Home",
+  "Saves O/U Away",
+  "Saves Double Chance",
+  "Penalty Awarded (1st Half)",
+  "Penalty Awarded (2nd Half)",
+  "Saves Odd/Even",
+  "Corner in 1-15 minutes",
+  "Corner in 16-30 minutes",
+  "Corner in 31-45 minutes",
+  "Corner in 45-60 minutes",
+  "Corner in 60-75 minutes",
+  "Corner in 75-90 minutes",
+  "Home Not lose/Over",
+  "Home Not lose/Under",
+  "Away Not lose/Over",
+  "Away Not lose/Under",
+  "1x2 - 70 minutes",
+  "Red Cards Over/Under",
+  "Goal Line",
+  "Asian Handicap (Sets)",
+  "Corners. Odd/Even",
+  "Corners. Double Chance",
+  "Shots.1x2",
+  null,
+  "Red Card In The Match (1st Half)",
+  "Fouls. Odd/Even",
+  "Odd/Even (1st Set)",
+  "Set Betting",
+  "Extra Point (1st Set)",
+  "Home Winning Margin (1st Set)",
+  "Away Winning Margin (1st Set)",
+  "Number Of Goals In Match"
+ ],
+ "bet365_partido": 1570426,
+ "bet365_mercados": [
+  {
+   "nombre": "Match Winner",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.65"
+    },
+    {
+     "value": "Draw",
+     "odd": "6.00"
+    },
+    {
+     "value": "Away",
+     "odd": "3.70"
+    }
+   ]
+  },
+  {
+   "nombre": "Home/Away",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.36"
+    },
+    {
+     "value": "Away",
+     "odd": "3.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Second Half Winner",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.83"
+    },
+    {
+     "value": "Draw",
+     "odd": "3.25"
+    },
+    {
+     "value": "Away",
+     "odd": "3.60"
+    }
+   ]
+  },
+  {
+   "nombre": "Asian Handicap",
+   "ejemplos": [
+    {
+     "value": "Home -1.25",
+     "odd": "2.15"
+    },
+    {
+     "value": "Away -1.25",
+     "odd": "1.68"
+    },
+    {
+     "value": "Home -1",
+     "odd": "1.98"
+    },
+    {
+     "value": "Away -1",
+     "odd": "1.88"
+    }
+   ]
+  },
+  {
+   "nombre": "Goals Over/Under",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.05"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "11.00"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "1.20"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "4.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Goals Over/Under First Half",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.67"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "2.10"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "3.00"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "1.36"
+    }
+   ]
+  },
+  {
+   "nombre": "Goals Over/Under - Second Half",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.36"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "3.00"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "2.10"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "1.67"
+    }
+   ]
+  },
+  {
+   "nombre": "HT/FT Double",
+   "ejemplos": [
+    {
+     "value": "Home/Draw",
+     "odd": "13.00"
+    },
+    {
+     "value": "Home/Away",
+     "odd": "23.00"
+    },
+    {
+     "value": "Draw/Away",
+     "odd": "11.00"
+    },
+    {
+     "value": "Draw/Draw",
+     "odd": "9.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Clean Sheet - Home",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "4.50"
+    },
+    {
+     "value": "No",
+     "odd": "1.18"
+    }
+   ]
+  },
+  {
+   "nombre": "Clean Sheet - Away",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "11.00"
+    },
+    {
+     "value": "No",
+     "odd": "1.05"
+    }
+   ]
+  },
+  {
+   "nombre": "Both Teams Score",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "1.28"
+    },
+    {
+     "value": "No",
+     "odd": "3.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Handicap Result",
+   "ejemplos": [
+    {
+     "value": "Home -1",
+     "odd": "2.25"
+    },
+    {
+     "value": "Away -1",
+     "odd": "2.25"
+    },
+    {
+     "value": "Draw -1",
+     "odd": "4.50"
+    },
+    {
+     "value": "Home -3",
+     "odd": "8.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Exact Score",
+   "ejemplos": [
+    {
+     "value": "1:0",
+     "odd": "21.00"
+    },
+    {
+     "value": "2:0",
+     "odd": "17.00"
+    },
+    {
+     "value": "2:1",
+     "odd": "11.00"
+    },
+    {
+     "value": "3:0",
+     "odd": "19.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Highest Scoring Half",
+   "ejemplos": [
+    {
+     "value": "Draw",
+     "odd": "4.50"
+    },
+    {
+     "value": "1st Half",
+     "odd": "2.88"
+    },
+    {
+     "value": "2nd Half",
+     "odd": "1.91"
+    }
+   ]
+  },
+  {
+   "nombre": "Correct Score - First Half",
+   "ejemplos": [
+    {
+     "value": "1:0",
+     "odd": "5.00"
+    },
+    {
+     "value": "2:0",
+     "odd": "8.00"
+    },
+    {
+     "value": "2:1",
+     "odd": "11.00"
+    },
+    {
+     "value": "3:0",
+     "odd": "19.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Double Chance",
+   "ejemplos": [
+    {
+     "value": "Home/Draw",
+     "odd": "1.28"
+    },
+    {
+     "value": "Home/Away",
+     "odd": "1.12"
+    },
+    {
+     "value": "Draw/Away",
+     "odd": "2.20"
+    }
+   ]
+  },
+  {
+   "nombre": "First Half Winner",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "2.00"
+    },
+    {
+     "value": "Draw",
+     "odd": "3.00"
+    },
+    {
+     "value": "Away",
+     "odd": "4.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Team To Score First",
+   "ejemplos": [
+    {
+     "value": "No goal",
+     "odd": "34.00"
+    },
+    {
+     "value": "Home",
+     "odd": "1.57"
+    },
+    {
+     "value": "Away",
+     "odd": "2.25"
+    }
+   ]
+  },
+  {
+   "nombre": "Team To Score Last",
+   "ejemplos": [
+    {
+     "value": "No goal",
+     "odd": "34.00"
+    },
+    {
+     "value": "Home",
+     "odd": "1.57"
+    },
+    {
+     "value": "Away",
+     "odd": "2.25"
+    }
+   ]
+  },
+  {
+   "nombre": "Win Both Halves",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "3.75"
+    },
+    {
+     "value": "Away",
+     "odd": "15.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Total - Home",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.28"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "3.50"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "1.83"
+    }
+   ]
+  },
+  {
+   "nombre": "Total - Away",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "3.75"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "1.25"
+    }
+   ]
+  },
+  {
+   "nombre": "Handicap Result - First Half",
+   "ejemplos": [
+    {
+     "value": "Home -1",
+     "odd": "4.33"
+    },
+    {
+     "value": "Away -1",
+     "odd": "1.73"
+    },
+    {
+     "value": "Draw -1",
+     "odd": "3.40"
+    },
+    {
+     "value": "Home -3",
+     "odd": "29.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Asian Handicap First Half",
+   "ejemplos": [
+    {
+     "value": "Home -1.25",
+     "odd": "3.55"
+    },
+    {
+     "value": "Away -1.25",
+     "odd": "1.27"
+    },
+    {
+     "value": "Home -1",
+     "odd": "3.10"
+    },
+    {
+     "value": "Away -1",
+     "odd": "1.35"
+    }
+   ]
+  },
+  {
+   "nombre": "Double Chance - First Half",
+   "ejemplos": [
+    {
+     "value": "Home/Draw",
+     "odd": "1.22"
+    },
+    {
+     "value": "Home/Away",
+     "odd": "1.36"
+    },
+    {
+     "value": "Draw/Away",
+     "odd": "1.73"
+    }
+   ]
+  },
+  {
+   "nombre": "Both Teams Score - First Half",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "2.50"
+    },
+    {
+     "value": "No",
+     "odd": "1.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Both Teams To Score - Second Half",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "2.00"
+    },
+    {
+     "value": "No",
+     "odd": "1.73"
+    }
+   ]
+  },
+  {
+   "nombre": "Win To Nil",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "5.00"
+    },
+    {
+     "value": "Away",
+     "odd": "13.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Odd/Even",
+   "ejemplos": [
+    {
+     "value": "Odd",
+     "odd": "1.90"
+    },
+    {
+     "value": "Even",
+     "odd": "1.95"
+    }
+   ]
+  },
+  {
+   "nombre": "Odd/Even - First Half",
+   "ejemplos": [
+    {
+     "value": "Odd",
+     "odd": "1.91"
+    },
+    {
+     "value": "Even",
+     "odd": "1.91"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Odd/Even",
+   "ejemplos": [
+    {
+     "value": "Odd",
+     "odd": "1.83"
+    },
+    {
+     "value": "Even",
+     "odd": "1.83"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Odd/Even",
+   "ejemplos": [
+    {
+     "value": "Odd",
+     "odd": "1.91"
+    },
+    {
+     "value": "Even",
+     "odd": "1.80"
+    }
+   ]
+  },
+  {
+   "nombre": "Exact Goals Number",
+   "ejemplos": [
+    {
+     "value": 0,
+     "odd": "34.00"
+    },
+    {
+     "value": 1,
+     "odd": "13.00"
+    },
+    {
+     "value": 2,
+     "odd": "7.00"
+    },
+    {
+     "value": 3,
+     "odd": "4.75"
+    }
+   ]
+  },
+  {
+   "nombre": "To Win Either Half",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.30"
+    },
+    {
+     "value": "Away",
+     "odd": "2.20"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Team Exact Goals Number",
+   "ejemplos": [
+    {
+     "value": 0,
+     "odd": "11.00"
+    },
+    {
+     "value": 1,
+     "odd": "4.50"
+    },
+    {
+     "value": 2,
+     "odd": "3.50"
+    },
+    {
+     "value": "more 3",
+     "odd": "1.83"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Team Exact Goals Number",
+   "ejemplos": [
+    {
+     "value": 0,
+     "odd": "4.50"
+    },
+    {
+     "value": 1,
+     "odd": "2.88"
+    },
+    {
+     "value": 2,
+     "odd": "3.40"
+    },
+    {
+     "value": "more 3",
+     "odd": "3.75"
+    }
+   ]
+  },
+  {
+   "nombre": "Second Half Exact Goals Number",
+   "ejemplos": [
+    {
+     "value": 0,
+     "odd": "10.00"
+    },
+    {
+     "value": 1,
+     "odd": "4.00"
+    },
+    {
+     "value": 2,
+     "odd": "3.50"
+    },
+    {
+     "value": 3,
+     "odd": "4.33"
+    }
+   ]
+  },
+  {
+   "nombre": "Results/Both Teams Score",
+   "ejemplos": [
+    {
+     "value": "Home/Yes",
+     "odd": "2.25"
+    },
+    {
+     "value": "Draw/Yes",
+     "odd": "6.00"
+    },
+    {
+     "value": "Away/Yes",
+     "odd": "4.50"
+    },
+    {
+     "value": "Home/No",
+     "odd": "5.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Result/Total Goals",
+   "ejemplos": [
+    {
+     "value": "Draw/Over 3.5",
+     "odd": "8.50"
+    },
+    {
+     "value": "Home/Over 3.5",
+     "odd": "2.30"
+    },
+    {
+     "value": "Away/Over 3.5",
+     "odd": "8.50"
+    },
+    {
+     "value": "Home/Under 3.5",
+     "odd": "3.75"
+    }
+   ]
+  },
+  {
+   "nombre": "First 10 min Winner",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "4.75"
+    },
+    {
+     "value": "Draw",
+     "odd": "1.30"
+    },
+    {
+     "value": "Away",
+     "odd": "7.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners Over Under",
+   "ejemplos": [
+    {
+     "value": "Over 10.5",
+     "odd": "1.80"
+    },
+    {
+     "value": "Under 10.5",
+     "odd": "1.91"
+    }
+   ]
+  },
+  {
+   "nombre": "Exact Goals Number - First Half",
+   "ejemplos": [
+    {
+     "value": 0,
+     "odd": "6.00"
+    },
+    {
+     "value": 1,
+     "odd": "3.25"
+    },
+    {
+     "value": 2,
+     "odd": "3.40"
+    },
+    {
+     "value": 3,
+     "odd": "5.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Odd/Even - Second Half",
+   "ejemplos": [
+    {
+     "value": "Odd",
+     "odd": "1.83"
+    },
+    {
+     "value": "Even",
+     "odd": "1.83"
+    }
+   ]
+  },
+  {
+   "nombre": "Winning Margin",
+   "ejemplos": [
+    {
+     "value": "1 by 1",
+     "odd": "4.50"
+    },
+    {
+     "value": "2 by 1",
+     "odd": "6.00"
+    },
+    {
+     "value": "1 by 4+",
+     "odd": "8.00"
+    },
+    {
+     "value": "1 by 2",
+     "odd": "5.00"
+    }
+   ]
+  },
+  {
+   "nombre": "To Score In Both Halves By Teams",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.73"
+    },
+    {
+     "value": "Away",
+     "odd": "2.75"
+    }
+   ]
+  },
+  {
+   "nombre": "Total Goals/Both Teams To Score",
+   "ejemplos": [
+    {
+     "value": "o/yes 2.5",
+     "odd": "1.36"
+    },
+    {
+     "value": "o/no 2.5",
+     "odd": "7.00"
+    },
+    {
+     "value": "u/yes 2.5",
+     "odd": "15.00"
+    },
+    {
+     "value": "u/no 2.5",
+     "odd": "6.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Goal Line",
+   "ejemplos": [
+    {
+     "value": "Over 2.25",
+     "odd": "1.12"
+    },
+    {
+     "value": "Under 2.25",
+     "odd": "6.25"
+    },
+    {
+     "value": "Over 2.5",
+     "odd": "1.19"
+    },
+    {
+     "value": "Under 2.5",
+     "odd": "4.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Goal Line (1st Half)",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "1.65"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "2.20"
+    },
+    {
+     "value": "Over 1.75",
+     "odd": "1.90"
+    },
+    {
+     "value": "Under 1.75",
+     "odd": "1.90"
+    }
+   ]
+  },
+  {
+   "nombre": "First Goal Method",
+   "ejemplos": [
+    {
+     "value": "Shot",
+     "odd": "1.36"
+    },
+    {
+     "value": "Header",
+     "odd": "5.50"
+    },
+    {
+     "value": "Penalty",
+     "odd": "9.00"
+    },
+    {
+     "value": "FreeKick",
+     "odd": "29.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners Asian Handicap",
+   "ejemplos": [
+    {
+     "value": "Home -3",
+     "odd": "1.95"
+    },
+    {
+     "value": "Away -3",
+     "odd": "1.85"
+    },
+    {
+     "value": "Home -2.5",
+     "odd": "1.90"
+    },
+    {
+     "value": "Away -2.5",
+     "odd": "1.90"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Corners Over/Under",
+   "ejemplos": [
+    {
+     "value": "Over 6.5",
+     "odd": "1.80"
+    },
+    {
+     "value": "Under 6.5",
+     "odd": "1.91"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Corners Over/Under",
+   "ejemplos": [
+    {
+     "value": "Over 3.5",
+     "odd": "1.73"
+    },
+    {
+     "value": "Under 3.5",
+     "odd": "2.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Own Goal",
+   "ejemplos": [
+    {
+     "value": "Yes",
+     "odd": "8.00"
+    },
+    {
+     "value": "No",
+     "odd": "1.08"
+    }
+   ]
+  },
+  {
+   "nombre": "Anytime Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "3.50"
+    },
+    {
+     "value": "Rodri",
+     "odd": "5.50"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "2.50"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "6.50"
+    }
+   ]
+  },
+  {
+   "nombre": "First Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Rodri",
+     "odd": "21.00"
+    },
+    {
+     "value": "No Goalscorer",
+     "odd": "34.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "8.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Last Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Rodri",
+     "odd": "21.00"
+    },
+    {
+     "value": "No Goalscorer",
+     "odd": "34.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "8.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Total Corners (3 way)",
+   "ejemplos": [
+    {
+     "value": "Exactly 2",
+     "odd": "101.00"
+    },
+    {
+     "value": "Over 2",
+     "odd": "1.00"
+    },
+    {
+     "value": "Under 2",
+     "odd": "101.00"
+    },
+    {
+     "value": "Exactly 3",
+     "odd": "41.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Total Corners (1st Half)",
+   "ejemplos": [
+    {
+     "value": "Exactly 5",
+     "odd": "5.50"
+    },
+    {
+     "value": "Over 5",
+     "odd": "1.95"
+    },
+    {
+     "value": "Under 5",
+     "odd": "1.85"
+    }
+   ]
+  },
+  {
+   "nombre": "RTG_H1",
+   "ejemplos": [
+    {
+     "value": "Draw/Over 1.5",
+     "odd": "5.50"
+    },
+    {
+     "value": "Away/Over 1.5",
+     "odd": "7.50"
+    },
+    {
+     "value": "Home/Over 1.5",
+     "odd": "3.00"
+    },
+    {
+     "value": "Home/Under 1.5",
+     "odd": "5.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Shots.1x2",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.20"
+    },
+    {
+     "value": "Draw",
+     "odd": "19.00"
+    },
+    {
+     "value": "Away",
+     "odd": "4.33"
+    }
+   ]
+  },
+  {
+   "nombre": "Total ShotOnGoal",
+   "ejemplos": [
+    {
+     "value": "Over 14.5",
+     "odd": "1.91"
+    },
+    {
+     "value": "Under 14.5",
+     "odd": "1.80"
+    }
+   ]
+  },
+  {
+   "nombre": "Player Singles",
+   "ejemplos": [
+    {
+     "value": "Anthony Gordon - 1 ",
+     "odd": "1.02"
+    },
+    {
+     "value": "Dani Olmo - 1 ",
+     "odd": "1.04"
+    },
+    {
+     "value": "Fermin Lopez - 1 ",
+     "odd": "1.02"
+    },
+    {
+     "value": "Brian Farinas - 1 ",
+     "odd": "1.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Player Triples",
+   "ejemplos": [
+    {
+     "value": "Anthony Gordon - 1",
+     "odd": "1.30"
+    },
+    {
+     "value": "Dani Olmo - 1",
+     "odd": "1.17"
+    },
+    {
+     "value": "Fermin Lopez - 1",
+     "odd": "1.07"
+    },
+    {
+     "value": "Brian Farinas - 1",
+     "odd": "1.10"
+    }
+   ]
+  },
+  {
+   "nombre": "Number Of Goals In Match",
+   "ejemplos": [
+    {
+     "value": "Under 2 goals",
+     "odd": "11.00"
+    },
+    {
+     "value": "2 or 3 goals",
+     "odd": "3.00"
+    },
+    {
+     "value": "Over 3 goals",
+     "odd": "1.50"
+    }
+   ]
+  },
+  {
+   "nombre": "To Score A Penalty",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "4.00"
+    },
+    {
+     "value": "Away",
+     "odd": "6.00"
+    }
+   ]
+  },
+  {
+   "nombre": "To Miss A Penalty",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "11.00"
+    },
+    {
+     "value": "Away",
+     "odd": "17.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Offsides Total",
+   "ejemplos": [
+    {
+     "value": "Over 4.5",
+     "odd": "1.67"
+    },
+    {
+     "value": "Under 4.5",
+     "odd": "2.10"
+    }
+   ]
+  },
+  {
+   "nombre": "Offsides Home Total",
+   "ejemplos": [
+    {
+     "value": "Over 1.5",
+     "odd": "2.10"
+    },
+    {
+     "value": "Under 1.5",
+     "odd": "1.67"
+    }
+   ]
+  },
+  {
+   "nombre": "Offsides Away Total",
+   "ejemplos": [
+    {
+     "value": "Over 3.5",
+     "odd": "2.00"
+    },
+    {
+     "value": "Under 3.5",
+     "odd": "1.73"
+    }
+   ]
+  },
+  {
+   "nombre": "ShotOnTarget 1x2",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "1.30"
+    },
+    {
+     "value": "Draw",
+     "odd": "10.00"
+    },
+    {
+     "value": "Away",
+     "odd": "4.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Highest Scoring Half",
+   "ejemplos": [
+    {
+     "value": "Draw",
+     "odd": "3.40"
+    },
+    {
+     "value": "1st Half",
+     "odd": "2.88"
+    },
+    {
+     "value": "2nd Half",
+     "odd": "2.10"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Highest Scoring Half",
+   "ejemplos": [
+    {
+     "value": "Draw",
+     "odd": "2.62"
+    },
+    {
+     "value": "1st Half",
+     "odd": "3.25"
+    },
+    {
+     "value": "2nd Half",
+     "odd": "2.38"
+    }
+   ]
+  },
+  {
+   "nombre": "Total Shots",
+   "ejemplos": [
+    {
+     "value": "Over 30.5",
+     "odd": "1.91"
+    },
+    {
+     "value": "Under 30.5",
+     "odd": "1.80"
+    },
+    {
+     "value": "Over 32.5",
+     "odd": "1.80"
+    },
+    {
+     "value": "Under 32.5",
+     "odd": "1.91"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners. European Handicap",
+   "ejemplos": [
+    {
+     "value": "Home -3",
+     "odd": "2.05"
+    },
+    {
+     "value": "Draw -3",
+     "odd": "8.50"
+    },
+    {
+     "value": "Away -3",
+     "odd": "1.95"
+    }
+   ]
+  },
+  {
+   "nombre": "Player Fouls Committed",
+   "ejemplos": [
+    {
+     "value": "Anthony Gordon - 1",
+     "odd": "1.36"
+    },
+    {
+     "value": "Dani Olmo - 1",
+     "odd": "1.18"
+    },
+    {
+     "value": "Fermin Lopez - 1",
+     "odd": "1.14"
+    },
+    {
+     "value": "Brian Farinas - 1",
+     "odd": "1.28"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Anytime Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "3.50"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "2.50"
+    },
+    {
+     "value": "Ibrahima Konate",
+     "odd": "10.00"
+    },
+    {
+     "value": "Aurelien Tchouameni",
+     "odd": "8.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Away First Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "8.50"
+    },
+    {
+     "value": "Ibrahima Konate",
+     "odd": "41.00"
+    },
+    {
+     "value": "Aurelien Tchouameni",
+     "odd": "34.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Last Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "8.50"
+    },
+    {
+     "value": "Ibrahima Konate",
+     "odd": "41.00"
+    },
+    {
+     "value": "Aurelien Tchouameni",
+     "odd": "34.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Player Shots",
+   "ejemplos": [
+    {
+     "value": "Anthony Gordon - 1",
+     "odd": "1.02"
+    },
+    {
+     "value": "Dani Olmo - 1",
+     "odd": "1.04"
+    },
+    {
+     "value": "Fermin Lopez - 1",
+     "odd": "1.02"
+    },
+    {
+     "value": "Brian Farinas - 1",
+     "odd": "1.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Player Shots",
+   "ejemplos": [
+    {
+     "value": "Jude Bellingham - 1",
+     "odd": "1.17"
+    },
+    {
+     "value": "Yan Diomande - 1",
+     "odd": "1.11"
+    },
+    {
+     "value": "Arda Guler - 1",
+     "odd": "1.22"
+    },
+    {
+     "value": "Brahim Diaz - 1",
+     "odd": "1.40"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Goal Method Header",
+   "ejemplos": [
+    {
+     "value": "Rodri",
+     "odd": "17.00"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "15.00"
+    },
+    {
+     "value": "Lamine Yamal",
+     "odd": "19.00"
+    },
+    {
+     "value": "Pedri",
+     "odd": "29.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Goal Method Header",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "6.00"
+    },
+    {
+     "value": "Ibrahima Konate",
+     "odd": "15.00"
+    },
+    {
+     "value": "Aurelien Tchouameni",
+     "odd": "23.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Goal Method Outside the Box",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Rodri",
+     "odd": "9.50"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "12.00"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "34.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Anytime Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Rodri",
+     "odd": "5.50"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "6.50"
+    },
+    {
+     "value": "Lamine Yamal",
+     "odd": "2.00"
+    },
+    {
+     "value": "Pedri",
+     "odd": "4.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Home First Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Rodri",
+     "odd": "21.00"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "26.00"
+    },
+    {
+     "value": "Lamine Yamal",
+     "odd": "6.50"
+    },
+    {
+     "value": "Pedri",
+     "odd": "17.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Last Goal Scorer",
+   "ejemplos": [
+    {
+     "value": "Rodri",
+     "odd": "21.00"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "26.00"
+    },
+    {
+     "value": "Lamine Yamal",
+     "odd": "6.50"
+    },
+    {
+     "value": "Pedri",
+     "odd": "17.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Player to Score or Assist",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "2.20"
+    },
+    {
+     "value": "Rodri",
+     "odd": "3.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "2.05"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "3.40"
+    }
+   ]
+  },
+  {
+   "nombre": "Goalkeeper Saves",
+   "ejemplos": [
+    {
+     "value": "Thibaut Courtois - 2",
+     "odd": "1.12"
+    },
+    {
+     "value": "Thibaut Courtois - 3",
+     "odd": "1.30"
+    },
+    {
+     "value": "Thibaut Courtois - 4",
+     "odd": "1.67"
+    },
+    {
+     "value": "Thibaut Courtois - 5",
+     "odd": "2.25"
+    }
+   ]
+  },
+  {
+   "nombre": "Home Player Shots On Target Total",
+   "ejemplos": [
+    {
+     "value": "Anthony Gordon - 1",
+     "odd": "1.22"
+    },
+    {
+     "value": "Dani Olmo - 1",
+     "odd": "1.28"
+    },
+    {
+     "value": "Fermin Lopez - 1",
+     "odd": "1.22"
+    },
+    {
+     "value": "Brian Farinas - 1",
+     "odd": "2.62"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Player Shots On Target Total",
+   "ejemplos": [
+    {
+     "value": "Yan Diomande",
+     "odd": "13.00"
+    },
+    {
+     "value": "Rodri",
+     "odd": "17.00"
+    },
+    {
+     "value": "Carlos Espi",
+     "odd": "6.00"
+    },
+    {
+     "value": "Jules Kounde",
+     "odd": "15.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Away Player Shots Total",
+   "ejemplos": [
+    {
+     "value": "Over 10.5",
+     "odd": "1.91"
+    },
+    {
+     "value": "Under 10.5",
+     "odd": "1.80"
+    },
+    {
+     "value": "Over 12.5",
+     "odd": "1.73"
+    },
+    {
+     "value": "Under 12.5",
+     "odd": "2.00"
+    }
+   ]
+  },
+  {
+   "nombre": "To Win From Behind",
+   "ejemplos": [
+    {
+     "value": "Home",
+     "odd": "5.00"
+    },
+    {
+     "value": "Away",
+     "odd": "10.00"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners. Total (Range)",
+   "ejemplos": [
+    {
+     "value": "Under 6",
+     "odd": "17.00"
+    },
+    {
+     "value": "6 - 8",
+     "odd": "4.33"
+    },
+    {
+     "value": "9 - 11",
+     "odd": "2.75"
+    },
+    {
+     "value": "12 - 14",
+     "odd": "3.40"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners Race To",
+   "ejemplos": [
+    {
+     "value": "Home 3",
+     "odd": "1.33"
+    },
+    {
+     "value": "Away 3",
+     "odd": "3.25"
+    },
+    {
+     "value": "Draw 3",
+     "odd": "51.00"
+    },
+    {
+     "value": "Home 5",
+     "odd": "1.40"
+    }
+   ]
+  },
+  {
+   "nombre": "Multicorners",
+   "ejemplos": [
+    {
+     "value": "Over 24.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Under 24.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Over 25.5",
+     "odd": "1.83"
+    },
+    {
+     "value": "Under 25.5",
+     "odd": "1.83"
+    }
+   ]
+  },
+  {
+   "nombre": "Corners. total between 0 and 10m",
+   "ejemplos": [
+    {
+     "value": "Over",
+     "odd": "1.50"
+    },
+    {
+     "value": "Under",
+     "odd": "2.50"
+    }
+   ]
+  },
+  {
+   "nombre": "Total Tackles",
+   "ejemplos": [
+    {
+     "value": "Over 34.5",
+     "odd": "2.00"
+    },
+    {
+     "value": "Under 34.5",
+     "odd": "1.73"
+    }
+   ]
+  }
+ ],
+ "cuenta": {
+  "plan": "Pro",
+  "end": "2026-11-22T10:58:22+00:00",
+  "active": true
+ },
+ "peticiones": {
+  "current": 1233,
+  "limit_day": 7500
+ }
+}
