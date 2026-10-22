@@ -1,0 +1,15 @@
+name: Prueba API
+on: workflow_dispatch
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comprobar acceso
+        env:
+          KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          echo "=== ESTADO DE LA CUENTA ==="
+          curl -s -H "x-apisports-key: $KEY" "https://v3.football.api-sports.io/status"
+          echo ""
+          echo "=== LALIGA 2026/27 ==="
+          curl -s -H "x-apisports-key: $KEY" "https://v3.football.api-sports.io/fixtures?league=140&season=2026" | python3 -c "import json,sys; d=json.load(sys.stdin); print('Errores:', d.get('errors')); print('Partidos encontrados:', d.get('results')); r=d.get('response') or []; [print(f['teams']['home']['name'], '-', f['teams']['away']['name'], f['fixture']['date'][:10]) for f in r[:5]]"
