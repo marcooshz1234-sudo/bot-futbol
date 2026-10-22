@@ -229,6 +229,7 @@ def recortar_partido(p):
                 "faltas_r": (s.get("fouls") or {}).get("drawn") or 0,
                 "amarillas": (s.get("cards") or {}).get("yellow") or 0,
                 "rojas": (s.get("cards") or {}).get("red") or 0,
+                "paradas": (s.get("goals") or {}).get("saves") or 0,
             })
         reg["jugadores"][str(bloque["team"]["id"])] = lista
     return reg

@@ -1,0 +1,42 @@
+{
+ "escalon": 1,
+ "stake": 20.0,
+ "historial": [],
+ "actual": {
+  "dia": "2026-10-27",
+  "escalon": 1,
+  "stake": 20.0,
+  "cuota": 2.02,
+  "picks": [
+   {
+    "partido_id": 1550175,
+    "fecha": "2026-10-27T20:45",
+    "competicion": "Serie A",
+    "local": "Torino",
+    "visitante": "Como",
+    "mercado": "Total - Home",
+    "opcion": "Over 0.5",
+    "texto": "Torino marca más de 0,5 goles",
+    "cuota": 1.44,
+    "frecuencia": 0.882,
+    "detalle": "Torino 6/7 · Como (en contra) 9/10",
+    "ventaja": 0.188
+   },
+   {
+    "partido_id": 1550174,
+    "fecha": "2026-10-27T18:30",
+    "competicion": "Serie A",
+    "local": "Sassuolo",
+    "visitante": "Lazio",
+    "mercado": "Double Chance",
+    "opcion": "Draw/Away",
+    "texto": "Lazio o empate",
+    "cuota": 1.4,
+    "frecuencia": 0.857,
+    "detalle": "Sassuolo 5/7 · Lazio 7/7",
+    "ventaja": 0.143
+   }
+  ],
+  "anterior": null
+ }
+}

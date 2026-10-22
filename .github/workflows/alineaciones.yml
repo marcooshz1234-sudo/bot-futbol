@@ -1,0 +1,36 @@
+name: Alineaciones y combis de jugadores
+on:
+  schedule:
+    - cron: "5,20,35,50 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: telegram
+  cancel-in-progress: false
+jobs:
+  alineaciones:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Mirar alineaciones y preparar combis de jugadores
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python -u alineaciones.py
+      - name: Publicar al momento
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: "-1003953339107"
+        run: python -u publicar_telegram.py
+      - name: Guardar
+        run: |
+          git config user.name "bot-futbol"
+          git config user.email "bot-futbol@users.noreply.github.com"
+          git add -A publicaciones datos/alineaciones_hechas.json 2>/dev/null; git add -A publicaciones
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Alineaciones $(date -u +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

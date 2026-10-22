@@ -27,7 +27,8 @@ from zoneinfo import ZoneInfo
 
 RAIZ = Path(__file__).resolve().parent
 COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dentro)
-AUTO = RAIZ / "publicaciones" / "auto.json"        # posts de El Analista (solo lee)
+AUTOS = [RAIZ / "publicaciones" / "auto.json",      # posts de El Analista (solo lee)
+         RAIZ / "publicaciones" / "alineaciones.json"]  # combis de jugadores (solo lee)
 ENVIADOS = RAIZ / "publicaciones" / "enviados.json"  # estado de los de auto.json
 MADRID = ZoneInfo("Europe/Madrid")
 PIE = "🔞 +18 | Juega con responsabilidad"
@@ -99,7 +100,7 @@ def main():
     ahora = datetime.now(MADRID)
     comprobar(token, canal, ahora)
     cola = json.loads(COLA.read_text(encoding="utf-8")) if COLA.exists() else []
-    auto = json.loads(AUTO.read_text(encoding="utf-8")) if AUTO.exists() else []
+    auto = [p for ruta in AUTOS if ruta.exists() for p in json.loads(ruta.read_text(encoding="utf-8"))]
     enviados = json.loads(ENVIADOS.read_text(encoding="utf-8")) if ENVIADOS.exists() else {}
     for p in auto:  # el estado de los automáticos vive en enviados.json
         p.update(enviados.get(p["id"], {}))

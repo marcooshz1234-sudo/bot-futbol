@@ -93,6 +93,22 @@ def posts_del_dia(dia, d):
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
                       "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
 
+    esc = leer(DATOS / "escalera.json") or {}
+    act = esc.get("actual")
+    if act and act["dia"] == dia:
+        ant = act.get("anterior")
+        if not ant:
+            intro = "Empezamos con 20€ y subimos un escalón cada día 🚀"
+        elif ant["resultado"] == "verde":
+            intro = f"✅ Escalón {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant['stake'] * ant['cuota'])}€"
+        else:
+            intro = f"❌ Se cayó el escalón {ant['escalon']}. Volvemos a empezar con 20€ 💪"
+        posts.append(("escalera", f.replace(hour=13, minute=0), act["picks"],
+                      f"🪜 RETO ESCALERA · ESCALÓN {act['escalon']} 🪜\n\n{intro}\n\n"
+                      f"💶 Hoy vamos con {num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
+                      f"{lista(act['picks'])}\n\n🎯 Cuota total: {num(act['cuota'])}\n\n"
+                      "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+
     salida = []
     for tipo, hora, picks, texto in posts:
         primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)

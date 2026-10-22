@@ -23,6 +23,8 @@ jobs:
         run: python -u bot.py
       - name: Elegir picks y combis
         run: python -u picks.py
+      - name: Reto escalera
+        run: python -u escalera.py
       - name: Escribir posts con plantillas
         run: python -u plantillas.py
       - name: Guardar cambios
