@@ -47,7 +47,11 @@ DATOS = RAIZ / "datos"
 PARTIDOS = DATOS / "partidos"
 EXTRA = DATOS / "proximos"
 INFORMES = RAIZ / "informes"
-MADRID = timezone(timedelta(hours=2))  # hora peninsular aproximada para mostrar fechas
+try:
+    from zoneinfo import ZoneInfo
+    MADRID = ZoneInfo("Europe/Madrid")  # hora peninsular, con cambio de horario
+except Exception:  # pragma: no cover
+    MADRID = timezone(timedelta(hours=1))
 
 # ---------------------------------------------------------------- API
 
@@ -415,7 +419,9 @@ def corners_parte(p, eq):
             p1 = v
         elif "2" in k or "second" in k:
             p2 = v
-    return p1, p2
+    if not d:
+        return None, None
+    return p1 or 0, p2 or 0
 
 
 def resumen_equipo(eq, partidos):
@@ -444,10 +450,15 @@ def resumen_equipo(eq, partidos):
         mio = p["stats"].get(str(eq)) or {}
         suyo = p["stats"].get(str(rival["id"])) or {}
         for k in ("corners", "tiros", "a_puerta", "faltas", "amarillas", "rojas", "posesion", "xg"):
-            r[k].append(mio.get(k))
-            r[k + "_c"].append(suyo.get(k))
-        if mio.get("corners") is not None and suyo.get("corners") is not None:
-            r["corners_total"].append(mio["corners"] + suyo["corners"])
+            a, b = mio.get(k), suyo.get(k)
+            # La API deja vacías las tarjetas y córners cuando son 0
+            if k in ("amarillas", "rojas", "corners"):
+                a = (a or 0) if mio else None
+                b = (b or 0) if suyo else None
+            r[k].append(a)
+            r[k + "_c"].append(b)
+        if mio and suyo:
+            r["corners_total"].append((mio.get("corners") or 0) + (suyo.get("corners") or 0))
         c1, c2 = corners_parte(p, eq)
         r1, r2 = corners_parte(p, rival["id"])
         r["corners_1p"].append(c1)
@@ -631,10 +642,39 @@ def bloque_cuotas(ex):
         return "_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._"
     out = [f"_Actualizadas: {fecha(ex['cuotas_hora']).astimezone(MADRID).strftime('%d/%m %H:%M')}_\n"]
     for mercado in MERCADOS:
-        if mercado in cuotas:
-            vals = "  ·  ".join(f"{traducir_opcion(v)} **{o}**" for v, o in cuotas[mercado])
-            out.append(f"- **{TRADUCCION_CUOTAS.get(mercado, mercado)}:** {vals}")
+        if mercado not in cuotas:
+            continue
+        nombre = TRADUCCION_CUOTAS.get(mercado, mercado)
+        opciones = cuotas[mercado]
+        lineas = agrupar_mas_menos(opciones)
+        if lineas:
+            out.append(f"- **{nombre}:**")
+            for linea, mas, menos in lineas:
+                out.append(f"    - {linea}: más **{mas or '–'}** · menos **{menos or '–'}**")
+        else:
+            vals = "  ·  ".join(f"{traducir_opcion(v)} **{o}**" for v, o in opciones)
+            out.append(f"- **{nombre}:** {vals}")
     return "\n".join(out)
+
+
+def agrupar_mas_menos(opciones):
+    """Convierte opciones 'Over 2.5'/'Under 2.5' en filas ordenadas por línea.
+
+    Se omiten las líneas sin interés (cuota de 1.03 o menos en un lado)."""
+    filas = {}
+    for v, o in opciones:
+        m = re.match(r"^(Over|Under)\s+([\d.]+)$", str(v))
+        if not m:
+            return None
+        lado, linea = m.group(1), float(m.group(2))
+        filas.setdefault(linea, [None, None])[0 if lado == "Over" else 1] = o
+    salida = []
+    for linea in sorted(filas):
+        mas, menos = filas[linea]
+        if any(num(x) is not None and num(x) <= 1.03 for x in (mas, menos)):
+            continue
+        salida.append((f"{linea:g}".replace(".", ","), mas, menos))
+    return salida
 
 
 def informe(p, ex, idx):
