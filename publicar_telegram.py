@@ -71,13 +71,32 @@ def preparar_texto(texto):
     return texto
 
 
+def comprobar(token, canal, ahora):
+    """Guarda en publicaciones/estado.json si el bot funciona y es admin del canal."""
+    estado = {"comprobado": ahora.strftime("%Y-%m-%d %H:%M")}
+    try:
+        yo = api(token, "getMe", {})["result"]
+        estado["bot"] = "@" + yo["username"]
+        miembro = api(token, "getChatMember", {"chat_id": canal, "user_id": yo["id"]})["result"]
+        estado["rol"] = miembro.get("status")
+        estado["puede_publicar"] = bool(miembro.get("can_post_messages"))
+    except Exception as e:
+        estado["error"] = str(e)
+    ruta = RAIZ / "publicaciones" / "estado.json"
+    anterior = json.loads(ruta.read_text(encoding="utf-8")) if ruta.exists() else {}
+    if {k: v for k, v in anterior.items() if k != "comprobado"} != {k: v for k, v in estado.items() if k != "comprobado"}:
+        ruta.write_text(json.dumps(estado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("Estado:", estado)
+
+
 def main():
     token = os.environ.get("TELEGRAM_TOKEN")
     canal = os.environ.get("TELEGRAM_CANAL")
     if not token or not canal:
         sys.exit("Faltan TELEGRAM_TOKEN o TELEGRAM_CANAL")
-    cola = json.loads(COLA.read_text(encoding="utf-8")) if COLA.exists() else []
     ahora = datetime.now(MADRID)
+    comprobar(token, canal, ahora)
+    cola = json.loads(COLA.read_text(encoding="utf-8")) if COLA.exists() else []
     cambios = 0
     for p in sorted(cola, key=lambda x: x["fecha"]):
         if p.get("enviado") or p.get("caducada"):
