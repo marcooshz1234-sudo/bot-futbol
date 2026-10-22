@@ -70,8 +70,9 @@ MERCADOS_GOLES = {"Goals Over/Under", "Goals Over/Under First Half", "Goals Over
 
 
 def excluido(mercado, opcion):
+    """Fuera los 'menos de' (se entienden mal en redes y no le gustan) y los 'no'."""
     o = str(opcion).strip()
-    if mercado in MERCADOS_GOLES and o.startswith("Under"):
+    if o.startswith("Under") or o == "No":
         return True
     if mercado == "Total Goals/Both Teams To Score" and not o.startswith("o/yes"):
         return True
