@@ -346,6 +346,29 @@ MERCADOS = [
     "Goals Over/Under First Half", "Total - Home", "Total - Away",
     "Corners Over Under", "Corners 1x2", "Total Corners", "Cards Over/Under",
     "Home Team Score a Goal", "Away Team Score a Goal", "First Half Winner",
+    # --- goles por partes
+    "Goals Over/Under - Second Half", "Both Teams Score - First Half", "Both Teams To Score - Second Half",
+    "To Win Either Half", "To Score In Both Halves By Teams", "Win Both Halves",
+    "Home Team Score a Goal (1st Half)", "Home Team Score a Goal (2nd Half)",
+    "Away Team Score a Goal (1st Half)", "Away Team Score a Goal (2nd Half)",
+    "Results/Both Teams Score", "Total Goals/Both Teams To Score",
+    # --- estadísticas por equipo y por partes
+    "Home Corners Over/Under", "Away Corners Over/Under", "Total Corners (1st Half)", "Total Corners (2nd Half)",
+    "Home Team Total Cards", "Away Team Total Cards", "Yellow Over/Under",
+    "Home Team Yellow Cards", "Away Team Yellow Cards", "Both Teams to Receive a Card",
+    "Total ShotOnGoal", "Home Total ShotOnGoal", "Away Total ShotOnGoal", "ShotOnTarget 1x2",
+    "Home Shots On Target", "Away Shots On Target",
+    "Total Shots", "Shots. Home Total", "Shots. Away Total", "Shots.1x2",
+    "Fouls. Total", "Fouls. Home Total", "Fouls. Away Total",
+    "Offsides Total", "Offsides Home Total", "Offsides Away Total",
+    "Saves O/U Home", "Saves O/U Away",
+    # --- jugadores
+    "Player Shots On Target Total", "Player Shots Total", "Player Shots On Target",
+    "Home Player Shots On Target Total", "Away Player Shots On Target Total",
+    "Home Player Shots Total", "Away Player Shots Total", "Home Player Shots", "Away Player Shots",
+    "Player Fouls Committed", "Home Player Fouls Committed", "Away Player Fouls Committed",
+    "Goalkeeper Saves", "Home Goalkeeper Saves", "Away Goalkeeper Saves",
+    "Player to be booked", "Anytime Goal Scorer", "Player to Score or Assist",
 ]
 
 
