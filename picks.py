@@ -39,6 +39,14 @@ COMPETICION = {140: "LaLiga", 39: "Premier", 135: "Serie A", 78: "Bundesliga",
 
 TERMINADOS = {"FT", "AET", "PEN"}
 
+# Marcos no quiere "menos de 2,5" ni "menos de 3,5" goles (ni del partido ni de un equipo).
+MERCADOS_GOLES = {"Goals Over/Under", "Goals Over/Under First Half", "Total - Home", "Total - Away"}
+EXCLUIDOS = {"Under 2.5", "Under 3.5"}
+
+
+def excluido(mercado, opcion):
+    return mercado in MERCADOS_GOLES and str(opcion).strip() in EXCLUIDOS
+
 
 # ------------------------------------------------------------ hechos por partido
 
@@ -185,7 +193,7 @@ def picks_partido(prox, hist, ahora):
                 cuota = float(cuota)
             except (TypeError, ValueError):
                 continue
-            if cuota < CUOTA_MIN or cuota > CUOTA_MAX:
+            if cuota < CUOTA_MIN or cuota > CUOTA_MAX or excluido(mercado, opcion):
                 continue
             f_loc = evaluador(mercado, opcion, True)
             f_vis = evaluador(mercado, opcion, False)
