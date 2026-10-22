@@ -47,6 +47,12 @@ FREC_EQUIPO = 0.70
 MIN_PARTIDOS = 5
 ULTIMOS = 10          # partidos de cada equipo que se miran
 JUG_CUOTA_MAX = 2.00
+# Prueba con 186 partidos jugados (informes/prueba_mercados.md): los picks de jugador fallan más
+# que los de equipo. Con ≥ 90 % aguantan los tiros (2+) y las paradas; tiros a puerta (1+) y
+# faltas de jugador se quedan en ~70 % y fuera. Faltas de equipo: se pide más (85 %).
+JUG_FREC_MIN = 0.90
+JUG_CAMPOS = {"tiros", "paradas"}
+FREC_TIPO = {"faltas": 0.85}
 
 # Para la combi del partido (cuota 9-11) se aceptan patas algo menos seguras
 PARTIDO_CUOTA_MAX = 2.60
@@ -544,6 +550,8 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
         if mercado not in JUG_MERCADOS:
             continue
         campo, plantilla = JUG_MERCADOS[mercado]
+        if campo not in JUG_CAMPOS:
+            continue
         lados = ["home"] if mercado.startswith("Home") else ["away"] if mercado.startswith("Away") else ["home", "away"]
         for valor, cuota in opciones:
             try:
@@ -654,7 +662,8 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
             fa, fb = a / na, b / nb
             frec = (a + b) / (na + nb)
             implicita = 1 / cuota
-            if frec < frec_min or min(fa, fb) < frec_eq or not (0 < frec - implicita <= VENTAJA_MAX):
+            if frec < max(frec_min, FREC_TIPO.get(tipo_de(mercado), 0)) or min(fa, fb) < frec_eq \
+                    or not (0 < frec - implicita <= VENTAJA_MAX):
                 continue
             en_contra_loc = mercado in ("Total - Away",) or (mercado in STATS_OU and STATS_OU[mercado][1] == "away")
             en_contra_vis = mercado in ("Total - Home",) or (mercado in STATS_OU and STATS_OU[mercado][1] == "home")
@@ -665,7 +674,8 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
                 detalle=(f"{loc['name']}{' (en contra)' if en_contra_loc else ''} {a}/{na} · "
                          f"{vis['name']}{' (en contra)' if en_contra_vis else ''} {b}/{nb}")))
     if jugadores and not antes_de:
-        salida += picks_jugadores(prox, hist, base, cuota_max=max(cuota_max, JUG_CUOTA_MAX), frec_min=frec_min)
+        salida += picks_jugadores(prox, hist, base, cuota_max=max(cuota_max, JUG_CUOTA_MAX),
+                                  frec_min=max(JUG_FREC_MIN, frec_min))
     return salida
 
 
