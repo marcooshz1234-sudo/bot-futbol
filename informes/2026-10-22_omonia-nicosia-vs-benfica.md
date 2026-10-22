@@ -1,40 +1,41 @@
 # Omonia Nicosia – Benfica
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · GSP Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **8.50**  ·  X **5.25**  ·  2 **1.33**
-- **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
+- **1X2:** 1 **8.50**  ·  X **6.00**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.14**  ·  X2 **1.08**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.53** · menos **2.50**
-    - 3,5: más **2.38** · menos **1.57**
-    - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **7.00** · menos **1.10**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.50** · menos **1.18**
+    - 1,5: más **4.33** · menos **1.20**
 - **Goles del visitante:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.20** · menos **1.62**
-    - 3,5: más **4.00** · menos **1.22**
-    - 4,5: más **9.00** · menos **1.07**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **7.50**  ·  X **2.62**  ·  2 **1.73**
+- **1X2 descanso:** 1 **8.00**  ·  X **2.75**  ·  2 **1.67**
 
 ## Estadísticas de equipo
 | | Omonia Nicosia (total) | Omonia Nicosia en casa | Benfica (total) | Benfica fuera |
@@ -90,8 +91,8 @@ _Actualizadas: 22/10 13:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Omonia Nicosia:** B. Akintola (baja, Muscle Injury); C. Eiting (baja, Knee Injury); F. Kitsos (baja, Knee Injury); B. Akintola (baja, Muscle Injury); C. Eiting (baja, Knee Injury); F. Kitsos (baja, Knee Injury)
-**Benfica:** D. Banjaqui (baja, Muscle Injury); E. Barrenechea (baja, Injury); J. Kaminski (baja, Muscle Injury); D. Banjaqui (baja, Muscle Injury); E. Barrenechea (baja, Injury); J. Kaminski (baja, Muscle Injury)
+**Omonia Nicosia:** B. Akintola (baja, Muscle Injury); S. Coulibaly (baja, Inactive); C. Eiting (baja, Knee Injury); F. Kitsos (baja, Knee Injury); M. Odubajo (baja, Inactive); B. Akintola (baja, Muscle Injury); S. Coulibaly (baja, Inactive); C. Eiting (baja, Knee Injury); F. Kitsos (baja, Knee Injury); M. Odubajo (baja, Inactive)
+**Benfica:** D. Banjaqui (baja, Muscle Injury); L. Barreiro (baja, Inactive); E. Barrenechea (baja, Injury); J. Duran (baja, Inactive); D. Ferreira (baja, Inactive); J. Kaminski (baja, Muscle Injury); D. Banjaqui (baja, Muscle Injury); L. Barreiro (baja, Inactive); E. Barrenechea (baja, Injury); J. Duran (baja, Inactive); D. Ferreira (baja, Inactive); J. Kaminski (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

@@ -1,15 +1,16 @@
 # Lens – Paris FC
 **Ligue 1** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **2.38**  ·  X **3.50**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.67** · menos **2.20**
     - 3,5: más **2.62** · menos **1.50**
@@ -89,7 +90,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Lens:** I. Ganiou (baja, Knee Injury); J. Gradit (baja, Muscle Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); N. Gane Bernardino (duda, Injury); I. Ganiou (baja, Knee Injury); J. Gradit (baja, Muscle Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); N. Gane Bernardino (duda, Injury)
+**Lens:** M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); I. Ganiou (duda, Knee Injury); J. Gradit (duda, Muscle Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); I. Ganiou (duda, Knee Injury); J. Gradit (duda, Muscle Injury)
 **Paris FC:** N. Sangui (baja, Muscle Injury); J. Ikone (duda, Thigh Injury); N. Sangui (baja, Muscle Injury); J. Ikone (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes

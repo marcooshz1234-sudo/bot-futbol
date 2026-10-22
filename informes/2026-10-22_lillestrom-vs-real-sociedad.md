@@ -1,42 +1,44 @@
 # Lillestrom – Real Sociedad
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Åråsen Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **6.50**  ·  X **5.00**  ·  2 **1.42**
-- **Doble oportunidad:** 1X **2.62**  ·  12 **1.18**  ·  X2 **1.12**
-- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **1X2:** 1 **6.50**  ·  X **5.25**  ·  2 **1.42**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.17**  ·  X2 **1.12**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.38** · menos **1.57**
-    - 4,5: más **4.33** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.50** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
     - 10: más **1.90** · menos **1.90**
     - 10,5: más **2.10** · menos **1.67**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.73** · menos **2.00**
+    - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **6.00**  ·  X **2.50**  ·  2 **1.91**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.75**  ·  2 **1.83**
 
 ## Estadísticas de equipo
 | | Lillestrom (total) | Lillestrom en casa | Real Sociedad (total) | Real Sociedad fuera |
@@ -92,8 +94,8 @@ _Actualizadas: 22/10 13:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Lillestrom:** C. Jebara (baja, Injury); E. B. Garnas (duda, Knee Injury); C. Jebara (baja, Injury); E. B. Garnas (duda, Knee Injury)
-**Real Sociedad:** J. Aramburu (baja, Leg Injury); A. Odriozola (baja, Knee Injury); L. Beitia (duda, Ankle Injury); Y. Herrera (duda, Calf Injury); J. Aramburu (baja, Leg Injury); A. Odriozola (baja, Knee Injury); L. Beitia (duda, Ankle Injury); Y. Herrera (duda, Calf Injury)
+**Lillestrom:** E. B. Garnas (baja, Knee Injury); C. Jebara (baja, Injury); L. Alperud (duda, Inactive); L. Ranger (duda, Inactive); E. B. Garnas (baja, Knee Injury); C. Jebara (baja, Injury); L. Alperud (duda, Inactive); L. Ranger (duda, Inactive)
+**Real Sociedad:** J. Aramburu (baja, Leg Injury); L. Beitia (baja, Ankle Injury); Y. Herrera (baja, Calf Injury); A. Odriozola (baja, Knee Injury); J. Aramburu (baja, Leg Injury); L. Beitia (baja, Ankle Injury); Y. Herrera (baja, Calf Injury); A. Odriozola (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

@@ -1,10 +1,10 @@
 # Celta Vigo – Real Betis
 **LaLiga** · Regular Season - 10 · 25/10/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.30**  ·  X2 **1.36**

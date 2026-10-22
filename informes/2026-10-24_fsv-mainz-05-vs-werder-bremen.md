@@ -1,10 +1,10 @@
 # FSV Mainz 05 – Werder Bremen
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · MEWA Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.73**  ·  X **4.00**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.05**
@@ -29,7 +29,7 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.82** · menos **1.98**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.33**
 
 ## Estadísticas de equipo

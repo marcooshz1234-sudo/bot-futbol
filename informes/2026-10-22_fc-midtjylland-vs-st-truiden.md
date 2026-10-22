@@ -1,22 +1,22 @@
 # FC Midtjylland – St. Truiden
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.67**  ·  X **3.90**  ·  2 **4.75**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.15**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **1X2:** 1 **1.67**  ·  X **4.00**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.57** · menos **2.35**
-    - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
@@ -26,12 +26,12 @@ _Actualizadas: 22/10 13:13_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.75**
+    - 9,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **4.33**
 
 ## Estadísticas de equipo
 | | FC Midtjylland (total) | FC Midtjylland en casa | St. Truiden (total) | St. Truiden fuera |

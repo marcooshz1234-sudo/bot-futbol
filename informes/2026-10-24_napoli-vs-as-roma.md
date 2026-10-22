@@ -1,13 +1,13 @@
 # Napoli – AS Roma
 **Serie A** · Regular Season - 8 · 24/10/2026 18:00 (hora España) · Maradona Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.88**  ·  X **3.20**  ·  2 **2.60**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.36**  ·  X2 **1.40**
+- **1X2:** 1 **2.88**  ·  X **3.10**  ·  2 **2.60**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -21,8 +21,8 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
@@ -30,6 +30,8 @@ _Actualizadas: 22/10 13:14_
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.20**  ·  2 **3.10**
 
 ## Estadísticas de equipo

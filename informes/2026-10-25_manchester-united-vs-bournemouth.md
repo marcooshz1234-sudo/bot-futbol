@@ -1,10 +1,10 @@
 # Manchester United – Bournemouth
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.95**  ·  X **3.80**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
@@ -89,7 +89,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Manchester United:** P. Dorgu (baja, Hamstring Injury); K. Mainoo (baja, Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); T. Heaton (duda, Abdominal strain); A. Heaven (duda, Illness); L. Martinez (duda, Muscle Injury); M. Rashford (duda, Hip Injury); P. Dorgu (baja, Hamstring Injury); K. Mainoo (baja, Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); T. Heaton (duda, Abdominal strain); A. Heaven (duda, Illness); L. Martinez (duda, Muscle Injury); M. Rashford (duda, Hip Injury)
+**Bournemouth:** J. Araujo (baja, Thigh Injury); E. J. Kroupi (baja, Foot Injury); A. Scott (baja, Thigh Injury); J. Araujo (baja, Thigh Injury); E. J. Kroupi (baja, Foot Injury); A. Scott (baja, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-20 · Premier League: Bournemouth 2-2 Manchester United

@@ -1,10 +1,10 @@
 # Hull City – Brentford
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **5.00**  ·  X **3.90**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.17**
@@ -90,7 +90,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Hull City:** I. Ansah (baja, Back Injury); J. Butland (baja, Arm Injury); D. Gyabi (baja, Groin Injury); C. Hughes (baja, Groin Injury); E. Matazo (baja, Knee Injury); N. Mendy (baja, Groin Injury); M. Targett (baja, Ankle Injury); M. Cho (duda, Muscle Injury); L. Gourna-Douath (duda, Calf Injury); R. Vaz (duda, Achilles Tendon Injury); I. Ansah (baja, Back Injury); J. Butland (baja, Arm Injury); D. Gyabi (baja, Groin Injury); C. Hughes (baja, Groin Injury); E. Matazo (baja, Knee Injury); N. Mendy (baja, Groin Injury); M. Targett (baja, Ankle Injury); M. Cho (duda, Muscle Injury); L. Gourna-Douath (duda, Calf Injury); R. Vaz (duda, Achilles Tendon Injury)
+**Brentford:** K. Furo (baja, Surgery); V. Janelt (baja, Red Card); Y. Yarmolyuk (baja, Red Card); J. Dasilva (duda, Muscle Injury); A. Milambo (duda, Knock); J. Schuster (duda, Ankle Injury); K. Furo (baja, Surgery); V. Janelt (baja, Red Card); Y. Yarmolyuk (baja, Red Card); J. Dasilva (duda, Muscle Injury); A. Milambo (duda, Knock); J. Schuster (duda, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2020-02-01 · Championship: Hull City 1-5 Brentford

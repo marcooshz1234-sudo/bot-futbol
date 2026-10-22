@@ -1,10 +1,10 @@
 # Como – Sassuolo
 **Serie A** · Regular Season - 8 · 24/10/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
@@ -32,7 +32,9 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.90** · menos **1.90**
+    - 9,5: más **1.83** · menos **1.83**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.62**  ·  2 **5.50**
 
 ## Estadísticas de equipo
@@ -89,7 +91,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Como:** T. Chalobah (baja, Injury); A. Diao (baja, Thigh Injury); M. Kean (baja, Leg Injury); J. Rodriguez (baja, Injury); T. Chalobah (baja, Injury); A. Diao (baja, Thigh Injury); M. Kean (baja, Leg Injury); J. Rodriguez (baja, Injury)
+**Como:** T. Chalobah (baja, Injury); A. Diao (baja, Thigh Injury); J. Rodriguez (baja, Injury); M. Kean (duda, Leg Injury); T. Chalobah (baja, Injury); A. Diao (baja, Thigh Injury); J. Rodriguez (baja, Injury); M. Kean (duda, Leg Injury)
 **Sassuolo:** D. Boloca (baja, Muscle Injury); J. Idzes (baja, Muscle Injury); I. Kone (baja, Broken Leg); F. Leysen (baja, Knee Injury); Y. Paz (baja, Knee Injury); D. Boloca (baja, Muscle Injury); J. Idzes (baja, Muscle Injury); I. Kone (baja, Broken Leg); F. Leysen (baja, Knee Injury); Y. Paz (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes

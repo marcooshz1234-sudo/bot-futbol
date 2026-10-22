@@ -1,10 +1,10 @@
 # Rayo Vallecano – Elche
 **LaLiga** · Regular Season - 10 · 24/10/2026 14:00 (hora España) · Estadio de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.75**  ·  X **3.70**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.00**
@@ -30,7 +30,7 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.30**  ·  2 **4.75**
 
 ## Estadísticas de equipo

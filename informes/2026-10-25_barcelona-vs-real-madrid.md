@@ -1,10 +1,10 @@
 # Barcelona – Real Madrid
 **LaLiga** · Regular Season - 10 · 25/10/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.65**  ·  X **6.00**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.12**  ·  X2 **2.20**

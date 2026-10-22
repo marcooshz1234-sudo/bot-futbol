@@ -1,36 +1,36 @@
 # Borac Banja Luka – KuPS
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Gradski stadion Banja Luka
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.80**  ·  X **3.70**  ·  2 **4.10**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **1X2:** 1 **1.73**  ·  X **3.80**  ·  2 **4.50**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.30** · menos **3.40**
+    - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **7.00** · menos **1.10**
+    - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
+    - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.75**
+    - 9,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.25**  ·  2 **5.00**
 
 ## Estadísticas de equipo
 | | Borac Banja Luka (total) | Borac Banja Luka en casa | KuPS (total) | KuPS fuera |

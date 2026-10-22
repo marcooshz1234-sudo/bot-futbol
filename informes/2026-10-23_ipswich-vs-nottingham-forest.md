@@ -1,10 +1,10 @@
 # Ipswich – Nottingham Forest
 **Premier League** · Regular Season - 8 · 23/10/2026 21:00 (hora España) · Portman Road Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **3.25**  ·  X **3.40**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.33**
@@ -19,13 +19,13 @@ _Actualizadas: 22/10 13:14_
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
@@ -90,7 +90,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Ipswich:** S. Lukic (duda, Groin Injury); J. Taylor (duda, Knee Injury); S. Lukic (duda, Groin Injury); J. Taylor (duda, Knee Injury)
-**Nottingham Forest:** Igor Jesus (baja, Calf Injury); M. Gibbs-White (duda, Injury); N. Savona (duda, Knee Injury); Igor Jesus (baja, Calf Injury); M. Gibbs-White (duda, Injury); N. Savona (duda, Knee Injury)
+**Nottingham Forest:** Igor Jesus (baja, Calf Injury); N. Savona (baja, Knee Injury); Igor Jesus (baja, Calf Injury); N. Savona (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-03-15 · Premier League: Ipswich 2-4 Nottingham Forest

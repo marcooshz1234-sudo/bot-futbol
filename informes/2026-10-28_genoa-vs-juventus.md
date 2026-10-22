@@ -1,10 +1,10 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:15_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **5.50**  ·  X **3.60**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
@@ -35,52 +35,52 @@ _Actualizadas: 22/10 13:15_
 ## Estadísticas de equipo
 | | Genoa (total) | Genoa en casa | Juventus (total) | Juventus fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 9 | 4 |
-| Forma (últimos 5) | DVDED | VEDD | DVEVV | VEDV |
-| Balance | 1V 1E 5D | 1V 1E 2D | 5V 2E 2D | 2V 1E 1D |
-| Goles a favor / partido | 0,71 | 1,00 | 1,78 | 1,50 |
-| Goles en contra / partido | 1,86 | 2,00 | 1,00 | 1,25 |
-| Goles a favor 1ª parte | 0,43 | 0,75 | 0,56 | 0,25 |
-| Goles a favor 2ª parte | 0,29 | 0,25 | 1,22 | 1,25 |
-| Goles en contra 1ª parte | 0,86 | 1,00 | 0,33 | 0,50 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 0,67 | 0,75 |
-| Más de 1,5 goles | 86% | 100% | 89% | 75% |
-| Más de 2,5 goles | 43% | 50% | 44% | 50% |
-| Más de 3,5 goles | 14% | 25% | 22% | 25% |
-| Ambos marcan | 57% | 75% | 44% | 75% |
-| Portería a cero | 0% | 0% | 44% | 25% |
-| Se queda sin marcar | 43% | 25% | 11% | 0% |
-| xG a favor | 0,91 | 1,20 | 1,55 | 1,79 |
-| xG en contra | 1,25 | 1,32 | 0,57 | 0,76 |
-| Tiros / partido | 11,1 | 12,2 | 16,9 | 20,8 |
-| Tiros a puerta / partido | 2,9 | 3,2 | 6,0 | 7,2 |
-| Tiros recibidos | 15,3 | 18,0 | 8,0 | 8,5 |
-| Tiros a puerta recibidos | 4,4 | 5,5 | 2,7 | 3,0 |
-| Posesión media % | 44 | 41 | 57 | 62 |
+| Partidos analizados | 7 | 4 | 10 | 4 |
+| Forma (últimos 5) | DVDED | VEDD | EDVEV | VEDV |
+| Balance | 1V 1E 5D | 1V 1E 2D | 5V 3E 2D | 2V 1E 1D |
+| Goles a favor / partido | 0,71 | 1,00 | 1,80 | 1,50 |
+| Goles en contra / partido | 1,86 | 2,00 | 1,10 | 1,25 |
+| Goles a favor 1ª parte | 0,43 | 0,75 | 0,60 | 0,25 |
+| Goles a favor 2ª parte | 0,29 | 0,25 | 1,20 | 1,25 |
+| Goles en contra 1ª parte | 0,86 | 1,00 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 1,00 | 1,00 | 0,60 | 0,75 |
+| Más de 1,5 goles | 86% | 100% | 90% | 75% |
+| Más de 2,5 goles | 43% | 50% | 50% | 50% |
+| Más de 3,5 goles | 14% | 25% | 30% | 25% |
+| Ambos marcan | 57% | 75% | 50% | 75% |
+| Portería a cero | 0% | 0% | 40% | 25% |
+| Se queda sin marcar | 43% | 25% | 10% | 0% |
+| xG a favor | 0,91 | 1,20 | 1,63 | 1,79 |
+| xG en contra | 1,25 | 1,32 | 0,70 | 0,76 |
+| Tiros / partido | 11,1 | 12,2 | 16,6 | 20,8 |
+| Tiros a puerta / partido | 2,9 | 3,2 | 5,8 | 7,2 |
+| Tiros recibidos | 15,3 | 18,0 | 8,8 | 8,5 |
+| Tiros a puerta recibidos | 4,4 | 5,5 | 2,9 | 3,0 |
+| Posesión media % | 44 | 41 | 56 | 62 |
 | Córners a favor | 4,4 | 5,2 | 7,1 | 9,5 |
-| Córners en contra | 4,7 | 5,5 | 2,8 | 2,2 |
-| Córners a favor 1ª parte | 2,1 | 2,2 | 3,6 | 4,8 |
-| Córners a favor 2ª parte | 2,3 | 3,0 | 3,6 | 4,8 |
-| Córners totales del partido | 9,1 | 10,8 | 9,9 | 11,8 |
+| Córners en contra | 4,7 | 5,5 | 3,0 | 2,2 |
+| Córners a favor 1ª parte | 2,1 | 2,2 | 3,4 | 4,8 |
+| Córners a favor 2ª parte | 2,3 | 3,0 | 3,7 | 4,8 |
+| Córners totales del partido | 9,1 | 10,8 | 10,1 | 11,8 |
 | Córners totales 1ª parte | 3,9 | 4,2 | 4,7 | 5,5 |
-| Córners totales 2ª parte | 5,3 | 6,5 | 5,2 | 6,2 |
-| Más de 8,5 córners | 43% | 75% | 78% | 100% |
-| Más de 9,5 córners | 29% | 50% | 56% | 75% |
-| Más de 10,5 córners | 14% | 25% | 44% | 50% |
-| Faltas cometidas | 9,7 | 10,2 | 13,0 | 14,5 |
-| Faltas recibidas | 11,7 | 9,2 | 11,3 | 10,8 |
+| Córners totales 2ª parte | 5,3 | 6,5 | 5,4 | 6,2 |
+| Más de 8,5 córners | 43% | 75% | 80% | 100% |
+| Más de 9,5 córners | 29% | 50% | 60% | 75% |
+| Más de 10,5 córners | 14% | 25% | 50% | 50% |
+| Faltas cometidas | 9,7 | 10,2 | 13,1 | 14,5 |
+| Faltas recibidas | 11,7 | 9,2 | 11,2 | 10,8 |
 | Amarillas propias | 2,9 | 3,0 | 1,3 | 1,8 |
-| Amarillas del rival | 1,9 | 1,8 | 2,1 | 2,0 |
+| Amarillas del rival | 1,9 | 1,8 | 2,0 | 2,0 |
 | Rojas / partido | 0,14 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Genoa | Recibe Genoa | Tarjetas Genoa | Goles Juventus | Recibe Juventus | Tarjetas Juventus |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 4 | 1 | 0 | 1 |
-| 16-30' | 1 | 3 | 0 | 3 | 2 | 3 |
-| 31-45' | 0 | 2 | 2 | 1 | 1 | 0 |
+| 1-15' | 2 | 1 | 4 | 2 | 1 | 1 |
+| 16-30' | 1 | 3 | 0 | 3 | 2 | 4 |
+| 31-45' | 0 | 2 | 2 | 1 | 2 | 0 |
 | 46-60' | 1 | 1 | 2 | 1 | 0 | 4 |
-| 61-75' | 1 | 2 | 4 | 2 | 3 | 1 |
+| 61-75' | 1 | 2 | 4 | 3 | 3 | 1 |
 | 76-90' | 0 | 4 | 9 | 8 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -133,33 +133,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Juventus
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Europa League | Juventus 2-2 Rennes | casa | 7-5 | 14 (4) - 16 (5) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | casa | 5-7 | 9 (2) - 9 (3) | 0-2 |
 | 2026-10-15 | Europa League | Celta Vigo 1-2 Juventus | fuera | 7-2 | 22 (6) - 9 (2) | 2-2 |
 | 2026-10-11 | Serie A | Cagliari 1-1 Juventus | fuera | 9-1 | 22 (10) - 4 (2) | 1-2 |
 | 2026-09-20 | Serie A | Juventus 2-0 Atalanta | casa | 4-5 | 14 (5) - 11 (2) | 1-2 |
 | 2026-09-17 | Europa League | Juventus 5-0 NEC Nijmegen | casa | 0-1 | 11 (7) - 11 (3) | 1-1 |
-| 2026-09-13 | Serie A | Sassuolo 3-2 Juventus | fuera | 10-3 | 19 (8) - 10 (6) | 2-2 |
 
 ## Jugadores de Juventus
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Pierre Kalulu | D | 9 | 810 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 4 | 0,4 | 0 | 0 |
-| Guglielmo Vicario | G | 8 | 719 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Gleison Bremer | D | 9 | 680 | 2 | 0 | 7 | 0,8 | 2 | 0,2 | 9 | 1 | 0,1 | 0 | 0 |
-| Randal Kolo Muani | F | 9 | 674 | 3 | 2 | 14 | 1,6 | 6 | 0,7 | 14 | 14 | 1,6 | 0 | 0 |
-| Zeki Çelik | D | 8 | 655 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 7 | 2 | 0,2 | 1 | 0 |
-| Douglas Luiz | M | 9 | 645 | 0 | 0 | 11 | 1,2 | 4 | 0,4 | 16 | 14 | 1,6 | 2 | 0 |
-| Jhon Lucumí | D | 8 | 590 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 0 |
+| P. Kalulu | D | 10 | 855 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
+| G. Vicario | G | 9 | 809 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Bremer | D | 10 | 770 | 2 | 0 | 7 | 0,7 | 2 | 0,2 | 10 | 1 | 0,1 | 0 | 0 |
+| R. Kolo Muani | F | 10 | 754 | 3 | 2 | 15 | 1,5 | 6 | 0,6 | 17 | 14 | 1,4 | 0 | 0 |
+| Douglas Luiz | M | 10 | 735 | 0 | 0 | 12 | 1,2 | 4 | 0,4 | 17 | 15 | 1,5 | 2 | 0 |
+| Z. Çelik | M | 9 | 700 | 2 | 1 | 2 | 0,2 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
+| J. Lucumí | D | 9 | 600 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 0 |
+| W. McKennie | M | 7 | 551 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 4 | 2 | 0,3 | 0 | 0 |
 | Francisco Conceição | F | 9 | 525 | 1 | 1 | 17 | 1,9 | 8 | 0,9 | 13 | 9 | 1,0 | 1 | 0 |
-| Weston McKennie | M | 6 | 461 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
-| Kerim Alajbegović | M | 8 | 454 | 1 | 1 | 12 | 1,5 | 5 | 0,6 | 3 | 6 | 0,8 | 0 | 0 |
-| Nicolás González | M | 8 | 442 | 2 | 0 | 13 | 1,6 | 5 | 0,6 | 8 | 13 | 1,6 | 0 | 0 |
+| N. González | F | 9 | 472 | 2 | 0 | 13 | 1,4 | 5 | 0,6 | 8 | 14 | 1,6 | 0 | 0 |
+| Kerim-Sam Alajbegović | F | 9 | 455 | 1 | 1 | 12 | 1,3 | 5 | 0,6 | 3 | 6 | 0,7 | 0 | 0 |
 | Pape Matar Sarr | M | 6 | 421 | 0 | 0 | 7 | 1,2 | 2 | 0,3 | 6 | 4 | 0,7 | 0 | 0 |
-| Nick Woltemade | F | 7 | 300 | 2 | 0 | 12 | 1,7 | 5 | 0,7 | 6 | 9 | 1,3 | 0 | 0 |
+| N. Woltemade | F | 8 | 390 | 3 | 1 | 19 | 2,4 | 6 | 0,8 | 7 | 11 | 1,4 | 0 | 0 |
+| T. Koopmeiners | M | 9 | 348 | 1 | 1 | 5 | 0,6 | 4 | 0,4 | 9 | 3 | 0,3 | 0 | 0 |
+| L. Kelly | D | 6 | 301 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
 | Manuel Locatelli | M | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 8 | 8 | 2,7 | 1 | 0 |
-| T. Koopmeiners | M | 8 | 258 | 1 | 1 | 3 | 0,4 | 3 | 0,4 | 7 | 2 | 0,2 | 0 | 0 |
-| L. Kelly | D | 5 | 221 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
-| F. Gatti | D | 3 | 168 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 5 | 3 | 1,0 | 1 | 0 |
-| Andrea Cambiaso | D | 5 | 163 | 0 | 1 | 2 | 0,4 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
+| A. Cambiaso | M | 6 | 252 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 2 | 4 | 0,7 | 1 | 0 |
+| F. Gatti | D | 4 | 228 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 8 | 3 | 0,8 | 2 | 0 |
 | Edon Zhegrova | F | 6 | 146 | 2 | 1 | 9 | 1,5 | 7 | 1,2 | 0 | 1 | 0,2 | 0 | 0 |
-| Jérémie Boga | F | 4 | 107 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Boga | F | 5 | 117 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |

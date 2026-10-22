@@ -1,14 +1,14 @@
 # Bournemouth – AC Milan
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.00**  ·  X **3.75**  ·  2 **3.40**
-- **Doble oportunidad:** 1X **1.30**  ·  12 **1.25**  ·  X2 **1.80**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **1X2:** 1 **1.80**  ·  X **3.90**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.80**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
@@ -17,16 +17,16 @@ _Actualizadas: 22/10 13:13_
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
@@ -34,7 +34,7 @@ _Actualizadas: 22/10 13:13_
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
     - 4,5: más **2.20** · menos **1.62**
-- **1X2 descanso:** 1 **2.60**  ·  X **2.30**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.38**  ·  X **2.38**  ·  2 **4.33**
 
 ## Estadísticas de equipo
 | | Bournemouth (total) | Bournemouth en casa | AC Milan (total) | AC Milan fuera |
@@ -90,7 +90,7 @@ _Actualizadas: 22/10 13:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Bournemouth:** M. Aarons (baja, Off the roster); J. Araujo (baja, Thigh Injury); F. Forster (baja, Off the roster); D. Jebbison (baja, Off the roster); E. J. Kroupi (baja, Foot Injury); V. Milosavljevic (baja, Off the roster); J. Sanchez (baja, Off the roster); A. Scott (duda, Thigh Injury); M. Aarons (baja, Off the roster); J. Araujo (baja, Thigh Injury); F. Forster (baja, Off the roster); D. Jebbison (baja, Off the roster); E. J. Kroupi (baja, Foot Injury); V. Milosavljevic (baja, Off the roster); J. Sanchez (baja, Off the roster); A. Scott (duda, Thigh Injury)
+**Bournemouth:** M. Aarons (baja, Off the roster); J. Araujo (baja, Thigh Injury); F. Forster (baja, Off the roster); D. Jebbison (baja, Off the roster); E. J. Kroupi (baja, Foot Injury); V. Milosavljevic (baja, Off the roster); J. Sanchez (baja, Off the roster); A. Scott (baja, Thigh Injury); M. Aarons (baja, Off the roster); J. Araujo (baja, Thigh Injury); F. Forster (baja, Off the roster); D. Jebbison (baja, Off the roster); E. J. Kroupi (baja, Foot Injury); V. Milosavljevic (baja, Off the roster); J. Sanchez (baja, Off the roster); A. Scott (baja, Thigh Injury)
 **AC Milan:** W. Bondo (baja, Off the roster); S. Chukwueze (baja, Hip Injury); M. Gabbia (baja, Thigh Injury); G. Ramos (baja, Calf Injury); A. Saelemaekers (baja, Ankle Injury); F. Terracciano (baja, Red Card); W. Bondo (baja, Off the roster); S. Chukwueze (baja, Hip Injury); M. Gabbia (baja, Thigh Injury); G. Ramos (baja, Calf Injury); A. Saelemaekers (baja, Ankle Injury); F. Terracciano (baja, Red Card)
 
 ## Enfrentamientos directos recientes

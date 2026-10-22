@@ -1,17 +1,17 @@
 # VfB Stuttgart – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 7 · 23/10/2026 20:30 (hora España) · MHP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.38**  ·  X **5.00**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.30** · menos **3.50**
     - 3,5: más **1.73** · menos **2.10**
     - 4,5: más **2.62** · menos **1.50**
     - 5,5: más **4.33** · menos **1.22**
@@ -35,6 +35,8 @@ _Actualizadas: 22/10 13:13_
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
     - 10: más **1.92** · menos **1.88**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
 - **1X2 descanso:** 1 **1.73**  ·  X **3.00**  ·  2 **6.00**
 
 ## Estadísticas de equipo

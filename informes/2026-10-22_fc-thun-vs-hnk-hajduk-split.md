@@ -1,37 +1,37 @@
 # FC Thun – HNK Hajduk Split
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.88**  ·  X **3.40**  ·  2 **2.35**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
-- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.30**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **3.20**  ·  X **2.40**  ·  2 **2.88**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.40**  ·  2 **2.75**
 
 ## Estadísticas de equipo
 | | FC Thun (total) | FC Thun en casa | HNK Hajduk Split (total) | HNK Hajduk Split fuera |

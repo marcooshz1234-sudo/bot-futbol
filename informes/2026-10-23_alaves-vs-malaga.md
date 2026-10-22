@@ -1,12 +1,12 @@
 # Alaves – Malaga
 **LaLiga** · Regular Season - 10 · 23/10/2026 21:00 (hora España) · Estadio de Mendizorroza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.73**  ·  X **3.50**  ·  2 **5.25**
+- **1X2:** 1 **1.67**  ·  X **3.50**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
@@ -30,7 +30,9 @@ _Actualizadas: 22/10 13:14_
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.80** · menos **1.91**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.20**  ·  2 **5.00**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.20**  ·  2 **5.50**
 
 ## Estadísticas de equipo
 | | Alaves (total) | Alaves en casa | Malaga (total) | Malaga fuera |
@@ -87,7 +89,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Alaves:** F. Garces (baja, Suspended); M. Rodriguez (baja, Ankle Injury); F. Garces (baja, Suspended); M. Rodriguez (baja, Ankle Injury)
-**Malaga:** J. Lobete (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); D. Murillo (duda, Knee Injury); J. Lobete (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); D. Murillo (duda, Knee Injury)
+**Malaga:** J. Lobete (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); J. Munoz (duda, Calf Injury); D. Murillo (duda, Knee Injury); J. Lobete (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); J. Munoz (duda, Calf Injury); D. Murillo (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2023-05-20 · Segunda División: Alaves 2-1 Malaga

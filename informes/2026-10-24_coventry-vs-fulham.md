@@ -1,16 +1,16 @@
 # Coventry – Fulham
 **Premier League** · Regular Season - 8 · 24/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
     - 3,5: más **2.75** · menos **1.44**
@@ -23,7 +23,7 @@ _Actualizadas: 22/10 13:14_
 - **Goles del local:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**

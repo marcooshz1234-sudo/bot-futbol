@@ -1,10 +1,10 @@
 # Stade Brestois 29 – Nice
 **Ligue 1** · Regular Season - 8 · 23/10/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -90,7 +90,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Stade Brestois 29:** B. Chardonnet (baja, Calf Injury); R. Le Guen (baja, Broken Leg); G. Versini (duda, Leg Injury); B. Chardonnet (baja, Calf Injury); R. Le Guen (baja, Broken Leg); G. Versini (duda, Leg Injury)
-**Nice:** L. Abergel (baja, Knee Injury); M. Bombito (baja, Leg Injury); A. Mendy (baja, Knee Injury); M. Sanson (baja, Knee Injury); A. Abdi (duda, Muscle Injury); L. Abergel (baja, Knee Injury); M. Bombito (baja, Leg Injury); A. Mendy (baja, Knee Injury); M. Sanson (baja, Knee Injury); A. Abdi (duda, Muscle Injury)
+**Nice:** A. Abdi (baja, Muscle Injury); L. Abergel (baja, Knee Injury); M. Bombito (baja, Leg Injury); A. Mendy (baja, Knee Injury); A. Abdi (baja, Muscle Injury); L. Abergel (baja, Knee Injury); M. Bombito (baja, Leg Injury); A. Mendy (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-01 · Ligue 1: Nice 2-2 Stade Brestois 29

@@ -1,10 +1,10 @@
 # Jagiellonia – Anderlecht
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Stadion Miejski w Białymstoku
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **3.10**  ·  X **3.50**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.28**  ·  X2 **1.36**

@@ -1,42 +1,42 @@
 # Celtic – Celta Vigo
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.70**  ·  X **3.40**  ·  2 **2.55**
-- **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.44**
+- **1X2:** 1 **2.38**  ·  X **3.50**  ·  2 **2.80**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.67** · menos **2.20**
     - 3,5: más **2.62** · menos **1.50**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.62** · menos **2.20**
+    - 3,5: más **1.67** · menos **2.10**
     - 4,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **3.20**  ·  X **2.30**  ·  2 **3.10**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.38**  ·  2 **3.10**
 
 ## Estadísticas de equipo
 | | Celtic (total) | Celtic en casa | Celta Vigo (total) | Celta Vigo fuera |
@@ -92,7 +92,7 @@ _Actualizadas: 22/10 13:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Celtic:** L. Emenalo (baja, Off the roster); A. Johnston (baja, Leg Injury); Jota (baja, Off the roster); S. Mheuka (baja, Off the roster); J. van den Berg (baja, Off the roster); C. Carter-Vickers (duda, Health problems); Yang Hyun-Jun (duda, Hamstring Injury); L. Emenalo (baja, Off the roster); A. Johnston (baja, Leg Injury); Jota (baja, Off the roster); S. Mheuka (baja, Off the roster); J. van den Berg (baja, Off the roster); C. Carter-Vickers (duda, Health problems); Yang Hyun-Jun (duda, Hamstring Injury)
+**Celtic:** L. Emenalo (baja, Off the roster); Jota (baja, Off the roster); S. Mheuka (baja, Off the roster); A. Trusty (baja, Inactive); Yang Hyun-Jun (baja, Hamstring Injury); J. van den Berg (baja, Off the roster); C. Carter-Vickers (duda, Health problems); A. Johnston (duda, Leg Injury); C. Osmand (duda, Inactive); L. Emenalo (baja, Off the roster); Jota (baja, Off the roster); S. Mheuka (baja, Off the roster); A. Trusty (baja, Inactive); Yang Hyun-Jun (baja, Hamstring Injury); J. van den Berg (baja, Off the roster); C. Carter-Vickers (duda, Health problems); A. Johnston (duda, Leg Injury); C. Osmand (duda, Inactive)
 **Celta Vigo:** J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury); J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes

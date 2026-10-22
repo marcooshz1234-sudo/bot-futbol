@@ -1,10 +1,10 @@
 # Torino – Como
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:15_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **4.50**  ·  X **3.60**  ·  2 **1.75**
 - **Doble oportunidad:** 1X **2.00**  ·  12 **1.28**  ·  X2 **1.18**

@@ -1,10 +1,10 @@
 # Inter – Fiorentina
 **Serie A** · Regular Season - 8 · 25/10/2026 12:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.33**  ·  X **5.25**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.17**  ·  X2 **3.25**
@@ -89,7 +89,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Fiorentina:** R. Sottil (baja, Back Injury)
+**Inter:** C. Jones (baja, Thigh Injury); L. Martinez (baja, Thigh Injury); B. Pavard (baja, Thigh Injury); J. Stones (baja, Injury); C. Jones (baja, Thigh Injury); L. Martinez (baja, Thigh Injury); B. Pavard (baja, Thigh Injury); J. Stones (baja, Injury)
+**Fiorentina:** F. Parisi (baja, Knee Injury); R. Sottil (baja, Back Injury); A. Atta (duda, Abdominal strain); L. Ranieri (duda, Leg Injury); F. Parisi (baja, Knee Injury); R. Sottil (baja, Back Injury); A. Atta (duda, Abdominal strain); L. Ranieri (duda, Leg Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-22 · Serie A: Fiorentina 1-1 Inter

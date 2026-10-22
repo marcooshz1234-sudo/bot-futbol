@@ -1,40 +1,39 @@
 # Lincoln Red Imps FC – Twente
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **12.00**  ·  X **7.00**  ·  2 **1.20**
-- **Doble oportunidad:** 1X **4.33**  ·  12 **1.11**  ·  X2 **1.05**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **1X2:** 1 **13.00**  ·  X **7.50**  ·  2 **1.17**
+- **Doble oportunidad:** 1X **5.00**  ·  12 **1.10**  ·  X2 **1.04**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.70**
-    - 3,5: más **2.00** · menos **1.73**
-    - 4,5: más **3.40** · menos **1.30**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **1.91** · menos **1.80**
+    - 4,5: más **3.25** · menos **1.33**
     - 5,5: más **6.00** · menos **1.12**
-    - 6,5: más **13.00** · menos **1.04**
+    - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.83** · menos **1.83**
-    - 1,5: más **5.50** · menos **1.14**
+    - 1,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **1.91**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **6.00** · menos **1.12**
-    - 5,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.67** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9: más **1.85** · menos **1.95**
-    - 9,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **10.00**  ·  X **3.00**  ·  2 **1.53**
+    - 9,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **11.00**  ·  X **3.10**  ·  2 **1.50**
 
 ## Estadísticas de equipo
 | | Lincoln Red Imps FC (total) | Lincoln Red Imps FC en casa | Twente (total) | Twente fuera |

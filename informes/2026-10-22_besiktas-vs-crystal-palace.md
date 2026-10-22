@@ -1,19 +1,19 @@
 # Beşiktaş – Crystal Palace
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Tüpraş Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.20**  ·  X **3.70**  ·  2 **3.10**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.70**
+- **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.62**
-    - 3,5: más **2.20** · menos **1.67**
-    - 4,5: más **4.00** · menos **1.25**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.75** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
@@ -24,13 +24,13 @@ _Actualizadas: 22/10 13:13_
 - **Goles del local:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Tarjetas más/menos:**

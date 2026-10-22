@@ -1,27 +1,29 @@
 # Celje – Red Bull Salzburg
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Stadion Z’dežele
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **6.50**  ·  X **4.20**  ·  2 **1.50**
+- **1X2:** 1 **6.25**  ·  X **4.50**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.22**  ·  X2 **1.11**
-- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.30**
-    - 3,5: más **2.50** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.10** · menos **7.00**
@@ -33,7 +35,7 @@ _Actualizadas: 22/10 13:13_
     - 9,5: más **1.90** · menos **1.90**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.00**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.60**  ·  2 **1.95**
 
 ## Estadísticas de equipo
 | | Celje (total) | Celje en casa | Red Bull Salzburg (total) | Red Bull Salzburg fuera |

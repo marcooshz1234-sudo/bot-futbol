@@ -1,10 +1,10 @@
 # Valencia – Villarreal
 **LaLiga** · Regular Season - 10 · 24/10/2026 18:30 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **3.30**  ·  X **3.50**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.33**
@@ -87,8 +87,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Valencia:** S. Canos (baja, Knee Injury); D. Lopez (baja, Knee Injury); U. Sadiq (baja, Muscle Injury); J. Copete (duda, Knee Injury); D. Foulquier (duda, Injury); S. Canos (baja, Knee Injury); D. Lopez (baja, Knee Injury); U. Sadiq (baja, Muscle Injury); J. Copete (duda, Knee Injury); D. Foulquier (duda, Injury)
-**Villarreal:** N. Pepe (baja, Eye injury); N. Pepe (baja, Eye injury)
+**Valencia:** S. Canos (baja, Knee Injury); D. Lopez (baja, Knee Injury); U. Sadiq (baja, Muscle Injury); J. Copete (duda, Knee Injury); D. Foulquier (duda, Knee Injury); S. Canos (baja, Knee Injury); D. Lopez (baja, Knee Injury); U. Sadiq (baja, Muscle Injury); J. Copete (duda, Knee Injury); D. Foulquier (duda, Knee Injury)
+**Villarreal:** N. Pepe (duda, Eye injury); N. Pepe (duda, Eye injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-22 · La Liga: Villarreal 2-1 Valencia

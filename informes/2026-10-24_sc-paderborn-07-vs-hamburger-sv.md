@@ -1,17 +1,17 @@
 # SC Paderborn 07 – Hamburger SV
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **2.20**  ·  X **3.75**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.62** · menos **2.30**
+    - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.38** · menos **1.57**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
@@ -87,8 +87,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**SC Paderborn 07:** N. Awortwie-Grant (baja, Knee Injury); T. Gayret (baja, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury); N. Awortwie-Grant (baja, Knee Injury); T. Gayret (baja, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury)
-**Hamburger SV:** N. Remberg (baja, Knee Injury); M. Vuskovic (baja, Doping); P. Daka (duda, Thigh Injury); B. Jatta (duda, Groin Injury); A. S. Lokonga (duda, Lacking Match Fitness); N. Remberg (baja, Knee Injury); M. Vuskovic (baja, Doping); P. Daka (duda, Thigh Injury); B. Jatta (duda, Groin Injury); A. S. Lokonga (duda, Lacking Match Fitness)
+**SC Paderborn 07:** N. Awortwie-Grant (baja, Knee Injury); O. Batista Meier (baja, Ankle Injury); T. Gayret (baja, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury); N. Awortwie-Grant (baja, Knee Injury); O. Batista Meier (baja, Ankle Injury); T. Gayret (baja, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury)
+**Hamburger SV:** N. Remberg (baja, Knee Injury); M. Vuskovic (baja, Doping); P. Daka (duda, Thigh Injury); B. Jatta (duda, Groin Injury); N. Remberg (baja, Knee Injury); M. Vuskovic (baja, Doping); P. Daka (duda, Thigh Injury); B. Jatta (duda, Groin Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-03-02 · 2. Bundesliga: SC Paderborn 07 2-0 Hamburger SV

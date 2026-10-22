@@ -1,12 +1,12 @@
 # Racing Santander – Espanyol
 **LaLiga** · Regular Season - 10 · 24/10/2026 16:15 (hora España) · El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.30**  ·  X **3.70**  ·  2 **2.88**
+- **1X2:** 1 **2.38**  ·  X **3.70**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -88,7 +88,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Racing Santander:** S. Eriksson (baja, Shoulder Injury); S. Eriksson (baja, Shoulder Injury)
+**Racing Santander:** S. Eriksson (duda, Shoulder Injury); Pedro Felipe (duda, Muscle Injury); S. Eriksson (duda, Shoulder Injury); Pedro Felipe (duda, Muscle Injury)
 **Espanyol:** K. Garcia (baja, Hamstring Injury); Jofre (duda, Groin Injury); K. Garcia (baja, Hamstring Injury); Jofre (duda, Groin Injury)
 
 ## Enfrentamientos directos recientes

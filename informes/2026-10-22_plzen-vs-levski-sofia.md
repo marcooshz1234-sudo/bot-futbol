@@ -1,13 +1,13 @@
 # Plzen – Levski Sofia
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Doosan Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.70**  ·  X **3.90**  ·  2 **4.75**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**
+- **1X2:** 1 **1.73**  ·  X **3.75**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -17,24 +17,24 @@ _Actualizadas: 22/10 13:13_
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.38**  ·  2 **4.75**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.38**  ·  2 **4.75**
 
 ## Estadísticas de equipo
 | | Plzen (total) | Plzen en casa | Levski Sofia (total) | Levski Sofia fuera |

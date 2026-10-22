@@ -1,10 +1,10 @@
 # AC Milan – Bologna
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:15_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.60**  ·  X **3.80**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.30**

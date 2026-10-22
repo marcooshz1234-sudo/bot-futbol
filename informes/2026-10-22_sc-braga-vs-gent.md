@@ -1,39 +1,39 @@
 # SC Braga – Gent
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.85**  ·  X **3.70**  ·  2 **3.90**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
+- **1X2:** 1 **1.90**  ·  X **3.60**  ·  2 **3.80**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.07** · menos **8.50**
     - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.70**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 2,5: más **2.20** · menos **1.65**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **4.00** · menos **1.22**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.95** · menos **1.85**
-    - 9,5: más **1.73** · menos **2.00**
+    - 9,5: más **1.83** · menos **1.83**
     - 10: más **2.02** · menos **1.78**
-- **1X2 descanso:** 1 **2.50**  ·  X **2.10**  ·  2 **5.00**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.10**  ·  2 **4.75**
 
 ## Estadísticas de equipo
 | | SC Braga (total) | SC Braga en casa | Gent (total) | Gent fuera |

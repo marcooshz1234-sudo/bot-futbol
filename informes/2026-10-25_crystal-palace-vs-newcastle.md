@@ -1,10 +1,10 @@
 # Crystal Palace – Newcastle
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**
@@ -89,7 +89,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Crystal Palace:** D. Henderson (baja, Foot Injury); C. Riad (baja, Knee Injury); Q. Timber (baja, Injury); T. Tomiyasu (baja, Calf Injury); D. Henderson (baja, Foot Injury); C. Riad (baja, Knee Injury); Q. Timber (baja, Injury); T. Tomiyasu (baja, Calf Injury)
+**Newcastle:** E. Jaouen (baja, Muscle Injury); V. Livramento (baja, Knee Injury); A. Elanga (duda, Knee Injury); J. Ramsey (duda, Thigh Injury); E. Jaouen (baja, Muscle Injury); V. Livramento (baja, Knee Injury); A. Elanga (duda, Knee Injury); J. Ramsey (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-12 · Premier League: Crystal Palace 2-1 Newcastle

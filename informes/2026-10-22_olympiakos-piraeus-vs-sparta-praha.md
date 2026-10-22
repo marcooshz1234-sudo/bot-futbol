@@ -1,19 +1,19 @@
 # Olympiakos Piraeus – Sparta Praha
 **Europa League** · League Stage - 3 · 22/10/2026 21:00 (hora España) · Karaiskakis Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **5.75**
-- **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.50**
+- **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **7.00**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.20**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.25** · menos **4.00**
+    - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **3.00** · menos **1.40**
+    - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -21,19 +21,19 @@ _Actualizadas: 22/10 13:13_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
+    - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **4.00** · menos **1.22**
-    - 2,5: más **13.00** · menos **1.04**
+    - 1,5: más **4.33** · menos **1.20**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.00**  ·  X **2.40**  ·  2 **6.00**
+- **1X2 descanso:** 1 **1.95**  ·  X **2.40**  ·  2 **6.00**
 
 ## Estadísticas de equipo
 | | Olympiakos Piraeus (total) | Olympiakos Piraeus en casa | Sparta Praha (total) | Sparta Praha fuera |

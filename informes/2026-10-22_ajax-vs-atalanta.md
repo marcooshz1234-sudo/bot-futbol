@@ -1,32 +1,34 @@
 # Ajax – Atalanta
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **2.15**  ·  X **3.75**  ·  2 **3.00**
+- **1X2:** 1 **2.00**  ·  X **3.80**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.48** · menos **2.60**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
+    - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
@@ -34,7 +36,7 @@ _Actualizadas: 22/10 13:13_
     - 9: más **1.95** · menos **1.85**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.50**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.60**  ·  2 **3.25**
 
 ## Estadísticas de equipo
 | | Ajax (total) | Ajax en casa | Atalanta (total) | Atalanta fuera |

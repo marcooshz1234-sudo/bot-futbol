@@ -1,10 +1,10 @@
 # Real Sociedad – Levante
 **LaLiga** · Regular Season - 10 · 25/10/2026 18:30 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.73**  ·  X **3.80**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**

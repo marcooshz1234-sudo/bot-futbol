@@ -1,10 +1,10 @@
 # Atalanta – Frosinone
 **Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.75**  ·  X **4.00**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.00**
@@ -90,7 +90,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Atalanta:** K. Sulemana (baja, Jumpers Knee); I. Hien (baja, Muscle Bruise)
+**Atalanta:** I. Hien (baja, Muscle Injury); F. Kessie (baja, Calf Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); G. Scalvini (baja, Thigh Injury); K. Sulemana (baja, Knee Injury); I. Hien (baja, Muscle Injury); F. Kessie (baja, Calf Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); G. Scalvini (baja, Thigh Injury); K. Sulemana (baja, Knee Injury)
+**Frosinone:** F. Grillitsch (baja, Thigh Injury); F. Grillitsch (baja, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2024-01-15 · Serie A: Atalanta 5-0 Frosinone

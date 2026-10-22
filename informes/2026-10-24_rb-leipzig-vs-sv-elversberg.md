@@ -1,16 +1,16 @@
 # RB Leipzig – SV Elversberg
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.44**  ·  X **5.00**  ·  2 **6.50**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
+- **1X2:** 1 **1.44**  ·  X **4.75**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.17**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.08** · menos **8.00**
     - 2,5: más **1.28** · menos **3.75**
     - 3,5: más **1.73** · menos **2.10**
     - 4,5: más **2.62** · menos **1.50**
@@ -24,17 +24,17 @@ _Actualizadas: 22/10 13:14_
 - **Goles del local:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **1.91**
+    - 2,5: más **1.83** · menos **1.83**
     - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.12**
+    - 4,5: más **6.50** · menos **1.11**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 10,5: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **1.73**  ·  X **3.00**  ·  2 **5.50**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **1.80**  ·  X **3.00**  ·  2 **5.50**
 
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | SV Elversberg (total) | SV Elversberg fuera |

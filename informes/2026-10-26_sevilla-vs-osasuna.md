@@ -1,10 +1,10 @@
 # Sevilla – Osasuna
 **LaLiga** · Regular Season - 10 · 26/10/2026 21:00 (hora España) · Estadio Ramón Sánchez-Pizjuán
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.95**  ·  X **3.30**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.80**

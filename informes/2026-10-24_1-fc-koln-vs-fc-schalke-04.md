@@ -1,10 +1,10 @@
 # 1. FC Köln – FC Schalke 04
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **2.05**  ·  X **3.90**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.73**
@@ -29,7 +29,7 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.82** · menos **1.98**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.40**  ·  2 **3.60**
 
 ## Estadísticas de equipo
@@ -87,7 +87,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **1. FC Köln:** R. Ache (baja, Thigh Injury); T. Dallinga (baja, Knee Injury); T. Hubers (baja, Knee Injury); E. Skhiri (baja, Ankle Injury); J. Schmied (duda, Ankle Injury); R. van den Berg (duda, Muscle Injury); R. Ache (baja, Thigh Injury); T. Dallinga (baja, Knee Injury); T. Hubers (baja, Knee Injury); E. Skhiri (baja, Ankle Injury); J. Schmied (duda, Ankle Injury); R. van den Berg (duda, Muscle Injury)
-**FC Schalke 04:** A. Aouchiche (duda, Knock); E. Dzeko (duda, Head Injury); D. Ljubicic (duda, Knee Injury); M. Sylla (duda, Leg Injury); A. Aouchiche (duda, Knock); E. Dzeko (duda, Head Injury); D. Ljubicic (duda, Knee Injury); M. Sylla (duda, Leg Injury)
+**FC Schalke 04:** A. Aouchiche (duda, Knock); D. Ljubicic (duda, Knee Injury); M. Sylla (duda, Leg Injury); A. Aouchiche (duda, Knock); D. Ljubicic (duda, Knee Injury); M. Sylla (duda, Leg Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-02-09 · 2. Bundesliga: 1. FC Köln 1-0 FC Schalke 04

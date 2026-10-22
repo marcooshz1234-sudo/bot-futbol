@@ -1,12 +1,12 @@
 # Cagliari – Bologna
 **Serie A** · Regular Season - 8 · 24/10/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **3.20**  ·  X **3.10**  ·  2 **2.40**
+- **1X2:** 1 **3.10**  ·  X **3.10**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
@@ -22,15 +22,15 @@ _Actualizadas: 22/10 13:14_
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.05**  ·  2 **3.00**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.05**  ·  2 **3.10**
 
 ## Estadísticas de equipo
 | | Cagliari (total) | Cagliari en casa | Bologna (total) | Bologna fuera |
@@ -86,7 +86,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Cagliari:** M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (baja, Injury); M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (baja, Injury)
+**Cagliari:** M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (duda, Injury); M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (duda, Injury)
 **Bologna:** E. Holm (baja, Thigh Injury); R. Orsolini (baja, Thigh Injury); R. Piccoli (baja, Hamstring Injury); E. Holm (baja, Thigh Injury); R. Orsolini (baja, Thigh Injury); R. Piccoli (baja, Hamstring Injury)
 
 ## Enfrentamientos directos recientes

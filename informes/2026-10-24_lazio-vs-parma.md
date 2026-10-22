@@ -1,12 +1,12 @@
 # Lazio – Parma
 **Serie A** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.42**  ·  X **4.33**  ·  2 **8.50**
+- **1X2:** 1 **1.40**  ·  X **4.33**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.20**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **2.05**  ·  No **1.70**
 - **Goles más/menos:**
@@ -88,7 +88,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Lazio:** A. Furlanetto (baja, Knee Injury); A. Gudmundsson (baja, Shoulder Injury); M. Cancellieri (duda, Leg Injury); A. Marusic (duda, Muscle Injury); N. Rovella (duda, Calf Injury); K. Taylor (duda, Thigh Injury); A. Furlanetto (baja, Knee Injury); A. Gudmundsson (baja, Shoulder Injury); M. Cancellieri (duda, Leg Injury); A. Marusic (duda, Muscle Injury); N. Rovella (duda, Calf Injury); K. Taylor (duda, Thigh Injury)
-**Parma:** P. Almqvist (baja, Calf Injury); N. Elphege (baja, Illness); H. Nicolussi Caviglia (baja, Thigh Injury); P. Almqvist (baja, Calf Injury); N. Elphege (baja, Illness); H. Nicolussi Caviglia (baja, Thigh Injury)
+**Parma:** P. Almqvist (baja, Calf Injury); N. Elphege (baja, Illness); H. Nicolussi Caviglia (baja, Thigh Injury); L. Valenti (duda, Coach's decision); P. Almqvist (baja, Calf Injury); N. Elphege (baja, Illness); H. Nicolussi Caviglia (baja, Thigh Injury); L. Valenti (duda, Coach's decision)
 
 ## Enfrentamientos directos recientes
 - 2026-04-04 · Serie A: Lazio 1-1 Parma

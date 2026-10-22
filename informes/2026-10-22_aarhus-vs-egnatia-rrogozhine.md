@@ -1,10 +1,10 @@
 # Aarhus – Egnatia Rrogozhinë
 **Conference League** · League Stage - 2 · 22/10/2026 21:00 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
@@ -16,15 +16,15 @@ _Actualizadas: 22/10 13:13_
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.62** · menos **2.20**
     - 1,5: más **4.00** · menos **1.22**
@@ -33,7 +33,7 @@ _Actualizadas: 22/10 13:13_
     - 8,5: más **1.80** · menos **1.91**
     - 9: más **1.88** · menos **1.92**
     - 9,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **6.00**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.50**  ·  2 **6.50**
 
 ## Estadísticas de equipo
 | | Aarhus (total) | Aarhus en casa | Egnatia Rrogozhinë (total) | Egnatia Rrogozhinë fuera |

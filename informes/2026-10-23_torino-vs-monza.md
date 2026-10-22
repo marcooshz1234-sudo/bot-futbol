@@ -1,10 +1,10 @@
 # Torino – Monza
 **Serie A** · Regular Season - 8 · 23/10/2026 20:45 (hora España) · Stadio Olimpico Grande Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:13_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **2.15**  ·  X **3.30**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.33**  ·  X2 **1.67**
@@ -30,7 +30,9 @@ _Actualizadas: 22/10 13:13_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.85** · menos **1.95**
+- **Tarjetas más/menos:**
+    - 3,5: más **2.25** · menos **1.57**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.75**
 
 ## Estadísticas de equipo
@@ -87,8 +89,8 @@ _Actualizadas: 22/10 13:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Torino:** E. Ilkhan (baja, Muscle Injury); F. Israel (baja, Shoulder Injury); N. Fortini (duda, Thigh Injury); E. Ilkhan (baja, Muscle Injury); F. Israel (baja, Shoulder Injury); N. Fortini (duda, Thigh Injury)
-**Monza:** Y. Maye (baja, Muscle Injury); M. Pessina (baja, Knee Injury); I. Toure (baja, Knee Injury); E. Zeballos (baja, Knee Injury); J. Ziolkowski (baja, Foot Injury); Y. Maye (baja, Muscle Injury); M. Pessina (baja, Knee Injury); I. Toure (baja, Knee Injury); E. Zeballos (baja, Knee Injury); J. Ziolkowski (baja, Foot Injury)
+**Torino:** E. Ilkhan (baja, Muscle Injury); F. Israel (baja, Shoulder Injury); R. Rodriguez (baja, Thigh Injury); N. Fortini (duda, Thigh Injury); E. Ilkhan (baja, Muscle Injury); F. Israel (baja, Shoulder Injury); R. Rodriguez (baja, Thigh Injury); N. Fortini (duda, Thigh Injury)
+**Monza:** M. Pessina (baja, Knee Injury); J. Ziolkowski (baja, Foot Injury); Y. Maye (duda, Muscle Injury); I. Toure (duda, Knee Injury); E. Zeballos (duda, Knee Injury); M. Pessina (baja, Knee Injury); J. Ziolkowski (baja, Foot Injury); Y. Maye (duda, Muscle Injury); I. Toure (duda, Knee Injury); E. Zeballos (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-09-01 · Coppa Italia: Torino 0-1 Monza

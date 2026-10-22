@@ -1,10 +1,10 @@
 # Genoa – Venezia
 **Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.70**
@@ -88,8 +88,8 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Genoa:** L. Venturino (baja, Jumpers Knee)
-**Venezia:** M. Šverko (baja, Hip Injury)
+**Genoa:** L. Colombo (baja, Ankle Injury); L. Venturino (baja, Knee Injury); E. Havel (duda, Ankle Injury); F. Meichtry (duda, Muscle Injury); D. Sow (duda, Injury); L. Colombo (baja, Ankle Injury); L. Venturino (baja, Knee Injury); E. Havel (duda, Ankle Injury); F. Meichtry (duda, Muscle Injury); D. Sow (duda, Injury)
+**Venezia:** A. Adorante (baja, Hernia); G. Busio (baja, Thigh Injury); B. Franjic (baja, Shoulder Injury); M. Sverko (baja, Hip Injury); A. Bella-Kotchap (duda, Thigh Injury); T. Correia (duda, Thigh Injury); A. Adorante (baja, Hernia); G. Busio (baja, Thigh Injury); B. Franjic (baja, Shoulder Injury); M. Sverko (baja, Hip Injury); A. Bella-Kotchap (duda, Thigh Injury); T. Correia (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-02-17 · Serie A: Genoa 2-0 Venezia

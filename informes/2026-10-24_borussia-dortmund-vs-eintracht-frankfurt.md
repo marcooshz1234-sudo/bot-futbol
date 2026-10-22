@@ -1,10 +1,10 @@
 # Borussia Dortmund – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 7 · 24/10/2026 18:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.48**  ·  X **5.00**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.62**
@@ -89,7 +89,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Borussia Dortmund:** E. Can (baja, Knee Injury); K. Karetsas (baja, Ankle Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury); E. Can (baja, Knee Injury); K. Karetsas (baja, Ankle Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury)
+**Borussia Dortmund:** E. Can (baja, Knee Injury); K. Karetsas (baja, Ankle Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (duda, Muscle Injury); E. Can (baja, Knee Injury); K. Karetsas (baja, Ankle Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (duda, Muscle Injury)
 **Eintracht Frankfurt:** N. Collins (duda, Foot Injury); O. Hojlund (duda, Thigh Injury); J. Ngankam (duda, Hamstring Injury); M. Pimpong (duda, Injury); N. Collins (duda, Foot Injury); O. Hojlund (duda, Thigh Injury); J. Ngankam (duda, Hamstring Injury); M. Pimpong (duda, Injury)
 
 ## Enfrentamientos directos recientes

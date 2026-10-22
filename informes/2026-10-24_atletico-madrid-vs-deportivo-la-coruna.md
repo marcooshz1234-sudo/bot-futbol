@@ -1,10 +1,10 @@
 # Atletico Madrid – Deportivo La Coruna
 **LaLiga** · Regular Season - 10 · 24/10/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.14**  ·  X2 **3.75**
@@ -19,7 +19,6 @@ _Actualizadas: 22/10 13:14_
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
@@ -32,7 +31,7 @@ _Actualizadas: 22/10 13:14_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **9.00**
+- **1X2 descanso:** 1 **1.62**  ·  X **2.75**  ·  2 **10.00**
 
 ## Estadísticas de equipo
 | | Atletico Madrid (total) | Atletico Madrid en casa | Deportivo La Coruna (total) | Deportivo La Coruna fuera |
@@ -88,7 +87,7 @@ _Actualizadas: 22/10 13:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Atletico Madrid:** Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury); Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury)
+**Atletico Madrid:** Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury); Lee Kang-In (duda, Muscle Injury); Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury); Lee Kang-In (duda, Muscle Injury)
 **Deportivo La Coruna:** P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury); Y. Hernandez (duda, Head Injury); P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury); Y. Hernandez (duda, Head Injury)
 
 ## Enfrentamientos directos recientes

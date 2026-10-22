@@ -1,10 +1,10 @@
 # Monza – Napoli
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:15_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **4.00**  ·  X **3.50**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.22**

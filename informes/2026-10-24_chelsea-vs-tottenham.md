@@ -1,28 +1,27 @@
 # Chelsea – Tottenham
 **Premier League** · Regular Season - 8 · 24/10/2026 18:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.67**  ·  X **4.20**  ·  2 **4.75**
+- **1X2:** 1 **1.67**  ·  X **4.10**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.15**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.62**
+    - 2,5: más **1.53** · menos **2.50**
     - 3,5: más **2.20** · menos **1.67**
     - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **6.50** · menos **1.11**
-    - 6,5: más **13.00** · menos **1.04**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
+    - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
@@ -30,9 +29,9 @@ _Actualizadas: 22/10 13:14_
 - **Goles del visitante:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **8.00** · menos **1.08**
+    - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
+    - 10,5: más **1.85** · menos **1.95**
 - **Tarjetas más/menos:**
     - 5,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.50**
@@ -92,7 +91,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Chelsea:** J. Gittens (baja, Ankle Injury); R. James (baja, Knee Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); E. Emegha (duda, Muscle Injury); M. Gusto (duda, Illness); J. Gittens (baja, Ankle Injury); R. James (baja, Knee Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); E. Emegha (duda, Muscle Injury); M. Gusto (duda, Illness)
-**Tottenham:** R. Bentancur (baja, Red Card); L. Bergvall (baja, Knee Injury); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Injury); P. Porro (duda, Muscle Injury); A. Robertson (duda, Injury); D. Udogie (duda, Knee Injury); R. Bentancur (baja, Red Card); L. Bergvall (baja, Knee Injury); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Injury); P. Porro (duda, Muscle Injury); A. Robertson (duda, Injury); D. Udogie (duda, Knee Injury)
+**Tottenham:** R. Bentancur (baja, Red Card); L. Bergvall (baja, Knee Injury); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); P. Porro (duda, Muscle Injury); D. Udogie (duda, Knee Injury); R. Bentancur (baja, Red Card); L. Bergvall (baja, Knee Injury); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); P. Porro (duda, Muscle Injury); D. Udogie (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-08-01 · Friendlies Clubs: Chelsea 1-2 Tottenham

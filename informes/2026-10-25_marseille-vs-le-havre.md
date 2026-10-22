@@ -1,10 +1,10 @@
 # Marseille – Le Havre
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **1.57**  ·  X **4.20**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.30**
@@ -38,53 +38,53 @@ _Actualizadas: 22/10 13:14_
 ## Estadísticas de equipo
 | | Marseille (total) | Marseille en casa | Le Havre (total) | Le Havre fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 7 | 3 |
-| Forma (últimos 5) | VDVDD | DDDV | DDDED | DDE |
-| Balance | 3V 0E 6D | 1V 0E 3D | 0V 2E 5D | 0V 1E 2D |
-| Goles a favor / partido | 1,67 | 1,75 | 0,71 | 1,00 |
-| Goles en contra / partido | 1,67 | 1,50 | 1,57 | 1,67 |
-| Goles a favor 1ª parte | 0,44 | 0,25 | 0,00 | 0,00 |
-| Goles a favor 2ª parte | 1,22 | 1,50 | 0,71 | 1,00 |
-| Goles en contra 1ª parte | 0,67 | 0,75 | 0,57 | 0,33 |
-| Goles en contra 2ª parte | 1,00 | 0,75 | 1,00 | 1,33 |
-| Más de 1,5 goles | 78% | 75% | 57% | 67% |
-| Más de 2,5 goles | 56% | 75% | 43% | 33% |
-| Más de 3,5 goles | 44% | 50% | 29% | 33% |
-| Ambos marcan | 44% | 50% | 57% | 67% |
-| Portería a cero | 22% | 25% | 14% | 0% |
-| Se queda sin marcar | 33% | 25% | 43% | 33% |
-| xG a favor | 1,59 | 1,50 | 1,38 | 1,44 |
-| xG en contra | 1,91 | 2,11 | 1,72 | 1,65 |
-| Tiros / partido | 13,0 | 12,8 | 15,7 | 15,7 |
-| Tiros a puerta / partido | 4,7 | 5,5 | 4,7 | 4,3 |
-| Tiros recibidos | 15,3 | 15,8 | 12,9 | 11,3 |
+| Partidos analizados | 10 | 4 | 7 | 3 |
+| Forma (últimos 5) | DVDVD | DDDV | DDDED | DDE |
+| Balance | 3V 0E 7D | 1V 0E 3D | 0V 2E 5D | 0V 1E 2D |
+| Goles a favor / partido | 1,50 | 1,75 | 0,71 | 1,00 |
+| Goles en contra / partido | 1,60 | 1,50 | 1,57 | 1,67 |
+| Goles a favor 1ª parte | 0,40 | 0,25 | 0,00 | 0,00 |
+| Goles a favor 2ª parte | 1,10 | 1,50 | 0,71 | 1,00 |
+| Goles en contra 1ª parte | 0,70 | 0,75 | 0,57 | 0,33 |
+| Goles en contra 2ª parte | 0,90 | 0,75 | 1,00 | 1,33 |
+| Más de 1,5 goles | 70% | 75% | 57% | 67% |
+| Más de 2,5 goles | 50% | 75% | 43% | 33% |
+| Más de 3,5 goles | 40% | 50% | 29% | 33% |
+| Ambos marcan | 40% | 50% | 57% | 67% |
+| Portería a cero | 20% | 25% | 14% | 0% |
+| Se queda sin marcar | 40% | 25% | 43% | 33% |
+| xG a favor | 1,50 | 1,50 | 1,38 | 1,44 |
+| xG en contra | 1,86 | 2,11 | 1,72 | 1,65 |
+| Tiros / partido | 13,1 | 12,8 | 15,7 | 15,7 |
+| Tiros a puerta / partido | 4,3 | 5,5 | 4,7 | 4,3 |
+| Tiros recibidos | 15,1 | 15,8 | 12,9 | 11,3 |
 | Tiros a puerta recibidos | 5,3 | 5,8 | 4,9 | 3,7 |
-| Posesión media % | 56 | 56 | 50 | 48 |
-| Córners a favor | 4,8 | 5,0 | 5,7 | 5,7 |
-| Córners en contra | 3,9 | 4,0 | 4,9 | 5,0 |
+| Posesión media % | 58 | 56 | 50 | 48 |
+| Córners a favor | 4,7 | 5,0 | 5,7 | 5,7 |
+| Córners en contra | 3,7 | 4,0 | 4,9 | 5,0 |
 | Córners a favor 1ª parte | 2,7 | 2,8 | 3,1 | 3,7 |
-| Córners a favor 2ª parte | 2,1 | 2,2 | 2,6 | 2,0 |
-| Córners totales del partido | 8,7 | 9,0 | 10,6 | 10,7 |
-| Córners totales 1ª parte | 4,7 | 5,2 | 4,9 | 4,7 |
-| Córners totales 2ª parte | 4,0 | 3,8 | 5,7 | 6,0 |
-| Más de 8,5 córners | 56% | 75% | 100% | 100% |
-| Más de 9,5 córners | 33% | 50% | 86% | 67% |
-| Más de 10,5 córners | 11% | 0% | 43% | 33% |
-| Faltas cometidas | 11,3 | 10,0 | 14,6 | 14,3 |
-| Faltas recibidas | 10,9 | 9,5 | 15,1 | 13,7 |
-| Amarillas propias | 1,6 | 1,8 | 1,6 | 1,7 |
-| Amarillas del rival | 2,1 | 1,8 | 1,6 | 1,7 |
-| Rojas / partido | 0,11 | 0,25 | 0,29 | 0,33 |
+| Córners a favor 2ª parte | 2,0 | 2,2 | 2,6 | 2,0 |
+| Córners totales del partido | 8,4 | 9,0 | 10,6 | 10,7 |
+| Córners totales 1ª parte | 4,6 | 5,2 | 4,9 | 4,7 |
+| Córners totales 2ª parte | 3,8 | 3,8 | 5,7 | 6,0 |
+| Más de 8,5 córners | 50% | 75% | 100% | 100% |
+| Más de 9,5 córners | 30% | 50% | 86% | 67% |
+| Más de 10,5 córners | 10% | 0% | 43% | 33% |
+| Faltas cometidas | 11,1 | 10,0 | 14,6 | 14,3 |
+| Faltas recibidas | 12,1 | 9,5 | 15,1 | 13,7 |
+| Amarillas propias | 1,7 | 1,8 | 1,6 | 1,7 |
+| Amarillas del rival | 2,2 | 1,8 | 1,6 | 1,7 |
+| Rojas / partido | 0,10 | 0,25 | 0,29 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Marseille | Recibe Marseille | Tarjetas Marseille | Goles Le Havre | Recibe Le Havre | Tarjetas Le Havre |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 4 | 0 | 0 | 3 | 1 |
-| 16-30' | 1 | 1 | 0 | 0 | 0 | 1 |
+| 1-15' | 1 | 5 | 0 | 0 | 3 | 1 |
+| 16-30' | 1 | 1 | 1 | 0 | 0 | 1 |
 | 31-45' | 2 | 1 | 5 | 0 | 1 | 4 |
 | 46-60' | 4 | 4 | 0 | 0 | 3 | 1 |
 | 61-75' | 2 | 3 | 2 | 3 | 1 | 2 |
-| 76-90' | 5 | 2 | 8 | 2 | 3 | 4 |
+| 76-90' | 5 | 2 | 10 | 2 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -102,36 +102,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Marseille
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Europa League | Sturm Graz 1-0 Marseille | fuera | 4-2 | 14 (1) - 13 (5) | 3-3 |
 | 2026-10-18 | Ligue 1 | Angers 2-5 Marseille | fuera | 5-2 | 21 (8) - 11 (3) | 1-1 |
 | 2026-10-15 | Europa League | Marseille 0-1 Olympiakos Piraeus | casa | 9-1 | 11 (5) - 9 (4) | 2-2 |
 | 2026-10-11 | Ligue 1 | Estac Troyes 0-2 Marseille | fuera | 3-6 | 5 (2) - 15 (3) | 1-4 |
 | 2026-09-20 | Ligue 1 | Marseille 1-2 Paris Saint Germain | casa | 3-7 | 12 (4) - 31 (10) | 4-1 |
 | 2026-09-17 | Europa League | Beşiktaş 4-1 Marseille | fuera | 3-3 | 14 (3) - 18 (7) | 1-2 |
-| 2026-09-11 | Ligue 1 | Rennes 1-0 Marseille | fuera | 5-3 | 13 (5) - 20 (7) | 4-1 |
 
 ## Jugadores de Marseille
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jeffrey De Lange | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Himad Abdelli | M | 9 | 729 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 10 | 4 | 0,4 | 1 | 0 |
+| J. de Lange | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| H. Abdelli | M | 10 | 774 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 10 | 5 | 0,5 | 1 | 0 |
+| A. Gouiri | M | 10 | 742 | 5 | 1 | 15 | 1,5 | 9 | 0,9 | 3 | 6 | 0,6 | 1 | 0 |
+| C. Egan-Riley | D | 9 | 730 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 7 | 0,8 | 0 | 0 |
 | Emerson | D | 9 | 717 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 6 | 9 | 1,0 | 0 | 0 |
-| Timothy Weah | D | 8 | 707 | 0 | 2 | 7 | 0,9 | 3 | 0,4 | 13 | 6 | 0,8 | 3 | 1 |
-| Conrad Jaden Egan-Riley | D | 8 | 705 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 6 | 0,8 | 0 | 0 |
+| T. Weah | F | 9 | 714 | 0 | 2 | 7 | 0,8 | 3 | 0,3 | 13 | 6 | 0,7 | 3 | 1 |
 | Amine Harit | M | 9 | 686 | 2 | 1 | 9 | 1,0 | 6 | 0,7 | 5 | 13 | 1,4 | 2 | 0 |
-| Amine Gouiri | F | 9 | 652 | 5 | 1 | 14 | 1,6 | 9 | 1,0 | 2 | 6 | 0,7 | 0 | 0 |
-| Angel Gomes | M | 9 | 602 | 1 | 1 | 9 | 1,0 | 3 | 0,3 | 8 | 8 | 0,9 | 2 | 0 |
-| Igor Paixão | M | 8 | 579 | 1 | 0 | 17 | 2,1 | 6 | 0,8 | 9 | 10 | 1,2 | 1 | 0 |
-| Pierre-Emile Højbjerg | M | 6 | 540 | 1 | 0 | 9 | 1,5 | 5 | 0,8 | 8 | 4 | 0,7 | 0 | 0 |
-| Nayef Aguerd | D | 9 | 531 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 1 | 0,1 | 1 | 0 |
-| Keyliane Abdallah | F | 9 | 328 | 2 | 0 | 12 | 1,3 | 5 | 0,6 | 7 | 3 | 0,3 | 2 | 0 |
-| Neal Maupay | F | 8 | 271 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 2 | 5 | 0,6 | 0 | 0 |
-| Geoffrey Kondogbia | D | 5 | 223 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| A. Gomes | M | 10 | 647 | 1 | 1 | 10 | 1,0 | 3 | 0,3 | 9 | 10 | 1,0 | 3 | 0 |
+| Igor Paixão | F | 9 | 624 | 1 | 0 | 21 | 2,3 | 7 | 0,8 | 10 | 11 | 1,2 | 1 | 0 |
+| N. Aguerd | D | 10 | 596 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 1 | 0,1 | 1 | 0 |
+| P. Højbjerg | M | 7 | 565 | 1 | 0 | 9 | 1,3 | 5 | 0,7 | 8 | 5 | 0,7 | 0 | 0 |
+| K. Abdallah | M | 10 | 418 | 2 | 0 | 15 | 1,5 | 5 | 0,5 | 7 | 6 | 0,6 | 2 | 0 |
+| N. Maupay | F | 9 | 316 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 2 | 8 | 0,9 | 0 | 0 |
+| G. Kondogbia | M | 6 | 288 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 4 | 0,7 | 0 | 0 |
 | Tochukwu Nnadi | M | 5 | 211 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 7 | 5 | 1,0 | 1 | 0 |
+| U. Garcia | D | 6 | 191 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
+| K. Bezahaf | D | 3 | 186 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,0 | 0 | 0 |
+| B. Meité | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 4 | 2,0 | 2 | 0 |
 | Nouhoum Kamissoko | M | 2 | 153 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 3 | 3 | 1,5 | 0 | 0 |
-| Kelyann Bezahaf | D | 2 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
-| Ulisses Garcia | D | 5 | 101 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
-| B. Meité | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 2 | 2,0 | 1 | 0 |
 
 ## Últimos partidos de Le Havre
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

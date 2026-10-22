@@ -1,19 +1,19 @@
 # Arsenal – Everton
 **Premier League** · Regular Season - 8 · 24/10/2026 16:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.42**  ·  X **4.75**  ·  2 **7.00**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.75**
+- **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **8.00**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.40**
+    - 3,5: más **3.20** · menos **1.36**
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -21,16 +21,16 @@ _Actualizadas: 22/10 13:14_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.80** · menos **1.91**
     - 1,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.82** · menos **1.98**
+    - 9,5: más **1.80** · menos **1.91**
 - **Tarjetas más/menos:**
     - 3,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.40**  ·  2 **7.00**

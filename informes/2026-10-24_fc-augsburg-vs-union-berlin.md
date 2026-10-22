@@ -1,12 +1,12 @@
 # FC Augsburg – Union Berlin
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:45_
 
-- **1X2:** 1 **1.85**  ·  X **3.80**  ·  2 **4.00**
+- **1X2:** 1 **1.83**  ·  X **3.90**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**

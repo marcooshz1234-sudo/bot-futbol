@@ -1,10 +1,10 @@
 # Liverpool – Brighton
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:14_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.67**
@@ -38,43 +38,43 @@ _Actualizadas: 22/10 13:14_
 ## Estadísticas de equipo
 | | Liverpool (total) | Liverpool en casa | Brighton (total) | Brighton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 4 |
-| Forma (últimos 5) | VVVDV | VDEVE | VVVVV | VVDE |
-| Balance | 6V 3E 1D | 2V 2E 1D | 7V 2E 1D | 2V 1E 1D |
-| Goles a favor / partido | 2,10 | 1,60 | 3,10 | 2,50 |
-| Goles en contra / partido | 1,50 | 1,80 | 0,50 | 1,00 |
-| Goles a favor 1ª parte | 0,80 | 0,60 | 1,60 | 0,50 |
-| Goles a favor 2ª parte | 1,30 | 1,00 | 1,50 | 2,00 |
-| Goles en contra 1ª parte | 0,60 | 0,80 | 0,40 | 0,75 |
-| Goles en contra 2ª parte | 0,90 | 1,00 | 0,10 | 0,25 |
-| Más de 1,5 goles | 80% | 80% | 90% | 75% |
-| Más de 2,5 goles | 70% | 80% | 70% | 50% |
-| Más de 3,5 goles | 40% | 40% | 60% | 50% |
-| Ambos marcan | 60% | 60% | 20% | 25% |
-| Portería a cero | 30% | 20% | 80% | 75% |
-| Se queda sin marcar | 20% | 40% | 10% | 25% |
-| xG a favor | 1,82 | 1,60 | 2,36 | 1,88 |
-| xG en contra | 1,29 | 1,36 | 1,28 | 1,66 |
-| Tiros / partido | 17,2 | 15,2 | 20,6 | 18,8 |
-| Tiros a puerta / partido | 5,6 | 5,0 | 6,5 | 5,8 |
-| Tiros recibidos | 11,8 | 12,0 | 8,9 | 12,0 |
-| Tiros a puerta recibidos | 3,7 | 4,0 | 2,5 | 4,0 |
-| Posesión media % | 55 | 52 | 64 | 62 |
-| Córners a favor | 5,9 | 5,4 | 7,1 | 6,5 |
-| Córners en contra | 4,1 | 5,2 | 4,0 | 5,2 |
-| Córners a favor 1ª parte | 3,3 | 3,0 | 3,6 | 3,8 |
-| Córners a favor 2ª parte | 2,6 | 2,4 | 3,5 | 2,8 |
-| Córners totales del partido | 10,0 | 10,6 | 11,1 | 11,8 |
-| Córners totales 1ª parte | 5,8 | 5,4 | 5,4 | 6,8 |
-| Córners totales 2ª parte | 4,2 | 5,2 | 5,7 | 5,0 |
-| Más de 8,5 córners | 60% | 80% | 70% | 75% |
-| Más de 9,5 córners | 50% | 60% | 70% | 75% |
-| Más de 10,5 córners | 50% | 60% | 70% | 75% |
-| Faltas cometidas | 12,4 | 13,2 | 13,3 | 14,5 |
-| Faltas recibidas | 9,9 | 10,4 | 9,3 | 7,5 |
-| Amarillas propias | 2,0 | 1,8 | 1,7 | 1,5 |
-| Amarillas del rival | 2,0 | 1,6 | 1,1 | 0,2 |
-| Rojas / partido | 0,10 | 0,20 | 0,10 | 0,25 |
+| Partidos analizados | 10 | 5 | 11 | 5 |
+| Forma (últimos 5) | VVVDV | VDEVE | EVVVV | EVVDE |
+| Balance | 6V 3E 1D | 2V 2E 1D | 7V 3E 1D | 2V 2E 1D |
+| Goles a favor / partido | 2,10 | 1,60 | 2,82 | 2,00 |
+| Goles en contra / partido | 1,50 | 1,80 | 0,45 | 0,80 |
+| Goles a favor 1ª parte | 0,80 | 0,60 | 1,45 | 0,40 |
+| Goles a favor 2ª parte | 1,30 | 1,00 | 1,36 | 1,60 |
+| Goles en contra 1ª parte | 0,60 | 0,80 | 0,36 | 0,60 |
+| Goles en contra 2ª parte | 0,90 | 1,00 | 0,09 | 0,20 |
+| Más de 1,5 goles | 80% | 80% | 82% | 60% |
+| Más de 2,5 goles | 70% | 80% | 64% | 40% |
+| Más de 3,5 goles | 40% | 40% | 55% | 40% |
+| Ambos marcan | 60% | 60% | 18% | 20% |
+| Portería a cero | 30% | 20% | 82% | 80% |
+| Se queda sin marcar | 20% | 40% | 18% | 40% |
+| xG a favor | 1,82 | 1,60 | 2,22 | 1,68 |
+| xG en contra | 1,29 | 1,36 | 1,20 | 1,41 |
+| Tiros / partido | 17,2 | 15,2 | 20,5 | 19,0 |
+| Tiros a puerta / partido | 5,6 | 5,0 | 6,2 | 5,2 |
+| Tiros recibidos | 11,8 | 12,0 | 8,8 | 11,2 |
+| Tiros a puerta recibidos | 3,7 | 4,0 | 2,6 | 4,0 |
+| Posesión media % | 55 | 52 | 65 | 64 |
+| Córners a favor | 5,9 | 5,4 | 7,0 | 6,4 |
+| Córners en contra | 4,1 | 5,2 | 3,8 | 4,6 |
+| Córners a favor 1ª parte | 3,3 | 3,0 | 3,5 | 3,4 |
+| Córners a favor 2ª parte | 2,6 | 2,4 | 3,5 | 3,0 |
+| Córners totales del partido | 10,0 | 10,6 | 10,8 | 11,0 |
+| Córners totales 1ª parte | 5,8 | 5,4 | 5,2 | 6,0 |
+| Córners totales 2ª parte | 4,2 | 5,2 | 5,6 | 5,0 |
+| Más de 8,5 córners | 60% | 80% | 64% | 60% |
+| Más de 9,5 córners | 50% | 60% | 64% | 60% |
+| Más de 10,5 córners | 50% | 60% | 64% | 60% |
+| Faltas cometidas | 12,4 | 13,2 | 13,0 | 13,6 |
+| Faltas recibidas | 9,9 | 10,4 | 9,0 | 7,2 |
+| Amarillas propias | 2,0 | 1,8 | 1,6 | 1,4 |
+| Amarillas del rival | 2,0 | 1,6 | 1,4 | 1,0 |
+| Rojas / partido | 0,10 | 0,20 | 0,09 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Liverpool | Recibe Liverpool | Tarjetas Liverpool | Goles Brighton | Recibe Brighton | Tarjetas Brighton |
@@ -83,13 +83,14 @@ _Actualizadas: 22/10 13:14_
 | 16-30' | 2 | 3 | 3 | 3 | 0 | 1 |
 | 31-45' | 5 | 1 | 1 | 9 | 1 | 4 |
 | 46-60' | 5 | 1 | 9 | 5 | 0 | 4 |
-| 61-75' | 6 | 5 | 3 | 4 | 1 | 3 |
+| 61-75' | 6 | 5 | 3 | 4 | 1 | 4 |
 | 76-90' | 2 | 3 | 3 | 6 | 0 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Liverpool:** B. Barcola (baja, Muscle Injury); C. Bradley (baja, Knee Injury); H. Ekitike (baja, Achilles Tendon Injury); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); D. Szoboszlai (baja, Muscle Injury); V. Munoz (duda, Knee Injury); B. Barcola (baja, Muscle Injury); C. Bradley (baja, Knee Injury); H. Ekitike (baja, Achilles Tendon Injury); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); D. Szoboszlai (baja, Muscle Injury); V. Munoz (duda, Knee Injury)
+**Brighton:** F. Azeez (baja, Abdominal strain); E. Ferguson (baja, Ankle Injury); Y. Minteh (baja, Injury); K. Mitoma (baja, Hamstring Injury); P. Struijk (baja, Rest); S. Tzimas (baja, Knee Injury); M. Wieffer (baja, Knee Injury); Z. Yohanna (baja, Injury); F. Azeez (baja, Abdominal strain); E. Ferguson (baja, Ankle Injury); Y. Minteh (baja, Injury); K. Mitoma (baja, Hamstring Injury); P. Struijk (baja, Rest); S. Tzimas (baja, Knee Injury); M. Wieffer (baja, Knee Injury); Z. Yohanna (baja, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-21 · Premier League: Brighton 2-1 Liverpool
@@ -136,33 +137,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Brighton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Conference League | FK Jablonec 0-0 Brighton | fuera | 6-2 | 20 (3) - 8 (4) | 1-4 |
 | 2026-10-18 | Premier League | Brighton 5-0 Crystal Palace | casa | 8-5 | 17 (9) - 5 (1) | 2-1 |
 | 2026-10-15 | Conference League | Brighton 4-0 Kauno Žalgiris | casa | 13-0 | 35 (9) - 4 (1) | 0-1 |
 | 2026-10-10 | Premier League | Sunderland 0-2 Brighton | fuera | 5-7 | 13 (4) - 12 (3) | 1-0 |
 | 2026-09-19 | Premier League | Brighton 3-0 Arsenal | casa | 5-6 | 17 (5) - 11 (2) | 4-1 |
 | 2026-09-13 | Premier League | Coventry 0-5 Brighton | fuera | 3-5 | 22 (7) - 14 (6) | –-– |
-| 2026-09-05 | Premier League | Brighton 1-1 Leeds | casa | 7-6 | 20 (5) - 10 (5) | 3-3 |
 
 ## Jugadores de Brighton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Bart Verbruggen | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Pascal Groß | M | 10 | 848 | 3 | 4 | 15 | 1,5 | 6 | 0,6 | 14 | 1 | 0,1 | 3 | 0 |
-| Luka Vušković | D | 10 | 843 | 1 | 0 | 15 | 1,5 | 4 | 0,4 | 12 | 13 | 1,3 | 1 | 0 |
-| Olivier Boscagli | D | 10 | 811 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 13 | 10 | 1,0 | 2 | 0 |
+| Bart Verbruggen | G | 11 | 986 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Pascal Groß | M | 11 | 916 | 3 | 4 | 16 | 1,5 | 6 | 0,5 | 14 | 1 | 0,1 | 3 | 0 |
+| Olivier Boscagli | D | 11 | 879 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 13 | 10 | 0,9 | 2 | 0 |
+| Luka Vušković | D | 11 | 861 | 1 | 0 | 15 | 1,4 | 4 | 0,4 | 12 | 13 | 1,2 | 1 | 0 |
 | Diego Gómez | M | 9 | 748 | 1 | 2 | 18 | 2,0 | 7 | 0,8 | 9 | 1 | 0,1 | 0 | 0 |
-| Yasin Ayari | M | 9 | 716 | 2 | 0 | 18 | 2,0 | 7 | 0,8 | 6 | 8 | 0,9 | 1 | 0 |
+| Yasin Ayari | M | 10 | 734 | 2 | 0 | 18 | 1,8 | 7 | 0,7 | 6 | 8 | 0,8 | 1 | 0 |
 | Maxim De Cuyper | M | 10 | 707 | 3 | 3 | 7 | 0,7 | 3 | 0,3 | 13 | 7 | 0,7 | 2 | 0 |
 | Ferdi Kadıoğlu | D | 7 | 601 | 0 | 0 | 6 | 0,9 | 2 | 0,3 | 3 | 8 | 1,1 | 2 | 0 |
 | Charalampos Kostoulas | F | 9 | 599 | 4 | 3 | 26 | 2,9 | 9 | 1,0 | 10 | 9 | 1,0 | 1 | 0 |
 | Lewis Dunk | D | 8 | 569 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 3 | 0,4 | 1 | 0 |
-| Malick Yalcouyé | M | 10 | 448 | 2 | 0 | 8 | 0,8 | 4 | 0,4 | 8 | 7 | 0,7 | 0 | 0 |
-| Georginio Rutter | F | 6 | 301 | 2 | 3 | 7 | 1,2 | 4 | 0,7 | 4 | 2 | 0,3 | 0 | 0 |
+| Malick Yalcouyé | M | 11 | 534 | 2 | 0 | 9 | 0,8 | 4 | 0,4 | 9 | 10 | 0,9 | 0 | 0 |
+| Georginio Rutter | F | 7 | 387 | 2 | 3 | 11 | 1,6 | 6 | 0,9 | 8 | 2 | 0,3 | 0 | 0 |
+| Costinha | D | 9 | 318 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 7 | 3 | 0,3 | 2 | 0 |
+| Chema Andrés | M | 5 | 308 | 1 | 1 | 4 | 0,8 | 1 | 0,2 | 8 | 2 | 0,4 | 1 | 0 |
+| Ibrahim Osman | M | 7 | 294 | 0 | 2 | 10 | 1,4 | 1 | 0,1 | 7 | 3 | 0,4 | 0 | 0 |
 | Mats Wieffer | D | 4 | 293 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 3 | 5 | 1,2 | 0 | 0 |
-| Chema Andrés | M | 4 | 290 | 1 | 1 | 3 | 0,8 | 1 | 0,2 | 8 | 2 | 0,5 | 1 | 0 |
-| Costinha | D | 8 | 232 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 5 | 3 | 0,4 | 1 | 0 |
-| Ibrahim Osman | F | 6 | 208 | 0 | 2 | 6 | 1,0 | 1 | 0,2 | 5 | 3 | 0,5 | 0 | 0 |
+| Matt O'Riley | M | 5 | 263 | 1 | 0 | 6 | 1,2 | 3 | 0,6 | 0 | 3 | 0,6 | 0 | 0 |
+| Jack Hinshelwood | M | 5 | 220 | 4 | 0 | 10 | 2,0 | 8 | 1,6 | 2 | 3 | 0,6 | 0 | 0 |
 | Pascal Struijk | D | 5 | 201 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 3 | 2 | 0,4 | 1 | 1 |
-| Matt O'Riley | F | 4 | 195 | 1 | 0 | 5 | 1,2 | 3 | 0,8 | 0 | 2 | 0,5 | 0 | 0 |
-| Jack Hinshelwood | M | 4 | 152 | 4 | 0 | 8 | 2,0 | 7 | 1,8 | 2 | 2 | 0,5 | 0 | 0 |
-| Michael Svoboda | D | 3 | 102 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
+| Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |

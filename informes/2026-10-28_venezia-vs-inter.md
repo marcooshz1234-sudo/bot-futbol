@@ -1,10 +1,10 @@
 # Venezia – Inter
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 14:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 13:15_
+_Actualizadas: 22/10 20:46_
 
 - **1X2:** 1 **8.50**  ·  X **5.00**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
