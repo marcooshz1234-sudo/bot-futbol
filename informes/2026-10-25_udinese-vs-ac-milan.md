@@ -1,10 +1,10 @@
 # Udinese – AC Milan
 **Serie A** · Regular Season - 8 · 25/10/2026 20:45 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 23:40._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 20:46_
+_Actualizadas: 22/10 23:40_
 
 - **1X2:** 1 **5.50**  ·  X **3.75**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.14**
@@ -32,58 +32,90 @@ _Actualizadas: 22/10 20:46_
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.00** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.30**  ·  2 **2.20**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.50**
+- **Win Both Halves:** 1 **21.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.50**  ·  Home/No **10.00**  ·  Draw/No **11.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Home Corners Over/Under:**
+    - 3,5: más **1.67** · menos **2.10**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Total ShotOnGoal:**
+    - 8,5: más **2.10** · menos **1.67**
+- **Total Shots:**
+    - 25,5: más **1.83** · menos **1.83**
+- **Home Player Shots On Target Total:** Idrissa Gueye - 1 **1.73**  ·  Idrissa Gueye - 2 **4.50**  ·  Idrissa Gueye - 3 **17.00**  ·  Lazar Jovanovic - 1 **2.25**  ·  Lazar Jovanovic - 2 **9.00**  ·  Keinan Davis - 1 **1.62**  ·  Vakoun Bayo - 1 **1.80**  ·  Giulio Vinciati - 1 **2.10**  ·  Giorgi Chakvetadze - 1 **2.25**  ·  Sandi Lovric - 1 **2.62**  ·  Jurgen Ekkelenkamp - 1 **2.25**  ·  Lennon Miller - 1 **9.00**  ·  Unai Gomez - 1 **3.00**  ·  Mergim Vojvoda - 1 **4.33**  ·  Nicolo Bertola - 1 **6.00**  ·  Oier Zarraga - 1 **6.50**  ·  Oumar Solet - 1 **4.00**  ·  Hassane Kamara - 1 **3.75**  ·  Jesper Karlstrom - 1 **9.00**  ·  Juan David Arizala - 1 **3.75**  ·  Enzo Ebosse - 1 **21.00**  ·  James Abankwah - 1 **21.00**  ·  Keinan Davis - 2 **4.00**  ·  Vakoun Bayo - 2 **5.00**  ·  Giulio Vinciati - 2 **7.00**  ·  Giorgi Chakvetadze - 2 **9.00**  ·  Sandi Lovric - 2 **11.00**  ·  Jurgen Ekkelenkamp - 2 **9.00**  ·  Lennon Miller - 2 **19.00**  ·  Unai Gomez - 2 **15.00**  ·  Mergim Vojvoda - 2 **21.00**  ·  Nicolo Bertola - 2 **17.00**  ·  Oier Zarraga - 2 **17.00**  ·  Oumar Solet - 2 **21.00**  ·  Hassane Kamara - 2 **21.00**  ·  Jesper Karlstrom - 2 **19.00**  ·  Juan David Arizala - 2 **21.00**  ·  Keinan Davis - 3 **13.00**  ·  Vakoun Bayo - 3 **17.00**  ·  Giulio Vinciati - 3 **21.00**  ·  Giorgi Chakvetadze - 3 **21.00**  ·  Keinan Davis - 4 **21.00**  ·  Christian Kabasele - 1 **4.50**  ·  Christian Kabasele - 2 **21.00**
+- **Away Player Shots On Target Total:** Ardon Jashari **41.00**  ·  Jesper Karlstrom **81.00**  ·  Pervis Estupinan **67.00**  ·  Giorgi Chakvetadze **51.00**  ·  Juan David Arizala **51.00**  ·  Christian Comotto **51.00**  ·  Giulio Vinciati **26.00**  ·  Vakoun Bayo **23.00**  ·  Diego Moreira **67.00**  ·  Adrien Rabiot **15.00**  ·  Davide Bartesaghi **15.00**  ·  Alphadjo Cisse **19.00**  ·  Mergim Vojvoda **67.00**  ·  Nicolo Bertola **15.00**  ·  Unai Gomez **51.00**  ·  Lennon Miller **81.00**  ·  Sankhoun Diawara **17.00**  ·  Lazar Jovanovic **17.00**  ·  Luka Modric **81.00**  ·  David Alaba **151.00**  ·  Idrissa Gueye **15.00**  ·  Christian Pulisic **15.00**  ·  Fikayo Tomori **21.00**  ·  Filippo Terracciano **17.00**  ·  Matteo Gabbia **15.00**  ·  Ruben Loftus-Cheek **13.00**  ·  Samuel Chukwueze **67.00**  ·  Strahinja Pavlovic **9.50**  ·  Yunus Musah **51.00**  ·  Francesco Camarda **8.00**  ·  Alexis Saelemaekers **34.00**  ·  Mario Gila **17.00**  ·  Koni de Winter **11.00**  ·  Omari Giraud-Hutchinson **29.00**  ·  Christian Kabasele **17.00**  ·  Enzo Ebosse **26.00**  ·  Hassane Kamara **101.00**  ·  James Abankwah **34.00**  ·  Jurgen Ekkelenkamp **34.00**  ·  Keinan Davis **15.00**  ·  Matteo Palma **34.00**  ·  Oier Zarraga **67.00**  ·  Sandi Lovric **67.00**  ·  Oumar Solet **17.00**  ·  Goncalo Ramos **12.00**
+- **Away Player Shots Total:**
+    - 14,5: más **1.73** · menos **2.00**
+- **Home Player Shots:** Idrissa Gueye - 1 **1.07**  ·  Idrissa Gueye - 2 **1.36**  ·  Idrissa Gueye - 3 **2.10**  ·  Idrissa Gueye - 4 **3.75**  ·  Lazar Jovanovic - 1 **1.28**  ·  Lazar Jovanovic - 2 **2.20**  ·  Lazar Jovanovic - 3 **4.50**  ·  Lazar Jovanovic - 4 **11.00**  ·  Lazar Jovanovic - 5 **21.00**  ·  Keinan Davis - 1 **1.14**  ·  Vakoun Bayo - 1 **1.11**  ·  Giulio Vinciati - 1 **1.17**  ·  Giorgi Chakvetadze - 1 **1.25**  ·  Sandi Lovric - 1 **1.25**  ·  Jurgen Ekkelenkamp - 1 **1.22**  ·  Lennon Miller - 1 **1.83**  ·  Unai Gomez - 1 **1.36**  ·  Mergim Vojvoda - 1 **2.10**  ·  Nicolo Bertola - 1 **2.20**  ·  Oier Zarraga - 1 **1.83**  ·  Oumar Solet - 1 **1.73**  ·  Hassane Kamara - 1 **1.73**  ·  Jesper Karlstrom - 1 **2.38**  ·  Juan David Arizala - 1 **1.83**  ·  Enzo Ebosse - 1 **5.00**  ·  James Abankwah - 1 **3.50**  ·  Keinan Davis - 2 **1.67**  ·  Vakoun Bayo - 2 **1.50**  ·  Giulio Vinciati - 2 **1.73**  ·  Giorgi Chakvetadze - 2 **2.00**  ·  Sandi Lovric - 2 **2.00**  ·  Jurgen Ekkelenkamp - 2 **2.00**  ·  Lennon Miller - 2 **5.00**  ·  Unai Gomez - 2 **2.62**  ·  Mergim Vojvoda - 2 **6.50**  ·  Nicolo Bertola - 2 **7.00**  ·  Oier Zarraga - 2 **5.00**  ·  Oumar Solet - 2 **4.33**  ·  Hassane Kamara - 2 **4.33**  ·  Jesper Karlstrom - 2 **8.00**  ·  Juan David Arizala - 2 **5.00**  ·  Enzo Ebosse - 2 **21.00**  ·  James Abankwah - 2 **15.00**  ·  Keinan Davis - 3 **2.75**  ·  Vakoun Bayo - 3 **2.50**  ·  Giulio Vinciati - 3 **3.25**  ·  Giorgi Chakvetadze - 3 **4.00**  ·  Sandi Lovric - 3 **4.00**  ·  Jurgen Ekkelenkamp - 3 **4.00**  ·  Lennon Miller - 3 **15.00**  ·  Unai Gomez - 3 **6.00**  ·  Mergim Vojvoda - 3 **19.00**  ·  Nicolo Bertola - 3 **21.00**  ·  Oier Zarraga - 3 **15.00**  ·  Oumar Solet - 3 **13.00**  ·  Hassane Kamara - 3 **13.00**  ·  Jesper Karlstrom - 3 **21.00**  ·  Juan David Arizala - 3 **15.00**  ·  Enzo Ebosse - 3 **21.00**  ·  Keinan Davis - 4 **6.00**  ·  Vakoun Bayo - 4 **4.50**  ·  Giulio Vinciati - 4 **6.50**  ·  Giorgi Chakvetadze - 4 **10.00**  ·  Sandi Lovric - 4 **10.00**  ·  Jurgen Ekkelenkamp - 4 **10.00**  ·  Unai Gomez - 4 **15.00**  ·  Mergim Vojvoda - 4 **21.00**  ·  Nicolo Bertola - 4 **21.00**  ·  Oier Zarraga - 4 **21.00**  ·  Oumar Solet - 4 **21.00**  ·  Jesper Karlstrom - 4 **21.00**  ·  Keinan Davis - 5 **13.00**  ·  Vakoun Bayo - 5 **10.00**  ·  Giulio Vinciati - 5 **15.00**  ·  Idrissa Gueye - 5 **7.00**  ·  Giorgi Chakvetadze - 5 **21.00**  ·  Sandi Lovric - 5 **21.00**  ·  Jurgen Ekkelenkamp - 5 **21.00**  ·  Unai Gomez - 5 **21.00**  ·  Keinan Davis - 6 **21.00**  ·  Vakoun Bayo - 6 **21.00**  ·  Giulio Vinciati - 6 **21.00**  ·  Idrissa Gueye - 6 **15.00**  ·  Keinan Davis - 7 **21.00**  ·  Vakoun Bayo - 7 **21.00**  ·  Christian Kabasele - 1 **2.75**  ·  Christian Kabasele - 2 **11.00**  ·  Christian Kabasele - 3 **11.00**  ·  Christian Kabasele - 4 **21.00**  ·  Idrissa Gueye - 7 **21.00**
+- **Away Player Shots:** Omari Giraud-Hutchinson - 1 **1.10**  ·  Omari Giraud-Hutchinson - 2 **1.44**  ·  Omari Giraud-Hutchinson - 3 **2.25**  ·  Omari Giraud-Hutchinson - 4 **4.33**  ·  Alphadjo Cisse - 1 **1.11**  ·  Christian Pulisic - 1 **1.04**  ·  Goncalo Ramos - 1 **1.02**  ·  Francesco Camarda - 1 **1.08**  ·  Samuel Chukwueze - 1 **1.14**  ·  Ruben Loftus-Cheek - 1 **1.10**  ·  Adrien Rabiot - 1 **1.11**  ·  Diego Moreira - 1 **1.17**  ·  Alexis Saelemaekers - 1 **1.20**  ·  Luka Modric - 1 **1.30**  ·  Davide Bartesaghi - 1 **1.50**  ·  Christian Comotto - 1 **1.62**  ·  Ardon Jashari - 1 **1.25**  ·  Yunus Musah - 1 **1.25**  ·  Pervis Estupinan - 1 **1.40**  ·  Strahinja Pavlovic - 1 **1.62**  ·  Fikayo Tomori - 1 **2.62**  ·  Filippo Terracciano - 1 **2.62**  ·  Koni de Winter - 1 **1.83**  ·  Mario Gila - 1 **2.10**  ·  Matteo Gabbia - 1 **2.62**  ·  Sankhoun Diawara - 1 **2.62**  ·  Alphadjo Cisse - 2 **1.53**  ·  Christian Pulisic - 2 **1.25**  ·  Goncalo Ramos - 2 **1.14**  ·  Francesco Camarda - 2 **1.40**  ·  Samuel Chukwueze - 2 **1.67**  ·  Ruben Loftus-Cheek - 2 **1.44**  ·  Adrien Rabiot - 2 **1.53**  ·  Diego Moreira - 2 **1.73**  ·  Alexis Saelemaekers - 2 **1.91**  ·  Luka Modric - 2 **2.38**  ·  Davide Bartesaghi - 2 **3.25**  ·  Christian Comotto - 2 **3.75**  ·  Ardon Jashari - 2 **2.10**  ·  Yunus Musah - 2 **2.10**  ·  Pervis Estupinan - 2 **2.62**  ·  Strahinja Pavlovic - 2 **3.75**  ·  Fikayo Tomori - 2 **10.00**  ·  Filippo Terracciano - 2 **10.00**  ·  Koni de Winter - 2 **5.00**  ·  Mario Gila - 2 **6.50**  ·  Matteo Gabbia - 2 **10.00**  ·  Sankhoun Diawara - 2 **10.00**  ·  Alphadjo Cisse - 3 **2.62**  ·  Christian Pulisic - 3 **1.73**  ·  Goncalo Ramos - 3 **1.44**  ·  Francesco Camarda - 3 **2.10**  ·  Samuel Chukwueze - 3 **2.75**  ·  Ruben Loftus-Cheek - 3 **2.25**  ·  Adrien Rabiot - 3 **2.62**  ·  Diego Moreira - 3 **3.25**  ·  Alexis Saelemaekers - 3 **3.75**  ·  Luka Modric - 3 **5.00**  ·  Davide Bartesaghi - 3 **8.00**  ·  Christian Comotto - 3 **11.00**  ·  Ardon Jashari - 3 **4.33**  ·  Yunus Musah - 3 **4.33**  ·  Pervis Estupinan - 3 **6.50**  ·  Strahinja Pavlovic - 3 **11.00**  ·  Fikayo Tomori - 3 **13.00**  ·  Filippo Terracciano - 3 **11.00**  ·  Koni de Winter - 3 **15.00**  ·  Mario Gila - 3 **21.00**  ·  Matteo Gabbia - 3 **15.00**  ·  Sankhoun Diawara - 3 **15.00**  ·  Alphadjo Cisse - 4 **5.00**  ·  Christian Pulisic - 4 **2.75**  ·  Goncalo Ramos - 4 **2.00**  ·  Francesco Camarda - 4 **3.75**  ·  Samuel Chukwueze - 4 **5.50**  ·  Ruben Loftus-Cheek - 4 **4.33**  ·  Adrien Rabiot - 4 **5.00**  ·  Diego Moreira - 4 **7.00**  ·  Alexis Saelemaekers - 4 **8.00**  ·  Luka Modric - 4 **13.00**  ·  Davide Bartesaghi - 4 **21.00**  ·  Christian Comotto - 4 **21.00**  ·  Ardon Jashari - 4 **10.00**  ·  Yunus Musah - 4 **10.00**  ·  Pervis Estupinan - 4 **17.00**  ·  Strahinja Pavlovic - 4 **21.00**  ·  Filippo Terracciano - 4 **21.00**  ·  Alphadjo Cisse - 5 **11.00**  ·  Christian Pulisic - 5 **5.00**  ·  Goncalo Ramos - 5 **3.25**  ·  Francesco Camarda - 5 **7.00**  ·  Samuel Chukwueze - 5 **13.00**  ·  Ruben Loftus-Cheek - 5 **9.00**  ·  Adrien Rabiot - 5 **11.00**  ·  Diego Moreira - 5 **15.00**  ·  Alexis Saelemaekers - 5 **19.00**  ·  Luka Modric - 5 **21.00**  ·  Davide Bartesaghi - 5 **21.00**  ·  Christian Comotto - 5 **21.00**  ·  Ardon Jashari - 5 **21.00**  ·  Yunus Musah - 5 **21.00**  ·  Alphadjo Cisse - 6 **21.00**  ·  Christian Pulisic - 6 **10.00**  ·  Goncalo Ramos - 6 **5.50**  ·  Francesco Camarda - 6 **15.00**  ·  Samuel Chukwueze - 6 **21.00**  ·  Ruben Loftus-Cheek - 6 **19.00**  ·  Adrien Rabiot - 6 **21.00**  ·  Diego Moreira - 6 **17.00**  ·  Alexis Saelemaekers - 6 **21.00**  ·  Alphadjo Cisse - 7 **21.00**  ·  Christian Pulisic - 7 **19.00**  ·  Goncalo Ramos - 7 **11.00**  ·  Francesco Camarda - 7 **15.00**  ·  Samuel Chukwueze - 7 **19.00**  ·  Ruben Loftus-Cheek - 7 **21.00**  ·  Christian Pulisic - 8 **21.00**  ·  Goncalo Ramos - 8 **19.00**  ·  Francesco Camarda - 8 **21.00**  ·  Omari Giraud-Hutchinson - 5 **9.00**  ·  Omari Giraud-Hutchinson - 6 **19.00**
+- **Player Fouls Committed:** Idrissa Gueye - 1 **1.18**  ·  Idrissa Gueye - 2 **1.80**  ·  Idrissa Gueye - 3 **3.50**  ·  Idrissa Gueye - 4 **8.00**  ·  Omari Giraud-Hutchinson - 1 **1.40**  ·  Omari Giraud-Hutchinson - 2 **2.75**  ·  Omari Giraud-Hutchinson - 3 **7.00**  ·  Omari Giraud-Hutchinson - 4 **19.00**  ·  Lazar Jovanovic - 1 **1.14**  ·  Lazar Jovanovic - 2 **1.73**  ·  Lazar Jovanovic - 3 **3.25**  ·  Lazar Jovanovic - 4 **6.50**  ·  Lazar Jovanovic - 5 **15.00**  ·  Keinan Davis - 1 **1.20**  ·  Vakoun Bayo - 1 **1.20**  ·  Giulio Vinciati - 1 **1.36**  ·  Giorgi Chakvetadze - 1 **1.67**  ·  Sandi Lovric - 1 **1.25**  ·  Jurgen Ekkelenkamp - 1 **1.25**  ·  Lennon Miller - 1 **1.30**  ·  Unai Gomez - 1 **1.36**  ·  Mergim Vojvoda - 1 **1.44**  ·  Nicolo Bertola - 1 **1.30**  ·  Oier Zarraga - 1 **1.44**  ·  Oumar Solet - 1 **1.25**  ·  Hassane Kamara - 1 **1.53**  ·  Jesper Karlstrom - 1 **1.44**  ·  Juan David Arizala - 1 **1.53**  ·  Enzo Ebosse - 1 **1.44**  ·  James Abankwah - 1 **1.36**  ·  Keinan Davis - 2 **1.83**  ·  Vakoun Bayo - 2 **1.83**  ·  Giulio Vinciati - 2 **2.62**  ·  Giorgi Chakvetadze - 2 **4.00**  ·  Sandi Lovric - 2 **2.10**  ·  Jurgen Ekkelenkamp - 2 **2.10**  ·  Lennon Miller - 2 **2.25**  ·  Unai Gomez - 2 **2.62**  ·  Mergim Vojvoda - 2 **3.25**  ·  Nicolo Bertola - 2 **2.25**  ·  Oier Zarraga - 2 **3.25**  ·  Oumar Solet - 2 **2.10**  ·  Hassane Kamara - 2 **3.40**  ·  Jesper Karlstrom - 2 **3.00**  ·  Juan David Arizala - 2 **3.40**  ·  Enzo Ebosse - 2 **3.00**  ·  James Abankwah - 2 **2.62**  ·  Keinan Davis - 3 **3.75**  ·  Vakoun Bayo - 3 **3.75**  ·  Giulio Vinciati - 3 **6.00**  ·  Giorgi Chakvetadze - 3 **13.00**  ·  Sandi Lovric - 3 **4.33**  ·  Jurgen Ekkelenkamp - 3 **4.33**  ·  Lennon Miller - 3 **5.50**  ·  Unai Gomez - 3 **6.00**  ·  Mergim Vojvoda - 3 **9.00**  ·  Nicolo Bertola - 3 **5.50**  ·  Oier Zarraga - 3 **9.00**  ·  Oumar Solet - 3 **4.33**  ·  Hassane Kamara - 3 **10.00**  ·  Jesper Karlstrom - 3 **8.00**  ·  Juan David Arizala - 3 **10.00**  ·  Enzo Ebosse - 3 **8.00**  ·  Keinan Davis - 4 **9.00**  ·  Vakoun Bayo - 4 **9.00**  ·  Giulio Vinciati - 4 **17.00**  ·  Sandi Lovric - 4 **11.00**  ·  Jurgen Ekkelenkamp - 4 **11.00**  ·  Lennon Miller - 4 **13.00**  ·  Unai Gomez - 4 **17.00**  ·  Mergim Vojvoda - 4 **23.00**  ·  Nicolo Bertola - 4 **13.00**  ·  Oier Zarraga - 4 **23.00**  ·  Oumar Solet - 4 **11.00**  ·  Hassane Kamara - 4 **26.00**  ·  Jesper Karlstrom - 4 **21.00**  ·  Juan David Arizala - 4 **26.00**  ·  Keinan Davis - 5 **19.00**  ·  Vakoun Bayo - 5 **19.00**  ·  Idrissa Gueye - 5 **19.00**  ·  Sandi Lovric - 5 **26.00**  ·  Jurgen Ekkelenkamp - 5 **26.00**  ·  James Abankwah - 3 **6.00**  ·  James Abankwah - 4 **17.00**  ·  Enzo Ebosse - 4 **21.00**  ·  Oumar Solet - 5 **26.00**  ·  Alphadjo Cisse - 1 **1.30**  ·  Christian Pulisic - 1 **1.73**  ·  Goncalo Ramos - 1 **1.33**  ·  Francesco Camarda - 1 **1.62**  ·  Samuel Chukwueze - 1 **1.83**  ·  Ruben Loftus-Cheek - 1 **1.25**  ·  Adrien Rabiot - 1 **1.33**  ·  Diego Moreira - 1 **1.62**  ·  Alexis Saelemaekers - 1 **1.62**  ·  Luka Modric - 1 **1.67**  ·  Davide Bartesaghi - 1 **1.57**  ·  Christian Comotto - 1 **1.33**  ·  Ardon Jashari - 1 **1.33**  ·  Yunus Musah - 1 **1.25**  ·  Pervis Estupinan - 1 **1.25**  ·  Strahinja Pavlovic - 1 **1.53**  ·  Fikayo Tomori - 1 **1.30**  ·  Filippo Terracciano - 1 **1.83**  ·  Koni de Winter - 1 **1.20**  ·  Mario Gila - 1 **1.67**  ·  Matteo Gabbia - 1 **1.57**  ·  Sankhoun Diawara - 1 **1.33**  ·  Alphadjo Cisse - 2 **2.38**  ·  Christian Pulisic - 2 **4.50**  ·  Goncalo Ramos - 2 **2.50**  ·  Francesco Camarda - 2 **3.75**  ·  Samuel Chukwueze - 2 **5.00**  ·  Ruben Loftus-Cheek - 2 **2.20**  ·  Adrien Rabiot - 2 **2.50**  ·  Diego Moreira - 2 **4.00**  ·  Alexis Saelemaekers - 2 **4.00**  ·  Luka Modric - 2 **4.33**  ·  Davide Bartesaghi - 2 **3.75**  ·  Christian Comotto - 2 **2.62**  ·  Ardon Jashari - 2 **2.62**  ·  Yunus Musah - 2 **2.20**  ·  Pervis Estupinan - 2 **2.10**  ·  Strahinja Pavlovic - 2 **3.40**  ·  Fikayo Tomori - 2 **2.38**  ·  Filippo Terracciano - 2 **5.00**  ·  Koni de Winter - 2 **1.83**  ·  Mario Gila - 2 **4.33**  ·  Matteo Gabbia - 2 **3.75**  ·  Sankhoun Diawara - 2 **2.62**  ·  Alphadjo Cisse - 3 **5.50**  ·  Christian Pulisic - 3 **15.00**  ·  Goncalo Ramos - 3 **5.50**  ·  Francesco Camarda - 3 **11.00**  ·  Samuel Chukwueze - 3 **17.00**  ·  Ruben Loftus-Cheek - 3 **4.50**  ·  Adrien Rabiot - 3 **5.50**  ·  Diego Moreira - 3 **11.00**  ·  Alexis Saelemaekers - 3 **11.00**  ·  Luka Modric - 3 **13.00**  ·  Davide Bartesaghi - 3 **11.00**  ·  Christian Comotto - 3 **6.00**  ·  Ardon Jashari - 3 **6.00**  ·  Yunus Musah - 3 **4.50**  ·  Pervis Estupinan - 3 **4.33**  ·  Strahinja Pavlovic - 3 **10.00**  ·  Fikayo Tomori - 3 **5.50**  ·  Filippo Terracciano - 3 **17.00**  ·  Koni de Winter - 3 **3.75**  ·  Mario Gila - 3 **13.00**  ·  Matteo Gabbia - 3 **11.00**  ·  Sankhoun Diawara - 3 **6.00**  ·  Alphadjo Cisse - 4 **13.00**  ·  Goncalo Ramos - 4 **15.00**  ·  Ruben Loftus-Cheek - 4 **11.00**  ·  Adrien Rabiot - 4 **15.00**  ·  Christian Comotto - 4 **17.00**  ·  Ardon Jashari - 4 **17.00**  ·  Yunus Musah - 4 **11.00**  ·  Pervis Estupinan - 4 **11.00**  ·  Strahinja Pavlovic - 4 **26.00**  ·  Fikayo Tomori - 4 **13.00**  ·  Koni de Winter - 4 **9.00**  ·  Ruben Loftus-Cheek - 5 **26.00**  ·  Yunus Musah - 5 **26.00**  ·  Christian Kabasele - 1 **1.30**  ·  Christian Kabasele - 2 **2.25**  ·  Christian Kabasele - 3 **5.50**  ·  Christian Kabasele - 4 **13.00**  ·  Sankhoun Diawara - 4 **17.00**  ·  Koni de Winter - 5 **19.00**  ·  Pervis Estupinan - 5 **26.00**
+- **Anytime Goal Scorer:** Ardon Jashari **6.50**  ·  Jesper Karlstrom **11.00**  ·  Pervis Estupinan **8.00**  ·  Giorgi Chakvetadze **5.50**  ·  Juan David Arizala **12.00**  ·  Jakub Piotrowski **6.50**  ·  Christian Comotto **6.50**  ·  Valeri Vladimirov **9.50**  ·  Giulio Vinciati **4.33**  ·  Vakoun Bayo **4.00**  ·  Diego Moreira **4.00**  ·  Adrien Rabiot **4.50**  ·  Davide Bartesaghi **5.50**  ·  Alphadjo Cisse **3.00**  ·  Mergim Vojvoda **8.00**  ·  Nicolo Bertola **11.00**  ·  Unai Gomez **6.50**  ·  Lennon Miller **9.50**  ·  Sankhoun Diawara **11.00**  ·  Lazar Jovanovic **7.00**  ·  Luka Modric **5.50**  ·  David Alaba **19.00**  ·  Idrissa Gueye **4.50**  ·  Christian Pulisic **2.50**  ·  Fikayo Tomori **11.00**  ·  Filippo Terracciano **8.50**  ·  Matteo Gabbia **11.00**  ·  Ruben Loftus-Cheek **3.40**  ·  Samuel Chukwueze **4.00**  ·  Strahinja Pavlovic **8.00**  ·  Yunus Musah **8.00**  ·  Francesco Camarda **2.50**  ·  Alexis Saelemaekers **4.00**  ·  Mario Gila **12.00**  ·  Alessandro Zanoli **12.00**  ·  Koni de Winter **9.50**  ·  Omari Giraud-Hutchinson **4.00**  ·  Christian Kabasele **11.00**  ·  Enzo Ebosse **19.00**  ·  Hassane Kamara **12.00**  ·  James Abankwah **23.00**  ·  Jurgen Ekkelenkamp **5.50**  ·  Keinan Davis **3.75**  ·  Matteo Palma **15.00**  ·  Oier Zarraga **8.50**  ·  Sandi Lovric **7.00**  ·  Oumar Solet **12.00**  ·  Goncalo Ramos **2.50**
+- **Player to Score or Assist:** Ardon Jashari **3.75**  ·  Jesper Karlstrom **6.00**  ·  Pervis Estupinan **3.40**  ·  Giorgi Chakvetadze **3.25**  ·  Juan David Arizala **6.00**  ·  Jakub Piotrowski **4.33**  ·  Christian Comotto **4.33**  ·  Valeri Vladimirov **7.00**  ·  Giulio Vinciati **2.62**  ·  Vakoun Bayo **3.25**  ·  Diego Moreira **2.30**  ·  Adrien Rabiot **2.60**  ·  Davide Bartesaghi **3.20**  ·  Alphadjo Cisse **2.10**  ·  Mergim Vojvoda **4.33**  ·  Nicolo Bertola **7.00**  ·  Unai Gomez **4.00**  ·  Lennon Miller **4.33**  ·  Sankhoun Diawara **6.00**  ·  Lazar Jovanovic **4.75**  ·  Luka Modric **2.75**  ·  David Alaba **12.00**  ·  Idrissa Gueye **3.40**  ·  Christian Pulisic **1.80**  ·  Fikayo Tomori **8.00**  ·  Filippo Terracciano **5.50**  ·  Matteo Gabbia **8.00**  ·  Ruben Loftus-Cheek **2.38**  ·  Samuel Chukwueze **2.38**  ·  Strahinja Pavlovic **5.50**  ·  Yunus Musah **3.50**  ·  Francesco Camarda **2.05**  ·  Alexis Saelemaekers **2.50**  ·  Mario Gila **9.00**  ·  Alessandro Zanoli **5.50**  ·  Koni de Winter **7.00**  ·  Omari Giraud-Hutchinson **2.40**  ·  Christian Kabasele **7.50**  ·  Enzo Ebosse **9.00**  ·  Hassane Kamara **5.50**  ·  James Abankwah **15.00**  ·  Jurgen Ekkelenkamp **4.00**  ·  Keinan Davis **2.88**  ·  Matteo Palma **9.50**  ·  Oier Zarraga **6.50**  ·  Sandi Lovric **4.33**  ·  Oumar Solet **10.00**  ·  Goncalo Ramos **1.95**
 
 ## Estadísticas de equipo
 | | Udinese (total) | Udinese en casa | AC Milan (total) | AC Milan fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 9 | 5 |
-| Forma (últimos 5) | DDDDD | DDDE | VVEVD | VEEEV |
-| Balance | 1V 1E 5D | 0V 1E 3D | 5V 3E 1D | 2V 3E 0D |
-| Goles a favor / partido | 1,29 | 0,50 | 2,00 | 2,00 |
-| Goles en contra / partido | 2,29 | 1,75 | 1,00 | 1,00 |
-| Goles a favor 1ª parte | 1,00 | 0,25 | 0,56 | 0,40 |
-| Goles a favor 2ª parte | 0,29 | 0,25 | 1,44 | 1,60 |
-| Goles en contra 1ª parte | 0,86 | 0,50 | 0,33 | 0,40 |
-| Goles en contra 2ª parte | 1,43 | 1,25 | 0,67 | 0,60 |
+| Partidos analizados | 7 | 4 | 10 | 6 |
+| Forma (últimos 5) | DDDDD | DDDE | DVVEV | DVEEE |
+| Balance | 1V 1E 5D | 0V 1E 3D | 5V 3E 2D | 2V 3E 1D |
+| Goles a favor / partido | 1,29 | 0,50 | 1,80 | 1,67 |
+| Goles en contra / partido | 2,29 | 1,75 | 1,20 | 1,33 |
+| Goles a favor 1ª parte | 1,00 | 0,25 | 0,50 | 0,33 |
+| Goles a favor 2ª parte | 0,29 | 0,25 | 1,30 | 1,33 |
+| Goles en contra 1ª parte | 0,86 | 0,50 | 0,50 | 0,67 |
+| Goles en contra 2ª parte | 1,43 | 1,25 | 0,70 | 0,67 |
 | Más de 1,5 goles | 86% | 75% | 100% | 100% |
-| Más de 2,5 goles | 71% | 50% | 56% | 60% |
-| Más de 3,5 goles | 29% | 0% | 33% | 40% |
-| Ambos marcan | 71% | 50% | 56% | 80% |
-| Portería a cero | 0% | 0% | 33% | 20% |
-| Se queda sin marcar | 29% | 50% | 11% | 0% |
-| xG a favor | 1,19 | 1,42 | 1,79 | 1,63 |
-| xG en contra | 2,18 | 1,98 | 1,15 | 1,39 |
-| Tiros / partido | 14,3 | 16,8 | 13,1 | 12,8 |
-| Tiros a puerta / partido | 3,9 | 4,0 | 5,2 | 5,6 |
-| Tiros recibidos | 16,4 | 15,2 | 10,2 | 10,8 |
-| Tiros a puerta recibidos | 6,6 | 6,2 | 3,4 | 3,6 |
-| Posesión media % | 51 | 53 | 58 | 57 |
-| Córners a favor | 3,9 | 5,0 | 3,7 | 3,4 |
-| Córners en contra | 5,7 | 5,8 | 2,9 | 3,4 |
+| Más de 2,5 goles | 71% | 50% | 60% | 67% |
+| Más de 3,5 goles | 29% | 0% | 30% | 33% |
+| Ambos marcan | 71% | 50% | 50% | 67% |
+| Portería a cero | 0% | 0% | 30% | 17% |
+| Se queda sin marcar | 29% | 50% | 20% | 17% |
+| xG a favor | 1,19 | 1,42 | 1,62 | 1,39 |
+| xG en contra | 2,18 | 1,98 | 1,35 | 1,69 |
+| Tiros / partido | 14,3 | 16,8 | 12,1 | 11,2 |
+| Tiros a puerta / partido | 3,9 | 4,0 | 4,7 | 4,7 |
+| Tiros recibidos | 16,4 | 15,2 | 11,2 | 12,3 |
+| Tiros a puerta recibidos | 6,6 | 6,2 | 3,8 | 4,2 |
+| Posesión media % | 51 | 53 | 56 | 53 |
+| Córners a favor | 3,9 | 5,0 | 3,7 | 3,5 |
+| Córners en contra | 5,7 | 5,8 | 3,2 | 3,8 |
 | Córners a favor 1ª parte | 1,9 | 1,5 | 1,8 | 1,8 |
-| Córners a favor 2ª parte | 2,0 | 3,5 | 1,9 | 1,6 |
-| Córners totales del partido | 9,6 | 10,8 | 6,6 | 6,8 |
-| Córners totales 1ª parte | 4,0 | 3,8 | 3,0 | 3,6 |
-| Córners totales 2ª parte | 5,6 | 7,0 | 3,6 | 3,2 |
-| Más de 8,5 córners | 57% | 75% | 11% | 0% |
-| Más de 9,5 córners | 57% | 75% | 11% | 0% |
-| Más de 10,5 córners | 43% | 50% | 11% | 0% |
-| Faltas cometidas | 11,0 | 11,5 | 10,1 | 11,4 |
-| Faltas recibidas | 8,9 | 9,8 | 12,1 | 12,2 |
-| Amarillas propias | 1,9 | 2,8 | 1,7 | 2,4 |
-| Amarillas del rival | 0,4 | 0,2 | 1,9 | 1,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,20 |
+| Córners a favor 2ª parte | 2,0 | 3,5 | 1,9 | 1,7 |
+| Córners totales del partido | 9,6 | 10,8 | 6,9 | 7,3 |
+| Córners totales 1ª parte | 4,0 | 3,8 | 3,1 | 3,7 |
+| Córners totales 2ª parte | 5,6 | 7,0 | 3,8 | 3,7 |
+| Más de 8,5 córners | 57% | 75% | 20% | 17% |
+| Más de 9,5 córners | 57% | 75% | 20% | 17% |
+| Más de 10,5 córners | 43% | 50% | 10% | 0% |
+| Faltas cometidas | 11,0 | 11,5 | 10,6 | 12,0 |
+| Faltas recibidas | 8,9 | 9,8 | 12,7 | 13,2 |
+| Amarillas propias | 1,9 | 2,8 | 1,8 | 2,5 |
+| Amarillas del rival | 0,4 | 0,2 | 1,9 | 1,3 |
+| Rojas / partido | 0,00 | 0,00 | 0,20 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Udinese | Recibe Udinese | Tarjetas Udinese | Goles AC Milan | Recibe AC Milan | Tarjetas AC Milan |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 2 | 2 | 1 | 1 |
-| 16-30' | 2 | 1 | 3 | 1 | 1 | 1 |
-| 31-45' | 4 | 4 | 4 | 2 | 1 | 3 |
+| 1-15' | 1 | 1 | 2 | 2 | 2 | 1 |
+| 16-30' | 2 | 1 | 3 | 1 | 1 | 2 |
+| 31-45' | 4 | 4 | 4 | 2 | 2 | 4 |
 | 46-60' | 1 | 3 | 0 | 2 | 1 | 2 |
-| 61-75' | 0 | 4 | 1 | 10 | 2 | 2 |
-| 76-90' | 1 | 3 | 3 | 1 | 3 | 7 |
+| 61-75' | 0 | 4 | 1 | 10 | 2 | 3 |
+| 76-90' | 1 | 3 | 3 | 1 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -135,33 +167,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de AC Milan
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | fuera | 4-6 | 3 (0) - 20 (7) | 3-2 |
 | 2026-10-18 | Serie A | AC Milan 3-2 Atalanta | casa | 2-2 | 11 (6) - 12 (4) | 1-2 |
 | 2026-10-15 | Europa League | Red Bull Salzburg 0-4 AC Milan | fuera | 2-3 | 15 (10) - 14 (2) | 1-1 |
 | 2026-10-11 | Serie A | Sassuolo 1-1 AC Milan | fuera | 5-3 | 11 (6) - 10 (4) | 4-2 |
 | 2026-09-20 | Serie A | AC Milan 3-0 Lecce | casa | 2-3 | 10 (4) - 6 (3) | 0-1 |
 | 2026-09-16 | Europa League | AC Milan 0-2 Benfica | casa | 10-1 | 17 (4) - 11 (4) | 1-5 |
-| 2026-09-12 | Serie A | Lazio 2-2 AC Milan | fuera | 5-2 | 16 (7) - 8 (6) | 3-2 |
 
 ## Jugadores de AC Milan
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Mike Maignan | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| Strahinja Pavlović | D | 9 | 801 | 0 | 1 | 6 | 0,7 | 3 | 0,3 | 8 | 10 | 1,1 | 3 | 0 |
-| Koni De Winter | D | 9 | 790 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 14 | 4 | 0,4 | 1 | 0 |
+| S. Pavlović | D | 10 | 891 | 0 | 1 | 7 | 0,7 | 3 | 0,3 | 10 | 15 | 1,5 | 3 | 0 |
+| K. De Winter | D | 10 | 880 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 16 | 6 | 0,6 | 2 | 0 |
+| M. Maignan | G | 10 | 837 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,3 | 0 | 1 |
 | Gonçalo Ramos | F | 9 | 745 | 3 | 1 | 22 | 2,4 | 10 | 1,1 | 12 | 9 | 1,0 | 0 | 0 |
+| Y. Musah | M | 9 | 662 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 11 | 1,2 | 0 | 0 |
 | Mario Gila | D | 8 | 650 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 7 | 9 | 1,1 | 1 | 0 |
 | Samuel Chukwueze | M | 8 | 614 | 0 | 2 | 7 | 0,9 | 4 | 0,5 | 0 | 2 | 0,2 | 0 | 0 |
-| Yunus Musah | M | 8 | 572 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 3 | 10 | 1,2 | 0 | 0 |
-| Adrien Rabiot | F | 9 | 564 | 4 | 4 | 10 | 1,1 | 5 | 0,6 | 8 | 9 | 1,0 | 1 | 0 |
+| A. Rabiot | M | 10 | 609 | 4 | 4 | 10 | 1,0 | 5 | 0,5 | 11 | 10 | 1,0 | 1 | 0 |
 | Luka Modrić | M | 8 | 460 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 4 | 0,5 | 0 | 0 |
-| A. Cissè | M | 7 | 360 | 5 | 0 | 11 | 1,6 | 7 | 1,0 | 6 | 10 | 1,4 | 1 | 0 |
+| A. Cissè | F | 8 | 450 | 5 | 0 | 11 | 1,4 | 7 | 0,9 | 7 | 13 | 1,6 | 1 | 0 |
+| Diego Moreira | M | 7 | 416 | 3 | 1 | 6 | 0,9 | 4 | 0,6 | 1 | 7 | 1,0 | 0 | 0 |
+| P. Estupiñán | M | 8 | 385 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 1 | 0,1 | 2 | 0 |
+| R. Loftus-Cheek | M | 8 | 360 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 3 | 3 | 0,4 | 0 | 0 |
+| A. Jashari | M | 8 | 360 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 2 | 2 | 0,2 | 0 | 0 |
 | Christian Pulišić | F | 6 | 342 | 1 | 1 | 5 | 0,8 | 4 | 0,7 | 3 | 5 | 0,8 | 1 | 0 |
-| Diego Moreira | M | 6 | 340 | 3 | 1 | 6 | 1,0 | 4 | 0,7 | 1 | 5 | 0,8 | 0 | 0 |
-| Pervis Estupiñán | D | 7 | 340 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 1 | 0,1 | 1 | 0 |
-| Ruben Loftus-Cheek | M | 7 | 315 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 2 | 2 | 0,3 | 0 | 0 |
-| D. Bartesaghi | M | 5 | 272 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,4 | 0 | 0 |
-| Ardon Jashari | M | 7 | 270 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
+| D. Bartesaghi | D | 6 | 317 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
+| O. Hutchinson | M | 6 | 227 | 0 | 1 | 5 | 0,8 | 3 | 0,5 | 3 | 4 | 0,7 | 1 | 0 |
 | Alexis Saelemaekers | F | 5 | 218 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 7 | 1,4 | 0 | 0 |
-| Omari Hutchinson | F | 5 | 195 | 0 | 1 | 5 | 1,0 | 3 | 0,6 | 3 | 4 | 0,8 | 1 | 0 |
-| Fikayo Tomori | D | 2 | 79 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| F. Tomori | D | 3 | 145 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 1 | 0 |
 | F. Camarda | F | 3 | 73 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,3 | 0 | 0 |

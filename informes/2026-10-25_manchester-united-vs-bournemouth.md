@@ -1,10 +1,10 @@
 # Manchester United – Bournemouth
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 20:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 23:40._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 20:46_
+_Actualizadas: 22/10 23:40_
 
 - **1X2:** 1 **1.95**  ·  X **3.80**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
@@ -34,57 +34,100 @@ _Actualizadas: 22/10 20:46_
 - **Tarjetas más/menos:**
     - 4,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.40**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **4.00**
+- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **15.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Home Team Total Cards:**
+    - 1,5: más **1.73** · menos **2.00**
+- **Away Team Total Cards:**
+    - 2,5: más **1.73** · menos **2.00**
+- **Total ShotOnGoal:**
+    - 9,5: más **1.83** · menos **1.83**
+- **ShotOnTarget 1x2:** 1 **1.44**  ·  X **8.00**  ·  2 **3.25**
+- **Total Shots:**
+    - 27,5: más **1.80** · menos **1.91**
+- **Shots.1x2:** 1 **1.25**  ·  X **17.00**  ·  2 **3.75**
+- **Offsides Total:**
+    - 2,5: más **1.67** · menos **2.10**
+- **Offsides Home Total:**
+    - 1,5: más **2.10** · menos **1.67**
+- **Offsides Away Total:**
+    - 1,5: más **2.20** · menos **1.62**
+- **Home Player Shots On Target Total:** Matheus Cunha - 2 **3.00**  ·  Matheus Cunha - 3 **8.00**  ·  Matheus Cunha - 4 **21.00**  ·  Benjamin Sesko - 1 **1.28**  ·  Matheus Cunha - 1 **1.40**  ·  Joshua Zirkzee - 1 **1.36**  ·  Bryan Mbeumo - 1 **1.33**  ·  Marcus Rashford - 1 **1.44**  ·  Bruno Fernandes - 1 **1.44**  ·  Patrick Dorgu - 1 **2.50**  ·  Shea Lacey - 1 **2.00**  ·  Mason Mount - 1 **2.20**  ·  Andrey Santos - 1 **2.25**  ·  Youri Tielemans - 1 **2.10**  ·  Kobbie Mainoo - 1 **3.40**  ·  Diogo Dalot - 1 **2.62**  ·  Harry Maguire - 1 **3.40**  ·  Matthijs de Ligt - 1 **4.33**  ·  Ayden Heaven - 1 **4.33**  ·  Leny Yoro - 1 **6.50**  ·  Noussair Mazraoui - 1 **5.50**  ·  Lisandro Martinez - 1 **4.33**  ·  Luke Shaw - 1 **6.50**  ·  Benjamin Sesko - 2 **2.25**  ·  Joshua Zirkzee - 2 **2.62**  ·  Bryan Mbeumo - 2 **2.62**  ·  Marcus Rashford - 2 **3.00**  ·  Bruno Fernandes - 2 **3.00**  ·  Patrick Dorgu - 2 **10.00**  ·  Shea Lacey - 2 **6.50**  ·  Mason Mount - 2 **8.00**  ·  Andrey Santos - 2 **9.00**  ·  Youri Tielemans - 2 **7.00**  ·  Kobbie Mainoo - 2 **17.00**  ·  Diogo Dalot - 2 **11.00**  ·  Harry Maguire - 2 **17.00**  ·  Matthijs de Ligt - 2 **21.00**  ·  Ayden Heaven - 2 **21.00**  ·  Lisandro Martinez - 2 **21.00**  ·  Benjamin Sesko - 3 **5.50**  ·  Joshua Zirkzee - 3 **7.00**  ·  Bryan Mbeumo - 3 **6.50**  ·  Marcus Rashford - 3 **9.00**  ·  Bruno Fernandes - 3 **9.00**  ·  Shea Lacey - 3 **21.00**  ·  Youri Tielemans - 3 **21.00**  ·  Benjamin Sesko - 4 **15.00**  ·  Joshua Zirkzee - 4 **19.00**  ·  Bryan Mbeumo - 4 **19.00**  ·  Marcus Rashford - 4 **21.00**  ·  Bruno Fernandes - 4 **21.00**  ·  Harry Amass - 1 **3.40**  ·  Tyler Fletcher - 1 **2.75**  ·  Tyler Fletcher - 2 **13.00**  ·  Harry Amass - 2 **17.00**  ·  Carlos Baleba - 1 **2.75**  ·  Carlos Baleba - 2 **13.00**  ·  Amad Diallo - 1 **1.67**  ·  Amad Diallo - 2 **4.33**  ·  Amad Diallo - 3 **15.00**  ·  Daniel Armer - 1 **3.75**  ·  Daniel Armer - 2 **19.00**
+- **Away Player Shots On Target Total:** Alvaro Rodriguez **9.50**  ·  Bruno Fernandes **29.00**  ·  Ben Doak **29.00**  ·  Antonio Silva **17.00**  ·  Diogo Dalot **81.00**  ·  Lisandro Martinez **34.00**  ·  Julio Soler **101.00**  ·  Shea Lacey **21.00**  ·  Bafode Diakite **17.00**  ·  Daniel Jebbison **12.00**  ·  Andrey Santos **23.00**  ·  Adrien Truffert **126.00**  ·  Matheus Cunha **17.00**  ·  Juanlu Sanchez **81.00**  ·  Tyler Adams **81.00**  ·  Tyler Fletcher **34.00**  ·  Veljko Milosavljevic **26.00**  ·  Daniel Armer **29.00**  ·  Alex Toth **41.00**  ·  Adam Smith **151.00**  ·  Alex Scott **67.00**  ·  Justin Kluivert **81.00**  ·  Lewis Cook **101.00**  ·  Marcus Tavernier **23.00**  ·  Ryan Christie **67.00**  ·  Youri Tielemans **41.00**  ·  Carlos Baleba **41.00**  ·  Amad Diallo **41.00**  ·  Bryan Mbeumo **12.00**  ·  Harry Maguire **12.00**  ·  Joshua Zirkzee **15.00**  ·  Kobbie Mainoo **67.00**  ·  Luke Shaw **126.00**  ·  Marcus Rashford **29.00**  ·  Mason Mount **29.00**  ·  Matthijs de Ligt **13.00**  ·  Noussair Mazraoui **67.00**  ·  Rayan Vitor **26.00**  ·  Leny Yoro **23.00**  ·  Benjamin Sesko **6.50**  ·  Harry Amass **67.00**  ·  David Brooks **29.00**  ·  James Hill **15.00**  ·  Evanilson **12.00**  ·  Ayden Heaven **17.00**  ·  Amine Adli **23.00**  ·  Patrick Dorgu **15.00**
+- **Away Player Shots Total:**
+    - 11,5: más **2.00** · menos **1.73**
+- **Home Player Shots:** Matheus Cunha - 2 **1.22**  ·  Matheus Cunha - 3 **1.67**  ·  Matheus Cunha - 4 **2.62**  ·  Matheus Cunha - 5 **4.50**  ·  Matheus Cunha - 6 **9.00**  ·  Benjamin Sesko - 1 **1.02**  ·  Matheus Cunha - 1 **1.04**  ·  Joshua Zirkzee - 1 **1.03**  ·  Bryan Mbeumo - 1 **1.03**  ·  Marcus Rashford - 1 **1.04**  ·  Bruno Fernandes - 1 **1.04**  ·  Patrick Dorgu - 1 **1.22**  ·  Shea Lacey - 1 **1.22**  ·  Mason Mount - 1 **1.25**  ·  Andrey Santos - 1 **1.28**  ·  Youri Tielemans - 1 **1.18**  ·  Kobbie Mainoo - 1 **1.50**  ·  Diogo Dalot - 1 **1.33**  ·  Harry Maguire - 1 **1.50**  ·  Matthijs de Ligt - 1 **1.73**  ·  Ayden Heaven - 1 **1.73**  ·  Leny Yoro - 1 **2.20**  ·  Noussair Mazraoui - 1 **2.00**  ·  Lisandro Martinez - 1 **1.83**  ·  Luke Shaw - 1 **2.50**  ·  Benjamin Sesko - 2 **1.17**  ·  Joshua Zirkzee - 2 **1.20**  ·  Bryan Mbeumo - 2 **1.18**  ·  Marcus Rashford - 2 **1.22**  ·  Bruno Fernandes - 2 **1.22**  ·  Patrick Dorgu - 2 **1.91**  ·  Shea Lacey - 2 **1.91**  ·  Mason Mount - 2 **2.00**  ·  Andrey Santos - 2 **2.20**  ·  Youri Tielemans - 2 **1.80**  ·  Kobbie Mainoo - 2 **3.25**  ·  Diogo Dalot - 2 **2.50**  ·  Harry Maguire - 2 **3.25**  ·  Matthijs de Ligt - 2 **4.33**  ·  Ayden Heaven - 2 **4.33**  ·  Leny Yoro - 2 **7.00**  ·  Noussair Mazraoui - 2 **6.00**  ·  Lisandro Martinez - 2 **5.00**  ·  Luke Shaw - 2 **9.00**  ·  Benjamin Sesko - 3 **1.50**  ·  Joshua Zirkzee - 3 **1.57**  ·  Bryan Mbeumo - 3 **1.53**  ·  Marcus Rashford - 3 **1.67**  ·  Bruno Fernandes - 3 **1.62**  ·  Patrick Dorgu - 3 **3.75**  ·  Shea Lacey - 3 **3.75**  ·  Mason Mount - 3 **4.00**  ·  Andrey Santos - 3 **4.50**  ·  Youri Tielemans - 3 **3.40**  ·  Kobbie Mainoo - 3 **8.00**  ·  Diogo Dalot - 3 **5.50**  ·  Harry Maguire - 3 **8.00**  ·  Matthijs de Ligt - 3 **13.00**  ·  Ayden Heaven - 3 **13.00**  ·  Leny Yoro - 3 **21.00**  ·  Noussair Mazraoui - 3 **19.00**  ·  Lisandro Martinez - 3 **15.00**  ·  Luke Shaw - 3 **21.00**  ·  Benjamin Sesko - 4 **2.20**  ·  Joshua Zirkzee - 4 **2.38**  ·  Bryan Mbeumo - 4 **2.25**  ·  Marcus Rashford - 4 **2.62**  ·  Bruno Fernandes - 4 **2.50**  ·  Patrick Dorgu - 4 **9.00**  ·  Shea Lacey - 4 **9.00**  ·  Mason Mount - 4 **10.00**  ·  Andrey Santos - 4 **11.00**  ·  Youri Tielemans - 4 **7.00**  ·  Kobbie Mainoo - 4 **21.00**  ·  Diogo Dalot - 4 **13.00**  ·  Harry Maguire - 4 **21.00**  ·  Benjamin Sesko - 5 **3.75**  ·  Joshua Zirkzee - 5 **4.00**  ·  Bryan Mbeumo - 5 **3.75**  ·  Marcus Rashford - 5 **4.50**  ·  Bruno Fernandes - 5 **4.33**  ·  Patrick Dorgu - 5 **19.00**  ·  Shea Lacey - 5 **19.00**  ·  Mason Mount - 5 **21.00**  ·  Andrey Santos - 5 **21.00**  ·  Youri Tielemans - 5 **15.00**  ·  Benjamin Sesko - 6 **6.50**  ·  Joshua Zirkzee - 6 **8.00**  ·  Bryan Mbeumo - 6 **7.00**  ·  Marcus Rashford - 6 **9.00**  ·  Bruno Fernandes - 6 **8.00**  ·  Benjamin Sesko - 7 **13.00**  ·  Matheus Cunha - 7 **17.00**  ·  Joshua Zirkzee - 7 **15.00**  ·  Bryan Mbeumo - 7 **13.00**  ·  Marcus Rashford - 7 **17.00**  ·  Bruno Fernandes - 7 **15.00**  ·  Benjamin Sesko - 8 **21.00**  ·  Joshua Zirkzee - 8 **21.00**  ·  Bryan Mbeumo - 8 **21.00**  ·  Harry Amass - 1 **1.50**  ·  Tyler Fletcher - 1 **1.44**  ·  Tyler Fletcher - 2 **2.75**  ·  Harry Amass - 2 **3.25**  ·  Tyler Fletcher - 3 **7.00**  ·  Harry Amass - 3 **8.00**  ·  Tyler Fletcher - 4 **19.00**  ·  Harry Amass - 4 **21.00**  ·  Carlos Baleba - 1 **1.28**  ·  Carlos Baleba - 2 **2.20**  ·  Carlos Baleba - 3 **4.50**  ·  Carlos Baleba - 4 **11.00**  ·  Carlos Baleba - 5 **21.00**  ·  Amad Diallo - 1 **1.10**  ·  Amad Diallo - 2 **1.44**  ·  Amad Diallo - 3 **2.25**  ·  Amad Diallo - 4 **4.00**  ·  Amad Diallo - 5 **9.00**  ·  Amad Diallo - 6 **17.00**  ·  Daniel Armer - 1 **1.57**  ·  Daniel Armer - 3 **9.00**  ·  Daniel Armer - 2 **3.50**  ·  Daniel Armer - 4 **21.00**
+- **Away Player Shots:** Evanilson - 1 **1.10**  ·  Rayan Vitor - 1 **1.08**  ·  Alvaro Rodriguez - 1 **1.05**  ·  David Brooks - 1 **1.12**  ·  Daniel Jebbison - 1 **1.10**  ·  Amine Adli - 1 **1.12**  ·  Justin Kluivert - 1 **1.10**  ·  Marcus Tavernier - 1 **1.14**  ·  Ben Doak - 1 **1.20**  ·  Juanlu Sanchez - 1 **1.83**  ·  Alex Scott - 1 **1.44**  ·  Ryan Christie - 1 **1.20**  ·  Alex Toth - 1 **1.80**  ·  Bafode Diakite - 1 **1.91**  ·  James Hill - 1 **2.20**  ·  Antonio Silva - 1 **2.20**  ·  Lewis Cook - 1 **2.20**  ·  Veljko Milosavljevic - 1 **2.20**  ·  Adrien Truffert - 1 **1.91**  ·  Tyler Adams - 1 **2.20**  ·  Adam Smith - 1 **2.20**  ·  Julio Soler - 1 **2.62**  ·  Evanilson - 2 **1.44**  ·  Rayan Vitor - 2 **1.44**  ·  Alvaro Rodriguez - 2 **1.25**  ·  David Brooks - 2 **1.62**  ·  Daniel Jebbison - 2 **1.44**  ·  Amine Adli - 2 **1.62**  ·  Justin Kluivert - 2 **1.44**  ·  Marcus Tavernier - 2 **1.62**  ·  Ben Doak - 2 **1.83**  ·  Juanlu Sanchez - 2 **5.00**  ·  Alex Scott - 2 **3.00**  ·  Ryan Christie - 2 **1.83**  ·  Alex Toth - 2 **4.50**  ·  Bafode Diakite - 2 **5.50**  ·  James Hill - 2 **7.00**  ·  Antonio Silva - 2 **7.00**  ·  Lewis Cook - 2 **7.00**  ·  Veljko Milosavljevic - 2 **7.00**  ·  Adrien Truffert - 2 **5.50**  ·  Tyler Adams - 2 **7.00**  ·  Adam Smith - 2 **7.00**  ·  Julio Soler - 2 **10.00**  ·  Evanilson - 3 **2.38**  ·  Rayan Vitor - 3 **2.25**  ·  Alvaro Rodriguez - 3 **1.80**  ·  David Brooks - 3 **2.62**  ·  Daniel Jebbison - 3 **2.38**  ·  Amine Adli - 3 **2.62**  ·  Justin Kluivert - 3 **2.38**  ·  Marcus Tavernier - 3 **2.75**  ·  Ben Doak - 3 **3.50**  ·  Juanlu Sanchez - 3 **15.00**  ·  Alex Scott - 3 **7.00**  ·  Ryan Christie - 3 **3.50**  ·  Alex Toth - 3 **13.00**  ·  Bafode Diakite - 3 **17.00**  ·  James Hill - 3 **21.00**  ·  Antonio Silva - 3 **21.00**  ·  Lewis Cook - 3 **21.00**  ·  Veljko Milosavljevic - 3 **21.00**  ·  Adrien Truffert - 3 **17.00**  ·  Tyler Adams - 3 **21.00**  ·  Adam Smith - 3 **21.00**  ·  Evanilson - 4 **4.33**  ·  Rayan Vitor - 4 **4.00**  ·  Alvaro Rodriguez - 4 **2.75**  ·  David Brooks - 4 **5.50**  ·  Daniel Jebbison - 4 **4.33**  ·  Amine Adli - 4 **5.50**  ·  Justin Kluivert - 4 **4.33**  ·  Marcus Tavernier - 4 **5.50**  ·  Ben Doak - 4 **8.00**  ·  Alex Scott - 4 **19.00**  ·  Ryan Christie - 4 **8.00**  ·  Evanilson - 5 **9.00**  ·  Rayan Vitor - 5 **8.00**  ·  Alvaro Rodriguez - 5 **5.00**  ·  David Brooks - 5 **11.00**  ·  Daniel Jebbison - 5 **9.00**  ·  Amine Adli - 5 **11.00**  ·  Justin Kluivert - 5 **9.00**  ·  Marcus Tavernier - 5 **13.00**  ·  Ben Doak - 5 **17.00**  ·  Ryan Christie - 5 **17.00**  ·  Evanilson - 6 **19.00**  ·  Rayan Vitor - 6 **17.00**  ·  Alvaro Rodriguez - 6 **10.00**  ·  David Brooks - 6 **21.00**  ·  Daniel Jebbison - 6 **19.00**  ·  Amine Adli - 6 **21.00**  ·  Justin Kluivert - 6 **19.00**  ·  Marcus Tavernier - 6 **21.00**  ·  Alvaro Rodriguez - 7 **19.00**
+- **Player Fouls Committed:** Evanilson - 1 **1.30**  ·  Rayan Vitor - 1 **1.50**  ·  Alvaro Rodriguez - 1 **1.11**  ·  David Brooks - 1 **1.40**  ·  Daniel Jebbison - 1 **1.11**  ·  Amine Adli - 1 **1.28**  ·  Justin Kluivert - 1 **1.20**  ·  Marcus Tavernier - 1 **1.36**  ·  Ben Doak - 1 **1.33**  ·  Juanlu Sanchez - 1 **1.22**  ·  Alex Scott - 1 **1.22**  ·  Ryan Christie - 1 **1.14**  ·  Alex Toth - 1 **1.22**  ·  Bafode Diakite - 1 **1.36**  ·  James Hill - 1 **1.28**  ·  Antonio Silva - 1 **1.28**  ·  Lewis Cook - 1 **1.36**  ·  Veljko Milosavljevic - 1 **1.22**  ·  Adrien Truffert - 1 **1.25**  ·  Tyler Adams - 1 **1.18**  ·  Adam Smith - 1 **1.40**  ·  Julio Soler - 1 **1.62**  ·  Evanilson - 2 **2.38**  ·  Rayan Vitor - 2 **3.40**  ·  Alvaro Rodriguez - 2 **1.57**  ·  David Brooks - 2 **2.75**  ·  Daniel Jebbison - 2 **1.57**  ·  Amine Adli - 2 **2.20**  ·  Justin Kluivert - 2 **1.83**  ·  Marcus Tavernier - 2 **2.62**  ·  Ben Doak - 2 **2.50**  ·  Juanlu Sanchez - 2 **2.00**  ·  Alex Scott - 2 **1.91**  ·  Ryan Christie - 2 **1.67**  ·  Alex Toth - 2 **2.00**  ·  Bafode Diakite - 2 **2.62**  ·  James Hill - 2 **2.20**  ·  Antonio Silva - 2 **2.20**  ·  Lewis Cook - 2 **2.62**  ·  Veljko Milosavljevic - 2 **2.00**  ·  Adrien Truffert - 2 **2.10**  ·  Tyler Adams - 2 **1.83**  ·  Adam Smith - 2 **2.75**  ·  Julio Soler - 2 **3.75**  ·  Evanilson - 3 **5.50**  ·  Rayan Vitor - 3 **9.00**  ·  Alvaro Rodriguez - 3 **2.62**  ·  David Brooks - 3 **7.00**  ·  Daniel Jebbison - 3 **2.62**  ·  Amine Adli - 3 **5.00**  ·  Justin Kluivert - 3 **3.75**  ·  Marcus Tavernier - 3 **6.50**  ·  Ben Doak - 3 **6.00**  ·  Juanlu Sanchez - 3 **4.33**  ·  Alex Scott - 3 **4.00**  ·  Ryan Christie - 3 **3.00**  ·  Alex Toth - 3 **4.33**  ·  Bafode Diakite - 3 **6.50**  ·  James Hill - 3 **5.00**  ·  Antonio Silva - 3 **5.00**  ·  Lewis Cook - 3 **6.50**  ·  Veljko Milosavljevic - 3 **4.33**  ·  Adrien Truffert - 3 **4.50**  ·  Tyler Adams - 3 **3.50**  ·  Adam Smith - 3 **7.00**  ·  Julio Soler - 3 **11.00**  ·  Evanilson - 4 **15.00**  ·  Rayan Vitor - 4 **23.00**  ·  Alvaro Rodriguez - 4 **5.50**  ·  David Brooks - 4 **19.00**  ·  Daniel Jebbison - 4 **5.50**  ·  Amine Adli - 4 **13.00**  ·  Justin Kluivert - 4 **9.00**  ·  Marcus Tavernier - 4 **17.00**  ·  Ben Doak - 4 **15.00**  ·  Juanlu Sanchez - 4 **10.00**  ·  Alex Scott - 4 **10.00**  ·  Ryan Christie - 4 **6.00**  ·  Alex Toth - 4 **10.00**  ·  Bafode Diakite - 4 **17.00**  ·  James Hill - 4 **13.00**  ·  Alvaro Rodriguez - 5 **13.00**  ·  Daniel Jebbison - 5 **13.00**  ·  Justin Kluivert - 5 **21.00**  ·  Juanlu Sanchez - 5 **23.00**  ·  Alex Scott - 5 **21.00**  ·  Ryan Christie - 5 **15.00**  ·  Alvaro Rodriguez - 6 **26.00**  ·  Daniel Jebbison - 6 **26.00**  ·  Matheus Cunha - 2 **2.62**  ·  Matheus Cunha - 3 **6.50**  ·  Matheus Cunha - 4 **19.00**  ·  Benjamin Sesko - 1 **1.40**  ·  Matheus Cunha - 1 **1.40**  ·  Joshua Zirkzee - 1 **1.53**  ·  Bryan Mbeumo - 1 **1.67**  ·  Marcus Rashford - 1 **1.67**  ·  Bruno Fernandes - 1 **1.50**  ·  Patrick Dorgu - 1 **1.20**  ·  Shea Lacey - 1 **1.44**  ·  Mason Mount - 1 **1.44**  ·  Andrey Santos - 1 **1.28**  ·  Youri Tielemans - 1 **1.44**  ·  Kobbie Mainoo - 1 **1.44**  ·  Diogo Dalot - 1 **1.40**  ·  Harry Maguire - 1 **1.44**  ·  Matthijs de Ligt - 1 **2.00**  ·  Ayden Heaven - 1 **1.36**  ·  Leny Yoro - 1 **1.40**  ·  Noussair Mazraoui - 1 **1.44**  ·  Lisandro Martinez - 1 **1.44**  ·  Luke Shaw - 1 **1.53**  ·  Benjamin Sesko - 2 **2.62**  ·  Joshua Zirkzee - 2 **3.50**  ·  Bryan Mbeumo - 2 **4.00**  ·  Marcus Rashford - 2 **4.00**  ·  Bruno Fernandes - 2 **3.40**  ·  Patrick Dorgu - 2 **1.91**  ·  Shea Lacey - 2 **3.00**  ·  Mason Mount - 2 **3.00**  ·  Andrey Santos - 2 **2.25**  ·  Youri Tielemans - 2 **3.00**  ·  Kobbie Mainoo - 2 **3.00**  ·  Diogo Dalot - 2 **2.62**  ·  Harry Maguire - 2 **3.00**  ·  Matthijs de Ligt - 2 **6.00**  ·  Ayden Heaven - 2 **2.62**  ·  Leny Yoro - 2 **2.62**  ·  Noussair Mazraoui - 2 **3.00**  ·  Lisandro Martinez - 2 **3.00**  ·  Luke Shaw - 2 **3.50**  ·  Benjamin Sesko - 3 **6.50**  ·  Joshua Zirkzee - 3 **10.00**  ·  Bryan Mbeumo - 3 **13.00**  ·  Marcus Rashford - 3 **13.00**  ·  Bruno Fernandes - 3 **9.00**  ·  Patrick Dorgu - 3 **3.75**  ·  Shea Lacey - 3 **8.00**  ·  Mason Mount - 3 **8.00**  ·  Andrey Santos - 3 **5.00**  ·  Youri Tielemans - 3 **8.00**  ·  Kobbie Mainoo - 3 **8.00**  ·  Diogo Dalot - 3 **6.50**  ·  Harry Maguire - 3 **8.00**  ·  Matthijs de Ligt - 3 **19.00**  ·  Ayden Heaven - 3 **6.00**  ·  Leny Yoro - 3 **6.50**  ·  Noussair Mazraoui - 3 **8.00**  ·  Lisandro Martinez - 3 **8.00**  ·  Luke Shaw - 3 **10.00**  ·  Benjamin Sesko - 4 **19.00**  ·  Joshua Zirkzee - 4 **26.00**  ·  Bruno Fernandes - 4 **23.00**  ·  Patrick Dorgu - 4 **9.00**  ·  Shea Lacey - 4 **21.00**  ·  Mason Mount - 4 **21.00**  ·  Andrey Santos - 4 **13.00**  ·  Youri Tielemans - 4 **21.00**  ·  Kobbie Mainoo - 4 **21.00**  ·  Diogo Dalot - 4 **19.00**  ·  Harry Maguire - 4 **21.00**  ·  Patrick Dorgu - 5 **21.00**  ·  Ayden Heaven - 4 **17.00**  ·  Noussair Mazraoui - 4 **21.00**  ·  Leny Yoro - 4 **19.00**  ·  Tyler Adams - 4 **8.00**  ·  Veljko Milosavljevic - 4 **10.00**  ·  Adrien Truffert - 4 **11.00**  ·  Antonio Silva - 4 **13.00**  ·  Adam Smith - 4 **19.00**  ·  Lewis Cook - 4 **17.00**  ·  Tyler Adams - 5 **19.00**  ·  Luke Shaw - 4 **26.00**  ·  Adrien Truffert - 5 **26.00**  ·  Alex Toth - 5 **23.00**  ·  Veljko Milosavljevic - 5 **23.00**  ·  Lisandro Martinez - 4 **21.00**  ·  Harry Amass - 1 **1.40**  ·  Tyler Fletcher - 1 **1.33**  ·  Tyler Fletcher - 2 **2.50**  ·  Harry Amass - 2 **2.75**  ·  Tyler Fletcher - 3 **6.00**  ·  Harry Amass - 3 **7.00**  ·  Tyler Fletcher - 4 **15.00**  ·  Harry Amass - 4 **19.00**  ·  Carlos Baleba - 1 **1.14**  ·  Carlos Baleba - 2 **1.73**  ·  Carlos Baleba - 3 **3.25**  ·  Carlos Baleba - 4 **7.00**  ·  Carlos Baleba - 5 **17.00**  ·  Amad Diallo - 1 **1.53**  ·  Amad Diallo - 2 **3.50**  ·  Amad Diallo - 3 **10.00**  ·  Amad Diallo - 4 **26.00**  ·  Daniel Armer - 1 **1.44**  ·  Daniel Armer - 3 **8.00**  ·  Daniel Armer - 2 **3.00**  ·  Daniel Armer - 4 **21.00**
+- **Goalkeeper Saves:** Djordje Petrovic **8.00**  ·  Senne Lammens - 1 **1.05**  ·  Senne Lammens - 2 **1.28**  ·  Senne Lammens - 3 **1.83**  ·  Senne Lammens - 4 **3.40**  ·  Senne Lammens - 5 **6.50**  ·  Djordje Petrovic - 1 **1.07**  ·  Djordje Petrovic - 2 **1.28**  ·  Djordje Petrovic - 3 **1.67**  ·  Djordje Petrovic - 4 **2.50**  ·  Djordje Petrovic - 5 **4.33**  ·  Djordje Petrovic - 6 **4.33**  ·  Djordje Petrovic - 7 **9.00**
+- **Anytime Goal Scorer:** Alvaro Rodriguez **3.60**  ·  Bruno Fernandes **2.88**  ·  Ben Doak **5.50**  ·  Antonio Silva **11.00**  ·  Diogo Dalot **9.00**  ·  Lisandro Martinez **13.00**  ·  Julio Soler **17.00**  ·  Shea Lacey **4.50**  ·  Bafode Diakite **11.00**  ·  Daniel Jebbison **3.50**  ·  Andrey Santos **6.50**  ·  Adrien Truffert **13.00**  ·  Matheus Cunha **2.88**  ·  Juanlu Sanchez **10.00**  ·  Tyler Adams **13.00**  ·  Tyler Fletcher **7.00**  ·  Veljko Milosavljevic **13.00**  ·  Daniel Armer **11.00**  ·  Alex Toth **10.00**  ·  Adam Smith **17.00**  ·  Alex Scott **8.00**  ·  Justin Kluivert **4.33**  ·  Lewis Cook **11.00**  ·  Marcus Tavernier **4.00**  ·  Ryan Christie **8.00**  ·  Youri Tielemans **6.00**  ·  Carlos Baleba **8.00**  ·  Amad Diallo **4.00**  ·  Bryan Mbeumo **2.62**  ·  Harry Maguire **9.00**  ·  Joshua Zirkzee **3.10**  ·  Kobbie Mainoo **7.00**  ·  Luke Shaw **13.00**  ·  Marcus Rashford **3.50**  ·  Mason Mount **5.50**  ·  Matthijs de Ligt **9.00**  ·  Noussair Mazraoui **13.00**  ·  Rayan Vitor **4.00**  ·  Leny Yoro **13.00**  ·  Benjamin Sesko **2.38**  ·  Harry Amass **8.00**  ·  David Brooks **4.33**  ·  James Hill **11.00**  ·  Evanilson **3.00**  ·  Ayden Heaven **11.00**  ·  Amine Adli **4.50**  ·  Patrick Dorgu **4.00**
+- **Player to Score or Assist:** Alvaro Rodriguez **2.62**  ·  Bruno Fernandes **1.73**  ·  Ben Doak **3.20**  ·  Antonio Silva **7.50**  ·  Diogo Dalot **4.33**  ·  Lisandro Martinez **10.00**  ·  Julio Soler **10.00**  ·  Shea Lacey **3.00**  ·  Bafode Diakite **6.00**  ·  Daniel Jebbison **2.62**  ·  Andrey Santos **3.75**  ·  Adrien Truffert **5.00**  ·  Matheus Cunha **2.00**  ·  Juanlu Sanchez **4.75**  ·  Tyler Adams **8.50**  ·  Tyler Fletcher **4.00**  ·  Veljko Milosavljevic **9.50**  ·  Daniel Armer **6.00**  ·  Alex Toth **3.75**  ·  Adam Smith **10.00**  ·  Alex Scott **4.50**  ·  Justin Kluivert **2.88**  ·  Lewis Cook **5.50**  ·  Marcus Tavernier **2.62**  ·  Ryan Christie **4.00**  ·  Youri Tielemans **3.00**  ·  Carlos Baleba **4.33**  ·  Amad Diallo **2.50**  ·  Bryan Mbeumo **2.00**  ·  Harry Maguire **6.50**  ·  Joshua Zirkzee **2.38**  ·  Kobbie Mainoo **4.33**  ·  Luke Shaw **6.00**  ·  Marcus Rashford **2.20**  ·  Mason Mount **3.40**  ·  Matthijs de Ligt **5.50**  ·  Noussair Mazraoui **7.50**  ·  Rayan Vitor **2.88**  ·  Leny Yoro **9.00**  ·  Benjamin Sesko **2.00**  ·  Harry Amass **4.33**  ·  David Brooks **2.88**  ·  James Hill **7.50**  ·  Evanilson **2.20**  ·  Ayden Heaven **6.50**  ·  Amine Adli **3.10**  ·  Patrick Dorgu **2.62**
 
 ## Estadísticas de equipo
 | | Manchester United (total) | Manchester United en casa | Bournemouth (total) | Bournemouth fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 4 | 9 | 4 |
-| Forma (últimos 5) | DEDEE | EDVV | VVDDV | DVED |
-| Balance | 2V 4E 4D | 2V 1E 1D | 3V 3E 3D | 1V 1E 2D |
-| Goles a favor / partido | 1,50 | 2,50 | 1,56 | 1,50 |
-| Goles en contra / partido | 1,60 | 1,00 | 1,56 | 2,50 |
-| Goles a favor 1ª parte | 0,50 | 1,00 | 1,00 | 1,25 |
-| Goles a favor 2ª parte | 1,00 | 1,50 | 0,56 | 0,25 |
-| Goles en contra 1ª parte | 0,50 | 0,25 | 0,44 | 0,75 |
-| Goles en contra 2ª parte | 1,10 | 0,75 | 1,11 | 1,75 |
-| Más de 1,5 goles | 90% | 75% | 89% | 100% |
-| Más de 2,5 goles | 40% | 50% | 67% | 100% |
-| Más de 3,5 goles | 40% | 50% | 33% | 50% |
-| Ambos marcan | 60% | 50% | 67% | 100% |
-| Portería a cero | 10% | 25% | 22% | 0% |
-| Se queda sin marcar | 30% | 25% | 11% | 0% |
-| xG a favor | 1,70 | 2,48 | 1,92 | 1,13 |
-| xG en contra | 1,44 | 1,39 | 1,07 | 1,35 |
-| Tiros / partido | 18,1 | 20,5 | 15,6 | 10,5 |
-| Tiros a puerta / partido | 5,3 | 7,0 | 5,1 | 4,0 |
-| Tiros recibidos | 11,0 | 9,5 | 9,9 | 11,8 |
-| Tiros a puerta recibidos | 4,4 | 2,5 | 3,6 | 4,8 |
-| Posesión media % | 53 | 56 | 51 | 43 |
-| Córners a favor | 5,9 | 6,2 | 4,8 | 4,0 |
+| Partidos analizados | 10 | 4 | 10 | 4 |
+| Forma (últimos 5) | DEDEE | EDVV | VVVDD | DVED |
+| Balance | 2V 4E 4D | 2V 1E 1D | 4V 3E 3D | 1V 1E 2D |
+| Goles a favor / partido | 1,50 | 2,50 | 1,70 | 1,50 |
+| Goles en contra / partido | 1,60 | 1,00 | 1,40 | 2,50 |
+| Goles a favor 1ª parte | 0,50 | 1,00 | 1,10 | 1,25 |
+| Goles a favor 2ª parte | 1,00 | 1,50 | 0,60 | 0,25 |
+| Goles en contra 1ª parte | 0,50 | 0,25 | 0,40 | 0,75 |
+| Goles en contra 2ª parte | 1,10 | 0,75 | 1,00 | 1,75 |
+| Más de 1,5 goles | 90% | 75% | 90% | 100% |
+| Más de 2,5 goles | 40% | 50% | 70% | 100% |
+| Más de 3,5 goles | 40% | 50% | 30% | 50% |
+| Ambos marcan | 60% | 50% | 60% | 100% |
+| Portería a cero | 10% | 25% | 30% | 0% |
+| Se queda sin marcar | 30% | 25% | 10% | 0% |
+| xG a favor | 1,70 | 2,48 | 2,06 | 1,13 |
+| xG en contra | 1,44 | 1,39 | 0,97 | 1,35 |
+| Tiros / partido | 18,1 | 20,5 | 16,0 | 10,5 |
+| Tiros a puerta / partido | 5,3 | 7,0 | 5,3 | 4,0 |
+| Tiros recibidos | 11,0 | 9,5 | 9,2 | 11,8 |
+| Tiros a puerta recibidos | 4,4 | 2,5 | 3,2 | 4,8 |
+| Posesión media % | 53 | 56 | 52 | 43 |
+| Córners a favor | 5,9 | 6,2 | 4,9 | 4,0 |
 | Córners en contra | 3,0 | 4,2 | 4,4 | 5,8 |
 | Córners a favor 1ª parte | 2,1 | 2,8 | 2,1 | 2,0 |
-| Córners a favor 2ª parte | 3,8 | 3,5 | 2,7 | 2,0 |
-| Córners totales del partido | 8,9 | 10,5 | 9,2 | 9,8 |
+| Córners a favor 2ª parte | 3,8 | 3,5 | 2,8 | 2,0 |
+| Córners totales del partido | 8,9 | 10,5 | 9,3 | 9,8 |
 | Córners totales 1ª parte | 3,5 | 5,0 | 3,9 | 4,2 |
-| Córners totales 2ª parte | 5,4 | 5,5 | 5,3 | 5,5 |
-| Más de 8,5 córners | 40% | 75% | 44% | 50% |
-| Más de 9,5 córners | 30% | 50% | 44% | 50% |
-| Más de 10,5 córners | 30% | 50% | 33% | 50% |
-| Faltas cometidas | 10,3 | 12,2 | 12,8 | 14,0 |
-| Faltas recibidas | 11,4 | 12,8 | 12,9 | 12,8 |
-| Amarillas propias | 1,7 | 1,8 | 3,0 | 3,0 |
-| Amarillas del rival | 2,1 | 2,2 | 1,8 | 1,5 |
+| Córners totales 2ª parte | 5,4 | 5,5 | 5,4 | 5,5 |
+| Más de 8,5 córners | 40% | 75% | 50% | 50% |
+| Más de 9,5 córners | 30% | 50% | 50% | 50% |
+| Más de 10,5 córners | 30% | 50% | 30% | 50% |
+| Faltas cometidas | 10,3 | 12,2 | 13,3 | 14,0 |
+| Faltas recibidas | 11,4 | 12,8 | 13,1 | 12,8 |
+| Amarillas propias | 1,7 | 1,8 | 2,9 | 3,0 |
+| Amarillas del rival | 2,1 | 2,2 | 1,9 | 1,5 |
 | Rojas / partido | 0,10 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United | Goles Bournemouth | Recibe Bournemouth | Tarjetas Bournemouth |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 2 | 0 | 3 | 2 | 2 |
-| 16-30' | 1 | 2 | 2 | 2 | 0 | 3 |
-| 31-45' | 4 | 1 | 1 | 4 | 2 | 5 |
+| 1-15' | 0 | 2 | 0 | 4 | 2 | 2 |
+| 16-30' | 1 | 2 | 2 | 2 | 0 | 5 |
+| 31-45' | 4 | 1 | 1 | 5 | 2 | 5 |
 | 46-60' | 2 | 4 | 2 | 3 | 4 | 3 |
 | 61-75' | 4 | 1 | 3 | 0 | 2 | 6 |
-| 76-90' | 4 | 6 | 10 | 2 | 4 | 8 |
+| 76-90' | 4 | 6 | 10 | 3 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -137,33 +180,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Bournemouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | casa | 6-4 | 20 (7) - 3 (0) | 2-3 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | casa | 5-3 | 29 (6) - 3 (0) | 3-2 |
 | 2026-10-15 | Europa League | Bournemouth 3-0 Sturm Graz | casa | 7-3 | 23 (7) - 6 (1) | 3-3 |
 | 2026-10-10 | Premier League | Chelsea 5-1 Bournemouth | fuera | 7-1 | 9 (4) - 10 (6) | 4-0 |
 | 2026-09-20 | Premier League | Bournemouth 0-1 Liverpool | casa | 3-3 | 9 (2) - 12 (3) | 1-2 |
 | 2026-09-17 | Europa League | Real Sociedad 1-2 Bournemouth | fuera | 3-10 | 11 (3) - 16 (5) | 3-3 |
-| 2026-09-12 | Premier League | Bournemouth 2-2 Brentford | casa | 2-1 | 20 (10) - 8 (2) | 5-1 |
 
 ## Jugadores de Bournemouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| António Silva | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 2 | 0,2 | 8 | 3 | 0,3 | 3 | 0 |
+| J. Hill | D | 10 | 838 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 10 | 7 | 0,7 | 1 | 0 |
 | Đ. Petrović | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| António Silva | D | 9 | 810 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 6 | 3 | 0,3 | 3 | 0 |
-| J. Hill | D | 9 | 748 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 8 | 5 | 0,6 | 1 | 0 |
-| M. Tavernier | M | 9 | 738 | 4 | 0 | 18 | 2,0 | 10 | 1,1 | 8 | 11 | 1,2 | 3 | 0 |
-| Evanilson | F | 9 | 735 | 3 | 4 | 20 | 2,2 | 8 | 0,9 | 13 | 19 | 2,1 | 2 | 0 |
+| A. Truffert | D | 9 | 804 | 0 | 1 | 7 | 0,8 | 2 | 0,2 | 19 | 3 | 0,3 | 3 | 0 |
+| Evanilson | F | 10 | 801 | 3 | 4 | 22 | 2,2 | 9 | 0,9 | 14 | 22 | 2,2 | 2 | 0 |
+| M. Tavernier | M | 10 | 800 | 5 | 0 | 20 | 2,0 | 11 | 1,1 | 8 | 11 | 1,1 | 3 | 0 |
+| Rayan | F | 10 | 736 | 2 | 0 | 23 | 2,3 | 11 | 1,1 | 4 | 9 | 0,9 | 0 | 0 |
 | A. Smith | D | 9 | 722 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 10 | 12 | 1,3 | 3 | 0 |
-| A. Truffert | D | 8 | 714 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 16 | 3 | 0,4 | 3 | 0 |
-| Rayan | M | 9 | 708 | 2 | 0 | 21 | 2,3 | 10 | 1,1 | 4 | 9 | 1,0 | 0 | 0 |
-| T. Adams | M | 9 | 593 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 5 | 0,6 | 1 | 0 |
+| T. Adams | M | 10 | 654 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 6 | 0,6 | 2 | 0 |
 | Alex Scott | M | 6 | 536 | 1 | 1 | 5 | 0,8 | 1 | 0,2 | 4 | 23 | 3,8 | 1 | 0 |
-| J. Kluivert | F | 7 | 429 | 2 | 0 | 14 | 2,0 | 8 | 1,1 | 8 | 7 | 1,0 | 2 | 0 |
-| L. Cook | M | 8 | 350 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
-| R. Christie | M | 8 | 319 | 0 | 0 | 8 | 1,0 | 1 | 0,1 | 4 | 6 | 0,8 | 2 | 0 |
-| B. Doak | F | 8 | 168 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Á. Rodríguez | F | 6 | 148 | 1 | 0 | 5 | 0,8 | 2 | 0,3 | 4 | 1 | 0,2 | 0 | 0 |
-| B. Diakité | D | 3 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 2 | 0 |
+| J. Kluivert | F | 8 | 491 | 3 | 0 | 16 | 2,0 | 9 | 1,1 | 13 | 7 | 0,9 | 2 | 0 |
+| R. Christie | M | 9 | 409 | 0 | 0 | 12 | 1,3 | 2 | 0,2 | 5 | 7 | 0,8 | 2 | 0 |
+| L. Cook | M | 9 | 379 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
+| B. Doak | M | 9 | 258 | 0 | 0 | 6 | 0,7 | 0 | 0,0 | 2 | 5 | 0,6 | 0 | 0 |
+| B. Diakité | D | 4 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,2 | 3 | 0 |
+| Á. Rodríguez | F | 7 | 172 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 5 | 2 | 0,3 | 0 | 0 |
 | David Brooks | M | 6 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 | J. Soler | D | 2 | 102 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 1 | 0 |
+| M. Di Gregorio | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Daniel Jebbison | F | 3 | 38 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 2 | 0,7 | 0 | 0 |
-| Juanlu Sánchez | M | 1 | 18 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
