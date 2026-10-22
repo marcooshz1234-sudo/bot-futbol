@@ -1,2 +1,5 @@
 IG/FB programado en Metricool del 23 al 26/10: 26 fotos en IG, 26 reels en IG (10 min después de cada foto), FB alterna foto/texto (13 y 13).
 - 23/10 00:20: en bet365 las paradas de Herrero (Málaga) salen una línea por encima de lo que da la API (API '-2' 1,33 = web '3+' 1,33). Revisar cómo interpreta el bot 'Goalkeeper Saves - N' (con Moritz Nicolas sí coincide).
+- Reto escalera público: 21/10 Día 1 roja (Betis 3 tarjetas); 22/10 Día 1 (volvemos a empezar) roja (Jablonec–Brighton 0-0); 23/10 11:00 Día 1 (otra vez): Torino–Monza +1,5 (1,28) + Moritz Nicolas 4+ paradas (1,53) = 1,96, 20€→39,20€. Programado en Threads (texto), Telegram, IG (foto + reel 11:20) y FB (texto).
+- Avisos programados: vie 23 23:40 y sáb 24 23:40 (hora España) para corregir el escalón y programar el siguiente a las 11:00.
+- Insights Threads 16-21/10: listas de picks ~7.500 vistas de media; posts con foto mediana 134 vs 405 los de texto; el reto escalera trajo muchos seguidores (post del 22/10: 4.421 reproducciones, 1.284 visitas al perfil, 38 seguidores).
