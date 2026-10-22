@@ -76,6 +76,9 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
     if vertical:
         fl += 8
     gap = 14 if n <= 7 else 10
+    if foto_b64 and not vertical:   # con foto de escudos hay menos sitio en 1080x1350
+        fl -= 4
+        gap = 10
     css = CSS % {"w": w, "h": h, "pad": 70 if vertical else 50, "ft": 64 if vertical else 52, "fl": fl, "gap": gap}
     total = 1 + n + 2
     ver = total if mostrar is None else mostrar
