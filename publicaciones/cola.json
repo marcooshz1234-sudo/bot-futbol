@@ -288,6 +288,12 @@
     "directo": true,
     "facebook": "texto",
     "sin_instagram": true,
-    "solo_redes": true
+    "solo_redes": true,
+    "redes": {
+      "threads": "18132082765692689"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   }
 ]
