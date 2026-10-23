@@ -1,7 +1,7 @@
 """
 El Analista · combis de jugadores cuando salen las alineaciones.
 
-Se ejecuta cada 15 minutos. Para los partidos que empiezan dentro de 35-95
+Se ejecuta cada 15 minutos. Para los partidos que empiezan dentro de 15-95
 minutos (cuando ya suelen estar las alineaciones):
 1. Pide a la API las alineaciones confirmadas y las cuotas de jugador de Bet365
    (paradas del portero, remates, remates a puerta y faltas).
@@ -29,7 +29,7 @@ HECHAS = DATOS / "alineaciones_hechas.json"
 SALIDA = RAIZ / "publicaciones" / "alineaciones.json"
 PRUEBA = RAIZ / "publicaciones" / "alineaciones_prueba.json"   # antes de DESDE: se guarda sin publicar
 DESDE = "2026-10-27"
-VENTANA = (timedelta(minutes=35), timedelta(minutes=95))
+VENTANA = (timedelta(minutes=15), timedelta(minutes=95))   # GitHub lanza el cron cada ~45 min, no cada 15
 CUOTA_MIN, CUOTA_MAX = 1.25, 2.00
 FREC_MIN, MIN_PARTIDOS, ULTIMOS, VENTAJA_MAX = 0.75, 5, 10, 0.30
 
