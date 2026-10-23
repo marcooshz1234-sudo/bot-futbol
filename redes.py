@@ -166,7 +166,7 @@ def main():
         tareas = []
         if claves["threads"] and "threads" not in hecho:
             tareas.append(("threads", lambda: threads(p, claves["threads"])))
-        if claves["instagram"] and "instagram" not in hecho:
+        if claves["instagram"] and "instagram" not in hecho and not p.get("sin_instagram"):
             tareas.append(("instagram", lambda: instagram(p, claves["instagram"])))
         if (claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
                 and ahora >= cuando + REEL_TRAS and "instagram" in hecho):

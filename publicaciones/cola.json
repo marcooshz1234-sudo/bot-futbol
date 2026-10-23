@@ -80,7 +80,8 @@
     "texto": "🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸\n💥 COMBI DEL PARTIDO 💥\n\n✅1. ⚽ Ambos marcan · 1,83\n✅2. 🔥 Más de 2,5 goles · 2,10\n✅3. 🎯 Arnu 1+ remate a puerta · 1,40\n✅4. 🎯 Latasa 1+ remate a puerta · 1,40\n✅5. 🎯 Pascual 1+ remate a puerta · 1,33\n\n🎯 Cuota: ~9,50 (en Crear apuesta)\n💶 10€ → ~95€\n\n📊 El Valladolid ha marcado en sus 5 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": "publicaciones/fotos/2026-10-23-granada-valladolid.jpg",
     "enviado": "2026-10-23T17:00",
-    "mensaje_id": 50
+    "mensaje_id": 50,
+    "resultado": "verde"
   },
   {
     "id": "2026-10-23-picks-hoy",
@@ -233,5 +234,15 @@
     "errores_redes": {
       "facebook": "403: (#200) Permissions error"
     }
+  },
+  {
+    "id": "2026-10-23-verde-segura",
+    "fecha": "2026-10-23T22:11",
+    "texto": "✅💚 ¡VERDE LA COMBI SEGURA! 💚✅\n\n✅ Más de 1,5 goles en Torino–Monza\n✅ Gol en la 1ª parte del Brest–Niza\n\n🎯 Cuota 1,66\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde"
   }
 ]
