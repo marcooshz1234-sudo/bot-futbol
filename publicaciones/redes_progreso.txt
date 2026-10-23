@@ -6,3 +6,7 @@ IG/FB programado en Metricool del 23 al 26/10: 26 fotos en IG, 26 reels en IG (1
 - 23/10 00:46: cuota de cada pata añadida en todas las publicaciones del viernes (Threads, Telegram, IG foto+reel, FB). Loca recalculada a 8,13 (Alavés 1,65). Sábado y domingo aún sin cuota por pata en las listas de picks.
 
 23/10 08:10Z · Prueba combis de jugadores (alineaciones.py): anoche NO salió nada. Jueves 18:45 → el workflow se activó después (1ª ejecución 17:07Z). Jueves 21:00 → la ejecución de 17:51Z (69 min antes) aún no tenía alineaciones y la siguiente fue 18:37Z (fuera de ventana). GitHub lanza el cron cada ~45 min, no 15. Ventana ampliada a 15-95 min (commit 78adec4). Primera prueba real: esta noche (Torino, Brest, Stuttgart, Ipswich, Alavés). Revisar sábado 08:00Z.
+
+23/10 12:10 · Aumento 25% bet365 en Alavés–Málaga y Granada–Valladolid (20:30). Combis dadas al usuario:
+- Alavés: gana 1,61 · gana descanso 2,25 · +1,5 goles 1,33 · Málaga 4+ córners 1,66 · Herrero 3+ paradas 1,36 (~9,5 Crear apuesta). Post 18:00 aún con 1,65/1,33 → actualizar.
+- Granada–Valladolid: ambos marcan 1,83 · +2,5 goles 2,10 · Arnu 1+ a puerta 1,40 · Latasa 1+ a puerta 1,40 · Pascual 1+ a puerta 1,33 (~9-10). Falta foto escudos para publicar.
