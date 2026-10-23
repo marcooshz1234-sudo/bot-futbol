@@ -36,13 +36,26 @@ def main():
     hoy, ayer = ahora.strftime("%Y-%m-%d"), (ahora - timedelta(days=1)).strftime("%Y-%m-%d")
     ig, th, fb = (os.environ.get(k) for k in ("INSTAGRAM_TOKEN", "THREADS_TOKEN", "FACEBOOK_TOKEN"))
     tg, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
-    seg, likes = {}, 0
+    seg, likes, seg_tipos = {}, 0, None
 
     if ig:
         seg["instagram"] = intentar(lambda: llamar("GET", f"{INSTAGRAM}/me", {"fields": "followers_count",
                                                                                 "access_token": ig})["followers_count"])
         medios = intentar(lambda: llamar("GET", f"{INSTAGRAM}/me/media",
                                          {"fields": "like_count,timestamp", "limit": 30, "access_token": ig})["data"]) or []
+        tipos = {}
+        for m in intentar(lambda: llamar("GET", f"{INSTAGRAM}/me/media", {"fields": "caption,like_count,comments_count,media_type",
+                                                                          "limit": 60, "access_token": ig})["data"]) or []:
+            t = (m.get("caption") or "").upper()
+            tipo = ("Combi loca" if "LOCA" in t else "Combi segura" if "SEGURA" in t else "Cuota 3" if "CUOTA 3" in t
+                    else "Escalera" if "ESCALERA" in t else "Picks" if "PICKS" in t else "Verdes/balance"
+                    if ("VERDE" in t[:40] or "BALANCE" in t or "ASÍ FUE" in t) else "Combi de partido" if "🆚" in (m.get("caption") or "") else "Otros")
+            if m.get("media_type") == "VIDEO":
+                tipo += " (reel)"
+            x = tipos.setdefault(tipo, [0, 0, 0])
+            x[0] += 1; x[1] += m.get("like_count", 0); x[2] += m.get("comments_count", 0)
+        seg_tipos = {k: {"posts": v[0], "likes_media": round(v[1] / v[0], 1), "comentarios_media": round(v[2] / v[0], 1)}
+                     for k, v in tipos.items()}
         likes += sum(m.get("like_count", 0) for m in medios if m.get("timestamp", "")[:10] >= ayer
                      and datetime.fromisoformat(m["timestamp"].replace("+0000", "+00:00")).astimezone(MADRID)
                      .strftime("%Y-%m-%d") == hoy)
@@ -62,7 +75,7 @@ def main():
     previo = leer(SALIDA, {})
     historial = previo.get("historial", {})          # {día: {red: seguidores}} (último valor del día)
     historial[hoy] = {r: v for r, v in seg.items() if v is not None} or historial.get(hoy, {})
-    historial = {d: historial[d] for d in sorted(historial)[-8:]}
+    historial = {d: historial[d] for d in sorted(historial)[-400:]}
     base = historial.get(ayer, {})
     redes = {}
     for r, v in seg.items():
@@ -96,7 +109,8 @@ def main():
              "total": sum(v for v in seg.values() if v) or None,
              "total_hoy": sum(x["hoy"] for x in redes.values() if x["hoy"] is not None),
              "likes_hoy": likes if ig else None, "proximo": proximo, "ayer": balance,
-             "escalera": escalera, "historial": historial}
+             "escalera": escalera, "historial": historial,
+             "tipos_instagram": seg_tipos if ig else None}
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print("Estadísticas:", {r: v["seguidores"] for r, v in redes.items()})
 
