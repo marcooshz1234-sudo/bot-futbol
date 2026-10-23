@@ -21,11 +21,16 @@ ESTADO = DATOS / "escalera.json"
 INICIAL = 20.0
 CUOTA_MIN, CUOTA_MAX = 1.85, 2.40
 DESDE = "2026-10-27"
+DIAS_RETO = 7          # 20 → 40 → … → 1.280 €; tras el día 7 (o un fallo) vuelve al día 1
 
 
-def elegir(picks):
-    """Dos picks de partidos distintos con cuota total en rango, los más fiables primero."""
-    picks = [p for p in picks if p.get("tipo") != "jugador"]   # los de jugador se corrigen aparte
+def elegir(dia):
+    """Dos picks de partidos distintos con cuota total en rango, los más fiables primero.
+    Nunca comparte selección con la combi segura del mismo día."""
+    segura = (dia.get("combis") or {}).get("segura") or {}
+    en_segura = {(p["partido_id"], p["mercado"], p["opcion"]) for p in segura.get("picks", [])}
+    picks = [p for p in dia["picks"] if p.get("tipo") != "jugador"   # los de jugador se corrigen aparte
+             and (p["partido_id"], p["mercado"], p["opcion"]) not in en_segura]
     orden = sorted(picks, key=lambda p: (-p["frecuencia"], -p["ventaja"]))
     mejor = None
     for i, a in enumerate(orden):
@@ -65,7 +70,7 @@ def main():
             act["resultado"] = "verde" if verde else "roja"
             act["aciertos"] = res
             estado["historial"].append(act)
-            if verde:
+            if verde and act["escalon"] < DIAS_RETO:
                 estado["stake"] = round(act["stake"] * act["cuota"], 2)
                 estado["escalon"] = act["escalon"] + 1
             else:
@@ -82,7 +87,7 @@ def main():
             ya = any(h["dia"] == dia for h in estado["historial"])
             if ya:
                 continue
-            elegido = elegir(picks["dias"][dia]["picks"])
+            elegido = elegir(picks["dias"][dia])
             if elegido:
                 _, sel, cuota = elegido
                 estado["actual"] = {"dia": dia, "escalon": estado["escalon"], "stake": estado["stake"],
@@ -96,7 +101,7 @@ def main():
         primero = min(p["fecha"] for p in act["picks"])
         publicado = f"{act['dia']}-escalera" in (leer(DATOS.parent / "publicaciones" / "enviados.json", {}) or {})
         if not publicado and primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M") and act["dia"] in picks["dias"]:
-            elegido = elegir(picks["dias"][act["dia"]]["picks"])
+            elegido = elegir(picks["dias"][act["dia"]])
             if elegido:
                 act["picks"], act["cuota"] = elegido[1], elegido[2]
 

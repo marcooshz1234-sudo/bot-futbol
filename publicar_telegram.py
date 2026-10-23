@@ -27,13 +27,15 @@ from zoneinfo import ZoneInfo
 
 RAIZ = Path(__file__).resolve().parent
 COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dentro)
-AUTOS = [RAIZ / "publicaciones" / "auto.json",      # posts de El Analista (solo lee)
-         RAIZ / "publicaciones" / "alineaciones.json"]  # combis de jugadores (solo lee)
+# Regla (23/10): lo que sale en un sitio sale en todos (Threads, Instagram, Facebook y Telegram).
+# Los posts automáticos de El Analista solo podrían ir a Telegram, así que no se publican solos:
+# se usan como borrador y se programan a la vez en todas las redes.
+AUTOS = []   # antes: publicaciones/auto.json y publicaciones/alineaciones.json
 ENVIADOS = RAIZ / "publicaciones" / "enviados.json"  # estado de los de auto.json
 CONTROL = RAIZ / "publicaciones" / "control.json"    # decisiones desde el móvil (asistente)
 MADRID = ZoneInfo("Europe/Madrid")
 PIE = "🔞 +18 | Juega con responsabilidad"
-MAX_RETRASO = timedelta(hours=6)   # si se pasa más de esto, no se publica (se marca como caducada)
+MAX_RETRASO = timedelta(minutes=45)   # más tarde ya no se publica: podría haber empezado el partido
 LIMITE_TEXTO = 4096
 LIMITE_PIE_FOTO = 1024
 

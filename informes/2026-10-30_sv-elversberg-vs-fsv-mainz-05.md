@@ -177,3 +177,42 @@ _Sin bajas comunicadas por ahora._
 | Benedict Hollerbach | F | 2 | 29 | 1 | 0 | 2 | 1,0 | 1 | 0,5 | 0 | 1 | 0,5 | 0 | 0 |
 | Lennard Maloney | M | 4 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Silvan Widmer | D | 2 | 18 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 2,24 · visitante 2,09 · córners esperados 9,7._
+
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 37% | 46% | 41% | 2.05 | -15% |
+| 1X2: X | 20% | 25% | 22% | 3.75 | -16% |
+| 1X2: 1 | 43% | 29% | 36% | 3.20 | +16% |
+| Doble oportunidad: X2 | 57% | 70% | 63% | 1.36 | -14% |
+| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
+| Doble oportunidad: 1X | 63% | 55% | 59% | 1.73 | +2% |
+| Ambos marcan: No | 22% | 35% | 29% | 2.62 | -25% |
+| Ambos marcan: Sí | 78% | 65% | 71% | 1.44 | +3% |
+| Goles más/menos: Más de 2.5 | 81% | 64% | 72% | 1.50 | +8% |
+| Goles más/menos: Más de 3.5 | 63% | 43% | 53% | 2.20 | +17% |
+| Goles más/menos: Más de 4.5 | 44% | 24% | 34% | 4.00 | +35% |
+| Goles más/menos: Menos de 2.5 | 19% | 36% | 28% | 2.62 | -27% |
+| Goles más/menos: Menos de 3.5 | 37% | 57% | 47% | 1.67 | -21% |
+| Goles más/menos: Menos de 4.5 | 56% | 76% | 66% | 1.25 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 84% | 75% | 80% | 1.25 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -23% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
+| Goles del local: Más de 0.5 | 89% | 75% | 82% | 1.25 | +3% |
+| Goles del local: Más de 1.5 | 66% | 42% | 54% | 2.20 | +19% |
+| Goles del local: Menos de 0.5 | 11% | 25% | 18% | 3.75 | -33% |
+| Goles del local: Menos de 1.5 | 34% | 58% | 46% | 1.62 | -25% |
+| Goles del visitante: Más de 1.5 | 62% | 54% | 58% | 1.73 | -0% |
+| Goles del visitante: Más de 2.5 | 35% | 28% | 31% | 3.40 | +6% |
+| Goles del visitante: Menos de 1.5 | 38% | 46% | 42% | 2.00 | -15% |
+| Goles del visitante: Menos de 2.5 | 65% | 72% | 69% | 1.30 | -11% |
+| 1X2 descanso: 2 | 32% | 36% | 34% | 2.60 | -12% |
+| 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
+| 1X2 descanso: 1 | 36% | 27% | 31% | 3.50 | +9% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

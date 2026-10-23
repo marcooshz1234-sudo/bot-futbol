@@ -193,3 +193,43 @@ _Sin bajas comunicadas por ahora._
 | Unai Santos | D | 3 | 208 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 5 | 1 | 0,3 | 1 | 0 |
 | Jorge Herrando | D | 3 | 187 | 0 | 0 | 2 | 0,7 | 2 | 0,7 | 3 | 2 | 0,7 | 1 | 0 |
 | Raúl Moro | F | 6 | 185 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 1 | 1 | 0,2 | 0 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 1,89 · visitante 1,07 · córners esperados 8,4._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 21% | 23% | 22% | 4.20 | -8% |
+| 1X2: X | 22% | 29% | 26% | 3.30 | -16% |
+| 1X2: 1 | 57% | 49% | 53% | 1.95 | +3% |
+| Doble oportunidad: X2 | 43% | 52% | 48% | 1.80 | -14% |
+| Doble oportunidad: 12 | 78% | 71% | 74% | 1.33 | -1% |
+| Doble oportunidad: 1X | 79% | 77% | 78% | 1.22 | -5% |
+| Ambos marcan: No | 44% | 52% | 48% | 1.80 | -13% |
+| Ambos marcan: Sí | 56% | 48% | 52% | 1.95 | +1% |
+| Goles más/menos: Más de 1.5 | 79% | 70% | 75% | 1.36 | +2% |
+| Goles más/menos: Más de 2.5 ✅ | 57% | 45% | 51% | 2.10 | +7% |
+| Goles más/menos: Más de 3.5 | 34% | 24% | 29% | 4.00 | +16% |
+| Goles más/menos: Menos de 1.5 | 21% | 30% | 25% | 3.20 | -19% |
+| Goles más/menos: Menos de 2.5 | 43% | 55% | 49% | 1.73 | -15% |
+| Goles más/menos: Menos de 3.5 | 66% | 76% | 71% | 1.25 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 29% | 32% | 3.25 | +5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 35% | 32% | 2.62 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Goles del local: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles del local: Más de 1.5 | 56% | 44% | 50% | 2.10 | +6% |
+| Goles del local: Más de 2.5 | 29% | 21% | 25% | 4.50 | +13% |
+| Goles del local: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -23% |
+| Goles del local: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
+| Goles del local: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -12% |
+| Goles del visitante: Más de 0.5 | 66% | 59% | 62% | 1.57 | -2% |
+| Goles del visitante: Más de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles del visitante: Menos de 0.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles del visitante: Menos de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Córners más/menos: Más de 8.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Córners más/menos: Menos de 8.5 | 56% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: X | 40% | 44% | 42% | 2.10 | -12% |
+| 1X2 descanso: 1 | 41% | 36% | 38% | 2.60 | -0% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

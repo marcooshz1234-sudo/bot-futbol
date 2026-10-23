@@ -31,15 +31,13 @@ PRUEBA = RAIZ / "publicaciones" / "alineaciones_prueba.json"   # antes de DESDE:
 DESDE = "2026-10-27"
 VENTANA = (timedelta(minutes=15), timedelta(minutes=95))   # GitHub lanza el cron cada ~45 min, no cada 15
 CUOTA_MIN, CUOTA_MAX = 1.25, 2.00
-FREC_MIN, MIN_PARTIDOS, ULTIMOS, VENTAJA_MAX = 0.75, 5, 10, 0.30
+# Igual que picks.py tras la prueba con 186 partidos: solo remates (2+ acertó el 90 %) y con ≥ 90 %.
+# Faltas (2+: 33 %) y remates a puerta (59 %) fuera; porteros, a mano en bet365.
+FREC_MIN, MIN_PARTIDOS, ULTIMOS, VENTAJA_MAX = 0.90, 5, 10, 0.30
 
 MERCADOS = {  # nombre en bet365 → (dato del jugador, texto)
-    "Goalkeeper Saves": ("paradas", "hace {n}+ paradas"),
     "Home Player Shots": ("tiros", "hace {n}+ remates"),
     "Away Player Shots": ("tiros", "hace {n}+ remates"),
-    "Home Player Shots On Target Total": ("a_puerta", "hace {n}+ remates a puerta"),
-    "Away Player Shots On Target Total": ("a_puerta", "hace {n}+ remates a puerta"),
-    "Player Fouls Committed": ("faltas_c", "comete {n}+ faltas"),
 }
 
 

@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-23 08:48 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-23 12:43 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 23/10
 
@@ -11,7 +11,6 @@ _Generado el 2026-10-23 08:48 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Samuele Birindelli: 1+ tiros | jugador | 1.33 | 100% | Samuele Birindelli 7/7 |
-| 21:00 | Alfonso Herrero: 2+ paradas | jugador | 1.33 | 100% | Alfonso Herrero 9/9 |
 | 20:45 | Más de 1,5 goles en Torino–Monza | goles | 1.28 | 100% | Torino 7/7 · Monza 7/7 |
 | 20:45 | Monza marca | goles | 1.40 | 93% | Torino (en contra) 6/7 · Monza 7/7 |
 | 20:45 | No hay empate en Torino–Monza | resultado | 1.33 | 86% | Torino 6/7 · Monza 6/7 |
@@ -25,38 +24,17 @@ _Generado el 2026-10-23 08:48 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Sábado 24/10
 
-**🔒 Combi segura · cuota 1,70**
-- Nicolas Kristof: 2+ paradas (1,36) · Nicolas Kristof 6/6
+**🔒 Combi segura · cuota 1,56**
 - Espanyol marca (1,25) · Racing Santander (en contra) 9/9 · Espanyol 8/9
+- No hay empate en Aston Villa–Manchester City (1,25) · Aston Villa 8/10 · Manchester City 10/10
 
-**💥 Combi cuota 3-4 · cuota 3,72**
-- Maarten Vandevoordt: 2+ paradas (1,33) · Maarten Vandevoordt 9/9
-- Marvin Schwabe: 2+ paradas (1,28) · Marvin Schwabe 6/6
+**💥 Combi cuota 3-4 · cuota 3,28**
 - Sassuolo marca (1,40) · Como (en contra) 9/10 · Sassuolo 7/7
-- No hay empate en Aston Villa–Manchester City (1,25) · Aston Villa 8/10 · Manchester City 10/10
-- Más de 1,5 goles en Rayo Vallecano–Elche (1,25) · Rayo Vallecano 8/8 · Elche 7/9
-
-**🤪 Combi loca · cuota 8,74**
-- Robin Risser: 2+ paradas (1,25) · Robin Risser 10/10
-- Ambos marcan en Como–Sassuolo (1,57) · Como 8/10 · Sassuolo 7/7
-- Cagliari marca (1,40) · Cagliari 5/7 · Bologna (en contra) 7/7
 - No hay empate en Coventry–Fulham (1,30) · Coventry 7/7 · Fulham 5/7
-- No hay empate en Napoli–AS Roma (1,36) · Napoli 9/10 · AS Roma 7/10
 - Más de 26,5 tiros en Aston Villa–Manchester City (1,80) · Aston Villa 8/10 · Manchester City 7/10
-
-**🎯 Combi del partido Aston Villa–Manchester City · cuota sumada 12,03**
-- No hay empate en Aston Villa–Manchester City (1,25) · Aston Villa 8/10 · Manchester City 10/10
-- Más de 26,5 tiros en Aston Villa–Manchester City (1,80) · Aston Villa 8/10 · Manchester City 7/10
-- Más de 4 córners en la 1ª parte en Aston Villa–Manchester City (1,91) · Aston Villa 7/10 · Manchester City 7/10
-- Más de 2,5 goles en Aston Villa–Manchester City (1,53) · Aston Villa 7/10 · Manchester City 7/10
-- Más de 9,5 tiros a puerta en Aston Villa–Manchester City (1,83) · Aston Villa 6/10 · Manchester City 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 15:30 | Nicolas Kristof: 2+ paradas | jugador | 1.36 | 100% | Nicolas Kristof 6/6 |
-| 15:30 | Maarten Vandevoordt: 2+ paradas | jugador | 1.33 | 100% | Maarten Vandevoordt 9/9 |
-| 15:30 | Marvin Schwabe: 2+ paradas | jugador | 1.28 | 100% | Marvin Schwabe 6/6 |
-| 20:45 | Robin Risser: 2+ paradas | jugador | 1.25 | 100% | Robin Risser 10/10 |
 | 16:15 | Espanyol marca | goles | 1.25 | 94% | Racing Santander (en contra) 9/9 · Espanyol 8/9 |
 | 15:00 | Sassuolo marca | goles | 1.40 | 94% | Como (en contra) 9/10 · Sassuolo 7/7 |
 | 13:30 | No hay empate en Aston Villa–Manchester City | resultado | 1.25 | 90% | Aston Villa 8/10 · Manchester City 10/10 |
@@ -91,14 +69,13 @@ _Generado el 2026-10-23 08:48 (hora España). Cuotas de Bet365. Criterio: cuota 
 - No hay empate en Genoa–Venezia (1,30) · Genoa 6/7 · Venezia 7/7
 - Estac Troyes hace más de 3,5 córners (1,62) · Toulouse (en contra) 5/7 · Estac Troyes 7/7
 
-**🤪 Combi loca · cuota 11,89**
+**🤪 Combi loca · cuota 8,82**
 - Gol en la 2ª parte del Sunderland–Leeds (1,28) · Sunderland 10/10 · Leeds 6/7
-- Josep Martinez: 2+ paradas (1,40) · Josep Martinez 9/10
-- Jeffrey de Lange: 2+ paradas (1,28) · Jeffrey de Lange 9/10
 - Bournemouth marca (1,28) · Manchester United (en contra) 9/10 · Bournemouth 9/10
 - Más de 26,5 tiros en Paris Saint Germain–Lyon (1,80) · Paris Saint Germain 10/10 · Lyon 7/10
 - No hay empate en Monaco–Lille (1,30) · Monaco 8/10 · Lille 8/10
 - Más de 8,5 tiros a puerta en Auxerre–Le Mans (1,73) · Auxerre 6/7 · Le Mans 5/7
+- No hay empate en Angers–Lorient (1,33) · Angers 6/7 · Lorient 5/7
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -108,8 +85,6 @@ _Generado el 2026-10-23 08:48 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 20:45 | Más de 1,5 goles en Udinese–AC Milan | goles | 1.28 | 94% | Udinese 6/7 · AC Milan 10/10 |
 | 17:30 | Gol en la 2ª parte del Sunderland–Leeds | goles | 1.28 | 94% | Sunderland 10/10 · Leeds 6/7 |
 | 15:00 | No hay empate en Genoa–Venezia | resultado | 1.30 | 93% | Genoa 6/7 · Venezia 7/7 |
-| 12:30 | Josep Martinez: 2+ paradas | jugador | 1.40 | 90% | Josep Martinez 9/10 |
-| 17:15 | Jeffrey de Lange: 2+ paradas | jugador | 1.28 | 90% | Jeffrey de Lange 9/10 |
 | 15:00 | Bournemouth marca | goles | 1.28 | 90% | Manchester United (en contra) 9/10 · Bournemouth 9/10 |
 | 17:30 | Más de 2,5 goles en SC Freiburg–Bayern München | goles | 1.25 | 90% | SC Freiburg 9/10 · Bayern München 8/9 |
 | 15:00 | Gol en la 1ª parte del Crystal Palace–Newcastle | goles | 1.28 | 88% | Crystal Palace 9/10 · Newcastle 6/7 |

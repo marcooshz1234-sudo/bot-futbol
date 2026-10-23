@@ -202,3 +202,43 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | E. Koffi Vinette | F | 6 | 151 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 2 | 7 | 1,2 | 0 | 0 |
 | Fodé Doucouré | D | 2 | 95 | 0 | 1 | 2 | 1,0 | 0 | 0,0 | 3 | 1 | 0,5 | 2 | 0 |
 | Hakim Dongopandji |  | 2 | 90 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 1,0 | 1 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 1,98 · visitante 1,10 · córners esperados 9,3._
+
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 21% | 19% | 20% | 5.00 | -1% |
+| 1X2: X | 22% | 21% | 21% | 4.50 | -4% |
+| 1X2: 1 | 58% | 60% | 59% | 1.57 | -7% |
+| Doble oportunidad: X2 | 42% | 41% | 41% | 2.30 | -5% |
+| Doble oportunidad: 12 | 78% | 79% | 79% | 1.18 | -7% |
+| Doble oportunidad: 1X | 79% | 80% | 80% | 1.17 | -7% |
+| Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
+| Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -7% |
+| Goles más/menos: Más de 2.5 | 59% | 62% | 61% | 1.53 | -7% |
+| Goles más/menos: Más de 3.5 | 37% | 40% | 38% | 2.38 | -9% |
+| Goles más/menos: Más de 4.5 | 20% | 24% | 22% | 4.00 | -13% |
+| Goles más/menos: Menos de 2.5 | 41% | 38% | 39% | 2.50 | -2% |
+| Goles más/menos: Menos de 3.5 | 63% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Menos de 4.5 | 80% | 76% | 78% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 42% | 40% | 2.20 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -3% |
+| Goles del local: Más de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
+| Goles del local: Más de 2.5 | 32% | 38% | 35% | 2.50 | -14% |
+| Goles del local: Menos de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
+| Goles del local: Menos de 2.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del visitante: Más de 0.5 | 67% | 65% | 66% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles del visitante: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -10% |
+| Goles del visitante: Menos de 1.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
+| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -6% |
+| 1X2 descanso: 1 | 42% | 45% | 43% | 2.05 | -11% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

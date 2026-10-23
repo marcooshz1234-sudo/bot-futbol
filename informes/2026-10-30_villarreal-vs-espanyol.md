@@ -177,3 +177,39 @@ _Sin bajas comunicadas por ahora._
 | Ángel Fortuño | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | V. Drkušić | D | 4 | 179 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,8 | 0 | 0 |
 | Rafael Bauzà | M | 4 | 107 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 1,92 · visitante 0,96 · córners esperados 9,5._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 18% | 18% | 18% | 5.25 | -5% |
+| 1X2: X | 22% | 23% | 22% | 4.10 | -9% |
+| 1X2: 1 | 60% | 59% | 60% | 1.57 | -6% |
+| Doble oportunidad: X2 | 40% | 41% | 41% | 2.30 | -6% |
+| Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
+| Doble oportunidad: 1X | 82% | 81% | 81% | 1.17 | -5% |
+| Ambos marcan: No | 47% | 44% | 46% | 2.10 | -4% |
+| Ambos marcan: Sí | 53% | 56% | 54% | 1.67 | -9% |
+| Goles más/menos: Más de 2.5 | 55% | 60% | 58% | 1.57 | -10% |
+| Goles más/menos: Más de 3.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles más/menos: Más de 4.5 | 17% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Menos de 2.5 | 45% | 40% | 42% | 2.38 | +1% |
+| Goles más/menos: Menos de 3.5 | 67% | 62% | 65% | 1.53 | -1% |
+| Goles más/menos: Menos de 4.5 | 83% | 78% | 81% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 41% | 38% | 2.25 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -2% |
+| Goles del local: Más de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles del local: Más de 2.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles del local: Menos de 1.5 | 43% | 39% | 41% | 2.38 | -3% |
+| Goles del local: Menos de 2.5 | 70% | 65% | 67% | 1.44 | -3% |
+| Goles del visitante: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
+| Goles del visitante: Más de 1.5 | 25% | 29% | 27% | 3.25 | -12% |
+| Goles del visitante: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -3% |
+| Goles del visitante: Menos de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
+| 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
+| 1X2 descanso: 1 | 43% | 45% | 44% | 2.05 | -10% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

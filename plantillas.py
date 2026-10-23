@@ -30,7 +30,14 @@ def num(c):
 
 
 def lista(picks):
-    return "\n".join(f"✅{i}. {p['texto']}" for i, p in enumerate(picks, 1))
+    return "\n".join(f"✅{i}. {p['texto']} · {num(p['cuota'])}" for i, p in enumerate(picks, 1))
+
+
+def clave(p):
+    return (p["partido_id"], p["mercado"], p["opcion"])
+
+
+MAX_POSTS_POR_SELECCION = 2   # una misma selección no sale en más de 2 posts
 
 
 def dato(picks):
@@ -67,28 +74,21 @@ def posts_del_dia(dia, d):
     nombre = DIAS[f.weekday()]
     posts = []
 
-    mejores = mejores_para_lista(d.get("picks") or [])
-    if len(mejores) >= 4:
-        sel = mejores[:9]
-        posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
-                      f"🔥 {len(sel)} PICKS PARA MAÑANA ({nombre}) 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
-                      "¡Combina máximo 2 o 3! 🍀"))
-    tarde = [p for p in mejores if p["fecha"][11:] >= "18:30"]
-    if len(tarde) >= 4:
-        sel = tarde[:9]
-        posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
-                      f"🔥 {len(sel)} PICKS PARA HOY 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
-                      "¡Combina máximo 2 o 3! 🍀"))
+    usos = {}   # cuántos posts llevan ya cada selección
+
+    def apuntar(sel):
+        for p in sel:
+            usos[clave(p)] = usos.get(clave(p), 0) + 1
 
     combis = d.get("combis") or {}
-    for clave, hora, titulo in (("cuota_3", (11, 0), None),
-                                ("segura", (12, 0), f"🔒 COMBI SEGURA DEL {nombre} 🔒"),
-                                ("loca", (19, 0), f"🤪 COMBI LOCA DEL {nombre} 🤪")):
-        c = combis.get(clave)
+    for c_clave, hora, titulo in (("cuota_3", (11, 0), f"💥 COMBINADA CUOTA 3 DEL {nombre} 💥"),
+                                  ("segura", (12, 0), f"🔒 COMBI SEGURA DEL {nombre} 🔒"),
+                                  ("loca", (19, 0), f"🤪 COMBI LOCA DEL {nombre} 🤪")):
+        c = combis.get(c_clave)
         if not c:
             continue
-        titulo = titulo or f"💥 COMBINADA CUOTA {int(c['cuota'])} DEL {nombre} 💥"
-        posts.append((f"combi-{clave}", f.replace(hour=hora[0], minute=hora[1]), c["picks"],
+        apuntar(c["picks"])
+        posts.append((f"combi-{c_clave}", f.replace(hour=hora[0], minute=hora[1]), c["picks"],
                       f"{titulo}\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
                       "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
@@ -97,17 +97,35 @@ def posts_del_dia(dia, d):
     act = esc.get("actual")
     if act and act["dia"] == dia:
         ant = act.get("anterior")
-        if not ant:
-            intro = "Empezamos con 20€ y subimos un escalón cada día 🚀"
-        elif ant["resultado"] == "verde":
-            intro = f"✅ Escalón {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant['stake'] * ant['cuota'])}€"
+        if not ant or ant.get("resultado") != "verde":
+            intro = ("❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪"
+                     if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀")
         else:
-            intro = f"❌ Se cayó el escalón {ant['escalon']}. Volvemos a empezar con 20€ 💪"
-        posts.append(("escalera", f.replace(hour=13, minute=0), act["picks"],
-                      f"🪜 RETO ESCALERA · ESCALÓN {act['escalon']} 🪜\n\n{intro}\n\n"
-                      f"💶 Hoy vamos con {num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
-                      f"{lista(act['picks'])}\n\n🎯 Cuota total: {num(act['cuota'])}\n\n"
-                      "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+            intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant['stake'] * ant['cuota'])}€"
+        apuntar(act["picks"])
+        posts.append(("escalera", f.replace(hour=11, minute=0), act["picks"],
+                      f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 🍀\n\n{intro}\n\n"
+                      f"{lista(act['picks'])}\n\n🎯 Cuota {num(act['cuota'])} · "
+                      f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
+                      "20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Llegamos al día 7?"))
+
+    def libres(lista_picks):
+        return [p for p in lista_picks if usos.get(clave(p), 0) < MAX_POSTS_POR_SELECCION]
+
+    mejores = mejores_para_lista(libres(d.get("picks") or []))
+    if len(mejores) >= 4:
+        sel = mejores[:9]
+        apuntar(sel)
+        posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
+                      f"🔥 {len(sel)} PICKS PARA MAÑANA ({nombre}) 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
+                      "¡Combina máximo 2 o 3! 🍀"))
+    tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
+    if len(tarde) >= 4:
+        sel = tarde[:9]
+        apuntar(sel)
+        posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
+                      f"🔥 {len(sel)} PICKS PARA HOY 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
+                      "¡Combina máximo 2 o 3! 🍀"))
 
     salida = []
     for tipo, hora, picks, texto in posts:

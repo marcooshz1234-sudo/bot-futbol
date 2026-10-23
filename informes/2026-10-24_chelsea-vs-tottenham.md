@@ -214,3 +214,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Lucas Bergvall | M | 4 | 153 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
 | J. Maddison | M | 5 | 144 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 0 | 8 | 1,6 | 0 | 0 |
 | Mikey Moore | F | 2 | 90 | 0 | 0 | 4 | 2,0 | 3 | 1,5 | 0 | 1 | 0,5 | 0 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 2,41 · visitante 0,86 · córners esperados 10,2._
+
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 12% | 21% | 16% | 4.50 | -27% |
+| 1X2: X | 17% | 24% | 20% | 4.00 | -19% |
+| 1X2: 1 | 71% | 55% | 63% | 1.70 | +8% |
+| Doble oportunidad: X2 | 29% | 44% | 36% | 2.10 | -23% |
+| Doble oportunidad: 12 | 83% | 76% | 80% | 1.22 | -3% |
+| Doble oportunidad: 1X | 88% | 79% | 84% | 1.18 | -1% |
+| Ambos marcan: No | 47% | 39% | 43% | 2.38 | +3% |
+| Ambos marcan: Sí | 53% | 61% | 57% | 1.53 | -13% |
+| Goles más/menos: Más de 2.5 | 63% | 64% | 64% | 1.50 | -5% |
+| Goles más/menos: Más de 3.5 | 41% | 43% | 42% | 2.20 | -7% |
+| Goles más/menos: Más de 4.5 | 23% | 24% | 23% | 4.00 | -6% |
+| Goles más/menos: Menos de 2.5 | 37% | 36% | 36% | 2.62 | -4% |
+| Goles más/menos: Menos de 3.5 | 59% | 57% | 58% | 1.67 | -3% |
+| Goles más/menos: Menos de 4.5 | 77% | 76% | 77% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 44% | 42% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 56% | 58% | 1.67 | -4% |
+| Goles del local: Más de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Más de 2.5 | 43% | 35% | 39% | 2.62 | +3% |
+| Goles del local: Menos de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles del local: Menos de 2.5 | 57% | 65% | 61% | 1.44 | -13% |
+| Goles del visitante: Más de 0.5 | 58% | 69% | 63% | 1.36 | -14% |
+| Goles del visitante: Más de 1.5 | 21% | 35% | 28% | 2.62 | -25% |
+| Goles del visitante: Menos de 0.5 | 42% | 31% | 37% | 3.00 | +10% |
+| Goles del visitante: Menos de 1.5 | 79% | 65% | 72% | 1.44 | +3% |
+| Córners más/menos: Más de 10.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Córners más/menos: Menos de 10.5 | 57% | 50% | 54% | 1.83 | -2% |
+| 1X2 descanso: 2 | 13% | 21% | 17% | 4.50 | -24% |
+| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
+| 1X2 descanso: 1 | 52% | 42% | 47% | 2.20 | +3% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

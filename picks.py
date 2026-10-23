@@ -51,8 +51,12 @@ JUG_CUOTA_MAX = 2.00
 # que los de equipo. Con ≥ 90 % aguantan los tiros (2+) y las paradas; tiros a puerta (1+) y
 # faltas de jugador se quedan en ~70 % y fuera. Faltas de equipo: se pide más (85 %).
 JUG_FREC_MIN = 0.90
-JUG_CAMPOS = {"tiros", "paradas"}
+JUG_CAMPOS = {"tiros"}   # paradas fuera: los porteros se miran a mano en bet365
 FREC_TIPO = {"faltas": 0.85}
+# Además de los últimos partidos, el local en casa y el visitante fuera (lecciones 9 y 10):
+# con 3+ partidos en ese campo, cada uno tiene que cumplirlo al menos en este %.
+FREC_CAMPO = 0.60
+MIN_CAMPO = 3
 
 # Para la combi del partido (cuota 9-11) se aceptan patas algo menos seguras
 PARTIDO_CUOTA_MAX = 2.60
@@ -73,6 +77,8 @@ def excluido(mercado, opcion):
     """Fuera los 'menos de' (se entienden mal en redes y no le gustan) y los 'no'."""
     o = str(opcion).strip()
     if o.startswith("Under") or o == "No":
+        return True
+    if "Saves" in mercado or "Goalkeeper" in mercado:   # porteros: se miran a mano en bet365 (la API a veces trae la línea desplazada)
         return True
     if mercado == "Total Goals/Both Teams To Score" and not o.startswith("o/yes"):
         return True
@@ -623,6 +629,17 @@ def frecuencia(func, partidos):
     return (sum(vals), len(vals)) if vals else (0, 0)
 
 
+def campo_ok(f_loc, f_vis, h_loc, h_vis, id_loc, id_vis):
+    """El local lo cumple en casa y el visitante fuera (si hay partidos suficientes en ese campo)."""
+    casa = [(p, e) for p, e in h_loc if (p.get("local") or {}).get("id") == id_loc]
+    fuera = [(p, e) for p, e in h_vis if (p.get("visitante") or {}).get("id") == id_vis]
+    for func, lista in ((f_loc, casa), (f_vis, fuera)):
+        s, n = frecuencia(func, lista)
+        if n >= MIN_CAMPO and s / n < FREC_CAMPO:
+            return False
+    return True
+
+
 def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, frec_eq=FREC_EQUIPO,
                   jugadores=True, antes_de=None):
     """antes_de: fecha ISO; solo usa partidos anteriores (para la prueba con partidos ya jugados)."""
@@ -663,6 +680,8 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
             fa, fb = a / na, b / nb
             frec = (a + b) / (na + nb)
             implicita = 1 / cuota
+            # campo_ok() (local en casa / visitante fuera) probado el 23/10 con 1.723 picks:
+            # los que quitaba acertaban igual (79,7 % frente a 80,9 %), así que no se aplica.
             if frec < max(frec_min, FREC_TIPO.get(tipo_de(mercado), 0)) or min(fa, fb) < frec_eq \
                     or not (0 < frec - implicita <= VENTAJA_MAX):
                 continue
@@ -703,13 +722,13 @@ def combinar(picks, minimo, maximo, max_patas, min_patas=2, max_por_tipo=1):
 def combis_del_dia(picks):
     """Tres combis sin repetir selección entre ellas (si no da, la loca puede reutilizar).
     La segura nunca lleva más de 2 patas."""
-    reglas = [("segura", 1.45, 1.75, 2, 2, 1), ("cuota_3", 3.0, 4.5, 5, 3, 1), ("loca", 8.0, 20.0, 9, 5, 2)]
+    reglas = [("segura", 1.45, 1.75, 2, 2, 1), ("cuota_3", 2.9, 3.6, 5, 3, 1), ("loca", 8.0, 20.0, 9, 5, 2)]
     usados, res = set(), {}
     for nombre, mn, mx, patas, min_p, por_tipo in reglas:
         libres = [p for p in picks if (p["partido_id"], p["mercado"], p["opcion"]) not in usados]
         c = (combinar(libres, mn, mx, patas, min_p, por_tipo)
              or combinar(libres, mn, mx, patas, min_p, por_tipo + 1)      # si no hay variedad suficiente
-             or (nombre == "loca" and combinar(picks, mn, mx, patas, min_p, por_tipo + 1)) or None)
+             or None)   # nunca se reutiliza una selección de otra combi
         res[nombre] = c
         if c:
             usados.update((p["partido_id"], p["mercado"], p["opcion"]) for p in c["picks"])
@@ -764,19 +783,25 @@ def main():
         todos.extend(picks_partido(prox, hist, ahora))
         flojos = picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
                                frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05)
-        c = combi_partido(flojos)
-        if c:
-            fid = prox["partido"]["fixture"]["id"]
-            por_partido[fid] = dict(c, partido_id=fid, fecha=c["picks"][0]["fecha"],
-                                    local=c["picks"][0]["local"], visitante=c["picks"][0]["visitante"],
-                                    competicion=c["picks"][0]["competicion"])
+        if flojos:
+            por_partido[prox["partido"]["fixture"]["id"]] = flojos
 
     por_dia = defaultdict(list)
     for p in todos:
         por_dia[p["fecha"][:10]].append(p)
+    combis_dia = {dia: combis_del_dia(sorted(l, key=lambda x: (-x["frecuencia"], -x["ventaja"])))
+                  for dia, l in por_dia.items()}
     partidos_dia = defaultdict(list)
-    for c in por_partido.values():
-        partidos_dia[c["fecha"][:10]].append(c)
+    for fid, flojos in por_partido.items():
+        dia = flojos[0]["fecha"][:10]
+        # una selección va como mucho en 2 posts: si ya está en una combi del día, fuera de la del partido
+        en_combis = {(p["partido_id"], p["mercado"], p["opcion"])
+                     for c in (combis_dia.get(dia) or {}).values() if c for p in c["picks"]}
+        c = combi_partido([p for p in flojos if (p["partido_id"], p["mercado"], p["opcion"]) not in en_combis])
+        if c:
+            partidos_dia[dia].append(dict(c, partido_id=fid, fecha=c["picks"][0]["fecha"],
+                                          local=c["picks"][0]["local"], visitante=c["picks"][0]["visitante"],
+                                          competicion=c["picks"][0]["competicion"]))
 
     salida = {"generado": datetime.now(MADRID).strftime("%Y-%m-%d %H:%M"),
               "criterios": {"cuota_min": CUOTA_MIN, "frecuencia_min": FREC_MIN,
@@ -792,7 +817,7 @@ def main():
         salida["dias"][dia] = {
             "picks": picks,
             "mejores_por_partido": mejores,
-            "combis": combis_del_dia(picks),
+            "combis": combis_dia.get(dia) or combis_del_dia(picks),
             "combis_partido": sorted(partidos_dia[dia], key=lambda c: c["fecha"]),
         }
 
@@ -801,7 +826,8 @@ def main():
     tipos = defaultdict(int)
     for p in todos:
         tipos[p["tipo"]] += 1
-    print(f"Picks: {len(todos)} en {len(por_dia)} días · por tipo: {dict(tipos)} · combis de partido: {len(por_partido)}")
+    print(f"Picks: {len(todos)} en {len(por_dia)} días · por tipo: {dict(tipos)} · "
+          f"combis de partido: {sum(len(v) for v in partidos_dia.values())}")
 
 
 def num(c):

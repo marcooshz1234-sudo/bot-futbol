@@ -23,6 +23,10 @@ jobs:
         run: python -u bot.py
       - name: Elegir picks y combis
         run: python -u picks.py
+      - name: Registro de aciertos y modelo de valor
+        run: |
+          python -u aciertos.py
+          python -u valor.py || echo "valor.py falló (no bloquea)"
       - name: Reto escalera
         run: python -u escalera.py
       - name: Escribir posts con plantillas
@@ -31,7 +35,7 @@ jobs:
         run: |
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
-          git add -A datos informes PROXIMOS_PARTIDOS.md PICKS.md publicaciones/auto.json
+          git add -A datos informes PROXIMOS_PARTIDOS.md PICKS.md ACIERTOS.md VALOR.md RESULTADOS.md publicaciones/auto.json
           if git diff --cached --quiet; then
             echo "Sin cambios"
           else

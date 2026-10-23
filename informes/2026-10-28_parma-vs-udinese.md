@@ -185,3 +185,44 @@ _Sin bajas comunicadas por ahora._
 | Vakoun Issouf Bayo | F | 4 | 92 | 0 | 1 | 3 | 0,8 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
 | Matteo Palma | D | 2 | 90 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
 | Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 1,19 · visitante 1,11 · córners esperados 9,1._
+
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 39% | 37% | 2.40 | -12% |
+| 1X2: X | 28% | 29% | 29% | 3.20 | -7% |
+| 1X2: 1 | 38% | 31% | 35% | 3.00 | +4% |
+| Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -11% |
+| Doble oportunidad: 12 | 72% | 69% | 70% | 1.36 | -4% |
+| Doble oportunidad: 1X | 66% | 62% | 64% | 1.53 | -2% |
+| Ambos marcan: No | 54% | 50% | 52% | 1.91 | -1% |
+| Ambos marcan: Sí | 46% | 50% | 48% | 1.91 | -8% |
+| Goles más/menos: Más de 1.5 | 67% | 70% | 68% | 1.36 | -7% |
+| Goles más/menos: Más de 2.5 | 40% | 43% | 42% | 2.20 | -8% |
+| Goles más/menos: Más de 3.5 | 20% | 24% | 22% | 4.00 | -13% |
+| Goles más/menos: Menos de 1.5 | 33% | 30% | 32% | 3.20 | +1% |
+| Goles más/menos: Menos de 2.5 | 60% | 57% | 58% | 1.67 | -3% |
+| Goles más/menos: Menos de 3.5 | 80% | 76% | 78% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 29% | 27% | 3.25 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Goles del local: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles del local: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
+| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +3% |
+| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Córners más/menos: Más de 9.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Córners más/menos: Menos de 9.5 | 58% | 54% | 56% | 1.73 | -3% |
+| 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -15% |
+| 1X2 descanso: X | 47% | 45% | 46% | 2.05 | -6% |
+| 1X2 descanso: 1 | 28% | 26% | 27% | 3.60 | -5% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
