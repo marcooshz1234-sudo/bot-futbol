@@ -1,0 +1,32 @@
+== comprobar_redes · rc=0 · 2s
+{'comprobado': '2026-10-23 21:25', 'instagram': 'OK · combilocas (BUSINESS)', 'threads': 'OK · combilocas', 'facebook': 'OK · Combilocas', 'avisado': None}
+
+== publicar_telegram · rc=0 · 1s
+Estado: {'comprobado': '2026-10-23 21:25', 'bot': '@combilocas_publica_bot', 'rol': 'administrator', 'puede_publicar': True}
+Hecho. Cambios: 0
+
+== redes · rc=0 · 0s
+Redes: 0 cambios
+
+== moderar · rc=0 · 19s
+Moderación: error leyendo comentarios: 400: (#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details.
+Moderación: 0 comentarios quitados
+
+== estadisticas · rc=0 · 2s
+Estadísticas: {'instagram': 16, 'threads': 831, 'facebook': 0, 'telegram': 72}
+
+== avisos · rc=0 · 0s
+
+== directo · rc=0 · 1s
+Directo: 3 partidos actualizados (1 peticiones)
+
+== app_datos · rc=0 · 0s
+App: 60 partidos · 33 picks · 12 publicados · 133 KB
+
+== git status
+ M datos/en_directo.json
+ M docs/datos.json
+ M publicaciones/estadisticas.json
+ M publicaciones/estado_redes.json
+?? datos/en_directo/
+?? diagnostico.txt
