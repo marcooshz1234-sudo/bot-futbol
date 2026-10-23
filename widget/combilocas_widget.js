@@ -8,6 +8,13 @@ const NOMBRES = { instagram: "Instagram", threads: "Threads", facebook: "Faceboo
 const num = n => n == null ? "—" : Math.round(n).toLocaleString("es-ES")
 const mas = n => n == null ? "" : (n >= 0 ? "+" : "") + n
 
+function ponerLinea(st, serie, ancho, alto, grosor) {   // sin datos de varios días: hueco en blanco
+  if (!serie || serie.length < 2) { st.addSpacer(alto); return }
+  const img = linea(serie, ancho, alto, grosor)
+  if (img) st.addImage(img).imageSize = new Size(ancho, alto)
+  else st.addSpacer(alto)
+}
+
 function linea(serie, ancho, alto, grosor) {
   const dc = new DrawContext()
   dc.size = new Size(ancho, alto); dc.opaque = false; dc.respectScreenScale = true
@@ -60,7 +67,7 @@ if (!d) {
   w.addSpacer(4)
   const tot = {}
   Object.values(d.historial || {}).forEach((h, i) => { tot[i] = Object.values(h).reduce((a, b) => a + b, 0) })
-  w.addImage(linea(Object.values(tot).filter(x => x), 120, 26, 2.5)).imageSize = new Size(120, 26)
+  ponerLinea(w, Object.values(tot).filter(x => x), 120, 26, 2.5)
 } else {
   const cab = w.addStack()
   texto(cab, "COMBILOCAS", 13, BLANCO, true); cab.addSpacer(); texto(cab, "act. " + d.actualizado.slice(11), 10, SUAVE)
@@ -74,7 +81,7 @@ if (!d) {
       c.setPadding(6, 9, 6, 9); c.size = new Size(142, 0)
       const t = c.addStack(); texto(t, NOMBRES[r], 10, SUAVE); t.addSpacer(); texto(t, mas(x.hoy), 10, VERDE)
       texto(c, num(x.seguidores), 17, BLANCO, true)
-      c.addImage(linea(x.serie, 124, 14, 2)).imageSize = new Size(124, 14)
+      ponerLinea(c, x.serie, 124, 14, 2)
     }
     if (f === 0) w.addSpacer(6)
   }
