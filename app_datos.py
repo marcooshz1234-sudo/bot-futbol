@@ -16,6 +16,7 @@ from datetime import datetime, timedelta
 from bot import COMPETICIONES, DATOS, MADRID, PARTIDOS, RAIZ, leer
 from picks import evaluador, texto_pick
 from plantillas import atractivo
+from publicados import evaluar, picks_de_post
 
 SALIDA = RAIZ / "docs" / "datos.json"
 CUOTAS_INICIO = DATOS / "cuotas_inicio.json"
@@ -353,6 +354,39 @@ def main():
                    "¿Entramos? 👇💚")
             ideas.append({"dia": dia, "texto_post": txt, **ligero(p)})
 
+    # --- picks de lo publicado (también posts a mano), para el directo
+    conocidos = [{"id": p["id"], "local": p["local"], "visitante": p["visitante"], "fecha": p["fecha"],
+                  "logo_l": p.get("logo_l"), "logo_v": p.get("logo_v")} for p in partidos]
+    ya = {p["id"] for p in conocidos}
+    for x in (leer(DATOS / "fixtures_dia.json", {}) or {}).get("partidos", []):
+        if x["id"] not in ya:
+            conocidos.append(dict(x, fecha=hora(x["fecha"]).strftime("%Y-%m-%dT%H:%M")))
+    de_hoy = [x for x in conocidos if x["fecha"][:10] == hoy]
+    publicados_hoy = []
+    desde36 = (ahora - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
+    for p in todos:
+        if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
+            continue
+        legs = picks_de_post(p, de_hoy)
+        if not any(l["partido_id"] for l in legs):
+            continue
+        filas = []
+        for l in legs:
+            d = None
+            if l["partido_id"]:
+                d = leer(DATOS / "en_directo" / f"{l['partido_id']}.json") or leer(PARTIDOS / f"{l['partido_id']}.json")
+            e = evaluar(l["spec"], d) if l["partido_id"] else "sin_datos"
+            if e == "sin_datos" and not d and l["partido_id"]:
+                e = "pendiente"
+            vivo = directo.get(str(l["partido_id"])) or {}
+            filas.append({"texto": l["texto"], "cuota": l["cuota"], "partido": l["partido"], "partido_id": l["partido_id"],
+                          "estado": e, "definitivo": e in ("verde", "rojo"),
+                          "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado")})
+        est = ("verde" if all(x["estado"] == "verde" for x in filas) else
+               "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
+        publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
+                               "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
+
     # --- redes
     stats = leer(RAIZ / "publicaciones" / "estadisticas.json", {}) or {}
 
@@ -374,7 +408,7 @@ def main():
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
-             "publicados": publicados, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

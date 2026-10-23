@@ -184,12 +184,23 @@ function vDirecto(){
   const porPartido = {};
   pk.forEach(p => (porPartido[p.partido_id] = porPartido[p.partido_id] || []).push(p));
   const partidos = Object.keys(porPartido).map(id => ({p: D.partidos.find(x=>x.id==id) || {id, fecha: porPartido[id][0].fecha, local: porPartido[id][0].partido.split(" – ")[0], visitante: porPartido[id][0].partido.split(" – ")[1], estado:"NS", goles:[null,null]}, picks: porPartido[id]}));
-  if(!partidos.length) return `<div class="empty">Hoy no hay picks</div>`;
+  if(!partidos.length && !(D.publicados_hoy||[]).length) return `<div class="empty">Hoy no hay picks</div>`;
   const vivo = x => ["1H","2H","HT","ET","P","BT","LIVE"].includes(x.p.estado), fin = x => ["FT","AET","PEN"].includes(x.p.estado);
   const orden = x => vivo(x) ? 0 : fin(x) ? 2 : 1;
   partidos.sort((a,b) => orden(a)-orden(b) || a.p.fecha.localeCompare(b.p.fecha));
   const ok = pk.filter(p => p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)).length, ko = pk.filter(p=>p.estado==="rojo").length;
-  let h = `<div class="grid2" style="margin-bottom:10px"><div class="stat"><span class="mut">Ya cumplidos</span><b style="color:var(--ok)">${ok} ✅</b><span class="mut">de ${pk.length} picks de hoy</span></div><div class="stat"><span class="mut">Fallados</span><b style="color:var(--ko)">${ko} ❌</b><span class="mut">${pk.length-ok-ko} por decidir</span></div></div>`;
+  const pub = D.publicados_hoy || [];
+  let h = "";
+  if(pub.length){
+    const vivoP = e => ["1H","2H","HT","ET","P","BT","LIVE"].includes(e);
+    h += `<h2>📣 Publicados</h2>` + pub.map(p => {
+      const okN = p.picks.filter(x => x.estado==="verde" || (x.estado==="va_bien" && x.definitivo)).length;
+      return `<div class="card" style="${p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
+        <div class="row"><b class="sp">${esc(p.titulo)}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?`<span style="font-size:22px">✅</span>`:p.estado==="rojo"?`<span style="font-size:22px">❌</span>`:`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
+        ${p.picks.map(x => `<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${x.partido?esc(x.partido):"Partido sin datos"}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}${vivoP(x.estado_partido)?` · ${x.estado_partido==="HT"?"descanso":(x.minuto||"")+"'"}`:""}</span></div><span class="cuota" style="font-size:16px">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`}).join("");
+    h += `<h2>🤖 Todos los picks del bot</h2>`;
+  }
+  h += `<div class="grid2" style="margin-bottom:10px"><div class="stat"><span class="mut">Ya cumplidos</span><b style="color:var(--ok)">${ok} ✅</b><span class="mut">de ${pk.length} picks de hoy</span></div><div class="stat"><span class="mut">Fallados</span><b style="color:var(--ko)">${ko} ❌</b><span class="mut">${pk.length-ok-ko} por decidir</span></div></div>`;
   let grupo = null;
   partidos.forEach(x => {
     const g = vivo(x) ? "🔴 En juego" : fin(x) ? "Terminados" : "Por empezar";

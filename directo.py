@@ -10,9 +10,52 @@ import json
 import os
 from datetime import datetime, timedelta
 
-from bot import API, DATOS, MADRID, leer, recortar_partido
+from bot import API, COMPETICIONES, DATOS, MADRID, RAIZ, leer, recortar_partido
+from publicados import picks_de_post
 
 CARPETA = DATOS / "en_directo"
+FIXTURES = DATOS / "fixtures_dia.json"
+
+
+def partidos_conocidos(api, hoy):
+    """Partidos de hoy y mañana: los del calendario + todos los del día de la API (1 petición al día,
+    para los de ligas que el bot no sigue, p. ej. Segunda)."""
+    lista = []
+    for lg in COMPETICIONES:
+        for f in leer(DATOS / f"calendario_{lg}.json", []) or []:
+            lista.append({"id": f["fixture"]["id"], "local": f["teams"]["home"]["name"],
+                          "visitante": f["teams"]["away"]["name"], "fecha": f["fixture"]["date"]})
+    fx = leer(FIXTURES, {}) or {}
+    if api and fx.get("dia") != hoy:
+        dia = []
+        for r in api.get("fixtures", date=hoy, timezone="Europe/Madrid"):
+            dia.append({"id": r["fixture"]["id"], "local": r["teams"]["home"]["name"],
+                        "visitante": r["teams"]["away"]["name"], "fecha": r["fixture"]["date"],
+                        "liga": r["league"]["name"], "logo_l": r["teams"]["home"].get("logo"),
+                        "logo_v": r["teams"]["away"].get("logo")})
+        fx = {"dia": hoy, "partidos": dia}
+        FIXTURES.write_text(json.dumps(fx, ensure_ascii=False), encoding="utf-8")
+    ids = {p["id"] for p in lista}
+    return lista + [p for p in fx.get("partidos", []) if p["id"] not in ids]
+
+
+def ids_publicados(partidos, ahora):
+    """Partidos de las líneas de los posts publicados en las últimas 36 h."""
+    desde = (ahora - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
+    enviados = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+    posts = [p for p in leer(RAIZ / "publicaciones" / "cola.json", []) or [] if p.get("enviado") or p.get("redes")]
+    posts += [dict(p, **enviados.get(p["id"], {})) for p in leer(RAIZ / "publicaciones" / "auto.json", []) or []
+              if (enviados.get(p["id"]) or {}).get("enviado")]
+    hoy_p = [x for x in partidos if x.get("fecha", "")[:10] in (ahora.strftime("%Y-%m-%d"),
+                                                                (ahora + timedelta(days=1)).strftime("%Y-%m-%d"))]
+    ids = {}
+    for p in posts:
+        if p["fecha"] < desde or p.get("borrar"):
+            continue
+        for l in picks_de_post(p, hoy_p):
+            if l["partido_id"]:
+                ids[l["partido_id"]] = next(x["fecha"] for x in hoy_p if x["id"] == l["partido_id"])
+    return ids
 
 
 def main():
@@ -22,7 +65,13 @@ def main():
         return
     ahora = datetime.now(MADRID)
     picks = leer(DATOS / "picks.json", {}) or {}
+    api = API(clave)
+    partidos = partidos_conocidos(api, ahora.strftime("%Y-%m-%d"))
     ids = set()
+    for pid, fecha in ids_publicados(partidos, ahora).items():
+        inicio = datetime.fromisoformat(fecha.replace("Z", "+00:00")).astimezone(MADRID)
+        if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=150):
+            ids.add(pid)
     registro = list((leer(DATOS / "registro_aciertos.json", {}) or {}).values())   # guarda también los ya empezados
     for d in list((picks.get("dias") or {}).values()) + [{"picks": registro}]:
         for p in d.get("picks", []):
@@ -36,7 +85,6 @@ def main():
         print("Directo: ningún partido con picks en juego")
         return
     CARPETA.mkdir(exist_ok=True)
-    api = API(clave)
     lista = sorted(ids)
     for i in range(0, len(lista), 20):
         for r in api.get("fixtures", ids="-".join(map(str, lista[i:i + 20]))):
