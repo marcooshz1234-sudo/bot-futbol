@@ -230,10 +230,11 @@
     "redes": {
       "threads": "17914882893549657",
       "instagram": "18571594423072599",
-      "instagram_reel": "18395344099163412"
+      "instagram_reel": "18395344099163412",
+      "facebook": null
     },
     "errores_redes": {
-      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+      "facebook": "caducado: no salió a tiempo"
     }
   },
   {
