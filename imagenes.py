@@ -120,6 +120,14 @@ def generar(p, pagina):
     pagina.set_viewport_size({"width": 1080, "height": 1920})
     with tempfile.TemporaryDirectory() as tmp:
         lista = []
+        # 1º fotograma = el post entero (es la portada que se ve en el perfil de Instagram);
+        # luego las líneas van apareciendo una a una y al final se queda entero
+        doc, _ = documento(p, True, mostrar=total, foto_b64=foto)
+        pagina.set_content(doc)
+        pagina.wait_for_timeout(80)
+        portada = Path(tmp) / "f00.png"
+        pagina.screenshot(path=str(portada))
+        lista.append(f"file '{portada}'\nduration 1.5")
         for k in range(1, total + 1):
             doc, _ = documento(p, True, mostrar=k, foto_b64=foto)
             pagina.set_content(doc)
