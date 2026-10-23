@@ -114,6 +114,15 @@ def main():
         return
     cambios = 0
     # correcciones de posts ya publicados: "editar_texto" en cola.json → se edita el mensaje del canal
+    for p in cola:   # posts ya publicados que hay que quitar del canal: "borrar": true
+        if p.get("borrar") and p.get("mensaje_id") and not p.get("borrado"):
+            try:
+                api(token, "deleteMessage", {"chat_id": canal, "message_id": p["mensaje_id"]})
+                p["borrado"] = ahora.strftime("%Y-%m-%dT%H:%M")
+                print(f"Borrado del canal: {p['id']}")
+            except Exception as e:
+                p["error_borrado"] = str(e)
+            cambios += 1
     for p in cola:
         nuevo = p.get("editar_texto")
         if not nuevo or not p.get("mensaje_id"):
