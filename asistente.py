@@ -10,6 +10,7 @@ Comandos:
   /picks      picks de hoy · /manana picks de mañana
   /combis     combis de hoy y escalera
   /pausa      para todas las publicaciones automáticas · /reanudar
+  /borrar     últimos posts → los borras de Telegram, Threads, Instagram y Facebook a la vez
   /ayuda
 Además:
   - 60 min antes de cada post automático te llega el borrador con
@@ -63,6 +64,77 @@ def guardar(mensaje):
 
 def actualizar():
     git("pull", "--rebase", "-q")
+
+
+def borrables():
+    """Posts ya publicados en los últimos 3 días (cola a mano y automáticos)."""
+    desde = (datetime.now(MADRID) - timedelta(days=3)).strftime("%Y-%m-%dT%H:%M")
+    ahora = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
+    cola = leer(COLA, [])
+    enviados = leer(ENVIADOS, {})
+    auto = [dict(p, **enviados.get(p["id"], {})) for r in AUTOS if r.exists() for p in leer(r, [])]
+    hechos = leer(RAIZ / "publicaciones" / "borrados.json", [])
+    lista = [p for p in cola + auto if desde <= p["fecha"] <= ahora and p["id"] not in hechos
+             and (p.get("enviado") or p.get("redes") or p.get("borrado") or not p.get("caducada"))]
+    return sorted(lista, key=lambda p: p["fecha"])[-12:]
+
+
+def borrar_en_todas(token_tg, canal, p):
+    """Lo pulsa el dueño del canal: borra el post en cada red. Si no tenemos el id de una red
+    (posts que salieron por Metricool) lo busca entre los últimos posts por la primera línea."""
+    from redes import FACEBOOK, INSTAGRAM, THREADS, llamar, pagina_facebook
+    linea = p["texto"].strip().splitlines()[0].strip()[:40]
+    ids = dict(p.get("redes") or {})
+    res = []
+    if p.get("mensaje_id") and not p.get("borrado"):
+        try:
+            api(token_tg, "deleteMessage", {"chat_id": canal, "message_id": p["mensaje_id"]})
+            res.append("✅ Telegram")
+        except Exception as e:
+            res.append(f"⚠️ Telegram: {e}")
+    claves = {"threads": os.environ.get("THREADS_TOKEN"), "instagram": os.environ.get("INSTAGRAM_TOKEN")}
+    fb_usuario = os.environ.get("FACEBOOK_TOKEN")
+    redes = []
+    if claves["threads"]:
+        redes.append(("Threads", THREADS, claves["threads"], "me/threads", "text", "timestamp"))
+    if claves["instagram"]:
+        redes.append(("Instagram", INSTAGRAM, claves["instagram"], "me/media", "caption", "timestamp"))
+    if fb_usuario:
+        try:
+            pag, tok = pagina_facebook(fb_usuario, os.environ.get("FACEBOOK_PAGINA"))
+            redes.append(("Facebook", FACEBOOK, tok, f"{pag}/posts", "message", "created_time"))
+        except Exception as e:
+            res.append(f"⚠️ Facebook: {e}")
+    from datetime import timezone
+    momento = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
+
+    def mismo_dia(ts):   # solo posts publicados cerca de su hora (evita títulos repetidos de otros días)
+        try:
+            t = datetime.fromisoformat((ts or "").replace("Z", "+00:00").replace("+0000", "+00:00"))
+        except ValueError:
+            return False
+        return abs((t - momento).total_seconds()) < 6 * 3600
+
+    for nombre, base, tok, lista, campo, ts in redes:
+        clave = {"Threads": "threads", "Instagram": "instagram", "Facebook": "facebook"}[nombre]
+        objetivo = [i for i in (ids.get(clave), ids.get("instagram_reel") if clave == "instagram" else None) if i]
+        try:
+            if not objetivo:   # buscarlo por la primera línea entre los últimos posts
+                r = llamar("GET", f"{base}/{lista}", {"fields": f"id,{campo},{ts}", "limit": 40, "access_token": tok})
+                objetivo = [x["id"] for x in r.get("data", []) if linea and linea in (x.get(campo) or "")
+                            and mismo_dia(x.get(ts))]
+            if not objetivo:
+                res.append(f"➖ {nombre}: no estaba publicado")
+                continue
+            for i in objetivo:
+                llamar("DELETE", f"{base}/{i}", {"access_token": tok})
+            res.append(f"✅ {nombre}" + (f" ({len(objetivo)})" if len(objetivo) > 1 else ""))
+        except Exception as e:
+            res.append(f"⚠️ {nombre}: {e} → bórralo a mano en la app")
+    hechos = leer(RAIZ / "publicaciones" / "borrados.json", [])
+    escribir(RAIZ / "publicaciones" / "borrados.json", (hechos + [p["id"]])[-200:])
+    guardar(f"borrado {p['id']}")
+    return "🗑️ " + p["texto"].splitlines()[0][:50] + "\n\n" + "\n".join(res)
 
 
 class Asistente:
@@ -177,6 +249,13 @@ class Asistente:
             botones = [[(f"{p.get('enviado', '')[11:16]} {p['texto'].splitlines()[0][:30]}",
                          f"editar|{p['mensaje_id']}|{1 if p.get('foto') else 0}")] for p in ultimos]
             return self.enviar("¿Cuál quieres cambiar?", botones)
+        if orden == "/borrar":
+            recientes = borrables()
+            if not recientes:
+                return self.enviar("No hay publicaciones recientes para borrar.")
+            botones = [[(f"{p['fecha'][5:10]} {p['fecha'][11:16]} {p['texto'].splitlines()[0][:28]}",
+                         f"borrar|{p['id']}")] for p in recientes]
+            return self.enviar("🗑️ ¿Cuál quieres borrar de todas las redes?", botones)
         return self.enviar("No conozco ese comando. Escribe /ayuda.")
 
     # ---------------------------------------------------------------- botones
@@ -212,6 +291,20 @@ class Asistente:
             escribir(PROPIOS, propios[-100:])
             guardar("publicado desde el móvil")
             return self.enviar("✅ Publicado en el canal.")
+        if accion == "borrar":
+            p = next((x for x in borrables() if x["id"] == resto[0]), None)
+            if not p:
+                return self.enviar("No lo encuentro.")
+            return self.enviar(f"¿Borrar este post de Telegram, Threads, Instagram y Facebook? No se puede deshacer.\n\n"
+                               f"{p['texto'][:300]}", [[("🗑️ Sí, borrar", f"borrarya|{p['id']}"), ("No", "ok_no")]])
+        if accion == "borrarya":
+            p = next((x for x in borrables() if x["id"] == resto[0]), None)
+            if not p:
+                return self.enviar("No lo encuentro.")
+            self.enviar("⏳ Borrando…")
+            return self.enviar(borrar_en_todas(self.t, self.canal, p))
+        if accion == "ok_no":
+            return self.enviar("👍 No se borra nada.")
         if accion == "descartar":
             self.borrador = None
             return self.enviar("🗑️ Descartado.")
