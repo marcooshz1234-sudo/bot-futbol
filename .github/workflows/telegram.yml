@@ -34,7 +34,7 @@ jobs:
           timeout 240 python -u comprobar_redes.py || true
           fin=$(( $(date +%s) + 55*60 ))
           while [ "$(date +%s)" -lt "$fin" ]; do
-            git pull --rebase -q || git rebase --abort || true
+            git pull --rebase -X theirs -q || git rebase --abort || true
             timeout 240 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
             timeout 600 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
             vuelta=$(( ${vuelta:-0} + 1 ))
@@ -43,7 +43,7 @@ jobs:
             for ruta in publicaciones docs datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/cuotas_inicio.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
             if ! git diff --cached --quiet; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
-              for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+              for i in 1 2 3; do git pull --rebase -X theirs -q && git push -q && break; sleep 5; done
             fi
             sleep 60
           done
