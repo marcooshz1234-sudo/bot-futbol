@@ -111,7 +111,9 @@
     "id": "2026-10-23-picks-manana",
     "fecha": "2026-10-23T23:00",
     "texto": "🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n🇪🇸 Rayo–Elche: +1,5 goles · 1,25\n🇪🇸 Marca el Espanyol · 1,25\n🇮🇹 Marca el Sassuolo · 1,40\n🇮🇹 Cagliari–Bologna: gol 2ª parte · 1,28\n🇩🇪 Vandevoordt (Leipzig) 2+ paradas · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Coventry–Fulham: sin empate · 1,30\n🇮🇹 Napoli–Roma: sin empate · 1,36\n🇮🇹 Lazio gana una parte · 1,25\n🇫🇷 Lens–Paris FC: sin empate · 1,28\n\n📊 El Espanyol ha marcado en 8 de sus 9 últimos ⚽\n\n¡Combina máximo 2 o 3! 🍀",
-    "foto": null
+    "foto": null,
+    "enviado": "2026-10-23T23:00",
+    "mensaje_id": 59
   },
   {
     "id": "2026-10-24-cuota3",
@@ -261,7 +263,7 @@
   {
     "id": "2026-10-23-balance",
     "fecha": "2026-10-23T22:58",
-    "texto": "📊 BALANCE DEL VIERNES 📊\n\n⏳ COMBINADA CUOTA 3 DEL VIERNES · 3,08\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1,96\n✅ COMBI SEGURA DEL VIERNES · 1,66\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 9,50\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 10,50\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 9,50\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 9,50\n❌ COMBI LOCA DEL VIERNES · 7,94\n\n💚 3 de 7 en verde\n\nMañana más y mejor 💪🍀",
+    "texto": "📊 BALANCE DEL VIERNES 📊\n\n⏳ COMBINADA CUOTA 3 DEL VIERNES · 3,08\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1,96\n✅ COMBI SEGURA DEL VIERNES · 1,66\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 9,50\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 10,50\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 9,50\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 9,50\n❌ COMBI LOCA DEL VIERNES · 7,94\n\n💚 3 de 7 en verde\n🎯 Picks: 18 ✅ aciertos · 4 ❌ fallos\n\nMañana más y mejor 💪🍀",
     "foto": null,
     "origen": "claude",
     "directo": true,
@@ -275,6 +277,6 @@
     "errores_redes": {
       "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
     },
-    "editar_texto": "📊 BALANCE DEL VIERNES 📊\n\n⏳ COMBINADA CUOTA 3 DEL VIERNES · 3/4 acertados\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1/2 acertados\n✅ COMBI SEGURA DEL VIERNES · 2/2 acertados\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪 · 2/5 acertados\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 6/6 acertados\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 1/5 acertados\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 5/5 acertados\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 1/5 acertados\n❌ COMBI LOCA DEL VIERNES · 2/5 acertados\n\n💚 3 de 7 combis en verde\n🎯 Picks: 18 ✅ aciertos · 4 ❌ fallos\n\nMañana más y mejor 💪🍀"
+    "editado": "2026-10-23T23:00"
   }
 ]

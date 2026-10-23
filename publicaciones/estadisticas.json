@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-10-23 22:49",
+ "actualizado": "2026-10-23 23:00",
  "redes": {
   "instagram": {
-   "seguidores": 16,
+   "seguidores": 17,
    "hoy": null,
    "serie": [
-    16
+    17
    ]
   },
   "threads": {
-   "seguidores": 834,
+   "seguidores": 836,
    "hoy": null,
    "serie": [
-    834
+    836
    ]
   },
   "facebook": {
@@ -23,20 +23,20 @@
    ]
   },
   "telegram": {
-   "seguidores": 74,
+   "seguidores": 75,
    "hoy": null,
    "serie": [
-    74
+    75
    ]
   }
  },
- "total": 924,
+ "total": 928,
  "total_hoy": 0,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-10-23",
-  "titulo": "9 picks para mañana (sábado)"
+  "hora": "11:00",
+  "dia": "2026-10-24",
+  "titulo": "Combinada cuota 4 del sábado"
  },
  "ayer": null,
  "escalera": {
@@ -48,10 +48,10 @@
  },
  "historial": {
   "2026-10-23": {
-   "instagram": 16,
-   "threads": 834,
+   "instagram": 17,
+   "threads": 836,
    "facebook": 0,
-   "telegram": 74
+   "telegram": 75
   }
  },
  "tipos_instagram": {
