@@ -223,6 +223,15 @@
     "origen": "claude",
     "directo": true,
     "facebook": "foto",
-    "resultado": "verde"
+    "resultado": "verde",
+    "enviado": "2026-10-23T22:02",
+    "mensaje_id": 55,
+    "redes": {
+      "threads": "17914882893549657",
+      "instagram": "18571594423072599"
+    },
+    "errores_redes": {
+      "facebook": "403: (#200) Permissions error"
+    }
   }
 ]
