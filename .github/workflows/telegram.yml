@@ -37,7 +37,7 @@ jobs:
             python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
             python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
             vuelta=$(( ${vuelta:-0} + 1 ))
-            if [ $(( vuelta % 10 )) -eq 1 ]; then python -u moderar.py || echo "Fallo en la moderación"; fi
+            if [ $(( vuelta % 10 )) -eq 1 ]; then python -u moderar.py || echo "Fallo en la moderación"; python -u estadisticas.py || echo "Fallo en estadísticas"; fi
             git add -A publicaciones datos/moderacion.json 2>/dev/null; git add -A publicaciones
             if ! git diff --cached --quiet; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"

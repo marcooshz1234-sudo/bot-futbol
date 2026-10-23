@@ -1,0 +1,23 @@
+{
+ "actualizado": "2026-10-23 18:04",
+ "redes": {},
+ "total": null,
+ "total_hoy": 0,
+ "likes_hoy": null,
+ "proximo": {
+  "hora": "19:00",
+  "dia": "2026-10-23",
+  "titulo": "Combi loca del viernes"
+ },
+ "ayer": null,
+ "escalera": {
+  "dia": 1,
+  "de": 7,
+  "stake": 20.0,
+  "objetivo": 39.2,
+  "fecha": "2026-10-23"
+ },
+ "historial": {
+  "2026-10-23": {}
+ }
+}
