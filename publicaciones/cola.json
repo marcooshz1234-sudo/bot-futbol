@@ -266,6 +266,14 @@
     "origen": "claude",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-23T22:58",
+    "mensaje_id": 58,
+    "redes": {
+      "threads": "18057993263796942"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   }
 ]
