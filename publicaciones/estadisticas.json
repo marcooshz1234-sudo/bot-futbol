@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23 23:00",
+ "actualizado": "2026-10-23 23:11",
  "redes": {
   "instagram": {
    "seguidores": 17,
@@ -55,6 +55,16 @@
   }
  },
  "tipos_instagram": {
+  "Picks (reel)": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Picks": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi segura (reel)": {
    "posts": 3,
    "likes_media": 0.0,
@@ -81,7 +91,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca": {
-   "posts": 16,
+   "posts": 14,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -92,16 +102,6 @@
   },
   "Combi de partido": {
    "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
