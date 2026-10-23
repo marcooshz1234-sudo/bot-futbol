@@ -1,7 +1,7 @@
 # Aston Villa – Manchester City
 **Premier League** · Regular Season - 8 · 24/10/2026 13:30 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 17:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 17:06_

@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-23 17:07",
+ "generado": "2026-10-23 20:45",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,90 +9,6 @@
  "dias": {
   "2026-10-23": {
    "picks": [
-    {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Away Player Shots",
-     "opcion": "Samuele Birindelli - 1",
-     "cuota": 1.33,
-     "frecuencia": 1.0,
-     "ventaja": 0.248,
-     "tipo": "jugador",
-     "jugador": "Samuele Birindelli",
-     "equipo": "Monza",
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Samuele Birindelli: 1+ tiros",
-     "detalle": "Samuele Birindelli 7/7"
-    },
-    {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Torino–Monza",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
-     "detalle": "Torino 7/7 · Monza 7/7"
-    },
-    {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Monza marca",
-     "cuota": 1.4,
-     "frecuencia": 0.929,
-     "ventaja": 0.214,
-     "detalle": "Torino (en contra) 6/7 · Monza 7/7"
-    },
-    {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Torino–Monza",
-     "cuota": 1.3,
-     "frecuencia": 0.857,
-     "ventaja": 0.088,
-     "detalle": "Torino 6/7 · Monza 6/7"
-    },
-    {
-     "partido_id": 1552794,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Stade Brestois 29",
-     "visitante": "Nice",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Stade Brestois 29–Nice",
-     "cuota": 1.3,
-     "frecuencia": 0.857,
-     "ventaja": 0.088,
-     "detalle": "Stade Brestois 29 7/7 · Nice 5/7"
-    },
     {
      "partido_id": 1557443,
      "fecha": "2026-10-23T21:00",
@@ -110,22 +26,6 @@
      "detalle": "Ipswich 7/7 · Nottingham Forest 5/7"
     },
     {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Torino–Monza",
-     "cuota": 1.7,
-     "frecuencia": 0.786,
-     "ventaja": 0.197,
-     "detalle": "Torino 5/7 · Monza 6/7"
-    },
-    {
      "partido_id": 1557443,
      "fecha": "2026-10-23T21:00",
      "competicion": "Premier",
@@ -140,22 +40,6 @@
      "frecuencia": 0.786,
      "ventaja": 0.132,
      "detalle": "Ipswich (en contra) 5/7 · Nottingham Forest 6/7"
-    },
-    {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Torino–Monza",
-     "cuota": 1.36,
-     "frecuencia": 0.786,
-     "ventaja": 0.05,
-     "detalle": "Torino 5/7 · Monza 6/7"
     },
     {
      "partido_id": 1557443,
@@ -176,42 +60,6 @@
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Away Player Shots",
-     "opcion": "Samuele Birindelli - 1",
-     "cuota": 1.33,
-     "frecuencia": 1.0,
-     "ventaja": 0.248,
-     "tipo": "jugador",
-     "jugador": "Samuele Birindelli",
-     "equipo": "Monza",
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Samuele Birindelli: 1+ tiros",
-     "detalle": "Samuele Birindelli 7/7"
-    },
-    {
-     "partido_id": 1552794,
-     "fecha": "2026-10-23T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Stade Brestois 29",
-     "visitante": "Nice",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Stade Brestois 29–Nice",
-     "cuota": 1.3,
-     "frecuencia": 0.857,
-     "ventaja": 0.088,
-     "detalle": "Stade Brestois 29 7/7 · Nice 5/7"
-    },
-    {
      "partido_id": 1557443,
      "fecha": "2026-10-23T21:00",
      "competicion": "Premier",
@@ -229,47 +77,7 @@
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1550165,
-       "fecha": "2026-10-23T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Torino",
-       "visitante": "Monza",
-       "mercado": "Away Player Shots",
-       "opcion": "Samuele Birindelli - 1",
-       "cuota": 1.33,
-       "frecuencia": 1.0,
-       "ventaja": 0.248,
-       "tipo": "jugador",
-       "jugador": "Samuele Birindelli",
-       "equipo": "Monza",
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Samuele Birindelli: 1+ tiros",
-       "detalle": "Samuele Birindelli 7/7"
-      },
-      {
-       "partido_id": 1552794,
-       "fecha": "2026-10-23T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Stade Brestois 29",
-       "visitante": "Nice",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Stade Brestois 29–Nice",
-       "cuota": 1.3,
-       "frecuencia": 0.857,
-       "ventaja": 0.088,
-       "detalle": "Stade Brestois 29 7/7 · Nice 5/7"
-      }
-     ],
-     "cuota": 1.73
-    },
+    "segura": null,
     "cuota_3": null,
     "loca": null
    },
@@ -2734,6 +2542,38 @@
      "detalle": "Hull City 5/7 · Ipswich (en contra) 7/7"
     },
     {
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Rayo Vallecano–Celta Vigo",
+     "cuota": 1.33,
+     "frecuencia": 0.833,
+     "ventaja": 0.081,
+     "detalle": "Rayo Vallecano 8/8 · Celta Vigo 7/10"
+    },
+    {
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Rayo Vallecano marca",
+     "cuota": 1.25,
+     "frecuencia": 0.833,
+     "ventaja": 0.033,
+     "detalle": "Rayo Vallecano 8/8 · Celta Vigo (en contra) 7/10"
+    },
+    {
      "partido_id": 1557448,
      "fecha": "2026-10-31T16:00",
      "competicion": "Premier",
@@ -2780,6 +2620,22 @@
      "frecuencia": 0.8,
      "ventaja": 0.183,
      "detalle": "Werder Bremen 5/6 · 1899 Hoffenheim 7/9"
+    },
+    {
+     "partido_id": 1552806,
+     "fecha": "2026-10-31T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Nice",
+     "visitante": "Rennes",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Rennes o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.765,
+     "ventaja": 0.07,
+     "detalle": "Nice 5/7 · Rennes 8/10"
     },
     {
      "partido_id": 1557448,
@@ -2912,6 +2768,22 @@
      "detalle": "Hull City 5/7 · Ipswich (en contra) 7/7"
     },
     {
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Rayo Vallecano–Celta Vigo",
+     "cuota": 1.33,
+     "frecuencia": 0.833,
+     "ventaja": 0.081,
+     "detalle": "Rayo Vallecano 8/8 · Celta Vigo 7/10"
+    },
+    {
      "partido_id": 1557448,
      "fecha": "2026-10-31T16:00",
      "competicion": "Premier",
@@ -2926,6 +2798,22 @@
      "frecuencia": 0.824,
      "ventaja": 0.024,
      "detalle": "Bournemouth 9/10 · Leeds 5/7"
+    },
+    {
+     "partido_id": 1552806,
+     "fecha": "2026-10-31T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Nice",
+     "visitante": "Rennes",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Rennes o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.765,
+     "ventaja": 0.07,
+     "detalle": "Nice 5/7 · Rennes 8/10"
     }
    ],
    "combis": {

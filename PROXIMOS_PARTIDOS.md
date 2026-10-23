@@ -1,10 +1,9 @@
 # Próximos partidos
 
-_Actualizado el 23/10/2026 17:07 (hora España). Partidos guardados en la base de datos: 918._
+_Actualizado el 23/10/2026 20:45 (hora España). Partidos guardados en la base de datos: 918._
 
 
 ## Viernes 23/10
-- 20:30 · Bundesliga · [VfB Stuttgart – Borussia Mönchengladbach](informes/2026-10-23_vfb-stuttgart-vs-borussia-monchengladbach.md) · 1X2: 1.36 / 5.75 / 7.00
 - 20:45 · Serie A · [Torino – Monza](informes/2026-10-23_torino-vs-monza.md) · 1X2: 2.10 / 3.40 / 3.50
 - 20:45 · Ligue 1 · [Stade Brestois 29 – Nice](informes/2026-10-23_stade-brestois-29-vs-nice.md) · 1X2: 2.25 / 3.40 / 3.10
 - 21:00 · LaLiga · [Alaves – Malaga](informes/2026-10-23_alaves-vs-malaga.md) · 1X2: 1.62 / 3.80 / 5.75
@@ -95,3 +94,9 @@ _Actualizado el 23/10/2026 17:07 (hora España). Partidos guardados en la base d
 - 16:00 · Premier League · [Brentford – Nottingham Forest](informes/2026-10-31_brentford-vs-nottingham-forest.md) · 1X2: 2.00 / 3.50 / 3.60
 - 16:00 · Premier League · [Hull City – Ipswich](informes/2026-10-31_hull-city-vs-ipswich.md) · 1X2: 2.55 / 3.40 / 2.60
 - 16:00 · Premier League · [Coventry – Sunderland](informes/2026-10-31_coventry-vs-sunderland.md) · 1X2: 2.70 / 3.30 / 2.50
+- 16:15 · LaLiga · [Rayo Vallecano – Celta Vigo](informes/2026-10-31_rayo-vallecano-vs-celta-vigo.md) · 1X2: 2.25 / 3.20 / 3.10
+- 17:15 · Ligue 1 · [Nice – Rennes](informes/2026-10-31_nice-vs-rennes.md) · 1X2: 2.62 / 3.70 / 2.30
+- 18:00 · Serie A · [Udinese – AS Roma](informes/2026-10-31_udinese-vs-as-roma.md)
+- 18:30 · LaLiga · [Real Betis – Malaga](informes/2026-10-31_real-betis-vs-malaga.md) · 1X2: 1.42 / 4.50 / 6.50
+- 18:30 · Premier League · [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) · 1X2: 1.62 / 3.90 / 5.00
+- 18:30 · Bundesliga · [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) · 1X2: 1.33 / 5.75 / 7.00

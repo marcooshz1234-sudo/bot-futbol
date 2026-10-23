@@ -1,7 +1,7 @@
 # Racing Santander – Espanyol
 **LaLiga** · Regular Season - 10 · 24/10/2026 16:15 (hora España) · El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 17:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 17:06_

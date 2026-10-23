@@ -1594,5 +1594,47 @@
   "cuota": 1.44,
   "frecuencia": 0.75,
   "acierto": null
+ },
+ "1570441|Goals Over/Under|Over 1.5": {
+  "partido_id": 1570441,
+  "fecha": "2026-10-31T16:15",
+  "competicion": "LaLiga",
+  "local": "Rayo Vallecano",
+  "visitante": "Celta Vigo",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en Rayo Vallecano–Celta Vigo",
+  "cuota": 1.33,
+  "frecuencia": 0.833,
+  "acierto": null
+ },
+ "1570441|Total - Home|Over 0.5": {
+  "partido_id": 1570441,
+  "fecha": "2026-10-31T16:15",
+  "competicion": "LaLiga",
+  "local": "Rayo Vallecano",
+  "visitante": "Celta Vigo",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Rayo Vallecano marca",
+  "cuota": 1.25,
+  "frecuencia": 0.833,
+  "acierto": null
+ },
+ "1552806|Double Chance|Draw/Away": {
+  "partido_id": 1552806,
+  "fecha": "2026-10-31T17:15",
+  "competicion": "Ligue 1",
+  "local": "Nice",
+  "visitante": "Rennes",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "tipo": "resultado",
+  "texto": "Rennes o empate",
+  "cuota": 1.44,
+  "frecuencia": 0.765,
+  "acierto": null
  }
 }

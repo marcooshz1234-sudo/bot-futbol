@@ -54,7 +54,7 @@
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥 6 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. No hay empate en Coventry–Sunderland · 1,33\n✅3. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅4. Brentford o empate · 1,28\n✅5. Hull City marca · 1,25\n✅6. Más de 1,5 goles en Bournemouth–Leeds · 1,25\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/6 · SC Freiburg 10/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. No hay empate en Coventry–Sunderland · 1,33\n✅3. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅4. Brentford o empate · 1,28\n✅5. Hull City marca · 1,25\n✅6. Más de 1,5 goles en Rayo Vallecano–Celta Vigo · 1,33\n✅7. Más de 1,5 goles en Bournemouth–Leeds · 1,25\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/6 · SC Freiburg 10/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -64,6 +64,7 @@
       "1575209|Both Teams Score|Yes",
       "1557449|Double Chance|Home/Draw",
       "1557452|Total - Home|Over 0.5",
+      "1570441|Goals Over/Under|Over 1.5",
       "1557448|Goals Over/Under|Over 1.5"
     ]
   },

@@ -1,7 +1,7 @@
 # Hull City – Brentford
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 17:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 17:06_

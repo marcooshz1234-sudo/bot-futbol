@@ -1,7 +1,7 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 17:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 14:47_

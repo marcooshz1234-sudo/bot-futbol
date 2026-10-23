@@ -1,7 +1,7 @@
 # 1. FC Köln – FC Schalke 04
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 17:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 17:06_

@@ -1,24 +1,13 @@
 # Picks del Analista
 
-_Generado el 2026-10-23 17:07 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-23 20:45 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 23/10
 
-**🔒 Combi segura · cuota 1,73**
-- Samuele Birindelli: 1+ tiros (1,33) · Samuele Birindelli 7/7
-- Gol en la 1ª parte del Stade Brestois 29–Nice (1,30) · Stade Brestois 29 7/7 · Nice 5/7
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | Samuele Birindelli: 1+ tiros | jugador | 1.33 | 100% | Samuele Birindelli 7/7 |
-| 20:45 | Más de 1,5 goles en Torino–Monza | goles | 1.25 | 100% | Torino 7/7 · Monza 7/7 |
-| 20:45 | Monza marca | goles | 1.40 | 93% | Torino (en contra) 6/7 · Monza 7/7 |
-| 20:45 | No hay empate en Torino–Monza | resultado | 1.30 | 86% | Torino 6/7 · Monza 6/7 |
-| 20:45 | Gol en la 1ª parte del Stade Brestois 29–Nice | goles | 1.30 | 86% | Stade Brestois 29 7/7 · Nice 5/7 |
 | 21:00 | No hay empate en Ipswich–Nottingham Forest | resultado | 1.30 | 86% | Ipswich 7/7 · Nottingham Forest 5/7 |
-| 20:45 | Ambos marcan en Torino–Monza | goles | 1.70 | 79% | Torino 5/7 · Monza 6/7 |
 | 21:00 | Nottingham Forest ve más de 1,5 tarjetas | tarjetas | 1.53 | 79% | Ipswich (en contra) 5/7 · Nottingham Forest 6/7 |
-| 20:45 | Gol en la 1ª parte del Torino–Monza | goles | 1.36 | 79% | Torino 5/7 · Monza 6/7 |
 | 21:00 | Ipswich marca | goles | 1.30 | 79% | Ipswich 5/7 · Nottingham Forest (en contra) 6/7 |
 
 ## Sábado 24/10
@@ -190,9 +179,12 @@ _Generado el 2026-10-23 17:07 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:30 | Ambos marcan en Werder Bremen–1899 Hoffenheim | goles | 1.40 | 87% | Werder Bremen 6/6 · 1899 Hoffenheim 7/9 |
 | 16:00 | Brentford o empate | resultado | 1.28 | 86% | Brentford 6/7 · Nottingham Forest 6/7 |
 | 16:00 | Hull City marca | goles | 1.25 | 86% | Hull City 5/7 · Ipswich (en contra) 7/7 |
+| 16:15 | Más de 1,5 goles en Rayo Vallecano–Celta Vigo | goles | 1.33 | 83% | Rayo Vallecano 8/8 · Celta Vigo 7/10 |
+| 16:15 | Rayo Vallecano marca | goles | 1.25 | 83% | Rayo Vallecano 8/8 · Celta Vigo (en contra) 7/10 |
 | 16:00 | Más de 1,5 goles en Bournemouth–Leeds | goles | 1.25 | 82% | Bournemouth 9/10 · Leeds 5/7 |
 | 15:30 | SC Freiburg gana alguna de las dos partes | resultado | 1.57 | 81% | FC Augsburg 5/6 · SC Freiburg 8/10 |
 | 15:30 | Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.62 | 80% | Werder Bremen 5/6 · 1899 Hoffenheim 7/9 |
+| 17:15 | Rennes o empate | resultado | 1.44 | 76% | Nice 5/7 · Rennes 8/10 |
 | 16:00 | Leeds marca | goles | 1.33 | 76% | Bournemouth (en contra) 7/10 · Leeds 6/7 |
 | 15:30 | Ambos marcan y más de 2,5 goles en FC Augsburg–SC Freiburg | goles | 1.67 | 75% | FC Augsburg 5/6 · SC Freiburg 7/10 |
 | 15:30 | Ambos marcan en FC Augsburg–SC Freiburg | goles | 1.44 | 75% | FC Augsburg 5/6 · SC Freiburg 7/10 |

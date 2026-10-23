@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 23/10/2026 17:07 (hora España)._
+_Actualizado el 23/10/2026 20:45 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -49,5 +49,9 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 15:30 | [Bayer Leverkusen – VfB Stuttgart](informes/2026-10-31_bayer-leverkusen-vs-vfb-stuttgart.md) | Ambos marcan: No | 3.25 | 43% | 29% | 36% | **+17%** |
 | 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | 1X2: 2 | 4.33 | 42% | 22% | 32% | **+38%** |
 | 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Doble oportunidad: X2 | 2.15 | 66% | 44% | 55% | **+18%** |
+| 16:15 | [Rayo Vallecano – Celta Vigo](informes/2026-10-31_rayo-vallecano-vs-celta-vigo.md) | Goles del visitante: Menos de 0.5 | 3.00 | 42% | 31% | 37% | **+10%** |
+| 16:15 | [Rayo Vallecano – Celta Vigo](informes/2026-10-31_rayo-vallecano-vs-celta-vigo.md) | Goles más/menos: Menos de 1.5 | 3.40 | 34% | 28% | 31% | **+6%** |
+| 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles más/menos: Menos de 2.5 | 4.33 | 41% | 22% | 31% | **+36%** |
+| 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles del visitante: Menos de 0.5 | 3.40 | 43% | 28% | 35% | **+20%** |
 
 Ver el historial de aciertos en [RESULTADOS.md](RESULTADOS.md).
