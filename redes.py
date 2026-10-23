@@ -113,7 +113,8 @@ def instagram(p, token, reel=False):
     if not url:
         raise RuntimeError("falta la imagen/vídeo en publicaciones/media")
     params = {"caption": texto_final(p), "access_token": token}
-    params.update({"media_type": "REELS", "video_url": url, "share_to_feed": "true"} if reel else {"image_url": url})
+    params.update({"media_type": "REELS", "video_url": url, "share_to_feed": "true",
+                   "thumb_offset": "500"}   # portada = el post entero (primer fotograma) if reel else {"image_url": url})
     c = llamar("POST", f"{INSTAGRAM}/me/media", params)
     esperar_contenedor(INSTAGRAM, c["id"], token, 40 if reel else 10)
     return llamar("POST", f"{INSTAGRAM}/me/media_publish", {"creation_id": c["id"], "access_token": token})["id"]
