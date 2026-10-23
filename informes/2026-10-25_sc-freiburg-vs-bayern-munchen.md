@@ -1,7 +1,7 @@
 # SC Freiburg – Bayern München
-**Bundesliga** · Regular Season - 7 · 25/10/2026 17:30 (hora España) · Europa-Park Stadion
+**Bundesliga** · Regular Season - 7 · 25/10/2026 17:30 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/10 23:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
 
 ## Cuotas Bet365
 _Actualizadas: 22/10 23:40_
