@@ -138,7 +138,7 @@ def main():
             print(f"ERROR al editar {p['id']}: {e}")
         cambios += 1
     for p in sorted(cola + auto, key=lambda x: x["fecha"]):
-        if p.get("enviado") or p.get("caducada"):
+        if p.get("enviado") or p.get("caducada") or p.get("solo_redes"):
             continue
         if p["id"] in control.get("cancelados", []):
             p["caducada"] = "cancelado"
