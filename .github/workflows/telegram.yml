@@ -31,15 +31,15 @@ jobs:
         run: |
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
-          python -u comprobar_redes.py || true
+          timeout 240 python -u comprobar_redes.py || true
           fin=$(( $(date +%s) + 55*60 ))
           while [ "$(date +%s)" -lt "$fin" ]; do
             git pull --rebase -q || git rebase --abort || true
-            python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
-            python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
+            timeout 240 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
+            timeout 600 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
             vuelta=$(( ${vuelta:-0} + 1 ))
-            if [ $(( vuelta % 10 )) -eq 1 ]; then python -u moderar.py || echo "Fallo en la moderación"; python -u estadisticas.py || echo "Fallo en estadísticas"; python -u avisos.py || echo "Fallo en avisos"; fi
-            if [ $(( vuelta % 5 )) -eq 1 ]; then python -u directo.py || echo "Fallo en directo"; python -u app_datos.py || echo "Fallo en app"; fi
+            if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u moderar.py || echo "Fallo en la moderación"; timeout 240 python -u estadisticas.py || echo "Fallo en estadísticas"; timeout 240 python -u avisos.py || echo "Fallo en avisos"; fi
+            if [ $(( vuelta % 5 )) -eq 1 ]; then timeout 240 python -u directo.py || echo "Fallo en directo"; timeout 240 python -u app_datos.py || echo "Fallo en app"; fi
             for ruta in publicaciones docs datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/cuotas_inicio.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
             if ! git diff --cached --quiet; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"

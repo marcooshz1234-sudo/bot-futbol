@@ -152,7 +152,7 @@ function tarjetaPartido(p){
 }
 function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
 function vPartidos(){
-  const [modo, t] = subTabs("pmodo", [["lista","Partidos"],["tabla","Clasificación"],["patrones","Patrones"]], "lista");
+  const [modo, t] = subTabs("pmodo", [["lista","Partidos"],["directo","🔴 Picks en directo"],["tabla","Clasificación"],["patrones","Patrones"]], "lista");
   let h = t;
   if(modo==="lista"){
     const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
@@ -161,6 +161,8 @@ function vPartidos(){
     const lista = D.partidos.filter(p => (q ? true : p.fecha.slice(0,10)===dia) && (!q || (p.local+" "+p.visitante).toLowerCase().includes(q)));
     if(q){ const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>p.partido.toLowerCase().includes(q)); if(pk.length) h += `<h2>Picks de "${esc(sub.q)}"</h2><div class="card">${legs(pk)}</div>`; const pt = D.patrones.filter(p=>p.equipo.toLowerCase().includes(q)); if(pt.length) h += pt.map(p=>`<div class="card">📊 ${esc(p.texto)}</div>`).join("") }
     h += lista.length ? lista.map(tarjetaPartido).join("") : `<div class="empty">No hay partidos</div>`;
+  } else if(modo==="directo"){
+    h += vDirecto();
   } else if(modo==="tabla"){
     const ligas = Object.keys(D.clasificaciones); const [lg, t3] = subTabs("liga", ligas.map(l=>[l,l]), ligas[0]);
     const tb = D.clasificaciones[lg]||[];
@@ -169,6 +171,34 @@ function vPartidos(){
     h += `<div class="mut" style="margin:0 4px 10px">Lo que más se repite en los últimos 10 partidos de cada equipo. Ideas para posts.</div>` + D.patrones.map(p => `<div class="card row"><span class="sp">📊 ${esc(p.texto)}</span><span class="chip verde">${p.pct}%</span><button class="btn2" onclick="copiar('📊 '+${JSON.stringify(p.texto).replace(/"/g,"&quot;")})">Copiar</button></div>`).join("");
   }
   return h;
+}
+function icono(p){
+  if(p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)) return `<span style="font-size:22px">✅</span>`;
+  if(p.estado==="rojo") return `<span style="font-size:22px">❌</span>`;
+  if(p.estado==="va_bien") return `<span class="chip va_bien">Va bien</span>`;
+  if(p.estado==="va_mal") return `<span class="chip va_mal">Falta</span>`;
+  return `<span style="font-size:20px">⏳</span>`;
+}
+function vDirecto(){
+  const pk = (D.dias[D.hoy]||{picks:[]}).picks;
+  const porPartido = {};
+  pk.forEach(p => (porPartido[p.partido_id] = porPartido[p.partido_id] || []).push(p));
+  const partidos = Object.keys(porPartido).map(id => ({p: D.partidos.find(x=>x.id==id) || {id, fecha: porPartido[id][0].fecha, local: porPartido[id][0].partido.split(" – ")[0], visitante: porPartido[id][0].partido.split(" – ")[1], estado:"NS", goles:[null,null]}, picks: porPartido[id]}));
+  if(!partidos.length) return `<div class="empty">Hoy no hay picks</div>`;
+  const vivo = x => ["1H","2H","HT","ET","P","BT","LIVE"].includes(x.p.estado), fin = x => ["FT","AET","PEN"].includes(x.p.estado);
+  const orden = x => vivo(x) ? 0 : fin(x) ? 2 : 1;
+  partidos.sort((a,b) => orden(a)-orden(b) || a.p.fecha.localeCompare(b.p.fecha));
+  const ok = pk.filter(p => p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)).length, ko = pk.filter(p=>p.estado==="rojo").length;
+  let h = `<div class="grid2" style="margin-bottom:10px"><div class="stat"><span class="mut">Ya cumplidos</span><b style="color:var(--ok)">${ok} ✅</b><span class="mut">de ${pk.length} picks de hoy</span></div><div class="stat"><span class="mut">Fallados</span><b style="color:var(--ko)">${ko} ❌</b><span class="mut">${pk.length-ok-ko} por decidir</span></div></div>`;
+  let grupo = null;
+  partidos.forEach(x => {
+    const g = vivo(x) ? "🔴 En juego" : fin(x) ? "Terminados" : "Por empezar";
+    if(g !== grupo){ h += `<h2>${g}</h2>`; grupo = g }
+    const m = x.p, marc = (vivo(x)||fin(x)) && m.goles && m.goles[0]!=null ? `${m.goles[0]} - ${m.goles[1]}` : m.fecha.slice(11,16);
+    h += `<div class="card"><div class="match" style="margin-bottom:6px">${m.logo_l?`<img src="${esc(m.logo_l)}" alt="">`:""}<b class="sp" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(m.local)} – ${esc(m.visitante)}</b><span class="score" style="font-size:19px">${marc}</span>${vivo(x)?`<span class="chip live">● ${m.estado==="HT"?"Desc.":(m.minuto||"")+"'"}</span>`:fin(x)?`<span class="chip">Final</span>`:""}</div>
+      ${x.picks.map(p => `<div class="leg"><span class="sp">${esc(p.texto)}</span><span class="cuota" style="font-size:16px">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
+  });
+  return h + `<div class="mut" style="margin:6px 4px">✅ cumplido · ❌ fallado · ⏳ por empezar o sin decidir. Se actualiza cada ~5 min.</div>`;
 }
 function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); return f.toISOString().slice(0,10) }
 

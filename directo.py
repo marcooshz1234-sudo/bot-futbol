@@ -23,7 +23,8 @@ def main():
     ahora = datetime.now(MADRID)
     picks = leer(DATOS / "picks.json", {}) or {}
     ids = set()
-    for d in (picks.get("dias") or {}).values():
+    registro = list((leer(DATOS / "registro_aciertos.json", {}) or {}).values())   # guarda también los ya empezados
+    for d in list((picks.get("dias") or {}).values()) + [{"picks": registro}]:
         for p in d.get("picks", []):
             inicio = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
             if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=150):

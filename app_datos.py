@@ -206,7 +206,10 @@ def main():
             f = evaluador(p["mercado"], p["opcion"], True)
             if d and f:
                 try:
-                    return "va_bien" if f(d, d["local"]["id"]) else "va_mal"
+                    bien = f(d, d["local"]["id"])
+                    if d.get("estado") in FT:
+                        return "verde" if bien else "rojo"
+                    return "va_bien" if bien else "va_mal"
                 except Exception:
                     return "en_juego"
         return "pendiente"
@@ -215,7 +218,8 @@ def main():
         return {"id": clave(p), "partido_id": p["partido_id"], "fecha": p["fecha"], "competicion": p.get("competicion"),
                 "partido": f"{p['local']} – {p['visitante']}", "texto": p["texto"], "cuota": p["cuota"],
                 "frecuencia": round(p["frecuencia"] * 100), "detalle": p.get("detalle"), "tipo": p.get("tipo"),
-                "valor": round(p.get("ventaja", 0) * 100), "estado": estado_pick(p)}
+                "valor": round(p.get("ventaja", 0) * 100), "estado": estado_pick(p),
+                "definitivo": p["opcion"].startswith("Over") or p["opcion"] == "Yes" or p.get("tipo") == "jugador"}
 
     dias = {}
     for dia, d in (picks.get("dias") or {}).items():
@@ -228,7 +232,11 @@ def main():
                 est = ("verde" if all(l["estado"] == "verde" for l in legs) else
                        "rojo" if any(l["estado"] == "rojo" for l in legs) else "pendiente")
                 combis[k] = {"cuota": c["cuota"], "picks": legs, "estado": est}
-        dias[dia] = {"picks": [ligero(p) for p in sorted(d.get("picks") or [], key=lambda x: x["fecha"])],
+        lista = list(d.get("picks") or [])
+        ya = {clave(p) for p in lista}
+        lista += [dict(p, detalle=p.get("detalle")) for k, p in reg.items()   # los ya empezados salen de picks.json
+                  if p.get("fecha", "")[:10] == dia and k not in ya and "partido_id" in p]
+        dias[dia] = {"picks": [ligero(p) for p in sorted(lista, key=lambda x: x["fecha"])],
                      "combis": combis}
 
     # --- alertas de cuota: picks fuertes cuya cuota ha subido desde que el bot los vio por primera vez
