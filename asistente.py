@@ -133,11 +133,20 @@ def borrar_en_todas(token_tg, canal, p):
             motivo = ("Instagram no deja borrar posts desde fuera de su app" if nombre == "Instagram"
                       else "lo publicó Metricool y Facebook solo deja borrarlo a quien lo publicó"
                       if "(#200)" in str(e) else str(e)[:150])
-            res.append(f"⚠️ {nombre}: {motivo} → bórralo a mano en la app")
+            enlaces = []
+            for i in objetivo:   # enlace directo para borrarlo a mano de un toque
+                try:
+                    campo_url = "permalink_url" if nombre == "Facebook" else "permalink"
+                    u = llamar("GET", f"{base}/{i}", {"fields": campo_url, "access_token": tok}).get(campo_url)
+                    if u:
+                        enlaces.append(u if u.startswith("http") else f"https://www.facebook.com{u}")
+                except Exception:
+                    pass
+            res.append(f"⚠️ {nombre}: {motivo}\n👉 Ábrelo y bórralo: " + (" ".join(enlaces) or "(no encuentro el enlace)"))
     hechos = leer(RAIZ / "publicaciones" / "borrados.json", [])
     escribir(RAIZ / "publicaciones" / "borrados.json", (hechos + [p["id"]])[-200:])
     guardar(f"borrado {p['id']}")
-    return "🗑️ " + p["texto"].splitlines()[0][:50] + "\n\n" + "\n".join(res)
+    return "🗑️ " + p["texto"].splitlines()[0][:50] + "\n\n" + "\n\n".join(res)
 
 
 class Asistente:
