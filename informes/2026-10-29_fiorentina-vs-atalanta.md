@@ -1,10 +1,10 @@
 # Fiorentina – Atalanta
 **Serie A** · Regular Season - 9 · 29/10/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.57**
@@ -13,7 +13,7 @@ _Actualizadas: 22/10 23:40_
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.62** · menos **1.50**
+    - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**

@@ -1,10 +1,10 @@
 # Sassuolo – Lazio
 **Serie A** · Regular Season - 9 · 27/10/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **2.75**  ·  X **3.40**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.30**  ·  X2 **1.40**

@@ -1,10 +1,10 @@
 # 1899 Hoffenheim – Bayer Leverkusen
 **Bundesliga** · Regular Season - 7 · 25/10/2026 15:30 (hora España) · Prezero Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **2.88**  ·  X **3.75**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.40**
@@ -125,7 +125,7 @@ _Actualizadas: 22/10 23:40_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**1899 Hoffenheim:** N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); P. Wimmer (baja, Thigh Injury); N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); P. Wimmer (baja, Thigh Injury)
+**1899 Hoffenheim:** N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); P. Wimmer (baja, Thigh Injury); A. Daghim (duda, Injury); N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); P. Wimmer (baja, Thigh Injury); A. Daghim (duda, Injury)
 **Bayer Leverkusen:** E. Ben Seghir (baja, Muscle Injury); M. Culbreath (baja, Foot Injury); G. Doue (baja, Calf Injury); K. Eichhorn (baja, Illness); C. Kofane (baja, Muscle Injury); M. Terrier (baja, Muscle Injury); E. Ben Seghir (baja, Muscle Injury); M. Culbreath (baja, Foot Injury); G. Doue (baja, Calf Injury); K. Eichhorn (baja, Illness); C. Kofane (baja, Muscle Injury); M. Terrier (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes

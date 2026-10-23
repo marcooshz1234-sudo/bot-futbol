@@ -1,10 +1,10 @@
 # Lecce – Juventus
 **Serie A** · Regular Season - 8 · 25/10/2026 18:00 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **8.00**  ·  X **4.20**  ·  2 **1.44**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.22**  ·  X2 **1.08**
@@ -53,11 +53,11 @@ _Actualizadas: 22/10 23:40_
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
 - **Total ShotOnGoal:**
     - 8,5: más **1.83** · menos **1.83**
-- **ShotOnTarget 1x2:** 1 **5.00**  ·  X **8.50**  ·  2 **1.25**
+- **ShotOnTarget 1x2:** 1 **5.50**  ·  X **9.00**  ·  2 **1.22**
 - **Total Shots:**
     - 25,5: más **1.80** · menos **1.91**
     - 26,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **6.00**  ·  X **19.00**  ·  2 **1.12**
+- **Shots.1x2:** 1 **6.50**  ·  X **19.00**  ·  2 **1.11**
 - **Home Player Shots On Target Total:** Nikola Stulic - 1 **2.25**  ·  Francisco Paco Esteban - 1 **2.25**  ·  Santiago Pierotti - 1 **3.40**  ·  Medon Berisha - 1 **2.00**  ·  Omri Gandelman - 1 **3.40**  ·  Konan N'Dri - 1 **2.10**  ·  Youssef Maleh - 1 **4.33**  ·  Lassana Coulibaly - 1 **3.50**  ·  Mohamed Kaba - 1 **2.10**  ·  Olaf Gorter - 1 **3.75**  ·  Sadik Fofana - 1 **11.00**  ·  Oumar Ngom - 1 **4.00**  ·  Kialonda Gaspar - 1 **15.00**  ·  Corrie Ndaba - 1 **5.50**  ·  Danilo Veiga - 1 **11.00**  ·  Oliveira Tiago Gabriel - 1 **7.00**  ·  Antonino Gallo - 1 **17.00**  ·  Gaby Jean - 1 **15.00**  ·  Jamil Siebert - 1 **8.00**  ·  Nikola Stulic - 2 **9.00**  ·  Francisco Paco Esteban - 2 **9.00**  ·  Santiago Pierotti - 2 **17.00**  ·  Medon Berisha - 2 **6.50**  ·  Omri Gandelman - 2 **17.00**  ·  Konan N'Dri - 2 **8.00**  ·  Youssef Maleh - 2 **21.00**  ·  Lassana Coulibaly - 2 **19.00**  ·  Mohamed Kaba - 2 **8.00**  ·  Olaf Gorter - 2 **19.00**  ·  Oumar Ngom - 2 **21.00**  ·  Nikola Stulic - 3 **19.00**  ·  Francisco Paco Esteban - 3 **21.00**  ·  Santiago Pierotti - 3 **19.00**  ·  Medon Berisha - 3 **21.00**  ·  Omri Gandelman - 3 **21.00**  ·  Konan N'Dri - 3 **21.00**  ·  Mohamed Kaba - 3 **21.00**  ·  Ivan Ilic - 1 **3.75**  ·  Ali Dembele - 1 **10.00**  ·  Ivan Ilic - 2 **21.00**  ·  Amar Ahmed Fatah - 1 **2.00**  ·  Elijah Scott - 1 **15.00**  ·  Amar Ahmed Fatah - 2 **6.50**  ·  Amar Ahmed Fatah - 3 **21.00**  ·  Joel Monteiro - 1 **2.38**  ·  Joel Monteiro - 2 **10.00**
 - **Away Player Shots On Target Total:** Edon Zhegrova **29.00**  ·  Randal Kolo Muani **11.00**  ·  Omri Gandelman **17.00**  ·  Joel Monteiro **51.00**  ·  Jhon Lucumi **15.00**  ·  Bremer **15.00**  ·  Zeki Celik **67.00**  ·  Oumar Ngom **51.00**  ·  Olaf Gorter **67.00**  ·  Jeremie Boga **21.00**  ·  Nikola Stulic **19.00**  ·  Konan N'dri **51.00**  ·  Nicolas Gonzalez **10.00**  ·  Douglas Luiz **34.00**  ·  Ali Dembele **101.00**  ·  Daniele Rugani **19.00**  ·  Corrie Ndaba **67.00**  ·  Jamil Siebert **23.00**  ·  Danilo Veiga **81.00**  ·  Oliveira Tiago Gabriel **23.00**  ·  Willem Geubbels **19.00**  ·  Amar Ahmed Fatah **51.00**  ·  Kerim Alajbegovic **15.00**  ·  Lloyd Kelly **29.00**  ·  Pape Sarr **26.00**  ·  Nick Woltemade **5.00**  ·  Youssef Maleh **23.00**  ·  Andrea Cambiaso **67.00**  ·  Federico Gatti **12.00**  ·  Teun Koopmeiners **41.00**  ·  Weston McKennie **7.50**  ·  Francisco Conceicao **26.00**  ·  Ivan Ilic **81.00**  ·  Pierre Kalulu Kyatengwa **23.00**  ·  Antonino Gallo **126.00**  ·  Gaby Jean **26.00**  ·  Lassana Coulibaly **34.00**  ·  Santiago Pierotti **23.00**  ·  Kialonda Gaspar **19.00**  ·  Medon Berisha **51.00**  ·  Mohamed Kaba **101.00**  ·  Augusto Owusu **17.00**
 - **Away Player Shots Total:**
@@ -123,7 +123,8 @@ _Actualizadas: 22/10 23:40_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Lecce:** L. Coulibaly (baja, Thigh Injury); I. Ilic (baja, Thigh Injury); M. Berisha (duda, Thigh Injury); L. Coulibaly (baja, Thigh Injury); I. Ilic (baja, Thigh Injury); M. Berisha (duda, Thigh Injury)
+**Juventus:** F. Conceicao (baja, Shoulder Injury); J. Ekhator (baja, Muscle Injury); K. Grabara (baja, Knee Injury); M. Locatelli (baja, Knee Injury); A. Milik (baja, Inactive); K. Thuram (baja, Knee Injury); K. Yildiz (baja, Foot Injury); F. Conceicao (baja, Shoulder Injury); J. Ekhator (baja, Muscle Injury); K. Grabara (baja, Knee Injury); M. Locatelli (baja, Knee Injury); A. Milik (baja, Inactive); K. Thuram (baja, Knee Injury); K. Yildiz (baja, Foot Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-09 · Serie A: Lecce 0-1 Juventus

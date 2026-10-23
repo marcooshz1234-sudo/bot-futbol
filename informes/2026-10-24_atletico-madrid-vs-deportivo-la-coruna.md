@@ -1,10 +1,10 @@
 # Atletico Madrid – Deportivo La Coruna
 **LaLiga** · Regular Season - 10 · 24/10/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.14**  ·  X2 **3.75**
@@ -121,7 +121,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Atletico Madrid:** Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury); Lee Kang-In (duda, Muscle Injury); Koke (baja, Muscle Injury); C. Romero (baja, Muscle Injury); Lee Kang-In (duda, Muscle Injury)
-**Deportivo La Coruna:** P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury); Y. Hernandez (duda, Head Injury); P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury); Y. Hernandez (duda, Head Injury)
+**Deportivo La Coruna:** P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury); P. Aubameyang (baja, Knee Injury); N. Carrillo (baja, Muscle Injury); M. Casado (baja, Collarbone injury); Z. Eddahchouri (baja, Wrist Injury); B. Ede (baja, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-13 · Copa del Rey: Deportivo La Coruna 0-1 Atletico Madrid

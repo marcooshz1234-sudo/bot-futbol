@@ -1,10 +1,10 @@
 # Monaco – Lille
 **Ligue 1** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -30,7 +30,7 @@ _Actualizadas: 22/10 23:40_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
+    - 9,5: más **1.91** · menos **1.80**
 - **Tarjetas más/menos:**
     - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.25**  ·  2 **4.00**

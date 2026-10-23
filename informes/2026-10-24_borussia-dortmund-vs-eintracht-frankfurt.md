@@ -1,10 +1,10 @@
 # Borussia Dortmund – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 7 · 24/10/2026 18:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 02:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
 
 ## Cuotas Bet365
-_Actualizadas: 22/10 23:40_
+_Actualizadas: 23/10 08:48_
 
 - **1X2:** 1 **1.48**  ·  X **5.00**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.62**
