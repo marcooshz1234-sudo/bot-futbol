@@ -113,6 +113,21 @@ def main():
         print("En pausa (desde el asistente): no se publica nada")
         return
     cambios = 0
+    # correcciones de posts ya publicados: "editar_texto" en cola.json → se edita el mensaje del canal
+    for p in cola:
+        nuevo = p.get("editar_texto")
+        if not nuevo or not p.get("mensaje_id"):
+            continue
+        metodo, campo = ("editMessageCaption", "caption") if p.get("foto") else ("editMessageText", "text")
+        try:
+            api(token, metodo, {"chat_id": canal, "message_id": p["mensaje_id"], campo: preparar_texto(nuevo)})
+            p["texto"], p["editado"] = nuevo, ahora.strftime("%Y-%m-%dT%H:%M")
+            p.pop("editar_texto")
+            print(f"Editado en el canal: {p['id']}")
+        except Exception as e:
+            p["error_edicion"] = str(e)
+            print(f"ERROR al editar {p['id']}: {e}")
+        cambios += 1
     for p in sorted(cola + auto, key=lambda x: x["fecha"]):
         if p.get("enviado") or p.get("caducada"):
             continue
