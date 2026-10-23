@@ -14,7 +14,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 
 from bot import COMPETICIONES, DATOS, MADRID, PARTIDOS, RAIZ, leer
-from picks import evaluador
+from picks import evaluador, texto_pick
 from plantillas import atractivo
 
 SALIDA = RAIZ / "docs" / "datos.json"
@@ -144,6 +144,18 @@ def patrones(hist, nombres):
         if x["equipo"] not in vistos:
             uno.append(x); vistos.add(x["equipo"])
     return uno[:25]
+
+
+def valor_es():
+    """Picks con valor del modelo, con el texto en español (sin 'menos de 2,5/3,5 goles')."""
+    salida = []
+    for v in leer(DATOS / "valor.json", []) or []:
+        if v["mercado"] == "Goals Over/Under" and v["opcion"] in ("Under 2.5", "Under 3.5"):
+            continue
+        l, _, vi = v["partido"].partition(" – ")
+        salida.append(dict(v, texto=texto_pick(v["mercado"], v["opcion"], l, vi),
+                           hora=hora(v["fecha"]).strftime("%d/%m %H:%M")))
+    return salida[:15]
 
 
 # ------------------------------------------------------------------ versión pública
@@ -360,7 +372,7 @@ def main():
 
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "hoy": hoy, "manana": manana,
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
-             "valor": (leer(DATOS / "valor.json", []) or [])[:15], "clasificaciones": clasificaciones(),
+             "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
              "publicados": publicados, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
