@@ -10,3 +10,11 @@ IG/FB programado en Metricool del 23 al 26/10: 26 fotos en IG, 26 reels en IG (1
 23/10 12:10 · Aumento 25% bet365 en Alavés–Málaga y Granada–Valladolid (20:30). Combis dadas al usuario:
 - Alavés: gana 1,61 · gana descanso 2,25 · +1,5 goles 1,33 · Málaga 4+ córners 1,66 · Herrero 3+ paradas 1,36 (~9,5 Crear apuesta). Post 18:00 aún con 1,65/1,33 → actualizar.
 - Granada–Valladolid: ambos marcan 1,83 · +2,5 goles 2,10 · Arnu 1+ a puerta 1,40 · Latasa 1+ a puerta 1,40 · Pascual 1+ a puerta 1,33 (~9-10). Falta foto escudos para publicar.
+
+23/10 12:20 · IDEAS de Threads (búsquedas combinada / apuestas futbol / pronostico hoy / reto apuestas):
+1. Post de resultados con ✅ por pick + marcador (datosdeportivosdh 291 likes/41 coment.) → nuestro balance 23:30 en ese formato.
+2. "Placa": imagen tipo tabla con escudos de cada partido + 1 mercado en grande (futdata 173 likes/8 reposts; max.analista ~41). Hacer con imagenes.py SIN logos inventados (solo texto/banderas) o con escudos que mande el usuario.
+3. Preguntas que generan comentarios ("¿Cómo van vuestras apuestas?", "¿hago grupo?" 97 likes/34 coment.).
+4. Boleto resuelto con ✅ y marcador (107 likes/28 coment.) → versión propia renderizada, nunca boleto real con dinero en IG.
+5. Escalera con contador "3/30" en el título; reto 20→2000 en una semana (otros lo hacen).
+6. "Soñar": combi de todos los picks a cuota enorme (cuota 221) como post aparte.
