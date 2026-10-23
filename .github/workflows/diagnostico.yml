@@ -1,0 +1,37 @@
+name: Diagnóstico (a mano)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Probar cada paso
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: "-1003953339107"
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+          FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
+          FACEBOOK_PAGINA: ${{ secrets.FACEBOOK_PAGINA }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          out=diagnostico.txt; : > $out
+          for s in comprobar_redes publicar_telegram redes moderar estadisticas avisos directo app_datos; do
+            t0=$(date +%s)
+            timeout 150 python -u $s.py > /tmp/o.txt 2>&1; rc=$?
+            echo "== $s · rc=$rc · $(( $(date +%s) - t0 ))s" >> $out
+            tail -c 1500 /tmp/o.txt >> $out; echo >> $out
+          done
+          git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
+          git stash -q || true
+          git pull -q --rebase || true
+          git stash pop -q || true
+          echo "== git status" >> $out; git status --short | head -30 >> $out
+          git add diagnostico.txt && git commit -qm "Diagnóstico" && git push -q || echo "push falló"
