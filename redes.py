@@ -62,6 +62,23 @@ def texto_final(p):
     return t
 
 
+_PAGINA = {}
+
+
+def pagina_facebook(token_usuario, pagina=None):
+    """Con el token de usuario (larga duración) saca la página y su token de página.
+    Si no se dice qué página, coge la primera que administra (Combilocas)."""
+    if "id" not in _PAGINA:
+        cuentas = llamar("GET", f"{FACEBOOK}/me/accounts", {"fields": "id,name,access_token", "access_token": token_usuario})
+        lista = cuentas.get("data", [])
+        if pagina:
+            lista = [c for c in lista if c["id"] == str(pagina)] or lista
+        if not lista:
+            raise RuntimeError("el token no administra ninguna página de Facebook")
+        _PAGINA.update(id=lista[0]["id"], nombre=lista[0]["name"], token=lista[0]["access_token"])
+    return _PAGINA["id"], _PAGINA["token"]
+
+
 def url_media(p, ext):
     f = RAIZ / "publicaciones" / "media" / f"{p['id']}.{ext}"
     if not f.exists():
@@ -102,7 +119,8 @@ def instagram(p, token, reel=False):
     return llamar("POST", f"{INSTAGRAM}/me/media_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
 
-def facebook(p, token, pagina, con_foto):
+def facebook(p, token_usuario, pagina, con_foto):
+    pagina, token = pagina_facebook(token_usuario, pagina)
     if con_foto and url_media(p, "jpg"):
         r = llamar("POST", f"{FACEBOOK}/{pagina}/photos",
                    {"url": url_media(p, "jpg"), "caption": texto_final(p), "access_token": token})
@@ -140,7 +158,7 @@ def main():
         if (claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
                 and ahora >= cuando + REEL_TRAS and "instagram" in hecho):
             tareas.append(("instagram_reel", lambda: instagram(p, claves["instagram"], reel=True)))
-        if claves["facebook"] and pagina and "facebook" not in hecho:
+        if claves["facebook"] and "facebook" not in hecho:
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
             tareas.append(("facebook", lambda tipo=tipo: facebook(p, claves["facebook"], pagina, tipo == "foto")))
         for red, hacer in tareas:

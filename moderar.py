@@ -17,7 +17,7 @@ import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from redes import FACEBOOK, INSTAGRAM, THREADS, llamar
+from redes import FACEBOOK, INSTAGRAM, THREADS, llamar, pagina_facebook
 
 RAIZ = Path(__file__).resolve().parent
 ESTADO = RAIZ / "datos" / "moderacion.json"
@@ -87,7 +87,8 @@ def comentarios_instagram(token):
             yield "instagram", c["id"], c.get("username", ""), c.get("text", "")
 
 
-def comentarios_facebook(token, pagina):
+def comentarios_facebook(token_usuario, pagina):
+    pagina, token = pagina_facebook(token_usuario, pagina)
     posts = llamar("GET", f"{FACEBOOK}/{pagina}/posts", {"fields": "id,created_time", "limit": 40, "access_token": token})
     for post in posts.get("data", []):
         if not reciente(post.get("created_time")):
@@ -104,7 +105,8 @@ def quitar(red, cid, claves):
     if red == "threads":
         llamar("POST", f"{THREADS}/{cid}/manage_reply", {"hide": "true", "access_token": claves["threads"]})
         return "oculto"
-    base, tok = (INSTAGRAM, claves["instagram"]) if red == "instagram" else (FACEBOOK, claves["facebook"])
+    base, tok = ((INSTAGRAM, claves["instagram"]) if red == "instagram"
+                 else (FACEBOOK, pagina_facebook(claves["facebook"], os.environ.get("FACEBOOK_PAGINA"))[1]))
     llamar("DELETE", f"{base}/{cid}", {"access_token": tok})
     return "borrado"
 
@@ -133,7 +135,7 @@ def main():
         fuentes.append(lambda: comentarios_threads(claves["threads"]))
     if claves["instagram"]:
         fuentes.append(lambda: comentarios_instagram(claves["instagram"]))
-    if claves["facebook"] and pagina:
+    if claves["facebook"]:
         fuentes.append(lambda: comentarios_facebook(claves["facebook"], pagina))
     avisos = []
     for fuente in fuentes:

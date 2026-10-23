@@ -4,14 +4,14 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from redes import FACEBOOK, INSTAGRAM, RAIZ, THREADS, llamar
+from redes import FACEBOOK, INSTAGRAM, RAIZ, THREADS, llamar, pagina_facebook
 
 estado = {"comprobado": datetime.now(ZoneInfo("Europe/Madrid")).strftime("%Y-%m-%d %H:%M")}
 pruebas = {
     "instagram": ("INSTAGRAM_TOKEN", lambda t: llamar("GET", f"{INSTAGRAM}/me", {"fields": "username,account_type", "access_token": t})),
     "threads": ("THREADS_TOKEN", lambda t: llamar("GET", f"{THREADS}/me", {"fields": "username", "access_token": t})),
-    "facebook": ("FACEBOOK_TOKEN", lambda t: llamar("GET", f"{FACEBOOK}/{os.environ.get('FACEBOOK_PAGINA', 'me')}",
-                                                 {"fields": "name", "access_token": t})),
+    "facebook": ("FACEBOOK_TOKEN", lambda t: (lambda pid_tok: llamar("GET", f"{FACEBOOK}/{pid_tok[0]}",
+                 {"fields": "name", "access_token": pid_tok[1]}))(pagina_facebook(t, os.environ.get("FACEBOOK_PAGINA")))),
 }
 for red, (var, prueba) in pruebas.items():
     token = os.environ.get(var)
