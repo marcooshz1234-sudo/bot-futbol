@@ -1,7 +1,7 @@
 # RB Leipzig – SV Elversberg
 **Bundesliga** · Regular Season - 7 · 24/10/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

@@ -1,7 +1,7 @@
 # Lazio – Parma
 **Serie A** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

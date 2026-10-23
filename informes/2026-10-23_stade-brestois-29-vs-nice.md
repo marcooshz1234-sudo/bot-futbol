@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Nice
 **Ligue 1** · Regular Season - 8 · 23/10/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

@@ -1,7 +1,7 @@
 # Ipswich – Nottingham Forest
 **Premier League** · Regular Season - 8 · 23/10/2026 21:00 (hora España) · Portman Road Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

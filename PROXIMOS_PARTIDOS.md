@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 23/10/2026 08:48 (hora España). Partidos guardados en la base de datos: 918._
+_Actualizado el 23/10/2026 14:47 (hora España). Partidos guardados en la base de datos: 918._
 
 
 ## Viernes 23/10
@@ -80,3 +80,6 @@ _Actualizado el 23/10/2026 08:48 (hora España). Partidos guardados en la base d
 - 20:30 · Bundesliga · [SV Elversberg – FSV Mainz 05](informes/2026-10-30_sv-elversberg-vs-fsv-mainz-05.md) · 1X2: 3.20 / 3.75 / 2.05
 - 21:00 · LaLiga · [Villarreal – Espanyol](informes/2026-10-30_villarreal-vs-espanyol.md) · 1X2: 1.57 / 4.10 / 5.25
 - 21:05 · Ligue 1 · [Lille – Lens](informes/2026-10-30_lille-vs-lens.md) · 1X2: 2.20 / 3.60 / 2.88
+
+## Sábado 31/10
+- 13:30 · Premier League · [Chelsea – Manchester United](informes/2026-10-31_chelsea-vs-manchester-united.md) · 1X2: 1.80 / 3.80 / 4.00

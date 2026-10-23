@@ -1,7 +1,7 @@
 # Rayo Vallecano – Elche
 **LaLiga** · Regular Season - 10 · 24/10/2026 14:00 (hora España) · Estadio de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

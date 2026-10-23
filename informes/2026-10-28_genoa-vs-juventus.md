@@ -1,7 +1,7 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 08:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 14:47._
 
 ## Cuotas Bet365
 _Actualizadas: 23/10 08:48_

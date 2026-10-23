@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 23/10/2026 12:43 (hora España)._
+_Actualizado el 23/10/2026 14:47 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -22,11 +22,11 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
+| 15:00 | [Liverpool – Brighton](informes/2026-10-25_liverpool-vs-brighton.md) | 1X2: 2 | 3.25 | 49% | 29% | 39% | **+28%** |
+| 15:00 | [Liverpool – Brighton](informes/2026-10-25_liverpool-vs-brighton.md) | Goles del local: Menos de 1.5 | 2.00 | 66% | 46% | 56% | **+12%** |
 | 15:00 | [Manchester United – Bournemouth](informes/2026-10-25_manchester-united-vs-bournemouth.md) | 1X2: 2 | 3.30 | 43% | 29% | 36% | **+19%** |
 | 15:00 | [Monaco – Lille](informes/2026-10-25_monaco-vs-lille.md) | Goles del visitante: Menos de 0.5 | 3.00 | 44% | 31% | 38% | **+13%** |
 | 15:00 | [Monaco – Lille](informes/2026-10-25_monaco-vs-lille.md) | 1X2: 1 | 2.05 | 62% | 46% | 54% | **+12%** |
-| 15:00 | [Liverpool – Brighton](informes/2026-10-25_liverpool-vs-brighton.md) | 1X2: 2 | 3.25 | 49% | 29% | 39% | **+28%** |
-| 15:00 | [Liverpool – Brighton](informes/2026-10-25_liverpool-vs-brighton.md) | Goles del local: Menos de 1.5 | 2.00 | 66% | 46% | 56% | **+12%** |
 | 15:30 | [1899 Hoffenheim – Bayer Leverkusen](informes/2026-10-25_1899-hoffenheim-vs-bayer-leverkusen.md) | 1X2: 2 | 2.30 | 68% | 41% | 54% | **+25%** |
 | 15:30 | [1899 Hoffenheim – Bayer Leverkusen](informes/2026-10-25_1899-hoffenheim-vs-bayer-leverkusen.md) | Goles del visitante: Más de 2.5 | 3.25 | 47% | 29% | 38% | **+23%** |
 | 17:30 | [SC Freiburg – Bayern München](informes/2026-10-25_sc-freiburg-vs-bayern-munchen.md) | Goles del visitante: Menos de 1.5 | 4.00 | 40% | 23% | 32% | **+27%** |
