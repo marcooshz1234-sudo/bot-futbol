@@ -1,4 +1,4 @@
-name: Publicar en Telegram
+name: Publicar en Telegram y redes
 # GitHub lanza los cron con mucho retraso (cada ~40-45 min en vez de 15). Para publicar a la hora
 # exacta, cada ejecución se queda ~55 min mirando la cola minuto a minuto. Repo público = minutos gratis.
 on:
@@ -19,10 +19,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Publicar lo que toca, minuto a minuto
+      - name: Publicar lo que toca, minuto a minuto (Telegram, Threads, Instagram, Facebook) y quitar spam
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CANAL: "-1003953339107"
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+          FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
+          FACEBOOK_PAGINA: ${{ secrets.FACEBOOK_PAGINA }}
         run: |
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
@@ -30,7 +34,10 @@ jobs:
           while [ "$(date +%s)" -lt "$fin" ]; do
             git pull --rebase -q || git rebase --abort || true
             python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
-            git add -A publicaciones
+            python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
+            vuelta=$(( ${vuelta:-0} + 1 ))
+            if [ $(( vuelta % 10 )) -eq 1 ]; then python -u moderar.py || echo "Fallo en la moderación"; fi
+            git add -A publicaciones datos/moderacion.json 2>/dev/null; git add -A publicaciones
             if ! git diff --cached --quiet; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
               for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
