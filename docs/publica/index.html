@@ -198,7 +198,7 @@ function vDirecto(){
     h += `<div class="card"><div class="match" style="margin-bottom:6px">${m.logo_l?`<img src="${esc(m.logo_l)}" alt="">`:""}<b class="sp" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(m.local)} – ${esc(m.visitante)}</b><span class="score" style="font-size:19px">${marc}</span>${vivo(x)?`<span class="chip live">● ${m.estado==="HT"?"Desc.":(m.minuto||"")+"'"}</span>`:fin(x)?`<span class="chip">Final</span>`:""}</div>
       ${x.picks.map(p => `<div class="leg"><span class="sp">${esc(p.texto)}</span><span class="cuota" style="font-size:16px">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
   });
-  return h + `<div class="mut" style="margin:6px 4px">✅ cumplido · ❌ fallado · ⏳ por empezar o sin decidir. Se actualiza cada ~5 min.</div>`;
+  return h + `<div class="mut" style="margin:6px 4px">✅ cumplido · ❌ fallado · ⏳ por empezar o sin decidir. Se actualiza cada ~10 min.</div>`;
 }
 function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); return f.toISOString().slice(0,10) }
 
