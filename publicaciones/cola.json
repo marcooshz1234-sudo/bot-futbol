@@ -257,5 +257,15 @@
     "errores_redes": {
       "facebook": "caducado: no salió a tiempo"
     }
+  },
+  {
+    "id": "2026-10-23-balance",
+    "fecha": "2026-10-23T22:58",
+    "texto": "📊 BALANCE DEL VIERNES 📊\n\n⏳ COMBINADA CUOTA 3 DEL VIERNES · 3,08\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1,96\n✅ COMBI SEGURA DEL VIERNES · 1,66\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 9,50\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 10,50\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 9,50\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 9,50\n❌ COMBI LOCA DEL VIERNES · 7,94\n\n💚 3 de 7 en verde\n\nMañana más y mejor 💪🍀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
