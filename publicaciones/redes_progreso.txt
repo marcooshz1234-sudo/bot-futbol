@@ -24,3 +24,5 @@ IG/FB programado en Metricool del 23 al 26/10: 26 fotos en IG, 26 reels en IG (1
 23/10 12:30 · Granada–Valladolid publicado: cola.json 17:00 + Metricool Threads 404019526, IG/FB foto 404019541, reel 17:10 404019565. Alavés y loca corregidos (1,61 / 1,36 / loca 7,94): Threads 404019357/404019417, IG+FB 404019381, reel 404019407, loca IG 404019443, FB 404019462, reel 404019492.
 
 23/10 14:15 · Nicolas 4+ paradas bajó de 1,53 (00:15) a 1,35 (aviso de un seguidor). Telegram editado (editar_texto, nuevo en publicar_telegram.py), post de actualización a las 14:25 en Threads/IG/FB/Telegram. REGLA: revisar en bet365 las cuotas del mismo día antes de cada post (avisos sáb 09:30 y 13:00, dom 09:30).
+
+23/10 15:45 · ERROR MÍO: el 1,35 del seguidor era falso; bet365 15:43 → Nicolas 4+ = 1,57 (Stuttgart 1,33, descanso 1,72, Gladbach 4+ córners 2,00). Telegram: combi Stuttgart editada con la cuota real y actualización borrada. Threads/IG/FB: la actualización de las 14:25 (Threads, IG foto, IG reel 14:35, FB texto) sigue publicada con 1,35 → la tiene que borrar el usuario. REGLA: nunca corregir por un comentario sin mirarlo antes en bet365.
