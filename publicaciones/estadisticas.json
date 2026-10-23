@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23 18:10",
+ "actualizado": "2026-10-23 19:40",
  "redes": {
   "instagram": {
    "seguidores": 15,
@@ -9,10 +9,10 @@
    ]
   },
   "threads": {
-   "seguidores": 817,
+   "seguidores": 823,
    "hoy": null,
    "serie": [
-    817
+    823
    ]
   },
   "facebook": {
@@ -30,13 +30,13 @@
    ]
   }
  },
- "total": 904,
+ "total": 910,
  "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:00",
+  "hora": "23:00",
   "dia": "2026-10-23",
-  "titulo": "Combi loca del viernes"
+  "titulo": "9 picks para mañana (sábado)"
  },
  "ayer": null,
  "escalera": {
@@ -49,9 +49,76 @@
  "historial": {
   "2026-10-23": {
    "instagram": 15,
-   "threads": 817,
+   "threads": 823,
    "facebook": 0,
    "telegram": 72
+  }
+ },
+ "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 17,
+   "likes_media": 0.1,
+   "comentarios_media": 0.0
+  },
+  "Combi loca": {
+   "posts": 22,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi de partido (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi de partido": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Picks (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Picks": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi segura (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi segura": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Escalera (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Cuota 3 (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Escalera": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Cuota 3": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Verdes/balance": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
   }
  }
 }
