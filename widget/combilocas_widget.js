@@ -9,10 +9,9 @@ const num = n => n == null ? "—" : Math.round(n).toLocaleString("es-ES")
 const mas = n => n == null ? "" : (n >= 0 ? "+" : "") + n
 
 function ponerLinea(st, serie, ancho, alto, grosor) {   // sin datos de varios días: hueco en blanco
-  if (!serie || serie.length < 2) { st.addSpacer(alto); return }
+  if (!serie || serie.length < 2) return
   const img = linea(serie, ancho, alto, grosor)
   if (img) st.addImage(img).imageSize = new Size(ancho, alto)
-  else st.addSpacer(alto)
 }
 
 function linea(serie, ancho, alto, grosor) {
@@ -40,7 +39,7 @@ try { d = await new Request(URL + "?t=" + Date.now()).loadJSON() } catch (e) { d
 
 const w = new ListWidget()
 w.backgroundColor = FONDO
-w.setPadding(12, 14, 12, 14)
+w.setPadding(10, 12, 10, 12)
 w.refreshAfterDate = new Date(Date.now() + 15 * 60 * 1000)
 const tam = config.widgetFamily || "medium"
 const modo = (args.widgetParameter || "").toLowerCase()
@@ -69,37 +68,35 @@ if (!d) {
   Object.values(d.historial || {}).forEach((h, i) => { tot[i] = Object.values(h).reduce((a, b) => a + b, 0) })
   ponerLinea(w, Object.values(tot).filter(x => x), 120, 26, 2.5)
 } else {
-  const cab = w.addStack()
-  texto(cab, "COMBILOCAS", 13, BLANCO, true); cab.addSpacer(); texto(cab, "act. " + d.actualizado.slice(11), 10, SUAVE)
-  w.addSpacer(8)
+  const cab = w.addStack(); cab.centerAlignContent()
+  texto(cab, "COMBILOCAS", 12, BLANCO, true); cab.addSpacer(); texto(cab, "act. " + d.actualizado.slice(11), 9, SUAVE)
+  w.addSpacer(5)
   const redes = ["instagram", "threads", "facebook", "telegram"]
   for (let f = 0; f < 2; f++) {
-    const fila = w.addStack(); fila.spacing = 8
+    const fila = w.addStack(); fila.spacing = 6
     for (const r of redes.slice(f * 2, f * 2 + 2)) {
       const x = d.redes[r] || {}
-      const c = fila.addStack(); c.layoutVertically(); c.backgroundColor = CHIP; c.cornerRadius = 10
-      c.setPadding(6, 9, 6, 9); c.size = new Size(142, 0)
-      const t = c.addStack(); texto(t, NOMBRES[r], 10, SUAVE); t.addSpacer(); texto(t, mas(x.hoy), 10, VERDE)
-      texto(c, num(x.seguidores), 17, BLANCO, true)
-      ponerLinea(c, x.serie, 124, 14, 2)
+      const c = fila.addStack(); c.layoutVertically(); c.backgroundColor = CHIP; c.cornerRadius = 9
+      c.setPadding(4, 8, 4, 8); c.size = new Size(0, 40)
+      const t = c.addStack(); texto(t, NOMBRES[r], 9, SUAVE); t.addSpacer(); texto(t, mas(x.hoy), 9, VERDE)
+      const n = c.addStack(); n.centerAlignContent()
+      texto(n, num(x.seguidores), 16, BLANCO, true); n.addSpacer(6)
+      ponerLinea(n, x.serie, 54, 12, 2)
     }
-    if (f === 0) w.addSpacer(6)
+    if (f === 0) w.addSpacer(5)
   }
-  w.addSpacer(8)
+  w.addSpacer(6)
   const pie = w.addStack(); pie.centerAlignContent()
   const pr = d.proximo
-  texto(pie, pr ? `⏱ ${pr.hora} · ${pr.titulo}` : "Sin posts pendientes", 11, BLANCO)
-  pie.addSpacer()
-  if (d.ayer) {
-    const chip = pie.addStack(); chip.backgroundColor = VERDE; chip.cornerRadius = 7; chip.setPadding(2, 7, 2, 7)
-    texto(chip, `Ayer ${d.ayer.aciertos}/${d.ayer.total}`, 11, FONDO, true)
-  }
-  w.addSpacer(3)
-  const pie2 = w.addStack()
+  texto(pie, pr ? `${pr.hora} · ${pr.titulo}` : "Sin posts pendientes", 10, BLANCO)
+  pie.addSpacer(4)
   const e = d.escalera
-  texto(pie2, e ? `🪜 Escalera día ${e.dia}/7 · ${num(e.stake)}€` : "", 10, SUAVE)
-  pie2.addSpacer()
-  if (d.likes_hoy != null) texto(pie2, `♥ ${num(d.likes_hoy)} likes hoy`, 10, SUAVE)
+  if (d.ayer) {
+    const chip = pie.addStack(); chip.backgroundColor = VERDE; chip.cornerRadius = 6; chip.setPadding(1, 6, 1, 6)
+    texto(chip, `Ayer ${d.ayer.aciertos}/${d.ayer.total}`, 10, FONDO, true)
+  } else if (e) {
+    texto(pie, `Escalera ${e.dia}/7`, 10, SUAVE)
+  }
 }
 
 Script.setWidget(w)
