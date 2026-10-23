@@ -6,32 +6,39 @@
   "dia": "2026-10-23",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 1.96,
+  "cuota": 1.91,
   "picks": [
    {
     "partido_id": 1550165,
     "fecha": "2026-10-23T20:45",
+    "competicion": "Serie A",
+    "liga_id": 135,
     "local": "Torino",
     "visitante": "Monza",
     "mercado": "Goals Over/Under",
     "opcion": "Over 1.5",
     "tipo": "goles",
     "texto": "Más de 1,5 goles en Torino–Monza",
-    "cuota": 1.28
+    "cuota": 1.25,
+    "frecuencia": 1.0,
+    "ventaja": 0.2,
+    "detalle": "Torino 7/7 · Monza 7/7"
    },
    {
-    "partido_id": 1575196,
-    "fecha": "2026-10-23T20:30",
-    "local": "VfB Stuttgart",
-    "visitante": "Borussia Mönchengladbach",
-    "mercado": "Goalkeeper Saves",
-    "opcion": "Moritz Nicolas - 4",
-    "tipo": "jugador",
-    "jugador_id": 25626,
-    "campo": "paradas",
-    "n": 4,
-    "texto": "Moritz Nicolas (portero Gladbach) 4+ paradas",
-    "cuota": 1.53
+    "partido_id": 1557443,
+    "fecha": "2026-10-23T21:00",
+    "competicion": "Premier",
+    "liga_id": 39,
+    "local": "Ipswich",
+    "visitante": "Nottingham Forest",
+    "mercado": "Away Team Total Cards",
+    "opcion": "Over 1.5",
+    "tipo": "tarjetas",
+    "texto": "Nottingham Forest ve más de 1,5 tarjetas",
+    "cuota": 1.53,
+    "frecuencia": 0.786,
+    "ventaja": 0.132,
+    "detalle": "Ipswich (en contra) 5/7 · Nottingham Forest 6/7"
    }
   ],
   "anterior": {
