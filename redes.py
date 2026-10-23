@@ -27,6 +27,9 @@ from zoneinfo import ZoneInfo
 
 RAIZ = Path(__file__).resolve().parent
 COLA = RAIZ / "publicaciones" / "cola.json"
+AUTO = RAIZ / "publicaciones" / "auto.json"            # posts del bot (plantillas.py)
+ESTADO_AUTO = RAIZ / "publicaciones" / "enviados_redes.json"   # su estado en redes
+CAMPOS = ("redes", "errores_redes", "facebook_tipo")
 MADRID = ZoneInfo("Europe/Madrid")
 RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/publicaciones/media/"
 PIE = "🔞 +18 | Juego responsable"
@@ -90,6 +93,8 @@ def url_media(p, ext):
 
 def threads(p, token):
     t = texto_final(p)
+    if len(t) > LIMITE_THREADS:   # sin la frase del dato si no cabe
+        t = "\n".join(l for l in t.split("\n") if not l.startswith("📊")).replace("\n\n\n", "\n\n")
     if len(t) > LIMITE_THREADS:
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": t, "access_token": token})
@@ -114,7 +119,8 @@ def instagram(p, token, reel=False):
         raise RuntimeError("falta la imagen/vídeo en publicaciones/media")
     params = {"caption": texto_final(p), "access_token": token}
     params.update({"media_type": "REELS", "video_url": url, "share_to_feed": "true",
-                   "thumb_offset": "500"}   # portada = el post entero (primer fotograma) if reel else {"image_url": url})
+                   "thumb_offset": "500"}   # portada = el post entero (primer fotograma)
+                  if reel else {"image_url": url})
     c = llamar("POST", f"{INSTAGRAM}/me/media", params)
     esperar_contenedor(INSTAGRAM, c["id"], token, 40 if reel else 10)
     return llamar("POST", f"{INSTAGRAM}/me/media_publish", {"creation_id": c["id"], "access_token": token})["id"]
@@ -139,11 +145,17 @@ def main():
         print("Redes: sin claves de Meta todavía (se publica solo en Telegram)")
         return
     cola = json.loads(COLA.read_text(encoding="utf-8"))
+    auto = json.loads(AUTO.read_text(encoding="utf-8")) if AUTO.exists() else []
+    est_auto = json.loads(ESTADO_AUTO.read_text(encoding="utf-8")) if ESTADO_AUTO.exists() else {}
+    for p in auto:
+        p.update(est_auto.get(p["id"], {}))
+    ids_cola = {p["id"] for p in cola}
+    cola_total = cola + [p for p in auto if p["id"] not in ids_cola]
     ahora = datetime.now(MADRID)
-    ultimo_fb = next((p.get("facebook_tipo") for p in sorted(cola, key=lambda x: x["fecha"], reverse=True)
+    ultimo_fb = next((p.get("facebook_tipo") for p in sorted(cola_total, key=lambda x: x["fecha"], reverse=True)
                       if p.get("facebook_tipo")), "texto")
     cambios = 0
-    for p in sorted(cola, key=lambda x: x["fecha"]):
+    for p in sorted(cola_total, key=lambda x: x["fecha"]):
         if not p.get("directo") or p.get("caducada") or p.get("borrar"):
             continue
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
@@ -182,6 +194,10 @@ def main():
             p.pop("errores_redes", None)
     if cambios:
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        for p in auto:
+            if any(k in p for k in CAMPOS):
+                est_auto[p["id"]] = {k: p[k] for k in CAMPOS if k in p}
+        ESTADO_AUTO.write_text(json.dumps(est_auto, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"Redes: {cambios} cambios")
 
 

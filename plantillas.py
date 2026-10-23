@@ -20,7 +20,9 @@ from datetime import datetime, timedelta
 from bot import DATOS, MADRID, RAIZ, leer
 
 AUTO = RAIZ / "publicaciones" / "auto.json"
-AUTO_DESDE = "2026-10-27"                       # días anteriores ya estaban programados a mano
+AUTO_DESDE = "2026-10-26"                       # días anteriores ya estaban programados en Metricool
+ESCALERA_DESDE = "2026-10-24"                   # la escalera ya sale sola desde el sábado
+REGISTRO = DATOS / "registro_aciertos.json"
 MARGEN_ANTES_PARTIDO = timedelta(minutes=60)
 DIAS = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"]
 
@@ -114,14 +116,14 @@ def posts_del_dia(dia, d):
 
     mejores = mejores_para_lista(libres(d.get("picks") or []))
     if len(mejores) >= 4:
-        sel = mejores[:9]
+        sel = mejores[:7]
         apuntar(sel)
         posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
                       f"🔥 {len(sel)} PICKS PARA MAÑANA ({nombre}) 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
                       "¡Combina máximo 2 o 3! 🍀"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
     if len(tarde) >= 4:
-        sel = tarde[:9]
+        sel = tarde[:7]
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥 {len(sel)} PICKS PARA HOY 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
@@ -132,8 +134,43 @@ def posts_del_dia(dia, d):
         primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
         hora = min(hora, primero - MARGEN_ANTES_PARTIDO)
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
-                       "texto": texto, "foto": None, "origen": "analista"})
+                       "texto": texto, "foto": None, "origen": "analista", "directo": True,
+                       "sel": ["|".join(map(str, clave(p))) for p in picks]})
     return salida
+
+
+def balance(dia, posts_ayer):
+    """Post de las 10:30 con cómo salió lo de ayer. Solo si ya está todo corregido."""
+    reg = leer(REGISTRO, {}) or {}
+    lineas, total, verdes = [], 0, 0
+    nombres = {"combi-cuota_3": "Combi cuota 3", "combi-segura": "Combi segura", "combi-loca": "Combi loca",
+               "picks-manana": "Picks del día", "picks-hoy": "Picks de la tarde"}
+    for p in posts_ayer:
+        tipo = p["id"][11:]
+        if tipo not in nombres:
+            continue
+        res = [reg.get(k, {}).get("acierto") for k in p.get("sel", [])]
+        if not res or any(r is None for r in res):
+            return None                      # falta algún resultado: aún no se publica
+        a = sum(res)
+        total, verdes = total + len(res), verdes + a
+        if tipo.startswith("combi"):
+            lineas.append(f"{'✅' if a == len(res) else '❌'} {nombres[tipo]}")
+        else:
+            lineas.append(f"{'✅' if a >= len(res) * 0.7 else '❌'} {nombres[tipo]}: {a}/{len(res)}")
+    ayer = (datetime.fromisoformat(dia) - timedelta(days=1)).strftime("%Y-%m-%d")
+    esc = leer(DATOS / "escalera.json") or {}
+    h = next((x for x in reversed(esc.get("historial", [])) if x.get("dia") == ayer), None)
+    if h and h.get("resultado"):
+        lineas.append(f"{'✅' if h['resultado'] == 'verde' else '❌'} Escalera día {h['escalon']}")
+    if not lineas:
+        return None
+    texto = "📋 ASÍ FUE AYER\n\n" + "\n".join(lineas)
+    if total:
+        texto += f"\n\n🎯 {verdes}/{total} selecciones acertadas"
+    texto += "\n\nHoy seguimos 💪🍀"
+    return {"id": f"{dia}-balance", "fecha": f"{dia}T10:30", "texto": texto, "foto": None,
+            "origen": "analista", "directo": True, "sel": []}
 
 
 def main():
@@ -147,9 +184,17 @@ def main():
 
     nuevos = {}
     for dia, d in picks["dias"].items():
-        if dia < AUTO_DESDE:
+        if dia < ESCALERA_DESDE:
             continue
-        for p in posts_del_dia(dia, d):
+        todos = posts_del_dia(dia, d)
+        if dia < AUTO_DESDE:                 # hasta el lunes solo la escalera (lo demás está en Metricool)
+            todos = [p for p in todos if p["id"].endswith("-escalera")]
+        else:
+            ayer = (datetime.fromisoformat(dia) - timedelta(days=1)).strftime("%Y-%m-%d")
+            b = balance(dia, [p for p in anteriores.values() if p["id"].startswith(ayer)])
+            if b:
+                todos.append(b)
+        for p in todos:
             if p["id"] in enviados:          # ya publicado: se queda como salió
                 continue
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse

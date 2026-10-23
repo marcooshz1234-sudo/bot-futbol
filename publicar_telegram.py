@@ -30,7 +30,7 @@ COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dent
 # Regla (23/10): lo que sale en un sitio sale en todos (Threads, Instagram, Facebook y Telegram).
 # Los posts automáticos de El Analista solo podrían ir a Telegram, así que no se publican solos:
 # se usan como borrador y se programan a la vez en todas las redes.
-AUTOS = []   # antes: publicaciones/auto.json y publicaciones/alineaciones.json
+AUTOS = [RAIZ / "publicaciones" / "auto.json"]   # posts del bot (plantillas.py); alineaciones.json ya no
 ENVIADOS = RAIZ / "publicaciones" / "enviados.json"  # estado de los de auto.json
 CONTROL = RAIZ / "publicaciones" / "control.json"    # decisiones desde el móvil (asistente)
 MADRID = ZoneInfo("Europe/Madrid")

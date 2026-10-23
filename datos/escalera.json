@@ -3,44 +3,43 @@
  "stake": 20.0,
  "historial": [],
  "actual": {
-  "dia": "2026-10-27",
+  "dia": "2026-10-23",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 2.02,
+  "cuota": 1.96,
   "picks": [
    {
-    "partido_id": 1550175,
-    "fecha": "2026-10-27T20:45",
-    "competicion": "Serie A",
-    "liga_id": 135,
+    "partido_id": 1550165,
+    "fecha": "2026-10-23T20:45",
     "local": "Torino",
-    "visitante": "Como",
-    "mercado": "Total - Home",
-    "opcion": "Over 0.5",
+    "visitante": "Monza",
+    "mercado": "Goals Over/Under",
+    "opcion": "Over 1.5",
     "tipo": "goles",
-    "texto": "Torino marca",
-    "cuota": 1.44,
-    "frecuencia": 0.882,
-    "ventaja": 0.188,
-    "detalle": "Torino 6/7 · Como (en contra) 9/10"
+    "texto": "Más de 1,5 goles en Torino–Monza",
+    "cuota": 1.28
    },
    {
-    "partido_id": 1550174,
-    "fecha": "2026-10-27T18:30",
-    "competicion": "Serie A",
-    "liga_id": 135,
-    "local": "Sassuolo",
-    "visitante": "Lazio",
-    "mercado": "Double Chance",
-    "opcion": "Draw/Away",
-    "tipo": "resultado",
-    "texto": "Lazio o empate",
-    "cuota": 1.4,
-    "frecuencia": 0.857,
-    "ventaja": 0.143,
-    "detalle": "Sassuolo 5/7 · Lazio 7/7"
+    "partido_id": 1575196,
+    "fecha": "2026-10-23T20:30",
+    "local": "VfB Stuttgart",
+    "visitante": "Borussia Mönchengladbach",
+    "mercado": "Goalkeeper Saves",
+    "opcion": "Moritz Nicolas - 4",
+    "tipo": "jugador",
+    "jugador_id": 25626,
+    "campo": "paradas",
+    "n": 4,
+    "texto": "Moritz Nicolas (portero Gladbach) 4+ paradas",
+    "cuota": 1.53
    }
   ],
-  "anterior": null
+  "anterior": {
+   "dia": "2026-10-22",
+   "escalon": 1,
+   "stake": 20.0,
+   "cuota": 1.0,
+   "resultado": "roja"
+  }
  }
 }

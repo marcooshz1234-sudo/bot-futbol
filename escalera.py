@@ -20,7 +20,7 @@ from picks import evaluador
 ESTADO = DATOS / "escalera.json"
 INICIAL = 20.0
 CUOTA_MIN, CUOTA_MAX = 1.85, 2.40
-DESDE = "2026-10-27"
+DESDE = "2026-10-24"
 DIAS_RETO = 7          # 20 → 40 → … → 1.280 €; tras el día 7 (o un fallo) vuelve al día 1
 
 
@@ -52,6 +52,12 @@ def resultado(pick):
     p = leer(PARTIDOS / f"{pick['partido_id']}.json")
     if not p or p.get("estado") not in ("FT", "AET", "PEN"):
         return None
+    if pick.get("jugador_id"):   # pata de jugador (p. ej. paradas del portero, mirada a mano en bet365)
+        for lista in (p.get("jugadores") or {}).values():
+            for j in lista:
+                if j.get("id") == pick["jugador_id"]:
+                    return (j.get(pick["campo"]) or 0) >= pick["n"]
+        return True   # no jugó: bet365 anula la pata (cuenta como 1,00)
     f = evaluador(pick["mercado"], pick["opcion"], True)
     return bool(f(p, p["local"]["id"])) if f else None
 

@@ -150,7 +150,20 @@ def generar(p, pagina):
 
 def main():
     cola = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
-    ids = set(sys.argv[2:])
+    ids = set(sys.argv[2:]) - {"--pendientes"}
+    pendientes = "--pendientes" in sys.argv   # solo los que aún no han salido y cuyo texto ha cambiado
+    if pendientes:
+        import hashlib
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        ahora = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%Y-%m-%dT%H:%M")
+        huella = lambda p: hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
+        cola = [p for p in cola if p["fecha"] > ahora and not (
+            (MEDIA / f"{p['id']}.mp4").exists() and (MEDIA / f"{p['id']}.huella").exists()
+            and (MEDIA / f"{p['id']}.huella").read_text() == huella(p))]
+    if not cola:
+        print("Imágenes: nada que generar")
+        return
     with sync_playwright() as pw:
         nav = pw.chromium.launch()
         pagina = nav.new_page()
@@ -158,6 +171,8 @@ def main():
             if ids and p["id"] not in ids:
                 continue
             img, mp4 = generar(p, pagina)
+            if pendientes:
+                (MEDIA / f"{p['id']}.huella").write_text(huella(p))
             print(img.name, mp4.name)
         nav.close()
 
