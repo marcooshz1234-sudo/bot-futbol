@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Combilocas</title>
+<meta name="theme-color" content="#0e3a1e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Combilocas">
+<link rel="apple-touch-icon" href="../icono-180.png">
+<link rel="icon" href="../icono-180.png">
+<link rel="manifest" href="manifest.json">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Condensed:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--f:"Roboto Condensed",-apple-system,system-ui,sans-serif;--t:Anton,Impact,"Arial Narrow",sans-serif;--card:rgba(255,255,255,.96);--card2:#eef4ef;--line:#e3ebe5;--txt:#0f2e1a;--sub:#3d5c47;--mut:#6b8573;--ok:#0f7a35;--ko:#d62828;--warn:#ffd400;--live:#e8590c}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{background:#1b6e34}
+body{margin:0;color:var(--txt);font:16px/1.4 var(--f);background:repeating-linear-gradient(90deg,#1f7a3a 0 34px,#1b6e34 34px 68px) fixed;min-height:100vh;padding:env(safe-area-inset-top) 0 calc(74px + env(safe-area-inset-bottom))}
+header{position:sticky;top:0;z-index:5;background:rgba(14,58,30,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding:12px 16px 10px;border-bottom:3px solid var(--warn)}
+header h1{margin:0;font:400 26px/1 var(--t);letter-spacing:1.5px;color:#fff}
+header small{color:#cfe8d6;font-size:12px}
+main{padding:12px 14px;max-width:760px;margin:0 auto}
+h2{font:400 18px/1.2 var(--t);letter-spacing:1px;text-transform:uppercase;color:#fff;margin:22px 4px 8px;text-shadow:0 1px 2px rgba(0,0,0,.25)}
+main>.mut,main>.empty{color:#eaf6ee!important;text-shadow:0 1px 2px rgba(0,0,0,.3)}
+.card{background:var(--card);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.row{display:flex;align-items:center;gap:8px}.sp{flex:1}.col{display:flex;flex-direction:column}
+.chip{font-size:11px;padding:2px 8px;border-radius:20px;background:var(--card2);color:var(--sub);white-space:nowrap;font-weight:700;text-transform:uppercase;letter-spacing:.3px}
+.verde{background:#d9f2e1;color:var(--ok)}.rojo{background:#fde2e2;color:var(--ko)}
+.va_bien{background:#e6f6ea;color:var(--ok)}.va_mal{background:#ffe8d6;color:var(--live)}
+.live{background:var(--warn);color:var(--txt)}.warn{background:var(--warn);color:var(--txt)}
+.leg{display:flex;align-items:center;gap:8px;padding:8px 0;border-top:1px solid var(--line);font-size:15px}
+.leg:first-of-type{border-top:0}
+.cuota{font:400 19px/1 var(--t);color:var(--ok);letter-spacing:.5px}
+.big{font:400 30px/1.1 var(--t);letter-spacing:.5px}
+.mut{color:var(--mut);font-size:13px}.sub{color:var(--sub);font-size:14px}
+.tabs{display:flex;gap:6px;overflow-x:auto;margin:4px 0 10px;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}
+.tabs button{border:0;background:rgba(255,255,255,.88);color:var(--txt);border-radius:20px;padding:7px 14px;font:700 14px var(--f);white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.tabs button.on{background:var(--warn);color:var(--txt)}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:rgba(255,255,255,.97);border-top:3px solid var(--warn);padding:6px 4px calc(6px + env(safe-area-inset-bottom));z-index:9}
+nav button{flex:1;background:none;border:0;color:var(--mut);font:700 11px var(--f);display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;text-transform:uppercase}
+nav button span{font-size:21px;line-height:1.1}nav button.on{color:var(--ok)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.stat{background:var(--card);border-radius:12px;padding:10px 12px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.stat b{display:block;font:400 28px/1.15 var(--t);letter-spacing:.5px}
+input,select{width:100%;background:#fff;border:2px solid transparent;color:var(--txt);border-radius:10px;padding:10px 12px;font:16px var(--f);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+input:focus{outline:0;border-color:var(--warn)}
+.match{display:flex;align-items:center;gap:8px}
+.match img{width:22px;height:22px;object-fit:contain}
+.team{display:flex;align-items:center;gap:6px;min-width:0;font-weight:700}.team span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.score{font:400 22px/1 var(--t);min-width:54px;text-align:center;letter-spacing:.5px}
+.ficha{margin-top:10px;border-top:2px solid var(--line);padding-top:10px;display:none}.open .ficha{display:block}
+.ficha h2{color:var(--txt);text-shadow:none;font-size:15px}
+table{width:100%;border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
+td,th{padding:5px 4px;text-align:right}td:first-child,th:first-child{text-align:left}th{color:var(--mut);font-weight:700;font-size:11px;text-transform:uppercase}
+tr+tr td{border-top:1px solid var(--line)}
+.forma{white-space:nowrap}.forma i{display:inline-block;width:17px;height:17px;border-radius:4px;font:700 10px/17px var(--f);text-align:center;margin-right:2px;font-style:normal}
+.fG{background:#1f9d4c;color:#fff}.fE{background:#a8b8ad;color:#0f2e1a}.fP{background:var(--ko);color:#fff}
+.bar{height:9px;border-radius:5px;background:var(--card2);overflow:hidden}.bar>div{height:100%;background:var(--ok);border-radius:5px}
+.btn{border:0;background:var(--warn);color:var(--txt);font:700 14px var(--f);border-radius:10px;padding:8px 14px;text-transform:uppercase}
+.btn2{border:0;background:var(--card2);color:var(--txt);font:700 13px var(--f);border-radius:10px;padding:7px 12px}
+header .btn2{background:rgba(255,255,255,.15);color:#fff}
+pre{white-space:pre-wrap;font:15px/1.45 var(--f);margin:8px 0;color:var(--txt);background:var(--card2);padding:10px;border-radius:8px}
+.steps{display:flex;gap:4px;margin:8px 0}.steps div{flex:1;height:10px;border-radius:3px;background:var(--card2)}
+.empty{color:#eaf6ee;text-align:center;padding:18px;font-size:15px}
+.card .empty{color:var(--mut);text-shadow:none}
+.toast{position:fixed;left:50%;bottom:96px;transform:translateX(-50%);background:var(--warn);color:var(--txt);font-weight:700;padding:8px 16px;border-radius:20px;opacity:0;transition:.25s;z-index:20}
+.toast.on{opacity:1}
+svg text{fill:var(--mut);font:11px var(--f)}
+details summary{cursor:pointer}
+</style>
+</head>
+<body>
+<header><div class="row"><h1>COMBILOCAS</h1><span class="sp"></span><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div><small id="act">Cargando…</small></header>
+<main id="vista"></main>
+<nav id="nav"></nav>
+<div class="toast" id="toast"></div>
+<script>
+const RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/docs/datos.json";
+const PUBLICA = location.pathname.includes("/publica");   // versión para compartir: sin lo interno
+const PESTANAS = [["hoy","⚽","Hoy"],["partidos","📅","Partidos"],["contenido","✍️","Contenido"],["stats","📈","Stats"],["bot","🤖","Bot"]]
+  .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
+let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
+function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
+function guardar(k,v){try{localStorage.setItem("cl_"+k,v)}catch(e){}}
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const n2 = x => x == null ? "—" : Number(x).toFixed(2).replace(".", ",");
+const num = x => x == null ? "—" : Math.round(x).toLocaleString("es-ES");
+const eur = x => x == null ? "—" : (x >= 0 ? "+" : "") + Number(x).toFixed(2).replace(".", ",") + " €";
+const diaTxt = d => { if(!D) return d; if(d===D.hoy) return "Hoy"; if(d===D.manana) return "Mañana"; const f=new Date(d+"T12:00"); return f.toLocaleDateString("es-ES",{weekday:"short",day:"numeric",month:"short"}) };
+const ESTADO = {verde:["✅ Verde","verde"],rojo:["❌ Roja","rojo"],va_bien:["🟢 Va bien","va_bien"],va_mal:["🟠 Va mal","va_mal"],en_juego:["En juego","live"],pendiente:["Pendiente",""]};
+const chipEstado = e => { const [t,c] = ESTADO[e] || ESTADO.pendiente; return `<span class="chip ${c}">${t}</span>` };
+function toast(t){const x=$("#toast");x.textContent=t;x.classList.add("on");setTimeout(()=>x.classList.remove("on"),1600)}
+async function copiar(t){try{await navigator.clipboard.writeText(t);toast("Copiado")}catch(e){toast("No se pudo copiar")}}
+
+async function cargar(){
+  $("#act").textContent = "Actualizando…";
+  try { const r = await fetch(RAW + "?t=" + Date.now(), {cache:"no-store"}); if(!r.ok) throw 0; D = await r.json(); }
+  catch(e){ try { D = await (await fetch("../datos.json?t="+Date.now())).json() } catch(e2){} }
+  if(!D){ $("#vista").innerHTML = `<div class="empty">Sin conexión. Prueba otra vez.</div>`; $("#act").textContent=""; return }
+  $("#act").textContent = "Datos del bot · " + D.generado.slice(8,10)+"/"+D.generado.slice(5,7)+" "+D.generado.slice(11);
+  pintar();
+}
+function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
+function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
+function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
+function pintar(){ nav(); if(!D) return; $("#vista").innerHTML = ({hoy:vHoy,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab](); }
+
+/* ---------------- HOY ---------------- */
+function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido||"")} · ${(p.fecha||"").slice(11)}</span></div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
+function vHoy(){
+  const [dia, t] = subTabs("hoydia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
+  const d = D.dias[dia] || {picks:[],combis:{}};
+  let h = t;
+  if(D.alertas.length){ h += `<h2>🚨 Alertas de cuota</h2>` + D.alertas.map(a => `<div class="card"><div class="row"><b class="sp">${esc(a.texto)}</b><span class="chip warn">+${a.sube}%</span></div><div class="row mut" style="margin-top:4px"><span class="sp">${esc(a.partido)} · ${a.fecha.slice(11)} · se cumplió ${a.frecuencia}%</span><span>${n2(a.antes)} → <b class="cuota">${n2(a.cuota)}</b></span></div></div>`).join("") }
+  const vivos = D.partidos.filter(p => p.fecha.slice(0,10)===D.hoy && ["1H","2H","HT","ET","P","BT","LIVE"].includes(p.estado));
+  if(dia===D.hoy && vivos.length){ h += `<h2>🔴 En directo</h2>` + vivos.map(tarjetaPartido).join("") }
+  const nombres = {segura:"🔒 Combi segura", cuota_3:"💥 Cuota 3", loca:"🤪 Combi loca"};
+  const cs = Object.entries(d.combis);
+  h += `<h2>Combis</h2>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
+  const e = D.escalera.actual;
+  if(e){ const hecho = e.escalon-1; h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div><div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<=hecho?"var(--ok)":i===e.escalon?"var(--warn)":""}"></div>`).join("")}</div>${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
+  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span></div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
+  if(D.valor.length){ h += `<h2>💎 Con valor según el modelo</h2><div class="card">` + D.valor.slice(0,8).map(v => `<div class="leg"><div class="col sp"><span>${esc(v.mercado)} · ${esc(v.opcion)}</span><span class="mut">${esc(v.partido)} · ${esc(v.competicion)}</span></div><span class="cuota">${n2(v.cuota)}</span><span class="chip verde">+${Math.round(v.valor*100)}%</span></div>`).join("") + `</div>` }
+  return h;
+}
+
+/* ---------------- PARTIDOS ---------------- */
+function forma(f){ return `<span class="forma">${[...(f||"")].map(x=>`<i class="f${x}">${x}</i>`).join("")}</span>` }
+function tarjetaPartido(p){
+  const vivo = ["1H","2H","HT","ET","P","BT","LIVE"].includes(p.estado), fin = ["FT","AET","PEN"].includes(p.estado);
+  const marcador = (vivo||fin) && p.goles && p.goles[0]!=null ? `${p.goles[0]} - ${p.goles[1]}` : p.fecha.slice(11);
+  const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(x=>x.partido_id===p.id);
+  const f = p.ficha;
+  const filaF = (t,k,suf="") => f ? `<tr><td>${t}</td><td>${f.local.medias[k]??"—"}${suf}</td><td>${f.visitante.medias[k]??"—"}${suf}</td></tr>` : "";
+  const filaP = (t,k) => f ? `<tr><td>${t}</td><td>${f.local.pct[k]??"—"}%</td><td>${f.visitante.pct[k]??"—"}%</td></tr>` : "";
+  const ult = eq => eq.ultimos.map(u=>`<tr><td>${u.casa?"🏠":"✈️"} ${esc(u.rival)}</td><td>${u.gf}-${u.gc}</td><td>${u.corners??"—"}</td><td>${u.tarjetas}</td></tr>`).join("");
+  return `<div class="card ${abiertos.has(p.id)?"open":""}" onclick="abrir(${p.id},event)">
+   <div class="row mut" style="margin-bottom:6px"><span class="sp">${esc(p.liga)}</span>${vivo?`<span class="chip live">● ${p.estado==="HT"?"Descanso":(p.minuto||"")+"'"}</span>`:fin?`<span class="chip">Final</span>`:""}${pk.length?`<span class="chip verde">${pk.length} pick${pk.length>1?"s":""}</span>`:""}</div>
+   <div class="match"><div class="team sp"><img src="${esc(p.logo_l)}" alt="" loading="lazy"><span>${esc(p.local)}</span></div><div class="score">${marcador}</div><div class="team sp" style="justify-content:flex-end"><span>${esc(p.visitante)}</span><img src="${esc(p.logo_v)}" alt="" loading="lazy"></div></div>
+   <div class="ficha" onclick="event.stopPropagation()">
+    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><span class="sp">${esc(x.texto)}</span><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
+    ${f?`<div class="row" style="margin-bottom:6px"><span class="sp">${forma(f.local.forma)}</span><span class="mut">forma (último a la izq.)</span><span class="sp" style="text-align:right">${forma(f.visitante.forma)}</span></div>
+    <table><tr><th>Media últimos ${f.local.partidos}</th><th>${esc(p.local)}</th><th>${esc(p.visitante)}</th></tr>
+    ${filaF("Goles a favor","gf")}${filaF("Goles en contra","gc")}${filaF("Córners propios","corners")}${filaF("Córners del partido","corners_total")}${filaF("Tarjetas propias","tarjetas")}${filaF("Tarjetas del partido","tarjetas_total")}${filaF("Tiros","tiros")}${filaF("Tiros a puerta","a_puerta")}${filaF("Paradas portero","paradas")}
+    ${filaP("Más de 2,5 goles","mas25")}${filaP("Marcan los dos","ambos")}${filaP("Marca","marca")}${filaP("9+ córners","corners9")}</table>
+    <h2 style="margin-top:14px">Últimos de ${esc(p.local)}</h2><table><tr><th>Rival</th><th>Res.</th><th>Córn.</th><th>Tarj.</th></tr>${ult(f.local)}</table>
+    <h2>Últimos de ${esc(p.visitante)}</h2><table><tr><th>Rival</th><th>Res.</th><th>Córn.</th><th>Tarj.</th></tr>${ult(f.visitante)}</table>`:`<div class="mut">Sin ficha para este partido</div>`}
+   </div></div>`;
+}
+function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
+function vPartidos(){
+  const [modo, t] = subTabs("pmodo", [["lista","Partidos"],["tabla","Clasificación"],["patrones","Patrones"]], "lista");
+  let h = t;
+  if(modo==="lista"){
+    const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
+    const q = (sub.q||"").toLowerCase();
+    h += t2 + `<input placeholder="Buscar equipo… (Betis, Madrid)" value="${esc(sub.q||"")}" oninput="sub.q=this.value;clearTimeout(window._b);window._b=setTimeout(()=>{pintar();const i=$('main input');i.focus();i.setSelectionRange(99,99)},250)" style="margin-bottom:10px">`;
+    const lista = D.partidos.filter(p => (q ? true : p.fecha.slice(0,10)===dia) && (!q || (p.local+" "+p.visitante).toLowerCase().includes(q)));
+    if(q){ const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>p.partido.toLowerCase().includes(q)); if(pk.length) h += `<h2>Picks de "${esc(sub.q)}"</h2><div class="card">${legs(pk)}</div>`; const pt = D.patrones.filter(p=>p.equipo.toLowerCase().includes(q)); if(pt.length) h += pt.map(p=>`<div class="card">📊 ${esc(p.texto)}</div>`).join("") }
+    h += lista.length ? lista.map(tarjetaPartido).join("") : `<div class="empty">No hay partidos</div>`;
+  } else if(modo==="tabla"){
+    const ligas = Object.keys(D.clasificaciones); const [lg, t3] = subTabs("liga", ligas.map(l=>[l,l]), ligas[0]);
+    const tb = D.clasificaciones[lg]||[];
+    h += t3 + `<div class="card" style="padding:8px 10px"><table><tr><th>#</th><th style="text-align:left">Equipo</th><th>PJ</th><th>DG</th><th>Pts</th><th>Forma</th></tr>${tb.map((r,i)=>`<tr><td>${i+1}</td><td style="text-align:left"><div class="team"><img src="${esc(r.logo)}" alt="" style="width:16px;height:16px" loading="lazy"><span>${esc(r.equipo)}</span>${r.estado==="racha"?" 🔥":r.estado==="crisis"?" 🥶":""}</div></td><td>${r.pj}</td><td>${r.dg>0?"+":""}${r.dg}</td><td><b>${r.pts}</b></td><td>${forma(r.forma)}</td></tr>`).join("")}</table></div><div class="mut" style="padding:0 4px">🔥 en racha (4+ victorias en 5) · 🥶 en crisis (sin ganar y 3+ derrotas en 5)</div>`;
+  } else {
+    h += `<div class="mut" style="margin:0 4px 10px">Lo que más se repite en los últimos 10 partidos de cada equipo. Ideas para posts.</div>` + D.patrones.map(p => `<div class="card row"><span class="sp">📊 ${esc(p.texto)}</span><span class="chip verde">${p.pct}%</span><button class="btn2" onclick="copiar('📊 '+${JSON.stringify(p.texto).replace(/"/g,"&quot;")})">Copiar</button></div>`).join("");
+  }
+  return h;
+}
+function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); return f.toISOString().slice(0,10) }
+
+/* ---------------- CONTENIDO ---------------- */
+function vContenido(){
+  const [modo, t] = subTabs("cmodo", [["ideas","💡 Ideas"],["calendario","🗓️ Calendario"],["muro","💚 Muro de verdes"],["archivo","🗂️ Archivo"]], "ideas");
+  let h = t;
+  const post = (p, extra="") => `<div class="card"><div class="row"><b class="sp">${esc(p.titulo||p.texto)}</b>${p.resultado?chipEstado(p.resultado):""}</div><div class="mut">${diaTxt(p.fecha.slice(0,10))} · ${p.fecha.slice(11,16)}${p.cuota?" · cuota "+n2(p.cuota):""}${p.redes&&p.redes.length?" · "+p.redes.join(", "):""}</div>${extra}</div>`;
+  const conTexto = (p, i, pre) => post(p, `<details><summary class="mut" style="margin-top:6px">Ver texto</summary><pre>${esc(p.texto)}</pre></details><div class="row" style="margin-top:8px"><button class="btn2" onclick="copiar(window.${pre}[${i}].texto)">Copiar texto</button></div>`);
+  if(modo==="ideas"){
+    window._ideas = D.ideas.map(i=>({texto:i.texto_post}));
+    h += `<div class="mut" style="margin:0 4px 10px">Los picks más vendibles de hoy y mañana que aún no han salido en combis, con el texto listo.</div>` + (D.ideas.length ? D.ideas.map((i,k) => `<div class="card"><div class="row"><b class="sp">${esc(i.texto)}</b><span class="cuota">${n2(i.cuota)}</span></div><div class="mut">${diaTxt(i.dia)} · ${esc(i.partido)} · ${i.fecha.slice(11)} · se cumplió ${i.frecuencia}%</div><pre>${esc(i.texto_post)}</pre><button class="btn" onclick="copiar(window._ideas[${k}].texto)">Copiar post</button></div>`).join("") : `<div class="empty">Sin ideas ahora mismo</div>`);
+  } else if(modo==="calendario"){
+    window._cal = D.calendario;
+    h += D.calendario.length ? D.calendario.map((p,i)=>conTexto(p,i,"_cal")).join("") : `<div class="empty">Nada programado</div>`;
+  } else if(modo==="muro"){
+    window._muro = D.muro;
+    h += `<div class="mut" style="margin:0 4px 10px">Los mejores aciertos de los últimos 7 días, de mayor a menor cuota. Listos para captura.</div>` + (D.muro.length ? D.muro.map((p,i)=>`<div class="card" style="border-left:5px solid var(--ok)"><div class="row"><span style="font-size:22px">💚</span><div class="col sp"><b>${esc(p.titulo)}</b><span class="mut">${p.partido?esc(p.partido)+" · ":""}${diaTxt(p.fecha.slice(0,10))}${p.marcador?" · "+p.marcador:""}</span></div><span class="cuota big" style="font-size:20px">${n2(p.cuota)}</span></div>${p.pick?"":`<details><summary class="mut" style="margin-top:6px">Ver post</summary><pre>${esc(p.texto)}</pre></details>`}<button class="btn2" style="margin-top:8px" onclick="copiar('✅💚 VERDE 💚✅\\n\\n'+window._muro[${i}].texto)">Copiar</button></div>`).join("") : `<div class="empty">Esta semana aún no hay verdes registrados. Se van llenando según el bot corrige los partidos.</div>`);
+  } else {
+    const [filtro, t2] = subTabs("afiltro", [["todos","Todos"],["verde","✅ Verdes"],["rojo","❌ Rojas"]], "todos");
+    const q = (sub.aq||"").toLowerCase();
+    const lista = D.publicados.filter(p => (filtro==="todos"||p.resultado===filtro) && (!q || p.texto.toLowerCase().includes(q)));
+    window._arch = lista;
+    h += t2 + `<input placeholder="Buscar en lo publicado…" value="${esc(sub.aq||"")}" oninput="sub.aq=this.value;clearTimeout(window._b);window._b=setTimeout(()=>{pintar();const i=$('main input');i.focus();i.setSelectionRange(99,99)},250)" style="margin-bottom:10px">` + (lista.length ? lista.map((p,i)=>conTexto(p,i,"_arch")).join("") : `<div class="empty">Nada</div>`);
+  }
+  return h;
+}
+
+/* ---------------- STATS ---------------- */
+function barras(serie, etq, val, fmt){
+  if(!serie.length) return `<div class="empty">Aún no hay datos suficientes</div>`;
+  const W=340,H=130,max=Math.max(...serie.map(val).map(Math.abs),1),bw=W/serie.length;
+  const cero = serie.some(s=>val(s)<0) ? H/2 : H-14;
+  const esc2 = cero===H/2 ? (H/2-14)/max : (H-24)/max;
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%">${serie.map((s,i)=>{const v=val(s),h=Math.abs(v)*esc2,y=v>=0?cero-h:cero;return `<rect x="${i*bw+3}" y="${y}" width="${bw-6}" height="${Math.max(h,1)}" rx="3" fill="${v>=0?"#0f7a35":"#d62828"}"/><text x="${i*bw+bw/2}" y="${H-2}" text-anchor="middle">${esc(etq(s))}</text>${serie.length<=14?`<text x="${i*bw+bw/2}" y="${v>=0?y-3:y+h+10}" text-anchor="middle" style="fill:var(--sub)">${fmt(v)}</text>`:""}`}).join("")}</svg>`;
+}
+function linea(puntos, color="#0f7a35"){
+  if(puntos.length<2) return `<div class="mut">La gráfica aparece cuando haya datos de 2 días o más.</div>`;
+  const W=340,H=110,ys=puntos.map(p=>p[1]),mn=Math.min(...ys),mx=Math.max(...ys),r=(mx-mn)||1;
+  const pts=puntos.map((p,i)=>[i*(W-20)/(puntos.length-1)+10,H-18-(p[1]-mn)/r*(H-34)]);
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%"><polyline fill="none" stroke="${color}" stroke-width="2.5" stroke-linejoin="round" points="${pts.map(p=>p.join(",")).join(" ")}"/>${pts.map((p,i)=>i===0||i===pts.length-1?`<text x="${p[0]}" y="${H-3}" text-anchor="${i?"end":"start"}">${puntos[i][0].slice(8,10)}/${puntos[i][0].slice(5,7)}</text><text x="${p[0]}" y="${p[1]-6}" text-anchor="${i?"end":"start"}" style="fill:var(--sub)">${num(puntos[i][1])}</text>`:"").join("")}</svg>`;
+}
+const NOMBRE_RED = {instagram:"Instagram",threads:"Threads",facebook:"Facebook",telegram:"Telegram"};
+function vStats(){
+  const [modo, t0] = subTabs("smodo", [["bot","🎯 Aciertos"],["redes","📱 Redes"],["metas","🏁 Objetivos"]], "bot");
+  const t = PUBLICA ? "" : t0;
+  if(PUBLICA && modo !== "bot") sub.smodo = "bot";
+  let h = t; const A = D.aciertos;
+  if(modo==="bot" || PUBLICA){
+    h += `<div class="grid2"><div class="stat"><span class="mut">Acierto total</span><b>${A.total.pct??"—"}%</b><span class="mut">${A.total.aciertos}/${A.total.picks} picks</span></div><div class="stat"><span class="mut">Beneficio (10 €/pick)</span><b style="color:${A.total.beneficio>=0?"var(--ok)":"var(--ko)"}">${eur(A.total.beneficio)}</b><span class="mut">desde que hay registro</span></div><div class="stat"><span class="mut">Racha</span><b>${A.racha_dias} 🔥</b><span class="mut">días seguidos ≥70%</span></div><div class="stat"><span class="mut">Último día</span><b>${A.por_dia.length?A.por_dia[A.por_dia.length-1].pct+"%":"—"}</b><span class="mut">${A.por_dia.length?diaTxt(A.por_dia[A.por_dia.length-1].dia):""}</span></div></div>`;
+    const [per, t2] = subTabs("per", [["dia","Por día"],["semana","Por semana"],["mes","Por mes"]], "semana");
+    const serie = per==="dia"?A.por_dia:per==="semana"?A.por_semana:A.por_mes;
+    h += `<h2>Beneficio a 10 € por pick</h2>${t2}<div class="card">${barras(serie, s=>per==="dia"?s.dia.slice(8,10)+"/"+s.dia.slice(5,7):per==="semana"?s.semana.slice(-3):s.mes.slice(5,7)+"/"+s.mes.slice(2,4), s=>s.beneficio, v=>Math.round(v))}</div>`;
+    h += `<h2>Por tipo de apuesta</h2><div class="card">${Object.entries(A.por_tipo).sort((a,b)=>b[1].pct-a[1].pct).map(([k,v])=>`<div style="padding:6px 0"><div class="row"><span class="sp" style="text-transform:capitalize">${esc(k)}</span><b>${v.pct}%</b><span class="mut" style="width:70px;text-align:right">${v.aciertos}/${v.picks}</span></div><div class="bar"><div style="width:${v.pct}%"></div></div></div>`).join("") || `<div class="mut">Aún sin partidos corregidos</div>`}</div>`;
+    h += `<h2>Por mercado (mín. 3 picks)</h2><div class="card">${A.por_mercado.map(v=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(v.mercado)}</span><b>${v.pct}%</b><span class="mut" style="width:90px;text-align:right">${eur(v.beneficio)}</span></div><div class="bar"><div style="width:${v.pct}%;background:${v.pct>=75?"var(--ok)":v.pct>=60?"var(--warn)":"var(--ko)"}"></div></div></div>`).join("") || `<div class="mut">Aún sin datos suficientes</div>`}</div>`;
+    const hist = D.escalera.historial||[];
+    h += `<h2>Escalera · historial</h2><div class="card">${hist.length?hist.slice().reverse().map(x=>`<div class="leg"><span class="sp">${diaTxt(x.dia)} · día ${x.escalon}</span><span class="mut">${num(x.stake)} € x${n2(x.cuota)}</span>${chipEstado(x.resultado==="verde"?"verde":"rojo")}</div>`).join(""):`<div class="mut">Sin intentos todavía</div>`}</div>`;
+  } else if(modo==="redes"){
+    const R = D.redes||{}, redes = R.redes||{};
+    h += `<div class="grid2">${Object.entries(redes).map(([k,v])=>`<div class="stat"><span class="mut">${NOMBRE_RED[k]||k}</span><b>${num(v.seguidores)}</b><span class="mut" style="color:${(v.hoy||0)>0?"var(--ok)":""}">${v.hoy==null?"desde mañana: +hoy":(v.hoy>=0?"+":"")+v.hoy+" hoy"}</span></div>`).join("")}</div>`;
+    const hist = R.historial||{}, dias = Object.keys(hist).sort();
+    const [red, t2] = subTabs("red", [["total","Total"],...Object.keys(redes).map(k=>[k,NOMBRE_RED[k]||k])], "total");
+    const val = d => red==="total" ? Object.values(hist[d]).reduce((a,b)=>a+(b||0),0) : hist[d][red];
+    h += `<h2>Evolución</h2>${t2}<div class="card">${linea(dias.filter(d=>val(d)!=null).map(d=>[d,val(d)]))}</div>`;
+    const sem = {}; dias.forEach(d=>{const f=new Date(d+"T12:00"),k=semanaDe(f);sem[k]=sem[k]||[];sem[k].push(val(d))});
+    const ganados = Object.entries(sem).map(([k,v])=>({k,g:v.filter(x=>x!=null).length>1?v[v.length-1]-v[0]:0}));
+    h += `<h2>Ganados por semana</h2><div class="card">${ganados.length>1||ganados.some(x=>x.g)?barras(ganados.slice(-10),s=>s.k,s=>s.g,v=>v):`<div class="mut">Se rellena a medida que pasen los días.</div>`}</div>`;
+    const tipos = R.tipos_instagram;
+    if(tipos){ const l = Object.entries(tipos).sort((a,b)=>b[1].likes_media-a[1].likes_media), mx = Math.max(...l.map(x=>x[1].likes_media),1);
+      h += `<h2>Qué funciona mejor en Instagram</h2><div class="card">${l.map(([k,v])=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(k)}</span><b>${v.likes_media} ♥</b><span class="mut" style="width:86px;text-align:right">${v.posts} posts</span></div><div class="bar"><div style="width:${100*v.likes_media/mx}%"></div></div></div>`).join("")}<div class="mut" style="margin-top:6px">Media de likes por post, últimos 60 posts.</div></div>` }
+  } else {
+    let metas = {}; try{metas=JSON.parse(guardado("metas")||"{}")}catch(e){}
+    const R = D.redes||{}, redes = R.redes||{}, hist=R.historial||{}, dias=Object.keys(hist).sort();
+    h += `<div class="mut" style="margin:0 4px 10px">Pon una meta por red y te digo cuánto falta y cuándo llegarías al ritmo de los últimos días. Se guarda en este móvil.</div>`;
+    h += Object.entries(redes).map(([k,v])=>{
+      const m = Number(metas[k])||0, act=v.seguidores||0;
+      const ult = dias.slice(-8).map(d=>hist[d][k]).filter(x=>x!=null);
+      const ritmo = ult.length>1 ? (ult[ult.length-1]-ult[0])/(ult.length-1) : null;
+      const falta = m ? Math.max(m-act,0) : null;
+      const diasF = falta && ritmo>0 ? Math.ceil(falta/ritmo) : null;
+      const llegada = diasF ? new Date(Date.now()+diasF*864e5).toLocaleDateString("es-ES",{day:"numeric",month:"short",year:"numeric"}) : null;
+      return `<div class="card"><div class="row"><b class="sp">${NOMBRE_RED[k]||k}</b><span>${num(act)}</span></div>
+       <div class="row" style="margin:8px 0"><span class="mut">Meta</span><input type="number" inputmode="numeric" value="${m||""}" placeholder="p. ej. ${Math.ceil((act+1)*2/100)*100||100}" style="width:130px;margin-left:auto" onchange="guardarMeta('${k}',this.value)"></div>
+       ${m?`<div class="bar"><div style="width:${Math.min(100,100*act/m)}%"></div></div><div class="row mut" style="margin-top:6px"><span class="sp">${Math.min(100,Math.round(100*act/m))}% · faltan ${num(falta)}</span><span>${ritmo==null?"ritmo: desde mañana":ritmo>0?`+${ritmo.toFixed(1).replace(".",",")}/día → ${llegada}`:"sin crecer estos días"}</span></div>`:""}</div>`}).join("");
+  }
+  return h;
+}
+function semanaDe(f){ const d=new Date(Date.UTC(f.getFullYear(),f.getMonth(),f.getDate())); const n=d.getUTCDay()||7; d.setUTCDate(d.getUTCDate()+4-n); const y=new Date(Date.UTC(d.getUTCFullYear(),0,1)); return "S"+Math.ceil(((d-y)/864e5+1)/7) }
+function guardarMeta(k,v){ let m={}; try{m=JSON.parse(guardado("metas")||"{}")}catch(e){} m[k]=v; guardar("metas",JSON.stringify(m)); pintar() }
+
+/* ---------------- BOT ---------------- */
+function vBot(){
+  const B = D.bot, r = B.redes||{};
+  const diasCad = Math.ceil((new Date(B.claves_caducan+"T00:00") - Date.now())/864e5);
+  let h = `<div class="card"><div class="row"><span style="font-size:26px">${B.pausa?"⏸️":B.errores.length?"⚠️":"✅"}</span><div class="col sp"><b>${B.pausa?"Publicaciones en pausa":B.errores.length?"Funcionando, con algún fallo":"Todo funcionando"}</b><span class="mut">${B.pausa?"Escribe /reanudar al bot de Telegram":"Datos de "+D.generado.slice(11)}</span></div></div></div>`;
+  h += `<h2>Conexiones</h2><div class="card">${["instagram","threads","facebook"].map(k=>{const v=r[k]||"—";const ok=String(v).startsWith("OK");return `<div class="leg"><span class="sp">${NOMBRE_RED[k]}</span><span class="chip ${ok?"verde":"rojo"}">${ok?"Conectado":"Revisar"}</span></div>`}).join("")}<div class="leg"><span class="sp">Claves de Meta caducan</span><span class="chip ${diasCad<15?"warn":""}">en ${diasCad} días</span></div><div class="leg"><span class="sp">Picks generados</span><span class="mut">${esc((B.picks_generados||"").replace("T"," ").slice(0,16))}</span></div></div>`;
+  h += `<h2>Fallos recientes</h2>` + (B.errores.length ? B.errores.slice().reverse().map(e=>`<div class="card"><div class="row"><b class="sp">${esc(e.post)}</b><span class="chip rojo">${esc(e.red)}</span></div><div class="mut">${esc(e.fecha.replace("T"," "))} · ${esc(e.error)}</div></div>`).join("") : `<div class="empty">Sin fallos en los dos últimos días 👌</div>`);
+  h += `<h2>Spam quitado</h2>` + (B.spam.length ? B.spam.map(s=>`<div class="card"><div class="row"><b class="sp">${esc(s.autor)}</b><span class="chip">${esc(s.red)}</span></div><div class="mut">${esc((s.cuando||"").slice(0,16).replace("T"," "))} · ${esc(s.motivo)}</div><div class="sub" style="margin-top:4px">${esc(s.texto)}</div></div>`).join("") : `<div class="empty">Nada de spam por ahora</div>`);
+  h += `<h2>Comandos del bot de Telegram</h2><div class="card sub">/hoy · /picks · /manana · /combis · /pausa · /reanudar · /editar · /borrar</div>`;
+  return h;
+}
+
+$("#recargar").onclick = cargar;
+document.addEventListener("visibilitychange", () => { if(!document.hidden) cargar() });
+setInterval(cargar, 5*60*1000);
+nav(); cargar();
+</script>
+</body>
+</html>

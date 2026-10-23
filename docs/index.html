@@ -78,8 +78,10 @@ details summary{cursor:pointer}
 <div class="toast" id="toast"></div>
 <script>
 const RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/docs/datos.json";
-const PESTANAS = [["hoy","⚽","Hoy"],["partidos","📅","Partidos"],["contenido","✍️","Contenido"],["stats","📈","Stats"],["bot","🤖","Bot"]];
-let D = null, tab = guardado("tab") || "hoy", sub = {}, abiertos = new Set();
+const PUBLICA = location.pathname.includes("/publica");   // versión para compartir: sin lo interno
+const PESTANAS = [["hoy","⚽","Hoy"],["partidos","📅","Partidos"],["contenido","✍️","Contenido"],["stats","📈","Stats"],["bot","🤖","Bot"]]
+  .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
+let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
 function guardar(k,v){try{localStorage.setItem("cl_"+k,v)}catch(e){}}
 const $ = s => document.querySelector(s);
@@ -211,9 +213,11 @@ function linea(puntos, color="#0f7a35"){
 }
 const NOMBRE_RED = {instagram:"Instagram",threads:"Threads",facebook:"Facebook",telegram:"Telegram"};
 function vStats(){
-  const [modo, t] = subTabs("smodo", [["bot","🎯 Aciertos"],["redes","📱 Redes"],["metas","🏁 Objetivos"]], "bot");
+  const [modo, t0] = subTabs("smodo", [["bot","🎯 Aciertos"],["redes","📱 Redes"],["metas","🏁 Objetivos"]], "bot");
+  const t = PUBLICA ? "" : t0;
+  if(PUBLICA && modo !== "bot") sub.smodo = "bot";
   let h = t; const A = D.aciertos;
-  if(modo==="bot"){
+  if(modo==="bot" || PUBLICA){
     h += `<div class="grid2"><div class="stat"><span class="mut">Acierto total</span><b>${A.total.pct??"—"}%</b><span class="mut">${A.total.aciertos}/${A.total.picks} picks</span></div><div class="stat"><span class="mut">Beneficio (10 €/pick)</span><b style="color:${A.total.beneficio>=0?"var(--ok)":"var(--ko)"}">${eur(A.total.beneficio)}</b><span class="mut">desde que hay registro</span></div><div class="stat"><span class="mut">Racha</span><b>${A.racha_dias} 🔥</b><span class="mut">días seguidos ≥70%</span></div><div class="stat"><span class="mut">Último día</span><b>${A.por_dia.length?A.por_dia[A.por_dia.length-1].pct+"%":"—"}</b><span class="mut">${A.por_dia.length?diaTxt(A.por_dia[A.por_dia.length-1].dia):""}</span></div></div>`;
     const [per, t2] = subTabs("per", [["dia","Por día"],["semana","Por semana"],["mes","Por mes"]], "semana");
     const serie = per==="dia"?A.por_dia:per==="semana"?A.por_semana:A.por_mes;

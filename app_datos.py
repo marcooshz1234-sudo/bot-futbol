@@ -146,6 +146,20 @@ def patrones(hist, nombres):
     return uno[:25]
 
 
+# ------------------------------------------------------------------ versión pública
+
+def copia_publica():
+    """docs/publica/ = la misma app sin Contenido ni Bot (la app lo decide por la ruta)."""
+    pub = RAIZ / "docs" / "publica"
+    pub.mkdir(parents=True, exist_ok=True)
+    html = (RAIZ / "docs" / "index.html").read_text(encoding="utf-8")
+    html = html.replace('href="icono-180.png"', 'href="../icono-180.png"').replace('fetch("datos.json', 'fetch("../datos.json')
+    (pub / "index.html").write_text(html, encoding="utf-8")
+    man = json.loads((RAIZ / "docs" / "manifest.json").read_text(encoding="utf-8"))
+    man.update(start_url="./", icons=[dict(i, src="../" + i["src"]) for i in man["icons"]])
+    (pub / "manifest.json").write_text(json.dumps(man, ensure_ascii=False), encoding="utf-8")
+
+
 # ------------------------------------------------------------------ main
 
 def main():
@@ -342,6 +356,7 @@ def main():
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
              "publicados": publicados, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
+    copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"App: {len(partidos)} partidos · {sum(len(d['picks']) for d in dias.values())} picks · "
           f"{len(publicados)} publicados · {SALIDA.stat().st_size // 1024} KB")
