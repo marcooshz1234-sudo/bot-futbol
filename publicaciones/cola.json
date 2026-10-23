@@ -233,7 +233,7 @@
       "instagram_reel": "18395344099163412"
     },
     "errores_redes": {
-      "facebook": "403: (#200) Permissions error"
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
     }
   },
   {
@@ -252,7 +252,7 @@
       "instagram": "18120792289958099"
     },
     "errores_redes": {
-      "facebook": "403: (#200) Permissions error"
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
     }
   }
 ]
