@@ -24,24 +24,20 @@
     "mensaje_id": 42
   },
   {
+    "id": "2026-10-23-escalera",
+    "fecha": "2026-10-23T11:00",
+    "texto": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀\n\n❌ Ayer se cayó por el Brighton (0-0 en Jablonec). Aquí no se borra nada: otra vez desde 20€.\n\n🇮🇹 Más de 1,5 goles en Torino–Monza · 1,28\n🇩🇪 Moritz Nicolas (portero Gladbach) 4+ paradas · 1,53\n\n🎯 Cuota 1,96 · 20€ → 39,20€\n\n📊 Torino y Monza: +1,5 goles en sus 7 últimos. Nicolas: 6, 5, 5, 5 y 6 paradas en sus 5 últimos 🧤\n\n20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Esta vez llegamos al día 7?",
+    "foto": null,
+    "enviado": "2026-10-23T11:19",
+    "mensaje_id": 43
+  },
+  {
     "id": "2026-10-23-segura",
     "fecha": "2026-10-23T12:00",
     "texto": "🔒 COMBI SEGURA DEL VIERNES 🔒\n\n1️⃣ Más de 1,5 goles en Torino–Monza 🇮🇹 · 1,28\n2️⃣ Gol en la 1ª parte del Brest–Niza 🇫🇷 · 1,30\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Torino y Monza: más de 1,5 goles en sus 7 últimos partidos. 7 de 7 los dos 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "enviado": "2026-10-23T12:04",
     "mensaje_id": 44
-  },
-  {
-    "id": "2026-10-23-picks-hoy",
-    "fecha": "2026-10-23T17:30",
-    "texto": "🔥 6 PICKS PARA HOY 🔥\n\n🇩🇪 Stuttgart–Gladbach → +2,5 goles · 1,30\n🇮🇹 Torino–Monza → Monza marca · 1,40\n🇮🇹 Torino–Monza → No hay empate · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → Ipswich marca · 1,30\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → El Forest ve 2+ tarjetas · 1,53\n🇪🇸 Alavés–Málaga → +1,5 goles · 1,33\n\n📊 El Gladbach llega con 5 derrotas seguidas y encaja 3,3 goles por partido 📉\n\n¡Combina máximo 2 o 3! 🍀",
-    "foto": null
-  },
-  {
-    "id": "2026-10-23-loca",
-    "fecha": "2026-10-23T19:00",
-    "texto": "🤪 COMBI LOCA DEL VIERNES 🤪\n\n✅ 🇪🇸 Gana el Alavés · 1,61\n✅ 🇩🇪 Gana el Stuttgart · 1,38\n✅ 🇮🇹 Ambos marcan en Torino–Monza · 1,75\n✅ 🇫🇷 Ambos marcan en Brest–Niza · 1,57\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 No hay empate en Ipswich–Forest · 1,30\n\n🎯 Cuota total: 7,94\n💶 10€ → 79,40€\n\n🔥 Si entra, el viernes es nuestro 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null
   },
   {
     "id": "2026-10-23-combi-stuttgart-gladbach",
@@ -51,6 +47,12 @@
     "enviado": "2026-10-23T14:00",
     "mensaje_id": 46,
     "editado": "2026-10-23T14:10"
+  },
+  {
+    "id": "2026-10-23-actualizacion-stuttgart",
+    "fecha": "2026-10-23T14:25",
+    "texto": "🔄 ACTUALIZACIÓN · STUTTGART 🆚 GLADBACH 🇩🇪\n\n👀 Moritz Nicolas 4+ paradas ha bajado de 1,53 a 1,35 · mucha gente la ve igual que nosotros 🧤\n\n🎯 La combi del partido se queda en ~9 en Crear apuesta\n💶 10€ → ~90€\n\n📊 Nicolas: 6, 5, 5, 5 y 6 paradas en sus 5 últimos partidos\n\nGracias por el aviso 💚",
+    "foto": null
   },
   {
     "id": "2026-10-23-combi-torino-monza",
@@ -71,10 +73,22 @@
     "foto": "publicaciones/fotos/2026-10-23-granada-valladolid.jpg"
   },
   {
+    "id": "2026-10-23-picks-hoy",
+    "fecha": "2026-10-23T17:30",
+    "texto": "🔥 6 PICKS PARA HOY 🔥\n\n🇩🇪 Stuttgart–Gladbach → +2,5 goles · 1,30\n🇮🇹 Torino–Monza → Monza marca · 1,40\n🇮🇹 Torino–Monza → No hay empate · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → Ipswich marca · 1,30\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → El Forest ve 2+ tarjetas · 1,53\n🇪🇸 Alavés–Málaga → +1,5 goles · 1,33\n\n📊 El Gladbach llega con 5 derrotas seguidas y encaja 3,3 goles por partido 📉\n\n¡Combina máximo 2 o 3! 🍀",
+    "foto": null
+  },
+  {
     "id": "2026-10-23-combi-alaves-malaga",
     "fecha": "2026-10-23T18:00",
     "texto": "🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸\n💥 COMBI DEL PARTIDO 💥\n\n✅1. Gana el Alavés · 1,61\n✅2. El Alavés gana al descanso · 2,25\n✅3. Más de 1,5 goles · 1,33\n✅4. El Málaga saca 4+ córners · 1,66\n✅5. Herrero (portero Málaga) 3+ paradas · 1,36\n\n🎯 Cuota: ~9,50 (en Crear apuesta)\n💶 10€ → ~95€\n\n📊 Herrero ha hecho 3+ paradas en 8 de sus 9 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": "publicaciones/fotos/2026-10-23-alaves-malaga.jpg"
+  },
+  {
+    "id": "2026-10-23-loca",
+    "fecha": "2026-10-23T19:00",
+    "texto": "🤪 COMBI LOCA DEL VIERNES 🤪\n\n✅ 🇪🇸 Gana el Alavés · 1,61\n✅ 🇩🇪 Gana el Stuttgart · 1,38\n✅ 🇮🇹 Ambos marcan en Torino–Monza · 1,75\n✅ 🇫🇷 Ambos marcan en Brest–Niza · 1,57\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 No hay empate en Ipswich–Forest · 1,30\n\n🎯 Cuota total: 7,94\n💶 10€ → 79,40€\n\n🔥 Si entra, el viernes es nuestro 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null
   },
   {
     "id": "2026-10-23-picks-manana",
@@ -183,13 +197,5 @@
     "fecha": "2026-10-26T13:00",
     "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — 2 PICKS PARA HOY 🔥\n\n✅1. Sevilla o empate\n✅2. Más de 1,5 goles\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null
-  },
-  {
-    "id": "2026-10-23-escalera",
-    "fecha": "2026-10-23T11:00",
-    "texto": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀\n\n❌ Ayer se cayó por el Brighton (0-0 en Jablonec). Aquí no se borra nada: otra vez desde 20€.\n\n🇮🇹 Más de 1,5 goles en Torino–Monza · 1,28\n🇩🇪 Moritz Nicolas (portero Gladbach) 4+ paradas · 1,53\n\n🎯 Cuota 1,96 · 20€ → 39,20€\n\n📊 Torino y Monza: +1,5 goles en sus 7 últimos. Nicolas: 6, 5, 5, 5 y 6 paradas en sus 5 últimos 🧤\n\n20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Esta vez llegamos al día 7?",
-    "foto": null,
-    "enviado": "2026-10-23T11:19",
-    "mensaje_id": 43
   }
 ]
