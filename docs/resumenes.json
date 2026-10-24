@@ -79,11 +79,11 @@
     "total": 9,
     "cuentas": {
       "verde": 0,
-      "rojo": 7,
-      "pendiente": 1,
+      "rojo": 8,
+      "pendiente": 0,
       "sin_datos": 0,
       "no_jugo": 1,
-      "sin_resolver": 2
+      "sin_resolver": 1
     },
     "combis": [
       {
@@ -113,7 +113,7 @@
       {
         "id": "2026-10-24-combi-valencia-villarreal",
         "titulo": "🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 9.5
       },
       {
@@ -141,6 +141,6 @@
         "cuota": 2.02
       }
     ],
-    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n⏳ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50 · pendiente\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 7 falladas · ⏳ 2 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos."
+    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n❌ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 8 falladas · ⏳ 1 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos."
   }
 }
