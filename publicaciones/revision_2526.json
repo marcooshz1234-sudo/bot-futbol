@@ -1,11 +1,8 @@
 {
   "ids": [
-    "2026-10-25-combi-barca-madrid"
+    "2026-10-25-combi-freiburg-bayern"
   ],
   "fecha": "2026-10-25",
-  "revision": "Barça cuota 11: texto público definitivo y recordatorio de titulares",
-  "pendientes": [
-    "Freiburg: comprobar 3+ frente a más de 3",
-    "PSG: captura 5,75, objetivo 9–11"
-  ]
+  "revision": "Bayern cuota 9,75: 4+ goles; Freiburg 3+ córners; Eggestein y Ginter 1+ remate; Matanović 1+ remate a puerta",
+  "pendiente": "PSG a 8; comprobar precio añadiendo menos de 3 goles en primera parte"
 }
