@@ -98,8 +98,8 @@ async function copiar(t){try{await navigator.clipboard.writeText(t);toast("Copia
 
 async function cargar(){
   $("#act").textContent = "Actualizando…";
-  try { const r = await fetch(RAW + "?t=" + Date.now(), {cache:"no-store"}); if(!r.ok) throw 0; D = await r.json(); }
-  catch(e){ try { D = await (await fetch("datos.json?t="+Date.now())).json() } catch(e2){} }
+  try { const r = await fetch((PUBLICA ? "../datos.json" : "datos.json") + "?t=" + Date.now(), {cache:"no-store"}); if(!r.ok) throw 0; D = await r.json(); }
+  catch(e){ try { D = await (await fetch(RAW+"?t="+Date.now(), {cache:"no-store"})).json() } catch(e2){} }
   if(!D){ $("#vista").innerHTML = `<div class="empty">Sin conexión. Prueba otra vez.</div>`; $("#act").textContent=""; return }
   $("#act").textContent = "Datos del bot · " + D.generado.slice(8,10)+"/"+D.generado.slice(5,7)+" "+D.generado.slice(11);
   pintar();
