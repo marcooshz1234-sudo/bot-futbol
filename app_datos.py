@@ -68,6 +68,12 @@ def fecha_iso(iso):
     return (fecha if fecha.tzinfo else fecha.replace(tzinfo=MADRID)).isoformat()
 
 
+def registro_visible(p, ahora):
+    # Conservar el historial, sin volver a recomendar un 12 futuro guardado antes del cambio.
+    return not (es_sin_empate(p.get("mercado"), p.get("opcion")) and p.get("fecha")
+                and datetime.fromisoformat(fecha_iso(p["fecha"])) > ahora)
+
+
 def hora(iso):
     return datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(MADRID)
 
@@ -288,7 +294,7 @@ def main():
         lista = list(d.get("picks") or [])
         ya = {clave(p) for p in lista}
         lista += [dict(p, detalle=p.get("detalle")) for k, p in reg.items()   # los ya empezados salen de picks.json
-                  if p.get("fecha", "")[:10] == dia and k not in ya and "partido_id" in p]
+                  if p.get("fecha", "")[:10] == dia and k not in ya and "partido_id" in p and registro_visible(p, ahora)]
         dias[dia] = {"picks": [ligero(p) for p in sorted(lista, key=lambda x: x["fecha"])],
                      "combis": combis}
 
