@@ -54,6 +54,18 @@ class EstadoPicksTest(unittest.TestCase):
 
 
 class PublicadosTest(unittest.TestCase):
+    def test_jugador_sin_participacion_no_queda_pendiente_tras_final(self):
+        spec, _ = publicados.entender('Vandevoordt (portero Leipzig): 2+ paradas')
+        d = {'estado': 'FT', 'local': {'id': 1, 'nombre': 'RB Leipzig'},
+             'visitante': {'id': 2, 'nombre': 'SV Elversberg'}, 'goles': [4, 0],
+             'jugadores': {'1': [{'nombre': 'M. Vandevoordt', 'min': 0, 'paradas': 0}]}}
+        self.assertEqual(publicados.evaluar(spec, d), 'no_jugo')
+        d['estado'] = '2H'
+        self.assertEqual(publicados.evaluar(spec, d), 'sin_datos')
+        d['estado'] = 'FT'
+        d['jugadores']['1'][0]['min'] = None
+        self.assertEqual(publicados.evaluar(spec, d), 'sin_datos')
+
     def test_portero_con_dos_puntos_tras_el_nombre(self):
         spec, _ = publicados.entender('Kristof (portero Elversberg): 2+ paradas')
         d = {'estado': 'FT', 'local': {'id': 1, 'nombre': 'RB Leipzig'},
