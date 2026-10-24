@@ -1,10 +1,10 @@
 # Toulouse – Estac Troyes
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:44_
 
 - **1X2:** 1 **1.60**  ·  X **4.00**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.38**

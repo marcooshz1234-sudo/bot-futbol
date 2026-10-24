@@ -1,10 +1,10 @@
 # Hull City – Ipswich
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**

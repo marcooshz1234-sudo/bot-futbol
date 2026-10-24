@@ -1,10 +1,10 @@
 # Angers – Lorient
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:44_
 
 - **1X2:** 1 **3.00**  ·  X **3.30**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.36**
@@ -21,11 +21,11 @@ _Actualizadas: 24/10 02:56_
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.25** · menos **1.57**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
@@ -57,8 +57,10 @@ _Actualizadas: 24/10 02:56_
     - 1,5: más **2.00** · menos **1.73**
 - **Total ShotOnGoal:**
     - 8,5: más **1.83** · menos **1.83**
+- **ShotOnTarget 1x2:** 1 **2.50**  ·  X **7.00**  ·  2 **1.73**
 - **Total Shots:**
     - 24,5: más **1.73** · menos **2.00**
+- **Shots.1x2:** 1 **2.40**  ·  X **15.00**  ·  2 **1.57**
 - **Home Player Shots On Target Total:** Mamadou Simbakoli - 1 **1.80**  ·  Jim Allevinah - 1 **1.91**  ·  Prosper Peter - 1 **1.57**  ·  Amine El Ouazzani - 1 **1.73**  ·  Amine Sbai - 1 **1.91**  ·  Harouna Djibirin - 1 **1.57**  ·  Bane Diatta - 1 **6.00**  ·  Anthony Bermont - 1 **2.10**  ·  Branco van den Boomen - 1 **2.10**  ·  Louis Mouton - 1 **2.50**  ·  Yassin Belkhdim - 1 **2.50**  ·  Lilian Raolisoa - 1 **4.33**  ·  Emmanuel Biumla - 1 **8.00**  ·  Haris Belkebla - 1 **8.00**  ·  Carlens Arcus - 1 **6.00**  ·  Joseph Kalulu - 1 **8.00**  ·  Jordan Lefort - 1 **8.00**  ·  Mael Gernigon - 1 **8.00**  ·  Marius Louer - 1 **6.50**  ·  Ousmane Camara - 1 **8.00**  ·  Mamadou Simbakoli - 2 **5.00**  ·  Jim Allevinah - 2 **6.00**  ·  Prosper Peter - 2 **3.75**  ·  Amine El Ouazzani - 2 **4.50**  ·  Amine Sbai - 2 **6.00**  ·  Harouna Djibirin - 2 **3.75**  ·  Anthony Bermont - 2 **7.00**  ·  Branco van den Boomen - 2 **7.00**  ·  Louis Mouton - 2 **10.00**  ·  Yassin Belkhdim - 2 **10.00**  ·  Lilian Raolisoa - 2 **21.00**  ·  Mamadou Simbakoli - 3 **17.00**  ·  Jim Allevinah - 3 **21.00**  ·  Prosper Peter - 3 **11.00**  ·  Amine El Ouazzani - 3 **15.00**  ·  Amine Sbai - 3 **21.00**  ·  Harouna Djibirin - 3 **13.00**  ·  Anthony Bermont - 3 **21.00**  ·  Branco van den Boomen - 3 **21.00**  ·  Jules Bouffandeau - 1 **8.00**
 - **Away Player Shots Total:**
     - 13,5: más **1.91** · menos **1.80**
@@ -227,13 +229,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
 | Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles del local: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles del visitante: Más de 1.5 | 36% | 41% | 38% | 2.25 | -13% |
-| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | +0% |
-| Goles del visitante: Menos de 1.5 | 64% | 59% | 62% | 1.57 | -3% |
+| Goles del local: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del visitante: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
+| Goles del visitante: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
+| Goles del visitante: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -3% |
+| Goles del visitante: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
 | Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -5% |
 | Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
 | 1X2 descanso: 2 | 29% | 30% | 29% | 3.10 | -9% |

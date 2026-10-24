@@ -1,10 +1,10 @@
 # Werder Bremen – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **2.90**  ·  X **3.80**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**

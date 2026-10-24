@@ -1,10 +1,10 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **1.11**  ·  X **8.50**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.08**  ·  X2 **6.50**
@@ -47,7 +47,7 @@ _Actualizadas: 24/10 02:56_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.75**
 - **Away Player Shots On Target Total:** Rodri **15.00**  ·  Lucas Boye **7.50**  ·  Jules Kounde **12.00**  ·  Ville Koski **51.00**  ·  Mariano Diaz **29.00**  ·  Lamine Yamal **17.00**  ·  Pedri **23.00**  ·  Pau Cubarsi **8.50**  ·  Joao Cancelo **34.00**  ·  Raphinha **21.00**  ·  Nicolas Valentini **41.00**  ·  Xavi Espart **34.00**  ·  Gabriel Jesus **11.00**  ·  Miguel Rodriguez **21.00**  ·  Antonio Martinez **13.00**  ·  Andreas Christensen **9.50**  ·  Marc Bernal **9.00**  ·  Castro Jonny Otto **126.00**  ·  Eric Garcia **10.00**  ·  Pablo Ibanez **67.00**  ·  Carles Alena **34.00**  ·  Denis Suarez **34.00**  ·  Dani Olmo **21.00**  ·  Xanet Olaiz **29.00**  ·  Gavi **34.00**  ·  Fermin Lopez **10.00**  ·  Hamza Abdelkarim **9.00**  ·  Anthony Gordon **12.00**  ·  Antonio Blanco **67.00**  ·  Nahuel Tenaglia **29.00**  ·  Abde Rebbach **51.00**  ·  Ander Guevara **126.00**  ·  Alex Balde **34.00**  ·  Carlos Protesoni **51.00**  ·  Mikel Rodriguez **34.00**  ·  Karim Adeyemi **15.00**  ·  Angel Hidalgo Perez **51.00**  ·  Martin Gerard **26.00**
 - **Anytime Goal Scorer:** Rodri **4.75**  ·  Lucas Boye **4.00**  ·  Jules Kounde **5.00**  ·  Ville Koski **26.00**  ·  Mariano Diaz **4.75**  ·  Lamine Yamal **1.83**  ·  Pedri **3.40**  ·  Pau Cubarsi **6.00**  ·  Joao Cancelo **4.00**  ·  Raphinha **1.67**  ·  Nicolas Valentini **17.00**  ·  Xavi Espart **3.60**  ·  Gabriel Jesus **1.83**  ·  Miguel Rodriguez **6.00**  ·  Antonio Martinez **4.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **3.60**  ·  Castro Jonny Otto **21.00**  ·  Eric Garcia **5.50**  ·  Pablo Ibanez **7.00**  ·  Carles Alena **6.00**  ·  Denis Suarez **9.00**  ·  Dani Olmo **2.40**  ·  Xanet Olaiz **13.00**  ·  Gavi **4.75**  ·  Fermin Lopez **2.20**  ·  Hamza Abdelkarim **1.95**  ·  Anthony Gordon **1.95**  ·  Antonio Blanco **9.00**  ·  Nahuel Tenaglia **11.00**  ·  Abde Rebbach **7.50**  ·  Ander Guevara **17.00**  ·  Alex Balde **6.00**  ·  Carlos Protesoni **13.00**  ·  Mikel Rodriguez **7.00**  ·  Karim Adeyemi **1.95**  ·  Angel Hidalgo Perez **7.50**  ·  Martin Gerard **7.00**
-- **Player to Score or Assist:** Lucas Boye **3.20**  ·  Lamine Yamal **1.28**  ·  Raphinha **1.25**  ·  Xavi Espart **2.40**  ·  Fermin Lopez **1.44**  ·  Anthony Gordon **1.36**
+- **Player to Score or Assist:** Rodri **2.50**  ·  Lucas Boye **3.20**  ·  Jules Kounde **2.75**  ·  Ville Koski **15.00**  ·  Mariano Diaz **3.60**  ·  Lamine Yamal **1.28**  ·  Pedri **1.80**  ·  Pau Cubarsi **4.33**  ·  Joao Cancelo **2.00**  ·  Raphinha **1.25**  ·  Nicolas Valentini **13.00**  ·  Xavi Espart **2.40**  ·  Gabriel Jesus **1.40**  ·  Miguel Rodriguez **4.00**  ·  Antonio Martinez **3.50**  ·  Andreas Christensen **4.33**  ·  Marc Bernal **2.00**  ·  Castro Jonny Otto **9.50**  ·  Eric Garcia **3.50**  ·  Pablo Ibanez **4.50**  ·  Carles Alena **3.60**  ·  Denis Suarez **4.75**  ·  Dani Olmo **1.62**  ·  Xanet Olaiz **9.50**  ·  Gavi **2.40**  ·  Fermin Lopez **1.44**  ·  Hamza Abdelkarim **1.57**  ·  Anthony Gordon **1.36**  ·  Antonio Blanco **6.00**  ·  Nahuel Tenaglia **6.50**  ·  Abde Rebbach **4.50**  ·  Ander Guevara **9.50**  ·  Alex Balde **3.00**  ·  Carlos Protesoni **7.50**  ·  Mikel Rodriguez **4.75**  ·  Karim Adeyemi **1.40**  ·  Angel Hidalgo Perez **4.75**  ·  Martin Gerard **3.10**
 
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Alaves (total) | Alaves fuera |

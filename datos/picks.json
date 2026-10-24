@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-24 08:45",
+ "generado": "2026-10-24 14:46",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -52,9 +52,9 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.25,
+     "cuota": 1.28,
      "frecuencia": 0.929,
-     "ventaja": 0.129,
+     "ventaja": 0.147,
      "detalle": "Lazio 7/7 · Parma 6/7"
     },
     {
@@ -68,26 +68,10 @@
      "opcion": "Yes",
      "tipo": "goles",
      "texto": "Ambos marcan en Como–Sassuolo",
-     "cuota": 1.57,
+     "cuota": 1.5,
      "frecuencia": 0.882,
-     "ventaja": 0.245,
+     "ventaja": 0.216,
      "detalle": "Como 8/10 · Sassuolo 7/7"
-    },
-    {
-     "partido_id": 1570429,
-     "fecha": "2026-10-24T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Rayo Vallecano",
-     "visitante": "Elche",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
-     "cuota": 1.28,
-     "frecuencia": 0.882,
-     "ventaja": 0.101,
-     "detalle": "Rayo Vallecano 8/8 · Elche 7/9"
     },
     {
      "partido_id": 1550158,
@@ -132,9 +116,9 @@
      "opcion": "Over 0.5",
      "tipo": "goles",
      "texto": "Gol en la 2ª parte del Cagliari–Bologna",
-     "cuota": 1.28,
+     "cuota": 1.25,
      "frecuencia": 0.857,
-     "ventaja": 0.076,
+     "ventaja": 0.057,
      "detalle": "Cagliari 5/7 · Bologna 7/7"
     },
     {
@@ -168,6 +152,22 @@
      "frecuencia": 0.833,
      "ventaja": 0.052,
      "detalle": "Racing Santander 8/9 · Espanyol 7/9"
+    },
+    {
+     "partido_id": 1575202,
+     "fecha": "2026-10-24T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "Hamburger SV",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del SC Paderborn 07–Hamburger SV",
+     "cuota": 1.28,
+     "frecuencia": 0.833,
+     "ventaja": 0.052,
+     "detalle": "SC Paderborn 07 5/6 · Hamburger SV 5/6"
     },
     {
      "partido_id": 1575200,
@@ -212,26 +212,10 @@
      "opcion": "Home/Away",
      "tipo": "resultado",
      "texto": "No hay empate en Napoli–AS Roma",
-     "cuota": 1.36,
+     "cuota": 1.33,
      "frecuencia": 0.8,
-     "ventaja": 0.065,
+     "ventaja": 0.048,
      "detalle": "Napoli 9/10 · AS Roma 7/10"
-    },
-    {
-     "partido_id": 1550158,
-     "fecha": "2026-10-24T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Cagliari",
-     "visitante": "Bologna",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Cagliari o empate",
-     "cuota": 1.53,
-     "frecuencia": 0.786,
-     "ventaja": 0.132,
-     "detalle": "Cagliari 5/7 · Bologna 6/7"
     },
     {
      "partido_id": 1550162,
@@ -244,10 +228,26 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Lazio",
-     "cuota": 1.4,
+     "cuota": 1.48,
      "frecuencia": 0.786,
-     "ventaja": 0.071,
+     "ventaja": 0.11,
      "detalle": "Lazio 6/7 · Parma 5/7"
+    },
+    {
+     "partido_id": 1550158,
+     "fecha": "2026-10-24T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Cagliari",
+     "visitante": "Bologna",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Cagliari o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.786,
+     "ventaja": 0.091,
+     "detalle": "Cagliari 5/7 · Bologna 6/7"
     },
     {
      "partido_id": 1550158,
@@ -276,9 +276,9 @@
      "opcion": "Over 1.5",
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Lazio–Parma",
-     "cuota": 1.28,
+     "cuota": 1.3,
      "frecuencia": 0.786,
-     "ventaja": 0.004,
+     "ventaja": 0.016,
      "detalle": "Lazio 5/7 · Parma 6/7"
     },
     {
@@ -292,9 +292,9 @@
      "opcion": "o/yes 2.5",
      "tipo": "goles",
      "texto": "Ambos marcan y más de 2,5 goles en Como–Sassuolo",
-     "cuota": 1.8,
+     "cuota": 1.67,
      "frecuencia": 0.765,
-     "ventaja": 0.209,
+     "ventaja": 0.166,
      "detalle": "Como 7/10 · Sassuolo 6/7"
     },
     {
@@ -308,26 +308,10 @@
      "opcion": "Over 2.5",
      "tipo": "goles",
      "texto": "Más de 2,5 goles en Como–Sassuolo",
-     "cuota": 1.44,
+     "cuota": 1.36,
      "frecuencia": 0.765,
-     "ventaja": 0.07,
+     "ventaja": 0.029,
      "detalle": "Como 7/10 · Sassuolo 6/7"
-    },
-    {
-     "partido_id": 1557438,
-     "fecha": "2026-10-24T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Manchester City",
-     "mercado": "Total Shots",
-     "opcion": "Over 26.5",
-     "tipo": "tiros",
-     "texto": "Más de 26,5 tiros en Aston Villa–Manchester City",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Aston Villa 8/10 · Manchester City 7/10"
     }
    ],
    "mejores_por_partido": [
@@ -374,26 +358,10 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.25,
-     "frecuencia": 0.929,
-     "ventaja": 0.129,
-     "detalle": "Lazio 7/7 · Parma 6/7"
-    },
-    {
-     "partido_id": 1570429,
-     "fecha": "2026-10-24T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Rayo Vallecano",
-     "visitante": "Elche",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
      "cuota": 1.28,
-     "frecuencia": 0.882,
-     "ventaja": 0.101,
-     "detalle": "Rayo Vallecano 8/8 · Elche 7/9"
+     "frecuencia": 0.929,
+     "ventaja": 0.147,
+     "detalle": "Lazio 7/7 · Parma 6/7"
     },
     {
      "partido_id": 1550158,
@@ -426,6 +394,22 @@
      "frecuencia": 0.857,
      "ventaja": 0.088,
      "detalle": "Coventry 7/7 · Fulham 5/7"
+    },
+    {
+     "partido_id": 1575202,
+     "fecha": "2026-10-24T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "Hamburger SV",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del SC Paderborn 07–Hamburger SV",
+     "cuota": 1.28,
+     "frecuencia": 0.833,
+     "ventaja": 0.052,
+     "detalle": "SC Paderborn 07 5/6 · Hamburger SV 5/6"
     },
     {
      "partido_id": 1575200,
@@ -470,26 +454,10 @@
      "opcion": "Home/Away",
      "tipo": "resultado",
      "texto": "No hay empate en Napoli–AS Roma",
-     "cuota": 1.36,
+     "cuota": 1.33,
      "frecuencia": 0.8,
-     "ventaja": 0.065,
+     "ventaja": 0.048,
      "detalle": "Napoli 9/10 · AS Roma 7/10"
-    },
-    {
-     "partido_id": 1557438,
-     "fecha": "2026-10-24T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Manchester City",
-     "mercado": "Total Shots",
-     "opcion": "Over 26.5",
-     "tipo": "tiros",
-     "texto": "Más de 26,5 tiros en Aston Villa–Manchester City",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Aston Villa 8/10 · Manchester City 7/10"
     }
    ],
    "combis": {
@@ -522,13 +490,13 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Lazio gana alguna de las dos partes",
-       "cuota": 1.25,
+       "cuota": 1.28,
        "frecuencia": 0.929,
-       "ventaja": 0.129,
+       "ventaja": 0.147,
        "detalle": "Lazio 7/7 · Parma 6/7"
       }
      ],
-     "cuota": 1.56
+     "cuota": 1.6
     },
     "cuota_3": {
      "picks": [
@@ -583,123 +551,7 @@
      ],
      "cuota": 3.13
     },
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1550159,
-       "fecha": "2026-10-24T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Como",
-       "visitante": "Sassuolo",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Como–Sassuolo",
-       "cuota": 1.57,
-       "frecuencia": 0.882,
-       "ventaja": 0.245,
-       "detalle": "Como 8/10 · Sassuolo 7/7"
-      },
-      {
-       "partido_id": 1570429,
-       "fecha": "2026-10-24T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Rayo Vallecano",
-       "visitante": "Elche",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
-       "cuota": 1.28,
-       "frecuencia": 0.882,
-       "ventaja": 0.101,
-       "detalle": "Rayo Vallecano 8/8 · Elche 7/9"
-      },
-      {
-       "partido_id": 1550158,
-       "fecha": "2026-10-24T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Cagliari",
-       "visitante": "Bologna",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Cagliari marca",
-       "cuota": 1.4,
-       "frecuencia": 0.857,
-       "ventaja": 0.143,
-       "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7"
-      },
-      {
-       "partido_id": 1552795,
-       "fecha": "2026-10-24T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lens",
-       "visitante": "Paris FC",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Lens–Paris FC",
-       "cuota": 1.28,
-       "frecuencia": 0.824,
-       "ventaja": 0.042,
-       "detalle": "Lens 9/10 · Paris FC 5/7"
-      },
-      {
-       "partido_id": 1550164,
-       "fecha": "2026-10-24T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Napoli",
-       "visitante": "AS Roma",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Napoli–AS Roma",
-       "cuota": 1.36,
-       "frecuencia": 0.8,
-       "ventaja": 0.065,
-       "detalle": "Napoli 9/10 · AS Roma 7/10"
-      },
-      {
-       "partido_id": 1550162,
-       "fecha": "2026-10-24T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Parma",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
-       "cuota": 1.4,
-       "frecuencia": 0.786,
-       "ventaja": 0.071,
-       "detalle": "Lazio 6/7 · Parma 5/7"
-      },
-      {
-       "partido_id": 1557438,
-       "fecha": "2026-10-24T13:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Aston Villa",
-       "visitante": "Manchester City",
-       "mercado": "Total Shots",
-       "opcion": "Over 26.5",
-       "tipo": "tiros",
-       "texto": "Más de 26,5 tiros en Aston Villa–Manchester City",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "Aston Villa 8/10 · Manchester City 7/10"
-      }
-     ],
-     "cuota": 12.34
-    }
+    "loca": null
    },
    "combis_partido": []
   },
@@ -842,22 +694,6 @@
      "detalle": "SC Freiburg 9/10 · Bayern München 8/9"
     },
     {
-     "partido_id": 1557441,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Crystal Palace",
-     "visitante": "Newcastle",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Crystal Palace–Newcastle",
-     "cuota": 1.28,
-     "frecuencia": 0.882,
-     "ventaja": 0.101,
-     "detalle": "Crystal Palace 9/10 · Newcastle 6/7"
-    },
-    {
      "partido_id": 1550163,
      "fecha": "2026-10-25T18:00",
      "competicion": "Serie A",
@@ -872,6 +708,22 @@
      "frecuencia": 0.882,
      "ventaja": 0.082,
      "detalle": "Lecce 6/7 · Juventus 9/10"
+    },
+    {
+     "partido_id": 1557441,
+     "fecha": "2026-10-25T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Crystal Palace",
+     "visitante": "Newcastle",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Crystal Palace–Newcastle",
+     "cuota": 1.25,
+     "frecuencia": 0.882,
+     "ventaja": 0.082,
+     "detalle": "Crystal Palace 9/10 · Newcastle 6/7"
     },
     {
      "partido_id": 1552793,
@@ -970,54 +822,6 @@
      "detalle": "Auxerre 6/7 · Le Mans 6/7"
     },
     {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Total Shots",
-     "opcion": "Over 26.5",
-     "tipo": "tiros",
-     "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
-     "cuota": 1.8,
-     "frecuencia": 0.85,
-     "ventaja": 0.294,
-     "detalle": "Paris Saint Germain 10/10 · Lyon 7/10"
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
-     "cuota": 1.4,
-     "frecuencia": 0.85,
-     "ventaja": 0.136,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10"
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Lyon marca",
-     "cuota": 1.4,
-     "frecuencia": 0.85,
-     "ventaja": 0.136,
-     "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 8/10"
-    },
-    {
      "partido_id": 1550161,
      "fecha": "2026-10-25T12:30",
      "competicion": "Serie A",
@@ -1080,22 +884,6 @@
      "frecuencia": 0.824,
      "ventaja": 0.042,
      "detalle": "Rennes (en contra) 8/10 · Strasbourg 6/7"
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Paris Saint Germain–Lyon",
-     "cuota": 1.53,
-     "frecuencia": 0.8,
-     "ventaja": 0.146,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 7/10"
     },
     {
      "partido_id": 1552797,
@@ -1162,6 +950,22 @@
      "detalle": "Manchester United 8/9 · Bournemouth 7/10"
     },
     {
+     "partido_id": 1552793,
+     "fecha": "2026-10-25T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Auxerre",
+     "visitante": "Le Mans",
+     "mercado": "Total ShotOnGoal",
+     "opcion": "Over 8.5",
+     "tipo": "tiros a puerta",
+     "texto": "Más de 8,5 tiros a puerta en Auxerre–Le Mans",
+     "cuota": 1.73,
+     "frecuencia": 0.786,
+     "ventaja": 0.208,
+     "detalle": "Auxerre 6/7 · Le Mans 5/7"
+    },
+    {
      "partido_id": 1552792,
      "fecha": "2026-10-25T17:15",
      "competicion": "Ligue 1",
@@ -1176,6 +980,22 @@
      "frecuencia": 0.786,
      "ventaja": 0.034,
      "detalle": "Angers 6/7 · Lorient 5/7"
+    },
+    {
+     "partido_id": 1552792,
+     "fecha": "2026-10-25T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Angers",
+     "visitante": "Lorient",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Lorient marca",
+     "cuota": 1.28,
+     "frecuencia": 0.786,
+     "ventaja": 0.004,
+     "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
     },
     {
      "partido_id": 1557441,
@@ -1216,22 +1036,6 @@
      "liga_id": 39,
      "local": "Sunderland",
      "visitante": "Leeds",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Leeds o empate",
-     "cuota": 1.4,
-     "frecuencia": 0.765,
-     "ventaja": 0.05,
-     "detalle": "Sunderland 7/10 · Leeds 6/7"
-    },
-    {
-     "partido_id": 1557446,
-     "fecha": "2026-10-25T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Sunderland",
-     "visitante": "Leeds",
      "mercado": "Goals Over/Under",
      "opcion": "Over 1.5",
      "tipo": "goles",
@@ -1240,6 +1044,22 @@
      "frecuencia": 0.765,
      "ventaja": 0.029,
      "detalle": "Sunderland 8/10 · Leeds 5/7"
+    },
+    {
+     "partido_id": 1557446,
+     "fecha": "2026-10-25T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Sunderland",
+     "visitante": "Leeds",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Leeds o empate",
+     "cuota": 1.36,
+     "frecuencia": 0.765,
+     "ventaja": 0.029,
+     "detalle": "Sunderland 7/10 · Leeds 6/7"
     },
     {
      "partido_id": 1550163,
@@ -1272,6 +1092,22 @@
      "frecuencia": 0.75,
      "ventaja": 0.151,
      "detalle": "Manchester United 8/10 · Bournemouth 7/10"
+    },
+    {
+     "partido_id": 1557441,
+     "fecha": "2026-10-25T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Crystal Palace",
+     "visitante": "Newcastle",
+     "mercado": "Away Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Newcastle ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Crystal Palace (en contra) 7/9 · Newcastle 5/7"
     },
     {
      "partido_id": 1570427,
@@ -1412,22 +1248,6 @@
      "detalle": "Manchester United (en contra) 9/10 · Bournemouth 9/10"
     },
     {
-     "partido_id": 1557441,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Crystal Palace",
-     "visitante": "Newcastle",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Crystal Palace–Newcastle",
-     "cuota": 1.28,
-     "frecuencia": 0.882,
-     "ventaja": 0.101,
-     "detalle": "Crystal Palace 9/10 · Newcastle 6/7"
-    },
-    {
      "partido_id": 1550163,
      "fecha": "2026-10-25T18:00",
      "competicion": "Serie A",
@@ -1442,6 +1262,22 @@
      "frecuencia": 0.882,
      "ventaja": 0.082,
      "detalle": "Lecce 6/7 · Juventus 9/10"
+    },
+    {
+     "partido_id": 1557441,
+     "fecha": "2026-10-25T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Crystal Palace",
+     "visitante": "Newcastle",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Crystal Palace–Newcastle",
+     "cuota": 1.25,
+     "frecuencia": 0.882,
+     "ventaja": 0.082,
+     "detalle": "Crystal Palace 9/10 · Newcastle 6/7"
     },
     {
      "partido_id": 1552793,
@@ -1474,22 +1310,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.24,
      "detalle": "Toulouse (en contra) 5/7 · Estac Troyes 7/7"
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-25T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Total Shots",
-     "opcion": "Over 26.5",
-     "tipo": "tiros",
-     "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
-     "cuota": 1.8,
-     "frecuencia": 0.85,
-     "ventaja": 0.294,
-     "detalle": "Paris Saint Germain 10/10 · Lyon 7/10"
     },
     {
      "partido_id": 1550161,
@@ -1722,22 +1542,6 @@
        "detalle": "SC Freiburg 9/10 · Bayern München 8/9"
       },
       {
-       "partido_id": 1552800,
-       "fecha": "2026-10-25T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Paris Saint Germain",
-       "visitante": "Lyon",
-       "mercado": "Total Shots",
-       "opcion": "Over 26.5",
-       "tipo": "tiros",
-       "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
-       "cuota": 1.8,
-       "frecuencia": 0.85,
-       "ventaja": 0.294,
-       "detalle": "Paris Saint Germain 10/10 · Lyon 7/10"
-      },
-      {
        "partido_id": 1552797,
        "fecha": "2026-10-25T15:00",
        "competicion": "Ligue 1",
@@ -1752,6 +1556,22 @@
        "frecuencia": 0.8,
        "ventaja": 0.031,
        "detalle": "Monaco 8/10 · Lille 8/10"
+      },
+      {
+       "partido_id": 1552793,
+       "fecha": "2026-10-25T17:15",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Auxerre",
+       "visitante": "Le Mans",
+       "mercado": "Total ShotOnGoal",
+       "opcion": "Over 8.5",
+       "tipo": "tiros a puerta",
+       "texto": "Más de 8,5 tiros a puerta en Auxerre–Le Mans",
+       "cuota": 1.73,
+       "frecuencia": 0.786,
+       "ventaja": 0.208,
+       "detalle": "Auxerre 6/7 · Le Mans 5/7"
       },
       {
        "partido_id": 1552792,
@@ -1770,29 +1590,93 @@
        "detalle": "Angers 6/7 · Lorient 5/7"
       },
       {
-       "partido_id": 1570427,
-       "fecha": "2026-10-25T16:15",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Celta Vigo",
-       "visitante": "Real Betis",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Real Betis o empate",
-       "cuota": 1.36,
+       "partido_id": 1557441,
+       "fecha": "2026-10-25T15:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Crystal Palace",
+       "visitante": "Newcastle",
+       "mercado": "Away Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Newcastle ve más de 1,5 tarjetas",
+       "cuota": 1.5,
        "frecuencia": 0.75,
-       "ventaja": 0.015,
-       "detalle": "Celta Vigo 7/10 · Real Betis 8/10"
+       "ventaja": 0.083,
+       "detalle": "Crystal Palace (en contra) 7/9 · Newcastle 5/7"
       }
      ],
-     "cuota": 8.67
+     "cuota": 9.19
     }
    },
    "combis_partido": []
   },
   "2026-10-26": {
    "picks": [
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Total Shots",
+     "opcion": "Over 26.5",
+     "tipo": "tiros",
+     "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
+     "cuota": 1.8,
+     "frecuencia": 0.85,
+     "ventaja": 0.294,
+     "detalle": "Paris Saint Germain 10/10 · Lyon 7/10"
+    },
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
+     "cuota": 1.4,
+     "frecuencia": 0.85,
+     "ventaja": 0.136,
+     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10"
+    },
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Lyon marca",
+     "cuota": 1.4,
+     "frecuencia": 0.85,
+     "ventaja": 0.136,
+     "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 8/10"
+    },
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Paris Saint Germain–Lyon",
+     "cuota": 1.53,
+     "frecuencia": 0.8,
+     "ventaja": 0.146,
+     "detalle": "Paris Saint Germain 9/10 · Lyon 7/10"
+    },
     {
      "partido_id": 1570431,
      "fecha": "2026-10-26T21:00",
@@ -1820,13 +1704,29 @@
      "opcion": "Home/Away",
      "tipo": "resultado",
      "texto": "No hay empate en Sevilla–Osasuna",
-     "cuota": 1.3,
+     "cuota": 1.33,
      "frecuencia": 0.778,
-     "ventaja": 0.009,
+     "ventaja": 0.026,
      "detalle": "Sevilla 7/9 · Osasuna 7/9"
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Total Shots",
+     "opcion": "Over 26.5",
+     "tipo": "tiros",
+     "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
+     "cuota": 1.8,
+     "frecuencia": 0.85,
+     "ventaja": 0.294,
+     "detalle": "Paris Saint Germain 10/10 · Lyon 7/10"
+    },
     {
      "partido_id": 1570431,
      "fecha": "2026-10-26T21:00",

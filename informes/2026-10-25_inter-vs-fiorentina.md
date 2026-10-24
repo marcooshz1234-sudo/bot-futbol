@@ -1,10 +1,10 @@
 # Inter – Fiorentina
 **Serie A** · Regular Season - 8 · 25/10/2026 12:30 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:55_
+_Actualizadas: 24/10 14:44_
 
 - **1X2:** 1 **1.36**  ·  X **5.25**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.17**  ·  X2 **3.00**
@@ -53,12 +53,16 @@ _Actualizadas: 24/10 02:55_
 - **Away Corners Over/Under:**
     - 2,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Home Team Total Cards:**
+    - 1,5: más **1.91** · menos **1.80**
+- **Away Team Total Cards:**
+    - 2,5: más **2.50** · menos **1.50**
 - **Total ShotOnGoal:**
     - 10,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.17**  ·  X **10.00**  ·  2 **6.50**
 - **Total Shots:**
     - 29,5: más **1.73** · menos **2.00**
-- **Shots.1x2:** 1 **1.11**  ·  X **21.00**  ·  2 **6.50**
+- **Shots.1x2:** 1 **1.10**  ·  X **21.00**  ·  2 **7.00**
 - **Home Player Shots On Target Total:** Pio Esposito - 1 **1.25**  ·  Ange Bonny - 1 **1.40**  ·  Marcus Thuram - 1 **1.18**  ·  Federico Dimarco - 1 **1.67**  ·  Piotr Zielinski - 1 **2.25**  ·  Henrikh Mkhitaryan - 1 **1.53**  ·  Hakan Calhanoglu - 1 **1.44**  ·  Aleksandar Stankovic - 1 **2.75**  ·  Andy Diouf - 1 **2.00**  ·  Luis Henrique de Lima - 1 **2.50**  ·  Petar Sucic - 1 **2.75**  ·  Nicolo Barella - 1 **4.00**  ·  John Stones - 1 **3.40**  ·  Alessandro Bastoni - 1 **2.75**  ·  Carlos Augusto - 1 **3.25**  ·  Leonardo Bovo - 1 **2.50**  ·  Manuel Akanji - 1 **4.00**  ·  Yann Aurel Bisseck - 1 **3.40**  ·  Djed Spence - 1 **4.00**  ·  Pio Esposito - 2 **2.20**  ·  Ange Bonny - 2 **3.00**  ·  Marcus Thuram - 2 **1.83**  ·  Federico Dimarco - 2 **4.33**  ·  Piotr Zielinski - 2 **9.00**  ·  Henrikh Mkhitaryan - 2 **3.75**  ·  Hakan Calhanoglu - 2 **3.25**  ·  Aleksandar Stankovic - 2 **13.00**  ·  Andy Diouf - 2 **6.50**  ·  Luis Henrique de Lima - 2 **11.00**  ·  Petar Sucic - 2 **13.00**  ·  Nicolo Barella - 2 **21.00**  ·  John Stones - 2 **17.00**  ·  Alessandro Bastoni - 2 **13.00**  ·  Carlos Augusto - 2 **15.00**  ·  Leonardo Bovo - 2 **11.00**  ·  Manuel Akanji - 2 **21.00**  ·  Yann Aurel Bisseck - 2 **17.00**  ·  Djed Spence - 2 **21.00**  ·  Pio Esposito - 3 **5.00**  ·  Ange Bonny - 3 **8.00**  ·  Marcus Thuram - 3 **3.75**  ·  Federico Dimarco - 3 **15.00**  ·  Henrikh Mkhitaryan - 3 **11.00**  ·  Hakan Calhanoglu - 3 **9.00**  ·  Andy Diouf - 3 **21.00**  ·  Pio Esposito - 4 **13.00**  ·  Ange Bonny - 4 **21.00**  ·  Marcus Thuram - 4 **9.00**  ·  Hakan Calhanoglu - 4 **21.00**  ·  Marcus Thuram - 5 **21.00**  ·  Mattia Mosconi - 1 **1.80**  ·  Mattia Mosconi - 2 **5.00**  ·  Mattia Mosconi - 3 **19.00**
 - **Away Player Shots On Target Total:** Dodo dos Santos **101.00**  ·  Petar Sucic **29.00**  ·  Nicolo Fagioli **81.00**  ·  Hakan Calhanoglu **29.00**  ·  Aleksandar Stankovic **21.00**  ·  Christ Oulai **101.00**  ·  Pio Esposito **4.50**  ·  Degnand Gnonto **34.00**  ·  Franco Mastantuono **34.00**  ·  Mateo Pellegrino **12.00**  ·  Andy Diouf **34.00**  ·  Mattia Mosconi **17.00**  ·  Nicolo Barella **41.00**  ·  Joao Mario **81.00**  ·  Cher Ndour **51.00**  ·  Leonardo Bovo **41.00**  ·  Victor Valdepenas **23.00**  ·  Pedro Goncalves **41.00**  ·  Antonio Pirro **51.00**  ·  Federico Croci **51.00**  ·  Brando Mazzeo **21.00**  ·  Arnis Ademi **41.00**  ·  John Stones **12.00**  ·  Manuel Akanji **12.00**  ·  Radu Dragusin **26.00**  ·  Luca Ranieri **26.00**  ·  Marin Pongracic **41.00**  ·  Alejandro Jimenez **81.00**  ·  Djed Spence **34.00**  ·  Ange Bonny **12.00**  ·  Alessandro Bastoni **12.00**  ·  Alieu Njie **29.00**  ·  Federico Dimarco **34.00**  ·  Henrikh Mkhitaryan **26.00**  ·  Marcus Thuram **7.50**  ·  Piotr Zielinski **51.00**  ·  Carlos Augusto **29.00**  ·  Yann Aurel Bisseck **9.50**  ·  Beto **11.00**  ·  Marco Brescianini **51.00**  ·  Arthur Atta **51.00**  ·  Viery Lopes **23.00**  ·  Luis Henrique de Lima **34.00**
 - **Away Player Shots Total:**

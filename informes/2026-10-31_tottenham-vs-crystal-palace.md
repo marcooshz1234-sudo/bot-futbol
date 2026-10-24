@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **1.62**  ·  X **3.90**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -14,7 +14,7 @@ _Actualizadas: 24/10 02:56_
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.50** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
@@ -41,6 +41,7 @@ _Actualizadas: 24/10 02:56_
 - **Win Both Halves:** 1 **4.33**  ·  2 **19.00**
 - **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **15.00**  ·  Away/No **10.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.88**
+- **Away Player Shots On Target Total:** Quinten Timber **51.00**  ·  Anan Khalaili **67.00**  ·  Dario Osorio **51.00**  ·  Evann Guessand **12.00**  ·  Oscar Mingueza **101.00**  ·  Ismaila Sarr **15.00**  ·  Andrew Robertson **26.00**  ·  Jaydee Canvot **26.00**  ·  Cheick Doucoure **81.00**  ·  Adam Wharton **101.00**  ·  Chris Richards **17.00**  ·  Daichi Kamada **81.00**  ·  Eddie Nketiah **19.00**  ·  Jefferson Lerma **41.00**  ·  Tyrick Mitchell **101.00**  ·  Will Hughes **101.00**  ·  Axel Disasi **26.00**  ·  Tosin Adarabioyo **15.00**  ·  Conor Gallagher **41.00**  ·  Marcos Senesi **19.00**  ·  Jan Paul van Hecke **13.00**  ·  Sandro Tonali **51.00**  ·  Dwight McNeil **51.00**  ·  Archie Gray **34.00**  ·  Ben Davies **29.00**  ·  Destiny Udogie **34.00**  ·  Dominic Solanke **9.00**  ·  James Maddison **67.00**  ·  Lucas Bergvall **51.00**  ·  Micky Van de Ven **9.00**  ·  Mohammed Kudus **29.00**  ·  Pedro Porro **67.00**  ·  Rodrigo Bentancur **29.00**  ·  Mathys Tel **21.00**  ·  Omar Marmoush **15.00**  ·  Ben Chilwell **67.00**  ·  Yeremy Pino **34.00**  ·  Honest Ahanor **26.00**  ·  Mateus Fernandes **41.00**  ·  Takehiro Tomiyasu **41.00**  ·  Jorgen Larsen **13.00**  ·  Savio **41.00**
 - **Anytime Goal Scorer:** Quinten Timber **9.00**  ·  Anan Khalaili **7.50**  ·  Dario Osorio **6.00**  ·  Evann Guessand **4.33**  ·  Oscar Mingueza **12.00**  ·  Ismaila Sarr **4.00**  ·  Andrew Robertson **10.00**  ·  Jaydee Canvot **13.00**  ·  Cheick Doucoure **10.00**  ·  Adam Wharton **12.00**  ·  Chris Richards **13.00**  ·  Daichi Kamada **7.50**  ·  Eddie Nketiah **3.60**  ·  Jefferson Lerma **12.00**  ·  Tyrick Mitchell **13.00**  ·  Will Hughes **12.00**  ·  Axel Disasi **17.00**  ·  Tosin Adarabioyo **10.00**  ·  Conor Gallagher **4.33**  ·  Marcos Senesi **12.00**  ·  Jan Paul van Hecke **9.00**  ·  Sandro Tonali **6.00**  ·  Dwight McNeil **7.50**  ·  Archie Gray **7.50**  ·  Ben Davies **10.00**  ·  Destiny Udogie **9.00**  ·  Dominic Solanke **2.38**  ·  James Maddison **3.60**  ·  Lucas Bergvall **6.00**  ·  Micky Van de Ven **6.00**  ·  Mohammed Kudus **3.20**  ·  Pedro Porro **7.50**  ·  Rodrigo Bentancur **7.50**  ·  Mathys Tel **3.20**  ·  Omar Marmoush **2.38**  ·  Ben Chilwell **10.00**  ·  Yeremy Pino **6.00**  ·  Honest Ahanor **13.00**  ·  Mateus Fernandes **4.33**  ·  Takehiro Tomiyasu **17.00**  ·  Jorgen Larsen **3.40**  ·  Savio **4.33**
 - **Player to Score or Assist:** Quinten Timber **4.33**  ·  Anan Khalaili **4.33**  ·  Dario Osorio **3.60**  ·  Evann Guessand **3.00**  ·  Oscar Mingueza **5.00**  ·  Ismaila Sarr **2.88**  ·  Andrew Robertson **4.33**  ·  Jaydee Canvot **9.00**  ·  Cheick Doucoure **6.00**  ·  Adam Wharton **5.50**  ·  Chris Richards **9.00**  ·  Daichi Kamada **4.33**  ·  Eddie Nketiah **2.75**  ·  Jefferson Lerma **6.00**  ·  Tyrick Mitchell **7.50**  ·  Will Hughes **6.00**  ·  Axel Disasi **13.00**  ·  Tosin Adarabioyo **6.50**  ·  Conor Gallagher **2.62**  ·  Marcos Senesi **7.50**  ·  Jan Paul van Hecke **5.00**  ·  Sandro Tonali **2.88**  ·  Dwight McNeil **3.60**  ·  Archie Gray **4.00**  ·  Ben Davies **7.00**  ·  Destiny Udogie **4.33**  ·  Dominic Solanke **1.91**  ·  James Maddison **2.10**  ·  Lucas Bergvall **3.60**  ·  Micky Van de Ven **4.75**  ·  Mohammed Kudus **2.00**  ·  Pedro Porro **3.10**  ·  Rodrigo Bentancur **4.33**  ·  Mathys Tel **2.25**  ·  Omar Marmoush **1.80**  ·  Ben Chilwell **4.75**  ·  Yeremy Pino **3.40**  ·  Honest Ahanor **8.50**  ·  Mateus Fernandes **2.20**  ·  Takehiro Tomiyasu **7.50**  ·  Jorgen Larsen **2.60**  ·  Savio **2.38**
 

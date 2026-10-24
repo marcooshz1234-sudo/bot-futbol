@@ -1,10 +1,10 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **2.62**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**
@@ -15,6 +15,10 @@ _Actualizadas: 24/10 02:56_
     - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
@@ -195,6 +199,10 @@ _Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,0._
 | Goles más/menos: Menos de 2.5 | 43% | 38% | 40% | 2.50 | +1% |
 | Goles más/menos: Menos de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
 | Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
 | Goles del local: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |

@@ -1,18 +1,18 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **1.38**  ·  X **4.75**  ·  2 **7.00**
-- **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.75**
+- **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.50** · menos **2.62**
-    - 3,5: más **2.20** · menos **1.67**
+    - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
@@ -23,14 +23,14 @@ _Actualizadas: 24/10 02:56_
 - **Goles del local:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.57**
+    - 2,5: más **2.20** · menos **1.62**
     - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.00**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
@@ -39,12 +39,13 @@ _Actualizadas: 24/10 02:56_
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.22**  ·  2 **3.40**
-- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **6.00**
-- **Win Both Halves:** 1 **3.40**  ·  2 **26.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **17.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.10**
-- **Anytime Goal Scorer:** RaFA Rodriguez **5.00**  ·  Eneko Jauregui **3.40**  ·  David Larrubia **5.00**  ·  Haitam Abaida **6.50**  ·  Julen Lobete **5.50**  ·  Daniel Lorenzo **8.50**  ·  Ramon Enriquez **9.50**  ·  Izan Merino **11.00**  ·  Azaceta Einar Galilea **17.00**  ·  Carlos Puga **17.00**  ·  Joaquin Munoz **5.00**  ·  Jose Salinas **11.00**  ·  Pablo Martinez **5.00**  ·  Valentin Gomez **11.00**  ·  Troy Parrott **1.73**  ·  Nelson Deossa **3.75**  ·  Facundo Bernal **4.00**  ·  Abdessamad Ezzalzouli **2.10**  ·  Angel Recio **13.00**  ·  Junior Firpo **7.50**  ·  Cucho Hernandez **1.91**  ·  Antony **2.10**  ·  Alarcon Isco **2.60**  ·  Hector Bellerin **11.00**  ·  Alvaro Fidalgo **3.75**  ·  Francisco Juani **6.50**  ·  Juan Cruz **4.33**  ·  Diego Llorente **9.50**  ·  Giovani Lo Celso **2.60**  ·  Marc Roca **6.50**  ·  Pablo Fornals **3.20**  ·  Jens Cajuste **11.00**  ·  Natan Bernardo **11.00**  ·  Angel Ortiz **9.50**  ·  Rodrigo Riquelme **3.20**  ·  Moussa Diarra **17.00**  ·  Marc Bartra **5.50**  ·  Dani Ceballos **6.50**  ·  Francisco Garcia **11.00**  ·  Juan Berrocal **21.00**  ·  Carlos Dotor **8.50**  ·  Carlos Chupete **3.00**  ·  Adrian Nino **3.50**  ·  Rafa Garrido **11.00**
-- **Player to Score or Assist:** RaFA Rodriguez **3.40**  ·  Eneko Jauregui **2.60**  ·  David Larrubia **3.40**  ·  Haitam Abaida **3.75**  ·  Julen Lobete **3.60**  ·  Daniel Lorenzo **4.75**  ·  Ramon Enriquez **3.75**  ·  Izan Merino **4.33**  ·  Azaceta Einar Galilea **10.00**  ·  Carlos Puga **7.00**  ·  Joaquin Munoz **3.20**  ·  Jose Salinas **5.50**  ·  Pablo Martinez **3.10**  ·  Valentin Gomez **6.00**  ·  Troy Parrott **1.50**  ·  Nelson Deossa **2.50**  ·  Facundo Bernal **2.88**  ·  Abdessamad Ezzalzouli **1.57**  ·  Angel Recio **8.50**  ·  Junior Firpo **2.60**  ·  Cucho Hernandez **1.53**  ·  Antony **1.53**  ·  Alarcon Isco **1.73**  ·  Hector Bellerin **3.60**  ·  Alvaro Fidalgo **2.20**  ·  Francisco Juani **3.60**  ·  Juan Cruz **2.75**  ·  Diego Llorente **8.00**  ·  Giovani Lo Celso **1.67**  ·  Marc Roca **2.88**  ·  Pablo Fornals **1.83**  ·  Jens Cajuste **7.00**  ·  Natan Bernardo **6.00**  ·  Angel Ortiz **3.60**  ·  Rodrigo Riquelme **2.10**  ·  Moussa Diarra **10.00**  ·  Marc Bartra **3.75**  ·  Dani Ceballos **2.88**  ·  Francisco Garcia **3.50**  ·  Juan Berrocal **13.00**  ·  Carlos Dotor **4.75**  ·  Carlos Chupete **2.40**  ·  Adrian Nino **2.75**  ·  Rafa Garrido **6.00**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **6.00**
+- **Win Both Halves:** 1 **3.25**  ·  2 **26.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **6.00**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **19.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.20**
+- **Away Player Shots On Target Total:** RaFA Rodriguez **34.00**  ·  Eneko Jauregui **6.50**  ·  David Larrubia **41.00**  ·  Haitam Abaida **51.00**  ·  Julen Lobete **34.00**  ·  Daniel Lorenzo **81.00**  ·  Ramon Enriquez **81.00**  ·  Izan Merino **67.00**  ·  Azaceta Einar Galilea **51.00**  ·  Carlos Puga **101.00**  ·  Joaquin Munoz **51.00**  ·  Jose Salinas **51.00**  ·  Pablo Martinez **34.00**  ·  Valentin Gomez **29.00**  ·  Troy Parrott **10.00**  ·  Nelson Deossa **23.00**  ·  Facundo Bernal **19.00**  ·  Abdessamad Ezzalzouli **19.00**  ·  Angel Recio **26.00**  ·  Junior Firpo **19.00**  ·  Cucho Hernandez **11.00**  ·  Antony **34.00**  ·  Alarcon Isco **23.00**  ·  Hector Bellerin **101.00**  ·  Alvaro Fidalgo **34.00**  ·  Francisco Juani **21.00**  ·  Juan Cruz **41.00**  ·  Diego Llorente **13.00**  ·  Giovani Lo Celso **21.00**  ·  Marc Roca **51.00**  ·  Pablo Fornals **29.00**  ·  Jens Cajuste **126.00**  ·  Natan Bernardo **15.00**  ·  Angel Ortiz **51.00**  ·  Rodrigo Riquelme **51.00**  ·  Moussa Diarra **26.00**  ·  Marc Bartra **17.00**  ·  Dani Ceballos **51.00**  ·  Francisco Garcia **101.00**  ·  Juan Berrocal **26.00**  ·  Carlos Dotor **29.00**  ·  Carlos Chupete **19.00**  ·  Adrian Nino **17.00**  ·  Rafa Garrido **51.00**
+- **Anytime Goal Scorer:** RaFA Rodriguez **5.50**  ·  Eneko Jauregui **3.25**  ·  David Larrubia **5.00**  ·  Haitam Abaida **6.50**  ·  Julen Lobete **5.50**  ·  Daniel Lorenzo **8.50**  ·  Ramon Enriquez **9.50**  ·  Izan Merino **11.00**  ·  Azaceta Einar Galilea **17.00**  ·  Carlos Puga **17.00**  ·  Joaquin Munoz **5.50**  ·  Jose Salinas **13.00**  ·  Pablo Martinez **5.50**  ·  Valentin Gomez **11.00**  ·  Troy Parrott **1.67**  ·  Nelson Deossa **3.75**  ·  Facundo Bernal **4.00**  ·  Abdessamad Ezzalzouli **2.10**  ·  Angel Recio **13.00**  ·  Junior Firpo **7.50**  ·  Cucho Hernandez **1.91**  ·  Antony **2.10**  ·  Alarcon Isco **2.60**  ·  Hector Bellerin **11.00**  ·  Alvaro Fidalgo **3.75**  ·  Francisco Juani **6.50**  ·  Juan Cruz **4.33**  ·  Diego Llorente **8.50**  ·  Giovani Lo Celso **2.40**  ·  Marc Roca **6.50**  ·  Pablo Fornals **3.20**  ·  Jens Cajuste **13.00**  ·  Natan Bernardo **11.00**  ·  Angel Ortiz **8.50**  ·  Rodrigo Riquelme **3.20**  ·  Moussa Diarra **17.00**  ·  Marc Bartra **5.50**  ·  Dani Ceballos **6.50**  ·  Francisco Garcia **11.00**  ·  Juan Berrocal **21.00**  ·  Carlos Dotor **8.50**  ·  Carlos Chupete **3.00**  ·  Adrian Nino **3.50**  ·  Rafa Garrido **13.00**
+- **Player to Score or Assist:** RaFA Rodriguez **3.60**  ·  Eneko Jauregui **2.60**  ·  David Larrubia **3.40**  ·  Haitam Abaida **3.75**  ·  Julen Lobete **3.60**  ·  Daniel Lorenzo **4.75**  ·  Ramon Enriquez **3.75**  ·  Izan Merino **4.33**  ·  Azaceta Einar Galilea **10.00**  ·  Carlos Puga **7.00**  ·  Joaquin Munoz **3.40**  ·  Jose Salinas **6.00**  ·  Pablo Martinez **3.25**  ·  Valentin Gomez **6.00**  ·  Troy Parrott **1.50**  ·  Nelson Deossa **2.50**  ·  Facundo Bernal **2.75**  ·  Abdessamad Ezzalzouli **1.57**  ·  Angel Recio **8.50**  ·  Junior Firpo **2.60**  ·  Cucho Hernandez **1.53**  ·  Antony **1.50**  ·  Alarcon Isco **1.73**  ·  Hector Bellerin **3.60**  ·  Alvaro Fidalgo **2.20**  ·  Francisco Juani **3.60**  ·  Juan Cruz **2.75**  ·  Diego Llorente **7.00**  ·  Giovani Lo Celso **1.62**  ·  Marc Roca **2.88**  ·  Pablo Fornals **1.83**  ·  Jens Cajuste **7.50**  ·  Natan Bernardo **6.00**  ·  Angel Ortiz **3.50**  ·  Rodrigo Riquelme **2.10**  ·  Moussa Diarra **10.00**  ·  Marc Bartra **3.75**  ·  Dani Ceballos **2.88**  ·  Francisco Garcia **3.50**  ·  Juan Berrocal **13.00**  ·  Carlos Dotor **4.75**  ·  Carlos Chupete **2.40**  ·  Adrian Nino **2.62**  ·  Rafa Garrido **6.50**
 
 ## Estadísticas de equipo
 | | Real Betis (total) | Real Betis en casa | Malaga (total) | Malaga fuera |
@@ -186,32 +187,32 @@ _Goles esperados: local 2,32 · visitante 0,82 · córners esperados 10,1._
 | 1X2: 2 | 12% | 13% | 12% | 7.00 | -13% |
 | 1X2: X | 17% | 20% | 18% | 4.75 | -12% |
 | 1X2: 1 | 71% | 67% | 69% | 1.38 | -5% |
-| Doble oportunidad: X2 | 29% | 34% | 32% | 2.75 | -13% |
-| Doble oportunidad: 12 | 83% | 80% | 81% | 1.18 | -4% |
-| Doble oportunidad: 1X | 88% | 85% | 87% | 1.11 | -4% |
+| Doble oportunidad: X2 | 29% | 32% | 30% | 3.00 | -9% |
+| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 88% | 87% | 88% | 1.10 | -3% |
 | Ambos marcan: No | 50% | 45% | 47% | 2.05 | -3% |
 | Ambos marcan: Sí | 50% | 55% | 53% | 1.70 | -11% |
 | Goles más/menos: Más de 2.5 | 61% | 64% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 3.5 | 38% | 43% | 41% | 2.20 | -10% |
+| Goles más/menos: Más de 3.5 | 38% | 41% | 40% | 2.30 | -8% |
 | Goles más/menos: Más de 4.5 | 21% | 24% | 22% | 4.00 | -11% |
 | Goles más/menos: Menos de 2.5 | 39% | 36% | 38% | 2.62 | -1% |
-| Goles más/menos: Menos de 3.5 | 62% | 57% | 59% | 1.67 | -1% |
+| Goles más/menos: Menos de 3.5 | 62% | 59% | 60% | 1.62 | -3% |
 | Goles más/menos: Menos de 4.5 | 79% | 76% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 42% | 40% | 2.20 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 58% | 60% | 1.62 | -4% |
 | Goles del local: Más de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 41% | 41% | 41% | 2.25 | -8% |
+| Goles del local: Más de 2.5 | 41% | 42% | 42% | 2.20 | -8% |
 | Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -9% |
 | Goles del local: Menos de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del local: Menos de 2.5 | 59% | 59% | 59% | 1.57 | -7% |
+| Goles del local: Menos de 2.5 | 59% | 58% | 58% | 1.62 | -6% |
 | Goles del local: Menos de 3.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del visitante: Más de 0.5 | 56% | 61% | 58% | 1.53 | -11% |
 | Goles del visitante: Más de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
 | Goles del visitante: Menos de 0.5 | 44% | 39% | 42% | 2.38 | -1% |
 | Goles del visitante: Menos de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
-| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -7% |
-| 1X2 descanso: 1 | 51% | 50% | 50% | 1.83 | -8% |
+| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -6% |
+| 1X2 descanso: 1 | 51% | 51% | 51% | 1.83 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

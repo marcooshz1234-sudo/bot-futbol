@@ -1,10 +1,10 @@
 # Monaco – Lille
 **Ligue 1** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:44_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -30,7 +30,7 @@ _Actualizadas: 24/10 02:56_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.00** · menos **1.73**
@@ -52,6 +52,10 @@ _Actualizadas: 24/10 02:56_
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Home Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
+- **Away Team Total Cards:**
+    - 1,5: más **1.53** · menos **2.38**
 - **Total ShotOnGoal:**
     - 8,5: más **1.67** · menos **2.10**
 - **ShotOnTarget 1x2:** 1 **1.67**  ·  X **7.50**  ·  2 **2.62**
@@ -65,7 +69,7 @@ _Actualizadas: 24/10 02:56_
 - **Away Player Shots:** Ayase Ueda - 2 **1.28**  ·  Ayase Ueda - 3 **1.83**  ·  Ayase Ueda - 4 **3.00**  ·  Ayase Ueda - 5 **5.50**  ·  Ayase Ueda - 6 **11.00**  ·  Ayase Ueda - 7 **21.00**  ·  Ayase Ueda - 1 **1.05**  ·  Olivier Giroud - 1 **1.14**  ·  Soriba Diaoune - 1 **1.14**  ·  Hakon Arnar Haraldsson - 1 **1.25**  ·  Osame Sahraoui - 1 **1.22**  ·  Gaetan Perrin - 1 **1.28**  ·  Basar Onal - 1 **1.28**  ·  Ethan Mbappe - 1 **1.18**  ·  Romain Perraud - 1 **1.67**  ·  Calvin Verdonk - 1 **3.40**  ·  Ngal'ayel Mukau - 1 **1.67**  ·  Tiago Santos - 1 **1.67**  ·  Benjamin Andre - 1 **1.80**  ·  Nabil Bentaleb - 1 **1.44**  ·  Isaac Cossier - 1 **2.62**  ·  Loun Srdanovic - 1 **2.62**  ·  Nathan Ngoy - 1 **2.25**  ·  Alexsandro Victor - 1 **1.80**  ·  Olivier Giroud - 2 **1.67**  ·  Soriba Diaoune - 2 **1.67**  ·  Hakon Arnar Haraldsson - 2 **2.10**  ·  Osame Sahraoui - 2 **1.91**  ·  Gaetan Perrin - 2 **2.25**  ·  Basar Onal - 2 **2.25**  ·  Ethan Mbappe - 2 **1.83**  ·  Romain Perraud - 2 **4.00**  ·  Calvin Verdonk - 2 **15.00**  ·  Ngal'ayel Mukau - 2 **4.00**  ·  Tiago Santos - 2 **4.00**  ·  Benjamin Andre - 2 **4.50**  ·  Nabil Bentaleb - 2 **3.00**  ·  Isaac Cossier - 2 **10.00**  ·  Loun Srdanovic - 2 **10.00**  ·  Nathan Ngoy - 2 **7.00**  ·  Alexsandro Victor - 2 **4.50**  ·  Olivier Giroud - 3 **2.75**  ·  Soriba Diaoune - 3 **2.75**  ·  Hakon Arnar Haraldsson - 3 **4.33**  ·  Osame Sahraoui - 3 **3.75**  ·  Gaetan Perrin - 3 **5.00**  ·  Basar Onal - 3 **5.00**  ·  Ethan Mbappe - 3 **3.50**  ·  Romain Perraud - 3 **11.00**  ·  Ngal'ayel Mukau - 3 **11.00**  ·  Tiago Santos - 3 **11.00**  ·  Benjamin Andre - 3 **15.00**  ·  Nabil Bentaleb - 3 **8.00**  ·  Nathan Ngoy - 3 **21.00**  ·  Alexsandro Victor - 3 **15.00**  ·  Olivier Giroud - 4 **5.50**  ·  Soriba Diaoune - 4 **5.50**  ·  Hakon Arnar Haraldsson - 4 **10.00**  ·  Osame Sahraoui - 4 **9.00**  ·  Gaetan Perrin - 4 **11.00**  ·  Basar Onal - 4 **11.00**  ·  Ethan Mbappe - 4 **7.00**  ·  Olivier Giroud - 5 **13.00**  ·  Soriba Diaoune - 5 **13.00**  ·  Hakon Arnar Haraldsson - 5 **21.00**  ·  Osame Sahraoui - 5 **19.00**  ·  Gaetan Perrin - 5 **21.00**  ·  Basar Onal - 5 **21.00**  ·  Olivier Giroud - 6 **21.00**  ·  Soriba Diaoune - 6 **21.00**  ·  Ethan Mbappe - 5 **17.00**  ·  Dilane Bakwa - 1 **1.25**  ·  Dilane Bakwa - 2 **2.10**  ·  Dilane Bakwa - 3 **4.33**  ·  Dilane Bakwa - 4 **10.00**  ·  Nabil Bentaleb - 4 **19.00**  ·  Dilane Bakwa - 5 **21.00**  ·  Maurits Kjaergaard - 1 **1.25**  ·  Maurits Kjaergaard - 2 **2.10**  ·  Maurits Kjaergaard - 3 **4.33**  ·  Maurits Kjaergaard - 4 **10.00**  ·  Maurits Kjaergaard - 5 **21.00**  ·  Tanguy Kouassi - 1 **2.20**  ·  Tanguy Kouassi - 2 **7.00**  ·  Tanguy Kouassi - 3 **21.00**
 - **Goalkeeper Saves:** Orlando Gill - 2 **1.12**  ·  Orlando Gill - 3 **1.40**  ·  Orlando Gill - 4 **2.00**  ·  Orlando Gill - 5 **3.40**  ·  Orlando Gill - 6 **6.00**  ·  Orlando Gill - 7 **11.00**  ·  Lukas Hradecky - 2 **1.22**  ·  Lukas Hradecky - 3 **1.73**  ·  Lukas Hradecky - 4 **2.75**  ·  Lukas Hradecky - 5 **5.50**  ·  Lukas Hradecky - 6 **11.00**
 - **Anytime Goal Scorer:** Vanderson Campos **7.50**  ·  Alexsandro Victor **12.00**  ·  Mika Biereth **2.88**  ·  Osame Sahraoui **5.00**  ·  Ayase Ueda **3.00**  ·  Denis Zakaria **6.50**  ·  Folarin Balogun **2.50**  ·  Lamine Camara **7.00**  ·  Mohammed Salisu **11.00**  ·  Takumi Minamino **3.75**  ·  Olivier Giroud **3.20**  ·  Loun Srdanovic **11.00**  ·  Calvin Verdonk **9.50**  ·  Pape Cabral **4.33**  ·  Maxima Goffi **11.00**  ·  Ilane Toure **7.50**  ·  Matthis Abline **2.50**  ·  Gaetan Perrin **3.75**  ·  Hakon Arnar Haraldsson **4.33**  ·  Ethan Mbappe **5.00**  ·  Nabil Bentaleb **7.50**  ·  Benjamin Andre **8.50**  ·  Tiago Santos **8.50**  ·  Ngal'ayel Mukau **6.50**  ·  Jordan Teze **7.50**  ·  Christian Mawissa Elebi **12.00**  ·  Edan Diop **5.00**  ·  Alexandr Golovin **3.75**  ·  Dilane Bakwa **5.00**  ·  Paris Brunner **2.30**  ·  Maurits Kjaergaard **5.50**  ·  Nathan Ngoy **12.00**  ·  Flavio Nazinho **7.00**  ·  Basar Onal **5.00**  ·  Stanis Idumbo-Muzambo **4.33**  ·  Mamadou Coulibaly **5.00**  ·  Matah Yondjio **3.20**  ·  Mathys Detourbet **5.00**  ·  Isaac Cossier **11.00**  ·  Oumar Konate **2.50**  ·  Safouane Benzahra **3.40**  ·  Anis Soubeir **7.00**  ·  Samuel Nibombe **7.50**  ·  Romain Perraud **9.50**  ·  Eric Dier **8.50**  ·  Ansu Fati **3.20**  ·  Tanguy Kouassi **12.00**  ·  Sadibou Sane **11.00**  ·  Soriba Diaoune **3.75**
-- **Player to Score or Assist:** Vanderson Campos **4.00**  ·  Alexsandro Victor **7.50**  ·  Mika Biereth **2.10**  ·  Osame Sahraoui **2.88**  ·  Ayase Ueda **2.50**  ·  Denis Zakaria **4.50**  ·  Folarin Balogun **1.91**  ·  Lamine Camara **3.40**  ·  Mohammed Salisu **6.50**  ·  Takumi Minamino **2.60**  ·  Olivier Giroud **2.40**  ·  Loun Srdanovic **6.00**  ·  Calvin Verdonk **5.50**  ·  Pape Cabral **2.75**  ·  Maxima Goffi **7.00**  ·  Ilane Toure **3.75**  ·  Matthis Abline **1.91**  ·  Gaetan Perrin **2.50**  ·  Hakon Arnar Haraldsson **2.62**  ·  Ethan Mbappe **3.20**  ·  Nabil Bentaleb **4.75**  ·  Benjamin Andre **4.50**  ·  Tiago Santos **5.00**  ·  Ngal'ayel Mukau **4.33**  ·  Jordan Teze **4.33**  ·  Christian Mawissa Elebi **9.00**  ·  Edan Diop **3.10**  ·  Alexandr Golovin **2.38**  ·  Dilane Bakwa **3.00**  ·  Paris Brunner **1.91**  ·  Maurits Kjaergaard **3.10**  ·  Nathan Ngoy **7.50**  ·  Flavio Nazinho **3.60**  ·  Basar Onal **2.88**  ·  Stanis Idumbo-Muzambo **3.00**  ·  Mamadou Coulibaly **3.25**  ·  Matah Yondjio **2.40**  ·  Mathys Detourbet **3.40**  ·  Isaac Cossier **7.00**  ·  Oumar Konate **1.95**  ·  Safouane Benzahra **2.30**  ·  Anis Soubeir **3.40**  ·  Samuel Nibombe **5.50**  ·  Romain Perraud **3.75**  ·  Eric Dier **5.50**  ·  Ansu Fati **2.25**  ·  Tanguy Kouassi **9.00**  ·  Sadibou Sane **6.50**  ·  Soriba Diaoune **2.62**
+- **Player to Score or Assist:** Vanderson Campos **4.00**  ·  Alexsandro Victor **7.50**  ·  Mika Biereth **2.10**  ·  Osame Sahraoui **2.75**  ·  Ayase Ueda **2.50**  ·  Denis Zakaria **4.50**  ·  Folarin Balogun **1.91**  ·  Lamine Camara **3.40**  ·  Mohammed Salisu **6.50**  ·  Takumi Minamino **2.40**  ·  Olivier Giroud **2.40**  ·  Loun Srdanovic **5.50**  ·  Calvin Verdonk **5.50**  ·  Pape Cabral **2.75**  ·  Maxima Goffi **7.00**  ·  Ilane Toure **3.60**  ·  Matthis Abline **1.91**  ·  Gaetan Perrin **2.50**  ·  Hakon Arnar Haraldsson **2.62**  ·  Ethan Mbappe **3.20**  ·  Nabil Bentaleb **4.75**  ·  Benjamin Andre **4.33**  ·  Tiago Santos **5.00**  ·  Ngal'ayel Mukau **4.33**  ·  Jordan Teze **4.33**  ·  Christian Mawissa Elebi **9.00**  ·  Edan Diop **3.10**  ·  Alexandr Golovin **2.38**  ·  Dilane Bakwa **2.88**  ·  Paris Brunner **1.91**  ·  Maurits Kjaergaard **3.00**  ·  Nathan Ngoy **7.50**  ·  Flavio Nazinho **3.60**  ·  Basar Onal **2.88**  ·  Stanis Idumbo-Muzambo **2.88**  ·  Mamadou Coulibaly **3.20**  ·  Matah Yondjio **2.40**  ·  Mathys Detourbet **3.25**  ·  Isaac Cossier **7.00**  ·  Oumar Konate **1.95**  ·  Safouane Benzahra **2.25**  ·  Anis Soubeir **3.40**  ·  Samuel Nibombe **5.00**  ·  Romain Perraud **3.75**  ·  Eric Dier **5.50**  ·  Ansu Fati **2.25**  ·  Tanguy Kouassi **9.00**  ·  Sadibou Sane **6.50**  ·  Soriba Diaoune **2.62**
 
 ## Estadísticas de equipo
 | | Monaco (total) | Monaco en casa | Lille (total) | Lille fuera |
@@ -233,8 +237,8 @@ _Goles esperados: local 1,89 · visitante 0,82 · córners esperados 9,2._
 | Goles del visitante: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
 | Goles del visitante: Menos de 0.5 ✅ | 44% | 31% | 38% | 3.00 | +13% |
 | Goles del visitante: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +2% |
-| Córners más/menos: Más de 9.5 | 42% | 49% | 46% | 1.91 | -13% |
-| Córners más/menos: Menos de 9.5 | 58% | 51% | 54% | 1.80 | -2% |
+| Córners más/menos: Más de 9.5 | 42% | 48% | 45% | 1.98 | -11% |
+| Córners más/menos: Menos de 9.5 | 58% | 52% | 55% | 1.82 | -0% |
 | 1X2 descanso: 2 | 15% | 23% | 19% | 4.00 | -23% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
 | 1X2 descanso: 1 | 44% | 35% | 40% | 2.62 | +4% |

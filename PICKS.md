@@ -1,49 +1,39 @@
 # Picks del Analista
 
-_Generado el 2026-10-24 08:45 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-24 14:46 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Sábado 24/10
 
-**🔒 Combi segura · cuota 1,56**
+**🔒 Combi segura · cuota 1,60**
 - Espanyol marca (1,25) · Racing Santander (en contra) 9/9 · Espanyol 8/9
-- Lazio gana alguna de las dos partes (1,25) · Lazio 7/7 · Parma 6/7
+- Lazio gana alguna de las dos partes (1,28) · Lazio 7/7 · Parma 6/7
 
 **💥 Combi cuota 3-4 · cuota 3,13**
 - Sassuolo marca (1,44) · Como (en contra) 9/10 · Sassuolo 7/7
 - No hay empate en Coventry–Fulham (1,30) · Coventry 7/7 · Fulham 5/7
 - Más de 4,5 tarjetas en Racing Santander–Espanyol (1,67) · Racing Santander 7/9 · Espanyol 8/9
 
-**🤪 Combi loca · cuota 12,34**
-- Ambos marcan en Como–Sassuolo (1,57) · Como 8/10 · Sassuolo 7/7
-- Más de 1,5 goles en Rayo Vallecano–Elche (1,28) · Rayo Vallecano 8/8 · Elche 7/9
-- Cagliari marca (1,40) · Cagliari 5/7 · Bologna (en contra) 7/7
-- No hay empate en Lens–Paris FC (1,28) · Lens 9/10 · Paris FC 5/7
-- No hay empate en Napoli–AS Roma (1,36) · Napoli 9/10 · AS Roma 7/10
-- Gana el Lazio (1,40) · Lazio 6/7 · Parma 5/7
-- Más de 26,5 tiros en Aston Villa–Manchester City (1,80) · Aston Villa 8/10 · Manchester City 7/10
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 16:15 | Espanyol marca | goles | 1.25 | 94% | Racing Santander (en contra) 9/9 · Espanyol 8/9 |
 | 15:00 | Sassuolo marca | goles | 1.44 | 94% | Como (en contra) 9/10 · Sassuolo 7/7 |
-| 20:45 | Lazio gana alguna de las dos partes | resultado | 1.25 | 93% | Lazio 7/7 · Parma 6/7 |
-| 15:00 | Ambos marcan en Como–Sassuolo | goles | 1.57 | 88% | Como 8/10 · Sassuolo 7/7 |
-| 14:00 | Más de 1,5 goles en Rayo Vallecano–Elche | goles | 1.28 | 88% | Rayo Vallecano 8/8 · Elche 7/9 |
+| 20:45 | Lazio gana alguna de las dos partes | resultado | 1.28 | 93% | Lazio 7/7 · Parma 6/7 |
+| 15:00 | Ambos marcan en Como–Sassuolo | goles | 1.50 | 88% | Como 8/10 · Sassuolo 7/7 |
 | 15:00 | Cagliari marca | goles | 1.40 | 86% | Cagliari 5/7 · Bologna (en contra) 7/7 |
 | 16:00 | No hay empate en Coventry–Fulham | resultado | 1.30 | 86% | Coventry 7/7 · Fulham 5/7 |
-| 15:00 | Gol en la 2ª parte del Cagliari–Bologna | goles | 1.28 | 86% | Cagliari 5/7 · Bologna 7/7 |
+| 15:00 | Gol en la 2ª parte del Cagliari–Bologna | goles | 1.25 | 86% | Cagliari 5/7 · Bologna 7/7 |
 | 16:15 | Más de 4,5 tarjetas en Racing Santander–Espanyol | tarjetas | 1.67 | 83% | Racing Santander 7/9 · Espanyol 8/9 |
 | 16:15 | Gol en la 1ª parte del Racing Santander–Espanyol | goles | 1.28 | 83% | Racing Santander 8/9 · Espanyol 7/9 |
+| 15:30 | Gol en la 1ª parte del SC Paderborn 07–Hamburger SV | goles | 1.28 | 83% | SC Paderborn 07 5/6 · Hamburger SV 5/6 |
 | 15:30 | Gol en la 1ª parte del FSV Mainz 05–Werder Bremen | goles | 1.25 | 83% | FSV Mainz 05 5/6 · Werder Bremen 5/6 |
 | 20:45 | No hay empate en Lens–Paris FC | resultado | 1.28 | 82% | Lens 9/10 · Paris FC 5/7 |
-| 18:00 | No hay empate en Napoli–AS Roma | resultado | 1.36 | 80% | Napoli 9/10 · AS Roma 7/10 |
-| 15:00 | Cagliari o empate | resultado | 1.53 | 79% | Cagliari 5/7 · Bologna 6/7 |
-| 20:45 | Gana el Lazio | resultado | 1.40 | 79% | Lazio 6/7 · Parma 5/7 |
+| 18:00 | No hay empate en Napoli–AS Roma | resultado | 1.33 | 80% | Napoli 9/10 · AS Roma 7/10 |
+| 20:45 | Gana el Lazio | resultado | 1.48 | 79% | Lazio 6/7 · Parma 5/7 |
+| 15:00 | Cagliari o empate | resultado | 1.44 | 79% | Cagliari 5/7 · Bologna 6/7 |
 | 15:00 | No hay empate en Cagliari–Bologna | resultado | 1.36 | 79% | Cagliari 6/7 · Bologna 5/7 |
-| 20:45 | Más de 1,5 goles en Lazio–Parma | goles | 1.28 | 79% | Lazio 5/7 · Parma 6/7 |
-| 15:00 | Ambos marcan y más de 2,5 goles en Como–Sassuolo | goles | 1.80 | 76% | Como 7/10 · Sassuolo 6/7 |
-| 15:00 | Más de 2,5 goles en Como–Sassuolo | goles | 1.44 | 76% | Como 7/10 · Sassuolo 6/7 |
-| 13:30 | Más de 26,5 tiros en Aston Villa–Manchester City | tiros | 1.80 | 75% | Aston Villa 8/10 · Manchester City 7/10 |
+| 20:45 | Más de 1,5 goles en Lazio–Parma | goles | 1.30 | 79% | Lazio 5/7 · Parma 6/7 |
+| 15:00 | Ambos marcan y más de 2,5 goles en Como–Sassuolo | goles | 1.67 | 76% | Como 7/10 · Sassuolo 6/7 |
+| 15:00 | Más de 2,5 goles en Como–Sassuolo | goles | 1.36 | 76% | Como 7/10 · Sassuolo 6/7 |
 
 ## Domingo 25/10
 
@@ -57,14 +47,14 @@ _Generado el 2026-10-24 08:45 (hora España). Cuotas de Bet365. Criterio: cuota 
 - No hay empate en Genoa–Venezia (1,30) · Genoa 6/7 · Venezia 7/7
 - Estac Troyes hace más de 3,5 córners (1,62) · Toulouse (en contra) 5/7 · Estac Troyes 7/7
 
-**🤪 Combi loca · cuota 8,67**
+**🤪 Combi loca · cuota 9,19**
 - Gol en la 2ª parte del Sunderland–Leeds (1,28) · Sunderland 10/10 · Leeds 6/7
 - Bournemouth marca (1,28) · Manchester United (en contra) 9/10 · Bournemouth 9/10
 - Más de 2,5 goles en SC Freiburg–Bayern München (1,25) · SC Freiburg 9/10 · Bayern München 8/9
-- Más de 26,5 tiros en Paris Saint Germain–Lyon (1,80) · Paris Saint Germain 10/10 · Lyon 7/10
 - No hay empate en Monaco–Lille (1,30) · Monaco 8/10 · Lille 8/10
+- Más de 8,5 tiros a puerta en Auxerre–Le Mans (1,73) · Auxerre 6/7 · Le Mans 5/7
 - No hay empate en Angers–Lorient (1,33) · Angers 6/7 · Lorient 5/7
-- Real Betis o empate (1,36) · Celta Vigo 7/10 · Real Betis 8/10
+- Newcastle ve más de 1,5 tarjetas (1,50) · Crystal Palace (en contra) 7/9 · Newcastle 5/7
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -76,41 +66,44 @@ _Generado el 2026-10-24 08:45 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | No hay empate en Genoa–Venezia | resultado | 1.30 | 93% | Genoa 6/7 · Venezia 7/7 |
 | 15:00 | Bournemouth marca | goles | 1.28 | 90% | Manchester United (en contra) 9/10 · Bournemouth 9/10 |
 | 17:30 | Más de 2,5 goles en SC Freiburg–Bayern München | goles | 1.25 | 90% | SC Freiburg 9/10 · Bayern München 8/9 |
-| 15:00 | Gol en la 1ª parte del Crystal Palace–Newcastle | goles | 1.28 | 88% | Crystal Palace 9/10 · Newcastle 6/7 |
 | 18:00 | Más de 1,5 goles en Lecce–Juventus | goles | 1.25 | 88% | Lecce 6/7 · Juventus 9/10 |
+| 15:00 | Gol en la 1ª parte del Crystal Palace–Newcastle | goles | 1.25 | 88% | Crystal Palace 9/10 · Newcastle 6/7 |
 | 17:15 | Más de 2,5 goles en Auxerre–Le Mans | goles | 1.73 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Ambos marcan en Auxerre–Le Mans | goles | 1.62 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Estac Troyes hace más de 3,5 córners | corners | 1.62 | 86% | Toulouse (en contra) 5/7 · Estac Troyes 7/7 |
 | 17:15 | Le Mans marca | goles | 1.33 | 86% | Auxerre (en contra) 6/7 · Le Mans 6/7 |
 | 15:00 | Más de 1,5 goles en Genoa–Venezia | goles | 1.30 | 86% | Genoa 6/7 · Venezia 6/7 |
 | 17:15 | Gol en la 1ª parte del Auxerre–Le Mans | goles | 1.30 | 86% | Auxerre 6/7 · Le Mans 6/7 |
-| 20:45 | Más de 26,5 tiros en Paris Saint Germain–Lyon | tiros | 1.80 | 85% | Paris Saint Germain 10/10 · Lyon 7/10 |
-| 20:45 | Más de 2,5 goles en Paris Saint Germain–Lyon | goles | 1.40 | 85% | Paris Saint Germain 9/10 · Lyon 8/10 |
-| 20:45 | Lyon marca | goles | 1.40 | 85% | Paris Saint Germain (en contra) 9/10 · Lyon 8/10 |
 | 12:30 | Más de 2,5 goles en Inter–Fiorentina | goles | 1.44 | 82% | Inter 8/10 · Fiorentina 6/7 |
 | 17:15 | Más de 2,5 goles en Rennes–Strasbourg | goles | 1.44 | 82% | Rennes 8/10 · Strasbourg 6/7 |
 | 17:30 | Leeds marca | goles | 1.30 | 82% | Sunderland (en contra) 8/10 · Leeds 6/7 |
 | 17:15 | Strasbourg marca | goles | 1.28 | 82% | Rennes (en contra) 8/10 · Strasbourg 6/7 |
-| 20:45 | Ambos marcan en Paris Saint Germain–Lyon | goles | 1.53 | 80% | Paris Saint Germain 9/10 · Lyon 7/10 |
 | 15:00 | Gol en la 1ª parte del Monaco–Lille | goles | 1.36 | 80% | Monaco 8/10 · Lille 8/10 |
 | 15:00 | Lille marca | goles | 1.36 | 80% | Monaco (en contra) 7/10 · Lille 9/10 |
 | 15:00 | No hay empate en Monaco–Lille | resultado | 1.30 | 80% | Monaco 8/10 · Lille 8/10 |
 | 15:00 | Más de 2,5 fueras de juego en Manchester United–Bournemouth | fueras de juego | 1.67 | 79% | Manchester United 8/9 · Bournemouth 7/10 |
+| 17:15 | Más de 8,5 tiros a puerta en Auxerre–Le Mans | tiros a puerta | 1.73 | 79% | Auxerre 6/7 · Le Mans 5/7 |
 | 17:15 | No hay empate en Angers–Lorient | resultado | 1.33 | 79% | Angers 6/7 · Lorient 5/7 |
+| 17:15 | Lorient marca | goles | 1.28 | 79% | Angers (en contra) 5/7 · Lorient 6/7 |
 | 15:00 | Más de 2,5 goles en Crystal Palace–Newcastle | goles | 1.57 | 76% | Crystal Palace 8/10 · Newcastle 5/7 |
 | 17:15 | Ambos marcan en Rennes–Strasbourg | goles | 1.44 | 76% | Rennes 7/10 · Strasbourg 6/7 |
-| 17:30 | Leeds o empate | resultado | 1.40 | 76% | Sunderland 7/10 · Leeds 6/7 |
 | 17:30 | Más de 1,5 goles en Sunderland–Leeds | goles | 1.36 | 76% | Sunderland 8/10 · Leeds 5/7 |
+| 17:30 | Leeds o empate | resultado | 1.36 | 76% | Sunderland 7/10 · Leeds 6/7 |
 | 18:00 | Gol en la 1ª parte del Lecce–Juventus | goles | 1.33 | 76% | Lecce 6/7 · Juventus 7/10 |
 | 15:00 | Bournemouth o empate | resultado | 1.67 | 75% | Manchester United 8/10 · Bournemouth 7/10 |
+| 15:00 | Newcastle ve más de 1,5 tarjetas | tarjetas | 1.50 | 75% | Crystal Palace (en contra) 7/9 · Newcastle 5/7 |
 | 16:15 | Real Betis o empate | resultado | 1.36 | 75% | Celta Vigo 7/10 · Real Betis 8/10 |
 
 ## Lunes 26/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 20:30 | Más de 26,5 tiros en Paris Saint Germain–Lyon | tiros | 1.80 | 85% | Paris Saint Germain 10/10 · Lyon 7/10 |
+| 20:30 | Más de 2,5 goles en Paris Saint Germain–Lyon | goles | 1.40 | 85% | Paris Saint Germain 9/10 · Lyon 8/10 |
+| 20:30 | Lyon marca | goles | 1.40 | 85% | Paris Saint Germain (en contra) 9/10 · Lyon 8/10 |
+| 20:30 | Ambos marcan en Paris Saint Germain–Lyon | goles | 1.53 | 80% | Paris Saint Germain 9/10 · Lyon 7/10 |
 | 21:00 | Más de 1,5 goles en Sevilla–Osasuna | goles | 1.36 | 78% | Sevilla 7/9 · Osasuna 7/9 |
-| 21:00 | No hay empate en Sevilla–Osasuna | resultado | 1.30 | 78% | Sevilla 7/9 · Osasuna 7/9 |
+| 21:00 | No hay empate en Sevilla–Osasuna | resultado | 1.33 | 78% | Sevilla 7/9 · Osasuna 7/9 |
 
 ## Martes 27/10
 

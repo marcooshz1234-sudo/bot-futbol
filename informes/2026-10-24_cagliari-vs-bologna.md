@@ -1,72 +1,74 @@
 # Cagliari – Bologna
 **Serie A** · Regular Season - 8 · 24/10/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:55_
+_Actualizadas: 24/10 14:44_
 
-- **1X2:** 1 **2.90**  ·  X **3.00**  ·  2 **2.62**
-- **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **1X2:** 1 **3.25**  ·  X **2.90**  ·  2 **2.45**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.36**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.36** · menos **3.20**
-    - 2,5: más **2.20** · menos **1.67**
-    - 3,5: más **4.00** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.44** · menos **2.75**
+    - 2,5: más **2.38** · menos **1.57**
+    - 3,5: más **4.50** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
 - **Tarjetas más/menos:**
-    - 3,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.05**  ·  2 **3.10**
+    - 3,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.00**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **4.00**
-- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **5.50**  ·  Home/No **5.50**  ·  Draw/No **8.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **5.50**  ·  u/no 2.5 **2.20**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **4.33**
+- **Win Both Halves:** 1 **11.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **5.50**  ·  Home/No **5.00**  ·  Draw/No **8.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **13.00**  ·  u/yes 2.5 **5.50**  ·  u/no 2.5 **2.05**
 - **Home Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
 - **Home Team Total Cards:**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.83** · menos **1.83**
 - **Total ShotOnGoal:**
     - 7,5: más **1.67** · menos **2.10**
 - **ShotOnTarget 1x2:** 1 **2.50**  ·  X **7.00**  ·  2 **1.80**
 - **Total Shots:**
-    - 25,5: más **1.91** · menos **1.80**
-- **Shots.1x2:** 1 **2.20**  ·  X **15.00**  ·  2 **1.67**
+    - 25,5: más **1.80** · menos **1.91**
+- **Shots.1x2:** 1 **2.00**  ·  X **15.00**  ·  2 **1.83**
 - **Home Player Shots On Target Total:** Juan Rodriguez - 1 **8.00**  ·  Yukinari Sugawara - 1 **3.40**  ·  Yukinari Sugawara - 2 **17.00**  ·  Yanis Massolin - 1 **2.10**  ·  Paul Mendy - 1 **1.62**  ·  Daniel Maldini - 1 **1.62**  ·  Jacopo Fazzini - 1 **3.25**  ·  Alessandro Deiola - 1 **3.25**  ·  Alieu Fadera - 1 **2.75**  ·  Yerry Mina - 1 **3.40**  ·  Alessandro Romano - 1 **2.00**  ·  Giuseppe Aurelio - 1 **2.62**  ·  Kevin Omoruyi - 1 **1.83**  ·  Nicola Grandu - 1 **3.25**  ·  Michel Adopo - 1 **3.25**  ·  Harry Winks - 1 **3.50**  ·  Adam Obert - 1 **6.50**  ·  Demi Akarakiri - 1 **3.25**  ·  Ivan Sulev - 1 **2.20**  ·  Jose Ze Pedro - 1 **10.00**  ·  Joseph Liteta - 1 **4.50**  ·  Raphael Kofler - 1 **6.50**  ·  Yanis Massolin - 2 **7.00**  ·  Paul Mendy - 2 **4.00**  ·  Daniel Maldini - 2 **4.00**  ·  Jacopo Fazzini - 2 **17.00**  ·  Alessandro Deiola - 2 **17.00**  ·  Alieu Fadera - 2 **13.00**  ·  Yerry Mina - 2 **17.00**  ·  Alessandro Romano - 2 **6.50**  ·  Giuseppe Aurelio - 2 **11.00**  ·  Kevin Omoruyi - 2 **5.50**  ·  Nicola Grandu - 2 **17.00**  ·  Michel Adopo - 2 **17.00**  ·  Harry Winks - 2 **19.00**  ·  Demi Akarakiri - 2 **17.00**  ·  Ivan Sulev - 2 **8.00**  ·  Yanis Massolin - 3 **21.00**  ·  Paul Mendy - 3 **13.00**  ·  Daniel Maldini - 3 **13.00**  ·  Alessandro Romano - 3 **21.00**  ·  Kevin Omoruyi - 3 **19.00**  ·  Riccardo Ciervo - 1 **2.62**  ·  Riccardo Ciervo - 2 **11.00**  ·  M'Bala Nzola - 1 **1.83**  ·  M'Bala Nzola - 2 **5.50**  ·  M'Bala Nzola - 3 **19.00**  ·  Alessandro Sugamele - 1 **1.80**  ·  Roberto Gagliardini - 1 **5.50**  ·  Alessandro Sugamele - 2 **5.00**  ·  Alessandro Sugamele - 3 **17.00**
 - **Away Player Shots Total:**
     - 12,5: más **1.73** · menos **2.00**
-- **Home Player Shots:** Juan Rodriguez - 1 **2.75**  ·  Juan Rodriguez - 2 **11.00**  ·  Yukinari Sugawara - 1 **1.53**  ·  Yukinari Sugawara - 2 **3.40**  ·  Yukinari Sugawara - 3 **9.00**  ·  Yukinari Sugawara - 4 **21.00**  ·  Yanis Massolin - 1 **1.14**  ·  Paul Mendy - 1 **1.06**  ·  Daniel Maldini - 1 **1.05**  ·  Jacopo Fazzini - 1 **1.33**  ·  Alessandro Deiola - 1 **1.40**  ·  Alieu Fadera - 1 **1.30**  ·  Yerry Mina - 1 **1.53**  ·  Alessandro Romano - 1 **1.20**  ·  Giuseppe Aurelio - 1 **1.40**  ·  Kevin Omoruyi - 1 **1.10**  ·  Nicola Grandu - 1 **1.53**  ·  Michel Adopo - 1 **1.53**  ·  Harry Winks - 1 **1.50**  ·  Adam Obert - 1 **2.25**  ·  Demi Akarakiri - 1 **1.53**  ·  Ivan Sulev - 1 **1.20**  ·  Jose Ze Pedro - 1 **2.75**  ·  Joseph Liteta - 1 **1.83**  ·  Raphael Kofler - 1 **2.50**  ·  Yanis Massolin - 2 **1.67**  ·  Paul Mendy - 2 **1.33**  ·  Daniel Maldini - 2 **1.28**  ·  Jacopo Fazzini - 2 **2.50**  ·  Alessandro Deiola - 2 **2.75**  ·  Alieu Fadera - 2 **2.38**  ·  Yerry Mina - 2 **3.40**  ·  Alessandro Romano - 2 **1.83**  ·  Giuseppe Aurelio - 2 **2.75**  ·  Kevin Omoruyi - 2 **1.50**  ·  Nicola Grandu - 2 **3.40**  ·  Michel Adopo - 2 **3.40**  ·  Harry Winks - 2 **3.25**  ·  Adam Obert - 2 **8.00**  ·  Demi Akarakiri - 2 **3.40**  ·  Ivan Sulev - 2 **1.91**  ·  Jose Ze Pedro - 2 **11.00**  ·  Joseph Liteta - 2 **5.00**  ·  Raphael Kofler - 2 **9.00**  ·  Yanis Massolin - 3 **3.00**  ·  Paul Mendy - 3 **1.91**  ·  Daniel Maldini - 3 **1.83**  ·  Jacopo Fazzini - 3 **5.50**  ·  Alessandro Deiola - 3 **6.50**  ·  Alieu Fadera - 3 **5.00**  ·  Yerry Mina - 3 **9.00**  ·  Alessandro Romano - 3 **3.50**  ·  Giuseppe Aurelio - 3 **6.50**  ·  Kevin Omoruyi - 3 **2.50**  ·  Nicola Grandu - 3 **9.00**  ·  Michel Adopo - 3 **9.00**  ·  Harry Winks - 3 **8.00**  ·  Adam Obert - 3 **21.00**  ·  Demi Akarakiri - 3 **9.00**  ·  Ivan Sulev - 3 **3.75**  ·  Joseph Liteta - 3 **17.00**  ·  Yanis Massolin - 4 **6.00**  ·  Paul Mendy - 4 **3.40**  ·  Daniel Maldini - 4 **3.00**  ·  Jacopo Fazzini - 4 **13.00**  ·  Alessandro Deiola - 4 **17.00**  ·  Alieu Fadera - 4 **13.00**  ·  Yerry Mina - 4 **21.00**  ·  Alessandro Romano - 4 **8.00**  ·  Yanis Massolin - 5 **13.00**  ·  Paul Mendy - 5 **6.00**  ·  Daniel Maldini - 5 **5.50**  ·  Yanis Massolin - 6 **21.00**  ·  Paul Mendy - 6 **13.00**  ·  Riccardo Ciervo - 1 **1.28**  ·  Riccardo Ciervo - 2 **2.20**  ·  Riccardo Ciervo - 3 **4.50**  ·  Riccardo Ciervo - 4 **11.00**  ·  Riccardo Ciervo - 5 **21.00**  ·  Giuseppe Aurelio - 4 **17.00**  ·  Kevin Omoruyi - 4 **4.50**  ·  Nicola Grandu - 4 **21.00**  ·  Demi Akarakiri - 4 **21.00**  ·  Ivan Sulev - 4 **8.00**  ·  Harry Winks - 4 **21.00**  ·  Michel Adopo - 4 **21.00**  ·  Kevin Omoruyi - 5 **10.00**  ·  Alessandro Romano - 5 **17.00**  ·  Ivan Sulev - 5 **19.00**  ·  Alieu Fadera - 5 **21.00**  ·  Daniel Maldini - 6 **11.00**  ·  Kevin Omoruyi - 6 **19.00**  ·  Paul Mendy - 7 **21.00**  ·  Daniel Maldini - 7 **21.00**  ·  M'Bala Nzola - 1 **1.08**  ·  M'Bala Nzola - 2 **1.40**  ·  M'Bala Nzola - 3 **2.20**  ·  M'Bala Nzola - 4 **3.75**  ·  M'Bala Nzola - 5 **8.00**  ·  M'Bala Nzola - 6 **17.00**  ·  Alessandro Sugamele - 1 **1.11**  ·  Roberto Gagliardini - 1 **2.00**  ·  Alessandro Sugamele - 2 **1.53**  ·  Roberto Gagliardini - 2 **6.00**  ·  Alessandro Sugamele - 3 **2.50**  ·  Roberto Gagliardini - 3 **19.00**  ·  Alessandro Sugamele - 4 **5.00**  ·  Alessandro Sugamele - 5 **10.00**  ·  Alessandro Sugamele - 6 **21.00**
+- **Home Player Shots:** Juan Rodriguez - 1 **2.62**  ·  Juan Rodriguez - 2 **10.00**  ·  Yukinari Sugawara - 1 **1.50**  ·  Yukinari Sugawara - 2 **3.25**  ·  Yukinari Sugawara - 3 **8.00**  ·  Yukinari Sugawara - 4 **21.00**  ·  Yanis Massolin - 1 **1.12**  ·  Paul Mendy - 1 **1.05**  ·  Daniel Maldini - 1 **1.04**  ·  Jacopo Fazzini - 1 **1.30**  ·  Alessandro Deiola - 1 **1.36**  ·  Alieu Fadera - 1 **1.28**  ·  Yerry Mina - 1 **1.50**  ·  Alessandro Romano - 1 **1.17**  ·  Giuseppe Aurelio - 1 **1.36**  ·  Kevin Omoruyi - 1 **1.08**  ·  Nicola Grandu - 1 **1.50**  ·  Michel Adopo - 1 **1.50**  ·  Harry Winks - 1 **1.44**  ·  Adam Obert - 1 **2.20**  ·  Demi Akarakiri - 1 **1.50**  ·  Ivan Sulev - 1 **1.18**  ·  Jose Ze Pedro - 1 **2.62**  ·  Joseph Liteta - 1 **1.83**  ·  Raphael Kofler - 1 **2.38**  ·  Yanis Massolin - 2 **1.62**  ·  Paul Mendy - 2 **1.28**  ·  Daniel Maldini - 2 **1.25**  ·  Jacopo Fazzini - 2 **2.25**  ·  Alessandro Deiola - 2 **2.50**  ·  Alieu Fadera - 2 **2.20**  ·  Yerry Mina - 2 **3.25**  ·  Alessandro Romano - 2 **1.73**  ·  Giuseppe Aurelio - 2 **2.50**  ·  Kevin Omoruyi - 2 **1.44**  ·  Nicola Grandu - 2 **3.25**  ·  Michel Adopo - 2 **3.25**  ·  Harry Winks - 2 **2.75**  ·  Adam Obert - 2 **7.00**  ·  Demi Akarakiri - 2 **3.25**  ·  Ivan Sulev - 2 **1.80**  ·  Jose Ze Pedro - 2 **10.00**  ·  Joseph Liteta - 2 **4.50**  ·  Raphael Kofler - 2 **8.00**  ·  Yanis Massolin - 3 **2.75**  ·  Paul Mendy - 3 **1.80**  ·  Daniel Maldini - 3 **1.73**  ·  Jacopo Fazzini - 3 **5.00**  ·  Alessandro Deiola - 3 **6.00**  ·  Alieu Fadera - 3 **4.50**  ·  Yerry Mina - 3 **8.00**  ·  Alessandro Romano - 3 **3.25**  ·  Giuseppe Aurelio - 3 **6.00**  ·  Kevin Omoruyi - 3 **2.20**  ·  Nicola Grandu - 3 **8.00**  ·  Michel Adopo - 3 **8.00**  ·  Harry Winks - 3 **7.00**  ·  Adam Obert - 3 **21.00**  ·  Demi Akarakiri - 3 **8.00**  ·  Ivan Sulev - 3 **3.40**  ·  Joseph Liteta - 3 **15.00**  ·  Yanis Massolin - 4 **5.50**  ·  Paul Mendy - 4 **3.00**  ·  Daniel Maldini - 4 **2.62**  ·  Jacopo Fazzini - 4 **13.00**  ·  Alessandro Deiola - 4 **15.00**  ·  Alieu Fadera - 4 **11.00**  ·  Yerry Mina - 4 **21.00**  ·  Alessandro Romano - 4 **6.50**  ·  Yanis Massolin - 5 **11.00**  ·  Paul Mendy - 5 **5.50**  ·  Daniel Maldini - 5 **4.50**  ·  Yanis Massolin - 6 **21.00**  ·  Paul Mendy - 6 **11.00**  ·  Riccardo Ciervo - 1 **1.25**  ·  Riccardo Ciervo - 2 **2.10**  ·  Riccardo Ciervo - 3 **4.33**  ·  Riccardo Ciervo - 4 **10.00**  ·  Riccardo Ciervo - 5 **21.00**  ·  Giuseppe Aurelio - 4 **15.00**  ·  Kevin Omoruyi - 4 **4.00**  ·  Nicola Grandu - 4 **21.00**  ·  Raphael Kofler - 3 **21.00**  ·  Demi Akarakiri - 4 **21.00**  ·  Ivan Sulev - 4 **7.00**  ·  Harry Winks - 4 **19.00**  ·  Michel Adopo - 4 **21.00**  ·  Kevin Omoruyi - 5 **8.00**  ·  Alessandro Romano - 5 **15.00**  ·  Jacopo Fazzini - 5 **21.00**  ·  Ivan Sulev - 5 **17.00**  ·  Alieu Fadera - 5 **21.00**  ·  Daniel Maldini - 6 **9.00**  ·  Kevin Omoruyi - 6 **17.00**  ·  Paul Mendy - 7 **21.00**  ·  Daniel Maldini - 7 **19.00**  ·  M'Bala Nzola - 1 **1.07**  ·  M'Bala Nzola - 2 **1.36**  ·  M'Bala Nzola - 3 **2.00**  ·  M'Bala Nzola - 4 **3.50**  ·  M'Bala Nzola - 5 **6.50**  ·  M'Bala Nzola - 6 **13.00**  ·  M'Bala Nzola - 7 **21.00**  ·  Alessandro Sugamele - 1 **1.10**  ·  Roberto Gagliardini - 1 **1.91**  ·  Alessandro Sugamele - 2 **1.44**  ·  Roberto Gagliardini - 2 **5.50**  ·  Alessandro Sugamele - 3 **2.25**  ·  Roberto Gagliardini - 3 **17.00**  ·  Alessandro Sugamele - 4 **4.33**  ·  Alessandro Sugamele - 5 **9.00**  ·  Alessandro Sugamele - 6 **19.00**
 - **Away Player Shots:** Samuel Mbangula - 1 **1.17**  ·  Samuel Mbangula - 2 **1.73**  ·  Samuel Mbangula - 3 **3.25**  ·  Samuel Mbangula - 4 **6.50**  ·  Samuel Mbangula - 5 **15.00**  ·  Arthur Theate - 1 **1.83**  ·  Arthur Theate - 2 **5.00**  ·  Arthur Theate - 3 **15.00**  ·  Roberto Piccoli - 1 **1.06**  ·  Jens Odgaard - 1 **1.11**  ·  Federico Bernardeschi - 1 **1.04**  ·  Artem Dovbyk - 1 **1.05**  ·  Nicolo Cambiaghi - 1 **1.14**  ·  Tommaso Pobega - 1 **1.17**  ·  Lewis Ferguson - 1 **1.83**  ·  Nikola Moro - 1 **1.50**  ·  Mikel Amondarain - 1 **1.40**  ·  Marco Libra - 1 **1.36**  ·  Nadir Zortea - 1 **1.67**  ·  Juan Miranda - 1 **1.67**  ·  Nicolo Casale - 1 **1.83**  ·  Oussama El Azzouzi - 1 **1.80**  ·  Rahim Alhassane - 1 **1.62**  ·  Eivind Helland - 1 **3.40**  ·  Torbjorn Heggem - 1 **2.38**  ·  Martin Vitik - 1 **2.38**  ·  Lorenzo De Silvestri - 1 **2.20**  ·  Roberto Piccoli - 2 **1.33**  ·  Jens Odgaard - 2 **1.50**  ·  Federico Bernardeschi - 2 **1.22**  ·  Artem Dovbyk - 2 **1.25**  ·  Nicolo Cambiaghi - 2 **1.67**  ·  Tommaso Pobega - 2 **1.73**  ·  Lewis Ferguson - 2 **5.00**  ·  Nikola Moro - 2 **3.25**  ·  Mikel Amondarain - 2 **2.75**  ·  Marco Libra - 2 **2.62**  ·  Nadir Zortea - 2 **4.00**  ·  Juan Miranda - 2 **4.00**  ·  Nicolo Casale - 2 **5.00**  ·  Oussama El Azzouzi - 2 **4.50**  ·  Rahim Alhassane - 2 **3.75**  ·  Eivind Helland - 2 **15.00**  ·  Torbjorn Heggem - 2 **8.00**  ·  Martin Vitik - 2 **8.00**  ·  Lorenzo De Silvestri - 2 **6.50**  ·  Roberto Piccoli - 3 **1.91**  ·  Jens Odgaard - 3 **2.50**  ·  Federico Bernardeschi - 3 **1.62**  ·  Artem Dovbyk - 3 **1.80**  ·  Nicolo Cambiaghi - 3 **3.00**  ·  Tommaso Pobega - 3 **3.25**  ·  Lewis Ferguson - 3 **15.00**  ·  Nikola Moro - 3 **8.00**  ·  Mikel Amondarain - 3 **6.50**  ·  Marco Libra - 3 **6.00**  ·  Nadir Zortea - 3 **11.00**  ·  Juan Miranda - 3 **11.00**  ·  Nicolo Casale - 3 **15.00**  ·  Oussama El Azzouzi - 3 **13.00**  ·  Rahim Alhassane - 3 **11.00**  ·  Torbjorn Heggem - 3 **21.00**  ·  Martin Vitik - 3 **21.00**  ·  Lorenzo De Silvestri - 3 **21.00**  ·  Roberto Piccoli - 4 **3.25**  ·  Jens Odgaard - 4 **4.50**  ·  Federico Bernardeschi - 4 **2.50**  ·  Artem Dovbyk - 4 **2.75**  ·  Nicolo Cambiaghi - 4 **6.00**  ·  Tommaso Pobega - 4 **6.50**  ·  Nikola Moro - 4 **21.00**  ·  Mikel Amondarain - 4 **17.00**  ·  Marco Libra - 4 **15.00**  ·  Roberto Piccoli - 5 **6.00**  ·  Jens Odgaard - 5 **10.00**  ·  Federico Bernardeschi - 5 **4.33**  ·  Artem Dovbyk - 5 **5.00**  ·  Nicolo Cambiaghi - 5 **13.00**  ·  Tommaso Pobega - 5 **15.00**  ·  Roberto Piccoli - 6 **13.00**  ·  Jens Odgaard - 6 **21.00**  ·  Federico Bernardeschi - 6 **8.00**  ·  Artem Dovbyk - 6 **10.00**  ·  Roberto Piccoli - 7 **21.00**  ·  Federico Bernardeschi - 7 **17.00**  ·  Rahim Alhassane - 4 **21.00**  ·  Nicolo Cambiaghi - 6 **21.00**  ·  Artem Dovbyk - 7 **19.00**  ·  Jay Enem - 1 **1.06**  ·  Jay Enem - 2 **1.33**  ·  Jay Enem - 3 **1.91**  ·  Jay Enem - 4 **3.25**  ·  Jay Enem - 5 **6.00**  ·  Jay Enem - 6 **13.00**  ·  Jay Enem - 7 **21.00**  ·  Matteo Darmian - 1 **1.57**  ·  Matteo Darmian - 2 **3.50**  ·  Matteo Darmian - 3 **9.00**  ·  Matteo Darmian - 4 **21.00**
-- **Goalkeeper Saves:** Elia Caprile - 2 **1.18**  ·  Elia Caprile - 3 **1.57**  ·  Elia Caprile - 4 **2.50**  ·  Elia Caprile - 5 **4.33**  ·  Elia Caprile - 6 **9.00**  ·  Lukasz Skorupski - 2 **1.05**  ·  Lukasz Skorupski - 3 **1.30**  ·  Lukasz Skorupski - 4 **1.91**  ·  Lukasz Skorupski - 5 **3.50**  ·  Lukasz Skorupski - 6 **7.00**
-- **Anytime Goal Scorer:** Rahim Alhassane **12.00**  ·  Mikel Amondarain **8.50**  ·  Torbjorn Heggem **13.00**  ·  Martin Vitik **10.00**  ·  Yanis Massolin **6.00**  ·  Joseph Liteta **8.50**  ·  Nicola Grandu **7.50**  ·  M'Bala Nzola **3.25**  ·  Juan Rodriguez **17.00**  ·  Alieu Fadera **7.50**  ·  Giuseppe Aurelio **6.00**  ·  Raphael Kofler **12.00**  ·  Riccardo Ciervo **6.00**  ·  Eivind Helland **12.00**  ·  Nicolo Cambiaghi **5.50**  ·  Nicolo Casale **8.50**  ·  Ivan Sulev **7.00**  ·  Paul Mendy **3.10**  ·  Jose Ze Pedro **13.00**  ·  Marco Libra **7.00**  ·  Demi Akarakiri **8.50**  ·  Lewis Ferguson **7.00**  ·  Kevin Omoruyi **3.50**  ·  Alessandro Sugamele **3.75**  ·  Harry Winks **9.50**  ·  Yukinari Sugawara **8.50**  ·  Jay Enem **3.10**  ·  Tommaso Pobega **7.00**  ·  Artem Dovbyk **3.10**  ·  Daniel Maldini **3.10**  ·  Roberto Gagliardini **9.50**  ·  Arthur Theate **10.00**  ·  Jens Odgaard **4.00**  ·  Juan Miranda **8.50**  ·  Lorenzo De Silvestri **12.00**  ·  Nikola Moro **8.50**  ·  Oussama El Azzouzi **8.50**  ·  Jacopo Fazzini **6.00**  ·  Adam Obert **13.00**  ·  Alessandro Deiola **10.00**  ·  Michel Adopo **9.50**  ·  Nadir Zortea **7.50**  ·  Roberto Piccoli **2.88**  ·  Samuel Mbangula **5.50**  ·  Yerry Mina **7.50**  ·  Matteo Darmian **9.50**  ·  Alessandro Romano **7.50**  ·  Federico Bernardeschi **3.60**
-- **Player to Score or Assist:** M'Bala Nzola **2.60**  ·  Nicolo Cambiaghi **3.00**  ·  Paul Mendy **2.50**  ·  Artem Dovbyk **2.38**  ·  Daniel Maldini **2.40**  ·  Federico Bernardeschi **2.40**
+- **Player Fouls Committed:** Juan Rodriguez - 1 **1.44**  ·  Juan Rodriguez - 2 **3.00**  ·  Juan Rodriguez - 3 **8.00**  ·  Juan Rodriguez - 4 **21.00**  ·  Samuel Mbangula - 1 **1.73**  ·  Samuel Mbangula - 2 **4.33**  ·  Samuel Mbangula - 3 **13.00**  ·  Arthur Theate - 1 **1.44**  ·  Arthur Theate - 2 **3.00**  ·  Arthur Theate - 3 **8.00**  ·  Arthur Theate - 4 **21.00**  ·  Roberto Piccoli - 1 **1.14**  ·  Jens Odgaard - 1 **1.11**  ·  Federico Bernardeschi - 1 **1.14**  ·  Artem Dovbyk - 1 **1.25**  ·  Nicolo Cambiaghi - 1 **1.28**  ·  Tommaso Pobega - 1 **1.06**  ·  Lewis Ferguson - 1 **1.08**  ·  Nikola Moro - 1 **1.36**  ·  Mikel Amondarain - 1 **1.20**  ·  Marco Libra - 1 **1.25**  ·  Nadir Zortea - 1 **1.25**  ·  Juan Miranda - 1 **1.33**  ·  Nicolo Casale - 1 **1.14**  ·  Oussama El Azzouzi - 1 **1.33**  ·  Rahim Alhassane - 1 **1.20**  ·  Eivind Helland - 1 **1.20**  ·  Torbjorn Heggem - 1 **1.20**  ·  Martin Vitik - 1 **1.14**  ·  Lorenzo De Silvestri - 1 **1.44**  ·  Roberto Piccoli - 2 **1.67**  ·  Jens Odgaard - 2 **1.53**  ·  Federico Bernardeschi - 2 **1.73**  ·  Artem Dovbyk - 2 **2.10**  ·  Nicolo Cambiaghi - 2 **2.20**  ·  Tommaso Pobega - 2 **1.30**  ·  Lewis Ferguson - 2 **1.44**  ·  Nikola Moro - 2 **2.62**  ·  Mikel Amondarain - 2 **1.91**  ·  Marco Libra - 2 **2.10**  ·  Nadir Zortea - 2 **2.10**  ·  Juan Miranda - 2 **2.50**  ·  Nicolo Casale - 2 **1.73**  ·  Oussama El Azzouzi - 2 **2.50**  ·  Rahim Alhassane - 2 **1.91**  ·  Eivind Helland - 2 **1.91**  ·  Torbjorn Heggem - 2 **1.91**  ·  Martin Vitik - 2 **1.67**  ·  Lorenzo De Silvestri - 2 **3.00**  ·  Roberto Piccoli - 3 **3.00**  ·  Jens Odgaard - 3 **2.62**  ·  Federico Bernardeschi - 3 **3.25**  ·  Artem Dovbyk - 3 **4.33**  ·  Nicolo Cambiaghi - 3 **5.00**  ·  Tommaso Pobega - 3 **1.91**  ·  Lewis Ferguson - 3 **2.25**  ·  Nikola Moro - 3 **6.50**  ·  Mikel Amondarain - 3 **3.75**  ·  Marco Libra - 3 **4.33**  ·  Nadir Zortea - 3 **4.33**  ·  Juan Miranda - 3 **6.00**  ·  Nicolo Casale - 3 **3.25**  ·  Oussama El Azzouzi - 3 **6.00**  ·  Rahim Alhassane - 3 **3.75**  ·  Eivind Helland - 3 **3.75**  ·  Torbjorn Heggem - 3 **3.75**  ·  Martin Vitik - 3 **3.00**  ·  Lorenzo De Silvestri - 3 **8.00**  ·  Roberto Piccoli - 4 **6.50**  ·  Jens Odgaard - 4 **5.00**  ·  Federico Bernardeschi - 4 **7.00**  ·  Artem Dovbyk - 4 **11.00**  ·  Nicolo Cambiaghi - 4 **13.00**  ·  Tommaso Pobega - 4 **3.40**  ·  Lewis Ferguson - 4 **4.33**  ·  Nikola Moro - 4 **17.00**  ·  Mikel Amondarain - 4 **9.00**  ·  Marco Libra - 4 **11.00**  ·  Roberto Piccoli - 5 **15.00**  ·  Jens Odgaard - 5 **11.00**  ·  Federico Bernardeschi - 5 **17.00**  ·  Artem Dovbyk - 5 **26.00**  ·  Tommaso Pobega - 5 **6.50**  ·  Jens Odgaard - 6 **23.00**  ·  Yanis Massolin - 1 **1.44**  ·  Paul Mendy - 1 **1.08**  ·  Daniel Maldini - 1 **1.36**  ·  Jacopo Fazzini - 1 **1.14**  ·  Alessandro Deiola - 1 **1.18**  ·  Alieu Fadera - 1 **1.08**  ·  Yerry Mina - 1 **1.25**  ·  Alessandro Romano - 1 **1.14**  ·  Giuseppe Aurelio - 1 **1.91**  ·  Kevin Omoruyi - 1 **1.11**  ·  Nicola Grandu - 1 **1.40**  ·  Michel Adopo - 1 **1.44**  ·  Harry Winks - 1 **1.36**  ·  Adam Obert - 1 **1.14**  ·  Demi Akarakiri - 1 **1.14**  ·  Ivan Sulev - 1 **1.20**  ·  Jose Ze Pedro - 1 **1.17**  ·  Joseph Liteta - 1 **1.07**  ·  Raphael Kofler - 1 **1.30**  ·  Yanis Massolin - 2 **3.00**  ·  Paul Mendy - 2 **1.44**  ·  Daniel Maldini - 2 **2.62**  ·  Jacopo Fazzini - 2 **1.73**  ·  Alessandro Deiola - 2 **1.83**  ·  Alieu Fadera - 2 **1.44**  ·  Yerry Mina - 2 **2.10**  ·  Alessandro Romano - 2 **1.67**  ·  Giuseppe Aurelio - 2 **5.50**  ·  Kevin Omoruyi - 2 **1.57**  ·  Nicola Grandu - 2 **2.75**  ·  Michel Adopo - 2 **3.00**  ·  Harry Winks - 2 **2.62**  ·  Adam Obert - 2 **1.67**  ·  Demi Akarakiri - 2 **1.67**  ·  Ivan Sulev - 2 **1.91**  ·  Jose Ze Pedro - 2 **1.80**  ·  Joseph Liteta - 2 **1.36**  ·  Raphael Kofler - 2 **2.25**  ·  Yanis Massolin - 3 **8.00**  ·  Paul Mendy - 3 **2.38**  ·  Daniel Maldini - 3 **6.50**  ·  Jacopo Fazzini - 3 **3.25**  ·  Alessandro Deiola - 3 **3.50**  ·  Alieu Fadera - 3 **2.38**  ·  Yerry Mina - 3 **4.33**  ·  Alessandro Romano - 3 **3.00**  ·  Giuseppe Aurelio - 3 **19.00**  ·  Kevin Omoruyi - 3 **2.62**  ·  Nicola Grandu - 3 **7.00**  ·  Michel Adopo - 3 **8.00**  ·  Harry Winks - 3 **6.50**  ·  Adam Obert - 3 **3.00**  ·  Demi Akarakiri - 3 **3.00**  ·  Ivan Sulev - 3 **3.75**  ·  Jose Ze Pedro - 3 **3.40**  ·  Joseph Liteta - 3 **2.10**  ·  Yanis Massolin - 4 **21.00**  ·  Paul Mendy - 4 **4.33**  ·  Daniel Maldini - 4 **17.00**  ·  Jacopo Fazzini - 4 **7.00**  ·  Alessandro Deiola - 4 **8.00**  ·  Alieu Fadera - 4 **4.33**  ·  Yerry Mina - 4 **11.00**  ·  Alessandro Romano - 4 **6.50**  ·  Paul Mendy - 5 **10.00**  ·  Paul Mendy - 6 **21.00**  ·  Riccardo Ciervo - 1 **1.57**  ·  Riccardo Ciervo - 2 **3.50**  ·  Riccardo Ciervo - 3 **10.00**  ·  Riccardo Ciervo - 4 **26.00**  ·  Martin Vitik - 4 **6.50**  ·  Eivind Helland - 4 **9.00**  ·  Rahim Alhassane - 4 **9.00**  ·  Torbjorn Heggem - 4 **9.00**  ·  Nadir Zortea - 4 **11.00**  ·  Nicolo Casale - 4 **7.00**  ·  Juan Miranda - 4 **15.00**  ·  Oussama El Azzouzi - 4 **15.00**  ·  Martin Vitik - 5 **15.00**  ·  Lewis Ferguson - 5 **9.00**  ·  Tommaso Pobega - 6 **15.00**  ·  Kevin Omoruyi - 4 **5.50**  ·  Nicola Grandu - 4 **19.00**  ·  Raphael Kofler - 3 **5.50**  ·  Joseph Liteta - 4 **3.75**  ·  Adam Obert - 4 **6.50**  ·  Demi Akarakiri - 4 **6.50**  ·  Ivan Sulev - 4 **9.00**  ·  Raphael Kofler - 4 **13.00**  ·  Harry Winks - 4 **17.00**  ·  Jose Ze Pedro - 4 **8.00**  ·  Michel Adopo - 4 **21.00**  ·  Joseph Liteta - 5 **8.00**  ·  Kevin Omoruyi - 5 **13.00**  ·  Adam Obert - 5 **15.00**  ·  Alessandro Romano - 5 **15.00**  ·  Demi Akarakiri - 5 **15.00**  ·  Jacopo Fazzini - 5 **17.00**  ·  Alessandro Deiola - 5 **19.00**  ·  Ivan Sulev - 5 **21.00**  ·  Joseph Liteta - 6 **17.00**  ·  Alieu Fadera - 5 **10.00**  ·  Yerry Mina - 5 **26.00**  ·  Alieu Fadera - 6 **21.00**  ·  Kevin Omoruyi - 6 **26.00**  ·  M'Bala Nzola - 1 **1.10**  ·  M'Bala Nzola - 2 **1.50**  ·  M'Bala Nzola - 3 **2.50**  ·  M'Bala Nzola - 4 **4.50**  ·  M'Bala Nzola - 5 **11.00**  ·  M'Bala Nzola - 6 **21.00**  ·  Mikel Amondarain - 5 **21.00**  ·  Lorenzo De Silvestri - 4 **21.00**  ·  Eivind Helland - 5 **21.00**  ·  Rahim Alhassane - 5 **21.00**  ·  Torbjorn Heggem - 5 **21.00**  ·  Alessandro Sugamele - 1 **1.18**  ·  Roberto Gagliardini - 1 **1.11**  ·  Alessandro Sugamele - 2 **1.83**  ·  Roberto Gagliardini - 2 **1.57**  ·  Alessandro Sugamele - 3 **3.50**  ·  Roberto Gagliardini - 3 **2.62**  ·  Alessandro Sugamele - 4 **8.00**  ·  Alessandro Sugamele - 5 **19.00**  ·  Roberto Gagliardini - 4 **5.50**  ·  Jay Enem - 1 **1.14**  ·  Jay Enem - 2 **1.67**  ·  Jay Enem - 3 **3.00**  ·  Jay Enem - 4 **6.50**  ·  Jay Enem - 5 **15.00**  ·  Roberto Gagliardini - 5 **13.00**  ·  Lewis Ferguson - 6 **19.00**  ·  Marco Libra - 5 **26.00**  ·  Nadir Zortea - 5 **26.00**  ·  Matteo Darmian - 1 **1.28**  ·  Matteo Darmian - 2 **2.20**  ·  Matteo Darmian - 3 **5.00**  ·  Matteo Darmian - 4 **13.00**  ·  Nicolo Casale - 5 **17.00**  ·  Roberto Gagliardini - 6 **26.00**  ·  Tommaso Pobega - 7 **26.00**  ·  Jose Ze Pedro - 5 **19.00**
+- **Goalkeeper Saves:** Elia Caprile - 2 **1.17**  ·  Elia Caprile - 3 **1.53**  ·  Elia Caprile - 4 **2.25**  ·  Elia Caprile - 5 **4.00**  ·  Elia Caprile - 6 **8.00**  ·  Lukasz Skorupski - 1 **1.06**  ·  Lukasz Skorupski - 2 **1.05**  ·  Lukasz Skorupski - 3 **1.30**  ·  Lukasz Skorupski - 4 **1.91**  ·  Lukasz Skorupski - 5 **3.50**  ·  Lukasz Skorupski - 6 **7.00**
+- **Anytime Goal Scorer:** Rahim Alhassane **13.00**  ·  Mikel Amondarain **9.50**  ·  Torbjorn Heggem **17.00**  ·  Martin Vitik **12.00**  ·  Yanis Massolin **5.50**  ·  Joseph Liteta **8.50**  ·  Nicola Grandu **7.00**  ·  M'Bala Nzola **3.40**  ·  Juan Rodriguez **17.00**  ·  Alieu Fadera **7.00**  ·  Giuseppe Aurelio **5.50**  ·  Raphael Kofler **12.00**  ·  Riccardo Ciervo **5.50**  ·  Eivind Helland **13.00**  ·  Nicolo Cambiaghi **5.50**  ·  Nicolo Casale **9.50**  ·  Ivan Sulev **6.50**  ·  Paul Mendy **3.00**  ·  Jose Ze Pedro **13.00**  ·  Marco Libra **7.00**  ·  Demi Akarakiri **8.50**  ·  Lewis Ferguson **7.00**  ·  Kevin Omoruyi **3.50**  ·  Alessandro Sugamele **4.00**  ·  Harry Winks **9.50**  ·  Yukinari Sugawara **8.50**  ·  Jay Enem **3.10**  ·  Tommaso Pobega **7.00**  ·  Artem Dovbyk **3.10**  ·  Daniel Maldini **3.00**  ·  Roberto Gagliardini **9.50**  ·  Arthur Theate **12.00**  ·  Jens Odgaard **4.33**  ·  Juan Miranda **9.50**  ·  Lorenzo De Silvestri **13.00**  ·  Nikola Moro **8.50**  ·  Oussama El Azzouzi **9.50**  ·  Jacopo Fazzini **5.50**  ·  Adam Obert **13.00**  ·  Alessandro Deiola **11.00**  ·  Michel Adopo **9.50**  ·  Nadir Zortea **8.00**  ·  Roberto Piccoli **3.00**  ·  Samuel Mbangula **5.50**  ·  Yerry Mina **7.00**  ·  Matteo Darmian **11.00**  ·  Alessandro Romano **7.00**  ·  Federico Bernardeschi **4.00**
+- **Player to Score or Assist:** Rahim Alhassane **7.00**  ·  Mikel Amondarain **5.50**  ·  Torbjorn Heggem **9.50**  ·  Martin Vitik **6.50**  ·  Yanis Massolin **3.40**  ·  Joseph Liteta **4.33**  ·  Nicola Grandu **3.50**  ·  M'Bala Nzola **2.62**  ·  Juan Rodriguez **11.00**  ·  Alieu Fadera **3.60**  ·  Giuseppe Aurelio **3.40**  ·  Raphael Kofler **8.00**  ·  Riccardo Ciervo **3.00**  ·  Eivind Helland **7.00**  ·  Nicolo Cambiaghi **3.10**  ·  Nicolo Casale **6.00**  ·  Ivan Sulev **4.75**  ·  Paul Mendy **2.60**  ·  Jose Ze Pedro **7.50**  ·  Marco Libra **4.33**  ·  Demi Akarakiri **4.33**  ·  Lewis Ferguson **4.33**  ·  Kevin Omoruyi **2.60**  ·  Alessandro Sugamele **2.75**  ·  Harry Winks **5.00**  ·  Yukinari Sugawara **4.33**  ·  Jay Enem **2.50**  ·  Tommaso Pobega **4.33**  ·  Artem Dovbyk **2.40**  ·  Daniel Maldini **2.50**  ·  Roberto Gagliardini **5.00**  ·  Arthur Theate **6.50**  ·  Jens Odgaard **3.00**  ·  Juan Miranda **3.75**  ·  Lorenzo De Silvestri **6.50**  ·  Nikola Moro **4.00**  ·  Oussama El Azzouzi **5.00**  ·  Jacopo Fazzini **3.25**  ·  Adam Obert **6.00**  ·  Alessandro Deiola **6.00**  ·  Michel Adopo **5.50**  ·  Nadir Zortea **3.75**  ·  Roberto Piccoli **2.40**  ·  Samuel Mbangula **3.40**  ·  Yerry Mina **6.00**  ·  Matteo Darmian **6.00**  ·  Alessandro Romano **3.75**  ·  Federico Bernardeschi **2.60**
 
 ## Estadísticas de equipo
 | | Cagliari (total) | Cagliari en casa | Bologna (total) | Bologna fuera |
@@ -208,36 +210,36 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 36% | 34% | 2.62 | -11% |
-| 1X2: X | 31% | 31% | 31% | 3.00 | -7% |
-| 1X2: 1 | 37% | 33% | 35% | 2.90 | +1% |
-| Doble oportunidad: X2 | 63% | 69% | 66% | 1.36 | -10% |
+| 1X2: 2 | 32% | 38% | 35% | 2.45 | -14% |
+| 1X2: X | 31% | 33% | 32% | 2.90 | -8% |
+| 1X2: 1 | 37% | 29% | 33% | 3.25 | +8% |
+| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
 | Doble oportunidad: 12 | 69% | 69% | 69% | 1.36 | -6% |
-| Doble oportunidad: 1X | 68% | 62% | 65% | 1.53 | -1% |
-| Ambos marcan: No | 60% | 48% | 54% | 1.95 | +5% |
-| Ambos marcan: Sí | 40% | 52% | 46% | 1.80 | -17% |
-| Goles más/menos: Más de 1.5 | 59% | 70% | 65% | 1.36 | -12% |
-| Goles más/menos: Más de 2.5 | 32% | 43% | 38% | 2.20 | -17% |
-| Goles más/menos: Más de 3.5 | 14% | 24% | 19% | 4.00 | -24% |
-| Goles más/menos: Menos de 1.5 | 41% | 30% | 35% | 3.20 | +13% |
-| Goles más/menos: Menos de 2.5 | 68% | 57% | 62% | 1.67 | +4% |
-| Goles más/menos: Menos de 3.5 | 86% | 76% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 57% | 65% | 61% | 1.44 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 21% | 29% | 25% | 3.25 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Doble oportunidad: 1X | 68% | 65% | 66% | 1.44 | -4% |
+| Ambos marcan: No | 60% | 52% | 56% | 1.80 | +1% |
+| Ambos marcan: Sí | 40% | 48% | 44% | 1.95 | -14% |
+| Goles más/menos: Más de 1.5 | 59% | 66% | 63% | 1.44 | -10% |
+| Goles más/menos: Más de 2.5 | 32% | 40% | 36% | 2.38 | -14% |
+| Goles más/menos: Más de 3.5 | 14% | 21% | 18% | 4.50 | -21% |
+| Goles más/menos: Menos de 1.5 | 41% | 34% | 37% | 2.75 | +3% |
+| Goles más/menos: Menos de 2.5 | 68% | 60% | 64% | 1.57 | +0% |
+| Goles más/menos: Menos de 3.5 | 86% | 79% | 82% | 1.20 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 57% | 62% | 60% | 1.50 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 21% | 28% | 24% | 3.40 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 38% | 40% | 2.50 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 72% | 76% | 1.30 | -2% |
 | Goles del local: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles del local: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del local: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
 | Goles del local: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
-| Goles del visitante: Más de 0.5 | 61% | 72% | 67% | 1.30 | -13% |
-| Goles del visitante: Más de 1.5 | 25% | 38% | 31% | 2.50 | -22% |
-| Goles del visitante: Menos de 0.5 | 39% | 28% | 33% | 3.40 | +13% |
-| Goles del visitante: Menos de 1.5 | 75% | 62% | 69% | 1.50 | +3% |
+| Goles del visitante: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
+| Goles del visitante: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
+| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -4% |
 | Córners más/menos: Menos de 8.5 | 42% | 46% | 44% | 2.00 | -11% |
-| 1X2 descanso: 2 | 23% | 30% | 26% | 3.10 | -18% |
-| 1X2 descanso: X | 51% | 45% | 48% | 2.05 | -2% |
+| 1X2 descanso: 2 | 23% | 28% | 26% | 3.25 | -16% |
+| 1X2 descanso: X | 51% | 46% | 48% | 2.00 | -3% |
 | 1X2 descanso: 1 | 26% | 26% | 26% | 3.60 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

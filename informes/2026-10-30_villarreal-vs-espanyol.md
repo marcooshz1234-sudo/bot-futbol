@@ -1,10 +1,10 @@
 # Villarreal – Espanyol
 **LaLiga** · Regular Season - 11 · 30/10/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 02:56_
+_Actualizadas: 24/10 14:45_
 
 - **1X2:** 1 **1.57**  ·  X **4.10**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.30**
