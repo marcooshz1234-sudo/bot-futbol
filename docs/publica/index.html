@@ -8,8 +8,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Combilocas">
-<link rel="apple-touch-icon" href="../icono-180.png">
-<link rel="icon" href="../icono-180.png">
+<link rel="apple-touch-icon" href="../icono-180.png?v=cl2">
+<link rel="icon" href="../icono-180.png?v=cl2">
 <link rel="manifest" href="manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Condensed:wght@400;500;700&display=swap" rel="stylesheet">
@@ -19,6 +19,7 @@
 html{background:#1b6e34}
 body{margin:0;color:var(--txt);font:16px/1.4 var(--f);background:repeating-linear-gradient(90deg,#1f7a3a 0 34px,#1b6e34 34px 68px) fixed;min-height:100vh;padding:env(safe-area-inset-top) 0 calc(74px + env(safe-area-inset-bottom))}
 header{position:sticky;top:0;z-index:5;background:rgba(14,58,30,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding:12px 16px 10px;border-bottom:3px solid var(--warn)}
+.marca-logo{width:46px;height:46px;object-fit:contain;border-radius:50%;flex-shrink:0}
 header h1{margin:0;font:400 26px/1 var(--t);letter-spacing:1.5px;color:#fff}
 header small{color:#cfe8d6;font-size:12px}
 main{padding:12px 14px;max-width:760px;margin:0 auto}
@@ -72,7 +73,7 @@ details summary{cursor:pointer}
 </style>
 </head>
 <body>
-<header><div class="row"><h1>COMBILOCAS</h1><span class="sp"></span><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div><small id="act">Cargando…</small></header>
+<header><div class="row"><img class="marca-logo" src="../logo.png?v=cl2" alt="Logo Combilocas"><h1>COMBILOCAS</h1><span class="sp"></span><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div><small id="act">Cargando…</small></header>
 <main id="vista"></main>
 <nav id="nav"></nav>
 <div class="toast" id="toast"></div>
@@ -115,11 +116,11 @@ function vHoy(){
   const d = D.dias[dia] || {picks:[],combis:{}};
   let h = t;
   if(D.alertas.length){ h += `<h2>🚨 Alertas de cuota</h2>` + D.alertas.map(a => `<div class="card"><div class="row"><b class="sp">${esc(a.texto)}</b><span class="chip warn">+${a.sube}%</span></div><div class="row mut" style="margin-top:4px"><span class="sp">${esc(a.partido)} · ${a.fecha.slice(11)} · se cumplió ${a.frecuencia}%</span><span>${n2(a.antes)} → <b class="cuota">${n2(a.cuota)}</b></span></div></div>`).join("") }
-  const vivos = D.partidos.filter(p => p.fecha.slice(0,10)===D.hoy && ["1H","2H","HT","ET","P","BT","LIVE"].includes(p.estado));
+  const vivos = D.partidos.filter(esVivo);
   if(dia===D.hoy && vivos.length){ h += `<h2>🔴 En directo</h2>` + vivos.map(tarjetaPartido).join("") }
   const nombres = {segura:"🔒 Combi segura", cuota_3:"💥 Cuota 3", loca:"🤪 Combi loca"};
   const cs = Object.entries(d.combis);
-  h += `<h2>Combis</h2>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
+  h += `<h2>Combis del análisis actual</h2><div class="mut" style="margin-bottom:10px">Pueden cambiar con las cuotas. Las publicadas se siguen en Partidos.</div>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
   const e = D.escalera.actual;
   if(e){ const hecho = e.escalon-1; h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div><div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<=hecho?"var(--ok)":i===e.escalon?"var(--warn)":""}"></div>`).join("")}</div>${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
   h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span></div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
@@ -130,7 +131,7 @@ function vHoy(){
 /* ---------------- PARTIDOS ---------------- */
 function forma(f){ return `<span class="forma">${[...(f||"")].map(x=>`<i class="f${x}">${x}</i>`).join("")}</span>` }
 function tarjetaPartido(p){
-  const vivo = ["1H","2H","HT","ET","P","BT","LIVE"].includes(p.estado), fin = ["FT","AET","PEN"].includes(p.estado);
+  const vivo = esVivo(p), fin = esFinal(p);
   const marcador = (vivo||fin) && p.goles && p.goles[0]!=null ? `${p.goles[0]} - ${p.goles[1]}` : p.fecha.slice(11);
   const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(x=>x.partido_id===p.id);
   const f = p.ficha;
@@ -152,17 +153,17 @@ function tarjetaPartido(p){
 }
 function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
 function vPartidos(){
-  const [modo, t] = subTabs("pmodo", [["lista","Partidos"],["directo","🔴 Picks en directo"],["tabla","Clasificación"],["patrones","Patrones"]], "lista");
+  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["tabla","Clasificación"],["patrones","Patrones"]], "directo");
   let h = t;
   if(modo==="lista"){
     const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
     const q = (sub.q||"").toLowerCase();
     h += t2 + `<input placeholder="Buscar equipo… (Betis, Madrid)" value="${esc(sub.q||"")}" oninput="sub.q=this.value;clearTimeout(window._b);window._b=setTimeout(()=>{pintar();const i=$('main input');i.focus();i.setSelectionRange(99,99)},250)" style="margin-bottom:10px">`;
-    const lista = D.partidos.filter(p => (q ? true : p.fecha.slice(0,10)===dia) && (!q || (p.local+" "+p.visitante).toLowerCase().includes(q)));
+    const lista = D.partidos.filter(p => !esFinal(p) && !esVivo(p) && (q ? true : p.fecha.slice(0,10)===dia) && (!q || (p.local+" "+p.visitante).toLowerCase().includes(q)));
     if(q){ const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>p.partido.toLowerCase().includes(q)); if(pk.length) h += `<h2>Picks de "${esc(sub.q)}"</h2><div class="card">${legs(pk)}</div>`; const pt = D.patrones.filter(p=>p.equipo.toLowerCase().includes(q)); if(pt.length) h += pt.map(p=>`<div class="card">📊 ${esc(p.texto)}</div>`).join("") }
     h += lista.length ? lista.map(tarjetaPartido).join("") : `<div class="empty">No hay partidos</div>`;
-  } else if(modo==="directo"){
-    h += vDirecto();
+  } else if(modo==="directo" || modo==="terminados"){
+    h += vDirecto(modo);
   } else if(modo==="tabla"){
     const ligas = Object.keys(D.clasificaciones); const [lg, t3] = subTabs("liga", ligas.map(l=>[l,l]), ligas[0]);
     const tb = D.clasificaciones[lg]||[];
@@ -179,37 +180,40 @@ function icono(p){
   if(p.estado==="va_mal") return `<span class="chip va_mal">Falta</span>`;
   return `<span style="font-size:20px">⏳</span>`;
 }
-function vDirecto(){
-  const pk = (D.dias[D.hoy]||{picks:[]}).picks;
-  const porPartido = {};
-  pk.forEach(p => (porPartido[p.partido_id] = porPartido[p.partido_id] || []).push(p));
-  const partidos = Object.keys(porPartido).map(id => ({p: D.partidos.find(x=>x.id==id) || {id, fecha: porPartido[id][0].fecha, local: porPartido[id][0].partido.split(" – ")[0], visitante: porPartido[id][0].partido.split(" – ")[1], estado:"NS", goles:[null,null]}, picks: porPartido[id]}));
-  if(!partidos.length && !(D.publicados_hoy||[]).length) return `<div class="empty">Hoy no hay picks</div>`;
-  const vivo = x => ["1H","2H","HT","ET","P","BT","LIVE"].includes(x.p.estado), fin = x => ["FT","AET","PEN"].includes(x.p.estado);
-  const orden = x => vivo(x) ? 0 : fin(x) ? 2 : 1;
-  partidos.sort((a,b) => orden(a)-orden(b) || a.p.fecha.localeCompare(b.p.fecha));
-  const ok = pk.filter(p => p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)).length, ko = pk.filter(p=>p.estado==="rojo").length;
-  const pub = D.publicados_hoy || [];
-  let h = "";
+const ESTADOS_VIVOS = new Set(["1H","2H","HT","ET","P","BT","LIVE","INT"]);
+const ESTADOS_FINALES = new Set(["FT","AET","PEN"]);
+function esFinal(p){ return ESTADOS_FINALES.has(p.estado) }
+function esVivo(p){
+  if(!ESTADOS_VIVOS.has(p.estado)) return false;
+  const referencia = new Date(D.generado.replace(" ","T"));
+  if(p.actualizado) return referencia - new Date(p.actualizado) <= 20*60*1000;
+  return p.fecha.slice(0,10)===D.hoy && referencia-new Date(p.fecha)<=4*60*60*1000;
+}
+function vDirecto(modo="directo"){
+  const finalizados = modo==="terminados";
+  const partidos = D.partidos.filter(finalizados ? esFinal : esVivo)
+    .sort((a,b)=>finalizados ? b.fecha.localeCompare(a.fecha) : a.fecha.localeCompare(b.fecha));
+  const ids = new Set(partidos.map(p=>p.id));
+  const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>ids.has(p.partido_id));
+  const pub = (D.publicados_hoy||[]).filter(p=>p.picks.some(x=>ids.has(x.partido_id)));
+  let h = `<h2>${finalizados?"Partidos terminados":"🔴 Partidos en directo"}</h2>`;
+  if(!partidos.length) return h+`<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
   if(pub.length){
-    const vivoP = e => ["1H","2H","HT","ET","P","BT","LIVE"].includes(e);
-    h += `<h2>📣 Publicados</h2>` + pub.map(p => {
-      const okN = p.picks.filter(x => x.estado==="verde" || (x.estado==="va_bien" && x.definitivo)).length;
+    h += `<h2>📣 Combinadas publicadas</h2>` + pub.map(p => {
+      const okN = p.picks.filter(x=>x.estado==="verde").length;
       return `<div class="card" style="${p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
-        <div class="row"><b class="sp">${esc(p.titulo)}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?`<span style="font-size:22px">✅</span>`:p.estado==="rojo"?`<span style="font-size:22px">❌</span>`:`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
-        ${p.picks.map(x => `<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${x.partido?esc(x.partido):"Partido sin datos"}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}${vivoP(x.estado_partido)?` · ${x.estado_partido==="HT"?"descanso":(x.minuto||"")+"'"}`:""}</span></div><span class="cuota" style="font-size:16px">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`}).join("");
-    h += `<h2>🤖 Todos los picks del bot</h2>`;
+        <div class="row"><b class="sp">${esc(p.titulo)}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
+        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span></div><span class="cuota">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`;
+    }).join("");
   }
-  h += `<div class="grid2" style="margin-bottom:10px"><div class="stat"><span class="mut">Ya cumplidos</span><b style="color:var(--ok)">${ok} ✅</b><span class="mut">de ${pk.length} picks de hoy</span></div><div class="stat"><span class="mut">Fallados</span><b style="color:var(--ko)">${ko} ❌</b><span class="mut">${pk.length-ok-ko} por decidir</span></div></div>`;
-  let grupo = null;
-  partidos.forEach(x => {
-    const g = vivo(x) ? "🔴 En juego" : fin(x) ? "Terminados" : "Por empezar";
-    if(g !== grupo){ h += `<h2>${g}</h2>`; grupo = g }
-    const m = x.p, marc = (vivo(x)||fin(x)) && m.goles && m.goles[0]!=null ? `${m.goles[0]} - ${m.goles[1]}` : m.fecha.slice(11,16);
-    h += `<div class="card"><div class="match" style="margin-bottom:6px">${m.logo_l?`<img src="${esc(m.logo_l)}" alt="">`:""}<b class="sp" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(m.local)} – ${esc(m.visitante)}</b><span class="score" style="font-size:19px">${marc}</span>${vivo(x)?`<span class="chip live">● ${m.estado==="HT"?"Desc.":(m.minuto||"")+"'"}</span>`:fin(x)?`<span class="chip">Final</span>`:""}</div>
-      ${x.picks.map(p => `<div class="leg"><span class="sp">${esc(p.texto)}</span><span class="cuota" style="font-size:16px">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
+  const ok=pk.filter(p=>p.estado==="verde").length, ko=pk.filter(p=>p.estado==="rojo").length;
+  if(pk.length) h += `<div class="grid2"><div class="stat"><span class="mut">Acertados</span><b>${ok} ✅</b></div><div class="stat"><span class="mut">Fallados</span><b>${ko} ❌</b></div></div>`;
+  partidos.forEach(m=>{
+    h += tarjetaPartido(m);
+    const selecciones=pk.filter(p=>p.partido_id===m.id);
+    if(selecciones.length) h+=`<div class="card">${selecciones.map(p=>`<div class="leg"><span class="sp">${esc(p.texto)}</span><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
   });
-  return h + `<div class="mut" style="margin:6px 4px">✅ cumplido · ❌ fallado · ⏳ por empezar o sin decidir. Se actualiza cada ~10 min.</div>`;
+  return h+`<div class="mut">✅ cumplido · ❌ fallado · ⏳ pendiente o sin datos. Última actualización: ${esc(D.generado)}.</div>`;
 }
 function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); return f.toISOString().slice(0,10) }
 
