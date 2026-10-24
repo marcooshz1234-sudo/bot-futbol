@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24 14:53",
+ "actualizado": "2026-10-24 15:04",
  "redes": {
   "instagram": {
    "seguidores": null,
@@ -7,11 +7,11 @@
    "serie": []
   },
   "threads": {
-   "seguidores": 867,
-   "hoy": 31,
+   "seguidores": 868,
+   "hoy": 32,
    "serie": [
     836,
-    867
+    868
    ]
   },
   "facebook": {
@@ -23,11 +23,11 @@
    ]
   },
   "telegram": {
-   "seguidores": 76,
-   "hoy": 1,
+   "seguidores": 75,
+   "hoy": 0,
    "serie": [
     75,
-    76
+    75
    ]
   }
  },
@@ -35,9 +35,9 @@
  "total_hoy": 32,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "16:00",
   "dia": "2026-10-24",
-  "titulo": "Valencia  villarreal"
+  "titulo": "Chelsea  tottenham"
  },
  "ayer": {
   "aciertos": 8,
@@ -57,9 +57,9 @@
    "telegram": 75
   },
   "2026-10-24": {
-   "threads": 867,
+   "threads": 868,
    "facebook": 0,
-   "telegram": 76
+   "telegram": 75
   }
  },
  "tipos_instagram": {}
