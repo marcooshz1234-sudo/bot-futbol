@@ -1,11 +1,15 @@
 {
   "ids": [
+    "2026-10-25-segura",
     "2026-10-25-loca",
-    "2026-10-25-combi-freiburg-bayern",
-    "2026-10-25-combi-barca-madrid",
-    "2026-10-26-sevilla-osasuna"
+    "2026-10-25-picks-hoy"
   ],
-  "preferencia": "Solo se excluye sin empate / doble oportunidad 12; se permiten ganador, empate, 1X, X2 y combinadas.",
   "fecha": "2026-10-25",
-  "revision": "Sustituciones: córners Freiburg 3+, Barça menos de 7, Leverkusen 2+ goles; Sevilla solo over 1,5."
+  "revision": "Segunda revisión: combi estadística cuota 4,36; avisos, titularidad y alternativas sin duplicar escalera",
+  "objetivo_combis_partido": {
+    "separadas": true,
+    "min": 9,
+    "max": 11,
+    "precio": "Pendiente de verificar en el constructor"
+  }
 }
