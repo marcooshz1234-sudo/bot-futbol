@@ -2,10 +2,11 @@
  "2026-10-24-escalera": {
   "redes": {
    "threads": "18035298020666668",
-   "facebook": "1479689078551520_122112127341514330"
+   "facebook": "1479689078551520_122112127341514330",
+   "instagram": null
   },
   "errores_redes": {
-   "instagram": "400: Invalid OAuth access token - Cannot parse access token"
+   "instagram": "caducado: no salió a tiempo"
   },
   "facebook_tipo": "foto"
  }
