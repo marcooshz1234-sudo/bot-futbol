@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/revisar_contenido.yml', 'publicaciones/revision_2526.json']
+    paths: ['.github/workflows/revisar_contenido.yml', 'publicaciones/revision_2526.json', 'imagenes.py']
 permissions:
   contents: write
 concurrency:
