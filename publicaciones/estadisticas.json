@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24 22:53",
+ "actualizado": "2026-10-24 23:04",
  "redes": {
   "instagram": {
    "seguidores": null,
@@ -21,21 +21,21 @@
    ]
   },
   "telegram": {
-   "seguidores": 75,
-   "hoy": 0,
+   "seguidores": 74,
+   "hoy": -1,
    "serie": [
     75,
-    75
+    74
    ]
   }
  },
- "total": 75,
- "total_hoy": 0,
+ "total": 74,
+ "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-10-24",
-  "titulo": "9 picks para mañana (domingo)"
+  "hora": "11:00",
+  "dia": "2026-10-25",
+  "titulo": "Combinada cuota 4 del domingo"
  },
  "ayer": {
   "aciertos": 9,
@@ -55,7 +55,7 @@
    "telegram": 75
   },
   "2026-10-24": {
-   "telegram": 75
+   "telegram": 74
   }
  },
  "tipos_instagram": {}
