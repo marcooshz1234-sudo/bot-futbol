@@ -327,10 +327,13 @@
     "sin_instagram": true,
     "enviado": "2026-10-24T23:31",
     "mensaje_id": 84,
-    "redes": {},
+    "redes": {
+      "threads": null,
+      "facebook": null
+    },
     "errores_redes": {
-      "threads": "531 caracteres (máx. 500)",
-      "facebook": "400: API access blocked."
+      "threads": "caducado: no salió a tiempo",
+      "facebook": "caducado: no salió a tiempo"
     }
   }
 ]
