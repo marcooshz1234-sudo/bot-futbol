@@ -179,6 +179,10 @@ def main():
         print("Sin datos/picks.json")
         return
     enviados = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+    estados_redes = leer(RAIZ / "publicaciones" / "enviados_redes.json", {}) or {}
+    publicados = {pid for pid, estado in enviados.items() if estado.get("enviado")}
+    publicados.update(pid for pid, estado in estados_redes.items()
+                      if any((estado.get("redes") or {}).values()))
     anteriores = {p["id"]: p for p in (leer(AUTO, []) or [])}
     ahora = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
 
@@ -195,20 +199,20 @@ def main():
             if b:
                 todos.append(b)
         for p in todos:
-            if p["id"] in enviados:          # ya publicado: se queda como salió
+            if p["id"] in publicados:        # publicado en cualquier destino: conservar texto y selecciones
                 continue
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse
                 continue
             nuevos[p["id"]] = p
     # conservar los ya publicados para que quede registro
     for pid, p in anteriores.items():
-        if pid in enviados:
+        if pid in publicados:
             nuevos.setdefault(pid, p)
 
     lista_final = sorted(nuevos.values(), key=lambda p: p["fecha"])
     AUTO.parent.mkdir(exist_ok=True)
     AUTO.write_text(json.dumps(lista_final, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Posts automáticos en cola: {sum(1 for p in lista_final if p['id'] not in enviados)}")
+    print(f"Posts automáticos en cola: {sum(1 for p in lista_final if p['id'] not in publicados)}")
 
 
 if __name__ == "__main__":

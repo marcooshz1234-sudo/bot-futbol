@@ -144,8 +144,6 @@ def main():
             p["caducada"] = "cancelado"
             cambios += 1
             continue
-        if p["id"] in control.get("textos", {}):
-            p["texto"] = control["textos"][p["id"]]
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
         if cuando > ahora:
             continue
@@ -154,7 +152,7 @@ def main():
             cambios += 1
             print(f"Caducada (no se publica): {p['id']}")
             continue
-        texto = preparar_texto(p["texto"])
+        texto = preparar_texto(control.get("textos", {}).get(p["id"], p["texto"]))
         foto = p.get("foto")
         try:
             if foto:

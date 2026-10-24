@@ -14,7 +14,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 
 from bot import COMPETICIONES, DATOS, MADRID, PARTIDOS, RAIZ, leer
-from picks import evaluador, texto_pick
+from picks import evaluar_pick, texto_pick
 from plantillas import atractivo
 from publicados import evaluar, picks_de_post
 
@@ -23,6 +23,40 @@ CUOTAS_INICIO = DATOS / "cuotas_inicio.json"
 LIGAS = [140, 39, 135, 78, 61]
 FT = {"FT", "AET", "PEN"}
 EN_JUEGO = {"1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT"}
+
+
+def datos_partido(fid):
+    final = leer(PARTIDOS / f"{fid}.json")
+    if final and final.get("estado") in FT:
+        return final
+    return leer(DATOS / "en_directo" / f"{fid}.json") or final
+
+
+def estado_seleccion(p, d, registro=None):
+    if registro and registro.get("acierto") is not None:
+        return "verde" if registro["acierto"] else "rojo"
+    if not d or d.get("estado") not in FT | EN_JUEGO:
+        return "pendiente"
+    bien = evaluar_pick(p, d)
+    if bien is None:
+        return "pendiente" if d.get("estado") in FT else "en_juego"
+    if d.get("estado") in FT:
+        return "verde" if bien else "rojo"
+    mercado, opcion = p.get("mercado", ""), p.get("opcion", "")
+    if ("First Half" in mercado or "(1st Half)" in mercado) and d.get("estado") != "1H":
+        return "verde" if bien else "rojo"
+    if mercado == "To Win Either Half" and bien:
+        descanso = d.get("descanso") or [None, None]
+        if None not in descanso:
+            a, b = descanso if opcion == "Home" else descanso[::-1]
+            if a > b:
+                return "verde"
+    acumulativo = (opcion.startswith("Over ") or opcion == "Yes" or p.get("tipo") == "jugador"
+                   or mercado == "To Score In Both Halves By Teams")
+    # Un ganador provisional no es un acierto. Los mercados acumulativos sí pueden cumplirse antes del final.
+    if bien and acumulativo:
+        return "verde"
+    return "va_bien" if bien else "va_mal"
 
 
 def hora(iso):
@@ -166,7 +200,9 @@ def copia_publica():
     pub = RAIZ / "docs" / "publica"
     pub.mkdir(parents=True, exist_ok=True)
     html = (RAIZ / "docs" / "index.html").read_text(encoding="utf-8")
-    html = html.replace('href="icono-180.png"', 'href="../icono-180.png"').replace('fetch("datos.json', 'fetch("../datos.json')
+    html = (html.replace('href="icono-180.png', 'href="../icono-180.png')
+            .replace('src="logo.png', 'src="../logo.png')
+            .replace('fetch("datos.json', 'fetch("../datos.json'))
     (pub / "index.html").write_text(html, encoding="utf-8")
     man = json.loads((RAIZ / "docs" / "manifest.json").read_text(encoding="utf-8"))
     man.update(start_url="./", icons=[dict(i, src="../" + i["src"]) for i in man["icons"]])
@@ -195,6 +231,9 @@ def main():
                 continue
             fid = f["fixture"]["id"]
             vivo = directo.get(str(fid)) or {}
+            final = leer(PARTIDOS / f"{fid}.json")
+            if final and final.get("estado") in FT:
+                vivo = dict(vivo, estado=final["estado"], goles=final["goles"])
             partidos.append({
                 "id": fid, "fecha": h.strftime("%Y-%m-%dT%H:%M"), "liga": COMPETICIONES[liga],
                 "local": f["teams"]["home"]["name"], "visitante": f["teams"]["away"]["name"],
@@ -202,6 +241,7 @@ def main():
                 "estado": vivo.get("estado") or f["fixture"]["status"]["short"],
                 "minuto": vivo.get("minuto") or f["fixture"]["status"].get("elapsed"),
                 "goles": vivo.get("goles") or [f["goals"]["home"], f["goals"]["away"]],
+                "actualizado": vivo.get("visto"),
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
                     "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist)}})
@@ -210,22 +250,7 @@ def main():
 
     # --- picks y su estado (pendiente / en juego bien-mal / verde / rojo)
     def estado_pick(p):
-        r = reg.get(clave(p), {})
-        if r.get("acierto") is not None:
-            return "verde" if r["acierto"] else "rojo"
-        vivo = (DATOS / "en_directo" / f"{p['partido_id']}.json")
-        if vivo.exists():
-            d = leer(vivo)
-            f = evaluador(p["mercado"], p["opcion"], True)
-            if d and f:
-                try:
-                    bien = f(d, d["local"]["id"])
-                    if d.get("estado") in FT:
-                        return "verde" if bien else "rojo"
-                    return "va_bien" if bien else "va_mal"
-                except Exception:
-                    return "en_juego"
-        return "pendiente"
+        return estado_seleccion(p, datos_partido(p["partido_id"]), reg.get(clave(p)))
 
     def ligero(p):
         return {"id": clave(p), "partido_id": p["partido_id"], "fecha": p["fecha"], "competicion": p.get("competicion"),
@@ -235,7 +260,10 @@ def main():
                 "definitivo": p["opcion"].startswith("Over") or p["opcion"] == "Yes" or p.get("tipo") == "jugador"}
 
     dias = {}
-    for dia, d in (picks.get("dias") or {}).items():
+    dias_picks = dict(picks.get("dias") or {})
+    for dia in (ayer, hoy, manana):
+        dias_picks.setdefault(dia, {})  # Los picks ya empezados desaparecen del selector, pero siguen en el registro.
+    for dia, d in dias_picks.items():
         if dia not in (ayer, hoy, manana):
             continue
         combis = {}
@@ -361,24 +389,25 @@ def main():
     for x in (leer(DATOS / "fixtures_dia.json", {}) or {}).get("partidos", []):
         if x["id"] not in ya:
             conocidos.append(dict(x, fecha=hora(x["fecha"]).strftime("%Y-%m-%dT%H:%M")))
-    de_hoy = [x for x in conocidos if x["fecha"][:10] == hoy]
     publicados_hoy = []
     desde36 = (ahora - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
     for p in todos:
         if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
             continue
-        legs = picks_de_post(p, de_hoy)
+        legs = picks_de_post(p, conocidos)
         if not any(l["partido_id"] for l in legs):
             continue
         filas = []
         for l in legs:
             d = None
             if l["partido_id"]:
-                d = leer(DATOS / "en_directo" / f"{l['partido_id']}.json") or leer(PARTIDOS / f"{l['partido_id']}.json")
+                d = datos_partido(l['partido_id'])
             e = evaluar(l["spec"], d) if l["partido_id"] else "sin_datos"
             if e == "sin_datos" and not d and l["partido_id"]:
                 e = "pendiente"
             vivo = directo.get(str(l["partido_id"])) or {}
+            if d:
+                vivo = dict(vivo, goles=d.get("goles"), estado=d.get("estado"))
             filas.append({"texto": l["texto"], "cuota": l["cuota"], "partido": l["partido"], "partido_id": l["partido_id"],
                           "estado": e, "definitivo": e in ("verde", "rojo"),
                           "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado")})
