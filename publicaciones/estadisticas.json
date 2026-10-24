@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24 15:49",
+ "actualizado": "2026-10-24 16:00",
  "redes": {
   "instagram": {
    "seguidores": null,
@@ -7,11 +7,11 @@
    "serie": []
   },
   "threads": {
-   "seguidores": 874,
-   "hoy": 38,
+   "seguidores": 876,
+   "hoy": 40,
    "serie": [
     836,
-    874
+    876
    ]
   },
   "facebook": {
@@ -31,13 +31,13 @@
    ]
   }
  },
- "total": 949,
- "total_hoy": 38,
+ "total": 951,
+ "total_hoy": 40,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "16:45",
   "dia": "2026-10-24",
-  "titulo": "Chelsea  tottenham"
+  "titulo": "Dortmund  frankfurt"
  },
  "ayer": {
   "aciertos": 8,
@@ -57,7 +57,7 @@
    "telegram": 75
   },
   "2026-10-24": {
-   "threads": 874,
+   "threads": 876,
    "facebook": 0,
    "telegram": 75
   }
