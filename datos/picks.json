@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-24 20:39",
+ "generado": "2026-10-25 00:10",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,150 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-10-24": {
-   "picks": [
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.28,
-     "frecuencia": 0.929,
-     "ventaja": 0.147,
-     "detalle": "Lazio 7/7 · Parma 6/7"
-    },
-    {
-     "partido_id": 1552795,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lens",
-     "visitante": "Paris FC",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Lens–Paris FC",
-     "cuota": 1.28,
-     "frecuencia": 0.824,
-     "ventaja": 0.042,
-     "detalle": "Lens 9/10 · Paris FC 5/7"
-    },
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.48,
-     "frecuencia": 0.786,
-     "ventaja": 0.11,
-     "detalle": "Lazio 6/7 · Parma 5/7"
-    },
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Lazio–Parma",
-     "cuota": 1.3,
-     "frecuencia": 0.786,
-     "ventaja": 0.016,
-     "detalle": "Lazio 5/7 · Parma 6/7"
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1550162,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Parma",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.28,
-     "frecuencia": 0.929,
-     "ventaja": 0.147,
-     "detalle": "Lazio 7/7 · Parma 6/7"
-    },
-    {
-     "partido_id": 1552795,
-     "fecha": "2026-10-24T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lens",
-     "visitante": "Paris FC",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Lens–Paris FC",
-     "cuota": 1.28,
-     "frecuencia": 0.824,
-     "ventaja": 0.042,
-     "detalle": "Lens 9/10 · Paris FC 5/7"
-    }
-   ],
-   "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1550162,
-       "fecha": "2026-10-24T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Parma",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Lazio gana alguna de las dos partes",
-       "cuota": 1.28,
-       "frecuencia": 0.929,
-       "ventaja": 0.147,
-       "detalle": "Lazio 7/7 · Parma 6/7"
-      },
-      {
-       "partido_id": 1552795,
-       "fecha": "2026-10-24T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lens",
-       "visitante": "Paris FC",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Lens–Paris FC",
-       "cuota": 1.28,
-       "frecuencia": 0.824,
-       "ventaja": 0.042,
-       "detalle": "Lens 9/10 · Paris FC 5/7"
-      }
-     ],
-     "cuota": 1.64
-    },
-    "cuota_3": null,
-    "loca": null
-   },
-   "combis_partido": []
-  },
   "2026-10-25": {
    "picks": [
     {
@@ -196,22 +52,6 @@
      "detalle": "Dilane Bakwa 5/5"
     },
     {
-     "partido_id": 1575197,
-     "fecha": "2026-10-25T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "1899 Hoffenheim",
-     "visitante": "Bayer Leverkusen",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en 1899 Hoffenheim–Bayer Leverkusen",
-     "cuota": 1.25,
-     "frecuencia": 0.944,
-     "ventaja": 0.144,
-     "detalle": "1899 Hoffenheim 9/9 · Bayer Leverkusen 8/9"
-    },
-    {
      "partido_id": 1550166,
      "fecha": "2026-10-25T20:45",
      "competicion": "Serie A",
@@ -242,22 +82,6 @@
      "frecuencia": 0.941,
      "ventaja": 0.16,
      "detalle": "Sunderland 10/10 · Leeds 6/7"
-    },
-    {
-     "partido_id": 1550160,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Venezia",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Genoa–Venezia",
-     "cuota": 1.3,
-     "frecuencia": 0.929,
-     "ventaja": 0.159,
-     "detalle": "Genoa 6/7 · Venezia 7/7"
     },
     {
      "partido_id": 1557445,
@@ -516,22 +340,6 @@
      "detalle": "Monaco (en contra) 7/10 · Lille 9/10"
     },
     {
-     "partido_id": 1552797,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Monaco",
-     "visitante": "Lille",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Monaco–Lille",
-     "cuota": 1.3,
-     "frecuencia": 0.8,
-     "ventaja": 0.031,
-     "detalle": "Monaco 8/10 · Lille 8/10"
-    },
-    {
      "partido_id": 1557445,
      "fecha": "2026-10-25T15:00",
      "competicion": "Premier",
@@ -562,22 +370,6 @@
      "frecuencia": 0.786,
      "ventaja": 0.208,
      "detalle": "Auxerre 6/7 · Le Mans 5/7"
-    },
-    {
-     "partido_id": 1552792,
-     "fecha": "2026-10-25T17:15",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Angers",
-     "visitante": "Lorient",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Angers–Lorient",
-     "cuota": 1.33,
-     "frecuencia": 0.786,
-     "ventaja": 0.034,
-     "detalle": "Angers 6/7 · Lorient 5/7"
     },
     {
      "partido_id": 1552792,
@@ -768,22 +560,6 @@
      "detalle": "Dilane Bakwa 5/5"
     },
     {
-     "partido_id": 1575197,
-     "fecha": "2026-10-25T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "1899 Hoffenheim",
-     "visitante": "Bayer Leverkusen",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en 1899 Hoffenheim–Bayer Leverkusen",
-     "cuota": 1.25,
-     "frecuencia": 0.944,
-     "ventaja": 0.144,
-     "detalle": "1899 Hoffenheim 9/9 · Bayer Leverkusen 8/9"
-    },
-    {
      "partido_id": 1550166,
      "fecha": "2026-10-25T20:45",
      "competicion": "Serie A",
@@ -814,22 +590,6 @@
      "frecuencia": 0.941,
      "ventaja": 0.16,
      "detalle": "Sunderland 10/10 · Leeds 6/7"
-    },
-    {
-     "partido_id": 1550160,
-     "fecha": "2026-10-25T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Venezia",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Genoa–Venezia",
-     "cuota": 1.3,
-     "frecuencia": 0.929,
-     "ventaja": 0.159,
-     "detalle": "Genoa 6/7 · Venezia 7/7"
     },
     {
      "partido_id": 1557445,
@@ -912,6 +672,22 @@
      "detalle": "Toulouse (en contra) 5/7 · Estac Troyes 7/7"
     },
     {
+     "partido_id": 1550160,
+     "fecha": "2026-10-25T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Genoa",
+     "visitante": "Venezia",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Genoa–Venezia",
+     "cuota": 1.3,
+     "frecuencia": 0.857,
+     "ventaja": 0.088,
+     "detalle": "Genoa 6/7 · Venezia 6/7"
+    },
+    {
      "partido_id": 1550161,
      "fecha": "2026-10-25T12:30",
      "competicion": "Serie A",
@@ -950,14 +726,14 @@
      "liga_id": 61,
      "local": "Angers",
      "visitante": "Lorient",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Angers–Lorient",
-     "cuota": 1.33,
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Lorient marca",
+     "cuota": 1.28,
      "frecuencia": 0.786,
-     "ventaja": 0.034,
-     "detalle": "Angers 6/7 · Lorient 5/7"
+     "ventaja": 0.004,
+     "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
     },
     {
      "partido_id": 1570427,
@@ -1001,20 +777,20 @@
        "detalle": "Maximilian Eggestein 10/10"
       },
       {
-       "partido_id": 1575197,
-       "fecha": "2026-10-25T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "1899 Hoffenheim",
-       "visitante": "Bayer Leverkusen",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en 1899 Hoffenheim–Bayer Leverkusen",
+       "partido_id": 1550163,
+       "fecha": "2026-10-25T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Lecce",
+       "visitante": "Juventus",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Lecce–Juventus",
        "cuota": 1.25,
-       "frecuencia": 0.944,
-       "ventaja": 0.144,
-       "detalle": "1899 Hoffenheim 9/9 · Bayer Leverkusen 8/9"
+       "frecuencia": 0.882,
+       "ventaja": 0.082,
+       "detalle": "Lecce 6/7 · Juventus 9/10"
       }
      ],
      "cuota": 1.75
@@ -1059,22 +835,6 @@
        "detalle": "Udinese 6/7 · AC Milan 10/10"
       },
       {
-       "partido_id": 1550160,
-       "fecha": "2026-10-25T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "Venezia",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Genoa–Venezia",
-       "cuota": 1.3,
-       "frecuencia": 0.929,
-       "ventaja": 0.159,
-       "detalle": "Genoa 6/7 · Venezia 7/7"
-      },
-      {
        "partido_id": 1552799,
        "fecha": "2026-10-25T17:15",
        "competicion": "Ligue 1",
@@ -1089,12 +849,7 @@
        "frecuencia": 0.857,
        "ventaja": 0.24,
        "detalle": "Toulouse (en contra) 5/7 · Estac Troyes 7/7"
-      }
-     ],
-     "cuota": 3.37
-    },
-    "loca": {
-     "picks": [
+      },
       {
        "partido_id": 1557446,
        "fecha": "2026-10-25T17:30",
@@ -1102,114 +857,19 @@
        "liga_id": 39,
        "local": "Sunderland",
        "visitante": "Leeds",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 2ª parte del Sunderland–Leeds",
-       "cuota": 1.28,
-       "frecuencia": 0.941,
-       "ventaja": 0.16,
-       "detalle": "Sunderland 10/10 · Leeds 6/7"
-      },
-      {
-       "partido_id": 1557445,
-       "fecha": "2026-10-25T15:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester United",
-       "visitante": "Bournemouth",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Bournemouth marca",
-       "cuota": 1.28,
-       "frecuencia": 0.9,
-       "ventaja": 0.119,
-       "detalle": "Manchester United (en contra) 9/10 · Bournemouth 9/10"
-      },
-      {
-       "partido_id": 1575198,
-       "fecha": "2026-10-25T17:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SC Freiburg",
-       "visitante": "Bayern München",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "goles",
-       "texto": "Más de 2,5 goles en SC Freiburg–Bayern München",
-       "cuota": 1.25,
-       "frecuencia": 0.895,
-       "ventaja": 0.095,
-       "detalle": "SC Freiburg 9/10 · Bayern München 8/9"
-      },
-      {
-       "partido_id": 1552797,
-       "fecha": "2026-10-25T15:00",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Monaco",
-       "visitante": "Lille",
        "mercado": "Double Chance",
-       "opcion": "Home/Away",
+       "opcion": "Draw/Away",
        "tipo": "resultado",
-       "texto": "No hay empate en Monaco–Lille",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "detalle": "Monaco 8/10 · Lille 8/10"
-      },
-      {
-       "partido_id": 1552793,
-       "fecha": "2026-10-25T17:15",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Auxerre",
-       "visitante": "Le Mans",
-       "mercado": "Total ShotOnGoal",
-       "opcion": "Over 8.5",
-       "tipo": "tiros a puerta",
-       "texto": "Más de 8,5 tiros a puerta en Auxerre–Le Mans",
-       "cuota": 1.73,
-       "frecuencia": 0.786,
-       "ventaja": 0.208,
-       "detalle": "Auxerre 6/7 · Le Mans 5/7"
-      },
-      {
-       "partido_id": 1552792,
-       "fecha": "2026-10-25T17:15",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Angers",
-       "visitante": "Lorient",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Angers–Lorient",
-       "cuota": 1.33,
-       "frecuencia": 0.786,
-       "ventaja": 0.034,
-       "detalle": "Angers 6/7 · Lorient 5/7"
-      },
-      {
-       "partido_id": 1557441,
-       "fecha": "2026-10-25T15:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Crystal Palace",
-       "visitante": "Newcastle",
-       "mercado": "Away Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Newcastle ve más de 1,5 tarjetas",
-       "cuota": 1.5,
-       "frecuencia": 0.75,
-       "ventaja": 0.083,
-       "detalle": "Crystal Palace (en contra) 7/9 · Newcastle 5/7"
+       "texto": "Leeds o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.765,
+       "ventaja": 0.029,
+       "detalle": "Sunderland 7/10 · Leeds 6/7"
       }
      ],
-     "cuota": 9.19
-    }
+     "cuota": 3.53
+    },
+    "loca": null
    },
    "combis_partido": []
   },
@@ -1294,22 +954,6 @@
      "frecuencia": 0.778,
      "ventaja": 0.042,
      "detalle": "Sevilla 7/9 · Osasuna 7/9"
-    },
-    {
-     "partido_id": 1570431,
-     "fecha": "2026-10-26T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Sevilla",
-     "visitante": "Osasuna",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Sevilla–Osasuna",
-     "cuota": 1.33,
-     "frecuencia": 0.778,
-     "ventaja": 0.026,
-     "detalle": "Sevilla 7/9 · Osasuna 7/9"
     }
    ],
    "mejores_por_partido": [
@@ -1356,22 +1000,6 @@
   "2026-10-27": {
    "picks": [
     {
-     "partido_id": 1550175,
-     "fecha": "2026-10-27T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Como",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Torino–Como",
-     "cuota": 1.28,
-     "frecuencia": 0.889,
-     "ventaja": 0.108,
-     "detalle": "Torino 7/8 · Como 9/10"
-    },
-    {
      "partido_id": 1550174,
      "fecha": "2026-10-27T18:30",
      "competicion": "Serie A",
@@ -1404,22 +1032,6 @@
      "detalle": "Torino 7/8 · Como (en contra) 8/10"
     },
     {
-     "partido_id": 1550174,
-     "fecha": "2026-10-27T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Sassuolo",
-     "visitante": "Lazio",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Sassuolo–Lazio",
-     "cuota": 1.3,
-     "frecuencia": 0.8,
-     "ventaja": 0.031,
-     "detalle": "Sassuolo 6/8 · Lazio 6/7"
-    },
-    {
      "partido_id": 1550175,
      "fecha": "2026-10-27T20:45",
      "competicion": "Serie A",
@@ -1438,22 +1050,6 @@
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1550175,
-     "fecha": "2026-10-27T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Como",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Torino–Como",
-     "cuota": 1.28,
-     "frecuencia": 0.889,
-     "ventaja": 0.108,
-     "detalle": "Torino 7/8 · Como 9/10"
-    },
-    {
      "partido_id": 1550174,
      "fecha": "2026-10-27T18:30",
      "competicion": "Serie A",
@@ -1468,46 +1064,26 @@
      "frecuencia": 0.867,
      "ventaja": 0.152,
      "detalle": "Sassuolo 6/8 · Lazio 7/7"
+    },
+    {
+     "partido_id": 1550175,
+     "fecha": "2026-10-27T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Torino",
+     "visitante": "Como",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Torino marca",
+     "cuota": 1.44,
+     "frecuencia": 0.833,
+     "ventaja": 0.139,
+     "detalle": "Torino 7/8 · Como (en contra) 8/10"
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1550175,
-       "fecha": "2026-10-27T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Torino",
-       "visitante": "Como",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Torino–Como",
-       "cuota": 1.28,
-       "frecuencia": 0.889,
-       "ventaja": 0.108,
-       "detalle": "Torino 7/8 · Como 9/10"
-      },
-      {
-       "partido_id": 1550174,
-       "fecha": "2026-10-27T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Sassuolo",
-       "visitante": "Lazio",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Sassuolo–Lazio",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "detalle": "Sassuolo 6/8 · Lazio 6/7"
-      }
-     ],
-     "cuota": 1.66
-    },
+    "segura": null,
     "cuota_3": null,
     "loca": null
    },
@@ -1602,22 +1178,6 @@
      "liga_id": 135,
      "local": "Parma",
      "visitante": "Udinese",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Parma–Udinese",
-     "cuota": 1.36,
-     "frecuencia": 0.857,
-     "ventaja": 0.122,
-     "detalle": "Parma 6/7 · Udinese 6/7"
-    },
-    {
-     "partido_id": 1550173,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Parma",
-     "visitante": "Udinese",
      "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
@@ -1626,22 +1186,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.088,
      "detalle": "Parma (en contra) 7/7 · Udinese 5/7"
-    },
-    {
-     "partido_id": 1550172,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Napoli",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Monza–Napoli",
-     "cuota": 1.28,
-     "frecuencia": 0.833,
-     "ventaja": 0.052,
-     "detalle": "Monza 7/8 · Napoli 8/10"
     },
     {
      "partido_id": 1550171,
@@ -1762,75 +1306,6 @@
        "detalle": "Parma 6/7 · Udinese 7/7"
       },
       {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Monza–Napoli",
-       "cuota": 1.28,
-       "frecuencia": 0.833,
-       "ventaja": 0.052,
-       "detalle": "Monza 7/8 · Napoli 8/10"
-      }
-     ],
-     "cuota": 1.64
-    },
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Monza marca",
-       "cuota": 1.4,
-       "frecuencia": 0.889,
-       "ventaja": 0.175,
-       "detalle": "Monza 8/8 · Napoli (en contra) 8/10"
-      },
-      {
-       "partido_id": 1550171,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "Juventus",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Genoa–Juventus",
-       "cuota": 1.33,
-       "frecuencia": 0.882,
-       "ventaja": 0.13,
-       "detalle": "Genoa 6/7 · Juventus 9/10"
-      },
-      {
-       "partido_id": 1550173,
-       "fecha": "2026-10-28T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Parma",
-       "visitante": "Udinese",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Parma–Udinese",
-       "cuota": 1.36,
-       "frecuencia": 0.857,
-       "ventaja": 0.122,
-       "detalle": "Parma 6/7 · Udinese 6/7"
-      },
-      {
        "partido_id": 1550176,
        "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
@@ -1847,30 +1322,15 @@
        "detalle": "Venezia 6/7 · Inter 7/10"
       }
      ],
-     "cuota": 3.37
+     "cuota": 1.7
     },
+    "cuota_3": null,
     "loca": null
    },
    "combis_partido": []
   },
   "2026-10-29": {
    "picks": [
-    {
-     "partido_id": 1550169,
-     "fecha": "2026-10-29T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Fiorentina",
-     "visitante": "Atalanta",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Fiorentina–Atalanta",
-     "cuota": 1.3,
-     "frecuencia": 0.941,
-     "ventaja": 0.172,
-     "detalle": "Fiorentina 6/7 · Atalanta 10/10"
-    },
     {
      "partido_id": 1550170,
      "fecha": "2026-10-29T18:30",
@@ -1886,22 +1346,6 @@
      "frecuencia": 0.929,
      "ventaja": 0.147,
      "detalle": "Frosinone 7/7 · Lecce 6/7"
-    },
-    {
-     "partido_id": 1550170,
-     "fecha": "2026-10-29T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Lecce",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Frosinone–Lecce",
-     "cuota": 1.28,
-     "frecuencia": 0.929,
-     "ventaja": 0.147,
-     "detalle": "Frosinone 6/7 · Lecce 7/7"
     },
     {
      "partido_id": 1550169,
@@ -1922,22 +1366,6 @@
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1550169,
-     "fecha": "2026-10-29T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Fiorentina",
-     "visitante": "Atalanta",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Fiorentina–Atalanta",
-     "cuota": 1.3,
-     "frecuencia": 0.941,
-     "ventaja": 0.172,
-     "detalle": "Fiorentina 6/7 · Atalanta 10/10"
-    },
-    {
      "partido_id": 1550170,
      "fecha": "2026-10-29T18:30",
      "competicion": "Serie A",
@@ -1952,27 +1380,27 @@
      "frecuencia": 0.929,
      "ventaja": 0.147,
      "detalle": "Frosinone 7/7 · Lecce 6/7"
+    },
+    {
+     "partido_id": 1550169,
+     "fecha": "2026-10-29T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Fiorentina",
+     "visitante": "Atalanta",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Atalanta marca",
+     "cuota": 1.28,
+     "frecuencia": 0.882,
+     "ventaja": 0.101,
+     "detalle": "Fiorentina (en contra) 7/7 · Atalanta 8/10"
     }
    ],
    "combis": {
     "segura": {
      "picks": [
-      {
-       "partido_id": 1550169,
-       "fecha": "2026-10-29T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Fiorentina",
-       "visitante": "Atalanta",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Fiorentina–Atalanta",
-       "cuota": 1.3,
-       "frecuencia": 0.941,
-       "ventaja": 0.172,
-       "detalle": "Fiorentina 6/7 · Atalanta 10/10"
-      },
       {
        "partido_id": 1550170,
        "fecha": "2026-10-29T18:30",
@@ -1988,9 +1416,25 @@
        "frecuencia": 0.929,
        "ventaja": 0.147,
        "detalle": "Frosinone 7/7 · Lecce 6/7"
+      },
+      {
+       "partido_id": 1550169,
+       "fecha": "2026-10-29T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Fiorentina",
+       "visitante": "Atalanta",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Atalanta marca",
+       "cuota": 1.28,
+       "frecuencia": 0.882,
+       "ventaja": 0.101,
+       "detalle": "Fiorentina (en contra) 7/7 · Atalanta 8/10"
       }
      ],
-     "cuota": 1.66
+     "cuota": 1.64
     },
     "cuota_3": null,
     "loca": null
@@ -2014,38 +1458,6 @@
      "frecuencia": 0.9,
      "ventaja": 0.206,
      "detalle": "Villarreal (en contra) 9/10 · Espanyol 9/10"
-    },
-    {
-     "partido_id": 1575211,
-     "fecha": "2026-10-30T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "FSV Mainz 05",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en SV Elversberg–FSV Mainz 05",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "detalle": "SV Elversberg 6/7 · FSV Mainz 05 6/7"
-    },
-    {
-     "partido_id": 1552802,
-     "fecha": "2026-10-30T21:05",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lille",
-     "visitante": "Lens",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Lille–Lens",
-     "cuota": 1.28,
-     "frecuencia": 0.85,
-     "ventaja": 0.069,
-     "detalle": "Lille 8/10 · Lens 9/10"
     },
     {
      "partido_id": 1552802,
@@ -2098,36 +1510,20 @@
      "detalle": "Villarreal (en contra) 9/10 · Espanyol 9/10"
     },
     {
-     "partido_id": 1575211,
-     "fecha": "2026-10-30T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "FSV Mainz 05",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en SV Elversberg–FSV Mainz 05",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "detalle": "SV Elversberg 6/7 · FSV Mainz 05 6/7"
-    },
-    {
      "partido_id": 1552802,
      "fecha": "2026-10-30T21:05",
      "competicion": "Ligue 1",
      "liga_id": 61,
      "local": "Lille",
      "visitante": "Lens",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Lille–Lens",
-     "cuota": 1.28,
-     "frecuencia": 0.85,
-     "ventaja": 0.069,
-     "detalle": "Lille 8/10 · Lens 9/10"
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Lille–Lens",
+     "cuota": 1.3,
+     "frecuencia": 0.8,
+     "ventaja": 0.031,
+     "detalle": "Lille 8/10 · Lens 8/10"
     }
    ],
    "combis": {
@@ -2186,22 +1582,6 @@
      "frecuencia": 0.929,
      "ventaja": 0.129,
      "detalle": "Estac Troyes 6/7 · Le Mans 7/7"
-    },
-    {
-     "partido_id": 1557451,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Coventry",
-     "visitante": "Sunderland",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Coventry–Sunderland",
-     "cuota": 1.33,
-     "frecuencia": 0.889,
-     "ventaja": 0.137,
-     "detalle": "Coventry 8/8 · Sunderland 8/10"
     },
     {
      "partido_id": 1575206,
@@ -2428,22 +1808,6 @@
      "detalle": "Estac Troyes 5/7 · Le Mans 6/7"
     },
     {
-     "partido_id": 1557447,
-     "fecha": "2026-10-31T21:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Fulham",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Aston Villa–Fulham",
-     "cuota": 1.3,
-     "frecuencia": 0.778,
-     "ventaja": 0.009,
-     "detalle": "Aston Villa 8/10 · Fulham 6/8"
-    },
-    {
      "partido_id": 1557450,
      "fecha": "2026-10-31T13:30",
      "competicion": "Premier",
@@ -2606,22 +1970,6 @@
      "detalle": "Estac Troyes 6/7 · Le Mans 7/7"
     },
     {
-     "partido_id": 1557451,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Coventry",
-     "visitante": "Sunderland",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Coventry–Sunderland",
-     "cuota": 1.33,
-     "frecuencia": 0.889,
-     "ventaja": 0.137,
-     "detalle": "Coventry 8/8 · Sunderland 8/10"
-    },
-    {
      "partido_id": 1575209,
      "fecha": "2026-10-31T15:30",
      "competicion": "Bundesliga",
@@ -2734,22 +2082,6 @@
      "detalle": "Barcelona (en contra) 8/10 · Alaves 8/10"
     },
     {
-     "partido_id": 1557447,
-     "fecha": "2026-10-31T21:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Fulham",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Aston Villa–Fulham",
-     "cuota": 1.3,
-     "frecuencia": 0.778,
-     "ventaja": 0.009,
-     "detalle": "Aston Villa 8/10 · Fulham 6/8"
-    },
-    {
      "partido_id": 1557450,
      "fecha": "2026-10-31T13:30",
      "competicion": "Premier",
@@ -2786,23 +2118,23 @@
        "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10"
       },
       {
-       "partido_id": 1557451,
+       "partido_id": 1557449,
        "fecha": "2026-10-31T16:00",
        "competicion": "Premier",
        "liga_id": 39,
-       "local": "Coventry",
-       "visitante": "Sunderland",
+       "local": "Brentford",
+       "visitante": "Nottingham Forest",
        "mercado": "Double Chance",
-       "opcion": "Home/Away",
+       "opcion": "Home/Draw",
        "tipo": "resultado",
-       "texto": "No hay empate en Coventry–Sunderland",
-       "cuota": 1.33,
-       "frecuencia": 0.889,
-       "ventaja": 0.137,
-       "detalle": "Coventry 8/8 · Sunderland 8/10"
+       "texto": "Brentford o empate",
+       "cuota": 1.28,
+       "frecuencia": 0.867,
+       "ventaja": 0.085,
+       "detalle": "Brentford 6/7 · Nottingham Forest 7/8"
       }
      ],
-     "cuota": 1.66
+     "cuota": 1.6
     },
     "cuota_3": null,
     "loca": null
@@ -2842,22 +2174,6 @@
      "frecuencia": 0.947,
      "ventaja": 0.253,
      "detalle": "Getafe (en contra) 9/10 · Sevilla 9/9"
-    },
-    {
-     "partido_id": 1552808,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Strasbourg",
-     "visitante": "Auxerre",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Strasbourg–Auxerre",
-     "cuota": 1.25,
-     "frecuencia": 0.929,
-     "ventaja": 0.129,
-     "detalle": "Strasbourg 6/7 · Auxerre 7/7"
     },
     {
      "partido_id": 1570438,
@@ -2906,22 +2222,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.22,
      "detalle": "Strasbourg 6/7 · Auxerre 6/7"
-    },
-    {
-     "partido_id": 1557453,
-     "fecha": "2026-11-01T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Liverpool",
-     "visitante": "Arsenal",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Liverpool–Arsenal",
-     "cuota": 1.3,
-     "frecuencia": 0.8,
-     "ventaja": 0.031,
-     "detalle": "Liverpool 7/10 · Arsenal 9/10"
     },
     {
      "partido_id": 1552808,
@@ -3006,22 +2306,6 @@
      "detalle": "Getafe (en contra) 9/10 · Sevilla 9/9"
     },
     {
-     "partido_id": 1557453,
-     "fecha": "2026-11-01T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Liverpool",
-     "visitante": "Arsenal",
-     "mercado": "Double Chance",
-     "opcion": "Home/Away",
-     "tipo": "resultado",
-     "texto": "No hay empate en Liverpool–Arsenal",
-     "cuota": 1.3,
-     "frecuencia": 0.8,
-     "ventaja": 0.031,
-     "detalle": "Liverpool 7/10 · Arsenal 9/10"
-    },
-    {
      "partido_id": 1570440,
      "fecha": "2026-11-01T16:15",
      "competicion": "LaLiga",
@@ -3039,43 +2323,7 @@
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1552808,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Strasbourg",
-       "visitante": "Auxerre",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Auxerre marca",
-       "cuota": 1.33,
-       "frecuencia": 1.0,
-       "ventaja": 0.248,
-       "detalle": "Strasbourg (en contra) 7/7 · Auxerre 7/7"
-      },
-      {
-       "partido_id": 1557453,
-       "fecha": "2026-11-01T17:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Liverpool",
-       "visitante": "Arsenal",
-       "mercado": "Double Chance",
-       "opcion": "Home/Away",
-       "tipo": "resultado",
-       "texto": "No hay empate en Liverpool–Arsenal",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "detalle": "Liverpool 7/10 · Arsenal 9/10"
-      }
-     ],
-     "cuota": 1.73
-    },
+    "segura": null,
     "cuota_3": null,
     "loca": null
    },
