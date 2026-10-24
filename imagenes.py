@@ -104,6 +104,20 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
     return f"<html><head><meta charset='utf-8'><style>{css}</style></head><body{clase}>{''.join(partes_html)}</body></html>", total
 
 
+def ajustar_al_lienzo(pagina, alto):
+    """No guardar un post o fotograma con el pie o el texto fuera del lienzo."""
+    pagina.evaluate("document.fonts.ready")
+    fondo = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
+        el => el.getBoundingClientRect().bottom)) + 24""")
+    if fondo > alto:
+        escala = (alto - 12) / fondo
+        pagina.add_style_tag(content=f"html{{background:#070b09}} body{{transform:scale({escala});transform-origin:top center}}")
+    limite = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
+        el => el.getBoundingClientRect().bottom))""")
+    if limite > alto:
+        raise RuntimeError(f"Texto fuera del lienzo: {limite} > {alto}")
+
+
 def generar(p, pagina):
     MEDIA.mkdir(parents=True, exist_ok=True)
     foto = None
@@ -114,6 +128,7 @@ def generar(p, pagina):
     pagina.set_viewport_size({"width": 1080, "height": 1350})
     pagina.set_content(doc)
     pagina.wait_for_timeout(150)
+    ajustar_al_lienzo(pagina, 1350)
     img = MEDIA / f"{p['id']}.jpg"
     pagina.screenshot(path=str(img), type="jpeg", quality=92)
     # reel: un fotograma por línea que aparece
@@ -125,6 +140,7 @@ def generar(p, pagina):
         doc, _ = documento(p, True, mostrar=total, foto_b64=foto)
         pagina.set_content(doc)
         pagina.wait_for_timeout(80)
+        ajustar_al_lienzo(pagina, 1920)
         portada = Path(tmp) / "f00.png"
         pagina.screenshot(path=str(portada))
         lista.append(f"file '{portada}'\nduration 1.5")
@@ -132,6 +148,7 @@ def generar(p, pagina):
             doc, _ = documento(p, True, mostrar=k, foto_b64=foto)
             pagina.set_content(doc)
             pagina.wait_for_timeout(80)
+            ajustar_al_lienzo(pagina, 1920)
             f = Path(tmp) / f"f{k:02d}.png"
             pagina.screenshot(path=str(f))
             dur = 1.2 if k == 1 else 0.7
