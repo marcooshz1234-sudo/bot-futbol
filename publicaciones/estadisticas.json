@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24 02:48",
+ "actualizado": "2026-10-24 02:59",
  "redes": {
   "instagram": {
    "seguidores": null,
@@ -7,11 +7,11 @@
    "serie": []
   },
   "threads": {
-   "seguidores": 840,
-   "hoy": 4,
+   "seguidores": 841,
+   "hoy": 5,
    "serie": [
     836,
-    840
+    841
    ]
   },
   "facebook": {
@@ -23,29 +23,32 @@
    ]
   },
   "telegram": {
-   "seguidores": 74,
-   "hoy": -1,
+   "seguidores": 75,
+   "hoy": 0,
    "serie": [
     75,
-    74
+    75
    ]
   }
  },
- "total": 914,
- "total_hoy": 3,
+ "total": 916,
+ "total_hoy": 5,
  "likes_hoy": 0,
  "proximo": {
   "hora": "11:00",
   "dia": "2026-10-24",
   "titulo": "Combinada cuota 4 del sábado"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 8,
+  "total": 10
+ },
  "escalera": {
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 38.2,
-  "fecha": "2026-10-23"
+  "objetivo": 40.4,
+  "fecha": "2026-10-24"
  },
  "historial": {
   "2026-10-23": {
@@ -54,9 +57,9 @@
    "telegram": 75
   },
   "2026-10-24": {
-   "threads": 840,
+   "threads": 841,
    "facebook": 0,
-   "telegram": 74
+   "telegram": 75
   }
  },
  "tipos_instagram": {}
