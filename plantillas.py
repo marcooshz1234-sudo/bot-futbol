@@ -85,7 +85,7 @@ def posts_del_dia(dia, d):
 
     combis = d.get("combis") or {}
     for c_clave, hora, titulo in (("cuota_3", (11, 0), f"💥 COMBINADA CUOTA 3 DEL {nombre} 💥"),
-                                  ("segura", (12, 0), f"🔒 COMBI SEGURA DEL {nombre} 🔒"),
+                                  ("segura", (12, 0), f"📊 COMBI DE DATOS DEL {nombre} 🔒"),
                                   ("loca", (19, 0), f"🤪 COMBI LOCA DEL {nombre} 🤪")):
         c = combis.get(c_clave)
         if not c:
@@ -146,7 +146,7 @@ def balance(dia, posts_ayer):
     """Post de las 10:30 con cómo salió lo de ayer. Solo si ya está todo corregido."""
     reg = leer(REGISTRO, {}) or {}
     lineas, total, verdes = [], 0, 0
-    nombres = {"combi-cuota_3": "Combi cuota 3", "combi-segura": "Combi segura", "combi-loca": "Combi loca",
+    nombres = {"combi-cuota_3": "Combi cuota 3", "combi-segura": "Combi de datos", "combi-loca": "Combi loca",
                "picks-manana": "Picks del día", "picks-hoy": "Picks de la tarde"}
     for p in posts_ayer:
         tipo = p["id"][11:]
