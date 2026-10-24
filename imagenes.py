@@ -107,11 +107,17 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
 def ajustar_al_lienzo(pagina, alto):
     """No guardar un post o fotograma con el pie o el texto fuera del lienzo."""
     pagina.evaluate("document.fonts.ready")
+    pagina.evaluate("window.scrollTo(0, 0)")
     fondo = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
         el => el.getBoundingClientRect().bottom)) + 24""")
     if fondo > alto:
         escala = (alto - 12) / fondo
         pagina.add_style_tag(content=f"html{{background:#070b09}} body{{overflow:visible;transform:scale({escala});transform-origin:top center}}")
+    pagina.evaluate("window.scrollTo(0, 0)")
+    comienzo = pagina.evaluate("""() => Math.min(...Array.from(document.body.children,
+        el => el.getBoundingClientRect().top))""")
+    if comienzo < -1:
+        raise RuntimeError(f"Texto recortado por arriba: {comienzo}")
     limite = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
         el => el.getBoundingClientRect().bottom))""")
     if limite > alto:
