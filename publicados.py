@@ -302,7 +302,11 @@ def evaluar(spec, d):
         candidatos = [j for lista in (d.get("jugadores") or {}).values() for j in lista
                       if mismo_jugador(nombre, j.get("nombre")) or
                       (len(nombre.split()) == 1 and norm(j.get("nombre")).split()[-1:] == [nombre])]
-        if len(candidatos) != 1 or not candidatos[0].get("min"):
+        if len(candidatos) != 1:
+            return "sin_datos"
+        if fin and candidatos[0].get("min") == 0:
+            return "no_jugo"
+        if not candidatos[0].get("min"):
             return "sin_datos"
         valor = candidatos[0].get(spec["campo"])
         return "sin_datos" if valor is None else final(valor >= spec["n"], False)
