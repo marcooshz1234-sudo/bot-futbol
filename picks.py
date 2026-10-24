@@ -22,7 +22,7 @@ Mercados: resultado, goles (también por partes y por equipo), ambos marcan,
 córners (total, por equipo, por partes, 1x2), tarjetas (total, por equipo,
 amarillas), tiros y tiros a puerta (total, por equipo, 1x2), faltas, fueras de
 juego, paradas y jugadores (tiros, a puerta, faltas, amonestado, paradas, gol).
-Nunca "menos de X goles".
+Nunca "menos de X goles" ni "sin empate" (doble oportunidad 12).
 
 Cada pick lleva un "tipo" (goles, corners, tarjetas, tiros, faltas, jugador...)
 y las combis no repiten tipo, para que no salgan todas del mismo mercado.
@@ -73,8 +73,17 @@ MERCADOS_GOLES = {"Goals Over/Under", "Goals Over/Under First Half", "Goals Over
                   "Total - Home", "Total - Away"}
 
 
+def es_sin_empate(mercado, opcion):
+    """Solo excluye el 12; ganador, empate, 1X y X2 siguen permitidos."""
+    mercado = str(mercado or "").strip().casefold()
+    opcion = "".join(str(opcion or "").casefold().split())
+    return (mercado == "double chance" and opcion in ("home/away", "away/home", "12", "1/2", "homeoraway")) or mercado in ("no draw", "sin empate")
+
+
 def excluido(mercado, opcion):
     """Fuera los 'menos de' (se entienden mal en redes y no le gustan) y los 'no'."""
+    if es_sin_empate(mercado, opcion):
+        return True
     o = str(opcion).strip()
     if o.startswith("Under") or o == "No":
         return True
@@ -737,6 +746,8 @@ def combinar(picks, minimo, maximo, max_patas, min_patas=2, max_por_tipo=1):
     fiables hasta caer en el rango de cuota."""
     elegidos, usados, tipos, total = [], set(), defaultdict(int), 1.0
     for p in sorted(picks, key=lambda x: (-x["frecuencia"], -x["ventaja"])):
+        if es_sin_empate(p["mercado"], p["opcion"]):
+            continue
         if p["partido_id"] in usados or tipos[p["tipo"]] >= max_por_tipo:
             continue
         if total * p["cuota"] > maximo:
@@ -777,6 +788,7 @@ FAMILIA = {"Goals Over/Under": "goles_total", "Total Goals/Both Teams To Score":
 def combi_partido(picks):
     """Combi de un solo partido de cuota ~9-11 (para aumentos/aseguradas de bet365):
     mezcla resultado/goles, una estadística y al menos un jugador si lo hay. Sin repetir tipo."""
+    picks = [p for p in picks if not es_sin_empate(p["mercado"], p["opcion"])]
     if not picks:
         return None
     orden = sorted(picks, key=lambda x: (-x["frecuencia"], -x["ventaja"]))

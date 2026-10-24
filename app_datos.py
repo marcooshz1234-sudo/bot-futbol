@@ -14,7 +14,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 
 from bot import COMPETICIONES, DATOS, MADRID, PARTIDOS, RAIZ, leer
-from picks import evaluar_pick, texto_pick
+from picks import evaluar_pick, texto_pick, es_sin_empate
 from plantillas import atractivo
 from publicados import evaluar, picks_de_post, progreso, entender
 from resumen_dia import balance
@@ -194,6 +194,8 @@ def valor_es():
     """Picks con valor del modelo, con el texto en español (sin 'menos de 2,5/3,5 goles')."""
     salida = []
     for v in leer(DATOS / "valor.json", []) or []:
+        if es_sin_empate(v["mercado"], v["opcion"]):
+            continue
         if v["mercado"] == "Goals Over/Under" and v["opcion"] in ("Under 2.5", "Under 3.5"):
             continue
         l, _, vi = v["partido"].partition(" – ")
