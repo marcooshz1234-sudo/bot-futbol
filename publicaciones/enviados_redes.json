@@ -6,7 +6,8 @@
    "instagram": null
   },
   "errores_redes": {
-   "instagram": "caducado: no salió a tiempo"
+   "instagram": "caducado: no salió a tiempo",
+   "instagram_reel": "400: Invalid OAuth access token - Cannot parse access token"
   },
   "facebook_tipo": "foto"
  }
