@@ -111,7 +111,7 @@ def ajustar_al_lienzo(pagina, alto):
         el => el.getBoundingClientRect().bottom)) + 24""")
     if fondo > alto:
         escala = (alto - 12) / fondo
-        pagina.add_style_tag(content=f"html{{background:#070b09}} body{{transform:scale({escala});transform-origin:top center}}")
+        pagina.add_style_tag(content=f"html{{background:#070b09}} body{{overflow:visible;transform:scale({escala});transform-origin:top center}}")
     limite = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
         el => el.getBoundingClientRect().bottom))""")
     if limite > alto:
