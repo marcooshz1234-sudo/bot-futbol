@@ -1,15 +1,11 @@
 {
   "ids": [
-    "2026-10-25-segura",
-    "2026-10-25-loca",
-    "2026-10-25-picks-hoy"
+    "2026-10-25-combi-barca-madrid"
   ],
   "fecha": "2026-10-25",
-  "revision": "Segunda revisión: combi estadística cuota 4,36; avisos, titularidad y alternativas sin duplicar escalera",
-  "objetivo_combis_partido": {
-    "separadas": true,
-    "min": 9,
-    "max": 11,
-    "precio": "Pendiente de verificar en el constructor"
-  }
+  "revision": "Barça–Madrid: cuota conjunta 11,00 verificada en captura del propietario; sustituye restricciones de goles por remates",
+  "pendientes": [
+    "Freiburg: comprobar 3+ frente a más de 3",
+    "PSG: captura 5,75, objetivo 9–11"
+  ]
 }
