@@ -1,7 +1,7 @@
 {
- "comprobado": "2026-10-24 16:02",
+ "comprobado": "2026-10-24 16:58",
  "instagram": "ERROR · 400: Invalid OAuth access token - Cannot parse access token",
- "threads": "OK · combilocas",
- "facebook": "OK · Combilocas",
+ "threads": "ERROR · 400: API access blocked.",
+ "facebook": "ERROR · 400: API access blocked.",
  "avisado": "2026-10-24"
 }
