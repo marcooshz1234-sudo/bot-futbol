@@ -3,6 +3,7 @@ from unittest.mock import patch
 from datetime import datetime, timedelta
 import copy
 import picks
+import app_datos
 import escalera
 import plantillas
 import valor
@@ -20,6 +21,13 @@ class PreferenciasTest(unittest.TestCase):
             with self.subTest(mercado=mercado,opcion=opcion):
                 self.assertFalse(picks.es_sin_empate(mercado,opcion))
                 self.assertFalse(picks.excluido(mercado,opcion))
+
+    def test_panel_no_recupera_un_12_futuro_de_la_cache(self):
+        ahora = datetime(2026, 10, 25, 0, 30, tzinfo=picks.MADRID)
+        p = {'mercado':'Double Chance','opcion':'Home/Away','fecha':'2026-10-25T17:30'}
+        self.assertFalse(app_datos.registro_visible(p, ahora))
+        self.assertTrue(app_datos.registro_visible(dict(p, fecha='2026-10-24T17:30'), ahora))
+        self.assertTrue(app_datos.registro_visible(dict(p, opcion='Home/Draw'), ahora))
 
     def seleccion(self,i,mercado='Goals Over/Under',tipo='goles',cuota=1.4):
         dia=(datetime.now(picks.MADRID)+timedelta(days=1)).strftime('%Y-%m-%d')
