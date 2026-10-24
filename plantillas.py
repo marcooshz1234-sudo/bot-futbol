@@ -85,7 +85,7 @@ def posts_del_dia(dia, d):
 
     combis = d.get("combis") or {}
     for c_clave, hora, titulo in (("cuota_3", (11, 0), f"💥 COMBINADA CUOTA 3 DEL {nombre} 💥"),
-                                  ("segura", (12, 0), f"📊 COMBI DE DATOS DEL {nombre} 🔒"),
+                                  ("segura", (12, 0), f"📊 COMBI DE DATOS DEL {nombre} 📊"),
                                   ("loca", (19, 0), f"🤪 COMBI LOCA DEL {nombre} 🤪")):
         c = combis.get(c_clave)
         if not c:
