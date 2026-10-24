@@ -1,45 +1,71 @@
-"""
-Resumen del día automático · publica a las 23:30 (o en cuanto todo esté decidido después de las 23:15)
-un post "📊 BALANCE DEL <DÍA>" con cada combi publicada hoy en verde o rojo. Telegram, Threads y
-Facebook (sin imagen: Instagram se salta). Lo lee de docs/datos.json (publicados_hoy).
-"""
+"""Balance diario del panel y post nocturno; las selecciones sin resolver se indican aparte."""
 import json
 from datetime import datetime
 
 from bot import MADRID, RAIZ, leer
 
-DIAS = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"]
-COLA = RAIZ / "publicaciones" / "cola.json"
+DIAS = ['LUNES', 'MARTES', 'MIÉRCOLES', 'JUEVES', 'VIERNES', 'SÁBADO', 'DOMINGO']
+COLA = RAIZ / 'publicaciones' / 'cola.json'
+
+
+def balance(posts, dia):
+    filas = []
+    for p in posts:
+        if p['fecha'][:10] != dia or p['titulo'].lstrip().startswith(('✅', '🔄', '📊', '📋')):
+            continue
+        estados = [x['estado'] for x in p.get('picks', [])]
+        estado = p['estado']
+        if estado not in ('verde', 'rojo', 'no_jugo', 'sin_datos'):
+            if 'no_jugo' in estados:
+                estado = 'no_jugo'
+            elif any(x.get('estado_partido') in ('FT', 'AET', 'PEN') and x['estado'] not in ('verde', 'rojo') for x in p.get('picks', [])):
+                estado = 'sin_datos'
+            else:
+                estado = 'pendiente'
+        filas.append({'id': p['id'], 'titulo': p['titulo'], 'estado': estado, 'cuota': p.get('cuota')})
+    cuentas = {e: sum(p['estado'] == e for p in filas) for e in ('verde', 'rojo', 'pendiente', 'sin_datos', 'no_jugo')}
+    cuentas['sin_resolver'] = cuentas['pendiente'] + cuentas['sin_datos'] + cuentas['no_jugo']
+    resultado = {'dia': dia, 'total': len(filas), 'cuentas': cuentas, 'combis': filas}
+    resultado['texto'] = texto_balance(resultado)
+    return resultado
+
+
+def texto_balance(b):
+    c = b['cuentas']
+    iconos = {'verde': '✅', 'rojo': '❌', 'pendiente': '⏳', 'sin_datos': '❔', 'no_jugo': '➖'}
+    nombres = {'pendiente': 'pendiente', 'sin_datos': 'faltan datos', 'no_jugo': 'jugador sin participación'}
+    fecha = datetime.fromisoformat(b['dia'])
+    lineas = [f"📊 BALANCE DEL {DIAS[fecha.weekday()]} · {fecha:%d/%m} 📊", '']
+    for p in b['combis']:
+        cuota = f" · {p['cuota']:.2f}".replace('.', ',') if p.get('cuota') else ''
+        motivo = f" · {nombres[p['estado']]}" if p['estado'] in nombres else ''
+        lineas.append(f"{iconos[p['estado']]} {p['titulo']}{cuota}{motivo}")
+    lineas += ['', f"✅ {c['verde']} acertadas · ❌ {c['rojo']} falladas · ⏳ {c['sin_resolver']} sin resolver"]
+    if c['no_jugo']:
+        lineas.append('Los jugadores sin participación no se cuentan como aciertos ni fallos.')
+    return '\n'.join(lineas)
 
 
 def main():
     ahora = datetime.now(MADRID)
-    hoy = ahora.strftime("%Y-%m-%d")
-    pid = f"{hoy}-balance-auto"
+    hoy = ahora.strftime('%Y-%m-%d')
+    pid = f'{hoy}-balance-auto'
     cola = leer(COLA, []) or []
-    if ahora.strftime("%H:%M") < "23:15" or any(p["id"] in (pid, f"{hoy}-balance") for p in cola):
+    if ahora.strftime('%H:%M') < '23:15' or any(p['id'] in (pid, f'{hoy}-balance') for p in cola):
         return
-    d = leer(RAIZ / "docs" / "datos.json", {}) or {}
-    posts = [p for p in d.get("publicados_hoy", []) if p["fecha"][:10] == hoy
-             and not p["titulo"].lstrip().startswith(("✅", "🔄", "📊", "📋"))]
-    if not posts:
+    datos = leer(RAIZ / 'docs/datos.json', {}) or {}
+    # No publicar un balance basado en una copia antigua del panel.
+    generado = datos.get('generado_iso')
+    if not generado or (ahora - datetime.fromisoformat(generado)).total_seconds() > 20 * 60:
         return
-    if any(p["estado"] == "pendiente" for p in posts) and ahora.strftime("%H:%M") < "23:30":
+    b = balance(datos.get('publicados_hoy', []), hoy)
+    if not b['total'] or (b['cuentas']['sin_resolver'] and ahora.strftime('%H:%M') < '23:30'):
         return
-    lineas, verdes = [], 0
-    for p in posts:
-        t = p["titulo"].replace("🔒", "").replace("💥", "").replace("🤪", "").replace("🍀", "").strip()
-        icono = "✅" if p["estado"] == "verde" else "❌" if p["estado"] == "rojo" else "⏳"
-        verdes += p["estado"] == "verde"
-        lineas.append(f"{icono} {t}" + (f" · {p['cuota']:.2f}".replace(".", ",") if p.get("cuota") else ""))
-    decididas = sum(p["estado"] in ("verde", "rojo") for p in posts)
-    texto = (f"📊 BALANCE DEL {DIAS[ahora.weekday()]} 📊\n\n" + "\n".join(lineas) +
-             f"\n\n💚 {verdes} de {decididas} en verde\n\nMañana más y mejor 💪🍀")
-    cola.append({"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
-                 "origen": "bot", "directo": True, "facebook": "texto", "sin_instagram": True})
-    COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print("Resumen del día en cola")
+    cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': b['texto'], 'foto': None,
+                 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True})
+    COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    print('Resumen del día en cola')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

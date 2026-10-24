@@ -35,12 +35,13 @@ jobs:
           fin=$(( $(date +%s) + 55*60 ))
           while [ "$(date +%s)" -lt "$fin" ]; do
             git pull --rebase -X theirs -q || git rebase --abort || true
+            timeout 240 python -u incidencias.py || echo "Fallo al revisar reintentos"
             timeout 240 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
             timeout 600 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
             vuelta=$(( ${vuelta:-0} + 1 ))
             if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u moderar.py || echo "Fallo en la moderación"; timeout 240 python -u estadisticas.py || echo "Fallo en estadísticas"; timeout 240 python -u avisos.py || echo "Fallo en avisos"; fi
-            timeout 120 python -u resumen_dia.py || echo "Fallo en resumen"
             if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u directo.py || echo "Fallo en directo"; fi; if [ $(( vuelta % 5 )) -eq 1 ]; then timeout 240 python -u app_datos.py || echo "Fallo en app"; fi
+            timeout 120 python -u resumen_dia.py || echo "Fallo en resumen"
             for ruta in publicaciones docs datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
             if ! git diff --cached --quiet; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"

@@ -107,10 +107,10 @@ async function cargar(){
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; $("#vista").innerHTML = ({hoy:vHoy,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab](); }
+function pintar(){ nav(); if(!D) return; $("#vista").innerHTML = `<div style="margin-bottom:12px">${avisoDatos(D.generado_iso)}</div>` + ({hoy:vHoy,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab](); }
 
 /* ---------------- HOY ---------------- */
-function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido||"")} · ${(p.fecha||"").slice(11)}</span></div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
+function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
 function vHoy(){
   const [dia, t] = subTabs("hoydia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
   const d = D.dias[dia] || {picks:[],combis:{}};
@@ -123,7 +123,7 @@ function vHoy(){
   h += `<h2>Combis del análisis actual</h2><div class="mut" style="margin-bottom:10px">Pueden cambiar con las cuotas. Las publicadas se siguen en Partidos.</div>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
   const e = D.escalera.actual;
   if(e){ const hecho = e.escalon-1; h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div><div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<=hecho?"var(--ok)":i===e.escalon?"var(--warn)":""}"></div>`).join("")}</div>${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
-  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span></div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
+  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
   if(D.valor.length){ h += `<h2>💎 Con valor según el modelo</h2><div class="card">` + D.valor.slice(0,8).map(v => `<div class="leg"><div class="col sp"><span>${esc(v.texto||(v.mercado+" · "+v.opcion))}</span><span class="mut">${esc(v.partido)} · ${esc(v.competicion)}${v.hora?" · "+v.hora:""}</span></div><span class="cuota">${n2(v.cuota)}</span><span class="chip verde">+${Math.round(v.valor*100)}%</span></div>`).join("") + `</div>` }
   return h;
 }
@@ -139,10 +139,11 @@ function tarjetaPartido(p){
   const filaP = (t,k) => f ? `<tr><td>${t}</td><td>${f.local.pct[k]??"—"}%</td><td>${f.visitante.pct[k]??"—"}%</td></tr>` : "";
   const ult = eq => eq.ultimos.map(u=>`<tr><td>${u.casa?"🏠":"✈️"} ${esc(u.rival)}</td><td>${u.gf}-${u.gc}</td><td>${u.corners??"—"}</td><td>${u.tarjetas}</td></tr>`).join("");
   return `<div class="card ${abiertos.has(p.id)?"open":""}" onclick="abrir(${p.id},event)">
-   <div class="row mut" style="margin-bottom:6px"><span class="sp">${esc(p.liga)}</span>${vivo?`<span class="chip live">● ${p.estado==="HT"?"Descanso":(p.minuto||"")+"'"}</span>`:fin?`<span class="chip">Final</span>`:""}${pk.length?`<span class="chip verde">${pk.length} pick${pk.length>1?"s":""}</span>`:""}</div>
+   <div class="row mut" style="margin-bottom:6px"><span class="sp">${esc(p.liga)}</span>${vivo?`<span class="chip ${!p.actualizado_iso||Date.now()-new Date(p.actualizado_iso)>20*60000?"warn":"live"}">${!p.actualizado_iso||Date.now()-new Date(p.actualizado_iso)>20*60000?"Sin actualizar":p.estado==="HT"?"● Descanso":"● "+(p.minuto||"")+"'"}</span>`:fin?`<span class="chip">Final</span>`:""}${pk.length?`<span class="chip verde">${pk.length} pick${pk.length>1?"s":""}</span>`:""}</div>
    <div class="match"><div class="team sp"><img src="${esc(p.logo_l)}" alt="" loading="lazy"><span>${esc(p.local)}</span></div><div class="score">${marcador}</div><div class="team sp" style="justify-content:flex-end"><span>${esc(p.visitante)}</span><img src="${esc(p.logo_v)}" alt="" loading="lazy"></div></div>
+   ${vivo?`<div style="margin:8px 0">${avisoDatos(p.actualizado_iso,true)}</div>`:""}
    <div class="ficha" onclick="event.stopPropagation()">
-    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><span class="sp">${esc(x.texto)}</span><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
+    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
     ${f?`<div class="row" style="margin-bottom:6px"><span class="sp">${forma(f.local.forma)}</span><span class="mut">forma (último a la izq.)</span><span class="sp" style="text-align:right">${forma(f.visitante.forma)}</span></div>
     <table><tr><th>Media últimos ${f.local.partidos}</th><th>${esc(p.local)}</th><th>${esc(p.visitante)}</th></tr>
     ${filaF("Goles a favor","gf")}${filaF("Goles en contra","gc")}${filaF("Córners propios","corners")}${filaF("Córners del partido","corners_total")}${filaF("Tarjetas propias","tarjetas")}${filaF("Tarjetas del partido","tarjetas_total")}${filaF("Tiros","tiros")}${filaF("Tiros a puerta","a_puerta")}${filaF("Paradas portero","paradas")}
@@ -153,7 +154,7 @@ function tarjetaPartido(p){
 }
 function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
 function vPartidos(){
-  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["tabla","Clasificación"],["patrones","Patrones"]], "directo");
+  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["resumen","Resumen diario"],["tabla","Clasificación"],["patrones","Patrones"]], "directo");
   let h = t;
   if(modo==="lista"){
     const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
@@ -164,6 +165,8 @@ function vPartidos(){
     h += lista.length ? lista.map(tarjetaPartido).join("") : `<div class="empty">No hay partidos</div>`;
   } else if(modo==="directo" || modo==="terminados"){
     h += vDirecto(modo);
+  } else if(modo==="resumen"){
+    h += vResumen();
   } else if(modo==="tabla"){
     const ligas = Object.keys(D.clasificaciones); const [lg, t3] = subTabs("liga", ligas.map(l=>[l,l]), ligas[0]);
     const tb = D.clasificaciones[lg]||[];
@@ -172,6 +175,18 @@ function vPartidos(){
     h += `<div class="mut" style="margin:0 4px 10px">Lo que más se repite en los últimos 10 partidos de cada equipo. Ideas para posts.</div>` + D.patrones.map(p => `<div class="card row"><span class="sp">📊 ${esc(p.texto)}</span><span class="chip verde">${p.pct}%</span><button class="btn2" onclick="copiar('📊 '+${JSON.stringify(p.texto).replace(/"/g,"&quot;")})">Copiar</button></div>`).join("");
   }
   return h;
+}
+function progresoPick(p){
+  const x = p.progreso;
+  if(!x) return "";
+  return `<div class="mut" style="margin-top:4px">${esc(x.texto)}</div>${x.sin_barra?"":`<div class="bar" aria-label="${esc(x.texto)}"><div style="width:${Math.max(0,Math.min(100,x.porcentaje||0))}%"></div></div>`}`;
+}
+function avisoDatos(fecha, partido=false){
+  if(!fecha) return `<span class="chip warn">⚠️ Actualización sin confirmar</span>`;
+  const minutos = Math.max(0,Math.floor((Date.now()-new Date(fecha))/60000));
+  if(!Number.isFinite(minutos)) return `<span class="mut">Actualización sin confirmar</span>`;
+  const atrasado = minutos > 20;
+  return `<span class="${atrasado?"chip warn":"mut"}">${atrasado?"⚠️ Datos atrasados · ":""}${partido?"Partido actualizado":"Panel actualizado"} hace ${minutos} min${atrasado?" · el marcador puede haber cambiado":""}</span>`;
 }
 function icono(p){
   if(p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)) return `<span style="font-size:22px">✅</span>`;
@@ -188,8 +203,7 @@ function esFinal(p){ return ESTADOS_FINALES.has(p.estado) }
 function esVivo(p){
   if(!ESTADOS_VIVOS.has(p.estado)) return false;
   const referencia = new Date(D.generado.replace(" ","T"));
-  if(p.actualizado) return referencia - new Date(p.actualizado) <= 20*60*1000;
-  return p.fecha.slice(0,10)===D.hoy && referencia-new Date(p.fecha)<=4*60*60*1000;
+  return p.fecha.slice(0,10)===D.hoy && referencia-new Date(p.fecha)<=6*60*60*1000;
 }
 function vDirecto(modo="directo"){
   const finalizados = modo==="terminados";
@@ -205,7 +219,7 @@ function vDirecto(modo="directo"){
       const okN = p.picks.filter(x=>x.estado==="verde").length;
       return `<div class="card" style="${p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
         <div class="row"><b class="sp">${esc(p.titulo)}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
-        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span></div><span class="cuota">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`;
+        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`;
     }).join("");
   }
   const ok=pk.filter(p=>p.estado==="verde").length, ko=pk.filter(p=>p.estado==="rojo").length;
@@ -213,9 +227,19 @@ function vDirecto(modo="directo"){
   partidos.forEach(m=>{
     h += tarjetaPartido(m);
     const selecciones=pk.filter(p=>p.partido_id===m.id);
-    if(selecciones.length) h+=`<div class="card">${selecciones.map(p=>`<div class="leg"><span class="sp">${esc(p.texto)}</span><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
+    if(selecciones.length) h+=`<div class="card">${selecciones.map(p=>`<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
   });
   return h+`<div class="mut">✅ cumplido · ❌ fallado · ⏳ pendiente o sin datos. Última actualización: ${esc(D.generado)}.</div>`;
+}
+function vResumen(){
+  const resumenes = D.resumenes||{}, fechas = Object.keys(resumenes).sort().reverse();
+  if(!fechas.length) return `<div class="empty">El resumen aparecerá cuando haya combinadas publicadas.</div>`;
+  const [dia, tabs] = subTabs("resumenDia", fechas.map(d=>[d,diaTxt(d)]), fechas.includes(D.hoy)?D.hoy:fechas[0]);
+  const b=resumenes[dia]; if(!b) return tabs;
+  const c=b.cuentas, nombre={verde:"Acertada",rojo:"Fallada",pendiente:"Pendiente",sin_datos:"Faltan datos",no_jugo:"Jugador sin participación"};
+  return tabs+`<h2>Balance de ${esc(diaTxt(dia))}</h2><div class="grid2"><div class="stat"><span class="mut">Acertadas</span><b>${c.verde} ✅</b></div><div class="stat"><span class="mut">Falladas</span><b>${c.rojo} ❌</b></div></div><div class="card"><b>${c.sin_resolver} sin resolver</b><div class="mut">${c.pendiente} pendientes · ${c.sin_datos} con datos incompletos · ${c.no_jugo} con jugador sin participación</div></div><div class="mut" style="margin:10px 0">Combinadas publicadas en esta fecha. El balance de hoy se actualiza durante la jornada; no se cuentan como fallos las selecciones sin resolver.</div>`+
+    b.combis.map(p=>`<div class="card row"><span class="sp">${esc(p.titulo)}</span><span class="chip ${p.estado==="verde"?"verde":p.estado==="rojo"?"rojo":""}">${nombre[p.estado]||"Pendiente"}</span></div>`).join("")+
+    `<button class="btn2" onclick="copiar(D.resumenes[${JSON.stringify(dia).replace(/"/g,"&quot;")}].texto)">Copiar resumen</button>`;
 }
 function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); return f.toISOString().slice(0,10) }
 
@@ -312,7 +336,8 @@ function vBot(){
   const diasCad = Math.ceil((new Date(B.claves_caducan+"T00:00") - Date.now())/864e5);
   let h = `<div class="card"><div class="row"><span style="font-size:26px">${B.pausa?"⏸️":B.errores.length?"⚠️":"✅"}</span><div class="col sp"><b>${B.pausa?"Publicaciones en pausa":B.errores.length?"Funcionando, con algún fallo":"Todo funcionando"}</b><span class="mut">${B.pausa?"Escribe /reanudar al bot de Telegram":"Datos de "+D.generado.slice(11)}</span></div></div></div>`;
   h += `<h2>Conexiones</h2><div class="card">${["instagram","threads","facebook"].map(k=>{const v=r[k]||"—";const ok=String(v).startsWith("OK");return `<div class="leg"><span class="sp">${NOMBRE_RED[k]}</span><span class="chip ${ok?"verde":"rojo"}">${ok?"Conectado":"Revisar"}</span></div>`}).join("")}<div class="leg"><span class="sp">Claves de Meta caducan</span><span class="chip ${diasCad<15?"warn":""}">en ${diasCad} días</span></div><div class="leg"><span class="sp">Picks generados</span><span class="mut">${esc((B.picks_generados||"").replace("T"," ").slice(0,16))}</span></div></div>`;
-  h += `<h2>Fallos recientes</h2>` + (B.errores.length ? B.errores.slice().reverse().map(e=>`<div class="card"><div class="row"><b class="sp">${esc(e.post)}</b><span class="chip rojo">${esc(e.red)}</span></div><div class="mut">${esc(e.fecha.replace("T"," "))} · ${esc(e.error)}</div></div>`).join("") : `<div class="empty">Sin fallos en los dos últimos días 👌</div>`);
+  h += `<h2>Incidencias de publicación</h2>` + (B.errores.length ? B.errores.slice().reverse().map(e=>`<div class="card"><div class="row"><b class="sp">${esc(e.post)}</b><span class="chip rojo">${esc(e.red)}</span></div><div class="mut">${esc(e.fecha.replace("T"," "))} · ${esc(e.error)}</div><div class="mut" style="margin-top:8px">${esc(e.bloqueo||"Puedes solicitar otro intento en esta red.")}</div>${e.reintentable?`<a class="btn2" style="display:inline-block;margin-top:10px" href="https://t.me/combilocas_publica_bot?start=retry_${encodeURIComponent(e.clave)}" target="_blank" rel="noopener">Reintentar desde mi bot</a>`:""}</div>`).join("") : `<div class="empty">Sin fallos en los dos últimos días 👌</div>`);
+  if((B.reintentos||[]).length) h += `<h2>Últimos reintentos</h2>`+B.reintentos.slice().reverse().map(r=>`<div class="card"><b>${esc(r.resultado)}</b><div class="mut">${esc(r.red||"")} · ${esc(r.post||"")}</div><div class="mut">${esc(r.fecha.slice(0,16).replace("T"," "))}</div></div>`).join("");
   h += `<h2>Spam quitado</h2>` + (B.spam.length ? B.spam.map(s=>`<div class="card"><div class="row"><b class="sp">${esc(s.autor)}</b><span class="chip">${esc(s.red)}</span></div><div class="mut">${esc((s.cuando||"").slice(0,16).replace("T"," "))} · ${esc(s.motivo)}</div><div class="sub" style="margin-top:4px">${esc(s.texto)}</div></div>`).join("") : `<div class="empty">Nada de spam por ahora</div>`);
   h += `<h2>Comandos del bot de Telegram</h2><div class="card sub">/hoy · /picks · /manana · /combis · /pausa · /reanudar · /editar · /borrar</div>`;
   return h;
@@ -321,6 +346,7 @@ function vBot(){
 $("#recargar").onclick = cargar;
 document.addEventListener("visibilitychange", () => { if(!document.hidden) cargar() });
 setInterval(cargar, 5*60*1000);
+setInterval(()=>{if(D && !document.hidden) pintar()}, 60*1000);
 nav(); cargar();
 </script>
 </body>

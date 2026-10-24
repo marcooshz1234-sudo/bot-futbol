@@ -16,7 +16,9 @@ from datetime import datetime, timedelta
 from bot import COMPETICIONES, DATOS, MADRID, PARTIDOS, RAIZ, leer
 from picks import evaluar_pick, texto_pick
 from plantillas import atractivo
-from publicados import evaluar, picks_de_post
+from publicados import evaluar, picks_de_post, progreso, entender
+from resumen_dia import balance
+from incidencias import identificador, motivo_bloqueo
 
 SALIDA = RAIZ / "docs" / "datos.json"
 CUOTAS_INICIO = DATOS / "cuotas_inicio.json"
@@ -57,6 +59,13 @@ def estado_seleccion(p, d, registro=None):
     if bien and acumulativo:
         return "verde"
     return "va_bien" if bien else "va_mal"
+
+
+def fecha_iso(iso):
+    if not iso:
+        return None
+    fecha = datetime.fromisoformat(iso.replace('Z', '+00:00'))
+    return (fecha if fecha.tzinfo else fecha.replace(tzinfo=MADRID)).isoformat()
 
 
 def hora(iso):
@@ -241,7 +250,7 @@ def main():
                 "estado": vivo.get("estado") or f["fixture"]["status"]["short"],
                 "minuto": vivo.get("minuto") or f["fixture"]["status"].get("elapsed"),
                 "goles": vivo.get("goles") or [f["goals"]["home"], f["goals"]["away"]],
-                "actualizado": vivo.get("visto"),
+                "actualizado": vivo.get("visto"), "actualizado_iso": fecha_iso(vivo.get("visto")),
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
                     "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist)}})
@@ -257,6 +266,7 @@ def main():
                 "partido": f"{p['local']} – {p['visitante']}", "texto": p["texto"], "cuota": p["cuota"],
                 "frecuencia": round(p["frecuencia"] * 100), "detalle": p.get("detalle"), "tipo": p.get("tipo"),
                 "valor": round(p.get("ventaja", 0) * 100), "estado": estado_pick(p),
+                "progreso": progreso(entender(p["texto"])[0], datos_partido(p["partido_id"])),
                 "definitivo": p["opcion"].startswith("Over") or p["opcion"] == "Yes" or p.get("tipo") == "jugador"}
 
     dias = {}
@@ -409,7 +419,8 @@ def main():
             if d:
                 vivo = dict(vivo, goles=d.get("goles"), estado=d.get("estado"))
             filas.append({"texto": l["texto"], "cuota": l["cuota"], "partido": l["partido"], "partido_id": l["partido_id"],
-                          "estado": e, "definitivo": e in ("verde", "rojo"),
+                          "estado": e, "definitivo": e in ("verde", "rojo"), "progreso": progreso(l["spec"], d),
+                          "actualizado_iso": fecha_iso(vivo.get("visto")),
                           "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado")})
         est = p.get("resultado") or ("verde" if all(x["estado"] == "verde" for x in filas) else
                "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
@@ -425,15 +436,34 @@ def main():
     for p in todos:
         if p["fecha"][:10] >= ayer:
             for red, e in (p.get("errores_redes") or {}).items():
-                errores.append({"post": p["texto"].splitlines()[0][:40], "red": red, "error": str(e)[:160], "fecha": p["fecha"]})
-            if p.get("error"):
-                errores.append({"post": p["texto"].splitlines()[0][:40], "red": "telegram", "error": p["error"][:160], "fecha": p["fecha"]})
+                if not (p.get("redes") or {}).get(red):
+                    motivo = motivo_bloqueo(p, red, control, ahora)
+                    errores.append({"clave": identificador(p["id"], red), "post_id": p["id"],
+                                    "post": p["texto"].splitlines()[0][:60], "red": red, "error": str(e)[:160],
+                                    "fecha": p["fecha"], "bloqueo": motivo, "reintentable": motivo is None})
+            if p.get("error") and not (p.get("enviado") or p.get("mensaje_id")):
+                motivo = motivo_bloqueo(p, "telegram", control, ahora)
+                errores.append({"clave": identificador(p["id"], "telegram"), "post_id": p["id"],
+                                "post": p["texto"].splitlines()[0][:60], "red": "telegram", "error": p["error"][:160],
+                                "fecha": p["fecha"], "bloqueo": motivo, "reintentable": motivo is None})
     bot = {"pausa": bool(control.get("pausa")), "redes": leer(RAIZ / "publicaciones" / "estado_redes.json", {}),
-           "claves_caducan": "2026-12-21", "errores": errores[-15:],
+           "claves_caducan": "2026-12-21", "errores": errores[-30:],
+           "reintentos": list((leer(RAIZ / "publicaciones/reintentos_estado.json", {}) or {}).values())[-10:],
            "spam": (leer(DATOS / "moderacion.json", {}) or {}).get("quitados", [])[-10:][::-1],
            "picks_generados": picks.get("generado")}
 
-    datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "hoy": hoy, "manana": manana,
+    resumenes_ruta = RAIZ / "docs/resumenes.json"
+    resumenes = leer(resumenes_ruta, {}) or {}
+    for dia in (ayer, hoy):
+        anteriores = {p['id']: dict(p, fecha=dia) for p in resumenes.get(dia, {}).get('combis', [])}
+        anteriores.update({p['id']: p for p in publicados_hoy if p['fecha'][:10] == dia})
+        b = balance(list(anteriores.values()), dia)
+        if b["total"]:
+            resumenes[dia] = b
+    resumenes = {k: resumenes[k] for k in sorted(resumenes)[-30:]}
+    resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
+             "resumenes": resumenes,
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,

@@ -24,6 +24,7 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
+from incidencias import ambiguo
 
 RAIZ = Path(__file__).resolve().parent
 COLA = RAIZ / "publicaciones" / "cola.json"        # posts manuales (estado dentro)
@@ -65,7 +66,9 @@ def api(token, metodo, datos=None, archivo=None):
                 time.sleep(espera + 1)
                 continue
             raise RuntimeError(f"Telegram {e.code}: {resp.get('description')}")
-        except URLError:
+        except (URLError, TimeoutError):
+            if metodo in ("sendMessage", "sendPhoto"):
+                raise RuntimeError("Envío sin confirmación: comprueba el canal antes de repetir") from None
             time.sleep(5)
     raise RuntimeError("Telegram no responde")
 
@@ -95,7 +98,7 @@ def comprobar(token, canal, ahora):
     print("Estado:", estado)
 
 
-def main():
+def main(objetivo=None):
     token = os.environ.get("TELEGRAM_TOKEN")
     canal = os.environ.get("TELEGRAM_CANAL")
     if not token or not canal:
@@ -112,10 +115,18 @@ def main():
     if control.get("pausa"):
         print("En pausa (desde el asistente): no se publica nada")
         return
+    def guardar_estado():
+        COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        for p in auto:
+            estado = {k: p[k] for k in ("enviado", "mensaje_id", "caducada", "error") if k in p}
+            if estado:
+                enviados[p["id"]] = estado
+        ENVIADOS.write_text(json.dumps(enviados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
     cambios = 0
     # correcciones de posts ya publicados: "editar_texto" en cola.json → se edita el mensaje del canal
     for p in cola:   # posts ya publicados que hay que quitar del canal: "borrar": true
-        if p.get("borrar") and p.get("mensaje_id") and not p.get("borrado"):
+        if not objetivo and p.get("borrar") and p.get("mensaje_id") and not p.get("borrado"):
             try:
                 api(token, "deleteMessage", {"chat_id": canal, "message_id": p["mensaje_id"]})
                 p["borrado"] = ahora.strftime("%Y-%m-%dT%H:%M")
@@ -125,7 +136,7 @@ def main():
             cambios += 1
     for p in cola:
         nuevo = p.get("editar_texto")
-        if not nuevo or not p.get("mensaje_id"):
+        if objetivo or not nuevo or not p.get("mensaje_id"):
             continue
         metodo, campo = ("editMessageCaption", "caption") if p.get("foto") else ("editMessageText", "text")
         try:
@@ -137,8 +148,13 @@ def main():
             p["error_edicion"] = str(e)
             print(f"ERROR al editar {p['id']}: {e}")
         cambios += 1
-    for p in sorted(cola + auto, key=lambda x: x["fecha"]):
-        if p.get("enviado") or p.get("caducada") or p.get("solo_redes"):
+    ids_cola = {p['id'] for p in cola}
+    for p in sorted(cola + [p for p in auto if p['id'] not in ids_cola], key=lambda x: x["fecha"]):
+        if objetivo and (p['id'], 'telegram') != objetivo:
+            continue
+        if p.get("enviado") or p.get("mensaje_id") or p.get("caducada") or p.get("solo_redes") or p.get("borrar"):
+            continue
+        if ambiguo(p.get("error")):
             continue
         if p["id"] in control.get("cancelados", []):
             p["caducada"] = "cancelado"
@@ -168,20 +184,17 @@ def main():
             p["error"] = str(e)
             cambios += 1
             print(f"ERROR en {p['id']}: {e}")
+            guardar_estado()
             continue
         p["enviado"] = ahora.strftime("%Y-%m-%dT%H:%M")
         p["mensaje_id"] = r["result"]["message_id"]
         p.pop("error", None)
         cambios += 1
         print(f"Publicada: {p['id']}")
+        guardar_estado()
         time.sleep(2)
     if cambios:
-        COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        for p in auto:
-            estado = {k: p[k] for k in ("enviado", "mensaje_id", "caducada", "error") if k in p}
-            if estado:
-                enviados[p["id"]] = estado
-        ENVIADOS.write_text(json.dumps(enviados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        guardar_estado()
     print(f"Hecho. Cambios: {cambios}")
 
 

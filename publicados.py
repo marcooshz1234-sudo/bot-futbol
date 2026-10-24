@@ -311,3 +311,85 @@ def evaluar(spec, d):
         valor = candidatos[0].get(spec["campo"])
         return "sin_datos" if valor is None else final(valor >= spec["n"], False)
     return "sin_datos"
+
+
+def progreso(spec, d):
+    """Cuenta observada y objetivo de mercados reconocidos; nunca inventa ceros."""
+    if not spec or not d or d.get('estado') not in FIN | EN_JUEGO:
+        return None
+    t = spec['t']
+    stats = d.get('stats') or {}
+    equipos = [d['local']['id'], d['visitante']['id']]
+
+    def suma(campo, ids=equipos):
+        valores = [(stats.get(str(eq)) or {}).get(campo) for eq in ids]
+        return sum(valores) if all(x is not None for x in valores) else None
+
+    valor, objetivo, unidad = None, None, None
+    if t == 'jugador':
+        nombre = norm(spec['jugador'])
+        candidatos = [j for lista in (d.get('jugadores') or {}).values() for j in lista
+                      if mismo_jugador(nombre, j.get('nombre')) or
+                      (len(nombre.split()) == 1 and norm(j.get('nombre')).split()[-1:] == [nombre])]
+        if len(candidatos) != 1 or not candidatos[0].get('min'):
+            return None
+        valor, objetivo = candidatos[0].get(spec['campo']), spec['n']
+        unidad = {'paradas': 'paradas', 'tiros': 'tiros', 'a_puerta': 'tiros a puerta'}.get(spec['campo'], spec['campo'])
+    elif t in ('goles_mas', 'corners_mas', 'tarjetas_mas', 'tiros_mas', 'estadistica_mas'):
+        campo = {'corners_mas': 'corners', 'tiros_mas': 'tiros', 'estadistica_mas': spec.get('campo')}.get(t)
+        if t == 'goles_mas':
+            g = d.get('goles') or []
+            valor = sum(g) if len(g) == 2 and None not in g else None
+        elif t == 'tarjetas_mas':
+            a, r = suma('amarillas'), suma('rojas')
+            valor = a + r if a is not None and r is not None else None
+        else:
+            valor = suma(campo)
+        objetivo = int(spec['n']) + 1
+        unidad = {'goles_mas': 'goles', 'corners_mas': 'córners', 'tarjetas_mas': 'tarjetas', 'tiros_mas': 'tiros'}.get(t,
+                  {'a_puerta': 'tiros a puerta', 'fueras_juego': 'fueras de juego'}.get(campo, campo))
+    elif t in ('eq_goles', 'eq_corners', 'eq_tarjetas'):
+        ld = lado(spec.get('eq'), d)
+        if not ld:
+            return None
+        if t == 'eq_goles':
+            valor = (d.get('goles') or [None, None])[0 if ld == 'local' else 1]
+        elif t == 'eq_corners':
+            valor = suma('corners', [d[ld]['id']])
+        else:
+            a, r = suma('amarillas', [d[ld]['id']]), suma('rojas', [d[ld]['id']])
+            valor = a + r if a is not None and r is not None else None
+        objetivo, unidad = spec['n'], {'eq_goles': 'goles', 'eq_corners': 'córners', 'eq_tarjetas': 'tarjetas'}[t]
+    elif t in ('gol_ht', 'gol_2t', 'goles_parte', 'corners_parte'):
+        parte = spec.get('parte', 1 if t == 'gol_ht' else 2)
+        objetivo = int(spec.get('n', 0)) + 1
+        if parte == 2 and d.get('estado') in ('1H', 'HT'):
+            return None
+        if t == 'corners_parte':
+            valores = [(d.get('corners_partes', {}).get(str(eq)) or {}).get(f'statistics_{parte}h') for eq in equipos]
+            valor = sum(valores) if all(x is not None for x in valores) else None
+            unidad = 'córners de la parte'
+        else:
+            g, ht = d.get('goles') or [], d.get('descanso') or []
+            if parte == 1 and d.get('estado') == '1H':
+                valor = sum(g) if len(g) == 2 and None not in g else None
+            elif len(ht) == 2 and None not in ht:
+                valor = sum(ht) if parte == 1 else sum(g) - sum(ht) if len(g) == 2 and None not in g else None
+            unidad = 'goles de la parte'
+    elif t in ('ambos', 'ambos_goles'):
+        g = d.get('goles') or []
+        if len(g) == 2 and None not in g:
+            valor, objetivo, unidad = sum(x > 0 for x in g), 2, 'equipos que marcan'
+            if t == 'ambos_goles':
+                goles = int(spec['n']) + 1
+                return {'texto': f'{valor} de 2 equipos marcan · {sum(g)} de {goles} goles',
+                        'porcentaje': min(100, round(100 * min(valor / 2, sum(g) / goles)))}
+    if valor is None or objetivo is None:
+        if t in ('gana', 'doble', 'gana_ht', 'gana_parte', 'no_empate'):
+            g = d.get('goles') or []
+            if len(g) == 2 and None not in g:
+                return {'texto': f'Marcador: {g[0]}–{g[1]}', 'sin_barra': True}
+        return None
+    return {'actual': valor, 'objetivo': objetivo, 'unidad': unidad,
+            'texto': f'{valor:g} de {objetivo:g} {unidad}',
+            'porcentaje': min(100, round(100 * valor / objetivo)) if objetivo else 0}

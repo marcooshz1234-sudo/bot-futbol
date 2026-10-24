@@ -22,6 +22,7 @@ import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.error import HTTPError
+from incidencias import ambiguo
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
@@ -144,7 +145,7 @@ def facebook(p, token_usuario, pagina, con_foto):
 
 # ------------------------------------------------------------------ bucle
 
-def main():
+def main(objetivo=None):
     control = json.loads(CONTROL.read_text(encoding="utf-8")) if CONTROL.exists() else {}
     if control.get("pausa"):
         print("Redes: publicaciones en pausa desde el asistente")
@@ -165,8 +166,17 @@ def main():
     ahora = datetime.now(MADRID)
     ultimo_fb = next((p.get("facebook_tipo") for p in sorted(cola_total, key=lambda x: x["fecha"], reverse=True)
                       if p.get("facebook_tipo")), "texto")
+    def guardar_estado():
+        COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        for p in auto:
+            if any(k in p for k in CAMPOS):
+                est_auto[p["id"]] = {k: p[k] for k in CAMPOS if k in p}
+        ESTADO_AUTO.write_text(json.dumps(est_auto, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
     cambios = 0
     for p in sorted(cola_total, key=lambda x: x["fecha"]):
+        if objetivo and p['id'] != objetivo[0]:
+            continue
         if p["id"] in control.get("cancelados", []):
             continue
         if not p.get("directo") or p.get("caducada") or p.get("borrar"):
@@ -191,6 +201,10 @@ def main():
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
             tareas.append(("facebook", lambda tipo=tipo: facebook(p, claves["facebook"], pagina, tipo == "foto")))
         for red, hacer in tareas:
+            if objetivo and red != objetivo[1]:
+                continue
+            if ambiguo(errores.get(red)):
+                continue
             if ahora - cuando > MAX_RETRASO and red != "instagram_reel":
                 errores[red] = "caducado: no salió a tiempo"
                 hecho[red] = None
@@ -206,6 +220,12 @@ def main():
                 errores[red] = str(e)
                 print(f"{red}: ERROR en {p['id']}: {e}")
             cambios += 1
+            for campo in CAMPOS:
+                if campo in p:
+                    original[campo] = p[campo]
+                else:
+                    original.pop(campo, None)
+            guardar_estado()
         if not errores:
             p.pop("errores_redes", None)
         for campo in CAMPOS:
@@ -214,11 +234,7 @@ def main():
             else:
                 original.pop(campo, None)
     if cambios:
-        COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        for p in auto:
-            if any(k in p for k in CAMPOS):
-                est_auto[p["id"]] = {k: p[k] for k in CAMPOS if k in p}
-        ESTADO_AUTO.write_text(json.dumps(est_auto, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        guardar_estado()
     print(f"Redes: {cambios} cambios")
 
 
