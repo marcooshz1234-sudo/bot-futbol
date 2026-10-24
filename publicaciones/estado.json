@@ -1,4 +1,6 @@
 {
-  "comprobado": "2026-10-24 03:12",
-  "error": "The read operation timed out"
+  "comprobado": "2026-10-24 03:14",
+  "bot": "@combilocas_publica_bot",
+  "rol": "administrator",
+  "puede_publicar": true
 }
