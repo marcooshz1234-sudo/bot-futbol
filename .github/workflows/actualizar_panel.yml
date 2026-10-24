@@ -1,0 +1,48 @@
+name: Actualizar panel sin publicar
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/actualizar_panel.yml'
+      - 'app_datos.py'
+      - 'directo.py'
+      - 'publicados.py'
+      - 'picks.py'
+permissions:
+  contents: write
+concurrency:
+  group: actualizar-panel
+  cancel-in-progress: false
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Actualizar marcadores y páginas sin enviar mensajes
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          python -u directo.py
+          python -u app_datos.py
+      - name: Guardar datos actualizados
+        run: |
+          git config user.name "bot-futbol"
+          git config user.email "bot-futbol@users.noreply.github.com"
+          for ruta in docs datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json; do
+            if [ -e "$ruta" ]; then git add -A "$ruta"; fi
+          done
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Panel: actualiza marcadores y resultados"
+          for intento_panel in 1 2 3; do
+            if git pull --rebase -X theirs -q && git push -q; then exit 0; fi
+            sleep 5
+          done
+          echo "No se pudieron guardar los datos del panel"
+          exit 1
