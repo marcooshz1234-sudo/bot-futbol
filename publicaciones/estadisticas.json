@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24 11:55",
+ "actualizado": "2026-10-24 12:05",
  "redes": {
   "instagram": {
    "seguidores": null,
@@ -7,11 +7,11 @@
    "serie": []
   },
   "threads": {
-   "seguidores": 852,
-   "hoy": 16,
+   "seguidores": 853,
+   "hoy": 17,
    "serie": [
     836,
-    852
+    853
    ]
   },
   "facebook": {
@@ -31,13 +31,13 @@
    ]
   }
  },
- "total": 928,
- "total_hoy": 17,
+ "total": 929,
+ "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "13:00",
   "dia": "2026-10-24",
-  "titulo": "Combi segura del sábado"
+  "titulo": "Combi loca del sábado"
  },
  "ayer": {
   "aciertos": 8,
@@ -57,7 +57,7 @@
    "telegram": 75
   },
   "2026-10-24": {
-   "threads": 852,
+   "threads": 853,
    "facebook": 0,
    "telegram": 76
   }
