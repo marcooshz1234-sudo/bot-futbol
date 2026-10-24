@@ -1,7 +1,7 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 02:56_

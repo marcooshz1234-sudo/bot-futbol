@@ -1,7 +1,7 @@
 # Lecce – Juventus
 **Serie A** · Regular Season - 8 · 25/10/2026 18:00 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 02:56_

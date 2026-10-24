@@ -1,7 +1,7 @@
 # Chelsea – Tottenham
 **Premier League** · Regular Season - 8 · 24/10/2026 18:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 08:45._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 02:55_
