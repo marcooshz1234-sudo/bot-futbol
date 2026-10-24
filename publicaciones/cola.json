@@ -324,6 +324,13 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-24T23:31",
+    "mensaje_id": 84,
+    "redes": {},
+    "errores_redes": {
+      "threads": "531 caracteres (máx. 500)",
+      "facebook": "400: API access blocked."
+    }
   }
 ]
