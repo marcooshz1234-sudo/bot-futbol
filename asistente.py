@@ -27,6 +27,7 @@ import subprocess
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
+from incidencias import solicitar, publicaciones, identificador, motivo_bloqueo
 
 from publicar_telegram import AUTOS, COLA, ENVIADOS, MADRID, RAIZ, api, preparar_texto
 
@@ -214,6 +215,17 @@ class Asistente:
         partes = texto.split()
         orden = partes[0].split("@")[0].lower()
         hoy = datetime.now(MADRID).date()
+        if orden == "/start" and len(partes) == 2 and partes[1].startswith("retry_"):
+            clave = partes[1][6:]
+            for p in publicaciones(RAIZ):
+                for red in ("telegram", "threads", "instagram", "facebook", "instagram_reel"):
+                    if identificador(p['id'], red) == clave:
+                        motivo = motivo_bloqueo(p, red, self.control(), datetime.now(MADRID))
+                        if motivo:
+                            return self.enviar(motivo)
+                        return self.enviar(f"Reintentar en {red}: {p['texto'].splitlines()[0]}\n\nSolo se intentará esta red; se conservarán los envíos ya confirmados.",
+                                           [[("Reintentar", f"retry|{clave}"), ("Cancelar", "ok_no")]])
+            return self.enviar("Incidencia no encontrada. Actualiza el panel.")
         if orden in ("/start", "/ayuda"):
             return self.enviar(__doc__.split("Comandos:")[1].split("Lo que decides")[0].strip())
         if orden == "/hoy":
@@ -275,6 +287,10 @@ class Asistente:
         accion, *resto = q["data"].split("|")
         api(self.t, "answerCallbackQuery", {"callback_query_id": q["id"]})
         c = self.control()
+        if accion == "retry":
+            resultado = solicitar(RAIZ, resto[0])
+            guardar("solicitud de reintento")
+            return self.enviar(resultado)
         if accion == "ok":
             return self.enviar("👍 Saldrá a su hora.")
         if accion == "cancelar":
