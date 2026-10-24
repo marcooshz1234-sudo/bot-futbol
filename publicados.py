@@ -9,6 +9,8 @@ y la corrige con los datos del partido (en directo o terminado).
 
 import re
 import unicodedata
+from datetime import datetime, timedelta
+from picks import mismo_jugador
 
 ALIAS = {"niza": "nice", "gladbach": "monchengladbach", "forest": "nottingham", "atleti": "atletico",
          "betis": "betis", "barca": "barcelona", "inter": "inter", "milan": "ac milan", "psg": "paris saint germain",
@@ -20,23 +22,25 @@ FIN = {"FT", "AET", "PEN"}
 
 
 def norm(t):
-    t = (t or "").replace("–", " - ").replace("—", " - ")
+    t = (t or "").replace("–", " - ").replace("—", " - ").replace("→", ":")
     t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()
     t = re.sub(r"[^a-z0-9+.,/ ()\-:]", " ", t)
     return re.sub(r"\s+", " ", t).strip()
 
 
 def lineas(texto):
-    """Líneas de apuesta de un post: las que acaban en '· cuota'."""
+    """Selecciones con cuota individual o marcadas con ✅, bandera o número."""
     salida = []
     for l in texto.splitlines():
         m = re.search(r"·\s*~?(\d+[.,]\d+)\s*$", l.strip())
-        if not m or re.search(r"(?i)cuota|→|€", l):
+        if re.search(r"(?i)cuota|€|🆚|\bVS\b", l):
             continue
-        cuerpo = l.strip()[:m.start()].strip()
+        if not m and not re.match(r"^\s*(?:✅|\d[.)]|\d️⃣|[🇦-🇿])", l):
+            continue
+        cuerpo = l.strip()[:m.start()].strip() if m else l.strip()
         cuerpo = re.sub(r"^[^A-Za-zÁÉÍÓÚáéíóúÑñ]*", "", cuerpo)              # ✅1. 🔴 1️⃣ banderas...
         cuerpo = re.sub(r"^(\d+[.)]\s*)", "", cuerpo)
-        salida.append({"texto": cuerpo, "cuota": float(m.group(1).replace(",", "."))})
+        salida.append({"texto": cuerpo, "cuota": float(m.group(1).replace(",", ".")) if m else None})
     return salida
 
 
@@ -72,7 +76,21 @@ def entender(t):
     n = re.sub(r"^(el|la|los) ", "", n).strip()
     n = re.sub(r"^\+(\d)", r"mas de \1", n)
     n = re.sub(r"^marca (?:el |la )?(.+)$", r"\1 marca", n)
+    n = n.removesuffix(" en el partido").replace("gana alguna de las dos partes", "gana una parte")
     n = {"sin empate": "no hay empate"}.get(n, n)
+    m = re.match(r"^mas de (\d+(?:[.,]\d+)?) (goles|corners) en la (1a|primera|2a|segunda) parte$", n)
+    if m:
+        return {"t": "goles_parte" if m[2] == "goles" else "corners_parte",
+                "n": num(m[1]), "parte": 1 if m[3] in ("1a", "primera") else 2}, ctx
+    m = re.match(r"^(.+?) (?:saca|ve) (\d+) o mas (corners|tarjetas)$", n)
+    if m:
+        return {"t": "eq_corners" if m[3] == "corners" else "eq_tarjetas", "eq": m[1], "n": int(m[2])}, ctx
+    m = re.match(r"^mas de (\d+(?:[.,]\d+)?) (tiros a puerta|fueras de juego)$", n)
+    if m:
+        return {"t": "estadistica_mas", "campo": "a_puerta" if m[2] == "tiros a puerta" else "fueras_juego", "n": num(m[1])}, ctx
+    m = re.match(r"^ambos marcan y mas de (\d+(?:[.,]\d+)?) goles$", n)
+    if m:
+        return {"t": "ambos_goles", "n": num(m[1])}, ctx
     P = [
         (r"^gol (?:en la )?(?:2a|segunda) parte$", lambda g: {"t": "gol_2t"}),
         (r"^(.+?) gana una parte$", lambda g: {"t": "gana_parte", "eq": g}),
@@ -94,7 +112,7 @@ def entender(t):
         (r"^(.+?) ve (\d+)\+ tarjetas?$", None),
         (r"^(.+?) ve mas de (\d+(?:[.,]\d+)?) tarjetas?$", None),
         (r"^(.+?) hace mas tiros$", lambda g: {"t": "mas_tiros", "eq": g}),
-        (r"^(.+?)(?: \(.*?\))? (\d+)\+ (tiros?|remates? a puerta|tiros? a puerta|paradas)$", None),
+        (r"^(.+?)(?: hace)? (\d+)\+ (remates? a puerta|tiros? a puerta|tiros?|remates?|paradas)$", None),
     ]
     for pat, f in P:
         m = re.match(pat, n)
@@ -134,11 +152,20 @@ def buscar_partido(partidos, a=None, b=None, equipo=None):
 def picks_de_post(post, partidos):
     """[{texto, cuota, spec, partido_id, partido}] de un post publicado. partidos: [{id, local, visitante}]"""
     tit = equipos_titulo(post["texto"])
+    if post.get("fecha"):
+        dia = datetime.fromisoformat(post["fecha"][:10])
+        if "para manana" in norm(post["texto"].splitlines()[0]):
+            dia += timedelta(days=1)
+        partidos = [p for p in partidos if not p.get("fecha") or p["fecha"][:10] == dia.strftime("%Y-%m-%d")]
     salida = []
-    for l in lineas(post["texto"]):
+    for i, l in enumerate(lineas(post["texto"])):
         spec, ctx = entender(l["texto"])
         p = None
-        if ctx:
+        claves = post.get("sel") or []
+        if i < len(claves):
+            fid = str(claves[i]).split("|", 1)[0]
+            p = next((x for x in partidos if str(x["id"]) == fid), None)
+        if not p and ctx:
             p = buscar_partido(partidos, *ctx)
         if not p and tit:
             p = buscar_partido(partidos, *tit)
@@ -181,7 +208,13 @@ def evaluar(spec, d):
         return "va_bien" if ok_ahora else "va_mal"
 
     def total(k):
-        return sum((s[x].get(k) or 0) for x in s)
+        valores = [s[x].get(k) for x in s]
+        return sum(valores) if all(v is not None for v in valores) else None
+
+    campos = {"corners_mas": ("corners",), "tarjetas_mas": ("amarillas",), "tiros_mas": ("tiros",),
+              "eq_corners": ("corners",), "eq_tarjetas": ("amarillas",), "mas_tiros": ("tiros",)}
+    if t in campos and any(total(k) is None for k in campos[t]):
+        return "sin_datos"
 
     if t in ("gana_parte",):
         pass
@@ -217,6 +250,29 @@ def evaluar(spec, d):
         return final(False, g[0] != g[1])
     if t == "ambos":
         return final(g[0] > 0 and g[1] > 0, False)
+    if t == "ambos_goles":
+        return final(min(g) > 0 and sum(g) > spec["n"], False)
+    if t == "goles_parte":
+        if est == "1H":
+            return final(sum(g) > spec["n"], False) if spec["parte"] == 1 else "pendiente"
+        if ht[0] is None or ht[1] is None:
+            return "sin_datos"
+        valor = sum(ht) if spec["parte"] == 1 else sum(g) - sum(ht)
+        if spec["parte"] == 1 and est != "1H":
+            return "verde" if valor > spec["n"] else "rojo"
+        return final(valor > spec["n"], False)
+    if t == "corners_parte":
+        valores = [(d.get("corners_partes", {}).get(str(d[ld]["id"])) or {}).get(f"statistics_{spec['parte']}h")
+                   for ld in ("local", "visitante")]
+        if any(v is None for v in valores):
+            return "sin_datos"
+        valor = sum(valores)
+        if spec["parte"] == 1 and est != "1H":
+            return "verde" if valor > spec["n"] else "rojo"
+        return final(valor > spec["n"], False)
+    if t == "estadistica_mas":
+        valor = total(spec["campo"])
+        return "sin_datos" if valor is None else final(valor > spec["n"], False)
     if t == "gol_ht":
         if est == "1H":
             return "verde" if sum(g) > 0 else "va_mal"
@@ -230,7 +286,7 @@ def evaluar(spec, d):
     if t == "corners_mas":
         return final(total("corners") > spec["n"], False)
     if t == "tarjetas_mas":
-        return final(total("amarillas") + total("rojas") > spec["n"], False)
+        return final(total("amarillas") + (total("rojas") or 0) > spec["n"], False)
     if t == "tiros_mas":
         return final(total("tiros") > spec["n"], False)
     if t == "eq_goles":
@@ -242,12 +298,12 @@ def evaluar(spec, d):
     if t == "mas_tiros":
         return final(False, (s[ld].get("tiros") or 0) > (s[otro].get("tiros") or 0))
     if t == "jugador":
-        ap = norm(spec["jugador"]).split()[-1]
-        for lista in (d.get("jugadores") or {}).values():
-            for jg in lista:
-                if ap and ap in norm(jg.get("nombre", "")).split()[-1:] + [norm(jg.get("nombre", ""))]:
-                    return final((jg.get(spec["campo"]) or 0) >= spec["n"], False)
-                if ap and norm(jg.get("nombre", "")).endswith(ap):
-                    return final((jg.get(spec["campo"]) or 0) >= spec["n"], False)
-        return "sin_datos" if not fin else "pendiente"
+        nombre = norm(spec["jugador"])
+        candidatos = [j for lista in (d.get("jugadores") or {}).values() for j in lista
+                      if mismo_jugador(nombre, j.get("nombre")) or
+                      (len(nombre.split()) == 1 and norm(j.get("nombre")).split()[-1:] == [nombre])]
+        if len(candidatos) != 1 or not candidatos[0].get("min"):
+            return "sin_datos"
+        valor = candidatos[0].get(spec["campo"])
+        return "sin_datos" if valor is None else final(valor >= spec["n"], False)
     return "sin_datos"

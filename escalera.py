@@ -15,7 +15,7 @@ import json
 from datetime import datetime
 
 from bot import DATOS, MADRID, PARTIDOS, leer
-from picks import evaluador
+from picks import evaluar_pick
 
 ESTADO = DATOS / "escalera.json"
 INICIAL = 20.0
@@ -52,14 +52,7 @@ def resultado(pick):
     p = leer(PARTIDOS / f"{pick['partido_id']}.json")
     if not p or p.get("estado") not in ("FT", "AET", "PEN"):
         return None
-    if pick.get("jugador_id"):   # pata de jugador (p. ej. paradas del portero, mirada a mano en bet365)
-        for lista in (p.get("jugadores") or {}).values():
-            for j in lista:
-                if j.get("id") == pick["jugador_id"]:
-                    return (j.get(pick["campo"]) or 0) >= pick["n"]
-        return True   # no jugó: bet365 anula la pata (cuenta como 1,00)
-    f = evaluador(pick["mercado"], pick["opcion"], True)
-    return bool(f(p, p["local"]["id"])) if f else None
+    return evaluar_pick(pick, p)
 
 
 def main():

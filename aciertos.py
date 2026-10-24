@@ -15,7 +15,7 @@ from collections import defaultdict
 from datetime import datetime
 
 from bot import DATOS, MADRID, PARTIDOS, RAIZ, leer
-from picks import evaluador
+from picks import evaluar_pick
 
 REGISTRO = DATOS / "registro_aciertos.json"
 
@@ -28,10 +28,7 @@ def resultado(p):
     partido = leer(PARTIDOS / f"{p['partido_id']}.json")
     if not partido or partido.get("estado") not in ("FT", "AET", "PEN"):
         return None, None
-    f = evaluador(p["mercado"], p["opcion"], True)
-    if not f:
-        return None, None
-    r = f(partido, partido["local"]["id"])
+    r = evaluar_pick(p, partido)
     g = partido.get("goles") or []
     marcador = f"{g[0]}-{g[1]}" if isinstance(g, list) and len(g) == 2 else None
     return (None if r is None else bool(r)), marcador
@@ -50,7 +47,8 @@ def main():
             if p["fecha"] <= ahora and k in reg:
                 continue   # ya empezó: se queda la cuota con la que se eligió
             reg[k] = {c: p.get(c) for c in ("partido_id", "fecha", "competicion", "local", "visitante",
-                                             "mercado", "opcion", "tipo", "texto", "cuota", "frecuencia")}
+                                             "mercado", "opcion", "tipo", "texto", "cuota", "frecuencia",
+                                             "jugador_id", "jugador", "campo", "n")}
             reg[k]["acierto"] = None
 
     corregidos = 0

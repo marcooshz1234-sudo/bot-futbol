@@ -595,7 +595,7 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
                 equipo = loc["name"] if ld == "home" else vis["name"]
                 salida.append(dict(base, mercado=mercado, opcion=valor, cuota=cuota, frecuencia=round(frec, 3),
                                    ventaja=round(frec - 1 / cuota, 3), tipo="jugador", jugador=nombre.strip(),
-                                   equipo=equipo, campo=campo, n=n,
+                                   equipo=equipo, jugador_id=pid, campo=campo, n=n,
                                    texto=plantilla.format(j=nombre.strip(), n=n),
                                    detalle=f"{nombre.strip()} {si}/{len(regs)}"))
                 break
@@ -609,6 +609,39 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
 
 
 # ------------------------------------------------------------ cálculo
+
+def evaluar_pick(pick, partido):
+    """Evalúa una selección estructurada; None significa que faltan datos, no un fallo."""
+    mercado = pick.get("mercado")
+    if pick.get("tipo") == "jugador" or pick.get("jugador_id") or mercado in JUG_MERCADOS:
+        campo = pick.get("campo") or (JUG_MERCADOS.get(mercado) or (None,))[0]
+        nombre = pick.get("jugador")
+        n = pick.get("n")
+        if (nombre is None and not pick.get("jugador_id")) or n is None:
+            opcion = str(pick.get("opcion") or "")
+            if campo in ("amarillas", "goles", "gol_o_asist"):
+                nombre, n = nombre or opcion, 1 if n is None else n
+            else:
+                try:
+                    jugador, linea = opcion.rsplit(" - ", 1)
+                    nombre, n = nombre or jugador, int(float(linea)) if n is None else n
+                except ValueError:
+                    return None
+        candidatos = [j for lista in (partido.get("jugadores") or {}).values() for j in lista
+                      if (j.get("id") == pick["jugador_id"] if pick.get("jugador_id")
+                          else mismo_jugador(nombre, j.get("nombre")))]
+        if len(candidatos) != 1 or not campo:
+            return None
+        j = candidatos[0]
+        if not j.get("min"):
+            return None  # No convertir un jugador sin participación en un acierto o una pérdida.
+        valor = j.get(campo)
+        if campo == "gol_o_asist":
+            valor = None if j.get("goles") is None or j.get("asist") is None else j["goles"] + j["asist"]
+        return None if valor is None else valor >= n
+    f = evaluador(mercado, pick.get("opcion"), True)
+    return f(partido, partido["local"]["id"]) if f else None
+
 
 def historial():
     idx = defaultdict(list)

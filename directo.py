@@ -10,7 +10,7 @@ import json
 import os
 from datetime import datetime, timedelta
 
-from bot import API, COMPETICIONES, DATOS, MADRID, RAIZ, leer, recortar_partido
+from bot import API, COMPETICIONES, DATOS, MADRID, RAIZ, leer, recortar_partido, extraer_corners_por_parte
 from publicados import picks_de_post
 
 CARPETA = DATOS / "en_directo"
@@ -24,7 +24,8 @@ def partidos_conocidos(api, hoy):
     for lg in COMPETICIONES:
         for f in leer(DATOS / f"calendario_{lg}.json", []) or []:
             lista.append({"id": f["fixture"]["id"], "local": f["teams"]["home"]["name"],
-                          "visitante": f["teams"]["away"]["name"], "fecha": f["fixture"]["date"]})
+                          "visitante": f["teams"]["away"]["name"], "fecha": f["fixture"]["date"],
+                          "liga_id": lg})
     fx = leer(FIXTURES, {}) or {}
     if api and fx.get("dia") != hoy:
         dia = []
@@ -67,7 +68,15 @@ def main():
     picks = leer(DATOS / "picks.json", {}) or {}
     api = API(clave)
     partidos = partidos_conocidos(api, ahora.strftime("%Y-%m-%d"))
+    resumen = leer(DATOS / "en_directo.json", {}) or {}
     ids = set()
+    # Actualizar también los partidos sin picks y recuperar finales que quedaron en juego.
+    for p in partidos:
+        inicio = datetime.fromisoformat(p["fecha"].replace("Z", "+00:00")).astimezone(MADRID)
+        if (p.get("liga_id") in COMPETICIONES and
+                ahora - timedelta(hours=30) <= inicio <= ahora + timedelta(minutes=5) and
+                (resumen.get(str(p["id"])) or {}).get("estado") not in ("FT", "AET", "PEN")):
+            ids.add(p["id"])
     for pid, fecha in ids_publicados(partidos, ahora).items():
         inicio = datetime.fromisoformat(fecha.replace("Z", "+00:00")).astimezone(MADRID)
         if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=150):
@@ -78,7 +87,6 @@ def main():
             inicio = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
             if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=150):
                 ids.add(p["partido_id"])
-    resumen = leer(DATOS / "en_directo.json", {}) or {}
     resumen = {k: v for k, v in resumen.items() if v.get("visto", "") >= (ahora - timedelta(hours=12)).strftime("%Y-%m-%dT%H:%M")}
     if not ids:
         (DATOS / "en_directo.json").write_text(json.dumps(resumen, ensure_ascii=False), encoding="utf-8")
@@ -89,6 +97,9 @@ def main():
     for i in range(0, len(lista), 20):
         for r in api.get("fixtures", ids="-".join(map(str, lista[i:i + 20]))):
             p = recortar_partido(r)
+            if p["estado"] in ("1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT", "FT", "AET", "PEN"):
+                mitades = api.get("fixtures/statistics", fixture=p["id"], half="true")
+                p["corners_partes"] = extraer_corners_por_parte(mitades)
             (CARPETA / f"{p['id']}.json").write_text(json.dumps(p, ensure_ascii=False), encoding="utf-8")
             resumen[str(p["id"])] = {"estado": p["estado"], "minuto": r["fixture"]["status"].get("elapsed"),
                                      "goles": p.get("goles"), "visto": ahora.strftime("%Y-%m-%dT%H:%M"),

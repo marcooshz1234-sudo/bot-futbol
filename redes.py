@@ -16,6 +16,7 @@ Claves (GitHub → Settings → Secrets): THREADS_TOKEN, INSTAGRAM_TOKEN, FACEBO
 """
 
 import json
+import hashlib
 import os
 import time
 from datetime import datetime, timedelta
@@ -29,6 +30,7 @@ RAIZ = Path(__file__).resolve().parent
 COLA = RAIZ / "publicaciones" / "cola.json"
 AUTO = RAIZ / "publicaciones" / "auto.json"            # posts del bot (plantillas.py)
 ESTADO_AUTO = RAIZ / "publicaciones" / "enviados_redes.json"   # su estado en redes
+CONTROL = RAIZ / "publicaciones" / "control.json"
 CAMPOS = ("redes", "errores_redes", "facebook_tipo")
 MADRID = ZoneInfo("Europe/Madrid")
 RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/publicaciones/media/"
@@ -86,6 +88,11 @@ def url_media(p, ext):
     f = RAIZ / "publicaciones" / "media" / f"{p['id']}.{ext}"
     if not f.exists():
         return None
+    if p.get("_texto_cambiado"):
+        huella = RAIZ / "publicaciones" / "media" / f"{p['id']}.huella"
+        esperada = hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
+        if not huella.exists() or huella.read_text().strip() != esperada:
+            return None  # La imagen anterior no debe contradecir el texto corregido.
     return f"{RAW}{p['id']}.{ext}?v={int(f.stat().st_mtime)}"   # cambia si se regenera
 
 
@@ -138,6 +145,10 @@ def facebook(p, token_usuario, pagina, con_foto):
 # ------------------------------------------------------------------ bucle
 
 def main():
+    control = json.loads(CONTROL.read_text(encoding="utf-8")) if CONTROL.exists() else {}
+    if control.get("pausa"):
+        print("Redes: publicaciones en pausa desde el asistente")
+        return
     claves = {"threads": os.environ.get("THREADS_TOKEN"), "instagram": os.environ.get("INSTAGRAM_TOKEN"),
               "facebook": os.environ.get("FACEBOOK_TOKEN")}
     pagina = os.environ.get("FACEBOOK_PAGINA")
@@ -156,8 +167,13 @@ def main():
                       if p.get("facebook_tipo")), "texto")
     cambios = 0
     for p in sorted(cola_total, key=lambda x: x["fecha"]):
+        if p["id"] in control.get("cancelados", []):
+            continue
         if not p.get("directo") or p.get("caducada") or p.get("borrar"):
             continue
+        original = p
+        texto = control.get("textos", {}).get(p["id"], p["texto"])
+        p = dict(p, texto=texto, _texto_cambiado=texto != p["texto"])
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
         if cuando > ahora or ahora - cuando > MAX_RETRASO + REEL_TRAS:
             continue
@@ -169,7 +185,7 @@ def main():
         if claves["instagram"] and "instagram" not in hecho and not p.get("sin_instagram"):
             tareas.append(("instagram", lambda: instagram(p, claves["instagram"])))
         if (claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
-                and ahora >= cuando + REEL_TRAS and "instagram" in hecho):
+                and ahora >= cuando + REEL_TRAS and hecho.get("instagram")):
             tareas.append(("instagram_reel", lambda: instagram(p, claves["instagram"], reel=True)))
         if claves["facebook"] and "facebook" not in hecho:
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
@@ -192,6 +208,11 @@ def main():
             cambios += 1
         if not errores:
             p.pop("errores_redes", None)
+        for campo in CAMPOS:
+            if campo in p:
+                original[campo] = p[campo]
+            else:
+                original.pop(campo, None)
     if cambios:
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         for p in auto:
