@@ -10,6 +10,9 @@ const context = vm.createContext({
   setInterval(){}, setTimeout(){}, fetch: () => new Promise(() => {}), console,
 });
 vm.runInContext(source, context);
+assert.ok(vm.runInContext('icono({estado:"no_jugo"})', context).includes('No jugó'));
+assert.ok(!vm.runInContext('icono({estado:"no_jugo"})', context).includes('⏳'));
+assert.ok(vm.runInContext('icono({estado:"sin_datos",estado_partido:"FT"})', context).includes('Sin datos'));
 vm.runInContext(`
 D = {generado:'2026-10-24 18:30', hoy:'2026-10-24', manana:'2026-10-25',
   dias:{'2026-10-24':{picks:[{partido_id:2,texto:'Más de 1,5 goles',cuota:1.4,estado:'verde'}]}},
