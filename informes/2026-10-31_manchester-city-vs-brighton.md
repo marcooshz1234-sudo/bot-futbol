@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:07_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **1.67**  ·  X **4.10**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.15**
@@ -16,6 +16,11 @@ _Actualizadas: 23/10 17:07_
     - 4,5: más **3.75** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
@@ -27,6 +32,11 @@ _Actualizadas: 23/10 17:07_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.60**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.36**  ·  2 **2.38**
@@ -34,8 +44,9 @@ _Actualizadas: 23/10 17:07_
 - **Win Both Halves:** 1 **4.33**  ·  2 **17.00**
 - **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **21.00**  ·  Away/No **10.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.50**
+- **Away Player Shots On Target Total:** Allan Andrade **26.00**  ·  Maxim De Cuyper **51.00**  ·  Jaouen Hadjam **29.00**  ·  Ayyoub Bouaddi **26.00**  ·  Ibrahim Osman **34.00**  ·  Olivier Boscagli **51.00**  ·  Vitor Reis **21.00**  ·  Jeremy Doku **34.00**  ·  Marc Guehi **13.00**  ·  Diego Gomez **41.00**  ·  Rayan Ait Nouri **51.00**  ·  Ferdi Kadioglu **67.00**  ·  Ruben Dias **17.00**  ·  Enzo Fernandez **17.00**  ·  Zadok Yohanna **21.00**  ·  Michael Svoboda **19.00**  ·  Ryan McAidoo **19.00**  ·  Pascal Struijk **19.00**  ·  Rayan Cherki **26.00**  ·  Abduqodir Khusanov **29.00**  ·  Promise David **21.00**  ·  Luka Vuskovic **12.00**  ·  Malick Yalcouye **23.00**  ·  Matheus Nunes **41.00**  ·  Joao Pedro Costinha **81.00**  ·  Floyd Samba **11.00**  ·  Elliot Anderson **41.00**  ·  Shane Nti **41.00**  ·  Younes Ibrahim **23.00**  ·  Erling Haaland **5.00**  ·  Josko Gvardiol **13.00**  ·  Mateo Kovacic **51.00**  ·  Phil Foden **34.00**  ·  Rico Lewis **101.00**  ·  Matt O'Riley **51.00**  ·  Georginio Rutter **15.00**  ·  Jack Hinshelwood **17.00**  ·  Lewis Dunk **19.00**  ·  Yasin Ayari **51.00**  ·  Charalampos Kostoulas **10.00**  ·  Chema Andres **12.00**  ·  Iliman-Cheikh Ndiaye **26.00**  ·  Nico O'Reilly **17.00**  ·  Kaden Braithwaite **21.00**  ·  Pascal Gross **41.00**
 - **Anytime Goal Scorer:** Allan Andrade **3.40**  ·  Maxim De Cuyper **5.50**  ·  Jaouen Hadjam **9.00**  ·  Ayyoub Bouaddi **6.50**  ·  Ibrahim Osman **4.00**  ·  Olivier Boscagli **13.00**  ·  Vitor Reis **8.00**  ·  Jeremy Doku **4.00**  ·  Marc Guehi **8.00**  ·  Diego Gomez **5.00**  ·  Rayan Ait Nouri **5.50**  ·  Ferdi Kadioglu **8.00**  ·  Ruben Dias **11.00**  ·  Enzo Fernandez **4.33**  ·  Zadok Yohanna **4.33**  ·  Michael Svoboda **13.00**  ·  Ryan McAidoo **4.00**  ·  Pascal Struijk **13.00**  ·  Rayan Cherki **2.75**  ·  Abduqodir Khusanov **11.00**  ·  Promise David **3.75**  ·  Luka Vuskovic **9.00**  ·  Malick Yalcouye **5.00**  ·  Matheus Nunes **9.00**  ·  Joao Pedro Costinha **13.00**  ·  Floyd Samba **2.38**  ·  Elliot Anderson **6.50**  ·  Shane Nti **4.33**  ·  Younes Ibrahim **5.00**  ·  Erling Haaland **1.67**  ·  Josko Gvardiol **8.00**  ·  Mateo Kovacic **6.50**  ·  Phil Foden **3.00**  ·  Rico Lewis **11.00**  ·  Matt O'Riley **6.00**  ·  Georginio Rutter **3.75**  ·  Jack Hinshelwood **5.50**  ·  Lewis Dunk **13.00**  ·  Yasin Ayari **6.00**  ·  Charalampos Kostoulas **3.25**  ·  Chema Andres **6.50**  ·  Iliman-Cheikh Ndiaye **3.00**  ·  Nico O'Reilly **5.50**  ·  Kaden Braithwaite **9.00**  ·  Pascal Gross **4.33**
-- **Player to Score or Assist:** Allan Andrade **2.10**  ·  Maxim De Cuyper **2.88**  ·  Jaouen Hadjam **4.33**  ·  Ayyoub Bouaddi **3.10**  ·  Ibrahim Osman **2.75**  ·  Olivier Boscagli **5.50**  ·  Vitor Reis **6.00**  ·  Jeremy Doku **2.10**  ·  Marc Guehi **5.50**  ·  Diego Gomez **3.50**  ·  Rayan Ait Nouri **2.88**  ·  Ferdi Kadioglu **5.00**  ·  Ruben Dias **7.50**  ·  Enzo Fernandez **2.30**  ·  Zadok Yohanna **2.88**  ·  Michael Svoboda **7.50**  ·  Ryan McAidoo **2.50**  ·  Pascal Struijk **8.50**  ·  Abduqodir Khusanov **7.50**  ·  Promise David **2.75**  ·  Luka Vuskovic **7.00**  ·  Malick Yalcouye **3.25**  ·  Matheus Nunes **3.75**  ·  Joao Pedro Costinha **4.33**  ·  Floyd Samba **1.80**  ·  Elliot Anderson **2.88**  ·  Shane Nti **2.50**  ·  Younes Ibrahim **3.10**  ·  Josko Gvardiol **5.00**  ·  Mateo Kovacic **3.40**  ·  Phil Foden **2.00**  ·  Rico Lewis **3.75**  ·  Matt O'Riley **3.20**  ·  Georginio Rutter **2.60**  ·  Jack Hinshelwood **3.75**  ·  Lewis Dunk **9.00**  ·  Yasin Ayari **3.60**  ·  Chema Andres **4.00**  ·  Iliman-Cheikh Ndiaye **2.00**  ·  Nico O'Reilly **3.40**  ·  Kaden Braithwaite **6.00**
+- **Player to Score or Assist:** Allan Andrade **2.10**  ·  Maxim De Cuyper **2.88**  ·  Jaouen Hadjam **4.33**  ·  Ayyoub Bouaddi **3.10**  ·  Ibrahim Osman **2.75**  ·  Olivier Boscagli **5.50**  ·  Vitor Reis **6.00**  ·  Jeremy Doku **2.10**  ·  Marc Guehi **5.50**  ·  Diego Gomez **3.50**  ·  Rayan Ait Nouri **2.88**  ·  Ferdi Kadioglu **5.00**  ·  Ruben Dias **7.50**  ·  Enzo Fernandez **2.30**  ·  Zadok Yohanna **2.88**  ·  Michael Svoboda **7.50**  ·  Ryan McAidoo **2.50**  ·  Pascal Struijk **8.50**  ·  Rayan Cherki **1.62**  ·  Abduqodir Khusanov **7.50**  ·  Promise David **2.75**  ·  Luka Vuskovic **7.00**  ·  Malick Yalcouye **3.25**  ·  Matheus Nunes **3.75**  ·  Joao Pedro Costinha **4.33**  ·  Floyd Samba **1.80**  ·  Elliot Anderson **2.88**  ·  Shane Nti **2.50**  ·  Younes Ibrahim **3.10**  ·  Erling Haaland **1.44**  ·  Josko Gvardiol **5.00**  ·  Mateo Kovacic **3.40**  ·  Phil Foden **2.00**  ·  Rico Lewis **3.75**  ·  Matt O'Riley **3.20**  ·  Georginio Rutter **2.60**  ·  Jack Hinshelwood **3.75**  ·  Lewis Dunk **9.00**  ·  Yasin Ayari **3.60**  ·  Charalampos Kostoulas **2.40**  ·  Chema Andres **4.00**  ·  Iliman-Cheikh Ndiaye **2.00**  ·  Nico O'Reilly **3.40**  ·  Kaden Braithwaite **6.00**  ·  Pascal Gross **2.75**
 
 ## Estadísticas de equipo
 | | Manchester City (total) | Manchester City en casa | Brighton (total) | Brighton fuera |
@@ -170,16 +181,16 @@ _Sin bajas comunicadas por ahora._
 | Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,50 · visitante 1,69 · córners esperados 10,7._
+_Goles esperados: local 1,49 · visitante 1,70 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 42% | 22% | 32% | 4.33 | +38% |
+| 1X2: 2 ✅ | 43% | 22% | 32% | 4.33 | +39% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -6% |
 | 1X2: 1 | 34% | 56% | 45% | 1.67 | -25% |
 | Doble oportunidad: X2 ✅ | 66% | 44% | 55% | 2.15 | +18% |
 | Doble oportunidad: 12 | 77% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 58% | 79% | 68% | 1.20 | -18% |
+| Doble oportunidad: 1X | 57% | 79% | 68% | 1.20 | -18% |
 | Ambos marcan: No | 37% | 38% | 37% | 2.50 | -7% |
 | Ambos marcan: Sí | 63% | 62% | 63% | 1.50 | -6% |
 | Goles más/menos: Más de 2.5 | 62% | 66% | 64% | 1.44 | -8% |
@@ -188,16 +199,22 @@ _Goles esperados: local 1,50 · visitante 1,69 · córners esperados 10,7._
 | Goles más/menos: Menos de 2.5 | 38% | 34% | 36% | 2.75 | -0% |
 | Goles más/menos: Menos de 3.5 | 60% | 55% | 58% | 1.73 | -0% |
 | Goles más/menos: Menos de 4.5 | 78% | 75% | 76% | 1.28 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 44% | 42% | 2.10 | -12% |
+| Goles 1ª parte más/menos: Más de 2.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 79% | 82% | 1.18 | -3% |
 | Goles del local: Más de 1.5 | 44% | 62% | 53% | 1.50 | -20% |
-| Goles del local: Más de 2.5 | 19% | 35% | 27% | 2.62 | -28% |
+| Goles del local: Más de 2.5 | 19% | 35% | 27% | 2.62 | -29% |
 | Goles del local: Menos de 1.5 | 56% | 38% | 47% | 2.50 | +17% |
 | Goles del local: Menos de 2.5 | 81% | 65% | 73% | 1.44 | +5% |
-| Goles del visitante: Más de 0.5 | 82% | 71% | 76% | 1.33 | +1% |
-| Goles del visitante: Más de 1.5 | 50% | 35% | 43% | 2.62 | +12% |
+| Goles del visitante: Más de 0.5 | 82% | 71% | 76% | 1.33 | +2% |
+| Goles del visitante: Más de 1.5 | 51% | 35% | 43% | 2.62 | +13% |
 | Goles del visitante: Menos de 0.5 | 18% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 50% | 65% | 57% | 1.44 | -18% |
-| 1X2 descanso: 2 | 33% | 22% | 27% | 4.33 | +18% |
+| Goles del visitante: Menos de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
+| 1X2 descanso: 2 | 33% | 22% | 27% | 4.33 | +19% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
-| 1X2 descanso: 1 | 28% | 42% | 35% | 2.20 | -22% |
+| 1X2 descanso: 1 | 28% | 42% | 35% | 2.20 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,16 +1,16 @@
 # Angers – Lorient
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:06_
+_Actualizadas: 24/10 02:56_
 
-- **1X2:** 1 **3.10**  ·  X **3.30**  ·  2 **2.35**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
+- **1X2:** 1 **3.00**  ·  X **3.30**  ·  2 **2.40**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.06** · menos **9.50**
     - 1,5: más **1.33** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.30**
@@ -32,7 +32,7 @@ _Actualizadas: 23/10 17:06_
     - 9,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **3.00**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.10**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -40,10 +40,10 @@ _Actualizadas: 23/10 17:06_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.73**
 - **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.75**
-- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.50**  ·  Draw/No **9.50**  ·  Away/No **4.00**
+- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.50**  ·  Away/No **4.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
@@ -51,6 +51,10 @@ _Actualizadas: 23/10 17:06_
     - 4,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):**
     - 4: más **1.78** · menos **2.02**
+- **Home Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
+- **Away Team Total Cards:**
+    - 1,5: más **2.00** · menos **1.73**
 - **Total ShotOnGoal:**
     - 8,5: más **1.83** · menos **1.83**
 - **Total Shots:**
@@ -58,9 +62,10 @@ _Actualizadas: 23/10 17:06_
 - **Home Player Shots On Target Total:** Mamadou Simbakoli - 1 **1.80**  ·  Jim Allevinah - 1 **1.91**  ·  Prosper Peter - 1 **1.57**  ·  Amine El Ouazzani - 1 **1.73**  ·  Amine Sbai - 1 **1.91**  ·  Harouna Djibirin - 1 **1.57**  ·  Bane Diatta - 1 **6.00**  ·  Anthony Bermont - 1 **2.10**  ·  Branco van den Boomen - 1 **2.10**  ·  Louis Mouton - 1 **2.50**  ·  Yassin Belkhdim - 1 **2.50**  ·  Lilian Raolisoa - 1 **4.33**  ·  Emmanuel Biumla - 1 **8.00**  ·  Haris Belkebla - 1 **8.00**  ·  Carlens Arcus - 1 **6.00**  ·  Joseph Kalulu - 1 **8.00**  ·  Jordan Lefort - 1 **8.00**  ·  Mael Gernigon - 1 **8.00**  ·  Marius Louer - 1 **6.50**  ·  Ousmane Camara - 1 **8.00**  ·  Mamadou Simbakoli - 2 **5.00**  ·  Jim Allevinah - 2 **6.00**  ·  Prosper Peter - 2 **3.75**  ·  Amine El Ouazzani - 2 **4.50**  ·  Amine Sbai - 2 **6.00**  ·  Harouna Djibirin - 2 **3.75**  ·  Anthony Bermont - 2 **7.00**  ·  Branco van den Boomen - 2 **7.00**  ·  Louis Mouton - 2 **10.00**  ·  Yassin Belkhdim - 2 **10.00**  ·  Lilian Raolisoa - 2 **21.00**  ·  Mamadou Simbakoli - 3 **17.00**  ·  Jim Allevinah - 3 **21.00**  ·  Prosper Peter - 3 **11.00**  ·  Amine El Ouazzani - 3 **15.00**  ·  Amine Sbai - 3 **21.00**  ·  Harouna Djibirin - 3 **13.00**  ·  Anthony Bermont - 3 **21.00**  ·  Branco van den Boomen - 3 **21.00**  ·  Jules Bouffandeau - 1 **8.00**
 - **Away Player Shots Total:**
     - 13,5: más **1.91** · menos **1.80**
-- **Home Player Shots:** Mamadou Simbakoli - 1 **1.11**  ·  Jim Allevinah - 1 **1.08**  ·  Prosper Peter - 1 **1.07**  ·  Amine El Ouazzani - 1 **1.10**  ·  Amine Sbai - 1 **1.12**  ·  Harouna Djibirin - 1 **1.10**  ·  Bane Diatta - 1 **2.20**  ·  Anthony Bermont - 1 **1.17**  ·  Branco van den Boomen - 1 **1.22**  ·  Louis Mouton - 1 **1.20**  ·  Yassin Belkhdim - 1 **1.73**  ·  Lilian Raolisoa - 1 **1.62**  ·  Emmanuel Biumla - 1 **3.40**  ·  Haris Belkebla - 1 **2.20**  ·  Carlens Arcus - 1 **2.20**  ·  Joseph Kalulu - 1 **3.40**  ·  Jordan Lefort - 1 **3.40**  ·  Mael Gernigon - 1 **3.40**  ·  Marius Louer - 1 **2.62**  ·  Ousmane Camara - 1 **3.40**  ·  Mamadou Simbakoli - 2 **1.50**  ·  Jim Allevinah - 2 **1.40**  ·  Prosper Peter - 2 **1.36**  ·  Amine El Ouazzani - 2 **1.44**  ·  Amine Sbai - 2 **1.57**  ·  Harouna Djibirin - 2 **1.44**  ·  Bane Diatta - 2 **7.00**  ·  Anthony Bermont - 2 **1.73**  ·  Branco van den Boomen - 2 **2.00**  ·  Louis Mouton - 2 **1.83**  ·  Yassin Belkhdim - 2 **4.33**  ·  Lilian Raolisoa - 2 **3.75**  ·  Emmanuel Biumla - 2 **13.00**  ·  Haris Belkebla - 2 **7.00**  ·  Carlens Arcus - 2 **7.00**  ·  Joseph Kalulu - 2 **13.00**  ·  Jordan Lefort - 2 **13.00**  ·  Mael Gernigon - 2 **13.00**  ·  Marius Louer - 2 **10.00**  ·  Ousmane Camara - 2 **13.00**  ·  Mamadou Simbakoli - 3 **2.50**  ·  Jim Allevinah - 3 **2.10**  ·  Prosper Peter - 3 **2.00**  ·  Amine El Ouazzani - 3 **2.25**  ·  Amine Sbai - 3 **2.62**  ·  Harouna Djibirin - 3 **2.25**  ·  Bane Diatta - 3 **21.00**  ·  Anthony Bermont - 3 **3.25**  ·  Branco van den Boomen - 3 **4.00**  ·  Louis Mouton - 3 **3.50**  ·  Yassin Belkhdim - 3 **13.00**  ·  Lilian Raolisoa - 3 **11.00**  ·  Haris Belkebla - 3 **21.00**  ·  Carlens Arcus - 3 **21.00**  ·  Mamadou Simbakoli - 4 **4.50**  ·  Jim Allevinah - 4 **3.75**  ·  Prosper Peter - 4 **3.50**  ·  Amine El Ouazzani - 4 **4.00**  ·  Amine Sbai - 4 **5.00**  ·  Harouna Djibirin - 4 **4.00**  ·  Anthony Bermont - 4 **6.50**  ·  Branco van den Boomen - 4 **9.00**  ·  Louis Mouton - 4 **8.00**  ·  Lilian Raolisoa - 4 **21.00**  ·  Mamadou Simbakoli - 5 **10.00**  ·  Jim Allevinah - 5 **8.00**  ·  Prosper Peter - 5 **6.50**  ·  Amine El Ouazzani - 5 **9.00**  ·  Amine Sbai - 5 **11.00**  ·  Harouna Djibirin - 5 **9.00**  ·  Mamadou Simbakoli - 6 **21.00**  ·  Jim Allevinah - 6 **15.00**  ·  Prosper Peter - 6 **13.00**  ·  Amine El Ouazzani - 6 **17.00**  ·  Amine Sbai - 6 **21.00**  ·  Branco van den Boomen - 5 **21.00**  ·  Louis Mouton - 5 **17.00**  ·  Harouna Djibirin - 6 **17.00**  ·  Anthony Bermont - 5 **15.00**  ·  Prosper Peter - 7 **21.00**  ·  Jules Bouffandeau - 1 **2.62**  ·  Jules Bouffandeau - 2 **10.00**
-- **Away Player Shots:** Mohamed Bamba - 5 **3.75**  ·  Mohamed Bamba - 1 **1.03**  ·  Tosin Aiyegun - 1 **1.06**  ·  Jean-Victor Makengo - 1 **1.10**  ·  Mamadou Kone - 1 **1.02**  ·  Gabin Bernardeau - 1 **1.11**  ·  Souleymane Faye - 1 **1.06**  ·  Panos Katseris - 1 **1.18**  ·  Theo Le Bris - 1 **1.62**  ·  Noah Cadiou - 1 **1.33**  ·  Daniel Semedo - 1 **1.62**  ·  Arthur Avom - 1 **1.50**  ·  Arsene Kouassi - 1 **2.25**  ·  Enzo Genton - 1 **2.75**  ·  Souleymane Toure - 1 **1.67**  ·  Alec Georgen - 1 **2.75**  ·  Dembo Sylla - 1 **2.25**  ·  Montassar Talbi - 1 **1.73**  ·  Nathaniel Adjei - 1 **2.75**  ·  Mohamed Bamba - 2 **1.18**  ·  Tosin Aiyegun - 2 **1.33**  ·  Jean-Victor Makengo - 2 **1.50**  ·  Mamadou Kone - 2 **1.14**  ·  Gabin Bernardeau - 2 **1.53**  ·  Souleymane Faye - 2 **1.30**  ·  Panos Katseris - 2 **1.83**  ·  Theo Le Bris - 2 **3.75**  ·  Noah Cadiou - 2 **2.38**  ·  Daniel Semedo - 2 **3.75**  ·  Arthur Avom - 2 **3.25**  ·  Arsene Kouassi - 2 **8.00**  ·  Enzo Genton - 2 **11.00**  ·  Souleymane Toure - 2 **4.00**  ·  Alec Georgen - 2 **11.00**  ·  Dembo Sylla - 2 **8.00**  ·  Montassar Talbi - 2 **4.33**  ·  Nathaniel Adjei - 2 **11.00**  ·  Mohamed Bamba - 3 **1.53**  ·  Tosin Aiyegun - 3 **2.00**  ·  Jean-Victor Makengo - 3 **2.38**  ·  Mamadou Kone - 3 **1.50**  ·  Gabin Bernardeau - 3 **2.50**  ·  Souleymane Faye - 3 **1.83**  ·  Panos Katseris - 3 **3.50**  ·  Theo Le Bris - 3 **10.00**  ·  Noah Cadiou - 3 **5.50**  ·  Daniel Semedo - 3 **10.00**  ·  Arthur Avom - 3 **8.00**  ·  Arsene Kouassi - 3 **21.00**  ·  Souleymane Toure - 3 **11.00**  ·  Dembo Sylla - 3 **21.00**  ·  Montassar Talbi - 3 **13.00**  ·  Mohamed Bamba - 4 **2.25**  ·  Tosin Aiyegun - 4 **3.50**  ·  Jean-Victor Makengo - 4 **4.33**  ·  Mamadou Kone - 4 **2.10**  ·  Gabin Bernardeau - 4 **4.50**  ·  Souleymane Faye - 4 **3.25**  ·  Panos Katseris - 4 **7.00**  ·  Theo Le Bris - 4 **21.00**  ·  Noah Cadiou - 4 **13.00**  ·  Daniel Semedo - 4 **21.00**  ·  Arthur Avom - 4 **21.00**  ·  Tosin Aiyegun - 5 **6.50**  ·  Jean-Victor Makengo - 5 **10.00**  ·  Mamadou Kone - 5 **3.50**  ·  Gabin Bernardeau - 5 **10.00**  ·  Souleymane Faye - 5 **6.00**  ·  Panos Katseris - 5 **17.00**  ·  Mohamed Bamba - 6 **7.00**  ·  Tosin Aiyegun - 6 **13.00**  ·  Jean-Victor Makengo - 6 **19.00**  ·  Mamadou Kone - 6 **6.00**  ·  Gabin Bernardeau - 6 **21.00**  ·  Souleymane Faye - 6 **11.00**  ·  Mohamed Bamba - 7 **13.00**  ·  Tosin Aiyegun - 7 **21.00**  ·  Mohamed Bamba - 8 **21.00**  ·  Isak Jensen - 1 **1.08**  ·  Isak Jensen - 2 **1.44**  ·  Isak Jensen - 3 **2.20**  ·  Isak Jensen - 4 **4.00**  ·  Isak Jensen - 5 **8.00**  ·  Isak Jensen - 6 **17.00**  ·  Srdjan Kuzmic - 1 **1.62**  ·  Srdjan Kuzmic - 2 **3.75**  ·  Srdjan Kuzmic - 3 **10.00**  ·  Srdjan Kuzmic - 4 **21.00**  ·  Nosa Obaretin - 1 **1.73**  ·  Nosa Obaretin - 2 **4.33**  ·  Nosa Obaretin - 3 **13.00**  ·  Mamadou Kone - 7 **11.00**  ·  Ibrahima Balde - 1 **1.04**  ·  Ibrahima Balde - 2 **1.22**  ·  Ibrahima Balde - 3 **1.67**  ·  Ibrahima Balde - 4 **2.62**  ·  Ibrahima Balde - 5 **4.50**  ·  Ibrahima Balde - 6 **9.00**  ·  Ibrahima Balde - 7 **17.00**  ·  Souleymane Faye - 7 **21.00**  ·  Mamadou Kone - 8 **21.00**
-- **Goalkeeper Saves:** Anthony Lopes - 2 **1.14**  ·  Anthony Lopes - 3 **1.44**  ·  Anthony Lopes - 4 **2.10**  ·  Anthony Lopes - 5 **3.50**  ·  Anthony Lopes - 6 **6.50**  ·  Landry Mvogo - 2 **1.25**  ·  Landry Mvogo - 3 **1.80**  ·  Landry Mvogo - 4 **3.25**  ·  Landry Mvogo - 5 **6.00**
+- **Home Player Shots:** Mamadou Simbakoli - 1 **1.11**  ·  Jim Allevinah - 1 **1.08**  ·  Prosper Peter - 1 **1.07**  ·  Amine El Ouazzani - 1 **1.10**  ·  Amine Sbai - 1 **1.12**  ·  Harouna Djibirin - 1 **1.10**  ·  Bane Diatta - 1 **2.20**  ·  Anthony Bermont - 1 **1.17**  ·  Branco van den Boomen - 1 **1.22**  ·  Louis Mouton - 1 **1.20**  ·  Yassin Belkhdim - 1 **1.73**  ·  Lilian Raolisoa - 1 **1.62**  ·  Emmanuel Biumla - 1 **3.40**  ·  Haris Belkebla - 1 **2.20**  ·  Carlens Arcus - 1 **2.20**  ·  Joseph Kalulu - 1 **3.40**  ·  Jordan Lefort - 1 **3.40**  ·  Mael Gernigon - 1 **3.40**  ·  Marius Louer - 1 **2.62**  ·  Ousmane Camara - 1 **3.40**  ·  Mamadou Simbakoli - 2 **1.50**  ·  Jim Allevinah - 2 **1.40**  ·  Prosper Peter - 2 **1.36**  ·  Amine El Ouazzani - 2 **1.44**  ·  Amine Sbai - 2 **1.57**  ·  Harouna Djibirin - 2 **1.44**  ·  Bane Diatta - 2 **7.00**  ·  Anthony Bermont - 2 **1.73**  ·  Branco van den Boomen - 2 **2.00**  ·  Louis Mouton - 2 **1.83**  ·  Yassin Belkhdim - 2 **4.33**  ·  Lilian Raolisoa - 2 **3.75**  ·  Emmanuel Biumla - 2 **13.00**  ·  Haris Belkebla - 2 **7.00**  ·  Carlens Arcus - 2 **7.00**  ·  Joseph Kalulu - 2 **13.00**  ·  Jordan Lefort - 2 **13.00**  ·  Mael Gernigon - 2 **13.00**  ·  Marius Louer - 2 **10.00**  ·  Ousmane Camara - 2 **13.00**  ·  Mamadou Simbakoli - 3 **2.50**  ·  Jim Allevinah - 3 **2.10**  ·  Prosper Peter - 3 **2.00**  ·  Amine El Ouazzani - 3 **2.25**  ·  Amine Sbai - 3 **2.62**  ·  Harouna Djibirin - 3 **2.25**  ·  Bane Diatta - 3 **21.00**  ·  Anthony Bermont - 3 **3.25**  ·  Branco van den Boomen - 3 **3.75**  ·  Louis Mouton - 3 **3.50**  ·  Yassin Belkhdim - 3 **13.00**  ·  Lilian Raolisoa - 3 **11.00**  ·  Haris Belkebla - 3 **21.00**  ·  Carlens Arcus - 3 **21.00**  ·  Mamadou Simbakoli - 4 **4.50**  ·  Jim Allevinah - 4 **3.75**  ·  Prosper Peter - 4 **3.50**  ·  Amine El Ouazzani - 4 **4.00**  ·  Amine Sbai - 4 **5.00**  ·  Harouna Djibirin - 4 **4.00**  ·  Anthony Bermont - 4 **6.50**  ·  Branco van den Boomen - 4 **9.00**  ·  Louis Mouton - 4 **8.00**  ·  Lilian Raolisoa - 4 **21.00**  ·  Mamadou Simbakoli - 5 **10.00**  ·  Jim Allevinah - 5 **8.00**  ·  Prosper Peter - 5 **6.50**  ·  Amine El Ouazzani - 5 **9.00**  ·  Amine Sbai - 5 **11.00**  ·  Harouna Djibirin - 5 **9.00**  ·  Mamadou Simbakoli - 6 **19.00**  ·  Jim Allevinah - 6 **15.00**  ·  Prosper Peter - 6 **13.00**  ·  Amine El Ouazzani - 6 **17.00**  ·  Amine Sbai - 6 **21.00**  ·  Branco van den Boomen - 5 **19.00**  ·  Louis Mouton - 5 **17.00**  ·  Harouna Djibirin - 6 **17.00**  ·  Anthony Bermont - 5 **15.00**  ·  Prosper Peter - 7 **21.00**  ·  Jules Bouffandeau - 1 **2.62**  ·  Jules Bouffandeau - 2 **10.00**
+- **Away Player Shots:** Mohamed Bamba - 5 **3.75**  ·  Mohamed Bamba - 1 **1.03**  ·  Tosin Aiyegun - 1 **1.06**  ·  Jean-Victor Makengo - 1 **1.10**  ·  Mamadou Kone - 1 **1.02**  ·  Gabin Bernardeau - 1 **1.11**  ·  Souleymane Faye - 1 **1.06**  ·  Panos Katseris - 1 **1.18**  ·  Theo Le Bris - 1 **1.62**  ·  Noah Cadiou - 1 **1.33**  ·  Daniel Semedo - 1 **1.62**  ·  Arthur Avom - 1 **1.50**  ·  Arsene Kouassi - 1 **2.25**  ·  Enzo Genton - 1 **2.75**  ·  Souleymane Toure - 1 **1.67**  ·  Alec Georgen - 1 **2.75**  ·  Dembo Sylla - 1 **2.25**  ·  Montassar Talbi - 1 **1.73**  ·  Nathaniel Adjei - 1 **2.75**  ·  Mohamed Bamba - 2 **1.18**  ·  Tosin Aiyegun - 2 **1.33**  ·  Jean-Victor Makengo - 2 **1.50**  ·  Mamadou Kone - 2 **1.14**  ·  Gabin Bernardeau - 2 **1.53**  ·  Souleymane Faye - 2 **1.30**  ·  Panos Katseris - 2 **1.83**  ·  Theo Le Bris - 2 **3.75**  ·  Noah Cadiou - 2 **2.38**  ·  Daniel Semedo - 2 **3.75**  ·  Arthur Avom - 2 **3.25**  ·  Arsene Kouassi - 2 **8.00**  ·  Enzo Genton - 2 **11.00**  ·  Souleymane Toure - 2 **4.00**  ·  Alec Georgen - 2 **11.00**  ·  Dembo Sylla - 2 **8.00**  ·  Montassar Talbi - 2 **4.33**  ·  Nathaniel Adjei - 2 **11.00**  ·  Mohamed Bamba - 3 **1.53**  ·  Tosin Aiyegun - 3 **2.00**  ·  Jean-Victor Makengo - 3 **2.38**  ·  Mamadou Kone - 3 **1.50**  ·  Gabin Bernardeau - 3 **2.50**  ·  Souleymane Faye - 3 **1.83**  ·  Panos Katseris - 3 **3.50**  ·  Theo Le Bris - 3 **10.00**  ·  Noah Cadiou - 3 **5.50**  ·  Daniel Semedo - 3 **10.00**  ·  Arthur Avom - 3 **8.00**  ·  Arsene Kouassi - 3 **21.00**  ·  Souleymane Toure - 3 **11.00**  ·  Dembo Sylla - 3 **21.00**  ·  Montassar Talbi - 3 **13.00**  ·  Mohamed Bamba - 4 **2.25**  ·  Tosin Aiyegun - 4 **3.40**  ·  Jean-Victor Makengo - 4 **4.33**  ·  Mamadou Kone - 4 **2.10**  ·  Gabin Bernardeau - 4 **4.50**  ·  Souleymane Faye - 4 **3.25**  ·  Panos Katseris - 4 **7.00**  ·  Theo Le Bris - 4 **21.00**  ·  Noah Cadiou - 4 **13.00**  ·  Daniel Semedo - 4 **21.00**  ·  Arthur Avom - 4 **21.00**  ·  Tosin Aiyegun - 5 **6.50**  ·  Jean-Victor Makengo - 5 **10.00**  ·  Mamadou Kone - 5 **3.50**  ·  Gabin Bernardeau - 5 **10.00**  ·  Souleymane Faye - 5 **6.00**  ·  Panos Katseris - 5 **17.00**  ·  Mohamed Bamba - 6 **7.00**  ·  Tosin Aiyegun - 6 **13.00**  ·  Jean-Victor Makengo - 6 **19.00**  ·  Mamadou Kone - 6 **6.00**  ·  Gabin Bernardeau - 6 **21.00**  ·  Souleymane Faye - 6 **11.00**  ·  Mohamed Bamba - 7 **13.00**  ·  Tosin Aiyegun - 7 **21.00**  ·  Mohamed Bamba - 8 **21.00**  ·  Isak Jensen - 1 **1.08**  ·  Isak Jensen - 2 **1.44**  ·  Isak Jensen - 3 **2.20**  ·  Isak Jensen - 4 **4.00**  ·  Isak Jensen - 5 **8.00**  ·  Isak Jensen - 6 **17.00**  ·  Srdjan Kuzmic - 1 **1.62**  ·  Srdjan Kuzmic - 2 **3.75**  ·  Srdjan Kuzmic - 3 **10.00**  ·  Srdjan Kuzmic - 4 **21.00**  ·  Nosa Obaretin - 1 **1.73**  ·  Nosa Obaretin - 2 **4.33**  ·  Nosa Obaretin - 3 **13.00**  ·  Mamadou Kone - 7 **11.00**  ·  Ibrahima Balde - 1 **1.04**  ·  Ibrahima Balde - 2 **1.22**  ·  Ibrahima Balde - 3 **1.67**  ·  Ibrahima Balde - 4 **2.62**  ·  Ibrahima Balde - 5 **4.50**  ·  Ibrahima Balde - 6 **9.00**  ·  Ibrahima Balde - 7 **17.00**  ·  Souleymane Faye - 7 **21.00**  ·  Mamadou Kone - 8 **21.00**
+- **Goalkeeper Saves:** Anthony Lopes - 2 **1.14**  ·  Anthony Lopes - 3 **1.44**  ·  Anthony Lopes - 4 **2.10**  ·  Anthony Lopes - 5 **3.50**  ·  Anthony Lopes - 6 **6.50**  ·  Landry Mvogo - 2 **1.25**  ·  Landry Mvogo - 3 **1.83**  ·  Landry Mvogo - 4 **3.25**  ·  Landry Mvogo - 5 **6.00**
+- **Anytime Goal Scorer:** Prosper Peter **3.40**  ·  Isak Jensen **3.40**  ·  Srdjan Kuzmic **10.00**  ·  Noah Cadiou **6.00**  ·  Anthony Bermont **5.50**  ·  Nathaniel Adjei **11.00**  ·  Arthur Avom **7.00**  ·  Panos Katseris **5.00**  ·  Tosin Aiyegun **3.20**  ·  Jean-Victor Makengo **5.00**  ·  Souleymane Faye **3.75**  ·  Marius Louer **13.00**  ·  Louis Mouton **6.00**  ·  Jim Allevinah **5.00**  ·  Haris Belkebla **9.00**  ·  Carlens Arcus **10.00**  ·  Yassin Belkhdim **7.00**  ·  Ousmane Camara **13.00**  ·  Emmanuel Biumla **9.00**  ·  Jordan Lefort **13.00**  ·  Lilian Raolisoa **7.50**  ·  Harouna Djibirin **4.00**  ·  Dembo Sylla **11.00**  ·  Branco van den Boomen **6.00**  ·  Nosa Obaretin **9.00**  ·  Arsene Kouassi **8.50**  ·  Daniel Semedo **7.00**  ·  Amine El Ouazzani **3.60**  ·  Mael Gernigon **13.00**  ·  Bane Diatta **5.50**  ·  Ibrahima Balde **2.88**  ·  Joseph Kalulu **10.00**  ·  Mamadou Simbakoli **3.00**  ·  Enzo Genton **9.00**  ·  Jules Bouffandeau **7.50**  ·  Mohamed Bamba **3.00**  ·  Amine Sbai **4.00**  ·  Montassar Talbi **11.00**  ·  Souleymane Toure **9.00**  ·  Alec Georgen **10.00**  ·  Gabin Bernardeau **5.00**  ·  Mamadou Kone **3.00**  ·  Theo Le Bris **5.00**
 - **Player to Score or Assist:** Prosper Peter **2.50**  ·  Jean-Victor Makengo **3.00**  ·  Amine El Ouazzani **2.62**  ·  Ibrahima Balde **2.30**  ·  Amine Sbai **2.88**  ·  Gabin Bernardeau **3.00**
 
 ## Estadísticas de equipo
@@ -117,6 +122,7 @@ _Actualizadas: 23/10 17:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
+**Angers:** B. Diatta (baja, Ankle Injury); B. Diatta (baja, Ankle Injury)
 **Lorient:** B. Fadiga (duda, Inactive); B. Fadiga (duda, Inactive)
 
 ## Enfrentamientos directos recientes
@@ -196,18 +202,18 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Nosa Edward Obaretin | D | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,25 · córners esperados 9,9._
+_Goles esperados: local 1,12 · visitante 1,26 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 40% | 40% | 2.35 | -6% |
+| 1X2: 2 | 40% | 40% | 40% | 2.40 | -5% |
 | 1X2: X | 28% | 29% | 28% | 3.30 | -7% |
-| 1X2: 1 | 33% | 31% | 32% | 3.10 | -1% |
+| 1X2: 1 | 33% | 32% | 32% | 3.00 | -4% |
 | Doble oportunidad: X2 | 67% | 69% | 68% | 1.36 | -7% |
-| Doble oportunidad: 12 | 72% | 71% | 72% | 1.33 | -5% |
-| Doble oportunidad: 1X | 61% | 60% | 60% | 1.57 | -5% |
+| Doble oportunidad: 12 | 72% | 70% | 71% | 1.33 | -5% |
+| Doble oportunidad: 1X | 60% | 61% | 61% | 1.53 | -7% |
 | Ambos marcan: No | 52% | 48% | 50% | 1.95 | -3% |
 | Ambos marcan: Sí | 48% | 52% | 50% | 1.80 | -10% |
 | Goles más/menos: Más de 1.5 | 69% | 72% | 70% | 1.33 | -7% |
@@ -220,18 +226,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -7% |
+| Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 0.5 | 71% | 75% | 73% | 1.25 | -8% |
-| Goles del visitante: Más de 1.5 | 36% | 41% | 38% | 2.25 | -14% |
-| Goles del visitante: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +0% |
+| Goles del visitante: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
+| Goles del visitante: Más de 1.5 | 36% | 41% | 38% | 2.25 | -13% |
+| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | +0% |
 | Goles del visitante: Menos de 1.5 | 64% | 59% | 62% | 1.57 | -3% |
-| Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
-| Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
-| 1X2 descanso: 2 | 29% | 31% | 30% | 3.00 | -11% |
+| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -5% |
+| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
+| 1X2 descanso: 2 | 29% | 30% | 29% | 3.10 | -9% |
 | 1X2 descanso: X | 46% | 44% | 45% | 2.10 | -5% |
-| 1X2 descanso: 1 | 25% | 26% | 25% | 3.60 | -9% |
+| 1X2 descanso: 1 | 25% | 26% | 26% | 3.50 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

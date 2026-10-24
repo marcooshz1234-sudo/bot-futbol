@@ -1,10 +1,10 @@
 # Werder Bremen – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:07_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **2.90**  ·  X **3.80**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -16,6 +16,11 @@ _Actualizadas: 23/10 17:07_
     - 4,5: más **3.40** · menos **1.33**
     - 5,5: más **6.00** · menos **1.12**
     - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -40,8 +45,10 @@ _Actualizadas: 23/10 17:07_
 - **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.25**  ·  Home/No **7.00**  ·  Draw/No **21.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.75**
 - **Home Player Shots On Target Total:** Moussa N'Diaye - 1 **3.75**  ·  Moussa N'Diaye - 2 **19.00**  ·  Arthur Augusto - 1 **3.75**  ·  Arthur Augusto - 2 **19.00**  ·  Cedric Itten - 1 **1.40**  ·  Kenny Quetant - 1 **1.40**  ·  Niclas Fullkrug - 1 **1.25**  ·  Salim Musah - 1 **1.40**  ·  Justin Njinmah - 1 **1.62**  ·  Marco Grull - 1 **1.53**  ·  Jens Stage - 1 **1.83**  ·  Dariusz Stalmach - 1 **2.25**  ·  Ludovit Reis - 1 **2.62**  ·  Senne Lynen - 1 **3.25**  ·  Felix Agu - 1 **3.40**  ·  Mick Schmetgens - 1 **3.75**  ·  Olivier Deman - 1 **3.75**  ·  Oskar Wojcik - 1 **3.75**  ·  Niklas Stark - 1 **4.33**  ·  Amos Pieper - 1 **4.33**  ·  Mats Heitmann - 1 **4.33**  ·  Marco Friedl - 1 **5.50**  ·  Cedric Itten - 2 **3.00**  ·  Kenny Quetant - 2 **3.00**  ·  Niclas Fullkrug - 2 **2.20**  ·  Salim Musah - 2 **3.00**  ·  Justin Njinmah - 2 **4.00**  ·  Marco Grull - 2 **3.50**  ·  Jens Stage - 2 **5.50**  ·  Dariusz Stalmach - 2 **9.00**  ·  Ludovit Reis - 2 **11.00**  ·  Senne Lynen - 2 **17.00**  ·  Felix Agu - 2 **17.00**  ·  Mick Schmetgens - 2 **19.00**  ·  Olivier Deman - 2 **19.00**  ·  Oskar Wojcik - 2 **19.00**  ·  Niklas Stark - 2 **21.00**  ·  Amos Pieper - 2 **21.00**  ·  Mats Heitmann - 2 **21.00**  ·  Cedric Itten - 3 **8.00**  ·  Kenny Quetant - 3 **8.00**  ·  Niclas Fullkrug - 3 **5.00**  ·  Salim Musah - 3 **8.00**  ·  Justin Njinmah - 3 **13.00**  ·  Marco Grull - 3 **11.00**  ·  Jens Stage - 3 **19.00**  ·  Cedric Itten - 4 **21.00**  ·  Kenny Quetant - 4 **21.00**  ·  Niclas Fullkrug - 4 **13.00**  ·  Salim Musah - 4 **21.00**  ·  Youri Regeer - 1 **3.75**  ·  Youri Regeer - 2 **19.00**  ·  Paul Erevbenagie - 1 **1.83**  ·  Paul Erevbenagie - 2 **5.50**  ·  Paul Erevbenagie - 3 **19.00**  ·  Ivan Chuki - 1 **1.57**  ·  Ivan Chuki - 2 **3.75**  ·  Ivan Chuki - 3 **11.00**  ·  Eren Dinkci - 1 **1.83**  ·  Eren Dinkci - 2 **5.50**  ·  Eren Dinkci - 3 **19.00**  ·  Mitchell Weiser - 1 **2.62**  ·  Mitchell Weiser - 2 **11.00**  ·  Darwin Soylu - 3 **19.00**  ·  Darwin Soylu - 2 **5.50**  ·  Darwin Soylu - 1 **1.83**
+- **Away Player Shots On Target Total:** Arthur Augusto **81.00**  ·  Cedric Itten **6.50**  ·  Adam Daghim **34.00**  ·  Marco Grull **19.00**  ·  Vladimir Coufal **51.00**  ·  Fisnik Asllani **12.00**  ·  Koki Machida **17.00**  ·  Cajetan Lenz **19.00**  ·  Salim Musah **10.00**  ·  Leon Avdullahu **67.00**  ·  Robin Hranac **12.00**  ·  Wouter Burger **21.00**  ·  Justin Njinmah **34.00**  ·  Nathan De Cat **51.00**  ·  Moussa N'Diaye **41.00**  ·  Niclas Fullkrug **8.00**  ·  Eren Dinkci **34.00**  ·  Tim Lemperle **10.00**  ·  Youri Regeer **41.00**  ·  Mats Rots **67.00**  ·  Bambase Conte **29.00**  ·  Ludovit Reis **29.00**  ·  Kenny Quetant **7.50**  ·  Valentin Lassig **23.00**  ·  Mats Heitmann **101.00**  ·  Albian Hajdari **15.00**  ·  Oskar Wojcik **19.00**  ·  Darwin Soylu **29.00**  ·  Ivan Chuki **29.00**  ·  Adam Hlozek **21.00**  ·  Alexander Prass **29.00**  ·  Andrej Kramaric **21.00**  ·  Max Moerstedt **13.00**  ·  Valentin Gendrey **41.00**  ·  Patrick Wimmer **29.00**  ·  Amos Pieper **21.00**  ·  Felix Agu **101.00**  ·  Jens Stage **19.00**  ·  Marco Friedl **23.00**  ·  Mitchell Weiser **51.00**  ·  Olivier Deman **34.00**  ·  Niklas Stark **21.00**  ·  Senne Lynen **51.00**  ·  Ozan Kabak **6.50**  ·  Mick Schmetgens **81.00**  ·  Dariusz Stalmach **21.00**  ·  Bernardo Junior **13.00**
 - **Home Player Shots:** Moussa N'Diaye - 1 **1.80**  ·  Moussa N'Diaye - 2 **4.33**  ·  Moussa N'Diaye - 3 **13.00**  ·  Arthur Augusto - 1 **1.67**  ·  Arthur Augusto - 2 **4.00**  ·  Arthur Augusto - 3 **11.00**  ·  Arthur Augusto - 4 **21.00**  ·  Cedric Itten - 1 **1.04**  ·  Kenny Quetant - 1 **1.04**  ·  Niclas Fullkrug - 1 **1.02**  ·  Salim Musah - 1 **1.04**  ·  Justin Njinmah - 1 **1.05**  ·  Marco Grull - 1 **1.06**  ·  Jens Stage - 1 **1.11**  ·  Dariusz Stalmach - 1 **1.25**  ·  Ludovit Reis - 1 **1.40**  ·  Senne Lynen - 1 **1.50**  ·  Felix Agu - 1 **1.62**  ·  Mick Schmetgens - 1 **1.80**  ·  Olivier Deman - 1 **1.80**  ·  Oskar Wojcik - 1 **1.80**  ·  Niklas Stark - 1 **1.80**  ·  Amos Pieper - 1 **2.00**  ·  Mats Heitmann - 1 **2.00**  ·  Marco Friedl - 1 **2.38**  ·  Cedric Itten - 2 **1.22**  ·  Kenny Quetant - 2 **1.22**  ·  Niclas Fullkrug - 2 **1.17**  ·  Salim Musah - 2 **1.22**  ·  Justin Njinmah - 2 **1.28**  ·  Marco Grull - 2 **1.33**  ·  Jens Stage - 2 **1.53**  ·  Dariusz Stalmach - 2 **2.10**  ·  Ludovit Reis - 2 **2.62**  ·  Senne Lynen - 2 **3.25**  ·  Felix Agu - 2 **3.75**  ·  Mick Schmetgens - 2 **4.33**  ·  Olivier Deman - 2 **4.33**  ·  Oskar Wojcik - 2 **4.33**  ·  Niklas Stark - 2 **4.50**  ·  Amos Pieper - 2 **5.50**  ·  Mats Heitmann - 2 **5.50**  ·  Marco Friedl - 2 **8.00**  ·  Cedric Itten - 3 **1.67**  ·  Kenny Quetant - 3 **1.67**  ·  Niclas Fullkrug - 3 **1.50**  ·  Salim Musah - 3 **1.67**  ·  Justin Njinmah - 3 **1.83**  ·  Marco Grull - 3 **1.91**  ·  Jens Stage - 3 **2.50**  ·  Dariusz Stalmach - 3 **4.33**  ·  Ludovit Reis - 3 **6.00**  ·  Senne Lynen - 3 **8.00**  ·  Felix Agu - 3 **10.00**  ·  Mick Schmetgens - 3 **13.00**  ·  Olivier Deman - 3 **13.00**  ·  Oskar Wojcik - 3 **13.00**  ·  Niklas Stark - 3 **13.00**  ·  Amos Pieper - 3 **17.00**  ·  Mats Heitmann - 3 **17.00**  ·  Cedric Itten - 4 **2.62**  ·  Kenny Quetant - 4 **2.62**  ·  Niclas Fullkrug - 4 **2.20**  ·  Salim Musah - 4 **2.62**  ·  Justin Njinmah - 4 **3.00**  ·  Marco Grull - 4 **3.40**  ·  Jens Stage - 4 **4.50**  ·  Dariusz Stalmach - 4 **10.00**  ·  Ludovit Reis - 4 **15.00**  ·  Cedric Itten - 5 **4.50**  ·  Kenny Quetant - 5 **4.50**  ·  Niclas Fullkrug - 5 **3.50**  ·  Salim Musah - 5 **4.50**  ·  Justin Njinmah - 5 **5.50**  ·  Marco Grull - 5 **6.00**  ·  Jens Stage - 5 **10.00**  ·  Cedric Itten - 6 **9.00**  ·  Kenny Quetant - 6 **9.00**  ·  Niclas Fullkrug - 6 **6.50**  ·  Salim Musah - 6 **9.00**  ·  Justin Njinmah - 6 **11.00**  ·  Marco Grull - 6 **13.00**  ·  Youri Regeer - 1 **1.80**  ·  Youri Regeer - 2 **4.33**  ·  Youri Regeer - 3 **13.00**  ·  Marco Friedl - 3 **21.00**  ·  Senne Lynen - 4 **21.00**  ·  Dariusz Stalmach - 5 **21.00**  ·  Paul Erevbenagie - 1 **1.14**  ·  Paul Erevbenagie - 2 **1.62**  ·  Paul Erevbenagie - 3 **2.75**  ·  Paul Erevbenagie - 4 **5.50**  ·  Felix Agu - 4 **21.00**  ·  Paul Erevbenagie - 5 **13.00**  ·  Jens Stage - 6 **21.00**  ·  Paul Erevbenagie - 6 **21.00**  ·  Cedric Itten - 7 **17.00**  ·  Niclas Fullkrug - 7 **13.00**  ·  Marco Grull - 7 **21.00**  ·  Justin Njinmah - 7 **21.00**  ·  Kenny Quetant - 7 **17.00**  ·  Salim Musah - 7 **17.00**  ·  Niclas Fullkrug - 8 **21.00**  ·  Ivan Chuki - 1 **1.05**  ·  Ivan Chuki - 2 **1.28**  ·  Ivan Chuki - 3 **1.83**  ·  Ivan Chuki - 4 **3.00**  ·  Ivan Chuki - 5 **5.50**  ·  Eren Dinkci - 1 **1.14**  ·  Eren Dinkci - 2 **1.62**  ·  Eren Dinkci - 3 **2.75**  ·  Eren Dinkci - 4 **5.50**  ·  Eren Dinkci - 5 **13.00**  ·  Ivan Chuki - 6 **11.00**  ·  Eren Dinkci - 6 **21.00**  ·  Ivan Chuki - 7 **21.00**  ·  Mitchell Weiser - 1 **1.33**  ·  Mitchell Weiser - 2 **2.38**  ·  Mitchell Weiser - 3 **5.50**  ·  Mitchell Weiser - 4 **13.00**  ·  Darwin Soylu - 3 **2.75**  ·  Darwin Soylu - 4 **5.50**  ·  Darwin Soylu - 5 **13.00**  ·  Darwin Soylu - 6 **21.00**  ·  Darwin Soylu - 2 **1.62**  ·  Darwin Soylu - 1 **1.14**
 - **Away Player Shots:** Andrej Kramaric - 1 **1.02**  ·  Fisnik Asllani - 1 **1.01**  ·  Adam Daghim - 1 **1.06**  ·  Adam Hlozek - 1 **1.02**  ·  Max Moerstedt - 1 **1.04**  ·  Patrick Wimmer - 1 **1.06**  ·  Alexander Prass - 1 **1.08**  ·  Wouter Burger - 1 **1.14**  ·  Ozan Kabak - 1 **1.14**  ·  Nathan De Cat - 1 **1.33**  ·  Cajetan Lenz - 1 **1.44**  ·  Leon Avdullahu - 1 **1.44**  ·  Mats Rots - 1 **1.44**  ·  Vladimir Coufal - 1 **1.67**  ·  Bernardo Junior - 1 **1.53**  ·  Albian Hajdari - 1 **1.57**  ·  Koki Machida - 1 **1.62**  ·  Robin Hranac - 1 **1.67**  ·  Valentin Gendrey - 1 **1.67**  ·  Tim Lemperle - 2 **1.07**  ·  Andrej Kramaric - 2 **1.14**  ·  Fisnik Asllani - 2 **1.08**  ·  Adam Daghim - 2 **1.30**  ·  Adam Hlozek - 2 **1.17**  ·  Max Moerstedt - 2 **1.22**  ·  Patrick Wimmer - 2 **1.33**  ·  Alexander Prass - 2 **1.40**  ·  Wouter Burger - 2 **1.62**  ·  Ozan Kabak - 2 **1.67**  ·  Nathan De Cat - 2 **2.38**  ·  Cajetan Lenz - 2 **3.00**  ·  Leon Avdullahu - 2 **3.00**  ·  Mats Rots - 2 **2.75**  ·  Vladimir Coufal - 2 **4.00**  ·  Bernardo Junior - 2 **3.40**  ·  Albian Hajdari - 2 **3.50**  ·  Koki Machida - 2 **3.75**  ·  Robin Hranac - 2 **4.00**  ·  Valentin Gendrey - 2 **4.00**  ·  Tim Lemperle - 3 **1.25**  ·  Andrej Kramaric - 3 **1.44**  ·  Fisnik Asllani - 3 **1.28**  ·  Adam Daghim - 3 **1.83**  ·  Adam Hlozek - 3 **1.50**  ·  Max Moerstedt - 3 **1.67**  ·  Patrick Wimmer - 3 **1.91**  ·  Alexander Prass - 3 **2.20**  ·  Wouter Burger - 3 **2.75**  ·  Ozan Kabak - 3 **2.75**  ·  Nathan De Cat - 3 **5.50**  ·  Cajetan Lenz - 3 **7.00**  ·  Leon Avdullahu - 3 **7.00**  ·  Mats Rots - 3 **7.00**  ·  Vladimir Coufal - 3 **11.00**  ·  Bernardo Junior - 3 **9.00**  ·  Albian Hajdari - 3 **10.00**  ·  Koki Machida - 3 **10.00**  ·  Robin Hranac - 3 **11.00**  ·  Valentin Gendrey - 3 **11.00**  ·  Tim Lemperle - 4 **1.62**  ·  Andrej Kramaric - 4 **2.00**  ·  Fisnik Asllani - 4 **1.67**  ·  Adam Daghim - 4 **3.25**  ·  Adam Hlozek - 4 **2.20**  ·  Max Moerstedt - 4 **2.62**  ·  Patrick Wimmer - 4 **3.40**  ·  Alexander Prass - 4 **3.75**  ·  Wouter Burger - 4 **5.50**  ·  Ozan Kabak - 4 **5.50**  ·  Nathan De Cat - 4 **13.00**  ·  Cajetan Lenz - 4 **19.00**  ·  Leon Avdullahu - 4 **19.00**  ·  Mats Rots - 4 **17.00**  ·  Bernardo Junior - 4 **21.00**  ·  Albian Hajdari - 4 **21.00**  ·  Tim Lemperle - 5 **2.25**  ·  Andrej Kramaric - 5 **3.40**  ·  Fisnik Asllani - 5 **2.50**  ·  Adam Daghim - 5 **5.50**  ·  Adam Hlozek - 5 **3.50**  ·  Max Moerstedt - 5 **4.50**  ·  Patrick Wimmer - 5 **6.00**  ·  Alexander Prass - 5 **8.00**  ·  Wouter Burger - 5 **13.00**  ·  Ozan Kabak - 5 **13.00**  ·  Tim Lemperle - 6 **3.50**  ·  Andrej Kramaric - 6 **5.50**  ·  Fisnik Asllani - 6 **4.00**  ·  Adam Daghim - 6 **11.00**  ·  Adam Hlozek - 6 **6.50**  ·  Max Moerstedt - 6 **9.00**  ·  Patrick Wimmer - 6 **13.00**  ·  Alexander Prass - 6 **17.00**  ·  Wouter Burger - 6 **21.00**  ·  Tim Lemperle - 7 **6.00**  ·  Andrej Kramaric - 7 **11.00**  ·  Fisnik Asllani - 7 **7.00**  ·  Adam Daghim - 7 **21.00**  ·  Adam Hlozek - 7 **13.00**  ·  Max Moerstedt - 7 **17.00**  ·  Patrick Wimmer - 7 **21.00**  ·  Tim Lemperle - 8 **11.00**  ·  Andrej Kramaric - 8 **19.00**  ·  Fisnik Asllani - 8 **13.00**  ·  Tim Lemperle - 9 **19.00**  ·  Bambase Conte - 1 **1.06**  ·  Bambase Conte - 2 **1.33**  ·  Bambase Conte - 3 **1.91**  ·  Bambase Conte - 4 **3.40**  ·  Koki Machida - 4 **21.00**  ·  Valentin Gendrey - 4 **21.00**  ·  Bambase Conte - 5 **6.00**  ·  Ozan Kabak - 6 **21.00**  ·  Natnael Abraha - 1 **1.44**  ·  Natnael Abraha - 2 **3.00**  ·  Natnael Abraha - 3 **7.00**  ·  Bambase Conte - 6 **13.00**  ·  Natnael Abraha - 4 **19.00**  ·  Bambase Conte - 7 **21.00**  ·  Adam Hlozek - 8 **21.00**  ·  Fisnik Asllani - 9 **21.00**  ·  Valentin Lassig - 1 **1.67**  ·  Valentin Lassig - 2 **4.00**  ·  Valentin Lassig - 3 **11.00**
+- **Anytime Goal Scorer:** Arthur Augusto **10.00**  ·  Cedric Itten **2.75**  ·  Adam Daghim **4.00**  ·  Marco Grull **3.25**  ·  Vladimir Coufal **9.00**  ·  Fisnik Asllani **2.40**  ·  Koki Machida **10.00**  ·  Cajetan Lenz **7.00**  ·  Salim Musah **2.75**  ·  Leon Avdullahu **7.00**  ·  Robin Hranac **9.00**  ·  Wouter Burger **4.33**  ·  Justin Njinmah **3.60**  ·  Nathan De Cat **6.00**  ·  Moussa N'Diaye **10.00**  ·  Niclas Fullkrug **2.40**  ·  Eren Dinkci **4.33**  ·  Tim Lemperle **2.75**  ·  Youri Regeer **10.00**  ·  Mats Rots **8.00**  ·  Bambase Conte **3.25**  ·  Ludovit Reis **6.50**  ·  Kenny Quetant **2.75**  ·  Valentin Lassig **9.00**  ·  Mats Heitmann **12.00**  ·  Albian Hajdari **9.00**  ·  Oskar Wojcik **10.00**  ·  Natnael Abraha **7.00**  ·  Darwin Soylu **4.33**  ·  Paul Erevbenagie **4.33**  ·  Ivan Chuki **3.60**  ·  Adam Hlozek **2.40**  ·  Alexander Prass **4.33**  ·  Andrej Kramaric **2.30**  ·  Max Moerstedt **2.75**  ·  Valentin Gendrey **10.00**  ·  Patrick Wimmer **3.25**  ·  Amos Pieper **12.00**  ·  Felix Agu **10.00**  ·  Jens Stage **4.75**  ·  Marco Friedl **15.00**  ·  Mitchell Weiser **7.00**  ·  Olivier Deman **10.00**  ·  Niklas Stark **12.00**  ·  Senne Lynen **8.00**  ·  Ozan Kabak **4.75**  ·  Mick Schmetgens **10.00**  ·  Dariusz Stalmach **5.50**  ·  Bernardo Junior **9.00**
 - **Player to Score or Assist:** Arthur Augusto **4.00**  ·  Cedric Itten **2.05**  ·  Adam Daghim **2.50**  ·  Marco Grull **2.30**  ·  Vladimir Coufal **2.88**  ·  Fisnik Asllani **1.80**  ·  Koki Machida **7.00**  ·  Cajetan Lenz **3.60**  ·  Salim Musah **2.20**  ·  Leon Avdullahu **4.75**  ·  Robin Hranac **6.50**  ·  Wouter Burger **2.30**  ·  Justin Njinmah **2.62**  ·  Nathan De Cat **2.88**  ·  Moussa N'Diaye **4.33**  ·  Niclas Fullkrug **1.83**  ·  Eren Dinkci **2.75**  ·  Tim Lemperle **2.00**  ·  Youri Regeer **4.33**  ·  Mats Rots **4.00**  ·  Bambase Conte **2.05**  ·  Ludovit Reis **3.75**  ·  Kenny Quetant **2.10**  ·  Valentin Lassig **5.50**  ·  Mats Heitmann **5.50**  ·  Albian Hajdari **5.00**  ·  Oskar Wojcik **5.50**  ·  Natnael Abraha **4.50**  ·  Darwin Soylu **2.50**  ·  Paul Erevbenagie **2.40**  ·  Ivan Chuki **2.30**  ·  Adam Hlozek **1.83**  ·  Alexander Prass **2.50**  ·  Andrej Kramaric **1.67**  ·  Max Moerstedt **2.20**  ·  Valentin Gendrey **4.75**  ·  Patrick Wimmer **2.00**  ·  Amos Pieper **8.00**  ·  Felix Agu **5.00**  ·  Jens Stage **2.88**  ·  Marco Friedl **8.50**  ·  Mitchell Weiser **3.00**  ·  Olivier Deman **4.50**  ·  Niklas Stark **7.00**  ·  Senne Lynen **4.50**  ·  Ozan Kabak **3.60**  ·  Mick Schmetgens **5.50**  ·  Dariusz Stalmach **3.40**  ·  Bernardo Junior **6.00**
 
 ## Estadísticas de equipo
@@ -177,38 +184,44 @@ _Sin bajas comunicadas por ahora._
 | Nathan De Cat | M | 4 | 108 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,48 · visitante 1,48 · córners esperados 9,6._
+_Goles esperados: local 2,47 · visitante 1,47 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 43% | 32% | 2.20 | -29% |
-| 1X2: X | 19% | 25% | 22% | 3.80 | -18% |
-| 1X2: 1 | 60% | 32% | 46% | 2.90 | +33% |
-| Doble oportunidad: X2 | 40% | 68% | 54% | 1.40 | -24% |
+| 1X2: X | 19% | 25% | 22% | 3.80 | -17% |
+| 1X2: 1 | 59% | 32% | 46% | 2.90 | +33% |
+| Doble oportunidad: X2 | 41% | 68% | 54% | 1.40 | -24% |
 | Doble oportunidad: 12 | 81% | 76% | 79% | 1.25 | -2% |
 | Doble oportunidad: 1X | 78% | 57% | 67% | 1.67 | +13% |
-| Ambos marcan: No | 29% | 34% | 32% | 2.75 | -13% |
-| Ambos marcan: Sí | 71% | 66% | 68% | 1.40 | -4% |
-| Goles más/menos: Más de 2.5 | 76% | 66% | 71% | 1.44 | +2% |
-| Goles más/menos: Más de 3.5 | 56% | 47% | 52% | 2.00 | +3% |
-| Goles más/menos: Más de 4.5 | 36% | 28% | 32% | 3.40 | +10% |
-| Goles más/menos: Menos de 2.5 | 24% | 34% | 29% | 2.75 | -19% |
-| Goles más/menos: Menos de 3.5 | 44% | 53% | 48% | 1.80 | -13% |
+| Ambos marcan: No | 30% | 34% | 32% | 2.75 | -13% |
+| Ambos marcan: Sí | 70% | 66% | 68% | 1.40 | -4% |
+| Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles más/menos: Más de 3.5 | 55% | 47% | 51% | 2.00 | +3% |
+| Goles más/menos: Más de 4.5 | 36% | 28% | 32% | 3.40 | +9% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles más/menos: Menos de 3.5 | 45% | 53% | 49% | 1.80 | -12% |
 | Goles más/menos: Menos de 4.5 | 64% | 72% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
 | Goles del local: Más de 0.5 | 92% | 78% | 85% | 1.20 | +2% |
 | Goles del local: Más de 1.5 | 71% | 49% | 60% | 1.91 | +14% |
-| Goles del local: Más de 2.5 | 45% | 23% | 34% | 4.00 | +37% |
+| Goles del local: Más de 2.5 | 45% | 23% | 34% | 4.00 | +36% |
 | Goles del local: Menos de 0.5 | 8% | 22% | 15% | 4.33 | -35% |
-| Goles del local: Menos de 1.5 | 29% | 51% | 40% | 1.80 | -28% |
+| Goles del local: Menos de 1.5 | 29% | 51% | 40% | 1.80 | -27% |
 | Goles del local: Menos de 2.5 | 55% | 77% | 66% | 1.22 | -20% |
-| Goles del visitante: Más de 1.5 | 43% | 56% | 50% | 1.67 | -17% |
-| Goles del visitante: Más de 2.5 | 19% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 57% | 44% | 50% | 2.10 | +6% |
-| Goles del visitante: Menos de 2.5 | 81% | 71% | 76% | 1.33 | +1% |
+| Goles del visitante: Más de 1.5 | 43% | 56% | 49% | 1.67 | -18% |
+| Goles del visitante: Más de 2.5 | 18% | 29% | 24% | 3.25 | -23% |
+| Goles del visitante: Menos de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
+| Goles del visitante: Menos de 2.5 | 82% | 71% | 76% | 1.33 | +2% |
 | 1X2 descanso: 2 | 22% | 36% | 29% | 2.62 | -25% |
-| 1X2 descanso: X | 33% | 36% | 34% | 2.60 | -10% |
+| 1X2 descanso: X | 33% | 36% | 35% | 2.60 | -10% |
 | 1X2 descanso: 1 | 45% | 29% | 37% | 3.25 | +20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

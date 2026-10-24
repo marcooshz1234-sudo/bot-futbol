@@ -1,20 +1,25 @@
 # Toulouse – Estac Troyes
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:07_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **1.60**  ·  X **4.00**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.38**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.50** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
@@ -47,13 +52,17 @@ _Actualizadas: 23/10 17:07_
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 - **Home Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
     - 1,5: más **1.50** · menos **2.50**
+- **Total ShotOnGoal:**
+    - 9,5: más **1.91** · menos **1.80**
+- **ShotOnTarget 1x2:** 1 **1.40**  ·  X **8.00**  ·  2 **3.50**
 - **Total Shots:**
     - 26,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.28**  ·  X **17.00**  ·  2 **3.75**
 - **Home Player Shots On Target Total:** Casper Tengstedt - 2 **2.62**  ·  Casper Tengstedt - 3 **7.00**  ·  Casper Tengstedt - 4 **19.00**  ·  Casper Tengstedt - 1 **1.36**  ·  Mathis Amougou - 1 **2.62**  ·  Mathis Amougou - 2 **11.00**  ·  Santiago Hidalgo - 1 **1.44**  ·  Julien Vignolo - 1 **1.40**  ·  Jacen Russell-Rowe - 1 **1.53**  ·  Sion Oppong - 1 **1.53**  ·  Aron Donnum - 1 **1.91**  ·  Rafik Messali - 1 **2.00**  ·  Thomas Jorgensen - 1 **1.83**  ·  Niklas Schmidt - 1 **2.20**  ·  Alexis Vossah - 1 **2.00**  ·  Mathis Saka - 1 **2.10**  ·  Cristian Casseres Jr - 1 **2.75**  ·  David Odogu - 1 **2.62**  ·  Ilyas Azizi - 1 **1.67**  ·  Ismail Diallo - 1 **3.40**  ·  Seny Koumbassa - 1 **3.75**  ·  Rasmus Nicolaisen - 1 **2.62**  ·  Christ Tape - 1 **2.75**  ·  Mark McKenzie - 1 **5.50**  ·  Santiago Hidalgo - 2 **3.00**  ·  Julien Vignolo - 2 **2.75**  ·  Jacen Russell-Rowe - 2 **3.75**  ·  Sion Oppong - 2 **3.75**  ·  Aron Donnum - 2 **6.00**  ·  Rafik Messali - 2 **7.00**  ·  Thomas Jorgensen - 2 **5.50**  ·  Niklas Schmidt - 2 **8.00**  ·  Alexis Vossah - 2 **6.50**  ·  Mathis Saka - 2 **7.00**  ·  Cristian Casseres Jr - 2 **13.00**  ·  David Odogu - 2 **11.00**  ·  Ilyas Azizi - 2 **4.33**  ·  Ismail Diallo - 2 **17.00**  ·  Seny Koumbassa - 2 **19.00**  ·  Rasmus Nicolaisen - 2 **11.00**  ·  Christ Tape - 2 **13.00**  ·  Santiago Hidalgo - 3 **9.00**  ·  Julien Vignolo - 3 **8.00**  ·  Jacen Russell-Rowe - 3 **11.00**  ·  Sion Oppong - 3 **11.00**  ·  Aron Donnum - 3 **21.00**  ·  Rafik Messali - 3 **21.00**  ·  Thomas Jorgensen - 3 **19.00**  ·  Alexis Vossah - 3 **21.00**  ·  Mathis Saka - 3 **21.00**  ·  Ilyas Azizi - 3 **15.00**  ·  Santiago Hidalgo - 4 **21.00**  ·  Julien Vignolo - 4 **21.00**  ·  Niko Sigur - 1 **2.50**  ·  Niko Sigur - 2 **10.00**
 - **Away Player Shots Total:**
     - 10,5: más **1.83** · menos **1.83**
@@ -203,25 +212,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 17% | 12% | 5.50 | -32% |
+| 1X2: 2 | 8% | 17% | 12% | 5.50 | -31% |
 | 1X2: X | 12% | 24% | 18% | 4.00 | -29% |
 | 1X2: 1 | 80% | 59% | 70% | 1.60 | +12% |
-| Doble oportunidad: X2 | 20% | 39% | 29% | 2.38 | -30% |
-| Doble oportunidad: 12 | 88% | 77% | 83% | 1.22 | +1% |
+| Doble oportunidad: X2 | 20% | 39% | 30% | 2.38 | -30% |
+| Doble oportunidad: 12 | 88% | 77% | 82% | 1.22 | +1% |
 | Doble oportunidad: 1X | 92% | 84% | 88% | 1.12 | -1% |
-| Ambos marcan: No | 43% | 45% | 44% | 2.05 | -9% |
+| Ambos marcan: No | 43% | 45% | 44% | 2.05 | -10% |
 | Ambos marcan: Sí | 57% | 55% | 56% | 1.70 | -5% |
 | Goles más/menos: Más de 1.5 | 91% | 79% | 85% | 1.20 | +2% |
-| Goles más/menos: Más de 2.5 | 76% | 59% | 68% | 1.62 | +9% |
-| Goles más/menos: Más de 3.5 | 57% | 38% | 47% | 2.50 | +19% |
+| Goles más/menos: Más de 2.5 | 76% | 59% | 67% | 1.62 | +9% |
+| Goles más/menos: Más de 3.5 | 57% | 38% | 47% | 2.50 | +18% |
 | Goles más/menos: Más de 4.5 | 37% | 21% | 29% | 4.50 | +31% |
 | Goles más/menos: Menos de 1.5 | 9% | 21% | 15% | 4.50 | -32% |
-| Goles más/menos: Menos de 2.5 | 24% | 41% | 32% | 2.30 | -25% |
-| Goles más/menos: Menos de 3.5 | 43% | 62% | 53% | 1.53 | -20% |
+| Goles más/menos: Menos de 2.5 | 24% | 41% | 33% | 2.30 | -25% |
+| Goles más/menos: Menos de 3.5 | 43% | 62% | 53% | 1.53 | -19% |
 | Goles más/menos: Menos de 4.5 | 63% | 79% | 71% | 1.20 | -15% |
-| Goles del local: Más de 1.5 | 82% | 61% | 71% | 1.53 | +9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles del local: Más de 1.5 | 81% | 61% | 71% | 1.53 | +9% |
 | Goles del local: Más de 2.5 | 60% | 35% | 48% | 2.62 | +25% |
-| Goles del local: Menos de 1.5 | 18% | 39% | 29% | 2.38 | -32% |
+| Goles del local: Menos de 1.5 | 19% | 39% | 29% | 2.38 | -31% |
 | Goles del local: Menos de 2.5 | 40% | 65% | 52% | 1.44 | -25% |
 | Goles del visitante: Más de 0.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del visitante: Más de 1.5 | 23% | 27% | 25% | 3.50 | -13% |
@@ -230,6 +243,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
 | Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
 | 1X2 descanso: X | 29% | 37% | 33% | 2.50 | -18% |
-| 1X2 descanso: 1 | 61% | 46% | 53% | 2.00 | +7% |
+| 1X2 descanso: 1 | 60% | 46% | 53% | 2.00 | +7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

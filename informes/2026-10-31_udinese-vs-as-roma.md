@@ -1,7 +1,7 @@
 # Udinese – AS Roma
 **Serie A** · Regular Season - 10 · 31/10/2026 18:00 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | S. Castro | F | 6 | 226 | 1 | 0 | 12 | 2,0 | 1 | 0,2 | 11 | 3 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,89 · visitante 2,24 · córners esperados 9,2._
+_Goles esperados: local 0,89 · visitante 2,25 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

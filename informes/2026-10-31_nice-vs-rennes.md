@@ -1,10 +1,10 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 20:45_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **2.62**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**
@@ -47,53 +47,53 @@ _Actualizadas: 23/10 20:45_
 ## Estadísticas de equipo
 | | Nice (total) | Nice en casa | Rennes (total) | Rennes fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 10 | 5 |
-| Forma (últimos 5) | DVVDE | VVEE | EDVVD | EDDEV |
-| Balance | 2V 2E 3D | 2V 2E 0D | 5V 3E 2D | 1V 2E 2D |
-| Goles a favor / partido | 0,86 | 1,25 | 1,90 | 1,40 |
-| Goles en contra / partido | 1,29 | 0,75 | 1,70 | 2,20 |
-| Goles a favor 1ª parte | 0,57 | 0,75 | 1,00 | 1,00 |
-| Goles a favor 2ª parte | 0,29 | 0,50 | 0,90 | 0,40 |
-| Goles en contra 1ª parte | 0,71 | 0,50 | 0,90 | 1,20 |
-| Goles en contra 2ª parte | 0,57 | 0,25 | 0,80 | 1,00 |
-| Más de 1,5 goles | 71% | 75% | 80% | 80% |
-| Más de 2,5 goles | 57% | 50% | 80% | 80% |
+| Partidos analizados | 8 | 4 | 10 | 5 |
+| Forma (últimos 5) | VDVVD | VVEE | EDVVD | EDDEV |
+| Balance | 3V 2E 3D | 2V 2E 0D | 5V 3E 2D | 1V 2E 2D |
+| Goles a favor / partido | 1,00 | 1,25 | 1,90 | 1,40 |
+| Goles en contra / partido | 1,25 | 0,75 | 1,70 | 2,20 |
+| Goles a favor 1ª parte | 0,50 | 0,75 | 1,00 | 1,00 |
+| Goles a favor 2ª parte | 0,50 | 0,50 | 0,90 | 0,40 |
+| Goles en contra 1ª parte | 0,75 | 0,50 | 0,90 | 1,20 |
+| Goles en contra 2ª parte | 0,50 | 0,25 | 0,80 | 1,00 |
+| Más de 1,5 goles | 75% | 75% | 80% | 80% |
+| Más de 2,5 goles | 62% | 50% | 80% | 80% |
 | Más de 3,5 goles | 0% | 0% | 60% | 60% |
-| Ambos marcan | 57% | 75% | 70% | 60% |
-| Portería a cero | 14% | 25% | 20% | 20% |
-| Se queda sin marcar | 43% | 25% | 20% | 40% |
-| xG a favor | 1,20 | 1,23 | 2,00 | 2,00 |
-| xG en contra | 1,50 | 1,19 | 2,12 | 2,67 |
-| Tiros / partido | 11,7 | 10,8 | 17,8 | 16,2 |
-| Tiros a puerta / partido | 3,7 | 3,2 | 6,3 | 5,2 |
-| Tiros recibidos | 12,0 | 12,5 | 13,6 | 15,6 |
-| Tiros a puerta recibidos | 4,4 | 4,0 | 5,0 | 5,8 |
-| Posesión media % | 55 | 51 | 54 | 53 |
-| Córners a favor | 5,7 | 4,8 | 6,3 | 5,4 |
+| Ambos marcan | 62% | 75% | 70% | 60% |
+| Portería a cero | 12% | 25% | 20% | 20% |
+| Se queda sin marcar | 38% | 25% | 20% | 40% |
+| xG a favor | 1,11 | 1,23 | 2,00 | 2,00 |
+| xG en contra | 1,63 | 1,19 | 2,12 | 2,67 |
+| Tiros / partido | 11,4 | 10,8 | 17,8 | 16,2 |
+| Tiros a puerta / partido | 3,5 | 3,2 | 6,3 | 5,2 |
+| Tiros recibidos | 12,1 | 12,5 | 13,6 | 15,6 |
+| Tiros a puerta recibidos | 4,8 | 4,0 | 5,0 | 5,8 |
+| Posesión media % | 54 | 51 | 54 | 53 |
+| Córners a favor | 5,9 | 4,8 | 6,3 | 5,4 |
 | Córners en contra | 3,0 | 3,8 | 5,9 | 6,0 |
-| Córners a favor 1ª parte | 1,6 | 2,2 | 3,0 | 2,4 |
-| Córners a favor 2ª parte | 4,1 | 2,5 | 3,3 | 3,0 |
-| Córners totales del partido | 8,7 | 8,5 | 12,2 | 11,4 |
-| Córners totales 1ª parte | 3,0 | 4,2 | 5,8 | 5,2 |
-| Córners totales 2ª parte | 5,7 | 4,2 | 6,4 | 6,2 |
-| Más de 8,5 córners | 57% | 50% | 80% | 80% |
-| Más de 9,5 córners | 57% | 50% | 70% | 60% |
-| Más de 10,5 córners | 29% | 25% | 60% | 60% |
-| Faltas cometidas | 9,4 | 9,5 | 12,3 | 12,2 |
-| Faltas recibidas | 8,3 | 9,0 | 11,8 | 12,4 |
-| Amarillas propias | 1,9 | 1,8 | 2,0 | 1,6 |
-| Amarillas del rival | 0,7 | 1,0 | 2,0 | 2,0 |
+| Córners a favor 1ª parte | 1,9 | 2,2 | 3,0 | 2,4 |
+| Córners a favor 2ª parte | 4,0 | 2,5 | 3,3 | 3,0 |
+| Córners totales del partido | 8,9 | 8,5 | 12,2 | 11,4 |
+| Córners totales 1ª parte | 3,2 | 4,2 | 5,8 | 5,2 |
+| Córners totales 2ª parte | 5,6 | 4,2 | 6,4 | 6,2 |
+| Más de 8,5 córners | 62% | 50% | 80% | 80% |
+| Más de 9,5 córners | 62% | 50% | 70% | 60% |
+| Más de 10,5 córners | 25% | 25% | 60% | 60% |
+| Faltas cometidas | 10,1 | 9,5 | 12,3 | 12,2 |
+| Faltas recibidas | 9,0 | 9,0 | 11,8 | 12,4 |
+| Amarillas propias | 2,2 | 1,8 | 2,0 | 1,6 |
+| Amarillas del rival | 1,0 | 1,0 | 2,0 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Nice | Recibe Nice | Tarjetas Nice | Goles Rennes | Recibe Rennes | Tarjetas Rennes |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 1 | 2 | 5 | 4 | 0 |
+| 1-15' | 0 | 2 | 2 | 5 | 4 | 0 |
 | 16-30' | 2 | 1 | 1 | 3 | 3 | 2 |
 | 31-45' | 2 | 3 | 2 | 2 | 2 | 5 |
-| 46-60' | 0 | 1 | 2 | 2 | 2 | 4 |
-| 61-75' | 1 | 1 | 4 | 1 | 2 | 2 |
-| 76-90' | 1 | 2 | 2 | 6 | 5 | 7 |
+| 46-60' | 0 | 1 | 3 | 2 | 2 | 4 |
+| 61-75' | 2 | 1 | 5 | 1 | 2 | 2 |
+| 76-90' | 2 | 2 | 6 | 6 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -111,36 +111,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Nice
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-23 | Ligue 1 | Stade Brestois 29 1-2 Nice | fuera | 7-3 | 9 (2) - 13 (7) | 5-3 |
 | 2026-10-18 | Ligue 1 | Lyon 2-1 Nice | fuera | 9-1 | 12 (5) - 8 (4) | 4-0 |
 | 2026-10-11 | Ligue 1 | Nice 2-1 Strasbourg | casa | 2-3 | 11 (6) - 11 (3) | 1-1 |
 | 2026-09-20 | Ligue 1 | Nice 2-1 Lille | casa | 3-7 | 10 (4) - 21 (8) | 3-1 |
 | 2026-09-12 | Ligue 1 | Auxerre 1-0 Nice | fuera | 8-3 | 12 (4) - 11 (7) | 1-1 |
 | 2026-09-05 | Ligue 1 | Nice 1-1 Le Mans | casa | 5-2 | 8 (2) - 8 (3) | 2-2 |
-| 2026-08-30 | Ligue 1 | Paris FC 3-0 Nice | fuera | 4-2 | 15 (4) - 15 (4) | 1-0 |
 
 ## Jugadores de Nice
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Yehvann Diouf | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 0 | 0 |
+| Y. Diouf | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
+| Y. Ndayishimiye | D | 8 | 688 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,6 | 2 | 0 |
+| J. Clauss | M | 8 | 662 | 1 | 1 | 13 | 1,6 | 6 | 0,8 | 2 | 2 | 0,2 | 0 | 0 |
 | Xavier Mandza | D | 7 | 625 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
-| Jonathan Clauss | M | 7 | 608 | 1 | 1 | 12 | 1,7 | 6 | 0,9 | 2 | 2 | 0,3 | 0 | 0 |
-| Youssouf Ndayishimiye | D | 7 | 598 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 5 | 0,7 | 2 | 0 |
-| Gauthier Hein | F | 7 | 558 | 0 | 1 | 4 | 0,6 | 2 | 0,3 | 3 | 3 | 0,4 | 0 | 0 |
-| Mohamed Abdelmonem | D | 7 | 512 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 5 | 0,7 | 2 | 0 |
-| Axel Witsel | M | 6 | 495 | 0 | 0 | 6 | 1,0 | 2 | 0,3 | 2 | 6 | 1,0 | 0 | 0 |
-| Djibril Coulibaly | M | 6 | 470 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 10 | 5 | 0,8 | 1 | 0 |
-| Elye Wahi | F | 6 | 440 | 2 | 0 | 10 | 1,7 | 5 | 0,8 | 1 | 7 | 1,2 | 2 | 0 |
-| Niels Nkounkou | M | 5 | 403 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 8 | 3 | 0,6 | 1 | 0 |
-| Mohamed Amoura | F | 5 | 368 | 1 | 0 | 6 | 1,2 | 3 | 0,6 | 7 | 2 | 0,4 | 2 | 0 |
-| Sofiane Diop | M | 7 | 288 | 0 | 2 | 3 | 0,4 | 2 | 0,3 | 2 | 2 | 0,3 | 1 | 0 |
+| G. Hein | M | 8 | 621 | 0 | 1 | 4 | 0,5 | 2 | 0,2 | 3 | 3 | 0,4 | 0 | 0 |
+| Mohamed Abdelmonem | D | 8 | 602 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 8 | 1,0 | 2 | 0 |
+| A. Witsel | M | 7 | 571 | 0 | 0 | 6 | 0,9 | 2 | 0,3 | 2 | 9 | 1,3 | 0 | 0 |
+| E. Wahi | F | 7 | 530 | 3 | 1 | 11 | 1,6 | 6 | 0,9 | 2 | 8 | 1,1 | 3 | 0 |
+| N. Nkounkou | M | 6 | 493 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 10 | 3 | 0,5 | 2 | 0 |
+| D. Coulibaly | M | 7 | 484 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 10 | 5 | 0,7 | 1 | 0 |
+| M. Amoura | M | 6 | 444 | 1 | 1 | 10 | 1,7 | 3 | 0,5 | 9 | 2 | 0,3 | 2 | 0 |
+| S. Diop | M | 8 | 315 | 1 | 2 | 5 | 0,6 | 3 | 0,4 | 4 | 2 | 0,2 | 1 | 0 |
+| H. Boudaoui | M | 4 | 243 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 3 | 0,8 | 0 | 0 |
 | Melvin Bard | M | 2 | 172 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 | Nathan N'Goumou | F | 5 | 160 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Hicham Boudaoui | M | 3 | 153 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 2 | 0,7 | 0 | 0 |
+| A. Seidu | D | 3 | 131 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 | Antoine Mendy | D | 3 | 124 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 | Everton Pereira | M | 3 | 115 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,7 | 0 | 0 |
 | Zoumana Diallo | F | 1 | 60 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| Ali Abdi | D | 3 | 47 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| Isak Jansson | F | 4 | 44 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 0 | 2 | 0,5 | 0 | 0 |
+| I. Jansson | F | 5 | 58 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Últimos partidos de Rennes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -177,40 +177,38 @@ _Sin bajas comunicadas por ahora._
 | Djaoui Cissé | M | 3 | 98 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 5 | 4 | 1,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 1,58 · córners esperados 10,0._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 40% | 41% | 2.30 | -5% |
+| 1X2: 2 | 42% | 40% | 41% | 2.30 | -6% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
-| 1X2: 1 | 33% | 35% | 34% | 2.62 | -11% |
-| Doble oportunidad: X2 | 67% | 66% | 66% | 1.44 | -4% |
+| 1X2: 1 | 34% | 35% | 34% | 2.62 | -10% |
+| Doble oportunidad: X2 | 66% | 66% | 66% | 1.44 | -5% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 57% | 60% | 59% | 1.57 | -8% |
-| Ambos marcan: No | 41% | 38% | 39% | 2.50 | -2% |
-| Ambos marcan: Sí | 59% | 62% | 61% | 1.50 | -9% |
-| Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
-| Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Más de 4.5 | 17% | 24% | 21% | 4.00 | -17% |
-| Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
-| Goles más/menos: Menos de 4.5 | 83% | 76% | 79% | 1.25 | -1% |
-| Goles del local: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
-| Goles del local: Más de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
-| Goles del local: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
-| Goles del local: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -2% |
+| Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |
+| Ambos marcan: No | 40% | 38% | 39% | 2.50 | -3% |
+| Ambos marcan: Sí | 60% | 62% | 61% | 1.50 | -8% |
+| Goles más/menos: Más de 2.5 | 57% | 62% | 60% | 1.53 | -9% |
+| Goles más/menos: Más de 3.5 | 35% | 41% | 38% | 2.30 | -12% |
+| Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -16% |
+| Goles más/menos: Menos de 2.5 | 43% | 38% | 40% | 2.50 | +1% |
+| Goles más/menos: Menos de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
+| Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
+| Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles del local: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
+| Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
+| Goles del local: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
+| Goles del local: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.18 | -6% |
 | Goles del visitante: Más de 1.5 | 47% | 50% | 48% | 1.83 | -11% |
 | Goles del visitante: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
 | Goles del visitante: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
 | Goles del visitante: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
 | Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| 1X2 descanso: 2 | 33% | 32% | 32% | 2.88 | -7% |
-| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -5% |
-| 1X2 descanso: 1 | 27% | 30% | 28% | 3.10 | -13% |
+| 1X2 descanso: 2 | 32% | 32% | 32% | 2.88 | -8% |
+| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: 1 | 27% | 30% | 28% | 3.10 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

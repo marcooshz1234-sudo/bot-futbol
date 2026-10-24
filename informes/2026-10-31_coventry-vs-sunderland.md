@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:07_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **2.70**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.44**
@@ -16,6 +16,10 @@ _Actualizadas: 23/10 17:07_
     - 3,5: más **3.40** · menos **1.33**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
@@ -39,7 +43,7 @@ _Actualizadas: 23/10 17:07_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Away Player Shots On Target Total:** Thomas Meunier **51.00**  ·  Malick Fofana **34.00**  ·  Daniel Ballard **10.00**  ·  Trai Hume **34.00**  ·  Caleb Yirenkyi **29.00**  ·  Brian Brobbey **8.00**  ·  Frank Onyeka **41.00**  ·  Stephen Mfuni **26.00**  ·  Wilson Isidor **19.00**  ·  Brandon Thomas-Asante **34.00**  ·  Ellis Simms **7.50**  ·  Yann Gboho **19.00**  ·  Matt Grimes **101.00**  ·  Ephron Mason-Clark **23.00**  ·  Jack Rudoni **12.00**  ·  Tatsuhiro Sakamoto **51.00**  ·  Victor Torp **41.00**  ·  Josh Eccles **67.00**  ·  Milan van Ewijk **126.00**  ·  Bobby Thomas **17.00**  ·  Jay Dasilva **151.00**  ·  Joel Latibeaudiere **23.00**  ·  Gustavo Hamer **41.00**  ·  Chris Rigg **51.00**  ·  Alan Browne **41.00**  ·  Luke O'Nien **29.00**  ·  Kevin Danso **23.00**  ·  Sidiki Cherif **21.00**  ·  Dayann Methalie **34.00**  ·  Nilson Angulo **26.00**  ·  Chemsdine Talbi **41.00**  ·  Noah Sadiki **81.00**  ·  Aurele Amenda **23.00**  ·  Enzo Le Fee **41.00**  ·  Reinildo Mandava **21.00**  ·  Jocelin Ta Bi **34.00**  ·  Jules Ahoka **26.00**  ·  Taiwo Awoniyi **9.50**  ·  Omar Alderete **15.00**  ·  Ethan Pinnock **19.00**  ·  Loum Tchaouna **41.00**  ·  Granit Xhaka **67.00**  ·  Nordi Mukiele **21.00**
 - **Anytime Goal Scorer:** Thomas Meunier **8.00**  ·  Malick Fofana **3.60**  ·  Daniel Ballard **8.00**  ·  Trai Hume **8.00**  ·  Caleb Yirenkyi **6.50**  ·  Brian Brobbey **2.88**  ·  Frank Onyeka **8.50**  ·  Stephen Mfuni **11.00**  ·  Wilson Isidor **2.88**  ·  Brandon Thomas-Asante **3.60**  ·  Ellis Simms **3.10**  ·  Yann Gboho **3.10**  ·  Matt Grimes **11.00**  ·  Ephron Mason-Clark **3.75**  ·  Jack Rudoni **5.00**  ·  Tatsuhiro Sakamoto **6.00**  ·  Victor Torp **4.75**  ·  Josh Eccles **8.00**  ·  Milan van Ewijk **13.00**  ·  Bobby Thomas **10.00**  ·  Jay Dasilva **15.00**  ·  Joel Latibeaudiere **15.00**  ·  Gustavo Hamer **4.75**  ·  Chris Rigg **6.00**  ·  Alan Browne **7.50**  ·  Luke O'Nien **11.00**  ·  Kevin Danso **13.00**  ·  Sidiki Cherif **3.25**  ·  Dayann Methalie **8.00**  ·  Nilson Angulo **4.33**  ·  Chemsdine Talbi **4.33**  ·  Noah Sadiki **10.00**  ·  Aurele Amenda **13.00**  ·  Enzo Le Fee **4.75**  ·  Reinildo Mandava **13.00**  ·  Jocelin Ta Bi **6.00**  ·  Jules Ahoka **8.50**  ·  Taiwo Awoniyi **2.88**  ·  Omar Alderete **10.00**  ·  Ethan Pinnock **13.00**  ·  Loum Tchaouna **4.75**  ·  Granit Xhaka **8.00**  ·  Nordi Mukiele **11.00**
-- **Player to Score or Assist:** Brandon Thomas-Asante **2.60**  ·  Ephron Mason-Clark **2.40**  ·  Jack Rudoni **2.88**  ·  Sidiki Cherif **2.50**  ·  Nilson Angulo **3.00**  ·  Enzo Le Fee **2.75**
+- **Player to Score or Assist:** Thomas Meunier **4.75**  ·  Malick Fofana **2.40**  ·  Daniel Ballard **6.00**  ·  Trai Hume **4.50**  ·  Caleb Yirenkyi **4.00**  ·  Brian Brobbey **2.38**  ·  Frank Onyeka **4.50**  ·  Stephen Mfuni **7.00**  ·  Wilson Isidor **2.40**  ·  Brandon Thomas-Asante **2.60**  ·  Ellis Simms **2.60**  ·  Yann Gboho **2.25**  ·  Matt Grimes **5.50**  ·  Ephron Mason-Clark **2.40**  ·  Jack Rudoni **2.88**  ·  Tatsuhiro Sakamoto **3.25**  ·  Victor Torp **2.75**  ·  Josh Eccles **5.00**  ·  Milan van Ewijk **5.00**  ·  Bobby Thomas **6.00**  ·  Jay Dasilva **7.50**  ·  Joel Latibeaudiere **9.00**  ·  Gustavo Hamer **2.50**  ·  Chris Rigg **3.50**  ·  Alan Browne **4.33**  ·  Luke O'Nien **8.00**  ·  Kevin Danso **8.00**  ·  Sidiki Cherif **2.50**  ·  Dayann Methalie **4.50**  ·  Nilson Angulo **3.00**  ·  Chemsdine Talbi **2.75**  ·  Noah Sadiki **6.00**  ·  Aurele Amenda **10.00**  ·  Enzo Le Fee **2.75**  ·  Reinildo Mandava **8.00**  ·  Jocelin Ta Bi **3.50**  ·  Jules Ahoka **5.00**  ·  Taiwo Awoniyi **2.38**  ·  Omar Alderete **7.50**  ·  Ethan Pinnock **9.00**  ·  Loum Tchaouna **3.25**  ·  Granit Xhaka **3.40**  ·  Nordi Mukiele **4.50**
 
 ## Estadísticas de equipo
 | | Coventry (total) | Coventry en casa | Sunderland (total) | Sunderland fuera |
@@ -174,35 +178,39 @@ _Sin bajas comunicadas por ahora._
 | Jules Ahoka | M | 3 | 205 | 1 | 0 | 5 | 1,7 | 2 | 0,7 | 3 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 1,41 · córners esperados 8,8._
+_Goles esperados: local 1,27 · visitante 1,41 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 37% | 39% | 2.50 | -2% |
+| 1X2: 2 | 40% | 37% | 39% | 2.50 | -3% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
-| 1X2: 1 | 33% | 35% | 34% | 2.70 | -8% |
-| Doble oportunidad: X2 | 67% | 66% | 66% | 1.44 | -5% |
+| 1X2: 1 | 34% | 35% | 34% | 2.70 | -8% |
+| Doble oportunidad: X2 | 66% | 66% | 66% | 1.44 | -5% |
 | Doble oportunidad: 12 | 74% | 71% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 59% | 63% | 61% | 1.50 | -8% |
-| Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
-| Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Más de 3.5 | 28% | 28% | 28% | 3.40 | -5% |
+| Doble oportunidad: 1X | 60% | 63% | 61% | 1.50 | -8% |
+| Ambos marcan: No | 46% | 45% | 46% | 2.05 | -7% |
+| Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -7% |
+| Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -4% |
+| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
+| Goles más/menos: Más de 3.5 | 28% | 28% | 28% | 3.40 | -4% |
 | Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -5% |
-| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
+| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
 | Goles más/menos: Menos de 3.5 | 72% | 72% | 72% | 1.33 | -4% |
-| Goles del local: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Goles del local: Más de 1.5 | 36% | 38% | 37% | 2.50 | -9% |
-| Goles del local: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 34% | 33% | 2.75 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 66% | 67% | 1.40 | -6% |
+| Goles del local: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
+| Goles del local: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles del local: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -5% |
 | Goles del local: Menos de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
 | Goles del visitante: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
-| Goles del visitante: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -11% |
+| Goles del visitante: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
+| Goles del visitante: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
 | Goles del visitante: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
-| 1X2 descanso: 2 | 31% | 30% | 30% | 3.10 | -7% |
+| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -7% |
 | 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
 | 1X2 descanso: 1 | 26% | 28% | 27% | 3.25 | -11% |
 

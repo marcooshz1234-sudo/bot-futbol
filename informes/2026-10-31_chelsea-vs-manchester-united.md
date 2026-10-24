@@ -1,10 +1,10 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 14:47_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
@@ -44,7 +44,7 @@ _Actualizadas: 23/10 14:47_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.40**
 - **Away Player Shots On Target Total:** Moises Caicedo **51.00**  ·  Jorrel Hato **23.00**  ·  Bruno Fernandes **34.00**  ·  Diogo Dalot **101.00**  ·  Lisandro Martinez **41.00**  ·  Shea Lacey **26.00**  ·  Andrey Santos **29.00**  ·  Matheus Cunha **23.00**  ·  Romeo Lavia **15.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **126.00**  ·  Valentin Barco **34.00**  ·  Geovany Quenda **34.00**  ·  Maxence Lacroix **12.00**  ·  Cole Palmer **15.00**  ·  Levi Colwill **17.00**  ·  Malo Gusto **51.00**  ·  Reece James **51.00**  ·  Wesley Fofana **13.00**  ·  Morgan Rogers **26.00**  ·  Youri Tielemans **81.00**  ·  Carlos Baleba **41.00**  ·  Danny Welbeck **7.50**  ·  Bryan Mbeumo **19.00**  ·  Harry Maguire **15.00**  ·  Joshua Zirkzee **19.00**  ·  Kobbie Mainoo **81.00**  ·  Luke Shaw **151.00**  ·  Marcus Rashford **34.00**  ·  Mason Mount **34.00**  ·  Matthijs de Ligt **17.00**  ·  Noussair Mazraoui **67.00**  ·  Estevao **26.00**  ·  Leny Yoro **29.00**  ·  Joao Pedro **8.50**  ·  Benjamin Sesko **8.00**  ·  Pedro Neto **29.00**  ·  Josh Acheampong **26.00**  ·  Marco Palestra **51.00**  ·  Ayden Heaven **21.00**  ·  Patrick Dorgu **19.00**  ·  Jamie Bynoe-Gittens **34.00**
 - **Anytime Goal Scorer:** Moises Caicedo **8.50**  ·  Jorrel Hato **9.50**  ·  Bruno Fernandes **3.75**  ·  Diogo Dalot **11.00**  ·  Lisandro Martinez **17.00**  ·  Shea Lacey **5.50**  ·  Andrey Santos **8.50**  ·  Matheus Cunha **3.75**  ·  Romeo Lavia **7.50**  ·  Pep Chavarria **8.50**  ·  Jordan Henderson **8.50**  ·  Valentin Barco **6.00**  ·  Geovany Quenda **4.00**  ·  Maxence Lacroix **9.50**  ·  Cole Palmer **2.25**  ·  Levi Colwill **9.50**  ·  Malo Gusto **9.50**  ·  Reece James **7.00**  ·  Wesley Fofana **9.50**  ·  Morgan Rogers **2.88**  ·  Youri Tielemans **8.50**  ·  Carlos Baleba **7.50**  ·  Danny Welbeck **2.25**  ·  Bryan Mbeumo **3.75**  ·  Harry Maguire **11.00**  ·  Joshua Zirkzee **3.75**  ·  Kobbie Mainoo **9.50**  ·  Luke Shaw **17.00**  ·  Marcus Rashford **4.00**  ·  Mason Mount **6.00**  ·  Matthijs de Ligt **11.00**  ·  Noussair Mazraoui **17.00**  ·  Estevao **2.88**  ·  Leny Yoro **17.00**  ·  Joao Pedro **2.10**  ·  Benjamin Sesko **2.88**  ·  Pedro Neto **3.50**  ·  Josh Acheampong **9.50**  ·  Marco Palestra **8.50**  ·  Ayden Heaven **13.00**  ·  Patrick Dorgu **5.00**  ·  Jamie Bynoe-Gittens **3.75**
-- **Player to Score or Assist:** Bruno Fernandes **2.10**  ·  Matheus Cunha **2.50**  ·  Cole Palmer **1.62**  ·  Morgan Rogers **1.83**  ·  Joao Pedro **1.67**  ·  Pedro Neto **2.20**
+- **Player to Score or Assist:** Moises Caicedo **4.75**  ·  Jorrel Hato **4.33**  ·  Bruno Fernandes **2.10**  ·  Diogo Dalot **5.50**  ·  Lisandro Martinez **12.00**  ·  Shea Lacey **4.00**  ·  Andrey Santos **5.00**  ·  Matheus Cunha **2.50**  ·  Romeo Lavia **3.75**  ·  Pep Chavarria **3.75**  ·  Jordan Henderson **3.60**  ·  Valentin Barco **2.88**  ·  Geovany Quenda **2.10**  ·  Maxence Lacroix **6.00**  ·  Cole Palmer **1.62**  ·  Levi Colwill **6.00**  ·  Malo Gusto **3.60**  ·  Reece James **3.00**  ·  Wesley Fofana **6.50**  ·  Morgan Rogers **1.83**  ·  Youri Tielemans **4.50**  ·  Carlos Baleba **4.75**  ·  Danny Welbeck **1.91**  ·  Bryan Mbeumo **2.62**  ·  Harry Maguire **8.50**  ·  Joshua Zirkzee **2.88**  ·  Kobbie Mainoo **5.50**  ·  Luke Shaw **8.00**  ·  Marcus Rashford **2.75**  ·  Mason Mount **4.33**  ·  Matthijs de Ligt **7.00**  ·  Noussair Mazraoui **9.50**  ·  Estevao **1.91**  ·  Leny Yoro **11.00**  ·  Joao Pedro **1.67**  ·  Benjamin Sesko **2.40**  ·  Pedro Neto **2.20**  ·  Josh Acheampong **4.50**  ·  Marco Palestra **3.75**  ·  Ayden Heaven **9.00**  ·  Patrick Dorgu **3.60**  ·  Jamie Bynoe-Gittens **2.30**
 
 ## Estadísticas de equipo
 | | Chelsea (total) | Chelsea en casa | Manchester United (total) | Manchester United fuera |
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | Benjamin Šeško | F | 5 | 140 | 2 | 0 | 4 | 0,8 | 2 | 0,4 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,52 · visitante 1,40 · córners esperados 9,4._
+_Goles esperados: local 2,53 · visitante 1,40 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -187,23 +187,23 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 23% | 22% | 4.00 | -13% |
 | 1X2: X | 18% | 25% | 21% | 3.80 | -19% |
-| 1X2: 1 | 62% | 52% | 57% | 1.80 | +2% |
+| 1X2: 1 | 62% | 52% | 57% | 1.80 | +3% |
 | Doble oportunidad: X2 | 38% | 48% | 43% | 1.95 | -16% |
 | Doble oportunidad: 12 | 82% | 75% | 78% | 1.25 | -2% |
-| Doble oportunidad: 1X | 80% | 77% | 78% | 1.22 | -4% |
+| Doble oportunidad: 1X | 80% | 77% | 79% | 1.22 | -4% |
 | Ambos marcan: No | 31% | 38% | 34% | 2.50 | -15% |
 | Ambos marcan: Sí | 69% | 62% | 66% | 1.50 | -1% |
-| Goles más/menos: Más de 2.5 | 75% | 62% | 68% | 1.53 | +5% |
+| Goles más/menos: Más de 2.5 | 75% | 62% | 69% | 1.53 | +5% |
 | Goles más/menos: Más de 3.5 | 55% | 41% | 48% | 2.30 | +11% |
 | Goles más/menos: Más de 4.5 | 36% | 24% | 30% | 4.00 | +19% |
-| Goles más/menos: Menos de 2.5 | 25% | 38% | 32% | 2.50 | -21% |
+| Goles más/menos: Menos de 2.5 | 25% | 38% | 31% | 2.50 | -21% |
 | Goles más/menos: Menos de 3.5 | 45% | 59% | 52% | 1.62 | -16% |
 | Goles más/menos: Menos de 4.5 | 64% | 76% | 70% | 1.25 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -12% |
-| Goles del local: Más de 1.5 | 72% | 59% | 65% | 1.57 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
+| Goles del local: Más de 1.5 | 72% | 59% | 65% | 1.57 | +3% |
 | Goles del local: Más de 2.5 | 46% | 34% | 40% | 2.75 | +10% |
 | Goles del local: Menos de 1.5 | 28% | 41% | 35% | 2.25 | -22% |
 | Goles del local: Menos de 2.5 | 54% | 66% | 60% | 1.40 | -16% |
@@ -211,7 +211,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
 | Goles del visitante: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -11% |
 | Goles del visitante: Menos de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
-| 1X2 descanso: 2 | 20% | 23% | 22% | 4.00 | -13% |
+| 1X2 descanso: 2 | 20% | 23% | 22% | 4.00 | -14% |
 | 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -13% |
 | 1X2 descanso: 1 | 47% | 40% | 43% | 2.30 | -0% |
 

@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:07_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **2.20**  ·  X **3.40**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.67**
@@ -178,20 +178,20 @@ _Sin bajas comunicadas por ahora._
 | Jean-Mattéo Bahoya | F | 2 | 11 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 0,89 · córners esperados 9,0._
+_Goles esperados: local 1,55 · visitante 0,89 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 29% | 25% | 3.25 | -18% |
+| 1X2: 2 | 22% | 29% | 25% | 3.25 | -17% |
 | 1X2: X | 26% | 28% | 27% | 3.40 | -9% |
-| 1X2: 1 | 53% | 43% | 48% | 2.20 | +6% |
-| Doble oportunidad: X2 | 47% | 56% | 52% | 1.67 | -14% |
-| Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 79% | 71% | 75% | 1.33 | -1% |
-| Ambos marcan: No | 54% | 44% | 49% | 2.10 | +3% |
-| Ambos marcan: Sí | 46% | 56% | 51% | 1.67 | -15% |
+| 1X2: 1 | 53% | 43% | 48% | 2.20 | +5% |
+| Doble oportunidad: X2 | 47% | 56% | 52% | 1.67 | -13% |
+| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
+| Doble oportunidad: 1X | 78% | 71% | 75% | 1.33 | -1% |
+| Ambos marcan: No | 53% | 44% | 49% | 2.10 | +3% |
+| Ambos marcan: Sí | 47% | 56% | 51% | 1.67 | -15% |
 | Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
 | Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
@@ -204,15 +204,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
 | Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
-| Goles del local: Más de 2.5 | 21% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
-| Goles del local: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -5% |
+| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -14% |
-| Goles del visitante: Más de 1.5 | 22% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Más de 1.5 | 23% | 35% | 29% | 2.62 | -24% |
 | Goles del visitante: Menos de 0.5 | 41% | 29% | 35% | 3.25 | +14% |
-| Goles del visitante: Menos de 1.5 | 78% | 65% | 71% | 1.44 | +2% |
-| 1X2 descanso: 2 | 18% | 25% | 21% | 3.75 | -19% |
+| Goles del visitante: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
+| 1X2 descanso: 2 | 18% | 25% | 22% | 3.75 | -19% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
 | 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -3% |
 

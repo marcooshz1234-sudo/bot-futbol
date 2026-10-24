@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 20:45_
+_Actualizadas: 24/10 02:56_
 
 - **1X2:** 1 **1.62**  ·  X **3.90**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -177,41 +177,41 @@ _Sin bajas comunicadas por ahora._
 | Óscar Mingueza | M | 4 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,33 · visitante 1,39 · córners esperados 9,6._
+_Goles esperados: local 1,34 · visitante 1,39 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 19% | 29% | 5.00 | +43% |
+| 1X2: 2 | 38% | 19% | 28% | 5.00 | +42% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -3% |
 | 1X2: 1 | 36% | 57% | 47% | 1.62 | -24% |
 | Doble oportunidad: X2 | 64% | 42% | 53% | 2.25 | +20% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 61% | 81% | 71% | 1.17 | -16% |
-| Ambos marcan: No | 45% | 44% | 45% | 2.10 | -6% |
-| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -7% |
-| Goles más/menos: Más de 1.5 | 75% | 79% | 77% | 1.20 | -7% |
+| Doble oportunidad: 1X | 62% | 81% | 72% | 1.17 | -16% |
+| Ambos marcan: No | 45% | 44% | 44% | 2.10 | -7% |
+| Ambos marcan: Sí | 55% | 56% | 56% | 1.67 | -7% |
+| Goles más/menos: Más de 1.5 | 76% | 79% | 77% | 1.20 | -7% |
 | Goles más/menos: Más de 2.5 | 51% | 59% | 55% | 1.62 | -11% |
-| Goles más/menos: Más de 3.5 | 29% | 38% | 33% | 2.50 | -16% |
+| Goles más/menos: Más de 3.5 | 29% | 38% | 34% | 2.50 | -16% |
 | Goles más/menos: Más de 4.5 | 14% | 21% | 18% | 4.50 | -21% |
-| Goles más/menos: Menos de 1.5 | 25% | 21% | 23% | 4.50 | +3% |
-| Goles más/menos: Menos de 2.5 | 49% | 41% | 45% | 2.30 | +4% |
-| Goles más/menos: Menos de 3.5 | 71% | 62% | 67% | 1.53 | +2% |
+| Goles más/menos: Menos de 1.5 | 24% | 21% | 23% | 4.50 | +2% |
+| Goles más/menos: Menos de 2.5 | 49% | 41% | 45% | 2.30 | +3% |
+| Goles más/menos: Menos de 3.5 | 71% | 62% | 66% | 1.53 | +2% |
 | Goles más/menos: Menos de 4.5 | 86% | 79% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -2% |
-| Goles del local: Más de 1.5 | 38% | 59% | 49% | 1.57 | -24% |
-| Goles del local: Más de 2.5 | 15% | 34% | 24% | 2.75 | -33% |
-| Goles del local: Menos de 1.5 | 62% | 41% | 51% | 2.25 | +16% |
-| Goles del local: Menos de 2.5 | 85% | 66% | 76% | 1.40 | +6% |
+| Goles del local: Más de 1.5 | 39% | 59% | 49% | 1.57 | -23% |
+| Goles del local: Más de 2.5 | 15% | 34% | 25% | 2.75 | -33% |
+| Goles del local: Menos de 1.5 | 61% | 41% | 51% | 2.25 | +15% |
+| Goles del local: Menos de 2.5 | 85% | 66% | 75% | 1.40 | +6% |
 | Goles del visitante: Más de 0.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 1.5 | 40% | 29% | 35% | 3.25 | +13% |
 | Goles del visitante: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -21% |
 | Goles del visitante: Menos de 1.5 | 60% | 71% | 65% | 1.33 | -13% |
-| 1X2 descanso: X | 43% | 38% | 41% | 2.40 | -3% |
+| 1X2 descanso: X | 43% | 38% | 40% | 2.40 | -3% |
 | 1X2 descanso: 1 | 28% | 44% | 36% | 2.10 | -25% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

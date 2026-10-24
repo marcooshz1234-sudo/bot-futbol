@@ -1,73 +1,76 @@
 # Borussia Dortmund – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 7 · 24/10/2026 18:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/10 20:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 02:56._
 
 ## Cuotas Bet365
-_Actualizadas: 23/10 17:06_
+_Actualizadas: 24/10 02:55_
 
-- **1X2:** 1 **1.48**  ·  X **5.00**  ·  2 **5.75**
-- **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.62**
-- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **1X2:** 1 **1.50**  ·  X **5.00**  ·  2 **5.50**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.50**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
-    - 1,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.36** · menos **3.20**
     - 3,5: más **1.91** · menos **1.91**
-    - 4,5: más **3.00** · menos **1.40**
+    - 4,5: más **3.20** · menos **1.36**
     - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.00** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **1.91**  ·  X **2.88**  ·  2 **5.00**
+    - 3,5: más **2.20** · menos **1.62**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.75**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
 - **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **1.25**  ·  2 **2.75**
+- **To Win Either Half:** 1 **1.25**  ·  2 **2.62**
 - **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **4.33**
-- **Win Both Halves:** 1 **3.40**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **2.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.40**  ·  Draw/No **26.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **4.00**
+- **Win Both Halves:** 1 **3.50**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **7.50**  ·  Home/No **3.40**  ·  Draw/No **26.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 5,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.98** · menos **1.82**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
+- **Total ShotOnGoal:**
+    - 10,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.22**  ·  X **9.50**  ·  2 **5.00**
 - **Total Shots:**
     - 27,5: más **1.83** · menos **1.83**
+    - 28,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **1.11**  ·  X **19.00**  ·  2 **6.50**
-- **Home Player Shots On Target Total:** Mathis Albert - 1 **1.44**  ·  Fabio Silva - 1 **1.25**  ·  Samuele Inacio - 1 **1.44**  ·  Konstantinos Karetsas - 1 **1.36**  ·  Ramy Bensebaini - 1 **2.00**  ·  Carney Chukwuemeka - 1 **2.10**  ·  Joey Veerman - 1 **1.83**  ·  Felix Nmecha - 1 **2.38**  ·  Jobe Bellingham - 1 **2.38**  ·  Marcel Sabitzer - 1 **3.00**  ·  Julian Ryerson - 1 **3.50**  ·  Daniel Svensson - 1 **4.33**  ·  Luca Reggiani - 1 **3.50**  ·  Kaua Prates - 1 **5.50**  ·  Kouakou Gadou - 1 **3.50**  ·  Filippo Mane - 1 **3.00**  ·  Waldemar Anton - 1 **3.75**  ·  Maximilian Beier - 2 **2.62**  ·  Serhou Guirassy - 2 **1.57**  ·  Mathis Albert - 2 **3.25**  ·  Fabio Silva - 2 **2.20**  ·  Samuele Inacio - 2 **3.25**  ·  Konstantinos Karetsas - 2 **2.75**  ·  Ramy Bensebaini - 2 **6.50**  ·  Carney Chukwuemeka - 2 **7.00**  ·  Joey Veerman - 2 **5.50**  ·  Felix Nmecha - 2 **9.00**  ·  Jobe Bellingham - 2 **9.00**  ·  Marcel Sabitzer - 2 **15.00**  ·  Julian Ryerson - 2 **19.00**  ·  Daniel Svensson - 2 **21.00**  ·  Luca Reggiani - 2 **19.00**  ·  Kouakou Gadou - 2 **19.00**  ·  Filippo Mane - 2 **15.00**  ·  Waldemar Anton - 2 **21.00**  ·  Maximilian Beier - 3 **6.50**  ·  Serhou Guirassy - 3 **2.62**  ·  Mathis Albert - 3 **10.00**  ·  Fabio Silva - 3 **5.00**  ·  Samuele Inacio - 3 **10.00**  ·  Konstantinos Karetsas - 3 **7.00**  ·  Ramy Bensebaini - 3 **21.00**  ·  Carney Chukwuemeka - 3 **21.00**  ·  Joey Veerman - 3 **19.00**  ·  Maximilian Beier - 4 **19.00**  ·  Serhou Guirassy - 4 **5.50**  ·  Mathis Albert - 4 **21.00**  ·  Fabio Silva - 4 **13.00**  ·  Samuele Inacio - 4 **21.00**  ·  Konstantinos Karetsas - 4 **21.00**  ·  Serhou Guirassy - 5 **13.00**  ·  Maximilian Beier - 1 **1.33**  ·  Serhou Guirassy - 1 **1.11**  ·  Ethan Nwaneri - 1 **1.73**  ·  Ethan Nwaneri - 2 **4.50**  ·  Ethan Nwaneri - 3 **15.00**  ·  Nico Schlotterbeck - 1 **2.62**  ·  Nico Schlotterbeck - 2 **11.00**
+- **Home Player Shots On Target Total:** Mathis Albert - 1 **1.44**  ·  Fabio Silva - 1 **1.25**  ·  Samuele Inacio - 1 **1.44**  ·  Konstantinos Karetsas - 1 **1.36**  ·  Ramy Bensebaini - 1 **2.00**  ·  Carney Chukwuemeka - 1 **2.10**  ·  Joey Veerman - 1 **1.83**  ·  Felix Nmecha - 1 **2.38**  ·  Jobe Bellingham - 1 **2.38**  ·  Marcel Sabitzer - 1 **3.00**  ·  Julian Ryerson - 1 **3.50**  ·  Daniel Svensson - 1 **4.33**  ·  Luca Reggiani - 1 **3.50**  ·  Kaua Prates - 1 **5.50**  ·  Kouakou Gadou - 1 **3.50**  ·  Filippo Mane - 1 **3.00**  ·  Waldemar Anton - 1 **3.75**  ·  Maximilian Beier - 2 **2.62**  ·  Serhou Guirassy - 2 **1.57**  ·  Mathis Albert - 2 **3.25**  ·  Fabio Silva - 2 **2.20**  ·  Samuele Inacio - 2 **3.25**  ·  Konstantinos Karetsas - 2 **2.75**  ·  Ramy Bensebaini - 2 **6.50**  ·  Carney Chukwuemeka - 2 **8.00**  ·  Joey Veerman - 2 **5.50**  ·  Felix Nmecha - 2 **9.00**  ·  Jobe Bellingham - 2 **9.00**  ·  Marcel Sabitzer - 2 **15.00**  ·  Julian Ryerson - 2 **19.00**  ·  Daniel Svensson - 2 **21.00**  ·  Luca Reggiani - 2 **19.00**  ·  Kouakou Gadou - 2 **19.00**  ·  Filippo Mane - 2 **15.00**  ·  Waldemar Anton - 2 **21.00**  ·  Maximilian Beier - 3 **6.50**  ·  Serhou Guirassy - 3 **2.62**  ·  Mathis Albert - 3 **10.00**  ·  Fabio Silva - 3 **5.00**  ·  Samuele Inacio - 3 **10.00**  ·  Konstantinos Karetsas - 3 **7.00**  ·  Ramy Bensebaini - 3 **21.00**  ·  Carney Chukwuemeka - 3 **21.00**  ·  Joey Veerman - 3 **19.00**  ·  Maximilian Beier - 4 **19.00**  ·  Serhou Guirassy - 4 **5.50**  ·  Mathis Albert - 4 **21.00**  ·  Fabio Silva - 4 **13.00**  ·  Samuele Inacio - 4 **21.00**  ·  Konstantinos Karetsas - 4 **21.00**  ·  Serhou Guirassy - 5 **13.00**  ·  Maximilian Beier - 1 **1.33**  ·  Serhou Guirassy - 1 **1.11**  ·  Ethan Nwaneri - 1 **1.73**  ·  Ethan Nwaneri - 2 **4.50**  ·  Ethan Nwaneri - 3 **15.00**  ·  Nico Schlotterbeck - 1 **2.62**  ·  Nico Schlotterbeck - 2 **11.00**
 - **Away Player Shots On Target Total:** Raphael Onyedika **126.00**  ·  Galdino Otavio Manoel **17.00**  ·  Kaua Prates **51.00**  ·  Daniel Svensson **21.00**  ·  Mathis Albert **23.00**  ·  Samuele Inacio **19.00**  ·  Jobe Bellingham **21.00**  ·  Lilian Brassier **19.00**  ·  Kouakou Gadou **9.00**  ·  Konstantinos Karetsas **23.00**  ·  Filippo Mane **17.00**  ·  Elias Baum **51.00**  ·  Fares Chaibi **51.00**  ·  Oscar Hojlund **51.00**  ·  Mario Gotze **51.00**  ·  Joey Veerman **34.00**  ·  Keita Kosugi **126.00**  ·  Ayoube Amaimouni-Echghouyab **41.00**  ·  Malik Pimpong **34.00**  ·  Luca Reggiani **11.00**  ·  Jeremiaha Maluze **101.00**  ·  Ansgar Knauff **34.00**  ·  Can Uzun **34.00**  ·  Nnamdi Collins **29.00**  ·  Robin Koch **17.00**  ·  Timothy Chandler **34.00**  ·  Noel Aseko-Nkili **51.00**  ·  Carney Chukwuemeka **34.00**  ·  Fabio Silva **8.50**  ·  Jonathan Burkardt **7.50**  ·  Ethan Nwaneri **23.00**  ·  Ritsu Doan **41.00**  ·  Felix Nmecha **34.00**  ·  Julian Ryerson **21.00**  ·  Marcel Sabitzer **41.00**  ·  Maximilian Beier **13.00**  ·  Nico Schlotterbeck **9.50**  ·  Ramy Bensebaini **19.00**  ·  Serhou Guirassy **4.33**  ·  Waldemar Anton **13.00**  ·  Younes Ebnoutalib **8.50**  ·  Love Arrhov **41.00**
 - **Away Player Shots Total:**
     - 9,5: más **1.83** · menos **1.83**
+    - 10,5: más **1.83** · menos **1.83**
 - **Home Player Shots:** Mathis Albert - 1 **1.02**  ·  Fabio Silva - 1 **1.01**  ·  Samuele Inacio - 1 **1.02**  ·  Konstantinos Karetsas - 1 **1.03**  ·  Ramy Bensebaini - 1 **1.33**  ·  Carney Chukwuemeka - 1 **1.01**  ·  Joey Veerman - 1 **1.12**  ·  Felix Nmecha - 1 **1.17**  ·  Jobe Bellingham - 1 **1.20**  ·  Marcel Sabitzer - 1 **1.08**  ·  Julian Ryerson - 1 **2.10**  ·  Daniel Svensson - 1 **1.80**  ·  Luca Reggiani - 1 **1.57**  ·  Kaua Prates - 1 **1.33**  ·  Kouakou Gadou - 1 **2.10**  ·  Filippo Mane - 1 **1.57**  ·  Waldemar Anton - 1 **1.80**  ·  Maximilian Beier - 2 **1.20**  ·  Serhou Guirassy - 2 **1.10**  ·  Mathis Albert - 2 **1.12**  ·  Fabio Silva - 2 **1.12**  ·  Samuele Inacio - 2 **1.12**  ·  Konstantinos Karetsas - 2 **1.20**  ·  Ramy Bensebaini - 2 **2.50**  ·  Carney Chukwuemeka - 2 **1.12**  ·  Joey Veerman - 2 **1.62**  ·  Felix Nmecha - 2 **1.73**  ·  Jobe Bellingham - 2 **1.83**  ·  Marcel Sabitzer - 2 **1.40**  ·  Julian Ryerson - 2 **6.50**  ·  Daniel Svensson - 2 **4.50**  ·  Luca Reggiani - 2 **3.50**  ·  Kaua Prates - 2 **2.50**  ·  Kouakou Gadou - 2 **6.50**  ·  Filippo Mane - 2 **3.50**  ·  Waldemar Anton - 2 **4.50**  ·  Maximilian Beier - 3 **1.62**  ·  Serhou Guirassy - 3 **1.33**  ·  Mathis Albert - 3 **1.40**  ·  Fabio Silva - 3 **1.40**  ·  Samuele Inacio - 3 **1.40**  ·  Konstantinos Karetsas - 3 **1.62**  ·  Ramy Bensebaini - 3 **5.50**  ·  Carney Chukwuemeka - 3 **1.40**  ·  Joey Veerman - 3 **2.75**  ·  Felix Nmecha - 3 **3.25**  ·  Jobe Bellingham - 3 **3.75**  ·  Marcel Sabitzer - 3 **2.20**  ·  Julian Ryerson - 3 **19.00**  ·  Daniel Svensson - 3 **13.00**  ·  Luca Reggiani - 3 **10.00**  ·  Kaua Prates - 3 **5.50**  ·  Kouakou Gadou - 3 **19.00**  ·  Filippo Mane - 3 **10.00**  ·  Waldemar Anton - 3 **13.00**  ·  Maximilian Beier - 4 **2.50**  ·  Serhou Guirassy - 4 **1.80**  ·  Mathis Albert - 4 **2.00**  ·  Fabio Silva - 4 **1.91**  ·  Samuele Inacio - 4 **2.00**  ·  Konstantinos Karetsas - 4 **2.50**  ·  Ramy Bensebaini - 4 **13.00**  ·  Carney Chukwuemeka - 4 **1.91**  ·  Joey Veerman - 4 **5.50**  ·  Felix Nmecha - 4 **6.50**  ·  Jobe Bellingham - 4 **8.00**  ·  Marcel Sabitzer - 4 **3.75**  ·  Luca Reggiani - 4 **21.00**  ·  Kaua Prates - 4 **13.00**  ·  Filippo Mane - 4 **21.00**  ·  Maximilian Beier - 5 **4.00**  ·  Serhou Guirassy - 5 **2.62**  ·  Mathis Albert - 5 **3.25**  ·  Fabio Silva - 5 **3.00**  ·  Samuele Inacio - 5 **3.25**  ·  Konstantinos Karetsas - 5 **4.00**  ·  Carney Chukwuemeka - 5 **3.00**  ·  Joey Veerman - 5 **11.00**  ·  Felix Nmecha - 5 **15.00**  ·  Jobe Bellingham - 5 **19.00**  ·  Marcel Sabitzer - 5 **8.00**  ·  Maximilian Beier - 6 **8.00**  ·  Serhou Guirassy - 6 **4.33**  ·  Mathis Albert - 6 **5.50**  ·  Fabio Silva - 6 **5.00**  ·  Samuele Inacio - 6 **5.50**  ·  Konstantinos Karetsas - 6 **8.00**  ·  Carney Chukwuemeka - 6 **5.00**  ·  Joey Veerman - 6 **21.00**  ·  Marcel Sabitzer - 6 **17.00**  ·  Maximilian Beier - 7 **15.00**  ·  Serhou Guirassy - 7 **8.00**  ·  Mathis Albert - 7 **10.00**  ·  Fabio Silva - 7 **9.00**  ·  Samuele Inacio - 7 **10.00**  ·  Konstantinos Karetsas - 7 **15.00**  ·  Carney Chukwuemeka - 7 **9.00**  ·  Maximilian Beier - 8 **21.00**  ·  Serhou Guirassy - 8 **15.00**  ·  Mathis Albert - 8 **19.00**  ·  Fabio Silva - 8 **17.00**  ·  Samuele Inacio - 8 **19.00**  ·  Konstantinos Karetsas - 8 **21.00**  ·  Serhou Guirassy - 9 **21.00**  ·  Maximilian Beier - 1 **1.03**  ·  Serhou Guirassy - 1 **1.01**  ·  Ethan Nwaneri - 1 **1.06**  ·  Ethan Nwaneri - 2 **1.30**  ·  Ethan Nwaneri - 3 **1.91**  ·  Ethan Nwaneri - 4 **3.25**  ·  Ethan Nwaneri - 5 **6.00**  ·  Ethan Nwaneri - 6 **13.00**  ·  Ethan Nwaneri - 7 **21.00**  ·  Carney Chukwuemeka - 8 **17.00**  ·  Nico Schlotterbeck - 1 **1.30**  ·  Nico Schlotterbeck - 2 **2.25**  ·  Nico Schlotterbeck - 3 **5.00**  ·  Nico Schlotterbeck - 4 **11.00**  ·  Nico Schlotterbeck - 5 **21.00**
-- **Away Player Shots:** Jonathan Burkardt - 1 **1.11**  ·  Ayoube Amaimouni-Echghouyab - 1 **1.30**  ·  Can Uzun - 1 **1.17**  ·  Ritsu Doan - 1 **1.30**  ·  Younes Ebnoutalib - 1 **1.08**  ·  Ansgar Knauff - 1 **1.18**  ·  Fares Chaibi - 1 **1.30**  ·  Mario Gotze - 1 **2.20**  ·  Raphael Onyedika - 1 **2.20**  ·  Oscar Hojlund - 1 **2.50**  ·  Galdino Otavio Manoel - 1 **5.50**  ·  Nnamdi Collins - 1 **5.50**  ·  Noel Aseko-Nkili - 1 **1.91**  ·  Robin Koch - 1 **3.00**  ·  Timothy Chandler - 1 **3.00**  ·  Elias Baum - 1 **2.62**  ·  Keita Kosugi - 1 **3.00**  ·  Jonathan Burkardt - 2 **1.53**  ·  Ayoube Amaimouni-Echghouyab - 2 **2.38**  ·  Can Uzun - 2 **1.73**  ·  Ritsu Doan - 2 **2.38**  ·  Younes Ebnoutalib - 2 **1.40**  ·  Ansgar Knauff - 2 **1.83**  ·  Fares Chaibi - 2 **2.38**  ·  Mario Gotze - 2 **7.00**  ·  Raphael Onyedika - 2 **7.00**  ·  Oscar Hojlund - 2 **9.00**  ·  Galdino Otavio Manoel - 2 **21.00**  ·  Nnamdi Collins - 2 **21.00**  ·  Noel Aseko-Nkili - 2 **5.50**  ·  Robin Koch - 2 **11.00**  ·  Timothy Chandler - 2 **11.00**  ·  Elias Baum - 2 **10.00**  ·  Keita Kosugi - 2 **11.00**  ·  Jonathan Burkardt - 3 **2.50**  ·  Ayoube Amaimouni-Echghouyab - 3 **5.00**  ·  Can Uzun - 3 **3.25**  ·  Ritsu Doan - 3 **5.00**  ·  Younes Ebnoutalib - 3 **2.10**  ·  Ansgar Knauff - 3 **3.40**  ·  Fares Chaibi - 3 **5.00**  ·  Mario Gotze - 3 **21.00**  ·  Raphael Onyedika - 3 **21.00**  ·  Oscar Hojlund - 3 **21.00**  ·  Noel Aseko-Nkili - 3 **17.00**  ·  Jonathan Burkardt - 4 **4.50**  ·  Ayoube Amaimouni-Echghouyab - 4 **13.00**  ·  Can Uzun - 4 **6.50**  ·  Ritsu Doan - 4 **13.00**  ·  Younes Ebnoutalib - 4 **3.75**  ·  Ansgar Knauff - 4 **7.00**  ·  Fares Chaibi - 4 **13.00**  ·  Jonathan Burkardt - 5 **10.00**  ·  Ayoube Amaimouni-Echghouyab - 5 **21.00**  ·  Can Uzun - 5 **15.00**  ·  Ritsu Doan - 5 **21.00**  ·  Younes Ebnoutalib - 5 **7.00**  ·  Ansgar Knauff - 5 **17.00**  ·  Fares Chaibi - 5 **21.00**  ·  Jonathan Burkardt - 6 **21.00**  ·  Younes Ebnoutalib - 6 **15.00**  ·  Younes Ebnoutalib - 7 **21.00**  ·  Lilian Brassier - 1 **2.50**  ·  Lilian Brassier - 2 **9.00**  ·  Lilian Brassier - 3 **21.00**  ·  Jeremiaha Maluze - 1 **5.50**  ·  Jeremiaha Maluze - 2 **21.00**  ·  Malik Pimpong - 1 **1.28**  ·  Love Arrhov - 1 **1.50**  ·  Malik Pimpong - 2 **2.20**  ·  Love Arrhov - 2 **3.25**  ·  Malik Pimpong - 3 **4.50**  ·  Love Arrhov - 3 **8.00**  ·  Malik Pimpong - 4 **11.00**  ·  Love Arrhov - 4 **19.00**  ·  Malik Pimpong - 5 **21.00**
-- **Goalkeeper Saves:** Noah Atubolu - 2 **1.20**  ·  Noah Atubolu - 3 **1.53**  ·  Noah Atubolu - 4 **2.20**  ·  Noah Atubolu - 5 **3.50**  ·  Gregor Kobel - 2 **1.40**  ·  Gregor Kobel - 3 **2.25**  ·  Gregor Kobel - 4 **4.33**  ·  Gregor Kobel - 5 **10.00**  ·  Gregor Kobel - 1 **1.08**  ·  Noah Atubolu - 1 **1.05**  ·  Noah Atubolu **11.00**
-- **Anytime Goal Scorer:** Enzo Duarte **3.00**  ·  Raphael Onyedika **7.50**  ·  Galdino Otavio Manoel **10.00**  ·  Kaua Prates **6.50**  ·  Daniel Svensson **6.50**  ·  Mathis Albert **2.60**  ·  Samuele Inacio **3.00**  ·  Jobe Bellingham **4.50**  ·  Lilian Brassier **12.00**  ·  Kouakou Gadou **6.50**  ·  Konstantinos Karetsas **3.00**  ·  Filippo Mane **8.50**  ·  Elias Baum **12.00**  ·  Fares Chaibi **6.00**  ·  Oscar Hojlund **8.50**  ·  Mario Gotze **6.00**  ·  Joey Veerman **3.75**  ·  Keita Kosugi **15.00**  ·  Ayoube Amaimouni-Echghouyab **5.00**  ·  Malik Pimpong **4.50**  ·  Luca Reggiani **6.50**  ·  Jeremiaha Maluze **12.00**  ·  Ansgar Knauff **6.00**  ·  Can Uzun **4.00**  ·  Nnamdi Collins **15.00**  ·  Robin Koch **12.00**  ·  Timothy Chandler **10.00**  ·  Noel Aseko-Nkili **10.00**  ·  Carney Chukwuemeka **3.75**  ·  Fabio Silva **2.20**  ·  Jonathan Burkardt **3.00**  ·  Ethan Nwaneri **2.60**  ·  Ritsu Doan **4.50**  ·  Felix Nmecha **3.40**  ·  Julian Ryerson **5.50**  ·  Marcel Sabitzer **4.50**  ·  Maximilian Beier **2.38**  ·  Nico Schlotterbeck **5.50**  ·  Ramy Bensebaini **5.50**  ·  Serhou Guirassy **1.67**  ·  Waldemar Anton **8.50**  ·  Younes Ebnoutalib **3.00**  ·  Love Arrhov **6.50**
-- **Player to Score or Assist:** Fabio Silva **1.62**  ·  Jonathan Burkardt **2.50**  ·  Ethan Nwaneri **1.91**  ·  Maximilian Beier **1.73**  ·  Serhou Guirassy **1.40**  ·  Younes Ebnoutalib **2.38**
+- **Away Player Shots:** Jonathan Burkardt - 1 **1.08**  ·  Ayoube Amaimouni-Echghouyab - 1 **1.25**  ·  Can Uzun - 1 **1.12**  ·  Ritsu Doan - 1 **1.25**  ·  Younes Ebnoutalib - 1 **1.08**  ·  Ansgar Knauff - 1 **1.14**  ·  Fares Chaibi - 1 **1.25**  ·  Mario Gotze - 1 **2.00**  ·  Raphael Onyedika - 1 **2.00**  ·  Oscar Hojlund - 1 **2.25**  ·  Galdino Otavio Manoel - 1 **5.00**  ·  Nnamdi Collins - 1 **5.00**  ·  Noel Aseko-Nkili - 1 **1.83**  ·  Robin Koch - 1 **2.75**  ·  Timothy Chandler - 1 **2.75**  ·  Elias Baum - 1 **2.50**  ·  Keita Kosugi - 1 **2.75**  ·  Jonathan Burkardt - 2 **1.40**  ·  Ayoube Amaimouni-Echghouyab - 2 **2.10**  ·  Can Uzun - 2 **1.62**  ·  Ritsu Doan - 2 **2.10**  ·  Younes Ebnoutalib - 2 **1.40**  ·  Ansgar Knauff - 2 **1.67**  ·  Fares Chaibi - 2 **2.10**  ·  Mario Gotze - 2 **6.00**  ·  Raphael Onyedika - 2 **6.00**  ·  Oscar Hojlund - 2 **8.00**  ·  Galdino Otavio Manoel - 2 **21.00**  ·  Nnamdi Collins - 2 **21.00**  ·  Noel Aseko-Nkili - 2 **5.00**  ·  Robin Koch - 2 **10.00**  ·  Timothy Chandler - 2 **10.00**  ·  Elias Baum - 2 **9.00**  ·  Keita Kosugi - 2 **10.00**  ·  Jonathan Burkardt - 3 **2.20**  ·  Ayoube Amaimouni-Echghouyab - 3 **4.33**  ·  Can Uzun - 3 **2.62**  ·  Ritsu Doan - 3 **4.33**  ·  Younes Ebnoutalib - 3 **2.10**  ·  Ansgar Knauff - 3 **3.00**  ·  Fares Chaibi - 3 **4.33**  ·  Mario Gotze - 3 **19.00**  ·  Raphael Onyedika - 3 **19.00**  ·  Oscar Hojlund - 3 **21.00**  ·  Noel Aseko-Nkili - 3 **15.00**  ·  Elias Baum - 3 **21.00**  ·  Jonathan Burkardt - 4 **4.00**  ·  Ayoube Amaimouni-Echghouyab - 4 **10.00**  ·  Can Uzun - 4 **5.50**  ·  Ritsu Doan - 4 **10.00**  ·  Younes Ebnoutalib - 4 **3.75**  ·  Ansgar Knauff - 4 **6.00**  ·  Fares Chaibi - 4 **10.00**  ·  Jonathan Burkardt - 5 **8.00**  ·  Ayoube Amaimouni-Echghouyab - 5 **21.00**  ·  Can Uzun - 5 **11.00**  ·  Ritsu Doan - 5 **21.00**  ·  Younes Ebnoutalib - 5 **7.00**  ·  Ansgar Knauff - 5 **13.00**  ·  Fares Chaibi - 5 **21.00**  ·  Jonathan Burkardt - 6 **17.00**  ·  Can Uzun - 6 **21.00**  ·  Younes Ebnoutalib - 6 **15.00**  ·  Ansgar Knauff - 6 **21.00**  ·  Younes Ebnoutalib - 7 **21.00**  ·  Lilian Brassier - 1 **2.25**  ·  Lilian Brassier - 2 **8.00**  ·  Lilian Brassier - 3 **21.00**  ·  Jeremiaha Maluze - 1 **5.00**  ·  Jeremiaha Maluze - 2 **21.00**  ·  Malik Pimpong - 1 **1.22**  ·  Love Arrhov - 1 **1.40**  ·  Malik Pimpong - 2 **2.00**  ·  Love Arrhov - 2 **2.75**  ·  Malik Pimpong - 3 **3.75**  ·  Love Arrhov - 3 **6.50**  ·  Malik Pimpong - 4 **9.00**  ·  Love Arrhov - 4 **17.00**  ·  Malik Pimpong - 5 **19.00**
+- **Player Fouls Committed:** Mathis Albert - 1 **1.62**  ·  Fabio Silva - 1 **1.18**  ·  Samuele Inacio - 1 **1.20**  ·  Konstantinos Karetsas - 1 **1.40**  ·  Ramy Bensebaini - 1 **1.22**  ·  Carney Chukwuemeka - 1 **1.40**  ·  Joey Veerman - 1 **1.36**  ·  Felix Nmecha - 1 **1.28**  ·  Jobe Bellingham - 1 **1.33**  ·  Marcel Sabitzer - 1 **1.50**  ·  Julian Ryerson - 1 **1.33**  ·  Daniel Svensson - 1 **1.40**  ·  Luca Reggiani - 1 **1.62**  ·  Kaua Prates - 1 **1.20**  ·  Kouakou Gadou - 1 **1.53**  ·  Filippo Mane - 1 **1.62**  ·  Waldemar Anton - 1 **1.53**  ·  Maximilian Beier - 2 **3.00**  ·  Serhou Guirassy - 2 **2.20**  ·  Mathis Albert - 2 **3.75**  ·  Fabio Silva - 2 **1.83**  ·  Samuele Inacio - 2 **1.91**  ·  Konstantinos Karetsas - 2 **2.75**  ·  Ramy Bensebaini - 2 **1.91**  ·  Carney Chukwuemeka - 2 **2.75**  ·  Joey Veerman - 2 **2.62**  ·  Felix Nmecha - 2 **2.25**  ·  Jobe Bellingham - 2 **2.62**  ·  Marcel Sabitzer - 2 **3.40**  ·  Julian Ryerson - 2 **2.62**  ·  Daniel Svensson - 2 **2.75**  ·  Luca Reggiani - 2 **3.75**  ·  Kaua Prates - 2 **1.83**  ·  Kouakou Gadou - 2 **3.50**  ·  Filippo Mane - 2 **3.75**  ·  Waldemar Anton - 2 **3.50**  ·  Maximilian Beier - 3 **8.00**  ·  Serhou Guirassy - 3 **5.00**  ·  Mathis Albert - 3 **11.00**  ·  Fabio Silva - 3 **3.50**  ·  Samuele Inacio - 3 **4.00**  ·  Konstantinos Karetsas - 3 **7.00**  ·  Ramy Bensebaini - 3 **4.00**  ·  Carney Chukwuemeka - 3 **7.00**  ·  Joey Veerman - 3 **6.50**  ·  Felix Nmecha - 3 **5.50**  ·  Jobe Bellingham - 3 **6.00**  ·  Marcel Sabitzer - 3 **9.00**  ·  Julian Ryerson - 3 **6.00**  ·  Daniel Svensson - 3 **7.00**  ·  Luca Reggiani - 3 **11.00**  ·  Kaua Prates - 3 **3.75**  ·  Kouakou Gadou - 3 **10.00**  ·  Filippo Mane - 3 **11.00**  ·  Waldemar Anton - 3 **10.00**  ·  Maximilian Beier - 4 **21.00**  ·  Serhou Guirassy - 4 **13.00**  ·  Fabio Silva - 4 **8.00**  ·  Samuele Inacio - 4 **10.00**  ·  Konstantinos Karetsas - 4 **19.00**  ·  Ramy Bensebaini - 4 **10.00**  ·  Carney Chukwuemeka - 4 **19.00**  ·  Joey Veerman - 4 **17.00**  ·  Felix Nmecha - 4 **13.00**  ·  Jobe Bellingham - 4 **17.00**  ·  Marcel Sabitzer - 4 **23.00**  ·  Julian Ryerson - 4 **17.00**  ·  Daniel Svensson - 4 **19.00**  ·  Kaua Prates - 4 **9.00**  ·  Kouakou Gadou - 4 **26.00**  ·  Waldemar Anton - 4 **26.00**  ·  Fabio Silva - 5 **19.00**  ·  Samuele Inacio - 5 **21.00**  ·  Ramy Bensebaini - 5 **21.00**  ·  Maximilian Beier - 1 **1.44**  ·  Serhou Guirassy - 1 **1.28**  ·  Jonathan Burkardt - 1 **1.50**  ·  Ayoube Amaimouni-Echghouyab - 1 **1.40**  ·  Can Uzun - 1 **1.33**  ·  Ritsu Doan - 1 **1.83**  ·  Younes Ebnoutalib - 1 **1.73**  ·  Ansgar Knauff - 1 **1.33**  ·  Fares Chaibi - 1 **1.83**  ·  Mario Gotze - 1 **1.73**  ·  Raphael Onyedika - 1 **1.12**  ·  Oscar Hojlund - 1 **1.25**  ·  Galdino Otavio Manoel - 1 **1.25**  ·  Nnamdi Collins - 1 **1.36**  ·  Noel Aseko-Nkili - 1 **1.17**  ·  Robin Koch - 1 **1.73**  ·  Timothy Chandler - 1 **1.33**  ·  Elias Baum - 1 **1.33**  ·  Keita Kosugi - 1 **1.33**  ·  Jonathan Burkardt - 2 **3.40**  ·  Ayoube Amaimouni-Echghouyab - 2 **2.75**  ·  Can Uzun - 2 **2.50**  ·  Ritsu Doan - 2 **5.50**  ·  Younes Ebnoutalib - 2 **4.33**  ·  Ansgar Knauff - 2 **2.50**  ·  Fares Chaibi - 2 **5.50**  ·  Mario Gotze - 2 **4.33**  ·  Raphael Onyedika - 2 **1.62**  ·  Oscar Hojlund - 2 **2.10**  ·  Galdino Otavio Manoel - 2 **2.10**  ·  Nnamdi Collins - 2 **2.62**  ·  Noel Aseko-Nkili - 2 **1.73**  ·  Robin Koch - 2 **4.33**  ·  Timothy Chandler - 2 **2.50**  ·  Elias Baum - 2 **2.50**  ·  Keita Kosugi - 2 **2.50**  ·  Jonathan Burkardt - 3 **9.00**  ·  Ayoube Amaimouni-Echghouyab - 3 **7.00**  ·  Can Uzun - 3 **5.50**  ·  Ritsu Doan - 3 **17.00**  ·  Younes Ebnoutalib - 3 **13.00**  ·  Ansgar Knauff - 3 **5.50**  ·  Fares Chaibi - 3 **17.00**  ·  Mario Gotze - 3 **13.00**  ·  Raphael Onyedika - 3 **2.75**  ·  Oscar Hojlund - 3 **4.33**  ·  Galdino Otavio Manoel - 3 **4.33**  ·  Nnamdi Collins - 3 **6.50**  ·  Noel Aseko-Nkili - 3 **3.25**  ·  Robin Koch - 3 **13.00**  ·  Timothy Chandler - 3 **6.00**  ·  Elias Baum - 3 **5.50**  ·  Keita Kosugi - 3 **6.00**  ·  Jonathan Burkardt - 4 **23.00**  ·  Ayoube Amaimouni-Echghouyab - 4 **19.00**  ·  Can Uzun - 4 **15.00**  ·  Ansgar Knauff - 4 **15.00**  ·  Raphael Onyedika - 4 **6.00**  ·  Oscar Hojlund - 4 **11.00**  ·  Galdino Otavio Manoel - 4 **11.00**  ·  Nnamdi Collins - 4 **17.00**  ·  Noel Aseko-Nkili - 4 **7.00**  ·  Timothy Chandler - 4 **17.00**  ·  Raphael Onyedika - 5 **13.00**  ·  Lilian Brassier - 1 **1.62**  ·  Lilian Brassier - 2 **3.75**  ·  Lilian Brassier - 3 **11.00**  ·  Ethan Nwaneri - 1 **1.62**  ·  Ethan Nwaneri - 2 **3.75**  ·  Ethan Nwaneri - 3 **11.00**  ·  Elias Baum - 4 **15.00**  ·  Keita Kosugi - 4 **17.00**  ·  Noel Aseko-Nkili - 5 **17.00**  ·  Galdino Otavio Manoel - 5 **26.00**  ·  Oscar Hojlund - 5 **26.00**  ·  Jeremiaha Maluze - 1 **1.73**  ·  Jeremiaha Maluze - 2 **4.33**  ·  Kaua Prates - 5 **21.00**  ·  Jeremiaha Maluze - 3 **13.00**  ·  Nico Schlotterbeck - 1 **1.44**  ·  Nico Schlotterbeck - 2 **3.00**  ·  Nico Schlotterbeck - 3 **8.00**  ·  Nico Schlotterbeck - 4 **21.00**  ·  Malik Pimpong - 1 **1.50**  ·  Love Arrhov - 1 **1.50**  ·  Malik Pimpong - 2 **3.40**  ·  Love Arrhov - 2 **3.40**  ·  Malik Pimpong - 3 **9.00**  ·  Love Arrhov - 3 **9.00**  ·  Malik Pimpong - 4 **23.00**  ·  Love Arrhov - 4 **23.00**
+- **Goalkeeper Saves:** Noah Atubolu - 2 **1.20**  ·  Noah Atubolu - 3 **1.53**  ·  Noah Atubolu - 4 **2.20**  ·  Noah Atubolu - 5 **3.40**  ·  Noah Atubolu - 6 **3.50**  ·  Gregor Kobel - 2 **1.40**  ·  Gregor Kobel - 3 **2.25**  ·  Gregor Kobel - 4 **4.33**  ·  Gregor Kobel - 5 **10.00**  ·  Noah Atubolu - 7 **6.00**  ·  Gregor Kobel - 1 **1.08**  ·  Noah Atubolu - 8 **11.00**  ·  Noah Atubolu - 1 **1.05**  ·  Noah Atubolu **11.00**
+- **Anytime Goal Scorer:** Enzo Duarte **3.10**  ·  Raphael Onyedika **7.50**  ·  Galdino Otavio Manoel **10.00**  ·  Kaua Prates **7.00**  ·  Daniel Svensson **7.00**  ·  Mathis Albert **2.62**  ·  Samuele Inacio **3.10**  ·  Jobe Bellingham **4.50**  ·  Lilian Brassier **12.00**  ·  Kouakou Gadou **7.00**  ·  Konstantinos Karetsas **3.10**  ·  Filippo Mane **8.50**  ·  Elias Baum **12.00**  ·  Fares Chaibi **6.50**  ·  Oscar Hojlund **8.50**  ·  Mario Gotze **6.50**  ·  Joey Veerman **4.00**  ·  Keita Kosugi **15.00**  ·  Ayoube Amaimouni-Echghouyab **5.00**  ·  Malik Pimpong **4.50**  ·  Luca Reggiani **7.00**  ·  Jeremiaha Maluze **12.00**  ·  Ansgar Knauff **6.50**  ·  Can Uzun **4.00**  ·  Nnamdi Collins **15.00**  ·  Robin Koch **12.00**  ·  Timothy Chandler **10.00**  ·  Noel Aseko-Nkili **10.00**  ·  Carney Chukwuemeka **4.00**  ·  Fabio Silva **2.25**  ·  Jonathan Burkardt **3.10**  ·  Ethan Nwaneri **2.62**  ·  Ritsu Doan **4.50**  ·  Felix Nmecha **3.50**  ·  Julian Ryerson **5.50**  ·  Marcel Sabitzer **4.50**  ·  Maximilian Beier **2.38**  ·  Nico Schlotterbeck **5.50**  ·  Ramy Bensebaini **5.50**  ·  Serhou Guirassy **1.73**  ·  Waldemar Anton **8.50**  ·  Younes Ebnoutalib **3.10**  ·  Love Arrhov **7.00**
+- **Player to Score or Assist:** Enzo Duarte **2.05**  ·  Raphael Onyedika **4.50**  ·  Galdino Otavio Manoel **6.50**  ·  Kaua Prates **4.33**  ·  Daniel Svensson **2.88**  ·  Mathis Albert **1.73**  ·  Samuele Inacio **1.91**  ·  Jobe Bellingham **2.75**  ·  Lilian Brassier **7.50**  ·  Kouakou Gadou **4.50**  ·  Konstantinos Karetsas **1.91**  ·  Filippo Mane **4.75**  ·  Elias Baum **5.50**  ·  Fares Chaibi **2.88**  ·  Oscar Hojlund **5.00**  ·  Mario Gotze **3.75**  ·  Joey Veerman **1.80**  ·  Keita Kosugi **8.50**  ·  Ayoube Amaimouni-Echghouyab **3.00**  ·  Malik Pimpong **2.88**  ·  Luca Reggiani **4.33**  ·  Jeremiaha Maluze **7.00**  ·  Ansgar Knauff **3.75**  ·  Can Uzun **2.88**  ·  Nnamdi Collins **7.00**  ·  Robin Koch **7.50**  ·  Timothy Chandler **5.50**  ·  Noel Aseko-Nkili **5.50**  ·  Carney Chukwuemeka **2.50**  ·  Fabio Silva **1.62**  ·  Jonathan Burkardt **2.60**  ·  Ethan Nwaneri **1.91**  ·  Ritsu Doan **2.75**  ·  Felix Nmecha **2.20**  ·  Julian Ryerson **2.20**  ·  Marcel Sabitzer **2.60**  ·  Maximilian Beier **1.73**  ·  Nico Schlotterbeck **3.10**  ·  Ramy Bensebaini **3.10**  ·  Serhou Guirassy **1.44**  ·  Waldemar Anton **4.75**  ·  Younes Ebnoutalib **2.40**  ·  Love Arrhov **4.00**
 
 ## Estadísticas de equipo
 | | Borussia Dortmund (total) | Borussia Dortmund en casa | Eintracht Frankfurt (total) | Eintracht Frankfurt fuera |
@@ -203,45 +206,45 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,39 · visitante 0,83 · córners esperados 9,4._
+_Goles esperados: local 2,35 · visitante 0,84 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 11% | 17% | 14% | 5.75 | -20% |
-| 1X2: X | 17% | 19% | 18% | 5.00 | -10% |
-| 1X2: 1 | 72% | 64% | 68% | 1.48 | +1% |
-| Doble oportunidad: X2 | 28% | 36% | 32% | 2.62 | -16% |
-| Doble oportunidad: 12 | 83% | 81% | 82% | 1.17 | -4% |
-| Doble oportunidad: 1X | 89% | 83% | 86% | 1.14 | -2% |
-| Ambos marcan: No | 49% | 35% | 42% | 2.62 | +11% |
-| Ambos marcan: Sí | 51% | 65% | 58% | 1.44 | -17% |
+| 1X2: 2 | 12% | 17% | 15% | 5.50 | -20% |
+| 1X2: X | 17% | 19% | 18% | 5.00 | -9% |
+| 1X2: 1 | 71% | 64% | 67% | 1.50 | +1% |
+| Doble oportunidad: X2 | 29% | 38% | 33% | 2.50 | -17% |
+| Doble oportunidad: 12 | 83% | 80% | 81% | 1.17 | -5% |
+| Doble oportunidad: 1X | 88% | 82% | 85% | 1.14 | -3% |
+| Ambos marcan: No | 49% | 38% | 43% | 2.50 | +8% |
+| Ambos marcan: Sí | 51% | 62% | 57% | 1.50 | -15% |
 | Goles más/menos: Más de 2.5 | 62% | 70% | 66% | 1.36 | -10% |
-| Goles más/menos: Más de 3.5 | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Más de 4.5 | 22% | 32% | 27% | 3.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 38% | 30% | 34% | 3.20 | +8% |
-| Goles más/menos: Menos de 3.5 | 60% | 50% | 55% | 1.91 | +5% |
-| Goles más/menos: Menos de 4.5 | 78% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles 1ª parte más/menos: Más de 2.5 | 16% | 25% | 20% | 3.75 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 75% | 80% | 1.25 | -1% |
-| Goles del local: Más de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 2.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles del local: Más de 3.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles del local: Menos de 1.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles del local: Menos de 2.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles del local: Menos de 3.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 56% | 71% | 64% | 1.33 | -15% |
-| Goles del visitante: Más de 1.5 | 20% | 35% | 28% | 2.62 | -27% |
-| Goles del visitante: Menos de 0.5 | 44% | 29% | 36% | 3.25 | +18% |
-| Goles del visitante: Menos de 1.5 | 80% | 65% | 72% | 1.44 | +4% |
+| Goles más/menos: Más de 3.5 | 40% | 50% | 45% | 1.91 | -15% |
+| Goles más/menos: Más de 4.5 | 22% | 30% | 26% | 3.20 | -17% |
+| Goles más/menos: Menos de 2.5 | 38% | 30% | 34% | 3.20 | +9% |
+| Goles más/menos: Menos de 3.5 | 60% | 50% | 55% | 1.91 | +6% |
+| Goles más/menos: Menos de 4.5 | 78% | 70% | 74% | 1.36 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
+| Goles 1ª parte más/menos: Más de 2.5 | 16% | 23% | 19% | 4.00 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 77% | 81% | 1.22 | -2% |
+| Goles del local: Más de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles del local: Más de 2.5 | 42% | 44% | 43% | 2.10 | -10% |
+| Goles del local: Más de 3.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles del local: Menos de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles del local: Menos de 2.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles del local: Menos de 3.5 | 79% | 77% | 78% | 1.22 | -5% |
+| Goles del visitante: Más de 0.5 | 57% | 69% | 63% | 1.36 | -15% |
+| Goles del visitante: Más de 1.5 | 21% | 35% | 28% | 2.62 | -27% |
+| Goles del visitante: Menos de 0.5 | 43% | 31% | 37% | 3.00 | +12% |
+| Goles del visitante: Menos de 1.5 | 79% | 65% | 72% | 1.44 | +4% |
 | Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
-| 1X2 descanso: X | 35% | 32% | 34% | 2.88 | -2% |
-| 1X2 descanso: 1 | 52% | 49% | 50% | 1.91 | -4% |
+| 1X2 descanso: X | 36% | 33% | 35% | 2.75 | -5% |
+| 1X2 descanso: 1 | 51% | 48% | 50% | 1.91 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
