@@ -132,6 +132,7 @@ def generar(p, pagina):
     # imagen de feed
     doc, total = documento(p, False, foto_b64=foto)
     pagina.set_viewport_size({"width": 1080, "height": 1350})
+    pagina.goto("about:blank")
     pagina.set_content(doc)
     pagina.wait_for_timeout(150)
     ajustar_al_lienzo(pagina, 1350)
@@ -144,6 +145,7 @@ def generar(p, pagina):
         # 1º fotograma = el post entero (es la portada que se ve en el perfil de Instagram);
         # luego las líneas van apareciendo una a una y al final se queda entero
         doc, _ = documento(p, True, mostrar=total, foto_b64=foto)
+        pagina.goto("about:blank")
         pagina.set_content(doc)
         pagina.wait_for_timeout(80)
         ajustar_al_lienzo(pagina, 1920)
@@ -152,6 +154,7 @@ def generar(p, pagina):
         lista.append(f"file '{portada}'\nduration 1.5")
         for k in range(1, total + 1):
             doc, _ = documento(p, True, mostrar=k, foto_b64=foto)
+            pagina.goto("about:blank")
             pagina.set_content(doc)
             pagina.wait_for_timeout(80)
             ajustar_al_lienzo(pagina, 1920)
