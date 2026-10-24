@@ -15,7 +15,7 @@ import json
 from datetime import datetime
 
 from bot import DATOS, MADRID, PARTIDOS, leer
-from picks import evaluar_pick
+from picks import evaluar_pick, es_sin_empate
 
 ESTADO = DATOS / "escalera.json"
 INICIAL = 20.0
@@ -29,7 +29,7 @@ def elegir(dia):
     Nunca comparte selección con la combi segura del mismo día."""
     segura = (dia.get("combis") or {}).get("segura") or {}
     en_segura = {(p["partido_id"], p["mercado"], p["opcion"]) for p in segura.get("picks", [])}
-    picks = [p for p in dia["picks"] if p.get("tipo") != "jugador"   # los de jugador se corrigen aparte
+    picks = [p for p in dia["picks"] if not es_sin_empate(p["mercado"], p["opcion"]) and p.get("tipo") != "jugador"   # los de jugador se corrigen aparte
              and (p["partido_id"], p["mercado"], p["opcion"]) not in en_segura]
     orden = sorted(picks, key=lambda p: (-p["frecuencia"], -p["ventaja"]))
     mejor = None
@@ -103,6 +103,8 @@ def main():
             elegido = elegir(picks["dias"][act["dia"]])
             if elegido:
                 act["picks"], act["cuota"] = elegido[1], elegido[2]
+            elif any(es_sin_empate(p["mercado"], p["opcion"]) for p in act["picks"]):
+                estado["actual"] = None
 
     ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
 

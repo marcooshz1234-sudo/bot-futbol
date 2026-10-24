@@ -14,6 +14,7 @@ Genera:
 """
 
 import math
+from picks import es_sin_empate
 from collections import defaultdict
 from datetime import timedelta
 
@@ -283,7 +284,7 @@ def evaluar(p, ex, idx, rt):
             fila = {"mercado": mercado, "opcion": opcion, "cuota": c, "prob": prob,
                     "casa": casa, "final": final, "valor": valor}
             filas.append(fila)
-            if (mod["fiable"] and valor >= VALOR_MIN and final >= PROB_MIN
+            if (not es_sin_empate(mercado, opcion) and mod["fiable"] and valor >= VALOR_MIN and final >= PROB_MIN
                     and CUOTA_MIN <= c <= CUOTA_MAX):
                 picks.append(fila)
     # Una sola selección por mercado y partido: la de más valor

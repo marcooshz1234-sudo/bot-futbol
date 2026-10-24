@@ -18,6 +18,7 @@ import json
 from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, RAIZ, leer
+from picks import es_sin_empate
 
 AUTO = RAIZ / "publicaciones" / "auto.json"
 AUTO_DESDE = "2026-10-26"                       # días anteriores ya estaban programados en Metricool
@@ -65,7 +66,7 @@ def atractivo(p):
 def mejores_para_lista(picks):
     elegidos, vistos = [], set()
     for p in sorted(picks, key=atractivo, reverse=True):
-        if p["partido_id"] not in vistos:
+        if not es_sin_empate(p["mercado"], p["opcion"]) and p["partido_id"] not in vistos:
             elegidos.append(p)
             vistos.add(p["partido_id"])
     return elegidos
@@ -131,6 +132,8 @@ def posts_del_dia(dia, d):
 
     salida = []
     for tipo, hora, picks, texto in posts:
+        if any(es_sin_empate(p["mercado"], p["opcion"]) for p in picks):
+            continue  # No eliminar patas de una combi conservando su cuota anterior.
         primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
         hora = min(hora, primero - MARGEN_ANTES_PARTIDO)
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),

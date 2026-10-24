@@ -1,0 +1,65 @@
+name: Aplicar preferencias y preparar contenido sin publicar
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/revisar_contenido.yml', 'publicaciones/revision_2526.json']
+permissions:
+  contents: write
+concurrency:
+  group: revisar-contenido
+  cancel-in-progress: false
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recalcular selecciones y preparar el panel
+        run: |
+          python -u picks.py
+          python -u escalera.py
+          python -u plantillas.py
+          python -u app_datos.py
+      - name: Preparar imágenes y reels de las piezas corregidas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null
+          pip install -q playwright
+          python -m playwright install --with-deps chromium >/dev/null
+          python - <<'PY'
+          import json
+          import hashlib
+          import imagenes
+          from playwright.sync_api import sync_playwright
+          ids = set(json.load(open('publicaciones/revision_2526.json'))['ids'])
+          posts = json.load(open('publicaciones/cola.json'))
+          with sync_playwright() as pw:
+              browser = pw.chromium.launch()
+              page = browser.new_page()
+              for p in posts:
+                  if p['id'] not in ids:
+                      continue
+                  imagenes.generar(p, page)
+                  huella = hashlib.sha1((p['texto'] + str(p.get('foto'))).encode()).hexdigest()[:12]
+                  (imagenes.MEDIA / (p['id'] + '.huella')).write_text(huella)
+                  print('Preparado:', p['id'])
+              browser.close()
+          PY
+      - name: Guardar el contenido preparado
+        run: |
+          git config user.name 'bot-futbol'
+          git config user.email 'bot-futbol@users.noreply.github.com'
+          git add datos/picks.json datos/escalera.json PICKS.md publicaciones/auto.json publicaciones/media docs
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Prepara contenido revisado y aplica la preferencia sin 12'
+          for intento_revision in 1 2 3; do
+            if git pull --rebase -X theirs -q && git push -q; then exit 0; fi
+            sleep 5
+          done
+          exit 1
