@@ -1,0 +1,146 @@
+{
+  "2026-10-23": {
+    "dia": "2026-10-23",
+    "total": 10,
+    "cuentas": {
+      "verde": 2,
+      "rojo": 8,
+      "pendiente": 0,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 0
+    },
+    "combis": [
+      {
+        "id": "2026-10-23-cuota3",
+        "titulo": "💥 COMBINADA CUOTA 3 DEL VIERNES 💥",
+        "estado": "rojo",
+        "cuota": 3.08
+      },
+      {
+        "id": "2026-10-23-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀",
+        "estado": "rojo",
+        "cuota": 1.96
+      },
+      {
+        "id": "2026-10-23-segura",
+        "titulo": "🔒 COMBI SEGURA DEL VIERNES 🔒",
+        "estado": "verde",
+        "cuota": 1.66
+      },
+      {
+        "id": "2026-10-23-combi-stuttgart-gladbach",
+        "titulo": "🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪",
+        "estado": "rojo",
+        "cuota": null
+      },
+      {
+        "id": "2026-10-23-combi-torino-monza",
+        "titulo": "🇮🇹 TORINO 🆚 MONZA 🇮🇹",
+        "estado": "verde",
+        "cuota": 9.5
+      },
+      {
+        "id": "2026-10-23-combi-ipswich-forest",
+        "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "estado": "rojo",
+        "cuota": 10.5
+      },
+      {
+        "id": "2026-10-23-picks-hoy",
+        "titulo": "🔥 6 PICKS PARA HOY 🔥",
+        "estado": "rojo",
+        "cuota": null
+      },
+      {
+        "id": "2026-10-23-combi-alaves-malaga",
+        "titulo": "🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸",
+        "estado": "rojo",
+        "cuota": 9.5
+      },
+      {
+        "id": "2026-10-23-loca",
+        "titulo": "🤪 COMBI LOCA DEL VIERNES 🤪",
+        "estado": "rojo",
+        "cuota": 7.94
+      },
+      {
+        "id": "2026-10-23-picks-manana",
+        "titulo": "🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥",
+        "estado": "rojo",
+        "cuota": null
+      }
+    ],
+    "texto": "📊 BALANCE DEL VIERNES · 23/10 📊\n\n❌ 💥 COMBINADA CUOTA 3 DEL VIERNES 💥 · 3,08\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀 · 1,96\n✅ 🔒 COMBI SEGURA DEL VIERNES 🔒 · 1,66\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 10,50\n❌ 🔥 6 PICKS PARA HOY 🔥\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 9,50\n❌ 🤪 COMBI LOCA DEL VIERNES 🤪 · 7,94\n❌ 🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅ 2 acertadas · ❌ 8 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-10-24": {
+    "dia": "2026-10-24",
+    "total": 9,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 3,
+      "pendiente": 5,
+      "sin_datos": 0,
+      "no_jugo": 1,
+      "sin_resolver": 6
+    },
+    "combis": [
+      {
+        "id": "2026-10-24-cuota3",
+        "titulo": "💥 COMBINADA CUOTA 4 DEL SÁBADO 💥",
+        "estado": "rojo",
+        "cuota": 4.0
+      },
+      {
+        "id": "2026-10-24-segura",
+        "titulo": "🔒 COMBI SEGURA DEL SÁBADO 🔒",
+        "estado": "no_jugo",
+        "cuota": 1.66
+      },
+      {
+        "id": "2026-10-24-loca",
+        "titulo": "🤪 COMBI LOCA DEL SÁBADO 🤪",
+        "estado": "rojo",
+        "cuota": 13.51
+      },
+      {
+        "id": "2026-10-24-combi-napoli-roma",
+        "titulo": "🇮🇹 NAPOLI 🆚 ROMA 🇮🇹",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-10-24-combi-valencia-villarreal",
+        "titulo": "🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸",
+        "estado": "pendiente",
+        "cuota": 9.5
+      },
+      {
+        "id": "2026-10-24-combi-chelsea-tottenham",
+        "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-10-24-combi-dortmund-frankfurt",
+        "titulo": "🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪",
+        "estado": "pendiente",
+        "cuota": 9.5
+      },
+      {
+        "id": "2026-10-24-picks-hoy",
+        "titulo": "🔥 7 PICKS PARA HOY 🔥",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-10-24-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1/7 🍀",
+        "estado": "rojo",
+        "cuota": 2.02
+      }
+    ],
+    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n⏳ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹 · pendiente\n⏳ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50 · pendiente\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · pendiente\n⏳ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50 · pendiente\n⏳ 🔥 7 PICKS PARA HOY 🔥 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 3 falladas · ⏳ 6 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos."
+  }
+}
