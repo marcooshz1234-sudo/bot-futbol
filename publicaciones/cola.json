@@ -315,5 +315,15 @@
     "errores_redes": {
       "facebook": "caducado: no salió a tiempo"
     }
+  },
+  {
+    "id": "2026-10-24-balance-auto",
+    "fecha": "2026-10-24T23:30",
+    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n❌ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n⏳ 🔥 9 PICKS PARA MAÑANA (DOMINGO) 🔥 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 8 falladas · ⏳ 2 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos.",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
