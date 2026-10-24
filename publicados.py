@@ -128,7 +128,7 @@ def entender(t):
         if "tarjeta" in pat:
             v = num(g[1]); return {"t": "eq_tarjetas", "eq": g[0], "n": v if "+" in pat else int(v) + 1}, ctx
         campo = "paradas" if "parada" in g[2] else "a_puerta" if "puerta" in g[2] else "tiros"
-        return {"t": "jugador", "jugador": g[0], "campo": campo, "n": int(g[1]), "eq": eq_par}, ctx
+        return {"t": "jugador", "jugador": g[0].rstrip(": "), "campo": campo, "n": int(g[1]), "eq": eq_par}, ctx
     return None, ctx
 
 
