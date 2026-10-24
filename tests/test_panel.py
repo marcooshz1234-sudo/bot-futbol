@@ -54,6 +54,13 @@ class EstadoPicksTest(unittest.TestCase):
 
 
 class PublicadosTest(unittest.TestCase):
+    def test_portero_con_dos_puntos_tras_el_nombre(self):
+        spec, _ = publicados.entender('Kristof (portero Elversberg): 2+ paradas')
+        d = {'estado': 'FT', 'local': {'id': 1, 'nombre': 'RB Leipzig'},
+             'visitante': {'id': 2, 'nombre': 'SV Elversberg'}, 'goles': [4, 0],
+             'jugadores': {'2': [{'nombre': 'N. Kristof', 'min': 90, 'paradas': 4}]}}
+        self.assertEqual(publicados.evaluar(spec, d), 'verde')
+
     def test_formatos_reales_de_las_publicaciones(self):
         ejemplos = {'El Lazio gana alguna de las dos partes': 'gana_parte',
                     'Más de 9,5 tiros a puerta en Como–Sassuolo': 'estadistica_mas',
