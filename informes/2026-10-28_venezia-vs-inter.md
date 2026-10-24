@@ -1,7 +1,7 @@
 # Venezia – Inter
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -193,45 +193,45 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | John Stones | D | 4 | 144 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 3,25 · córners esperados 9,4._
+_Goles esperados: local 1,41 · visitante 3,15 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 73% | 70% | 72% | 1.33 | -5% |
-| 1X2: X | 14% | 19% | 16% | 5.00 | -19% |
-| 1X2: 1 | 13% | 11% | 12% | 8.50 | +4% |
-| Doble oportunidad: X2 | 87% | 89% | 88% | 1.08 | -5% |
+| 1X2: 2 | 72% | 70% | 71% | 1.33 | -5% |
+| 1X2: X | 14% | 19% | 16% | 5.00 | -18% |
+| 1X2: 1 | 14% | 11% | 12% | 8.50 | +6% |
+| Doble oportunidad: X2 | 86% | 89% | 87% | 1.08 | -6% |
 | Doble oportunidad: 12 | 86% | 82% | 84% | 1.17 | -2% |
-| Doble oportunidad: 1X | 27% | 29% | 28% | 3.25 | -8% |
-| Ambos marcan: No | 27% | 41% | 34% | 2.25 | -23% |
-| Ambos marcan: Sí | 73% | 59% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 2.5 | 85% | 72% | 78% | 1.33 | +4% |
-| Goles más/menos: Más de 3.5 | 69% | 53% | 61% | 1.80 | +9% |
-| Goles más/menos: Más de 4.5 | 50% | 32% | 41% | 3.00 | +23% |
-| Goles más/menos: Menos de 2.5 | 15% | 28% | 22% | 3.40 | -26% |
-| Goles más/menos: Menos de 3.5 | 31% | 47% | 39% | 2.00 | -21% |
-| Goles más/menos: Menos de 4.5 | 50% | 68% | 59% | 1.40 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 86% | 79% | 83% | 1.18 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 59% | 50% | 54% | 1.83 | -0% |
-| Goles 1ª parte más/menos: Más de 2.5 | 32% | 25% | 28% | 3.75 | +7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 14% | 21% | 17% | 4.50 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 50% | 46% | 1.83 | -17% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 68% | 75% | 72% | 1.25 | -11% |
-| Goles del local: Más de 0.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del local: Más de 1.5 | 42% | 28% | 35% | 3.40 | +18% |
-| Goles del local: Menos de 0.5 | 24% | 35% | 30% | 2.62 | -22% |
-| Goles del local: Menos de 1.5 | 58% | 72% | 65% | 1.30 | -15% |
-| Goles del visitante: Más de 1.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del visitante: Más de 2.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del visitante: Más de 3.5 | 41% | 31% | 36% | 3.00 | +8% |
-| Goles del visitante: Menos de 1.5 | 17% | 25% | 21% | 3.75 | -22% |
-| Goles del visitante: Menos de 2.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles del visitante: Menos de 3.5 | 59% | 69% | 64% | 1.36 | -13% |
+| Doble oportunidad: 1X | 28% | 29% | 29% | 3.25 | -6% |
+| Ambos marcan: No | 28% | 41% | 34% | 2.25 | -23% |
+| Ambos marcan: Sí | 72% | 59% | 66% | 1.57 | +3% |
+| Goles más/menos: Más de 2.5 | 83% | 72% | 78% | 1.33 | +3% |
+| Goles más/menos: Más de 3.5 | 67% | 53% | 60% | 1.80 | +7% |
+| Goles más/menos: Más de 4.5 | 48% | 32% | 40% | 3.00 | +19% |
+| Goles más/menos: Menos de 2.5 | 17% | 28% | 22% | 3.40 | -24% |
+| Goles más/menos: Menos de 3.5 | 33% | 47% | 40% | 2.00 | -19% |
+| Goles más/menos: Menos de 4.5 | 52% | 68% | 60% | 1.40 | -16% |
+| Goles 1ª parte más/menos: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -20% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 0.5 | 75% | 65% | 70% | 1.44 | +1% |
+| Goles del local: Más de 1.5 | 41% | 28% | 34% | 3.40 | +17% |
+| Goles del local: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -21% |
+| Goles del local: Menos de 1.5 | 59% | 72% | 66% | 1.30 | -15% |
+| Goles del visitante: Más de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
+| Goles del visitante: Más de 2.5 | 61% | 51% | 56% | 1.80 | +1% |
+| Goles del visitante: Más de 3.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del visitante: Menos de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
+| Goles del visitante: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -16% |
+| Goles del visitante: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -11% |
 | Córners más/menos: Más de 8.5 | 53% | 56% | 54% | 1.67 | -9% |
 | Córners más/menos: Menos de 8.5 | 47% | 44% | 46% | 2.10 | -4% |
-| 1X2 descanso: 2 | 56% | 55% | 55% | 1.67 | -7% |
-| 1X2 descanso: X | 28% | 31% | 29% | 3.00 | -12% |
+| 1X2 descanso: 2 | 55% | 55% | 55% | 1.67 | -8% |
+| 1X2 descanso: X | 29% | 31% | 30% | 3.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

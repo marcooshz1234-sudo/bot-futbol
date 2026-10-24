@@ -1,7 +1,7 @@
 # Real Sociedad – Levante
 **LaLiga** · Regular Season - 10 · 25/10/2026 18:30 (hora España) · Anoeta Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -201,39 +201,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Etta Eyong | F | 4 | 82 | 1 | 1 | 3 | 0,8 | 2 | 0,5 | 3 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,50 · visitante 1,50 · córners esperados 10,0._
+_Goles esperados: local 2,51 · visitante 1,49 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 20% | 21% | 4.75 | -0% |
-| 1X2: X | 19% | 21% | 20% | 4.50 | -11% |
-| 1X2: 1 | 59% | 59% | 59% | 1.60 | -5% |
-| Doble oportunidad: X2 | 41% | 41% | 41% | 2.30 | -6% |
-| Doble oportunidad: 12 | 81% | 80% | 81% | 1.18 | -5% |
+| 1X2: 2 | 22% | 20% | 21% | 4.75 | -1% |
+| 1X2: X | 18% | 21% | 20% | 4.50 | -11% |
+| 1X2: 1 | 60% | 59% | 59% | 1.60 | -5% |
+| Doble oportunidad: X2 | 40% | 41% | 41% | 2.30 | -7% |
+| Doble oportunidad: 12 | 82% | 80% | 81% | 1.18 | -5% |
 | Doble oportunidad: 1X | 78% | 80% | 79% | 1.18 | -7% |
 | Ambos marcan: No | 29% | 42% | 36% | 2.20 | -22% |
 | Ambos marcan: Sí | 71% | 58% | 64% | 1.62 | +4% |
 | Goles más/menos: Más de 2.5 | 76% | 60% | 68% | 1.57 | +7% |
 | Goles más/menos: Más de 3.5 ✅ | 57% | 38% | 47% | 2.50 | +18% |
-| Goles más/menos: Más de 4.5 | 37% | 22% | 30% | 4.33 | +28% |
+| Goles más/menos: Más de 4.5 | 37% | 22% | 29% | 4.33 | +28% |
 | Goles más/menos: Menos de 2.5 | 24% | 40% | 32% | 2.38 | -24% |
 | Goles más/menos: Menos de 3.5 | 43% | 62% | 53% | 1.53 | -19% |
-| Goles más/menos: Menos de 4.5 | 63% | 78% | 70% | 1.22 | -14% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles más/menos: Menos de 4.5 | 63% | 78% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Más de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
 | Goles del local: Más de 2.5 | 46% | 35% | 41% | 2.62 | +6% |
 | Goles del local: Menos de 1.5 | 29% | 39% | 34% | 2.38 | -19% |
-| Goles del local: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -14% |
-| Goles del visitante: Más de 0.5 | 78% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 ✅ | 44% | 29% | 37% | 3.25 | +19% |
-| Goles del visitante: Menos de 0.5 | 22% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 1.5 | 56% | 71% | 63% | 1.33 | -16% |
+| Goles del local: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 1.5 ✅ | 44% | 29% | 36% | 3.25 | +18% |
+| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Menos de 1.5 | 56% | 71% | 64% | 1.33 | -15% |
 | Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
 | 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -13% |
-| 1X2 descanso: 1 | 45% | 45% | 45% | 2.05 | -8% |
+| 1X2 descanso: 1 | 45% | 45% | 45% | 2.05 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

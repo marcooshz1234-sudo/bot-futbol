@@ -1,7 +1,7 @@
 # Brentford – Nottingham Forest
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -179,42 +179,42 @@ _Sin bajas comunicadas por ahora._
 | A. Kalimuendo | F | 3 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,02 · córners esperados 9,4._
+_Goles esperados: local 1,61 · visitante 1,07 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 26% | 25% | 3.60 | -9% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
+| 1X2: 2 | 25% | 26% | 26% | 3.60 | -8% |
+| 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
 | 1X2: 1 | 50% | 47% | 49% | 2.00 | -3% |
 | Doble oportunidad: X2 | 50% | 52% | 51% | 1.80 | -8% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 75% | 74% | 75% | 1.28 | -5% |
-| Ambos marcan: No | 49% | 42% | 46% | 2.20 | +1% |
-| Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
-| Goles más/menos: Más de 1.5 | 73% | 78% | 76% | 1.22 | -8% |
-| Goles más/menos: Más de 2.5 | 48% | 55% | 52% | 1.73 | -11% |
-| Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -16% |
-| Goles más/menos: Menos de 1.5 | 27% | 22% | 24% | 4.33 | +5% |
-| Goles más/menos: Menos de 2.5 | 52% | 45% | 48% | 2.10 | +2% |
-| Goles más/menos: Menos de 3.5 | 74% | 66% | 70% | 1.44 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -11% |
-| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
-| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles del visitante: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del visitante: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles del visitante: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -12% |
-| 1X2 descanso: X | 43% | 41% | 42% | 2.30 | -3% |
+| Doble oportunidad: 1X | 75% | 74% | 74% | 1.28 | -5% |
+| Ambos marcan: No | 47% | 42% | 45% | 2.20 | -1% |
+| Ambos marcan: Sí | 53% | 58% | 55% | 1.62 | -11% |
+| Goles más/menos: Más de 1.5 | 75% | 78% | 76% | 1.22 | -7% |
+| Goles más/menos: Más de 2.5 | 50% | 55% | 53% | 1.73 | -9% |
+| Goles más/menos: Más de 3.5 | 28% | 34% | 31% | 2.75 | -14% |
+| Goles más/menos: Menos de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
+| Goles más/menos: Menos de 2.5 | 50% | 45% | 47% | 2.10 | -0% |
+| Goles más/menos: Menos de 3.5 | 72% | 66% | 69% | 1.44 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 29% | 31% | 3.25 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
+| Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles del visitante: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
+| Goles del visitante: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles del visitante: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles del visitante: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -11% |
+| 1X2 descanso: X | 43% | 41% | 42% | 2.30 | -4% |
 | 1X2 descanso: 1 | 36% | 36% | 36% | 2.60 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

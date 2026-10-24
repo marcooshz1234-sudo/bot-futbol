@@ -1,7 +1,7 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Billal Brahimi | F | 5 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,46 · visitante 1,77 · córners esperados 9,9._
+_Goles esperados: local 1,45 · visitante 1,77 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,22 +199,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 40% | 32% | 36% | 3.00 | +8% |
 | Goles más/menos: Menos de 1.5 | 17% | 24% | 20% | 4.00 | -19% |
 | Goles más/menos: Menos de 2.5 | 37% | 47% | 42% | 2.00 | -15% |
-| Goles más/menos: Menos de 3.5 | 60% | 68% | 64% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles del local: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
+| Goles más/menos: Menos de 3.5 | 60% | 68% | 64% | 1.40 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
+| Goles del local: Más de 0.5 | 77% | 78% | 77% | 1.20 | -7% |
 | Goles del local: Más de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
 | Goles del local: Más de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles del local: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles del local: Menos de 0.5 | 23% | 22% | 23% | 4.33 | -2% |
 | Goles del local: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
 | Goles del local: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Goles del visitante: Más de 0.5 | 83% | 71% | 77% | 1.33 | +2% |
 | Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +16% |
 | Goles del visitante: Menos de 0.5 | 17% | 29% | 23% | 3.25 | -25% |
 | Goles del visitante: Menos de 1.5 | 47% | 65% | 56% | 1.44 | -20% |
-| 1X2 descanso: 2 | 35% | 25% | 30% | 3.75 | +12% |
+| 1X2 descanso: 2 | 35% | 25% | 30% | 3.75 | +11% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: 1 | 27% | 34% | 30% | 2.75 | -17% |
 

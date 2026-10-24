@@ -1,7 +1,7 @@
 # Rennes – Strasbourg
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -207,7 +207,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 1,39 · córners esperados 9,5._
+_Goles esperados: local 2,56 · visitante 1,39 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -221,30 +221,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 81% | 75% | 78% | 1.25 | -3% |
 | Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
 | Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 76% | 66% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 2.5 | 75% | 66% | 71% | 1.44 | +2% |
 | Goles más/menos: Más de 3.5 | 56% | 45% | 50% | 2.10 | +6% |
 | Goles más/menos: Más de 4.5 | 36% | 27% | 32% | 3.50 | +11% |
-| Goles más/menos: Menos de 2.5 | 24% | 34% | 29% | 2.75 | -19% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles más/menos: Menos de 3.5 | 44% | 55% | 50% | 1.73 | -14% |
 | Goles más/menos: Menos de 4.5 | 64% | 73% | 68% | 1.30 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
+| Goles 1ª parte más/menos: Más de 2.5 | 23% | 22% | 23% | 4.33 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
-| Goles del local: Más de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 78% | 77% | 1.20 | -7% |
+| Goles del local: Más de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles del local: Más de 2.5 | 47% | 35% | 41% | 2.62 | +8% |
-| Goles del local: Menos de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles del local: Menos de 2.5 | 53% | 65% | 59% | 1.44 | -16% |
+| Goles del local: Menos de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
+| Goles del local: Menos de 2.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles del visitante: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
 | Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
 | Goles del visitante: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
-| Córners más/menos: Más de 9.5 | 45% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 55% | 46% | 50% | 2.00 | +1% |
-| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -15% |
-| 1X2 descanso: X | 33% | 35% | 34% | 2.60 | -12% |
-| 1X2 descanso: 1 | 48% | 42% | 45% | 2.20 | -2% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +1% |
+| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -14% |
+| 1X2 descanso: X | 33% | 35% | 34% | 2.60 | -11% |
+| 1X2 descanso: 1 | 47% | 42% | 45% | 2.20 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

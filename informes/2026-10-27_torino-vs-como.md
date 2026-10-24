@@ -1,7 +1,7 @@
 # Torino – Como
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -59,40 +59,40 @@ _Actualizadas: 24/10 14:45_
 ## Estadísticas de equipo
 | | Torino (total) | Torino en casa | Como (total) | Como fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 10 | 6 |
-| Forma (últimos 5) | VVVED | VVDD | VVDED | VDDVV |
-| Balance | 4V 1E 3D | 2V 0E 2D | 6V 2E 2D | 3V 1E 2D |
-| Goles a favor / partido | 1,62 | 1,50 | 2,20 | 2,00 |
-| Goles en contra / partido | 1,38 | 1,75 | 1,20 | 1,50 |
-| Goles a favor 1ª parte | 0,62 | 0,50 | 1,20 | 1,33 |
-| Goles a favor 2ª parte | 1,00 | 1,00 | 1,00 | 0,67 |
-| Goles en contra 1ª parte | 0,50 | 0,50 | 0,70 | 1,17 |
-| Goles en contra 2ª parte | 0,88 | 1,25 | 0,50 | 0,33 |
-| Más de 1,5 goles | 100% | 100% | 90% | 100% |
-| Más de 2,5 goles | 75% | 75% | 70% | 67% |
-| Más de 3,5 goles | 12% | 25% | 50% | 50% |
-| Ambos marcan | 75% | 75% | 80% | 83% |
-| Portería a cero | 12% | 0% | 10% | 0% |
-| Se queda sin marcar | 12% | 25% | 20% | 17% |
-| xG a favor | 1,32 | 1,51 | 1,89 | 1,56 |
-| xG en contra | 1,43 | 1,34 | 1,39 | 1,54 |
-| Tiros / partido | 10,6 | 11,2 | 18,8 | 19,2 |
-| Tiros a puerta / partido | 3,6 | 3,8 | 6,7 | 7,0 |
-| Tiros recibidos | 15,5 | 13,8 | 14,3 | 15,8 |
-| Tiros a puerta recibidos | 4,4 | 3,2 | 3,9 | 4,2 |
+| Partidos analizados | 8 | 4 | 11 | 6 |
+| Forma (últimos 5) | VVVED | VVDD | VVVDE | VDDVV |
+| Balance | 4V 1E 3D | 2V 0E 2D | 7V 2E 2D | 3V 1E 2D |
+| Goles a favor / partido | 1,62 | 1,50 | 2,18 | 2,00 |
+| Goles en contra / partido | 1,38 | 1,75 | 1,09 | 1,50 |
+| Goles a favor 1ª parte | 0,62 | 0,50 | 1,09 | 1,33 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 1,09 | 0,67 |
+| Goles en contra 1ª parte | 0,50 | 0,50 | 0,64 | 1,17 |
+| Goles en contra 2ª parte | 0,88 | 1,25 | 0,45 | 0,33 |
+| Más de 1,5 goles | 100% | 100% | 91% | 100% |
+| Más de 2,5 goles | 75% | 75% | 64% | 67% |
+| Más de 3,5 goles | 12% | 25% | 45% | 50% |
+| Ambos marcan | 75% | 75% | 73% | 83% |
+| Portería a cero | 12% | 0% | 18% | 0% |
+| Se queda sin marcar | 12% | 25% | 18% | 17% |
+| xG a favor | 1,32 | 1,51 | 1,87 | 1,56 |
+| xG en contra | 1,43 | 1,34 | 1,29 | 1,54 |
+| Tiros / partido | 10,6 | 11,2 | 18,4 | 19,2 |
+| Tiros a puerta / partido | 3,6 | 3,8 | 6,6 | 7,0 |
+| Tiros recibidos | 15,5 | 13,8 | 13,6 | 15,8 |
+| Tiros a puerta recibidos | 4,4 | 3,2 | 3,5 | 4,2 |
 | Posesión media % | 51 | 46 | 58 | 58 |
-| Córners a favor | 3,2 | 2,5 | 5,4 | 5,8 |
-| Córners en contra | 4,1 | 4,8 | 4,6 | 5,2 |
-| Córners a favor 1ª parte | 1,6 | 0,8 | 2,8 | 3,0 |
-| Córners a favor 2ª parte | 1,6 | 1,8 | 2,6 | 2,8 |
+| Córners a favor | 3,2 | 2,5 | 5,5 | 5,8 |
+| Córners en contra | 4,1 | 4,8 | 4,5 | 5,2 |
+| Córners a favor 1ª parte | 1,6 | 0,8 | 2,7 | 3,0 |
+| Córners a favor 2ª parte | 1,6 | 1,8 | 2,7 | 2,8 |
 | Córners totales del partido | 7,4 | 7,2 | 10,0 | 11,0 |
 | Córners totales 1ª parte | 3,6 | 4,0 | 4,6 | 4,8 |
 | Córners totales 2ª parte | 3,8 | 3,2 | 5,4 | 6,2 |
-| Más de 8,5 córners | 12% | 25% | 60% | 83% |
-| Más de 9,5 córners | 0% | 0% | 40% | 50% |
-| Más de 10,5 córners | 0% | 0% | 40% | 50% |
-| Faltas cometidas | 9,4 | 7,2 | 9,7 | 10,2 |
-| Faltas recibidas | 11,6 | 10,8 | 11,6 | 13,7 |
+| Más de 8,5 córners | 12% | 25% | 64% | 83% |
+| Más de 9,5 córners | 0% | 0% | 45% | 50% |
+| Más de 10,5 córners | 0% | 0% | 36% | 50% |
+| Faltas cometidas | 9,4 | 7,2 | 10,1 | 10,2 |
+| Faltas recibidas | 11,6 | 10,8 | 11,5 | 13,7 |
 | Amarillas propias | 0,9 | 0,2 | 1,5 | 1,5 |
 | Amarillas del rival | 1,2 | 1,0 | 2,2 | 2,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
@@ -103,9 +103,9 @@ _Actualizadas: 24/10 14:45_
 | 1-15' | 1 | 1 | 0 | 2 | 1 | 0 |
 | 16-30' | 1 | 0 | 2 | 5 | 4 | 1 |
 | 31-45' | 3 | 3 | 2 | 5 | 2 | 4 |
-| 46-60' | 0 | 2 | 0 | 5 | 2 | 3 |
-| 61-75' | 5 | 2 | 2 | 0 | 0 | 2 |
-| 76-90' | 3 | 3 | 1 | 5 | 3 | 5 |
+| 46-60' | 0 | 2 | 0 | 7 | 2 | 3 |
+| 61-75' | 5 | 2 | 2 | 0 | 0 | 3 |
+| 76-90' | 3 | 3 | 1 | 5 | 3 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -155,72 +155,72 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Como
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Como 2-0 Sassuolo | casa | 6-4 | 14 (6) - 7 (0) | 2-2 |
 | 2026-10-21 | Champions League | Como 4-1 Manchester United | casa | 1-4 | 11 (8) - 13 (4) | 1-3 |
 | 2026-10-18 | Serie A | Fiorentina 1-3 Como | fuera | 5-11 | 16 (8) - 19 (7) | 3-2 |
 | 2026-10-14 | Champions League | Feyenoord 3-2 Como | fuera | 1-5 | 11 (5) - 13 (5) | 3-2 |
 | 2026-10-11 | Serie A | Como 0-0 AS Roma | casa | 6-2 | 19 (4) - 9 (2) | 2-3 |
 | 2026-09-20 | Serie A | Frosinone 2-0 Como | fuera | 8-7 | 27 (8) - 22 (6) | 2-3 |
-| 2026-09-14 | Serie A | Como 2-1 Parma | casa | 11-4 | 29 (7) - 12 (4) | 1-0 |
 
 ## Jugadores de Como
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jacobo Ramón Naveros | D | 10 | 886 | 2 | 1 | 7 | 0,7 | 3 | 0,3 | 10 | 2 | 0,2 | 2 | 0 |
+| Jacobo Ramón Naveros | D | 11 | 931 | 2 | 1 | 9 | 0,8 | 3 | 0,3 | 10 | 2 | 0,2 | 2 | 0 |
 | N. Paz | M | 10 | 831 | 4 | 5 | 33 | 3,3 | 15 | 1,5 | 20 | 13 | 1,3 | 2 | 0 |
-| J. Butez | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Yan Couto | D | 9 | 689 | 0 | 1 | 6 | 0,7 | 3 | 0,3 | 6 | 5 | 0,6 | 1 | 0 |
-| T. Douvikas | F | 10 | 682 | 6 | 0 | 21 | 2,1 | 14 | 1,4 | 4 | 17 | 1,7 | 0 | 0 |
+| J. Butez | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| T. Douvikas | F | 11 | 772 | 8 | 0 | 25 | 2,3 | 17 | 1,5 | 4 | 19 | 1,7 | 0 | 0 |
+| Yan Couto | D | 10 | 756 | 0 | 1 | 6 | 0,6 | 3 | 0,3 | 9 | 5 | 0,5 | 2 | 0 |
+| L. da Cunha | M | 11 | 730 | 0 | 1 | 11 | 1,0 | 4 | 0,4 | 5 | 3 | 0,3 | 1 | 0 |
+| M. Perrone | M | 11 | 668 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 10 | 5 | 0,5 | 1 | 0 |
+| Luis Milla | M | 11 | 658 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 11 | 1,0 | 1 | 0 |
 | Álex Valle | D | 8 | 658 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 5 | 7 | 0,9 | 1 | 0 |
 | Trevoh Chalobah | D | 8 | 644 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 1 | 5 | 0,6 | 0 | 0 |
-| L. da Cunha | M | 10 | 641 | 0 | 1 | 10 | 1,0 | 4 | 0,4 | 3 | 3 | 0,3 | 1 | 0 |
-| Luis Milla | M | 10 | 613 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 11 | 1,1 | 0 | 0 |
-| M. Perrone | M | 10 | 578 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 9 | 5 | 0,5 | 1 | 0 |
 | Assane Diao | M | 8 | 536 | 4 | 1 | 11 | 1,4 | 5 | 0,6 | 6 | 3 | 0,4 | 2 | 0 |
-| M. Baturina | M | 9 | 490 | 3 | 2 | 13 | 1,4 | 7 | 0,8 | 4 | 15 | 1,7 | 2 | 0 |
-| Kaiki | D | 7 | 332 | 1 | 1 | 5 | 0,7 | 2 | 0,3 | 7 | 5 | 0,7 | 0 | 0 |
-| M. Kempf | D | 6 | 329 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 3 | 0,5 | 1 | 0 |
-| M. Caqueret | M | 7 | 274 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 2 | 3 | 0,4 | 1 | 0 |
+| M. Baturina | M | 10 | 535 | 3 | 2 | 15 | 1,5 | 8 | 0,8 | 5 | 16 | 1,6 | 2 | 0 |
+| Kaiki | D | 8 | 422 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 8 | 7 | 0,9 | 0 | 0 |
+| M. Kempf | D | 7 | 419 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 6 | 0,9 | 1 | 0 |
+| M. Caqueret | M | 8 | 364 | 0 | 2 | 5 | 0,6 | 2 | 0,2 | 2 | 4 | 0,5 | 1 | 0 |
 | Jesús Rodríguez | F | 5 | 242 | 0 | 0 | 6 | 1,2 | 2 | 0,4 | 4 | 5 | 1,0 | 0 | 0 |
-| I. Smolčić | D | 6 | 209 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
+| I. Smolčić | D | 7 | 232 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
 | Robert Sánchez | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Moise Kean | F | 4 | 158 | 0 | 1 | 3 | 0,8 | 3 | 0,8 | 2 | 3 | 0,8 | 0 | 0 |
-| Mattia Liberali | M | 4 | 123 | 1 | 0 | 6 | 1,5 | 3 | 0,8 | 1 | 2 | 0,5 | 0 | 0 |
+| S. Ricci | M | 7 | 140 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,48 · visitante 1,66 · córners esperados 9,2._
+_Goles esperados: local 1,33 · visitante 1,61 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 53% | 48% | 1.75 | -16% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -11% |
-| 1X2: 1 | 34% | 21% | 28% | 4.50 | +24% |
-| Doble oportunidad: X2 | 66% | 80% | 73% | 1.18 | -14% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 58% | 47% | 52% | 2.00 | +5% |
-| Ambos marcan: No | 37% | 45% | 41% | 2.05 | -15% |
-| Ambos marcan: Sí | 63% | 55% | 59% | 1.70 | -0% |
-| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 61% | 55% | 58% | 1.73 | +0% |
-| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | +0% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 2.5 | 39% | 45% | 42% | 2.10 | -11% |
-| Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del local: Más de 1.5 ✅ | 44% | 29% | 36% | 3.25 | +18% |
-| Goles del local: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
-| Goles del local: Menos de 1.5 | 56% | 71% | 64% | 1.33 | -15% |
-| Goles del visitante: Más de 1.5 | 50% | 54% | 52% | 1.73 | -11% |
-| Goles del visitante: Más de 2.5 | 23% | 28% | 25% | 3.40 | -13% |
-| Goles del visitante: Menos de 1.5 | 50% | 46% | 48% | 2.00 | -3% |
-| Goles del visitante: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Córners más/menos: Más de 8.5 | 51% | 50% | 51% | 1.83 | -7% |
-| Córners más/menos: Menos de 8.5 | 49% | 50% | 49% | 1.83 | -10% |
-| 1X2 descanso: 2 | 33% | 40% | 36% | 2.30 | -17% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
-| 1X2 descanso: 1 | 28% | 20% | 24% | 4.50 | +9% |
+| 1X2: 2 | 44% | 53% | 49% | 1.75 | -15% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
+| 1X2: 1 | 32% | 21% | 26% | 4.50 | +18% |
+| Doble oportunidad: X2 | 68% | 80% | 74% | 1.18 | -13% |
+| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
+| Doble oportunidad: 1X | 56% | 47% | 51% | 2.00 | +3% |
+| Ambos marcan: No | 41% | 45% | 43% | 2.05 | -11% |
+| Ambos marcan: Sí | 59% | 55% | 57% | 1.70 | -3% |
+| Goles más/menos: Más de 1.5 | 79% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Más de 2.5 | 56% | 55% | 56% | 1.73 | -4% |
+| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -6% |
+| Goles más/menos: Menos de 1.5 | 21% | 22% | 21% | 4.33 | -7% |
+| Goles más/menos: Menos de 2.5 | 44% | 45% | 44% | 2.10 | -7% |
+| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
+| Goles del local: Más de 0.5 | 74% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 1.5 ✅ | 38% | 29% | 34% | 3.25 | +9% |
+| Goles del local: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
+| Goles del local: Menos de 1.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Goles del visitante: Más de 2.5 | 22% | 28% | 25% | 3.40 | -16% |
+| Goles del visitante: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Goles del visitante: Menos de 2.5 | 78% | 72% | 75% | 1.30 | -2% |
+| Córners más/menos: Más de 8.5 | 51% | 50% | 50% | 1.83 | -8% |
+| Córners más/menos: Menos de 8.5 | 49% | 50% | 50% | 1.83 | -9% |
+| 1X2 descanso: 2 | 33% | 40% | 37% | 2.30 | -16% |
+| 1X2 descanso: X | 41% | 40% | 40% | 2.30 | -7% |
+| 1X2 descanso: 1 | 26% | 20% | 23% | 4.50 | +4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

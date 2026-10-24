@@ -1,7 +1,7 @@
 # Frosinone – Lecce
 **Serie A** · Regular Season - 9 · 29/10/2026 18:30 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -189,42 +189,42 @@ _Sin bajas comunicadas por ahora._
 | Mohamed Kaba | M | 3 | 79 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,26 · visitante 1,48 · córners esperados 9,7._
+_Goles esperados: local 2,29 · visitante 1,46 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 25% | 25% | 3.80 | -6% |
+| 1X2: 2 | 24% | 25% | 24% | 3.80 | -7% |
 | 1X2: X | 20% | 26% | 23% | 3.60 | -17% |
-| 1X2: 1 | 55% | 49% | 52% | 1.91 | -0% |
-| Doble oportunidad: X2 | 45% | 51% | 48% | 1.83 | -12% |
+| 1X2: 1 | 56% | 49% | 53% | 1.91 | +1% |
+| Doble oportunidad: X2 | 44% | 51% | 48% | 1.83 | -13% |
 | Doble oportunidad: 12 | 80% | 73% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 75% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 76% | 75% | 76% | 1.25 | -6% |
 | Ambos marcan: No | 31% | 39% | 35% | 2.38 | -17% |
-| Ambos marcan: Sí | 69% | 61% | 65% | 1.53 | -0% |
+| Ambos marcan: Sí | 69% | 61% | 65% | 1.53 | -1% |
 | Goles más/menos: Más de 2.5 | 72% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 3.5 | 51% | 40% | 46% | 2.38 | +8% |
+| Goles más/menos: Más de 3.5 | 52% | 40% | 46% | 2.38 | +9% |
 | Goles más/menos: Más de 4.5 | 32% | 22% | 27% | 4.33 | +17% |
 | Goles más/menos: Menos de 2.5 | 28% | 40% | 34% | 2.38 | -20% |
-| Goles más/menos: Menos de 3.5 | 49% | 60% | 54% | 1.57 | -15% |
+| Goles más/menos: Menos de 3.5 | 48% | 60% | 54% | 1.57 | -15% |
 | Goles más/menos: Menos de 4.5 | 68% | 78% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 73% | 76% | 1.28 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 27% | 24% | 3.50 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
-| Goles del local: Más de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
-| Goles del local: Más de 2.5 | 39% | 29% | 34% | 3.25 | +11% |
-| Goles del local: Menos de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
-| Goles del local: Menos de 2.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles del local: Más de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
+| Goles del local: Más de 2.5 | 40% | 29% | 35% | 3.25 | +12% |
+| Goles del local: Menos de 1.5 | 33% | 44% | 39% | 2.10 | -18% |
+| Goles del local: Menos de 2.5 | 60% | 71% | 65% | 1.33 | -13% |
 | Goles del visitante: Más de 0.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 44% | 38% | 41% | 2.50 | +1% |
+| Goles del visitante: Más de 1.5 | 43% | 38% | 40% | 2.50 | +0% |
 | Goles del visitante: Menos de 0.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del visitante: Menos de 1.5 | 56% | 62% | 59% | 1.50 | -11% |
-| Córners más/menos: Más de 10.5 | 39% | 44% | 41% | 2.10 | -13% |
-| Córners más/menos: Menos de 10.5 | 61% | 56% | 59% | 1.67 | -2% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles del visitante: Menos de 1.5 | 57% | 62% | 60% | 1.50 | -10% |
+| Córners más/menos: Más de 10.5 | 39% | 44% | 42% | 2.10 | -12% |
+| Córners más/menos: Menos de 10.5 | 61% | 56% | 58% | 1.67 | -3% |
+| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -8% |
 | 1X2 descanso: X | 35% | 38% | 37% | 2.40 | -12% |
-| 1X2 descanso: 1 | 42% | 38% | 40% | 2.40 | -3% |
+| 1X2 descanso: 1 | 43% | 38% | 41% | 2.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

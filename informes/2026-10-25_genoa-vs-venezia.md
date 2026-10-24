@@ -1,7 +1,7 @@
 # Genoa – Venezia
 **Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -208,7 +208,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Toni Fernández | M | 3 | 58 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,53 · visitante 1,05 · córners esperados 9,3._
+_Goles esperados: local 1,51 · visitante 1,03 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -220,32 +220,32 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 52% | 55% | 53% | 1.70 | -9% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 74% | 73% | 74% | 1.28 | -6% |
-| Ambos marcan: No | 49% | 47% | 48% | 2.00 | -4% |
-| Ambos marcan: Sí | 51% | 53% | 52% | 1.75 | -9% |
-| Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.30 | -5% |
-| Goles más/menos: Más de 2.5 | 48% | 47% | 47% | 2.00 | -5% |
-| Goles más/menos: Más de 3.5 | 26% | 28% | 27% | 3.40 | -8% |
-| Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 52% | 53% | 53% | 1.80 | -5% |
-| Goles más/menos: Menos de 3.5 | 74% | 72% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 45% | 46% | 46% | 2.00 | -8% |
-| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -10% |
-| Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -10% |
-| Goles del local: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
-| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
-| Goles del visitante: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
-| Goles del visitante: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
-| Goles del visitante: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
+| Ambos marcan: No | 50% | 47% | 48% | 2.00 | -3% |
+| Ambos marcan: Sí | 50% | 53% | 52% | 1.75 | -10% |
+| Goles más/menos: Más de 1.5 | 72% | 73% | 72% | 1.30 | -6% |
+| Goles más/menos: Más de 2.5 | 47% | 47% | 47% | 2.00 | -6% |
+| Goles más/menos: Más de 3.5 | 25% | 28% | 27% | 3.40 | -10% |
+| Goles más/menos: Menos de 1.5 | 28% | 27% | 28% | 3.50 | -4% |
+| Goles más/menos: Menos de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
+| Goles más/menos: Menos de 3.5 | 75% | 72% | 73% | 1.33 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Goles del local: Más de 2.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles del local: Menos de 1.5 | 56% | 54% | 55% | 1.73 | -6% |
+| Goles del local: Menos de 2.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles del visitante: Más de 1.5 | 27% | 31% | 29% | 3.00 | -12% |
+| Goles del visitante: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles del visitante: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
 | Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -5% |
-| 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -11% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 35% | 35% | 35% | 2.62 | -8% |
+| 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -12% |
+| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
+| 1X2 descanso: 1 | 34% | 35% | 35% | 2.62 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Celta Vigo – Real Betis
 **LaLiga** · Regular Season - 10 · 25/10/2026 16:15 (hora España) · Municipal de Balaídos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -203,41 +203,41 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Dani Ceballos | M | 7 | 188 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 1 | 9 | 1,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,24 · córners esperados 9,3._
+_Goles esperados: local 1,21 · visitante 1,22 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 42% | 40% | 2.25 | -11% |
+| 1X2: 2 | 37% | 42% | 39% | 2.25 | -12% |
 | 1X2: X | 27% | 29% | 28% | 3.30 | -8% |
-| 1X2: 1 | 35% | 29% | 32% | 3.20 | +4% |
-| Doble oportunidad: X2 | 65% | 70% | 67% | 1.36 | -9% |
+| 1X2: 1 | 36% | 29% | 33% | 3.20 | +4% |
+| Doble oportunidad: X2 | 64% | 70% | 67% | 1.36 | -9% |
 | Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 63% | 59% | 61% | 1.62 | -2% |
-| Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
-| Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -12% |
+| Doble oportunidad: 1X | 63% | 59% | 61% | 1.62 | -1% |
+| Ambos marcan: No | 51% | 44% | 47% | 2.10 | -0% |
+| Ambos marcan: Sí | 49% | 56% | 53% | 1.67 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 44% | 55% | 49% | 1.73 | -14% |
+| Goles más/menos: Más de 2.5 | 44% | 55% | 49% | 1.73 | -15% |
 | Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -21% |
-| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +12% |
+| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +13% |
 | Goles más/menos: Menos de 2.5 ✅ | 56% | 45% | 51% | 2.10 | +6% |
 | Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 0.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles del local: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del local: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
+| Goles del local: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles del local: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
-| Goles del visitante: Más de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
-| Goles del visitante: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles del visitante: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles del visitante: Más de 1.5 | 35% | 44% | 39% | 2.10 | -17% |
+| Goles del visitante: Más de 2.5 | 13% | 21% | 17% | 4.50 | -25% |
+| Goles del visitante: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +6% |
+| Goles del visitante: Menos de 1.5 | 65% | 56% | 61% | 1.67 | +1% |
 | Goles del visitante: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
-| Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -4% |
-| 1X2 descanso: 2 | 28% | 32% | 30% | 2.88 | -13% |
+| Córners más/menos: Más de 8.5 | 53% | 56% | 54% | 1.67 | -10% |
+| Córners más/menos: Menos de 8.5 | 47% | 44% | 46% | 2.10 | -4% |
+| 1X2 descanso: 2 | 27% | 32% | 30% | 2.88 | -14% |
 | 1X2 descanso: X | 46% | 42% | 44% | 2.25 | -2% |
 | 1X2 descanso: 1 | 27% | 26% | 26% | 3.60 | -5% |
 

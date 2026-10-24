@@ -1,7 +1,7 @@
 # Angers – Lorient
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -204,7 +204,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Nosa Edward Obaretin | D | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,26 · córners esperados 9,9._
+_Goles esperados: local 1,11 · visitante 1,26 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -224,22 +224,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 31% | 28% | 30% | 3.40 | +1% |
 | Goles más/menos: Menos de 2.5 | 58% | 53% | 55% | 1.80 | -1% |
 | Goles más/menos: Menos de 3.5 | 78% | 73% | 76% | 1.30 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 63% | 66% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 34% | 35% | 2.75 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del local: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
-| Goles del visitante: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
+| Goles del visitante: Más de 1.5 | 36% | 39% | 38% | 2.38 | -11% |
 | Goles del visitante: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -3% |
-| Goles del visitante: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
-| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Goles del visitante: Menos de 1.5 | 64% | 61% | 62% | 1.53 | -4% |
+| Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
+| Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
 | 1X2 descanso: 2 | 29% | 30% | 29% | 3.10 | -9% |
-| 1X2 descanso: X | 46% | 44% | 45% | 2.10 | -5% |
+| 1X2 descanso: X | 47% | 44% | 45% | 2.10 | -5% |
 | 1X2 descanso: 1 | 25% | 26% | 26% | 3.50 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

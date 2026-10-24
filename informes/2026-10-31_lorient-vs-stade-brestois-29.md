@@ -1,7 +1,7 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -187,7 +187,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 36% | 36% | 36% | 2.60 | -7% |
-| 1X2: X | 29% | 29% | 29% | 3.20 | -8% |
+| 1X2: X | 29% | 29% | 29% | 3.20 | -7% |
 | 1X2: 1 | 35% | 36% | 35% | 2.60 | -8% |
 | Doble oportunidad: X2 | 65% | 64% | 65% | 1.50 | -3% |
 | Doble oportunidad: 12 | 71% | 71% | 71% | 1.36 | -3% |
@@ -214,6 +214,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 69% | 61% | 65% | 1.53 | -1% |
 | 1X2 descanso: 2 | 26% | 29% | 28% | 3.20 | -12% |
 | 1X2 descanso: X | 48% | 42% | 45% | 2.20 | -1% |
-| 1X2 descanso: 1 | 26% | 29% | 27% | 3.20 | -13% |
+| 1X2 descanso: 1 | 25% | 29% | 27% | 3.20 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

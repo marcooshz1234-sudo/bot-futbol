@@ -53,96 +53,238 @@
     true,
     false
    ]
-  }
- ],
- "actual": {
-  "dia": "2026-10-24",
-  "escalon": 1,
-  "stake": 20.0,
-  "cuota": 2.02,
-  "picks": [
-   {
-    "partido_id": 1550159,
-    "fecha": "2026-10-24T15:00",
-    "competicion": "Serie A",
-    "liga_id": 135,
-    "local": "Como",
-    "visitante": "Sassuolo",
-    "mercado": "Total - Away",
-    "opcion": "Over 0.5",
-    "tipo": "goles",
-    "texto": "Sassuolo marca",
-    "cuota": 1.44,
-    "frecuencia": 0.941,
-    "ventaja": 0.247,
-    "detalle": "Como (en contra) 9/10 · Sassuolo 7/7"
-   },
-   {
-    "partido_id": 1550158,
-    "fecha": "2026-10-24T15:00",
-    "competicion": "Serie A",
-    "liga_id": 135,
-    "local": "Cagliari",
-    "visitante": "Bologna",
-    "mercado": "Total - Home",
-    "opcion": "Over 0.5",
-    "tipo": "goles",
-    "texto": "Cagliari marca",
-    "cuota": 1.4,
-    "frecuencia": 0.857,
-    "ventaja": 0.143,
-    "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7"
-   }
-  ],
-  "anterior": {
-   "dia": "2026-10-23",
+  },
+  {
+   "dia": "2026-10-24",
    "escalon": 1,
    "stake": 20.0,
-   "cuota": 1.91,
+   "cuota": 2.02,
    "picks": [
     {
-     "partido_id": 1550165,
-     "fecha": "2026-10-23T20:45",
+     "partido_id": 1550159,
+     "fecha": "2026-10-24T15:00",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Torino",
-     "visitante": "Monza",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
+     "local": "Como",
+     "visitante": "Sassuolo",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Más de 1,5 goles en Torino–Monza",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
-     "detalle": "Torino 7/7 · Monza 7/7"
+     "texto": "Sassuolo marca",
+     "cuota": 1.44,
+     "frecuencia": 0.941,
+     "ventaja": 0.247,
+     "detalle": "Como (en contra) 9/10 · Sassuolo 7/7"
     },
     {
-     "partido_id": 1557443,
-     "fecha": "2026-10-23T21:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Ipswich",
-     "visitante": "Nottingham Forest",
-     "mercado": "Away Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Nottingham Forest ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "frecuencia": 0.786,
-     "ventaja": 0.132,
-     "detalle": "Ipswich (en contra) 5/7 · Nottingham Forest 6/7"
+     "partido_id": 1550158,
+     "fecha": "2026-10-24T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Cagliari",
+     "visitante": "Bologna",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cagliari marca",
+     "cuota": 1.4,
+     "frecuencia": 0.857,
+     "ventaja": 0.143,
+     "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7"
     }
    ],
    "anterior": {
-    "dia": "2026-10-22",
+    "dia": "2026-10-23",
     "escalon": 1,
     "stake": 20.0,
-    "cuota": 1.0,
-    "resultado": "roja"
+    "cuota": 1.91,
+    "picks": [
+     {
+      "partido_id": 1550165,
+      "fecha": "2026-10-23T20:45",
+      "competicion": "Serie A",
+      "liga_id": 135,
+      "local": "Torino",
+      "visitante": "Monza",
+      "mercado": "Goals Over/Under",
+      "opcion": "Over 1.5",
+      "tipo": "goles",
+      "texto": "Más de 1,5 goles en Torino–Monza",
+      "cuota": 1.25,
+      "frecuencia": 1.0,
+      "ventaja": 0.2,
+      "detalle": "Torino 7/7 · Monza 7/7"
+     },
+     {
+      "partido_id": 1557443,
+      "fecha": "2026-10-23T21:00",
+      "competicion": "Premier",
+      "liga_id": 39,
+      "local": "Ipswich",
+      "visitante": "Nottingham Forest",
+      "mercado": "Away Team Total Cards",
+      "opcion": "Over 1.5",
+      "tipo": "tarjetas",
+      "texto": "Nottingham Forest ve más de 1,5 tarjetas",
+      "cuota": 1.53,
+      "frecuencia": 0.786,
+      "ventaja": 0.132,
+      "detalle": "Ipswich (en contra) 5/7 · Nottingham Forest 6/7"
+     }
+    ],
+    "anterior": {
+     "dia": "2026-10-22",
+     "escalon": 1,
+     "stake": 20.0,
+     "cuota": 1.0,
+     "resultado": "roja"
+    },
+    "resultado": "roja",
+    "aciertos": [
+     true,
+     false
+    ]
    },
    "resultado": "roja",
    "aciertos": [
-    true,
+    false,
+    false
+   ]
+  }
+ ],
+ "actual": {
+  "dia": "2026-10-25",
+  "escalon": 1,
+  "stake": 20.0,
+  "cuota": 2.21,
+  "picks": [
+   {
+    "partido_id": 1550166,
+    "fecha": "2026-10-25T20:45",
+    "competicion": "Serie A",
+    "liga_id": 135,
+    "local": "Udinese",
+    "visitante": "AC Milan",
+    "mercado": "Goals Over/Under",
+    "opcion": "Over 1.5",
+    "tipo": "goles",
+    "texto": "Más de 1,5 goles en Udinese–AC Milan",
+    "cuota": 1.28,
+    "frecuencia": 0.941,
+    "ventaja": 0.16,
+    "detalle": "Udinese 6/7 · AC Milan 10/10"
+   },
+   {
+    "partido_id": 1552793,
+    "fecha": "2026-10-25T17:15",
+    "competicion": "Ligue 1",
+    "liga_id": 61,
+    "local": "Auxerre",
+    "visitante": "Le Mans",
+    "mercado": "Goals Over/Under",
+    "opcion": "Over 2.5",
+    "tipo": "goles",
+    "texto": "Más de 2,5 goles en Auxerre–Le Mans",
+    "cuota": 1.73,
+    "frecuencia": 0.857,
+    "ventaja": 0.279,
+    "detalle": "Auxerre 6/7 · Le Mans 6/7"
+   }
+  ],
+  "anterior": {
+   "dia": "2026-10-24",
+   "escalon": 1,
+   "stake": 20.0,
+   "cuota": 2.02,
+   "picks": [
+    {
+     "partido_id": 1550159,
+     "fecha": "2026-10-24T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Como",
+     "visitante": "Sassuolo",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Sassuolo marca",
+     "cuota": 1.44,
+     "frecuencia": 0.941,
+     "ventaja": 0.247,
+     "detalle": "Como (en contra) 9/10 · Sassuolo 7/7"
+    },
+    {
+     "partido_id": 1550158,
+     "fecha": "2026-10-24T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Cagliari",
+     "visitante": "Bologna",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cagliari marca",
+     "cuota": 1.4,
+     "frecuencia": 0.857,
+     "ventaja": 0.143,
+     "detalle": "Cagliari 5/7 · Bologna (en contra) 7/7"
+    }
+   ],
+   "anterior": {
+    "dia": "2026-10-23",
+    "escalon": 1,
+    "stake": 20.0,
+    "cuota": 1.91,
+    "picks": [
+     {
+      "partido_id": 1550165,
+      "fecha": "2026-10-23T20:45",
+      "competicion": "Serie A",
+      "liga_id": 135,
+      "local": "Torino",
+      "visitante": "Monza",
+      "mercado": "Goals Over/Under",
+      "opcion": "Over 1.5",
+      "tipo": "goles",
+      "texto": "Más de 1,5 goles en Torino–Monza",
+      "cuota": 1.25,
+      "frecuencia": 1.0,
+      "ventaja": 0.2,
+      "detalle": "Torino 7/7 · Monza 7/7"
+     },
+     {
+      "partido_id": 1557443,
+      "fecha": "2026-10-23T21:00",
+      "competicion": "Premier",
+      "liga_id": 39,
+      "local": "Ipswich",
+      "visitante": "Nottingham Forest",
+      "mercado": "Away Team Total Cards",
+      "opcion": "Over 1.5",
+      "tipo": "tarjetas",
+      "texto": "Nottingham Forest ve más de 1,5 tarjetas",
+      "cuota": 1.53,
+      "frecuencia": 0.786,
+      "ventaja": 0.132,
+      "detalle": "Ipswich (en contra) 5/7 · Nottingham Forest 6/7"
+     }
+    ],
+    "anterior": {
+     "dia": "2026-10-22",
+     "escalon": 1,
+     "stake": 20.0,
+     "cuota": 1.0,
+     "resultado": "roja"
+    },
+    "resultado": "roja",
+    "aciertos": [
+     true,
+     false
+    ]
+   },
+   "resultado": "roja",
+   "aciertos": [
+    false,
     false
    ]
   }

@@ -1,7 +1,7 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -181,7 +181,7 @@ _Sin bajas comunicadas por ahora._
 | Djaoui Cissé | M | 3 | 98 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 5 | 4 | 1,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,0._
+_Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -201,12 +201,12 @@ _Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,0._
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -1% |
 | Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
 | Goles del local: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
+| Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
 | Goles del local: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
 | Goles del local: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.18 | -6% |
@@ -216,7 +216,7 @@ _Goles esperados: local 1,40 · visitante 1,58 · córners esperados 10,0._
 | Goles del visitante: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
 | Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
 | 1X2 descanso: 2 | 32% | 32% | 32% | 2.88 | -8% |
-| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -5% |
 | 1X2 descanso: 1 | 27% | 30% | 28% | 3.10 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

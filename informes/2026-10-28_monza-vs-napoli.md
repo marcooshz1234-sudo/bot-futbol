@@ -1,7 +1,7 @@
 # Monza – Napoli
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -59,53 +59,53 @@ _Actualizadas: 24/10 14:45_
 ## Estadísticas de equipo
 | | Monza (total) | Monza en casa | Napoli (total) | Napoli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 3 | 10 | 5 |
-| Forma (últimos 5) | DVDVD | VVD | VDDVE | DDEDV |
-| Balance | 2V 1E 5D | 2V 0E 1D | 4V 1E 5D | 1V 1E 3D |
-| Goles a favor / partido | 1,88 | 2,67 | 1,50 | 1,20 |
-| Goles en contra / partido | 2,25 | 1,33 | 1,40 | 1,60 |
-| Goles a favor 1ª parte | 0,62 | 0,67 | 0,70 | 0,40 |
-| Goles a favor 2ª parte | 1,25 | 2,00 | 0,80 | 0,80 |
-| Goles en contra 1ª parte | 1,25 | 1,00 | 0,50 | 0,40 |
-| Goles en contra 2ª parte | 1,00 | 0,33 | 0,90 | 1,20 |
-| Más de 1,5 goles | 100% | 100% | 70% | 80% |
-| Más de 2,5 goles | 88% | 100% | 50% | 40% |
-| Más de 3,5 goles | 75% | 67% | 30% | 40% |
-| Ambos marcan | 88% | 67% | 50% | 60% |
-| Portería a cero | 12% | 33% | 30% | 20% |
-| Se queda sin marcar | 0% | 0% | 20% | 20% |
-| xG a favor | 1,68 | 1,77 | 1,61 | 1,73 |
-| xG en contra | 1,31 | 1,52 | 1,70 | 1,58 |
+| Partidos analizados | 8 | 3 | 11 | 5 |
+| Forma (últimos 5) | DVDVD | VVD | EVDDV | DDEDV |
+| Balance | 2V 1E 5D | 2V 0E 1D | 4V 2E 5D | 1V 1E 3D |
+| Goles a favor / partido | 1,88 | 2,67 | 1,64 | 1,20 |
+| Goles en contra / partido | 2,25 | 1,33 | 1,55 | 1,60 |
+| Goles a favor 1ª parte | 0,62 | 0,67 | 0,73 | 0,40 |
+| Goles a favor 2ª parte | 1,25 | 2,00 | 0,91 | 0,80 |
+| Goles en contra 1ª parte | 1,25 | 1,00 | 0,45 | 0,40 |
+| Goles en contra 2ª parte | 1,00 | 0,33 | 1,09 | 1,20 |
+| Más de 1,5 goles | 100% | 100% | 73% | 80% |
+| Más de 2,5 goles | 88% | 100% | 55% | 40% |
+| Más de 3,5 goles | 75% | 67% | 36% | 40% |
+| Ambos marcan | 88% | 67% | 55% | 60% |
+| Portería a cero | 12% | 33% | 27% | 20% |
+| Se queda sin marcar | 0% | 0% | 18% | 20% |
+| xG a favor | 1,68 | 1,77 | 1,69 | 1,73 |
+| xG en contra | 1,31 | 1,52 | 1,72 | 1,58 |
 | Tiros / partido | 13,4 | 14,7 | 15,0 | 16,4 |
-| Tiros a puerta / partido | 5,6 | 5,7 | 5,3 | 5,8 |
-| Tiros recibidos | 13,6 | 16,0 | 16,6 | 16,4 |
+| Tiros a puerta / partido | 5,6 | 5,7 | 5,6 | 5,8 |
+| Tiros recibidos | 13,6 | 16,0 | 17,3 | 16,4 |
 | Tiros a puerta recibidos | 5,4 | 6,0 | 4,5 | 4,4 |
-| Posesión media % | 45 | 44 | 50 | 54 |
-| Córners a favor | 4,2 | 4,0 | 5,1 | 6,2 |
-| Córners en contra | 4,8 | 5,0 | 4,5 | 4,6 |
-| Córners a favor 1ª parte | 1,8 | 1,3 | 2,4 | 3,2 |
-| Córners a favor 2ª parte | 2,5 | 2,7 | 2,7 | 3,0 |
-| Córners totales del partido | 9,0 | 9,0 | 9,6 | 10,8 |
-| Córners totales 1ª parte | 3,9 | 4,3 | 4,8 | 5,4 |
-| Córners totales 2ª parte | 5,1 | 4,7 | 4,8 | 5,4 |
-| Más de 8,5 córners | 62% | 67% | 70% | 80% |
-| Más de 9,5 córners | 38% | 33% | 50% | 60% |
-| Más de 10,5 córners | 25% | 33% | 20% | 40% |
-| Faltas cometidas | 11,1 | 11,0 | 9,6 | 9,0 |
-| Faltas recibidas | 10,6 | 10,7 | 8,6 | 8,6 |
+| Posesión media % | 45 | 44 | 49 | 54 |
+| Córners a favor | 4,2 | 4,0 | 4,8 | 6,2 |
+| Córners en contra | 4,8 | 5,0 | 5,1 | 4,6 |
+| Córners a favor 1ª parte | 1,8 | 1,3 | 2,3 | 3,2 |
+| Córners a favor 2ª parte | 2,5 | 2,7 | 2,5 | 3,0 |
+| Córners totales del partido | 9,0 | 9,0 | 9,9 | 10,8 |
+| Córners totales 1ª parte | 3,9 | 4,3 | 4,7 | 5,4 |
+| Córners totales 2ª parte | 5,1 | 4,7 | 5,2 | 5,4 |
+| Más de 8,5 córners | 62% | 67% | 73% | 80% |
+| Más de 9,5 córners | 38% | 33% | 55% | 60% |
+| Más de 10,5 córners | 25% | 33% | 27% | 40% |
+| Faltas cometidas | 11,1 | 11,0 | 9,3 | 9,0 |
+| Faltas recibidas | 10,6 | 10,7 | 8,8 | 8,6 |
 | Amarillas propias | 1,4 | 2,0 | 1,4 | 1,2 |
-| Amarillas del rival | 1,6 | 1,0 | 1,2 | 2,0 |
+| Amarillas del rival | 1,6 | 1,0 | 1,5 | 2,0 |
 | Rojas / partido | 0,12 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Monza | Recibe Monza | Tarjetas Monza | Goles Napoli | Recibe Napoli | Tarjetas Napoli |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 4 | 1 | 2 | 0 | 0 |
-| 16-30' | 2 | 2 | 1 | 3 | 4 | 0 |
+| 1-15' | 0 | 4 | 1 | 2 | 0 | 1 |
+| 16-30' | 2 | 2 | 1 | 4 | 4 | 0 |
 | 31-45' | 3 | 4 | 2 | 2 | 1 | 3 |
-| 46-60' | 4 | 3 | 1 | 2 | 3 | 4 |
-| 61-75' | 3 | 3 | 3 | 2 | 2 | 1 |
-| 76-90' | 3 | 2 | 4 | 4 | 4 | 6 |
+| 46-60' | 4 | 3 | 1 | 3 | 3 | 4 |
+| 61-75' | 3 | 3 | 3 | 2 | 4 | 1 |
+| 76-90' | 3 | 2 | 4 | 5 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,72 +157,72 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Napoli 3-3 AS Roma | casa | 2-11 | 15 (9) - 24 (4) | 1-4 |
 | 2026-10-20 | Champions League | Napoli 4-3 Bodo/Glimt | casa | 2-5 | 17 (8) - 15 (6) | 3-0 |
 | 2026-10-17 | Serie A | Venezia 1-0 Napoli | fuera | 12-0 | 29 (10) - 9 (4) | 0-2 |
 | 2026-10-13 | Champions League | Villarreal 3-1 Napoli | fuera | 4-4 | 11 (3) - 16 (4) | 3-2 |
 | 2026-10-10 | Serie A | Napoli 3-0 Frosinone | casa | 6-4 | 19 (8) - 17 (1) | 2-0 |
 | 2026-09-20 | Serie A | Fiorentina 1-1 Napoli | fuera | 5-4 | 13 (5) - 17 (4) | 0-3 |
-| 2026-09-13 | Serie A | Napoli 1-0 Bologna | casa | 10-0 | 14 (3) - 5 (2) | 0-1 |
 
 ## Jugadores de Napoli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Di Lorenzo | D | 10 | 900 | 0 | 1 | 5 | 0,5 | 3 | 0,3 | 7 | 9 | 0,9 | 3 | 0 |
+| G. Di Lorenzo | D | 11 | 980 | 0 | 1 | 5 | 0,5 | 3 | 0,3 | 7 | 9 | 0,8 | 3 | 0 |
 | Amir Rrahmani | D | 10 | 900 | 1 | 1 | 7 | 0,7 | 2 | 0,2 | 8 | 6 | 0,6 | 1 | 0 |
-| Rafa Marín | D | 9 | 783 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 13 | 5 | 0,6 | 1 | 0 |
-| S. Lobotka | M | 10 | 725 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 4 | 14 | 1,4 | 0 | 0 |
-| R. Højlund | F | 10 | 716 | 2 | 0 | 14 | 1,4 | 6 | 0,6 | 7 | 8 | 0,8 | 0 | 0 |
-| K. De Bruyne | M | 10 | 659 | 3 | 2 | 10 | 1,0 | 5 | 0,5 | 10 | 6 | 0,6 | 1 | 0 |
-| A. Meret | G | 7 | 585 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| L. Spinazzola | M | 8 | 576 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
-| M. Politano | M | 10 | 571 | 2 | 2 | 8 | 0,8 | 8 | 0,8 | 5 | 5 | 0,5 | 1 | 0 |
+| Rafa Marín | D | 10 | 873 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 14 | 6 | 0,6 | 2 | 0 |
+| R. Højlund | F | 11 | 806 | 2 | 0 | 17 | 1,5 | 7 | 0,6 | 8 | 10 | 0,9 | 0 | 0 |
+| K. De Bruyne | M | 11 | 738 | 3 | 2 | 10 | 0,9 | 5 | 0,5 | 11 | 9 | 0,8 | 1 | 0 |
+| S. Lobotka | M | 11 | 736 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 4 | 14 | 1,3 | 0 | 0 |
+| A. Meret | G | 8 | 675 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| M. Politano | F | 11 | 637 | 2 | 3 | 10 | 0,9 | 9 | 0,8 | 5 | 5 | 0,5 | 1 | 0 |
+| L. Spinazzola | D | 9 | 586 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
+| S. McTominay | M | 7 | 505 | 4 | 0 | 17 | 2,4 | 8 | 1,1 | 3 | 3 | 0,4 | 0 | 0 |
+| N. Lang | F | 8 | 443 | 1 | 0 | 14 | 1,8 | 7 | 0,9 | 4 | 4 | 0,5 | 1 | 0 |
 | Billy Gilmour | M | 7 | 426 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
-| S. McTominay | M | 6 | 415 | 2 | 0 | 14 | 2,3 | 5 | 0,8 | 3 | 1 | 0,2 | 0 | 0 |
-| N. Lang | M | 7 | 364 | 1 | 0 | 12 | 1,7 | 6 | 0,9 | 4 | 3 | 0,4 | 1 | 0 |
+| A. Zambo Anguissa | M | 6 | 387 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 2 | 5 | 0,8 | 1 | 0 |
+| M. Olivera | D | 8 | 362 | 0 | 1 | 8 | 1,0 | 2 | 0,2 | 6 | 3 | 0,4 | 0 | 0 |
+| B. Badiashile | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
 | Vanja Milinković-Savić | G | 4 | 315 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Zambo Anguissa | M | 5 | 297 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 2 | 4 | 0,8 | 1 | 0 |
-| Benoît Badiashile | D | 4 | 280 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,5 | 1 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
-| M. Olivera | D | 7 | 272 | 0 | 0 | 6 | 0,9 | 1 | 0,1 | 3 | 3 | 0,4 | 0 | 0 |
 | Lorenzo Lucca | F | 9 | 201 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 1 | 0,1 | 1 | 0 |
 | David Neres | F | 6 | 174 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
-| Antonio Vergara | M | 4 | 162 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,5 | 1 | 0 |
+| A. Vergara | M | 5 | 173 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 1,44 · córners esperados 9,2._
+_Goles esperados: local 1,81 · visitante 1,61 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 51% | 41% | 1.85 | -24% |
-| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
-| 1X2: 1 ✅ | 45% | 23% | 34% | 4.10 | +39% |
-| Doble oportunidad: X2 | 55% | 77% | 66% | 1.22 | -19% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 68% | 49% | 59% | 1.91 | +12% |
-| Ambos marcan: No | 37% | 42% | 40% | 2.20 | -13% |
-| Ambos marcan: Sí | 63% | 58% | 60% | 1.62 | -2% |
-| Goles más/menos: Más de 1.5 | 83% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +2% |
-| Goles más/menos: Menos de 1.5 | 17% | 22% | 20% | 4.33 | -15% |
-| Goles más/menos: Menos de 2.5 | 38% | 45% | 42% | 2.10 | -13% |
-| Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 83% | 66% | 75% | 1.40 | +4% |
-| Goles del local: Más de 1.5 ✅ | 52% | 34% | 43% | 2.75 | +18% |
-| Goles del local: Menos de 0.5 | 17% | 34% | 25% | 2.75 | -30% |
-| Goles del local: Menos de 1.5 | 48% | 66% | 57% | 1.40 | -20% |
-| Goles del visitante: Más de 1.5 | 42% | 54% | 48% | 1.73 | -17% |
-| Goles del visitante: Más de 2.5 | 18% | 27% | 22% | 3.50 | -22% |
-| Goles del visitante: Menos de 1.5 | 58% | 46% | 52% | 2.00 | +4% |
-| Goles del visitante: Menos de 2.5 | 82% | 73% | 78% | 1.28 | -0% |
-| Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
-| Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.91 | -8% |
-| 1X2 descanso: 2 | 26% | 38% | 32% | 2.40 | -22% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
-| 1X2 descanso: 1 | 35% | 21% | 28% | 4.33 | +21% |
+| 1X2: 2 | 35% | 51% | 43% | 1.85 | -21% |
+| 1X2: X | 22% | 27% | 25% | 3.50 | -14% |
+| 1X2: 1 ✅ | 43% | 23% | 33% | 4.10 | +34% |
+| Doble oportunidad: X2 | 57% | 77% | 67% | 1.22 | -18% |
+| Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 65% | 49% | 57% | 1.91 | +9% |
+| Ambos marcan: No | 33% | 42% | 38% | 2.20 | -17% |
+| Ambos marcan: Sí | 67% | 58% | 62% | 1.62 | +1% |
+| Goles más/menos: Más de 1.5 | 86% | 78% | 82% | 1.22 | -0% |
+| Goles más/menos: Más de 2.5 | 66% | 55% | 61% | 1.73 | +5% |
+| Goles más/menos: Más de 3.5 | 45% | 34% | 39% | 2.75 | +9% |
+| Goles más/menos: Menos de 1.5 | 14% | 22% | 18% | 4.33 | -21% |
+| Goles más/menos: Menos de 2.5 | 34% | 45% | 39% | 2.10 | -17% |
+| Goles más/menos: Menos de 3.5 | 55% | 66% | 61% | 1.44 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 72% | 74% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 38% | 40% | 2.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
+| Goles del local: Más de 0.5 | 84% | 66% | 75% | 1.40 | +5% |
+| Goles del local: Más de 1.5 ✅ | 54% | 34% | 44% | 2.75 | +21% |
+| Goles del local: Menos de 0.5 | 16% | 34% | 25% | 2.75 | -31% |
+| Goles del local: Menos de 1.5 | 46% | 66% | 56% | 1.40 | -21% |
+| Goles del visitante: Más de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Goles del visitante: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
+| Goles del visitante: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Goles del visitante: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Córners más/menos: Más de 8.5 | 53% | 51% | 52% | 1.80 | -6% |
+| Córners más/menos: Menos de 8.5 | 47% | 49% | 48% | 1.91 | -9% |
+| 1X2 descanso: 2 | 29% | 38% | 34% | 2.40 | -19% |
+| 1X2 descanso: X | 38% | 40% | 39% | 2.30 | -11% |
+| 1X2 descanso: 1 | 34% | 21% | 28% | 4.33 | +19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

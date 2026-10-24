@@ -1,7 +1,7 @@
 # Lille – Lens
 **Ligue 1** · Regular Season - 9 · 30/10/2026 21:05 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -191,30 +191,30 @@ _Goles esperados: local 1,67 · visitante 1,47 · córners esperados 9,2._
 | Doble oportunidad: X2 | 57% | 57% | 57% | 1.67 | -4% |
 | Doble oportunidad: 12 | 76% | 75% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 66% | 68% | 67% | 1.40 | -6% |
-| Ambos marcan: No | 37% | 42% | 40% | 2.20 | -12% |
-| Ambos marcan: Sí | 63% | 58% | 60% | 1.62 | -3% |
+| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
+| Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 61% | 57% | 59% | 1.67 | -2% |
-| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | +0% |
+| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | -0% |
 | Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
 | Goles más/menos: Menos de 2.5 | 39% | 43% | 41% | 2.20 | -9% |
 | Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 0.5 | 81% | 78% | 80% | 1.20 | -4% |
 | Goles del local: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles del local: Más de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles del local: Más de 2.5 | 23% | 22% | 23% | 4.33 | -2% |
 | Goles del local: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -12% |
 | Goles del local: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del local: Menos de 2.5 | 77% | 78% | 77% | 1.20 | -7% |
 | Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
 | Goles del visitante: Más de 1.5 | 43% | 39% | 41% | 2.38 | -2% |
 | Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles del visitante: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
-| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 2 | 28% | 27% | 27% | 3.40 | -7% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
 | 1X2 descanso: 1 | 33% | 32% | 33% | 2.88 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

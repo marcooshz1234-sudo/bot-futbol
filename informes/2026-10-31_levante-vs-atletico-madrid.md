@@ -1,7 +1,7 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Dani MartÃ­nez | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,81 · córners esperados 9,3._
+_Goles esperados: local 1,15 · visitante 1,82 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@ _Goles esperados: local 1,15 · visitante 1,81 · córners esperados 9,3._
 | 1X2: 1 | 24% | 19% | 21% | 5.00 | +6% |
 | Doble oportunidad: X2 | 76% | 81% | 79% | 1.17 | -8% |
 | Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 47% | 41% | 44% | 2.30 | +2% |
+| Doble oportunidad: 1X | 47% | 41% | 44% | 2.30 | +1% |
 | Ambos marcan: No | 43% | 41% | 42% | 2.25 | -6% |
 | Ambos marcan: Sí | 57% | 59% | 58% | 1.57 | -9% |
 | Goles más/menos: Más de 2.5 | 57% | 62% | 59% | 1.53 | -9% |
@@ -198,15 +198,15 @@ _Goles esperados: local 1,15 · visitante 1,81 · córners esperados 9,3._
 | Goles más/menos: Menos de 2.5 | 43% | 38% | 41% | 2.50 | +1% |
 | Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | +0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -1% |
 | Goles del local: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles del local: Más de 1.5 | 32% | 31% | 31% | 3.00 | -6% |
 | Goles del local: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
-| Goles del visitante: Más de 1.5 | 54% | 62% | 58% | 1.50 | -13% |
+| Goles del local: Menos de 1.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles del visitante: Más de 1.5 | 54% | 62% | 58% | 1.50 | -12% |
 | Goles del visitante: Más de 2.5 | 27% | 38% | 32% | 2.50 | -19% |
 | Goles del visitante: Menos de 1.5 | 46% | 38% | 42% | 2.50 | +4% |
 | Goles del visitante: Menos de 2.5 | 73% | 62% | 68% | 1.50 | +1% |

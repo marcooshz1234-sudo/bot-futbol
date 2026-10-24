@@ -1,7 +1,7 @@
 # Liverpool – Brighton
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -210,40 +210,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,21 · visitante 1,74 · córners esperados 10,1._
+_Goles esperados: local 1,25 · visitante 1,74 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 50% | 28% | 39% | 3.40 | +32% |
+| 1X2: 2 ✅ | 49% | 28% | 39% | 3.40 | +31% |
 | 1X2: X | 24% | 27% | 25% | 3.60 | -10% |
-| 1X2: 1 | 27% | 45% | 36% | 2.10 | -24% |
-| Doble oportunidad: X2 | 73% | 55% | 64% | 1.70 | +9% |
+| 1X2: 1 | 27% | 45% | 36% | 2.10 | -23% |
+| Doble oportunidad: X2 | 73% | 55% | 64% | 1.70 | +8% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 50% | 72% | 61% | 1.30 | -21% |
-| Ambos marcan: No | 42% | 35% | 39% | 2.62 | +2% |
-| Ambos marcan: Sí | 58% | 65% | 61% | 1.44 | -12% |
-| Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
-| Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
-| Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
+| Doble oportunidad: 1X | 51% | 72% | 61% | 1.30 | -20% |
+| Ambos marcan: No | 41% | 35% | 38% | 2.62 | +1% |
+| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
+| Goles más/menos: Más de 2.5 | 57% | 62% | 60% | 1.53 | -9% |
+| Goles más/menos: Más de 3.5 | 35% | 41% | 38% | 2.30 | -12% |
+| Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -16% |
+| Goles más/menos: Menos de 2.5 | 43% | 38% | 40% | 2.50 | +1% |
+| Goles más/menos: Menos de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 1.5 | 34% | 54% | 44% | 1.73 | -24% |
-| Goles del local: Más de 2.5 | 12% | 28% | 20% | 3.40 | -32% |
-| Goles del local: Menos de 1.5 ✅ | 66% | 46% | 56% | 2.00 | +12% |
-| Goles del local: Menos de 2.5 | 88% | 72% | 80% | 1.30 | +4% |
+| Goles del local: Más de 1.5 | 35% | 54% | 45% | 1.73 | -23% |
+| Goles del local: Más de 2.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles del local: Menos de 1.5 ✅ | 65% | 46% | 55% | 2.00 | +11% |
+| Goles del local: Menos de 2.5 | 87% | 72% | 80% | 1.30 | +4% |
 | Goles del visitante: Más de 0.5 | 82% | 75% | 79% | 1.25 | -2% |
 | Goles del visitante: Más de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
 | Goles del visitante: Menos de 0.5 | 18% | 25% | 21% | 3.75 | -20% |
 | Goles del visitante: Menos de 1.5 | 48% | 58% | 53% | 1.62 | -14% |
 | Córners más/menos: Más de 10.5 | 42% | 44% | 43% | 2.10 | -9% |
 | Córners más/menos: Menos de 10.5 | 58% | 56% | 57% | 1.67 | -5% |
-| 1X2 descanso: 2 | 37% | 27% | 32% | 3.50 | +11% |
-| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
-| 1X2 descanso: 1 | 23% | 36% | 29% | 2.60 | -24% |
+| 1X2 descanso: 2 | 36% | 27% | 31% | 3.50 | +10% |
+| 1X2 descanso: X | 40% | 37% | 39% | 2.50 | -3% |
+| 1X2 descanso: 1 | 23% | 36% | 30% | 2.60 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

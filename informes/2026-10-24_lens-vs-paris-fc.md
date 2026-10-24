@@ -1,7 +1,7 @@
 # Lens – Paris FC
 **Ligue 1** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -206,7 +206,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Vincent Marchetti | M | 2 | 23 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,59 · córners esperados 9,1._
+_Goles esperados: local 1,61 · visitante 1,59 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,8 +214,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 37% | 37% | 2.55 | -5% |
 | 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 39% | 36% | 38% | 2.62 | -2% |
-| Doble oportunidad: X2 | 61% | 62% | 62% | 1.50 | -8% |
+| 1X2: 1 | 39% | 36% | 37% | 2.62 | -2% |
+| Doble oportunidad: X2 | 61% | 62% | 62% | 1.50 | -7% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 62% | 65% | 64% | 1.44 | -8% |
 | Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
@@ -223,13 +223,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles más/menos: Más de 2.5 | 62% | 59% | 60% | 1.62 | -2% |
 | Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles más/menos: Más de 4.5 | 22% | 21% | 22% | 4.50 | -3% |
+| Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -3% |
 | Goles más/menos: Menos de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles más/menos: Menos de 2.5 | 38% | 41% | 40% | 2.30 | -9% |
-| Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
-| Goles más/menos: Menos de 4.5 | 78% | 79% | 78% | 1.20 | -6% |
+| Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -6% |
+| Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 39% | 39% | 2.38 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
 | Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
@@ -244,8 +244,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -12% |
 | Goles del visitante: Menos de 1.5 | 53% | 56% | 54% | 1.67 | -9% |
 | Goles del visitante: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Córners más/menos: Más de 9.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Córners más/menos: Menos de 9.5 | 59% | 49% | 54% | 1.91 | +3% |
+| Córners más/menos: Más de 9.5 | 41% | 51% | 46% | 1.80 | -16% |
+| Córners más/menos: Menos de 9.5 | 59% | 49% | 54% | 1.91 | +2% |
 | 1X2 descanso: 2 | 30% | 31% | 31% | 3.00 | -8% |
 | 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -7% |
 | 1X2 descanso: 1 | 31% | 30% | 30% | 3.10 | -6% |

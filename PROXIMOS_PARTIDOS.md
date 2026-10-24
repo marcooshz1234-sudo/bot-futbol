@@ -1,23 +1,9 @@
 # Próximos partidos
 
-_Actualizado el 24/10/2026 14:46 (hora España). Partidos guardados en la base de datos: 923._
+_Actualizado el 24/10/2026 20:39 (hora España). Partidos guardados en la base de datos: 939._
 
 
 ## Sábado 24/10
-- 15:00 · Serie A · [Cagliari – Bologna](informes/2026-10-24_cagliari-vs-bologna.md) · 1X2: 3.25 / 2.90 / 2.45
-- 15:00 · Serie A · [Como – Sassuolo](informes/2026-10-24_como-vs-sassuolo.md) · 1X2: 1.50 / 5.00 / 5.00
-- 15:30 · Bundesliga · [FSV Mainz 05 – Werder Bremen](informes/2026-10-24_fsv-mainz-05-vs-werder-bremen.md) · 1X2: 1.70 / 4.00 / 4.50
-- 15:30 · Bundesliga · [FC Augsburg – Union Berlin](informes/2026-10-24_fc-augsburg-vs-union-berlin.md) · 1X2: 1.75 / 4.00 / 4.33
-- 15:30 · Bundesliga · [RB Leipzig – SV Elversberg](informes/2026-10-24_rb-leipzig-vs-sv-elversberg.md) · 1X2: 1.44 / 5.25 / 5.75
-- 15:30 · Bundesliga · [SC Paderborn 07 – Hamburger SV](informes/2026-10-24_sc-paderborn-07-vs-hamburger-sv.md) · 1X2: 2.35 / 3.70 / 2.80
-- 15:30 · Bundesliga · [1. FC Köln – FC Schalke 04](informes/2026-10-24_1-fc-koln-vs-fc-schalke-04.md) · 1X2: 2.05 / 3.80 / 3.25
-- 16:00 · Premier League · [Arsenal – Everton](informes/2026-10-24_arsenal-vs-everton.md) · 1X2: 1.42 / 4.50 / 8.00
-- 16:00 · Premier League · [Coventry – Fulham](informes/2026-10-24_coventry-vs-fulham.md) · 1X2: 3.20 / 3.40 / 2.25
-- 16:15 · LaLiga · [Racing Santander – Espanyol](informes/2026-10-24_racing-santander-vs-espanyol.md) · 1X2: 2.25 / 3.60 / 3.00
-- 18:00 · Serie A · [Napoli – AS Roma](informes/2026-10-24_napoli-vs-as-roma.md) · 1X2: 2.70 / 3.25 / 2.70
-- 18:30 · LaLiga · [Valencia – Villarreal](informes/2026-10-24_valencia-vs-villarreal.md) · 1X2: 3.50 / 3.50 / 2.05
-- 18:30 · Premier League · [Chelsea – Tottenham](informes/2026-10-24_chelsea-vs-tottenham.md) · 1X2: 1.91 / 3.70 / 3.80
-- 18:30 · Bundesliga · [Borussia Dortmund – Eintracht Frankfurt](informes/2026-10-24_borussia-dortmund-vs-eintracht-frankfurt.md) · 1X2: 1.50 / 5.00 / 5.50
 - 20:45 · Serie A · [Lazio – Parma](informes/2026-10-24_lazio-vs-parma.md) · 1X2: 1.48 / 4.33 / 7.00
 - 20:45 · Ligue 1 · [Lens – Paris FC](informes/2026-10-24_lens-vs-paris-fc.md) · 1X2: 2.62 / 3.50 / 2.55
 - 21:00 · LaLiga · [Atletico Madrid – Deportivo La Coruna](informes/2026-10-24_atletico-madrid-vs-deportivo-la-coruna.md) · 1X2: 1.27 / 6.00 / 11.00
@@ -101,3 +87,14 @@ _Actualizado el 24/10/2026 14:46 (hora España). Partidos guardados en la base d
 
 ## Domingo 01/11
 - 12:30 · Serie A · [Como – Venezia](informes/2026-11-01_como-vs-venezia.md)
+- 14:00 · LaLiga · [Getafe – Sevilla](informes/2026-11-01_getafe-vs-sevilla.md) · 1X2: 2.80 / 3.00 / 2.55
+- 15:00 · Serie A · [Lazio – Cagliari](informes/2026-11-01_lazio-vs-cagliari.md)
+- 15:00 · Serie A · [Frosinone – Torino](informes/2026-11-01_frosinone-vs-torino.md)
+- 15:00 · Ligue 1 · [Strasbourg – Auxerre](informes/2026-11-01_strasbourg-vs-auxerre.md) · 1X2: 1.80 / 3.80 / 3.80
+- 15:30 · Bundesliga · [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) · 1X2: 2.50 / 3.60 / 2.60
+- 16:15 · LaLiga · [Racing Santander – Real Madrid](informes/2026-11-01_racing-santander-vs-real-madrid.md) · 1X2: 9.00 / 6.25 / 1.25
+- 17:15 · Ligue 1 · [Paris FC – Monaco](informes/2026-11-01_paris-fc-vs-monaco.md) · 1X2: 2.25 / 3.50 / 2.80
+- 17:30 · Premier League · [Liverpool – Arsenal](informes/2026-11-01_liverpool-vs-arsenal.md) · 1X2: 3.20 / 3.40 / 2.15
+- 17:30 · Bundesliga · [Eintracht Frankfurt – Hamburger SV](informes/2026-11-01_eintracht-frankfurt-vs-hamburger-sv.md) · 1X2: 1.62 / 4.33 / 4.75
+- 18:00 · Serie A · [Lecce – Genoa](informes/2026-11-01_lecce-vs-genoa.md)
+- 18:30 · LaLiga · [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) · 1X2: 2.45 / 3.30 / 2.75

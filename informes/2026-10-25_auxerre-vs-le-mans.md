@@ -1,7 +1,7 @@
 # Auxerre – Le Mans
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -203,13 +203,13 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Billal Brahimi | F | 5 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,16 · visitante 1,79 · córners esperados 9,9._
+_Goles esperados: local 2,15 · visitante 1,79 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 28% | 30% | 3.40 | +2% |
+| 1X2: 2 | 33% | 28% | 30% | 3.40 | +3% |
 | 1X2: X | 21% | 26% | 23% | 3.60 | -16% |
 | 1X2: 1 | 47% | 46% | 46% | 2.05 | -5% |
 | Doble oportunidad: X2 | 53% | 54% | 54% | 1.73 | -7% |
@@ -226,19 +226,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 38% | 44% | 2.50 | +9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles del local: Más de 1.5 | 64% | 50% | 57% | 1.83 | +4% |
-| Goles del local: Más de 2.5 | 37% | 25% | 31% | 3.75 | +16% |
-| Goles del local: Menos de 1.5 | 36% | 50% | 43% | 1.83 | -21% |
-| Goles del local: Menos de 2.5 | 63% | 75% | 69% | 1.25 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -15% |
+| Goles del local: Más de 1.5 | 63% | 50% | 57% | 1.83 | +4% |
+| Goles del local: Más de 2.5 | 36% | 25% | 31% | 3.75 | +15% |
+| Goles del local: Menos de 1.5 | 37% | 50% | 43% | 1.83 | -21% |
+| Goles del local: Menos de 2.5 | 64% | 75% | 69% | 1.25 | -13% |
 | Goles del visitante: Más de 0.5 | 83% | 71% | 77% | 1.33 | +3% |
 | Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +16% |
 | Goles del visitante: Menos de 0.5 | 17% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 1.5 | 47% | 65% | 56% | 1.44 | -20% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: 2 | 28% | 25% | 27% | 3.75 | -1% |
-| 1X2 descanso: X | 34% | 40% | 37% | 2.30 | -15% |
-| 1X2 descanso: 1 | 37% | 35% | 36% | 2.60 | -5% |
+| 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | -1% |
+| 1X2 descanso: X | 34% | 40% | 37% | 2.30 | -14% |
+| 1X2 descanso: 1 | 37% | 35% | 36% | 2.60 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

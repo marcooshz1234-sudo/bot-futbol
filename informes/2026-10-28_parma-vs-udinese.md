@@ -1,7 +1,7 @@
 # Parma – Udinese
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,19 · visitante 1,11 · córners esperados 9,1._
+_Goles esperados: local 1,21 · visitante 1,13 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -197,31 +197,31 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 28% | 29% | 29% | 3.20 | -8% |
 | 1X2: 1 | 38% | 31% | 35% | 3.00 | +4% |
 | Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -11% |
-| Doble oportunidad: 12 | 72% | 69% | 70% | 1.36 | -4% |
-| Doble oportunidad: 1X | 66% | 62% | 64% | 1.53 | -2% |
-| Ambos marcan: No | 53% | 50% | 52% | 1.91 | -1% |
-| Ambos marcan: Sí | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 1.5 | 67% | 70% | 69% | 1.36 | -7% |
-| Goles más/menos: Más de 2.5 | 40% | 43% | 42% | 2.20 | -8% |
-| Goles más/menos: Más de 3.5 | 20% | 24% | 22% | 4.00 | -12% |
-| Goles más/menos: Menos de 1.5 | 33% | 30% | 31% | 3.20 | +1% |
-| Goles más/menos: Menos de 2.5 | 60% | 57% | 58% | 1.67 | -3% |
-| Goles más/menos: Menos de 3.5 | 80% | 76% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
+| Doble oportunidad: 12 | 72% | 69% | 71% | 1.36 | -4% |
+| Doble oportunidad: 1X | 66% | 62% | 64% | 1.53 | -3% |
+| Ambos marcan: No | 52% | 50% | 51% | 1.91 | -2% |
+| Ambos marcan: Sí | 48% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Más de 1.5 | 68% | 70% | 69% | 1.36 | -6% |
+| Goles más/menos: Más de 2.5 | 41% | 43% | 42% | 2.20 | -7% |
+| Goles más/menos: Más de 3.5 | 21% | 24% | 22% | 4.00 | -11% |
+| Goles más/menos: Menos de 1.5 | 32% | 30% | 31% | 3.20 | -1% |
+| Goles más/menos: Menos de 2.5 | 59% | 57% | 58% | 1.67 | -4% |
+| Goles más/menos: Menos de 3.5 | 79% | 76% | 78% | 1.25 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 29% | 27% | 3.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -4% |
 | Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Más de 1.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles del local: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +3% |
-| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Córners más/menos: Más de 9.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Córners más/menos: Menos de 9.5 | 58% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -15% |
+| Goles del local: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
+| Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
+| Córners más/menos: Más de 9.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Córners más/menos: Menos de 9.5 | 58% | 54% | 56% | 1.73 | -4% |
+| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -14% |
 | 1X2 descanso: X | 47% | 45% | 46% | 2.05 | -6% |
 | 1X2 descanso: 1 | 28% | 26% | 27% | 3.60 | -4% |
 

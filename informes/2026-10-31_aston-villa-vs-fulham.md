@@ -1,7 +1,7 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:46_
@@ -49,53 +49,53 @@ _Actualizadas: 24/10 14:46_
 ## Estadísticas de equipo
 | | Aston Villa (total) | Aston Villa en casa | Fulham (total) | Fulham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 7 | 3 |
-| Forma (últimos 5) | VVVEV | VVEDD | VDEED | DED |
-| Balance | 5V 2E 3D | 2V 1E 2D | 1V 2E 4D | 0V 1E 2D |
-| Goles a favor / partido | 1,90 | 2,40 | 1,00 | 0,33 |
-| Goles en contra / partido | 1,40 | 1,20 | 1,43 | 1,00 |
-| Goles a favor 1ª parte | 1,10 | 1,20 | 0,57 | 0,00 |
-| Goles a favor 2ª parte | 0,80 | 1,20 | 0,43 | 0,33 |
-| Goles en contra 1ª parte | 0,60 | 0,20 | 0,43 | 0,00 |
-| Goles en contra 2ª parte | 0,80 | 1,00 | 1,00 | 1,00 |
-| Más de 1,5 goles | 70% | 80% | 57% | 33% |
-| Más de 2,5 goles | 70% | 80% | 43% | 33% |
-| Más de 3,5 goles | 60% | 60% | 29% | 0% |
-| Ambos marcan | 50% | 60% | 57% | 33% |
-| Portería a cero | 30% | 20% | 29% | 33% |
-| Se queda sin marcar | 30% | 20% | 29% | 67% |
-| xG a favor | 1,76 | 1,87 | 1,56 | 1,15 |
-| xG en contra | 1,54 | 1,39 | 1,49 | 1,48 |
-| Tiros / partido | 14,5 | 15,0 | 14,7 | 11,3 |
-| Tiros a puerta / partido | 5,2 | 6,6 | 4,7 | 3,0 |
-| Tiros recibidos | 15,0 | 13,6 | 14,1 | 12,3 |
-| Tiros a puerta recibidos | 4,5 | 4,0 | 4,1 | 4,0 |
-| Posesión media % | 47 | 49 | 57 | 52 |
-| Córners a favor | 4,4 | 5,4 | 6,1 | 5,7 |
-| Córners en contra | 4,7 | 4,0 | 4,3 | 3,3 |
-| Córners a favor 1ª parte | 2,9 | 3,6 | 3,0 | 2,0 |
-| Córners a favor 2ª parte | 1,5 | 1,8 | 3,1 | 3,7 |
-| Córners totales del partido | 9,1 | 9,4 | 10,4 | 9,0 |
-| Córners totales 1ª parte | 5,2 | 5,2 | 5,3 | 4,7 |
-| Córners totales 2ª parte | 3,9 | 4,2 | 5,1 | 4,3 |
-| Más de 8,5 córners | 50% | 40% | 57% | 33% |
-| Más de 9,5 córners | 30% | 40% | 57% | 33% |
-| Más de 10,5 córners | 30% | 40% | 43% | 33% |
-| Faltas cometidas | 10,8 | 10,8 | 10,4 | 11,0 |
-| Faltas recibidas | 12,8 | 13,2 | 8,4 | 9,7 |
-| Amarillas propias | 1,7 | 1,4 | 2,0 | 2,3 |
-| Amarillas del rival | 2,7 | 2,6 | 1,0 | 0,7 |
-| Rojas / partido | 0,10 | 0,00 | 0,14 | 0,00 |
+| Partidos analizados | 11 | 6 | 8 | 4 |
+| Forma (últimos 5) | VVVVE | VVVED | VVDEE | VDED |
+| Balance | 6V 2E 3D | 3V 1E 2D | 2V 2E 4D | 1V 1E 2D |
+| Goles a favor / partido | 1,91 | 2,33 | 1,00 | 0,50 |
+| Goles en contra / partido | 1,36 | 1,17 | 1,25 | 0,75 |
+| Goles a favor 1ª parte | 1,09 | 1,17 | 0,50 | 0,00 |
+| Goles a favor 2ª parte | 0,82 | 1,17 | 0,50 | 0,50 |
+| Goles en contra 1ª parte | 0,55 | 0,17 | 0,38 | 0,00 |
+| Goles en contra 2ª parte | 0,82 | 1,00 | 0,88 | 0,75 |
+| Más de 1,5 goles | 73% | 83% | 50% | 25% |
+| Más de 2,5 goles | 73% | 83% | 38% | 25% |
+| Más de 3,5 goles | 55% | 50% | 25% | 0% |
+| Ambos marcan | 55% | 67% | 50% | 25% |
+| Portería a cero | 27% | 17% | 38% | 50% |
+| Se queda sin marcar | 27% | 17% | 25% | 50% |
+| xG a favor | 1,66 | 1,67 | 1,44 | 1,02 |
+| xG en contra | 1,57 | 1,46 | 1,38 | 1,26 |
+| Tiros / partido | 13,9 | 13,8 | 14,4 | 11,5 |
+| Tiros a puerta / partido | 4,9 | 5,8 | 4,5 | 3,0 |
+| Tiros recibidos | 15,0 | 13,8 | 14,0 | 12,5 |
+| Tiros a puerta recibidos | 4,7 | 4,5 | 3,9 | 3,5 |
+| Posesión media % | 46 | 47 | 58 | 55 |
+| Córners a favor | 4,4 | 5,2 | 6,1 | 5,8 |
+| Córners en contra | 4,9 | 4,5 | 4,2 | 3,5 |
+| Córners a favor 1ª parte | 2,9 | 3,5 | 2,9 | 2,0 |
+| Córners a favor 2ª parte | 1,5 | 1,7 | 3,2 | 3,8 |
+| Córners totales del partido | 9,3 | 9,7 | 10,4 | 9,2 |
+| Córners totales 1ª parte | 5,5 | 5,7 | 5,0 | 4,2 |
+| Córners totales 2ª parte | 3,8 | 4,0 | 5,4 | 5,0 |
+| Más de 8,5 córners | 55% | 50% | 62% | 50% |
+| Más de 9,5 córners | 36% | 50% | 62% | 50% |
+| Más de 10,5 córners | 36% | 50% | 38% | 25% |
+| Faltas cometidas | 11,7 | 12,5 | 10,5 | 11,0 |
+| Faltas recibidas | 13,2 | 13,8 | 8,5 | 9,5 |
+| Amarillas propias | 1,9 | 1,8 | 2,0 | 2,2 |
+| Amarillas del rival | 2,8 | 2,8 | 0,9 | 0,5 |
+| Rojas / partido | 0,09 | 0,00 | 0,12 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Aston Villa | Recibe Aston Villa | Tarjetas Aston Villa | Goles Fulham | Recibe Fulham | Tarjetas Fulham |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 2 | 2 | 1 | 1 | 0 |
+| 1-15' | 4 | 2 | 2 | 1 | 1 | 0 |
 | 16-30' | 2 | 3 | 2 | 1 | 0 | 1 |
-| 31-45' | 6 | 1 | 4 | 2 | 2 | 3 |
-| 46-60' | 0 | 3 | 1 | 2 | 2 | 3 |
+| 31-45' | 6 | 1 | 4 | 2 | 2 | 4 |
+| 46-60' | 1 | 4 | 3 | 2 | 2 | 3 |
 | 61-75' | 5 | 1 | 1 | 1 | 1 | 0 |
-| 76-90' | 3 | 5 | 8 | 0 | 4 | 8 |
+| 76-90' | 3 | 5 | 10 | 1 | 4 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -113,33 +113,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Aston Villa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | casa | 4-7 | 8 (2) - 15 (7) | 4-4 |
 | 2026-10-21 | Champions League | Aston Villa 3-1 Viking | casa | 8-6 | 21 (10) - 10 (3) | 0-0 |
 | 2026-10-17 | Premier League | Newcastle 0-1 Aston Villa | fuera | 5-4 | 15 (3) - 16 (1) | 2-6 |
 | 2026-10-14 | Champions League | Aston Villa 6-0 Fenerbahçe | casa | 9-7 | 20 (11) - 15 (4) | 0-2 |
 | 2026-10-10 | Premier League | Aston Villa 2-2 Brentford | casa | 2-2 | 20 (7) - 14 (4) | 2-5 |
 | 2026-09-19 | Premier League | Tottenham 2-3 Aston Villa | fuera | 1-11 | 15 (6) - 20 (7) | 2-1 |
-| 2026-09-12 | Premier League | Aston Villa 1-2 Nottingham Forest | casa | 6-1 | 7 (5) - 22 (7) | 2-5 |
 
 ## Jugadores de Aston Villa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| V. Lindelöf | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
-| J.  McGinn | M | 10 | 841 | 2 | 2 | 13 | 1,3 | 6 | 0,6 | 13 | 24 | 2,4 | 3 | 0 |
-| Z. Suzuki | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
-| B. Kamara | M | 9 | 765 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 16 | 18 | 2,0 | 0 | 0 |
-| E. Buendía | M | 9 | 698 | 3 | 0 | 21 | 2,3 | 7 | 0,8 | 9 | 17 | 1,9 | 1 | 0 |
-| N. Jackson | F | 9 | 698 | 5 | 0 | 25 | 2,8 | 13 | 1,4 | 3 | 6 | 0,7 | 2 | 0 |
-| M. Cash | D | 8 | 588 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 13 | 9 | 1,1 | 3 | 0 |
+| V. Lindelöf | D | 11 | 990 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
+| J.  McGinn | M | 11 | 907 | 2 | 3 | 13 | 1,2 | 6 | 0,5 | 13 | 26 | 2,4 | 3 | 0 |
+| Z. Suzuki | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
+| B. Kamara | M | 10 | 855 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 21 | 20 | 2,0 | 0 | 0 |
+| N. Jackson | F | 10 | 780 | 7 | 0 | 28 | 2,8 | 15 | 1,5 | 4 | 9 | 0,9 | 2 | 0 |
+| E. Buendía | M | 10 | 722 | 3 | 0 | 21 | 2,1 | 7 | 0,7 | 10 | 17 | 1,7 | 2 | 0 |
+| M. Cash | D | 9 | 678 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 17 | 10 | 1,1 | 4 | 0 |
+| Pau Torres | D | 8 | 562 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 2 | 2 | 0,2 | 0 | 0 |
+| R. Barkley | M | 11 | 548 | 3 | 1 | 9 | 0,8 | 5 | 0,5 | 10 | 9 | 0,8 | 0 | 0 |
+| João Gomes | M | 8 | 547 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 11 | 11 | 1,4 | 3 | 1 |
 | T. Mings | D | 7 | 531 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 4 | 0,6 | 1 | 0 |
-| R. Barkley | M | 10 | 524 | 3 | 1 | 9 | 0,9 | 5 | 0,5 | 9 | 9 | 0,9 | 0 | 0 |
-| Pau Torres | D | 7 | 472 | 0 | 2 | 2 | 0,3 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
-| João Gomes | D | 7 | 465 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 10 | 10 | 1,4 | 3 | 1 |
+| I. Maatsen | D | 6 | 510 | 0 | 0 | 7 | 1,2 | 1 | 0,2 | 7 | 1 | 0,2 | 2 | 0 |
 | A. Wan-Bissaka | D | 8 | 436 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,2 | 0 | 0 |
-| Ian Maatsen | D | 5 | 420 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 5 | 0 | 0,0 | 2 | 0 |
 | George Hemmings | M | 7 | 404 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 8 | 4 | 0,6 | 0 | 0 |
-| J. Manzambi | M | 5 | 330 | 3 | 2 | 11 | 2,2 | 5 | 1,0 | 0 | 8 | 1,6 | 0 | 0 |
-| Alysson Edward | M | 9 | 257 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 4 | 0,4 | 2 | 0 |
-| I. Mbaye | M | 6 | 237 | 0 | 2 | 10 | 1,7 | 5 | 0,8 | 3 | 1 | 0,2 | 0 | 0 |
+| J. Manzambi | M | 6 | 396 | 3 | 2 | 12 | 2,0 | 5 | 0,8 | 0 | 11 | 1,8 | 1 | 0 |
+| Alysson Edward | M | 10 | 316 | 1 | 1 | 6 | 0,6 | 2 | 0,2 | 9 | 5 | 0,5 | 2 | 0 |
+| I. Mbaye | F | 7 | 268 | 0 | 3 | 10 | 1,4 | 5 | 0,7 | 3 | 1 | 0,1 | 0 | 0 |
 | Matteo Ruggeri | D | 4 | 158 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 | T. Abraham | F | 7 | 125 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 1 | 0 | 0,0 | 0 | 0 |
 | Marco Bizot | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
@@ -147,74 +147,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Fulham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Premier League | Coventry 0-1 Fulham | fuera | 6-4 | 12 (3) - 13 (2) | 2-0 |
 | 2026-10-17 | Premier League | Fulham 1-0 Hull City | casa | 10-2 | 18 (6) - 5 (0) | 2-2 |
 | 2026-10-10 | Premier League | Ipswich 2-1 Fulham | fuera | 5-2 | 13 (5) - 11 (5) | 4-2 |
 | 2026-09-20 | Premier League | Fulham 1-1 Manchester United | casa | 3-13 | 12 (6) - 29 (6) | 3-0 |
 | 2026-09-12 | Premier League | Liverpool 0-0 Fulham | fuera | 8-5 | 10 (4) - 14 (3) | 1-0 |
 | 2026-09-05 | Premier League | Fulham 2-3 Crystal Palace | casa | 7-1 | 25 (6) - 10 (5) | –-– |
-| 2026-08-30 | Premier League | Sunderland 1-0 Fulham | fuera | 4-3 | 11 (0) - 12 (4) | 2-0 |
 
 ## Jugadores de Fulham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Bernd Leno | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Calvin Bassey | D | 7 | 630 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 8 | 10 | 1,4 | 2 | 0 |
-| Gonzalo García | F | 7 | 599 | 1 | 0 | 11 | 1,6 | 4 | 0,6 | 9 | 3 | 0,4 | 0 | 0 |
-| Alex Iwobi | M | 7 | 588 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 2 | 3 | 0,4 | 0 | 0 |
-| Josh King | M | 7 | 581 | 2 | 0 | 13 | 1,9 | 9 | 1,3 | 7 | 12 | 1,7 | 3 | 0 |
-| Sander Berge | M | 7 | 532 | 0 | 1 | 2 | 0,3 | 2 | 0,3 | 4 | 1 | 0,1 | 1 | 0 |
-| Antonee Robinson | D | 6 | 521 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
-| Oscar Bobb | M | 7 | 502 | 0 | 0 | 7 | 1,0 | 2 | 0,3 | 2 | 10 | 1,4 | 0 | 0 |
-| Timothy Castagne | D | 6 | 500 | 0 | 1 | 4 | 0,7 | 2 | 0,3 | 10 | 5 | 0,8 | 2 | 0 |
-| Shea Charles | M | 7 | 465 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 4 | 0,6 | 0 | 0 |
-| David Affengruber | D | 4 | 360 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 1 | 0,2 | 0 | 0 |
-| César Palacios | M | 5 | 241 | 1 | 0 | 6 | 1,2 | 2 | 0,4 | 6 | 0 | 0,0 | 1 | 0 |
+| C. Bassey | D | 8 | 720 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 10 | 13 | 1,6 | 2 | 0 |
+| B. Leno | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Gonzalo García | F | 8 | 673 | 1 | 0 | 13 | 1,6 | 4 | 0,5 | 9 | 3 | 0,4 | 0 | 0 |
+| A. Iwobi | M | 8 | 662 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 2 | 3 | 0,4 | 0 | 0 |
+| Joshua King | M | 8 | 662 | 2 | 1 | 17 | 2,1 | 10 | 1,2 | 7 | 12 | 1,5 | 3 | 0 |
+| A. Robinson | D | 7 | 611 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 9 | 5 | 0,7 | 1 | 0 |
+| T. Castagne | D | 7 | 590 | 0 | 1 | 5 | 0,7 | 2 | 0,3 | 11 | 5 | 0,7 | 2 | 0 |
+| Oscar Bobb | M | 8 | 583 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 2 | 10 | 1,2 | 0 | 0 |
+| S. Berge | M | 8 | 559 | 0 | 1 | 2 | 0,2 | 2 | 0,2 | 4 | 1 | 0,1 | 1 | 0 |
+| S. Charles | M | 8 | 555 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 7 | 0,9 | 1 | 0 |
+| D. Affengruber | D | 5 | 450 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 1 | 0,2 | 0 | 0 |
+| César Palacios | M | 6 | 257 | 1 | 0 | 6 | 1,0 | 2 | 0,3 | 6 | 0 | 0,0 | 1 | 0 |
 | Joachim Andersen | D | 3 | 190 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
 | Ryan Sessegnon | M | 5 | 156 | 1 | 0 | 5 | 1,0 | 2 | 0,4 | 1 | 0 | 0,0 | 0 | 1 |
-| Kenny Tete | D | 2 | 117 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| K. Tete | D | 3 | 126 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,3 | 1 | 0 |
+| H. Larsson | M | 5 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Jorge Cuenca | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Kevin | F | 5 | 80 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 3 | 1 | 0,2 | 0 | 0 |
-| Rodrigo Muniz | F | 5 | 57 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 1 | 1 | 0,2 | 1 | 0 |
+| Rodrigo Muniz | F | 6 | 73 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 1 | 2 | 0,3 | 1 | 0 |
 | Emile Smith Rowe | M | 4 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| Hugo Larsson | M | 4 | 47 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 1,02 · córners esperados 9,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,84 · visitante 0,96 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 27% | 23% | 3.50 | -20% |
-| 1X2: X | 21% | 28% | 24% | 3.40 | -17% |
-| 1X2: 1 | 60% | 46% | 53% | 2.05 | +8% |
-| Doble oportunidad: X2 | 40% | 54% | 47% | 1.73 | -18% |
-| Doble oportunidad: 12 | 79% | 72% | 75% | 1.30 | -2% |
+| 1X2: 2 | 19% | 27% | 23% | 3.50 | -19% |
+| 1X2: X | 23% | 28% | 25% | 3.40 | -15% |
+| 1X2: 1 ✅ | 58% | 46% | 52% | 2.05 | +6% |
+| Doble oportunidad: X2 | 42% | 54% | 48% | 1.73 | -17% |
+| Doble oportunidad: 12 | 77% | 72% | 75% | 1.30 | -3% |
 | Doble oportunidad: 1X | 81% | 73% | 77% | 1.28 | -1% |
-| Ambos marcan: No | 45% | 42% | 44% | 2.20 | -4% |
-| Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
-| Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 58% | 55% | 56% | 1.73 | -2% |
-| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -10% |
-| Goles más/menos: Menos de 2.5 | 42% | 45% | 44% | 2.10 | -8% |
-| Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 86% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del local: Más de 2.5 | 32% | 23% | 28% | 4.00 | +11% |
-| Goles del local: Menos de 0.5 | 14% | 21% | 17% | 4.50 | -22% |
-| Goles del local: Menos de 1.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Goles del local: Menos de 2.5 | 68% | 77% | 72% | 1.22 | -12% |
-| Goles del visitante: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Goles del visitante: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del visitante: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +6% |
-| Goles del visitante: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| 1X2 descanso: 2 | 18% | 25% | 21% | 3.75 | -20% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
-| 1X2 descanso: 1 | 43% | 35% | 39% | 2.62 | +3% |
+| Ambos marcan: No | 48% | 42% | 45% | 2.20 | -0% |
+| Ambos marcan: Sí | 52% | 58% | 55% | 1.62 | -11% |
+| Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
+| Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -7% |
+| Goles más/menos: Más de 3.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
+| Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
+| Goles más/menos: Menos de 3.5 | 69% | 66% | 68% | 1.44 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 35% | 34% | 2.62 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
+| Goles del local: Más de 0.5 | 84% | 79% | 82% | 1.18 | -4% |
+| Goles del local: Más de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
+| Goles del local: Más de 2.5 | 28% | 23% | 26% | 4.00 | +3% |
+| Goles del local: Menos de 0.5 | 16% | 21% | 18% | 4.50 | -17% |
+| Goles del local: Menos de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
+| Goles del local: Menos de 2.5 | 72% | 77% | 74% | 1.22 | -9% |
+| Goles del visitante: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
+| Goles del visitante: Menos de 0.5 ✅ | 38% | 29% | 34% | 3.25 | +10% |
+| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
+| 1X2 descanso: 2 | 18% | 25% | 21% | 3.75 | -21% |
+| 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -6% |
+| 1X2 descanso: 1 | 41% | 35% | 38% | 2.62 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

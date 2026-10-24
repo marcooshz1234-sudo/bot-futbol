@@ -12,16 +12,54 @@
     ]
   },
   {
+    "id": "2026-10-25-escalera",
+    "fecha": "2026-10-25T11:00",
+    "texto": "🪜 RETO ESCALERA · DÍA 1/7 🍀\n\n❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅1. Más de 1,5 goles en Udinese–AC Milan · 1,28\n✅2. Más de 2,5 goles en Auxerre–Le Mans · 1,73\n\n🎯 Cuota 2,21 · 20,00€ → 44,20€\n\n20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Llegamos al día 7?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550166|Goals Over/Under|Over 1.5",
+      "1552793|Goals Over/Under|Over 2.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-combi-segura",
+    "fecha": "2026-10-27T12:00",
+    "texto": "🔒 COMBI SEGURA DEL MARTES 🔒\n\n✅1. No hay empate en Torino–Como · 1,28\n✅2. No hay empate en Sassuolo–Lazio · 1,30\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 No hay empate en Torino–Como → Torino 7/8 · Como 9/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550175|Double Chance|Home/Away",
+      "1550174|Double Chance|Home/Away"
+    ]
+  },
+  {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. No hay empate en Monza–Napoli · 1,28\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 6/7 · Udinese 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Monza marca · 1,40\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 6/7 · Udinese 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550173|Goals Over/Under - Second Half|Over 0.5",
-      "1550172|Double Chance|Home/Away",
+      "1550172|Total - Home|Over 0.5",
       "1550171|Goals Over/Under|Over 1.5",
+      "1550176|Match Winner|Away"
+    ]
+  },
+  {
+    "id": "2026-10-28-combi-cuota_3",
+    "fecha": "2026-10-28T11:00",
+    "texto": "💥 COMBINADA CUOTA 3 DEL MIÉRCOLES 💥\n\n✅1. Monza marca · 1,40\n✅2. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅3. No hay empate en Parma–Udinese · 1,36\n✅4. Gana el Inter · 1,33\n\n🎯 Cuota total: 3,37\n💶 10€ → 33,70€\n\n📊 No hay empate en Parma–Udinese → Parma 6/7 · Udinese 6/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550172|Total - Home|Over 0.5",
+      "1550171|Goals Over/Under|Over 1.5",
+      "1550173|Double Chance|Home/Away",
       "1550176|Match Winner|Away"
     ]
   },
@@ -35,20 +73,6 @@
     "sel": [
       "1550173|Goals Over/Under - Second Half|Over 0.5",
       "1550172|Double Chance|Home/Away"
-    ]
-  },
-  {
-    "id": "2026-10-28-picks-hoy",
-    "fecha": "2026-10-28T17:30",
-    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. No hay empate en Parma–Udinese · 1,36\n✅2. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅3. Monza marca · 1,40\n✅4. Gana el Inter · 1,33\n\n📊 No hay empate en Parma–Udinese → Parma 6/7 · Udinese 6/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550173|Double Chance|Home/Away",
-      "1550171|Goals Over/Under|Over 1.5",
-      "1550172|Total - Home|Over 0.5",
-      "1550176|Match Winner|Away"
     ]
   },
   {
@@ -66,7 +90,7 @@
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. Lorient marca · 1,28\n✅3. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅4. No hay empate en Coventry–Sunderland · 1,33\n✅5. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅6. Brentford o empate · 1,28\n✅7. Hull City marca · 1,25\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/6 · SC Freiburg 10/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. Lorient marca · 1,28\n✅3. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅4. No hay empate en Coventry–Sunderland · 1,33\n✅5. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅6. Brentford o empate · 1,28\n✅7. Hull City marca · 1,25\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 10/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -83,7 +107,7 @@
   {
     "id": "2026-10-31-combi-segura",
     "fecha": "2026-10-31T12:00",
-    "texto": "🔒 COMBI SEGURA DEL SÁBADO 🔒\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. No hay empate en Coventry–Sunderland · 1,33\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/6 · SC Freiburg 10/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔒 COMBI SEGURA DEL SÁBADO 🔒\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. No hay empate en Coventry–Sunderland · 1,33\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 10/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -95,7 +119,7 @@
   {
     "id": "2026-10-31-picks-hoy",
     "fecha": "2026-10-31T17:30",
-    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Lorient marca · 1,28\n✅2. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅3. Gol en la 1ª parte del Lyon–Angers · 1,25\n✅4. Alaves marca · 1,73\n\n📊 Lorient marca → Lorient 6/7 · Stade Brestois 29 (en contra) 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 5 PICKS PARA HOY 🔥\n\n✅1. Lorient marca · 1,28\n✅2. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅3. Gol en la 1ª parte del Lyon–Angers · 1,25\n✅4. No hay empate en Aston Villa–Fulham · 1,30\n✅5. Alaves marca · 1,73\n\n📊 Lorient marca → Lorient 6/7 · Stade Brestois 29 (en contra) 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -103,7 +127,34 @@
       "1552803|Total - Home|Over 0.5",
       "1552809|Goals Over/Under|Over 1.5",
       "1552804|Goals Over/Under First Half|Over 0.5",
+      "1557447|Double Chance|Home/Away",
       "1570434|Total - Away|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-11-01-picks-manana",
+    "fecha": "2026-10-31T23:00",
+    "texto": "🔥 4 PICKS PARA MAÑANA (DOMINGO) 🔥\n\n✅1. Auxerre marca · 1,33\n✅2. Sevilla marca · 1,44\n✅3. No hay empate en Liverpool–Arsenal · 1,30\n✅4. Racing Santander marca · 1,40\n\n📊 Auxerre marca → Strasbourg (en contra) 7/7 · Auxerre 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552808|Total - Away|Over 0.5",
+      "1570438|Total - Away|Over 0.5",
+      "1557453|Double Chance|Home/Away",
+      "1570440|Total - Home|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-11-01-combi-segura",
+    "fecha": "2026-11-01T12:00",
+    "texto": "🔒 COMBI SEGURA DEL DOMINGO 🔒\n\n✅1. Auxerre marca · 1,33\n✅2. No hay empate en Liverpool–Arsenal · 1,30\n\n🎯 Cuota total: 1,73\n💶 10€ → 17,30€\n\n📊 Auxerre marca → Strasbourg (en contra) 7/7 · Auxerre 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552808|Total - Away|Over 0.5",
+      "1557453|Double Chance|Home/Away"
     ]
   }
 ]

@@ -1,7 +1,7 @@
 # Manchester United – Bournemouth
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -214,44 +214,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Daniel Jebbison | F | 3 | 38 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,62 · córners esperados 9,1._
+_Goles esperados: local 1,42 · visitante 1,63 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 44% | 31% | 37% | 3.10 | +15% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 32% | 43% | 38% | 2.20 | -17% |
-| Doble oportunidad: X2 | 68% | 57% | 62% | 1.67 | +4% |
+| 1X2: 2 ✅ | 43% | 31% | 37% | 3.10 | +13% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
+| 1X2: 1 | 34% | 43% | 38% | 2.20 | -16% |
+| Doble oportunidad: X2 | 66% | 57% | 62% | 1.67 | +3% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 56% | 70% | 63% | 1.36 | -14% |
-| Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
-| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
-| Goles más/menos: Más de 1.5 | 80% | 79% | 79% | 1.20 | -5% |
-| Goles más/menos: Más de 2.5 | 57% | 57% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 3.5 | 35% | 36% | 36% | 2.62 | -6% |
-| Goles más/menos: Más de 4.5 | 18% | 21% | 20% | 4.50 | -11% |
-| Goles más/menos: Menos de 1.5 | 20% | 21% | 21% | 4.50 | -8% |
-| Goles más/menos: Menos de 2.5 | 43% | 43% | 43% | 2.20 | -6% |
-| Goles más/menos: Menos de 3.5 | 65% | 64% | 64% | 1.50 | -4% |
-| Goles más/menos: Menos de 4.5 | 82% | 79% | 80% | 1.20 | -4% |
+| Doble oportunidad: 1X | 57% | 70% | 63% | 1.36 | -14% |
+| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
+| Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
+| Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
+| Goles más/menos: Más de 2.5 | 59% | 57% | 58% | 1.67 | -3% |
+| Goles más/menos: Más de 3.5 | 37% | 36% | 36% | 2.62 | -4% |
+| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -9% |
+| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 41% | 43% | 42% | 2.20 | -7% |
+| Goles más/menos: Menos de 3.5 | 63% | 64% | 64% | 1.50 | -5% |
+| Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 38% | 2.38 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 62% | 1.53 | -5% |
-| Goles del local: Más de 0.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles del local: Más de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles del local: Más de 2.5 | 16% | 25% | 20% | 3.75 | -23% |
-| Goles del local: Menos de 0.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles del local: Menos de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles del local: Menos de 2.5 | 84% | 75% | 80% | 1.25 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
+| Goles del local: Más de 0.5 | 76% | 79% | 78% | 1.18 | -8% |
+| Goles del local: Más de 1.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Goles del local: Más de 2.5 | 17% | 25% | 21% | 3.75 | -21% |
+| Goles del local: Menos de 0.5 | 24% | 21% | 22% | 4.50 | +1% |
+| Goles del local: Menos de 1.5 | 58% | 50% | 54% | 1.83 | -1% |
+| Goles del local: Menos de 2.5 | 83% | 75% | 79% | 1.25 | -1% |
 | Goles del visitante: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del visitante: Más de 1.5 | 48% | 41% | 45% | 2.25 | +1% |
+| Goles del visitante: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
 | Goles del visitante: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -19% |
-| Goles del visitante: Menos de 1.5 | 52% | 59% | 55% | 1.57 | -13% |
+| Goles del visitante: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -13% |
 | Córners más/menos: Más de 10.5 | 34% | 44% | 39% | 2.10 | -18% |
 | Córners más/menos: Menos de 10.5 | 66% | 56% | 61% | 1.67 | +2% |
-| 1X2 descanso: 2 | 33% | 27% | 30% | 3.50 | +5% |
+| 1X2 descanso: 2 | 33% | 27% | 30% | 3.50 | +4% |
 | 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -5% |
-| 1X2 descanso: 1 | 26% | 34% | 30% | 2.75 | -17% |
+| 1X2 descanso: 1 | 27% | 34% | 31% | 2.75 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -180,32 +180,32 @@ _Sin bajas comunicadas por ahora._
 | Juan Berrocal | D | 3 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,32 · visitante 0,82 · córners esperados 10,1._
+_Goles esperados: local 2,33 · visitante 0,82 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 12% | 13% | 12% | 7.00 | -13% |
-| 1X2: X | 17% | 20% | 18% | 4.75 | -12% |
-| 1X2: 1 | 71% | 67% | 69% | 1.38 | -5% |
+| 1X2: 2 | 11% | 13% | 12% | 7.00 | -14% |
+| 1X2: X | 17% | 20% | 18% | 4.75 | -13% |
+| 1X2: 1 | 71% | 67% | 69% | 1.38 | -4% |
 | Doble oportunidad: X2 | 29% | 32% | 30% | 3.00 | -9% |
 | Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 88% | 87% | 88% | 1.10 | -3% |
+| Doble oportunidad: 1X | 89% | 87% | 88% | 1.10 | -3% |
 | Ambos marcan: No | 50% | 45% | 47% | 2.05 | -3% |
 | Ambos marcan: Sí | 50% | 55% | 53% | 1.70 | -11% |
 | Goles más/menos: Más de 2.5 | 61% | 64% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 3.5 | 38% | 41% | 40% | 2.30 | -8% |
-| Goles más/menos: Más de 4.5 | 21% | 24% | 22% | 4.00 | -11% |
+| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -8% |
+| Goles más/menos: Más de 4.5 | 21% | 24% | 22% | 4.00 | -10% |
 | Goles más/menos: Menos de 2.5 | 39% | 36% | 38% | 2.62 | -1% |
-| Goles más/menos: Menos de 3.5 | 62% | 59% | 60% | 1.62 | -3% |
+| Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
 | Goles más/menos: Menos de 4.5 | 79% | 76% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 42% | 40% | 2.20 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 58% | 60% | 1.62 | -4% |
-| Goles del local: Más de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
+| Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Goles del local: Más de 2.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -9% |
-| Goles del local: Menos de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
+| Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
 | Goles del local: Menos de 2.5 | 59% | 58% | 58% | 1.62 | -6% |
 | Goles del local: Menos de 3.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del visitante: Más de 0.5 | 56% | 61% | 58% | 1.53 | -11% |

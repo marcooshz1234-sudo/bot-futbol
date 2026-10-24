@@ -1,7 +1,7 @@
 # Lyon – Angers
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Groupama Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -181,7 +181,7 @@ _Sin bajas comunicadas por ahora._
 | Louis Mouton | M | 3 | 78 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,36 · visitante 0,86 · córners esperados 10,3._
+_Goles esperados: local 2,35 · visitante 0,86 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -197,19 +197,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -6% |
 | Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
 | Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 42% | 41% | 42% | 2.25 | -7% |
+| Goles del local: Más de 2.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -7% |
 | Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 2.5 | 58% | 59% | 58% | 1.57 | -8% |
+| Goles del local: Menos de 2.5 | 58% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Menos de 3.5 | 79% | 78% | 79% | 1.20 | -6% |
 | Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -7% |
 | Goles del visitante: Más de 1.5 | 21% | 23% | 22% | 4.00 | -11% |

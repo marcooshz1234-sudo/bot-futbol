@@ -1,7 +1,7 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -185,43 +185,43 @@ _Sin bajas comunicadas por ahora._
 | Lucas Digne | D | 4 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 2,47 · córners esperados 9,1._
+_Goles esperados: local 0,95 · visitante 2,48 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 71% | 75% | 73% | 1.25 | -9% |
-| 1X2: X | 17% | 15% | 16% | 6.25 | -0% |
-| 1X2: 1 | 13% | 9% | 11% | 10.00 | +10% |
-| Doble oportunidad: X2 | 87% | 90% | 89% | 1.06 | -6% |
+| 1X2: X | 17% | 15% | 16% | 6.25 | -1% |
+| 1X2: 1 | 12% | 9% | 11% | 10.00 | +10% |
+| Doble oportunidad: X2 | 88% | 90% | 89% | 1.06 | -6% |
 | Doble oportunidad: 12 | 83% | 85% | 84% | 1.12 | -6% |
-| Doble oportunidad: 1X | 29% | 25% | 27% | 3.75 | +3% |
+| Doble oportunidad: 1X | 29% | 25% | 27% | 3.75 | +2% |
 | Ambos marcan: No | 44% | 45% | 45% | 2.05 | -9% |
 | Ambos marcan: Sí | 56% | 55% | 55% | 1.70 | -6% |
-| Goles más/menos: Más de 2.5 | 66% | 72% | 69% | 1.33 | -8% |
-| Goles más/menos: Más de 3.5 | 45% | 53% | 49% | 1.80 | -13% |
+| Goles más/menos: Más de 2.5 | 67% | 72% | 69% | 1.33 | -8% |
+| Goles más/menos: Más de 3.5 | 45% | 53% | 49% | 1.80 | -12% |
 | Goles más/menos: Más de 4.5 | 26% | 34% | 30% | 2.75 | -17% |
 | Goles más/menos: Más de 5.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles más/menos: Menos de 2.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles más/menos: Menos de 3.5 | 55% | 47% | 51% | 2.00 | +3% |
-| Goles más/menos: Menos de 4.5 | 74% | 66% | 70% | 1.44 | +1% |
+| Goles más/menos: Menos de 2.5 | 33% | 28% | 31% | 3.40 | +4% |
+| Goles más/menos: Menos de 3.5 | 55% | 47% | 51% | 2.00 | +2% |
+| Goles más/menos: Menos de 4.5 | 74% | 66% | 70% | 1.44 | +0% |
 | Goles más/menos: Menos de 5.5 | 87% | 79% | 83% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 50% | 46% | 1.83 | -15% |
 | Goles 1ª parte más/menos: Más de 2.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 50% | 54% | 1.83 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles del local: Más de 0.5 | 61% | 58% | 59% | 1.62 | -4% |
+| Goles del local: Más de 0.5 | 61% | 58% | 60% | 1.62 | -4% |
 | Goles del local: Más de 1.5 | 25% | 23% | 24% | 4.00 | -4% |
-| Goles del local: Menos de 0.5 | 39% | 42% | 41% | 2.20 | -11% |
+| Goles del local: Menos de 0.5 | 39% | 42% | 40% | 2.20 | -11% |
 | Goles del local: Menos de 1.5 | 75% | 77% | 76% | 1.22 | -7% |
 | Goles del visitante: Más de 1.5 | 71% | 77% | 74% | 1.22 | -10% |
 | Goles del visitante: Más de 2.5 | 45% | 54% | 49% | 1.73 | -15% |
 | Goles del visitante: Más de 3.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 1.5 | 29% | 23% | 26% | 4.00 | +6% |
-| Goles del visitante: Menos de 2.5 | 55% | 46% | 51% | 2.00 | +2% |
+| Goles del visitante: Menos de 1.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles del visitante: Menos de 2.5 | 55% | 46% | 51% | 2.00 | +1% |
 | Goles del visitante: Menos de 3.5 | 76% | 66% | 71% | 1.40 | -0% |
 | 1X2 descanso: 2 | 51% | 57% | 54% | 1.62 | -12% |
 | 1X2 descanso: X | 34% | 31% | 33% | 3.00 | -2% |

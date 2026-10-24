@@ -1,7 +1,7 @@
 # Udinese – AC Milan
 **Serie A** · Regular Season - 8 · 25/10/2026 20:45 (hora España) · Bluenergy Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -205,41 +205,41 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | F. Camarda | F | 3 | 73 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 1,93 · córners esperados 8,8._
+_Goles esperados: local 1,07 · visitante 1,97 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 58% | 57% | 57% | 1.67 | -4% |
+| 1X2: 2 | 58% | 57% | 58% | 1.67 | -4% |
 | 1X2: X | 22% | 26% | 24% | 3.70 | -12% |
-| 1X2: 1 | 20% | 17% | 19% | 5.50 | +4% |
-| Doble oportunidad: X2 | 80% | 83% | 81% | 1.14 | -8% |
+| 1X2: 1 | 20% | 17% | 19% | 5.50 | +3% |
+| Doble oportunidad: X2 | 80% | 83% | 81% | 1.14 | -7% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 42% | 44% | 43% | 2.15 | -7% |
-| Ambos marcan: No | 44% | 48% | 46% | 1.95 | -10% |
-| Ambos marcan: Sí | 56% | 52% | 54% | 1.80 | -3% |
-| Goles más/menos: Más de 1.5 | 80% | 75% | 77% | 1.28 | -1% |
-| Goles más/menos: Más de 2.5 | 57% | 50% | 54% | 1.91 | +2% |
-| Goles más/menos: Más de 3.5 | 35% | 30% | 32% | 3.20 | +4% |
-| Goles más/menos: Menos de 1.5 | 20% | 25% | 23% | 3.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 43% | 50% | 46% | 1.91 | -11% |
-| Goles más/menos: Menos de 3.5 | 65% | 70% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del local: Más de 1.5 | 28% | 25% | 27% | 3.75 | +0% |
-| Goles del local: Menos de 0.5 | 35% | 41% | 38% | 2.25 | -15% |
-| Goles del local: Menos de 1.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles del visitante: Más de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles del visitante: Más de 2.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles del visitante: Menos de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles del visitante: Menos de 2.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Córners más/menos: Más de 8.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 8.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Doble oportunidad: 1X | 42% | 44% | 43% | 2.15 | -8% |
+| Ambos marcan: No | 43% | 48% | 46% | 1.95 | -11% |
+| Ambos marcan: Sí | 57% | 52% | 54% | 1.80 | -2% |
+| Goles más/menos: Más de 1.5 | 81% | 75% | 78% | 1.28 | -1% |
+| Goles más/menos: Más de 2.5 | 59% | 50% | 54% | 1.91 | +4% |
+| Goles más/menos: Más de 3.5 | 36% | 30% | 33% | 3.20 | +6% |
+| Goles más/menos: Menos de 1.5 | 19% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Menos de 2.5 | 41% | 50% | 46% | 1.91 | -13% |
+| Goles más/menos: Menos de 3.5 | 64% | 70% | 67% | 1.36 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 0.5 | 66% | 59% | 62% | 1.57 | -2% |
+| Goles del local: Más de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles del local: Menos de 0.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles del local: Menos de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del visitante: Más de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del visitante: Más de 2.5 | 32% | 28% | 30% | 3.40 | +1% |
+| Goles del visitante: Menos de 1.5 | 41% | 46% | 44% | 2.00 | -12% |
+| Goles del visitante: Menos de 2.5 | 68% | 72% | 70% | 1.30 | -8% |
+| Córners más/menos: Más de 8.5 | 49% | 54% | 51% | 1.73 | -12% |
+| Córners más/menos: Menos de 8.5 | 51% | 46% | 49% | 2.00 | -2% |
 | 1X2 descanso: 2 | 42% | 42% | 42% | 2.20 | -7% |
-| 1X2 descanso: X | 40% | 41% | 40% | 2.30 | -8% |
+| 1X2 descanso: X | 39% | 41% | 40% | 2.30 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

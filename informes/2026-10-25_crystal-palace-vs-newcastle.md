@@ -1,7 +1,7 @@
 # Crystal Palace – Newcastle
 **Premier League** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -206,7 +206,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Tino Livramento | D | 2 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,52 · visitante 1,38 · córners esperados 9,2._
+_Goles esperados: local 2,55 · visitante 1,41 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -218,30 +218,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 38% | 67% | 52% | 1.40 | -27% |
 | Doble oportunidad: 12 | 82% | 73% | 78% | 1.28 | -1% |
 | Doble oportunidad: 1X | 80% | 60% | 70% | 1.57 | +10% |
-| Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
-| Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 75% | 60% | 67% | 1.57 | +6% |
-| Goles más/menos: Más de 3.5 | 55% | 41% | 48% | 2.30 | +10% |
-| Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +24% |
-| Goles más/menos: Menos de 2.5 | 25% | 40% | 33% | 2.38 | -23% |
-| Goles más/menos: Menos de 3.5 | 45% | 59% | 52% | 1.62 | -16% |
-| Goles más/menos: Menos de 4.5 | 65% | 78% | 71% | 1.22 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 75% | 78% | 1.25 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 49% | 42% | 46% | 2.20 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 58% | 54% | 1.62 | -12% |
+| Ambos marcan: No | 30% | 35% | 33% | 2.62 | -14% |
+| Ambos marcan: Sí | 70% | 65% | 67% | 1.44 | -3% |
+| Goles más/menos: Más de 2.5 | 76% | 60% | 68% | 1.57 | +7% |
+| Goles más/menos: Más de 3.5 | 56% | 41% | 49% | 2.30 | +12% |
+| Goles más/menos: Más de 4.5 | 36% | 22% | 29% | 4.33 | +26% |
+| Goles más/menos: Menos de 2.5 | 24% | 40% | 32% | 2.38 | -24% |
+| Goles más/menos: Menos de 3.5 | 44% | 59% | 51% | 1.62 | -17% |
+| Goles más/menos: Menos de 4.5 | 64% | 78% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
 | Goles del local: Más de 0.5 | 92% | 77% | 84% | 1.22 | +3% |
 | Goles del local: Más de 1.5 | 72% | 44% | 58% | 2.10 | +22% |
-| Goles del local: Más de 2.5 | 46% | 21% | 33% | 4.50 | +50% |
-| Goles del local: Menos de 0.5 | 8% | 23% | 16% | 4.00 | -37% |
+| Goles del local: Más de 2.5 | 47% | 21% | 34% | 4.50 | +52% |
+| Goles del local: Menos de 0.5 | 8% | 23% | 16% | 4.00 | -38% |
 | Goles del local: Menos de 1.5 | 28% | 56% | 42% | 1.67 | -30% |
-| Goles del local: Menos de 2.5 | 54% | 79% | 67% | 1.18 | -21% |
-| Goles del visitante: Más de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles del visitante: Más de 2.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles del visitante: Menos de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles del visitante: Menos de 2.5 | 84% | 75% | 79% | 1.25 | -1% |
-| Córners más/menos: Más de 9.5 | 42% | 51% | 47% | 1.80 | -16% |
-| Córners más/menos: Menos de 9.5 | 58% | 49% | 53% | 1.91 | +1% |
+| Goles del local: Menos de 2.5 | 53% | 79% | 66% | 1.18 | -22% |
+| Goles del visitante: Más de 1.5 | 41% | 50% | 46% | 1.83 | -17% |
+| Goles del visitante: Más de 2.5 | 17% | 25% | 21% | 3.75 | -21% |
+| Goles del visitante: Menos de 1.5 | 59% | 50% | 54% | 1.83 | -0% |
+| Goles del visitante: Menos de 2.5 | 83% | 75% | 79% | 1.25 | -1% |
+| Córners más/menos: Más de 9.5 | 43% | 51% | 47% | 1.80 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 49% | 53% | 1.91 | +1% |
 | 1X2 descanso: 2 | 20% | 33% | 27% | 2.75 | -27% |
 | 1X2 descanso: X | 33% | 38% | 36% | 2.40 | -15% |
 | 1X2 descanso: 1 | 47% | 29% | 38% | 3.20 | +21% |

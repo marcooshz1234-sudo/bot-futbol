@@ -1,7 +1,7 @@
 # Bologna – Monza
 **Serie A** · Regular Season - 10 · 31/10/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,42 +9,42 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Bologna (total) | Bologna en casa | Monza (total) | Monza fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 8 | 5 |
-| Forma (últimos 5) | DVEDE | DEED | DVDVD | DDDED |
-| Balance | 1V 2E 4D | 0V 2E 2D | 2V 1E 5D | 0V 1E 4D |
-| Goles a favor / partido | 0,86 | 1,00 | 1,88 | 1,40 |
-| Goles en contra / partido | 1,43 | 1,75 | 2,25 | 2,80 |
-| Goles a favor 1ª parte | 0,43 | 0,50 | 0,62 | 0,60 |
-| Goles a favor 2ª parte | 0,43 | 0,50 | 1,25 | 0,80 |
-| Goles en contra 1ª parte | 0,29 | 0,50 | 1,25 | 1,40 |
-| Goles en contra 2ª parte | 1,14 | 1,25 | 1,00 | 1,40 |
-| Más de 1,5 goles | 57% | 75% | 100% | 100% |
-| Más de 2,5 goles | 43% | 50% | 88% | 80% |
-| Más de 3,5 goles | 29% | 50% | 75% | 80% |
-| Ambos marcan | 57% | 75% | 88% | 100% |
-| Portería a cero | 0% | 0% | 12% | 0% |
-| Se queda sin marcar | 43% | 25% | 0% | 0% |
-| xG a favor | 1,27 | 1,40 | 1,68 | 1,62 |
-| xG en contra | 1,34 | 1,64 | 1,31 | 1,19 |
-| Tiros / partido | 12,4 | 14,2 | 13,4 | 12,6 |
-| Tiros a puerta / partido | 3,6 | 3,8 | 5,6 | 5,6 |
-| Tiros recibidos | 13,6 | 14,0 | 13,6 | 12,2 |
-| Tiros a puerta recibidos | 4,3 | 5,0 | 5,4 | 5,0 |
+| Partidos analizados | 8 | 4 | 8 | 5 |
+| Forma (últimos 5) | VDVED | DEED | DVDVD | DDDED |
+| Balance | 2V 2E 4D | 0V 2E 2D | 2V 1E 5D | 0V 1E 4D |
+| Goles a favor / partido | 1,00 | 1,00 | 1,88 | 1,40 |
+| Goles en contra / partido | 1,25 | 1,75 | 2,25 | 2,80 |
+| Goles a favor 1ª parte | 0,38 | 0,50 | 0,62 | 0,60 |
+| Goles a favor 2ª parte | 0,62 | 0,50 | 1,25 | 0,80 |
+| Goles en contra 1ª parte | 0,25 | 0,50 | 1,25 | 1,40 |
+| Goles en contra 2ª parte | 1,00 | 1,25 | 1,00 | 1,40 |
+| Más de 1,5 goles | 62% | 75% | 100% | 100% |
+| Más de 2,5 goles | 38% | 50% | 88% | 80% |
+| Más de 3,5 goles | 25% | 50% | 75% | 80% |
+| Ambos marcan | 50% | 75% | 88% | 100% |
+| Portería a cero | 12% | 0% | 12% | 0% |
+| Se queda sin marcar | 38% | 25% | 0% | 0% |
+| xG a favor | 1,32 | 1,40 | 1,68 | 1,62 |
+| xG en contra | 1,23 | 1,64 | 1,31 | 1,19 |
+| Tiros / partido | 12,1 | 14,2 | 13,4 | 12,6 |
+| Tiros a puerta / partido | 3,8 | 3,8 | 5,6 | 5,6 |
+| Tiros recibidos | 12,4 | 14,0 | 13,6 | 12,2 |
+| Tiros a puerta recibidos | 3,9 | 5,0 | 5,4 | 5,0 |
 | Posesión media % | 48 | 49 | 45 | 46 |
-| Córners a favor | 3,7 | 5,2 | 4,2 | 4,4 |
-| Córners en contra | 6,6 | 6,2 | 4,8 | 4,6 |
-| Córners a favor 1ª parte | 1,7 | 2,5 | 1,8 | 2,0 |
-| Córners a favor 2ª parte | 2,0 | 2,8 | 2,5 | 2,4 |
-| Córners totales del partido | 10,3 | 11,5 | 9,0 | 9,0 |
-| Córners totales 1ª parte | 4,1 | 5,2 | 3,9 | 3,6 |
-| Córners totales 2ª parte | 6,1 | 6,2 | 5,1 | 5,4 |
-| Más de 8,5 córners | 57% | 50% | 62% | 60% |
-| Más de 9,5 córners | 57% | 50% | 38% | 40% |
-| Más de 10,5 córners | 43% | 50% | 25% | 20% |
-| Faltas cometidas | 12,7 | 14,5 | 11,1 | 11,2 |
-| Faltas recibidas | 13,1 | 12,5 | 10,6 | 10,6 |
-| Amarillas propias | 2,0 | 2,8 | 1,4 | 1,0 |
-| Amarillas del rival | 2,1 | 2,8 | 1,6 | 2,0 |
+| Córners a favor | 4,0 | 5,2 | 4,2 | 4,4 |
+| Córners en contra | 5,9 | 6,2 | 4,8 | 4,6 |
+| Córners a favor 1ª parte | 1,6 | 2,5 | 1,8 | 2,0 |
+| Córners a favor 2ª parte | 2,4 | 2,8 | 2,5 | 2,4 |
+| Córners totales del partido | 9,9 | 11,5 | 9,0 | 9,0 |
+| Córners totales 1ª parte | 3,9 | 5,2 | 3,9 | 3,6 |
+| Córners totales 2ª parte | 6,0 | 6,2 | 5,1 | 5,4 |
+| Más de 8,5 córners | 50% | 50% | 62% | 60% |
+| Más de 9,5 córners | 50% | 50% | 38% | 40% |
+| Más de 10,5 córners | 38% | 50% | 25% | 20% |
+| Faltas cometidas | 12,8 | 14,5 | 11,1 | 11,2 |
+| Faltas recibidas | 14,6 | 12,5 | 10,6 | 10,6 |
+| Amarillas propias | 1,9 | 2,8 | 1,4 | 1,0 |
+| Amarillas del rival | 2,2 | 2,8 | 1,6 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,12 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 0 | 0 | 0 | 4 | 1 |
 | 16-30' | 1 | 1 | 0 | 2 | 2 | 1 |
-| 31-45' | 0 | 1 | 5 | 3 | 4 | 2 |
-| 46-60' | 1 | 2 | 3 | 4 | 3 | 1 |
+| 31-45' | 0 | 1 | 6 | 3 | 4 | 2 |
+| 46-60' | 2 | 2 | 3 | 4 | 3 | 1 |
 | 61-75' | 1 | 3 | 2 | 3 | 3 | 3 |
-| 76-90' | 1 | 3 | 4 | 3 | 2 | 4 |
+| 76-90' | 2 | 3 | 4 | 3 | 2 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bologna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Cagliari 0-2 Bologna | fuera | 6-1 | 10 (5) - 4 (1) | 1-3 |
 | 2026-10-17 | Serie A | Bologna 1-3 Inter | casa | 2-6 | 11 (4) - 17 (8) | 4-3 |
 | 2026-10-11 | Serie A | Lecce 1-2 Bologna | fuera | 3-10 | 9 (5) - 19 (5) | 2-3 |
 | 2026-09-19 | Serie A | Bologna 1-1 Torino | casa | 1-6 | 11 (1) - 14 (3) | 0-3 |
 | 2026-09-13 | Serie A | Napoli 1-0 Bologna | fuera | 0-10 | 5 (2) - 14 (3) | 1-0 |
 | 2026-09-06 | Serie A | Bologna 2-2 Sassuolo | casa | 10-7 | 21 (5) - 15 (6) | 3-1 |
-| 2026-08-31 | Serie A | Atalanta 1-0 Bologna | fuera | 2-1 | 16 (3) - 6 (2) | 0-1 |
 
 ## Jugadores de Bologna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Lewis Ferguson | M | 7 | 630 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 15 | 7 | 1,0 | 0 | 0 |
-| Nicolò Cambiaghi | F | 7 | 513 | 0 | 2 | 5 | 0,7 | 1 | 0,1 | 10 | 19 | 2,7 | 1 | 0 |
+| L. Ferguson | M | 8 | 720 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 19 | 9 | 1,1 | 0 | 0 |
+| N. Cambiaghi | F | 8 | 603 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 11 | 28 | 3,5 | 1 | 0 |
+| Juan Miranda | M | 7 | 561 | 0 | 3 | 2 | 0,3 | 1 | 0,1 | 2 | 3 | 0,4 | 1 | 0 |
+| F. Bernardeschi | F | 8 | 551 | 2 | 0 | 16 | 2,0 | 9 | 1,1 | 9 | 11 | 1,4 | 2 | 0 |
+| Ł. Skorupski | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Torbjørn Heggem | D | 6 | 505 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
-| Juan Miranda | M | 6 | 486 | 0 | 2 | 2 | 0,3 | 1 | 0,2 | 2 | 1 | 0,2 | 1 | 0 |
-| Federico Bernardeschi | F | 7 | 463 | 1 | 0 | 12 | 1,7 | 7 | 1,0 | 6 | 7 | 1,0 | 1 | 0 |
-| Łukasz Skorupski | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| T. Pobega | M | 7 | 480 | 1 | 0 | 9 | 1,3 | 2 | 0,3 | 8 | 5 | 0,7 | 1 | 0 |
 | Roberto Piccoli | F | 7 | 450 | 1 | 0 | 8 | 1,1 | 2 | 0,3 | 11 | 13 | 1,9 | 1 | 0 |
-| Tommaso Pobega | M | 6 | 390 | 1 | 0 | 8 | 1,3 | 2 | 0,3 | 8 | 4 | 0,7 | 1 | 0 |
-| Nadir Zortea | M | 5 | 351 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 3 | 2 | 0,4 | 0 | 0 |
-| Arthur Theate | D | 4 | 333 | 0 | 0 | 4 | 1,0 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
+| N. Zortea | M | 6 | 426 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 4 | 2 | 0,3 | 0 | 0 |
+| A. Theate | D | 5 | 423 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 4 | 2 | 0,4 | 1 | 0 |
+| J. Odgaard | F | 6 | 334 | 0 | 0 | 6 | 1,0 | 2 | 0,3 | 6 | 11 | 1,8 | 1 | 0 |
 | Eivind Helland | D | 5 | 300 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
 | Emil Holm | D | 5 | 285 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 6 | 1,2 | 1 | 0 |
-| Jens Odgaard | F | 5 | 259 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 5 | 8 | 1,6 | 1 | 0 |
-| Matteo Darmian | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
-| Nicolò Casale | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
+| N. Casale | D | 3 | 270 | 1 | 0 | 1 | 0,3 | 1 | 0,3 | 1 | 4 | 1,3 | 0 | 0 |
+| M. Darmian | D | 3 | 265 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 | Massimo Pessina | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Riccardo Orsolini | F | 4 | 177 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 3 | 0,8 | 0 | 0 |
-| Rahim Alhassane | D | 3 | 144 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 0 | 0 |
+| R. Alhassane | D | 4 | 159 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
+| M. Amondarain | M | 4 | 110 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 3 | 0,8 | 1 | 0 |
 | Oussama El Azzouzi | M | 2 | 107 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 2 | 2 | 1,0 | 2 | 0 |
-| Nikola Moro | M | 5 | 106 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Últimos partidos de Monza
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Semuel Pizzignacco | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,38 · visitante 1,24 · córners esperados 9,5._
+_Goles esperados: local 1,52 · visitante 1,16 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

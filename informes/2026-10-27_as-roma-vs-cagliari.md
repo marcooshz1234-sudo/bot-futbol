@@ -1,7 +1,7 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -60,53 +60,53 @@ _Actualizadas: 24/10 14:45_
 ## Estadísticas de equipo
 | | AS Roma (total) | AS Roma en casa | Cagliari (total) | Cagliari fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 6 | 7 | 4 |
-| Forma (últimos 5) | VVDEE | VVDEV | DEVVV | DVVV |
-| Balance | 6V 3E 1D | 4V 1E 1D | 4V 1E 2D | 3V 0E 1D |
-| Goles a favor / partido | 2,40 | 2,83 | 0,86 | 1,00 |
-| Goles en contra / partido | 0,80 | 1,17 | 1,00 | 1,25 |
-| Goles a favor 1ª parte | 1,10 | 1,00 | 0,43 | 0,25 |
-| Goles a favor 2ª parte | 1,30 | 1,83 | 0,43 | 0,75 |
-| Goles en contra 1ª parte | 0,10 | 0,17 | 0,43 | 0,50 |
-| Goles en contra 2ª parte | 0,70 | 1,00 | 0,57 | 0,75 |
-| Más de 1,5 goles | 90% | 100% | 43% | 50% |
-| Más de 2,5 goles | 60% | 83% | 29% | 50% |
-| Más de 3,5 goles | 50% | 67% | 14% | 25% |
-| Ambos marcan | 40% | 50% | 29% | 25% |
-| Portería a cero | 60% | 50% | 43% | 50% |
-| Se queda sin marcar | 10% | 0% | 29% | 25% |
-| xG a favor | 2,04 | 2,29 | 1,16 | 1,37 |
-| xG en contra | 1,05 | 0,98 | 1,83 | 1,68 |
-| Tiros / partido | 17,5 | 21,5 | 10,6 | 10,0 |
-| Tiros a puerta / partido | 6,2 | 7,3 | 4,0 | 4,2 |
-| Tiros recibidos | 10,2 | 9,5 | 19,7 | 18,8 |
-| Tiros a puerta recibidos | 3,5 | 3,3 | 5,3 | 4,2 |
-| Posesión media % | 57 | 62 | 41 | 46 |
-| Córners a favor | 5,2 | 6,3 | 4,0 | 3,0 |
-| Córners en contra | 2,9 | 3,2 | 6,3 | 6,0 |
+| Partidos analizados | 11 | 6 | 8 | 4 |
+| Forma (últimos 5) | EVVDE | VVDEV | DDEVV | DVVV |
+| Balance | 6V 4E 1D | 4V 1E 1D | 4V 1E 3D | 3V 0E 1D |
+| Goles a favor / partido | 2,45 | 2,83 | 0,75 | 1,00 |
+| Goles en contra / partido | 1,00 | 1,17 | 1,12 | 1,25 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,38 | 0,25 |
+| Goles a favor 2ª parte | 1,45 | 1,83 | 0,38 | 0,75 |
+| Goles en contra 1ª parte | 0,18 | 0,17 | 0,38 | 0,50 |
+| Goles en contra 2ª parte | 0,82 | 1,00 | 0,75 | 0,75 |
+| Más de 1,5 goles | 91% | 100% | 50% | 50% |
+| Más de 2,5 goles | 64% | 83% | 25% | 50% |
+| Más de 3,5 goles | 55% | 67% | 12% | 25% |
+| Ambos marcan | 45% | 50% | 25% | 25% |
+| Portería a cero | 55% | 50% | 38% | 50% |
+| Se queda sin marcar | 9% | 0% | 38% | 25% |
+| xG a favor | 2,03 | 2,29 | 1,07 | 1,37 |
+| xG en contra | 1,17 | 0,98 | 1,81 | 1,68 |
+| Tiros / partido | 18,1 | 21,5 | 9,8 | 10,0 |
+| Tiros a puerta / partido | 6,0 | 7,3 | 3,6 | 4,2 |
+| Tiros recibidos | 10,6 | 9,5 | 18,5 | 18,8 |
+| Tiros a puerta recibidos | 4,0 | 3,3 | 5,2 | 4,2 |
+| Posesión media % | 58 | 62 | 43 | 46 |
+| Córners a favor | 5,7 | 6,3 | 3,6 | 3,0 |
+| Córners en contra | 2,8 | 3,2 | 6,2 | 6,0 |
 | Córners a favor 1ª parte | 2,6 | 3,0 | 1,4 | 1,2 |
-| Córners a favor 2ª parte | 2,6 | 3,3 | 2,6 | 1,8 |
-| Córners totales del partido | 8,1 | 9,5 | 10,3 | 9,0 |
-| Córners totales 1ª parte | 3,6 | 4,2 | 3,6 | 3,0 |
-| Córners totales 2ª parte | 4,5 | 5,3 | 6,7 | 6,0 |
-| Más de 8,5 córners | 40% | 50% | 71% | 50% |
-| Más de 9,5 córners | 20% | 33% | 57% | 25% |
-| Más de 10,5 córners | 20% | 33% | 43% | 25% |
-| Faltas cometidas | 12,8 | 12,0 | 10,4 | 12,5 |
-| Faltas recibidas | 9,0 | 8,8 | 8,7 | 8,8 |
-| Amarillas propias | 1,8 | 1,7 | 1,3 | 1,0 |
-| Amarillas del rival | 2,0 | 2,2 | 1,1 | 0,8 |
-| Rojas / partido | 0,10 | 0,00 | 0,00 | 0,00 |
+| Córners a favor 2ª parte | 3,1 | 3,3 | 2,2 | 1,8 |
+| Córners totales del partido | 8,5 | 9,5 | 9,9 | 9,0 |
+| Córners totales 1ª parte | 3,6 | 4,2 | 3,4 | 3,0 |
+| Córners totales 2ª parte | 4,9 | 5,3 | 6,5 | 6,0 |
+| Más de 8,5 córners | 45% | 50% | 62% | 50% |
+| Más de 9,5 córners | 27% | 33% | 50% | 25% |
+| Más de 10,5 córners | 27% | 33% | 38% | 25% |
+| Faltas cometidas | 12,6 | 12,0 | 12,2 | 12,5 |
+| Faltas recibidas | 8,7 | 8,8 | 9,2 | 8,8 |
+| Amarillas propias | 2,0 | 1,7 | 1,5 | 1,0 |
+| Amarillas del rival | 1,9 | 2,2 | 1,1 | 0,8 |
+| Rojas / partido | 0,09 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles AS Roma | Recibe AS Roma | Tarjetas AS Roma | Goles Cagliari | Recibe Cagliari | Tarjetas Cagliari |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 0 | 1 | 0 | 1 | 1 |
-| 16-30' | 5 | 1 | 0 | 3 | 0 | 0 |
-| 31-45' | 4 | 0 | 2 | 0 | 2 | 1 |
-| 46-60' | 7 | 3 | 6 | 1 | 1 | 2 |
-| 61-75' | 3 | 0 | 5 | 1 | 1 | 0 |
-| 76-90' | 4 | 4 | 5 | 1 | 2 | 6 |
+| 16-30' | 5 | 2 | 1 | 3 | 0 | 0 |
+| 31-45' | 4 | 0 | 3 | 0 | 2 | 2 |
+| 46-60' | 7 | 4 | 6 | 1 | 2 | 3 |
+| 61-75' | 5 | 0 | 6 | 1 | 1 | 0 |
+| 76-90' | 5 | 5 | 6 | 1 | 3 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -125,105 +125,103 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de AS Roma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Napoli 3-3 AS Roma | fuera | 11-2 | 24 (4) - 15 (9) | 4-1 |
 | 2026-10-20 | Champions League | AS Roma 4-0 Slovan Bratislava | casa | 8-1 | 26 (10) - 1 (0) | 0-3 |
 | 2026-10-17 | Serie A | AS Roma 2-0 Genoa | casa | 5-3 | 15 (5) - 9 (1) | 2-3 |
 | 2026-10-14 | Champions League | AS Roma 3-4 Real Madrid | casa | 5-9 | 14 (7) - 16 (8) | 3-1 |
 | 2026-10-11 | Serie A | Como 0-0 AS Roma | fuera | 2-6 | 9 (2) - 19 (4) | 3-2 |
 | 2026-09-19 | Serie A | AS Roma 2-2 Inter | casa | 4-2 | 18 (4) - 16 (5) | 3-3 |
-| 2026-09-14 | Serie A | Torino 0-2 AS Roma | fuera | 8-1 | 14 (5) - 8 (3) | 2-0 |
 
 ## Jugadores de AS Roma
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Hermoso | D | 10 | 754 | 2 | 0 | 4 | 0,4 | 3 | 0,3 | 9 | 9 | 0,9 | 2 | 0 |
-| Wesley | M | 9 | 671 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 9 | 11 | 1,2 | 1 | 0 |
-| D. Malen | F | 9 | 634 | 9 | 2 | 28 | 3,1 | 16 | 1,8 | 6 | 6 | 0,7 | 1 | 1 |
-| G. Mancini | D | 9 | 632 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 12 | 4 | 0,4 | 1 | 0 |
+| Hermoso | D | 11 | 812 | 2 | 0 | 7 | 0,6 | 3 | 0,3 | 9 | 9 | 0,8 | 2 | 0 |
+| Wesley | M | 10 | 761 | 0 | 2 | 5 | 0,5 | 0 | 0,0 | 10 | 12 | 1,2 | 1 | 0 |
+| D. Malen | F | 10 | 718 | 9 | 3 | 32 | 3,2 | 17 | 1,7 | 7 | 6 | 0,6 | 1 | 1 |
+| G. Mancini | D | 10 | 716 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 12 | 4 | 0,4 | 1 | 0 |
+| M. Soulé | F | 11 | 680 | 3 | 3 | 22 | 2,0 | 11 | 1,0 | 1 | 8 | 0,7 | 2 | 0 |
+| E. Ndicka | D | 8 | 637 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 16 | 6 | 0,8 | 1 | 0 |
 | P. Dybala | M | 8 | 631 | 0 | 4 | 22 | 2,8 | 8 | 1,0 | 4 | 12 | 1,5 | 0 | 0 |
-| M. Soulé | F | 10 | 590 | 2 | 3 | 18 | 1,8 | 10 | 1,0 | 1 | 6 | 0,6 | 2 | 0 |
-| Evan Ndicka | D | 7 | 547 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 15 | 5 | 0,7 | 1 | 0 |
+| B. Cristante | M | 7 | 604 | 1 | 0 | 9 | 1,3 | 2 | 0,3 | 13 | 3 | 0,4 | 2 | 0 |
 | Mile Svilar | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Bryan Cristante | M | 6 | 514 | 1 | 0 | 6 | 1,0 | 2 | 0,3 | 10 | 2 | 0,3 | 1 | 0 |
-| N. Molina | M | 8 | 494 | 1 | 1 | 6 | 0,8 | 2 | 0,2 | 5 | 1 | 0,1 | 0 | 0 |
+| N. Molina | D | 9 | 526 | 1 | 1 | 6 | 0,7 | 2 | 0,2 | 5 | 1 | 0,1 | 0 | 0 |
+| N. Pisilli | M | 10 | 509 | 3 | 0 | 7 | 0,7 | 4 | 0,4 | 6 | 1 | 0,1 | 2 | 0 |
+| M. de Roon | M | 8 | 483 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 0 | 0,0 | 2 | 0 |
 | M. Koné | M | 8 | 481 | 2 | 0 | 6 | 0,8 | 3 | 0,4 | 10 | 7 | 0,9 | 2 | 0 |
-| N. Pisilli | M | 9 | 451 | 3 | 0 | 7 | 0,8 | 4 | 0,4 | 6 | 0 | 0,0 | 2 | 0 |
-| L. Balerdi | D | 8 | 432 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 3 | 0,4 | 0 | 0 |
+| L. Balerdi | D | 9 | 464 | 2 | 0 | 6 | 0,7 | 3 | 0,3 | 9 | 3 | 0,3 | 1 | 0 |
+| P. Gollini | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Emanuele Lulli | M | 6 | 409 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 3 | 4 | 0,7 | 0 | 0 |
-| M. de Roon | M | 7 | 393 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 0 | 0,0 | 1 | 0 |
-| Rodrigo Mora | M | 8 | 385 | 1 | 1 | 12 | 1,5 | 6 | 0,8 | 0 | 2 | 0,2 | 0 | 0 |
-| P. Gollini | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| D. Rensch | D | 6 | 239 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 3 | 0,5 | 1 | 0 |
-| D. Ghilardi | D | 5 | 234 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 5 | 3 | 0,6 | 1 | 0 |
-| S. Castro | F | 6 | 226 | 1 | 0 | 12 | 2,0 | 1 | 0,2 | 11 | 3 | 0,5 | 0 | 0 |
+| Rodrigo Mora | M | 9 | 391 | 1 | 1 | 12 | 1,3 | 6 | 0,7 | 0 | 2 | 0,2 | 0 | 0 |
+| D. Rensch | M | 7 | 297 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,4 | 2 | 0 |
+| S. Castro | F | 7 | 258 | 1 | 1 | 14 | 2,0 | 1 | 0,1 | 11 | 3 | 0,4 | 0 | 0 |
+| D. Ghilardi | D | 6 | 240 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 3 | 0,5 | 1 | 0 |
 
 ## Últimos partidos de Cagliari
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Cagliari 0-2 Bologna | casa | 1-6 | 4 (1) - 10 (5) | 3-1 |
 | 2026-10-19 | Serie A | Monza 4-0 Cagliari | fuera | 7-2 | 16 (5) - 14 (6) | 2-1 |
 | 2026-10-11 | Serie A | Cagliari 1-1 Juventus | casa | 1-9 | 4 (2) - 22 (10) | 2-1 |
 | 2026-09-19 | Serie A | Udinese 0-1 Cagliari | fuera | 1-16 | 5 (2) - 26 (5) | 0-2 |
 | 2026-09-12 | Serie A | Atalanta 1-2 Cagliari | fuera | 2-3 | 5 (5) - 22 (4) | –-– |
 | 2026-09-07 | Serie A | Cagliari 1-0 Lecce | casa | 7-5 | 20 (9) - 10 (3) | 1-3 |
-| 2026-08-30 | Serie A | Cagliari 0-1 Inter | casa | 8-6 | 10 (0) - 31 (7) | 2-1 |
 
 ## Jugadores de Cagliari
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Adopo | M | 7 | 630 | 0 | 2 | 2 | 0,3 | 2 | 0,3 | 3 | 3 | 0,4 | 0 | 0 |
-| E. Caprile | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| A. Obert | D | 7 | 621 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
-| A. Romano | M | 7 | 616 | 1 | 0 | 10 | 1,4 | 5 | 0,7 | 10 | 6 | 0,9 | 0 | 0 |
-| H. Winks | M | 7 | 588 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 9 | 6 | 0,9 | 1 | 0 |
-| Zé Pedro | D | 7 | 561 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 1 | 0,1 | 1 | 0 |
-| J. Rodríguez | D | 7 | 530 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
-| P. Mendy | F | 7 | 520 | 1 | 1 | 10 | 1,4 | 4 | 0,6 | 13 | 7 | 1,0 | 0 | 0 |
-| D. Maldini | M | 7 | 505 | 4 | 0 | 9 | 1,3 | 5 | 0,7 | 5 | 10 | 1,4 | 0 | 0 |
-| A. Deiola | M | 7 | 497 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
+| M. Adopo | M | 8 | 720 | 0 | 2 | 2 | 0,2 | 2 | 0,2 | 7 | 5 | 0,6 | 0 | 0 |
+| E. Caprile | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| A. Obert | D | 8 | 711 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 3 | 4 | 0,5 | 0 | 0 |
+| A. Romano | M | 8 | 691 | 1 | 0 | 10 | 1,2 | 5 | 0,6 | 12 | 6 | 0,8 | 0 | 0 |
+| H. Winks | M | 8 | 633 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 10 | 6 | 0,8 | 1 | 0 |
+| J. Rodríguez | D | 8 | 620 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 2 | 0,2 | 0 | 0 |
+| P. Mendy | F | 8 | 610 | 1 | 1 | 14 | 1,8 | 5 | 0,6 | 16 | 8 | 1,0 | 0 | 0 |
+| Zé Pedro | D | 8 | 606 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
+| A. Deiola | D | 8 | 587 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 3 | 0 |
+| D. Maldini | M | 8 | 572 | 4 | 0 | 9 | 1,1 | 5 | 0,6 | 5 | 11 | 1,4 | 0 | 0 |
 | Y. Mina | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 3 | 2 | 0,7 | 0 | 0 |
 | Jacopo Fazzini | M | 5 | 252 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 3 | 3 | 0,6 | 1 | 0 |
-| A. Fadera | F | 6 | 166 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 3 | 4 | 0,7 | 1 | 0 |
-| Kevin Carlos | F | 4 | 98 | 0 | 0 | 2 | 0,5 | 2 | 0,5 | 2 | 2 | 0,5 | 1 | 0 |
-| Y. Sugawara | D | 4 | 97 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
+| A. Fadera | F | 7 | 181 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 4 | 5 | 0,7 | 1 | 0 |
+| Y. Massolin | M | 2 | 146 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,5 | 0 | 0 |
+| Y. Sugawara | D | 5 | 142 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| Kevin Carlos | F | 5 | 121 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 2 | 2 | 0,4 | 1 | 0 |
 | M&apos;Bala Nzola | F | 2 | 74 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 3 | 1,5 | 0 | 0 |
+| R. Gagliardini | M | 3 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 | Raphael Kofler | D | 3 | 68 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Yanis Massolin | M | 1 | 60 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Mattia Felici | F | 2 | 37 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
-| Gennaro Borrelli | F | 2 | 36 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,28 · visitante 0,58 · córners esperados 9,7._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 2,51 · visitante 0,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 11% | 9% | 9.00 | -17% |
-| 1X2: X | 16% | 20% | 18% | 4.75 | -14% |
-| 1X2: 1 | 76% | 70% | 73% | 1.36 | -1% |
-| Doble oportunidad: X2 | 24% | 32% | 28% | 3.00 | -17% |
-| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 92% | 88% | 90% | 1.07 | -3% |
-| Ambos marcan: No | 60% | 53% | 57% | 1.75 | -0% |
-| Ambos marcan: Sí | 40% | 47% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 54% | 55% | 55% | 1.73 | -6% |
-| Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
-| Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del local: Más de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del local: Más de 2.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles del local: Menos de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del local: Menos de 2.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del visitante: Más de 0.5 | 44% | 51% | 48% | 1.80 | -14% |
-| Goles del visitante: Menos de 0.5 | 56% | 49% | 52% | 1.91 | -0% |
-| Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -7% |
-| Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
-| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -7% |
-| 1X2 descanso: 1 | 53% | 51% | 52% | 1.80 | -6% |
+| 1X2: 2 | 7% | 11% | 9% | 9.00 | -22% |
+| 1X2: X | 14% | 20% | 17% | 4.75 | -19% |
+| 1X2: 1 | 79% | 70% | 74% | 1.36 | +1% |
+| Doble oportunidad: X2 | 21% | 32% | 26% | 3.00 | -21% |
+| Doble oportunidad: 12 | 86% | 80% | 83% | 1.18 | -2% |
+| Doble oportunidad: 1X | 93% | 88% | 91% | 1.07 | -3% |
+| Ambos marcan: No | 59% | 53% | 56% | 1.75 | -2% |
+| Ambos marcan: Sí | 41% | 47% | 44% | 2.00 | -12% |
+| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -3% |
+| Goles más/menos: Más de 2.5 | 60% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | -1% |
+| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -13% |
+| Goles más/menos: Menos de 2.5 | 40% | 45% | 43% | 2.10 | -11% |
+| Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
+| Goles del local: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Más de 2.5 | 46% | 38% | 42% | 2.50 | +4% |
+| Goles del local: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -13% |
+| Goles del visitante: Más de 0.5 | 45% | 51% | 48% | 1.80 | -13% |
+| Goles del visitante: Menos de 0.5 | 55% | 49% | 52% | 1.91 | -1% |
+| Córners más/menos: Más de 9.5 | 49% | 46% | 47% | 2.00 | -5% |
+| Córners más/menos: Menos de 9.5 | 51% | 54% | 53% | 1.73 | -9% |
+| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
+| 1X2 descanso: 1 | 57% | 51% | 54% | 1.80 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

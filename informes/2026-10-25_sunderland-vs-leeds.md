@@ -1,7 +1,7 @@
 # Sunderland – Leeds
 **Premier League** · Regular Season - 8 · 25/10/2026 17:30 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -211,7 +211,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Jean-Mattéo Bahoya | F | 2 | 11 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,27 · visitante 1,16 · córners esperados 9,0._
+_Goles esperados: local 1,26 · visitante 1,16 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -222,31 +222,31 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 39% | 32% | 35% | 3.00 | +6% |
 | Doble oportunidad: X2 | 61% | 69% | 65% | 1.36 | -12% |
 | Doble oportunidad: 12 | 73% | 69% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 66% | 62% | 64% | 1.50 | -3% |
-| Ambos marcan: No | 50% | 48% | 49% | 1.95 | -4% |
-| Ambos marcan: Sí | 50% | 52% | 51% | 1.80 | -9% |
+| Doble oportunidad: 1X | 66% | 62% | 64% | 1.50 | -4% |
+| Ambos marcan: No | 51% | 48% | 49% | 1.95 | -4% |
+| Ambos marcan: Sí | 49% | 52% | 51% | 1.80 | -9% |
 | Goles más/menos: Más de 1.5 | 70% | 70% | 70% | 1.36 | -5% |
-| Goles más/menos: Más de 2.5 | 44% | 45% | 45% | 2.10 | -6% |
-| Goles más/menos: Más de 3.5 | 23% | 25% | 24% | 3.75 | -9% |
+| Goles más/menos: Más de 2.5 | 44% | 45% | 44% | 2.10 | -7% |
+| Goles más/menos: Más de 3.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles más/menos: Menos de 1.5 | 30% | 30% | 30% | 3.20 | -4% |
-| Goles más/menos: Menos de 2.5 | 56% | 55% | 55% | 1.73 | -4% |
+| Goles más/menos: Menos de 2.5 | 56% | 55% | 56% | 1.73 | -4% |
 | Goles más/menos: Menos de 3.5 | 77% | 75% | 76% | 1.28 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 65% | 65% | 1.44 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 29% | 28% | 3.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 35% | 35% | 2.62 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 65% | 64% | 1.44 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 29% | 28% | 3.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles del local: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
 | Goles del local: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles del local: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del local: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles del visitante: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles del visitante: Más de 0.5 | 69% | 72% | 70% | 1.30 | -8% |
 | Goles del visitante: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles del visitante: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
+| Goles del visitante: Menos de 0.5 | 31% | 28% | 30% | 3.40 | +0% |
 | Goles del visitante: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
 | Córners más/menos: Más de 8.5 | 50% | 56% | 53% | 1.67 | -12% |
 | Córners más/menos: Menos de 8.5 | 50% | 44% | 47% | 2.10 | -1% |
 | 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -14% |
 | 1X2 descanso: X | 46% | 44% | 45% | 2.10 | -6% |
-| 1X2 descanso: 1 | 29% | 26% | 28% | 3.50 | -4% |
+| 1X2 descanso: 1 | 28% | 26% | 27% | 3.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

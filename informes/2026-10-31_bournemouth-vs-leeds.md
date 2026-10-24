@@ -1,7 +1,7 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:45_
@@ -179,42 +179,42 @@ _Sin bajas comunicadas por ahora._
 | Jean-Mattéo Bahoya | F | 2 | 11 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 0,89 · córners esperados 9,0._
+_Goles esperados: local 1,52 · visitante 0,90 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 29% | 25% | 3.25 | -17% |
+| 1X2: 2 | 22% | 29% | 26% | 3.25 | -16% |
 | 1X2: X | 26% | 28% | 27% | 3.40 | -9% |
-| 1X2: 1 | 53% | 43% | 48% | 2.20 | +5% |
-| Doble oportunidad: X2 | 47% | 56% | 52% | 1.67 | -13% |
-| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
-| Doble oportunidad: 1X | 78% | 71% | 75% | 1.33 | -1% |
-| Ambos marcan: No | 53% | 44% | 49% | 2.10 | +3% |
-| Ambos marcan: Sí | 47% | 56% | 51% | 1.67 | -15% |
+| 1X2: 1 | 52% | 43% | 47% | 2.20 | +4% |
+| Doble oportunidad: X2 | 48% | 56% | 52% | 1.67 | -13% |
+| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -5% |
+| Doble oportunidad: 1X | 78% | 71% | 74% | 1.33 | -1% |
+| Ambos marcan: No | 54% | 44% | 49% | 2.10 | +3% |
+| Ambos marcan: Sí | 46% | 56% | 51% | 1.67 | -15% |
 | Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
 | Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
 | Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +3% |
+| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +4% |
 | Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
-| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 45% | 46% | 46% | 2.00 | -9% |
+| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -10% |
+| Goles del local: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
 | Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -14% |
+| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -13% |
 | Goles del visitante: Más de 1.5 | 23% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 0.5 | 41% | 29% | 35% | 3.25 | +14% |
+| Goles del visitante: Menos de 0.5 | 41% | 29% | 35% | 3.25 | +13% |
 | Goles del visitante: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
-| 1X2 descanso: 2 | 18% | 25% | 22% | 3.75 | -19% |
+| 1X2 descanso: 2 | 19% | 25% | 22% | 3.75 | -19% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
-| 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -3% |
+| 1X2 descanso: 1 | 36% | 34% | 35% | 2.75 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

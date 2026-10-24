@@ -11,7 +11,8 @@
   "texto": "Samuele Birindelli: 1+ tiros",
   "cuota": 1.33,
   "frecuencia": 1.0,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-2"
  },
  "1550165|Goals Over/Under|Over 1.5": {
   "partido_id": 1550165,
@@ -175,7 +176,8 @@
   "texto": "Espanyol marca",
   "cuota": 1.25,
   "frecuencia": 0.944,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1550159|Total - Away|Over 0.5": {
   "partido_id": 1550159,
@@ -189,7 +191,8 @@
   "texto": "Sassuolo marca",
   "cuota": 1.44,
   "frecuencia": 0.941,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1557438|Double Chance|Home/Away": {
   "partido_id": 1557438,
@@ -203,7 +206,8 @@
   "texto": "No hay empate en Aston Villa–Manchester City",
   "cuota": 1.25,
   "frecuencia": 0.9,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1550159|Both Teams Score|Yes": {
   "partido_id": 1550159,
@@ -217,7 +221,8 @@
   "texto": "Ambos marcan en Como–Sassuolo",
   "cuota": 1.5,
   "frecuencia": 0.882,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1570429|Goals Over/Under|Over 1.5": {
   "partido_id": 1570429,
@@ -231,7 +236,8 @@
   "texto": "Más de 1,5 goles en Rayo Vallecano–Elche",
   "cuota": 1.28,
   "frecuencia": 0.882,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-3"
  },
  "1550158|Total - Home|Over 0.5": {
   "partido_id": 1550158,
@@ -245,7 +251,8 @@
   "texto": "Cagliari marca",
   "cuota": 1.4,
   "frecuencia": 0.857,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-2"
  },
  "1557440|Double Chance|Home/Away": {
   "partido_id": 1557440,
@@ -259,7 +266,8 @@
   "texto": "No hay empate en Coventry–Fulham",
   "cuota": 1.3,
   "frecuencia": 0.857,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1550158|Goals Over/Under - Second Half|Over 0.5": {
   "partido_id": 1550158,
@@ -273,7 +281,8 @@
   "texto": "Gol en la 2ª parte del Cagliari–Bologna",
   "cuota": 1.25,
   "frecuencia": 0.857,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1570428|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1570428,
@@ -287,7 +296,8 @@
   "texto": "Gol en la 1ª parte del Racing Santander–Espanyol",
   "cuota": 1.28,
   "frecuencia": 0.833,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-1"
  },
  "1575202|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1575202,
@@ -301,7 +311,8 @@
   "texto": "Gol en la 1ª parte del SC Paderborn 07–Hamburger SV",
   "cuota": 1.28,
   "frecuencia": 0.833,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1575200|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1575200,
@@ -315,7 +326,8 @@
   "texto": "Gol en la 1ª parte del FSV Mainz 05–Werder Bremen",
   "cuota": 1.25,
   "frecuencia": 0.833,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-3"
  },
  "1552795|Double Chance|Home/Away": {
   "partido_id": 1552795,
@@ -329,6 +341,10 @@
   "texto": "No hay empate en Lens–Paris FC",
   "cuota": 1.28,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550164|Double Chance|Home/Away": {
@@ -343,7 +359,8 @@
   "texto": "No hay empate en Napoli–AS Roma",
   "cuota": 1.33,
   "frecuencia": 0.8,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-3"
  },
  "1550164|Goals Over/Under|Over 1.5": {
   "partido_id": 1550164,
@@ -357,7 +374,8 @@
   "texto": "Más de 1,5 goles en Napoli–AS Roma",
   "cuota": 1.28,
   "frecuencia": 0.8,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-3"
  },
  "1550158|Double Chance|Home/Draw": {
   "partido_id": 1550158,
@@ -371,7 +389,8 @@
   "texto": "Cagliari o empate",
   "cuota": 1.44,
   "frecuencia": 0.786,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-2"
  },
  "1550158|Double Chance|Home/Away": {
   "partido_id": 1550158,
@@ -385,7 +404,8 @@
   "texto": "No hay empate en Cagliari–Bologna",
   "cuota": 1.36,
   "frecuencia": 0.786,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1550162|Match Winner|Home": {
   "partido_id": 1550162,
@@ -399,6 +419,10 @@
   "texto": "Gana el Lazio",
   "cuota": 1.48,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550162|Goals Over/Under|Over 1.5": {
@@ -413,6 +437,10 @@
   "texto": "Más de 1,5 goles en Lazio–Parma",
   "cuota": 1.3,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550159|Total Goals/Both Teams To Score|o/yes 2.5": {
@@ -427,7 +455,8 @@
   "texto": "Ambos marcan y más de 2,5 goles en Como–Sassuolo",
   "cuota": 1.67,
   "frecuencia": 0.765,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1550159|Goals Over/Under|Over 2.5": {
   "partido_id": 1550159,
@@ -441,7 +470,8 @@
   "texto": "Más de 2,5 goles en Como–Sassuolo",
   "cuota": 1.36,
   "frecuencia": 0.765,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1557438|Total Shots|Over 26.5": {
   "partido_id": 1557438,
@@ -455,7 +485,8 @@
   "texto": "Más de 26,5 tiros en Aston Villa–Manchester City",
   "cuota": 1.8,
   "frecuencia": 0.75,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-1"
  },
  "1575198|Home Player Shots|Maximilian Eggestein - 1": {
   "partido_id": 1575198,
@@ -469,6 +500,10 @@
   "texto": "Maximilian Eggestein: 1+ tiros",
   "cuota": 1.4,
   "frecuencia": 1.0,
+  "jugador_id": 2917,
+  "jugador": "Maximilian Eggestein",
+  "campo": "tiros",
+  "n": 1,
   "acierto": null
  },
  "1552797|Away Player Shots|Dilane Bakwa - 1": {
@@ -483,6 +518,10 @@
   "texto": "Dilane Bakwa: 1+ tiros",
   "cuota": 1.25,
   "frecuencia": 1.0,
+  "jugador_id": 129695,
+  "jugador": "Dilane Bakwa",
+  "campo": "tiros",
+  "n": 1,
   "acierto": null
  },
  "1575197|Double Chance|Home/Away": {
@@ -497,6 +536,10 @@
   "texto": "No hay empate en 1899 Hoffenheim–Bayer Leverkusen",
   "cuota": 1.25,
   "frecuencia": 0.944,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550166|Goals Over/Under|Over 1.5": {
@@ -511,6 +554,10 @@
   "texto": "Más de 1,5 goles en Udinese–AC Milan",
   "cuota": 1.28,
   "frecuencia": 0.941,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557446|Goals Over/Under - Second Half|Over 0.5": {
@@ -525,6 +572,10 @@
   "texto": "Gol en la 2ª parte del Sunderland–Leeds",
   "cuota": 1.28,
   "frecuencia": 0.941,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550160|Double Chance|Home/Away": {
@@ -539,6 +590,10 @@
   "texto": "No hay empate en Genoa–Venezia",
   "cuota": 1.3,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557445|Total - Away|Over 0.5": {
@@ -553,6 +608,10 @@
   "texto": "Bournemouth marca",
   "cuota": 1.28,
   "frecuencia": 0.9,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575198|Goals Over/Under|Over 2.5": {
@@ -567,6 +626,10 @@
   "texto": "Más de 2,5 goles en SC Freiburg–Bayern München",
   "cuota": 1.25,
   "frecuencia": 0.895,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557441|Goals Over/Under First Half|Over 0.5": {
@@ -581,6 +644,10 @@
   "texto": "Gol en la 1ª parte del Crystal Palace–Newcastle",
   "cuota": 1.25,
   "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550163|Goals Over/Under|Over 1.5": {
@@ -595,6 +662,10 @@
   "texto": "Más de 1,5 goles en Lecce–Juventus",
   "cuota": 1.25,
   "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552793|Goals Over/Under|Over 2.5": {
@@ -609,6 +680,10 @@
   "texto": "Más de 2,5 goles en Auxerre–Le Mans",
   "cuota": 1.73,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552799|Away Corners Over/Under|Over 3.5": {
@@ -623,6 +698,10 @@
   "texto": "Estac Troyes hace más de 3,5 córners",
   "cuota": 1.62,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552793|Both Teams Score|Yes": {
@@ -637,6 +716,10 @@
   "texto": "Ambos marcan en Auxerre–Le Mans",
   "cuota": 1.62,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552793|Total - Away|Over 0.5": {
@@ -651,6 +734,10 @@
   "texto": "Le Mans marca",
   "cuota": 1.33,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550160|Goals Over/Under|Over 1.5": {
@@ -665,6 +752,10 @@
   "texto": "Más de 1,5 goles en Genoa–Venezia",
   "cuota": 1.3,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552793|Goals Over/Under First Half|Over 0.5": {
@@ -679,6 +770,10 @@
   "texto": "Gol en la 1ª parte del Auxerre–Le Mans",
   "cuota": 1.3,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550160|Goals Over/Under - Second Half|Over 0.5": {
@@ -707,6 +802,10 @@
   "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
   "cuota": 1.8,
   "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552800|Goals Over/Under|Over 2.5": {
@@ -721,6 +820,10 @@
   "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
   "cuota": 1.4,
   "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552800|Total - Away|Over 0.5": {
@@ -735,6 +838,10 @@
   "texto": "Lyon marca",
   "cuota": 1.4,
   "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550161|Goals Over/Under|Over 2.5": {
@@ -749,6 +856,10 @@
   "texto": "Más de 2,5 goles en Inter–Fiorentina",
   "cuota": 1.44,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552798|Goals Over/Under|Over 2.5": {
@@ -763,6 +874,10 @@
   "texto": "Más de 2,5 goles en Rennes–Strasbourg",
   "cuota": 1.44,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552798|Total - Away|Over 0.5": {
@@ -777,6 +892,10 @@
   "texto": "Strasbourg marca",
   "cuota": 1.28,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557446|Total - Away|Over 0.5": {
@@ -791,6 +910,10 @@
   "texto": "Leeds marca",
   "cuota": 1.3,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552800|Both Teams Score|Yes": {
@@ -805,6 +928,10 @@
   "texto": "Ambos marcan en Paris Saint Germain–Lyon",
   "cuota": 1.53,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552797|Goals Over/Under First Half|Over 0.5": {
@@ -819,6 +946,10 @@
   "texto": "Gol en la 1ª parte del Monaco–Lille",
   "cuota": 1.36,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552797|Total - Away|Over 0.5": {
@@ -833,6 +964,10 @@
   "texto": "Lille marca",
   "cuota": 1.36,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552797|Double Chance|Home/Away": {
@@ -847,6 +982,10 @@
   "texto": "No hay empate en Monaco–Lille",
   "cuota": 1.3,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557445|Offsides Total|Over 2.5": {
@@ -861,6 +1000,10 @@
   "texto": "Más de 2,5 fueras de juego en Manchester United–Bournemouth",
   "cuota": 1.67,
   "frecuencia": 0.789,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552793|Total ShotOnGoal|Over 8.5": {
@@ -875,6 +1018,10 @@
   "texto": "Más de 8,5 tiros a puerta en Auxerre–Le Mans",
   "cuota": 1.73,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552792|Double Chance|Home/Away": {
@@ -889,6 +1036,10 @@
   "texto": "No hay empate en Angers–Lorient",
   "cuota": 1.33,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557446|Shots.1x2|Home": {
@@ -917,6 +1068,10 @@
   "texto": "Más de 2,5 goles en Crystal Palace–Newcastle",
   "cuota": 1.57,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552798|Both Teams Score|Yes": {
@@ -931,6 +1086,10 @@
   "texto": "Ambos marcan en Rennes–Strasbourg",
   "cuota": 1.44,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557446|Double Chance|Draw/Away": {
@@ -945,6 +1104,10 @@
   "texto": "Leeds o empate",
   "cuota": 1.36,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550163|Goals Over/Under First Half|Over 0.5": {
@@ -959,6 +1122,10 @@
   "texto": "Gol en la 1ª parte del Lecce–Juventus",
   "cuota": 1.33,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557446|Goals Over/Under|Over 1.5": {
@@ -973,6 +1140,10 @@
   "texto": "Más de 1,5 goles en Sunderland–Leeds",
   "cuota": 1.36,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557445|Double Chance|Draw/Away": {
@@ -987,6 +1158,10 @@
   "texto": "Bournemouth o empate",
   "cuota": 1.67,
   "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557441|Away Team Total Cards|Over 1.5": {
@@ -1001,6 +1176,10 @@
   "texto": "Newcastle ve más de 1,5 tarjetas",
   "cuota": 1.5,
   "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570427|Double Chance|Draw/Away": {
@@ -1015,6 +1194,10 @@
   "texto": "Real Betis o empate",
   "cuota": 1.36,
   "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570431|Goals Over/Under|Over 1.5": {
@@ -1029,6 +1212,10 @@
   "texto": "Más de 1,5 goles en Sevilla–Osasuna",
   "cuota": 1.36,
   "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570431|Double Chance|Home/Away": {
@@ -1043,6 +1230,10 @@
   "texto": "No hay empate en Sevilla–Osasuna",
   "cuota": 1.33,
   "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550175|Total - Home|Over 0.5": {
@@ -1056,7 +1247,11 @@
   "tipo": "goles",
   "texto": "Torino marca",
   "cuota": 1.44,
-  "frecuencia": 0.889,
+  "frecuencia": 0.833,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550174|Double Chance|Draw/Away": {
@@ -1070,7 +1265,11 @@
   "tipo": "resultado",
   "texto": "Lazio o empate",
   "cuota": 1.4,
-  "frecuencia": 0.857,
+  "frecuencia": 0.867,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550175|Goals Over/Under First Half|Over 0.5": {
@@ -1084,7 +1283,11 @@
   "tipo": "goles",
   "texto": "Gol en la 1ª parte del Torino–Como",
   "cuota": 1.33,
-  "frecuencia": 0.833,
+  "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550175|Double Chance|Home/Away": {
@@ -1098,7 +1301,11 @@
   "tipo": "resultado",
   "texto": "No hay empate en Torino–Como",
   "cuota": 1.28,
-  "frecuencia": 0.833,
+  "frecuencia": 0.889,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550174|Double Chance|Home/Away": {
@@ -1112,7 +1319,11 @@
   "tipo": "resultado",
   "texto": "No hay empate en Sassuolo–Lazio",
   "cuota": 1.3,
-  "frecuencia": 0.786,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550175|Both Teams Score|Yes": {
@@ -1141,6 +1352,10 @@
   "texto": "Gol en la 2ª parte del Parma–Udinese",
   "cuota": 1.28,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550171|Goals Over/Under|Over 1.5": {
@@ -1155,6 +1370,10 @@
   "texto": "Más de 1,5 goles en Genoa–Juventus",
   "cuota": 1.33,
   "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550172|Double Chance|Home/Away": {
@@ -1168,7 +1387,11 @@
   "tipo": "resultado",
   "texto": "No hay empate en Monza–Napoli",
   "cuota": 1.28,
-  "frecuencia": 0.889,
+  "frecuencia": 0.833,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550171|Goals Over/Under - Second Half|Over 0.5": {
@@ -1183,6 +1406,10 @@
   "texto": "Gol en la 2ª parte del Genoa–Juventus",
   "cuota": 1.25,
   "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550173|Goals Over/Under|Over 1.5": {
@@ -1197,6 +1424,10 @@
   "texto": "Más de 1,5 goles en Parma–Udinese",
   "cuota": 1.36,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550173|Double Chance|Home/Away": {
@@ -1211,6 +1442,10 @@
   "texto": "No hay empate en Parma–Udinese",
   "cuota": 1.36,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550173|Total - Away|Over 0.5": {
@@ -1225,6 +1460,10 @@
   "texto": "Udinese marca",
   "cuota": 1.3,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550171|To Win Either Half|Away": {
@@ -1239,6 +1478,10 @@
   "texto": "Juventus gana alguna de las dos partes",
   "cuota": 1.4,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550172|Total - Home|Over 0.5": {
@@ -1252,7 +1495,11 @@
   "tipo": "goles",
   "texto": "Monza marca",
   "cuota": 1.4,
-  "frecuencia": 0.833,
+  "frecuencia": 0.889,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550176|Match Winner|Away": {
@@ -1267,6 +1514,10 @@
   "texto": "Gana el Inter",
   "cuota": 1.33,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550169|Double Chance|Home/Away": {
@@ -1281,6 +1532,10 @@
   "texto": "No hay empate en Fiorentina–Atalanta",
   "cuota": 1.3,
   "frecuencia": 0.941,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550170|Goals Over/Under First Half|Over 0.5": {
@@ -1295,6 +1550,10 @@
   "texto": "Gol en la 1ª parte del Frosinone–Lecce",
   "cuota": 1.28,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550170|Double Chance|Home/Away": {
@@ -1309,6 +1568,10 @@
   "texto": "No hay empate en Frosinone–Lecce",
   "cuota": 1.28,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550169|Total - Away|Over 0.5": {
@@ -1323,6 +1586,10 @@
   "texto": "Atalanta marca",
   "cuota": 1.28,
   "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570442|Total - Away|Over 0.5": {
@@ -1336,7 +1603,11 @@
   "tipo": "goles",
   "texto": "Espanyol marca",
   "cuota": 1.44,
-  "frecuencia": 0.895,
+  "frecuencia": 0.9,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552802|Double Chance|Home/Away": {
@@ -1351,6 +1622,10 @@
   "texto": "No hay empate en Lille–Lens",
   "cuota": 1.28,
   "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575211|Double Chance|Home/Away": {
@@ -1364,7 +1639,11 @@
   "tipo": "resultado",
   "texto": "No hay empate en SV Elversberg–FSV Mainz 05",
   "cuota": 1.25,
-  "frecuencia": 0.833,
+  "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552802|Goals Over/Under First Half|Over 0.5": {
@@ -1379,6 +1658,10 @@
   "texto": "Gol en la 1ª parte del Lille–Lens",
   "cuota": 1.3,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550162|To Win Either Half|Home": {
@@ -1393,6 +1676,10 @@
   "texto": "Lazio gana alguna de las dos partes",
   "cuota": 1.28,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1550161|Total - Home|Over 1.5": {
@@ -1420,7 +1707,11 @@
   "tipo": "goles",
   "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
   "cuota": 1.25,
-  "frecuencia": 1.0,
+  "frecuencia": 0.941,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575206|Goals Over/Under|Over 2.5": {
@@ -1434,7 +1725,11 @@
   "tipo": "goles",
   "texto": "Más de 2,5 goles en FC Augsburg–SC Freiburg",
   "cuota": 1.5,
-  "frecuencia": 0.938,
+  "frecuencia": 0.882,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557451|Double Chance|Home/Away": {
@@ -1448,7 +1743,11 @@
   "tipo": "resultado",
   "texto": "No hay empate en Coventry–Sunderland",
   "cuota": 1.33,
-  "frecuencia": 0.882,
+  "frecuencia": 0.889,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575209|Goals Over/Under - Second Half|Over 1.5": {
@@ -1462,7 +1761,11 @@
   "tipo": "goles",
   "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim",
   "cuota": 1.62,
-  "frecuencia": 0.867,
+  "frecuencia": 0.875,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575209|Goals Over/Under|Over 2.5": {
@@ -1476,7 +1779,11 @@
   "tipo": "goles",
   "texto": "Más de 2,5 goles en Werder Bremen–1899 Hoffenheim",
   "cuota": 1.44,
-  "frecuencia": 0.867,
+  "frecuencia": 0.875,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575209|Both Teams Score|Yes": {
@@ -1490,7 +1797,11 @@
   "tipo": "goles",
   "texto": "Ambos marcan en Werder Bremen–1899 Hoffenheim",
   "cuota": 1.4,
-  "frecuencia": 0.867,
+  "frecuencia": 0.875,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557449|Double Chance|Home/Draw": {
@@ -1505,6 +1816,10 @@
   "texto": "Brentford o empate",
   "cuota": 1.28,
   "frecuencia": 0.867,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557452|Total - Home|Over 0.5": {
@@ -1519,6 +1834,10 @@
   "texto": "Hull City marca",
   "cuota": 1.25,
   "frecuencia": 0.867,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557448|Goals Over/Under|Over 1.5": {
@@ -1533,6 +1852,10 @@
   "texto": "Más de 1,5 goles en Bournemouth–Leeds",
   "cuota": 1.25,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575206|To Win Either Half|Away": {
@@ -1546,7 +1869,11 @@
   "tipo": "resultado",
   "texto": "SC Freiburg gana alguna de las dos partes",
   "cuota": 1.57,
-  "frecuencia": 0.812,
+  "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575209|Total Goals/Both Teams To Score|o/yes 2.5": {
@@ -1560,7 +1887,11 @@
   "tipo": "goles",
   "texto": "Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim",
   "cuota": 1.62,
-  "frecuencia": 0.8,
+  "frecuencia": 0.812,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1557448|Total - Away|Over 0.5": {
@@ -1575,6 +1906,10 @@
   "texto": "Leeds marca",
   "cuota": 1.33,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1575206|Total Goals/Both Teams To Score|o/yes 2.5": {
@@ -1602,7 +1937,11 @@
   "tipo": "goles",
   "texto": "Ambos marcan en FC Augsburg–SC Freiburg",
   "cuota": 1.44,
-  "frecuencia": 0.75,
+  "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570441|Goals Over/Under|Over 1.5": {
@@ -1616,7 +1955,11 @@
   "tipo": "goles",
   "texto": "Más de 1,5 goles en Rayo Vallecano–Celta Vigo",
   "cuota": 1.33,
-  "frecuencia": 0.833,
+  "frecuencia": 0.842,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570441|Total - Home|Over 0.5": {
@@ -1659,7 +2002,8 @@
   "texto": "Más de 4,5 tarjetas en Racing Santander–Espanyol",
   "cuota": 1.67,
   "frecuencia": 0.833,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1552803|Total - Home|Over 0.5": {
   "partido_id": 1552803,
@@ -1673,6 +2017,10 @@
   "texto": "Lorient marca",
   "cuota": 1.28,
   "frecuencia": 0.933,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552809|Goals Over/Under|Over 1.5": {
@@ -1687,6 +2035,10 @@
   "texto": "Más de 1,5 goles en Estac Troyes–Le Mans",
   "cuota": 1.25,
   "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552809|Total - Away|Over 0.5": {
@@ -1701,6 +2053,10 @@
   "texto": "Le Mans marca",
   "cuota": 1.33,
   "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570441|Goals Over/Under - Second Half|Over 0.5": {
@@ -1714,7 +2070,11 @@
   "tipo": "goles",
   "texto": "Gol en la 2ª parte del Rayo Vallecano–Celta Vigo",
   "cuota": 1.25,
-  "frecuencia": 0.833,
+  "frecuencia": 0.842,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552804|Goals Over/Under First Half|Over 0.5": {
@@ -1729,6 +2089,10 @@
   "texto": "Gol en la 1ª parte del Lyon–Angers",
   "cuota": 1.25,
   "frecuencia": 0.824,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1570434|Total - Away|Over 0.5": {
@@ -1743,6 +2107,10 @@
   "texto": "Alaves marca",
   "cuota": 1.73,
   "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552809|Goals Over/Under First Half|Over 0.5": {
@@ -1757,6 +2125,10 @@
   "texto": "Gol en la 1ª parte del Estac Troyes–Le Mans",
   "cuota": 1.33,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552804|Total - Away|Over 0.5": {
@@ -1771,6 +2143,10 @@
   "texto": "Angers marca",
   "cuota": 1.62,
   "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  },
  "1552792|Total - Away|Over 0.5": {
@@ -1785,6 +2161,280 @@
   "texto": "Lorient marca",
   "cuota": 1.28,
   "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1570442|Both Teams Score|Yes": {
+  "partido_id": 1570442,
+  "fecha": "2026-10-30T21:00",
+  "competicion": "LaLiga",
+  "local": "Villarreal",
+  "visitante": "Espanyol",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Villarreal–Espanyol",
+  "cuota": 1.67,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1557447|Double Chance|Home/Away": {
+  "partido_id": 1557447,
+  "fecha": "2026-10-31T21:00",
+  "competicion": "Premier",
+  "local": "Aston Villa",
+  "visitante": "Fulham",
+  "mercado": "Double Chance",
+  "opcion": "Home/Away",
+  "tipo": "resultado",
+  "texto": "No hay empate en Aston Villa–Fulham",
+  "cuota": 1.3,
+  "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1557450|Total - Away|Over 0.5": {
+  "partido_id": 1557450,
+  "fecha": "2026-10-31T13:30",
+  "competicion": "Premier",
+  "local": "Chelsea",
+  "visitante": "Manchester United",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Manchester United marca",
+  "cuota": 1.3,
+  "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1575206|Double Chance|Draw/Away": {
+  "partido_id": 1575206,
+  "fecha": "2026-10-31T15:30",
+  "competicion": "Bundesliga",
+  "local": "FC Augsburg",
+  "visitante": "SC Freiburg",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "tipo": "resultado",
+  "texto": "SC Freiburg o empate",
+  "cuota": 1.4,
+  "frecuencia": 0.765,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1575209|Total - Away|Over 1.5": {
+  "partido_id": 1575209,
+  "fecha": "2026-10-31T15:30",
+  "competicion": "Bundesliga",
+  "local": "Werder Bremen",
+  "visitante": "1899 Hoffenheim",
+  "mercado": "Total - Away",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "1899 Hoffenheim marca 2 o más",
+  "cuota": 1.67,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Total - Away|Over 0.5": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Auxerre marca",
+  "cuota": 1.33,
+  "frecuencia": 1.0,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1570438|Total - Away|Over 0.5": {
+  "partido_id": 1570438,
+  "fecha": "2026-11-01T14:00",
+  "competicion": "LaLiga",
+  "local": "Getafe",
+  "visitante": "Sevilla",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Sevilla marca",
+  "cuota": 1.44,
+  "frecuencia": 0.947,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Double Chance|Home/Away": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Double Chance",
+  "opcion": "Home/Away",
+  "tipo": "resultado",
+  "texto": "No hay empate en Strasbourg–Auxerre",
+  "cuota": 1.25,
+  "frecuencia": 0.929,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1570438|Goals Over/Under - Second Half|Over 0.5": {
+  "partido_id": 1570438,
+  "fecha": "2026-11-01T14:00",
+  "competicion": "LaLiga",
+  "local": "Getafe",
+  "visitante": "Sevilla",
+  "mercado": "Goals Over/Under - Second Half",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Gol en la 2ª parte del Getafe–Sevilla",
+  "cuota": 1.36,
+  "frecuencia": 0.895,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Goals Over/Under|Over 2.5": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "tipo": "goles",
+  "texto": "Más de 2,5 goles en Strasbourg–Auxerre",
+  "cuota": 1.57,
+  "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Both Teams Score|Yes": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Strasbourg–Auxerre",
+  "cuota": 1.57,
+  "frecuencia": 0.857,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1557453|Double Chance|Home/Away": {
+  "partido_id": 1557453,
+  "fecha": "2026-11-01T17:30",
+  "competicion": "Premier",
+  "local": "Liverpool",
+  "visitante": "Arsenal",
+  "mercado": "Double Chance",
+  "opcion": "Home/Away",
+  "tipo": "resultado",
+  "texto": "No hay empate en Liverpool–Arsenal",
+  "cuota": 1.3,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Goals Over/Under - Second Half|Over 1.5": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Goals Over/Under - Second Half",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre",
+  "cuota": 1.8,
+  "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1552808|Goals Over/Under First Half|Over 0.5": {
+  "partido_id": 1552808,
+  "fecha": "2026-11-01T15:00",
+  "competicion": "Ligue 1",
+  "local": "Strasbourg",
+  "visitante": "Auxerre",
+  "mercado": "Goals Over/Under First Half",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Gol en la 1ª parte del Strasbourg–Auxerre",
+  "cuota": 1.28,
+  "frecuencia": 0.786,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "acierto": null
+ },
+ "1570440|Total - Home|Over 0.5": {
+  "partido_id": 1570440,
+  "fecha": "2026-11-01T16:15",
+  "competicion": "LaLiga",
+  "local": "Racing Santander",
+  "visitante": "Real Madrid",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Racing Santander marca",
+  "cuota": 1.4,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
   "acierto": null
  }
 }

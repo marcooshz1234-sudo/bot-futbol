@@ -1,7 +1,7 @@
 # Lazio – Parma
 **Serie A** · Regular Season - 8 · 24/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -206,39 +206,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Abdoulaye Ndiaye | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 3 | 2 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,97 · visitante 0,51 · córners esperados 9,4._
+_Goles esperados: local 2,01 · visitante 0,50 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 14% | 11% | 7.00 | -23% |
-| 1X2: X | 19% | 22% | 21% | 4.33 | -11% |
-| 1X2: 1 | 72% | 64% | 68% | 1.48 | +1% |
-| Doble oportunidad: X2 | 28% | 36% | 32% | 2.62 | -17% |
+| 1X2: 2 | 8% | 14% | 11% | 7.00 | -24% |
+| 1X2: X | 19% | 22% | 20% | 4.33 | -12% |
+| 1X2: 1 | 73% | 64% | 69% | 1.48 | +2% |
+| Doble oportunidad: X2 | 27% | 36% | 31% | 2.62 | -18% |
 | Doble oportunidad: 12 | 81% | 78% | 80% | 1.20 | -4% |
-| Doble oportunidad: 1X | 91% | 86% | 89% | 1.10 | -3% |
+| Doble oportunidad: 1X | 92% | 86% | 89% | 1.10 | -2% |
 | Ambos marcan: No | 66% | 55% | 60% | 1.70 | +2% |
 | Ambos marcan: Sí | 34% | 45% | 40% | 2.05 | -18% |
-| Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.30 | -7% |
-| Goles más/menos: Más de 2.5 | 45% | 50% | 48% | 1.91 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 55% | 50% | 52% | 1.91 | +0% |
+| Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.30 | -6% |
+| Goles más/menos: Más de 2.5 | 46% | 50% | 48% | 1.91 | -8% |
+| Goles más/menos: Más de 3.5 | 24% | 28% | 26% | 3.40 | -11% |
+| Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles más/menos: Menos de 2.5 | 54% | 50% | 52% | 1.91 | -1% |
 | Goles más/menos: Menos de 3.5 | 76% | 72% | 74% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 1.5 | 59% | 58% | 58% | 1.62 | -6% |
-| Goles del local: Más de 2.5 | 32% | 31% | 31% | 3.00 | -6% |
-| Goles del local: Menos de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles del local: Menos de 2.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Más de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
+| Goles del local: Más de 2.5 | 32% | 31% | 32% | 3.00 | -4% |
+| Goles del local: Menos de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
+| Goles del local: Menos de 2.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles del visitante: Más de 0.5 | 40% | 51% | 46% | 1.80 | -18% |
 | Goles del visitante: Menos de 0.5 | 60% | 49% | 54% | 1.91 | +4% |
-| Córners más/menos: Más de 8.5 | 53% | 54% | 54% | 1.73 | -7% |
-| Córners más/menos: Menos de 8.5 | 47% | 46% | 46% | 2.00 | -7% |
+| Córners más/menos: Más de 8.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Córners más/menos: Menos de 8.5 | 46% | 46% | 46% | 2.00 | -8% |
 | 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 49% | 46% | 48% | 2.00 | -4% |
+| 1X2 descanso: 1 | 50% | 46% | 48% | 2.00 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

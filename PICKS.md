@@ -1,39 +1,19 @@
 # Picks del Analista
 
-_Generado el 2026-10-24 14:46 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-24 20:39 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Sábado 24/10
 
-**🔒 Combi segura · cuota 1,60**
-- Espanyol marca (1,25) · Racing Santander (en contra) 9/9 · Espanyol 8/9
+**🔒 Combi segura · cuota 1,64**
 - Lazio gana alguna de las dos partes (1,28) · Lazio 7/7 · Parma 6/7
-
-**💥 Combi cuota 3-4 · cuota 3,13**
-- Sassuolo marca (1,44) · Como (en contra) 9/10 · Sassuolo 7/7
-- No hay empate en Coventry–Fulham (1,30) · Coventry 7/7 · Fulham 5/7
-- Más de 4,5 tarjetas en Racing Santander–Espanyol (1,67) · Racing Santander 7/9 · Espanyol 8/9
+- No hay empate en Lens–Paris FC (1,28) · Lens 9/10 · Paris FC 5/7
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 16:15 | Espanyol marca | goles | 1.25 | 94% | Racing Santander (en contra) 9/9 · Espanyol 8/9 |
-| 15:00 | Sassuolo marca | goles | 1.44 | 94% | Como (en contra) 9/10 · Sassuolo 7/7 |
 | 20:45 | Lazio gana alguna de las dos partes | resultado | 1.28 | 93% | Lazio 7/7 · Parma 6/7 |
-| 15:00 | Ambos marcan en Como–Sassuolo | goles | 1.50 | 88% | Como 8/10 · Sassuolo 7/7 |
-| 15:00 | Cagliari marca | goles | 1.40 | 86% | Cagliari 5/7 · Bologna (en contra) 7/7 |
-| 16:00 | No hay empate en Coventry–Fulham | resultado | 1.30 | 86% | Coventry 7/7 · Fulham 5/7 |
-| 15:00 | Gol en la 2ª parte del Cagliari–Bologna | goles | 1.25 | 86% | Cagliari 5/7 · Bologna 7/7 |
-| 16:15 | Más de 4,5 tarjetas en Racing Santander–Espanyol | tarjetas | 1.67 | 83% | Racing Santander 7/9 · Espanyol 8/9 |
-| 16:15 | Gol en la 1ª parte del Racing Santander–Espanyol | goles | 1.28 | 83% | Racing Santander 8/9 · Espanyol 7/9 |
-| 15:30 | Gol en la 1ª parte del SC Paderborn 07–Hamburger SV | goles | 1.28 | 83% | SC Paderborn 07 5/6 · Hamburger SV 5/6 |
-| 15:30 | Gol en la 1ª parte del FSV Mainz 05–Werder Bremen | goles | 1.25 | 83% | FSV Mainz 05 5/6 · Werder Bremen 5/6 |
 | 20:45 | No hay empate en Lens–Paris FC | resultado | 1.28 | 82% | Lens 9/10 · Paris FC 5/7 |
-| 18:00 | No hay empate en Napoli–AS Roma | resultado | 1.33 | 80% | Napoli 9/10 · AS Roma 7/10 |
 | 20:45 | Gana el Lazio | resultado | 1.48 | 79% | Lazio 6/7 · Parma 5/7 |
-| 15:00 | Cagliari o empate | resultado | 1.44 | 79% | Cagliari 5/7 · Bologna 6/7 |
-| 15:00 | No hay empate en Cagliari–Bologna | resultado | 1.36 | 79% | Cagliari 6/7 · Bologna 5/7 |
 | 20:45 | Más de 1,5 goles en Lazio–Parma | goles | 1.30 | 79% | Lazio 5/7 · Parma 6/7 |
-| 15:00 | Ambos marcan y más de 2,5 goles en Como–Sassuolo | goles | 1.67 | 76% | Como 7/10 · Sassuolo 6/7 |
-| 15:00 | Más de 2,5 goles en Como–Sassuolo | goles | 1.36 | 76% | Como 7/10 · Sassuolo 6/7 |
 
 ## Domingo 25/10
 
@@ -107,31 +87,40 @@ _Generado el 2026-10-24 14:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Martes 27/10
 
+**🔒 Combi segura · cuota 1,66**
+- No hay empate en Torino–Como (1,28) · Torino 7/8 · Como 9/10
+- No hay empate en Sassuolo–Lazio (1,30) · Sassuolo 6/8 · Lazio 6/7
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | Torino marca | goles | 1.44 | 89% | Torino 7/8 · Como (en contra) 9/10 |
-| 18:30 | Lazio o empate | resultado | 1.40 | 86% | Sassuolo 5/7 · Lazio 7/7 |
-| 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.33 | 83% | Torino 6/8 · Como 9/10 |
-| 20:45 | No hay empate en Torino–Como | resultado | 1.28 | 83% | Torino 7/8 · Como 8/10 |
-| 18:30 | No hay empate en Sassuolo–Lazio | resultado | 1.30 | 79% | Sassuolo 5/7 · Lazio 6/7 |
-| 20:45 | Ambos marcan en Torino–Como | goles | 1.70 | 78% | Torino 6/8 · Como 8/10 |
+| 20:45 | No hay empate en Torino–Como | resultado | 1.28 | 89% | Torino 7/8 · Como 9/10 |
+| 18:30 | Lazio o empate | resultado | 1.40 | 87% | Sassuolo 6/8 · Lazio 7/7 |
+| 20:45 | Torino marca | goles | 1.44 | 83% | Torino 7/8 · Como (en contra) 8/10 |
+| 18:30 | No hay empate en Sassuolo–Lazio | resultado | 1.30 | 80% | Sassuolo 6/8 · Lazio 6/7 |
+| 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.33 | 78% | Torino 6/8 · Como 8/10 |
 
 ## Miércoles 28/10
 
 **🔒 Combi segura · cuota 1,64**
 - Gol en la 2ª parte del Parma–Udinese (1,28) · Parma 6/7 · Udinese 7/7
-- No hay empate en Monza–Napoli (1,28) · Monza 7/8 · Napoli 9/10
+- No hay empate en Monza–Napoli (1,28) · Monza 7/8 · Napoli 8/10
+
+**💥 Combi cuota 3-4 · cuota 3,37**
+- Monza marca (1,40) · Monza 8/8 · Napoli (en contra) 8/10
+- Más de 1,5 goles en Genoa–Juventus (1,33) · Genoa 6/7 · Juventus 9/10
+- No hay empate en Parma–Udinese (1,36) · Parma 6/7 · Udinese 6/7
+- Gana el Inter (1,33) · Venezia 6/7 · Inter 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 18:30 | Gol en la 2ª parte del Parma–Udinese | goles | 1.28 | 93% | Parma 6/7 · Udinese 7/7 |
-| 20:45 | No hay empate en Monza–Napoli | resultado | 1.28 | 89% | Monza 7/8 · Napoli 9/10 |
+| 20:45 | Monza marca | goles | 1.40 | 89% | Monza 8/8 · Napoli (en contra) 8/10 |
 | 20:45 | Más de 1,5 goles en Genoa–Juventus | goles | 1.33 | 88% | Genoa 6/7 · Juventus 9/10 |
 | 20:45 | Gol en la 2ª parte del Genoa–Juventus | goles | 1.25 | 88% | Genoa 6/7 · Juventus 9/10 |
 | 18:30 | Más de 1,5 goles en Parma–Udinese | goles | 1.36 | 86% | Parma 6/7 · Udinese 6/7 |
 | 18:30 | No hay empate en Parma–Udinese | resultado | 1.36 | 86% | Parma 6/7 · Udinese 6/7 |
 | 18:30 | Udinese marca | goles | 1.30 | 86% | Parma (en contra) 7/7 · Udinese 5/7 |
-| 20:45 | Monza marca | goles | 1.40 | 83% | Monza 8/8 · Napoli (en contra) 7/10 |
+| 20:45 | No hay empate en Monza–Napoli | resultado | 1.28 | 83% | Monza 7/8 · Napoli 8/10 |
 | 20:45 | Juventus gana alguna de las dos partes | resultado | 1.40 | 82% | Genoa 7/7 · Juventus 7/10 |
 | 18:30 | Gana el Inter | resultado | 1.33 | 76% | Venezia 6/7 · Inter 7/10 |
 
@@ -152,40 +141,62 @@ _Generado el 2026-10-24 14:46 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 21:00 | Espanyol marca | goles | 1.44 | 90% | Villarreal (en contra) 9/10 · Espanyol 8/9 |
+| 21:00 | Espanyol marca | goles | 1.44 | 90% | Villarreal (en contra) 9/10 · Espanyol 9/10 |
+| 20:30 | No hay empate en SV Elversberg–FSV Mainz 05 | resultado | 1.25 | 86% | SV Elversberg 6/7 · FSV Mainz 05 6/7 |
 | 21:05 | No hay empate en Lille–Lens | resultado | 1.28 | 85% | Lille 8/10 · Lens 9/10 |
-| 20:30 | No hay empate en SV Elversberg–FSV Mainz 05 | resultado | 1.25 | 83% | SV Elversberg 5/6 · FSV Mainz 05 5/6 |
 | 21:05 | Gol en la 1ª parte del Lille–Lens | goles | 1.30 | 80% | Lille 8/10 · Lens 8/10 |
+| 21:00 | Ambos marcan en Villarreal–Espanyol | goles | 1.67 | 75% | Villarreal 8/10 · Espanyol 7/10 |
 
 ## Sábado 31/10
 
 **🔒 Combi segura · cuota 1,66**
-- Gol en la 1ª parte del FC Augsburg–SC Freiburg (1,25) · FC Augsburg 6/6 · SC Freiburg 10/10
-- No hay empate en Coventry–Sunderland (1,33) · Coventry 7/7 · Sunderland 8/10
+- Gol en la 1ª parte del FC Augsburg–SC Freiburg (1,25) · FC Augsburg 6/7 · SC Freiburg 10/10
+- No hay empate en Coventry–Sunderland (1,33) · Coventry 8/8 · Sunderland 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 15:30 | Gol en la 1ª parte del FC Augsburg–SC Freiburg | goles | 1.25 | 100% | FC Augsburg 6/6 · SC Freiburg 10/10 |
-| 15:30 | Más de 2,5 goles en FC Augsburg–SC Freiburg | goles | 1.50 | 94% | FC Augsburg 6/6 · SC Freiburg 9/10 |
+| 15:30 | Gol en la 1ª parte del FC Augsburg–SC Freiburg | goles | 1.25 | 94% | FC Augsburg 6/7 · SC Freiburg 10/10 |
 | 20:45 | Lorient marca | goles | 1.28 | 93% | Lorient 6/7 · Stade Brestois 29 (en contra) 8/8 |
 | 20:45 | Más de 1,5 goles en Estac Troyes–Le Mans | goles | 1.25 | 93% | Estac Troyes 6/7 · Le Mans 7/7 |
-| 16:00 | No hay empate en Coventry–Sunderland | resultado | 1.33 | 88% | Coventry 7/7 · Sunderland 8/10 |
-| 15:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim | goles | 1.62 | 87% | Werder Bremen 5/6 · 1899 Hoffenheim 8/9 |
-| 15:30 | Más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.44 | 87% | Werder Bremen 5/6 · 1899 Hoffenheim 8/9 |
-| 15:30 | Ambos marcan en Werder Bremen–1899 Hoffenheim | goles | 1.40 | 87% | Werder Bremen 6/6 · 1899 Hoffenheim 7/9 |
+| 16:00 | No hay empate en Coventry–Sunderland | resultado | 1.33 | 89% | Coventry 8/8 · Sunderland 8/10 |
+| 15:30 | Más de 2,5 goles en FC Augsburg–SC Freiburg | goles | 1.50 | 88% | FC Augsburg 6/7 · SC Freiburg 9/10 |
+| 15:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim | goles | 1.62 | 88% | Werder Bremen 6/7 · 1899 Hoffenheim 8/9 |
+| 15:30 | Más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.44 | 88% | Werder Bremen 6/7 · 1899 Hoffenheim 8/9 |
+| 15:30 | Ambos marcan en Werder Bremen–1899 Hoffenheim | goles | 1.40 | 88% | Werder Bremen 7/7 · 1899 Hoffenheim 7/9 |
 | 16:00 | Brentford o empate | resultado | 1.28 | 87% | Brentford 6/7 · Nottingham Forest 7/8 |
 | 16:00 | Hull City marca | goles | 1.25 | 87% | Hull City 5/7 · Ipswich (en contra) 8/8 |
 | 20:45 | Le Mans marca | goles | 1.33 | 86% | Estac Troyes (en contra) 6/7 · Le Mans 6/7 |
-| 16:15 | Más de 1,5 goles en Rayo Vallecano–Celta Vigo | goles | 1.33 | 83% | Rayo Vallecano 8/8 · Celta Vigo 7/10 |
-| 16:15 | Gol en la 2ª parte del Rayo Vallecano–Celta Vigo | goles | 1.25 | 83% | Rayo Vallecano 8/8 · Celta Vigo 7/10 |
-| 16:15 | Rayo Vallecano marca | goles | 1.25 | 83% | Rayo Vallecano 8/8 · Celta Vigo (en contra) 7/10 |
+| 16:15 | Más de 1,5 goles en Rayo Vallecano–Celta Vigo | goles | 1.33 | 84% | Rayo Vallecano 9/9 · Celta Vigo 7/10 |
+| 16:15 | Gol en la 2ª parte del Rayo Vallecano–Celta Vigo | goles | 1.25 | 84% | Rayo Vallecano 9/9 · Celta Vigo 7/10 |
 | 20:45 | Gol en la 1ª parte del Lyon–Angers | goles | 1.25 | 82% | Lyon 8/10 · Angers 6/7 |
 | 16:00 | Más de 1,5 goles en Bournemouth–Leeds | goles | 1.25 | 82% | Bournemouth 9/10 · Leeds 5/7 |
-| 15:30 | SC Freiburg gana alguna de las dos partes | resultado | 1.57 | 81% | FC Augsburg 5/6 · SC Freiburg 8/10 |
+| 15:30 | Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.62 | 81% | Werder Bremen 6/7 · 1899 Hoffenheim 7/9 |
 | 21:00 | Alaves marca | goles | 1.73 | 80% | Barcelona (en contra) 8/10 · Alaves 8/10 |
-| 15:30 | Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.62 | 80% | Werder Bremen 5/6 · 1899 Hoffenheim 7/9 |
 | 20:45 | Gol en la 1ª parte del Estac Troyes–Le Mans | goles | 1.33 | 79% | Estac Troyes 5/7 · Le Mans 6/7 |
+| 21:00 | No hay empate en Aston Villa–Fulham | resultado | 1.30 | 78% | Aston Villa 8/10 · Fulham 6/8 |
+| 13:30 | Manchester United marca | goles | 1.30 | 78% | Chelsea (en contra) 7/8 · Manchester United 7/10 |
 | 20:45 | Angers marca | goles | 1.62 | 76% | Lyon (en contra) 8/10 · Angers 5/7 |
+| 15:30 | SC Freiburg gana alguna de las dos partes | resultado | 1.57 | 76% | FC Augsburg 5/7 · SC Freiburg 8/10 |
+| 15:30 | Ambos marcan en FC Augsburg–SC Freiburg | goles | 1.44 | 76% | FC Augsburg 6/7 · SC Freiburg 7/10 |
+| 15:30 | SC Freiburg o empate | resultado | 1.40 | 76% | FC Augsburg 5/7 · SC Freiburg 8/10 |
 | 16:00 | Leeds marca | goles | 1.33 | 76% | Bournemouth (en contra) 7/10 · Leeds 6/7 |
-| 15:30 | Ambos marcan y más de 2,5 goles en FC Augsburg–SC Freiburg | goles | 1.67 | 75% | FC Augsburg 5/6 · SC Freiburg 7/10 |
-| 15:30 | Ambos marcan en FC Augsburg–SC Freiburg | goles | 1.44 | 75% | FC Augsburg 5/6 · SC Freiburg 7/10 |
+| 15:30 | 1899 Hoffenheim marca 2 o más | goles | 1.67 | 75% | Werder Bremen (en contra) 5/7 · 1899 Hoffenheim 7/9 |
+
+## Domingo 01/11
+
+**🔒 Combi segura · cuota 1,73**
+- Auxerre marca (1,33) · Strasbourg (en contra) 7/7 · Auxerre 7/7
+- No hay empate en Liverpool–Arsenal (1,30) · Liverpool 7/10 · Arsenal 9/10
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 15:00 | Auxerre marca | goles | 1.33 | 100% | Strasbourg (en contra) 7/7 · Auxerre 7/7 |
+| 14:00 | Sevilla marca | goles | 1.44 | 95% | Getafe (en contra) 9/10 · Sevilla 9/9 |
+| 15:00 | No hay empate en Strasbourg–Auxerre | resultado | 1.25 | 93% | Strasbourg 6/7 · Auxerre 7/7 |
+| 14:00 | Gol en la 2ª parte del Getafe–Sevilla | goles | 1.36 | 90% | Getafe 8/10 · Sevilla 9/9 |
+| 15:00 | Más de 2,5 goles en Strasbourg–Auxerre | goles | 1.57 | 86% | Strasbourg 6/7 · Auxerre 6/7 |
+| 15:00 | Ambos marcan en Strasbourg–Auxerre | goles | 1.57 | 86% | Strasbourg 6/7 · Auxerre 6/7 |
+| 17:30 | No hay empate en Liverpool–Arsenal | resultado | 1.30 | 80% | Liverpool 7/10 · Arsenal 9/10 |
+| 15:00 | Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre | goles | 1.80 | 79% | Strasbourg 6/7 · Auxerre 5/7 |
+| 15:00 | Gol en la 1ª parte del Strasbourg–Auxerre | goles | 1.28 | 79% | Strasbourg 5/7 · Auxerre 6/7 |
+| 16:15 | Racing Santander marca | goles | 1.40 | 75% | Racing Santander 7/10 · Real Madrid (en contra) 8/10 |

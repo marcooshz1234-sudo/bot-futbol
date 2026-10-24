@@ -1,7 +1,7 @@
 # Atletico Madrid – Deportivo La Coruna
 **LaLiga** · Regular Season - 10 · 24/10/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -205,41 +205,41 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Marc Casadó | M | 3 | 120 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,83 · visitante 0,65 · córners esperados 9,9._
+_Goles esperados: local 1,80 · visitante 0,66 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 9% | 11% | 11.00 | +17% |
-| 1X2: X | 22% | 16% | 19% | 6.00 | +13% |
-| 1X2: 1 | 66% | 75% | 70% | 1.27 | -11% |
-| Doble oportunidad: X2 | 34% | 25% | 30% | 3.75 | +12% |
+| 1X2: 2 | 13% | 9% | 11% | 11.00 | +20% |
+| 1X2: X | 22% | 16% | 19% | 6.00 | +14% |
+| 1X2: 1 | 65% | 75% | 70% | 1.27 | -11% |
+| Doble oportunidad: X2 | 35% | 25% | 30% | 3.75 | +14% |
 | Doble oportunidad: 12 | 78% | 84% | 81% | 1.14 | -8% |
-| Doble oportunidad: 1X | 87% | 91% | 89% | 1.05 | -6% |
+| Doble oportunidad: 1X | 87% | 91% | 89% | 1.05 | -7% |
 | Ambos marcan: No | 60% | 53% | 57% | 1.75 | -1% |
 | Ambos marcan: Sí | 40% | 47% | 43% | 2.00 | -13% |
-| Goles más/menos: Más de 2.5 | 45% | 62% | 54% | 1.53 | -18% |
-| Goles más/menos: Más de 3.5 | 24% | 40% | 32% | 2.38 | -24% |
-| Goles más/menos: Más de 4.5 | 11% | 24% | 17% | 4.00 | -31% |
-| Goles más/menos: Menos de 2.5 ✅ | 55% | 38% | 46% | 2.50 | +16% |
-| Goles más/menos: Menos de 3.5 | 76% | 60% | 68% | 1.57 | +7% |
-| Goles más/menos: Menos de 4.5 | 89% | 76% | 83% | 1.25 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 75% | 70% | 1.25 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 42% | 35% | 2.20 | -22% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 25% | 30% | 3.75 | +12% |
+| Goles más/menos: Más de 2.5 | 44% | 62% | 53% | 1.53 | -19% |
+| Goles más/menos: Más de 3.5 | 23% | 40% | 32% | 2.38 | -25% |
+| Goles más/menos: Más de 4.5 | 10% | 24% | 17% | 4.00 | -32% |
+| Goles más/menos: Menos de 2.5 ✅ | 56% | 38% | 47% | 2.50 | +17% |
+| Goles más/menos: Menos de 3.5 | 77% | 60% | 68% | 1.57 | +8% |
+| Goles más/menos: Menos de 4.5 | 90% | 76% | 83% | 1.25 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 75% | 70% | 1.25 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 42% | 35% | 2.20 | -23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 25% | 30% | 3.75 | +13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 58% | 65% | 1.62 | +5% |
-| Goles del local: Más de 1.5 | 55% | 71% | 63% | 1.33 | -17% |
-| Goles del local: Más de 2.5 | 28% | 46% | 37% | 2.00 | -26% |
-| Goles del local: Más de 3.5 | 11% | 25% | 18% | 3.75 | -32% |
-| Goles del local: Menos de 1.5 ✅ | 45% | 29% | 37% | 3.25 | +21% |
-| Goles del local: Menos de 2.5 | 72% | 54% | 63% | 1.73 | +9% |
-| Goles del local: Menos de 3.5 | 89% | 75% | 82% | 1.25 | +2% |
+| Goles del local: Más de 1.5 | 54% | 71% | 62% | 1.33 | -17% |
+| Goles del local: Más de 2.5 | 27% | 46% | 37% | 2.00 | -27% |
+| Goles del local: Más de 3.5 | 11% | 25% | 18% | 3.75 | -33% |
+| Goles del local: Menos de 1.5 ✅ | 46% | 29% | 38% | 3.25 | +22% |
+| Goles del local: Menos de 2.5 | 73% | 54% | 63% | 1.73 | +10% |
+| Goles del local: Menos de 3.5 | 89% | 75% | 82% | 1.25 | +3% |
 | Goles del visitante: Más de 0.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles del visitante: Menos de 0.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Córners más/menos: Más de 10.5 | 40% | 44% | 42% | 2.10 | -11% |
 | Córners más/menos: Más de 9.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Córners más/menos: Menos de 10.5 | 60% | 56% | 58% | 1.67 | -4% |
 | Córners más/menos: Menos de 9.5 | 51% | 44% | 48% | 2.10 | +0% |
-| 1X2 descanso: X | 43% | 34% | 38% | 2.75 | +5% |
-| 1X2 descanso: 1 | 45% | 56% | 50% | 1.67 | -16% |
+| 1X2 descanso: X | 43% | 34% | 39% | 2.75 | +6% |
+| 1X2 descanso: 1 | 44% | 56% | 50% | 1.67 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

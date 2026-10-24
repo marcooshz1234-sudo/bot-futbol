@@ -1,7 +1,7 @@
 # Toulouse – Estac Troyes
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 14:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
 
 ## Cuotas Bet365
 _Actualizadas: 24/10 14:44_
@@ -206,15 +206,15 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alexandre Phliponeau | M | 3 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,10 · visitante 0,91 · córners esperados 9,5._
+_Goles esperados: local 3,09 · visitante 0,91 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 17% | 12% | 5.50 | -31% |
+| 1X2: 2 | 8% | 17% | 13% | 5.50 | -31% |
 | 1X2: X | 12% | 24% | 18% | 4.00 | -29% |
-| 1X2: 1 | 80% | 59% | 70% | 1.60 | +12% |
+| 1X2: 1 | 80% | 59% | 70% | 1.60 | +11% |
 | Doble oportunidad: X2 | 20% | 39% | 30% | 2.38 | -30% |
 | Doble oportunidad: 12 | 88% | 77% | 82% | 1.22 | +1% |
 | Doble oportunidad: 1X | 92% | 84% | 88% | 1.12 | -1% |
@@ -229,20 +229,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 43% | 62% | 53% | 1.53 | -19% |
 | Goles más/menos: Menos de 4.5 | 63% | 79% | 71% | 1.20 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Más de 1.5 | 81% | 61% | 71% | 1.53 | +9% |
 | Goles del local: Más de 2.5 | 60% | 35% | 48% | 2.62 | +25% |
 | Goles del local: Menos de 1.5 | 19% | 39% | 29% | 2.38 | -31% |
-| Goles del local: Menos de 2.5 | 40% | 65% | 52% | 1.44 | -25% |
+| Goles del local: Menos de 2.5 | 40% | 65% | 52% | 1.44 | -24% |
 | Goles del visitante: Más de 0.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del visitante: Más de 1.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles del visitante: Menos de 0.5 | 40% | 38% | 39% | 2.50 | -3% |
 | Goles del visitante: Menos de 1.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
+| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
 | 1X2 descanso: X | 29% | 37% | 33% | 2.50 | -18% |
-| 1X2 descanso: 1 | 60% | 46% | 53% | 2.00 | +7% |
+| 1X2 descanso: 1 | 60% | 46% | 53% | 2.00 | +6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
