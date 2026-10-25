@@ -29,6 +29,12 @@ def norm(t):
     return re.sub(r"\s+", " ", t).strip()
 
 
+def jugador_coincide(nombre, candidato):
+    """Acepta apellidos compuestos abreviados; la evaluación exige un único candidato."""
+    corto, completo = norm(nombre).split(), norm(candidato).split()
+    return mismo_jugador(nombre, candidato) or bool(corto and completo[-len(corto):] == corto)
+
+
 def lineas(texto):
     """Selecciones con cuota individual o marcadas con ✅, bandera o número."""
     salida = []
@@ -339,8 +345,7 @@ def evaluar(spec, d):
     if t == "jugador":
         nombre = norm(spec["jugador"])
         candidatos = [j for lista in (d.get("jugadores") or {}).values() for j in lista
-                      if mismo_jugador(nombre, j.get("nombre")) or
-                      (len(nombre.split()) == 1 and norm(j.get("nombre")).split()[-1:] == [nombre])]
+                      if jugador_coincide(nombre, j.get("nombre"))]
         if len(candidatos) != 1:
             return "sin_datos"
         if fin and candidatos[0].get("min") == 0:
@@ -402,8 +407,7 @@ def progreso(spec, d):
     if t == 'jugador':
         nombre = norm(spec['jugador'])
         candidatos = [j for lista in (d.get('jugadores') or {}).values() for j in lista
-                      if mismo_jugador(nombre, j.get('nombre')) or
-                      (len(nombre.split()) == 1 and norm(j.get('nombre')).split()[-1:] == [nombre])]
+                      if jugador_coincide(nombre, j.get('nombre'))]
         if len(candidatos) != 1 or not candidatos[0].get('min'):
             return None
         valor, objetivo = candidatos[0].get(spec['campo']), spec['n']
