@@ -417,7 +417,13 @@
     "solo_redes": true,
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "facebook": null,
+      "threads": "18141130567725276"
+    }
   },
   {
     "id": "2026-10-25-threads-opciones",
