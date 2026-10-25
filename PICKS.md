@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-25 07:45 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-25 12:58 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Domingo 25/10
 
@@ -38,7 +38,6 @@ _Generado el 2026-10-25 07:45 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 17:15 | Gol en la 1ª parte del Auxerre–Le Mans | goles | 1.33 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Le Mans marca | goles | 1.33 | 86% | Auxerre (en contra) 6/7 · Le Mans 6/7 |
 | 15:00 | Más de 1,5 goles en Genoa–Venezia | goles | 1.30 | 86% | Genoa 6/7 · Venezia 6/7 |
-| 12:30 | Más de 2,5 goles en Inter–Fiorentina | goles | 1.44 | 82% | Inter 8/10 · Fiorentina 6/7 |
 | 17:15 | Más de 2,5 goles en Rennes–Strasbourg | goles | 1.44 | 82% | Rennes 8/10 · Strasbourg 6/7 |
 | 17:30 | Leeds marca | goles | 1.30 | 82% | Sunderland (en contra) 8/10 · Leeds 6/7 |
 | 17:15 | Strasbourg marca | goles | 1.28 | 82% | Rennes (en contra) 8/10 · Strasbourg 6/7 |

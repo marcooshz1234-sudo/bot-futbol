@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-25 07:45",
+ "generado": "2026-10-25 12:58",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -242,22 +242,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.088,
      "detalle": "Genoa 6/7 · Venezia 6/7"
-    },
-    {
-     "partido_id": 1550161,
-     "fecha": "2026-10-25T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Inter",
-     "visitante": "Fiorentina",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Inter–Fiorentina",
-     "cuota": 1.44,
-     "frecuencia": 0.824,
-     "ventaja": 0.129,
-     "detalle": "Inter 8/10 · Fiorentina 6/7"
     },
     {
      "partido_id": 1552798,
@@ -702,22 +686,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.088,
      "detalle": "Genoa 6/7 · Venezia 6/7"
-    },
-    {
-     "partido_id": 1550161,
-     "fecha": "2026-10-25T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Inter",
-     "visitante": "Fiorentina",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Inter–Fiorentina",
-     "cuota": 1.44,
-     "frecuencia": 0.824,
-     "ventaja": 0.129,
-     "detalle": "Inter 8/10 · Fiorentina 6/7"
     },
     {
      "partido_id": 1552798,
