@@ -53,6 +53,28 @@ def peso(p, hoy):
     return 0.5 ** (max(dias, 0) / VIDA_MEDIA)
 
 
+def implicita(p):
+    """Probabilidad que da el mercado. Si hay cuotas de otras casas, se usa su mediana (el consenso
+    acierta más que una sola casa); si no, la de bet365."""
+    cuota = float(p["cuota"])
+    vm = p.get("valor_mercado")
+    if vm is not None and -0.3 < vm < 0.3:
+        cuota = cuota / (1 + vm)
+    return 1 / cuota
+
+
+def tramo_cuota(p):
+    c = float(p.get("cuota") or 0)
+    return "≤1,35" if c <= 1.35 else "1,36-1,60" if c <= 1.60 else ">1,60"
+
+
+def senal(p):
+    vm = p.get("valor_mercado")
+    if vm is None:
+        return "sin otras casas"
+    return "bet365 paga más" if vm > 0.02 else "bet365 paga menos" if vm < -0.02 else "igual que el resto"
+
+
 def calibrar(resueltos):
     hoy = datetime.now(MADRID).replace(tzinfo=None)
     por_partido = defaultdict(int)
@@ -61,7 +83,7 @@ def calibrar(resueltos):
     filas = []
     for p in resueltos:
         try:
-            imp, f = 1 / float(p["cuota"]), float(p["frecuencia"])
+            imp, f = implicita(p), float(p["frecuencia"])
         except (KeyError, TypeError, ValueError, ZeroDivisionError):
             continue
         # los picks de un mismo partido caen juntos: entre todos cuentan como un partido
@@ -83,6 +105,10 @@ def calibrar(resueltos):
     a_fino, n_fino = ajustar(seg_fino, base)
     base = [b + a_fino[seg_fino(x[0])] for b, x in zip(base, filas)]
     a_liga, n_liga = ajustar(lambda p: p.get("competicion") or "?", base)
+    base = [b + a_liga[x[0].get("competicion") or "?"] for b, x in zip(base, filas)]
+    a_cuota, n_cuota = ajustar(tramo_cuota, base)
+    base = [b + a_cuota[tramo_cuota(x[0])] for b, x in zip(base, filas)]
+    a_senal, n_senal = ajustar(senal, base)
 
     def tabla(aj, n, clave):
         out = {}
@@ -100,17 +126,18 @@ def calibrar(resueltos):
             "implicita_media": round(sum(x[1] for x in filas) / n, 3) if n else None,
             "w_frecuencia": round(w_frec, 3),
             "tipos": tabla(a_tipo, n_tipo, seg_tipo), "mercados": tabla(a_fino, n_fino, seg_fino),
-            "ligas": tabla(a_liga, n_liga, lambda p: p.get("competicion") or "?")}
+            "ligas": tabla(a_liga, n_liga, lambda p: p.get("competicion") or "?"),
+            "cuotas": tabla(a_cuota, n_cuota, tramo_cuota), "senales": tabla(a_senal, n_senal, senal)}
 
 
 def prob_aprendida(p, ap):
     """Probabilidad real estimada de un pick con lo aprendido (None si no hay modelo o cuota)."""
     if not ap or not p.get("cuota"):
         return None
-    imp = 1 / float(p["cuota"])
+    imp = implicita(p)
     prob = imp + ap["w_frecuencia"] * (float(p["frecuencia"]) - imp)
     for tabla, clave in (("tipos", seg_tipo(p)), ("mercados", seg_fino(p)),
-                         ("ligas", p.get("competicion") or "?")):
+                         ("ligas", p.get("competicion") or "?"), ("cuotas", tramo_cuota(p)), ("senales", senal(p))):
         prob += (ap.get(tabla, {}).get(clave) or {}).get("ajuste", 0)
     return max(0.01, min(0.99, prob))
 
@@ -207,7 +234,8 @@ def lecciones(reg, ap, previo, dia):
                    f"Peso de la estadística frente a la cuota: {ap['w_frecuencia']:.2f}"
                    + (f" (antes {previo['w_frecuencia']:.2f})" if previo and previo.get("w_frecuencia") is not None else "")]
         cambios = []
-        for tabla, nombre in (("tipos", "tipo"), ("mercados", "mercado"), ("ligas", "liga")):
+        for tabla, nombre in (("tipos", "tipo"), ("mercados", "mercado"), ("ligas", "liga"),
+                              ("cuotas", "cuota"), ("senales", "mercado de casas:")):
             for k, v in ap.get(tabla, {}).items():
                 antes = ((previo or {}).get(tabla, {}).get(k) or {}).get("ajuste", 0)
                 if abs(v["ajuste"]) >= 0.03 and abs(v["ajuste"] - antes) >= 0.01:

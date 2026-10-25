@@ -307,7 +307,9 @@ def recoger(api):
         fid = p["fixture"]["id"]
         ruta = EXTRA / f"{fid}.json"
         ex = leer(ruta, {})
-        reciente = (ex.get("actualizado") and ahora() - fecha(ex["actualizado"]) < timedelta(hours=HORAS_REFRESCO)
+        # los partidos lejanos (más de 3 días) cambian poco: se refrescan una vez al día, no cada 6 h
+        horas = HORAS_REFRESCO if fecha(p["fixture"]["date"]) - ahora() < timedelta(days=3) else 24
+        reciente = (ex.get("actualizado") and ahora() - fecha(ex["actualizado"]) < timedelta(hours=horas)
                     and ex.get("cuotas_version") == CUOTAS_VERSION)
         if not reciente:
             ex["lesiones"] = [

@@ -200,7 +200,15 @@ class Asistente:
             cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
             if timedelta(0) < cuando - ahora <= AVISO_ANTES:
                 texto = c["textos"].get(p["id"], p["texto"])
-                self.enviar(f"📝 Sale a las {cuando:%H:%M}:\n\n{texto}",
+                try:
+                    from revisor import veredicto
+                    avisos = veredicto(p)
+                except Exception as e:
+                    print("veredicto:", str(e)[:120])
+                    avisos = None
+                nota = ("" if avisos is None else "\n\n🟢 El bot no ve nada raro." if not avisos
+                        else "\n\n⚠️ Ojo:\n" + "\n".join(f"• {a}" for a in avisos[:6]))
+                self.enviar(f"📝 Sale a las {cuando:%H:%M}:\n\n{texto}{nota}",
                             [[("✅ Vale", f"ok|{p['id']}"), ("✏️ Cambiar", f"cambiar|{p['id']}"),
                               ("❌ Cancelar", f"cancelar|{p['id']}")]])
                 c["avisados"].append(p["id"])

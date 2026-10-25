@@ -48,7 +48,8 @@ def main():
                 continue   # ya empezó: se queda la cuota con la que se eligió
             reg[k] = {c: p.get(c) for c in ("partido_id", "fecha", "competicion", "local", "visitante",
                                              "mercado", "opcion", "tipo", "texto", "cuota", "frecuencia",
-                                             "jugador_id", "jugador", "campo", "n")}
+                                             "jugador_id", "jugador", "campo", "n", "valor_mercado", "movimiento",
+                                             "ventaja", "prob_aprendida")}
             reg[k]["acierto"] = None
 
     corregidos = 0

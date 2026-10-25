@@ -67,7 +67,8 @@ def proximos():
         pa = (leer(f) or {}).get("partido")
         if pa:
             salida.append({"id": pa["fixture"]["id"], "local": pa["teams"]["home"]["name"],
-                           "visitante": pa["teams"]["away"]["name"]})
+                           "visitante": pa["teams"]["away"]["name"],
+                           "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d")})
     return salida
 
 
@@ -112,6 +113,26 @@ def problemas_post(p, partidos, hist, arbitros, picks_bot):
         if act and l.get("cuota") and abs(act - l["cuota"]) >= CAMBIO_CUOTA:
             salida.append(f"{etiqueta}: la cuota está ahora a {act:.2f} (en el post {l['cuota']:.2f})".replace(".", ","))
     return salida
+
+
+def veredicto(p):
+    """Líneas de aviso de un post antes de salir (vacío = el bot no ve nada raro). Junta lo del
+    revisor (bajas, árbitro, cuota movida) con lo aprendido (patas que ya no tienen valor)."""
+    import aprender
+    lineas = []
+    try:
+        lineas += problemas_post(p, proximos(), historial(), indice_arbitros(), None)
+    except Exception as e:
+        print("veredicto:", str(e)[:120])
+    ap = leer(DATOS / "aprendizaje.json", {}) or {}
+    picks = {f"{x['partido_id']}|{x['mercado']}|{x['opcion']}": x
+             for d in ((leer(DATOS / "picks.json", {}) or {}).get("dias") or {}).values() for x in d.get("picks", [])}
+    for clave in p.get("sel") or []:
+        x = picks.get(clave)
+        pr = aprender.prob_aprendida(x, ap) if x else None
+        if pr is not None and pr < 1 / x["cuota"] - 0.05:   # solo lo claramente flojo, para no avisar de todo
+            lineas.append(f"«{x['texto']}»: con lo aprendido acierta ~{pr:.0%} y la cuota pide {1 / x['cuota']:.0%}")
+    return lineas
 
 
 def main():
