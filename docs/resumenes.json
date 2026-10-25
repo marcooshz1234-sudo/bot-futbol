@@ -148,5 +148,32 @@
       }
     ],
     "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n❌ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n⏳ 🔥 9 PICKS PARA MAÑANA (DOMINGO) 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 8 falladas · ⏳ 2 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos."
+  },
+  "2026-10-25": {
+    "dia": "2026-10-25",
+    "total": 2,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 2,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 2
+    },
+    "combis": [
+      {
+        "id": "2026-10-25-cuota3",
+        "titulo": "💥 COMBINADA DEL DOMINGO · 3 PICKS 💥",
+        "estado": "pendiente",
+        "cuota": 3.11
+      },
+      {
+        "id": "2026-10-25-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1/7 🍀",
+        "estado": "pendiente",
+        "cuota": 2.21
+      }
+    ],
+    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n⏳ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
