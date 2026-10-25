@@ -1,10 +1,10 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:17_
 
 - **1X2:** 1 **2.00**  ·  X **3.60**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.80**
@@ -56,53 +56,53 @@ _Actualizadas: 25/10 13:45_
 ## Estadísticas de equipo
 | | Athletic Club (total) | Athletic Club en casa | Real Sociedad (total) | Real Sociedad fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 12 | 7 |
-| Forma (últimos 5) | DEEEV | EEVD | VVEVV | VVEVV |
-| Balance | 2V 3E 3D | 1V 2E 1D | 6V 2E 4D | 4V 1E 2D |
-| Goles a favor / partido | 1,00 | 1,25 | 2,08 | 2,71 |
-| Goles en contra / partido | 1,12 | 1,00 | 1,67 | 1,71 |
-| Goles a favor 1ª parte | 0,25 | 0,00 | 1,00 | 1,29 |
-| Goles a favor 2ª parte | 0,75 | 1,25 | 1,08 | 1,43 |
-| Goles en contra 1ª parte | 0,50 | 0,25 | 0,33 | 0,14 |
-| Goles en contra 2ª parte | 0,62 | 0,75 | 1,33 | 1,57 |
-| Más de 1,5 goles | 75% | 75% | 83% | 86% |
-| Más de 2,5 goles | 38% | 50% | 75% | 71% |
-| Más de 3,5 goles | 25% | 25% | 50% | 71% |
-| Ambos marcan | 38% | 50% | 67% | 71% |
-| Portería a cero | 50% | 50% | 17% | 14% |
-| Se queda sin marcar | 38% | 25% | 25% | 14% |
-| xG a favor | 1,53 | 1,67 | 1,38 | 1,52 |
-| xG en contra | 1,34 | 0,58 | 1,71 | 1,92 |
-| Tiros / partido | 15,5 | 18,0 | 13,8 | 13,7 |
-| Tiros a puerta / partido | 4,2 | 5,2 | 5,2 | 5,1 |
-| Tiros recibidos | 10,6 | 6,8 | 15,8 | 18,1 |
-| Tiros a puerta recibidos | 4,0 | 2,5 | 5,5 | 6,6 |
-| Posesión media % | 55 | 60 | 50 | 51 |
-| Córners a favor | 6,5 | 6,2 | 6,5 | 4,9 |
-| Córners en contra | 4,2 | 3,2 | 4,5 | 4,6 |
-| Córners a favor 1ª parte | 3,5 | 2,8 | 3,3 | 2,3 |
-| Córners a favor 2ª parte | 3,0 | 3,5 | 3,2 | 2,6 |
-| Córners totales del partido | 10,8 | 9,5 | 11,0 | 9,4 |
-| Córners totales 1ª parte | 5,6 | 4,2 | 4,8 | 3,9 |
-| Córners totales 2ª parte | 5,1 | 5,2 | 6,2 | 5,6 |
-| Más de 8,5 córners | 62% | 50% | 83% | 71% |
-| Más de 9,5 córners | 62% | 50% | 67% | 43% |
-| Más de 10,5 córners | 62% | 50% | 58% | 43% |
-| Faltas cometidas | 11,5 | 11,0 | 11,9 | 9,7 |
-| Faltas recibidas | 11,9 | 11,8 | 10,3 | 9,1 |
-| Amarillas propias | 2,0 | 1,8 | 2,1 | 2,1 |
-| Amarillas del rival | 1,9 | 2,2 | 2,4 | 2,3 |
-| Rojas / partido | 0,25 | 0,25 | 0,25 | 0,29 |
+| Partidos analizados | 9 | 5 | 12 | 7 |
+| Forma (últimos 5) | VDEEE | VEEVD | VVEVV | VVEVV |
+| Balance | 3V 3E 3D | 2V 2E 1D | 6V 2E 4D | 4V 1E 2D |
+| Goles a favor / partido | 1,33 | 1,80 | 2,08 | 2,71 |
+| Goles en contra / partido | 1,00 | 0,80 | 1,67 | 1,71 |
+| Goles a favor 1ª parte | 0,44 | 0,40 | 1,00 | 1,29 |
+| Goles a favor 2ª parte | 0,89 | 1,40 | 1,08 | 1,43 |
+| Goles en contra 1ª parte | 0,44 | 0,20 | 0,33 | 0,14 |
+| Goles en contra 2ª parte | 0,56 | 0,60 | 1,33 | 1,57 |
+| Más de 1,5 goles | 78% | 80% | 83% | 86% |
+| Más de 2,5 goles | 44% | 60% | 75% | 71% |
+| Más de 3,5 goles | 33% | 40% | 50% | 71% |
+| Ambos marcan | 33% | 40% | 67% | 71% |
+| Portería a cero | 56% | 60% | 17% | 14% |
+| Se queda sin marcar | 33% | 20% | 25% | 14% |
+| xG a favor | 1,45 | 1,49 | 1,38 | 1,52 |
+| xG en contra | 1,24 | 0,55 | 1,71 | 1,92 |
+| Tiros / partido | 15,0 | 16,6 | 13,8 | 13,7 |
+| Tiros a puerta / partido | 4,2 | 5,0 | 5,2 | 5,1 |
+| Tiros recibidos | 10,2 | 6,8 | 15,8 | 18,1 |
+| Tiros a puerta recibidos | 3,7 | 2,2 | 5,5 | 6,6 |
+| Posesión media % | 56 | 60 | 50 | 51 |
+| Córners a favor | 6,0 | 5,4 | 6,5 | 4,9 |
+| Córners en contra | 4,2 | 3,4 | 4,5 | 4,6 |
+| Córners a favor 1ª parte | 3,2 | 2,4 | 3,3 | 2,3 |
+| Córners a favor 2ª parte | 2,8 | 3,0 | 3,2 | 2,6 |
+| Córners totales del partido | 10,2 | 8,8 | 11,0 | 9,4 |
+| Córners totales 1ª parte | 5,3 | 4,0 | 4,8 | 3,9 |
+| Córners totales 2ª parte | 4,9 | 4,8 | 6,2 | 5,6 |
+| Más de 8,5 córners | 56% | 40% | 83% | 71% |
+| Más de 9,5 córners | 56% | 40% | 67% | 43% |
+| Más de 10,5 córners | 56% | 40% | 58% | 43% |
+| Faltas cometidas | 11,4 | 11,0 | 11,9 | 9,7 |
+| Faltas recibidas | 12,2 | 12,4 | 10,3 | 9,1 |
+| Amarillas propias | 1,9 | 1,6 | 2,1 | 2,1 |
+| Amarillas del rival | 2,0 | 2,4 | 2,4 | 2,3 |
+| Rojas / partido | 0,22 | 0,20 | 0,25 | 0,29 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Athletic Club | Recibe Athletic Club | Tarjetas Athletic Club | Goles Real Sociedad | Recibe Real Sociedad | Tarjetas Real Sociedad |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 1 | 1 | 3 | 1 | 1 |
-| 16-30' | 2 | 2 | 1 | 5 | 1 | 5 |
-| 31-45' | 0 | 1 | 2 | 4 | 2 | 4 |
+| 16-30' | 3 | 2 | 1 | 5 | 1 | 5 |
+| 31-45' | 1 | 1 | 2 | 4 | 2 | 4 |
 | 46-60' | 2 | 3 | 3 | 4 | 3 | 4 |
-| 61-75' | 2 | 0 | 5 | 5 | 7 | 7 |
-| 76-90' | 2 | 1 | 6 | 4 | 6 | 7 |
+| 61-75' | 3 | 0 | 6 | 5 | 7 | 7 |
+| 76-90' | 3 | 1 | 6 | 4 | 6 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -120,36 +120,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Athletic Club
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | LaLiga | Athletic Club 4-0 Getafe | casa | 2-4 | 11 (4) - 7 (1) | 1-3 |
 | 2026-10-21 | LaLiga | Levante 3-1 Athletic Club | fuera | 9-3 | 21 (4) - 12 (7) | 1-2 |
 | 2026-10-17 | LaLiga | Valencia 0-0 Athletic Club | fuera | 6-2 | 9 (2) - 16 (3) | 3-3 |
 | 2026-09-19 | LaLiga | Athletic Club 0-0 Alaves | casa | 5-1 | 24 (6) - 2 (0) | 2-0 |
 | 2026-09-12 | LaLiga | Athletic Club 1-1 Elche | casa | 7-1 | 19 (3) - 3 (1) | 3-3 |
 | 2026-09-05 | LaLiga | Athletic Club 3-0 Atletico Madrid | casa | 3-8 | 11 (4) - 15 (5) | 0-1 |
-| 2026-08-30 | LaLiga | Celta Vigo 0-2 Athletic Club | fuera | 7-4 | 17 (7) - 8 (2) | 3-0 |
 
 ## Jugadores de Athletic Club
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Unai Simón | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Unai Simón | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Aymeric Laporte | D | 8 | 645 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 3 | 0,4 | 1 | 1 |
+| I. Williams | M | 9 | 585 | 2 | 2 | 16 | 1,8 | 7 | 0,8 | 5 | 10 | 1,1 | 0 | 0 |
+| Álex Berenguer | M | 9 | 550 | 3 | 4 | 11 | 1,2 | 5 | 0,6 | 7 | 9 | 1,0 | 1 | 0 |
+| Yuri | D | 7 | 547 | 1 | 0 | 12 | 1,7 | 2 | 0,3 | 5 | 2 | 0,3 | 3 | 1 |
 | Oihan Sancet | M | 6 | 515 | 1 | 0 | 14 | 2,3 | 5 | 0,8 | 3 | 10 | 1,7 | 0 | 0 |
-| I. Williams | F | 8 | 500 | 1 | 2 | 13 | 1,6 | 6 | 0,8 | 4 | 7 | 0,9 | 0 | 0 |
+| Beñat Gerenabarrena | M | 7 | 490 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 13 | 8 | 1,1 | 4 | 0 |
+| Aitor Paredes | D | 7 | 488 | 2 | 0 | 2 | 0,3 | 2 | 0,3 | 4 | 2 | 0,3 | 0 | 0 |
 | Robert Navarro | M | 7 | 488 | 2 | 0 | 9 | 1,3 | 7 | 1,0 | 1 | 5 | 0,7 | 1 | 0 |
-| Álex Berenguer | M | 8 | 460 | 2 | 1 | 9 | 1,1 | 4 | 0,5 | 6 | 8 | 1,0 | 1 | 0 |
-| Yuri | D | 6 | 457 | 0 | 0 | 11 | 1,8 | 1 | 0,2 | 5 | 2 | 0,3 | 3 | 1 |
-| Ruíz de Galarreta | M | 7 | 438 | 0 | 1 | 6 | 0,9 | 1 | 0,1 | 12 | 6 | 0,9 | 3 | 0 |
-| Beñat Gerenabarrena | M | 6 | 418 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 12 | 7 | 1,2 | 3 | 0 |
+| Ruíz de Galarreta | M | 8 | 456 | 0 | 1 | 6 | 0,8 | 1 | 0,1 | 12 | 6 | 0,8 | 3 | 0 |
+| Nico Williams | M | 8 | 441 | 1 | 0 | 14 | 1,8 | 2 | 0,2 | 7 | 5 | 0,6 | 0 | 0 |
+| Peio Canales | M | 7 | 439 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 4 | 8 | 1,1 | 0 | 0 |
 | Yeray | D | 5 | 405 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 2 | 3 | 0,6 | 0 | 0 |
-| Aitor Paredes | D | 6 | 398 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,3 | 0 | 0 |
-| Nico Williams | F | 7 | 373 | 1 | 0 | 12 | 1,7 | 2 | 0,3 | 5 | 3 | 0,4 | 0 | 0 |
 | Jesús Areso | D | 6 | 371 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 3 | 3 | 0,5 | 1 | 0 |
-| Peio Canales | M | 6 | 355 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 3 | 6 | 1,0 | 0 | 0 |
+| Hugo Rincón | D | 5 | 367 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 11 | 2,2 | 0 | 0 |
 | Mikel Jauregizar | M | 7 | 302 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 7 | 3 | 0,4 | 0 | 0 |
-| Hugo Rincón | D | 4 | 277 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 8 | 2,0 | 0 | 0 |
 | J. Louis-Jean | M | 7 | 276 | 0 | 0 | 5 | 0,7 | 0 | 0,0 | 7 | 4 | 0,6 | 1 | 0 |
+| Maroan Sannadi | F | 6 | 249 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 3 | 8 | 1,3 | 0 | 0 |
 | Gorka Guruzeta | F | 5 | 183 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 3 | 0,6 | 2 | 0 |
-| Maroan Sannadi | F | 5 | 181 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 2 | 8 | 1,6 | 0 | 0 |
-| Alejandro Rego | M | 2 | 36 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| Dani Vivian | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Real Sociedad
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -186,42 +186,42 @@ _Sin bajas comunicadas por ahora._
 | Héctor Fort | D | 4 | 124 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,80 · visitante 1,26 · córners esperados 10,8._
+_Goles esperados: local 1,87 · visitante 1,21 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: X | 23% | 26% | 25% | 3.60 | -12% |
-| 1X2: 1 | 50% | 47% | 48% | 2.00 | -3% |
-| Doble oportunidad: X2 | 50% | 53% | 51% | 1.80 | -8% |
+| 1X2: 2 | 25% | 27% | 26% | 3.40 | -12% |
+| 1X2: X | 23% | 26% | 24% | 3.60 | -13% |
+| 1X2: 1 | 53% | 47% | 50% | 2.00 | -0% |
+| Doble oportunidad: X2 | 47% | 53% | 50% | 1.80 | -10% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 73% | 73% | 73% | 1.30 | -5% |
-| Ambos marcan: No | 40% | 45% | 43% | 2.05 | -12% |
-| Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
+| Doble oportunidad: 1X | 75% | 73% | 74% | 1.30 | -3% |
+| Ambos marcan: No | 41% | 45% | 43% | 2.05 | -12% |
+| Ambos marcan: Sí | 59% | 55% | 57% | 1.70 | -3% |
 | Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
-| Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
-| Goles más/menos: Más de 3.5 ✅ | 36% | 30% | 33% | 3.20 | +6% |
-| Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
-| Goles más/menos: Menos de 3.5 | 64% | 70% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Goles más/menos: Más de 2.5 | 60% | 53% | 56% | 1.80 | +1% |
+| Goles más/menos: Más de 3.5 ✅ | 37% | 30% | 34% | 3.20 | +7% |
+| Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -15% |
+| Goles más/menos: Menos de 2.5 | 40% | 47% | 44% | 2.00 | -12% |
+| Goles más/menos: Menos de 3.5 | 63% | 70% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del local: Más de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Goles del local: Más de 2.5 | 27% | 23% | 25% | 4.00 | +0% |
-| Goles del local: Menos de 0.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del local: Menos de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles del local: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del visitante: Más de 0.5 | 72% | 69% | 70% | 1.36 | -5% |
-| Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles del visitante: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -10% |
-| Goles del visitante: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Córners más/menos: Más de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Córners más/menos: Menos de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -7% |
-| 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -9% |
-| 1X2 descanso: 1 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles del local: Más de 0.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Goles del local: Más de 1.5 | 56% | 49% | 52% | 1.91 | -0% |
+| Goles del local: Más de 2.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles del local: Menos de 0.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del local: Menos de 1.5 | 44% | 51% | 48% | 1.80 | -14% |
+| Goles del local: Menos de 2.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles del visitante: Más de 0.5 | 70% | 69% | 70% | 1.36 | -5% |
+| Goles del visitante: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles del visitante: Menos de 0.5 | 30% | 31% | 30% | 3.00 | -9% |
+| Goles del visitante: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
+| Córners más/menos: Más de 9.5 | 53% | 51% | 52% | 1.80 | -6% |
+| Córners más/menos: Menos de 9.5 | 47% | 49% | 48% | 1.91 | -9% |
+| 1X2 descanso: 2 | 22% | 23% | 22% | 4.00 | -10% |
+| 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -9% |
+| 1X2 descanso: 1 | 39% | 35% | 37% | 2.62 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

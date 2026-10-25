@@ -26,23 +26,37 @@
   {
     "id": "2026-10-26-combi-dia",
     "fecha": "2026-10-26T12:00",
-    "texto": "🎯 LA COMBI DEL LUNES 🎯\n\n✅1. Más de 26,5 tiros en Paris Saint Germain–Lyon · 1,80\n✅2. Más de 1,5 goles en Sevilla–Osasuna · 1,36\n\n🎯 Cuota total: 2,45\n💶 10€ → 24,48€\n\n📊 Más de 26,5 tiros en Paris Saint Germain–Lyon → Paris Saint Germain 10/10 · Lyon 7/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🎯 LA COMBI DEL LUNES 🎯\n\n✅1. Más de 26,5 tiros en Paris Saint Germain–Lyon · 1,80\n✅2. Youssouf Fofana: 1+ tiros a puerta · 1,80\n\n🎯 Cuota total: 3,24\n💶 10€ → 32,40€\n\n📊 Más de 26,5 tiros en Paris Saint Germain–Lyon → Paris Saint Germain 10/10 · Lyon 7/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552800|Total Shots|Over 26.5",
-      "1570431|Goals Over/Under|Over 1.5"
+      "1570431|Home Player Shots On Target Total|Youssouf Fofana - 1"
     ]
   },
   {
-    "id": "2026-10-27-combi-dia",
-    "fecha": "2026-10-27T12:00",
-    "texto": "🎯 LA COMBI DEL MARTES 🎯\n\n✅1. Lazio o empate · 1,40\n✅2. Torino marca · 1,40\n\n🎯 Cuota total: 1,96\n💶 10€ → 19,60€\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-10-27-picks-manana",
+    "fecha": "2026-10-26T23:00",
+    "texto": "🔥 3 PICKS PARA MAÑANA (MARTES) 🔥\n\n✅1. Lazio o empate · 1,36\n✅2. Alessandro Romano: 1+ tiros · 1,57\n✅3. Torino marca · 1,40\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1550174|Double Chance|Draw/Away",
+      "1550168|Away Player Shots|Alessandro Romano - 1",
+      "1550175|Total - Home|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-combi-cuota_3",
+    "fecha": "2026-10-27T11:00",
+    "texto": "💥 COMBINADA CUOTA 3 DEL MARTES 💥\n\n✅1. Alessandro Romano: 1+ tiros · 1,57\n✅2. Lazio o empate · 1,36\n✅3. Torino marca · 1,40\n\n🎯 Cuota total: 2,99\n💶 10€ → 29,90€\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550168|Away Player Shots|Alessandro Romano - 1",
       "1550174|Double Chance|Draw/Away",
       "1550175|Total - Home|Over 0.5"
     ]
@@ -50,29 +64,28 @@
   {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Akor Adams: 1+ tiros a puerta · 1,62\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550172|Home Player Shots|Samuele Birindelli - 1",
       "1550173|Goals Over/Under - Second Half|Over 0.5",
-      "1550171|Goals Over/Under|Over 1.5",
-      "1550176|Match Winner|Away"
+      "1550171|To Win Either Half|Away",
+      "1550176|Home Player Shots On Target Total|Akor Adams - 1"
     ]
   },
   {
     "id": "2026-10-28-combi-cuota_3",
     "fecha": "2026-10-28T11:00",
-    "texto": "💥 COMBINADA CUOTA 3 DEL MIÉRCOLES 💥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Monza marca · 1,44\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gana el Inter · 1,33\n\n🎯 Cuota total: 3,43\n💶 10€ → 34,30€\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 7/8 · Udinese 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBINADA CUOTA 3 DEL MIÉRCOLES 💥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Akor Adams: 1+ tiros a puerta · 1,62\n✅3. Juventus gana alguna de las dos partes · 1,40\n\n🎯 Cuota total: 2,90\n💶 10€ → 29,00€\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 7/8 · Udinese 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550173|Goals Over/Under - Second Half|Over 0.5",
-      "1550172|Total - Home|Over 0.5",
-      "1550171|To Win Either Half|Away",
-      "1550176|Match Winner|Away"
+      "1550176|Home Player Shots On Target Total|Akor Adams - 1",
+      "1550171|To Win Either Half|Away"
     ]
   },
   {
@@ -90,12 +103,13 @@
   {
     "id": "2026-10-28-picks-hoy",
     "fecha": "2026-10-28T17:30",
-    "texto": "🔥 3 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅3. Más de 1,5 goles en Parma–Udinese · 1,36\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Antoine Hainaut: 1+ tiros · 1,36\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Más de 1,5 goles en Parma–Udinese · 1,36\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550172|Total - Home|Over 0.5",
+      "1550176|Home Player Shots|Antoine Hainaut - 1",
       "1550171|Goals Over/Under|Over 1.5",
       "1550173|Goals Over/Under|Over 1.5"
     ]
@@ -113,87 +127,104 @@
     ]
   },
   {
-    "id": "2026-10-30-combi-dia",
-    "fecha": "2026-10-30T12:00",
-    "texto": "🎯 LA COMBI DEL VIERNES 🎯\n\n✅1. Espanyol marca · 1,44\n✅2. Gol en la 1ª parte del Lille–Lens · 1,30\n\n🎯 Cuota total: 1,87\n💶 10€ → 18,72€\n\n📊 Espanyol marca → Villarreal (en contra) 9/10 · Espanyol 9/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-10-30-picks-manana",
+    "fecha": "2026-10-29T23:00",
+    "texto": "🔥 4 PICKS PARA MAÑANA (VIERNES) 🔥\n\n✅1. Espanyol marca · 1,44\n✅2. Phillip Tietz: 3+ tiros · 1,62\n✅3. Amir Richardson: 1+ tiros · 1,50\n✅4. Gol en la 1ª parte del Lille–Lens · 1,30\n\n📊 Espanyol marca → Villarreal (en contra) 9/10 · Espanyol 9/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570442|Total - Away|Over 0.5",
+      "1575211|Away Player Shots|Phillip Tietz - 3",
+      "1552801|Home Player Shots|Amir Richardson - 1",
       "1552802|Goals Over/Under First Half|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-30-combi-cuota_3",
+    "fecha": "2026-10-30T11:00",
+    "texto": "💥 COMBINADA CUOTA 3 DEL VIERNES 💥\n\n✅1. Espanyol marca · 1,44\n✅2. Phillip Tietz: 3+ tiros · 1,62\n✅3. Amir Richardson: 1+ tiros · 1,50\n\n🎯 Cuota total: 3,50\n💶 10€ → 35,00€\n\n📊 Espanyol marca → Villarreal (en contra) 9/10 · Espanyol 9/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570442|Total - Away|Over 0.5",
+      "1575211|Away Player Shots|Phillip Tietz - 3",
+      "1552801|Home Player Shots|Amir Richardson - 1"
     ]
   },
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. Lorient marca · 1,28\n✅3. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅4. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅5. Brentford o empate · 1,28\n✅6. Hull City marca · 1,25\n✅7. Más de 1,5 goles en Rayo Vallecano–Celta Vigo · 1,33\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 10/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Niclas Fullkrug: 1+ tiros a puerta · 1,25\n✅2. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅3. Brentford o empate · 1,28\n✅4. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅5. Lorient marca · 1,28\n✅6. Santiago Castaneda: 1+ tiros · 1,62\n✅7. Gana el Bayer Leverkusen · 1,75\n\n📊 Niclas Fullkrug: 1+ tiros a puerta → Niclas Fullkrug 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
       "1575206|Goals Over/Under First Half|Over 0.5",
-      "1552803|Total - Home|Over 0.5",
-      "1552809|Goals Over/Under|Over 1.5",
-      "1575209|Both Teams Score|Yes",
       "1557449|Double Chance|Home/Draw",
-      "1557452|Total - Home|Over 0.5",
-      "1570441|Goals Over/Under|Over 1.5"
+      "1575203|Corners Over Under|Over 9.5",
+      "1552803|Total - Home|Over 0.5",
+      "1575208|Away Player Shots|Santiago Castaneda - 1",
+      "1575204|Match Winner|Home"
     ]
   },
   {
     "id": "2026-10-31-combi-cuota_3",
     "fecha": "2026-10-31T11:00",
-    "texto": "💥 COMBINADA CUOTA 3 DEL SÁBADO 💥\n\n✅1. Lorient marca · 1,28\n✅2. 1899 Hoffenheim hace más de 4,5 córners · 1,73\n✅3. SC Freiburg gana alguna de las dos partes · 1,57\n\n🎯 Cuota total: 3,48\n💶 10€ → 34,80€\n\n📊 Lorient marca → Lorient 6/7 · Stade Brestois 29 (en contra) 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBINADA CUOTA 3 DEL SÁBADO 💥\n\n✅1. Lorient marca · 1,28\n✅2. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅3. 1899 Hoffenheim hace más de 4,5 córners · 1,73\n✅4. Brentford o empate · 1,28\n\n🎯 Cuota total: 3,54\n💶 10€ → 35,40€\n\n📊 Lorient marca → Lorient 6/7 · Stade Brestois 29 (en contra) 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552803|Total - Home|Over 0.5",
+      "1552809|Goals Over/Under|Over 1.5",
       "1575209|Away Corners Over/Under|Over 4.5",
-      "1575206|To Win Either Half|Away"
+      "1557449|Double Chance|Home/Draw"
     ]
   },
   {
     "id": "2026-10-31-combi-segura",
     "fecha": "2026-10-31T12:00",
-    "texto": "📊 COMBI DE DATOS DEL SÁBADO 📊\n\n✅1. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅2. Brentford o empate · 1,28\n\n🎯 Cuota total: 1,60\n💶 10€ → 16,00€\n\n📊 Gol en la 1ª parte del FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 10/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "📊 COMBI DE DATOS DEL SÁBADO 📊\n\n✅1. Niclas Fullkrug: 1+ tiros a puerta · 1,25\n✅2. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n\n🎯 Cuota total: 1,56\n💶 10€ → 15,60€\n\n📊 Niclas Fullkrug: 1+ tiros a puerta → Niclas Fullkrug 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575206|Goals Over/Under First Half|Over 0.5",
-      "1557449|Double Chance|Home/Draw"
+      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
+      "1575206|Goals Over/Under First Half|Over 0.5"
     ]
   },
   {
     "id": "2026-10-31-combi-loca",
     "fecha": "2026-10-31T14:30",
-    "texto": "🤪 COMBI LOCA DEL SÁBADO 🤪\n\n✅1. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅2. Más de 2,5 goles en FC Augsburg–SC Freiburg · 1,50\n✅3. Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim · 1,62\n✅4. Malaga hace más de 3,5 córners · 1,73\n✅5. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n\n🎯 Cuota total: 9,09\n💶 10€ → 90,90€\n\n📊 Más de 1,5 goles en Estac Troyes–Le Mans → Estac Troyes 6/7 · Le Mans 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤪 COMBI LOCA DEL SÁBADO 🤪\n\n✅1. Más de 2,5 goles en FC Augsburg–SC Freiburg · 1,50\n✅2. Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim · 1,62\n✅3. Pathe Mboup: 2+ tiros · 1,33\n✅4. Santiago Castaneda: 1+ tiros · 1,62\n✅5. Malaga hace más de 3,5 córners · 1,73\n\n🎯 Cuota total: 9,06\n💶 10€ → 90,60€\n\n📊 Más de 2,5 goles en FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 9/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552809|Goals Over/Under|Over 1.5",
       "1575206|Goals Over/Under|Over 2.5",
       "1575209|Goals Over/Under - Second Half|Over 1.5",
-      "1570435|Away Corners Over/Under|Over 3.5",
-      "1575203|Corners Over Under|Over 9.5"
+      "1552803|Away Player Shots|Pathe Mboup - 2",
+      "1575208|Away Player Shots|Santiago Castaneda - 1",
+      "1570435|Away Corners Over/Under|Over 3.5"
     ]
   },
   {
     "id": "2026-10-31-picks-hoy",
     "fecha": "2026-10-31T17:30",
-    "texto": "🔥 5 PICKS PARA HOY 🔥\n\n✅1. Le Mans marca · 1,33\n✅2. Gol en la 1ª parte del Lyon–Angers · 1,25\n✅3. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅4. Alaves marca · 1,73\n✅5. Malaga hace más de 3,5 córners · 1,73\n\n📊 Le Mans marca → Estac Troyes (en contra) 6/7 · Le Mans 6/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 6 PICKS PARA HOY 🔥\n\n✅1. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅2. Pathe Mboup: 2+ tiros · 1,33\n✅3. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅4. Malaga hace más de 3,5 córners · 1,73\n✅5. Gol en la 1ª parte del Lyon–Angers · 1,25\n✅6. Alaves marca · 1,73\n\n📊 Más de 1,5 goles en Estac Troyes–Le Mans → Estac Troyes 6/7 · Le Mans 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552809|Total - Away|Over 0.5",
-      "1552804|Goals Over/Under First Half|Over 0.5",
+      "1552809|Goals Over/Under|Over 1.5",
+      "1552803|Away Player Shots|Pathe Mboup - 2",
       "1575203|Corners Over Under|Over 9.5",
-      "1570434|Total - Away|Over 0.5",
-      "1570435|Away Corners Over/Under|Over 3.5"
+      "1570435|Away Corners Over/Under|Over 3.5",
+      "1552804|Goals Over/Under First Half|Over 0.5",
+      "1570434|Total - Away|Over 0.5"
     ]
   },
   {

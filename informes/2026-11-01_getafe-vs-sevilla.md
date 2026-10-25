@@ -1,10 +1,10 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:17_
 
 - **1X2:** 1 **2.80**  ·  X **3.00**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
@@ -53,53 +53,53 @@ _Actualizadas: 25/10 13:45_
 ## Estadísticas de equipo
 | | Getafe (total) | Getafe en casa | Sevilla (total) | Sevilla fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 9 | 5 |
-| Forma (últimos 5) | DEEDV | DEVEE | DEDVV | DEVEV |
-| Balance | 3V 4E 6D | 3V 3E 1D | 4V 2E 3D | 2V 2E 1D |
-| Goles a favor / partido | 0,92 | 1,43 | 1,56 | 1,80 |
-| Goles en contra / partido | 1,54 | 1,29 | 1,78 | 1,80 |
-| Goles a favor 1ª parte | 0,23 | 0,43 | 0,33 | 0,40 |
-| Goles a favor 2ª parte | 0,69 | 1,00 | 1,22 | 1,40 |
-| Goles en contra 1ª parte | 0,69 | 0,71 | 0,78 | 0,40 |
-| Goles en contra 2ª parte | 0,85 | 0,57 | 1,00 | 1,40 |
-| Más de 1,5 goles | 69% | 71% | 78% | 80% |
-| Más de 2,5 goles | 38% | 29% | 67% | 60% |
-| Más de 3,5 goles | 15% | 29% | 56% | 60% |
-| Ambos marcan | 54% | 71% | 78% | 80% |
-| Portería a cero | 15% | 29% | 22% | 20% |
-| Se queda sin marcar | 31% | 0% | 0% | 0% |
-| xG a favor | 0,82 | 1,04 | 1,00 | 0,92 |
-| xG en contra | 1,43 | 1,29 | 1,46 | 1,34 |
-| Tiros / partido | 11,8 | 14,7 | 11,8 | 10,6 |
-| Tiros a puerta / partido | 3,3 | 4,3 | 4,3 | 4,6 |
-| Tiros recibidos | 14,1 | 11,4 | 12,7 | 13,8 |
-| Tiros a puerta recibidos | 4,5 | 3,4 | 5,0 | 6,0 |
+| Partidos analizados | 14 | 7 | 9 | 5 |
+| Forma (últimos 5) | DDEED | DEVEE | DEDVV | DEVEV |
+| Balance | 3V 4E 7D | 3V 3E 1D | 4V 2E 3D | 2V 2E 1D |
+| Goles a favor / partido | 0,86 | 1,43 | 1,56 | 1,80 |
+| Goles en contra / partido | 1,71 | 1,29 | 1,78 | 1,80 |
+| Goles a favor 1ª parte | 0,21 | 0,43 | 0,33 | 0,40 |
+| Goles a favor 2ª parte | 0,64 | 1,00 | 1,22 | 1,40 |
+| Goles en contra 1ª parte | 0,79 | 0,71 | 0,78 | 0,40 |
+| Goles en contra 2ª parte | 0,93 | 0,57 | 1,00 | 1,40 |
+| Más de 1,5 goles | 71% | 71% | 78% | 80% |
+| Más de 2,5 goles | 43% | 29% | 67% | 60% |
+| Más de 3,5 goles | 21% | 29% | 56% | 60% |
+| Ambos marcan | 50% | 71% | 78% | 80% |
+| Portería a cero | 14% | 29% | 22% | 20% |
+| Se queda sin marcar | 36% | 0% | 0% | 0% |
+| xG a favor | 0,79 | 1,04 | 1,00 | 0,92 |
+| xG en contra | 1,38 | 1,29 | 1,46 | 1,34 |
+| Tiros / partido | 11,5 | 14,7 | 11,8 | 10,6 |
+| Tiros a puerta / partido | 3,1 | 4,3 | 4,3 | 4,6 |
+| Tiros recibidos | 13,9 | 11,4 | 12,7 | 13,8 |
+| Tiros a puerta recibidos | 4,4 | 3,4 | 5,0 | 6,0 |
 | Posesión media % | 42 | 43 | 41 | 41 |
-| Córners a favor | 4,8 | 5,7 | 3,0 | 3,0 |
-| Córners en contra | 5,2 | 5,7 | 3,4 | 4,0 |
+| Córners a favor | 4,7 | 5,7 | 3,0 | 3,0 |
+| Córners en contra | 4,9 | 5,7 | 3,4 | 4,0 |
 | Córners a favor 1ª parte | 2,2 | 2,9 | 1,3 | 1,8 |
 | Córners a favor 2ª parte | 2,5 | 2,9 | 1,7 | 1,2 |
-| Córners totales del partido | 9,9 | 11,4 | 6,4 | 7,0 |
-| Córners totales 1ª parte | 4,2 | 5,0 | 3,1 | 3,6 |
-| Córners totales 2ª parte | 5,7 | 6,4 | 3,3 | 3,4 |
-| Más de 8,5 córners | 54% | 71% | 22% | 20% |
-| Más de 9,5 córners | 54% | 71% | 22% | 20% |
-| Más de 10,5 córners | 46% | 57% | 11% | 20% |
-| Faltas cometidas | 13,6 | 12,1 | 14,7 | 15,2 |
-| Faltas recibidas | 13,5 | 13,7 | 13,0 | 12,0 |
-| Amarillas propias | 3,5 | 3,3 | 3,1 | 4,0 |
-| Amarillas del rival | 2,6 | 2,4 | 1,9 | 1,8 |
-| Rojas / partido | 0,38 | 0,43 | 0,33 | 0,40 |
+| Córners totales del partido | 9,6 | 11,4 | 6,4 | 7,0 |
+| Córners totales 1ª parte | 4,1 | 5,0 | 3,1 | 3,6 |
+| Córners totales 2ª parte | 5,5 | 6,4 | 3,3 | 3,4 |
+| Más de 8,5 córners | 50% | 71% | 22% | 20% |
+| Más de 9,5 córners | 50% | 71% | 22% | 20% |
+| Más de 10,5 córners | 43% | 57% | 11% | 20% |
+| Faltas cometidas | 13,7 | 12,1 | 14,7 | 15,2 |
+| Faltas recibidas | 13,4 | 13,7 | 13,0 | 12,0 |
+| Amarillas propias | 3,4 | 3,3 | 3,1 | 4,0 |
+| Amarillas del rival | 2,5 | 2,4 | 1,9 | 1,8 |
+| Rojas / partido | 0,43 | 0,43 | 0,33 | 0,40 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Getafe | Recibe Getafe | Tarjetas Getafe | Goles Sevilla | Recibe Sevilla | Tarjetas Sevilla |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 3 | 2 | 2 | 1 |
-| 16-30' | 1 | 2 | 8 | 1 | 3 | 4 |
-| 31-45' | 0 | 3 | 8 | 0 | 2 | 3 |
+| 16-30' | 1 | 3 | 8 | 1 | 3 | 4 |
+| 31-45' | 0 | 4 | 10 | 0 | 2 | 3 |
 | 46-60' | 1 | 4 | 9 | 5 | 2 | 3 |
-| 61-75' | 3 | 2 | 11 | 1 | 3 | 4 |
-| 76-90' | 5 | 5 | 11 | 5 | 4 | 16 |
+| 61-75' | 3 | 3 | 12 | 1 | 3 | 4 |
+| 76-90' | 5 | 6 | 12 | 5 | 4 | 16 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -117,36 +117,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Getafe
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | LaLiga | Athletic Club 4-0 Getafe | fuera | 4-2 | 7 (1) - 11 (4) | 3-1 |
 | 2026-10-22 | Conference League | Getafe 2-5 FC Lugano | casa | 12-2 | 22 (7) - 8 (5) | 1-5 |
 | 2026-10-19 | LaLiga | Getafe 1-1 Rayo Vallecano | casa | 8-8 | 12 (4) - 21 (5) | 6-3 |
 | 2026-10-15 | Conference League | Universitatea Craiova 1-1 Getafe | fuera | 4-4 | 13 (3) - 12 (4) | 1-4 |
 | 2026-10-10 | LaLiga | Barcelona 3-0 Getafe | fuera | 2-9 | 4 (1) - 23 (8) | 4-2 |
 | 2026-09-20 | LaLiga | Getafe 1-0 Malaga | casa | 5-9 | 20 (7) - 11 (4) | 4-2 |
-| 2026-09-17 | LaLiga | Real Betis 1-0 Getafe | fuera | 3-4 | 8 (2) - 22 (8) | 5-1 |
 
 ## Jugadores de Getafe
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| David Soria | G | 13 | 1162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| David Soria | G | 14 | 1252 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
 | Djené | M | 13 | 1066 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 2 | 0,2 | 3 | 1 |
-| Martín Satriano | F | 13 | 966 | 2 | 3 | 24 | 1,8 | 10 | 0,8 | 17 | 26 | 2,0 | 1 | 0 |
-| Ramón Terrats | M | 12 | 936 | 1 | 0 | 23 | 1,9 | 6 | 0,5 | 13 | 36 | 3,0 | 3 | 0 |
-| Johan Mojica | D | 12 | 889 | 1 | 1 | 7 | 0,6 | 1 | 0,1 | 7 | 15 | 1,2 | 5 | 0 |
-| Francho Serrano | M | 11 | 816 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 7 | 7 | 0,6 | 2 | 0 |
-| Enes Ünal | F | 11 | 812 | 3 | 0 | 14 | 1,3 | 6 | 0,5 | 16 | 14 | 1,3 | 3 | 0 |
-| Andrés García | M | 12 | 779 | 1 | 0 | 11 | 0,9 | 2 | 0,2 | 5 | 5 | 0,4 | 0 | 0 |
+| M. Satriano | M | 14 | 1056 | 2 | 3 | 25 | 1,8 | 10 | 0,7 | 17 | 30 | 2,1 | 1 | 0 |
+| Ramón Terrats | M | 13 | 1007 | 1 | 0 | 24 | 1,8 | 7 | 0,5 | 14 | 38 | 2,9 | 4 | 0 |
+| J. Mojica | D | 13 | 960 | 1 | 1 | 7 | 0,5 | 1 | 0,1 | 8 | 17 | 1,3 | 6 | 0 |
+| Francho Serrano | M | 12 | 861 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 7 | 7 | 0,6 | 2 | 0 |
+| E. Ünal | F | 12 | 831 | 3 | 0 | 15 | 1,2 | 6 | 0,5 | 16 | 14 | 1,2 | 3 | 0 |
+| Andrés García | D | 13 | 824 | 1 | 0 | 11 | 0,8 | 2 | 0,2 | 5 | 5 | 0,4 | 0 | 0 |
+| N. Gudelj | D | 10 | 771 | 1 | 0 | 8 | 0,8 | 2 | 0,2 | 14 | 1 | 0,1 | 3 | 0 |
 | Zaid Romero | D | 9 | 734 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 7 | 0,8 | 3 | 1 |
 | Orel Mangala | M | 9 | 723 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 17 | 9 | 1,0 | 2 | 0 |
-| Nemanja Gudelj | M | 9 | 681 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 12 | 1 | 0,1 | 3 | 0 |
-| Mario Martín | M | 8 | 559 | 0 | 0 | 8 | 1,0 | 2 | 0,2 | 14 | 12 | 1,5 | 4 | 1 |
-| Kiko Femenía | D | 9 | 540 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 2 | 0,2 | 3 | 1 |
-| Ivan Azón | F | 6 | 403 | 2 | 1 | 12 | 2,0 | 7 | 1,2 | 5 | 6 | 1,0 | 1 | 0 |
+| Mario Martín | M | 9 | 645 | 0 | 0 | 8 | 0,9 | 2 | 0,2 | 20 | 12 | 1,3 | 4 | 2 |
+| Kiko Femenía | D | 10 | 585 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 2 | 0,2 | 3 | 1 |
+| Iván Azón | F | 7 | 474 | 2 | 1 | 13 | 1,9 | 7 | 1,0 | 7 | 6 | 0,9 | 1 | 0 |
+| J. Valou | D | 5 | 369 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | Abdel Abqar | D | 6 | 315 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,8 | 2 | 1 |
-| Jean Ives Valou | D | 4 | 279 | 0 | 0 | 4 | 1,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
-| Davinchi | D | 8 | 237 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 2 | 0,2 | 2 | 0 |
-| Borja Mayoral | F | 7 | 202 | 1 | 0 | 3 | 0,4 | 2 | 0,3 | 3 | 5 | 0,7 | 3 | 0 |
-| Saba Sazonov | D | 7 | 178 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,6 | 2 | 0 |
-| S. Boselli | D | 8 | 170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 1 | 0,1 | 2 | 0 |
+| Davinchi | D | 9 | 256 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 2 | 0,2 | 2 | 0 |
+| S. Sazonov | D | 8 | 223 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 5 | 0,6 | 2 | 0 |
+| Borja Mayoral | F | 8 | 221 | 1 | 0 | 3 | 0,4 | 2 | 0,2 | 3 | 5 | 0,6 | 3 | 0 |
+| Daniel Carvajal |  | 2 | 170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 1,0 | 2 | 0 |
 
 ## Últimos partidos de Sevilla
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -183,38 +183,38 @@ _Sin bajas comunicadas por ahora._
 | Nico Guillén | M | 2 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 1,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,06 · córners esperados 8,6._
+_Goles esperados: local 0,98 · visitante 1,09 · córners esperados 8,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 36% | 36% | 2.55 | -8% |
-| 1X2: X | 30% | 31% | 31% | 3.00 | -8% |
-| 1X2: 1 | 34% | 33% | 33% | 2.80 | -7% |
-| Doble oportunidad: X2 | 66% | 68% | 67% | 1.40 | -6% |
+| 1X2: 2 | 38% | 36% | 37% | 2.55 | -6% |
+| 1X2: X | 30% | 31% | 30% | 3.00 | -9% |
+| 1X2: 1 | 32% | 33% | 33% | 2.80 | -9% |
+| Doble oportunidad: X2 | 68% | 68% | 68% | 1.40 | -5% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 64% | 63% | 63% | 1.50 | -5% |
-| Ambos marcan: No | 58% | 58% | 58% | 1.62 | -6% |
-| Ambos marcan: Sí | 42% | 42% | 42% | 2.20 | -8% |
+| Doble oportunidad: 1X | 62% | 63% | 63% | 1.50 | -6% |
+| Ambos marcan: No | 59% | 58% | 58% | 1.62 | -6% |
+| Ambos marcan: Sí | 41% | 42% | 42% | 2.20 | -8% |
 | Goles más/menos: Más de 1.5 | 61% | 62% | 62% | 1.53 | -6% |
 | Goles más/menos: Más de 2.5 | 34% | 34% | 34% | 2.75 | -6% |
 | Goles más/menos: Menos de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles más/menos: Menos de 2.5 | 66% | 66% | 66% | 1.44 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 0.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Goles del local: Más de 1.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del local: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles del local: Menos de 1.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles del visitante: Más de 0.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del visitante: Más de 1.5 | 29% | 29% | 29% | 3.25 | -6% |
-| Goles del visitante: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del visitante: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -5% |
-| Córners más/menos: Más de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Córners más/menos: Menos de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
-| 1X2 descanso: 2 | 26% | 27% | 26% | 3.50 | -9% |
+| Goles del local: Más de 0.5 | 62% | 62% | 62% | 1.50 | -6% |
+| Goles del local: Más de 1.5 | 26% | 28% | 27% | 3.40 | -9% |
+| Goles del local: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles del local: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -5% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Menos de 1.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Córners más/menos: Más de 8.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 8.5 | 55% | 50% | 52% | 1.83 | -4% |
+| 1X2 descanso: 2 | 27% | 27% | 27% | 3.50 | -7% |
 | 1X2 descanso: X | 50% | 49% | 49% | 1.91 | -6% |
-| 1X2 descanso: 1 | 24% | 25% | 25% | 3.75 | -8% |
+| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,17 +1,18 @@
 # Paris FC – Monaco
 **Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:17_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.67** · menos **2.20**
+    - 2,5: más **1.73** · menos **2.10**
     - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
@@ -184,11 +185,11 @@ _Sin bajas comunicadas por ahora._
 | Mohammed Salisu | D | 3 | 126 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,30 · visitante 1,16 · córners esperados 9,2._
+_Goles esperados: local 1,30 · visitante 1,15 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 32% | 33% | 2.90 | -6% |
+| 1X2: 2 | 33% | 32% | 32% | 2.90 | -6% |
 | 1X2: X | 27% | 26% | 27% | 3.60 | -5% |
 | 1X2: 1 | 40% | 42% | 41% | 2.20 | -10% |
 | Doble oportunidad: X2 | 60% | 57% | 59% | 1.67 | -2% |
@@ -197,28 +198,28 @@ _Goles esperados: local 1,30 · visitante 1,16 · córners esperados 9,2._
 | Ambos marcan: No | 50% | 41% | 46% | 2.25 | +3% |
 | Ambos marcan: Sí | 50% | 59% | 54% | 1.57 | -15% |
 | Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 44% | 57% | 51% | 1.67 | -15% |
+| Goles más/menos: Más de 2.5 | 44% | 55% | 50% | 1.73 | -14% |
 | Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -21% |
 | Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +12% |
-| Goles más/menos: Menos de 2.5 ✅ | 56% | 43% | 49% | 2.20 | +9% |
+| Goles más/menos: Menos de 2.5 | 56% | 45% | 50% | 2.10 | +6% |
 | Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del local: Más de 0.5 | 73% | 78% | 75% | 1.20 | -9% |
+| Goles del local: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
 | Goles del local: Más de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
 | Goles del local: Más de 2.5 | 14% | 23% | 19% | 4.00 | -25% |
-| Goles del local: Menos de 0.5 | 27% | 22% | 25% | 4.33 | +6% |
+| Goles del local: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
 | Goles del local: Menos de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
 | Goles del local: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
-| Goles del visitante: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
 | Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -2% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
+| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
 | Córners más/menos: Más de 9.5 | 43% | 46% | 44% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 57% | 54% | 56% | 1.73 | -4% |
-| 1X2 descanso: 2 | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2 descanso: 2 | 25% | 27% | 26% | 3.40 | -12% |
 | 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -2% |
 | 1X2 descanso: 1 | 29% | 33% | 31% | 2.75 | -14% |
 

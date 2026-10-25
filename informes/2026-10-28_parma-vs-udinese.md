@@ -1,10 +1,10 @@
 # Parma – Udinese
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **3.00**  ·  X **3.20**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**
@@ -46,7 +46,7 @@ _Actualizadas: 25/10 13:44_
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Home Player Shots On Target Total:** Vincent Sierro - 1 **3.25**  ·  Vincent Sierro - 2 **17.00**  ·  David Romero - 1 **1.36**  ·  Simone Lontani - 1 **1.57**  ·  El Bilal Toure - 1 **1.73**  ·  Adrian Bernabe - 1 **2.00**  ·  Matija Frigan - 1 **1.73**  ·  Nesta Elphege - 1 **1.67**  ·  Pontus Almqvist - 1 **1.73**  ·  Ousmane Diallo - 1 **2.25**  ·  Christian Ordonez - 1 **2.75**  ·  Benjamin Cremaschi - 1 **3.00**  ·  Sascha Britschgi - 1 **3.00**  ·  Mariano Troilo - 1 **4.33**  ·  Emanuele Valeri - 1 **3.75**  ·  Franco Carboni - 1 **3.25**  ·  Abdou-Salam Konate - 1 **3.40**  ·  Lautaro Valenti - 1 **3.75**  ·  Mandela Keita - 1 **3.75**  ·  Niakhate Ndiaye - 1 **3.75**  ·  Enrico Del Prato - 1 **4.33**  ·  Dominik Drobnic - 1 **6.00**  ·  David Romero - 2 **2.75**  ·  Simone Lontani - 2 **3.75**  ·  El Bilal Toure - 2 **4.50**  ·  Adrian Bernabe - 2 **6.50**  ·  Matija Frigan - 2 **4.50**  ·  Nesta Elphege - 2 **4.33**  ·  Pontus Almqvist - 2 **5.00**  ·  Ousmane Diallo - 2 **9.00**  ·  Christian Ordonez - 2 **13.00**  ·  Benjamin Cremaschi - 2 **13.00**  ·  Sascha Britschgi - 2 **13.00**  ·  Mariano Troilo - 2 **21.00**  ·  Emanuele Valeri - 2 **21.00**  ·  Franco Carboni - 2 **15.00**  ·  Abdou-Salam Konate - 2 **17.00**  ·  Lautaro Valenti - 2 **21.00**  ·  Mandela Keita - 2 **21.00**  ·  Niakhate Ndiaye - 2 **21.00**  ·  Enrico Del Prato - 2 **21.00**  ·  David Romero - 3 **7.00**  ·  Simone Lontani - 3 **13.00**  ·  El Bilal Toure - 3 **17.00**  ·  Adrian Bernabe - 3 **21.00**  ·  Matija Frigan - 3 **17.00**  ·  Nesta Elphege - 3 **15.00**  ·  Pontus Almqvist - 3 **17.00**  ·  David Romero - 4 **21.00**  ·  Giovanni Fabbian - 1 **2.25**  ·  Giovanni Fabbian - 2 **9.00**  ·  Diego Carlos - 1 **6.00**  ·  Djibril Diallo - 1 **6.00**
 - **Away Player Shots On Target Total:** Jesper Karlstrom **67.00**  ·  Vincent Sierro **51.00**  ·  David Romero **17.00**  ·  Giorgi Chakvetadze **41.00**  ·  Juan David Arizala **41.00**  ·  Jakub Piotrowski **10.00**  ·  Giulio Vinciati **21.00**  ·  Sascha Britschgi **34.00**  ·  Vakoun Bayo **17.00**  ·  Christian Ordonez **51.00**  ·  Mariano Troilo **19.00**  ·  Matija Frigan **15.00**  ·  Franco Carboni **51.00**  ·  Diego Carlos **19.00**  ·  Mergim Vojvoda **51.00**  ·  El Bilal Toure **11.00**  ·  Nicolo Bertola **12.00**  ·  Adrian Bernabe **51.00**  ·  Unai Gomez **41.00**  ·  Lennon Miller **67.00**  ·  Abdou-Salam Konate **26.00**  ·  Benjamin Cremaschi **41.00**  ·  Nesta Elphege **12.00**  ·  Dominik Drobnic **19.00**  ·  Ousmane Diallo **34.00**  ·  Lazar Jovanovic **13.00**  ·  Djibril Diallo **19.00**  ·  David Alaba **126.00**  ·  Idrissa Gueye **11.00**  ·  Emanuele Valeri **81.00**  ·  Giovanni Fabbian **17.00**  ·  Lautaro Valenti **15.00**  ·  Mandela Keita **81.00**  ·  Pontus Almqvist **41.00**  ·  Enrico del Prato **21.00**  ·  Alessandro Zanoli **51.00**  ·  Christian Kabasele **13.00**  ·  Enzo Ebosse **19.00**  ·  Hassane Kamara **81.00**  ·  James Abankwah **23.00**  ·  Jurgen Ekkelenkamp **29.00**  ·  Keinan Davis **11.00**  ·  Matteo Palma **29.00**  ·  Oier Zarraga **51.00**  ·  Sandi Lovric **51.00**  ·  Oumar Solet **13.00**
 - **Home Player Shots:** Vincent Sierro - 1 **1.57**  ·  Vincent Sierro - 2 **3.50**  ·  Vincent Sierro - 3 **10.00**  ·  Vincent Sierro - 4 **21.00**  ·  David Romero - 1 **1.03**  ·  Simone Lontani - 1 **1.07**  ·  El Bilal Toure - 1 **1.11**  ·  Adrian Bernabe - 1 **1.11**  ·  Matija Frigan - 1 **1.11**  ·  Nesta Elphege - 1 **1.10**  ·  Pontus Almqvist - 1 **1.11**  ·  Ousmane Diallo - 1 **1.25**  ·  Christian Ordonez - 1 **1.40**  ·  Benjamin Cremaschi - 1 **1.44**  ·  Sascha Britschgi - 1 **1.44**  ·  Mariano Troilo - 1 **1.62**  ·  Emanuele Valeri - 1 **1.67**  ·  Franco Carboni - 1 **1.50**  ·  Abdou-Salam Konate - 1 **1.62**  ·  Lautaro Valenti - 1 **1.83**  ·  Mandela Keita - 1 **1.83**  ·  Niakhate Ndiaye - 1 **1.83**  ·  Enrico Del Prato - 1 **1.80**  ·  Dominik Drobnic - 1 **2.25**  ·  David Romero - 2 **1.18**  ·  Simone Lontani - 2 **1.36**  ·  El Bilal Toure - 2 **1.53**  ·  Adrian Bernabe - 2 **1.53**  ·  Matija Frigan - 2 **1.53**  ·  Nesta Elphege - 2 **1.44**  ·  Pontus Almqvist - 2 **1.53**  ·  Ousmane Diallo - 2 **2.10**  ·  Christian Ordonez - 2 **2.75**  ·  Benjamin Cremaschi - 2 **3.00**  ·  Sascha Britschgi - 2 **3.00**  ·  Mariano Troilo - 2 **3.75**  ·  Emanuele Valeri - 2 **3.75**  ·  Franco Carboni - 2 **3.25**  ·  Abdou-Salam Konate - 2 **3.75**  ·  Lautaro Valenti - 2 **5.00**  ·  Mandela Keita - 2 **5.00**  ·  Niakhate Ndiaye - 2 **5.00**  ·  Enrico Del Prato - 2 **4.50**  ·  Dominik Drobnic - 2 **8.00**  ·  David Romero - 3 **1.57**  ·  Simone Lontani - 3 **2.10**  ·  El Bilal Toure - 3 **2.50**  ·  Adrian Bernabe - 3 **2.62**  ·  Matija Frigan - 3 **2.50**  ·  Nesta Elphege - 3 **2.25**  ·  Pontus Almqvist - 3 **2.50**  ·  Ousmane Diallo - 3 **4.33**  ·  Christian Ordonez - 3 **7.00**  ·  Benjamin Cremaschi - 3 **7.00**  ·  Sascha Britschgi - 3 **7.00**  ·  Mariano Troilo - 3 **11.00**  ·  Emanuele Valeri - 3 **11.00**  ·  Franco Carboni - 3 **8.00**  ·  Abdou-Salam Konate - 3 **11.00**  ·  Lautaro Valenti - 3 **15.00**  ·  Mandela Keita - 3 **15.00**  ·  Niakhate Ndiaye - 3 **15.00**  ·  David Romero - 4 **2.25**  ·  Simone Lontani - 4 **3.75**  ·  El Bilal Toure - 4 **4.50**  ·  Adrian Bernabe - 4 **5.00**  ·  Matija Frigan - 4 **4.50**  ·  Nesta Elphege - 4 **4.00**  ·  Pontus Almqvist - 4 **4.50**  ·  David Romero - 5 **3.75**  ·  Simone Lontani - 5 **7.00**  ·  Giovanni Fabbian - 1 **1.25**  ·  Giovanni Fabbian - 2 **2.10**  ·  Giovanni Fabbian - 3 **4.33**  ·  Giovanni Fabbian - 4 **10.00**  ·  Giovanni Fabbian - 5 **21.00**  ·  Dominik Drobnic - 3 **21.00**  ·  Enrico Del Prato - 3 **13.00**  ·  Franco Carboni - 4 **21.00**  ·  Mariano Troilo - 4 **21.00**  ·  Christian Ordonez - 4 **17.00**  ·  Sascha Britschgi - 4 **19.00**  ·  Benjamin Cremaschi - 4 **19.00**  ·  Ousmane Diallo - 4 **10.00**  ·  Emanuele Valeri - 4 **21.00**  ·  Abdou-Salam Konate - 4 **21.00**  ·  Nesta Elphege - 5 **9.00**  ·  Pontus Almqvist - 5 **10.00**  ·  Adrian Bernabe - 5 **11.00**  ·  Matija Frigan - 5 **10.00**  ·  El Bilal Toure - 5 **10.00**  ·  Ousmane Diallo - 5 **21.00**  ·  David Romero - 6 **7.00**  ·  Simone Lontani - 6 **15.00**  ·  Nesta Elphege - 6 **17.00**  ·  Pontus Almqvist - 6 **21.00**  ·  Adrian Bernabe - 6 **21.00**  ·  Matija Frigan - 6 **21.00**  ·  El Bilal Toure - 6 **21.00**  ·  David Romero - 7 **13.00**  ·  Simone Lontani - 7 **21.00**  ·  David Romero - 8 **21.00**  ·  Diego Carlos - 1 **2.25**  ·  Diego Carlos - 2 **8.00**  ·  Diego Carlos - 3 **21.00**  ·  Djibril Diallo - 1 **2.25**  ·  Djibril Diallo - 2 **8.00**  ·  Djibril Diallo - 3 **21.00**
@@ -187,17 +187,17 @@ _Sin bajas comunicadas por ahora._
 | Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,12 · córners esperados 9,2._
+_Goles esperados: local 1,29 · visitante 1,13 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 39% | 36% | 2.40 | -14% |
-| 1X2: X | 28% | 29% | 28% | 3.20 | -9% |
+| 1X2: X | 27% | 29% | 28% | 3.20 | -9% |
 | 1X2: 1 | 40% | 31% | 36% | 3.00 | +7% |
 | Doble oportunidad: X2 | 60% | 69% | 65% | 1.36 | -12% |
-| Doble oportunidad: 12 | 72% | 69% | 71% | 1.36 | -4% |
+| Doble oportunidad: 12 | 73% | 69% | 71% | 1.36 | -4% |
 | Doble oportunidad: 1X | 68% | 62% | 65% | 1.53 | -1% |
 | Ambos marcan: No | 51% | 50% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 49% | 50% | 49% | 1.91 | -6% |
@@ -212,17 +212,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles del local: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
-| Goles del local: Más de 1.5 | 36% | 31% | 34% | 3.00 | +2% |
-| Goles del local: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles del local: Menos de 1.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +2% |
+| Goles del local: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
+| Goles del local: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles del local: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
+| Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
 | Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
 | Córners más/menos: Más de 9.5 | 43% | 46% | 44% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 57% | 54% | 56% | 1.73 | -4% |
 | 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -16% |
-| 1X2 descanso: X | 46% | 45% | 46% | 2.05 | -7% |
-| 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -2% |
+| 1X2 descanso: X | 46% | 45% | 45% | 2.05 | -7% |
+| 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

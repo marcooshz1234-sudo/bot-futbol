@@ -1,10 +1,10 @@
 # Brentford – Nottingham Forest
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | A. Kalimuendo | F | 3 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,61 · visitante 1,07 · córners esperados 9,5._
+_Goles esperados: local 1,62 · visitante 1,07 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -206,7 +206,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
 | Goles del visitante: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
@@ -215,6 +215,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -11% |
 | 1X2 descanso: X | 43% | 41% | 42% | 2.30 | -4% |
-| 1X2 descanso: 1 | 36% | 36% | 36% | 2.60 | -7% |
+| 1X2 descanso: 1 | 36% | 36% | 36% | 2.60 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Villarreal – Espanyol
 **LaLiga** · Regular Season - 11 · 30/10/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.50**
@@ -186,12 +186,12 @@ _Sin bajas comunicadas por ahora._
 | Rafael Bauzà | M | 4 | 107 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,04 · visitante 0,90 · córners esperados 9,8._
+_Goles esperados: local 2,05 · visitante 0,90 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 16% | 17% | 16% | 5.50 | -11% |
-| 1X2: X | 20% | 21% | 21% | 4.33 | -9% |
+| 1X2: X | 20% | 21% | 21% | 4.33 | -10% |
 | 1X2: 1 | 64% | 62% | 63% | 1.50 | -6% |
 | Doble oportunidad: X2 | 36% | 38% | 37% | 2.50 | -8% |
 | Doble oportunidad: 12 | 80% | 79% | 79% | 1.20 | -5% |
@@ -200,10 +200,10 @@ _Goles esperados: local 2,04 · visitante 0,90 · córners esperados 9,8._
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 3.5 | 34% | 40% | 37% | 2.38 | -12% |
-| Goles más/menos: Más de 4.5 | 17% | 24% | 21% | 4.00 | -17% |
+| Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
 | Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +2% |
 | Goles más/menos: Menos de 3.5 | 66% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Menos de 4.5 | 83% | 76% | 79% | 1.25 | -1% |
+| Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
@@ -213,11 +213,11 @@ _Goles esperados: local 2,04 · visitante 0,90 · córners esperados 9,8._
 | Goles del local: Menos de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles del local: Menos de 2.5 | 66% | 62% | 64% | 1.50 | -3% |
 | Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 1.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles del visitante: Más de 1.5 | 23% | 28% | 25% | 3.40 | -15% |
 | Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
 | Goles del visitante: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -11% |
+| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -6% |
 | 1X2 descanso: X | 39% | 36% | 38% | 2.60 | -2% |
 | 1X2 descanso: 1 | 45% | 47% | 46% | 2.00 | -8% |
 

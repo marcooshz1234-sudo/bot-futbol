@@ -1,10 +1,10 @@
 # FC Schalke 04 – RB Leipzig
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Veltins Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **3.90**  ·  X **4.00**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.25**
@@ -32,7 +32,7 @@ _Actualizadas: 25/10 13:44_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.60**  ·  2 **2.30**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -197,7 +197,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 52% | 50% | 1.83 | -8% |
+| 1X2: 2 | 48% | 52% | 50% | 1.83 | -9% |
 | 1X2: X | 26% | 24% | 25% | 4.00 | +0% |
 | 1X2: 1 | 26% | 24% | 25% | 3.90 | -3% |
 | Doble oportunidad: X2 | 74% | 75% | 75% | 1.25 | -7% |
@@ -208,13 +208,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 45% | 66% | 55% | 1.44 | -21% |
 | Goles más/menos: Más de 3.5 | 23% | 45% | 34% | 2.10 | -28% |
 | Goles más/menos: Más de 4.5 | 10% | 27% | 19% | 3.50 | -35% |
-| Goles más/menos: Menos de 2.5 | 55% | 34% | 45% | 2.75 | +23% |
+| Goles más/menos: Menos de 2.5 | 55% | 34% | 45% | 2.75 | +24% |
 | Goles más/menos: Menos de 3.5 | 77% | 55% | 66% | 1.73 | +14% |
 | Goles más/menos: Menos de 4.5 | 90% | 73% | 81% | 1.30 | +6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 77% | 71% | 1.22 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 23% | 29% | 4.00 | +18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
 | Goles del local: Más de 0.5 | 63% | 75% | 69% | 1.25 | -14% |
@@ -225,8 +225,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 18% | 35% | 27% | 2.62 | -30% |
 | Goles del visitante: Menos de 1.5 | 57% | 39% | 48% | 2.38 | +14% |
 | Goles del visitante: Menos de 2.5 | 82% | 65% | 73% | 1.44 | +5% |
-| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
+| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.85 | -11% |
+| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.95 | +1% |
 | 1X2 descanso: 2 | 34% | 41% | 37% | 2.30 | -14% |
 | 1X2 descanso: X | 45% | 36% | 41% | 2.60 | +6% |
 | 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -12% |

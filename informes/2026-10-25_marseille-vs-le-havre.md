@@ -1,12 +1,12 @@
 # Marseille – Le Havre
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:15_
 
-- **1X2:** 1 **1.48**  ·  X **4.75**  ·  2 **5.75**
+- **1X2:** 1 **1.45**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
@@ -24,12 +24,12 @@ _Actualizadas: 25/10 13:44_
 - **Goles del local:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **11.00** · menos **1.05**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.40** · menos **1.30**
+    - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
@@ -45,9 +45,9 @@ _Actualizadas: 25/10 13:44_
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **1.25**  ·  2 **3.00**
 - **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **5.50**
-- **Win Both Halves:** 1 **3.50**  ·  2 **23.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **2.75**  ·  Draw/No **19.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
@@ -62,7 +62,7 @@ _Actualizadas: 25/10 13:44_
 - **ShotOnTarget 1x2:** 1 **1.40**  ·  X **8.00**  ·  2 **3.50**
 - **Total Shots:**
     - 26,5: más **1.73** · menos **2.00**
-    - 27,5: más **1.83** · menos **1.83**
+    - 27,5: más **1.73** · menos **2.00**
     - 28,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **1.28**  ·  X **17.00**  ·  2 **3.75**
 - **Home Player Shots On Target Total:** Amine Gouiri - 1 **1.20**  ·  Igor Paixao - 1 **1.44**  ·  Himad Abdelli - 1 **1.91**  ·  Keyliane Abdallah - 1 **1.44**  ·  Neal Maupay - 1 **1.40**  ·  Tadjidine Mmadi - 1 **1.40**  ·  Faris Moumbagna - 1 **1.44**  ·  Amine Harit - 1 **2.50**  ·  Timothy Weah - 1 **2.62**  ·  Angel Gomes - 1 **2.20**  ·  Pierre Hojbjerg - 1 **2.50**  ·  Emerson Palmieri - 1 **3.25**  ·  Geoffrey Kondogbia - 1 **3.40**  ·  Tochukwu Nnadi - 1 **3.40**  ·  Ulisses Garcia - 1 **2.75**  ·  Kelyann Bezahaf - 1 **3.00**  ·  Bamo Meite - 1 **3.40**  ·  Derek Cornelius - 1 **4.33**  ·  Nayef Aguerd - 1 **4.33**  ·  CJ Egan-Riley - 1 **4.33**  ·  Amine Gouiri - 2 **1.91**  ·  Igor Paixao - 2 **3.25**  ·  Himad Abdelli - 2 **6.00**  ·  Keyliane Abdallah - 2 **3.25**  ·  Neal Maupay - 2 **2.75**  ·  Tadjidine Mmadi - 2 **2.75**  ·  Faris Moumbagna - 2 **3.00**  ·  Amine Harit - 2 **10.00**  ·  Timothy Weah - 2 **11.00**  ·  Angel Gomes - 2 **8.00**  ·  Pierre Hojbjerg - 2 **10.00**  ·  Emerson Palmieri - 2 **15.00**  ·  Geoffrey Kondogbia - 2 **17.00**  ·  Tochukwu Nnadi - 2 **17.00**  ·  Ulisses Garcia - 2 **13.00**  ·  Kelyann Bezahaf - 2 **15.00**  ·  Bamo Meite - 2 **17.00**  ·  Derek Cornelius - 2 **21.00**  ·  Nayef Aguerd - 2 **21.00**  ·  CJ Egan-Riley - 2 **21.00**  ·  Amine Gouiri - 3 **4.00**  ·  Igor Paixao - 3 **9.00**  ·  Himad Abdelli - 3 **21.00**  ·  Keyliane Abdallah - 3 **9.00**  ·  Neal Maupay - 3 **8.00**  ·  Tadjidine Mmadi - 3 **8.00**  ·  Faris Moumbagna - 3 **9.00**  ·  Amine Gouiri - 4 **10.00**  ·  Igor Paixao - 4 **21.00**  ·  Keyliane Abdallah - 4 **21.00**  ·  Neal Maupay - 4 **21.00**  ·  Tadjidine Mmadi - 4 **21.00**  ·  Faris Moumbagna - 4 **21.00**  ·  Amine Gouiri - 5 **21.00**  ·  Nouhoum Kamissoko - 1 **2.38**  ·  Nouhoum Kamissoko - 2 **10.00**  ·  Alexi Koum - 1 **4.33**  ·  Alexi Koum - 2 **21.00**
@@ -71,7 +71,7 @@ _Actualizadas: 25/10 13:44_
     - 11,5: más **1.91** · menos **1.80**
 - **Home Player Shots:** Amine Gouiri - 1 **1.01**  ·  Igor Paixao - 1 **1.05**  ·  Himad Abdelli - 1 **1.17**  ·  Keyliane Abdallah - 1 **1.03**  ·  Neal Maupay - 1 **1.07**  ·  Tadjidine Mmadi - 1 **1.02**  ·  Faris Moumbagna - 1 **1.02**  ·  Amine Harit - 1 **1.22**  ·  Timothy Weah - 1 **1.36**  ·  Angel Gomes - 1 **1.25**  ·  Pierre Hojbjerg - 1 **1.22**  ·  Emerson Palmieri - 1 **1.57**  ·  Geoffrey Kondogbia - 1 **1.57**  ·  Tochukwu Nnadi - 1 **1.44**  ·  Ulisses Garcia - 1 **1.57**  ·  Kelyann Bezahaf - 1 **1.40**  ·  Bamo Meite - 1 **1.50**  ·  Derek Cornelius - 1 **1.80**  ·  Nayef Aguerd - 1 **1.83**  ·  CJ Egan-Riley - 1 **1.67**  ·  Amine Gouiri - 2 **1.10**  ·  Igor Paixao - 2 **1.28**  ·  Himad Abdelli - 2 **1.73**  ·  Keyliane Abdallah - 2 **1.18**  ·  Neal Maupay - 2 **1.36**  ·  Tadjidine Mmadi - 2 **1.12**  ·  Faris Moumbagna - 2 **1.17**  ·  Amine Harit - 2 **1.91**  ·  Timothy Weah - 2 **2.50**  ·  Angel Gomes - 2 **2.10**  ·  Pierre Hojbjerg - 2 **2.00**  ·  Emerson Palmieri - 2 **3.50**  ·  Geoffrey Kondogbia - 2 **3.50**  ·  Tochukwu Nnadi - 2 **3.00**  ·  Ulisses Garcia - 2 **3.50**  ·  Kelyann Bezahaf - 2 **2.75**  ·  Bamo Meite - 2 **3.25**  ·  Derek Cornelius - 2 **4.33**  ·  Nayef Aguerd - 2 **5.00**  ·  CJ Egan-Riley - 2 **4.00**  ·  Amine Gouiri - 3 **1.33**  ·  Igor Paixao - 3 **1.80**  ·  Himad Abdelli - 3 **3.25**  ·  Keyliane Abdallah - 3 **1.57**  ·  Neal Maupay - 3 **2.10**  ·  Tadjidine Mmadi - 3 **1.40**  ·  Faris Moumbagna - 3 **1.50**  ·  Amine Harit - 3 **3.75**  ·  Timothy Weah - 3 **6.00**  ·  Angel Gomes - 3 **4.33**  ·  Pierre Hojbjerg - 3 **4.00**  ·  Emerson Palmieri - 3 **10.00**  ·  Geoffrey Kondogbia - 3 **10.00**  ·  Tochukwu Nnadi - 3 **7.00**  ·  Ulisses Garcia - 3 **10.00**  ·  Kelyann Bezahaf - 3 **6.50**  ·  Bamo Meite - 3 **9.00**  ·  Derek Cornelius - 3 **13.00**  ·  Nayef Aguerd - 3 **15.00**  ·  CJ Egan-Riley - 3 **11.00**  ·  Amine Gouiri - 4 **1.80**  ·  Igor Paixao - 4 **3.00**  ·  Himad Abdelli - 4 **6.50**  ·  Keyliane Abdallah - 4 **2.25**  ·  Neal Maupay - 4 **3.75**  ·  Tadjidine Mmadi - 4 **1.91**  ·  Faris Moumbagna - 4 **2.10**  ·  Amine Harit - 4 **9.00**  ·  Timothy Weah - 4 **15.00**  ·  Angel Gomes - 4 **10.00**  ·  Pierre Hojbjerg - 4 **9.00**  ·  Emerson Palmieri - 4 **21.00**  ·  Geoffrey Kondogbia - 4 **21.00**  ·  Tochukwu Nnadi - 4 **19.00**  ·  Ulisses Garcia - 4 **21.00**  ·  Kelyann Bezahaf - 4 **17.00**  ·  Bamo Meite - 4 **21.00**  ·  Amine Gouiri - 5 **2.62**  ·  Igor Paixao - 5 **5.50**  ·  Himad Abdelli - 5 **15.00**  ·  Keyliane Abdallah - 5 **3.75**  ·  Neal Maupay - 5 **7.00**  ·  Tadjidine Mmadi - 5 **3.00**  ·  Faris Moumbagna - 5 **3.50**  ·  Amine Harit - 5 **19.00**  ·  Angel Gomes - 5 **21.00**  ·  Pierre Hojbjerg - 5 **21.00**  ·  Amine Gouiri - 6 **4.33**  ·  Igor Paixao - 6 **11.00**  ·  Himad Abdelli - 6 **21.00**  ·  Keyliane Abdallah - 6 **7.00**  ·  Neal Maupay - 6 **15.00**  ·  Tadjidine Mmadi - 6 **5.00**  ·  Faris Moumbagna - 6 **6.00**  ·  Amine Gouiri - 7 **8.00**  ·  Igor Paixao - 7 **19.00**  ·  Keyliane Abdallah - 7 **13.00**  ·  Neal Maupay - 7 **21.00**  ·  Tadjidine Mmadi - 7 **10.00**  ·  Faris Moumbagna - 7 **11.00**  ·  Amine Gouiri - 8 **15.00**  ·  Amine Gouiri - 9 **21.00**  ·  CJ Egan-Riley - 4 **21.00**  ·  Keyliane Abdallah - 8 **21.00**  ·  Tadjidine Mmadi - 8 **17.00**  ·  Faris Moumbagna - 8 **21.00**  ·  Nouhoum Kamissoko - 1 **1.28**  ·  Nouhoum Kamissoko - 2 **2.20**  ·  Nouhoum Kamissoko - 3 **4.50**  ·  Nouhoum Kamissoko - 4 **11.00**  ·  Nouhoum Kamissoko - 5 **21.00**  ·  Alexi Koum - 1 **2.00**  ·  Alexi Koum - 2 **6.00**  ·  Alexi Koum - 3 **19.00**  ·  Tadjidine Mmadi - 9 **21.00**
 - **Away Player Shots:** Elias Jelert - 1 **2.62**  ·  Elias Jelert - 2 **10.00**  ·  Ahmed Touba - 1 **2.00**  ·  Ahmed Touba - 2 **6.00**  ·  Ahmed Touba - 3 **19.00**  ·  Rayan Fofana - 1 **1.11**  ·  Rayan Fofana - 2 **1.50**  ·  Rayan Fofana - 3 **2.50**  ·  Rayan Fofana - 4 **4.50**  ·  Rayan Fofana - 5 **10.00**  ·  Rayan Fofana - 6 **19.00**  ·  Josh Maja - 1 **1.18**  ·  Ally Samatta - 1 **1.07**  ·  Andy Logbo - 1 **1.14**  ·  Sota Nakamura - 1 **1.14**  ·  Rassoul Ndiaye - 1 **1.40**  ·  Enzo Koffi - 1 **1.22**  ·  Ismail Bouneb - 1 **1.44**  ·  Kaito Mizuta - 1 **1.18**  ·  Amir Richardson - 1 **1.40**  ·  Guy Zohouri - 1 **2.25**  ·  Vincent Sasso - 1 **2.00**  ·  Junior Mwanga - 1 **1.67**  ·  Simon Ebonog - 1 **1.57**  ·  Ayumu Seko - 1 **2.00**  ·  Daren Mosengo - 1 **1.44**  ·  Djibril Ouziad - 1 **1.28**  ·  Timothee Pembele - 1 **1.67**  ·  Stephan Zagadou - 1 **3.40**  ·  Josh Maja - 2 **1.83**  ·  Ally Samatta - 2 **1.36**  ·  Andy Logbo - 2 **1.62**  ·  Sota Nakamura - 2 **1.62**  ·  Rassoul Ndiaye - 2 **2.62**  ·  Enzo Koffi - 2 **1.91**  ·  Ismail Bouneb - 2 **3.00**  ·  Kaito Mizuta - 2 **1.83**  ·  Amir Richardson - 2 **2.62**  ·  Guy Zohouri - 2 **7.00**  ·  Vincent Sasso - 2 **6.00**  ·  Junior Mwanga - 2 **4.00**  ·  Simon Ebonog - 2 **3.50**  ·  Ayumu Seko - 2 **6.00**  ·  Daren Mosengo - 2 **3.00**  ·  Djibril Ouziad - 2 **2.25**  ·  Timothee Pembele - 2 **4.00**  ·  Stephan Zagadou - 2 **15.00**  ·  Josh Maja - 3 **3.50**  ·  Ally Samatta - 3 **2.00**  ·  Andy Logbo - 3 **2.75**  ·  Sota Nakamura - 3 **2.75**  ·  Rassoul Ndiaye - 3 **6.50**  ·  Enzo Koffi - 3 **3.75**  ·  Ismail Bouneb - 3 **8.00**  ·  Kaito Mizuta - 3 **3.50**  ·  Amir Richardson - 3 **6.50**  ·  Guy Zohouri - 3 **21.00**  ·  Vincent Sasso - 3 **19.00**  ·  Junior Mwanga - 3 **11.00**  ·  Simon Ebonog - 3 **9.00**  ·  Ayumu Seko - 3 **19.00**  ·  Daren Mosengo - 3 **8.00**  ·  Djibril Ouziad - 3 **4.50**  ·  Timothee Pembele - 3 **11.00**  ·  Josh Maja - 4 **7.00**  ·  Ally Samatta - 4 **3.50**  ·  Andy Logbo - 4 **5.50**  ·  Sota Nakamura - 4 **5.50**  ·  Rassoul Ndiaye - 4 **17.00**  ·  Enzo Koffi - 4 **9.00**  ·  Ismail Bouneb - 4 **19.00**  ·  Kaito Mizuta - 4 **7.00**  ·  Amir Richardson - 4 **17.00**  ·  Josh Maja - 5 **17.00**  ·  Ally Samatta - 5 **6.50**  ·  Andy Logbo - 5 **13.00**  ·  Sota Nakamura - 5 **13.00**  ·  Junior Mwanga - 4 **21.00**  ·  Simon Ebonog - 4 **21.00**  ·  Enzo Koffi - 5 **19.00**  ·  Kaito Mizuta - 5 **17.00**  ·  Ally Samatta - 6 **13.00**  ·  Andy Logbo - 6 **21.00**  ·  Sota Nakamura - 6 **21.00**  ·  Ally Samatta - 7 **21.00**  ·  Daren Mosengo - 4 **19.00**  ·  Djibril Ouziad - 4 **11.00**  ·  Hakim Dongopandji - 1 **1.22**  ·  Mohamed Lamine N'Diaye - 1 **2.25**  ·  Hakim Dongopandji - 2 **1.91**  ·  Mohamed Lamine N'Diaye - 2 **7.00**  ·  Hakim Dongopandji - 3 **3.75**  ·  Mohamed Lamine N'Diaye - 3 **21.00**  ·  Hakim Dongopandji - 4 **9.00**  ·  Hakim Dongopandji - 5 **19.00**  ·  Timothee Pembele - 4 **21.00**  ·  Djibril Ouziad - 5 **21.00**
-- **Goalkeeper Saves:** Gauthier Gallon - 3 **1.40**  ·  Gauthier Gallon - 4 **2.00**  ·  Gauthier Gallon - 5 **3.40**  ·  Gauthier Gallon - 6 **6.00**  ·  Gauthier Gallon - 7 **11.00**  ·  Gauthier Gallon - 2 **1.12**  ·  Jeffrey de Lange - 2 **1.28**  ·  Jeffrey de Lange - 3 **1.83**  ·  Jeffrey de Lange - 4 **3.25**  ·  Jeffrey de Lange - 5 **6.50**  ·  Jeffrey de Lange - 1 **1.05**
+- **Goalkeeper Saves:** Gauthier Gallon - 3 **1.40**  ·  Gauthier Gallon - 4 **2.00**  ·  Gauthier Gallon - 5 **3.40**  ·  Gauthier Gallon - 6 **6.50**  ·  Gauthier Gallon - 7 **11.00**  ·  Gauthier Gallon - 2 **1.12**  ·  Jeffrey de Lange - 2 **1.28**  ·  Jeffrey de Lange - 3 **1.83**  ·  Jeffrey de Lange - 4 **3.25**  ·  Jeffrey de Lange - 5 **6.00**  ·  Jeffrey de Lange - 1 **1.05**
 - **Anytime Goal Scorer:** Rayan Fofana **4.00**  ·  Faris Moumbagna **2.25**  ·  Stephan Zagadou **13.00**  ·  Angel Gomes **3.00**  ·  Ulisses Garcia **5.50**  ·  Amine Gouiri **2.10**  ·  Ahmed Touba **13.00**  ·  Pierre Hojbjerg **5.50**  ·  Ayumu Seko **13.00**  ·  Tochukwu Nnadi **5.50**  ·  Geoffrey Kondogbia **5.00**  ·  Simon Ebonog **9.50**  ·  Guy Zohouri **7.50**  ·  Enzo Koffi **8.50**  ·  Josh Maja **3.75**  ·  Tadjidine Mmadi **2.75**  ·  Andy Logbo **4.00**  ·  Neal Maupay **2.25**  ·  Ismail Bouneb **5.50**  ·  Daren Mosengo **11.00**  ·  Rassoul Ndiaye **6.00**  ·  Timothee Pembele **13.00**  ·  CJ Egan-Riley **7.00**  ·  Junior Mwanga **11.00**  ·  Amine Harit **3.25**  ·  Derek Cornelius **7.00**  ·  Himad Abdelli **2.75**  ·  Emerson Palmieri **5.50**  ·  Ally Samatta **4.00**  ·  Elias Jelert **9.50**  ·  Nouhoum Kamissoko **4.33**  ·  Kelyann Bezahaf **6.00**  ·  Bamo Meite **6.00**  ·  Djibril Ouziad **11.00**  ·  Hakim Dongopandji **6.00**  ·  Mohamed Lamine N'Diaye **11.00**  ·  Nayef Aguerd **7.00**  ·  Keyliane Abdallah **2.88**  ·  Igor Paixao **2.50**  ·  Amir Richardson **7.50**  ·  Timothy Weah **4.00**  ·  Kaito Mizuta **6.00**  ·  Alexi Koum **6.00**  ·  Vincent Sasso **9.50**  ·  Sota Nakamura **4.33**
 - **Player to Score or Assist:** Rayan Fofana **3.00**  ·  Faris Moumbagna **1.73**  ·  Stephan Zagadou **8.50**  ·  Angel Gomes **2.20**  ·  Ulisses Garcia **2.75**  ·  Amine Gouiri **1.62**  ·  Ahmed Touba **8.50**  ·  Pierre Hojbjerg **3.00**  ·  Ayumu Seko **8.50**  ·  Tochukwu Nnadi **3.75**  ·  Geoffrey Kondogbia **3.25**  ·  Simon Ebonog **5.50**  ·  Guy Zohouri **4.33**  ·  Enzo Koffi **4.33**  ·  Josh Maja **3.00**  ·  Tadjidine Mmadi **1.95**  ·  Andy Logbo **3.10**  ·  Neal Maupay **1.73**  ·  Ismail Bouneb **4.33**  ·  Daren Mosengo **6.00**  ·  Rassoul Ndiaye **4.33**  ·  Timothee Pembele **6.50**  ·  CJ Egan-Riley **4.33**  ·  Junior Mwanga **6.50**  ·  Amine Harit **2.10**  ·  Derek Cornelius **4.33**  ·  Himad Abdelli **1.91**  ·  Emerson Palmieri **2.50**  ·  Ally Samatta **3.10**  ·  Elias Jelert **4.75**  ·  Nouhoum Kamissoko **2.62**  ·  Kelyann Bezahaf **2.88**  ·  Bamo Meite **4.00**  ·  Djibril Ouziad **5.00**  ·  Hakim Dongopandji **3.40**  ·  Mohamed Lamine N'Diaye **7.50**  ·  Nayef Aguerd **4.33**  ·  Keyliane Abdallah **1.83**  ·  Igor Paixao **1.73**  ·  Amir Richardson **5.00**  ·  Timothy Weah **2.40**  ·  Kaito Mizuta **3.50**  ·  Alexi Koum **4.00**  ·  Vincent Sasso **6.50**  ·  Sota Nakamura **3.00**
 
@@ -215,9 +215,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 16% | 19% | 5.75 | +7% |
-| 1X2: X | 22% | 20% | 21% | 4.75 | -1% |
-| 1X2: 1 | 58% | 64% | 61% | 1.48 | -10% |
+| 1X2: 2 | 21% | 16% | 18% | 6.00 | +9% |
+| 1X2: X | 22% | 19% | 20% | 5.00 | +1% |
+| 1X2: 1 | 58% | 65% | 61% | 1.45 | -11% |
 | Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +3% |
 | Doble oportunidad: 12 | 78% | 80% | 79% | 1.18 | -6% |
 | Doble oportunidad: 1X | 79% | 83% | 81% | 1.14 | -7% |
@@ -236,13 +236,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -3% |
 | Goles del local: Más de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles del local: Más de 2.5 | 32% | 38% | 35% | 2.50 | -14% |
+| Goles del local: Más de 2.5 | 32% | 41% | 36% | 2.25 | -18% |
+| Goles del local: Más de 3.5 | 14% | 21% | 17% | 4.50 | -22% |
 | Goles del local: Menos de 1.5 | 41% | 35% | 38% | 2.62 | +1% |
-| Goles del local: Menos de 2.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del local: Menos de 2.5 | 68% | 59% | 64% | 1.57 | -0% |
+| Goles del local: Menos de 3.5 | 86% | 79% | 83% | 1.18 | -2% |
 | Goles del visitante: Más de 0.5 | 67% | 65% | 66% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles del visitante: Más de 1.5 | 30% | 29% | 30% | 3.25 | -4% |
 | Goles del visitante: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles del visitante: Menos de 1.5 | 70% | 71% | 70% | 1.33 | -6% |
 | Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
 | 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -3% |

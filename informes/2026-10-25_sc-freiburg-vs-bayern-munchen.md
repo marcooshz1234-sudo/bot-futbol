@@ -1,37 +1,36 @@
 # SC Freiburg – Bayern München
 **Bundesliga** · Regular Season - 7 · 25/10/2026 17:30 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:15_
 
-- **1X2:** 1 **5.00**  ·  X **5.00**  ·  2 **1.50**
-- **Doble oportunidad:** 1X **2.75**  ·  12 **1.14**  ·  X2 **1.12**
+- **1X2:** 1 **5.25**  ·  X **5.00**  ·  2 **1.48**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.17**  ·  X2 **1.17**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.30** · menos **3.50**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
     - 3,5: más **1.80** · menos **2.00**
     - 4,5: más **2.75** · menos **1.44**
     - 5,5: más **4.50** · menos **1.20**
-    - 6,5: más **8.00** · menos **1.08**
+    - 6,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.50** · menos **1.11**
-    - 5,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
     - 9,5: más **2.00** · menos **1.73**
@@ -39,18 +38,18 @@ _Actualizadas: 25/10 13:44_
     - 3,5: más **2.25** · menos **1.57**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.88**  ·  2 **1.91**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
-- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.20**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **1.73**
-- **Win Both Halves:** 1 **21.00**  ·  2 **3.25**
-- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **2.10**  ·  Home/No **17.00**  ·  Draw/No **34.00**  ·  Away/No **3.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **4.50**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.25**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **1.83**
+- **Win Both Halves:** 1 **21.00**  ·  2 **3.40**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **2.38**  ·  Home/No **15.00**  ·  Draw/No **29.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **4.33**
 - **Home Corners Over/Under:**
     - 2,5: más **1.67** · menos **2.10**
     - 3,5: más **2.25** · menos **1.57**
@@ -58,29 +57,29 @@ _Actualizadas: 25/10 13:44_
     - 5,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 - **Home Team Total Cards:**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **2.50** · menos **1.50**
 - **Away Team Total Cards:**
-    - 1,5: más **2.20** · menos **1.62**
+    - 1,5: más **2.10** · menos **1.67**
 - **Total ShotOnGoal:**
     - 11,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **6.00**  ·  X **11.00**  ·  2 **1.17**
 - **Total Shots:**
     - 28,5: más **1.83** · menos **1.83**
-    - 29,5: más **1.73** · menos **2.00**
+    - 29,5: más **1.83** · menos **1.83**
     - 30,5: más **2.00** · menos **1.73**
-- **Shots.1x2:** 1 **5.50**  ·  X **19.00**  ·  2 **1.14**
+- **Shots.1x2:** 1 **4.33**  ·  X **19.00**  ·  2 **1.22**
 - **Home Player Shots On Target Total:** Vincenzo Grifo - 1 **2.10**  ·  Igor Matanovic - 1 **1.50**  ·  Keisuke Goto - 1 **2.38**  ·  Yuito Suzuki - 1 **1.83**  ·  Jan-Niklas Beste - 1 **2.50**  ·  Lucas Holer - 1 **2.10**  ·  Derry Scherhant - 1 **1.91**  ·  Cyriaque Irie - 1 **2.50**  ·  Maximilian Eggestein - 1 **2.75**  ·  Patrick Osterhage - 1 **4.50**  ·  Rihito Yamamoto - 1 **3.50**  ·  Lukas Kubler - 1 **3.75**  ·  Philipp Treu - 1 **5.00**  ·  Christian Gunter - 1 **7.00**  ·  Yannick Engelhardt - 1 **4.33**  ·  Berkay Yilmaz - 1 **4.50**  ·  Bruno Ogbus - 1 **5.00**  ·  Matthias Ginter - 1 **4.50**  ·  Max Rosenfelder - 1 **8.00**  ·  Philipp Lienhart - 1 **6.00**  ·  Anthony Jung - 1 **9.00**  ·  Jordy Makengo - 1 **8.00**  ·  Vincenzo Grifo - 2 **7.00**  ·  Igor Matanovic - 2 **3.40**  ·  Keisuke Goto - 2 **9.00**  ·  Yuito Suzuki - 2 **5.50**  ·  Jan-Niklas Beste - 2 **10.00**  ·  Lucas Holer - 2 **7.00**  ·  Derry Scherhant - 2 **6.00**  ·  Cyriaque Irie - 2 **10.00**  ·  Maximilian Eggestein - 2 **13.00**  ·  Patrick Osterhage - 2 **21.00**  ·  Rihito Yamamoto - 2 **19.00**  ·  Lukas Kubler - 2 **21.00**  ·  Yannick Engelhardt - 2 **21.00**  ·  Berkay Yilmaz - 2 **21.00**  ·  Matthias Ginter - 2 **21.00**  ·  Vincenzo Grifo - 3 **21.00**  ·  Igor Matanovic - 3 **10.00**  ·  Yuito Suzuki - 3 **19.00**  ·  Lucas Holer - 3 **21.00**  ·  Derry Scherhant - 3 **21.00**  ·  Igor Matanovic - 4 **21.00**
 - **Away Player Shots On Target Total:** Lennart Karl **13.00**  ·  Ismael Saibari **23.00**  ·  Luis Diaz **12.00**  ·  Yuito Suzuki **34.00**  ·  Rihito Yamamoto **67.00**  ·  Lucas Holer **12.00**  ·  Derry Scherhant **19.00**  ·  Josip Stanisic **23.00**  ·  Lukas Kubler **41.00**  ·  Christian Gunter **101.00**  ·  Yannick Engelhardt **81.00**  ·  Berkay Yilmaz **101.00**  ·  Jan-Niklas Beste **41.00**  ·  Bara Ndiaye **17.00**  ·  Tim Binder **21.00**  ·  Mateo Zelic **17.00**  ·  Tom Bischof **41.00**  ·  Aleksandar Pavlovic **41.00**  ·  Alphonso Davies **34.00**  ·  Dayot Upamecano **17.00**  ·  Harry Kane **5.00**  ·  Igor Matanovic **11.00**  ·  Jamal Musiala **15.00**  ·  Joshua Kimmich **29.00**  ·  Konrad Laimer **51.00**  ·  Michael Olise **23.00**  ·  Nathaniel Brown **34.00**  ·  Serge Gnabry **29.00**  ·  Min-Jae Kim **17.00**  ·  Sacha Boey **51.00**  ·  Philipp Treu **101.00**  ·  Hiroki Ito **12.00**  ·  Jonathan Tah **10.00**  ·  Anthony Jung **41.00**  ·  Bruno Ogbus **26.00**  ·  Jordy Makengo **151.00**  ·  Matthias Ginter **15.00**  ·  Max Rosenfelder **19.00**  ·  Maximilian Eggestein **51.00**  ·  Patrick Osterhage **67.00**  ·  Philipp Lienhart **19.00**  ·  Vincenzo Grifo **29.00**  ·  Cyriaque Irie **17.00**  ·  Keisuke Goto **19.00**
 - **Away Player Shots Total:**
     - 17,5: más **1.83** · menos **1.83**
     - 18,5: más **1.83** · menos **1.83**
-- **Home Player Shots:** Vincenzo Grifo - 1 **1.28**  ·  Igor Matanovic - 1 **1.05**  ·  Keisuke Goto - 1 **1.30**  ·  Yuito Suzuki - 1 **1.14**  ·  Jan-Niklas Beste - 1 **1.40**  ·  Lucas Holer - 1 **1.30**  ·  Derry Scherhant - 1 **1.14**  ·  Cyriaque Irie - 1 **1.22**  ·  Maximilian Eggestein - 1 **1.40**  ·  Patrick Osterhage - 1 **1.91**  ·  Rihito Yamamoto - 1 **1.62**  ·  Lukas Kubler - 1 **1.53**  ·  Philipp Treu - 1 **1.91**  ·  Christian Gunter - 1 **2.38**  ·  Yannick Engelhardt - 1 **1.62**  ·  Berkay Yilmaz - 1 **1.91**  ·  Bruno Ogbus - 1 **2.20**  ·  Matthias Ginter - 1 **1.67**  ·  Max Rosenfelder - 1 **3.00**  ·  Philipp Lienhart - 1 **2.20**  ·  Anthony Jung - 1 **3.40**  ·  Jordy Makengo - 1 **3.40**  ·  Vincenzo Grifo - 2 **2.20**  ·  Igor Matanovic - 2 **1.28**  ·  Keisuke Goto - 2 **2.25**  ·  Yuito Suzuki - 2 **1.67**  ·  Jan-Niklas Beste - 2 **2.75**  ·  Lucas Holer - 2 **2.25**  ·  Derry Scherhant - 2 **1.67**  ·  Cyriaque Irie - 2 **1.91**  ·  Maximilian Eggestein - 2 **2.75**  ·  Patrick Osterhage - 2 **5.50**  ·  Rihito Yamamoto - 2 **3.75**  ·  Lukas Kubler - 2 **3.40**  ·  Philipp Treu - 2 **5.50**  ·  Christian Gunter - 2 **8.00**  ·  Yannick Engelhardt - 2 **3.75**  ·  Berkay Yilmaz - 2 **5.50**  ·  Bruno Ogbus - 2 **7.00**  ·  Matthias Ginter - 2 **4.00**  ·  Max Rosenfelder - 2 **11.00**  ·  Philipp Lienhart - 2 **7.00**  ·  Anthony Jung - 2 **13.00**  ·  Jordy Makengo - 2 **13.00**  ·  Vincenzo Grifo - 3 **4.50**  ·  Igor Matanovic - 3 **1.80**  ·  Keisuke Goto - 3 **5.00**  ·  Yuito Suzuki - 3 **3.00**  ·  Jan-Niklas Beste - 3 **6.50**  ·  Lucas Holer - 3 **5.00**  ·  Derry Scherhant - 3 **3.00**  ·  Cyriaque Irie - 3 **3.75**  ·  Maximilian Eggestein - 3 **6.50**  ·  Patrick Osterhage - 3 **17.00**  ·  Rihito Yamamoto - 3 **11.00**  ·  Lukas Kubler - 3 **9.00**  ·  Philipp Treu - 3 **17.00**  ·  Christian Gunter - 3 **21.00**  ·  Yannick Engelhardt - 3 **10.00**  ·  Berkay Yilmaz - 3 **17.00**  ·  Bruno Ogbus - 3 **21.00**  ·  Matthias Ginter - 3 **11.00**  ·  Philipp Lienhart - 3 **21.00**  ·  Vincenzo Grifo - 4 **11.00**  ·  Igor Matanovic - 4 **3.00**  ·  Keisuke Goto - 4 **11.00**  ·  Yuito Suzuki - 4 **6.00**  ·  Jan-Niklas Beste - 4 **17.00**  ·  Lucas Holer - 4 **11.00**  ·  Derry Scherhant - 4 **6.00**  ·  Cyriaque Irie - 4 **9.00**  ·  Maximilian Eggestein - 4 **17.00**  ·  Rihito Yamamoto - 4 **21.00**  ·  Lukas Kubler - 4 **21.00**  ·  Yannick Engelhardt - 4 **21.00**  ·  Vincenzo Grifo - 5 **21.00**  ·  Igor Matanovic - 5 **5.50**  ·  Keisuke Goto - 5 **21.00**  ·  Yuito Suzuki - 5 **13.00**  ·  Lucas Holer - 5 **21.00**  ·  Derry Scherhant - 5 **13.00**  ·  Cyriaque Irie - 5 **19.00**  ·  Igor Matanovic - 6 **11.00**  ·  Yuito Suzuki - 6 **21.00**  ·  Derry Scherhant - 6 **21.00**  ·  Igor Matanovic - 7 **21.00**
-- **Away Player Shots:** Jamal Musiala - 1 **1.01**  ·  Lennart Karl - 1 **1.05**  ·  Nathaniel Brown - 1 **1.11**  ·  Bara Ndiaye - 1 **1.20**  ·  Aleksandar Pavlovic - 1 **1.53**  ·  Alphonso Davies - 1 **1.17**  ·  Konrad Laimer - 1 **1.44**  ·  Hiroki Ito - 1 **1.62**  ·  Joshua Kimmich - 1 **1.44**  ·  Jonathan Tah - 1 **2.62**  ·  Sacha Boey - 1 **1.40**  ·  Dayot Upamecano - 1 **2.00**  ·  Josip Stanisic - 1 **1.83**  ·  Min-Jae Kim - 1 **3.25**  ·  Harry Kane - 2 **1.05**  ·  Ismael Saibari - 2 **1.22**  ·  Michael Olise - 2 **1.08**  ·  Luis Diaz - 2 **1.17**  ·  Jamal Musiala - 2 **1.08**  ·  Lennart Karl - 2 **1.28**  ·  Nathaniel Brown - 2 **1.53**  ·  Bara Ndiaye - 2 **1.83**  ·  Aleksandar Pavlovic - 2 **3.40**  ·  Alphonso Davies - 2 **1.73**  ·  Konrad Laimer - 2 **3.00**  ·  Hiroki Ito - 2 **3.75**  ·  Joshua Kimmich - 2 **3.00**  ·  Jonathan Tah - 2 **9.00**  ·  Sacha Boey - 2 **2.62**  ·  Dayot Upamecano - 2 **6.00**  ·  Josip Stanisic - 2 **5.00**  ·  Min-Jae Kim - 2 **13.00**  ·  Harry Kane - 3 **1.17**  ·  Ismael Saibari - 3 **1.67**  ·  Michael Olise - 3 **1.30**  ·  Luis Diaz - 3 **1.50**  ·  Jamal Musiala - 3 **1.30**  ·  Lennart Karl - 3 **1.80**  ·  Nathaniel Brown - 3 **2.50**  ·  Bara Ndiaye - 3 **3.75**  ·  Aleksandar Pavlovic - 3 **9.00**  ·  Alphonso Davies - 3 **3.25**  ·  Konrad Laimer - 3 **7.00**  ·  Hiroki Ito - 3 **10.00**  ·  Joshua Kimmich - 3 **7.00**  ·  Sacha Boey - 3 **6.50**  ·  Dayot Upamecano - 3 **19.00**  ·  Josip Stanisic - 3 **15.00**  ·  Harry Kane - 4 **1.44**  ·  Ismael Saibari - 4 **2.62**  ·  Michael Olise - 4 **1.73**  ·  Luis Diaz - 4 **2.10**  ·  Jamal Musiala - 4 **1.73**  ·  Lennart Karl - 4 **3.00**  ·  Nathaniel Brown - 4 **4.50**  ·  Bara Ndiaye - 4 **8.00**  ·  Aleksandar Pavlovic - 4 **21.00**  ·  Alphonso Davies - 4 **6.50**  ·  Konrad Laimer - 4 **19.00**  ·  Hiroki Ito - 4 **21.00**  ·  Joshua Kimmich - 4 **19.00**  ·  Sacha Boey - 4 **17.00**  ·  Harry Kane - 5 **1.91**  ·  Ismael Saibari - 5 **4.33**  ·  Michael Olise - 5 **2.50**  ·  Luis Diaz - 5 **3.50**  ·  Jamal Musiala - 5 **2.50**  ·  Lennart Karl - 5 **5.50**  ·  Nathaniel Brown - 5 **10.00**  ·  Bara Ndiaye - 5 **19.00**  ·  Alphonso Davies - 5 **15.00**  ·  Harry Kane - 6 **2.75**  ·  Ismael Saibari - 6 **9.00**  ·  Michael Olise - 6 **4.00**  ·  Luis Diaz - 6 **6.00**  ·  Jamal Musiala - 6 **4.00**  ·  Lennart Karl - 6 **10.00**  ·  Nathaniel Brown - 6 **21.00**  ·  Harry Kane - 7 **4.50**  ·  Ismael Saibari - 7 **17.00**  ·  Michael Olise - 7 **7.00**  ·  Luis Diaz - 7 **11.00**  ·  Jamal Musiala - 7 **7.00**  ·  Lennart Karl - 7 **19.00**  ·  Harry Kane - 8 **8.00**  ·  Michael Olise - 8 **13.00**  ·  Luis Diaz - 8 **21.00**  ·  Jamal Musiala - 8 **13.00**  ·  Harry Kane - 9 **13.00**  ·  Michael Olise - 9 **21.00**  ·  Jamal Musiala - 9 **21.00**  ·  Harry Kane - 10 **21.00**  ·  Ismael Saibari - 1 **1.04**  ·  Luis Diaz - 1 **1.02**  ·  Michael Olise - 1 **1.01**  ·  Tom Bischof - 1 **1.12**  ·  Tom Bischof - 2 **1.57**  ·  Tom Bischof - 3 **2.62**  ·  Tom Bischof - 4 **5.50**  ·  Tom Bischof - 5 **11.00**  ·  Tom Bischof - 6 **21.00**  ·  Serge Gnabry - 2 **1.11**  ·  Serge Gnabry - 3 **1.36**  ·  Serge Gnabry - 4 **1.83**  ·  Serge Gnabry - 5 **2.75**  ·  Serge Gnabry - 6 **4.50**  ·  Serge Gnabry - 7 **8.00**  ·  Serge Gnabry - 8 **15.00**  ·  Serge Gnabry - 9 **21.00**  ·  Serge Gnabry - 1 **1.01**
+- **Home Player Shots:** Vincenzo Grifo - 1 **1.25**  ·  Igor Matanovic - 1 **1.05**  ·  Keisuke Goto - 1 **1.28**  ·  Yuito Suzuki - 1 **1.14**  ·  Jan-Niklas Beste - 1 **1.40**  ·  Lucas Holer - 1 **1.28**  ·  Derry Scherhant - 1 **1.14**  ·  Cyriaque Irie - 1 **1.20**  ·  Maximilian Eggestein - 1 **1.40**  ·  Patrick Osterhage - 1 **1.91**  ·  Rihito Yamamoto - 1 **1.62**  ·  Lukas Kubler - 1 **1.50**  ·  Philipp Treu - 1 **1.91**  ·  Christian Gunter - 1 **2.38**  ·  Yannick Engelhardt - 1 **1.62**  ·  Berkay Yilmaz - 1 **1.91**  ·  Bruno Ogbus - 1 **2.20**  ·  Matthias Ginter - 1 **1.67**  ·  Max Rosenfelder - 1 **2.75**  ·  Philipp Lienhart - 1 **2.20**  ·  Anthony Jung - 1 **3.25**  ·  Jordy Makengo - 1 **3.25**  ·  Vincenzo Grifo - 2 **2.10**  ·  Igor Matanovic - 2 **1.25**  ·  Keisuke Goto - 2 **2.20**  ·  Yuito Suzuki - 2 **1.62**  ·  Jan-Niklas Beste - 2 **2.62**  ·  Lucas Holer - 2 **2.20**  ·  Derry Scherhant - 2 **1.62**  ·  Cyriaque Irie - 2 **1.83**  ·  Maximilian Eggestein - 2 **2.62**  ·  Patrick Osterhage - 2 **5.50**  ·  Rihito Yamamoto - 2 **3.75**  ·  Lukas Kubler - 2 **3.25**  ·  Philipp Treu - 2 **5.50**  ·  Christian Gunter - 2 **8.00**  ·  Yannick Engelhardt - 2 **3.75**  ·  Berkay Yilmaz - 2 **5.50**  ·  Bruno Ogbus - 2 **6.50**  ·  Matthias Ginter - 2 **4.00**  ·  Max Rosenfelder - 2 **11.00**  ·  Philipp Lienhart - 2 **6.50**  ·  Anthony Jung - 2 **13.00**  ·  Jordy Makengo - 2 **13.00**  ·  Vincenzo Grifo - 3 **4.33**  ·  Igor Matanovic - 3 **1.73**  ·  Keisuke Goto - 3 **4.50**  ·  Yuito Suzuki - 3 **2.75**  ·  Jan-Niklas Beste - 3 **6.00**  ·  Lucas Holer - 3 **4.50**  ·  Derry Scherhant - 3 **2.75**  ·  Cyriaque Irie - 3 **3.50**  ·  Maximilian Eggestein - 3 **6.00**  ·  Patrick Osterhage - 3 **17.00**  ·  Rihito Yamamoto - 3 **10.00**  ·  Lukas Kubler - 3 **8.00**  ·  Philipp Treu - 3 **17.00**  ·  Christian Gunter - 3 **21.00**  ·  Yannick Engelhardt - 3 **10.00**  ·  Berkay Yilmaz - 3 **17.00**  ·  Bruno Ogbus - 3 **21.00**  ·  Matthias Ginter - 3 **11.00**  ·  Philipp Lienhart - 3 **21.00**  ·  Vincenzo Grifo - 4 **10.00**  ·  Igor Matanovic - 4 **2.75**  ·  Keisuke Goto - 4 **11.00**  ·  Yuito Suzuki - 4 **5.50**  ·  Jan-Niklas Beste - 4 **15.00**  ·  Lucas Holer - 4 **11.00**  ·  Derry Scherhant - 4 **5.50**  ·  Cyriaque Irie - 4 **8.00**  ·  Maximilian Eggestein - 4 **15.00**  ·  Rihito Yamamoto - 4 **21.00**  ·  Lukas Kubler - 4 **21.00**  ·  Yannick Engelhardt - 4 **21.00**  ·  Vincenzo Grifo - 5 **21.00**  ·  Igor Matanovic - 5 **5.00**  ·  Keisuke Goto - 5 **21.00**  ·  Yuito Suzuki - 5 **13.00**  ·  Lucas Holer - 5 **21.00**  ·  Derry Scherhant - 5 **13.00**  ·  Cyriaque Irie - 5 **17.00**  ·  Igor Matanovic - 6 **10.00**  ·  Yuito Suzuki - 6 **21.00**  ·  Derry Scherhant - 6 **21.00**  ·  Igor Matanovic - 7 **19.00**  ·  Matthias Ginter - 4 **21.00**
+- **Away Player Shots:** Jamal Musiala - 1 **1.01**  ·  Lennart Karl - 1 **1.06**  ·  Nathaniel Brown - 1 **1.12**  ·  Bara Ndiaye - 1 **1.22**  ·  Aleksandar Pavlovic - 1 **1.57**  ·  Alphonso Davies - 1 **1.17**  ·  Konrad Laimer - 1 **1.50**  ·  Hiroki Ito - 1 **1.67**  ·  Joshua Kimmich - 1 **1.50**  ·  Jonathan Tah - 1 **2.62**  ·  Sacha Boey - 1 **1.44**  ·  Dayot Upamecano - 1 **2.10**  ·  Josip Stanisic - 1 **1.91**  ·  Min-Jae Kim - 1 **3.25**  ·  Harry Kane - 2 **1.06**  ·  Ismael Saibari - 2 **1.25**  ·  Michael Olise - 2 **1.11**  ·  Luis Diaz - 2 **1.18**  ·  Jamal Musiala - 2 **1.11**  ·  Lennart Karl - 2 **1.30**  ·  Nathaniel Brown - 2 **1.62**  ·  Bara Ndiaye - 2 **2.00**  ·  Aleksandar Pavlovic - 2 **3.50**  ·  Alphonso Davies - 2 **1.73**  ·  Konrad Laimer - 2 **3.25**  ·  Hiroki Ito - 2 **4.00**  ·  Joshua Kimmich - 2 **3.25**  ·  Jonathan Tah - 2 **10.00**  ·  Sacha Boey - 2 **2.75**  ·  Dayot Upamecano - 2 **6.50**  ·  Josip Stanisic - 2 **5.50**  ·  Min-Jae Kim - 2 **13.00**  ·  Harry Kane - 3 **1.22**  ·  Ismael Saibari - 3 **1.80**  ·  Michael Olise - 3 **1.36**  ·  Luis Diaz - 3 **1.57**  ·  Jamal Musiala - 3 **1.36**  ·  Lennart Karl - 3 **1.91**  ·  Nathaniel Brown - 3 **2.75**  ·  Bara Ndiaye - 3 **4.00**  ·  Aleksandar Pavlovic - 3 **10.00**  ·  Alphonso Davies - 3 **3.25**  ·  Konrad Laimer - 3 **8.00**  ·  Hiroki Ito - 3 **11.00**  ·  Joshua Kimmich - 3 **8.00**  ·  Sacha Boey - 3 **7.00**  ·  Dayot Upamecano - 3 **19.00**  ·  Josip Stanisic - 3 **17.00**  ·  Harry Kane - 4 **1.53**  ·  Ismael Saibari - 4 **2.75**  ·  Michael Olise - 4 **1.83**  ·  Luis Diaz - 4 **2.38**  ·  Jamal Musiala - 4 **1.83**  ·  Lennart Karl - 4 **3.25**  ·  Nathaniel Brown - 4 **5.50**  ·  Bara Ndiaye - 4 **9.00**  ·  Aleksandar Pavlovic - 4 **21.00**  ·  Alphonso Davies - 4 **6.50**  ·  Konrad Laimer - 4 **21.00**  ·  Hiroki Ito - 4 **21.00**  ·  Joshua Kimmich - 4 **21.00**  ·  Sacha Boey - 4 **17.00**  ·  Harry Kane - 5 **2.10**  ·  Ismael Saibari - 5 **5.00**  ·  Michael Olise - 5 **2.75**  ·  Luis Diaz - 5 **3.75**  ·  Jamal Musiala - 5 **2.75**  ·  Lennart Karl - 5 **6.00**  ·  Nathaniel Brown - 5 **11.00**  ·  Bara Ndiaye - 5 **21.00**  ·  Alphonso Davies - 5 **15.00**  ·  Harry Kane - 6 **3.25**  ·  Ismael Saibari - 6 **10.00**  ·  Michael Olise - 6 **4.50**  ·  Luis Diaz - 6 **7.00**  ·  Jamal Musiala - 6 **4.50**  ·  Lennart Karl - 6 **13.00**  ·  Nathaniel Brown - 6 **21.00**  ·  Harry Kane - 7 **5.50**  ·  Ismael Saibari - 7 **19.00**  ·  Michael Olise - 7 **9.00**  ·  Luis Diaz - 7 **13.00**  ·  Jamal Musiala - 7 **9.00**  ·  Lennart Karl - 7 **21.00**  ·  Harry Kane - 8 **10.00**  ·  Michael Olise - 8 **15.00**  ·  Luis Diaz - 8 **21.00**  ·  Jamal Musiala - 8 **15.00**  ·  Harry Kane - 9 **17.00**  ·  Michael Olise - 9 **21.00**  ·  Jamal Musiala - 9 **21.00**  ·  Harry Kane - 10 **21.00**  ·  Ismael Saibari - 1 **1.05**  ·  Luis Diaz - 1 **1.03**  ·  Michael Olise - 1 **1.01**  ·  Tom Bischof - 1 **1.14**  ·  Tom Bischof - 2 **1.67**  ·  Tom Bischof - 3 **3.00**  ·  Tom Bischof - 4 **6.00**  ·  Tom Bischof - 5 **13.00**  ·  Tom Bischof - 6 **21.00**  ·  Serge Gnabry - 2 **1.12**  ·  Serge Gnabry - 3 **1.40**  ·  Serge Gnabry - 4 **2.00**  ·  Serge Gnabry - 5 **3.25**  ·  Serge Gnabry - 6 **5.50**  ·  Serge Gnabry - 7 **10.00**  ·  Serge Gnabry - 8 **19.00**  ·  Serge Gnabry - 9 **21.00**  ·  Serge Gnabry - 1 **1.02**
 - **Player Fouls Committed:** Jamal Musiala - 1 **1.33**  ·  Lennart Karl - 1 **1.25**  ·  Nathaniel Brown - 1 **1.62**  ·  Bara Ndiaye - 1 **1.25**  ·  Aleksandar Pavlovic - 1 **1.28**  ·  Alphonso Davies - 1 **1.67**  ·  Konrad Laimer - 1 **1.20**  ·  Hiroki Ito - 1 **1.50**  ·  Joshua Kimmich - 1 **1.73**  ·  Jonathan Tah - 1 **1.25**  ·  Sacha Boey - 1 **1.20**  ·  Dayot Upamecano - 1 **1.57**  ·  Josip Stanisic - 1 **1.73**  ·  Min-Jae Kim - 1 **1.36**  ·  Harry Kane - 2 **3.25**  ·  Ismael Saibari - 2 **2.00**  ·  Michael Olise - 2 **3.00**  ·  Luis Diaz - 2 **2.20**  ·  Jamal Musiala - 2 **2.62**  ·  Lennart Karl - 2 **2.20**  ·  Nathaniel Brown - 2 **4.00**  ·  Bara Ndiaye - 2 **2.20**  ·  Aleksandar Pavlovic - 2 **2.20**  ·  Alphonso Davies - 2 **4.33**  ·  Konrad Laimer - 2 **1.83**  ·  Hiroki Ito - 2 **3.25**  ·  Joshua Kimmich - 2 **4.50**  ·  Jonathan Tah - 2 **2.20**  ·  Sacha Boey - 2 **1.83**  ·  Dayot Upamecano - 2 **3.75**  ·  Josip Stanisic - 2 **4.50**  ·  Min-Jae Kim - 2 **2.62**  ·  Harry Kane - 3 **9.00**  ·  Ismael Saibari - 3 **4.00**  ·  Michael Olise - 3 **8.00**  ·  Luis Diaz - 3 **4.50**  ·  Jamal Musiala - 3 **6.00**  ·  Lennart Karl - 3 **4.50**  ·  Nathaniel Brown - 3 **11.00**  ·  Bara Ndiaye - 3 **4.50**  ·  Aleksandar Pavlovic - 3 **5.00**  ·  Alphonso Davies - 3 **13.00**  ·  Konrad Laimer - 3 **3.75**  ·  Hiroki Ito - 3 **9.00**  ·  Joshua Kimmich - 3 **15.00**  ·  Jonathan Tah - 3 **4.50**  ·  Sacha Boey - 3 **3.75**  ·  Dayot Upamecano - 3 **11.00**  ·  Josip Stanisic - 3 **15.00**  ·  Min-Jae Kim - 3 **6.50**  ·  Harry Kane - 4 **23.00**  ·  Ismael Saibari - 4 **10.00**  ·  Michael Olise - 4 **21.00**  ·  Luis Diaz - 4 **11.00**  ·  Jamal Musiala - 4 **17.00**  ·  Lennart Karl - 4 **11.00**  ·  Bara Ndiaye - 4 **11.00**  ·  Aleksandar Pavlovic - 4 **13.00**  ·  Konrad Laimer - 4 **9.00**  ·  Hiroki Ito - 4 **23.00**  ·  Jonathan Tah - 4 **11.00**  ·  Sacha Boey - 4 **9.00**  ·  Dayot Upamecano - 4 **26.00**  ·  Ismael Saibari - 5 **23.00**  ·  Luis Diaz - 5 **26.00**  ·  Lennart Karl - 5 **26.00**  ·  Bara Ndiaye - 5 **26.00**  ·  Konrad Laimer - 5 **19.00**  ·  Jonathan Tah - 5 **26.00**  ·  Sacha Boey - 5 **19.00**  ·  Harry Kane - 1 **1.50**  ·  Ismael Saibari - 1 **1.22**  ·  Luis Diaz - 1 **1.25**  ·  Michael Olise - 1 **1.44**  ·  Min-Jae Kim - 4 **17.00**  ·  Vincenzo Grifo - 1 **2.10**  ·  Igor Matanovic - 1 **1.22**  ·  Keisuke Goto - 1 **1.53**  ·  Yuito Suzuki - 1 **1.44**  ·  Jan-Niklas Beste - 1 **1.40**  ·  Lucas Holer - 1 **1.30**  ·  Derry Scherhant - 1 **1.40**  ·  Cyriaque Irie - 1 **1.30**  ·  Maximilian Eggestein - 1 **1.67**  ·  Patrick Osterhage - 1 **1.44**  ·  Rihito Yamamoto - 1 **1.53**  ·  Lukas Kubler - 1 **1.40**  ·  Philipp Treu - 1 **1.44**  ·  Christian Gunter - 1 **1.80**  ·  Yannick Engelhardt - 1 **1.33**  ·  Berkay Yilmaz - 1 **1.67**  ·  Bruno Ogbus - 1 **1.67**  ·  Matthias Ginter - 1 **2.10**  ·  Max Rosenfelder - 1 **1.67**  ·  Philipp Lienhart - 1 **1.73**  ·  Anthony Jung - 1 **2.00**  ·  Jordy Makengo - 1 **1.44**  ·  Vincenzo Grifo - 2 **7.00**  ·  Igor Matanovic - 2 **2.00**  ·  Keisuke Goto - 2 **3.50**  ·  Yuito Suzuki - 2 **3.25**  ·  Jan-Niklas Beste - 2 **2.75**  ·  Lucas Holer - 2 **2.38**  ·  Derry Scherhant - 2 **2.75**  ·  Cyriaque Irie - 2 **2.38**  ·  Maximilian Eggestein - 2 **4.00**  ·  Patrick Osterhage - 2 **3.25**  ·  Rihito Yamamoto - 2 **3.50**  ·  Lukas Kubler - 2 **2.75**  ·  Philipp Treu - 2 **3.25**  ·  Christian Gunter - 2 **4.50**  ·  Yannick Engelhardt - 2 **2.62**  ·  Berkay Yilmaz - 2 **4.00**  ·  Bruno Ogbus - 2 **4.00**  ·  Matthias Ginter - 2 **7.00**  ·  Max Rosenfelder - 2 **4.00**  ·  Philipp Lienhart - 2 **4.33**  ·  Anthony Jung - 2 **6.50**  ·  Jordy Makengo - 2 **3.00**  ·  Vincenzo Grifo - 3 **23.00**  ·  Igor Matanovic - 3 **4.33**  ·  Keisuke Goto - 3 **10.00**  ·  Yuito Suzuki - 3 **9.00**  ·  Jan-Niklas Beste - 3 **7.00**  ·  Lucas Holer - 3 **5.50**  ·  Derry Scherhant - 3 **7.00**  ·  Cyriaque Irie - 3 **5.50**  ·  Maximilian Eggestein - 3 **13.00**  ·  Patrick Osterhage - 3 **9.00**  ·  Rihito Yamamoto - 3 **10.00**  ·  Lukas Kubler - 3 **7.00**  ·  Philipp Treu - 3 **9.00**  ·  Christian Gunter - 3 **15.00**  ·  Yannick Engelhardt - 3 **6.00**  ·  Berkay Yilmaz - 3 **13.00**  ·  Bruno Ogbus - 3 **13.00**  ·  Matthias Ginter - 3 **23.00**  ·  Max Rosenfelder - 3 **13.00**  ·  Philipp Lienhart - 3 **13.00**  ·  Anthony Jung - 3 **21.00**  ·  Jordy Makengo - 3 **8.00**  ·  Igor Matanovic - 4 **10.00**  ·  Keisuke Goto - 4 **26.00**  ·  Yuito Suzuki - 4 **21.00**  ·  Jan-Niklas Beste - 4 **19.00**  ·  Lucas Holer - 4 **13.00**  ·  Derry Scherhant - 4 **19.00**  ·  Cyriaque Irie - 4 **13.00**  ·  Patrick Osterhage - 4 **21.00**  ·  Rihito Yamamoto - 4 **26.00**  ·  Lukas Kubler - 4 **19.00**  ·  Philipp Treu - 4 **21.00**  ·  Yannick Engelhardt - 4 **17.00**  ·  Igor Matanovic - 5 **23.00**  ·  Tom Bischof - 1 **1.33**  ·  Tom Bischof - 2 **2.62**  ·  Tom Bischof - 3 **6.00**  ·  Tom Bischof - 4 **17.00**  ·  Jordy Makengo - 4 **21.00**  ·  Serge Gnabry - 2 **2.20**  ·  Serge Gnabry - 3 **4.50**  ·  Serge Gnabry - 4 **11.00**  ·  Serge Gnabry - 5 **26.00**  ·  Serge Gnabry - 1 **1.25**
-- **Goalkeeper Saves:** Manuel Neuer - 1 **1.05**  ·  Manuel Neuer - 2 **1.30**  ·  Manuel Neuer - 3 **1.91**  ·  Manuel Neuer - 4 **3.40**  ·  Manuel Neuer - 5 **7.00**  ·  Mio Backhaus - 4 **1.25**  ·  Mio Backhaus - 5 **1.62**  ·  Mio Backhaus - 6 **2.20**  ·  Mio Backhaus - 7 **3.40**  ·  Mio Backhaus - 8 **5.50**  ·  Mio Backhaus - 3 **1.08**  ·  Jonas Urbig - 2 **1.30**  ·  Jonas Urbig - 3 **1.06**  ·  Jonas Urbig - 4 **1.06**  ·  Jonas Urbig - 5 **1.33**  ·  Jonas Urbig - 6 **1.33**  ·  Jonas Urbig - 1 **1.05**  ·  Mio Backhaus - 9 **10.00**  ·  Jonas Urbig - 7 **2.00**  ·  Jonas Urbig - 8 **2.00**  ·  Jonas Urbig - 9 **3.50**  ·  Jonas Urbig **7.00**
-- **Anytime Goal Scorer:** Lennart Karl **2.62**  ·  Ismael Saibari **2.50**  ·  Luis Diaz **2.50**  ·  Yuito Suzuki **3.75**  ·  Rihito Yamamoto **8.00**  ·  Lucas Holer **3.75**  ·  Derry Scherhant **4.33**  ·  Josip Stanisic **9.50**  ·  Lukas Kubler **8.00**  ·  Christian Gunter **11.00**  ·  Yannick Engelhardt **11.00**  ·  Berkay Yilmaz **11.00**  ·  Jan-Niklas Beste **4.33**  ·  Bara Ndiaye **4.33**  ·  Tim Binder **3.75**  ·  Mateo Zelic **4.75**  ·  Tom Bischof **4.33**  ·  Aleksandar Pavlovic **6.00**  ·  Alphonso Davies **4.33**  ·  Dayot Upamecano **9.50**  ·  Harry Kane **1.53**  ·  Igor Matanovic **3.00**  ·  Jamal Musiala **2.25**  ·  Joshua Kimmich **6.50**  ·  Konrad Laimer **6.50**  ·  Michael Olise **2.50**  ·  Nathaniel Brown **3.50**  ·  Serge Gnabry **2.62**  ·  Min-Jae Kim **11.00**  ·  Sacha Boey **6.50**  ·  Philipp Treu **11.00**  ·  Hiroki Ito **6.50**  ·  Jonathan Tah **6.50**  ·  Anthony Jung **19.00**  ·  Bruno Ogbus **11.00**  ·  Jordy Makengo **19.00**  ·  Matthias Ginter **9.50**  ·  Max Rosenfelder **13.00**  ·  Maximilian Eggestein **6.00**  ·  Patrick Osterhage **8.00**  ·  Philipp Lienhart **11.00**  ·  Vincenzo Grifo **3.50**  ·  Cyriaque Irie **5.50**  ·  Keisuke Goto **4.33**
-- **Player to Score or Assist:** Lennart Karl **1.73**  ·  Ismael Saibari **1.73**  ·  Luis Diaz **1.67**  ·  Yuito Suzuki **2.60**  ·  Rihito Yamamoto **4.50**  ·  Lucas Holer **2.62**  ·  Derry Scherhant **2.88**  ·  Josip Stanisic **3.20**  ·  Lukas Kubler **5.00**  ·  Christian Gunter **5.00**  ·  Yannick Engelhardt **6.00**  ·  Berkay Yilmaz **5.50**  ·  Jan-Niklas Beste **2.62**  ·  Bara Ndiaye **2.50**  ·  Tim Binder **2.10**  ·  Mateo Zelic **3.00**  ·  Tom Bischof **2.38**  ·  Aleksandar Pavlovic **4.00**  ·  Alphonso Davies **2.62**  ·  Dayot Upamecano **6.50**  ·  Harry Kane **1.40**  ·  Igor Matanovic **2.30**  ·  Jamal Musiala **1.67**  ·  Joshua Kimmich **2.50**  ·  Konrad Laimer **2.88**  ·  Michael Olise **1.50**  ·  Nathaniel Brown **2.20**  ·  Serge Gnabry **1.67**  ·  Min-Jae Kim **8.00**  ·  Sacha Boey **3.25**  ·  Philipp Treu **5.00**  ·  Hiroki Ito **3.50**  ·  Jonathan Tah **5.00**  ·  Anthony Jung **10.00**  ·  Bruno Ogbus **9.00**  ·  Jordy Makengo **10.00**  ·  Matthias Ginter **6.50**  ·  Max Rosenfelder **9.50**  ·  Maximilian Eggestein **4.33**  ·  Patrick Osterhage **5.50**  ·  Philipp Lienhart **7.00**  ·  Vincenzo Grifo **2.20**  ·  Cyriaque Irie **3.40**  ·  Keisuke Goto **3.25**
+- **Goalkeeper Saves:** Manuel Neuer - 1 **1.05**  ·  Manuel Neuer - 2 **1.30**  ·  Manuel Neuer - 3 **1.91**  ·  Manuel Neuer - 4 **3.40**  ·  Manuel Neuer - 5 **7.00**  ·  Mio Backhaus - 4 **1.25**  ·  Mio Backhaus - 5 **1.57**  ·  Mio Backhaus - 6 **2.20**  ·  Mio Backhaus - 7 **3.40**  ·  Mio Backhaus - 8 **5.50**  ·  Mio Backhaus - 3 **1.08**  ·  Jonas Urbig - 2 **1.30**  ·  Jonas Urbig - 3 **1.05**  ·  Jonas Urbig - 4 **1.05**  ·  Jonas Urbig - 5 **1.30**  ·  Jonas Urbig - 6 **1.30**  ·  Jonas Urbig - 1 **1.05**  ·  Mio Backhaus - 9 **10.00**  ·  Jonas Urbig - 7 **1.91**  ·  Jonas Urbig - 8 **1.91**  ·  Jonas Urbig - 9 **3.50**  ·  Jonas Urbig **7.00**
+- **Anytime Goal Scorer:** Lennart Karl **2.88**  ·  Ismael Saibari **2.60**  ·  Luis Diaz **2.60**  ·  Yuito Suzuki **3.60**  ·  Rihito Yamamoto **7.50**  ·  Lucas Holer **3.60**  ·  Derry Scherhant **4.00**  ·  Josip Stanisic **9.50**  ·  Lukas Kubler **7.50**  ·  Christian Gunter **12.00**  ·  Yannick Engelhardt **9.50**  ·  Berkay Yilmaz **12.00**  ·  Jan-Niklas Beste **4.50**  ·  Bara Ndiaye **4.50**  ·  Tim Binder **4.50**  ·  Mateo Zelic **5.00**  ·  Tom Bischof **4.50**  ·  Aleksandar Pavlovic **6.00**  ·  Alphonso Davies **4.50**  ·  Dayot Upamecano **9.50**  ·  Harry Kane **1.62**  ·  Igor Matanovic **3.00**  ·  Jamal Musiala **2.40**  ·  Joshua Kimmich **6.50**  ·  Konrad Laimer **6.50**  ·  Michael Olise **2.60**  ·  Nathaniel Brown **4.00**  ·  Serge Gnabry **2.88**  ·  Min-Jae Kim **12.00**  ·  Sacha Boey **6.50**  ·  Philipp Treu **12.00**  ·  Hiroki Ito **6.50**  ·  Jonathan Tah **6.50**  ·  Anthony Jung **19.00**  ·  Bruno Ogbus **12.00**  ·  Jordy Makengo **19.00**  ·  Matthias Ginter **9.50**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **6.00**  ·  Patrick Osterhage **7.50**  ·  Philipp Lienhart **12.00**  ·  Vincenzo Grifo **3.40**  ·  Cyriaque Irie **5.00**  ·  Keisuke Goto **4.00**
+- **Player to Score or Assist:** Lennart Karl **1.83**  ·  Ismael Saibari **1.80**  ·  Luis Diaz **1.67**  ·  Yuito Suzuki **2.50**  ·  Rihito Yamamoto **4.33**  ·  Lucas Holer **2.60**  ·  Derry Scherhant **2.75**  ·  Josip Stanisic **3.40**  ·  Lukas Kubler **4.75**  ·  Christian Gunter **5.00**  ·  Yannick Engelhardt **5.50**  ·  Berkay Yilmaz **5.50**  ·  Jan-Niklas Beste **2.75**  ·  Bara Ndiaye **2.60**  ·  Tim Binder **2.30**  ·  Mateo Zelic **3.00**  ·  Tom Bischof **2.40**  ·  Aleksandar Pavlovic **4.33**  ·  Alphonso Davies **2.75**  ·  Dayot Upamecano **7.00**  ·  Harry Kane **1.40**  ·  Igor Matanovic **2.30**  ·  Jamal Musiala **1.67**  ·  Joshua Kimmich **2.62**  ·  Konrad Laimer **3.00**  ·  Michael Olise **1.53**  ·  Nathaniel Brown **2.30**  ·  Serge Gnabry **1.73**  ·  Min-Jae Kim **8.50**  ·  Sacha Boey **3.40**  ·  Philipp Treu **5.00**  ·  Hiroki Ito **3.60**  ·  Jonathan Tah **5.00**  ·  Anthony Jung **10.00**  ·  Bruno Ogbus **9.00**  ·  Jordy Makengo **10.00**  ·  Matthias Ginter **6.50**  ·  Max Rosenfelder **10.00**  ·  Maximilian Eggestein **4.33**  ·  Patrick Osterhage **5.00**  ·  Philipp Lienhart **7.00**  ·  Vincenzo Grifo **2.20**  ·  Cyriaque Irie **3.25**  ·  Keisuke Goto **3.10**
 
 ## Estadísticas de equipo
 | | SC Freiburg (total) | SC Freiburg en casa | Bayern München (total) | Bayern München fuera |
@@ -220,38 +219,40 @@ _Goles esperados: local 1,60 · visitante 2,01 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 62% | 55% | 1.50 | -17% |
+| 1X2: 2 | 47% | 63% | 55% | 1.48 | -18% |
 | 1X2: X | 21% | 19% | 20% | 5.00 | +1% |
-| 1X2: 1 | 31% | 19% | 25% | 5.00 | +24% |
-| Doble oportunidad: X2 | 69% | 84% | 76% | 1.12 | -14% |
-| Doble oportunidad: 12 | 79% | 82% | 80% | 1.14 | -8% |
-| Doble oportunidad: 1X ✅ | 52% | 34% | 43% | 2.75 | +19% |
+| 1X2: 1 | 31% | 18% | 24% | 5.25 | +28% |
+| Doble oportunidad: X2 | 69% | 82% | 75% | 1.17 | -12% |
+| Doble oportunidad: 12 | 79% | 82% | 80% | 1.17 | -6% |
+| Doble oportunidad: 1X ✅ | 53% | 37% | 45% | 2.62 | +17% |
 | Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
 | Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 70% | 73% | 71% | 1.30 | -7% |
+| Goles más/menos: Más de 2.5 | 70% | 72% | 71% | 1.33 | -6% |
 | Goles más/menos: Más de 3.5 | 49% | 53% | 51% | 1.80 | -9% |
 | Goles más/menos: Más de 4.5 | 29% | 34% | 32% | 2.75 | -12% |
 | Goles más/menos: Más de 5.5 | 16% | 21% | 18% | 4.50 | -17% |
-| Goles más/menos: Menos de 2.5 | 30% | 27% | 29% | 3.50 | +0% |
+| Goles más/menos: Menos de 2.5 | 30% | 28% | 29% | 3.40 | -1% |
 | Goles más/menos: Menos de 3.5 | 51% | 47% | 49% | 2.00 | -1% |
 | Goles más/menos: Menos de 4.5 | 71% | 66% | 68% | 1.44 | -2% |
 | Goles más/menos: Menos de 5.5 | 84% | 79% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 28% | 24% | 3.40 | -20% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 46% | 51% | 2.00 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 72% | 76% | 1.30 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles del local: Más de 0.5 | 80% | 71% | 75% | 1.33 | +0% |
 | Goles del local: Más de 1.5 | 47% | 35% | 41% | 2.62 | +9% |
 | Goles del local: Menos de 0.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles del local: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -16% |
-| Goles del visitante: Más de 1.5 | 60% | 75% | 67% | 1.25 | -16% |
-| Goles del visitante: Más de 2.5 | 33% | 50% | 41% | 1.83 | -24% |
-| Goles del visitante: Más de 3.5 | 14% | 29% | 22% | 3.25 | -29% |
-| Goles del visitante: Menos de 1.5 ✅ | 40% | 25% | 33% | 3.75 | +23% |
-| Goles del visitante: Menos de 2.5 | 67% | 50% | 59% | 1.83 | +7% |
-| Goles del visitante: Menos de 3.5 | 86% | 71% | 78% | 1.33 | +4% |
-| Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -7% |
-| Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -7% |
+| Goles del visitante: Más de 1.5 | 60% | 71% | 65% | 1.33 | -13% |
+| Goles del visitante: Más de 2.5 | 33% | 46% | 39% | 2.00 | -21% |
+| Goles del visitante: Más de 3.5 | 14% | 27% | 21% | 3.50 | -28% |
+| Goles del visitante: Menos de 1.5 ✅ | 40% | 29% | 35% | 3.25 | +13% |
+| Goles del visitante: Menos de 2.5 | 67% | 54% | 61% | 1.73 | +5% |
+| Goles del visitante: Menos de 3.5 | 86% | 73% | 79% | 1.28 | +2% |
+| Córners más/menos: Más de 9.5 | 47% | 46% | 46% | 2.00 | -7% |
+| Córners más/menos: Menos de 9.5 | 53% | 54% | 54% | 1.73 | -7% |
 | 1X2 descanso: 2 | 37% | 49% | 43% | 1.91 | -18% |
 | 1X2 descanso: X | 36% | 32% | 34% | 2.88 | -1% |
 

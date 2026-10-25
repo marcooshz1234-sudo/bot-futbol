@@ -1,10 +1,10 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:17_
 
 - **1X2:** 1 **2.50**  ·  X **3.60**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
@@ -212,16 +212,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 51% | 43% | 47% | 2.20 | +4% |
 | Goles más/menos: Menos de 3.5 | 73% | 64% | 68% | 1.50 | +2% |
 | Goles más/menos: Menos de 4.5 | 87% | 79% | 83% | 1.20 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 72% | 70% | 1.30 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 39% | 35% | 2.38 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
 | Goles del local: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
 | Goles del local: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles del local: Más de 2.5 | 17% | 22% | 20% | 4.33 | -16% |
 | Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
 | Goles del local: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -3% |
-| Goles del local: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
+| Goles del local: Menos de 2.5 | 83% | 78% | 80% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 70% | 77% | 73% | 1.22 | -11% |
 | Goles del visitante: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
 | Goles del visitante: Más de 2.5 | 12% | 21% | 16% | 4.50 | -26% |

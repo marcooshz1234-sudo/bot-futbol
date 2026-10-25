@@ -1,17 +1,17 @@
 # Toulouse – Estac Troyes
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:15_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.50**
-- **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.15**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.50**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.62** · menos **2.30**
+    - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.38** · menos **1.57**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
@@ -39,7 +39,7 @@ _Actualizadas: 25/10 13:44_
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.28**  ·  2 **3.00**
@@ -68,7 +68,7 @@ _Actualizadas: 25/10 13:44_
 - **Home Player Shots:** Casper Tengstedt - 2 **1.11**  ·  Casper Tengstedt - 3 **1.36**  ·  Casper Tengstedt - 4 **1.83**  ·  Casper Tengstedt - 5 **2.75**  ·  Casper Tengstedt - 6 **4.50**  ·  Casper Tengstedt - 7 **9.00**  ·  Casper Tengstedt - 8 **15.00**  ·  Casper Tengstedt - 9 **21.00**  ·  Casper Tengstedt - 1 **1.01**  ·  Mathis Amougou - 1 **1.40**  ·  Mathis Amougou - 2 **2.75**  ·  Mathis Amougou - 3 **6.50**  ·  Mathis Amougou - 4 **17.00**  ·  Santiago Hidalgo - 1 **1.04**  ·  Julien Vignolo - 1 **1.03**  ·  Jacen Russell-Rowe - 1 **1.06**  ·  Sion Oppong - 1 **1.08**  ·  Aron Donnum - 1 **1.14**  ·  Rafik Messali - 1 **1.18**  ·  Thomas Jorgensen - 1 **1.12**  ·  Niklas Schmidt - 1 **1.25**  ·  Alexis Vossah - 1 **1.18**  ·  Mathis Saka - 1 **1.25**  ·  Cristian Casseres Jr - 1 **1.44**  ·  David Odogu - 1 **1.40**  ·  Ilyas Azizi - 1 **1.10**  ·  Ismail Diallo - 1 **1.67**  ·  Seny Koumbassa - 1 **1.80**  ·  Rasmus Nicolaisen - 1 **1.40**  ·  Christ Tape - 1 **1.44**  ·  Mark McKenzie - 1 **2.62**  ·  Santiago Hidalgo - 2 **1.22**  ·  Julien Vignolo - 2 **1.20**  ·  Jacen Russell-Rowe - 2 **1.33**  ·  Sion Oppong - 2 **1.40**  ·  Aron Donnum - 2 **1.67**  ·  Rafik Messali - 2 **1.80**  ·  Thomas Jorgensen - 2 **1.62**  ·  Niklas Schmidt - 2 **2.10**  ·  Alexis Vossah - 2 **1.80**  ·  Mathis Saka - 2 **2.00**  ·  Cristian Casseres Jr - 2 **3.00**  ·  David Odogu - 2 **2.75**  ·  Ilyas Azizi - 2 **1.44**  ·  Ismail Diallo - 2 **4.00**  ·  Seny Koumbassa - 2 **4.50**  ·  Rasmus Nicolaisen - 2 **2.75**  ·  Christ Tape - 2 **3.00**  ·  Mark McKenzie - 2 **9.00**  ·  Santiago Hidalgo - 3 **1.67**  ·  Julien Vignolo - 3 **1.57**  ·  Jacen Russell-Rowe - 3 **1.91**  ·  Sion Oppong - 3 **2.10**  ·  Aron Donnum - 3 **2.75**  ·  Rafik Messali - 3 **3.40**  ·  Thomas Jorgensen - 3 **2.62**  ·  Niklas Schmidt - 3 **4.33**  ·  Alexis Vossah - 3 **3.40**  ·  Mathis Saka - 3 **4.00**  ·  Cristian Casseres Jr - 3 **8.00**  ·  David Odogu - 3 **6.50**  ·  Ilyas Azizi - 3 **2.25**  ·  Ismail Diallo - 3 **11.00**  ·  Seny Koumbassa - 3 **13.00**  ·  Rasmus Nicolaisen - 3 **6.50**  ·  Christ Tape - 3 **8.00**  ·  Santiago Hidalgo - 4 **2.62**  ·  Julien Vignolo - 4 **2.38**  ·  Jacen Russell-Rowe - 4 **3.40**  ·  Sion Oppong - 4 **3.75**  ·  Aron Donnum - 4 **6.00**  ·  Rafik Messali - 4 **7.00**  ·  Thomas Jorgensen - 4 **5.50**  ·  Niklas Schmidt - 4 **11.00**  ·  Alexis Vossah - 4 **7.00**  ·  Mathis Saka - 4 **10.00**  ·  Cristian Casseres Jr - 4 **19.00**  ·  David Odogu - 4 **17.00**  ·  Santiago Hidalgo - 5 **4.50**  ·  Julien Vignolo - 5 **4.00**  ·  Jacen Russell-Rowe - 5 **6.50**  ·  Sion Oppong - 5 **7.00**  ·  Aron Donnum - 5 **13.00**  ·  Rafik Messali - 5 **15.00**  ·  Thomas Jorgensen - 5 **11.00**  ·  Niklas Schmidt - 5 **21.00**  ·  Santiago Hidalgo - 6 **9.00**  ·  Julien Vignolo - 6 **7.00**  ·  Jacen Russell-Rowe - 6 **13.00**  ·  Sion Oppong - 6 **15.00**  ·  Santiago Hidalgo - 7 **17.00**  ·  Julien Vignolo - 7 **15.00**  ·  Niko Sigur - 1 **1.36**  ·  Niko Sigur - 2 **2.62**  ·  Niko Sigur - 3 **6.00**  ·  Niko Sigur - 4 **15.00**  ·  Thomas Jorgensen - 6 **21.00**  ·  Christ Tape - 4 **19.00**  ·  Ilyas Azizi - 4 **4.33**  ·  Ilyas Azizi - 5 **9.00**  ·  Ilyas Azizi - 6 **19.00**  ·  Alexis Vossah - 5 **15.00**  ·  Mathis Saka - 5 **21.00**  ·  Aron Donnum - 6 **21.00**  ·  Jacen Russell-Rowe - 7 **21.00**  ·  Julien Vignolo - 8 **21.00**  ·  Rasmus Nicolaisen - 4 **17.00**
 - **Away Player Shots:** Renaud Ripart - 1 **1.06**  ·  Kandet Diawara - 1 **1.22**  ·  Hugo Picard - 1 **1.18**  ·  Noah Donkor - 1 **1.25**  ·  Iron Gomis - 1 **1.36**  ·  Antoine Mille - 1 **1.30**  ·  Mouhamed Diop - 1 **1.50**  ·  Yacouba Kone - 1 **1.20**  ·  Anis Ouzenadji - 1 **1.73**  ·  Christ Batola - 1 **2.20**  ·  Alexandre Philiponeau - 1 **1.73**  ·  Dermane Karim - 1 **1.33**  ·  Lucas Maronnier - 1 **1.73**  ·  Yvann Titi - 1 **1.53**  ·  Adrien Monfray - 1 **1.91**  ·  Junior Diaz - 1 **4.00**  ·  Paolo Gozzi - 1 **4.00**  ·  Renaud Ripart - 2 **1.30**  ·  Kandet Diawara - 2 **2.00**  ·  Hugo Picard - 2 **1.80**  ·  Noah Donkor - 2 **2.00**  ·  Iron Gomis - 2 **2.50**  ·  Antoine Mille - 2 **2.25**  ·  Mouhamed Diop - 2 **3.25**  ·  Yacouba Kone - 2 **1.91**  ·  Anis Ouzenadji - 2 **4.33**  ·  Christ Batola - 2 **6.50**  ·  Alexandre Philiponeau - 2 **4.33**  ·  Dermane Karim - 2 **2.38**  ·  Lucas Maronnier - 2 **4.33**  ·  Yvann Titi - 2 **3.40**  ·  Adrien Monfray - 2 **5.50**  ·  Junior Diaz - 2 **19.00**  ·  Paolo Gozzi - 2 **19.00**  ·  Renaud Ripart - 3 **1.83**  ·  Kandet Diawara - 3 **3.75**  ·  Hugo Picard - 3 **3.40**  ·  Noah Donkor - 3 **4.00**  ·  Iron Gomis - 3 **5.50**  ·  Antoine Mille - 3 **5.00**  ·  Mouhamed Diop - 3 **8.00**  ·  Yacouba Kone - 3 **3.75**  ·  Anis Ouzenadji - 3 **13.00**  ·  Christ Batola - 3 **21.00**  ·  Alexandre Philiponeau - 3 **13.00**  ·  Dermane Karim - 3 **5.50**  ·  Lucas Maronnier - 3 **13.00**  ·  Yvann Titi - 3 **9.00**  ·  Adrien Monfray - 3 **17.00**  ·  Renaud Ripart - 4 **3.25**  ·  Kandet Diawara - 4 **9.00**  ·  Hugo Picard - 4 **7.00**  ·  Noah Donkor - 4 **10.00**  ·  Iron Gomis - 4 **15.00**  ·  Antoine Mille - 4 **13.00**  ·  Mouhamed Diop - 4 **21.00**  ·  Yacouba Kone - 4 **8.00**  ·  Renaud Ripart - 5 **6.00**  ·  Kandet Diawara - 5 **19.00**  ·  Renaud Ripart - 6 **11.00**  ·  Timothee Nkada - 1 **1.08**  ·  Timothee Nkada - 2 **1.40**  ·  Timothee Nkada - 3 **2.10**  ·  Timothee Nkada - 4 **3.75**  ·  Timothee Nkada - 5 **8.00**  ·  Timothee Nkada - 6 **15.00**  ·  Jeremy Le Douaron - 1 **1.12**  ·  Jeremy Le Douaron - 2 **1.57**  ·  Jeremy Le Douaron - 3 **2.62**  ·  Jeremy Le Douaron - 4 **5.00**  ·  Jeremy Le Douaron - 5 **11.00**  ·  Jeremy Le Douaron - 6 **21.00**  ·  Dermane Karim - 4 **13.00**  ·  Hugo Picard - 5 **17.00**  ·  Noah Donkor - 5 **21.00**  ·  Renaud Ripart - 7 **21.00**  ·  Lassana Simakha - 1 **2.75**  ·  Lassana Simakha - 2 **10.00**  ·  Yvann Titi - 4 **21.00**  ·  Yacouba Kone - 5 **19.00**  ·  Antoine Mille - 5 **21.00**
 - **Goalkeeper Saves:** Guillaume Restes - 2 **1.28**  ·  Guillaume Restes - 3 **1.83**  ·  Guillaume Restes - 4 **3.40**  ·  Guillaume Restes - 5 **6.50**  ·  Guillaume Restes - 1 **1.05**  ·  Patrick Beach - 3 **1.33**  ·  Patrick Beach - 4 **1.83**  ·  Patrick Beach - 5 **2.75**  ·  Patrick Beach - 6 **5.00**  ·  Patrick Beach - 7 **10.00**  ·  Patrick Beach - 2 **1.10**
-- **Anytime Goal Scorer:** Junior Diaz **13.00**  ·  Ilyas Azizi **2.75**  ·  Aron Donnum **3.60**  ·  Thomas Jorgensen **3.25**  ·  Jacen Russell-Rowe **2.50**  ·  Rasmus Nicolaisen **7.00**  ·  Cristian Casseres Jr **5.00**  ·  Christ Tape **6.00**  ·  Timothee Nkada **4.00**  ·  Seny Koumbassa **6.50**  ·  Alexis Vossah **4.00**  ·  Julien Vignolo **2.20**  ·  Mark McKenzie **8.00**  ·  Jeremy Le Douaron **4.33**  ·  Kandet Diawara **4.50**  ·  Santiago Hidalgo **2.38**  ·  Mathis Amougou **4.50**  ·  Niklas Schmidt **4.50**  ·  Casper Tengstedt **2.20**  ·  Niko Sigur **5.00**  ·  Noah Donkor **6.50**  ·  Anis Ouzenadji **9.00**  ·  Merwan Ifnaoui **5.00**  ·  Yvann Titi **11.00**  ·  Antoine Mille **8.00**  ·  Rafik Messali **6.00**  ·  Alexandre Philiponeau **10.00**  ·  Iron Gomis **7.00**  ·  Ismail Diallo **6.50**  ·  Yacouba Kone **8.00**  ·  Christ Batola **4.33**  ·  Lassana Simakha **13.00**  ·  Mathis Saka **4.00**  ·  David Odogu **5.00**  ·  Adrien Monfray **13.00**  ·  Mouhamed Diop **8.00**  ·  Paolo Gozzi **13.00**  ·  Renaud Ripart **3.25**  ·  Hugo Picard **6.00**  ·  Lucas Maronnier **11.00**  ·  Dermane Karim **5.00**  ·  Sion Oppong **3.10**
+- **Anytime Goal Scorer:** Junior Diaz **13.00**  ·  Ilyas Azizi **2.75**  ·  Aron Donnum **3.40**  ·  Thomas Jorgensen **3.25**  ·  Jacen Russell-Rowe **2.50**  ·  Rasmus Nicolaisen **7.00**  ·  Cristian Casseres Jr **5.00**  ·  Christ Tape **6.00**  ·  Timothee Nkada **4.33**  ·  Seny Koumbassa **6.50**  ·  Alexis Vossah **4.00**  ·  Julien Vignolo **2.20**  ·  Mark McKenzie **8.00**  ·  Jeremy Le Douaron **4.50**  ·  Kandet Diawara **5.00**  ·  Santiago Hidalgo **2.30**  ·  Mathis Amougou **4.50**  ·  Niklas Schmidt **4.50**  ·  Casper Tengstedt **2.20**  ·  Niko Sigur **5.00**  ·  Noah Donkor **6.50**  ·  Anis Ouzenadji **8.50**  ·  Merwan Ifnaoui **6.00**  ·  Yvann Titi **11.00**  ·  Antoine Mille **8.00**  ·  Rafik Messali **6.00**  ·  Alexandre Philiponeau **9.50**  ·  Iron Gomis **7.00**  ·  Ismail Diallo **6.50**  ·  Yacouba Kone **8.00**  ·  Christ Batola **4.50**  ·  Lassana Simakha **13.00**  ·  Mathis Saka **4.00**  ·  David Odogu **5.00**  ·  Adrien Monfray **13.00**  ·  Mouhamed Diop **8.00**  ·  Paolo Gozzi **13.00**  ·  Renaud Ripart **3.40**  ·  Hugo Picard **6.00**  ·  Lucas Maronnier **11.00**  ·  Dermane Karim **6.00**  ·  Sion Oppong **3.00**
 - **Player to Score or Assist:** Junior Diaz **8.50**  ·  Ilyas Azizi **1.91**  ·  Aron Donnum **1.95**  ·  Thomas Jorgensen **2.10**  ·  Jacen Russell-Rowe **1.91**  ·  Rasmus Nicolaisen **4.50**  ·  Cristian Casseres Jr **2.40**  ·  Christ Tape **4.00**  ·  Timothee Nkada **3.20**  ·  Seny Koumbassa **4.33**  ·  Alexis Vossah **2.60**  ·  Julien Vignolo **1.73**  ·  Mark McKenzie **4.75**  ·  Jeremy Le Douaron **3.25**  ·  Kandet Diawara **3.25**  ·  Santiago Hidalgo **1.73**  ·  Mathis Amougou **2.88**  ·  Niklas Schmidt **2.50**  ·  Casper Tengstedt **1.80**  ·  Niko Sigur **3.20**  ·  Noah Donkor **4.00**  ·  Anis Ouzenadji **5.50**  ·  Merwan Ifnaoui **3.50**  ·  Yvann Titi **6.50**  ·  Antoine Mille **4.75**  ·  Rafik Messali **3.20**  ·  Alexandre Philiponeau **5.50**  ·  Iron Gomis **4.50**  ·  Ismail Diallo **3.00**  ·  Yacouba Kone **4.33**  ·  Christ Batola **3.00**  ·  Lassana Simakha **8.00**  ·  Mathis Saka **2.50**  ·  David Odogu **4.50**  ·  Adrien Monfray **8.50**  ·  Mouhamed Diop **5.00**  ·  Paolo Gozzi **8.50**  ·  Renaud Ripart **2.60**  ·  Hugo Picard **4.00**  ·  Lucas Maronnier **6.50**  ·  Dermane Karim **3.25**  ·  Sion Oppong **2.20**
 
 ## Estadísticas de equipo
@@ -205,7 +205,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alexandre Phliponeau | M | 3 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,11 · visitante 0,91 · córners esperados 9,5._
+_Goles esperados: local 3,12 · visitante 0,91 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -213,16 +213,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 8% | 15% | 11% | 6.50 | -28% |
 | 1X2: X | 12% | 22% | 17% | 4.20 | -28% |
-| 1X2: 1 | 80% | 63% | 72% | 1.50 | +8% |
-| Doble oportunidad: X2 | 20% | 44% | 32% | 2.15 | -32% |
-| Doble oportunidad: 12 | 88% | 75% | 82% | 1.25 | +2% |
-| Doble oportunidad: 1X | 92% | 81% | 86% | 1.17 | +1% |
+| 1X2: 1 | 81% | 63% | 72% | 1.50 | +8% |
+| Doble oportunidad: X2 | 19% | 38% | 29% | 2.50 | -29% |
+| Doble oportunidad: 12 | 88% | 77% | 83% | 1.22 | +1% |
+| Doble oportunidad: 1X | 92% | 85% | 89% | 1.11 | -2% |
 | Ambos marcan: No | 43% | 45% | 44% | 2.05 | -10% |
 | Ambos marcan: Sí | 57% | 55% | 56% | 1.70 | -5% |
-| Goles más/menos: Más de 2.5 | 77% | 59% | 68% | 1.62 | +10% |
+| Goles más/menos: Más de 2.5 | 77% | 60% | 68% | 1.57 | +7% |
 | Goles más/menos: Más de 3.5 | 57% | 40% | 48% | 2.38 | +15% |
 | Goles más/menos: Más de 4.5 | 38% | 22% | 30% | 4.33 | +29% |
-| Goles más/menos: Menos de 2.5 | 23% | 41% | 32% | 2.30 | -26% |
+| Goles más/menos: Menos de 2.5 | 23% | 40% | 32% | 2.38 | -25% |
 | Goles más/menos: Menos de 3.5 | 43% | 60% | 52% | 1.57 | -19% |
 | Goles más/menos: Menos de 4.5 | 62% | 78% | 70% | 1.22 | -14% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
@@ -240,6 +240,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
 | 1X2 descanso: X | 29% | 37% | 33% | 2.50 | -18% |
-| 1X2 descanso: 1 | 60% | 47% | 54% | 1.95 | +4% |
+| 1X2 descanso: 1 | 60% | 47% | 54% | 1.95 | +5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

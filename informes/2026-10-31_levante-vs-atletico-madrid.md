@@ -1,10 +1,10 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **4.75**  ·  X **4.10**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
@@ -187,13 +187,13 @@ _Sin bajas comunicadas por ahora._
 | Dani MartÃ­nez | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,2._
+_Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 51% | 58% | 54% | 1.60 | -13% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -6% |
-| 1X2: 1 | 26% | 20% | 23% | 4.75 | +7% |
+| 1X2: 1 | 26% | 20% | 23% | 4.75 | +8% |
 | Doble oportunidad: X2 | 74% | 81% | 77% | 1.18 | -9% |
 | Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 49% | 41% | 45% | 2.30 | +4% |
@@ -210,12 +210,12 @@ _Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,2._
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
 | Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Más de 1.5 | 34% | 31% | 32% | 3.00 | -3% |
 | Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles del local: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Menos de 1.5 | 66% | 69% | 68% | 1.36 | -8% |
 | Goles del visitante: Más de 1.5 | 53% | 62% | 58% | 1.50 | -14% |
 | Goles del visitante: Más de 2.5 | 26% | 35% | 31% | 2.62 | -19% |
-| Goles del visitante: Menos de 1.5 | 47% | 38% | 42% | 2.50 | +6% |
+| Goles del visitante: Menos de 1.5 ✅ | 47% | 38% | 42% | 2.50 | +6% |
 | Goles del visitante: Menos de 2.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Córners más/menos: Más de 9.5 | 43% | 48% | 45% | 1.98 | -10% |
 | Córners más/menos: Menos de 9.5 | 57% | 52% | 55% | 1.82 | -1% |

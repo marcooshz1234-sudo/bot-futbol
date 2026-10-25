@@ -1,10 +1,10 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.18**  ·  X2 **3.00**
@@ -191,37 +191,37 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Mattia Felici | F | 2 | 37 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,50 · visitante 0,60 · córners esperados 9,9._
+_Goles esperados: local 2,54 · visitante 0,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 7% | 11% | 9% | 9.00 | -22% |
-| 1X2: X | 14% | 20% | 17% | 4.75 | -19% |
+| 1X2: X | 14% | 20% | 17% | 4.75 | -20% |
 | 1X2: 1 | 79% | 70% | 74% | 1.36 | +1% |
-| Doble oportunidad: X2 | 21% | 32% | 26% | 3.00 | -21% |
+| Doble oportunidad: X2 | 21% | 32% | 26% | 3.00 | -22% |
 | Doble oportunidad: 12 | 86% | 80% | 83% | 1.18 | -2% |
 | Doble oportunidad: 1X | 93% | 88% | 91% | 1.07 | -3% |
-| Ambos marcan: No | 59% | 53% | 56% | 1.75 | -2% |
-| Ambos marcan: Sí | 41% | 47% | 44% | 2.00 | -12% |
-| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 60% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | -1% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -13% |
-| Goles más/menos: Menos de 2.5 | 40% | 45% | 43% | 2.10 | -11% |
+| Ambos marcan: No | 58% | 53% | 56% | 1.75 | -2% |
+| Ambos marcan: Sí | 42% | 47% | 44% | 2.00 | -12% |
+| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
+| Goles más/menos: Más de 2.5 | 61% | 55% | 58% | 1.73 | +0% |
+| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | +0% |
+| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles más/menos: Menos de 2.5 | 39% | 45% | 42% | 2.10 | -11% |
 | Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
-| Goles del local: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 2.5 | 46% | 38% | 42% | 2.50 | +4% |
-| Goles del local: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
-| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del local: Más de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Más de 2.5 | 47% | 38% | 42% | 2.50 | +5% |
+| Goles del local: Menos de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles del local: Menos de 2.5 | 53% | 62% | 58% | 1.50 | -13% |
 | Goles del visitante: Más de 0.5 | 45% | 51% | 48% | 1.80 | -13% |
 | Goles del visitante: Menos de 0.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
-| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 56% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: X | 34% | 37% | 36% | 2.50 | -11% |
+| 1X2 descanso: 1 | 57% | 51% | 54% | 1.80 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

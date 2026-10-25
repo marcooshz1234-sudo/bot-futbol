@@ -1,10 +1,10 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.62**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**
@@ -189,13 +189,13 @@ _Sin bajas comunicadas por ahora._
 | Djaoui Cissé | M | 3 | 98 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 5 | 4 | 1,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,40 · visitante 1,59 · córners esperados 10,1._
+_Goles esperados: local 1,41 · visitante 1,59 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 40% | 41% | 2.30 | -6% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
-| 1X2: 1 | 34% | 35% | 34% | 2.62 | -10% |
+| 1X2: 1 | 34% | 35% | 35% | 2.62 | -10% |
 | Doble oportunidad: X2 | 66% | 66% | 66% | 1.44 | -5% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |

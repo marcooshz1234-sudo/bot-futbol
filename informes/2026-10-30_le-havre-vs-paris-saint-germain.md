@@ -1,10 +1,10 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **11.00**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.05**
@@ -32,7 +32,7 @@ _Actualizadas: 25/10 13:44_
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **8.00**  ·  X **3.10**  ·  2 **1.57**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
@@ -216,7 +216,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 79% | 78% | 1.18 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 50% | 46% | 1.83 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 21% | 22% | 4.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 21% | 22% | 4.50 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 50% | 54% | 1.83 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 82% | 75% | 79% | 1.25 | -2% |
 | Goles del local: Más de 0.5 | 61% | 59% | 60% | 1.57 | -6% |
@@ -229,8 +229,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 29% | 23% | 26% | 4.00 | +5% |
 | Goles del visitante: Menos de 2.5 | 55% | 46% | 51% | 2.00 | +2% |
 | Goles del visitante: Menos de 3.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Córners más/menos: Más de 9.5 | 42% | 49% | 45% | 1.95 | -12% |
-| Córners más/menos: Menos de 9.5 | 58% | 51% | 55% | 1.85 | +1% |
+| Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: 2 | 51% | 59% | 55% | 1.57 | -14% |
 | 1X2 descanso: X | 35% | 30% | 32% | 3.10 | -0% |
 

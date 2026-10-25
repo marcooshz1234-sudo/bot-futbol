@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.67**  ·  X **4.10**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.15**
@@ -181,14 +181,14 @@ _Sin bajas comunicadas por ahora._
 | Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,64 · córners esperados 10,7._
+_Goles esperados: local 1,52 · visitante 1,64 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 ✅ | 41% | 22% | 31% | 4.33 | +35% |
 | 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
-| 1X2: 1 | 35% | 56% | 46% | 1.67 | -24% |
-| Doble oportunidad: X2 ✅ | 65% | 44% | 54% | 2.15 | +17% |
+| 1X2: 1 | 36% | 56% | 46% | 1.67 | -24% |
+| Doble oportunidad: X2 ✅ | 64% | 44% | 54% | 2.15 | +16% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 59% | 79% | 69% | 1.20 | -17% |
 | Ambos marcan: No | 37% | 38% | 37% | 2.50 | -7% |
@@ -199,16 +199,16 @@ _Goles esperados: local 1,51 · visitante 1,64 · córners esperados 10,7._
 | Goles más/menos: Menos de 2.5 | 39% | 34% | 37% | 2.75 | +1% |
 | Goles más/menos: Menos de 3.5 | 61% | 55% | 58% | 1.73 | +0% |
 | Goles más/menos: Menos de 4.5 | 79% | 75% | 77% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 77% | 75% | 1.22 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 44% | 41% | 2.10 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 23% | 25% | 4.00 | -0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del local: Más de 1.5 | 45% | 62% | 54% | 1.50 | -20% |
-| Goles del local: Más de 2.5 | 19% | 35% | 27% | 2.62 | -28% |
+| Goles del local: Más de 2.5 | 20% | 35% | 27% | 2.62 | -28% |
 | Goles del local: Menos de 1.5 | 55% | 38% | 46% | 2.50 | +16% |
-| Goles del local: Menos de 2.5 | 81% | 65% | 73% | 1.44 | +4% |
+| Goles del local: Menos de 2.5 | 80% | 65% | 73% | 1.44 | +4% |
 | Goles del visitante: Más de 0.5 | 81% | 71% | 76% | 1.33 | +1% |
 | Goles del visitante: Más de 1.5 | 49% | 35% | 42% | 2.62 | +10% |
 | Goles del visitante: Menos de 0.5 | 19% | 29% | 24% | 3.25 | -21% |

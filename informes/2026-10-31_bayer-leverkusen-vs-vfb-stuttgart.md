@@ -1,10 +1,10 @@
 # Bayer Leverkusen – VfB Stuttgart
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **2.00**
@@ -194,7 +194,7 @@ _Sin bajas comunicadas por ahora._
 | Yanik Spalt | D | 2 | 56 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,96 · visitante 0,92 · córners esperados 9,9._
+_Goles esperados: local 2,97 · visitante 0,92 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -214,18 +214,18 @@ _Goles esperados: local 2,96 · visitante 0,92 · córners esperados 9,9._
 | Goles más/menos: Menos de 3.5 | 46% | 47% | 47% | 2.00 | -7% |
 | Goles más/menos: Menos de 4.5 | 65% | 66% | 65% | 1.44 | -6% |
 | Goles más/menos: Menos de 5.5 | 80% | 79% | 80% | 1.20 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 50% | 49% | 1.83 | -10% |
 | Goles 1ª parte más/menos: Más de 2.5 | 23% | 25% | 24% | 3.75 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 50% | 51% | 1.83 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del local: Más de 1.5 | 79% | 65% | 72% | 1.44 | +4% |
+| Goles del local: Más de 1.5 | 80% | 65% | 72% | 1.44 | +4% |
 | Goles del local: Más de 2.5 | 57% | 39% | 48% | 2.38 | +14% |
-| Goles del local: Más de 3.5 | 34% | 21% | 28% | 4.50 | +24% |
-| Goles del local: Menos de 1.5 | 21% | 35% | 28% | 2.62 | -27% |
+| Goles del local: Más de 3.5 | 35% | 21% | 28% | 4.50 | +24% |
+| Goles del local: Menos de 1.5 | 20% | 35% | 28% | 2.62 | -27% |
 | Goles del local: Menos de 2.5 | 43% | 61% | 52% | 1.53 | -20% |
-| Goles del local: Menos de 3.5 | 66% | 79% | 72% | 1.18 | -15% |
+| Goles del local: Menos de 3.5 | 65% | 79% | 72% | 1.18 | -15% |
 | Goles del visitante: Más de 0.5 | 60% | 77% | 68% | 1.22 | -17% |
 | Goles del visitante: Más de 1.5 | 23% | 46% | 35% | 2.00 | -30% |
 | Goles del visitante: Más de 2.5 | 7% | 22% | 14% | 4.33 | -39% |
@@ -235,7 +235,7 @@ _Goles esperados: local 2,96 · visitante 0,92 · córners esperados 9,9._
 | Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -2% |
 | 1X2 descanso: 2 | 11% | 25% | 18% | 3.75 | -32% |
-| 1X2 descanso: X | 30% | 34% | 32% | 2.75 | -12% |
+| 1X2 descanso: X | 30% | 34% | 32% | 2.75 | -13% |
 | 1X2 descanso: 1 | 58% | 42% | 50% | 2.20 | +10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

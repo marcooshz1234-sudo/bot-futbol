@@ -1,10 +1,10 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.95**  ·  X **3.60**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
@@ -179,12 +179,12 @@ _Sin bajas comunicadas por ahora._
 | Benjamin Šeško | F | 5 | 140 | 2 | 0 | 4 | 0,8 | 2 | 0,4 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,26 · visitante 1,48 · córners esperados 9,4._
+_Goles esperados: local 2,26 · visitante 1,47 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 25% | 27% | 26% | 3.50 | -10% |
-| 1X2: X | 20% | 26% | 23% | 3.60 | -17% |
+| 1X2: X | 20% | 26% | 23% | 3.60 | -18% |
 | 1X2: 1 | 55% | 48% | 51% | 1.95 | +0% |
 | Doble oportunidad: X2 | 45% | 52% | 49% | 1.80 | -13% |
 | Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -2% |

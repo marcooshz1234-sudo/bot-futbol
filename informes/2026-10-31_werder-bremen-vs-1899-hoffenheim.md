@@ -1,10 +1,10 @@
 # Werder Bremen – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.90**  ·  X **3.80**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Nathan De Cat | M | 4 | 108 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,73 · visitante 1,44 · córners esperados 9,9._
+_Goles esperados: local 2,74 · visitante 1,44 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,34 +202,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 65% | 32% | 49% | 2.90 | +41% |
 | Doble oportunidad: X2 | 35% | 68% | 51% | 1.40 | -28% |
 | Doble oportunidad: 12 | 83% | 76% | 79% | 1.25 | -1% |
-| Doble oportunidad: 1X | 82% | 57% | 69% | 1.67 | +15% |
+| Doble oportunidad: 1X | 82% | 57% | 69% | 1.67 | +16% |
 | Ambos marcan: No | 29% | 34% | 31% | 2.75 | -14% |
 | Ambos marcan: Sí | 71% | 66% | 69% | 1.40 | -4% |
 | Goles más/menos: Más de 2.5 | 79% | 66% | 72% | 1.44 | +4% |
 | Goles más/menos: Más de 3.5 | 60% | 47% | 54% | 2.00 | +7% |
-| Goles más/menos: Más de 4.5 | 40% | 28% | 34% | 3.40 | +17% |
+| Goles más/menos: Más de 4.5 | 41% | 28% | 34% | 3.40 | +17% |
 | Goles más/menos: Menos de 2.5 | 21% | 34% | 28% | 2.75 | -23% |
 | Goles más/menos: Menos de 3.5 | 40% | 53% | 46% | 1.80 | -17% |
-| Goles más/menos: Menos de 4.5 | 60% | 72% | 66% | 1.33 | -13% |
+| Goles más/menos: Menos de 4.5 | 59% | 72% | 66% | 1.33 | -13% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 77% | 80% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 52% | 46% | 49% | 2.00 | -1% |
 | Goles 1ª parte más/menos: Más de 2.5 | 26% | 22% | 24% | 4.33 | +3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles del local: Más de 0.5 | 93% | 78% | 86% | 1.20 | +3% |
+| Goles del local: Más de 0.5 | 94% | 78% | 86% | 1.20 | +3% |
 | Goles del local: Más de 1.5 | 76% | 49% | 62% | 1.91 | +19% |
-| Goles del local: Más de 2.5 | 51% | 23% | 37% | 4.00 | +49% |
-| Goles del local: Menos de 0.5 | 7% | 22% | 14% | 4.33 | -39% |
+| Goles del local: Más de 2.5 | 52% | 23% | 37% | 4.00 | +50% |
+| Goles del local: Menos de 0.5 | 6% | 22% | 14% | 4.33 | -39% |
 | Goles del local: Menos de 1.5 | 24% | 51% | 38% | 1.80 | -32% |
-| Goles del local: Menos de 2.5 | 49% | 77% | 63% | 1.22 | -24% |
+| Goles del local: Menos de 2.5 | 48% | 77% | 63% | 1.22 | -24% |
 | Goles del visitante: Más de 1.5 | 42% | 56% | 49% | 1.67 | -18% |
 | Goles del visitante: Más de 2.5 | 18% | 29% | 23% | 3.25 | -24% |
 | Goles del visitante: Menos de 1.5 | 58% | 44% | 51% | 2.10 | +7% |
 | Goles del visitante: Menos de 2.5 | 82% | 71% | 77% | 1.33 | +2% |
-| Córners más/menos: Más de 9.5 | 49% | 51% | 50% | 1.80 | -10% |
-| Córners más/menos: Menos de 9.5 | 51% | 49% | 50% | 1.91 | -5% |
-| 1X2 descanso: 2 | 19% | 36% | 28% | 2.62 | -28% |
+| Córners más/menos: Más de 9.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Córners más/menos: Menos de 9.5 | 52% | 49% | 50% | 1.91 | -4% |
+| 1X2 descanso: 2 | 19% | 36% | 27% | 2.62 | -28% |
 | 1X2 descanso: X | 32% | 36% | 34% | 2.60 | -12% |
 | 1X2 descanso: 1 | 49% | 29% | 39% | 3.25 | +26% |
 

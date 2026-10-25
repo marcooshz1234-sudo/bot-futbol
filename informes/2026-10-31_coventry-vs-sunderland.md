@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.70**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.44**
@@ -182,12 +182,12 @@ _Goles esperados: local 1,17 · visitante 1,37 · córners esperados 8,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 37% | 39% | 2.50 | -1% |
+| 1X2: 2 | 41% | 37% | 39% | 2.50 | -2% |
 | 1X2: X | 27% | 28% | 27% | 3.30 | -10% |
 | 1X2: 1 | 32% | 35% | 33% | 2.70 | -10% |
 | Doble oportunidad: X2 | 68% | 66% | 67% | 1.44 | -4% |
 | Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 58% | 63% | 61% | 1.50 | -9% |
+| Doble oportunidad: 1X | 59% | 63% | 61% | 1.50 | -9% |
 | Ambos marcan: No | 49% | 45% | 47% | 2.05 | -4% |
 | Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |

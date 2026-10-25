@@ -1,10 +1,10 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.70**
@@ -212,13 +212,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
 | Goles del local: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Goles del local: Más de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles del local: Más de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles del local: Más de 1.5 | 43% | 46% | 45% | 2.00 | -10% |
+| Goles del local: Más de 2.5 | 18% | 22% | 20% | 4.33 | -13% |
 | Goles del local: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -3% |
 | Goles del local: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
 | Goles del local: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Goles del visitante: Más de 0.5 | 83% | 71% | 77% | 1.33 | +3% |
-| Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +17% |
+| Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +16% |
 | Goles del visitante: Menos de 0.5 | 17% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 1.5 | 47% | 65% | 56% | 1.44 | -20% |
 | Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -4% |

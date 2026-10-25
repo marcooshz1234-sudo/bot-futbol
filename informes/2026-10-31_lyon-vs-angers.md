@@ -1,17 +1,17 @@
 # Lyon – Angers
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Groupama Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:16_
 
-- **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **6.25**
+- **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.53** · menos **2.50**
+    - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.38** · menos **1.57**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
@@ -30,8 +30,8 @@ _Actualizadas: 25/10 13:45_
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.50**
+    - 10,5: más **2.00** · menos **1.80**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.60**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
@@ -40,15 +40,15 @@ _Actualizadas: 25/10 13:45_
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.22**  ·  2 **3.40**
-- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **7.00**
+- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **6.50**
 - **Win Both Halves:** 1 **3.25**  ·  2 **26.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **6.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **19.00**  ·  Away/No **13.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **6.50**  ·  Away/Yes **10.00**  ·  Home/No **2.50**  ·  Draw/No **19.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 - **Home Player Shots On Target Total:** Corentin Tolisso - 1 **1.33**  ·  Ernest Nuamah - 1 **1.20**  ·  Lois Openda - 1 **1.14**  ·  Pavel Sulc - 1 **1.22**  ·  Kail Boudache - 1 **1.36**  ·  Remi Himbert - 1 **1.36**  ·  Julien Duranville - 1 **1.40**  ·  Noah Nartey - 1 **1.40**  ·  Mohamed Ouedraogo - 1 **1.83**  ·  Khalis Merah - 1 **1.83**  ·  Abner Vinicius - 1 **1.73**  ·  Tanner Tessmann - 1 **1.91**  ·  Mads Bidstrup - 1 **1.83**  ·  Zachary Athekame - 1 **2.10**  ·  Moussa Niakhate - 1 **2.10**  ·  Tyler Morton - 1 **2.10**  ·  Nicolas Tagliafico - 1 **2.62**  ·  Clinton Mata - 1 **3.00**  ·  Felix Bacher - 1 **1.83**  ·  Ruben Kluivert - 1 **3.00**  ·  Corentin Tolisso - 2 **2.50**  ·  Ernest Nuamah - 2 **2.00**  ·  Lois Openda - 2 **1.73**  ·  Pavel Sulc - 2 **2.00**  ·  Kail Boudache - 2 **2.75**  ·  Remi Himbert - 2 **2.75**  ·  Julien Duranville - 2 **3.00**  ·  Noah Nartey - 2 **2.75**  ·  Mohamed Ouedraogo - 2 **6.00**  ·  Khalis Merah - 2 **5.50**  ·  Abner Vinicius - 2 **4.50**  ·  Tanner Tessmann - 2 **6.00**  ·  Mads Bidstrup - 2 **6.00**  ·  Zachary Athekame - 2 **7.00**  ·  Moussa Niakhate - 2 **7.00**  ·  Tyler Morton - 2 **7.00**  ·  Nicolas Tagliafico - 2 **11.00**  ·  Clinton Mata - 2 **13.00**  ·  Felix Bacher - 2 **6.00**  ·  Ruben Kluivert - 2 **13.00**  ·  Corentin Tolisso - 3 **6.00**  ·  Ernest Nuamah - 3 **4.00**  ·  Lois Openda - 3 **3.40**  ·  Pavel Sulc - 3 **4.33**  ·  Kail Boudache - 3 **7.00**  ·  Remi Himbert - 3 **7.00**  ·  Julien Duranville - 3 **8.00**  ·  Noah Nartey - 3 **7.00**  ·  Mohamed Ouedraogo - 3 **21.00**  ·  Khalis Merah - 3 **19.00**  ·  Abner Vinicius - 3 **17.00**  ·  Tanner Tessmann - 3 **21.00**  ·  Mads Bidstrup - 3 **21.00**  ·  Zachary Athekame - 3 **21.00**  ·  Moussa Niakhate - 3 **21.00**  ·  Tyler Morton - 3 **21.00**  ·  Felix Bacher - 3 **21.00**  ·  Corentin Tolisso - 4 **17.00**  ·  Ernest Nuamah - 4 **11.00**  ·  Lois Openda - 4 **7.00**  ·  Pavel Sulc - 4 **11.00**  ·  Kail Boudache - 4 **21.00**  ·  Remi Himbert - 4 **21.00**  ·  Julien Duranville - 4 **21.00**  ·  Noah Nartey - 4 **21.00**  ·  Ernest Nuamah - 5 **21.00**  ·  Lois Openda - 5 **19.00**  ·  Pavel Sulc - 5 **21.00**  ·  Keito Nakamura - 2 **1.80**  ·  Keito Nakamura - 3 **3.50**  ·  Keito Nakamura - 4 **8.00**  ·  Keito Nakamura - 5 **19.00**  ·  Keito Nakamura - 1 **1.17**
 - **Home Player Shots:** Corentin Tolisso - 1 **1.01**  ·  Ernest Nuamah - 1 **1.01**  ·  Lois Openda - 1 **1.01**  ·  Pavel Sulc - 1 **1.02**  ·  Kail Boudache - 1 **1.03**  ·  Remi Himbert - 1 **1.03**  ·  Julien Duranville - 1 **1.04**  ·  Noah Nartey - 1 **1.03**  ·  Mohamed Ouedraogo - 1 **1.11**  ·  Khalis Merah - 1 **1.14**  ·  Abner Vinicius - 1 **1.11**  ·  Tanner Tessmann - 1 **1.11**  ·  Mads Bidstrup - 1 **1.14**  ·  Zachary Athekame - 1 **1.12**  ·  Moussa Niakhate - 1 **1.20**  ·  Tyler Morton - 1 **1.20**  ·  Nicolas Tagliafico - 1 **1.33**  ·  Clinton Mata - 1 **1.44**  ·  Felix Bacher - 1 **1.14**  ·  Ruben Kluivert - 1 **1.44**  ·  Corentin Tolisso - 2 **1.08**  ·  Ernest Nuamah - 2 **1.08**  ·  Lois Openda - 2 **1.08**  ·  Pavel Sulc - 2 **1.14**  ·  Kail Boudache - 2 **1.20**  ·  Remi Himbert - 2 **1.20**  ·  Julien Duranville - 2 **1.22**  ·  Noah Nartey - 2 **1.20**  ·  Mohamed Ouedraogo - 2 **1.50**  ·  Khalis Merah - 2 **1.62**  ·  Abner Vinicius - 2 **1.53**  ·  Tanner Tessmann - 2 **1.50**  ·  Mads Bidstrup - 2 **1.67**  ·  Zachary Athekame - 2 **1.62**  ·  Moussa Niakhate - 2 **1.83**  ·  Tyler Morton - 2 **1.83**  ·  Nicolas Tagliafico - 2 **2.38**  ·  Clinton Mata - 2 **3.00**  ·  Felix Bacher - 2 **1.67**  ·  Ruben Kluivert - 2 **3.00**  ·  Corentin Tolisso - 3 **1.28**  ·  Ernest Nuamah - 3 **1.25**  ·  Lois Openda - 3 **1.28**  ·  Pavel Sulc - 3 **1.44**  ·  Kail Boudache - 3 **1.62**  ·  Remi Himbert - 3 **1.62**  ·  Julien Duranville - 3 **1.67**  ·  Noah Nartey - 3 **1.57**  ·  Mohamed Ouedraogo - 3 **2.50**  ·  Khalis Merah - 3 **2.75**  ·  Abner Vinicius - 3 **2.50**  ·  Tanner Tessmann - 3 **2.50**  ·  Mads Bidstrup - 3 **3.00**  ·  Zachary Athekame - 3 **2.75**  ·  Moussa Niakhate - 3 **3.75**  ·  Tyler Morton - 3 **3.75**  ·  Nicolas Tagliafico - 3 **5.50**  ·  Clinton Mata - 3 **7.00**  ·  Felix Bacher - 3 **3.00**  ·  Ruben Kluivert - 3 **7.00**  ·  Corentin Tolisso - 4 **1.67**  ·  Ernest Nuamah - 4 **1.67**  ·  Lois Openda - 4 **1.73**  ·  Pavel Sulc - 4 **2.00**  ·  Kail Boudache - 4 **2.50**  ·  Remi Himbert - 4 **2.50**  ·  Julien Duranville - 4 **2.62**  ·  Noah Nartey - 4 **2.38**  ·  Mohamed Ouedraogo - 4 **4.50**  ·  Khalis Merah - 4 **5.50**  ·  Abner Vinicius - 4 **4.50**  ·  Tanner Tessmann - 4 **4.50**  ·  Mads Bidstrup - 4 **6.00**  ·  Zachary Athekame - 4 **5.50**  ·  Moussa Niakhate - 4 **8.00**  ·  Tyler Morton - 4 **8.00**  ·  Nicolas Tagliafico - 4 **13.00**  ·  Clinton Mata - 4 **19.00**  ·  Felix Bacher - 4 **6.00**  ·  Ruben Kluivert - 4 **19.00**  ·  Corentin Tolisso - 5 **2.50**  ·  Ernest Nuamah - 5 **2.38**  ·  Lois Openda - 5 **2.50**  ·  Pavel Sulc - 5 **3.40**  ·  Kail Boudache - 5 **4.00**  ·  Remi Himbert - 5 **4.00**  ·  Julien Duranville - 5 **4.50**  ·  Noah Nartey - 5 **4.00**  ·  Mohamed Ouedraogo - 5 **10.00**  ·  Khalis Merah - 5 **13.00**  ·  Abner Vinicius - 5 **10.00**  ·  Tanner Tessmann - 5 **10.00**  ·  Mads Bidstrup - 5 **13.00**  ·  Zachary Athekame - 5 **11.00**  ·  Moussa Niakhate - 5 **19.00**  ·  Tyler Morton - 5 **19.00**  ·  Corentin Tolisso - 6 **4.00**  ·  Ernest Nuamah - 6 **3.75**  ·  Lois Openda - 6 **4.00**  ·  Pavel Sulc - 6 **5.50**  ·  Kail Boudache - 6 **8.00**  ·  Remi Himbert - 6 **8.00**  ·  Julien Duranville - 6 **9.00**  ·  Noah Nartey - 6 **7.00**  ·  Mohamed Ouedraogo - 6 **19.00**  ·  Khalis Merah - 6 **21.00**  ·  Abner Vinicius - 6 **21.00**  ·  Tanner Tessmann - 6 **19.00**  ·  Corentin Tolisso - 7 **7.00**  ·  Ernest Nuamah - 7 **6.50**  ·  Lois Openda - 7 **7.00**  ·  Pavel Sulc - 7 **11.00**  ·  Kail Boudache - 7 **15.00**  ·  Remi Himbert - 7 **15.00**  ·  Julien Duranville - 7 **17.00**  ·  Noah Nartey - 7 **15.00**  ·  Corentin Tolisso - 8 **13.00**  ·  Ernest Nuamah - 8 **11.00**  ·  Lois Openda - 8 **13.00**  ·  Pavel Sulc - 8 **19.00**  ·  Corentin Tolisso - 9 **21.00**  ·  Ernest Nuamah - 9 **21.00**  ·  Lois Openda - 9 **21.00**  ·  Zachary Athekame - 6 **21.00**  ·  Mads Bidstrup - 6 **21.00**  ·  Kail Boudache - 8 **21.00**  ·  Noah Nartey - 8 **21.00**  ·  Remi Himbert - 8 **21.00**  ·  Keito Nakamura - 2 **1.06**  ·  Keito Nakamura - 3 **1.22**  ·  Keito Nakamura - 4 **1.53**  ·  Keito Nakamura - 5 **2.10**  ·  Keito Nakamura - 6 **3.40**  ·  Keito Nakamura - 7 **5.50**  ·  Keito Nakamura - 8 **10.00**  ·  Keito Nakamura - 9 **17.00**  ·  Keito Nakamura - 10 **21.00**  ·  Felix Bacher - 5 **13.00**  ·  Felix Bacher - 6 **21.00**
 - **Away Player Shots:** Mamadou Simbakoli - 1 **1.11**  ·  Jim Allevinah - 1 **1.22**  ·  Prosper Peter - 1 **1.14**  ·  Amine El Ouazzani - 1 **1.14**  ·  Amine Sbai - 1 **1.17**  ·  Harouna Djibirin - 1 **1.20**  ·  Bane Diatta - 1 **1.44**  ·  Anthony Bermont - 1 **1.33**  ·  Branco van den Boomen - 1 **1.33**  ·  Louis Mouton - 1 **1.36**  ·  Yassin Belkhdim - 1 **1.44**  ·  Lilian Raolisoa - 1 **1.53**  ·  Emmanuel Biumla - 1 **1.83**  ·  Haris Belkebla - 1 **1.83**  ·  Carlens Arcus - 1 **2.25**  ·  Joseph Kalulu - 1 **2.25**  ·  Jordan Lefort - 1 **2.50**  ·  Mael Gernigon - 1 **2.50**  ·  Marius Louer - 1 **2.50**  ·  Ousmane Camara - 1 **2.50**  ·  Mamadou Simbakoli - 2 **1.53**  ·  Jim Allevinah - 2 **2.00**  ·  Prosper Peter - 2 **1.62**  ·  Amine El Ouazzani - 2 **1.67**  ·  Amine Sbai - 2 **1.73**  ·  Harouna Djibirin - 2 **1.83**  ·  Bane Diatta - 2 **3.00**  ·  Anthony Bermont - 2 **2.38**  ·  Branco van den Boomen - 2 **2.38**  ·  Louis Mouton - 2 **2.62**  ·  Yassin Belkhdim - 2 **3.00**  ·  Lilian Raolisoa - 2 **3.40**  ·  Emmanuel Biumla - 2 **5.00**  ·  Haris Belkebla - 2 **5.00**  ·  Carlens Arcus - 2 **8.00**  ·  Joseph Kalulu - 2 **8.00**  ·  Jordan Lefort - 2 **9.00**  ·  Mael Gernigon - 2 **9.00**  ·  Marius Louer - 2 **9.00**  ·  Ousmane Camara - 2 **9.00**  ·  Mamadou Simbakoli - 3 **2.50**  ·  Jim Allevinah - 3 **4.00**  ·  Prosper Peter - 3 **2.75**  ·  Amine El Ouazzani - 3 **3.00**  ·  Amine Sbai - 3 **3.25**  ·  Harouna Djibirin - 3 **3.50**  ·  Bane Diatta - 3 **7.00**  ·  Anthony Bermont - 3 **5.50**  ·  Branco van den Boomen - 3 **5.50**  ·  Louis Mouton - 3 **6.00**  ·  Yassin Belkhdim - 3 **8.00**  ·  Lilian Raolisoa - 3 **9.00**  ·  Emmanuel Biumla - 3 **15.00**  ·  Haris Belkebla - 3 **15.00**  ·  Carlens Arcus - 3 **21.00**  ·  Joseph Kalulu - 3 **21.00**  ·  Jordan Lefort - 3 **21.00**  ·  Mael Gernigon - 3 **21.00**  ·  Marius Louer - 3 **21.00**  ·  Ousmane Camara - 3 **21.00**  ·  Mamadou Simbakoli - 4 **4.50**  ·  Jim Allevinah - 4 **9.00**  ·  Prosper Peter - 4 **5.50**  ·  Amine El Ouazzani - 4 **6.00**  ·  Amine Sbai - 4 **6.50**  ·  Harouna Djibirin - 4 **8.00**  ·  Bane Diatta - 4 **19.00**  ·  Anthony Bermont - 4 **13.00**  ·  Branco van den Boomen - 4 **13.00**  ·  Louis Mouton - 4 **15.00**  ·  Yassin Belkhdim - 4 **19.00**  ·  Lilian Raolisoa - 4 **21.00**  ·  Mamadou Simbakoli - 5 **10.00**  ·  Jim Allevinah - 5 **21.00**  ·  Prosper Peter - 5 **13.00**  ·  Amine El Ouazzani - 5 **13.00**  ·  Amine Sbai - 5 **15.00**  ·  Harouna Djibirin - 5 **17.00**  ·  Mamadou Simbakoli - 6 **21.00**  ·  Prosper Peter - 6 **21.00**  ·  Amine El Ouazzani - 6 **21.00**  ·  Jules Bouffandeau - 1 **1.73**  ·  Jules Bouffandeau - 2 **4.00**  ·  Jules Bouffandeau - 3 **13.00**
@@ -194,18 +194,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 12% | 15% | 13% | 6.25 | -17% |
-| 1X2: X | 17% | 18% | 18% | 5.00 | -11% |
-| 1X2: 1 | 71% | 67% | 69% | 1.36 | -6% |
+| 1X2: 2 | 12% | 15% | 14% | 6.00 | -18% |
+| 1X2: X | 17% | 19% | 18% | 5.00 | -11% |
+| 1X2: 1 | 71% | 66% | 68% | 1.40 | -4% |
 | Doble oportunidad: X2 | 29% | 32% | 31% | 3.00 | -8% |
 | Doble oportunidad: 12 | 83% | 82% | 82% | 1.17 | -4% |
 | Doble oportunidad: 1X | 88% | 86% | 87% | 1.12 | -3% |
 | Ambos marcan: No | 48% | 48% | 48% | 1.95 | -7% |
 | Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -6% |
-| Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
+| Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
 | Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -8% |
 | Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
@@ -213,18 +213,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
 | Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 42% | 41% | 42% | 2.25 | -7% |
-| Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -7% |
+| Goles del local: Más de 2.5 | 42% | 41% | 42% | 2.25 | -6% |
+| Goles del local: Más de 3.5 | 21% | 22% | 22% | 4.33 | -7% |
 | Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles del local: Menos de 2.5 | 58% | 59% | 58% | 1.57 | -8% |
-| Goles del local: Menos de 3.5 | 79% | 78% | 79% | 1.20 | -6% |
+| Goles del local: Menos de 3.5 | 79% | 78% | 78% | 1.20 | -6% |
 | Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -7% |
 | Goles del visitante: Más de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -12% |
-| Córners más/menos: Menos de 10.5 | 56% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -7% |
-| 1X2 descanso: 1 | 51% | 51% | 51% | 1.83 | -7% |
+| Córners más/menos: Más de 10.5 | 44% | 47% | 46% | 2.00 | -9% |
+| Córners más/menos: Menos de 10.5 | 56% | 53% | 54% | 1.80 | -2% |
+| 1X2 descanso: X | 36% | 35% | 36% | 2.60 | -7% |
+| 1X2 descanso: 1 | 51% | 50% | 51% | 1.83 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

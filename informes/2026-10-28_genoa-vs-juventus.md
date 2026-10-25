@@ -1,10 +1,10 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **5.50**  ·  X **3.60**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
@@ -46,7 +46,7 @@ _Actualizadas: 25/10 13:44_
     - 3,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
 - **Home Player Shots On Target Total:** Cody Drameh - 1 **6.00**  ·  Robinho Junior - 1 **3.25**  ·  Robinho Junior - 2 **15.00**  ·  Lorenzo Colombo - 1 **1.73**  ·  Milutin Osmajic - 1 **1.83**  ·  Tommaso Baldanzi - 1 **2.20**  ·  Junior Messias - 1 **2.10**  ·  Mikael Egill Ellertsson - 1 **3.40**  ·  Hamed Traore - 1 **2.75**  ·  Alexsandro Amorim - 1 **3.75**  ·  Franz-Ethan Meichtry - 1 **3.25**  ·  Leo Ostigard - 1 **3.75**  ·  Samuel Wiafe - 1 **3.40**  ·  Djibril Sow - 1 **3.50**  ·  David Puczka - 1 **4.33**  ·  Morten Frendrup - 1 **4.33**  ·  Johan Vasquez - 1 **5.50**  ·  Sebastian Otoa - 1 **6.00**  ·  Stefano Sabelli - 1 **6.00**  ·  Alessandro Marcandalli - 1 **7.00**  ·  Mamedi Doucoure - 1 **6.00**  ·  Mario Mitaj - 1 **6.00**  ·  Marcelo Vaz - 1 **6.00**  ·  Lorenzo Colombo - 2 **4.50**  ·  Milutin Osmajic - 2 **6.00**  ·  Tommaso Baldanzi - 2 **8.00**  ·  Junior Messias - 2 **7.00**  ·  Mikael Egill Ellertsson - 2 **17.00**  ·  Hamed Traore - 2 **13.00**  ·  Alexsandro Amorim - 2 **19.00**  ·  Franz-Ethan Meichtry - 2 **15.00**  ·  Leo Ostigard - 2 **21.00**  ·  Samuel Wiafe - 2 **17.00**  ·  Djibril Sow - 2 **19.00**  ·  David Puczka - 2 **21.00**  ·  Morten Frendrup - 2 **21.00**  ·  Lorenzo Colombo - 3 **15.00**  ·  Milutin Osmajic - 3 **21.00**  ·  Junior Messias - 3 **21.00**  ·  Stephan El Shaarawy - 1 **2.25**  ·  Kingsley Ehizibue - 1 **6.00**  ·  Stephan El Shaarawy - 2 **9.00**  ·  Gael Lafont - 1 **3.50**  ·  Lukas Klisys - 1 **6.00**  ·  Gael Lafont - 2 **19.00**  ·  Vitinha Oliveira - 1 **1.83**  ·  Vitinha Oliveira - 2 **5.50**  ·  Vitinha Oliveira - 3 **19.00**
 - **Away Player Shots On Target Total:** Edon Zhegrova **34.00**  ·  Randal Kolo Muani **13.00**  ·  Leo Ostigard **19.00**  ·  Mikael Egill Ellertsson **67.00**  ·  Mario Mitaj **51.00**  ·  Jhon Lucumi **17.00**  ·  Sebastian Otoa **23.00**  ·  Hamed Traore **81.00**  ·  Bremer **19.00**  ·  Milutin Osmajic **21.00**  ·  Zeki Celik **67.00**  ·  Robinho Junior **67.00**  ·  Alexsandro Amorim **81.00**  ·  Jeremie Boga **23.00**  ·  Cody Drameh **51.00**  ·  Nicolas Gonzalez **12.00**  ·  Douglas Luiz **34.00**  ·  Daniele Rugani **21.00**  ·  Johan Vasquez **23.00**  ·  Samuel Wiafe **29.00**  ·  Mamedi Doucoure **34.00**  ·  David Puczka **67.00**  ·  Franz-Ethan Meichtry **67.00**  ·  Marcelo Vaz **67.00**  ·  Kerim Alajbegovic **17.00**  ·  Lloyd Kelly **29.00**  ·  Pape Sarr **29.00**  ·  Nick Woltemade **6.00**  ·  Stephan El Shaarawy **51.00**  ·  Tommaso Baldanzi **51.00**  ·  Djibril Sow **26.00**  ·  Lorenzo Colombo **19.00**  ·  Andrea Cambiaso **81.00**  ·  Federico Gatti **15.00**  ·  Teun Koopmeiners **51.00**  ·  Weston McKennie **8.50**  ·  Francisco Conceicao **29.00**  ·  Pierre Kalulu Kyatengwa **23.00**  ·  Alessandro Marcandalli **26.00**  ·  Morten Frendrup **81.00**  ·  Stefano Sabelli **151.00**  ·  Junior Messias **26.00**  ·  Vitinha **17.00**  ·  Kingsley Ehizibue **101.00**  ·  Augusto Owusu **21.00**
 - **Home Player Shots:** Cody Drameh - 1 **2.20**  ·  Cody Drameh - 2 **7.00**  ·  Cody Drameh - 3 **21.00**  ·  Robinho Junior - 1 **1.50**  ·  Robinho Junior - 2 **3.40**  ·  Robinho Junior - 3 **9.00**  ·  Robinho Junior - 4 **21.00**  ·  Lorenzo Colombo - 1 **1.06**  ·  Milutin Osmajic - 1 **1.14**  ·  Tommaso Baldanzi - 1 **1.18**  ·  Junior Messias - 1 **1.17**  ·  Mikael Egill Ellertsson - 1 **1.40**  ·  Hamed Traore - 1 **1.40**  ·  Alexsandro Amorim - 1 **1.62**  ·  Franz-Ethan Meichtry - 1 **1.50**  ·  Leo Ostigard - 1 **1.62**  ·  Samuel Wiafe - 1 **1.62**  ·  Djibril Sow - 1 **1.67**  ·  David Puczka - 1 **2.00**  ·  Morten Frendrup - 1 **2.00**  ·  Johan Vasquez - 1 **2.00**  ·  Sebastian Otoa - 1 **2.50**  ·  Stefano Sabelli - 1 **2.50**  ·  Alessandro Marcandalli - 1 **3.00**  ·  Mamedi Doucoure - 1 **2.50**  ·  Mario Mitaj - 1 **2.50**  ·  Marcelo Vaz - 1 **2.50**  ·  Lorenzo Colombo - 2 **1.33**  ·  Milutin Osmajic - 2 **1.67**  ·  Tommaso Baldanzi - 2 **1.83**  ·  Junior Messias - 2 **1.80**  ·  Mikael Egill Ellertsson - 2 **2.75**  ·  Hamed Traore - 2 **2.75**  ·  Alexsandro Amorim - 2 **3.75**  ·  Franz-Ethan Meichtry - 2 **3.40**  ·  Leo Ostigard - 2 **3.75**  ·  Samuel Wiafe - 2 **3.75**  ·  Djibril Sow - 2 **4.00**  ·  David Puczka - 2 **6.00**  ·  Morten Frendrup - 2 **6.00**  ·  Johan Vasquez - 2 **5.50**  ·  Sebastian Otoa - 2 **9.00**  ·  Stefano Sabelli - 2 **9.00**  ·  Alessandro Marcandalli - 2 **11.00**  ·  Mamedi Doucoure - 2 **9.00**  ·  Mario Mitaj - 2 **9.00**  ·  Marcelo Vaz - 2 **9.00**  ·  Lorenzo Colombo - 3 **1.91**  ·  Milutin Osmajic - 3 **3.00**  ·  Tommaso Baldanzi - 3 **3.40**  ·  Junior Messias - 3 **3.40**  ·  Mikael Egill Ellertsson - 3 **6.50**  ·  Hamed Traore - 3 **6.50**  ·  Alexsandro Amorim - 3 **11.00**  ·  Franz-Ethan Meichtry - 3 **9.00**  ·  Leo Ostigard - 3 **10.00**  ·  Samuel Wiafe - 3 **11.00**  ·  Djibril Sow - 3 **11.00**  ·  David Puczka - 3 **19.00**  ·  Morten Frendrup - 3 **19.00**  ·  Johan Vasquez - 3 **19.00**  ·  Mamedi Doucoure - 3 **21.00**  ·  Lorenzo Colombo - 4 **3.40**  ·  Milutin Osmajic - 4 **6.00**  ·  Tommaso Baldanzi - 4 **7.00**  ·  Junior Messias - 4 **7.00**  ·  Mikael Egill Ellertsson - 4 **17.00**  ·  Hamed Traore - 4 **17.00**  ·  Alexsandro Amorim - 4 **21.00**  ·  Franz-Ethan Meichtry - 4 **21.00**  ·  Leo Ostigard - 4 **21.00**  ·  Samuel Wiafe - 4 **21.00**  ·  Lorenzo Colombo - 5 **6.00**  ·  Milutin Osmajic - 5 **13.00**  ·  Tommaso Baldanzi - 5 **17.00**  ·  Junior Messias - 5 **15.00**  ·  Lorenzo Colombo - 6 **13.00**  ·  Milutin Osmajic - 6 **21.00**  ·  Lorenzo Colombo - 7 **21.00**  ·  Marcelo Vaz - 3 **21.00**  ·  Stephan El Shaarawy - 1 **1.25**  ·  Kingsley Ehizibue - 1 **2.25**  ·  Stephan El Shaarawy - 2 **2.10**  ·  Kingsley Ehizibue - 2 **8.00**  ·  Stephan El Shaarawy - 3 **4.33**  ·  Kingsley Ehizibue - 3 **21.00**  ·  Stephan El Shaarawy - 4 **10.00**  ·  Stephan El Shaarawy - 5 **21.00**  ·  Gael Lafont - 1 **1.73**  ·  Lukas Klisys - 1 **2.50**  ·  Gael Lafont - 2 **4.33**  ·  Lukas Klisys - 2 **9.00**  ·  Gael Lafont - 3 **13.00**  ·  Lukas Klisys - 3 **21.00**  ·  Vitinha Oliveira - 1 **1.14**  ·  Vitinha Oliveira - 2 **1.62**  ·  Vitinha Oliveira - 3 **2.75**  ·  Vitinha Oliveira - 4 **5.50**  ·  Vitinha Oliveira - 5 **13.00**  ·  Vitinha Oliveira - 6 **21.00**
@@ -187,20 +187,20 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Boga | F | 5 | 117 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 1,47 · córners esperados 9,4._
+_Goles esperados: local 0,67 · visitante 1,47 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 57% | 57% | 57% | 1.65 | -6% |
+| 1X2: 2 | 56% | 57% | 57% | 1.65 | -7% |
 | 1X2: X | 27% | 26% | 26% | 3.60 | -5% |
-| 1X2: 1 | 17% | 17% | 17% | 5.50 | -7% |
+| 1X2: 1 | 17% | 17% | 17% | 5.50 | -6% |
 | Doble oportunidad: X2 | 83% | 83% | 83% | 1.14 | -5% |
 | Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 43% | 43% | 43% | 2.20 | -5% |
-| Ambos marcan: No | 63% | 53% | 58% | 1.75 | +1% |
-| Ambos marcan: Sí | 37% | 47% | 42% | 2.00 | -16% |
+| Doble oportunidad: 1X | 44% | 43% | 43% | 2.20 | -5% |
+| Ambos marcan: No | 62% | 53% | 58% | 1.75 | +1% |
+| Ambos marcan: Sí | 38% | 47% | 42% | 2.00 | -16% |
 | Goles más/menos: Más de 1.5 | 63% | 72% | 67% | 1.33 | -10% |
 | Goles más/menos: Más de 2.5 | 36% | 45% | 41% | 2.10 | -15% |
 | Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -21% |
@@ -212,9 +212,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 37% | 2.75 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del local: Más de 0.5 | 49% | 56% | 52% | 1.67 | -13% |
-| Goles del local: Más de 1.5 | 14% | 21% | 18% | 4.50 | -21% |
-| Goles del local: Menos de 0.5 | 51% | 44% | 48% | 2.10 | +1% |
-| Goles del local: Menos de 1.5 | 86% | 79% | 82% | 1.18 | -3% |
+| Goles del local: Más de 1.5 | 15% | 21% | 18% | 4.50 | -21% |
+| Goles del local: Menos de 0.5 | 51% | 44% | 48% | 2.10 | +0% |
+| Goles del local: Menos de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Goles del visitante: Más de 2.5 | 18% | 25% | 22% | 3.75 | -19% |
 | Goles del visitante: Menos de 1.5 | 57% | 50% | 53% | 1.83 | -2% |

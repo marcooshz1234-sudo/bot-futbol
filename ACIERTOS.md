@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 34 · aciertos: 22 (65%) · beneficio a 1 € por pick: -4.10 €
+Picks ya jugados: 37 · aciertos: 24 (65%) · beneficio a 1 € por pick: -4.33 €
 
 ## Por tipo
 
@@ -8,9 +8,9 @@ Picks ya jugados: 34 · aciertos: 22 (65%) · beneficio a 1 € por pick: -4.10 
 |---|---|---|---|---|
 | jugador | 1 | 1 | 100% | +0.33 € |
 | resultado | 7 | 10 | 70% | -0.75 € |
-| goles | 12 | 19 | 63% | -3.08 € |
+| goles | 14 | 21 | 67% | -2.31 € |
 | tiros | 1 | 2 | 50% | -0.27 € |
-| tarjetas | 1 | 2 | 50% | -0.33 € |
+| tarjetas | 1 | 3 | 33% | -1.33 € |
 
 ## Por mercado (mín. 3 picks)
 
@@ -22,6 +22,11 @@ Picks ya jugados: 34 · aciertos: 22 (65%) · beneficio a 1 € por pick: -4.10 
 | Goals Over/Under First Half · Over 0.5 | 3 | 5 | 60% |
 
 ## Últimos días
+
+### 2026-10-25 · 2/3
+- ✅ Más de 2,5 goles en Inter–Fiorentina · 1.44 (2-1)
+- ✅ Inter marca 2 o más · 1.33 (2-1)
+- ❌ Athletic Club ve más de 1,5 tarjetas · 1.73 (4-0)
 
 ### 2026-10-24 · 13/23
 - ✅ No hay empate en Aston Villa–Manchester City · 1.25 (2-1)

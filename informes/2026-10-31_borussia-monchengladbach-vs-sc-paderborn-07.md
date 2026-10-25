@@ -1,10 +1,10 @@
 # Borussia Mönchengladbach – SC Paderborn 07
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **1.90**  ·  X **3.90**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
@@ -199,7 +199,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 29% | 27% | 28% | 3.50 | -3% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -2% |
 | 1X2: 1 | 45% | 49% | 47% | 1.90 | -10% |
-| Doble oportunidad: X2 | 55% | 50% | 52% | 1.91 | +0% |
+| Doble oportunidad: X2 | 55% | 50% | 52% | 1.91 | -0% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 71% | 74% | 73% | 1.28 | -7% |
 | Ambos marcan: No | 49% | 35% | 42% | 2.62 | +10% |
@@ -216,9 +216,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 56% | 63% | 1.67 | +6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.18 | +0% |
-| Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -19% |
+| Goles del local: Más de 1.5 | 43% | 58% | 50% | 1.62 | -19% |
 | Goles del local: Más de 2.5 | 18% | 34% | 26% | 2.75 | -29% |
-| Goles del local: Menos de 1.5 | 58% | 42% | 50% | 2.20 | +10% |
+| Goles del local: Menos de 1.5 | 57% | 42% | 50% | 2.20 | +10% |
 | Goles del local: Menos de 2.5 | 82% | 66% | 74% | 1.40 | +4% |
 | Goles del visitante: Más de 0.5 | 67% | 75% | 71% | 1.25 | -11% |
 | Goles del visitante: Más de 1.5 | 30% | 42% | 36% | 2.20 | -20% |
@@ -228,6 +228,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 52% | 51% | 52% | 1.80 | -7% |
 | 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -11% |
 | 1X2 descanso: X | 45% | 37% | 41% | 2.50 | +2% |
-| 1X2 descanso: 1 | 33% | 38% | 35% | 2.40 | -15% |
+| 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

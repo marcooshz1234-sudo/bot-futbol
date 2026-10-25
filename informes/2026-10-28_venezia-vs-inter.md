@@ -1,10 +1,10 @@
 # Venezia – Inter
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **8.50**  ·  X **5.00**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
@@ -53,7 +53,7 @@ _Actualizadas: 25/10 13:44_
     - 3,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 5,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Home Player Shots On Target Total:** Toni Fernandez - 1 **1.73**  ·  Toni Fernandez - 2 **4.50**  ·  Toni Fernandez - 3 **17.00**  ·  Pasquale Mazzocchi - 1 **3.50**  ·  Pasquale Mazzocchi - 2 **19.00**  ·  Akor Adams - 1 **1.62**  ·  John Yeboah - 1 **1.44**  ·  Kike Perez - 1 **1.83**  ·  Albion Rrahmani - 1 **1.73**  ·  Lion Lauberbach - 1 **1.73**  ·  Gianluca Busio - 1 **2.20**  ·  Kornel Lisman - 1 **2.20**  ·  Simone Panada - 1 **3.25**  ·  Toma Basic - 1 **2.38**  ·  Lorenzo Berardi - 1 **2.50**  ·  Thorir Johann Helgason - 1 **3.00**  ·  Antoine Hainaut - 1 **3.25**  ·  Ridgeciano Haps - 1 **2.75**  ·  Lamine Dabo - 1 **3.00**  ·  Richie Sagrado - 1 **3.25**  ·  Simon Sohm - 1 **3.25**  ·  Matteo Dagasso - 1 **3.25**  ·  Thierry Correia - 1 **4.50**  ·  Matias Moreno - 1 **5.00**  ·  Ale Gomes - 1 **6.50**  ·  Armel Bella-Kotchap - 1 **5.50**  ·  Joel Schingtienne - 1 **5.50**  ·  Redouane Halhal - 1 **5.50**  ·  Akor Adams - 2 **4.00**  ·  John Yeboah - 2 **3.00**  ·  Kike Perez - 2 **5.50**  ·  Albion Rrahmani - 2 **4.50**  ·  Lion Lauberbach - 2 **4.50**  ·  Gianluca Busio - 2 **8.00**  ·  Kornel Lisman - 2 **8.00**  ·  Simone Panada - 2 **17.00**  ·  Toma Basic - 2 **9.00**  ·  Lorenzo Berardi - 2 **10.00**  ·  Thorir Johann Helgason - 2 **15.00**  ·  Antoine Hainaut - 2 **15.00**  ·  Ridgeciano Haps - 2 **13.00**  ·  Lamine Dabo - 2 **15.00**  ·  Richie Sagrado - 2 **15.00**  ·  Simon Sohm - 2 **15.00**  ·  Matteo Dagasso - 2 **17.00**  ·  Thierry Correia - 2 **21.00**  ·  Akor Adams - 3 **13.00**  ·  John Yeboah - 3 **8.00**  ·  Kike Perez - 3 **19.00**  ·  Albion Rrahmani - 3 **17.00**  ·  Lion Lauberbach - 3 **17.00**  ·  John Yeboah - 4 **21.00**  ·  Juan Jesus - 1 **6.50**  ·  Rufai Mohammed - 1 **4.33**  ·  Rufai Mohammed - 2 **21.00**
 - **Away Player Shots On Target Total:** Petar Sucic **26.00**  ·  Albion Rrahmani **15.00**  ·  John Yeboah **34.00**  ·  Hakan Calhanoglu **29.00**  ·  Kornel Lisman **51.00**  ·  Redouane Halhal **26.00**  ·  Aleksandar Stankovic **19.00**  ·  Matteo Dagasso **81.00**  ·  Lorenzo Berardi **34.00**  ·  Gianluca Busio **41.00**  ·  Pio Esposito **4.33**  ·  Akor Adams **12.00**  ·  Andy Diouf **34.00**  ·  Lion Lauberbach **11.00**  ·  Richie Sagrado **34.00**  ·  Ridgeciano Haps **81.00**  ·  Mattia Mosconi **15.00**  ·  Kike Perez **41.00**  ·  Toni Fernandez **19.00**  ·  Thierry Correia **17.00**  ·  Lamine Dabo **67.00**  ·  Nicolo Barella **41.00**  ·  Ale Gomes **34.00**  ·  Joel Schingtienne **21.00**  ·  Leonardo Bovo **34.00**  ·  Simone Panada **51.00**  ·  Curtis Jones **67.00**  ·  John Stones **11.00**  ·  Manuel Akanji **11.00**  ·  Matias Moreno **21.00**  ·  Djed Spence **34.00**  ·  Antoine Hainaut **41.00**  ·  Simon Sohm **51.00**  ·  Toma Basic **41.00**  ·  Ange Bonny **11.00**  ·  Alessandro Bastoni **11.00**  ·  Benjamin Pavard **19.00**  ·  Federico Dimarco **34.00**  ·  Henrikh Mkhitaryan **26.00**  ·  Marcus Thuram **7.00**  ·  Piotr Zielinski **51.00**  ·  Carlos Augusto **26.00**  ·  Yann Aurel Bisseck **8.00**  ·  Thorir Johann Helgason **51.00**  ·  Armel Bella-Kotchap **26.00**  ·  Luis Henrique de Lima **34.00**
 - **Home Player Shots:** Toni Fernandez - 1 **1.11**  ·  Toni Fernandez - 2 **1.53**  ·  Toni Fernandez - 3 **2.50**  ·  Toni Fernandez - 4 **4.50**  ·  Toni Fernandez - 5 **10.00**  ·  Toni Fernandez - 6 **21.00**  ·  Pasquale Mazzocchi - 1 **1.73**  ·  Pasquale Mazzocchi - 2 **4.00**  ·  Pasquale Mazzocchi - 3 **13.00**  ·  Akor Adams - 1 **1.06**  ·  John Yeboah - 1 **1.04**  ·  Kike Perez - 1 **1.07**  ·  Albion Rrahmani - 1 **1.11**  ·  Lion Lauberbach - 1 **1.11**  ·  Gianluca Busio - 1 **1.18**  ·  Kornel Lisman - 1 **1.22**  ·  Simone Panada - 1 **1.57**  ·  Toma Basic - 1 **1.28**  ·  Lorenzo Berardi - 1 **1.33**  ·  Thorir Johann Helgason - 1 **1.33**  ·  Antoine Hainaut - 1 **1.36**  ·  Ridgeciano Haps - 1 **1.33**  ·  Lamine Dabo - 1 **1.50**  ·  Richie Sagrado - 1 **1.53**  ·  Simon Sohm - 1 **1.53**  ·  Matteo Dagasso - 1 **1.57**  ·  Thierry Correia - 1 **2.10**  ·  Matias Moreno - 1 **2.00**  ·  Ale Gomes - 1 **2.62**  ·  Armel Bella-Kotchap - 1 **2.38**  ·  Joel Schingtienne - 1 **2.38**  ·  Redouane Halhal - 1 **2.38**  ·  Akor Adams - 2 **1.33**  ·  John Yeboah - 2 **1.22**  ·  Kike Perez - 2 **1.36**  ·  Albion Rrahmani - 2 **1.53**  ·  Lion Lauberbach - 2 **1.53**  ·  Gianluca Busio - 2 **1.83**  ·  Kornel Lisman - 2 **1.91**  ·  Simone Panada - 2 **3.50**  ·  Toma Basic - 2 **2.20**  ·  Lorenzo Berardi - 2 **2.38**  ·  Thorir Johann Helgason - 2 **2.38**  ·  Antoine Hainaut - 2 **2.62**  ·  Ridgeciano Haps - 2 **2.38**  ·  Lamine Dabo - 2 **3.25**  ·  Richie Sagrado - 2 **3.40**  ·  Simon Sohm - 2 **3.40**  ·  Matteo Dagasso - 2 **3.50**  ·  Thierry Correia - 2 **6.00**  ·  Matias Moreno - 2 **6.00**  ·  Ale Gomes - 2 **10.00**  ·  Armel Bella-Kotchap - 2 **8.00**  ·  Joel Schingtienne - 2 **8.00**  ·  Redouane Halhal - 2 **8.00**  ·  Akor Adams - 3 **1.91**  ·  John Yeboah - 3 **1.67**  ·  Kike Perez - 3 **2.00**  ·  Albion Rrahmani - 3 **2.50**  ·  Lion Lauberbach - 3 **2.50**  ·  Gianluca Busio - 3 **3.40**  ·  Kornel Lisman - 3 **3.75**  ·  Simone Panada - 3 **10.00**  ·  Toma Basic - 3 **4.50**  ·  Lorenzo Berardi - 3 **5.50**  ·  Thorir Johann Helgason - 3 **5.50**  ·  Antoine Hainaut - 3 **6.00**  ·  Ridgeciano Haps - 3 **5.50**  ·  Lamine Dabo - 3 **8.00**  ·  Richie Sagrado - 3 **9.00**  ·  Simon Sohm - 3 **9.00**  ·  Matteo Dagasso - 3 **10.00**  ·  Thierry Correia - 3 **19.00**  ·  Matias Moreno - 3 **19.00**  ·  Armel Bella-Kotchap - 3 **21.00**  ·  Joel Schingtienne - 3 **21.00**  ·  Redouane Halhal - 3 **21.00**  ·  Akor Adams - 4 **3.40**  ·  John Yeboah - 4 **2.50**  ·  Kike Perez - 4 **3.50**  ·  Albion Rrahmani - 4 **4.50**  ·  Lion Lauberbach - 4 **4.50**  ·  Gianluca Busio - 4 **7.00**  ·  Kornel Lisman - 4 **9.00**  ·  Simone Panada - 4 **21.00**  ·  Toma Basic - 4 **11.00**  ·  Lorenzo Berardi - 4 **13.00**  ·  Thorir Johann Helgason - 4 **13.00**  ·  Antoine Hainaut - 4 **15.00**  ·  Ridgeciano Haps - 4 **13.00**  ·  Akor Adams - 5 **6.00**  ·  John Yeboah - 5 **4.33**  ·  Kike Perez - 5 **6.50**  ·  Albion Rrahmani - 5 **10.00**  ·  Lion Lauberbach - 5 **10.00**  ·  Gianluca Busio - 5 **17.00**  ·  Akor Adams - 6 **13.00**  ·  John Yeboah - 6 **8.00**  ·  Kike Perez - 6 **13.00**  ·  Albion Rrahmani - 6 **21.00**  ·  Lion Lauberbach - 6 **21.00**  ·  Akor Adams - 7 **21.00**  ·  John Yeboah - 7 **15.00**  ·  Lamine Dabo - 4 **21.00**  ·  Matteo Dagasso - 4 **21.00**  ·  Richie Sagrado - 4 **21.00**  ·  Simon Sohm - 4 **21.00**  ·  Kornel Lisman - 5 **19.00**  ·  Toma Basic - 5 **21.00**  ·  Kike Perez - 7 **21.00**  ·  Juan Jesus - 1 **2.62**  ·  Juan Jesus - 2 **10.00**  ·  Rufai Mohammed - 1 **2.00**  ·  Rufai Mohammed - 2 **5.50**  ·  Rufai Mohammed - 3 **17.00**
@@ -64,43 +64,43 @@ _Actualizadas: 25/10 13:44_
 ## Estadísticas de equipo
 | | Venezia (total) | Venezia en casa | Inter (total) | Inter fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 10 | 4 |
-| Forma (últimos 5) | VDDDD | VDDD | VVDVE | VEDV |
-| Balance | 1V 0E 6D | 1V 0E 3D | 7V 1E 2D | 2V 1E 1D |
-| Goles a favor / partido | 0,86 | 0,75 | 2,60 | 1,75 |
-| Goles en contra / partido | 2,29 | 2,00 | 1,50 | 1,25 |
-| Goles a favor 1ª parte | 0,29 | 0,25 | 0,90 | 0,50 |
-| Goles a favor 2ª parte | 0,57 | 0,50 | 1,70 | 1,25 |
-| Goles en contra 1ª parte | 1,00 | 0,50 | 0,90 | 1,25 |
-| Goles en contra 2ª parte | 1,29 | 1,50 | 0,60 | 0,00 |
-| Más de 1,5 goles | 86% | 75% | 80% | 75% |
-| Más de 2,5 goles | 43% | 25% | 80% | 75% |
-| Más de 3,5 goles | 43% | 25% | 60% | 50% |
-| Ambos marcan | 43% | 25% | 70% | 75% |
-| Portería a cero | 14% | 25% | 30% | 25% |
+| Partidos analizados | 7 | 4 | 11 | 4 |
+| Forma (últimos 5) | VDDDD | VDDD | VVVDV | VEDV |
+| Balance | 1V 0E 6D | 1V 0E 3D | 8V 1E 2D | 2V 1E 1D |
+| Goles a favor / partido | 0,86 | 0,75 | 2,55 | 1,75 |
+| Goles en contra / partido | 2,29 | 2,00 | 1,45 | 1,25 |
+| Goles a favor 1ª parte | 0,29 | 0,25 | 0,82 | 0,50 |
+| Goles a favor 2ª parte | 0,57 | 0,50 | 1,73 | 1,25 |
+| Goles en contra 1ª parte | 1,00 | 0,50 | 0,82 | 1,25 |
+| Goles en contra 2ª parte | 1,29 | 1,50 | 0,64 | 0,00 |
+| Más de 1,5 goles | 86% | 75% | 82% | 75% |
+| Más de 2,5 goles | 43% | 25% | 82% | 75% |
+| Más de 3,5 goles | 43% | 25% | 55% | 50% |
+| Ambos marcan | 43% | 25% | 73% | 75% |
+| Portería a cero | 14% | 25% | 27% | 25% |
 | Se queda sin marcar | 43% | 50% | 0% | 0% |
-| xG a favor | 1,55 | 1,35 | 2,73 | 2,88 |
-| xG en contra | 2,32 | 2,49 | 1,60 | 1,51 |
-| Tiros / partido | 14,0 | 13,8 | 21,6 | 21,2 |
-| Tiros a puerta / partido | 4,3 | 5,0 | 7,5 | 6,8 |
-| Tiros recibidos | 17,6 | 18,0 | 12,3 | 13,8 |
-| Tiros a puerta recibidos | 7,3 | 6,8 | 4,5 | 4,0 |
+| xG a favor | 1,55 | 1,35 | 2,75 | 2,88 |
+| xG en contra | 2,32 | 2,49 | 1,48 | 1,51 |
+| Tiros / partido | 14,0 | 13,8 | 22,6 | 21,2 |
+| Tiros a puerta / partido | 4,3 | 5,0 | 7,8 | 6,8 |
+| Tiros recibidos | 17,6 | 18,0 | 11,8 | 13,8 |
+| Tiros a puerta recibidos | 7,3 | 6,8 | 4,3 | 4,0 |
 | Posesión media % | 54 | 53 | 60 | 61 |
 | Córners a favor | 3,7 | 3,5 | 6,0 | 6,2 |
-| Córners en contra | 5,1 | 5,2 | 3,6 | 4,5 |
+| Córners en contra | 5,1 | 5,2 | 3,4 | 4,5 |
 | Córners a favor 1ª parte | 1,9 | 2,2 | 2,6 | 2,5 |
 | Córners a favor 2ª parte | 1,9 | 1,2 | 3,4 | 3,8 |
-| Córners totales del partido | 8,9 | 8,8 | 9,6 | 10,8 |
-| Córners totales 1ª parte | 4,1 | 4,2 | 4,3 | 3,8 |
-| Córners totales 2ª parte | 4,7 | 4,5 | 5,3 | 7,0 |
-| Más de 8,5 córners | 43% | 50% | 50% | 50% |
-| Más de 9,5 córners | 29% | 25% | 40% | 50% |
-| Más de 10,5 córners | 29% | 25% | 40% | 50% |
-| Faltas cometidas | 10,1 | 10,0 | 8,2 | 8,2 |
-| Faltas recibidas | 10,3 | 8,0 | 10,1 | 9,8 |
-| Amarillas propias | 2,9 | 2,8 | 2,0 | 2,5 |
-| Amarillas del rival | 1,1 | 1,0 | 2,1 | 2,5 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,00 |
+| Córners totales del partido | 8,9 | 8,8 | 9,4 | 10,8 |
+| Córners totales 1ª parte | 4,1 | 4,2 | 4,2 | 3,8 |
+| Córners totales 2ª parte | 4,7 | 4,5 | 5,2 | 7,0 |
+| Más de 8,5 córners | 43% | 50% | 45% | 50% |
+| Más de 9,5 córners | 29% | 25% | 36% | 50% |
+| Más de 10,5 córners | 29% | 25% | 36% | 50% |
+| Faltas cometidas | 10,1 | 10,0 | 8,6 | 8,2 |
+| Faltas recibidas | 10,3 | 8,0 | 10,5 | 9,8 |
+| Amarillas propias | 2,9 | 2,8 | 1,8 | 2,5 |
+| Amarillas del rival | 1,1 | 1,0 | 2,2 | 2,5 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Venezia | Recibe Venezia | Tarjetas Venezia | Goles Inter | Recibe Inter | Tarjetas Inter |
@@ -109,8 +109,8 @@ _Actualizadas: 25/10 13:44_
 | 16-30' | 1 | 4 | 3 | 2 | 4 | 1 |
 | 31-45' | 1 | 1 | 5 | 4 | 1 | 6 |
 | 46-60' | 1 | 3 | 3 | 5 | 2 | 3 |
-| 61-75' | 2 | 2 | 3 | 3 | 2 | 5 |
-| 76-90' | 1 | 4 | 6 | 9 | 2 | 3 |
+| 61-75' | 2 | 2 | 3 | 3 | 3 | 5 |
+| 76-90' | 1 | 4 | 6 | 11 | 2 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -161,79 +161,79 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Inter
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Serie A | Inter 2-1 Fiorentina | casa | 6-1 | 33 (11) - 7 (2) | 0-3 |
 | 2026-10-21 | Champions League | Inter 1-0 Shakhtar Donetsk | casa | 5-4 | 13 (5) - 12 (4) | 4-2 |
 | 2026-10-17 | Serie A | Bologna 1-3 Inter | fuera | 6-2 | 17 (8) - 11 (4) | 3-4 |
 | 2026-10-13 | Champions League | Inter 3-4 Club Brugge KV | casa | 4-4 | 30 (12) - 18 (8) | 2-4 |
 | 2026-10-10 | Serie A | Inter 3-0 Parma | casa | 3-1 | 19 (6) - 9 (2) | –-– |
 | 2026-09-19 | Serie A | AS Roma 2-2 Inter | fuera | 2-4 | 16 (5) - 18 (4) | 3-3 |
-| 2026-09-14 | Serie A | Inter 5-3 Udinese | casa | 10-1 | 27 (12) - 6 (5) | 1-1 |
 
 ## Jugadores de Inter
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Josep Martínez | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| N. Barella | M | 9 | 768 | 1 | 2 | 13 | 1,4 | 6 | 0,7 | 5 | 9 | 1,0 | 1 | 0 |
-| A. Bastoni | D | 9 | 730 | 0 | 0 | 8 | 0,9 | 2 | 0,2 | 9 | 3 | 0,3 | 3 | 1 |
-| M. Akanji | D | 8 | 683 | 0 | 1 | 8 | 1,0 | 2 | 0,2 | 6 | 4 | 0,5 | 3 | 0 |
-| Y. Bisseck | D | 9 | 670 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 3 | 4 | 0,4 | 1 | 0 |
-| A. Diouf | M | 9 | 650 | 0 | 3 | 6 | 0,7 | 4 | 0,4 | 4 | 3 | 0,3 | 0 | 0 |
-| F. Dimarco | M | 9 | 595 | 0 | 2 | 15 | 1,7 | 4 | 0,4 | 2 | 1 | 0,1 | 0 | 0 |
-| M. Thuram | F | 9 | 586 | 4 | 2 | 22 | 2,4 | 10 | 1,1 | 15 | 11 | 1,2 | 2 | 0 |
-| P. Zieliński | M | 9 | 580 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 1 | 4 | 0,4 | 0 | 0 |
+| N. Barella | M | 10 | 853 | 1 | 2 | 16 | 1,6 | 7 | 0,7 | 6 | 10 | 1,0 | 1 | 0 |
+| A. Bastoni | D | 10 | 807 | 0 | 0 | 8 | 0,8 | 2 | 0,2 | 11 | 3 | 0,3 | 3 | 1 |
+| M. Akanji | D | 9 | 773 | 0 | 1 | 9 | 1,0 | 2 | 0,2 | 7 | 4 | 0,4 | 3 | 0 |
+| Y. Bisseck | D | 10 | 760 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 4 | 5 | 0,5 | 1 | 0 |
+| A. Diouf | M | 10 | 740 | 0 | 4 | 8 | 0,8 | 4 | 0,4 | 5 | 5 | 0,5 | 0 | 0 |
+| M. Thuram | F | 10 | 676 | 5 | 2 | 31 | 3,1 | 14 | 1,4 | 17 | 15 | 1,5 | 2 | 0 |
+| F. Dimarco | D | 10 | 608 | 0 | 2 | 16 | 1,6 | 5 | 0,5 | 2 | 2 | 0,2 | 0 | 0 |
+| P. Zieliński | M | 10 | 592 | 2 | 2 | 6 | 0,6 | 3 | 0,3 | 2 | 5 | 0,5 | 0 | 0 |
 | Lautaro Martínez | F | 7 | 532 | 6 | 1 | 30 | 4,3 | 12 | 1,7 | 7 | 9 | 1,3 | 3 | 0 |
-| P. Sučić | M | 9 | 488 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 4 | 8 | 0,9 | 1 | 0 |
-| Carlos Augusto | D | 7 | 438 | 4 | 2 | 5 | 0,7 | 5 | 0,7 | 4 | 1 | 0,1 | 1 | 0 |
-| Francesco Pio Esposito | F | 8 | 433 | 2 | 1 | 12 | 1,5 | 8 | 1,0 | 5 | 14 | 1,8 | 1 | 0 |
-| H. Çalhanoğlu | M | 8 | 395 | 3 | 0 | 9 | 1,1 | 4 | 0,5 | 5 | 2 | 0,2 | 3 | 0 |
+| Carlos Augusto | M | 8 | 528 | 4 | 2 | 8 | 1,0 | 5 | 0,6 | 4 | 2 | 0,2 | 1 | 0 |
+| P. Sučić | M | 10 | 500 | 1 | 0 | 5 | 0,5 | 4 | 0,4 | 5 | 9 | 0,9 | 1 | 0 |
+| F. Esposito | F | 9 | 497 | 2 | 1 | 14 | 1,6 | 9 | 1,0 | 5 | 14 | 1,6 | 1 | 0 |
+| H. Çalhanoğlu | M | 9 | 473 | 3 | 0 | 11 | 1,2 | 4 | 0,4 | 6 | 2 | 0,2 | 3 | 0 |
+| A. Bonny | F | 10 | 272 | 3 | 0 | 11 | 1,1 | 9 | 0,9 | 4 | 6 | 0,6 | 0 | 0 |
+| H. Mkhitaryan | M | 6 | 267 | 0 | 2 | 10 | 1,7 | 2 | 0,3 | 2 | 3 | 0,5 | 1 | 0 |
 | Benjamin Pavard | D | 4 | 253 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,5 | 0 | 0 |
-| A. Bonny | F | 9 | 246 | 3 | 0 | 8 | 0,9 | 7 | 0,8 | 4 | 5 | 0,6 | 0 | 0 |
 | Curtis Jones | M | 5 | 242 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 4 | 0,8 | 0 | 0 |
 | Luis Henrique | F | 6 | 226 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
-| H. Mkhitaryan | M | 5 | 189 | 0 | 2 | 7 | 1,4 | 2 | 0,4 | 0 | 2 | 0,4 | 1 | 0 |
 | John Stones | D | 4 | 144 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 3,15 · córners esperados 9,4._
+_Goles esperados: local 1,35 · visitante 3,08 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 72% | 70% | 71% | 1.33 | -5% |
-| 1X2: X | 14% | 19% | 16% | 5.00 | -18% |
+| 1X2: X | 14% | 19% | 17% | 5.00 | -17% |
 | 1X2: 1 | 14% | 11% | 12% | 8.50 | +5% |
-| Doble oportunidad: X2 | 86% | 89% | 88% | 1.08 | -5% |
+| Doble oportunidad: X2 | 86% | 89% | 87% | 1.08 | -6% |
 | Doble oportunidad: 12 | 86% | 82% | 84% | 1.17 | -2% |
-| Doble oportunidad: 1X | 28% | 29% | 29% | 3.25 | -7% |
-| Ambos marcan: No | 28% | 41% | 35% | 2.25 | -22% |
-| Ambos marcan: Sí | 72% | 59% | 65% | 1.57 | +3% |
-| Goles más/menos: Más de 2.5 | 83% | 72% | 78% | 1.33 | +3% |
-| Goles más/menos: Más de 3.5 | 66% | 53% | 60% | 1.80 | +7% |
-| Goles más/menos: Más de 4.5 | 48% | 34% | 41% | 2.75 | +13% |
-| Goles más/menos: Más de 5.5 | 30% | 21% | 26% | 4.50 | +16% |
-| Goles más/menos: Menos de 2.5 | 17% | 28% | 22% | 3.40 | -24% |
-| Goles más/menos: Menos de 3.5 | 34% | 47% | 40% | 2.00 | -19% |
-| Goles más/menos: Menos de 4.5 | 52% | 66% | 59% | 1.44 | -15% |
-| Goles más/menos: Menos de 5.5 | 70% | 79% | 74% | 1.20 | -11% |
+| Doble oportunidad: 1X | 28% | 29% | 29% | 3.25 | -6% |
+| Ambos marcan: No | 29% | 41% | 35% | 2.25 | -21% |
+| Ambos marcan: Sí | 71% | 59% | 65% | 1.57 | +2% |
+| Goles más/menos: Más de 2.5 | 82% | 72% | 77% | 1.33 | +2% |
+| Goles más/menos: Más de 3.5 | 65% | 53% | 59% | 1.80 | +6% |
+| Goles más/menos: Más de 4.5 | 45% | 34% | 40% | 2.75 | +10% |
+| Goles más/menos: Más de 5.5 | 29% | 21% | 25% | 4.50 | +12% |
+| Goles más/menos: Menos de 2.5 | 18% | 28% | 23% | 3.40 | -21% |
+| Goles más/menos: Menos de 3.5 | 35% | 47% | 41% | 2.00 | -17% |
+| Goles más/menos: Menos de 4.5 | 55% | 66% | 60% | 1.44 | -13% |
+| Goles más/menos: Menos de 5.5 | 71% | 79% | 75% | 1.20 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 25% | 28% | 3.75 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -9% |
-| Goles del local: Más de 0.5 | 75% | 65% | 70% | 1.44 | +1% |
-| Goles del local: Más de 1.5 | 41% | 28% | 34% | 3.40 | +16% |
-| Goles del local: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del local: Menos de 1.5 | 59% | 72% | 66% | 1.30 | -14% |
-| Goles del visitante: Más de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles del visitante: Más de 2.5 | 61% | 51% | 56% | 1.80 | +1% |
-| Goles del visitante: Más de 3.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles del visitante: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -16% |
-| Goles del visitante: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -11% |
-| Córners más/menos: Más de 8.5 | 53% | 56% | 54% | 1.67 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del local: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
+| Goles del local: Más de 1.5 | 39% | 28% | 33% | 3.40 | +14% |
+| Goles del local: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles del local: Menos de 1.5 | 61% | 72% | 67% | 1.30 | -13% |
+| Goles del visitante: Más de 1.5 | 81% | 75% | 78% | 1.25 | -2% |
+| Goles del visitante: Más de 2.5 | 59% | 51% | 55% | 1.80 | -0% |
+| Goles del visitante: Más de 3.5 | 37% | 31% | 34% | 3.00 | +2% |
+| Goles del visitante: Menos de 1.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del visitante: Menos de 2.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Goles del visitante: Menos de 3.5 | 63% | 69% | 66% | 1.36 | -10% |
+| Córners más/menos: Más de 8.5 | 53% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Menos de 8.5 | 47% | 44% | 46% | 2.10 | -4% |
-| 1X2 descanso: 2 | 55% | 55% | 55% | 1.67 | -8% |
-| 1X2 descanso: X | 29% | 31% | 30% | 3.00 | -11% |
+| 1X2 descanso: 2 | 54% | 55% | 55% | 1.67 | -8% |
+| 1X2 descanso: X | 29% | 31% | 30% | 3.00 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

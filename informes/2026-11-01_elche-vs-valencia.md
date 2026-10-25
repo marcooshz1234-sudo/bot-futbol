@@ -1,10 +1,10 @@
 # Elche – Valencia
 **LaLiga** · Regular Season - 11 · 01/11/2026 18:30 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:45_
+_Actualizadas: 25/10 16:17_
 
 - **1X2:** 1 **2.45**  ·  X **3.30**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.53**
@@ -186,14 +186,14 @@ _Sin bajas comunicadas por ahora._
 | Dani Raba | F | 4 | 176 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 7 | 6 | 1,5 | 3 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 0,84 · córners esperados 8,9._
+_Goles esperados: local 1,57 · visitante 0,84 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 34% | 27% | 2.75 | -26% |
 | 1X2: X | 25% | 28% | 27% | 3.30 | -12% |
-| 1X2: 1 ✅ | 54% | 38% | 46% | 2.45 | +13% |
-| Doble oportunidad: X2 | 46% | 62% | 54% | 1.53 | -18% |
+| 1X2: 1 ✅ | 55% | 38% | 46% | 2.45 | +13% |
+| Doble oportunidad: X2 | 45% | 62% | 54% | 1.53 | -18% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 80% | 67% | 74% | 1.40 | +3% |
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
@@ -209,9 +209,9 @@ _Goles esperados: local 1,57 · visitante 0,84 · córners esperados 8,9._
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
 | Goles del local: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
-| Goles del local: Más de 1.5 | 46% | 41% | 44% | 2.25 | -2% |
+| Goles del local: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
 | Goles del local: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |
-| Goles del local: Menos de 1.5 | 54% | 59% | 56% | 1.57 | -12% |
+| Goles del local: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
 | Goles del visitante: Más de 0.5 | 57% | 71% | 64% | 1.33 | -15% |
 | Goles del visitante: Más de 1.5 | 21% | 38% | 29% | 2.50 | -27% |
 | Goles del visitante: Menos de 0.5 ✅ | 43% | 29% | 36% | 3.25 | +17% |

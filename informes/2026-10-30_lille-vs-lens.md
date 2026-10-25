@@ -1,10 +1,10 @@
 # Lille – Lens
 **Ligue 1** · Regular Season - 9 · 30/10/2026 21:05 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 13:44_
+_Actualizadas: 25/10 16:16_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.67**
@@ -30,7 +30,7 @@ _Actualizadas: 25/10 13:44_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.90** · menos **1.90**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -219,9 +219,9 @@ _Goles esperados: local 1,59 · visitante 1,45 · córners esperados 9,1._
 | Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
 | Goles del visitante: Más de 1.5 | 43% | 39% | 41% | 2.38 | -3% |
 | Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -12% |
-| Goles del visitante: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
-| Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.90 | -13% |
-| Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.90 | +3% |
+| Goles del visitante: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -9% |
+| Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
 | 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -7% |
 | 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -8% |
