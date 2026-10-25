@@ -1026,7 +1026,8 @@ def enriquecer(picks, prox, hist, arbitros):
 
 
 # ------------------------------------------------------------ combi "gana o empata" (25/10)
-DOBLE_FREC_MIN, DOBLE_FREC_EQ, DOBLE_CUOTA_MIN, DOBLE_RANGO = 0.75, 0.60, 1.25, (1.8, 4.5)
+DOBLE_FREC_MIN, DOBLE_FREC_EQ, DOBLE_CUOTA_MIN, DOBLE_RANGO = 0.70, 0.55, 1.25, (5.0, 20.0)
+DOBLE_PATAS = (5, 6)   # 5-6 equipos (petición 25/10)
 
 
 def candidatos_doble(prox, hist, arbitros):
@@ -1069,15 +1070,15 @@ def candidatos_doble(prox, hist, arbitros):
 
 
 def combi_doble(cands):
-    """3-4 'gana o empata' de partidos distintos, cuota total entre 2 y 4,5, los de más calidad primero."""
+    """5-6 'gana o empata' de partidos distintos, cuota total entre 5 y 20, los de más calidad primero."""
     elegidos, vistos, total = [], set(), 1.0
     for p in sorted(cands, key=lambda x: -calidad(x)):
-        if p["partido_id"] in vistos or total * p["cuota"] > DOBLE_RANGO[1] or len(elegidos) >= 4:
+        if p["partido_id"] in vistos or total * p["cuota"] > DOBLE_RANGO[1] or len(elegidos) >= DOBLE_PATAS[1]:
             continue
         elegidos.append(p)
         vistos.add(p["partido_id"])
         total *= p["cuota"]
-    if len(elegidos) >= 2 and total >= DOBLE_RANGO[0]:
+    if len(elegidos) >= DOBLE_PATAS[0] and total >= DOBLE_RANGO[0]:
         return {"picks": elegidos, "cuota": round(total, 2)}
     return None
 
