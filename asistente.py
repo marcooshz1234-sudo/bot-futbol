@@ -53,7 +53,7 @@ def git(*args):
 
 
 def guardar(mensaje):
-    git("add", "-A", "publicaciones")
+    git("add", "-A", "publicaciones", "datos/comunidad_picks.json")
     if git("diff", "--cached", "--quiet").returncode == 0:
         return
     git("commit", "-q", "-m", f"Asistente: {mensaje}")
@@ -395,6 +395,16 @@ class Asistente:
                 offset = u["update_id"] + 1
                 quien = (u.get("message") or u.get("callback_query") or {}).get("from", {}).get("id")
                 if quien != self.duenio:
+                    m = u.get("message") or {}
+                    if (m.get("chat") or {}).get("type") == "private" and m.get("text"):
+                        try:   # seguidores: concurso del pick (comunidad.py)
+                            import comunidad
+                            r = comunidad.responder(m["text"], m.get("from") or {})
+                            api(self.t, "sendMessage", {"chat_id": m["chat"]["id"], "text": r})
+                            if m["text"].startswith("/pick"):
+                                guardar("pick de un seguidor")
+                        except Exception as e:
+                            print("comunidad:", e)
                     continue
                 try:
                     if "callback_query" in u:
