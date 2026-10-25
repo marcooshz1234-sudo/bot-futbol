@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": "2026-10-26-combi-dia",
+    "fecha": "2026-10-26T12:00",
+    "texto": "🎯 LA COMBI DEL LUNES 🎯\n\n✅1. Más de 26,5 tiros en Paris Saint Germain–Lyon · 1,80\n✅2. Más de 1,5 goles en Sevilla–Osasuna · 1,36\n\n🎯 Cuota total: 2,45\n💶 10€ → 24,48€\n\n📊 Más de 26,5 tiros en Paris Saint Germain–Lyon → Paris Saint Germain 10/10 · Lyon 7/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552800|Total Shots|Over 26.5",
+      "1570431|Goals Over/Under|Over 1.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-combi-dia",
+    "fecha": "2026-10-27T12:00",
+    "texto": "🎯 LA COMBI DEL MARTES 🎯\n\n✅1. Lazio o empate · 1,40\n✅2. Torino marca · 1,40\n\n🎯 Cuota total: 1,96\n💶 10€ → 19,60€\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550174|Double Chance|Draw/Away",
+      "1550175|Total - Home|Over 0.5"
+    ]
+  },
+  {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
     "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
@@ -64,6 +88,19 @@
     ]
   },
   {
+    "id": "2026-10-28-picks-hoy",
+    "fecha": "2026-10-28T17:30",
+    "texto": "🔥 3 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅3. Más de 1,5 goles en Parma–Udinese · 1,36\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550172|Total - Home|Over 0.5",
+      "1550171|Goals Over/Under|Over 1.5",
+      "1550173|Goals Over/Under|Over 1.5"
+    ]
+  },
+  {
     "id": "2026-10-29-combi-segura",
     "fecha": "2026-10-29T12:00",
     "texto": "📊 COMBI DE DATOS DEL JUEVES 📊\n\n✅1. Gol en la 1ª parte del Frosinone–Lecce · 1,28\n✅2. Atalanta marca · 1,28\n\n🎯 Cuota total: 1,64\n💶 10€ → 16,40€\n\n📊 Gol en la 1ª parte del Frosinone–Lecce → Frosinone 7/7 · Lecce 6/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -73,6 +110,18 @@
     "sel": [
       "1550170|Goals Over/Under First Half|Over 0.5",
       "1550169|Total - Away|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-30-combi-dia",
+    "fecha": "2026-10-30T12:00",
+    "texto": "🎯 LA COMBI DEL VIERNES 🎯\n\n✅1. Espanyol marca · 1,44\n✅2. Gol en la 1ª parte del Lille–Lens · 1,30\n\n🎯 Cuota total: 1,87\n💶 10€ → 18,72€\n\n📊 Espanyol marca → Villarreal (en contra) 9/10 · Espanyol 9/10 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570442|Total - Away|Over 0.5",
+      "1552802|Goals Over/Under First Half|Over 0.5"
     ]
   },
   {

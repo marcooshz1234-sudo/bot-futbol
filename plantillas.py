@@ -41,6 +41,7 @@ def clave(p):
 
 
 MAX_POSTS_POR_SELECCION = 2   # una misma selección no sale en más de 2 posts
+MIN_LISTA = 3   # mínimo de picks para una lista (3 para que los días con pocos partidos tengan contenido)
 
 
 def dato(picks):
@@ -96,6 +97,17 @@ def posts_del_dia(dia, d):
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
                       "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
 
+    if not any(c for c in combis.values()):   # día flojo (pocos partidos): al menos una combi de 2
+        cand = sorted(d.get("picks") or [], key=atractivo, reverse=True)
+        par = next(([a, b] for i, a in enumerate(cand) for b in cand[i + 1:]
+                    if a["partido_id"] != b["partido_id"] and a["cuota"] * b["cuota"] >= 1.5), None)
+        if par:
+            ct = par[0]["cuota"] * par[1]["cuota"]
+            apuntar(par)
+            posts.append(("combi-dia", f.replace(hour=12, minute=0), par,
+                          f"🎯 LA COMBI DEL {nombre} 🎯\n\n{lista(par)}\n\n🎯 Cuota total: {num(ct)}\n"
+                          f"💶 10€ → {num(ct * 10)}€\n\n{dato(par)}\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+
     esc = leer(DATOS / "escalera.json") or {}
     act = esc.get("actual")
     if act and act["dia"] == dia:
@@ -116,14 +128,14 @@ def posts_del_dia(dia, d):
         return [p for p in lista_picks if usos.get(clave(p), 0) < MAX_POSTS_POR_SELECCION]
 
     mejores = mejores_para_lista(libres(d.get("picks") or []))
-    if len(mejores) >= 4:
+    if len(mejores) >= MIN_LISTA:
         sel = mejores[:7]
         apuntar(sel)
         posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
                       f"🔥 {len(sel)} PICKS PARA MAÑANA ({nombre}) 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
                       "¡Combina máximo 2 o 3! 🍀"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
-    if len(tarde) >= 4:
+    if len(tarde) >= MIN_LISTA:
         sel = tarde[:7]
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
