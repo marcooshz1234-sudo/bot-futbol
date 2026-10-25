@@ -200,6 +200,11 @@ def main(objetivo=None):
         hecho = p.setdefault("redes", {})
         errores = p.setdefault("errores_redes", {})
         tareas = []
+        solo = p.get("solo_en")   # p. ej. ["threads"]: este post solo va a esas redes
+        if solo:
+            for red in ("threads", "instagram", "instagram_reel", "facebook"):
+                if red not in solo and red not in hecho:
+                    hecho[red] = None
         if claves["threads"] and "threads" not in hecho:
             tareas.append(("threads", lambda: threads(p, claves["threads"])))
         if claves["instagram"] and "instagram" not in hecho and not p.get("sin_instagram"):

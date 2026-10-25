@@ -401,5 +401,53 @@
       "instagram": "17996338746047935"
     },
     "facebook_tipo": "foto"
+  },
+  {
+    "id": "2026-10-25-threads-guia",
+    "fecha": "2026-10-25T17:06",
+    "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_redes": true,
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-10-25-threads-opciones",
+    "fecha": "2026-10-25T17:30",
+    "texto": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_redes": true,
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-10-25-threads-clasico",
+    "fecha": "2026-10-25T19:30",
+    "texto": "🇪🇸 BARÇA 🆚 MADRID\n💥 COMBI DEL PARTIDO\n\n✅ Gana el Barça\n✅ Courtois 4+ paradas\n✅ Mbappé 4+ remates\n✅ Barça menos de 7 córners\n✅ Menos de 32,5 remates totales\n\n🎯 Cuota conjunta: 11,00\n💶 10€ → 110,00€ a cuota 11,00\n\nCuota consultada el 25/10; puede variar. Courtois y Mbappé: solo si son titulares.\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_redes": true,
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-10-25-threads-clasico-datos",
+    "fecha": "2026-10-25T20:16",
+    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_redes": true,
+    "solo_en": [
+      "threads"
+    ]
   }
 ]
