@@ -941,8 +941,20 @@ def indice_arbitros():
     return idx
 
 
+def habituales(equipo_id, hist, ultimos=8, minimo=4):
+    """Titulares habituales: 60'+ en al menos 4 de los últimos 8 partidos (aunque no jugaran el último,
+    que es justo lo que pasa con un lesionado)."""
+    cuenta, info = defaultdict(int), {}
+    for p in hist.get(equipo_id, [])[:ultimos]:
+        for j in (p.get("jugadores") or {}).get(str(equipo_id)) or []:
+            if (j.get("min") or 0) >= 60:
+                cuenta[j["id"]] += 1
+                info.setdefault(j["id"], {"nombre": j["nombre"], "pos": j.get("pos")})
+    return {pid: info[pid] for pid, n in cuenta.items() if n >= minimo}
+
+
 def titulares_fuera(prox, equipo_id, hist):
-    fijos = plantilla_fija(equipo_id, hist)
+    fijos = habituales(equipo_id, hist)
     fuera = [l["jugador"] for l in prox.get("lesiones") or [] if l.get("equipo") == equipo_id]
     return [d["nombre"] for d in fijos.values() if any(mismo_jugador(n, d["nombre"]) for n in fuera)], fuera
 

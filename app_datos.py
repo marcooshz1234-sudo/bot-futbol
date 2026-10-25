@@ -147,8 +147,84 @@ def extra_partido(f, hist):
         lado = "local" if l.get("equipo") == f["teams"]["home"]["id"] else "visitante"
         if not any(b["jugador"] == l.get("jugador") for b in bajas.get(lado, [])):
             bajas.setdefault(lado, []).append({"jugador": l.get("jugador"), "motivo": l.get("motivo"), "tipo": l.get("tipo")})
-    return {"arbitro": {"nombre": arb, "partidos": len(t), "tarjetas": round(sum(t) / len(t), 1) if t else None} if arb else None,
-            "prediccion": prox.get("prediccion"), "bajas": bajas}
+    from picks import habituales, mismo_jugador
+    importantes = {}
+    for lado, eq in (("local", f["teams"]["home"]), ("visitante", f["teams"]["away"])):
+        fijos = habituales(eq["id"], hist)
+        for b in bajas.get(lado, []):
+            fj = next((d for d in fijos.values() if mismo_jugador(b["jugador"], d["nombre"])), None)
+            if fj:
+                b["titular"] = True
+                b["impacto"] = impacto_baja(eq["id"], fj["nombre"], hist)
+                importantes.setdefault(lado, []).append(b["jugador"])
+    return {"arbitro": {"nombre": arb, "partidos": len(t), "tarjetas": round(sum(t) / len(t), 1) if t else None,
+                        "mas5": round(100 * sum(x >= 5 for x in t) / len(t)) if t else None} if arb else None,
+            "prediccion": prox.get("prediccion"), "bajas": bajas, "bajas_importantes": importantes,
+            "bot_1x2": bot_1x2(f["teams"]["home"]["id"], f["teams"]["away"]["id"], hist)}
+
+
+def impacto_baja(eq, nombre, hist):
+    """Goles a favor por partido del equipo con y sin ese jugador (temporada guardada)."""
+    from picks import mismo_jugador
+    con, sin = [], []
+    for p in hist.get(eq, []):
+        if not p.get("goles"):
+            continue
+        gf = p["goles"][0] if p["local"]["id"] == eq else p["goles"][1]
+        jugo = any(mismo_jugador(nombre, j.get("nombre")) and (j.get("min") or 0) >= 45
+                   for j in (p.get("jugadores") or {}).get(str(eq)) or [])
+        (con if jugo else sin).append(gf)
+    if len(con) < 3 or len(sin) < 2:
+        return None
+    return {"con": round(sum(con) / len(con), 2), "sin": round(sum(sin) / len(sin), 2), "partidos_sin": len(sin)}
+
+
+def bot_1x2(loc, vis, hist, n=10):
+    """Probabilidad 1X2 del bot: % de victorias/empates/derrotas del local y del visitante (al revés), juntos."""
+    def res(eq):
+        out = []
+        for p in hist.get(eq, [])[:n]:
+            if not p.get("goles"):
+                continue
+            a, b = (p["goles"] if p["local"]["id"] == eq else p["goles"][::-1])
+            out.append("G" if a > b else "E" if a == b else "P")
+        return out
+    a, b = res(loc), res(vis)
+    if len(a) < 4 or len(b) < 4:
+        return None
+    l = (a.count("G") / len(a) + b.count("P") / len(b)) / 2
+    e = (a.count("E") / len(a) + b.count("E") / len(b)) / 2
+    v = (a.count("P") / len(a) + b.count("G") / len(b)) / 2
+    tot = l + e + v or 1
+    return {"local": round(100 * l / tot), "empate": round(100 * e / tot), "visitante": round(100 * v / tot)}
+
+
+def ranking_arbitros(partidos):
+    """Árbitros ordenados por tarjetas por partido; marca los que pitan en los próximos partidos."""
+    from picks import indice_arbitros, nombre_arbitro
+    idx = indice_arbitros()
+    proximos = {}
+    for p in partidos:
+        if p.get("arbitro_nombre") and p.get("estado") in ("NS", "TBD"):
+            proximos.setdefault(p["arbitro_nombre"], []).append(f"{p['local']} – {p['visitante']} · {p['fecha'][8:10]}/{p['fecha'][5:7]} {p['fecha'][11:]}")
+    filas = [{"nombre": a, "partidos": len(t), "media": round(sum(t) / len(t), 1), "mas5": round(100 * sum(x >= 5 for x in t) / len(t)),
+              "max": max(t), "proximo": proximos.get(a)} for a, t in idx.items() if len(t) >= 4]
+    return sorted(filas, key=lambda x: -x["media"])
+
+
+def tramos_por_liga():
+    """% de goles de cada liga por tramos de 15' (mapa de calor)."""
+    from bot import COMPETICIONES, PARTIDOS
+    tram = {}
+    for fp in PARTIDOS.glob("*.json"):
+        p = leer(fp)
+        if not p or p.get("liga") not in (140, 39, 135, 78, 61):
+            continue
+        t = tram.setdefault(COMPETICIONES[p["liga"]], [0] * 6)
+        for e in p.get("eventos") or []:
+            if e.get("tipo") == "Goal" and e.get("detalle") != "Missed Penalty" and e.get("min") is not None:
+                t[min(max((e["min"] - 1) // 15, 0), 5)] += 1
+    return {l: {"goles": v, "pct": [round(100 * x / (sum(v) or 1)) for x in v]} for l, v in tram.items()}
 
 
 def goleadores_que_juegan(partidos, hoy, manana):
@@ -318,6 +394,7 @@ def main():
                 "estado": vivo.get("estado") or f["fixture"]["status"]["short"],
                 "minuto": vivo.get("minuto") or f["fixture"]["status"].get("elapsed"),
                 "goles": vivo.get("goles") or [f["goals"]["home"], f["goals"]["away"]],
+                "arbitro_nombre": (f["fixture"].get("referee") or "").split(",")[0].strip() or None,
                 "actualizado": vivo.get("visto"), "actualizado_iso": fecha_iso(vivo.get("visto")),
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
@@ -330,6 +407,28 @@ def main():
     def estado_pick(p):
         return estado_seleccion(p, datos_partido(p["partido_id"]), reg.get(clave(p)))
 
+    def serie_cuota(p):
+        from bot import EXTRA
+        h = ((leer(EXTRA / f"{p['partido_id']}.json") or {}).get("cuotas_hist") or {}).get(f"{p['mercado']}|{p['opcion']}") or []
+        return [[x[0], float(x[1])] for x in h[-12:]] if len(h) >= 2 else None
+
+    def a_favor(p):
+        """Señales a favor (y en contra) del pick. 'top' si hay 3+ a favor y ninguna en contra."""
+        si, no = [], []
+        if p["frecuencia"] >= 0.85:
+            si.append("datos")
+        if p.get("ventaja", 0) >= 0.10:
+            si.append("valor")
+        vm, mv = p.get("valor_mercado"), p.get("movimiento")
+        if vm is not None:
+            (si if vm >= 0.03 else no if vm <= -0.05 else []).append("otras casas")
+        if mv is not None:
+            (si if mv <= -0.05 else no if mv >= 0.08 else []).append("cuota")
+        if p.get("temporada"):
+            a, b = map(int, p["temporada"].split("/"))
+            (si if b and a / b >= 0.8 else no if b and a / b < 0.6 else []).append("temporada")
+        return {"si": si, "no": no, "top": len(si) >= 3 and not no}
+
     def ligero(p):
         return {"id": clave(p), "partido_id": p["partido_id"], "fecha": p["fecha"], "competicion": p.get("competicion"),
                 "partido": f"{p['local']} – {p['visitante']}", "texto": p["texto"], "cuota": p["cuota"],
@@ -338,6 +437,7 @@ def main():
                 "movimiento": p.get("movimiento"), "cuota_inicial": p.get("cuota_inicial"),
                 "valor_mercado": p.get("valor_mercado"), "temporada": p.get("temporada"),
                 "progreso": progreso(entender(p["texto"])[0], datos_partido(p["partido_id"])),
+                "serie_cuota": serie_cuota(p), "a_favor": a_favor(p),
                 "definitivo": p["opcion"].startswith("Over") or p["opcion"] == "Yes" or p.get("tipo") == "jugador"}
 
     dias = {}
@@ -539,7 +639,9 @@ def main():
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
              "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}),
-             "goleadores_hoy": goleadores_que_juegan(partidos, hoy, manana), "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "goleadores_hoy": goleadores_que_juegan(partidos, hoy, manana),
+             "arbitros": ranking_arbitros(partidos), "tramos_liga": tramos_por_liga(),
+             "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
