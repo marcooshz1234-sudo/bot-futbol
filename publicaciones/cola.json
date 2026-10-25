@@ -384,5 +384,14 @@
     "origen": "editorial",
     "enviado": "2026-10-25T15:15",
     "mensaje_id": 93
+  },
+  {
+    "id": "2026-10-25-app",
+    "fecha": "2026-10-25T15:43",
+    "texto": "📲 ¡COMBILOCAS YA TIENE APP! 📲\n\nTodos los picks del día, las combis, la escalera y los resultados EN DIRECTO, con ✅ en cuanto se cumple cada pick.\n\n👉 marcooshz1234-sudo.github.io/bot-futbol/publica/\n\nÁbrela en el móvil y dale a \"Añadir a pantalla de inicio\" 🍀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto"
   }
 ]
