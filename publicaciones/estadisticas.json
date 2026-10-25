@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 19:27",
+ "actualizado": "2026-10-25 19:38",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -9,11 +9,11 @@
    ]
   },
   "threads": {
-   "seguidores": 920,
+   "seguidores": 921,
    "hoy": null,
    "serie": [
     836,
-    920
+    921
    ]
   },
   "facebook": {
@@ -25,22 +25,22 @@
    ]
   },
   "telegram": {
-   "seguidores": 72,
-   "hoy": 0,
+   "seguidores": 71,
+   "hoy": -1,
    "serie": [
     75,
     72,
-    72
+    71
    ]
   }
  },
  "total": 1011,
- "total_hoy": 0,
+ "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:30",
+  "hora": "20:15",
   "dia": "2026-10-25",
-  "titulo": "Barça  madrid"
+  "titulo": "Clásico lo que dicen los datos"
  },
  "ayer": {
   "aciertos": 13,
@@ -64,12 +64,17 @@
   },
   "2026-10-25": {
    "instagram": 19,
-   "threads": 920,
+   "threads": 921,
    "facebook": 0,
-   "telegram": 72
+   "telegram": 71
   }
  },
  "tipos_instagram": {
+  "Combi de partido": {
+   "posts": 12,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 3,
    "likes_media": 0.0,
@@ -88,11 +93,6 @@
   "Combi de partido (reel)": {
    "posts": 11,
    "likes_media": 0.1,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido": {
-   "posts": 11,
-   "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
@@ -116,7 +116,7 @@
    "comentarios_media": 0.0
   },
   "Cuota 3 (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
