@@ -213,6 +213,41 @@ def tipo_de(mercado):
     return "goles"
 
 
+PAGO_ANTICIPADO = {140, 39, 135, 78, 61}
+GANADOR_FREC_MIN = 0.60
+GANADOR_CUOTA_MAX = 2.30   # "gana X" entra con menos % que el resto, siempre que la cuota tenga valor   # LaLiga, Premier, Serie A, Bundesliga, Ligue 1
+
+
+def lidero_por_2(p, equipo):
+    """¿El equipo llegó a ir 2 goles por delante en algún momento? (pago anticipado de bet365).
+    Los goles en propia puerta se cuentan como cuadre el marcador final."""
+    goles = sorted((e for e in p.get("eventos") or [] if e.get("tipo") == "Goal" and e.get("detalle") != "Missed Penalty"),
+                   key=lambda e: ((e.get("min") or 0), (e.get("extra") or 0)))
+    if not goles or equipo is None:
+        return False
+    ids = [p["local"]["id"], p["visitante"]["id"]]
+    final = p.get("goles") or []
+
+    def recorrido(propia_al_rival):
+        m, maximo = {ids[0]: 0, ids[1]: 0}, {ids[0]: 0, ids[1]: 0}
+        for e in goles:
+            t = e.get("equipo")
+            if t not in m:
+                return None
+            if e.get("detalle") == "Own Goal" and propia_al_rival:
+                t = ids[1] if t == ids[0] else ids[0]
+            m[t] += 1
+            for x, y in ((ids[0], ids[1]), (ids[1], ids[0])):
+                maximo[x] = max(maximo[x], m[x] - m[y])
+        return (m, maximo)
+
+    for opcion in (False, True):
+        r = recorrido(opcion)
+        if r and (len(final) != 2 or [r[0][ids[0]], r[0][ids[1]]] == list(final)):
+            return r[1].get(equipo, 0) >= 2
+    return False
+
+
 def evaluador(mercado, opcion, es_local):
     """Devuelve una función f(p, eq) que dice si la apuesta se habría cumplido en un
     partido pasado p, visto desde el equipo eq. es_local indica si eq es el local del
@@ -311,7 +346,24 @@ def evaluador(mercado, opcion, es_local):
         inv = {"G": "P", "P": "G", "E": "E"}
         return {inv[x] for x in v}
 
-    if mercado in ("Match Winner", "Double Chance"):
+    if mercado == "Match Winner":
+        ok = validos(o)
+        if not ok:
+            return None
+        if ok in ({"G"}, {"P"}):   # pago anticipado de bet365: 2 goles arriba en las 5 grandes = ganada
+            def f(p, eq):
+                r = res(p, eq)
+                if r is None:
+                    return None
+                if r in ok:
+                    return True
+                if p.get("liga") not in PAGO_ANTICIPADO:
+                    return False
+                ganador = eq if ok == {"G"} else next((p[l]["id"] for l in ("local", "visitante") if p[l]["id"] != eq), None)
+                return lidero_por_2(p, ganador)
+            return f
+        return lambda p, eq: res(p, eq) in ok
+    if mercado == "Double Chance":
         ok = validos(o)
         return (lambda p, eq: res(p, eq) in ok) if ok else None
     if mercado == "First Half Winner":
@@ -621,6 +673,22 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
 
 # ------------------------------------------------------------ cálculo
 
+def sustituto_de(partido, j):
+    """El jugador que entró por j (eventos 'subst'); None si no lo cambiaron o no se sabe."""
+    todos = [x for lista in (partido.get("jugadores") or {}).values() for x in lista]
+    for e in partido.get("eventos") or []:
+        if e.get("tipo") != "subst":
+            continue
+        a, b = e.get("jugador"), e.get("otro")
+        for este, otro in ((a, b), (b, a)):
+            if este and otro and mismo_jugador(este, j.get("nombre")):
+                cand = [x for x in todos if mismo_jugador(otro, x.get("nombre")) and x is not j]
+                # solo si j es el que SALE: jugó hasta el minuto del cambio
+                if len(cand) == 1 and abs((j.get("min") or 0) - (e.get("min") or 0)) <= 5:
+                    return cand[0]
+    return None
+
+
 def evaluar_pick(pick, partido):
     """Evalúa una selección estructurada; None significa que faltan datos, no un fallo."""
     mercado = pick.get("mercado")
@@ -647,6 +715,11 @@ def evaluar_pick(pick, partido):
         if not j.get("min"):
             return None  # No convertir un jugador sin participación en un acierto o una pérdida.
         valor = j.get(campo)
+        if valor is not None and valor < n and campo != "gol_o_asist":
+            # bet365: si al jugador lo cambian, lo que haga el que entra por él también cuenta
+            sustituto = sustituto_de(partido, j)
+            if sustituto and sustituto.get(campo) is not None:
+                valor += sustituto[campo]
         if campo == "gol_o_asist":
             valor = None if j.get("goles") is None or j.get("asist") is None else j["goles"] + j["asist"]
         return None if valor is None else valor >= n
@@ -711,7 +784,8 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
                 cuota = float(cuota)
             except (TypeError, ValueError):
                 continue
-            if cuota < CUOTA_MIN or cuota > cuota_max or excluido(mercado, opcion):
+            tope = max(cuota_max, GANADOR_CUOTA_MAX) if mercado == "Match Winner" else cuota_max
+            if cuota < CUOTA_MIN or cuota > tope or excluido(mercado, opcion):
                 continue
             f_loc = evaluador(mercado, opcion, True)
             f_vis = evaluador(mercado, opcion, False)
@@ -726,7 +800,10 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
             implicita = 1 / cuota
             # campo_ok() (local en casa / visitante fuera) probado el 23/10 con 1.723 picks:
             # los que quitaba acertaban igual (79,7 % frente a 80,9 %), así que no se aplica.
-            if frec < max(frec_min, FREC_TIPO.get(tipo_de(mercado), 0)) or min(fa, fb) < frec_eq \
+            minimo, min_eq = max(frec_min, FREC_TIPO.get(tipo_de(mercado), 0)), frec_eq
+            if mercado == "Match Winner":   # ganador: lo más importante (petición 25/10), con pago anticipado
+                minimo, min_eq = GANADOR_FREC_MIN, 0.45   # el rival puede no perder tanto si el favorito gana mucho
+            if frec < minimo or min(fa, fb) < min_eq \
                     or not (0 < frec - implicita <= VENTAJA_MAX):
                 continue
             en_contra_loc = mercado in ("Total - Away",) or (mercado in STATS_OU and STATS_OU[mercado][1] == "away")

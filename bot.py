@@ -199,7 +199,7 @@ def recortar_partido(p):
                 d[STATS_CLAVE[s["type"]]] = num(s.get("value"))
         reg["stats"][str(bloque["team"]["id"])] = d
     for e in p.get("events") or []:
-        if e.get("type") not in ("Goal", "Card"):
+        if e.get("type") not in ("Goal", "Card", "subst"):
             continue
         if "shootout" in str(e.get("comments") or "").lower():
             continue
@@ -210,6 +210,7 @@ def recortar_partido(p):
             "tipo": e["type"],
             "detalle": e.get("detail"),
             "jugador": (e.get("player") or {}).get("name"),
+            **({"otro": (e.get("assist") or {}).get("name")} if e.get("type") == "subst" else {}),
         })
     for bloque in p.get("players") or []:
         lista = []
