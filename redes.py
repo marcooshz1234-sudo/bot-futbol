@@ -153,6 +153,41 @@ def facebook(p, token_usuario, pagina, con_foto):
     return llamar("POST", f"{FACEBOOK}/{pagina}/feed", {"message": texto_final(p), "access_token": token})["id"]
 
 
+def _titulo(t):
+    import re as _re
+    return _re.sub(r"\W+", "", (t or "").strip().split("\n")[0]).lower()[:40]
+
+
+_RECIENTES = {}
+
+
+def ya_esta(red, p, claves, pagina):
+    """¿Hay ya en esa red una publicación con el mismo título en las últimas 3 horas? (evita dobles,
+    también los que vienen de Metricool o de otra herramienta)."""
+    from datetime import timezone
+    if red not in _RECIENTES:
+        if red == "threads":
+            r = llamar("GET", f"{THREADS}/me/threads", {"fields": "text,timestamp", "limit": 15, "access_token": claves["threads"]})
+            _RECIENTES[red] = [(x.get("timestamp"), x.get("text")) for x in r.get("data", [])]
+        elif red == "instagram":
+            r = llamar("GET", f"{INSTAGRAM}/me/media", {"fields": "caption,timestamp,media_type", "limit": 15, "access_token": claves["instagram"]})
+            _RECIENTES[red] = [(x.get("timestamp"), x.get("caption")) for x in r.get("data", []) if x.get("media_type") != "VIDEO"]
+        else:
+            pag, tok = pagina_facebook(claves["facebook"], pagina)
+            r = llamar("GET", f"{FACEBOOK}/{pag}/posts", {"fields": "message,created_time", "limit": 15, "access_token": tok})
+            _RECIENTES[red] = [(x.get("created_time"), x.get("message")) for x in r.get("data", [])]
+    limite = datetime.now(timezone.utc) - timedelta(hours=3)
+    mio = _titulo(p["texto"])
+    for ts, texto in _RECIENTES[red]:
+        try:
+            t = datetime.fromisoformat((ts or "").replace("+0000", "+00:00"))
+        except ValueError:
+            continue
+        if t >= limite and mio and _titulo(texto) == mio:
+            return True
+    return False
+
+
 # ------------------------------------------------------------------ bucle
 
 def main(objetivo=None):
@@ -218,6 +253,16 @@ def main(objetivo=None):
         for red, hacer in tareas:
             if objetivo and red != objetivo[1]:
                 continue
+            if red in ("threads", "instagram", "facebook") and not p.get("forzar"):   # forzar: corrección de un post
+                try:
+                    if ya_esta(red, p, claves, pagina):
+                        hecho[red] = "ya-publicado"
+                        errores.pop(red, None)
+                        print(f"{red}: {p['id']} ya estaba publicado (mismo título en las últimas 3 h); no se repite")
+                        cambios += 1
+                        continue
+                except Exception as e:
+                    print(f"{red}: no se pudo comprobar duplicados ({e})")
             if ambiguo(errores.get(red)):
                 continue
             if ahora - cuando > MAX_RETRASO and red != "instagram_reel":
