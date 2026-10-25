@@ -39,6 +39,7 @@ PIE = "🔞 +18 | Juego responsable"
 MAX_RETRASO = timedelta(minutes=45)
 REEL_TRAS = timedelta(minutes=10)
 LIMITE_THREADS = 500
+TEMA_THREADS = "Apuestas deportivas"
 
 THREADS = "https://graph.threads.net/v1.0"
 INSTAGRAM = "https://graph.instagram.com/v21.0"
@@ -105,7 +106,16 @@ def threads(p, token):
         t = "\n".join(l for l in t.split("\n") if not l.startswith("📊")).replace("\n\n\n", "\n\n")
     if len(t) > LIMITE_THREADS:
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
-    c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": t, "access_token": token})
+    datos = {"media_type": "TEXT", "text": t, "access_token": token}
+    if TEMA_THREADS:
+        datos["topic_tag"] = TEMA_THREADS   # el tema que sale al lado del nombre: combilocas › Apuestas deportivas
+    try:
+        c = llamar("POST", f"{THREADS}/me/threads", datos)
+    except RuntimeError as e:
+        if "topic" not in str(e).lower():
+            raise
+        datos.pop("topic_tag")   # si Threads rechaza el tema, se publica igual sin él
+        c = llamar("POST", f"{THREADS}/me/threads", datos)
     time.sleep(3)
     return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
