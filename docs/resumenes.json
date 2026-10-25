@@ -145,10 +145,10 @@
   },
   "2026-10-25": {
     "dia": "2026-10-25",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
-      "rojo": 0,
+      "rojo": 1,
       "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
@@ -176,7 +176,7 @@
       {
         "id": "2026-10-25-loca",
         "titulo": "📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 4.36
       },
       {
@@ -184,8 +184,14 @@
         "titulo": "🪜 RETO ESCALERA · DÍA 2/7",
         "estado": "pendiente",
         "cuota": 2.21
+      },
+      {
+        "id": "2026-10-25-combi-freiburg-bayern",
+        "titulo": "🇩🇪 FREIBURG 🆚 BAYERN",
+        "estado": "pendiente",
+        "cuota": 9.75
       }
     ],
-    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n⏳ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21 · pendiente\n⏳ 📊 COMBI DE DATOS DEL DOMINGO · 1,64 · pendiente\n⏳ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · 2,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n⏳ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21 · pendiente\n⏳ 📊 COMBI DE DATOS DEL DOMINGO · 1,64 · pendiente\n❌ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · 2,21 · pendiente\n⏳ 🇩🇪 FREIBURG 🆚 BAYERN · 9,75 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 5 sin resolver"
   }
 }
