@@ -365,7 +365,9 @@
     "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.",
     "foto": null,
     "directo": false,
-    "origen": "editorial"
+    "origen": "editorial",
+    "enviado": "2026-10-25T17:05",
+    "mensaje_id": 98
   },
   {
     "id": "2026-10-25-clasico-datos",
