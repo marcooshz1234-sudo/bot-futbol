@@ -21,6 +21,17 @@ jobs:
           FACEBOOK_PAGINA: ${{ secrets.FACEBOOK_PAGINA }}
         run: |
           python -u comprobar_redes.py || true
+          python - <<'PY' || true
+          import os, json
+          from redes import llamar, FACEBOOK
+          try:
+              r = llamar("GET", f"{FACEBOOK}/me/permissions", {"access_token": os.environ["FACEBOOK_TOKEN"]})
+              ok = sorted(p["permission"] for p in r.get("data", []) if p.get("status") == "granted")
+          except Exception as e:
+              ok = [f"error: {e}"]
+          e = json.load(open("publicaciones/estado_redes.json")); e["facebook_permisos"] = ok
+          json.dump(e, open("publicaciones/estado_redes.json", "w"), ensure_ascii=False, indent=1)
+          PY
           python -u estadisticas.py
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
