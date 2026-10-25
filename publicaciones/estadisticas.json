@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 17:00",
+ "actualizado": "2026-10-25 17:11",
  "redes": {
   "instagram": {
    "seguidores": 18,
@@ -38,9 +38,9 @@
  "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:05",
+  "hora": "17:30",
   "dia": "2026-10-25",
-  "titulo": "Guía de las selecciones"
+  "titulo": "3 opciones para hoy · domingo"
  },
  "ayer": {
   "aciertos": 13,
@@ -70,6 +70,11 @@
   }
  },
  "tipos_instagram": {
+  "Picks": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 11,
    "likes_media": 0.1,
@@ -91,11 +96,6 @@
    "comentarios_media": 0.0
   },
   "Picks (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks": {
    "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
@@ -146,7 +146,7 @@
    "comentarios_media": 0.0
   },
   "Verdes/balance": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
