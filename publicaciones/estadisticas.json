@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 20:32",
+ "actualizado": "2026-10-25 20:42",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -75,11 +75,6 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 12,
-   "likes_media": 0.1,
-   "comentarios_media": 0.0
-  },
   "Combi de partido": {
    "posts": 12,
    "likes_media": 0.0,
@@ -93,6 +88,11 @@
   "Picks": {
    "posts": 6,
    "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi de partido (reel)": {
+   "posts": 11,
+   "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
@@ -136,7 +136,7 @@
    "comentarios_media": 0.0
   },
   "Combi segura": {
-   "posts": 2,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

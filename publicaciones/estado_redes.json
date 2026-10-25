@@ -1,7 +1,13 @@
 {
- "comprobado": "2026-10-25 20:20",
+ "comprobado": "2026-10-25 20:42",
  "instagram": "OK · combilocas (BUSINESS)",
  "threads": "OK · combilocas",
  "facebook": "OK · Combilocas",
- "avisado": "2026-10-25"
+ "avisado": "2026-10-25",
+ "facebook_permisos": [
+  "pages_manage_posts",
+  "pages_read_engagement",
+  "pages_show_list",
+  "public_profile"
+ ]
 }
