@@ -39,6 +39,7 @@ PIE = "🔞 +18 | Juego responsable"
 MAX_RETRASO = timedelta(minutes=45)
 REEL_TRAS = timedelta(minutes=10)
 INSTAGRAM_SOLO_REEL = True
+FACEBOOK_ACTIVO = False   # 26/10: pausado a petición del dueño; poner True para volver a publicar
 LIMITE_THREADS = 500
 TEMA_THREADS = "Apuestas deportivas"
 
@@ -253,7 +254,7 @@ def main(objetivo=None):
         if (not INSTAGRAM_SOLO_REEL and claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
                 and ahora >= cuando + REEL_TRAS and hecho.get("instagram")):
             tareas.append(("instagram_reel", lambda: instagram(p, claves["instagram"], reel=True)))
-        if claves["facebook"] and "facebook" not in hecho:
+        if FACEBOOK_ACTIVO and claves["facebook"] and "facebook" not in hecho:
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
             tareas.append(("facebook", lambda tipo=tipo: facebook(p, claves["facebook"], pagina, tipo == "foto")))
         for red, hacer in tareas:

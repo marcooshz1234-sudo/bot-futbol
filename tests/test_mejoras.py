@@ -123,7 +123,7 @@ class ReintentosTest(unittest.TestCase):
             enviar.assert_called_once_with(objetivo=('post', 'telegram'))
 
     def test_redes_reintenta_solo_la_red_fallida(self):
-        with patch.multiple(redes, RAIZ=self.root, COLA=self.pub/'cola.json', AUTO=self.pub/'auto.json',
+        with patch.multiple(redes, RAIZ=self.root, COLA=self.pub/'cola.json', AUTO=self.pub/'auto.json', FACEBOOK_ACTIVO=True,
                            CONTROL=self.pub/'control.json', ESTADO_AUTO=self.pub/'enviados_redes.json'), \
                 patch.dict(os.environ, {'THREADS_TOKEN': 'simulado', 'FACEBOOK_TOKEN': 'simulado'}, clear=True), \
                 patch.object(redes, 'threads') as threads, patch.object(redes, 'facebook', return_value='nuevo') as fb:
