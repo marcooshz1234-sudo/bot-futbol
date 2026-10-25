@@ -496,7 +496,16 @@
     "foto": null,
     "origen": "claude",
     "directo": true,
-    "facebook": "foto"
+    "facebook": "foto",
+    "enviado": "2026-10-25T20:39",
+    "mensaje_id": 106,
+    "redes": {
+      "threads": "18199464823381365",
+      "instagram": "18106045298363432"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   },
   {
     "id": "2026-10-25-clasico-datos-v2",
@@ -505,6 +514,15 @@
     "foto": null,
     "origen": "claude",
     "directo": true,
-    "facebook": "texto"
+    "facebook": "texto",
+    "enviado": "2026-10-25T20:39",
+    "mensaje_id": 107,
+    "redes": {
+      "threads": "18113343080146381",
+      "instagram": "18108469877610111"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   }
 ]
