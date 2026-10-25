@@ -1,0 +1,85 @@
+[
+  {
+    "id": "2026-10-25-escalera-datos",
+    "fecha": "2026-10-25T14:10",
+    "formato": "post",
+    "texto": "📋 LA ESCALERA, CON DATOS\n\nUdinese–Milan: 2+ goles en 6/7 del Udinese y 10/10 del Milan.\nAuxerre–Le Mans: 3+ goles en 6/7 de cada equipo.\n\nSon las dos selecciones del escalón de hoy. La muestra es pequeña y cada partido tiene rivales distintos: estos registros no son la probabilidad de acertar la combinada.\n\nPrimero se resuelve el escalón de hoy; el siguiente se revisa después.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
+    "id": "2026-10-25-guia-selecciones",
+    "fecha": "2026-10-25T17:05",
+    "formato": "post",
+    "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
+    "id": "2026-10-25-clasico-datos",
+    "fecha": "2026-10-25T20:15",
+    "formato": "post",
+    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
+    "id": "2026-10-25-story-agenda",
+    "fecha": "2026-10-25T13:20",
+    "formato": "story",
+    "texto": "📅 LA TARDE DE FÚTBOL\n\n15:30 · Hoffenheim–Leverkusen\n17:15 · Rennes–Strasbourg\n17:30 · Freiburg–Bayern\n21:00 · Barça–Madrid\n\nHoras de Madrid. El PSG–Lyon es mañana, lunes 26, a las 20:30.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-escalera",
+    "fecha": "2026-10-25T13:50",
+    "formato": "story",
+    "texto": "🪜 EL ESCALÓN DE HOY\n\nUdinese–Milan: más de 1,5 goles.\nAuxerre–Le Mans: más de 2,5 goles.\n\nDos partidos distintos. El escalón siguiente se revisa cuando termine este; no hay siete días de aciertos asegurados.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-monaco",
+    "fecha": "2026-10-25T14:45",
+    "formato": "story",
+    "texto": "📊 EL DATO DE MONACO–LILLE\n\nEn 8/10 partidos de cada equipo hubo menos de 4,5 córners en la primera parte.\n\nEs una frecuencia del historial guardado, con rivales distintos. No garantiza lo que pasará hoy. Observa también cómo empieza el partido.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-freiburg",
+    "fecha": "2026-10-25T15:20",
+    "formato": "story",
+    "texto": "🚩 EL DATO DEL FREIBURG\n\nEl Freiburg sacó 3+ córners en 10/10 partidos registrados.\nEl Bayern concedió 3+ en 7/9.\n\n3+ significa tres o más. No es lo mismo que más de tres. Muestra histórica pequeña; el rival y el guion de hoy cuentan.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-titulares",
+    "fecha": "2026-10-25T16:45",
+    "formato": "story",
+    "texto": "👥 ANTES DEL FREIBURG–BAYERN\n\nLa combi incluye remates de Eggestein, Ginter y Matanović.\n\nComprueba que los tres sean titulares antes de usarla. Esta story no confirma la alineación. La cuota y las reglas de participación pueden variar.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-portero",
+    "fecha": "2026-10-25T18:15",
+    "formato": "story",
+    "texto": "🧤 COURTOIS, EN DATOS\n\nCuatro o más paradas en 8 de los 10 partidos completos registrados.\n\nLas paradas dependen de los tiros a puerta del rival y de los goles encajados. No basta con que el partido tenga muchos remates. Comprueba su titularidad.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-cuota",
+    "fecha": "2026-10-25T20:00",
+    "formato": "story",
+    "texto": "🎯 QUÉ SIGNIFICA CUOTA 11\n\n1 ÷ 11 = 9,1 % de probabilidad implícita en el precio, antes de ajustar el margen.\n\nNo es nuestra estimación de acierto ni una garantía. Las cinco condiciones de la combi deben cumplirse; una buena racha individual no convierte la combinada en segura.",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-story-directo",
+    "fecha": "2026-10-25T21:15",
+    "formato": "story",
+    "texto": "⚽ SIGUE LOS PARTIDOS\n\nMarcadores, progreso de los picks y partidos terminados en la web de Combilocas.\n\nComprueba la hora de actualización. Si faltan datos, una selección no debe darse por acertada o fallada.\n\nmarcooshz1234-sudo.github.io/bot-futbol/",
+    "foto": null
+  }
+]
