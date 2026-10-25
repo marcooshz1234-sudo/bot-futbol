@@ -16,7 +16,8 @@ ALIAS = {"niza": "nice", "gladbach": "monchengladbach", "forest": "nottingham", 
          "betis": "betis", "barca": "barcelona", "inter": "inter", "milan": "ac milan", "psg": "paris saint germain",
          "bayern": "bayern", "leverkusen": "leverkusen", "dortmund": "dortmund", "spurs": "tottenham",
          "man city": "manchester city", "city": "manchester city", "united": "manchester united",
-         "brest": "brestois", "roma": "roma", "athletic": "athletic", "real sociedad": "real sociedad"}
+         "brest": "brestois", "roma": "roma", "athletic": "athletic", "real sociedad": "real sociedad",
+         "marsella": "marseille"}
 EN_JUEGO = {"1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT"}
 FIN = {"FT", "AET", "PEN"}
 
@@ -77,11 +78,24 @@ def entender(t):
     n = re.sub(r"^\+(\d)", r"mas de \1", n)
     n = re.sub(r"^marca (?:el |la )?(.+)$", r"\1 marca", n)
     n = n.removesuffix(" en el partido").replace("gana alguna de las dos partes", "gana una parte")
+    n = re.sub(r"\bremates?\b", "tiros", n)
+    n = re.sub(r"\s+totales?$", "", n)
+    n = re.sub(r",?\s+solo si (?:es|son) titular(?:es)?$", "", n)
     n = {"sin empate": "no hay empate"}.get(n, n)
-    m = re.match(r"^mas de (\d+(?:[.,]\d+)?) (goles|corners) en la (1a|primera|2a|segunda) parte$", n)
+    m = re.match(r"^(mas|menos) de (\d+(?:[.,]\d+)?) (goles|corners) en la (1a|primera|2a|segunda) parte$", n)
     if m:
-        return {"t": "goles_parte" if m[2] == "goles" else "corners_parte",
-                "n": num(m[1]), "parte": 1 if m[3] in ("1a", "primera") else 2}, ctx
+        spec = {"t": "goles_parte" if m[3] == "goles" else "corners_parte",
+                "n": num(m[2]), "parte": 1 if m[4] in ("1a", "primera") else 2}
+        if m[1] == "menos":
+            spec['sentido'] = 'menos'
+        return spec, ctx
+    m = re.match(r"^(.+?)(?: saca| tiene| hace)? menos de (\d+(?:[.,]\d+)?) corners?$", n)
+    if m:
+        return {"t": "eq_corners_menos", "eq": m[1], "n": num(m[2])}, ctx
+    m = re.match(r"^menos de (\d+(?:[.,]\d+)?) (tiros a puerta|tiros|corners|tarjetas)$", n)
+    if m:
+        campo = {'tiros a puerta': 'a_puerta', 'tiros': 'tiros', 'corners': 'corners', 'tarjetas': 'tarjetas'}[m[2]]
+        return {"t": "estadistica_menos", "campo": campo, "n": num(m[1])}, ctx
     m = re.match(r"^(.+?) (?:saca|ve) (\d+) o mas (corners|tarjetas)$", n)
     if m:
         return {"t": "eq_corners" if m[3] == "corners" else "eq_tarjetas", "eq": m[1], "n": int(m[2])}, ctx
@@ -107,7 +121,7 @@ def entender(t):
         (r"^mas de (\d+(?:[.,]\d+)?) tiros$", lambda g: {"t": "tiros_mas", "n": num(g)}),
         (r"^(.+?) marca (\d+) o mas$", None),
         (r"^(.+?) marca$", lambda g: {"t": "eq_goles", "eq": g, "n": 1}),
-        (r"^(.+?) (?:saca|tiene|hace) (\d+)\+ corners?$", None),
+        (r"^(.+?)(?: saca| tiene| hace)? (\d+)\+ corners?$", None),
         (r"^(.+?) saca mas de (\d+(?:[.,]\d+)?) corners?$", None),
         (r"^(.+?) ve (\d+)\+ tarjetas?$", None),
         (r"^(.+?) ve mas de (\d+(?:[.,]\d+)?) tarjetas?$", None),
@@ -211,6 +225,23 @@ def evaluar(spec, d):
         valores = [s[x].get(k) for x in s]
         return sum(valores) if all(v is not None for v in valores) else None
 
+    def menos(valor, acabado=fin):
+        if valor is None:
+            return 'sin_datos'
+        if valor >= spec['n']:
+            return 'rojo'
+        return 'verde' if acabado else 'va_bien'
+
+    if t == 'estadistica_menos':
+        campo = spec['campo']
+        valor = total('amarillas') if campo == 'tarjetas' else total(campo)
+        if campo == 'tarjetas' and valor is not None:
+            valor += total('rojas') or 0
+        return menos(valor)
+    if t == 'eq_corners_menos':
+        ld = lado(spec['eq'], d)
+        return menos(s[ld].get('corners')) if ld else 'sin_datos'
+
     campos = {"corners_mas": ("corners",), "tarjetas_mas": ("amarillas",), "tiros_mas": ("tiros",),
               "eq_corners": ("corners",), "eq_tarjetas": ("amarillas",), "mas_tiros": ("tiros",)}
     if t in campos and any(total(k) is None for k in campos[t]):
@@ -254,19 +285,27 @@ def evaluar(spec, d):
         return final(min(g) > 0 and sum(g) > spec["n"], False)
     if t == "goles_parte":
         if est == "1H":
+            if spec.get('sentido') == 'menos':
+                return menos(sum(g), False) if spec['parte'] == 1 else 'pendiente'
             return final(sum(g) > spec["n"], False) if spec["parte"] == 1 else "pendiente"
         if ht[0] is None or ht[1] is None:
             return "sin_datos"
         valor = sum(ht) if spec["parte"] == 1 else sum(g) - sum(ht)
+        if spec.get('sentido') == 'menos':
+            return menos(valor, fin or spec['parte'] == 1)
         if spec["parte"] == 1 and est != "1H":
             return "verde" if valor > spec["n"] else "rojo"
         return final(valor > spec["n"], False)
     if t == "corners_parte":
+        if spec['parte'] == 2 and est in ('1H', 'HT'):
+            return 'pendiente'
         valores = [(d.get("corners_partes", {}).get(str(d[ld]["id"])) or {}).get(f"statistics_{spec['parte']}h")
                    for ld in ("local", "visitante")]
         if any(v is None for v in valores):
             return "sin_datos"
         valor = sum(valores)
+        if spec.get('sentido') == 'menos':
+            return menos(valor, fin or (spec['parte'] == 1 and est != '1H'))
         if spec["parte"] == 1 and est != "1H":
             return "verde" if valor > spec["n"] else "rojo"
         return final(valor > spec["n"], False)
@@ -282,7 +321,7 @@ def evaluar(spec, d):
     if t == "goles_mas":
         return final(sum(g) > spec["n"], False)
     if t == "goles_menos":
-        return "rojo" if sum(g) > spec["n"] else final(False, True)
+        return menos(sum(g))
     if t == "corners_mas":
         return final(total("corners") > spec["n"], False)
     if t == "tarjetas_mas":
@@ -326,6 +365,40 @@ def progreso(spec, d):
         return sum(valores) if all(x is not None for x in valores) else None
 
     valor, objetivo, unidad = None, None, None
+    if t in ('estadistica_menos', 'eq_corners_menos', 'goles_menos') or spec.get('sentido') == 'menos':
+        if t == 'eq_corners_menos':
+            ld = lado(spec.get('eq'), d)
+            valor = suma('corners', [d[ld]['id']]) if ld else None
+            unidad = 'córners'
+        elif t == 'goles_menos':
+            g = d.get('goles') or []
+            valor = sum(g) if len(g) == 2 and None not in g else None
+            unidad = 'goles'
+        elif t == 'estadistica_menos':
+            campo = spec['campo']
+            valor = suma('amarillas') if campo == 'tarjetas' else suma(campo)
+            if campo == 'tarjetas' and valor is not None:
+                valor += suma('rojas') or 0
+            unidad = {'tiros': 'remates', 'a_puerta': 'remates a puerta', 'corners': 'córners', 'tarjetas': 'tarjetas'}[campo]
+        else:
+            parte = spec['parte']
+            if parte == 2 and d['estado'] in ('1H', 'HT'):
+                return None
+            if t == 'corners_parte':
+                vs = [(d.get('corners_partes', {}).get(str(eq)) or {}).get(f'statistics_{parte}h') for eq in equipos]
+                valor = sum(vs) if all(v is not None for v in vs) else None
+                unidad = 'córners de la parte'
+            else:
+                g, ht = d.get('goles') or [], d.get('descanso') or []
+                if parte == 1 and d['estado'] == '1H':
+                    valor = sum(g) if len(g) == 2 and None not in g else None
+                elif len(ht) == 2 and None not in ht:
+                    valor = sum(ht) if parte == 1 else sum(g) - sum(ht) if len(g) == 2 and None not in g else None
+                unidad = 'goles de la parte'
+        if valor is None:
+            return None
+        return {'actual': valor, 'limite': spec['n'], 'unidad': unidad,
+                'texto': f"{valor:g} {unidad} · menos de {spec['n']:g}", 'sin_barra': True}
     if t == 'jugador':
         nombre = norm(spec['jugador'])
         candidatos = [j for lista in (d.get('jugadores') or {}).values() for j in lista
