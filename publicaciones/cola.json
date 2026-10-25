@@ -108,12 +108,92 @@
     "mensaje_id": 54
   },
   {
+    "id": "2026-10-23-verde-granada-valladolid",
+    "fecha": "2026-10-23T22:01",
+    "texto": "✅💚 ¡VERDE! GRANADA 🆚 VALLADOLID 💚✅\n\n✅ Ambos marcan\n✅ Más de 2,5 goles\n✅ Arnu 1+ remate a puerta\n✅ Latasa 1+ remate a puerta\n✅ Pascual 1+ remate a puerta\n\n🎯 Cuota 5,06 con el aumento del 25%\n💶 10€ → 50,63€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "enviado": "2026-10-23T22:02",
+    "mensaje_id": 55,
+    "redes": {
+      "threads": "17914882893549657",
+      "instagram": "18571594423072599",
+      "instagram_reel": "18395344099163412",
+      "facebook": null
+    },
+    "errores_redes": {
+      "facebook": "caducado: no salió a tiempo"
+    }
+  },
+  {
+    "id": "2026-10-23-verde-segura",
+    "fecha": "2026-10-23T22:11",
+    "texto": "✅💚 ¡VERDE LA COMBI SEGURA! 💚✅\n\n✅ Más de 1,5 goles en Torino–Monza\n✅ Gol en la 1ª parte del Brest–Niza\n\n🎯 Cuota 1,66\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "enviado": "2026-10-23T22:24",
+    "mensaje_id": 57,
+    "redes": {
+      "threads": "18657738403046811",
+      "instagram": "18094183490275319",
+      "instagram_reel": "17964094494200131",
+      "facebook": null
+    },
+    "errores_redes": {
+      "facebook": "caducado: no salió a tiempo"
+    }
+  },
+  {
+    "id": "2026-10-23-balance",
+    "fecha": "2026-10-23T22:58",
+    "texto": "📊 BALANCE DEL VIERNES 📊\n\n❌ COMBINADA CUOTA 3 DEL VIERNES · 3/4\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1/2\n✅ COMBI SEGURA DEL VIERNES · 2/2\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪 · 2/5\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 6/6\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 2/5\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 5/5\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 2/5\n❌ COMBI LOCA DEL VIERNES · 2/5\n\n💚 3 de 9 combis en verde\n🎯 Picks: 22 ✅ aciertos · 10 ❌ fallos\n\nMañana más y mejor 💪🍀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "enviado": "2026-10-23T22:58",
+    "mensaje_id": 58,
+    "redes": {
+      "threads": "18057993263796942",
+      "facebook": null
+    },
+    "errores_redes": {
+      "facebook": "caducado: no salió a tiempo"
+    },
+    "editado": "2026-10-23T23:02"
+  },
+  {
     "id": "2026-10-23-picks-manana",
     "fecha": "2026-10-23T23:00",
     "texto": "🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n🇪🇸 Rayo–Elche: +1,5 goles · 1,25\n🇪🇸 Marca el Espanyol · 1,25\n🇮🇹 Marca el Sassuolo · 1,40\n🇮🇹 Cagliari–Bologna: gol 2ª parte · 1,28\n🇩🇪 Vandevoordt (Leipzig) 2+ paradas · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Coventry–Fulham: sin empate · 1,30\n🇮🇹 Napoli–Roma: sin empate · 1,36\n🇮🇹 Lazio gana una parte · 1,25\n🇫🇷 Lens–Paris FC: sin empate · 1,28\n\n📊 El Espanyol ha marcado en 8 de sus 9 últimos ⚽\n\n¡Combina máximo 2 o 3! 🍀",
     "foto": null,
     "enviado": "2026-10-23T23:00",
     "mensaje_id": 59
+  },
+  {
+    "id": "2026-10-23-balance-final",
+    "fecha": "2026-10-23T23:02",
+    "texto": "📊 BALANCE DEL VIERNES 📊\n\n❌ COMBINADA CUOTA 3 DEL VIERNES · 3/4\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1/2\n✅ COMBI SEGURA DEL VIERNES · 2/2\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪 · 2/5\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 6/6\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 2/5\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 5/5\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 2/5\n❌ COMBI LOCA DEL VIERNES · 2/5\n\n💚 3 de 9 combis en verde\n🎯 Picks: 22 ✅ aciertos · 10 ❌ fallos\n\nMañana más y mejor 💪🍀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_redes": true,
+    "redes": {
+      "threads": "18132082765692689",
+      "facebook": null
+    },
+    "errores_redes": {
+      "facebook": "caducado: no salió a tiempo"
+    }
   },
   {
     "id": "2026-10-24-cuota3",
@@ -189,6 +269,26 @@
     "editado": "2026-10-25T00:10"
   },
   {
+    "id": "2026-10-24-balance-auto",
+    "fecha": "2026-10-24T23:30",
+    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n❌ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n⏳ 🔥 9 PICKS PARA MAÑANA (DOMINGO) 🔥 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 8 falladas · ⏳ 2 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos.",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "enviado": "2026-10-24T23:31",
+    "mensaje_id": 84,
+    "redes": {
+      "threads": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "caducado: no salió a tiempo",
+      "facebook": "caducado: no salió a tiempo"
+    }
+  },
+  {
     "id": "2026-10-25-cuota3",
     "fecha": "2026-10-25T11:00",
     "texto": "💥 COMBINADA DEL DOMINGO · 3 PICKS 💥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Marca el Bournemouth · 1,28\n🇫🇷 El Troyes saca 4 o más córners · 1,62\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 El Newcastle ve 2 o más tarjetas · 1,50\n\n🎯 Cuota orientativa: 3,11\n💶 10€ → 31,10€ a cuota 3,11\n\n📊 Bournemouth ha marcado en 9 de sus 10 últimos partidos; United ha encajado en 9 de 10.\nCuotas de la captura del 24/10; revisa el precio antes de combinar.",
@@ -213,143 +313,6 @@
     "mensaje_id": 90
   },
   {
-    "id": "2026-10-25-combi-freiburg-bayern",
-    "fecha": "2026-10-25T16:00",
-    "texto": "🇩🇪 FREIBURG 🆚 BAYERN\n💥 COMBI DEL PARTIDO\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota conjunta: 9,75\n💶 10€ → 97,50€ a cuota 9,75\n\nCuota consultada el 25/10; puede variar. Jugadores: solo si son titulares.",
-    "foto": "publicaciones/fotos/2026-10-25-freiburg-bayern.jpg",
-    "pausado": false,
-    "enviado": "2026-10-25T16:00",
-    "mensaje_id": 96
-  },
-  {
-    "id": "2026-10-25-picks-hoy",
-    "fecha": "2026-10-25T17:30",
-    "texto": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.",
-    "foto": null,
-    "enviado": "2026-10-25T17:30",
-    "mensaje_id": 99
-  },
-  {
-    "id": "2026-10-25-combi-psg-lyon",
-    "fecha": "2026-10-26T18:30",
-    "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
-    "foto": null,
-    "pausado": false
-  },
-  {
-    "id": "2026-10-25-combi-barca-madrid",
-    "fecha": "2026-10-25T19:30",
-    "texto": "🇪🇸 BARÇA 🆚 MADRID\n💥 COMBI DEL PARTIDO\n\n✅ Gana el Barça\n✅ Courtois 4+ paradas\n✅ Mbappé 4+ remates\n✅ Barça menos de 7 córners\n✅ Menos de 32,5 remates totales\n\n🎯 Cuota conjunta: 11,00\n💶 10€ → 110,00€ a cuota 11,00\n\nCuota consultada el 25/10; puede variar. Courtois y Mbappé: solo si son titulares.",
-    "foto": "publicaciones/fotos/2026-10-25-barca-madrid.jpg",
-    "pausado": false
-  },
-  {
-    "id": "2026-10-26-sevilla-osasuna",
-    "fecha": "2026-10-26T13:00",
-    "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — PICK PARA HOY\n\n✅ Más de 1,5 goles\n\n🎯 Cuota de referencia: 1,36 (captura del 24/10)\n\n📊 Se cumplió en 7 de los 9 últimos partidos de cada equipo. Revisa el precio antes de apostar.\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null
-  },
-  {
-    "id": "2026-10-23-verde-granada-valladolid",
-    "fecha": "2026-10-23T22:01",
-    "texto": "✅💚 ¡VERDE! GRANADA 🆚 VALLADOLID 💚✅\n\n✅ Ambos marcan\n✅ Más de 2,5 goles\n✅ Arnu 1+ remate a puerta\n✅ Latasa 1+ remate a puerta\n✅ Pascual 1+ remate a puerta\n\n🎯 Cuota 5,06 con el aumento del 25%\n💶 10€ → 50,63€\n\n¿Quién la llevaba? 👇💚",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "enviado": "2026-10-23T22:02",
-    "mensaje_id": 55,
-    "redes": {
-      "threads": "17914882893549657",
-      "instagram": "18571594423072599",
-      "instagram_reel": "18395344099163412",
-      "facebook": null
-    },
-    "errores_redes": {
-      "facebook": "caducado: no salió a tiempo"
-    }
-  },
-  {
-    "id": "2026-10-23-verde-segura",
-    "fecha": "2026-10-23T22:11",
-    "texto": "✅💚 ¡VERDE LA COMBI SEGURA! 💚✅\n\n✅ Más de 1,5 goles en Torino–Monza\n✅ Gol en la 1ª parte del Brest–Niza\n\n🎯 Cuota 1,66\n\n¿Quién la llevaba? 👇💚",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "enviado": "2026-10-23T22:24",
-    "mensaje_id": 57,
-    "redes": {
-      "threads": "18657738403046811",
-      "instagram": "18094183490275319",
-      "instagram_reel": "17964094494200131",
-      "facebook": null
-    },
-    "errores_redes": {
-      "facebook": "caducado: no salió a tiempo"
-    }
-  },
-  {
-    "id": "2026-10-23-balance",
-    "fecha": "2026-10-23T22:58",
-    "texto": "📊 BALANCE DEL VIERNES 📊\n\n❌ COMBINADA CUOTA 3 DEL VIERNES · 3/4\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1/2\n✅ COMBI SEGURA DEL VIERNES · 2/2\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪 · 2/5\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 6/6\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 2/5\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 5/5\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 2/5\n❌ COMBI LOCA DEL VIERNES · 2/5\n\n💚 3 de 9 combis en verde\n🎯 Picks: 22 ✅ aciertos · 10 ❌ fallos\n\nMañana más y mejor 💪🍀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "facebook": "texto",
-    "sin_instagram": true,
-    "enviado": "2026-10-23T22:58",
-    "mensaje_id": 58,
-    "redes": {
-      "threads": "18057993263796942",
-      "facebook": null
-    },
-    "errores_redes": {
-      "facebook": "caducado: no salió a tiempo"
-    },
-    "editado": "2026-10-23T23:02"
-  },
-  {
-    "id": "2026-10-23-balance-final",
-    "fecha": "2026-10-23T23:02",
-    "texto": "📊 BALANCE DEL VIERNES 📊\n\n❌ COMBINADA CUOTA 3 DEL VIERNES · 3/4\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) · 1/2\n✅ COMBI SEGURA DEL VIERNES · 2/2\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪 · 2/5\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 6/6\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 2/5\n✅ 🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸 · 5/5\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 2/5\n❌ COMBI LOCA DEL VIERNES · 2/5\n\n💚 3 de 9 combis en verde\n🎯 Picks: 22 ✅ aciertos · 10 ❌ fallos\n\nMañana más y mejor 💪🍀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "facebook": "texto",
-    "sin_instagram": true,
-    "solo_redes": true,
-    "redes": {
-      "threads": "18132082765692689",
-      "facebook": null
-    },
-    "errores_redes": {
-      "facebook": "caducado: no salió a tiempo"
-    }
-  },
-  {
-    "id": "2026-10-24-balance-auto",
-    "fecha": "2026-10-24T23:30",
-    "texto": "📊 BALANCE DEL SÁBADO · 24/10 📊\n\n❌ 💥 COMBINADA CUOTA 4 DEL SÁBADO 💥 · 4,00\n➖ 🔒 COMBI SEGURA DEL SÁBADO 🔒 · 1,66 · jugador sin participación\n❌ 🤪 COMBI LOCA DEL SÁBADO 🤪 · 13,51\n❌ 🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n❌ 🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n❌ 🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪 · 9,50\n❌ 🔥 7 PICKS PARA HOY 🔥\n⏳ 🔥 9 PICKS PARA MAÑANA (DOMINGO) 🔥 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,02\n\n✅ 0 acertadas · ❌ 8 falladas · ⏳ 2 sin resolver\nLos jugadores sin participación no se cuentan como aciertos ni fallos.",
-    "foto": null,
-    "origen": "bot",
-    "directo": true,
-    "facebook": "texto",
-    "sin_instagram": true,
-    "enviado": "2026-10-24T23:31",
-    "mensaje_id": 84,
-    "redes": {
-      "threads": null,
-      "facebook": null
-    },
-    "errores_redes": {
-      "threads": "caducado: no salió a tiempo",
-      "facebook": "caducado: no salió a tiempo"
-    }
-  },
-  {
     "id": "2026-10-25-escalera-datos",
     "fecha": "2026-10-25T14:10",
     "formato": "post",
@@ -359,26 +322,6 @@
     "origen": "editorial",
     "enviado": "2026-10-25T14:15",
     "mensaje_id": 92
-  },
-  {
-    "id": "2026-10-25-guia-selecciones",
-    "fecha": "2026-10-25T17:05",
-    "formato": "post",
-    "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.",
-    "foto": null,
-    "directo": false,
-    "origen": "editorial",
-    "enviado": "2026-10-25T17:05",
-    "mensaje_id": 98
-  },
-  {
-    "id": "2026-10-25-clasico-datos",
-    "fecha": "2026-10-25T20:15",
-    "formato": "post",
-    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.",
-    "foto": null,
-    "directo": false,
-    "origen": "editorial"
   },
   {
     "id": "2026-10-25-escalera-dia2-corregida",
@@ -410,6 +353,26 @@
     "facebook_tipo": "foto"
   },
   {
+    "id": "2026-10-25-combi-freiburg-bayern",
+    "fecha": "2026-10-25T16:00",
+    "texto": "🇩🇪 FREIBURG 🆚 BAYERN\n💥 COMBI DEL PARTIDO\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota conjunta: 9,75\n💶 10€ → 97,50€ a cuota 9,75\n\nCuota consultada el 25/10; puede variar. Jugadores: solo si son titulares.",
+    "foto": "publicaciones/fotos/2026-10-25-freiburg-bayern.jpg",
+    "pausado": false,
+    "enviado": "2026-10-25T16:00",
+    "mensaje_id": 96
+  },
+  {
+    "id": "2026-10-25-guia-selecciones",
+    "fecha": "2026-10-25T17:05",
+    "formato": "post",
+    "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial",
+    "enviado": "2026-10-25T17:05",
+    "mensaje_id": 98
+  },
+  {
     "id": "2026-10-25-threads-guia",
     "fecha": "2026-10-25T17:06",
     "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.\n\n🔞 +18 | Juego responsable",
@@ -428,6 +391,14 @@
     }
   },
   {
+    "id": "2026-10-25-picks-hoy",
+    "fecha": "2026-10-25T17:30",
+    "texto": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.",
+    "foto": null,
+    "enviado": "2026-10-25T17:30",
+    "mensaje_id": 99
+  },
+  {
     "id": "2026-10-25-threads-opciones",
     "fecha": "2026-10-25T17:30",
     "texto": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.\n\n🔞 +18 | Juego responsable",
@@ -442,8 +413,15 @@
       "instagram": null,
       "instagram_reel": null,
       "facebook": null,
-      "threads": "18126342019916141"
+      "threads": "18067953374786878"
     }
+  },
+  {
+    "id": "2026-10-25-combi-barca-madrid",
+    "fecha": "2026-10-25T19:30",
+    "texto": "🇪🇸 BARÇA 🆚 MADRID\n💥 COMBI DEL PARTIDO\n\n✅ Gana el Barça\n✅ Courtois 4+ paradas\n✅ Mbappé 4+ remates\n✅ Barça menos de 7 córners\n✅ Menos de 32,5 remates totales\n\n🎯 Cuota conjunta: 11,00\n💶 10€ → 110,00€ a cuota 11,00\n\nCuota consultada el 25/10; puede variar. Courtois y Mbappé: solo si son titulares.",
+    "foto": "publicaciones/fotos/2026-10-25-barca-madrid.jpg",
+    "pausado": false
   },
   {
     "id": "2026-10-25-threads-clasico",
@@ -458,6 +436,15 @@
     ]
   },
   {
+    "id": "2026-10-25-clasico-datos",
+    "fecha": "2026-10-25T20:15",
+    "formato": "post",
+    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
     "id": "2026-10-25-threads-clasico-datos",
     "fecha": "2026-10-25T20:16",
     "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.\n\n🔞 +18 | Juego responsable",
@@ -468,5 +455,18 @@
     "solo_en": [
       "threads"
     ]
+  },
+  {
+    "id": "2026-10-26-sevilla-osasuna",
+    "fecha": "2026-10-26T13:00",
+    "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — PICK PARA HOY\n\n✅ Más de 1,5 goles\n\n🎯 Cuota de referencia: 1,36 (captura del 24/10)\n\n📊 Se cumplió en 7 de los 9 últimos partidos de cada equipo. Revisa el precio antes de apostar.\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-combi-psg-lyon",
+    "fecha": "2026-10-26T18:30",
+    "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
+    "foto": null,
+    "pausado": false
   }
 ]
