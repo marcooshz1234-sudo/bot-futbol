@@ -84,6 +84,31 @@ def mejores_para_lista(picks):
     return elegidos
 
 
+# 26/10: las combis de partido grande eran el formato más estable en Threads (mediana 1.236 vistas)
+GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "arsenal", "liverpool", "chelsea",
+           "manchester united", "tottenham", "inter", "ac milan", "juventus", "napoli", "roma", "bayern",
+           "borussia dortmund", "bayer leverkusen", "paris saint germain", "marseille", "atalanta", "newcastle")
+BANDERA = {"LaLiga": "🇪🇸", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪",
+           "Ligue 1": "🇫🇷", "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢"}
+CORTO = {"paris saint germain": "PSG", "manchester united": "MAN. UNITED", "manchester city": "MAN. CITY",
+         "bayern münchen": "BAYERN", "borussia dortmund": "DORTMUND", "bayer leverkusen": "LEVERKUSEN",
+         "atletico madrid": "ATLÉTICO", "real madrid": "MADRID", "barcelona": "BARÇA", "ac milan": "MILAN"}
+
+
+def grandeza(c):
+    return sum(any(g in eq.lower() for g in GRANDES) for eq in (c["local"], c["visitante"]))
+
+
+def corto(eq):
+    return CORTO.get(eq.lower(), eq).upper()
+
+
+def combi_partido_grande(d):
+    """La combi de partido del día con más equipos grandes (al menos uno), o None."""
+    cands = [c for c in d.get("combis_partido") or [] if grandeza(c) >= 1 and c.get("picks")]
+    return max(cands, key=lambda c: (grandeza(c), c.get("cuota_sumada", 0)), default=None)
+
+
 # 26/10: cierres que invitan a responder (las respuestas son lo que más mueve Threads). La pregunta de
 # siempre ("¿la pintamos de verde?") rendía menos que no poner nada. Se rotan para no repetir.
 CIERRES = ["👇 ¿Qué pata quitarías tú?",
@@ -145,6 +170,22 @@ def posts_del_dia(dia, d):
             posts.append(("combi-dia", f.replace(hour=12, minute=0), par,
                           f"🎯 LA COMBI x{num(ct)} DEL {nombre} 🎯\n\n{lista(par)}\n\n🎯 Cuota total: {num(ct)}\n"
                           f"💶 10€ → {num(ct * 10)}€\n\n{dato(par)}\n\n{cierre(dia, 'dia')}"))
+
+    cp = combi_partido_grande(d)
+    if cp:
+        cuota = cp.get("cuota_sumada")
+        if not cuota:
+            cuota = 1
+            for p in cp["picks"]:
+                cuota *= p["cuota"]
+        inicio = datetime.fromisoformat(cp["fecha"]).replace(tzinfo=MADRID)
+        apuntar(cp["picks"])
+        posts.append(("combi-partido", inicio - timedelta(hours=2), cp["picks"],
+                      f"{BANDERA.get(cp.get('competicion'), '⚽')} {corto(cp['local'])} 🆚 {corto(cp['visitante'])} · "
+                      f"COMBI x{num(cuota)}\n💥 COMBI DEL PARTIDO · {inicio:%H:%M}\n\n"
+                      + "\n".join(f"✅ {p['texto']}" for p in cp["picks"])
+                      + f"\n\n🎯 Cuota aprox.: {num(cuota)} (en Crear apuesta puede variar)\n"
+                      f"💶 10€ → {num(cuota * 10)}€\n\n{dato(cp['picks'])}\n\n{cierre(dia, 'partido')}"))
 
     esc = leer(DATOS / "escalera.json") or {}
     act = esc.get("actual")

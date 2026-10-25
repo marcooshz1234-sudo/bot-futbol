@@ -20,6 +20,7 @@ NO_ES = re.compile(r"^\s*(✅|📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ F
 
 
 def limpio(t):
+    t = re.sub(r"\s*x\d+(,\d+)?", "", t)   # la cuota ya va en "¡VERDE xN!"
     return re.sub(r"[🔒💥🤪🍀🛡️🎯📊]", "", t).strip()
 
 
@@ -40,7 +41,8 @@ def main():
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
         if not legs or len(legs) != len(p.get("picks", [])):
             continue
-        texto = f"✅💚 ¡VERDE! {limpio(p['titulo'])} 💚✅\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs)
+        x = f" x{num(p['cuota'])}" if p.get("cuota") else ""   # 26/10: la cuota en la primera línea
+        texto = f"✅💚 ¡VERDE{x}! {limpio(p['titulo'])} 💚✅\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs)
         if p.get("cuota"):
             texto += f"\n\n🎯 Cuota {num(p['cuota'])}\n💶 10€ → {num(p['cuota'] * 10)}€"
         texto += "\n\n¿Quién la llevaba? 👇💚"
