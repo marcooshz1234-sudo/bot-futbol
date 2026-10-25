@@ -488,5 +488,23 @@
     "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
     "foto": null,
     "pausado": false
+  },
+  {
+    "id": "2026-10-25-combi-barca-madrid-v2",
+    "fecha": "2026-10-25T20:38",
+    "texto": "🇪🇸 BARÇA 🆚 MADRID\n💥 COMBI DEL PARTIDO\n\n✅ Gana el Barça\n✅ Mbappé 4+ remates\n✅ Lamine Yamal 2+ tiros a puerta\n✅ Barça menos de 7 córners\n✅ Menos de 32,5 remates totales\n\n🎯 Cuota aprox.: ~10 (comprueba en Crear apuesta)\n💶 10€ → ~100€\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto"
+  },
+  {
+    "id": "2026-10-25-clasico-datos-v2",
+    "fecha": "2026-10-25T20:38",
+    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nMbappé: 4+ remates en 7/10 partidos.\nYamal: 2+ tiros a puerta en 6/10 (y en 5 de sus últimos 6).\nBarça: menos de 7 córners en 7/10; el Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. Courtois no juega hoy.\n\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "facebook": "texto"
   }
 ]
