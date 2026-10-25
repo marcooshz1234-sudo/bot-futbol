@@ -397,10 +397,8 @@
     "mensaje_id": 95,
     "redes": {
       "threads": "18097731998441546",
-      "facebook": "1479689078551520_122113462557514330"
-    },
-    "errores_redes": {
-      "instagram": "400: Invalid OAuth access token - Cannot parse access token"
+      "facebook": "1479689078551520_122113462557514330",
+      "instagram": "17996338746047935"
     },
     "facebook_tipo": "foto"
   }
