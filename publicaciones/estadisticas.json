@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 17:22",
+ "actualizado": "2026-10-25 17:33",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -9,11 +9,11 @@
    ]
   },
   "threads": {
-   "seguidores": 919,
+   "seguidores": 920,
    "hoy": null,
    "serie": [
     836,
-    919
+    920
    ]
   },
   "facebook": {
@@ -34,13 +34,13 @@
    ]
   }
  },
- "total": 1011,
+ "total": 1012,
  "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:30",
+  "hora": "19:30",
   "dia": "2026-10-25",
-  "titulo": "3 opciones para hoy · domingo"
+  "titulo": "Barça  madrid"
  },
  "ayer": {
   "aciertos": 13,
@@ -64,12 +64,17 @@
   },
   "2026-10-25": {
    "instagram": 19,
-   "threads": 919,
+   "threads": 920,
    "facebook": 0,
    "telegram": 73
   }
  },
  "tipos_instagram": {
+  "Otros": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Picks": {
    "posts": 6,
    "likes_media": 0.0,
@@ -110,18 +115,13 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Cuota 3 (reel)": {
    "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Cuota 3": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
