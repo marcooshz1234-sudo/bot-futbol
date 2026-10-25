@@ -1,12 +1,10 @@
 {
- "actualizado": "2026-10-25 15:41",
+ "actualizado": "2026-10-25 15:42",
  "redes": {
   "instagram": {
-   "seguidores": 18,
+   "seguidores": null,
    "hoy": null,
-   "serie": [
-    18
-   ]
+   "serie": []
   },
   "threads": {
    "seguidores": 917,
@@ -34,7 +32,7 @@
    ]
   }
  },
- "total": 1008,
+ "total": 990,
  "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
@@ -63,92 +61,10 @@
    "telegram": 72
   },
   "2026-10-25": {
-   "instagram": 18,
    "threads": 917,
    "facebook": 0,
    "telegram": 73
   }
  },
- "tipos_instagram": {
-  "Escalera": {
-   "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Cuota 3 (reel)": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Cuota 3": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 10,
-   "likes_media": 0.1,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido": {
-   "posts": 10,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 5,
-   "likes_media": 0.2,
-   "comentarios_media": 0.0
-  },
-  "Combi loca": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi segura (reel)": {
-   "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi segura": {
-   "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance (reel)": {
-   "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  }
- }
+ "tipos_instagram": {}
 }
