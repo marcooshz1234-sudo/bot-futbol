@@ -31,7 +31,11 @@ def elegir(dia):
     en_segura = {(p["partido_id"], p["mercado"], p["opcion"]) for p in segura.get("picks", [])}
     picks = [p for p in dia["picks"] if not es_sin_empate(p["mercado"], p["opcion"]) and p.get("tipo") != "jugador"   # los de jugador se corrigen aparte
              and (p["partido_id"], p["mercado"], p["opcion"]) not in en_segura]
-    orden = sorted(picks, key=lambda p: (-p["frecuencia"], -p["ventaja"]))
+    # 26/10: con lo aprendido (aprender.py), solo patas cuya probabilidad real supera la de la cuota;
+    # si un día no hay dos así, la escalera espera al día siguiente en vez de jugar algo flojo
+    picks = [p for p in picks if p.get("prob_aprendida") is None or p["prob_aprendida"] >= 1 / p["cuota"] - 0.03]
+    fiab = lambda p: p.get("prob_aprendida") or p["frecuencia"]
+    orden = sorted(picks, key=lambda p: (-fiab(p), -p["ventaja"]))
     mejor = None
     for i, a in enumerate(orden):
         for b in orden[i + 1:]:
@@ -39,7 +43,7 @@ def elegir(dia):
                 continue
             c = a["cuota"] * b["cuota"]
             if CUOTA_MIN <= c <= CUOTA_MAX:
-                nota = a["frecuencia"] + b["frecuencia"]
+                nota = fiab(a) + fiab(b)
                 if not mejor or nota > mejor[0]:
                     mejor = (nota, [a, b], round(c, 2))
         if mejor and i > 10:
@@ -68,8 +72,8 @@ def main():
         if any(r is None for r in res) and datetime.now(MADRID) - ultimo > timedelta(hours=30):
             # pasado más de un día sin dato (p. ej. jugador que no jugó): bet365 la anula → cuenta como acertada
             res = [True if r is None else r for r in res]
-        if all(r is not None for r in res):
-            verde = all(res)
+        if all(r is not None for r in res) or any(r is False for r in res):   # una pata fallada ya es roja
+            verde = all(r is True for r in res)
             act["resultado"] = "verde" if verde else "roja"
             act["aciertos"] = res
             estado["historial"].append(act)

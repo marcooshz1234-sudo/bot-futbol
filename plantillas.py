@@ -292,11 +292,7 @@ def main():
         todos = posts_del_dia(dia, d)
         if dia < AUTO_DESDE:                 # hasta el lunes solo la escalera (lo demás está en Metricool)
             todos = [p for p in todos if p["id"].endswith("-escalera")]
-        else:
-            ayer = (datetime.fromisoformat(dia) - timedelta(days=1)).strftime("%Y-%m-%d")
-            b = balance(dia, [p for p in anteriores.values() if p["id"].startswith(ayer)])
-            if b:
-                todos.append(b)
+        # 26/10: el balance va solo por la noche (resumen_dia.py); el de las 10:30 lo repetía
         for p in todos:
             if p["id"] in publicados:        # publicado en cualquier destino: conservar texto y selecciones
                 continue
