@@ -1,7 +1,7 @@
 # Paris FC – Monaco
 **Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -59,53 +59,53 @@ _Actualizadas: 25/10 16:17_
 ## Estadísticas de equipo
 | | Paris FC (total) | Paris FC en casa | Monaco (total) | Monaco fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 11 | 6 |
-| Forma (últimos 5) | DVDVE | VVEV | VDVEV | DVEVV |
-| Balance | 4V 2E 2D | 3V 1E 0D | 8V 2E 1D | 4V 1E 1D |
-| Goles a favor / partido | 1,62 | 2,25 | 2,00 | 1,50 |
-| Goles en contra / partido | 1,12 | 1,00 | 0,91 | 1,00 |
-| Goles a favor 1ª parte | 0,88 | 1,00 | 1,00 | 0,67 |
+| Partidos analizados | 8 | 4 | 12 | 6 |
+| Forma (últimos 5) | DVDVE | VVEV | EVDVE | DVEVV |
+| Balance | 4V 2E 2D | 3V 1E 0D | 8V 3E 1D | 4V 1E 1D |
+| Goles a favor / partido | 1,62 | 2,25 | 1,92 | 1,50 |
+| Goles en contra / partido | 1,12 | 1,00 | 0,92 | 1,00 |
+| Goles a favor 1ª parte | 0,88 | 1,00 | 0,92 | 0,67 |
 | Goles a favor 2ª parte | 0,75 | 1,25 | 1,00 | 0,83 |
-| Goles en contra 1ª parte | 0,25 | 0,25 | 0,09 | 0,17 |
-| Goles en contra 2ª parte | 0,88 | 0,75 | 0,82 | 0,83 |
-| Más de 1,5 goles | 62% | 75% | 82% | 67% |
-| Más de 2,5 goles | 62% | 75% | 64% | 50% |
-| Más de 3,5 goles | 25% | 25% | 27% | 17% |
-| Ambos marcan | 50% | 50% | 64% | 67% |
-| Portería a cero | 38% | 50% | 27% | 17% |
-| Se queda sin marcar | 38% | 25% | 9% | 17% |
-| xG a favor | 1,73 | 1,84 | 1,20 | 0,97 |
-| xG en contra | 1,04 | 1,22 | 1,31 | 1,39 |
-| Tiros / partido | 13,2 | 14,2 | 12,0 | 11,7 |
-| Tiros a puerta / partido | 4,5 | 6,0 | 5,0 | 4,5 |
-| Tiros recibidos | 9,6 | 9,2 | 13,6 | 16,3 |
-| Tiros a puerta recibidos | 3,5 | 3,2 | 4,2 | 5,0 |
-| Posesión media % | 51 | 51 | 50 | 49 |
-| Córners a favor | 3,5 | 3,0 | 3,8 | 3,3 |
-| Córners en contra | 3,9 | 2,8 | 6,3 | 6,2 |
-| Córners a favor 1ª parte | 1,6 | 1,2 | 1,6 | 1,0 |
-| Córners a favor 2ª parte | 1,9 | 1,8 | 2,2 | 2,3 |
-| Córners totales del partido | 7,4 | 5,8 | 10,1 | 9,5 |
-| Córners totales 1ª parte | 3,0 | 1,5 | 3,8 | 3,7 |
-| Córners totales 2ª parte | 4,4 | 4,2 | 6,3 | 5,8 |
-| Más de 8,5 córners | 25% | 0% | 64% | 67% |
-| Más de 9,5 córners | 12% | 0% | 55% | 50% |
-| Más de 10,5 córners | 12% | 0% | 45% | 50% |
-| Faltas cometidas | 14,0 | 14,0 | 12,3 | 12,8 |
-| Faltas recibidas | 11,5 | 12,0 | 11,4 | 11,2 |
-| Amarillas propias | 2,4 | 2,0 | 1,9 | 1,8 |
-| Amarillas del rival | 1,8 | 2,0 | 1,6 | 2,0 |
+| Goles en contra 1ª parte | 0,25 | 0,25 | 0,17 | 0,17 |
+| Goles en contra 2ª parte | 0,88 | 0,75 | 0,75 | 0,83 |
+| Más de 1,5 goles | 62% | 75% | 83% | 67% |
+| Más de 2,5 goles | 62% | 75% | 58% | 50% |
+| Más de 3,5 goles | 25% | 25% | 25% | 17% |
+| Ambos marcan | 50% | 50% | 67% | 67% |
+| Portería a cero | 38% | 50% | 25% | 17% |
+| Se queda sin marcar | 38% | 25% | 8% | 17% |
+| xG a favor | 1,73 | 1,84 | 1,30 | 0,97 |
+| xG en contra | 1,04 | 1,22 | 1,25 | 1,39 |
+| Tiros / partido | 13,2 | 14,2 | 12,8 | 11,7 |
+| Tiros a puerta / partido | 4,5 | 6,0 | 5,1 | 4,5 |
+| Tiros recibidos | 9,6 | 9,2 | 12,8 | 16,3 |
+| Tiros a puerta recibidos | 3,5 | 3,2 | 4,0 | 5,0 |
+| Posesión media % | 51 | 51 | 52 | 49 |
+| Córners a favor | 3,5 | 3,0 | 4,0 | 3,3 |
+| Córners en contra | 3,9 | 2,8 | 5,8 | 6,2 |
+| Córners a favor 1ª parte | 1,6 | 1,2 | 1,5 | 1,0 |
+| Córners a favor 2ª parte | 1,9 | 1,8 | 2,5 | 2,3 |
+| Córners totales del partido | 7,4 | 5,8 | 9,8 | 9,5 |
+| Córners totales 1ª parte | 3,0 | 1,5 | 3,6 | 3,7 |
+| Córners totales 2ª parte | 4,4 | 4,2 | 6,2 | 5,8 |
+| Más de 8,5 córners | 25% | 0% | 58% | 67% |
+| Más de 9,5 córners | 12% | 0% | 50% | 50% |
+| Más de 10,5 córners | 12% | 0% | 42% | 50% |
+| Faltas cometidas | 14,0 | 14,0 | 12,8 | 12,8 |
+| Faltas recibidas | 11,5 | 12,0 | 11,5 | 11,2 |
+| Amarillas propias | 2,4 | 2,0 | 2,0 | 1,8 |
+| Amarillas del rival | 1,8 | 2,0 | 1,8 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Paris FC | Recibe Paris FC | Tarjetas Paris FC | Goles Monaco | Recibe Monaco | Tarjetas Monaco |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 1 | 4 | 0 | 0 |
-| 16-30' | 3 | 1 | 2 | 2 | 0 | 0 |
-| 31-45' | 2 | 0 | 2 | 5 | 1 | 3 |
-| 46-60' | 2 | 1 | 3 | 5 | 5 | 6 |
-| 61-75' | 0 | 3 | 5 | 2 | 2 | 6 |
-| 76-90' | 4 | 3 | 6 | 4 | 2 | 6 |
+| 16-30' | 3 | 1 | 2 | 2 | 1 | 0 |
+| 31-45' | 2 | 0 | 2 | 5 | 1 | 4 |
+| 46-60' | 2 | 1 | 3 | 5 | 5 | 7 |
+| 61-75' | 0 | 3 | 5 | 3 | 2 | 6 |
+| 76-90' | 4 | 3 | 6 | 4 | 2 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -153,48 +153,48 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Monaco
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Ligue 1 | Monaco 1-1 Lille | casa | 6-1 | 21 (6) - 4 (2) | 3-4 |
 | 2026-10-22 | Conference League | Monaco 3-0 SC Freiburg | casa | 6-11 | 11 (7) - 12 (1) | 3-1 |
 | 2026-10-18 | Ligue 1 | Lorient 1-0 Monaco | fuera | 4-3 | 15 (4) - 9 (3) | 4-2 |
 | 2026-10-15 | Conference League | CSKA Sofia 1-2 Monaco | fuera | 1-12 | 10 (5) - 21 (5) | 1-3 |
 | 2026-10-10 | Ligue 1 | Monaco 2-2 Toulouse | casa | 4-4 | 16 (4) - 8 (4) | 2-2 |
 | 2026-09-18 | Ligue 1 | Monaco 2-1 Lens | casa | 2-8 | 9 (6) - 12 (4) | 1-1 |
-| 2026-09-12 | Ligue 1 | Strasbourg 1-1 Monaco | fuera | 7-2 | 12 (3) - 13 (2) | 1-1 |
 
 ## Jugadores de Monaco
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Lukáš Hrádecký | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
-| Sadibou Sané | D | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 11 | 4 | 0,4 | 0 | 0 |
-| Lamine Camara | M | 11 | 959 | 2 | 1 | 6 | 0,5 | 3 | 0,3 | 15 | 30 | 2,7 | 2 | 0 |
-| Vanderson | D | 10 | 797 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 16 | 4 | 0,4 | 1 | 0 |
-| Aleksandr Golovin | M | 10 | 784 | 1 | 3 | 5 | 0,5 | 4 | 0,4 | 11 | 7 | 0,7 | 4 | 0 |
-| Denis Zakaria | M | 11 | 761 | 0 | 0 | 8 | 0,7 | 4 | 0,4 | 12 | 3 | 0,3 | 2 | 0 |
-| Nazinho | D | 11 | 761 | 1 | 2 | 3 | 0,3 | 2 | 0,2 | 13 | 6 | 0,5 | 3 | 0 |
-| Paris Brunner | F | 9 | 740 | 8 | 1 | 29 | 3,2 | 18 | 2,0 | 8 | 14 | 1,6 | 0 | 0 |
+| L. Hrádecký | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
+| Sadibou Sané | D | 12 | 1080 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 11 | 4 | 0,3 | 0 | 0 |
+| L. Camara | M | 12 | 1049 | 2 | 1 | 7 | 0,6 | 3 | 0,2 | 16 | 36 | 3,0 | 2 | 0 |
+| Vanderson | D | 11 | 887 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 18 | 5 | 0,5 | 2 | 0 |
+| A. Golovin | M | 11 | 874 | 1 | 3 | 8 | 0,7 | 6 | 0,5 | 12 | 8 | 0,7 | 4 | 0 |
+| Flávio Nazinho | D | 12 | 851 | 1 | 2 | 4 | 0,3 | 2 | 0,2 | 15 | 8 | 0,7 | 3 | 0 |
+| Paris Josua  Brunner | F | 10 | 830 | 8 | 1 | 32 | 3,2 | 18 | 1,8 | 12 | 15 | 1,5 | 0 | 0 |
+| D. Zakaria | M | 12 | 806 | 0 | 0 | 9 | 0,8 | 4 | 0,3 | 13 | 3 | 0,2 | 2 | 0 |
 | Eric Dier | D | 8 | 720 | 1 | 1 | 6 | 0,8 | 2 | 0,2 | 7 | 1 | 0,1 | 0 | 0 |
 | Stanis Idumbo Muzambo | M | 8 | 566 | 1 | 2 | 9 | 1,1 | 3 | 0,4 | 3 | 9 | 1,1 | 0 | 0 |
-| Matthis Abline | F | 8 | 355 | 1 | 2 | 9 | 1,1 | 3 | 0,4 | 5 | 5 | 0,6 | 0 | 0 |
-| Mamadou Coulibaly | M | 5 | 334 | 1 | 1 | 2 | 0,4 | 2 | 0,4 | 3 | 13 | 2,6 | 0 | 0 |
-| Edan Diop | M | 5 | 316 | 1 | 2 | 3 | 0,6 | 2 | 0,4 | 5 | 3 | 0,6 | 1 | 0 |
+| M. Abline | F | 9 | 400 | 1 | 2 | 13 | 1,4 | 4 | 0,4 | 7 | 7 | 0,8 | 0 | 0 |
+| M. Coulibaly | M | 6 | 379 | 1 | 1 | 2 | 0,3 | 2 | 0,3 | 5 | 13 | 2,2 | 1 | 0 |
+| E. Diop | M | 6 | 361 | 2 | 2 | 5 | 0,8 | 3 | 0,5 | 6 | 3 | 0,5 | 1 | 0 |
+| M. Detourbet | F | 9 | 361 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 7 | 6 | 0,7 | 2 | 0 |
+| J. Teze | D | 6 | 358 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 3 | 4 | 0,7 | 1 | 0 |
 | Christian Mawissa | D | 5 | 293 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
-| Mathys Detourbet | M | 8 | 287 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 6 | 6 | 0,8 | 1 | 0 |
-| Jordan Teze | D | 5 | 268 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 0,8 | 1 | 0 |
-| Ansu Fati | F | 4 | 190 | 2 | 0 | 5 | 1,2 | 4 | 1,0 | 3 | 1 | 0,2 | 1 | 0 |
+| Ansu Fati | M | 5 | 205 | 2 | 0 | 5 | 1,0 | 4 | 0,8 | 3 | 1 | 0,2 | 1 | 0 |
 | Anis Soubeir | M | 8 | 186 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 6 | 1 | 0,1 | 2 | 0 |
 | Mika Biereth | F | 5 | 174 | 2 | 0 | 3 | 0,6 | 2 | 0,4 | 0 | 4 | 0,8 | 0 | 0 |
 | Mohammed Salisu | D | 3 | 126 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,30 · visitante 1,15 · córners esperados 9,2._
+_Goles esperados: local 1,32 · visitante 1,13 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 32% | 32% | 2.90 | -6% |
-| 1X2: X | 27% | 26% | 27% | 3.60 | -5% |
-| 1X2: 1 | 40% | 42% | 41% | 2.20 | -10% |
-| Doble oportunidad: X2 | 60% | 57% | 59% | 1.67 | -2% |
+| 1X2: 2 | 32% | 32% | 32% | 2.90 | -7% |
+| 1X2: X | 27% | 26% | 26% | 3.60 | -5% |
+| 1X2: 1 | 41% | 42% | 42% | 2.20 | -9% |
+| Doble oportunidad: X2 | 59% | 57% | 58% | 1.67 | -3% |
 | Doble oportunidad: 12 | 73% | 75% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 67% | 68% | 68% | 1.40 | -5% |
+| Doble oportunidad: 1X | 68% | 68% | 68% | 1.40 | -5% |
 | Ambos marcan: No | 50% | 41% | 46% | 2.25 | +3% |
 | Ambos marcan: Sí | 50% | 59% | 54% | 1.57 | -15% |
 | Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
@@ -208,19 +208,19 @@ _Goles esperados: local 1,30 · visitante 1,15 · córners esperados 9,2._
 | Goles 1ª parte más/menos: Menos de 0.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles del local: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
-| Goles del local: Más de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles del local: Más de 2.5 | 14% | 23% | 19% | 4.00 | -25% |
-| Goles del local: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
-| Goles del local: Menos de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del local: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
-| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
-| Córners más/menos: Más de 9.5 | 43% | 46% | 44% | 2.00 | -11% |
-| Córners más/menos: Menos de 9.5 | 57% | 54% | 56% | 1.73 | -4% |
+| Goles del local: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
+| Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles del local: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
+| Goles del local: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
+| Goles del local: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles del visitante: Más de 1.5 | 31% | 39% | 35% | 2.38 | -16% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles del visitante: Menos de 1.5 | 69% | 61% | 65% | 1.53 | -1% |
+| Córners más/menos: Más de 9.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Córners más/menos: Menos de 9.5 | 58% | 54% | 56% | 1.73 | -4% |
 | 1X2 descanso: 2 | 25% | 27% | 26% | 3.40 | -12% |
 | 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 29% | 33% | 31% | 2.75 | -14% |
+| 1X2 descanso: 1 | 30% | 33% | 32% | 2.75 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

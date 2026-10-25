@@ -1,7 +1,7 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -189,7 +189,7 @@ _Goles esperados: local 0,98 · visitante 1,09 · córners esperados 8,5._
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 36% | 37% | 2.55 | -6% |
 | 1X2: X | 30% | 31% | 30% | 3.00 | -9% |
-| 1X2: 1 | 32% | 33% | 33% | 2.80 | -9% |
+| 1X2: 1 | 32% | 33% | 32% | 2.80 | -9% |
 | Doble oportunidad: X2 | 68% | 68% | 68% | 1.40 | -5% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
 | Doble oportunidad: 1X | 62% | 63% | 63% | 1.50 | -6% |
@@ -200,7 +200,7 @@ _Goles esperados: local 0,98 · visitante 1,09 · córners esperados 8,5._
 | Goles más/menos: Menos de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles más/menos: Menos de 2.5 | 66% | 66% | 66% | 1.44 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Goles del local: Más de 0.5 | 62% | 62% | 62% | 1.50 | -6% |
@@ -208,8 +208,8 @@ _Goles esperados: local 0,98 · visitante 1,09 · córners esperados 8,5._
 | Goles del local: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles del local: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -5% |
-| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -10% |
 | Goles del visitante: Menos de 1.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Córners más/menos: Más de 8.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 8.5 | 55% | 50% | 52% | 1.83 | -4% |

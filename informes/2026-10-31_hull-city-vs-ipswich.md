@@ -1,7 +1,7 @@
 # Hull City – Ipswich
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -48,52 +48,52 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Hull City (total) | Hull City en casa | Ipswich (total) | Ipswich fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 3 | 8 | 4 |
-| Forma (últimos 5) | DEDEE | EEV | EDVDV | DDVD |
-| Balance | 2V 3E 2D | 1V 2E 0D | 3V 1E 4D | 1V 0E 3D |
-| Goles a favor / partido | 1,14 | 1,33 | 1,50 | 1,75 |
-| Goles en contra / partido | 1,00 | 0,67 | 2,00 | 2,75 |
-| Goles a favor 1ª parte | 0,57 | 0,67 | 0,75 | 1,00 |
-| Goles a favor 2ª parte | 0,57 | 0,67 | 0,75 | 0,75 |
-| Goles en contra 1ª parte | 0,57 | 0,00 | 1,12 | 1,25 |
-| Goles en contra 2ª parte | 0,43 | 0,67 | 0,88 | 1,50 |
-| Más de 1,5 goles | 57% | 67% | 88% | 75% |
-| Más de 2,5 goles | 43% | 33% | 62% | 75% |
-| Más de 3,5 goles | 29% | 33% | 38% | 75% |
-| Ambos marcan | 43% | 33% | 75% | 75% |
-| Portería a cero | 43% | 67% | 0% | 0% |
-| Se queda sin marcar | 29% | 33% | 25% | 25% |
-| xG a favor | 0,97 | 0,97 | 1,37 | 1,69 |
-| xG en contra | 1,49 | 1,81 | 2,06 | 2,74 |
-| Tiros / partido | 10,7 | 9,3 | 10,5 | 10,5 |
-| Tiros a puerta / partido | 3,4 | 4,3 | 4,2 | 4,5 |
-| Tiros recibidos | 14,6 | 16,3 | 16,9 | 21,0 |
-| Tiros a puerta recibidos | 4,9 | 4,3 | 5,5 | 5,8 |
-| Posesión media % | 31 | 30 | 44 | 43 |
-| Córners a favor | 3,7 | 3,7 | 2,9 | 3,5 |
-| Córners en contra | 6,6 | 5,3 | 4,8 | 5,0 |
-| Córners a favor 1ª parte | 2,1 | 2,7 | 1,2 | 1,2 |
-| Córners a favor 2ª parte | 1,6 | 1,0 | 1,6 | 2,2 |
-| Córners totales del partido | 10,3 | 9,0 | 7,6 | 8,5 |
-| Córners totales 1ª parte | 5,9 | 5,7 | 3,8 | 3,8 |
-| Córners totales 2ª parte | 4,4 | 3,3 | 3,9 | 4,8 |
-| Más de 8,5 córners | 57% | 33% | 25% | 50% |
-| Más de 9,5 córners | 57% | 33% | 12% | 25% |
-| Más de 10,5 córners | 57% | 33% | 12% | 25% |
-| Faltas cometidas | 10,9 | 11,7 | 11,4 | 14,0 |
-| Faltas recibidas | 7,6 | 6,0 | 9,4 | 6,8 |
-| Amarillas propias | 3,0 | 2,0 | 1,9 | 2,8 |
-| Amarillas del rival | 0,9 | 0,3 | 2,0 | 1,2 |
+| Partidos analizados | 8 | 4 | 8 | 4 |
+| Forma (últimos 5) | EDEDE | EEEV | EDVDV | DDVD |
+| Balance | 2V 4E 2D | 1V 3E 0D | 3V 1E 4D | 1V 0E 3D |
+| Goles a favor / partido | 1,12 | 1,25 | 1,50 | 1,75 |
+| Goles en contra / partido | 1,00 | 0,75 | 2,00 | 2,75 |
+| Goles a favor 1ª parte | 0,62 | 0,75 | 0,75 | 1,00 |
+| Goles a favor 2ª parte | 0,50 | 0,50 | 0,75 | 0,75 |
+| Goles en contra 1ª parte | 0,50 | 0,00 | 1,12 | 1,25 |
+| Goles en contra 2ª parte | 0,50 | 0,75 | 0,88 | 1,50 |
+| Más de 1,5 goles | 62% | 75% | 88% | 75% |
+| Más de 2,5 goles | 38% | 25% | 62% | 75% |
+| Más de 3,5 goles | 25% | 25% | 38% | 75% |
+| Ambos marcan | 50% | 50% | 75% | 75% |
+| Portería a cero | 38% | 50% | 0% | 0% |
+| Se queda sin marcar | 25% | 25% | 25% | 25% |
+| xG a favor | 1,08 | 1,21 | 1,37 | 1,69 |
+| xG en contra | 1,54 | 1,83 | 2,06 | 2,74 |
+| Tiros / partido | 10,9 | 10,0 | 10,5 | 10,5 |
+| Tiros a puerta / partido | 3,2 | 3,8 | 4,2 | 4,5 |
+| Tiros recibidos | 14,5 | 15,8 | 16,9 | 21,0 |
+| Tiros a puerta recibidos | 5,0 | 4,8 | 5,5 | 5,8 |
+| Posesión media % | 33 | 33 | 44 | 43 |
+| Córners a favor | 3,9 | 4,0 | 2,9 | 3,5 |
+| Córners en contra | 6,5 | 5,5 | 4,8 | 5,0 |
+| Córners a favor 1ª parte | 2,4 | 3,0 | 1,2 | 1,2 |
+| Córners a favor 2ª parte | 1,5 | 1,0 | 1,6 | 2,2 |
+| Córners totales del partido | 10,4 | 9,5 | 7,6 | 8,5 |
+| Córners totales 1ª parte | 6,0 | 6,0 | 3,8 | 3,8 |
+| Córners totales 2ª parte | 4,4 | 3,5 | 3,9 | 4,8 |
+| Más de 8,5 córners | 62% | 50% | 25% | 50% |
+| Más de 9,5 córners | 62% | 50% | 12% | 25% |
+| Más de 10,5 córners | 62% | 50% | 12% | 25% |
+| Faltas cometidas | 10,8 | 11,2 | 11,4 | 14,0 |
+| Faltas recibidas | 7,8 | 6,8 | 9,4 | 6,8 |
+| Amarillas propias | 2,6 | 1,5 | 1,9 | 2,8 |
+| Amarillas del rival | 0,9 | 0,5 | 2,0 | 1,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Hull City | Recibe Hull City | Tarjetas Hull City | Goles Ipswich | Recibe Ipswich | Tarjetas Ipswich |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 3 | 2 | 0 | 5 | 0 |
-| 16-30' | 2 | 0 | 5 | 4 | 1 | 1 |
+| 16-30' | 3 | 0 | 5 | 4 | 1 | 1 |
 | 31-45' | 2 | 1 | 4 | 2 | 3 | 5 |
 | 46-60' | 1 | 1 | 5 | 0 | 2 | 3 |
-| 61-75' | 2 | 2 | 2 | 0 | 4 | 4 |
+| 61-75' | 2 | 3 | 2 | 0 | 4 | 4 |
 | 76-90' | 1 | 0 | 3 | 6 | 1 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -112,35 +112,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Hull City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Premier League | Hull City 1-1 Brentford | casa | 5-6 | 12 (2) - 14 (6) | 0-1 |
 | 2026-10-17 | Premier League | Fulham 1-0 Hull City | fuera | 2-10 | 5 (0) - 18 (6) | 2-2 |
 | 2026-10-11 | Premier League | Hull City 2-2 Everton | casa | 7-6 | 9 (5) - 15 (7) | 2-0 |
 | 2026-09-19 | Premier League | Newcastle 2-1 Hull City | fuera | 7-4 | 22 (4) - 12 (5) | 4-1 |
 | 2026-09-12 | Premier League | Chelsea 2-2 Hull City | fuera | 4-10 | 14 (5) - 12 (7) | 5-1 |
 | 2026-09-05 | Premier League | Hull City 0-0 Aston Villa | casa | 3-4 | 11 (4) - 13 (1) | 2-0 |
-| 2026-08-29 | Premier League | Coventry 0-1 Hull City | fuera | 2-6 | 6 (2) - 11 (3) | 4-1 |
 
 ## Jugadores de Hull City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Konstantinos Tzolakis | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 1,0 | 1 | 0 |
-| Oli McBurnie | F | 7 | 622 | 0 | 1 | 7 | 1,0 | 3 | 0,4 | 11 | 13 | 1,9 | 3 | 0 |
-| John Egan | D | 7 | 618 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 3 | 2 | 0,3 | 1 | 0 |
-| Semi Ajayi | D | 7 | 604 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 1 | 1 | 0,1 | 1 | 0 |
-| Regan Slater | M | 7 | 588 | 0 | 1 | 4 | 0,6 | 2 | 0,3 | 6 | 5 | 0,7 | 2 | 0 |
-| Lewie Coyle | D | 7 | 531 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 5 | 0,7 | 1 | 0 |
-| Ryan Giles | D | 7 | 531 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
-| Mohamed Belloumi | M | 7 | 514 | 3 | 2 | 14 | 2,0 | 6 | 0,9 | 9 | 3 | 0,4 | 1 | 0 |
+| K. Tzolakis | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,9 | 1 | 0 |
+| O. McBurnie | F | 8 | 708 | 1 | 1 | 8 | 1,0 | 4 | 0,5 | 11 | 15 | 1,9 | 3 | 0 |
+| J. Egan | D | 8 | 708 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
+| S. Ajayi | D | 8 | 694 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 1 | 0,1 | 1 | 0 |
+| R. Slater | M | 8 | 678 | 0 | 1 | 6 | 0,8 | 2 | 0,2 | 6 | 5 | 0,6 | 2 | 0 |
+| M. Belloumi | M | 8 | 600 | 3 | 2 | 18 | 2,2 | 6 | 0,8 | 12 | 6 | 0,8 | 1 | 0 |
+| R. Giles | D | 8 | 596 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
+| L. Coyle | D | 8 | 596 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 5 | 0,6 | 1 | 0 |
+| E. Stroud | M | 6 | 369 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 6 | 2 | 0,3 | 1 | 0 |
 | Nobel Mendy | D | 5 | 343 | 1 | 0 | 5 | 1,0 | 3 | 0,6 | 5 | 1 | 0,2 | 0 | 0 |
 | Matt Crooks | M | 5 | 337 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 2 | 0,4 | 4 | 0 |
-| Elliot Stroud | M | 5 | 279 | 0 | 1 | 3 | 0,6 | 0 | 0,0 | 6 | 1 | 0,2 | 1 | 0 |
+| L. Herrington | D | 7 | 332 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | Sorba Thomas | M | 5 | 274 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 1 | 2 | 0,4 | 0 | 0 |
-| Lucas Herrington | D | 6 | 242 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| T. Iroegbunam | M | 5 | 208 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 6 | 2 | 0,4 | 1 | 0 |
 | Lucas Gourna-Douath | M | 3 | 139 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 1 | 0 |
-| Tim Iroegbunam | M | 4 | 136 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
-| Brooke Norton-Cuffy | D | 3 | 102 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| Joe Gelhardt | F | 3 | 100 | 1 | 0 | 5 | 1,7 | 4 | 1,3 | 4 | 0 | 0,0 | 0 | 0 |
-| Mohamed Ali Cho | F | 4 | 78 | 1 | 0 | 4 | 1,0 | 3 | 0,8 | 1 | 0 | 0,0 | 0 | 0 |
-| Hidemasa Morita | M | 3 | 75 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| B. Norton-Cuffy | D | 4 | 127 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+| J. Gelhardt | F | 4 | 104 | 1 | 0 | 7 | 1,8 | 4 | 1,0 | 4 | 0 | 0,0 | 0 | 0 |
+| M. Cho | F | 5 | 103 | 1 | 0 | 5 | 1,0 | 4 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
+| H. Morita | M | 4 | 93 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | Cody Drameh | D | 2 | 65 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de Ipswich
@@ -178,40 +178,38 @@ _Sin bajas comunicadas por ahora._
 | Kasey McAteer | M | 3 | 50 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,15 · córners esperados 8,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,62 · visitante 1,16 · córners esperados 8,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 36% | 32% | 2.60 | -16% |
-| 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 46% | 37% | 41% | 2.55 | +5% |
-| Doble oportunidad: X2 | 54% | 63% | 59% | 1.50 | -12% |
-| Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 71% | 63% | 67% | 1.50 | +1% |
-| Ambos marcan: No | 47% | 42% | 45% | 2.20 | -2% |
-| Ambos marcan: Sí | 53% | 58% | 55% | 1.62 | -10% |
-| Goles más/menos: Más de 1.5 | 74% | 76% | 75% | 1.25 | -6% |
-| Goles más/menos: Más de 2.5 | 50% | 53% | 51% | 1.80 | -8% |
-| Goles más/menos: Más de 3.5 | 28% | 32% | 30% | 3.00 | -11% |
-| Goles más/menos: Menos de 1.5 | 26% | 24% | 25% | 4.00 | -1% |
-| Goles más/menos: Menos de 2.5 | 50% | 47% | 49% | 2.00 | -2% |
-| Goles más/menos: Menos de 3.5 | 72% | 68% | 70% | 1.40 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles del local: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Goles del visitante: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
-| Goles del visitante: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles del visitante: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
-| Goles del visitante: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
-| 1X2 descanso: 2 | 23% | 29% | 26% | 3.20 | -16% |
-| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
-| 1X2 descanso: 1 | 33% | 30% | 32% | 3.10 | -2% |
+| 1X2: 2 | 27% | 36% | 32% | 2.60 | -18% |
+| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2: 1 ✅ | 48% | 37% | 42% | 2.55 | +8% |
+| Doble oportunidad: X2 | 52% | 63% | 58% | 1.50 | -13% |
+| Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -3% |
+| Doble oportunidad: 1X | 73% | 63% | 68% | 1.50 | +2% |
+| Ambos marcan: No | 45% | 42% | 44% | 2.20 | -4% |
+| Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
+| Goles más/menos: Más de 1.5 | 76% | 76% | 76% | 1.25 | -5% |
+| Goles más/menos: Más de 2.5 | 52% | 53% | 53% | 1.80 | -5% |
+| Goles más/menos: Más de 3.5 | 30% | 32% | 31% | 3.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 24% | 24% | 24% | 4.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 48% | 47% | 47% | 2.00 | -5% |
+| Goles más/menos: Menos de 3.5 | 70% | 68% | 69% | 1.40 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 35% | 34% | 2.62 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
+| Goles del local: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles del local: Más de 1.5 | 48% | 42% | 45% | 2.20 | -1% |
+| Goles del local: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles del local: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles del visitante: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Más de 1.5 | 32% | 41% | 37% | 2.25 | -17% |
+| Goles del visitante: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +6% |
+| Goles del visitante: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -1% |
+| 1X2 descanso: 2 | 23% | 29% | 26% | 3.20 | -17% |
+| 1X2 descanso: X | 42% | 41% | 42% | 2.25 | -6% |
+| 1X2 descanso: 1 | 35% | 30% | 32% | 3.10 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

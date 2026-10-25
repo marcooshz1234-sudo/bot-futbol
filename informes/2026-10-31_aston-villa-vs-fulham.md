@@ -1,7 +1,7 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | Emile Smith Rowe | M | 4 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,84 · visitante 0,95 · córners esperados 9,6._
+_Goles esperados: local 1,86 · visitante 0,95 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 25% | 22% | 3.70 | -17% |
-| 1X2: X | 23% | 25% | 24% | 3.75 | -10% |
-| 1X2: 1 | 58% | 49% | 54% | 1.91 | +3% |
-| Doble oportunidad: X2 | 42% | 51% | 47% | 1.83 | -15% |
-| Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -5% |
+| 1X2: 2 | 19% | 25% | 22% | 3.70 | -18% |
+| 1X2: X | 22% | 25% | 24% | 3.75 | -11% |
+| 1X2: 1 | 59% | 49% | 54% | 1.91 | +3% |
+| Doble oportunidad: X2 | 41% | 51% | 46% | 1.83 | -15% |
+| Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -4% |
 | Doble oportunidad: 1X | 81% | 73% | 77% | 1.28 | -1% |
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
-| Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
+| Goles más/menos: Más de 1.5 | 77% | 78% | 78% | 1.22 | -5% |
 | Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -7% |
-| Goles más/menos: Más de 3.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
+| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -10% |
+| Goles más/menos: Menos de 1.5 | 23% | 22% | 22% | 4.33 | -3% |
 | Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
-| Goles más/menos: Menos de 3.5 | 69% | 66% | 68% | 1.44 | -3% |
+| Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
-| Goles del local: Más de 2.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles del local: Menos de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Goles del local: Menos de 2.5 | 72% | 75% | 74% | 1.25 | -8% |
-| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles del local: Más de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles del local: Más de 2.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles del local: Menos de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Goles del local: Menos de 2.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
 | Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| 1X2 descanso: 2 | 18% | 23% | 20% | 4.00 | -19% |
-| 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 41% | 37% | 39% | 2.50 | -2% |
+| Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
+| 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -19% |
+| 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -7% |
+| 1X2 descanso: 1 | 42% | 37% | 39% | 2.50 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -49,52 +49,52 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Bournemouth (total) | Bournemouth en casa | Leeds (total) | Leeds fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 6 | 7 | 3 |
-| Forma (últimos 5) | VVVDD | VVVDE | EDEVE | DEV |
-| Balance | 4V 3E 3D | 3V 2E 1D | 2V 4E 1D | 1V 1E 1D |
-| Goles a favor / partido | 1,70 | 1,83 | 1,29 | 1,00 |
-| Goles en contra / partido | 1,40 | 0,67 | 0,86 | 1,00 |
-| Goles a favor 1ª parte | 1,10 | 1,00 | 0,57 | 0,33 |
-| Goles a favor 2ª parte | 0,60 | 0,83 | 0,71 | 0,67 |
-| Goles en contra 1ª parte | 0,40 | 0,17 | 0,29 | 0,00 |
-| Goles en contra 2ª parte | 1,00 | 0,50 | 0,57 | 1,00 |
-| Más de 1,5 goles | 90% | 83% | 71% | 67% |
-| Más de 2,5 goles | 70% | 50% | 29% | 33% |
-| Más de 3,5 goles | 30% | 17% | 14% | 0% |
-| Ambos marcan | 60% | 33% | 71% | 67% |
-| Portería a cero | 30% | 50% | 29% | 33% |
-| Se queda sin marcar | 10% | 17% | 14% | 0% |
-| xG a favor | 2,06 | 2,53 | 1,42 | 1,19 |
-| xG en contra | 0,97 | 0,78 | 1,39 | 1,73 |
-| Tiros / partido | 16,0 | 19,7 | 11,9 | 10,7 |
-| Tiros a puerta / partido | 5,3 | 6,2 | 4,0 | 4,3 |
-| Tiros recibidos | 9,2 | 7,5 | 14,1 | 15,0 |
-| Tiros a puerta recibidos | 3,2 | 2,2 | 4,3 | 4,3 |
-| Posesión media % | 52 | 59 | 47 | 40 |
-| Córners a favor | 4,9 | 5,5 | 4,0 | 4,0 |
-| Córners en contra | 4,4 | 3,5 | 4,1 | 4,0 |
-| Córners a favor 1ª parte | 2,1 | 2,2 | 2,0 | 2,3 |
-| Córners a favor 2ª parte | 2,8 | 3,3 | 2,0 | 1,7 |
-| Córners totales del partido | 9,3 | 9,0 | 8,1 | 8,0 |
-| Córners totales 1ª parte | 3,9 | 3,7 | 3,6 | 3,3 |
-| Córners totales 2ª parte | 5,4 | 5,3 | 4,6 | 4,7 |
-| Más de 8,5 córners | 50% | 50% | 43% | 33% |
-| Más de 9,5 córners | 50% | 50% | 43% | 33% |
-| Más de 10,5 córners | 30% | 17% | 29% | 33% |
-| Faltas cometidas | 13,3 | 12,8 | 12,7 | 16,7 |
-| Faltas recibidas | 13,1 | 13,3 | 11,9 | 13,3 |
-| Amarillas propias | 2,9 | 2,8 | 1,9 | 2,7 |
-| Amarillas del rival | 1,9 | 2,2 | 2,4 | 2,0 |
+| Partidos analizados | 11 | 6 | 8 | 4 |
+| Forma (últimos 5) | VVVVD | VVVDE | EEDEV | EDEV |
+| Balance | 5V 3E 3D | 3V 2E 1D | 2V 5E 1D | 1V 2E 1D |
+| Goles a favor / partido | 1,82 | 1,83 | 1,12 | 0,75 |
+| Goles en contra / partido | 1,27 | 0,67 | 0,75 | 0,75 |
+| Goles a favor 1ª parte | 1,18 | 1,00 | 0,50 | 0,25 |
+| Goles a favor 2ª parte | 0,64 | 0,83 | 0,62 | 0,50 |
+| Goles en contra 1ª parte | 0,36 | 0,17 | 0,25 | 0,00 |
+| Goles en contra 2ª parte | 0,91 | 0,50 | 0,50 | 0,75 |
+| Más de 1,5 goles | 91% | 83% | 62% | 50% |
+| Más de 2,5 goles | 73% | 50% | 25% | 25% |
+| Más de 3,5 goles | 27% | 17% | 12% | 0% |
+| Ambos marcan | 55% | 33% | 62% | 50% |
+| Portería a cero | 36% | 50% | 38% | 50% |
+| Se queda sin marcar | 9% | 17% | 25% | 25% |
+| xG a favor | 2,08 | 2,53 | 1,32 | 1,05 |
+| xG en contra | 0,99 | 0,78 | 1,34 | 1,54 |
+| Tiros / partido | 15,5 | 19,7 | 11,8 | 10,8 |
+| Tiros a puerta / partido | 5,2 | 6,2 | 4,0 | 4,2 |
+| Tiros recibidos | 9,9 | 7,5 | 14,2 | 15,0 |
+| Tiros a puerta recibidos | 3,4 | 2,2 | 4,2 | 4,2 |
+| Posesión media % | 51 | 59 | 48 | 44 |
+| Córners a favor | 4,8 | 5,5 | 4,1 | 4,2 |
+| Córners en contra | 4,5 | 3,5 | 4,1 | 4,0 |
+| Córners a favor 1ª parte | 2,3 | 2,2 | 1,9 | 2,0 |
+| Córners a favor 2ª parte | 2,5 | 3,3 | 2,2 | 2,2 |
+| Córners totales del partido | 9,3 | 9,0 | 8,2 | 8,2 |
+| Córners totales 1ª parte | 4,0 | 3,7 | 3,4 | 3,0 |
+| Córners totales 2ª parte | 5,3 | 5,3 | 4,9 | 5,2 |
+| Más de 8,5 córners | 55% | 50% | 50% | 50% |
+| Más de 9,5 córners | 45% | 50% | 38% | 25% |
+| Más de 10,5 córners | 27% | 17% | 25% | 25% |
+| Faltas cometidas | 13,6 | 12,8 | 12,9 | 16,0 |
+| Faltas recibidas | 13,1 | 13,3 | 11,6 | 12,5 |
+| Amarillas propias | 2,7 | 2,8 | 1,9 | 2,5 |
+| Amarillas del rival | 2,1 | 2,2 | 2,2 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bournemouth | Recibe Bournemouth | Tarjetas Bournemouth | Goles Leeds | Recibe Leeds | Tarjetas Leeds |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 1 | 0 | 1 |
-| 16-30' | 2 | 0 | 5 | 0 | 0 | 1 |
-| 31-45' | 5 | 2 | 5 | 3 | 2 | 5 |
+| 16-30' | 2 | 0 | 6 | 0 | 0 | 2 |
+| 31-45' | 7 | 2 | 5 | 3 | 2 | 5 |
 | 46-60' | 3 | 4 | 3 | 3 | 0 | 1 |
-| 61-75' | 0 | 2 | 6 | 0 | 3 | 2 |
+| 61-75' | 1 | 2 | 6 | 0 | 3 | 3 |
 | 76-90' | 3 | 4 | 8 | 2 | 1 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -113,31 +113,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bournemouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | fuera | 4-5 | 10 (4) - 17 (5) | 1-4 |
 | 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | casa | 6-4 | 20 (7) - 3 (0) | 2-3 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | casa | 5-3 | 29 (6) - 3 (0) | 3-2 |
 | 2026-10-15 | Europa League | Bournemouth 3-0 Sturm Graz | casa | 7-3 | 23 (7) - 6 (1) | 3-3 |
 | 2026-10-10 | Premier League | Chelsea 5-1 Bournemouth | fuera | 7-1 | 9 (4) - 10 (6) | 4-0 |
 | 2026-09-20 | Premier League | Bournemouth 0-1 Liverpool | casa | 3-3 | 9 (2) - 12 (3) | 1-2 |
-| 2026-09-17 | Europa League | Real Sociedad 1-2 Bournemouth | fuera | 3-10 | 11 (3) - 16 (5) | 3-3 |
 
 ## Jugadores de Bournemouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| António Silva | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 2 | 0,2 | 8 | 3 | 0,3 | 3 | 0 |
-| J. Hill | D | 10 | 838 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 10 | 7 | 0,7 | 1 | 0 |
-| Đ. Petrović | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Truffert | D | 9 | 804 | 0 | 1 | 7 | 0,8 | 2 | 0,2 | 19 | 3 | 0,3 | 3 | 0 |
-| Evanilson | F | 10 | 801 | 3 | 4 | 22 | 2,2 | 9 | 0,9 | 14 | 22 | 2,2 | 2 | 0 |
-| M. Tavernier | M | 10 | 800 | 5 | 0 | 20 | 2,0 | 11 | 1,1 | 8 | 11 | 1,1 | 3 | 0 |
-| Rayan | F | 10 | 736 | 2 | 0 | 23 | 2,3 | 11 | 1,1 | 4 | 9 | 0,9 | 0 | 0 |
-| A. Smith | D | 9 | 722 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 10 | 12 | 1,3 | 3 | 0 |
-| T. Adams | M | 10 | 654 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 6 | 0,6 | 2 | 0 |
+| António Silva | D | 11 | 990 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 10 | 3 | 0,3 | 3 | 0 |
+| J. Hill | D | 11 | 928 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 11 | 8 | 0,7 | 1 | 0 |
+| Đ. Petrović | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Truffert | D | 10 | 894 | 0 | 2 | 7 | 0,7 | 2 | 0,2 | 20 | 5 | 0,5 | 3 | 0 |
+| Evanilson | F | 11 | 888 | 4 | 4 | 26 | 2,4 | 10 | 0,9 | 16 | 23 | 2,1 | 2 | 0 |
+| M. Tavernier | M | 11 | 887 | 6 | 0 | 21 | 1,9 | 12 | 1,1 | 8 | 12 | 1,1 | 3 | 0 |
+| Rayan | M | 11 | 826 | 3 | 0 | 28 | 2,5 | 13 | 1,2 | 6 | 12 | 1,1 | 0 | 0 |
+| A. Smith | D | 10 | 809 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 15 | 1,5 | 3 | 0 |
+| T. Adams | M | 11 | 744 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 16 | 7 | 0,6 | 3 | 0 |
+| J. Kluivert | M | 9 | 554 | 3 | 1 | 16 | 1,8 | 9 | 1,0 | 18 | 7 | 0,8 | 2 | 0 |
 | Alex Scott | M | 6 | 536 | 1 | 1 | 5 | 0,8 | 1 | 0,2 | 4 | 23 | 3,8 | 1 | 0 |
-| J. Kluivert | F | 8 | 491 | 3 | 0 | 16 | 2,0 | 9 | 1,1 | 13 | 7 | 0,9 | 2 | 0 |
-| R. Christie | M | 9 | 409 | 0 | 0 | 12 | 1,3 | 2 | 0,2 | 5 | 7 | 0,8 | 2 | 0 |
-| L. Cook | M | 9 | 379 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
-| B. Doak | M | 9 | 258 | 0 | 0 | 6 | 0,7 | 0 | 0,0 | 2 | 5 | 0,6 | 0 | 0 |
-| B. Diakité | D | 4 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,2 | 3 | 0 |
+| L. Cook | M | 10 | 454 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 6 | 2 | 0,2 | 2 | 0 |
+| R. Christie | M | 10 | 424 | 0 | 0 | 12 | 1,2 | 2 | 0,2 | 5 | 7 | 0,7 | 2 | 0 |
+| B. Doak | F | 10 | 285 | 0 | 0 | 6 | 0,6 | 0 | 0,0 | 2 | 5 | 0,5 | 0 | 0 |
+| B. Diakité | D | 5 | 211 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,2 | 3 | 0 |
 | Á. Rodríguez | F | 7 | 172 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 5 | 2 | 0,3 | 0 | 0 |
 | David Brooks | M | 6 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 | J. Soler | D | 2 | 102 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 1 | 0 |
@@ -147,74 +147,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leeds
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Premier League | Sunderland 0-0 Leeds | fuera | 5-4 | 11 (4) - 15 (4) | 2-1 |
 | 2026-10-18 | Premier League | Leeds 1-1 Manchester United | casa | 2-3 | 12 (5) - 13 (3) | 2-2 |
 | 2026-10-10 | Premier League | Arsenal 2-1 Leeds | fuera | 4-2 | 11 (5) - 13 (6) | 4-1 |
 | 2026-09-20 | Premier League | Leeds 0-0 Crystal Palace | casa | 4-3 | 13 (2) - 12 (4) | 2-3 |
 | 2026-09-14 | Premier League | Leeds 4-1 Newcastle | casa | 5-5 | 14 (6) - 7 (5) | 1-2 |
 | 2026-09-05 | Premier League | Brighton 1-1 Leeds | fuera | 6-7 | 10 (5) - 20 (5) | 3-3 |
-| 2026-08-30 | Premier League | Leeds 1-1 Brentford | casa | 5-6 | 12 (2) - 22 (5) | 0-4 |
 
 ## Jugadores de Leeds
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Trafford | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| T. Muharemović | D | 7 | 630 | 0 | 2 | 4 | 0,6 | 1 | 0,1 | 3 | 5 | 0,7 | 1 | 0 |
-| E. Ampadu | M | 7 | 630 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 11 | 6 | 0,9 | 2 | 0 |
-| A. Stach | M | 7 | 628 | 1 | 0 | 7 | 1,0 | 3 | 0,4 | 14 | 11 | 1,6 | 0 | 0 |
-| J. Justin | D | 7 | 619 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 5 | 9 | 1,3 | 1 | 0 |
-| D. Calvert-Lewin | F | 7 | 601 | 3 | 1 | 11 | 1,6 | 7 | 1,0 | 15 | 7 | 1,0 | 3 | 0 |
-| J. Bogle | M | 7 | 545 | 2 | 0 | 6 | 0,9 | 6 | 0,9 | 9 | 10 | 1,4 | 2 | 0 |
+| T. Muharemović | D | 8 | 720 | 0 | 2 | 5 | 0,6 | 2 | 0,2 | 5 | 7 | 0,9 | 1 | 0 |
+| E. Ampadu | M | 8 | 720 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 7 | 0,9 | 3 | 0 |
+| J. Trafford | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Justin | D | 8 | 709 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 6 | 10 | 1,2 | 1 | 0 |
+| D. Calvert-Lewin | F | 8 | 686 | 3 | 1 | 11 | 1,4 | 7 | 0,9 | 16 | 7 | 0,9 | 3 | 0 |
+| A. Stach | M | 8 | 652 | 1 | 0 | 7 | 0,9 | 3 | 0,4 | 14 | 11 | 1,4 | 0 | 0 |
+| J. Bogle | M | 8 | 635 | 2 | 0 | 8 | 1,0 | 6 | 0,8 | 11 | 12 | 1,5 | 3 | 0 |
+| G. Gudmundsson | M | 6 | 521 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 8 | 1,3 | 1 | 0 |
 | N. Elvedi | D | 6 | 502 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
-| N. Okafor | M | 7 | 448 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 5 | 0,7 | 0 | 0 |
-| G. Gudmundsson | M | 5 | 431 | 0 | 1 | 2 | 0,4 | 1 | 0,2 | 4 | 6 | 1,2 | 1 | 0 |
-| A. Tanaka | M | 6 | 410 | 0 | 1 | 7 | 1,2 | 2 | 0,3 | 9 | 4 | 0,7 | 2 | 0 |
-| Brenden Aaronson | M | 6 | 214 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 6 | 1,0 | 0 | 0 |
-| Jaka Bijol | D | 4 | 174 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-| Harry Wilson | F | 5 | 165 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,6 | 1 | 0 |
+| A. Tanaka | M | 7 | 499 | 0 | 1 | 8 | 1,1 | 3 | 0,4 | 10 | 5 | 0,7 | 2 | 0 |
+| N. Okafor | F | 8 | 473 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 3 | 6 | 0,8 | 0 | 0 |
+| B. Aaronson | M | 7 | 279 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 6 | 0,9 | 0 | 0 |
+| J. Bijol | D | 5 | 264 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| H. Wilson | M | 6 | 231 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,5 | 1 | 0 |
 | Joe Rodon | D | 2 | 124 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 1,0 | 0 | 0 |
-| L. Nmecha | F | 6 | 91 | 0 | 1 | 4 | 0,7 | 0 | 0,0 | 1 | 3 | 0,5 | 0 | 0 |
+| L. Nmecha | F | 7 | 96 | 0 | 1 | 4 | 0,6 | 0 | 0,0 | 1 | 3 | 0,4 | 0 | 0 |
 | Daniel James | F | 3 | 57 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| S. Longstaff | M | 3 | 19 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| S. Longstaff | M | 4 | 20 | 0 | 0 | 2 | 0,5 | 2 | 0,5 | 0 | 1 | 0,2 | 0 | 0 |
 | Melvin Bard | D | 1 | 18 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Jean-Mattéo Bahoya | F | 2 | 11 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 0,90 · córners esperados 8,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,52 · visitante 0,80 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 29% | 26% | 3.25 | -17% |
+| 1X2: 2 | 20% | 29% | 24% | 3.25 | -21% |
 | 1X2: X | 26% | 28% | 27% | 3.40 | -9% |
-| 1X2: 1 | 52% | 43% | 47% | 2.20 | +4% |
-| Doble oportunidad: X2 | 48% | 56% | 52% | 1.67 | -13% |
+| 1X2: 1 ✅ | 54% | 43% | 49% | 2.20 | +7% |
+| Doble oportunidad: X2 | 46% | 56% | 51% | 1.67 | -15% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 78% | 71% | 74% | 1.33 | -1% |
-| Ambos marcan: No | 54% | 44% | 49% | 2.10 | +3% |
-| Ambos marcan: Sí | 46% | 56% | 51% | 1.67 | -15% |
-| Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
-| Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +4% |
-| Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Doble oportunidad: 1X | 80% | 71% | 76% | 1.33 | +1% |
+| Ambos marcan: No | 57% | 44% | 51% | 2.10 | +6% |
+| Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -17% |
+| Goles más/menos: Más de 1.5 | 67% | 76% | 72% | 1.25 | -10% |
+| Goles más/menos: Más de 2.5 | 41% | 53% | 47% | 1.80 | -16% |
+| Goles más/menos: Más de 3.5 | 21% | 32% | 26% | 3.00 | -21% |
+| Goles más/menos: Menos de 1.5 | 33% | 24% | 28% | 4.00 | +13% |
+| Goles más/menos: Menos de 2.5 | 59% | 47% | 53% | 2.00 | +6% |
+| Goles más/menos: Menos de 3.5 | 79% | 68% | 74% | 1.40 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 66% | 1.36 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 34% | 3.00 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del local: Más de 1.5 | 45% | 46% | 46% | 2.00 | -9% |
 | Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -10% |
 | Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -10% |
 | Goles del local: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
 | Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -13% |
-| Goles del visitante: Más de 1.5 | 23% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 0.5 | 41% | 29% | 35% | 3.25 | +13% |
-| Goles del visitante: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
-| 1X2 descanso: 2 | 19% | 25% | 22% | 3.75 | -19% |
-| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -2% |
-| 1X2 descanso: 1 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles del visitante: Más de 0.5 | 55% | 71% | 63% | 1.33 | -16% |
+| Goles del visitante: Más de 1.5 | 19% | 35% | 27% | 2.62 | -28% |
+| Goles del visitante: Menos de 0.5 ✅ | 45% | 29% | 37% | 3.25 | +20% |
+| Goles del visitante: Menos de 1.5 | 81% | 65% | 73% | 1.44 | +5% |
+| 1X2 descanso: 2 | 17% | 25% | 21% | 3.75 | -22% |
+| 1X2 descanso: X | 46% | 41% | 44% | 2.25 | -2% |
+| 1X2 descanso: 1 | 37% | 34% | 36% | 2.75 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

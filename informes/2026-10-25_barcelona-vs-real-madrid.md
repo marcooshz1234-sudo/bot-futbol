@@ -1,7 +1,7 @@
 # Barcelona – Real Madrid
 **LaLiga** · Regular Season - 10 · 25/10/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:15_
@@ -220,13 +220,13 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Carlos Espí | F | 8 | 60 | 3 | 0 | 7 | 0,9 | 4 | 0,5 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,86 · visitante 1,64 · córners esperados 9,4._
+_Goles esperados: local 2,87 · visitante 1,64 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 24% | 22% | 4.00 | -12% |
 | 1X2: X | 17% | 16% | 17% | 5.75 | -5% |
-| 1X2: 1 | 63% | 60% | 62% | 1.57 | -3% |
+| 1X2: 1 | 63% | 60% | 61% | 1.57 | -3% |
 | Doble oportunidad: X2 | 37% | 43% | 40% | 2.20 | -12% |
 | Doble oportunidad: 12 | 83% | 82% | 83% | 1.14 | -6% |
 | Doble oportunidad: 1X | 80% | 75% | 77% | 1.25 | -3% |
@@ -234,11 +234,11 @@ _Goles esperados: local 2,86 · visitante 1,64 · córners esperados 9,4._
 | Ambos marcan: Sí | 76% | 72% | 74% | 1.30 | -4% |
 | Goles más/menos: Más de 2.5 | 83% | 78% | 80% | 1.22 | -2% |
 | Goles más/menos: Más de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
-| Goles más/menos: Más de 4.5 | 47% | 41% | 44% | 2.30 | +1% |
+| Goles más/menos: Más de 4.5 | 47% | 41% | 44% | 2.30 | +2% |
 | Goles más/menos: Más de 5.5 | 30% | 25% | 28% | 3.75 | +4% |
 | Goles más/menos: Menos de 2.5 | 17% | 22% | 20% | 4.33 | -15% |
 | Goles más/menos: Menos de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Menos de 4.5 | 53% | 59% | 56% | 1.62 | -9% |
+| Goles más/menos: Menos de 4.5 | 53% | 59% | 56% | 1.62 | -10% |
 | Goles más/menos: Menos de 5.5 | 70% | 75% | 72% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
 | Goles 1ª parte más/menos: Más de 2.5 | 30% | 29% | 29% | 3.25 | -5% |
@@ -256,7 +256,7 @@ _Goles esperados: local 2,86 · visitante 1,64 · córners esperados 9,4._
 | Goles del visitante: Menos de 0.5 | 19% | 22% | 21% | 4.33 | -11% |
 | Goles del visitante: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
 | Goles del visitante: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Córners más/menos: Más de 10.5 | 36% | 51% | 44% | 1.80 | -21% |
+| Córners más/menos: Más de 10.5 | 36% | 51% | 44% | 1.80 | -22% |
 | Córners más/menos: Menos de 10.5 ✅ | 64% | 49% | 56% | 1.91 | +8% |
 | 1X2 descanso: 2 | 21% | 23% | 22% | 4.00 | -11% |
 | 1X2 descanso: X | 30% | 31% | 31% | 3.00 | -8% |

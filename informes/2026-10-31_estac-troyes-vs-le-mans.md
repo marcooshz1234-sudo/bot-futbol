@@ -1,7 +1,7 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -58,51 +58,51 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Estac Troyes (total) | Estac Troyes en casa | Le Mans (total) | Le Mans fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 7 | 3 |
-| Forma (últimos 5) | DDDDD | DDDE | DDVEE | DED |
-| Balance | 1V 1E 5D | 0V 1E 3D | 1V 3E 3D | 0V 1E 2D |
-| Goles a favor / partido | 0,71 | 0,75 | 1,43 | 1,33 |
-| Goles en contra / partido | 2,29 | 2,75 | 2,14 | 2,33 |
-| Goles a favor 1ª parte | 0,57 | 0,50 | 0,86 | 0,67 |
-| Goles a favor 2ª parte | 0,14 | 0,25 | 0,57 | 0,67 |
-| Goles en contra 1ª parte | 0,86 | 1,00 | 0,86 | 1,33 |
-| Goles en contra 2ª parte | 1,43 | 1,75 | 1,29 | 1,00 |
-| Más de 1,5 goles | 86% | 75% | 100% | 100% |
-| Más de 2,5 goles | 43% | 50% | 86% | 67% |
-| Más de 3,5 goles | 29% | 50% | 57% | 67% |
-| Ambos marcan | 43% | 50% | 86% | 100% |
-| Portería a cero | 14% | 25% | 0% | 0% |
-| Se queda sin marcar | 57% | 50% | 14% | 0% |
-| xG a favor | 1,31 | 1,42 | 1,56 | 1,92 |
-| xG en contra | 1,79 | 1,87 | 2,23 | 2,83 |
-| Tiros / partido | 14,4 | 15,8 | 10,6 | 10,3 |
-| Tiros a puerta / partido | 3,1 | 4,0 | 4,1 | 3,7 |
-| Tiros recibidos | 12,4 | 11,8 | 16,6 | 17,3 |
-| Tiros a puerta recibidos | 4,7 | 4,5 | 5,4 | 6,0 |
-| Posesión media % | 39 | 41 | 45 | 35 |
-| Córners a favor | 7,1 | 7,2 | 2,7 | 4,0 |
-| Córners en contra | 2,1 | 2,2 | 5,9 | 5,7 |
-| Córners a favor 1ª parte | 3,9 | 3,8 | 1,4 | 2,7 |
-| Córners a favor 2ª parte | 3,3 | 3,5 | 1,3 | 1,3 |
-| Córners totales del partido | 9,3 | 9,5 | 8,6 | 9,7 |
-| Córners totales 1ª parte | 5,1 | 5,5 | 3,9 | 5,7 |
-| Córners totales 2ª parte | 4,1 | 4,0 | 4,7 | 4,0 |
-| Más de 8,5 córners | 57% | 75% | 43% | 33% |
-| Más de 9,5 córners | 43% | 50% | 43% | 33% |
-| Más de 10,5 córners | 29% | 25% | 43% | 33% |
-| Faltas cometidas | 12,4 | 10,2 | 14,9 | 14,3 |
-| Faltas recibidas | 12,9 | 14,0 | 9,9 | 7,3 |
-| Amarillas propias | 1,6 | 2,2 | 2,3 | 2,7 |
-| Amarillas del rival | 1,3 | 1,2 | 1,9 | 1,7 |
-| Rojas / partido | 0,00 | 0,00 | 0,14 | 0,33 |
+| Partidos analizados | 8 | 4 | 8 | 4 |
+| Forma (últimos 5) | EDDDD | DDDE | EDDVE | EDED |
+| Balance | 1V 2E 5D | 0V 1E 3D | 1V 4E 3D | 0V 2E 2D |
+| Goles a favor / partido | 0,62 | 0,75 | 1,38 | 1,25 |
+| Goles en contra / partido | 2,00 | 2,75 | 2,00 | 2,00 |
+| Goles a favor 1ª parte | 0,50 | 0,50 | 0,75 | 0,50 |
+| Goles a favor 2ª parte | 0,12 | 0,25 | 0,62 | 0,75 |
+| Goles en contra 1ª parte | 0,75 | 1,00 | 0,75 | 1,00 |
+| Goles en contra 2ª parte | 1,25 | 1,75 | 1,25 | 1,00 |
+| Más de 1,5 goles | 75% | 75% | 100% | 100% |
+| Más de 2,5 goles | 38% | 50% | 75% | 50% |
+| Más de 3,5 goles | 25% | 50% | 50% | 50% |
+| Ambos marcan | 38% | 50% | 88% | 100% |
+| Portería a cero | 25% | 25% | 0% | 0% |
+| Se queda sin marcar | 62% | 50% | 12% | 0% |
+| xG a favor | 1,20 | 1,42 | 1,54 | 1,80 |
+| xG en contra | 1,65 | 1,87 | 2,06 | 2,35 |
+| Tiros / partido | 13,6 | 15,8 | 10,6 | 10,5 |
+| Tiros a puerta / partido | 2,8 | 4,0 | 3,9 | 3,2 |
+| Tiros recibidos | 11,8 | 11,8 | 16,1 | 16,2 |
+| Tiros a puerta recibidos | 4,5 | 4,5 | 5,4 | 5,8 |
+| Posesión media % | 39 | 41 | 44 | 36 |
+| Córners a favor | 6,5 | 7,2 | 2,5 | 3,2 |
+| Córners en contra | 2,4 | 2,2 | 6,0 | 6,0 |
+| Córners a favor 1ª parte | 3,5 | 3,8 | 1,2 | 2,0 |
+| Córners a favor 2ª parte | 3,0 | 3,5 | 1,2 | 1,2 |
+| Córners totales del partido | 8,9 | 9,5 | 8,5 | 9,2 |
+| Córners totales 1ª parte | 4,9 | 5,5 | 3,5 | 4,5 |
+| Córners totales 2ª parte | 4,0 | 4,0 | 5,0 | 4,8 |
+| Más de 8,5 córners | 50% | 75% | 38% | 25% |
+| Más de 9,5 córners | 38% | 50% | 38% | 25% |
+| Más de 10,5 córners | 25% | 25% | 38% | 25% |
+| Faltas cometidas | 12,6 | 10,2 | 14,5 | 13,8 |
+| Faltas recibidas | 13,6 | 14,0 | 10,5 | 9,2 |
+| Amarillas propias | 1,6 | 2,2 | 2,2 | 2,5 |
+| Amarillas del rival | 1,9 | 1,2 | 1,8 | 1,5 |
+| Rojas / partido | 0,00 | 0,00 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Estac Troyes | Recibe Estac Troyes | Tarjetas Estac Troyes | Goles Le Mans | Recibe Le Mans | Tarjetas Le Mans |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 0 | 2 | 1 | 1 |
-| 16-30' | 2 | 1 | 1 | 1 | 2 | 1 |
-| 31-45' | 1 | 4 | 2 | 3 | 3 | 0 |
-| 46-60' | 0 | 5 | 2 | 4 | 3 | 4 |
+| 16-30' | 2 | 1 | 1 | 1 | 2 | 3 |
+| 31-45' | 1 | 4 | 4 | 3 | 3 | 0 |
+| 46-60' | 0 | 5 | 2 | 5 | 4 | 4 |
 | 61-75' | 0 | 0 | 1 | 0 | 3 | 4 |
 | 76-90' | 1 | 5 | 5 | 1 | 3 | 7 |
 
@@ -121,110 +121,108 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Estac Troyes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Ligue 1 | Toulouse 0-0 Estac Troyes | fuera | 2-4 | 8 (0) - 7 (3) | 2-6 |
 | 2026-10-17 | Ligue 1 | Estac Troyes 1-3 Lens | casa | 6-4 | 12 (5) - 13 (3) | 2-2 |
 | 2026-10-11 | Ligue 1 | Estac Troyes 0-2 Marseille | casa | 6-3 | 15 (3) - 5 (2) | 4-1 |
 | 2026-09-19 | Ligue 1 | Angers 2-0 Estac Troyes | fuera | 11-2 | 19 (3) - 12 (3) | 2-3 |
 | 2026-09-13 | Ligue 1 | Lille 2-0 Estac Troyes | fuera | 5-2 | 8 (1) - 13 (6) | 0-1 |
 | 2026-09-06 | Ligue 1 | Estac Troyes 2-6 Strasbourg | casa | 11-0 | 27 (6) - 19 (12) | 1-1 |
-| 2026-08-29 | Ligue 1 | Lorient 1-2 Estac Troyes | fuera | 5-2 | 11 (2) - 15 (6) | 0-0 |
 
 ## Jugadores de Estac Troyes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. Monfray | D | 8 | 720 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 2 | 6 | 0,8 | 0 | 0 |
+| M. Diaz | D | 8 | 720 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 12 | 4 | 0,5 | 4 | 0 |
+| M. Diop | M | 8 | 658 | 0 | 0 | 7 | 0,9 | 0 | 0,0 | 7 | 10 | 1,2 | 1 | 0 |
 | Patrick Beach | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
-| Adrien Monfray | D | 7 | 630 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 2 | 5 | 0,7 | 0 | 0 |
-| Michel Diaz | D | 7 | 630 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 4 | 0,6 | 3 | 0 |
-| Mouhamed Diop | M | 7 | 569 | 0 | 0 | 6 | 0,9 | 0 | 0,0 | 6 | 7 | 1,0 | 1 | 0 |
-| Antoine Mille | M | 7 | 533 | 1 | 1 | 7 | 1,0 | 3 | 0,4 | 12 | 5 | 0,7 | 2 | 0 |
+| A. Mille | M | 8 | 623 | 1 | 1 | 9 | 1,1 | 3 | 0,4 | 16 | 5 | 0,6 | 2 | 0 |
+| D. Karim | M | 7 | 534 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 14 | 7 | 1,0 | 1 | 0 |
+| L. Maronnier | D | 7 | 497 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 5 | 0,7 | 1 | 0 |
+| R. Ripart | F | 8 | 467 | 1 | 0 | 12 | 1,5 | 5 | 0,6 | 6 | 13 | 1,6 | 1 | 0 |
 | Anis Ouzenadji | D | 5 | 450 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 12 | 2,4 | 0 | 0 |
-| Karim Dermane | M | 6 | 444 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 14 | 5 | 0,8 | 1 | 0 |
-| Lucas Maronnier | D | 6 | 407 | 1 | 0 | 3 | 0,5 | 1 | 0,2 | 6 | 4 | 0,7 | 1 | 0 |
-| Renaud Ripart | F | 7 | 394 | 1 | 0 | 11 | 1,6 | 5 | 0,7 | 5 | 10 | 1,4 | 1 | 0 |
-| Iron Gomis | M | 7 | 351 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 5 | 0,7 | 1 | 0 |
+| M. Ifnaoui | F | 5 | 416 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 7 | 1,4 | 0 | 0 |
+| I. Gomis | M | 8 | 352 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 5 | 0,6 | 1 | 0 |
 | Hugo Picard | M | 6 | 337 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,3 | 0 | 0 |
-| Merwan Ifnaoui | F | 4 | 326 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 5 | 1,2 | 0 | 0 |
-| Kandet Diawara | F | 7 | 318 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 3 | 6 | 0,9 | 0 | 0 |
-| Jérémy Le Douaron | F | 5 | 285 | 1 | 0 | 10 | 2,0 | 3 | 0,6 | 5 | 5 | 1,0 | 0 | 0 |
+| K. Diawara | F | 8 | 335 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 3 | 6 | 0,8 | 0 | 0 |
+| J. Le Douaron | F | 6 | 302 | 1 | 0 | 10 | 1,7 | 3 | 0,5 | 6 | 8 | 1,3 | 0 | 0 |
+| T. Nkada | F | 6 | 247 | 1 | 0 | 11 | 1,8 | 4 | 0,7 | 2 | 4 | 0,7 | 1 | 0 |
+| P. Gozzi | D | 3 | 244 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 1 | 2 | 0,7 | 0 | 0 |
 | Noah Donkor | D | 5 | 177 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 2 | 0,4 | 0 | 0 |
-| Timothé Nkada | F | 5 | 174 | 1 | 0 | 10 | 2,0 | 4 | 0,8 | 1 | 2 | 0,4 | 0 | 0 |
-| Paolo Gozzi | D | 2 | 154 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 2 | 1,0 | 0 | 0 |
+| H. Konaté | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 | Yvann Titi | D | 1 | 55 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 | Yacouba Kone | F | 5 | 41 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| Alexandre Phliponeau | M | 3 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 
 ## Últimos partidos de Le Mans
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Ligue 1 | Auxerre 1-1 Le Mans | fuera | 1-7 | 11 (2) - 13 (5) | 2-1 |
 | 2026-10-16 | Ligue 1 | Le Mans 0-3 Toulouse | casa | 2-2 | 11 (1) - 13 (5) | 2-1 |
 | 2026-10-10 | Ligue 1 | Paris Saint Germain 3-1 Le Mans | fuera | 4-4 | 11 (3) - 22 (8) | 4-0 |
 | 2026-09-19 | Ligue 1 | Le Mans 2-1 Lorient | casa | 1-3 | 11 (7) - 9 (2) | 3-3 |
 | 2026-09-13 | Ligue 1 | Le Mans 2-2 Lens | casa | 3-9 | 13 (5) - 16 (6) | 2-3 |
 | 2026-09-05 | Ligue 1 | Nice 1-1 Le Mans | fuera | 2-5 | 8 (3) - 8 (2) | 2-2 |
-| 2026-08-30 | Ligue 1 | Rennes 3-2 Le Mans | fuera | 6-8 | 12 (5) - 22 (8) | 2-3 |
 
 ## Jugadores de Le Mans
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Louis Mafouta | F | 7 | 585 | 4 | 1 | 14 | 2,0 | 10 | 1,4 | 8 | 6 | 0,9 | 0 | 0 |
+| L. Mafouta | F | 8 | 675 | 4 | 1 | 17 | 2,1 | 11 | 1,4 | 9 | 6 | 0,8 | 0 | 0 |
+| N. Kocik | G | 6 | 531 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
 | Harold Voyer | D | 6 | 527 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 5 | 1 | 0,2 | 1 | 0 |
-| Rayan Bamba | D | 6 | 471 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 9 | 1 | 0,2 | 0 | 0 |
-| Nicolas Kocik | G | 5 | 441 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Noa Boissé | D | 6 | 418 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
-| Lucas Bretelle | M | 6 | 404 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 9 | 8 | 1,3 | 0 | 0 |
-| Dame Gueye | F | 7 | 403 | 1 | 0 | 8 | 1,1 | 2 | 0,3 | 9 | 3 | 0,4 | 0 | 0 |
+| L. Bretelle | M | 7 | 494 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 10 | 10 | 1,4 | 0 | 0 |
+| R. Bamba | D | 7 | 474 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 9 | 1 | 0,1 | 0 | 0 |
+| L. Calodat | M | 8 | 473 | 1 | 2 | 4 | 0,5 | 4 | 0,5 | 2 | 4 | 0,5 | 0 | 0 |
+| S. Yohou | D | 6 | 466 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 8 | 1 | 0,2 | 1 | 0 |
+| N. Boissé | D | 7 | 455 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
+| D. Guèye | F | 8 | 430 | 1 | 0 | 10 | 1,2 | 2 | 0,2 | 9 | 3 | 0,4 | 0 | 0 |
+| A. Lauray | M | 7 | 421 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 12 | 2 | 0,3 | 4 | 0 |
+| J. Vercruysse | M | 7 | 411 | 0 | 1 | 7 | 1,0 | 1 | 0,1 | 9 | 6 | 0,9 | 1 | 0 |
 | Adil Bourabaa | M | 5 | 398 | 3 | 2 | 5 | 1,0 | 3 | 0,6 | 6 | 5 | 1,0 | 1 | 0 |
-| Jean Vercruysse | M | 6 | 384 | 0 | 1 | 6 | 1,0 | 1 | 0,2 | 9 | 4 | 0,7 | 1 | 0 |
-| Lucas Calodat | D | 7 | 383 | 1 | 2 | 4 | 0,6 | 4 | 0,6 | 2 | 2 | 0,3 | 0 | 0 |
-| Samuel Yohou | D | 5 | 376 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 7 | 1 | 0,2 | 1 | 0 |
-| Alexandre Lauray | M | 6 | 358 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 10 | 2 | 0,3 | 3 | 0 |
-| Lucas Buades | M | 3 | 249 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 9 | 3,0 | 0 | 0 |
-| Djibril Sidibé | D | 3 | 225 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 3 | 1,0 | 2 | 0 |
+| L. Buadés | M | 4 | 336 | 1 | 0 | 4 | 1,0 | 2 | 0,5 | 5 | 11 | 2,8 | 1 | 0 |
+| D. Sidibé | D | 4 | 278 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 5 | 4 | 1,0 | 2 | 0 |
+| A. Rabillard | M | 6 | 263 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 3 | 0,5 | 0 | 0 |
+| H. Diallo | F | 6 | 250 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 6 | 7 | 1,2 | 1 | 0 |
 | Yasser Larouci | M | 5 | 225 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 1 | 4 | 0,8 | 0 | 0 |
 | Ewan Hatfout | G | 3 | 189 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
-| Habibou Diallo | F | 5 | 187 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 5 | 4 | 0,8 | 1 | 0 |
 | Théo Eyoum | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| Antoine Rabillard | F | 5 | 177 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
-| Billal Brahimi | F | 5 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
+| Raúl Torrente | D | 3 | 164 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,79 · córners esperados 9,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,30 · visitante 1,53 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 29% | 37% | 3.20 | +19% |
-| 1X2: X | 23% | 27% | 25% | 3.40 | -15% |
-| 1X2: 1 | 32% | 44% | 38% | 2.10 | -21% |
-| Doble oportunidad: X2 | 68% | 56% | 62% | 1.70 | +6% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.30 | -2% |
-| Doble oportunidad: 1X | 55% | 70% | 62% | 1.36 | -15% |
-| Ambos marcan: No | 36% | 44% | 40% | 2.10 | -16% |
-| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | +0% |
-| Goles más/menos: Más de 1.5 | 84% | 76% | 80% | 1.25 | -0% |
-| Goles más/menos: Más de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
-| Goles más/menos: Más de 3.5 | 41% | 32% | 36% | 3.00 | +9% |
-| Goles más/menos: Menos de 1.5 | 16% | 24% | 20% | 4.00 | -20% |
-| Goles más/menos: Menos de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Menos de 3.5 | 59% | 68% | 64% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles del local: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Goles del local: Más de 1.5 | 43% | 46% | 45% | 2.00 | -10% |
-| Goles del local: Más de 2.5 | 18% | 22% | 20% | 4.33 | -13% |
-| Goles del local: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -3% |
-| Goles del local: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles del local: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
-| Goles del visitante: Más de 0.5 | 83% | 71% | 77% | 1.33 | +3% |
-| Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +16% |
-| Goles del visitante: Menos de 0.5 | 17% | 29% | 23% | 3.25 | -26% |
-| Goles del visitante: Menos de 1.5 | 47% | 65% | 56% | 1.44 | -20% |
-| Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -4% |
-| Córners más/menos: Menos de 8.5 | 42% | 46% | 44% | 2.00 | -11% |
-| 1X2 descanso: 2 | 35% | 25% | 30% | 3.75 | +12% |
-| 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
-| 1X2 descanso: 1 | 27% | 34% | 30% | 2.75 | -17% |
+| 1X2: 2 ✅ | 43% | 29% | 36% | 3.20 | +14% |
+| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2: 1 | 32% | 44% | 38% | 2.10 | -20% |
+| Doble oportunidad: X2 | 68% | 56% | 62% | 1.70 | +5% |
+| Doble oportunidad: 12 | 75% | 74% | 74% | 1.30 | -3% |
+| Doble oportunidad: 1X | 57% | 70% | 64% | 1.36 | -13% |
+| Ambos marcan: No | 43% | 44% | 44% | 2.10 | -8% |
+| Ambos marcan: Sí | 57% | 56% | 56% | 1.67 | -6% |
+| Goles más/menos: Más de 1.5 | 78% | 76% | 77% | 1.25 | -4% |
+| Goles más/menos: Más de 2.5 | 54% | 53% | 53% | 1.80 | -4% |
+| Goles más/menos: Más de 3.5 | 32% | 32% | 32% | 3.00 | -5% |
+| Goles más/menos: Menos de 1.5 | 22% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 2.5 | 46% | 47% | 47% | 2.00 | -7% |
+| Goles más/menos: Menos de 3.5 | 68% | 68% | 68% | 1.40 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del local: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
+| Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
+| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles del local: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
+| Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +0% |
+| Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -2% |
+| Goles del visitante: Más de 0.5 | 78% | 71% | 75% | 1.33 | -1% |
+| Goles del visitante: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
+| Goles del visitante: Menos de 0.5 | 22% | 29% | 25% | 3.25 | -18% |
+| Goles del visitante: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| Córners más/menos: Más de 8.5 | 55% | 54% | 55% | 1.73 | -6% |
+| Córners más/menos: Menos de 8.5 | 45% | 46% | 45% | 2.00 | -9% |
+| 1X2 descanso: 2 | 32% | 25% | 28% | 3.75 | +7% |
+| 1X2 descanso: X | 42% | 41% | 42% | 2.25 | -6% |
+| 1X2 descanso: 1 | 26% | 34% | 30% | 2.75 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

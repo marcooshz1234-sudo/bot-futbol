@@ -1,7 +1,7 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -202,7 +202,7 @@ _Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,3._
 | Goles más/menos: Más de 2.5 | 57% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
 | Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
-| Goles más/menos: Menos de 2.5 | 43% | 38% | 41% | 2.50 | +1% |
+| Goles más/menos: Menos de 2.5 | 43% | 38% | 41% | 2.50 | +2% |
 | Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
@@ -210,9 +210,9 @@ _Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,3._
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
 | Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 1.5 | 34% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
 | Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles del local: Menos de 1.5 | 66% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del visitante: Más de 1.5 | 53% | 62% | 58% | 1.50 | -14% |
 | Goles del visitante: Más de 2.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles del visitante: Menos de 1.5 ✅ | 47% | 38% | 42% | 2.50 | +6% |

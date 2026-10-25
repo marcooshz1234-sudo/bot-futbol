@@ -1,7 +1,7 @@
 # Elche – Valencia
 **LaLiga** · Regular Season - 11 · 01/11/2026 18:30 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -196,18 +196,18 @@ _Goles esperados: local 1,57 · visitante 0,84 · córners esperados 9,0._
 | Doble oportunidad: X2 | 45% | 62% | 54% | 1.53 | -18% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 80% | 67% | 74% | 1.40 | +3% |
-| Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
+| Ambos marcan: No | 55% | 47% | 51% | 2.00 | +1% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
-| Goles más/menos: Más de 1.5 | 69% | 75% | 72% | 1.28 | -8% |
+| Goles más/menos: Más de 1.5 | 70% | 75% | 72% | 1.28 | -8% |
 | Goles más/menos: Más de 2.5 | 43% | 50% | 47% | 1.91 | -11% |
 | Goles más/menos: Más de 3.5 | 22% | 28% | 25% | 3.40 | -14% |
-| Goles más/menos: Menos de 1.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +5% |
 | Goles más/menos: Menos de 2.5 | 57% | 50% | 53% | 1.91 | +2% |
 | Goles más/menos: Menos de 3.5 | 78% | 72% | 75% | 1.33 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -3% |
 | Goles del local: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Goles del local: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
 | Goles del local: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |

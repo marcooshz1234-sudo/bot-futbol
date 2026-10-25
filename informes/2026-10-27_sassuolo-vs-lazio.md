@@ -1,7 +1,7 @@
 # Sassuolo – Lazio
 **Serie A** · Regular Season - 9 · 27/10/2026 18:30 (hora España) · Mapei Stadium – Città del Tricolore
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -191,42 +191,42 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Lazzari | M | 5 | 57 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,44 · visitante 1,41 · córners esperados 10,1._
+_Goles esperados: local 1,43 · visitante 1,39 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 37% | 42% | 40% | 2.20 | -13% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 ✅ | 38% | 30% | 34% | 3.10 | +6% |
-| Doble oportunidad: X2 | 62% | 69% | 65% | 1.36 | -11% |
+| 1X2: 1 | 38% | 30% | 34% | 3.10 | +6% |
+| Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -11% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 63% | 58% | 61% | 1.62 | -2% |
-| Ambos marcan: No | 42% | 41% | 42% | 2.25 | -6% |
-| Ambos marcan: Sí | 58% | 59% | 58% | 1.57 | -8% |
-| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 54% | 55% | 55% | 1.73 | -6% |
-| Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
-| Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 70% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -3% |
-| Goles del local: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
-| Goles del local: Más de 1.5 | 42% | 39% | 41% | 2.38 | -3% |
-| Goles del local: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -12% |
-| Goles del local: Menos de 1.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Goles del visitante: Más de 2.5 | 17% | 23% | 20% | 4.00 | -20% |
-| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
-| Goles del visitante: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
-| Goles del visitante: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Córners más/menos: Más de 8.5 | 59% | 54% | 56% | 1.73 | -3% |
-| Córners más/menos: Menos de 8.5 | 41% | 46% | 44% | 2.00 | -13% |
-| 1X2 descanso: 2 | 29% | 34% | 31% | 2.75 | -15% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 30% | 26% | 28% | 3.50 | -2% |
+| Ambos marcan: No | 43% | 41% | 42% | 2.25 | -5% |
+| Ambos marcan: Sí | 57% | 59% | 58% | 1.57 | -9% |
+| Goles más/menos: Más de 1.5 | 77% | 78% | 78% | 1.22 | -5% |
+| Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -6% |
+| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -10% |
+| Goles más/menos: Menos de 1.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -4% |
+| Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
+| Goles del local: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
+| Goles del local: Más de 1.5 | 42% | 39% | 40% | 2.38 | -4% |
+| Goles del local: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles del local: Menos de 1.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Goles del visitante: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles del visitante: Más de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Goles del visitante: Más de 2.5 | 16% | 23% | 20% | 4.00 | -20% |
+| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
+| Goles del visitante: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -0% |
+| Goles del visitante: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -3% |
+| Córners más/menos: Menos de 8.5 | 42% | 46% | 44% | 2.00 | -12% |
+| 1X2 descanso: 2 | 28% | 34% | 31% | 2.75 | -15% |
+| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -5% |
+| 1X2 descanso: 1 | 29% | 26% | 28% | 3.50 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

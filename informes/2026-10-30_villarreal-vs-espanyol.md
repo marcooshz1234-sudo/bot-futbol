@@ -1,7 +1,7 @@
 # Villarreal – Espanyol
 **LaLiga** · Regular Season - 11 · 30/10/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | Rafael Bauzà | M | 4 | 107 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,05 · visitante 0,90 · córners esperados 9,8._
+_Goles esperados: local 2,05 · visitante 0,89 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -195,9 +195,9 @@ _Goles esperados: local 2,05 · visitante 0,90 · córners esperados 9,8._
 | 1X2: 1 | 64% | 62% | 63% | 1.50 | -6% |
 | Doble oportunidad: X2 | 36% | 38% | 37% | 2.50 | -8% |
 | Doble oportunidad: 12 | 80% | 79% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 84% | 83% | 84% | 1.14 | -5% |
-| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
-| Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
+| Doble oportunidad: 1X | 84% | 83% | 84% | 1.14 | -4% |
+| Ambos marcan: No | 49% | 44% | 46% | 2.10 | -3% |
+| Ambos marcan: Sí | 51% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 3.5 | 34% | 40% | 37% | 2.38 | -12% |
 | Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
@@ -214,10 +214,10 @@ _Goles esperados: local 2,05 · visitante 0,90 · córners esperados 9,8._
 | Goles del local: Menos de 2.5 | 66% | 62% | 64% | 1.50 | -3% |
 | Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
 | Goles del visitante: Más de 1.5 | 23% | 28% | 25% | 3.40 | -15% |
-| Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | +0% |
 | Goles del visitante: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -11% |
-| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -6% |
+| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
 | 1X2 descanso: X | 39% | 36% | 38% | 2.60 | -2% |
 | 1X2 descanso: 1 | 45% | 47% | 46% | 2.00 | -8% |
 

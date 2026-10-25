@@ -1,7 +1,7 @@
 # Como – Venezia
 **Serie A** · Regular Season - 10 · 01/11/2026 12:30 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,49 +9,49 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Como (total) | Como en casa | Venezia (total) | Venezia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 7 | 3 |
-| Forma (últimos 5) | VVVDE | VVEVV | VDDDD | DDD |
-| Balance | 7V 2E 2D | 4V 1E 0D | 1V 0E 6D | 0V 0E 3D |
-| Goles a favor / partido | 2,18 | 2,40 | 0,86 | 1,00 |
-| Goles en contra / partido | 1,09 | 0,60 | 2,29 | 2,67 |
-| Goles a favor 1ª parte | 1,09 | 0,80 | 0,29 | 0,33 |
-| Goles a favor 2ª parte | 1,09 | 1,60 | 0,57 | 0,67 |
-| Goles en contra 1ª parte | 0,64 | 0,00 | 1,00 | 1,67 |
-| Goles en contra 2ª parte | 0,45 | 0,60 | 1,29 | 1,00 |
-| Más de 1,5 goles | 91% | 80% | 86% | 100% |
-| Más de 2,5 goles | 64% | 60% | 43% | 67% |
-| Más de 3,5 goles | 45% | 40% | 43% | 67% |
-| Ambos marcan | 73% | 60% | 43% | 67% |
-| Portería a cero | 18% | 40% | 14% | 0% |
-| Se queda sin marcar | 18% | 20% | 43% | 33% |
-| xG a favor | 1,87 | 2,24 | 1,55 | 1,82 |
-| xG en contra | 1,29 | 0,98 | 2,32 | 2,10 |
-| Tiros / partido | 18,4 | 17,4 | 14,0 | 14,3 |
-| Tiros a puerta / partido | 6,6 | 6,2 | 4,3 | 3,3 |
-| Tiros recibidos | 13,6 | 11,0 | 17,6 | 17,0 |
-| Tiros a puerta recibidos | 3,5 | 2,8 | 7,3 | 8,0 |
+| Partidos analizados | 11 | 5 | 8 | 4 |
+| Forma (últimos 5) | VVVDE | VVEVV | DVDDD | DDDD |
+| Balance | 7V 2E 2D | 4V 1E 0D | 1V 0E 7D | 0V 0E 4D |
+| Goles a favor / partido | 2,18 | 2,40 | 0,75 | 0,75 |
+| Goles en contra / partido | 1,09 | 0,60 | 2,12 | 2,25 |
+| Goles a favor 1ª parte | 1,09 | 0,80 | 0,25 | 0,25 |
+| Goles a favor 2ª parte | 1,09 | 1,60 | 0,50 | 0,50 |
+| Goles en contra 1ª parte | 0,64 | 0,00 | 1,00 | 1,50 |
+| Goles en contra 2ª parte | 0,45 | 0,60 | 1,12 | 0,75 |
+| Más de 1,5 goles | 91% | 80% | 75% | 75% |
+| Más de 2,5 goles | 64% | 60% | 38% | 50% |
+| Más de 3,5 goles | 45% | 40% | 38% | 50% |
+| Ambos marcan | 73% | 60% | 38% | 50% |
+| Portería a cero | 18% | 40% | 12% | 0% |
+| Se queda sin marcar | 18% | 20% | 50% | 50% |
+| xG a favor | 1,87 | 2,24 | 1,58 | 1,82 |
+| xG en contra | 1,29 | 0,98 | 2,08 | 1,68 |
+| Tiros / partido | 18,4 | 17,4 | 14,6 | 15,5 |
+| Tiros a puerta / partido | 6,6 | 6,2 | 4,4 | 3,8 |
+| Tiros recibidos | 13,6 | 11,0 | 16,2 | 14,5 |
+| Tiros a puerta recibidos | 3,5 | 2,8 | 6,9 | 7,0 |
 | Posesión media % | 58 | 58 | 54 | 56 |
-| Córners a favor | 5,5 | 5,0 | 3,7 | 4,0 |
-| Córners en contra | 4,5 | 3,8 | 5,1 | 5,0 |
-| Córners a favor 1ª parte | 2,7 | 2,4 | 1,9 | 1,3 |
-| Córners a favor 2ª parte | 2,7 | 2,6 | 1,9 | 2,7 |
-| Córners totales del partido | 10,0 | 8,8 | 8,9 | 9,0 |
-| Córners totales 1ª parte | 4,6 | 4,4 | 4,1 | 4,0 |
-| Córners totales 2ª parte | 5,4 | 4,4 | 4,7 | 5,0 |
-| Más de 8,5 córners | 64% | 40% | 43% | 33% |
-| Más de 9,5 córners | 45% | 40% | 29% | 33% |
-| Más de 10,5 córners | 36% | 20% | 29% | 33% |
-| Faltas cometidas | 10,1 | 10,0 | 10,1 | 10,3 |
-| Faltas recibidas | 11,5 | 8,8 | 10,3 | 13,3 |
-| Amarillas propias | 1,5 | 1,6 | 2,9 | 3,0 |
-| Amarillas del rival | 2,2 | 2,2 | 1,1 | 1,3 |
+| Córners a favor | 5,5 | 5,0 | 4,5 | 5,5 |
+| Córners en contra | 4,5 | 3,8 | 4,8 | 4,2 |
+| Córners a favor 1ª parte | 2,7 | 2,4 | 1,9 | 1,5 |
+| Córners a favor 2ª parte | 2,7 | 2,6 | 2,6 | 4,0 |
+| Córners totales del partido | 10,0 | 8,8 | 9,2 | 9,8 |
+| Córners totales 1ª parte | 4,6 | 4,4 | 4,0 | 3,8 |
+| Córners totales 2ª parte | 5,4 | 4,4 | 5,2 | 6,0 |
+| Más de 8,5 córners | 64% | 40% | 50% | 50% |
+| Más de 9,5 córners | 45% | 40% | 38% | 50% |
+| Más de 10,5 córners | 36% | 20% | 38% | 50% |
+| Faltas cometidas | 10,1 | 10,0 | 10,2 | 10,5 |
+| Faltas recibidas | 11,5 | 8,8 | 10,5 | 13,0 |
+| Amarillas propias | 1,5 | 1,6 | 2,5 | 2,2 |
+| Amarillas del rival | 2,2 | 2,2 | 1,1 | 1,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Como | Recibe Como | Tarjetas Como | Goles Venezia | Recibe Venezia | Tarjetas Venezia |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 0 | 0 | 2 | 0 |
-| 16-30' | 5 | 4 | 1 | 1 | 4 | 3 |
+| 16-30' | 5 | 4 | 1 | 1 | 5 | 3 |
 | 31-45' | 5 | 2 | 4 | 1 | 1 | 5 |
 | 46-60' | 7 | 2 | 3 | 1 | 3 | 3 |
 | 61-75' | 0 | 0 | 3 | 2 | 2 | 3 |
@@ -107,38 +107,38 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Venezia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Serie A | Genoa 1-0 Venezia | fuera | 10-2 | 19 (5) - 7 (4) | 0-1 |
 | 2026-10-17 | Serie A | Venezia 1-0 Napoli | casa | 0-12 | 9 (4) - 29 (10) | 2-0 |
 | 2026-10-12 | Serie A | Atalanta 3-1 Venezia | fuera | 7-8 | 19 (4) - 22 (11) | 2-1 |
 | 2026-09-19 | Serie A | Venezia 0-2 Lazio | casa | 7-2 | 17 (6) - 12 (2) | 6-0 |
 | 2026-09-11 | Serie A | Venezia 2-4 Fiorentina | casa | 2-4 | 10 (3) - 19 (10) | 2-1 |
 | 2026-09-06 | Serie A | Frosinone 3-2 Venezia | fuera | 2-5 | 15 (4) - 13 (8) | 4-2 |
-| 2026-08-28 | Serie A | AC Milan 2-0 Venezia | fuera | 3-2 | 9 (2) - 16 (5) | 3-1 |
 
 ## Jugadores de Venezia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Filip Stanković | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Antoine Hainaut | M | 7 | 625 | 2 | 1 | 8 | 1,1 | 3 | 0,4 | 11 | 3 | 0,4 | 0 | 0 |
-| Kike Pérez | M | 7 | 600 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 11 | 14 | 2,0 | 3 | 0 |
-| Akor Adams | F | 7 | 586 | 2 | 0 | 22 | 3,1 | 10 | 1,4 | 5 | 4 | 0,6 | 0 | 0 |
-| John Yeboah | F | 7 | 535 | 1 | 0 | 15 | 2,1 | 6 | 0,9 | 3 | 8 | 1,1 | 0 | 0 |
+| F. Stanković | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Hainaut | M | 8 | 704 | 2 | 1 | 10 | 1,2 | 3 | 0,4 | 11 | 3 | 0,4 | 0 | 0 |
+| Kike Pérez | M | 8 | 690 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 13 | 17 | 2,1 | 3 | 0 |
+| A. Adams | F | 8 | 676 | 2 | 0 | 24 | 3,0 | 12 | 1,5 | 7 | 4 | 0,5 | 0 | 0 |
+| J. Yeboah | F | 8 | 625 | 1 | 0 | 18 | 2,2 | 7 | 0,9 | 3 | 10 | 1,2 | 0 | 0 |
+| S. Sohm | M | 7 | 496 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 1 | 0,1 | 2 | 0 |
 | Joel Schingtienne | D | 7 | 479 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 0 |
-| Simon Sohm | M | 6 | 409 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 2 | 0 | 0,0 | 2 | 0 |
-| Matias Moreno | D | 5 | 329 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 1 | 0,2 | 3 | 0 |
-| Ridgeciano Haps | M | 5 | 328 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 7 | 1,4 | 1 | 0 |
-| Redouane Halhal | D | 4 | 316 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 7 | 2 | 0,5 | 1 | 0 |
+| M. Moreno | D | 6 | 419 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 6 | 2 | 0,3 | 3 | 0 |
+| R. Halhal | D | 5 | 406 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 7 | 3 | 0,6 | 1 | 0 |
+| R. Haps | M | 6 | 399 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 2 | 9 | 1,5 | 1 | 0 |
+| Juan Jesus | D | 5 | 381 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 1 | 0,2 | 2 | 0 |
+| T. Bašić | M | 5 | 375 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 1 | 5 | 1,0 | 1 | 0 |
 | Gianluca Busio | M | 4 | 314 | 0 | 2 | 3 | 0,8 | 0 | 0,0 | 3 | 3 | 0,8 | 1 | 0 |
-| Toma Bašić | M | 4 | 304 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 1 | 5 | 1,2 | 1 | 0 |
-| Juan Jesus | D | 4 | 291 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 2 | 0 |
 | Richie Sagrado | D | 5 | 248 | 1 | 1 | 2 | 0,4 | 1 | 0,2 | 1 | 2 | 0,4 | 0 | 0 |
 | Armel Bella-Kotchap | D | 3 | 196 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 5 | 1,7 | 0 | 0 |
 | Thierry Correia | M | 5 | 193 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 5 | 3 | 0,6 | 1 | 0 |
 | Þórir Jóhann Helgason | M | 4 | 149 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 | Bartol Franjić | D | 2 | 134 | 0 | 0 | 2 | 1,0 | 2 | 1,0 | 0 | 1 | 0,5 | 0 | 0 |
-| Albion Rrahmani | F | 6 | 111 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
+| A. Rrahmani | F | 7 | 122 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
 | Toni Fernández | M | 3 | 58 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,25 · visitante 0,87 · córners esperados 9,6._
+_Goles esperados: local 2,97 · visitante 0,85 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

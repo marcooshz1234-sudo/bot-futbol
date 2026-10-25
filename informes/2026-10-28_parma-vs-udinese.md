@@ -1,7 +1,7 @@
 # Parma – Udinese
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -187,24 +187,24 @@ _Sin bajas comunicadas por ahora._
 | Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,13 · córners esperados 9,2._
+_Goles esperados: local 1,28 · visitante 1,13 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 39% | 36% | 2.40 | -14% |
+| 1X2: 2 | 33% | 39% | 36% | 2.40 | -14% |
 | 1X2: X | 27% | 29% | 28% | 3.20 | -9% |
 | 1X2: 1 | 40% | 31% | 36% | 3.00 | +7% |
 | Doble oportunidad: X2 | 60% | 69% | 65% | 1.36 | -12% |
 | Doble oportunidad: 12 | 73% | 69% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 68% | 62% | 65% | 1.53 | -1% |
-| Ambos marcan: No | 51% | 50% | 51% | 1.91 | -3% |
-| Ambos marcan: Sí | 49% | 50% | 49% | 1.91 | -6% |
-| Goles más/menos: Más de 1.5 | 69% | 70% | 70% | 1.36 | -5% |
+| Doble oportunidad: 1X | 67% | 62% | 64% | 1.53 | -1% |
+| Ambos marcan: No | 51% | 50% | 50% | 1.91 | -4% |
+| Ambos marcan: Sí | 49% | 50% | 50% | 1.91 | -5% |
+| Goles más/menos: Más de 1.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles más/menos: Más de 2.5 | 43% | 43% | 43% | 2.20 | -5% |
-| Goles más/menos: Más de 3.5 | 22% | 24% | 23% | 4.00 | -8% |
-| Goles más/menos: Menos de 1.5 | 31% | 30% | 30% | 3.20 | -3% |
+| Goles más/menos: Más de 3.5 | 22% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 30% | 30% | 30% | 3.20 | -4% |
 | Goles más/menos: Menos de 2.5 | 57% | 57% | 57% | 1.67 | -5% |
 | Goles más/menos: Menos de 3.5 | 78% | 76% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 65% | 64% | 1.44 | -8% |
@@ -218,11 +218,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
 | Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
 | Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
 | Córners más/menos: Más de 9.5 | 43% | 46% | 44% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 57% | 54% | 56% | 1.73 | -4% |
 | 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -16% |
 | 1X2 descanso: X | 46% | 45% | 45% | 2.05 | -7% |
-| 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -1% |
+| 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Monza – Napoli
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -189,39 +189,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | A. Vergara | M | 5 | 173 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 1,62 · córners esperados 9,4._
+_Goles esperados: local 1,82 · visitante 1,60 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 57% | 46% | 1.67 | -24% |
+| 1X2: 2 | 34% | 57% | 45% | 1.67 | -24% |
 | 1X2: X | 22% | 24% | 23% | 4.00 | -8% |
-| 1X2: 1 ✅ | 43% | 20% | 31% | 4.75 | +49% |
-| Doble oportunidad: X2 | 57% | 79% | 68% | 1.18 | -19% |
+| 1X2: 1 ✅ | 43% | 20% | 32% | 4.75 | +50% |
+| Doble oportunidad: X2 | 57% | 79% | 68% | 1.18 | -20% |
 | Doble oportunidad: 12 | 78% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 65% | 44% | 54% | 2.15 | +17% |
+| Doble oportunidad: 1X | 66% | 44% | 55% | 2.15 | +18% |
 | Ambos marcan: No | 33% | 45% | 39% | 2.05 | -20% |
-| Ambos marcan: Sí | 67% | 55% | 61% | 1.70 | +4% |
+| Ambos marcan: Sí | 67% | 55% | 61% | 1.70 | +3% |
 | Goles más/menos: Más de 1.5 | 86% | 78% | 82% | 1.22 | -0% |
 | Goles más/menos: Más de 2.5 | 67% | 55% | 61% | 1.73 | +5% |
 | Goles más/menos: Más de 3.5 | 45% | 34% | 40% | 2.75 | +9% |
-| Goles más/menos: Menos de 1.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles más/menos: Menos de 2.5 | 33% | 45% | 39% | 2.10 | -18% |
+| Goles más/menos: Menos de 1.5 | 14% | 22% | 18% | 4.33 | -21% |
+| Goles más/menos: Menos de 2.5 | 33% | 45% | 39% | 2.10 | -17% |
 | Goles más/menos: Menos de 3.5 | 55% | 66% | 60% | 1.44 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 72% | 74% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 72% | 74% | 1.30 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 38% | 40% | 2.50 | -0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 28% | 26% | 3.40 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
 | Goles del local: Más de 0.5 | 84% | 65% | 74% | 1.44 | +7% |
 | Goles del local: Más de 1.5 ✅ | 54% | 29% | 42% | 3.25 | +36% |
 | Goles del local: Menos de 0.5 | 16% | 35% | 26% | 2.62 | -32% |
 | Goles del local: Menos de 1.5 | 46% | 71% | 58% | 1.33 | -22% |
-| Goles del visitante: Más de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
-| Goles del visitante: Más de 2.5 | 22% | 29% | 26% | 3.25 | -17% |
+| Goles del visitante: Más de 1.5 | 48% | 56% | 52% | 1.67 | -14% |
+| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -17% |
 | Goles del visitante: Menos de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
-| Goles del visitante: Menos de 2.5 | 78% | 71% | 74% | 1.33 | -1% |
+| Goles del visitante: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
 | Córners más/menos: Más de 8.5 | 53% | 53% | 53% | 1.80 | -5% |
-| Córners más/menos: Menos de 8.5 | 47% | 47% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 8.5 | 47% | 47% | 47% | 2.00 | -5% |
 | 1X2 descanso: 2 | 29% | 41% | 35% | 2.25 | -21% |
-| 1X2 descanso: X | 37% | 39% | 38% | 2.38 | -9% |
+| 1X2 descanso: X | 38% | 39% | 38% | 2.38 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -191,44 +191,44 @@ _Sin bajas comunicadas por ahora._
 | Otto Emerson Stange | F | 6 | 197 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 10 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 0,96 · córners esperados 9,2._
+_Goles esperados: local 1,96 · visitante 0,98 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 20% | 18% | 4.75 | -12% |
-| 1X2: X | 21% | 22% | 21% | 4.33 | -8% |
-| 1X2: 1 | 62% | 58% | 60% | 1.62 | -2% |
-| Doble oportunidad: X2 | 38% | 42% | 40% | 2.25 | -10% |
-| Doble oportunidad: 12 | 79% | 78% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 83% | 80% | 81% | 1.18 | -4% |
+| 1X2: 2 | 18% | 20% | 19% | 4.75 | -9% |
+| 1X2: X | 22% | 22% | 22% | 4.33 | -6% |
+| 1X2: 1 | 60% | 58% | 59% | 1.62 | -4% |
+| Doble oportunidad: X2 | 40% | 42% | 41% | 2.25 | -8% |
+| Doble oportunidad: 12 | 78% | 78% | 78% | 1.20 | -6% |
+| Doble oportunidad: 1X | 82% | 80% | 81% | 1.18 | -5% |
 | Ambos marcan: No | 46% | 38% | 42% | 2.50 | +5% |
 | Ambos marcan: Sí | 54% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 2.5 | 58% | 66% | 62% | 1.44 | -11% |
-| Goles más/menos: Más de 3.5 | 35% | 45% | 40% | 2.10 | -16% |
-| Goles más/menos: Más de 4.5 | 18% | 27% | 23% | 3.50 | -20% |
-| Goles más/menos: Menos de 2.5 | 42% | 34% | 38% | 2.75 | +6% |
-| Goles más/menos: Menos de 3.5 | 65% | 55% | 60% | 1.73 | +4% |
-| Goles más/menos: Menos de 4.5 | 82% | 73% | 77% | 1.30 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles del local: Más de 2.5 | 33% | 39% | 36% | 2.38 | -14% |
-| Goles del local: Menos de 1.5 | 40% | 35% | 38% | 2.62 | -2% |
-| Goles del local: Menos de 2.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
-| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del visitante: Menos de 0.5 | 38% | 29% | 34% | 3.25 | +9% |
-| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
+| Goles más/menos: Más de 2.5 | 56% | 66% | 61% | 1.44 | -12% |
+| Goles más/menos: Más de 3.5 | 34% | 45% | 40% | 2.10 | -17% |
+| Goles más/menos: Más de 4.5 | 18% | 27% | 22% | 3.50 | -22% |
+| Goles más/menos: Menos de 2.5 | 44% | 34% | 39% | 2.75 | +7% |
+| Goles más/menos: Menos de 3.5 | 66% | 55% | 60% | 1.73 | +4% |
+| Goles más/menos: Menos de 4.5 | 82% | 73% | 78% | 1.30 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
+| Goles del local: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
+| Goles del local: Más de 2.5 | 31% | 39% | 35% | 2.38 | -16% |
+| Goles del local: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
+| Goles del local: Menos de 2.5 | 69% | 61% | 65% | 1.53 | -1% |
+| Goles del visitante: Más de 0.5 | 63% | 71% | 67% | 1.33 | -11% |
+| Goles del visitante: Más de 1.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles del visitante: Menos de 0.5 | 37% | 29% | 33% | 3.25 | +8% |
+| Goles del visitante: Menos de 1.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Córners más/menos: Más de 9.5 | 42% | 53% | 47% | 1.80 | -15% |
 | Córners más/menos: Menos de 9.5 | 58% | 47% | 53% | 2.00 | +5% |
-| 1X2 descanso: 2 | 17% | 20% | 18% | 4.50 | -17% |
-| 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -3% |
-| 1X2 descanso: 1 | 44% | 45% | 45% | 2.05 | -9% |
+| 1X2 descanso: 2 | 17% | 20% | 19% | 4.50 | -15% |
+| 1X2 descanso: X | 40% | 35% | 37% | 2.62 | -2% |
+| 1X2 descanso: 1 | 43% | 45% | 44% | 2.05 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

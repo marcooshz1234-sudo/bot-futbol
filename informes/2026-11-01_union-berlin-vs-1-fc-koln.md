@@ -1,7 +1,7 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -190,48 +190,48 @@ _Sin bajas comunicadas por ahora._
 | L. Waldschmidt | F | 4 | 43 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,20 · córners esperados 9,7._
+_Goles esperados: local 1,38 · visitante 1,24 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 36% | 34% | 2.60 | -12% |
+| 1X2: 2 | 34% | 36% | 35% | 2.60 | -9% |
 | 1X2: X | 26% | 26% | 26% | 3.60 | -6% |
-| 1X2: 1 | 42% | 38% | 40% | 2.50 | -0% |
-| Doble oportunidad: X2 | 58% | 63% | 60% | 1.50 | -9% |
+| 1X2: 1 | 40% | 38% | 39% | 2.50 | -3% |
+| Doble oportunidad: X2 | 60% | 63% | 61% | 1.50 | -8% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 68% | 63% | 66% | 1.50 | -1% |
+| Doble oportunidad: 1X | 66% | 63% | 65% | 1.50 | -3% |
 | Ambos marcan: No | 47% | 39% | 43% | 2.38 | +2% |
 | Ambos marcan: Sí | 53% | 61% | 57% | 1.53 | -13% |
 | Goles más/menos: Más de 1.5 | 74% | 79% | 76% | 1.20 | -8% |
 | Goles más/menos: Más de 2.5 | 49% | 57% | 53% | 1.67 | -12% |
 | Goles más/menos: Más de 3.5 | 27% | 36% | 32% | 2.62 | -17% |
 | Goles más/menos: Más de 4.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles más/menos: Menos de 1.5 | 26% | 21% | 24% | 4.50 | +6% |
+| Goles más/menos: Menos de 1.5 | 26% | 21% | 24% | 4.50 | +7% |
 | Goles más/menos: Menos de 2.5 | 51% | 43% | 47% | 2.20 | +4% |
-| Goles más/menos: Menos de 3.5 | 73% | 64% | 68% | 1.50 | +2% |
+| Goles más/menos: Menos de 3.5 | 73% | 64% | 68% | 1.50 | +3% |
 | Goles más/menos: Menos de 4.5 | 87% | 79% | 83% | 1.20 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 72% | 70% | 1.30 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 39% | 35% | 2.38 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
-| Goles del local: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles del local: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Goles del local: Más de 2.5 | 17% | 22% | 20% | 4.33 | -16% |
-| Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles del local: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -3% |
-| Goles del local: Menos de 2.5 | 83% | 78% | 80% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 70% | 77% | 73% | 1.22 | -11% |
-| Goles del visitante: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
-| Goles del visitante: Más de 2.5 | 12% | 21% | 16% | 4.50 | -26% |
-| Goles del visitante: Menos de 0.5 | 30% | 23% | 27% | 4.00 | +7% |
-| Goles del visitante: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
-| Goles del visitante: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
+| Goles del local: Más de 0.5 | 75% | 77% | 76% | 1.22 | -8% |
+| Goles del local: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
+| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -18% |
+| Goles del local: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -3% |
+| Goles del local: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -2% |
+| Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
+| Goles del visitante: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles del visitante: Más de 1.5 | 35% | 44% | 40% | 2.10 | -16% |
+| Goles del visitante: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles del visitante: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles del visitante: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles del visitante: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
 | Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -0% |
-| 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -15% |
-| 1X2 descanso: X | 44% | 39% | 41% | 2.38 | -1% |
-| 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -7% |
+| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -13% |
+| 1X2 descanso: X | 44% | 39% | 42% | 2.38 | -1% |
+| 1X2 descanso: 1 | 30% | 31% | 30% | 3.00 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

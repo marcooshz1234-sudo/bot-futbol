@@ -1,7 +1,7 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -54,53 +54,53 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Rayo Vallecano (total) | Rayo Vallecano en casa | Celta Vigo (total) | Celta Vigo fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 12 | 6 |
-| Forma (últimos 5) | DEEVD | DVVE | VVDEV | VEDEE |
-| Balance | 2V 3E 4D | 2V 1E 1D | 3V 5E 4D | 1V 4E 1D |
-| Goles a favor / partido | 1,33 | 1,50 | 1,08 | 0,50 |
-| Goles en contra / partido | 2,22 | 1,75 | 0,92 | 0,50 |
-| Goles a favor 1ª parte | 0,78 | 1,00 | 0,42 | 0,00 |
-| Goles a favor 2ª parte | 0,56 | 0,50 | 0,67 | 0,50 |
-| Goles en contra 1ª parte | 1,11 | 1,00 | 0,25 | 0,17 |
-| Goles en contra 2ª parte | 1,11 | 0,75 | 0,67 | 0,33 |
-| Más de 1,5 goles | 100% | 100% | 67% | 33% |
-| Más de 2,5 goles | 67% | 75% | 42% | 17% |
+| Partidos analizados | 9 | 4 | 13 | 6 |
+| Forma (últimos 5) | DEEVD | DVVE | EVVDE | VEDEE |
+| Balance | 2V 3E 4D | 2V 1E 1D | 3V 6E 4D | 1V 4E 1D |
+| Goles a favor / partido | 1,33 | 1,50 | 1,00 | 0,50 |
+| Goles en contra / partido | 2,22 | 1,75 | 0,85 | 0,50 |
+| Goles a favor 1ª parte | 0,78 | 1,00 | 0,38 | 0,00 |
+| Goles a favor 2ª parte | 0,56 | 0,50 | 0,62 | 0,50 |
+| Goles en contra 1ª parte | 1,11 | 1,00 | 0,23 | 0,17 |
+| Goles en contra 2ª parte | 1,11 | 0,75 | 0,62 | 0,33 |
+| Más de 1,5 goles | 100% | 100% | 62% | 33% |
+| Más de 2,5 goles | 67% | 75% | 38% | 17% |
 | Más de 3,5 goles | 33% | 25% | 8% | 0% |
-| Ambos marcan | 89% | 75% | 50% | 33% |
-| Portería a cero | 0% | 0% | 33% | 50% |
-| Se queda sin marcar | 11% | 25% | 42% | 67% |
-| xG a favor | 1,42 | 1,29 | 1,00 | 0,84 |
+| Ambos marcan | 89% | 75% | 46% | 33% |
+| Portería a cero | 0% | 0% | 38% | 50% |
+| Se queda sin marcar | 11% | 25% | 46% | 67% |
+| xG a favor | 1,42 | 1,29 | 0,99 | 0,84 |
 | xG en contra | 1,73 | 1,65 | 1,13 | 0,66 |
-| Tiros / partido | 14,8 | 14,5 | 11,2 | 13,0 |
-| Tiros a puerta / partido | 4,7 | 5,0 | 3,3 | 2,8 |
-| Tiros recibidos | 16,0 | 14,8 | 13,3 | 10,8 |
-| Tiros a puerta recibidos | 5,8 | 5,2 | 4,4 | 3,2 |
+| Tiros / partido | 14,8 | 14,5 | 11,3 | 13,0 |
+| Tiros a puerta / partido | 4,7 | 5,0 | 3,4 | 2,8 |
+| Tiros recibidos | 16,0 | 14,8 | 13,5 | 10,8 |
+| Tiros a puerta recibidos | 5,8 | 5,2 | 4,2 | 3,2 |
 | Posesión media % | 52 | 52 | 50 | 53 |
-| Córners a favor | 5,3 | 6,0 | 3,8 | 5,0 |
+| Córners a favor | 5,3 | 6,0 | 3,7 | 5,0 |
 | Córners en contra | 6,0 | 5,2 | 4,5 | 4,2 |
 | Córners a favor 1ª parte | 2,2 | 2,5 | 1,6 | 2,2 |
-| Córners a favor 2ª parte | 3,1 | 3,5 | 2,2 | 2,8 |
+| Córners a favor 2ª parte | 3,1 | 3,5 | 2,1 | 2,8 |
 | Córners totales del partido | 11,3 | 11,2 | 8,2 | 9,2 |
 | Córners totales 1ª parte | 5,3 | 4,2 | 3,4 | 4,2 |
 | Córners totales 2ª parte | 6,0 | 7,0 | 4,8 | 5,0 |
-| Más de 8,5 córners | 56% | 50% | 33% | 33% |
-| Más de 9,5 córners | 56% | 50% | 25% | 33% |
-| Más de 10,5 córners | 56% | 50% | 25% | 33% |
-| Faltas cometidas | 13,1 | 13,5 | 11,8 | 13,0 |
-| Faltas recibidas | 12,8 | 12,8 | 13,6 | 12,2 |
+| Más de 8,5 córners | 56% | 50% | 31% | 33% |
+| Más de 9,5 córners | 56% | 50% | 23% | 33% |
+| Más de 10,5 córners | 56% | 50% | 23% | 33% |
+| Faltas cometidas | 13,1 | 13,5 | 11,6 | 13,0 |
+| Faltas recibidas | 12,8 | 12,8 | 13,5 | 12,2 |
 | Amarillas propias | 2,6 | 3,0 | 1,6 | 2,0 |
-| Amarillas del rival | 2,3 | 2,0 | 2,2 | 2,2 |
+| Amarillas del rival | 2,3 | 2,0 | 2,1 | 2,2 |
 | Rojas / partido | 0,22 | 0,50 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Rayo Vallecano | Recibe Rayo Vallecano | Tarjetas Rayo Vallecano | Goles Celta Vigo | Recibe Celta Vigo | Tarjetas Celta Vigo |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 1 | 0 | 1 |
-| 16-30' | 2 | 6 | 1 | 1 | 3 | 1 |
+| 16-30' | 2 | 6 | 1 | 1 | 3 | 2 |
 | 31-45' | 1 | 2 | 4 | 3 | 0 | 3 |
 | 46-60' | 5 | 4 | 1 | 2 | 3 | 5 |
 | 61-75' | 0 | 2 | 7 | 4 | 1 | 3 |
-| 76-90' | 0 | 4 | 10 | 2 | 4 | 6 |
+| 76-90' | 0 | 4 | 10 | 2 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -152,72 +152,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Celta Vigo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | LaLiga | Celta Vigo 0-0 Real Betis | casa | 3-4 | 12 (4) - 15 (2) | 2-1 |
 | 2026-10-22 | Europa League | Celtic 1-2 Celta Vigo | fuera | 6-2 | 22 (4) - 8 (4) | 0-4 |
 | 2026-10-18 | LaLiga | Celta Vigo 2-1 Alaves | casa | 0-4 | 6 (3) - 20 (9) | 1-1 |
 | 2026-10-15 | Europa League | Celta Vigo 1-2 Juventus | casa | 2-7 | 9 (2) - 22 (6) | 2-2 |
 | 2026-10-11 | LaLiga | Elche 0-0 Celta Vigo | fuera | 2-5 | 7 (0) - 13 (2) | 3-1 |
 | 2026-09-19 | LaLiga | Celta Vigo 5-0 Racing Santander | casa | 3-3 | 13 (9) - 11 (5) | 2-5 |
-| 2026-09-16 | Europa League | Omonia Nicosia 1-0 Celta Vigo | fuera | 12-3 | 19 (5) - 10 (4) | 1-0 |
 
 ## Jugadores de Celta Vigo
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| I. Radu | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
-| Yoel Lago | D | 10 | 855 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 18 | 13 | 1,3 | 4 | 0 |
-| Sergio Carreira | M | 12 | 835 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 8 | 12 | 1,0 | 1 | 0 |
-| Marcos Alonso | D | 10 | 784 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 9 | 8 | 0,8 | 2 | 1 |
-| Ferran Jutglà | F | 12 | 763 | 2 | 0 | 16 | 1,3 | 5 | 0,4 | 12 | 14 | 1,2 | 0 | 0 |
-| I. Moriba | M | 11 | 744 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 8 | 13 | 1,2 | 1 | 0 |
-| Javi Rueda | M | 11 | 680 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 14 | 9 | 0,8 | 3 | 0 |
+| I. Radu | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 1 | 0 |
+| Yoel Lago | D | 11 | 945 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 18 | 15 | 1,4 | 4 | 0 |
+| Marcos Alonso | D | 11 | 874 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 10 | 8 | 0,7 | 2 | 1 |
+| Sergio Carreira | D | 13 | 857 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 9 | 12 | 0,9 | 2 | 0 |
+| I. Moriba | M | 12 | 834 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 10 | 14 | 1,2 | 2 | 0 |
+| Ferran Jutglà | F | 13 | 796 | 2 | 0 | 16 | 1,2 | 5 | 0,4 | 13 | 14 | 1,1 | 0 | 0 |
+| Javi Rueda | M | 12 | 748 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 14 | 9 | 0,8 | 3 | 0 |
+| Javi Rodríguez | D | 9 | 687 | 3 | 1 | 6 | 0,7 | 4 | 0,4 | 2 | 8 | 0,9 | 0 | 0 |
+| Hugo Álvarez | F | 11 | 685 | 1 | 3 | 4 | 0,4 | 1 | 0,1 | 8 | 11 | 1,0 | 0 | 0 |
 | Miguel Román | M | 8 | 669 | 1 | 2 | 8 | 1,0 | 2 | 0,2 | 6 | 4 | 0,5 | 0 | 0 |
-| Hugo Álvarez | F | 10 | 628 | 1 | 3 | 4 | 0,4 | 1 | 0,1 | 8 | 11 | 1,1 | 0 | 0 |
-| Javi Rodríguez | D | 8 | 597 | 3 | 1 | 6 | 0,8 | 4 | 0,5 | 2 | 7 | 0,9 | 0 | 0 |
-| W. Swedberg | F | 11 | 497 | 0 | 1 | 7 | 0,6 | 4 | 0,4 | 12 | 14 | 1,3 | 2 | 0 |
-| Aleix Febas | M | 7 | 478 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 9 | 10 | 1,4 | 1 | 0 |
+| Aleix Febas | M | 8 | 559 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 11 | 13 | 1,6 | 1 | 0 |
+| W. Swedberg | F | 12 | 529 | 0 | 1 | 7 | 0,6 | 4 | 0,3 | 12 | 14 | 1,2 | 2 | 0 |
+| Pablo Durán | F | 9 | 459 | 2 | 0 | 9 | 1,0 | 6 | 0,7 | 5 | 7 | 0,8 | 0 | 0 |
 | Álvaro Núñez | D | 6 | 436 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
-| Pablo Durán | F | 8 | 391 | 2 | 0 | 7 | 0,9 | 5 | 0,6 | 4 | 5 | 0,6 | 0 | 0 |
+| Javi Galán | M | 9 | 408 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 9 | 1,0 | 0 | 0 |
 | S. Cáceres | D | 4 | 347 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 1 | 0 |
-| Iago Aspas | F | 9 | 323 | 1 | 1 | 8 | 0,9 | 3 | 0,3 | 0 | 4 | 0,4 | 0 | 0 |
-| Javi Galán | D | 8 | 318 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 8 | 1,0 | 0 | 0 |
+| Iago Aspas | F | 10 | 345 | 1 | 1 | 9 | 0,9 | 3 | 0,3 | 0 | 5 | 0,5 | 0 | 0 |
+| Hugo González | F | 7 | 332 | 1 | 2 | 10 | 1,4 | 7 | 1,0 | 3 | 4 | 0,6 | 0 | 0 |
 | C. Starfelt | D | 4 | 308 | 1 | 0 | 5 | 1,2 | 2 | 0,5 | 3 | 2 | 0,5 | 1 | 0 |
-| Hugo González | F | 6 | 274 | 1 | 2 | 7 | 1,2 | 4 | 0,7 | 3 | 4 | 0,7 | 0 | 0 |
-| H. Burcio | M | 7 | 256 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
+| H. Burcio | M | 8 | 265 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 0,95 · córners esperados 9,5._
+_Goles esperados: local 1,23 · visitante 0,91 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 30% | 29% | 3.10 | -11% |
-| 1X2: X | 28% | 29% | 29% | 3.20 | -8% |
-| 1X2: 1 | 44% | 41% | 43% | 2.25 | -4% |
-| Doble oportunidad: X2 | 56% | 59% | 58% | 1.62 | -7% |
-| Doble oportunidad: 12 | 72% | 70% | 71% | 1.36 | -3% |
-| Doble oportunidad: 1X | 72% | 70% | 71% | 1.36 | -3% |
-| Ambos marcan: No | 56% | 48% | 52% | 1.95 | +1% |
-| Ambos marcan: Sí | 44% | 52% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 1.5 | 65% | 72% | 69% | 1.33 | -9% |
-| Goles más/menos: Más de 2.5 | 39% | 47% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 3.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles más/menos: Menos de 1.5 ✅ | 35% | 28% | 31% | 3.40 | +7% |
-| Goles más/menos: Menos de 2.5 | 61% | 53% | 57% | 1.80 | +3% |
-| Goles más/menos: Menos de 3.5 | 81% | 75% | 78% | 1.28 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles del local: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
-| Goles del local: Más de 1.5 | 37% | 41% | 39% | 2.25 | -13% |
-| Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles del local: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
-| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| 1X2: 2 | 27% | 30% | 29% | 3.10 | -11% |
+| 1X2: X | 29% | 29% | 29% | 3.20 | -7% |
+| 1X2: 1 | 43% | 41% | 42% | 2.25 | -5% |
+| Doble oportunidad: X2 | 57% | 59% | 58% | 1.62 | -6% |
+| Doble oportunidad: 12 | 71% | 70% | 71% | 1.36 | -4% |
+| Doble oportunidad: 1X | 73% | 70% | 71% | 1.36 | -3% |
+| Ambos marcan: No | 58% | 48% | 53% | 1.95 | +3% |
+| Ambos marcan: Sí | 42% | 52% | 47% | 1.80 | -15% |
+| Goles más/menos: Más de 1.5 | 63% | 72% | 67% | 1.33 | -10% |
+| Goles más/menos: Más de 2.5 | 36% | 47% | 42% | 2.00 | -17% |
+| Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -21% |
+| Goles más/menos: Menos de 1.5 ✅ | 37% | 28% | 33% | 3.40 | +11% |
+| Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
+| Goles más/menos: Menos de 3.5 | 83% | 75% | 79% | 1.28 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 59% | 66% | 63% | 1.40 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 37% | 2.75 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
+| Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del local: Más de 1.5 | 35% | 41% | 38% | 2.25 | -15% |
+| Goles del local: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles del local: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -2% |
+| Goles del visitante: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
+| Goles del visitante: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles del visitante: Menos de 0.5 ✅ | 40% | 31% | 36% | 3.00 | +7% |
+| Goles del visitante: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
 | Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -7% |
 | Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -4% |
 | 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -16% |
-| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -4% |
-| 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -8% |
+| 1X2 descanso: X | 49% | 44% | 46% | 2.10 | -2% |
+| 1X2 descanso: 1 | 30% | 31% | 30% | 3.00 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

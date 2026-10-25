@@ -1,7 +1,7 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -57,53 +57,53 @@ _Actualizadas: 25/10 16:17_
 ## Estadísticas de equipo
 | | Strasbourg (total) | Strasbourg en casa | Auxerre (total) | Auxerre fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 3 | 7 | 4 |
-| Forma (últimos 5) | DDDEV | DEV | VDVVD | VDDD |
-| Balance | 2V 1E 4D | 1V 1E 1D | 3V 0E 4D | 1V 0E 3D |
-| Goles a favor / partido | 1,71 | 1,33 | 1,57 | 1,75 |
-| Goles en contra / partido | 2,14 | 1,67 | 2,43 | 3,25 |
-| Goles a favor 1ª parte | 0,57 | 0,33 | 0,57 | 0,75 |
-| Goles a favor 2ª parte | 1,14 | 1,00 | 1,00 | 1,00 |
-| Goles en contra 1ª parte | 0,57 | 0,33 | 0,86 | 1,00 |
-| Goles en contra 2ª parte | 1,57 | 1,33 | 1,57 | 2,25 |
-| Más de 1,5 goles | 100% | 100% | 86% | 100% |
-| Más de 2,5 goles | 86% | 67% | 86% | 100% |
-| Más de 3,5 goles | 43% | 33% | 71% | 100% |
-| Ambos marcan | 86% | 100% | 86% | 100% |
-| Portería a cero | 0% | 0% | 14% | 0% |
-| Se queda sin marcar | 14% | 0% | 0% | 0% |
-| xG a favor | 1,19 | 1,44 | 1,65 | 1,75 |
-| xG en contra | 1,96 | 2,22 | 2,03 | 2,81 |
-| Tiros / partido | 12,3 | 15,3 | 12,1 | 10,8 |
-| Tiros a puerta / partido | 5,0 | 5,7 | 5,1 | 4,5 |
-| Tiros recibidos | 16,6 | 15,7 | 14,9 | 17,2 |
-| Tiros a puerta recibidos | 6,3 | 5,7 | 6,3 | 8,0 |
-| Posesión media % | 45 | 41 | 45 | 43 |
-| Córners a favor | 2,1 | 2,7 | 5,6 | 5,2 |
-| Córners en contra | 5,4 | 6,3 | 7,6 | 8,0 |
-| Córners a favor 1ª parte | 1,4 | 1,7 | 2,7 | 3,0 |
-| Córners a favor 2ª parte | 0,7 | 1,0 | 2,9 | 2,2 |
-| Córners totales del partido | 7,6 | 9,0 | 13,1 | 13,2 |
-| Córners totales 1ª parte | 4,1 | 3,7 | 6,1 | 7,2 |
+| Partidos analizados | 8 | 3 | 8 | 4 |
+| Forma (últimos 5) | DDDDE | DEV | EVDVV | VDDD |
+| Balance | 2V 1E 5D | 1V 1E 1D | 3V 1E 4D | 1V 0E 3D |
+| Goles a favor / partido | 1,50 | 1,33 | 1,50 | 1,75 |
+| Goles en contra / partido | 2,25 | 1,67 | 2,25 | 3,25 |
+| Goles a favor 1ª parte | 0,50 | 0,33 | 0,50 | 0,75 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 1,00 | 1,00 |
+| Goles en contra 1ª parte | 0,75 | 0,33 | 0,75 | 1,00 |
+| Goles en contra 2ª parte | 1,50 | 1,33 | 1,50 | 2,25 |
+| Más de 1,5 goles | 100% | 100% | 88% | 100% |
+| Más de 2,5 goles | 88% | 67% | 75% | 100% |
+| Más de 3,5 goles | 38% | 33% | 62% | 100% |
+| Ambos marcan | 75% | 100% | 88% | 100% |
+| Portería a cero | 0% | 0% | 12% | 0% |
+| Se queda sin marcar | 25% | 0% | 0% | 0% |
+| xG a favor | 1,16 | 1,44 | 1,55 | 1,75 |
+| xG en contra | 1,93 | 2,22 | 1,95 | 2,81 |
+| Tiros / partido | 12,2 | 15,3 | 12,2 | 10,8 |
+| Tiros a puerta / partido | 4,9 | 5,7 | 5,1 | 4,5 |
+| Tiros recibidos | 16,4 | 15,7 | 14,4 | 17,2 |
+| Tiros a puerta recibidos | 6,1 | 5,7 | 5,8 | 8,0 |
+| Posesión media % | 46 | 41 | 47 | 43 |
+| Córners a favor | 2,4 | 2,7 | 5,8 | 5,2 |
+| Córners en contra | 5,0 | 6,3 | 6,8 | 8,0 |
+| Córners a favor 1ª parte | 1,6 | 1,7 | 2,5 | 3,0 |
+| Córners a favor 2ª parte | 0,8 | 1,0 | 3,2 | 2,2 |
+| Córners totales del partido | 7,4 | 9,0 | 12,5 | 13,2 |
+| Córners totales 1ª parte | 4,0 | 3,7 | 5,5 | 7,2 |
 | Córners totales 2ª parte | 3,4 | 5,3 | 7,0 | 6,0 |
-| Más de 8,5 córners | 57% | 100% | 100% | 100% |
-| Más de 9,5 córners | 14% | 0% | 100% | 100% |
-| Más de 10,5 córners | 14% | 0% | 100% | 100% |
-| Faltas cometidas | 11,3 | 10,3 | 15,1 | 15,5 |
-| Faltas recibidas | 8,4 | 9,0 | 10,1 | 11,2 |
-| Amarillas propias | 1,6 | 1,7 | 1,4 | 1,2 |
-| Amarillas del rival | 1,3 | 1,0 | 1,6 | 1,8 |
-| Rojas / partido | 0,14 | 0,00 | 0,14 | 0,25 |
+| Más de 8,5 córners | 50% | 100% | 88% | 100% |
+| Más de 9,5 córners | 12% | 0% | 88% | 100% |
+| Más de 10,5 córners | 12% | 0% | 88% | 100% |
+| Faltas cometidas | 12,0 | 10,3 | 15,1 | 15,5 |
+| Faltas recibidas | 8,6 | 9,0 | 10,4 | 11,2 |
+| Amarillas propias | 1,8 | 1,7 | 1,4 | 1,2 |
+| Amarillas del rival | 1,2 | 1,0 | 1,6 | 1,8 |
+| Rojas / partido | 0,12 | 0,00 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Strasbourg | Recibe Strasbourg | Tarjetas Strasbourg | Goles Auxerre | Recibe Auxerre | Tarjetas Auxerre |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 1 | 0 | 0 | 3 | 0 |
 | 16-30' | 1 | 1 | 0 | 1 | 2 | 1 |
-| 31-45' | 3 | 2 | 2 | 3 | 1 | 3 |
-| 46-60' | 3 | 2 | 3 | 1 | 4 | 2 |
-| 61-75' | 0 | 2 | 3 | 4 | 3 | 2 |
-| 76-90' | 5 | 7 | 4 | 2 | 4 | 3 |
+| 31-45' | 3 | 4 | 3 | 3 | 1 | 4 |
+| 46-60' | 3 | 2 | 3 | 2 | 5 | 2 |
+| 61-75' | 0 | 3 | 4 | 4 | 3 | 3 |
+| 76-90' | 5 | 7 | 5 | 2 | 4 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -121,108 +121,106 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Strasbourg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Ligue 1 | Rennes 3-0 Strasbourg | fuera | 4-2 | 12 (4) - 15 (5) | 3-1 |
 | 2026-10-17 | Ligue 1 | Strasbourg 1-3 Paris Saint Germain | casa | 3-6 | 17 (8) - 18 (7) | 2-0 |
 | 2026-10-11 | Ligue 1 | Nice 2-1 Strasbourg | fuera | 3-2 | 11 (3) - 11 (6) | 1-1 |
 | 2026-09-19 | Ligue 1 | Paris FC 2-1 Strasbourg | fuera | 0-3 | 5 (1) - 17 (7) | 2-3 |
 | 2026-09-12 | Ligue 1 | Strasbourg 1-1 Monaco | casa | 2-7 | 13 (2) - 12 (3) | 1-1 |
 | 2026-09-06 | Ligue 1 | Estac Troyes 2-6 Strasbourg | fuera | 0-11 | 19 (12) - 27 (6) | 1-1 |
-| 2026-08-29 | Ligue 1 | Strasbourg 2-1 Lens | casa | 3-6 | 16 (7) - 17 (7) | 2-2 |
 
 ## Jugadores de Strasbourg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Filip Jørgensen | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| Genesis Antwi | D | 7 | 619 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,1 | 0 | 0 |
-| Gessime Yassine | M | 7 | 607 | 2 | 2 | 10 | 1,4 | 6 | 0,9 | 12 | 18 | 2,6 | 2 | 0 |
-| Jeyland Mitchell | D | 6 | 526 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
-| Pape Diop | M | 7 | 479 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 7 | 5 | 0,7 | 2 | 0 |
-| Oso | D | 5 | 450 | 0 | 0 | 6 | 1,2 | 1 | 0,2 | 3 | 10 | 2,0 | 1 | 0 |
-| Diogo Sousa | M | 6 | 447 | 1 | 1 | 5 | 0,8 | 4 | 0,7 | 10 | 2 | 0,3 | 1 | 0 |
-| Giovanni Reyna | M | 7 | 425 | 2 | 0 | 6 | 0,9 | 4 | 0,6 | 2 | 4 | 0,6 | 0 | 0 |
+| F. Jörgensen | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| G. Antwi | D | 8 | 709 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,1 | 0 | 0 |
+| Gessime Yassine | M | 8 | 677 | 2 | 2 | 10 | 1,2 | 6 | 0,8 | 13 | 23 | 2,9 | 3 | 0 |
+| J. Mitchell | D | 7 | 616 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 1 | 0,1 | 1 | 0 |
+| P. Diop | M | 8 | 569 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 8 | 5 | 0,6 | 3 | 0 |
+| Oso | D | 6 | 540 | 0 | 0 | 6 | 1,0 | 1 | 0,2 | 4 | 10 | 1,7 | 1 | 0 |
+| Diogo Sousa | M | 7 | 517 | 1 | 1 | 7 | 1,0 | 4 | 0,6 | 11 | 3 | 0,4 | 1 | 0 |
+| G. Reyna | M | 8 | 509 | 2 | 0 | 7 | 0,9 | 5 | 0,6 | 3 | 5 | 0,6 | 1 | 0 |
 | Sebastian Nanasi | M | 5 | 380 | 0 | 2 | 5 | 1,0 | 3 | 0,6 | 3 | 0 | 0,0 | 0 | 0 |
-| Jacobo Ortega | F | 7 | 341 | 1 | 1 | 5 | 0,7 | 4 | 0,6 | 8 | 2 | 0,3 | 0 | 0 |
-| Dário Essugo | M | 5 | 258 | 1 | 1 | 4 | 0,8 | 1 | 0,2 | 4 | 8 | 1,6 | 1 | 0 |
+| J. Ortega | F | 8 | 361 | 1 | 1 | 6 | 0,8 | 5 | 0,6 | 10 | 2 | 0,2 | 0 | 0 |
+| Abdoul Karim Coulibaly | D | 6 | 306 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
+| Dário Essugo | M | 6 | 303 | 1 | 1 | 5 | 0,8 | 1 | 0,2 | 5 | 8 | 1,3 | 1 | 0 |
+| C. Harder | F | 6 | 288 | 1 | 1 | 8 | 1,3 | 5 | 0,8 | 6 | 0 | 0,0 | 1 | 0 |
 | Ismael Doukouré | D | 3 | 250 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 0 | 0 |
 | Samuel Amo-Ameyaw | F | 7 | 244 | 2 | 0 | 8 | 1,1 | 5 | 0,7 | 4 | 3 | 0,4 | 1 | 0 |
-| Conrad Harder | F | 5 | 218 | 1 | 1 | 6 | 1,2 | 4 | 0,8 | 5 | 0 | 0,0 | 1 | 0 |
-| Karim Coulibaly | D | 5 | 216 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 | Lucas Høgsberg | D | 4 | 198 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| S. El Mourabet | M | 6 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 1 |
 | Andrew Omobamidele | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Samir El Mourabet | M | 5 | 167 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 1 |
 | Fabio Baldé | M | 4 | 96 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Auxerre
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Ligue 1 | Auxerre 1-1 Le Mans | casa | 7-1 | 13 (5) - 11 (2) | 1-2 |
 | 2026-10-18 | Ligue 1 | Le Havre 1-3 Auxerre | fuera | 4-7 | 13 (6) - 15 (6) | 2-1 |
 | 2026-10-11 | Ligue 1 | Rennes 4-1 Auxerre | fuera | 5-12 | 12 (5) - 21 (10) | 0-3 |
 | 2026-09-20 | Ligue 1 | Auxerre 2-1 Stade Brestois 29 | casa | 8-3 | 11 (4) - 8 (2) | 1-1 |
 | 2026-09-12 | Ligue 1 | Auxerre 1-0 Nice | casa | 3-8 | 11 (7) - 12 (4) | 1-1 |
 | 2026-09-04 | Ligue 1 | Lyon 3-1 Auxerre | fuera | 5-9 | 8 (3) - 21 (7) | 2-2 |
-| 2026-08-29 | Ligue 1 | Auxerre 1-3 Angers | casa | 7-10 | 20 (7) - 15 (6) | 3-2 |
 
 ## Jugadores de Auxerre
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Danois | M | 7 | 630 | 0 | 1 | 6 | 0,9 | 2 | 0,3 | 14 | 15 | 2,1 | 1 | 0 |
-| L. Sy | M | 7 | 628 | 1 | 0 | 4 | 0,6 | 1 | 0,1 | 11 | 4 | 0,6 | 0 | 0 |
-| C. Akpa | D | 7 | 617 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 11 | 10 | 1,4 | 2 | 0 |
-| D. Namaso | F | 7 | 573 | 3 | 2 | 13 | 1,9 | 8 | 1,1 | 10 | 8 | 1,1 | 0 | 0 |
+| K. Danois | M | 8 | 716 | 0 | 1 | 6 | 0,8 | 2 | 0,2 | 16 | 17 | 2,1 | 2 | 0 |
+| C. Akpa | D | 8 | 707 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 12 | 12 | 1,5 | 2 | 0 |
+| L. Sy | M | 8 | 701 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 11 | 4 | 0,5 | 0 | 0 |
+| D. Namaso | M | 8 | 659 | 3 | 2 | 15 | 1,9 | 8 | 1,0 | 13 | 10 | 1,2 | 0 | 0 |
+| N. Ahamada | M | 8 | 544 | 0 | 0 | 6 | 0,8 | 3 | 0,4 | 6 | 6 | 0,8 | 1 | 0 |
 | Mamadou Diop | G | 6 | 540 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Piedfort | M | 7 | 474 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 4 | 0,6 | 1 | 0 |
-| N. Ahamada | M | 7 | 446 | 0 | 0 | 5 | 0,7 | 3 | 0,4 | 5 | 4 | 0,6 | 1 | 0 |
-| C. Archer | F | 5 | 434 | 4 | 0 | 11 | 2,2 | 7 | 1,4 | 10 | 1 | 0,2 | 0 | 0 |
-| C. Makosso | D | 5 | 395 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,4 | 1 | 1 |
-| R. Faivre | F | 7 | 392 | 1 | 2 | 8 | 1,1 | 6 | 0,9 | 4 | 10 | 1,4 | 0 | 0 |
-| F. Oppegård | M | 5 | 385 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,2 | 0 | 0 |
-| A. Tuanzebe | D | 4 | 360 | 0 | 0 | 4 | 1,0 | 1 | 0,2 | 3 | 2 | 0,5 | 0 | 0 |
+| C. Archer | F | 6 | 532 | 5 | 0 | 13 | 2,2 | 8 | 1,3 | 11 | 1 | 0,2 | 0 | 0 |
+| C. Makosso | D | 6 | 485 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 7 | 2 | 0,3 | 1 | 1 |
+| R. Faivre | M | 8 | 482 | 1 | 2 | 11 | 1,4 | 8 | 1,0 | 5 | 13 | 1,6 | 0 | 0 |
+| A. Piedfort | M | 8 | 475 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 4 | 0,5 | 1 | 0 |
+| F. Oppegård | M | 6 | 475 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
+| A. Tuanzebe | D | 5 | 450 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 5 | 2 | 0,4 | 0 | 0 |
 | Remy Labeau Lascary | F | 5 | 256 | 1 | 0 | 8 | 1,6 | 6 | 1,2 | 3 | 2 | 0,4 | 0 | 0 |
+| P. Nardi | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Sinaly Diomandé | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 3 | 1,5 | 1 | 0 |
 | E. Legros | D | 5 | 155 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| Aristide Zossou | M | 4 | 127 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| P. Nardi | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Rayan Mandengue | D | 4 | 64 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 7 | 2 | 0,5 | 1 | 0 |
-| Pierre Ekwah | M | 4 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,5 | 0 | 0 |
+| Aristide Zossou | M | 5 | 131 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| R. Mandengue | D | 5 | 81 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 8 | 2 | 0,4 | 1 | 0 |
+| P. Ekwah | M | 5 | 52 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 | Lamfia Dioubaté | M | 3 | 34 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,28 · visitante 1,61 · córners esperados 9,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 2,02 · visitante 1,44 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 27% | 24% | 26% | 3.80 | -2% |
-| 1X2: X | 20% | 24% | 22% | 3.80 | -16% |
-| 1X2: 1 | 53% | 51% | 52% | 1.80 | -6% |
-| Doble oportunidad: X2 | 47% | 49% | 48% | 1.95 | -7% |
-| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
+| 1X2: X | 22% | 24% | 23% | 3.80 | -13% |
+| 1X2: 1 | 51% | 51% | 51% | 1.80 | -8% |
+| Doble oportunidad: X2 | 49% | 49% | 49% | 1.95 | -5% |
+| Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 73% | 76% | 74% | 1.25 | -7% |
-| Ambos marcan: No | 28% | 39% | 34% | 2.38 | -20% |
-| Ambos marcan: Sí | 72% | 61% | 66% | 1.53 | +1% |
-| Goles más/menos: Más de 2.5 | 74% | 60% | 67% | 1.57 | +6% |
-| Goles más/menos: Más de 3.5 | 54% | 40% | 47% | 2.38 | +12% |
-| Goles más/menos: Más de 4.5 | 35% | 22% | 28% | 4.33 | +23% |
-| Goles más/menos: Menos de 2.5 | 26% | 40% | 33% | 2.38 | -22% |
-| Goles más/menos: Menos de 3.5 | 46% | 60% | 53% | 1.57 | -17% |
-| Goles más/menos: Menos de 4.5 | 65% | 78% | 72% | 1.22 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -13% |
-| Goles del local: Más de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
-| Goles del local: Más de 2.5 | 40% | 31% | 36% | 3.00 | +7% |
-| Goles del local: Menos de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
-| Goles del local: Menos de 2.5 | 60% | 69% | 64% | 1.36 | -12% |
-| Goles del visitante: Más de 0.5 | 80% | 71% | 75% | 1.33 | +0% |
-| Goles del visitante: Más de 1.5 | 48% | 35% | 42% | 2.62 | +9% |
-| Goles del visitante: Menos de 0.5 | 20% | 29% | 25% | 3.25 | -20% |
-| Goles del visitante: Menos de 1.5 | 52% | 65% | 58% | 1.44 | -16% |
-| Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
-| 1X2 descanso: X | 34% | 37% | 36% | 2.50 | -11% |
-| 1X2 descanso: 1 | 41% | 40% | 40% | 2.30 | -7% |
+| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -13% |
+| Ambos marcan: Sí | 66% | 61% | 64% | 1.53 | -3% |
+| Goles más/menos: Más de 2.5 | 67% | 60% | 64% | 1.57 | +0% |
+| Goles más/menos: Más de 3.5 | 46% | 40% | 43% | 2.38 | +2% |
+| Goles más/menos: Más de 4.5 | 27% | 22% | 24% | 4.33 | +6% |
+| Goles más/menos: Menos de 2.5 | 33% | 40% | 36% | 2.38 | -14% |
+| Goles más/menos: Menos de 3.5 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Menos de 4.5 | 73% | 78% | 76% | 1.22 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
+| Goles del local: Más de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
+| Goles del local: Más de 2.5 | 33% | 31% | 32% | 3.00 | -4% |
+| Goles del local: Menos de 1.5 | 40% | 44% | 42% | 2.10 | -11% |
+| Goles del local: Menos de 2.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del visitante: Más de 0.5 | 76% | 71% | 74% | 1.33 | -2% |
+| Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
+| Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
+| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.91 | -12% |
+| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
+| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: 1 | 39% | 40% | 39% | 2.30 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

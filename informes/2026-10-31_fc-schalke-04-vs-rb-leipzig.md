@@ -1,7 +1,7 @@
 # FC Schalke 04 – RB Leipzig
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Veltins Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -197,10 +197,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 52% | 50% | 1.83 | -9% |
+| 1X2: 2 | 48% | 52% | 50% | 1.83 | -8% |
 | 1X2: X | 26% | 24% | 25% | 4.00 | +0% |
-| 1X2: 1 | 26% | 24% | 25% | 3.90 | -3% |
-| Doble oportunidad: X2 | 74% | 75% | 75% | 1.25 | -7% |
+| 1X2: 1 | 25% | 24% | 25% | 3.90 | -3% |
+| Doble oportunidad: X2 | 75% | 75% | 75% | 1.25 | -7% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.22 | -8% |
 | Doble oportunidad: 1X | 52% | 49% | 50% | 1.91 | -4% |
 | Ambos marcan: No | 52% | 35% | 44% | 2.62 | +14% |
@@ -211,15 +211,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 55% | 34% | 45% | 2.75 | +24% |
 | Goles más/menos: Menos de 3.5 | 77% | 55% | 66% | 1.73 | +14% |
 | Goles más/menos: Menos de 4.5 | 90% | 73% | 81% | 1.30 | +6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 77% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 23% | 29% | 4.00 | +18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
 | Goles del local: Más de 0.5 | 63% | 75% | 69% | 1.25 | -14% |
 | Goles del local: Más de 1.5 | 26% | 41% | 34% | 2.25 | -24% |
-| Goles del local: Menos de 0.5 | 37% | 25% | 31% | 3.75 | +16% |
+| Goles del local: Menos de 0.5 | 37% | 25% | 31% | 3.75 | +17% |
 | Goles del local: Menos de 1.5 | 74% | 59% | 66% | 1.57 | +4% |
 | Goles del visitante: Más de 1.5 | 43% | 61% | 52% | 1.53 | -20% |
 | Goles del visitante: Más de 2.5 | 18% | 35% | 27% | 2.62 | -30% |

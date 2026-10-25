@@ -1,7 +1,7 @@
 # SV Elversberg – FSV Mainz 05
 **Bundesliga** · Regular Season - 8 · 30/10/2026 20:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | Lennard Maloney | M | 4 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,26 · visitante 2,13 · córners esperados 9,8._
+_Goles esperados: local 2,25 · visitante 2,13 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -194,25 +194,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 46% | 42% | 2.05 | -14% |
 | 1X2: X | 20% | 25% | 22% | 3.75 | -16% |
-| 1X2: 1 | 43% | 29% | 36% | 3.20 | +15% |
-| Doble oportunidad: X2 | 57% | 70% | 64% | 1.36 | -14% |
+| 1X2: 1 | 42% | 29% | 36% | 3.20 | +15% |
+| Doble oportunidad: X2 | 58% | 70% | 64% | 1.36 | -13% |
 | Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -2% |
 | Doble oportunidad: 1X | 62% | 55% | 58% | 1.73 | +1% |
 | Ambos marcan: No | 21% | 35% | 28% | 2.62 | -26% |
 | Ambos marcan: Sí | 79% | 65% | 72% | 1.44 | +3% |
 | Goles más/menos: Más de 2.5 | 81% | 64% | 72% | 1.50 | +9% |
-| Goles más/menos: Más de 3.5 | 64% | 43% | 54% | 2.20 | +18% |
+| Goles más/menos: Más de 3.5 | 64% | 43% | 53% | 2.20 | +18% |
 | Goles más/menos: Más de 4.5 | 45% | 24% | 34% | 4.00 | +37% |
 | Goles más/menos: Menos de 2.5 | 19% | 36% | 28% | 2.62 | -28% |
-| Goles más/menos: Menos de 3.5 | 36% | 57% | 46% | 1.67 | -22% |
+| Goles más/menos: Menos de 3.5 | 36% | 57% | 47% | 1.67 | -22% |
 | Goles más/menos: Menos de 4.5 | 55% | 76% | 66% | 1.25 | -18% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 75% | 80% | 1.25 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Goles del local: Más de 0.5 | 90% | 75% | 82% | 1.25 | +3% |
+| Goles del local: Más de 0.5 | 89% | 75% | 82% | 1.25 | +3% |
 | Goles del local: Más de 1.5 | 66% | 42% | 54% | 2.20 | +19% |
-| Goles del local: Menos de 0.5 | 10% | 25% | 18% | 3.75 | -34% |
+| Goles del local: Menos de 0.5 | 11% | 25% | 18% | 3.75 | -33% |
 | Goles del local: Menos de 1.5 | 34% | 58% | 46% | 1.62 | -26% |
 | Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del visitante: Más de 2.5 | 36% | 28% | 32% | 3.40 | +8% |

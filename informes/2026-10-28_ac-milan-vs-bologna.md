@@ -1,7 +1,7 @@
 # AC Milan – Bologna
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Oussama El Azzouzi | M | 2 | 107 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 2 | 2 | 1,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 0,80 · córners esperados 9,1._
+_Goles esperados: local 1,62 · visitante 0,78 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -199,29 +199,29 @@ _Goles esperados: local 1,63 · visitante 0,80 · córners esperados 9,1._
 | Doble oportunidad: X2 | 43% | 42% | 42% | 2.25 | -5% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 82% | 83% | 82% | 1.14 | -6% |
-| Ambos marcan: No | 56% | 48% | 52% | 1.95 | +1% |
-| Ambos marcan: Sí | 44% | 52% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
-| Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +4% |
-| Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Ambos marcan: No | 56% | 48% | 52% | 1.95 | +2% |
+| Ambos marcan: Sí | 44% | 52% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 1.5 | 69% | 76% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 2.5 | 43% | 53% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -19% |
+| Goles más/menos: Menos de 1.5 | 31% | 24% | 27% | 4.00 | +9% |
+| Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +4% |
+| Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 67% | 1.33 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 ✅ | 36% | 29% | 33% | 3.25 | +6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del local: Más de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
-| Goles del local: Más de 2.5 | 23% | 29% | 26% | 3.25 | -16% |
-| Goles del local: Menos de 1.5 | 51% | 44% | 48% | 2.10 | +1% |
-| Goles del local: Menos de 2.5 | 77% | 71% | 74% | 1.33 | -1% |
-| Goles del visitante: Más de 0.5 | 55% | 59% | 57% | 1.57 | -11% |
-| Goles del visitante: Más de 1.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del visitante: Menos de 0.5 | 45% | 41% | 43% | 2.25 | -3% |
-| Goles del visitante: Menos de 1.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Goles del local: Más de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
+| Goles del local: Más de 2.5 | 22% | 29% | 26% | 3.25 | -17% |
+| Goles del local: Menos de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
+| Goles del local: Menos de 2.5 | 78% | 71% | 74% | 1.33 | -1% |
+| Goles del visitante: Más de 0.5 | 54% | 59% | 57% | 1.57 | -11% |
+| Goles del visitante: Más de 1.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del visitante: Menos de 0.5 | 46% | 41% | 43% | 2.25 | -2% |
+| Goles del visitante: Menos de 1.5 | 81% | 75% | 78% | 1.25 | -2% |
 | Córners más/menos: Más de 8.5 | 50% | 48% | 49% | 1.98 | -3% |
 | Córners más/menos: Menos de 8.5 | 50% | 52% | 51% | 1.82 | -7% |
-| 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -3% |
+| 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -2% |
 | 1X2 descanso: 1 | 39% | 44% | 41% | 2.10 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

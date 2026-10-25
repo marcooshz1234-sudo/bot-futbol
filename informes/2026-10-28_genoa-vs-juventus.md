@@ -1,7 +1,7 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -57,51 +57,51 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Genoa (total) | Genoa en casa | Juventus (total) | Juventus fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 10 | 4 |
-| Forma (últimos 5) | DVDED | VEDD | EDVEV | VEDV |
-| Balance | 1V 1E 5D | 1V 1E 2D | 5V 3E 2D | 2V 1E 1D |
-| Goles a favor / partido | 0,71 | 1,00 | 1,80 | 1,50 |
-| Goles en contra / partido | 1,86 | 2,00 | 1,10 | 1,25 |
-| Goles a favor 1ª parte | 0,43 | 0,75 | 0,60 | 0,25 |
-| Goles a favor 2ª parte | 0,29 | 0,25 | 1,20 | 1,25 |
-| Goles en contra 1ª parte | 0,86 | 1,00 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 0,60 | 0,75 |
-| Más de 1,5 goles | 86% | 100% | 90% | 75% |
-| Más de 2,5 goles | 43% | 50% | 50% | 50% |
-| Más de 3,5 goles | 14% | 25% | 30% | 25% |
-| Ambos marcan | 57% | 75% | 50% | 75% |
-| Portería a cero | 0% | 0% | 40% | 25% |
-| Se queda sin marcar | 43% | 25% | 10% | 0% |
-| xG a favor | 0,91 | 1,20 | 1,63 | 1,79 |
-| xG en contra | 1,25 | 1,32 | 0,70 | 0,76 |
-| Tiros / partido | 11,1 | 12,2 | 16,6 | 20,8 |
-| Tiros a puerta / partido | 2,9 | 3,2 | 5,8 | 7,2 |
-| Tiros recibidos | 15,3 | 18,0 | 8,8 | 8,5 |
-| Tiros a puerta recibidos | 4,4 | 5,5 | 2,9 | 3,0 |
-| Posesión media % | 44 | 41 | 56 | 62 |
-| Córners a favor | 4,4 | 5,2 | 7,1 | 9,5 |
-| Córners en contra | 4,7 | 5,5 | 3,0 | 2,2 |
-| Córners a favor 1ª parte | 2,1 | 2,2 | 3,4 | 4,8 |
-| Córners a favor 2ª parte | 2,3 | 3,0 | 3,7 | 4,8 |
-| Córners totales del partido | 9,1 | 10,8 | 10,1 | 11,8 |
-| Córners totales 1ª parte | 3,9 | 4,2 | 4,7 | 5,5 |
-| Córners totales 2ª parte | 5,3 | 6,5 | 5,4 | 6,2 |
-| Más de 8,5 córners | 43% | 75% | 80% | 100% |
-| Más de 9,5 córners | 29% | 50% | 60% | 75% |
-| Más de 10,5 córners | 14% | 25% | 50% | 50% |
-| Faltas cometidas | 9,7 | 10,2 | 13,1 | 14,5 |
-| Faltas recibidas | 11,7 | 9,2 | 11,2 | 10,8 |
-| Amarillas propias | 2,9 | 3,0 | 1,3 | 1,8 |
-| Amarillas del rival | 1,9 | 1,8 | 2,0 | 2,0 |
-| Rojas / partido | 0,14 | 0,25 | 0,00 | 0,00 |
+| Partidos analizados | 8 | 5 | 10 | 4 |
+| Forma (últimos 5) | VDVDE | VVEDD | EDVEV | VEDV |
+| Balance | 2V 1E 5D | 2V 1E 2D | 5V 3E 2D | 2V 1E 1D |
+| Goles a favor / partido | 0,75 | 1,00 | 1,80 | 1,50 |
+| Goles en contra / partido | 1,62 | 1,60 | 1,10 | 1,25 |
+| Goles a favor 1ª parte | 0,50 | 0,80 | 0,60 | 0,25 |
+| Goles a favor 2ª parte | 0,25 | 0,20 | 1,20 | 1,25 |
+| Goles en contra 1ª parte | 0,75 | 0,80 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 0,88 | 0,80 | 0,60 | 0,75 |
+| Más de 1,5 goles | 75% | 80% | 90% | 75% |
+| Más de 2,5 goles | 38% | 40% | 50% | 50% |
+| Más de 3,5 goles | 12% | 20% | 30% | 25% |
+| Ambos marcan | 50% | 60% | 50% | 75% |
+| Portería a cero | 12% | 20% | 40% | 25% |
+| Se queda sin marcar | 38% | 20% | 10% | 0% |
+| xG a favor | 0,85 | 1,04 | 1,63 | 1,79 |
+| xG en contra | 1,32 | 1,42 | 0,70 | 0,76 |
+| Tiros / partido | 10,6 | 11,2 | 16,6 | 20,8 |
+| Tiros a puerta / partido | 3,0 | 3,4 | 5,8 | 7,2 |
+| Tiros recibidos | 15,8 | 18,2 | 8,8 | 8,5 |
+| Tiros a puerta recibidos | 4,5 | 5,4 | 2,9 | 3,0 |
+| Posesión media % | 44 | 42 | 56 | 62 |
+| Córners a favor | 4,1 | 4,6 | 7,1 | 9,5 |
+| Córners en contra | 5,4 | 6,4 | 3,0 | 2,2 |
+| Córners a favor 1ª parte | 2,0 | 2,0 | 3,4 | 4,8 |
+| Córners a favor 2ª parte | 2,1 | 2,6 | 3,7 | 4,8 |
+| Córners totales del partido | 9,5 | 11,0 | 10,1 | 11,8 |
+| Córners totales 1ª parte | 3,8 | 4,0 | 4,7 | 5,5 |
+| Córners totales 2ª parte | 5,8 | 7,0 | 5,4 | 6,2 |
+| Más de 8,5 córners | 50% | 80% | 80% | 100% |
+| Más de 9,5 córners | 38% | 60% | 60% | 75% |
+| Más de 10,5 córners | 25% | 40% | 50% | 50% |
+| Faltas cometidas | 10,0 | 10,6 | 13,1 | 14,5 |
+| Faltas recibidas | 11,6 | 9,6 | 11,2 | 10,8 |
+| Amarillas propias | 2,6 | 2,6 | 1,3 | 1,8 |
+| Amarillas del rival | 1,6 | 1,4 | 2,0 | 2,0 |
+| Rojas / partido | 0,12 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Genoa | Recibe Genoa | Tarjetas Genoa | Goles Juventus | Recibe Juventus | Tarjetas Juventus |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 4 | 2 | 1 | 1 |
-| 16-30' | 1 | 3 | 0 | 3 | 2 | 4 |
+| 16-30' | 2 | 3 | 0 | 3 | 2 | 4 |
 | 31-45' | 0 | 2 | 2 | 1 | 2 | 0 |
-| 46-60' | 1 | 1 | 2 | 1 | 0 | 4 |
+| 46-60' | 1 | 1 | 3 | 1 | 0 | 4 |
 | 61-75' | 1 | 2 | 4 | 3 | 3 | 1 |
 | 76-90' | 0 | 4 | 9 | 8 | 3 | 4 |
 
@@ -121,36 +121,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Genoa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Serie A | Genoa 1-0 Venezia | casa | 2-10 | 7 (4) - 19 (5) | 1-0 |
 | 2026-10-17 | Serie A | AS Roma 2-0 Genoa | fuera | 3-5 | 9 (1) - 15 (5) | 3-2 |
 | 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | casa | 3-4 | 10 (4) - 13 (3) | 5-3 |
 | 2026-09-20 | Serie A | Parma 2-1 Genoa | fuera | 5-2 | 12 (5) - 5 (2) | 3-3 |
 | 2026-09-12 | Serie A | Genoa 1-1 Frosinone | casa | 8-9 | 17 (5) - 26 (6) | 3-2 |
 | 2026-09-04 | Serie A | Genoa 1-4 Como | casa | 5-4 | 11 (2) - 20 (9) | 2-1 |
-| 2026-08-30 | Serie A | Lazio 1-0 Genoa | fuera | 2-4 | 8 (1) - 15 (2) | 2-1 |
 
 ## Jugadores de Genoa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Justin Bijlow | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Morten Frendrup | M | 7 | 623 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 4 | 0,6 | 0 | 0 |
-| Mikael Ellertsson | M | 7 | 611 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 9 | 5 | 0,7 | 2 | 0 |
-| Leo Østigård | D | 7 | 606 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 9 | 7 | 1,0 | 4 | 0 |
-| Alessandro Marcandalli | D | 7 | 555 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 1 | 0 |
-| Johan Vásquez | D | 6 | 521 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 5 | 4 | 0,7 | 4 | 1 |
-| Milutin Osmajić | F | 6 | 477 | 3 | 1 | 9 | 1,5 | 4 | 0,7 | 3 | 13 | 2,2 | 0 | 0 |
-| Junior Messias | F | 7 | 350 | 1 | 0 | 6 | 0,9 | 4 | 0,6 | 4 | 14 | 2,0 | 0 | 0 |
+| J. Bijlow | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| M. Ellertsson | M | 8 | 701 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 11 | 7 | 0,9 | 2 | 0 |
+| L. Østigård | D | 8 | 696 | 0 | 0 | 5 | 0,6 | 3 | 0,4 | 9 | 7 | 0,9 | 4 | 0 |
+| M. Frendrup | M | 8 | 651 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,5 | 0 | 0 |
+| J. Vásquez | D | 7 | 611 | 1 | 0 | 4 | 0,6 | 1 | 0,1 | 5 | 4 | 0,6 | 4 | 1 |
+| A. Marcandalli | D | 8 | 575 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 1 | 0 |
+| M. Osmajić | F | 7 | 567 | 3 | 1 | 9 | 1,3 | 4 | 0,6 | 4 | 13 | 1,9 | 0 | 0 |
+| Junior Messias | M | 8 | 412 | 1 | 0 | 8 | 1,0 | 4 | 0,5 | 4 | 15 | 1,9 | 0 | 0 |
+| L. Colombo | F | 6 | 349 | 0 | 2 | 5 | 0,8 | 2 | 0,3 | 9 | 8 | 1,3 | 0 | 0 |
 | Tommaso Baldanzi | F | 5 | 324 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
-| Lorenzo Colombo | F | 5 | 321 | 0 | 2 | 4 | 0,8 | 1 | 0,2 | 8 | 6 | 1,2 | 0 | 0 |
 | Djibril Sow | M | 5 | 311 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 4 | 0,8 | 1 | 0 |
 | Vitinha | F | 7 | 287 | 0 | 0 | 6 | 0,9 | 3 | 0,4 | 0 | 6 | 0,9 | 1 | 0 |
+| S. El Shaarawy | M | 5 | 244 | 0 | 1 | 4 | 0,8 | 2 | 0,4 | 2 | 2 | 0,4 | 0 | 0 |
 | Kingsley Ehizibue | D | 4 | 225 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
-| Stephan El Shaarawy | F | 4 | 182 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 2 | 2 | 0,5 | 0 | 0 |
+| S. Otoa | D | 4 | 220 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
+| S. Wiafe | M | 3 | 204 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
+| H. Traorè | M | 3 | 191 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 | Brooke Norton-Cuffy | M | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
-| Sebastian Otoa | D | 3 | 150 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 1 | 0 |
-| David Puczka | M | 3 | 129 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| Alexsandro Amorim | M | 5 | 124 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
-| Samuel Wiafe | M | 2 | 123 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| Hamed Junior Traorè | M | 2 | 101 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| D. Puczka | D | 4 | 138 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| Alexsandro Amorim | M | 6 | 133 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 1 | 2 | 0,3 | 1 | 0 |
 
 ## Últimos partidos de Juventus
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -187,41 +187,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Boga | F | 5 | 117 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,67 · visitante 1,47 · córners esperados 9,4._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 0,58 · visitante 1,45 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 57% | 57% | 1.65 | -7% |
+| 1X2: 2 | 58% | 57% | 58% | 1.65 | -5% |
 | 1X2: X | 27% | 26% | 26% | 3.60 | -5% |
-| 1X2: 1 | 17% | 17% | 17% | 5.50 | -6% |
-| Doble oportunidad: X2 | 83% | 83% | 83% | 1.14 | -5% |
+| 1X2: 1 | 15% | 17% | 16% | 5.50 | -12% |
+| Doble oportunidad: X2 | 85% | 83% | 84% | 1.14 | -4% |
 | Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 44% | 43% | 43% | 2.20 | -5% |
-| Ambos marcan: No | 62% | 53% | 58% | 1.75 | +1% |
-| Ambos marcan: Sí | 38% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 1.5 | 63% | 72% | 67% | 1.33 | -10% |
-| Goles más/menos: Más de 2.5 | 36% | 45% | 41% | 2.10 | -15% |
-| Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -21% |
-| Goles más/menos: Menos de 1.5 | 37% | 28% | 33% | 3.40 | +11% |
-| Goles más/menos: Menos de 2.5 | 64% | 55% | 59% | 1.73 | +3% |
-| Goles más/menos: Menos de 3.5 | 83% | 75% | 79% | 1.28 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 37% | 2.75 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del local: Más de 0.5 | 49% | 56% | 52% | 1.67 | -13% |
-| Goles del local: Más de 1.5 | 15% | 21% | 18% | 4.50 | -21% |
-| Goles del local: Menos de 0.5 | 51% | 44% | 48% | 2.10 | +0% |
-| Goles del local: Menos de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del visitante: Más de 1.5 | 43% | 50% | 47% | 1.83 | -15% |
-| Goles del visitante: Más de 2.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 1.5 | 57% | 50% | 53% | 1.83 | -2% |
-| Goles del visitante: Menos de 2.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 38% | 42% | 40% | 2.25 | -11% |
-| 1X2 descanso: X | 48% | 43% | 45% | 2.20 | -0% |
+| Doble oportunidad: 1X | 42% | 43% | 42% | 2.20 | -7% |
+| Ambos marcan: No | 66% | 53% | 60% | 1.75 | +5% |
+| Ambos marcan: Sí | 34% | 47% | 40% | 2.00 | -20% |
+| Goles más/menos: Más de 1.5 | 60% | 72% | 66% | 1.33 | -12% |
+| Goles más/menos: Más de 2.5 | 33% | 45% | 39% | 2.10 | -18% |
+| Goles más/menos: Más de 3.5 | 15% | 25% | 20% | 3.75 | -24% |
+| Goles más/menos: Menos de 1.5 ✅ | 40% | 28% | 34% | 3.40 | +15% |
+| Goles más/menos: Menos de 2.5 | 67% | 55% | 61% | 1.73 | +5% |
+| Goles más/menos: Menos de 3.5 | 85% | 75% | 80% | 1.28 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 58% | 66% | 62% | 1.40 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 21% | 31% | 26% | 3.00 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Goles del local: Más de 0.5 | 44% | 56% | 50% | 1.67 | -17% |
+| Goles del local: Más de 1.5 | 12% | 21% | 16% | 4.50 | -27% |
+| Goles del local: Menos de 0.5 | 56% | 44% | 50% | 2.10 | +5% |
+| Goles del local: Menos de 1.5 | 88% | 79% | 84% | 1.18 | -1% |
+| Goles del visitante: Más de 1.5 | 42% | 50% | 46% | 1.83 | -15% |
+| Goles del visitante: Más de 2.5 | 18% | 25% | 21% | 3.75 | -20% |
+| Goles del visitante: Menos de 1.5 | 58% | 50% | 54% | 1.83 | -2% |
+| Goles del visitante: Menos de 2.5 | 82% | 75% | 79% | 1.25 | -2% |
+| Córners más/menos: Más de 8.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Córners más/menos: Menos de 8.5 | 46% | 46% | 46% | 2.00 | -8% |
+| 1X2 descanso: 2 | 38% | 42% | 40% | 2.25 | -10% |
+| 1X2 descanso: X | 49% | 43% | 46% | 2.20 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Racing Santander – Real Madrid
 **LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 16:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -188,13 +188,13 @@ _Sin bajas comunicadas por ahora._
 | Carlos Espí | F | 8 | 60 | 3 | 0 | 7 | 0,9 | 4 | 0,5 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 3,15 · córners esperados 11,1._
+_Goles esperados: local 1,23 · visitante 3,16 · córners esperados 11,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 75% | 75% | 75% | 1.25 | -6% |
 | 1X2: X | 13% | 15% | 14% | 6.25 | -12% |
-| 1X2: 1 | 11% | 10% | 11% | 9.00 | -2% |
+| 1X2: 1 | 11% | 10% | 11% | 9.00 | -3% |
 | Doble oportunidad: X2 | 89% | 89% | 89% | 1.07 | -5% |
 | Doble oportunidad: 12 | 87% | 85% | 86% | 1.12 | -4% |
 | Doble oportunidad: 1X | 25% | 25% | 25% | 3.75 | -6% |
@@ -202,13 +202,13 @@ _Goles esperados: local 1,22 · visitante 3,15 · córners esperados 11,1._
 | Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
 | Goles más/menos: Más de 2.5 | 81% | 78% | 80% | 1.22 | -3% |
 | Goles más/menos: Más de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Más de 4.5 | 44% | 41% | 43% | 2.30 | -1% |
+| Goles más/menos: Más de 4.5 | 45% | 41% | 43% | 2.30 | -1% |
 | Goles más/menos: Más de 5.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles más/menos: Menos de 2.5 | 19% | 22% | 20% | 4.33 | -12% |
 | Goles más/menos: Menos de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
-| Goles más/menos: Menos de 4.5 | 56% | 59% | 57% | 1.62 | -7% |
+| Goles más/menos: Menos de 4.5 | 55% | 59% | 57% | 1.62 | -8% |
 | Goles más/menos: Menos de 5.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 56% | 55% | 1.67 | -7% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 72% | 71% | 71% | 1.33 | -5% |
@@ -219,9 +219,9 @@ _Goles esperados: local 1,22 · visitante 3,15 · córners esperados 11,1._
 | Goles del visitante: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles del visitante: Más de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
 | Goles del visitante: Más de 3.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles del visitante: Más de 4.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles del visitante: Menos de 2.5 | 39% | 42% | 41% | 2.20 | -10% |
+| Goles del visitante: Más de 4.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles del visitante: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -14% |
+| Goles del visitante: Menos de 2.5 | 39% | 42% | 41% | 2.20 | -11% |
 | Goles del visitante: Menos de 3.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del visitante: Menos de 4.5 | 79% | 79% | 79% | 1.18 | -7% |
 | Córners más/menos: Más de 10.5 | 50% | 50% | 50% | 1.83 | -9% |
