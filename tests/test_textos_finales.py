@@ -60,6 +60,14 @@ class TextosFinalesTest(unittest.TestCase):
         self.d['corners_partes']['1']['statistics_1h'] = 4
         self.assertEqual(publicados.evaluar(s, self.d), 'rojo')
 
+    def test_apellido_compuesto_del_portero_se_resuelve_y_evitar_ambiguos(self):
+        s = self.spec('✅ De Lange (Marsella): 2+ paradas, solo si es titular')
+        self.d['jugadores'] = {'1': [{'nombre': 'J. de Lange', 'min': 90, 'paradas': 2}]}
+        self.assertEqual(publicados.evaluar(s, self.d), 'verde')
+        self.assertEqual(publicados.progreso(s, self.d)['actual'], 2)
+        self.d['jugadores']['1'].append({'nombre': 'Otro de Lange', 'min': 90, 'paradas': 3})
+        self.assertEqual(publicados.evaluar(s, self.d), 'sin_datos')
+
     def test_totales_y_progreso_de_menos_no_inventan_datos(self):
         mas = self.spec('✅ Más de 26,5 remates totales')
         menos = self.spec('✅ Menos de 32,5 remates totales')
