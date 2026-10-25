@@ -1,40 +1,44 @@
 {
- "actualizado": "2026-10-25 23:55",
+ "actualizado": "2026-10-26 00:00",
  "redes": {
   "instagram": {
    "seguidores": 19,
-   "hoy": null,
+   "hoy": 0,
    "serie": [
+    19,
     19
    ]
   },
   "threads": {
    "seguidores": 930,
-   "hoy": null,
+   "hoy": 0,
    "serie": [
     836,
+    930,
     930
    ]
   },
   "facebook": {
    "seguidores": 0,
-   "hoy": null,
+   "hoy": 0,
    "serie": [
+    0,
     0,
     0
    ]
   },
   "telegram": {
-   "seguidores": 71,
+   "seguidores": 70,
    "hoy": -1,
    "serie": [
     75,
     72,
-    71
+    71,
+    70
    ]
   }
  },
- "total": 1020,
+ "total": 1019,
  "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
@@ -43,8 +47,8 @@
   "titulo": "La combi del lunes"
  },
  "ayer": {
-  "aciertos": 13,
-  "total": 23
+  "aciertos": 21,
+  "total": 42
  },
  "escalera": {
   "dia": 2,
@@ -67,6 +71,12 @@
    "threads": 930,
    "facebook": 0,
    "telegram": 71
+  },
+  "2026-10-26": {
+   "instagram": 19,
+   "threads": 930,
+   "facebook": 0,
+   "telegram": 70
   }
  },
  "tipos_instagram": {
