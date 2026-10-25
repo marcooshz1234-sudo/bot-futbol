@@ -248,6 +248,20 @@ def lidero_por_2(p, equipo):
     return False
 
 
+def calidad(p):
+    """Nota de un pick para ordenarlo: lo fiable que es (frecuencia y ventaja sobre la cuota) más
+    las señales del mercado: bet365 paga más que el resto de casas (+) y la cuota que baja porque
+    entra dinero (+) o sube (−). Así las combis y listas cogen primero las mejores apuestas."""
+    nota = p["frecuencia"] + 0.5 * p.get("ventaja", 0)
+    vm = p.get("valor_mercado")
+    if vm is not None:
+        nota += max(min(vm, 0.10), -0.10) * 0.8
+    mv = p.get("movimiento")
+    if mv is not None:
+        nota -= max(min(mv, 0.15), -0.15) * 0.5
+    return nota
+
+
 def evaluador(mercado, opcion, es_local):
     """Devuelve una función f(p, eq) que dice si la apuesta se habría cumplido en un
     partido pasado p, visto desde el equipo eq. es_local indica si eq es el local del
@@ -824,7 +838,7 @@ def combinar(picks, minimo, maximo, max_patas, min_patas=2, max_por_tipo=1):
     """Elige picks (uno por partido, sin repetir tipo de mercado) empezando por los más
     fiables hasta caer en el rango de cuota."""
     elegidos, usados, tipos, total = [], set(), defaultdict(int), 1.0
-    for p in sorted(picks, key=lambda x: (-x["frecuencia"], -x["ventaja"])):
+    for p in sorted(picks, key=lambda x: -calidad(x)):
         if es_sin_empate(p["mercado"], p["opcion"]):
             continue
         if p["partido_id"] in usados or tipos[p["tipo"]] >= max_por_tipo:
@@ -870,7 +884,7 @@ def combi_partido(picks):
     picks = [p for p in picks if not es_sin_empate(p["mercado"], p["opcion"])]
     if not picks:
         return None
-    orden = sorted(picks, key=lambda x: (-x["frecuencia"], -x["ventaja"]))
+    orden = sorted(picks, key=lambda x: -calidad(x))
     elegidos, tipos, familias, total = [], set(), set(), 1.0
     jugadores_usados = set()
     # 1º el mejor jugador, luego el resto por fiabilidad
@@ -1017,7 +1031,7 @@ def main():
     por_dia = defaultdict(list)
     for p in todos:
         por_dia[p["fecha"][:10]].append(p)
-    combis_dia = {dia: combis_del_dia(sorted(l, key=lambda x: (-x["frecuencia"], -x["ventaja"])))
+    combis_dia = {dia: combis_del_dia(sorted(l, key=lambda x: -calidad(x)))
                   for dia, l in por_dia.items()}
     partidos_dia = defaultdict(list)
     for fid, flojos in por_partido.items():
@@ -1036,7 +1050,7 @@ def main():
                             "frecuencia_equipo_min": FREC_EQUIPO, "ultimos_partidos": ULTIMOS},
               "dias": {}}
     for dia in sorted(set(por_dia) | set(partidos_dia)):
-        picks = sorted(por_dia[dia], key=lambda x: (-x["frecuencia"], -x["ventaja"]))
+        picks = sorted(por_dia[dia], key=lambda x: -calidad(x))
         mejores, vistos = [], set()
         for p in picks:
             if p["partido_id"] not in vistos:

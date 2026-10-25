@@ -61,7 +61,8 @@ def atractivo(p):
         extra += 0.04
     if m in ("Corners Over Under", "Cards Over/Under") and o.startswith("Over"):
         extra += 0.03
-    return p["frecuencia"] + extra
+    from picks import calidad
+    return calidad(p) + extra
 
 
 def mejores_para_lista(picks):
