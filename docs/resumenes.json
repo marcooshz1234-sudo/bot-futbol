@@ -145,14 +145,14 @@
   },
   "2026-10-25": {
     "dia": "2026-10-25",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -172,8 +172,14 @@
         "titulo": "📊 COMBI DE DATOS DEL DOMINGO",
         "estado": "pendiente",
         "cuota": 1.64
+      },
+      {
+        "id": "2026-10-25-loca",
+        "titulo": "📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS",
+        "estado": "pendiente",
+        "cuota": 4.36
       }
     ],
-    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n⏳ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21 · pendiente\n⏳ 📊 COMBI DE DATOS DEL DOMINGO · 1,64 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n⏳ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21 · pendiente\n⏳ 📊 COMBI DE DATOS DEL DOMINGO · 1,64 · pendiente\n⏳ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
