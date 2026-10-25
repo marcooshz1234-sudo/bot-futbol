@@ -1,6 +1,6 @@
 {
- "escalon": 2,
- "stake": 43.33,
+ "escalon": 1,
+ "stake": 20.0,
  "historial": [
   {
    "dia": "2026-10-23",
@@ -165,63 +165,69 @@
     "Álex Baena 1+ tiro a puerta en Atlético de Madrid–Levante"
    ],
    "nota": "Reto manual publicado por Marcos anoche; retorno confirmado por él. Sustituye como referencia de continuidad al reto automático anterior, que se conserva en el historial."
+  },
+  {
+   "dia": "2026-10-25",
+   "escalon": 2,
+   "stake": 43.33,
+   "cuota": 2.21,
+   "picks": [
+    {
+     "partido_id": 1550166,
+     "fecha": "2026-10-25T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Udinese",
+     "visitante": "AC Milan",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Udinese–AC Milan",
+     "cuota": 1.28,
+     "frecuencia": 0.941,
+     "ventaja": 0.16,
+     "detalle": "Udinese 6/7 · AC Milan 10/10"
+    },
+    {
+     "partido_id": 1552793,
+     "fecha": "2026-10-25T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Auxerre",
+     "visitante": "Le Mans",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Auxerre–Le Mans",
+     "cuota": 1.73,
+     "frecuencia": 0.857,
+     "ventaja": 0.279,
+     "detalle": "Auxerre 6/7 · Le Mans 6/7"
+    }
+   ],
+   "anterior": {
+    "dia": "2026-10-24",
+    "escalon": 1,
+    "stake": 20,
+    "cuota": 2.1665,
+    "retorno": 43.33,
+    "resultado": "verde",
+    "origen": "confirmado_por_marcos",
+    "picks": [],
+    "selecciones_confirmadas": [
+     "Gana el Lazio",
+     "Álex Baena 1+ tiro a puerta en Atlético de Madrid–Levante"
+    ],
+    "nota": "Reto manual publicado por Marcos anoche; retorno confirmado por él. Sustituye como referencia de continuidad al reto automático anterior, que se conserva en el historial."
+   },
+   "resultado": "roja",
+   "aciertos": [
+    null,
+    false
+   ]
   }
  ],
- "actual": {
-  "dia": "2026-10-25",
-  "escalon": 2,
-  "stake": 43.33,
-  "cuota": 2.21,
-  "picks": [
-   {
-    "partido_id": 1550166,
-    "fecha": "2026-10-25T20:45",
-    "competicion": "Serie A",
-    "liga_id": 135,
-    "local": "Udinese",
-    "visitante": "AC Milan",
-    "mercado": "Goals Over/Under",
-    "opcion": "Over 1.5",
-    "tipo": "goles",
-    "texto": "Más de 1,5 goles en Udinese–AC Milan",
-    "cuota": 1.28,
-    "frecuencia": 0.941,
-    "ventaja": 0.16,
-    "detalle": "Udinese 6/7 · AC Milan 10/10"
-   },
-   {
-    "partido_id": 1552793,
-    "fecha": "2026-10-25T17:15",
-    "competicion": "Ligue 1",
-    "liga_id": 61,
-    "local": "Auxerre",
-    "visitante": "Le Mans",
-    "mercado": "Goals Over/Under",
-    "opcion": "Over 2.5",
-    "tipo": "goles",
-    "texto": "Más de 2,5 goles en Auxerre–Le Mans",
-    "cuota": 1.73,
-    "frecuencia": 0.857,
-    "ventaja": 0.279,
-    "detalle": "Auxerre 6/7 · Le Mans 6/7"
-   }
-  ],
-  "anterior": {
-   "dia": "2026-10-24",
-   "escalon": 1,
-   "stake": 20,
-   "cuota": 2.1665,
-   "retorno": 43.33,
-   "resultado": "verde",
-   "origen": "confirmado_por_marcos",
-   "picks": [],
-   "selecciones_confirmadas": [
-    "Gana el Lazio",
-    "Álex Baena 1+ tiro a puerta en Atlético de Madrid–Levante"
-   ],
-   "nota": "Reto manual publicado por Marcos anoche; retorno confirmado por él. Sustituye como referencia de continuidad al reto automático anterior, que se conserva en el historial."
-  }
- },
+ "actual": null,
  "correccion_manual": {
   "fecha": "2026-10-25",
   "motivo": "Continuar el reto manual ganado de Marcos; no reiniciar desde 20",
