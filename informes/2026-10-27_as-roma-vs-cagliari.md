@@ -1,10 +1,10 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.18**  ·  X2 **3.00**
@@ -111,8 +111,8 @@ _Actualizadas: 25/10 02:47_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**AS Roma:** M. Bah (baja, Jumpers Knee)
-**Cagliari:** Riyad Idrissi (baja, Jumpers Knee)
+**AS Roma:** M. Bah (baja, Knee Injury); P. Dybala (baja, Calf Injury); M. Kone (baja, Muscle Injury); L. Pellegrini (baja, Thigh Injury); M. Svilar (baja, Toe Injury); M. Bah (baja, Knee Injury); P. Dybala (baja, Calf Injury); M. Kone (baja, Muscle Injury); L. Pellegrini (baja, Thigh Injury); M. Svilar (baja, Toe Injury)
+**Cagliari:** M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (baja, Injury); H. Winks (baja, Back Injury); M. Felici (baja, Knee Injury); R. Idrissi (baja, Knee Injury); Y. Trepy (baja, Injury); H. Winks (baja, Back Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-09 · Serie A: AS Roma 2-0 Cagliari

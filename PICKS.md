@@ -1,35 +1,33 @@
 # Picks del Analista
 
-_Generado el 2026-10-25 12:58 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-25 13:45 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Domingo 25/10
 
 **🔒 Combi segura · cuota 1,75**
 - Maximilian Eggestein: 1+ tiros (1,40) · Maximilian Eggestein 10/10
-- Más de 1,5 goles en Lecce–Juventus (1,25) · Lecce 6/7 · Juventus 9/10
+- Bournemouth marca (1,25) · Manchester United (en contra) 9/10 · Bournemouth 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,53**
-- Dilane Bakwa: 1+ tiros (1,25) · Dilane Bakwa 5/5
+**💥 Combi cuota 3-4 · cuota 3,46**
 - Más de 1,5 goles en Udinese–AC Milan (1,28) · Udinese 6/7 · AC Milan 10/10
 - Estac Troyes hace más de 3,5 córners (1,62) · Toulouse (en contra) 5/7 · Estac Troyes 7/7
-- Leeds o empate (1,36) · Sunderland 7/10 · Leeds 6/7
+- Más de 2,5 fueras de juego en Manchester United–Bournemouth (1,67) · Manchester United 8/9 · Bournemouth 7/10
 
-**🤪 Combi loca · cuota 8,67**
+**🤪 Combi loca · cuota 11,73**
 - Gol en la 2ª parte del Sunderland–Leeds (1,28) · Sunderland 10/10 · Leeds 6/7
-- Bournemouth marca (1,28) · Manchester United (en contra) 9/10 · Bournemouth 9/10
+- Más de 2,5 goles en SC Freiburg–Bayern München (1,30) · SC Freiburg 9/10 · Bayern München 8/9
 - Más de 8,5 tiros a puerta en Auxerre–Le Mans (1,73) · Auxerre 6/7 · Le Mans 5/7
-- Athletic Club ve más de 1,5 tarjetas (1,50) · Athletic Club 7/8 · Getafe (en contra) 7/10
+- Athletic Club ve más de 1,5 tarjetas (1,73) · Athletic Club 7/8 · Getafe (en contra) 7/10
+- Bournemouth o empate (1,57) · Manchester United 8/10 · Bournemouth 7/10
 - Newcastle ve más de 1,5 tarjetas (1,50) · Crystal Palace (en contra) 7/9 · Newcastle 5/7
-- Real Betis o empate (1,36) · Celta Vigo 7/10 · Real Betis 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 17:30 | Maximilian Eggestein: 1+ tiros | jugador | 1.40 | 100% | Maximilian Eggestein 10/10 |
-| 15:00 | Dilane Bakwa: 1+ tiros | jugador | 1.25 | 100% | Dilane Bakwa 5/5 |
 | 20:45 | Más de 1,5 goles en Udinese–AC Milan | goles | 1.28 | 94% | Udinese 6/7 · AC Milan 10/10 |
 | 17:30 | Gol en la 2ª parte del Sunderland–Leeds | goles | 1.28 | 94% | Sunderland 10/10 · Leeds 6/7 |
-| 15:00 | Bournemouth marca | goles | 1.28 | 90% | Manchester United (en contra) 9/10 · Bournemouth 9/10 |
-| 17:30 | Más de 2,5 goles en SC Freiburg–Bayern München | goles | 1.25 | 90% | SC Freiburg 9/10 · Bayern München 8/9 |
+| 15:00 | Bournemouth marca | goles | 1.25 | 90% | Manchester United (en contra) 9/10 · Bournemouth 9/10 |
+| 17:30 | Más de 2,5 goles en SC Freiburg–Bayern München | goles | 1.30 | 90% | SC Freiburg 9/10 · Bayern München 8/9 |
 | 18:00 | Más de 1,5 goles en Lecce–Juventus | goles | 1.25 | 88% | Lecce 6/7 · Juventus 9/10 |
 | 15:00 | Gol en la 1ª parte del Crystal Palace–Newcastle | goles | 1.25 | 88% | Crystal Palace 9/10 · Newcastle 6/7 |
 | 17:15 | Más de 2,5 goles en Auxerre–Le Mans | goles | 1.73 | 86% | Auxerre 6/7 · Le Mans 6/7 |
@@ -38,21 +36,22 @@ _Generado el 2026-10-25 12:58 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 17:15 | Gol en la 1ª parte del Auxerre–Le Mans | goles | 1.33 | 86% | Auxerre 6/7 · Le Mans 6/7 |
 | 17:15 | Le Mans marca | goles | 1.33 | 86% | Auxerre (en contra) 6/7 · Le Mans 6/7 |
 | 15:00 | Más de 1,5 goles en Genoa–Venezia | goles | 1.30 | 86% | Genoa 6/7 · Venezia 6/7 |
+| 15:00 | Gol en la 2ª parte del Genoa–Venezia | goles | 1.25 | 86% | Genoa 6/7 · Venezia 6/7 |
 | 17:15 | Más de 2,5 goles en Rennes–Strasbourg | goles | 1.44 | 82% | Rennes 8/10 · Strasbourg 6/7 |
-| 17:30 | Leeds marca | goles | 1.30 | 82% | Sunderland (en contra) 8/10 · Leeds 6/7 |
 | 17:15 | Strasbourg marca | goles | 1.28 | 82% | Rennes (en contra) 8/10 · Strasbourg 6/7 |
-| 15:00 | Gol en la 1ª parte del Monaco–Lille | goles | 1.36 | 80% | Monaco 8/10 · Lille 8/10 |
-| 15:00 | Lille marca | goles | 1.36 | 80% | Monaco (en contra) 7/10 · Lille 9/10 |
+| 17:30 | Leeds marca | goles | 1.28 | 82% | Sunderland (en contra) 8/10 · Leeds 6/7 |
+| 15:00 | Lille marca | goles | 1.40 | 80% | Monaco (en contra) 7/10 · Lille 9/10 |
+| 15:00 | Gol en la 1ª parte del Monaco–Lille | goles | 1.33 | 80% | Monaco 8/10 · Lille 8/10 |
 | 15:00 | Más de 2,5 fueras de juego en Manchester United–Bournemouth | fueras de juego | 1.67 | 79% | Manchester United 8/9 · Bournemouth 7/10 |
 | 17:15 | Más de 8,5 tiros a puerta en Auxerre–Le Mans | tiros a puerta | 1.73 | 79% | Auxerre 6/7 · Le Mans 5/7 |
 | 17:15 | Lorient marca | goles | 1.28 | 79% | Angers (en contra) 5/7 · Lorient 6/7 |
-| 14:00 | Athletic Club ve más de 1,5 tarjetas | tarjetas | 1.50 | 78% | Athletic Club 7/8 · Getafe (en contra) 7/10 |
+| 14:00 | Athletic Club ve más de 1,5 tarjetas | tarjetas | 1.73 | 78% | Athletic Club 7/8 · Getafe (en contra) 7/10 |
 | 15:00 | Más de 2,5 goles en Crystal Palace–Newcastle | goles | 1.57 | 76% | Crystal Palace 8/10 · Newcastle 5/7 |
 | 17:15 | Ambos marcan en Rennes–Strasbourg | goles | 1.44 | 76% | Rennes 7/10 · Strasbourg 6/7 |
+| 18:00 | Gol en la 1ª parte del Lecce–Juventus | goles | 1.36 | 76% | Lecce 6/7 · Juventus 7/10 |
 | 17:30 | Más de 1,5 goles en Sunderland–Leeds | goles | 1.36 | 76% | Sunderland 8/10 · Leeds 5/7 |
 | 17:30 | Leeds o empate | resultado | 1.36 | 76% | Sunderland 7/10 · Leeds 6/7 |
-| 18:00 | Gol en la 1ª parte del Lecce–Juventus | goles | 1.33 | 76% | Lecce 6/7 · Juventus 7/10 |
-| 15:00 | Bournemouth o empate | resultado | 1.67 | 75% | Manchester United 8/10 · Bournemouth 7/10 |
+| 15:00 | Bournemouth o empate | resultado | 1.57 | 75% | Manchester United 8/10 · Bournemouth 7/10 |
 | 15:00 | Newcastle ve más de 1,5 tarjetas | tarjetas | 1.50 | 75% | Crystal Palace (en contra) 7/9 · Newcastle 5/7 |
 | 16:15 | Real Betis o empate | resultado | 1.36 | 75% | Celta Vigo 7/10 · Real Betis 8/10 |
 
@@ -71,19 +70,26 @@ _Generado el 2026-10-25 12:58 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 18:30 | Lazio o empate | resultado | 1.40 | 88% | Sassuolo 6/8 · Lazio 8/8 |
-| 20:45 | Torino marca | goles | 1.44 | 83% | Torino 7/8 · Como (en contra) 8/10 |
+| 20:45 | Torino marca | goles | 1.40 | 83% | Torino 7/8 · Como (en contra) 8/10 |
 | 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.30 | 78% | Torino 6/8 · Como 8/10 |
 
 ## Miércoles 28/10
 
-**🔒 Combi segura · cuota 1,70**
+**🔒 Combi segura · cuota 1,75**
+- Samuele Birindelli: 1+ tiros (1,40) · Samuele Birindelli 8/8
+- Gol en la 2ª parte del Genoa–Juventus (1,25) · Genoa 6/7 · Juventus 9/10
+
+**💥 Combi cuota 3-4 · cuota 3,43**
 - Gol en la 2ª parte del Parma–Udinese (1,28) · Parma 7/8 · Udinese 7/7
+- Monza marca (1,44) · Monza 8/8 · Napoli (en contra) 8/10
+- Juventus gana alguna de las dos partes (1,40) · Genoa 7/7 · Juventus 7/10
 - Gana el Inter (1,33) · Venezia 6/7 · Inter 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 20:45 | Samuele Birindelli: 1+ tiros | jugador | 1.40 | 100% | Samuele Birindelli 8/8 |
 | 18:30 | Gol en la 2ª parte del Parma–Udinese | goles | 1.28 | 93% | Parma 7/8 · Udinese 7/7 |
-| 20:45 | Monza marca | goles | 1.40 | 89% | Monza 8/8 · Napoli (en contra) 8/10 |
+| 20:45 | Monza marca | goles | 1.44 | 89% | Monza 8/8 · Napoli (en contra) 8/10 |
 | 20:45 | Más de 1,5 goles en Genoa–Juventus | goles | 1.33 | 88% | Genoa 6/7 · Juventus 9/10 |
 | 20:45 | Gol en la 2ª parte del Genoa–Juventus | goles | 1.25 | 88% | Genoa 6/7 · Juventus 9/10 |
 | 18:30 | Más de 1,5 goles en Parma–Udinese | goles | 1.36 | 87% | Parma 7/8 · Udinese 6/7 |
@@ -150,7 +156,6 @@ _Generado el 2026-10-25 12:58 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 18:30 | Malaga hace más de 3,5 córners | corners | 1.73 | 80% | Real Betis (en contra) 8/10 · Malaga 8/10 |
 | 18:30 | Más de 9,5 córners en Bayern München–Borussia Dortmund | corners | 1.73 | 79% | Bayern München 7/9 · Borussia Dortmund 8/10 |
 | 20:45 | Gol en la 1ª parte del Estac Troyes–Le Mans | goles | 1.33 | 79% | Estac Troyes 5/7 · Le Mans 6/7 |
-| 13:30 | Manchester United marca | goles | 1.30 | 78% | Chelsea (en contra) 7/8 · Manchester United 7/10 |
 | 20:45 | Angers marca | goles | 1.62 | 76% | Lyon (en contra) 8/10 · Angers 5/7 |
 | 15:30 | SC Freiburg gana alguna de las dos partes | resultado | 1.57 | 76% | FC Augsburg 5/7 · SC Freiburg 8/10 |
 | 15:30 | Ambos marcan en FC Augsburg–SC Freiburg | goles | 1.44 | 76% | FC Augsburg 6/7 · SC Freiburg 7/10 |

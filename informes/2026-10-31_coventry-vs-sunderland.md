@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **2.70**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.44**

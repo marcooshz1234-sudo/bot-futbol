@@ -1,13 +1,13 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **4.75**  ·  X **4.10**  ·  2 **1.60**
-- **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
+- **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -23,16 +23,16 @@ _Actualizadas: 25/10 02:47_
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **5.00**  ·  X **2.60**  ·  2 **2.05**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
@@ -40,20 +40,19 @@ _Actualizadas: 25/10 02:47_
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **2.62**  ·  2 **1.30**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.20**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.33**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.20**
 - **Win Both Halves:** 1 **19.00**  ·  2 **4.00**
-- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.88**  ·  Home/No **11.00**  ·  Draw/No **19.00**  ·  Away/No **3.25**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.88**  ·  Home/No **11.00**  ·  Draw/No **19.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):**
-    - 4,5: más **2.02** · menos **1.78**
-- **Away Player Shots On Target Total:** Morten Hjulmand **23.00**  ·  Jonathan David **10.00**  ·  Kang-In Lee **23.00**  ·  Victor Garcia **29.00**  ·  Rodrigo Mendoza **8.50**  ·  Marc Pubill **41.00**  ·  Ivan Romero **19.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **15.00**  ·  Alexander Sorloth **4.33**  ·  David Hancko **10.00**  ·  Aissa Mandi **26.00**  ·  Alex Baena **17.00**  ·  Alex Grimaldo **34.00**  ·  Julian Alvarez **19.00**  ·  Ifeanyi Ndukwe **29.00**  ·  Nacho Perez **67.00**  ·  Paco Cortes **41.00**  ·  Thiago Fernandez **41.00**  ·  Petar Ratkov **15.00**  ·  Jeremy Toljan **81.00**  ·  Manuel Sanchez **126.00**  ·  Jon Ander Olasagasti **51.00**  ·  Jorge Koke **67.00**  ·  Dani Martinez **67.00**  ·  Arnau Ortiz **17.00**  ·  Yanis Musuayi **7.50**  ·  Marc Santos **81.00**  ·  Marcos Llorente **67.00**  ·  Robin Le Normand **15.00**  ·  Hugo Sotelo **67.00**  ·  Javier Gil **51.00**  ·  Johnny Cardoso **15.00**  ·  Cristian Romero **6.50**  ·  Giuliano Simeone **34.00**  ·  Pablo Barrios **41.00**  ·  Daniel Requena **23.00**  ·  Ademola Lookman **19.00**  ·  Enzo Bardeli **67.00**
-- **Anytime Goal Scorer:** Morten Hjulmand **5.00**  ·  Jonathan David **2.00**  ·  Kang-In Lee **2.75**  ·  Victor Garcia **7.00**  ·  Rodrigo Mendoza **3.50**  ·  Marc Pubill **7.50**  ·  Ivan Romero **3.75**  ·  Oriol Rey **13.00**  ·  Roger Brugue **4.33**  ·  Adrian De la Fuente **7.50**  ·  Alexander Sorloth **1.80**  ·  David Hancko **6.50**  ·  Aissa Mandi **17.00**  ·  Alex Baena **3.20**  ·  Alex Grimaldo **3.75**  ·  Julian Alvarez **2.10**  ·  Ifeanyi Ndukwe **13.00**  ·  Nacho Perez **17.00**  ·  Paco Cortes **5.00**  ·  Thiago Fernandez **5.00**  ·  Petar Ratkov **3.20**  ·  Jeremy Toljan **17.00**  ·  Manuel Sanchez **17.00**  ·  Jon Ander Olasagasti **5.50**  ·  Jorge Koke **7.50**  ·  Dani Martinez **7.50**  ·  Jorge Dominguez **7.50**  ·  Arnau Ortiz **2.75**  ·  Yanis Musuayi **3.75**  ·  Marc Santos **13.00**  ·  Marcos Llorente **7.50**  ·  Robin Le Normand **11.00**  ·  Hugo Sotelo **8.50**  ·  Javier Gil **6.50**  ·  Johnny Cardoso **7.50**  ·  Cristian Romero **5.00**  ·  Giuliano Simeone **3.75**  ·  Pablo Barrios **5.00**  ·  Daniel Requena **5.00**  ·  Ademola Lookman **2.10**  ·  Enzo Bardeli **7.50**
-- **Player to Score or Assist:** Morten Hjulmand **3.40**  ·  Jonathan David **1.62**  ·  Kang-In Lee **1.83**  ·  Victor Garcia **3.75**  ·  Rodrigo Mendoza **2.10**  ·  Marc Pubill **3.75**  ·  Ivan Romero **2.75**  ·  Oriol Rey **6.00**  ·  Roger Brugue **2.88**  ·  Adrian De la Fuente **4.75**  ·  Alexander Sorloth **1.57**  ·  David Hancko **4.50**  ·  Aissa Mandi **9.00**  ·  Alex Baena **1.83**  ·  Alex Grimaldo **2.00**  ·  Julian Alvarez **1.62**  ·  Ifeanyi Ndukwe **9.00**  ·  Nacho Perez **6.50**  ·  Paco Cortes **3.60**  ·  Thiago Fernandez **3.00**  ·  Petar Ratkov **2.40**  ·  Jeremy Toljan **6.50**  ·  Manuel Sanchez **6.00**  ·  Jon Ander Olasagasti **3.75**  ·  Jorge Koke **4.00**  ·  Dani Martinez **4.00**  ·  Jorge Dominguez **4.75**  ·  Arnau Ortiz **1.91**  ·  Yanis Musuayi **2.88**  ·  Marc Santos **6.00**  ·  Marcos Llorente **3.50**  ·  Robin Le Normand **7.50**  ·  Hugo Sotelo **4.50**  ·  Javier Gil **4.00**  ·  Johnny Cardoso **4.75**  ·  Cristian Romero **4.50**  ·  Giuliano Simeone **2.05**  ·  Pablo Barrios **3.10**  ·  Daniel Requena **3.75**  ·  Ademola Lookman **1.62**  ·  Enzo Bardeli **3.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Away Player Shots On Target Total:** Morten Hjulmand **26.00**  ·  Jonathan David **10.00**  ·  Kang-In Lee **23.00**  ·  Victor Garcia **29.00**  ·  Rodrigo Mendoza **8.50**  ·  Marc Pubill **51.00**  ·  Ivan Romero **19.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **13.00**  ·  Alexander Sorloth **4.33**  ·  David Hancko **10.00**  ·  Aissa Mandi **26.00**  ·  Alex Baena **17.00**  ·  Alex Grimaldo **34.00**  ·  Julian Alvarez **19.00**  ·  Ifeanyi Ndukwe **29.00**  ·  Nacho Perez **67.00**  ·  Paco Cortes **41.00**  ·  Thiago Fernandez **41.00**  ·  Petar Ratkov **15.00**  ·  Jeremy Toljan **81.00**  ·  Manuel Sanchez **126.00**  ·  Jon Ander Olasagasti **51.00**  ·  Jorge Koke **67.00**  ·  Dani Martinez **81.00**  ·  Arnau Ortiz **17.00**  ·  Yanis Musuayi **7.50**  ·  Marc Santos **81.00**  ·  Marcos Llorente **67.00**  ·  Robin Le Normand **15.00**  ·  Hugo Sotelo **67.00**  ·  Javier Gil **51.00**  ·  Johnny Cardoso **15.00**  ·  Cristian Romero **7.50**  ·  Giuliano Simeone **34.00**  ·  Pablo Barrios **51.00**  ·  Daniel Requena **23.00**  ·  Ademola Lookman **21.00**  ·  Enzo Bardeli **67.00**
+- **Anytime Goal Scorer:** Morten Hjulmand **5.50**  ·  Jonathan David **2.00**  ·  Kang-In Lee **2.75**  ·  Victor Garcia **6.50**  ·  Rodrigo Mendoza **3.50**  ·  Marc Pubill **8.50**  ·  Ivan Romero **3.75**  ·  Oriol Rey **13.00**  ·  Roger Brugue **4.33**  ·  Adrian De la Fuente **7.00**  ·  Alexander Sorloth **1.80**  ·  David Hancko **6.50**  ·  Aissa Mandi **17.00**  ·  Alex Baena **3.20**  ·  Alex Grimaldo **4.00**  ·  Julian Alvarez **2.10**  ·  Ifeanyi Ndukwe **13.00**  ·  Nacho Perez **17.00**  ·  Paco Cortes **5.00**  ·  Thiago Fernandez **5.00**  ·  Petar Ratkov **3.00**  ·  Jeremy Toljan **17.00**  ·  Manuel Sanchez **17.00**  ·  Jon Ander Olasagasti **5.50**  ·  Jorge Koke **7.50**  ·  Dani Martinez **8.50**  ·  Jorge Dominguez **8.50**  ·  Arnau Ortiz **2.75**  ·  Yanis Musuayi **3.75**  ·  Marc Santos **13.00**  ·  Marcos Llorente **7.50**  ·  Robin Le Normand **11.00**  ·  Hugo Sotelo **8.50**  ·  Javier Gil **6.50**  ·  Johnny Cardoso **7.50**  ·  Cristian Romero **5.50**  ·  Giuliano Simeone **4.00**  ·  Pablo Barrios **5.50**  ·  Daniel Requena **5.00**  ·  Ademola Lookman **2.30**  ·  Enzo Bardeli **7.00**
+- **Player to Score or Assist:** Morten Hjulmand **3.60**  ·  Jonathan David **1.62**  ·  Kang-In Lee **1.91**  ·  Victor Garcia **3.60**  ·  Rodrigo Mendoza **2.20**  ·  Marc Pubill **4.00**  ·  Ivan Romero **2.75**  ·  Oriol Rey **5.50**  ·  Roger Brugue **2.88**  ·  Adrian De la Fuente **4.50**  ·  Alexander Sorloth **1.57**  ·  David Hancko **4.50**  ·  Aissa Mandi **9.00**  ·  Alex Baena **1.83**  ·  Alex Grimaldo **2.10**  ·  Julian Alvarez **1.62**  ·  Ifeanyi Ndukwe **8.50**  ·  Nacho Perez **6.50**  ·  Paco Cortes **3.60**  ·  Thiago Fernandez **3.00**  ·  Petar Ratkov **2.38**  ·  Jeremy Toljan **6.50**  ·  Manuel Sanchez **5.50**  ·  Jon Ander Olasagasti **3.75**  ·  Jorge Koke **4.00**  ·  Dani Martinez **4.33**  ·  Jorge Dominguez **5.00**  ·  Arnau Ortiz **1.95**  ·  Yanis Musuayi **2.75**  ·  Marc Santos **5.50**  ·  Marcos Llorente **3.50**  ·  Robin Le Normand **7.50**  ·  Hugo Sotelo **4.50**  ·  Javier Gil **4.00**  ·  Johnny Cardoso **4.75**  ·  Cristian Romero **5.00**  ·  Giuliano Simeone **2.10**  ·  Pablo Barrios **3.25**  ·  Daniel Requena **3.75**  ·  Ademola Lookman **1.67**  ·  Enzo Bardeli **3.50**
 
 ## Estadísticas de equipo
 | | Levante (total) | Levante en casa | Atletico Madrid (total) | Atletico Madrid fuera |
@@ -195,7 +194,7 @@ _Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,2._
 | 1X2: 2 | 51% | 58% | 54% | 1.60 | -13% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -6% |
 | 1X2: 1 | 26% | 20% | 23% | 4.75 | +7% |
-| Doble oportunidad: X2 | 74% | 81% | 78% | 1.17 | -9% |
+| Doble oportunidad: X2 | 74% | 81% | 77% | 1.18 | -9% |
 | Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 49% | 41% | 45% | 2.30 | +4% |
 | Ambos marcan: No | 42% | 41% | 42% | 2.25 | -6% |
@@ -215,12 +214,12 @@ _Goles esperados: local 1,19 · visitante 1,77 · córners esperados 9,2._
 | Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del local: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del visitante: Más de 1.5 | 53% | 62% | 58% | 1.50 | -14% |
-| Goles del visitante: Más de 2.5 | 26% | 38% | 32% | 2.50 | -20% |
+| Goles del visitante: Más de 2.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles del visitante: Menos de 1.5 | 47% | 38% | 42% | 2.50 | +6% |
-| Goles del visitante: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +2% |
+| Goles del visitante: Menos de 2.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Córners más/menos: Más de 9.5 | 43% | 48% | 45% | 1.98 | -10% |
 | Córners más/menos: Menos de 9.5 | 57% | 52% | 55% | 1.82 | -1% |
-| 1X2 descanso: 2 | 37% | 45% | 41% | 2.05 | -15% |
-| 1X2 descanso: X | 41% | 36% | 38% | 2.60 | -1% |
+| 1X2 descanso: 2 | 37% | 44% | 41% | 2.10 | -15% |
+| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

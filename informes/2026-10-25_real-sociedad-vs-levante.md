@@ -1,62 +1,63 @@
 # Real Sociedad – Levante
 **LaLiga** · Regular Season - 10 · 25/10/2026 18:30 (hora España) · Anoeta Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
-- **1X2:** 1 **1.60**  ·  X **4.50**  ·  2 **4.75**
+- **1X2:** 1 **1.57**  ·  X **4.75**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.18**  ·  X2 **2.30**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.50** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10: más **1.85** · menos **1.95**
     - 10,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.00**
+- **1X2 descanso:** 1 **2.05**  ·  X **2.60**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.33**  ·  2 **2.62**
-- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **5.50**
-- **Win Both Halves:** 1 **4.00**  ·  2 **19.00**
-- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **17.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.30**  ·  2 **2.62**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **5.00**
+- **Win Both Halves:** 1 **3.75**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **5.50**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **19.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Home Team Total Cards:**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.67** · menos **2.10**
 - **Away Team Total Cards:**
-    - 1,5: más **1.50** · menos **2.50**
+    - 1,5: más **1.62** · menos **2.20**
 - **Total ShotOnGoal:**
     - 9,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.40**
@@ -64,15 +65,15 @@ _Actualizadas: 25/10 02:47_
     - 28,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **1.25**  ·  X **17.00**  ·  2 **3.75**
 - **Home Player Shots On Target Total:** Mikel Oyarzabal - 1 **1.22**  ·  Orri Steinn Oskarsson - 1 **1.22**  ·  Takefusa Kubo - 1 **1.73**  ·  Goncalo Guedes - 1 **1.25**  ·  Alex Marchal - 1 **1.83**  ·  Ander Barrenetxea - 1 **1.83**  ·  Arsen Zakharyan - 1 **1.62**  ·  Job Ochieng - 1 **1.62**  ·  Luka Sucic - 1 **1.57**  ·  Yangel Herrera - 1 **3.25**  ·  Sergio Gomez - 1 **4.50**  ·  Barragan Carlos Soler - 1 **1.73**  ·  Jon Gorrotxategi - 1 **5.50**  ·  Benat Turrientes - 1 **1.91**  ·  Aihen Munoz - 1 **4.00**  ·  Jon Aramburu - 1 **3.75**  ·  Jon Pacheco - 1 **4.00**  ·  Luken Beitia - 1 **4.50**  ·  Jon Martin - 1 **3.75**  ·  Igor Zubeldia - 1 **8.00**  ·  Mikel Oyarzabal - 2 **2.10**  ·  Orri Steinn Oskarsson - 2 **2.00**  ·  Takefusa Kubo - 2 **4.50**  ·  Goncalo Guedes - 2 **2.25**  ·  Alex Marchal - 2 **5.50**  ·  Ander Barrenetxea - 2 **5.50**  ·  Arsen Zakharyan - 2 **4.00**  ·  Job Ochieng - 2 **4.00**  ·  Luka Sucic - 2 **3.75**  ·  Yangel Herrera - 2 **17.00**  ·  Sergio Gomez - 2 **21.00**  ·  Barragan Carlos Soler - 2 **4.50**  ·  Benat Turrientes - 2 **6.00**  ·  Aihen Munoz - 2 **21.00**  ·  Jon Aramburu - 2 **21.00**  ·  Jon Pacheco - 2 **21.00**  ·  Luken Beitia - 2 **21.00**  ·  Jon Martin - 2 **21.00**  ·  Mikel Oyarzabal - 3 **4.50**  ·  Orri Steinn Oskarsson - 3 **4.33**  ·  Takefusa Kubo - 3 **15.00**  ·  Goncalo Guedes - 3 **5.00**  ·  Alex Marchal - 3 **19.00**  ·  Ander Barrenetxea - 3 **19.00**  ·  Arsen Zakharyan - 3 **13.00**  ·  Job Ochieng - 3 **13.00**  ·  Luka Sucic - 3 **11.00**  ·  Barragan Carlos Soler - 3 **17.00**  ·  Benat Turrientes - 3 **21.00**  ·  Mikel Oyarzabal - 4 **11.00**  ·  Orri Steinn Oskarsson - 4 **11.00**  ·  Goncalo Guedes - 4 **13.00**  ·  Orri Steinn Oskarsson - 5 **21.00**  ·  Mamadou Sarr - 1 **5.50**  ·  Hector Fort - 1 **2.20**  ·  Hector Fort - 2 **8.00**
-- **Away Player Shots On Target Total:** Victor Garcia **34.00**  ·  Ivan Romero **17.00**  ·  Jorge Cabello **51.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **15.00**  ·  Jon Gorrotxategi **34.00**  ·  Orri Steinn Oskarsson **7.50**  ·  Aissa Mandi **26.00**  ·  Ifeanyi Ndukwe **29.00**  ·  Job Ochieng **15.00**  ·  Alex Lebarbier **41.00**  ·  Nacho Perez **81.00**  ·  Paco Cortes **41.00**  ·  Gorka Carrera **34.00**  ·  Thiago Fernandez **41.00**  ·  Mamadou Sarr **19.00**  ·  Petar Ratkov **15.00**  ·  Sergio Gomez **51.00**  ·  Jeremy Toljan **81.00**  ·  Arsen Zakharyan **34.00**  ·  Manuel Sanchez **126.00**  ·  Jon Ander Olasagasti **51.00**  ·  Benat Turrientes **34.00**  ·  Aihen Munoz **67.00**  ·  Jon Martin **12.00**  ·  Hector Fort **41.00**  ·  Yanis Musuayi **7.50**  ·  Marc Santos **81.00**  ·  Hugo Sotelo **67.00**  ·  Ander Barrenetxea **29.00**  ·  Igor Zubeldia **21.00**  ·  Jon Aramburu **67.00**  ·  Jon Pacheco **13.00**  ·  Mikel Oyarzabal **19.00**  ·  Takefusa Kubo **67.00**  ·  Yangel Herrera **11.00**  ·  Luka Sucic **21.00**  ·  Daniel Requena **23.00**  ·  Goncalo Guedes **23.00**  ·  Axel Tape **23.00**  ·  Barragan Carlos Soler **34.00**  ·  Enzo Bardeli **67.00**  ·  Luken Beitia **67.00**
+- **Away Player Shots On Target Total:** Victor Garcia **34.00**  ·  Ivan Romero **17.00**  ·  Jorge Cabello **51.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **15.00**  ·  Jon Gorrotxategi **34.00**  ·  Orri Steinn Oskarsson **7.50**  ·  Aissa Mandi **26.00**  ·  Ifeanyi Ndukwe **29.00**  ·  Job Ochieng **15.00**  ·  Alex Lebarbier **41.00**  ·  Nacho Perez **81.00**  ·  Paco Cortes **41.00**  ·  Gorka Carrera **34.00**  ·  Thiago Fernandez **41.00**  ·  Mamadou Sarr **19.00**  ·  Petar Ratkov **15.00**  ·  Sergio Gomez **51.00**  ·  Jeremy Toljan **81.00**  ·  Arsen Zakharyan **29.00**  ·  Manuel Sanchez **126.00**  ·  Jon Ander Olasagasti **51.00**  ·  Benat Turrientes **34.00**  ·  Aihen Munoz **67.00**  ·  Jon Martin **12.00**  ·  Hector Fort **41.00**  ·  Yanis Musuayi **7.50**  ·  Marc Santos **81.00**  ·  Hugo Sotelo **67.00**  ·  Ander Barrenetxea **29.00**  ·  Igor Zubeldia **21.00**  ·  Jon Aramburu **67.00**  ·  Jon Pacheco **13.00**  ·  Mikel Oyarzabal **19.00**  ·  Takefusa Kubo **67.00**  ·  Yangel Herrera **11.00**  ·  Luka Sucic **21.00**  ·  Daniel Requena **23.00**  ·  Goncalo Guedes **23.00**  ·  Axel Tape **23.00**  ·  Barragan Carlos Soler **29.00**  ·  Enzo Bardeli **67.00**  ·  Luken Beitia **67.00**
 - **Away Player Shots Total:**
     - 11,5: más **1.91** · menos **1.80**
 - **Home Player Shots:** Mikel Oyarzabal - 1 **1.02**  ·  Orri Steinn Oskarsson - 1 **1.01**  ·  Takefusa Kubo - 1 **1.11**  ·  Goncalo Guedes - 1 **1.01**  ·  Alex Marchal - 1 **1.12**  ·  Ander Barrenetxea - 1 **1.10**  ·  Arsen Zakharyan - 1 **1.07**  ·  Job Ochieng - 1 **1.05**  ·  Luka Sucic - 1 **1.04**  ·  Yangel Herrera - 1 **1.36**  ·  Sergio Gomez - 1 **2.00**  ·  Barragan Carlos Soler - 1 **1.20**  ·  Jon Gorrotxategi - 1 **2.20**  ·  Benat Turrientes - 1 **1.17**  ·  Aihen Munoz - 1 **1.83**  ·  Jon Aramburu - 1 **1.53**  ·  Jon Pacheco - 1 **2.00**  ·  Luken Beitia - 1 **2.20**  ·  Jon Martin - 1 **1.83**  ·  Igor Zubeldia - 1 **3.40**  ·  Mikel Oyarzabal - 2 **1.17**  ·  Orri Steinn Oskarsson - 2 **1.08**  ·  Takefusa Kubo - 2 **1.53**  ·  Goncalo Guedes - 2 **1.11**  ·  Alex Marchal - 2 **1.57**  ·  Ander Barrenetxea - 2 **1.50**  ·  Arsen Zakharyan - 2 **1.36**  ·  Job Ochieng - 2 **1.28**  ·  Luka Sucic - 2 **1.25**  ·  Yangel Herrera - 2 **2.62**  ·  Sergio Gomez - 2 **5.50**  ·  Barragan Carlos Soler - 2 **1.91**  ·  Jon Gorrotxategi - 2 **7.00**  ·  Benat Turrientes - 2 **1.73**  ·  Aihen Munoz - 2 **5.00**  ·  Jon Aramburu - 2 **3.40**  ·  Jon Pacheco - 2 **5.50**  ·  Luken Beitia - 2 **7.00**  ·  Jon Martin - 2 **5.00**  ·  Igor Zubeldia - 2 **15.00**  ·  Mikel Oyarzabal - 3 **1.50**  ·  Orri Steinn Oskarsson - 3 **1.28**  ·  Takefusa Kubo - 3 **2.50**  ·  Goncalo Guedes - 3 **1.33**  ·  Alex Marchal - 3 **2.62**  ·  Ander Barrenetxea - 3 **2.38**  ·  Arsen Zakharyan - 3 **2.00**  ·  Job Ochieng - 3 **1.83**  ·  Luka Sucic - 3 **1.73**  ·  Yangel Herrera - 3 **6.00**  ·  Sergio Gomez - 3 **17.00**  ·  Barragan Carlos Soler - 3 **3.75**  ·  Jon Gorrotxategi - 3 **21.00**  ·  Benat Turrientes - 3 **3.25**  ·  Aihen Munoz - 3 **15.00**  ·  Jon Aramburu - 3 **9.00**  ·  Jon Pacheco - 3 **17.00**  ·  Luken Beitia - 3 **21.00**  ·  Jon Martin - 3 **15.00**  ·  Mikel Oyarzabal - 4 **2.20**  ·  Orri Steinn Oskarsson - 4 **1.67**  ·  Takefusa Kubo - 4 **4.50**  ·  Goncalo Guedes - 4 **1.83**  ·  Alex Marchal - 4 **5.00**  ·  Ander Barrenetxea - 4 **4.33**  ·  Arsen Zakharyan - 4 **3.50**  ·  Job Ochieng - 4 **3.00**  ·  Luka Sucic - 4 **2.62**  ·  Yangel Herrera - 4 **15.00**  ·  Barragan Carlos Soler - 4 **8.00**  ·  Benat Turrientes - 4 **6.50**  ·  Jon Aramburu - 4 **21.00**  ·  Mikel Oyarzabal - 5 **3.50**  ·  Orri Steinn Oskarsson - 5 **2.50**  ·  Takefusa Kubo - 5 **10.00**  ·  Goncalo Guedes - 5 **2.75**  ·  Alex Marchal - 5 **11.00**  ·  Ander Barrenetxea - 5 **9.00**  ·  Arsen Zakharyan - 5 **7.00**  ·  Job Ochieng - 5 **5.50**  ·  Luka Sucic - 5 **4.50**  ·  Barragan Carlos Soler - 5 **19.00**  ·  Benat Turrientes - 5 **15.00**  ·  Mikel Oyarzabal - 6 **6.50**  ·  Orri Steinn Oskarsson - 6 **3.75**  ·  Takefusa Kubo - 6 **21.00**  ·  Goncalo Guedes - 6 **4.50**  ·  Alex Marchal - 6 **21.00**  ·  Ander Barrenetxea - 6 **19.00**  ·  Arsen Zakharyan - 6 **15.00**  ·  Job Ochieng - 6 **11.00**  ·  Luka Sucic - 6 **9.00**  ·  Mikel Oyarzabal - 7 **11.00**  ·  Orri Steinn Oskarsson - 7 **6.50**  ·  Goncalo Guedes - 7 **8.00**  ·  Mikel Oyarzabal - 8 **21.00**  ·  Orri Steinn Oskarsson - 8 **13.00**  ·  Hector Fort - 4 **10.00**  ·  Job Ochieng - 7 **21.00**  ·  Luka Sucic - 7 **17.00**  ·  Mamadou Sarr - 1 **2.50**  ·  Mamadou Sarr - 2 **9.00**  ·  Mamadou Sarr - 3 **21.00**  ·  Hector Fort - 1 **1.25**  ·  Hector Fort - 2 **2.10**  ·  Hector Fort - 3 **4.33**  ·  Hector Fort - 5 **21.00**  ·  Goncalo Guedes - 8 **15.00**  ·  Arsen Zakharyan - 7 **21.00**  ·  Goncalo Guedes - 9 **21.00**  ·  Orri Steinn Oskarsson - 9 **21.00**
 - **Away Player Shots:** Axel Tape - 1 **2.62**  ·  Axel Tape - 2 **10.00**  ·  Axel Tape - 3 **21.00**  ·  Roger Brugue - 1 **1.10**  ·  Ivan Romero - 1 **1.11**  ·  Enzo Bardeli - 1 **1.57**  ·  Yanis Musuayi - 1 **1.08**  ·  Victor Garcia - 1 **1.28**  ·  Paco Cortes - 1 **1.12**  ·  Jon Ander Olasagasti - 1 **1.20**  ·  Adrian De la Fuente - 1 **1.33**  ·  Daniel Requena - 1 **1.28**  ·  Oriol Rey - 1 **2.20**  ·  Hugo Sotelo - 1 **1.62**  ·  Aissa Mandi - 1 **2.75**  ·  Marc Santos - 1 **2.20**  ·  Nacho Perez - 1 **2.75**  ·  Jeremy Toljan - 1 **2.75**  ·  Jorge Cabello - 1 **3.40**  ·  Manuel Sanchez - 1 **2.75**  ·  Roger Brugue - 2 **1.44**  ·  Ivan Romero - 2 **1.50**  ·  Enzo Bardeli - 2 **3.50**  ·  Yanis Musuayi - 2 **1.40**  ·  Victor Garcia - 2 **2.20**  ·  Paco Cortes - 2 **1.57**  ·  Jon Ander Olasagasti - 2 **1.91**  ·  Adrian De la Fuente - 2 **2.38**  ·  Daniel Requena - 2 **2.20**  ·  Oriol Rey - 2 **7.00**  ·  Hugo Sotelo - 2 **3.75**  ·  Aissa Mandi - 2 **11.00**  ·  Marc Santos - 2 **7.00**  ·  Nacho Perez - 2 **11.00**  ·  Jeremy Toljan - 2 **11.00**  ·  Jorge Cabello - 2 **13.00**  ·  Manuel Sanchez - 2 **11.00**  ·  Roger Brugue - 3 **2.25**  ·  Ivan Romero - 3 **2.50**  ·  Enzo Bardeli - 3 **10.00**  ·  Yanis Musuayi - 3 **2.10**  ·  Victor Garcia - 3 **4.50**  ·  Paco Cortes - 3 **2.62**  ·  Jon Ander Olasagasti - 3 **3.75**  ·  Adrian De la Fuente - 3 **5.50**  ·  Daniel Requena - 3 **4.50**  ·  Oriol Rey - 3 **21.00**  ·  Hugo Sotelo - 3 **11.00**  ·  Marc Santos - 3 **21.00**  ·  Roger Brugue - 4 **4.00**  ·  Ivan Romero - 4 **4.50**  ·  Enzo Bardeli - 4 **21.00**  ·  Yanis Musuayi - 4 **3.75**  ·  Victor Garcia - 4 **11.00**  ·  Paco Cortes - 4 **5.00**  ·  Jon Ander Olasagasti - 4 **8.00**  ·  Adrian De la Fuente - 4 **13.00**  ·  Daniel Requena - 4 **11.00**  ·  Roger Brugue - 5 **9.00**  ·  Ivan Romero - 5 **10.00**  ·  Yanis Musuayi - 5 **8.00**  ·  Victor Garcia - 5 **21.00**  ·  Paco Cortes - 5 **11.00**  ·  Roger Brugue - 6 **17.00**  ·  Ivan Romero - 6 **19.00**  ·  Yanis Musuayi - 6 **15.00**  ·  Petar Ratkov - 1 **1.06**  ·  Petar Ratkov - 2 **1.30**  ·  Petar Ratkov - 3 **1.91**  ·  Petar Ratkov - 4 **3.25**  ·  Petar Ratkov - 5 **6.00**  ·  Petar Ratkov - 6 **13.00**  ·  Petar Ratkov - 7 **21.00**  ·  Hugo Sotelo - 4 **21.00**  ·  Daniel Requena - 5 **21.00**  ·  Jon Ander Olasagasti - 5 **19.00**  ·  Paco Cortes - 6 **21.00**  ·  Ifeanyi Ndukwe - 1 **2.62**  ·  Thiago Fernandez - 3 **3.00**  ·  Thiago Fernandez - 1 **1.17**  ·  Ifeanyi Ndukwe - 2 **10.00**  ·  Thiago Fernandez - 2 **1.73**  ·  Ifeanyi Ndukwe - 3 **21.00**  ·  Thiago Fernandez - 4 **6.00**  ·  Thiago Fernandez - 5 **13.00**  ·  Thiago Fernandez - 6 **21.00**  ·  Yanis Musuayi - 7 **21.00**
 - **Player Fouls Committed:** Axel Tape - 1 **1.25**  ·  Axel Tape - 2 **2.10**  ·  Axel Tape - 3 **4.33**  ·  Roger Brugue - 1 **1.17**  ·  Ivan Romero - 1 **1.25**  ·  Enzo Bardeli - 1 **1.67**  ·  Yanis Musuayi - 1 **1.25**  ·  Victor Garcia - 1 **1.17**  ·  Paco Cortes - 1 **1.25**  ·  Jon Ander Olasagasti - 1 **1.25**  ·  Adrian De la Fuente - 1 **1.18**  ·  Daniel Requena - 1 **1.17**  ·  Oriol Rey - 1 **1.22**  ·  Hugo Sotelo - 1 **1.28**  ·  Aissa Mandi - 1 **1.73**  ·  Marc Santos - 1 **1.36**  ·  Nacho Perez - 1 **1.62**  ·  Jeremy Toljan - 1 **1.22**  ·  Jorge Cabello - 1 **1.67**  ·  Manuel Sanchez - 1 **1.22**  ·  Roger Brugue - 2 **1.73**  ·  Ivan Romero - 2 **2.20**  ·  Enzo Bardeli - 2 **4.00**  ·  Yanis Musuayi - 2 **2.10**  ·  Victor Garcia - 2 **1.73**  ·  Paco Cortes - 2 **2.20**  ·  Jon Ander Olasagasti - 2 **2.20**  ·  Adrian De la Fuente - 2 **1.80**  ·  Daniel Requena - 2 **1.73**  ·  Oriol Rey - 2 **2.00**  ·  Hugo Sotelo - 2 **2.25**  ·  Aissa Mandi - 2 **4.50**  ·  Marc Santos - 2 **2.62**  ·  Nacho Perez - 2 **3.75**  ·  Jeremy Toljan - 2 **2.00**  ·  Jorge Cabello - 2 **4.00**  ·  Manuel Sanchez - 2 **2.00**  ·  Roger Brugue - 3 **3.40**  ·  Ivan Romero - 3 **4.50**  ·  Enzo Bardeli - 3 **13.00**  ·  Yanis Musuayi - 3 **4.33**  ·  Victor Garcia - 3 **3.40**  ·  Paco Cortes - 3 **4.50**  ·  Jon Ander Olasagasti - 3 **4.50**  ·  Adrian De la Fuente - 3 **3.50**  ·  Daniel Requena - 3 **3.40**  ·  Oriol Rey - 3 **4.00**  ·  Hugo Sotelo - 3 **5.00**  ·  Aissa Mandi - 3 **15.00**  ·  Marc Santos - 3 **6.50**  ·  Nacho Perez - 3 **11.00**  ·  Jeremy Toljan - 3 **4.00**  ·  Jorge Cabello - 3 **13.00**  ·  Manuel Sanchez - 3 **4.00**  ·  Roger Brugue - 4 **7.00**  ·  Ivan Romero - 4 **13.00**  ·  Yanis Musuayi - 4 **11.00**  ·  Victor Garcia - 4 **7.00**  ·  Paco Cortes - 4 **13.00**  ·  Jon Ander Olasagasti - 4 **13.00**  ·  Adrian De la Fuente - 4 **8.00**  ·  Daniel Requena - 4 **7.00**  ·  Oriol Rey - 4 **10.00**  ·  Roger Brugue - 5 **17.00**  ·  Ivan Romero - 5 **26.00**  ·  Yanis Musuayi - 5 **26.00**  ·  Victor Garcia - 5 **17.00**  ·  Paco Cortes - 5 **26.00**  ·  Mikel Oyarzabal - 1 **1.40**  ·  Orri Steinn Oskarsson - 1 **1.20**  ·  Takefusa Kubo - 1 **1.62**  ·  Goncalo Guedes - 1 **1.25**  ·  Alex Marchal - 1 **1.25**  ·  Ander Barrenetxea - 1 **1.11**  ·  Arsen Zakharyan - 1 **1.25**  ·  Job Ochieng - 1 **1.08**  ·  Luka Sucic - 1 **1.44**  ·  Yangel Herrera - 1 **1.05**  ·  Sergio Gomez - 1 **1.25**  ·  Barragan Carlos Soler - 1 **1.20**  ·  Jon Gorrotxategi - 1 **1.20**  ·  Benat Turrientes - 1 **1.17**  ·  Aihen Munoz - 1 **1.28**  ·  Jon Aramburu - 1 **1.05**  ·  Jon Pacheco - 1 **1.28**  ·  Luken Beitia - 1 **1.11**  ·  Jon Martin - 1 **1.17**  ·  Igor Zubeldia - 1 **1.17**  ·  Mikel Oyarzabal - 2 **2.75**  ·  Orri Steinn Oskarsson - 2 **1.91**  ·  Takefusa Kubo - 2 **4.00**  ·  Goncalo Guedes - 2 **2.20**  ·  Alex Marchal - 2 **2.20**  ·  Ander Barrenetxea - 2 **1.53**  ·  Arsen Zakharyan - 2 **2.20**  ·  Job Ochieng - 2 **1.40**  ·  Luka Sucic - 2 **3.00**  ·  Yangel Herrera - 2 **1.28**  ·  Sergio Gomez - 2 **2.20**  ·  Barragan Carlos Soler - 2 **1.91**  ·  Jon Gorrotxategi - 2 **1.91**  ·  Benat Turrientes - 2 **1.73**  ·  Aihen Munoz - 2 **2.25**  ·  Jon Aramburu - 2 **1.30**  ·  Jon Pacheco - 2 **2.25**  ·  Luken Beitia - 2 **1.53**  ·  Jon Martin - 2 **1.80**  ·  Igor Zubeldia - 2 **1.80**  ·  Mikel Oyarzabal - 3 **7.00**  ·  Orri Steinn Oskarsson - 3 **3.75**  ·  Takefusa Kubo - 3 **13.00**  ·  Goncalo Guedes - 3 **4.50**  ·  Alex Marchal - 3 **4.50**  ·  Ander Barrenetxea - 3 **2.62**  ·  Arsen Zakharyan - 3 **4.50**  ·  Job Ochieng - 3 **2.20**  ·  Luka Sucic - 3 **8.00**  ·  Yangel Herrera - 3 **1.83**  ·  Sergio Gomez - 3 **4.50**  ·  Barragan Carlos Soler - 3 **4.00**  ·  Jon Gorrotxategi - 3 **4.00**  ·  Benat Turrientes - 3 **3.25**  ·  Aihen Munoz - 3 **5.00**  ·  Jon Aramburu - 3 **1.83**  ·  Jon Pacheco - 3 **5.00**  ·  Luken Beitia - 3 **2.62**  ·  Jon Martin - 3 **3.50**  ·  Igor Zubeldia - 3 **3.50**  ·  Mikel Oyarzabal - 4 **19.00**  ·  Orri Steinn Oskarsson - 4 **9.00**  ·  Goncalo Guedes - 4 **11.00**  ·  Alex Marchal - 4 **11.00**  ·  Ander Barrenetxea - 4 **5.00**  ·  Arsen Zakharyan - 4 **11.00**  ·  Job Ochieng - 4 **4.00**  ·  Luka Sucic - 4 **21.00**  ·  Yangel Herrera - 4 **3.25**  ·  Sergio Gomez - 4 **11.00**  ·  Barragan Carlos Soler - 4 **10.00**  ·  Jon Gorrotxategi - 4 **10.00**  ·  Benat Turrientes - 4 **7.00**  ·  Aihen Munoz - 4 **13.00**  ·  Jon Aramburu - 4 **3.40**  ·  Jon Pacheco - 4 **13.00**  ·  Luken Beitia - 4 **5.00**  ·  Jon Martin - 4 **8.00**  ·  Orri Steinn Oskarsson - 5 **21.00**  ·  Goncalo Guedes - 5 **26.00**  ·  Alex Marchal - 5 **26.00**  ·  Ander Barrenetxea - 5 **11.00**  ·  Arsen Zakharyan - 5 **26.00**  ·  Job Ochieng - 5 **9.00**  ·  Yangel Herrera - 5 **6.00**  ·  Sergio Gomez - 5 **26.00**  ·  Barragan Carlos Soler - 5 **21.00**  ·  Jon Gorrotxategi - 5 **21.00**  ·  Benat Turrientes - 5 **17.00**  ·  Ander Barrenetxea - 6 **23.00**  ·  Job Ochieng - 6 **19.00**  ·  Yangel Herrera - 6 **13.00**  ·  Petar Ratkov - 1 **1.25**  ·  Petar Ratkov - 2 **2.20**  ·  Petar Ratkov - 3 **4.50**  ·  Petar Ratkov - 4 **13.00**  ·  Petar Ratkov - 5 **26.00**  ·  Igor Zubeldia - 4 **8.00**  ·  Jon Aramburu - 5 **6.50**  ·  Igor Zubeldia - 5 **19.00**  ·  Jon Martin - 5 **19.00**  ·  Hugo Sotelo - 4 **13.00**  ·  Jeremy Toljan - 4 **10.00**  ·  Manuel Sanchez - 4 **10.00**  ·  Marc Santos - 4 **17.00**  ·  Daniel Requena - 5 **17.00**  ·  Adrian De la Fuente - 5 **19.00**  ·  Jeremy Toljan - 5 **23.00**  ·  Manuel Sanchez - 5 **23.00**  ·  Oriol Rey - 5 **23.00**  ·  Jon Ander Olasagasti - 5 **26.00**  ·  Ifeanyi Ndukwe - 1 **1.44**  ·  Thiago Fernandez - 3 **3.00**  ·  Hector Fort - 4 **8.00**  ·  Thiago Fernandez - 1 **1.14**  ·  Ifeanyi Ndukwe - 2 **3.00**  ·  Thiago Fernandez - 2 **1.67**  ·  Ifeanyi Ndukwe - 3 **8.00**  ·  Thiago Fernandez - 4 **6.00**  ·  Thiago Fernandez - 5 **15.00**  ·  Jon Aramburu - 6 **13.00**  ·  Jon Aramburu - 7 **26.00**  ·  Yangel Herrera - 7 **23.00**  ·  Mamadou Sarr - 1 **1.33**  ·  Mamadou Sarr - 2 **2.50**  ·  Mamadou Sarr - 3 **5.50**  ·  Mamadou Sarr - 4 **15.00**  ·  Luken Beitia - 5 **11.00**  ·  Axel Tape - 4 **11.00**  ·  Ifeanyi Ndukwe - 4 **21.00**  ·  Axel Tape - 5 **26.00**  ·  Hector Fort - 1 **1.17**  ·  Hector Fort - 2 **1.80**  ·  Hector Fort - 3 **3.50**  ·  Hector Fort - 5 **19.00**  ·  Luken Beitia - 6 **23.00**
-- **Goalkeeper Saves:** Mathew Ryan - 4 **1.67**  ·  Mathew Ryan - 5 **2.62**  ·  Mathew Ryan - 6 **4.33**  ·  Mathew Ryan - 2 **1.07**  ·  Mathew Ryan - 3 **1.28**  ·  Alejandro Remiro - 2 **1.20**  ·  Alejandro Remiro - 3 **1.62**  ·  Alejandro Remiro - 4 **2.62**  ·  Alejandro Remiro - 5 **4.50**  ·  Alejandro Remiro - 6 **10.00**  ·  Mathew Ryan **8.00**
-- **Anytime Goal Scorer:** Victor Garcia **7.00**  ·  Ivan Romero **3.60**  ·  Jorge Cabello **21.00**  ·  Oriol Rey **13.00**  ·  Roger Brugue **4.50**  ·  Adrian De la Fuente **8.00**  ·  Jon Gorrotxategi **8.00**  ·  Orri Steinn Oskarsson **2.05**  ·  Aissa Mandi **17.00**  ·  Ifeanyi Ndukwe **13.00**  ·  Job Ochieng **3.10**  ·  Alex Lebarbier **5.00**  ·  Nacho Perez **17.00**  ·  Paco Cortes **5.00**  ·  Gorka Carrera **4.00**  ·  Thiago Fernandez **5.00**  ·  Mamadou Sarr **10.00**  ·  Petar Ratkov **3.25**  ·  Sergio Gomez **6.50**  ·  Jeremy Toljan **17.00**  ·  Arsen Zakharyan **3.60**  ·  Manuel Sanchez **17.00**  ·  Jon Ander Olasagasti **6.00**  ·  Benat Turrientes **4.00**  ·  Aihen Munoz **8.00**  ·  Jon Martin **10.00**  ·  Hector Fort **5.00**  ·  Yanis Musuayi **4.00**  ·  Marc Santos **13.00**  ·  Hugo Sotelo **9.00**  ·  Ander Barrenetxea **3.25**  ·  Igor Zubeldia **11.00**  ·  Jon Aramburu **8.00**  ·  Jon Pacheco **8.00**  ·  Mikel Oyarzabal **2.05**  ·  Takefusa Kubo **3.60**  ·  Yangel Herrera **5.00**  ·  Luka Sucic **3.10**  ·  Daniel Requena **5.00**  ·  Goncalo Guedes **2.50**  ·  Axel Tape **17.00**  ·  Barragan Carlos Soler **3.60**  ·  Enzo Bardeli **8.00**  ·  Alex Marchal **3.60**  ·  Luken Beitia **8.00**
-- **Player to Score or Assist:** Victor Garcia **4.00**  ·  Ivan Romero **2.75**  ·  Jorge Cabello **13.00**  ·  Oriol Rey **6.00**  ·  Roger Brugue **3.00**  ·  Adrian De la Fuente **5.00**  ·  Jon Gorrotxategi **3.50**  ·  Orri Steinn Oskarsson **1.62**  ·  Aissa Mandi **9.50**  ·  Ifeanyi Ndukwe **9.00**  ·  Job Ochieng **2.20**  ·  Alex Lebarbier **3.00**  ·  Nacho Perez **7.00**  ·  Paco Cortes **3.75**  ·  Gorka Carrera **2.38**  ·  Thiago Fernandez **3.10**  ·  Mamadou Sarr **5.50**  ·  Petar Ratkov **2.50**  ·  Sergio Gomez **2.60**  ·  Jeremy Toljan **7.00**  ·  Arsen Zakharyan **2.25**  ·  Manuel Sanchez **6.00**  ·  Jon Ander Olasagasti **4.00**  ·  Benat Turrientes **2.60**  ·  Aihen Munoz **3.75**  ·  Jon Martin **5.00**  ·  Hector Fort **3.00**  ·  Yanis Musuayi **2.88**  ·  Marc Santos **6.00**  ·  Hugo Sotelo **4.75**  ·  Ander Barrenetxea **1.91**  ·  Igor Zubeldia **4.75**  ·  Jon Aramburu **4.75**  ·  Jon Pacheco **3.75**  ·  Mikel Oyarzabal **1.53**  ·  Takefusa Kubo **2.10**  ·  Yangel Herrera **3.00**  ·  Luka Sucic **2.00**  ·  Daniel Requena **4.00**  ·  Goncalo Guedes **1.67**  ·  Axel Tape **8.00**  ·  Barragan Carlos Soler **2.25**  ·  Enzo Bardeli **3.75**  ·  Alex Marchal **2.20**  ·  Luken Beitia **3.75**
+- **Goalkeeper Saves:** Mathew Ryan - 4 **1.73**  ·  Mathew Ryan - 5 **2.62**  ·  Mathew Ryan - 6 **4.50**  ·  Mathew Ryan - 7 **8.00**  ·  Mathew Ryan - 2 **1.08**  ·  Mathew Ryan - 3 **1.30**  ·  Alejandro Remiro - 2 **1.22**  ·  Alejandro Remiro - 3 **1.67**  ·  Alejandro Remiro - 4 **2.62**  ·  Alejandro Remiro - 5 **5.00**  ·  Alejandro Remiro - 6 **10.00**  ·  Mathew Ryan **9.00**
+- **Anytime Goal Scorer:** Victor Garcia **7.00**  ·  Ivan Romero **3.50**  ·  Jorge Cabello **21.00**  ·  Oriol Rey **13.00**  ·  Roger Brugue **4.33**  ·  Adrian De la Fuente **7.50**  ·  Jon Gorrotxategi **7.50**  ·  Orri Steinn Oskarsson **2.00**  ·  Aissa Mandi **17.00**  ·  Ifeanyi Ndukwe **13.00**  ·  Job Ochieng **3.00**  ·  Alex Lebarbier **5.00**  ·  Nacho Perez **17.00**  ·  Paco Cortes **5.00**  ·  Gorka Carrera **3.75**  ·  Thiago Fernandez **5.00**  ·  Mamadou Sarr **9.50**  ·  Petar Ratkov **3.20**  ·  Sergio Gomez **6.50**  ·  Jeremy Toljan **17.00**  ·  Arsen Zakharyan **3.50**  ·  Manuel Sanchez **17.00**  ·  Jon Ander Olasagasti **5.50**  ·  Benat Turrientes **3.75**  ·  Aihen Munoz **7.50**  ·  Jon Martin **9.50**  ·  Hector Fort **5.00**  ·  Yanis Musuayi **3.75**  ·  Marc Santos **13.00**  ·  Hugo Sotelo **8.50**  ·  Ander Barrenetxea **3.20**  ·  Igor Zubeldia **11.00**  ·  Jon Aramburu **7.50**  ·  Jon Pacheco **7.50**  ·  Mikel Oyarzabal **2.00**  ·  Takefusa Kubo **3.50**  ·  Yangel Herrera **5.00**  ·  Luka Sucic **3.00**  ·  Daniel Requena **5.00**  ·  Goncalo Guedes **2.40**  ·  Axel Tape **17.00**  ·  Barragan Carlos Soler **3.50**  ·  Enzo Bardeli **7.50**  ·  Alex Marchal **3.50**  ·  Luken Beitia **7.50**
+- **Player to Score or Assist:** Victor Garcia **4.00**  ·  Ivan Romero **2.62**  ·  Jorge Cabello **13.00**  ·  Oriol Rey **6.00**  ·  Roger Brugue **3.00**  ·  Adrian De la Fuente **5.00**  ·  Jon Gorrotxategi **3.50**  ·  Orri Steinn Oskarsson **1.62**  ·  Aissa Mandi **9.50**  ·  Ifeanyi Ndukwe **9.00**  ·  Job Ochieng **2.20**  ·  Alex Lebarbier **3.00**  ·  Nacho Perez **7.00**  ·  Paco Cortes **3.75**  ·  Gorka Carrera **2.38**  ·  Thiago Fernandez **3.10**  ·  Mamadou Sarr **5.50**  ·  Petar Ratkov **2.40**  ·  Sergio Gomez **2.60**  ·  Jeremy Toljan **7.00**  ·  Arsen Zakharyan **2.25**  ·  Manuel Sanchez **6.00**  ·  Jon Ander Olasagasti **4.00**  ·  Benat Turrientes **2.60**  ·  Aihen Munoz **3.75**  ·  Jon Martin **5.00**  ·  Hector Fort **3.00**  ·  Yanis Musuayi **2.88**  ·  Marc Santos **6.00**  ·  Hugo Sotelo **4.75**  ·  Ander Barrenetxea **1.91**  ·  Igor Zubeldia **4.75**  ·  Jon Aramburu **4.75**  ·  Jon Pacheco **3.75**  ·  Mikel Oyarzabal **1.50**  ·  Takefusa Kubo **2.10**  ·  Yangel Herrera **3.00**  ·  Luka Sucic **2.00**  ·  Daniel Requena **4.00**  ·  Goncalo Guedes **1.62**  ·  Axel Tape **8.00**  ·  Barragan Carlos Soler **2.25**  ·  Enzo Bardeli **3.75**  ·  Alex Marchal **2.20**  ·  Luken Beitia **3.75**
 
 ## Estadísticas de equipo
 | | Real Sociedad (total) | Real Sociedad en casa | Levante (total) | Levante fuera |
@@ -213,34 +214,34 @@ _Goles esperados: local 2,50 · visitante 1,49 · córners esperados 10,0._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 20% | 21% | 4.75 | -1% |
-| 1X2: X | 19% | 21% | 20% | 4.50 | -11% |
-| 1X2: 1 | 60% | 59% | 59% | 1.60 | -5% |
+| 1X2: X | 19% | 20% | 19% | 4.75 | -9% |
+| 1X2: 1 | 60% | 60% | 60% | 1.57 | -6% |
 | Doble oportunidad: X2 | 40% | 41% | 41% | 2.30 | -7% |
 | Doble oportunidad: 12 | 81% | 80% | 81% | 1.18 | -5% |
 | Doble oportunidad: 1X | 78% | 80% | 79% | 1.18 | -7% |
-| Ambos marcan: No | 29% | 44% | 37% | 2.10 | -23% |
-| Ambos marcan: Sí | 71% | 56% | 63% | 1.67 | +6% |
-| Goles más/menos: Más de 2.5 | 76% | 60% | 68% | 1.57 | +7% |
-| Goles más/menos: Más de 3.5 ✅ | 56% | 38% | 47% | 2.50 | +18% |
-| Goles más/menos: Más de 4.5 | 37% | 22% | 29% | 4.33 | +27% |
-| Goles más/menos: Menos de 2.5 | 24% | 40% | 32% | 2.38 | -24% |
-| Goles más/menos: Menos de 3.5 | 44% | 62% | 53% | 1.53 | -19% |
-| Goles más/menos: Menos de 4.5 | 63% | 78% | 71% | 1.22 | -14% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
-| Goles del local: Más de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
-| Goles del local: Más de 2.5 | 46% | 35% | 41% | 2.62 | +6% |
-| Goles del local: Menos de 1.5 | 29% | 39% | 34% | 2.38 | -19% |
-| Goles del local: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -14% |
-| Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 ✅ | 44% | 29% | 36% | 3.25 | +18% |
-| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 1.5 | 56% | 71% | 64% | 1.33 | -15% |
+| Ambos marcan: No | 29% | 41% | 35% | 2.25 | -21% |
+| Ambos marcan: Sí | 71% | 59% | 65% | 1.57 | +2% |
+| Goles más/menos: Más de 2.5 | 76% | 66% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 3.5 | 56% | 43% | 50% | 2.20 | +10% |
+| Goles más/menos: Más de 4.5 ✅ | 37% | 25% | 31% | 3.75 | +17% |
+| Goles más/menos: Menos de 2.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles más/menos: Menos de 3.5 | 44% | 57% | 50% | 1.67 | -16% |
+| Goles más/menos: Menos de 4.5 | 63% | 75% | 69% | 1.28 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
+| Goles del local: Más de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
+| Goles del local: Más de 2.5 | 46% | 38% | 42% | 2.50 | +4% |
+| Goles del local: Menos de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -12% |
+| Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +1% |
+| Goles del visitante: Más de 1.5 ✅ | 44% | 31% | 37% | 3.00 | +12% |
+| Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -23% |
+| Goles del visitante: Menos de 1.5 | 56% | 69% | 63% | 1.36 | -15% |
 | Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -13% |
-| 1X2 descanso: 1 | 45% | 45% | 45% | 2.05 | -8% |
+| 1X2 descanso: X | 33% | 36% | 34% | 2.60 | -10% |
+| 1X2 descanso: 1 | 45% | 45% | 45% | 2.05 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

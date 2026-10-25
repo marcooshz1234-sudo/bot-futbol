@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **1.62**  ·  X **3.90**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -14,7 +14,7 @@ _Actualizadas: 25/10 02:47_
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.50** · menos **1.20**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**

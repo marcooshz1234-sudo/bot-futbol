@@ -1,10 +1,10 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **2.80**  ·  X **3.00**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
@@ -28,7 +28,7 @@ _Actualizadas: 25/10 02:47_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 8,5: más **1.95** · menos **1.85**
+    - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.75**  ·  X **1.91**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.36** · menos **3.00**
@@ -45,7 +45,7 @@ _Actualizadas: 25/10 02:47_
     - 4,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **1.75**
 - **Away Player Shots On Target Total:** Zaid Romero **21.00**  ·  Ivan Azon **12.00**  ·  Francho Serrano **21.00**  ·  Andres Garcia **41.00**  ·  Giorgi Kochorashvili **26.00**  ·  Sebastian Boselli **29.00**  ·  Gabriel Suazo **34.00**  ·  Felix Correia **23.00**  ·  Joselu Perez **15.00**  ·  Mancha Davinchi **51.00**  ·  Miguel Sierra **21.00**  ·  Jean Valou **34.00**  ·  Martin Satriano **9.00**  ·  Arouna Sangante **21.00**  ·  Lucas Stassin **21.00**  ·  Robbie Ure **19.00**  ·  Enes Unal **15.00**  ·  Ruben Vargas **34.00**  ·  Moya Borja Mayoral **12.00**  ·  Lucien Agoume **34.00**  ·  Mario Martin **23.00**  ·  Alfonso Gonzalez **41.00**  ·  Kiko Femenia **67.00**  ·  Nico Guillen **51.00**  ·  Chidera Ejuke **41.00**  ·  Nemanja Gudelj **26.00**  ·  Juan Iglesias **81.00**  ·  Johan Mojica **101.00**  ·  Orel Mangala **101.00**  ·  Youssouf Fofana **67.00**  ·  Isaac Romero **15.00**  ·  Kike Salas **13.00**  ·  Jon Guridi **41.00**  ·  Manu Bueno **51.00**  ·  Gerard Peque Fernandez **29.00**  ·  Jose Carmona **19.00**  ·  Abdelkabir Abqar **17.00**  ·  Saba Sazonov **21.00**  ·  Ramon Terrats **67.00**  ·  Alberto Risco **51.00**  ·  Dakonam Djene **19.00**  ·  Andres Castrin **41.00**
 - **Anytime Goal Scorer:** Zaid Romero **13.00**  ·  Ivan Azon **4.00**  ·  Francho Serrano **6.00**  ·  Andres Garcia **9.00**  ·  Giorgi Kochorashvili **7.00**  ·  Sebastian Boselli **15.00**  ·  Gabriel Suazo **8.00**  ·  Felix Correia **5.00**  ·  Joselu Perez **3.75**  ·  Mancha Davinchi **12.00**  ·  Miguel Sierra **4.33**  ·  Jean Valou **15.00**  ·  Martin Satriano **3.75**  ·  Arouna Sangante **13.00**  ·  Lucas Stassin **3.50**  ·  Robbie Ure **3.00**  ·  Enes Unal **4.00**  ·  Ruben Vargas **5.50**  ·  Moya Borja Mayoral **3.00**  ·  Lucien Agoume **9.00**  ·  Mario Martin **5.00**  ·  Alfonso Gonzalez **4.75**  ·  Kiko Femenia **15.00**  ·  Nico Guillen **7.00**  ·  Chidera Ejuke **4.33**  ·  Nemanja Gudelj **9.50**  ·  Juan Iglesias **11.00**  ·  Johan Mojica **11.00**  ·  Orel Mangala **11.00**  ·  Youssouf Fofana **11.00**  ·  Isaac Romero **3.25**  ·  Kike Salas **11.00**  ·  Jon Guridi **5.00**  ·  Manu Bueno **7.00**  ·  Gerard Peque Fernandez **4.33**  ·  Jose Carmona **12.00**  ·  Abdelkabir Abqar **15.00**  ·  Saba Sazonov **15.00**  ·  Ramon Terrats **7.00**  ·  Alberto Risco **6.00**  ·  Dakonam Djene **15.00**  ·  Andres Castrin **9.50**
 - **Player to Score or Assist:** Zaid Romero **8.00**  ·  Ivan Azon **3.10**  ·  Francho Serrano **3.75**  ·  Andres Garcia **5.50**  ·  Giorgi Kochorashvili **4.75**  ·  Sebastian Boselli **9.50**  ·  Gabriel Suazo **4.33**  ·  Felix Correia **3.00**  ·  Joselu Perez **2.75**  ·  Mancha Davinchi **5.50**  ·  Miguel Sierra **2.88**  ·  Jean Valou **10.00**  ·  Martin Satriano **2.88**  ·  Arouna Sangante **8.50**  ·  Lucas Stassin **2.50**  ·  Robbie Ure **2.50**  ·  Enes Unal **3.00**  ·  Ruben Vargas **3.10**  ·  Moya Borja Mayoral **2.40**  ·  Lucien Agoume **5.50**  ·  Mario Martin **4.33**  ·  Alfonso Gonzalez **3.10**  ·  Kiko Femenia **7.50**  ·  Nico Guillen **4.50**  ·  Chidera Ejuke **3.10**  ·  Nemanja Gudelj **6.50**  ·  Juan Iglesias **6.50**  ·  Johan Mojica **4.75**  ·  Orel Mangala **6.50**  ·  Youssouf Fofana **5.50**  ·  Isaac Romero **2.40**  ·  Kike Salas **6.00**  ·  Jon Guridi **3.25**  ·  Manu Bueno **4.50**  ·  Gerard Peque Fernandez **3.40**  ·  Jose Carmona **6.50**  ·  Abdelkabir Abqar **8.00**  ·  Saba Sazonov **11.00**  ·  Ramon Terrats **4.00**  ·  Alberto Risco **4.33**  ·  Dakonam Djene **11.00**  ·  Andres Castrin **7.00**
@@ -211,8 +211,8 @@ _Goles esperados: local 1,01 · visitante 1,06 · córners esperados 8,6._
 | Goles del visitante: Más de 1.5 | 29% | 29% | 29% | 3.25 | -6% |
 | Goles del visitante: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles del visitante: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -5% |
-| Córners más/menos: Más de 8.5 | 46% | 49% | 47% | 1.95 | -8% |
-| Córners más/menos: Menos de 8.5 | 54% | 51% | 53% | 1.85 | -2% |
+| Córners más/menos: Más de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Córners más/menos: Menos de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
 | 1X2 descanso: 2 | 26% | 27% | 26% | 3.50 | -9% |
 | 1X2 descanso: X | 50% | 49% | 49% | 1.91 | -6% |
 | 1X2 descanso: 1 | 24% | 25% | 25% | 3.75 | -8% |

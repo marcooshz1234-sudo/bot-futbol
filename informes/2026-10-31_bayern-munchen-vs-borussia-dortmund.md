@@ -1,21 +1,21 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **1.33**  ·  X **5.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.05** · menos **11.00**
-    - 2,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.22** · menos **4.33**
     - 3,5: más **1.53** · menos **2.50**
     - 4,5: más **2.20** · menos **1.67**
     - 5,5: más **3.50** · menos **1.30**
-    - 6,5: más **5.50** · menos **1.14**
+    - 6,5: más **6.00** · menos **1.12**
     - 7,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.12** · menos **6.00**
@@ -206,11 +206,11 @@ _Goles esperados: local 2,18 · visitante 0,84 · córners esperados 10,3._
 | Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -5% |
 | Ambos marcan: No | 49% | 34% | 42% | 2.75 | +14% |
 | Ambos marcan: Sí | 51% | 66% | 58% | 1.40 | -18% |
-| Goles más/menos: Más de 2.5 | 58% | 79% | 69% | 1.20 | -18% |
+| Goles más/menos: Más de 2.5 | 58% | 78% | 68% | 1.22 | -17% |
 | Goles más/menos: Más de 3.5 | 36% | 62% | 49% | 1.53 | -25% |
 | Goles más/menos: Más de 4.5 | 19% | 43% | 31% | 2.20 | -32% |
 | Goles más/menos: Más de 5.5 | 9% | 27% | 18% | 3.50 | -38% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 21% | 31% | 4.50 | +42% |
+| Goles más/menos: Menos de 2.5 ✅ | 42% | 22% | 32% | 4.33 | +38% |
 | Goles más/menos: Menos de 3.5 | 64% | 38% | 51% | 2.50 | +28% |
 | Goles más/menos: Menos de 4.5 | 81% | 57% | 69% | 1.67 | +15% |
 | Goles más/menos: Menos de 5.5 | 91% | 73% | 82% | 1.30 | +7% |

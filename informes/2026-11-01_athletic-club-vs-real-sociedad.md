@@ -1,21 +1,21 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **2.00**  ·  X **3.60**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.40**
+    - 3,5: más **3.20** · menos **1.36**
     - 4,5: más **5.50** · menos **1.14**
-    - 5,5: más **11.00** · menos **1.05**
+    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
@@ -200,10 +200,10 @@ _Goles esperados: local 1,80 · visitante 1,26 · córners esperados 10,8._
 | Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
 | Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
 | Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
-| Goles más/menos: Más de 3.5 | 36% | 32% | 34% | 3.00 | +2% |
+| Goles más/menos: Más de 3.5 ✅ | 36% | 30% | 33% | 3.20 | +6% |
 | Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -14% |
 | Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
-| Goles más/menos: Menos de 3.5 | 64% | 68% | 66% | 1.40 | -8% |
+| Goles más/menos: Menos de 3.5 | 64% | 70% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |

@@ -1,10 +1,10 @@
 # Bayer Leverkusen – VfB Stuttgart
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **2.00**

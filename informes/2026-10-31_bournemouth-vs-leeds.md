@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **2.20**  ·  X **3.40**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.67**

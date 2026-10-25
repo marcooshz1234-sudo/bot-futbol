@@ -1,10 +1,10 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **2.25**  ·  X **3.20**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.62**
@@ -28,7 +28,7 @@ _Actualizadas: 25/10 02:47_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -214,8 +214,8 @@ _Goles esperados: local 1,28 · visitante 0,95 · córners esperados 9,5._
 | Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
 | Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +5% |
 | Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
+| Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -7% |
+| Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -4% |
 | 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -16% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -4% |
 | 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -8% |

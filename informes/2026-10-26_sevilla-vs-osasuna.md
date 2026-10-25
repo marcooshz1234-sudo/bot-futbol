@@ -1,10 +1,10 @@
 # Sevilla – Osasuna
 **LaLiga** · Regular Season - 10 · 26/10/2026 21:00 (hora España) · Estadio Ramón Sánchez-Pizjuán
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **1.90**  ·  X **3.30**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.33**  ·  X2 **1.91**
@@ -46,7 +46,7 @@ _Actualizadas: 25/10 02:47_
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.40**  ·  Menos de 4 **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **1.75**
 - **Total ShotOnGoal:**
     - 7,5: más **1.67** · menos **2.10**
     - 8,5: más **2.10** · menos **1.67**
@@ -119,7 +119,7 @@ _Actualizadas: 25/10 02:47_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Sevilla:** J. Guridi (baja, Muscle Injury); Marcao (baja, Muscle Injury); I. Munoz (baja, Injury); M. Sierra (baja, Shoulder Injury); L. Stassin (duda, Injury); J. Guridi (baja, Muscle Injury); Marcao (baja, Muscle Injury); I. Munoz (baja, Injury); M. Sierra (baja, Shoulder Injury); L. Stassin (duda, Injury)
+**Sevilla:** Marcao (baja, Muscle Injury); M. Sierra (baja, Shoulder Injury); Marcao (baja, Muscle Injury); M. Sierra (baja, Shoulder Injury)
 **Osasuna:** A. Bonel (baja, Groin Injury); R. Del Castillo (baja, Muscle Injury); J. Herrando (baja, Muscle Injury); A. Oroz (baja, Hamstring Injury); A. Bonel (baja, Groin Injury); R. Del Castillo (baja, Muscle Injury); J. Herrando (baja, Muscle Injury); A. Oroz (baja, Hamstring Injury)
 
 ## Enfrentamientos directos recientes

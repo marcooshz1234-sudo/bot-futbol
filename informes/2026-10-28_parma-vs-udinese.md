@@ -1,10 +1,10 @@
 # Parma – Udinese
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:44_
 
 - **1X2:** 1 **3.00**  ·  X **3.20**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**

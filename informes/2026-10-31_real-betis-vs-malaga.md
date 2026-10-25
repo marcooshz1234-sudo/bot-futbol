@@ -1,17 +1,17 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 13:45._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 02:47_
+_Actualizadas: 25/10 13:45_
 
 - **1X2:** 1 **1.38**  ·  X **4.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.50** · menos **2.62**
+    - 2,5: más **1.53** · menos **2.50**
     - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
@@ -32,6 +32,7 @@ _Actualizadas: 25/10 02:47_
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.90** · menos **1.90**
 - **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -199,10 +200,10 @@ _Goles esperados: local 2,34 · visitante 0,81 · córners esperados 10,1._
 | Doble oportunidad: 1X | 89% | 87% | 88% | 1.10 | -3% |
 | Ambos marcan: No | 50% | 45% | 48% | 2.05 | -3% |
 | Ambos marcan: Sí | 50% | 55% | 52% | 1.70 | -11% |
-| Goles más/menos: Más de 2.5 | 61% | 64% | 62% | 1.50 | -7% |
+| Goles más/menos: Más de 2.5 | 61% | 62% | 62% | 1.53 | -6% |
 | Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -8% |
 | Goles más/menos: Más de 4.5 | 21% | 24% | 22% | 4.00 | -10% |
-| Goles más/menos: Menos de 2.5 | 39% | 36% | 38% | 2.62 | -1% |
+| Goles más/menos: Menos de 2.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
 | Goles más/menos: Menos de 4.5 | 79% | 76% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |

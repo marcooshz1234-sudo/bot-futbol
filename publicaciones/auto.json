@@ -26,27 +26,41 @@
   {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Monza marca · 1,40\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 7/8 · Udinese 7/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gana el Inter · 1,33\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550172|Home Player Shots|Samuele Birindelli - 1",
+      "1550173|Goals Over/Under - Second Half|Over 0.5",
+      "1550171|Goals Over/Under|Over 1.5",
+      "1550176|Match Winner|Away"
+    ]
+  },
+  {
+    "id": "2026-10-28-combi-cuota_3",
+    "fecha": "2026-10-28T11:00",
+    "texto": "💥 COMBINADA CUOTA 3 DEL MIÉRCOLES 💥\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Monza marca · 1,44\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gana el Inter · 1,33\n\n🎯 Cuota total: 3,43\n💶 10€ → 34,30€\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 7/8 · Udinese 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550173|Goals Over/Under - Second Half|Over 0.5",
       "1550172|Total - Home|Over 0.5",
-      "1550171|Goals Over/Under|Over 1.5",
+      "1550171|To Win Either Half|Away",
       "1550176|Match Winner|Away"
     ]
   },
   {
     "id": "2026-10-28-combi-segura",
     "fecha": "2026-10-28T12:00",
-    "texto": "📊 COMBI DE DATOS DEL MIÉRCOLES 📊\n\n✅1. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅2. Gana el Inter · 1,33\n\n🎯 Cuota total: 1,70\n💶 10€ → 17,00€\n\n📊 Gol en la 2ª parte del Parma–Udinese → Parma 7/8 · Udinese 7/7 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "📊 COMBI DE DATOS DEL MIÉRCOLES 📊\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gol en la 2ª parte del Genoa–Juventus · 1,25\n\n🎯 Cuota total: 1,75\n💶 10€ → 17,50€\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550173|Goals Over/Under - Second Half|Over 0.5",
-      "1550176|Match Winner|Away"
+      "1550172|Home Player Shots|Samuele Birindelli - 1",
+      "1550171|Goals Over/Under - Second Half|Over 0.5"
     ]
   },
   {
