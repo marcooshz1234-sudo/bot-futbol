@@ -1,6 +1,8 @@
 {
   "pausa": false,
-  "cancelados": [],
+  "cancelados": [
+    "2026-10-25-threads-clasico-datos"
+  ],
   "textos": {},
   "avisados": [
     "2026-10-22-balance",
