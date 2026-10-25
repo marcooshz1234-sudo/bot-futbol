@@ -1,7 +1,7 @@
 # Paris Saint Germain – Lyon
 **Ligue 1** · Regular Season - 8 · 26/10/2026 20:30 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:47_

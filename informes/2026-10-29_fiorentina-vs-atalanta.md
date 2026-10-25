@@ -1,7 +1,7 @@
 # Fiorentina – Atalanta
 **Serie A** · Regular Season - 9 · 29/10/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:47_

@@ -1,7 +1,7 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:47_

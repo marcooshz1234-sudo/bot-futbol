@@ -1,7 +1,7 @@
 # Real Sociedad – Levante
 **LaLiga** · Regular Season - 10 · 25/10/2026 18:30 (hora España) · Anoeta Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:47_

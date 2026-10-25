@@ -1,7 +1,7 @@
 # Atalanta – Frosinone
 **Serie A** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:46_

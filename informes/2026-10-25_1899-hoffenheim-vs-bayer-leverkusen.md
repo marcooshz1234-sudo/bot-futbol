@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – Bayer Leverkusen
 **Bundesliga** · Regular Season - 7 · 25/10/2026 15:30 (hora España) · Prezero Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 02:46_
