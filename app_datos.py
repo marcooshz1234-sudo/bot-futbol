@@ -151,6 +151,31 @@ def extra_partido(f, hist):
             "prediccion": prox.get("prediccion"), "bajas": bajas}
 
 
+def goleadores_que_juegan(partidos, hoy, manana):
+    """Los 10 mejores goleadores de cada gran liga que juegan hoy o mañana, con su media y la cuota
+    de bet365 de 'marca en cualquier momento' si la hay. Para picks de goleador."""
+    from bot import EXTRA
+    from picks import mismo_jugador
+    g = (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {})
+    salida = []
+    for p in partidos:
+        if p["fecha"][:10] not in (hoy, manana) or p.get("estado") not in ("NS", "TBD"):
+            continue
+        cuotas = ((leer(EXTRA / f"{p['id']}.json") or {}).get("cuotas") or {})
+        anytime = cuotas.get("Anytime Goal Scorer") or []
+        for liga in g.values():
+            for i, r in enumerate((liga.get("goles") or [])[:10]):
+                if r.get("equipo") not in (p["local"], p["visitante"]) or not r.get("partidos"):
+                    continue
+                c = next((float(v) for n, v in anytime if mismo_jugador(n, r["jugador"])), None)
+                media = (r.get("goles") or 0) / r["partidos"]
+                salida.append({"jugador": r["jugador"], "equipo": r["equipo"], "puesto": i + 1, "goles": r.get("goles"),
+                               "partidos": r["partidos"], "media": round(media, 2), "cuota": c,
+                               "valor": round(media * c - 1, 2) if c else None,
+                               "partido": f"{p['local']} – {p['visitante']}", "fecha": p["fecha"]})
+    return sorted(salida, key=lambda x: (-(x["valor"] or -9), -x["media"]))[:15]
+
+
 def tramos_gol(eq, partidos):
     """Goles a favor y en contra por tramos de 15 minutos (90+ cuenta en 76-90)."""
     tram = {"favor": [0] * 6, "contra": [0] * 6}
@@ -513,7 +538,8 @@ def main():
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
-             "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}), "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}),
+             "goleadores_hoy": goleadores_que_juegan(partidos, hoy, manana), "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
