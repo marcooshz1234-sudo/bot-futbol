@@ -252,7 +252,11 @@ def calidad(p):
     """Nota de un pick para ordenarlo: lo fiable que es (frecuencia y ventaja sobre la cuota) más
     las señales del mercado: bet365 paga más que el resto de casas (+) y la cuota que baja porque
     entra dinero (+) o sube (−). Así las combis y listas cogen primero las mejores apuestas."""
-    nota = p["frecuencia"] + 0.5 * p.get("ventaja", 0)
+    if p.get("prob_aprendida") is not None and p.get("cuota"):
+        # lo aprendido de los resultados reales (aprender.py) manda sobre la frecuencia histórica
+        nota = p["prob_aprendida"] + 0.5 * (p["prob_aprendida"] - 1 / p["cuota"])
+    else:
+        nota = p["frecuencia"] + 0.5 * p.get("ventaja", 0)
     vm = p.get("valor_mercado")
     if vm is not None:
         nota += max(min(vm, 0.10), -0.10) * 0.8
@@ -834,6 +838,27 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
     return salida
 
 
+def aplicar_aprendizaje(picks, ap=None):
+    """Pone a cada pick su probabilidad aprendida de los resultados reales y quita los que, con
+    suficientes partidos jugados de su tipo, ya no superan a la cuota (lo que falla una y otra vez
+    deja de salir). Sin aprendizaje todavía, no cambia nada."""
+    import aprender
+    ap = ap if ap is not None else (leer(DATOS / "aprendizaje.json") or {})
+    if not ap:
+        return picks
+    salida = []
+    for p in picks:
+        pr = aprender.prob_aprendida(p, ap)
+        if pr is None:
+            salida.append(p)
+            continue
+        p["prob_aprendida"] = round(pr, 3)
+        if pr < 1 / p["cuota"] and aprender.evidencia(p, ap) >= aprender.MIN_EVIDENCIA:
+            continue
+        salida.append(p)
+    return salida
+
+
 def combinar(picks, minimo, maximo, max_patas, min_patas=2, max_por_tipo=1):
     """Elige picks (uno por partido, sin repetir tipo de mercado) empezando por los más
     fiables hasta caer en el rango de cuota."""
@@ -860,15 +885,21 @@ def combis_del_dia(picks):
     """Tres combis sin repetir selección entre ellas (si no da, la loca puede reutilizar).
     La segura nunca lleva más de 2 patas."""
     reglas = [("segura", 1.45, 1.75, 2, 2, 1), ("cuota_3", 2.9, 3.6, 5, 3, 1), ("loca", 8.0, 20.0, 9, 5, 2)]
-    usados, res = set(), {}
+    usados, partidos, res = set(), set(), {}
     for nombre, mn, mx, patas, min_p, por_tipo in reglas:
         libres = [p for p in picks if (p["partido_id"], p["mercado"], p["opcion"]) not in usados]
-        c = (combinar(libres, mn, mx, patas, min_p, por_tipo)
+        # lección del 25/10: los picks de un mismo partido caen juntos (Auxerre, Sunderland…), así que
+        # cada combi intenta primero con partidos que no estén ya en otra combi
+        otros = [p for p in libres if p["partido_id"] not in partidos]
+        c = (combinar(otros, mn, mx, patas, min_p, por_tipo)
+             or combinar(otros, mn, mx, patas, min_p, por_tipo + 1)
+             or combinar(libres, mn, mx, patas, min_p, por_tipo)
              or combinar(libres, mn, mx, patas, min_p, por_tipo + 1)      # si no hay variedad suficiente
              or None)   # nunca se reutiliza una selección de otra combi
         res[nombre] = c
         if c:
             usados.update((p["partido_id"], p["mercado"], p["opcion"]) for p in c["picks"])
+            partidos.update(p["partido_id"] for p in c["picks"])
     return res
 
 
@@ -1092,11 +1123,11 @@ def main():
         prox = leer(f)
         if not (prox and prox.get("partido")):
             continue
-        todos.extend(enriquecer(picks_partido(prox, hist, ahora), prox, hist, arbitros))
-        for c in candidatos_doble(prox, hist, arbitros):
+        todos.extend(aplicar_aprendizaje(enriquecer(picks_partido(prox, hist, ahora), prox, hist, arbitros)))
+        for c in aplicar_aprendizaje(candidatos_doble(prox, hist, arbitros)):
             dobles.setdefault(c["fecha"][:10], []).append(c)
-        flojos = enriquecer(picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
-                                          frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05), prox, hist, arbitros)
+        flojos = aplicar_aprendizaje(enriquecer(picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
+                                          frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05), prox, hist, arbitros))
         if flojos:
             por_partido[prox["partido"]["fixture"]["id"]] = flojos
 

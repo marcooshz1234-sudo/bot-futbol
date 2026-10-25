@@ -1,0 +1,38 @@
+import unittest
+
+import aprender
+from picks import aplicar_aprendizaje
+
+
+def pick(i, ok, tipo="goles", cuota=1.3, frec=0.85, partido=None):
+    return {"partido_id": partido or i, "fecha": "2026-10-25T15:00", "competicion": "Ligue 1", "tipo": tipo,
+            "mercado": "Goals Over/Under", "opcion": "Over 1.5", "cuota": cuota, "frecuencia": frec, "acierto": ok,
+            "local": "A", "visitante": "B", "texto": "x"}
+
+
+class TestAprender(unittest.TestCase):
+    def test_sin_datos_no_cambia(self):
+        p = [pick(1, None)]
+        self.assertEqual(aplicar_aprendizaje(p, {}), p)
+
+    def test_lo_que_falla_mucho_deja_de_salir(self):
+        reg = [pick(i, i % 3 == 0) for i in range(120)]          # acierta 33 % con cuota 1,30 (77 %)
+        ap = aprender.calibrar(reg)
+        self.assertLess(ap["tipos"]["goles"]["ajuste"], 0)
+        self.assertEqual(aplicar_aprendizaje([pick(999, None)], ap), [])
+
+    def test_lo_que_acierta_sube(self):
+        reg = [pick(i, True) for i in range(60)]
+        ap = aprender.calibrar(reg)
+        p = aplicar_aprendizaje([pick(999, None)], ap)
+        self.assertEqual(len(p), 1)
+        self.assertGreater(p[0]["prob_aprendida"], 1 / 1.3)
+
+    def test_mismo_partido_cuenta_como_uno(self):
+        reg = [pick(i, False, partido=7) for i in range(10)]
+        ap = aprender.calibrar(reg)
+        self.assertAlmostEqual(ap["tipos"]["goles"]["partidos"], 1.0, places=1)
+
+
+if __name__ == "__main__":
+    unittest.main()
