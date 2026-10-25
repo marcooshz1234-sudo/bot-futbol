@@ -342,5 +342,32 @@
       "threads": "caducado: no salió a tiempo",
       "facebook": "caducado: no salió a tiempo"
     }
+  },
+  {
+    "id": "2026-10-25-escalera-datos",
+    "fecha": "2026-10-25T14:10",
+    "formato": "post",
+    "texto": "📋 LA ESCALERA, CON DATOS\n\nUdinese–Milan: 2+ goles en 6/7 del Udinese y 10/10 del Milan.\nAuxerre–Le Mans: 3+ goles en 6/7 de cada equipo.\n\nSon las dos selecciones del escalón de hoy. La muestra es pequeña y cada partido tiene rivales distintos: estos registros no son la probabilidad de acertar la combinada.\n\nPrimero se resuelve el escalón de hoy; el siguiente se revisa después.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
+    "id": "2026-10-25-guia-selecciones",
+    "fecha": "2026-10-25T17:05",
+    "formato": "post",
+    "texto": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
+  },
+  {
+    "id": "2026-10-25-clasico-datos",
+    "fecha": "2026-10-25T20:15",
+    "formato": "post",
+    "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.",
+    "foto": null,
+    "directo": false,
+    "origen": "editorial"
   }
 ]
