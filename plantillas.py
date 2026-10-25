@@ -65,11 +65,21 @@ def atractivo(p):
 
 
 def mejores_para_lista(picks):
+    """Un pick por partido y variedad: se van cogiendo por turnos de cada tipo (goles, tiros,
+    jugador, tarjetas, córners...) para que la lista no sea casi todo goles."""
+    candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])]
+    por_tipo = {}
+    for p in candidatos:
+        por_tipo.setdefault(p.get("tipo") or "otros", []).append(p)
     elegidos, vistos = [], set()
-    for p in sorted(picks, key=atractivo, reverse=True):
-        if not es_sin_empate(p["mercado"], p["opcion"]) and p["partido_id"] not in vistos:
-            elegidos.append(p)
-            vistos.add(p["partido_id"])
+    while any(por_tipo.values()):
+        for tipo in sorted(por_tipo, key=lambda t: -atractivo(por_tipo[t][0]) if por_tipo[t] else 0):
+            while por_tipo[tipo]:
+                p = por_tipo[tipo].pop(0)
+                if p["partido_id"] not in vistos:
+                    elegidos.append(p)
+                    vistos.add(p["partido_id"])
+                    break
     return elegidos
 
 

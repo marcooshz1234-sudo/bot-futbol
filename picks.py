@@ -50,8 +50,10 @@ JUG_CUOTA_MAX = 2.00
 # Prueba con 186 partidos jugados (informes/prueba_mercados.md): los picks de jugador fallan más
 # que los de equipo. Con ≥ 90 % aguantan los tiros (2+) y las paradas; tiros a puerta (1+) y
 # faltas de jugador se quedan en ~70 % y fuera. Faltas de equipo: se pide más (85 %).
-JUG_FREC_MIN = 0.90
-JUG_CAMPOS = {"tiros"}   # paradas fuera: los porteros se miran a mano en bet365
+JUG_FREC_MIN = 0.80
+# Más variedad (petición 25/10): tiros, tiros a puerta y faltas de jugador. Paradas fuera (a mano en bet365).
+JUG_CAMPOS = {"tiros", "a_puerta", "faltas_c"}
+JUG_FREC_CAMPO = {"tiros": 0.85, "a_puerta": 0.80, "faltas_c": 0.80}
 FREC_TIPO = {"faltas": 0.85}
 # Además de los últimos partidos, el local en casa y el visitante fuera (lecciones 9 y 10):
 # con 3+ partidos en ese campo, cada uno tiene que cumplirlo al menos en este %.
@@ -599,7 +601,7 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
                     break
                 si = sum(1 for r in regs if (r.get(campo) or 0) >= n)
                 frec = si / len(regs)
-                if frec < frec_min or not (0 < frec - 1 / cuota <= VENTAJA_MAX):
+                if frec < max(frec_min, JUG_FREC_CAMPO.get(campo, 0)) or not (0 < frec - 1 / cuota <= VENTAJA_MAX):
                     break
                 equipo = loc["name"] if ld == "home" else vis["name"]
                 salida.append(dict(base, mercado=mercado, opcion=valor, cuota=cuota, frecuencia=round(frec, 3),
