@@ -90,6 +90,10 @@ def compartir(tok, est, ahora):
         p["m"] = vistas(tok, p["id"])
     mejor = max(posts, key=lambda p: p["m"].get("views", 0))
     est["compartir"] = hoy
+    vistas_f = DATOS / "threads_vistas.json"   # para que el bot sepa qué estilos se ven más (aprender.py)
+    vis = leer(vistas_f, {}) or {}
+    vis.update({p["id"]: p["m"].get("views", 0) for p in posts if p["m"]})
+    vistas_f.write_text(json.dumps(dict(list(vis.items())[-1500:]), indent=0), encoding="utf-8")
     dm(f"📣 Tu mejor post de hoy en Threads ({mejor['m'].get('views', 0)} vistas):\n"
        f"«{(mejor.get('text') or '').splitlines()[0][:60]}»\n\n"
        f"Compártelo ahora en las comunidades Fútbol y Soccer Threads (botón de compartir → comunidad):\n"

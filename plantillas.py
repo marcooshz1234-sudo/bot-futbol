@@ -40,6 +40,8 @@ def clave(p):
     return (p["partido_id"], p["mercado"], p["opcion"])
 
 
+OPCIONALES = ("combi-cuota_3", "combi-liga", "combi-atreve", "picks-hoy")
+MAX_OPCIONALES = 2
 MAX_POSTS_POR_SELECCION = 2   # una misma selección no sale en más de 2 posts
 MIN_LISTA = 3   # mínimo de picks para una lista (3 para que los días con pocos partidos tengan contenido)
 
@@ -203,6 +205,34 @@ def posts_del_dia(dia, d):
                       f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
                       "El siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable"))
 
+    # ---- estilos (26/10): tema del día, liga, la que nadie se atreve, de 1 € a 500 €
+    est = d.get("estilos") or {}
+    c = est.get("tema")
+    if c:
+        apuntar(c["picks"])
+        posts.append(("combi-tema", f.replace(hour=13, minute=0), c["picks"],
+                      f"{c['titulo']} · x{num(c['cuota'])}\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
+                      f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n{cierre(dia, 'tema')}"))
+    c = est.get("liga")
+    if c:
+        apuntar(c["picks"])
+        posts.append(("combi-liga", f.replace(hour=15, minute=0), c["picks"],
+                      f"{c['titulo']} x{num(c['cuota'])} · {nombre}\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
+                      f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n{cierre(dia, 'liga')}"))
+    c = est.get("atreve")
+    if c:
+        apuntar(c["picks"])
+        posts.append(("combi-atreve", f.replace(hour=16, minute=0), c["picks"],
+                      f"🔥 LA QUE NADIE SE ATREVE x{num(c['cuota'])} 🔥\n\nPocas patas, todas con cuota alta.\n\n"
+                      f"{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n💶 10€ → {num(c['cuota'] * 10)}€\n\n"
+                      f"{dato(c['picks'])}\n\n👇 ¿Te atreves o la dejas pasar?"))
+    c = est.get("500")
+    if c:
+        posts.append(("combi-500", f.replace(hour=13, minute=30), c["picks"],
+                      f"🧮 DE 1€ A 500€ · x{num(c['cuota'])} 🧮\n\nLa del sábado para soñar: {len(c['picks'])} patas, "
+                      f"todas con datos.\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
+                      f"💶 1€ → {num(c['cuota'])}€\n\nCasi nunca sale, así que solo 1€ 😅\n👇 ¿Cuál crees que cae primero?"))
+
     def libres(lista_picks):
         return [p for p in lista_picks if usos.get(clave(p), 0) < MAX_POSTS_POR_SELECCION]
 
@@ -220,6 +250,16 @@ def posts_del_dia(dia, d):
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥 {len(sel)} PICKS PARA HOY 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
                       f"¡Combina máximo 2 o 3! 🍀\n{cierre(dia, 'hoy', True)}"))
+
+    # 26/10: el bot elige con datos cuáles de los estilos opcionales salen cada día (los 2 que mejor van
+    # en vistas de Threads y en verdes, ver aprender.py → datos/estilos.json); el resto sale siempre
+    opcionales = [t for t, *_ in posts if t in OPCIONALES]
+    if len(opcionales) > MAX_OPCIONALES:
+        nota = (leer(DATOS / "estilos.json") or {}).get("estilos", {})
+        # a igual nota (al principio no hay datos) se rota por día para probar todos los estilos
+        quedan = sorted(opcionales, key=lambda t: (-(nota.get(t) or {}).get("nota", 1.0),
+                                                   sum(map(ord, dia + t)) % 7))[:MAX_OPCIONALES]
+        posts = [x for x in posts if x[0] not in OPCIONALES or x[0] in quedan]
 
     # 26/10: si una combi lleva justo lo mismo que la lista "para mañana" (días con pocos picks), en redes
     # parece un post repetido: se queda solo la lista, que es el formato que más se ve

@@ -903,6 +903,87 @@ def combis_del_dia(picks):
     return res
 
 
+# ---------- estilos de combi (26/10) ----------
+# Tema fijo por día de la semana (0 = lunes). Si ese día no hay picks del tema, no hay combi de tema:
+# no se guarda para otro día. Las tarjetas no van como tema porque casi nunca pasan los filtros.
+TEMAS = {
+    0: ("goles", "⚽ LUNES DE GOLES", lambda p: p["tipo"] == "goles"),
+    1: ("corners", "🚩 MARTES DE CÓRNERS", lambda p: p["tipo"] == "corners"),
+    2: ("remates", "🎯 MIÉRCOLES DE REMATES", lambda p: p["tipo"] == "jugador" and p.get("campo") in ("tiros", "a_puerta")
+        or p["tipo"] in ("tiros", "tiros a puerta")),
+    3: ("casa", "🏠 JUEVES DE LOS DE CASA", lambda p: lado_pick(p) == "local"),
+    4: ("favoritos", "👑 VIERNES DE FAVORITOS", lambda p: p["tipo"] == "resultado" and p["mercado"] != "Double Chance"
+        or p["mercado"] == "Double Chance" and p["cuota"] >= 1.30),
+    5: ("fuera", "✈️ SÁBADO DE LOS DE FUERA", lambda p: lado_pick(p) == "visitante"),
+    6: ("seguros", "🛡️ DOMINGO DE SEGUROS", lambda p: p["cuota"] <= 1.40),
+}
+LIGA_BANDERA = {"LaLiga": "🇪🇸 COMBI LALIGA", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI PREMIER", "Serie A": "🇮🇹 COMBI SERIE A",
+                "Bundesliga": "🇩🇪 COMBI BUNDESLIGA", "Ligue 1": "🇫🇷 COMBI LIGUE 1",
+                "Champions League": "⭐ COMBI CHAMPIONS", "Europa League": "🟠 COMBI EUROPA LEAGUE",
+                "Conference League": "🟢 COMBI CONFERENCE"}
+
+
+def lado_pick(p):
+    """A qué equipo favorece el pick: 'local', 'visitante' o None (si es de los dos)."""
+    m, o = p.get("mercado", ""), str(p.get("opcion", ""))
+    if m in ("Total - Home", "Home Corners Over/Under", "Home Team Total Cards") or m.startswith("Home "):
+        return "local"
+    if m in ("Total - Away", "Away Corners Over/Under", "Away Team Total Cards") or m.startswith("Away "):
+        return "visitante"
+    if m in ("Match Winner", "To Win Either Half", "First Half Winner"):
+        return {"Home": "local", "Away": "visitante"}.get(o)
+    if m == "Double Chance":
+        return {"Home/Draw": "local", "Draw/Away": "visitante"}.get(o)
+    return None
+
+
+def combis_estilo(dia, buenos, amplios, usados):
+    """Combis de estilo del día: tema fijo, liga, «la que nadie se atreve» y, los sábados, «de 1 € a 500 €».
+    buenos: picks estrictos; amplios: los del 65 % ya filtrados por lo aprendido. No repite selecciones
+    de las combis principales (usados)."""
+    libre = lambda l: [p for p in l if (p["partido_id"], p["mercado"], p["opcion"]) not in usados]
+    todos = {(p["partido_id"], p["mercado"], p["opcion"]): p for p in amplios + buenos}   # los buenos mandan
+    con_valor = lambda p: p.get("prob_aprendida") is None or p["prob_aprendida"] >= 1 / p["cuota"] - 0.05
+    pool = sorted((p for p in libre(list(todos.values())) if con_valor(p)), key=lambda x: -calidad(x))
+    res = {}
+    dsem = datetime.fromisoformat(dia).weekday()
+    clave_t, titulo, filtro = TEMAS[dsem]
+    tema = [p for p in pool if filtro(p)]
+    c = combinar(tema, 2.0, 6.0, 4, 2, 9) or combinar(tema, 1.6, 6.0, 4, 2, 9)
+    if c:
+        res["tema"] = dict(c, titulo=titulo, tema=clave_t)
+        usados |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in c["picks"]}
+        pool = libre(pool)
+    # liga: la competición con más picks (Champions/Europa primero si tienen 3+)
+    por_liga = defaultdict(list)
+    for p in pool:
+        por_liga[p["competicion"]].append(p)
+    ligas = sorted(por_liga, key=lambda l: (l in ("Champions League", "Europa League"), len(por_liga[l])), reverse=True)
+    for liga in ligas:
+        if len(por_liga[liga]) >= 3 and liga in LIGA_BANDERA:
+            c = combinar(por_liga[liga], 3.0, 8.0, 4, 3, 2)
+            if c:
+                res["liga"] = dict(c, titulo=LIGA_BANDERA[liga], liga=liga)
+                usados |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in c["picks"]}
+                pool = libre(pool)
+                break
+    # la que nadie se atreve: pocas patas, todas de cuota alta
+    altas = [p for p in pool if p["cuota"] >= 1.70]
+    c = combinar(altas, 4.0, 12.0, 3, 2, 2)
+    if c:
+        res["atreve"] = c
+        usados |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in c["picks"]}
+        pool = libre(pool)
+    # sábados: de 1 € a 500 € (muchas patas; sale con los picks de todo el día, puede repetir con otras combis)
+    if dsem == 5:
+        # es la de 1 € para soñar: sin el filtro de lo aprendido (no habría 8 patas), con los mínimos del bot
+        grande = sorted(todos.values(), key=lambda x: -calidad(x))
+        c = combinar(grande, 400.0, 900.0, 18, 8, 6)
+        if c:
+            res["500"] = c
+    return res
+
+
 # Mercados que dicen casi lo mismo dentro de un partido: no se juntan en la combi del partido
 FAMILIA = {"Goals Over/Under": "goles_total", "Total Goals/Both Teams To Score": "goles_total",
            "Both Teams Score": "ambos", "Results/Both Teams Score": "resultado",
@@ -1118,7 +1199,7 @@ def main():
     ahora = datetime.now(timezone.utc)
     hist = historial()
     arbitros = indice_arbitros()
-    todos, por_partido, dobles = [], {}, {}
+    todos, por_partido, dobles, amplios = [], {}, {}, defaultdict(list)
     for f in sorted(EXTRA.glob("*.json")):
         prox = leer(f)
         if not (prox and prox.get("partido")):
@@ -1130,6 +1211,7 @@ def main():
                                           frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05), prox, hist, arbitros))
         if flojos:
             por_partido[prox["partido"]["fixture"]["id"]] = flojos
+            amplios[flojos[0]["fecha"][:10]].extend(flojos)
 
     por_dia = defaultdict(list)
     for p in todos:
@@ -1163,6 +1245,9 @@ def main():
             "picks": picks,
             "mejores_por_partido": mejores,
             "combis": dict(combis_dia.get(dia) or combis_del_dia(picks), doble=combi_doble(dobles.get(dia, []))),
+            "estilos": combis_estilo(dia, picks, amplios.get(dia, []), {
+                (p["partido_id"], p["mercado"], p["opcion"])
+                for c in (combis_dia.get(dia) or {}).values() if c for p in c["picks"]}),
             "combis_partido": sorted(partidos_dia[dia], key=lambda c: c["fecha"]),
         }
 

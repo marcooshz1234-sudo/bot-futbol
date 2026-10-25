@@ -249,7 +249,45 @@ def lecciones(reg, ap, previo, dia):
     return "\n".join(lineas)
 
 
+def notas_estilos():
+    """Nota de cada estilo de post del bot (1 = normal): mitad vistas en Threads frente a la mediana,
+    mitad verdes frente a la media. Con pocos datos se queda cerca de 1. Sale en datos/estilos.json."""
+    est_redes = leer(RAIZ / "publicaciones" / "enviados_redes.json", {}) or {}
+    vistas = leer(DATOS / "threads_vistas.json", {}) or {}
+    pub = {p["id"]: p for p in (leer(RAIZ / "docs" / "datos.json", {}) or {}).get("publicados", [])}
+    filas = defaultdict(lambda: {"v": [], "verde": [], })
+    for pid, e in est_redes.items():
+        estilo = pid[11:]
+        if not estilo:
+            continue
+        tid = (e.get("redes") or {}).get("threads")
+        if tid in vistas:
+            filas[estilo]["v"].append(vistas[tid])
+        r = (pub.get(pid) or {}).get("resultado")
+        if r in ("verde", "rojo"):
+            filas[estilo]["verde"].append(1.0 if r == "verde" else 0.0)
+    todas_v = sorted(v for f in filas.values() for v in f["v"])
+    med = todas_v[len(todas_v) // 2] if todas_v else 0
+    todas_r = [x for f in filas.values() for x in f["verde"]]
+    media_r = sum(todas_r) / len(todas_r) if todas_r else 0
+    k = 3
+    salida = {}
+    for estilo, f in filas.items():
+        nv = ((sum(min(v / med, 4) for v in f["v"]) + k) / (len(f["v"]) + k)) if med else 1.0
+        nr = ((sum(f["verde"]) / media_r + k) / (len(f["verde"]) + k)) if media_r else 1.0
+        salida[estilo] = {"nota": round(0.5 * nv + 0.5 * nr, 3), "posts_threads": len(f["v"]),
+                          "resultados": len(f["verde"]), "verdes": int(sum(f["verde"]))}
+    (DATOS / "estilos.json").write_text(json.dumps({"generado": datetime.now(MADRID).strftime("%Y-%m-%d %H:%M"),
+                                                    "estilos": salida}, ensure_ascii=False, indent=1) + "\n",
+                                        encoding="utf-8")
+    return salida
+
+
 def main():
+    try:
+        notas_estilos()
+    except Exception as e:
+        print("estilos:", str(e)[:150])
     reg = leer(REGISTRO, {}) or {}
     resueltos = [p for p in reg.values() if p.get("acierto") is not None]
     previo = leer(SALIDA, {}) or {}
