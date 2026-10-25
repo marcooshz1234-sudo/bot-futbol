@@ -31,6 +31,7 @@ jobs:
         run: |
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
+          git config merge.cola.driver "python fusionar_cola.py %O %A %B"
           (sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null 2>&1; pip install -q playwright >/dev/null 2>&1 && python -m playwright install --with-deps chromium >/dev/null 2>&1) || echo "Sin Chromium: no se regeneran imágenes"
           timeout 240 python -u comprobar_redes.py || true
           fin=$(( $(date +%s) + 55*60 ))
