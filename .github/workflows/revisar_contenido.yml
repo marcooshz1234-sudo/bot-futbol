@@ -37,8 +37,11 @@ jobs:
           import hashlib
           import imagenes
           from playwright.sync_api import sync_playwright
-          ids = set(json.load(open('publicaciones/revision_2526.json'))['ids'])
-          posts = json.load(open('publicaciones/cola.json'))
+          revision = json.load(open('publicaciones/revision_2526.json'))
+          ids = set(revision['ids'])
+          posts = []
+          for fuente in revision.get('fuentes', ['publicaciones/cola.json']):
+              posts.extend(json.load(open(fuente)))
           with sync_playwright() as pw:
               browser = pw.chromium.launch()
               page = browser.new_page()
@@ -46,6 +49,13 @@ jobs:
                   if p['id'] not in ids:
                       continue
                   imagenes.generar(p, page)
+                  if p.get('formato') == 'story':
+                      doc, _ = imagenes.documento(p, True)
+                      page.set_viewport_size({'width': 1080, 'height': 1920})
+                      page.goto('about:blank')
+                      page.set_content(doc)
+                      imagenes.ajustar_al_lienzo(page, 1920)
+                      page.screenshot(path=str(imagenes.MEDIA / (p['id'] + '.story.png')))
                   huella = hashlib.sha1((p['texto'] + str(p.get('foto'))).encode()).hexdigest()[:12]
                   (imagenes.MEDIA / (p['id'] + '.huella')).write_text(huella)
                   print('Preparado:', p['id'])
