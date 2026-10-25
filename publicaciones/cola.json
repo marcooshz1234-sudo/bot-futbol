@@ -488,7 +488,8 @@
     "mensaje_id": 106,
     "redes": {
       "threads": "18199464823381365",
-      "instagram": "18106045298363432"
+      "instagram": "18106045298363432",
+      "instagram_reel": "18133268434797190"
     },
     "errores_redes": {
       "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
@@ -507,7 +508,8 @@
     "mensaje_id": 107,
     "redes": {
       "threads": "18113343080146381",
-      "instagram": "18108469877610111"
+      "instagram": "18108469877610111",
+      "instagram_reel": "18246025927313345"
     },
     "errores_redes": {
       "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
