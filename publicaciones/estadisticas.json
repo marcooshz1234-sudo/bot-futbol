@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 21:42",
+ "actualizado": "2026-10-25 21:52",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -9,11 +9,11 @@
    ]
   },
   "threads": {
-   "seguidores": 927,
+   "seguidores": 928,
    "hoy": null,
    "serie": [
     836,
-    927
+    928
    ]
   },
   "facebook": {
@@ -34,7 +34,7 @@
    ]
   }
  },
- "total": 1017,
+ "total": 1018,
  "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
@@ -64,7 +64,7 @@
   },
   "2026-10-25": {
    "instagram": 19,
-   "threads": 927,
+   "threads": 928,
    "facebook": 0,
    "telegram": 71
   }
