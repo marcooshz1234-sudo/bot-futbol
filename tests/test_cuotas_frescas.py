@@ -20,7 +20,8 @@ class CuotasFrescas(unittest.TestCase):
             with mock.patch.object(cf, "AUTO", auto), mock.patch.object(cf, "CACHE", Path(d) / "c.json"), \
                  mock.patch.object(cf, "API", return_value=api), mock.patch.dict("os.environ", {"API_FOOTBALL_KEY": "k"}), \
                  mock.patch.object(cf, "leer", side_effect=lambda r, dflt=None: dflt), \
-                 mock.patch("playwright.sync_api.sync_playwright", side_effect=RuntimeError("sin navegador")):
+                 mock.patch.dict("sys.modules", {"playwright": mock.MagicMock(), "playwright.sync_api": mock.MagicMock(
+                     sync_playwright=mock.MagicMock(side_effect=RuntimeError("sin navegador")))}):
                 cf.main()
             t = json.loads(auto.read_text())[0]["texto"]
         self.assertIn("✅1. Más de 1,5 goles · 1,20", t)
