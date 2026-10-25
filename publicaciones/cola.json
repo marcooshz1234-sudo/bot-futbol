@@ -225,7 +225,9 @@
     "id": "2026-10-25-picks-hoy",
     "fecha": "2026-10-25T17:30",
     "texto": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.",
-    "foto": null
+    "foto": null,
+    "enviado": "2026-10-25T17:30",
+    "mensaje_id": 99
   },
   {
     "id": "2026-10-25-combi-psg-lyon",
@@ -435,7 +437,13 @@
     "solo_redes": true,
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "facebook": null,
+      "threads": "18126342019916141"
+    }
   },
   {
     "id": "2026-10-25-threads-clasico",
