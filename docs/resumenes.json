@@ -145,10 +145,10 @@
   },
   "2026-10-25": {
     "dia": "2026-10-25",
-    "total": 11,
+    "total": 8,
     "cuentas": {
-      "verde": 3,
-      "rojo": 8,
+      "verde": 2,
+      "rojo": 6,
       "pendiente": 0,
       "sin_datos": 0,
       "no_jugo": 0,
@@ -198,30 +198,12 @@
         "cuota": null
       },
       {
-        "id": "2026-10-25-threads-opciones",
-        "titulo": "📊 3 OPCIONES PARA HOY · DOMINGO",
-        "estado": "verde",
-        "cuota": null
-      },
-      {
         "id": "2026-10-25-threads-clasico",
         "titulo": "🇪🇸 BARÇA 🆚 MADRID",
         "estado": "rojo",
         "cuota": 11.0
-      },
-      {
-        "id": "2026-10-25-combi-barca-madrid",
-        "titulo": "🇪🇸 BARÇA 🆚 MADRID",
-        "estado": "rojo",
-        "cuota": 11.0
-      },
-      {
-        "id": "2026-10-25-combi-barca-madrid-v2",
-        "titulo": "🇪🇸 BARÇA 🆚 MADRID",
-        "estado": "rojo",
-        "cuota": null
       }
     ],
-    "texto": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n❌ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21\n❌ 📊 COMBI DE DATOS DEL DOMINGO · 1,64\n❌ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · 2,21\n✅ 🇩🇪 FREIBURG 🆚 BAYERN · 9,75\n✅ 📊 3 OPCIONES PARA HOY · DOMINGO\n✅ 📊 3 OPCIONES PARA HOY · DOMINGO\n❌ 🇪🇸 BARÇA 🆚 MADRID · 11,00\n❌ 🇪🇸 BARÇA 🆚 MADRID · 11,00\n❌ 🇪🇸 BARÇA 🆚 MADRID\n\n✅ 3 acertadas · ❌ 8 falladas · ⏳ 0 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 8 EN VERDE 📊\n\n❌ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21\n❌ 📊 COMBI DE DATOS DEL DOMINGO · 1,64\n❌ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · 2,21\n✅ 🇩🇪 FREIBURG 🆚 BAYERN · 9,75\n✅ 📊 3 OPCIONES PARA HOY · DOMINGO\n❌ 🇪🇸 BARÇA 🆚 MADRID · 11,00\n\n✅ 2 acertadas · ❌ 6 falladas · ⏳ 0 sin resolver"
   }
 }
