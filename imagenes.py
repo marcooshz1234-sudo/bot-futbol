@@ -151,6 +151,8 @@ def generar(p, pagina):
         ajustar_al_lienzo(pagina, 1920)
         portada = Path(tmp) / "f00.png"
         pagina.screenshot(path=str(portada))
+        # la misma portada vertical sirve de historia de Instagram (redes.py → instagram_story)
+        pagina.screenshot(path=str(MEDIA / f"{p['id']}.story.jpg"), type="jpeg", quality=90)
         lista.append(f"file '{portada}'\nduration 1.5")
         for k in range(1, total + 1):
             doc, _ = documento(p, True, mostrar=k, foto_b64=foto)
@@ -186,6 +188,7 @@ def main():
         huella = lambda p: hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
         cola = [p for p in cola if p["fecha"] > ahora and not (
             (MEDIA / f"{p['id']}.mp4").exists() and (MEDIA / f"{p['id']}.huella").exists()
+            and (MEDIA / f"{p['id']}.story.jpg").exists()
             and (MEDIA / f"{p['id']}.huella").read_text() == huella(p))]
     if not cola:
         print("Imágenes: nada que generar")

@@ -40,6 +40,7 @@ MAX_RETRASO = timedelta(minutes=45)
 REEL_TRAS = timedelta(minutes=10)
 INSTAGRAM_SOLO_REEL = True
 FACEBOOK_ACTIVO = False
+INSTAGRAM_HISTORIAS = ("verde", "picks-manana", "combi-partido", "combi-500")   # 26/10: estos también como historia
 MAX_THREADS_DIA = 10      # 26/10: con 30+ posts al día en Threads la media se hundía; los días buenos tenían 10-13
 PRIORITARIOS = ("verde", "balance", "picks-manana", "combi-loca", "combi-doble", "combi-partido")   # salen aunque se llegue al tope   # 26/10: pausado a petición del dueño; poner True para volver a publicar
 LIMITE_THREADS = 500
@@ -148,6 +149,15 @@ def instagram(p, token, reel=False):
     return llamar("POST", f"{INSTAGRAM}/me/media_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
 
+def instagram_story(p, token):
+    url = url_media(p, "story.jpg")
+    if not url:
+        raise RuntimeError("falta la imagen de la historia en publicaciones/media")
+    c = llamar("POST", f"{INSTAGRAM}/me/media", {"media_type": "STORIES", "image_url": url, "access_token": token})
+    esperar_contenedor(INSTAGRAM, c["id"], token, 10)
+    return llamar("POST", f"{INSTAGRAM}/me/media_publish", {"creation_id": c["id"], "access_token": token})["id"]
+
+
 def facebook(p, token_usuario, pagina, con_foto):
     pagina, token = pagina_facebook(token_usuario, pagina)
     if con_foto and url_media(p, "jpg"):
@@ -244,7 +254,7 @@ def main(objetivo=None):
         tareas = []
         solo = p.get("solo_en")   # p. ej. ["threads"]: este post solo va a esas redes
         if solo:
-            for red in ("threads", "instagram", "instagram_reel", "facebook"):
+            for red in ("threads", "instagram", "instagram_reel", "instagram_story", "facebook"):
                 if red not in solo and red not in hecho:
                     hecho[red] = None
         if claves["threads"] and "threads" not in hecho:
@@ -264,6 +274,9 @@ def main(objetivo=None):
         if (not INSTAGRAM_SOLO_REEL and claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
                 and ahora >= cuando + REEL_TRAS and hecho.get("instagram")):
             tareas.append(("instagram_reel", lambda: instagram(p, claves["instagram"], reel=True)))
+        if (claves["instagram"] and "instagram_story" not in hecho and not p.get("sin_instagram")
+                and any(k in p["id"] for k in INSTAGRAM_HISTORIAS) and url_media(p, "story.jpg")):
+            tareas.append(("instagram_story", lambda: instagram_story(p, claves["instagram"])))
         if FACEBOOK_ACTIVO and claves["facebook"] and "facebook" not in hecho:
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
             tareas.append(("facebook", lambda tipo=tipo: facebook(p, claves["facebook"], pagina, tipo == "foto")))
