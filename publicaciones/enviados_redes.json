@@ -12,11 +12,15 @@
   "facebook_tipo": "foto"
  },
  "2026-10-25-escalera": {
-  "redes": {},
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "facebook": null
+  },
   "errores_redes": {
-   "threads": "400: API access blocked.",
-   "instagram": "400: Invalid OAuth access token - Cannot parse access token",
-   "facebook": "400: API access blocked."
+   "threads": "caducado: no salió a tiempo",
+   "instagram": "caducado: no salió a tiempo",
+   "facebook": "caducado: no salió a tiempo"
   }
  }
 }
