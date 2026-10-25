@@ -441,7 +441,7 @@
       "instagram": null,
       "instagram_reel": null,
       "facebook": null,
-      "threads": null
+      "threads": "18102878177642529"
     },
     "errores_redes": {
       "threads": "caducado: no salió a tiempo"
@@ -473,21 +473,8 @@
       "instagram": null,
       "instagram_reel": null,
       "facebook": null,
-      "threads": "17944994658090333"
+      "threads": "17915670117536101"
     }
-  },
-  {
-    "id": "2026-10-26-sevilla-osasuna",
-    "fecha": "2026-10-26T13:00",
-    "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — PICK PARA HOY\n\n✅ Más de 1,5 goles\n\n🎯 Cuota de referencia: 1,36 (captura del 24/10)\n\n📊 Se cumplió en 7 de los 9 últimos partidos de cada equipo. Revisa el precio antes de apostar.\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null
-  },
-  {
-    "id": "2026-10-25-combi-psg-lyon",
-    "fecha": "2026-10-26T18:30",
-    "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
-    "foto": null,
-    "pausado": false
   },
   {
     "id": "2026-10-25-combi-barca-madrid-v2",
@@ -526,5 +513,29 @@
       "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
     },
     "forzar": true
+  },
+  {
+    "id": "2026-10-25-verde-auto-2026-10-25-combi-freiburg-bayern",
+    "fecha": "2026-10-25T20:46",
+    "texto": "✅💚 ¡VERDE! 🇩🇪 FREIBURG 🆚 BAYERN 💚✅\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota 9,75\n💶 10€ → 97,50€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-10-25-combi-freiburg-bayern"
+  },
+  {
+    "id": "2026-10-26-sevilla-osasuna",
+    "fecha": "2026-10-26T13:00",
+    "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — PICK PARA HOY\n\n✅ Más de 1,5 goles\n\n🎯 Cuota de referencia: 1,36 (captura del 24/10)\n\n📊 Se cumplió en 7 de los 9 últimos partidos de cada equipo. Revisa el precio antes de apostar.\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null
+  },
+  {
+    "id": "2026-10-25-combi-psg-lyon",
+    "fecha": "2026-10-26T18:30",
+    "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
+    "foto": null,
+    "pausado": false
   }
 ]
