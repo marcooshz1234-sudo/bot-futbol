@@ -104,13 +104,13 @@ def posts_del_dia(dia, d):
             intro = ("❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪"
                      if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀")
         else:
-            intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant['stake'] * ant['cuota'])}€"
+            intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
         posts.append(("escalera", f.replace(hour=11, minute=0), act["picks"],
                       f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 🍀\n\n{intro}\n\n"
                       f"{lista(act['picks'])}\n\n🎯 Cuota {num(act['cuota'])} · "
                       f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
-                      "20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Llegamos al día 7?"))
+                      "El siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable"))
 
     def libres(lista_picks):
         return [p for p in lista_picks if usos.get(clave(p), 0) < MAX_POSTS_POR_SELECCION]
