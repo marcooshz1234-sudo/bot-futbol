@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-25 13:45",
+ "generado": "2026-10-25 14:39",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -367,22 +367,6 @@
      "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
     },
     {
-     "partido_id": 1570424,
-     "fecha": "2026-10-25T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Getafe",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Athletic Club ve más de 1,5 tarjetas",
-     "cuota": 1.73,
-     "frecuencia": 0.778,
-     "ventaja": 0.2,
-     "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
-    },
-    {
      "partido_id": 1557441,
      "fecha": "2026-10-25T15:00",
      "competicion": "Premier",
@@ -710,22 +694,6 @@
      "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
     },
     {
-     "partido_id": 1570424,
-     "fecha": "2026-10-25T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Getafe",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Athletic Club ve más de 1,5 tarjetas",
-     "cuota": 1.73,
-     "frecuencia": 0.778,
-     "ventaja": 0.2,
-     "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
-    },
-    {
      "partido_id": 1570427,
      "fecha": "2026-10-25T16:15",
      "competicion": "LaLiga",
@@ -889,22 +857,6 @@
        "detalle": "Auxerre 6/7 · Le Mans 5/7"
       },
       {
-       "partido_id": 1570424,
-       "fecha": "2026-10-25T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Athletic Club",
-       "visitante": "Getafe",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Athletic Club ve más de 1,5 tarjetas",
-       "cuota": 1.73,
-       "frecuencia": 0.778,
-       "ventaja": 0.2,
-       "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
-      },
-      {
        "partido_id": 1557445,
        "fecha": "2026-10-25T15:00",
        "competicion": "Premier",
@@ -935,9 +887,25 @@
        "frecuencia": 0.75,
        "ventaja": 0.083,
        "detalle": "Crystal Palace (en contra) 7/9 · Newcastle 5/7"
+      },
+      {
+       "partido_id": 1570427,
+       "fecha": "2026-10-25T16:15",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Celta Vigo",
+       "visitante": "Real Betis",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Real Betis o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.75,
+       "ventaja": 0.015,
+       "detalle": "Celta Vigo 7/10 · Real Betis 8/10"
       }
      ],
-     "cuota": 11.73
+     "cuota": 9.22
     }
    },
    "combis_partido": []
