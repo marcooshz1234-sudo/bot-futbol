@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 19:38",
+ "actualizado": "2026-10-25 20:21",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -9,11 +9,11 @@
    ]
   },
   "threads": {
-   "seguidores": 921,
+   "seguidores": 925,
    "hoy": null,
    "serie": [
     836,
-    921
+    925
    ]
   },
   "facebook": {
@@ -34,13 +34,13 @@
    ]
   }
  },
- "total": 1011,
+ "total": 1015,
  "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:15",
-  "dia": "2026-10-25",
-  "titulo": "Clásico lo que dicen los datos"
+  "hora": "12:00",
+  "dia": "2026-10-26",
+  "titulo": "La combi del lunes"
  },
  "ayer": {
   "aciertos": 13,
@@ -64,12 +64,22 @@
   },
   "2026-10-25": {
    "instagram": 19,
-   "threads": 921,
+   "threads": 925,
    "facebook": 0,
    "telegram": 71
   }
  },
  "tipos_instagram": {
+  "Otros": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Combi de partido (reel)": {
+   "posts": 12,
+   "likes_media": 0.1,
+   "comentarios_media": 0.0
+  },
   "Combi de partido": {
    "posts": 12,
    "likes_media": 0.0,
@@ -80,19 +90,9 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros": {
-   "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Picks": {
    "posts": 6,
    "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 11,
-   "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
@@ -111,7 +111,7 @@
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -136,7 +136,7 @@
    "comentarios_media": 0.0
   },
   "Combi segura": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

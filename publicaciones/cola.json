@@ -423,7 +423,8 @@
     "foto": "publicaciones/fotos/2026-10-25-barca-madrid.jpg",
     "pausado": false,
     "enviado": "2026-10-25T19:30",
-    "mensaje_id": 102
+    "mensaje_id": 102,
+    "caducada": true
   },
   {
     "id": "2026-10-25-threads-clasico",
@@ -440,7 +441,10 @@
       "instagram": null,
       "instagram_reel": null,
       "facebook": null,
-      "threads": "18102878177642529"
+      "threads": null
+    },
+    "errores_redes": {
+      "threads": "caducado: no salió a tiempo"
     }
   },
   {
@@ -450,7 +454,9 @@
     "texto": "📋 CLÁSICO: LO QUE DICEN LOS DATOS\n\nCourtois: 4+ paradas en 8/10 partidos completos registrados.\nMbappé: 4+ remates en 7/10 apariciones registradas.\nBarça: menos de 7 córners en 7/10; Madrid concedió menos de 7 en 9/10.\n\nDatos históricos del bot, no garantías. La combi reúne cinco condiciones y su cuota 11 refleja un riesgo alto. Courtois y Mbappé: solo si son titulares.",
     "foto": null,
     "directo": false,
-    "origen": "editorial"
+    "origen": "editorial",
+    "enviado": "2026-10-25T20:20",
+    "mensaje_id": 105
   },
   {
     "id": "2026-10-25-threads-clasico-datos",
@@ -462,7 +468,13 @@
     "solo_redes": true,
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "facebook": null,
+      "threads": "17944994658090333"
+    }
   },
   {
     "id": "2026-10-26-sevilla-osasuna",
