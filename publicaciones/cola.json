@@ -392,6 +392,16 @@
     "foto": null,
     "origen": "claude",
     "directo": true,
-    "facebook": "foto"
+    "facebook": "foto",
+    "enviado": "2026-10-25T15:50",
+    "mensaje_id": 95,
+    "redes": {
+      "threads": "18097731998441546",
+      "facebook": "1479689078551520_122113462557514330"
+    },
+    "errores_redes": {
+      "instagram": "400: Invalid OAuth access token - Cannot parse access token"
+    },
+    "facebook_tipo": "foto"
   }
 ]
