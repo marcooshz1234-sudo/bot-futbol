@@ -40,6 +40,17 @@ class ProgresoTest(unittest.TestCase):
 
 
 class BalanceTest(unittest.TestCase):
+    def test_combis_de_datos_cuentan_pero_previa_y_balance_no(self):
+        base = {'fecha': '2026-10-24T18:00', 'estado': 'verde',
+                'picks': [{'estado': 'verde', 'estado_partido': 'FT'}]}
+        posts = [dict(base, id='datos', titulo='📊 COMBI DE DATOS'),
+                 dict(base, id='estadistica', titulo='📊 COMBI ESTADÍSTICA'),
+                 dict(base, id='2026-10-24-picks-manana', titulo='🔥 PICKS PARA MAÑANA'),
+                 dict(base, id='balance-auto', titulo='📊 BALANCE DEL DÍA')]
+        b = resumen_dia.balance(posts, '2026-10-24')
+        self.assertEqual([p['id'] for p in b['combis']], ['datos', 'estadistica'])
+        self.assertEqual(b['cuentas']['verde'], 2)
+
     def test_pendientes_no_jugados_y_sin_datos_no_son_fallos(self):
         posts = [{'id': str(i), 'fecha': '2026-10-24T18:00', 'titulo': f'Combi {i}', 'estado': estado,
                   'picks': [{'estado': leg, 'estado_partido': partido}]}
