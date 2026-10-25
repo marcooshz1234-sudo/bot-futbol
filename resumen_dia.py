@@ -11,7 +11,12 @@ COLA = RAIZ / 'publicaciones' / 'cola.json'
 def balance(posts, dia):
     filas = []
     for p in posts:
-        if p['fecha'][:10] != dia or p['titulo'].lstrip().startswith(('✅', '🔄', '📊', '📋')):
+        titulo = p['titulo'].lstrip()
+        # El emoji 📊 también identifica combis reales; no descartar esas selecciones.
+        # Las previas de mañana no pertenecen al balance del día en que se anuncian.
+        if (p['fecha'][:10] != dia or titulo.startswith(('✅', '🔄', '📋'))
+                or 'BALANCE' in titulo.upper() or 'picks-manana' in p['id']
+                or 'PARA MAÑANA' in titulo.upper()):
             continue
         estados = [x['estado'] for x in p.get('picks', [])]
         estado = p['estado']
