@@ -182,7 +182,8 @@ def posts_del_dia(dia, d):
                 cuota *= p["cuota"]
         inicio = datetime.fromisoformat(cp["fecha"]).replace(tzinfo=MADRID)
         apuntar(cp["picks"])
-        posts.append(("combi-partido", inicio - timedelta(hours=2), cp["picks"],
+        # 50 min antes: ya están las alineaciones (salen ~1 h antes) y alineaciones_posts.py quita a quien no sea titular
+        posts.append(("combi-partido", inicio - timedelta(minutes=50), cp["picks"],
                       f"{BANDERA.get(cp.get('competicion'), '⚽')} {corto(cp['local'])} 🆚 {corto(cp['visitante'])} · "
                       f"COMBI x{num(cuota)}\n💥 COMBI DEL PARTIDO · {inicio:%H:%M}\n\n"
                       + "\n".join(f"✅ {p['texto']}" for p in cp["picks"])
@@ -271,7 +272,7 @@ def posts_del_dia(dia, d):
         if any(es_sin_empate(p["mercado"], p["opcion"]) for p in picks):
             continue  # No eliminar patas de una combi conservando su cuota anterior.
         primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
-        hora = min(hora, primero - MARGEN_ANTES_PARTIDO)
+        hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "foto": None, "origen": "analista", "directo": True,
                        "sel": ["|".join(map(str, clave(p))) for p in picks]})
