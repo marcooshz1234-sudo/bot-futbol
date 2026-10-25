@@ -24,7 +24,9 @@ class Estilos(unittest.TestCase):
         self.assertNotIn("tema", res)
 
     def test_atreve_solo_cuotas_altas(self):
-        ps = [pk(i, "Match Winner", "Home", 1.9, tipo="resultado", liga=l) for i, l in enumerate(("LaLiga", "Premier", "Serie A"))] \
+        ps = [pk(0, "Match Winner", "Home", 1.9, tipo="resultado", liga="LaLiga"),
+              pk(1, "Match Winner", "Home", 1.9, tipo="resultado", liga="Premier"),
+              pk(2, "Total - Home", "Over 1.5", 1.9, liga="Serie A")] \
             + [pk(9, "Total - Home", "Over 0.5", 1.2, liga="Bundesliga")]
         c = P.combis_estilo("2026-10-27", ps, [], set()).get("atreve")
         self.assertTrue(c and all(p["cuota"] >= 1.7 for p in c["picks"]) and len(c["picks"]) <= 3)
