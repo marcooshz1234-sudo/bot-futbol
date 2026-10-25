@@ -1,10 +1,10 @@
 # Monaco – Lille
 **Ligue 1** · Regular Season - 8 · 25/10/2026 15:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:44_
+_Actualizadas: 25/10 02:46_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -126,7 +126,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Monaco:** E. Dier (baja, Muscle Injury); S. Idumbo (baja, Groin Injury); E. Dier (baja, Muscle Injury); S. Idumbo (baja, Groin Injury)
-**Lille:** H. Igamane (baja, Knee Injury); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury); O. Sahraoui (duda, Coach's decision); H. Igamane (baja, Knee Injury); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury); O. Sahraoui (duda, Coach's decision)
+**Lille:** H. Igamane (baja, Knee Injury); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury); H. Igamane (baja, Knee Injury); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-10 · Ligue 1: Monaco 0-1 Lille
@@ -205,14 +205,14 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | O. Sahraoui | F | 5 | 133 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,88 · visitante 0,82 · córners esperados 9,2._
+_Goles esperados: local 1,89 · visitante 0,82 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 16% | 26% | 21% | 3.70 | -23% |
-| 1X2: X | 22% | 28% | 25% | 3.40 | -15% |
-| 1X2: 1 ✅ | 62% | 46% | 54% | 2.05 | +11% |
-| Doble oportunidad: X2 | 38% | 54% | 46% | 1.73 | -20% |
+| 1X2: X | 22% | 28% | 25% | 3.40 | -16% |
+| 1X2: 1 ✅ | 63% | 46% | 54% | 2.05 | +12% |
+| Doble oportunidad: X2 | 37% | 54% | 46% | 1.73 | -21% |
 | Doble oportunidad: 12 | 78% | 72% | 75% | 1.30 | -2% |
 | Doble oportunidad: 1X | 84% | 73% | 79% | 1.28 | +1% |
 | Ambos marcan: No | 52% | 45% | 49% | 2.05 | +0% |
@@ -221,14 +221,14 @@ _Goles esperados: local 1,88 · visitante 0,82 · córners esperados 9,2._
 | Goles más/menos: Más de 2.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 3.5 | 29% | 32% | 30% | 3.00 | -9% |
 | Goles más/menos: Menos de 1.5 | 25% | 24% | 24% | 4.00 | -3% |
-| Goles más/menos: Menos de 2.5 | 49% | 47% | 48% | 2.00 | -3% |
+| Goles más/menos: Menos de 2.5 | 49% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Menos de 3.5 | 71% | 68% | 70% | 1.40 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles del local: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles del local: Más de 1.5 | 56% | 49% | 52% | 1.91 | -0% |
+| Goles del local: Más de 1.5 | 56% | 49% | 52% | 1.91 | +0% |
 | Goles del local: Más de 2.5 | 29% | 23% | 26% | 4.00 | +5% |
 | Goles del local: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -20% |
 | Goles del local: Menos de 1.5 | 44% | 51% | 48% | 1.80 | -14% |
@@ -239,8 +239,8 @@ _Goles esperados: local 1,88 · visitante 0,82 · córners esperados 9,2._
 | Goles del visitante: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +2% |
 | Córners más/menos: Más de 9.5 | 43% | 48% | 45% | 1.98 | -10% |
 | Córners más/menos: Menos de 9.5 | 57% | 52% | 55% | 1.82 | -0% |
-| 1X2 descanso: 2 | 15% | 23% | 19% | 4.00 | -23% |
+| 1X2 descanso: 2 | 15% | 23% | 19% | 4.00 | -24% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
-| 1X2 descanso: 1 | 44% | 35% | 39% | 2.62 | +3% |
+| 1X2 descanso: 1 | 44% | 35% | 40% | 2.62 | +4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

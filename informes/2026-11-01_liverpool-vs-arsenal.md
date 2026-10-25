@@ -1,10 +1,10 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 20:39_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.36**
@@ -204,7 +204,7 @@ _Goles esperados: local 1,02 · visitante 1,46 · córners esperados 9,1._
 | Goles del local: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
 | Goles del local: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
 | Goles del local: Menos de 0.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
-| Goles del local: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
+| Goles del local: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
 | Goles del visitante: Más de 0.5 | 77% | 78% | 77% | 1.20 | -7% |
 | Goles del visitante: Más de 1.5 | 43% | 49% | 46% | 1.91 | -13% |
 | Goles del visitante: Más de 2.5 | 18% | 23% | 21% | 4.00 | -17% |

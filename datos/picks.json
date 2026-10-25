@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-25 01:17",
+ "generado": "2026-10-25 02:47",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -202,6 +202,22 @@
      "liga_id": 61,
      "local": "Auxerre",
      "visitante": "Le Mans",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Auxerre–Le Mans",
+     "cuota": 1.33,
+     "frecuencia": 0.857,
+     "ventaja": 0.105,
+     "detalle": "Auxerre 6/7 · Le Mans 6/7"
+    },
+    {
+     "partido_id": 1552793,
+     "fecha": "2026-10-25T17:15",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Auxerre",
+     "visitante": "Le Mans",
      "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
@@ -226,22 +242,6 @@
      "frecuencia": 0.857,
      "ventaja": 0.088,
      "detalle": "Genoa 6/7 · Venezia 6/7"
-    },
-    {
-     "partido_id": 1552793,
-     "fecha": "2026-10-25T17:15",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Auxerre",
-     "visitante": "Le Mans",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Auxerre–Le Mans",
-     "cuota": 1.3,
-     "frecuencia": 0.857,
-     "ventaja": 0.088,
-     "detalle": "Auxerre 6/7 · Le Mans 6/7"
     },
     {
      "partido_id": 1550161,
@@ -386,6 +386,22 @@
      "frecuencia": 0.786,
      "ventaja": 0.004,
      "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
+    },
+    {
+     "partido_id": 1570424,
+     "fecha": "2026-10-25T14:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Getafe",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Athletic Club ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "frecuencia": 0.778,
+     "ventaja": 0.111,
+     "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
     },
     {
      "partido_id": 1557441,
@@ -736,6 +752,22 @@
      "detalle": "Angers (en contra) 5/7 · Lorient 6/7"
     },
     {
+     "partido_id": 1570424,
+     "fecha": "2026-10-25T14:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Getafe",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Athletic Club ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "frecuencia": 0.778,
+     "ventaja": 0.111,
+     "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
+    },
+    {
      "partido_id": 1570427,
      "fecha": "2026-10-25T16:15",
      "competicion": "LaLiga",
@@ -869,7 +901,107 @@
      ],
      "cuota": 3.53
     },
-    "loca": null
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1557446,
+       "fecha": "2026-10-25T17:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Sunderland",
+       "visitante": "Leeds",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 2ª parte del Sunderland–Leeds",
+       "cuota": 1.28,
+       "frecuencia": 0.941,
+       "ventaja": 0.16,
+       "detalle": "Sunderland 10/10 · Leeds 6/7"
+      },
+      {
+       "partido_id": 1557445,
+       "fecha": "2026-10-25T15:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Manchester United",
+       "visitante": "Bournemouth",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Bournemouth marca",
+       "cuota": 1.28,
+       "frecuencia": 0.9,
+       "ventaja": 0.119,
+       "detalle": "Manchester United (en contra) 9/10 · Bournemouth 9/10"
+      },
+      {
+       "partido_id": 1552793,
+       "fecha": "2026-10-25T17:15",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Auxerre",
+       "visitante": "Le Mans",
+       "mercado": "Total ShotOnGoal",
+       "opcion": "Over 8.5",
+       "tipo": "tiros a puerta",
+       "texto": "Más de 8,5 tiros a puerta en Auxerre–Le Mans",
+       "cuota": 1.73,
+       "frecuencia": 0.786,
+       "ventaja": 0.208,
+       "detalle": "Auxerre 6/7 · Le Mans 5/7"
+      },
+      {
+       "partido_id": 1570424,
+       "fecha": "2026-10-25T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Athletic Club",
+       "visitante": "Getafe",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Athletic Club ve más de 1,5 tarjetas",
+       "cuota": 1.5,
+       "frecuencia": 0.778,
+       "ventaja": 0.111,
+       "detalle": "Athletic Club 7/8 · Getafe (en contra) 7/10"
+      },
+      {
+       "partido_id": 1557441,
+       "fecha": "2026-10-25T15:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Crystal Palace",
+       "visitante": "Newcastle",
+       "mercado": "Away Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Newcastle ve más de 1,5 tarjetas",
+       "cuota": 1.5,
+       "frecuencia": 0.75,
+       "ventaja": 0.083,
+       "detalle": "Crystal Palace (en contra) 7/9 · Newcastle 5/7"
+      },
+      {
+       "partido_id": 1570427,
+       "fecha": "2026-10-25T16:15",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Celta Vigo",
+       "visitante": "Real Betis",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Real Betis o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.75,
+       "ventaja": 0.015,
+       "detalle": "Celta Vigo 7/10 · Real Betis 8/10"
+      }
+     ],
+     "cuota": 8.67
+    }
    },
    "combis_partido": []
   },
@@ -898,22 +1030,6 @@
      "liga_id": 61,
      "local": "Paris Saint Germain",
      "visitante": "Lyon",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
-     "cuota": 1.4,
-     "frecuencia": 0.85,
-     "ventaja": 0.136,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10"
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
      "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
@@ -922,6 +1038,22 @@
      "frecuencia": 0.85,
      "ventaja": 0.136,
      "detalle": "Paris Saint Germain (en contra) 9/10 · Lyon 8/10"
+    },
+    {
+     "partido_id": 1552800,
+     "fecha": "2026-10-26T20:30",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Lyon",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
+     "cuota": 1.36,
+     "frecuencia": 0.85,
+     "ventaja": 0.115,
+     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10"
     },
     {
      "partido_id": 1552800,
@@ -1011,9 +1143,9 @@
      "tipo": "resultado",
      "texto": "Lazio o empate",
      "cuota": 1.4,
-     "frecuencia": 0.867,
-     "ventaja": 0.152,
-     "detalle": "Sassuolo 6/8 · Lazio 7/7"
+     "frecuencia": 0.875,
+     "ventaja": 0.161,
+     "detalle": "Sassuolo 6/8 · Lazio 8/8"
     },
     {
      "partido_id": 1550175,
@@ -1042,9 +1174,9 @@
      "opcion": "Over 0.5",
      "tipo": "goles",
      "texto": "Gol en la 1ª parte del Torino–Como",
-     "cuota": 1.33,
+     "cuota": 1.3,
      "frecuencia": 0.778,
-     "ventaja": 0.026,
+     "ventaja": 0.009,
      "detalle": "Torino 6/8 · Como 8/10"
     }
    ],
@@ -1061,9 +1193,9 @@
      "tipo": "resultado",
      "texto": "Lazio o empate",
      "cuota": 1.4,
-     "frecuencia": 0.867,
-     "ventaja": 0.152,
-     "detalle": "Sassuolo 6/8 · Lazio 7/7"
+     "frecuencia": 0.875,
+     "ventaja": 0.161,
+     "detalle": "Sassuolo 6/8 · Lazio 8/8"
     },
     {
      "partido_id": 1550175,
@@ -1103,9 +1235,9 @@
      "tipo": "goles",
      "texto": "Gol en la 2ª parte del Parma–Udinese",
      "cuota": 1.28,
-     "frecuencia": 0.929,
-     "ventaja": 0.147,
-     "detalle": "Parma 6/7 · Udinese 7/7"
+     "frecuencia": 0.933,
+     "ventaja": 0.152,
+     "detalle": "Parma 7/8 · Udinese 7/7"
     },
     {
      "partido_id": 1550172,
@@ -1167,9 +1299,9 @@
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Parma–Udinese",
      "cuota": 1.36,
-     "frecuencia": 0.857,
-     "ventaja": 0.122,
-     "detalle": "Parma 6/7 · Udinese 6/7"
+     "frecuencia": 0.867,
+     "ventaja": 0.131,
+     "detalle": "Parma 7/8 · Udinese 6/7"
     },
     {
      "partido_id": 1550173,
@@ -1183,9 +1315,9 @@
      "tipo": "goles",
      "texto": "Udinese marca",
      "cuota": 1.3,
-     "frecuencia": 0.857,
-     "ventaja": 0.088,
-     "detalle": "Parma (en contra) 7/7 · Udinese 5/7"
+     "frecuencia": 0.867,
+     "ventaja": 0.097,
+     "detalle": "Parma (en contra) 8/8 · Udinese 5/7"
     },
     {
      "partido_id": 1550171,
@@ -1233,9 +1365,9 @@
      "tipo": "goles",
      "texto": "Gol en la 2ª parte del Parma–Udinese",
      "cuota": 1.28,
-     "frecuencia": 0.929,
-     "ventaja": 0.147,
-     "detalle": "Parma 6/7 · Udinese 7/7"
+     "frecuencia": 0.933,
+     "ventaja": 0.152,
+     "detalle": "Parma 7/8 · Udinese 7/7"
     },
     {
      "partido_id": 1550172,
@@ -1301,9 +1433,9 @@
        "tipo": "goles",
        "texto": "Gol en la 2ª parte del Parma–Udinese",
        "cuota": 1.28,
-       "frecuencia": 0.929,
-       "ventaja": 0.147,
-       "detalle": "Parma 6/7 · Udinese 7/7"
+       "frecuencia": 0.933,
+       "ventaja": 0.152,
+       "detalle": "Parma 7/8 · Udinese 7/7"
       },
       {
        "partido_id": 1550176,
@@ -1606,6 +1738,22 @@
      "liga_id": 78,
      "local": "Werder Bremen",
      "visitante": "1899 Hoffenheim",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 4.5",
+     "tipo": "corners",
+     "texto": "1899 Hoffenheim hace más de 4,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.875,
+     "ventaja": 0.297,
+     "detalle": "Werder Bremen (en contra) 5/7 · 1899 Hoffenheim 9/9"
+    },
+    {
+     "partido_id": 1575209,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Werder Bremen",
+     "visitante": "1899 Hoffenheim",
      "mercado": "Goals Over/Under - Second Half",
      "opcion": "Over 1.5",
      "tipo": "goles",
@@ -1792,6 +1940,38 @@
      "detalle": "Barcelona (en contra) 8/10 · Alaves 8/10"
     },
     {
+     "partido_id": 1570435,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Real Betis",
+     "visitante": "Malaga",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Malaga hace más de 3,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "Real Betis (en contra) 8/10 · Malaga 8/10"
+    },
+    {
+     "partido_id": 1575203,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "Borussia Dortmund",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 9.5",
+     "tipo": "corners",
+     "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+     "cuota": 1.73,
+     "frecuencia": 0.789,
+     "ventaja": 0.211,
+     "detalle": "Bayern München 7/9 · Borussia Dortmund 8/10"
+    },
+    {
      "partido_id": 1552809,
      "fecha": "2026-10-31T20:45",
      "competicion": "Ligue 1",
@@ -1976,14 +2156,14 @@
      "liga_id": 78,
      "local": "Werder Bremen",
      "visitante": "1899 Hoffenheim",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim",
-     "cuota": 1.62,
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 4.5",
+     "tipo": "corners",
+     "texto": "1899 Hoffenheim hace más de 4,5 córners",
+     "cuota": 1.73,
      "frecuencia": 0.875,
-     "ventaja": 0.258,
-     "detalle": "Werder Bremen 6/7 · 1899 Hoffenheim 8/9"
+     "ventaja": 0.297,
+     "detalle": "Werder Bremen (en contra) 5/7 · 1899 Hoffenheim 9/9"
     },
     {
      "partido_id": 1557449,
@@ -2082,6 +2262,38 @@
      "detalle": "Barcelona (en contra) 8/10 · Alaves 8/10"
     },
     {
+     "partido_id": 1570435,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Real Betis",
+     "visitante": "Malaga",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Malaga hace más de 3,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "Real Betis (en contra) 8/10 · Malaga 8/10"
+    },
+    {
+     "partido_id": 1575203,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "Borussia Dortmund",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 9.5",
+     "tipo": "corners",
+     "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+     "cuota": 1.73,
+     "frecuencia": 0.789,
+     "ventaja": 0.211,
+     "detalle": "Bayern München 7/9 · Borussia Dortmund 8/10"
+    },
+    {
      "partido_id": 1557450,
      "fecha": "2026-10-31T13:30",
      "competicion": "Premier",
@@ -2136,8 +2348,144 @@
      ],
      "cuota": 1.6
     },
-    "cuota_3": null,
-    "loca": null
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1552803,
+       "fecha": "2026-10-31T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Lorient",
+       "visitante": "Stade Brestois 29",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Lorient marca",
+       "cuota": 1.28,
+       "frecuencia": 0.933,
+       "ventaja": 0.152,
+       "detalle": "Lorient 6/7 · Stade Brestois 29 (en contra) 8/8"
+      },
+      {
+       "partido_id": 1575209,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Werder Bremen",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 4.5",
+       "tipo": "corners",
+       "texto": "1899 Hoffenheim hace más de 4,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.875,
+       "ventaja": 0.297,
+       "detalle": "Werder Bremen (en contra) 5/7 · 1899 Hoffenheim 9/9"
+      },
+      {
+       "partido_id": 1575206,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FC Augsburg",
+       "visitante": "SC Freiburg",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "SC Freiburg gana alguna de las dos partes",
+       "cuota": 1.57,
+       "frecuencia": 0.765,
+       "ventaja": 0.128,
+       "detalle": "FC Augsburg 5/7 · SC Freiburg 8/10"
+      }
+     ],
+     "cuota": 3.48
+    },
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1552809,
+       "fecha": "2026-10-31T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Estac Troyes",
+       "visitante": "Le Mans",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Estac Troyes–Le Mans",
+       "cuota": 1.25,
+       "frecuencia": 0.929,
+       "ventaja": 0.129,
+       "detalle": "Estac Troyes 6/7 · Le Mans 7/7"
+      },
+      {
+       "partido_id": 1575206,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FC Augsburg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 2.5",
+       "tipo": "goles",
+       "texto": "Más de 2,5 goles en FC Augsburg–SC Freiburg",
+       "cuota": 1.5,
+       "frecuencia": 0.882,
+       "ventaja": 0.216,
+       "detalle": "FC Augsburg 6/7 · SC Freiburg 9/10"
+      },
+      {
+       "partido_id": 1575209,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Werder Bremen",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim",
+       "cuota": 1.62,
+       "frecuencia": 0.875,
+       "ventaja": 0.258,
+       "detalle": "Werder Bremen 6/7 · 1899 Hoffenheim 8/9"
+      },
+      {
+       "partido_id": 1570435,
+       "fecha": "2026-10-31T18:30",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Real Betis",
+       "visitante": "Malaga",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Malaga hace más de 3,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.8,
+       "ventaja": 0.222,
+       "detalle": "Real Betis (en contra) 8/10 · Malaga 8/10"
+      },
+      {
+       "partido_id": 1575203,
+       "fecha": "2026-10-31T18:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Bayern München",
+       "visitante": "Borussia Dortmund",
+       "mercado": "Corners Over Under",
+       "opcion": "Over 9.5",
+       "tipo": "corners",
+       "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+       "cuota": 1.73,
+       "frecuencia": 0.789,
+       "ventaja": 0.211,
+       "detalle": "Bayern München 7/9 · Borussia Dortmund 8/10"
+      }
+     ],
+     "cuota": 9.09
+    }
    },
    "combis_partido": []
   },
@@ -2218,10 +2566,26 @@
      "opcion": "Yes",
      "tipo": "goles",
      "texto": "Ambos marcan en Strasbourg–Auxerre",
-     "cuota": 1.57,
+     "cuota": 1.53,
      "frecuencia": 0.857,
-     "ventaja": 0.22,
+     "ventaja": 0.204,
      "detalle": "Strasbourg 6/7 · Auxerre 6/7"
+    },
+    {
+     "partido_id": 1570433,
+     "fecha": "2026-11-01T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Real Sociedad",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Athletic Club–Real Sociedad",
+     "cuota": 1.25,
+     "frecuencia": 0.833,
+     "ventaja": 0.033,
+     "detalle": "Athletic Club 6/8 · Real Sociedad 9/10"
     },
     {
      "partido_id": 1552808,
@@ -2254,6 +2618,38 @@
      "frecuencia": 0.786,
      "ventaja": 0.004,
      "detalle": "Strasbourg 5/7 · Auxerre 6/7"
+    },
+    {
+     "partido_id": 1570433,
+     "fecha": "2026-11-01T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Real Sociedad",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Real Sociedad o empate",
+     "cuota": 1.8,
+     "frecuencia": 0.778,
+     "ventaja": 0.222,
+     "detalle": "Athletic Club 6/8 · Real Sociedad 8/10"
+    },
+    {
+     "partido_id": 1552805,
+     "fecha": "2026-11-01T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Marseille",
+     "visitante": "Toulouse",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Toulouse marca",
+     "cuota": 1.33,
+     "frecuencia": 0.765,
+     "ventaja": 0.013,
+     "detalle": "Marseille (en contra) 8/10 · Toulouse 5/7"
     },
     {
      "partido_id": 1570440,
@@ -2306,6 +2702,38 @@
      "detalle": "Getafe (en contra) 9/10 · Sevilla 9/9"
     },
     {
+     "partido_id": 1570433,
+     "fecha": "2026-11-01T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Real Sociedad",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Athletic Club–Real Sociedad",
+     "cuota": 1.25,
+     "frecuencia": 0.833,
+     "ventaja": 0.033,
+     "detalle": "Athletic Club 6/8 · Real Sociedad 9/10"
+    },
+    {
+     "partido_id": 1552805,
+     "fecha": "2026-11-01T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Marseille",
+     "visitante": "Toulouse",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Toulouse marca",
+     "cuota": 1.33,
+     "frecuencia": 0.765,
+     "ventaja": 0.013,
+     "detalle": "Marseille (en contra) 8/10 · Toulouse 5/7"
+    },
+    {
      "partido_id": 1570440,
      "fecha": "2026-11-01T16:15",
      "competicion": "LaLiga",
@@ -2323,7 +2751,43 @@
     }
    ],
    "combis": {
-    "segura": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1552808,
+       "fecha": "2026-11-01T15:00",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Strasbourg",
+       "visitante": "Auxerre",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Auxerre marca",
+       "cuota": 1.33,
+       "frecuencia": 1.0,
+       "ventaja": 0.248,
+       "detalle": "Strasbourg (en contra) 7/7 · Auxerre 7/7"
+      },
+      {
+       "partido_id": 1570433,
+       "fecha": "2026-11-01T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Athletic Club",
+       "visitante": "Real Sociedad",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Athletic Club–Real Sociedad",
+       "cuota": 1.25,
+       "frecuencia": 0.833,
+       "ventaja": 0.033,
+       "detalle": "Athletic Club 6/8 · Real Sociedad 9/10"
+      }
+     ],
+     "cuota": 1.66
+    },
     "cuota_3": null,
     "loca": null
    },

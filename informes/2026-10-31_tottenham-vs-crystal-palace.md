@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.62**  ·  X **3.90**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Óscar Mingueza | M | 4 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,40 · visitante 1,21 · córners esperados 9,5._
+_Goles esperados: local 1,40 · visitante 1,20 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -191,11 +191,11 @@ _Goles esperados: local 1,40 · visitante 1,21 · córners esperados 9,5._
 | Ambos marcan: No | 47% | 44% | 46% | 2.10 | -4% |
 | Ambos marcan: Sí | 53% | 56% | 54% | 1.67 | -9% |
 | Goles más/menos: Más de 1.5 | 73% | 79% | 76% | 1.20 | -9% |
-| Goles más/menos: Más de 2.5 | 48% | 59% | 54% | 1.62 | -13% |
+| Goles más/menos: Más de 2.5 | 48% | 59% | 53% | 1.62 | -13% |
 | Goles más/menos: Más de 3.5 | 27% | 38% | 32% | 2.50 | -19% |
 | Goles más/menos: Más de 4.5 | 12% | 21% | 17% | 4.50 | -25% |
 | Goles más/menos: Menos de 1.5 | 27% | 21% | 24% | 4.50 | +7% |
-| Goles más/menos: Menos de 2.5 | 52% | 41% | 46% | 2.30 | +7% |
+| Goles más/menos: Menos de 2.5 | 52% | 41% | 47% | 2.30 | +7% |
 | Goles más/menos: Menos de 3.5 | 73% | 62% | 68% | 1.53 | +4% |
 | Goles más/menos: Menos de 4.5 | 88% | 79% | 83% | 1.20 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |

@@ -1,10 +1,10 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.11**  ·  X **8.50**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.08**  ·  X2 **6.50**
@@ -31,6 +31,9 @@ _Actualizadas: 24/10 14:45_
 - **Goles del visitante:**
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **5.00** · menos **1.17**
+- **Córners más/menos:**
+    - 10,5: más **1.73** · menos **2.00**
+    - 11: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **1.40**  ·  X **3.60**  ·  2 **11.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
@@ -45,6 +48,12 @@ _Actualizadas: 24/10 14:45_
 - **Win Both Halves:** 1 **1.91**  ·  2 **67.00**
 - **Results/Both Teams Score:** Home/Yes **2.25**  ·  Draw/Yes **9.50**  ·  Away/Yes **21.00**  ·  Home/No **2.00**  ·  Draw/No **34.00**  ·  Away/No **29.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.75**
+- **Home Corners Over/Under:**
+    - 8,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 2,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):**
+    - 5,5: más **2.05** · menos **1.75**
 - **Away Player Shots On Target Total:** Rodri **15.00**  ·  Lucas Boye **7.50**  ·  Jules Kounde **12.00**  ·  Ville Koski **51.00**  ·  Mariano Diaz **29.00**  ·  Lamine Yamal **17.00**  ·  Pedri **23.00**  ·  Pau Cubarsi **8.50**  ·  Joao Cancelo **34.00**  ·  Raphinha **21.00**  ·  Nicolas Valentini **41.00**  ·  Xavi Espart **34.00**  ·  Gabriel Jesus **11.00**  ·  Miguel Rodriguez **21.00**  ·  Antonio Martinez **13.00**  ·  Andreas Christensen **9.50**  ·  Marc Bernal **9.00**  ·  Castro Jonny Otto **126.00**  ·  Eric Garcia **10.00**  ·  Pablo Ibanez **67.00**  ·  Carles Alena **34.00**  ·  Denis Suarez **34.00**  ·  Dani Olmo **21.00**  ·  Xanet Olaiz **29.00**  ·  Gavi **34.00**  ·  Fermin Lopez **10.00**  ·  Hamza Abdelkarim **9.00**  ·  Anthony Gordon **12.00**  ·  Antonio Blanco **67.00**  ·  Nahuel Tenaglia **29.00**  ·  Abde Rebbach **51.00**  ·  Ander Guevara **126.00**  ·  Alex Balde **34.00**  ·  Carlos Protesoni **51.00**  ·  Mikel Rodriguez **34.00**  ·  Karim Adeyemi **15.00**  ·  Angel Hidalgo Perez **51.00**  ·  Martin Gerard **26.00**
 - **Anytime Goal Scorer:** Rodri **4.75**  ·  Lucas Boye **4.00**  ·  Jules Kounde **5.00**  ·  Ville Koski **26.00**  ·  Mariano Diaz **4.75**  ·  Lamine Yamal **1.83**  ·  Pedri **3.40**  ·  Pau Cubarsi **6.00**  ·  Joao Cancelo **4.00**  ·  Raphinha **1.67**  ·  Nicolas Valentini **17.00**  ·  Xavi Espart **3.60**  ·  Gabriel Jesus **1.83**  ·  Miguel Rodriguez **6.00**  ·  Antonio Martinez **4.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **3.60**  ·  Castro Jonny Otto **21.00**  ·  Eric Garcia **5.50**  ·  Pablo Ibanez **7.00**  ·  Carles Alena **6.00**  ·  Denis Suarez **9.00**  ·  Dani Olmo **2.40**  ·  Xanet Olaiz **13.00**  ·  Gavi **4.75**  ·  Fermin Lopez **2.20**  ·  Hamza Abdelkarim **1.95**  ·  Anthony Gordon **1.95**  ·  Antonio Blanco **9.00**  ·  Nahuel Tenaglia **11.00**  ·  Abde Rebbach **7.50**  ·  Ander Guevara **17.00**  ·  Alex Balde **6.00**  ·  Carlos Protesoni **13.00**  ·  Mikel Rodriguez **7.00**  ·  Karim Adeyemi **1.95**  ·  Angel Hidalgo Perez **7.50**  ·  Martin Gerard **7.00**
 - **Player to Score or Assist:** Rodri **2.50**  ·  Lucas Boye **3.20**  ·  Jules Kounde **2.75**  ·  Ville Koski **15.00**  ·  Mariano Diaz **3.60**  ·  Lamine Yamal **1.28**  ·  Pedri **1.80**  ·  Pau Cubarsi **4.33**  ·  Joao Cancelo **2.00**  ·  Raphinha **1.25**  ·  Nicolas Valentini **13.00**  ·  Xavi Espart **2.40**  ·  Gabriel Jesus **1.40**  ·  Miguel Rodriguez **4.00**  ·  Antonio Martinez **3.50**  ·  Andreas Christensen **4.33**  ·  Marc Bernal **2.00**  ·  Castro Jonny Otto **9.50**  ·  Eric Garcia **3.50**  ·  Pablo Ibanez **4.50**  ·  Carles Alena **3.60**  ·  Denis Suarez **4.75**  ·  Dani Olmo **1.62**  ·  Xanet Olaiz **9.50**  ·  Gavi **2.40**  ·  Fermin Lopez **1.44**  ·  Hamza Abdelkarim **1.57**  ·  Anthony Gordon **1.36**  ·  Antonio Blanco **6.00**  ·  Nahuel Tenaglia **6.50**  ·  Abde Rebbach **4.50**  ·  Ander Guevara **9.50**  ·  Alex Balde **3.00**  ·  Carlos Protesoni **7.50**  ·  Mikel Rodriguez **4.75**  ·  Karim Adeyemi **1.40**  ·  Angel Hidalgo Perez **4.75**  ·  Martin Gerard **3.10**
@@ -182,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Hugo Novoa | F | 2 | 73 | 1 | 0 | 2 | 1,0 | 1 | 0,5 | 0 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,56 · visitante 0,88 · córners esperados 9,2._
+_Goles esperados: local 3,57 · visitante 0,87 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -191,20 +200,20 @@ _Goles esperados: local 3,56 · visitante 0,88 · córners esperados 9,2._
 | 1X2: 1 | 86% | 83% | 84% | 1.11 | -6% |
 | Doble oportunidad: X2 | 14% | 15% | 15% | 6.50 | -5% |
 | Doble oportunidad: 12 | 91% | 90% | 91% | 1.08 | -2% |
-| Doble oportunidad: 1X | 95% | 95% | 95% | 1.03 | -3% |
+| Doble oportunidad: 1X | 95% | 95% | 95% | 1.03 | -2% |
 | Ambos marcan: No | 43% | 48% | 46% | 1.95 | -11% |
 | Ambos marcan: Sí | 57% | 52% | 54% | 1.80 | -2% |
 | Goles más/menos: Más de 2.5 | 82% | 76% | 79% | 1.25 | -1% |
-| Goles más/menos: Más de 3.5 | 65% | 59% | 62% | 1.62 | -0% |
+| Goles más/menos: Más de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
 | Goles más/menos: Más de 4.5 | 46% | 40% | 43% | 2.38 | +2% |
 | Goles más/menos: Más de 5.5 | 29% | 24% | 26% | 4.00 | +5% |
-| Goles más/menos: Menos de 2.5 | 18% | 24% | 21% | 4.00 | -16% |
+| Goles más/menos: Menos de 2.5 | 18% | 24% | 21% | 4.00 | -17% |
 | Goles más/menos: Menos de 3.5 | 35% | 41% | 38% | 2.30 | -12% |
 | Goles más/menos: Menos de 4.5 | 54% | 60% | 57% | 1.57 | -10% |
 | Goles más/menos: Menos de 5.5 | 71% | 76% | 74% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 29% | 29% | 29% | 3.25 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 46% | 45% | 2.00 | -10% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles del local: Más de 2.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del local: Más de 3.5 | 48% | 44% | 46% | 2.10 | -3% |
@@ -214,7 +223,9 @@ _Goles esperados: local 3,56 · visitante 0,88 · córners esperados 9,2._
 | Goles del local: Menos de 4.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles del visitante: Más de 0.5 | 58% | 54% | 56% | 1.73 | -3% |
 | Goles del visitante: Menos de 0.5 | 42% | 46% | 44% | 2.00 | -12% |
-| 1X2 descanso: X | 25% | 26% | 25% | 3.60 | -8% |
+| Córners más/menos: Más de 10.5 | 34% | 54% | 44% | 1.73 | -24% |
+| Córners más/menos: Menos de 10.5 ✅ | 66% | 46% | 56% | 2.00 | +12% |
+| 1X2 descanso: X | 25% | 26% | 25% | 3.60 | -9% |
 | 1X2 descanso: 1 | 66% | 66% | 66% | 1.40 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

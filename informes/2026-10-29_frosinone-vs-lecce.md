@@ -1,10 +1,10 @@
 # Frosinone – Lecce
 **Serie A** · Regular Season - 9 · 29/10/2026 18:30 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.91**  ·  X **3.60**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 56% | 49% | 53% | 1.91 | +1% |
 | Doble oportunidad: X2 | 44% | 51% | 48% | 1.83 | -13% |
 | Doble oportunidad: 12 | 80% | 73% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 76% | 75% | 76% | 1.25 | -6% |
+| Doble oportunidad: 1X | 76% | 75% | 76% | 1.25 | -5% |
 | Ambos marcan: No | 31% | 39% | 35% | 2.38 | -17% |
 | Ambos marcan: Sí | 69% | 61% | 65% | 1.53 | -1% |
 | Goles más/menos: Más de 2.5 | 72% | 60% | 66% | 1.57 | +4% |
@@ -215,7 +215,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
 | Goles del local: Más de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
 | Goles del local: Más de 2.5 | 40% | 29% | 35% | 3.25 | +12% |
-| Goles del local: Menos de 1.5 | 33% | 44% | 39% | 2.10 | -18% |
+| Goles del local: Menos de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
 | Goles del local: Menos de 2.5 | 60% | 71% | 65% | 1.33 | -13% |
 | Goles del visitante: Más de 0.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles del visitante: Más de 1.5 | 43% | 38% | 40% | 2.50 | +0% |
@@ -223,7 +223,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 57% | 62% | 60% | 1.50 | -10% |
 | Córners más/menos: Más de 10.5 | 39% | 44% | 42% | 2.10 | -12% |
 | Córners más/menos: Menos de 10.5 | 61% | 56% | 58% | 1.67 | -3% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -8% |
+| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -9% |
 | 1X2 descanso: X | 35% | 38% | 37% | 2.40 | -12% |
 | 1X2 descanso: 1 | 43% | 38% | 41% | 2.40 | -3% |
 

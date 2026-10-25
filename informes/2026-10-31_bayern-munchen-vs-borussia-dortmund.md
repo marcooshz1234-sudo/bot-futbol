@@ -1,21 +1,21 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.33**  ·  X **5.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.05** · menos **11.00**
-    - 2,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.20** · menos **4.50**
     - 3,5: más **1.53** · menos **2.50**
     - 4,5: más **2.20** · menos **1.67**
     - 5,5: más **3.50** · menos **1.30**
-    - 6,5: más **6.00** · menos **1.12**
+    - 6,5: más **5.50** · menos **1.14**
     - 7,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.12** · menos **6.00**
@@ -32,6 +32,9 @@ _Actualizadas: 24/10 14:45_
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **1.67**  ·  X **3.20**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.07** · menos **9.00**
@@ -46,6 +49,11 @@ _Actualizadas: 24/10 14:45_
 - **Win Both Halves:** 1 **2.75**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **2.05**  ·  Draw/Yes **6.00**  ·  Away/Yes **8.50**  ·  Home/No **3.50**  ·  Draw/No **34.00**  ·  Away/No **19.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.50**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **5.50**
+- **Home Corners Over/Under:**
+    - 6,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Home Player Shots On Target Total:** Jamal Musiala - 1 **1.18**  ·  Lennart Karl - 1 **1.36**  ·  Nathaniel Brown - 1 **1.53**  ·  Bara Ndiaye - 1 **1.73**  ·  Aleksandar Pavlovic - 1 **2.25**  ·  Alphonso Davies - 1 **2.50**  ·  Konrad Laimer - 1 **2.50**  ·  Hiroki Ito - 1 **2.50**  ·  Joshua Kimmich - 1 **2.25**  ·  Jonathan Tah - 1 **2.50**  ·  Sacha Boey - 1 **2.50**  ·  Dayot Upamecano - 1 **3.40**  ·  Josip Stanisic - 1 **3.40**  ·  Min-Jae Kim - 1 **3.75**  ·  Harry Kane - 2 **1.44**  ·  Ismael Saibari - 2 **2.10**  ·  Michael Olise - 2 **1.57**  ·  Luis Diaz - 2 **2.00**  ·  Jamal Musiala - 2 **1.83**  ·  Lennart Karl - 2 **2.62**  ·  Nathaniel Brown - 2 **3.50**  ·  Bara Ndiaye - 2 **4.50**  ·  Aleksandar Pavlovic - 2 **9.00**  ·  Alphonso Davies - 2 **10.00**  ·  Konrad Laimer - 2 **10.00**  ·  Hiroki Ito - 2 **10.00**  ·  Joshua Kimmich - 2 **9.00**  ·  Jonathan Tah - 2 **10.00**  ·  Sacha Boey - 2 **10.00**  ·  Dayot Upamecano - 2 **17.00**  ·  Josip Stanisic - 2 **17.00**  ·  Min-Jae Kim - 2 **19.00**  ·  Harry Kane - 3 **2.38**  ·  Ismael Saibari - 3 **4.33**  ·  Michael Olise - 3 **2.75**  ·  Luis Diaz - 3 **4.00**  ·  Jamal Musiala - 3 **3.75**  ·  Lennart Karl - 3 **7.00**  ·  Nathaniel Brown - 3 **11.00**  ·  Bara Ndiaye - 3 **15.00**  ·  Harry Kane - 4 **4.50**  ·  Ismael Saibari - 4 **11.00**  ·  Michael Olise - 4 **6.00**  ·  Luis Diaz - 4 **11.00**  ·  Jamal Musiala - 4 **9.00**  ·  Lennart Karl - 4 **19.00**  ·  Harry Kane - 5 **10.00**  ·  Ismael Saibari - 5 **21.00**  ·  Michael Olise - 5 **13.00**  ·  Luis Diaz - 5 **21.00**  ·  Jamal Musiala - 5 **21.00**  ·  Harry Kane - 6 **21.00**  ·  Harry Kane - 1 **1.08**  ·  Ismael Saibari - 1 **1.22**  ·  Luis Diaz - 1 **1.20**  ·  Michael Olise - 1 **1.11**  ·  Tom Bischof - 1 **1.62**  ·  Tom Bischof - 2 **4.00**  ·  Tom Bischof - 3 **13.00**  ·  Serge Gnabry - 2 **2.62**  ·  Serge Gnabry - 3 **7.00**  ·  Serge Gnabry - 4 **19.00**  ·  Serge Gnabry - 1 **1.36**
 - **Away Player Shots On Target Total:** Lennart Karl **12.00**  ·  Ismael Saibari **21.00**  ·  Kaua Prates **81.00**  ·  Daniel Svensson **34.00**  ·  Luis Diaz **11.00**  ·  Mathis Albert **41.00**  ·  Samuele Inacio **29.00**  ·  Jobe Bellingham **29.00**  ·  Kouakou Gadou **13.00**  ·  Konstantinos Karetsas **34.00**  ·  Justin Lerma **41.00**  ·  Filippo Mane **23.00**  ·  Josip Stanisic **21.00**  ·  Joey Veerman **51.00**  ·  Luca Reggiani **17.00**  ·  Bara Ndiaye **15.00**  ·  Tom Bischof **34.00**  ·  Aleksandar Pavlovic **41.00**  ·  Alphonso Davies **41.00**  ·  Dayot Upamecano **15.00**  ·  Harry Kane **4.50**  ·  Jamal Musiala **13.00**  ·  Joshua Kimmich **29.00**  ·  Konrad Laimer **51.00**  ·  Michael Olise **21.00**  ·  Nathaniel Brown **29.00**  ·  Serge Gnabry **26.00**  ·  Min-Jae Kim **15.00**  ·  Sacha Boey **51.00**  ·  Carney Chukwuemeka **41.00**  ·  Fabio Silva **13.00**  ·  Hiroki Ito **11.00**  ·  Ethan Nwaneri **41.00**  ·  Jonathan Tah **9.00**  ·  Felix Nmecha **51.00**  ·  Julian Ryerson **34.00**  ·  Marcel Sabitzer **67.00**  ·  Maximilian Beier **21.00**  ·  Nico Schlotterbeck **15.00**  ·  Ramy Bensebaini **26.00**  ·  Serhou Guirassy **7.00**  ·  Waldemar Anton **21.00**
 - **Home Player Shots:** Jamal Musiala - 1 **1.01**  ·  Lennart Karl - 1 **1.03**  ·  Nathaniel Brown - 1 **1.06**  ·  Bara Ndiaye - 1 **1.11**  ·  Aleksandar Pavlovic - 1 **1.20**  ·  Alphonso Davies - 1 **1.30**  ·  Konrad Laimer - 1 **1.33**  ·  Hiroki Ito - 1 **1.28**  ·  Joshua Kimmich - 1 **1.28**  ·  Jonathan Tah - 1 **1.33**  ·  Sacha Boey - 1 **1.33**  ·  Dayot Upamecano - 1 **1.62**  ·  Josip Stanisic - 1 **1.62**  ·  Min-Jae Kim - 1 **1.80**  ·  Harry Kane - 2 **1.02**  ·  Ismael Saibari - 2 **1.06**  ·  Michael Olise - 2 **1.06**  ·  Luis Diaz - 2 **1.10**  ·  Jamal Musiala - 2 **1.11**  ·  Lennart Karl - 2 **1.20**  ·  Nathaniel Brown - 2 **1.33**  ·  Bara Ndiaye - 2 **1.50**  ·  Aleksandar Pavlovic - 2 **1.83**  ·  Alphonso Davies - 2 **2.25**  ·  Konrad Laimer - 2 **2.38**  ·  Hiroki Ito - 2 **2.10**  ·  Joshua Kimmich - 2 **2.10**  ·  Jonathan Tah - 2 **2.38**  ·  Sacha Boey - 2 **2.38**  ·  Dayot Upamecano - 2 **3.75**  ·  Josip Stanisic - 2 **3.75**  ·  Min-Jae Kim - 2 **4.33**  ·  Harry Kane - 3 **1.10**  ·  Ismael Saibari - 3 **1.22**  ·  Michael Olise - 3 **1.22**  ·  Luis Diaz - 3 **1.30**  ·  Jamal Musiala - 3 **1.36**  ·  Lennart Karl - 3 **1.57**  ·  Nathaniel Brown - 3 **1.91**  ·  Bara Ndiaye - 3 **2.50**  ·  Aleksandar Pavlovic - 3 **3.50**  ·  Alphonso Davies - 3 **5.00**  ·  Konrad Laimer - 3 **5.50**  ·  Hiroki Ito - 3 **4.33**  ·  Joshua Kimmich - 3 **4.33**  ·  Jonathan Tah - 3 **5.50**  ·  Sacha Boey - 3 **5.50**  ·  Dayot Upamecano - 3 **11.00**  ·  Josip Stanisic - 3 **11.00**  ·  Min-Jae Kim - 3 **13.00**  ·  Harry Kane - 4 **1.25**  ·  Ismael Saibari - 4 **1.57**  ·  Michael Olise - 4 **1.57**  ·  Luis Diaz - 4 **1.73**  ·  Jamal Musiala - 4 **1.83**  ·  Lennart Karl - 4 **2.38**  ·  Nathaniel Brown - 4 **3.40**  ·  Bara Ndiaye - 4 **4.50**  ·  Aleksandar Pavlovic - 4 **8.00**  ·  Alphonso Davies - 4 **11.00**  ·  Konrad Laimer - 4 **13.00**  ·  Hiroki Ito - 4 **11.00**  ·  Joshua Kimmich - 4 **11.00**  ·  Jonathan Tah - 4 **13.00**  ·  Sacha Boey - 4 **13.00**  ·  Dayot Upamecano - 4 **21.00**  ·  Josip Stanisic - 4 **21.00**  ·  Harry Kane - 5 **1.57**  ·  Ismael Saibari - 5 **2.20**  ·  Michael Olise - 5 **2.20**  ·  Luis Diaz - 5 **2.62**  ·  Jamal Musiala - 5 **2.75**  ·  Lennart Karl - 5 **4.00**  ·  Nathaniel Brown - 5 **6.00**  ·  Bara Ndiaye - 5 **10.00**  ·  Aleksandar Pavlovic - 5 **17.00**  ·  Alphonso Davies - 5 **21.00**  ·  Hiroki Ito - 5 **21.00**  ·  Joshua Kimmich - 5 **21.00**  ·  Harry Kane - 6 **2.10**  ·  Ismael Saibari - 6 **3.50**  ·  Michael Olise - 6 **3.50**  ·  Luis Diaz - 6 **4.00**  ·  Jamal Musiala - 6 **4.50**  ·  Lennart Karl - 6 **8.00**  ·  Nathaniel Brown - 6 **13.00**  ·  Bara Ndiaye - 6 **19.00**  ·  Harry Kane - 7 **3.00**  ·  Ismael Saibari - 7 **5.50**  ·  Michael Olise - 7 **5.50**  ·  Luis Diaz - 7 **7.00**  ·  Jamal Musiala - 7 **9.00**  ·  Lennart Karl - 7 **15.00**  ·  Nathaniel Brown - 7 **21.00**  ·  Harry Kane - 8 **4.50**  ·  Ismael Saibari - 8 **10.00**  ·  Michael Olise - 8 **10.00**  ·  Luis Diaz - 8 **13.00**  ·  Jamal Musiala - 8 **15.00**  ·  Lennart Karl - 8 **21.00**  ·  Harry Kane - 9 **8.00**  ·  Ismael Saibari - 9 **19.00**  ·  Michael Olise - 9 **19.00**  ·  Luis Diaz - 9 **21.00**  ·  Jamal Musiala - 9 **21.00**  ·  Harry Kane - 10 **13.00**  ·  Harry Kane - 11 **21.00**  ·  Luis Diaz - 1 **1.01**  ·  Tom Bischof - 1 **1.06**  ·  Tom Bischof - 2 **1.33**  ·  Tom Bischof - 3 **1.91**  ·  Tom Bischof - 4 **3.40**  ·  Tom Bischof - 5 **6.50**  ·  Tom Bischof - 6 **13.00**  ·  Tom Bischof - 7 **21.00**  ·  Serge Gnabry - 2 **1.20**  ·  Serge Gnabry - 3 **1.57**  ·  Serge Gnabry - 4 **2.38**  ·  Serge Gnabry - 5 **4.00**  ·  Serge Gnabry - 6 **8.00**  ·  Serge Gnabry - 7 **15.00**  ·  Serge Gnabry - 8 **21.00**  ·  Serge Gnabry - 1 **1.03**
@@ -186,7 +194,7 @@ _Sin bajas comunicadas por ahora._
 | Filippo Mané | D | 2 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,18 · visitante 0,85 · córners esperados 10,3._
+_Goles esperados: local 2,18 · visitante 0,84 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -198,11 +206,11 @@ _Goles esperados: local 2,18 · visitante 0,85 · córners esperados 10,3._
 | Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -5% |
 | Ambos marcan: No | 49% | 34% | 42% | 2.75 | +14% |
 | Ambos marcan: Sí | 51% | 66% | 58% | 1.40 | -18% |
-| Goles más/menos: Más de 2.5 | 58% | 78% | 68% | 1.22 | -17% |
+| Goles más/menos: Más de 2.5 | 58% | 79% | 69% | 1.20 | -18% |
 | Goles más/menos: Más de 3.5 | 36% | 62% | 49% | 1.53 | -25% |
 | Goles más/menos: Más de 4.5 | 19% | 43% | 31% | 2.20 | -32% |
 | Goles más/menos: Más de 5.5 | 9% | 27% | 18% | 3.50 | -38% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 22% | 32% | 4.33 | +38% |
+| Goles más/menos: Menos de 2.5 ✅ | 42% | 21% | 31% | 4.50 | +42% |
 | Goles más/menos: Menos de 3.5 | 64% | 38% | 51% | 2.50 | +28% |
 | Goles más/menos: Menos de 4.5 | 81% | 57% | 69% | 1.67 | +15% |
 | Goles más/menos: Menos de 5.5 | 91% | 73% | 82% | 1.30 | +7% |
@@ -220,6 +228,8 @@ _Goles esperados: local 2,18 · visitante 0,85 · córners esperados 10,3._
 | Goles del visitante: Más de 1.5 | 21% | 38% | 29% | 2.50 | -27% |
 | Goles del visitante: Menos de 0.5 ✅ | 43% | 28% | 35% | 3.40 | +20% |
 | Goles del visitante: Menos de 1.5 | 79% | 62% | 71% | 1.50 | +6% |
+| Córners más/menos: Más de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Córners más/menos: Menos de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
 | 1X2 descanso: X | 38% | 29% | 33% | 3.20 | +7% |
 | 1X2 descanso: 1 | 48% | 56% | 52% | 1.67 | -13% |
 

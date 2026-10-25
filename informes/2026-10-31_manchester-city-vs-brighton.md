@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.67**  ·  X **4.10**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.15**
@@ -214,7 +214,7 @@ _Goles esperados: local 1,51 · visitante 1,64 · córners esperados 10,7._
 | Goles del visitante: Menos de 0.5 | 19% | 29% | 24% | 3.25 | -21% |
 | Goles del visitante: Menos de 1.5 | 51% | 65% | 58% | 1.44 | -17% |
 | 1X2 descanso: 2 | 32% | 22% | 27% | 4.33 | +16% |
-| 1X2 descanso: X | 39% | 36% | 38% | 2.60 | -2% |
+| 1X2 descanso: X | 40% | 36% | 38% | 2.60 | -2% |
 | 1X2 descanso: 1 | 29% | 42% | 36% | 2.20 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

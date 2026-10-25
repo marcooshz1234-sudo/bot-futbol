@@ -1,26 +1,26 @@
 # Paris Saint Germain – Lyon
 **Ligue 1** · Regular Season - 8 · 26/10/2026 20:30 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
-- **1X2:** 1 **1.42**  ·  X **5.25**  ·  2 **6.00**
+- **1X2:** 1 **1.42**  ·  X **5.50**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **3.00**
-    - 3,5: más **2.00** · menos **1.80**
+    - 2,5: más **1.36** · menos **3.20**
+    - 3,5: más **1.91** · menos **1.91**
     - 4,5: más **3.20** · menos **1.36**
     - 5,5: más **5.50** · menos **1.14**
-    - 6,5: más **11.00** · menos **1.05**
+    - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
@@ -30,14 +30,14 @@ _Actualizadas: 24/10 14:45_
 - **Goles del visitante:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
     - 10: más **1.92** · menos **1.88**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
     - 4,5: más **2.20** · menos **1.62**
-- **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **5.50**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.88**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
     - 1,5: más **1.57** · menos **2.25**
@@ -48,12 +48,12 @@ _Actualizadas: 24/10 14:45_
 - **To Win Either Half:** 1 **1.22**  ·  2 **3.00**
 - **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **5.00**
 - **Win Both Halves:** 1 **3.25**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **23.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.75**
+- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **6.00**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **26.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.75**
 - **Home Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
-    - 3,5: más **2.10** · menos **1.67**
+    - 3,5: más **2.25** · menos **1.57**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Home Team Total Cards:**
     - 1,5: más **1.80** · menos **1.91**
@@ -208,23 +208,23 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Rémy Descamps | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,41 · visitante 1,00 · córners esperados 9,4._
+_Goles esperados: local 2,42 · visitante 1,00 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 14% | 16% | 15% | 6.00 | -11% |
-| 1X2: X | 18% | 18% | 18% | 5.25 | -7% |
-| 1X2: 1 | 68% | 66% | 67% | 1.42 | -4% |
-| Doble oportunidad: X2 | 32% | 34% | 33% | 2.75 | -9% |
+| 1X2: X | 18% | 17% | 17% | 5.50 | -4% |
+| 1X2: 1 | 69% | 67% | 68% | 1.42 | -4% |
+| Doble oportunidad: X2 | 31% | 34% | 33% | 2.75 | -9% |
 | Doble oportunidad: 12 | 82% | 81% | 82% | 1.17 | -4% |
 | Doble oportunidad: 1X | 86% | 85% | 85% | 1.12 | -4% |
 | Ambos marcan: No | 42% | 39% | 41% | 2.38 | -3% |
 | Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
-| Goles más/menos: Más de 2.5 | 66% | 68% | 67% | 1.40 | -6% |
-| Goles más/menos: Más de 3.5 | 44% | 47% | 46% | 2.00 | -8% |
+| Goles más/menos: Más de 2.5 | 66% | 70% | 68% | 1.36 | -7% |
+| Goles más/menos: Más de 3.5 | 45% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 4.5 | 26% | 30% | 28% | 3.20 | -11% |
-| Goles más/menos: Menos de 2.5 | 34% | 32% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 3.5 | 56% | 53% | 54% | 1.80 | -3% |
+| Goles más/menos: Menos de 2.5 | 34% | 30% | 32% | 3.20 | +2% |
+| Goles más/menos: Menos de 3.5 | 55% | 50% | 53% | 1.91 | +1% |
 | Goles más/menos: Menos de 4.5 | 74% | 70% | 72% | 1.36 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 78% | 77% | 1.20 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 49% | 45% | 1.91 | -13% |
@@ -236,7 +236,7 @@ _Goles esperados: local 2,41 · visitante 1,00 · córners esperados 9,4._
 | Goles del local: Más de 2.5 | 43% | 46% | 45% | 2.00 | -10% |
 | Goles del local: Más de 3.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles del local: Menos de 1.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles del local: Menos de 2.5 | 57% | 54% | 55% | 1.73 | -4% |
+| Goles del local: Menos de 2.5 | 57% | 54% | 55% | 1.73 | -5% |
 | Goles del local: Menos de 3.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 63% | 66% | 65% | 1.40 | -9% |
 | Goles del visitante: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
@@ -244,7 +244,7 @@ _Goles esperados: local 2,41 · visitante 1,00 · córners esperados 9,4._
 | Goles del visitante: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
 | Córners más/menos: Más de 9.5 | 44% | 56% | 50% | 1.67 | -17% |
 | Córners más/menos: Menos de 9.5 | 56% | 44% | 50% | 2.10 | +5% |
-| 1X2 descanso: X | 35% | 33% | 34% | 2.75 | -6% |
-| 1X2 descanso: 1 | 50% | 50% | 50% | 1.83 | -9% |
+| 1X2 descanso: X | 35% | 32% | 34% | 2.88 | -3% |
+| 1X2 descanso: 1 | 50% | 51% | 50% | 1.83 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

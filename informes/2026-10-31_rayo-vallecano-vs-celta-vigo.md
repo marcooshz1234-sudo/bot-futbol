@@ -1,10 +1,10 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.25**  ·  X **3.20**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.62**
@@ -27,6 +27,8 @@ _Actualizadas: 24/10 14:45_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -40,6 +42,11 @@ _Actualizadas: 24/10 14:45_
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.50**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.25**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.67** · menos **2.10**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.72**  ·  Menos de 4 **2.08**
 - **Away Player Shots On Target Total:** Miguel Roman **41.00**  ·  Hugo Gonzalez **34.00**  ·  Javier Rueda **67.00**  ·  Aleix Febas **81.00**  ·  Alvaro Nunez **101.00**  ·  Alexandre Alemao **7.00**  ·  Ivan Balliu **151.00**  ·  Pathe Ciss **10.00**  ·  Giorgi Tsitaishvili **51.00**  ·  Ferran Jutgla **29.00**  ·  Mujaid Sadick **21.00**  ·  Couhaib Driouech **41.00**  ·  Alvaro Garcia **29.00**  ·  Isi Palazon **34.00**  ·  Pedro Diaz **34.00**  ·  Oscar Valentin **67.00**  ·  Pelayo Fernandez **17.00**  ·  Abdoulaye Faye **19.00**  ·  Fran Perez **34.00**  ·  Adria Pedrosa **23.00**  ·  Sebastian Caceres **17.00**  ·  Pablo Duran **23.00**  ·  Hugo Alvarez **34.00**  ·  Javier Rodriguez **41.00**  ·  Javier Galan **151.00**  ·  Jones El-Abdellaoui **34.00**  ·  Hugo Burcio **41.00**  ·  Andres Antanon **19.00**  ·  Bouare Gnangoro **9.50**  ·  Andrei Ratiu **81.00**  ·  Florian Lejeune **15.00**  ·  Jorge De Frutos **23.00**  ·  Sergio Camello **26.00**  ·  Borja Iglesias **17.00**  ·  Carl Starfelt **21.00**  ·  Iago Aspas **26.00**  ·  Ilaix Moriba **51.00**  ·  Marcos Alonso **41.00**  ·  Sergio Carreira **101.00**  ·  Williot Swedberg **29.00**  ·  Randy Nteka **15.00**  ·  Cabrera Unai Lopez **67.00**  ·  Rayane Belaid **34.00**  ·  Yoel Lago **34.00**
 - **Anytime Goal Scorer:** Miguel Roman **9.00**  ·  Hugo Gonzalez **3.60**  ·  Javier Rueda **11.00**  ·  Aleix Febas **8.50**  ·  Alvaro Nunez **11.00**  ·  Alexandre Alemao **2.88**  ·  Ivan Balliu **17.00**  ·  Pathe Ciss **7.00**  ·  Giorgi Tsitaishvili **6.00**  ·  Ferran Jutgla **3.20**  ·  Mujaid Sadick **13.00**  ·  Couhaib Driouech **5.00**  ·  Alvaro Garcia **3.40**  ·  Isi Palazon **4.00**  ·  Pedro Diaz **4.00**  ·  Oscar Valentin **11.00**  ·  Pelayo Fernandez **13.00**  ·  Abdoulaye Faye **10.00**  ·  Fran Perez **4.00**  ·  Adria Pedrosa **10.00**  ·  Sebastian Caceres **13.00**  ·  Pablo Duran **3.60**  ·  Hugo Alvarez **5.00**  ·  Javier Rodriguez **11.00**  ·  Javier Galan **17.00**  ·  Jones El-Abdellaoui **6.00**  ·  Hugo Burcio **11.00**  ·  Andres Antanon **6.00**  ·  Bouare Gnangoro **4.00**  ·  Andrei Ratiu **11.00**  ·  Florian Lejeune **7.50**  ·  Jorge De Frutos **3.00**  ·  Sergio Camello **3.00**  ·  Borja Iglesias **3.00**  ·  Carl Starfelt **13.00**  ·  Iago Aspas **3.60**  ·  Ilaix Moriba **8.50**  ·  Marcos Alonso **9.00**  ·  Sergio Carreira **11.00**  ·  Williot Swedberg **4.00**  ·  Randy Nteka **3.20**  ·  Cabrera Unai Lopez **7.50**  ·  Rayane Belaid **4.50**  ·  Yoel Lago **17.00**
 - **Player to Score or Assist:** Miguel Roman **4.33**  ·  Hugo Gonzalez **2.75**  ·  Javier Rueda **5.00**  ·  Aleix Febas **5.50**  ·  Alvaro Nunez **5.00**  ·  Alexandre Alemao **2.30**  ·  Ivan Balliu **6.50**  ·  Pathe Ciss **3.60**  ·  Giorgi Tsitaishvili **3.40**  ·  Ferran Jutgla **2.50**  ·  Mujaid Sadick **9.00**  ·  Couhaib Driouech **3.20**  ·  Alvaro Garcia **2.30**  ·  Isi Palazon **2.62**  ·  Pedro Diaz **2.62**  ·  Oscar Valentin **5.50**  ·  Pelayo Fernandez **7.50**  ·  Abdoulaye Faye **7.00**  ·  Fran Perez **2.50**  ·  Adria Pedrosa **4.75**  ·  Sebastian Caceres **8.00**  ·  Pablo Duran **2.62**  ·  Hugo Alvarez **3.20**  ·  Javier Rodriguez **6.00**  ·  Javier Galan **5.50**  ·  Jones El-Abdellaoui **3.20**  ·  Hugo Burcio **6.00**  ·  Andres Antanon **3.75**  ·  Bouare Gnangoro **2.60**  ·  Andrei Ratiu **4.00**  ·  Florian Lejeune **4.75**  ·  Jorge De Frutos **2.30**  ·  Sergio Camello **2.38**  ·  Borja Iglesias **2.50**  ·  Carl Starfelt **9.50**  ·  Iago Aspas **2.40**  ·  Ilaix Moriba **4.75**  ·  Marcos Alonso **5.50**  ·  Sergio Carreira **5.50**  ·  Williot Swedberg **2.75**  ·  Randy Nteka **2.40**  ·  Cabrera Unai Lopez **3.50**  ·  Rayane Belaid **2.75**  ·  Yoel Lago **8.00**
@@ -177,13 +184,13 @@ _Sin bajas comunicadas por ahora._
 | H. Burcio | M | 7 | 256 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 0,96 · córners esperados 9,5._
+_Goles esperados: local 1,28 · visitante 0,95 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 28% | 30% | 29% | 3.10 | -11% |
 | 1X2: X | 28% | 29% | 29% | 3.20 | -8% |
-| 1X2: 1 | 44% | 41% | 42% | 2.25 | -4% |
+| 1X2: 1 | 44% | 41% | 43% | 2.25 | -4% |
 | Doble oportunidad: X2 | 56% | 59% | 58% | 1.62 | -7% |
 | Doble oportunidad: 12 | 72% | 70% | 71% | 1.36 | -3% |
 | Doble oportunidad: 1X | 72% | 70% | 71% | 1.36 | -3% |
@@ -197,17 +204,19 @@ _Goles esperados: local 1,28 · visitante 0,96 · córners esperados 9,5._
 | Goles más/menos: Menos de 3.5 | 81% | 75% | 78% | 1.28 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -2% |
 | Goles del local: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
 | Goles del local: Más de 1.5 | 37% | 41% | 39% | 2.25 | -13% |
 | Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
 | Goles del local: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
 | Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
+| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +5% |
 | Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -15% |
+| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
+| 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -16% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -4% |
 | 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -8% |
 

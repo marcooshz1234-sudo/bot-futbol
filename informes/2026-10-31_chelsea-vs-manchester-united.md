@@ -1,10 +1,10 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.85**  ·  X **3.75**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.91**
@@ -21,30 +21,30 @@ _Actualizadas: 24/10 14:45_
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.50**  ·  2 **4.00**
+- **1X2 descanso:** 1 **2.38**  ·  X **2.50**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.44**  ·  2 **2.20**
-- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **3.75**
-- **Win Both Halves:** 1 **5.00**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **19.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.40**
-- **Away Player Shots On Target Total:** Moises Caicedo **51.00**  ·  Jorrel Hato **23.00**  ·  Bruno Fernandes **34.00**  ·  Diogo Dalot **101.00**  ·  Lisandro Martinez **41.00**  ·  Shea Lacey **26.00**  ·  Andrey Santos **29.00**  ·  Matheus Cunha **23.00**  ·  Romeo Lavia **15.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **126.00**  ·  Valentin Barco **34.00**  ·  Geovany Quenda **34.00**  ·  Maxence Lacroix **12.00**  ·  Cole Palmer **15.00**  ·  Levi Colwill **17.00**  ·  Malo Gusto **51.00**  ·  Reece James **51.00**  ·  Wesley Fofana **13.00**  ·  Morgan Rogers **26.00**  ·  Youri Tielemans **81.00**  ·  Carlos Baleba **41.00**  ·  Danny Welbeck **7.50**  ·  Bryan Mbeumo **19.00**  ·  Harry Maguire **15.00**  ·  Joshua Zirkzee **19.00**  ·  Kobbie Mainoo **81.00**  ·  Luke Shaw **151.00**  ·  Marcus Rashford **34.00**  ·  Mason Mount **34.00**  ·  Matthijs de Ligt **17.00**  ·  Noussair Mazraoui **67.00**  ·  Estevao **26.00**  ·  Leny Yoro **29.00**  ·  Joao Pedro **8.50**  ·  Benjamin Sesko **8.00**  ·  Pedro Neto **29.00**  ·  Josh Acheampong **26.00**  ·  Marco Palestra **51.00**  ·  Ayden Heaven **21.00**  ·  Patrick Dorgu **19.00**  ·  Jamie Bynoe-Gittens **34.00**
-- **Anytime Goal Scorer:** Moises Caicedo **8.50**  ·  Jorrel Hato **9.50**  ·  Bruno Fernandes **3.75**  ·  Diogo Dalot **11.00**  ·  Lisandro Martinez **17.00**  ·  Shea Lacey **5.50**  ·  Andrey Santos **8.50**  ·  Matheus Cunha **3.75**  ·  Romeo Lavia **7.50**  ·  Pep Chavarria **8.50**  ·  Jordan Henderson **8.50**  ·  Valentin Barco **6.00**  ·  Geovany Quenda **4.00**  ·  Maxence Lacroix **9.50**  ·  Cole Palmer **2.25**  ·  Levi Colwill **9.50**  ·  Malo Gusto **9.50**  ·  Reece James **7.00**  ·  Wesley Fofana **9.50**  ·  Morgan Rogers **2.88**  ·  Youri Tielemans **8.50**  ·  Carlos Baleba **7.50**  ·  Danny Welbeck **2.25**  ·  Bryan Mbeumo **3.75**  ·  Harry Maguire **11.00**  ·  Joshua Zirkzee **3.75**  ·  Kobbie Mainoo **9.50**  ·  Luke Shaw **17.00**  ·  Marcus Rashford **4.00**  ·  Mason Mount **6.00**  ·  Matthijs de Ligt **11.00**  ·  Noussair Mazraoui **17.00**  ·  Estevao **2.88**  ·  Leny Yoro **17.00**  ·  Joao Pedro **2.10**  ·  Benjamin Sesko **2.88**  ·  Pedro Neto **3.50**  ·  Josh Acheampong **9.50**  ·  Marco Palestra **8.50**  ·  Ayden Heaven **13.00**  ·  Patrick Dorgu **5.00**  ·  Jamie Bynoe-Gittens **3.75**
-- **Player to Score or Assist:** Moises Caicedo **4.75**  ·  Jorrel Hato **4.33**  ·  Bruno Fernandes **2.10**  ·  Diogo Dalot **5.50**  ·  Lisandro Martinez **12.00**  ·  Shea Lacey **4.00**  ·  Andrey Santos **5.00**  ·  Matheus Cunha **2.50**  ·  Romeo Lavia **3.75**  ·  Pep Chavarria **3.75**  ·  Jordan Henderson **3.60**  ·  Valentin Barco **2.88**  ·  Geovany Quenda **2.10**  ·  Maxence Lacroix **6.00**  ·  Cole Palmer **1.73**  ·  Levi Colwill **6.00**  ·  Malo Gusto **3.60**  ·  Reece James **3.00**  ·  Wesley Fofana **6.50**  ·  Morgan Rogers **1.91**  ·  Youri Tielemans **4.50**  ·  Carlos Baleba **4.75**  ·  Danny Welbeck **1.91**  ·  Bryan Mbeumo **2.50**  ·  Harry Maguire **8.50**  ·  Joshua Zirkzee **2.88**  ·  Kobbie Mainoo **5.50**  ·  Luke Shaw **8.00**  ·  Marcus Rashford **2.75**  ·  Mason Mount **4.33**  ·  Matthijs de Ligt **7.00**  ·  Noussair Mazraoui **9.50**  ·  Estevao **1.91**  ·  Leny Yoro **11.00**  ·  Joao Pedro **1.67**  ·  Benjamin Sesko **2.40**  ·  Pedro Neto **2.20**  ·  Josh Acheampong **4.50**  ·  Marco Palestra **3.75**  ·  Ayden Heaven **9.00**  ·  Patrick Dorgu **3.60**  ·  Jamie Bynoe-Gittens **2.30**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **19.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
+- **Away Player Shots On Target Total:** Moises Caicedo **51.00**  ·  Jorrel Hato **26.00**  ·  Bruno Fernandes **34.00**  ·  Diogo Dalot **101.00**  ·  Lisandro Martinez **41.00**  ·  Shea Lacey **26.00**  ·  Andrey Santos **29.00**  ·  Matheus Cunha **23.00**  ·  Romeo Lavia **15.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **126.00**  ·  Valentin Barco **34.00**  ·  Geovany Quenda **41.00**  ·  Maxence Lacroix **13.00**  ·  Cole Palmer **15.00**  ·  Levi Colwill **19.00**  ·  Malo Gusto **67.00**  ·  Reece James **67.00**  ·  Wesley Fofana **15.00**  ·  Morgan Rogers **26.00**  ·  Youri Tielemans **81.00**  ·  Carlos Baleba **41.00**  ·  Danny Welbeck **8.00**  ·  Bryan Mbeumo **17.00**  ·  Harry Maguire **15.00**  ·  Joshua Zirkzee **19.00**  ·  Kobbie Mainoo **81.00**  ·  Luke Shaw **151.00**  ·  Marcus Rashford **34.00**  ·  Mason Mount **34.00**  ·  Matthijs de Ligt **17.00**  ·  Noussair Mazraoui **67.00**  ·  Estevao **26.00**  ·  Leny Yoro **29.00**  ·  Joao Pedro **8.50**  ·  Benjamin Sesko **8.00**  ·  Pedro Neto **29.00**  ·  Josh Acheampong **29.00**  ·  Marco Palestra **51.00**  ·  Ayden Heaven **21.00**  ·  Patrick Dorgu **19.00**  ·  Jamie Bynoe-Gittens **34.00**
+- **Anytime Goal Scorer:** Moises Caicedo **8.50**  ·  Jorrel Hato **11.00**  ·  Bruno Fernandes **3.75**  ·  Diogo Dalot **11.00**  ·  Lisandro Martinez **17.00**  ·  Shea Lacey **5.50**  ·  Andrey Santos **8.50**  ·  Matheus Cunha **3.75**  ·  Romeo Lavia **7.50**  ·  Pep Chavarria **8.50**  ·  Jordan Henderson **8.50**  ·  Valentin Barco **6.50**  ·  Geovany Quenda **4.33**  ·  Maxence Lacroix **11.00**  ·  Cole Palmer **2.40**  ·  Levi Colwill **11.00**  ·  Malo Gusto **11.00**  ·  Reece James **7.00**  ·  Wesley Fofana **11.00**  ·  Morgan Rogers **3.00**  ·  Youri Tielemans **8.50**  ·  Carlos Baleba **7.50**  ·  Danny Welbeck **2.40**  ·  Bryan Mbeumo **3.50**  ·  Harry Maguire **11.00**  ·  Joshua Zirkzee **3.75**  ·  Kobbie Mainoo **9.50**  ·  Luke Shaw **17.00**  ·  Marcus Rashford **4.00**  ·  Mason Mount **6.50**  ·  Matthijs de Ligt **11.00**  ·  Noussair Mazraoui **17.00**  ·  Estevao **3.00**  ·  Leny Yoro **17.00**  ·  Joao Pedro **2.10**  ·  Benjamin Sesko **2.88**  ·  Pedro Neto **3.50**  ·  Josh Acheampong **11.00**  ·  Marco Palestra **8.50**  ·  Ayden Heaven **13.00**  ·  Patrick Dorgu **5.00**  ·  Jamie Bynoe-Gittens **3.75**
+- **Player to Score or Assist:** Moises Caicedo **4.75**  ·  Jorrel Hato **4.50**  ·  Bruno Fernandes **2.10**  ·  Diogo Dalot **5.50**  ·  Lisandro Martinez **12.00**  ·  Shea Lacey **4.00**  ·  Andrey Santos **5.00**  ·  Matheus Cunha **2.50**  ·  Romeo Lavia **3.75**  ·  Pep Chavarria **3.75**  ·  Jordan Henderson **3.75**  ·  Valentin Barco **2.88**  ·  Geovany Quenda **2.20**  ·  Maxence Lacroix **6.50**  ·  Cole Palmer **1.73**  ·  Levi Colwill **6.50**  ·  Malo Gusto **3.75**  ·  Reece James **3.00**  ·  Wesley Fofana **7.00**  ·  Morgan Rogers **1.91**  ·  Youri Tielemans **4.50**  ·  Carlos Baleba **4.75**  ·  Danny Welbeck **2.00**  ·  Bryan Mbeumo **2.50**  ·  Harry Maguire **8.50**  ·  Joshua Zirkzee **2.88**  ·  Kobbie Mainoo **5.50**  ·  Luke Shaw **8.00**  ·  Marcus Rashford **2.75**  ·  Mason Mount **4.33**  ·  Matthijs de Ligt **7.00**  ·  Noussair Mazraoui **9.50**  ·  Estevao **1.95**  ·  Leny Yoro **11.00**  ·  Joao Pedro **1.67**  ·  Benjamin Sesko **2.40**  ·  Pedro Neto **2.20**  ·  Josh Acheampong **4.75**  ·  Marco Palestra **3.75**  ·  Ayden Heaven **9.00**  ·  Patrick Dorgu **3.60**  ·  Jamie Bynoe-Gittens **2.38**
 
 ## Estadísticas de equipo
 | | Chelsea (total) | Chelsea en casa | Manchester United (total) | Manchester United fuera |
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | Benjamin Šeško | F | 5 | 140 | 2 | 0 | 4 | 0,8 | 2 | 0,4 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,25 · visitante 1,48 · córners esperados 9,4._
+_Goles esperados: local 2,26 · visitante 1,48 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@ _Goles esperados: local 2,25 · visitante 1,48 · córners esperados 9,4._
 | Doble oportunidad: X2 | 45% | 49% | 47% | 1.91 | -10% |
 | Doble oportunidad: 12 | 80% | 75% | 78% | 1.25 | -3% |
 | Doble oportunidad: 1X | 75% | 75% | 75% | 1.25 | -6% |
-| Ambos marcan: No | 31% | 38% | 34% | 2.50 | -15% |
+| Ambos marcan: No | 31% | 38% | 34% | 2.50 | -14% |
 | Ambos marcan: Sí | 69% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Más de 2.5 | 72% | 62% | 67% | 1.53 | +3% |
 | Goles más/menos: Más de 3.5 ✅ | 51% | 41% | 46% | 2.30 | +7% |
@@ -201,16 +201,16 @@ _Goles esperados: local 2,25 · visitante 1,48 · córners esperados 9,4._
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 58% | 55% | 1.62 | -10% |
-| Goles del local: Más de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
-| Goles del local: Más de 2.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles del local: Menos de 1.5 | 34% | 41% | 38% | 2.25 | -15% |
-| Goles del local: Menos de 2.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles del local: Más de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
+| Goles del local: Más de 2.5 | 39% | 31% | 35% | 3.00 | +6% |
+| Goles del local: Menos de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
+| Goles del local: Menos de 2.5 | 61% | 69% | 65% | 1.36 | -12% |
 | Goles del visitante: Más de 0.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 44% | 38% | 41% | 2.50 | +1% |
+| Goles del visitante: Más de 1.5 | 43% | 38% | 40% | 2.50 | +1% |
 | Goles del visitante: Menos de 0.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del visitante: Menos de 1.5 | 56% | 62% | 59% | 1.50 | -11% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -8% |
+| Goles del visitante: Menos de 1.5 | 57% | 62% | 60% | 1.50 | -11% |
+| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -7% |
 | 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 42% | 40% | 41% | 2.30 | -6% |
+| 1X2 descanso: 1 | 42% | 39% | 41% | 2.38 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

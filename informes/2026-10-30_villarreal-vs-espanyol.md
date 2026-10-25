@@ -1,12 +1,12 @@
 # Villarreal – Espanyol
 **LaLiga** · Regular Season - 11 · 30/10/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
-- **1X2:** 1 **1.57**  ·  X **4.10**  ·  2 **5.25**
+- **1X2:** 1 **1.57**  ·  X **4.20**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.30**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
@@ -29,6 +29,8 @@ _Actualizadas: 24/10 14:45_
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.88** · menos **1.92**
 - **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -41,9 +43,15 @@ _Actualizadas: 24/10 14:45_
 - **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **5.50**
 - **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
 - **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **17.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
-- **Away Player Shots On Target Total:** Roger Hinojo **81.00**  ·  Vanja Drkusic **23.00**  ·  Marcos Fernandez **26.00**  ·  Alex Calatrava **34.00**  ·  Javier Hernandez **41.00**  ·  Roberto Fernandez **13.00**  ·  Nicolas Pepe **21.00**  ·  Georges Mikautadze **19.00**  ·  Santiago Mourino **8.50**  ·  Tyrhys Dolan **17.00**  ·  Clemens Riedel **17.00**  ·  Moreno Gerard **19.00**  ·  Ayoze Perez **9.50**  ·  Urko Gonzalez **29.00**  ·  Quilindschy Hartman **41.00**  ·  Eduardo Exposito **67.00**  ·  Unai Nunez **26.00**  ·  Tajon Buchanan **26.00**  ·  Santiago Comesana **26.00**  ·  Tani Oluwaseyi **11.00**  ·  Alex Freeman **8.50**  ·  Nathan-Dylan Saliba **23.00**  ·  Carlos Macia **15.00**  ·  Alberto Moleiro **15.00**  ·  Ilias Akhomach **23.00**  ·  Pape Gueye **21.00**  ·  Sergi Cardona **29.00**  ·  Victor Mullerat **21.00**  ·  Bryan Zaragoza **41.00**  ·  Gabriel Moscardo **34.00**  ·  Renato Veiga **23.00**  ·  Pau Navarro **11.00**  ·  Logan Costa **17.00**  ·  Juan Foyth **15.00**  ·  Carlos Romero **41.00**  ·  Jofre Carreras **41.00**  ·  Leandro Cabrera **10.00**  ·  Omar El Hilali **151.00**  ·  Pere Milla **13.00**  ·  Pol Lozano **67.00**  ·  Rafael Bauza **51.00**
-- **Anytime Goal Scorer:** Roger Hinojo **13.00**  ·  Vanja Drkusic **17.00**  ·  Marcos Fernandez **4.00**  ·  Alex Calatrava **3.60**  ·  Javier Hernandez **4.50**  ·  Roberto Fernandez **3.25**  ·  Nicolas Pepe **2.30**  ·  Georges Mikautadze **2.05**  ·  Santiago Mourino **6.50**  ·  Tyrhys Dolan **4.50**  ·  Clemens Riedel **13.00**  ·  Moreno Gerard **2.05**  ·  Ayoze Perez **2.05**  ·  Urko Gonzalez **13.00**  ·  Quilindschy Hartman **8.00**  ·  Eduardo Exposito **7.00**  ·  Unai Nunez **13.00**  ·  Tajon Buchanan **3.25**  ·  Santiago Comesana **6.00**  ·  Tani Oluwaseyi **2.30**  ·  Alex Freeman **5.00**  ·  Nathan-Dylan Saliba **5.00**  ·  Carlos Macia **6.00**  ·  Alberto Moleiro **2.50**  ·  Ilias Akhomach **2.62**  ·  Pape Gueye **4.50**  ·  Sergi Cardona **6.50**  ·  Victor Mullerat **4.50**  ·  Bryan Zaragoza **4.50**  ·  Gabriel Moscardo **11.00**  ·  Renato Veiga **7.00**  ·  Pau Navarro **8.00**  ·  Logan Costa **9.50**  ·  Juan Foyth **11.00**  ·  Carlos Romero **5.00**  ·  Jofre Carreras **5.00**  ·  Leandro Cabrera **9.00**  ·  Omar El Hilali **17.00**  ·  Pere Milla **4.00**  ·  Pol Lozano **8.00**  ·  Rafael Bauza **7.00**  ·  Jose Flaco Lopez **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.67** · menos **2.10**
+- **Away Corners Over/Under:**
+    - 3,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):**
+    - 4,5: más **1.98** · menos **1.82**
+- **Away Player Shots On Target Total:** Roger Hinojo **81.00**  ·  Vanja Drkusic **23.00**  ·  Marcos Fernandez **26.00**  ·  Alex Calatrava **34.00**  ·  Javier Hernandez **41.00**  ·  Roberto Fernandez **13.00**  ·  Nicolas Pepe **21.00**  ·  Georges Mikautadze **19.00**  ·  Santiago Mourino **8.50**  ·  Tyrhys Dolan **17.00**  ·  Clemens Riedel **17.00**  ·  Moreno Gerard **19.00**  ·  Ayoze Perez **9.50**  ·  Urko Gonzalez **29.00**  ·  Quilindschy Hartman **51.00**  ·  Eduardo Exposito **67.00**  ·  Unai Nunez **26.00**  ·  Tajon Buchanan **26.00**  ·  Santiago Comesana **26.00**  ·  Tani Oluwaseyi **11.00**  ·  Alex Freeman **8.50**  ·  Nathan-Dylan Saliba **23.00**  ·  Carlos Macia **15.00**  ·  Alberto Moleiro **15.00**  ·  Ilias Akhomach **23.00**  ·  Pape Gueye **21.00**  ·  Sergi Cardona **29.00**  ·  Victor Mullerat **21.00**  ·  Bryan Zaragoza **41.00**  ·  Gabriel Moscardo **34.00**  ·  Renato Veiga **23.00**  ·  Pau Navarro **11.00**  ·  Logan Costa **17.00**  ·  Juan Foyth **15.00**  ·  Carlos Romero **41.00**  ·  Jofre Carreras **41.00**  ·  Leandro Cabrera **10.00**  ·  Omar El Hilali **151.00**  ·  Pere Milla **13.00**  ·  Pol Lozano **67.00**  ·  Rafael Bauza **51.00**
+- **Anytime Goal Scorer:** Roger Hinojo **13.00**  ·  Vanja Drkusic **17.00**  ·  Marcos Fernandez **4.00**  ·  Alex Calatrava **3.60**  ·  Javier Hernandez **4.50**  ·  Roberto Fernandez **3.25**  ·  Nicolas Pepe **2.38**  ·  Georges Mikautadze **2.05**  ·  Santiago Mourino **6.50**  ·  Tyrhys Dolan **4.50**  ·  Clemens Riedel **13.00**  ·  Moreno Gerard **2.05**  ·  Ayoze Perez **2.05**  ·  Urko Gonzalez **13.00**  ·  Quilindschy Hartman **8.00**  ·  Eduardo Exposito **7.00**  ·  Unai Nunez **13.00**  ·  Tajon Buchanan **3.25**  ·  Santiago Comesana **6.00**  ·  Tani Oluwaseyi **2.38**  ·  Alex Freeman **5.00**  ·  Nathan-Dylan Saliba **5.00**  ·  Carlos Macia **6.00**  ·  Alberto Moleiro **2.50**  ·  Ilias Akhomach **2.62**  ·  Pape Gueye **4.50**  ·  Sergi Cardona **6.50**  ·  Victor Mullerat **4.50**  ·  Bryan Zaragoza **4.50**  ·  Gabriel Moscardo **11.00**  ·  Renato Veiga **7.00**  ·  Pau Navarro **8.00**  ·  Logan Costa **10.00**  ·  Juan Foyth **11.00**  ·  Carlos Romero **5.00**  ·  Jofre Carreras **5.00**  ·  Leandro Cabrera **9.00**  ·  Omar El Hilali **17.00**  ·  Pere Milla **4.00**  ·  Pol Lozano **8.00**  ·  Rafael Bauza **7.00**  ·  Jose Flaco Lopez **11.00**
 - **Player to Score or Assist:** Roger Hinojo **6.00**  ·  Vanja Drkusic **9.50**  ·  Marcos Fernandez **3.10**  ·  Alex Calatrava **2.60**  ·  Javier Hernandez **2.88**  ·  Roberto Fernandez **2.50**  ·  Nicolas Pepe **1.67**  ·  Georges Mikautadze **1.57**  ·  Santiago Mourino **3.75**  ·  Tyrhys Dolan **3.00**  ·  Clemens Riedel **7.50**  ·  Moreno Gerard **1.62**  ·  Ayoze Perez **1.62**  ·  Urko Gonzalez **6.50**  ·  Quilindschy Hartman **4.00**  ·  Eduardo Exposito **3.50**  ·  Unai Nunez **11.00**  ·  Tajon Buchanan **2.10**  ·  Santiago Comesana **3.10**  ·  Tani Oluwaseyi **1.67**  ·  Alex Freeman **2.88**  ·  Nathan-Dylan Saliba **3.00**  ·  Carlos Macia **3.20**  ·  Alberto Moleiro **1.80**  ·  Ilias Akhomach **1.83**  ·  Pape Gueye **2.88**  ·  Sergi Cardona **3.50**  ·  Victor Mullerat **3.10**  ·  Bryan Zaragoza **2.88**  ·  Gabriel Moscardo **6.50**  ·  Renato Veiga **4.50**  ·  Pau Navarro **4.75**  ·  Logan Costa **7.50**  ·  Juan Foyth **5.00**  ·  Carlos Romero **2.88**  ·  Jofre Carreras **3.20**  ·  Leandro Cabrera **6.50**  ·  Omar El Hilali **5.50**  ·  Pere Milla **2.75**  ·  Pol Lozano **5.00**  ·  Rafael Bauza **4.00**  ·  Jose Flaco Lopez **5.50**
 
 ## Estadísticas de equipo
@@ -183,15 +191,15 @@ _Goles esperados: local 2,04 · visitante 0,90 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 18% | 17% | 5.25 | -12% |
-| 1X2: X | 21% | 23% | 22% | 4.10 | -11% |
+| 1X2: 2 | 16% | 19% | 17% | 5.00 | -14% |
+| 1X2: X | 20% | 22% | 21% | 4.20 | -11% |
 | 1X2: 1 | 64% | 59% | 62% | 1.57 | -3% |
 | Doble oportunidad: X2 | 36% | 41% | 39% | 2.30 | -11% |
-| Doble oportunidad: 12 | 79% | 78% | 79% | 1.22 | -4% |
+| Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 84% | 81% | 83% | 1.17 | -3% |
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
-| Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -9% |
+| Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -8% |
 | Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
 | Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
 | Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | -1% |
@@ -201,14 +209,16 @@ _Goles esperados: local 2,04 · visitante 0,90 · córners esperados 9,8._
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 41% | 38% | 2.25 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del local: Más de 1.5 | 60% | 61% | 61% | 1.53 | -7% |
-| Goles del local: Más de 2.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del local: Menos de 1.5 | 40% | 39% | 39% | 2.38 | -6% |
-| Goles del local: Menos de 2.5 | 67% | 65% | 66% | 1.44 | -6% |
+| Goles del local: Más de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
+| Goles del local: Más de 2.5 | 34% | 35% | 34% | 2.62 | -10% |
+| Goles del local: Menos de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
+| Goles del local: Menos de 2.5 | 66% | 65% | 66% | 1.44 | -6% |
 | Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
 | Goles del visitante: Más de 1.5 | 23% | 29% | 26% | 3.25 | -16% |
 | Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
 | Goles del visitante: Menos de 1.5 | 77% | 71% | 74% | 1.33 | -1% |
+| Córners más/menos: Más de 9.5 | 48% | 51% | 49% | 1.88 | -7% |
+| Córners más/menos: Menos de 9.5 | 52% | 49% | 51% | 1.92 | -3% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -5% |
 | 1X2 descanso: 1 | 45% | 45% | 45% | 2.05 | -8% |
 

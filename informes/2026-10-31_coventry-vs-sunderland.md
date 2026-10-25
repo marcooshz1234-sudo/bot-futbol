@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.70**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.44**
@@ -192,11 +192,11 @@ _Goles esperados: local 1,17 · visitante 1,37 · córners esperados 8,9._
 | Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 28% | 27% | 3.40 | -9% |
-| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles más/menos: Más de 3.5 | 25% | 28% | 27% | 3.40 | -10% |
+| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | +0% |
 | Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
 | Goles más/menos: Menos de 3.5 | 75% | 72% | 73% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
@@ -205,10 +205,10 @@ _Goles esperados: local 1,17 · visitante 1,37 · córners esperados 8,9._
 | Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -0% |
 | Goles del local: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles del visitante: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
 | Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del visitante: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
-| 1X2 descanso: 2 | 31% | 30% | 30% | 3.10 | -7% |
+| Goles del visitante: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -7% |
+| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -7% |
 | 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 25% | 28% | 27% | 3.25 | -14% |
 

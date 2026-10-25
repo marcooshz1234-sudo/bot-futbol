@@ -1,13 +1,13 @@
 # Rennes – Strasbourg
 **Ligue 1** · Regular Season - 8 · 25/10/2026 17:15 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:44_
+_Actualizadas: 25/10 02:47_
 
-- **1X2:** 1 **1.75**  ·  X **4.50**  ·  2 **3.90**
-- **Doble oportunidad:** 1X **1.25**  ·  12 **1.18**  ·  X2 **2.00**
+- **1X2:** 1 **1.80**  ·  X **4.33**  ·  2 **3.75**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.20**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
@@ -23,20 +23,20 @@ _Actualizadas: 24/10 14:44_
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.50** · menos **2.50**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.73** · menos **2.00**
+    - 9,5: más **1.80** · menos **1.91**
     - 10: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.60**  ·  2 **4.00**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.60**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
@@ -46,14 +46,14 @@ _Actualizadas: 24/10 14:44_
 - **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
 - **To Win Either Half:** 1 **1.40**  ·  2 **2.20**
 - **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **3.75**
-- **Win Both Halves:** 1 **4.50**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **4.75**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **23.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.60**
+- **Win Both Halves:** 1 **5.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **23.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
-    - 5,5: más **1.67** · menos **2.10**
+    - 5,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.83**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.83**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
 - **Home Team Total Cards:**
     - 1,5: más **1.80** · menos **1.91**
 - **Away Team Total Cards:**
@@ -63,15 +63,17 @@ _Actualizadas: 24/10 14:44_
 - **ShotOnTarget 1x2:** 1 **1.40**  ·  X **8.00**  ·  2 **3.75**
 - **Total Shots:**
     - 27,5: más **1.91** · menos **1.80**
+    - 28,5: más **2.00** · menos **1.73**
 - **Shots.1x2:** 1 **1.20**  ·  X **17.00**  ·  2 **4.50**
 - **Home Player Shots On Target Total:** Arnaud Nordin - 1 **1.57**  ·  Eliezer Mayenda - 1 **1.36**  ·  Issa Soumare - 1 **1.44**  ·  Ludovic Blas - 1 **1.53**  ·  Mousa Tamari - 1 **1.50**  ·  Elias Legendre - 1 **1.83**  ·  Sebastian Szymanski - 1 **1.91**  ·  Henrick Do Marcolino - 1 **1.73**  ·  Adrien Thomasson - 1 **2.38**  ·  Djaoui Cisse - 1 **1.83**  ·  Mahdi Camara - 1 **2.38**  ·  Valentin Rongier - 1 **3.00**  ·  Quentin Merlin - 1 **3.40**  ·  Przemyslaw Frankowski - 1 **3.75**  ·  Charlie Cresswell - 1 **3.00**  ·  Anthony Rouault - 1 **4.00**  ·  Bryan Reynolds - 1 **4.00**  ·  Mahamadou Nagida - 1 **2.75**  ·  Abdelhamid Ait Boudlal - 1 **3.40**  ·  Esteban Lepaul - 2 **1.83**  ·  Arnaud Nordin - 2 **3.75**  ·  Eliezer Mayenda - 2 **2.62**  ·  Issa Soumare - 2 **3.00**  ·  Ludovic Blas - 2 **3.75**  ·  Mousa Tamari - 2 **3.40**  ·  Elias Legendre - 2 **5.50**  ·  Sebastian Szymanski - 2 **6.00**  ·  Henrick Do Marcolino - 2 **5.00**  ·  Adrien Thomasson - 2 **10.00**  ·  Djaoui Cisse - 2 **5.50**  ·  Mahdi Camara - 2 **10.00**  ·  Valentin Rongier - 2 **15.00**  ·  Quentin Merlin - 2 **17.00**  ·  Przemyslaw Frankowski - 2 **19.00**  ·  Charlie Cresswell - 2 **15.00**  ·  Anthony Rouault - 2 **21.00**  ·  Bryan Reynolds - 2 **21.00**  ·  Mahamadou Nagida - 2 **13.00**  ·  Abdelhamid Ait Boudlal - 2 **17.00**  ·  Esteban Lepaul - 3 **3.50**  ·  Arnaud Nordin - 3 **11.00**  ·  Eliezer Mayenda - 3 **7.00**  ·  Issa Soumare - 3 **9.00**  ·  Ludovic Blas - 3 **11.00**  ·  Mousa Tamari - 3 **10.00**  ·  Elias Legendre - 3 **19.00**  ·  Sebastian Szymanski - 3 **21.00**  ·  Henrick Do Marcolino - 3 **17.00**  ·  Djaoui Cisse - 3 **19.00**  ·  Esteban Lepaul - 4 **9.00**  ·  Eliezer Mayenda - 4 **19.00**  ·  Issa Soumare - 4 **21.00**  ·  Mousa Tamari - 4 **21.00**  ·  Esteban Lepaul - 5 **21.00**  ·  Esteban Lepaul - 1 **1.17**  ·  Boulaye Dia - 1 **1.44**  ·  Boulaye Dia - 2 **3.25**  ·  Boulaye Dia - 3 **9.00**  ·  Boulaye Dia - 4 **21.00**  ·  Goncalo Oliveira - 1 **3.25**  ·  Goncalo Oliveira - 2 **15.00**
 - **Away Player Shots Total:**
     - 10,5: más **1.91** · menos **1.80**
-- **Home Player Shots:** Arnaud Nordin - 1 **1.01**  ·  Eliezer Mayenda - 1 **1.07**  ·  Issa Soumare - 1 **1.04**  ·  Ludovic Blas - 1 **1.03**  ·  Mousa Tamari - 1 **1.04**  ·  Elias Legendre - 1 **1.08**  ·  Sebastian Szymanski - 1 **1.20**  ·  Henrick Do Marcolino - 1 **1.07**  ·  Adrien Thomasson - 1 **1.25**  ·  Djaoui Cisse - 1 **1.07**  ·  Mahdi Camara - 1 **1.33**  ·  Valentin Rongier - 1 **1.62**  ·  Quentin Merlin - 1 **1.50**  ·  Przemyslaw Frankowski - 1 **1.62**  ·  Charlie Cresswell - 1 **1.62**  ·  Anthony Rouault - 1 **1.73**  ·  Bryan Reynolds - 1 **1.83**  ·  Mahamadou Nagida - 1 **1.22**  ·  Abdelhamid Ait Boudlal - 1 **1.53**  ·  Esteban Lepaul - 2 **1.05**  ·  Arnaud Nordin - 2 **1.11**  ·  Eliezer Mayenda - 2 **1.36**  ·  Issa Soumare - 2 **1.22**  ·  Ludovic Blas - 2 **1.18**  ·  Mousa Tamari - 2 **1.22**  ·  Elias Legendre - 2 **1.44**  ·  Sebastian Szymanski - 2 **1.91**  ·  Henrick Do Marcolino - 2 **1.36**  ·  Adrien Thomasson - 2 **2.10**  ·  Djaoui Cisse - 2 **1.36**  ·  Mahdi Camara - 2 **2.38**  ·  Valentin Rongier - 2 **3.75**  ·  Quentin Merlin - 2 **3.25**  ·  Przemyslaw Frankowski - 2 **3.75**  ·  Charlie Cresswell - 2 **3.75**  ·  Anthony Rouault - 2 **4.33**  ·  Bryan Reynolds - 2 **5.00**  ·  Mahamadou Nagida - 2 **2.00**  ·  Abdelhamid Ait Boudlal - 2 **3.40**  ·  Esteban Lepaul - 3 **1.18**  ·  Arnaud Nordin - 3 **1.33**  ·  Eliezer Mayenda - 3 **2.00**  ·  Issa Soumare - 3 **1.67**  ·  Ludovic Blas - 3 **1.57**  ·  Mousa Tamari - 3 **1.67**  ·  Elias Legendre - 3 **2.25**  ·  Sebastian Szymanski - 3 **3.75**  ·  Henrick Do Marcolino - 3 **2.00**  ·  Adrien Thomasson - 3 **4.33**  ·  Djaoui Cisse - 3 **2.00**  ·  Mahdi Camara - 3 **5.50**  ·  Valentin Rongier - 3 **11.00**  ·  Quentin Merlin - 3 **8.00**  ·  Przemyslaw Frankowski - 3 **11.00**  ·  Charlie Cresswell - 3 **10.00**  ·  Anthony Rouault - 3 **13.00**  ·  Bryan Reynolds - 3 **15.00**  ·  Mahamadou Nagida - 3 **4.00**  ·  Abdelhamid Ait Boudlal - 3 **9.00**  ·  Esteban Lepaul - 4 **1.44**  ·  Arnaud Nordin - 4 **1.83**  ·  Eliezer Mayenda - 4 **3.50**  ·  Issa Soumare - 4 **2.62**  ·  Ludovic Blas - 4 **2.38**  ·  Mousa Tamari - 4 **2.62**  ·  Elias Legendre - 4 **4.00**  ·  Sebastian Szymanski - 4 **8.00**  ·  Henrick Do Marcolino - 4 **3.50**  ·  Adrien Thomasson - 4 **10.00**  ·  Djaoui Cisse - 4 **3.50**  ·  Mahdi Camara - 4 **13.00**  ·  Valentin Rongier - 4 **21.00**  ·  Quentin Merlin - 4 **19.00**  ·  Przemyslaw Frankowski - 4 **21.00**  ·  Charlie Cresswell - 4 **21.00**  ·  Mahamadou Nagida - 4 **9.00**  ·  Abdelhamid Ait Boudlal - 4 **21.00**  ·  Esteban Lepaul - 5 **2.00**  ·  Arnaud Nordin - 5 **2.75**  ·  Eliezer Mayenda - 5 **7.00**  ·  Issa Soumare - 5 **4.33**  ·  Ludovic Blas - 5 **4.00**  ·  Mousa Tamari - 5 **4.33**  ·  Elias Legendre - 5 **8.00**  ·  Sebastian Szymanski - 5 **19.00**  ·  Henrick Do Marcolino - 5 **7.00**  ·  Adrien Thomasson - 5 **21.00**  ·  Djaoui Cisse - 5 **7.00**  ·  Esteban Lepaul - 6 **3.00**  ·  Arnaud Nordin - 6 **4.50**  ·  Eliezer Mayenda - 6 **15.00**  ·  Issa Soumare - 6 **9.00**  ·  Ludovic Blas - 6 **7.00**  ·  Mousa Tamari - 6 **9.00**  ·  Elias Legendre - 6 **17.00**  ·  Henrick Do Marcolino - 6 **15.00**  ·  Djaoui Cisse - 6 **15.00**  ·  Esteban Lepaul - 7 **4.50**  ·  Arnaud Nordin - 7 **8.00**  ·  Eliezer Mayenda - 7 **21.00**  ·  Issa Soumare - 7 **17.00**  ·  Ludovic Blas - 7 **15.00**  ·  Mousa Tamari - 7 **17.00**  ·  Henrick Do Marcolino - 7 **21.00**  ·  Esteban Lepaul - 8 **8.00**  ·  Arnaud Nordin - 8 **15.00**  ·  Ludovic Blas - 8 **21.00**  ·  Esteban Lepaul - 9 **15.00**  ·  Arnaud Nordin - 9 **21.00**  ·  Esteban Lepaul - 10 **21.00**  ·  Boulaye Dia - 1 **1.06**  ·  Boulaye Dia - 2 **1.33**  ·  Boulaye Dia - 3 **2.00**  ·  Boulaye Dia - 4 **3.40**  ·  Boulaye Dia - 5 **6.50**  ·  Boulaye Dia - 6 **13.00**  ·  Boulaye Dia - 7 **21.00**  ·  Djaoui Cisse - 7 **21.00**  ·  Goncalo Oliveira - 1 **1.50**  ·  Goncalo Oliveira - 2 **3.25**  ·  Goncalo Oliveira - 3 **8.00**  ·  Goncalo Oliveira - 4 **19.00**  ·  Mahamadou Nagida - 5 **21.00**
-- **Away Player Shots:** Conrad Harder - 2 **1.40**  ·  Conrad Harder - 3 **2.20**  ·  Conrad Harder - 4 **4.00**  ·  Conrad Harder - 5 **8.00**  ·  Conrad Harder - 6 **17.00**  ·  Conrad Harder - 1 **1.08**  ·  Sekou Mara - 1 **1.17**  ·  Jacobo Ortega - 1 **1.12**  ·  Mateo Del Blanco - 1 **1.22**  ·  Yaya Dieme - 1 **1.17**  ·  Sebastian Nanasi - 1 **1.20**  ·  Pape Diop - 1 **1.28**  ·  Giovanni Reyna - 1 **1.14**  ·  Samuel Amo-Ameyaw - 1 **1.14**  ·  Gessime Yassine - 1 **1.17**  ·  Samir El Mourabet - 1 **1.91**  ·  Diogo Sousa - 1 **1.67**  ·  Fabio Balde - 1 **1.40**  ·  Genesis Antwi - 1 **1.53**  ·  Ismael Doukoure - 1 **1.80**  ·  Lucas Hogsberg - 1 **3.25**  ·  Jeyland Mitchell - 1 **4.00**  ·  Karim Coulibaly - 1 **4.00**  ·  Sekou Mara - 2 **1.73**  ·  Jacobo Ortega - 2 **1.57**  ·  Mateo Del Blanco - 2 **1.91**  ·  Yaya Dieme - 2 **1.73**  ·  Sebastian Nanasi - 2 **1.83**  ·  Pape Diop - 2 **2.20**  ·  Giovanni Reyna - 2 **1.67**  ·  Samuel Amo-Ameyaw - 2 **1.67**  ·  Gessime Yassine - 2 **1.73**  ·  Samir El Mourabet - 2 **5.50**  ·  Diogo Sousa - 2 **3.75**  ·  Fabio Balde - 2 **2.62**  ·  Genesis Antwi - 2 **3.40**  ·  Ismael Doukoure - 2 **4.50**  ·  Lucas Hogsberg - 2 **13.00**  ·  Jeyland Mitchell - 2 **19.00**  ·  Karim Coulibaly - 2 **19.00**  ·  Sekou Mara - 3 **3.00**  ·  Jacobo Ortega - 3 **2.62**  ·  Mateo Del Blanco - 3 **3.75**  ·  Yaya Dieme - 3 **3.00**  ·  Sebastian Nanasi - 3 **3.50**  ·  Pape Diop - 3 **4.50**  ·  Giovanni Reyna - 3 **3.00**  ·  Samuel Amo-Ameyaw - 3 **3.00**  ·  Gessime Yassine - 3 **3.00**  ·  Samir El Mourabet - 3 **17.00**  ·  Diogo Sousa - 3 **11.00**  ·  Fabio Balde - 3 **6.50**  ·  Genesis Antwi - 3 **9.00**  ·  Ismael Doukoure - 3 **13.00**  ·  Sekou Mara - 4 **6.00**  ·  Jacobo Ortega - 4 **5.50**  ·  Mateo Del Blanco - 4 **9.00**  ·  Yaya Dieme - 4 **6.00**  ·  Sebastian Nanasi - 4 **8.00**  ·  Pape Diop - 4 **11.00**  ·  Giovanni Reyna - 4 **6.00**  ·  Samuel Amo-Ameyaw - 4 **6.00**  ·  Gessime Yassine - 4 **6.00**  ·  Diogo Sousa - 4 **21.00**  ·  Fabio Balde - 4 **17.00**  ·  Genesis Antwi - 4 **21.00**  ·  Sekou Mara - 5 **13.00**  ·  Jacobo Ortega - 5 **11.00**  ·  Mateo Del Blanco - 5 **19.00**  ·  Yaya Dieme - 5 **13.00**  ·  Sebastian Nanasi - 5 **17.00**  ·  Pape Diop - 5 **21.00**  ·  Giovanni Reyna - 5 **13.00**  ·  Samuel Amo-Ameyaw - 5 **13.00**  ·  Gessime Yassine - 5 **13.00**  ·  Sekou Mara - 6 **21.00**  ·  Jacobo Ortega - 6 **21.00**  ·  Yaya Dieme - 6 **21.00**  ·  Joaquin Martinez Gauna - 1 **1.28**  ·  Joaquin Martinez Gauna - 2 **2.20**  ·  Joaquin Martinez Gauna - 3 **4.50**  ·  Joaquin Martinez Gauna - 4 **11.00**  ·  Joaquin Martinez Gauna - 5 **21.00**  ·  Dario Essugo - 1 **1.67**  ·  Dario Essugo - 2 **3.75**  ·  Dario Essugo - 3 **11.00**  ·  Dario Essugo - 4 **21.00**  ·  Giovanni Reyna - 6 **21.00**  ·  Samuel Amo-Ameyaw - 6 **21.00**  ·  Tyrese Noubissie - 2 **3.75**  ·  Tyrese Noubissie - 1 **1.62**  ·  Tyrese Noubissie - 3 **10.00**  ·  Tyrese Noubissie - 4 **21.00**  ·  Gessime Yassine - 6 **21.00**
-- **Goalkeeper Saves:** Filip Jorgensen - 2 **1.10**  ·  Filip Jorgensen - 3 **1.36**  ·  Filip Jorgensen - 4 **1.83**  ·  Filip Jorgensen - 5 **3.00**  ·  Filip Jorgensen - 6 **5.50**  ·  Brice Samba - 2 **1.44**  ·  Brice Samba - 3 **2.38**  ·  Brice Samba - 4 **4.50**  ·  Brice Samba - 5 **10.00**  ·  Filip Jorgensen - 7 **11.00**  ·  Brice Samba - 1 **1.08**
-- **Anytime Goal Scorer:** Karim Coulibaly **10.00**  ·  Genesis Antwi **8.00**  ·  Goncalo Oliveira **6.50**  ·  Mahdi Camara **4.33**  ·  Joaquin Martinez Gauna **4.75**  ·  Sebastian Nanasi **4.00**  ·  Lucas Hogsberg **10.00**  ·  Sebastian Szymanski **3.40**  ·  Przemyslaw Frankowski **5.50**  ·  Abdelhamid Ait Boudlal **7.00**  ·  Charlie Cresswell **6.50**  ·  Pape Diop **5.50**  ·  Eliezer Mayenda **2.50**  ·  Issa Soumare **2.75**  ·  Mateo Del Blanco **4.75**  ·  Sekou Mara **3.40**  ·  Ismael Doukoure **9.00**  ·  Quentin Merlin **6.00**  ·  Valentin Rongier **5.50**  ·  Arnaud Nordin **3.20**  ·  Adrien Thomasson **4.00**  ·  Ludovic Blas **3.00**  ·  Djaoui Cisse **4.00**  ·  Mahamadou Nagida **6.50**  ·  Esteban Lepaul **1.91**  ·  Bryan Reynolds **6.50**  ·  Samuel Amo-Ameyaw **4.75**  ·  Jeyland Mitchell **10.00**  ·  Fabio Balde **5.50**  ·  Elias Legendre **3.20**  ·  Conrad Harder **3.20**  ·  Tyrese Noubissie **6.50**  ·  Yoann Becker **9.00**  ·  Yaya Dieme **3.20**  ·  Jacobo Ortega **3.00**  ·  Anthony Rouault **8.00**  ·  Boulaye Dia **2.05**  ·  Dario Essugo **7.00**  ·  Giovanni Reyna **4.75**  ·  Gessime Yassine **4.75**  ·  Diogo Sousa **7.00**  ·  Samir El Mourabet **6.50**  ·  Henrick Do Marcolino **3.40**  ·  Mousa Tamari **2.60**
-- **Player to Score or Assist:** Karim Coulibaly **6.00**  ·  Genesis Antwi **4.75**  ·  Goncalo Oliveira **3.75**  ·  Mahdi Camara **2.75**  ·  Joaquin Martinez Gauna **3.10**  ·  Sebastian Nanasi **2.62**  ·  Lucas Hogsberg **6.50**  ·  Sebastian Szymanski **2.20**  ·  Przemyslaw Frankowski **2.75**  ·  Abdelhamid Ait Boudlal **4.75**  ·  Charlie Cresswell **4.33**  ·  Pape Diop **3.60**  ·  Eliezer Mayenda **2.00**  ·  Issa Soumare **1.91**  ·  Mateo Del Blanco **2.40**  ·  Sekou Mara **2.50**  ·  Ismael Doukoure **5.00**  ·  Quentin Merlin **2.75**  ·  Valentin Rongier **3.25**  ·  Arnaud Nordin **2.10**  ·  Adrien Thomasson **2.30**  ·  Ludovic Blas **2.00**  ·  Djaoui Cisse **2.40**  ·  Mahamadou Nagida **3.75**  ·  Esteban Lepaul **1.62**  ·  Bryan Reynolds **3.50**  ·  Samuel Amo-Ameyaw **3.10**  ·  Jeyland Mitchell **4.50**  ·  Fabio Balde **3.40**  ·  Elias Legendre **1.95**  ·  Conrad Harder **2.30**  ·  Tyrese Noubissie **3.50**  ·  Yoann Becker **6.00**  ·  Yaya Dieme **2.25**  ·  Jacobo Ortega **2.40**  ·  Anthony Rouault **5.00**  ·  Boulaye Dia **1.62**  ·  Dario Essugo **4.75**  ·  Giovanni Reyna **3.00**  ·  Gessime Yassine **2.88**  ·  Diogo Sousa **4.50**  ·  Samir El Mourabet **3.75**  ·  Henrick Do Marcolino **2.20**  ·  Mousa Tamari **1.91**
+    - 11,5: más **2.00** · menos **1.73**
+- **Home Player Shots:** Arnaud Nordin - 1 **1.01**  ·  Eliezer Mayenda - 1 **1.07**  ·  Issa Soumare - 1 **1.04**  ·  Ludovic Blas - 1 **1.03**  ·  Mousa Tamari - 1 **1.04**  ·  Elias Legendre - 1 **1.08**  ·  Sebastian Szymanski - 1 **1.20**  ·  Henrick Do Marcolino - 1 **1.07**  ·  Adrien Thomasson - 1 **1.25**  ·  Djaoui Cisse - 1 **1.07**  ·  Mahdi Camara - 1 **1.33**  ·  Valentin Rongier - 1 **1.62**  ·  Quentin Merlin - 1 **1.50**  ·  Przemyslaw Frankowski - 1 **1.62**  ·  Charlie Cresswell - 1 **1.62**  ·  Anthony Rouault - 1 **1.73**  ·  Bryan Reynolds - 1 **1.83**  ·  Mahamadou Nagida - 1 **1.22**  ·  Abdelhamid Ait Boudlal - 1 **1.53**  ·  Esteban Lepaul - 2 **1.05**  ·  Arnaud Nordin - 2 **1.11**  ·  Eliezer Mayenda - 2 **1.36**  ·  Issa Soumare - 2 **1.22**  ·  Ludovic Blas - 2 **1.18**  ·  Mousa Tamari - 2 **1.22**  ·  Elias Legendre - 2 **1.44**  ·  Sebastian Szymanski - 2 **1.91**  ·  Henrick Do Marcolino - 2 **1.36**  ·  Adrien Thomasson - 2 **2.10**  ·  Djaoui Cisse - 2 **1.36**  ·  Mahdi Camara - 2 **2.38**  ·  Valentin Rongier - 2 **3.75**  ·  Quentin Merlin - 2 **3.25**  ·  Przemyslaw Frankowski - 2 **3.75**  ·  Charlie Cresswell - 2 **3.75**  ·  Anthony Rouault - 2 **4.33**  ·  Bryan Reynolds - 2 **5.00**  ·  Mahamadou Nagida - 2 **2.00**  ·  Abdelhamid Ait Boudlal - 2 **3.40**  ·  Esteban Lepaul - 3 **1.18**  ·  Arnaud Nordin - 3 **1.33**  ·  Eliezer Mayenda - 3 **2.00**  ·  Issa Soumare - 3 **1.67**  ·  Ludovic Blas - 3 **1.57**  ·  Mousa Tamari - 3 **1.67**  ·  Elias Legendre - 3 **2.25**  ·  Sebastian Szymanski - 3 **3.75**  ·  Henrick Do Marcolino - 3 **2.00**  ·  Adrien Thomasson - 3 **4.33**  ·  Djaoui Cisse - 3 **2.00**  ·  Mahdi Camara - 3 **5.50**  ·  Valentin Rongier - 3 **11.00**  ·  Quentin Merlin - 3 **8.00**  ·  Przemyslaw Frankowski - 3 **11.00**  ·  Charlie Cresswell - 3 **10.00**  ·  Anthony Rouault - 3 **13.00**  ·  Bryan Reynolds - 3 **15.00**  ·  Mahamadou Nagida - 3 **4.00**  ·  Abdelhamid Ait Boudlal - 3 **9.00**  ·  Esteban Lepaul - 4 **1.44**  ·  Arnaud Nordin - 4 **1.83**  ·  Eliezer Mayenda - 4 **3.50**  ·  Issa Soumare - 4 **2.62**  ·  Ludovic Blas - 4 **2.38**  ·  Mousa Tamari - 4 **2.62**  ·  Elias Legendre - 4 **4.00**  ·  Sebastian Szymanski - 4 **8.00**  ·  Henrick Do Marcolino - 4 **3.50**  ·  Adrien Thomasson - 4 **10.00**  ·  Djaoui Cisse - 4 **3.50**  ·  Mahdi Camara - 4 **13.00**  ·  Valentin Rongier - 4 **21.00**  ·  Quentin Merlin - 4 **19.00**  ·  Przemyslaw Frankowski - 4 **21.00**  ·  Charlie Cresswell - 4 **21.00**  ·  Mahamadou Nagida - 4 **9.00**  ·  Abdelhamid Ait Boudlal - 4 **21.00**  ·  Esteban Lepaul - 5 **2.00**  ·  Arnaud Nordin - 5 **2.75**  ·  Eliezer Mayenda - 5 **7.00**  ·  Issa Soumare - 5 **4.33**  ·  Ludovic Blas - 5 **4.00**  ·  Mousa Tamari - 5 **4.33**  ·  Elias Legendre - 5 **8.00**  ·  Sebastian Szymanski - 5 **19.00**  ·  Henrick Do Marcolino - 5 **7.00**  ·  Adrien Thomasson - 5 **21.00**  ·  Djaoui Cisse - 5 **7.00**  ·  Esteban Lepaul - 6 **3.00**  ·  Arnaud Nordin - 6 **4.50**  ·  Eliezer Mayenda - 6 **15.00**  ·  Issa Soumare - 6 **9.00**  ·  Ludovic Blas - 6 **7.00**  ·  Mousa Tamari - 6 **9.00**  ·  Elias Legendre - 6 **17.00**  ·  Henrick Do Marcolino - 6 **15.00**  ·  Djaoui Cisse - 6 **15.00**  ·  Esteban Lepaul - 7 **4.50**  ·  Arnaud Nordin - 7 **8.00**  ·  Eliezer Mayenda - 7 **21.00**  ·  Issa Soumare - 7 **17.00**  ·  Ludovic Blas - 7 **15.00**  ·  Mousa Tamari - 7 **17.00**  ·  Henrick Do Marcolino - 7 **21.00**  ·  Esteban Lepaul - 8 **8.00**  ·  Arnaud Nordin - 8 **15.00**  ·  Ludovic Blas - 8 **21.00**  ·  Esteban Lepaul - 9 **15.00**  ·  Arnaud Nordin - 9 **21.00**  ·  Esteban Lepaul - 10 **21.00**  ·  Boulaye Dia - 1 **1.06**  ·  Boulaye Dia - 2 **1.33**  ·  Boulaye Dia - 3 **1.91**  ·  Boulaye Dia - 4 **3.40**  ·  Boulaye Dia - 5 **6.50**  ·  Boulaye Dia - 6 **13.00**  ·  Boulaye Dia - 7 **21.00**  ·  Djaoui Cisse - 7 **21.00**  ·  Goncalo Oliveira - 1 **1.50**  ·  Goncalo Oliveira - 2 **3.25**  ·  Goncalo Oliveira - 3 **8.00**  ·  Goncalo Oliveira - 4 **19.00**  ·  Mahamadou Nagida - 5 **21.00**
+- **Away Player Shots:** Conrad Harder - 2 **1.36**  ·  Conrad Harder - 3 **2.00**  ·  Conrad Harder - 4 **3.50**  ·  Conrad Harder - 5 **6.50**  ·  Conrad Harder - 6 **13.00**  ·  Conrad Harder - 7 **21.00**  ·  Conrad Harder - 1 **1.07**  ·  Sekou Mara - 1 **1.12**  ·  Jacobo Ortega - 1 **1.10**  ·  Mateo Del Blanco - 1 **1.18**  ·  Yaya Dieme - 1 **1.12**  ·  Sebastian Nanasi - 1 **1.17**  ·  Pape Diop - 1 **1.22**  ·  Giovanni Reyna - 1 **1.12**  ·  Samuel Amo-Ameyaw - 1 **1.12**  ·  Gessime Yassine - 1 **1.12**  ·  Samir El Mourabet - 1 **1.83**  ·  Diogo Sousa - 1 **1.57**  ·  Fabio Balde - 1 **1.33**  ·  Genesis Antwi - 1 **1.50**  ·  Ismael Doukoure - 1 **1.73**  ·  Lucas Hogsberg - 1 **3.00**  ·  Jeyland Mitchell - 1 **3.75**  ·  Karim Coulibaly - 1 **3.75**  ·  Sekou Mara - 2 **1.62**  ·  Jacobo Ortega - 2 **1.50**  ·  Mateo Del Blanco - 2 **1.83**  ·  Yaya Dieme - 2 **1.62**  ·  Sebastian Nanasi - 2 **1.73**  ·  Pape Diop - 2 **2.00**  ·  Giovanni Reyna - 2 **1.57**  ·  Samuel Amo-Ameyaw - 2 **1.57**  ·  Gessime Yassine - 2 **1.62**  ·  Samir El Mourabet - 2 **5.00**  ·  Diogo Sousa - 2 **3.50**  ·  Fabio Balde - 2 **2.50**  ·  Genesis Antwi - 2 **3.25**  ·  Ismael Doukoure - 2 **4.00**  ·  Lucas Hogsberg - 2 **11.00**  ·  Jeyland Mitchell - 2 **17.00**  ·  Karim Coulibaly - 2 **17.00**  ·  Sekou Mara - 3 **2.62**  ·  Jacobo Ortega - 3 **2.50**  ·  Mateo Del Blanco - 3 **3.40**  ·  Yaya Dieme - 3 **2.62**  ·  Sebastian Nanasi - 3 **3.25**  ·  Pape Diop - 3 **4.00**  ·  Giovanni Reyna - 3 **2.62**  ·  Samuel Amo-Ameyaw - 3 **2.62**  ·  Gessime Yassine - 3 **2.62**  ·  Samir El Mourabet - 3 **15.00**  ·  Diogo Sousa - 3 **10.00**  ·  Fabio Balde - 3 **5.50**  ·  Genesis Antwi - 3 **8.00**  ·  Ismael Doukoure - 3 **11.00**  ·  Sekou Mara - 4 **5.50**  ·  Jacobo Ortega - 4 **4.50**  ·  Mateo Del Blanco - 4 **7.00**  ·  Yaya Dieme - 4 **5.50**  ·  Sebastian Nanasi - 4 **6.50**  ·  Pape Diop - 4 **9.00**  ·  Giovanni Reyna - 4 **5.00**  ·  Samuel Amo-Ameyaw - 4 **5.00**  ·  Gessime Yassine - 4 **5.50**  ·  Diogo Sousa - 4 **21.00**  ·  Fabio Balde - 4 **15.00**  ·  Genesis Antwi - 4 **19.00**  ·  Sekou Mara - 5 **11.00**  ·  Jacobo Ortega - 5 **10.00**  ·  Mateo Del Blanco - 5 **17.00**  ·  Yaya Dieme - 5 **11.00**  ·  Sebastian Nanasi - 5 **15.00**  ·  Pape Diop - 5 **21.00**  ·  Giovanni Reyna - 5 **11.00**  ·  Samuel Amo-Ameyaw - 5 **11.00**  ·  Gessime Yassine - 5 **11.00**  ·  Sekou Mara - 6 **21.00**  ·  Jacobo Ortega - 6 **19.00**  ·  Yaya Dieme - 6 **21.00**  ·  Joaquin Martinez Gauna - 1 **1.22**  ·  Joaquin Martinez Gauna - 2 **2.00**  ·  Joaquin Martinez Gauna - 3 **4.00**  ·  Joaquin Martinez Gauna - 4 **9.00**  ·  Joaquin Martinez Gauna - 5 **21.00**  ·  Dario Essugo - 1 **1.57**  ·  Dario Essugo - 2 **3.50**  ·  Dario Essugo - 3 **10.00**  ·  Dario Essugo - 4 **21.00**  ·  Giovanni Reyna - 6 **21.00**  ·  Samuel Amo-Ameyaw - 6 **21.00**  ·  Tyrese Noubissie - 2 **3.40**  ·  Tyrese Noubissie - 1 **1.53**  ·  Tyrese Noubissie - 3 **9.00**  ·  Tyrese Noubissie - 4 **21.00**  ·  Gessime Yassine - 6 **21.00**
+- **Goalkeeper Saves:** Filip Jorgensen - 2 **1.10**  ·  Filip Jorgensen - 3 **1.33**  ·  Filip Jorgensen - 4 **1.83**  ·  Filip Jorgensen - 5 **3.00**  ·  Filip Jorgensen - 6 **5.50**  ·  Brice Samba - 2 **1.44**  ·  Brice Samba - 3 **2.38**  ·  Brice Samba - 4 **4.50**  ·  Brice Samba - 5 **11.00**  ·  Filip Jorgensen - 7 **10.00**  ·  Brice Samba - 1 **1.08**
+- **Anytime Goal Scorer:** Karim Coulibaly **10.00**  ·  Genesis Antwi **8.00**  ·  Goncalo Oliveira **6.50**  ·  Mahdi Camara **4.33**  ·  Joaquin Martinez Gauna **4.75**  ·  Sebastian Nanasi **4.00**  ·  Lucas Hogsberg **9.00**  ·  Sebastian Szymanski **3.60**  ·  Przemyslaw Frankowski **5.50**  ·  Abdelhamid Ait Boudlal **7.00**  ·  Charlie Cresswell **6.50**  ·  Pape Diop **5.50**  ·  Eliezer Mayenda **2.50**  ·  Issa Soumare **2.75**  ·  Mateo Del Blanco **4.75**  ·  Sekou Mara **3.40**  ·  Ismael Doukoure **9.00**  ·  Quentin Merlin **6.00**  ·  Valentin Rongier **5.50**  ·  Arnaud Nordin **3.40**  ·  Adrien Thomasson **4.00**  ·  Ludovic Blas **3.00**  ·  Djaoui Cisse **4.00**  ·  Mahamadou Nagida **6.50**  ·  Esteban Lepaul **1.91**  ·  Bryan Reynolds **6.50**  ·  Samuel Amo-Ameyaw **4.75**  ·  Jeyland Mitchell **10.00**  ·  Fabio Balde **5.50**  ·  Elias Legendre **3.40**  ·  Conrad Harder **3.20**  ·  Tyrese Noubissie **6.00**  ·  Yoann Becker **9.00**  ·  Yaya Dieme **3.20**  ·  Jacobo Ortega **2.88**  ·  Anthony Rouault **8.00**  ·  Boulaye Dia **2.05**  ·  Dario Essugo **7.00**  ·  Giovanni Reyna **4.75**  ·  Gessime Yassine **4.75**  ·  Diogo Sousa **7.00**  ·  Samir El Mourabet **6.00**  ·  Henrick Do Marcolino **3.60**  ·  Mousa Tamari **2.60**
+- **Player to Score or Assist:** Karim Coulibaly **6.00**  ·  Genesis Antwi **4.75**  ·  Goncalo Oliveira **3.75**  ·  Mahdi Camara **2.75**  ·  Joaquin Martinez Gauna **3.10**  ·  Sebastian Nanasi **2.62**  ·  Lucas Hogsberg **6.50**  ·  Sebastian Szymanski **2.20**  ·  Przemyslaw Frankowski **2.75**  ·  Abdelhamid Ait Boudlal **4.75**  ·  Charlie Cresswell **4.33**  ·  Pape Diop **3.60**  ·  Eliezer Mayenda **2.00**  ·  Issa Soumare **1.91**  ·  Mateo Del Blanco **2.40**  ·  Sekou Mara **2.50**  ·  Ismael Doukoure **5.00**  ·  Quentin Merlin **2.75**  ·  Valentin Rongier **3.25**  ·  Arnaud Nordin **2.10**  ·  Adrien Thomasson **2.30**  ·  Ludovic Blas **2.05**  ·  Djaoui Cisse **2.40**  ·  Mahamadou Nagida **3.75**  ·  Esteban Lepaul **1.62**  ·  Bryan Reynolds **3.50**  ·  Samuel Amo-Ameyaw **3.10**  ·  Jeyland Mitchell **4.50**  ·  Fabio Balde **3.40**  ·  Elias Legendre **1.95**  ·  Conrad Harder **2.25**  ·  Tyrese Noubissie **3.50**  ·  Yoann Becker **6.00**  ·  Yaya Dieme **2.25**  ·  Jacobo Ortega **2.40**  ·  Anthony Rouault **5.00**  ·  Boulaye Dia **1.62**  ·  Dario Essugo **4.75**  ·  Giovanni Reyna **3.00**  ·  Gessime Yassine **2.88**  ·  Diogo Sousa **4.50**  ·  Samir El Mourabet **3.75**  ·  Henrick Do Marcolino **2.20**  ·  Mousa Tamari **1.91**
 
 ## Estadísticas de equipo
 | | Rennes (total) | Rennes en casa | Strasbourg (total) | Strasbourg fuera |
@@ -127,8 +129,8 @@ _Actualizadas: 24/10 14:44_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Rennes:** E. Lepaul (duda, Ankle Injury); E. Lepaul (duda, Ankle Injury)
-**Strasbourg:** J. Panichelli (baja, Knee Injury); F. Balde (duda, Leg Injury); S. Nanasi (duda, Injury); J. Panichelli (baja, Knee Injury); F. Balde (duda, Leg Injury); S. Nanasi (duda, Injury)
+**Rennes:** E. Lepaul (baja, Ankle Injury); E. Lepaul (baja, Ankle Injury)
+**Strasbourg:** F. Balde (baja, Leg Injury); I. Doukoure (baja, Inactive); S. Nanasi (baja, Injury); J. Panichelli (baja, Knee Injury); F. Balde (baja, Leg Injury); I. Doukoure (baja, Inactive); S. Nanasi (baja, Injury); J. Panichelli (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-19 · Ligue 1: Strasbourg 0-3 Rennes
@@ -207,44 +209,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,56 · visitante 1,39 · córners esperados 9,6._
+_Goles esperados: local 2,58 · visitante 1,40 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 24% | 22% | 3.90 | -15% |
-| 1X2: X | 18% | 21% | 20% | 4.50 | -12% |
-| 1X2: 1 | 63% | 54% | 59% | 1.75 | +3% |
-| Doble oportunidad: X2 | 37% | 47% | 42% | 2.00 | -16% |
-| Doble oportunidad: 12 | 82% | 79% | 81% | 1.18 | -5% |
+| 1X2: 2 | 19% | 25% | 22% | 3.75 | -16% |
+| 1X2: X | 18% | 22% | 20% | 4.33 | -14% |
+| 1X2: 1 | 63% | 53% | 58% | 1.80 | +4% |
+| Doble oportunidad: X2 | 37% | 48% | 42% | 1.95 | -17% |
+| Doble oportunidad: 12 | 82% | 78% | 80% | 1.20 | -4% |
 | Doble oportunidad: 1X | 81% | 75% | 78% | 1.25 | -3% |
-| Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
-| Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 75% | 66% | 71% | 1.44 | +2% |
-| Goles más/menos: Más de 3.5 | 56% | 45% | 50% | 2.10 | +6% |
-| Goles más/menos: Más de 4.5 | 36% | 27% | 32% | 3.50 | +11% |
-| Goles más/menos: Menos de 2.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles más/menos: Menos de 3.5 | 44% | 55% | 50% | 1.73 | -14% |
-| Goles más/menos: Menos de 4.5 | 64% | 73% | 68% | 1.30 | -11% |
+| Ambos marcan: No | 30% | 35% | 33% | 2.62 | -14% |
+| Ambos marcan: Sí | 70% | 65% | 67% | 1.44 | -3% |
+| Goles más/menos: Más de 2.5 | 76% | 66% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 3.5 | 56% | 45% | 51% | 2.10 | +7% |
+| Goles más/menos: Más de 4.5 | 37% | 27% | 32% | 3.50 | +12% |
+| Goles más/menos: Menos de 2.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles más/menos: Menos de 3.5 | 44% | 55% | 49% | 1.73 | -15% |
+| Goles más/menos: Menos de 4.5 | 63% | 73% | 68% | 1.30 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 23% | 22% | 23% | 4.33 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 78% | 77% | 1.20 | -7% |
-| Goles del local: Más de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del local: Más de 2.5 | 47% | 35% | 41% | 2.62 | +8% |
-| Goles del local: Menos de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles del local: Menos de 2.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del local: Más de 1.5 | 73% | 61% | 67% | 1.53 | +2% |
+| Goles del local: Más de 2.5 | 48% | 35% | 42% | 2.62 | +9% |
+| Goles del local: Menos de 1.5 | 27% | 39% | 33% | 2.38 | -21% |
+| Goles del local: Menos de 2.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
-| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del visitante: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +1% |
-| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -14% |
-| 1X2 descanso: X | 33% | 35% | 34% | 2.60 | -11% |
-| 1X2 descanso: 1 | 47% | 42% | 45% | 2.20 | -2% |
+| Goles del visitante: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
+| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles del visitante: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
+| Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.80 | -13% |
+| Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.91 | -2% |
+| 1X2 descanso: 2 | 20% | 23% | 22% | 4.00 | -14% |
+| 1X2 descanso: X | 33% | 36% | 34% | 2.60 | -11% |
+| 1X2 descanso: 1 | 47% | 41% | 44% | 2.25 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

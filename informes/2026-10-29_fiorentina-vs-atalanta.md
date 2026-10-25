@@ -1,10 +1,10 @@
 # Fiorentina – Atalanta
 **Serie A** · Regular Season - 9 · 29/10/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.57**
@@ -201,7 +201,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 25% | 28% | 26% | 3.40 | -11% |
 | 1X2: 1 | 41% | 41% | 41% | 2.30 | -6% |
 | Doble oportunidad: X2 | 59% | 59% | 59% | 1.57 | -7% |
-| Doble oportunidad: 12 | 75% | 72% | 73% | 1.30 | -5% |
+| Doble oportunidad: 12 | 75% | 72% | 73% | 1.30 | -4% |
 | Doble oportunidad: 1X | 66% | 69% | 67% | 1.36 | -9% |
 | Ambos marcan: No | 42% | 41% | 42% | 2.25 | -6% |
 | Ambos marcan: Sí | 58% | 59% | 58% | 1.57 | -8% |
@@ -211,9 +211,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
 | Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
 | Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 70% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Goles del local: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Goles del local: Más de 1.5 | 44% | 46% | 45% | 2.00 | -9% |

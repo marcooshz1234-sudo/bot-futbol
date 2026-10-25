@@ -1,10 +1,10 @@
 # Sassuolo – Lazio
-**Serie A** · Regular Season - 9 · 27/10/2026 18:30 (hora España)
+**Serie A** · Regular Season - 9 · 27/10/2026 18:30 (hora España) · Mapei Stadium – Città del Tricolore
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.90**  ·  X **3.40**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
@@ -60,53 +60,53 @@ _Actualizadas: 24/10 14:45_
 ## Estadísticas de equipo
 | | Sassuolo (total) | Sassuolo en casa | Lazio (total) | Lazio fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 3 | 7 | 4 |
-| Forma (últimos 5) | DDEDV | EVV | VVVEV | VVVV |
-| Balance | 2V 2E 4D | 2V 1E 0D | 6V 1E 0D | 4V 0E 0D |
+| Partidos analizados | 8 | 3 | 8 | 4 |
+| Forma (últimos 5) | DDEDV | EVV | VVVVE | VVVV |
+| Balance | 2V 2E 4D | 2V 1E 0D | 7V 1E 0D | 4V 0E 0D |
 | Goles a favor / partido | 1,50 | 2,00 | 2,00 | 2,00 |
-| Goles en contra / partido | 2,00 | 1,33 | 0,57 | 0,25 |
-| Goles a favor 1ª parte | 0,50 | 0,33 | 0,86 | 0,25 |
-| Goles a favor 2ª parte | 1,00 | 1,67 | 1,14 | 1,75 |
+| Goles en contra / partido | 2,00 | 1,33 | 0,62 | 0,25 |
+| Goles a favor 1ª parte | 0,50 | 0,33 | 0,75 | 0,25 |
+| Goles a favor 2ª parte | 1,00 | 1,67 | 1,25 | 1,75 |
 | Goles en contra 1ª parte | 0,62 | 0,33 | 0,00 | 0,00 |
-| Goles en contra 2ª parte | 1,38 | 1,00 | 0,57 | 0,25 |
-| Más de 1,5 goles | 100% | 100% | 71% | 75% |
-| Más de 2,5 goles | 75% | 67% | 57% | 50% |
-| Más de 3,5 goles | 38% | 33% | 29% | 0% |
-| Ambos marcan | 88% | 100% | 43% | 25% |
-| Portería a cero | 0% | 0% | 57% | 75% |
+| Goles en contra 2ª parte | 1,38 | 1,00 | 0,62 | 0,25 |
+| Más de 1,5 goles | 100% | 100% | 75% | 75% |
+| Más de 2,5 goles | 75% | 67% | 62% | 50% |
+| Más de 3,5 goles | 38% | 33% | 25% | 0% |
+| Ambos marcan | 88% | 100% | 50% | 25% |
+| Portería a cero | 0% | 0% | 50% | 75% |
 | Se queda sin marcar | 12% | 0% | 0% | 0% |
-| xG a favor | 1,50 | 1,35 | 1,44 | 1,16 |
-| xG en contra | 1,45 | 1,18 | 1,24 | 1,32 |
-| Tiros / partido | 14,6 | 13,0 | 12,9 | 12,5 |
-| Tiros a puerta / partido | 5,6 | 5,7 | 4,1 | 3,5 |
-| Tiros recibidos | 15,6 | 13,3 | 12,6 | 12,5 |
-| Tiros a puerta recibidos | 6,5 | 6,0 | 4,7 | 4,8 |
-| Posesión media % | 47 | 43 | 48 | 48 |
-| Córners a favor | 4,2 | 3,3 | 5,1 | 5,8 |
-| Córners en contra | 6,2 | 6,0 | 5,0 | 5,5 |
-| Córners a favor 1ª parte | 2,1 | 1,3 | 2,0 | 2,2 |
+| xG a favor | 1,50 | 1,35 | 1,49 | 1,16 |
+| xG en contra | 1,45 | 1,18 | 1,20 | 1,32 |
+| Tiros / partido | 14,6 | 13,0 | 13,9 | 12,5 |
+| Tiros a puerta / partido | 5,6 | 5,7 | 4,2 | 3,5 |
+| Tiros recibidos | 15,6 | 13,3 | 12,2 | 12,5 |
+| Tiros a puerta recibidos | 6,5 | 6,0 | 4,6 | 4,8 |
+| Posesión media % | 47 | 43 | 51 | 48 |
+| Córners a favor | 4,2 | 3,3 | 5,5 | 5,8 |
+| Córners en contra | 6,2 | 6,0 | 4,8 | 5,5 |
+| Córners a favor 1ª parte | 2,1 | 1,3 | 2,4 | 2,2 |
 | Córners a favor 2ª parte | 2,1 | 2,0 | 3,1 | 3,5 |
-| Córners totales del partido | 10,5 | 9,3 | 10,1 | 11,2 |
-| Córners totales 1ª parte | 4,8 | 4,7 | 5,0 | 5,5 |
-| Córners totales 2ª parte | 5,8 | 4,7 | 5,1 | 5,8 |
-| Más de 8,5 córners | 62% | 33% | 71% | 100% |
-| Más de 9,5 córners | 50% | 33% | 57% | 75% |
-| Más de 10,5 córners | 38% | 33% | 43% | 50% |
-| Faltas cometidas | 9,8 | 11,0 | 12,3 | 10,8 |
+| Córners totales del partido | 10,5 | 9,3 | 10,2 | 11,2 |
+| Córners totales 1ª parte | 4,8 | 4,7 | 5,2 | 5,5 |
+| Córners totales 2ª parte | 5,8 | 4,7 | 5,0 | 5,8 |
+| Más de 8,5 córners | 62% | 33% | 75% | 100% |
+| Más de 9,5 córners | 50% | 33% | 62% | 75% |
+| Más de 10,5 córners | 38% | 33% | 50% | 50% |
+| Faltas cometidas | 9,8 | 11,0 | 11,4 | 10,8 |
 | Faltas recibidas | 12,0 | 11,0 | 11,6 | 13,0 |
-| Amarillas propias | 1,5 | 2,3 | 1,9 | 1,8 |
-| Amarillas del rival | 2,0 | 2,3 | 3,0 | 3,8 |
+| Amarillas propias | 1,5 | 2,3 | 1,8 | 1,8 |
+| Amarillas del rival | 2,0 | 2,3 | 2,8 | 3,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sassuolo | Recibe Sassuolo | Tarjetas Sassuolo | Goles Lazio | Recibe Lazio | Tarjetas Lazio |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 2 | 0 | 2 | 0 | 0 |
-| 16-30' | 1 | 2 | 0 | 2 | 0 | 2 |
+| 16-30' | 1 | 2 | 0 | 2 | 0 | 3 |
 | 31-45' | 2 | 1 | 1 | 2 | 0 | 4 |
-| 46-60' | 2 | 5 | 3 | 3 | 2 | 2 |
+| 46-60' | 2 | 5 | 3 | 5 | 2 | 2 |
 | 61-75' | 2 | 3 | 3 | 2 | 2 | 2 |
-| 76-90' | 4 | 3 | 5 | 3 | 0 | 3 |
+| 76-90' | 4 | 3 | 5 | 3 | 1 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -159,76 +159,74 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lazio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | Serie A | Lazio 2-1 Parma | casa | 8-3 | 21 (5) - 10 (4) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | fuera | 7-5 | 9 (3) - 9 (2) | 2-0 |
 | 2026-10-11 | Serie A | Lazio 3-1 Monza | casa | 7-6 | 17 (7) - 14 (6) | 3-1 |
 | 2026-09-19 | Serie A | Venezia 0-2 Lazio | fuera | 2-7 | 12 (2) - 17 (6) | 0-6 |
 | 2026-09-12 | Serie A | Lazio 2-2 AC Milan | casa | 2-5 | 8 (6) - 16 (7) | 2-3 |
 | 2026-09-07 | Serie A | Udinese 1-2 Lazio | fuera | 8-2 | 19 (6) - 10 (6) | 1-5 |
-| 2026-08-30 | Serie A | Lazio 1-0 Genoa | casa | 4-2 | 15 (2) - 8 (1) | 1-2 |
 
 ## Jugadores de Lazio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Christos Mandas | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Mattia Zaccagni | F | 7 | 622 | 1 | 3 | 14 | 2,0 | 8 | 1,1 | 4 | 12 | 1,7 | 3 | 0 |
-| Oliver Provstgaard | D | 7 | 600 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 12 | 1 | 0,1 | 2 | 0 |
-| Romano Floriani Mussolini | D | 7 | 583 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 9 | 1 | 0,1 | 1 | 0 |
-| Kenneth Taylor | M | 7 | 580 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 9 | 1,3 | 1 | 0 |
-| Davide Frattesi | M | 7 | 536 | 3 | 0 | 6 | 0,9 | 3 | 0,4 | 7 | 11 | 1,6 | 0 | 0 |
-| Nuno Tavares | D | 7 | 504 | 1 | 3 | 7 | 1,0 | 3 | 0,4 | 5 | 8 | 1,1 | 0 | 0 |
-| Reda Belahyane | M | 6 | 503 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 4 | 2 | 0,3 | 1 | 0 |
-| Gustav Isaksen | F | 7 | 329 | 2 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 8 | 1,1 | 1 | 0 |
-| Tijjani Noslin | F | 6 | 327 | 2 | 2 | 6 | 1,0 | 4 | 0,7 | 2 | 4 | 0,7 | 0 | 0 |
+| C. Mandas | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| M. Zaccagni | F | 8 | 699 | 1 | 3 | 17 | 2,1 | 9 | 1,1 | 5 | 14 | 1,8 | 3 | 0 |
+| R. Floriani Mussolini | D | 8 | 673 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 10 | 1 | 0,1 | 1 | 0 |
+| K. Taylor | M | 8 | 651 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 7 | 10 | 1,2 | 1 | 0 |
+| O. Provstgaard | D | 8 | 645 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 1 | 0,1 | 3 | 0 |
+| D. Frattesi | M | 8 | 626 | 3 | 0 | 9 | 1,1 | 3 | 0,4 | 7 | 12 | 1,5 | 0 | 0 |
+| Nuno Tavares | D | 8 | 594 | 1 | 3 | 8 | 1,0 | 3 | 0,4 | 6 | 9 | 1,1 | 0 | 0 |
+| R. Belahyane | M | 7 | 593 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 4 | 3 | 0,4 | 1 | 0 |
+| T. Noslin | F | 7 | 417 | 2 | 2 | 8 | 1,1 | 4 | 0,6 | 2 | 4 | 0,6 | 0 | 0 |
+| G. Isaksen | F | 8 | 406 | 2 | 0 | 13 | 1,6 | 2 | 0,2 | 6 | 11 | 1,4 | 1 | 0 |
+| J. Šutalo | D | 5 | 384 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
 | Danilho Doekhi | D | 4 | 323 | 0 | 1 | 3 | 0,8 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
-| Josip Šutalo | D | 4 | 294 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | Matteo Cancellieri | F | 5 | 293 | 1 | 0 | 6 | 1,2 | 3 | 0,6 | 6 | 6 | 1,2 | 1 | 0 |
 | Boulaye Dia | F | 2 | 159 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+| Pedraza | D | 7 | 151 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
 | Andrea Pinamonti | F | 6 | 144 | 1 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 2 | 0,3 | 0 | 0 |
-| Alfonso Pedraza | D | 6 | 138 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
 | Nicolò Rovella | M | 2 | 127 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
-| Fisayo Dele-Bashiru | M | 3 | 105 | 1 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 2 | 0,7 | 0 | 0 |
-| Diogo Leite | D | 2 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 1 | 0 |
-| Manuel Lazzari | M | 4 | 44 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,5 | 0 | 0 |
+| F. Dele-Bashiru | M | 4 | 124 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 0 | 2 | 0,5 | 0 | 0 |
+| Diogo Leite | D | 3 | 93 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 1 | 0 |
+| M. Lazzari | M | 5 | 57 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,38 · visitante 1,43 · córners esperados 10,1._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,45 · visitante 1,42 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 40% | 39% | 2.35 | -8% |
-| 1X2: X | 25% | 28% | 26% | 3.40 | -10% |
-| 1X2: 1 | 36% | 32% | 34% | 2.90 | -0% |
-| Doble oportunidad: X2 | 64% | 67% | 65% | 1.40 | -8% |
+| 1X2: 2 | 37% | 40% | 38% | 2.35 | -10% |
+| 1X2: X | 25% | 28% | 26% | 3.40 | -11% |
+| 1X2: 1 | 38% | 32% | 35% | 2.90 | +2% |
+| Doble oportunidad: X2 | 62% | 67% | 65% | 1.40 | -10% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 62% | 60% | 61% | 1.57 | -4% |
-| Ambos marcan: No | 43% | 41% | 42% | 2.25 | -5% |
-| Ambos marcan: Sí | 57% | 59% | 58% | 1.57 | -9% |
-| Goles más/menos: Más de 1.5 | 77% | 78% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -6% |
-| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -10% |
-| Goles más/menos: Menos de 1.5 | 23% | 22% | 22% | 4.33 | -3% |
-| Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -4% |
-| Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
-| Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Doble oportunidad: 1X | 63% | 60% | 62% | 1.57 | -3% |
+| Ambos marcan: No | 42% | 41% | 42% | 2.25 | -6% |
+| Ambos marcan: Sí | 58% | 59% | 58% | 1.57 | -8% |
+| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
+| Goles más/menos: Más de 2.5 | 55% | 55% | 55% | 1.73 | -5% |
+| Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -8% |
+| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -5% |
+| Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
+| Goles del local: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles del local: Más de 1.5 | 42% | 41% | 42% | 2.25 | -6% |
+| Goles del local: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -12% |
+| Goles del local: Menos de 1.5 | 58% | 59% | 58% | 1.57 | -9% |
 | Goles del visitante: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles del visitante: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Goles del visitante: Más de 2.5 | 17% | 22% | 20% | 4.33 | -15% |
+| Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -12% |
+| Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
 | Goles del visitante: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles del visitante: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -3% |
-| Goles del visitante: Menos de 2.5 | 83% | 78% | 80% | 1.20 | -3% |
+| Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Córners más/menos: Más de 8.5 | 59% | 54% | 56% | 1.73 | -3% |
-| Córners más/menos: Menos de 8.5 | 41% | 46% | 44% | 2.00 | -12% |
-| 1X2 descanso: 2 | 29% | 32% | 31% | 2.88 | -11% |
+| Córners más/menos: Menos de 8.5 | 41% | 46% | 44% | 2.00 | -13% |
+| 1X2 descanso: 2 | 29% | 32% | 30% | 2.88 | -12% |
 | 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -5% |
-| 1X2 descanso: 1 | 28% | 27% | 28% | 3.40 | -5% |
+| 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

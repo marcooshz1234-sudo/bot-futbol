@@ -1,10 +1,10 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 20:39_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.62**  ·  X **4.33**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.20**  ·  X2 **2.25**
@@ -197,7 +197,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 20% | 19% | 4.75 | -12% |
+| 1X2: 2 | 17% | 20% | 18% | 4.75 | -12% |
 | 1X2: X | 21% | 22% | 21% | 4.33 | -8% |
 | 1X2: 1 | 62% | 58% | 60% | 1.62 | -2% |
 | Doble oportunidad: X2 | 38% | 42% | 40% | 2.25 | -10% |
@@ -205,10 +205,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 83% | 80% | 81% | 1.18 | -4% |
 | Ambos marcan: No | 46% | 38% | 42% | 2.50 | +5% |
 | Ambos marcan: Sí | 54% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 2.5 | 58% | 66% | 62% | 1.44 | -11% |
+| Goles más/menos: Más de 2.5 | 57% | 66% | 62% | 1.44 | -11% |
 | Goles más/menos: Más de 3.5 | 35% | 45% | 40% | 2.10 | -16% |
-| Goles más/menos: Más de 4.5 | 18% | 27% | 23% | 3.50 | -20% |
-| Goles más/menos: Menos de 2.5 | 42% | 34% | 38% | 2.75 | +6% |
+| Goles más/menos: Más de 4.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles más/menos: Menos de 2.5 | 43% | 34% | 38% | 2.75 | +6% |
 | Goles más/menos: Menos de 3.5 | 65% | 55% | 60% | 1.73 | +4% |
 | Goles más/menos: Menos de 4.5 | 82% | 73% | 77% | 1.30 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
@@ -226,7 +226,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 38% | 29% | 34% | 3.25 | +9% |
 | Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Córners más/menos: Más de 9.5 | 42% | 51% | 47% | 1.80 | -16% |
-| Córners más/menos: Menos de 9.5 | 58% | 49% | 53% | 1.91 | +1% |
+| Córners más/menos: Menos de 9.5 | 58% | 49% | 53% | 1.91 | +2% |
 | 1X2 descanso: 2 | 17% | 20% | 18% | 4.50 | -17% |
 | 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -3% |
 | 1X2 descanso: 1 | 44% | 45% | 45% | 2.05 | -9% |

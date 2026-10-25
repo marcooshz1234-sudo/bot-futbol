@@ -1,10 +1,10 @@
 # Racing Santander – Real Madrid
 **LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 20:39_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **9.00**  ·  X **6.25**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.12**  ·  X2 **1.07**
@@ -12,11 +12,11 @@ _Actualizadas: 24/10 20:39_
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
     - 2,5: más **1.22** · menos **4.33**
-    - 3,5: más **1.62** · menos **2.30**
+    - 3,5: más **1.57** · menos **2.38**
     - 4,5: más **2.30** · menos **1.62**
     - 5,5: más **3.75** · menos **1.28**
-    - 6,5: más **6.50** · menos **1.11**
-    - 7,5: más **13.00** · menos **1.04**
+    - 6,5: más **6.00** · menos **1.12**
+    - 7,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
@@ -32,6 +32,8 @@ _Actualizadas: 24/10 20:39_
     - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 10,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **7.00**  ·  X **3.20**  ·  2 **1.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.07** · menos **9.00**
@@ -46,6 +48,11 @@ _Actualizadas: 24/10 20:39_
 - **Win Both Halves:** 1 **29.00**  ·  2 **2.50**
 - **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **2.05**  ·  Home/No **21.00**  ·  Draw/No **34.00**  ·  Away/No **3.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **5.00**
+- **Home Corners Over/Under:**
+    - 3,5: más **2.20** · menos **1.62**
+- **Away Corners Over/Under:**
+    - 6,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
 - **Away Player Shots On Target Total:** Pablo Ramon **51.00**  ·  Yan Diomande **8.50**  ·  Pablo Garcia **41.00**  ·  Aaron Martin **126.00**  ·  Andres Martin **26.00**  ·  Carlos Espi **3.75**  ·  Juan Carlos Arana **13.00**  ·  Alvaro Mantilla **101.00**  ·  Inigo Vicente **81.00**  ·  Jorge Salinas **17.00**  ·  Maguette Gueye **17.00**  ·  Manu Hernando **41.00**  ·  Inigo Sainz-Maza **34.00**  ·  Ibrahima Konate **10.00**  ·  Aurelien Tchouameni **17.00**  ·  Antonio Rudiger **9.50**  ·  Arda Guler **29.00**  ·  Giorgi Guliashvili **17.00**  ·  Bernardo Silva **41.00**  ·  Thiago Pitarch **34.00**  ·  Pedro Felipe dos Santos **23.00**  ·  Gustavo Puerta **34.00**  ·  Jeanuel Belocian **23.00**  ·  Kylian Mbappe **15.00**  ·  Ivan Martin **67.00**  ·  Andre Almeida **26.00**  ·  Facundo Gonzalez **17.00**  ·  Sergio Canales **29.00**  ·  Brahim Diaz **29.00**  ·  Iker Luque **23.00**  ·  Alvaro Carreras **51.00**  ·  Marc Cucurella **19.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **34.00**  ·  Jude Bellingham **11.00**  ·  Dean Huijsen **8.50**  ·  Yassir Zabiri **12.00**  ·  Asier Villalibre **10.00**  ·  Diego Diaz **23.00**  ·  Matteo Prati **67.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.50**  ·  Endrick **13.00**  ·  Denzel Dumfries **11.00**
 - **Anytime Goal Scorer:** Pablo Ramon **17.00**  ·  Yan Diomande **2.30**  ·  Pablo Garcia **5.00**  ·  Aaron Martin **13.00**  ·  Andres Martin **2.88**  ·  Carlos Espi **1.67**  ·  Juan Carlos Arana **3.40**  ·  Alvaro Mantilla **17.00**  ·  Inigo Vicente **6.00**  ·  Jorge Salinas **11.00**  ·  Maguette Gueye **9.00**  ·  Manu Hernando **17.00**  ·  Inigo Sainz-Maza **7.50**  ·  Ibrahima Konate **7.00**  ·  Aurelien Tchouameni **5.50**  ·  Antonio Rudiger **7.00**  ·  Arda Guler **3.40**  ·  Giorgi Guliashvili **3.60**  ·  Bernardo Silva **4.50**  ·  Thiago Pitarch **3.60**  ·  Pedro Felipe dos Santos **13.00**  ·  Gustavo Puerta **9.00**  ·  Jeanuel Belocian **13.00**  ·  Kylian Mbappe **1.36**  ·  Ivan Martin **11.00**  ·  Andre Almeida **5.50**  ·  Facundo Gonzalez **13.00**  ·  Sergio Canales **3.10**  ·  Brahim Diaz **3.40**  ·  Iker Luque **5.00**  ·  Alvaro Carreras **6.00**  ·  Marc Cucurella **7.00**  ·  Trent Alexander-Arnold **6.00**  ·  Federico Valverde **4.00**  ·  Jude Bellingham **2.88**  ·  Dean Huijsen **6.00**  ·  Yassir Zabiri **3.10**  ·  Asier Villalibre **3.10**  ·  Diego Diaz **5.00**  ·  Matteo Prati **7.50**  ·  Eduardo Camavinga **5.50**  ·  Eder Militao **6.00**  ·  Endrick **2.05**  ·  Denzel Dumfries **4.50**
 - **Player to Score or Assist:** Pablo Ramon **11.00**  ·  Yan Diomande **1.53**  ·  Pablo Garcia **3.60**  ·  Aaron Martin **3.75**  ·  Andres Martin **2.10**  ·  Carlos Espi **1.40**  ·  Juan Carlos Arana **2.88**  ·  Alvaro Mantilla **10.00**  ·  Inigo Vicente **2.88**  ·  Jorge Salinas **4.75**  ·  Maguette Gueye **6.00**  ·  Manu Hernando **13.00**  ·  Inigo Sainz-Maza **5.50**  ·  Ibrahima Konate **4.00**  ·  Aurelien Tchouameni **3.25**  ·  Antonio Rudiger **4.33**  ·  Arda Guler **1.57**  ·  Giorgi Guliashvili **2.62**  ·  Bernardo Silva **2.40**  ·  Thiago Pitarch **2.10**  ·  Gustavo Puerta **5.00**  ·  Jeanuel Belocian **9.50**  ·  Kylian Mbappe **1.18**  ·  Ivan Martin **5.50**  ·  Andre Almeida **3.50**  ·  Facundo Gonzalez **10.00**  ·  Sergio Canales **2.10**  ·  Brahim Diaz **1.83**  ·  Iker Luque **3.10**  ·  Alvaro Carreras **3.40**  ·  Marc Cucurella **3.25**  ·  Trent Alexander-Arnold **2.10**  ·  Federico Valverde **2.20**  ·  Jude Bellingham **1.80**  ·  Dean Huijsen **3.75**  ·  Yassir Zabiri **2.50**  ·  Asier Villalibre **2.50**  ·  Diego Diaz **3.10**  ·  Matteo Prati **5.50**  ·  Eduardo Camavinga **3.40**  ·  Eder Militao **4.00**  ·  Endrick **1.44**  ·  Denzel Dumfries **2.20**  ·  Pedro Felipe **7.00**
@@ -181,26 +188,26 @@ _Sin bajas comunicadas por ahora._
 | Carlos Espí | F | 8 | 60 | 3 | 0 | 7 | 0,9 | 4 | 0,5 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 3,15 · córners esperados 11,1._
+_Goles esperados: local 1,22 · visitante 3,14 · córners esperados 11,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 75% | 75% | 75% | 1.25 | -6% |
-| 1X2: X | 13% | 15% | 14% | 6.25 | -12% |
-| 1X2: 1 | 11% | 10% | 11% | 9.00 | -3% |
+| 1X2: X | 13% | 15% | 14% | 6.25 | -11% |
+| 1X2: 1 | 11% | 10% | 11% | 9.00 | -2% |
 | Doble oportunidad: X2 | 89% | 89% | 89% | 1.07 | -5% |
 | Doble oportunidad: 12 | 87% | 85% | 86% | 1.12 | -4% |
 | Doble oportunidad: 1X | 25% | 25% | 25% | 3.75 | -6% |
 | Ambos marcan: No | 33% | 38% | 35% | 2.50 | -12% |
 | Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
 | Goles más/menos: Más de 2.5 | 81% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Más de 4.5 | 44% | 41% | 43% | 2.30 | -1% |
-| Goles más/menos: Más de 5.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles más/menos: Menos de 2.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles más/menos: Menos de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
+| Goles más/menos: Más de 3.5 | 63% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 4.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Más de 5.5 | 27% | 25% | 26% | 3.75 | -1% |
+| Goles más/menos: Menos de 2.5 | 19% | 22% | 20% | 4.33 | -11% |
+| Goles más/menos: Menos de 3.5 | 37% | 40% | 38% | 2.38 | -9% |
 | Goles más/menos: Menos de 4.5 | 56% | 59% | 57% | 1.62 | -7% |
-| Goles más/menos: Menos de 5.5 | 72% | 75% | 74% | 1.28 | -6% |
+| Goles más/menos: Menos de 5.5 | 73% | 75% | 74% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
@@ -211,13 +218,15 @@ _Goles esperados: local 1,22 · visitante 3,15 · córners esperados 11,1._
 | Goles del local: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles del visitante: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles del visitante: Más de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del visitante: Más de 3.5 | 39% | 38% | 38% | 2.50 | -5% |
+| Goles del visitante: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles del visitante: Más de 4.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles del visitante: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
 | Goles del visitante: Menos de 2.5 | 39% | 42% | 41% | 2.20 | -10% |
-| Goles del visitante: Menos de 3.5 | 61% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles del visitante: Menos de 4.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Córners más/menos: Más de 10.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Córners más/menos: Menos de 10.5 | 50% | 50% | 50% | 1.83 | -8% |
 | 1X2 descanso: 2 | 57% | 58% | 57% | 1.62 | -7% |
-| 1X2 descanso: X | 29% | 29% | 29% | 3.20 | -8% |
+| 1X2 descanso: X | 29% | 29% | 29% | 3.20 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

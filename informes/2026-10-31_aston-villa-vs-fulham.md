@@ -1,13 +1,13 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:46_
+_Actualizadas: 25/10 02:47_
 
-- **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.50**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
+- **1X2:** 1 **1.95**  ·  X **3.75**  ·  2 **3.60**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -18,7 +18,7 @@ _Actualizadas: 24/10 14:46_
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.18** · menos **4.50**
@@ -29,7 +29,7 @@ _Actualizadas: 24/10 14:46_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.30**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.30**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -38,13 +38,13 @@ _Actualizadas: 24/10 14:46_
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.33**
-- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **6.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.62**
-- **Away Player Shots On Target Total:** Brian Madjo **9.00**  ·  Victor Lindelof **21.00**  ·  David Affengruber **15.00**  ·  Alysson Edward **26.00**  ·  Shea Charles **34.00**  ·  George Hemmings **51.00**  ·  Kevin Macedo **29.00**  ·  Joshua King **23.00**  ·  Ibrahim Mbaye **21.00**  ·  Emiliano Buendia **21.00**  ·  Cesar Palacios **21.00**  ·  Manuel Angel **81.00**  ·  Nicolas Jackson **12.00**  ·  Alex Iwobi **29.00**  ·  Antonee Robinson **81.00**  ·  Calvin Bassey **23.00**  ·  Emile Smith Rowe **29.00**  ·  Joachim Andersen **34.00**  ·  Kenny Tete **67.00**  ·  Matty Cash **101.00**  ·  Pau Torres **26.00**  ·  Ross Barkley **51.00**  ·  Sander Berge **67.00**  ·  Alejandro Garnacho **34.00**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **126.00**  ·  Tammy Abraham **7.00**  ·  Hugo Larsson **81.00**  ·  Leon Goretzka **34.00**  ·  Ian Maatsen **81.00**  ·  Lamare Bogarde **21.00**  ·  John McGinn **41.00**  ·  Boubacar Kamara **34.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **34.00**  ·  Joao Gomes **67.00**  ·  Harrison Reed **81.00**  ·  Jorge Cuenca **19.00**  ·  Timothy Castagne **34.00**  ·  Rodrigo Muniz **8.00**  ·  Johan Manzambi **15.00**  ·  Gonzalo Garcia **13.00**  ·  Oscar Bobb **101.00**
-- **Anytime Goal Scorer:** Brian Madjo **2.75**  ·  Victor Lindelof **12.00**  ·  David Affengruber **10.00**  ·  Alysson Edward **4.33**  ·  Shea Charles **8.50**  ·  George Hemmings **5.50**  ·  Kevin Macedo **4.50**  ·  Joshua King **3.75**  ·  Ibrahim Mbaye **4.33**  ·  Emiliano Buendia **3.25**  ·  Cesar Palacios **4.50**  ·  Manuel Angel **8.50**  ·  Nicolas Jackson **2.50**  ·  Alex Iwobi **5.50**  ·  Antonee Robinson **15.00**  ·  Calvin Bassey **15.00**  ·  Emile Smith Rowe **4.50**  ·  Joachim Andersen **19.00**  ·  Kenny Tete **15.00**  ·  Matty Cash **10.00**  ·  Pau Torres **12.00**  ·  Ross Barkley **5.50**  ·  Sander Berge **12.00**  ·  Alejandro Garnacho **4.33**  ·  Taylor Harwood-Bellis **10.00**  ·  Aaron Wan-Bissaka **15.00**  ·  Tammy Abraham **2.62**  ·  Hugo Larsson **9.50**  ·  Leon Goretzka **7.00**  ·  Ian Maatsen **8.50**  ·  Lamare Bogarde **12.00**  ·  John McGinn **4.75**  ·  Boubacar Kamara **10.00**  ·  Tyrone Mings **12.00**  ·  Matteo Ruggeri **10.00**  ·  Joao Gomes **7.50**  ·  Harrison Reed **9.50**  ·  Jorge Cuenca **12.00**  ·  Timothy Castagne **9.50**  ·  Rodrigo Muniz **2.75**  ·  Johan Manzambi **3.60**  ·  Gonzalo Garcia **3.10**  ·  Oscar Bobb **5.50**
-- **Player to Score or Assist:** Brian Madjo **2.20**  ·  Victor Lindelof **9.00**  ·  David Affengruber **8.50**  ·  Alysson Edward **2.88**  ·  Shea Charles **5.50**  ·  George Hemmings **3.40**  ·  Kevin Macedo **3.00**  ·  Joshua King **2.62**  ·  Ibrahim Mbaye **2.62**  ·  Emiliano Buendia **2.20**  ·  Cesar Palacios **2.88**  ·  Manuel Angel **4.75**  ·  Nicolas Jackson **2.00**  ·  Alex Iwobi **3.00**  ·  Antonee Robinson **5.50**  ·  Calvin Bassey **11.00**  ·  Emile Smith Rowe **3.25**  ·  Joachim Andersen **9.50**  ·  Kenny Tete **7.50**  ·  Matty Cash **4.75**  ·  Pau Torres **9.00**  ·  Ross Barkley **3.10**  ·  Sander Berge **7.00**  ·  Alejandro Garnacho **2.62**  ·  Taylor Harwood-Bellis **7.50**  ·  Aaron Wan-Bissaka **6.00**  ·  Tammy Abraham **2.10**  ·  Hugo Larsson **5.50**  ·  Leon Goretzka **3.50**  ·  Ian Maatsen **3.50**  ·  Lamare Bogarde **6.00**  ·  John McGinn **2.88**  ·  Boubacar Kamara **5.50**  ·  Tyrone Mings **8.00**  ·  Matteo Ruggeri **4.75**  ·  Joao Gomes **4.75**  ·  Harrison Reed **5.00**  ·  Jorge Cuenca **8.00**  ·  Timothy Castagne **6.00**  ·  Rodrigo Muniz **2.30**  ·  Johan Manzambi **2.38**  ·  Gonzalo Garcia **2.50**  ·  Oscar Bobb **3.00**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.00**
+- **Win Both Halves:** 1 **6.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **13.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
+- **Away Player Shots On Target Total:** Brian Madjo **9.00**  ·  Victor Lindelof **21.00**  ·  David Affengruber **15.00**  ·  Alysson Edward **23.00**  ·  Shea Charles **34.00**  ·  George Hemmings **51.00**  ·  Kevin Macedo **29.00**  ·  Joshua King **23.00**  ·  Ibrahim Mbaye **21.00**  ·  Emiliano Buendia **21.00**  ·  Cesar Palacios **21.00**  ·  Manuel Angel **81.00**  ·  Nicolas Jackson **12.00**  ·  Alex Iwobi **29.00**  ·  Antonee Robinson **81.00**  ·  Calvin Bassey **23.00**  ·  Emile Smith Rowe **29.00**  ·  Joachim Andersen **34.00**  ·  Kenny Tete **67.00**  ·  Matty Cash **101.00**  ·  Pau Torres **26.00**  ·  Ross Barkley **51.00**  ·  Sander Berge **67.00**  ·  Alejandro Garnacho **34.00**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **126.00**  ·  Tammy Abraham **7.00**  ·  Hugo Larsson **101.00**  ·  Leon Goretzka **29.00**  ·  Ian Maatsen **81.00**  ·  Lamare Bogarde **21.00**  ·  John McGinn **41.00**  ·  Boubacar Kamara **34.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **34.00**  ·  Joao Gomes **67.00**  ·  Harrison Reed **101.00**  ·  Jorge Cuenca **19.00**  ·  Timothy Castagne **41.00**  ·  Tom Cairney **34.00**  ·  Rodrigo Muniz **8.50**  ·  Johan Manzambi **11.00**  ·  Gonzalo Garcia **13.00**  ·  Oscar Bobb **101.00**
+- **Anytime Goal Scorer:** Brian Madjo **2.75**  ·  Victor Lindelof **12.00**  ·  David Affengruber **10.00**  ·  Alysson Edward **3.60**  ·  Shea Charles **8.50**  ·  George Hemmings **5.50**  ·  Kevin Macedo **4.50**  ·  Joshua King **3.75**  ·  Ibrahim Mbaye **4.00**  ·  Emiliano Buendia **3.10**  ·  Cesar Palacios **4.50**  ·  Manuel Angel **8.50**  ·  Nicolas Jackson **2.50**  ·  Alex Iwobi **5.50**  ·  Antonee Robinson **15.00**  ·  Calvin Bassey **15.00**  ·  Emile Smith Rowe **4.50**  ·  Joachim Andersen **19.00**  ·  Kenny Tete **15.00**  ·  Matty Cash **10.00**  ·  Pau Torres **12.00**  ·  Ross Barkley **5.50**  ·  Sander Berge **12.00**  ·  Alejandro Garnacho **4.00**  ·  Taylor Harwood-Bellis **10.00**  ·  Aaron Wan-Bissaka **15.00**  ·  Tammy Abraham **2.62**  ·  Hugo Larsson **10.00**  ·  Leon Goretzka **7.00**  ·  Ian Maatsen **8.50**  ·  Lamare Bogarde **12.00**  ·  John McGinn **4.75**  ·  Boubacar Kamara **10.00**  ·  Tyrone Mings **12.00**  ·  Matteo Ruggeri **10.00**  ·  Joao Gomes **7.50**  ·  Harrison Reed **10.00**  ·  Jorge Cuenca **12.00**  ·  Timothy Castagne **10.00**  ·  Tom Cairney **7.00**  ·  Rodrigo Muniz **3.00**  ·  Johan Manzambi **2.75**  ·  Gonzalo Garcia **3.10**  ·  Oscar Bobb **5.50**
+- **Player to Score or Assist:** Brian Madjo **2.20**  ·  Victor Lindelof **9.00**  ·  David Affengruber **8.50**  ·  Alysson Edward **2.50**  ·  Shea Charles **5.50**  ·  George Hemmings **3.40**  ·  Kevin Macedo **3.00**  ·  Joshua King **2.62**  ·  Ibrahim Mbaye **2.50**  ·  Emiliano Buendia **2.05**  ·  Cesar Palacios **2.88**  ·  Manuel Angel **4.75**  ·  Nicolas Jackson **1.95**  ·  Alex Iwobi **3.00**  ·  Antonee Robinson **5.50**  ·  Calvin Bassey **11.00**  ·  Emile Smith Rowe **3.25**  ·  Joachim Andersen **9.50**  ·  Kenny Tete **7.50**  ·  Matty Cash **4.75**  ·  Pau Torres **9.00**  ·  Ross Barkley **3.10**  ·  Sander Berge **7.00**  ·  Alejandro Garnacho **2.60**  ·  Taylor Harwood-Bellis **7.50**  ·  Aaron Wan-Bissaka **6.00**  ·  Tammy Abraham **2.10**  ·  Hugo Larsson **5.50**  ·  Leon Goretzka **3.50**  ·  Ian Maatsen **3.50**  ·  Lamare Bogarde **6.00**  ·  John McGinn **2.88**  ·  Boubacar Kamara **4.75**  ·  Tyrone Mings **8.00**  ·  Matteo Ruggeri **4.75**  ·  Joao Gomes **4.00**  ·  Harrison Reed **5.50**  ·  Jorge Cuenca **8.00**  ·  Timothy Castagne **6.00**  ·  Tom Cairney **3.60**  ·  Rodrigo Muniz **2.40**  ·  Johan Manzambi **1.95**  ·  Gonzalo Garcia **2.50**  ·  Oscar Bobb **3.00**
 
 ## Estadísticas de equipo
 | | Aston Villa (total) | Aston Villa en casa | Fulham (total) | Fulham fuera |
@@ -179,18 +179,18 @@ _Sin bajas comunicadas por ahora._
 | Emile Smith Rowe | M | 4 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,84 · visitante 0,96 · córners esperados 9,6._
+_Goles esperados: local 1,84 · visitante 0,95 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 27% | 23% | 3.50 | -19% |
-| 1X2: X | 23% | 28% | 25% | 3.40 | -15% |
-| 1X2: 1 ✅ | 58% | 46% | 52% | 2.05 | +6% |
-| Doble oportunidad: X2 | 42% | 54% | 48% | 1.73 | -17% |
-| Doble oportunidad: 12 | 77% | 72% | 75% | 1.30 | -3% |
-| Doble oportunidad: 1X | 81% | 73% | 77% | 1.28 | -1% |
+| 1X2: 2 | 19% | 26% | 23% | 3.60 | -18% |
+| 1X2: X | 23% | 25% | 24% | 3.75 | -10% |
+| 1X2: 1 | 58% | 49% | 53% | 1.95 | +4% |
+| Doble oportunidad: X2 | 42% | 52% | 47% | 1.80 | -16% |
+| Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 81% | 73% | 77% | 1.28 | -2% |
 | Ambos marcan: No | 48% | 42% | 45% | 2.20 | -0% |
-| Ambos marcan: Sí | 52% | 58% | 55% | 1.62 | -11% |
+| Ambos marcan: Sí | 52% | 58% | 55% | 1.62 | -12% |
 | Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
 | Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -7% |
 | Goles más/menos: Más de 3.5 | 31% | 34% | 32% | 2.75 | -11% |
@@ -198,21 +198,21 @@ _Goles esperados: local 1,84 · visitante 0,96 · córners esperados 9,6._
 | Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
 | Goles más/menos: Menos de 3.5 | 69% | 66% | 68% | 1.44 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 35% | 34% | 2.62 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del local: Más de 0.5 | 84% | 79% | 82% | 1.18 | -4% |
 | Goles del local: Más de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Goles del local: Más de 2.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles del local: Menos de 0.5 | 16% | 21% | 18% | 4.50 | -17% |
 | Goles del local: Menos de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
 | Goles del local: Menos de 2.5 | 72% | 77% | 74% | 1.22 | -9% |
-| Goles del visitante: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
 | Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del visitante: Menos de 0.5 ✅ | 38% | 29% | 34% | 3.25 | +10% |
+| Goles del visitante: Menos de 0.5 ✅ | 39% | 29% | 34% | 3.25 | +10% |
 | Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
 | 1X2 descanso: 2 | 18% | 25% | 21% | 3.75 | -21% |
-| 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 41% | 35% | 38% | 2.62 | +0% |
+| 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -7% |
+| 1X2 descanso: 1 | 41% | 35% | 38% | 2.60 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

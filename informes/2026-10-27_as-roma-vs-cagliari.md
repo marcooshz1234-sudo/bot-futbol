@@ -1,10 +1,10 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.18**  ·  X2 **3.00**
@@ -191,7 +191,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Mattia Felici | F | 2 | 37 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,51 · visitante 0,60 · córners esperados 9,9._
+_Goles esperados: local 2,50 · visitante 0,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -209,19 +209,19 @@ _Goles esperados: local 2,51 · visitante 0,60 · córners esperados 9,9._
 | Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -13% |
 | Goles más/menos: Menos de 2.5 | 40% | 45% | 43% | 2.10 | -11% |
 | Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
 | Goles del local: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | Goles del local: Más de 2.5 | 46% | 38% | 42% | 2.50 | +4% |
 | Goles del local: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
-| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -13% |
+| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -12% |
 | Goles del visitante: Más de 0.5 | 45% | 51% | 48% | 1.80 | -13% |
 | Goles del visitante: Menos de 0.5 | 55% | 49% | 52% | 1.91 | -1% |
-| Córners más/menos: Más de 9.5 | 49% | 46% | 47% | 2.00 | -5% |
-| Córners más/menos: Menos de 9.5 | 51% | 54% | 53% | 1.73 | -9% |
+| Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
+| Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
 | 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 57% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: 1 | 56% | 51% | 54% | 1.80 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

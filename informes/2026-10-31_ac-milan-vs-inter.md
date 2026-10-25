@@ -1,7 +1,7 @@
 # AC Milan – Inter
 **Serie A** · Regular Season - 10 · 31/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | John Stones | D | 4 | 144 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 1,65 · córners esperados 8,8._
+_Goles esperados: local 1,97 · visitante 1,65 · córners esperados 8,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

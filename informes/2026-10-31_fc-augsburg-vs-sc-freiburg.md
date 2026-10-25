@@ -1,10 +1,10 @@
 # FC Augsburg – SC Freiburg
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.90**  ·  X **3.75**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -31,6 +31,9 @@ _Actualizadas: 24/10 14:45_
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9: más **1.78** · menos **2.02**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.50**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -44,6 +47,12 @@ _Actualizadas: 24/10 14:45_
 - **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.40**  ·  Home/No **7.00**  ·  Draw/No **21.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.50**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):**
+    - 4: más **1.72** · menos **2.08**
 - **Home Player Shots On Target Total:** Arijon Ibrahimovic - 1 **1.57**  ·  Arijon Ibrahimovic - 2 **3.75**  ·  Arijon Ibrahimovic - 3 **11.00**  ·  Michael Gregoritsch - 1 **1.28**  ·  Anton Kade - 1 **1.67**  ·  Rodrigo Ribeiro - 1 **1.50**  ·  Alexis Claude Maurice - 1 **1.91**  ·  Fabian Rieder - 1 **1.83**  ·  Mert Komur - 1 **1.73**  ·  Uchenna Ogundu - 1 **1.57**  ·  Jeffrey Gouweleeuw - 1 **3.75**  ·  Marius Wolf - 1 **2.75**  ·  Robin Fellhauer - 1 **1.62**  ·  Han-Noah Massengo - 1 **3.50**  ·  Calvin Brackelmann - 1 **6.00**  ·  Chrislain Matsima - 1 **3.75**  ·  Hennes Behrens - 1 **3.75**  ·  Noahkai Banks - 1 **3.75**  ·  Sima Suso - 1 **3.75**  ·  Tim Schnitzer - 1 **3.75**  ·  Yannik Keitel - 1 **3.75**  ·  Michael Gregoritsch - 2 **2.25**  ·  Anton Kade - 2 **4.33**  ·  Rodrigo Ribeiro - 2 **3.40**  ·  Alexis Claude Maurice - 2 **6.00**  ·  Fabian Rieder - 2 **5.50**  ·  Mert Komur - 2 **4.50**  ·  Uchenna Ogundu - 2 **3.75**  ·  Jeffrey Gouweleeuw - 2 **21.00**  ·  Marius Wolf - 2 **13.00**  ·  Robin Fellhauer - 2 **4.00**  ·  Han-Noah Massengo - 2 **19.00**  ·  Chrislain Matsima - 2 **21.00**  ·  Hennes Behrens - 2 **21.00**  ·  Noahkai Banks - 2 **21.00**  ·  Sima Suso - 2 **21.00**  ·  Tim Schnitzer - 2 **21.00**  ·  Yannik Keitel - 2 **21.00**  ·  Michael Gregoritsch - 3 **5.50**  ·  Anton Kade - 3 **15.00**  ·  Rodrigo Ribeiro - 3 **10.00**  ·  Alexis Claude Maurice - 3 **21.00**  ·  Fabian Rieder - 3 **19.00**  ·  Mert Komur - 3 **17.00**  ·  Uchenna Ogundu - 3 **11.00**  ·  Robin Fellhauer - 3 **13.00**  ·  Michael Gregoritsch - 4 **15.00**  ·  Rodrigo Ribeiro - 4 **21.00**  ·  Young-Woo Seol - 1 **5.00**  ·  Juma Bah - 1 **3.75**  ·  Juma Bah - 2 **21.00**
 - **Away Player Shots On Target Total:** Young-Woo Seol **126.00**  ·  Yuito Suzuki **26.00**  ·  Sima Suso **101.00**  ·  Uchenna Ogundu **8.00**  ·  Anton Kade **12.00**  ·  Han-Noah Massengo **101.00**  ·  Rihito Yamamoto **51.00**  ·  Lucas Holer **9.50**  ·  Derry Scherhant **15.00**  ·  Chrislain Matsima **17.00**  ·  Jeffrey Gouweleeuw **51.00**  ·  Marius Wolf **67.00**  ·  Robin Fellhauer **26.00**  ·  Alexis Claude Maurice **41.00**  ·  Mert Komur **34.00**  ·  Lukas Kubler **34.00**  ·  Christian Gunter **81.00**  ·  Calvin Brackelmann **23.00**  ·  Yannick Engelhardt **67.00**  ·  Berkay Yilmaz **81.00**  ·  Noahkai Banks **13.00**  ·  Tim Schnitzer **19.00**  ·  Jan-Niklas Beste **29.00**  ·  Mateo Zelic **12.00**  ·  Rodrigo Ribeiro **15.00**  ·  Fabian Rieder **41.00**  ·  Yannik Keitel **51.00**  ·  Igor Matanovic **9.00**  ·  Arijon Ibrahimovic **21.00**  ·  Juma Bah **17.00**  ·  Philipp Treu **81.00**  ·  Anthony Jung **29.00**  ·  Bruno Ogbus **21.00**  ·  Jordy Makengo **126.00**  ·  Matthias Ginter **12.00**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **41.00**  ·  Michael Gregoritsch **8.00**  ·  Patrick Osterhage **51.00**  ·  Philipp Lienhart **15.00**  ·  Vincenzo Grifo **23.00**  ·  Cyriaque Irie **13.00**  ·  Keisuke Goto **15.00**  ·  Hennes Behrens **101.00**
 - **Home Player Shots:** Arijon Ibrahimovic - 1 **1.07**  ·  Arijon Ibrahimovic - 2 **1.36**  ·  Arijon Ibrahimovic - 3 **2.00**  ·  Arijon Ibrahimovic - 4 **3.50**  ·  Arijon Ibrahimovic - 5 **7.00**  ·  Arijon Ibrahimovic - 6 **13.00**  ·  Arijon Ibrahimovic - 7 **21.00**  ·  Michael Gregoritsch - 1 **1.01**  ·  Anton Kade - 1 **1.07**  ·  Rodrigo Ribeiro - 1 **1.05**  ·  Alexis Claude Maurice - 1 **1.12**  ·  Fabian Rieder - 1 **1.14**  ·  Mert Komur - 1 **1.11**  ·  Uchenna Ogundu - 1 **1.07**  ·  Jeffrey Gouweleeuw - 1 **1.50**  ·  Marius Wolf - 1 **1.44**  ·  Robin Fellhauer - 1 **1.08**  ·  Han-Noah Massengo - 1 **1.73**  ·  Calvin Brackelmann - 1 **2.00**  ·  Chrislain Matsima - 1 **1.83**  ·  Hennes Behrens - 1 **1.83**  ·  Noahkai Banks - 1 **1.83**  ·  Sima Suso - 1 **1.83**  ·  Tim Schnitzer - 1 **1.83**  ·  Yannik Keitel - 1 **1.83**  ·  Michael Gregoritsch - 2 **1.08**  ·  Anton Kade - 2 **1.36**  ·  Rodrigo Ribeiro - 2 **1.30**  ·  Alexis Claude Maurice - 2 **1.62**  ·  Fabian Rieder - 2 **1.62**  ·  Mert Komur - 2 **1.53**  ·  Uchenna Ogundu - 2 **1.36**  ·  Jeffrey Gouweleeuw - 2 **3.25**  ·  Marius Wolf - 2 **2.75**  ·  Robin Fellhauer - 2 **1.40**  ·  Han-Noah Massengo - 2 **4.33**  ·  Calvin Brackelmann - 2 **6.00**  ·  Chrislain Matsima - 2 **5.00**  ·  Hennes Behrens - 2 **5.00**  ·  Noahkai Banks - 2 **5.00**  ·  Sima Suso - 2 **5.00**  ·  Tim Schnitzer - 2 **5.00**  ·  Yannik Keitel - 2 **5.00**  ·  Michael Gregoritsch - 3 **1.28**  ·  Anton Kade - 3 **2.00**  ·  Rodrigo Ribeiro - 3 **1.83**  ·  Alexis Claude Maurice - 3 **2.75**  ·  Fabian Rieder - 3 **2.75**  ·  Mert Komur - 3 **2.50**  ·  Uchenna Ogundu - 3 **2.00**  ·  Jeffrey Gouweleeuw - 3 **8.00**  ·  Marius Wolf - 3 **7.00**  ·  Robin Fellhauer - 3 **2.20**  ·  Han-Noah Massengo - 3 **13.00**  ·  Calvin Brackelmann - 3 **19.00**  ·  Chrislain Matsima - 3 **15.00**  ·  Hennes Behrens - 3 **15.00**  ·  Noahkai Banks - 3 **15.00**  ·  Sima Suso - 3 **15.00**  ·  Tim Schnitzer - 3 **15.00**  ·  Yannik Keitel - 3 **15.00**  ·  Michael Gregoritsch - 4 **1.67**  ·  Anton Kade - 4 **3.50**  ·  Rodrigo Ribeiro - 4 **3.00**  ·  Alexis Claude Maurice - 4 **5.50**  ·  Fabian Rieder - 4 **5.50**  ·  Mert Komur - 4 **4.50**  ·  Uchenna Ogundu - 4 **3.50**  ·  Jeffrey Gouweleeuw - 4 **19.00**  ·  Marius Wolf - 4 **17.00**  ·  Robin Fellhauer - 4 **3.75**  ·  Michael Gregoritsch - 5 **2.50**  ·  Anton Kade - 5 **6.50**  ·  Rodrigo Ribeiro - 5 **5.50**  ·  Alexis Claude Maurice - 5 **11.00**  ·  Fabian Rieder - 5 **13.00**  ·  Mert Komur - 5 **10.00**  ·  Michael Gregoritsch - 6 **4.00**  ·  Anton Kade - 6 **13.00**  ·  Rodrigo Ribeiro - 6 **11.00**  ·  Alexis Claude Maurice - 6 **21.00**  ·  Fabian Rieder - 6 **21.00**  ·  Michael Gregoritsch - 7 **7.00**  ·  Anton Kade - 7 **21.00**  ·  Rodrigo Ribeiro - 7 **21.00**  ·  Michael Gregoritsch - 8 **13.00**  ·  Michael Gregoritsch - 9 **21.00**  ·  Young-Woo Seol - 1 **2.00**  ·  Juma Bah - 1 **1.83**  ·  Young-Woo Seol - 2 **6.00**  ·  Juma Bah - 2 **5.00**  ·  Uchenna Ogundu - 5 **7.00**  ·  Robin Fellhauer - 5 **8.00**  ·  Mert Komur - 6 **21.00**  ·  Uchenna Ogundu - 6 **13.00**  ·  Young-Woo Seol - 3 **19.00**  ·  Juma Bah - 3 **15.00**  ·  Robin Fellhauer - 6 **17.00**  ·  Uchenna Ogundu - 7 **21.00**
@@ -184,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | Bruno Ogbus | D | 1 | 12 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,97 · visitante 2,74 · córners esperados 10,0._
+_Goles esperados: local 1,96 · visitante 2,73 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -192,18 +201,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 55% | 43% | 49% | 2.20 | +7% |
 | 1X2: X | 18% | 25% | 21% | 3.75 | -19% |
-| 1X2: 1 | 27% | 32% | 30% | 2.90 | -13% |
-| Doble oportunidad: X2 | 73% | 68% | 70% | 1.40 | -2% |
+| 1X2: 1 | 28% | 32% | 30% | 2.90 | -13% |
+| Doble oportunidad: X2 | 72% | 68% | 70% | 1.40 | -2% |
 | Doble oportunidad: 12 | 82% | 76% | 79% | 1.25 | -1% |
 | Doble oportunidad: 1X | 45% | 57% | 51% | 1.67 | -15% |
 | Ambos marcan: No | 20% | 35% | 28% | 2.62 | -28% |
 | Ambos marcan: Sí | 80% | 65% | 72% | 1.44 | +4% |
 | Goles más/menos: Más de 2.5 | 85% | 64% | 74% | 1.50 | +11% |
 | Goles más/menos: Más de 3.5 | 69% | 43% | 56% | 2.20 | +23% |
-| Goles más/menos: Más de 4.5 | 51% | 25% | 38% | 3.75 | +43% |
+| Goles más/menos: Más de 4.5 | 50% | 25% | 38% | 3.75 | +42% |
 | Goles más/menos: Menos de 2.5 | 15% | 36% | 26% | 2.62 | -32% |
 | Goles más/menos: Menos de 3.5 | 31% | 57% | 44% | 1.67 | -27% |
-| Goles más/menos: Menos de 4.5 | 49% | 75% | 62% | 1.28 | -21% |
+| Goles más/menos: Menos de 4.5 | 50% | 75% | 62% | 1.28 | -21% |
 | Goles 1ª parte más/menos: Más de 0.5 | 86% | 75% | 81% | 1.25 | +1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 59% | 44% | 52% | 2.10 | +8% |
 | Goles 1ª parte más/menos: Más de 2.5 | 32% | 21% | 26% | 4.50 | +18% |
@@ -217,9 +226,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 42% | 54% | 48% | 1.73 | -18% |
 | Goles del local: Menos de 2.5 | 69% | 78% | 73% | 1.20 | -12% |
 | Goles del visitante: Más de 1.5 | 76% | 54% | 65% | 1.73 | +12% |
-| Goles del visitante: Más de 2.5 | 52% | 28% | 40% | 3.40 | +35% |
+| Goles del visitante: Más de 2.5 | 51% | 28% | 40% | 3.40 | +34% |
 | Goles del visitante: Menos de 1.5 | 24% | 46% | 35% | 2.00 | -29% |
-| Goles del visitante: Menos de 2.5 | 48% | 72% | 60% | 1.30 | -21% |
+| Goles del visitante: Menos de 2.5 | 49% | 72% | 60% | 1.30 | -21% |
+| Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
+| Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -10% |
 | 1X2 descanso: 2 | 43% | 35% | 39% | 2.62 | +3% |
 | 1X2 descanso: X | 30% | 37% | 34% | 2.50 | -16% |
 | 1X2 descanso: 1 | 26% | 28% | 27% | 3.25 | -11% |

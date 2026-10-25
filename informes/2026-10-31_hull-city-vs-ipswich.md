@@ -1,10 +1,10 @@
 # Hull City – Ipswich
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**
@@ -186,8 +186,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 29% | 36% | 32% | 2.60 | -16% |
 | 1X2: X | 26% | 27% | 27% | 3.40 | -10% |
-| 1X2: 1 | 45% | 37% | 41% | 2.55 | +5% |
-| Doble oportunidad: X2 | 55% | 63% | 59% | 1.50 | -12% |
+| 1X2: 1 | 46% | 37% | 41% | 2.55 | +5% |
+| Doble oportunidad: X2 | 54% | 63% | 59% | 1.50 | -12% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 71% | 63% | 67% | 1.50 | +1% |
 | Ambos marcan: No | 47% | 42% | 45% | 2.20 | -2% |

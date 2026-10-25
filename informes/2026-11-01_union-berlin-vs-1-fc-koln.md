@@ -1,10 +1,10 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 20:39_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.50**  ·  X **3.60**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | L. Waldschmidt | F | 4 | 43 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,20 · córners esperados 9,7._
+_Goles esperados: local 1,43 · visitante 1,20 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 42% | 38% | 40% | 2.50 | -0% |
 | Doble oportunidad: X2 | 58% | 63% | 60% | 1.50 | -9% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 68% | 63% | 66% | 1.50 | -2% |
+| Doble oportunidad: 1X | 68% | 63% | 66% | 1.50 | -1% |
 | Ambos marcan: No | 47% | 39% | 43% | 2.38 | +2% |
 | Ambos marcan: Sí | 53% | 61% | 57% | 1.53 | -13% |
 | Goles más/menos: Más de 1.5 | 74% | 79% | 76% | 1.20 | -8% |

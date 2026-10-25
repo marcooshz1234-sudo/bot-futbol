@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/10 20:39._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 02:47._
 
 ## Cuotas Bet365
-_Actualizadas: 24/10 14:45_
+_Actualizadas: 25/10 02:47_
 
 - **1X2:** 1 **2.20**  ·  X **3.40**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.67**
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | Jean-Mattéo Bahoya | F | 2 | 11 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 0,90 · córners esperados 9,0._
+_Goles esperados: local 1,52 · visitante 0,90 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 41% | 29% | 35% | 3.25 | +13% |
 | Goles del visitante: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
 | 1X2 descanso: 2 | 19% | 25% | 22% | 3.75 | -19% |
-| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -2% |
 | 1X2 descanso: 1 | 36% | 34% | 35% | 2.75 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

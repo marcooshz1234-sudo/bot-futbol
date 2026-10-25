@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 30 · aciertos: 18 (60%) · beneficio a 1 € por pick: -5.44 €
+Picks ya jugados: 34 · aciertos: 22 (65%) · beneficio a 1 € por pick: -4.10 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
 | jugador | 1 | 1 | 100% | +0.33 € |
-| goles | 11 | 18 | 61% | -3.38 € |
-| resultado | 4 | 7 | 57% | -1.79 € |
+| resultado | 7 | 10 | 70% | -0.75 € |
+| goles | 12 | 19 | 63% | -3.08 € |
 | tiros | 1 | 2 | 50% | -0.27 € |
 | tarjetas | 1 | 2 | 50% | -0.33 € |
 
@@ -16,14 +16,14 @@ Picks ya jugados: 30 · aciertos: 18 (60%) · beneficio a 1 € por pick: -5.44 
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| Goals Over/Under · Over 1.5 | 3 | 3 | 100% |
+| Goals Over/Under · Over 1.5 | 4 | 4 | 100% |
+| Double Chance · Home/Away | 5 | 7 | 71% |
 | Total - Away · Over 0.5 | 2 | 3 | 67% |
-| Double Chance · Home/Away | 4 | 6 | 67% |
 | Goals Over/Under First Half · Over 0.5 | 3 | 5 | 60% |
 
 ## Últimos días
 
-### 2026-10-24 · 9/19
+### 2026-10-24 · 13/23
 - ✅ No hay empate en Aston Villa–Manchester City · 1.25 (2-1)
 - ❌ Más de 26,5 tiros en Aston Villa–Manchester City · 1.80 (2-1)
 - ✅ Más de 1,5 goles en Rayo Vallecano–Elche · 1.28 (0-3)
@@ -43,6 +43,10 @@ Picks ya jugados: 30 · aciertos: 18 (60%) · beneficio a 1 € por pick: -5.44 
 - ✅ Más de 4,5 tarjetas en Racing Santander–Espanyol · 1.67 (2-1)
 - ❌ No hay empate en Napoli–AS Roma · 1.33 (3-3)
 - ✅ Más de 1,5 goles en Napoli–AS Roma · 1.28 (3-3)
+- ✅ No hay empate en Lens–Paris FC · 1.28 (2-1)
+- ✅ Gana el Lazio · 1.48 (2-1)
+- ✅ Más de 1,5 goles en Lazio–Parma · 1.30 (2-1)
+- ✅ Lazio gana alguna de las dos partes · 1.28 (2-1)
 
 ### 2026-10-23 · 9/11
 - ✅ Samuele Birindelli: 1+ tiros · 1.33 (3-2)
