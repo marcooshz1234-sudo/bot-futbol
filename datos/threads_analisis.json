@@ -1,0 +1,3310 @@
+{
+ "cuenta": {
+  "views": [
+   {
+    "name": "views",
+    "period": "day",
+    "values": [
+     {
+      "value": 35112,
+      "end_time": "2026-10-24T07:00:00+0000"
+     },
+     {
+      "value": 13787,
+      "end_time": "2026-10-25T07:00:00+0000"
+     }
+    ],
+    "title": "views",
+    "description": "The number of times your profile was viewed.",
+    "id": "17841467302274732/insights/views/day"
+   }
+  ],
+  "likes": [
+   {
+    "name": "likes",
+    "period": "day",
+    "title": "likes",
+    "description": "The number of likes on your posts.",
+    "total_value": {
+     "value": 51
+    },
+    "id": "17841467302274732/insights/likes/day"
+   }
+  ],
+  "replies": [
+   {
+    "name": "replies",
+    "period": "day",
+    "title": "replies",
+    "description": "The number of replies on your posts.",
+    "total_value": {
+     "value": 4
+    },
+    "id": "17841467302274732/insights/replies/day"
+   }
+  ],
+  "reposts": [
+   {
+    "name": "reposts",
+    "period": "day",
+    "title": "reposts",
+    "description": "The number of times your posts were reposted.",
+    "total_value": {
+     "value": 0
+    },
+    "id": "17841467302274732/insights/reposts/day"
+   }
+  ],
+  "quotes": [
+   {
+    "name": "quotes",
+    "period": "day",
+    "title": "quotes",
+    "description": "The number of times your posts were quoted.",
+    "total_value": {
+     "value": 0
+    },
+    "id": "17841467302274732/insights/quotes/day"
+   }
+  ],
+  "followers_count": [
+   {
+    "name": "followers_count",
+    "period": "day",
+    "title": "followers_count",
+    "description": "This is your total number of followers on Threads.",
+    "total_value": {
+     "value": 931
+    },
+    "id": "17841467302274732/insights/followers_count/day"
+   }
+  ],
+  "follower_demographics": [
+   {
+    "name": "follower_demographics",
+    "period": "day",
+    "title": "follower_demographics",
+    "description": "The demographic characteristics of followers, including countries, cities and gender distribution.",
+    "total_value": {
+     "breakdowns": [
+      {
+       "dimension_keys": [
+        "country"
+       ],
+       "results": [
+        {
+         "dimension_values": [
+          "PR"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "BF"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "PT"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "HN"
+         ],
+         "value": 8
+        },
+        {
+         "dimension_values": [
+          "PY"
+         ],
+         "value": 9
+        },
+        {
+         "dimension_values": [
+          "DO"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "HT"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "FR"
+         ],
+         "value": 3
+        },
+        {
+         "dimension_values": [
+          "BO"
+         ],
+         "value": 16
+        },
+        {
+         "dimension_values": [
+          "BR"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "DZ"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "IE"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "EC"
+         ],
+         "value": 40
+        },
+        {
+         "dimension_values": [
+          "US"
+         ],
+         "value": 49
+        },
+        {
+         "dimension_values": [
+          "GH"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "CD"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "SV"
+         ],
+         "value": 8
+        },
+        {
+         "dimension_values": [
+          "CH"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "CI"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "CL"
+         ],
+         "value": 58
+        },
+        {
+         "dimension_values": [
+          "CM"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "MX"
+         ],
+         "value": 132
+        },
+        {
+         "dimension_values": [
+          "MY"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "CO"
+         ],
+         "value": 83
+        },
+        {
+         "dimension_values": [
+          "GT"
+         ],
+         "value": 4
+        },
+        {
+         "dimension_values": [
+          "ES"
+         ],
+         "value": 181
+        },
+        {
+         "dimension_values": [
+          "CR"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "VE"
+         ],
+         "value": 60
+        },
+        {
+         "dimension_values": [
+          "PA"
+         ],
+         "value": 12
+        },
+        {
+         "dimension_values": [
+          "AR"
+         ],
+         "value": 133
+        },
+        {
+         "dimension_values": [
+          "CU"
+         ],
+         "value": 3
+        },
+        {
+         "dimension_values": [
+          "PE"
+         ],
+         "value": 91
+        },
+        {
+         "dimension_values": [
+          "NG"
+         ],
+         "value": 3
+        },
+        {
+         "dimension_values": [
+          "NI"
+         ],
+         "value": 2
+        },
+        {
+         "dimension_values": [
+          "PL"
+         ],
+         "value": 1
+        },
+        {
+         "dimension_values": [
+          "TR"
+         ],
+         "value": 2
+        }
+       ]
+      }
+     ]
+    },
+    "id": "17841467302274732/insights/follower_demographics/day"
+   }
+  ],
+  "perfil": {
+   "username": "combilocas",
+   "name": "Combilocas",
+   "threads_biography": "⚽ Combis de fútbol GRATIS cada día\n🏆 Champions · LaLiga · Premier · Serie A\n📊 Con datos, no corazonadas\n📲 Más combis en Telegram 👇",
+   "threads_profile_picture_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/863470620_17923067232243410_2264763499596649719_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=4d6X8P47f8QQ7kNvwF7kBzB&_nc_oc=AdrnRycraO4UQ7vur3hwbUrbqI9McdlT1BHOrU3EEp-PpSFas_mIn3AeoBk7CbWgRzw&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SJm5wLWSrdvadi3u1cIfHg&_nc_tpa=Q5bMBQIIUJIHbpmC1u0wSiByQxHeZNDVG2vS8ti4ouODsSvtr4mYrwn_IEGSmsDzpkMk8hNzBkSDqYJZIg&oh=00_AQNY-qpvvLOuCwPY00La1zj54hrPTeFbBSUmvsyEfVP7rA&oe=6AE45F4F",
+   "id": "39457791287169792"
+  }
+ },
+ "posts": [
+  {
+   "id": "18115108024861291",
+   "text": "📊 BALANCE DEL DOMINGO · 25/10 📊\n\n❌ 💥 COMBINADA DEL DOMINGO · 3 PICKS 💥 · 3,11\n❌ 📊 COMBI DE DATOS DEL DOMINGO · 1,64\n❌ 📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS · 4,36\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · 2,21\n✅ 🇩🇪 FREIBURG 🆚 BAYERN · 9,75\n✅ 📊 3 OPCIONES PARA HOY · DOMINGO\n✅ 📊 3 OPCIONES PARA HOY · DOMINGO\n❌ 🇪🇸 BARÇA 🆚 MADRID · 11,00\n❌ 🇪🇸 BARÇA 🆚 MADRID · 11,00\n❌ 🇪🇸 BARÇA 🆚 MADRID\n❌ 🪜 RETO ESCALERA · DÍA 1/7 🍀 · 2,21\n\n✅ 3 acertadas · ❌ 8 falladas · ⏳ 0 sin resolver\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T22:16:33+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De7wm8rCW_7",
+   "is_quote_post": false,
+   "topic_tag": "Apuestas deportivas",
+   "shortcode": "De7wm8rCW_7",
+   "metricas": {
+    "views": 209,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18050027051815847",
+   "text": "✅💚 ¡VERDE! 🇩🇪 FREIBURG 🆚 BAYERN 💚✅\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota 9,75\n💶 10€ → 97,50€\n\n¿Quién la llevaba? 👇💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T19:47:53+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De7fmAknybZ",
+   "is_quote_post": false,
+   "topic_tag": "Apuestas deportivas",
+   "shortcode": "De7fmAknybZ",
+   "metricas": {
+    "views": 83,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18195984814361312",
+   "text": "✅ COMBI LOCAS | LALIGA\n\n🇪🇸 BARCELONA vs REAL MADRID 🇪🇸\n\n🎯 +3.5 GOLES [x1.50–1.55]\n✅ AMBOS MARCAN [x1.24–1.30]\n✅ BARCELONA GANA [x1.60–1.65]\n✅ BARCELONA +2.5 GOLES [x1.77]\n\n🔥 Resultado probable: 3-2 | 3-1 | 2-2\n\n🟢 VERDE A VERDE 🟢\n🔞 +18 | Juega con responsabilidad",
+   "timestamp": "2026-10-25T18:13:37+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De7U0RWDrQE",
+   "is_quote_post": false,
+   "shortcode": "De7U0RWDrQE",
+   "metricas": {
+    "views": 4841,
+    "likes": 15,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18067953374786878",
+   "text": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T16:46:01+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De7Kx8GEU0p",
+   "is_quote_post": false,
+   "topic_tag": "Apuestas deportivas",
+   "shortcode": "De7Kx8GEU0p",
+   "metricas": {
+    "views": 288,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18126342019916141",
+   "text": "📊 3 OPCIONES PARA HOY · DOMINGO\n\n🇮🇹 Lecce–Juventus → Más de 1,5 goles\n🇮🇹 Lecce–Juventus → Gol en la 1ª parte\n🇪🇸 Barça–Madrid → Ambos marcan y más de 2,5 goles\n\nEn Lecce–Juventus, elige una de las dos opciones: son alternativas.\nPSG–Lyon se juega el lunes 26 a las 20:30.\nComprueba las cuotas antes de combinar.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T16:30:44+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De7JCERll9W",
+   "is_quote_post": false,
+   "topic_tag": "Apuestas deportivas",
+   "shortcode": "De7JCERll9W",
+   "metricas": {
+    "views": 352,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18141130567725276",
+   "text": "📋 GUÍA DE LAS SELECCIONES\n\n3+ córners = 3 o más.\nMás de 3 córners = 4 o más.\nMenos de 7 córners = de 0 a 6.\nUn remate a puerta también es un remate; no todos los remates van a puerta.\n\nEn los picks de jugadores, comprueba la titularidad y las reglas de participación de la casa. Una cuota conjunta se consulta en el constructor; no se calcula multiplicando las patas del mismo partido.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T16:07:02+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De7GUgolg4J",
+   "is_quote_post": false,
+   "topic_tag": "Apuestas deportivas",
+   "shortcode": "De7GUgolg4J",
+   "metricas": {
+    "views": 221,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18200354659388938",
+   "text": "🇩🇪 FREIBURG 🆚 BAYERN\n💥 COMBI DEL PARTIDO\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota conjunta: 9,75\n💶 10€ → 97,50€ a cuota 9,75\n\nCuota consultada el 25/10; puede variar. Jugadores: solo si son titulares.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T15:03:46+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De6-_VsChXK",
+   "is_quote_post": false,
+   "shortcode": "De6-_VsChXK",
+   "metricas": {
+    "views": 451,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18031117952889134",
+   "text": "🪜 RETO ESCALERA · DÍA 2/7\n\n✅ Ayer: gana Lazio + Álex Baena 1+ tiro a puerta ante Levante.\n💶 20€ → 43,33€\n\nHOY CONTINUAMOS CON 43,33€\n✅ Udinese–Milan: más de 1,5 goles\n✅ Auxerre–Le Mans: más de 2,5 goles\n\n🎯 Cuota de referencia: 2,21\n💶 43,33€ → 95,76€ a cuota 2,21\n\nRevisa el precio actual. El siguiente escalón se decide al terminar este.\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T14:47:47+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De69QvFDlSa",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "De69QvFDlSa",
+   "metricas": {
+    "views": 275,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18110251363919556",
+   "text": "💥 COMBINADA DEL DOMINGO · 3 PICKS 💥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Marca el Bournemouth · 1,28\n🇫🇷 El Troyes saca 4 o más córners · 1,62\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 El Newcastle ve 2 o más tarjetas · 1,50\n\n🎯 Cuota orientativa: 3,11\n💶 10€ → 31,10€ a cuota 3,11\n\n📊 Bournemouth ha marcado en 9 de sus 10 últimos partidos; United ha encajado en 9 de 10.\nCuotas de la captura del 24/10; revisa el precio antes de combinar.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T13:35:08+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De608roDheI",
+   "is_quote_post": false,
+   "shortcode": "De608roDheI",
+   "metricas": {
+    "views": 256,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18166335430501601",
+   "text": "📊 COMBI DE DATOS DEL DOMINGO\n\n✅ Gol en la 2ª parte del Sunderland–Leeds\n✅ De Lange (Marsella): 2+ paradas, solo si es titular\n\n🎯 Cuota de referencia: 1,64 (captura del 24/10)\n💶 10€ → 16,40€ a cuota 1,64\n\n📊 De Lange: 2+ paradas en 9/10 partidos completos registrados. Confirma su titularidad y el precio antes de combinar.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T13:34:50+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De606gXjppV",
+   "is_quote_post": false,
+   "shortcode": "De606gXjppV",
+   "metricas": {
+    "views": 181,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17943043797363438",
+   "text": "📋 LA ESCALERA, CON DATOS\n\nUdinese–Milan: 2+ goles en 6/7 del Udinese y 10/10 del Milan.\nAuxerre–Le Mans: 3+ goles en 6/7 de cada equipo.\n\nSon las dos selecciones del escalón de hoy. La muestra es pequeña y cada partido tiene rivales distintos: estos registros no son la probabilidad de acertar la combinada.\n\nPrimero se resuelve el escalón de hoy; el siguiente se revisa después.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T13:11:57+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De6yOtSjcWA",
+   "is_quote_post": false,
+   "shortcode": "De6yOtSjcWA",
+   "metricas": {
+    "views": 130,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18104505176570468",
+   "text": "📊 COMBI ESTADÍSTICA DEL DOMINGO · 3 PICKS\n\n✅ Athletic–Getafe: más de 23,5 remates · 1,73\n✅ Monaco–Lille: menos de 4,5 córners en la 1ª parte · 1,75\n✅ Rennes–Strasbourg: más de 2,5 goles · 1,44\n\n🎯 Cuota orientativa: 4,36\n💶 10€ → 43,60€ a cuota 4,36\n\nTres partidos distintos. Cuotas de la captura del 24/10; revisa el precio. Frecuencias históricas, no garantías.\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-25T12:03:59+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De6qcW7CN0s",
+   "is_quote_post": false,
+   "shortcode": "De6qcW7CN0s",
+   "metricas": {
+    "views": 208,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17877764700650892",
+   "text": "🔥 9 PICKS PARA MAÑANA (DOMINGO) 🔥\n\n🇮🇹 Inter–Fiorentina: +2,5 goles\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Marca el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle ve 2+ tarjetas\n🇩🇪 Hoffenheim–Leverkusen: no hay empate\n🇫🇷 Troyes saca 4+ córners\n🇫🇷 De Lange (Marsella) 2+ paradas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland–Leeds: gol en la 2ª parte\n🇩🇪 Freiburg–Bayern: +2,5 goles\n🇫🇷 PSG–Lyon: +2,5 goles\n\n📊 Sunderland: gol en la 2ª parte en sus 10 últimos\n\n¡Combina máximo 2 o 3! 🍀\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T21:02:29+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De5DRrGClcy",
+   "is_quote_post": false,
+   "shortcode": "De5DRrGClcy",
+   "metricas": {
+    "views": 1508,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17986446852131121",
+   "text": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀\n\n🇮🇹 Lazio gana • 1,45\n🇪🇸 Atletico de madrid: Tiro a puerta de Alex Baena🎯 • 1,5\n\n🎯 Cuota 2,16 · 20€ → 43,33€\n\n20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Esta vez llegamos al día 7?",
+   "timestamp": "2026-10-24T18:36:54+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De4yr62juwS",
+   "is_quote_post": false,
+   "shortcode": "De4yr62juwS",
+   "metricas": {
+    "views": 436,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18286279819294444",
+   "text": "🔥 7 PICKS PARA HOY 🔥\n\n🇮🇹 Napoli–Roma → No hay empate\n🇮🇹 Napoli–Roma → Más de 1,5 goles\n🇪🇸 Valencia–Villarreal → No hay empate\n🇮🇹 Lazio–Parma → Gana el Lazio\n🇮🇹 Lazio–Parma → Más de 1,5 goles\n🇫🇷 Lens–Paris FC → No hay empate\n🇫🇷 Lens–Paris FC → Risser (portero Lens) 2+ paradas\n\n📊 El Lazio ha ganado al menos una de las dos partes en sus 7 últimos partidos 💪\n\n¡Combina máximo 2 o 3! 🍀\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T15:31:56+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De4dc6nCBeE",
+   "is_quote_post": false,
+   "shortcode": "De4dc6nCBeE",
+   "metricas": {
+    "views": 576,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18118916549061333",
+   "text": "🇩🇪 DORTMUND 🆚 FRANKFURT 🇩🇪\n💥 COMBI DEL PARTIDO 💥\n\n✅1. Gana el Dortmund\n✅2. Guirassy 3+ tiros\n✅3. Atubolu (portero Frankfurt): 3+ paradas\n✅4. El Frankfurt ve 2 o más tarjetas\n✅5. El Frankfurt saca 4 o más córners\n\n🎯 Cuota: ~9,50\n💶 10€ → ~95€\n\n📊 Atubolu ha hecho 3 o más paradas en sus 6 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T14:46:15+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De4YOMOiLIY",
+   "is_quote_post": false,
+   "shortcode": "De4YOMOiLIY",
+   "metricas": {
+    "views": 1401,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18096245726401112",
+   "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA 🆚 TOTTENHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n💥 COMBI DEL PARTIDO 💥\n\n✅1. 🔵 Gana el Chelsea\n✅2. ⚽ Ambos marcan\n✅3. 🚩 El Tottenham saca 5 o más córners\n✅4. ⏱️ Más de 1,5 goles en la 2ª parte\n✅5. 🎯 João Pedro 1+ tiro a puerta\n\n🎯 Cuota: ~10\n💶 10€ → ~100€\n\n📊 João Pedro ha tirado a puerta en 5 de sus 6 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T14:05:19+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De4TiQQiLvH",
+   "is_quote_post": false,
+   "shortcode": "De4TiQQiLvH",
+   "metricas": {
+    "views": 5084,
+    "likes": 14,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18147498427569691",
+   "text": "🇪🇸 VALENCIA 🆚 VILLARREAL 🇪🇸\n💥 COMBI DEL PARTIDO 💥\n\n✅ Gana el Villarreal\n✅ Ambos marcan\n✅ Más de 4,5 córners en la 1ª parte\n✅ Dimitrievski (portero Valencia): 3+ paradas\n\n🎯 Cuota: ~9,50\n💶 10€ → ~95€\n\n📊 Más de 4,5 córners en la 1ª parte en 9 de los 10 últimos partidos del Villarreal\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T13:03:54+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De4MgPyig-0",
+   "is_quote_post": false,
+   "shortcode": "De4MgPyig-0",
+   "metricas": {
+    "views": 2168,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18100533464437109",
+   "text": "🇮🇹 NAPOLI 🆚 ROMA 🇮🇹\n💥 COMBI DEL PARTIDO 💥\n\n1️⃣ No hay empate\n2️⃣ Ambos marcan\n3️⃣ La Roma saca 4 o más córners\n4️⃣ Más de 25,5 tiros en el partido\n5️⃣ Más de 3,5 tarjetas\n\n🎯 Cuota: ~10\n💶 10€ → ~100€\n\n📊 El Napoli no ha empatado en 9 de sus 10 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T12:02:54+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/De4Fhn-ipG9",
+   "is_quote_post": false,
+   "shortcode": "De4Fhn-ipG9",
+   "metricas": {
+    "views": 5643,
+    "likes": 20,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18108810158191821",
+   "text": "🤪 COMBI LOCA DEL SÁBADO 🤪\n\n✅ 🇮🇹 Ambos marcan en Como–Sassuolo\n✅ 🇮🇹 Marca el Cagliari\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 No hay empate en Coventry–Fulham\n✅ 🇪🇸 Gol en la 1ª parte del Racing–Espanyol\n✅ 🇩🇪 El Elversberg saca 4 o más córners\n✅ 🇮🇹 No hay empate en Napoli–Roma\n✅ 🇮🇹 Gana el Lazio\n\n🎯 Cuota total: 13,51\n💶 10€ → 135,10€\n\n🔥 Siete partidos, una sola locura 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T11:03:13+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De3-swbCCtC",
+   "is_quote_post": false,
+   "shortcode": "De3-swbCCtC",
+   "metricas": {
+    "views": 797,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18132708350501551",
+   "text": "🔥LA VERDADERA COMBILOCA🔥\n1️⃣ Empate o Roma + Donyell Malen 1+ remates a puerta · 1,83 🇮🇹\n2️⃣ Chelsea o Empate + Ambos equipos recibirán tarjeta · 1,33 🇬🇧\n3️⃣ Villarreal gana · 2,05 🇪🇸\n4️⃣ Donnarumma 2+ paradas · 1,30 🇬🇧\n5️⃣ Menos de 4,5 goles · 1,40 🇬🇧\n6️⃣ Saint-Étienne o Empate · 1,20 🇫🇷\n7️⃣ West Brom marca 1+ goles · 1,18 🇬🇧\n8️⃣ Empate o Birmingham City · 1,44 🇬🇧\n9️⃣ Lazio gana · 1,48 🇮🇹  \n\n🎯 Cuota total: 27,65  \n📊 Apuesta de 9 selecciones de Bet365 unificada 🔥  \n\n☘️ ¿LA PINTAMOS DE VERDE? 👀💚  \n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T10:35:34+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De37mj9jr_g",
+   "is_quote_post": false,
+   "shortcode": "De37mj9jr_g",
+   "metricas": {
+    "views": 4988,
+    "likes": 9,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18106855391456535",
+   "text": "🔒 COMBI SEGURA DEL SÁBADO 🔒\n\n1️⃣ Más de 1,5 goles en Rayo–Elche 🇪🇸\n2️⃣ Vandevoordt (portero Leipzig): 2+ paradas 🇩🇪\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Más de 1,5 goles en los 8 últimos partidos del Rayo 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T10:03:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De332RFCFrV",
+   "is_quote_post": false,
+   "shortcode": "De332RFCFrV",
+   "metricas": {
+    "views": 457,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17990138307117297",
+   "text": "💥 COMBINADA CUOTA 4 DEL SÁBADO 💥\n\n🇪🇸 Marca el Espanyol · 1,25\n🇩🇪 Kristof (portero Elversberg): 2+ paradas · 1,40\n🇮🇹 El Lazio gana alguna de las dos partes · 1,25\n🇮🇹 Más de 9,5 tiros a puerta en Como–Sassuolo · 1,83\n\n🎯 Cuota total: 4,00\n💶 10€ → 40,00€\n\n📊 Kristof ha hecho 2 o más paradas en sus 6 últimos partidos 🧤\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-24T09:03:19+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De3w-LUCGbt",
+   "is_quote_post": false,
+   "shortcode": "De3w-LUCGbt",
+   "metricas": {
+    "views": 506,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 3
+   }
+  },
+  {
+   "id": "17974315161157694",
+   "text": "🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n🇪🇸 Rayo–Elche: +1,5 goles · 1,25\n🇪🇸 Marca el Espanyol · 1,25\n🇮🇹 Marca el Sassuolo · 1,40\n🇮🇹 Cagliari–Bologna: gol 2ª parte · 1,28\n🇩🇪 Vandevoordt (Leipzig) 2+ paradas · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Coventry–Fulham: sin empate · 1,30\n🇮🇹 Napoli–Roma: sin empate · 1,36\n🇮🇹 Lazio gana una parte · 1,25\n🇫🇷 Lens–Paris FC: sin empate · 1,28\n\n📊 El Espanyol ha marcado en 8 de sus 9 últimos ⚽\n\n¡Combina máximo 2 o 3! 🍀\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T21:02:56+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De2eii_lfik",
+   "is_quote_post": false,
+   "shortcode": "De2eii_lfik",
+   "metricas": {
+    "views": 5802,
+    "likes": 17,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 1,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18054828140597042",
+   "text": "✅💚 ¡VERDE LA COMBI SEGURA! 💚✅\n\n✅ Más de 1,5 goles en Torino–Monza\n✅ Gol en la 1ª parte del Brest–Niza\n\n🎯 Cuota 1,66\n\n¿Quién la llevaba? 👇💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T20:13:24+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De2Y7TJlM4k",
+   "is_quote_post": false,
+   "shortcode": "De2Y7TJlM4k",
+   "metricas": {
+    "views": 466,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17914882893549657",
+   "text": "✅💚 ¡VERDE! GRANADA 🆚 VALLADOLID 💚✅\n\n✅ Ambos marcan\n✅ Más de 2,5 goles\n✅ Arnu 1+ remate a puerta\n✅ Latasa 1+ remate a puerta\n✅ Pascual 1+ remate a puerta\n\n🎯 Cuota 5,06 con el aumento del 25%\n💶 10€ → 50,63€\n\n¿Quién la llevaba? 👇💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T20:02:39+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De2XslLlB8u",
+   "is_quote_post": false,
+   "shortcode": "De2XslLlB8u",
+   "metricas": {
+    "views": 446,
+    "likes": 3,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18143085916608477",
+   "text": "🤪 COMBI LOCA DEL VIERNES 🤪\n\n✅ 🇪🇸 Gana el Alavés · 1,61\n✅ 🇩🇪 Gana el Stuttgart · 1,38\n✅ 🇮🇹 Ambos marcan en Torino–Monza · 1,75\n✅ 🇫🇷 Ambos marcan en Brest–Niza · 1,57\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 No hay empate en Ipswich–Forest · 1,30\n\n🎯 Cuota total: 7,94\n💶 10€ → 79,40€\n\n🔥 Si entra, el viernes es nuestro 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T17:05:16+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De2DU4sCOfF",
+   "is_quote_post": false,
+   "shortcode": "De2DU4sCOfF",
+   "metricas": {
+    "views": 2546,
+    "likes": 4,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18349643638264596",
+   "text": "🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸\n💥 COMBI DEL PARTIDO 💥\n\n✅1. Gana el Alavés · 1,61\n✅2. El Alavés gana al descanso · 2,25\n✅3. Más de 1,5 goles · 1,33\n✅4. El Málaga saca 4+ córners · 1,66\n✅5. Herrero (portero Málaga) 3+ paradas · 1,36\n\n🎯 Cuota: ~9,50 (en Crear apuesta)\n💶 10€ → ~95€\n\n📊 Herrero ha hecho 3+ paradas en 8 de sus 9 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T16:08:52+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De184BtiNfu",
+   "is_quote_post": false,
+   "shortcode": "De184BtiNfu",
+   "metricas": {
+    "views": 1985,
+    "likes": 5,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18503818021097812",
+   "text": "🔥 6 PICKS PARA HOY 🔥\n\n🇩🇪 Stuttgart–Gladbach → +2,5 goles · 1,30\n🇮🇹 Torino–Monza → Monza marca · 1,40\n🇮🇹 Torino–Monza → No hay empate · 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → Ipswich marca · 1,30\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Forest → El Forest ve 2+ tarjetas · 1,53\n🇪🇸 Alavés–Málaga → +1,5 goles · 1,33\n\n📊 El Gladbach llega con 5 derrotas seguidas y encaja 3,3 goles por partido 📉\n\n¡Combina máximo 2 o 3! 🍀\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T15:31:41+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De14oC_iN5c",
+   "is_quote_post": false,
+   "shortcode": "De14oC_iN5c",
+   "metricas": {
+    "views": 1866,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 2
+   }
+  },
+  {
+   "id": "18129077215843176",
+   "text": "🇪🇸 GRANADA 🆚 VALLADOLID 🇪🇸\n💥 COMBI DEL PARTIDO 💥\n\n✅1. ⚽ Ambos marcan · 1,83\n✅2. 🔥 Más de 2,5 goles · 2,10\n✅3. 🎯 Arnu 1+ remate a puerta · 1,40\n✅4. 🎯 Latasa 1+ remate a puerta · 1,40\n✅5. 🎯 Pascual 1+ remate a puerta · 1,33\n\n🎯 Cuota: ~9,50 (en Crear apuesta)\n💶 10€ → ~95€\n\n📊 El Valladolid ha marcado en sus 5 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T15:08:12+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De118JPCAAz",
+   "is_quote_post": false,
+   "shortcode": "De118JPCAAz",
+   "metricas": {
+    "views": 497,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17921909025244726",
+   "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n💥 COMBI DEL PARTIDO 💥\n\n✅1. 🔴 Gana el Forest · 2,20\n✅2. ⚽ Ambos marcan · 1,57\n✅3. 🟨 El Forest ve 2+ tarjetas · 1,53\n✅4. 🎯 El Forest hace más tiros · 1,83\n✅5. 👟 Emersonn 2+ tiros · 1,30\n\n🎯 Cuota: ~10,50 (en Crear apuesta)\n💶 10€ → ~105€\n\n📊 El Forest ha visto 2+ tarjetas en 6 de sus 7 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T14:07:12+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1u9SeCvJj",
+   "is_quote_post": false,
+   "shortcode": "De1u9SeCvJj",
+   "metricas": {
+    "views": 1843,
+    "likes": 8,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18101051510077618",
+   "text": "🇮🇹 TORINO 🆚 MONZA 🇮🇹\n💥 COMBI DEL PARTIDO 💥\n\n✅ Ambos marcan · 1,75\n✅ Más de 2,5 goles · 1,90\n✅ Gol en la 1ª parte · 1,40\n✅ No hay empate · 1,33\n✅ Varela 2+ tiros · 1,28\n✅ Birindelli 1+ tiro · 1,33\n\n🎯 Cuota: ~9,50 (en Crear apuesta)\n💶 10€ → ~95€\n\n📊 Varela (Monza) ha rematado 2+ veces en 5 de sus 6 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T13:06:16+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1n_JoCLFI",
+   "is_quote_post": false,
+   "shortcode": "De1n_JoCLFI",
+   "metricas": {
+    "views": 763,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18078903047477493",
+   "text": "🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n💥 COMBI DEL PARTIDO 💥\n\n1️⃣ Gana el Stuttgart · 1,38\n2️⃣ El Stuttgart gana al descanso · 1,72\n3️⃣ El Gladbach saca 4+ córners · 2,00\n4️⃣ Moritz Nicolas (portero Gladbach) 4+ paradas · 1,53\n5️⃣ Más de 29,5 tiros · 1,72\n\n🎯 Cuota: ~10 (en Crear apuesta)\n💶 10€ → ~100€\n\n📊 Nicolas ha hecho 4+ paradas en sus 6 últimos partidos\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T12:04:58+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1g-d8DRfP",
+   "is_quote_post": false,
+   "shortcode": "De1g-d8DRfP",
+   "metricas": {
+    "views": 629,
+    "likes": 6,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18132790951770579",
+   "text": "🔒 COMBI SEGURA DEL VIERNES 🔒\n\n1️⃣ Más de 1,5 goles en Torino–Monza 🇮🇹 · 1,28\n2️⃣ Gol en la 1ª parte del Brest–Niza 🇫🇷 · 1,30\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Torino y Monza: más de 1,5 goles en sus 7 últimos partidos. 7 de 7 los dos 🔥\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T10:04:25+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1TLf6DTrJ",
+   "is_quote_post": false,
+   "shortcode": "De1TLf6DTrJ",
+   "metricas": {
+    "views": 526,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17886156270503714",
+   "text": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀\n\n❌ Ayer se cayó por el Brighton (0-0 en Jablonec). Aquí no se borra nada: otra vez desde 20€.\n\n🇮🇹 Más de 1,5 goles en Torino–Monza · 1,28\n🇩🇪 Moritz Nicolas (portero Gladbach) 4+ paradas · 1,53\n\n🎯 Cuota 1,96 · 20€ → 39,20€\n\n📊 Torino y Monza: +1,5 goles en sus 7 últimos. Nicolas: 6, 5, 5, 5 y 6 paradas en sus 5 últimos 🧤\n\n20€ → 40 → 80 → 160 → 320 → 640 → 1.280€\n👇 ¿Esta vez llegamos al día 7?\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T09:04:31+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1MUcyin_t",
+   "is_quote_post": false,
+   "shortcode": "De1MUcyin_t",
+   "metricas": {
+    "views": 483,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115898171125103",
+   "text": "💥 COMBINADA CUOTA 3 DEL VIERNES 💥\n\n🇮🇹 Monza marca · 1,40\n🇩🇪 Más de 2,5 goles en Stuttgart–Gladbach · 1,30\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 No hay empate en Ipswich–Forest · 1,30\n🇫🇷 Gol en la 1ª parte del Brest–Niza · 1,30\n\n🎯 Cuota total: 3,08\n💶 10€ → 30,80€\n\n📊 El Monza ha marcado en sus 7 últimos partidos y el Torino ha encajado en 6 de 7\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-23T09:04:28+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/De1MUJCiuy7",
+   "is_quote_post": false,
+   "shortcode": "De1MUJCiuy7",
+   "metricas": {
+    "views": 844,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18114300100861189",
+   "text": "📊 BALANCE DEL JUEVES 📊\n\n🟨 Combi de tarjetas x6,59 → ✅ VERDE\n🚩 9 picks de córners y tarjetas → 7/9\n🍀 9 picks para hoy → 5/9\n💥 La grande → 10/13\n🤪 La loca → 3/7 ❌\n⚽ Celtic–Celta → 1/3 ❌\n⚽ Jablonec–Brighton → 1/3 ❌\n⚽ Bournemouth–Milan → 2/3 ❌\n\nHoy las combis de partido no han entrado, pero la de tarjetas ha pagado 💚\nMañana volvemos con más 💪\n🔞 +18 | Juega con responsabilidad",
+   "timestamp": "2026-10-22T21:31:19+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dez8_nuDU-w",
+   "is_quote_post": false,
+   "shortcode": "Dez8_nuDU-w",
+   "metricas": {
+    "views": 1679,
+    "likes": 3,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18065048711618560",
+   "text": "✅💚 ¡VERDE! JUEVES DE TARJETAS x6,59 💚✅\n\n✅ Celtic / Celta — Más de 3,5 tarjetas\n✅ Hoffenheim / Lyon — Más de 3,5 tarjetas\n✅ Bournemouth / Milan — Más de 3,5 tarjetas\n✅ Ajax / Atalanta — Más de 3,5 tarjetas\n\n💶 10€ → 65,90€\n🍀 ¡Las tarjetas no fallan! 👀💚",
+   "timestamp": "2026-10-22T21:16:56+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dez7WMOlfgn",
+   "is_quote_post": false,
+   "shortcode": "Dez7WMOlfgn",
+   "metricas": {
+    "views": 7263,
+    "likes": 14,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18023756246706968",
+   "text": "🔥⚽ COMBILOCAS — ¡9 PICKS PARA MAÑANA! 🍀\n\n✅1. 🇩🇪 Stuttgart — Gana\n✅2. 🇩🇪 Stuttgart / Gladbach — Más de 1,5 goles\n✅3. 🇪🇸 Alavés — Gana o empata\n✅4. 🇮🇹 Torino — Gana o empata\n✅5. 🇮🇹 Torino / Monza — Más de 1,5 goles\n✅6. 🇮🇹 Monza — Marca\n✅7. 🇫🇷 Brest / Nice — Ambos equipos marcan\n✅8. 🇫🇷 Brest — Gana o empata\n✅9. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich / Forest — Más de 1,5 goles\n\n⚽ ¡Combina máximo 2 o 3! ✅\n💚 Más picks GRATIS en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-22T21:03:17+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dez5yVtFf7u",
+   "is_quote_post": false,
+   "shortcode": "Dez5yVtFf7u",
+   "metricas": {
+    "views": 41794,
+    "likes": 32,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17966279264980217",
+   "text": "🎯 Supercuota del día: la Real Sociedad gana en Noruega 🇳🇴\n10 € a cuota 2,00 en el Lillestrøm vs Real Sociedad de Europa League. Esta noche a las 21:00. ¿Entra? 👀\nEuropaLeague #RealSociedad #apuestas #combilocas",
+   "timestamp": "2026-10-22T18:37:47+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezpIHaCF1w",
+   "is_quote_post": false,
+   "topic_tag": "EuropaLeague",
+   "shortcode": "DezpIHaCF1w",
+   "metricas": {
+    "views": 607,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18137037544575875",
+   "text": "🗳️ ENCUESTA · BOURNEMOUTH 🆚 MILAN (21:00)\n\n¿Quién gana? Responde con 1, X o 2 👇\n\n1️⃣ Bournemouth | 2.00\n❌ Empate | 3.70\n2️⃣ Milan | 3.50\n\n📊 Al Milan le faltan Saelemaekers y Gabbia. El Bournemouth sale favorito en casa.",
+   "timestamp": "2026-10-22T18:15:45+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezmmuyClXz",
+   "is_quote_post": false,
+   "shortcode": "DezmmuyClXz",
+   "metricas": {
+    "views": 579,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18112836434271523",
+   "text": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x21,58! 🍀\n\n✅1. 🇩🇪 Leverkusen — Gana al descanso\n✅2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton — Gana la 1ª parte\n✅3. 🇹🇷 Beşiktaş / Palace — Más de 2,5 goles\n✅4. 🇳🇴 Lillestrøm / Real Sociedad — Ambos marcan\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth / Milan — Ambos marcan\n✅6. 🇪🇸 Real Sociedad — Más córners\n✅7. 🇵🇹 Benfica — Más córners\n\n🎯 CUOTA 21,58 🚀\n📊 Céntimos para soñar, stake bajo 🙏",
+   "timestamp": "2026-10-22T17:45:48+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezjLhviBZB",
+   "is_quote_post": false,
+   "shortcode": "DezjLhviBZB",
+   "metricas": {
+    "views": 2542,
+    "likes": 4,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18127304200851655",
+   "text": "Europa League 🇪🇺⚽🍀\n\n📍 Ambos marcan (1.61) ⚽\n📍 +3.5 tarjetas (1.57) 🟨\n📍 +2.5 goles (1.72) 🔥\n➡️ Resultados: 2-1, 1-2, 2-2\n\n📊 Bournemouth y Milan marcaron en 5 de sus 6 últimos partidos. Fotias saca 4,8 amarillas por partido.\n\n¿Quién gana? 👇",
+   "timestamp": "2026-10-22T17:30:57+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/Dezhex1DbTK",
+   "is_quote_post": false,
+   "shortcode": "Dezhex1DbTK",
+   "metricas": {
+    "views": 510,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18114067940165010",
+   "text": "🟨🔥 COMBILOCAS — ¡JUEVES DE TARJETAS x6,59! 🍀\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Celtic / Celta — Más de 3,5 tarjetas\n✅2. 🇩🇪 Hoffenheim / Lyon — Más de 3,5 tarjetas\n✅3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth / Milan — Más de 3,5 tarjetas\n✅4. 🇳🇱 Ajax / Atalanta — Más de 3,5 tarjetas\n\n🎯 CUOTA 6,59 💎\n📊 Kabakov saca 5,6 amarillas por partido, Nobre 5,4, Meler 4,9 y Fotias 4,8\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+   "timestamp": "2026-10-22T17:20:43+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezgUDijSc5",
+   "is_quote_post": false,
+   "shortcode": "DezgUDijSc5",
+   "metricas": {
+    "views": 1698,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18346831378254288",
+   "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽ CELTIC 🆚 CELTA — 3 PICKS 🔥\n\n✅1. Más de 4,5 tarjetas\n✅2. Ambos equipos marcan\n✅3. El Celtic saca más córners\n\n📊 El árbitro Kabakov saca 5,6 amarillas por partido. Al Celta le falta Borja Iglesias y al Celtic, Carter-Vickers y Trusty\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-22T17:02:48+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DezeQpDjakp",
+   "is_quote_post": false,
+   "shortcode": "DezeQpDjakp",
+   "metricas": {
+    "views": 1523,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18138235063641247",
+   "text": "🚀 LA GRANDE DEL JUEVES · x40,51 🍀\n\n✅ Juve–Rennes +1.5 goles | 1.22\n✅ Sturm–Marsella +1.5 goles | 1.22\n✅ Sunderland más córners | 1.61\n✅ Bournemouth–Milan +1.5 goles | 1.22\n✅ Beşiktaş más córners | 1.72\n✅ Omonia–Benfica +1.5 goles | 1.16\n✅ Celtic–Celta +1.5 goles | 1.25\n✅ Lillestrøm–R. Sociedad +1.5 | 1.20\n✅ Mónaco–Friburgo +1.5 goles | 1.22\n✅ Braga–Gent +1.5 goles | 1.36\n✅ OFI–Leverkusen +2.5 goles | 1.36\n✅ Brighton más remates | 1.14\n✅ Ajax más córners | 1.80\n\n💰 2€ → 81,03€ · stake bajo 🙏",
+   "timestamp": "2026-10-22T16:15:51+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezY4yoiPj2",
+   "is_quote_post": false,
+   "shortcode": "DezY4yoiPj2",
+   "metricas": {
+    "views": 719,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18108235109215047",
+   "text": "🍀 9 PICKS PARA HOY · EUROPA LEAGUE Y CONFERENCE ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton — Gana\n✅2. 🇩🇪 Leverkusen — Gana\n✅3. 🇳🇱 Ajax / Atalanta — Ambos equipos marcan\n✅4. 🇩🇪 Hoffenheim / Lyon — Más de 2,5 goles\n✅5. 🇪🇸 Real Sociedad — Gana\n✅6. 🇵🇹 Benfica — Gana\n✅7. 🇹🇷 Beşiktaş / Palace — Ambos equipos marcan\n✅8. 🇵🇱 Lech / Sunderland — Más de 2,5 goles\n✅9. 🇫🇷 Mónaco / Friburgo — Ambos equipos marcan\n\n⚽ ¡Combina máximo 2 o 3! ✅\n💚 Más picks GRATIS en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-22T15:31:50+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezT2ZUiOcK",
+   "is_quote_post": false,
+   "shortcode": "DezT2ZUiOcK",
+   "metricas": {
+    "views": 4585,
+    "likes": 16,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18360241306247227",
+   "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 JABLONEC 🆚 BRIGHTON · 18:45\n\n📍 Gana el Brighton | 1.27\n📍 Brighton marca 2 o más | 1.30\n📍 Más córners el Brighton | 1.30\n\n➡️ Resultados: 0-2, 0-3, 1-3\n\n📊 El Brighton ha ganado sus 6 últimos partidos: 22 goles a favor y solo 2 en contra",
+   "timestamp": "2026-10-22T15:31:41+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezT1dPDVu1",
+   "is_quote_post": false,
+   "shortcode": "DezT1dPDVu1",
+   "metricas": {
+    "views": 1358,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18104654117630749",
+   "text": "📊 LAS RACHAS DEL JUEVES\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton: 6 victorias seguidas, 22 goles a favor y 2 en contra 😱\n🇳🇱 Ajax: marcaron los dos equipos en sus 6 últimos partidos\n🇩🇪 Friburgo: +2.5 goles en sus 6 últimos\n🇩🇪 Leverkusen: 6 partidos sin perder\n🇨🇾 Omonia: 6 sin perder y 4 porterías a cero\n🇮🇹 Juventus: perdió sus 2 últimos partidos en casa\n🇪🇸 Getafe y 🇵🇹 Braga: 1 victoria en sus 6 últimos\n\n👇 ¿Qué racha se rompe esta noche?",
+   "timestamp": "2026-10-22T14:09:45+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezKdAwiJbf",
+   "is_quote_post": false,
+   "shortcode": "DezKdAwiJbf",
+   "metricas": {
+    "views": 612,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18076281116744256",
+   "text": "🇳🇱 AJAX 🆚 ATALANTA 🇮🇹 · 21:00\n📍 Ambos marcan | 1.50\n📍 +2.5 goles | 1.57\n📍 Ajax +3.5 córners | 1.40\n➡️ Resultados: 2-1, 2-2, 3-1\n📊 El Ajax saca 7,8 córners por partido y la Atalanta no ha dejado la portería a cero en sus 6 últimos",
+   "timestamp": "2026-10-22T13:37:05+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DezGyT3Dqef",
+   "is_quote_post": false,
+   "shortcode": "DezGyT3Dqef",
+   "metricas": {
+    "views": 3684,
+    "likes": 22,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17966074931983934",
+   "text": "🗳️ ENCUESTA · AJAX 🆚 ATALANTA (21:00)\n\n¿Quién gana? Responde con 1, X o 2 👇\n\n1️⃣ Ajax | 2.10\n❌ Empate | 3.70\n2️⃣ Atalanta | 3.20\n\n📊 El Ajax ha marcado 19 goles en sus 6 últimos partidos. La Atalanta ha perdido 4 de sus 6 últimos.",
+   "timestamp": "2026-10-22T13:31:43+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DezGGoNCBpU",
+   "is_quote_post": false,
+   "shortcode": "DezGGoNCBpU",
+   "metricas": {
+    "views": 548,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18113759888607994",
+   "text": "⚠️ EL PARTIDO TRAMPA DEL JUEVES\n\n🇮🇹 Juventus – Rennes 🇫🇷 · 18:45\n\nLa Juve sale de favorita (1.55), pero:\n🚑 Le faltan Zhegrova, Conceição, Yıldız, Thuram y Locatelli\n🏠 Ha perdido sus 2 últimos partidos en casa: 0-3 con la Lazio y 0-1 con el Cremonese\n\nNosotros no la metemos en ninguna combi.\nSi te la quieres jugar: Rennes o empate | 2.37\n\n👇 ¿Cae la Juve?",
+   "timestamp": "2026-10-22T12:31:33+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dey_N7KCuf-",
+   "is_quote_post": false,
+   "shortcode": "Dey_N7KCuf-",
+   "metricas": {
+    "views": 627,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18122702984515615",
+   "text": "🎯 EL JUGADOR DEL DÍA: VLAHOVIĆ 🇷🇸\n\nBeşiktaş–Palace · 21:00\n\n📊 Sus remates a puerta en los 6 últimos partidos:\n[1, 1, 1, 1, 2, 4] → nunca se ha quedado a cero\n⚽ 6 goles en esos 6 partidos\n\n📍 1+ remate a puerta | 1.16\n📍 2+ remates a puerta | 1.80\n📍 Marca | 1.83\n\n👇 ¿Marca hoy?",
+   "timestamp": "2026-10-22T10:31:41+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeyxgVADd_A",
+   "is_quote_post": false,
+   "shortcode": "DeyxgVADd_A",
+   "metricas": {
+    "views": 890,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18085838576686830",
+   "text": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x5,79! 🍀\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton — Gana en Jablonec\n✅2. 🇩🇪 Leverkusen — Gana en Creta\n✅3. 🇪🇸 Real Sociedad — Gana en Lillestrøm\n✅4. 🇵🇹 Benfica — Gana en Chipre\n✅5. 🇵🇱 Lech / Sunderland — Más de 2,5 goles\n\n🎯 CUOTA 5,79 💎\n📊 Brighton: 6 de 6 ganados, 22 goles a favor y 2 en contra 😱\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-22T10:03:35+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeyuRvcjd-d",
+   "is_quote_post": false,
+   "shortcode": "DeyuRvcjd-d",
+   "metricas": {
+    "views": 47075,
+    "likes": 56,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18451452907132204",
+   "text": "🪜 RETO ESCALERA · DÍA 1 (volvemos a empezar) 🍀\n\nEl primero se nos cayó por una tarjeta. Aquí no se borra nada: otra vez desde 20€ y cada día todo a cuota ~2.\n\n🇳🇱 Ajax–Atalanta: +1.5 goles | 1.16\n🇩🇪 Hoffenheim–Lyon: +1.5 goles | 1.14\n🇩🇪 Leverkusen saca más córners | 1.18\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton marca 2 o más | 1.30\n\n🎯 Cuota 2,03 · 20€ → 40,57€\n📊 Ajax, Atalanta, Hoffenheim y Lyon pasaron de 2.5 goles en 5 de sus 6 últimos.\n\n20€ → 40 → 80 → 160 → 320 → 640€\n👇 ¿Llegamos al día 6?",
+   "timestamp": "2026-10-22T09:04:52+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeynkCUDYKZ",
+   "is_quote_post": false,
+   "shortcode": "DeynkCUDYKZ",
+   "metricas": {
+    "views": 5174,
+    "likes": 30,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18128776435651737",
+   "text": "⚽ JUEVES DE AMBOS MARCAN · x5,22 🍀\n\n🇳🇱 Ajax–Atalanta: ambos marcan | 1.50\n🇩🇪 Hoffenheim–Lyon: ambos marcan | 1.44\n🇹🇷 Beşiktaş–Palace: ambos marcan | 1.50\n🇫🇷 Mónaco–Friburgo: ambos marcan | 1.61\n\n📊 El Ajax vio marcar a los dos en sus 6 últimos partidos. El Hoffenheim, en 5 de 6.\n💶 10€ → 52,16€",
+   "timestamp": "2026-10-22T08:31:19+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeyjubxCO3s",
+   "is_quote_post": false,
+   "shortcode": "DeyjubxCO3s",
+   "metricas": {
+    "views": 4975,
+    "likes": 15,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17913184656550540",
+   "text": "☀️ JUEVES DE EUROPA 🍀\n\n⏰ 18:45\n🇮🇹 Juventus – Rennes 🇫🇷\n🇬🇷 OFI – Leverkusen 🇩🇪\n🇦🇹 Sturm – Marsella 🇫🇷\n🇵🇱 Lech – Sunderland 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🇪🇸 Getafe – Lugano 🇨🇭\n🇨🇿 Jablonec – Brighton 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n⏰ 21:00\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Celtic – Celta 🇪🇸\n🇳🇴 Lillestrøm – Real Sociedad 🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth – Milan 🇮🇹\n🇩🇪 Hoffenheim – Lyon 🇫🇷\n🇳🇱 Ajax – Atalanta 🇮🇹\n🇫🇷 Mónaco – Friburgo 🇩🇪\n🇹🇷 Beşiktaş – Palace 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🇨🇾 Omonia – Benfica 🇵🇹\n\n👇 ¿Qué partido no te pierdes?",
+   "timestamp": "2026-10-22T07:31:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deyc3W_iH-r",
+   "is_quote_post": false,
+   "shortcode": "Deyc3W_iH-r",
+   "metricas": {
+    "views": 792,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18144405316581014",
+   "text": "✅ OTRO VERDE · SUPERCUOTA x2,00 🍀\n🇪🇸 Real Madrid gana al Leipzig por 2+ goles ✅ (4-1)\n💶 10€ → 20€\n📌 Cuando juegan Madrid o Barça, las casas suben esta cuota a 2,00 cuando normalmente paga 1,40-1,60. Casi siempre merece la pena mirarla 👀\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-21T22:23:45+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DexeQzRDYPY",
+   "is_quote_post": false,
+   "shortcode": "DexeQzRDYPY",
+   "metricas": {
+    "views": 737,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18181429960437945",
+   "text": "📊 BALANCE TOTAL DEL MIÉRCOLES 🍀\n\n🧾 16 combis publicadas\n✅ 5 verdes · ❌ 11 rojas\n🎯 Picks: 56 de 83 acertados (67%)\n\n✅ Verdes: Miércoles x6,04 · Madrid–Leipzig · Bayern–Arsenal · Como–United · Villa–Viking\n❌ Lo que más dolió: el Sporting perdió con el LASK y el Bayern no pasó del empate\n\nAquí no se borra nada: verdes y rojas 💚❤️",
+   "timestamp": "2026-10-21T21:34:58+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DexYnMdChlO",
+   "is_quote_post": false,
+   "shortcode": "DexYnMdChlO",
+   "metricas": {
+    "views": 1519,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18632887189045757",
+   "text": "✅ OTRO VERDE x2 🍀\n\n1️⃣ 8 de 8 en la Champions de hoy 💚\nMadrid, Inter, Villa y Betis ganan, ambos marcan en Bayern–Arsenal y Lille–Gala, y goles en Como y Brujas ⚽\n💶 10€ → 44,79€ de beneficio\n\n2️⃣ Cerrada a tiempo: Betis · Bayern · Real Madrid\nEl Arsenal empató al final, pero ya estaba cobrada 😮‍💨\n💶 25€ → 51,27€",
+   "timestamp": "2026-10-21T21:26:21+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "permalink": "https://www.threads.com/@combilocas/post/DexXoEuCjO_",
+   "is_quote_post": false,
+   "shortcode": "DexXoEuCjO_",
+   "metricas": {
+    "views": 5199,
+    "likes": 8,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18029916371693317",
+   "text": "✅ OTRO VERDE · x16,67 🍀\n\n🇮🇹 Como gana una de las dos partes ✅\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Villa–Viking: ambos marcan ✅\n🇧🇪 Gana el Brujas ✅\n🇩🇪 Bayern o empate ✅\n🇪🇸 Gana el Real Madrid ✅\n🇪🇸 Gana el Betis + Ezzalzouli 1+ remate a puerta ✅\n\n💶 5€ → 85,68€ 🔥",
+   "timestamp": "2026-10-21T21:21:07+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DexXBs2CDcZ",
+   "is_quote_post": false,
+   "shortcode": "DexXBs2CDcZ",
+   "metricas": {
+    "views": 563,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18094741004680563",
+   "text": "✅ ¡VERDE! MIÉRCOLES x6,04 🍀\n\n🇮🇹 Como gana al Man United ✅ (4-1)\n🇪🇸 Real Madrid–Leipzig: ambos marcan ✅ (4-1)\n🇵🇹 Sporting–LASK: ambos marcan ✅ (2-3)\n\n💶 10€ → 60,38€ 💚",
+   "timestamp": "2026-10-21T21:16:06+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DexWdERCEbY",
+   "is_quote_post": false,
+   "shortcode": "DexWdERCEbY",
+   "metricas": {
+    "views": 993,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18111255626522633",
+   "text": "🎯 PLENO EN LOS PARTIDOS SUELTOS 🍀\n\n🇪🇸 Madrid–Leipzig 4-1: 3/3 ✅\n🇩🇪 Bayern–Arsenal 2-2: 3/3 ✅\n🇮🇹 Como–United 4-1: 3/3 ✅\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Villa–Viking 3-1: 3/3 ✅ y marcador clavado 🎯\n\nMañana más, con la Europa League 👀",
+   "timestamp": "2026-10-21T21:11:00+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DexV4ESlaur",
+   "is_quote_post": false,
+   "shortcode": "DexV4ESlaur",
+   "metricas": {
+    "views": 12273,
+    "likes": 18,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 4
+   }
+  },
+  {
+   "id": "17959056735014044",
+   "text": "🎯 LOS CRACKS DE LAS 21:00 · x7,13 🍀\n\n🇪🇸 Madrid–Leipzig: Mbappé 3+ remates a puerta | 1.57\n🇩🇪 Bayern–Arsenal: Kane 2+ remates a puerta | 1.90\n🇮🇹 Inter–Shakhtar: Thuram 2+ remates a puerta | 1.66\n🇵🇹 Sporting–LASK: Luis Suárez 2+ remates a puerta | 1.44\n\n💶 10€ → 71,31€",
+   "timestamp": "2026-10-21T17:45:48+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dew-YksCOBN",
+   "is_quote_post": false,
+   "shortcode": "Dew-YksCOBN",
+   "metricas": {
+    "views": 1983,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17905867407596737",
+   "text": "📊 LAS RACHAS DE LOS QUE JUEGAN HOY EN CHAMPIONS 🍀\n\n🇩🇪 Bayern: 15 partidos sin perder y +2,5 goles en sus 6 últimos 😱\n🇵🇹 Sporting: 14 partidos sin perder\n🇺🇦 Shakhtar: ha ganado sus 6 últimos partidos\n🇧🇪 Brujas: 5 victorias seguidas\n🇳🇴 Viking: ha marcado primero en sus 6 últimos partidos\n🇳🇱 Feyenoord: +2,5 goles en 9 de sus 10 últimos\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal: 3 victorias seguidas\n\n¿Qué racha se rompe esta noche? 👇",
+   "timestamp": "2026-10-21T16:40:44+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dew28OhCDVH",
+   "is_quote_post": false,
+   "shortcode": "Dew28OhCDVH",
+   "metricas": {
+    "views": 447,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18106962398195838",
+   "text": "📊 LAS MEJORES CUOTAS 🍀\n\n🇩🇪 Bayern–Arsenal +2.5 goles | 1.53 · Bayern 6/6\n🇪🇸 Madrid–Leipzig +3.5 tarjetas | 1.72 · Kovács: 5,3/partido\n🇧🇪 Brujas–Lens +3.5 tarjetas | 1.61 · Godinho: 5,3/partido\n🇪🇸 Betis–Feyenoord +3.5 tarjetas | 1.50 · Sozza: 4,6/partido\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Villa gana por 2+ goles | 1.57 · 5/6 ganados\n🇮🇹 Como–United ambos marcan | 1.44 · Como 7/9\n🇮🇹 Inter–Shakhtar +2.5 goles | 1.30 · Shakhtar 6/6\n\nJuntas: x18,68 · 💶 10€ → 186,79€\n\n📲 Más combis gratis en nuestro Telegram (enlace en perfil)",
+   "timestamp": "2026-10-21T16:30:51+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dew1zqyisAh",
+   "is_quote_post": false,
+   "shortcode": "Dew1zqyisAh",
+   "metricas": {
+    "views": 982,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18147624244577831",
+   "text": "💣⚽ COMBILOCAS — ¡MIÉRCOLES x6,04! 🏆🔥\n\n🇮🇹 Como — Gana al Man United 💙 | 2.30\n🇪🇸 Real Madrid vs Leipzig — Ambos marcan ⚽⚽ | 1.50\n🇵🇹 Sporting vs LASK — Ambos marcan ⚽⚽ | 1.75\n\n💰 10€ ➡️ 60,38€ 🤑\n🎯 CUOTA 6,04 🔥\n\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio",
+   "timestamp": "2026-10-21T16:15:47+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dew0FjDiB-6",
+   "is_quote_post": false,
+   "shortcode": "Dew0FjDiB-6",
+   "metricas": {
+    "views": 2649,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17934277203143081",
+   "text": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x22,37! 🏆🤪\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana y ambos marcan 🦁⚽ | 2.30\n🇵🇹 Sporting — Gana y ambos marcan 🦁⚽ | 2.37\n🇩🇪 Bayern vs Arsenal — +2.5 goles 🔥 | 1.62\n🇧🇪 Brujas vs Lens — Ambos marcan ⚽⚽ | 1.50\n🇮🇹 Inter vs Shakhtar — +2.5 goles ⚽ | 1.33\n🇪🇸 Real Madrid — Gana 👑 | 1.27\n\n💰 3€ ➡️ 67,12€ 🤑\n💰 10€ ➡️ 223,74€ 💸💸\n🎯 CUOTA 22,37 🚀",
+   "timestamp": "2026-10-21T15:46:35+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewwvRMCihY",
+   "is_quote_post": false,
+   "shortcode": "DewwvRMCihY",
+   "metricas": {
+    "views": 8815,
+    "likes": 16,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18117534793814528",
+   "text": "🍀 9 PICKS PARA HOY · CHAMPIONS ⚽\n\n✅1. 🇩🇪 Bayern / Arsenal — Más de 2,5 goles\n✅2. 🇮🇹 Inter — Hándicap (-1)\n✅3. 🇪🇸 Real Madrid — Gana\n✅4. 🇮🇹 Como / Man United — Más de 2,5 goles\n✅5. 🇵🇹 Sporting — Gana\n✅6. 🇫🇷 Lille / Galatasaray — Ambos equipos marcan\n✅7. 🇪🇸 Betis — Gana\n✅8. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana\n✅9. 🇧🇪 Club Brujas / Lens — Ambos equipos marcarán",
+   "timestamp": "2026-10-21T15:32:38+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewvJaQCKsZ",
+   "is_quote_post": false,
+   "shortcode": "DewvJaQCKsZ",
+   "metricas": {
+    "views": 55829,
+    "likes": 26,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18099012878553430",
+   "text": "📡⚽ RADAR COMBILOCAS | ASTON VILLA 🆚 VIKING 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 El Villa ganó 5 de sus últimos 6 💪\n🇳🇴 El Viking le metió 3 al Bayern 😱\n\n🎯 Gana el Villa 🦁 | 1.25\n⚽ Ambos marcan ⚽⚽ | 1.67\n🔥 +3.5 goles 🔥 | 1.80\n\n🚨 Resultado probable: 3-1 | 2-1 | 3-2\n\n🍀 ¿Cuál te juegas? 👇",
+   "timestamp": "2026-10-21T15:07:32+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewsRaVCkLq",
+   "is_quote_post": false,
+   "shortcode": "DewsRaVCkLq",
+   "metricas": {
+    "views": 282,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18129212855492405",
+   "text": "Champions League 🇪🇺⚽🍀\n📍 Como gana al menos una parte (1.65) 💪\n📍 Ambos marcan (1.50) ⚽\n📍 +2.5 goles (1.63) 🔥\n➡️ Resultados: 2-1, 2-2, 3-1\n¿Quién gana? 👇",
+   "timestamp": "2026-10-21T14:59:16+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DewrZWPDRVF",
+   "is_quote_post": false,
+   "shortcode": "DewrZWPDRVF",
+   "metricas": {
+    "views": 306,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18098785436541363",
+   "text": "🪜 RETO ESCALERA · DÍA 1 🍀\n\nEmpezamos con 20€ y cada día lo jugamos todo a cuota ~2.\n\n📍 Bayern–Arsenal: +2.5 goles | 1.53\n📍 Betis–Feyenoord: +3.5 tarjetas | 1.50\n\n🎯 Cuota 2,30 · 20€ → 45,90€\n📊 El Bayern pasó de 2.5 goles en sus 6 últimos. Sozza saca 4,6 tarjetas por partido.\n\nSi doblamos cada día:\n20€ → 40 → 80 → 160 → 320 → 640€ en 5 días\ny 1.280€ si llegamos al 6º 🔥\n\n👇 ¿Llegamos al día 6?",
+   "timestamp": "2026-10-21T14:46:14+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dewp1ozCJyI",
+   "is_quote_post": false,
+   "shortcode": "Dewp1ozCJyI",
+   "metricas": {
+    "views": 485,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18191885986360377",
+   "text": "⚽🔥 COMBILOCAS — BAYERN 🆚 ARSENAL 🔥⚽\n\n🇩🇪 El Bayern pasó de 2.5 goles en sus 6 últimos partidos 😱\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 El Arsenal llega líder de la Premier 💪\n\n⚽ Más de 2.5 goles 🔥 | 1.62\n⚽ Ambos marcan ⚽⚽ | 1.50\n🇩🇪 Gana el Bayern 🔴 | 2.10\n\n🍀 ¿Cuál te juegas? 👇",
+   "timestamp": "2026-10-21T14:08:11+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dewleu7jdaD",
+   "is_quote_post": false,
+   "shortcode": "Dewleu7jdaD",
+   "metricas": {
+    "views": 259,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18032561915856188",
+   "text": "⚽ LLUVIA DE GOLES EN CHAMPIONS · x7,66 🍀\n\n🇪🇸 Madrid–Leipzig: +3.5 goles | 1.50\n🇪🇸 Betis–Feyenoord: +2.5 goles | 1.36\n🇫🇷 Lille–Gala: +2.5 goles | 1.67\n🇧🇪 Brujas–Lens: +2.5 goles | 1.33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Villa–Viking: +2.5 goles | 1.30\n🇮🇹 Inter–Shakhtar: +2.5 goles | 1.30\n\n📊 El Shakhtar: 6 de 6 con +2.5 goles\n💶 10€ → 76,57€\n\n👇 ¿Cuál se queda corto?",
+   "timestamp": "2026-10-21T13:16:12+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewfiLuCNJg",
+   "is_quote_post": false,
+   "shortcode": "DewfiLuCNJg",
+   "metricas": {
+    "views": 562,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18347698117264487",
+   "text": "Champions League 🇪🇺⚽🍀\n\n📍 Betis gana al Feyenoord (1.65) 💚\n📍 Ambos marcan (1.40) ⚽\n📍 +2.5 goles (1.36) 🔥\n➡️ Resultados: 2-1, 3-1, 3-2\n\n📊 El Betis vio marcar a los dos en 5 de sus últimos 6\n\n¿Quién gana? 👇",
+   "timestamp": "2026-10-21T12:31:57+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewaeTWjUs6",
+   "is_quote_post": false,
+   "shortcode": "DewaeTWjUs6",
+   "metricas": {
+    "views": 313,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17878676295567304",
+   "text": "🛡️ MIÉRCOLES SIN SUSTOS · x6,38 🍀\n\n🇮🇹 Como o empate vs Man United | 1.40\n🇫🇷 Lille gana al Galatasaray | 2.20\n🇩🇪 Bayern o empate vs Arsenal | 1.36\n🇧🇪 Brujas o empate vs Lens | 1.29\n🇪🇸 Betis o empate vs Feyenoord | 1.18\n\n📊 El United no gana desde hace 6 partidos\n💶 10€ → 63,76€\n\n👇 ¿Cuál quitarías tú?",
+   "timestamp": "2026-10-21T11:46:11+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewVOl_iBop",
+   "is_quote_post": false,
+   "shortcode": "DewVOl_iBop",
+   "metricas": {
+    "views": 439,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17897452275609802",
+   "text": "Champions League 🇪🇺⚽🍀\n\n📍 Ambos marcan (1.50) ⚽\n📍 +2.5 goles (1.60) 🔥\n📍 Bayern marca +1.5 goles (1.83) 🇩🇪\n➡️ Resultados: 2-1, 3-1, 2-2\n\n¿Quién gana? 👇",
+   "timestamp": "2026-10-21T11:04:36+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DewQd-HCGwx",
+   "is_quote_post": false,
+   "shortcode": "DewQd-HCGwx",
+   "metricas": {
+    "views": 293,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17876039313584623",
+   "text": "Champions League 🇪🇺⚽🍀\n\n📍 Real Madrid gana por 2+ goles (1.65) ⭐\n📍 Real Madrid +2.5 goles (1.60) 🔥\n📍 Ambos marcan (1.55) ⚽\n➡️ Resultados: 3-1, 4-1, 4-2\n\n¿Quién gana? 👇",
+   "timestamp": "2026-10-21T10:52:06+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DewPCfmiFua",
+   "is_quote_post": false,
+   "shortcode": "DewPCfmiFua",
+   "metricas": {
+    "views": 265,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18098880380640824",
+   "text": "Champions League 🇪🇺⚽🍀\n\n📍 Como gana al menos una parte (1.65) 💪\n📍 Ambos marcan (1.50) ⚽\n📍 +2.5 goles (1.63) 🔥\n➡️ Resultados: 2-1, 2-2, 3-1\n\n¿Quién gana? 👇\n\n🔞 +18 | Juego responsable\n#ApuestasDeportivas",
+   "timestamp": "2026-10-21T10:15:17+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DewK5cOjouv",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DewK5cOjouv",
+   "metricas": {
+    "views": 226,
+    "likes": 4,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18034251599672308",
+   "text": "🤪 PROMETIDO: LA LOCA DEL MIÉRCOLES · ~x23 🍀\n\n🇪🇸 Real Madrid gana | 1.27\n🇮🇹 Inter gana | 1.20\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa gana | 1.25\n🇵🇹 Sporting gana | 1.22\n🇪🇸 Betis gana | 1.50\n🇩🇪 Bayern gana al Arsenal | 2.10\n🇫🇷 Lille–Galatasaray: ambos marcan | 1.53\n🇧🇪 Brujas gana | 2.05\n\n💰 3€ → ~69€\n💶 10€ → ~229€\n\n👇 ¿Cuál nos la tumba?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-21T10:04:19+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewJknqiAMY",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DewJknqiAMY",
+   "metricas": {
+    "views": 224,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18077213258563789",
+   "text": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x7,15! 🏆💚\n\n🇧🇪 Brujas — Gana al Lens 💙 | 2.05\n🇪🇸 Betis — Gana 💚 | 1.50\n🇪🇸 Real Madrid — Gana 👑 | 1.27\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana 🦁 | 1.25\n🇵🇹 Sporting — Gana 🦁 | 1.22\n🇮🇹 Inter — Gana ⚫🔵 | 1.20\n\n✅ Con la promo de 2 goles de ventaja\n💰 10€ ➡️ 71,47€ 🤑\n🎯 CUOTA 7,15 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-21T10:03:40+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DewJf02CA8d",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DewJf02CA8d",
+   "metricas": {
+    "views": 940,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18001244048813678",
+   "text": "🗣️ Pregunta seria, sin apuestas de por medio:\n\n¿Quién es AHORA MISMO el mejor jugador del mundo?\n\nUna sola palabra 👇",
+   "timestamp": "2026-10-21T08:31:29+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dev-9B2Dbih",
+   "is_quote_post": false,
+   "shortcode": "Dev-9B2Dbih",
+   "metricas": {
+    "views": 118,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18139507300618664",
+   "text": "🔥 MI COMBI DEL MIÉRCOLES · x42,84 🍀\n\n💶 5€ ➡️ 222,55€\n\n¿La pintamos de verde? 💚👇\n\n🔞 +18 | Juego responsable\n\n#ApuestasDeportivas",
+   "timestamp": "2026-10-21T01:32:01+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DevPA3CCCMR",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DevPA3CCCMR",
+   "metricas": {
+    "views": 168,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "17869038861679718",
+   "text": "📊🔥 COMBILOCAS — RESUMEN DEL MARTES 🍀\n\n💔 A UN SOLO PICK DE CLAVARLAS:\n🔸 Soñadora x18,97 → 6/7\n🔸 1ª parte x11,27 → 2/3\n🔸 Un pick por partido → 7/8\n🔸 Combi x6,54 → 4/5\n\n✅ PSG–Barça +3,5 goles (6 goles)\n❌ Larga x74,29 · Barça gana en París\n\n😭 El Oporto 0-1 PSV nos hundió 3 combis\n\n🍀 ¿Cuál te dolió más? 👀\n💚 Más combis GRATIS 👉 @combilocas\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T21:51:00+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deu1pqhisSa",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Deu1pqhisSa",
+   "metricas": {
+    "views": 240,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18027261722874050",
+   "text": "💔⚽ COMBILOCAS — A UN GOL DE CLAVARLA 🍀\n\nSOÑADORA x18,97: 6 picks dentro y 1 nula 😮‍💨\n\n✅ Sabah +2.0 | 1,625\n✅ Liverpool gana (4-3) | 1,53\n✅ City-AEK +2 goles (5-1) | 1,28\n✅ PSG-Barça +3 goles (4-2) | 1,50\n✅ Roma -1.0 (4-0) | 1,17\n✅ Stuttgart-Atlético tarjetas+ambos marcan | 1,80\n➖ Fenerbahçe sin empate (2-2) | nula\n❌ Oporto-PSV +2 goles (0-1) | 1,50\n\nUna sola cayó por un gol 😭\n\n🍀 ¿Cuál te dolió más? 👀\n💚 Más combis GRATIS 👉 @combilocas\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T21:31:24+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuzZ_QiFhj",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuzZ_QiFhj",
+   "metricas": {
+    "views": 183,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18025833002877788",
+   "text": "🔥⚽ COMBILOCAS — ¡9 PICKS PARA MAÑANA! 🏆🍀\n\n🇪🇸 Real Madrid — Gana\n🇮🇹 Inter — Gana\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana\n🇵🇹 Sporting — Gana\n🇪🇸 Betis — Gana\n🇮🇹 Como vs Man United — +1.5 goles\n🇫🇷 Lille vs Galatasaray — Ambos marcan\n🇩🇪 Bayern vs Arsenal — Ambos marcan\n🇧🇪 Brujas vs Lens — +1.5 goles\n\n⚽ Combina máximo 2 o 3 · stake bajo\n👇 ¿Con cuáles 2 te quedas?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T21:16:07+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuxqGaiCcI",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuxqGaiCcI",
+   "metricas": {
+    "views": 259,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18113515295601443",
+   "text": "🔮 MARCADORES DE MAÑANA · Champions 🍀\n\nLos 9 partidos del miércoles, a boli 🖊️\nGuárdalo 📌 y mañana por la noche comprobamos cuántos clavamos.\n\n👇 ¿Cuál fallamos seguro?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T20:31:16+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DeusiCGlYuZ",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeusiCGlYuZ",
+   "metricas": {
+    "views": 159,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17910582612481885",
+   "text": "🤫 LA LOCA DEL MIÉRCOLES ya está hecha 🍀\n\n8 selecciones · cuota ~x23\n💶 10€ → ~229€\n\nSi este post pasa de 30 ❤️, mañana a las 12:00 la suelto aquí entera.\n\n👇 ¿La queréis?\n🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T19:46:11+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeunXV8CmPu",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeunXV8CmPu",
+   "metricas": {
+    "views": 132,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18119370356322871",
+   "text": "🤪🔥 COMBILOCAS — LA LOCA DE LOS REMATES x27.144 🍀\n\n🇪🇸 PSG–Barça: Yamal, Dembélé, Raphinha, Kvara y Gordon 2+ remates a puerta | 26.00\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 City–AEK: Cherki 2+ remates a puerta | 1.80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Villarreal: Gakpo y Mac Allister 2+ remates | 20.00\n🇩🇪 Stuttgart–Atleti: Undav, Baena y Julián Álvarez 2+ remates | 29.00\n\n💶 1,26€ → 34.201,44€ 💸🤑\n\n🍀 ¿Cuántos salen? 👀\n💚 Más combis GRATIS 👉 @combilocas\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T19:03:54+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuiiOQFba9",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuiiOQFba9",
+   "metricas": {
+    "views": 156,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17970306687192626",
+   "text": "⏰ PSG–BARÇA EN UNA HORA\n\n🇫🇷 6 victorias seguidas del PSG\n🇪🇸 6 victorias seguidas del Barça\nEsta noche uno de los dos la pierde…\n\n🔵🔴 Barça\n🔵 PSG\n🤝 Empate\n\n👇 ¿Quién gana? Responde con tu equipo\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T18:00:55+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeubTyrCHgI",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeubTyrCHgI",
+   "metricas": {
+    "views": 87,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17931907623166604",
+   "text": "🤪 LA LOCA DE CHAMPIONS · x16,15\n\n🇹🇷 Fenerbahçe–Slavia +10 córners | 2.00\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Villarreal +10 córners | 2.10\n🟨 Ambos reciben tarjeta en:\n🇫🇷 PSG–Barça | 1.25\n🇦🇿 Sabah–Dortmund | 1.40\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City–AEK | 1.40\n🇮🇹 Roma–Slovan | 1.33\n🇵🇹 Oporto–PSV | 1.18\n\n💰 3€ → 48,45€\n💶 10€ → 161,49€\n\n👇 ¿En qué partido no sale la tarjeta?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T16:15:40+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuPR4EjWeN",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuPR4EjWeN",
+   "metricas": {
+    "views": 121,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18099212699455056",
+   "text": "💭 LA SOÑADORA · x18,97\n\n🇹🇷 Fenerbahçe sin empate | 1.25\n🇦🇿 Sabah +2.0 hándicap vs Dortmund | 1.625\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool gana | 1.53\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City–AEK: más de 2 goles | 1.28\n🇵🇹 Oporto–PSV: más de 2 goles | 1.50\n🇫🇷 PSG–Barcelona: más de 3 goles | 1.50\n🇮🇹 Roma -1.0 hándicap | 1.17\n🇩🇪 Stuttgart–Atlético: ambos tarjeta + ambos anotan | 1.80\n\n💶 5€ → 94,87€\n\n👇 ¿Cuál nos la tumba?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T15:32:18+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuKT8rCKDG",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuKT8rCKDG",
+   "metricas": {
+    "views": 237,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18001134729007675",
+   "text": "🔵🔴 EL BARÇA ASALTA PARÍS · x7,02\n\n🇪🇸 Barcelona gana en París | 2.50\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool marca entre 2 y 4 | 1.61\n🇮🇹 Roma gana al Slovan | 1.14\n🇹🇷 Fenerbahçe–Slavia entre 2 y 4 goles | 1.53\n\n📊 El Barça lleva 4 partidos seguidos de Champions marcando 4 o más\n💶 10€ → 70,20€\n\n👇 ¿Culés o parisinos?\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T14:31:35+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeuDXERiMMl",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeuDXERiMMl",
+   "metricas": {
+    "views": 147,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17889687237619379",
+   "text": "🔮 NUESTROS MARCADORES DE ESTA NOCHE\n\n🇫🇷 PSG 2–3 Barcelona 🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool 2–1 Villarreal 🇪🇸\n🇩🇪 Stuttgart 1–1 Atlético 🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City 4–1 AEK 🇬🇷\n🇮🇹 Napoli 2–2 Bodø/Glimt 🇳🇴\n🇦🇿 Sabah 2–3 Dortmund 🇩🇪\n🇵🇹 Oporto 3–2 PSV 🇳🇱\n🇮🇹 Roma 3–0 Slovan 🇸🇰\n🇹🇷 Fenerbahçe 2–1 Slavia 🇨🇿\n\n👇 Pon tu marcador del PSG–Barça\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T13:31:44+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Det8hCgCClm",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Det8hCgCClm",
+   "metricas": {
+    "views": 516,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18638911951002506",
+   "text": "🔥 MI COMBI DE CHAMPIONS · x40,70\n\n🇫🇷 PSG–Barça: empate o Barça | 1.53\n🇹🇷 Fener–Slavia: Muriqi 1+ 🎯 + ambos 🟨 | 1.44\n🇦🇿 Sabah–Dortmund: ambos marcan | 1.75\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Villarreal: ambos marcan | 1.53\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 City–AEK: Haaland 2+ 🎯 + Doku 2+ faltas | 1.61\n🇮🇹 Napoli–Bodø: marca el Bodø | 1.36\n🇵🇹 Oporto–PSV: marca el PSV | 1.40\n🇮🇹 Roma–Slovan: Malen 1+ 🎯 | 1.083\n🇩🇪 Stuttgart–Atleti: ambos 🟨 + Baena 1+ 🎯 | 2.05\n\n💶 5€ → 203,51€\n\n👇 ¿Cuál nos la tumba?\n🔞 +18 Juego responsable",
+   "timestamp": "2026-10-20T12:13:59+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetznwpjbmC",
+   "is_quote_post": false,
+   "shortcode": "DetznwpjbmC",
+   "metricas": {
+    "views": 384,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18015893174753062",
+   "text": "⭐ UN PICK POR PARTIDO Y SU CONFIANZA\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Villarreal +1.5 goles | 1.14 ⭐⭐⭐⭐⭐\n🇫🇷 PSG–Barça ambos marcan | 1.22 ⭐⭐⭐⭐⭐\n🇮🇹 Roma gana | 1.14 ⭐⭐⭐⭐\n🇩🇪 Dortmund gana | 1.30 ⭐⭐⭐⭐\n🇵🇹 Oporto–PSV +1.5 goles | 1.17 ⭐⭐⭐⭐\n🇹🇷 Fenerbahçe gana o empata | 1.18 ⭐⭐⭐⭐\n🇩🇪 Stuttgart–Atlético +1.5 goles | 1.17 ⭐⭐⭐⭐\n🇮🇹 Napoli gana o empata | 1.17 ⭐⭐⭐\n\n👇 Elige 2 o 3 y dime cuáles\n💚 Más gratis en @combilocas · 🔞 +18 Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T12:02:46+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetyU87ig6e",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetyU87ig6e",
+   "metricas": {
+    "views": 238,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18117938282061261",
+   "text": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x6,54! 🏆💚\n\n🇪🇸 Atlético — Gana o empata en Stuttgart 🛡️ | 1.33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana 🔴 | 1.48\n🇹🇷 Fenerbahçe — Gana 💛 | 1.67\n🇩🇪 Dortmund — Gana 🐝 | 1.30\n🇮🇹 Napoli vs Bodø — Ambos marcan ⚽⚽ | 1.53\n\n✅ Con la promo de 2 goles de ventaja\n💰 10€ ➡️ 65,38€ 🤑\n🎯 CUOTA 6,54 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T10:04:22+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetkyfijVNx",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetkyfijVNx",
+   "metricas": {
+    "views": 2650,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17913625644542614",
+   "text": "🔥⚽ COMBILOCAS — 🏆 ¡LA LARGA DE LAS 2ª PARTES! x62,84 🍀💚\n\n🇩🇪 Dortmund | 1,50\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool | 1,80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City | 1,25\n🇮🇹 Napoli | 1,83\n🇵🇹 Oporto | 1,83\n🇮🇹 Roma | 1,33\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa | 1,44\n🇪🇸 Real Madrid | 1,44\n🇮🇹 Inter | 1,40\n🇵🇹 Sporting | 1,44\n\n💰 10€ ➡️ 628,41€ 🤑\n🎯 CUOTA 62,84 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T09:31:37+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DethCCJiigU",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DethCCJiigU",
+   "metricas": {
+    "views": 329,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17989150488074523",
+   "text": "🔥⚽ COMBILOCAS — 🧤 ¡PORTEROS Y TARJETAS DEL MARTES! x7,36 🍀💚\n\n🇦🇿 Sabah vs Dortmund — Pokatilov 4+ paradas 🧤 | 1,57\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Alisson 2+ paradas 🧤 | 1,44\n🇪🇸 Liverpool vs Villarreal — Mamardashvili 2+ paradas 🧤 | 1,44\n🇩🇪 Stuttgart vs Atlético — 4 tarjetas o más 🟨 | 1,57\n🇦🇿 Sabah vs Dortmund — 4 tarjetas o más 🟨 | 1,44\n\n💰 10€ ➡️ 73,60€ 🤑\n🎯 CUOTA 7,36 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T09:04:40+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Detd727COq4",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Detd727COq4",
+   "metricas": {
+    "views": 247,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18154260487540602",
+   "text": "🚨⚽ COMBILOCAS — ¡ÚLTIMA HORA CHAMPIONS! 🚨🏆\n\n🔵🔴 Barça sin Koundé ni Eric García ante el PSG ❌\n🔵 El PSG también pierde a un defensa titular ❌\n🇪🇸 Atlético sin Cuti Romero en Stuttgart ❌\n\n😱 Dos defensas rotas en París…\n\n🇫🇷 PSG vs Barça — Más de 3.5 goles 🔥 | 1.50\n💰 10€ ➡️ 15€ 🤑\n\n🍀 ¿Os la jugáis? 👇\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T08:05:04+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetXIBDClXP",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetXIBDClXP",
+   "metricas": {
+    "views": 204,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18116231459105352",
+   "text": "🔥⚽ COMBILOCAS — 🤝 ¡EMPATE AL DESCANSO! x7,18 🍀💚\n\n🇩🇪 Stuttgart vs Atlético — Empate al descanso | 2,50\n🇦🇿 Sabah vs Dortmund — Empate al descanso | 2,87\n\n💰 10€ ➡️ 71,75€ 🤑\n🎯 CUOTA 7,18 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T07:31:16+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetTQq-CFFh",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetTQq-CFFh",
+   "metricas": {
+    "views": 191,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18126897760885654",
+   "text": "🔥⚽ COMBILOCAS — 🏆 ¡LA LARGA DE LOS GANADORES! x74,29 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City | 1,10\n🇮🇹 Napoli | 1,61\n🇵🇹 Oporto | 1,57\n🇮🇹 Roma | 1,14\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa | 1,22\n🇪🇸 Real Madrid | 1,25\n🇩🇪 Bayern | 2,00\n🇪🇸 Atlético | 2,05\n🇪🇸 Barça | 2,45\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool | 1,53\n\n💰 10€ ➡️ 742,91€ 🤑\n🎯 CUOTA 74,29 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T07:03:57+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetQINNiDaE",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetQINNiDaE",
+   "metricas": {
+    "views": 778,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17979011315920001",
+   "text": "🔥⚽ COMBILOCAS — ⏱️ ¡EMPATE A LOS 10 MINUTOS EN LOS 8 PARTIDOS! x6,03 🍀💚\n\n🇦🇿 Sabah–Dortmund | 1,25\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Villarreal | 1,22\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City–AEK | 1,28\n🇮🇹 Napoli–Bodø | 1,22\n🇵🇹 Oporto–PSV | 1,22\n🇫🇷 PSG–Barça | 1,33\n🇮🇹 Roma–Slovan | 1,28\n🇩🇪 Stuttgart–Atlético | 1,22\n\n💰 10€ ➡️ 60,34€ 🤑\n🎯 CUOTA 6,03 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T06:31:17+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetMZT2iPrs",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetMZT2iPrs",
+   "metricas": {
+    "views": 154,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18107475046978019",
+   "text": "🔥⚽ COMBILOCAS — 🌓 ¡LA 1ª PARTE DE CHAMPIONS! x11,27 🍀💚\n\n🇮🇹 Napoli — Gana la 1ª parte 💙 | 2,05\n🇵🇹 Oporto — Gana la 1ª parte 💙 | 2,00\n🇫🇷 PSG vs Barça — Gana PSG la 1ª parte 🔵 | 2,75\n\n💰 10€ ➡️ 112,75€ 🤑\n🎯 CUOTA 11,27 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T06:02:41+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetJIQODfDt",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetJIQODfDt",
+   "metricas": {
+    "views": 162,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17887220382492562",
+   "text": "🔥⚽ COMBILOCAS — 🌓 ¡1ª PARTES DEL MIÉRCOLES! x12,50 🍀💚\n\n🇪🇸 Betis vs Feyenoord — Gana el Betis la 1ª parte ⚽ | 2,00\n🇧🇪 Brujas vs Lens — Gana el Brujas la 1ª parte ⚽ | 2,50\n🇩🇪 Bayern vs Arsenal — Gana el Bayern la 1ª parte ⚽ | 2,50\n\n💰 10€ ➡️ 125,00€ 🤑\n🎯 CUOTA 12,50 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T05:31:12+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetFhRwiith",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetFhRwiith",
+   "metricas": {
+    "views": 141,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18025311503921288",
+   "text": "🔥⚽ COMBILOCAS — 🌗 ¡2ª PARTES DEL MIÉRCOLES! x12,42 🍀💚\n\n🇩🇪 Bayern vs Arsenal — Gana el Bayern la 2ª parte ⚽ | 2,30\n🇧🇪 Brujas vs Lens — Gana el Brujas la 2ª parte ⚽ | 2,25\n🇫🇷 Lille vs Galatasaray — Gana el Lille la 2ª parte ⚽ | 2,40\n\n💰 10€ ➡️ 124,20€ 🤑\n🎯 CUOTA 12,42 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T05:02:22+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DetCOPTCjqx",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DetCOPTCjqx",
+   "metricas": {
+    "views": 648,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18131453527689866",
+   "text": "🔥⚽ COMBILOCAS — 🧤 ¡PORTEROS DEL MARTES II! x11,44 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Alisson 3+ paradas 🧤 | 2,50\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Mamardashvili 3+ paradas 🧤 | 2,50\n🇩🇪 Stuttgart vs Atlético — Bredlow 4+ paradas 🧤 | 1,83\n\n💰 10€ ➡️ 114,38€ 🤑\n🎯 CUOTA 11,44 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T04:31:06+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Des-pOQiujZ",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Des-pOQiujZ",
+   "metricas": {
+    "views": 222,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18142601527608077",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡LOS GOLEADORES DEL MARTES III! x7,69 🍀💚\n\n🇮🇹 Napoli vs Bodø — Højlund anotará ⚽ | 2,05\n🇩🇪 Stuttgart vs Atlético — Sørloth anotará ⚽ | 2,05\n🇵🇹 Oporto vs PSV — Aghehowa anotará ⚽ | 1,83\n\n💰 10€ ➡️ 76,91€ 🤑\n🎯 CUOTA 7,69 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T04:02:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Des7V-DClqG",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Des7V-DClqG",
+   "metricas": {
+    "views": 177,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17864016153692432",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡LOS GOLEADORES DEL MIÉRCOLES III! x12,69 🍀💚\n\n🇪🇸 Real Madrid vs Leipzig — Endrick anotará ⚽ | 2,05\n🇮🇹 Inter vs Shakhtar — Bonny anotará ⚽ | 1,72\n🇪🇸 Betis vs Feyenoord — Hernández anotará ⚽ | 2,00\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Abraham anotará ⚽ | 1,80\n\n💰 10€ ➡️ 126,94€ 🤑\n🎯 CUOTA 12,69 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T03:31:03+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Des3xQ5iEFn",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Des3xQ5iEFn",
+   "metricas": {
+    "views": 1007,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18135950779633941",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡LOS GOLEADORES DEL MARTES II! x12,65 🍀💚\n\n🇹🇷 Fenerbahçe vs Slavia — Greenwood anotará ⚽ | 2,20\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Gakpo anotará ⚽ | 2,50\n🇦🇿 Sabah vs Dortmund — Beier anotará ⚽ | 2,30\n\n💰 10€ ➡️ 126,50€ 🤑\n🎯 CUOTA 12,65 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T03:02:20+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Des0e7yCDM7",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Des0e7yCDM7",
+   "metricas": {
+    "views": 177,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18094493939172779",
+   "text": "🔥⚽ COMBILOCAS — ⚽ ¡AMBOS MARCAN DEL MIÉRCOLES! x8,06 🍀💚\n\n🇮🇹 Como vs Man. United — Ambos marcan ⚽⚽ | 1,53\n🇫🇷 Lille vs Galatasaray — Ambos marcan ⚽⚽ | 1,53\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Ambos marcan ⚽⚽ | 1,66\n🇪🇸 Betis vs Feyenoord — Ambos marcan ⚽⚽ | 1,44\n🇧🇪 Brujas vs Lens — Ambos marcan ⚽⚽ | 1,44\n\n💰 10€ ➡️ 80,58€ 🤑\n🎯 CUOTA 8,06 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T02:02:47+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Destq3eCkiB",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Destq3eCkiB",
+   "metricas": {
+    "views": 900,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18113489468464402",
+   "text": "🔥⚽ COMBILOCAS — ⏱️ ¡NADIE MARCA EN LA 1ª PARTE! 9 PARTIDOS x7,62 🍀💚\n\n🇮🇹 Napoli–Bodø | 1,28\n🇵🇹 Oporto–PSV | 1,25\n🇮🇹 Roma–Slovan | 1,20\n🇮🇹 Como–Man. United | 1,25\n🇫🇷 Lille–Galatasaray | 1,25\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa–Viking | 1,25\n🇩🇪 Bayern–Arsenal | 1,25\n🇮🇹 Inter–Shakhtar | 1,25\n🇧🇪 Brujas–Lens | 1,30\n\n💰 10€ ➡️ 76,17€ 🤑\n🎯 CUOTA 7,62 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T01:31:12+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesqDe9iAN1",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesqDe9iAN1",
+   "metricas": {
+    "views": 1235,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17991187586862906",
+   "text": "🔥⚽ COMBILOCAS — ⏱️ ¡COMBI POR MITADES DEL MARTES! x6,72 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City — Gana la 1ª parte 💪 | 1,33\n🇮🇹 Roma — Gana la 1ª parte 🐺 | 1,44\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana la 1ª parte 🔴 | 1,95\n🇩🇪 Dortmund — Gana la 2ª parte 🐝 | 1,50\n🇫🇷 PSG vs Barça — PSG o Barça (sin empate) ⚽ | 1,20\n\n💰 10€ ➡️ 67,22€ 🤑\n🎯 CUOTA 6,72 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T01:03:01+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Desm1MyiGQ6",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Desm1MyiGQ6",
+   "metricas": {
+    "views": 390,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17909810403486246",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡REMATES TOTALES DEL MIÉRCOLES! x8,20 🍀💚\n\n🇮🇹 Como vs Man. United — Más de 27,5 remates 🎯 | 1,50\n🇩🇪 Bayern vs Arsenal — Más de 27,5 remates 🎯 | 1,83\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Más de 25,5 remates 🎯 | 1,44\n🇪🇸 Betis vs Feyenoord — Más de 25,5 remates 🎯 | 1,44\n🇧🇪 Brujas vs Lens — Más de 25,5 remates 🎯 | 1,44\n\n💰 10€ ➡️ 81,97€ 🤑\n🎯 CUOTA 8,20 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\nApuestasDeportivas",
+   "timestamp": "2026-10-20T00:31:16+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesjMoFisAT",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesjMoFisAT",
+   "metricas": {
+    "views": 170,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18198202408381071",
+   "text": "🔥⚽ COMBILOCAS — 🟨 ¡AMBOS RECIBEN TARJETA EN EL MARTES! x10,95 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Ambos reciben tarjeta (2 o más) 🟨 | 2,62\n🇩🇪 Stuttgart vs Atlético — Ambos reciben tarjeta (2 o más) 🟨 | 2,20\n🇦🇿 Sabah vs Dortmund — Ambos reciben tarjeta (2 o más) 🟨 | 1,90\n\n💰 10€ ➡️ 109,52€ 🤑\n🎯 CUOTA 10,95 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T23:31:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DescVoeCGN8",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DescVoeCGN8",
+   "metricas": {
+    "views": 298,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18166914403472287",
+   "text": "🔥⚽ COMBILOCAS — ⚽ ¡ANOTA O ASISTE DEL MIÉRCOLES II! x6,65 🍀💚\n\n🇪🇸 Real Madrid vs Leipzig — Espí anota o asiste ⚽ | 1,40\n🇮🇹 Inter vs Shakhtar — Bonny anota o asiste ⚽ | 1,40\n🇪🇸 Real Madrid vs Leipzig — Endrick anota o asiste ⚽ | 1,44\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Buendía anota o asiste ⚽ | 1,50\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Manzambi anota o asiste ⚽ | 1,57\n\n💰 10€ ➡️ 66,47€ 🤑\n🎯 CUOTA 6,65 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio",
+   "timestamp": "2026-10-19T23:19:11+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesbBFfiAAa",
+   "is_quote_post": false,
+   "shortcode": "DesbBFfiAAa",
+   "metricas": {
+    "views": 289,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18084795500330792",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡LOS GOLEADORES DEL MIÉRCOLES! x7,45 🍀💚\n\n🇪🇸 Real Madrid vs Leipzig — Mbappé anotará ⚽ | 1,36\n🇮🇹 Inter vs Shakhtar — Thuram anotará ⚽ | 1,61\n🇩🇪 Bayern vs Arsenal — Kane anotará ⚽ | 2,05\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa vs Viking — Jackson anotará ⚽ | 1,66\n\n💰 10€ ➡️ 74,51€ 🤑\n🎯 CUOTA 7,45 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T22:03:33+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesSSlsDURc",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesSSlsDURc",
+   "metricas": {
+    "views": 888,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18116184827329014",
+   "text": "🔥⚽ COMBILOCAS — 🎯 ¡LOS GOLEADORES DEL MARTES! x9,73 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City vs AEK — Haaland anotará ⚽ | 1,30\n🇮🇹 Roma vs Slovan — Malen anotará ⚽ | 1,36\n🇩🇪 Sabah vs Dortmund — Guirassy anotará ⚽ | 1,61\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool vs Villarreal — Isak anotará ⚽ | 1,90\n🇪🇸 PSG vs Barcekona — Raphina anotará ⚽ | 1,95\n\n💰 10€ ➡️ 105,46€ 🤑\n🎯 CUOTA 10,55 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T21:03:30+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesLavwCP7v",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesLavwCP7v",
+   "metricas": {
+    "views": 4325,
+    "likes": 13,
+    "replies": 1,
+    "reposts": 2,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "17889425826619198",
+   "text": "✅ COMBI GANADA 🔥🍀\n\n🇪🇸 Celta vs Tenerife — Crear apuesta (7 selecciones)\n✅ Celta o empate\n✅ Celta marca\n✅ Ambos reciben tarjeta\n✅ Álvaro Marín 1+ remate a puerta\n✅ Enric Gallego 2+ remates\n✅ Celta +2 córners\n✅ Tenerife +2 córners\n\n💶 5€ → 25,63€ 🤑 (con aumento de ganancias)\n\n🍀 Aquí la tenéis hecha 👇\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T20:41:02+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesI2W7isgA",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesI2W7isgA",
+   "metricas": {
+    "views": 253,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18134958704500816",
+   "text": "✅ CASH OUT 💸🔥\n\n🇪🇸 Real Madrid 4-1 Sevilla — Descanso/Final: Real Madrid ✅ | 1,66\n🇪🇸 Getafe vs Rayo — Descanso/Final: Rayo | 4,75 (cerrada en el 65')\n\n💶 5€ → 33,50€ 🤑\n\n🍀 La cerramos a tiempo 👇\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T20:36:02+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesIRqVCL2k",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesIRqVCL2k",
+   "metricas": {
+    "views": 281,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17992780302079104",
+   "text": "🔥⚽ COMBILOCAS — 🅰️ ¡ASISTENTES DEL MIÉRCOLES! x6,19 🍀💚\n\n🇪🇸 Real Madrid vs Leipzig — Vinicius Jr. asistirá 🅰️ | 2,25\n🇮🇹 Inter vs Shakhtar — Calhanoglu asistirá 🅰️ | 2,75\n\n💰 10€ ➡️ 61,88€ 🤑\n🎯 CUOTA 6,19 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T20:31:43+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesHyLuCIlp",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesHyLuCIlp",
+   "metricas": {
+    "views": 178,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18114765197589771",
+   "text": "💎⚽ COMBILOCAS — ¡CUOTA ESCONDIDA DEL LUNES! 💎🔥\n\n🇧🇷 Corinthians vs Vitória — Ambos marcan ⚽⚽ | 2.05\n\n📊 En 5 de los últimos 6 partidos del Corinthians marcaron los dos equipos 👀\n\n💰 10€ ➡️ 20,50€ 🤑\n\n🍀 ¿Os la jugáis? 👇\n\n💚 Más picks GRATIS en mi perfil 👉 @combilocas\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T19:31:27+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DesA42XFVrD",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DesA42XFVrD",
+   "metricas": {
+    "views": 178,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17883197499652542",
+   "text": "🔥⚽ COMBILOCAS — 🅰️ ¡ASISTENTES DEL MARTES! x12,77 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City vs AEK — Cherki asistirá 🅰️ | 1,95\n🇮🇹 Roma vs Slovan — Soulé asistirá 🅰️ | 2,50\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man. City vs AEK — Andrade asistirá 🅰️ | 2,62\n\n💰 10€ ➡️ 127,73€ 🤑\n🎯 CUOTA 12,77 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T18:16:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Der4TBblQHM",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Der4TBblQHM",
+   "metricas": {
+    "views": 401,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18561295939079774",
+   "text": "🌙⚽ COMBILOCAS — ¡LUNES NOCHE x6,08! 🌎🔥\n\n🇸🇦 Al-Hilal vs Al-Hazem — +2.5 goles ⚽ | 1.29\n🇧🇷 Vitória — Gana o empata vs Corinthians 🛡️ | 2.20\n🇦🇷 Newell's vs Central Córdoba — Menos de 2.5 goles 🧱 | 1.53\n🇦🇷 Sarmiento vs Barracas — Menos de 2.5 goles 🧱 | 1.40\n\n💰 10€ ➡️ 60,79€ 🤑\n🎯 CUOTA 6,08 🔥\n\n🍀 ¿Quién se queda despierto con esta? 👀🌙\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T17:30:45+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DerzEjEiCr2",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DerzEjEiCr2",
+   "metricas": {
+    "views": 1556,
+    "likes": 7,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18082434275338578",
+   "text": "💥⚽ COMBILOCAS — ¡TARJETAS Y REMATES x6,92! 🟨🎯\n\n🇪🇸 Celta Fortuna vs Tenerife — +5.5 tarjetas 🟨 | 2.10\n🇪🇸 Camello — 1+ remate a puerta (Getafe–Rayo) 🎯 | 1.40\n🇪🇸 Satriano — 1+ remate a puerta (Getafe–Rayo) 🎯 | 1.57\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kinsky — 2+ paradas (Tottenham–Coventry) 🧤 | 1.50\n\n💰 10€ ➡️ 69,24€ 🤑\n🎯 CUOTA 6,92 🔥\n\n🍀 ¿Te subes o la miras desde el banquillo? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T15:31:43+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Derlc3niIES",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Derlc3niIES",
+   "metricas": {
+    "views": 344,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18484016179115861",
+   "text": "😭 ¡A UN EMPATE DE LOS 3.078€!\n\nCombinada de 10 selecciones, cuota 615,66:\n\n✅ Real Madrid\n✅ Real Sociedad\n✅ Girona\n✅ Arsenal\n✅ AC Milan\n✅ Lazio +1,5\n✅ Hoffenheim\n✅ Lyon\n❌ Valladolid – Eldense: Empate\n✅ Burgos\n\n💶 5€ → 3.078,30€\n\nIba 2-2 hasta el 90+5' y nos lo quitaron en la última jugada 💔 ¡Mañana otra! 🍀\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T14:44:27+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DergHIJDllh",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DergHIJDllh",
+   "metricas": {
+    "views": 474,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17960907696251227",
+   "text": "🔥 ¡COMBINADA CUOTA 8,98!\n\n⚽ Trabzonspor – Besiktas: más de 10 córners\n⚽ Rodez – Montpellier: Montpellier o empate\n⚽ Parma – Torino: más de 2 goles\n⚽ Monza – Cagliari: Cagliari marca más de 0 goles\n\n💶 10€ → 89,81€\n\n📸 Aquí la tenéis hecha 👇🍀\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T14:07:32+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Derb0PtiDp9",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Derb0PtiDp9",
+   "metricas": {
+    "views": 383,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18016768055748458",
+   "text": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x7,53! 🍀💚\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham vs Coventry — +10.5 córners 🚩 | 2.00\n🇵🇹 Braga — Gana 💪 | 1.53\n🇮🇹 Torino — Gana o empata 🛡️ | 1.33\n🇪🇸 Rayo — Gana o empata ⚡ | 1.36\n🇫🇷 Montpellier — Gana o empata 🔵 | 1.36\n\n💰 10€ ➡️ 75,28€ 🤑\n🎯 CUOTA 7,53 🔥\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T10:04:49+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DerAC0TjYa0",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DerAC0TjYa0",
+   "metricas": {
+    "views": 3145,
+    "likes": 7,
+    "replies": 2,
+    "reposts": 1,
+    "quotes": 1,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18109307183243258",
+   "text": "🔥⚽ COMBILOCAS — ¡PICKS PARA ESTA TARDE! ☀️🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham vs Coventry — Tottenham +1.5 goles ⚽💪\n🇵🇹 Gil Vicente vs Braga — +1.5 goles 🔥\n🇪🇸 Getafe vs Rayo — +1.5 goles ⚡\n🇹🇷 Besiktas vs Trabzonspor — +1.5 goles 💥\n🇮🇹 Monza vs Cagliari — +7.5 córners 🚩\n\n🍀 ¿Cuántos salen? 👀\n💬 ¿Con cuál os quedáis? 👇\n\n💚 Más combinadas GRATIS en mi perfil 👉 @combilocas\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo y cabeza fría 🧠\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T09:26:00+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deq7mRyCH33",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Deq7mRyCH33",
+   "metricas": {
+    "views": 454,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17991697188063327",
+   "text": "⚽ LUNES DE GOLES 🔥\n\n🇹🇷 Trabzonspor vs Beşiktaş — +2.5 goles | 1.53\n🇸🇦 Al-Fayha vs Al-Ahli — +2.5 goles | 1.53\n🇮🇹 Parma vs Torino — +1.5 goles | 1.40\n🇮🇹 Monza vs Cagliari — +1.5 goles | 1.33\n🇪🇸 Celta Fortuna vs Tenerife — +1.5 goles | 1.33\n🇫🇷 Rodez vs Montpellier — +1.5 goles | 1.20\n🇸🇦 Al-Shabab vs Al Faisaly — +1.5 goles | 1.17\n\n💚 ¿Cuántos salen? 👀\n\n🍀 Más combinadas GRATIS en mi perfil 👉 @combilocas\n\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-19T08:31:25+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deq1WeLCCKJ",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Deq1WeLCCKJ",
+   "metricas": {
+    "views": 3597,
+    "likes": 11,
+    "replies": 2,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18222294940349815",
+   "text": "🚨⚽ COMBILOCAS — ¡COMBINADA CUOTA 7! 🔥\n\n🗓️ LUNES 19/10 🍀\n\n🇪🇸 Getafe vs Rayo Vallecano\n✅ Rayo gana o empata (X2)\n✅ Menos de 3.5 goles\n✅ Menos de 11.5 córners\n\n🇮🇹 Parma vs Torino\n✅ Más de 1.5 goles\n\n🇵🇹 Braga vs Gil Vicente\n✅ Gil Vicente 3+ remates a puerta\n\n🇮🇹 Monza vs Cagliari\n✅ Cagliari marca 1+ gol\n\n🎯 CUOTA APROX. 7.00 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\n💚 Más combinadas GRATIS en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-19T00:38:09+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dep_Qo4iMmg",
+   "is_quote_post": false,
+   "shortcode": "Dep_Qo4iMmg",
+   "metricas": {
+    "views": 16105,
+    "likes": 65,
+    "replies": 5,
+    "reposts": 3,
+    "quotes": 0,
+    "shares": 4
+   }
+  },
+  {
+   "id": "18107213159235939",
+   "text": "🔥⚽ COMBILOCAS — ¡OTRO VERDE MÁS! 🟢💚\n\n💰 22€ ➡️ 56,47€ ✅\n🎯 CUOTA 2.75\n💸 BENEFICIO: +34,47€\n\n🇦🇷 Belgrano 0-2 River Plate (min. 53)\n💚 ¡CASH OUT ANTICIPADO POR SI ACASO! 💰🔥\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-19T00:36:58+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/Dep_H8_CGbE",
+   "is_quote_post": true,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "Dep_H8_CGbE",
+   "metricas": {
+    "views": 713,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18163123099495328",
+   "text": "🎯 CREAR APUESTA · BELGRANO 🆚 RIVER 🇦🇷\nHoy a las 01:15 (hora España)\n\n🇦🇷 River Plate — Gana\n🎯 Ángel Correa — 1+ remate a puerta\n🚩 Más de 5 córners\n\n📈 Cuota 2.75\n💰 22€ ➡️ 60,50€\n\n¿Os subís? 👇\n🔞 +18 | Juego responsable\n\nApuestasDeportivas",
+   "timestamp": "2026-10-18T22:29:56+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DepwhFCClX0",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DepwhFCClX0",
+   "metricas": {
+    "views": 1236,
+    "likes": 3,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 1,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17930747829409690",
+   "text": "🔮⚽ COMBILOCAS — ¡7 RESULTADOS EXACTOS! 💎🔥\n\n🗓️ LUNES 19/10 🎯\n\n🇪🇸 Getafe 1-1 Rayo Vallecano\n🇸🇦 Al-Hilal 2-0 Al-Ettifaq\n🇮🇹 Monza 0-1 Cagliari\n🇹🇷 Trabzonspor 1-2 Beşiktaş\n🇵🇹 Braga 2-0 Gil Vicente\n🏴 Tottenham 3-1 Coventry City\n🇮🇹 Parma 1-1 Torino\n\n💎 ¡PRONÓSTICOS DE MARCADOR EXACTO! 🔮\n\n🍀 ¿Cuántos creéis que acertaremos? 👀\n\n💚 Más pronósticos GRATIS en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T21:27:05+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeppZM8jm7h",
+   "is_quote_post": false,
+   "shortcode": "DeppZM8jm7h",
+   "metricas": {
+    "views": 1190,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18133355767662493",
+   "text": "🔥⚽ COMBILOCAS — ¡9 PICKS PARA MAÑANA! 🍀\n\n🏴 Tottenham — Gana o empata\n🇪🇸 Getafe vs Rayo — Menos de 3.5 goles\n🇮🇹 Monza vs Cagliari — Menos de 3.5 goles\n🇮🇹 Parma vs Torino — Menos de 3.5 goles\n🇵🇹 Braga — Gana o empata (1X)\n🇹🇷 Trabzonspor vs Beşiktaş — Ambos marcan\n🇸🇦 Al-Hilal — Gana\n🇸🇦 Al-Ahli — Gana o empata (X2)\n🇸🇦 Al-Shabab — Gana\n\n⚽ ¡Combina máximo 2 o 3! ✅\n📊 Stake bajo y cabeza fría.\n\n💚 Más picks GRATIS en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T21:20:24+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DepooOxjlhv",
+   "is_quote_post": false,
+   "shortcode": "DepooOxjlhv",
+   "metricas": {
+    "views": 26975,
+    "likes": 121,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 6
+   }
+  },
+  {
+   "id": "18224293957338403",
+   "text": "🔥⚽ COMBILOCAS — ¡NOS QUEDAMOS A NADA!\n\n🎯 ¡CUOTA 36.34 QUE CASI PINTAMOS DE VERDE! ❌\n\n✅ ¡14 DE 17 SELECCIONES ACERTADAS!\n\n💔 Estuvimos a nada de llevarnos esta locura. ¡Una pena!\n\n🍀 ¡SEGUIMOS A POR MÁS VERDES! 💚🔥\n\n💚 Más combinadas en @combilocas\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T21:00:58+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DepmZ7wjraF",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DepmZ7wjraF",
+   "metricas": {
+    "views": 522,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18184797403421459",
+   "text": "🔥⚽ COMBILOCAS — ¡TERCER VERDE DEL DÍA! 🟢💚\n\n💰 8€ ➡️ 88€ ✅\n🎯 CUOTA 11.00\n💸 BENEFICIO: +80€\n\n🇪🇸 Real Madrid 4-1 Sevilla ⚽\n\n🍀 ¡OTRA LOCURA ACERTADA! 🔥\n\n💚 Más combinadas y resultados reales en @combilocas\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T20:54:33+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/Deplq4fDuxt",
+   "is_quote_post": false,
+   "shortcode": "Deplq4fDuxt",
+   "metricas": {
+    "views": 462,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17871138861648636",
+   "text": "🔥⚽ COMBILOCAS — ¡SEGUNDO VERDE DEL DÍA! 🟢\n\n💰 5€ ➡️ 47,37€ ✅\n💸 BENEFICIO: +42,37€\n\n🍀 ¡OTRA COMBINADA COBRADA! 💚🔥\n\n💚 Más combinadas en @combilocas\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T20:31:24+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DepjBU-jovb",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DepjBU-jovb",
+   "metricas": {
+    "views": 341,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18203384992377459",
+   "text": "🇪🇸 COMBI LALIGA DEL DOMINGO\n\n🧤 Agirrezabala +2,5 paradas (Osasuna–Racing)\n🎯 Antonio Martínez +1,5 faltas recibidas (Celta–Alavés)\n🧤 Herrero +2,5 paradas (Málaga–Real Sociedad)\n🎯 Bellingham +1,5 faltas recibidas (Real Madrid–Sevilla)\n\n📈 Cuota 6,04\nSin Vinícius, a Bellingham le van a dar de todo 👀\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-18T11:00:21+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deohq3YCnKY",
+   "is_quote_post": false,
+   "shortcode": "Deohq3YCnKY",
+   "metricas": {
+    "views": 1793,
+    "likes": 4,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18104740202219619",
+   "text": "🔥⚽ COMBILOCAS — DOMINGO 18/10\n\n🇪🇸 Celta vs Alavés — Radu 2+ paradas y tarjetas ambos\n🇪🇸 Málaga — +1 tarjeta y -2 goles 1ª mitad\n🇪🇸 Real Madrid — Gana y más córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth — +6 córners y Roefs 2+ paradas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton — Gana\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds vs Man United — Tarjetas ambos, Trafford y Lammens 2+ paradas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal — Gana, -8 córners y -5 goles\n🇮🇹 Como — Gana o empata\n\n💰 10€ ➡️ 363,43€ 🍀\n\n💚 Más combinadas en @combilocas\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T10:34:31+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeoetpojsnQ",
+   "is_quote_post": false,
+   "shortcode": "DeoetpojsnQ",
+   "metricas": {
+    "views": 2781,
+    "likes": 8,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18137182933638445",
+   "text": "🔥⚽ COMBILOCAS — DOMINGO 18/10\n\n🇪🇸 Real Madrid — Gana\n🏴 Arsenal — Gana\n🇫🇷 Lyon — Gana\n🇮🇹 Udinese — Gana\n🇩🇪 Freiburg vs Leverkusen — +1.5 goles\n🏴 Brighton vs Crystal Palace — +1.5 goles\n🇫🇷 Marsella vs Angers — +1.5 goles\n🇪🇸 Racing vs Osasuna — +1.5 goles\n🏴 Bournemouth vs Sunderland — +1.5 goles\n🏴 Leeds vs Man United — Ambos marcan\n🇩🇪 Hoffenheim vs M’gladbach — Ambos marcan\n🇮🇹 Fiorentina vs Como — Ambos marcan\n🇮🇹 Juventus vs Lazio — +8.5 córners\n🇫🇷 Auxerre vs Le Havre — +8.5 córners\n\n🍀 ¿Cuántos salen? 👀",
+   "timestamp": "2026-10-18T09:16:49+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeoV0i0jiXh",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeoV0i0jiXh",
+   "metricas": {
+    "views": 362,
+    "likes": 2,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17914565103523788",
+   "text": "🔥⚽ COMBILOCAS — DOMINGO 18/10\n\n🇪🇸 Real Madrid — Gana\n🏴 Arsenal — Gana\n🏴 Brighton — Gana\n🏴 Leeds — Gana o empata\n🇮🇹 Milan — Gana o empata\n🇮🇹 Juventus vs Lazio — -3.5 goles\n🇮🇹 Fiorentina vs Como — Ambos marcan\n🇩🇪 Leverkusen vs Freiburg — +2.5 goles\n🇫🇷 Lyon — Gana\n🇪🇸 Celta — Gana o empata\n🇦🇷 Racing vs Independiente — -2.5 goles\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil @combilocas\n\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T09:11:46+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeoVPkljhsX",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DeoVPkljhsX",
+   "metricas": {
+    "views": 633,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18113954846107673",
+   "text": "🏴 COMBI PREMIER DEL DOMINGO\n\n🧤 Trafford +2,5 paradas (Leeds–Man Utd)\n🧱 Palace menos de 2 goles (Brighton–Palace)\n🎯 Wharton +1,5 faltas recibidas (Brighton–Palace)\n⚔️ Evanilson +1,5 faltas cometidas (Bournemouth–Sunderland)\n\n📈 Cuota 10,53\nEl Palace llega reventado: jugó el jueves en Lyon 🥵\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-18T09:00:51+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DeoT_kEAXQp",
+   "is_quote_post": false,
+   "shortcode": "DeoT_kEAXQp",
+   "metricas": {
+    "views": 949,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18099190358454719",
+   "text": "🔄 DOMINGO REDONDO 🔄\nCórners, goles y un Madrid–Sevilla con gol de los dos.\n\n🚩 Málaga 4+ córners (Málaga–R. Sociedad)\n🔵 R. Sociedad o empate (Málaga–R. Sociedad)\n⚽ Más de 2,5 goles (Osasuna–Racing)\n🚩 Menos de 9,5 córners (Celta–Alavés)\n⚽ Ambos marcan (R. Madrid–Sevilla)\n\n📈 Cuota 9,71\n💶 10€ → 97,10€\n\nGuárdala para el domingo 💾👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-18T00:52:08+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DencENCCFxM",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DencENCCFxM",
+   "metricas": {
+    "views": 279,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17963441877239999",
+   "text": "🔥⚽ COMBILOCAS — DOMINGO 18/10\n\n🏴 Leeds vs Man United — Ambos marcan y +2.5 goles | 1.84\n🇮🇹 Milan vs Atalanta — Ambos marcan | 1.70\n🇪🇸 Real Madrid vs Sevilla — Madrid gana y +2.5 goles | 1.61\n🇩🇪 Leverkusen vs Freiburg — Ambos marcan y +2.5 goles | 1.71\n🇫🇷 Lyon vs Niza — Lyon gana\n🇮🇹 Juventus vs Lazio — Juventus o empate y +1.5 goles | 1.55\n\n🍀 ¿Cuántos salen? 👀\n\n💚 Más combinadas GRATIS en mi perfil @combilocas\n\n⚽ Combina máximo 2 o 3 ✅\n📊 Stake bajo/medio\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T00:48:47+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DenbroSiLVJ",
+   "is_quote_post": false,
+   "topic_tag": "ApuestasDeportivas",
+   "shortcode": "DenbroSiLVJ",
+   "metricas": {
+    "views": 4431,
+    "likes": 12,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17914236006281767",
+   "text": "⚽ DOMINGO DE GOLES 🔥\n\n🇪🇸 Real Madrid — +1.5 goles\n🏴 Arsenal — +1.5 goles\n🇫🇷 Marsella — +1.5 goles\n🇪🇸 Real Sociedad — +1.5 goles\n🏴 Manchester United — +1.5 goles\n🇫🇷 Mónaco — +1.5 goles\n🇪🇸 Sevilla — +1.5 goles\n🇫🇷 Lyon — +1.5 goles\n\n💚 ¿Cuántos salen? 👀\n\n🍀 Más combinadas GRATIS en mi perfil 👉 @combilocas\n\n🔞 +18 | Juego responsable",
+   "timestamp": "2026-10-18T00:32:45+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DenZ2N2CFP1",
+   "is_quote_post": false,
+   "shortcode": "DenZ2N2CFP1",
+   "metricas": {
+    "views": 4126,
+    "likes": 27,
+    "replies": 0,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18411885565090244",
+   "text": "⚽ BETIS 🆚 BARCELONA\n\n1. ⚽ Menos de 3 goles en la 1ª mitad\n2. 🟨 Ambos equipos reciben tarjeta\n3. 🇪🇸 Dani Ceballos — 1+ faltas\n4. 🇪🇸 Héctor Bellerín — 1+ faltas\n5. 🇪🇸 Martín Gerard — 1+ faltas\n6. 🇪🇸 Fermín López — 1+ faltas\n7. 🧤 Álvaro Valles — 4+ paradas\n8. ⚽ Entre 1 y 6 goles\n9. 🚩 Betis — Menos de 7 córners\n10. 🔵🔴 Barcelona gana (2 goles de ventaja)\n\n💰 Cuota 10.25 | 10€ ➡️ 102,50€\n\n🔗 https://www.bet365.es/s/r/gJpdB\n\n🍀 +18 | Juego responsable.",
+   "timestamp": "2026-10-17T15:53:39+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DemecKjjl8h",
+   "is_quote_post": false,
+   "shortcode": "DemecKjjl8h",
+   "metricas": {
+    "views": 344,
+    "likes": 2,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18108123536195608",
+   "text": "⚽ GOLES EN LA BUNDESLIGA ⚽\nTodo a las 15:30: partidos de equipos que marcan y encajan.\n\n⚽ Más de 2,5 goles (Union–Dortmund)\n⚽ Más de 2,5 goles (Hamburgo–Stuttgart)\n⚽ Más de 2,5 goles (Elversberg–Augsburg)\n⚽ Más de 2,5 goles (Schalke–Mainz)\n⚽ Más de 2,5 goles (Werder–Paderborn)\n\n📈 Cuota 7,50\n💶 10€ → 75,00€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T13:04:17+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemK-24iIcc",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DemK-24iIcc",
+   "metricas": {
+    "views": 104,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17983260851900934",
+   "text": "🟨 TARJETAS TRANQUILAS 🟨\nEquipos que apenas ven amarillas: 10 de los últimos 12 partidos por debajo.\n\n🟨 Menos de 3,5 tarjetas (Werder–Paderborn)\n🟨 Menos de 4,5 tarjetas (Schalke–Mainz)\n🟨 Menos de 4,5 tarjetas (Hamburgo–Stuttgart)\n🟨 Menos de 3,5 tarjetas (Lille–Brest)\n\n📈 Cuota 9,90\n💶 10€ → 99,00€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T12:46:04+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemI5vvDYz6",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DemI5vvDYz6",
+   "metricas": {
+    "views": 83,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18170371216488095",
+   "timestamp": "2026-10-17T12:24:22+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemGfWtjkYa",
+   "is_quote_post": false,
+   "shortcode": "DemGfWtjkYa",
+   "metricas": {
+    "views": 78,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17917926018452439",
+   "text": "🔥 TARJETAS CALIENTES 🔥\nElche, Union y Genoa: equipos que reparten.\n\n🟨 Más de 3,5 tarjetas (Villarreal–Elche)\n🟨 Más de 3,5 tarjetas (Union–Dortmund)\n🟨 Más de 3,5 tarjetas (Roma–Genoa)\n🟨 Más de 2,5 tarjetas (Venezia–Napoli)\n\n📈 Cuota 8,11\n💶 10€ → 81,10€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T12:16:06+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemFeALCqe0",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DemFeALCqe0",
+   "metricas": {
+    "views": 70,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17910529248557882",
+   "text": "🏆 LA DE LOS GRANDES 🏆\nSerie A, Bundesliga y Ligue 1: favoritos contra rivales que no marcan fuera.\n\n⚽ Gana el PSG (Strasbourg–PSG)\n🔵 Dortmund o empate (Union–Dortmund)\n🔵 Inter o empate (Bologna–Inter)\n🔵 Napoli o empate (Venezia–Napoli)\n⚽ Gana el Bayern (Bayern–Leipzig)\n⚽ Gana el Werder (Werder–Paderborn)\n⚽ Gana el Lyon (Lyon–Nice)\n\n📈 Cuota 7,65\n💶 10€ → 76,50€\n\n¿La firmas o falta alguno? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T11:46:59+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemCI-OiE5T",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DemCI-OiE5T",
+   "metricas": {
+    "views": 65,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18433178197151064",
+   "text": "🔥⚽ ¡COMBINADA ESPECIAL DEL FINDE! 💚🍀\n\n💰 60€ ➡️ 507,69€ de premio potencial.\n\n🚀 5 PARTIDAZOS, UN SOLO OBJETIVO: ¡PINTARLO TODO DE VERDE! 🟢💸\n\n⚽ Villarreal, Arsenal, Roma, Manchester City y Newcastle–Aston Villa.\n\n📲 ¡AQUÍ TENÉIS EL CUPÓN! 👇\nhttps://www.bet365.es/s/r/gXdfr\n\n🍀 ¡MUCHA SUERTE A TODOS! 🤞🔥\n\n⚠️ Apuesta arriesgada, sin garantías. Jugad con responsabilidad. +18",
+   "timestamp": "2026-10-17T11:41:26+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DemBk7EDpNs",
+   "is_quote_post": false,
+   "shortcode": "DemBk7EDpNs",
+   "metricas": {
+    "views": 90,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18639109684049233",
+   "text": "🧩 MIX DEL SÁBADO 🧩\nTarjetas bajas y un Lille–Brest con goles.\n\n🟨 Menos de 4,5 tarjetas (Fulham–Hull)\n⚽ Más de 2,5 goles (Lille–Brest)\n🟨 Menos de 5,5 tarjetas (Espanyol–Atlético)\n\n📈 Cuota 6,23\n💶 10€ → 62,30€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T10:45:58+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/Del7KeZDeJL",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "Del7KeZDeJL",
+   "metricas": {
+    "views": 48,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18640941256041299",
+   "text": "🧤 COMBI x18 · PORTEROS Y FALTAS\n\n🧤 Tzolakis +2,5 paradas (Fulham–Hull)\n🎯 E. Anderson +1,5 faltas recibidas (City–Ipswich)\n🚩 Betis menos de 5 córners (Betis–Barça)\n🎯 Mbeumo 1+ remate a puerta (Leeds–Man Utd)\n⚔️ Evanilson +1,5 faltas cometidas (Bournemouth–Sunderland)\n⚔️ Boyé +1,5 faltas cometidas (Celta–Alavés)\n🎯 Bellingham +1,5 faltas recibidas (Madrid–Sevilla)\n\n📈 Cuota 18,72\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-17T10:30:48+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Del5fmYAd55",
+   "is_quote_post": false,
+   "shortcode": "Del5fmYAd55",
+   "metricas": {
+    "views": 954,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17866416102677008",
+   "text": "🔥 COMBI DEL DÍA x24 🔥\n\nLa del colega 🤝 7 selecciones, 20€ → 485,76€ 💸\n\n🟨 Villarreal +1,5 goles — 1,33\n\n⚽ Gana el Nápoles — 1,72\n\n⚽ Gana la Roma — 1,60\n\n⚽ Gana el Inter Miami — 1,86\n\n🟨 Espanyol - Atlético: ambos equipos reciben tarjeta — 1,12\n\n🎯 Isco Alarcón +0,5 remates a puerta — 2,10\n\n🧤 Valencia - Athletic Club:\n\n* Ambos equipos reciben tarjeta\n* Dimitrievski +1,5 paradas\n\nCuota combinada: 1,50 ✅\n\n¿Entras o te la juegas a otra? 👇🔥\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-17T09:40:00+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Delzresjlne",
+   "is_quote_post": false,
+   "shortcode": "Delzresjlne",
+   "metricas": {
+    "views": 67,
+    "likes": 1,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18097649078426851",
+   "text": "📊 SÁBADO DE DATOS 📊\nCada pick con su número detrás: últimos 6 partidos uno a uno.\n\n🚩 Espanyol menos de 4 córners (Espanyol–Atlético)\n🎯 Atlético +3,5 remates a puerta (Espanyol–Atlético)\n⚽ Ambos marcan (Villarreal–Elche)\n🧱 Valencia -3,5 remates a puerta (Valencia–Athletic)\n\n📈 Cuota 7,49\n💶 10€ → 74,90€\n\n¿La firmas o le quitas alguna? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T09:31:57+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DelysRFjYmQ",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DelysRFjYmQ",
+   "metricas": {
+    "views": 58,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18152450599550329",
+   "text": "🎁 COMBI GRATIS · la más probable del finde\n\n🧤 E. Martínez +2,5 paradas (Everton–Chelsea)\n🧤 Dimitrievski +2,5 paradas (Valencia–Athletic)\n🧤 Trafford +2,5 paradas (Leeds–Man Utd)\n⚔️ Boyé +1,5 faltas cometidas (Celta–Alavés)\n🎯 Bellingham +1,5 faltas recibidas (Real Madrid–Sevilla)\n\n📈 Cuota 6,16\nPorteros que paran todo y jugadores que viven en el choque 📊\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-17T08:30:23+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DelrtpKDC_y",
+   "is_quote_post": false,
+   "shortcode": "DelrtpKDC_y",
+   "metricas": {
+    "views": 1042,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18114048770604992",
+   "text": "🛟 CON RED DE SEGURIDAD 🛟\nDobles oportunidades y goles: para el que no quiere sustos.\n\n🔵 Everton o empate (Everton–Chelsea)\n⚽ Más de 1,5 goles (Espanyol–Atlético)\n⚽ Más de 2,5 goles (Villarreal–Elche)\n🦁 Athletic o empate (Valencia–Athletic)\n🧱 Menos de 3,5 goles (Troyes–Lens)\n\n📈 Cuota 6,42\n💶 10€ → 64,20€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-17T08:04:22+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DeloqKsii0S",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DeloqKsii0S",
+   "metricas": {
+    "views": 59,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18157801387446599",
+   "text": "🔥 COMBI DEL DÍA x21 🔥\nLa que ha salido con el colega 🤝 8 selecciones, 10€ → 214,56€\n\n⚽ Gana el Villarreal\n⚽ Gana el Atlético\n⚽ Gana la Roma\n🔵 Empate o Chelsea\n⚽ Gana el Middlesbrough\n⚽ Gana el Nápoles\n🛡️ Levante -4,5 remates a puerta ✅\n🧤 Dimitrievski +1,5 paradas\n\nLa del Levante ya está dentro. ¿Entras o te la juegas a otra? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-16T23:35:56+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DekufA7DTnq",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DekufA7DTnq",
+   "metricas": {
+    "views": 67,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18201965395378777",
+   "text": "🌙 COMBI NOCTURNA: BOCA–TALLERES 🌙\nHoy sábado 02:30 (hora España), La Bombonera. Un solo partido, 5 selecciones: Boca manda.\n\n🎯 Boca +1,5 remates a puerta (1ª parte)\n🎯 Boca +1,5 remates a puerta (2ª parte)\n🚩 Boca 3+ córners (1ª parte)\n🚩 Boca 3+ córners (2ª parte)\n⚽ Boca marca 2+ goles\n\n📈 Cuota 6,50\n💶 10€ → 65,00€\n\n¿Te subes? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-16T23:27:01+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DektdpcDXT0",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DektdpcDXT0",
+   "metricas": {
+    "views": 63,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18147247381525131",
+   "text": "🚩 COMBI DE CÓRNERS DEL FINDE 🚩\nBayern saca 9,8 por partido; Lorient y Monaco casi no sacan.\n\n🚩 Más de 10,5 córners (Bayern–Leipzig)\n🚩 Más de 9,5 córners (Elversberg–Augsburg)\n🚩 Menos de 9,5 córners (Lorient–Monaco)\n🚩 Villarreal +4,5 córners (Villarreal–Elche)\n\n📈 Cuota 7,19\n💶 10€ → 71,90€\n\n¿Eres más de goles o de córners? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-16T17:16:43+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DekDFS6jUjy",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "DekDFS6jUjy",
+   "metricas": {
+    "views": 105,
+    "likes": 4,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18074493731570607",
+   "text": "🎯 CREAR APUESTA · Depor–Levante (hoy 21:00)\n\n🛡️ Levante menos de 4 remates a puerta\n🧤 Leo Román +2,5 paradas\n⚔️ Luismi Cruz +1,5 faltas cometidas\n\n📈 Cuota 8,69\nEl Levante fuera tira 1, 3 y 1 veces a puerta 📉\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T17:00:23+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DekBSCRgp6M",
+   "is_quote_post": false,
+   "shortcode": "DekBSCRgp6M",
+   "metricas": {
+    "views": 936,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18114352943111702",
+   "text": "🌙 COMBI DE VIERNES NOCHE 🌙\nCuatro partidos a la misma hora y una combi para verlos todos.\n\n🔥 Más de 2,5 goles (Frosinone–Sassuolo)\n🚩 Menos de 9,5 córners (Le Mans–Toulouse)\n⚽ Gana el Frankfurt (Frankfurt–Köln)\n⚽ Ambos marcan (Le Mans–Toulouse)\n\n📈 Cuota 6,55\n💶 10€ → 65,50€\n\n¿Quién se queda despierto con esta? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-16T15:09:49+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/Dej0jj9Cvka",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "Dej0jj9Cvka",
+   "metricas": {
+    "views": 134,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18077882264427758",
+   "text": "🎯 COMBI DEL VIERNES · Depor–Levante (21:00)\n\n🧱 Levante menos de 2 goles\n🧤 Mathew Ryan +2,5 paradas\n🎯 Manuel Sánchez +1,5 faltas recibidas\n\n📈 Cuota 7,34\nEl Levante lleva 1 gol en 4 partidos fuera 📉\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T14:59:59+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DejzgPAiMMY",
+   "is_quote_post": false,
+   "shortcode": "DejzgPAiMMY",
+   "metricas": {
+    "views": 2180,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18128727955884108",
+   "text": "🇩🇪 BUNDESLIGA = GOLES 🇩🇪\nEmpieza esta noche con el Frankfurt–Köln: los dos encajan 2+ por partido.\n\n⚽ Ambos marcan (Frankfurt–Köln)\n🔥 Más de 2,5 goles (Gladbach–Hoffenheim)\n⚽ Ambos marcan (Elversberg–Augsburg)\n🔥 Más de 3,5 goles (Bayern–Leipzig)\n🔥 Más de 1,5 goles (Union–Dortmund)\n🔥 Más de 1,5 goles (Leverkusen–Freiburg)\n⚽ Ambos marcan (Schalke–Mainz)\n\n📈 Cuota 7,21\n\n¿Te subes o la miras desde el banquillo? 👇\n+18 · Juega con responsabilidad\n.\n.\ncombilocas #apuestas #futbol",
+   "timestamp": "2026-10-16T12:09:01+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Dejf3aFCgFf",
+   "is_quote_post": false,
+   "topic_tag": "combilocas",
+   "shortcode": "Dejf3aFCgFf",
+   "metricas": {
+    "views": 123,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17953030986275351",
+   "text": "🔥 COMBI x18 🔥\n\n🎯 Dewsbury-Hall 1+ remate a puerta (Everton–Chelsea)\n🎯 McGinn +1,5 faltas recibidas (Newcastle–Villa)\n🎯 Budimir +1,5 faltas recibidas (Osasuna–Racing)\n🎯 Timber +1,5 faltas recibidas (Brighton–Palace)\n🟨 Menos de 4 tarjetas (Tottenham–Coventry)\n\n📈 Cuota 18,20\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T12:00:37+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deje-iyD6Bn",
+   "is_quote_post": false,
+   "shortcode": "Deje-iyD6Bn",
+   "metricas": {
+    "views": 1247,
+    "likes": 6,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18009253655778443",
+   "text": "💥 COMBI x18 DE FALTAS Y PORTEROS 💥\n\n🧤 Tzolakis +2,5 paradas (Fulham–Hull)\n🎯 Elliot Anderson +1,5 faltas recibidas (Man City–Ipswich)\n🚩 Betis menos de 5 córners (Betis–Barça)\n🎯 Mbeumo 1+ remate a puerta (Leeds–Man Utd)\n⚔️ Evanilson +1,5 faltas cometidas (Bournemouth–Sunderland)\n⚔️ Boyé +1,5 faltas cometidas (Celta–Alavés)\n🎯 Bellingham +1,5 faltas recibidas (Real Madrid–Sevilla)\n\n📈 Cuota 18,72\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T12:00:32+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/Deje972DmvN",
+   "is_quote_post": false,
+   "shortcode": "Deje972DmvN",
+   "metricas": {
+    "views": 1071,
+    "likes": 4,
+    "replies": 1,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18119675098966808",
+   "text": "🔥 COMBI DEL DÍA x21 🔥\nLa que ha salido con el colega 🤝\n\n⚽ Gana el Villarreal (Villarreal–Elche)\n⚽ Gana el Atlético (Espanyol–Atlético)\n⚽ Gana la Roma (Roma–Genoa)\n🔵 Empate o Chelsea (Everton–Chelsea)\n⚽ Gana el Middlesbrough (Middlesbrough–Cardiff)\n⚽ Gana el Nápoles (Venecia–Nápoles)\n🛡️ Levante menos de 4,5 remates a puerta (Depor–Levante)\n🧤 Dimitrievski +1,5 paradas (Valencia–Athletic)\n\n💶 10€ → 214,56€\n📈 Cuota 21,46\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T11:00:28+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DejYF_lDnE0",
+   "is_quote_post": false,
+   "shortcode": "DejYF_lDnE0",
+   "metricas": {
+    "views": 5063,
+    "likes": 14,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115810631585122",
+   "text": "💣 COMBI x18 DEL FINDE 💣\n\n🛡️ Levante menos de 4 remates a puerta (Depor–Levante)\n⚽ Gana el Villarreal (Villarreal–Elche)\n🧤 Dimitrievski +2,5 paradas (Valencia–Athletic)\n🛡️ Forest menos de 4 remates a puerta (Forest–Arsenal)\n🧱 Málaga menos de 2 goles (Málaga–Real Sociedad)\n🎯 Camello +1,5 faltas recibidas (Getafe–Rayo)\n\n📈 Cuota 18,11\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-16T10:50:54+0000",
+   "media_type": "TEXT_POST",
+   "permalink": "https://www.threads.com/@combilocas/post/DejW_8WjmGd",
+   "is_quote_post": false,
+   "shortcode": "DejW_8WjmGd",
+   "metricas": {
+    "views": 1949,
+    "likes": 4,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18098287751423632",
+   "text": "👋 Arrancamos, chavales. Primer post y primer VERDE ✅🔥\n\n💶 2,50€ → 54,49€ (cuota 21,80)\n\n✅ Juventus -3 tarjetas + Celta no marca en la 2ª parte\n✅ Anderlecht -3 tarjetas\n✅ Benfica–Celtic +2 tarjetas\n✅ Bournemouth -2 goles en la 1ª parte\n✅ Rennes -2 goles en la 1ª parte\n✅ Hoffenheim -3 goles\n\n7/7 🎯 Todo con datos: árbitros, tarjetas, cansancio, alineaciones 📊\n\nCombis gratis cada día 👀 Síguenos.\n\n+18 · Juega con responsabilidad",
+   "timestamp": "2026-10-15T23:46:49+0000",
+   "media_type": "IMAGE",
+   "permalink": "https://www.threads.com/@combilocas/post/DeiK_9sCOUj",
+   "is_quote_post": false,
+   "shortcode": "DeiK_9sCOUj",
+   "metricas": {
+    "views": 153,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  }
+ ]
+}
