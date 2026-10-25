@@ -235,12 +235,14 @@ def main():
         for p in todos:
             if p["id"] in publicados:        # publicado en cualquier destino: conservar texto y selecciones
                 continue
+            if (anteriores.get(p["id"]) or {}).get("fijo"):   # cambiado a mano: no se regenera
+                continue
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse
                 continue
             nuevos[p["id"]] = p
-    # conservar los ya publicados para que quede registro
+    # conservar los ya publicados para que quede registro, y los fijados a mano
     for pid, p in anteriores.items():
-        if pid in publicados:
+        if pid in publicados or (p.get("fijo") and p["fecha"] > ahora):
             nuevos.setdefault(pid, p)
 
     lista_final = sorted(nuevos.values(), key=lambda p: p["fecha"])
