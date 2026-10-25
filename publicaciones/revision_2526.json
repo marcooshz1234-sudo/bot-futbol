@@ -1,7 +1,20 @@
 {
   "ids": [
-    "2026-10-25-combi-psg-lyon"
+    "2026-10-25-escalera-datos",
+    "2026-10-25-guia-selecciones",
+    "2026-10-25-clasico-datos",
+    "2026-10-25-story-agenda",
+    "2026-10-25-story-escalera",
+    "2026-10-25-story-monaco",
+    "2026-10-25-story-freiburg",
+    "2026-10-25-story-titulares",
+    "2026-10-25-story-portero",
+    "2026-10-25-story-cuota",
+    "2026-10-25-story-directo"
+  ],
+  "fuentes": [
+    "publicaciones/contenido_extra_20261025.json"
   ],
   "fecha": "2026-10-25",
-  "revision": "PSG cuota 8,00 aceptada por el propietario; incluye Hakimi 2+ remates y no añade condición de goles al descanso"
+  "revision": "Tres publicaciones informativas y ocho stories; no añade nuevas apuestas ni promesas de fiabilidad"
 }
