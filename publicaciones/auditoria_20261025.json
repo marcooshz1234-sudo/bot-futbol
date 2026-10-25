@@ -1,0 +1,104 @@
+{
+  "fecha": "2026-10-25",
+  "finalizado": {
+    "correccionesMetricool": 12,
+    "postsProgramados": 31,
+    "uuidUnicos": 31,
+    "borradores": 0,
+    "telegramPausas": 0,
+    "pruebasPython": 51,
+    "pruebaPanel": "correcta",
+    "websHTTP": 200,
+    "iconosHTTP": 200,
+    "combis": [
+      {
+        "id": "2026-10-25-combi-barca-madrid",
+        "tema": "Barça–Madrid",
+        "cuota": 11,
+        "texto": "🇪🇸 BARÇA 🆚 MADRID\n💥 COMBI DEL PARTIDO\n\n✅ Gana el Barça\n✅ Courtois 4+ paradas\n✅ Mbappé 4+ remates\n✅ Barça menos de 7 córners\n✅ Menos de 32,5 remates totales\n\n🎯 Cuota conjunta: 11,00\n💶 10€ → 110,00€ a cuota 11,00\n\nCuota consultada el 25/10; puede variar. Courtois y Mbappé: solo si son titulares.",
+        "fecha": "2026-10-25T19:30",
+        "estado": "Programado y reactivado",
+        "cuota_verificada": 11
+      },
+      {
+        "id": "2026-10-25-combi-freiburg-bayern",
+        "tema": "Freiburg–Bayern",
+        "cuota": 9.75,
+        "texto": "🇩🇪 FREIBURG 🆚 BAYERN\n💥 COMBI DEL PARTIDO\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota conjunta: 9,75\n💶 10€ → 97,50€ a cuota 9,75\n\nCuota consultada el 25/10; puede variar. Jugadores: solo si son titulares.",
+        "fecha": "2026-10-25T16:00",
+        "estado": "Programado y reactivado",
+        "cuota_verificada": 9.75
+      },
+      {
+        "id": "2026-10-25-combi-psg-lyon",
+        "tema": "PSG–Lyon",
+        "cuota": 8,
+        "texto": "🇫🇷 PSG 🆚 LYON\n💥 COMBI DEL PARTIDO\n📅 Lunes 26/10 · 20:30 (Madrid)\n\n✅ Ambos marcan y más de 2,5 goles\n✅ Más de 26,5 remates totales\n✅ Más de 9,5 remates a puerta totales\n✅ Safonov 2+ paradas\n✅ Menos de 4,5 tarjetas\n✅ Hakimi 2+ remates\n\n🎯 Cuota conjunta: 8,00\n💶 10€ → 80,00€ a cuota 8,00\n\nCuota consultada el 25/10; puede variar. Safonov y Hakimi: solo si son titulares.",
+        "fecha": "2026-10-26T18:30",
+        "estado": "Programado y reactivado",
+        "cuota_verificada": 8
+      }
+    ],
+    "escaleraRecuperada": [
+      {
+        "id": 405607804,
+        "uuid": "-7896020052243953906",
+        "fecha": {
+          "dateTime": "2026-10-25T12:45:00",
+          "timezone": "Europe/Madrid"
+        },
+        "redes": [
+          "facebook",
+          "instagram"
+        ],
+        "enlace": "https://app.metricool.com/planner/calendar?blogId=7462024&openWithPostUuid=-7896020052243953906"
+      },
+      {
+        "id": 405607859,
+        "uuid": "-5711668796252667630",
+        "fecha": {
+          "dateTime": "2026-10-25T12:46:00",
+          "timezone": "Europe/Madrid"
+        },
+        "redes": [
+          "threads"
+        ],
+        "enlace": "https://app.metricool.com/planner/calendar?blogId=7462024&openWithPostUuid=-5711668796252667630"
+      },
+      {
+        "id": 405607985,
+        "uuid": "-1618519040228048300",
+        "fecha": {
+          "dateTime": "2026-10-25T12:55:00",
+          "timezone": "Europe/Madrid"
+        },
+        "redes": [
+          "instagram"
+        ],
+        "enlace": "https://app.metricool.com/planner/calendar?blogId=7462024&openWithPostUuid=-1618519040228048300"
+      }
+    ],
+    "balanceCorregido": true,
+    "seleccionesReconocidasYAsociadas": {
+      "correctas": 28,
+      "total": 28
+    },
+    "seguimientoCorregido": [
+      "Remates totales y remates a puerta",
+      "Menos de por equipo, total y partes con límite estricto",
+      "Córners 3+ sin verbo",
+      "Condiciones de titularidad",
+      "Apellidos compuestos De Lange"
+    ]
+  },
+  "pendienteAccesoExterno": [
+    "Renovar el acceso directo de Meta: Instagram token inválido; Threads y Facebook acceso bloqueado."
+  ],
+  "historialNoReenviado": [
+    "Escalera del 24/10: Instagram y reel fallaron. No se republican pronósticos de partidos ya terminados."
+  ],
+  "limitacionesVerificacion": [
+    "Las analíticas de publicaciones del 25/10 aún no devuelven registros. Las publicaciones futuras se han verificado como programadas, no como ya publicadas."
+  ],
+  "alineaciones": "La recogida se ejecuta; su publicación automática está excluida de la cola y antes del 27/10 trabaja en modo prueba. Se conserva esa configuración previa."
+}
