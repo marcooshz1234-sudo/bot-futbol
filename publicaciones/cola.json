@@ -217,7 +217,9 @@
     "fecha": "2026-10-25T16:00",
     "texto": "🇩🇪 FREIBURG 🆚 BAYERN\n💥 COMBI DEL PARTIDO\n\n✅ Más de 3,5 goles\n✅ Freiburg 3+ córners\n✅ Eggestein 1+ remate\n✅ Ginter 1+ remate\n✅ Matanović 1+ remate a puerta\n\n🎯 Cuota conjunta: 9,75\n💶 10€ → 97,50€ a cuota 9,75\n\nCuota consultada el 25/10; puede variar. Jugadores: solo si son titulares.",
     "foto": "publicaciones/fotos/2026-10-25-freiburg-bayern.jpg",
-    "pausado": false
+    "pausado": false,
+    "enviado": "2026-10-25T16:00",
+    "mensaje_id": 96
   },
   {
     "id": "2026-10-25-picks-hoy",
@@ -398,7 +400,8 @@
     "redes": {
       "threads": "18097731998441546",
       "facebook": "1479689078551520_122113462557514330",
-      "instagram": "17996338746047935"
+      "instagram": "17996338746047935",
+      "instagram_reel": "17872351227646058"
     },
     "facebook_tipo": "foto"
   },
