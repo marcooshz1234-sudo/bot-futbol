@@ -1025,16 +1025,75 @@ def enriquecer(picks, prox, hist, arbitros):
     return salida
 
 
+# ------------------------------------------------------------ combi "gana o empata" (25/10)
+DOBLE_FREC_MIN, DOBLE_FREC_EQ, DOBLE_CUOTA_MIN, DOBLE_RANGO = 0.75, 0.60, 1.25, (1.8, 4.5)
+
+
+def candidatos_doble(prox, hist, arbitros):
+    """'X o empate' (1X / X2) de un partido que se cumplen en ≥ 80 % (y ≥ 65 % en cada equipo), cuota ≥ 1,25."""
+    partido = prox["partido"]
+    if partido["fixture"]["status"]["short"] not in ("NS", "TBD") or \
+            datetime.fromisoformat(partido["fixture"]["date"]) <= datetime.now(timezone.utc):
+        return []
+    loc, vis = partido["teams"]["home"], partido["teams"]["away"]
+    h_loc = [(p, loc["id"]) for p in hist.get(loc["id"], [])[:ULTIMOS]]
+    h_vis = [(p, vis["id"]) for p in hist.get(vis["id"], [])[:ULTIMOS]]
+    if len(h_loc) < MIN_PARTIDOS or len(h_vis) < MIN_PARTIDOS:
+        return []
+    inicio = datetime.fromisoformat(partido["fixture"]["date"])
+    base = {"partido_id": partido["fixture"]["id"], "fecha": inicio.astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
+            "competicion": COMPETICION.get(partido["league"]["id"], partido["league"]["name"]),
+            "liga_id": partido["league"]["id"], "local": loc["name"], "visitante": vis["name"]}
+    salida = []
+    for opcion, cuota in (prox.get("cuotas") or {}).get("Double Chance", []):
+        if opcion not in ("Home/Draw", "Draw/Away"):
+            continue
+        try:
+            cuota = float(cuota)
+        except (TypeError, ValueError):
+            continue
+        if cuota < DOBLE_CUOTA_MIN:
+            continue
+        a, na = frecuencia(evaluador("Double Chance", opcion, True), h_loc)
+        b, nb = frecuencia(evaluador("Double Chance", opcion, False), h_vis)
+        if na < MIN_PARTIDOS or nb < MIN_PARTIDOS:
+            continue
+        frec = (a + b) / (na + nb)
+        if frec < DOBLE_FREC_MIN or min(a / na, b / nb) < DOBLE_FREC_EQ or frec <= 1 / cuota:
+            continue
+        eq = loc["name"] if opcion == "Home/Draw" else vis["name"]
+        salida.append(dict(base, mercado="Double Chance", opcion=opcion, cuota=cuota, frecuencia=round(frec, 3),
+                           ventaja=round(frec - 1 / cuota, 3), tipo="resultado", texto=f"{eq} o empate",
+                           detalle=f"{loc['name']} {a}/{na} · {vis['name']} {b}/{nb}"))
+    return enriquecer(salida, prox, hist, arbitros)
+
+
+def combi_doble(cands):
+    """3-4 'gana o empata' de partidos distintos, cuota total entre 2 y 4,5, los de más calidad primero."""
+    elegidos, vistos, total = [], set(), 1.0
+    for p in sorted(cands, key=lambda x: -calidad(x)):
+        if p["partido_id"] in vistos or total * p["cuota"] > DOBLE_RANGO[1] or len(elegidos) >= 4:
+            continue
+        elegidos.append(p)
+        vistos.add(p["partido_id"])
+        total *= p["cuota"]
+    if len(elegidos) >= 2 and total >= DOBLE_RANGO[0]:
+        return {"picks": elegidos, "cuota": round(total, 2)}
+    return None
+
+
 def main():
     ahora = datetime.now(timezone.utc)
     hist = historial()
     arbitros = indice_arbitros()
-    todos, por_partido = [], {}
+    todos, por_partido, dobles = [], {}, {}
     for f in sorted(EXTRA.glob("*.json")):
         prox = leer(f)
         if not (prox and prox.get("partido")):
             continue
         todos.extend(enriquecer(picks_partido(prox, hist, ahora), prox, hist, arbitros))
+        for c in candidatos_doble(prox, hist, arbitros):
+            dobles.setdefault(c["fecha"][:10], []).append(c)
         flojos = enriquecer(picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
                                           frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05), prox, hist, arbitros)
         if flojos:
@@ -1071,7 +1130,7 @@ def main():
         salida["dias"][dia] = {
             "picks": picks,
             "mejores_por_partido": mejores,
-            "combis": combis_dia.get(dia) or combis_del_dia(picks),
+            "combis": dict(combis_dia.get(dia) or combis_del_dia(picks), doble=combi_doble(dobles.get(dia, []))),
             "combis_partido": sorted(partidos_dia[dia], key=lambda c: c["fecha"]),
         }
 

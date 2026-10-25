@@ -108,7 +108,15 @@ def posts_del_dia(dia, d):
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
                       "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
 
-    if not any(c for c in combis.values()):   # día flojo (pocos partidos): al menos una combi de 2
+    c = combis.get("doble")   # la víspera a las 21:30: "gana o empata" para mañana
+    if c:
+        apuntar(c["picks"])
+        posts.append(("combi-doble", (f - timedelta(days=1)).replace(hour=21, minute=30), c["picks"],
+                      f"🛡️ GANA O EMPATA · {nombre} 🛡️\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
+                      f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
+                      "Doble oportunidad: si gana o empata, verde ✅\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+
+    if not any(v for k, v in combis.items() if k != "doble"):   # día flojo (pocos partidos): al menos una combi de 2
         cand = sorted(d.get("picks") or [], key=atractivo, reverse=True)
         par = next(([a, b] for i, a in enumerate(cand) for b in cand[i + 1:]
                     if a["partido_id"] != b["partido_id"] and a["cuota"] * b["cuota"] >= 1.5), None)
