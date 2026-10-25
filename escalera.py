@@ -12,7 +12,7 @@ el día anterior. Si sale verde, sube un escalón; si falla, se reinicia con 20 
 """
 
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, PARTIDOS, leer
 from picks import evaluar_pick, es_sin_empate
@@ -64,6 +64,10 @@ def main():
     act = estado.get("actual")
     if act:
         res = [resultado(p) for p in act["picks"]]
+        ultimo = max(datetime.fromisoformat(p["fecha"][:16]) for p in act["picks"]).replace(tzinfo=MADRID)
+        if any(r is None for r in res) and datetime.now(MADRID) - ultimo > timedelta(hours=30):
+            # pasado más de un día sin dato (p. ej. jugador que no jugó): bet365 la anula → cuenta como acertada
+            res = [True if r is None else r for r in res]
         if all(r is not None for r in res):
             verde = all(res)
             act["resultado"] = "verde" if verde else "roja"
