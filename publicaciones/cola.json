@@ -523,7 +523,16 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-25-combi-freiburg-bayern"
+    "verde_de": "2026-10-25-combi-freiburg-bayern",
+    "enviado": "2026-10-25T20:47",
+    "mensaje_id": 109,
+    "redes": {
+      "threads": "18050027051815847",
+      "instagram": "18153237733492859"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   },
   {
     "id": "2026-10-26-sevilla-osasuna",
