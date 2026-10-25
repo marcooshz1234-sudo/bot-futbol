@@ -896,17 +896,121 @@ def combi_partido(picks):
     return None
 
 
+# ------------------------------------------------------------ información extra (25/10)
+# árbitro (tarjetas), lesionados y sancionados, temporada del jugador, otras casas, movimiento de
+# cuota y pronóstico de la API. Se aplica a cada pick después de calcularlo.
+ARB_MIN_PARTIDOS = 4
+ARB_FREC_MIN = 0.60        # un "más de X tarjetas" necesita que el árbitro lo cumpla en ≥ 60 % de sus partidos
+LESION_MAX_TITULARES = 2   # con 2+ titulares fijos fuera, nada de "gana" ni "marca" para ese equipo
+TEMPORADA_MARGEN = 0.10    # el jugador también tiene que cumplirlo en la temporada (con 10 puntos de margen)
+PRED_MIN = 45              # el pronóstico de la API tiene que darle al equipo ≥ 45 % para un "gana"
+
+
+def nombre_arbitro(r):
+    return (r or "").split(",")[0].strip()
+
+
+def indice_arbitros():
+    """{árbitro: [tarjetas totales de cada partido que pitó]} con el calendario y los partidos guardados."""
+    idx = defaultdict(list)
+    for cal in DATOS.glob("calendario_*.json"):
+        for fx in leer(cal, []) or []:
+            arb = nombre_arbitro(fx["fixture"].get("referee"))
+            if not arb or fx["fixture"]["status"]["short"] not in TERMINADOS:
+                continue
+            p = leer(PARTIDOS / f"{fx['fixture']['id']}.json")
+            if not p or not p.get("stats"):
+                continue
+            t = [(s.get("amarillas") or 0) + (s.get("rojas") or 0) for s in p["stats"].values()]
+            if len(t) == 2:
+                idx[arb].append(sum(t))
+    return idx
+
+
+def titulares_fuera(prox, equipo_id, hist):
+    fijos = plantilla_fija(equipo_id, hist)
+    fuera = [l["jugador"] for l in prox.get("lesiones") or [] if l.get("equipo") == equipo_id]
+    return [d["nombre"] for d in fijos.values() if any(mismo_jugador(n, d["nombre"]) for n in fuera)], fuera
+
+
+def temporada_jugador(hist, equipo_id, jugador_id, campo, n):
+    si = tot = 0
+    for p in hist.get(equipo_id, []):
+        for j in (p.get("jugadores") or {}).get(str(equipo_id)) or []:
+            if j.get("id") == jugador_id and (j.get("min") or 0) >= 60:
+                tot += 1
+                si += (j.get(campo) or 0) >= n
+    return si, tot
+
+
+def enriquecer(picks, prox, hist, arbitros):
+    partido = prox["partido"]
+    loc, vis = partido["teams"]["home"], partido["teams"]["away"]
+    arb = nombre_arbitro(partido["fixture"].get("referee"))
+    tarj_arb = arbitros.get(arb, []) if arb else []
+    pred = prox.get("prediccion") or {}
+    otras = prox.get("cuotas_otras") or {}
+    hist_c = prox.get("cuotas_hist") or {}
+    fuera = {loc["id"]: titulares_fuera(prox, loc["id"], hist), vis["id"]: titulares_fuera(prox, vis["id"], hist)}
+    salida = []
+    for p in picks:
+        m, o = p["mercado"], p["opcion"]
+        eq_id = None
+        if m == "Match Winner" or m in ("Total - Home", "Total - Away"):
+            eq_id = loc["id"] if (o == "Home" or m == "Total - Home") else vis["id"] if (o == "Away" or m == "Total - Away") else None
+        # lesionados / sancionados
+        if p.get("tipo") == "jugador" and any(mismo_jugador(n, p.get("jugador")) for _, l in fuera.values() for n in l):
+            continue
+        if eq_id and len(fuera[eq_id][0]) >= LESION_MAX_TITULARES and (m == "Match Winner" or o.startswith("Over")):
+            continue
+        # pronóstico de la API para el ganador
+        if m == "Match Winner" and o in ("Home", "Away"):
+            pc = pred.get("local" if o == "Home" else "visitante")
+            try:
+                if pc and int(str(pc).rstrip("%")) < PRED_MIN:
+                    continue
+            except ValueError:
+                pass
+        # árbitro: tarjetas totales
+        if m == "Cards Over/Under" and o.startswith("Over") and len(tarj_arb) >= ARB_MIN_PARTIDOS:
+            linea = float(o.split()[1])
+            fa = sum(t > linea for t in tarj_arb) / len(tarj_arb)
+            if fa < ARB_FREC_MIN:
+                continue
+            p = dict(p, detalle=f"{p.get('detalle', '')} · árbitro {arb} {sum(t > linea for t in tarj_arb)}/{len(tarj_arb)}")
+        # temporada entera del jugador
+        if p.get("tipo") == "jugador" and p.get("jugador_id") and p.get("campo") and p.get("n"):
+            eq_j = loc["id"] if p.get("equipo") == loc["name"] else vis["id"]
+            si, tot = temporada_jugador(hist, eq_j, p["jugador_id"], p["campo"], p["n"])
+            if tot >= MIN_PARTIDOS and si / tot < p["frecuencia"] - TEMPORADA_MARGEN and si / tot < JUG_FREC_CAMPO.get(p["campo"], FREC_MIN) - TEMPORADA_MARGEN:
+                continue
+            if tot:
+                p = dict(p, temporada=f"{si}/{tot}")
+        # otras casas y movimiento de cuota
+        med = (otras.get(m) or {}).get(str(o))
+        if med:
+            p = dict(p, valor_mercado=round(p["cuota"] / med - 1, 3))
+        serie = hist_c.get(f"{m}|{o}") or []
+        if len(serie) >= 2:
+            p = dict(p, movimiento=round(float(serie[-1][1]) / float(serie[0][1]) - 1, 3), cuota_inicial=float(serie[0][1]))
+        if arb:
+            p = dict(p, arbitro=arb, arbitro_tarjetas=round(sum(tarj_arb) / len(tarj_arb), 1) if tarj_arb else None)
+        salida.append(p)
+    return salida
+
+
 def main():
     ahora = datetime.now(timezone.utc)
     hist = historial()
+    arbitros = indice_arbitros()
     todos, por_partido = [], {}
     for f in sorted(EXTRA.glob("*.json")):
         prox = leer(f)
         if not (prox and prox.get("partido")):
             continue
-        todos.extend(picks_partido(prox, hist, ahora))
-        flojos = picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
-                               frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05)
+        todos.extend(enriquecer(picks_partido(prox, hist, ahora), prox, hist, arbitros))
+        flojos = enriquecer(picks_partido(prox, hist, ahora, cuota_max=PARTIDO_CUOTA_MAX,
+                                          frec_min=PARTIDO_FREC_MIN, frec_eq=PARTIDO_FREC_MIN - 0.05), prox, hist, arbitros)
         if flojos:
             por_partido[prox["partido"]["fixture"]["id"]] = flojos
 

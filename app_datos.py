@@ -126,7 +126,42 @@ def ficha_equipo(eq, nombre, hist, n=10):
                     "ambos": pct(filas, lambda f: f["gf"] and f["gc"]),
                     "marca": pct(filas, lambda f: f["gf"]),
                     "corners9": pct(filas, lambda f: f["corners_total"] >= 9)},
-            "ultimos": filas[:6]}
+            "ultimos": filas[:6], "tramos": tramos_gol(eq, hist.get(eq, [])[:n])}
+
+
+_ARB = None
+
+
+def extra_partido(f, hist):
+    """Árbitro (tarjetas por partido), pronóstico de la API y bajas de cada equipo."""
+    global _ARB
+    from bot import EXTRA
+    from picks import indice_arbitros, nombre_arbitro
+    if _ARB is None:
+        _ARB = indice_arbitros()
+    prox = leer(EXTRA / f"{f['fixture']['id']}.json") or {}
+    arb = nombre_arbitro(f["fixture"].get("referee"))
+    t = _ARB.get(arb, []) if arb else []
+    bajas = {}
+    for l in prox.get("lesiones") or []:
+        lado = "local" if l.get("equipo") == f["teams"]["home"]["id"] else "visitante"
+        if not any(b["jugador"] == l.get("jugador") for b in bajas.get(lado, [])):
+            bajas.setdefault(lado, []).append({"jugador": l.get("jugador"), "motivo": l.get("motivo"), "tipo": l.get("tipo")})
+    return {"arbitro": {"nombre": arb, "partidos": len(t), "tarjetas": round(sum(t) / len(t), 1) if t else None} if arb else None,
+            "prediccion": prox.get("prediccion"), "bajas": bajas}
+
+
+def tramos_gol(eq, partidos):
+    """Goles a favor y en contra por tramos de 15 minutos (90+ cuenta en 76-90)."""
+    tram = {"favor": [0] * 6, "contra": [0] * 6}
+    for p in partidos:
+        for e in p.get("eventos") or []:
+            if e.get("tipo") != "Goal" or e.get("detalle") == "Missed Penalty" or e.get("min") is None:
+                continue
+            i = min(max((e["min"] - 1) // 15, 0), 5)
+            propio = (e.get("equipo") == eq) != (e.get("detalle") == "Own Goal")
+            tram["favor" if propio else "contra"][i] += 1
+    return tram
 
 
 def pct(filas, cond):
@@ -261,7 +296,8 @@ def main():
                 "actualizado": vivo.get("visto"), "actualizado_iso": fecha_iso(vivo.get("visto")),
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
-                    "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist)}})
+                    "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist),
+                    **extra_partido(f, hist)}})
     partidos.sort(key=lambda p: p["fecha"])
     estado_partido = {p["id"]: p for p in partidos}
 
@@ -274,6 +310,8 @@ def main():
                 "partido": f"{p['local']} – {p['visitante']}", "texto": p["texto"], "cuota": p["cuota"],
                 "frecuencia": round(p["frecuencia"] * 100), "detalle": p.get("detalle"), "tipo": p.get("tipo"),
                 "valor": round(p.get("ventaja", 0) * 100), "estado": estado_pick(p),
+                "movimiento": p.get("movimiento"), "cuota_inicial": p.get("cuota_inicial"),
+                "valor_mercado": p.get("valor_mercado"), "temporada": p.get("temporada"),
                 "progreso": progreso(entender(p["texto"])[0], datos_partido(p["partido_id"])),
                 "definitivo": p["opcion"].startswith("Over") or p["opcion"] == "Yes" or p.get("tipo") == "jugador"}
 
@@ -475,7 +513,7 @@ def main():
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
-             "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}), "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

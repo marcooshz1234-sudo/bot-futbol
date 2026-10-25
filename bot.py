@@ -315,11 +315,26 @@ def recoger(api):
                  "tipo": l["player"].get("type"), "motivo": l["player"].get("reason")}
                 for l in api.get("injuries", fixture=fid)
             ]
-            cuotas = api.get("odds", fixture=fid, bookmaker=BET365)
+            cuotas = api.get("odds", fixture=fid)   # todas las casas: bet365 + media del resto
             if cuotas:
-                ex["cuotas"] = recortar_cuotas(cuotas)
+                ex["cuotas"], ex["cuotas_otras"] = recortar_cuotas_casas(cuotas)
+                if not ex["cuotas"]:   # por si la respuesta sin filtro no trae bet365
+                    ex["cuotas"] = recortar_cuotas(api.get("odds", fixture=fid, bookmaker=BET365))
                 ex["cuotas_hora"] = ahora().isoformat()
                 ex["cuotas_version"] = CUOTAS_VERSION
+                # historial de la cuota de bet365 (para ver si sube o baja)
+                hist_c = ex.setdefault("cuotas_hist", {})
+                for m, ops in (ex["cuotas"] or {}).items():
+                    for o, c in ops:
+                        serie = hist_c.setdefault(f"{m}|{o}", [])
+                        if not serie or serie[-1][1] != c:
+                            serie.append([ahora().isoformat()[:16], c])
+            pred = api.get("predictions", fixture=fid)
+            if pred:
+                pr = pred[0].get("predictions") or {}
+                pc = pr.get("percent") or {}
+                ex["prediccion"] = {"local": pc.get("home"), "empate": pc.get("draw"), "visitante": pc.get("away"),
+                                    "consejo": pr.get("advice"), "ganador": (pr.get("winner") or {}).get("name")}
             ex["actualizado"] = ahora().isoformat()
         if "h2h" not in ex:
             a, b = p["teams"]["home"]["id"], p["teams"]["away"]["id"]
@@ -333,6 +348,13 @@ def recoger(api):
         ex["partido"] = p
         escribir(ruta, ex)
 
+    try:
+        goleadores(api)
+    except LimiteAlcanzado:
+        raise
+    except Exception as e:
+        print(f"  ! goleadores: {e}")
+
     # Limpia datos de partidos que ya pasaron
     for ruta in EXTRA.glob("*.json"):
         ex = leer(ruta, {})
@@ -344,7 +366,7 @@ def recoger(api):
     return proximos
 
 
-CUOTAS_VERSION = 2   # súbelo al cambiar MERCADOS: fuerza a volver a pedir las cuotas
+CUOTAS_VERSION = 3   # súbelo al cambiar MERCADOS: fuerza a volver a pedir las cuotas
 
 MERCADOS = [
     "Match Winner", "Double Chance", "Both Teams Score", "Goals Over/Under",
@@ -385,6 +407,49 @@ def recortar_cuotas(resp):
                 if b.get("name") in MERCADOS:
                     bets[b["name"]] = [[v.get("value"), v.get("odd")] for v in b.get("values") or []]
     return bets
+
+
+def recortar_cuotas_casas(resp):
+    """(cuotas de bet365, mediana del resto de casas) por mercado y opción."""
+    b365, otras = {}, {}
+    for item in resp:
+        for casa in item.get("bookmakers") or []:
+            for b in casa.get("bets") or []:
+                if b.get("name") not in MERCADOS:
+                    continue
+                if casa.get("id") == BET365:
+                    b365[b["name"]] = [[v.get("value"), v.get("odd")] for v in b.get("values") or []]
+                else:
+                    for v in b.get("values") or []:
+                        try:
+                            otras.setdefault(b["name"], {}).setdefault(str(v.get("value")), []).append(float(v.get("odd")))
+                        except (TypeError, ValueError):
+                            pass
+    med = {m: {o: sorted(l)[len(l) // 2] for o, l in ops.items() if l} for m, ops in otras.items()}
+    return b365, med
+
+
+def goleadores(api):
+    """Máximos goleadores y asistentes de las 5 grandes (una vez al día)."""
+    ruta = DATOS / "goleadores.json"
+    g = leer(ruta, {}) or {}
+    if g.get("dia") == ahora().strftime("%Y-%m-%d"):
+        return
+    salida = {"dia": ahora().strftime("%Y-%m-%d"), "ligas": {}}
+    for liga in (140, 39, 135, 78, 61):
+        fila = {}
+        for clave, ruta_api in (("goles", "players/topscorers"), ("asistencias", "players/topassists")):
+            lista = []
+            for r in api.get(ruta_api, league=liga, season=TEMPORADA)[:15]:
+                st = (r.get("statistics") or [{}])[0]
+                lista.append({"jugador": r["player"]["name"], "foto": r["player"].get("photo"),
+                              "equipo": (st.get("team") or {}).get("name"),
+                              "partidos": (st.get("games") or {}).get("appearences"),
+                              "goles": (st.get("goals") or {}).get("total"),
+                              "asistencias": (st.get("goals") or {}).get("assists")})
+            fila[clave] = lista
+        salida["ligas"][COMPETICIONES[liga]] = fila
+    escribir(ruta, salida)
 
 
 # ---------------------------------------------------------------- análisis
