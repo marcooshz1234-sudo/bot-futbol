@@ -84,6 +84,23 @@ def mejores_para_lista(picks):
     return elegidos
 
 
+# 26/10: cierres que invitan a responder (las respuestas son lo que más mueve Threads). La pregunta de
+# siempre ("¿la pintamos de verde?") rendía menos que no poner nada. Se rotan para no repetir.
+CIERRES = ["👇 ¿Qué pata quitarías tú?",
+           "👇 ¿La juegas tal cual o le cambias algo? Te leo",
+           "👇 ¿Cuál es la que menos te convence?",
+           "👇 Dime tu pick para hoy y lo miro con los datos",
+           "👇 ¿Le meterías alguna pata más?"]
+CIERRES_LISTA = ["👇 ¿Con cuáles 2 o 3 te quedas tú?",
+                 "👇 ¿Cuál es tu favorita de la lista?",
+                 "👇 Dime cuál falta y la miro con los datos"]
+
+
+def cierre(dia, tipo, lista_=False):
+    opciones = CIERRES_LISTA if lista_ else CIERRES
+    return opciones[(sum(map(ord, dia + tipo))) % len(opciones)]
+
+
 def posts_del_dia(dia, d):
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     nombre = DIAS[f.weekday()]
@@ -96,25 +113,27 @@ def posts_del_dia(dia, d):
             usos[clave(p)] = usos.get(clave(p), 0) + 1
 
     combis = d.get("combis") or {}
-    for c_clave, hora, titulo in (("cuota_3", (11, 0), f"💥 COMBINADA CUOTA 3 DEL {nombre} 💥"),
-                                  ("segura", (12, 0), f"📊 COMBI DE DATOS DEL {nombre} 📊"),
-                                  ("loca", (19, 0), f"🤪 COMBI LOCA DEL {nombre} 🤪")):
+    # 26/10: la cuota va en la primera línea (los títulos con número se veían el triple)
+    for c_clave, hora, titulo in (("cuota_3", (11, 0), "💥 COMBINADA x{c} DEL {n} 💥"),
+                                  ("segura", (12, 0), "📊 COMBI DE DATOS x{c} · {n} 📊"),
+                                  ("loca", (19, 0), "🤪 COMBI LOCA x{c} DEL {n} 🤪")):
         c = combis.get(c_clave)
         if not c:
             continue
         apuntar(c["picks"])
+        titulo = titulo.format(c=num(c["cuota"]), n=nombre)
         posts.append((f"combi-{c_clave}", f.replace(hour=hora[0], minute=hora[1]), c["picks"],
                       f"{titulo}\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
-                      "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+                      f"{cierre(dia, c_clave)}"))
 
     c = combis.get("doble")   # la víspera a las 21:30: "gana o empata" para mañana
     if c:
         apuntar(c["picks"])
         posts.append(("combi-doble", (f - timedelta(days=1)).replace(hour=21, minute=30), c["picks"],
-                      f"🛡️ GANA O EMPATA · {nombre} 🛡️\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
+                      f"🛡️ GANA O EMPATA x{num(c['cuota'])} · {nombre} 🛡️\n\n{lista(c['picks'])}\n\n🎯 Cuota total: {num(c['cuota'])}\n"
                       f"💶 10€ → {num(c['cuota'] * 10)}€\n\n{dato(c['picks'])}\n\n"
-                      "Doble oportunidad: si gana o empata, verde ✅\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+                      f"Doble oportunidad: si gana o empata, verde ✅\n{cierre(dia, 'doble')}"))
 
     if not any(v for k, v in combis.items() if k != "doble"):   # día flojo (pocos partidos): al menos una combi de 2
         cand = sorted(d.get("picks") or [], key=atractivo, reverse=True)
@@ -124,8 +143,8 @@ def posts_del_dia(dia, d):
             ct = par[0]["cuota"] * par[1]["cuota"]
             apuntar(par)
             posts.append(("combi-dia", f.replace(hour=12, minute=0), par,
-                          f"🎯 LA COMBI DEL {nombre} 🎯\n\n{lista(par)}\n\n🎯 Cuota total: {num(ct)}\n"
-                          f"💶 10€ → {num(ct * 10)}€\n\n{dato(par)}\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"))
+                          f"🎯 LA COMBI x{num(ct)} DEL {nombre} 🎯\n\n{lista(par)}\n\n🎯 Cuota total: {num(ct)}\n"
+                          f"💶 10€ → {num(ct * 10)}€\n\n{dato(par)}\n\n{cierre(dia, 'dia')}"))
 
     esc = leer(DATOS / "escalera.json") or {}
     act = esc.get("actual")
@@ -138,7 +157,7 @@ def posts_del_dia(dia, d):
             intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
         posts.append(("escalera", f.replace(hour=11, minute=0), act["picks"],
-                      f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 🍀\n\n{intro}\n\n"
+                      f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 · x{num(act['cuota'])} 🍀\n\n{intro}\n\n"
                       f"{lista(act['picks'])}\n\n🎯 Cuota {num(act['cuota'])} · "
                       f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n"
                       "El siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable"))
@@ -152,14 +171,19 @@ def posts_del_dia(dia, d):
         apuntar(sel)
         posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
                       f"🔥 {len(sel)} PICKS PARA MAÑANA ({nombre}) 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
-                      "¡Combina máximo 2 o 3! 🍀"))
+                      f"¡Combina máximo 2 o 3! 🍀\n{cierre(dia, 'manana', True)}"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
     if len(tarde) >= MIN_LISTA:
         sel = tarde[:7]
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥 {len(sel)} PICKS PARA HOY 🔥\n\n{lista(sel)}\n\n{dato(sel)}\n\n"
-                      "¡Combina máximo 2 o 3! 🍀"))
+                      f"¡Combina máximo 2 o 3! 🍀\n{cierre(dia, 'hoy', True)}"))
+
+    # 26/10: si una combi lleva justo lo mismo que la lista "para mañana" (días con pocos picks), en redes
+    # parece un post repetido: se queda solo la lista, que es el formato que más se ve
+    listas = [set(map(clave, pk)) for t, _, pk, _ in posts if t.startswith("picks-")]
+    posts = [x for x in posts if x[0].startswith("picks-") or set(map(clave, x[2])) not in listas]
 
     salida = []
     for tipo, hora, picks, texto in posts:

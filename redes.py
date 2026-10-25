@@ -39,9 +39,11 @@ PIE = "🔞 +18 | Juego responsable"
 MAX_RETRASO = timedelta(minutes=45)
 REEL_TRAS = timedelta(minutes=10)
 INSTAGRAM_SOLO_REEL = True
-FACEBOOK_ACTIVO = False   # 26/10: pausado a petición del dueño; poner True para volver a publicar
+FACEBOOK_ACTIVO = False
+MAX_THREADS_DIA = 10      # 26/10: con 30+ posts al día en Threads la media se hundía; los días buenos tenían 10-13
+PRIORITARIOS = ("verde", "balance", "picks-manana", "combi-loca", "combi-doble")   # salen aunque se llegue al tope   # 26/10: pausado a petición del dueño; poner True para volver a publicar
 LIMITE_THREADS = 500
-TEMA_THREADS = "Apuestas deportivas"
+TEMA_THREADS = None   # 26/10: con etiqueta de apuestas los posts se veían 3-10 veces menos; sin etiqueta
 
 THREADS = "https://graph.threads.net/v1.0"
 INSTAGRAM = "https://graph.instagram.com/v21.0"
@@ -220,6 +222,9 @@ def main(objetivo=None):
                 est_auto[p["id"]] = {k: p[k] for k in CAMPOS if k in p}
         ESTADO_AUTO.write_text(json.dumps(est_auto, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
+    hoy = ahora.strftime("%Y-%m-%d")
+    threads_hoy = sum(1 for x in cola_total if x["fecha"][:10] == hoy
+                      and (x.get("redes") or {}).get("threads") not in (None, "ya-publicado"))
     cambios = 0
     for p in sorted(cola_total, key=lambda x: x["fecha"]):
         if objetivo and p['id'] != objetivo[0]:
@@ -243,7 +248,12 @@ def main(objetivo=None):
                 if red not in solo and red not in hecho:
                     hecho[red] = None
         if claves["threads"] and "threads" not in hecho:
-            tareas.append(("threads", lambda: threads(p, claves["threads"])))
+            if (threads_hoy >= MAX_THREADS_DIA and not p.get("forzar") and not objetivo
+                    and not any(k in p["id"] for k in PRIORITARIOS)):
+                hecho["threads"] = None   # no sale en Threads (no es un fallo: no se avisa ni se reintenta)
+                print(f"threads: {p['id']} no sale (tope diario)")
+            else:
+                tareas.append(("threads", lambda: threads(p, claves["threads"])))
         if claves["instagram"] and "instagram" not in hecho and not p.get("sin_instagram"):
             # Instagram: SOLO REEL (25/10: foto + reel se veían dobles en el perfil). Sin vídeo, la foto.
             if INSTAGRAM_SOLO_REEL and url_media(p, "mp4"):
@@ -280,6 +290,8 @@ def main(objetivo=None):
             try:
                 hecho[red] = hacer()
                 errores.pop(red, None)
+                if red == "threads":
+                    threads_hoy += 1
                 if red == "facebook":
                     p["facebook_tipo"] = ultimo_fb = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
                 print(f"{red}: publicado {p['id']}")

@@ -9,9 +9,12 @@ COLA = RAIZ / 'publicaciones' / 'cola.json'
 
 
 def balance(posts, dia):
-    filas = []
+    filas, vistos = [], set()
     for p in posts:
         titulo = p['titulo'].lstrip()
+        # 26/10: el mismo post repetido (o su versión corregida) cuenta una sola vez
+        if titulo.upper() in vistos:
+            continue
         # El emoji 📊 también identifica combis reales; no descartar esas selecciones.
         # Las previas de mañana no pertenecen al balance del día en que se anuncian.
         if (p['fecha'][:10] != dia or titulo.startswith(('✅', '🔄', '📋'))
@@ -27,6 +30,7 @@ def balance(posts, dia):
                 estado = 'sin_datos'
             else:
                 estado = 'pendiente'
+        vistos.add(titulo.upper())
         filas.append({'id': p['id'], 'titulo': p['titulo'], 'estado': estado, 'cuota': p.get('cuota')})
     cuentas = {e: sum(p['estado'] == e for p in filas) for e in ('verde', 'rojo', 'pendiente', 'sin_datos', 'no_jugo')}
     cuentas['sin_resolver'] = cuentas['pendiente'] + cuentas['sin_datos'] + cuentas['no_jugo']
@@ -40,7 +44,8 @@ def texto_balance(b):
     iconos = {'verde': '✅', 'rojo': '❌', 'pendiente': '⏳', 'sin_datos': '❔', 'no_jugo': '➖'}
     nombres = {'pendiente': 'pendiente', 'sin_datos': 'faltan datos', 'no_jugo': 'jugador sin participación'}
     fecha = datetime.fromisoformat(b['dia'])
-    lineas = [f"📊 BALANCE DEL {DIAS[fecha.weekday()]} · {fecha:%d/%m} 📊", '']
+    resueltas = c['verde'] + c['rojo']
+    lineas = [f"📊 BALANCE DEL {DIAS[fecha.weekday()]}: {c['verde']} DE {resueltas} EN VERDE 📊", '']
     for p in b['combis']:
         cuota = f" · {p['cuota']:.2f}".replace('.', ',') if p.get('cuota') else ''
         motivo = f" · {nombres[p['estado']]}" if p['estado'] in nombres else ''
