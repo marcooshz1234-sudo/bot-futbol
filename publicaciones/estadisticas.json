@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25 15:53",
+ "actualizado": "2026-10-25 16:04",
  "redes": {
   "instagram": {
    "seguidores": 18,
@@ -9,11 +9,11 @@
    ]
   },
   "threads": {
-   "seguidores": 917,
+   "seguidores": 919,
    "hoy": null,
    "serie": [
     836,
-    917
+    919
    ]
   },
   "facebook": {
@@ -34,13 +34,13 @@
    ]
   }
  },
- "total": 1008,
+ "total": 1010,
  "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "17:05",
   "dia": "2026-10-25",
-  "titulo": "Freiburg  bayern"
+  "titulo": "Guía de las selecciones"
  },
  "ayer": {
   "aciertos": 13,
@@ -64,14 +64,14 @@
   },
   "2026-10-25": {
    "instagram": 18,
-   "threads": 917,
+   "threads": 919,
    "facebook": 0,
    "telegram": 73
   }
  },
  "tipos_instagram": {
-  "Combi loca": {
-   "posts": 3,
+  "Combi loca (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -125,8 +125,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 4,
+  "Combi loca": {
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
