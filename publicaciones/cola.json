@@ -561,6 +561,14 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-25T23:16",
+    "mensaje_id": 110,
+    "redes": {
+      "threads": "18115108024861291"
+    },
+    "errores_redes": {
+      "facebook": "400: Limitamos la frecuencia con la que puedes publicar, comentar o realizar otras acciones durante un período determinado para proteger a la comunidad frente al spam. Vuelve a intentarlo más tarde. Más información"
+    }
   }
 ]
