@@ -10,5 +10,13 @@
    "instagram_reel": "400: Invalid OAuth access token - Cannot parse access token"
   },
   "facebook_tipo": "foto"
+ },
+ "2026-10-25-escalera": {
+  "redes": {},
+  "errores_redes": {
+   "threads": "400: API access blocked.",
+   "instagram": "400: Invalid OAuth access token - Cannot parse access token",
+   "facebook": "400: API access blocked."
+  }
  }
 }
