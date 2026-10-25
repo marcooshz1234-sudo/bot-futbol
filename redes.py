@@ -38,6 +38,7 @@ RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/publ
 PIE = "🔞 +18 | Juego responsable"
 MAX_RETRASO = timedelta(minutes=45)
 REEL_TRAS = timedelta(minutes=10)
+INSTAGRAM_SOLO_REEL = True
 LIMITE_THREADS = 500
 TEMA_THREADS = "Apuestas deportivas"
 
@@ -171,7 +172,7 @@ def ya_esta(red, p, claves, pagina):
             _RECIENTES[red] = [(x.get("timestamp"), x.get("text")) for x in r.get("data", [])]
         elif red == "instagram":
             r = llamar("GET", f"{INSTAGRAM}/me/media", {"fields": "caption,timestamp,media_type", "limit": 15, "access_token": claves["instagram"]})
-            _RECIENTES[red] = [(x.get("timestamp"), x.get("caption")) for x in r.get("data", []) if x.get("media_type") != "VIDEO"]
+            _RECIENTES[red] = [(x.get("timestamp"), x.get("caption")) for x in r.get("data", [])]
         else:
             pag, tok = pagina_facebook(claves["facebook"], pagina)
             r = llamar("GET", f"{FACEBOOK}/{pag}/posts", {"fields": "message,created_time", "limit": 15, "access_token": tok})
@@ -243,8 +244,13 @@ def main(objetivo=None):
         if claves["threads"] and "threads" not in hecho:
             tareas.append(("threads", lambda: threads(p, claves["threads"])))
         if claves["instagram"] and "instagram" not in hecho and not p.get("sin_instagram"):
-            tareas.append(("instagram", lambda: instagram(p, claves["instagram"])))
-        if (claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
+            # Instagram: SOLO REEL (25/10: foto + reel se veían dobles en el perfil). Sin vídeo, la foto.
+            if INSTAGRAM_SOLO_REEL and url_media(p, "mp4"):
+                hecho.setdefault("instagram_reel", None)
+                tareas.append(("instagram", lambda: instagram(p, claves["instagram"], reel=True)))
+            else:
+                tareas.append(("instagram", lambda: instagram(p, claves["instagram"])))
+        if (not INSTAGRAM_SOLO_REEL and claves["instagram"] and "instagram_reel" not in hecho and url_media(p, "mp4")
                 and ahora >= cuando + REEL_TRAS and hecho.get("instagram")):
             tareas.append(("instagram_reel", lambda: instagram(p, claves["instagram"], reel=True)))
         if claves["facebook"] and "facebook" not in hecho:
