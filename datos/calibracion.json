@@ -1,0 +1,470 @@
+{
+ "generado": "2026-10-26 00:51",
+ "partidos": 960,
+ "global": {
+  "n": 9595,
+  "frec_media": 0.7605,
+  "real": 0.7053,
+  "pendiente": 0.6249
+ },
+ "tipos": {
+  "goles": {
+   "n": 1994,
+   "frec_media": 0.7625,
+   "real": 0.7467,
+   "pendiente": 0.4027
+  },
+  "resultado": {
+   "n": 544,
+   "frec_media": 0.7069,
+   "real": 0.6379,
+   "pendiente": 0.7548
+  },
+  "tarjetas": {
+   "n": 1053,
+   "frec_media": 0.7979,
+   "real": 0.774,
+   "pendiente": 0.6251
+  },
+  "tiros a puerta": {
+   "n": 1489,
+   "frec_media": 0.7706,
+   "real": 0.7374,
+   "pendiente": 0.5973
+  },
+  "corners": {
+   "n": 1333,
+   "frec_media": 0.7348,
+   "real": 0.6534,
+   "pendiente": 0.8266
+  },
+  "faltas": {
+   "n": 907,
+   "frec_media": 0.7585,
+   "real": 0.763,
+   "pendiente": 0.4208
+  },
+  "fueras de juego": {
+   "n": 208,
+   "frec_media": 0.7491,
+   "real": 0.6875,
+   "pendiente": 0.4886
+  },
+  "paradas": {
+   "n": 591,
+   "frec_media": 0.7845,
+   "real": 0.7445,
+   "pendiente": 0.6255
+  },
+  "jugador:faltas_c": {
+   "n": 939,
+   "frec_media": 0.7627,
+   "real": 0.6273,
+   "pendiente": 0.4306
+  },
+  "jugador:a_puerta": {
+   "n": 264,
+   "frec_media": 0.748,
+   "real": 0.4886,
+   "pendiente": 0.7447
+  },
+  "jugador:tiros": {
+   "n": 273,
+   "frec_media": 0.7456,
+   "real": 0.5641,
+   "pendiente": 0.8668
+  }
+ },
+ "mercados": {
+  "Goals Over/Under - Second Half|Over 0.5": {
+   "n": 258,
+   "frec_media": 0.8348,
+   "real": 0.8643,
+   "pendiente": 0.2664
+  },
+  "Total - Away|Over 0.5": {
+   "n": 237,
+   "frec_media": 0.7838,
+   "real": 0.7173,
+   "pendiente": 0.1833
+  },
+  "To Win Either Half|Away": {
+   "n": 94,
+   "frec_media": 0.6919,
+   "real": 0.5213,
+   "pendiente": 0.4781
+  },
+  "Double Chance|Draw/Away": {
+   "n": 157,
+   "frec_media": 0.725,
+   "real": 0.5924,
+   "pendiente": 0.7294
+  },
+  "Cards Over/Under|Over 2.5": {
+   "n": 209,
+   "frec_media": 0.7801,
+   "real": 0.7656,
+   "pendiente": 0.0
+  },
+  "Cards Over/Under|Over 3.5": {
+   "n": 107,
+   "frec_media": 0.6924,
+   "real": 0.6168,
+   "pendiente": 0.5477
+  },
+  "Home Team Total Cards|Over 0.5": {
+   "n": 229,
+   "frec_media": 0.8918,
+   "real": 0.869,
+   "pendiente": 0.0
+  },
+  "Home Team Total Cards|Over 1.5": {
+   "n": 129,
+   "frec_media": 0.7115,
+   "real": 0.6124,
+   "pendiente": 0.0
+  },
+  "Away Team Total Cards|Over 0.5": {
+   "n": 229,
+   "frec_media": 0.886,
+   "real": 0.9039,
+   "pendiente": 0.305
+  },
+  "Away Team Total Cards|Over 1.5": {
+   "n": 124,
+   "frec_media": 0.6989,
+   "real": 0.7177,
+   "pendiente": 0.0
+  },
+  "Both Teams to Receive a Card|Yes": {
+   "n": 214,
+   "frec_media": 0.8042,
+   "real": 0.785,
+   "pendiente": 0.0
+  },
+  "Away Total ShotOnGoal|Over 2.5": {
+   "n": 223,
+   "frec_media": 0.8138,
+   "real": 0.7085,
+   "pendiente": 1.0
+  },
+  "Goals Over/Under|Over 1.5": {
+   "n": 250,
+   "frec_media": 0.8027,
+   "real": 0.816,
+   "pendiente": 0.1108
+  },
+  "Goals Over/Under First Half|Over 0.5": {
+   "n": 204,
+   "frec_media": 0.7437,
+   "real": 0.701,
+   "pendiente": 0.0523
+  },
+  "Total - Home|Over 0.5": {
+   "n": 227,
+   "frec_media": 0.782,
+   "real": 0.8458,
+   "pendiente": 0.0
+  },
+  "Double Chance|Home/Draw": {
+   "n": 151,
+   "frec_media": 0.7172,
+   "real": 0.755,
+   "pendiente": 0.3112
+  },
+  "To Win Either Half|Home": {
+   "n": 80,
+   "frec_media": 0.6992,
+   "real": 0.725,
+   "pendiente": 1.0
+  },
+  "Goals Over/Under|Over 2.5": {
+   "n": 124,
+   "frec_media": 0.7095,
+   "real": 0.7016,
+   "pendiente": 0.0
+  },
+  "Both Teams Score|Yes": {
+   "n": 111,
+   "frec_media": 0.691,
+   "real": 0.6306,
+   "pendiente": 0.0
+  },
+  "Total - Home|Over 1.5": {
+   "n": 39,
+   "frec_media": 0.6735,
+   "real": 0.5897,
+   "pendiente": 0.0
+  },
+  "Home Team Score a Goal (2nd Half)|Yes": {
+   "n": 107,
+   "frec_media": 0.6845,
+   "real": 0.6729,
+   "pendiente": 0.0
+  },
+  "Away Team Score a Goal (2nd Half)|Yes": {
+   "n": 109,
+   "frec_media": 0.6947,
+   "real": 0.6697,
+   "pendiente": 0.0
+  },
+  "Match Winner|Away": {
+   "n": 33,
+   "frec_media": 0.6566,
+   "real": 0.3333,
+   "pendiente": 0.9366
+  },
+  "Goals Over/Under - Second Half|Over 1.5": {
+   "n": 62,
+   "frec_media": 0.6905,
+   "real": 0.6452,
+   "pendiente": 1.0
+  },
+  "Total - Away|Over 1.5": {
+   "n": 52,
+   "frec_media": 0.6653,
+   "real": 0.4615,
+   "pendiente": 0.0
+  },
+  "Corners Over Under|Over 7.5": {
+   "n": 199,
+   "frec_media": 0.7691,
+   "real": 0.7085,
+   "pendiente": 0.6307
+  },
+  "Corners Over Under|Over 8.5": {
+   "n": 116,
+   "frec_media": 0.7122,
+   "real": 0.6034,
+   "pendiente": 0.3882
+  },
+  "Home Corners Over/Under|Over 3.5": {
+   "n": 145,
+   "frec_media": 0.7293,
+   "real": 0.6966,
+   "pendiente": 0.888
+  },
+  "Home Corners Over/Under|Over 4.5": {
+   "n": 73,
+   "frec_media": 0.687,
+   "real": 0.5616,
+   "pendiente": 1.0
+  },
+  "Away Corners Over/Under|Over 2.5": {
+   "n": 219,
+   "frec_media": 0.8094,
+   "real": 0.7945,
+   "pendiente": 0.6498
+  },
+  "Total ShotOnGoal|Over 6.5": {
+   "n": 228,
+   "frec_media": 0.8281,
+   "real": 0.8333,
+   "pendiente": 0.1921
+  },
+  "Total ShotOnGoal|Over 7.5": {
+   "n": 183,
+   "frec_media": 0.7611,
+   "real": 0.7322,
+   "pendiente": 0.3696
+  },
+  "Home Total ShotOnGoal|Over 2.5": {
+   "n": 212,
+   "frec_media": 0.8178,
+   "real": 0.8774,
+   "pendiente": 0.134
+  },
+  "Away Total ShotOnGoal|Over 3.5": {
+   "n": 160,
+   "frec_media": 0.7459,
+   "real": 0.6188,
+   "pendiente": 0.5002
+  },
+  "ShotOnTarget 1x2|Away": {
+   "n": 47,
+   "frec_media": 0.6867,
+   "real": 0.5106,
+   "pendiente": 1.0
+  },
+  "Corners 1x2|Home": {
+   "n": 46,
+   "frec_media": 0.6865,
+   "real": 0.5435,
+   "pendiente": 0.1746
+  },
+  "Home Total ShotOnGoal|Over 3.5": {
+   "n": 145,
+   "frec_media": 0.7383,
+   "real": 0.8207,
+   "pendiente": 0.3741
+  },
+  "ShotOnTarget 1x2|Home": {
+   "n": 43,
+   "frec_media": 0.6819,
+   "real": 0.7907,
+   "pendiente": 0.0
+  },
+  "Total ShotOnGoal|Over 8.5": {
+   "n": 118,
+   "frec_media": 0.7181,
+   "real": 0.6356,
+   "pendiente": 0.2049
+  },
+  "Home Total ShotOnGoal|Over 4.5": {
+   "n": 63,
+   "frec_media": 0.7152,
+   "real": 0.7778,
+   "pendiente": 0.0
+  },
+  "Fouls. Total|Over 19.5": {
+   "n": 178,
+   "frec_media": 0.7947,
+   "real": 0.8427,
+   "pendiente": 0.0038
+  },
+  "Fouls. Total|Over 21.5": {
+   "n": 128,
+   "frec_media": 0.7473,
+   "real": 0.7266,
+   "pendiente": 0.8996
+  },
+  "Fouls. Total|Over 23.5": {
+   "n": 46,
+   "frec_media": 0.7074,
+   "real": 0.6739,
+   "pendiente": 0.4404
+  },
+  "Fouls. Home Total|Over 9.5": {
+   "n": 166,
+   "frec_media": 0.7614,
+   "real": 0.753,
+   "pendiente": 0.6186
+  },
+  "Fouls. Home Total|Over 10.5": {
+   "n": 111,
+   "frec_media": 0.7341,
+   "real": 0.7207,
+   "pendiente": 0.5076
+  },
+  "Offsides Total|Over 2.5": {
+   "n": 149,
+   "frec_media": 0.772,
+   "real": 0.7248,
+   "pendiente": 0.6082
+  },
+  "Saves O/U Away|Over 1.5": {
+   "n": 187,
+   "frec_media": 0.8077,
+   "real": 0.8877,
+   "pendiente": 0.2754
+  },
+  "Saves O/U Away|Over 2.5": {
+   "n": 90,
+   "frec_media": 0.7367,
+   "real": 0.7889,
+   "pendiente": 0.0556
+  },
+  "Away Corners Over/Under|Over 3.5": {
+   "n": 149,
+   "frec_media": 0.7308,
+   "real": 0.6846,
+   "pendiente": 0.3247
+  },
+  "Away Corners Over/Under|Over 4.5": {
+   "n": 70,
+   "frec_media": 0.6796,
+   "real": 0.4857,
+   "pendiente": 1.0
+  },
+  "jugador:faltas_c:1": {
+   "n": 798,
+   "frec_media": 0.7745,
+   "real": 0.6617,
+   "pendiente": 0.3393
+  },
+  "jugador:a_puerta:1": {
+   "n": 264,
+   "frec_media": 0.748,
+   "real": 0.4886,
+   "pendiente": 0.7447
+  },
+  "jugador:tiros:2": {
+   "n": 218,
+   "frec_media": 0.7493,
+   "real": 0.5826,
+   "pendiente": 0.9234
+  },
+  "jugador:faltas_c:2": {
+   "n": 141,
+   "frec_media": 0.6964,
+   "real": 0.4326,
+   "pendiente": 0.0526
+  },
+  "jugador:tiros:3": {
+   "n": 55,
+   "frec_media": 0.731,
+   "real": 0.4909,
+   "pendiente": 0.4601
+  },
+  "Corners Over Under|Over 9.5": {
+   "n": 62,
+   "frec_media": 0.6804,
+   "real": 0.4355,
+   "pendiente": 0.0
+  },
+  "Fouls. Away Total|Over 9.5": {
+   "n": 166,
+   "frec_media": 0.7685,
+   "real": 0.7711,
+   "pendiente": 0.1728
+  },
+  "Fouls. Away Total|Over 10.5": {
+   "n": 112,
+   "frec_media": 0.7398,
+   "real": 0.7589,
+   "pendiente": 0.0
+  },
+  "Corners 1x2|Away": {
+   "n": 46,
+   "frec_media": 0.6695,
+   "real": 0.6087,
+   "pendiente": 0.0
+  },
+  "Away Total ShotOnGoal|Over 4.5": {
+   "n": 67,
+   "frec_media": 0.6961,
+   "real": 0.4478,
+   "pendiente": 0.1482
+  },
+  "Total Corners (1st Half)|Over 3.5": {
+   "n": 135,
+   "frec_media": 0.7496,
+   "real": 0.6741,
+   "pendiente": 0.0
+  },
+  "Saves O/U Home|Over 1.5": {
+   "n": 182,
+   "frec_media": 0.83,
+   "real": 0.7033,
+   "pendiente": 0.6974
+  },
+  "Saves O/U Home|Over 2.5": {
+   "n": 105,
+   "frec_media": 0.725,
+   "real": 0.5524,
+   "pendiente": 1.0
+  },
+  "Total Corners (1st Half)|Over 4.5": {
+   "n": 53,
+   "frec_media": 0.6659,
+   "real": 0.4906,
+   "pendiente": 0.4366
+  },
+  "Offsides Total|Over 3.5": {
+   "n": 59,
+   "frec_media": 0.6915,
+   "real": 0.5932,
+   "pendiente": 0.0
+  }
+ }
+}

@@ -75,6 +75,36 @@ def senal(p):
     return "bet365 paga más" if vm > 0.02 else "bet365 paga menos" if vm < -0.02 else "igual que el resto"
 
 
+_CAL = {}
+
+
+def calibracion():
+    if "c" not in _CAL:
+        _CAL["c"] = leer(DATOS / "calibracion.json", {}) or {}
+    return _CAL["c"]
+
+
+def frec_calibrada(p, cal=None):
+    """La frecuencia de los últimos partidos corregida con lo que pasó de verdad en el histórico
+    (calibrar_historico.py): p. ej. «1+ tiro a puerta» que dice 75 % solo salía el 49 %."""
+    f = float(p["frecuencia"])
+    cal = calibracion() if cal is None else cal
+    if not cal:
+        return f
+
+    def recta(m):
+        return m["real"] + m["pendiente"] * (f - m["frec_media"])
+    t = (cal.get("tipos") or {}).get(seg_tipo(p)) or cal.get("global")
+    m = (cal.get("mercados") or {}).get(seg_fino(p))
+    if not t:
+        return f
+    v = recta(t)
+    if m:
+        w = m["n"] / (m["n"] + 100)          # con pocos casos manda el tipo de mercado
+        v = w * recta(m) + (1 - w) * v
+    return max(0.05, min(0.97, v))
+
+
 def calibrar(resueltos):
     hoy = datetime.now(MADRID).replace(tzinfo=None)
     por_partido = defaultdict(int)
@@ -83,7 +113,7 @@ def calibrar(resueltos):
     filas = []
     for p in resueltos:
         try:
-            imp, f = implicita(p), float(p["frecuencia"])
+            imp, f = implicita(p), frec_calibrada(p)
         except (KeyError, TypeError, ValueError, ZeroDivisionError):
             continue
         # los picks de un mismo partido caen juntos: entre todos cuentan como un partido
@@ -135,7 +165,7 @@ def prob_aprendida(p, ap):
     if not ap or not p.get("cuota"):
         return None
     imp = implicita(p)
-    prob = imp + ap["w_frecuencia"] * (float(p["frecuencia"]) - imp)
+    prob = imp + ap["w_frecuencia"] * (frec_calibrada(p) - imp)
     for tabla, clave in (("tipos", seg_tipo(p)), ("mercados", seg_fino(p)),
                          ("ligas", p.get("competicion") or "?"), ("cuotas", tramo_cuota(p)), ("senales", senal(p))):
         prob += (ap.get(tabla, {}).get(clave) or {}).get("ajuste", 0)

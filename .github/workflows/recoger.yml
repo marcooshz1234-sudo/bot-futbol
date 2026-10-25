@@ -27,6 +27,7 @@ jobs:
           TELEGRAM_CANAL: "-1003953339107"
         run: |
           python -u aciertos.py || echo "aciertos falló (no bloquea)"
+          python -u calibrar_historico.py || echo "calibración falló (no bloquea)"
           python -u aprender.py || echo "aprender falló (no bloquea)"
       - name: Elegir picks y combis
         run: python -u picks.py

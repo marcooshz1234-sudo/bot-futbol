@@ -11,6 +11,16 @@ def pick(i, ok, tipo="goles", cuota=1.3, frec=0.85, partido=None):
 
 
 class TestAprender(unittest.TestCase):
+    def setUp(self):
+        aprender._CAL["c"] = {}   # los tests no dependen del histórico real
+
+    def test_calibracion_baja_lo_que_exagera(self):
+        cal = {"global": {"real": 0.7, "frec_media": 0.76, "pendiente": 0.6, "n": 1000},
+               "tipos": {"jugador:a_puerta": {"real": 0.49, "frec_media": 0.75, "pendiente": 0.7, "n": 264}},
+               "mercados": {}}
+        p = dict(pick(1, None), tipo="jugador", campo="a_puerta", n=1, frecuencia=0.75)
+        self.assertAlmostEqual(aprender.frec_calibrada(p, cal), 0.49, places=2)
+
     def test_sin_datos_no_cambia(self):
         p = [pick(1, None)]
         self.assertEqual(aplicar_aprendizaje(p, {}), p)
