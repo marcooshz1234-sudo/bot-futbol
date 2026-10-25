@@ -123,7 +123,7 @@ function vHoy(){
   h += `<h2>Combis del análisis actual</h2><div class="mut" style="margin-bottom:10px">Pueden cambiar con las cuotas. Las publicadas se siguen en Partidos.</div>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
   const e = D.escalera.actual;
   if(e){ const hecho = e.escalon-1; h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div><div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<=hecho?"var(--ok)":i===e.escalon?"var(--warn)":""}"></div>`).join("")}</div>${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
-  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
+  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${extrasPick(p)}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
   if(D.valor.length){ h += `<h2>💎 Con valor según el modelo</h2><div class="card">` + D.valor.slice(0,8).map(v => `<div class="leg"><div class="col sp"><span>${esc(v.texto||(v.mercado+" · "+v.opcion))}</span><span class="mut">${esc(v.partido)} · ${esc(v.competicion)}${v.hora?" · "+v.hora:""}</span></div><span class="cuota">${n2(v.cuota)}</span><span class="chip verde">+${Math.round(v.valor*100)}%</span></div>`).join("") + `</div>` }
   return h;
 }
@@ -144,6 +144,7 @@ function tarjetaPartido(p){
    ${vivo?`<div style="margin:8px 0">${avisoDatos(p.actualizado_iso,true)}</div>`:""}
    <div class="ficha" onclick="event.stopPropagation()">
     ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
+    ${f?extrasFicha(p, f):""}
     ${f?`<div class="row" style="margin-bottom:6px"><span class="sp">${forma(f.local.forma)}</span><span class="mut">forma (último a la izq.)</span><span class="sp" style="text-align:right">${forma(f.visitante.forma)}</span></div>
     <table><tr><th>Media últimos ${f.local.partidos}</th><th>${esc(p.local)}</th><th>${esc(p.visitante)}</th></tr>
     ${filaF("Goles a favor","gf")}${filaF("Goles en contra","gc")}${filaF("Córners propios","corners")}${filaF("Córners del partido","corners_total")}${filaF("Tarjetas propias","tarjetas")}${filaF("Tarjetas del partido","tarjetas_total")}${filaF("Tiros","tiros")}${filaF("Tiros a puerta","a_puerta")}${filaF("Paradas portero","paradas")}
@@ -152,9 +153,27 @@ function tarjetaPartido(p){
     <h2>Últimos de ${esc(p.visitante)}</h2><table><tr><th>Rival</th><th>Res.</th><th>Córn.</th><th>Tarj.</th></tr>${ult(f.visitante)}</table>`:`<div class="mut">Sin ficha para este partido</div>`}
    </div></div>`;
 }
+function extrasFicha(p, f){
+  let h = "";
+  const pr = f.prediccion;
+  if(pr && pr.local){ const v = x => parseInt(x)||0; h += `<div style="margin-bottom:10px"><div class="mut" style="margin-bottom:4px">Pronóstico de la API${pr.consejo?` · ${esc(pr.consejo)}`:""}</div><div style="display:flex;height:22px;border-radius:6px;overflow:hidden;font:700 11px/22px var(--f);text-align:center"><div style="width:${v(pr.local)}%;background:var(--ok);color:#fff">${esc(pr.local)}</div><div style="width:${v(pr.empate)}%;background:#a8b8ad">${esc(pr.empate)}</div><div style="width:${v(pr.visitante)}%;background:var(--live);color:#fff">${esc(pr.visitante)}</div></div></div>` }
+  if(f.arbitro) h += `<div class="leg"><span class="sp">🟨 Árbitro: <b>${esc(f.arbitro.nombre)}</b></span><span class="mut">${f.arbitro.tarjetas!=null?`${String(f.arbitro.tarjetas).replace(".",",")} tarjetas/partido (${f.arbitro.partidos})`:"sin datos"}</span></div>`;
+  const b = f.bajas || {};
+  [["local",p.local],["visitante",p.visitante]].forEach(([k,n]) => { if((b[k]||[]).length) h += `<div class="leg" style="align-items:flex-start"><span class="sp">🚑 Bajas ${esc(n)}</span><span class="mut" style="text-align:right">${b[k].map(x=>esc(x.jugador)).join(", ")}</span></div>` });
+  const tr = (eq) => { const t = eq.tramos; if(!t) return ""; const mx = Math.max(1,...t.favor,...t.contra); return `<div style="flex:1"><div class="mut" style="margin-bottom:3px">${esc(eq.nombre)}</div><div style="display:flex;gap:3px;align-items:flex-end;height:44px">${t.favor.map((v,i)=>`<div style="flex:1;display:flex;flex-direction:column;justify-content:flex-end;gap:1px"><div title="a favor" style="height:${18*v/mx}px;background:var(--ok);border-radius:2px"></div><div title="en contra" style="height:${18*t.contra[i]/mx}px;background:var(--ko);border-radius:2px;opacity:.7"></div></div>`).join("")}</div><div class="mut" style="display:flex;justify-content:space-between;font-size:10px"><span>1'</span><span>45'</span><span>90'</span></div></div>` };
+  if(f.local.tramos) h += `<div style="margin:10px 0"><div class="mut" style="margin-bottom:4px">⏱️ Goles por tramos de 15' (verde a favor · rojo en contra)</div><div style="display:flex;gap:14px">${tr(f.local)}${tr(f.visitante)}</div></div>`;
+  return h;
+}
+function extrasPick(p){
+  let t = [];
+  if(p.movimiento!=null && Math.abs(p.movimiento)>=0.05) t.push(p.movimiento<0?`📉 bajó de ${n2(p.cuota_inicial)}`:`📈 subió de ${n2(p.cuota_inicial)}`);
+  if(p.valor_mercado!=null && p.valor_mercado>=0.04) t.push(`💰 +${Math.round(p.valor_mercado*100)}% vs otras casas`);
+  if(p.temporada) t.push(`temporada ${p.temporada}`);
+  return t.length ? `<span class="mut">${t.join(" · ")}</span>` : "";
+}
 function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
 function vPartidos(){
-  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["resumen","Resumen diario"],["tabla","Clasificación"],["patrones","Patrones"]], "directo");
+  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["resumen","Resumen diario"],["tabla","Clasificación"],["goleadores","Goleadores"],["patrones","Patrones"]], "directo");
   let h = t;
   if(modo==="lista"){
     const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
@@ -167,6 +186,12 @@ function vPartidos(){
     h += vDirecto(modo);
   } else if(modo==="resumen"){
     h += vResumen();
+  } else if(modo==="goleadores"){
+    const G = D.goleadores || {}; const ligasG = Object.keys(G);
+    if(!ligasG.length) return h + `<div class="empty">Los goleadores se cargan en la próxima actualización del bot</div>`;
+    const [lg, tg] = subTabs("ligag", ligasG.map(l=>[l,l]), ligasG[0]);
+    const [cual, tc] = subTabs("cualg", [["goles","⚽ Goles"],["asistencias","🅰️ Asistencias"]], "goles");
+    h += tg + tc + `<div class="card" style="padding:8px 10px"><table><tr><th>#</th><th style="text-align:left">Jugador</th><th>PJ</th><th>${cual==="goles"?"Goles":"Asist."}</th><th>Por partido</th></tr>${(G[lg][cual]||[]).map((r,i)=>{const v=cual==="goles"?r.goles:r.asistencias;return `<tr><td>${i+1}</td><td style="text-align:left"><b>${esc(r.jugador)}</b><br><span class="mut">${esc(r.equipo||"")}</span></td><td>${r.partidos??"—"}</td><td><b>${v??"—"}</b></td><td>${r.partidos?(v/r.partidos).toFixed(2).replace(".",","):"—"}</td></tr>`}).join("")}</table></div>`;
   } else if(modo==="tabla"){
     const ligas = Object.keys(D.clasificaciones); const [lg, t3] = subTabs("liga", ligas.map(l=>[l,l]), ligas[0]);
     const tb = D.clasificaciones[lg]||[];
