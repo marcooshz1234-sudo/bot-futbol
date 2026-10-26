@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 02:05",
+ "actualizado": "2026-10-26 02:16",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -42,15 +42,21 @@
  "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "10:00",
   "dia": "2026-10-26",
-  "titulo": "La combi del lunes"
+  "titulo": "4 rachas que siguen vivas hoy"
  },
  "ayer": {
-  "aciertos": 21,
-  "total": 42
+  "aciertos": 25,
+  "total": 46
  },
- "escalera": null,
+ "escalera": {
+  "dia": 1,
+  "de": 7,
+  "stake": 20.0,
+  "objetivo": 38.0,
+  "fecha": "2026-10-27"
+ },
  "historial": {
   "2026-10-23": {
    "threads": 836,
