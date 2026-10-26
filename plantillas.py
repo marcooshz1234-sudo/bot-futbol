@@ -270,12 +270,20 @@ def posts_del_dia(dia, d):
     listas = [set(map(clave, pk)) for t, _, pk, _ in posts if t.startswith("picks-")]
     posts = [x for x in posts if x[0].startswith("picks-") or set(map(clave, x[2])) not in listas]
 
+    # 26/10: posts de fútbol sin apuesta (rachas, xG, pichichis, previa del finde) → datos_futbol.py
+    try:
+        import datos_futbol
+        posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
+    except Exception as e:
+        print("datos de fútbol:", str(e)[:150])
+
     salida = []
     for tipo, hora, picks, texto in posts:
         if any(es_sin_empate(p["mercado"], p["opcion"]) for p in picks):
             continue  # No eliminar patas de una combi conservando su cuota anterior.
-        primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
-        hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
+        if picks:
+            primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
+            hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "foto": None, "origen": "analista", "directo": True,
                        "sel": ["|".join(map(str, clave(p))) for p in picks]})
