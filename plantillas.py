@@ -204,7 +204,10 @@ def posts_del_dia(dia, d):
     if act and act["dia"] == dia:
         ant = act.get("anterior")
         if not ant or ant.get("resultado") != "verde":
-            intro = ("❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪"
+            ayer = (f - timedelta(days=1)).strftime("%Y-%m-%d")
+            cuando = "Ayer" if ant and ant.get("dia") == ayer else \
+                f"El {DIAS[datetime.fromisoformat(ant['dia']).weekday()].lower()}" if ant else ""
+            intro = (f"❌ {cuando} se cayó el día {ant.get('escalon')}. Aquí no se borra nada: otra vez desde 20€ 💪"
                      if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀")
         else:
             intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
@@ -274,11 +277,13 @@ def posts_del_dia(dia, d):
     # 26/10: un mismo partido en 2 combis como mucho (el 26/10 el Sevilla–Osasuna iba en 3 y, si sale raro,
     # caen todas a la vez). Mandan las que salen antes en la lista de arriba; la de 1€ a 500€ va aparte.
     en_combis, quedan_posts = {}, []
+    # la escalera va primero y no se quita nunca: el reto sigue aunque no se publique
+    posts = sorted(posts, key=lambda x: x[0] != "escalera")
     for x in posts:
         if x[0].startswith("combi-") or x[0] == "escalera":
             if x[0] != "combi-500":
                 partidos = {p["partido_id"] for p in x[2]}
-                if any(en_combis.get(pid, 0) >= MAX_COMBIS_POR_PARTIDO for pid in partidos):
+                if x[0] != "escalera" and any(en_combis.get(pid, 0) >= MAX_COMBIS_POR_PARTIDO for pid in partidos):
                     continue
                 for pid in partidos:
                     en_combis[pid] = en_combis.get(pid, 0) + 1

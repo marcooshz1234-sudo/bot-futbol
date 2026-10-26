@@ -24,11 +24,18 @@ DESDE = "2026-10-24"
 DIAS_RETO = 7          # 20 → 40 → … → 1.280 €; tras el día 7 (o un fallo) vuelve al día 1
 
 
-def elegir(dia):
+def elegir(dia, compartir=False):
     """Dos picks de partidos distintos con cuota total en rango, los más fiables primero.
-    Nunca comparte selección con la combi segura del mismo día."""
+    No comparte selección con la combi segura del mismo día; si así no sale ninguna pareja, se permite
+    (26/10: ese día la escalera se quedó sin escalón por esa regla)."""
+    if not compartir:
+        return elegir_(dia, False) or elegir_(dia, True)
+    return elegir_(dia, True)
+
+
+def elegir_(dia, compartir):
     segura = (dia.get("combis") or {}).get("segura") or {}
-    en_segura = {(p["partido_id"], p["mercado"], p["opcion"]) for p in segura.get("picks", [])}
+    en_segura = set() if compartir else {(p["partido_id"], p["mercado"], p["opcion"]) for p in segura.get("picks", [])}
     picks = [p for p in dia["picks"] if not es_sin_empate(p["mercado"], p["opcion"]) and p.get("tipo") != "jugador"   # los de jugador se corrigen aparte
              and (p["partido_id"], p["mercado"], p["opcion"]) not in en_segura]
     # 26/10: con lo aprendido (aprender.py), solo patas cuya probabilidad real supera la de la cuota;
