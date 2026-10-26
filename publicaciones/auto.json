@@ -53,7 +53,8 @@
     "origen": "analista",
     "directo": true,
     "sel": [],
-    "fijo": true
+    "fijo": true,
+    "resultado": "verde"
   },
   {
     "id": "2026-10-26-combi-tema",

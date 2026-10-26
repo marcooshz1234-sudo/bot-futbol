@@ -617,7 +617,7 @@ def main():
         if x["id"] not in ya:
             conocidos.append(dict(x, fecha=hora(x["fecha"]).strftime("%Y-%m-%dT%H:%M")))
     publicados_hoy = []
-    desde36 = (ahora - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
+    desde36 = (ahora - timedelta(days=1)).strftime("%Y-%m-%dT00:00")   # 27/10: ayer entero (la app enseña Ayer/Hoy)
     for p in todos:
         if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
             continue

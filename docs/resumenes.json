@@ -210,12 +210,12 @@
     "dia": "2026-10-26",
     "total": 4,
     "cuentas": {
-      "verde": 2,
+      "verde": 3,
       "rojo": 1,
-      "pendiente": 1,
+      "pendiente": 0,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 0
     },
     "combis": [
       {
@@ -227,7 +227,7 @@
       {
         "id": "2026-10-26-combi-dia",
         "titulo": "🎯 LA COMBI DEL LUNES 🎯",
-        "estado": "pendiente",
+        "estado": "verde",
         "cuota": 1.84
       },
       {
@@ -243,6 +243,6 @@
         "cuota": 8.0
       }
     ],
-    "texto": "📊 BALANCE DEL LUNES: 2 DE 3 EN VERDE 📊\n\n✅ 📊 COMBI DE DATOS x1,70 · LUNES 📊 · 1,75\n⏳ 🎯 LA COMBI DEL LUNES 🎯 · 1,84 · pendiente\n✅ ⚽ LUNES DE GOLES · x2,82 · 2,34\n❌ 🇫🇷 PSG 🆚 LYON · 8,00\n\n✅ 2 acertadas · ❌ 1 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 3 DE 4 EN VERDE 📊\n\n✅ 📊 COMBI DE DATOS x1,70 · LUNES 📊 · 1,75\n✅ 🎯 LA COMBI DEL LUNES 🎯 · 1,84\n✅ ⚽ LUNES DE GOLES · x2,82 · 2,34\n❌ 🇫🇷 PSG 🆚 LYON · 8,00\n\n✅ 3 acertadas · ❌ 1 falladas · ⏳ 0 sin resolver"
   }
 }
