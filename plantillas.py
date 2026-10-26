@@ -294,6 +294,10 @@ def posts_del_dia(dia, d):
     try:
         import datos_futbol
         posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
+        if not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
+            pv = datos_futbol.previa(dia)
+            if pv:
+                posts.append((pv[0], pv[1], [], pv[2]))
     except Exception as e:
         print("datos de fútbol:", str(e)[:150])
 

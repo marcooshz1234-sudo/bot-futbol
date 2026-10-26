@@ -78,17 +78,13 @@
     "sel": []
   },
   {
-    "id": "2026-10-27-picks-manana",
+    "id": "2026-10-27-datos-manana",
     "fecha": "2026-10-26T23:00",
-    "texto": "🔥 3 PICKS PARA MAÑANA (MARTES) 🔥\n\n✅1. Alessandro Romano: 1+ tiros · 1,57\n✅2. Gol en la 1ª parte del Torino–Como · 1,30\n✅3. Gana el Lazio · 2,20\n\n📊 Alessandro Romano: 1+ tiros → Alessandro Romano 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
+    "texto": "👀 3 DATOS PARA LOS PARTIDOS DE MAÑANA (MARTES) 👀\n\n⚽ Sassuolo – Lazio (18:30)\nLa Lazio ha ganado sus últimos 4 partidos.\n\n⚽ Roma – Cagliari (20:45)\nLa Roma solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Torino – Como (20:45)\nSus últimos 4 cara a cara promedian 3,5 goles.\n\n👇 ¿Qué partido vas a ver?",
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sel": [
-      "1550168|Away Player Shots|Alessandro Romano - 1",
-      "1550175|Goals Over/Under First Half|Over 0.5",
-      "1550174|Match Winner|Away"
-    ]
+    "sel": []
   },
   {
     "id": "2026-10-27-combi-cuota_3",
@@ -125,21 +121,9 @@
     "sel": []
   },
   {
-    "id": "2026-10-27-combi-atreve",
-    "fecha": "2026-10-27T16:00",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x4,40 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Gana el Lazio · 2,20\n✅2. Ambos marcan y más de 2,5 goles en Torino–Como · 2,00\n\n🎯 Cuota total: 4,40\n💶 10€ → 44,00€\n\n📊 Gana el Lazio → Sassuolo 4/8 · Lazio 8/8 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550174|Match Winner|Away",
-      "1550175|Total Goals/Both Teams To Score|o/yes 2.5"
-    ]
-  },
-  {
     "id": "2026-10-27-datos-xg",
     "fecha": "2026-10-27T16:00",
-    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Lazio marca 2,0 goles por partido, pero sus ocasiones (xG) solo dan para 1,5.\n\nEn sus últimos 8 partidos ha metido 4 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nLa Lazio marca 2,0 goles por partido, pero sus ocasiones (xG) solo dan para 1,5.\n\nEn sus últimos 8 partidos ha metido 4 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -230,6 +214,15 @@
     ]
   },
   {
+    "id": "2026-10-29-datos-manana",
+    "fecha": "2026-10-28T23:00",
+    "texto": "👀 2 DATOS PARA LOS PARTIDOS DE MAÑANA (JUEVES) 👀\n\n⚽ Fiorentina – Atalanta (20:45)\nSus últimos 6 cara a cara promedian 3,3 goles.\n\n⚽ Frosinone – Lecce (18:30)\nEl Frosinone solo ha ganado 2 de sus últimos 5 partidos.\n\n👇 ¿Qué partido vas a ver?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
     "id": "2026-10-29-combi-dia",
     "fecha": "2026-10-29T12:00",
     "texto": "🎯 LA COMBI x1,92 DEL JUEVES 🎯\n\n✅1. Frosinone gana alguna de las dos partes · 1,50\n✅2. Atalanta marca · 1,28\n\n🎯 Cuota total: 1,92\n💶 10€ → 19,20€\n\n📊 Frosinone gana alguna de las dos partes → Frosinone 6/8 · Lecce 6/8 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
@@ -253,7 +246,7 @@
   {
     "id": "2026-10-30-picks-manana",
     "fecha": "2026-10-29T23:00",
-    "texto": "🔥 5 PICKS PARA MAÑANA (VIERNES) 🔥\n\n✅1. Más de 1,5 goles en Sheffield Utd–Wrexham · 1,28\n✅2. Amir Richardson: 1+ tiros · 1,50\n✅3. Espanyol marca · 1,44\n✅4. Phillip Tietz: 3+ tiros · 1,62\n✅5. Gol en la 1ª parte del Lille–Lens · 1,30\n\n📊 Más de 1,5 goles en Sheffield Utd–Wrexham → Sheffield Utd 8/10 · Wrexham 9/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
+    "texto": "🔥 4 PICKS PARA MAÑANA (VIERNES) 🔥\n\n✅1. Más de 1,5 goles en Sheffield Utd–Wrexham · 1,28\n✅2. Amir Richardson: 1+ tiros · 1,50\n✅3. Espanyol marca · 1,44\n✅4. Gol en la 1ª parte del Lille–Lens · 1,30\n\n📊 Más de 1,5 goles en Sheffield Utd–Wrexham → Sheffield Utd 8/10 · Wrexham 9/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -261,7 +254,6 @@
       "1563233|Goals Over/Under|Over 1.5",
       "1552801|Home Player Shots|Amir Richardson - 1",
       "1570442|Total - Away|Over 0.5",
-      "1575211|Away Player Shots|Phillip Tietz - 3",
       "1552802|Goals Over/Under First Half|Over 0.5"
     ]
   },
@@ -311,7 +303,7 @@
   {
     "id": "2026-10-30-datos-finde",
     "fecha": "2026-10-30T18:00",
-    "texto": "📋 LO QUE DICEN LOS DATOS DEL FINDE · 6 PARTIDOS 📋\n\n⚽ Chelsea – Man. United (sáb 13:30)\nEl Man. United encadena 7 partidos sin ganar.\n\n⚽ Levante – Atlético (sáb 14:00)\nEl Atlético lleva 8 partidos seguidos sin perder.\n\n⚽ Real Sociedad II – Girona (sáb 14:00)\nEl Real Sociedad II encadena 6 partidos sin ganar.\n\n⚽ Leverkusen – VfB Stuttgart (sáb 15:30)\nSus últimos 6 cara a cara promedian 4,0 goles.\n\n⚽ Man. City – Brighton (sáb 16:00)\nSus últimos 6 cara a cara promedian 3,2 goles.\n\n⚽ Udinese – AS Roma (sáb 18:00)\nEl Udinese encadena 6 partidos sin ganar.\n\n👇 ¿Qué partido no te pierdes?",
+    "texto": "📋 LO QUE DICEN LOS DATOS DEL FINDE · 6 PARTIDOS 📋\n\n⚽ Chelsea – Man. United (sáb 13:30)\nEl Man. United encadena 7 partidos sin ganar.\n\n⚽ Levante – Atlético (sáb 14:00)\nEl Atlético lleva 8 partidos seguidos sin perder.\n\n⚽ Real Sociedad II – Girona (sáb 14:00)\nEl Real Sociedad II encadena 6 partidos sin ganar.\n\n⚽ Leverkusen – VfB Stuttgart (sáb 15:30)\nSus últimos 6 cara a cara promedian 4,0 goles.\n\n⚽ Man. City – Brighton (sáb 16:00)\nSus últimos 6 cara a cara promedian 3,2 goles.\n\n⚽ Udinese – Roma (sáb 18:00)\nEl Udinese encadena 6 partidos sin ganar.\n\n👇 ¿Qué partido no te pierdes?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -400,19 +392,6 @@
     ]
   },
   {
-    "id": "2026-10-31-combi-atreve",
-    "fecha": "2026-10-31T15:00",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x6,19 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Portsmouth o empate · 1,80\n✅2. NEC Nijmegen o empate · 1,91\n✅3. Willem II marca · 1,80\n\n🎯 Cuota total: 6,19\n💶 10€ → 61,90€\n\n📊 Portsmouth o empate → Burnley 9/10 · Portsmouth 7/10 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563228|Double Chance|Draw/Away",
-      "1552208|Double Chance|Draw/Away",
-      "1552209|Total - Away|Over 0.5"
-    ]
-  },
-  {
     "id": "2026-10-31-datos-xg",
     "fecha": "2026-10-31T16:00",
     "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Feyenoord marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 2,0.\n\nEn sus últimos 8 partidos ha metido 7 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
@@ -424,18 +403,14 @@
   {
     "id": "2026-10-31-picks-hoy",
     "fecha": "2026-10-31T17:30",
-    "texto": "🔥 7 PICKS PARA HOY 🔥\n\n✅1. Malaga hace más de 3,5 córners · 1,73\n✅2. Pathe Mboup: 2+ tiros · 1,33\n✅3. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅4. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅5. Ambos marcan en Cambuur–GO Ahead Eagles · 1,40\n✅6. Willem II marca · 1,80\n✅7. Alaves marca · 1,73\n\n📊 Más de 1,5 goles en Estac Troyes–Le Mans → Estac Troyes 6/8 · Le Mans 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
+    "texto": "🔥 3 PICKS PARA HOY 🔥\n\n✅1. Pathe Mboup: 2+ tiros · 1,33\n✅2. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅3. Ambos marcan en Cambuur–GO Ahead Eagles · 1,40\n\n📊 Más de 1,5 goles en Estac Troyes–Le Mans → Estac Troyes 6/8 · Le Mans 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570435|Away Corners Over/Under|Over 3.5",
       "1552803|Away Player Shots|Pathe Mboup - 2",
-      "1575203|Corners Over Under|Over 9.5",
       "1552809|Goals Over/Under|Over 1.5",
-      "1552211|Both Teams Score|Yes",
-      "1552209|Total - Away|Over 0.5",
-      "1570434|Total - Away|Over 0.5"
+      "1552211|Both Teams Score|Yes"
     ]
   },
   {
@@ -474,7 +449,7 @@
   {
     "id": "2026-11-01-datos-rachas",
     "fecha": "2026-11-01T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Real Madrid ha ganado sus últimos 5 partidos (hoy, ante el Racing Santander)\n\n• El Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Cagliari)\n\n• El Sevilla ha marcado en sus últimos 9 partidos (hoy, ante el Getafe)\n\n• El Liverpool ha ganado sus últimos 4 partidos (hoy, ante el Arsenal)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Real Madrid ha ganado sus últimos 5 partidos (hoy, ante el Racing Santander)\n\n• La Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Cagliari)\n\n• El Sevilla ha marcado en sus últimos 9 partidos (hoy, ante el Getafe)\n\n• El Liverpool ha ganado sus últimos 4 partidos (hoy, ante el Arsenal)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -506,35 +481,18 @@
     ]
   },
   {
-    "id": "2026-11-01-combi-liga",
-    "fecha": "2026-11-01T13:00",
-    "texto": "🇪🇸 COMBI LALIGA x3,43 · DOMINGO\n\n✅1. Gol en la 2ª parte del Getafe–Sevilla · 1,36\n✅2. Racing Santander marca · 1,40\n✅3. Real Sociedad o empate · 1,80\n\n🎯 Cuota total: 3,43\n💶 10€ → 34,30€\n\n📊 Gol en la 2ª parte del Getafe–Sevilla → Getafe 8/10 · Sevilla 9/9 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570438|Goals Over/Under - Second Half|Over 0.5",
-      "1570440|Total - Home|Over 0.5",
-      "1570433|Double Chance|Draw/Away"
-    ]
-  },
-  {
-    "id": "2026-11-01-combi-atreve",
-    "fecha": "2026-11-01T13:00",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x7,45 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Toulouse o empate · 1,95\n✅2. Sevilla gana alguna de las dos partes · 1,91\n✅3. Más de 1,5 goles en la 1ª parte del Groningen–Sparta Rotterdam · 2,00\n\n🎯 Cuota total: 7,45\n💶 10€ → 74,50€\n\n📊 Toulouse o empate → Marseille 7/10 · Toulouse 6/8 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552805|Double Chance|Draw/Away",
-      "1570438|To Win Either Half|Away",
-      "1552215|Goals Over/Under First Half|Over 1.5"
-    ]
-  },
-  {
     "id": "2026-11-01-datos-xg",
     "fecha": "2026-11-01T16:00",
-    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Real Sociedad marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 1,6.\n\nEn sus últimos 8 partidos ha metido 10 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nLa Real Sociedad marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 1,6.\n\nEn sus últimos 8 partidos ha metido 10 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-11-02-datos-manana",
+    "fecha": "2026-11-01T23:00",
+    "texto": "👀 6 DATOS PARA LOS PARTIDOS DE MAÑANA (LUNES) 👀\n\n⚽ Atalanta – Parma (20:45)\nSus últimos 6 cara a cara promedian 4,5 goles.\n\n⚽ Newcastle – Everton (21:00)\nEl Everton solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Benfica – Alverca (21:15)\nEl Benfica ha marcado en sus últimos 17 partidos.\n\n⚽ Oviedo – Las Palmas (16:15)\nEl Las Palmas solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Sassuolo – Fiorentina (18:30)\nSus últimos 6 cara a cara promedian 3,0 goles.\n\n⚽ Valladolid – Leganes (18:30)\nEl Valladolid lleva 5 partidos seguidos con 3 o más goles en total.\n\n👇 ¿Qué partido vas a ver?",
     "foto": null,
     "origen": "analista",
     "directo": true,

@@ -23,7 +23,14 @@ GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "ar
            "real sociedad", "lazio", "aston villa", "lyon", "monaco")
 CORTO = {"paris saint germain": "PSG", "manchester united": "Man. United", "manchester city": "Man. City",
          "bayern münchen": "Bayern", "borussia dortmund": "Dortmund", "bayer leverkusen": "Leverkusen",
-         "atletico madrid": "Atlético", "ac milan": "Milan"}
+         "atletico madrid": "Atlético", "ac milan": "Milan", "as roma": "Roma"}
+FEMENINOS = ("roma", "lazio", "juventus", "fiorentina", "real sociedad", "sampdoria", "cremonese", "salernitana")
+
+
+def el(n, mayus=True):
+    """Artículo correcto: «la Roma», «el Inter»."""
+    a = "la" if corto(n).lower() in FEMENINOS else "el"
+    return f"{a.capitalize() if mayus else a} {corto(n)}"
 
 
 def corto(n):
@@ -82,8 +89,8 @@ def rachas_vivas(dia, hist):
             for texto, cond, minimo in RACHAS:
                 n = racha(hist.get(eq["id"], []), eq["id"], cond)
                 if n >= minimo:
-                    filas.append((grande(eq["name"]), n / minimo, f"El {corto(eq['name'])} {texto.format(n=n)} "
-                                  f"(hoy, ante el {corto(pa[rival]['name'])})", eq["id"]))
+                    filas.append((grande(eq["name"]), n / minimo, f"{el(eq['name'])} {texto.format(n=n)} "
+                                  f"(hoy, ante {el(pa[rival]['name'], False)})", eq["id"]))
     filas.sort(key=lambda x: (x[0], x[1]), reverse=True)
     vistos, elegidas = set(), []
     for g, _, t, eq in filas:
@@ -145,8 +152,51 @@ def dato_partido(pa, hist):
         for texto, cond, minimo in RACHAS:
             n = racha(hist.get(eq["id"], []), eq["id"], cond)
             if n >= minimo:
-                return f"El {corto(eq['name'])} {texto.format(n=n)}."
+                return f"{el(eq['name'])} {texto.format(n=n)}."
     return None
+
+
+def forma(pa, hist):
+    """Respaldo cuando no hay racha ni cara a cara llamativos: victorias en los últimos 5."""
+    mejor = None
+    for eq in (pa["local"], pa["visitante"]):
+        res = []
+        for p in hist.get(eq["id"], [])[:5]:
+            g = p.get("goles") or [None, None]
+            if None in g:
+                continue
+            gf, gc = (g[0], g[1]) if p["local"]["id"] == eq["id"] else (g[1], g[0])
+            res.append(gf > gc)
+        if len(res) < 5:
+            continue
+        v = sum(res)
+        fuerza = max(v, 5 - v)
+        if not mejor or fuerza > mejor[0]:
+            texto = (f"{el(eq['name'])} ha ganado {v} de sus últimos 5 partidos." if v >= 3 else
+                     f"{el(eq['name'])} {'no ha ganado ninguno' if v == 0 else f'solo ha ganado {v}'} "
+                     f"de sus últimos 5 partidos.")
+            mejor = (fuerza, texto)
+    return mejor[1] if mejor else None
+
+
+def previa(dia, hist=None):
+    """26/10: la víspera a las 23:00, si no hay lista de picks fiables para mañana, un post de datos de los
+    partidos de mañana (sin apuestas). Mantiene el hueco "para mañana", el que más se ve en Threads."""
+    hist = hist if hist is not None else historial()
+    f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
+    lineas = []
+    for pa in sorted(partidos_del_dia(dia), key=lambda x: (not (grande(x["local"]["name"]) or grande(x["visitante"]["name"])), x["inicio"])):
+        dt = dato_partido(pa, hist) or forma(pa, hist)
+        if dt:
+            lineas.append(f"⚽ {corto(pa['local']['name'])} – {corto(pa['visitante']['name'])} ({pa['inicio']:%H:%M})\n{dt}")
+        if len(lineas) == 6:
+            break
+    if len(lineas) < 2:
+        return None
+    nombre = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"][f.weekday()]
+    return ("datos-manana", (f - timedelta(days=1)).replace(hour=23, minute=0),
+            f"👀 {len(lineas)} DATOS PARA LOS PARTIDOS DE MAÑANA ({nombre}) 👀\n\n" + "\n\n".join(lineas)
+            + "\n\n👇 ¿Qué partido vas a ver?")
 
 
 def posts_del_dia(dia):
@@ -163,11 +213,11 @@ def posts_del_dia(dia):
     if x:
         eq, dif, g, xg, n = x
         if dif > 0:
-            cuerpo = (f"El {corto(eq)} marca {num(g)} goles por partido, pero sus ocasiones (xG) solo dan para {num(xg)}.\n\n"
+            cuerpo = (f"{el(eq)} marca {num(g)} goles por partido, pero sus ocasiones (xG) solo dan para {num(xg)}.\n\n"
                       f"En sus últimos {n} partidos ha metido {num(dif * n, 0)} goles más de lo que \"tocaba\".")
             pregunta = "👇 ¿Pegada de equipo grande o racha que se va a acabar?"
         else:
-            cuerpo = (f"El {corto(eq)} genera {num(xg)} de xG por partido, pero solo marca {num(g)}.\n\n"
+            cuerpo = (f"{el(eq)} genera {num(xg)} de xG por partido, pero solo marca {num(g)}.\n\n"
                       f"En sus últimos {n} partidos le faltan {num(-dif * n, 0)} goles para lo que merecían sus ocasiones.")
             pregunta = "👇 ¿Hoy se le abre la portería?"
         posts.append(("datos-xg", f.replace(hour=16, minute=0), f"🤓 ¿SABÍAS QUE…? 🤓\n\n{cuerpo}\n\n{pregunta}"))
