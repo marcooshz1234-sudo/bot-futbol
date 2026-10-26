@@ -146,7 +146,7 @@ def escudo(url, nombre):
     iniciales del equipo en un círculo, mejor que una imagen rota."""
     import urllib.request
     if url:
-        cache = MEDIA / "escudos" / Path(url).name
+        cache = MEDIA / "escudos" / Path(url).name   # escudos.py los tiene todos guardados (<id>.png)
         try:
             if not cache.exists():
                 cache.parent.mkdir(parents=True, exist_ok=True)

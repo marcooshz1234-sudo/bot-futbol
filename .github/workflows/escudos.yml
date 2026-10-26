@@ -1,0 +1,22 @@
+name: Escudos de los equipos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"   # los lunes, por si sube algún equipo nuevo
+permissions:
+  contents: write
+jobs:
+  escudos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          python -u escudos.py
+          git config user.name "bot-futbol"
+          git config user.email "bot-futbol@users.noreply.github.com"
+          git add publicaciones/media/escudos
+          git diff --cached --quiet || { git commit -q -m "Escudos de los equipos"; for i in 1 2 3; do git pull --rebase -X theirs -q && git push -q && break; sleep 5; done; }
