@@ -126,19 +126,31 @@ def ajustar_al_lienzo(pagina, alto):
 
 
 TARJETA = """<!doctype html><html><head><meta charset="utf-8"><style>
-body{margin:0;width:1080px;height:608px;background:#101010;display:flex;align-items:center;justify-content:center;
-font-family:-apple-system,"Helvetica Neue",Arial,sans-serif}
-.c{width:980px;height:470px;border-radius:44px;background:linear-gradient(180deg,#2a2622,#1d1b19);display:flex;
-align-items:center;justify-content:space-between;padding:0 70px;box-sizing:border-box;color:#fff;position:relative}
-.eq{display:flex;flex-direction:column;align-items:center;gap:26px;width:260px}
-.eq img{width:190px;height:190px;object-fit:contain}
-.eq b{font-size:36px;font-weight:600;text-align:center;line-height:1.1}
-.m{text-align:center}.m b{font-size:84px;font-weight:700;display:block}.m span{font-size:38px;color:#b9b4ae}
-.liga{position:absolute;top:30px;left:0;right:0;text-align:center;font-size:28px;letter-spacing:4px;color:#8f8a84}
-</style></head><body><div class="c"><div class="liga">{liga}</div>
-<div class="eq"><img src="{logo_l}"><b>{local}</b></div>
-<div class="m"><b>{hora}</b><span>{dia}</span></div>
-<div class="eq"><img src="{logo_v}"><b>{visitante}</b></div></div></body></html>"""
+*{box-sizing:border-box}
+body{margin:0;width:1080px;height:1080px;background:radial-gradient(120% 80% at 50% 0%,#1d3b2a 0%,#0d1712 55%,#070b09 100%);
+font-family:'Liberation Sans','DejaVu Sans',sans-serif,'Noto Color Emoji';color:#f4f7f5;display:flex;flex-direction:column;
+align-items:center;padding:70px 60px 54px}
+.marca{font-size:34px;letter-spacing:8px;color:#7ee2a8;font-weight:700}
+.liga{margin-top:26px;font-size:30px;font-weight:700;letter-spacing:3px;background:rgba(255,255,255,.08);border:2px solid rgba(126,226,168,.35);
+border-radius:40px;padding:10px 30px}
+.duelo{flex:1;width:100%;display:flex;align-items:center;justify-content:space-between}
+.eq{display:flex;flex-direction:column;align-items:center;gap:28px;width:320px}
+.esc{width:250px;height:250px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;
+box-shadow:0 0 0 8px rgba(46,204,113,.35),0 18px 50px rgba(0,0,0,.5)}
+.esc img{width:175px;height:175px;object-fit:contain}
+.esc div{color:#0d1712!important;background:none!important}
+.eq b{font-size:42px;font-weight:800;text-align:center;line-height:1.1;text-transform:uppercase}
+.m{text-align:center;display:flex;flex-direction:column;align-items:center;gap:8px}
+.m .vs{font-size:40px;font-weight:800;color:#7ee2a8;letter-spacing:4px}
+.m b{font-size:96px;font-weight:800;line-height:1}
+.m span{font-size:40px;font-weight:700;color:#ffd84d;text-transform:uppercase;letter-spacing:2px}
+.cuota{font-size:46px;font-weight:800;background:#2ecc71;color:#06140c;border-radius:20px;padding:18px 40px}
+.pie{width:100%;margin-top:40px;display:flex;justify-content:space-between;font-size:28px;color:#8fb3a0}
+</style></head><body><div class="marca">COMBILOCAS</div><div class="liga">{liga}</div>
+<div class="duelo"><div class="eq"><div class="esc"><img src="{logo_l}"></div><b>{local}</b></div>
+<div class="m"><div class="vs">VS</div><b>{hora}</b><span>{dia}</span></div>
+<div class="eq"><div class="esc"><img src="{logo_v}"></div><b>{visitante}</b></div></div>
+{cuota}<div class="pie"><span>@combilocas</span><span>🔞 +18 · Juega con responsabilidad</span></div></body></html>"""
 
 
 def escudo(url, nombre):
@@ -155,8 +167,7 @@ def escudo(url, nombre):
         except Exception as e:
             print(f"Escudo de {nombre}: {e}")
     ini = "".join(w[0] for w in nombre.split()[:2]).upper()
-    return (f'<div style="width:190px;height:190px;border-radius:50%;background:#3a3631;display:flex;'
-            f'align-items:center;justify-content:center;font-size:70px;font-weight:700">{html.escape(ini)}</div>')
+    return f'<div style="font-size:90px;font-weight:800">{html.escape(ini)}</div>'
 
 
 def tarjeta(p, pagina):
@@ -169,12 +180,18 @@ def tarjeta(p, pagina):
     dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
     doc = TARJETA
-    for k, v in {"liga": t.get("liga") or "", "local": t["local"], "visitante": t["visitante"],
+    import re
+    m = re.search(r"Cuota total aprox\.: (\d+,\d+)", p.get("texto", ""))
+    doc = doc.replace("{cuota}", f'<div class="cuota">💥 COMBI DEL PARTIDO · x{m.group(1)}</div>' if m else "")
+    bandera = {"LaLiga": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷",
+               "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢", "Primeira Liga": "🇵🇹",
+               "Eredivisie": "🇳🇱", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Segunda División": "🇪🇸"}.get(t.get("liga"), "⚽")
+    for k, v in {"liga": f"{bandera} {(t.get('liga') or '').upper()}", "local": t["local"], "visitante": t["visitante"],
                  "hora": f"{ini:%H:%M}", "dia": dia}.items():
         doc = doc.replace("{" + k + "}", html.escape(str(v)))
     for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):
         doc = doc.replace('<img src="{' + k + '}">', escudo(t.get(k), nombre))
-    pagina.set_viewport_size({"width": 1080, "height": 608})
+    pagina.set_viewport_size({"width": 1080, "height": 1080})
     pagina.goto("about:blank")
     pagina.set_content(doc, wait_until="networkidle")
     pagina.wait_for_timeout(300)
