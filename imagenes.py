@@ -127,30 +127,22 @@ def ajustar_al_lienzo(pagina, alto):
 
 TARJETA = """<!doctype html><html><head><meta charset="utf-8"><style>
 *{box-sizing:border-box}
-body{margin:0;width:1080px;height:1080px;background:radial-gradient(120% 80% at 50% 0%,#1d3b2a 0%,#0d1712 55%,#070b09 100%);
-font-family:'Liberation Sans','DejaVu Sans',sans-serif,'Noto Color Emoji';color:#f4f7f5;display:flex;flex-direction:column;
-align-items:center;padding:70px 60px 54px}
-.marca{font-size:34px;letter-spacing:8px;color:#7ee2a8;font-weight:700}
-.liga{margin-top:26px;font-size:30px;font-weight:700;letter-spacing:3px;background:rgba(255,255,255,.08);border:2px solid rgba(126,226,168,.35);
-border-radius:40px;padding:10px 30px}
-.duelo{flex:1;width:100%;display:flex;align-items:center;justify-content:space-between}
-.eq{display:flex;flex-direction:column;align-items:center;gap:28px;width:320px}
-.esc{width:250px;height:250px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;
-box-shadow:0 0 0 8px rgba(46,204,113,.35),0 18px 50px rgba(0,0,0,.5)}
-.esc img{width:175px;height:175px;object-fit:contain}
-.esc div{color:#0d1712!important;background:none!important}
-.eq b{font-size:42px;font-weight:800;text-align:center;line-height:1.1;text-transform:uppercase}
-.m{text-align:center;display:flex;flex-direction:column;align-items:center;gap:8px}
-.m .vs{font-size:40px;font-weight:800;color:#7ee2a8;letter-spacing:4px}
-.m b{font-size:96px;font-weight:800;line-height:1}
-.m span{font-size:40px;font-weight:700;color:#ffd84d;text-transform:uppercase;letter-spacing:2px}
-.cuota{font-size:46px;font-weight:800;background:#2ecc71;color:#06140c;border-radius:20px;padding:18px 40px}
-.pie{width:100%;margin-top:40px;display:flex;justify-content:space-between;font-size:28px;color:#8fb3a0}
-</style></head><body><div class="marca">COMBILOCAS</div><div class="liga">{liga}</div>
-<div class="duelo"><div class="eq"><div class="esc"><img src="{logo_l}"></div><b>{local}</b></div>
-<div class="m"><div class="vs">VS</div><b>{hora}</b><span>{dia}</span></div>
-<div class="eq"><div class="esc"><img src="{logo_v}"></div><b>{visitante}</b></div></div>
-{cuota}<div class="pie"><span>@combilocas</span><span>🔞 +18 · Juega con responsabilidad</span></div></body></html>"""
+body{margin:0;width:1180px;height:340px;background:linear-gradient(100deg,#3a2a1c 0%,#262019 30%,#1f1e1c 60%,#2a2a28 100%);
+font-family:'Liberation Sans','DejaVu Sans',sans-serif;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 52px}
+.estrella{width:62px;height:62px;flex:none;margin-top:-90px}
+.eq{display:flex;flex-direction:column;align-items:center;gap:22px;width:300px;margin:0 20px}
+.eq img{height:140px;width:140px;object-fit:contain}
+.eq b{font-size:36px;font-weight:700;text-align:center;line-height:1.1;white-space:nowrap}
+.m{flex:1;text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px;margin-top:-36px}
+.m b{font-size:58px;font-weight:800;letter-spacing:1px}
+.m span{font-size:44px;font-weight:400;color:#e8e6e3}
+</style></head><body>
+<svg class="estrella" viewBox="0 0 24 24"><path d="M12 2.8l2.75 5.6 6.15.9-4.45 4.35 1.05 6.1L12 16.85 6.5 19.75l1.05-6.1L3.1 9.3l6.15-.9z" fill="none" stroke="#fff" stroke-width="1.9" stroke-linejoin="round"/></svg>
+<div class="eq"><img src="{logo_l}"><b>{local}</b></div>
+<div class="m"><b>{hora}</b><span>{dia}</span></div>
+<div class="eq"><img src="{logo_v}"><b>{visitante}</b></div>
+<svg class="estrella" viewBox="0 0 24 24"><path d="M12 2.8l2.75 5.6 6.15.9-4.45 4.35 1.05 6.1L12 16.85 6.5 19.75l1.05-6.1L3.1 9.3l6.15-.9z" fill="none" stroke="#fff" stroke-width="1.9" stroke-linejoin="round"/></svg>
+</body></html>"""
 
 
 def escudo(url, nombre):
@@ -167,7 +159,8 @@ def escudo(url, nombre):
         except Exception as e:
             print(f"Escudo de {nombre}: {e}")
     ini = "".join(w[0] for w in nombre.split()[:2]).upper()
-    return f'<div style="font-size:90px;font-weight:800">{html.escape(ini)}</div>'
+    return (f'<div style="width:140px;height:140px;border-radius:50%;background:#3a3631;display:flex;align-items:center;'
+            f'justify-content:center;font-size:56px;font-weight:800">{html.escape(ini)}</div>')
 
 
 def tarjeta(p, pagina):
@@ -191,7 +184,7 @@ def tarjeta(p, pagina):
         doc = doc.replace("{" + k + "}", html.escape(str(v)))
     for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):
         doc = doc.replace('<img src="{' + k + '}">', escudo(t.get(k), nombre))
-    pagina.set_viewport_size({"width": 1080, "height": 1080})
+    pagina.set_viewport_size({"width": 1180, "height": 340})
     pagina.goto("about:blank")
     pagina.set_content(doc, wait_until="networkidle")
     pagina.wait_for_timeout(300)

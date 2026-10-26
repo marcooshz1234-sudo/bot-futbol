@@ -141,7 +141,7 @@ def esperar_contenedor(base, cid, token, intentos=40):
 
 
 def instagram(p, token, reel=False):
-    url = url_media(p, "mp4" if reel else "jpg") if reel else (url_media(p, "tarjeta.jpg") or url_media(p, "jpg"))
+    url = url_media(p, "mp4" if reel else "jpg")   # la tarjeta es muy apaisada para Instagram: solo en Threads
     if not url:
         raise RuntimeError("falta la imagen/vídeo en publicaciones/media")
     params = {"caption": texto_final(p), "access_token": token}
