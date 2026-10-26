@@ -613,7 +613,15 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-26-combi-tema"
+    "verde_de": "2026-10-26-combi-tema",
+    "enviado": "2026-10-27T00:11",
+    "mensaje_id": 121,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17992966578059103",
+      "instagram": "18147807940605532",
+      "instagram_story": "17919756480457175"
+    }
   },
   {
     "id": "2026-10-27-verde-auto-2026-10-26-combi-dia",
@@ -624,6 +632,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-26-combi-dia"
+    "verde_de": "2026-10-26-combi-dia",
+    "enviado": "2026-10-27T00:11",
+    "mensaje_id": 122,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18091940387695480",
+      "instagram": "18014180021763330",
+      "instagram_story": "18145010332592352"
+    }
   }
 ]

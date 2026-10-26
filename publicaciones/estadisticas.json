@@ -1,21 +1,23 @@
 {
- "actualizado": "2026-10-26 23:18",
+ "actualizado": "2026-10-27 00:13",
  "redes": {
   "instagram": {
    "seguidores": 19,
    "hoy": 0,
    "serie": [
     19,
+    19,
     19
    ]
   },
   "threads": {
-   "seguidores": 938,
-   "hoy": 8,
+   "seguidores": 939,
+   "hoy": 1,
    "serie": [
     836,
     930,
-    938
+    938,
+    939
    ]
   },
   "facebook": {
@@ -24,32 +26,31 @@
    "serie": [
     0,
     0,
+    0,
     0
    ]
   },
   "telegram": {
    "seguidores": 69,
-   "hoy": -2,
+   "hoy": 0,
    "serie": [
     75,
     72,
     71,
+    69,
     69
    ]
   }
  },
- "total": 1026,
- "total_hoy": 6,
+ "total": 1027,
+ "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
   "hora": "11:00",
   "dia": "2026-10-27",
   "titulo": "Reto escalera · día 1/7 · x1,87"
  },
- "ayer": {
-  "aciertos": 25,
-  "total": 46
- },
+ "ayer": null,
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -77,16 +78,22 @@
    "threads": 938,
    "facebook": 0,
    "telegram": 69
+  },
+  "2026-10-27": {
+   "instagram": 19,
+   "threads": 939,
+   "facebook": 0,
+   "telegram": 69
   }
  },
  "tipos_instagram": {
   "Verdes/balance (reel)": {
-   "posts": 3,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 9,
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -111,7 +118,7 @@
    "comentarios_media": 0.0
   },
   "Picks": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
