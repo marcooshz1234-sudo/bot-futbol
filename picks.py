@@ -591,6 +591,10 @@ def norm(t):
     return " ".join(t.replace("-", " ").replace(".", " ").split())
 
 
+TIROS_CUOTA_DEBIL = 3.5                          # equipo con cuota de ganar ≥ 3,5: sin picks de tiros de sus jugadores
+TIROS_MARGEN_MEDIA = {"tiros": 0.3, "a_puerta": 0.0}   # 1+ tiros pide media ≥ 1,3; 1+ a puerta, media ≥ 1
+
+
 def mismo_jugador(a, b):
     a, b = norm(a).split(), norm(b).split()
     if not a or not b:
@@ -634,6 +638,10 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
     partido = prox["partido"]
     loc, vis = partido["teams"]["home"], partido["teams"]["away"]
     fijos = {"home": plantilla_fija(loc["id"], hist), "away": plantilla_fija(vis["id"], hist)}
+    # 26/10 (Vinicius Lopes, 0 tiros con el Santa Clara ante el Benfica): los tiros de un jugador dependen de
+    # que su equipo tenga el balón. Si su equipo es claro no favorito (cuota de ganar ≥ 3,5), fuera.
+    ganar = {str(v): float(c) for v, c in (prox.get("cuotas") or {}).get("Match Winner") or [] if c}
+    debil = {"home": ganar.get("Home", 0) >= TIROS_CUOTA_DEBIL, "away": ganar.get("Away", 0) >= TIROS_CUOTA_DEBIL}
     salida = []
     for mercado, opciones in (prox.get("cuotas") or {}).items():
         if mercado not in JUG_MERCADOS:
@@ -672,6 +680,12 @@ def picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX, frec_min=FREC_MIN
                     break
                 si = sum(1 for r in regs if (r.get(campo) or 0) >= n)
                 frec = si / len(regs)
+                if campo in ("tiros", "a_puerta"):
+                    # que tire de verdad (da igual la posición: laterales que suben, centrales que tiran las
+                    # faltas...): media de los últimos partidos por encima de la línea, y su equipo no es víctima
+                    media = sum(r.get(campo) or 0 for r in regs) / len(regs)
+                    if debil[ld] or media < n + TIROS_MARGEN_MEDIA[campo]:
+                        break
                 if frec < max(frec_min, JUG_FREC_CAMPO.get(campo, 0)) or not (0 < frec - 1 / cuota <= VENTAJA_MAX):
                     break
                 equipo = loc["name"] if ld == "home" else vis["name"]
