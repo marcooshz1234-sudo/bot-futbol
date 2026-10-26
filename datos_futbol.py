@@ -33,6 +33,9 @@ def el(n, mayus=True):
     return f"{a.capitalize() if mayus else a} {corto(n)}"
 
 
+XG_POST = False
+
+
 def corto(n):
     return CORTO.get(n.lower(), n)
 
@@ -209,7 +212,7 @@ def posts_del_dia(dia):
         posts.append(("datos-rachas", f.replace(hour=10, minute=0),
                       f"🔥 {len(r)} RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n" + "\n\n".join(f"• {x}" for x in r)
                       + "\n\n👇 ¿Cuál se rompe hoy?"))
-    x = xg_raro(dia, hist)
+    x = xg_raro(dia, hist) if XG_POST else None   # 27/10: fuera, mucho texto (los que gustan son combis y selecciones)
     if x:
         eq, dif, g, xg, n = x
         if dif > 0:

@@ -67,9 +67,20 @@ def main():
                 lineas[i] = m.group(1) + num(nueva)
                 hubo = True
                 print(f"Cuota corregida en {p['id']}: {opcion} {vieja} → {nueva}")
+        # 27/10: los posts nuevos no llevan la cuota en cada línea; van en p["cuotas"]
+        if p.get("cuotas") and len(p["cuotas"]) == len(p["sel"]) and not re.search(r" · \d+,\d\d$", p["texto"], re.M):
+            for k, s in enumerate(p["sel"]):
+                pid, mercado, opcion = s.split("|", 2)
+                nueva = cuotas_partido(api, pid, cache, ahora).get(mercado, {}).get(opcion)
+                vieja = p["cuotas"][k]
+                if nueva and vieja and abs(nueva - vieja) >= CAMBIO_MIN:
+                    p["cuotas"][k] = nueva
+                    hubo = True
+                    print(f"Cuota corregida en {p['id']}: {opcion} {vieja} → {nueva}")
         if not hubo:
             continue
-        legs = [float(x.replace(",", ".")) for x in re.findall(r"^✅\d+\. .*? · (\d+,\d\d)$", "\n".join(lineas), re.M)]
+        legs = [float(x.replace(",", ".")) for x in re.findall(r"^✅\d+\. .*? · (\d+,\d\d)$", "\n".join(lineas), re.M)] \
+            or [x for x in (p.get("cuotas") or []) if x]
         total = 1.0
         for c in legs:
             total *= c
@@ -77,6 +88,7 @@ def main():
         lineas[0] = re.sub(r"x\d+,\d\d", f"x{num(total)}", lineas[0], count=1)
         texto = "\n".join(lineas)
         texto = re.sub(r"🎯 Cuota total: \d+,\d\d", f"🎯 Cuota total: {num(total)}", texto)
+        texto = re.sub(r"🎯 CUOTA \d+,\d\d", f"🎯 CUOTA {num(total)}", texto)
         texto = re.sub(r"💶 10€ → \d+,\d\d€", f"💶 10€ → {num(total * 10)}€", texto)
         p["texto"], p["cuotas_revisadas"] = texto, ahora.strftime("%Y-%m-%dT%H:%M")
         cambiados.append(p)

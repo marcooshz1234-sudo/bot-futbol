@@ -565,7 +565,7 @@ def main():
         return "verde" if r and all(x is True for x in r) else "rojo" if any(x is False for x in r) else None
 
     def cuota_post(t):
-        m = re.search(r"[Cc]uota(?: total)?:?\s*~?(\d+[.,]\d+)", t)
+        m = re.search(r"cuota(?: total)?(?: aprox\.)?:?\s*~?(\d+[.,]\d+)", t, re.I)
         return float(m.group(1).replace(",", ".")) if m else None
 
     publicados, calendario = [], []

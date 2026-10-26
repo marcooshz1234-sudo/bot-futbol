@@ -115,8 +115,12 @@ def quitar_patas(p, indices, cuotas):
     texto = re.sub(r"\n{3,}", "\n\n", "\n".join(nuevas))
     texto = re.sub(r"(🎯 Cuota total: )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
     texto = re.sub(r"(🎯 Cuota aprox\.: )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
+    texto = re.sub(r"(🎯 CUOTA )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
     texto = re.sub(r"(💶 10€ → )\d+,\d\d€", lambda m: m.group(1) + num(total * 10) + "€", texto)
-    return {"texto": texto, "sel": sel}
+    r = {"texto": texto, "sel": sel}
+    if p.get("cuotas") and len(p["cuotas"]) == len(patas):
+        r["cuotas"] = [p["cuotas"][k] for k in quedan]
+    return r
 
 
 def rehacer_imagen(p):
