@@ -36,28 +36,30 @@ jobs:
           timeout 240 python -u comprobar_redes.py || true
           # 26/10: las tareas van por reloj, no por número de vuelta (con vueltas lentas el directo y la app
           # solo se actualizaban una vez por ejecución) y se guarda cada 5 min como mucho
+          paso() { local n=$1 t=$2; shift 2; local i=$(date +%s); timeout -k 15 "$t" python -u "$@"; local r=$?; echo "$(date -u +%H:%M:%S) $n ${r} $(( $(date +%s) - i ))s" >> datos/bucle_log.txt; [ $r -eq 0 ] || echo "Fallo en $n ($r)"; return 0; }
           fin=$(( $(date +%s) + 50*60 ))
           ult_5=0; ult_app=0; ult_10=0; ult_commit=$(date +%s)
           while [ "$(date +%s)" -lt "$fin" ]; do
             ahora=$(date +%s)
-            git pull --rebase --autostash -X theirs -q || git rebase --abort || true
-            timeout 180 python -u incidencias.py || echo "Fallo al revisar reintentos"
-            if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; timeout 240 python -u cuotas_frescas.py || echo "Fallo en cuotas frescas"; timeout 240 python -u alineaciones_posts.py || echo "Fallo en alineaciones de posts"; fi
-            timeout 180 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
-            timeout 420 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
-            if [ $(( $(date +%s) - ult_app )) -ge 360 ]; then ult_app=$(date +%s); timeout 180 python -u directo.py || echo "Fallo en directo"; timeout 180 python -u app_datos.py || echo "Fallo en app"; timeout 240 python -u verdes_auto.py || echo "Fallo en verdes"; fi
-            if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); timeout 180 python -u moderar.py || echo "Fallo en la moderación"; timeout 180 python -u estadisticas.py || echo "Fallo en estadísticas"; timeout 180 python -u avisos.py || echo "Fallo en avisos"; timeout 180 python -u revisor.py || echo "Fallo en revisor"; timeout 240 python -u threads_crecer.py || echo "Fallo en threads_crecer"; timeout 120 python -u comunidad.py || echo "Fallo en comunidad"; fi
-            timeout 120 python -u resumen_dia.py || echo "Fallo en resumen"
-            for ruta in publicaciones docs datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json datos/cuotas_frescas.json datos/revision_avisos.json datos/verdes_auto.json datos/threads_crecer.json datos/threads_vistas.json datos/alineaciones_posts.json datos/comunidad.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
+            i=$(date +%s); timeout 90 git pull --rebase --autostash -X theirs -q || git rebase --abort || true; echo "$(date -u +%H:%M:%S) git_pull - $(( $(date +%s) - i ))s" >> datos/bucle_log.txt
+            paso incidencias 180 incidencias.py
+            if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; paso cuotas_frescas 240 cuotas_frescas.py; paso alineaciones_posts 240 alineaciones_posts.py; fi
+            paso publicar_telegram 180 publicar_telegram.py
+            paso redes 420 redes.py
+            if [ $(( $(date +%s) - ult_app )) -ge 360 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; fi
+            if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso avisos 180 avisos.py; paso revisor 180 revisor.py; paso threads_crecer 240 threads_crecer.py; paso comunidad 120 comunidad.py; fi
+            paso resumen_dia 120 resumen_dia.py
+            tail -n 400 datos/bucle_log.txt > datos/bucle_log.tmp 2>/dev/null && mv datos/bucle_log.tmp datos/bucle_log.txt
+            for ruta in publicaciones docs datos/bucle_log.txt datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json datos/cuotas_frescas.json datos/revision_avisos.json datos/verdes_auto.json datos/threads_crecer.json datos/threads_vistas.json datos/alineaciones_posts.json datos/comunidad.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
             # se guarda al momento si cambia algo de los posts; lo demás (app, directo) cada 5 min
             if ! git diff --cached --quiet && { ! git diff --cached --quiet -- publicaciones || [ $(( $(date +%s) - ult_commit )) -ge 300 ] || [ "$(date +%s)" -ge $(( fin - 90 )) ]; }; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
-              for i in 1 2 3; do git pull --rebase -X theirs -q && git push -q && break; sleep 5; done
+              for i in 1 2 3; do timeout 90 git pull --rebase -X theirs -q && timeout 90 git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
               ult_commit=$(date +%s)
             fi
             sleep 45
           done
           if ! git diff --cached --quiet; then
             git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
-            for i in 1 2 3; do git pull --rebase -X theirs -q && git push -q && break; sleep 5; done
+            for i in 1 2 3; do timeout 90 git pull --rebase -X theirs -q && timeout 90 git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
           fi
