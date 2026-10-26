@@ -1,7 +1,7 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -194,43 +194,43 @@ _Sin bajas comunicadas por ahora._
 | Filippo Mané | D | 2 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,19 · visitante 0,82 · córners esperados 10,3._
+_Goles esperados: local 2,14 · visitante 0,85 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 13% | 13% | 7.00 | -9% |
-| 1X2: X | 19% | 16% | 17% | 5.75 | +0% |
-| 1X2: 1 | 69% | 70% | 70% | 1.33 | -8% |
-| Doble oportunidad: X2 | 31% | 29% | 30% | 3.25 | -1% |
-| Doble oportunidad: 12 | 81% | 84% | 83% | 1.14 | -6% |
-| Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -4% |
-| Ambos marcan: No | 50% | 34% | 42% | 2.75 | +16% |
-| Ambos marcan: Sí | 50% | 66% | 58% | 1.40 | -19% |
-| Goles más/menos: Más de 2.5 | 58% | 78% | 68% | 1.22 | -17% |
+| 1X2: 2 | 14% | 13% | 14% | 7.00 | -5% |
+| 1X2: X | 19% | 16% | 18% | 5.75 | +2% |
+| 1X2: 1 | 67% | 70% | 69% | 1.33 | -9% |
+| Doble oportunidad: X2 | 33% | 29% | 31% | 3.25 | +1% |
+| Doble oportunidad: 12 | 81% | 84% | 82% | 1.14 | -6% |
+| Doble oportunidad: 1X | 86% | 87% | 87% | 1.10 | -5% |
+| Ambos marcan: No | 50% | 34% | 42% | 2.75 | +15% |
+| Ambos marcan: Sí | 50% | 66% | 58% | 1.40 | -18% |
+| Goles más/menos: Más de 2.5 | 57% | 78% | 68% | 1.22 | -17% |
 | Goles más/menos: Más de 3.5 | 35% | 60% | 48% | 1.57 | -25% |
-| Goles más/menos: Más de 4.5 | 19% | 41% | 30% | 2.30 | -31% |
-| Goles más/menos: Más de 5.5 | 8% | 25% | 17% | 3.75 | -36% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 22% | 32% | 4.33 | +39% |
-| Goles más/menos: Menos de 3.5 | 65% | 40% | 52% | 2.38 | +24% |
-| Goles más/menos: Menos de 4.5 | 81% | 59% | 70% | 1.62 | +14% |
+| Goles más/menos: Más de 4.5 | 18% | 41% | 30% | 2.30 | -31% |
+| Goles más/menos: Más de 5.5 | 8% | 25% | 17% | 3.75 | -37% |
+| Goles más/menos: Menos de 2.5 ✅ | 43% | 22% | 32% | 4.33 | +40% |
+| Goles más/menos: Menos de 3.5 | 65% | 40% | 52% | 2.38 | +25% |
+| Goles más/menos: Menos de 4.5 | 82% | 59% | 70% | 1.62 | +14% |
 | Goles más/menos: Menos de 5.5 | 92% | 75% | 83% | 1.28 | +6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 56% | 46% | 1.67 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 31% | 22% | 3.00 | -33% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 44% | 54% | 2.10 | +14% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 69% | 78% | 1.36 | +6% |
-| Goles del local: Más de 1.5 | 64% | 78% | 71% | 1.20 | -14% |
-| Goles del local: Más de 2.5 | 37% | 58% | 47% | 1.62 | -23% |
-| Goles del local: Más de 3.5 | 18% | 35% | 27% | 2.62 | -30% |
-| Goles del local: Menos de 1.5 | 36% | 22% | 29% | 4.33 | +24% |
-| Goles del local: Menos de 2.5 | 63% | 42% | 53% | 2.20 | +16% |
-| Goles del local: Menos de 3.5 | 82% | 65% | 73% | 1.44 | +6% |
-| Goles del visitante: Más de 0.5 | 56% | 72% | 64% | 1.30 | -17% |
-| Goles del visitante: Más de 1.5 | 20% | 38% | 29% | 2.50 | -28% |
-| Goles del visitante: Menos de 0.5 ✅ | 44% | 28% | 36% | 3.40 | +22% |
-| Goles del visitante: Menos de 1.5 | 80% | 62% | 71% | 1.50 | +7% |
-| Córners más/menos: Más de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Córners más/menos: Menos de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 56% | 46% | 1.67 | -23% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 31% | 23% | 3.00 | -32% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 44% | 54% | 2.10 | +13% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 69% | 77% | 1.36 | +5% |
+| Goles del local: Más de 1.5 | 63% | 78% | 71% | 1.20 | -15% |
+| Goles del local: Más de 2.5 | 36% | 58% | 47% | 1.62 | -24% |
+| Goles del local: Más de 3.5 | 17% | 35% | 26% | 2.62 | -31% |
+| Goles del local: Menos de 1.5 | 37% | 22% | 29% | 4.33 | +27% |
+| Goles del local: Menos de 2.5 | 64% | 42% | 53% | 2.20 | +17% |
+| Goles del local: Menos de 3.5 | 83% | 65% | 74% | 1.44 | +6% |
+| Goles del visitante: Más de 0.5 | 57% | 72% | 65% | 1.30 | -16% |
+| Goles del visitante: Más de 1.5 | 21% | 38% | 29% | 2.50 | -27% |
+| Goles del visitante: Menos de 0.5 ✅ | 43% | 28% | 35% | 3.40 | +20% |
+| Goles del visitante: Menos de 1.5 | 79% | 62% | 71% | 1.50 | +6% |
+| Córners más/menos: Más de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
+| Córners más/menos: Menos de 9.5 | 47% | 46% | 47% | 2.00 | -7% |
 | 1X2 descanso: X | 38% | 29% | 33% | 3.20 | +7% |
-| 1X2 descanso: 1 | 49% | 56% | 52% | 1.67 | -13% |
+| 1X2 descanso: 1 | 48% | 56% | 52% | 1.67 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

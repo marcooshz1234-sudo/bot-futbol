@@ -1,7 +1,7 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -181,40 +181,40 @@ _Sin bajas comunicadas por ahora._
 | Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,61 · córners esperados 10,5._
+_Goles esperados: local 1,58 · visitante 1,60 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 39% | 22% | 30% | 4.33 | +32% |
+| 1X2: 2 ✅ | 39% | 22% | 30% | 4.33 | +30% |
 | 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
-| 1X2: 1 | 37% | 56% | 46% | 1.67 | -22% |
-| Doble oportunidad: X2 ✅ | 63% | 44% | 53% | 2.15 | +15% |
+| 1X2: 1 | 38% | 56% | 47% | 1.67 | -22% |
+| Doble oportunidad: X2 ✅ | 62% | 44% | 53% | 2.15 | +14% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 61% | 79% | 70% | 1.20 | -16% |
 | Ambos marcan: No | 37% | 38% | 37% | 2.50 | -7% |
 | Ambos marcan: Sí | 63% | 62% | 63% | 1.50 | -6% |
-| Goles más/menos: Más de 2.5 | 61% | 66% | 63% | 1.44 | -9% |
-| Goles más/menos: Más de 3.5 | 39% | 45% | 42% | 2.10 | -12% |
-| Goles más/menos: Más de 4.5 | 21% | 25% | 23% | 3.75 | -12% |
-| Goles más/menos: Menos de 2.5 | 39% | 34% | 37% | 2.75 | +0% |
-| Goles más/menos: Menos de 3.5 | 61% | 55% | 58% | 1.73 | +0% |
-| Goles más/menos: Menos de 4.5 | 79% | 75% | 77% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 44% | 41% | 2.10 | -13% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 21% | 18% | 4.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 56% | 59% | 1.67 | -2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del local: Más de 1.5 | 46% | 62% | 54% | 1.50 | -19% |
-| Goles del local: Más de 2.5 | 21% | 35% | 28% | 2.62 | -27% |
-| Goles del local: Menos de 1.5 | 54% | 38% | 46% | 2.50 | +14% |
-| Goles del local: Menos de 2.5 | 79% | 65% | 72% | 1.44 | +4% |
+| Goles más/menos: Más de 2.5 | 62% | 66% | 64% | 1.44 | -8% |
+| Goles más/menos: Más de 3.5 | 39% | 45% | 42% | 2.10 | -11% |
+| Goles más/menos: Más de 4.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles más/menos: Menos de 2.5 | 38% | 34% | 36% | 2.75 | +0% |
+| Goles más/menos: Menos de 3.5 | 61% | 55% | 58% | 1.73 | -0% |
+| Goles más/menos: Menos de 4.5 | 78% | 75% | 76% | 1.28 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 77% | 76% | 1.22 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 44% | 42% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 16% | 21% | 18% | 4.50 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 79% | 82% | 1.18 | -4% |
+| Goles del local: Más de 1.5 | 47% | 62% | 55% | 1.50 | -18% |
+| Goles del local: Más de 2.5 | 21% | 35% | 28% | 2.62 | -26% |
+| Goles del local: Menos de 1.5 | 53% | 38% | 45% | 2.50 | +13% |
+| Goles del local: Menos de 2.5 | 79% | 65% | 72% | 1.44 | +3% |
 | Goles del visitante: Más de 0.5 | 80% | 71% | 75% | 1.33 | +0% |
-| Goles del visitante: Más de 1.5 | 48% | 35% | 42% | 2.62 | +9% |
+| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +9% |
 | Goles del visitante: Menos de 0.5 | 20% | 29% | 25% | 3.25 | -20% |
-| Goles del visitante: Menos de 1.5 | 52% | 65% | 58% | 1.44 | -16% |
+| Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -16% |
 | 1X2 descanso: 2 | 31% | 22% | 26% | 4.33 | +14% |
-| 1X2 descanso: X | 39% | 36% | 38% | 2.60 | -2% |
-| 1X2 descanso: 1 | 30% | 42% | 36% | 2.20 | -21% |
+| 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
+| 1X2 descanso: 1 | 30% | 42% | 36% | 2.20 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

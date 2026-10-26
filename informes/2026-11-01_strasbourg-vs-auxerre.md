@@ -1,7 +1,7 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -187,40 +187,40 @@ _Sin bajas comunicadas por ahora._
 | Lamfia Dioubaté | M | 3 | 34 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,02 · visitante 1,44 · córners esperados 9,3._
+_Goles esperados: local 1,96 · visitante 1,51 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 24% | 26% | 3.80 | -2% |
-| 1X2: X | 22% | 24% | 23% | 3.80 | -13% |
-| 1X2: 1 | 51% | 51% | 51% | 1.80 | -8% |
-| Doble oportunidad: X2 | 49% | 49% | 49% | 1.95 | -5% |
+| 1X2: 2 | 30% | 24% | 27% | 3.80 | +3% |
+| 1X2: X | 22% | 24% | 23% | 3.80 | -12% |
+| 1X2: 1 | 48% | 51% | 50% | 1.80 | -10% |
+| Doble oportunidad: X2 | 52% | 49% | 50% | 1.95 | -2% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 73% | 76% | 74% | 1.25 | -7% |
-| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -13% |
-| Ambos marcan: Sí | 66% | 61% | 64% | 1.53 | -3% |
+| Doble oportunidad: 1X | 70% | 76% | 73% | 1.25 | -9% |
+| Ambos marcan: No | 33% | 39% | 36% | 2.38 | -14% |
+| Ambos marcan: Sí | 67% | 61% | 64% | 1.53 | -2% |
 | Goles más/menos: Más de 2.5 | 67% | 60% | 64% | 1.57 | +0% |
 | Goles más/menos: Más de 3.5 | 46% | 40% | 43% | 2.38 | +2% |
 | Goles más/menos: Más de 4.5 | 27% | 22% | 24% | 4.33 | +6% |
 | Goles más/menos: Menos de 2.5 | 33% | 40% | 36% | 2.38 | -14% |
 | Goles más/menos: Menos de 3.5 | 54% | 60% | 57% | 1.57 | -10% |
 | Goles más/menos: Menos de 4.5 | 73% | 78% | 76% | 1.22 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
-| Goles del local: Más de 2.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles del local: Menos de 1.5 | 40% | 44% | 42% | 2.10 | -11% |
-| Goles del local: Menos de 2.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del visitante: Más de 0.5 | 76% | 71% | 74% | 1.33 | -2% |
-| Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
-| Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
-| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
-| 1X2 descanso: 1 | 39% | 40% | 39% | 2.30 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
+| Goles del local: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles del local: Más de 2.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles del local: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -10% |
+| Goles del local: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -6% |
+| Goles del visitante: Más de 0.5 | 78% | 71% | 74% | 1.33 | -1% |
+| Goles del visitante: Más de 1.5 | 45% | 35% | 40% | 2.62 | +5% |
+| Goles del visitante: Menos de 0.5 | 22% | 29% | 26% | 3.25 | -17% |
+| Goles del visitante: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -2% |
+| 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: 1 | 37% | 40% | 39% | 2.30 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # AS Roma – Cagliari
 **Serie A** · Regular Season - 9 · 27/10/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 02:05_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.18**  ·  X2 **3.00**
@@ -43,7 +43,7 @@ _Actualizadas: 25/10 16:16_
 - **To Win Either Half:** 1 **1.20**  ·  2 **4.00**
 - **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **9.00**
 - **Win Both Halves:** 1 **3.25**  ·  2 **34.00**
-- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **6.00**  ·  Away/Yes **17.00**  ·  Home/No **2.10**  ·  Draw/No **13.00**  ·  Away/No **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **6.50**  ·  Away/Yes **17.00**  ·  Home/No **2.10**  ·  Draw/No **13.00**  ·  Away/No **15.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.50**
 - **Home Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
@@ -55,7 +55,7 @@ _Actualizadas: 25/10 16:16_
 - **Home Player Shots:** Leonardo Balerdi - 1 **1.53**  ·  Leonardo Balerdi - 2 **3.40**  ·  Leonardo Balerdi - 3 **9.00**  ·  Rodrigo Mora - 1 **1.05**  ·  Rodrigo Mora - 2 **1.30**  ·  Rodrigo Mora - 3 **1.83**  ·  Rodrigo Mora - 4 **3.00**  ·  Rodrigo Mora - 5 **5.50**  ·  Rodrigo Mora - 6 **11.00**  ·  Rodrigo Mora - 7 **21.00**  ·  Matias Soule - 1 **1.01**  ·  Lorenzo Pellegrini - 1 **1.02**  ·  Santiago Castro - 1 **1.01**  ·  Niccolo Pisilli - 1 **1.05**  ·  Bryan Cristante - 1 **1.10**  ·  Kouadio Kone - 1 **1.11**  ·  Wesley Lima - 1 **1.12**  ·  Devyne Rensch - 1 **1.18**  ·  Emanuele Lulli - 1 **1.33**  ·  Evan N'Dicka - 1 **1.36**  ·  Daniele Ghilardi - 1 **1.44**  ·  Gianluca Mancini - 1 **1.44**  ·  Konstantinos Koulierakis - 1 **1.57**  ·  Mario Hermoso - 1 **1.57**  ·  Nahuel Molina - 1 **1.73**  ·  Donyell Malen - 2 **1.01**  ·  Matias Soule - 2 **1.08**  ·  Paulo Dybala - 2 **1.07**  ·  Lorenzo Pellegrini - 2 **1.12**  ·  Santiago Castro - 2 **1.10**  ·  Niccolo Pisilli - 2 **1.28**  ·  Bryan Cristante - 2 **1.44**  ·  Kouadio Kone - 2 **1.53**  ·  Wesley Lima - 2 **1.62**  ·  Devyne Rensch - 2 **1.83**  ·  Emanuele Lulli - 2 **2.38**  ·  Evan N'Dicka - 2 **2.62**  ·  Daniele Ghilardi - 2 **3.00**  ·  Gianluca Mancini - 2 **3.00**  ·  Konstantinos Koulierakis - 2 **3.50**  ·  Mario Hermoso - 2 **3.50**  ·  Nahuel Molina - 2 **4.33**  ·  Donyell Malen - 3 **1.06**  ·  Matias Soule - 3 **1.25**  ·  Paulo Dybala - 3 **1.25**  ·  Lorenzo Pellegrini - 3 **1.40**  ·  Santiago Castro - 3 **1.33**  ·  Niccolo Pisilli - 3 **1.83**  ·  Bryan Cristante - 3 **2.38**  ·  Kouadio Kone - 3 **2.50**  ·  Wesley Lima - 3 **2.75**  ·  Devyne Rensch - 3 **3.40**  ·  Emanuele Lulli - 3 **5.50**  ·  Evan N'Dicka - 3 **6.00**  ·  Daniele Ghilardi - 3 **7.00**  ·  Gianluca Mancini - 3 **7.00**  ·  Konstantinos Koulierakis - 3 **10.00**  ·  Mario Hermoso - 3 **10.00**  ·  Nahuel Molina - 3 **13.00**  ·  Donyell Malen - 4 **1.17**  ·  Matias Soule - 4 **1.67**  ·  Paulo Dybala - 4 **1.62**  ·  Lorenzo Pellegrini - 4 **1.91**  ·  Santiago Castro - 4 **1.83**  ·  Niccolo Pisilli - 4 **3.00**  ·  Bryan Cristante - 4 **4.33**  ·  Kouadio Kone - 4 **4.50**  ·  Wesley Lima - 4 **5.50**  ·  Devyne Rensch - 4 **7.00**  ·  Emanuele Lulli - 4 **13.00**  ·  Evan N'Dicka - 4 **15.00**  ·  Daniele Ghilardi - 4 **19.00**  ·  Gianluca Mancini - 4 **19.00**  ·  Donyell Malen - 5 **1.40**  ·  Matias Soule - 5 **2.38**  ·  Paulo Dybala - 5 **2.25**  ·  Lorenzo Pellegrini - 5 **3.25**  ·  Santiago Castro - 5 **2.75**  ·  Niccolo Pisilli - 5 **5.50**  ·  Bryan Cristante - 5 **9.00**  ·  Kouadio Kone - 5 **10.00**  ·  Wesley Lima - 5 **11.00**  ·  Donyell Malen - 6 **1.80**  ·  Matias Soule - 6 **3.75**  ·  Paulo Dybala - 6 **3.50**  ·  Lorenzo Pellegrini - 6 **5.50**  ·  Santiago Castro - 6 **4.50**  ·  Niccolo Pisilli - 6 **11.00**  ·  Bryan Cristante - 6 **19.00**  ·  Donyell Malen - 7 **2.50**  ·  Matias Soule - 7 **6.50**  ·  Paulo Dybala - 7 **6.00**  ·  Lorenzo Pellegrini - 7 **10.00**  ·  Santiago Castro - 7 **8.00**  ·  Donyell Malen - 8 **3.75**  ·  Matias Soule - 8 **11.00**  ·  Paulo Dybala - 8 **11.00**  ·  Lorenzo Pellegrini - 8 **19.00**  ·  Santiago Castro - 8 **15.00**  ·  Donyell Malen - 9 **5.50**  ·  Matias Soule - 9 **21.00**  ·  Paulo Dybala - 9 **19.00**  ·  Donyell Malen - 10 **10.00**  ·  Donyell Malen - 11 **15.00**  ·  Marten de Roon - 1 **1.40**  ·  Marten de Roon - 2 **2.62**  ·  Marten de Roon - 3 **6.00**  ·  Marten de Roon - 4 **15.00**  ·  Lorenzo Paratici - 1 **1.01**  ·  Lorenzo Paratici - 2 **1.10**  ·  Lorenzo Paratici - 3 **1.33**  ·  Lorenzo Paratici - 4 **1.83**  ·  Lorenzo Paratici - 5 **2.75**  ·  Lorenzo Paratici - 6 **4.50**  ·  Lorenzo Paratici - 7 **8.00**  ·  Mario Hermoso - 4 **21.00**  ·  Konstantinos Koulierakis - 4 **21.00**  ·  Devyne Rensch - 5 **17.00**  ·  Wesley Lima - 6 **21.00**  ·  Kouadio Kone - 6 **21.00**  ·  Leonardo Balerdi - 4 **21.00**  ·  Niccolo Pisilli - 7 **21.00**  ·  Santiago Castro - 9 **21.00**  ·  Donyell Malen - 12 **21.00**  ·  Alessandro Di Nunzio - 1 **1.10**  ·  Alessandro Di Nunzio - 2 **1.44**  ·  Alessandro Di Nunzio - 3 **2.25**  ·  Alessandro Di Nunzio - 4 **4.00**  ·  Mandjou Camara - 1 **1.01**  ·  Mandjou Camara - 2 **1.10**  ·  Mandjou Camara - 3 **1.33**  ·  Mandjou Camara - 4 **1.83**  ·  Mandjou Camara - 5 **2.75**  ·  Alessandro Di Nunzio - 5 **9.00**  ·  Mandjou Camara - 6 **4.50**  ·  Alessandro Di Nunzio - 6 **17.00**  ·  Mandjou Camara - 7 **8.00**  ·  Lorenzo Paratici - 8 **15.00**  ·  Mandjou Camara - 8 **15.00**  ·  Lorenzo Paratici - 9 **21.00**  ·  Mandjou Camara - 9 **21.00**
 - **Away Player Shots:** Juan Rodriguez - 1 **2.75**  ·  Juan Rodriguez - 2 **10.00**  ·  Yukinari Sugawara - 1 **2.00**  ·  Yukinari Sugawara - 2 **5.50**  ·  Yukinari Sugawara - 3 **17.00**  ·  Yanis Massolin - 1 **1.33**  ·  Paul Mendy - 1 **1.14**  ·  Daniel Maldini - 1 **1.10**  ·  Jacopo Fazzini - 1 **1.57**  ·  Alessandro Deiola - 1 **1.91**  ·  Alieu Fadera - 1 **1.80**  ·  Yerry Mina - 1 **1.50**  ·  Alessandro Romano - 1 **1.57**  ·  Giuseppe Aurelio - 1 **1.57**  ·  Kevin Omoruyi - 1 **1.25**  ·  Nicola Grandu - 1 **1.80**  ·  Michel Adopo - 1 **1.80**  ·  Harry Winks - 1 **2.38**  ·  Adam Obert - 1 **2.10**  ·  Demi Akarakiri - 1 **2.00**  ·  Ivan Sulev - 1 **1.73**  ·  Jose Ze Pedro - 1 **2.20**  ·  Joseph Liteta - 1 **2.00**  ·  Raphael Kofler - 1 **2.50**  ·  Yanis Massolin - 2 **2.38**  ·  Paul Mendy - 2 **1.67**  ·  Daniel Maldini - 2 **1.44**  ·  Jacopo Fazzini - 2 **3.50**  ·  Alessandro Deiola - 2 **5.50**  ·  Alieu Fadera - 2 **4.33**  ·  Yerry Mina - 2 **3.25**  ·  Alessandro Romano - 2 **3.50**  ·  Giuseppe Aurelio - 2 **3.50**  ·  Kevin Omoruyi - 2 **2.10**  ·  Nicola Grandu - 2 **4.33**  ·  Michel Adopo - 2 **4.50**  ·  Harry Winks - 2 **8.00**  ·  Adam Obert - 2 **6.50**  ·  Demi Akarakiri - 2 **5.50**  ·  Ivan Sulev - 2 **4.33**  ·  Jose Ze Pedro - 2 **6.50**  ·  Joseph Liteta - 2 **5.50**  ·  Raphael Kofler - 2 **9.00**  ·  Yanis Massolin - 3 **5.50**  ·  Paul Mendy - 3 **3.00**  ·  Daniel Maldini - 3 **2.25**  ·  Jacopo Fazzini - 3 **10.00**  ·  Alessandro Deiola - 3 **17.00**  ·  Alieu Fadera - 3 **13.00**  ·  Yerry Mina - 3 **8.00**  ·  Alessandro Romano - 3 **10.00**  ·  Giuseppe Aurelio - 3 **10.00**  ·  Kevin Omoruyi - 3 **4.33**  ·  Nicola Grandu - 3 **13.00**  ·  Michel Adopo - 3 **13.00**  ·  Harry Winks - 3 **21.00**  ·  Adam Obert - 3 **19.00**  ·  Demi Akarakiri - 3 **19.00**  ·  Ivan Sulev - 3 **13.00**  ·  Jose Ze Pedro - 3 **21.00**  ·  Joseph Liteta - 3 **19.00**  ·  Yanis Massolin - 4 **13.00**  ·  Paul Mendy - 4 **6.00**  ·  Daniel Maldini - 4 **4.33**  ·  Jacopo Fazzini - 4 **21.00**  ·  Yerry Mina - 4 **21.00**  ·  Alessandro Romano - 4 **21.00**  ·  Paul Mendy - 5 **13.00**  ·  Daniel Maldini - 5 **9.00**  ·  Paul Mendy - 6 **21.00**  ·  Riccardo Ciervo - 1 **1.57**  ·  Riccardo Ciervo - 2 **3.50**  ·  Riccardo Ciervo - 3 **10.00**  ·  Riccardo Ciervo - 4 **21.00**  ·  Giuseppe Aurelio - 4 **21.00**  ·  Kevin Omoruyi - 4 **10.00**  ·  Raphael Kofler - 3 **21.00**  ·  Kevin Omoruyi - 5 **21.00**  ·  Daniel Maldini - 6 **19.00**  ·  M'Bala Nzola - 1 **1.14**  ·  M'Bala Nzola - 2 **1.62**  ·  M'Bala Nzola - 3 **2.75**  ·  M'Bala Nzola - 4 **5.50**  ·  M'Bala Nzola - 5 **13.00**  ·  M'Bala Nzola - 6 **21.00**  ·  Alessandro Sugamele - 1 **1.25**  ·  Roberto Gagliardini - 1 **2.38**  ·  Alessandro Sugamele - 2 **2.10**  ·  Roberto Gagliardini - 2 **8.00**  ·  Alessandro Sugamele - 3 **4.33**  ·  Roberto Gagliardini - 3 **21.00**  ·  Alessandro Sugamele - 4 **10.00**  ·  Alessandro Sugamele - 5 **21.00**
 - **Anytime Goal Scorer:** Niccolo Pisilli **3.75**  ·  Evan N'Dicka **8.00**  ·  Leonardo Balerdi **7.50**  ·  Yanis Massolin **8.00**  ·  Joseph Liteta **12.00**  ·  Nicola Grandu **10.00**  ·  M'Bala Nzola **4.75**  ·  Juan Rodriguez **23.00**  ·  Emanuele Lulli **6.00**  ·  Daniele Ghilardi **7.00**  ·  Alieu Fadera **10.00**  ·  Giuseppe Aurelio **8.00**  ·  Devyne Rensch **6.00**  ·  Raphael Kofler **17.00**  ·  Matias Soule **2.50**  ·  Riccardo Ciervo **8.00**  ·  Ivan Sulev **9.50**  ·  Paul Mendy **4.50**  ·  Rodrigo Mora **3.10**  ·  Jose Ze Pedro **17.00**  ·  Demi Akarakiri **12.00**  ·  Lorenzo Paratici **2.05**  ·  Kevin Omoruyi **5.50**  ·  Alessandro Sugamele **5.50**  ·  Nahuel Molina **9.50**  ·  Alessandro Di Nunzio **3.75**  ·  Mandjou Camara **2.05**  ·  Harry Winks **15.00**  ·  Yukinari Sugawara **12.00**  ·  Bryan Cristante **5.50**  ·  Daniel Maldini **4.50**  ·  Gianluca Mancini **7.00**  ·  Lorenzo Pellegrini **2.75**  ·  Mario Hermoso **8.00**  ·  Paulo Dybala **2.30**  ·  Roberto Gagliardini **15.00**  ·  Kouadio Kone **4.75**  ·  Santiago Castro **2.05**  ·  Jacopo Fazzini **8.00**  ·  Adam Obert **17.00**  ·  Alessandro Deiola **15.00**  ·  Michel Adopo **15.00**  ·  Yerry Mina **10.00**  ·  Marten de Roon **7.00**  ·  Konstantinos Koulierakis **8.00**  ·  Donyell Malen **1.67**  ·  Alessandro Romano **10.00**  ·  Wesley Lima **5.50**
-- **Player to Score or Assist:** Niccolo Pisilli **2.38**  ·  Evan N'Dicka **3.75**  ·  Leonardo Balerdi **3.75**  ·  Yanis Massolin **5.50**  ·  Joseph Liteta **6.50**  ·  Nicola Grandu **5.50**  ·  M'Bala Nzola **3.75**  ·  Juan Rodriguez **17.00**  ·  Emanuele Lulli **2.88**  ·  Daniele Ghilardi **4.33**  ·  Alieu Fadera **5.50**  ·  Giuseppe Aurelio **5.00**  ·  Devyne Rensch **3.10**  ·  Raphael Kofler **12.00**  ·  Matias Soule **1.67**  ·  Riccardo Ciervo **4.50**  ·  Ivan Sulev **7.00**  ·  Paul Mendy **3.60**  ·  Rodrigo Mora **1.91**  ·  Jose Ze Pedro **11.00**  ·  Demi Akarakiri **6.50**  ·  Lorenzo Paratici **1.62**  ·  Kevin Omoruyi **4.00**  ·  Alessandro Sugamele **4.00**  ·  Nahuel Molina **4.00**  ·  Alessandro Di Nunzio **2.20**  ·  Mandjou Camara **1.62**  ·  Harry Winks **7.50**  ·  Yukinari Sugawara **6.50**  ·  Bryan Cristante **3.20**  ·  Daniel Maldini **3.50**  ·  Gianluca Mancini **4.33**  ·  Lorenzo Pellegrini **1.83**  ·  Mario Hermoso **5.50**  ·  Paulo Dybala **1.50**  ·  Roberto Gagliardini **7.50**  ·  Kouadio Kone **2.88**  ·  Santiago Castro **1.67**  ·  Jacopo Fazzini **5.00**  ·  Adam Obert **8.50**  ·  Alessandro Deiola **9.00**  ·  Michel Adopo **8.50**  ·  Yerry Mina **9.00**  ·  Marten de Roon **3.50**  ·  Konstantinos Koulierakis **4.75**  ·  Donyell Malen **1.44**  ·  Alessandro Romano **5.50**  ·  Wesley Lima **2.75**
+- **Player to Score or Assist:** Niccolo Pisilli **2.38**  ·  Evan N'Dicka **3.75**  ·  Leonardo Balerdi **3.75**  ·  Yanis Massolin **5.50**  ·  Joseph Liteta **6.50**  ·  Nicola Grandu **5.50**  ·  M'Bala Nzola **3.75**  ·  Juan Rodriguez **17.00**  ·  Emanuele Lulli **2.88**  ·  Daniele Ghilardi **4.33**  ·  Alieu Fadera **5.50**  ·  Giuseppe Aurelio **5.00**  ·  Devyne Rensch **3.10**  ·  Raphael Kofler **12.00**  ·  Matias Soule **1.62**  ·  Riccardo Ciervo **4.50**  ·  Ivan Sulev **7.00**  ·  Paul Mendy **3.60**  ·  Rodrigo Mora **1.91**  ·  Jose Ze Pedro **11.00**  ·  Demi Akarakiri **6.50**  ·  Lorenzo Paratici **1.62**  ·  Kevin Omoruyi **4.00**  ·  Alessandro Sugamele **4.00**  ·  Nahuel Molina **4.00**  ·  Alessandro Di Nunzio **2.20**  ·  Mandjou Camara **1.62**  ·  Harry Winks **7.50**  ·  Yukinari Sugawara **6.50**  ·  Bryan Cristante **3.20**  ·  Daniel Maldini **3.50**  ·  Gianluca Mancini **4.33**  ·  Lorenzo Pellegrini **1.83**  ·  Mario Hermoso **5.50**  ·  Paulo Dybala **1.50**  ·  Roberto Gagliardini **7.50**  ·  Kouadio Kone **2.88**  ·  Santiago Castro **1.67**  ·  Jacopo Fazzini **5.00**  ·  Adam Obert **8.50**  ·  Alessandro Deiola **9.00**  ·  Michel Adopo **8.50**  ·  Yerry Mina **9.00**  ·  Marten de Roon **3.50**  ·  Konstantinos Koulierakis **4.75**  ·  Donyell Malen **1.44**  ·  Alessandro Romano **5.50**  ·  Wesley Lima **2.75**
 
 ## Estadísticas de equipo
 | | AS Roma (total) | AS Roma en casa | Cagliari (total) | Cagliari fuera |
@@ -191,37 +191,37 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Mattia Felici | F | 2 | 37 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,47 · visitante 0,60 · córners esperados 9,9._
+_Goles esperados: local 2,47 · visitante 0,62 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 7% | 11% | 9% | 9.00 | -21% |
-| 1X2: X | 14% | 20% | 17% | 4.75 | -18% |
-| 1X2: 1 | 78% | 70% | 74% | 1.36 | +1% |
+| 1X2: 2 | 7% | 11% | 9% | 9.00 | -20% |
+| 1X2: X | 15% | 20% | 17% | 4.75 | -18% |
+| 1X2: 1 | 78% | 70% | 74% | 1.36 | +0% |
 | Doble oportunidad: X2 | 22% | 32% | 27% | 3.00 | -20% |
-| Doble oportunidad: 12 | 86% | 80% | 83% | 1.18 | -2% |
+| Doble oportunidad: 12 | 85% | 80% | 83% | 1.18 | -2% |
 | Doble oportunidad: 1X | 93% | 88% | 91% | 1.07 | -3% |
-| Ambos marcan: No | 59% | 53% | 56% | 1.75 | -2% |
-| Ambos marcan: Sí | 41% | 47% | 44% | 2.00 | -12% |
+| Ambos marcan: No | 58% | 53% | 56% | 1.75 | -3% |
+| Ambos marcan: Sí | 42% | 47% | 44% | 2.00 | -11% |
 | Goles más/menos: Más de 1.5 | 81% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Más de 3.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles más/menos: Más de 2.5 | 60% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Más de 3.5 | 37% | 34% | 36% | 2.75 | -1% |
 | Goles más/menos: Menos de 1.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Menos de 3.5 | 63% | 66% | 64% | 1.44 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 28% | 3.40 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
+| Goles más/menos: Menos de 2.5 | 40% | 45% | 43% | 2.10 | -10% |
+| Goles más/menos: Menos de 3.5 | 63% | 66% | 64% | 1.44 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
 | Goles del local: Más de 2.5 | 45% | 38% | 41% | 2.50 | +3% |
 | Goles del local: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
 | Goles del local: Menos de 2.5 | 55% | 62% | 59% | 1.50 | -12% |
-| Goles del visitante: Más de 0.5 | 45% | 51% | 48% | 1.80 | -13% |
-| Goles del visitante: Menos de 0.5 | 55% | 49% | 52% | 1.91 | -1% |
-| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
-| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 56% | 51% | 54% | 1.80 | -3% |
+| Goles del visitante: Más de 0.5 | 46% | 51% | 49% | 1.80 | -12% |
+| Goles del visitante: Menos de 0.5 | 54% | 49% | 51% | 1.91 | -2% |
+| Córners más/menos: Más de 9.5 | 49% | 46% | 48% | 2.00 | -4% |
+| Córners más/menos: Menos de 9.5 | 51% | 54% | 52% | 1.73 | -10% |
+| 1X2 descanso: X | 34% | 37% | 36% | 2.50 | -11% |
+| 1X2 descanso: 1 | 57% | 51% | 54% | 1.80 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

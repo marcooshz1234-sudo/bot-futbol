@@ -1,7 +1,7 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -188,40 +188,40 @@ _Sin bajas comunicadas por ahora._
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 1,08 · córners esperados 9,1._
+_Goles esperados: local 1,02 · visitante 1,12 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 36% | 36% | 2.60 | -7% |
+| 1X2: 2 | 38% | 36% | 37% | 2.60 | -5% |
 | 1X2: X | 30% | 29% | 29% | 3.20 | -6% |
-| 1X2: 1 | 35% | 36% | 35% | 2.60 | -9% |
-| Doble oportunidad: X2 | 65% | 64% | 65% | 1.50 | -3% |
+| 1X2: 1 | 33% | 36% | 34% | 2.60 | -11% |
+| Doble oportunidad: X2 | 67% | 64% | 66% | 1.50 | -1% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 64% | 64% | 64% | 1.50 | -3% |
+| Doble oportunidad: 1X | 62% | 64% | 63% | 1.50 | -5% |
 | Ambos marcan: No | 57% | 44% | 51% | 2.10 | +6% |
-| Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -18% |
+| Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -17% |
 | Goles más/menos: Más de 1.5 | 63% | 75% | 69% | 1.28 | -12% |
 | Goles más/menos: Más de 2.5 | 36% | 50% | 43% | 1.91 | -18% |
 | Goles más/menos: Más de 3.5 | 17% | 30% | 23% | 3.20 | -25% |
 | Goles más/menos: Menos de 1.5 ✅ | 37% | 25% | 31% | 3.75 | +17% |
 | Goles más/menos: Menos de 2.5 | 64% | 50% | 57% | 1.91 | +9% |
 | Goles más/menos: Menos de 3.5 | 83% | 70% | 77% | 1.36 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 59% | 69% | 64% | 1.36 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 35% | 29% | 2.62 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 ✅ | 41% | 31% | 36% | 3.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del local: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
-| Goles del local: Más de 1.5 | 28% | 41% | 35% | 2.25 | -22% |
-| Goles del local: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +8% |
-| Goles del local: Menos de 1.5 | 72% | 59% | 65% | 1.57 | +2% |
-| Goles del visitante: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles del visitante: Más de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
-| Goles del visitante: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +7% |
-| Goles del visitante: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
-| Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -10% |
-| Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |
-| 1X2 descanso: 2 | 26% | 29% | 27% | 3.20 | -13% |
-| 1X2 descanso: X | 49% | 42% | 46% | 2.20 | +1% |
-| 1X2 descanso: 1 | 25% | 29% | 27% | 3.20 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 65% | 1.36 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 35% | 3.00 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del local: Más de 0.5 | 64% | 73% | 69% | 1.28 | -12% |
+| Goles del local: Más de 1.5 | 27% | 41% | 34% | 2.25 | -23% |
+| Goles del local: Menos de 0.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del local: Menos de 1.5 | 73% | 59% | 66% | 1.57 | +3% |
+| Goles del visitante: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles del visitante: Más de 1.5 | 31% | 41% | 36% | 2.25 | -19% |
+| Goles del visitante: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +4% |
+| Goles del visitante: Menos de 1.5 | 69% | 59% | 64% | 1.57 | +1% |
+| Córners más/menos: Más de 9.5 | 43% | 44% | 43% | 2.10 | -9% |
+| Córners más/menos: Menos de 9.5 | 57% | 56% | 57% | 1.67 | -6% |
+| 1X2 descanso: 2 | 27% | 29% | 28% | 3.20 | -10% |
+| 1X2 descanso: X | 48% | 42% | 45% | 2.20 | -0% |
+| 1X2 descanso: 1 | 24% | 29% | 27% | 3.20 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

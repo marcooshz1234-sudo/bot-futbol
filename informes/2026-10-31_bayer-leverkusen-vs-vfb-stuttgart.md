@@ -1,7 +1,7 @@
 # Bayer Leverkusen – VfB Stuttgart
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -194,48 +194,48 @@ _Sin bajas comunicadas por ahora._
 | Yanik Spalt | D | 2 | 56 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,64 · visitante 1,09 · córners esperados 9,8._
+_Goles esperados: local 2,57 · visitante 1,15 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 25% | 19% | 3.80 | -28% |
-| 1X2: X | 16% | 22% | 19% | 4.20 | -19% |
-| 1X2: 1 ✅ | 70% | 53% | 62% | 1.75 | +8% |
-| Doble oportunidad: X2 | 30% | 47% | 38% | 2.00 | -23% |
-| Doble oportunidad: 12 | 84% | 77% | 81% | 1.22 | -2% |
-| Doble oportunidad: 1X | 87% | 75% | 81% | 1.25 | +1% |
-| Ambos marcan: No ✅ | 38% | 29% | 34% | 3.25 | +10% |
-| Ambos marcan: Sí | 62% | 71% | 66% | 1.33 | -12% |
-| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -4% |
+| 1X2: 2 | 15% | 25% | 20% | 3.80 | -25% |
+| 1X2: X | 17% | 22% | 20% | 4.20 | -18% |
+| 1X2: 1 ✅ | 68% | 53% | 61% | 1.75 | +6% |
+| Doble oportunidad: X2 | 32% | 47% | 40% | 2.00 | -21% |
+| Doble oportunidad: 12 | 83% | 77% | 80% | 1.22 | -2% |
+| Doble oportunidad: 1X | 85% | 75% | 80% | 1.25 | +0% |
+| Ambos marcan: No ✅ | 37% | 29% | 33% | 3.25 | +7% |
+| Ambos marcan: Sí | 63% | 71% | 67% | 1.33 | -11% |
+| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -5% |
 | Goles más/menos: Más de 3.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 4.5 | 32% | 34% | 33% | 2.75 | -9% |
 | Goles más/menos: Más de 5.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
 | Goles más/menos: Menos de 3.5 | 49% | 47% | 48% | 2.00 | -4% |
-| Goles más/menos: Menos de 4.5 | 68% | 66% | 67% | 1.44 | -4% |
+| Goles más/menos: Menos de 4.5 | 68% | 66% | 67% | 1.44 | -3% |
 | Goles más/menos: Menos de 5.5 | 83% | 79% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 74% | 65% | 69% | 1.44 | -0% |
-| Goles del local: Más de 2.5 | 49% | 39% | 44% | 2.38 | +5% |
-| Goles del local: Más de 3.5 | 27% | 21% | 24% | 4.50 | +8% |
-| Goles del local: Menos de 1.5 | 26% | 35% | 31% | 2.62 | -19% |
-| Goles del local: Menos de 2.5 | 51% | 61% | 56% | 1.53 | -14% |
-| Goles del local: Menos de 3.5 | 73% | 79% | 76% | 1.18 | -10% |
-| Goles del visitante: Más de 0.5 | 66% | 77% | 72% | 1.22 | -13% |
-| Goles del visitante: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
-| Goles del visitante: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
-| Goles del visitante: Menos de 0.5 | 34% | 23% | 28% | 4.00 | +14% |
-| Goles del visitante: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
-| Goles del visitante: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
-| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
-| 1X2 descanso: 2 | 15% | 25% | 20% | 3.75 | -25% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 2.5 | 47% | 39% | 43% | 2.38 | +3% |
+| Goles del local: Más de 3.5 | 26% | 21% | 23% | 4.50 | +5% |
+| Goles del local: Menos de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
+| Goles del local: Menos de 2.5 | 53% | 61% | 57% | 1.53 | -13% |
+| Goles del local: Menos de 3.5 | 74% | 79% | 77% | 1.18 | -9% |
+| Goles del visitante: Más de 0.5 | 68% | 77% | 72% | 1.22 | -12% |
+| Goles del visitante: Más de 1.5 | 32% | 46% | 39% | 2.00 | -22% |
+| Goles del visitante: Más de 2.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles del visitante: Menos de 0.5 | 32% | 23% | 28% | 4.00 | +10% |
+| Goles del visitante: Menos de 1.5 | 68% | 54% | 61% | 1.73 | +5% |
+| Goles del visitante: Menos de 2.5 | 89% | 78% | 84% | 1.20 | +0% |
+| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
+| Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -2% |
+| 1X2 descanso: 2 | 16% | 25% | 21% | 3.75 | -23% |
 | 1X2 descanso: X | 33% | 34% | 33% | 2.75 | -9% |
-| 1X2 descanso: 1 | 52% | 42% | 47% | 2.20 | +3% |
+| 1X2 descanso: 1 | 51% | 42% | 46% | 2.20 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

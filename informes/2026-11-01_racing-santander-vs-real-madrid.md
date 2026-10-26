@@ -1,7 +1,7 @@
 # Racing Santander – Real Madrid
 **LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -60,53 +60,53 @@ _Actualizadas: 25/10 16:17_
 ## Estadísticas de equipo
 | | Racing Santander (total) | Racing Santander en casa | Real Madrid (total) | Real Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 12 | 5 |
-| Forma (últimos 5) | VDEDD | VEVVE | VVVVD | VDVDV |
-| Balance | 3V 2E 5D | 3V 2E 0D | 10V 0E 2D | 3V 0E 2D |
-| Goles a favor / partido | 1,50 | 2,20 | 2,75 | 2,00 |
-| Goles en contra / partido | 2,60 | 1,60 | 1,17 | 1,80 |
-| Goles a favor 1ª parte | 1,00 | 1,40 | 1,33 | 0,80 |
-| Goles a favor 2ª parte | 0,50 | 0,80 | 1,42 | 1,20 |
-| Goles en contra 1ª parte | 1,30 | 0,80 | 0,25 | 0,40 |
-| Goles en contra 2ª parte | 1,30 | 0,80 | 0,92 | 1,40 |
-| Más de 1,5 goles | 90% | 100% | 83% | 80% |
-| Más de 2,5 goles | 80% | 100% | 83% | 80% |
-| Más de 3,5 goles | 60% | 60% | 58% | 40% |
-| Ambos marcan | 70% | 100% | 75% | 80% |
-| Portería a cero | 0% | 0% | 17% | 0% |
-| Se queda sin marcar | 30% | 0% | 8% | 20% |
-| xG a favor | 1,42 | 1,88 | 2,48 | 2,31 |
-| xG en contra | 2,15 | 1,22 | 1,15 | 1,32 |
-| Tiros / partido | 12,4 | 16,8 | 17,3 | 17,0 |
-| Tiros a puerta / partido | 4,9 | 6,6 | 7,7 | 6,2 |
-| Tiros recibidos | 15,8 | 13,4 | 13,4 | 12,2 |
-| Tiros a puerta recibidos | 6,1 | 5,0 | 5,0 | 5,4 |
-| Posesión media % | 50 | 49 | 52 | 50 |
-| Córners a favor | 5,1 | 6,4 | 6,5 | 6,6 |
-| Córners en contra | 7,8 | 6,6 | 4,2 | 3,2 |
-| Córners a favor 1ª parte | 2,3 | 3,0 | 3,0 | 3,4 |
+| Partidos analizados | 10 | 5 | 13 | 6 |
+| Forma (últimos 5) | VDEDD | VEVVE | VVVVV | VVDVD |
+| Balance | 3V 2E 5D | 3V 2E 0D | 11V 0E 2D | 4V 0E 2D |
+| Goles a favor / partido | 1,50 | 2,20 | 2,69 | 2,00 |
+| Goles en contra / partido | 2,60 | 1,60 | 1,15 | 1,67 |
+| Goles a favor 1ª parte | 1,00 | 1,40 | 1,31 | 0,83 |
+| Goles a favor 2ª parte | 0,50 | 0,80 | 1,38 | 1,17 |
+| Goles en contra 1ª parte | 1,30 | 0,80 | 0,23 | 0,33 |
+| Goles en contra 2ª parte | 1,30 | 0,80 | 0,92 | 1,33 |
+| Más de 1,5 goles | 90% | 100% | 85% | 83% |
+| Más de 2,5 goles | 80% | 100% | 85% | 83% |
+| Más de 3,5 goles | 60% | 60% | 54% | 33% |
+| Ambos marcan | 70% | 100% | 77% | 83% |
+| Portería a cero | 0% | 0% | 15% | 0% |
+| Se queda sin marcar | 30% | 0% | 8% | 17% |
+| xG a favor | 1,42 | 1,88 | 2,44 | 2,26 |
+| xG en contra | 2,15 | 1,22 | 1,16 | 1,31 |
+| Tiros / partido | 12,4 | 16,8 | 16,8 | 15,8 |
+| Tiros a puerta / partido | 4,9 | 6,6 | 7,5 | 6,0 |
+| Tiros recibidos | 15,8 | 13,4 | 13,8 | 13,2 |
+| Tiros a puerta recibidos | 6,1 | 5,0 | 5,1 | 5,5 |
+| Posesión media % | 50 | 49 | 51 | 48 |
+| Córners a favor | 5,1 | 6,4 | 6,5 | 6,5 |
+| Córners en contra | 7,8 | 6,6 | 4,4 | 3,7 |
+| Córners a favor 1ª parte | 2,3 | 3,0 | 3,0 | 3,3 |
 | Córners a favor 2ª parte | 2,8 | 3,4 | 3,5 | 3,2 |
-| Córners totales del partido | 12,9 | 13,0 | 10,8 | 9,8 |
-| Córners totales 1ª parte | 5,5 | 5,2 | 4,8 | 5,2 |
-| Córners totales 2ª parte | 7,4 | 7,8 | 5,9 | 4,6 |
-| Más de 8,5 córners | 90% | 100% | 58% | 40% |
-| Más de 9,5 córners | 90% | 100% | 58% | 40% |
-| Más de 10,5 córners | 80% | 80% | 58% | 40% |
-| Faltas cometidas | 13,4 | 14,4 | 9,2 | 8,4 |
-| Faltas recibidas | 15,0 | 15,4 | 13,7 | 17,0 |
-| Amarillas propias | 2,7 | 2,4 | 1,8 | 2,0 |
-| Amarillas del rival | 2,6 | 3,0 | 2,6 | 3,4 |
-| Rojas / partido | 0,10 | 0,20 | 0,17 | 0,20 |
+| Córners totales del partido | 12,9 | 13,0 | 10,8 | 10,2 |
+| Córners totales 1ª parte | 5,5 | 5,2 | 4,8 | 5,0 |
+| Córners totales 2ª parte | 7,4 | 7,8 | 6,1 | 5,2 |
+| Más de 8,5 córners | 90% | 100% | 62% | 50% |
+| Más de 9,5 córners | 90% | 100% | 62% | 50% |
+| Más de 10,5 córners | 80% | 80% | 62% | 50% |
+| Faltas cometidas | 13,4 | 14,4 | 9,3 | 8,8 |
+| Faltas recibidas | 15,0 | 15,4 | 13,8 | 16,7 |
+| Amarillas propias | 2,7 | 2,4 | 1,9 | 2,2 |
+| Amarillas del rival | 2,6 | 3,0 | 2,6 | 3,3 |
+| Rojas / partido | 0,10 | 0,20 | 0,15 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Racing Santander | Recibe Racing Santander | Tarjetas Racing Santander | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 3 | 3 | 0 | 2 |
 | 16-30' | 4 | 3 | 4 | 8 | 2 | 2 |
-| 31-45' | 4 | 7 | 6 | 5 | 1 | 2 |
-| 46-60' | 2 | 1 | 3 | 2 | 5 | 3 |
-| 61-75' | 2 | 4 | 6 | 3 | 1 | 6 |
-| 76-90' | 1 | 8 | 6 | 12 | 5 | 9 |
+| 31-45' | 4 | 7 | 6 | 6 | 1 | 2 |
+| 46-60' | 2 | 1 | 3 | 2 | 5 | 4 |
+| 61-75' | 2 | 4 | 6 | 3 | 2 | 6 |
+| 76-90' | 1 | 8 | 6 | 13 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -156,77 +156,77 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Madrid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | fuera | 6-6 | 10 (5) - 18 (6) | 3-3 |
 | 2026-10-21 | Champions League | Real Madrid 4-1 RB Leipzig | casa | 7-1 | 18 (11) - 11 (6) | 1-1 |
 | 2026-10-18 | LaLiga | Real Madrid 4-1 Sevilla | casa | 1-2 | 15 (8) - 11 (5) | 2-2 |
 | 2026-10-14 | Champions League | AS Roma 3-4 Real Madrid | fuera | 9-5 | 16 (8) - 14 (7) | 1-3 |
 | 2026-10-10 | LaLiga | Real Madrid 1-0 Villarreal | casa | 9-3 | 11 (4) - 15 (4) | 5-2 |
 | 2026-09-20 | LaLiga | Atletico Madrid 2-1 Real Madrid | fuera | 1-3 | 8 (3) - 18 (9) | 2-2 |
-| 2026-09-15 | LaLiga | Elche 2-3 Real Madrid | fuera | 5-2 | 20 (4) - 11 (3) | 2-4 |
 
 ## Jugadores de Real Madrid
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Kylian Mbappé | F | 13 | 1161 | 14 | 3 | 53 | 4,1 | 39 | 3,0 | 8 | 17 | 1,3 | 2 | 0 |
 | T. Courtois | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Kylian Mbappé | F | 12 | 1071 | 12 | 3 | 50 | 4,2 | 37 | 3,1 | 8 | 13 | 1,1 | 1 | 0 |
-| F. Valverde | D | 12 | 1009 | 1 | 2 | 9 | 0,8 | 4 | 0,3 | 7 | 4 | 0,3 | 0 | 0 |
-| J. Bellingham | M | 12 | 956 | 3 | 3 | 19 | 1,6 | 9 | 0,8 | 10 | 34 | 2,8 | 2 | 0 |
-| Ibrahima Konaté | D | 10 | 900 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 13 | 4 | 0,4 | 4 | 0 |
+| F. Valverde | D | 13 | 1071 | 1 | 2 | 9 | 0,7 | 4 | 0,3 | 7 | 4 | 0,3 | 0 | 0 |
+| J. Bellingham | M | 13 | 1046 | 3 | 3 | 20 | 1,5 | 9 | 0,7 | 11 | 39 | 3,0 | 2 | 0 |
+| I. Konaté | D | 11 | 990 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 13 | 4 | 0,4 | 4 | 0 |
+| D. Huijsen | D | 10 | 862 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 10 | 5 | 0,5 | 2 | 1 |
+| Marc Cucurella | D | 13 | 843 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 4 | 0,3 | 0 | 0 |
 | Vinícius Júnior | M | 11 | 801 | 1 | 3 | 22 | 2,0 | 9 | 0,8 | 11 | 27 | 2,5 | 2 | 1 |
-| D. Huijsen | D | 9 | 772 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 10 | 5 | 0,6 | 1 | 1 |
-| Marc Cucurella | D | 12 | 753 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 3 | 0,2 | 0 | 0 |
-| A. Güler | M | 11 | 617 | 3 | 4 | 14 | 1,3 | 8 | 0,7 | 6 | 14 | 1,3 | 1 | 0 |
-| D. Dumfries | D | 9 | 576 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 4 | 4 | 0,4 | 1 | 0 |
-| Y. Diomande | F | 12 | 569 | 3 | 4 | 12 | 1,0 | 5 | 0,4 | 7 | 17 | 1,4 | 1 | 0 |
+| A. Güler | M | 12 | 706 | 3 | 4 | 19 | 1,6 | 11 | 0,9 | 6 | 16 | 1,3 | 1 | 0 |
+| Y. Diomande | M | 13 | 658 | 3 | 4 | 13 | 1,0 | 5 | 0,4 | 7 | 17 | 1,3 | 1 | 0 |
+| D. Dumfries | D | 10 | 604 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 4 | 4 | 0,4 | 1 | 0 |
+| A. Tchouaméni | M | 8 | 529 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 2 | 0,2 | 2 | 0 |
+| Bernardo Silva | M | 10 | 493 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 10 | 8 | 0,8 | 0 | 0 |
 | A. Rüdiger | D | 6 | 486 | 2 | 0 | 3 | 0,5 | 3 | 0,5 | 4 | 4 | 0,7 | 1 | 0 |
-| Aurélien Tchouaméni | M | 7 | 439 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 2 | 2 | 0,3 | 1 | 0 |
-| Bernardo Silva | M | 9 | 413 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 7 | 0,8 | 0 | 0 |
-| E. Camavinga | M | 9 | 355 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 10 | 9 | 1,0 | 2 | 0 |
-| Trent Alexander-Arnold | D | 6 | 344 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
+| E. Camavinga | M | 10 | 365 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 10 | 10 | 1,0 | 2 | 0 |
+| T. Alexander-Arnold | D | 7 | 345 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
 | Álvaro Fernández | D | 8 | 340 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 3 | 0,4 | 3 | 0 |
 | Brahim Díaz | M | 6 | 211 | 0 | 2 | 2 | 0,3 | 0 | 0,0 | 1 | 4 | 0,7 | 0 | 0 |
 | Endrick | F | 4 | 112 | 1 | 0 | 4 | 1,0 | 3 | 0,8 | 0 | 2 | 0,5 | 0 | 0 |
-| Carlos Espí | F | 8 | 60 | 3 | 0 | 7 | 0,9 | 4 | 0,5 | 1 | 1 | 0,1 | 0 | 0 |
+| A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 3,16 · córners esperados 11,1._
+_Goles esperados: local 1,08 · visitante 3,39 · córners esperados 11,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 75% | 75% | 75% | 1.25 | -6% |
-| 1X2: X | 13% | 15% | 14% | 6.25 | -12% |
-| 1X2: 1 | 11% | 10% | 11% | 9.00 | -3% |
-| Doble oportunidad: X2 | 89% | 89% | 89% | 1.07 | -5% |
-| Doble oportunidad: 12 | 87% | 85% | 86% | 1.12 | -4% |
-| Doble oportunidad: 1X | 25% | 25% | 25% | 3.75 | -6% |
-| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
-| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 81% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Más de 4.5 | 45% | 41% | 43% | 2.30 | -1% |
-| Goles más/menos: Más de 5.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles más/menos: Menos de 2.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles más/menos: Menos de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
-| Goles más/menos: Menos de 4.5 | 55% | 59% | 57% | 1.62 | -8% |
-| Goles más/menos: Menos de 5.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 56% | 55% | 1.67 | -7% |
-| Goles 1ª parte más/menos: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 72% | 71% | 71% | 1.33 | -5% |
-| Goles del local: Más de 0.5 | 71% | 66% | 68% | 1.40 | -4% |
-| Goles del local: Más de 1.5 | 35% | 31% | 33% | 3.00 | -1% |
-| Goles del local: Menos de 0.5 | 29% | 34% | 32% | 2.75 | -13% |
-| Goles del local: Menos de 1.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles del visitante: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del visitante: Más de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del visitante: Más de 3.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles del visitante: Más de 4.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles del visitante: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -14% |
-| Goles del visitante: Menos de 2.5 | 39% | 42% | 41% | 2.20 | -11% |
-| Goles del visitante: Menos de 3.5 | 61% | 62% | 62% | 1.50 | -7% |
-| Goles del visitante: Menos de 4.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Córners más/menos: Más de 10.5 | 50% | 50% | 50% | 1.83 | -9% |
-| Córners más/menos: Menos de 10.5 | 50% | 50% | 50% | 1.83 | -8% |
-| 1X2 descanso: 2 | 57% | 58% | 57% | 1.62 | -7% |
-| 1X2 descanso: X | 29% | 29% | 29% | 3.20 | -8% |
+| 1X2: 2 | 81% | 75% | 78% | 1.25 | -3% |
+| 1X2: X | 11% | 15% | 13% | 6.25 | -18% |
+| 1X2: 1 | 8% | 10% | 9% | 9.00 | -17% |
+| Doble oportunidad: X2 | 92% | 89% | 91% | 1.07 | -3% |
+| Doble oportunidad: 12 | 89% | 85% | 87% | 1.12 | -2% |
+| Doble oportunidad: 1X | 19% | 25% | 22% | 3.75 | -16% |
+| Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
+| Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
+| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -2% |
+| Goles más/menos: Más de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
+| Goles más/menos: Más de 4.5 | 46% | 41% | 44% | 2.30 | +1% |
+| Goles más/menos: Más de 5.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles más/menos: Menos de 3.5 | 35% | 41% | 38% | 2.30 | -12% |
+| Goles más/menos: Menos de 4.5 | 54% | 59% | 56% | 1.62 | -9% |
+| Goles más/menos: Menos de 5.5 | 71% | 75% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles del local: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles del local: Más de 1.5 | 29% | 31% | 30% | 3.00 | -9% |
+| Goles del local: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles del local: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
+| Goles del visitante: Más de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
+| Goles del visitante: Más de 2.5 | 66% | 58% | 62% | 1.62 | -0% |
+| Goles del visitante: Más de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
+| Goles del visitante: Más de 4.5 | 25% | 21% | 23% | 4.50 | +4% |
+| Goles del visitante: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -20% |
+| Goles del visitante: Menos de 2.5 | 34% | 42% | 38% | 2.20 | -16% |
+| Goles del visitante: Menos de 3.5 | 56% | 62% | 59% | 1.50 | -11% |
+| Goles del visitante: Menos de 4.5 | 75% | 79% | 77% | 1.18 | -9% |
+| Córners más/menos: Más de 10.5 | 51% | 50% | 51% | 1.83 | -8% |
+| Córners más/menos: Menos de 10.5 | 49% | 50% | 49% | 1.83 | -9% |
+| 1X2 descanso: 2 | 62% | 58% | 60% | 1.62 | -3% |
+| 1X2 descanso: X | 26% | 29% | 28% | 3.20 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

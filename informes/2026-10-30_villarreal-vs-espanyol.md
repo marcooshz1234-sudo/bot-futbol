@@ -1,7 +1,7 @@
 # Villarreal – Espanyol
 **LaLiga** · Regular Season - 11 · 30/10/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -186,39 +186,39 @@ _Sin bajas comunicadas por ahora._
 | Rafael Bauzà | M | 4 | 107 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,05 · visitante 0,89 · córners esperados 9,8._
+_Goles esperados: local 2,01 · visitante 0,94 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 17% | 16% | 5.50 | -11% |
-| 1X2: X | 20% | 21% | 21% | 4.33 | -10% |
-| 1X2: 1 | 64% | 62% | 63% | 1.50 | -6% |
-| Doble oportunidad: X2 | 36% | 38% | 37% | 2.50 | -8% |
-| Doble oportunidad: 12 | 80% | 79% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 84% | 83% | 84% | 1.14 | -4% |
-| Ambos marcan: No | 49% | 44% | 46% | 2.10 | -3% |
-| Ambos marcan: Sí | 51% | 56% | 54% | 1.67 | -10% |
+| 1X2: 2 | 17% | 17% | 17% | 5.50 | -7% |
+| 1X2: X | 21% | 21% | 21% | 4.33 | -8% |
+| 1X2: 1 | 62% | 62% | 62% | 1.50 | -7% |
+| Doble oportunidad: X2 | 38% | 38% | 38% | 2.50 | -5% |
+| Doble oportunidad: 12 | 79% | 79% | 79% | 1.20 | -5% |
+| Doble oportunidad: 1X | 83% | 83% | 83% | 1.14 | -5% |
+| Ambos marcan: No | 47% | 44% | 46% | 2.10 | -4% |
+| Ambos marcan: Sí | 53% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 3.5 | 34% | 40% | 37% | 2.38 | -12% |
 | Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
 | Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +2% |
 | Goles más/menos: Menos de 3.5 | 66% | 60% | 63% | 1.57 | -1% |
 | Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 1.5 | 61% | 62% | 62% | 1.50 | -8% |
-| Goles del local: Más de 2.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles del local: Menos de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles del local: Menos de 2.5 | 66% | 62% | 64% | 1.50 | -3% |
-| Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 1.5 | 23% | 28% | 25% | 3.40 | -15% |
-| Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | +0% |
-| Goles del visitante: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: X | 39% | 36% | 38% | 2.60 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
+| Goles del local: Más de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
+| Goles del local: Más de 2.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles del local: Menos de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles del local: Menos de 2.5 | 67% | 62% | 65% | 1.50 | -3% |
+| Goles del visitante: Más de 0.5 | 61% | 65% | 63% | 1.44 | -10% |
+| Goles del visitante: Más de 1.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles del visitante: Menos de 0.5 | 39% | 35% | 37% | 2.62 | -2% |
+| Goles del visitante: Menos de 1.5 | 76% | 72% | 74% | 1.30 | -4% |
+| Córners más/menos: Más de 9.5 | 49% | 50% | 50% | 1.83 | -9% |
+| Córners más/menos: Menos de 9.5 | 51% | 50% | 50% | 1.83 | -8% |
+| 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
 | 1X2 descanso: 1 | 45% | 47% | 46% | 2.00 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

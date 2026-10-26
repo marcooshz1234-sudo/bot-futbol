@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 76 · aciertos: 43 (57%) · beneficio a 1 € por pick: -16.65 €
+Picks ya jugados: 80 · aciertos: 47 (59%) · beneficio a 1 € por pick: -15.36 €
 
 ## Por tipo
 
@@ -9,7 +9,7 @@ Picks ya jugados: 76 · aciertos: 43 (57%) · beneficio a 1 € por pick: -16.65
 | resultado | 12 | 17 | 71% | -0.87 € |
 | jugador | 6 | 9 | 67% | -0.84 € |
 | tiros | 2 | 3 | 67% | +0.53 € |
-| goles | 21 | 40 | 52% | -11.64 € |
+| goles | 25 | 44 | 57% | -10.35 € |
 | tarjetas | 2 | 4 | 50% | -0.83 € |
 | corners | 0 | 1 | 0% | -1.00 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
@@ -20,17 +20,17 @@ Picks ya jugados: 76 · aciertos: 43 (57%) · beneficio a 1 € por pick: -16.65
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
 | Double Chance · Draw/Away | 3 | 3 | 100% |
-| Goals Over/Under · Over 1.5 | 4 | 6 | 67% |
+| Goals Over/Under · Over 1.5 | 6 | 8 | 75% |
 | Double Chance · Home/Away | 7 | 11 | 64% |
 | Total - Away · Over 0.5 | 5 | 9 | 56% |
-| Goals Over/Under First Half · Over 0.5 | 4 | 8 | 50% |
+| Goals Over/Under First Half · Over 0.5 | 5 | 9 | 56% |
 | Both Teams Score · Yes | 2 | 4 | 50% |
 | Goals Over/Under · Over 2.5 | 3 | 6 | 50% |
 | Goals Over/Under - Second Half · Over 0.5 | 1 | 3 | 33% |
 
 ## Últimos días
 
-### 2026-10-25 · 21/42
+### 2026-10-25 · 25/46
 - ✅ Más de 2,5 goles en Inter–Fiorentina · 1.44 (2-1)
 - ✅ Inter marca 2 o más · 1.33 (2-1)
 - ❌ Athletic Club ve más de 1,5 tarjetas · 1.73 (4-0)
@@ -73,6 +73,10 @@ Picks ya jugados: 76 · aciertos: 43 (57%) · beneficio a 1 € por pick: -16.65
 - ✅ Leeds o empate · 1.40 (0-0)
 - ❌ Más de 1,5 goles en Sunderland–Leeds · 1.36 (0-0)
 - ✅ Jayden Bogle comete 1+ faltas · 1.30 (0-0)
+- ✅ Más de 1,5 goles en Lecce–Juventus · 1.25 (0-2)
+- ✅ Gol en la 1ª parte del Lecce–Juventus · 1.36 (0-2)
+- ✅ Más de 1,5 goles en Udinese–AC Milan · 1.28 (0-2)
+- ✅ Ambos marcan y más de 2,5 goles en Barcelona–Real Madrid · 1.40 (1-2)
 
 ### 2026-10-24 · 13/23
 - ✅ No hay empate en Aston Villa–Manchester City · 1.25 (2-1)

@@ -1,7 +1,7 @@
 # Udinese – AS Roma
 **Serie A** · Regular Season - 10 · 31/10/2026 18:00 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -11,52 +11,52 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Udinese (total) | Udinese en casa | AS Roma (total) | AS Roma fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 11 | 5 |
-| Forma (últimos 5) | DDDDD | DDDE | EVVDE | EEVEV |
-| Balance | 1V 1E 5D | 0V 1E 3D | 6V 4E 1D | 2V 3E 0D |
-| Goles a favor / partido | 1,29 | 0,50 | 2,45 | 2,00 |
-| Goles en contra / partido | 2,29 | 1,75 | 1,00 | 0,80 |
-| Goles a favor 1ª parte | 1,00 | 0,25 | 1,00 | 1,00 |
-| Goles a favor 2ª parte | 0,29 | 0,25 | 1,45 | 1,00 |
-| Goles en contra 1ª parte | 0,86 | 0,50 | 0,18 | 0,20 |
-| Goles en contra 2ª parte | 1,43 | 1,25 | 0,82 | 0,60 |
-| Más de 1,5 goles | 86% | 75% | 91% | 80% |
-| Más de 2,5 goles | 71% | 50% | 64% | 40% |
-| Más de 3,5 goles | 29% | 0% | 55% | 40% |
-| Ambos marcan | 71% | 50% | 45% | 40% |
+| Partidos analizados | 8 | 5 | 11 | 5 |
+| Forma (últimos 5) | DDDDD | DDDDE | EVVDE | EEVEV |
+| Balance | 1V 1E 6D | 0V 1E 4D | 6V 4E 1D | 2V 3E 0D |
+| Goles a favor / partido | 1,12 | 0,40 | 2,45 | 2,00 |
+| Goles en contra / partido | 2,25 | 1,80 | 1,00 | 0,80 |
+| Goles a favor 1ª parte | 0,88 | 0,20 | 1,00 | 1,00 |
+| Goles a favor 2ª parte | 0,25 | 0,20 | 1,45 | 1,00 |
+| Goles en contra 1ª parte | 0,88 | 0,60 | 0,18 | 0,20 |
+| Goles en contra 2ª parte | 1,38 | 1,20 | 0,82 | 0,60 |
+| Más de 1,5 goles | 88% | 80% | 91% | 80% |
+| Más de 2,5 goles | 62% | 40% | 64% | 40% |
+| Más de 3,5 goles | 25% | 0% | 55% | 40% |
+| Ambos marcan | 62% | 40% | 45% | 40% |
 | Portería a cero | 0% | 0% | 55% | 60% |
-| Se queda sin marcar | 29% | 50% | 9% | 20% |
-| xG a favor | 1,19 | 1,42 | 2,03 | 1,72 |
-| xG en contra | 2,18 | 1,98 | 1,17 | 1,40 |
-| Tiros / partido | 14,3 | 16,8 | 18,1 | 14,0 |
-| Tiros a puerta / partido | 3,9 | 4,0 | 6,0 | 4,4 |
-| Tiros recibidos | 16,4 | 15,2 | 10,6 | 12,0 |
-| Tiros a puerta recibidos | 6,6 | 6,2 | 4,0 | 4,8 |
-| Posesión media % | 51 | 53 | 58 | 53 |
-| Córners a favor | 3,9 | 5,0 | 5,7 | 5,0 |
-| Córners en contra | 5,7 | 5,8 | 2,8 | 2,4 |
-| Córners a favor 1ª parte | 1,9 | 1,5 | 2,6 | 2,2 |
-| Córners a favor 2ª parte | 2,0 | 3,5 | 3,1 | 2,8 |
-| Córners totales del partido | 9,6 | 10,8 | 8,5 | 7,4 |
-| Córners totales 1ª parte | 4,0 | 3,8 | 3,6 | 3,0 |
-| Córners totales 2ª parte | 5,6 | 7,0 | 4,9 | 4,4 |
-| Más de 8,5 córners | 57% | 75% | 45% | 40% |
-| Más de 9,5 córners | 57% | 75% | 27% | 20% |
-| Más de 10,5 córners | 43% | 50% | 27% | 20% |
-| Faltas cometidas | 11,0 | 11,5 | 12,6 | 13,4 |
-| Faltas recibidas | 8,9 | 9,8 | 8,7 | 8,6 |
-| Amarillas propias | 1,9 | 2,8 | 2,0 | 2,4 |
-| Amarillas del rival | 0,4 | 0,2 | 1,9 | 1,6 |
+| Se queda sin marcar | 38% | 60% | 9% | 20% |
+| xG a favor | 1,10 | 1,22 | 2,03 | 1,72 |
+| xG en contra | 2,31 | 2,21 | 1,17 | 1,40 |
+| Tiros / partido | 14,0 | 15,8 | 18,1 | 14,0 |
+| Tiros a puerta / partido | 4,0 | 4,2 | 6,0 | 4,4 |
+| Tiros recibidos | 16,8 | 16,0 | 10,6 | 12,0 |
+| Tiros a puerta recibidos | 6,6 | 6,4 | 4,0 | 4,8 |
+| Posesión media % | 50 | 51 | 58 | 53 |
+| Córners a favor | 4,0 | 5,0 | 5,7 | 5,0 |
+| Córners en contra | 5,5 | 5,4 | 2,8 | 2,4 |
+| Córners a favor 1ª parte | 1,8 | 1,4 | 2,6 | 2,2 |
+| Córners a favor 2ª parte | 2,2 | 3,6 | 3,1 | 2,8 |
+| Córners totales del partido | 9,5 | 10,4 | 8,5 | 7,4 |
+| Córners totales 1ª parte | 3,9 | 3,6 | 3,6 | 3,0 |
+| Córners totales 2ª parte | 5,6 | 6,8 | 4,9 | 4,4 |
+| Más de 8,5 córners | 62% | 80% | 45% | 40% |
+| Más de 9,5 córners | 50% | 60% | 27% | 20% |
+| Más de 10,5 córners | 38% | 40% | 27% | 20% |
+| Faltas cometidas | 11,0 | 11,4 | 12,6 | 13,4 |
+| Faltas recibidas | 9,4 | 10,4 | 8,7 | 8,6 |
+| Amarillas propias | 1,8 | 2,4 | 2,0 | 2,4 |
+| Amarillas del rival | 0,6 | 0,6 | 1,9 | 1,6 |
 | Rojas / partido | 0,00 | 0,00 | 0,09 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Udinese | Recibe Udinese | Tarjetas Udinese | Goles AS Roma | Recibe AS Roma | Tarjetas AS Roma |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 2 | 2 | 0 | 1 |
+| 1-15' | 1 | 2 | 2 | 2 | 0 | 1 |
 | 16-30' | 2 | 1 | 3 | 5 | 2 | 1 |
-| 31-45' | 4 | 4 | 4 | 4 | 0 | 3 |
+| 31-45' | 4 | 4 | 5 | 4 | 0 | 3 |
 | 46-60' | 1 | 3 | 0 | 7 | 4 | 6 |
-| 61-75' | 0 | 4 | 1 | 5 | 0 | 6 |
+| 61-75' | 0 | 5 | 1 | 5 | 0 | 6 |
 | 76-90' | 1 | 3 | 3 | 5 | 5 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -75,36 +75,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Udinese
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Serie A | Udinese 0-2 AC Milan | casa | 5-4 | 12 (5) - 19 (7) | 1-2 |
 | 2026-10-18 | Serie A | Udinese 0-3 Lecce | casa | 1-4 | 14 (2) - 17 (11) | 1-0 |
 | 2026-10-12 | Serie A | Torino 2-1 Udinese | fuera | 3-4 | 15 (1) - 12 (4) | 1-0 |
 | 2026-09-19 | Serie A | Udinese 0-1 Cagliari | casa | 16-1 | 26 (5) - 5 (2) | 2-0 |
 | 2026-09-14 | Serie A | Inter 5-3 Udinese | fuera | 1-10 | 6 (5) - 27 (12) | 1-1 |
 | 2026-09-07 | Serie A | Udinese 1-2 Lazio | casa | 2-8 | 10 (6) - 19 (6) | 5-1 |
-| 2026-08-29 | Serie A | Monza 2-3 Udinese | fuera | 3-3 | 12 (5) - 15 (5) | 0-1 |
 
 ## Jugadores de Udinese
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Maduka Okoye | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| Jesper Karlström | M | 7 | 630 | 1 | 0 | 3 | 0,4 | 2 | 0,3 | 6 | 3 | 0,4 | 2 | 0 |
-| Jürgen Ekkelenkamp | F | 7 | 615 | 3 | 1 | 13 | 1,9 | 5 | 0,7 | 3 | 6 | 0,9 | 0 | 0 |
-| Mërgim Vojvoda | M | 7 | 591 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 0 | 5 | 0,7 | 0 | 0 |
-| Hassane Kamara | M | 7 | 557 | 2 | 1 | 7 | 1,0 | 5 | 0,7 | 5 | 4 | 0,6 | 1 | 0 |
+| M. Okoye | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| J. Karlström | M | 8 | 713 | 1 | 0 | 4 | 0,5 | 3 | 0,4 | 8 | 3 | 0,4 | 3 | 0 |
+| J. Ekkelenkamp | M | 8 | 705 | 3 | 1 | 14 | 1,8 | 5 | 0,6 | 4 | 6 | 0,8 | 0 | 0 |
+| M. Vojvoda | M | 8 | 654 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 1 | 6 | 0,8 | 0 | 0 |
+| H. Kamara | M | 8 | 621 | 2 | 1 | 10 | 1,2 | 7 | 0,9 | 5 | 4 | 0,5 | 1 | 0 |
+| J. Abankwah | D | 7 | 586 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 8 | 7 | 1,0 | 1 | 0 |
 | Enzo Ebosse | D | 7 | 537 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 1 | 0,1 | 0 | 0 |
-| James Abankwah | D | 6 | 496 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 8 | 5 | 0,8 | 1 | 0 |
+| K. Davis | F | 7 | 452 | 0 | 2 | 9 | 1,3 | 3 | 0,4 | 3 | 3 | 0,4 | 1 | 0 |
 | Oumar Solet | D | 5 | 398 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 7 | 3 | 0,6 | 0 | 0 |
-| Keinan Davis | F | 6 | 369 | 0 | 2 | 7 | 1,2 | 2 | 0,3 | 1 | 2 | 0,3 | 1 | 0 |
 | Unai Gómez | M | 7 | 308 | 0 | 1 | 4 | 0,6 | 1 | 0,1 | 4 | 6 | 0,9 | 1 | 0 |
-| Lennon Miller | M | 5 | 254 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 12 | 3 | 0,6 | 1 | 0 |
-| Giorgi Chakvetadze | F | 4 | 216 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
-| Christian Kabasele | D | 3 | 213 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 4 | 1,3 | 0 | 0 |
-| Jakub Piotrowski | M | 4 | 191 | 1 | 0 | 3 | 0,8 | 1 | 0,2 | 4 | 4 | 1,0 | 2 | 0 |
+| G. Chakvetadze | M | 5 | 306 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
+| C. Kabasele | D | 4 | 303 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 5 | 9 | 2,2 | 0 | 0 |
+| L. Miller | M | 6 | 299 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 13 | 3 | 0,5 | 1 | 0 |
+| J. Piotrowski | M | 5 | 236 | 1 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 5 | 1,0 | 2 | 0 |
+| M. Palma | D | 3 | 180 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
 | Idrissa Gueye | F | 4 | 176 | 1 | 0 | 10 | 2,5 | 5 | 1,2 | 3 | 2 | 0,5 | 0 | 0 |
 | Oier Zarraga | M | 5 | 162 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
-| Nicolò Zaniolo | F | 2 | 134 | 0 | 0 | 3 | 1,5 | 0 | 0,0 | 4 | 3 | 1,5 | 1 | 0 |
+| N. Zaniolo | M | 3 | 161 | 0 | 0 | 4 | 1,3 | 0 | 0,0 | 4 | 3 | 1,0 | 1 | 0 |
 | Vakoun Issouf Bayo | F | 4 | 92 | 0 | 1 | 3 | 0,8 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
-| Matteo Palma | D | 2 | 90 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
-| Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
+| J. Arizala | M | 4 | 90 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de AS Roma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -141,14 +141,12 @@ _Sin bajas comunicadas por ahora._
 | D. Ghilardi | D | 6 | 240 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 3 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 2,38 · córners esperados 9,4._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 0,92 · visitante 2,60 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 68% | 62% | 65% | 1.50 | -3% |
-| 1X2: X | 18% | 23% | 20% | 4.10 | -17% |
-| 1X2: 1 | 14% | 15% | 15% | 6.00 | -11% |
+| 1X2: 2 | 73% | 62% | 68% | 1.50 | +1% |
+| 1X2: X | 16% | 23% | 19% | 4.10 | -22% |
+| 1X2: 1 | 11% | 15% | 13% | 6.00 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

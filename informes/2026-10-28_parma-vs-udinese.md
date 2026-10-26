@@ -1,17 +1,17 @@
 # Parma – Udinese
-**Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Stadio Ennio Tardini
+**Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 02:05_
 
 - **1X2:** 1 **3.00**  ·  X **3.20**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.36**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.36** · menos **3.20**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.40** · menos **3.00**
     - 2,5: más **2.20** · menos **1.67**
     - 3,5: más **4.00** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
@@ -57,52 +57,52 @@ _Actualizadas: 25/10 16:16_
 ## Estadísticas de equipo
 | | Parma (total) | Parma en casa | Udinese (total) | Udinese fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 7 | 3 |
+| Partidos analizados | 8 | 4 | 8 | 3 |
 | Forma (últimos 5) | DDDVD | DVED | DDDDD | DDV |
-| Balance | 1V 1E 6D | 1V 1E 2D | 1V 1E 5D | 1V 0E 2D |
-| Goles a favor / partido | 0,62 | 0,75 | 1,29 | 2,33 |
-| Goles en contra / partido | 1,88 | 1,50 | 2,29 | 3,00 |
-| Goles a favor 1ª parte | 0,12 | 0,25 | 1,00 | 2,00 |
-| Goles a favor 2ª parte | 0,50 | 0,50 | 0,29 | 0,33 |
-| Goles en contra 1ª parte | 0,88 | 0,75 | 0,86 | 1,33 |
-| Goles en contra 2ª parte | 1,00 | 0,75 | 1,43 | 1,67 |
-| Más de 1,5 goles | 88% | 75% | 86% | 100% |
-| Más de 2,5 goles | 62% | 50% | 71% | 100% |
-| Más de 3,5 goles | 0% | 0% | 29% | 67% |
-| Ambos marcan | 50% | 50% | 71% | 100% |
+| Balance | 1V 1E 6D | 1V 1E 2D | 1V 1E 6D | 1V 0E 2D |
+| Goles a favor / partido | 0,62 | 0,75 | 1,12 | 2,33 |
+| Goles en contra / partido | 1,88 | 1,50 | 2,25 | 3,00 |
+| Goles a favor 1ª parte | 0,12 | 0,25 | 0,88 | 2,00 |
+| Goles a favor 2ª parte | 0,50 | 0,50 | 0,25 | 0,33 |
+| Goles en contra 1ª parte | 0,88 | 0,75 | 0,88 | 1,33 |
+| Goles en contra 2ª parte | 1,00 | 0,75 | 1,38 | 1,67 |
+| Más de 1,5 goles | 88% | 75% | 88% | 100% |
+| Más de 2,5 goles | 62% | 50% | 62% | 100% |
+| Más de 3,5 goles | 0% | 0% | 25% | 67% |
+| Ambos marcan | 50% | 50% | 62% | 100% |
 | Portería a cero | 0% | 0% | 0% | 0% |
-| Se queda sin marcar | 50% | 50% | 29% | 0% |
-| xG a favor | 0,79 | 0,91 | 1,19 | 0,89 |
-| xG en contra | 1,72 | 1,23 | 2,18 | 2,46 |
-| Tiros / partido | 10,6 | 12,5 | 14,3 | 11,0 |
-| Tiros a puerta / partido | 3,5 | 3,8 | 3,9 | 3,7 |
-| Tiros recibidos | 17,6 | 12,8 | 16,4 | 18,0 |
+| Se queda sin marcar | 50% | 50% | 38% | 0% |
+| xG a favor | 0,79 | 0,91 | 1,10 | 0,89 |
+| xG en contra | 1,72 | 1,23 | 2,31 | 2,46 |
+| Tiros / partido | 10,6 | 12,5 | 14,0 | 11,0 |
+| Tiros a puerta / partido | 3,5 | 3,8 | 4,0 | 3,7 |
+| Tiros recibidos | 17,6 | 12,8 | 16,8 | 18,0 |
 | Tiros a puerta recibidos | 5,2 | 4,5 | 6,6 | 7,0 |
-| Posesión media % | 42 | 47 | 51 | 48 |
-| Córners a favor | 3,4 | 4,2 | 3,9 | 2,3 |
-| Córners en contra | 5,5 | 3,0 | 5,7 | 5,7 |
-| Córners a favor 1ª parte | 1,6 | 1,2 | 1,9 | 2,3 |
-| Córners a favor 2ª parte | 1,8 | 3,0 | 2,0 | 0,0 |
-| Córners totales del partido | 8,9 | 7,2 | 9,6 | 8,0 |
-| Córners totales 1ª parte | 4,8 | 3,2 | 4,0 | 4,3 |
+| Posesión media % | 42 | 47 | 50 | 48 |
+| Córners a favor | 3,4 | 4,2 | 4,0 | 2,3 |
+| Córners en contra | 5,5 | 3,0 | 5,5 | 5,7 |
+| Córners a favor 1ª parte | 1,6 | 1,2 | 1,8 | 2,3 |
+| Córners a favor 2ª parte | 1,8 | 3,0 | 2,2 | 0,0 |
+| Córners totales del partido | 8,9 | 7,2 | 9,5 | 8,0 |
+| Córners totales 1ª parte | 4,8 | 3,2 | 3,9 | 4,3 |
 | Córners totales 2ª parte | 4,1 | 4,0 | 5,6 | 3,7 |
-| Más de 8,5 córners | 50% | 25% | 57% | 33% |
-| Más de 9,5 córners | 38% | 0% | 57% | 33% |
-| Más de 10,5 córners | 38% | 0% | 43% | 33% |
+| Más de 8,5 córners | 50% | 25% | 62% | 33% |
+| Más de 9,5 córners | 38% | 0% | 50% | 33% |
+| Más de 10,5 córners | 38% | 0% | 38% | 33% |
 | Faltas cometidas | 10,4 | 11,5 | 11,0 | 10,3 |
-| Faltas recibidas | 14,4 | 16,5 | 8,9 | 7,7 |
-| Amarillas propias | 1,5 | 2,0 | 1,9 | 0,7 |
-| Amarillas del rival | 1,6 | 2,2 | 0,4 | 0,7 |
+| Faltas recibidas | 14,4 | 16,5 | 9,4 | 7,7 |
+| Amarillas propias | 1,5 | 2,0 | 1,8 | 0,7 |
+| Amarillas del rival | 1,6 | 2,2 | 0,6 | 0,7 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Parma | Recibe Parma | Tarjetas Parma | Goles Udinese | Recibe Udinese | Tarjetas Udinese |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 2 | 1 | 1 | 1 | 2 |
+| 1-15' | 0 | 2 | 1 | 1 | 2 | 2 |
 | 16-30' | 0 | 3 | 1 | 2 | 1 | 3 |
-| 31-45' | 1 | 2 | 1 | 4 | 4 | 4 |
+| 31-45' | 1 | 2 | 1 | 4 | 4 | 5 |
 | 46-60' | 1 | 2 | 2 | 1 | 3 | 0 |
-| 61-75' | 0 | 3 | 1 | 0 | 4 | 1 |
+| 61-75' | 0 | 3 | 1 | 0 | 5 | 1 |
 | 76-90' | 3 | 3 | 6 | 1 | 3 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -155,74 +155,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Udinese
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Serie A | Udinese 0-2 AC Milan | casa | 5-4 | 12 (5) - 19 (7) | 1-2 |
 | 2026-10-18 | Serie A | Udinese 0-3 Lecce | casa | 1-4 | 14 (2) - 17 (11) | 1-0 |
 | 2026-10-12 | Serie A | Torino 2-1 Udinese | fuera | 3-4 | 15 (1) - 12 (4) | 1-0 |
 | 2026-09-19 | Serie A | Udinese 0-1 Cagliari | casa | 16-1 | 26 (5) - 5 (2) | 2-0 |
 | 2026-09-14 | Serie A | Inter 5-3 Udinese | fuera | 1-10 | 6 (5) - 27 (12) | 1-1 |
 | 2026-09-07 | Serie A | Udinese 1-2 Lazio | casa | 2-8 | 10 (6) - 19 (6) | 5-1 |
-| 2026-08-29 | Serie A | Monza 2-3 Udinese | fuera | 3-3 | 12 (5) - 15 (5) | 0-1 |
 
 ## Jugadores de Udinese
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Maduka Okoye | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| Jesper Karlström | M | 7 | 630 | 1 | 0 | 3 | 0,4 | 2 | 0,3 | 6 | 3 | 0,4 | 2 | 0 |
-| Jürgen Ekkelenkamp | F | 7 | 615 | 3 | 1 | 13 | 1,9 | 5 | 0,7 | 3 | 6 | 0,9 | 0 | 0 |
-| Mërgim Vojvoda | M | 7 | 591 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 0 | 5 | 0,7 | 0 | 0 |
-| Hassane Kamara | M | 7 | 557 | 2 | 1 | 7 | 1,0 | 5 | 0,7 | 5 | 4 | 0,6 | 1 | 0 |
+| M. Okoye | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| J. Karlström | M | 8 | 713 | 1 | 0 | 4 | 0,5 | 3 | 0,4 | 8 | 3 | 0,4 | 3 | 0 |
+| J. Ekkelenkamp | M | 8 | 705 | 3 | 1 | 14 | 1,8 | 5 | 0,6 | 4 | 6 | 0,8 | 0 | 0 |
+| M. Vojvoda | M | 8 | 654 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 1 | 6 | 0,8 | 0 | 0 |
+| H. Kamara | M | 8 | 621 | 2 | 1 | 10 | 1,2 | 7 | 0,9 | 5 | 4 | 0,5 | 1 | 0 |
+| J. Abankwah | D | 7 | 586 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 8 | 7 | 1,0 | 1 | 0 |
 | Enzo Ebosse | D | 7 | 537 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 1 | 0,1 | 0 | 0 |
-| James Abankwah | D | 6 | 496 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 8 | 5 | 0,8 | 1 | 0 |
+| K. Davis | F | 7 | 452 | 0 | 2 | 9 | 1,3 | 3 | 0,4 | 3 | 3 | 0,4 | 1 | 0 |
 | Oumar Solet | D | 5 | 398 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 7 | 3 | 0,6 | 0 | 0 |
-| Keinan Davis | F | 6 | 369 | 0 | 2 | 7 | 1,2 | 2 | 0,3 | 1 | 2 | 0,3 | 1 | 0 |
 | Unai Gómez | M | 7 | 308 | 0 | 1 | 4 | 0,6 | 1 | 0,1 | 4 | 6 | 0,9 | 1 | 0 |
-| Lennon Miller | M | 5 | 254 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 12 | 3 | 0,6 | 1 | 0 |
-| Giorgi Chakvetadze | F | 4 | 216 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
-| Christian Kabasele | D | 3 | 213 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 4 | 1,3 | 0 | 0 |
-| Jakub Piotrowski | M | 4 | 191 | 1 | 0 | 3 | 0,8 | 1 | 0,2 | 4 | 4 | 1,0 | 2 | 0 |
+| G. Chakvetadze | M | 5 | 306 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
+| C. Kabasele | D | 4 | 303 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 5 | 9 | 2,2 | 0 | 0 |
+| L. Miller | M | 6 | 299 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 13 | 3 | 0,5 | 1 | 0 |
+| J. Piotrowski | M | 5 | 236 | 1 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 5 | 1,0 | 2 | 0 |
+| M. Palma | D | 3 | 180 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
 | Idrissa Gueye | F | 4 | 176 | 1 | 0 | 10 | 2,5 | 5 | 1,2 | 3 | 2 | 0,5 | 0 | 0 |
 | Oier Zarraga | M | 5 | 162 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
-| Nicolò Zaniolo | F | 2 | 134 | 0 | 0 | 3 | 1,5 | 0 | 0,0 | 4 | 3 | 1,5 | 1 | 0 |
+| N. Zaniolo | M | 3 | 161 | 0 | 0 | 4 | 1,3 | 0 | 0,0 | 4 | 3 | 1,0 | 1 | 0 |
 | Vakoun Issouf Bayo | F | 4 | 92 | 0 | 1 | 3 | 0,8 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
-| Matteo Palma | D | 2 | 90 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
-| Nicolò Bertola | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 2 | 0 |
+| J. Arizala | M | 4 | 90 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,13 · córners esperados 9,2._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,30 · visitante 1,12 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 39% | 36% | 2.40 | -14% |
+| 1X2: 2 | 32% | 39% | 36% | 2.40 | -15% |
 | 1X2: X | 27% | 29% | 28% | 3.20 | -9% |
-| 1X2: 1 | 40% | 31% | 36% | 3.00 | +7% |
-| Doble oportunidad: X2 | 60% | 69% | 65% | 1.36 | -12% |
+| 1X2: 1 ✅ | 41% | 31% | 36% | 3.00 | +8% |
+| Doble oportunidad: X2 | 59% | 69% | 64% | 1.36 | -13% |
 | Doble oportunidad: 12 | 73% | 69% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 67% | 62% | 64% | 1.53 | -1% |
+| Doble oportunidad: 1X | 68% | 62% | 65% | 1.53 | -1% |
 | Ambos marcan: No | 51% | 50% | 50% | 1.91 | -4% |
 | Ambos marcan: Sí | 49% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Más de 1.5 | 70% | 70% | 70% | 1.36 | -5% |
-| Goles más/menos: Más de 2.5 | 43% | 43% | 43% | 2.20 | -5% |
-| Goles más/menos: Más de 3.5 | 22% | 24% | 23% | 4.00 | -7% |
-| Goles más/menos: Menos de 1.5 | 30% | 30% | 30% | 3.20 | -4% |
-| Goles más/menos: Menos de 2.5 | 57% | 57% | 57% | 1.67 | -5% |
-| Goles más/menos: Menos de 3.5 | 78% | 76% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 65% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 29% | 28% | 3.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
-| Goles del local: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
-| Goles del local: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles del local: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
-| Goles del local: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
-| Córners más/menos: Más de 9.5 | 43% | 46% | 44% | 2.00 | -11% |
-| Córners más/menos: Menos de 9.5 | 57% | 54% | 56% | 1.73 | -4% |
+| Goles más/menos: Más de 1.5 | 70% | 68% | 69% | 1.40 | -4% |
+| Goles más/menos: Más de 2.5 | 44% | 43% | 43% | 2.20 | -5% |
+| Goles más/menos: Más de 3.5 | 23% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 30% | 32% | 31% | 3.00 | -7% |
+| Goles más/menos: Menos de 2.5 | 56% | 57% | 57% | 1.67 | -5% |
+| Goles más/menos: Menos de 3.5 | 77% | 76% | 77% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 65% | 65% | 1.44 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 29% | 29% | 3.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 71% | 71% | 1.33 | -5% |
+| Goles del local: Más de 0.5 | 73% | 66% | 70% | 1.40 | -3% |
+| Goles del local: Más de 1.5 | 37% | 31% | 34% | 3.00 | +3% |
+| Goles del local: Menos de 0.5 | 27% | 34% | 30% | 2.75 | -16% |
+| Goles del local: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -11% |
+| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +2% |
+| Goles del visitante: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
 | 1X2 descanso: 2 | 25% | 30% | 27% | 3.10 | -16% |
-| 1X2 descanso: X | 46% | 45% | 45% | 2.05 | -7% |
-| 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -2% |
+| 1X2 descanso: X | 45% | 45% | 45% | 2.05 | -8% |
+| 1X2 descanso: 1 | 30% | 26% | 28% | 3.60 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Frosinone – Torino
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Casadei | M | 2 | 87 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,95 · visitante 1,71 · córners esperados 9,8._
+_Goles esperados: local 1,91 · visitante 1,76 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,58 +1,58 @@
 {
  "Goals Over/Under|Over 1.5": {
-  "n": 168,
-  "brier_frecuencia": 0.1585,
-  "brier_xg": 0.1515,
-  "peso_xg": 0.8,
-  "brier_mezcla": 0.1511
+  "n": 384,
+  "brier_frecuencia": 0.1741,
+  "brier_xg": 0.1644,
+  "peso_xg": 1.0,
+  "brier_mezcla": 0.1644
  },
  "Goals Over/Under|Over 2.5": {
-  "n": 168,
-  "brier_frecuencia": 0.2313,
-  "brier_xg": 0.2271,
-  "peso_xg": 0.7,
-  "brier_mezcla": 0.2257
+  "n": 384,
+  "brier_frecuencia": 0.2566,
+  "brier_xg": 0.2399,
+  "peso_xg": 1.0,
+  "brier_mezcla": 0.2399
  },
  "Goals Over/Under|Over 3.5": {
-  "n": 168,
-  "brier_frecuencia": 0.2338,
-  "brier_xg": 0.2264,
-  "peso_xg": 0.8,
-  "brier_mezcla": 0.2256
+  "n": 384,
+  "brier_frecuencia": 0.255,
+  "brier_xg": 0.2378,
+  "peso_xg": 1.0,
+  "brier_mezcla": 0.2378
  },
  "Both Teams Score|Yes": {
-  "n": 168,
-  "brier_frecuencia": 0.2511,
-  "brier_xg": 0.2379,
-  "peso_xg": 0.9,
-  "brier_mezcla": 0.2376
+  "n": 384,
+  "brier_frecuencia": 0.2626,
+  "brier_xg": 0.244,
+  "peso_xg": 1.0,
+  "brier_mezcla": 0.244
  },
  "Total - Home|Over 0.5": {
-  "n": 168,
-  "brier_frecuencia": 0.1601,
-  "brier_xg": 0.1525,
-  "peso_xg": 0.7,
-  "brier_mezcla": 0.1515
+  "n": 384,
+  "brier_frecuencia": 0.1667,
+  "brier_xg": 0.1551,
+  "peso_xg": 0.9,
+  "brier_mezcla": 0.1551
  },
  "Total - Away|Over 0.5": {
-  "n": 168,
-  "brier_frecuencia": 0.2179,
-  "brier_xg": 0.2008,
-  "peso_xg": 1.0,
-  "brier_mezcla": 0.2008
+  "n": 384,
+  "brier_frecuencia": 0.1984,
+  "brier_xg": 0.1891,
+  "peso_xg": 0.9,
+  "brier_mezcla": 0.1889
  },
  "Total - Home|Over 1.5": {
-  "n": 168,
-  "brier_frecuencia": 0.249,
-  "brier_xg": 0.2368,
+  "n": 384,
+  "brier_frecuencia": 0.2532,
+  "brier_xg": 0.2413,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.2368
+  "brier_mezcla": 0.2412
  },
  "Total - Away|Over 1.5": {
-  "n": 168,
-  "brier_frecuencia": 0.2468,
-  "brier_xg": 0.2352,
+  "n": 384,
+  "brier_frecuencia": 0.2466,
+  "brier_xg": 0.2362,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.2352
+  "brier_mezcla": 0.2359
  }
 }

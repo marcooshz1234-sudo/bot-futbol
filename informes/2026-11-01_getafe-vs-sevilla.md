@@ -1,7 +1,7 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -183,38 +183,38 @@ _Sin bajas comunicadas por ahora._
 | Nico Guillén | M | 2 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 1,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,98 · visitante 1,09 · córners esperados 8,5._
+_Goles esperados: local 0,96 · visitante 1,15 · córners esperados 8,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 36% | 37% | 2.55 | -6% |
+| 1X2: 2 | 40% | 36% | 38% | 2.55 | -3% |
 | 1X2: X | 30% | 31% | 30% | 3.00 | -9% |
-| 1X2: 1 | 32% | 33% | 32% | 2.80 | -9% |
-| Doble oportunidad: X2 | 68% | 68% | 68% | 1.40 | -5% |
+| 1X2: 1 | 30% | 33% | 32% | 2.80 | -11% |
+| Doble oportunidad: X2 | 70% | 68% | 69% | 1.40 | -4% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 62% | 63% | 63% | 1.50 | -6% |
-| Ambos marcan: No | 59% | 58% | 58% | 1.62 | -6% |
-| Ambos marcan: Sí | 41% | 42% | 42% | 2.20 | -8% |
-| Goles más/menos: Más de 1.5 | 61% | 62% | 62% | 1.53 | -6% |
-| Goles más/menos: Más de 2.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles más/menos: Menos de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles más/menos: Menos de 2.5 | 66% | 66% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 0.5 | 62% | 62% | 62% | 1.50 | -6% |
-| Goles del local: Más de 1.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles del local: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del local: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -4% |
-| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 71% | 71% | 1.33 | -6% |
-| Córners más/menos: Más de 8.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 8.5 | 55% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: 2 | 27% | 27% | 27% | 3.50 | -7% |
-| 1X2 descanso: X | 50% | 49% | 49% | 1.91 | -6% |
-| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -10% |
+| Doble oportunidad: 1X | 60% | 63% | 62% | 1.50 | -8% |
+| Ambos marcan: No | 58% | 58% | 58% | 1.62 | -6% |
+| Ambos marcan: Sí | 42% | 42% | 42% | 2.20 | -7% |
+| Goles más/menos: Más de 1.5 | 62% | 62% | 62% | 1.53 | -5% |
+| Goles más/menos: Más de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Menos de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles del local: Más de 0.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del local: Más de 1.5 | 25% | 28% | 26% | 3.40 | -11% |
+| Goles del local: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles del local: Menos de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
+| Goles del visitante: Más de 0.5 | 68% | 65% | 66% | 1.44 | -4% |
+| Goles del visitante: Más de 1.5 | 32% | 29% | 30% | 3.25 | -1% |
+| Goles del visitante: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -12% |
+| Goles del visitante: Menos de 1.5 | 68% | 71% | 70% | 1.33 | -7% |
+| Córners más/menos: Más de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Córners más/menos: Menos de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
+| 1X2 descanso: 2 | 28% | 27% | 27% | 3.50 | -4% |
+| 1X2 descanso: X | 49% | 49% | 49% | 1.91 | -7% |
+| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

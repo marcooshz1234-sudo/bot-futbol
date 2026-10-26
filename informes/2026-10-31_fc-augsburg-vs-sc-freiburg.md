@@ -1,7 +1,7 @@
 # FC Augsburg – SC Freiburg
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -192,46 +192,46 @@ _Sin bajas comunicadas por ahora._
 | R. Yamamoto | M | 1 | 32 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,09 · visitante 2,68 · córners esperados 10,0._
+_Goles esperados: local 2,03 · visitante 2,78 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 51% | 43% | 47% | 2.20 | +3% |
-| 1X2: X | 18% | 25% | 22% | 3.75 | -19% |
-| 1X2: 1 | 30% | 32% | 31% | 2.90 | -9% |
-| Doble oportunidad: X2 | 70% | 68% | 69% | 1.40 | -4% |
-| Doble oportunidad: 12 | 82% | 76% | 79% | 1.25 | -2% |
-| Doble oportunidad: 1X | 49% | 57% | 53% | 1.67 | -12% |
-| Ambos marcan: No | 18% | 35% | 27% | 2.62 | -29% |
-| Ambos marcan: Sí | 82% | 65% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 2.5 | 85% | 64% | 75% | 1.50 | +12% |
-| Goles más/menos: Más de 3.5 | 70% | 43% | 57% | 2.20 | +25% |
-| Goles más/menos: Más de 4.5 | 52% | 25% | 39% | 3.75 | +45% |
-| Goles más/menos: Menos de 2.5 | 15% | 36% | 25% | 2.62 | -33% |
-| Goles más/menos: Menos de 3.5 | 30% | 57% | 43% | 1.67 | -28% |
-| Goles más/menos: Menos de 4.5 | 48% | 75% | 61% | 1.28 | -21% |
-| Goles 1ª parte más/menos: Más de 0.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 60% | 44% | 52% | 2.10 | +9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 33% | 21% | 27% | 4.50 | +20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 56% | 48% | 1.67 | -20% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 67% | 79% | 73% | 1.18 | -14% |
-| Goles del local: Más de 0.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Goles del local: Más de 1.5 | 62% | 46% | 54% | 2.00 | +8% |
-| Goles del local: Más de 2.5 | 35% | 22% | 28% | 4.33 | +22% |
-| Goles del local: Menos de 0.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles del local: Menos de 1.5 | 38% | 54% | 46% | 1.73 | -21% |
-| Goles del local: Menos de 2.5 | 65% | 78% | 72% | 1.20 | -14% |
-| Goles del visitante: Más de 1.5 | 75% | 54% | 64% | 1.73 | +11% |
-| Goles del visitante: Más de 2.5 | 50% | 28% | 39% | 3.40 | +32% |
-| Goles del visitante: Menos de 1.5 | 25% | 46% | 36% | 2.00 | -28% |
-| Goles del visitante: Menos de 2.5 | 50% | 72% | 61% | 1.30 | -21% |
-| Córners más/menos: Más de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Córners más/menos: Menos de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
-| 1X2 descanso: 2 | 41% | 35% | 38% | 2.62 | -0% |
-| 1X2 descanso: X | 30% | 37% | 34% | 2.50 | -16% |
-| 1X2 descanso: 1 | 28% | 28% | 28% | 3.25 | -8% |
+| 1X2: 2 | 54% | 43% | 48% | 2.20 | +6% |
+| 1X2: X | 18% | 25% | 21% | 3.75 | -20% |
+| 1X2: 1 | 28% | 32% | 30% | 2.90 | -12% |
+| Doble oportunidad: X2 | 72% | 68% | 70% | 1.40 | -2% |
+| Doble oportunidad: 12 | 82% | 76% | 79% | 1.25 | -1% |
+| Doble oportunidad: 1X | 46% | 57% | 51% | 1.67 | -14% |
+| Ambos marcan: No | 19% | 35% | 27% | 2.62 | -29% |
+| Ambos marcan: Sí | 81% | 65% | 73% | 1.44 | +5% |
+| Goles más/menos: Más de 2.5 | 86% | 64% | 75% | 1.50 | +12% |
+| Goles más/menos: Más de 3.5 | 71% | 43% | 57% | 2.20 | +25% |
+| Goles más/menos: Más de 4.5 | 52% | 25% | 39% | 3.75 | +46% |
+| Goles más/menos: Menos de 2.5 | 14% | 36% | 25% | 2.62 | -34% |
+| Goles más/menos: Menos de 3.5 | 29% | 57% | 43% | 1.67 | -28% |
+| Goles más/menos: Menos de 4.5 | 48% | 75% | 61% | 1.28 | -22% |
+| Goles 1ª parte más/menos: Más de 0.5 | 88% | 75% | 81% | 1.25 | +2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 62% | 44% | 53% | 2.10 | +11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 35% | 21% | 28% | 4.50 | +24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 12% | 25% | 19% | 3.75 | -30% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 38% | 56% | 47% | 1.67 | -21% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 65% | 79% | 72% | 1.18 | -15% |
+| Goles del local: Más de 0.5 | 87% | 77% | 82% | 1.22 | -0% |
+| Goles del local: Más de 1.5 | 60% | 46% | 53% | 2.00 | +7% |
+| Goles del local: Más de 2.5 | 33% | 22% | 27% | 4.33 | +19% |
+| Goles del local: Menos de 0.5 | 13% | 23% | 18% | 4.00 | -27% |
+| Goles del local: Menos de 1.5 | 40% | 54% | 47% | 1.73 | -19% |
+| Goles del local: Menos de 2.5 | 67% | 78% | 73% | 1.20 | -13% |
+| Goles del visitante: Más de 1.5 | 76% | 54% | 65% | 1.73 | +13% |
+| Goles del visitante: Más de 2.5 | 52% | 28% | 40% | 3.40 | +36% |
+| Goles del visitante: Menos de 1.5 | 24% | 46% | 35% | 2.00 | -30% |
+| Goles del visitante: Menos de 2.5 | 48% | 72% | 60% | 1.30 | -22% |
+| Córners más/menos: Más de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
+| Córners más/menos: Menos de 9.5 | 50% | 54% | 52% | 1.73 | -11% |
+| 1X2 descanso: 2 | 44% | 35% | 39% | 2.62 | +3% |
+| 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -17% |
+| 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

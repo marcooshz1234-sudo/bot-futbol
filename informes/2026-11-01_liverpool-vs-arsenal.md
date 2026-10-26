@@ -1,7 +1,7 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -179,40 +179,40 @@ _Sin bajas comunicadas por ahora._
 | Martín Zubimendi | M | 7 | 117 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,03 · visitante 1,37 · córners esperados 9,0._
+_Goles esperados: local 1,02 · visitante 1,42 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 43% | 44% | 2.15 | -5% |
-| 1X2: X | 27% | 27% | 27% | 3.40 | -7% |
-| 1X2: 1 | 28% | 29% | 29% | 3.20 | -8% |
-| Doble oportunidad: X2 | 72% | 70% | 71% | 1.36 | -4% |
+| 1X2: 2 | 46% | 43% | 45% | 2.15 | -4% |
+| 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
+| 1X2: 1 | 27% | 29% | 28% | 3.20 | -10% |
+| Doble oportunidad: X2 | 73% | 70% | 71% | 1.36 | -3% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 55% | 57% | 56% | 1.67 | -6% |
-| Ambos marcan: No | 52% | 42% | 47% | 2.20 | +4% |
+| Doble oportunidad: 1X | 54% | 57% | 55% | 1.67 | -7% |
+| Ambos marcan: No | 52% | 42% | 47% | 2.20 | +3% |
 | Ambos marcan: Sí | 48% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Más de 1.5 | 69% | 78% | 74% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 43% | 55% | 49% | 1.73 | -15% |
-| Goles más/menos: Más de 3.5 | 22% | 34% | 28% | 2.75 | -22% |
-| Goles más/menos: Menos de 1.5 | 31% | 22% | 26% | 4.33 | +14% |
-| Goles más/menos: Menos de 2.5 ✅ | 57% | 45% | 51% | 2.10 | +7% |
-| Goles más/menos: Menos de 3.5 | 78% | 66% | 72% | 1.44 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 67% | 1.33 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 33% | 3.25 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
+| Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 44% | 55% | 49% | 1.73 | -14% |
+| Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -21% |
+| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +13% |
+| Goles más/menos: Menos de 2.5 ✅ | 56% | 45% | 51% | 2.10 | +6% |
+| Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Goles del local: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles del local: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
+| Goles del local: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
 | Goles del local: Menos de 0.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
-| Goles del local: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del visitante: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
-| Goles del visitante: Más de 2.5 | 16% | 23% | 20% | 4.00 | -21% |
-| Goles del visitante: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles del visitante: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
-| Goles del visitante: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
-| 1X2 descanso: 2 | 32% | 34% | 33% | 2.75 | -10% |
-| 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -1% |
+| Goles del local: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
+| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
+| Goles del visitante: Más de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
+| Goles del visitante: Más de 2.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
+| Goles del visitante: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
+| Goles del visitante: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -3% |
+| 1X2 descanso: 2 | 33% | 34% | 34% | 2.75 | -8% |
+| 1X2 descanso: X | 45% | 40% | 43% | 2.30 | -2% |
 | 1X2 descanso: 1 | 22% | 26% | 24% | 3.60 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

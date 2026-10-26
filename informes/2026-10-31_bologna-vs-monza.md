@@ -1,7 +1,7 @@
 # Bologna – Monza
 **Serie A** · Regular Season - 10 · 31/10/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Semuel Pizzignacco | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,15 · córners esperados 9,4._
+_Goles esperados: local 1,50 · visitante 1,18 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

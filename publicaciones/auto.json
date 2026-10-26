@@ -24,6 +24,27 @@
     ]
   },
   {
+    "id": "2026-10-26-datos-rachas",
+    "fecha": "2026-10-26T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Benfica ha marcado en sus últimos 17 partidos (hoy, ante el Santa Clara)\n\n• El PSG ha ganado sus últimos 7 partidos (hoy, ante el Lyon)\n\n• El Lyon lleva 6 partidos seguidos con 3 o más goles en total (hoy, ante el PSG)\n\n• El Sevilla ha marcado en sus últimos 9 partidos (hoy, ante el Osasuna)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-10-26-combi-segura",
+    "fecha": "2026-10-26T12:00",
+    "texto": "📊 COMBI DE DATOS x1,70 · LUNES 📊\n\n✅1. Más de 1,5 goles en Sevilla–Osasuna · 1,36\n✅2. Vinicius Lopes: 1+ tiros · 1,25\n\n🎯 Cuota total: 1,70\n💶 10€ → 17,00€\n\n📊 Más de 1,5 goles en Sevilla–Osasuna → Sevilla 7/9 · Osasuna 7/9 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570431|Goals Over/Under|Over 1.5",
+      "1575524|Home Player Shots|Vinicius Lopes - 1"
+    ]
+  },
+  {
     "id": "2026-10-26-combi-dia",
     "fecha": "2026-10-26T12:00",
     "texto": "🎯 LA COMBI DEL LUNES 🎯\n\n✅1. El PSG mete entre 2 y 4 goles (PSG–Lyon) · 1,53\n✅2. Sevilla o empate (Sevilla–Osasuna) · 1,20\n\n🎯 Cuota total: 1,84\n💶 10€ → 18,40€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -34,9 +55,43 @@
     "fijo": true
   },
   {
+    "id": "2026-10-26-combi-tema",
+    "fecha": "2026-10-26T13:00",
+    "texto": "⚽ LUNES DE GOLES · x2,82\n\n✅1. Gol en la 2ª parte del Sevilla–Osasuna · 1,28\n✅2. Santa Clara marca · 2,20\n\n🎯 Cuota total: 2,82\n💶 10€ → 28,20€\n\n📊 Gol en la 2ª parte del Sevilla–Osasuna → Sevilla 9/9 · Osasuna 6/9 en sus últimos partidos\n\n👇 ¿La juegas tal cual o le cambias algo? Te leo",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570431|Goals Over/Under - Second Half|Over 0.5",
+      "1575524|Total - Home|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-26-datos-xg",
+    "fecha": "2026-10-26T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Sevilla marca 1,5 goles por partido, pero sus ocasiones (xG) solo dan para 0,9.\n\nEn sus últimos 8 partidos ha metido 5 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
     "id": "2026-10-27-picks-manana",
     "fecha": "2026-10-26T23:00",
-    "texto": "🔥 3 PICKS PARA MAÑANA (MARTES) 🔥\n\n✅1. Lazio o empate · 1,36\n✅2. Alessandro Romano: 1+ tiros · 1,57\n✅3. Torino marca · 1,40\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
+    "texto": "🔥 3 PICKS PARA MAÑANA (MARTES) 🔥\n\n✅1. Alessandro Romano: 1+ tiros · 1,57\n✅2. Gol en la 1ª parte del Torino–Como · 1,30\n✅3. Gana el Lazio · 2,20\n\n📊 Alessandro Romano: 1+ tiros → Alessandro Romano 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550168|Away Player Shots|Alessandro Romano - 1",
+      "1550175|Goals Over/Under First Half|Over 0.5",
+      "1550174|Match Winner|Away"
+    ]
+  },
+  {
+    "id": "2026-10-27-combi-cuota_3",
+    "fecha": "2026-10-27T11:00",
+    "texto": "💥 COMBINADA x2,99 DEL MARTES 💥\n\n✅1. Lazio o empate · 1,36\n✅2. Alessandro Romano: 1+ tiros · 1,57\n✅3. Torino marca · 1,40\n\n🎯 Cuota total: 2,99\n💶 10€ → 29,90€\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -47,32 +102,69 @@
     ]
   },
   {
+    "id": "2026-10-27-escalera",
+    "fecha": "2026-10-27T11:00",
+    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x1,90 🍀\n\n❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅1. Lazio o empate · 1,36\n✅2. Torino marca · 1,40\n\n🎯 Cuota 1,90 · 20,00€ → 38,00€\n\nEl siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550174|Double Chance|Draw/Away",
+      "1550175|Total - Home|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-datos-pichichis",
+    "fecha": "2026-10-27T12:30",
+    "texto": "⚽ LOS PICHICHIS DE EUROPA ⚽\n\n• LaLiga: Raphinha (Barcelona) · 12 goles en 8 partidos\n• Premier League: E. Haaland (Manchester City) · 9 goles en 8 partidos\n• Serie A: A. Raimondo (Frosinone) · 7 goles en 7 partidos\n• Bundesliga: N. Füllkrug (Werder Bremen) · 8 goles en 7 partidos\n• Ligue 1: E. Lepaul (Rennes) · 7 goles en 7 partidos\n\n👇 ¿Quién acaba la temporada arriba?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-10-27-combi-atreve",
+    "fecha": "2026-10-27T16:00",
+    "texto": "🔥 LA QUE NADIE SE ATREVE x4,40 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Gana el Lazio · 2,20\n✅2. Ambos marcan y más de 2,5 goles en Torino–Como · 2,00\n\n🎯 Cuota total: 4,40\n💶 10€ → 44,00€\n\n📊 Gana el Lazio → Sassuolo 4/8 · Lazio 8/8 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550174|Match Winner|Away",
+      "1550175|Total Goals/Both Teams To Score|o/yes 2.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-datos-xg",
+    "fecha": "2026-10-27T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Lazio marca 2,0 goles por partido, pero sus ocasiones (xG) solo dan para 1,5.\n\nEn sus últimos 8 partidos ha metido 4 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Gana el Inter · 1,33\n✅3. Más de 1,5 goles en Genoa–Juventus · 1,33\n✅4. Gol en la 2ª parte del Parma–Udinese · 1,28\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
+    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Más de 1,5 goles en Parma–Udinese · 1,40\n✅3. Gana el Inter · 1,33\n✅4. Gol en la 2ª parte del Genoa–Juventus · 1,25\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550172|Home Player Shots|Samuele Birindelli - 1",
+      "1550173|Goals Over/Under|Over 1.5",
       "1550176|Match Winner|Away",
-      "1550171|Goals Over/Under|Over 1.5",
-      "1550173|Goals Over/Under - Second Half|Over 0.5"
+      "1550171|Goals Over/Under - Second Half|Over 0.5"
     ]
   },
   {
-    "id": "2026-10-28-combi-cuota_3",
-    "fecha": "2026-10-28T11:00",
-    "texto": "💥 COMBINADA x3,34 DEL MIÉRCOLES 💥\n\n✅1. Akor Adams: 2+ tiros · 1,33\n✅2. Gustavo Varela: 2+ tiros · 1,40\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gol en la 2ª parte del Parma–Udinese · 1,28\n\n🎯 Cuota total: 3,34\n💶 10€ → 33,40€\n\n📊 Akor Adams: 2+ tiros → Akor Adams 7/8 en sus últimos partidos\n\n👇 ¿La juegas tal cual o le cambias algo? Te leo",
+    "id": "2026-10-28-datos-rachas",
+    "fecha": "2026-10-28T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Inter ha marcado en sus últimos 11 partidos (hoy, ante el Venezia)\n\n• El Udinese encadena 6 partidos sin ganar (hoy, ante el Parma)\n\n• El Parma lleva 5 partidos seguidos con 3 o más goles en total (hoy, ante el Udinese)\n\n• El Monza ha marcado en sus últimos 8 partidos (hoy, ante el Napoli)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sel": [
-      "1550176|Home Player Shots|Akor Adams - 2",
-      "1550172|Home Player Shots|Gustavo Varela - 2",
-      "1550171|To Win Either Half|Away",
-      "1550173|Goals Over/Under - Second Half|Over 0.5"
-    ]
+    "sel": []
   },
   {
     "id": "2026-10-28-combi-segura",
@@ -87,221 +179,301 @@
     ]
   },
   {
-    "id": "2026-10-28-picks-hoy",
-    "fecha": "2026-10-28T17:30",
-    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Akor Adams: 2+ tiros · 1,33\n✅2. Juventus gana alguna de las dos partes · 1,40\n✅3. Más de 1,5 goles en Parma–Udinese · 1,36\n✅4. Gustavo Varela: 2+ tiros · 1,40\n\n📊 Akor Adams: 2+ tiros → Akor Adams 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
+    "id": "2026-10-28-combi-tema",
+    "fecha": "2026-10-28T13:00",
+    "texto": "🎯 MIÉRCOLES DE REMATES · x1,90\n\n✅1. Antoine Hainaut: 1+ tiros · 1,36\n✅2. Gustavo Varela: 2+ tiros · 1,40\n\n🎯 Cuota total: 1,90\n💶 10€ → 19,00€\n\n📊 Antoine Hainaut: 1+ tiros → Antoine Hainaut 7/8 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550176|Home Player Shots|Akor Adams - 2",
-      "1550171|To Win Either Half|Away",
-      "1550173|Goals Over/Under|Over 1.5",
+      "1550176|Home Player Shots|Antoine Hainaut - 1",
       "1550172|Home Player Shots|Gustavo Varela - 2"
     ]
   },
   {
-    "id": "2026-10-28-combi-partido",
-    "fecha": "2026-10-28T19:55",
-    "texto": "🇮🇹 MONZA 🆚 NAPOLI · COMBI x10,17\n💥 COMBI DEL PARTIDO · 20:45\n\n✅ Gustavo Varela: 1+ tiros a puerta\n✅ Monza marca\n✅ Monza gana alguna de las dos partes\n✅ Más de 8,5 córners en Monza–Napoli\n\n🎯 Cuota aprox.: 10,17 (en Crear apuesta puede variar)\n💶 10€ → 101,70€\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "id": "2026-10-28-combi-liga",
+    "fecha": "2026-10-28T15:00",
+    "texto": "🇮🇹 COMBI SERIE A x3,26 · MIÉRCOLES\n\n✅1. Más de 1,5 goles en Parma–Udinese · 1,40\n✅2. Más de 1,5 goles en AC Milan–Bologna · 1,25\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gana el Inter · 1,33\n\n🎯 Cuota total: 3,26\n💶 10€ → 32,60€\n\n📊 Más de 1,5 goles en Parma–Udinese → Parma 7/8 · Udinese 7/8 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550172|Home Player Shots On Target Total|Gustavo Varela - 1",
-      "1550172|Total - Home|Over 0.5",
-      "1550172|To Win Either Half|Home",
-      "1550172|Corners Over Under|Over 8.5"
+      "1550173|Goals Over/Under|Over 1.5",
+      "1550167|Goals Over/Under|Over 1.5",
+      "1550171|To Win Either Half|Away",
+      "1550176|Match Winner|Away"
     ]
   },
   {
-    "id": "2026-10-29-combi-segura",
-    "fecha": "2026-10-29T12:00",
-    "texto": "📊 COMBI DE DATOS x1,64 · JUEVES 📊\n\n✅1. Gol en la 1ª parte del Frosinone–Lecce · 1,28\n✅2. Atalanta marca · 1,28\n\n🎯 Cuota total: 1,64\n💶 10€ → 16,40€\n\n📊 Gol en la 1ª parte del Frosinone–Lecce → Frosinone 8/8 · Lecce 6/7 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
+    "id": "2026-10-28-datos-xg",
+    "fecha": "2026-10-28T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Venezia genera 1,6 de xG por partido, pero solo marca 0,8.\n\nEn sus últimos 8 partidos le faltan 7 goles para lo que merecían sus ocasiones.\n\n👇 ¿Hoy se le abre la portería?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-10-28-picks-hoy",
+    "fecha": "2026-10-28T17:30",
+    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Antoine Hainaut: 1+ tiros · 1,36\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gol en la 2ª parte del Parma–Udinese · 1,28\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550170|Goals Over/Under First Half|Over 0.5",
+      "1550172|Total - Home|Over 0.5",
+      "1550176|Home Player Shots|Antoine Hainaut - 1",
+      "1550171|To Win Either Half|Away",
+      "1550173|Goals Over/Under - Second Half|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-29-combi-dia",
+    "fecha": "2026-10-29T12:00",
+    "texto": "🎯 LA COMBI x1,92 DEL JUEVES 🎯\n\n✅1. Frosinone gana alguna de las dos partes · 1,50\n✅2. Atalanta marca · 1,28\n\n🎯 Cuota total: 1,92\n💶 10€ → 19,20€\n\n📊 Frosinone gana alguna de las dos partes → Frosinone 6/8 · Lecce 6/8 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550170|To Win Either Half|Home",
       "1550169|Total - Away|Over 0.5"
     ]
   },
   {
+    "id": "2026-10-29-datos-xg",
+    "fecha": "2026-10-29T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Frosinone marca 2,1 goles por partido, pero sus ocasiones (xG) solo dan para 1,6.\n\nEn sus últimos 8 partidos ha metido 5 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
     "id": "2026-10-30-picks-manana",
     "fecha": "2026-10-29T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (VIERNES) 🔥\n\n✅1. Phillip Tietz: 3+ tiros · 1,62\n✅2. Ambos marcan en Villarreal–Espanyol · 1,67\n✅3. Amir Richardson: 1+ tiros · 1,50\n✅4. Gol en la 1ª parte del Lille–Lens · 1,30\n\n📊 Phillip Tietz: 3+ tiros → Phillip Tietz 6/7 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
+    "texto": "🔥 5 PICKS PARA MAÑANA (VIERNES) 🔥\n\n✅1. Más de 1,5 goles en Sheffield Utd–Wrexham · 1,28\n✅2. Amir Richardson: 1+ tiros · 1,50\n✅3. Espanyol marca · 1,44\n✅4. Phillip Tietz: 3+ tiros · 1,62\n✅5. Gol en la 1ª parte del Lille–Lens · 1,30\n\n📊 Más de 1,5 goles en Sheffield Utd–Wrexham → Sheffield Utd 8/10 · Wrexham 9/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Cuál es tu favorita de la lista?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575211|Away Player Shots|Phillip Tietz - 3",
-      "1570442|Both Teams Score|Yes",
+      "1563233|Goals Over/Under|Over 1.5",
       "1552801|Home Player Shots|Amir Richardson - 1",
+      "1570442|Total - Away|Over 0.5",
+      "1575211|Away Player Shots|Phillip Tietz - 3",
       "1552802|Goals Over/Under First Half|Over 0.5"
     ]
   },
   {
+    "id": "2026-10-30-datos-rachas",
+    "fecha": "2026-10-30T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El PSG ha ganado sus últimos 7 partidos (hoy, ante el Le Havre)\n\n• El Sporting CP ha marcado en sus últimos 12 partidos (hoy, ante el Casa Pia)\n\n• El Le Havre encadena 8 partidos sin ganar (hoy, ante el PSG)\n\n• El Espanyol encadena 5 partidos sin ganar (hoy, ante el Villarreal)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
     "id": "2026-10-30-combi-cuota_3",
     "fecha": "2026-10-30T11:00",
-    "texto": "💥 COMBINADA x3,50 DEL VIERNES 💥\n\n✅1. Phillip Tietz: 3+ tiros · 1,62\n✅2. Amir Richardson: 1+ tiros · 1,50\n✅3. Espanyol marca · 1,44\n\n🎯 Cuota total: 3,50\n💶 10€ → 35,00€\n\n📊 Phillip Tietz: 3+ tiros → Phillip Tietz 6/7 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
+    "texto": "💥 COMBINADA x3,50 DEL VIERNES 💥\n\n✅1. Amir Richardson: 1+ tiros · 1,50\n✅2. Espanyol marca · 1,44\n✅3. Phillip Tietz: 3+ tiros · 1,62\n\n🎯 Cuota total: 3,50\n💶 10€ → 35,00€\n\n📊 Amir Richardson: 1+ tiros → Amir Richardson 7/8 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575211|Away Player Shots|Phillip Tietz - 3",
       "1552801|Home Player Shots|Amir Richardson - 1",
-      "1570442|Total - Away|Over 0.5"
+      "1570442|Total - Away|Over 0.5",
+      "1575211|Away Player Shots|Phillip Tietz - 3"
     ]
   },
   {
-    "id": "2026-10-30-combi-atreve",
-    "fecha": "2026-10-30T16:00",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x5,72 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Le Havre hace más de 2,5 córners · 1,73\n✅2. Más de 1,5 goles en la 2ª parte del SV Elversberg–FSV Mainz 05 · 1,73\n✅3. Lens hace más de 4,5 córners · 1,91\n\n🎯 Cuota total: 5,72\n💶 10€ → 57,20€\n\n📊 Le Havre hace más de 2,5 córners → Le Havre 8/8 · Paris Saint Germain (en contra) 6/10 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
+    "id": "2026-10-30-combi-segura",
+    "fecha": "2026-10-30T12:00",
+    "texto": "📊 COMBI DE DATOS x1,66 · VIERNES 📊\n\n✅1. Más de 1,5 goles en Sheffield Utd–Wrexham · 1,28\n✅2. Gol en la 1ª parte del Lille–Lens · 1,30\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Más de 1,5 goles en Sheffield Utd–Wrexham → Sheffield Utd 8/10 · Wrexham 9/10 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552801|Home Corners Over/Under|Over 2.5",
-      "1575211|Goals Over/Under - Second Half|Over 1.5",
-      "1552802|Away Corners Over/Under|Over 4.5"
+      "1563233|Goals Over/Under|Over 1.5",
+      "1552802|Goals Over/Under First Half|Over 0.5"
     ]
+  },
+  {
+    "id": "2026-10-30-datos-xg",
+    "fecha": "2026-10-30T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Le Havre genera 1,6 de xG por partido, pero solo marca 1,0.\n\nEn sus últimos 8 partidos le faltan 5 goles para lo que merecían sus ocasiones.\n\n👇 ¿Hoy se le abre la portería?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-10-30-datos-finde",
+    "fecha": "2026-10-30T18:00",
+    "texto": "📋 LO QUE DICEN LOS DATOS DEL FINDE · 6 PARTIDOS 📋\n\n⚽ Chelsea – Man. United (sáb 13:30)\nEl Man. United encadena 7 partidos sin ganar.\n\n⚽ Levante – Atlético (sáb 14:00)\nEl Atlético lleva 8 partidos seguidos sin perder.\n\n⚽ Real Sociedad II – Girona (sáb 14:00)\nEl Real Sociedad II encadena 6 partidos sin ganar.\n\n⚽ Leverkusen – VfB Stuttgart (sáb 15:30)\nSus últimos 6 cara a cara promedian 4,0 goles.\n\n⚽ Man. City – Brighton (sáb 16:00)\nSus últimos 6 cara a cara promedian 3,2 goles.\n\n⚽ Udinese – AS Roma (sáb 18:00)\nEl Udinese encadena 6 partidos sin ganar.\n\n👇 ¿Qué partido no te pierdes?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
   },
   {
     "id": "2026-10-31-combi-doble",
     "fecha": "2026-10-30T21:30",
-    "texto": "🛡️ GANA O EMPATA x13,20 · SÁBADO 🛡️\n\n✅1. Bournemouth o empate · 1,33\n✅2. Lorient o empate · 1,50\n✅3. Brentford o empate · 1,28\n✅4. Celta Vigo o empate · 1,62\n✅5. Werder Bremen o empate · 1,67\n✅6. SC Paderborn 07 o empate · 1,91\n\n🎯 Cuota total: 13,20\n💶 10€ → 132,00€\n\n📊 Bournemouth o empate → Bournemouth 8/10 · Leeds 6/8 en sus últimos partidos\n\nDoble oportunidad: si gana o empata, verde ✅\n👇 ¿Cuál es la que menos te convence?",
+    "texto": "🛡️ GANA O EMPATA x6,59 · SÁBADO 🛡️\n\n✅1. GO Ahead Eagles o empate · 1,40\n✅2. Lorient o empate · 1,50\n✅3. Heerenveen o empate · 1,28\n✅4. Brentford o empate · 1,28\n✅5. Bournemouth o empate · 1,33\n✅6. Rennes o empate · 1,44\n\n🎯 Cuota total: 6,59\n💶 10€ → 65,90€\n\n📊 GO Ahead Eagles o empate → Cambuur 7/10 · GO Ahead Eagles 8/10 en sus últimos partidos\n\nDoble oportunidad: si gana o empata, verde ✅\n👇 ¿Cuál es la que menos te convence?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557448|Double Chance|Home/Draw",
+      "1552211|Double Chance|Draw/Away",
       "1552803|Double Chance|Home/Draw",
+      "1552208|Double Chance|Home/Draw",
       "1557449|Double Chance|Home/Draw",
-      "1570441|Double Chance|Draw/Away",
-      "1575209|Double Chance|Home/Draw",
-      "1575208|Double Chance|Draw/Away"
+      "1557448|Double Chance|Home/Draw",
+      "1552806|Double Chance|Draw/Away"
     ]
   },
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Dayot Upamecano: 1+ tiros · 1,62\n✅2. Hull City marca · 1,25\n✅3. Gana el Bayer Leverkusen · 1,75\n✅4. Malaga hace más de 3,5 córners · 1,73\n✅5. Santiago Castaneda: 1+ tiros · 1,62\n✅6. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅7. Pathe Mboup: 2+ tiros · 1,33\n\n📊 Dayot Upamecano: 1+ tiros → Dayot Upamecano 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
+    "texto": "🔥 7 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅1. Ambos marcan en FC Augsburg–SC Freiburg · 1,44\n✅2. Celta Vigo o empate · 1,62\n✅3. Pathe Mboup: 2+ tiros · 1,33\n✅4. Malaga hace más de 3,5 córners · 1,73\n✅5. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅6. Niclas Fullkrug: 1+ tiros a puerta · 1,25\n✅7. Gana el Bayer Leverkusen · 1,75\n\n📊 Ambos marcan en FC Augsburg–SC Freiburg → FC Augsburg 6/7 · SC Freiburg 7/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575203|Home Player Shots|Dayot Upamecano - 1",
-      "1557452|Total - Home|Over 0.5",
-      "1575204|Match Winner|Home",
+      "1575206|Both Teams Score|Yes",
+      "1570441|Double Chance|Draw/Away",
+      "1552803|Away Player Shots|Pathe Mboup - 2",
       "1570435|Away Corners Over/Under|Over 3.5",
-      "1575208|Away Player Shots|Santiago Castaneda - 1",
-      "1575209|Both Teams Score|Yes",
-      "1552803|Away Player Shots|Pathe Mboup - 2"
+      "1552809|Goals Over/Under|Over 1.5",
+      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
+      "1575204|Match Winner|Home"
     ]
+  },
+  {
+    "id": "2026-10-31-datos-rachas",
+    "fecha": "2026-10-31T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Ajax ha marcado en sus últimos 18 partidos (hoy, ante el AZ Alkmaar)\n\n• El Barcelona lleva 11 partidos seguidos con 3 o más goles en total (hoy, ante el Alaves)\n\n• El Bayern lleva 8 partidos seguidos con 3 o más goles en total (hoy, ante el Dortmund)\n\n• El Man. United encadena 7 partidos sin ganar (hoy, ante el Chelsea)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
   },
   {
     "id": "2026-10-31-combi-segura",
     "fecha": "2026-10-31T12:00",
-    "texto": "📊 COMBI DE DATOS x1,66 · SÁBADO 📊\n\n✅1. Bournemouth o empate · 1,33\n✅2. Hull City marca · 1,25\n\n🎯 Cuota total: 1,66\n💶 10€ → 16,60€\n\n📊 Bournemouth o empate → Bournemouth 8/10 · Leeds 6/8 en sus últimos partidos\n\n👇 ¿La juegas tal cual o le cambias algo? Te leo",
+    "texto": "📊 COMBI DE DATOS x1,75 · SÁBADO 📊\n\n✅1. GO Ahead Eagles o empate · 1,40\n✅2. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n\n🎯 Cuota total: 1,75\n💶 10€ → 17,50€\n\n📊 GO Ahead Eagles o empate → Cambuur 7/10 · GO Ahead Eagles 8/10 en sus últimos partidos\n\n👇 ¿La juegas tal cual o le cambias algo? Te leo",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557448|Double Chance|Home/Draw",
-      "1557452|Total - Home|Over 0.5"
+      "1552211|Double Chance|Draw/Away",
+      "1575206|Goals Over/Under First Half|Over 0.5"
     ]
   },
   {
     "id": "2026-10-31-combi-tema",
     "fecha": "2026-10-31T13:00",
-    "texto": "✈️ SÁBADO DE LOS DE FUERA · x2,54\n\n✅1. VfB Stuttgart hace más de 3,5 córners · 1,62\n✅2. SC Freiburg gana alguna de las dos partes · 1,57\n\n🎯 Cuota total: 2,54\n💶 10€ → 25,40€\n\n📊 VfB Stuttgart hace más de 3,5 córners → Bayer Leverkusen (en contra) 6/10 · VfB Stuttgart 8/10 en sus últimos partidos\n\n👇 ¿Cuál es la que menos te convence?",
+    "texto": "✈️ SÁBADO DE LOS DE FUERA · x2,14\n\n✅1. GO Ahead Eagles gana alguna de las dos partes · 1,57\n✅2. Celta Vigo marca · 1,36\n\n🎯 Cuota total: 2,14\n💶 10€ → 21,40€\n\n📊 GO Ahead Eagles gana alguna de las dos partes → Cambuur 6/10 · GO Ahead Eagles 8/10 en sus últimos partidos\n\n👇 ¿Cuál es la que menos te convence?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575204|Away Corners Over/Under|Over 3.5",
-      "1575206|To Win Either Half|Away"
+      "1552211|To Win Either Half|Away",
+      "1570441|Total - Away|Over 0.5"
     ]
   },
   {
     "id": "2026-10-31-combi-500",
     "fecha": "2026-10-31T13:30",
-    "texto": "🧮 DE 1€ A 500€ · x512,49 🧮\n\nLa del sábado para soñar: 16 patas, todas con datos.\n\n✅1. Bayer Leverkusen gana alguna de las dos partes · 1,40\n✅2. Bournemouth o empate · 1,33\n✅3. Lorient o empate · 1,50\n✅4. Brentford o empate · 1,28\n✅5. Dayot Upamecano: 1+ tiros · 1,62\n✅6. Santiago Castaneda: 1+ tiros · 1,62\n✅7. Hull City marca · 1,25\n✅8. Más de 1,5 goles en Rayo Vallecano–Celta Vigo · 1,33\n✅9. Niclas Fullkrug: 1+ tiros a puerta · 1,25\n✅10. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅11. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅12. Rennes o empate · 1,44\n✅13. Malaga hace más de 3,5 córners · 1,73\n✅14. Más de 5 córners en la 1ª parte en Lyon–Angers · 2,05\n✅15. Ambos marcan en Barcelona–Alaves · 1,80\n✅16. Más de 1,5 goles en la 2ª parte del Tottenham–Crystal Palace · 1,83\n\n🎯 Cuota total: 512,49\n💶 1€ → 512,49€\n\nCasi nunca sale, así que solo 1€ 😅\n👇 ¿Cuál crees que cae primero?",
+    "texto": "🧮 DE 1€ A 500€ · x546,46 🧮\n\nLa del sábado para soñar: 17 patas, todas con datos.\n\n✅1. Bayer Leverkusen gana alguna de las dos partes · 1,40\n✅2. GO Ahead Eagles o empate · 1,40\n✅3. Lorient o empate · 1,50\n✅4. Heerenveen o empate · 1,28\n✅5. Más de 1,5 goles en Rayo Vallecano–Celta Vigo · 1,33\n✅6. Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1,25\n✅7. Brentford o empate · 1,28\n✅8. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅9. Hull City marca · 1,25\n✅10. Bournemouth o empate · 1,33\n✅11. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅12. Dayot Upamecano: 1+ tiros · 1,62\n✅13. Santiago Castaneda: 1+ tiros · 1,62\n✅14. Willem II marca · 1,80\n✅15. Malaga hace más de 3,5 córners · 1,73\n✅16. Más de 5 córners en la 1ª parte en Lyon–Angers · 2,05\n✅17. Elye Wahi: 1+ tiros a puerta · 1,40\n\n🎯 Cuota total: 546,46\n💶 1€ → 546,46€\n\nCasi nunca sale, así que solo 1€ 😅\n👇 ¿Cuál crees que cae primero?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575204|To Win Either Half|Home",
-      "1557448|Double Chance|Home/Draw",
+      "1552211|Double Chance|Draw/Away",
       "1552803|Double Chance|Home/Draw",
+      "1552208|Double Chance|Home/Draw",
+      "1570441|Goals Over/Under|Over 1.5",
+      "1575206|Goals Over/Under First Half|Over 0.5",
       "1557449|Double Chance|Home/Draw",
+      "1552809|Goals Over/Under|Over 1.5",
+      "1557452|Total - Home|Over 0.5",
+      "1557448|Double Chance|Home/Draw",
+      "1575209|Both Teams Score|Yes",
       "1575203|Home Player Shots|Dayot Upamecano - 1",
       "1575208|Away Player Shots|Santiago Castaneda - 1",
-      "1557452|Total - Home|Over 0.5",
-      "1570441|Goals Over/Under|Over 1.5",
-      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
-      "1575206|Goals Over/Under First Half|Over 0.5",
-      "1552809|Goals Over/Under|Over 1.5",
-      "1552806|Double Chance|Draw/Away",
+      "1552209|Total - Away|Over 0.5",
       "1570435|Away Corners Over/Under|Over 3.5",
       "1552804|Total Corners (1st Half)|Over 5",
-      "1570434|Both Teams Score|Yes",
-      "1557456|Goals Over/Under - Second Half|Over 1.5"
+      "1552806|Home Player Shots On Target Total|Elye Wahi - 1"
     ]
   },
   {
     "id": "2026-10-31-combi-loca",
     "fecha": "2026-10-31T14:30",
-    "texto": "🤪 COMBI LOCA x9,08 DEL SÁBADO 🤪\n\n✅1. Brentford o empate · 1,28\n✅2. Santiago Castaneda: 1+ tiros · 1,62\n✅3. Niclas Fullkrug: 1+ tiros a puerta · 1,25\n✅4. Celta Vigo o empate · 1,62\n✅5. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅6. Malaga hace más de 3,5 córners · 1,73\n\n🎯 Cuota total: 9,08\n💶 10€ → 90,80€\n\n📊 Brentford o empate → Brentford 7/8 · Nottingham Forest 7/8 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
+    "texto": "🤪 COMBI LOCA x13,53 DEL SÁBADO 🤪\n\n✅1. Brentford o empate · 1,28\n✅2. Hull City marca · 1,25\n✅3. Bournemouth o empate · 1,33\n✅4. Ambos marcan en Werder Bremen–1899 Hoffenheim · 1,40\n✅5. Dayot Upamecano: 1+ tiros · 1,62\n✅6. Santiago Castaneda: 1+ tiros · 1,62\n✅7. Malaga hace más de 3,5 córners · 1,73\n\n🎯 Cuota total: 13,53\n💶 10€ → 135,30€\n\n📊 Brentford o empate → Brentford 7/8 · Nottingham Forest 7/8 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1557449|Double Chance|Home/Draw",
+      "1557452|Total - Home|Over 0.5",
+      "1557448|Double Chance|Home/Draw",
+      "1575209|Both Teams Score|Yes",
+      "1575203|Home Player Shots|Dayot Upamecano - 1",
       "1575208|Away Player Shots|Santiago Castaneda - 1",
-      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
-      "1570441|Double Chance|Draw/Away",
-      "1552809|Goals Over/Under|Over 1.5",
       "1570435|Away Corners Over/Under|Over 3.5"
     ]
   },
   {
     "id": "2026-10-31-combi-atreve",
-    "fecha": "2026-10-31T14:30",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x6,10 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Le Mans o empate · 1,70\n✅2. Más de 5 córners en la 1ª parte en Lyon–Angers · 2,05\n✅3. Gana el Bayer Leverkusen · 1,75\n\n🎯 Cuota total: 6,10\n💶 10€ → 61,00€\n\n📊 Le Mans o empate → Estac Troyes 7/8 · Le Mans 5/8 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
+    "fecha": "2026-10-31T16:00",
+    "texto": "🔥 LA QUE NADIE SE ATREVE x5,84 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. NEC Nijmegen o empate · 1,91\n✅2. Willem II marca · 1,80\n✅3. Le Mans o empate · 1,70\n\n🎯 Cuota total: 5,84\n💶 10€ → 58,40€\n\n📊 NEC Nijmegen o empate → Heerenveen 6/10 · NEC Nijmegen 7/10 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552809|Double Chance|Draw/Away",
-      "1552804|Total Corners (1st Half)|Over 5",
-      "1575204|Match Winner|Home"
+      "1552208|Double Chance|Draw/Away",
+      "1552209|Total - Away|Over 0.5",
+      "1552809|Double Chance|Draw/Away"
     ]
+  },
+  {
+    "id": "2026-10-31-datos-xg",
+    "fecha": "2026-10-31T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Feyenoord marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 2,0.\n\nEn sus últimos 8 partidos ha metido 7 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
   },
   {
     "id": "2026-10-31-picks-hoy",
     "fecha": "2026-10-31T17:30",
-    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Pathe Mboup: 2+ tiros · 1,33\n✅2. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅3. Más de 1,5 goles en Estac Troyes–Le Mans · 1,25\n✅4. Alaves marca · 1,73\n\n📊 Pathe Mboup: 2+ tiros → Pathe Mboup 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
+    "texto": "🔥 6 PICKS PARA HOY 🔥\n\n✅1. Pathe Mboup: 2+ tiros · 1,33\n✅2. Más de 9,5 córners en Bayern München–Borussia Dortmund · 1,73\n✅3. Rafik El Arguioui: 1+ tiros a puerta · 1,50\n✅4. Le Mans marca · 1,33\n✅5. Willem II marca · 1,80\n✅6. Alaves marca · 1,73\n\n📊 Pathe Mboup: 2+ tiros → Pathe Mboup 7/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552803|Away Player Shots|Pathe Mboup - 2",
       "1575203|Corners Over Under|Over 9.5",
-      "1552809|Goals Over/Under|Over 1.5",
+      "1552211|Home Player Shots On Target Total|Rafik El Arguioui - 1",
+      "1552809|Total - Away|Over 0.5",
+      "1552209|Total - Away|Over 0.5",
       "1570434|Total - Away|Over 0.5"
     ]
   },
   {
     "id": "2026-11-01-combi-doble",
     "fecha": "2026-10-31T21:30",
-    "texto": "🛡️ GANA O EMPATA x10,32 · DOMINGO 🛡️\n\n✅1. Sevilla o empate · 1,40\n✅2. Elche o empate · 1,40\n✅3. 1. FC Köln o empate · 1,50\n✅4. Real Sociedad o empate · 1,80\n✅5. Toulouse o empate · 1,95\n\n🎯 Cuota total: 10,32\n💶 10€ → 103,20€\n\n📊 Sevilla o empate → Getafe 9/10 · Sevilla 6/9 en sus últimos partidos\n\nDoble oportunidad: si gana o empata, verde ✅\n👇 ¿Qué pata quitarías tú?",
+    "texto": "🛡️ GANA O EMPATA x14,45 · DOMINGO 🛡️\n\n✅1. Sevilla o empate · 1,40\n✅2. Elche o empate · 1,40\n✅3. Utrecht o empate · 1,40\n✅4. 1. FC Köln o empate · 1,50\n✅5. Real Sociedad o empate · 1,80\n✅6. Toulouse o empate · 1,95\n\n🎯 Cuota total: 14,45\n💶 10€ → 144,50€\n\n📊 Sevilla o empate → Getafe 9/10 · Sevilla 6/9 en sus últimos partidos\n\nDoble oportunidad: si gana o empata, verde ✅\n👇 ¿Qué pata quitarías tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570438|Double Chance|Draw/Away",
       "1570437|Double Chance|Home/Draw",
+      "1552214|Double Chance|Draw/Away",
       "1575207|Double Chance|Draw/Away",
       "1570433|Double Chance|Draw/Away",
       "1552805|Double Chance|Draw/Away"
@@ -310,65 +482,105 @@
   {
     "id": "2026-11-01-picks-manana",
     "fecha": "2026-10-31T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (DOMINGO) 🔥\n\n✅1. Más de 1,5 goles en Athletic Club–Real Sociedad · 1,25\n✅2. Racing Santander marca · 1,40\n✅3. Gol en la 2ª parte del Getafe–Sevilla · 1,36\n✅4. Auxerre marca · 1,33\n\n📊 Más de 1,5 goles en Athletic Club–Real Sociedad → Athletic Club 7/9 · Real Sociedad 9/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
+    "texto": "🔥 7 PICKS PARA MAÑANA (DOMINGO) 🔥\n\n✅1. Sparta Rotterdam marca · 1,36\n✅2. Más de 1,5 goles en Athletic Club–Real Sociedad · 1,25\n✅3. Gol en la 2ª parte del Getafe–Sevilla · 1,36\n✅4. ADO Den Haag marca · 1,25\n✅5. Racing Santander marca · 1,40\n✅6. Auxerre marca · 1,33\n✅7. Más de 2,5 goles en Telstar–Utrecht · 1,53\n\n📊 Sparta Rotterdam marca → Groningen (en contra) 9/10 · Sparta Rotterdam 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1552215|Total - Away|Over 0.5",
       "1570433|Goals Over/Under|Over 1.5",
-      "1570440|Total - Home|Over 0.5",
       "1570438|Goals Over/Under - Second Half|Over 0.5",
-      "1552808|Total - Away|Over 0.5"
+      "1552212|Total - Away|Over 0.5",
+      "1570440|Total - Home|Over 0.5",
+      "1552808|Total - Away|Over 0.5",
+      "1552214|Goals Over/Under|Over 2.5"
     ]
+  },
+  {
+    "id": "2026-11-01-datos-rachas",
+    "fecha": "2026-11-01T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Real Madrid ha ganado sus últimos 5 partidos (hoy, ante el Racing Santander)\n\n• El Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Cagliari)\n\n• El Sevilla ha marcado en sus últimos 9 partidos (hoy, ante el Getafe)\n\n• El Liverpool ha ganado sus últimos 4 partidos (hoy, ante el Arsenal)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
   },
   {
     "id": "2026-11-01-combi-segura",
     "fecha": "2026-11-01T12:00",
-    "texto": "📊 COMBI DE DATOS x1,75 · DOMINGO 📊\n\n✅1. Más de 1,5 goles en Athletic Club–Real Sociedad · 1,25\n✅2. Racing Santander marca · 1,40\n\n🎯 Cuota total: 1,75\n💶 10€ → 17,50€\n\n📊 Más de 1,5 goles en Athletic Club–Real Sociedad → Athletic Club 7/9 · Real Sociedad 9/10 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
+    "texto": "📊 COMBI DE DATOS x1,70 · DOMINGO 📊\n\n✅1. Sparta Rotterdam marca · 1,36\n✅2. Más de 1,5 goles en Athletic Club–Real Sociedad · 1,25\n\n🎯 Cuota total: 1,70\n💶 10€ → 17,00€\n\n📊 Sparta Rotterdam marca → Groningen (en contra) 9/10 · Sparta Rotterdam 8/10 en sus últimos partidos\n\n👇 ¿Le meterías alguna pata más?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570433|Goals Over/Under|Over 1.5",
-      "1570440|Total - Home|Over 0.5"
+      "1552215|Total - Away|Over 0.5",
+      "1570433|Goals Over/Under|Over 1.5"
     ]
   },
   {
     "id": "2026-11-01-combi-tema",
     "fecha": "2026-11-01T13:00",
-    "texto": "🛡️ DOMINGO DE SEGUROS · x1,96\n\n✅1. Sevilla o empate · 1,40\n✅2. Elche o empate · 1,40\n\n🎯 Cuota total: 1,96\n💶 10€ → 19,60€\n\n📊 Sevilla o empate → Getafe 9/10 · Sevilla 6/9 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "texto": "🛡️ DOMINGO DE SEGUROS · x2,74\n\n✅1. Sevilla o empate · 1,40\n✅2. Elche o empate · 1,40\n✅3. Utrecht o empate · 1,40\n\n🎯 Cuota total: 2,74\n💶 10€ → 27,40€\n\n📊 Sevilla o empate → Getafe 9/10 · Sevilla 6/9 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570438|Double Chance|Draw/Away",
-      "1570437|Double Chance|Home/Draw"
+      "1570437|Double Chance|Home/Draw",
+      "1552214|Double Chance|Draw/Away"
     ]
   },
   {
     "id": "2026-11-01-combi-liga",
     "fecha": "2026-11-01T13:00",
-    "texto": "🇪🇸 COMBI LALIGA x4,94 · DOMINGO\n\n✅1. Real Sociedad o empate · 1,80\n✅2. Getafe marca · 1,50\n✅3. Más de 10,5 córners en Racing Santander–Real Madrid · 1,83\n\n🎯 Cuota total: 4,94\n💶 10€ → 49,40€\n\n📊 Real Sociedad o empate → Athletic Club 6/9 · Real Sociedad 8/10 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "texto": "🇪🇸 COMBI LALIGA x3,43 · DOMINGO\n\n✅1. Gol en la 2ª parte del Getafe–Sevilla · 1,36\n✅2. Racing Santander marca · 1,40\n✅3. Real Sociedad o empate · 1,80\n\n🎯 Cuota total: 3,43\n💶 10€ → 34,30€\n\n📊 Gol en la 2ª parte del Getafe–Sevilla → Getafe 8/10 · Sevilla 9/9 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570433|Double Chance|Draw/Away",
-      "1570438|Total - Home|Over 0.5",
-      "1570440|Corners Over Under|Over 10.5"
+      "1570438|Goals Over/Under - Second Half|Over 0.5",
+      "1570440|Total - Home|Over 0.5",
+      "1570433|Double Chance|Draw/Away"
     ]
   },
   {
     "id": "2026-11-01-combi-atreve",
     "fecha": "2026-11-01T13:00",
-    "texto": "🔥 LA QUE NADIE SE ATREVE x7,37 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Más de 4,5 córners en la 1ª parte en Athletic Club–Real Sociedad · 1,98\n✅2. Toulouse o empate · 1,95\n✅3. Sevilla gana alguna de las dos partes · 1,91\n\n🎯 Cuota total: 7,37\n💶 10€ → 73,70€\n\n📊 Más de 4,5 córners en la 1ª parte en Athletic Club–Real Sociedad → Athletic Club 6/9 · Real Sociedad 7/10 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
+    "texto": "🔥 LA QUE NADIE SE ATREVE x7,45 🔥\n\nPocas patas, todas con cuota alta.\n\n✅1. Toulouse o empate · 1,95\n✅2. Sevilla gana alguna de las dos partes · 1,91\n✅3. Más de 1,5 goles en la 1ª parte del Groningen–Sparta Rotterdam · 2,00\n\n🎯 Cuota total: 7,45\n💶 10€ → 74,50€\n\n📊 Toulouse o empate → Marseille 7/10 · Toulouse 6/8 en sus últimos partidos\n\n👇 ¿Te atreves o la dejas pasar?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570433|Total Corners (1st Half)|Over 4.5",
       "1552805|Double Chance|Draw/Away",
-      "1570438|To Win Either Half|Away"
+      "1570438|To Win Either Half|Away",
+      "1552215|Goals Over/Under First Half|Over 1.5"
     ]
+  },
+  {
+    "id": "2026-11-01-datos-xg",
+    "fecha": "2026-11-01T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Real Sociedad marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 1,6.\n\nEn sus últimos 8 partidos ha metido 10 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-11-02-datos-rachas",
+    "fecha": "2026-11-02T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Benfica ha marcado en sus últimos 17 partidos (hoy, ante el Alverca)\n\n• El Deportivo La Coruna encadena 6 partidos sin ganar (hoy, ante el Osasuna)\n\n• El Valladolid lleva 5 partidos seguidos con 3 o más goles en total (hoy, ante el Leganes)\n\n• El Leganes encadena 5 partidos sin ganar (hoy, ante el Valladolid)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
+  },
+  {
+    "id": "2026-11-02-datos-xg",
+    "fecha": "2026-11-02T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Benfica marca 2,9 goles por partido, pero sus ocasiones (xG) solo dan para 2,2.\n\nEn sus últimos 8 partidos ha metido 5 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": []
   }
 ]

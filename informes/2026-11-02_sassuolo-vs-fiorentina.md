@@ -1,7 +1,7 @@
 # Sassuolo – Fiorentina
 **Serie A** · Regular Season - 10 · 02/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -140,6 +140,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Pedro Gonçalves | M | 5 | 117 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,08 · visitante 1,10 · córners esperados 9,5._
+_Goles esperados: local 2,01 · visitante 1,16 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

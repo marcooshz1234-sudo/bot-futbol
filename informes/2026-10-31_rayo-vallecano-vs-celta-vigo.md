@@ -1,7 +1,7 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -184,40 +184,40 @@ _Sin bajas comunicadas por ahora._
 | H. Burcio | M | 8 | 265 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 0,91 · córners esperados 9,5._
+_Goles esperados: local 1,20 · visitante 0,97 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 30% | 29% | 3.10 | -11% |
+| 1X2: 2 | 30% | 30% | 30% | 3.10 | -8% |
 | 1X2: X | 29% | 29% | 29% | 3.20 | -7% |
-| 1X2: 1 | 43% | 41% | 42% | 2.25 | -5% |
-| Doble oportunidad: X2 | 57% | 59% | 58% | 1.62 | -6% |
+| 1X2: 1 | 41% | 41% | 41% | 2.25 | -7% |
+| Doble oportunidad: X2 | 59% | 59% | 59% | 1.62 | -4% |
 | Doble oportunidad: 12 | 71% | 70% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 73% | 70% | 71% | 1.36 | -3% |
-| Ambos marcan: No | 58% | 48% | 53% | 1.95 | +3% |
-| Ambos marcan: Sí | 42% | 52% | 47% | 1.80 | -15% |
-| Goles más/menos: Más de 1.5 | 63% | 72% | 67% | 1.33 | -10% |
-| Goles más/menos: Más de 2.5 | 36% | 47% | 42% | 2.00 | -17% |
-| Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -21% |
-| Goles más/menos: Menos de 1.5 ✅ | 37% | 28% | 33% | 3.40 | +11% |
-| Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
+| Doble oportunidad: 1X | 70% | 70% | 70% | 1.36 | -4% |
+| Ambos marcan: No | 57% | 48% | 52% | 1.95 | +2% |
+| Ambos marcan: Sí | 43% | 52% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 1.5 | 64% | 72% | 68% | 1.33 | -10% |
+| Goles más/menos: Más de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
+| Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -20% |
+| Goles más/menos: Menos de 1.5 ✅ | 36% | 28% | 32% | 3.40 | +10% |
+| Goles más/menos: Menos de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
 | Goles más/menos: Menos de 3.5 | 83% | 75% | 79% | 1.28 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 37% | 2.75 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles del local: Más de 1.5 | 35% | 41% | 38% | 2.25 | -15% |
-| Goles del local: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles del local: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -2% |
-| Goles del visitante: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
-| Goles del visitante: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
-| Goles del visitante: Menos de 0.5 ✅ | 40% | 31% | 36% | 3.00 | +7% |
-| Goles del visitante: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -7% |
-| Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -4% |
-| 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -16% |
-| 1X2 descanso: X | 49% | 44% | 46% | 2.10 | -2% |
-| 1X2 descanso: 1 | 30% | 31% | 30% | 3.00 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -2% |
+| Goles del local: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
+| Goles del local: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles del local: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
+| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
+| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
+| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Córners más/menos: Más de 9.5 | 46% | 47% | 46% | 2.02 | -6% |
+| Córners más/menos: Menos de 9.5 | 54% | 53% | 54% | 1.78 | -4% |
+| 1X2 descanso: 2 | 23% | 26% | 24% | 3.60 | -13% |
+| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
+| 1X2 descanso: 1 | 29% | 31% | 30% | 3.00 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

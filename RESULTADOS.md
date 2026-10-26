@@ -1,28 +1,32 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 25/10/2026 19:40. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 26/10/2026 02:07. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 17 · **acertados:** 6 (35%)
-- **Beneficio:** -1.10 unidades · **rentabilidad (yield):** -6.5%
-- **Cuota media:** 2.74 · **pendientes:** 38
+- **Picks jugados:** 20 · **acertados:** 6 (30%)
+- **Beneficio:** -4.10 unidades · **rentabilidad (yield):** -20.5%
+- **Cuota media:** 2.76 · **pendientes:** 38
 
-_Con 17 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 20 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
 | 1X2 | 6 | 1 (17%) | -2.90 | -48.3% |
-| Goles más/menos | 3 | 2 (67%) | +1.60 | +53.3% |
+| Goles más/menos | 4 | 2 (50%) | +0.60 | +15.0% |
+| Goles del visitante | 3 | 0 (0%) | -3.00 | -100.0% |
 | Goles del local | 2 | 2 (100%) | +4.00 | +200.0% |
 | Doble oportunidad | 2 | 1 (50%) | +0.20 | +10.0% |
 | 1X2 descanso | 2 | 0 (0%) | -2.00 | -100.0% |
-| Goles del visitante | 2 | 0 (0%) | -2.00 | -100.0% |
+| Córners más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
 
 ## Últimos picks
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-25 | Barcelona – Real Madrid | Córners más/menos: Menos de 10.5 | 1.91 | ❌ | -1.00 |
+| 2026-10-25 | Real Sociedad – Levante | Goles del visitante: Más de 1.5 | 3.00 | ❌ | -1.00 |
+| 2026-10-25 | Real Sociedad – Levante | Goles más/menos: Más de 4.5 | 3.75 | ❌ | -1.00 |
 | 2026-10-25 | SC Freiburg – Bayern München | Goles del visitante: Menos de 1.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-25 | SC Freiburg – Bayern München | Doble oportunidad: 1X | 2.62 | ❌ | -1.00 |
 | 2026-10-25 | Celta Vigo – Real Betis | Goles más/menos: Menos de 2.5 | 2.10 | ✅ | +1.10 |

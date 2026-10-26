@@ -1,7 +1,7 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | J. Zirkzee | F | 7 | 148 | 1 | 0 | 4 | 0,6 | 3 | 0,4 | 2 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 1,40 · córners esperados 9,4._
+_Goles esperados: local 2,28 · visitante 1,47 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 27% | 24% | 3.50 | -15% |
-| 1X2: X | 19% | 26% | 23% | 3.60 | -19% |
-| 1X2: 1 | 59% | 48% | 53% | 1.95 | +4% |
-| Doble oportunidad: X2 | 41% | 52% | 47% | 1.80 | -16% |
-| Doble oportunidad: 12 | 81% | 74% | 77% | 1.28 | -1% |
-| Doble oportunidad: 1X | 78% | 74% | 76% | 1.28 | -3% |
-| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
-| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
+| 1X2: 2 | 24% | 27% | 25% | 3.50 | -11% |
+| 1X2: X | 20% | 26% | 23% | 3.60 | -18% |
+| 1X2: 1 | 56% | 48% | 52% | 1.95 | +1% |
+| Doble oportunidad: X2 | 44% | 52% | 48% | 1.80 | -13% |
+| Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -2% |
+| Doble oportunidad: 1X | 76% | 74% | 75% | 1.28 | -4% |
+| Ambos marcan: No | 31% | 38% | 34% | 2.50 | -15% |
+| Ambos marcan: Sí | 69% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Más de 2.5 | 72% | 60% | 66% | 1.57 | +4% |
 | Goles más/menos: Más de 3.5 ✅ | 52% | 40% | 46% | 2.38 | +9% |
-| Goles más/menos: Más de 4.5 | 32% | 22% | 27% | 4.33 | +18% |
+| Goles más/menos: Más de 4.5 | 32% | 22% | 27% | 4.33 | +17% |
 | Goles más/menos: Menos de 2.5 | 28% | 40% | 34% | 2.38 | -20% |
 | Goles más/menos: Menos de 3.5 | 48% | 60% | 54% | 1.57 | -15% |
 | Goles más/menos: Menos de 4.5 | 68% | 78% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 58% | 55% | 1.62 | -10% |
-| Goles del local: Más de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
-| Goles del local: Más de 2.5 ✅ | 42% | 29% | 35% | 3.25 | +15% |
-| Goles del local: Menos de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
-| Goles del local: Menos de 2.5 | 58% | 71% | 65% | 1.33 | -14% |
-| Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
-| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del visitante: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
-| 1X2 descanso: 2 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 42% | 45% | 2.20 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles del local: Más de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
+| Goles del local: Más de 2.5 ✅ | 40% | 29% | 34% | 3.25 | +12% |
+| Goles del local: Menos de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
+| Goles del local: Menos de 2.5 | 60% | 71% | 66% | 1.33 | -13% |
+| Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
+| Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles del visitante: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
+| 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -10% |
 | 1X2 descanso: X | 34% | 38% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 44% | 38% | 41% | 2.50 | +2% |
+| 1X2 descanso: 1 | 43% | 38% | 40% | 2.50 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

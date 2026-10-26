@@ -1,7 +1,7 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_
@@ -178,39 +178,39 @@ _Sin bajas comunicadas por ahora._
 | Óscar Mingueza | M | 4 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,11 · córners esperados 9,6._
+_Goles esperados: local 1,39 · visitante 1,17 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 19% | 24% | 5.00 | +20% |
+| 1X2: 2 | 32% | 19% | 25% | 5.00 | +25% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -2% |
-| 1X2: 1 | 44% | 57% | 51% | 1.62 | -18% |
-| Doble oportunidad: X2 ✅ | 56% | 42% | 49% | 2.25 | +10% |
+| 1X2: 1 | 42% | 57% | 50% | 1.62 | -19% |
+| Doble oportunidad: X2 ✅ | 58% | 42% | 50% | 2.25 | +13% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 71% | 81% | 76% | 1.17 | -11% |
-| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
-| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 72% | 79% | 75% | 1.20 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 59% | 53% | 1.62 | -15% |
-| Goles más/menos: Más de 3.5 | 25% | 38% | 31% | 2.50 | -21% |
-| Goles más/menos: Más de 4.5 | 11% | 21% | 16% | 4.50 | -27% |
-| Goles más/menos: Menos de 1.5 | 28% | 21% | 25% | 4.50 | +11% |
-| Goles más/menos: Menos de 2.5 | 54% | 41% | 47% | 2.30 | +9% |
-| Goles más/menos: Menos de 3.5 | 75% | 62% | 69% | 1.53 | +5% |
-| Goles más/menos: Menos de 4.5 | 89% | 79% | 84% | 1.20 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 69% | 1.28 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 39% | 34% | 2.38 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 31% | 3.50 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
-| Goles del local: Más de 1.5 | 42% | 59% | 50% | 1.57 | -21% |
-| Goles del local: Más de 2.5 | 17% | 34% | 25% | 2.75 | -30% |
-| Goles del local: Menos de 1.5 ✅ | 58% | 41% | 50% | 2.25 | +12% |
-| Goles del local: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +4% |
-| Goles del visitante: Más de 0.5 | 67% | 65% | 66% | 1.44 | -5% |
-| Goles del visitante: Más de 1.5 | 30% | 29% | 30% | 3.25 | -3% |
-| Goles del visitante: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 71% | 70% | 1.33 | -7% |
-| 1X2 descanso: X | 45% | 38% | 41% | 2.40 | -1% |
-| 1X2 descanso: 1 | 32% | 44% | 38% | 2.10 | -21% |
+| Doble oportunidad: 1X | 68% | 81% | 75% | 1.17 | -12% |
+| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
+| Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
+| Goles más/menos: Más de 1.5 | 72% | 79% | 76% | 1.20 | -9% |
+| Goles más/menos: Más de 2.5 | 47% | 59% | 53% | 1.62 | -14% |
+| Goles más/menos: Más de 3.5 | 26% | 38% | 32% | 2.50 | -21% |
+| Goles más/menos: Más de 4.5 | 12% | 21% | 16% | 4.50 | -26% |
+| Goles más/menos: Menos de 1.5 | 28% | 21% | 24% | 4.50 | +9% |
+| Goles más/menos: Menos de 2.5 | 53% | 41% | 47% | 2.30 | +8% |
+| Goles más/menos: Menos de 3.5 | 74% | 62% | 68% | 1.53 | +4% |
+| Goles más/menos: Menos de 4.5 | 88% | 79% | 84% | 1.20 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 39% | 35% | 2.38 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
+| Goles del local: Más de 1.5 | 41% | 59% | 50% | 1.57 | -22% |
+| Goles del local: Más de 2.5 | 16% | 34% | 25% | 2.75 | -31% |
+| Goles del local: Menos de 1.5 ✅ | 59% | 41% | 50% | 2.25 | +13% |
+| Goles del local: Menos de 2.5 | 84% | 66% | 75% | 1.40 | +5% |
+| Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del visitante: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |
+| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles del visitante: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
+| 1X2 descanso: X | 44% | 38% | 41% | 2.40 | -2% |
+| 1X2 descanso: 1 | 31% | 44% | 37% | 2.10 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

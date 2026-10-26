@@ -1,7 +1,7 @@
 # Elche – Valencia
 **LaLiga** · Regular Season - 11 · 01/11/2026 18:30 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/10 19:40._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_
@@ -186,40 +186,40 @@ _Sin bajas comunicadas por ahora._
 | Dani Raba | F | 4 | 176 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 7 | 6 | 1,5 | 3 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 0,84 · córners esperados 9,0._
+_Goles esperados: local 1,52 · visitante 0,89 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 34% | 27% | 2.75 | -26% |
-| 1X2: X | 25% | 28% | 27% | 3.30 | -12% |
-| 1X2: 1 ✅ | 55% | 38% | 46% | 2.45 | +13% |
-| Doble oportunidad: X2 | 45% | 62% | 54% | 1.53 | -18% |
-| Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 80% | 67% | 74% | 1.40 | +3% |
-| Ambos marcan: No | 55% | 47% | 51% | 2.00 | +1% |
-| Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
-| Goles más/menos: Más de 1.5 | 70% | 75% | 72% | 1.28 | -8% |
+| 1X2: 2 | 22% | 34% | 28% | 2.75 | -23% |
+| 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
+| 1X2: 1 ✅ | 52% | 38% | 45% | 2.45 | +10% |
+| Doble oportunidad: X2 | 48% | 62% | 55% | 1.53 | -16% |
+| Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
+| Doble oportunidad: 1X | 78% | 67% | 73% | 1.40 | +2% |
+| Ambos marcan: No | 54% | 47% | 50% | 2.00 | +1% |
+| Ambos marcan: Sí | 46% | 53% | 50% | 1.75 | -13% |
+| Goles más/menos: Más de 1.5 | 69% | 75% | 72% | 1.28 | -8% |
 | Goles más/menos: Más de 2.5 | 43% | 50% | 47% | 1.91 | -11% |
 | Goles más/menos: Más de 3.5 | 22% | 28% | 25% | 3.40 | -14% |
-| Goles más/menos: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +5% |
+| Goles más/menos: Menos de 1.5 | 31% | 25% | 28% | 3.75 | +5% |
 | Goles más/menos: Menos de 2.5 | 57% | 50% | 53% | 1.91 | +2% |
 | Goles más/menos: Menos de 3.5 | 78% | 72% | 75% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -3% |
-| Goles del local: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
-| Goles del local: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
-| Goles del local: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |
-| Goles del local: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
-| Goles del visitante: Más de 0.5 | 57% | 71% | 64% | 1.33 | -15% |
-| Goles del visitante: Más de 1.5 | 21% | 38% | 29% | 2.50 | -27% |
-| Goles del visitante: Menos de 0.5 ✅ | 43% | 29% | 36% | 3.25 | +17% |
-| Goles del visitante: Menos de 1.5 | 79% | 62% | 71% | 1.50 | +6% |
-| Córners más/menos: Más de 8.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Córners más/menos: Menos de 8.5 | 51% | 46% | 49% | 2.00 | -3% |
-| 1X2 descanso: 2 | 17% | 27% | 22% | 3.40 | -24% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles del local: Más de 0.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Goles del local: Más de 1.5 | 45% | 41% | 43% | 2.25 | -3% |
+| Goles del local: Menos de 0.5 | 22% | 27% | 24% | 3.50 | -15% |
+| Goles del local: Menos de 1.5 | 55% | 59% | 57% | 1.57 | -10% |
+| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -14% |
+| Goles del visitante: Más de 1.5 | 22% | 38% | 30% | 2.50 | -25% |
+| Goles del visitante: Menos de 0.5 ✅ | 41% | 29% | 35% | 3.25 | +14% |
+| Goles del visitante: Menos de 1.5 | 78% | 62% | 70% | 1.50 | +5% |
+| Córners más/menos: Más de 8.5 | 50% | 54% | 52% | 1.73 | -10% |
+| Córners más/menos: Menos de 8.5 | 50% | 46% | 48% | 2.00 | -4% |
+| 1X2 descanso: 2 | 19% | 27% | 23% | 3.40 | -22% |
 | 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
-| 1X2 descanso: 1 | 38% | 30% | 34% | 3.10 | +5% |
+| 1X2 descanso: 1 | 37% | 30% | 33% | 3.10 | +3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
