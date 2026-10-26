@@ -97,12 +97,27 @@ def frec_calibrada(p, cal=None):
     t = (cal.get("tipos") or {}).get(seg_tipo(p)) or cal.get("global")
     m = (cal.get("mercados") or {}).get(seg_fino(p))
     if not t:
-        return f
+        return con_xg(p, f)
     v = recta(t)
     if m:
         w = m["n"] / (m["n"] + 100)          # con pocos casos manda el tipo de mercado
         v = w * recta(m) + (1 - w) * v
-    return max(0.05, min(0.97, v))
+    return con_xg(p, max(0.05, min(0.97, v)))
+
+
+def con_xg(p, v):
+    """Mezcla con la probabilidad del xG en los mercados de goles, con el peso que mejor funcionó en el
+    histórico (prueba_xg.py → datos/xg_prueba.json), rebajado mientras haya pocos partidos con xG."""
+    px = p.get("prob_xg")
+    if px is None:
+        return v
+    if "xg" not in _CAL:
+        _CAL["xg"] = leer(DATOS / "xg_prueba.json", {}) or {}
+    r = _CAL["xg"].get(seg_fino(p))
+    if not r:
+        return v
+    w = r["peso_xg"] * r["n"] / (r["n"] + 150)
+    return max(0.05, min(0.97, (1 - w) * v + w * px))
 
 
 def calibrar(resueltos):

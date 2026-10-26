@@ -1094,6 +1094,8 @@ def enriquecer(picks, prox, hist, arbitros):
     otras = prox.get("cuotas_otras") or {}
     hist_c = prox.get("cuotas_hist") or {}
     fuera = {loc["id"]: titulares_fuera(prox, loc["id"], hist), vis["id"]: titulares_fuera(prox, vis["id"], hist)}
+    import prueba_xg as xg
+    lam_xg = xg.lambdas(hist, loc["id"], vis["id"])
     salida = []
     for p in picks:
         m, o = p["mercado"], p["opcion"]
@@ -1137,6 +1139,10 @@ def enriquecer(picks, prox, hist, arbitros):
             p = dict(p, movimiento=round(float(serie[-1][1]) / float(serie[0][1]) - 1, 3), cuota_inicial=float(serie[0][1]))
         if arb:
             p = dict(p, arbitro=arb, arbitro_tarjetas=round(sum(tarj_arb) / len(tarj_arb), 1) if tarj_arb else None)
+        # 26/10: probabilidad según el xG reciente (prueba_xg.py: en los mercados de goles predice mejor que la frecuencia)
+        if f"{m}|{o}" in xg.MERCADOS and lam_xg:
+            p = dict(p, prob_xg=round(xg.prob_xg(f"{m}|{o}", *lam_xg), 3),
+                     xg_esperado=round(lam_xg[0] + lam_xg[1], 2))
         salida.append(p)
     return salida
 
