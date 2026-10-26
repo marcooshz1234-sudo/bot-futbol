@@ -67,10 +67,15 @@ def atractivo(p):
     return calidad(p) + extra
 
 
+PROB_MIN_LISTA = 0.60
+
+
 def mejores_para_lista(picks):
     """Un pick por partido y variedad: se van cogiendo por turnos de cada tipo (goles, tiros,
     jugador, tarjetas, córners...) para que la lista no sea casi todo goles."""
-    candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])]
+    # 26/10: en las listas solo lo que el bot de verdad ve probable (antes salía "Gana el Lazio" con un 47 %)
+    candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])
+                  and (p.get("prob_aprendida") is None or p["prob_aprendida"] >= PROB_MIN_LISTA)]
     por_tipo = {}
     for p in candidatos:
         por_tipo.setdefault(p.get("tipo") or "otros", []).append(p)
@@ -337,6 +342,8 @@ def main():
     anteriores = {p["id"]: p for p in (leer(AUTO, []) or [])}
     ahora = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
 
+    # 26/10: a la hora de una combi cambiada a mano no sale otra combi automática (salían dos a las 12:00)
+    horas_fijas = {p["fecha"] for p in anteriores.values() if p.get("fijo")}
     nuevos = {}
     for dia, d in picks["dias"].items():
         if dia < ESCALERA_DESDE:
@@ -349,6 +356,8 @@ def main():
             if p["id"] in publicados:        # publicado en cualquier destino: conservar texto y selecciones
                 continue
             if (anteriores.get(p["id"]) or {}).get("fijo"):   # cambiado a mano: no se regenera
+                continue
+            if "-combi-" in p["id"] and p["fecha"] in horas_fijas:
                 continue
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse
                 continue

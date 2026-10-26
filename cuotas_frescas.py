@@ -73,6 +73,8 @@ def main():
         total = 1.0
         for c in legs:
             total *= c
+        # 26/10: el título también lleva la cuota ("x1,70") y se quedaba la vieja
+        lineas[0] = re.sub(r"x\d+,\d\d", f"x{num(total)}", lineas[0], count=1)
         texto = "\n".join(lineas)
         texto = re.sub(r"🎯 Cuota total: \d+,\d\d", f"🎯 Cuota total: {num(total)}", texto)
         texto = re.sub(r"💶 10€ → \d+,\d\d€", f"💶 10€ → {num(total * 10)}€", texto)

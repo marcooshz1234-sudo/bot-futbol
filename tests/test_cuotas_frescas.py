@@ -10,7 +10,7 @@ class CuotasFrescas(unittest.TestCase):
         ahora = datetime.now(cf.MADRID)
         post = {"id": "x-combi-segura", "fecha": (ahora + timedelta(minutes=30)).strftime("%Y-%m-%dT%H:%M"),
                 "sel": ["1|Goals Over/Under|Over 1.5", "2|Match Winner|Home"],
-                "texto": "T\n\n✅1. Más de 1,5 goles · 1,30\n✅2. Gana el A · 1,50\n\n🎯 Cuota total: 1,95\n💶 10€ → 19,50€"}
+                "texto": "COMBI x1,95 · LUNES\n\n✅1. Más de 1,5 goles · 1,30\n✅2. Gana el A · 1,50\n\n🎯 Cuota total: 1,95\n💶 10€ → 19,50€"}
         with tempfile.TemporaryDirectory() as d:
             auto = Path(d) / "auto.json"; auto.write_text(json.dumps([post]))
             api = mock.MagicMock()
@@ -27,6 +27,7 @@ class CuotasFrescas(unittest.TestCase):
         self.assertIn("✅1. Más de 1,5 goles · 1,20", t)
         self.assertIn("🎯 Cuota total: 1,80", t)
         self.assertIn("💶 10€ → 18,00€", t)
+        self.assertTrue(t.startswith("COMBI x1,80 · LUNES"))
 
 
 if __name__ == "__main__":
