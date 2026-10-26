@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 15:36",
+ "actualizado": "2026-10-26 17:07",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -10,12 +10,12 @@
    ]
   },
   "threads": {
-   "seguidores": 932,
-   "hoy": 2,
+   "seguidores": 934,
+   "hoy": 4,
    "serie": [
     836,
     930,
-    932
+    934
    ]
   },
   "facebook": {
@@ -38,13 +38,13 @@
    ]
   }
  },
- "total": 1021,
- "total_hoy": 1,
+ "total": 1023,
+ "total_hoy": 3,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "19:45",
   "dia": "2026-10-26",
-  "titulo": "Sabías que"
+  "titulo": "Psg  lyon"
  },
  "ayer": {
   "aciertos": 25,
@@ -54,7 +54,7 @@
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 38.0,
+  "objetivo": 37.4,
   "fecha": "2026-10-27"
  },
  "historial": {
@@ -74,7 +74,7 @@
   },
   "2026-10-26": {
    "instagram": 19,
-   "threads": 932,
+   "threads": 934,
    "facebook": 0,
    "telegram": 70
   }
