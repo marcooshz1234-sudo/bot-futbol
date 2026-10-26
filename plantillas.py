@@ -122,6 +122,81 @@ def combi_partido_grande(d):
     return max(cands, key=lambda c: (grandeza(c), c.get("cuota_sumada", 0)), default=None)
 
 
+# 27/10: las combis de un solo partido, con el formato que mejor ha funcionado en Threads (Barça–Madrid):
+# texto en mayúsculas con la cuota de cada pata, "resultado probable" y una foto-tarjeta del partido con los
+# escudos y la hora (imagenes.tarjeta → {id}.tarjeta.jpg, la que suben Threads e Instagram)
+LIGA_NOMBRE = {"LaLiga": "LALIGA", "Premier League": "PREMIER", "Premier": "PREMIER", "Serie A": "SERIE A",
+               "Bundesliga": "BUNDESLIGA", "Ligue 1": "LIGUE 1", "Champions League": "CHAMPIONS", "Champions": "CHAMPIONS",
+               "Europa League": "EUROPA LEAGUE", "Conference League": "CONFERENCE", "Conference": "CONFERENCE"}
+
+
+def datos_tarjeta(cp):
+    """Escudos, ids y hora del partido de una combi (de datos/extra), o None."""
+    from bot import EXTRA
+    pa = (leer(EXTRA / f"{cp['picks'][0]['partido_id']}.json") or {}).get("partido")
+    if not pa:
+        return None
+    t = pa["teams"]
+    return {"local": cp["local"], "visitante": cp["visitante"], "id_l": t["home"]["id"], "id_v": t["away"]["id"],
+            "logo_l": t["home"].get("logo"), "logo_v": t["away"].get("logo"), "fecha": cp["fecha"],
+            "liga": cp.get("competicion")}
+
+
+def cumple(p, gl, gv):
+    """¿El marcador gl-gv cumple la pata? None si la pata no depende solo del marcador."""
+    m, o = p["mercado"], str(p["opcion"])
+    linea = lambda: float(o.split()[-1])
+    if m == "Goals Over/Under" and o.startswith("Over"):
+        return gl + gv > linea()
+    if m == "Both Teams Score":
+        return (gl > 0 and gv > 0) == (o == "Yes")
+    if m == "Match Winner":
+        return {"Home": gl > gv, "Away": gv > gl, "Draw": gl == gv}.get(o)
+    if m == "Double Chance":
+        return {"Home/Draw": gl >= gv, "Draw/Away": gv >= gl}.get(o)
+    if m == "Total - Home" and o.startswith("Over"):
+        return gl > linea()
+    if m == "Total - Away" and o.startswith("Over"):
+        return gv > linea()
+    return None
+
+
+def resultados_probables(cp, tj, n=3):
+    """Los n marcadores más probables (Poisson con el xG reciente) que cumplen las patas de la combi."""
+    try:
+        import math
+        import prueba_xg
+        from picks import historial
+        lam = prueba_xg.lambdas(historial(), tj["id_l"], tj["id_v"])
+    except Exception:
+        return []
+    if not lam:
+        return []
+    pois = lambda k, l: math.exp(-l) * l ** k / math.factorial(k)
+    cands = []
+    for gl in range(7):
+        for gv in range(7):
+            if all(cumple(p, gl, gv) is not False for p in cp["picks"]):
+                cands.append((pois(gl, lam[0]) * pois(gv, lam[1]), f"{gl}-{gv}"))
+    return [r for _, r in sorted(cands, reverse=True)[:n]]
+
+
+def texto_combi_partido(cp, tj, cuota):
+    liga = LIGA_NOMBRE.get(cp.get("competicion"), str(cp.get("competicion") or "").upper())
+    band = BANDERA.get(cp.get("competicion"), "⚽")
+    lineas = [f"✅ COMBI LOCAS | {liga}", f"{band} {cp['local'].upper()} vs {cp['visitante'].upper()} {band}", ""]
+    partido = f"{cp['local']}–{cp['visitante']}"
+    for i, p in enumerate(cp["picks"]):
+        t = p["texto"].replace(f" en el {partido}", "").replace(f" del {partido}", "").replace(f" en {partido}", "")
+        lineas.append(f"{'🎯' if i == 0 else '✅'} {t.upper()} [x{p['cuota']:.2f}]")
+    rp = resultados_probables(cp, tj) if tj else []
+    lineas.append("")
+    if rp:
+        lineas.append(f"🔥 Resultado probable: {' | '.join(rp)}")
+    lineas += [f"💥 Cuota total aprox.: {num(cuota)}", "🟢 VERDE A VERDE 🟢"]
+    return "\n".join(lineas)
+
+
 # 26/10: cierres que invitan a responder (las respuestas son lo que más mueve Threads). La pregunta de
 # siempre ("¿la pintamos de verde?") rendía menos que no poner nada. Se rotan para no repetir.
 CIERRES = ["👇 ¿Qué pata quitarías tú?",
@@ -185,6 +260,7 @@ def posts_del_dia(dia, d):
                           f"💶 10€ → {num(ct * 10)}€\n\n{dato(par)}\n\n{cierre(dia, 'dia')}"))
 
     cp = combi_partido_grande(d)
+    tarjeta = None
     if cp:
         cuota = cp.get("cuota_sumada")
         if not cuota:
@@ -193,13 +269,9 @@ def posts_del_dia(dia, d):
                 cuota *= p["cuota"]
         inicio = datetime.fromisoformat(cp["fecha"]).replace(tzinfo=MADRID)
         apuntar(cp["picks"])
+        tarjeta = datos_tarjeta(cp)
         # 50 min antes: ya están las alineaciones (salen ~1 h antes) y alineaciones_posts.py quita a quien no sea titular
-        posts.append(("combi-partido", inicio - timedelta(minutes=50), cp["picks"],
-                      f"{BANDERA.get(cp.get('competicion'), '⚽')} {corto(cp['local'])} 🆚 {corto(cp['visitante'])} · "
-                      f"COMBI x{num(cuota)}\n💥 COMBI DEL PARTIDO · {inicio:%H:%M}\n\n"
-                      + "\n".join(f"✅ {p['texto']}" for p in cp["picks"])
-                      + f"\n\n🎯 Cuota aprox.: {num(cuota)} (en Crear apuesta puede variar)\n"
-                      f"💶 10€ → {num(cuota * 10)}€\n\n{dato(cp['picks'])}\n\n{cierre(dia, 'partido')}"))
+        posts.append(("combi-partido", inicio - timedelta(minutes=50), cp["picks"], texto_combi_partido(cp, tarjeta, cuota)))
 
     esc = leer(DATOS / "escalera.json") or {}
     act = esc.get("actual")
@@ -318,6 +390,8 @@ def posts_del_dia(dia, d):
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "foto": None, "origen": "analista", "directo": True,
                        "sel": ["|".join(map(str, clave(p))) for p in picks]})
+        if tipo == "combi-partido" and tarjeta:
+            salida[-1]["tarjeta"] = tarjeta
     return salida
 
 

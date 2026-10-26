@@ -10,6 +10,7 @@ No inventa nada: solo el texto del post y, si la hay, la foto que manda el dueñ
 """
 
 import base64
+from datetime import datetime
 import html
 import json
 import subprocess
@@ -124,8 +125,71 @@ def ajustar_al_lienzo(pagina, alto):
         raise RuntimeError(f"Texto fuera del lienzo: {limite} > {alto}")
 
 
+TARJETA = """<!doctype html><html><head><meta charset="utf-8"><style>
+body{margin:0;width:1080px;height:608px;background:#101010;display:flex;align-items:center;justify-content:center;
+font-family:-apple-system,"Helvetica Neue",Arial,sans-serif}
+.c{width:980px;height:470px;border-radius:44px;background:linear-gradient(180deg,#2a2622,#1d1b19);display:flex;
+align-items:center;justify-content:space-between;padding:0 70px;box-sizing:border-box;color:#fff;position:relative}
+.eq{display:flex;flex-direction:column;align-items:center;gap:26px;width:260px}
+.eq img{width:190px;height:190px;object-fit:contain}
+.eq b{font-size:36px;font-weight:600;text-align:center;line-height:1.1}
+.m{text-align:center}.m b{font-size:84px;font-weight:700;display:block}.m span{font-size:38px;color:#b9b4ae}
+.liga{position:absolute;top:30px;left:0;right:0;text-align:center;font-size:28px;letter-spacing:4px;color:#8f8a84}
+</style></head><body><div class="c"><div class="liga">{liga}</div>
+<div class="eq"><img src="{logo_l}"><b>{local}</b></div>
+<div class="m"><b>{hora}</b><span>{dia}</span></div>
+<div class="eq"><img src="{logo_v}"><b>{visitante}</b></div></div></body></html>"""
+
+
+def escudo(url, nombre):
+    """El escudo incrustado (se descarga y se guarda en publicaciones/media/escudos); si no se puede, las
+    iniciales del equipo en un círculo, mejor que una imagen rota."""
+    import urllib.request
+    if url:
+        cache = MEDIA / "escudos" / Path(url).name
+        try:
+            if not cache.exists():
+                cache.parent.mkdir(parents=True, exist_ok=True)
+                cache.write_bytes(urllib.request.urlopen(url, timeout=10).read())
+            return f'<img src="data:image/png;base64,{base64.b64encode(cache.read_bytes()).decode()}">'
+        except Exception as e:
+            print(f"Escudo de {nombre}: {e}")
+    ini = "".join(w[0] for w in nombre.split()[:2]).upper()
+    return (f'<div style="width:190px;height:190px;border-radius:50%;background:#3a3631;display:flex;'
+            f'align-items:center;justify-content:center;font-size:70px;font-weight:700">{html.escape(ini)}</div>')
+
+
+def tarjeta(p, pagina):
+    """27/10: foto del partido para las combis de un solo partido (escudos, hora y día), como las que
+    mejor funcionaron en Threads. → publicaciones/media/{id}.tarjeta.jpg"""
+    import html
+    t = p["tarjeta"]
+    ini = datetime.fromisoformat(t["fecha"])
+    hoy = datetime.fromisoformat(p["fecha"][:10])
+    dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
+    dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
+    doc = TARJETA
+    for k, v in {"liga": t.get("liga") or "", "local": t["local"], "visitante": t["visitante"],
+                 "hora": f"{ini:%H:%M}", "dia": dia}.items():
+        doc = doc.replace("{" + k + "}", html.escape(str(v)))
+    for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):
+        doc = doc.replace('<img src="{' + k + '}">', escudo(t.get(k), nombre))
+    pagina.set_viewport_size({"width": 1080, "height": 608})
+    pagina.goto("about:blank")
+    pagina.set_content(doc, wait_until="networkidle")
+    pagina.wait_for_timeout(300)
+    out = MEDIA / f"{p['id']}.tarjeta.jpg"
+    pagina.screenshot(path=str(out), type="jpeg", quality=92)
+    return out
+
+
 def generar(p, pagina):
     MEDIA.mkdir(parents=True, exist_ok=True)
+    if p.get("tarjeta"):
+        try:
+            tarjeta(p, pagina)
+        except Exception as e:
+            print(f"Tarjeta de {p['id']}: {e}")
     foto = None
     if p.get("foto"):
         foto = base64.b64encode((RAIZ / p["foto"]).read_bytes()).decode()

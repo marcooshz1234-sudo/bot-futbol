@@ -113,6 +113,9 @@ def threads(p, token):
     if len(t) > LIMITE_THREADS:
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     datos = {"media_type": "TEXT", "text": t, "access_token": token}
+    foto = url_media(p, "tarjeta.jpg")   # 27/10: combis de un partido → con la foto del partido (escudos y hora)
+    if foto:
+        datos = {"media_type": "IMAGE", "image_url": foto, "text": t, "access_token": token}
     if TEMA_THREADS:
         datos["topic_tag"] = TEMA_THREADS   # el tema que sale al lado del nombre: combilocas › Apuestas deportivas
     try:
@@ -122,7 +125,7 @@ def threads(p, token):
             raise
         datos.pop("topic_tag")   # si Threads rechaza el tema, se publica igual sin él
         c = llamar("POST", f"{THREADS}/me/threads", datos)
-    time.sleep(3)
+    time.sleep(25 if foto else 3)   # con imagen, Threads necesita unos segundos para procesarla
     return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
 
@@ -138,7 +141,7 @@ def esperar_contenedor(base, cid, token, intentos=40):
 
 
 def instagram(p, token, reel=False):
-    url = url_media(p, "mp4" if reel else "jpg")
+    url = url_media(p, "mp4" if reel else "jpg") if reel else (url_media(p, "tarjeta.jpg") or url_media(p, "jpg"))
     if not url:
         raise RuntimeError("falta la imagen/vídeo en publicaciones/media")
     params = {"caption": texto_final(p), "access_token": token}
