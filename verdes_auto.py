@@ -21,7 +21,8 @@ NO_ES = re.compile(r"^\s*(✅|📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ F
 
 def limpio(t):
     t = re.sub(r"\s*x\d+(,\d+)?", "", t)   # la cuota ya va en "¡VERDE xN!"
-    return re.sub(r"[🔒💥🤪🍀🛡️🎯📊]", "", t).strip()
+    t = re.sub(r"[🔒💥🤪🍀🛡️🎯📊]", "", t).strip()
+    return re.sub(r"\s*·\s*$", "", t)          # «LUNES DE GOLES ·» sin el punto suelto
 
 
 def num(c):
@@ -36,7 +37,9 @@ def main():
     ahora = datetime.now(MADRID)
     nuevos = []
     for p in d.get("publicados_hoy", []):
-        if p["id"] in hechos or p.get("estado") != "verde" or not ES_COMBI.search(p["titulo"]) or NO_ES.search(p["titulo"]):
+        # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
+        es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera", p["id"]) and "verde-auto" not in p["id"])
+        if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
         if not legs or len(legs) != len(p.get("picks", [])):
