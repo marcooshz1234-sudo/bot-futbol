@@ -208,14 +208,14 @@
   },
   "2026-10-26": {
     "dia": "2026-10-26",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -229,8 +229,14 @@
         "titulo": "🎯 LA COMBI DEL LUNES 🎯",
         "estado": "pendiente",
         "cuota": 1.84
+      },
+      {
+        "id": "2026-10-26-combi-tema",
+        "titulo": "⚽ LUNES DE GOLES · x2,82",
+        "estado": "pendiente",
+        "cuota": 2.34
       }
     ],
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 📊 COMBI DE DATOS x1,70 · LUNES 📊 · 1,75 · pendiente\n⏳ 🎯 LA COMBI DEL LUNES 🎯 · 1,84 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 📊 COMBI DE DATOS x1,70 · LUNES 📊 · 1,75 · pendiente\n⏳ 🎯 LA COMBI DEL LUNES 🎯 · 1,84 · pendiente\n⏳ ⚽ LUNES DE GOLES · x2,82 · 2,34 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }

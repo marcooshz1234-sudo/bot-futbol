@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 12:57",
+ "actualizado": "2026-10-26 13:09",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -42,9 +42,9 @@
  "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:00",
+  "hora": "16:00",
   "dia": "2026-10-26",
-  "titulo": "Lunes de goles · x2,82"
+  "titulo": "Sabías que"
  },
  "ayer": {
   "aciertos": 25,
@@ -81,7 +81,7 @@
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 7,
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -91,8 +91,8 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 10,
-   "likes_media": 0.1,
+   "posts": 9,
+   "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Verdes/balance": {
