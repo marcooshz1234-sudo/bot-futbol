@@ -75,11 +75,22 @@ details summary{cursor:pointer}
 <body>
 <header><div class="row"><img class="marca-logo" src="../logo.png?v=cl2" alt="Logo Combilocas"><h1>COMBILOCAS</h1><span class="sp"></span><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div><small id="act">Cargando…</small></header>
 <main id="vista"></main>
+<div style="text-align:center;color:rgba(255,255,255,.75);font:600 12px var(--f);margin:6px 16px 96px">🔞 +18 · Juega con responsabilidad · Son datos e información, no consejos de apuesta</div>
 <nav id="nav"></nav>
 <div class="toast" id="toast"></div>
 <script>
 const RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/docs/datos.json";
-const PUBLICA = location.pathname.includes("/publica");   // versión para compartir: sin lo interno
+const PUBLICA = location.pathname.includes("/publica");
+const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under First Half":"Goles en la 1ª parte","Goals Over/Under - Second Half":"Goles en la 2ª parte",
+  "Both Teams Score":"Ambos marcan","Total - Home":"Goles del local","Total - Away":"Goles del visitante","Double Chance":"Doble oportunidad",
+  "Match Winner":"Ganador del partido","To Win Either Half":"Gana alguna parte","Corners Over Under":"Córners totales",
+  "Home Corners Over/Under":"Córners del local","Away Corners Over/Under":"Córners del visitante","Cards Over/Under":"Tarjetas totales",
+  "Home Team Total Cards":"Tarjetas del local","Away Team Total Cards":"Tarjetas del visitante","Total Shots":"Tiros totales",
+  "Total ShotOnGoal":"Tiros a puerta totales","Offsides Total":"Fueras de juego","Home Player Shots":"Tiros de jugador (local)",
+  "Away Player Shots":"Tiros de jugador (visitante)","Home Player Shots On Target Total":"Tiros a puerta de jugador (local)",
+  "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
+  "Results/Both Teams Score":"Resultado y ambos marcan"};
+const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
 const PESTANAS = [["hoy","⚽","Hoy"],["partidos","📅","Partidos"],["contenido","✍️","Contenido"],["stats","📈","Stats"],["bot","🤖","Bot"]]
   .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
@@ -98,7 +109,7 @@ async function copiar(t){try{await navigator.clipboard.writeText(t);toast("Copia
 
 async function cargar(){
   $("#act").textContent = "Actualizando…";
-  try { const r = await fetch((PUBLICA ? "../datos.json" : "datos.json") + "?t=" + Date.now(), {cache:"no-store"}); if(!r.ok) throw 0; D = await r.json(); }
+  try { const r = await fetch("datos.json?t=" + Date.now(), {cache:"no-store"}); if(!r.ok) throw 0; D = await r.json(); }
   catch(e){ try { D = await (await fetch(RAW+"?t="+Date.now(), {cache:"no-store"})).json() } catch(e2){} }
   if(!D){ $("#vista").innerHTML = `<div class="empty">Sin conexión. Prueba otra vez.</div>`; $("#act").textContent=""; return }
   $("#act").textContent = "Datos del bot · " + D.generado.slice(8,10)+"/"+D.generado.slice(5,7)+" "+D.generado.slice(11);
@@ -116,7 +127,7 @@ function vHoy(){
   const d = D.dias[dia] || {picks:[],combis:{}};
   let h = t;
   const tops = d.picks.filter(p => p.a_favor && p.a_favor.top && p.estado==="pendiente");
-  if(tops.length){ h += `<h2>⭐ Con todo a favor</h2><div class="card" style="border-left:5px solid var(--warn)">` + tops.slice(0,6).map(p => `<div class="leg"><div class="col sp"><span><b>${esc(p.texto)}</b></span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · a favor: ${p.a_favor.si.join(", ")}</span></div><span class="cuota">${n2(p.cuota)}</span><span class="chip warn">${p.frecuencia}%</span></div>`).join("") + `</div>` }
+  if(tops.length){ h += `<h2>⭐ Con todo a favor</h2><div class="card" style="border-left:5px solid var(--warn)">` + tops.slice(0,6).map(p => `<div class="leg"><div class="col sp"><span><b>${esc(p.texto)}</b></span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · a favor: ${p.a_favor.si.join(", ")}</span></div><span class="cuota">${n2(p.cuota)}</span><span class="chip warn">${p.pct_real??p.frecuencia}%</span></div>`).join("") + `</div>` }
   const gd = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia && x.cuota).sort((a,b)=>(b.valor??-9)-(a.valor??-9))[0];
   if(gd){ h += `<h2>⚽ Goleador del día</h2><div class="card row"><span style="font-size:30px">⚽</span><div class="col sp"><b>${esc(gd.jugador)} marca</b><span class="mut">${esc(gd.partido)} · ${gd.fecha.slice(11)} · ${gd.goles} goles en ${gd.partidos} partidos (${String(gd.media).replace(".",",")}/partido)</span></div><span class="cuota big" style="font-size:22px">${n2(gd.cuota)}</span></div>` }
   if(D.alertas.length){ h += `<h2>🚨 Alertas de cuota</h2>` + D.alertas.map(a => `<div class="card"><div class="row"><b class="sp">${esc(a.texto)}</b><span class="chip warn">+${a.sube}%</span></div><div class="row mut" style="margin-top:4px"><span class="sp">${esc(a.partido)} · ${a.fecha.slice(11)} · se cumplió ${a.frecuencia}%</span><span>${n2(a.antes)} → <b class="cuota">${n2(a.cuota)}</b></span></div></div>`).join("") }
@@ -127,7 +138,7 @@ function vHoy(){
   h += `<h2>Combis del análisis actual</h2><div class="mut" style="margin-bottom:10px">Pueden cambiar con las cuotas. Las publicadas se siguen en Partidos.</div>` + (cs.length ? cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") : `<div class="empty">Sin combis para este día</div>`);
   const e = D.escalera.actual;
   if(e){ const hecho = e.escalon-1; h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div><div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<=hecho?"var(--ok)":i===e.escalon?"var(--warn)":""}"></div>`).join("")}</div>${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
-  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${p.a_favor&&p.a_favor.top?"⭐ ":""}${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
+  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${p.a_favor&&p.a_favor.top?"⭐ ":""}${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
   const gh = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia);
   if(gh.length){ h += `<h2>⚽ Goleadores que juegan</h2><div class="card">` + gh.map(x => `<div class="leg"><div class="col sp"><span><b>${esc(x.jugador)}</b> marca</span><span class="mut">${esc(x.partido)} · ${x.fecha.slice(11)} · ${x.goles} goles en ${x.partidos} (${String(x.media).replace(".",",")}/partido) · ${x.puesto}º de su liga</span></div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:`<span class="mut">sin cuota</span>`}${x.valor!=null&&x.valor>0?`<span class="chip verde">valor</span>`:""}</div>`).join("") + `</div>` }
   if(D.valor.length){ h += `<h2>💎 Con valor según el modelo</h2><div class="card">` + D.valor.slice(0,8).map(v => `<div class="leg"><div class="col sp"><span>${esc(v.texto||(v.mercado+" · "+v.opcion))}</span><span class="mut">${esc(v.partido)} · ${esc(v.competicion)}${v.hora?" · "+v.hora:""}</span></div><span class="cuota">${n2(v.cuota)}</span><span class="chip verde">+${Math.round(v.valor*100)}%</span></div>`).join("") + `</div>` }
@@ -149,7 +160,7 @@ function tarjetaPartido(p){
    <div class="match"><div class="team sp"><img src="${esc(p.logo_l)}" alt="" loading="lazy"><span>${esc(p.local)}</span></div><div class="score">${marcador}</div><div class="team sp" style="justify-content:flex-end"><span>${esc(p.visitante)}</span><img src="${esc(p.logo_v)}" alt="" loading="lazy"></div></div>
    ${vivo?`<div style="margin:8px 0">${avisoDatos(p.actualizado_iso,true)}</div>`:""}
    <div class="ficha" onclick="event.stopPropagation()">
-    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
+    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.pct_real??x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
     ${f?extrasFicha(p, f):""}
     ${f?`<div class="row" style="margin-bottom:6px"><span class="sp">${forma(f.local.forma)}</span><span class="mut">forma (último a la izq.)</span><span class="sp" style="text-align:right">${forma(f.visitante.forma)}</span></div>
     <table><tr><th>Media últimos ${f.local.partidos}</th><th>${esc(p.local)}</th><th>${esc(p.visitante)}</th></tr>
@@ -346,12 +357,12 @@ function vStats(){
   if(PUBLICA && modo !== "bot") sub.smodo = "bot";
   let h = t; const A = D.aciertos;
   if(modo==="bot" || PUBLICA){
-    h += `<div class="grid2"><div class="stat"><span class="mut">Acierto total</span><b>${A.total.pct??"—"}%</b><span class="mut">${A.total.aciertos}/${A.total.picks} picks</span></div><div class="stat"><span class="mut">Beneficio (10 €/pick)</span><b style="color:${A.total.beneficio>=0?"var(--ok)":"var(--ko)"}">${eur(A.total.beneficio)}</b><span class="mut">desde que hay registro</span></div><div class="stat"><span class="mut">Racha</span><b>${A.racha_dias} 🔥</b><span class="mut">días seguidos ≥70%</span></div><div class="stat"><span class="mut">Último día</span><b>${A.por_dia.length?A.por_dia[A.por_dia.length-1].pct+"%":"—"}</b><span class="mut">${A.por_dia.length?diaTxt(A.por_dia[A.por_dia.length-1].dia):""}</span></div></div>`;
+    h += `<div class="grid2"><div class="stat"><span class="mut">Acierto total</span><b>${A.total.pct??"—"}%</b><span class="mut">${A.total.aciertos}/${A.total.picks} picks</span></div>${PUBLICA?`<div class="stat"><span class="mut">Picks corregidos</span><b>${A.total.picks}</b><span class="mut">todos, también los fallos</span></div>`:`<div class="stat"><span class="mut">Beneficio (10 €/pick)</span><b style="color:${A.total.beneficio>=0?"var(--ok)":"var(--ko)"}">${eur(A.total.beneficio)}</b><span class="mut">desde que hay registro</span></div>`}<div class="stat"><span class="mut">Racha</span><b>${A.racha_dias} 🔥</b><span class="mut">días seguidos ≥70%</span></div><div class="stat"><span class="mut">Último día</span><b>${A.por_dia.length?A.por_dia[A.por_dia.length-1].pct+"%":"—"}</b><span class="mut">${A.por_dia.length?diaTxt(A.por_dia[A.por_dia.length-1].dia):""}</span></div></div>`;
     const [per, t2] = subTabs("per", [["dia","Por día"],["semana","Por semana"],["mes","Por mes"]], "semana");
     const serie = per==="dia"?A.por_dia:per==="semana"?A.por_semana:A.por_mes;
-    h += `<h2>Beneficio a 10 € por pick</h2>${t2}<div class="card">${barras(serie, s=>per==="dia"?s.dia.slice(8,10)+"/"+s.dia.slice(5,7):per==="semana"?s.semana.slice(-3):s.mes.slice(5,7)+"/"+s.mes.slice(2,4), s=>s.beneficio, v=>Math.round(v))}</div>`;
+    if(!PUBLICA) h += `<h2>Beneficio a 10 € por pick</h2>${t2}<div class="card">${barras(serie, s=>per==="dia"?s.dia.slice(8,10)+"/"+s.dia.slice(5,7):per==="semana"?s.semana.slice(-3):s.mes.slice(5,7)+"/"+s.mes.slice(2,4), s=>s.beneficio, v=>Math.round(v))}</div>`;
     h += `<h2>Por tipo de apuesta</h2><div class="card">${Object.entries(A.por_tipo).sort((a,b)=>b[1].pct-a[1].pct).map(([k,v])=>`<div style="padding:6px 0"><div class="row"><span class="sp" style="text-transform:capitalize">${esc(k)}</span><b>${v.pct}%</b><span class="mut" style="width:70px;text-align:right">${v.aciertos}/${v.picks}</span></div><div class="bar"><div style="width:${v.pct}%"></div></div></div>`).join("") || `<div class="mut">Aún sin partidos corregidos</div>`}</div>`;
-    h += `<h2>Por mercado (mín. 3 picks)</h2><div class="card">${A.por_mercado.map(v=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(v.mercado)}</span><b>${v.pct}%</b><span class="mut" style="width:90px;text-align:right">${eur(v.beneficio)}</span></div><div class="bar"><div style="width:${v.pct}%;background:${v.pct>=75?"var(--ok)":v.pct>=60?"var(--warn)":"var(--ko)"}"></div></div></div>`).join("") || `<div class="mut">Aún sin datos suficientes</div>`}</div>`;
+    h += `<h2>Por mercado (mín. 3 picks)</h2><div class="card">${A.por_mercado.map(v=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(nombreMercado(v.mercado))}</span><b>${v.pct}%</b>${PUBLICA?`<span class="mut" style="width:60px;text-align:right">${v.picks??""}</span>`:`<span class="mut" style="width:90px;text-align:right">${eur(v.beneficio)}</span>`}</div><div class="bar"><div style="width:${v.pct}%;background:${v.pct>=75?"var(--ok)":v.pct>=60?"var(--warn)":"var(--ko)"}"></div></div></div>`).join("") || `<div class="mut">Aún sin datos suficientes</div>`}</div>`;
     const hist = D.escalera.historial||[];
     h += `<h2>Escalera · historial</h2><div class="card">${hist.length?hist.slice().reverse().map(x=>`<div class="leg"><span class="sp">${diaTxt(x.dia)} · día ${x.escalon}</span><span class="mut">${num(x.stake)} € x${n2(x.cuota)}</span>${chipEstado(x.resultado==="verde"?"verde":"rojo")}</div>`).join(""):`<div class="mut">Sin intentos todavía</div>`}</div>`;
   } else if(modo==="redes"){
