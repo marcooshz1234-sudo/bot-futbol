@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-26 19:54",
+ "generado": "2026-10-26 21:46",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,325 +7,8 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-10-26": {
-   "picks": [
-    {
-     "partido_id": 1570431,
-     "fecha": "2026-10-26T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Sevilla",
-     "visitante": "Osasuna",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Sevilla–Osasuna",
-     "cuota": 1.4,
-     "frecuencia": 0.778,
-     "ventaja": 0.063,
-     "detalle": "Sevilla 7/9 · Osasuna 7/9",
-     "valor_mercado": 0.0,
-     "movimiento": 0.029,
-     "cuota_inicial": 1.36,
-     "arbitro": "Miguel Angel Ortiz Arias",
-     "arbitro_tarjetas": 4.8,
-     "prob_xg": 0.752,
-     "xg_esperado": 2.7,
-     "prob_aprendida": 0.746
-    },
-    {
-     "partido_id": 1569983,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "FC Andorra",
-     "visitante": "Burgos",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Burgos marca",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "FC Andorra (en contra) 8/10 · Burgos 7/10",
-     "valor_mercado": 0.029,
-     "arbitro": "Miranda Bolano Daniel",
-     "arbitro_tarjetas": null,
-     "prob_xg": 0.732,
-     "xg_esperado": 2.98,
-     "prob_aprendida": 0.675
-    },
-    {
-     "partido_id": 1569983,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "FC Andorra",
-     "visitante": "Burgos",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del FC Andorra–Burgos",
-     "cuota": 1.4,
-     "frecuencia": 0.75,
-     "ventaja": 0.036,
-     "detalle": "FC Andorra 7/10 · Burgos 8/10",
-     "valor_mercado": 0.029,
-     "arbitro": "Miranda Bolano Daniel",
-     "arbitro_tarjetas": null,
-     "prob_aprendida": 0.681
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
-     "cuota": 1.36,
-     "frecuencia": 0.85,
-     "ventaja": 0.115,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10",
-     "valor_mercado": -0.007,
-     "arbitro": "Jerome Brisard",
-     "arbitro_tarjetas": 6.0,
-     "prob_xg": 0.729,
-     "xg_esperado": 3.79,
-     "prob_aprendida": 0.655
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Total Shots",
-     "opcion": "Over 26.5",
-     "tipo": "tiros",
-     "texto": "Más de 26,5 tiros en Paris Saint Germain–Lyon",
-     "cuota": 1.8,
-     "frecuencia": 0.85,
-     "ventaja": 0.294,
-     "detalle": "Paris Saint Germain 10/10 · Lyon 7/10",
-     "arbitro": "Jerome Brisard",
-     "arbitro_tarjetas": 6.0,
-     "prob_aprendida": 0.5
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Paris Saint Germain–Lyon",
-     "cuota": 1.62,
-     "frecuencia": 0.8,
-     "ventaja": 0.183,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 7/10",
-     "valor_mercado": 0.032,
-     "movimiento": 0.032,
-     "cuota_inicial": 1.57,
-     "arbitro": "Jerome Brisard",
-     "arbitro_tarjetas": 6.0,
-     "prob_xg": 0.706,
-     "xg_esperado": 3.79,
-     "prob_aprendida": 0.503
-    },
-    {
-     "partido_id": 1570431,
-     "fecha": "2026-10-26T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Sevilla",
-     "visitante": "Osasuna",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Youssouf Fofana - 1",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "tipo": "jugador",
-     "jugador": "Youssouf Fofana",
-     "equipo": "Sevilla",
-     "jugador_id": 22254,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Youssouf Fofana: 1+ tiros a puerta",
-     "detalle": "Youssouf Fofana 4/5",
-     "temporada": "4/5",
-     "arbitro": "Miguel Angel Ortiz Arias",
-     "arbitro_tarjetas": 4.8,
-     "prob_aprendida": 0.442
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1570431,
-     "fecha": "2026-10-26T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Sevilla",
-     "visitante": "Osasuna",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Sevilla–Osasuna",
-     "cuota": 1.4,
-     "frecuencia": 0.778,
-     "ventaja": 0.063,
-     "detalle": "Sevilla 7/9 · Osasuna 7/9",
-     "valor_mercado": 0.0,
-     "movimiento": 0.029,
-     "cuota_inicial": 1.36,
-     "arbitro": "Miguel Angel Ortiz Arias",
-     "arbitro_tarjetas": 4.8,
-     "prob_xg": 0.752,
-     "xg_esperado": 2.7,
-     "prob_aprendida": 0.746
-    },
-    {
-     "partido_id": 1569983,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "FC Andorra",
-     "visitante": "Burgos",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Burgos marca",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "FC Andorra (en contra) 8/10 · Burgos 7/10",
-     "valor_mercado": 0.029,
-     "arbitro": "Miranda Bolano Daniel",
-     "arbitro_tarjetas": null,
-     "prob_xg": 0.732,
-     "xg_esperado": 2.98,
-     "prob_aprendida": 0.675
-    },
-    {
-     "partido_id": 1552800,
-     "fecha": "2026-10-26T20:30",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Lyon",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Paris Saint Germain–Lyon",
-     "cuota": 1.36,
-     "frecuencia": 0.85,
-     "ventaja": 0.115,
-     "detalle": "Paris Saint Germain 9/10 · Lyon 8/10",
-     "valor_mercado": -0.007,
-     "arbitro": "Jerome Brisard",
-     "arbitro_tarjetas": 6.0,
-     "prob_xg": 0.729,
-     "xg_esperado": 3.79,
-     "prob_aprendida": 0.655
-    }
-   ],
-   "combis": {
-    "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
-      {
-       "partido_id": 1570431,
-       "fecha": "2026-10-26T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Sevilla",
-       "visitante": "Osasuna",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Sevilla–Osasuna",
-       "cuota": 1.4,
-       "frecuencia": 0.778,
-       "ventaja": 0.063,
-       "detalle": "Sevilla 7/9 · Osasuna 7/9",
-       "valor_mercado": 0.0,
-       "movimiento": 0.029,
-       "cuota_inicial": 1.36,
-       "arbitro": "Miguel Angel Ortiz Arias",
-       "arbitro_tarjetas": 4.8,
-       "prob_xg": 0.752,
-       "xg_esperado": 2.7,
-       "prob_aprendida": 0.746
-      },
-      {
-       "partido_id": 1569983,
-       "fecha": "2026-10-26T20:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "FC Andorra",
-       "visitante": "Burgos",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Burgos marca",
-       "cuota": 1.44,
-       "frecuencia": 0.75,
-       "ventaja": 0.056,
-       "detalle": "FC Andorra (en contra) 8/10 · Burgos 7/10",
-       "valor_mercado": 0.029,
-       "arbitro": "Miranda Bolano Daniel",
-       "arbitro_tarjetas": null,
-       "prob_xg": 0.732,
-       "xg_esperado": 2.98,
-       "prob_aprendida": 0.675
-      }
-     ],
-     "cuota": 2.02,
-     "titulo": "⚽ LUNES DE GOLES",
-     "tema": "goles"
-    }
-   },
-   "combis_partido": []
-  },
   "2026-10-27": {
    "picks": [
-    {
-     "partido_id": 1550168,
-     "fecha": "2026-10-27T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "AS Roma",
-     "visitante": "Cagliari",
-     "mercado": "Away Player Shots",
-     "opcion": "Alessandro Romano - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.875,
-     "ventaja": 0.14,
-     "tipo": "jugador",
-     "jugador": "Alessandro Romano",
-     "equipo": "Cagliari",
-     "jugador_id": 394183,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Alessandro Romano: 1+ tiros",
-     "detalle": "Alessandro Romano 7/8",
-     "temporada": "7/8",
-     "movimiento": -0.134,
-     "cuota_inicial": 1.57,
-     "prob_aprendida": 0.721
-    },
     {
      "partido_id": 1550174,
      "fecha": "2026-10-27T18:30",
@@ -344,7 +27,13 @@
      "valor_mercado": -0.037,
      "movimiento": -0.044,
      "cuota_inicial": 1.36,
-     "prob_aprendida": 0.753
+     "posiciones": [
+      14,
+      2,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.768
     },
     {
      "partido_id": 1550175,
@@ -366,7 +55,13 @@
      "cuota_inicial": 1.4,
      "prob_xg": 0.721,
      "xg_esperado": 3.01,
-     "prob_aprendida": 0.685
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.683
     },
     {
      "partido_id": 1550175,
@@ -384,7 +79,13 @@
      "ventaja": 0.009,
      "detalle": "Torino 6/8 · Como 8/10",
      "valor_mercado": -0.023,
-     "prob_aprendida": 0.66
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.661
     },
     {
      "partido_id": 1550168,
@@ -407,7 +108,13 @@
      "texto": "Paul Mendy comete 2+ faltas",
      "detalle": "Paul Mendy 6/7",
      "temporada": "6/7",
-     "prob_aprendida": 0.592
+     "posiciones": [
+      3,
+      9,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.6
     },
     {
      "partido_id": 1550174,
@@ -427,35 +134,16 @@
      "valor_mercado": -0.023,
      "movimiento": -0.045,
      "cuota_inicial": 2.2,
-     "prob_aprendida": 0.479
+     "posiciones": [
+      14,
+      2,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.493
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1550168,
-     "fecha": "2026-10-27T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "AS Roma",
-     "visitante": "Cagliari",
-     "mercado": "Away Player Shots",
-     "opcion": "Alessandro Romano - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.875,
-     "ventaja": 0.14,
-     "tipo": "jugador",
-     "jugador": "Alessandro Romano",
-     "equipo": "Cagliari",
-     "jugador_id": 394183,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Alessandro Romano: 1+ tiros",
-     "detalle": "Alessandro Romano 7/8",
-     "temporada": "7/8",
-     "movimiento": -0.134,
-     "cuota_inicial": 1.57,
-     "prob_aprendida": 0.721
-    },
     {
      "partido_id": 1550174,
      "fecha": "2026-10-27T18:30",
@@ -474,7 +162,13 @@
      "valor_mercado": -0.037,
      "movimiento": -0.044,
      "cuota_inicial": 1.36,
-     "prob_aprendida": 0.753
+     "posiciones": [
+      14,
+      2,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.768
     },
     {
      "partido_id": 1550175,
@@ -496,11 +190,100 @@
      "cuota_inicial": 1.4,
      "prob_xg": 0.721,
      "xg_esperado": 3.01,
-     "prob_aprendida": 0.685
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.683
+    },
+    {
+     "partido_id": 1550168,
+     "fecha": "2026-10-27T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "AS Roma",
+     "visitante": "Cagliari",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Paul Mendy - 2",
+     "cuota": 1.44,
+     "frecuencia": 0.857,
+     "ventaja": 0.163,
+     "tipo": "jugador",
+     "jugador": "Paul Mendy",
+     "equipo": "Cagliari",
+     "jugador_id": 626704,
+     "campo": "faltas_c",
+     "n": 2,
+     "texto": "Paul Mendy comete 2+ faltas",
+     "detalle": "Paul Mendy 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      3,
+      9,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.6
     }
    ],
    "combis": {
-    "segura": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1550174,
+       "fecha": "2026-10-27T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Lazio",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Lazio o empate",
+       "cuota": 1.3,
+       "frecuencia": 0.875,
+       "ventaja": 0.106,
+       "detalle": "Sassuolo 6/8 · Lazio 8/8",
+       "valor_mercado": -0.037,
+       "movimiento": -0.044,
+       "cuota_inicial": 1.36,
+       "posiciones": [
+        14,
+        2,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.768
+      },
+      {
+       "partido_id": 1550175,
+       "fecha": "2026-10-27T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Torino",
+       "visitante": "Como",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del Torino–Como",
+       "cuota": 1.3,
+       "frecuencia": 0.778,
+       "ventaja": 0.009,
+       "detalle": "Torino 6/8 · Como 8/10",
+       "valor_mercado": -0.023,
+       "posiciones": [
+        8,
+        5,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.661
+      }
+     ],
+     "cuota": 1.69
+    },
     "cuota_3": null,
     "loca": null,
     "doble": null
@@ -526,7 +309,13 @@
        "valor_mercado": -0.023,
        "movimiento": -0.045,
        "cuota_inicial": 2.2,
-       "prob_aprendida": 0.479
+       "posiciones": [
+        14,
+        2,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.493
       },
       {
        "partido_id": 1550175,
@@ -543,7 +332,13 @@
        "frecuencia": 0.667,
        "ventaja": 0.167,
        "detalle": "Torino 5/8 · Como 7/10",
-       "prob_aprendida": 0.459
+       "posiciones": [
+        8,
+        5,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.46
       }
      ],
      "cuota": 4.2
@@ -554,27 +349,30 @@
   "2026-10-28": {
    "picks": [
     {
-     "partido_id": 1550172,
-     "fecha": "2026-10-28T20:45",
+     "partido_id": 1550176,
+     "fecha": "2026-10-28T18:30",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Napoli",
-     "mercado": "Home Player Shots",
-     "opcion": "Samuele Birindelli - 1",
-     "cuota": 1.4,
-     "frecuencia": 1.0,
-     "ventaja": 0.286,
-     "tipo": "jugador",
-     "jugador": "Samuele Birindelli",
-     "equipo": "Monza",
-     "jugador_id": 30708,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Samuele Birindelli: 1+ tiros",
-     "detalle": "Samuele Birindelli 8/8",
-     "temporada": "8/8",
-     "prob_aprendida": 0.745
+     "local": "Venezia",
+     "visitante": "Inter",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Inter",
+     "cuota": 1.36,
+     "frecuencia": 0.778,
+     "ventaja": 0.042,
+     "detalle": "Venezia 7/8 · Inter 7/10",
+     "valor_mercado": 0.023,
+     "movimiento": 0.023,
+     "cuota_inicial": 1.33,
+     "posiciones": [
+      20,
+      1,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.74
     },
     {
      "partido_id": 1550172,
@@ -594,7 +392,13 @@
      "valor_mercado": 0.014,
      "prob_xg": 0.812,
      "xg_esperado": 3.2,
-     "prob_aprendida": 0.713
+     "posiciones": [
+      15,
+      10,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.715
     },
     {
      "partido_id": 1550173,
@@ -616,68 +420,13 @@
      "cuota_inicial": 1.36,
      "prob_xg": 0.794,
      "xg_esperado": 2.96,
+     "posiciones": [
+      19,
+      17,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.745
-    },
-    {
-     "partido_id": 1550176,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Venezia",
-     "visitante": "Inter",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Inter",
-     "cuota": 1.36,
-     "frecuencia": 0.778,
-     "ventaja": 0.042,
-     "detalle": "Venezia 7/8 · Inter 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.023,
-     "cuota_inicial": 1.33,
-     "prob_aprendida": 0.725
-    },
-    {
-     "partido_id": 1550176,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Venezia",
-     "visitante": "Inter",
-     "mercado": "Home Player Shots",
-     "opcion": "Antoine Hainaut - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.875,
-     "ventaja": 0.14,
-     "tipo": "jugador",
-     "jugador": "Antoine Hainaut",
-     "equipo": "Venezia",
-     "jugador_id": 275394,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Antoine Hainaut: 1+ tiros",
-     "detalle": "Antoine Hainaut 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.721
-    },
-    {
-     "partido_id": 1550171,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Juventus",
-     "mercado": "To Win Either Half",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Juventus gana alguna de las dos partes",
-     "cuota": 1.4,
-     "frecuencia": 0.778,
-     "ventaja": 0.063,
-     "detalle": "Genoa 7/8 · Juventus 7/10",
-     "valor_mercado": 0.0,
-     "prob_aprendida": 0.709
     },
     {
      "partido_id": 1550173,
@@ -695,30 +444,37 @@
      "ventaja": 0.156,
      "detalle": "Parma 7/8 · Udinese 8/8",
      "valor_mercado": -0.015,
-     "prob_aprendida": 0.734
+     "posiciones": [
+      19,
+      17,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.736
     },
     {
-     "partido_id": 1550172,
+     "partido_id": 1550171,
      "fecha": "2026-10-28T20:45",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Napoli",
-     "mercado": "Home Player Shots",
-     "opcion": "Gustavo Varela - 2",
+     "local": "Genoa",
+     "visitante": "Juventus",
+     "mercado": "To Win Either Half",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Juventus gana alguna de las dos partes",
      "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Gustavo Varela: 2+ tiros",
-     "detalle": "Gustavo Varela 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.694
+     "frecuencia": 0.778,
+     "ventaja": 0.063,
+     "detalle": "Genoa 7/8 · Juventus 7/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.704
     },
     {
      "partido_id": 1550171,
@@ -736,30 +492,13 @@
      "ventaja": 0.033,
      "detalle": "Genoa 6/8 · Juventus 9/10",
      "valor_mercado": -0.023,
-     "prob_aprendida": 0.724
-    },
-    {
-     "partido_id": 1550176,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Venezia",
-     "visitante": "Inter",
-     "mercado": "Home Player Shots",
-     "opcion": "Akor Adams - 2",
-     "cuota": 1.33,
-     "frecuencia": 0.875,
-     "ventaja": 0.123,
-     "tipo": "jugador",
-     "jugador": "Akor Adams",
-     "equipo": "Venezia",
-     "jugador_id": 57446,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Akor Adams: 2+ tiros",
-     "detalle": "Akor Adams 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.695
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.731
     },
     {
      "partido_id": 1550171,
@@ -779,31 +518,16 @@
      "valor_mercado": -0.007,
      "prob_xg": 0.659,
      "xg_esperado": 2.26,
-     "prob_aprendida": 0.691
-    },
-    {
-     "partido_id": 1550172,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Napoli",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Gustavo Varela - 1",
-     "cuota": 1.57,
-     "frecuencia": 0.857,
-     "ventaja": 0.22,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Gustavo Varela: 1+ tiros a puerta",
-     "detalle": "Gustavo Varela 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.562
-    },
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.693
+    }
+   ],
+   "mejores_por_partido": [
     {
      "partido_id": 1550176,
      "fecha": "2026-10-28T18:30",
@@ -811,26 +535,25 @@
      "liga_id": 135,
      "local": "Venezia",
      "visitante": "Inter",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Akor Adams - 1",
-     "cuota": 1.67,
-     "frecuencia": 0.875,
-     "ventaja": 0.276,
-     "tipo": "jugador",
-     "jugador": "Akor Adams",
-     "equipo": "Venezia",
-     "jugador_id": 57446,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Akor Adams: 1+ tiros a puerta",
-     "detalle": "Akor Adams 7/8",
-     "temporada": "7/8",
-     "movimiento": 0.031,
-     "cuota_inicial": 1.62,
-     "prob_aprendida": 0.466
-    }
-   ],
-   "mejores_por_partido": [
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Inter",
+     "cuota": 1.36,
+     "frecuencia": 0.778,
+     "ventaja": 0.042,
+     "detalle": "Venezia 7/8 · Inter 7/10",
+     "valor_mercado": 0.023,
+     "movimiento": 0.023,
+     "cuota_inicial": 1.33,
+     "posiciones": [
+      20,
+      1,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.74
+    },
     {
      "partido_id": 1550172,
      "fecha": "2026-10-28T20:45",
@@ -838,21 +561,24 @@
      "liga_id": 135,
      "local": "Monza",
      "visitante": "Napoli",
-     "mercado": "Home Player Shots",
-     "opcion": "Samuele Birindelli - 1",
-     "cuota": 1.4,
-     "frecuencia": 1.0,
-     "ventaja": 0.286,
-     "tipo": "jugador",
-     "jugador": "Samuele Birindelli",
-     "equipo": "Monza",
-     "jugador_id": 30708,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Samuele Birindelli: 1+ tiros",
-     "detalle": "Samuele Birindelli 8/8",
-     "temporada": "8/8",
-     "prob_aprendida": 0.745
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Monza marca",
+     "cuota": 1.44,
+     "frecuencia": 0.889,
+     "ventaja": 0.194,
+     "detalle": "Monza 8/8 · Napoli (en contra) 8/10",
+     "valor_mercado": 0.014,
+     "prob_xg": 0.812,
+     "xg_esperado": 3.2,
+     "posiciones": [
+      15,
+      10,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.715
     },
     {
      "partido_id": 1550173,
@@ -874,27 +600,13 @@
      "cuota_inicial": 1.36,
      "prob_xg": 0.794,
      "xg_esperado": 2.96,
+     "posiciones": [
+      19,
+      17,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.745
-    },
-    {
-     "partido_id": 1550176,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Venezia",
-     "visitante": "Inter",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Inter",
-     "cuota": 1.36,
-     "frecuencia": 0.778,
-     "ventaja": 0.042,
-     "detalle": "Venezia 7/8 · Inter 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.023,
-     "cuota_inicial": 1.33,
-     "prob_aprendida": 0.725
     },
     {
      "partido_id": 1550171,
@@ -912,158 +624,18 @@
      "ventaja": 0.063,
      "detalle": "Genoa 7/8 · Juventus 7/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.709
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.704
     }
    ],
    "combis": {
     "segura": {
      "picks": [
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Home Player Shots",
-       "opcion": "Samuele Birindelli - 1",
-       "cuota": 1.4,
-       "frecuencia": 1.0,
-       "ventaja": 0.286,
-       "tipo": "jugador",
-       "jugador": "Samuele Birindelli",
-       "equipo": "Monza",
-       "jugador_id": 30708,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Samuele Birindelli: 1+ tiros",
-       "detalle": "Samuele Birindelli 8/8",
-       "temporada": "8/8",
-       "prob_aprendida": 0.745
-      },
-      {
-       "partido_id": 1550171,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "Juventus",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 2ª parte del Genoa–Juventus",
-       "cuota": 1.25,
-       "frecuencia": 0.833,
-       "ventaja": 0.033,
-       "detalle": "Genoa 6/8 · Juventus 9/10",
-       "valor_mercado": -0.023,
-       "prob_aprendida": 0.724
-      }
-     ],
-     "cuota": 1.75
-    },
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
-      {
-       "partido_id": 1550176,
-       "fecha": "2026-10-28T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Venezia",
-       "visitante": "Inter",
-       "mercado": "Home Player Shots",
-       "opcion": "Antoine Hainaut - 1",
-       "cuota": 1.36,
-       "frecuencia": 0.875,
-       "ventaja": 0.14,
-       "tipo": "jugador",
-       "jugador": "Antoine Hainaut",
-       "equipo": "Venezia",
-       "jugador_id": 275394,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Antoine Hainaut: 1+ tiros",
-       "detalle": "Antoine Hainaut 7/8",
-       "temporada": "7/8",
-       "prob_aprendida": 0.721
-      },
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Home Player Shots",
-       "opcion": "Gustavo Varela - 2",
-       "cuota": 1.4,
-       "frecuencia": 0.857,
-       "ventaja": 0.143,
-       "tipo": "jugador",
-       "jugador": "Gustavo Varela",
-       "equipo": "Monza",
-       "jugador_id": 340547,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Gustavo Varela: 2+ tiros",
-       "detalle": "Gustavo Varela 6/7",
-       "temporada": "6/7",
-       "prob_aprendida": 0.694
-      }
-     ],
-     "cuota": 1.9,
-     "titulo": "🎯 MIÉRCOLES DE REMATES",
-     "tema": "remates"
-    },
-    "liga": {
-     "picks": [
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Monza marca",
-       "cuota": 1.44,
-       "frecuencia": 0.889,
-       "ventaja": 0.194,
-       "detalle": "Monza 8/8 · Napoli (en contra) 8/10",
-       "valor_mercado": 0.014,
-       "prob_xg": 0.812,
-       "xg_esperado": 3.2,
-       "prob_aprendida": 0.713
-      },
-      {
-       "partido_id": 1550173,
-       "fecha": "2026-10-28T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Parma",
-       "visitante": "Udinese",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Parma–Udinese",
-       "cuota": 1.36,
-       "frecuencia": 0.875,
-       "ventaja": 0.14,
-       "detalle": "Parma 7/8 · Udinese 7/8",
-       "valor_mercado": -0.022,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.36,
-       "prob_xg": 0.794,
-       "xg_esperado": 2.96,
-       "prob_aprendida": 0.745
-      },
       {
        "partido_id": 1550176,
        "fecha": "2026-10-28T18:30",
@@ -1082,32 +654,46 @@
        "valor_mercado": 0.023,
        "movimiento": 0.023,
        "cuota_inicial": 1.33,
-       "prob_aprendida": 0.725
+       "posiciones": [
+        20,
+        1,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.74
       },
       {
-       "partido_id": 1550171,
-       "fecha": "2026-10-28T20:45",
+       "partido_id": 1550173,
+       "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
        "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "Juventus",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Juventus gana alguna de las dos partes",
-       "cuota": 1.4,
-       "frecuencia": 0.778,
-       "ventaja": 0.063,
-       "detalle": "Genoa 7/8 · Juventus 7/10",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.709
+       "local": "Parma",
+       "visitante": "Udinese",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 2ª parte del Parma–Udinese",
+       "cuota": 1.28,
+       "frecuencia": 0.938,
+       "ventaja": 0.156,
+       "detalle": "Parma 7/8 · Udinese 8/8",
+       "valor_mercado": -0.015,
+       "posiciones": [
+        19,
+        17,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.736
       }
      ],
-     "cuota": 3.73,
-     "titulo": "🇮🇹 COMBI SERIE A",
-     "liga": "Serie A"
-    }
+     "cuota": 1.74
+    },
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
    },
+   "estilos": {},
    "combis_partido": []
   },
   "2026-10-29": {
@@ -1132,7 +718,13 @@
      "cuota_inicial": 1.28,
      "prob_xg": 0.826,
      "xg_esperado": 3.43,
-     "prob_aprendida": 0.72
+     "posiciones": [
+      18,
+      11,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.723
     }
    ],
    "mejores_por_partido": [
@@ -1156,7 +748,13 @@
      "cuota_inicial": 1.28,
      "prob_xg": 0.826,
      "xg_esperado": 3.43,
-     "prob_aprendida": 0.72
+     "posiciones": [
+      18,
+      11,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.723
     }
    ],
    "combis": {
@@ -1170,29 +768,6 @@
   },
   "2026-10-30": {
    "picks": [
-    {
-     "partido_id": 1570442,
-     "fecha": "2026-10-30T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Villarreal",
-     "visitante": "Espanyol",
-     "mercado": "Away Player Shots",
-     "opcion": "Roberto Fernandez - 2",
-     "cuota": 1.4,
-     "frecuencia": 0.9,
-     "ventaja": 0.186,
-     "tipo": "jugador",
-     "jugador": "Roberto Fernandez",
-     "equipo": "Espanyol",
-     "jugador_id": 312990,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Roberto Fernandez: 2+ tiros",
-     "detalle": "Roberto Fernandez 9/10",
-     "temporada": "9/10",
-     "prob_aprendida": 0.726
-    },
     {
      "partido_id": 1563233,
      "fecha": "2026-10-30T21:00",
@@ -1211,7 +786,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
-     "prob_aprendida": 0.735
+     "posiciones": [
+      12,
+      17,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.737
     },
     {
      "partido_id": 1563233,
@@ -1229,7 +810,13 @@
      "ventaja": 0.065,
      "detalle": "Sheffield Utd 8/10 · Wrexham 8/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.688
+     "posiciones": [
+      12,
+      17,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.695
     },
     {
      "partido_id": 1563233,
@@ -1249,30 +836,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.712,
      "xg_esperado": 2.53,
-     "prob_aprendida": 0.706
-    },
-    {
-     "partido_id": 1552801,
-     "fecha": "2026-10-30T19:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Le Havre",
-     "visitante": "Paris Saint Germain",
-     "mercado": "Home Player Shots",
-     "opcion": "Amir Richardson - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.875,
-     "ventaja": 0.208,
-     "tipo": "jugador",
-     "jugador": "Amir Richardson",
-     "equipo": "Le Havre",
-     "jugador_id": 314231,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Amir Richardson: 1+ tiros",
-     "detalle": "Amir Richardson 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.653
+     "posiciones": [
+      12,
+      17,
+      24
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.708
     },
     {
      "partido_id": 1570442,
@@ -1294,7 +864,13 @@
      "cuota_inicial": 1.44,
      "prob_xg": 0.71,
      "xg_esperado": 2.99,
-     "prob_aprendida": 0.663
+     "posiciones": [
+      10,
+      18,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.664
     },
     {
      "partido_id": 1552802,
@@ -1312,7 +888,13 @@
      "ventaja": 0.031,
      "detalle": "Lille 8/10 · Lens 8/10",
      "valor_mercado": -0.008,
-     "prob_aprendida": 0.638
+     "posiciones": [
+      2,
+      7,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.645
     },
     {
      "partido_id": 1575211,
@@ -1335,7 +917,13 @@
      "texto": "Phillip Tietz: 3+ tiros",
      "detalle": "Phillip Tietz 6/7",
      "temporada": "6/7",
-     "prob_aprendida": 0.555
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.552
     },
     {
      "partido_id": 1570442,
@@ -1355,33 +943,16 @@
      "valor_mercado": 0.018,
      "prob_xg": 0.587,
      "xg_esperado": 2.99,
-     "prob_aprendida": 0.498
+     "posiciones": [
+      10,
+      18,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.5
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1570442,
-     "fecha": "2026-10-30T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Villarreal",
-     "visitante": "Espanyol",
-     "mercado": "Away Player Shots",
-     "opcion": "Roberto Fernandez - 2",
-     "cuota": 1.4,
-     "frecuencia": 0.9,
-     "ventaja": 0.186,
-     "tipo": "jugador",
-     "jugador": "Roberto Fernandez",
-     "equipo": "Espanyol",
-     "jugador_id": 312990,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Roberto Fernandez: 2+ tiros",
-     "detalle": "Roberto Fernandez 9/10",
-     "temporada": "9/10",
-     "prob_aprendida": 0.726
-    },
     {
      "partido_id": 1563233,
      "fecha": "2026-10-30T21:00",
@@ -1400,30 +971,41 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
-     "prob_aprendida": 0.735
+     "posiciones": [
+      12,
+      17,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.737
     },
     {
-     "partido_id": 1552801,
-     "fecha": "2026-10-30T19:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Le Havre",
-     "visitante": "Paris Saint Germain",
-     "mercado": "Home Player Shots",
-     "opcion": "Amir Richardson - 1",
+     "partido_id": 1570442,
+     "fecha": "2026-10-30T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Villarreal",
+     "visitante": "Espanyol",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Espanyol marca",
      "cuota": 1.5,
-     "frecuencia": 0.875,
-     "ventaja": 0.208,
-     "tipo": "jugador",
-     "jugador": "Amir Richardson",
-     "equipo": "Le Havre",
-     "jugador_id": 314231,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Amir Richardson: 1+ tiros",
-     "detalle": "Amir Richardson 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.653
+     "frecuencia": 0.9,
+     "ventaja": 0.233,
+     "detalle": "Villarreal (en contra) 9/10 · Espanyol 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.042,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.71,
+     "xg_esperado": 2.99,
+     "posiciones": [
+      10,
+      18,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.664
     },
     {
      "partido_id": 1552802,
@@ -1441,7 +1023,13 @@
      "ventaja": 0.031,
      "detalle": "Lille 8/10 · Lens 8/10",
      "valor_mercado": -0.008,
-     "prob_aprendida": 0.638
+     "posiciones": [
+      2,
+      7,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.645
     },
     {
      "partido_id": 1575211,
@@ -1464,36 +1052,18 @@
      "texto": "Phillip Tietz: 3+ tiros",
      "detalle": "Phillip Tietz 6/7",
      "temporada": "6/7",
-     "prob_aprendida": 0.555
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.552
     }
    ],
    "combis": {
-    "segura": null,
-    "cuota_3": {
+    "segura": {
      "picks": [
-      {
-       "partido_id": 1570442,
-       "fecha": "2026-10-30T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Villarreal",
-       "visitante": "Espanyol",
-       "mercado": "Away Player Shots",
-       "opcion": "Roberto Fernandez - 2",
-       "cuota": 1.4,
-       "frecuencia": 0.9,
-       "ventaja": 0.186,
-       "tipo": "jugador",
-       "jugador": "Roberto Fernandez",
-       "equipo": "Espanyol",
-       "jugador_id": 312990,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Roberto Fernandez: 2+ tiros",
-       "detalle": "Roberto Fernandez 9/10",
-       "temporada": "9/10",
-       "prob_aprendida": 0.726
-      },
       {
        "partido_id": 1563233,
        "fecha": "2026-10-30T21:00",
@@ -1512,30 +1082,13 @@
        "valor_mercado": -0.008,
        "prob_xg": 0.719,
        "xg_esperado": 2.53,
-       "prob_aprendida": 0.735
-      },
-      {
-       "partido_id": 1552801,
-       "fecha": "2026-10-30T19:00",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Le Havre",
-       "visitante": "Paris Saint Germain",
-       "mercado": "Home Player Shots",
-       "opcion": "Amir Richardson - 1",
-       "cuota": 1.5,
-       "frecuencia": 0.875,
-       "ventaja": 0.208,
-       "tipo": "jugador",
-       "jugador": "Amir Richardson",
-       "equipo": "Le Havre",
-       "jugador_id": 314231,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Amir Richardson: 1+ tiros",
-       "detalle": "Amir Richardson 7/8",
-       "temporada": "7/8",
-       "prob_aprendida": 0.653
+       "posiciones": [
+        12,
+        17,
+        24
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.737
       },
       {
        "partido_id": 1552802,
@@ -1553,10 +1106,102 @@
        "ventaja": 0.031,
        "detalle": "Lille 8/10 · Lens 8/10",
        "valor_mercado": -0.008,
-       "prob_aprendida": 0.638
+       "posiciones": [
+        2,
+        7,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.645
       }
      ],
-     "cuota": 3.49
+     "cuota": 1.66
+    },
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1563233,
+       "fecha": "2026-10-30T21:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Sheffield Utd",
+       "visitante": "Wrexham",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del Sheffield Utd–Wrexham",
+       "cuota": 1.36,
+       "frecuencia": 0.8,
+       "ventaja": 0.065,
+       "detalle": "Sheffield Utd 8/10 · Wrexham 8/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        12,
+        17,
+        24
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.695
+      },
+      {
+       "partido_id": 1570442,
+       "fecha": "2026-10-30T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Villarreal",
+       "visitante": "Espanyol",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Espanyol marca",
+       "cuota": 1.5,
+       "frecuencia": 0.9,
+       "ventaja": 0.233,
+       "detalle": "Villarreal (en contra) 9/10 · Espanyol 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.042,
+       "cuota_inicial": 1.44,
+       "prob_xg": 0.71,
+       "xg_esperado": 2.99,
+       "posiciones": [
+        10,
+        18,
+        20
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.664
+      },
+      {
+       "partido_id": 1575211,
+       "fecha": "2026-10-30T20:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SV Elversberg",
+       "visitante": "FSV Mainz 05",
+       "mercado": "Away Player Shots",
+       "opcion": "Phillip Tietz - 3",
+       "cuota": 1.62,
+       "frecuencia": 0.857,
+       "ventaja": 0.24,
+       "tipo": "jugador",
+       "jugador": "Phillip Tietz",
+       "equipo": "FSV Mainz 05",
+       "jugador_id": 26171,
+       "campo": "tiros",
+       "n": 3,
+       "texto": "Phillip Tietz: 3+ tiros",
+       "detalle": "Phillip Tietz 6/7",
+       "temporada": "6/7",
+       "posiciones": [
+        8,
+        7,
+        18
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.552
+      }
+     ],
+     "cuota": 3.3
     },
     "loca": null,
     "doble": null
@@ -1582,7 +1227,13 @@
      "ventaja": 0.086,
      "detalle": "Stoke City 7/10 · Preston 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.787
+     "posiciones": [
+      9,
+      24,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.801
     },
     {
      "partido_id": 1552211,
@@ -1600,7 +1251,61 @@
      "ventaja": 0.036,
      "detalle": "Cambuur 7/10 · GO Ahead Eagles 8/10",
      "valor_mercado": 0.029,
-     "prob_aprendida": 0.754
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.751
+    },
+    {
+     "partido_id": 1563236,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Swansea",
+     "visitante": "Blackburn",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Swansea–Blackburn",
+     "cuota": 1.44,
+     "frecuencia": 0.8,
+     "ventaja": 0.106,
+     "detalle": "Swansea 8/10 · Blackburn 8/10",
+     "valor_mercado": 0.067,
+     "posiciones": [
+      3,
+      10,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.698
+    },
+    {
+     "partido_id": 1557449,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brentford",
+     "visitante": "Nottingham Forest",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brentford o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.875,
+     "ventaja": 0.094,
+     "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
+     "valor_mercado": -0.015,
+     "posiciones": [
+      6,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.77
     },
     {
      "partido_id": 1563238,
@@ -1620,24 +1325,12 @@
      "valor_mercado": 0.067,
      "prob_xg": 0.77,
      "xg_esperado": 3.09,
-     "prob_aprendida": 0.7
-    },
-    {
-     "partido_id": 1563236,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Swansea",
-     "visitante": "Blackburn",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Swansea–Blackburn",
-     "cuota": 1.44,
-     "frecuencia": 0.8,
-     "ventaja": 0.106,
-     "detalle": "Swansea 8/10 · Blackburn 8/10",
-     "valor_mercado": 0.067,
+     "posiciones": [
+      5,
+      16,
+      24
+     ],
+     "contexto": "peor_abismo",
      "prob_aprendida": 0.691
     },
     {
@@ -1656,48 +1349,37 @@
      "ventaja": 0.019,
      "detalle": "Heerenveen 7/10 · NEC Nijmegen 9/10",
      "valor_mercado": -0.023,
-     "prob_aprendida": 0.765
+     "posiciones": [
+      7,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.76
     },
     {
-     "partido_id": 1557449,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brentford",
-     "visitante": "Nottingham Forest",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Brentford o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
-     "valor_mercado": -0.015,
-     "prob_aprendida": 0.755
-    },
-    {
-     "partido_id": 1563234,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Southampton",
-     "visitante": "QPR",
-     "mercado": "Home Player Shots",
-     "opcion": "Keven Schlotterbeck - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "tipo": "jugador",
-     "jugador": "Keven Schlotterbeck",
-     "equipo": "Southampton",
-     "jugador_id": 26242,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Keven Schlotterbeck: 1+ tiros",
-     "detalle": "Keven Schlotterbeck 9/10",
-     "temporada": "9/10",
-     "prob_aprendida": 0.716
+     "partido_id": 1575206,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "FC Augsburg",
+     "visitante": "SC Freiburg",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
+     "cuota": 1.25,
+     "frecuencia": 0.941,
+     "ventaja": 0.141,
+     "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10",
+     "valor_mercado": 0.025,
+     "posiciones": [
+      9,
+      3,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.739
     },
     {
      "partido_id": 1563228,
@@ -1717,48 +1399,37 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.737,
      "xg_esperado": 2.62,
-     "prob_aprendida": 0.744
+     "posiciones": [
+      22,
+      11,
+      24
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.742
     },
     {
-     "partido_id": 1563227,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Bolton",
-     "visitante": "Bristol City",
-     "mercado": "Home Player Shots",
-     "opcion": "Josh Sheehan - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.9,
-     "ventaja": 0.1,
-     "tipo": "jugador",
-     "jugador": "Josh Sheehan",
-     "equipo": "Bolton",
-     "jugador_id": 82034,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Josh Sheehan: 1+ tiros",
-     "detalle": "Josh Sheehan 9/10",
-     "temporada": "10/12",
-     "prob_aprendida": 0.748
-    },
-    {
-     "partido_id": 1575206,
-     "fecha": "2026-10-31T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "FC Augsburg",
-     "visitante": "SC Freiburg",
-     "mercado": "Goals Over/Under First Half",
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Goals Over/Under - Second Half",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
+     "texto": "Gol en la 2ª parte del Rayo Vallecano–Celta Vigo",
      "cuota": 1.25,
-     "frecuencia": 0.941,
-     "ventaja": 0.141,
-     "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10",
-     "valor_mercado": 0.025,
-     "prob_aprendida": 0.731
+     "frecuencia": 0.842,
+     "ventaja": 0.042,
+     "detalle": "Rayo Vallecano 9/9 · Celta Vigo 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      16,
+      9,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.753
     },
     {
      "partido_id": 1552809,
@@ -1778,65 +1449,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.832,
      "xg_esperado": 3.23,
-     "prob_aprendida": 0.742
-    },
-    {
-     "partido_id": 1570441,
-     "fecha": "2026-10-31T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Rayo Vallecano",
-     "visitante": "Celta Vigo",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 2ª parte del Rayo Vallecano–Celta Vigo",
-     "cuota": 1.25,
-     "frecuencia": 0.842,
-     "ventaja": 0.042,
-     "detalle": "Rayo Vallecano 9/9 · Celta Vigo 7/10",
-     "valor_mercado": -0.023,
-     "prob_aprendida": 0.746
-    },
-    {
-     "partido_id": 1552803,
-     "fecha": "2026-10-31T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lorient",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Lorient o empate",
-     "cuota": 1.4,
-     "frecuencia": 0.75,
-     "ventaja": 0.036,
-     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
-     "valor_mercado": -0.028,
-     "movimiento": -0.067,
-     "cuota_inicial": 1.5,
-     "prob_aprendida": 0.697
-    },
-    {
-     "partido_id": 1575206,
-     "fecha": "2026-10-31T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "FC Augsburg",
-     "visitante": "SC Freiburg",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en FC Augsburg–SC Freiburg",
-     "cuota": 1.5,
-     "frecuencia": 0.882,
-     "ventaja": 0.216,
-     "detalle": "FC Augsburg 6/7 · SC Freiburg 9/10",
-     "valor_mercado": 0.014,
-     "prob_xg": 0.758,
-     "xg_esperado": 3.97,
-     "prob_aprendida": 0.68
+     "posiciones": [
+      17,
+      15,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.743
     },
     {
      "partido_id": 1563228,
@@ -1856,50 +1475,89 @@
      "valor_mercado": 0.014,
      "prob_xg": 0.772,
      "xg_esperado": 2.62,
-     "prob_aprendida": 0.695
+     "posiciones": [
+      22,
+      11,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.698
     },
     {
-     "partido_id": 1557448,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Bournemouth",
-     "visitante": "Leeds",
+     "partido_id": 1575206,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "FC Augsburg",
+     "visitante": "SC Freiburg",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en FC Augsburg–SC Freiburg",
+     "cuota": 1.5,
+     "frecuencia": 0.882,
+     "ventaja": 0.216,
+     "detalle": "FC Augsburg 6/7 · SC Freiburg 9/10",
+     "valor_mercado": 0.014,
+     "prob_xg": 0.758,
+     "xg_esperado": 3.97,
+     "posiciones": [
+      9,
+      3,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.682
+    },
+    {
+     "partido_id": 1552803,
+     "fecha": "2026-10-31T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Lorient",
+     "visitante": "Stade Brestois 29",
      "mercado": "Double Chance",
      "opcion": "Home/Draw",
      "tipo": "resultado",
-     "texto": "Bournemouth o empate",
-     "cuota": 1.3,
-     "frecuencia": 0.778,
-     "ventaja": 0.009,
-     "detalle": "Bournemouth 8/10 · Leeds 6/8",
-     "valor_mercado": -0.023,
-     "movimiento": -0.023,
-     "cuota_inicial": 1.33,
-     "prob_aprendida": 0.717
+     "texto": "Lorient o empate",
+     "cuota": 1.4,
+     "frecuencia": 0.75,
+     "ventaja": 0.036,
+     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
+     "valor_mercado": -0.028,
+     "movimiento": -0.067,
+     "cuota_inicial": 1.5,
+     "posiciones": [
+      9,
+      13,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.692
     },
     {
-     "partido_id": 1550179,
-     "fecha": "2026-10-31T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Bologna",
-     "visitante": "Monza",
-     "mercado": "Away Player Shots",
-     "opcion": "Gustavo Varela - 2",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Gustavo Varela: 2+ tiros",
-     "detalle": "Gustavo Varela 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.694
+     "partido_id": 1563234,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Southampton",
+     "visitante": "QPR",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Southampton–QPR",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Southampton 8/10 · QPR 8/10",
+     "valor_mercado": 0.024,
+     "posiciones": [
+      2,
+      7,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.706
     },
     {
      "partido_id": 1575206,
@@ -1919,43 +1577,39 @@
      "valor_mercado": 0.021,
      "prob_xg": 0.737,
      "xg_esperado": 3.97,
-     "prob_aprendida": 0.676
+     "posiciones": [
+      9,
+      3,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.678
     },
     {
-     "partido_id": 1563234,
+     "partido_id": 1557448,
      "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Southampton",
-     "visitante": "QPR",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Southampton–QPR",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "detalle": "Southampton 8/10 · QPR 8/10",
-     "valor_mercado": 0.024,
-     "prob_aprendida": 0.699
-    },
-    {
-     "partido_id": 1563228,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Burnley",
-     "visitante": "Portsmouth",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Burnley–Portsmouth",
-     "cuota": 1.36,
-     "frecuencia": 0.8,
-     "ventaja": 0.065,
-     "detalle": "Burnley 9/10 · Portsmouth 7/10",
-     "valor_mercado": 0.007,
-     "prob_aprendida": 0.691
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Bournemouth",
+     "visitante": "Leeds",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Bournemouth o empate",
+     "cuota": 1.3,
+     "frecuencia": 0.778,
+     "ventaja": 0.009,
+     "detalle": "Bournemouth 8/10 · Leeds 6/8",
+     "valor_mercado": -0.023,
+     "movimiento": -0.023,
+     "cuota_inicial": 1.33,
+     "posiciones": [
+      13,
+      7,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.718
     },
     {
      "partido_id": 1575209,
@@ -1975,7 +1629,37 @@
      "valor_mercado": 0.029,
      "prob_xg": 0.662,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.667
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.669
+    },
+    {
+     "partido_id": 1563228,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Portsmouth",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Portsmouth o empate",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Burnley 9/10 · Portsmouth 7/10",
+     "valor_mercado": 0.034,
+     "posiciones": [
+      22,
+      11,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.613
     },
     {
      "partido_id": 1575209,
@@ -1995,7 +1679,37 @@
      "valor_mercado": 0.021,
      "prob_xg": 0.654,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.663
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.665
+    },
+    {
+     "partido_id": 1563228,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Portsmouth",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Burnley–Portsmouth",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "detalle": "Burnley 9/10 · Portsmouth 7/10",
+     "valor_mercado": 0.007,
+     "posiciones": [
+      22,
+      11,
+      24
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.684
     },
     {
      "partido_id": 1563232,
@@ -2013,7 +1727,37 @@
      "ventaja": 0.05,
      "detalle": "Norwich 8/10 · Watford 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.705
+     "posiciones": [
+      20,
+      21,
+      24
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.707
+    },
+    {
+     "partido_id": 1563231,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Millwall",
+     "visitante": "Derby",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Millwall–Derby",
+     "cuota": 1.33,
+     "frecuencia": 0.85,
+     "ventaja": 0.098,
+     "detalle": "Millwall 8/10 · Derby 9/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      13,
+      23,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.686
     },
     {
      "partido_id": 1557452,
@@ -2033,43 +1777,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.792,
      "xg_esperado": 3.03,
-     "prob_aprendida": 0.706
-    },
-    {
-     "partido_id": 1570441,
-     "fecha": "2026-10-31T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Rayo Vallecano",
-     "visitante": "Celta Vigo",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Celta Vigo o empate",
-     "cuota": 1.62,
-     "frecuencia": 0.789,
-     "ventaja": 0.172,
-     "detalle": "Rayo Vallecano 7/9 · Celta Vigo 8/10",
-     "valor_mercado": 0.012,
-     "prob_aprendida": 0.633
-    },
-    {
-     "partido_id": 1563228,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Burnley",
-     "visitante": "Portsmouth",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Portsmouth o empate",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Burnley 9/10 · Portsmouth 7/10",
-     "valor_mercado": 0.034,
-     "prob_aprendida": 0.598
+     "posiciones": [
+      10,
+      12,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.704
     },
     {
      "partido_id": 1563232,
@@ -2087,45 +1801,37 @@
      "ventaja": 0.133,
      "detalle": "Norwich (en contra) 8/10 · Watford 7/10",
      "valor_mercado": 0.059,
-     "prob_aprendida": 0.605
+     "posiciones": [
+      20,
+      21,
+      24
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.607
     },
     {
-     "partido_id": 1563231,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Millwall",
-     "visitante": "Derby",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Millwall–Derby",
-     "cuota": 1.33,
-     "frecuencia": 0.85,
-     "ventaja": 0.098,
-     "detalle": "Millwall 8/10 · Derby 9/10",
-     "valor_mercado": 0.0,
-     "prob_aprendida": 0.679
-    },
-    {
-     "partido_id": 1550179,
-     "fecha": "2026-10-31T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Bologna",
-     "visitante": "Monza",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Monza marca",
-     "cuota": 1.44,
-     "frecuencia": 0.938,
-     "ventaja": 0.243,
-     "detalle": "Bologna (en contra) 7/8 · Monza 8/8",
-     "valor_mercado": -0.02,
-     "prob_xg": 0.766,
-     "xg_esperado": 2.77,
-     "prob_aprendida": 0.669
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Celta Vigo o empate",
+     "cuota": 1.62,
+     "frecuencia": 0.789,
+     "ventaja": 0.172,
+     "detalle": "Rayo Vallecano 7/9 · Celta Vigo 8/10",
+     "valor_mercado": 0.012,
+     "posiciones": [
+      16,
+      9,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.629
     },
     {
      "partido_id": 1552211,
@@ -2145,7 +1851,39 @@
      "valor_mercado": 0.022,
      "prob_xg": 0.635,
      "xg_esperado": 3.2,
-     "prob_aprendida": 0.652
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.653
+    },
+    {
+     "partido_id": 1550179,
+     "fecha": "2026-10-31T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Bologna",
+     "visitante": "Monza",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Monza marca",
+     "cuota": 1.44,
+     "frecuencia": 0.938,
+     "ventaja": 0.243,
+     "detalle": "Bologna (en contra) 7/8 · Monza 8/8",
+     "valor_mercado": -0.02,
+     "prob_xg": 0.766,
+     "xg_esperado": 2.77,
+     "posiciones": [
+      13,
+      15,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1552211,
@@ -2165,7 +1903,42 @@
      "valor_mercado": 0.014,
      "prob_xg": 0.619,
      "xg_esperado": 3.2,
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.644
+    },
+    {
+     "partido_id": 1563237,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "West Ham",
+     "visitante": "West Brom",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Jarrod Bowen - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Jarrod Bowen",
+     "equipo": "West Ham",
+     "jugador_id": 19428,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Jarrod Bowen: 1+ tiros a puerta",
+     "detalle": "Jarrod Bowen 10/10",
+     "temporada": "11/12",
+     "posiciones": [
+      4,
+      6,
+      24
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.685
     },
     {
      "partido_id": 1557452,
@@ -2188,52 +1961,39 @@
      "texto": "Mohamed Belloumi: 2+ tiros",
      "detalle": "Mohamed Belloumi 6/7",
      "temporada": "6/7",
-     "prob_aprendida": 0.68
+     "posiciones": [
+      10,
+      12,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.677
     },
     {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Manchester United marca",
-     "cuota": 1.36,
-     "frecuencia": 0.778,
-     "ventaja": 0.042,
-     "detalle": "Chelsea (en contra) 7/8 · Manchester United 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.062,
-     "cuota_inicial": 1.28,
-     "prob_xg": 0.755,
-     "xg_esperado": 2.84,
-     "prob_aprendida": 0.669
-    },
-    {
-     "partido_id": 1552803,
+     "partido_id": 1552809,
      "fecha": "2026-10-31T20:45",
      "competicion": "Ligue 1",
      "liga_id": 61,
-     "local": "Lorient",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Away Player Shots",
-     "opcion": "Pathe Mboup - 2",
+     "local": "Estac Troyes",
+     "visitante": "Le Mans",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Le Mans marca",
      "cuota": 1.33,
-     "frecuencia": 0.875,
-     "ventaja": 0.123,
-     "tipo": "jugador",
-     "jugador": "Pathe Mboup",
-     "equipo": "Stade Brestois 29",
-     "jugador_id": 375990,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Pathe Mboup: 2+ tiros",
-     "detalle": "Pathe Mboup 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.664
+     "frecuencia": 0.812,
+     "ventaja": 0.061,
+     "detalle": "Estac Troyes (en contra) 6/8 · Le Mans 7/8",
+     "valor_mercado": 0.008,
+     "prob_xg": 0.798,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      17,
+      15,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1575209,
@@ -2256,50 +2016,70 @@
      "texto": "Niclas Fullkrug: 1+ tiros a puerta",
      "detalle": "Niclas Fullkrug 7/7",
      "temporada": "7/7",
-     "prob_aprendida": 0.678
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.673
     },
     {
-     "partido_id": 1552809,
-     "fecha": "2026-10-31T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Estac Troyes",
-     "visitante": "Le Mans",
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
      "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Le Mans marca",
-     "cuota": 1.33,
-     "frecuencia": 0.812,
-     "ventaja": 0.061,
-     "detalle": "Estac Troyes (en contra) 6/8 · Le Mans 7/8",
-     "valor_mercado": 0.008,
-     "prob_xg": 0.798,
-     "xg_esperado": 3.23,
-     "prob_aprendida": 0.657
+     "texto": "Manchester United marca",
+     "cuota": 1.36,
+     "frecuencia": 0.778,
+     "ventaja": 0.042,
+     "detalle": "Chelsea (en contra) 7/8 · Manchester United 7/10",
+     "valor_mercado": 0.023,
+     "movimiento": 0.062,
+     "cuota_inicial": 1.28,
+     "prob_xg": 0.755,
+     "xg_esperado": 2.84,
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.659
     },
     {
-     "partido_id": 1563237,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "West Ham",
-     "visitante": "West Brom",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Jarrod Bowen - 1",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
+     "partido_id": 1552803,
+     "fecha": "2026-10-31T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Lorient",
+     "visitante": "Stade Brestois 29",
+     "mercado": "Away Player Shots",
+     "opcion": "Pathe Mboup - 2",
+     "cuota": 1.33,
+     "frecuencia": 0.875,
+     "ventaja": 0.123,
      "tipo": "jugador",
-     "jugador": "Jarrod Bowen",
-     "equipo": "West Ham",
-     "jugador_id": 19428,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Jarrod Bowen: 1+ tiros a puerta",
-     "detalle": "Jarrod Bowen 10/10",
-     "temporada": "11/12",
-     "prob_aprendida": 0.675
+     "jugador": "Pathe Mboup",
+     "equipo": "Stade Brestois 29",
+     "jugador_id": 375990,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Pathe Mboup: 2+ tiros",
+     "detalle": "Pathe Mboup 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      9,
+      13,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.65
     },
     {
      "partido_id": 1552803,
@@ -2319,30 +2099,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.692,
      "xg_esperado": 2.79,
-     "prob_aprendida": 0.66
-    },
-    {
-     "partido_id": 1575203,
-     "fecha": "2026-10-31T18:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "Borussia Dortmund",
-     "mercado": "Home Player Shots",
-     "opcion": "Dayot Upamecano - 1",
-     "cuota": 1.62,
-     "frecuencia": 0.875,
-     "ventaja": 0.258,
-     "tipo": "jugador",
-     "jugador": "Dayot Upamecano",
-     "equipo": "Bayern München",
-     "jugador_id": 1149,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Dayot Upamecano: 1+ tiros",
-     "detalle": "Dayot Upamecano 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.589
+     "posiciones": [
+      9,
+      13,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.663
     },
     {
      "partido_id": 1575209,
@@ -2360,30 +2123,37 @@
      "ventaja": 0.265,
      "detalle": "Werder Bremen 6/7 · 1899 Hoffenheim 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.588
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.595
     },
     {
-     "partido_id": 1575208,
-     "fecha": "2026-10-31T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Borussia Mönchengladbach",
-     "visitante": "SC Paderborn 07",
-     "mercado": "Away Player Shots",
-     "opcion": "Santiago Castaneda - 1",
-     "cuota": 1.62,
-     "frecuencia": 0.857,
-     "ventaja": 0.24,
-     "tipo": "jugador",
-     "jugador": "Santiago Castaneda",
-     "equipo": "SC Paderborn 07",
-     "jugador_id": 363156,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Santiago Castaneda: 1+ tiros",
-     "detalle": "Santiago Castaneda 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.584
+     "partido_id": 1563235,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Stoke City",
+     "visitante": "Preston",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Stoke City",
+     "cuota": 1.67,
+     "frecuencia": 0.65,
+     "ventaja": 0.051,
+     "detalle": "Stoke City 6/10 · Preston 7/10",
+     "valor_mercado": -0.012,
+     "posiciones": [
+      9,
+      24,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.589
     },
     {
      "partido_id": 1552209,
@@ -2403,25 +2173,13 @@
      "valor_mercado": 0.047,
      "prob_xg": 0.755,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.532
-    },
-    {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Stoke City",
-     "cuota": 1.67,
-     "frecuencia": 0.65,
-     "ventaja": 0.051,
-     "detalle": "Stoke City 6/10 · Preston 7/10",
-     "valor_mercado": -0.012,
-     "prob_aprendida": 0.575
+     "posiciones": [
+      3,
+      18,
+      18
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.523
     },
     {
      "partido_id": 1570435,
@@ -2439,6 +2197,12 @@
      "ventaja": 0.172,
      "detalle": "Real Betis (en contra) 7/10 · Malaga 8/10",
      "valor_mercado": 0.036,
+     "posiciones": [
+      4,
+      20,
+      20
+     ],
+     "contexto": "peor_abismo",
      "prob_aprendida": 0.535
     },
     {
@@ -2456,30 +2220,13 @@
      "frecuencia": 0.765,
      "ventaja": 0.147,
      "detalle": "Werder Bremen 6/7 · 1899 Hoffenheim 7/10",
-     "prob_aprendida": 0.559
-    },
-    {
-     "partido_id": 1552211,
-     "fecha": "2026-10-31T21:00",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Cambuur",
-     "visitante": "GO Ahead Eagles",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Rafik El Arguioui - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.8,
-     "ventaja": 0.133,
-     "tipo": "jugador",
-     "jugador": "Rafik El Arguioui",
-     "equipo": "Cambuur",
-     "jugador_id": 359315,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Rafik El Arguioui: 1+ tiros a puerta",
-     "detalle": "Rafik El Arguioui 8/10",
-     "temporada": "8/10",
-     "prob_aprendida": 0.572
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.567
     },
     {
      "partido_id": 1550179,
@@ -2502,7 +2249,13 @@
      "texto": "Federico Bernardeschi: 1+ tiros a puerta",
      "detalle": "Federico Bernardeschi 5/6",
      "temporada": "5/6",
-     "prob_aprendida": 0.609
+     "posiciones": [
+      13,
+      15,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.619
     },
     {
      "partido_id": 1575204,
@@ -2520,30 +2273,42 @@
      "ventaja": 0.029,
      "detalle": "Bayer Leverkusen 7/10 · VfB Stuttgart 5/10",
      "valor_mercado": -0.033,
-     "prob_aprendida": 0.543
+     "posiciones": [
+      4,
+      15,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.558
     },
     {
-     "partido_id": 1552806,
-     "fecha": "2026-10-31T17:15",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Nice",
-     "visitante": "Rennes",
+     "partido_id": 1552211,
+     "fecha": "2026-10-31T21:00",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Cambuur",
+     "visitante": "GO Ahead Eagles",
      "mercado": "Home Player Shots On Target Total",
-     "opcion": "Elye Wahi - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.833,
-     "ventaja": 0.119,
+     "opcion": "Rafik El Arguioui - 1",
+     "cuota": 1.5,
+     "frecuencia": 0.8,
+     "ventaja": 0.133,
      "tipo": "jugador",
-     "jugador": "Elye Wahi",
-     "equipo": "Nice",
-     "jugador_id": 162707,
+     "jugador": "Rafik El Arguioui",
+     "equipo": "Cambuur",
+     "jugador_id": 359315,
      "campo": "a_puerta",
      "n": 1,
-     "texto": "Elye Wahi: 1+ tiros a puerta",
-     "detalle": "Elye Wahi 5/6",
-     "temporada": "5/6",
-     "prob_aprendida": 0.567
+     "texto": "Rafik El Arguioui: 1+ tiros a puerta",
+     "detalle": "Rafik El Arguioui 8/10",
+     "temporada": "8/10",
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.569
     },
     {
      "partido_id": 1552209,
@@ -2563,7 +2328,13 @@
      "valor_mercado": 0.029,
      "prob_xg": 0.649,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.488
+     "posiciones": [
+      3,
+      18,
+      18
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.486
     },
     {
      "partido_id": 1552207,
@@ -2583,7 +2354,13 @@
      "valor_mercado": -0.011,
      "prob_xg": 0.649,
      "xg_esperado": 3.07,
-     "prob_aprendida": 0.495
+     "posiciones": [
+      1,
+      6,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.496
     },
     {
      "partido_id": 1575203,
@@ -2601,7 +2378,13 @@
      "ventaja": 0.222,
      "detalle": "Bayern München 8/10 · Borussia Dortmund 8/10",
      "valor_mercado": -0.011,
-     "prob_aprendida": 0.493
+     "posiciones": [
+      1,
+      2,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.495
     },
     {
      "partido_id": 1575209,
@@ -2621,7 +2404,13 @@
      "valor_mercado": 0.012,
      "prob_xg": 0.531,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.478
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.479
     }
    ],
    "mejores_por_partido": [
@@ -2641,7 +2430,13 @@
      "ventaja": 0.086,
      "detalle": "Stoke City 7/10 · Preston 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.787
+     "posiciones": [
+      9,
+      24,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.801
     },
     {
      "partido_id": 1552211,
@@ -2659,7 +2454,61 @@
      "ventaja": 0.036,
      "detalle": "Cambuur 7/10 · GO Ahead Eagles 8/10",
      "valor_mercado": 0.029,
-     "prob_aprendida": 0.754
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.751
+    },
+    {
+     "partido_id": 1563236,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Swansea",
+     "visitante": "Blackburn",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Swansea–Blackburn",
+     "cuota": 1.44,
+     "frecuencia": 0.8,
+     "ventaja": 0.106,
+     "detalle": "Swansea 8/10 · Blackburn 8/10",
+     "valor_mercado": 0.067,
+     "posiciones": [
+      3,
+      10,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.698
+    },
+    {
+     "partido_id": 1557449,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brentford",
+     "visitante": "Nottingham Forest",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brentford o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.875,
+     "ventaja": 0.094,
+     "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
+     "valor_mercado": -0.015,
+     "posiciones": [
+      6,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.77
     },
     {
      "partido_id": 1563238,
@@ -2679,24 +2528,12 @@
      "valor_mercado": 0.067,
      "prob_xg": 0.77,
      "xg_esperado": 3.09,
-     "prob_aprendida": 0.7
-    },
-    {
-     "partido_id": 1563236,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Swansea",
-     "visitante": "Blackburn",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Swansea–Blackburn",
-     "cuota": 1.44,
-     "frecuencia": 0.8,
-     "ventaja": 0.106,
-     "detalle": "Swansea 8/10 · Blackburn 8/10",
-     "valor_mercado": 0.067,
+     "posiciones": [
+      5,
+      16,
+      24
+     ],
+     "contexto": "peor_abismo",
      "prob_aprendida": 0.691
     },
     {
@@ -2715,48 +2552,37 @@
      "ventaja": 0.019,
      "detalle": "Heerenveen 7/10 · NEC Nijmegen 9/10",
      "valor_mercado": -0.023,
-     "prob_aprendida": 0.765
+     "posiciones": [
+      7,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.76
     },
     {
-     "partido_id": 1557449,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brentford",
-     "visitante": "Nottingham Forest",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Brentford o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
-     "valor_mercado": -0.015,
-     "prob_aprendida": 0.755
-    },
-    {
-     "partido_id": 1563234,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Southampton",
-     "visitante": "QPR",
-     "mercado": "Home Player Shots",
-     "opcion": "Keven Schlotterbeck - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "tipo": "jugador",
-     "jugador": "Keven Schlotterbeck",
-     "equipo": "Southampton",
-     "jugador_id": 26242,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Keven Schlotterbeck: 1+ tiros",
-     "detalle": "Keven Schlotterbeck 9/10",
-     "temporada": "9/10",
-     "prob_aprendida": 0.716
+     "partido_id": 1575206,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "FC Augsburg",
+     "visitante": "SC Freiburg",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
+     "cuota": 1.25,
+     "frecuencia": 0.941,
+     "ventaja": 0.141,
+     "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10",
+     "valor_mercado": 0.025,
+     "posiciones": [
+      9,
+      3,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.739
     },
     {
      "partido_id": 1563228,
@@ -2776,48 +2602,37 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.737,
      "xg_esperado": 2.62,
-     "prob_aprendida": 0.744
+     "posiciones": [
+      22,
+      11,
+      24
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.742
     },
     {
-     "partido_id": 1563227,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Bolton",
-     "visitante": "Bristol City",
-     "mercado": "Home Player Shots",
-     "opcion": "Josh Sheehan - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.9,
-     "ventaja": 0.1,
-     "tipo": "jugador",
-     "jugador": "Josh Sheehan",
-     "equipo": "Bolton",
-     "jugador_id": 82034,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Josh Sheehan: 1+ tiros",
-     "detalle": "Josh Sheehan 9/10",
-     "temporada": "10/12",
-     "prob_aprendida": 0.748
-    },
-    {
-     "partido_id": 1575206,
-     "fecha": "2026-10-31T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "FC Augsburg",
-     "visitante": "SC Freiburg",
-     "mercado": "Goals Over/Under First Half",
+     "partido_id": 1570441,
+     "fecha": "2026-10-31T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Rayo Vallecano",
+     "visitante": "Celta Vigo",
+     "mercado": "Goals Over/Under - Second Half",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
+     "texto": "Gol en la 2ª parte del Rayo Vallecano–Celta Vigo",
      "cuota": 1.25,
-     "frecuencia": 0.941,
-     "ventaja": 0.141,
-     "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10",
-     "valor_mercado": 0.025,
-     "prob_aprendida": 0.731
+     "frecuencia": 0.842,
+     "ventaja": 0.042,
+     "detalle": "Rayo Vallecano 9/9 · Celta Vigo 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      16,
+      9,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.753
     },
     {
      "partido_id": 1552809,
@@ -2837,25 +2652,13 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.832,
      "xg_esperado": 3.23,
-     "prob_aprendida": 0.742
-    },
-    {
-     "partido_id": 1570441,
-     "fecha": "2026-10-31T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Rayo Vallecano",
-     "visitante": "Celta Vigo",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 2ª parte del Rayo Vallecano–Celta Vigo",
-     "cuota": 1.25,
-     "frecuencia": 0.842,
-     "ventaja": 0.042,
-     "detalle": "Rayo Vallecano 9/9 · Celta Vigo 7/10",
-     "valor_mercado": -0.023,
-     "prob_aprendida": 0.746
+     "posiciones": [
+      17,
+      15,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.743
     },
     {
      "partido_id": 1552803,
@@ -2875,7 +2678,37 @@
      "valor_mercado": -0.028,
      "movimiento": -0.067,
      "cuota_inicial": 1.5,
-     "prob_aprendida": 0.697
+     "posiciones": [
+      9,
+      13,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.692
+    },
+    {
+     "partido_id": 1563234,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Southampton",
+     "visitante": "QPR",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Southampton–QPR",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Southampton 8/10 · QPR 8/10",
+     "valor_mercado": 0.024,
+     "posiciones": [
+      2,
+      7,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.706
     },
     {
      "partido_id": 1557448,
@@ -2895,30 +2728,13 @@
      "valor_mercado": -0.023,
      "movimiento": -0.023,
      "cuota_inicial": 1.33,
-     "prob_aprendida": 0.717
-    },
-    {
-     "partido_id": 1550179,
-     "fecha": "2026-10-31T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Bologna",
-     "visitante": "Monza",
-     "mercado": "Away Player Shots",
-     "opcion": "Gustavo Varela - 2",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Gustavo Varela: 2+ tiros",
-     "detalle": "Gustavo Varela 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.694
+     "posiciones": [
+      13,
+      7,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.718
     },
     {
      "partido_id": 1575209,
@@ -2938,7 +2754,13 @@
      "valor_mercado": 0.029,
      "prob_xg": 0.662,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.667
+     "posiciones": [
+      6,
+      10,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.669
     },
     {
      "partido_id": 1563232,
@@ -2956,7 +2778,37 @@
      "ventaja": 0.05,
      "detalle": "Norwich 8/10 · Watford 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.705
+     "posiciones": [
+      20,
+      21,
+      24
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.707
+    },
+    {
+     "partido_id": 1563231,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Millwall",
+     "visitante": "Derby",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Millwall–Derby",
+     "cuota": 1.33,
+     "frecuencia": 0.85,
+     "ventaja": 0.098,
+     "detalle": "Millwall 8/10 · Derby 9/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      13,
+      23,
+      24
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.686
     },
     {
      "partido_id": 1557452,
@@ -2976,47 +2828,39 @@
      "valor_mercado": -0.008,
      "prob_xg": 0.792,
      "xg_esperado": 3.03,
-     "prob_aprendida": 0.706
+     "posiciones": [
+      10,
+      12,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.704
     },
     {
-     "partido_id": 1563231,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Millwall",
-     "visitante": "Derby",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Millwall–Derby",
-     "cuota": 1.33,
-     "frecuencia": 0.85,
-     "ventaja": 0.098,
-     "detalle": "Millwall 8/10 · Derby 9/10",
-     "valor_mercado": 0.0,
-     "prob_aprendida": 0.679
-    },
-    {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
+     "partido_id": 1550179,
+     "fecha": "2026-10-31T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Bologna",
+     "visitante": "Monza",
      "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Manchester United marca",
-     "cuota": 1.36,
-     "frecuencia": 0.778,
-     "ventaja": 0.042,
-     "detalle": "Chelsea (en contra) 7/8 · Manchester United 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.062,
-     "cuota_inicial": 1.28,
-     "prob_xg": 0.755,
-     "xg_esperado": 2.84,
-     "prob_aprendida": 0.669
+     "texto": "Monza marca",
+     "cuota": 1.44,
+     "frecuencia": 0.938,
+     "ventaja": 0.243,
+     "detalle": "Bologna (en contra) 7/8 · Monza 8/8",
+     "valor_mercado": -0.02,
+     "prob_xg": 0.766,
+     "xg_esperado": 2.77,
+     "posiciones": [
+      13,
+      15,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1563237,
@@ -3039,53 +2883,41 @@
      "texto": "Jarrod Bowen: 1+ tiros a puerta",
      "detalle": "Jarrod Bowen 10/10",
      "temporada": "11/12",
-     "prob_aprendida": 0.675
+     "posiciones": [
+      4,
+      6,
+      24
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.685
     },
     {
-     "partido_id": 1575203,
-     "fecha": "2026-10-31T18:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "Borussia Dortmund",
-     "mercado": "Home Player Shots",
-     "opcion": "Dayot Upamecano - 1",
-     "cuota": 1.62,
-     "frecuencia": 0.875,
-     "ventaja": 0.258,
-     "tipo": "jugador",
-     "jugador": "Dayot Upamecano",
-     "equipo": "Bayern München",
-     "jugador_id": 1149,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Dayot Upamecano: 1+ tiros",
-     "detalle": "Dayot Upamecano 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.589
-    },
-    {
-     "partido_id": 1575208,
-     "fecha": "2026-10-31T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Borussia Mönchengladbach",
-     "visitante": "SC Paderborn 07",
-     "mercado": "Away Player Shots",
-     "opcion": "Santiago Castaneda - 1",
-     "cuota": 1.62,
-     "frecuencia": 0.857,
-     "ventaja": 0.24,
-     "tipo": "jugador",
-     "jugador": "Santiago Castaneda",
-     "equipo": "SC Paderborn 07",
-     "jugador_id": 363156,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Santiago Castaneda: 1+ tiros",
-     "detalle": "Santiago Castaneda 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.584
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Manchester United marca",
+     "cuota": 1.36,
+     "frecuencia": 0.778,
+     "ventaja": 0.042,
+     "detalle": "Chelsea (en contra) 7/8 · Manchester United 7/10",
+     "valor_mercado": 0.023,
+     "movimiento": 0.062,
+     "cuota_inicial": 1.28,
+     "prob_xg": 0.755,
+     "xg_esperado": 2.84,
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.659
     },
     {
      "partido_id": 1552209,
@@ -3105,7 +2937,13 @@
      "valor_mercado": 0.047,
      "prob_xg": 0.755,
      "xg_esperado": 3.37,
-     "prob_aprendida": 0.532
+     "posiciones": [
+      3,
+      18,
+      18
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.523
     },
     {
      "partido_id": 1570435,
@@ -3123,6 +2961,12 @@
      "ventaja": 0.172,
      "detalle": "Real Betis (en contra) 7/10 · Malaga 8/10",
      "valor_mercado": 0.036,
+     "posiciones": [
+      4,
+      20,
+      20
+     ],
+     "contexto": "peor_abismo",
      "prob_aprendida": 0.535
     },
     {
@@ -3141,30 +2985,13 @@
      "ventaja": 0.029,
      "detalle": "Bayer Leverkusen 7/10 · VfB Stuttgart 5/10",
      "valor_mercado": -0.033,
-     "prob_aprendida": 0.543
-    },
-    {
-     "partido_id": 1552806,
-     "fecha": "2026-10-31T17:15",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Nice",
-     "visitante": "Rennes",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Elye Wahi - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.833,
-     "ventaja": 0.119,
-     "tipo": "jugador",
-     "jugador": "Elye Wahi",
-     "equipo": "Nice",
-     "jugador_id": 162707,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Elye Wahi: 1+ tiros a puerta",
-     "detalle": "Elye Wahi 5/6",
-     "temporada": "5/6",
-     "prob_aprendida": 0.567
+     "posiciones": [
+      4,
+      15,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.558
     },
     {
      "partido_id": 1552207,
@@ -3184,6 +3011,36 @@
      "valor_mercado": -0.011,
      "prob_xg": 0.649,
      "xg_esperado": 3.07,
+     "posiciones": [
+      1,
+      6,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.496
+    },
+    {
+     "partido_id": 1575203,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "Borussia Dortmund",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 9.5",
+     "tipo": "corners",
+     "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "Bayern München 8/10 · Borussia Dortmund 8/10",
+     "valor_mercado": -0.011,
+     "posiciones": [
+      1,
+      2,
+      18
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.495
     }
    ],
@@ -3206,30 +3063,37 @@
        "ventaja": 0.086,
        "detalle": "Stoke City 7/10 · Preston 9/10",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.787
+       "posiciones": [
+        9,
+        24,
+        24
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.801
       },
       {
-       "partido_id": 1563227,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Bolton",
-       "visitante": "Bristol City",
-       "mercado": "Home Player Shots",
-       "opcion": "Josh Sheehan - 1",
+       "partido_id": 1575206,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FC Augsburg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del FC Augsburg–SC Freiburg",
        "cuota": 1.25,
-       "frecuencia": 0.9,
-       "ventaja": 0.1,
-       "tipo": "jugador",
-       "jugador": "Josh Sheehan",
-       "equipo": "Bolton",
-       "jugador_id": 82034,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Josh Sheehan: 1+ tiros",
-       "detalle": "Josh Sheehan 9/10",
-       "temporada": "10/12",
-       "prob_aprendida": 0.748
+       "frecuencia": 0.941,
+       "ventaja": 0.141,
+       "detalle": "FC Augsburg 6/7 · SC Freiburg 10/10",
+       "valor_mercado": 0.025,
+       "posiciones": [
+        9,
+        3,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.739
       }
      ],
      "cuota": 1.75
@@ -3252,7 +3116,90 @@
        "ventaja": 0.036,
        "detalle": "Cambuur 7/10 · GO Ahead Eagles 8/10",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.754
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.751
+      },
+      {
+       "partido_id": 1563236,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Swansea",
+       "visitante": "Blackburn",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del Swansea–Blackburn",
+       "cuota": 1.44,
+       "frecuencia": 0.8,
+       "ventaja": 0.106,
+       "detalle": "Swansea 8/10 · Blackburn 8/10",
+       "valor_mercado": 0.067,
+       "posiciones": [
+        3,
+        10,
+        24
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.698
+      },
+      {
+       "partido_id": 1563232,
+       "fecha": "2026-10-31T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Norwich",
+       "visitante": "Watford",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 2.5",
+       "tipo": "corners",
+       "texto": "Watford hace más de 2,5 córners",
+       "cuota": 1.62,
+       "frecuencia": 0.75,
+       "ventaja": 0.133,
+       "detalle": "Norwich (en contra) 8/10 · Watford 7/10",
+       "valor_mercado": 0.059,
+       "posiciones": [
+        20,
+        21,
+        24
+       ],
+       "contexto": "peor_igualado",
+       "prob_aprendida": 0.607
+      }
+     ],
+     "cuota": 3.27
+    },
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1557449,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Brentford",
+       "visitante": "Nottingham Forest",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Brentford o empate",
+       "cuota": 1.28,
+       "frecuencia": 0.875,
+       "ventaja": 0.094,
+       "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
+       "valor_mercado": -0.015,
+       "posiciones": [
+        6,
+        18,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.77
       },
       {
        "partido_id": 1563238,
@@ -3272,52 +3219,12 @@
        "valor_mercado": 0.067,
        "prob_xg": 0.77,
        "xg_esperado": 3.09,
-       "prob_aprendida": 0.7
-      },
-      {
-       "partido_id": 1563234,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Southampton",
-       "visitante": "QPR",
-       "mercado": "Home Player Shots",
-       "opcion": "Keven Schlotterbeck - 1",
-       "cuota": 1.44,
-       "frecuencia": 0.9,
-       "ventaja": 0.206,
-       "tipo": "jugador",
-       "jugador": "Keven Schlotterbeck",
-       "equipo": "Southampton",
-       "jugador_id": 26242,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Keven Schlotterbeck: 1+ tiros",
-       "detalle": "Keven Schlotterbeck 9/10",
-       "temporada": "9/10",
-       "prob_aprendida": 0.716
-      }
-     ],
-     "cuota": 2.9
-    },
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1563236,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Swansea",
-       "visitante": "Blackburn",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Swansea–Blackburn",
-       "cuota": 1.44,
-       "frecuencia": 0.8,
-       "ventaja": 0.106,
-       "detalle": "Swansea 8/10 · Blackburn 8/10",
-       "valor_mercado": 0.067,
+       "posiciones": [
+        5,
+        16,
+        24
+       ],
+       "contexto": "peor_abismo",
        "prob_aprendida": 0.691
       },
       {
@@ -3336,25 +3243,13 @@
        "ventaja": 0.019,
        "detalle": "Heerenveen 7/10 · NEC Nijmegen 9/10",
        "valor_mercado": -0.023,
-       "prob_aprendida": 0.765
-      },
-      {
-       "partido_id": 1557449,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Brentford",
-       "visitante": "Nottingham Forest",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Brentford o empate",
-       "cuota": 1.28,
-       "frecuencia": 0.875,
-       "ventaja": 0.094,
-       "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
-       "valor_mercado": -0.015,
-       "prob_aprendida": 0.755
+       "posiciones": [
+        7,
+        12,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.76
       },
       {
        "partido_id": 1563228,
@@ -3374,48 +3269,42 @@
        "valor_mercado": 0.0,
        "prob_xg": 0.737,
        "xg_esperado": 2.62,
-       "prob_aprendida": 0.744
+       "posiciones": [
+        22,
+        11,
+        24
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.742
       },
       {
-       "partido_id": 1550179,
-       "fecha": "2026-10-31T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Bologna",
-       "visitante": "Monza",
-       "mercado": "Away Player Shots",
-       "opcion": "Gustavo Varela - 2",
-       "cuota": 1.4,
-       "frecuencia": 0.857,
-       "ventaja": 0.143,
-       "tipo": "jugador",
-       "jugador": "Gustavo Varela",
-       "equipo": "Monza",
-       "jugador_id": 340547,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Gustavo Varela: 2+ tiros",
-       "detalle": "Gustavo Varela 6/7",
-       "temporada": "6/7",
-       "prob_aprendida": 0.694
-      },
-      {
-       "partido_id": 1563232,
-       "fecha": "2026-10-31T13:30",
+       "partido_id": 1563237,
+       "fecha": "2026-10-31T16:00",
        "competicion": "Championship",
        "liga_id": 40,
-       "local": "Norwich",
-       "visitante": "Watford",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "corners",
-       "texto": "Watford hace más de 2,5 córners",
-       "cuota": 1.62,
-       "frecuencia": 0.75,
-       "ventaja": 0.133,
-       "detalle": "Norwich (en contra) 8/10 · Watford 7/10",
-       "valor_mercado": 0.059,
-       "prob_aprendida": 0.605
+       "local": "West Ham",
+       "visitante": "West Brom",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Jarrod Bowen - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Jarrod Bowen",
+       "equipo": "West Ham",
+       "jugador_id": 19428,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Jarrod Bowen: 1+ tiros a puerta",
+       "detalle": "Jarrod Bowen 10/10",
+       "temporada": "11/12",
+       "posiciones": [
+        4,
+        6,
+        24
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.685
       },
       {
        "partido_id": 1557452,
@@ -3438,10 +3327,40 @@
        "texto": "Mohamed Belloumi: 2+ tiros",
        "detalle": "Mohamed Belloumi 6/7",
        "temporada": "6/7",
-       "prob_aprendida": 0.68
+       "posiciones": [
+        10,
+        12,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.677
+      },
+      {
+       "partido_id": 1570435,
+       "fecha": "2026-10-31T18:30",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Real Betis",
+       "visitante": "Malaga",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Malaga hace más de 3,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Real Betis (en contra) 7/10 · Malaga 8/10",
+       "valor_mercado": 0.036,
+       "posiciones": [
+        4,
+        20,
+        20
+       ],
+       "contexto": "peor_abismo",
+       "prob_aprendida": 0.535
       }
      ],
-     "cuota": 8.77
+     "cuota": 8.36
     },
     "doble": {
      "picks": [
@@ -3461,25 +3380,13 @@
        "texto": "GO Ahead Eagles o empate",
        "detalle": "Cambuur 7/10 · GO Ahead Eagles 8/10",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.754
-      },
-      {
-       "partido_id": 1552208,
-       "fecha": "2026-10-31T18:45",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Heerenveen",
-       "visitante": "NEC Nijmegen",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "cuota": 1.28,
-       "frecuencia": 0.8,
-       "ventaja": 0.019,
-       "tipo": "resultado",
-       "texto": "Heerenveen o empate",
-       "detalle": "Heerenveen 7/10 · NEC Nijmegen 9/10",
-       "valor_mercado": -0.023,
-       "prob_aprendida": 0.765
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.751
       },
       {
        "partido_id": 1557449,
@@ -3497,7 +3404,61 @@
        "texto": "Brentford o empate",
        "detalle": "Brentford 7/8 · Nottingham Forest 7/8",
        "valor_mercado": -0.015,
-       "prob_aprendida": 0.755
+       "posiciones": [
+        6,
+        18,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.77
+      },
+      {
+       "partido_id": 1552208,
+       "fecha": "2026-10-31T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Heerenveen",
+       "visitante": "NEC Nijmegen",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "cuota": 1.28,
+       "frecuencia": 0.8,
+       "ventaja": 0.019,
+       "tipo": "resultado",
+       "texto": "Heerenveen o empate",
+       "detalle": "Heerenveen 7/10 · NEC Nijmegen 9/10",
+       "valor_mercado": -0.023,
+       "posiciones": [
+        7,
+        12,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.76
+      },
+      {
+       "partido_id": 1552806,
+       "fecha": "2026-10-31T17:15",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Nice",
+       "visitante": "Rennes",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 1.44,
+       "frecuencia": 0.722,
+       "ventaja": 0.028,
+       "tipo": "resultado",
+       "texto": "Rennes o empate",
+       "detalle": "Nice 5/8 · Rennes 8/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        10,
+        1,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.7
       },
       {
        "partido_id": 1552803,
@@ -3517,7 +3478,13 @@
        "valor_mercado": -0.028,
        "movimiento": -0.067,
        "cuota_inicial": 1.5,
-       "prob_aprendida": 0.697
+       "posiciones": [
+        9,
+        13,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.692
       },
       {
        "partido_id": 1557448,
@@ -3537,25 +3504,13 @@
        "valor_mercado": -0.023,
        "movimiento": -0.023,
        "cuota_inicial": 1.33,
-       "prob_aprendida": 0.717
-      },
-      {
-       "partido_id": 1552806,
-       "fecha": "2026-10-31T17:15",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Nice",
-       "visitante": "Rennes",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.44,
-       "frecuencia": 0.722,
-       "ventaja": 0.028,
-       "tipo": "resultado",
-       "texto": "Rennes o empate",
-       "detalle": "Nice 5/8 · Rennes 8/10",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.685
+       "posiciones": [
+        13,
+        7,
+        20
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.718
       }
      ],
      "cuota": 6.01
@@ -3580,30 +3535,40 @@
        "ventaja": 0.063,
        "detalle": "Cambuur 6/10 · GO Ahead Eagles 8/10",
        "valor_mercado": 0.033,
-       "prob_aprendida": 0.67
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.666
       },
       {
-       "partido_id": 1563228,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Burnley",
-       "visitante": "Portsmouth",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Portsmouth marca",
-       "cuota": 1.4,
-       "frecuencia": 0.8,
-       "ventaja": 0.086,
-       "detalle": "Burnley (en contra) 9/10 · Portsmouth 7/10",
-       "valor_mercado": 0.014,
-       "prob_xg": 0.772,
-       "xg_esperado": 2.62,
-       "prob_aprendida": 0.695
+       "partido_id": 1552806,
+       "fecha": "2026-10-31T17:15",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Nice",
+       "visitante": "Rennes",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Rennes o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.722,
+       "ventaja": 0.028,
+       "detalle": "Nice 5/8 · Rennes 8/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        10,
+        1,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.7
       }
      ],
-     "cuota": 2.2,
+     "cuota": 2.26,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
@@ -3625,7 +3590,13 @@
        "ventaja": 0.036,
        "detalle": "Bayer Leverkusen 9/10 · VfB Stuttgart 6/10",
        "valor_mercado": 0.014,
-       "prob_aprendida": 0.776
+       "posiciones": [
+        4,
+        15,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.79
       },
       {
        "partido_id": 1575206,
@@ -3645,7 +3616,13 @@
        "valor_mercado": 0.014,
        "prob_xg": 0.758,
        "xg_esperado": 3.97,
-       "prob_aprendida": 0.68
+       "posiciones": [
+        9,
+        3,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.682
       },
       {
        "partido_id": 1575209,
@@ -3665,7 +3642,13 @@
        "valor_mercado": 0.029,
        "prob_xg": 0.662,
        "xg_esperado": 3.37,
-       "prob_aprendida": 0.667
+       "posiciones": [
+        6,
+        10,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.669
       },
       {
        "partido_id": 1575203,
@@ -3674,24 +3657,25 @@
        "liga_id": 78,
        "local": "Bayern München",
        "visitante": "Borussia Dortmund",
-       "mercado": "Home Player Shots",
-       "opcion": "Dayot Upamecano - 1",
-       "cuota": 1.62,
-       "frecuencia": 0.875,
-       "ventaja": 0.258,
-       "tipo": "jugador",
-       "jugador": "Dayot Upamecano",
-       "equipo": "Bayern München",
-       "jugador_id": 1149,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Dayot Upamecano: 1+ tiros",
-       "detalle": "Dayot Upamecano 7/8",
-       "temporada": "7/8",
-       "prob_aprendida": 0.589
+       "mercado": "Corners Over Under",
+       "opcion": "Over 10",
+       "tipo": "corners",
+       "texto": "Más de 10 córners en Bayern München–Borussia Dortmund",
+       "cuota": 1.95,
+       "frecuencia": 0.7,
+       "ventaja": 0.187,
+       "detalle": "Bayern München 8/10 · Borussia Dortmund 6/10",
+       "valor_mercado": -0.025,
+       "posiciones": [
+        1,
+        2,
+        18
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.481
       }
      ],
-     "cuota": 4.76,
+     "cuota": 5.73,
      "titulo": "🇩🇪 COMBI BUNDESLIGA",
      "liga": "Bundesliga"
     },
@@ -3713,7 +3697,13 @@
        "ventaja": 0.244,
        "detalle": "Burnley 9/10 · Portsmouth 7/10",
        "valor_mercado": 0.034,
-       "prob_aprendida": 0.598
+       "posiciones": [
+        22,
+        11,
+        24
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.613
       },
       {
        "partido_id": 1552208,
@@ -3731,7 +3721,13 @@
        "ventaja": 0.126,
        "detalle": "Heerenveen 6/10 · NEC Nijmegen 7/10",
        "valor_mercado": 0.038,
-       "prob_aprendida": 0.545
+       "posiciones": [
+        7,
+        12,
+        18
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.546
       },
       {
        "partido_id": 1552209,
@@ -3751,7 +3747,13 @@
        "valor_mercado": 0.047,
        "prob_xg": 0.755,
        "xg_esperado": 3.37,
-       "prob_aprendida": 0.532
+       "posiciones": [
+        3,
+        18,
+        18
+       ],
+       "contexto": "peor_abismo",
+       "prob_aprendida": 0.523
       }
      ],
      "cuota": 6.19
@@ -3761,6 +3763,30 @@
   },
   "2026-11-01": {
    "picks": [
+    {
+     "partido_id": 1550180,
+     "fecha": "2026-11-01T12:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Como",
+     "visitante": "Venezia",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Como",
+     "cuota": 1.33,
+     "frecuencia": 0.778,
+     "ventaja": 0.026,
+     "detalle": "Como 7/10 · Venezia 7/8",
+     "valor_mercado": 0.031,
+     "posiciones": [
+      5,
+      20,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.771
+    },
     {
      "partido_id": 1552215,
      "fecha": "2026-11-01T16:45",
@@ -3779,7 +3805,13 @@
      "valor_mercado": 0.046,
      "prob_xg": 0.863,
      "xg_esperado": 3.64,
-     "prob_aprendida": 0.75
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.751
     },
     {
      "partido_id": 1570433,
@@ -3799,25 +3831,13 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.814,
      "xg_esperado": 3.09,
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.79
-    },
-    {
-     "partido_id": 1550180,
-     "fecha": "2026-11-01T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Como",
-     "visitante": "Venezia",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Como",
-     "cuota": 1.33,
-     "frecuencia": 0.778,
-     "ventaja": 0.026,
-     "detalle": "Como 7/10 · Venezia 7/8",
-     "valor_mercado": 0.031,
-     "prob_aprendida": 0.757
     },
     {
      "partido_id": 1550184,
@@ -3837,6 +3857,12 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.763,
      "xg_esperado": 2.76,
+     "posiciones": [
+      12,
+      16,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.72
     },
     {
@@ -3855,30 +3881,13 @@
      "ventaja": 0.159,
      "detalle": "Getafe 8/10 · Sevilla 9/9",
      "valor_mercado": -0.022,
-     "prob_aprendida": 0.745
-    },
-    {
-     "partido_id": 1550180,
-     "fecha": "2026-11-01T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Como",
-     "visitante": "Venezia",
-     "mercado": "Away Player Shots",
-     "opcion": "Antoine Hainaut - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.875,
-     "ventaja": 0.14,
-     "tipo": "jugador",
-     "jugador": "Antoine Hainaut",
-     "equipo": "Venezia",
-     "jugador_id": 275394,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Antoine Hainaut: 1+ tiros",
-     "detalle": "Antoine Hainaut 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.721
+     "posiciones": [
+      17,
+      6,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.738
     },
     {
      "partido_id": 1552212,
@@ -3898,30 +3907,37 @@
      "valor_mercado": 0.025,
      "prob_xg": 0.775,
      "xg_esperado": 3.07,
-     "prob_aprendida": 0.727
+     "posiciones": [
+      15,
+      17,
+      18
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.725
     },
     {
-     "partido_id": 1550183,
+     "partido_id": 1550181,
      "fecha": "2026-11-01T15:00",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Away Player Shots",
-     "opcion": "Alessandro Romano - 1",
-     "cuota": 1.4,
+     "local": "Frosinone",
+     "visitante": "Torino",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Frosinone–Torino",
+     "cuota": 1.28,
      "frecuencia": 0.875,
-     "ventaja": 0.161,
-     "tipo": "jugador",
-     "jugador": "Alessandro Romano",
-     "equipo": "Cagliari",
-     "jugador_id": 394183,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Alessandro Romano: 1+ tiros",
-     "detalle": "Alessandro Romano 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.71
+     "ventaja": 0.094,
+     "detalle": "Frosinone 8/8 · Torino 6/8",
+     "valor_mercado": 0.032,
+     "posiciones": [
+      6,
+      8,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.704
     },
     {
      "partido_id": 1570440,
@@ -3940,70 +3956,13 @@
      "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
      "movimiento": -0.045,
      "cuota_inicial": 1.57,
-     "prob_aprendida": 0.671
-    },
-    {
-     "partido_id": 1550180,
-     "fecha": "2026-11-01T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Como",
-     "visitante": "Venezia",
-     "mercado": "Away Player Shots",
-     "opcion": "Akor Adams - 2",
-     "cuota": 1.4,
-     "frecuencia": 0.875,
-     "ventaja": 0.161,
-     "tipo": "jugador",
-     "jugador": "Akor Adams",
-     "equipo": "Venezia",
-     "jugador_id": 57446,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Akor Adams: 2+ tiros",
-     "detalle": "Akor Adams 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.699
-    },
-    {
-     "partido_id": 1570440,
-     "fecha": "2026-11-01T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Racing Santander",
-     "visitante": "Real Madrid",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Racing Santander marca",
-     "cuota": 1.36,
-     "frecuencia": 0.8,
-     "ventaja": 0.065,
-     "detalle": "Racing Santander 7/10 · Real Madrid (en contra) 9/10",
-     "valor_mercado": -0.029,
-     "movimiento": -0.029,
-     "cuota_inicial": 1.4,
-     "prob_xg": 0.73,
-     "xg_esperado": 3.59,
-     "prob_aprendida": 0.711
-    },
-    {
-     "partido_id": 1550181,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Torino",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Frosinone–Torino",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "Frosinone 8/8 · Torino 6/8",
-     "valor_mercado": 0.032,
-     "prob_aprendida": 0.702
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.664
     },
     {
      "partido_id": 1570438,
@@ -4025,7 +3984,41 @@
      "cuota_inicial": 1.44,
      "prob_xg": 0.664,
      "xg_esperado": 2.21,
-     "prob_aprendida": 0.678
+     "posiciones": [
+      17,
+      6,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.681
+    },
+    {
+     "partido_id": 1570440,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Racing Santander",
+     "visitante": "Real Madrid",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Racing Santander marca",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "detalle": "Racing Santander 7/10 · Real Madrid (en contra) 9/10",
+     "valor_mercado": -0.029,
+     "movimiento": -0.029,
+     "cuota_inicial": 1.4,
+     "prob_xg": 0.73,
+     "xg_esperado": 3.59,
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.702
     },
     {
      "partido_id": 1552215,
@@ -4045,7 +4038,13 @@
      "valor_mercado": 0.027,
      "prob_xg": 0.698,
      "xg_esperado": 3.64,
-     "prob_aprendida": 0.649
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.651
     },
     {
      "partido_id": 1552808,
@@ -4065,6 +4064,38 @@
      "valor_mercado": -0.007,
      "prob_xg": 0.825,
      "xg_esperado": 3.29,
+     "posiciones": [
+      16,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.674
+    },
+    {
+     "partido_id": 1552215,
+     "fecha": "2026-11-01T16:45",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Groningen",
+     "visitante": "Sparta Rotterdam",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Groningen–Sparta Rotterdam",
+     "cuota": 1.4,
+     "frecuencia": 0.9,
+     "ventaja": 0.186,
+     "detalle": "Groningen 9/10 · Sparta Rotterdam 9/10",
+     "valor_mercado": -0.028,
+     "prob_xg": 0.705,
+     "xg_esperado": 3.64,
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "total_lejos",
      "prob_aprendida": 0.671
     },
     {
@@ -4087,27 +4118,13 @@
      "cuota_inicial": 1.5,
      "prob_xg": 0.655,
      "xg_esperado": 3.59,
-     "prob_aprendida": 0.647
-    },
-    {
-     "partido_id": 1552215,
-     "fecha": "2026-11-01T16:45",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Groningen",
-     "visitante": "Sparta Rotterdam",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Groningen–Sparta Rotterdam",
-     "cuota": 1.4,
-     "frecuencia": 0.9,
-     "ventaja": 0.186,
-     "detalle": "Groningen 9/10 · Sparta Rotterdam 9/10",
-     "valor_mercado": -0.028,
-     "prob_xg": 0.705,
-     "xg_esperado": 3.64,
-     "prob_aprendida": 0.669
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.646
     },
     {
      "partido_id": 1550184,
@@ -4125,7 +4142,13 @@
      "ventaja": 0.146,
      "detalle": "Lecce 7/8 · Genoa 6/8",
      "valor_mercado": -0.013,
-     "prob_aprendida": 0.638
+     "posiciones": [
+      12,
+      16,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.64
     },
     {
      "partido_id": 1552214,
@@ -4145,7 +4168,13 @@
      "valor_mercado": -0.006,
      "prob_xg": 0.612,
      "xg_esperado": 3.16,
-     "prob_aprendida": 0.612
+     "posiciones": [
+      16,
+      11,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.614
     },
     {
      "partido_id": 1552215,
@@ -4162,27 +4191,13 @@
      "frecuencia": 0.8,
      "ventaja": 0.201,
      "detalle": "Groningen 8/10 · Sparta Rotterdam 8/10",
-     "prob_aprendida": 0.555
-    },
-    {
-     "partido_id": 1552808,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Strasbourg",
-     "visitante": "Auxerre",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Strasbourg–Auxerre",
-     "cuota": 1.53,
-     "frecuencia": 0.812,
-     "ventaja": 0.159,
-     "detalle": "Strasbourg 6/8 · Auxerre 7/8",
-     "valor_mercado": -0.013,
-     "prob_xg": 0.65,
-     "xg_esperado": 3.29,
-     "prob_aprendida": 0.57
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.562
     },
     {
      "partido_id": 1552215,
@@ -4202,7 +4217,39 @@
      "valor_mercado": -0.048,
      "prob_xg": 0.493,
      "xg_esperado": 3.64,
-     "prob_aprendida": 0.608
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.611
+    },
+    {
+     "partido_id": 1552808,
+     "fecha": "2026-11-01T15:00",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Strasbourg",
+     "visitante": "Auxerre",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Strasbourg–Auxerre",
+     "cuota": 1.53,
+     "frecuencia": 0.812,
+     "ventaja": 0.159,
+     "detalle": "Strasbourg 6/8 · Auxerre 7/8",
+     "valor_mercado": -0.013,
+     "prob_xg": 0.65,
+     "xg_esperado": 3.29,
+     "posiciones": [
+      16,
+      12,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.572
     },
     {
      "partido_id": 1552808,
@@ -4222,7 +4269,13 @@
      "valor_mercado": -0.025,
      "prob_xg": 0.64,
      "xg_esperado": 3.29,
-     "prob_aprendida": 0.566
+     "posiciones": [
+      16,
+      12,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.568
     },
     {
      "partido_id": 1552215,
@@ -4240,7 +4293,13 @@
      "ventaja": 0.133,
      "detalle": "Groningen 7/10 · Sparta Rotterdam 8/10",
      "valor_mercado": -0.018,
-     "prob_aprendida": 0.532
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.539
     },
     {
      "partido_id": 1552212,
@@ -4258,7 +4317,13 @@
      "ventaja": 0.194,
      "detalle": "PEC Zwolle 7/10 · ADO Den Haag 8/10",
      "valor_mercado": -0.006,
-     "prob_aprendida": 0.503
+     "posiciones": [
+      15,
+      17,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.504
     },
     {
      "partido_id": 1552808,
@@ -4276,7 +4341,13 @@
      "ventaja": 0.194,
      "detalle": "Strasbourg 6/8 · Auxerre 6/8",
      "valor_mercado": -0.016,
-     "prob_aprendida": 0.459
+     "posiciones": [
+      16,
+      12,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.466
     },
     {
      "partido_id": 1569995,
@@ -4294,10 +4365,40 @@
      "ventaja": 0.185,
      "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
      "valor_mercado": -0.16,
-     "prob_aprendida": 0.412
+     "posiciones": [
+      21,
+      7,
+      22
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.426
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1550180,
+     "fecha": "2026-11-01T12:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Como",
+     "visitante": "Venezia",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Como",
+     "cuota": 1.33,
+     "frecuencia": 0.778,
+     "ventaja": 0.026,
+     "detalle": "Como 7/10 · Venezia 7/8",
+     "valor_mercado": 0.031,
+     "posiciones": [
+      5,
+      20,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.771
+    },
     {
      "partido_id": 1552215,
      "fecha": "2026-11-01T16:45",
@@ -4316,7 +4417,13 @@
      "valor_mercado": 0.046,
      "prob_xg": 0.863,
      "xg_esperado": 3.64,
-     "prob_aprendida": 0.75
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.751
     },
     {
      "partido_id": 1570433,
@@ -4336,25 +4443,13 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.814,
      "xg_esperado": 3.09,
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.79
-    },
-    {
-     "partido_id": 1550180,
-     "fecha": "2026-11-01T12:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Como",
-     "visitante": "Venezia",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Como",
-     "cuota": 1.33,
-     "frecuencia": 0.778,
-     "ventaja": 0.026,
-     "detalle": "Como 7/10 · Venezia 7/8",
-     "valor_mercado": 0.031,
-     "prob_aprendida": 0.757
     },
     {
      "partido_id": 1550184,
@@ -4374,6 +4469,12 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.763,
      "xg_esperado": 2.76,
+     "posiciones": [
+      12,
+      16,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.72
     },
     {
@@ -4392,7 +4493,13 @@
      "ventaja": 0.159,
      "detalle": "Getafe 8/10 · Sevilla 9/9",
      "valor_mercado": -0.022,
-     "prob_aprendida": 0.745
+     "posiciones": [
+      17,
+      6,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.738
     },
     {
      "partido_id": 1552212,
@@ -4412,30 +4519,37 @@
      "valor_mercado": 0.025,
      "prob_xg": 0.775,
      "xg_esperado": 3.07,
-     "prob_aprendida": 0.727
+     "posiciones": [
+      15,
+      17,
+      18
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.725
     },
     {
-     "partido_id": 1550183,
+     "partido_id": 1550181,
      "fecha": "2026-11-01T15:00",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Away Player Shots",
-     "opcion": "Alessandro Romano - 1",
-     "cuota": 1.4,
+     "local": "Frosinone",
+     "visitante": "Torino",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Frosinone–Torino",
+     "cuota": 1.28,
      "frecuencia": 0.875,
-     "ventaja": 0.161,
-     "tipo": "jugador",
-     "jugador": "Alessandro Romano",
-     "equipo": "Cagliari",
-     "jugador_id": 394183,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Alessandro Romano: 1+ tiros",
-     "detalle": "Alessandro Romano 7/8",
-     "temporada": "7/8",
-     "prob_aprendida": 0.71
+     "ventaja": 0.094,
+     "detalle": "Frosinone 8/8 · Torino 6/8",
+     "valor_mercado": 0.032,
+     "posiciones": [
+      6,
+      8,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.704
     },
     {
      "partido_id": 1570440,
@@ -4454,25 +4568,13 @@
      "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
      "movimiento": -0.045,
      "cuota_inicial": 1.57,
-     "prob_aprendida": 0.671
-    },
-    {
-     "partido_id": 1550181,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Torino",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Frosinone–Torino",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "Frosinone 8/8 · Torino 6/8",
-     "valor_mercado": 0.032,
-     "prob_aprendida": 0.702
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.664
     },
     {
      "partido_id": 1552808,
@@ -4492,7 +4594,13 @@
      "valor_mercado": -0.007,
      "prob_xg": 0.825,
      "xg_esperado": 3.29,
-     "prob_aprendida": 0.671
+     "posiciones": [
+      16,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.674
     },
     {
      "partido_id": 1552214,
@@ -4512,7 +4620,13 @@
      "valor_mercado": -0.006,
      "prob_xg": 0.612,
      "xg_esperado": 3.16,
-     "prob_aprendida": 0.612
+     "posiciones": [
+      16,
+      11,
+      18
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.614
     },
     {
      "partido_id": 1569995,
@@ -4530,31 +4644,41 @@
      "ventaja": 0.185,
      "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
      "valor_mercado": -0.16,
-     "prob_aprendida": 0.412
+     "posiciones": [
+      21,
+      7,
+      22
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.426
     }
    ],
    "combis": {
     "segura": {
      "picks": [
       {
-       "partido_id": 1552215,
-       "fecha": "2026-11-01T16:45",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Groningen",
-       "visitante": "Sparta Rotterdam",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Sparta Rotterdam marca",
-       "cuota": 1.36,
-       "frecuencia": 0.85,
-       "ventaja": 0.115,
-       "detalle": "Groningen (en contra) 9/10 · Sparta Rotterdam 8/10",
-       "valor_mercado": 0.046,
-       "prob_xg": 0.863,
-       "xg_esperado": 3.64,
-       "prob_aprendida": 0.75
+       "partido_id": 1550180,
+       "fecha": "2026-11-01T12:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Venezia",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Como",
+       "cuota": 1.33,
+       "frecuencia": 0.778,
+       "ventaja": 0.026,
+       "detalle": "Como 7/10 · Venezia 7/8",
+       "valor_mercado": 0.031,
+       "posiciones": [
+        5,
+        20,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.771
       },
       {
        "partido_id": 1570433,
@@ -4574,134 +4698,19 @@
        "valor_mercado": 0.0,
        "prob_xg": 0.814,
        "xg_esperado": 3.09,
+       "posiciones": [
+        8,
+        5,
+        20
+       ],
+       "contexto": "total_igualado",
        "prob_aprendida": 0.79
       }
      ],
-     "cuota": 1.7
+     "cuota": 1.66
     },
     "cuota_3": null,
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1550180,
-       "fecha": "2026-11-01T12:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Como",
-       "visitante": "Venezia",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Como",
-       "cuota": 1.33,
-       "frecuencia": 0.778,
-       "ventaja": 0.026,
-       "detalle": "Como 7/10 · Venezia 7/8",
-       "valor_mercado": 0.031,
-       "prob_aprendida": 0.757
-      },
-      {
-       "partido_id": 1550184,
-       "fecha": "2026-11-01T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lecce",
-       "visitante": "Genoa",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Lecce–Genoa",
-       "cuota": 1.44,
-       "frecuencia": 0.812,
-       "ventaja": 0.118,
-       "detalle": "Lecce 7/8 · Genoa 6/8",
-       "valor_mercado": 0.0,
-       "prob_xg": 0.763,
-       "xg_esperado": 2.76,
-       "prob_aprendida": 0.72
-      },
-      {
-       "partido_id": 1570438,
-       "fecha": "2026-11-01T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Getafe",
-       "visitante": "Sevilla",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 2ª parte del Getafe–Sevilla",
-       "cuota": 1.36,
-       "frecuencia": 0.895,
-       "ventaja": 0.159,
-       "detalle": "Getafe 8/10 · Sevilla 9/9",
-       "valor_mercado": -0.022,
-       "prob_aprendida": 0.745
-      },
-      {
-       "partido_id": 1552212,
-       "fecha": "2026-11-01T12:15",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "PEC Zwolle",
-       "visitante": "ADO Den Haag",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "ADO Den Haag marca",
-       "cuota": 1.25,
-       "frecuencia": 0.85,
-       "ventaja": 0.05,
-       "detalle": "PEC Zwolle (en contra) 9/10 · ADO Den Haag 8/10",
-       "valor_mercado": 0.025,
-       "prob_xg": 0.775,
-       "xg_esperado": 3.07,
-       "prob_aprendida": 0.727
-      },
-      {
-       "partido_id": 1550183,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Cagliari",
-       "mercado": "Away Player Shots",
-       "opcion": "Alessandro Romano - 1",
-       "cuota": 1.4,
-       "frecuencia": 0.875,
-       "ventaja": 0.161,
-       "tipo": "jugador",
-       "jugador": "Alessandro Romano",
-       "equipo": "Cagliari",
-       "jugador_id": 394183,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Alessandro Romano: 1+ tiros",
-       "detalle": "Alessandro Romano 7/8",
-       "temporada": "7/8",
-       "prob_aprendida": 0.71
-      },
-      {
-       "partido_id": 1569995,
-       "fecha": "2026-11-01T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "AD Ceuta FC",
-       "visitante": "Sporting Gijon",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Sporting Gijon",
-       "cuota": 2.15,
-       "frecuencia": 0.65,
-       "ventaja": 0.185,
-       "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
-       "valor_mercado": -0.16,
-       "prob_aprendida": 0.412
-      }
-     ],
-     "cuota": 9.8
-    },
+    "loca": null,
     "doble": {
      "picks": [
       {
@@ -4720,7 +4729,13 @@
        "texto": "Sevilla o empate",
        "detalle": "Getafe 9/10 · Sevilla 6/9",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.774
+       "posiciones": [
+        17,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.788
       },
       {
        "partido_id": 1570437,
@@ -4740,7 +4755,13 @@
        "valor_mercado": 0.029,
        "movimiento": 0.029,
        "cuota_inicial": 1.4,
-       "prob_aprendida": 0.758
+       "posiciones": [
+        15,
+        19,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.755
       },
       {
        "partido_id": 1552214,
@@ -4758,7 +4779,13 @@
        "texto": "Utrecht o empate",
        "detalle": "Telstar 9/10 · Utrecht 6/10",
        "valor_mercado": -0.028,
-       "prob_aprendida": 0.732
+       "posiciones": [
+        16,
+        11,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.727
       },
       {
        "partido_id": 1575207,
@@ -4776,7 +4803,13 @@
        "texto": "1. FC Köln o empate",
        "detalle": "Union Berlin 6/7 · 1. FC Köln 4/7",
        "valor_mercado": -0.032,
-       "prob_aprendida": 0.7
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.696
       },
       {
        "partido_id": 1570433,
@@ -4794,7 +4827,13 @@
        "texto": "Real Sociedad o empate",
        "detalle": "Athletic Club 6/9 · Real Sociedad 8/10",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.592
+       "posiciones": [
+        8,
+        5,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.589
       },
       {
        "partido_id": 1552805,
@@ -4814,6 +4853,12 @@
        "valor_mercado": 0.0,
        "movimiento": -0.021,
        "cuota_inicial": 1.95,
+       "posiciones": [
+        8,
+        11,
+        18
+       ],
+       "contexto": "peor_igualado",
        "prob_aprendida": 0.512
       }
      ],
@@ -4839,7 +4884,39 @@
        "ventaja": 0.075,
        "detalle": "Getafe 9/10 · Sevilla 6/9",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.774
+       "posiciones": [
+        17,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.788
+      },
+      {
+       "partido_id": 1552215,
+       "fecha": "2026-11-01T16:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Groningen",
+       "visitante": "Sparta Rotterdam",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Sparta Rotterdam marca",
+       "cuota": 1.36,
+       "frecuencia": 0.85,
+       "ventaja": 0.115,
+       "detalle": "Groningen (en contra) 9/10 · Sparta Rotterdam 8/10",
+       "valor_mercado": 0.046,
+       "prob_xg": 0.863,
+       "xg_esperado": 3.64,
+       "posiciones": [
+        8,
+        14,
+        18
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.751
       },
       {
        "partido_id": 1552214,
@@ -4857,30 +4934,13 @@
        "ventaja": 0.036,
        "detalle": "Telstar 9/10 · Utrecht 6/10",
        "valor_mercado": -0.028,
-       "prob_aprendida": 0.732
-      },
-      {
-       "partido_id": 1550180,
-       "fecha": "2026-11-01T12:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Como",
-       "visitante": "Venezia",
-       "mercado": "Away Player Shots",
-       "opcion": "Antoine Hainaut - 1",
-       "cuota": 1.36,
-       "frecuencia": 0.875,
-       "ventaja": 0.14,
-       "tipo": "jugador",
-       "jugador": "Antoine Hainaut",
-       "equipo": "Venezia",
-       "jugador_id": 275394,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Antoine Hainaut: 1+ tiros",
-       "detalle": "Antoine Hainaut 7/8",
-       "temporada": "7/8",
-       "prob_aprendida": 0.721
+       "posiciones": [
+        16,
+        11,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.727
       }
      ],
      "cuota": 2.67,
@@ -4907,7 +4967,37 @@
        "valor_mercado": 0.029,
        "movimiento": 0.029,
        "cuota_inicial": 1.4,
-       "prob_aprendida": 0.758
+       "posiciones": [
+        15,
+        19,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.755
+      },
+      {
+       "partido_id": 1570438,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Getafe",
+       "visitante": "Sevilla",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 2ª parte del Getafe–Sevilla",
+       "cuota": 1.36,
+       "frecuencia": 0.895,
+       "ventaja": 0.159,
+       "detalle": "Getafe 8/10 · Sevilla 9/9",
+       "valor_mercado": -0.022,
+       "posiciones": [
+        17,
+        6,
+        20
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.738
       },
       {
        "partido_id": 1570440,
@@ -4926,37 +5016,14 @@
        "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
        "movimiento": -0.045,
        "cuota_inicial": 1.57,
-       "prob_aprendida": 0.671
+       "posiciones": [
+        13,
+        3,
+        20
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.664
       },
-      {
-       "partido_id": 1570438,
-       "fecha": "2026-11-01T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Getafe",
-       "visitante": "Sevilla",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Sevilla marca",
-       "cuota": 1.4,
-       "frecuencia": 0.947,
-       "ventaja": 0.233,
-       "detalle": "Getafe (en contra) 9/10 · Sevilla 9/9",
-       "valor_mercado": 0.0,
-       "movimiento": -0.028,
-       "cuota_inicial": 1.44,
-       "prob_xg": 0.664,
-       "xg_esperado": 2.21,
-       "prob_aprendida": 0.678
-      }
-     ],
-     "cuota": 3.02,
-     "titulo": "🇪🇸 COMBI LALIGA",
-     "liga": "LaLiga"
-    },
-    "atreve": {
-     "picks": [
       {
        "partido_id": 1570433,
        "fecha": "2026-11-01T21:00",
@@ -4973,7 +5040,46 @@
        "ventaja": 0.181,
        "detalle": "Athletic Club 6/9 · Real Sociedad 8/10",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.592
+       "posiciones": [
+        8,
+        5,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.589
+      }
+     ],
+     "cuota": 5.29,
+     "titulo": "🇪🇸 COMBI LALIGA",
+     "liga": "LaLiga"
+    },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1570438,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Getafe",
+       "visitante": "Sevilla",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Sevilla gana alguna de las dos partes",
+       "cuota": 1.83,
+       "frecuencia": 0.684,
+       "ventaja": 0.138,
+       "detalle": "Getafe 7/10 · Sevilla 6/9",
+       "valor_mercado": -0.042,
+       "movimiento": -0.042,
+       "cuota_inicial": 1.91,
+       "posiciones": [
+        17,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.537
       },
       {
        "partido_id": 1552805,
@@ -4993,6 +5099,12 @@
        "valor_mercado": 0.0,
        "movimiento": -0.021,
        "cuota_inicial": 1.95,
+       "posiciones": [
+        8,
+        11,
+        18
+       ],
+       "contexto": "peor_igualado",
        "prob_aprendida": 0.512
       },
       {
@@ -5011,10 +5123,16 @@
        "ventaja": 0.2,
        "detalle": "Groningen 8/10 · Sparta Rotterdam 6/10",
        "valor_mercado": -0.015,
-       "prob_aprendida": 0.48
+       "posiciones": [
+        8,
+        14,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.488
       }
      ],
-     "cuota": 6.88
+     "cuota": 6.99
     }
    },
    "combis_partido": []
@@ -5039,6 +5157,12 @@
      "valor_mercado": 0.007,
      "prob_xg": 0.764,
      "xg_esperado": 2.77,
+     "posiciones": [
+      11,
+      12,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.753
     },
     {
@@ -5057,30 +5181,13 @@
      "ventaja": 0.019,
      "detalle": "Valladolid 8/10 · Leganes 8/10",
      "valor_mercado": 0.008,
-     "prob_aprendida": 0.732
-    },
-    {
-     "partido_id": 1569998,
-     "fecha": "2026-11-02T21:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Mallorca",
-     "visitante": "Cadiz",
-     "mercado": "Away Player Shots",
-     "opcion": "Antonito Cordero - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "tipo": "jugador",
-     "jugador": "Antonito Cordero",
-     "equipo": "Cadiz",
-     "jugador_id": 437971,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Antonito Cordero: 1+ tiros",
-     "detalle": "Antonito Cordero 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.736
+     "posiciones": [
+      15,
+      17,
+      22
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.733
     },
     {
      "partido_id": 1550185,
@@ -5100,7 +5207,13 @@
      "valor_mercado": 0.007,
      "prob_xg": 0.603,
      "xg_esperado": 3.0,
-     "prob_aprendida": 0.592
+     "posiciones": [
+      14,
+      18,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.593
     },
     {
      "partido_id": 1550185,
@@ -5120,6 +5233,12 @@
      "valor_mercado": 0.0,
      "prob_xg": 0.577,
      "xg_esperado": 3.0,
+     "posiciones": [
+      14,
+      18,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.483
     }
    ],
@@ -5142,6 +5261,12 @@
      "valor_mercado": 0.007,
      "prob_xg": 0.764,
      "xg_esperado": 2.77,
+     "posiciones": [
+      11,
+      12,
+      20
+     ],
+     "contexto": "total_igualado",
      "prob_aprendida": 0.753
     },
     {
@@ -5160,30 +5285,13 @@
      "ventaja": 0.019,
      "detalle": "Valladolid 8/10 · Leganes 8/10",
      "valor_mercado": 0.008,
-     "prob_aprendida": 0.732
-    },
-    {
-     "partido_id": 1569998,
-     "fecha": "2026-11-02T21:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Mallorca",
-     "visitante": "Cadiz",
-     "mercado": "Away Player Shots",
-     "opcion": "Antonito Cordero - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "tipo": "jugador",
-     "jugador": "Antonito Cordero",
-     "equipo": "Cadiz",
-     "jugador_id": 437971,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Antonito Cordero: 1+ tiros",
-     "detalle": "Antonito Cordero 6/7",
-     "temporada": "6/7",
-     "prob_aprendida": 0.736
+     "posiciones": [
+      15,
+      17,
+      22
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.733
     },
     {
      "partido_id": 1550185,
@@ -5203,11 +5311,23 @@
      "valor_mercado": 0.007,
      "prob_xg": 0.603,
      "xg_esperado": 3.0,
-     "prob_aprendida": 0.592
+     "posiciones": [
+      14,
+      18,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.593
     }
    ],
    "combis": {
-    "segura": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
      "picks": [
       {
        "partido_id": 1570436,
@@ -5227,41 +5347,14 @@
        "valor_mercado": 0.007,
        "prob_xg": 0.764,
        "xg_esperado": 2.77,
+       "posiciones": [
+        11,
+        12,
+        20
+       ],
+       "contexto": "total_igualado",
        "prob_aprendida": 0.753
       },
-      {
-       "partido_id": 1569998,
-       "fecha": "2026-11-02T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Mallorca",
-       "visitante": "Cadiz",
-       "mercado": "Away Player Shots",
-       "opcion": "Antonito Cordero - 1",
-       "cuota": 1.25,
-       "frecuencia": 0.857,
-       "ventaja": 0.057,
-       "tipo": "jugador",
-       "jugador": "Antonito Cordero",
-       "equipo": "Cadiz",
-       "jugador_id": 437971,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Antonito Cordero: 1+ tiros",
-       "detalle": "Antonito Cordero 6/7",
-       "temporada": "6/7",
-       "prob_aprendida": 0.736
-      }
-     ],
-     "cuota": 1.75
-    },
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
       {
        "partido_id": 1570002,
        "fecha": "2026-11-02T18:30",
@@ -5278,25 +5371,13 @@
        "ventaja": 0.019,
        "detalle": "Valladolid 8/10 · Leganes 8/10",
        "valor_mercado": 0.008,
-       "prob_aprendida": 0.732
-      },
-      {
-       "partido_id": 1570436,
-       "fecha": "2026-11-02T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Deportivo La Coruna",
-       "visitante": "Osasuna",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Deportivo La Coruna–Osasuna",
-       "cuota": 1.44,
-       "frecuencia": 0.737,
-       "ventaja": 0.042,
-       "detalle": "Deportivo La Coruna 6/10 · Osasuna 8/9",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.668
+       "posiciones": [
+        15,
+        17,
+        22
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.733
       },
       {
        "partido_id": 1569999,
@@ -5316,10 +5397,16 @@
        "valor_mercado": 0.0,
        "prob_xg": 0.749,
        "xg_esperado": 2.98,
-       "prob_aprendida": 0.651
+       "posiciones": [
+        8,
+        14,
+        22
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.652
       }
      ],
-     "cuota": 2.76,
+     "cuota": 2.69,
      "titulo": "⚽ LUNES DE GOLES",
      "tema": "goles"
     }

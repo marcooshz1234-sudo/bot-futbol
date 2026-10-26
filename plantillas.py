@@ -50,7 +50,9 @@ MIN_LISTA = 3   # mínimo de picks para una lista (3 para que los días con poco
 def dato(picks):
     """Frase de respaldo con el dato real del pick más fiable."""
     p = max(picks, key=atractivo)
-    return f"📊 {p['texto']} → {p['detalle']} en sus últimos partidos"
+    pos = p.get("posiciones")   # 26/10: la tabla también cuenta
+    tabla = f" · en la liga, {pos[0]}º vs {pos[1]}º" if pos else ""
+    return f"📊 {p['texto']} → {p['detalle']} en sus últimos partidos{tabla}"
 
 
 def atractivo(p):

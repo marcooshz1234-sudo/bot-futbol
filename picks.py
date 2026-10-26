@@ -1110,6 +1110,8 @@ def enriquecer(picks, prox, hist, arbitros):
     fuera = {loc["id"]: titulares_fuera(prox, loc["id"], hist), vis["id"]: titulares_fuera(prox, vis["id"], hist)}
     import prueba_xg as xg
     lam_xg = xg.lambdas(hist, loc["id"], vis["id"])
+    import contexto   # 26/10: posición en la tabla de cada equipo (no es lo mismo 1º vs 19º que 5º vs 8º)
+    pos = contexto.posiciones(partido["league"]["id"], partido["fixture"]["date"], loc["id"], vis["id"])
     salida = []
     for p in picks:
         m, o = p["mercado"], p["opcion"]
@@ -1157,6 +1159,10 @@ def enriquecer(picks, prox, hist, arbitros):
         if f"{m}|{o}" in xg.MERCADOS and lam_xg:
             p = dict(p, prob_xg=round(xg.prob_xg(f"{m}|{o}", *lam_xg), 3),
                      xg_esperado=round(lam_xg[0] + lam_xg[1], 2))
+        if pos:
+            lado = ("local" if p.get("equipo") == loc["name"] else "visitante") if p.get("tipo") == "jugador" \
+                else lado_pick(p)
+            p = dict(p, posiciones=list(pos), contexto=contexto.de_pick(pos, lado))
         salida.append(p)
     return salida
 

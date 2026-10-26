@@ -102,7 +102,20 @@ def frec_calibrada(p, cal=None):
     if m:
         w = m["n"] / (m["n"] + 100)          # con pocos casos manda el tipo de mercado
         v = w * recta(m) + (1 - w) * v
+    v += ajuste_contexto(p, cal)
     return con_xg(p, max(0.05, min(0.97, v)))
+
+
+def ajuste_contexto(p, cal):
+    """26/10: lo que se acierta de más o de menos según la tabla (p. ej. «el colista marca» contra uno de
+    arriba sale un 17 % menos de lo que dice su racha). Con pocos casos cuenta menos."""
+    ctx = p.get("contexto")
+    if not ctx:
+        return 0.0
+    c = (cal.get("contexto_tipo") or {}).get(f"{seg_tipo(p)}|{ctx}") or (cal.get("contexto") or {}).get(ctx)
+    if not c:
+        return 0.0
+    return c["residuo"] * c["n"] / (c["n"] + 200)
 
 
 def con_xg(p, v):

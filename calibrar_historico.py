@@ -15,7 +15,8 @@ from collections import defaultdict
 from datetime import datetime
 
 from bot import DATOS, MADRID
-from picks import MIN_PARTIDOS, ULTIMOS, evaluador, historial, plantilla_fija, tipo_de
+import contexto
+from picks import MIN_PARTIDOS, ULTIMOS, evaluador, historial, lado_pick, plantilla_fija, tipo_de
 from prueba_mercados import JUG_LINEAS, LINEAS
 
 SALIDA = DATOS / "calibracion.json"
@@ -37,11 +38,13 @@ def main():
     hist = historial()
     partidos = {p["id"]: p for l in hist.values() for p in l}
     casos = defaultdict(list)     # clave fina -> [(frec, acierto)]
+    con_ctx = []                  # (clave fina, contexto, frec, acierto) para medir el contexto de la tabla
     for p in sorted(partidos.values(), key=lambda x: x["fecha"]):
         antes = {k: [x for x in v if x["fecha"] < p["fecha"]] for k, v in hist.items()}
         loc, vis = p["local"]["id"], p["visitante"]["id"]
         h_loc = [(x, loc) for x in antes.get(loc, [])[:ULTIMOS]]
         h_vis = [(x, vis) for x in antes.get(vis, [])[:ULTIMOS]]
+        pos = contexto.posiciones(p.get("liga"), p["fecha"], loc, vis)
         if len(h_loc) < MIN_PARTIDOS or len(h_vis) < MIN_PARTIDOS:
             continue
         for mercado, ops in LINEAS.items():
@@ -61,6 +64,9 @@ def main():
                 real = fl(p, loc)
                 if real is not None:
                     casos[f"{mercado}|{op}"].append((frec, 1.0 if real else 0.0))
+                    ctx = contexto.de_pick(pos, lado_pick({"mercado": mercado, "opcion": op}))
+                    if ctx:
+                        con_ctx.append((f"{mercado}|{op}", ctx, frec, 1.0 if real else 0.0))
         for eq in (loc, vis):
             fijos = plantilla_fija(eq, antes)
             jugaron = {j["id"]: j for j in (p.get("jugadores") or {}).get(str(eq)) or []}
@@ -76,7 +82,11 @@ def main():
                         continue
                     frec = sum(1 for r in regs if (r.get(campo) or 0) >= n) / len(regs)
                     if frec >= FREC_DESDE:
-                        casos[f"jugador:{campo}:{n}"].append((frec, 1.0 if (j.get(campo) or 0) >= n else 0.0))
+                        y = 1.0 if (j.get(campo) or 0) >= n else 0.0
+                        casos[f"jugador:{campo}:{n}"].append((frec, y))
+                        ctx = contexto.de_pick(pos, "local" if eq == loc else "visitante")
+                        if ctx:
+                            con_ctx.append((f"jugador:{campo}:{n}", ctx, frec, y))
     # tipo de cada clave
     por_tipo = defaultdict(list)
     for k, l in casos.items():
@@ -87,10 +97,27 @@ def main():
               "global": ajuste(todos) if todos else None,
               "tipos": {t: ajuste(l) for t, l in por_tipo.items() if len(l) >= 30},
               "mercados": {k: ajuste(l) for k, l in casos.items() if len(l) >= 30}}
+    # contexto de la tabla: lo que se acierta de más o de menos respecto a lo que ya predice la calibración
+    # del mercado (residuo medio), en general y por tipo de mercado
+    mer = salida["mercados"]
+    pred = lambda k, f: (mer[k]["real"] + mer[k]["pendiente"] * (f - mer[k]["frec_media"])) if k in mer else None
+    res, res_t = defaultdict(list), defaultdict(list)
+    for k, ctx, f, y in con_ctx:
+        v = pred(k, f)
+        if v is None:
+            continue
+        t = f"jugador:{k.split(':')[1]}" if k.startswith("jugador:") else tipo_de(k.split("|")[0])
+        res[ctx].append(y - v)
+        res_t[f"{t}|{ctx}"].append(y - v)
+    resumen = lambda l: {"n": len(l), "residuo": round(sum(l) / len(l), 4)}
+    salida["contexto"] = {c: resumen(l) for c, l in res.items() if len(l) >= 50}
+    salida["contexto_tipo"] = {c: resumen(l) for c, l in res_t.items() if len(l) >= 50}
     SALIDA.write_text(json.dumps(salida, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     g = salida["global"]
     print(f"Calibración: {g['n']} casos en {len(partidos)} partidos · dice {g['frec_media']:.0%} → "
           f"pasa {g['real']:.0%} (pendiente {g['pendiente']})")
+    for c, v in sorted(salida["contexto"].items()):
+        print(f"  contexto {c:16} n={v['n']:5}  {v['residuo']:+.1%} respecto a lo previsto")
     if "-v" in sys.argv:
         for k, v in sorted(salida["mercados"].items(), key=lambda x: x[1]["real"] - x[1]["frec_media"]):
             print(f"  {k:45} n={v['n']:5} dice {v['frec_media']:.0%} pasa {v['real']:.0%} b={v['pendiente']}")
