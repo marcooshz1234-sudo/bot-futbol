@@ -1,7 +1,7 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 15:51_

@@ -1,10 +1,10 @@
 # SV Elversberg – FSV Mainz 05
 **Bundesliga** · Regular Season - 8 · 30/10/2026 20:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **3.20**  ·  X **3.75**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.25**  ·  X2 **1.36**
@@ -12,9 +12,10 @@ _Actualizadas: 25/10 16:16_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.62**
-    - 3,5: más **2.20** · menos **1.67**
-    - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -201,11 +202,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 21% | 35% | 28% | 2.62 | -26% |
 | Ambos marcan: Sí | 79% | 65% | 72% | 1.44 | +3% |
 | Goles más/menos: Más de 2.5 | 81% | 64% | 72% | 1.50 | +9% |
-| Goles más/menos: Más de 3.5 | 63% | 43% | 53% | 2.20 | +17% |
-| Goles más/menos: Más de 4.5 | 44% | 24% | 34% | 4.00 | +36% |
+| Goles más/menos: Más de 3.5 | 63% | 45% | 54% | 2.10 | +14% |
+| Goles más/menos: Más de 4.5 | 44% | 25% | 35% | 3.75 | +31% |
 | Goles más/menos: Menos de 2.5 | 19% | 36% | 28% | 2.62 | -28% |
-| Goles más/menos: Menos de 3.5 | 37% | 57% | 47% | 1.67 | -22% |
-| Goles más/menos: Menos de 4.5 | 56% | 76% | 66% | 1.25 | -18% |
+| Goles más/menos: Menos de 3.5 | 37% | 55% | 46% | 1.73 | -21% |
+| Goles más/menos: Menos de 4.5 | 56% | 75% | 65% | 1.28 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 75% | 80% | 1.25 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 56% | 42% | 49% | 2.20 | +9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 25% | 20% | 3.75 | -25% |

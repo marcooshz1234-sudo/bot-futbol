@@ -1,7 +1,7 @@
 # FC Andorra – Burgos
 **Segunda División** · Regular Season - 11 · 26/10/2026 20:30 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 15:51_

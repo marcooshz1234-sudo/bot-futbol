@@ -1,10 +1,10 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:17_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.95**
@@ -12,7 +12,7 @@ _Actualizadas: 25/10 16:17_
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.38** · menos **1.57**
+    - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -200,10 +200,10 @@ _Goles esperados: local 1,96 · visitante 1,51 · córners esperados 9,4._
 | Ambos marcan: No | 33% | 39% | 36% | 2.38 | -14% |
 | Ambos marcan: Sí | 67% | 61% | 64% | 1.53 | -2% |
 | Goles más/menos: Más de 2.5 | 67% | 60% | 64% | 1.57 | +0% |
-| Goles más/menos: Más de 3.5 | 46% | 40% | 43% | 2.38 | +2% |
+| Goles más/menos: Más de 3.5 | 46% | 38% | 42% | 2.50 | +4% |
 | Goles más/menos: Más de 4.5 | 27% | 22% | 24% | 4.33 | +6% |
 | Goles más/menos: Menos de 2.5 | 33% | 40% | 36% | 2.38 | -14% |
-| Goles más/menos: Menos de 3.5 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Menos de 3.5 | 54% | 62% | 58% | 1.53 | -11% |
 | Goles más/menos: Menos de 4.5 | 73% | 78% | 76% | 1.22 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |

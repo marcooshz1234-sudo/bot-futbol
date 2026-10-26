@@ -1,10 +1,10 @@
 # AC Milan – Inter
 **Serie A** · Regular Season - 10 · 31/10/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 19:40_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **2.75**  ·  X **3.40**  ·  2 **2.40**
 

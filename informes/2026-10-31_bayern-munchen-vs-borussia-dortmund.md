@@ -1,10 +1,10 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **1.33**  ·  X **5.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -12,11 +12,11 @@ _Actualizadas: 25/10 16:16_
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
     - 2,5: más **1.22** · menos **4.33**
-    - 3,5: más **1.57** · menos **2.38**
+    - 3,5: más **1.62** · menos **2.30**
     - 4,5: más **2.30** · menos **1.62**
     - 5,5: más **3.75** · menos **1.28**
-    - 6,5: más **6.00** · menos **1.12**
-    - 7,5: más **11.00** · menos **1.05**
+    - 6,5: más **6.50** · menos **1.11**
+    - 7,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
@@ -207,11 +207,11 @@ _Goles esperados: local 2,14 · visitante 0,85 · córners esperados 10,5._
 | Ambos marcan: No | 50% | 34% | 42% | 2.75 | +15% |
 | Ambos marcan: Sí | 50% | 66% | 58% | 1.40 | -18% |
 | Goles más/menos: Más de 2.5 | 57% | 78% | 68% | 1.22 | -17% |
-| Goles más/menos: Más de 3.5 | 35% | 60% | 48% | 1.57 | -25% |
+| Goles más/menos: Más de 3.5 | 35% | 59% | 47% | 1.62 | -24% |
 | Goles más/menos: Más de 4.5 | 18% | 41% | 30% | 2.30 | -31% |
 | Goles más/menos: Más de 5.5 | 8% | 25% | 17% | 3.75 | -37% |
 | Goles más/menos: Menos de 2.5 ✅ | 43% | 22% | 32% | 4.33 | +40% |
-| Goles más/menos: Menos de 3.5 | 65% | 40% | 52% | 2.38 | +25% |
+| Goles más/menos: Menos de 3.5 | 65% | 41% | 53% | 2.30 | +22% |
 | Goles más/menos: Menos de 4.5 | 82% | 59% | 70% | 1.62 | +14% |
 | Goles más/menos: Menos de 5.5 | 92% | 75% | 83% | 1.28 | +6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 56% | 46% | 1.67 | -23% |

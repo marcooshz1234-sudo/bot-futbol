@@ -1,61 +1,64 @@
 # Racing Santander – Real Madrid
 **LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:17_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **9.00**  ·  X **6.25**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.12**  ·  X2 **1.07**
-- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.06** · menos **10.00**
-    - 2,5: más **1.22** · menos **4.33**
-    - 3,5: más **1.62** · menos **2.30**
-    - 4,5: más **2.30** · menos **1.62**
-    - 5,5: más **3.75** · menos **1.28**
-    - 6,5: más **6.50** · menos **1.11**
-    - 7,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.05** · menos **11.00**
+    - 2,5: más **1.20** · menos **4.50**
+    - 3,5: más **1.50** · menos **2.62**
+    - 4,5: más **2.10** · menos **1.73**
+    - 5,5: más **3.40** · menos **1.33**
+    - 6,5: más **5.50** · menos **1.14**
+    - 7,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
-    - 5,5: más **10.00** · menos **1.06**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **7.00**  ·  X **3.20**  ·  2 **1.62**
+- **1X2 descanso:** 1 **6.50**  ·  X **3.40**  ·  2 **1.57**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
-- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
-- **To Win Either Half:** 1 **3.50**  ·  2 **1.14**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **1.57**
-- **Win Both Halves:** 1 **29.00**  ·  2 **2.50**
-- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **2.05**  ·  Home/No **21.00**  ·  Draw/No **34.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **5.00**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
+- **To Win Either Half:** 1 **3.50**  ·  2 **1.12**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **1.50**
+- **Win Both Halves:** 1 **29.00**  ·  2 **2.38**
+- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **1.95**  ·  Home/No **23.00**  ·  Draw/No **34.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.50**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **6.00**
 - **Home Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 6,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
-- **Away Player Shots On Target Total:** Pablo Ramon **51.00**  ·  Yan Diomande **8.50**  ·  Pablo Garcia **41.00**  ·  Aaron Martin **126.00**  ·  Andres Martin **26.00**  ·  Carlos Espi **3.75**  ·  Juan Carlos Arana **13.00**  ·  Alvaro Mantilla **101.00**  ·  Inigo Vicente **81.00**  ·  Jorge Salinas **17.00**  ·  Maguette Gueye **17.00**  ·  Manu Hernando **41.00**  ·  Inigo Sainz-Maza **34.00**  ·  Ibrahima Konate **10.00**  ·  Aurelien Tchouameni **17.00**  ·  Antonio Rudiger **9.50**  ·  Arda Guler **29.00**  ·  Giorgi Guliashvili **17.00**  ·  Bernardo Silva **41.00**  ·  Thiago Pitarch **34.00**  ·  Pedro Felipe dos Santos **23.00**  ·  Gustavo Puerta **34.00**  ·  Jeanuel Belocian **23.00**  ·  Kylian Mbappe **15.00**  ·  Ivan Martin **67.00**  ·  Andre Almeida **26.00**  ·  Facundo Gonzalez **17.00**  ·  Sergio Canales **29.00**  ·  Brahim Diaz **29.00**  ·  Iker Luque **23.00**  ·  Alvaro Carreras **51.00**  ·  Marc Cucurella **19.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **34.00**  ·  Jude Bellingham **11.00**  ·  Dean Huijsen **8.50**  ·  Yassir Zabiri **12.00**  ·  Asier Villalibre **10.00**  ·  Diego Diaz **23.00**  ·  Matteo Prati **67.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.50**  ·  Endrick **13.00**  ·  Denzel Dumfries **11.00**
-- **Anytime Goal Scorer:** Pablo Ramon **17.00**  ·  Yan Diomande **2.30**  ·  Pablo Garcia **5.00**  ·  Aaron Martin **13.00**  ·  Andres Martin **2.88**  ·  Carlos Espi **1.67**  ·  Juan Carlos Arana **3.40**  ·  Alvaro Mantilla **17.00**  ·  Inigo Vicente **6.00**  ·  Jorge Salinas **11.00**  ·  Maguette Gueye **9.00**  ·  Manu Hernando **17.00**  ·  Inigo Sainz-Maza **7.50**  ·  Ibrahima Konate **7.00**  ·  Aurelien Tchouameni **5.50**  ·  Antonio Rudiger **7.00**  ·  Arda Guler **3.40**  ·  Giorgi Guliashvili **3.60**  ·  Bernardo Silva **4.50**  ·  Thiago Pitarch **3.60**  ·  Pedro Felipe dos Santos **13.00**  ·  Gustavo Puerta **9.00**  ·  Jeanuel Belocian **13.00**  ·  Kylian Mbappe **1.36**  ·  Ivan Martin **11.00**  ·  Andre Almeida **5.50**  ·  Facundo Gonzalez **13.00**  ·  Sergio Canales **3.10**  ·  Brahim Diaz **3.40**  ·  Iker Luque **5.00**  ·  Alvaro Carreras **6.00**  ·  Marc Cucurella **7.00**  ·  Trent Alexander-Arnold **6.00**  ·  Federico Valverde **4.00**  ·  Jude Bellingham **2.88**  ·  Dean Huijsen **6.00**  ·  Yassir Zabiri **3.10**  ·  Asier Villalibre **3.10**  ·  Diego Diaz **5.00**  ·  Matteo Prati **7.50**  ·  Eduardo Camavinga **5.50**  ·  Eder Militao **6.00**  ·  Endrick **2.05**  ·  Denzel Dumfries **4.50**
-- **Player to Score or Assist:** Pablo Ramon **11.00**  ·  Yan Diomande **1.53**  ·  Pablo Garcia **3.60**  ·  Aaron Martin **3.75**  ·  Andres Martin **2.10**  ·  Carlos Espi **1.40**  ·  Juan Carlos Arana **2.88**  ·  Alvaro Mantilla **10.00**  ·  Inigo Vicente **2.88**  ·  Jorge Salinas **4.75**  ·  Maguette Gueye **6.00**  ·  Manu Hernando **13.00**  ·  Inigo Sainz-Maza **5.50**  ·  Ibrahima Konate **4.00**  ·  Aurelien Tchouameni **3.25**  ·  Antonio Rudiger **4.33**  ·  Arda Guler **1.57**  ·  Giorgi Guliashvili **2.62**  ·  Bernardo Silva **2.40**  ·  Thiago Pitarch **2.10**  ·  Gustavo Puerta **5.00**  ·  Jeanuel Belocian **9.50**  ·  Kylian Mbappe **1.18**  ·  Ivan Martin **5.50**  ·  Andre Almeida **3.50**  ·  Facundo Gonzalez **10.00**  ·  Sergio Canales **2.10**  ·  Brahim Diaz **1.83**  ·  Iker Luque **3.10**  ·  Alvaro Carreras **3.40**  ·  Marc Cucurella **3.25**  ·  Trent Alexander-Arnold **2.10**  ·  Federico Valverde **2.20**  ·  Jude Bellingham **1.80**  ·  Dean Huijsen **3.75**  ·  Yassir Zabiri **2.50**  ·  Asier Villalibre **2.50**  ·  Diego Diaz **3.10**  ·  Matteo Prati **5.50**  ·  Eduardo Camavinga **3.40**  ·  Eder Militao **4.00**  ·  Endrick **1.44**  ·  Denzel Dumfries **2.20**  ·  Pedro Felipe **7.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
+- **Home Player Shots On Target Total:** Jeanuel Belocian - 1 **6.00**  ·  Facundo Gonzalez - 1 **6.00**  ·  Aaron Martin - 1 **5.00**  ·  Pablo Garcia - 1 **1.91**  ·  Pablo Garcia - 2 **6.00**  ·  Pablo Garcia - 3 **21.00**  ·  Andre Almeida - 1 **2.25**  ·  Andre Almeida - 2 **9.00**  ·  Juan Carlos Arana - 1 **1.33**  ·  Andres Martin - 1 **1.33**  ·  Asier Villalibre - 1 **1.33**  ·  Sergio Canales - 1 **1.57**  ·  Yassir Zabiri - 1 **1.40**  ·  Giorgi Guliashvili - 1 **1.62**  ·  Diego Diaz - 1 **2.00**  ·  Inigo Vicente - 1 **2.25**  ·  Gustavo Puerta - 1 **2.75**  ·  Maguette Gueye - 1 **3.00**  ·  Inigo Sainz-Maza - 1 **3.00**  ·  Jorge Salinas - 1 **3.75**  ·  Alvaro Mantilla - 1 **5.50**  ·  Manu Hernando - 1 **5.50**  ·  Pablo Ramon - 1 **6.00**  ·  Juan Carlos Arana - 2 **2.62**  ·  Andres Martin - 2 **2.62**  ·  Asier Villalibre - 2 **2.62**  ·  Sergio Canales - 2 **3.75**  ·  Yassir Zabiri - 2 **3.00**  ·  Giorgi Guliashvili - 2 **4.00**  ·  Diego Diaz - 2 **6.50**  ·  Inigo Vicente - 2 **9.00**  ·  Gustavo Puerta - 2 **13.00**  ·  Maguette Gueye - 2 **13.00**  ·  Inigo Sainz-Maza - 2 **13.00**  ·  Jorge Salinas - 2 **19.00**  ·  Juan Carlos Arana - 3 **6.50**  ·  Andres Martin - 3 **6.50**  ·  Asier Villalibre - 3 **6.50**  ·  Sergio Canales - 3 **11.00**  ·  Yassir Zabiri - 3 **8.00**  ·  Giorgi Guliashvili - 3 **13.00**  ·  Diego Diaz - 3 **21.00**  ·  Juan Carlos Arana - 4 **19.00**  ·  Andres Martin - 4 **19.00**  ·  Asier Villalibre - 4 **19.00**  ·  Yassir Zabiri - 4 **21.00**  ·  Ivan Martin - 1 **3.25**  ·  Ivan Martin - 2 **15.00**  ·  Iker Luque - 1 **2.00**  ·  Matteo Prati - 1 **2.62**  ·  Iker Luque - 2 **6.50**  ·  Matteo Prati - 2 **11.00**  ·  Iker Luque - 3 **21.00**  ·  Pedro Felipe - 1 **6.00**
+- **Away Player Shots On Target Total:** Pablo Ramon **51.00**  ·  Yan Diomande **8.00**  ·  Pablo Garcia **41.00**  ·  Aaron Martin **101.00**  ·  Andres Martin **26.00**  ·  Carlos Espi **3.75**  ·  Juan Carlos Arana **12.00**  ·  Alvaro Mantilla **101.00**  ·  Inigo Vicente **67.00**  ·  Jorge Salinas **15.00**  ·  Maguette Gueye **15.00**  ·  Manu Hernando **34.00**  ·  Inigo Sainz-Maza **34.00**  ·  Ibrahima Konate **10.00**  ·  Aurelien Tchouameni **15.00**  ·  Antonio Rudiger **9.50**  ·  Arda Guler **29.00**  ·  Giorgi Guliashvili **19.00**  ·  Bernardo Silva **41.00**  ·  Thiago Pitarch **29.00**  ·  Pedro Felipe dos Santos **21.00**  ·  Gustavo Puerta **29.00**  ·  Jeanuel Belocian **21.00**  ·  Kylian Mbappe **15.00**  ·  Ivan Martin **67.00**  ·  Andre Almeida **26.00**  ·  Facundo Gonzalez **17.00**  ·  Sergio Canales **34.00**  ·  Brahim Diaz **29.00**  ·  Iker Luque **23.00**  ·  Alvaro Carreras **51.00**  ·  Marc Cucurella **19.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **34.00**  ·  Jude Bellingham **11.00**  ·  Dean Huijsen **8.00**  ·  Yassir Zabiri **11.00**  ·  Asier Villalibre **9.00**  ·  Diego Diaz **23.00**  ·  Matteo Prati **51.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.00**  ·  Endrick **12.00**  ·  Denzel Dumfries **11.00**
+- **Home Player Shots:** Jeanuel Belocian - 1 **2.25**  ·  Jeanuel Belocian - 2 **8.00**  ·  Jeanuel Belocian - 3 **21.00**  ·  Facundo Gonzalez - 1 **2.25**  ·  Facundo Gonzalez - 2 **8.00**  ·  Facundo Gonzalez - 3 **21.00**  ·  Aaron Martin - 1 **1.83**  ·  Aaron Martin - 2 **5.00**  ·  Aaron Martin - 3 **15.00**  ·  Pablo Garcia - 1 **1.14**  ·  Pablo Garcia - 2 **1.67**  ·  Pablo Garcia - 3 **3.00**  ·  Pablo Garcia - 4 **6.00**  ·  Pablo Garcia - 5 **13.00**  ·  Pablo Garcia - 6 **21.00**  ·  Andre Almeida - 1 **1.25**  ·  Andre Almeida - 2 **2.10**  ·  Andre Almeida - 3 **4.33**  ·  Andre Almeida - 4 **10.00**  ·  Andre Almeida - 5 **21.00**  ·  Juan Carlos Arana - 1 **1.01**  ·  Andres Martin - 1 **1.04**  ·  Asier Villalibre - 1 **1.02**  ·  Sergio Canales - 1 **1.06**  ·  Yassir Zabiri - 1 **1.04**  ·  Giorgi Guliashvili - 1 **1.11**  ·  Diego Diaz - 1 **1.18**  ·  Inigo Vicente - 1 **1.22**  ·  Gustavo Puerta - 1 **1.40**  ·  Maguette Gueye - 1 **1.36**  ·  Inigo Sainz-Maza - 1 **1.44**  ·  Jorge Salinas - 1 **1.80**  ·  Alvaro Mantilla - 1 **2.20**  ·  Manu Hernando - 1 **2.20**  ·  Pablo Ramon - 1 **2.50**  ·  Juan Carlos Arana - 2 **1.11**  ·  Andres Martin - 2 **1.20**  ·  Asier Villalibre - 2 **1.12**  ·  Sergio Canales - 2 **1.33**  ·  Yassir Zabiri - 2 **1.22**  ·  Giorgi Guliashvili - 2 **1.53**  ·  Diego Diaz - 2 **1.80**  ·  Inigo Vicente - 2 **1.91**  ·  Gustavo Puerta - 2 **2.62**  ·  Maguette Gueye - 2 **2.50**  ·  Inigo Sainz-Maza - 2 **3.00**  ·  Jorge Salinas - 2 **4.33**  ·  Alvaro Mantilla - 2 **6.50**  ·  Manu Hernando - 2 **6.50**  ·  Pablo Ramon - 2 **9.00**  ·  Juan Carlos Arana - 3 **1.36**  ·  Andres Martin - 3 **1.62**  ·  Asier Villalibre - 3 **1.40**  ·  Sergio Canales - 3 **1.91**  ·  Yassir Zabiri - 3 **1.67**  ·  Giorgi Guliashvili - 3 **2.50**  ·  Diego Diaz - 3 **3.25**  ·  Inigo Vicente - 3 **3.75**  ·  Gustavo Puerta - 3 **6.00**  ·  Maguette Gueye - 3 **6.00**  ·  Inigo Sainz-Maza - 3 **7.00**  ·  Jorge Salinas - 3 **13.00**  ·  Alvaro Mantilla - 3 **21.00**  ·  Manu Hernando - 3 **21.00**  ·  Pablo Ramon - 3 **21.00**  ·  Juan Carlos Arana - 4 **1.83**  ·  Andres Martin - 4 **2.50**  ·  Asier Villalibre - 4 **1.91**  ·  Sergio Canales - 4 **3.40**  ·  Yassir Zabiri - 4 **2.62**  ·  Giorgi Guliashvili - 4 **4.50**  ·  Diego Diaz - 4 **7.00**  ·  Inigo Vicente - 4 **9.00**  ·  Gustavo Puerta - 4 **15.00**  ·  Maguette Gueye - 4 **15.00**  ·  Inigo Sainz-Maza - 4 **19.00**  ·  Juan Carlos Arana - 5 **2.75**  ·  Andres Martin - 5 **4.33**  ·  Asier Villalibre - 5 **3.25**  ·  Sergio Canales - 5 **6.50**  ·  Yassir Zabiri - 5 **4.50**  ·  Giorgi Guliashvili - 5 **10.00**  ·  Diego Diaz - 5 **15.00**  ·  Inigo Vicente - 5 **19.00**  ·  Juan Carlos Arana - 6 **4.50**  ·  Andres Martin - 6 **8.00**  ·  Asier Villalibre - 6 **5.50**  ·  Sergio Canales - 6 **13.00**  ·  Yassir Zabiri - 6 **9.00**  ·  Giorgi Guliashvili - 6 **21.00**  ·  Juan Carlos Arana - 7 **9.00**  ·  Andres Martin - 7 **15.00**  ·  Asier Villalibre - 7 **10.00**  ·  Sergio Canales - 7 **21.00**  ·  Yassir Zabiri - 7 **17.00**  ·  Juan Carlos Arana - 8 **15.00**  ·  Andres Martin - 8 **21.00**  ·  Asier Villalibre - 8 **17.00**  ·  Ivan Martin - 1 **1.80**  ·  Ivan Martin - 2 **4.33**  ·  Ivan Martin - 3 **13.00**  ·  Juan Carlos Arana - 9 **21.00**  ·  Iker Luque - 1 **1.18**  ·  Matteo Prati - 1 **1.28**  ·  Iker Luque - 2 **1.80**  ·  Matteo Prati - 2 **2.20**  ·  Iker Luque - 3 **3.25**  ·  Matteo Prati - 3 **4.50**  ·  Iker Luque - 4 **7.00**  ·  Matteo Prati - 4 **11.00**  ·  Iker Luque - 5 **15.00**  ·  Matteo Prati - 5 **21.00**  ·  Pedro Felipe - 1 **2.25**  ·  Pedro Felipe - 2 **8.00**  ·  Pedro Felipe - 3 **21.00**
+- **Away Player Shots:** Jude Bellingham - 1 **1.04**  ·  Yan Diomande - 1 **1.02**  ·  Arda Guler - 1 **1.06**  ·  Brahim Diaz - 1 **1.06**  ·  Denzel Dumfries - 1 **1.08**  ·  Thiago Pitarch - 1 **1.08**  ·  Aurelien Tchouameni - 1 **1.14**  ·  Federico Valverde - 1 **1.11**  ·  Bernardo Silva - 1 **1.14**  ·  Trent Alexander-Arnold - 1 **1.33**  ·  Eduardo Camavinga - 1 **1.25**  ·  Dean Huijsen - 1 **1.25**  ·  Alvaro Carreras - 1 **1.33**  ·  Antonio Rudiger - 1 **1.40**  ·  Eder Militao - 1 **1.33**  ·  Marc Cucurella - 1 **1.40**  ·  Ibrahima Konate - 1 **1.40**  ·  Endrick - 2 **1.05**  ·  Jude Bellingham - 2 **1.22**  ·  Yan Diomande - 2 **1.12**  ·  Arda Guler - 2 **1.30**  ·  Brahim Diaz - 2 **1.30**  ·  Denzel Dumfries - 2 **1.40**  ·  Thiago Pitarch - 2 **1.40**  ·  Aurelien Tchouameni - 2 **1.67**  ·  Federico Valverde - 2 **1.53**  ·  Bernardo Silva - 2 **1.62**  ·  Trent Alexander-Arnold - 2 **2.38**  ·  Eduardo Camavinga - 2 **2.10**  ·  Dean Huijsen - 2 **2.00**  ·  Alvaro Carreras - 2 **2.38**  ·  Antonio Rudiger - 2 **2.62**  ·  Eder Militao - 2 **2.38**  ·  Marc Cucurella - 2 **2.62**  ·  Ibrahima Konate - 2 **2.62**  ·  Kylian Mbappe - 3 **1.02**  ·  Carlos Espi - 3 **1.07**  ·  Endrick - 3 **1.18**  ·  Jude Bellingham - 3 **1.67**  ·  Yan Diomande - 3 **1.40**  ·  Arda Guler - 3 **1.91**  ·  Brahim Diaz - 3 **1.91**  ·  Denzel Dumfries - 3 **2.20**  ·  Thiago Pitarch - 3 **2.10**  ·  Aurelien Tchouameni - 3 **2.75**  ·  Federico Valverde - 3 **2.50**  ·  Bernardo Silva - 3 **2.75**  ·  Trent Alexander-Arnold - 3 **5.50**  ·  Eduardo Camavinga - 3 **4.33**  ·  Dean Huijsen - 3 **4.00**  ·  Alvaro Carreras - 3 **5.50**  ·  Antonio Rudiger - 3 **6.00**  ·  Eder Militao - 3 **5.50**  ·  Marc Cucurella - 3 **6.00**  ·  Ibrahima Konate - 3 **6.00**  ·  Kylian Mbappe - 4 **1.06**  ·  Carlos Espi - 4 **1.22**  ·  Endrick - 4 **1.50**  ·  Jude Bellingham - 4 **2.62**  ·  Yan Diomande - 4 **1.91**  ·  Arda Guler - 4 **3.25**  ·  Brahim Diaz - 4 **3.25**  ·  Denzel Dumfries - 4 **3.75**  ·  Thiago Pitarch - 4 **3.75**  ·  Aurelien Tchouameni - 4 **6.00**  ·  Federico Valverde - 4 **4.50**  ·  Bernardo Silva - 4 **5.50**  ·  Trent Alexander-Arnold - 4 **13.00**  ·  Eduardo Camavinga - 4 **10.00**  ·  Dean Huijsen - 4 **10.00**  ·  Alvaro Carreras - 4 **13.00**  ·  Antonio Rudiger - 4 **15.00**  ·  Eder Militao - 4 **13.00**  ·  Marc Cucurella - 4 **15.00**  ·  Ibrahima Konate - 4 **15.00**  ·  Kylian Mbappe - 5 **1.17**  ·  Carlos Espi - 5 **1.50**  ·  Endrick - 5 **2.00**  ·  Jude Bellingham - 5 **4.50**  ·  Yan Diomande - 5 **3.00**  ·  Arda Guler - 5 **6.00**  ·  Brahim Diaz - 5 **6.00**  ·  Denzel Dumfries - 5 **8.00**  ·  Thiago Pitarch - 5 **7.00**  ·  Aurelien Tchouameni - 5 **13.00**  ·  Federico Valverde - 5 **10.00**  ·  Bernardo Silva - 5 **13.00**  ·  Trent Alexander-Arnold - 5 **21.00**  ·  Eduardo Camavinga - 5 **21.00**  ·  Dean Huijsen - 5 **21.00**  ·  Kylian Mbappe - 6 **1.36**  ·  Carlos Espi - 6 **1.91**  ·  Endrick - 6 **3.00**  ·  Jude Bellingham - 6 **9.00**  ·  Yan Diomande - 6 **5.00**  ·  Arda Guler - 6 **13.00**  ·  Brahim Diaz - 6 **13.00**  ·  Denzel Dumfries - 6 **15.00**  ·  Thiago Pitarch - 6 **15.00**  ·  Aurelien Tchouameni - 6 **21.00**  ·  Federico Valverde - 6 **21.00**  ·  Bernardo Silva - 6 **21.00**  ·  Kylian Mbappe - 7 **1.67**  ·  Carlos Espi - 7 **2.75**  ·  Endrick - 7 **5.00**  ·  Jude Bellingham - 7 **17.00**  ·  Yan Diomande - 7 **10.00**  ·  Arda Guler - 7 **21.00**  ·  Brahim Diaz - 7 **21.00**  ·  Thiago Pitarch - 7 **21.00**  ·  Kylian Mbappe - 8 **2.20**  ·  Carlos Espi - 8 **4.00**  ·  Endrick - 8 **8.00**  ·  Yan Diomande - 8 **17.00**  ·  Kylian Mbappe - 9 **3.00**  ·  Carlos Espi - 9 **6.50**  ·  Endrick - 9 **15.00**  ·  Kylian Mbappe - 10 **4.33**  ·  Carlos Espi - 10 **11.00**  ·  Endrick - 10 **21.00**  ·  Kylian Mbappe - 11 **7.00**  ·  Carlos Espi - 11 **19.00**  ·  Kylian Mbappe - 12 **11.00**  ·  Kylian Mbappe - 13 **17.00**  ·  Kylian Mbappe - 14 **21.00**  ·  Carlos Espi - 2 **1.01**  ·  Alvaro Carreras - 5 **21.00**  ·  Eder Militao - 5 **21.00**
+- **Anytime Goal Scorer:** Pablo Ramon **17.00**  ·  Yan Diomande **2.20**  ·  Pablo Garcia **4.75**  ·  Aaron Martin **13.00**  ·  Andres Martin **3.00**  ·  Carlos Espi **1.62**  ·  Juan Carlos Arana **3.20**  ·  Alvaro Mantilla **17.00**  ·  Inigo Vicente **6.00**  ·  Jorge Salinas **10.00**  ·  Maguette Gueye **8.50**  ·  Manu Hernando **17.00**  ·  Inigo Sainz-Maza **7.00**  ·  Ibrahima Konate **6.50**  ·  Aurelien Tchouameni **5.50**  ·  Antonio Rudiger **6.50**  ·  Arda Guler **3.20**  ·  Giorgi Guliashvili **4.00**  ·  Bernardo Silva **4.33**  ·  Thiago Pitarch **3.50**  ·  Pedro Felipe dos Santos **13.00**  ·  Gustavo Puerta **8.50**  ·  Jeanuel Belocian **13.00**  ·  Kylian Mbappe **1.33**  ·  Ivan Martin **10.00**  ·  Andre Almeida **5.50**  ·  Facundo Gonzalez **13.00**  ·  Sergio Canales **4.00**  ·  Brahim Diaz **3.20**  ·  Iker Luque **4.75**  ·  Alvaro Carreras **6.00**  ·  Marc Cucurella **6.50**  ·  Trent Alexander-Arnold **6.00**  ·  Federico Valverde **4.00**  ·  Jude Bellingham **2.75**  ·  Dean Huijsen **6.00**  ·  Yassir Zabiri **2.75**  ·  Asier Villalibre **2.75**  ·  Diego Diaz **4.75**  ·  Matteo Prati **7.00**  ·  Eduardo Camavinga **5.50**  ·  Eder Militao **6.00**  ·  Endrick **1.95**  ·  Denzel Dumfries **4.33**
+- **Player to Score or Assist:** Pablo Ramon **11.00**  ·  Yan Diomande **1.50**  ·  Pablo Garcia **3.40**  ·  Aaron Martin **3.60**  ·  Andres Martin **2.10**  ·  Carlos Espi **1.36**  ·  Juan Carlos Arana **2.75**  ·  Alvaro Mantilla **10.00**  ·  Inigo Vicente **2.75**  ·  Jorge Salinas **4.50**  ·  Maguette Gueye **5.50**  ·  Manu Hernando **12.00**  ·  Inigo Sainz-Maza **5.50**  ·  Ibrahima Konate **3.75**  ·  Aurelien Tchouameni **3.20**  ·  Antonio Rudiger **4.00**  ·  Arda Guler **1.53**  ·  Giorgi Guliashvili **2.75**  ·  Bernardo Silva **2.30**  ·  Thiago Pitarch **2.00**  ·  Gustavo Puerta **5.00**  ·  Jeanuel Belocian **9.00**  ·  Kylian Mbappe **1.17**  ·  Ivan Martin **5.00**  ·  Andre Almeida **3.25**  ·  Facundo Gonzalez **9.50**  ·  Sergio Canales **2.30**  ·  Brahim Diaz **1.80**  ·  Iker Luque **3.00**  ·  Alvaro Carreras **3.20**  ·  Marc Cucurella **3.20**  ·  Trent Alexander-Arnold **2.00**  ·  Federico Valverde **2.10**  ·  Jude Bellingham **1.73**  ·  Dean Huijsen **3.50**  ·  Yassir Zabiri **2.25**  ·  Asier Villalibre **2.25**  ·  Diego Diaz **3.00**  ·  Matteo Prati **5.00**  ·  Eduardo Camavinga **3.25**  ·  Eder Militao **3.75**  ·  Endrick **1.40**  ·  Denzel Dumfries **2.10**  ·  Pedro Felipe **7.00**
 
 ## Estadísticas de equipo
 | | Racing Santander (total) | Racing Santander en casa | Real Madrid (total) | Real Madrid fuera |
@@ -198,35 +201,33 @@ _Goles esperados: local 1,08 · visitante 3,39 · córners esperados 11,3._
 | Doble oportunidad: X2 | 92% | 89% | 91% | 1.07 | -3% |
 | Doble oportunidad: 12 | 89% | 85% | 87% | 1.12 | -2% |
 | Doble oportunidad: 1X | 19% | 25% | 22% | 3.75 | -16% |
-| Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
-| Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
-| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 3.5 | 65% | 59% | 62% | 1.62 | +0% |
-| Goles más/menos: Más de 4.5 | 46% | 41% | 44% | 2.30 | +1% |
-| Goles más/menos: Más de 5.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 3.5 | 35% | 41% | 38% | 2.30 | -12% |
-| Goles más/menos: Menos de 4.5 | 54% | 59% | 56% | 1.62 | -9% |
-| Goles más/menos: Menos de 5.5 | 71% | 75% | 73% | 1.28 | -7% |
+| Ambos marcan: No | 36% | 34% | 35% | 2.75 | -4% |
+| Ambos marcan: Sí | 64% | 66% | 65% | 1.40 | -9% |
+| Goles más/menos: Más de 2.5 | 82% | 79% | 81% | 1.20 | -3% |
+| Goles más/menos: Más de 3.5 | 65% | 64% | 64% | 1.50 | -3% |
+| Goles más/menos: Más de 4.5 | 46% | 45% | 46% | 2.10 | -4% |
+| Goles más/menos: Más de 5.5 | 29% | 28% | 29% | 3.40 | -3% |
+| Goles más/menos: Menos de 2.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles más/menos: Menos de 3.5 | 35% | 36% | 36% | 2.62 | -7% |
+| Goles más/menos: Menos de 4.5 | 54% | 55% | 54% | 1.73 | -6% |
+| Goles más/menos: Menos de 5.5 | 71% | 72% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 31% | 29% | 30% | 3.25 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles del local: Más de 1.5 | 29% | 31% | 30% | 3.00 | -9% |
-| Goles del local: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles del local: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles del visitante: Más de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del visitante: Más de 2.5 | 66% | 58% | 62% | 1.62 | -0% |
-| Goles del visitante: Más de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles del visitante: Más de 4.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles del visitante: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles del visitante: Menos de 2.5 | 34% | 42% | 38% | 2.20 | -16% |
-| Goles del visitante: Menos de 3.5 | 56% | 62% | 59% | 1.50 | -11% |
-| Goles del visitante: Menos de 4.5 | 75% | 79% | 77% | 1.18 | -9% |
+| Goles del local: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles del local: Más de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
+| Goles del local: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles del local: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
+| Goles del visitante: Más de 2.5 | 66% | 62% | 64% | 1.50 | -4% |
+| Goles del visitante: Más de 3.5 | 44% | 41% | 42% | 2.25 | -4% |
+| Goles del visitante: Más de 4.5 | 25% | 23% | 24% | 4.00 | -3% |
+| Goles del visitante: Menos de 2.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles del visitante: Menos de 3.5 | 56% | 59% | 58% | 1.57 | -10% |
+| Goles del visitante: Menos de 4.5 | 75% | 77% | 76% | 1.22 | -8% |
 | Córners más/menos: Más de 10.5 | 51% | 50% | 51% | 1.83 | -8% |
 | Córners más/menos: Menos de 10.5 | 49% | 50% | 49% | 1.83 | -9% |
-| 1X2 descanso: 2 | 62% | 58% | 60% | 1.62 | -3% |
-| 1X2 descanso: X | 26% | 29% | 28% | 3.20 | -11% |
+| 1X2 descanso: 2 | 62% | 59% | 60% | 1.57 | -5% |
+| 1X2 descanso: X | 26% | 27% | 27% | 3.40 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

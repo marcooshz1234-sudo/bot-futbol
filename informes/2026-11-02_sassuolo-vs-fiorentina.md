@@ -1,7 +1,7 @@
 # Sassuolo – Fiorentina
 **Serie A** · Regular Season - 10 · 02/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_

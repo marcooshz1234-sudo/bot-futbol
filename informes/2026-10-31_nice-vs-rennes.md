@@ -1,10 +1,10 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **2.62**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**
@@ -31,7 +31,7 @@ _Actualizadas: 25/10 16:16_
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.50**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -223,8 +223,8 @@ _Goles esperados: local 1,35 · visitante 1,68 · córners esperados 10,2._
 | Goles del visitante: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -11% |
 | Goles del visitante: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
 | Goles del visitante: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
-| Córners más/menos: Más de 10.5 | 43% | 49% | 46% | 1.91 | -13% |
-| Córners más/menos: Menos de 10.5 | 57% | 51% | 54% | 1.80 | -2% |
+| Córners más/menos: Más de 10.5 | 43% | 48% | 45% | 1.98 | -10% |
+| Córners más/menos: Menos de 10.5 | 57% | 52% | 55% | 1.82 | -0% |
 | 1X2 descanso: 2 | 35% | 32% | 34% | 2.88 | -3% |
 | 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: 1 | 26% | 30% | 28% | 3.10 | -13% |

@@ -1,35 +1,35 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:17_
+_Actualizadas: 26/10 19:53_
 
-- **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.15**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.36**
+- **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.30**  ·  2 **2.75**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.30**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.83** · menos **1.83**
@@ -37,14 +37,14 @@ _Actualizadas: 25/10 16:17_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.62**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.00**
-- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **13.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
-- **Away Player Shots On Target Total:** Christos Tzolis **29.00**  ·  Bradley Barcola **34.00**  ·  Viktor Gyokeres **12.00**  ·  Lewis Koumas **19.00**  ·  Konstantinos Tsimikas **101.00**  ·  Piero Hincapie **19.00**  ·  Martin Zubimendi **34.00**  ·  Max Dowman **21.00**  ·  Bruno Guimaraes **26.00**  ·  Gabriel Magalhaes **10.00**  ·  Ronald Araujo **17.00**  ·  Jurrien Timber **19.00**  ·  Eberechi Eze **51.00**  ·  Cristhian Mosquera **17.00**  ·  Alexis Mac Allister **41.00**  ·  Cody Gakpo **19.00**  ·  Dominik Szoboszlai **51.00**  ·  Joe Gomez **29.00**  ·  Noni Madueke **41.00**  ·  Ryan Gravenberch **67.00**  ·  Virgil van Dijk **13.00**  ·  Wataru Endo **34.00**  ·  Ben White **29.00**  ·  Bukayo Saka **34.00**  ·  Declan Rice **29.00**  ·  Kai Havertz **9.50**  ·  Milos Kerkez **101.00**  ·  Riccardo Calafiori **11.00**  ·  Martin Odegaard **101.00**  ·  Ezri Konsa **23.00**  ·  Alexander Isak **11.00**  ·  Mikel Merino **11.00**  ·  Myles Lewis-Skelly **101.00**  ·  Florian Wirtz **41.00**  ·  Jeremie Frimpong **101.00**  ·  Trey Nyoni **29.00**  ·  Victor Munoz **41.00**  ·  Rio Ngumoha **23.00**  ·  Jeremy Jacquet **21.00**
-- **Anytime Goal Scorer:** Christos Tzolis **3.40**  ·  Bradley Barcola **3.75**  ·  Viktor Gyokeres **2.60**  ·  Lewis Koumas **4.75**  ·  Konstantinos Tsimikas **12.00**  ·  Piero Hincapie **12.00**  ·  Martin Zubimendi **9.50**  ·  Max Dowman **4.50**  ·  Bruno Guimaraes **7.00**  ·  Gabriel Magalhaes **7.50**  ·  Ronald Araujo **12.00**  ·  Jurrien Timber **9.50**  ·  Eberechi Eze **4.75**  ·  Theo Julienne **7.00**  ·  Cristhian Mosquera **12.00**  ·  Alexis Mac Allister **7.50**  ·  Cody Gakpo **3.75**  ·  Dominik Szoboszlai **6.00**  ·  Joe Gomez **17.00**  ·  Noni Madueke **4.50**  ·  Ryan Gravenberch **8.00**  ·  Virgil van Dijk **10.00**  ·  Wataru Endo **10.00**  ·  Ben White **9.50**  ·  Bukayo Saka **3.25**  ·  Declan Rice **7.00**  ·  Kai Havertz **3.00**  ·  Milos Kerkez **12.00**  ·  Riccardo Calafiori **9.50**  ·  Martin Odegaard **4.75**  ·  Ezri Konsa **15.00**  ·  Alexander Isak **3.00**  ·  Mikel Merino **4.00**  ·  Myles Lewis-Skelly **10.00**  ·  Florian Wirtz **6.00**  ·  Jeremie Frimpong **9.50**  ·  Trey Nyoni **7.50**  ·  Victor Munoz **4.75**  ·  Rio Ngumoha **4.75**  ·  Jeremy Jacquet **12.00**
-- **Player to Score or Assist:** Christos Tzolis **2.10**  ·  Bradley Barcola **2.50**  ·  Viktor Gyokeres **2.20**  ·  Lewis Koumas **3.00**  ·  Konstantinos Tsimikas **5.50**  ·  Piero Hincapie **6.50**  ·  Martin Zubimendi **4.75**  ·  Max Dowman **2.75**  ·  Bruno Guimaraes **3.75**  ·  Gabriel Magalhaes **6.00**  ·  Ronald Araujo **7.50**  ·  Jurrien Timber **5.50**  ·  Eberechi Eze **2.60**  ·  Theo Julienne **3.10**  ·  Cristhian Mosquera **8.00**  ·  Alexis Mac Allister **4.00**  ·  Cody Gakpo **2.60**  ·  Dominik Szoboszlai **3.10**  ·  Joe Gomez **6.50**  ·  Noni Madueke **2.60**  ·  Ryan Gravenberch **4.75**  ·  Virgil van Dijk **6.00**  ·  Wataru Endo **6.00**  ·  Ben White **6.00**  ·  Bukayo Saka **2.10**  ·  Declan Rice **3.40**  ·  Kai Havertz **2.25**  ·  Milos Kerkez **6.00**  ·  Riccardo Calafiori **5.50**  ·  Martin Odegaard **2.75**  ·  Ezri Konsa **9.00**  ·  Alexander Isak **2.30**  ·  Mikel Merino **2.60**  ·  Myles Lewis-Skelly **5.50**  ·  Florian Wirtz **3.10**  ·  Jeremie Frimpong **4.00**  ·  Trey Nyoni **5.00**  ·  Victor Munoz **3.00**  ·  Rio Ngumoha **3.00**  ·  Jeremy Jacquet **7.50**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.25**
+- **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **13.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Christos Tzolis **34.00**  ·  Bradley Barcola **34.00**  ·  Viktor Gyokeres **12.00**  ·  Lewis Koumas **17.00**  ·  Konstantinos Tsimikas **101.00**  ·  Piero Hincapie **19.00**  ·  Martin Zubimendi **34.00**  ·  Max Dowman **21.00**  ·  Bruno Guimaraes **26.00**  ·  Gabriel Magalhaes **10.00**  ·  Ronald Araujo **17.00**  ·  Jurrien Timber **19.00**  ·  Eberechi Eze **51.00**  ·  Cristhian Mosquera **17.00**  ·  Alexis Mac Allister **41.00**  ·  Cody Gakpo **19.00**  ·  Dominik Szoboszlai **51.00**  ·  Joe Gomez **29.00**  ·  Noni Madueke **41.00**  ·  Ryan Gravenberch **67.00**  ·  Virgil van Dijk **13.00**  ·  Wataru Endo **34.00**  ·  Ben White **29.00**  ·  Bukayo Saka **41.00**  ·  Declan Rice **29.00**  ·  Kai Havertz **9.50**  ·  Milos Kerkez **101.00**  ·  Riccardo Calafiori **11.00**  ·  Martin Odegaard **101.00**  ·  Ezri Konsa **23.00**  ·  Alexander Isak **11.00**  ·  Mikel Merino **11.00**  ·  Myles Lewis-Skelly **101.00**  ·  Florian Wirtz **41.00**  ·  Jeremie Frimpong **101.00**  ·  Trey Nyoni **29.00**  ·  Victor Munoz **41.00**  ·  Rio Ngumoha **23.00**  ·  Jeremy Jacquet **21.00**
+- **Anytime Goal Scorer:** Christos Tzolis **3.60**  ·  Bradley Barcola **3.75**  ·  Viktor Gyokeres **2.60**  ·  Lewis Koumas **4.50**  ·  Konstantinos Tsimikas **12.00**  ·  Piero Hincapie **12.00**  ·  Martin Zubimendi **9.50**  ·  Max Dowman **4.50**  ·  Bruno Guimaraes **7.00**  ·  Gabriel Magalhaes **7.50**  ·  Ronald Araujo **12.00**  ·  Jurrien Timber **9.50**  ·  Eberechi Eze **4.75**  ·  Theo Julienne **7.00**  ·  Cristhian Mosquera **12.00**  ·  Alexis Mac Allister **7.50**  ·  Cody Gakpo **3.75**  ·  Dominik Szoboszlai **5.50**  ·  Joe Gomez **17.00**  ·  Noni Madueke **4.50**  ·  Ryan Gravenberch **8.00**  ·  Virgil van Dijk **10.00**  ·  Wataru Endo **10.00**  ·  Ben White **9.50**  ·  Bukayo Saka **3.40**  ·  Declan Rice **7.00**  ·  Kai Havertz **3.00**  ·  Milos Kerkez **12.00**  ·  Riccardo Calafiori **9.50**  ·  Martin Odegaard **4.75**  ·  Ezri Konsa **15.00**  ·  Alexander Isak **3.00**  ·  Mikel Merino **4.00**  ·  Myles Lewis-Skelly **10.00**  ·  Florian Wirtz **5.50**  ·  Jeremie Frimpong **9.50**  ·  Trey Nyoni **7.50**  ·  Victor Munoz **4.75**  ·  Rio Ngumoha **4.75**  ·  Jeremy Jacquet **12.00**
+- **Player to Score or Assist:** Christos Tzolis **2.20**  ·  Bradley Barcola **2.40**  ·  Viktor Gyokeres **2.20**  ·  Lewis Koumas **2.88**  ·  Konstantinos Tsimikas **5.50**  ·  Piero Hincapie **6.50**  ·  Martin Zubimendi **5.00**  ·  Max Dowman **2.75**  ·  Bruno Guimaraes **3.75**  ·  Gabriel Magalhaes **6.00**  ·  Ronald Araujo **7.50**  ·  Jurrien Timber **5.50**  ·  Eberechi Eze **2.60**  ·  Theo Julienne **3.20**  ·  Cristhian Mosquera **8.00**  ·  Alexis Mac Allister **4.00**  ·  Cody Gakpo **2.60**  ·  Dominik Szoboszlai **2.88**  ·  Joe Gomez **6.50**  ·  Noni Madueke **2.62**  ·  Ryan Gravenberch **4.75**  ·  Virgil van Dijk **6.00**  ·  Wataru Endo **6.00**  ·  Ben White **6.00**  ·  Bukayo Saka **2.20**  ·  Declan Rice **3.50**  ·  Kai Havertz **2.25**  ·  Milos Kerkez **6.00**  ·  Riccardo Calafiori **5.50**  ·  Martin Odegaard **2.75**  ·  Ezri Konsa **9.00**  ·  Alexander Isak **2.25**  ·  Mikel Merino **2.60**  ·  Myles Lewis-Skelly **5.50**  ·  Florian Wirtz **2.88**  ·  Jeremie Frimpong **4.00**  ·  Trey Nyoni **4.75**  ·  Victor Munoz **3.00**  ·  Rio Ngumoha **2.88**  ·  Jeremy Jacquet **7.00**
 
 ## Estadísticas de equipo
 | | Liverpool (total) | Liverpool en casa | Arsenal (total) | Arsenal fuera |
@@ -183,36 +183,36 @@ _Goles esperados: local 1,02 · visitante 1,42 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 43% | 45% | 2.15 | -4% |
+| 1X2: 2 | 46% | 41% | 44% | 2.25 | -2% |
 | 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 27% | 29% | 28% | 3.20 | -10% |
-| Doble oportunidad: X2 | 73% | 70% | 71% | 1.36 | -3% |
+| 1X2: 1 | 27% | 31% | 29% | 3.00 | -13% |
+| Doble oportunidad: X2 | 73% | 69% | 71% | 1.36 | -3% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 54% | 57% | 55% | 1.67 | -7% |
+| Doble oportunidad: 1X | 54% | 58% | 56% | 1.62 | -9% |
 | Ambos marcan: No | 52% | 42% | 47% | 2.20 | +3% |
 | Ambos marcan: Sí | 48% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 44% | 55% | 49% | 1.73 | -14% |
-| Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -21% |
-| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +13% |
-| Goles más/menos: Menos de 2.5 ✅ | 56% | 45% | 51% | 2.10 | +6% |
-| Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
+| Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
+| Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
+| Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
+| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +3% |
+| Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
-| Goles del local: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles del local: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles del local: Menos de 0.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
-| Goles del local: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
+| Goles del local: Más de 0.5 | 64% | 73% | 69% | 1.28 | -12% |
+| Goles del local: Más de 1.5 | 27% | 39% | 33% | 2.38 | -21% |
+| Goles del local: Menos de 0.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del local: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +2% |
 | Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Goles del visitante: Más de 2.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -12% |
+| Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
 | Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
-| Goles del visitante: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
-| Goles del visitante: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -3% |
-| 1X2 descanso: 2 | 33% | 34% | 34% | 2.75 | -8% |
+| Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
+| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
 | 1X2 descanso: X | 45% | 40% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 22% | 26% | 24% | 3.60 | -14% |
+| 1X2 descanso: 1 | 22% | 27% | 25% | 3.40 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

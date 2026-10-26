@@ -1,10 +1,10 @@
 # Udinese – AS Roma
 **Serie A** · Regular Season - 10 · 31/10/2026 18:00 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **6.00**  ·  X **4.10**  ·  2 **1.50**
 

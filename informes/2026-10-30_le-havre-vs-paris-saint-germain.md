@@ -1,10 +1,10 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
 
 ## Cuotas Bet365
-_Actualizadas: 25/10 16:16_
+_Actualizadas: 26/10 19:53_
 
 - **1X2:** 1 **11.00**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.05**
@@ -13,8 +13,8 @@ _Actualizadas: 25/10 16:16_
     - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.33** · menos **3.40**
     - 3,5: más **1.80** · menos **2.00**
-    - 4,5: más **2.75** · menos **1.44**
-    - 5,5: más **4.50** · menos **1.20**
+    - 4,5: más **3.00** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.18** · menos **4.50**
@@ -205,12 +205,10 @@ _Goles esperados: local 1,11 · visitante 2,72 · córners esperados 9,2._
 | Ambos marcan: Sí | 63% | 56% | 59% | 1.67 | -1% |
 | Goles más/menos: Más de 2.5 | 74% | 72% | 73% | 1.33 | -3% |
 | Goles más/menos: Más de 3.5 | 53% | 53% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 4.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles más/menos: Más de 5.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles más/menos: Más de 4.5 | 34% | 32% | 33% | 3.00 | -2% |
 | Goles más/menos: Menos de 2.5 | 26% | 28% | 27% | 3.40 | -7% |
 | Goles más/menos: Menos de 3.5 | 47% | 47% | 47% | 2.00 | -6% |
-| Goles más/menos: Menos de 4.5 | 66% | 66% | 66% | 1.44 | -5% |
-| Goles más/menos: Menos de 5.5 | 81% | 79% | 80% | 1.20 | -4% |
+| Goles más/menos: Menos de 4.5 | 66% | 68% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
 | Goles 1ª parte más/menos: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
