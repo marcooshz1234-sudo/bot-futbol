@@ -354,14 +354,29 @@ def patrones(hist, nombres):
     return uno[:25]
 
 
+def pct_real(p):
+    """% que se enseña: la probabilidad corregida con lo aprendido y el histórico (la estadística de los
+    últimos 10 partidos exagera; ver calibrar_historico.py)."""
+    try:
+        import aprender
+        pr = p.get("prob_aprendida")
+        if pr is None:
+            pr = aprender.frec_calibrada(p)
+        return round(pr * 100)
+    except Exception:
+        return round(p["frecuencia"] * 100)
+
+
 def valor_es():
     """Picks con valor del modelo, con el texto en español (sin 'menos de 2,5/3,5 goles')."""
     salida = []
     for v in leer(DATOS / "valor.json", []) or []:
         if es_sin_empate(v["mercado"], v["opcion"]):
             continue
-        if v["mercado"] == "Goals Over/Under" and v["opcion"] in ("Under 2.5", "Under 3.5"):
-            continue
+        if str(v["opcion"]).startswith("Under") or v["opcion"] == "No":
+            continue   # 26/10: nada de "menos de" en la app
+        if v.get("fecha") and hora(v["fecha"]) < datetime.now(MADRID):
+            continue   # solo partidos que aún no se han jugado
         l, _, vi = v["partido"].partition(" – ")
         salida.append(dict(v, texto=texto_pick(v["mercado"], v["opcion"], l, vi),
                            hora=hora(v["fecha"]).strftime("%d/%m %H:%M")))
@@ -377,7 +392,7 @@ def copia_publica():
     html = (RAIZ / "docs" / "index.html").read_text(encoding="utf-8")
     html = (html.replace('href="icono-180.png', 'href="../icono-180.png')
             .replace('src="logo.png', 'src="../logo.png')
-            .replace('fetch("datos.json', 'fetch("../datos.json'))
+            )
     (pub / "index.html").write_text(html, encoding="utf-8")
     man = json.loads((RAIZ / "docs" / "manifest.json").read_text(encoding="utf-8"))
     man.update(start_url="./", icons=[dict(i, src="../" + i["src"]) for i in man["icons"]])
@@ -454,7 +469,7 @@ def main():
     def ligero(p):
         return {"id": clave(p), "partido_id": p["partido_id"], "fecha": p["fecha"], "competicion": p.get("competicion"),
                 "partido": f"{p['local']} – {p['visitante']}", "texto": p["texto"], "cuota": p["cuota"],
-                "frecuencia": round(p["frecuencia"] * 100), "detalle": p.get("detalle"), "tipo": p.get("tipo"),
+                "frecuencia": round(p["frecuencia"] * 100), "pct_real": pct_real(p), "detalle": p.get("detalle"), "tipo": p.get("tipo"),
                 "valor": round(p.get("ventaja", 0) * 100), "estado": estado_pick(p),
                 "movimiento": p.get("movimiento"), "cuota_inicial": p.get("cuota_inicial"),
                 "valor_mercado": p.get("valor_mercado"), "temporada": p.get("temporada"),
@@ -497,7 +512,10 @@ def main():
 
     # --- escalera
     esc = leer(DATOS / "escalera.json", {}) or {}
-    escalera = {"actual": esc.get("actual"), "historial": (esc.get("historial") or [])[-20:]}
+    unicos = {}
+    for x in esc.get("historial") or []:   # el mismo día y escalón una sola vez (el último)
+        unicos[(x.get("dia"), x.get("escalon"))] = x
+    escalera = {"actual": esc.get("actual"), "historial": list(unicos.values())[-20:]}
     if escalera["actual"]:
         escalera["actual"] = dict(escalera["actual"], picks=[dict(p, estado=estado_pick(p)) if "mercado" in p else p
                                                              for p in escalera["actual"]["picks"]])
@@ -675,6 +693,10 @@ def main():
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    # 26/10: la versión pública lee su propio archivo, sin lo interno (estado del bot, calendario, ideas, avisos)
+    publico = {k: v for k, v in datos.items() if k not in ("bot", "calendario", "revision", "ideas", "redes")}
+    (RAIZ / "docs" / "publica" / "datos.json").write_text(json.dumps(publico, ensure_ascii=False, separators=(",", ":")),
+                                                         encoding="utf-8")
     print(f"App: {len(partidos)} partidos · {sum(len(d['picks']) for d in dias.values())} picks · "
           f"{len(publicados)} publicados · {SALIDA.stat().st_size // 1024} KB")
 
