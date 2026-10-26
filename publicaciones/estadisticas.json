@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 23:06",
+ "actualizado": "2026-10-26 23:18",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -80,6 +80,11 @@
   }
  },
  "tipos_instagram": {
+  "Verdes/balance (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 9,
    "likes_media": 0.0,
@@ -87,11 +92,6 @@
   },
   "Otros (reel)": {
    "posts": 9,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -106,7 +106,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido": {
-   "posts": 8,
+   "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
