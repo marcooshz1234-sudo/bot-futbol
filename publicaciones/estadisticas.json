@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 00:51",
+ "actualizado": "2026-10-26 01:01",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -50,13 +50,7 @@
   "aciertos": 21,
   "total": 42
  },
- "escalera": {
-  "dia": 2,
-  "de": 7,
-  "stake": 43.33,
-  "objetivo": 95.76,
-  "fecha": "2026-10-25"
- },
+ "escalera": null,
  "historial": {
   "2026-10-23": {
    "threads": 836,
