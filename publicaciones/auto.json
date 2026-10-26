@@ -79,12 +79,13 @@
   },
   {
     "id": "2026-10-27-datos-manana",
-    "fecha": "2026-10-26T23:00",
+    "fecha": "2026-10-26T15:10",
     "texto": "👀 3 DATOS PARA LOS PARTIDOS DE MAÑANA (MARTES) 👀\n\n⚽ Sassuolo – Lazio (18:30)\nLa Lazio ha ganado sus últimos 4 partidos.\n\n⚽ Roma – Cagliari (20:45)\nLa Roma solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Torino – Como (20:45)\nSus últimos 4 cara a cara promedian 3,5 goles.\n\n👇 ¿Qué partido vas a ver?",
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sel": []
+    "sel": [],
+    "fijo": true
   },
   {
     "id": "2026-10-27-combi-cuota_3",
