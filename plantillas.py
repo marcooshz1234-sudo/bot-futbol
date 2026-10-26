@@ -89,9 +89,12 @@ def mejores_para_lista(picks):
 # 26/10: las combis de partido grande eran el formato más estable en Threads (mediana 1.236 vistas)
 GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "arsenal", "liverpool", "chelsea",
            "manchester united", "tottenham", "inter", "ac milan", "juventus", "napoli", "roma", "bayern",
-           "borussia dortmund", "bayer leverkusen", "paris saint germain", "marseille", "atalanta", "newcastle")
+           "borussia dortmund", "bayer leverkusen", "paris saint germain", "marseille", "atalanta", "newcastle",
+           "benfica", "porto", "sporting cp", "ajax", "psv", "feyenoord")
 BANDERA = {"LaLiga": "🇪🇸", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪",
-           "Ligue 1": "🇫🇷", "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢"}
+           "Ligue 1": "🇫🇷", "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢",
+           "Champions": "⭐", "Conference": "🟢", "Segunda": "🇪🇸", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Eredivisie": "🇳🇱",
+           "Primeira Liga": "🇵🇹"}
 CORTO = {"paris saint germain": "PSG", "manchester united": "MAN. UNITED", "manchester city": "MAN. CITY",
          "bayern münchen": "BAYERN", "borussia dortmund": "DORTMUND", "bayer leverkusen": "LEVERKUSEN",
          "atletico madrid": "ATLÉTICO", "real madrid": "MADRID", "barcelona": "BARÇA", "ac milan": "MILAN"}

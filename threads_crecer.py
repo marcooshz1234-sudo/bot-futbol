@@ -23,7 +23,7 @@ from redes import THREADS, llamar
 ESTADO = DATOS / "threads_crecer.json"
 GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "arsenal", "liverpool", "chelsea",
            "manchester united", "tottenham", "inter", "ac milan", "juventus", "napoli", "roma", "bayern",
-           "borussia dortmund", "bayer leverkusen", "paris saint germain", "marseille")
+           "borussia dortmund", "bayer leverkusen", "paris saint germain", "marseille", "benfica", "porto", "sporting cp", "ajax", "psv")
 
 
 def dm(texto):

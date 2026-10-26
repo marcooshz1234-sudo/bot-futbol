@@ -38,6 +38,11 @@ COMPETICIONES = {
     2: "Champions League",
     3: "Europa League",
     848: "Conference League",
+    # 26/10: más ligas para que los lunes y jueves (días con pocos partidos) también haya contenido
+    141: "Segunda División",
+    40: "Championship",
+    88: "Eredivisie",
+    94: "Primeira Liga",
 }
 
 TERMINADOS = {"FT", "AET", "PEN"}
@@ -898,6 +903,18 @@ def main():
     generar_informes(proximos)
     print(f"Peticiones usadas en esta ejecución: {api.usadas}"
           + (f" · restantes hoy: {api.restantes}" if api.restantes is not None else ""))
+    try:   # consumo de la API por día (para vigilar el plan)
+        ruta = DATOS / "consumo_api.json"
+        c = leer(ruta, {}) or {}
+        dia = datetime.now(MADRID).strftime("%Y-%m-%d")
+        d = c.setdefault(dia, {"usadas": 0, "ejecuciones": 0})
+        d["usadas"] += api.usadas
+        d["ejecuciones"] += 1
+        if api.restantes is not None:
+            d["restantes"] = api.restantes
+        escribir(ruta, {k: c[k] for k in sorted(c)[-30:]})
+    except Exception as e:
+        print("consumo:", e)
 
 
 if __name__ == "__main__":

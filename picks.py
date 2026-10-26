@@ -66,7 +66,8 @@ PARTIDO_FREC_MIN = 0.65
 PARTIDO_RANGO = (10.0, 13.5)   # cuota "sumada"; bet365 la rebaja al ser del mismo partido → ~9-11
 
 COMPETICION = {140: "LaLiga", 39: "Premier", 135: "Serie A", 78: "Bundesliga",
-               61: "Ligue 1", 2: "Champions", 3: "Europa League", 848: "Conference"}
+               61: "Ligue 1", 2: "Champions", 3: "Europa League", 848: "Conference",
+               141: "Segunda", 40: "Championship", 88: "Eredivisie", 94: "Primeira Liga"}
 
 TERMINADOS = {"FT", "AET", "PEN"}
 
@@ -919,8 +920,11 @@ TEMAS = {
 }
 LIGA_BANDERA = {"LaLiga": "🇪🇸 COMBI LALIGA", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI PREMIER", "Serie A": "🇮🇹 COMBI SERIE A",
                 "Bundesliga": "🇩🇪 COMBI BUNDESLIGA", "Ligue 1": "🇫🇷 COMBI LIGUE 1",
-                "Champions League": "⭐ COMBI CHAMPIONS", "Europa League": "🟠 COMBI EUROPA LEAGUE",
-                "Conference League": "🟢 COMBI CONFERENCE"}
+                "Champions": "⭐ COMBI CHAMPIONS", "Champions League": "⭐ COMBI CHAMPIONS",
+                "Europa League": "🟠 COMBI EUROPA LEAGUE", "Conference": "🟢 COMBI CONFERENCE",
+                "Conference League": "🟢 COMBI CONFERENCE", "Segunda": "🇪🇸 COMBI SEGUNDA",
+                "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP", "Eredivisie": "🇳🇱 COMBI EREDIVISIE",
+                "Primeira Liga": "🇵🇹 COMBI LIGA PORTUGAL"}
 
 
 def lado_pick(p):
@@ -958,7 +962,7 @@ def combis_estilo(dia, buenos, amplios, usados):
     por_liga = defaultdict(list)
     for p in pool:
         por_liga[p["competicion"]].append(p)
-    ligas = sorted(por_liga, key=lambda l: (l in ("Champions League", "Europa League"), len(por_liga[l])), reverse=True)
+    ligas = sorted(por_liga, key=lambda l: (l in ("Champions", "Champions League", "Europa League"), len(por_liga[l])), reverse=True)
     for liga in ligas:
         if len(por_liga[liga]) >= 3 and liga in LIGA_BANDERA:
             c = combinar(por_liga[liga], 3.0, 8.0, 4, 3, 2)
