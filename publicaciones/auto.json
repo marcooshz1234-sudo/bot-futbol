@@ -69,15 +69,6 @@
     "cuotas_revisadas": "2026-10-26T11:34"
   },
   {
-    "id": "2026-10-26-datos-xg",
-    "fecha": "2026-10-26T16:00",
-    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Sevilla marca 1,5 goles por partido, pero sus ocasiones (xG) solo dan para 0,9.\n\nEn sus últimos 8 partidos ha metido 5 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": []
-  },
-  {
     "id": "2026-10-27-datos-manana",
     "fecha": "2026-10-26T15:10",
     "texto": "👀 3 DATOS PARA LOS PARTIDOS DE MAÑANA (MARTES) 👀\n\n⚽ Sassuolo – Lazio (18:30)\nLa Lazio ha ganado sus últimos 4 partidos.\n\n⚽ Roma – Cagliari (20:45)\nLa Roma solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Torino – Como (20:45)\nSus últimos 4 cara a cara promedian 3,5 goles.\n\n👇 ¿Qué partido vas a ver?",
@@ -88,28 +79,36 @@
     "fijo": true
   },
   {
-    "id": "2026-10-27-combi-cuota_3",
-    "fecha": "2026-10-27T11:00",
-    "texto": "💥 COMBINADA x2,99 DEL MARTES 💥\n\n✅1. Lazio o empate · 1,36\n✅2. Alessandro Romano: 1+ tiros · 1,57\n✅3. Torino marca · 1,40\n\n🎯 Cuota total: 2,99\n💶 10€ → 29,90€\n\n📊 Lazio o empate → Sassuolo 6/8 · Lazio 8/8 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "id": "2026-10-26-datos-xg",
+    "fecha": "2026-10-26T16:00",
+    "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Sevilla marca 1,5 goles por partido, pero sus ocasiones (xG) solo dan para 0,9.\n\nEn sus últimos 8 partidos ha metido 5 goles más de lo que \"tocaba\".\n\n👇 ¿Pegada de equipo grande o racha que se va a acabar?",
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sel": [
-      "1550174|Double Chance|Draw/Away",
-      "1550168|Away Player Shots|Alessandro Romano - 1",
-      "1550175|Total - Home|Over 0.5"
-    ]
+    "sel": []
   },
   {
     "id": "2026-10-27-escalera",
     "fecha": "2026-10-27T11:00",
-    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x1,90 🍀\n\n❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅1. Lazio o empate · 1,36\n✅2. Torino marca · 1,40\n\n🎯 Cuota 1,90 · 20,00€ → 38,00€\n\nEl siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable",
+    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x1,87 🍀\n\n❌ Ayer se cayó. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅1. Lazio o empate · 1,30\n✅2. Torino marca · 1,44\n\n🎯 Cuota 1,87 · 20,00€ → 37,40€\n\nEl siguiente escalón se revisa al terminar este.\n🔞 +18 | Juego responsable",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550174|Double Chance|Draw/Away",
       "1550175|Total - Home|Over 0.5"
+    ]
+  },
+  {
+    "id": "2026-10-27-combi-dia",
+    "fecha": "2026-10-27T12:00",
+    "texto": "🎯 LA COMBI x1,77 DEL MARTES 🎯\n\n✅1. Alessandro Romano: 1+ tiros · 1,36\n✅2. Lazio o empate · 1,30\n\n🎯 Cuota total: 1,77\n💶 10€ → 17,68€\n\n📊 Alessandro Romano: 1+ tiros → Alessandro Romano 7/8 en sus últimos partidos\n\n👇 ¿La juegas tal cual o le cambias algo? Te leo",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550168|Away Player Shots|Alessandro Romano - 1",
+      "1550174|Double Chance|Draw/Away"
     ]
   },
   {
@@ -133,15 +132,15 @@
   {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Samuele Birindelli: 1+ tiros · 1,40\n✅2. Más de 1,5 goles en Parma–Udinese · 1,40\n✅3. Gana el Inter · 1,33\n✅4. Gol en la 2ª parte del Genoa–Juventus · 1,25\n\n📊 Samuele Birindelli: 1+ tiros → Samuele Birindelli 8/8 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
+    "texto": "🔥 4 PICKS PARA MAÑANA (MIÉRCOLES) 🔥\n\n✅1. Gana el Inter · 1,36\n✅2. Samuele Birindelli: 1+ tiros · 1,40\n✅3. Más de 1,5 goles en Parma–Udinese · 1,36\n✅4. Juventus gana alguna de las dos partes · 1,40\n\n📊 Gana el Inter → Venezia 7/8 · Inter 7/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 Dime cuál falta y la miro con los datos",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1550176|Match Winner|Away",
       "1550172|Home Player Shots|Samuele Birindelli - 1",
       "1550173|Goals Over/Under|Over 1.5",
-      "1550176|Match Winner|Away",
-      "1550171|Goals Over/Under - Second Half|Over 0.5"
+      "1550171|To Win Either Half|Away"
     ]
   },
   {
@@ -178,20 +177,6 @@
     ]
   },
   {
-    "id": "2026-10-28-combi-liga",
-    "fecha": "2026-10-28T15:00",
-    "texto": "🇮🇹 COMBI SERIE A x3,26 · MIÉRCOLES\n\n✅1. Más de 1,5 goles en Parma–Udinese · 1,40\n✅2. Más de 1,5 goles en AC Milan–Bologna · 1,25\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gana el Inter · 1,33\n\n🎯 Cuota total: 3,26\n💶 10€ → 32,60€\n\n📊 Más de 1,5 goles en Parma–Udinese → Parma 7/8 · Udinese 7/8 en sus últimos partidos\n\n👇 Dime tu pick para hoy y lo miro con los datos",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550173|Goals Over/Under|Over 1.5",
-      "1550167|Goals Over/Under|Over 1.5",
-      "1550171|To Win Either Half|Away",
-      "1550176|Match Winner|Away"
-    ]
-  },
-  {
     "id": "2026-10-28-datos-xg",
     "fecha": "2026-10-28T16:00",
     "texto": "🤓 ¿SABÍAS QUE…? 🤓\n\nEl Venezia genera 1,6 de xG por partido, pero solo marca 0,8.\n\nEn sus últimos 8 partidos le faltan 7 goles para lo que merecían sus ocasiones.\n\n👇 ¿Hoy se le abre la portería?",
@@ -203,15 +188,15 @@
   {
     "id": "2026-10-28-picks-hoy",
     "fecha": "2026-10-28T17:30",
-    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Antoine Hainaut: 1+ tiros · 1,36\n✅3. Juventus gana alguna de las dos partes · 1,40\n✅4. Gol en la 2ª parte del Parma–Udinese · 1,28\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
+    "texto": "🔥 4 PICKS PARA HOY 🔥\n\n✅1. Monza marca · 1,44\n✅2. Antoine Hainaut: 1+ tiros · 1,36\n✅3. Gol en la 2ª parte del Parma–Udinese · 1,28\n✅4. Gol en la 2ª parte del Genoa–Juventus · 1,25\n\n📊 Monza marca → Monza 8/8 · Napoli (en contra) 8/10 en sus últimos partidos\n\n¡Combina máximo 2 o 3! 🍀\n👇 ¿Con cuáles 2 o 3 te quedas tú?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550172|Total - Home|Over 0.5",
       "1550176|Home Player Shots|Antoine Hainaut - 1",
-      "1550171|To Win Either Half|Away",
-      "1550173|Goals Over/Under - Second Half|Over 0.5"
+      "1550173|Goals Over/Under - Second Half|Over 0.5",
+      "1550171|Goals Over/Under - Second Half|Over 0.5"
     ]
   },
   {
@@ -457,16 +442,19 @@
     "sel": []
   },
   {
-    "id": "2026-11-01-combi-tema",
-    "fecha": "2026-11-01T11:30",
-    "texto": "🛡️ DOMINGO DE SEGUROS · x2,61\n\n✅1. Gana el Como · 1,33\n✅2. Sevilla o empate · 1,40\n✅3. Elche o empate · 1,40\n\n🎯 Cuota total: 2,61\n💶 10€ → 26,10€\n\n📊 Gana el Como → Como 7/10 · Venezia 7/8 en sus últimos partidos\n\n👇 ¿Qué pata quitarías tú?",
+    "id": "2026-11-01-combi-loca",
+    "fecha": "2026-11-01T11:15",
+    "texto": "🤪 COMBI LOCA x9,80 DEL DOMINGO 🤪\n\n✅1. Gana el Como · 1,33\n✅2. Más de 1,5 goles en Lecce–Genoa · 1,44\n✅3. Gol en la 2ª parte del Getafe–Sevilla · 1,36\n✅4. ADO Den Haag marca · 1,25\n✅5. Alessandro Romano: 1+ tiros · 1,40\n✅6. Gana el Sporting Gijon · 2,15\n\n🎯 Cuota total: 9,80\n💶 10€ → 98,00€\n\n📊 Gana el Como → Como 7/10 · Venezia 7/8 en sus últimos partidos\n\n👇 ¿Cuál es la que menos te convence?",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550180|Match Winner|Home",
-      "1570438|Double Chance|Draw/Away",
-      "1570437|Double Chance|Home/Draw"
+      "1550184|Goals Over/Under|Over 1.5",
+      "1570438|Goals Over/Under - Second Half|Over 0.5",
+      "1552212|Total - Away|Over 0.5",
+      "1550183|Away Player Shots|Alessandro Romano - 1",
+      "1569995|Match Winner|Away"
     ]
   },
   {

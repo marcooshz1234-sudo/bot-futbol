@@ -1,7 +1,7 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_

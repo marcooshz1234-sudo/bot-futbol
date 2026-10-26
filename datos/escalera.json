@@ -231,7 +231,7 @@
   "dia": "2026-10-27",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 1.9,
+  "cuota": 1.87,
   "picks": [
    {
     "partido_id": 1550174,
@@ -244,12 +244,14 @@
     "opcion": "Draw/Away",
     "tipo": "resultado",
     "texto": "Lazio o empate",
-    "cuota": 1.36,
+    "cuota": 1.3,
     "frecuencia": 0.875,
-    "ventaja": 0.14,
+    "ventaja": 0.106,
     "detalle": "Sassuolo 6/8 · Lazio 8/8",
-    "valor_mercado": 0.0,
-    "prob_aprendida": 0.775
+    "valor_mercado": -0.037,
+    "movimiento": -0.044,
+    "cuota_inicial": 1.36,
+    "prob_aprendida": 0.753
    },
    {
     "partido_id": 1550175,
@@ -262,11 +264,13 @@
     "opcion": "Over 0.5",
     "tipo": "goles",
     "texto": "Torino marca",
-    "cuota": 1.4,
+    "cuota": 1.44,
     "frecuencia": 0.833,
-    "ventaja": 0.119,
+    "ventaja": 0.139,
     "detalle": "Torino 7/8 · Como (en contra) 8/10",
-    "valor_mercado": -0.014,
+    "valor_mercado": 0.014,
+    "movimiento": 0.029,
+    "cuota_inicial": 1.4,
     "prob_xg": 0.721,
     "xg_esperado": 3.01,
     "prob_aprendida": 0.685

@@ -1,7 +1,7 @@
 # Casa Pia – Sporting CP
 **Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

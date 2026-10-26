@@ -1,36 +1,39 @@
 # Picks del Analista
 
-_Generado el 2026-10-26 07:52 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-26 15:52 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Lunes 26/10
 
-**🔒 Combi segura · cuota 1,70**
-- Más de 1,5 goles en Sevilla–Osasuna (1,36) · Sevilla 7/9 · Osasuna 7/9
+**🔒 Combi segura · cuota 1,75**
+- Más de 1,5 goles en Sevilla–Osasuna (1,40) · Sevilla 7/9 · Osasuna 7/9
 - Vinicius Lopes: 1+ tiros (1,25) · Vinicius Lopes 7/8
+
+**💥 Combi cuota 3-4 · cuota 3,53**
+- Burgos marca (1,44) · FC Andorra (en contra) 8/10 · Burgos 7/10
+- Más de 2,5 goles en Paris Saint Germain–Lyon (1,36) · Paris Saint Germain 9/10 · Lyon 8/10
+- Youssouf Fofana: 1+ tiros a puerta (1,80) · Youssouf Fofana 4/5
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 21:00 | Más de 1,5 goles en Sevilla–Osasuna | goles | 1.36 | 78% | Sevilla 7/9 · Osasuna 7/9 |
+| 21:00 | Más de 1,5 goles en Sevilla–Osasuna | goles | 1.40 | 78% | Sevilla 7/9 · Osasuna 7/9 |
 | 19:45 | Vinicius Lopes: 1+ tiros | jugador | 1.25 | 88% | Vinicius Lopes 7/8 |
+| 20:30 | Burgos marca | goles | 1.44 | 75% | FC Andorra (en contra) 8/10 · Burgos 7/10 |
+| 20:30 | Gol en la 1ª parte del FC Andorra–Burgos | goles | 1.40 | 75% | FC Andorra 7/10 · Burgos 8/10 |
 | 20:30 | Más de 2,5 goles en Paris Saint Germain–Lyon | goles | 1.36 | 85% | Paris Saint Germain 9/10 · Lyon 8/10 |
-| 20:30 | Ambos marcan en Paris Saint Germain–Lyon | goles | 1.57 | 80% | Paris Saint Germain 9/10 · Lyon 7/10 |
 | 20:30 | Más de 26,5 tiros en Paris Saint Germain–Lyon | tiros | 1.80 | 85% | Paris Saint Germain 10/10 · Lyon 7/10 |
+| 20:30 | Ambos marcan en Paris Saint Germain–Lyon | goles | 1.62 | 80% | Paris Saint Germain 9/10 · Lyon 7/10 |
 | 21:00 | Youssouf Fofana: 1+ tiros a puerta | jugador | 1.80 | 80% | Youssouf Fofana 4/5 |
 
 ## Martes 27/10
 
-**💥 Combi cuota 3-4 · cuota 2,99**
-- Lazio o empate (1,36) · Sassuolo 6/8 · Lazio 8/8
-- Alessandro Romano: 1+ tiros (1,57) · Alessandro Romano 7/8
-- Torino marca (1,40) · Torino 7/8 · Como (en contra) 8/10
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 18:30 | Lazio o empate | resultado | 1.36 | 88% | Sassuolo 6/8 · Lazio 8/8 |
-| 20:45 | Alessandro Romano: 1+ tiros | jugador | 1.57 | 88% | Alessandro Romano 7/8 |
-| 20:45 | Torino marca | goles | 1.40 | 83% | Torino 7/8 · Como (en contra) 8/10 |
+| 20:45 | Alessandro Romano: 1+ tiros | jugador | 1.36 | 88% | Alessandro Romano 7/8 |
+| 18:30 | Lazio o empate | resultado | 1.30 | 88% | Sassuolo 6/8 · Lazio 8/8 |
+| 20:45 | Torino marca | goles | 1.44 | 83% | Torino 7/8 · Como (en contra) 8/10 |
 | 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.30 | 78% | Torino 6/8 · Como 8/10 |
-| 18:30 | Gana el Lazio | resultado | 2.20 | 75% | Sassuolo 4/8 · Lazio 8/8 |
+| 20:45 | Paul Mendy comete 2+ faltas | jugador | 1.44 | 86% | Paul Mendy 6/7 |
+| 18:30 | Gana el Lazio | resultado | 2.10 | 75% | Sassuolo 4/8 · Lazio 8/8 |
 
 ## Miércoles 28/10
 
@@ -41,18 +44,18 @@ _Generado el 2026-10-26 07:52 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Samuele Birindelli: 1+ tiros | jugador | 1.40 | 100% | Samuele Birindelli 8/8 |
-| 18:30 | Más de 1,5 goles en Parma–Udinese | goles | 1.40 | 88% | Parma 7/8 · Udinese 7/8 |
 | 20:45 | Monza marca | goles | 1.44 | 89% | Monza 8/8 · Napoli (en contra) 8/10 |
+| 18:30 | Más de 1,5 goles en Parma–Udinese | goles | 1.36 | 88% | Parma 7/8 · Udinese 7/8 |
+| 18:30 | Gana el Inter | resultado | 1.36 | 78% | Venezia 7/8 · Inter 7/10 |
 | 18:30 | Antoine Hainaut: 1+ tiros | jugador | 1.36 | 88% | Antoine Hainaut 7/8 |
 | 20:45 | Juventus gana alguna de las dos partes | resultado | 1.40 | 78% | Genoa 7/8 · Juventus 7/10 |
 | 18:30 | Gol en la 2ª parte del Parma–Udinese | goles | 1.28 | 94% | Parma 7/8 · Udinese 8/8 |
-| 18:30 | Gana el Inter | resultado | 1.33 | 78% | Venezia 7/8 · Inter 7/10 |
 | 20:45 | Gustavo Varela: 2+ tiros | jugador | 1.40 | 86% | Gustavo Varela 6/7 |
 | 20:45 | Gol en la 2ª parte del Genoa–Juventus | goles | 1.25 | 83% | Genoa 6/8 · Juventus 9/10 |
 | 18:30 | Akor Adams: 2+ tiros | jugador | 1.33 | 88% | Akor Adams 7/8 |
 | 20:45 | Más de 1,5 goles en Genoa–Juventus | goles | 1.33 | 89% | Genoa 6/8 · Juventus 10/10 |
 | 20:45 | Gustavo Varela: 1+ tiros a puerta | jugador | 1.57 | 86% | Gustavo Varela 6/7 |
-| 18:30 | Akor Adams: 1+ tiros a puerta | jugador | 1.62 | 88% | Akor Adams 7/8 |
+| 18:30 | Akor Adams: 1+ tiros a puerta | jugador | 1.67 | 88% | Akor Adams 7/8 |
 
 ## Jueves 29/10
 
@@ -164,6 +167,14 @@ _Generado el 2026-10-26 07:52 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Sparta Rotterdam marca (1,36) · Groningen (en contra) 9/10 · Sparta Rotterdam 8/10
 - Más de 1,5 goles en Athletic Club–Real Sociedad (1,25) · Athletic Club 7/9 · Real Sociedad 9/10
 
+**🤪 Combi loca · cuota 9,80**
+- Gana el Como (1,33) · Como 7/10 · Venezia 7/8
+- Más de 1,5 goles en Lecce–Genoa (1,44) · Lecce 7/8 · Genoa 6/8
+- Gol en la 2ª parte del Getafe–Sevilla (1,36) · Getafe 8/10 · Sevilla 9/9
+- ADO Den Haag marca (1,25) · PEC Zwolle (en contra) 9/10 · ADO Den Haag 8/10
+- Alessandro Romano: 1+ tiros (1,40) · Alessandro Romano 7/8
+- Gana el Sporting Gijon (2,15) · AD Ceuta FC 7/10 · Sporting Gijon 6/10
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 16:45 | Sparta Rotterdam marca | goles | 1.36 | 85% | Groningen (en contra) 9/10 · Sparta Rotterdam 8/10 |
@@ -192,6 +203,7 @@ _Generado el 2026-10-26 07:52 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:45 | Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam | goles | 1.62 | 75% | Groningen 7/10 · Sparta Rotterdam 8/10 |
 | 12:15 | Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag | goles | 1.80 | 75% | PEC Zwolle 7/10 · ADO Den Haag 8/10 |
 | 15:00 | Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre | goles | 1.80 | 75% | Strasbourg 6/8 · Auxerre 6/8 |
+| 16:15 | Gana el Sporting Gijon | resultado | 2.15 | 65% | AD Ceuta FC 7/10 · Sporting Gijon 6/10 |
 
 ## Lunes 02/11
 

@@ -1,7 +1,7 @@
 # Moreirense – Estrela
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 16:30 (hora España) · Parque Joaquim de Almeida Freitas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

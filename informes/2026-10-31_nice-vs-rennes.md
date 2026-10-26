@@ -1,7 +1,7 @@
 # Nice – Rennes
 **Ligue 1** · Regular Season - 9 · 31/10/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:16_

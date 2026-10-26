@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 26/10/2026 07:52 (hora España)._
+_Actualizado el 26/10/2026 15:52 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -14,15 +14,21 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 21:00 | [Sevilla – Osasuna](informes/2026-10-26_sevilla-vs-osasuna.md) | Goles más/menos: Más de 2.5 | 2.20 | 57% | 43% | 50% | **+10%** |
 | 21:00 | [Sevilla – Osasuna](informes/2026-10-26_sevilla-vs-osasuna.md) | Goles 1ª parte más/menos: Más de 1.5 | 3.25 | 37% | 29% | 33% | **+7%** |
 
+## 27/10
+
+| Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
+|---|---|---|---|---|---|---|---|
+| 18:30 | [Sassuolo – Lazio](informes/2026-10-27_sassuolo-vs-lazio.md) | 1X2: 1 | 3.40 | 36% | 28% | 32% | **+9%** |
+
 ## 28/10
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
 | 18:30 | [Parma – Udinese](informes/2026-10-28_parma-vs-udinese.md) | 1X2: 1 | 3.00 | 41% | 31% | 36% | **+8%** |
-| 18:30 | [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) | Goles del local: Más de 1.5 | 3.40 | 37% | 28% | 32% | **+10%** |
-| 18:30 | [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) | Goles más/menos: Más de 4.5 | 2.75 | 44% | 34% | 39% | **+7%** |
-| 20:45 | [Monza – Napoli](informes/2026-10-28_monza-vs-napoli.md) | 1X2: 1 | 4.33 | 39% | 22% | 31% | **+32%** |
+| 18:30 | [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) | Goles más/menos: Más de 4.5 | 3.00 | 44% | 32% | 38% | **+13%** |
+| 18:30 | [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) | Goles del local: Más de 1.5 | 3.50 | 37% | 27% | 32% | **+12%** |
 | 20:45 | [Monza – Napoli](informes/2026-10-28_monza-vs-napoli.md) | Goles del local: Más de 1.5 | 3.25 | 52% | 29% | 40% | **+31%** |
+| 20:45 | [Monza – Napoli](informes/2026-10-28_monza-vs-napoli.md) | 1X2: 1 | 4.20 | 39% | 23% | 31% | **+30%** |
 | 20:45 | [Genoa – Juventus](informes/2026-10-28_genoa-vs-juventus.md) | Goles más/menos: Menos de 1.5 | 3.40 | 40% | 28% | 34% | **+16%** |
 | 20:45 | [Genoa – Juventus](informes/2026-10-28_genoa-vs-juventus.md) | Goles del local: Menos de 0.5 | 2.10 | 57% | 44% | 51% | **+7%** |
 

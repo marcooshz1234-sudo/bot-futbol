@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Actualizadas: 25/10 16:17_

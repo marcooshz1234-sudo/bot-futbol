@@ -1,7 +1,7 @@
 # Lazio – Cagliari
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 15:52._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_

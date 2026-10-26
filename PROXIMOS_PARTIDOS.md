@@ -1,25 +1,25 @@
 # Próximos partidos
 
-_Actualizado el 26/10/2026 07:52 (hora España). Partidos guardados en la base de datos: 1398._
+_Actualizado el 26/10/2026 15:52 (hora España). Partidos guardados en la base de datos: 1398._
 
 
 ## Lunes 26/10
-- 19:45 · Primeira Liga · [Santa Clara – Benfica](informes/2026-10-26_santa-clara-vs-benfica.md) · 1X2: 8.50 / 4.33 / 1.38
+- 19:45 · Primeira Liga · [Santa Clara – Benfica](informes/2026-10-26_santa-clara-vs-benfica.md) · 1X2: 9.50 / 5.00 / 1.30
 - 20:30 · Ligue 1 · [Paris Saint Germain – Lyon](informes/2026-10-26_paris-saint-germain-vs-lyon.md) · 1X2: 1.36 / 5.75 / 7.00
-- 20:30 · Segunda División · [FC Andorra – Burgos](informes/2026-10-26_fc-andorra-vs-burgos.md)
-- 21:00 · LaLiga · [Sevilla – Osasuna](informes/2026-10-26_sevilla-vs-osasuna.md) · 1X2: 1.90 / 3.30 / 4.50
+- 20:30 · Segunda División · [FC Andorra – Burgos](informes/2026-10-26_fc-andorra-vs-burgos.md) · 1X2: 2.05 / 3.40 / 3.40
+- 21:00 · LaLiga · [Sevilla – Osasuna](informes/2026-10-26_sevilla-vs-osasuna.md) · 1X2: 1.83 / 3.40 / 4.75
 
 ## Martes 27/10
-- 18:30 · Serie A · [Sassuolo – Lazio](informes/2026-10-27_sassuolo-vs-lazio.md) · 1X2: 3.10 / 3.40 / 2.20
-- 20:45 · Serie A · [AS Roma – Cagliari](informes/2026-10-27_as-roma-vs-cagliari.md) · 1X2: 1.36 / 4.75 / 9.00
-- 20:45 · Serie A · [Torino – Como](informes/2026-10-27_torino-vs-como.md) · 1X2: 4.50 / 3.60 / 1.73
+- 18:30 · Serie A · [Sassuolo – Lazio](informes/2026-10-27_sassuolo-vs-lazio.md) · 1X2: 3.40 / 3.50 / 2.10
+- 20:45 · Serie A · [AS Roma – Cagliari](informes/2026-10-27_as-roma-vs-cagliari.md) · 1X2: 1.33 / 4.75 / 9.50
+- 20:45 · Serie A · [Torino – Como](informes/2026-10-27_torino-vs-como.md) · 1X2: 5.00 / 3.60 / 1.73
 
 ## Miércoles 28/10
-- 18:30 · Serie A · [AC Milan – Bologna](informes/2026-10-28_ac-milan-vs-bologna.md) · 1X2: 1.62 / 3.80 / 5.50
-- 18:30 · Serie A · [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) · 1X2: 8.50 / 5.00 / 1.33
+- 18:30 · Serie A · [AC Milan – Bologna](informes/2026-10-28_ac-milan-vs-bologna.md) · 1X2: 1.62 / 3.75 / 6.00
+- 18:30 · Serie A · [Venezia – Inter](informes/2026-10-28_venezia-vs-inter.md) · 1X2: 8.50 / 5.00 / 1.36
 - 18:30 · Serie A · [Parma – Udinese](informes/2026-10-28_parma-vs-udinese.md) · 1X2: 3.00 / 3.20 / 2.40
-- 20:45 · Serie A · [Genoa – Juventus](informes/2026-10-28_genoa-vs-juventus.md) · 1X2: 5.50 / 3.60 / 1.65
-- 20:45 · Serie A · [Monza – Napoli](informes/2026-10-28_monza-vs-napoli.md) · 1X2: 4.33 / 3.90 / 1.73
+- 20:45 · Serie A · [Genoa – Juventus](informes/2026-10-28_genoa-vs-juventus.md) · 1X2: 5.50 / 3.60 / 1.67
+- 20:45 · Serie A · [Monza – Napoli](informes/2026-10-28_monza-vs-napoli.md) · 1X2: 4.20 / 3.90 / 1.80
 
 ## Jueves 29/10
 - 18:30 · Serie A · [Frosinone – Lecce](informes/2026-10-29_frosinone-vs-lecce.md) · 1X2: 1.91 / 3.60 / 3.80
@@ -94,7 +94,7 @@ _Actualizado el 26/10/2026 07:52 (hora España). Partidos guardados en la base d
 - 15:00 · Ligue 1 · [Strasbourg – Auxerre](informes/2026-11-01_strasbourg-vs-auxerre.md) · 1X2: 1.80 / 3.80 / 3.80
 - 15:30 · Bundesliga · [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) · 1X2: 2.50 / 3.60 / 2.60
 - 16:15 · LaLiga · [Racing Santander – Real Madrid](informes/2026-11-01_racing-santander-vs-real-madrid.md) · 1X2: 9.00 / 6.25 / 1.25
-- 16:15 · Segunda División · [AD Ceuta FC – Sporting Gijon](informes/2026-11-01_ad-ceuta-fc-vs-sporting-gijon.md)
+- 16:15 · Segunda División · [AD Ceuta FC – Sporting Gijon](informes/2026-11-01_ad-ceuta-fc-vs-sporting-gijon.md) · 1X2: 3.20 / 3.30 / 2.15
 - 16:30 · Primeira Liga · [Arouca – Nacional](informes/2026-11-01_arouca-vs-nacional.md)
 - 16:45 · Eredivisie · [Groningen – Sparta Rotterdam](informes/2026-11-01_groningen-vs-sparta-rotterdam.md) · 1X2: 1.60 / 4.10 / 4.75
 - 17:15 · Ligue 1 · [Paris FC – Monaco](informes/2026-11-01_paris-fc-vs-monaco.md) · 1X2: 2.20 / 3.60 / 2.90
