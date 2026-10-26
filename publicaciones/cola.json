@@ -584,5 +584,16 @@
     "origen": "bot",
     "enviado": "2026-10-26T10:02",
     "mensaje_id": 112
+  },
+  {
+    "id": "2026-10-26-verde-auto-2026-10-26-combi-segura",
+    "fecha": "2026-10-26T23:07",
+    "texto": "✅💚 ¡VERDE x1,75! COMBI DE DATOS · LUNES 💚✅\n\n✅ Más de 1,5 goles en Sevilla–Osasuna\n✅ Vinicius Lopes: 1+ tiros\n\n🎯 Cuota 1,75\n💶 10€ → 17,50€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-10-26-combi-segura"
   }
 ]
