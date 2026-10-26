@@ -43,6 +43,7 @@ def clave(p):
 OPCIONALES = ("combi-cuota_3", "combi-liga", "combi-atreve", "picks-hoy")
 MAX_OPCIONALES = 2
 MAX_POSTS_POR_SELECCION = 2   # una misma selección no sale en más de 2 posts
+MAX_COMBIS_POR_PARTIDO = 2    # un mismo partido no sale en más de 2 combis del día
 MIN_LISTA = 3   # mínimo de picks para una lista (3 para que los días con pocos partidos tengan contenido)
 
 
@@ -269,6 +270,20 @@ def posts_del_dia(dia, d):
         quedan = sorted(opcionales, key=lambda t: (-(nota.get(t) or {}).get("nota", 1.0),
                                                    sum(map(ord, dia + t)) % 7))[:MAX_OPCIONALES]
         posts = [x for x in posts if x[0] not in OPCIONALES or x[0] in quedan]
+
+    # 26/10: un mismo partido en 2 combis como mucho (el 26/10 el Sevilla–Osasuna iba en 3 y, si sale raro,
+    # caen todas a la vez). Mandan las que salen antes en la lista de arriba; la de 1€ a 500€ va aparte.
+    en_combis, quedan_posts = {}, []
+    for x in posts:
+        if x[0].startswith("combi-") or x[0] == "escalera":
+            if x[0] != "combi-500":
+                partidos = {p["partido_id"] for p in x[2]}
+                if any(en_combis.get(pid, 0) >= MAX_COMBIS_POR_PARTIDO for pid in partidos):
+                    continue
+                for pid in partidos:
+                    en_combis[pid] = en_combis.get(pid, 0) + 1
+        quedan_posts.append(x)
+    posts = quedan_posts
 
     # 26/10: si una combi lleva justo lo mismo que la lista "para mañana" (días con pocos picks), en redes
     # parece un post repetido: se queda solo la lista, que es el formato que más se ve
