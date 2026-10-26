@@ -251,7 +251,13 @@
     "valor_mercado": -0.037,
     "movimiento": -0.044,
     "cuota_inicial": 1.36,
-    "prob_aprendida": 0.753
+    "posiciones": [
+     14,
+     2,
+     20
+    ],
+    "contexto": "mejor_abismo",
+    "prob_aprendida": 0.768
    },
    {
     "partido_id": 1550175,
@@ -273,7 +279,13 @@
     "cuota_inicial": 1.4,
     "prob_xg": 0.721,
     "xg_esperado": 3.01,
-    "prob_aprendida": 0.685
+    "posiciones": [
+     8,
+     5,
+     20
+    ],
+    "contexto": "peor_igualado",
+    "prob_aprendida": 0.683
    }
   ],
   "anterior": {
