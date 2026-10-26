@@ -10,5 +10,13 @@
   "2026-10-26-datos-rachas": {
     "enviado": "2026-10-26T10:00",
     "mensaje_id": 111
+  },
+  "2026-10-26-combi-segura": {
+    "enviado": "2026-10-26T12:00",
+    "mensaje_id": 113
+  },
+  "2026-10-26-combi-dia": {
+    "enviado": "2026-10-26T12:00",
+    "mensaje_id": 114
   }
 }
