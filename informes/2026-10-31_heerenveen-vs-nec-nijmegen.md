@@ -1,7 +1,7 @@
 # Heerenveen – NEC Nijmegen
 **Eredivisie** · Regular Season - 11 · 31/10/2026 18:45 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_

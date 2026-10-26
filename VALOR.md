@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 26/10/2026 02:07 (hora España)._
+_Actualizado el 26/10/2026 07:52 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -63,6 +63,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 |---|---|---|---|---|---|---|---|
 | 17:30 | [Liverpool – Arsenal](informes/2026-11-01_liverpool-vs-arsenal.md) | Goles del local: Menos de 0.5 | 3.40 | 36% | 28% | 32% | **+8%** |
 | 17:30 | [Liverpool – Arsenal](informes/2026-11-01_liverpool-vs-arsenal.md) | Goles más/menos: Menos de 2.5 | 2.10 | 56% | 45% | 51% | **+6%** |
+| 18:00 | [Lecce – Genoa](informes/2026-11-01_lecce-vs-genoa.md) | 1X2: 1 | 2.62 | 49% | 36% | 42% | **+11%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | Goles del visitante: Menos de 0.5 | 3.25 | 41% | 29% | 35% | **+14%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | 1X2: 1 | 2.45 | 52% | 38% | 45% | **+10%** |
 | 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.80 | 42% | 24% | 33% | **+26%** |
@@ -73,6 +74,9 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
+| 18:30 | [Sassuolo – Fiorentina](informes/2026-11-02_sassuolo-vs-fiorentina.md) | 1X2: 1 | 2.60 | 57% | 36% | 47% | **+21%** |
+| 18:30 | [Sassuolo – Fiorentina](informes/2026-11-02_sassuolo-vs-fiorentina.md) | 1X2 descanso: 1 | 3.10 | 42% | 30% | 36% | **+12%** |
+| 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles más/menos: Menos de 2.5 | 2.38 | 51% | 40% | 45% | **+8%** |
 | 21:00 | [Deportivo La Coruna – Osasuna](informes/2026-11-02_deportivo-la-coruna-vs-osasuna.md) | Goles del local: Más de 1.5 | 2.38 | 50% | 39% | 45% | **+6%** |
 
 Ver el historial de aciertos en [RESULTADOS.md](RESULTADOS.md).

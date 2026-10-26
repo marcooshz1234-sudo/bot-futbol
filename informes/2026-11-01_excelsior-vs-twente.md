@@ -1,7 +1,7 @@
 # Excelsior – Twente
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_

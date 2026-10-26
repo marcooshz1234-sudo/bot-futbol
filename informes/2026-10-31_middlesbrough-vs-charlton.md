@@ -1,10 +1,61 @@
 # Middlesbrough – Charlton
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 02:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 07:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 26/10 07:52_
+
+- **1X2:** 1 **1.25**  ·  X **5.50**  ·  2 **9.50**
+- **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.75**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.50** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Córners más/menos:**
+    - 11,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **1.67**  ·  X **2.88**  ·  2 **8.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.14**  ·  2 **4.00**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **8.00**
+- **Win Both Halves:** 1 **2.62**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **7.00**  ·  Away/Yes **15.00**  ·  Home/No **2.25**  ·  Draw/No **21.00**  ·  Away/No **19.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
+- **Home Corners Over/Under:**
+    - 8,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.95**  ·  Menos de 5 **2.50**  ·  Más de 5.5 **2.00**  ·  Menos de 5.5 **1.80**
+- **Home Player Shots On Target Total:** Tommy Conway - 1 **1.28**  ·  David Strelec - 1 **1.22**  ·  Will Lankshear - 1 **1.14**  ·  Leo Castledine - 1 **1.44**  ·  Kyle Joseph - 1 **1.25**  ·  Jeremy Sarmiento - 1 **1.40**  ·  Myles Peart-Harris - 1 **1.40**  ·  Max Arfsten - 1 **1.83**  ·  Riley McGree - 1 **1.44**  ·  Sebastian Berhalter - 1 **1.62**  ·  Neto Borges - 1 **2.62**  ·  Aidan Morris - 1 **1.62**  ·  Luke Ayling - 1 **2.25**  ·  Callum Brittain - 1 **2.62**  ·  George Edmundson - 1 **3.25**  ·  Adilson Malanda - 1 **3.25**  ·  Ashley Phillips - 1 **2.62**  ·  Tommy Conway - 2 **2.25**  ·  David Strelec - 2 **2.00**  ·  Will Lankshear - 2 **1.67**  ·  Leo Castledine - 2 **3.25**  ·  Kyle Joseph - 2 **2.10**  ·  Jeremy Sarmiento - 2 **2.75**  ·  Myles Peart-Harris - 2 **3.00**  ·  Max Arfsten - 2 **5.50**  ·  Riley McGree - 2 **3.25**  ·  Sebastian Berhalter - 2 **4.00**  ·  Neto Borges - 2 **11.00**  ·  Aidan Morris - 2 **4.00**  ·  Luke Ayling - 2 **9.00**  ·  Callum Brittain - 2 **11.00**  ·  George Edmundson - 2 **17.00**  ·  Adilson Malanda - 2 **17.00**  ·  Ashley Phillips - 2 **11.00**  ·  Tommy Conway - 3 **5.00**  ·  David Strelec - 3 **4.33**  ·  Will Lankshear - 3 **3.25**  ·  Leo Castledine - 3 **9.00**  ·  Kyle Joseph - 3 **4.50**  ·  Jeremy Sarmiento - 3 **7.00**  ·  Myles Peart-Harris - 3 **8.00**  ·  Max Arfsten - 3 **19.00**  ·  Riley McGree - 3 **9.00**  ·  Sebastian Berhalter - 3 **13.00**  ·  Aidan Morris - 3 **13.00**  ·  Tommy Conway - 4 **13.00**  ·  David Strelec - 4 **11.00**  ·  Will Lankshear - 4 **7.00**  ·  Leo Castledine - 4 **21.00**  ·  Kyle Joseph - 4 **13.00**  ·  Jeremy Sarmiento - 4 **21.00**  ·  Myles Peart-Harris - 4 **21.00**  ·  Riley McGree - 4 **21.00**  ·  David Strelec - 5 **21.00**  ·  Will Lankshear - 5 **17.00**  ·  Amario Cozier-Duberry - 1 **1.22**  ·  Amario Cozier-Duberry - 2 **2.00**  ·  Amario Cozier-Duberry - 3 **4.33**  ·  Amario Cozier-Duberry - 4 **11.00**  ·  Amario Cozier-Duberry - 5 **21.00**  ·  Connor Barron - 1 **2.62**  ·  Connor Barron - 2 **11.00**  ·  Sam Byram - 1 **3.25**  ·  Sam Byram - 2 **17.00**
+- **Away Player Shots On Target Total:** David Strelec **11.00**  ·  Max Arfsten **34.00**  ·  Jeremy Sarmiento **13.00**  ·  Leo Castledine **11.00**  ·  Harvey Knibbs **34.00**  ·  Tyler Bindon **29.00**  ·  Charlie Kelman **15.00**  ·  Sebastian Berhalter **34.00**  ·  Riley McGree **26.00**  ·  Timothy Ouma **41.00**  ·  Collins Sichenje **21.00**  ·  Junior Nkeng **67.00**  ·  Aidan Morris **26.00**  ·  Karlan Ahearne-Grant **29.00**  ·  Tommy Conway **5.50**  ·  Luke Ayling **17.00**  ·  Neto Borges **51.00**  ·  Millenic Alli **34.00**  ·  Ashley Phillips **8.00**  ·  Joe Rankin-Costello **34.00**  ·  Amario Cozier-Duberry **19.00**  ·  Callum Brittain **51.00**  ·  Sam Byram **26.00**  ·  Danny McNamara **201.00**  ·  Nathaniel Chalobah **41.00**  ·  Amari'i Bell **151.00**  ·  Kyle Joseph **11.00**  ·  Matt Godden **23.00**  ·  Miles Leaburn **15.00**  ·  Robert Apter **34.00**  ·  Sonny Carey **26.00**  ·  Tyreece Campbell **29.00**  ·  Conor Coventry **151.00**  ·  Josh Edwards **41.00**  ·  Lloyd Jones **19.00**  ·  Kayne Ramsay **81.00**  ·  Ivan Mesik **17.00**  ·  Connor Barron **41.00**  ·  Billy Koumetio **15.00**  ·  Adilson Malanda **11.00**  ·  Micah Mbick **34.00**  ·  Oliver Skipp **101.00**  ·  Will Lankshear **5.00**  ·  George Edmundson **19.00**
+- **Home Player Shots:** Tommy Conway - 1 **1.01**  ·  David Strelec - 1 **1.01**  ·  Leo Castledine - 1 **1.05**  ·  Kyle Joseph - 1 **1.02**  ·  Jeremy Sarmiento - 1 **1.04**  ·  Myles Peart-Harris - 1 **1.04**  ·  Max Arfsten - 1 **1.14**  ·  Riley McGree - 1 **1.05**  ·  Sebastian Berhalter - 1 **1.08**  ·  Neto Borges - 1 **1.40**  ·  Aidan Morris - 1 **1.08**  ·  Luke Ayling - 1 **1.25**  ·  Callum Brittain - 1 **1.40**  ·  George Edmundson - 1 **1.57**  ·  Adilson Malanda - 1 **1.57**  ·  Ashley Phillips - 1 **1.40**  ·  Tommy Conway - 2 **1.10**  ·  David Strelec - 2 **1.11**  ·  Will Lankshear - 2 **1.05**  ·  Leo Castledine - 2 **1.25**  ·  Kyle Joseph - 2 **1.12**  ·  Jeremy Sarmiento - 2 **1.20**  ·  Myles Peart-Harris - 2 **1.22**  ·  Max Arfsten - 2 **1.62**  ·  Riley McGree - 2 **1.25**  ·  Sebastian Berhalter - 2 **1.40**  ·  Neto Borges - 2 **2.62**  ·  Aidan Morris - 2 **1.40**  ·  Luke Ayling - 2 **2.10**  ·  Callum Brittain - 2 **2.62**  ·  George Edmundson - 2 **3.50**  ·  Adilson Malanda - 2 **3.50**  ·  Ashley Phillips - 2 **2.62**  ·  Tommy Conway - 3 **1.33**  ·  David Strelec - 3 **1.33**  ·  Will Lankshear - 3 **1.18**  ·  Leo Castledine - 3 **1.73**  ·  Kyle Joseph - 3 **1.40**  ·  Jeremy Sarmiento - 3 **1.62**  ·  Myles Peart-Harris - 3 **1.67**  ·  Max Arfsten - 3 **2.75**  ·  Riley McGree - 3 **1.73**  ·  Sebastian Berhalter - 3 **2.20**  ·  Neto Borges - 3 **6.00**  ·  Aidan Morris - 3 **2.20**  ·  Luke Ayling - 3 **4.33**  ·  Callum Brittain - 3 **6.00**  ·  George Edmundson - 3 **10.00**  ·  Adilson Malanda - 3 **10.00**  ·  Ashley Phillips - 3 **6.00**  ·  Tommy Conway - 4 **1.80**  ·  David Strelec - 4 **1.83**  ·  Will Lankshear - 4 **1.50**  ·  Leo Castledine - 4 **2.75**  ·  Kyle Joseph - 4 **1.91**  ·  Jeremy Sarmiento - 4 **2.50**  ·  Myles Peart-Harris - 4 **2.62**  ·  Max Arfsten - 4 **5.50**  ·  Riley McGree - 4 **2.75**  ·  Sebastian Berhalter - 4 **3.75**  ·  Neto Borges - 4 **15.00**  ·  Aidan Morris - 4 **3.75**  ·  Luke Ayling - 4 **10.00**  ·  Callum Brittain - 4 **15.00**  ·  Tommy Conway - 5 **2.62**  ·  David Strelec - 5 **2.75**  ·  Will Lankshear - 5 **2.00**  ·  Leo Castledine - 5 **5.00**  ·  Kyle Joseph - 5 **3.00**  ·  Jeremy Sarmiento - 5 **4.00**  ·  Myles Peart-Harris - 5 **4.50**  ·  Max Arfsten - 5 **13.00**  ·  Riley McGree - 5 **5.00**  ·  Sebastian Berhalter - 5 **8.00**  ·  Aidan Morris - 5 **8.00**  ·  Tommy Conway - 6 **4.33**  ·  David Strelec - 6 **4.50**  ·  Will Lankshear - 6 **3.00**  ·  Leo Castledine - 6 **10.00**  ·  Kyle Joseph - 6 **5.00**  ·  Jeremy Sarmiento - 6 **8.00**  ·  Myles Peart-Harris - 6 **9.00**  ·  Max Arfsten - 6 **21.00**  ·  Riley McGree - 6 **10.00**  ·  Tommy Conway - 7 **8.00**  ·  David Strelec - 7 **8.00**  ·  Will Lankshear - 7 **4.50**  ·  Leo Castledine - 7 **19.00**  ·  Kyle Joseph - 7 **10.00**  ·  Tommy Conway - 8 **15.00**  ·  David Strelec - 8 **15.00**  ·  Will Lankshear - 8 **8.00**  ·  Tommy Conway - 9 **21.00**  ·  Amario Cozier-Duberry - 1 **1.01**  ·  Amario Cozier-Duberry - 2 **1.11**  ·  Amario Cozier-Duberry - 3 **1.33**  ·  Amario Cozier-Duberry - 4 **1.83**  ·  Amario Cozier-Duberry - 5 **2.75**  ·  Amario Cozier-Duberry - 6 **4.50**  ·  Connor Barron - 1 **1.40**  ·  Connor Barron - 2 **2.62**  ·  Connor Barron - 3 **6.00**  ·  Connor Barron - 4 **15.00**  ·  Sebastian Berhalter - 6 **15.00**  ·  Jeremy Sarmiento - 7 **15.00**  ·  Myles Peart-Harris - 7 **17.00**  ·  Kyle Joseph - 8 **17.00**  ·  Sam Byram - 1 **1.57**  ·  Sam Byram - 2 **3.50**  ·  Sam Byram - 3 **10.00**  ·  Amario Cozier-Duberry - 7 **8.00**  ·  Sam Byram - 4 **21.00**  ·  Adilson Malanda - 4 **21.00**  ·  Luke Ayling - 5 **21.00**  ·  Aidan Morris - 6 **15.00**  ·  David Strelec - 9 **21.00**  ·  George Edmundson - 4 **21.00**  ·  Riley McGree - 7 **19.00**  ·  Will Lankshear - 9 **15.00**  ·  Amario Cozier-Duberry - 8 **15.00**  ·  Ashley Phillips - 4 **15.00**  ·  Jeremy Sarmiento - 8 **21.00**  ·  Amario Cozier-Duberry - 9 **21.00**  ·  Will Lankshear - 10 **21.00**
+- **Away Player Shots:** Sonny Carey - 1 **1.25**  ·  Charlie Kelman - 1 **1.14**  ·  Matt Godden - 1 **1.18**  ·  Miles Leaburn - 1 **1.18**  ·  Karlan Ahearne-Grant - 1 **1.11**  ·  Millenic Alli - 1 **1.25**  ·  Harvey Knibbs - 1 **1.33**  ·  Micah Mbick - 1 **1.40**  ·  Tyreece Campbell - 1 **1.14**  ·  Joe Rankin-Costello - 1 **1.44**  ·  Robert Apter - 1 **1.50**  ·  Timothy Ouma - 1 **2.25**  ·  Billy Koumetio - 1 **1.67**  ·  Lloyd Jones - 1 **1.80**  ·  Nathaniel Chalobah - 1 **2.38**  ·  Collins Sichenje - 1 **2.38**  ·  Conor Coventry - 1 **2.38**  ·  Ivan Mesik - 1 **2.25**  ·  Kayne Ramsay - 1 **2.38**  ·  Danny McNamara - 1 **3.00**  ·  Josh Edwards - 1 **2.38**  ·  Amari'i Bell - 1 **3.00**  ·  Sonny Carey - 2 **2.10**  ·  Charlie Kelman - 2 **1.62**  ·  Matt Godden - 2 **1.80**  ·  Miles Leaburn - 2 **1.80**  ·  Karlan Ahearne-Grant - 2 **1.50**  ·  Millenic Alli - 2 **2.00**  ·  Harvey Knibbs - 2 **2.38**  ·  Micah Mbick - 2 **2.62**  ·  Tyreece Campbell - 2 **1.67**  ·  Joe Rankin-Costello - 2 **3.00**  ·  Robert Apter - 2 **3.25**  ·  Timothy Ouma - 2 **8.00**  ·  Billy Koumetio - 2 **4.00**  ·  Lloyd Jones - 2 **4.33**  ·  Nathaniel Chalobah - 2 **8.00**  ·  Collins Sichenje - 2 **8.00**  ·  Conor Coventry - 2 **8.00**  ·  Ivan Mesik - 2 **8.00**  ·  Kayne Ramsay - 2 **8.00**  ·  Danny McNamara - 2 **11.00**  ·  Josh Edwards - 2 **8.00**  ·  Amari'i Bell - 2 **11.00**  ·  Sonny Carey - 3 **4.33**  ·  Charlie Kelman - 3 **2.75**  ·  Matt Godden - 3 **3.40**  ·  Miles Leaburn - 3 **3.40**  ·  Karlan Ahearne-Grant - 3 **2.50**  ·  Millenic Alli - 3 **4.00**  ·  Harvey Knibbs - 3 **5.50**  ·  Micah Mbick - 3 **6.00**  ·  Tyreece Campbell - 3 **2.75**  ·  Joe Rankin-Costello - 3 **7.00**  ·  Robert Apter - 3 **8.00**  ·  Timothy Ouma - 3 **21.00**  ·  Billy Koumetio - 3 **11.00**  ·  Lloyd Jones - 3 **13.00**  ·  Nathaniel Chalobah - 3 **21.00**  ·  Collins Sichenje - 3 **21.00**  ·  Conor Coventry - 3 **21.00**  ·  Ivan Mesik - 3 **21.00**  ·  Kayne Ramsay - 3 **21.00**  ·  Josh Edwards - 3 **21.00**  ·  Sonny Carey - 4 **10.00**  ·  Charlie Kelman - 4 **5.50**  ·  Matt Godden - 4 **7.00**  ·  Miles Leaburn - 4 **7.00**  ·  Karlan Ahearne-Grant - 4 **4.50**  ·  Millenic Alli - 4 **10.00**  ·  Harvey Knibbs - 4 **13.00**  ·  Micah Mbick - 4 **15.00**  ·  Tyreece Campbell - 4 **5.50**  ·  Joe Rankin-Costello - 4 **19.00**  ·  Robert Apter - 4 **21.00**  ·  Billy Koumetio - 4 **21.00**  ·  Sonny Carey - 5 **21.00**  ·  Charlie Kelman - 5 **13.00**  ·  Matt Godden - 5 **15.00**  ·  Miles Leaburn - 5 **15.00**  ·  Karlan Ahearne-Grant - 5 **10.00**  ·  Millenic Alli - 5 **21.00**  ·  Harvey Knibbs - 5 **21.00**  ·  Micah Mbick - 5 **21.00**  ·  Tyreece Campbell - 5 **13.00**  ·  Charlie Kelman - 6 **21.00**  ·  Matt Godden - 6 **21.00**  ·  Karlan Ahearne-Grant - 6 **19.00**  ·  Tyreece Campbell - 6 **21.00**  ·  Tyler Bindon - 1 **2.38**  ·  Tyler Bindon - 2 **8.00**  ·  Junior Nkeng - 2 **3.50**  ·  Junior Nkeng - 1 **1.57**  ·  Oliver Skipp - 1 **2.25**  ·  Oliver Skipp - 2 **8.00**  ·  Junior Nkeng - 3 **10.00**  ·  Oliver Skipp - 3 **21.00**  ·  Tyler Bindon - 3 **21.00**  ·  Junior Nkeng - 4 **21.00**  ·  Alan Mwamba - 1 **1.73**  ·  Alan Mwamba - 2 **4.33**  ·  Alan Mwamba - 3 **13.00**
+- **Anytime Goal Scorer:** David Strelec **2.25**  ·  Max Arfsten **4.33**  ·  Jeremy Sarmiento **2.62**  ·  Leo Castledine **3.10**  ·  Harvey Knibbs **5.50**  ·  Tyler Bindon **17.00**  ·  Charlie Kelman **4.00**  ·  Sebastian Berhalter **4.00**  ·  Riley McGree **3.10**  ·  Timothy Ouma **13.00**  ·  Collins Sichenje **17.00**  ·  Junior Nkeng **8.50**  ·  Aidan Morris **4.00**  ·  Alan Mwamba **11.00**  ·  Karlan Ahearne-Grant **4.00**  ·  Tommy Conway **2.50**  ·  Luke Ayling **5.50**  ·  Neto Borges **7.50**  ·  Millenic Alli **5.50**  ·  Ashley Phillips **7.50**  ·  Joe Rankin-Costello **7.00**  ·  Amario Cozier-Duberry **2.10**  ·  Callum Brittain **7.50**  ·  Sam Byram **8.50**  ·  Danny McNamara **21.00**  ·  Nathaniel Chalobah **17.00**  ·  Amari'i Bell **21.00**  ·  Kyle Joseph **2.25**  ·  Matt Godden **4.33**  ·  Miles Leaburn **5.00**  ·  Robert Apter **8.50**  ·  Sonny Carey **5.50**  ·  Tyreece Campbell **4.33**  ·  Conor Coventry **17.00**  ·  Josh Edwards **17.00**  ·  Lloyd Jones **9.00**  ·  Kayne Ramsay **17.00**  ·  Ivan Mesik **13.00**  ·  Connor Barron **7.50**  ·  Billy Koumetio **11.00**  ·  Adilson Malanda **8.50**  ·  Micah Mbick **6.00**  ·  Oliver Skipp **11.00**  ·  Will Lankshear **1.67**  ·  Myles Peart-Harris **2.88**  ·  George Edmundson **8.50**
+- **Player to Score or Assist:** David Strelec **1.62**  ·  Max Arfsten **2.00**  ·  Jeremy Sarmiento **1.80**  ·  Leo Castledine **1.83**  ·  Harvey Knibbs **3.75**  ·  Tyler Bindon **11.00**  ·  Charlie Kelman **3.10**  ·  Sebastian Berhalter **1.91**  ·  Riley McGree **1.73**  ·  Timothy Ouma **6.50**  ·  Collins Sichenje **11.00**  ·  Junior Nkeng **4.75**  ·  Aidan Morris **2.20**  ·  Alan Mwamba **6.00**  ·  Karlan Ahearne-Grant **2.88**  ·  Tommy Conway **1.62**  ·  Luke Ayling **2.88**  ·  Neto Borges **3.40**  ·  Millenic Alli **3.75**  ·  Ashley Phillips **4.50**  ·  Joe Rankin-Costello **4.50**  ·  Amario Cozier-Duberry **1.44**  ·  Callum Brittain **2.60**  ·  Sam Byram **4.33**  ·  Danny McNamara **8.50**  ·  Nathaniel Chalobah **9.00**  ·  Amari'i Bell **12.00**  ·  Alfie Jones **5.00**  ·  Kyle Joseph **1.67**  ·  Matt Godden **3.75**  ·  Miles Leaburn **3.40**  ·  Robert Apter **4.00**  ·  Sonny Carey **4.00**  ·  Tyreece Campbell **3.10**  ·  Conor Coventry **6.50**  ·  Josh Edwards **5.50**  ·  Lloyd Jones **7.50**  ·  Kayne Ramsay **9.50**  ·  Ivan Mesik **6.50**  ·  Connor Barron **3.40**  ·  Billy Koumetio **6.00**  ·  Adilson Malanda **5.00**  ·  Micah Mbick **4.50**  ·  Rokas Pukstas **2.00**  ·  Oliver Skipp **6.50**  ·  Will Lankshear **1.40**  ·  Myles Peart-Harris **1.83**  ·  George Edmundson **5.50**
 
 ## Estadísticas de equipo
 | | Middlesbrough (total) | Middlesbrough en casa | Charlton (total) | Charlton fuera |
@@ -141,4 +192,43 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 2,63 · visitante 0,69 · córners esperados 10,2._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 8% | 10% | 9% | 9.50 | -18% |
+| 1X2: X | 14% | 17% | 15% | 5.50 | -16% |
+| 1X2: 1 | 79% | 74% | 76% | 1.25 | -5% |
+| Doble oportunidad: X2 | 21% | 26% | 24% | 3.75 | -12% |
+| Doble oportunidad: 12 | 86% | 84% | 85% | 1.14 | -3% |
+| Doble oportunidad: 1X | 92% | 90% | 91% | 1.07 | -2% |
+| Ambos marcan: No | 54% | 49% | 51% | 1.91 | -3% |
+| Ambos marcan: Sí | 46% | 51% | 49% | 1.80 | -12% |
+| Goles más/menos: Más de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles más/menos: Más de 3.5 | 42% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Más de 4.5 | 24% | 27% | 26% | 3.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 3.5 | 58% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Menos de 4.5 | 76% | 73% | 74% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 18% | 22% | 20% | 4.33 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Goles del local: Más de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles del local: Más de 2.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Más de 3.5 | 27% | 28% | 27% | 3.40 | -7% |
+| Goles del local: Menos de 1.5 | 26% | 27% | 26% | 3.50 | -7% |
+| Goles del local: Menos de 2.5 | 51% | 50% | 51% | 1.83 | -7% |
+| Goles del local: Menos de 3.5 | 73% | 72% | 73% | 1.30 | -6% |
+| Goles del visitante: Más de 0.5 | 50% | 56% | 53% | 1.67 | -12% |
+| Goles del visitante: Más de 1.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del visitante: Menos de 0.5 | 50% | 44% | 47% | 2.10 | -1% |
+| Goles del visitante: Menos de 1.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Córners más/menos: Más de 11.5 | 35% | 49% | 42% | 1.91 | -20% |
+| Córners más/menos: Menos de 11.5 | 65% | 51% | 58% | 1.80 | +5% |
+| 1X2 descanso: X | 33% | 32% | 32% | 2.88 | -6% |
+| 1X2 descanso: 1 | 58% | 56% | 57% | 1.67 | -5% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
