@@ -60,7 +60,7 @@ tr+tr td{border-top:1px solid var(--line)}
 .fG{background:#1f9d4c;color:#fff}.fE{background:#a8b8ad;color:#0f2e1a}.fP{background:var(--ko);color:#fff}
 .bar{height:9px;border-radius:5px;background:var(--card2);overflow:hidden}.bar>div{height:100%;background:var(--ok);border-radius:5px}
 .btn{border:0;background:var(--warn);color:var(--txt);font:700 14px var(--f);border-radius:10px;padding:8px 14px;text-transform:uppercase}
-.btn2{border:0;background:var(--card2);color:var(--txt);font:700 13px var(--f);border-radius:10px;padding:7px 12px}
+.btn2{border:0;background:var(--card2);color:var(--txt);font:700 13px var(--f);border-radius:10px;padding:7px 12px;text-decoration:none;display:inline-block}
 header .btn2{background:rgba(255,255,255,.15);color:#fff}
 pre{white-space:pre-wrap;font:15px/1.45 var(--f);margin:8px 0;color:var(--txt);background:var(--card2);padding:10px;border-radius:8px}
 .steps{display:flex;gap:4px;margin:8px 0}.steps div{flex:1;height:10px;border-radius:3px;background:var(--card2)}
@@ -299,13 +299,19 @@ function vContenido(){
   const [modo, t] = subTabs("cmodo", [["ideas","💡 Ideas"],["calendario","🗓️ Calendario"],["muro","💚 Muro de verdes"],["archivo","🗂️ Archivo"]], "ideas");
   let h = t;
   const post = (p, extra="") => `<div class="card"><div class="row"><b class="sp">${esc(p.titulo||p.texto)}</b>${p.resultado?chipEstado(p.resultado):""}</div><div class="mut">${diaTxt(p.fecha.slice(0,10))} · ${p.fecha.slice(11,16)}${p.cuota?" · cuota "+n2(p.cuota):""}${p.redes&&p.redes.length?" · "+p.redes.join(", "):""}</div>${extra}</div>`;
-  const conTexto = (p, i, pre) => post(p, `<details><summary class="mut" style="margin-top:6px">Ver texto</summary><pre>${esc(p.texto)}</pre></details><div class="row" style="margin-top:8px"><button class="btn2" onclick="copiar(window.${pre}[${i}].texto)">Copiar texto</button></div>`);
+  const conTexto = (p, i, pre, extra="") => post(p, `<details><summary class="mut" style="margin-top:6px">Ver texto</summary><pre>${esc(p.texto)}</pre></details><div class="row" style="margin-top:8px"><button class="btn2" onclick="copiar(window.${pre}[${i}].texto)">Copiar texto</button></div>${extra}`);
   if(modo==="ideas"){
     window._ideas = D.ideas.map(i=>({texto:i.texto_post}));
     h += `<div class="mut" style="margin:0 4px 10px">Los picks más vendibles de hoy y mañana que aún no han salido en combis, con el texto listo.</div>` + (D.ideas.length ? D.ideas.map((i,k) => `<div class="card"><div class="row"><b class="sp">${esc(i.texto)}</b><span class="cuota">${n2(i.cuota)}</span></div><div class="mut">${diaTxt(i.dia)} · ${esc(i.partido)} · ${i.fecha.slice(11)} · se cumplió ${i.frecuencia}%</div><pre>${esc(i.texto_post)}</pre><button class="btn" onclick="copiar(window._ideas[${k}].texto)">Copiar post</button></div>`).join("") : `<div class="empty">Sin ideas ahora mismo</div>`);
   } else if(modo==="calendario"){
     window._cal = D.calendario;
-    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id]; return (r&&r.length?`<div class="card" style="border-left:5px solid var(--live);margin-bottom:-4px"><b>🔎 El bot ha visto esto:</b>${r.map(x=>`<div class="mut">• ${esc(x)}</div>`).join("")}</div>`:"") + conTexto(p,i,"_cal") }).join("") : `<div class="empty">Nada programado</div>`;
+    const BOTL = "https://t.me/combilocas_publica_bot?start=";
+    const acciones = p => `<div class="row" style="gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--linea,#e3e7e3)">`
+      + `<span class="mut sp">${p.cancelado?`<span class="chip rojo">Cancelado</span>`:`<span class="chip verde">Saldrá ${esc(p.fecha.slice(11,16))}</span>`}${p.cambiado?` <span class="chip">Texto cambiado</span>`:""} ${esc((p.destinos||[]).join(" · "))}</span>`
+      + (p.cancelado ? `<a class="btn2" href="${BOTL}r_${p.codigo}" target="_blank" rel="noopener">↩️ Recuperar</a>`
+                     : `<a class="btn2" href="${BOTL}e_${p.codigo}" target="_blank" rel="noopener">✏️ Cambiar</a><a class="btn2" href="${BOTL}c_${p.codigo}" target="_blank" rel="noopener">❌ Cancelar</a>`)
+      + `</div>`;
+    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id]; return (r&&r.length?`<div class="card" style="border-left:5px solid var(--live);margin-bottom:-4px"><b>🔎 El bot ha visto esto:</b>${r.map(x=>`<div class="mut">• ${esc(x)}</div>`).join("")}</div>`:"") + conTexto(p,i,"_cal",acciones(p)) }).join("") : `<div class="empty">Nada programado</div>`;
   } else if(modo==="muro"){
     window._muro = D.muro;
     h += `<div class="mut" style="margin:0 4px 10px">Los mejores aciertos de los últimos 7 días, de mayor a menor cuota. Listos para captura.</div>` + (D.muro.length ? D.muro.map((p,i)=>`<div class="card" style="border-left:5px solid var(--ok)"><div class="row"><span style="font-size:22px">💚</span><div class="col sp"><b>${esc(p.titulo)}</b><span class="mut">${p.partido?esc(p.partido)+" · ":""}${diaTxt(p.fecha.slice(0,10))}${p.marcador?" · "+p.marcador:""}</span></div><span class="cuota big" style="font-size:20px">${n2(p.cuota)}</span></div>${p.pick?"":`<details><summary class="mut" style="margin-top:6px">Ver post</summary><pre>${esc(p.texto)}</pre></details>`}<button class="btn2" style="margin-top:8px" onclick="copiar('✅💚 VERDE 💚✅\\n\\n'+window._muro[${i}].texto)">Copiar</button></div>`).join("") : `<div class="empty">Esta semana aún no hay verdes registrados. Se van llenando según el bot corrige los partidos.</div>`);
@@ -386,6 +392,18 @@ function vBot(){
   const B = D.bot, r = B.redes||{};
   const diasCad = Math.ceil((new Date(B.claves_caducan+"T00:00") - Date.now())/864e5);
   let h = `<div class="card"><div class="row"><span style="font-size:26px">${B.pausa?"⏸️":B.errores.length?"⚠️":"✅"}</span><div class="col sp"><b>${B.pausa?"Publicaciones en pausa":B.errores.length?"Funcionando, con algún fallo":"Todo funcionando"}</b><span class="mut">${B.pausa?"Escribe /reanudar al bot de Telegram":"Datos de "+D.generado.slice(11)}</span></div></div></div>`;
+  const BOTL = "https://t.me/combilocas_publica_bot?start=";
+  h += `<div class="row" style="gap:8px;margin:10px 0">${B.pausa?`<a class="btn2" href="${BOTL}reanudar" target="_blank" rel="noopener">▶️ Reanudar publicaciones</a>`:`<a class="btn2" href="${BOTL}pausa" target="_blank" rel="noopener">⏸️ Pausar todo</a>`}</div>`;
+  const M = B.modelo;
+  if(M){
+    const pc = x => Math.round((x||0)*100)+"%";
+    h += `<h2>🧠 Lo que ha aprendido</h2><div class="card"><div class="leg"><span class="sp">Aciertos reales de sus picks</span><b>${M.aciertos}/${M.picks} · ${pc(M.aciertos/M.picks)}</b></div><div class="leg"><span class="sp">Lo que prometían las estadísticas</span><span>${pc(M.prometido)}</span></div><div class="leg"><span class="sp">Lo que decía la cuota</span><span>${pc(M.cuota)}</span></div><div class="leg"><span class="sp">Cuánto se fía de la estadística</span><span>${pc(M.peso)}</span></div>`
+      + (M.castigos.length?`<div class="mut" style="margin-top:8px">⬇️ Castiga: ${M.castigos.map(c=>`${esc(c.que)} (${Math.round(c.ajuste*100)} pts)`).join(" · ")}</div>`:"")
+      + (M.premios.length?`<div class="mut">⬆️ Premia: ${M.premios.map(c=>`${esc(c.que)} (+${Math.round(c.ajuste*100)} pts)`).join(" · ")}</div>`:"") + `</div>`;
+  }
+  const E = Object.entries(B.estilos||{}).sort((a,b)=>b[1].nota-a[1].nota);
+  if(E.length) h += `<h2>🎨 Estilos de post</h2><div class="card">${E.map(([k,v])=>`<div class="leg"><span class="sp">${esc(k.replace("combi-","").replace(/[-_]/g," "))}</span><span class="mut">${v.verdes}/${v.resultados} verdes · ${v.posts_threads} en Threads</span><span class="chip ${v.nota>=1.05?"verde":v.nota<=0.95?"rojo":""}">${v.nota.toFixed(2)}</span></div>`).join("")}<div class="mut" style="margin-top:6px">Nota 1 = normal. Cada día salen los 2 estilos opcionales con más nota.</div></div>`;
+  if(B.comunidad) h += `<h2>🏆 Concurso de seguidores</h2><div class="card"><div class="leg"><span class="sp">Participantes esta semana</span><b>${B.comunidad.participantes}</b></div><div class="leg"><span class="sp">Picks enviados</span><b>${B.comunidad.picks}</b></div></div>`;
   h += `<h2>Conexiones</h2><div class="card">${["instagram","threads","facebook"].map(k=>{const v=r[k]||"—";const ok=String(v).startsWith("OK");return `<div class="leg"><span class="sp">${NOMBRE_RED[k]}</span><span class="chip ${ok?"verde":"rojo"}">${ok?"Conectado":"Revisar"}</span></div>`}).join("")}<div class="leg"><span class="sp">Claves de Meta caducan</span><span class="chip ${diasCad<15?"warn":""}">en ${diasCad} días</span></div><div class="leg"><span class="sp">Picks generados</span><span class="mut">${esc((B.picks_generados||"").replace("T"," ").slice(0,16))}</span></div></div>`;
   h += `<h2>Incidencias de publicación</h2>` + (B.errores.length ? B.errores.slice().reverse().map(e=>`<div class="card"><div class="row"><b class="sp">${esc(e.post)}</b><span class="chip rojo">${esc(e.red)}</span></div><div class="mut">${esc(e.fecha.replace("T"," "))} · ${esc(e.error)}</div><div class="mut" style="margin-top:8px">${esc(e.bloqueo||"Puedes solicitar otro intento en esta red.")}</div>${e.reintentable?`<a class="btn2" style="display:inline-block;margin-top:10px" href="https://t.me/combilocas_publica_bot?start=retry_${encodeURIComponent(e.clave)}" target="_blank" rel="noopener">Reintentar desde mi bot</a>`:""}</div>`).join("") : `<div class="empty">Sin fallos en los dos últimos días 👌</div>`);
   if((B.reintentos||[]).length) h += `<h2>Últimos reintentos</h2>`+B.reintentos.slice().reverse().map(r=>`<div class="card"><b>${esc(r.resultado)}</b><div class="mut">${esc(r.red||"")} · ${esc(r.post||"")}</div><div class="mut">${esc(r.fecha.slice(0,16).replace("T"," "))}</div></div>`).join("");

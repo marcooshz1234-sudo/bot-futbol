@@ -234,6 +234,32 @@ class Asistente:
                         return self.enviar(f"Reintentar en {red}: {p['texto'].splitlines()[0]}\n\nSolo se intentará esta red; se conservarán los envíos ya confirmados.",
                                            [[("Reintentar", f"retry|{clave}"), ("Cancelar", "ok_no")]])
             return self.enviar("Incidencia no encontrada. Actualiza el panel.")
+        if orden == "/start" and len(partes) == 2 and partes[1] in ("pausa", "reanudar"):   # botones de la app
+            return self.cmd("/" + partes[1])
+        if orden == "/start" and len(partes) == 2 and partes[1][:2] in ("c_", "r_", "e_"):
+            import hashlib
+            accion, codigo = partes[1][:1], partes[1][2:]
+            p = next((x for x in self.programados() if hashlib.sha1(x["id"].encode()).hexdigest()[:16] == codigo), None)
+            if not p:
+                return self.enviar("No encuentro ese post (puede que ya haya salido). Actualiza la app.")
+            c = self.control()
+            titulo = p["texto"].strip().splitlines()[0][:60]
+            if accion == "c":
+                if p["id"] not in c["cancelados"]:
+                    c["cancelados"].append(p["id"])
+                    escribir(CONTROL, c)
+                    guardar(f"cancelado desde la app {p['id']}")
+                return self.enviar(f"❌ Cancelado: «{titulo}» ({p['fecha'][11:16]}). No saldrá.",
+                                   [[("↩️ Recuperarlo", f"recuperar|{p['id']}")]])
+            if accion == "r":
+                c["cancelados"] = [x for x in c["cancelados"] if x != p["id"]]
+                escribir(CONTROL, c)
+                guardar(f"recuperado desde la app {p['id']}")
+                return self.enviar(f"↩️ Recuperado: «{titulo}» saldrá a las {p['fecha'][11:16]}.")
+            self.esperando = ("cambiar", p["id"])
+            actual = c["textos"].get(p["id"], p["texto"])
+            return self.enviar(f"✏️ Así está ahora «{titulo}» ({p['fecha'][11:16]}):\n\n{actual}\n\n"
+                               "Mándame el texto nuevo completo (el aviso de +18 lo pongo yo).")
         if orden in ("/start", "/ayuda"):
             return self.enviar(__doc__.split("Comandos:")[1].split("Lo que decides")[0].strip())
         if orden == "/hoy":
@@ -301,6 +327,11 @@ class Asistente:
             return self.enviar(resultado)
         if accion == "ok":
             return self.enviar("👍 Saldrá a su hora.")
+        if accion == "recuperar":
+            c["cancelados"] = [x for x in c["cancelados"] if x != resto[0]]
+            escribir(CONTROL, c)
+            guardar(f"recuperado {resto[0]}")
+            return self.enviar("↩️ Recuperado, saldrá a su hora.")
         if accion == "cancelar":
             c["cancelados"].append(resto[0])
             escribir(CONTROL, c)

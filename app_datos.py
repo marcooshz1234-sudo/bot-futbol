@@ -8,6 +8,7 @@ publicaciones (calendario, archivo, muro de verdes, ideas) y estado del bot.
 Se ejecuta tras plantillas.py y en el bucle de Telegram cada ~10 min. No usa la API.
 """
 
+import hashlib
 import json
 import re
 from collections import defaultdict
@@ -25,6 +26,27 @@ CUOTAS_INICIO = DATOS / "cuotas_inicio.json"
 LIGAS = [140, 39, 135, 78, 61]
 FT = {"FT", "AET", "PEN"}
 EN_JUEGO = {"1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT"}
+
+
+def resumen_modelo():
+    """Lo que el bot ha aprendido (aprender.py), para el panel."""
+    ap = leer(DATOS / "aprendizaje.json", {}) or {}
+    if not ap:
+        return None
+    filas = [(k, v) for t in ("tipos", "ligas") for k, v in (ap.get(t) or {}).items() if v.get("n", 0) >= 3]
+    return {"aciertos": ap.get("aciertos"), "picks": ap.get("picks_usados"), "prometido": ap.get("prometido_medio"),
+            "cuota": ap.get("implicita_media"), "peso": ap.get("w_frecuencia"), "generado": ap.get("generado"),
+            "castigos": [{"que": k, "ajuste": v["ajuste"], "n": v["n"]} for k, v in sorted(filas, key=lambda x: x[1]["ajuste"])[:5]
+                         if v["ajuste"] < -0.01],
+            "premios": [{"que": k, "ajuste": v["ajuste"], "n": v["n"]} for k, v in sorted(filas, key=lambda x: -x[1]["ajuste"])[:3]
+                        if v["ajuste"] > 0.01]}
+
+
+def resumen_comunidad(ahora):
+    picks = leer(DATOS / "comunidad_picks.json", []) or []
+    lunes = (ahora - timedelta(days=ahora.weekday())).strftime("%Y-%m-%d")
+    sem = [p for p in picks if p["fecha"] >= lunes]
+    return {"participantes": len({p["uid"] for p in sem}), "picks": len(sem)}
 
 
 def datos_partido(fid):
@@ -537,7 +559,13 @@ def main():
             if not p.get("borrar"):
                 publicados.append(dict(base, resultado=resultado_post(p)))
         elif not p.get("caducada") and p["fecha"] >= ahora.strftime("%Y-%m-%dT%H:%M") and p["fecha"][:10] <= manana:
-            calendario.append(base)
+            # panel de control (26/10): código corto para los botones del bot y si está cancelado o cambiado
+            ctl = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+            calendario.append(dict(base, codigo=hashlib.sha1(p["id"].encode()).hexdigest()[:16],
+                                   cancelado=p["id"] in ctl.get("cancelados", []),
+                                   texto=(ctl.get("textos") or {}).get(p["id"], p["texto"]),
+                                   cambiado=p["id"] in (ctl.get("textos") or {}),
+                                   destinos=["Telegram"] + (["Threads", "Instagram"] if p.get("directo") else [])))
     publicados = publicados[-300:][::-1]
     semana = (ahora - timedelta(days=7)).strftime("%Y-%m-%d")
     muro = [p for p in publicados if p["resultado"] == "verde" and p["fecha"] >= semana]
@@ -621,7 +649,9 @@ def main():
            "claves_caducan": "2026-12-21", "errores": errores[-30:],
            "reintentos": list((leer(RAIZ / "publicaciones/reintentos_estado.json", {}) or {}).values())[-10:],
            "spam": (leer(DATOS / "moderacion.json", {}) or {}).get("quitados", [])[-10:][::-1],
-           "picks_generados": picks.get("generado")}
+           "picks_generados": picks.get("generado"),
+           "modelo": resumen_modelo(), "estilos": (leer(DATOS / "estilos.json", {}) or {}).get("estilos", {}),
+           "comunidad": resumen_comunidad(ahora)}
 
     resumenes_ruta = RAIZ / "docs/resumenes.json"
     resumenes = leer(resumenes_ruta, {}) or {}
