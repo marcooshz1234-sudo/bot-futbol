@@ -34,24 +34,28 @@ jobs:
           git config merge.cola.driver "python fusionar_cola.py %O %A %B"
           (sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null 2>&1; pip install -q playwright >/dev/null 2>&1 && python -m playwright install --with-deps chromium >/dev/null 2>&1) || echo "Sin Chromium: no se regeneran imágenes"
           timeout 240 python -u comprobar_redes.py || true
-          fin=$(( $(date +%s) + 55*60 ))
+          # 26/10: las tareas van por reloj, no por número de vuelta (con vueltas lentas el directo y la app
+          # solo se actualizaban una vez por ejecución) y se guarda cada 5 min como mucho
+          fin=$(( $(date +%s) + 50*60 ))
+          ult_5=0; ult_app=0; ult_10=0; ult_commit=$(date +%s)
           while [ "$(date +%s)" -lt "$fin" ]; do
+            ahora=$(date +%s)
             git pull --rebase --autostash -X theirs -q || git rebase --abort || true
-            timeout 240 python -u incidencias.py || echo "Fallo al revisar reintentos"
-            if [ $(( ${vuelta:-0} % 5 )) -eq 0 ]; then timeout 300 python -u cuotas_frescas.py || echo "Fallo en cuotas frescas"; timeout 300 python -u alineaciones_posts.py || echo "Fallo en alineaciones de posts"; fi
-            timeout 240 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
-            timeout 600 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
-            vuelta=$(( ${vuelta:-0} + 1 ))
-            if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u moderar.py || echo "Fallo en la moderación"; timeout 240 python -u estadisticas.py || echo "Fallo en estadísticas"; timeout 240 python -u avisos.py || echo "Fallo en avisos"; timeout 240 python -u revisor.py || echo "Fallo en revisor"; timeout 300 python -u threads_crecer.py || echo "Fallo en threads_crecer"; timeout 120 python -u comunidad.py || echo "Fallo en comunidad"; fi
-            if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u directo.py || echo "Fallo en directo"; fi; if [ $(( vuelta % 10 )) -eq 1 ]; then timeout 240 python -u app_datos.py || echo "Fallo en app"; timeout 300 python -u verdes_auto.py || echo "Fallo en verdes"; fi
+            timeout 180 python -u incidencias.py || echo "Fallo al revisar reintentos"
+            if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; timeout 240 python -u cuotas_frescas.py || echo "Fallo en cuotas frescas"; timeout 240 python -u alineaciones_posts.py || echo "Fallo en alineaciones de posts"; fi
+            timeout 180 python -u publicar_telegram.py || echo "Fallo al publicar (se reintenta en 1 min)"
+            timeout 420 python -u redes.py || echo "Fallo en redes (se reintenta en 1 min)"
+            if [ $(( $(date +%s) - ult_app )) -ge 360 ]; then ult_app=$(date +%s); timeout 180 python -u directo.py || echo "Fallo en directo"; timeout 180 python -u app_datos.py || echo "Fallo en app"; timeout 240 python -u verdes_auto.py || echo "Fallo en verdes"; fi
+            if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); timeout 180 python -u moderar.py || echo "Fallo en la moderación"; timeout 180 python -u estadisticas.py || echo "Fallo en estadísticas"; timeout 180 python -u avisos.py || echo "Fallo en avisos"; timeout 180 python -u revisor.py || echo "Fallo en revisor"; timeout 240 python -u threads_crecer.py || echo "Fallo en threads_crecer"; timeout 120 python -u comunidad.py || echo "Fallo en comunidad"; fi
             timeout 120 python -u resumen_dia.py || echo "Fallo en resumen"
             for ruta in publicaciones docs datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json datos/cuotas_frescas.json datos/revision_avisos.json datos/verdes_auto.json datos/threads_crecer.json datos/threads_vistas.json datos/alineaciones_posts.json datos/comunidad.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done
-            # se guarda al momento si cambia algo de los posts; lo demás (app, directo) cada 5 vueltas
-            if ! git diff --cached --quiet && { ! git diff --cached --quiet -- publicaciones || [ $(( vuelta % 5 )) -eq 0 ] || [ "$(date +%s)" -ge $(( fin - 90 )) ]; }; then
+            # se guarda al momento si cambia algo de los posts; lo demás (app, directo) cada 5 min
+            if ! git diff --cached --quiet && { ! git diff --cached --quiet -- publicaciones || [ $(( $(date +%s) - ult_commit )) -ge 300 ] || [ "$(date +%s)" -ge $(( fin - 90 )) ]; }; then
               git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
               for i in 1 2 3; do git pull --rebase -X theirs -q && git push -q && break; sleep 5; done
+              ult_commit=$(date +%s)
             fi
-            sleep 60
+            sleep 45
           done
           if ! git diff --cached --quiet; then
             git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
