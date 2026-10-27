@@ -13,6 +13,7 @@ import base64
 from datetime import datetime
 import html
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -193,8 +194,19 @@ def tarjeta(p, pagina):
     return out
 
 
+def sin_dinero(texto):
+    """27/10 (norma de Marcos): en las imágenes de Instagram nunca sale dinero. Se quitan «20,00€ → 38,40€»,
+    las líneas de 💶 y cualquier línea que siga llevando €. El texto del post (Telegram, Threads) no se toca."""
+    t = re.sub(r"\s*·?\s*\d+(?:[.,]\d+)?\s*€\s*→\s*\d+(?:[.,]\d+)?\s*€", "", texto)
+    t = re.sub(r"desde \d+(?:[.,]\d+)?\s*€", "desde el día 1", t)
+    t = "\n".join(re.sub(r":\s*$", "", l) for l in t.split("\n") if "€" not in l and not l.startswith("💶"))
+    return re.sub(r"\n{3,}", "\n\n", t).strip()
+
+
 def generar(p, pagina):
     MEDIA.mkdir(parents=True, exist_ok=True)
+    # Instagram: ni dinero ni la foto de un boleto de bet365
+    p = dict(p, texto=sin_dinero(p["texto"]), foto=None if "boleto" in p.get("id", "") else p.get("foto"))
     if p.get("tarjeta"):
         try:
             tarjeta(p, pagina)
