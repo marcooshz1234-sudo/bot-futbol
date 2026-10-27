@@ -270,9 +270,22 @@ class Asistente:
                     avisos = None
                 nota = ("" if avisos is None else "\n\n🟢 El bot no ve nada raro." if not avisos
                         else "\n\n⚠️ Ojo:\n" + "\n".join(f"• {a}" for a in avisos[:6]))
-                self.enviar(f"📝 Sale a las {cuando:%H:%M}:\n\n{texto}{nota}",
-                            [[("✅ Vale", f"ok|{p['id']}"), ("✏️ Cambiar", f"cambiar|{p['id']}"),
-                              ("❌ Cancelar", f"cancelar|{p['id']}")]])
+                botones = [[("✅ Vale", f"ok|{p['id']}"), ("✏️ Cambiar", f"cambiar|{p['id']}"),
+                            ("❌ Cancelar", f"cancelar|{p['id']}")]]
+                # 27/10 (Marcos): si el post lleva foto (combi de partido con los escudos, boleto…), el aviso
+                # también, para ver exactamente lo que va a salir
+                tarjeta = RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg"
+                foto = (RAIZ / p["foto"]) if isinstance(p.get("foto"), str) else (tarjeta if tarjeta.exists() else None)
+                aviso = f"📝 Sale a las {cuando:%H:%M}:\n\n{texto}{nota}"
+                if foto and foto.exists() and len(aviso) <= 1024:
+                    api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": aviso, "reply_markup": json.dumps(
+                        {"inline_keyboard": [[{"text": t, "callback_data": d} for t, d in fila] for fila in botones]})},
+                        archivo=foto)
+                else:
+                    if foto and foto.exists():
+                        api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": f"📝 Foto del post de las {cuando:%H:%M}"},
+                            archivo=foto)
+                    self.enviar(aviso, botones)
                 c["avisados"].append(p["id"])
                 cambios = True
         if cambios:

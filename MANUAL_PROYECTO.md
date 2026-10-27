@@ -367,7 +367,7 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 ### El bot del móvil (`@combilocas_publica_bot`)
 - Comandos: `/hoy`, `/picks`, `/manana`, `/combis`, `/editar`, `/borrar`, `/pausa`, `/reanudar`, `/ayuda`.
 - 60 min antes de cada post automático manda el borrador con ✅ Vale / ✏️ Cambiar / ❌ Cancelar
-  (si no contesta, sale tal cual).
+  (si no contesta, sale tal cual). Si el post lleva foto (combi de partido, boleto), el borrador va con la foto.
 - Si le manda texto o foto, pregunta si lo sube; si es captura de bet365 → flujo de boleto.
 - Si el bot se reinicia entre la foto y el botón, recupera la foto del propio chat; si no puede,
   dice «ese botón ya no vale, mándamelo otra vez». **Nunca se queda callado.**
