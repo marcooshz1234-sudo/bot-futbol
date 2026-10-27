@@ -6,6 +6,7 @@ Lo ya avisado se guarda en datos/avisos.json. Se ejecuta en el bucle cada ~10 mi
 """
 import json
 import os
+import re
 from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, RAIZ, leer
@@ -78,6 +79,26 @@ def main():
             hecho.add(k)
         except Exception as e:
             print("boletos:", e)
+    # 27/10: revisión de cuotas antes de publicar. Si la cuota que pone el texto no cuadra con la real de bet365
+    # (patas del mismo partido en «Crear apuesta»), aviso con tiempo para corregirla.
+    try:
+        import combis_dia
+        limite = (ahora + timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M")
+        for p in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or []):
+            if p.get("enviado") or p.get("caducada") or not (ahora.strftime("%Y-%m-%dT%H:%M") < p["fecha"] <= limite):
+                continue
+            real = combis_dia.cuota_real_sel(p.get("sel"), p.get("cuotas") or [])
+            m = re.search(r"(?:Cuota total aprox\.:|CUOTA|x)\s*(\d+,\d+)", p["texto"])
+            if not real or not m:
+                continue
+            pone = float(m.group(1).replace(",", "."))
+            k = f"cuota-{p['id']}-{pone}"
+            if abs(pone - real) / real > 0.10 and k not in hecho:
+                avisos.append((k, f"⚠️ Cuota que no cuadra ({p['fecha'][11:16]}):\n{p['texto'].splitlines()[0][:60]}\n"
+                                  f"{p['texto'].splitlines()[1][:60] if len(p['texto'].splitlines()) > 1 else ''}\n"
+                                  f"Pone {pone:.2f} y en bet365 saldría ~{real:.2f}. Díselo a Claude o cancélala."))
+    except Exception as e:
+        print("revisión de cuotas:", e)
     # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:

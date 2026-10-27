@@ -29,6 +29,7 @@ import subprocess
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from incidencias import solicitar, publicaciones, identificador, motivo_bloqueo
 
 from publicar_telegram import AUTOS, COLA, ENVIADOS, MADRID, RAIZ, api, preparar_texto
@@ -65,6 +66,9 @@ def guardar(mensaje):
         elif git("push", "-q").returncode == 0:
             return
         time.sleep(5)
+    # 27/10: nunca en silencio. El error llega al móvil («⚠️ Algo ha fallado: …») y el commit queda en local:
+    # actualizar() lo vuelve a intentar subir cada 2 minutos.
+    raise RuntimeError(f"no he podido guardar «{mensaje}» en el repositorio (lo reintento solo cada 2 min)")
 
 
 def guardar_archivos(rutas, mensaje):
@@ -86,6 +90,8 @@ def guardar_archivos(rutas, mensaje):
 def actualizar():
     if git("pull", "--rebase", "-q").returncode != 0:
         git("rebase", "--abort")
+    elif git("status", "-sb").stdout.find("ahead") >= 0:   # algo guardado que no llegó a subirse
+        git("push", "-q")
 
 
 def borrables():
@@ -190,8 +196,10 @@ class Asistente:
             {"command": "ayuda", "description": "Qué puedo hacer"}]})
 
     # ---------------------------------------------------------------- utilidades
-    def enviar(self, texto, botones=None):
+    def enviar(self, texto, botones=None, responder=None):
         d = {"chat_id": self.duenio, "text": texto[:4096], "link_preview_options": {"is_disabled": True}}
+        if responder:
+            d["reply_parameters"] = {"message_id": responder, "allow_sending_without_reply": True}
         if botones:
             d["reply_markup"] = {"inline_keyboard": [[{"text": t, "callback_data": c} for t, c in fila] for fila in botones]}
         return api(self.t, "sendMessage", d)
@@ -343,6 +351,28 @@ class Asistente:
         accion, *resto = q["data"].split("|")
         api(self.t, "answerCallbackQuery", {"callback_query_id": q["id"]})
         c = self.control()
+        # 27/10: si el bot se ha reiniciado entre tu foto y tu botón, la foto se recupera del mensaje al que
+        # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
+        orig = (q.get("message") or {}).get("reply_to_message") or {}
+        foto_orig = (orig.get("photo") or [{}])[-1].get("file_id")
+        if accion in ("subir", "boleto") and not self.borrador and (foto_orig or orig.get("text")):
+            self.borrador = {"texto": orig.get("caption") or orig.get("text") or "", "foto": foto_orig,
+                             "msg": orig.get("message_id")}
+        if accion in ("boleto_ok", "boleto_cuota") and not self.boleto and foto_orig:
+            import re
+            self.enviar("♻️ El bot se había reiniciado: recupero tu captura…")
+            try:
+                self.boleto, cuota = self.preparar_boleto(foto_orig, orig.get("message_id"))
+            except Exception as e:
+                return self.enviar(f"⚠️ No he podido recuperar la captura: {e}. Mándamela otra vez.")
+            m = re.search(r"CREAR APUESTA x(\d+,\d+)", (q.get("message") or {}).get("text", ""))
+            cuota = float(m.group(1).replace(",", ".")) if m else cuota
+            if accion == "boleto_ok":
+                if not cuota:
+                    self.esperando = ("cuota_boleto",)
+                    return self.enviar("¿Qué cuota total es? (por ejemplo 33,75)")
+                self.vista_boleto_texto(cuota)
+                return self.subir_boleto()
         if accion == "retry":
             resultado = solicitar(RAIZ, resto[0])
             guardar("solicitud de reintento")
@@ -404,12 +434,16 @@ class Asistente:
         if accion == "descartar":
             self.borrador = self.boleto = None
             return self.enviar("🗑️ Descartado.")
+        # nunca en silencio: si el botón no se ha podido atender, se dice
+        return self.enviar("⚠️ Ese botón ya no vale (el bot se ha reiniciado y no tengo lo que iba con él). "
+                           "Mándamelo otra vez.")
 
     # ---------------------------------------------------------------- boletos de bet365
-    def recortar_boleto(self):
+    def preparar_boleto(self, file_id, msg_id):
+        """Descarga la captura, la recorta y lee cuota y patas → (boleto, cuota). Sin mandar nada."""
         from urllib.request import urlopen
         import boleto_foto
-        info = api(self.t, "getFile", {"file_id": self.borrador["foto"]})["result"]
+        info = api(self.t, "getFile", {"file_id": file_id})["result"]
         origen = RAIZ / "publicaciones" / "fotos" / "_boleto_original.jpg"
         origen.parent.mkdir(parents=True, exist_ok=True)
         origen.write_bytes(urlopen(f"https://api.telegram.org/file/bot{self.t}/{info['file_path']}", timeout=60).read())
@@ -417,19 +451,25 @@ class Asistente:
         destino = RAIZ / "publicaciones" / "fotos" / f"{pid}.jpg"
         try:
             cuota = boleto_foto.recortar(origen, destino)   # la cuota sale de «Ganancias ÷ Imp» antes de recortar
-        except Exception as e:
-            return self.enviar(f"⚠️ No he podido recortarla: {e}")
         finally:
             origen.unlink(missing_ok=True)
-        self.boleto, self.borrador = {"id": pid, "foto": destino}, None
+        boleto = {"id": pid, "foto": destino, "msg": msg_id, "patas": []}
         try:   # 27/10: las patas, para seguir el boleto en la app (no se publican)
             from PIL import Image
             import boleto_patas
             actualizar()
-            self.boleto["patas"] = boleto_patas.leer_patas(Image.open(destino).convert("RGB"))
+            boleto["patas"] = boleto_patas.leer_patas(Image.open(destino).convert("RGB"))
         except Exception as e:
             print("patas:", e)
-            self.boleto["patas"] = []
+        return boleto, cuota
+
+    def recortar_boleto(self):
+        try:
+            self.boleto, cuota = self.preparar_boleto(self.borrador["foto"], self.borrador.get("msg"))
+        except Exception as e:
+            return self.enviar(f"⚠️ No he podido recortarla: {e}")
+        self.borrador = None
+        destino = self.boleto["foto"]
         api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": "✂️ Así queda recortada (sin importe ni ganancias)."},
             archivo=destino)
         if cuota:
@@ -437,16 +477,20 @@ class Asistente:
         self.esperando = ("cuota_boleto",)
         return self.enviar("No leo bien el importe y las ganancias. ¿Qué cuota total es? (por ejemplo 33,75)")
 
-    def vista_boleto(self, cuota):
+    def vista_boleto_texto(self, cuota):
         self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
                                 + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
+
+    def vista_boleto(self, cuota):
+        self.vista_boleto_texto(cuota)
         patas = self.boleto.get("patas") or []
         ok = [p for p in patas if p.get("sel")]
         seguir = (f"\n\n📋 Para la app (no se publica): leo {len(patas)} patas y sigo {len(ok)}."
                   + "".join(f"\n{'✅' if p.get('sel') else '❓'} {p['texto']}" for p in patas)) if patas else \
             "\n\n📋 No he podido leer las patas: en la app no saldrá este boleto."
         return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}{seguir}",
-                           [[("✅ Subir", "boleto_ok"), ("✏️ Otra cuota", "boleto_cuota"), ("🗑️ Descartar", "descartar")]])
+                           [[("✅ Subir", "boleto_ok"), ("✏️ Otra cuota", "boleto_cuota"), ("🗑️ Descartar", "descartar")]],
+                           responder=self.boleto.get("msg"))   # va pegado a tu captura: si el bot se reinicia, la recupera
 
     def subir_boleto(self):
         """27/10: lo publica el propio asistente en Telegram y Threads. Antes lo metía en cola.json y, si el
@@ -523,14 +567,49 @@ class Asistente:
         foto = (m.get("photo") or [{}])[-1].get("file_id")
         if not texto and not foto:
             return self.enviar("Mándame un texto o una foto con texto y te pregunto si lo subo.")
-        self.borrador = {"texto": texto, "foto": foto}
+        self.borrador = {"texto": texto, "foto": foto, "msg": m.get("message_id")}
         vista = preparar_texto(texto) if texto else "(solo foto)"
         botones = [[("✅ Publicar ya", "subir"), ("🗑️ Descartar", "descartar")]]
         if foto:   # 27/10: captura de un boleto de bet365 → se recorta el dinero y va a Telegram y Threads
             botones.insert(0, [("🎟️ Es un boleto de bet365 (recorto el dinero)", "boleto")])
-        return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones)
+        return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones, responder=m.get("message_id"))
 
     # ---------------------------------------------------------------- bucle
+    def vigilar(self):
+        """27/10: vigilante independiente del bucle de publicación (va en otro proceso, así avisa aunque el bucle
+        se pare). Avisa al móvil si el bucle lleva >15 min sin dar señales o si un post lleva >15 min de retraso."""
+        ahora = datetime.now(MADRID)
+        avisados = getattr(self, "_vigilados", set())
+        self._vigilados = avisados
+        log = RAIZ / "datos" / "bucle_log.txt"
+        if log.exists():
+            ult = log.read_text(encoding="utf-8").strip().splitlines()[-1:]
+            if ult:
+                h = datetime.strptime(ult[0][:8], "%H:%M:%S").time()
+                ultima = datetime.combine(datetime.now(ZoneInfo("UTC")).date(), h, ZoneInfo("UTC")).astimezone(MADRID)
+                if ultima > ahora + timedelta(minutes=5):
+                    ultima -= timedelta(days=1)
+                k = f"bucle-{ahora:%Y%m%d%H}"
+                # el log se sube cada 5 min (y al relevo entre tandas hay huecos de hasta ~25 min)
+                if ahora - ultima > timedelta(minutes=35) and k not in avisados:
+                    avisados.add(k)
+                    self.enviar(f"🚨 El bucle de publicación no da señales desde las {ultima:%H:%M}. "
+                                "Los posts programados no están saliendo: díselo a Claude.")
+        control = self.control()
+        enviados = leer(ENVIADOS, {})
+        desde = (ahora - timedelta(hours=6)).strftime("%Y-%m-%dT%H:%M")
+        tope = (ahora - timedelta(minutes=15)).strftime("%Y-%m-%dT%H:%M")
+        for p in leer(COLA, []) + [dict(x, **enviados.get(x["id"], {})) for r in AUTOS if r.exists() for x in leer(r, [])]:
+            if not (desde <= p["fecha"] <= tope) or p["id"] in control.get("cancelados", []) or control.get("pausa"):
+                continue
+            if p.get("enviado") or p.get("mensaje_id") or p.get("caducada") or p.get("solo_redes") or p.get("borrar"):
+                continue
+            k = f"retraso-{p['id']}"
+            if k not in avisados:
+                avisados.add(k)
+                self.enviar(f"🚨 No ha salido a su hora ({p['fecha'][11:16]}):\n{p['texto'].splitlines()[0][:80]}\n"
+                            "Díselo a Claude.")
+
     def escuchar(self):
         fin = datetime.now(MADRID) + DURACION
         offset, ultimo_pull = None, 0
@@ -542,6 +621,10 @@ class Asistente:
                     self.avisar_borradores()
                 except Exception as e:
                     print("aviso:", e)
+                try:
+                    self.vigilar()
+                except Exception as e:
+                    print("vigilar:", e)
             try:
                 r = api(self.t, "getUpdates", {"timeout": 50, "offset": offset,
                                                 "allowed_updates": ["message", "callback_query"]})

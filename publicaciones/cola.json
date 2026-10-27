@@ -791,7 +791,7 @@
     "directo": true,
     "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
     "forzar": true,
-    "caducada": true
+    "caducada": "quitada"
   },
   {
     "id": "2026-10-27-combi-torino-como",
@@ -888,7 +888,7 @@
     "directo": true,
     "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
     "forzar": true,
-    "caducada": true
+    "caducada": "quitada"
   },
   {
     "id": "2026-10-27-boleto-x33",

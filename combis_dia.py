@@ -245,6 +245,26 @@ def factor_crear(comb):
     return max(FACTOR_MIN, f)
 
 
+def cuota_real_sel(sel, cuotas):
+    """Cuota real en bet365 de una combi guardada como ['partido|mercado|opción'] + cuotas: por partido se aplica
+    el recorte de «Crear apuesta»; entre partidos distintos se multiplica tal cual. None si falta alguna cuota."""
+    if not sel or len(sel) != len(cuotas) or any(c is None for c in cuotas):
+        return None
+    patas = []
+    for s, c in zip(sel, cuotas):
+        pid, m, o = s.split("|", 2)
+        x = {"partido_id": pid, "mercado": m, "opcion": o, "cuota": float(c)}
+        if "Player" in m:
+            x.update(tipo="jugador", jugador=o.rsplit(" - ", 1)[0],
+                     campo="a_puerta" if "Target" in m else "faltas_c" if "Foul" in m else "tiros")
+        patas.append(x)
+    total = 1.0
+    for pid in {x["partido_id"] for x in patas}:
+        g = [x for x in patas if x["partido_id"] == pid]
+        total *= math.prod(x["cuota"] for x in g) * (factor_crear(g) if len(g) > 1 else 1)
+    return round(total, 2)
+
+
 def implica(a, b):
     """¿La pata a ya incluye a b? (si gana el Milan, ya ha ganado alguna parte: meter las dos es inflar la cuota)"""
     ma, oa, mb, ob = a["mercado"], str(a["opcion"]), b["mercado"], str(b["opcion"])

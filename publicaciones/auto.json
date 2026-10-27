@@ -203,7 +203,7 @@
   },
   {
     "id": "2026-10-28-combi-partido-1550173",
-    "fecha": "2026-10-28T16:10",
+    "fecha": "2026-10-28T16:40",
     "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 PARMA vs UDINESE 🇮🇹\n\n🎯 PARMA MARCA [x1.40]\n✅ UDINESE VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ UDINESE GANA ALGUNA DE LAS DOS PARTES [x1.80]\n✅ UDINESE HACE MÁS TIROS [x1.91]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-0\n💥 Cuota total aprox.: 7,00\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
@@ -233,7 +233,7 @@
   },
   {
     "id": "2026-10-28-combi-partido-1550167",
-    "fecha": "2026-10-28T16:40",
+    "fecha": "2026-10-28T17:10",
     "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs BOLOGNA 🇮🇹\n\n🎯 LEWIS FERGUSON COMETE 1+ FALTAS [x1.25]\n✅ BOLOGNA MARCA [x1.57]\n✅ BOLOGNA HACE MÁS DE 2,5 CÓRNERS [x1.62]\n✅ GANA EL AC MILAN [x1.62]\n✅ AC MILAN VE MÁS DE 1,5 TARJETAS [x1.67]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,49\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
@@ -261,38 +261,6 @@
       "logo_v": "https://media.api-sports.io/football/teams/500.png",
       "fecha": "2026-10-28T18:30",
       "liga": "Serie A"
-    }
-  },
-  {
-    "id": "2026-10-28-combi-partido-1640575",
-    "fecha": "2026-10-28T17:10",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 MANCHESTER CITY GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ BRIGHTON MARCA [x1.36]\n✅ BRIGHTON VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.67]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 7,40\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1640575|To Win Either Half|Home",
-      "1640575|Total - Away|Over 0.5",
-      "1640575|Away Team Total Cards|Over 1.5",
-      "1640575|Goals Over/Under - Second Half|Over 1.5",
-      "1640575|Total ShotOnGoal|Over 9.5"
-    ],
-    "cuotas": [
-      1.33,
-      1.36,
-      1.5,
-      1.67,
-      1.91
-    ],
-    "tarjeta": {
-      "local": "Manchester City",
-      "visitante": "Brighton",
-      "id_l": 50,
-      "id_v": 51,
-      "logo_l": "https://media.api-sports.io/football/teams/50.png",
-      "logo_v": "https://media.api-sports.io/football/teams/51.png",
-      "fecha": "2026-10-28T20:30",
-      "liga": "Carabao Cup"
     }
   },
   {
@@ -362,20 +330,20 @@
   {
     "id": "2026-10-28-combi-partido-1550171",
     "fecha": "2026-10-28T18:55",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.33]\n✅ JUVENTUS GANA ALGUNA DE LAS DOS PARTES [x1.40]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.53]\n✅ GENOA MARCA [x1.67]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 7,04\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 JUVENTUS GANA ALGUNA DE LAS DOS PARTES [x1.40]\n✅ JUVENTUS HACE MÁS TIROS A PUERTA [x1.33]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.53]\n✅ GENOA MARCA [x1.67]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 1-2 | 1-0\n💥 Cuota total aprox.: 7,90\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550171|Goals Over/Under|Over 1.5",
       "1550171|To Win Either Half|Away",
+      "1550171|ShotOnTarget 1x2|Away",
       "1550171|Home Team Total Cards|Over 1.5",
       "1550171|Total - Home|Over 0.5",
       "1550171|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.33,
       1.4,
+      1.33,
       1.53,
       1.67,
       1.73
@@ -684,38 +652,6 @@
     }
   },
   {
-    "id": "2026-10-31-combi-partido-1570435",
-    "fecha": "2026-10-31T17:10",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 REAL BETIS vs MALAGA 🇪🇸\n\n🎯 GANA EL REAL BETIS [x1.38]\n✅ MALAGA MARCA [x1.57]\n✅ MALAGA HACE MÁS DE 3,5 CÓRNERS [x1.73]\n✅ AMBOS MARCAN [x1.70]\n✅ MÁS DE 9,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,54\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570435|Match Winner|Home",
-      "1570435|Total - Away|Over 0.5",
-      "1570435|Away Corners Over/Under|Over 3.5",
-      "1570435|Both Teams Score|Yes",
-      "1570435|Corners Over Under|Over 9.5"
-    ],
-    "cuotas": [
-      1.38,
-      1.57,
-      1.73,
-      1.7,
-      1.67
-    ],
-    "tarjeta": {
-      "local": "Real Betis",
-      "visitante": "Malaga",
-      "id_l": 543,
-      "id_v": 535,
-      "logo_l": "https://media.api-sports.io/football/teams/543.png",
-      "logo_v": "https://media.api-sports.io/football/teams/535.png",
-      "fecha": "2026-10-31T18:30",
-      "liga": "LaLiga"
-    }
-  },
-  {
     "id": "2026-10-31-combi-partido-1575203",
     "fecha": "2026-10-31T17:30",
     "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 BAYERN MÜNCHEN vs BORUSSIA DORTMUND 🇩🇪\n\n🎯 MICHAEL OLISE: 2+ TIROS A PUERTA [x1.57]\n✅ BORUSSIA DORTMUND HACE MÁS DE 2,5 CÓRNERS [x1.80]\n✅ MÁS DE 3,5 GOLES [x1.62]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-2 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,30\n🟢 VERDE A VERDE 🟢",
@@ -898,7 +834,7 @@
   {
     "id": "2026-11-01-combi-partido-1552215",
     "fecha": "2026-11-01T15:45",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 GRONINGEN vs SPARTA ROTTERDAM 🇳🇱\n\n🎯 GRONINGEN MARCA 2 O MÁS [x1.50]\n✅ SPARTA ROTTERDAM HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ SPARTA ROTTERDAM O EMPATE [x2.10]\n✅ MÁS DE 1,5 GOLES EN LA 1ª PARTE [x2.00]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 8,56\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 GRONINGEN vs SPARTA ROTTERDAM 🇳🇱\n\n🎯 GRONINGEN MARCA 2 O MÁS [x1.50]\n✅ SPARTA ROTTERDAM HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ SPARTA ROTTERDAM O EMPATE [x2.10]\n✅ MÁS DE 1,5 GOLES EN LA 1ª PARTE [x2.00]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 7,61\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
