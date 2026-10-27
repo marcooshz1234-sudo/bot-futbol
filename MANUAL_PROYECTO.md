@@ -62,11 +62,12 @@ Gmail del proyecto de la guía (otro proyecto): soporte.tucanalconia@gmail.com.
 | **11:00** | 🪜 **Reto escalera** (cada día; si ese día no hay 2 picks fiables, no sale y espera al siguiente) | Todas |
 | **13:30** | 🔥 **Combi x3** (cuota 2,5–4, 2–4 patas de partidos distintos) | Todas |
 | **16:00** | 🤪 **La loca** (cuota 7–10, 4–7 patas de partidos distintos) | Todas |
-| **Kickoff − 50 min** | ✅ **COMBI LOCAS** de un partido (5–8 al día), con la foto-tarjeta del partido | Telegram, Threads (con foto), Instagram (reel + historia) |
+| **Kickoff − 50 min** | ✅ **COMBI LOCAS** de un partido (hasta 8 al día, los mejores partidos; menos si hay pocos), con la foto-tarjeta del partido | Telegram, Threads (con foto), Instagram (reel + historia) |
 | **23:00** | 🔥 **Picks para mañana** (lista de ✅ con bandera, sin horas) | Todas + historia de Instagram |
 | Al momento | ✅💚 **Verdes**: en cuanto una combi publicada sale verde, se publica sola | Todas |
-| Sábado 13:30 | 🧮 De 1 € a 500 € | Todas |
+| Sábado 13:30 | 🧮 De 1 € a 500 € (solo si el bot encuentra una; coincide en hora con la x3: pendiente de que Marcos decida otra hora) | Todas |
 | Lunes 10:00 / domingo 22:30 | 🏆 Concurso de picks de seguidores / ranking | Telegram |
+| 19:30–21:00 (diaria) | 📊 Encuesta «De la combi de hoy, ¿qué pata crees que falla?» sobre la loca (o la x3) publicada ese día | Telegram |
 | Cuando Marcos quiera | 🎟️ **Boleto de bet365** (captura recortada) | Telegram y Threads |
 
 Si dos combis de partido coinciden en hora, se separan 30 min hacia atrás.
@@ -161,7 +162,7 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 
 | Tipo | Telegram (canal) | Threads | Instagram | Facebook |
 |---|---|---|---|---|
-| Quién gana, x3, loca, picks, escalera, 500 | Texto | Texto | **Reel** del texto convertido en imagen (no foto suelta en el feed) | En pausa |
+| Quién gana, x3, loca, escalera, 500 | Texto | Texto | **Reel** del texto convertido en imagen (no foto suelta en el feed) | En pausa |
 | Combi de partido | Texto | **Foto-tarjeta del partido + texto** | Reel + **historia** | En pausa |
 | Picks para mañana | Texto | Texto | Reel + historia | En pausa |
 | Verde | Texto (boleto: foto recortada) | Texto (boleto: foto recortada) | Reel + historia (sin dinero salvo escalera, sin boleto) | En pausa |
@@ -172,7 +173,8 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
   **si el repo deja de ser público, Instagram y las fotos de Threads dejan de funcionar.**
 - Threads: máximo 500 caracteres. Sin tope diario de posts. Sin etiqueta de tema (sección 4).
 - Telegram: texto (o foto con pie si el post tiene `foto`).
-- Todo sale a la vez en todas las redes. Si una red falla, se reintenta hasta 45 min y llega aviso al móvil.
+- Todo sale a la vez en todas las redes. Si una red falla, se reintenta hasta 45 min. Llega aviso al móvil si falla
+  Telegram o Threads (los fallos de Instagram quedan apuntados en el post, `errores_redes`, pero no avisan).
 
 ---
 
@@ -186,22 +188,24 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
    con «ambos marcan». Vale para combis y para las listas de picks. Falla mucho.
 5. **Como mucho 1 pata de tiros totales del partido** por combi (tiros o tiros a puerta).
 6. **Variedad de mercados**: en cada combi, tipos distintos (tarjetas, córners, jugador, resultado,
-   goles, faltas…), como mínimo 3 tipos en combis de 4 o más patas. Máx. 2 de goles y 2 de resultado.
+   goles, faltas…). Combis de partido: al menos 3 tipos (si tiene 4+ patas), máx. 2 de goles y 2 de resultado.
+   x3 y loca: una pata por partido y máx. 2 del mismo tipo.
 7. **Se prefieren**: tarjetas, **tiros de jugadores que siempre tiran** (1+), **faltas de jugadores que
    siempre hacen falta** (1+). En las combis de partido van **2–3 patas de tiros de jugadores** si hay.
 8. Los picks se eligen por **lo probable que es que pase**, no solo por «valor» («cosas que vayan a pasar»).
 9. **Ganador del partido** es de los mercados más importantes. En las 5 grandes ligas bet365 lo da por
    ganado si el equipo se pone 2 goles arriba («2 goles de ventaja»). En jugadores, si lo cambian,
    cuenta lo que haga el que entra (Sustituto+).
-10. **No repetir la misma selección** en muchos posts (máx. 2 posts por selección; escalera y otras no
-    comparten pata).
+10. **No repetir la misma selección** en muchos posts (**máx. 2 posts por selección**, contando combis de partido, escalera, x3, loca y lista de picks;
+    el bot lo aplica solo).
 11. Usar todo lo que tiene el bot: forma, xG, clasificación (contexto 1º vs 18º), árbitro, bajas,
     estadísticas de jugadores, movimiento de cuotas. «Quiero la mejor apuesta, no cualquier cosa».
 
 ### Combis de un partido («COMBI LOCAS») — fórmula de Marcos
-- Una por partido, **5–8 partidos al día**, primero los de **equipos grandes** (dan más visitas).
+- Una por partido, **hasta 8 partidos al día** (Marcos pidió 5–8; si hay pocos partidos buenos salen menos), primero los de **equipos grandes** (dan más visitas).
 - **4–7 patas**, **cuota real 7–10**, cada pata ≥1,25. Que varíen en longitud y cuota (no todas en 4 patas y x7).
-- Si entre los 3 mejores partidos no hay un equipo español, añadir el mejor partido de un equipo español.
+- Si entre los 3 mejores partidos no hay un equipo español (LaLiga, Segunda o Copa del Rey), entra el mejor
+  partido español (bet365 suele dar aumentos/aseguradas con equipos españoles). El bot lo aplica solo.
 - Formato del texto:
   ```
   ✅ COMBI LOCAS | SERIE A
@@ -235,9 +239,10 @@ El bot lo calcula por parejas de patas (`combis_dia.py` → `pareja()`, `factor_
 - mismo equipo, «gana/o empata» + «ese equipo marca»: 0,80
 - dos de resultado del mismo equipo («o empate» + «gana alguna parte»): 0,85
 - ese equipo marca + tiros de su jugador: 0,90 · ese equipo marca + sus córners: 0,88
-- goles del partido + «X marca»: 0,80 · goles con goles: 0,90
+- goles del partido + «X marca»: 0,80 · goles con goles: 0,90 · goles + resultado: 0,97 · córners con córners: 0,95
 - jugador + córners del mismo equipo: 0,93 · tiros del partido + tiros de un jugador: 0,94
-- resto del mismo equipo: 0,97 · tarjetas, faltas, fueras de juego y equipos contrarios: 1,0
+- resto del mismo equipo: 0,97 · tiros del partido con tiros: 0,99 · tarjetas, fueras de juego y patas de
+  equipos contrarios: 1,0 · el recorte total nunca baja de 0,45
 
 **Regla de oro: la cuota que pone un post tiene que ser la que paga bet365 de verdad.** Si se montan combis
 a mano, se calculan con `combis_dia.cuota_real_sel(sel, cuotas)`, nunca multiplicando.
@@ -245,7 +250,8 @@ a mano, se calculan con `combis_dia.cuota_real_sel(sel, cuotas)`, nunca multipli
 ### Formato y textos
 - **Nunca** «🔞 +18 | Juega responsable» (quitado el 27/10), **nunca** «jugarbien.es» en Telegram.
 - **Nunca el nombre de Marcos** en ninguna publicación.
-- En listas de picks, **sin horas ni relojes**. Formato de lista con ✅1., ✅2.… (es el que mejor funciona).
+- En listas de picks, **sin horas ni relojes**. Las listas van con ✅ y la bandera de la liga; «Quién gana» va
+  numerada (✅1., ✅2.…), que es el formato que mejor funciona en Threads.
 - Variar el estilo entre posts (ticks, banderas…). Comprobar límites de caracteres (Threads 500).
 - **Threads**: actualmente **sin etiqueta de tema** (26/10: con la etiqueta «Apuestas deportivas» se veían
   3–10 veces menos). Texto solo, salvo combis de partido y boletos, que van con foto.
@@ -257,11 +263,12 @@ a mano, se calculan con `combis_dia.cuota_real_sel(sel, cuotas)`, nunca multipli
 ### Reto escalera
 Empieza con 20 € y cada día juega una combi de 2 picks (cuota 1,85–2,40) con lo ganado. Si sale verde,
 sube un escalón al día siguiente; si falla, vuelve al día 1. 7 días: 20 → 40 → 80 → … → 1.280 €.
-El post sale a las 11:00 solo el día que toca. Se corrige solo con los resultados.
+El post sale a las 11:00 (si un día no hay 2 picks fiables, ese día no sale y se espera al siguiente).
+Se corrige solo con los resultados y el día siguiente pone si se superó el escalón o si se cayó.
 
 ### Boletos de bet365 (flujo creado el 27/10)
-1. A las 10:00 el bot manda por privado a Marcos 2 combis «Crear apuesta» (5–6 partidos, 2 patas por
-   partido a ~2,00, total ~20–45). Son una propuesta; él puede cambiarlas.
+1. A las 10:00 el bot manda por privado a Marcos 2 combis «Crear apuesta» (4–6 partidos, 2 patas por
+   partido a ~2,00, total ~20–45; si hay pocos partidos buenos llega solo 1, o ninguna con aviso). Son una propuesta; él puede cambiarlas.
 2. Marcos la monta en bet365 y **manda la captura al chat del bot** cuando quiera.
 3. El bot pregunta qué es → «🎟️ Es un boleto de bet365».
 4. El bot **recorta el dinero** (quita «Imp», «Ganancias» y el botón verde), **lee la cuota sola**
@@ -280,8 +287,9 @@ El post sale a las 11:00 solo el día que toca. Se corrige solo con los resultad
 ## 5. Reglas de trabajo con Marcos (cómo tiene que trabajar la IA)
 
 1. **Lee el mensaje entero. Primero responde a lo que pregunta, luego te pones a hacer cosas.**
-2. **Nunca subas ni programes nada sin enseñárselo antes** («no vuelvas a subir nada sin enseñármelo»).
-   La única excepción automática son los verdes.
+2. **Nunca subas, programes ni cambies a mano ningún post sin enseñárselo antes** («no vuelvas a subir nada
+   sin enseñármelo»). Lo que publica el bot solo cada día (el calendario de la sección 3) ya está aprobado:
+   le llega el borrador 60 min antes por si quiere cambiarlo o cancelarlo. Los verdes salen al momento.
 3. **Nunca digas que algo está hecho, programado y funcionando si no lo has comprobado de verdad.**
    Anoche (26–27/10) se le dijo que algo funcionaba y por la mañana no se había subido nada. No puede repetirse.
 4. **Las pruebas se hacen sin crear contenido real** (nada que luego haya que borrar). Si una prueba
@@ -298,14 +306,25 @@ El post sale a las 11:00 solo el día que toca. Se corrige solo con los resultad
 
 ---
 
+### Cuando Marcos pide combis a mano en el chat (no las del bot)
+- Primero la explicación con los datos de cada pata; después una lista limpia solo con las selecciones.
+- Cuotas solo de bet365 (si no se puede ver una cuota segura, esa selección no va). Si bet365 se queda
+  colgado o pone «página no disponible», recargar.
+- Mezclar tipos de mercado y estructuras distintas entre combis, sin repetir selecciones entre ellas ni con
+  las apuestas que Marcos ya tiene hechas. Patas con lógica de partido (si pasa X, es más fácil Y).
+- Dos versiones: antes de las alineaciones y, cuando las mande, otra corregida con los titulares.
+- Guardar cada día un archivo en el Escritorio, carpeta «combis», con nombre tipo «Combis martes 13».
+- Winamax: cuando juegan Real Madrid o Barça suele dar una supercuota (p. ej. 1,50 → 2,00, máx. 10 €);
+  Marcos la coge siempre.
+
 ## 6. Cómo funciona por dentro
 
 ### Workflows de GitHub Actions (`.github/workflows/`)
 
 | Workflow | Cuándo | Qué hace |
 |---|---|---|
-| `recoger.yml` («Bot futbol») | cada 6 h (minuto 17: 01:17, 07:17, 13:17, 19:17 Madrid) | `bot.py` (descarga partidos, cuotas, estadísticas de API-Football) → `aciertos.py`, `calibrar_historico.py`, `aprender.py` (aprende de los fallos) → `picks.py` → `valor.py` → `escalera.py` → `plantillas.py` (crea `publicaciones/auto.json`) → `imagenes.py` (imágenes y reels) |
-| `telegram.yml` («Publicar en Telegram y redes») | cada 30 min lanza una tanda de 50 min (siempre hay una corriendo) | Bucle: `publicar_telegram.py`, `redes.py` (Threads/Instagram), cada 3 min `directo.py`, `app_datos.py`, `verdes_auto.py`, `avisos.py`; cada 5 min `cuotas_frescas.py`, `alineaciones_posts.py`; cada 10 min moderación, estadísticas, revisor, Threads, comunidad, **imágenes desactualizadas**. Guarda en git cada 5 min o al momento si cambia un post |
+| `recoger.yml` («Bot futbol») | cada 6 h (minuto 17 UTC: 01:17, 07:17, 13:17, 19:17 en horario de invierno de Madrid; en verano, una hora más) | `bot.py` (descarga partidos, cuotas, estadísticas de API-Football) → `aciertos.py`, `calibrar_historico.py`, `aprender.py` (aprende de los fallos) → `picks.py` → `valor.py` → `escalera.py` → `plantillas.py` (crea `publicaciones/auto.json`) → `imagenes.py` (imágenes y reels) |
+| `telegram.yml` («Publicar en Telegram y redes») | cada 30 min se pone en cola una tanda de 50 min (no se solapan: siempre hay una corriendo) | Bucle: `publicar_telegram.py`, `redes.py` (Threads/Instagram), cada 3 min `directo.py`, `app_datos.py`, `verdes_auto.py`, `avisos.py`; cada 5 min `cuotas_frescas.py`, `alineaciones_posts.py`; cada 10 min moderación, estadísticas, revisor, Threads, comunidad, **imágenes desactualizadas**. Guarda en git cada 5 min o al momento si cambia un post |
 | `asistente.yml` | siempre (tandas de ~6 h) | El bot de Telegram del móvil (`asistente.py`) + **vigilante** |
 | `alineaciones.yml` | cada 15 min | Alineaciones y combis de jugadores |
 | `escudos.yml` | lunes | Guarda escudos de equipos (`publicaciones/media/escudos`) |
@@ -378,7 +397,7 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
    GitHub → Actions: «Publicar en Telegram y redes» tiene que estar siempre en marcha.
 2. **¿Qué sale hoy?** En el bot del móvil `/hoy`, o leer `auto.json` + `cola.json` del día.
 3. **¿Sale todo bien?** Cada post publicado tiene `enviado`/`mensaje_id` (Telegram) y `redes.threads`,
-   `redes.instagram`. Los errores quedan en `errores_redes` y llegan como aviso.
+   `redes.instagram`. Los errores quedan en `errores_redes`; los de Telegram y Threads llegan como aviso.
 4. **Tests** antes de subir cualquier cambio: `python3 -m unittest discover -s tests -q` → tiene que poner OK.
 5. **Simulación sin publicar**: copiar el repo a una carpeta aparte, quitar el remoto
    (`git remote remove origin`), poner la red falsa (que responda «ok» a Telegram/Threads/Instagram)
@@ -419,7 +438,8 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 
 ## 9. Lecciones de apuestas (de los resultados)
 - Los «más de 2,5 goles» y «gol en la 1ª/2ª parte» fallan mucho en partidos cerrados.
-- Varios picks del mismo partido caen juntos: no meter dos del mismo partido en distintas combis.
+- Varios picks del mismo partido caen juntos (si el partido sale raro, caen todos): evitar que muchas combis
+  dependan del mismo partido.
 - Las estadísticas prometen ~73 % y se acierta ~59 %: por eso se usa la probabilidad aprendida (`aprender.py`).
 - Ligue 1 castigada; tiros de jugadores funcionan bien; córners de un equipo a 4+ fallan a menudo.
 - El registro diario de lecciones está en `LECCIONES.md` (lo escribe el bot).
