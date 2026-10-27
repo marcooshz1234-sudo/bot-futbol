@@ -27,7 +27,11 @@ def clave(p):
 def resultado(p):
     partido = leer(PARTIDOS / f"{p['partido_id']}.json")
     if not partido or partido.get("estado") not in ("FT", "AET", "PEN"):
-        return None, None
+        # 27/10: el partido terminado ya está en los datos del directo (con estadísticas); antes había que
+        # esperar a la descarga de cada 6 h y los aciertos del día no se movían
+        partido = leer(DATOS / "en_directo" / f"{p['partido_id']}.json")
+        if not partido or partido.get("estado") not in ("FT", "AET", "PEN") or not partido.get("stats"):
+            return None, None
     r = evaluar_pick(p, partido)
     g = partido.get("goles") or []
     marcador = f"{g[0]}-{g[1]}" if isinstance(g, list) and len(g) == 2 else None

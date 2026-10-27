@@ -510,6 +510,17 @@ def main():
     ayer = (ahora - timedelta(days=1)).strftime("%Y-%m-%d")
     picks = leer(DATOS / "picks.json", {}) or {}
     reg = leer(DATOS / "registro_aciertos.json", {}) or {}
+    # 27/10: los picks de partidos ya terminados se corrigen al momento (solo en la app; el registro se
+    # guarda en la descarga de cada 6 h). Antes los aciertos de hoy no salían hasta esa descarga.
+    from aciertos import resultado as resultado_pick
+    for p in reg.values():
+        if p.get("acierto") is None and p.get("fecha", "9") < ahora.strftime("%Y-%m-%dT%H:%M") and "partido_id" in p:
+            try:
+                r, marcador = resultado_pick(p)
+            except Exception:
+                r = None
+            if r is not None:
+                p["acierto"], p["marcador"] = r, marcador
     directo = leer(DATOS / "en_directo.json", {}) or {}
     hist = historial_equipos()
 
