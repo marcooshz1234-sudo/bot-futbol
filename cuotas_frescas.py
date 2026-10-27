@@ -88,6 +88,8 @@ def main():
         if p.get("cuotas") and len(p["cuotas"]) == len(p["sel"]):
             import combis_dia
             total = combis_dia.cuota_real_sel(p["sel"], p["cuotas"]) or total
+            if p.get("cuota_bet365"):   # 28/10: cuota comprobada a mano en bet365 por Marcos: manda sobre el cálculo
+                total = p["cuota_bet365"]
             marcas = [i for i, l in enumerate(lineas) if re.search(r"\[x\d+\.\d\d\]$", l)]
             if len(marcas) == len(p["sel"]):
                 for i, c in zip(marcas, p["cuotas"]):

@@ -96,7 +96,7 @@ def main():
         for p in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or []):
             if p.get("enviado") or p.get("caducada") or not (ahora.strftime("%Y-%m-%dT%H:%M") < p["fecha"] <= limite):
                 continue
-            real = combis_dia.cuota_real_sel(p.get("sel"), p.get("cuotas") or [])
+            real = p.get("cuota_bet365") or combis_dia.cuota_real_sel(p.get("sel"), p.get("cuotas") or [])
             m = re.search(r"(?:Cuota total aprox\.:|CUOTA|x)\s*(\d+,\d+)", p["texto"])
             if not real or not m:
                 continue
