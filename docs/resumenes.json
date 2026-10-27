@@ -247,14 +247,14 @@
   },
   "2026-10-27": {
     "dia": "2026-10-27",
-    "total": 4,
+    "total": 5,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 5
     },
     "combis": [
       {
@@ -280,8 +280,14 @@
         "titulo": "🇮🇹 COMBI SERIE A DEL MARTES x4,48",
         "estado": "pendiente",
         "cuota": 4.48
+      },
+      {
+        "id": "2026-10-27-combi-loca-datos",
+        "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪",
+        "estado": "pendiente",
+        "cuota": 7.21
       }
     ],
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86 · pendiente\n⏳ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86 · pendiente\n⏳ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
