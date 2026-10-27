@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 21:08",
+ "actualizado": "2026-10-27 21:18",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -90,6 +90,11 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 11,
    "likes_media": 0.0,
@@ -97,11 +102,6 @@
   },
   "Otros (reel)": {
    "posts": 10,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -121,7 +121,7 @@
    "comentarios_media": 0.0
   },
   "Otros": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
