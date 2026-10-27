@@ -9,13 +9,15 @@ Probabilidad de ganar = media de dos modelos + la tabla:
 Prueba con 509 partidos ya jugados (solo con lo que se sabía antes de cada uno):
   umbral 55 % → 62 % de aciertos · 60 % → 72 % · 65 % → 77 %
 Se publican los que pasan del 60 %, de más a menos seguro.
+27/10: entre el 45 % y el 60 % van como «gana o empata» (en la misma prueba aciertan el 74-76 %).
 """
 import math
 from datetime import datetime, timedelta
 
 from bot import EXTRA, MADRID, leer
 
-UMBRAL = 0.60
+UMBRAL = 0.60          # «Gana»
+UMBRAL_DOBLE = 0.45    # «Gana o empata»
 MIN_EQUIPOS, MAX_EQUIPOS = 3, 10
 CASA, FUERA = 1.10, 0.92
 PESO_TABLA = 0.15
@@ -74,7 +76,7 @@ def ganadores(dia, hist=None):
         if not pr:
             continue
         pl, pv = pr
-        if max(pl, pv) >= UMBRAL:
+        if max(pl, pv) >= UMBRAL_DOBLE:
             eq, rival = (loc, vis) if pl >= pv else (vis, loc)
             out.append((round(max(pl, pv), 3), eq["name"], pa["league"]["id"], rival["name"], f"{ini:%H:%M}"))
     return sorted(out, reverse=True)[:MAX_EQUIPOS]
@@ -87,8 +89,8 @@ def post(dia, hist=None):
     g = ganadores(dia, hist)
     if len(g) < MIN_EQUIPOS:
         return None
-    lineas = [f"✅{i}. {BANDERA.get(COMPETICION.get(liga), '⚽')} {eq} — Gana"
-              for i, (_, eq, liga, _, _) in enumerate(g, 1)]
+    lineas = [f"✅{i}. {BANDERA.get(COMPETICION.get(liga), '⚽')} {eq} — {'Gana' if pr >= UMBRAL else 'Gana o empata'}"
+              for i, (pr, eq, liga, _, _) in enumerate(g, 1)]
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     return ("ganadores", f.replace(hour=10, minute=30),
             "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n" + "\n".join(lineas)

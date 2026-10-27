@@ -39,7 +39,7 @@ def lista(picks):
 
 
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
-GANADORES_ACTIVO = False   # «quién gana hoy»: se activa cuando Marcos dé el visto bueno   # el cierre de los posts con más likes
+GANADORES_ACTIVO = True    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
 
 
 def combi(titulo, picks, cuota):
