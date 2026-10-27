@@ -1,156 +1,210 @@
-escuchar	Set up job	﻿2026-10-27T09:56:25.2192583Z Current runner version: '2.338.0'
-escuchar	Set up job	2026-10-27T09:56:25.2230851Z ##[group]Runner Image Provisioner
-escuchar	Set up job	2026-10-27T09:56:25.2232487Z Hosted Compute Agent
-escuchar	Set up job	2026-10-27T09:56:25.2233650Z Version: 20261021.618
-escuchar	Set up job	2026-10-27T09:56:25.2234983Z Commit: 21505ad2541d5be6135ed84fc33697146cf75b8e
-escuchar	Set up job	2026-10-27T09:56:25.2236546Z Build Date: 2026-10-21T00:45:21Z
-escuchar	Set up job	2026-10-27T09:56:25.2237885Z Worker ID: {d0fa14c8-2e7f-4d0d-87c0-17e73a8495fd}
-escuchar	Set up job	2026-10-27T09:56:25.2239742Z Region: northcentralus
-escuchar	Set up job	2026-10-27T09:56:25.2240888Z Cloud: Azure
-escuchar	Set up job	2026-10-27T09:56:25.2241925Z ##[endgroup]
-escuchar	Set up job	2026-10-27T09:56:25.2244529Z ##[group]Operating System
-escuchar	Set up job	2026-10-27T09:56:25.2245771Z Ubuntu
-escuchar	Set up job	2026-10-27T09:56:25.2246990Z 24.04.5
-escuchar	Set up job	2026-10-27T09:56:25.2248370Z LTS
-escuchar	Set up job	2026-10-27T09:56:25.2249980Z ##[endgroup]
-escuchar	Set up job	2026-10-27T09:56:25.2251149Z ##[group]Runner Image
-escuchar	Set up job	2026-10-27T09:56:25.2252438Z Image: ubuntu-24.04
-escuchar	Set up job	2026-10-27T09:56:25.2254100Z Version: 20261012.334.1
-escuchar	Set up job	2026-10-27T09:56:25.2256336Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20261012.334/images/ubuntu/Ubuntu2404-Readme.md
-escuchar	Set up job	2026-10-27T09:56:25.2259765Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20261012.334
-escuchar	Set up job	2026-10-27T09:56:25.2260926Z ##[endgroup]
-escuchar	Set up job	2026-10-27T09:56:25.2262207Z ##[group]GITHUB_TOKEN Permissions
-escuchar	Set up job	2026-10-27T09:56:25.2264596Z Contents: write
-escuchar	Set up job	2026-10-27T09:56:25.2265299Z Metadata: read
-escuchar	Set up job	2026-10-27T09:56:25.2266001Z ##[endgroup]
-escuchar	Set up job	2026-10-27T09:56:25.2268540Z Secret source: Actions
-escuchar	Set up job	2026-10-27T09:56:25.2269755Z Cache mode: write
-escuchar	Set up job	2026-10-27T09:56:25.2270859Z Prepare workflow directory
-escuchar	Set up job	2026-10-27T09:56:25.2615065Z Prepare all required actions
-escuchar	Set up job	2026-10-27T09:56:25.2665664Z Getting action download info
-escuchar	Set up job	2026-10-27T09:56:25.5185946Z Download action repository 'actions/checkout@v4' (SHA:11d5960a326750d5838078e36cf38b85af677262)
-escuchar	Set up job	2026-10-27T09:56:25.6736160Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
-escuchar	Set up job	2026-10-27T09:56:25.9279500Z Complete job name: escuchar
-escuchar	Run actions/checkout@v4	﻿2026-10-27T09:56:26.0153495Z ##[group]Run actions/checkout@v4
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0154748Z with:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0155281Z   repository: marcooshz1234-sudo/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0159308Z   token: ***
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0159810Z   ssh-strict: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0160333Z   ssh-user: git
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0160849Z   persist-credentials: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0161387Z   clean: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0161883Z   sparse-checkout-cone-mode: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0162468Z   fetch-depth: 1
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0162952Z   fetch-tags: false
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0163439Z   show-progress: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0163931Z   lfs: false
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0164400Z   submodules: false
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0165162Z   set-safe-directory: true
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0165943Z   allow-unsafe-pr-checkout: false
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0166875Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2946708Z Syncing repository: marcooshz1234-sudo/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2949832Z ##[group]Getting Git version info
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2951245Z Working directory is '/home/runner/work/bot-futbol/bot-futbol'
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2953392Z [command]/usr/bin/git version
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3039363Z git version 2.55.0
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3065023Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3080816Z Temporarily overriding HOME='/home/runner/work/_temp/055dc15a-aaf8-4277-a3e8-6f19dbb2e3a1' before making global git config changes
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3082732Z Adding repository directory to the temporary git global config as a safe directory
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3089042Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3150439Z Deleting the contents of '/home/runner/work/bot-futbol/bot-futbol'
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3154659Z ##[group]Initializing the repository
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3160991Z [command]/usr/bin/git init /home/runner/work/bot-futbol/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3271468Z hint: Using 'master' as the name for the initial branch. This default branch name
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3273415Z hint: will change to "main" in Git 3.0. To configure the initial branch name
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3275548Z hint: to use in all of your new repositories, which will suppress this warning,
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3276927Z hint: call:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3277757Z hint:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3278891Z hint: 	git config --global init.defaultBranch <name>
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3279611Z hint:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3280373Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3281929Z hint: 'development'. The just-created branch can be renamed via this command:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3282770Z hint:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3283256Z hint: 	git branch -m <name>
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3283781Z hint:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3284478Z hint: Disable this message with "git config set advice.defaultBranchName false"
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3285572Z Initialized empty Git repository in /home/runner/work/bot-futbol/bot-futbol/.git/
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3300286Z [command]/usr/bin/git remote add origin https://github.com/marcooshz1234-sudo/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3344520Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3345480Z ##[group]Disabling automatic garbage collection
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3349577Z [command]/usr/bin/git config --local gc.auto 0
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3384068Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3392631Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3431026Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3831946Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3873844Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4108942Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4151475Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4386870Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4431826Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4433443Z ##[group]Fetching the repository
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4446853Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +2907ce6fb6c9bc310182986ebc004b74c983f930:refs/remotes/origin/main
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4617679Z From https://github.com/marcooshz1234-sudo/bot-futbol
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4621067Z  * [new ref]         2907ce6fb6c9bc310182986ebc004b74c983f930 -> origin/main
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4627007Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4629041Z ##[group]Determining the checkout info
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4630987Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4634456Z [command]/usr/bin/git sparse-checkout disable
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4690581Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4730190Z ##[group]Checking out the ref
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4732427Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0774384Z Switched to a new branch 'main'
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0779944Z branch 'main' set up to track 'origin/main'.
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0805436Z ##[endgroup]
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0852387Z [command]/usr/bin/git log -1 --format=%H
-escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0879026Z 2907ce6fb6c9bc310182986ebc004b74c983f930
-escuchar	Run actions/setup-python@v5	﻿2026-10-27T09:56:30.1165536Z ##[group]Run actions/setup-python@v5
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166035Z with:
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166349Z   python-version: 3.12
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166701Z   check-latest: false
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1169884Z   token: ***
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1170239Z   update-environment: true
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1170607Z   allow-prereleases: false
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1171174Z   freethreaded: false
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1171522Z ##[endgroup]
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.2523313Z ##[group]Installed versions
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3195415Z (node:2296) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3196860Z (Use `node --trace-deprecation ...` to show where the warning was created)
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3197645Z Successfully set up CPython (3.12.15)
-escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3198675Z ##[endgroup]
-escuchar	Escuchar al dueño del canal por Telegram	﻿2026-10-27T09:56:39.3312753Z ##[group]Run git config user.name "bot-futbol"
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3313189Z ^[[36;1mgit config user.name "bot-futbol"^[[0m
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3313607Z ^[[36;1mgit config user.email "bot-futbol@users.noreply.github.com"^[[0m
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3314007Z ^[[36;1mpython -u asistente.py^[[0m
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382103Z shell: /usr/bin/bash -e {0}
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382406Z env:
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382698Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.15/x64
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383148Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib/pkgconfig
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383596Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383993Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3384416Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3384821Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3385368Z   TELEGRAM_TOKEN: ***
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3385616Z   TELEGRAM_CANAL: -1003953339107
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3386957Z   THREADS_TOKEN: ***
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3388500Z   INSTAGRAM_TOKEN: ***
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3389793Z   FACEBOOK_TOKEN: ***
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3390046Z   FACEBOOK_PAGINA: 
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3390276Z ##[endgroup]
-escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T12:05:27.8326316Z ##[error]The operation was canceled.
-escuchar	Post Run actions/checkout@v4	﻿2026-10-27T12:05:27.8471445Z Post job cleanup.
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9522799Z [command]/usr/bin/git version
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9523966Z git version 2.55.0
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9550784Z Temporarily overriding HOME='/home/runner/work/_temp/e6057724-eb85-499e-8d92-9f8624242a7b' before making global git config changes
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9552157Z Adding repository directory to the temporary git global config as a safe directory
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9557344Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9605884Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9650043Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9929415Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9973423Z http.https://github.com/.extraheader
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9986552Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0039627Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0329263Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
-escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0376813Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
-escuchar	Complete job	﻿2026-10-27T12:05:28.0802028Z Cleaning up orphan processes
-escuchar	Complete job	2026-10-27T12:05:28.1014100Z Terminate orphan process: pid (2480) (python)
-escuchar	Complete job	2026-10-27T12:05:28.1132809Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+publicar	UNKNOWN STEP	﻿2026-10-27T16:33:40.3293522Z Current runner version: '2.338.0'
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3312112Z ##[group]Runner Image Provisioner
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3312887Z Hosted Compute Agent
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3313721Z Version: 20261021.618
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3314195Z Commit: 21505ad2541d5be6135ed84fc33697146cf75b8e
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3314852Z Build Date: 2026-10-21T00:45:21Z
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3315372Z Worker ID: {e142390c-1ae8-4499-9fe8-8db6cf551946}
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3315938Z Region: centralus
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3316358Z Cloud: Azure
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3316794Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3317854Z ##[group]Operating System
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3318321Z Ubuntu
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3318800Z 24.04.5
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3319200Z LTS
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3319686Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3320092Z ##[group]Runner Image
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3320575Z Image: ubuntu-24.04
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3321008Z Version: 20261012.334.1
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3322308Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20261012.334/images/ubuntu/Ubuntu2404-Readme.md
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3323561Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20261012.334
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3324268Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3325111Z ##[group]GITHUB_TOKEN Permissions
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3326982Z Contents: write
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3327429Z Metadata: read
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3327879Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3329516Z Secret source: Actions
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3330257Z Cache mode: write
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3330781Z Prepare workflow directory
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3597081Z Prepare all required actions
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.3645063Z Getting action download info
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.6031221Z Download action repository 'actions/checkout@v4' (SHA:11d5960a326750d5838078e36cf38b85af677262)
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.7012344Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.8571511Z Complete job name: publicar
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9167615Z ##[group]Run actions/checkout@v4
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9168283Z with:
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9168800Z   repository: marcooshz1234-sudo/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9171609Z   token: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9172031Z   ssh-strict: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9172426Z   ssh-user: git
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9172815Z   persist-credentials: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9173649Z   clean: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9174053Z   sparse-checkout-cone-mode: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9174560Z   fetch-depth: 1
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9175018Z   fetch-tags: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9175444Z   show-progress: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9175846Z   lfs: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9176210Z   submodules: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9176640Z   set-safe-directory: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9177059Z   allow-unsafe-pr-checkout: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:40.9177737Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1672115Z Syncing repository: marcooshz1234-sudo/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1676006Z ##[group]Getting Git version info
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1677404Z Working directory is '/home/runner/work/bot-futbol/bot-futbol'
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1678678Z [command]/usr/bin/git version
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1742300Z git version 2.55.0
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1760118Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1772259Z Temporarily overriding HOME='/home/runner/work/_temp/76d4ffae-cbdb-42d5-a941-3b4b01094256' before making global git config changes
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1773890Z Adding repository directory to the temporary git global config as a safe directory
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1776315Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1818339Z Deleting the contents of '/home/runner/work/bot-futbol/bot-futbol'
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1821456Z ##[group]Initializing the repository
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1824726Z [command]/usr/bin/git init /home/runner/work/bot-futbol/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1915736Z hint: Using 'master' as the name for the initial branch. This default branch name
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1917241Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1919078Z hint: to use in all of your new repositories, which will suppress this warning,
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1920125Z hint: call:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1920776Z hint:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1921771Z hint: 	git config --global init.defaultBranch <name>
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1922782Z hint:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1923811Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1925209Z hint: 'development'. The just-created branch can be renamed via this command:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1926192Z hint:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1927355Z hint: 	git branch -m <name>
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1928342Z hint:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1929268Z hint: Disable this message with "git config set advice.defaultBranchName false"
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1930708Z Initialized empty Git repository in /home/runner/work/bot-futbol/bot-futbol/.git/
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1933868Z [command]/usr/bin/git remote add origin https://github.com/marcooshz1234-sudo/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1964665Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1965893Z ##[group]Disabling automatic garbage collection
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1967297Z [command]/usr/bin/git config --local gc.auto 0
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1993350Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.1996982Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2018346Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2307270Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2332384Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2493502Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2518796Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2670607Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2698164Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2699188Z ##[group]Fetching the repository
+publicar	UNKNOWN STEP	2026-10-27T16:33:41.2709591Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +814f0bc1551cdc3d184deb189e18641ffb07e030:refs/remotes/origin/main
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4418501Z From https://github.com/marcooshz1234-sudo/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4421155Z  * [new ref]         814f0bc1551cdc3d184deb189e18641ffb07e030 -> origin/main
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4426220Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4427827Z ##[group]Determining the checkout info
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4429719Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.4430709Z [command]/usr/bin/git sparse-checkout disable
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.5046309Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.5151069Z ##[group]Checking out the ref
+publicar	UNKNOWN STEP	2026-10-27T16:33:47.5154879Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1253562Z Switched to a new branch 'main'
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1255099Z branch 'main' set up to track 'origin/main'.
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1271250Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1313249Z [command]/usr/bin/git log -1 --format=%H
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1334850Z 814f0bc1551cdc3d184deb189e18641ffb07e030
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1560901Z ##[group]Run actions/setup-python@v5
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1561259Z with:
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1561514Z   python-version: 3.12
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1561816Z   check-latest: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1563924Z   token: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1564224Z   update-environment: true
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1564472Z   allow-prereleases: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1564976Z   freethreaded: false
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.1565221Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2575727Z ##[group]Installed versions
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2640291Z (node:2075) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2641118Z (Use `node --trace-deprecation ...` to show where the warning was created)
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2641563Z Successfully set up CPython (3.12.15)
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2642289Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2776527Z ##[group]Run git config user.name "bot-futbol"
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2777151Z ^[[36;1mgit config user.name "bot-futbol"^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2777684Z ^[[36;1mgit config user.email "bot-futbol@users.noreply.github.com"^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2778121Z ^[[36;1mgit config merge.cola.driver "python fusionar_cola.py %O %A %B"^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2778723Z ^[[36;1m# 27/10: la instalación de Chromium/ffmpeg (para rehacer imágenes) llegó a tardar 47 min y el bucle no^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2779324Z ^[[36;1m# publicaba nada mientras tanto (posts con 30 min de retraso). Ahora va en segundo plano: el bucle^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2779938Z ^[[36;1m# empieza a publicar al momento y las imágenes se rehacen en cuanto termina la instalación.^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2781750Z ^[[36;1m( timeout 240 python -u comprobar_redes.py || true ) &^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2782219Z ^[[36;1m# 26/10: las tareas van por reloj, no por número de vuelta (con vueltas lentas el directo y la app^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2782759Z ^[[36;1m# solo se actualizaban una vez por ejecución) y se guarda cada 5 min como mucho^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2783677Z ^[[36;1mpaso() { local n=$1 t=$2; shift 2; local i=$(date +%s); timeout -k 15 "$t" python -u "$@"; local r=$?; echo "$(date -u +%H:%M:%S) $n ${r} $(( $(date +%s) - i ))s" >> datos/bucle_log.txt; [ $r -eq 0 ] || echo "Fallo en $n ($r)"; return 0; }^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2784403Z ^[[36;1mfin=$(( $(date +%s) + 50*60 ))^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2784745Z ^[[36;1mult_5=0; ult_app=0; ult_10=0; ult_commit=$(date +%s)^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2785115Z ^[[36;1mwhile [ "$(date +%s)" -lt "$fin" ]; do^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2785406Z ^[[36;1m  ahora=$(date +%s)^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2786054Z ^[[36;1m  i=$(date +%s); timeout 90 git pull --rebase --autostash -X theirs -q || git rebase --abort || true; echo "$(date -u +%H:%M:%S) git_pull - $(( $(date +%s) - i ))s" >> datos/bucle_log.txt^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2786628Z ^[[36;1m  python -u reparar_json.py || true^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2786982Z ^[[36;1m  paso incidencias 180 incidencias.py^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2787516Z ^[[36;1m  if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; paso cuotas_frescas 240 cuotas_frescas.py; paso alineaciones_posts 240 alineaciones_posts.py; fi^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2788076Z ^[[36;1m  paso publicar_telegram 180 publicar_telegram.py^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2788412Z ^[[36;1m  paso redes 420 redes.py^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2789034Z ^[[36;1m  if [ $(( $(date +%s) - ult_app )) -ge 180 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; paso avisos 120 avisos.py; fi^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2790417Z ^[[36;1m  if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso revisor 180 revisor.py; paso threads_crecer 240 threads_crecer.py; paso threads_analisis 300 threads_analisis.py; paso comunidad 120 comunidad.py; paso imagenes 300 imagenes.py publicaciones/auto.json --pendientes; paso imagenes_cola 300 imagenes.py publicaciones/cola.json --pendientes; fi^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2791571Z ^[[36;1m  paso resumen_dia 120 resumen_dia.py^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2792020Z ^[[36;1m  tail -n 400 datos/bucle_log.txt > datos/bucle_log.tmp 2>/dev/null && mv datos/bucle_log.tmp datos/bucle_log.txt^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2793919Z ^[[36;1m  for ruta in publicaciones docs datos/bucle_log.txt datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json datos/cuotas_frescas.json datos/revision_avisos.json datos/verdes_auto.json datos/threads_crecer.json datos/threads_vistas.json datos/threads_analisis.json datos/alineaciones_posts.json datos/comunidad.json datos/boletos.json datos/avisos_manuales.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2795293Z ^[[36;1m  # se guarda al momento si cambia algo de los posts; lo demás (app, directo) cada 5 min^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2795964Z ^[[36;1m  if ! git diff --cached --quiet && { ! git diff --cached --quiet -- publicaciones || [ $(( $(date +%s) - ult_commit )) -ge 300 ] || [ "$(date +%s)" -ge $(( fin - 90 )) ]; }; then^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2796554Z ^[[36;1m    git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2797208Z ^[[36;1m    for i in 1 2 3; do timeout 90 git pull --rebase -X theirs -q && timeout 90 git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2797695Z ^[[36;1m    ult_commit=$(date +%s)^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2797997Z ^[[36;1m  fi^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2798226Z ^[[36;1m  sleep 45^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2798514Z ^[[36;1mdone^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2798785Z ^[[36;1mif ! git diff --cached --quiet; then^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2799137Z ^[[36;1m  git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2799736Z ^[[36;1m  for i in 1 2 3; do timeout 90 git pull --rebase -X theirs -q && timeout 90 git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.2800186Z ^[[36;1mfi^[[0m
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3066866Z shell: /usr/bin/bash -e {0}
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3067279Z env:
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3067581Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.15/x64
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3068172Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib/pkgconfig
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3068566Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3068983Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3069388Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3069833Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3070569Z   TELEGRAM_TOKEN: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3070923Z   TELEGRAM_CANAL: -1003953339107
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3071807Z   THREADS_TOKEN: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3072632Z   INSTAGRAM_TOKEN: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3073730Z   FACEBOOK_TOKEN: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3073991Z   FACEBOOK_PAGINA: 
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3074308Z   API_FOOTBALL_KEY: ***
+publicar	UNKNOWN STEP	2026-10-27T16:33:48.3074554Z ##[endgroup]
+publicar	UNKNOWN STEP	2026-10-27T16:33:50.2976499Z {'comprobado': '2026-10-27 17:33', 'instagram': 'OK · combilocas (BUSINESS)', 'threads': 'OK · combilocas', 'facebook': 'OK · Combilocas', 'avisado': '2026-10-25'}
+publicar	UNKNOWN STEP	2026-10-27T16:33:51.8673219Z Estado: {'comprobado': '2026-10-27 17:33', 'bot': '@combilocas_publica_bot', 'rol': 'administrator', 'puede_publicar': True}
+publicar	UNKNOWN STEP	2026-10-27T16:33:51.8681458Z Hecho. Cambios: 0
+publicar	UNKNOWN STEP	2026-10-27T16:33:51.9203957Z Redes: 0 cambios
+publicar	UNKNOWN STEP	2026-10-27T16:33:52.0435281Z Directo: ningún partido con picks en juego
+publicar	UNKNOWN STEP	2026-10-27T16:33:53.0581974Z App: 66 partidos · 52 picks · 67 publicados · 352 KB
+publicar	UNKNOWN STEP	2026-10-27T16:34:06.6224381Z Moderación: error leyendo comentarios: 400: (#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details.
+publicar	UNKNOWN STEP	2026-10-27T16:34:06.6226152Z Moderación: 0 comentarios quitados
+publicar	UNKNOWN STEP	2026-10-27T16:34:08.3082533Z Estadísticas: {'instagram': 19, 'threads': 964, 'facebook': 0, 'telegram': 74}
+publicar	UNKNOWN STEP	2026-10-27T16:34:08.8129370Z /home/runner/work/bot-futbol/bot-futbol/threads_crecer.py:55: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+publicar	UNKNOWN STEP	2026-10-27T16:34:12.7746875Z   desde = (datetime.utcnow() - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
+publicar	UNKNOWN STEP	2026-10-27T16:34:12.7747427Z Traceback (most recent call last):
+publicar	UNKNOWN STEP	2026-10-27T16:34:12.7754081Z   File "/home/runner/work/bot-futbol/bot-futbol/imagenes.py", line 22, in <module>
+publicar	UNKNOWN STEP	2026-10-27T16:34:12.7754716Z     from playwright.sync_api import sync_playwright
+publicar	UNKNOWN STEP	2026-10-27T16:34:12.7755121Z ModuleNotFoundError: No module named 'playwright'
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.7822644Z ##[error]Process completed with exit code 1.
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.7950794Z Post job cleanup.
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8656650Z [command]/usr/bin/git version
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8734062Z git version 2.55.0
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8791352Z Temporarily overriding HOME='/home/runner/work/_temp/80494e93-8b8f-48df-a244-c4c08056d749' before making global git config changes
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8792579Z Adding repository directory to the temporary git global config as a safe directory
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8794068Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8797876Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.8823919Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9041122Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9066156Z http.https://github.com/.extraheader
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9077508Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9128766Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9326199Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9359449Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9695044Z Cleaning up orphan processes
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9943705Z Terminate orphan process: pid (2087) (bash)
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9969181Z Terminate orphan process: pid (2089) (timeout)
+publicar	UNKNOWN STEP	2026-10-27T16:34:17.9993628Z Terminate orphan process: pid (2093) (bash)
+publicar	UNKNOWN STEP	2026-10-27T16:34:18.0023492Z Terminate orphan process: pid (3244) (python)
+publicar	UNKNOWN STEP	2026-10-27T16:34:18.0048651Z Terminate orphan process: pid (3245) (MainThread)
+publicar	UNKNOWN STEP	2026-10-27T16:34:18.0169224Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
