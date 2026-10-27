@@ -221,9 +221,48 @@ GANADOR_FREC_MIN = 0.60
 GANADOR_CUOTA_MAX = 2.30   # "gana X" entra con menos % que el resto, siempre que la cuota tenga valor   # LaLiga, Premier, Serie A, Bundesliga, Ligue 1
 
 
+PRORROGA = {"ET", "BT", "P", "AET", "PEN"}
+
+
+def a_90(p):
+    """27/10 (regla de Marcos): las apuestas se cierran con los 90 minutos (más el descuento), nunca con la
+    prórroga ni los penaltis. Si el partido fue a la prórroga, devuelve una copia con el marcador del minuto 90
+    y sin los eventos de la prórroga. Caso real: Recreativo–Rayo de Copa, 1-1 a los 90 y 2-3 en la prórroga:
+    «Rayo gana una de las dos partes» se dio por verde y era roja."""
+    if not p or p.get("estado") not in PRORROGA or not p.get("goles") or None in p["goles"]:
+        return p
+    eventos = p.get("eventos") or []
+    en_90 = [e for e in eventos if (e.get("min") or 0) <= 90]
+    g90 = p.get("goles_90")
+    if not g90 or None in g90:
+        goles = [e for e in eventos if e.get("tipo") == "Goal" and e.get("detalle") != "Missed Penalty"]
+        ids = [p["local"]["id"], p["visitante"]["id"]]
+        g90 = None
+        for propia_al_rival in (True, False):
+            tot, hasta90 = [0, 0], [0, 0]
+            for e in goles:
+                t = e.get("equipo")
+                if t not in ids:
+                    break
+                if e.get("detalle") == "Own Goal" and propia_al_rival:
+                    t = ids[1] if t == ids[0] else ids[0]
+                i = ids.index(t)
+                tot[i] += 1
+                if (e.get("min") or 0) <= 90:
+                    hasta90[i] += 1
+            else:
+                if tot == list(p["goles"]):
+                    g90 = hasta90
+                    break
+        if g90 is None:
+            return dict(p, goles=[None, None], eventos=en_90)   # no cuadra: mejor «sin datos» que un verde falso
+    return dict(p, goles=list(g90), goles_total=list(p["goles"]), eventos=en_90)
+
+
 def lidero_por_2(p, equipo):
     """¿El equipo llegó a ir 2 goles por delante en algún momento? (pago anticipado de bet365).
-    Los goles en propia puerta se cuentan como cuadre el marcador final."""
+    Los goles en propia puerta se cuentan como cuadre el marcador final. Solo cuentan los 90 minutos."""
+    p = a_90(p)
     goles = sorted((e for e in p.get("eventos") or [] if e.get("tipo") == "Goal" and e.get("detalle") != "Missed Penalty"),
                    key=lambda e: ((e.get("min") or 0), (e.get("extra") or 0)))
     if not goles or equipo is None:
@@ -758,7 +797,10 @@ def evaluar_pick(pick, partido):
             valor = None if j.get("goles") is None or j.get("asist") is None else j["goles"] + j["asist"]
         return None if valor is None else valor >= n
     f = evaluador(mercado, pick.get("opcion"), True)
-    return f(partido, partido["local"]["id"]) if f else None
+    partido = a_90(partido)   # 90 minutos: la prórroga no cuenta
+    if not f or None in (partido.get("goles") or [None]):
+        return None
+    return f(partido, partido["local"]["id"])
 
 
 def historial():

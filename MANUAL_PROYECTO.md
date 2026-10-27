@@ -196,6 +196,11 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 9. **Ganador del partido** es de los mercados más importantes. En las 5 grandes ligas bet365 lo da por
    ganado si el equipo se pone 2 goles arriba («2 goles de ventaja»). En jugadores, si lo cambian,
    cuenta lo que haga el que entra (Sustituto+).
+9 bis. **Todo se cierra a los 90 minutos (más el descuento). La prórroga y los penaltis NO cuentan** para ningún
+   mercado: ganador, «gana alguna de las dos partes», 2ª parte, goles, ambos marcan, «2 goles de ventaja»… (regla de
+   Marcos, 27/10). El bot usa el marcador del minuto 90 (`picks.a_90()`, `goles_90` en los datos del partido).
+   Ojo: las estadísticas (córners, tarjetas, tiros) y las de jugadores que da la API incluyen la prórroga y no se
+   pueden separar; en partidos de Copa que vayan a la prórroga, revisar esas patas a mano.
 10. **No repetir la misma selección** en muchos posts (**máx. 2 posts por selección**, contando combis de partido, escalera, x3, loca y lista de picks;
     el bot lo aplica solo).
 11. Usar todo lo que tiene el bot: forma, xG, clasificación (contexto 1º vs 18º), árbitro, bajas,
@@ -435,6 +440,7 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 | Imagen de Instagram con el texto viejo | El texto cambió y la imagen no | El bucle rehace imágenes desactualizadas cada 10 min |
 | Combis todas iguales (4 patas a x7), demasiados «más de 2,5» y tiros totales | Búsqueda que solo miraba la cuota | Reglas de variedad (sección 4) |
 | Picks de «menos de goles» que fallaron | — | Prohibidos |
+| «Rayo gana alguna de las dos partes» y «Almería gana alguna de las dos partes» (Copa, 27/10) dados por verdes y la loca x7,21 publicada como VERDE | Los partidos fueron a la prórroga y el bot contaba los goles de la prórroga como 2ª parte | Todo se evalúa con el marcador del minuto 90 (`a_90()` en `picks.py`) |
 | Posts subidos sin enseñárselos a Marcos | — | Siempre enseñar antes |
 | 27/10 por la tarde el bucle estuvo parado ~40 min dos veces (un post salió 27 min tarde) | Al empezar cada tanda instalaba Chromium/ffmpeg y llegó a tardar 47 min; además la tanda se cortaba al pasar 65 min | La instalación va en segundo plano y el bucle empieza a publicar al momento. El vigilante del móvil avisó bien («el bucle no da señales») |
 | `estado_redes.json` guardado con marcas de choque de git (26/10): `comprobar_redes.py` fallaba al leerlo y no avisaba si caducaban las claves de Meta | Choque al recuperar cambios locales en el bucle (`git stash pop`) | `reparar_json.py` se ejecuta tras cada pull y arregla cualquier JSON con marcas; `comprobar_redes.py` ya no se cae si el archivo está roto |

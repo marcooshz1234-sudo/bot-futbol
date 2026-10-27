@@ -205,6 +205,9 @@ def recortar_partido(p):
         "visitante": {"id": tm["away"]["id"], "nombre": tm["away"]["name"]},
         "goles": [p["goals"]["home"], p["goals"]["away"]],
         "descanso": [p["score"]["halftime"]["home"], p["score"]["halftime"]["away"]],
+        # marcador a los 90 min (las apuestas no cuentan la prórroga); API-Football lo da en score.fulltime
+        "goles_90": [((p.get("score") or {}).get("fulltime") or {}).get("home"),
+                     ((p.get("score") or {}).get("fulltime") or {}).get("away")],
         "stats": {},
         "eventos": [],
         "jugadores": {},
