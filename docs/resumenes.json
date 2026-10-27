@@ -247,14 +247,14 @@
   },
   "2026-10-27": {
     "dia": "2026-10-27",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -268,8 +268,14 @@
         "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀",
         "estado": "pendiente",
         "cuota": 1.92
+      },
+      {
+        "id": "2026-10-27-combi-tres-datos",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀",
+        "estado": "pendiente",
+        "cuota": 2.86
       }
     ],
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
