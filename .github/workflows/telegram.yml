@@ -29,6 +29,7 @@ jobs:
           FACEBOOK_PAGINA: ${{ secrets.FACEBOOK_PAGINA }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: |
+          set +e   # 27/10: un paso que falla NO puede tumbar el bucle (con «bash -e» se paraba todo)
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
           git config merge.cola.driver "python fusionar_cola.py %O %A %B"
@@ -39,7 +40,7 @@ jobs:
           ( timeout 240 python -u comprobar_redes.py || true ) &
           # 26/10: las tareas van por reloj, no por número de vuelta (con vueltas lentas el directo y la app
           # solo se actualizaban una vez por ejecución) y se guarda cada 5 min como mucho
-          paso() { local n=$1 t=$2; shift 2; local i=$(date +%s); timeout -k 15 "$t" python -u "$@"; local r=$?; echo "$(date -u +%H:%M:%S) $n ${r} $(( $(date +%s) - i ))s" >> datos/bucle_log.txt; [ $r -eq 0 ] || echo "Fallo en $n ($r)"; return 0; }
+          paso() { local n=$1 t=$2; shift 2; local i=$(date +%s); local r=0; timeout -k 15 "$t" python -u "$@" || r=$?; echo "$(date -u +%H:%M:%S) $n ${r} $(( $(date +%s) - i ))s" >> datos/bucle_log.txt; [ $r -eq 0 ] || echo "Fallo en $n ($r)"; return 0; }
           fin=$(( $(date +%s) + 50*60 ))
           ult_5=0; ult_app=0; ult_10=0; ult_commit=$(date +%s)
           while [ "$(date +%s)" -lt "$fin" ]; do

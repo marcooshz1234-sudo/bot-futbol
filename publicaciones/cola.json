@@ -769,8 +769,9 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "rehecha el 27/10 10:30 con la cuota real de Crear apuesta (Marcos)",
-    "forzar": true
+    "nota": "rehecha el 27/10 10:30 con la cuota real de Crear apuesta (Marcos); no salió: el bucle estuvo parado de 16:49 a 18:45 y el partido ya había empezado",
+    "forzar": true,
+    "caducada": "quitada"
   },
   {
     "id": "2026-10-27-combi-borussia-dortmund-werder-bremen",
@@ -841,7 +842,7 @@
   },
   {
     "id": "2026-10-27-combi-as-roma-cagliari",
-    "fecha": "2026-10-27T18:30",
+    "fecha": "2026-10-27T18:42",
     "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AS ROMA vs CAGLIARI 🇮🇹\n\n🎯 CAGLIARI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ AS ROMA MARCA 2 O MÁS [x1.44]\n✅ MÁS DE 26,5 TIROS [x1.73]\n✅ CAGLIARI MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 2-2 | 3-1\n💥 Cuota total aprox.: 6,90\n🟢 VERDE A VERDE 🟢",
     "tarjeta": {
       "local": "AS Roma",
@@ -868,7 +869,7 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16",
+    "nota": "aprobada por Marcos el 27/10 02:16; retrasada por el bucle parado",
     "forzar": true
   },
   {
