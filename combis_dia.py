@@ -190,9 +190,32 @@ def variada(comb):
     return len(c) >= min(3, len(comb))
 
 
+def implica(a, b):
+    """¿La pata a ya incluye a b? (si gana el Milan, ya ha ganado alguna parte: meter las dos es inflar la cuota)"""
+    ma, oa, mb, ob = a["mercado"], str(a["opcion"]), b["mercado"], str(b["opcion"])
+    lado = {"Home": "Home", "Away": "Away"}
+    if ma in ("Match Winner", "First Half Winner", "Win Both Halves") and oa in lado:
+        if mb == "To Win Either Half" and ob == oa:
+            return True
+        if mb == "Double Chance" and ob in (f"{oa}/Draw", f"Draw/{oa}"):
+            return True
+        if mb == ("Total - Home" if oa == "Home" else "Total - Away") and ob == "Over 0.5":
+            return True
+        if ma == "Win Both Halves" and mb in ("Match Winner", "First Half Winner") and ob == oa:
+            return True
+    if ma == mb and oa.startswith("Over") and ob.startswith("Over"):
+        try:
+            return float(oa.split()[-1]) > float(ob.split()[-1])
+        except ValueError:
+            return False
+    return False
+
+
 def coherente(comb):
     import picks as P
     from plantillas import cumple
+    if any(implica(a, b) for a in comb for b in comb if a is not b):
+        return False
     lados = {P.lado_pick(p) for p in comb if p["mercado"] in RESULTADO} - {None}
     if len(lados) > 1:
         return False
@@ -218,6 +241,10 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
                 continue
             if una_por_partido and len({p["partido_id"] for p in comb}) < n:
                 continue
+            if una_por_partido:
+                from collections import Counter
+                if max(Counter(familia(p) for p in comb).values()) > 2:   # no 3 patas del mismo tipo
+                    continue
             if not una_por_partido and not (coherente(comb) and variada(comb)):
                 continue
             if sum(1 for p in comb if familia(p) in ("jugador-tiros", "jugador-a_puerta")) < min_tiros:
