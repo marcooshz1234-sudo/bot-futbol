@@ -86,13 +86,17 @@ def estado_seleccion(p, d, registro=None):
 SUBEN = ("Over", "Yes")   # mercados que, una vez cumplidos, ya no se pueden perder
 
 
-def fila_sel(sel, cuota, directo):
+def fila_sel(sel, cuota, directo, conocidos=None):
     """Estado de una selección guardada como 'partido|mercado|opción' (verde en cuanto se cumple si ya no
     se puede perder; si no, al final del partido)."""
     pid, mercado, opcion = sel.split("|", 2)
     d = datos_partido(int(pid))
     vivo = directo.get(str(pid)) or {}
     nombres = (d or {}).get("local", {}).get("nombre", ""), (d or {}).get("visitante", {}).get("nombre", "")
+    if not all(nombres):   # 27/10: partido sin empezar → el nombre sale del calendario, no «sin datos»
+        c = next((x for x in conocidos or [] if str(x["id"]) == str(pid)), None)
+        if c:
+            nombres = c["local"], c["visitante"]
     try:
         texto = texto_pick(mercado, opcion, *nombres) if all(nombres) else f"{mercado} {opcion}"
     except Exception:
@@ -112,8 +116,8 @@ def fila_sel(sel, cuota, directo):
             estado = "va_bien" if r is True else "va_mal" if r is False else "pendiente"
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
             "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo"), "progreso": None,
-            "actualizado_iso": fecha_iso(vivo.get("visto")), "marcador": (d or {}).get("goles"),
-            "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado")}
+            "actualizado_iso": fecha_iso(vivo.get("visto")), "marcador": (d or {}).get("goles") or vivo.get("goles"),
+            "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado") or vivo.get("estado")}
 
 
 def tipo_combi(c):
@@ -727,7 +731,7 @@ def main():
         if p.get("cuotas") and p.get("sel") and len(p["cuotas"]) == len(p["sel"]):
             # 27/10: los posts nuevos del bot se corrigen con sus selecciones guardadas (partido|mercado|opción),
             # no leyendo el texto (las combis de partido van en mayúsculas y con [x1.40])
-            filas = [fila_sel(s, c, directo) for s, c in zip(p["sel"], p["cuotas"])]
+            filas = [fila_sel(s, c, directo, conocidos) for s, c in zip(p["sel"], p["cuotas"])]
             for f, t, pa in zip(filas, p.get("textos") or [], p.get("partidos") or []):   # boletos: el texto de bet365
                 f["texto"], f["partido"] = t, f["partido"] or pa
             est = p.get("resultado") or ("verde" if filas and all(x["estado"] == "verde" for x in filas) else
@@ -755,8 +759,9 @@ def main():
                           "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado")})
         est = p.get("resultado") or ("verde" if all(x["estado"] == "verde" for x in filas) else
                "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
+        lista = bool(re.search(r"QUIÉN GANA|RESULTADOS EXACTOS|PICKS PARA|OPCIONES|RACHAS|DATOS PARA", filas and p["texto"].splitlines()[0].upper() or ""))
         publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
-                               "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
+                               "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
 
     # --- redes
     stats = leer(RAIZ / "publicaciones" / "estadisticas.json", {}) or {}

@@ -17,7 +17,8 @@ ALIAS = {"niza": "nice", "gladbach": "monchengladbach", "forest": "nottingham", 
          "bayern": "bayern", "leverkusen": "leverkusen", "dortmund": "dortmund", "spurs": "tottenham",
          "man city": "manchester city", "city": "manchester city", "united": "manchester united",
          "brest": "brestois", "roma": "roma", "athletic": "athletic", "real sociedad": "real sociedad",
-         "marsella": "marseille"}
+         "marsella": "marseille", "hamburgo": "hamburger", "colonia": "koln", "friburgo": "freiburg",
+         "maguncia": "mainz", "napoles": "napoli", "juve": "juventus", "lazio": "lazio"}
 EN_JUEGO = {"1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT"}
 FIN = {"FT", "AET", "PEN"}
 
@@ -70,6 +71,15 @@ def entender(t):
     m = re.match(r"^([a-z0-9 .]+?) - ([a-z0-9 .]+?)\s*:\s*(.+)$", n)      # "Rayo–Elche: +1,5 goles"
     if m:
         ctx, n = (m.group(1).strip(), m.group(2).strip()), m.group(3)
+    m2 = re.match(r"^(.+?) (\d+)-(\d+) (.+)$", n)   # 27/10: resultado exacto «Hamburgo 1-2 Eintracht Frankfurt»
+    if not m and m2:
+        a, b = m2[1].strip(), m2[4].strip()
+        return {"t": "exacto", "eq": a, "eq2": b, "ga": int(m2[2]), "gb": int(m2[3])}, (a, b)
+    m2 = re.match(r"^(.+?) - (gana o empata|gana)$", n)   # 27/10: «Arsenal — Gana» (Quién gana hoy)
+    if not m and m2:
+        return ({"t": "doble" if "empata" in m2[2] else "gana", "eq": m2[1].strip()}, None)
+    if m:
+        pass
     elif " - " in n:
         izq, _, der = n.rpartition(" - ")
         k = max(izq.rfind(" en "), izq.rfind(" del "), izq.rfind(" de "))
@@ -191,6 +201,8 @@ def picks_de_post(post, partidos):
             p = buscar_partido(partidos, *tit)
         if not p and spec and spec.get("eq"):
             p = buscar_partido(partidos, equipo=spec["eq"])
+        if not p and spec and spec.get("eq2"):
+            p = buscar_partido(partidos, equipo=spec["eq2"])
         salida.append(dict(l, spec=spec, partido_id=p["id"] if p else None,
                            partido=f"{p['local']} – {p['visitante']}" if p else None))
     return salida
@@ -253,6 +265,16 @@ def evaluar(spec, d):
     if t in campos and any(total(k) is None for k in campos[t]):
         return "sin_datos"
 
+    if t == "exacto":   # 27/10: resultado exacto; un gol de más ya no tiene vuelta
+        ld = lado(spec["eq"], d)
+        if not ld:
+            ld = {"local": "visitante", "visitante": "local"}.get(lado(spec["eq2"], d))
+        if not ld:
+            return "sin_datos"
+        quiere = (spec["ga"], spec["gb"]) if ld == "local" else (spec["gb"], spec["ga"])
+        if g[0] > quiere[0] or g[1] > quiere[1]:
+            return "rojo"
+        return final(False, (g[0], g[1]) == quiere)
     if t in ("gana_parte",):
         pass
     if t in ("gana", "doble", "gana_ht", "gana_parte", "eq_goles", "eq_corners", "eq_tarjetas", "mas_tiros"):

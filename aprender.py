@@ -262,7 +262,7 @@ def lecciones(reg, ap, previo, dia):
     datos = leer(RAIZ / "docs" / "datos.json", {}) or {}
     rojos = []
     for post in datos.get("publicados_hoy", []):
-        if post.get("fecha", "")[:10] != dia or post.get("estado") != "rojo":
+        if post.get("fecha", "")[:10] != dia or post.get("estado") != "rojo" or post.get("lista"):
             continue
         for x in post.get("picks", []):
             if x.get("estado") == "rojo":

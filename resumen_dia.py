@@ -13,11 +13,16 @@ def balance(posts, dia):
     for p in posts:
         titulo = p['titulo'].lstrip()
         # 26/10: el mismo post repetido (o su versión corregida) cuenta una sola vez
-        if titulo.upper() in vistos:
+        clave = titulo.upper()
+        if 'COMBI LOCAS' in clave:   # 27/10: varias combis de partido comparten título («✅ COMBI LOCAS | SERIE A»)
+            clave += '|' + ','.join(sorted({x.get('partido') or '' for x in p.get('picks', [])}))
+        if clave in vistos:
             continue
         # El emoji 📊 también identifica combis reales; no descartar esas selecciones.
         # Las previas de mañana no pertenecen al balance del día en que se anuncian.
-        if (p['fecha'][:10] != dia or titulo.startswith(('✅', '🔄', '📋'))
+        # 27/10: «✅ COMBI LOCAS» sí cuenta; solo fuera los posts de ¡VERDE! y las listas (quién gana, exactos)
+        if (p['fecha'][:10] != dia or titulo.startswith(('🔄', '📋')) or p.get('lista')
+                or (titulo.startswith('✅') and 'VERDE' in titulo.upper()) or 'verde-auto' in p['id']
                 or 'BALANCE' in titulo.upper() or 'picks-manana' in p['id']
                 or 'PARA MAÑANA' in titulo.upper()):
             continue
@@ -30,7 +35,7 @@ def balance(posts, dia):
                 estado = 'sin_datos'
             else:
                 estado = 'pendiente'
-        vistos.add(titulo.upper())
+        vistos.add(clave)
         filas.append({'id': p['id'], 'titulo': p['titulo'], 'estado': estado, 'cuota': p.get('cuota')})
     cuentas = {e: sum(p['estado'] == e for p in filas) for e in ('verde', 'rojo', 'pendiente', 'sin_datos', 'no_jugo')}
     cuentas['sin_resolver'] = cuentas['pendiente'] + cuentas['sin_datos'] + cuentas['no_jugo']
