@@ -323,5 +323,31 @@
       "total": 43
     },
     "texto": "📊 BALANCE DEL MARTES: 3 DE 8 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86\n❌ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21\n✅ ✅ COMBI LOCAS | DFB-POKAL · 2,26\n❌ ✅ COMBI LOCAS | SERIE A · 8,27\n❌ ✅ COMBI LOCAS | SERIE A · 6,90\n❌ ✅ COMBI LOCAS | DFB-POKAL · 6,19\n\n✅ 3 acertadas · ❌ 5 falladas · ⏳ 1 sin resolver"
+  },
+  "2026-10-28": {
+    "dia": "2026-10-28",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-10-28-combi-partido-1550176",
+        "titulo": "✅ COMBI LOCAS | SERIE A",
+        "estado": "pendiente",
+        "cuota": 4.39
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 4
+    },
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
