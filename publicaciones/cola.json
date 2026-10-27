@@ -898,6 +898,15 @@
     "directo": true,
     "solo_en": [
       "threads"
-    ]
+    ],
+    "enviado": "2026-10-27T10:15",
+    "mensaje_id": 124,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18639907471038479"
+    }
   }
 ]
