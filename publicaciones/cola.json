@@ -1071,6 +1071,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-27-combi-tres-datos"
+    "verde_de": "2026-10-27-combi-tres-datos",
+    "enviado": "2026-10-27T21:45",
+    "mensaje_id": 138,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18129765965485656",
+      "instagram": "18156366724522399",
+      "instagram_story": "18125732134706456"
+    }
   }
 ]
