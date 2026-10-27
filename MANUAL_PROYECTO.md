@@ -59,11 +59,11 @@ Gmail del proyecto de la guía (otro proyecto): soporte.tucanalconia@gmail.com.
 |---|---|---|
 | **01:00** | ⚽ **Quién gana hoy**: lista de equipos «Gana» (prob ≥60 %) o «Gana o empata» (45–60 %) | Telegram, Threads, Instagram |
 | **10:00** | 🎟️ Por **privado a Marcos**: 2 combis «Crear apuesta» para que las monte en bet365 (no se publican) | Telegram (privado) |
-| **11:00** | 🪜 **Reto escalera** (solo el día que toca) | Todas |
+| **11:00** | 🪜 **Reto escalera** (cada día; si ese día no hay 2 picks fiables, no sale y espera al siguiente) | Todas |
 | **13:30** | 🔥 **Combi x3** (cuota 2,5–4, 2–4 patas de partidos distintos) | Todas |
 | **16:00** | 🤪 **La loca** (cuota 7–10, 4–7 patas de partidos distintos) | Todas |
 | **Kickoff − 50 min** | ✅ **COMBI LOCAS** de un partido (5–8 al día), con la foto-tarjeta del partido | Telegram, Threads (con foto), Instagram (reel + historia) |
-| **23:00** | 🔥 **Picks para mañana** (lista ✅1., ✅2.…) | Todas + historia de Instagram |
+| **23:00** | 🔥 **Picks para mañana** (lista de ✅ con bandera, sin horas) | Todas + historia de Instagram |
 | Al momento | ✅💚 **Verdes**: en cuanto una combi publicada sale verde, se publica sola | Todas |
 | Sábado 13:30 | 🧮 De 1 € a 500 € | Todas |
 | Lunes 10:00 / domingo 22:30 | 🏆 Concurso de picks de seguidores / ranking | Telegram |
@@ -76,13 +76,114 @@ la combi «segura» vieja, la doble, «la del día», tema/liga/«nadie se atrev
 
 ---
 
+## 3 bis. Catálogo de contenido: cada tipo de post, tal cual sale
+
+El contenido es **siempre el mismo** todos los días (lo hace el bot solo). No inventar formatos nuevos ni
+cambiar estos sin que Marcos lo pida. Ejemplos reales:
+
+**⚽ Quién gana hoy** (01:00 · id `AAAA-MM-DD-ganadores` · `ganadores.py`)
+```
+⚽ QUIÉN GANA HOY · COMBILOCAS ⚽
+
+✅1. 🇵🇹 Benfica — Gana
+✅2. 🇪🇸 Mallorca — Gana o empata
+...
+📊 Según nuestros datos, no las cuotas
+
+🍀 ¿LA PINTAMOS DE VERDE? 👀💚
+```
+
+**🪜 Reto escalera** (11:00 · `escalera`) — lleva el dinero, también en Instagram
+```
+🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀
+
+❌ El domingo se cayó el día 2. Aquí no se borra nada: otra vez desde 20€ 💪
+
+✅ 🇮🇹 Lazio o empate
+✅ 🇮🇹 Torino marca
+
+🎯 CUOTA 1,92 💎 · 20,00€ → 38,40€
+
+🍀 ¿LA PINTAMOS DE VERDE? 👀💚
+```
+
+**🔥 Combi x3** (13:30 · `combi-tres`) y **🤪 La loca** (16:00 · `combi-loca`) — patas de partidos distintos
+```
+🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x3,02! 🍀
+
+✅ 🇩🇪 Gana el Borussia Dortmund
+✅ 🇮🇹 Torino marca
+✅ 🇪🇸 Girona gana al descanso
+
+🎯 CUOTA 3,02 💎
+
+🍀 ¿LA PINTAMOS DE VERDE? 👀💚
+```
+(La loca: «🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x8,30! 🤪», 4–7 patas, cuota 7–10.)
+
+**✅ COMBI LOCAS de un partido** (kickoff − 50 min · `combi-partido-<id del partido>`) — siempre con la
+**foto-tarjeta del partido**: imagen apaisada 1180×340 al estilo de la tarjeta de partido de Threads
+(fondo degradado, los dos escudos guardados en `publicaciones/media/escudos`, la hora y «Hoy»).
+Se genera sola (`imagenes.tarjeta()` → `publicaciones/media/<id>.tarjeta.jpg`). Ver formato en la sección 4.
+
+**🔥 Picks para mañana** (23:00 · `picks-manana`)
+```
+🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀
+
+✅ 🇪🇸 Sevilla o empate
+✅ 🇪🇸 Granada CF marca
+...
+⚽ ¡Combina máximo 2 o 3! ✅
+
+💚 Más picks GRATIS en @combilocas
+```
+
+**✅💚 Verde** (al momento · `verde-auto-<id del post>`)
+```
+✅💚 ¡VERDE x1,84! LA COMBI DEL LUNES 💚✅
+
+✅ El PSG mete entre 2 y 4 goles (PSG–Lyon)
+✅ Sevilla o empate (Sevilla–Osasuna)
+
+🎯 Cuota 1,84
+💶 10€ → 18,40€
+
+¿Quién la llevaba? 👇💚
+```
+(Verde de combi de partido: «¡VERDE xN! COMBI LOCAS · SASSUOLO vs LAZIO». Verde de un boleto: sin las
+patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del boleto en Telegram y Threads.)
+
+**🎟️ Boleto de bet365** (cuando Marcos lo manda): foto recortada + 3 líneas (sección 4).
+
+**🧮 De 1 € a 500 €** (sábados 13:30) y **🏆 Concurso** (lunes 10:00, ranking domingo 22:30 · `comunidad.py`).
+
+### Cómo se sube en cada red
+
+| Tipo | Telegram (canal) | Threads | Instagram | Facebook |
+|---|---|---|---|---|
+| Quién gana, x3, loca, picks, escalera, 500 | Texto | Texto | **Reel** del texto convertido en imagen (no foto suelta en el feed) | En pausa |
+| Combi de partido | Texto | **Foto-tarjeta del partido + texto** | Reel + **historia** | En pausa |
+| Picks para mañana | Texto | Texto | Reel + historia | En pausa |
+| Verde | Texto (boleto: foto recortada) | Texto (boleto: foto recortada) | Reel + historia (sin dinero salvo escalera, sin boleto) | En pausa |
+| Boleto de bet365 | **Foto recortada + texto** | **Foto recortada + texto** | **No va** | No |
+
+- Instagram: la imagen la crea `imagenes.py` a partir del texto (fondo verde oscuro, «COMBILOCAS», cada
+  línea en una tarjeta, la cuota destacada). Se sirve desde GitHub (raw) porque el repo es público:
+  **si el repo deja de ser público, Instagram y las fotos de Threads dejan de funcionar.**
+- Threads: máximo 500 caracteres. Sin tope diario de posts. Sin etiqueta de tema (sección 4).
+- Telegram: texto (o foto con pie si el post tiene `foto`).
+- Todo sale a la vez en todas las redes. Si una red falla, se reintenta hasta 45 min y llega aviso al móvil.
+
+---
+
 ## 4. Reglas de contenido (TODAS obligatorias)
 
 ### Cuotas y picks
 1. **Todas las cuotas son de bet365.** Si no se sabe la cuota segura, la selección no va.
 2. **Cada pata vale como mínimo 1,25.**
 3. **Nunca «menos de X goles»** (ni menos de 2,5 ni menos de 3,5). **Nunca «12» / «sin empate».**
-4. **«Más de 2,5 goles» solo si está muy respaldado** (probabilidad aprendida ≥70 %). Falla mucho.
+4. **«Más de 2,5 goles» solo si está muy respaldado** (probabilidad aprendida ≥70 %), también cuando va
+   con «ambos marcan». Vale para combis y para las listas de picks. Falla mucho.
 5. **Como mucho 1 pata de tiros totales del partido** por combi (tiros o tiros a puerta).
 6. **Variedad de mercados**: en cada combi, tipos distintos (tarjetas, córners, jugador, resultado,
    goles, faltas…), como mínimo 3 tipos en combis de 4 o más patas. Máx. 2 de goles y 2 de resultado.
@@ -259,6 +360,17 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 - **Revisión de cuotas**: 24 h antes, si la cuota del texto se desvía >10 % de la real de bet365 → aviso.
 
 ---
+
+## 6 bis. Primeros pasos para una IA nueva
+1. Leer este manual entero.
+2. Clonar el repositorio `marcooshz1234-sudo/bot-futbol` (Python 3.12; para imágenes: `pip install playwright`
+   + `python -m playwright install chromium`, ffmpeg; para leer boletos: Pillow + tesseract).
+3. `python3 -m unittest discover -s tests -q` → tiene que dar OK.
+4. Ver en GitHub → Actions que «Publicar en Telegram y redes» y «Asistente en el móvil» están en marcha.
+5. Mirar qué sale hoy (`auto.json` + `cola.json`) antes de proponer nada.
+6. Cualquier cambio: tests → `git pull --rebase` → commit → `git push` → comprobar que el bucle no lo pisa.
+7. Antes de decir a Marcos que algo funciona: probarlo (simulación de la sección 7) y decir exactamente
+   qué se ha probado y qué no.
 
 ## 7. Mantenimiento: cómo comprobar que todo va bien
 

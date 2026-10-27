@@ -15,6 +15,7 @@ la que tienen que salir. El Publicador los publica desde ahí.
 """
 
 import json
+import re
 from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, RAIZ, leer
@@ -93,7 +94,10 @@ def mejores_para_lista(picks):
     # 26/10: en las listas solo lo que el bot de verdad ve probable (antes salía "Gana el Lazio" con un 47 %)
     candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])
                   and (p.get("prob_aprendida") is None or p["prob_aprendida"] >= PROB_MIN_LISTA)
-                  and p.get("campo") not in ("faltas_c",)]   # 27/10: nada de "X comete 1+ faltas" en las listas
+                  and p.get("campo") not in ("faltas_c",)   # 27/10: nada de "X comete 1+ faltas" en las listas
+                  # 27/10 (Marcos): «más de 2,5 goles» (también con «ambos marcan») solo si es muy probable (≥70 %)
+                  and not (re.search(r"Over 2\.5|o/yes 2\.5", f"{p['mercado']}|{p['opcion']}")
+                           and (p.get("prob_aprendida") or 0) < 0.70)]
     por_tipo = {}
     for p in candidatos:
         por_tipo.setdefault(p.get("tipo") or "otros", []).append(p)
