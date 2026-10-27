@@ -209,10 +209,18 @@ def pareja(a, b):
     """Cuánto recorta bet365 al juntar estas dos patas en «Crear apuesta» (1 = nada)."""
     fa, fb = familia(a), familia(b)
     la, lb = lado(a), lado(b)
+    goleador = {"jugador-goles", "jugador-gol_o_asist"}
+    if fa in goleador or fb in goleador:   # 28/10: un jugador marca va muy ligado a los goles y al resultado
+        otra = fb if fa in goleador else fa
+        return 0.88 if otra == "goles" else 0.90 if otra == "resultado" else 0.97 if otra != "tarjetas" else 1.0
     if "tarjetas" in (fa, fb) or "fueras" in (fa, fb) or "faltas" in (str(a.get("campo")), str(b.get("campo"))):
         return 1.0
     if la and lb:
         if la != lb:
+            # 28/10: City gana alguna parte + Brighton marca + Brighton 1,5 tarjetas + 9,5 tiros a puerta:
+            # 5,18 multiplicando → 4,25 en bet365. Un equipo gana (o gana una parte) y el rival marca se recorta.
+            if {fa, fb} == {"resultado", "goles"}:
+                return 0.85
             return 1.0
         if {fa, fb} == {"resultado", "goles"}:          # gana/o empata + ese equipo marca: van muy juntas
             return 0.80
@@ -230,6 +238,8 @@ def pareja(a, b):
     if fa == "goles" and fb == "goles":                  # más de 1,5 + ambos marcan, gol 1ª parte…
         return 0.90
     if {fa, fb} == {"goles", "resultado"}:
+        return 0.97
+    if {fa, fb} == {"resultado", "tiros"}:   # 28/10 (caso del City): ganar y muchos tiros a puerta van juntos
         return 0.97
     if "tiros" in (fa, fb) and {fa, fb} & {"jugador-tiros", "jugador-a_puerta"}:   # tiros del partido + de un jugador
         return 0.94
@@ -257,6 +267,9 @@ def cuota_real_sel(sel, cuotas):
         if "Player" in m:
             x.update(tipo="jugador", jugador=o.rsplit(" - ", 1)[0],
                      campo="a_puerta" if "Target" in m else "faltas_c" if "Foul" in m else "tiros")
+        elif m in ("Anytime Goal Scorer", "Player to Score or Assist", "Player to be booked"):   # 28/10: goleadores
+            x.update(tipo="jugador", jugador=o, campo={"Anytime Goal Scorer": "goles", "Player to be booked": "amarillas"}
+                     .get(m, "gol_o_asist"))
         patas.append(x)
     total = 1.0
     for pid in {x["partido_id"] for x in patas}:

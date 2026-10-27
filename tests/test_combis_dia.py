@@ -44,3 +44,11 @@ class FactorCrear(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RecorteCaso28(unittest.TestCase):
+    def test_city_brighton_como_bet365(self):
+        import combis_dia
+        sel = ["1|To Win Either Half|Home", "1|Total - Away|Over 0.5", "1|Away Team Total Cards|Over 1.5", "1|Total ShotOnGoal|Over 9.5"]
+        real = combis_dia.cuota_real_sel(sel, [1.33, 1.36, 1.50, 1.91])
+        self.assertAlmostEqual(real, 4.25, delta=0.15)   # bet365 pagaba 4,25 (Marcos, 28/10)
