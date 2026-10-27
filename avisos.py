@@ -26,6 +26,7 @@ def main():
     reg = leer(DATOS / "registro_aciertos.json", {}) or {}
     clave = lambda p: f"{p['partido_id']}|{p['mercado']}|{p['opcion']}"
     desde = (ahora - timedelta(days=2)).strftime("%Y-%m-%d")
+    control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
 
     # 27/10: aciertos de todo lo publicado (combis de partido, x3, loca, escalera…), en cuanto la app los da por verdes
     app = leer(RAIZ / "docs" / "datos.json", {}) or {}
@@ -51,6 +52,11 @@ def main():
             dict(x, **enviados.get(x["id"], {}), **est_redes.get(x["id"], {})) for x in leer(RAIZ / "publicaciones" / "auto.json", []) or []]:
         if p["fecha"][:10] < desde:
             continue
+        # 27/10: nada de falsas alarmas: un post quitado o cancelado a propósito, o que aún no le toca, no es un fallo
+        # (esa mañana saltó «no salió a su hora» con dos combis que se habían quitado a mano)
+        if (p["id"] in (control.get("cancelados") or []) or p.get("caducada") in ("quitada", "cancelado")
+                or "quitada" in str(p.get("nota", "")) or p["fecha"] > ahora.strftime("%Y-%m-%dT%H:%M")):
+            continue
         fallos = dict(p.get("errores_redes") or {})
         if p.get("error"):
             fallos["telegram"] = p["error"]
@@ -61,7 +67,10 @@ def main():
                 continue
             k = f"fallo-{p['id']}-{red}"
             if k not in hecho:
-                avisos.append((k, f"⚠️ Fallo publicando en {red}:\n{p['texto'].splitlines()[0][:50]}\n{str(e)[:200]}"))
+                lineas = p["texto"].splitlines()
+                avisos.append((k, f"⚠️ Fallo publicando en {red} (post de las {p['fecha'][11:16]}):\n{lineas[0][:60]}\n"
+                                  + (f"{lineas[1][:60]}\n" if len(lineas) > 1 and lineas[1].strip() else "")
+                                  + f"{str(e)[:200]}"))
 
     # 27/10 (Marcos): a las 10:00, las 2 combis «Crear apuesta» del día para que las monte en bet365
     k = f"boletos-{ahora:%Y-%m-%d}"

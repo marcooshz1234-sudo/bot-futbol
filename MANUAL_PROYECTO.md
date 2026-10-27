@@ -433,6 +433,7 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 | Combis todas iguales (4 patas a x7), demasiados «más de 2,5» y tiros totales | Búsqueda que solo miraba la cuota | Reglas de variedad (sección 4) |
 | Picks de «menos de goles» que fallaron | — | Prohibidos |
 | Posts subidos sin enseñárselos a Marcos | — | Siempre enseñar antes |
+| Falsa alarma «no salió a su hora» de dos combis quitadas a mano (27/10) | Se quitaron con `"caducada": true`, que significa «fallo» | Quitar siempre con `"caducada": "quitada"`; los avisos ya ignoran lo quitado, lo cancelado y lo que aún no le toca, y dicen la hora y el partido |
 
 ---
 
