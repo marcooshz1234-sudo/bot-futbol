@@ -35,6 +35,9 @@ class FactorCrear(unittest.TestCase):
                 mk("Home Player Shots On Target Total", "Gustavo Varela - 1", tipo="jugador", jugador="Varela", campo="a_puerta"),
                 mk("ShotOnTarget 1x2", "Away")]
         self.assertAlmostEqual(combis_dia.factor_crear(comb), 0.86, delta=0.02)
+        comb2 = [comb[0], comb[3], mk("Total - Home", "Over 0.5"), mk("Home Corners Over/Under", "Over 3.5"),
+                 mk("Total Shots", "Over 28.5")]
+        self.assertAlmostEqual(combis_dia.factor_crear(comb2), 0.63, delta=0.02)
         # gana o empata + ese equipo marca: recorte fuerte
         self.assertLess(combis_dia.pareja(mk("Double Chance", "Home/Draw"), mk("Total - Home", "Over 0.5")), 0.85)
 

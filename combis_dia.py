@@ -24,7 +24,8 @@ PARTIDO = {"patas": (4, 7), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
-# asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53). Por eso ya no es un factor fijo: va por parejas.
+# asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53); Monza–Napoli (McTominay 2+ remates, Varela 1+
+# a puerta, Monza marca, Monza +3 córners, +28,5 remates) multiplica 9,46 y paga 6,00 (0,63). Por eso ya no es un factor fijo: va por parejas.
 FACTOR_MIN = 0.45
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
@@ -217,11 +218,17 @@ def pareja(a, b):
             return 0.80
         if fa == fb == "resultado":                      # o empate + gana alguna parte: casi lo mismo
             return 0.85
+        if "goles" in (fa, fb) and "resultado" not in (fa, fb):   # ese equipo marca + sus córners/tiros
+            return 0.88
+        if "corners" in (fa, fb) and (fa.startswith("jugador") or fb.startswith("jugador")):
+            return 0.93
         return 0.97                                      # mismo equipo: córners, tiros, jugadores…
     if fa == "goles" and fb == "goles":                  # más de 1,5 + ambos marcan, gol 1ª parte…
         return 0.90
     if {fa, fb} == {"goles", "resultado"}:
         return 0.97
+    if "tiros" in (fa, fb) and {fa, fb} & {"jugador-tiros", "jugador-a_puerta"}:   # tiros del partido + de un jugador
+        return 0.94
     if "goles" in (fa, fb) or (fa == fb == "tiros") or {fa, fb} <= {"tiros", "jugador-tiros", "jugador-a_puerta"}:
         return 0.99
     if fa == fb == "corners":
