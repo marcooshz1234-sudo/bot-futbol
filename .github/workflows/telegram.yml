@@ -42,6 +42,7 @@ jobs:
           while [ "$(date +%s)" -lt "$fin" ]; do
             ahora=$(date +%s)
             i=$(date +%s); timeout 90 git pull --rebase --autostash -X theirs -q || git rebase --abort || true; echo "$(date -u +%H:%M:%S) git_pull - $(( $(date +%s) - i ))s" >> datos/bucle_log.txt
+            python -u reparar_json.py || true
             paso incidencias 180 incidencias.py
             if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; paso cuotas_frescas 240 cuotas_frescas.py; paso alineaciones_posts 240 alineaciones_posts.py; fi
             paso publicar_telegram 180 publicar_telegram.py

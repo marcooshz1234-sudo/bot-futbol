@@ -25,7 +25,10 @@ for red, (var, prueba) in pruebas.items():
         estado[red] = f"ERROR · {e}"
 # aviso por Telegram al dueño del canal (máx. 1 al día): si una clave falla o se acerca su caducidad
 ARCHIVO = RAIZ / "publicaciones" / "estado_redes.json"
-previo = json.loads(ARCHIVO.read_text(encoding="utf-8")) if ARCHIVO.exists() else {}
+try:   # 27/10: si el archivo se rompe (choque de git), se sigue igual: lo importante es comprobar las claves
+    previo = json.loads(ARCHIVO.read_text(encoding="utf-8")) if ARCHIVO.exists() else {}
+except ValueError:
+    previo = {}
 hoy = estado["comprobado"][:10]
 estado["avisado"] = previo.get("avisado")
 fallos = [f"{r}: {v}" for r, v in estado.items() if isinstance(v, str) and v.startswith("ERROR")]
