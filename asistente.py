@@ -56,15 +56,26 @@ def git(*args):
 
 
 def guardar(mensaje):
-    git("add", "-A", "publicaciones", "datos/comunidad_picks.json")
+    # 27/10: OJO, con una ruta que no existe «git add» no añade NADA (fallo desde el 26/10: datos/comunidad_picks.json
+    # no existe y ningún cancelado, cambio de texto ni aviso del móvil llegaba a guardarse). Solo rutas que existan.
+    rutas = [r for r in ("publicaciones", "datos/comunidad_picks.json", "datos/asistente_log.txt") if (RAIZ / r).exists()]
+    r = git("add", "-A", *rutas)
+    if r.returncode:
+        print("git add:", r.stderr[-300:])
+        raise RuntimeError(f"no he podido preparar «{mensaje}» para guardarlo: {r.stderr[-200:]}")
     if git("diff", "--cached", "--quiet").returncode == 0:
         return
     git("commit", "-q", "-m", f"Asistente: {mensaje}")
     for _ in range(5):
-        if git("pull", "--rebase", "-q").returncode != 0:
+        r = git("pull", "--rebase", "-q")
+        if r.returncode != 0:
+            print("git pull:", r.stderr[-400:])
             git("rebase", "--abort")      # 27/10: si choca, no dejar el repo atascado a medias
-        elif git("push", "-q").returncode == 0:
-            return
+        else:
+            r = git("push", "-q")
+            if r.returncode == 0:
+                return
+            print("git push:", r.stderr[-400:])
         time.sleep(5)
     # 27/10: nunca en silencio. El error llega al móvil («⚠️ Algo ha fallado: …») y el commit queda en local:
     # actualizar() lo vuelve a intentar subir cada 2 minutos.
@@ -73,16 +84,24 @@ def guardar(mensaje):
 
 def guardar_archivos(rutas, mensaje):
     """Sube solo estos archivos (nuevos o solo del asistente): nunca choca con lo que escribe el bucle."""
-    git("add", *[str(r) for r in rutas])
+    r = git("add", *[str(r) for r in rutas])
+    if r.returncode:
+        print("git add:", r.stderr[-300:])
     if git("diff", "--cached", "--quiet").returncode != 0:
-        git("commit", "-q", "-m", f"Asistente: {mensaje}")
+        r = git("commit", "-q", "-m", f"Asistente: {mensaje}")
+        if r.returncode:
+            print("git commit:", r.stdout[-300:], r.stderr[-300:])
     for _ in range(5):
-        if git("pull", "--rebase", "-q").returncode != 0:
+        r = git("pull", "--rebase", "-q")
+        if r.returncode != 0:
+            print("git pull:", r.stderr[-400:])
             git("rebase", "--abort")
             time.sleep(5)
             continue
-        if git("push", "-q").returncode == 0:
+        r = git("push", "-q")
+        if r.returncode == 0:
             return True
+        print("git push:", r.stderr[-400:])
         time.sleep(5)
     return False
 
