@@ -242,6 +242,8 @@ estén. Medido en bet365 el 27/10:
 | Dortmund–Werder: +2,5 goles + Werder marca | 2,26 | ~1,80 | 0,80 |
 | Monza marca + Varela 1+ a puerta | 2,26 | 2,05 | 0,91 |
 | Juve gana alguna mitad + Genoa +1 tarjetas | 2,14 | 2,10 | 0,98 |
+| City gana alguna mitad + Brighton marca + Brighton +1,5 tarjetas + +9,5 tiros a puerta (28/10) | 5,18 | 4,25 | 0,82 |
+| Milan gana + Bologna marca + Bologna +2,5 córners + Milan +1,5 tarjetas + Ferguson 1+ faltas (28/10) | ~8,6 | 10,50 | >1 |
 
 **Entre partidos distintos bet365 multiplica tal cual** (comprobado: boleto x33,75 exacto).
 

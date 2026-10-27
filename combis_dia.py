@@ -217,10 +217,8 @@ def pareja(a, b):
         return 1.0
     if la and lb:
         if la != lb:
-            # 28/10: City gana alguna parte + Brighton marca + Brighton 1,5 tarjetas + 9,5 tiros a puerta:
-            # 5,18 multiplicando → 4,25 en bet365. Un equipo gana (o gana una parte) y el rival marca se recorta.
-            if {fa, fb} == {"resultado", "goles"}:
-                return 0.85
+            # 28/10: Milan gana + Bologna marca (+ córners, tarjetas, faltas): bet365 pagaba 10,50, MÁS que
+            # multiplicando (~8,6). Que gane uno y marque el otro no se recorta.
             return 1.0
         if {fa, fb} == {"resultado", "goles"}:          # gana/o empata + ese equipo marca: van muy juntas
             return 0.80
@@ -239,8 +237,13 @@ def pareja(a, b):
         return 0.90
     if {fa, fb} == {"goles", "resultado"}:
         return 0.97
-    if {fa, fb} == {"resultado", "tiros"}:   # 28/10 (caso del City): ganar y muchos tiros a puerta van juntos
-        return 0.97
+    # 28/10 (City gana una parte + Brighton marca + 1,5 tarjetas + 9,5 tiros a puerta: 5,18 → 4,25 en bet365):
+    # los tiros del partido van muy ligados a que haya goles y a que alguien gane
+    tiros_partido = (fa == "tiros" and not la) or (fb == "tiros" and not lb)   # «más de X tiros a puerta» del partido
+    if {fa, fb} == {"resultado", "tiros"} and tiros_partido:
+        return 0.87
+    if {fa, fb} == {"goles", "tiros"} and tiros_partido:
+        return 0.96
     if "tiros" in (fa, fb) and {fa, fb} & {"jugador-tiros", "jugador-a_puerta"}:   # tiros del partido + de un jugador
         return 0.94
     if "goles" in (fa, fb) or (fa == fb == "tiros") or {fa, fb} <= {"tiros", "jugador-tiros", "jugador-a_puerta"}:
