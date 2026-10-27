@@ -1,0 +1,27 @@
+name: Leer registro de una ejecución (a mano)
+# 27/10: para revisar desde fuera qué ha pasado en una ejecución (p. ej. del asistente): guarda las últimas
+# líneas de su registro en datos/registro_ejecucion.txt. No publica nada.
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Id de la ejecución"
+        required: true
+permissions:
+  contents: write
+  actions: read
+jobs:
+  leer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar el registro
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run view ${{ github.event.inputs.run_id }} --repo ${{ github.repository }} --log > /tmp/log.txt 2>&1 || true
+          grep -v -i "apt\|Unpacking\|Selecting\|Preparing to\|Setting up\|Processing triggers\|Get:" /tmp/log.txt | tail -n 400 > datos/registro_ejecucion.txt
+          git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
+          git add datos/registro_ejecucion.txt && git commit -qm "Registro de la ejecución ${{ github.event.inputs.run_id }}" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
