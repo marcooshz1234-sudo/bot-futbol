@@ -729,7 +729,7 @@
   {
     "id": "2026-10-27-combi-sassuolo-lazio",
     "fecha": "2026-10-27T17:40",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs LAZIO 🇮🇹\n\n🎯 LAZIO O EMPATE [x1.30]\n✅ SASSUOLO MARCA [x1.30]\n✅ LAZIO VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ LAZIO GANA ALGUNA DE LAS DOS PARTES [x1.57]\n✅ MÁS DE 24,5 TIROS [x1.80]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 7,16\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs LAZIO 🇮🇹\n\n🎯 LAZIO VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ LAZIO GANA ALGUNA DE LAS DOS PARTES [x1.57]\n✅ MÁS DE 8,5 TIROS A PUERTA [x1.73]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 7,05\n🟢 VERDE A VERDE 🟢",
     "tarjeta": {
       "local": "Sassuolo",
       "visitante": "Lazio",
@@ -741,23 +741,21 @@
       "liga": "Serie A"
     },
     "sel": [
-      "1550174|Double Chance|Draw/Away",
-      "1550174|Total - Home|Over 0.5",
       "1550174|Away Team Total Cards|Over 1.5",
       "1550174|To Win Either Half|Away",
-      "1550174|Total Shots|Over 24.5"
+      "1550174|Total ShotOnGoal|Over 8.5",
+      "1550174|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.3,
-      1.3,
       1.5,
       1.57,
-      1.8
+      1.73,
+      1.73
     ],
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16",
+    "nota": "rehecha el 27/10 10:30 con la cuota real de Crear apuesta (Marcos)",
     "forzar": true
   },
   {
@@ -791,13 +789,14 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16",
-    "forzar": true
+    "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
+    "forzar": true,
+    "caducada": true
   },
   {
     "id": "2026-10-27-combi-torino-como",
     "fecha": "2026-10-27T19:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 TORINO vs COMO 🇮🇹\n\n🎯 TORINO MARCA [x1.44]\n✅ MÁS DE 2,5 TARJETAS [x1.57]\n✅ MÁS DE 9,5 TIROS A PUERTA [x2.00]\n✅ TORINO HACE MÁS DE 3,5 CÓRNERS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 9,50\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 TORINO vs COMO 🇮🇹\n\n🎯 TORINO MARCA [x1.44]\n✅ MÁS DE 2,5 TARJETAS [x1.57]\n✅ MÁS DE 9,5 TIROS A PUERTA [x2.00]\n✅ TORINO HACE MÁS DE 3,5 CÓRNERS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 8,27\n🟢 VERDE A VERDE 🟢",
     "tarjeta": {
       "local": "Torino",
       "visitante": "Como",
@@ -829,7 +828,7 @@
   {
     "id": "2026-10-27-combi-as-roma-cagliari",
     "fecha": "2026-10-27T18:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AS ROMA vs CAGLIARI 🇮🇹\n\n🎯 CAGLIARI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ AS ROMA MARCA 2 O MÁS [x1.44]\n✅ MÁS DE 26,5 TIROS [x1.73]\n✅ CAGLIARI MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 2-2 | 3-1\n💥 Cuota total aprox.: 7,04\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AS ROMA vs CAGLIARI 🇮🇹\n\n🎯 CAGLIARI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ AS ROMA MARCA 2 O MÁS [x1.44]\n✅ MÁS DE 26,5 TIROS [x1.73]\n✅ CAGLIARI MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 2-2 | 3-1\n💥 Cuota total aprox.: 6,90\n🟢 VERDE A VERDE 🟢",
     "tarjeta": {
       "local": "AS Roma",
       "visitante": "Cagliari",
@@ -887,8 +886,9 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16",
-    "forzar": true
+    "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
+    "forzar": true,
+    "caducada": true
   },
   {
     "id": "2026-10-27-boleto-x33",
