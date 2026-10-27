@@ -422,6 +422,14 @@ class Asistente:
         finally:
             origen.unlink(missing_ok=True)
         self.boleto, self.borrador = {"id": pid, "foto": destino}, None
+        try:   # 27/10: las patas, para seguir el boleto en la app (no se publican)
+            from PIL import Image
+            import boleto_patas
+            actualizar()
+            self.boleto["patas"] = boleto_patas.leer_patas(Image.open(destino).convert("RGB"))
+        except Exception as e:
+            print("patas:", e)
+            self.boleto["patas"] = []
         api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": "✂️ Así queda recortada (sin importe ni ganancias)."},
             archivo=destino)
         if cuota:
@@ -432,7 +440,12 @@ class Asistente:
     def vista_boleto(self, cuota):
         self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
                                 + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
-        return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}",
+        patas = self.boleto.get("patas") or []
+        ok = [p for p in patas if p.get("sel")]
+        seguir = (f"\n\n📋 Para la app (no se publica): leo {len(patas)} patas y sigo {len(ok)}."
+                  + "".join(f"\n{'✅' if p.get('sel') else '❓'} {p['texto']}" for p in patas)) if patas else \
+            "\n\n📋 No he podido leer las patas: en la app no saldrá este boleto."
+        return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}{seguir}",
                            [[("✅ Subir", "boleto_ok"), ("✏️ Otra cuota", "boleto_cuota"), ("🗑️ Descartar", "descartar")]])
 
     def subir_boleto(self):
@@ -469,7 +482,12 @@ class Asistente:
         elif token:
             res.append("⚠️ Threads: no pude subir la foto al repositorio")
         propios = leer(PROPIOS, [])
-        propios.append({"id": b["id"], "texto": b["texto"], "foto": True, "boleto": True, "patas": b.get("patas"),
+        patas = b.get("patas") or []
+        propios.append({"id": b["id"], "texto": b["texto"], "foto": True, "boleto": True,
+                        "imagen": str(b["foto"].relative_to(RAIZ)),
+                        "fecha": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"),
+                        "sel": [p["sel"] or f"0|?|{p['texto']}" for p in patas], "cuotas": [None] * len(patas),
+                        "textos": [p.get("texto_app") or p["texto"] for p in patas], "partidos": [p["partido"] for p in patas],
                         "enviado": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"), "mensaje_id": mid,
                         "redes": {"threads": th}})
         escribir(PROPIOS, propios[-100:])

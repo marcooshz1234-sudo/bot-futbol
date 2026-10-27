@@ -907,6 +907,54 @@
       "instagram_story": null,
       "facebook": null,
       "threads": "18639907471038479"
-    }
+    },
+    "sel": [
+      "1550172|Total - Home|Over 0.5",
+      "1550172|Player Shots On Target Total|Gustavo Varela - 1",
+      "1550171|To Win Either Half|Away",
+      "1550171|Home Team Total Cards|Over 1.5",
+      "1640383|Player Shots On Target Total|Evanilson - 1",
+      "1640383|Player Shots Total|Johan Manzambi - 2",
+      "1640387|Player Shots On Target Total|Joshua King - 1",
+      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
+      "1550167|Away Corners Over/Under|Over 2.5",
+      "1550173|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "textos": [
+      "Monza marca",
+      "Gustavo Varela: 1+ tiros a puerta",
+      "Juventus gana alguna de las dos partes",
+      "Genoa ve más de 1,5 tarjetas",
+      "Evanilson: 1+ tiros a puerta",
+      "Johan Manzambi: 2+ tiros",
+      "Joshua King: 1+ tiros a puerta",
+      "Lewis Ferguson comete 1+ faltas",
+      "Bologna hace más de 2,5 córners",
+      "Parma marca"
+    ],
+    "partidos": [
+      "Monza – Napoli",
+      "Monza – Napoli",
+      "Genoa – Juventus",
+      "Genoa – Juventus",
+      "Bournemouth – Aston Villa",
+      "Bournemouth – Aston Villa",
+      "Fulham – Crystal Palace",
+      "AC Milan – Bologna",
+      "AC Milan – Bologna",
+      "Parma – Udinese"
+    ]
   }
 ]

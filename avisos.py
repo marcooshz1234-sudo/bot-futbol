@@ -30,7 +30,7 @@ def main():
     app = leer(RAIZ / "docs" / "datos.json", {}) or {}
     import re
     for p in app.get("publicados_hoy", []):
-        if p.get("estado") != "verde" or "verde-auto" in p["id"] or not re.search(r"-combi-|escalera", p["id"]):
+        if p.get("estado") != "verde" or "verde-auto" in p["id"] or not re.search(r"-combi-|escalera|-boleto-", p["id"]):
             continue
         k = f"verde-{p['id']}"
         if k in hecho:

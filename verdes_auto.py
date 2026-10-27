@@ -35,7 +35,8 @@ def main():
     cola = leer(COLA, []) or []
     ids_cola = {p["id"] for p in cola}
     ahora = datetime.now(MADRID)
-    originales = {p["id"]: p for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or []) + cola}
+    originales = {p["id"]: p for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or []) + cola
+                  + (leer(RAIZ / "publicaciones" / "asistente.json", []) or [])}
     nuevos = []
     for p in d.get("publicados_hoy", []):
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
@@ -51,7 +52,11 @@ def main():
             orig = originales.get(p["id"], {}).get("texto", "").splitlines()
             partido = re.sub(r"[^\w\s.'·-]", "", orig[1]).strip() if len(orig) > 1 else ""
             titulo = f"COMBI LOCAS · {partido}" if partido else "COMBI LOCAS"
-        texto = f"✅💚 ¡VERDE{x}! {titulo} 💚✅\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs)
+        boleto = "-boleto-" in p["id"]   # 27/10: boleto de bet365 (Marcos): solo la foto y poco texto, sin las patas
+        if boleto:
+            titulo = "CREAR APUESTA"
+        texto = f"✅💚 ¡VERDE{x}! {titulo} 💚✅" + ("\n\n📲 Montada en bet365, partido a partido 👇" if boleto else
+                                                   "\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs))
         if p.get("cuota"):
             texto += f"\n\n🎯 Cuota {num(p['cuota'])}\n💶 10€ → {num(p['cuota'] * 10)}€"
         texto += "\n\n¿Quién la llevaba? 👇💚"
@@ -61,6 +66,11 @@ def main():
             continue
         post = {"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
                 "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"]}
+        foto = (originales.get(p["id"]) or {}).get("imagen") or (originales.get(p["id"]) or {}).get("foto")
+        if boleto and isinstance(foto, str) and (RAIZ / foto).exists():   # con la captura recortada
+            import shutil
+            post["foto"] = foto
+            shutil.copy(RAIZ / foto, RAIZ / "publicaciones" / "media" / f"{pid}.tarjeta.jpg")
         nuevos.append(post)
         hechos.add(p["id"])
     if not nuevos:

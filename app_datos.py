@@ -97,6 +97,8 @@ def fila_sel(sel, cuota, directo):
         texto = texto_pick(mercado, opcion, *nombres) if all(nombres) else f"{mercado} {opcion}"
     except Exception:
         texto = f"{mercado} {opcion}"
+    if mercado == "?":   # pata de un boleto que no se ha podido reconocer: se enseña tal cual y no se corrige sola
+        texto = opcion
     estado = "pendiente"
     if d and d.get("estado") not in (None, "NS", "TBD", "PST"):
         r = evaluar_pick({"mercado": mercado, "opcion": opcion}, d)
@@ -653,6 +655,9 @@ def main():
     auto = [dict(p, **enviados.get(p["id"], {}), **est_redes.get(p["id"], {}))
             for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or [])]
     todos = cola + [p for p in auto if p["id"] not in {c["id"] for c in cola}]
+    # 27/10: boletos de bet365 que sube el asistente (las patas se leen de la captura)
+    todos += [dict(p, fecha=p.get("fecha") or p["enviado"]) for p in leer(RAIZ / "publicaciones" / "asistente.json", []) or []
+              if p.get("boleto") and p.get("sel") and p["id"] not in {c["id"] for c in todos}]
 
     def resultado_post(p):
         sel = p.get("sel")
@@ -662,7 +667,8 @@ def main():
         return "verde" if r and all(x is True for x in r) else "rojo" if any(x is False for x in r) else None
 
     def cuota_post(t):
-        m = re.search(r"cuota(?: total)?(?: aprox\.)?:?\s*~?(\d+[.,]\d+)", t, re.I)
+        m = re.search(r"cuota(?: total)?(?: aprox\.)?:?\s*~?(\d+[.,]\d+)", t, re.I) or \
+            re.search(r"CREAR APUESTA x(\d+[.,]\d+)", t)   # 27/10: boletos de bet365
         return float(m.group(1).replace(",", ".")) if m else None
 
     publicados, calendario = [], []
@@ -722,6 +728,8 @@ def main():
             # 27/10: los posts nuevos del bot se corrigen con sus selecciones guardadas (partido|mercado|opción),
             # no leyendo el texto (las combis de partido van en mayúsculas y con [x1.40])
             filas = [fila_sel(s, c, directo) for s, c in zip(p["sel"], p["cuotas"])]
+            for f, t, pa in zip(filas, p.get("textos") or [], p.get("partidos") or []):   # boletos: el texto de bet365
+                f["texto"], f["partido"] = t, f["partido"] or pa
             est = p.get("resultado") or ("verde" if filas and all(x["estado"] == "verde" for x in filas) else
                    "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
             publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
