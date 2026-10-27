@@ -70,12 +70,31 @@ class BalanceTest(unittest.TestCase):
             ahora = datetime(2026, 10, 24, 23, 35, tzinfo=redes.MADRID)
             (root/'docs').mkdir()
             (root/'docs/datos.json').write_text(json.dumps({'generado_iso': ahora.isoformat(), 'publicados_hoy': [
-                {'id': 'uno', 'fecha': '2026-10-24T18:00', 'titulo': 'Combi', 'estado': 'verde', 'picks': []}]}))
+                {'id': 'uno', 'fecha': '2026-10-24T18:00', 'titulo': 'Combi', 'estado': 'verde',
+                 'picks': [{'partido_id': 1, 'texto': 'Gana el Betis', 'estado': 'verde', 'estado_partido': 'FT'}]}]}))
             with patch.multiple(resumen_dia, RAIZ=root, COLA=cola), patch.object(resumen_dia, 'datetime') as dt:
                 dt.now.return_value = ahora
                 dt.fromisoformat.side_effect = datetime.fromisoformat
                 resumen_dia.main(); resumen_dia.main()
             self.assertEqual(len(json.loads(cola.read_text())), 1)
+
+    def test_resumen_solo_picks_sin_pendientes(self):
+        pk = lambda i, t, e, ep='FT': {'partido_id': i, 'texto': t, 'estado': e, 'estado_partido': ep}
+        posts = [{'id': 'loca', 'fecha': '2026-10-27T16:00', 'titulo': '🤪 LA LOCA', 'estado': 'rojo',
+                  'picks': [pk(1, 'Lazio o empate', 'verde'), pk(2, 'Rayo gana alguna de las dos partes', 'rojo'),
+                            pk(3, 'Monza marca', 'pendiente', None)]},
+                 {'id': 'ganadores', 'fecha': '2026-10-27T01:00', 'titulo': '⚽ QUIÉN GANA HOY', 'estado': 'pendiente',
+                  'picks': [pk(1, 'Lazio — Gana o empata', 'verde'), pk(4, 'Arsenal — Gana', 'rojo')]}]
+        picks, en_juego = resumen_dia.picks_dia(posts, '2026-10-27')
+        self.assertEqual([x['texto'] for x in picks], ['Lazio o empate', 'Rayo gana alguna de las dos partes', 'Arsenal — Gana'])
+        texto, corto = resumen_dia.textos_picks(picks, '2026-10-27')
+        self.assertIn('1 DE 3 EN VERDE', texto)
+        self.assertNotIn('pendiente', texto.lower())
+        self.assertNotIn('COMBI', texto.upper().replace('COMBILOCAS', ''))
+        largo = [pk(i, f'Equipo número {i} gana el partido', 'verde') for i in range(40)]
+        _, corto = resumen_dia.textos_picks(resumen_dia.picks_dia([dict(posts[0], picks=largo)], '2026-10-27')[0], '2026-10-27')
+        self.assertLessEqual(len(corto), 500)
+        self.assertIn('más en Telegram', corto)
 
 
 class ReintentosTest(unittest.TestCase):

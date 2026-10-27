@@ -106,7 +106,7 @@ def url_media(p, ext):
 # ------------------------------------------------------------------ cada red
 
 def threads(p, token):
-    t = texto_final(p)
+    t = texto_final(dict(p, texto=p.get("texto_threads") or p["texto"]))   # 28/10: versión corta si la hay
     if len(t) > LIMITE_THREADS:   # sin la frase del dato si no cabe
         t = "\n".join(l for l in t.split("\n") if not l.startswith("📊")).replace("\n\n\n", "\n\n")
     if len(t) > LIMITE_THREADS:
