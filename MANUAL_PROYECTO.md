@@ -65,7 +65,7 @@ Gmail del proyecto de la guía (otro proyecto): soporte.tucanalconia@gmail.com.
 | **Kickoff − 50 min** | ✅ **COMBI LOCAS** de un partido (hasta 8 al día, los mejores partidos; menos si hay pocos), con la foto-tarjeta del partido | Telegram, Threads (con foto), Instagram (reel + historia) |
 | **23:00** | 🔥 **Picks para mañana** (lista de ✅ con bandera, sin horas) | Todas + historia de Instagram |
 | Al momento | ✅💚 **Verdes**: en cuanto una combi publicada sale verde, se publica sola | Todas |
-| Sábado 13:30 | 🧮 De 1 € a 500 € (solo si el bot encuentra una; coincide en hora con la x3: pendiente de que Marcos decida otra hora) | Todas |
+| Sábado 12:00 | 🧮 De 1 € a 500 € (solo si el bot encuentra una) | Todas |
 | Lunes 10:00 / domingo 22:30 | 🏆 Concurso de picks de seguidores / ranking | Telegram |
 | 19:30–21:00 (diaria) | 📊 Encuesta «De la combi de hoy, ¿qué pata crees que falla?» sobre la loca (o la x3) publicada ese día | Telegram |
 | Cuando Marcos quiera | 🎟️ **Boleto de bet365** (captura recortada) | Telegram y Threads |
@@ -156,7 +156,7 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 
 **🎟️ Boleto de bet365** (cuando Marcos lo manda): foto recortada + 3 líneas (sección 4).
 
-**🧮 De 1 € a 500 €** (sábados 13:30) y **🏆 Concurso** (lunes 10:00, ranking domingo 22:30 · `comunidad.py`).
+**🧮 De 1 € a 500 €** (sábados 12:00) y **🏆 Concurso** (lunes 10:00, ranking domingo 22:30 · `comunidad.py`).
 
 ### Cómo se sube en cada red
 

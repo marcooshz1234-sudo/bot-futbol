@@ -348,7 +348,7 @@ def posts_del_dia(dia, d):
                       combi(f"🔥 COMBILOCAS — ¡LA QUE NADIE SE ATREVE x{num(c['cuota'])}! 🔥", c["picks"], c["cuota"])))
     c = est.get("500")
     if c:
-        posts.append(("combi-500", f.replace(hour=13, minute=30), c["picks"],
+        posts.append(("combi-500", f.replace(hour=12, minute=0), c["picks"],   # 27/10: a las 12:00 (a las 13:30 va la x3)
                       combi(f"🧮 COMBILOCAS — ¡DE 1€ A 500€! x{num(c['cuota'])} 🧮", c["picks"], c["cuota"])))
 
     def libres(lista_picks):

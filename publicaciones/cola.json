@@ -681,27 +681,27 @@
   {
     "id": "2026-10-27-combi-tres-datos",
     "fecha": "2026-10-27T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x3,02! 🍀\n\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇮🇹 Torino marca\n✅ 🇪🇸 Girona gana al descanso\n\n🎯 CUOTA 3,02 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀\n\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇩🇪 Eintracht Frankfurt o empate\n✅ 🇪🇸 Girona gana al descanso\n\n🎯 CUOTA 2,86 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "bot",
     "directo": true,
     "sel": [
       "1638561|Match Winner|Home",
-      "1550175|Total - Home|Over 0.5",
+      "1638566|Double Chance|Draw/Away",
       "1644352|First Half Winner|Away"
     ],
     "cuotas": [
       1.4,
-      1.44,
+      1.36,
       1.5
     ],
-    "nota": "aprobada por Marcos el 27/10 02:16",
+    "nota": "aprobada por Marcos el 27/10 02:16; 27/10 11:45 Torino marca cambiada (máx. 2 posts por selección, Marcos)",
     "forzar": true
   },
   {
     "id": "2026-10-27-combi-loca-datos",
     "fecha": "2026-10-27T16:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x8,30! 🤪\n\n✅ 🇮🇹 Lazio o empate\n✅ 🇪🇸 Almeria gana alguna de las dos partes\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇪🇸 Cordoba gana alguna de las dos partes\n✅ 🇮🇹 Torino marca\n✅ 🇪🇸 Girona gana al descanso\n✅ 🇩🇪 Gol en la 1ª parte del 1. FC Köln–Union Berlin\n\n🎯 CUOTA 8,30 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪\n\n✅ 🇮🇹 Lazio o empate\n✅ 🇪🇸 Almeria gana alguna de las dos partes\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇪🇸 Cordoba gana alguna de las dos partes\n✅ 🇪🇸 Rayo Vallecano gana alguna de las dos partes\n✅ 🇪🇸 Girona gana al descanso\n✅ 🇩🇪 Gol en la 1ª parte del 1. FC Köln–Union Berlin\n\n🎯 CUOTA 7,21 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "bot",
     "directo": true,
@@ -710,7 +710,7 @@
       "1644345|To Win Either Half|Away",
       "1638561|Match Winner|Home",
       "1644340|To Win Either Half|Away",
-      "1550175|Total - Home|Over 0.5",
+      "1644372|To Win Either Half|Away",
       "1644352|First Half Winner|Away",
       "1638563|Goals Over/Under First Half|Over 0.5"
     ],
@@ -719,11 +719,11 @@
       1.25,
       1.4,
       1.3,
-      1.44,
+      1.25,
       1.5,
       1.3
     ],
-    "nota": "aprobada por Marcos el 27/10 02:16",
+    "nota": "aprobada por Marcos el 27/10 02:16; 27/10 11:45 Torino marca cambiada (máx. 2 posts por selección, Marcos)",
     "forzar": true
   },
   {
