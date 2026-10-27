@@ -27,6 +27,58 @@ PROB_MIN_MULTI = 0.60
 RESULTADO = ("Match Winner", "Double Chance", "To Win Either Half", "First Half Winner", "Win Both Halves")
 
 
+TIROS_FREC = {"tiros": 0.75, "a_puerta": 0.70}
+TIROS_MEDIA = {"tiros": 0.3, "a_puerta": 0.0}   # media de los últimos partidos ≥ línea + esto
+
+
+def tiros_jugadores(ex, hist, base, lok, vok):
+    """27/10 (Marcos): tiros de jugadores que tiran siempre, sin exigir valor (se busca lo que va a pasar).
+    Titulares fijos, que lo cumplan en ≥ 75 % (a puerta ≥ 70 %), con media por encima de la línea y cuyo
+    equipo no sea muy inferior (cuota de ganar < 5)."""
+    import picks as P
+    cuotas = ex.get("cuotas") or {}
+    ganar = {str(o): float(c) for o, c in cuotas.get("Match Winner") or [] if c}
+    loc, vis = ex["partido"]["teams"]["home"], ex["partido"]["teams"]["away"]
+    fijos = {"home": P.plantilla_fija(loc["id"], hist) if lok else {}, "away": P.plantilla_fija(vis["id"], hist) if vok else {}}
+    salida = {}
+    for mercado, opciones in cuotas.items():
+        campo = (P.JUG_MERCADOS.get(mercado) or (None,))[0]
+        if campo not in ("tiros", "a_puerta"):
+            continue
+        lados = ["home"] if mercado.startswith("Home") else ["away"] if mercado.startswith("Away") else ["home", "away"]
+        for valor, cuota in opciones:
+            try:
+                cuota = float(cuota)
+                nombre, n = str(valor).rsplit(" - ", 1)
+                n = int(float(n))
+            except (TypeError, ValueError):
+                continue
+            if cuota < CUOTA_MIN_PATA or cuota > 2.5:
+                continue
+            for ld in lados:
+                if ganar.get("Home" if ld == "home" else "Away", 0) >= 5.0:   # solo fuera los muy inferiores
+                    continue
+                jug = next(((pid, d) for pid, d in fijos[ld].items() if P.mismo_jugador(nombre, d["nombre"])), None)
+                if not jug or len(jug[1]["partidos"]) < P.MIN_PARTIDOS:
+                    continue
+                regs = jug[1]["partidos"]
+                si = sum(1 for r in regs if (r.get(campo) or 0) >= n)
+                media = sum(r.get(campo) or 0 for r in regs) / len(regs)
+                if si / len(regs) < TIROS_FREC[campo] or media < n + TIROS_MEDIA[campo]:
+                    continue
+                equipo = loc["name"] if ld == "home" else vis["name"]
+                p = dict(base, mercado=mercado, opcion=valor, cuota=cuota, frecuencia=round(si / len(regs), 3),
+                         ventaja=round(si / len(regs) - 1 / cuota, 3), tipo="jugador", jugador=nombre.strip(),
+                         equipo=equipo, jugador_id=jug[0], campo=campo, n=n,
+                         texto=(f"{nombre.strip()}: {n}+ tiros a puerta" if campo == "a_puerta" else f"{nombre.strip()}: {n}+ tiros"),
+                         detalle=f"{nombre.strip()} {si}/{len(regs)}")
+                k = (nombre.strip(), campo)
+                if k not in salida or (p["frecuencia"], cuota) > (salida[k]["frecuencia"], salida[k]["cuota"]):
+                    salida[k] = p
+                break
+    return list(salida.values())
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos."""
     import aprender
@@ -80,7 +132,10 @@ def pool_partido(ex, hist, ap):
             p = dict(base, mercado=m, opcion=o, tipo=P.tipo_de(m), texto=P.texto_pick(m, o, loc["name"], vis["name"]),
                      cuota=c, frecuencia=round(frec, 3), ventaja=round(frec - 1 / c, 3), detalle=det)
             pool.append(p)
+    pool += tiros_jugadores(ex, hist, base, lok, vok)
     for p in P.picks_jugadores(ex, hist, base, frec_min=0.6):
+        if p.get("campo") in ("tiros", "a_puerta"):
+            continue   # los tiros van por tiros_jugadores (sin exigir que paguen de más)
         if p.get("campo") == "amarillas":
             continue
         # 27/10 (Marcos): falta de jugador solo si la hace SIEMPRE (9 de 10 o más) y solo 1+
@@ -129,7 +184,7 @@ def variada(comb):
     resultado, 1 de tiros del partido, y al menos 3 tipos distintos en combis de 4 o más."""
     from collections import Counter
     c = Counter(familia(p) for p in comb)
-    tope = {"goles": 2, "resultado": 2, "tiros": 1}
+    tope = {"goles": 2, "resultado": 2, "tiros": 1, "jugador-tiros": 3, "jugador-a_puerta": 2}   # tiros de jugadores: hasta 3
     if any(n > tope.get(f, 2) for f, n in c.items()):
         return False
     return len(c) >= min(3, len(comb))
@@ -151,6 +206,11 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     """La combinación que más devuelve a la larga (prob × cuota) dentro de los límites."""
     best = None
     cand = [p for p in pool if p["prob_aprendida"] >= prob_min][:18]
+    # 27/10 (Marcos): los tiros de jugadores le gustan más que los goles: si el partido tiene, la combi lleva
+    # al menos 2 (o el único que haya)
+    tiros_j = [p for p in pool if familia(p) in ("jugador-tiros", "jugador-a_puerta") and p["prob_aprendida"] >= 0.5]
+    min_tiros = 0 if una_por_partido else min(2, len(tiros_j))
+    cand = cand + [p for p in tiros_j if p not in cand]
     for n in range(patas[0], patas[1] + 1):
         for comb in itertools.combinations(cand, n):
             c = math.prod(p["cuota"] for p in comb)
@@ -159,6 +219,8 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
             if una_por_partido and len({p["partido_id"] for p in comb}) < n:
                 continue
             if not una_por_partido and not (coherente(comb) and variada(comb)):
+                continue
+            if sum(1 for p in comb if familia(p) in ("jugador-tiros", "jugador-a_puerta")) < min_tiros:
                 continue
             s = math.prod(p["prob_aprendida"] for p in comb) * c
             if not best or s > best[0]:
