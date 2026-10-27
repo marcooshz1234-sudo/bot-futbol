@@ -84,8 +84,10 @@ def main():
             pagina = nav.new_page()
             for post in nuevos:
                 # sin dinero y sin la foto del boleto (norma de Instagram); la foto solo va a Telegram y Threads
+                # (la escalera sí lleva dinero: en eso consiste el reto)
                 generar(dict(post, foto=None, texto="\n".join(l for l in post["texto"].splitlines()
-                                                              if "€" not in l and "Montada en bet365" not in l)), pagina)
+                                                              if ("€" not in l or "escalera" in post["id"])
+                                                              and "Montada en bet365" not in l)), pagina)
             nav.close()
     except Exception as e:
         print(f"Verdes: sin imagen ({e}); se publica sin Instagram")
