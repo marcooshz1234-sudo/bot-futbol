@@ -114,6 +114,44 @@ def fila_sel(sel, cuota, directo):
             "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado")}
 
 
+def tipo_combi(c):
+    i, t = c.get("id", ""), c.get("titulo", "")
+    if "combi-partido" in i or "COMBI LOCAS" in t or "🆚" in t:
+        return "partido", "⚽ Combi de partido"
+    if i.endswith("-combi-tres") or "combi-tres" in i:
+        return "tres", "🔥 Combi x3"
+    if i.endswith("-combi-loca") or "combi-loca" in i or "LOCA" in t:
+        return "loca", "🤪 La loca"
+    if "escalera" in i:
+        return "escalera", "🪜 Escalera"
+    return "otras", "📊 Otras combis"
+
+
+def rentabilidad(resumenes):
+    """27/10: cuántas sale de cada tipo de combi y lo que habría dado apostar 1 € a cada una."""
+    tabla = {}
+    for dia, b in sorted(resumenes.items()):
+        for c in b.get("combis", []):
+            if c.get("estado") not in ("verde", "rojo") or not c.get("cuota"):
+                continue
+            k, nombre = tipo_combi(c)
+            t = tabla.setdefault(k, {"tipo": nombre, "jugadas": 0, "verdes": 0, "beneficio": 0.0, "cuota_media": 0.0})
+            t["jugadas"] += 1
+            t["cuota_media"] += c["cuota"]
+            if c["estado"] == "verde":
+                t["verdes"] += 1
+                t["beneficio"] += c["cuota"] - 1
+            else:
+                t["beneficio"] -= 1
+    for t in tabla.values():
+        t["pct"] = round(100 * t["verdes"] / t["jugadas"])
+        t["cuota_media"] = round(t["cuota_media"] / t["jugadas"], 2)
+        t["beneficio"] = round(t["beneficio"], 2)
+        t["roi"] = round(100 * t["beneficio"] / t["jugadas"])
+    orden = ["partido", "tres", "loca", "escalera", "otras"]
+    return [tabla[k] for k in orden if k in tabla]
+
+
 def fecha_iso(iso):
     if not iso:
         return None
@@ -722,7 +760,7 @@ def main():
     resumenes = {k: resumenes[k] for k in sorted(resumenes)[-30:]}
     resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
-             "resumenes": resumenes,
+             "resumenes": resumenes, "rentabilidad": rentabilidad(resumenes),
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,

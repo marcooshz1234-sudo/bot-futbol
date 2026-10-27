@@ -322,7 +322,7 @@ function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); retu
 
 /* ---------------- CONTENIDO ---------------- */
 function vContenido(){
-  const [modo, t] = subTabs("cmodo", [["ideas","💡 Ideas"],["calendario","🗓️ Calendario"],["muro","💚 Muro de verdes"],["archivo","🗂️ Archivo"]], "ideas");
+  const [modo, t] = subTabs("cmodo", [["calendario","🗓️ Próximos posts"],["ideas","💡 Ideas"],["muro","💚 Muro de verdes"],["archivo","🗂️ Archivo"]], "calendario");
   let h = t;
   const post = (p, extra="") => `<div class="card"><div class="row"><b class="sp">${esc(p.titulo||p.texto)}</b>${p.resultado?chipEstado(p.resultado):""}</div><div class="mut">${diaTxt(p.fecha.slice(0,10))} · ${p.fecha.slice(11,16)}${p.cuota?" · cuota "+n2(p.cuota):""}${p.redes&&p.redes.length?" · "+p.redes.join(", "):""}</div>${extra}</div>`;
   const conTexto = (p, i, pre, extra="") => post(p, `<details><summary class="mut" style="margin-top:6px">Ver texto</summary><pre>${esc(p.texto)}</pre></details><div class="row" style="margin-top:8px"><button class="btn2" onclick="copiar(window.${pre}[${i}].texto)">Copiar texto</button></div>${extra}`);
@@ -337,7 +337,11 @@ function vContenido(){
       + (p.cancelado ? `<a class="btn2" href="${BOTL}r_${p.codigo}" target="_blank" rel="noopener">↩️ Recuperar</a>`
                      : `<a class="btn2" href="${BOTL}e_${p.codigo}" target="_blank" rel="noopener">✏️ Cambiar</a><a class="btn2" href="${BOTL}c_${p.codigo}" target="_blank" rel="noopener">❌ Cancelar</a>`)
       + `</div>`;
-    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id]; return (r&&r.length?`<div class="card" style="border-left:5px solid var(--live);margin-bottom:-4px"><b>🔎 El bot ha visto esto:</b>${r.map(x=>`<div class="mut">• ${esc(x)}</div>`).join("")}</div>`:"") + conTexto(p,i,"_cal",acciones(p)) }).join("") : `<div class="empty">Nada programado</div>`;
+    // 27/10: la imagen que va a salir (la tarjeta del partido si la lleva), para verlo todo antes de que se publique
+    const RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/publicaciones/media/";
+    const foto = p => `<img loading="lazy" src="${RAW}${encodeURIComponent(p.id)}.tarjeta.jpg" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${RAW}${encodeURIComponent(p.id)}.jpg'}else{this.remove()}" style="width:100%;border-radius:12px;margin-top:8px">`;
+    h += `<div class="mut" style="margin:0 4px 10px">Todo lo que va a salir, con su texto y su imagen. ✏️ Cambiar y ❌ Cancelar abren el bot de Telegram.</div>`;
+    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id]; return (r&&r.length?`<div class="card" style="border-left:5px solid var(--live);margin-bottom:-4px"><b>🔎 El bot ha visto esto:</b>${r.map(x=>`<div class="mut">• ${esc(x)}</div>`).join("")}</div>`:"") + conTexto(p,i,"_cal",foto(p)+acciones(p)) }).join("") : `<div class="empty">Nada programado</div>`;
   } else if(modo==="muro"){
     window._muro = D.muro;
     h += `<div class="mut" style="margin:0 4px 10px">Los mejores aciertos de los últimos 7 días, de mayor a menor cuota. Listos para captura.</div>` + (D.muro.length ? D.muro.map((p,i)=>`<div class="card" style="border-left:5px solid var(--ok)"><div class="row"><span style="font-size:22px">💚</span><div class="col sp"><b>${esc(p.titulo)}</b><span class="mut">${p.partido?esc(p.partido)+" · ":""}${diaTxt(p.fecha.slice(0,10))}${p.marcador?" · "+p.marcador:""}</span></div><span class="cuota big" style="font-size:20px">${n2(p.cuota)}</span></div>${p.pick?"":`<details><summary class="mut" style="margin-top:6px">Ver post</summary><pre>${esc(p.texto)}</pre></details>`}<button class="btn2" style="margin-top:8px" onclick="copiar('✅💚 VERDE 💚✅\\n\\n'+window._muro[${i}].texto)">Copiar</button></div>`).join("") : `<div class="empty">Esta semana aún no hay verdes registrados. Se van llenando según el bot corrige los partidos.</div>`);
@@ -371,6 +375,9 @@ function vStats(){
   const t = PUBLICA ? "" : t0;
   if(PUBLICA && modo !== "bot") sub.smodo = "bot";
   let h = t; const A = D.aciertos;
+  if((modo==="bot") && !PUBLICA && (D.rentabilidad||[]).length){   // 27/10: qué tipo de combi funciona
+    h += `<h2>💶 Cada tipo de combi (1 € a cada una)</h2><div class="card">` + D.rentabilidad.map(r => `<div class="leg"><div class="col sp"><b>${esc(r.tipo)}</b><span class="mut">${r.verdes} de ${r.jugadas} en verde (${r.pct} %) · cuota media ${n2(r.cuota_media)}</span></div><div class="col" style="align-items:flex-end"><b style="color:${r.beneficio>=0?"var(--ok)":"var(--ko)"}">${r.beneficio>=0?"+":""}${n2(r.beneficio)} €</b><span class="mut">${r.roi>=0?"+":""}${r.roi} % por euro</span></div></div>`).join("") + `<div class="mut" style="margin-top:6px">Con lo corregido de los últimos 30 días. Con pocas jugadas aún dice poco.</div></div>`;
+  }
   if(modo==="bot" || PUBLICA){
     h += `<div class="grid2"><div class="stat"><span class="mut">Acierto total</span><b>${A.total.pct??"—"}%</b><span class="mut">${A.total.aciertos}/${A.total.picks} picks</span></div>${PUBLICA?`<div class="stat"><span class="mut">Picks corregidos</span><b>${A.total.picks}</b><span class="mut">todos, también los fallos</span></div>`:`<div class="stat"><span class="mut">Beneficio (10 €/pick)</span><b style="color:${A.total.beneficio>=0?"var(--ok)":"var(--ko)"}">${eur(A.total.beneficio)}</b><span class="mut">desde que hay registro</span></div>`}<div class="stat"><span class="mut">Racha</span><b>${A.racha_dias} 🔥</b><span class="mut">días seguidos ≥70%</span></div><div class="stat"><span class="mut">Último día</span><b>${A.por_dia.length?A.por_dia[A.por_dia.length-1].pct+"%":"—"}</b><span class="mut">${A.por_dia.length?diaTxt(A.por_dia[A.por_dia.length-1].dia):""}</span></div></div>`;
     const [per, t2] = subTabs("per", [["dia","Por día"],["semana","Por semana"],["mes","Por mes"]], "semana");
