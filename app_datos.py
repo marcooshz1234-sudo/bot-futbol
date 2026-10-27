@@ -161,6 +161,12 @@ def formatos_redes(ahora):
     return sorted(filas, key=lambda f: -f["vistas"])
 
 
+# 27/10: las estadísticas de la app empiezan aquí (petición de Marcos: «reseteo» desde la primera combi
+# acertada de ayer, la combi de datos del 26/10 a las 12:00). Lo anterior no se borra: sigue en
+# datos/registro_aciertos.json y docs/resumenes.json; solo deja de contar en la app.
+STATS_DESDE = "2026-10-26"
+
+
 def rentabilidad(resumenes):
     """27/10: cuántas sale de cada tipo de combi y lo que habría dado apostar 1 € a cada una."""
     tabla = {}
@@ -635,7 +641,8 @@ def main():
                                                              for p in escalera["actual"]["picks"]])
 
     # --- aciertos y beneficio (10 € por pick)
-    hechos = sorted((p for p in reg.values() if p.get("acierto") is not None), key=lambda p: p["fecha"])
+    hechos = sorted((p for p in reg.values() if p.get("acierto") is not None and p.get("fecha", "") >= STATS_DESDE),
+                    key=lambda p: p["fecha"])
     def resumen(lista):
         a = sum(p["acierto"] for p in lista)
         return {"picks": len(lista), "aciertos": a, "pct": round(100 * a / len(lista)) if lista else None,
@@ -812,7 +819,8 @@ def main():
     resumenes = {k: resumenes[k] for k in sorted(resumenes)[-30:]}
     resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
-             "resumenes": resumenes, "rentabilidad": rentabilidad(resumenes), "formatos_redes": formatos_redes(ahora),
+             "resumenes": {k: v for k, v in resumenes.items() if k >= STATS_DESDE},
+             "rentabilidad": rentabilidad({k: v for k, v in resumenes.items() if k >= STATS_DESDE}), "stats_desde": STATS_DESDE, "formatos_redes": formatos_redes(ahora),
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
