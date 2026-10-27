@@ -43,7 +43,19 @@ COMPETICIONES = {
     40: "Championship",
     88: "Eredivisie",
     94: "Primeira Liga",
+    # 27/10: copas nacionales (Arsenal, Villarreal, Girona, los alemanes… entre semana). Solo se miran los
+    # partidos en los que juega algún equipo de las ligas de arriba (si no, la Copa de Francia son cientos
+    # de partidos de aficionados)
+    143: "Copa del Rey",
+    48: "Carabao Cup",
+    45: "FA Cup",
+    137: "Coppa Italia",
+    81: "DFB-Pokal",
+    66: "Coupe de France",
+    96: "Taça de Portugal",
+    90: "KNVB Beker",
 }
+COPAS = {143, 48, 45, 137, 81, 66, 96, 90}
 
 TERMINADOS = {"FT", "AET", "PEN"}
 BASE = "https://v3.football.api-sports.io"
@@ -266,8 +278,11 @@ def recoger(api):
     calendario = {}
 
     # 1) Calendario completo de cada competición (1 petición por competición)
-    for liga, nombre in COMPETICIONES.items():
+    nuestros = set()   # equipos de nuestras ligas (las copas van después: solo sus partidos)
+    for liga, nombre in sorted(COMPETICIONES.items(), key=lambda x: x[0] in COPAS):
         lista = api.get("fixtures", league=liga, season=TEMPORADA)
+        if liga in COPAS:   # fuera los partidos sin ningún equipo nuestro (aficionados, categorías bajas)
+            lista = [p for p in lista if p["teams"]["home"]["id"] in nuestros or p["teams"]["away"]["id"] in nuestros]
         print(f"- {nombre}: {len(lista)} partidos en el calendario")
         if lista:
             escribir(DATOS / f"calendario_{liga}.json", lista)
@@ -275,6 +290,8 @@ def recoger(api):
             lista = leer(DATOS / f"calendario_{liga}.json", [])
         for p in lista:
             calendario[p["fixture"]["id"]] = p
+            if liga not in COPAS:
+                nuestros.update((p["teams"]["home"]["id"], p["teams"]["away"]["id"]))
 
     # 2) Partidos terminados que aún no tenemos: detalle completo en lotes de 20
     pendientes = [

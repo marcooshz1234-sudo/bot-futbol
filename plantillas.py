@@ -113,7 +113,8 @@ GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "ar
 BANDERA = {"LaLiga": "🇪🇸", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪",
            "Ligue 1": "🇫🇷", "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢",
            "Champions": "⭐", "Conference": "🟢", "Segunda": "🇪🇸", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Eredivisie": "🇳🇱",
-           "Primeira Liga": "🇵🇹"}
+           "Primeira Liga": "🇵🇹", "Copa del Rey": "🇪🇸", "Carabao Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "FA Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+           "Coppa Italia": "🇮🇹", "DFB-Pokal": "🇩🇪", "Coupe de France": "🇫🇷", "Taça de Portugal": "🇵🇹", "KNVB Beker": "🇳🇱"}
 CORTO = {"paris saint germain": "PSG", "manchester united": "MAN. UNITED", "manchester city": "MAN. CITY",
          "bayern münchen": "BAYERN", "borussia dortmund": "DORTMUND", "bayer leverkusen": "LEVERKUSEN",
          "atletico madrid": "ATLÉTICO", "real madrid": "MADRID", "barcelona": "BARÇA", "ac milan": "MILAN"}
