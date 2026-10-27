@@ -1,7 +1,7 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -190,39 +190,39 @@ _Sin bajas comunicadas por ahora._
 | Dani MartÃ­nez | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,82 · córners esperados 9,2._
+_Goles esperados: local 1,05 · visitante 1,90 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 58% | 56% | 1.60 | -11% |
-| 1X2: X | 23% | 23% | 23% | 4.10 | -7% |
-| 1X2: 1 | 23% | 20% | 21% | 4.75 | +1% |
-| Doble oportunidad: X2 | 77% | 81% | 79% | 1.18 | -7% |
-| Doble oportunidad: 12 | 77% | 78% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 46% | 41% | 44% | 2.30 | +1% |
-| Ambos marcan: No | 44% | 41% | 42% | 2.25 | -5% |
-| Ambos marcan: Sí | 56% | 59% | 58% | 1.57 | -9% |
+| 1X2: 2 | 57% | 58% | 58% | 1.60 | -8% |
+| 1X2: X | 22% | 23% | 22% | 4.10 | -8% |
+| 1X2: 1 | 21% | 20% | 20% | 4.75 | -5% |
+| Doble oportunidad: X2 | 79% | 81% | 80% | 1.18 | -6% |
+| Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
+| Doble oportunidad: 1X | 43% | 41% | 42% | 2.30 | -3% |
+| Ambos marcan: No | 45% | 41% | 43% | 2.25 | -3% |
+| Ambos marcan: Sí | 55% | 59% | 57% | 1.57 | -10% |
 | Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Más de 4.5 | 17% | 24% | 21% | 4.00 | -17% |
+| Goles más/menos: Más de 4.5 | 18% | 24% | 21% | 4.00 | -17% |
 | Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +2% |
 | Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
-| Goles más/menos: Menos de 4.5 | 83% | 76% | 79% | 1.25 | -1% |
+| Goles más/menos: Menos de 4.5 | 82% | 76% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 42% | 39% | 2.20 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
-| Goles del local: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del local: Más de 1.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del local: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del local: Menos de 1.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 54% | 62% | 58% | 1.50 | -12% |
-| Goles del visitante: Más de 2.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles del visitante: Menos de 1.5 | 46% | 38% | 42% | 2.50 | +4% |
-| Goles del visitante: Menos de 2.5 | 72% | 65% | 68% | 1.44 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 58% | 61% | 1.62 | -2% |
+| Goles del local: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles del local: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
+| Goles del local: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles del local: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
+| Goles del visitante: Más de 1.5 | 57% | 62% | 60% | 1.50 | -11% |
+| Goles del visitante: Más de 2.5 | 30% | 35% | 33% | 2.62 | -15% |
+| Goles del visitante: Menos de 1.5 | 43% | 38% | 40% | 2.50 | +1% |
+| Goles del visitante: Menos de 2.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Córners más/menos: Más de 9.5 | 42% | 48% | 45% | 1.98 | -11% |
-| Córners más/menos: Menos de 9.5 | 58% | 52% | 55% | 1.82 | -0% |
-| 1X2 descanso: 2 | 40% | 44% | 42% | 2.10 | -12% |
-| 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
+| Córners más/menos: Menos de 9.5 | 58% | 52% | 55% | 1.82 | +0% |
+| 1X2 descanso: 2 | 42% | 44% | 43% | 2.10 | -10% |
+| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

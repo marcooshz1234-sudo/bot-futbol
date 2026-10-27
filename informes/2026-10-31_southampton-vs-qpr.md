@@ -1,7 +1,7 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -59,53 +59,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Southampton (total) | Southampton en casa | QPR (total) | QPR fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 14 | 7 | 13 | 6 |
 | Forma (últimos 5) | VEVVD | EVVVV | VDVEE | DEEEV |
-| Balance | 7V 3E 2D | 5V 1E 0D | 5V 5E 2D | 2V 3E 1D |
-| Goles a favor / partido | 2,00 | 2,67 | 1,67 | 1,17 |
-| Goles en contra / partido | 1,00 | 0,67 | 1,00 | 1,17 |
-| Goles a favor 1ª parte | 1,00 | 1,17 | 1,08 | 0,83 |
-| Goles a favor 2ª parte | 1,00 | 1,50 | 0,58 | 0,33 |
-| Goles en contra 1ª parte | 0,50 | 0,33 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 0,50 | 0,33 | 0,50 | 0,67 |
-| Más de 1,5 goles | 75% | 67% | 75% | 83% |
-| Más de 2,5 goles | 58% | 67% | 58% | 50% |
-| Más de 3,5 goles | 42% | 67% | 33% | 17% |
-| Ambos marcan | 75% | 67% | 58% | 67% |
-| Portería a cero | 25% | 33% | 25% | 17% |
-| Se queda sin marcar | 8% | 17% | 33% | 33% |
+| Balance | 8V 3E 3D | 5V 1E 1D | 5V 6E 2D | 2V 3E 1D |
+| Goles a favor / partido | 1,93 | 2,43 | 1,62 | 1,17 |
+| Goles en contra / partido | 1,14 | 1,14 | 1,00 | 1,17 |
+| Goles a favor 1ª parte | 0,93 | 1,14 | 1,00 | 0,83 |
+| Goles a favor 2ª parte | 1,00 | 1,29 | 0,62 | 0,33 |
+| Goles en contra 1ª parte | 0,50 | 0,43 | 0,46 | 0,50 |
+| Goles en contra 2ª parte | 0,64 | 0,71 | 0,54 | 0,67 |
+| Más de 1,5 goles | 79% | 71% | 77% | 83% |
+| Más de 2,5 goles | 57% | 71% | 54% | 50% |
+| Más de 3,5 goles | 43% | 71% | 31% | 17% |
+| Ambos marcan | 71% | 71% | 62% | 67% |
+| Portería a cero | 29% | 29% | 23% | 17% |
+| Se queda sin marcar | 7% | 14% | 31% | 33% |
 | xG a favor | 1,80 | 2,05 | 1,65 | 1,26 |
 | xG en contra | 1,34 | 1,36 | 1,12 | 1,26 |
-| Tiros / partido | 15,2 | 14,3 | 14,8 | 11,7 |
-| Tiros a puerta / partido | 4,6 | 4,3 | 5,2 | 4,0 |
-| Tiros recibidos | 15,8 | 15,2 | 11,4 | 12,2 |
-| Tiros a puerta recibidos | 4,3 | 3,5 | 3,7 | 3,8 |
-| Posesión media % | 56 | 54 | 48 | 47 |
-| Córners a favor | 5,1 | 5,0 | 5,6 | 4,3 |
-| Córners en contra | 5,0 | 4,7 | 3,8 | 3,8 |
-| Córners a favor 1ª parte | 2,2 | 2,7 | 2,2 | 2,0 |
-| Córners a favor 2ª parte | 2,8 | 2,3 | 3,3 | 2,3 |
-| Córners totales del partido | 10,1 | 9,7 | 9,4 | 8,2 |
-| Córners totales 1ª parte | 4,6 | 4,3 | 3,7 | 3,3 |
-| Córners totales 2ª parte | 5,5 | 5,3 | 5,8 | 4,8 |
-| Más de 8,5 córners | 42% | 33% | 50% | 33% |
-| Más de 9,5 córners | 42% | 33% | 42% | 17% |
-| Más de 10,5 córners | 33% | 33% | 42% | 17% |
-| Faltas cometidas | 8,4 | 8,5 | 8,6 | 9,8 |
-| Faltas recibidas | 13,0 | 13,2 | 10,8 | 10,3 |
-| Amarillas propias | 2,1 | 2,0 | 1,9 | 2,5 |
-| Amarillas del rival | 2,8 | 2,8 | 1,8 | 1,3 |
-| Rojas / partido | 0,08 | 0,17 | 0,08 | 0,00 |
+| Tiros / partido | 15,5 | 14,0 | 14,5 | 11,7 |
+| Tiros a puerta / partido | 4,6 | 4,4 | 5,0 | 4,0 |
+| Tiros recibidos | 15,7 | 15,6 | 10,9 | 12,2 |
+| Tiros a puerta recibidos | 4,6 | 4,1 | 3,5 | 3,8 |
+| Posesión media % | 57 | 55 | 49 | 47 |
+| Córners a favor | 4,9 | 4,6 | 5,6 | 4,3 |
+| Córners en contra | 4,7 | 4,7 | 3,6 | 3,8 |
+| Córners a favor 1ª parte | 2,1 | 2,4 | 2,2 | 2,0 |
+| Córners a favor 2ª parte | 2,8 | 2,1 | 3,5 | 2,3 |
+| Córners totales del partido | 9,6 | 9,3 | 9,2 | 8,2 |
+| Córners totales 1ª parte | 4,4 | 4,3 | 3,5 | 3,3 |
+| Córners totales 2ª parte | 5,2 | 5,0 | 5,8 | 4,8 |
+| Más de 8,5 córners | 36% | 29% | 46% | 33% |
+| Más de 9,5 córners | 36% | 29% | 38% | 17% |
+| Más de 10,5 córners | 29% | 29% | 38% | 17% |
+| Faltas cometidas | 8,1 | 8,3 | 8,4 | 9,8 |
+| Faltas recibidas | 12,7 | 12,4 | 10,8 | 10,3 |
+| Amarillas propias | 1,9 | 2,0 | 1,8 | 2,5 |
+| Amarillas del rival | 2,4 | 2,4 | 1,7 | 1,3 |
+| Rojas / partido | 0,07 | 0,14 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Southampton | Recibe Southampton | Tarjetas Southampton | Goles QPR | Recibe QPR | Tarjetas QPR |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 4 | 3 | 2 | 1 |
-| 16-30' | 2 | 3 | 3 | 3 | 3 | 5 |
-| 31-45' | 6 | 1 | 3 | 7 | 1 | 2 |
-| 46-60' | 4 | 2 | 6 | 2 | 2 | 6 |
-| 61-75' | 2 | 1 | 3 | 3 | 2 | 5 |
-| 76-90' | 6 | 3 | 7 | 2 | 2 | 5 |
+| 1-15' | 5 | 2 | 4 | 3 | 2 | 1 |
+| 16-30' | 2 | 3 | 4 | 3 | 3 | 5 |
+| 31-45' | 6 | 2 | 4 | 7 | 1 | 2 |
+| 46-60' | 4 | 3 | 6 | 2 | 3 | 6 |
+| 61-75' | 3 | 2 | 3 | 3 | 2 | 5 |
+| 76-90' | 7 | 4 | 7 | 3 | 2 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -133,26 +133,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Southampton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Daniel Peretz | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| J. Bree | D | 12 | 1034 | 2 | 1 | 7 | 0,6 | 2 | 0,2 | 6 | 3 | 0,2 | 2 | 0 |
-| F. Azaz | M | 12 | 1008 | 3 | 5 | 15 | 1,2 | 6 | 0,5 | 6 | 14 | 1,2 | 1 | 0 |
+| Daniel Peretz | G | 14 | 1266 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| J. Bree | D | 14 | 1220 | 2 | 1 | 7 | 0,5 | 2 | 0,1 | 9 | 3 | 0,2 | 2 | 0 |
+| F. Azaz | M | 14 | 1053 | 3 | 6 | 16 | 1,1 | 7 | 0,5 | 6 | 14 | 1,0 | 1 | 0 |
+| R. Manning | D | 13 | 979 | 1 | 2 | 6 | 0,5 | 1 | 0,1 | 9 | 16 | 1,2 | 4 | 0 |
+| Léo Scienza | M | 13 | 928 | 3 | 2 | 19 | 1,5 | 12 | 0,9 | 5 | 27 | 2,1 | 1 | 0 |
+| K. Matsuki | M | 14 | 909 | 3 | 1 | 16 | 1,1 | 7 | 0,5 | 13 | 17 | 1,2 | 1 | 0 |
 | K. Schlotterbeck | D | 10 | 897 | 1 | 0 | 10 | 1,0 | 2 | 0,2 | 3 | 6 | 0,6 | 1 | 0 |
-| R. Manning | D | 12 | 883 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 9 | 15 | 1,2 | 4 | 0 |
+| Flynn Downes | M | 12 | 868 | 0 | 2 | 3 | 0,2 | 0 | 0,0 | 12 | 14 | 1,2 | 3 | 0 |
+| J. Stephens | D | 10 | 819 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
 | J. Ward-Prowse | M | 10 | 793 | 1 | 1 | 10 | 1,0 | 5 | 0,5 | 3 | 6 | 0,6 | 0 | 0 |
-| Léo Scienza | M | 11 | 793 | 2 | 2 | 16 | 1,5 | 10 | 0,9 | 4 | 26 | 2,4 | 0 | 0 |
-| K. Matsuki | M | 12 | 793 | 3 | 1 | 13 | 1,1 | 7 | 0,6 | 12 | 12 | 1,0 | 1 | 0 |
-| Flynn Downes | M | 10 | 742 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 11 | 12 | 1,2 | 3 | 0 |
-| C. Larin | F | 11 | 731 | 7 | 0 | 29 | 2,6 | 13 | 1,2 | 17 | 9 | 0,8 | 3 | 0 |
-| J. Stephens | D | 8 | 633 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
-| Nathan Wood | D | 7 | 550 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 2 | 0 |
-| Cameron Bragg | M | 8 | 385 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 6 | 5 | 0,6 | 3 | 1 |
-| L. Dobbin | F | 10 | 328 | 1 | 0 | 7 | 0,7 | 2 | 0,2 | 4 | 8 | 0,8 | 1 | 0 |
-| T. Fellows | M | 7 | 325 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 6 | 0,9 | 1 | 0 |
-| Welington | D | 5 | 220 | 1 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 2 | 0,4 | 0 | 0 |
-| S. Edozie | M | 8 | 216 | 0 | 1 | 4 | 0,5 | 3 | 0,4 | 1 | 10 | 1,2 | 0 | 0 |
+| C. Larin | F | 13 | 776 | 8 | 0 | 32 | 2,5 | 15 | 1,2 | 20 | 9 | 0,7 | 3 | 0 |
+| Nathan Wood | D | 8 | 640 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 3 | 0,4 | 2 | 0 |
+| L. Dobbin | F | 12 | 482 | 1 | 0 | 9 | 0,8 | 3 | 0,2 | 4 | 9 | 0,8 | 1 | 0 |
+| Cameron Bragg | M | 10 | 479 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 7 | 8 | 0,8 | 4 | 1 |
+| T. Fellows | M | 9 | 447 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 3 | 6 | 0,7 | 1 | 0 |
+| Welington | D | 6 | 310 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
+| S. Edozie | M | 9 | 246 | 0 | 1 | 5 | 0,6 | 4 | 0,4 | 1 | 11 | 1,2 | 0 | 0 |
+| D. Mubama | F | 11 | 231 | 1 | 1 | 9 | 0,8 | 2 | 0,2 | 4 | 7 | 0,6 | 1 | 0 |
+| Taylor Harwood-Bellis | D | 2 | 186 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 0 | 4 | 2,0 | 0 | 0 |
 | C. Jander | M | 3 | 176 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 5 | 1,7 | 1 | 0 |
-| D. Mubama | F | 10 | 141 | 1 | 1 | 7 | 0,7 | 1 | 0,1 | 4 | 4 | 0,4 | 1 | 0 |
-| Taylor Harwood-Bellis | D | 1 | 90 | 0 | 0 | 2 | 2,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
 
 ## Últimos partidos de QPR
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -167,64 +167,64 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de QPR
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Charles | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
-| R. Edwards | D | 12 | 1080 | 0 | 1 | 8 | 0,7 | 2 | 0,2 | 7 | 6 | 0,5 | 2 | 0 |
-| J. Dunne | D | 11 | 948 | 3 | 0 | 9 | 0,8 | 4 | 0,4 | 3 | 5 | 0,5 | 0 | 0 |
-| H. Vale | M | 10 | 794 | 1 | 2 | 14 | 1,4 | 5 | 0,5 | 6 | 6 | 0,6 | 2 | 0 |
+| P. Charles | G | 13 | 1175 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
+| R. Edwards | D | 13 | 1175 | 0 | 1 | 8 | 0,6 | 2 | 0,2 | 7 | 7 | 0,5 | 2 | 0 |
+| J. Dunne | D | 12 | 1043 | 3 | 0 | 10 | 0,8 | 4 | 0,3 | 4 | 6 | 0,5 | 0 | 0 |
+| H. Vale | M | 11 | 889 | 1 | 2 | 15 | 1,4 | 5 | 0,5 | 8 | 7 | 0,6 | 2 | 0 |
 | G. Kamara | M | 11 | 748 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 12 | 20 | 1,8 | 4 | 0 |
-| K. Adamson | D | 11 | 689 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 6 | 0,5 | 1 | 0 |
-| K. Poku | M | 10 | 654 | 1 | 1 | 16 | 1,6 | 6 | 0,6 | 3 | 10 | 1,0 | 0 | 0 |
+| P. Smyth | M | 12 | 709 | 3 | 1 | 11 | 0,9 | 7 | 0,6 | 8 | 18 | 1,5 | 1 | 0 |
+| K. Adamson | D | 12 | 705 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 6 | 0,5 | 1 | 0 |
+| K. Poku | M | 11 | 687 | 1 | 1 | 17 | 1,5 | 7 | 0,6 | 4 | 11 | 1,0 | 0 | 0 |
+| Rumarn Burrell | F | 9 | 657 | 2 | 1 | 11 | 1,2 | 6 | 0,7 | 6 | 8 | 0,9 | 1 | 0 |
 | Jake Clarke-Salter | D | 9 | 649 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 1 | 0,1 | 4 | 0 |
-| P. Smyth | M | 11 | 629 | 3 | 1 | 11 | 1,0 | 7 | 0,6 | 7 | 15 | 1,4 | 1 | 0 |
-| Rumarn Burrell | F | 8 | 595 | 2 | 1 | 11 | 1,4 | 6 | 0,8 | 6 | 7 | 0,9 | 1 | 0 |
-| Nicolas Madsen | M | 9 | 572 | 2 | 1 | 6 | 0,7 | 5 | 0,6 | 3 | 4 | 0,4 | 0 | 0 |
-| Amadou Salif Mbengue | D | 10 | 567 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 6 | 6 | 0,6 | 1 | 0 |
-| K. Saito | F | 8 | 381 | 1 | 0 | 6 | 0,8 | 1 | 0,1 | 3 | 2 | 0,2 | 1 | 0 |
-| B. Kemper | D | 5 | 331 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 3 | 0,6 | 1 | 0 |
-| R. Kone | F | 7 | 322 | 3 | 1 | 11 | 1,6 | 7 | 1,0 | 6 | 2 | 0,3 | 2 | 0 |
+| Amadou Salif Mbengue | D | 11 | 646 | 0 | 1 | 5 | 0,5 | 1 | 0,1 | 7 | 6 | 0,5 | 1 | 0 |
+| Nicolas Madsen | M | 10 | 634 | 2 | 1 | 6 | 0,6 | 5 | 0,5 | 3 | 6 | 0,6 | 0 | 0 |
+| B. Kemper | D | 6 | 426 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 5 | 3 | 0,5 | 1 | 0 |
+| K. Saito | F | 9 | 396 | 1 | 0 | 6 | 0,7 | 1 | 0,1 | 3 | 3 | 0,3 | 1 | 0 |
+| R. Kone | F | 8 | 392 | 3 | 1 | 11 | 1,4 | 7 | 0,9 | 6 | 2 | 0,2 | 2 | 0 |
+| Ilias Chair | F | 6 | 388 | 2 | 1 | 9 | 1,5 | 6 | 1,0 | 1 | 3 | 0,5 | 0 | 0 |
+| J. Varane | M | 8 | 313 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 1 | 6 | 0,8 | 1 | 0 |
+| Alfie Lloyd | M | 8 | 312 | 1 | 0 | 12 | 1,5 | 5 | 0,6 | 4 | 5 | 0,6 | 0 | 0 |
 | D. Cirkin | D | 8 | 308 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,5 | 0 | 1 |
-| Ilias Chair | F | 5 | 293 | 2 | 1 | 8 | 1,6 | 5 | 1,0 | 1 | 3 | 0,6 | 0 | 0 |
-| Alfie Lloyd | M | 7 | 287 | 1 | 0 | 12 | 1,7 | 5 | 0,7 | 4 | 5 | 0,7 | 0 | 0 |
-| J. Varane | M | 7 | 280 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 1 | 6 | 0,9 | 1 | 0 |
 | Tariq Lamptey | D | 6 | 225 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 3 | 5 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,54 · visitante 1,22 · córners esperados 9,4._
+_Goles esperados: local 1,43 · visitante 1,26 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 23% | 27% | 4.00 | +7% |
-| 1X2: X | 25% | 24% | 24% | 3.90 | -5% |
-| 1X2: 1 | 45% | 53% | 49% | 1.73 | -15% |
-| Doble oportunidad: X2 | 55% | 46% | 51% | 2.05 | +4% |
-| Doble oportunidad: 12 | 75% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 70% | 78% | 74% | 1.22 | -10% |
-| Ambos marcan: No | 45% | 39% | 42% | 2.38 | -0% |
-| Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -11% |
-| Goles más/menos: Más de 2.5 | 52% | 62% | 57% | 1.53 | -13% |
-| Goles más/menos: Más de 3.5 | 30% | 41% | 36% | 2.30 | -18% |
-| Goles más/menos: Más de 4.5 | 15% | 24% | 19% | 4.00 | -23% |
-| Goles más/menos: Menos de 2.5 | 48% | 38% | 43% | 2.50 | +7% |
-| Goles más/menos: Menos de 3.5 | 70% | 59% | 64% | 1.62 | +4% |
-| Goles más/menos: Menos de 4.5 | 85% | 76% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 27% | 29% | 3.50 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 64% | 1.53 | -3% |
-| Goles del local: Más de 1.5 | 45% | 59% | 52% | 1.57 | -18% |
-| Goles del local: Más de 2.5 | 20% | 34% | 27% | 2.75 | -26% |
-| Goles del local: Menos de 1.5 | 55% | 41% | 48% | 2.25 | +8% |
-| Goles del local: Menos de 2.5 | 80% | 66% | 73% | 1.40 | +2% |
-| Goles del visitante: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -8% |
-| Goles del visitante: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Córners más/menos: Más de 10.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Córners más/menos: Menos de 10.5 | 64% | 54% | 59% | 1.73 | +2% |
-| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | -0% |
-| 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -1% |
-| 1X2 descanso: 1 | 33% | 41% | 37% | 2.25 | -16% |
+| 1X2: 2 | 33% | 23% | 28% | 4.00 | +13% |
+| 1X2: X | 26% | 24% | 25% | 3.90 | -4% |
+| 1X2: 1 | 41% | 53% | 47% | 1.73 | -18% |
+| Doble oportunidad: X2 | 59% | 46% | 53% | 2.05 | +8% |
+| Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 67% | 78% | 72% | 1.22 | -12% |
+| Ambos marcan: No | 46% | 39% | 42% | 2.38 | +1% |
+| Ambos marcan: Sí | 54% | 61% | 58% | 1.53 | -12% |
+| Goles más/menos: Más de 2.5 | 50% | 62% | 56% | 1.53 | -14% |
+| Goles más/menos: Más de 3.5 | 28% | 41% | 35% | 2.30 | -20% |
+| Goles más/menos: Más de 4.5 | 14% | 24% | 19% | 4.00 | -25% |
+| Goles más/menos: Menos de 2.5 | 50% | 38% | 44% | 2.50 | +10% |
+| Goles más/menos: Menos de 3.5 | 72% | 59% | 65% | 1.62 | +6% |
+| Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles del local: Más de 1.5 | 42% | 59% | 50% | 1.57 | -21% |
+| Goles del local: Más de 2.5 | 17% | 34% | 26% | 2.75 | -30% |
+| Goles del local: Menos de 1.5 | 58% | 41% | 50% | 2.25 | +12% |
+| Goles del local: Menos de 2.5 | 83% | 66% | 74% | 1.40 | +4% |
+| Goles del visitante: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
+| Goles del visitante: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles del visitante: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
+| Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -7% |
+| Córners más/menos: Más de 10.5 | 34% | 46% | 40% | 2.00 | -19% |
+| Córners más/menos: Menos de 10.5 | 66% | 54% | 60% | 1.73 | +3% |
+| 1X2 descanso: 2 | 26% | 21% | 24% | 4.33 | +4% |
+| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
+| 1X2 descanso: 1 | 31% | 41% | 36% | 2.25 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

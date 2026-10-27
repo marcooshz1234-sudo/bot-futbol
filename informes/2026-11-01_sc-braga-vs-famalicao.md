@@ -1,7 +1,7 @@
 # SC Braga – Famalicao
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | SC Braga (total) | SC Braga en casa | Famalicao (total) | Famalicao fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 9 | 5 |
-| Forma (últimos 5) | DVDDD | VDDVV | VDVEE | VVEDE |
-| Balance | 8V 4E 5D | 6V 0E 2D | 2V 4E 3D | 2V 2E 1D |
-| Goles a favor / partido | 1,12 | 1,62 | 1,56 | 2,20 |
-| Goles en contra / partido | 0,82 | 0,62 | 1,22 | 0,80 |
-| Goles a favor 1ª parte | 0,53 | 0,88 | 0,78 | 1,00 |
-| Goles a favor 2ª parte | 0,59 | 0,75 | 0,78 | 1,20 |
-| Goles en contra 1ª parte | 0,24 | 0,00 | 0,33 | 0,20 |
-| Goles en contra 2ª parte | 0,59 | 0,62 | 0,89 | 0,60 |
-| Más de 1,5 goles | 53% | 62% | 78% | 80% |
-| Más de 2,5 goles | 41% | 38% | 56% | 60% |
-| Más de 3,5 goles | 18% | 25% | 44% | 60% |
-| Ambos marcan | 29% | 25% | 56% | 40% |
-| Portería a cero | 59% | 75% | 33% | 40% |
-| Se queda sin marcar | 29% | 0% | 22% | 20% |
+| Partidos analizados | 17 | 8 | 10 | 6 |
+| Forma (últimos 5) | DVDDD | VDDVV | VDDVE | VDVED |
+| Balance | 8V 4E 5D | 6V 0E 2D | 2V 4E 4D | 2V 2E 2D |
+| Goles a favor / partido | 1,12 | 1,62 | 1,40 | 1,83 |
+| Goles en contra / partido | 0,82 | 0,62 | 1,20 | 0,83 |
+| Goles a favor 1ª parte | 0,53 | 0,88 | 0,70 | 0,83 |
+| Goles a favor 2ª parte | 0,59 | 0,75 | 0,70 | 1,00 |
+| Goles en contra 1ª parte | 0,24 | 0,00 | 0,40 | 0,33 |
+| Goles en contra 2ª parte | 0,59 | 0,62 | 0,80 | 0,50 |
+| Más de 1,5 goles | 53% | 62% | 70% | 67% |
+| Más de 2,5 goles | 41% | 38% | 50% | 50% |
+| Más de 3,5 goles | 18% | 25% | 40% | 50% |
+| Ambos marcan | 29% | 25% | 50% | 33% |
+| Portería a cero | 59% | 75% | 30% | 33% |
+| Se queda sin marcar | 29% | 0% | 30% | 33% |
 | xG a favor | 1,33 | 1,54 | 1,02 | 1,50 |
 | xG en contra | 0,83 | 0,83 | 1,37 | 1,05 |
 | Tiros / partido | 13,8 | 16,5 | 10,2 | 10,6 |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 1 | 0 | 4 | 1 | 2 |
 | 16-30' | 2 | 2 | 4 | 0 | 2 | 1 |
-| 31-45' | 3 | 2 | 5 | 3 | 0 | 2 |
-| 46-60' | 3 | 3 | 1 | 1 | 2 | 1 |
+| 31-45' | 3 | 2 | 5 | 3 | 1 | 2 |
+| 46-60' | 3 | 3 | 1 | 1 | 2 | 2 |
 | 61-75' | 4 | 2 | 3 | 1 | 2 | 5 |
-| 76-90' | 5 | 4 | 16 | 5 | 4 | 8 |
+| 76-90' | 5 | 4 | 16 | 5 | 4 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -108,11 +108,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-25 | Primeira Liga | Rio Ave 0-4 Famalicao | fuera | 2-4 | 12 (5) - 7 (2) | 0-3 |
+| 2026-10-18 | Taça de Portugal | Paredes 1-0 Famalicao | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-12 | Primeira Liga | Famalicao 1-4 Alverca | casa | 8-3 | 13 (2) - 14 (5) | 3-2 |
 | 2026-09-19 | Primeira Liga | Nacional 0-4 Famalicao | fuera | 3-7 | 12 (7) - 12 (3) | 3-3 |
 | 2026-09-13 | Primeira Liga | Famalicao 1-1 Sporting CP | casa | 4-4 | 5 (2) - 16 (5) | 2-4 |
 | 2026-09-05 | Primeira Liga | Estrela 2-2 Famalicao | fuera | 5-5 | 14 (4) - 14 (4) | 2-3 |
-| 2026-08-30 | Primeira Liga | Famalicao 0-0 GIL Vicente | casa | 6-3 | 7 (1) - 7 (1) | 2-4 |
 
 ## Jugadores de Famalicao
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Leny Meyer | D | 4 | 91 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 0,57 · córners esperados 9,0._
+_Goles esperados: local 1,43 · visitante 0,55 · córners esperados 9,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

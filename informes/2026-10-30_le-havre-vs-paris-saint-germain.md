@@ -1,7 +1,7 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -61,42 +61,42 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Le Havre (total) | Le Havre en casa | Paris Saint Germain (total) | Paris Saint Germain fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 10 | 6 |
+| Partidos analizados | 8 | 4 | 11 | 6 |
 | Forma (últimos 5) | DDDDE | DEDD | VVVVV | VVVVE |
-| Balance | 0V 2E 6D | 0V 1E 3D | 7V 2E 1D | 4V 2E 0D |
-| Goles a favor / partido | 1,00 | 0,50 | 2,80 | 2,33 |
-| Goles en contra / partido | 1,88 | 1,50 | 1,40 | 1,33 |
-| Goles a favor 1ª parte | 0,00 | 0,00 | 1,00 | 0,67 |
-| Goles a favor 2ª parte | 1,00 | 0,50 | 1,80 | 1,67 |
-| Goles en contra 1ª parte | 0,75 | 0,75 | 0,40 | 0,67 |
-| Goles en contra 2ª parte | 1,12 | 0,75 | 1,00 | 0,67 |
-| Más de 1,5 goles | 62% | 50% | 90% | 83% |
-| Más de 2,5 goles | 50% | 50% | 90% | 83% |
-| Más de 3,5 goles | 38% | 25% | 70% | 67% |
-| Ambos marcan | 62% | 50% | 90% | 83% |
-| Portería a cero | 12% | 25% | 10% | 17% |
+| Balance | 0V 2E 6D | 0V 1E 3D | 8V 2E 1D | 4V 2E 0D |
+| Goles a favor / partido | 1,00 | 0,50 | 2,73 | 2,33 |
+| Goles en contra / partido | 1,88 | 1,50 | 1,27 | 1,33 |
+| Goles a favor 1ª parte | 0,00 | 0,00 | 0,91 | 0,67 |
+| Goles a favor 2ª parte | 1,00 | 0,50 | 1,82 | 1,67 |
+| Goles en contra 1ª parte | 0,75 | 0,75 | 0,36 | 0,67 |
+| Goles en contra 2ª parte | 1,12 | 0,75 | 0,91 | 0,67 |
+| Más de 1,5 goles | 62% | 50% | 91% | 83% |
+| Más de 2,5 goles | 50% | 50% | 82% | 83% |
+| Más de 3,5 goles | 38% | 25% | 64% | 67% |
+| Ambos marcan | 62% | 50% | 82% | 83% |
+| Portería a cero | 12% | 25% | 18% | 17% |
 | Se queda sin marcar | 38% | 50% | 0% | 0% |
-| xG a favor | 1,59 | 1,33 | 2,86 | 2,27 |
-| xG en contra | 1,71 | 1,76 | 1,42 | 1,55 |
-| Tiros / partido | 16,4 | 15,8 | 21,8 | 19,3 |
-| Tiros a puerta / partido | 5,0 | 5,0 | 8,9 | 7,2 |
-| Tiros recibidos | 12,6 | 14,0 | 13,2 | 15,0 |
+| xG a favor | 1,59 | 1,33 | 2,70 | 2,27 |
+| xG en contra | 1,71 | 1,76 | 1,35 | 1,55 |
+| Tiros / partido | 16,4 | 15,8 | 21,4 | 19,3 |
+| Tiros a puerta / partido | 5,0 | 5,0 | 9,0 | 7,2 |
+| Tiros recibidos | 12,6 | 14,0 | 12,7 | 15,0 |
 | Tiros a puerta recibidos | 4,9 | 5,8 | 4,6 | 5,3 |
-| Posesión media % | 49 | 51 | 64 | 64 |
-| Córners a favor | 5,4 | 5,8 | 5,1 | 5,3 |
-| Córners en contra | 4,8 | 4,8 | 2,9 | 3,3 |
-| Córners a favor 1ª parte | 2,9 | 2,8 | 2,2 | 2,5 |
-| Córners a favor 2ª parte | 2,5 | 3,0 | 2,9 | 2,8 |
-| Córners totales del partido | 10,1 | 10,5 | 8,0 | 8,7 |
-| Córners totales 1ª parte | 4,6 | 5,0 | 3,5 | 4,0 |
-| Córners totales 2ª parte | 5,5 | 5,5 | 4,5 | 4,7 |
-| Más de 8,5 córners | 88% | 100% | 50% | 67% |
-| Más de 9,5 córners | 75% | 100% | 30% | 50% |
-| Más de 10,5 córners | 38% | 50% | 10% | 17% |
-| Faltas cometidas | 14,1 | 14,8 | 7,1 | 6,7 |
-| Faltas recibidas | 15,1 | 16,2 | 10,6 | 10,3 |
-| Amarillas propias | 1,8 | 1,5 | 0,8 | 1,2 |
-| Amarillas del rival | 1,5 | 1,5 | 1,9 | 2,0 |
+| Posesión media % | 49 | 51 | 65 | 64 |
+| Córners a favor | 5,4 | 5,8 | 5,3 | 5,3 |
+| Córners en contra | 4,8 | 4,8 | 3,0 | 3,3 |
+| Córners a favor 1ª parte | 2,9 | 2,8 | 2,5 | 2,5 |
+| Córners a favor 2ª parte | 2,5 | 3,0 | 2,7 | 2,8 |
+| Córners totales del partido | 10,1 | 10,5 | 8,3 | 8,7 |
+| Córners totales 1ª parte | 4,6 | 5,0 | 3,9 | 4,0 |
+| Córners totales 2ª parte | 5,5 | 5,5 | 4,4 | 4,7 |
+| Más de 8,5 córners | 88% | 100% | 55% | 67% |
+| Más de 9,5 córners | 75% | 100% | 36% | 50% |
+| Más de 10,5 córners | 38% | 50% | 18% | 17% |
+| Faltas cometidas | 14,1 | 14,8 | 7,2 | 6,7 |
+| Faltas recibidas | 15,1 | 16,2 | 10,9 | 10,3 |
+| Amarillas propias | 1,8 | 1,5 | 0,9 | 1,2 |
+| Amarillas del rival | 1,5 | 1,5 | 1,8 | 2,0 |
 | Rojas / partido | 0,25 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -104,10 +104,10 @@ _Actualizadas: 26/10 19:53_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 4 | 1 | 3 | 1 | 0 |
 | 16-30' | 0 | 0 | 1 | 3 | 2 | 0 |
-| 31-45' | 0 | 2 | 4 | 4 | 1 | 2 |
-| 46-60' | 0 | 5 | 1 | 2 | 5 | 0 |
-| 61-75' | 3 | 1 | 2 | 7 | 3 | 2 |
-| 76-90' | 5 | 3 | 7 | 9 | 2 | 4 |
+| 31-45' | 0 | 2 | 4 | 4 | 1 | 3 |
+| 46-60' | 0 | 5 | 1 | 2 | 5 | 1 |
+| 61-75' | 3 | 1 | 2 | 8 | 3 | 2 |
+| 76-90' | 5 | 3 | 7 | 10 | 2 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -159,75 +159,75 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Paris Saint Germain
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Ligue 1 | Paris Saint Germain 2-0 Lyon | casa | 7-4 | 17 (10) - 8 (5) | 2-1 |
 | 2026-10-20 | Champions League | Paris Saint Germain 4-2 Barcelona | casa | 2-3 | 22 (14) - 18 (5) | 0-1 |
 | 2026-10-17 | Ligue 1 | Strasbourg 1-3 Paris Saint Germain | fuera | 6-3 | 18 (7) - 17 (8) | 0-2 |
 | 2026-10-14 | Champions League | Manchester City 2-4 Paris Saint Germain | fuera | 2-11 | 15 (10) - 27 (9) | 1-1 |
 | 2026-10-10 | Ligue 1 | Paris Saint Germain 3-1 Le Mans | casa | 4-4 | 22 (8) - 11 (3) | 0-4 |
 | 2026-09-20 | Ligue 1 | Marseille 1-2 Paris Saint Germain | fuera | 7-3 | 31 (10) - 12 (4) | 1-4 |
-| 2026-09-13 | Ligue 1 | Stade Brestois 29 0-1 Paris Saint Germain | fuera | 2-3 | 15 (7) - 16 (4) | 2-1 |
 
 ## Jugadores de Paris Saint Germain
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Safonov | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
-| Vitinha | M | 10 | 766 | 3 | 1 | 12 | 1,2 | 7 | 0,7 | 4 | 2 | 0,2 | 1 | 0 |
-| W. Pacho | D | 8 | 694 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,4 | 0 | 0 |
-| A. Hakimi | D | 9 | 652 | 0 | 1 | 15 | 1,7 | 5 | 0,6 | 1 | 8 | 0,9 | 1 | 0 |
-| M. Akliouche | M | 10 | 603 | 2 | 1 | 10 | 1,0 | 5 | 0,5 | 10 | 5 | 0,5 | 0 | 0 |
-| W. Zaïre-Emery | M | 9 | 599 | 0 | 2 | 6 | 0,7 | 2 | 0,2 | 3 | 3 | 0,3 | 1 | 0 |
+| M. Safonov | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
+| Vitinha | M | 11 | 856 | 3 | 1 | 13 | 1,2 | 8 | 0,7 | 5 | 4 | 0,4 | 2 | 0 |
+| W. Pacho | D | 9 | 784 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,3 | 0 | 0 |
+| A. Hakimi | D | 10 | 742 | 0 | 1 | 15 | 1,5 | 5 | 0,5 | 1 | 9 | 0,9 | 1 | 0 |
+| M. Akliouche | F | 11 | 684 | 2 | 1 | 12 | 1,1 | 7 | 0,6 | 14 | 5 | 0,5 | 1 | 0 |
+| Fabián Ruiz | M | 10 | 680 | 2 | 3 | 14 | 1,4 | 8 | 0,8 | 3 | 4 | 0,4 | 1 | 0 |
+| W. Zaïre-Emery | D | 10 | 664 | 0 | 2 | 6 | 0,6 | 2 | 0,2 | 3 | 4 | 0,4 | 1 | 0 |
+| Ferran Torres | F | 11 | 654 | 7 | 1 | 25 | 2,3 | 15 | 1,4 | 1 | 11 | 1,0 | 0 | 0 |
+| João Neves | M | 9 | 612 | 0 | 1 | 11 | 1,2 | 5 | 0,6 | 11 | 5 | 0,6 | 0 | 0 |
 | Marquinhos | D | 7 | 599 | 3 | 0 | 4 | 0,6 | 4 | 0,6 | 5 | 2 | 0,3 | 1 | 0 |
-| Fabián Ruiz | M | 9 | 590 | 2 | 3 | 12 | 1,3 | 7 | 0,8 | 3 | 3 | 0,3 | 1 | 0 |
-| Ferran Torres | F | 10 | 589 | 7 | 1 | 21 | 2,1 | 12 | 1,2 | 1 | 9 | 0,9 | 0 | 0 |
-| João Neves | M | 8 | 555 | 0 | 1 | 10 | 1,2 | 5 | 0,6 | 10 | 4 | 0,5 | 0 | 0 |
-| D. Doué | F | 9 | 499 | 3 | 3 | 17 | 1,9 | 10 | 1,1 | 10 | 13 | 1,4 | 0 | 0 |
+| D. Doué | F | 10 | 580 | 3 | 3 | 21 | 2,1 | 11 | 1,1 | 10 | 13 | 1,3 | 0 | 0 |
 | K. Kvaratskhelia | F | 9 | 460 | 1 | 1 | 18 | 2,0 | 8 | 0,9 | 3 | 7 | 0,8 | 0 | 0 |
-| L. Hernández | D | 7 | 406 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 5 | 5 | 0,7 | 1 | 0 |
+| L. Hernández | D | 8 | 431 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 5 | 0,6 | 1 | 0 |
 | O. Dembélé | F | 8 | 398 | 4 | 5 | 22 | 2,8 | 10 | 1,2 | 1 | 1 | 0,1 | 0 | 0 |
+| I. Zabarnyi | D | 5 | 391 | 1 | 0 | 2 | 0,4 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 | Nuno Mendes | D | 5 | 368 | 0 | 0 | 6 | 1,2 | 4 | 0,8 | 4 | 16 | 3,2 | 1 | 0 |
-| I. Zabarnyi | D | 4 | 301 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 | Dro Fernández | M | 6 | 241 | 0 | 0 | 3 | 0,5 | 3 | 0,5 | 2 | 4 | 0,7 | 1 | 0 |
-| Lucas Beraldo | M | 7 | 231 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
-| Mika Godts | F | 7 | 203 | 0 | 1 | 5 | 0,7 | 2 | 0,3 | 2 | 6 | 0,9 | 0 | 0 |
+| Beraldo | D | 8 | 240 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
+| M. Godts | F | 8 | 236 | 1 | 2 | 6 | 0,8 | 3 | 0,4 | 2 | 7 | 0,9 | 0 | 0 |
 | Lucas Digne | D | 4 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,11 · visitante 2,72 · córners esperados 9,2._
+_Goles esperados: local 1,03 · visitante 2,68 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 71% | 77% | 74% | 1.22 | -10% |
-| 1X2: X | 16% | 14% | 15% | 6.50 | -2% |
-| 1X2: 1 | 13% | 9% | 11% | 11.00 | +19% |
-| Doble oportunidad: X2 | 87% | 91% | 89% | 1.05 | -7% |
+| 1X2: 2 | 72% | 77% | 75% | 1.22 | -9% |
+| 1X2: X | 16% | 14% | 15% | 6.50 | -3% |
+| 1X2: 1 | 12% | 9% | 10% | 11.00 | +13% |
+| Doble oportunidad: X2 | 88% | 91% | 89% | 1.05 | -6% |
 | Doble oportunidad: 12 | 84% | 86% | 85% | 1.11 | -6% |
-| Doble oportunidad: 1X | 29% | 24% | 26% | 4.00 | +5% |
-| Ambos marcan: No | 37% | 44% | 41% | 2.10 | -14% |
-| Ambos marcan: Sí | 63% | 56% | 59% | 1.67 | -1% |
-| Goles más/menos: Más de 2.5 | 74% | 72% | 73% | 1.33 | -3% |
-| Goles más/menos: Más de 3.5 | 53% | 53% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 4.5 | 34% | 32% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 2.5 | 26% | 28% | 27% | 3.40 | -7% |
-| Goles más/menos: Menos de 3.5 | 47% | 47% | 47% | 2.00 | -6% |
-| Goles más/menos: Menos de 4.5 | 66% | 68% | 67% | 1.40 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 50% | 50% | 1.83 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del local: Más de 0.5 | 67% | 59% | 63% | 1.57 | -1% |
-| Goles del local: Más de 1.5 | 31% | 25% | 28% | 3.75 | +4% |
-| Goles del local: Menos de 0.5 | 33% | 41% | 37% | 2.25 | -17% |
-| Goles del local: Menos de 1.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles del visitante: Más de 1.5 | 75% | 77% | 76% | 1.22 | -7% |
-| Goles del visitante: Más de 2.5 | 51% | 54% | 52% | 1.73 | -9% |
-| Goles del visitante: Más de 3.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles del visitante: Menos de 1.5 | 25% | 23% | 24% | 4.00 | -4% |
-| Goles del visitante: Menos de 2.5 | 49% | 46% | 48% | 2.00 | -5% |
-| Goles del visitante: Menos de 3.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Córners más/menos: Más de 9.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 9.5 | 57% | 50% | 54% | 1.83 | -2% |
-| 1X2 descanso: 2 | 53% | 59% | 56% | 1.57 | -12% |
-| 1X2 descanso: X | 31% | 30% | 31% | 3.10 | -5% |
+| Doble oportunidad: 1X | 28% | 24% | 26% | 4.00 | +3% |
+| Ambos marcan: No | 40% | 44% | 42% | 2.10 | -11% |
+| Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -4% |
+| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -5% |
+| Goles más/menos: Más de 3.5 | 51% | 53% | 52% | 1.80 | -7% |
+| Goles más/menos: Más de 4.5 | 31% | 32% | 32% | 3.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
+| Goles más/menos: Menos de 3.5 | 49% | 47% | 48% | 2.00 | -3% |
+| Goles más/menos: Menos de 4.5 | 69% | 68% | 68% | 1.40 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 0.5 | 64% | 59% | 62% | 1.57 | -3% |
+| Goles del local: Más de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles del local: Menos de 0.5 | 36% | 41% | 38% | 2.25 | -13% |
+| Goles del local: Menos de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles del visitante: Más de 1.5 | 75% | 77% | 76% | 1.22 | -8% |
+| Goles del visitante: Más de 2.5 | 50% | 54% | 52% | 1.73 | -10% |
+| Goles del visitante: Más de 3.5 | 28% | 34% | 31% | 2.75 | -15% |
+| Goles del visitante: Menos de 1.5 | 25% | 23% | 24% | 4.00 | -3% |
+| Goles del visitante: Menos de 2.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Goles del visitante: Menos de 3.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
+| 1X2 descanso: 2 | 54% | 59% | 56% | 1.57 | -11% |
+| 1X2 descanso: X | 32% | 30% | 31% | 3.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Wolves – Cardiff
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -60,53 +60,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Wolves (total) | Wolves en casa | Cardiff (total) | Cardiff fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 15 | 7 | 14 | 6 |
 | Forma (últimos 5) | VEVDD | VEDVV | VEVDV | EDDDD |
-| Balance | 6V 3E 3D | 3V 2E 1D | 3V 5E 4D | 0V 2E 4D |
-| Goles a favor / partido | 1,67 | 1,67 | 1,58 | 1,00 |
-| Goles en contra / partido | 1,33 | 1,17 | 1,42 | 1,83 |
-| Goles a favor 1ª parte | 0,75 | 0,67 | 1,08 | 0,67 |
-| Goles a favor 2ª parte | 0,92 | 1,00 | 0,50 | 0,33 |
-| Goles en contra 1ª parte | 0,67 | 0,50 | 0,83 | 0,83 |
-| Goles en contra 2ª parte | 0,67 | 0,67 | 0,58 | 1,00 |
-| Más de 1,5 goles | 67% | 67% | 83% | 83% |
-| Más de 2,5 goles | 58% | 50% | 58% | 67% |
-| Más de 3,5 goles | 50% | 50% | 42% | 33% |
-| Ambos marcan | 67% | 67% | 75% | 67% |
-| Portería a cero | 25% | 33% | 8% | 0% |
-| Se queda sin marcar | 8% | 0% | 17% | 33% |
+| Balance | 8V 3E 4D | 4V 2E 1D | 4V 5E 5D | 0V 2E 4D |
+| Goles a favor / partido | 1,67 | 1,86 | 1,64 | 1,00 |
+| Goles en contra / partido | 1,13 | 1,00 | 1,50 | 1,83 |
+| Goles a favor 1ª parte | 0,93 | 1,00 | 1,07 | 0,67 |
+| Goles a favor 2ª parte | 0,73 | 0,86 | 0,57 | 0,33 |
+| Goles en contra 1ª parte | 0,53 | 0,43 | 0,86 | 0,83 |
+| Goles en contra 2ª parte | 0,60 | 0,57 | 0,64 | 1,00 |
+| Más de 1,5 goles | 67% | 71% | 86% | 83% |
+| Más de 2,5 goles | 53% | 57% | 64% | 67% |
+| Más de 3,5 goles | 40% | 43% | 43% | 33% |
+| Ambos marcan | 53% | 57% | 79% | 67% |
+| Portería a cero | 33% | 43% | 7% | 0% |
+| Se queda sin marcar | 13% | 0% | 14% | 33% |
 | xG a favor | 1,74 | 1,95 | 1,87 | 1,28 |
 | xG en contra | 0,93 | 0,75 | 1,55 | 1,91 |
-| Tiros / partido | 16,8 | 18,2 | 16,9 | 12,5 |
-| Tiros a puerta / partido | 4,2 | 4,2 | 5,9 | 4,8 |
-| Tiros recibidos | 10,3 | 8,2 | 14,3 | 18,3 |
-| Tiros a puerta recibidos | 3,5 | 2,8 | 5,4 | 6,8 |
-| Posesión media % | 55 | 56 | 61 | 59 |
-| Córners a favor | 7,1 | 8,2 | 6,8 | 6,3 |
-| Córners en contra | 3,8 | 3,3 | 5,0 | 6,5 |
-| Córners a favor 1ª parte | 3,2 | 4,2 | 2,8 | 2,5 |
-| Córners a favor 2ª parte | 3,8 | 4,0 | 4,0 | 3,8 |
-| Córners totales del partido | 10,9 | 11,5 | 11,8 | 12,8 |
+| Tiros / partido | 15,7 | 17,9 | 16,4 | 12,5 |
+| Tiros a puerta / partido | 4,1 | 4,6 | 5,6 | 4,8 |
+| Tiros recibidos | 10,8 | 8,6 | 14,1 | 18,3 |
+| Tiros a puerta recibidos | 3,6 | 2,9 | 4,9 | 6,8 |
+| Posesión media % | 54 | 57 | 61 | 59 |
+| Córners a favor | 6,8 | 8,3 | 6,6 | 6,3 |
+| Córners en contra | 3,9 | 3,6 | 4,7 | 6,5 |
+| Córners a favor 1ª parte | 3,2 | 4,3 | 2,9 | 2,5 |
+| Córners a favor 2ª parte | 3,6 | 4,0 | 3,7 | 3,8 |
+| Córners totales del partido | 10,7 | 11,9 | 11,4 | 12,8 |
 | Córners totales 1ª parte | 4,8 | 5,3 | 5,1 | 5,0 |
-| Córners totales 2ª parte | 6,1 | 6,2 | 6,8 | 7,8 |
-| Más de 8,5 córners | 83% | 67% | 67% | 83% |
-| Más de 9,5 córners | 58% | 67% | 67% | 83% |
-| Más de 10,5 córners | 42% | 50% | 67% | 83% |
-| Faltas cometidas | 11,8 | 12,5 | 10,1 | 10,5 |
-| Faltas recibidas | 12,3 | 12,5 | 13,3 | 11,8 |
-| Amarillas propias | 1,8 | 2,2 | 1,8 | 1,8 |
-| Amarillas del rival | 2,7 | 2,8 | 2,2 | 1,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,17 |
+| Córners totales 2ª parte | 5,9 | 6,6 | 6,3 | 7,8 |
+| Más de 8,5 córners | 73% | 71% | 64% | 83% |
+| Más de 9,5 córners | 53% | 71% | 57% | 83% |
+| Más de 10,5 córners | 40% | 57% | 57% | 83% |
+| Faltas cometidas | 11,7 | 12,1 | 10,1 | 10,5 |
+| Faltas recibidas | 11,5 | 11,6 | 13,6 | 11,8 |
+| Amarillas propias | 1,7 | 2,0 | 1,9 | 1,8 |
+| Amarillas del rival | 2,3 | 2,6 | 1,9 | 1,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,07 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Wolves | Recibe Wolves | Tarjetas Wolves | Goles Cardiff | Recibe Cardiff | Tarjetas Cardiff |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 1 | 3 | 3 | 2 |
-| 16-30' | 3 | 4 | 3 | 3 | 4 | 3 |
-| 31-45' | 4 | 3 | 3 | 7 | 3 | 5 |
+| 1-15' | 4 | 1 | 2 | 3 | 4 | 2 |
+| 16-30' | 3 | 4 | 3 | 4 | 5 | 4 |
+| 31-45' | 7 | 3 | 4 | 8 | 3 | 6 |
 | 46-60' | 3 | 3 | 4 | 1 | 4 | 4 |
-| 61-75' | 4 | 2 | 3 | 3 | 1 | 0 |
-| 76-90' | 4 | 3 | 8 | 2 | 2 | 10 |
+| 61-75' | 4 | 2 | 4 | 3 | 2 | 0 |
+| 76-90' | 4 | 4 | 9 | 4 | 3 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -134,26 +134,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Wolves
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| André | M | 12 | 1024 | 0 | 2 | 8 | 0,7 | 1 | 0,1 | 16 | 8 | 0,7 | 0 | 0 |
-| José Sá | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 9 | 0,8 | 1 | 0 |
-| Hugo Bueno | D | 11 | 887 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 7 | 8 | 0,7 | 1 | 0 |
-| N. Djiga | D | 10 | 880 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 2 | 5 | 0,5 | 1 | 0 |
-| Fer López | M | 11 | 873 | 5 | 3 | 22 | 2,0 | 10 | 0,9 | 14 | 19 | 1,7 | 0 | 0 |
-| M. Munetsi | M | 12 | 804 | 2 | 0 | 17 | 1,4 | 7 | 0,6 | 15 | 5 | 0,4 | 3 | 0 |
-| M. Mane | F | 12 | 747 | 0 | 1 | 16 | 1,3 | 6 | 0,5 | 11 | 20 | 1,7 | 3 | 0 |
-| A. Armstrong | F | 10 | 683 | 2 | 0 | 12 | 1,2 | 4 | 0,4 | 11 | 0 | 0,0 | 0 | 0 |
-| Toti Gomes | D | 9 | 651 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 3 | 5 | 0,6 | 0 | 0 |
-| J. Tchatchoua | D | 8 | 633 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,4 | 0 | 0 |
-| Rodrigo Gomes | M | 8 | 541 | 2 | 1 | 9 | 1,1 | 5 | 0,6 | 8 | 12 | 1,5 | 0 | 0 |
-| L. Krejčí | D | 6 | 453 | 1 | 1 | 4 | 0,7 | 1 | 0,2 | 6 | 2 | 0,3 | 1 | 0 |
-| K. Trippier | D | 6 | 447 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 7 | 1,2 | 2 | 0 |
-| Raúl Jiménez | F | 6 | 350 | 3 | 1 | 13 | 2,2 | 4 | 0,7 | 6 | 10 | 1,7 | 0 | 0 |
-| J. James | M | 10 | 342 | 2 | 0 | 7 | 0,7 | 2 | 0,2 | 6 | 3 | 0,3 | 1 | 0 |
-| J. Bellegarde | M | 6 | 301 | 1 | 0 | 7 | 1,2 | 1 | 0,2 | 5 | 14 | 2,3 | 2 | 0 |
+| André | M | 13 | 1114 | 1 | 2 | 9 | 0,7 | 2 | 0,2 | 16 | 8 | 0,6 | 0 | 0 |
+| José Sá | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 9 | 0,8 | 1 | 0 |
+| N. Djiga | D | 13 | 1034 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 3 | 5 | 0,4 | 1 | 0 |
+| Hugo Bueno | D | 13 | 995 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 8 | 10 | 0,8 | 1 | 0 |
+| Fer López | M | 13 | 965 | 6 | 3 | 24 | 1,8 | 12 | 0,9 | 15 | 20 | 1,5 | 0 | 0 |
+| A. Armstrong | F | 13 | 915 | 3 | 0 | 17 | 1,3 | 7 | 0,5 | 12 | 2 | 0,2 | 0 | 0 |
+| M. Munetsi | M | 14 | 898 | 2 | 0 | 18 | 1,3 | 8 | 0,6 | 15 | 6 | 0,4 | 3 | 0 |
+| M. Mane | F | 14 | 863 | 0 | 1 | 19 | 1,4 | 6 | 0,4 | 12 | 22 | 1,6 | 3 | 0 |
+| Toti Gomes | D | 12 | 822 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 3 | 7 | 0,6 | 0 | 0 |
+| J. Tchatchoua | D | 10 | 718 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 4 | 0,4 | 1 | 0 |
+| Rodrigo Gomes | M | 10 | 670 | 2 | 2 | 11 | 1,1 | 5 | 0,5 | 10 | 13 | 1,3 | 0 | 0 |
+| K. Trippier | D | 8 | 553 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 7 | 0,9 | 3 | 0 |
+| L. Krejčí | D | 8 | 509 | 1 | 1 | 4 | 0,5 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
+| J. James | M | 12 | 467 | 2 | 0 | 8 | 0,7 | 2 | 0,2 | 7 | 5 | 0,4 | 1 | 0 |
+| T. Doyle | M | 14 | 452 | 0 | 3 | 11 | 0,8 | 4 | 0,3 | 11 | 3 | 0,2 | 3 | 0 |
+| R. Jiménez | F | 9 | 435 | 3 | 1 | 16 | 1,8 | 5 | 0,6 | 7 | 11 | 1,2 | 0 | 0 |
+| J. Bellegarde | M | 7 | 328 | 1 | 0 | 7 | 1,0 | 1 | 0,1 | 7 | 16 | 2,3 | 2 | 0 |
 | R. Saïd | M | 5 | 289 | 0 | 0 | 13 | 2,6 | 3 | 0,6 | 3 | 3 | 0,6 | 1 | 0 |
-| T. Doyle | M | 11 | 250 | 0 | 2 | 10 | 0,9 | 3 | 0,3 | 8 | 2 | 0,2 | 2 | 0 |
-| Y. Mosquera | D | 3 | 181 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 3 | 2 | 0,7 | 0 | 0 |
-| S. Neave | F | 7 | 153 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,3 | 3 | 0 |
+| Y. Mosquera | D | 4 | 265 | 0 | 1 | 5 | 1,2 | 1 | 0,2 | 6 | 2 | 0,5 | 0 | 0 |
+| T. Chirewa | F | 8 | 244 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Cardiff
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,63 +168,63 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Cardiff
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Trott | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
-| A. Robertson | M | 12 | 1068 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 8 | 14 | 1,2 | 4 | 0 |
-| J. Bagan | D | 12 | 1059 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 12 | 6 | 0,5 | 3 | 0 |
-| J. Moylan | M | 12 | 1014 | 6 | 3 | 32 | 2,7 | 15 | 1,2 | 8 | 22 | 1,8 | 2 | 0 |
-| P. Ng | D | 11 | 990 | 1 | 1 | 9 | 0,8 | 3 | 0,3 | 14 | 22 | 2,0 | 4 | 0 |
-| O. Tanner | M | 12 | 946 | 2 | 4 | 24 | 2,0 | 9 | 0,8 | 13 | 5 | 0,4 | 3 | 0 |
-| G. Osho | D | 10 | 885 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 5 | 7 | 0,7 | 0 | 1 |
-| Y. Salech | F | 9 | 790 | 3 | 1 | 28 | 3,1 | 15 | 1,7 | 12 | 5 | 0,6 | 1 | 0 |
-| Cian Ashford | M | 12 | 660 | 2 | 2 | 11 | 0,9 | 8 | 0,7 | 2 | 9 | 0,8 | 1 | 0 |
-| J. Colwill | M | 12 | 627 | 1 | 0 | 10 | 0,8 | 2 | 0,2 | 16 | 27 | 2,2 | 2 | 0 |
-| C. Willock | M | 12 | 623 | 0 | 1 | 5 | 0,4 | 3 | 0,2 | 2 | 11 | 0,9 | 0 | 0 |
+| N. Trott | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,4 | 0 | 0 |
+| A. Robertson | M | 14 | 1248 | 0 | 0 | 7 | 0,5 | 3 | 0,2 | 9 | 18 | 1,3 | 4 | 0 |
+| J. Bagan | D | 14 | 1239 | 0 | 0 | 4 | 0,3 | 2 | 0,1 | 12 | 6 | 0,4 | 3 | 0 |
+| P. Ng | D | 13 | 1170 | 1 | 1 | 9 | 0,7 | 3 | 0,2 | 17 | 25 | 1,9 | 5 | 0 |
+| J. Moylan | M | 14 | 1055 | 7 | 3 | 33 | 2,4 | 16 | 1,1 | 8 | 22 | 1,6 | 2 | 0 |
+| O. Tanner | M | 13 | 1018 | 2 | 4 | 24 | 1,8 | 9 | 0,7 | 13 | 6 | 0,5 | 3 | 0 |
+| G. Osho | D | 11 | 975 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 5 | 7 | 0,6 | 0 | 1 |
+| Y. Salech | F | 11 | 903 | 6 | 2 | 34 | 3,1 | 19 | 1,7 | 14 | 5 | 0,5 | 1 | 0 |
+| Cian Ashford | M | 14 | 772 | 2 | 3 | 14 | 1,0 | 8 | 0,6 | 3 | 11 | 0,8 | 1 | 0 |
+| J. Colwill | M | 14 | 749 | 1 | 0 | 10 | 0,7 | 2 | 0,1 | 20 | 34 | 2,4 | 3 | 0 |
+| C. Willock | M | 14 | 744 | 0 | 1 | 6 | 0,4 | 3 | 0,2 | 2 | 13 | 0,9 | 0 | 0 |
 | K. Bielik | D | 7 | 583 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 6 | 7 | 1,0 | 1 | 0 |
+| R. Kpakio | D | 8 | 388 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 6 | 6 | 0,8 | 0 | 0 |
+| D. Turnbull | M | 10 | 366 | 0 | 1 | 7 | 0,7 | 2 | 0,2 | 5 | 3 | 0,3 | 0 | 0 |
 | C. Scanlon | D | 11 | 353 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 7 | 0,6 | 0 | 0 |
-| Rubin Colwill | M | 5 | 293 | 1 | 1 | 4 | 0,8 | 3 | 0,6 | 7 | 5 | 1,0 | 1 | 0 |
-| D. Turnbull | M | 8 | 241 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 4 | 2 | 0,2 | 0 | 0 |
-| R. Kpakio | D | 6 | 208 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
+| Rubin Colwill | M | 6 | 330 | 1 | 1 | 4 | 0,7 | 3 | 0,5 | 9 | 6 | 1,0 | 2 | 0 |
+| I. Davies | F | 10 | 203 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
+| Callum Robinson | F | 7 | 182 | 2 | 0 | 5 | 0,7 | 4 | 0,6 | 0 | 2 | 0,3 | 0 | 0 |
 | W. Fish | D | 3 | 178 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | Dylan Lawlor | D | 3 | 115 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 0 | 0,0 | 0 | 0 |
-| Callum Robinson | F | 6 | 114 | 2 | 0 | 4 | 0,7 | 3 | 0,5 | 0 | 1 | 0,2 | 0 | 0 |
-| I. Davies | F | 8 | 78 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,97 · visitante 1,16 · córners esperados 10,2._
+_Goles esperados: local 2,01 · visitante 1,02 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 20% | 21% | 4.75 | -1% |
-| 1X2: X | 22% | 23% | 22% | 4.00 | -10% |
-| 1X2: 1 | 56% | 57% | 57% | 1.62 | -8% |
-| Doble oportunidad: X2 | 44% | 40% | 42% | 2.38 | -0% |
-| Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 78% | 82% | 80% | 1.17 | -7% |
-| Ambos marcan: No | 41% | 38% | 39% | 2.50 | -2% |
-| Ambos marcan: Sí | 59% | 62% | 61% | 1.50 | -9% |
-| Goles más/menos: Más de 2.5 | 61% | 64% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 3.5 | 38% | 45% | 42% | 2.10 | -12% |
-| Goles más/menos: Más de 4.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles más/menos: Menos de 2.5 | 39% | 36% | 38% | 2.62 | -1% |
-| Goles más/menos: Menos de 3.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Menos de 4.5 | 79% | 75% | 77% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 42% | 41% | 2.20 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del local: Más de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
-| Goles del local: Más de 2.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del local: Menos de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
-| Goles del local: Menos de 2.5 | 68% | 65% | 66% | 1.44 | -4% |
-| Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del visitante: Más de 1.5 | 32% | 29% | 31% | 3.25 | -0% |
-| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles del visitante: Menos de 1.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Córners más/menos: Más de 10.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 10.5 | 57% | 50% | 54% | 1.83 | -2% |
+| 1X2: 2 | 18% | 20% | 19% | 4.75 | -10% |
+| 1X2: X | 21% | 23% | 22% | 4.00 | -11% |
+| 1X2: 1 | 60% | 57% | 59% | 1.62 | -5% |
+| Doble oportunidad: X2 | 40% | 40% | 40% | 2.38 | -5% |
+| Doble oportunidad: 12 | 79% | 78% | 79% | 1.22 | -4% |
+| Doble oportunidad: 1X | 82% | 82% | 82% | 1.17 | -5% |
+| Ambos marcan: No | 45% | 38% | 41% | 2.50 | +3% |
+| Ambos marcan: Sí | 55% | 62% | 59% | 1.50 | -12% |
+| Goles más/menos: Más de 2.5 | 58% | 64% | 61% | 1.50 | -9% |
+| Goles más/menos: Más de 3.5 | 36% | 45% | 41% | 2.10 | -15% |
+| Goles más/menos: Más de 4.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles más/menos: Menos de 2.5 | 42% | 36% | 39% | 2.62 | +2% |
+| Goles más/menos: Menos de 3.5 | 64% | 55% | 59% | 1.73 | +3% |
+| Goles más/menos: Menos de 4.5 | 81% | 75% | 78% | 1.28 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
+| Goles del local: Más de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
+| Goles del local: Más de 2.5 | 33% | 35% | 34% | 2.62 | -11% |
+| Goles del local: Menos de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles del local: Menos de 2.5 | 67% | 65% | 66% | 1.44 | -5% |
+| Goles del visitante: Más de 0.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles del visitante: Más de 1.5 | 27% | 29% | 28% | 3.25 | -9% |
+| Goles del visitante: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles del visitante: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Córners más/menos: Más de 10.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Córners más/menos: Menos de 10.5 | 58% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: X | 38% | 36% | 37% | 2.60 | -4% |
-| 1X2 descanso: 1 | 42% | 44% | 43% | 2.10 | -10% |
+| 1X2 descanso: 1 | 44% | 44% | 44% | 2.10 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -60,53 +60,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Union Berlin (total) | Union Berlin en casa | 1. FC Köln (total) | 1. FC Köln fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 4 | 7 | 3 |
-| Forma (últimos 5) | EEVDD | EVDE | EDVDE | DDD |
-| Balance | 1V 3E 3D | 1V 2E 1D | 2V 2E 3D | 0V 0E 3D |
-| Goles a favor / partido | 0,86 | 1,25 | 1,14 | 0,67 |
-| Goles en contra / partido | 2,57 | 1,50 | 1,57 | 2,33 |
-| Goles a favor 1ª parte | 0,14 | 0,25 | 0,29 | 0,00 |
-| Goles a favor 2ª parte | 0,71 | 1,00 | 0,86 | 0,67 |
-| Goles en contra 1ª parte | 1,14 | 0,75 | 0,57 | 0,67 |
-| Goles en contra 2ª parte | 1,43 | 0,75 | 1,00 | 1,67 |
-| Más de 1,5 goles | 71% | 50% | 71% | 67% |
-| Más de 2,5 goles | 57% | 50% | 57% | 67% |
-| Más de 3,5 goles | 57% | 50% | 29% | 33% |
-| Ambos marcan | 43% | 50% | 71% | 67% |
-| Portería a cero | 29% | 50% | 14% | 0% |
-| Se queda sin marcar | 43% | 25% | 29% | 33% |
+| Partidos analizados | 8 | 4 | 8 | 4 |
+| Forma (últimos 5) | EEVDD | EVDE | EDVDE | DDDV |
+| Balance | 2V 3E 3D | 1V 2E 1D | 3V 2E 3D | 1V 0E 3D |
+| Goles a favor / partido | 1,25 | 1,25 | 1,25 | 1,00 |
+| Goles en contra / partido | 2,50 | 1,50 | 1,50 | 2,00 |
+| Goles a favor 1ª parte | 0,25 | 0,25 | 0,25 | 0,00 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 1,00 | 1,00 |
+| Goles en contra 1ª parte | 1,12 | 0,75 | 0,62 | 0,75 |
+| Goles en contra 2ª parte | 1,38 | 0,75 | 0,88 | 1,25 |
+| Más de 1,5 goles | 75% | 50% | 75% | 75% |
+| Más de 2,5 goles | 62% | 50% | 62% | 75% |
+| Más de 3,5 goles | 62% | 50% | 25% | 25% |
+| Ambos marcan | 50% | 50% | 75% | 75% |
+| Portería a cero | 25% | 50% | 12% | 0% |
+| Se queda sin marcar | 38% | 25% | 25% | 25% |
 | xG a favor | 1,10 | 1,43 | 1,61 | 1,69 |
 | xG en contra | 2,01 | 1,33 | 1,65 | 2,24 |
-| Tiros / partido | 11,9 | 17,2 | 15,9 | 15,0 |
-| Tiros a puerta / partido | 3,9 | 6,0 | 5,3 | 4,3 |
-| Tiros recibidos | 16,7 | 12,0 | 14,7 | 16,3 |
-| Tiros a puerta recibidos | 6,7 | 4,2 | 5,6 | 7,3 |
-| Posesión media % | 42 | 49 | 50 | 51 |
-| Córners a favor | 3,6 | 5,2 | 6,0 | 5,3 |
-| Córners en contra | 5,7 | 3,8 | 6,1 | 6,7 |
-| Córners a favor 1ª parte | 1,0 | 1,8 | 2,7 | 2,7 |
-| Córners a favor 2ª parte | 2,6 | 3,5 | 3,3 | 2,7 |
-| Córners totales del partido | 9,3 | 9,0 | 12,1 | 12,0 |
-| Córners totales 1ª parte | 4,1 | 4,0 | 5,3 | 5,7 |
-| Córners totales 2ª parte | 5,1 | 5,0 | 6,9 | 6,3 |
-| Más de 8,5 córners | 71% | 75% | 86% | 67% |
-| Más de 9,5 córners | 57% | 50% | 86% | 67% |
-| Más de 10,5 córners | 29% | 0% | 71% | 33% |
-| Faltas cometidas | 11,3 | 12,2 | 10,7 | 12,3 |
-| Faltas recibidas | 10,7 | 10,5 | 11,4 | 8,3 |
-| Amarillas propias | 2,6 | 2,5 | 1,9 | 2,7 |
-| Amarillas del rival | 1,7 | 2,2 | 1,9 | 1,3 |
-| Rojas / partido | 0,14 | 0,00 | 0,00 | 0,00 |
+| Tiros / partido | 12,5 | 17,2 | 15,6 | 14,8 |
+| Tiros a puerta / partido | 4,6 | 6,0 | 5,4 | 4,8 |
+| Tiros recibidos | 16,6 | 12,0 | 14,1 | 14,8 |
+| Tiros a puerta recibidos | 6,6 | 4,2 | 5,1 | 6,0 |
+| Posesión media % | 42 | 49 | 52 | 55 |
+| Córners a favor | 4,2 | 5,2 | 5,9 | 5,2 |
+| Córners en contra | 5,9 | 3,8 | 6,0 | 6,2 |
+| Córners a favor 1ª parte | 1,4 | 1,8 | 2,9 | 3,0 |
+| Córners a favor 2ª parte | 2,9 | 3,5 | 3,0 | 2,2 |
+| Córners totales del partido | 10,1 | 9,0 | 11,9 | 11,5 |
+| Córners totales 1ª parte | 4,4 | 4,0 | 5,5 | 6,0 |
+| Córners totales 2ª parte | 5,8 | 5,0 | 6,4 | 5,5 |
+| Más de 8,5 córners | 75% | 75% | 88% | 75% |
+| Más de 9,5 córners | 62% | 50% | 88% | 75% |
+| Más de 10,5 córners | 38% | 0% | 62% | 25% |
+| Faltas cometidas | 12,1 | 12,2 | 10,4 | 11,2 |
+| Faltas recibidas | 10,1 | 10,5 | 11,4 | 9,0 |
+| Amarillas propias | 2,6 | 2,5 | 1,8 | 2,2 |
+| Amarillas del rival | 1,6 | 2,2 | 1,8 | 1,2 |
+| Rojas / partido | 0,12 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Union Berlin | Recibe Union Berlin | Tarjetas Union Berlin | Goles 1. FC Köln | Recibe 1. FC Köln | Tarjetas 1. FC Köln |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 3 | 2 | 1 | 0 | 1 |
-| 16-30' | 0 | 3 | 3 | 1 | 1 | 0 |
-| 31-45' | 0 | 2 | 7 | 0 | 3 | 3 |
-| 46-60' | 0 | 3 | 1 | 1 | 2 | 1 |
-| 61-75' | 1 | 5 | 2 | 2 | 3 | 0 |
-| 76-90' | 4 | 2 | 4 | 3 | 2 | 8 |
+| 1-15' | 1 | 4 | 2 | 1 | 0 | 1 |
+| 16-30' | 0 | 3 | 3 | 1 | 2 | 0 |
+| 31-45' | 1 | 2 | 7 | 0 | 3 | 3 |
+| 46-60' | 0 | 4 | 2 | 1 | 2 | 2 |
+| 61-75' | 3 | 5 | 2 | 3 | 3 | 0 |
+| 76-90' | 5 | 2 | 6 | 4 | 2 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -134,26 +134,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Union Berlin
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T. Rothe | D | 7 | 630 | 0 | 1 | 6 | 0,9 | 3 | 0,4 | 9 | 5 | 0,7 | 1 | 0 |
-| R. Khedira | M | 7 | 630 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 12 | 3 | 0,4 | 1 | 0 |
-| M. Aebischer | M | 7 | 561 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 4 | 0,6 | 1 | 0 |
+| T. Rothe | D | 8 | 720 | 1 | 1 | 7 | 0,9 | 4 | 0,5 | 11 | 5 | 0,6 | 1 | 0 |
+| R. Khedira | M | 8 | 720 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 14 | 3 | 0,4 | 1 | 0 |
+| M. Aebischer | M | 8 | 577 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 4 | 0,5 | 2 | 0 |
+| Z. Van Den Bosch | D | 7 | 559 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 7 | 6 | 0,9 | 3 | 0 |
 | F. Rønnow | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Z. Van Den Bosch | D | 6 | 469 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 6 | 4 | 0,7 | 2 | 0 |
+| Jeong Woo-Yeong | M | 8 | 510 | 0 | 0 | 7 | 0,9 | 1 | 0,1 | 4 | 8 | 1,0 | 0 | 0 |
+| A. Schäfer | M | 8 | 482 | 0 | 0 | 5 | 0,6 | 3 | 0,4 | 7 | 10 | 1,2 | 0 | 0 |
 | F. Uduokhai | D | 6 | 469 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 7 | 6 | 1,0 | 3 | 1 |
-| A. Schäfer | M | 7 | 454 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 6 | 10 | 1,4 | 0 | 0 |
-| Jeong Woo-Yeong | M | 7 | 448 | 0 | 0 | 6 | 0,9 | 1 | 0,1 | 4 | 8 | 1,1 | 0 | 0 |
+| L. Querfeld | D | 5 | 425 | 1 | 1 | 2 | 0,4 | 2 | 0,4 | 4 | 1 | 0,2 | 1 | 0 |
 | J. Haberer | D | 7 | 377 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 4 | 4 | 0,6 | 3 | 0 |
-| L. Querfeld | D | 4 | 335 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 1 | 0 |
+| Emmanuel Latte Lath | F | 6 | 352 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 4 | 2 | 0,3 | 0 | 0 |
+| Josip Juranović | D | 4 | 328 | 0 | 3 | 3 | 0,8 | 2 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
+| A. Kemlein | M | 8 | 319 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 0 | 0,0 | 2 | 0 |
+| Livan Burcu | M | 7 | 314 | 1 | 0 | 3 | 0,4 | 2 | 0,3 | 1 | 9 | 1,3 | 1 | 0 |
 | T. Skarke | F | 7 | 308 | 2 | 0 | 10 | 1,4 | 7 | 1,0 | 6 | 8 | 1,1 | 2 | 0 |
-| Emmanuel Latte Lath | F | 5 | 290 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 2 | 2 | 0,4 | 0 | 0 |
-| Josip Juranović | D | 3 | 254 | 0 | 2 | 2 | 0,7 | 2 | 0,7 | 0 | 0 | 0,0 | 0 | 0 |
-| Livan Burcu | M | 6 | 240 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 1 | 7 | 1,2 | 1 | 0 |
-| A. Kemlein | M | 7 | 229 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
-| Marin Ljubičić | F | 3 | 217 | 0 | 0 | 3 | 1,0 | 2 | 0,7 | 4 | 2 | 0,7 | 1 | 0 |
-| Christopher Trimmel | D | 4 | 114 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Marin Ljubičić | F | 4 | 245 | 2 | 1 | 7 | 1,8 | 5 | 1,2 | 7 | 2 | 0,5 | 1 | 0 |
+| Matheo Raab | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Christopher Trimmel | D | 5 | 130 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
 | Kastriot Imeri | M | 2 | 103 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 2 | 1,0 | 0 | 0 |
-| Matheo Raab | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Gray | F | 3 | 77 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+| Ilyas Ansah | F | 1 | 90 | 0 | 0 | 2 | 2,0 | 1 | 1,0 | 1 | 1 | 1,0 | 0 | 0 |
 
 ## Últimos partidos de 1. FC Köln
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,70 +168,68 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de 1. FC Köln
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jahmai Simpson-Pusey | D | 7 | 630 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 9 | 1,3 | 1 | 0 |
-| M. Schwäbe | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| L. Lochoshvili | D | 7 | 617 | 0 | 0 | 5 | 0,7 | 0 | 0,0 | 8 | 5 | 0,7 | 1 | 0 |
-| T. Krauß | M | 7 | 563 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 11 | 7 | 1,0 | 2 | 0 |
-| L. Maina | M | 7 | 492 | 1 | 2 | 3 | 0,4 | 3 | 0,4 | 1 | 11 | 1,6 | 0 | 0 |
-| Í. Bergmann Jóhannesson | M | 7 | 476 | 1 | 0 | 4 | 0,6 | 3 | 0,4 | 5 | 2 | 0,3 | 2 | 0 |
-| S. El Mala | M | 6 | 413 | 2 | 0 | 20 | 3,3 | 7 | 1,2 | 7 | 2 | 0,3 | 0 | 0 |
-| M. Bülter | F | 7 | 385 | 1 | 0 | 9 | 1,3 | 8 | 1,1 | 6 | 14 | 2,0 | 1 | 0 |
+| Jahmai Simpson-Pusey | D | 8 | 720 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 10 | 1,2 | 1 | 0 |
+| M. Schwäbe | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| L. Lochoshvili | D | 8 | 699 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 9 | 6 | 0,8 | 1 | 0 |
+| T. Krauß | M | 8 | 653 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 11 | 10 | 1,2 | 2 | 0 |
+| Í. Bergmann Jóhannesson | M | 8 | 566 | 3 | 0 | 6 | 0,8 | 5 | 0,6 | 5 | 2 | 0,2 | 2 | 0 |
+| L. Maina | M | 8 | 507 | 1 | 3 | 3 | 0,4 | 3 | 0,4 | 1 | 11 | 1,4 | 0 | 0 |
+| S. El Mala | M | 7 | 502 | 2 | 0 | 25 | 3,6 | 9 | 1,3 | 9 | 4 | 0,6 | 0 | 0 |
+| M. Bülter | F | 8 | 475 | 1 | 0 | 11 | 1,4 | 8 | 1,0 | 6 | 16 | 2,0 | 1 | 0 |
+| Alessio Castro-Montes | M | 6 | 423 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
+| Gideon Mensah | D | 5 | 409 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 9 | 2 | 0,4 | 2 | 0 |
 | M. Moore | M | 6 | 384 | 0 | 0 | 12 | 2,0 | 4 | 0,7 | 2 | 5 | 0,8 | 0 | 0 |
-| Gideon Mensah | D | 4 | 334 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 7 | 2 | 0,5 | 2 | 0 |
-| Alessio Castro-Montes | M | 5 | 333 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
+| Ellyes Skhiri | M | 6 | 310 | 0 | 2 | 2 | 0,3 | 1 | 0,2 | 6 | 2 | 0,3 | 1 | 0 |
 | B. Sosa | D | 4 | 296 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 2 | 2 | 0,5 | 1 | 0 |
-| Ellyes Skhiri | M | 5 | 295 | 0 | 2 | 2 | 0,4 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
 | S. Sebulonsen | D | 4 | 289 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
-| Ragnar Ache | F | 4 | 192 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 0 | 5 | 1,2 | 0 | 0 |
-| Thijs Dallinga | F | 3 | 153 | 2 | 0 | 6 | 2,0 | 4 | 1,3 | 2 | 3 | 1,0 | 0 | 0 |
-| J. Thielmann | M | 4 | 148 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
-| Paul Michael Junior Okon-Engstler | M | 5 | 143 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
-| J. Schmied | D | 4 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Ragnar Ache | F | 5 | 267 | 1 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 6 | 1,2 | 1 | 0 |
+| J. Thielmann | M | 5 | 223 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 3 | 0,6 | 0 | 0 |
+| Thijs Dallinga | F | 4 | 168 | 2 | 0 | 7 | 1,8 | 4 | 1,0 | 2 | 3 | 0,8 | 0 | 0 |
+| Paul Michael Junior Okon-Engstler | M | 6 | 144 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
+| J. Schmied | D | 5 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | L. Waldschmidt | F | 4 | 43 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,30 · córners esperados 9,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,36 · visitante 1,35 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 36% | 36% | 2.60 | -6% |
-| 1X2: X | 26% | 26% | 26% | 3.60 | -6% |
-| 1X2: 1 | 38% | 38% | 38% | 2.50 | -6% |
-| Doble oportunidad: X2 | 62% | 63% | 63% | 1.50 | -6% |
+| 1X2: 2 | 37% | 36% | 37% | 2.60 | -5% |
+| 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
+| 1X2: 1 | 37% | 38% | 38% | 2.50 | -6% |
+| Doble oportunidad: X2 | 63% | 63% | 63% | 1.50 | -6% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 64% | 63% | 64% | 1.50 | -5% |
-| Ambos marcan: No | 46% | 39% | 43% | 2.38 | +2% |
-| Ambos marcan: Sí | 54% | 61% | 57% | 1.53 | -12% |
-| Goles más/menos: Más de 1.5 | 74% | 79% | 77% | 1.20 | -8% |
-| Goles más/menos: Más de 2.5 | 49% | 57% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 3.5 | 27% | 36% | 32% | 2.62 | -16% |
-| Goles más/menos: Más de 4.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles más/menos: Menos de 1.5 | 26% | 21% | 23% | 4.50 | +6% |
-| Goles más/menos: Menos de 2.5 | 51% | 43% | 47% | 2.20 | +3% |
-| Goles más/menos: Menos de 3.5 | 73% | 64% | 68% | 1.50 | +2% |
-| Goles más/menos: Menos de 4.5 | 87% | 79% | 83% | 1.20 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 39% | 35% | 2.38 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 61% | 65% | 1.53 | -1% |
-| Goles del local: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
-| Goles del local: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Goles del local: Más de 2.5 | 15% | 22% | 19% | 4.33 | -20% |
-| Goles del local: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -1% |
-| Goles del local: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Menos de 2.5 | 85% | 78% | 81% | 1.20 | -2% |
-| Goles del visitante: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del visitante: Más de 1.5 | 37% | 44% | 41% | 2.10 | -14% |
-| Goles del visitante: Más de 2.5 | 14% | 21% | 18% | 4.50 | -21% |
-| Goles del visitante: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
-| Goles del visitante: Menos de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
-| Goles del visitante: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
-| Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |
-| 1X2 descanso: 2 | 28% | 30% | 29% | 3.10 | -10% |
-| 1X2 descanso: X | 43% | 39% | 41% | 2.38 | -2% |
+| Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -5% |
+| Ambos marcan: No | 45% | 39% | 42% | 2.38 | -0% |
+| Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -11% |
+| Goles más/menos: Más de 1.5 | 75% | 79% | 77% | 1.20 | -7% |
+| Goles más/menos: Más de 2.5 | 51% | 57% | 54% | 1.67 | -10% |
+| Goles más/menos: Más de 3.5 | 29% | 36% | 33% | 2.62 | -14% |
+| Goles más/menos: Más de 4.5 | 14% | 21% | 18% | 4.50 | -21% |
+| Goles más/menos: Menos de 1.5 | 25% | 21% | 23% | 4.50 | +3% |
+| Goles más/menos: Menos de 2.5 | 49% | 43% | 46% | 2.20 | +1% |
+| Goles más/menos: Menos de 3.5 | 71% | 64% | 67% | 1.50 | +1% |
+| Goles más/menos: Menos de 4.5 | 86% | 79% | 82% | 1.20 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 39% | 36% | 2.38 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles del local: Más de 0.5 | 74% | 77% | 76% | 1.22 | -8% |
+| Goles del local: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
+| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
+| Goles del local: Menos de 0.5 | 26% | 23% | 24% | 4.00 | -2% |
+| Goles del local: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -1% |
+| Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -2% |
+| Goles del visitante: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles del visitante: Más de 1.5 | 39% | 44% | 42% | 2.10 | -12% |
+| Goles del visitante: Más de 2.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles del visitante: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -2% |
+| Goles del visitante: Menos de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
+| Goles del visitante: Menos de 2.5 | 84% | 79% | 82% | 1.18 | -3% |
+| Córners más/menos: Más de 9.5 | 49% | 54% | 51% | 1.73 | -11% |
+| Córners más/menos: Menos de 9.5 | 51% | 46% | 49% | 2.00 | -3% |
+| 1X2 descanso: 2 | 29% | 30% | 29% | 3.10 | -9% |
+| 1X2 descanso: X | 42% | 39% | 41% | 2.38 | -3% |
 | 1X2 descanso: 1 | 29% | 31% | 30% | 3.00 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

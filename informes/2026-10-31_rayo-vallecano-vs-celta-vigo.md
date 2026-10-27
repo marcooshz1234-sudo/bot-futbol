@@ -1,7 +1,7 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -187,40 +187,40 @@ _Sin bajas comunicadas por ahora._
 | H. Burcio | M | 8 | 265 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 0,97 · córners esperados 9,6._
+_Goles esperados: local 1,16 · visitante 0,99 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 30% | 30% | 3.10 | -8% |
+| 1X2: 2 | 31% | 30% | 30% | 3.10 | -6% |
 | 1X2: X | 29% | 29% | 29% | 3.20 | -7% |
-| 1X2: 1 | 41% | 41% | 41% | 2.25 | -7% |
-| Doble oportunidad: X2 | 59% | 59% | 59% | 1.62 | -4% |
-| Doble oportunidad: 12 | 71% | 70% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 70% | 70% | 70% | 1.36 | -4% |
+| 1X2: 1 | 40% | 41% | 40% | 2.25 | -9% |
+| Doble oportunidad: X2 | 60% | 59% | 60% | 1.62 | -3% |
+| Doble oportunidad: 12 | 71% | 70% | 70% | 1.36 | -4% |
+| Doble oportunidad: 1X | 69% | 70% | 70% | 1.36 | -5% |
 | Ambos marcan: No | 57% | 48% | 52% | 1.95 | +2% |
 | Ambos marcan: Sí | 43% | 52% | 48% | 1.80 | -14% |
-| Goles más/menos: Más de 1.5 | 64% | 70% | 67% | 1.36 | -9% |
-| Goles más/menos: Más de 2.5 | 37% | 45% | 41% | 2.10 | -14% |
+| Goles más/menos: Más de 1.5 | 63% | 70% | 67% | 1.36 | -9% |
+| Goles más/menos: Más de 2.5 | 36% | 45% | 41% | 2.10 | -15% |
 | Goles más/menos: Más de 3.5 | 17% | 25% | 21% | 3.75 | -20% |
-| Goles más/menos: Menos de 1.5 | 36% | 30% | 33% | 3.20 | +6% |
-| Goles más/menos: Menos de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
+| Goles más/menos: Menos de 1.5 ✅ | 37% | 30% | 33% | 3.20 | +7% |
+| Goles más/menos: Menos de 2.5 | 64% | 55% | 59% | 1.73 | +3% |
 | Goles más/menos: Menos de 3.5 | 83% | 75% | 79% | 1.28 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 63% | 1.40 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles del local: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
-| Goles del local: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
-| Goles del local: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
-| Goles del local: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
-| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 37% | 2.75 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -1% |
+| Goles del local: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 1.5 | 32% | 41% | 37% | 2.25 | -18% |
+| Goles del local: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +6% |
+| Goles del local: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -1% |
+| Goles del visitante: Más de 0.5 | 63% | 69% | 66% | 1.36 | -11% |
+| Goles del visitante: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
+| Goles del visitante: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +3% |
+| Goles del visitante: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
 | Córners más/menos: Más de 9.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 54% | 54% | 54% | 1.73 | -7% |
-| 1X2 descanso: 2 | 23% | 26% | 24% | 3.60 | -13% |
+| 1X2 descanso: 2 | 23% | 26% | 24% | 3.60 | -12% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
-| 1X2 descanso: 1 | 29% | 31% | 30% | 3.00 | -10% |
+| 1X2 descanso: 1 | 28% | 31% | 30% | 3.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

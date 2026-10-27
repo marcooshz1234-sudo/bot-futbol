@@ -1,5 +1,32 @@
 # Lecciones del bot
 
+## 2026-10-26
+
+```
+🧠 LECCIONES DEL 26/10
+Picks del bot: 6 ✅ · 4 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan y más de 2,5 goles → 1 de 2 equipos marcan · 2 de 3 goles
+• Hakimi 2+ remates → 0 de 2 tiros
+• Más de 26,5 remates totales → 25 de 27 tiros
+
+❌ Fallos de los picks del bot y por qué:
+• Más de 26,5 tiros en Paris Saint Germain–Lyon — no llegó a la línea (2-0)
+• Más de 2,5 goles en Paris Saint Germain–Lyon — partido cerrado (2-0): faltó 1 gol
+• Lyon marca — Lyon no marcó lo esperado (2-0)
+• Ambos marcan en Paris Saint Germain–Lyon — solo marcó un equipo o ninguno (2-0)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Paris Saint Germain–Lyon
+
+📐 Modelo: 53/90 aciertos reales (59%) frente al 73% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.44 (antes 0.46)
+Ajustes nuevos:
+⬇️ castigo liga Ligue 1: 10/26 (-7 pts)
+⬆️ premio tipo jugador:tiros: 4/5 (+3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-25
 
 ```

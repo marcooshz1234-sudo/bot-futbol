@@ -1,7 +1,7 @@
 # Bayer Leverkusen – VfB Stuttgart
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -64,53 +64,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | VfB Stuttgart (total) | VfB Stuttgart fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 4 | 10 | 5 |
+| Partidos analizados | 11 | 4 | 11 | 6 |
 | Forma (últimos 5) | DVVVV | VVVV | DEDVV | DVVDD |
-| Balance | 7V 1E 2D | 4V 0E 0D | 4V 1E 5D | 2V 0E 3D |
-| Goles a favor / partido | 2,40 | 2,50 | 1,70 | 1,40 |
-| Goles en contra / partido | 1,20 | 0,25 | 1,50 | 1,60 |
-| Goles a favor 1ª parte | 1,30 | 1,25 | 0,80 | 0,40 |
-| Goles a favor 2ª parte | 1,10 | 1,25 | 0,90 | 1,00 |
-| Goles en contra 1ª parte | 0,50 | 0,25 | 0,40 | 0,40 |
-| Goles en contra 2ª parte | 0,70 | 0,00 | 1,10 | 1,20 |
-| Más de 1,5 goles | 100% | 100% | 80% | 80% |
-| Más de 2,5 goles | 70% | 50% | 60% | 60% |
-| Más de 3,5 goles | 50% | 25% | 40% | 20% |
-| Ambos marcan | 40% | 25% | 60% | 40% |
-| Portería a cero | 50% | 75% | 20% | 40% |
-| Se queda sin marcar | 10% | 0% | 20% | 20% |
+| Balance | 8V 1E 2D | 4V 0E 0D | 5V 1E 5D | 3V 0E 3D |
+| Goles a favor / partido | 2,55 | 2,50 | 1,91 | 1,83 |
+| Goles en contra / partido | 1,09 | 0,25 | 1,36 | 1,33 |
+| Goles a favor 1ª parte | 1,27 | 1,25 | 0,91 | 0,67 |
+| Goles a favor 2ª parte | 1,27 | 1,25 | 1,00 | 1,17 |
+| Goles en contra 1ª parte | 0,45 | 0,25 | 0,36 | 0,33 |
+| Goles en contra 2ª parte | 0,64 | 0,00 | 1,00 | 1,00 |
+| Más de 1,5 goles | 100% | 100% | 82% | 83% |
+| Más de 2,5 goles | 73% | 50% | 64% | 67% |
+| Más de 3,5 goles | 55% | 25% | 45% | 33% |
+| Ambos marcan | 36% | 25% | 55% | 33% |
+| Portería a cero | 55% | 75% | 27% | 50% |
+| Se queda sin marcar | 9% | 0% | 18% | 17% |
 | xG a favor | 2,46 | 2,24 | 1,97 | 1,98 |
 | xG en contra | 1,32 | 0,87 | 1,95 | 2,22 |
-| Tiros / partido | 19,9 | 17,0 | 16,9 | 17,0 |
-| Tiros a puerta / partido | 7,1 | 7,2 | 5,6 | 6,0 |
-| Tiros recibidos | 11,1 | 8,2 | 16,0 | 18,8 |
-| Tiros a puerta recibidos | 3,5 | 2,0 | 4,6 | 5,4 |
-| Posesión media % | 58 | 55 | 58 | 55 |
-| Córners a favor | 6,8 | 7,5 | 6,6 | 6,4 |
-| Córners en contra | 3,6 | 3,0 | 5,1 | 5,4 |
-| Córners a favor 1ª parte | 2,5 | 3,0 | 2,7 | 2,6 |
-| Córners a favor 2ª parte | 4,3 | 4,5 | 3,9 | 3,8 |
-| Córners totales del partido | 10,4 | 10,5 | 11,7 | 11,8 |
-| Córners totales 1ª parte | 4,6 | 4,2 | 5,0 | 5,0 |
-| Córners totales 2ª parte | 5,8 | 6,2 | 6,7 | 6,8 |
-| Más de 8,5 córners | 50% | 50% | 80% | 100% |
-| Más de 9,5 córners | 40% | 50% | 70% | 80% |
-| Más de 10,5 córners | 40% | 50% | 70% | 80% |
-| Faltas cometidas | 13,3 | 13,2 | 11,1 | 12,0 |
-| Faltas recibidas | 9,4 | 8,8 | 11,2 | 11,6 |
-| Amarillas propias | 1,7 | 1,0 | 1,2 | 1,2 |
-| Amarillas del rival | 1,7 | 1,5 | 2,2 | 1,4 |
+| Tiros / partido | 19,8 | 17,0 | 17,3 | 17,7 |
+| Tiros a puerta / partido | 7,2 | 7,2 | 5,8 | 6,3 |
+| Tiros recibidos | 10,7 | 8,2 | 15,4 | 17,2 |
+| Tiros a puerta recibidos | 3,3 | 2,0 | 4,7 | 5,5 |
+| Posesión media % | 60 | 55 | 59 | 58 |
+| Córners a favor | 6,5 | 7,5 | 6,7 | 6,7 |
+| Córners en contra | 3,6 | 3,0 | 5,0 | 5,2 |
+| Córners a favor 1ª parte | 2,3 | 3,0 | 2,8 | 2,8 |
+| Córners a favor 2ª parte | 4,2 | 4,5 | 3,9 | 3,8 |
+| Córners totales del partido | 10,1 | 10,5 | 11,7 | 11,8 |
+| Córners totales 1ª parte | 4,5 | 4,2 | 5,0 | 5,0 |
+| Córners totales 2ª parte | 5,6 | 6,2 | 6,7 | 6,8 |
+| Más de 8,5 córners | 45% | 50% | 82% | 100% |
+| Más de 9,5 córners | 36% | 50% | 73% | 83% |
+| Más de 10,5 córners | 36% | 50% | 73% | 83% |
+| Faltas cometidas | 13,2 | 13,2 | 10,5 | 10,8 |
+| Faltas recibidas | 9,9 | 8,8 | 10,7 | 10,7 |
+| Amarillas propias | 1,5 | 1,0 | 1,2 | 1,2 |
+| Amarillas del rival | 1,7 | 1,5 | 2,1 | 1,3 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen | Goles VfB Stuttgart | Recibe VfB Stuttgart | Tarjetas VfB Stuttgart |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 1 | 1 | 1 | 2 |
-| 16-30' | 4 | 0 | 1 | 4 | 2 | 3 |
-| 31-45' | 5 | 2 | 1 | 3 | 1 | 2 |
-| 46-60' | 3 | 3 | 2 | 3 | 4 | 1 |
-| 61-75' | 3 | 0 | 4 | 2 | 3 | 2 |
-| 76-90' | 5 | 4 | 10 | 4 | 4 | 2 |
+| 16-30' | 4 | 0 | 1 | 5 | 2 | 3 |
+| 31-45' | 6 | 2 | 1 | 4 | 1 | 3 |
+| 46-60' | 4 | 3 | 2 | 3 | 4 | 1 |
+| 61-75' | 4 | 0 | 4 | 3 | 3 | 2 |
+| 76-90' | 6 | 4 | 10 | 5 | 4 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -138,26 +138,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Bayer Leverkusen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Aleix García | M | 10 | 866 | 0 | 2 | 13 | 1,3 | 5 | 0,5 | 4 | 2 | 0,2 | 1 | 0 |
-| E. Tapsoba | D | 10 | 826 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 4 | 6 | 0,6 | 1 | 0 |
+| Aleix García | M | 11 | 956 | 0 | 2 | 13 | 1,2 | 5 | 0,5 | 4 | 2 | 0,2 | 1 | 0 |
+| E. Tapsoba | D | 11 | 916 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 5 | 6 | 0,5 | 1 | 0 |
 | M. Flekken | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| F. Medina | D | 10 | 726 | 2 | 0 | 8 | 0,8 | 5 | 0,5 | 12 | 3 | 0,3 | 2 | 0 |
-| P. Schick | F | 10 | 717 | 8 | 2 | 31 | 3,1 | 13 | 1,3 | 6 | 7 | 0,7 | 1 | 0 |
-| I. Maza | M | 9 | 716 | 3 | 2 | 22 | 2,4 | 5 | 0,6 | 12 | 11 | 1,2 | 2 | 0 |
-| Miguel Gutiérrez | D | 9 | 712 | 1 | 3 | 6 | 0,7 | 3 | 0,3 | 9 | 6 | 0,7 | 1 | 0 |
-| E. Fernández | M | 10 | 649 | 1 | 0 | 6 | 0,6 | 2 | 0,2 | 11 | 11 | 1,1 | 2 | 0 |
-| J. Quansah | D | 9 | 642 | 1 | 1 | 5 | 0,6 | 3 | 0,3 | 11 | 5 | 0,6 | 2 | 0 |
-| Afonso Moreira | F | 10 | 633 | 0 | 2 | 16 | 1,6 | 9 | 0,9 | 10 | 13 | 1,3 | 1 | 0 |
+| Miguel Gutiérrez | D | 10 | 802 | 1 | 3 | 6 | 0,6 | 3 | 0,3 | 9 | 8 | 0,8 | 1 | 0 |
+| I. Maza | M | 10 | 794 | 3 | 3 | 22 | 2,2 | 5 | 0,5 | 16 | 12 | 1,2 | 2 | 0 |
+| P. Schick | F | 11 | 784 | 9 | 2 | 33 | 3,0 | 15 | 1,4 | 8 | 8 | 0,7 | 1 | 0 |
+| F. Medina | D | 11 | 742 | 2 | 0 | 8 | 0,7 | 5 | 0,5 | 12 | 3 | 0,3 | 2 | 0 |
+| Afonso Moreira | F | 11 | 723 | 0 | 3 | 21 | 1,9 | 11 | 1,0 | 10 | 15 | 1,4 | 1 | 0 |
+| E. Fernández | M | 11 | 714 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 12 | 14 | 1,3 | 2 | 0 |
+| J. Quansah | D | 10 | 667 | 1 | 1 | 6 | 0,6 | 3 | 0,3 | 11 | 5 | 0,5 | 2 | 0 |
+| M. Tillman | M | 10 | 543 | 1 | 2 | 7 | 0,7 | 3 | 0,3 | 10 | 12 | 1,2 | 0 | 0 |
 | M. Diaby | M | 9 | 515 | 1 | 0 | 7 | 0,8 | 2 | 0,2 | 6 | 1 | 0,1 | 1 | 0 |
-| M. Tillman | M | 9 | 453 | 1 | 2 | 7 | 0,8 | 3 | 0,3 | 9 | 8 | 0,9 | 0 | 0 |
-| L. Badé | D | 6 | 370 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 12 | 1 | 0,2 | 1 | 0 |
-| Lucas Vázquez | D | 7 | 302 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 5 | 7 | 1,0 | 0 | 0 |
+| L. Badé | D | 7 | 444 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 13 | 1 | 0,1 | 1 | 0 |
+| Lucas Vázquez | D | 8 | 367 | 1 | 0 | 3 | 0,4 | 2 | 0,2 | 7 | 9 | 1,1 | 0 | 0 |
 | R. Andrich | M | 6 | 271 | 1 | 0 | 4 | 0,7 | 3 | 0,5 | 7 | 3 | 0,5 | 1 | 0 |
-| N. Tella | M | 5 | 198 | 0 | 0 | 10 | 2,0 | 3 | 0,6 | 2 | 2 | 0,4 | 0 | 0 |
-| Christian Kofane | F | 5 | 153 | 2 | 0 | 8 | 1,6 | 2 | 0,4 | 7 | 1 | 0,2 | 0 | 0 |
+| N. Tella | M | 6 | 223 | 1 | 0 | 11 | 1,8 | 4 | 0,7 | 2 | 2 | 0,3 | 0 | 0 |
+| J. Blaswich | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| Christian Kofane | F | 6 | 176 | 3 | 0 | 10 | 1,7 | 4 | 0,7 | 7 | 1 | 0,2 | 0 | 0 |
 | J. Hofmann | M | 5 | 118 | 2 | 0 | 6 | 1,2 | 6 | 1,2 | 2 | 0 | 0,0 | 0 | 0 |
 | M. Terrier | F | 4 | 117 | 0 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
-| J. Blaswich | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Últimos partidos de VfB Stuttgart
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -172,70 +172,70 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de VfB Stuttgart
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A. Stiller | M | 10 | 832 | 0 | 4 | 6 | 0,6 | 2 | 0,2 | 12 | 12 | 1,2 | 1 | 0 |
-| J. Chabot | D | 10 | 777 | 1 | 0 | 9 | 0,9 | 3 | 0,3 | 13 | 9 | 0,9 | 1 | 0 |
-| Finn Jeltsch | D | 9 | 718 | 0 | 1 | 9 | 1,0 | 2 | 0,2 | 10 | 8 | 0,9 | 1 | 0 |
-| D. Undav | F | 10 | 710 | 1 | 2 | 13 | 1,3 | 7 | 0,7 | 15 | 2 | 0,2 | 0 | 0 |
-| M. Mittelstädt | D | 8 | 704 | 1 | 1 | 3 | 0,4 | 1 | 0,1 | 9 | 13 | 1,6 | 2 | 0 |
-| J. Vagnoman | D | 9 | 697 | 2 | 1 | 11 | 1,2 | 6 | 0,7 | 7 | 5 | 0,6 | 1 | 0 |
-| G. Prömel | M | 10 | 682 | 1 | 0 | 13 | 1,3 | 4 | 0,4 | 10 | 7 | 0,7 | 1 | 0 |
+| A. Stiller | M | 11 | 918 | 0 | 4 | 6 | 0,5 | 2 | 0,2 | 13 | 13 | 1,2 | 2 | 0 |
+| J. Chabot | D | 11 | 867 | 1 | 0 | 12 | 1,1 | 5 | 0,5 | 14 | 9 | 0,8 | 1 | 0 |
+| Finn Jeltsch | D | 10 | 808 | 0 | 1 | 9 | 0,9 | 2 | 0,2 | 10 | 10 | 1,0 | 1 | 0 |
+| D. Undav | F | 11 | 800 | 1 | 4 | 14 | 1,3 | 7 | 0,6 | 15 | 2 | 0,2 | 0 | 0 |
+| M. Mittelstädt | D | 9 | 794 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 10 | 13 | 1,4 | 2 | 0 |
+| J. Vagnoman | D | 10 | 778 | 2 | 2 | 11 | 1,1 | 6 | 0,6 | 7 | 5 | 0,5 | 1 | 0 |
+| G. Prömel | M | 11 | 772 | 1 | 0 | 13 | 1,2 | 4 | 0,4 | 11 | 8 | 0,7 | 1 | 0 |
+| C. Führich | M | 10 | 713 | 1 | 0 | 10 | 1,0 | 4 | 0,4 | 1 | 5 | 0,5 | 0 | 0 |
 | R. Hendriks | D | 9 | 651 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 2 | 12 | 1,3 | 1 | 0 |
-| C. Führich | M | 9 | 645 | 1 | 0 | 9 | 1,0 | 4 | 0,4 | 1 | 5 | 0,6 | 0 | 0 |
-| B. El Khannouss | M | 10 | 560 | 1 | 0 | 11 | 1,1 | 5 | 0,5 | 4 | 9 | 0,9 | 1 | 0 |
-| F. Bredlow | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| E. Demirović | F | 10 | 535 | 7 | 0 | 23 | 2,3 | 14 | 1,4 | 8 | 8 | 0,8 | 1 | 0 |
-| D. Pejčinović | M | 10 | 452 | 0 | 1 | 13 | 1,3 | 2 | 0,2 | 2 | 2 | 0,2 | 0 | 0 |
+| F. Bredlow | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
+| B. El Khannouss | M | 11 | 582 | 1 | 0 | 11 | 1,0 | 5 | 0,5 | 4 | 9 | 0,8 | 1 | 0 |
+| E. Demirović | F | 11 | 547 | 7 | 0 | 23 | 2,1 | 14 | 1,3 | 8 | 8 | 0,7 | 1 | 0 |
+| D. Pejčinović | M | 11 | 538 | 3 | 1 | 17 | 1,5 | 5 | 0,5 | 2 | 2 | 0,2 | 0 | 0 |
 | J. Leweling | F | 10 | 425 | 1 | 1 | 6 | 0,6 | 3 | 0,3 | 3 | 7 | 0,7 | 0 | 0 |
 | D. Seimen | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | A. Karazor | M | 4 | 231 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 | L. Sauer | M | 9 | 149 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
+| Tiago Tomás | F | 2 | 148 | 1 | 1 | 5 | 2,5 | 3 | 1,5 | 1 | 4 | 2,0 | 0 | 0 |
 | L. Assignon | D | 4 | 98 | 0 | 1 | 2 | 0,5 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| Tiago Tomás | F | 1 | 62 | 0 | 0 | 2 | 2,0 | 1 | 1,0 | 1 | 2 | 2,0 | 0 | 0 |
 | Yanik Spalt | D | 2 | 56 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 1,15 · córners esperados 9,9._
+_Goles esperados: local 2,40 · visitante 1,14 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 25% | 20% | 3.80 | -25% |
-| 1X2: X | 17% | 22% | 20% | 4.20 | -18% |
-| 1X2: 1 ✅ | 68% | 53% | 61% | 1.75 | +6% |
-| Doble oportunidad: X2 | 32% | 47% | 40% | 2.00 | -21% |
-| Doble oportunidad: 12 | 83% | 77% | 80% | 1.22 | -2% |
-| Doble oportunidad: 1X | 85% | 75% | 80% | 1.25 | +0% |
-| Ambos marcan: No ✅ | 37% | 29% | 33% | 3.25 | +7% |
-| Ambos marcan: Sí | 63% | 71% | 67% | 1.33 | -11% |
-| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -5% |
-| Goles más/menos: Más de 3.5 | 51% | 53% | 52% | 1.80 | -7% |
-| Goles más/menos: Más de 4.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Más de 5.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
-| Goles más/menos: Menos de 3.5 | 49% | 47% | 48% | 2.00 | -4% |
-| Goles más/menos: Menos de 4.5 | 68% | 66% | 67% | 1.44 | -3% |
-| Goles más/menos: Menos de 5.5 | 83% | 79% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del local: Más de 2.5 | 47% | 39% | 43% | 2.38 | +3% |
-| Goles del local: Más de 3.5 | 26% | 21% | 23% | 4.50 | +5% |
-| Goles del local: Menos de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del local: Menos de 2.5 | 53% | 61% | 57% | 1.53 | -13% |
-| Goles del local: Menos de 3.5 | 74% | 79% | 77% | 1.18 | -9% |
+| 1X2: 2 | 17% | 25% | 21% | 3.80 | -22% |
+| 1X2: X | 18% | 22% | 20% | 4.20 | -15% |
+| 1X2: 1 | 65% | 53% | 59% | 1.75 | +4% |
+| Doble oportunidad: X2 | 35% | 47% | 41% | 2.00 | -18% |
+| Doble oportunidad: 12 | 82% | 77% | 80% | 1.22 | -3% |
+| Doble oportunidad: 1X | 83% | 75% | 79% | 1.25 | -1% |
+| Ambos marcan: No ✅ | 38% | 29% | 34% | 3.25 | +9% |
+| Ambos marcan: Sí | 62% | 71% | 66% | 1.33 | -12% |
+| Goles más/menos: Más de 2.5 | 69% | 72% | 70% | 1.33 | -7% |
+| Goles más/menos: Más de 3.5 | 47% | 53% | 50% | 1.80 | -10% |
+| Goles más/menos: Más de 4.5 | 28% | 34% | 31% | 2.75 | -14% |
+| Goles más/menos: Más de 5.5 | 15% | 21% | 18% | 4.50 | -19% |
+| Goles más/menos: Menos de 2.5 | 31% | 28% | 30% | 3.40 | +1% |
+| Goles más/menos: Menos de 3.5 | 53% | 47% | 50% | 2.00 | +0% |
+| Goles más/menos: Menos de 4.5 | 72% | 66% | 69% | 1.44 | -1% |
+| Goles más/menos: Menos de 5.5 | 85% | 79% | 82% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 50% | 48% | 1.83 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 25% | 23% | 3.75 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 75% | 77% | 1.25 | -3% |
+| Goles del local: Más de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del local: Más de 2.5 | 43% | 39% | 41% | 2.38 | -2% |
+| Goles del local: Más de 3.5 | 22% | 21% | 21% | 4.50 | -3% |
+| Goles del local: Menos de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles del local: Menos de 2.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles del local: Menos de 3.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del visitante: Más de 0.5 | 68% | 77% | 72% | 1.22 | -12% |
 | Goles del visitante: Más de 1.5 | 32% | 46% | 39% | 2.00 | -22% |
-| Goles del visitante: Más de 2.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles del visitante: Menos de 0.5 | 32% | 23% | 28% | 4.00 | +10% |
-| Goles del visitante: Menos de 1.5 | 68% | 54% | 61% | 1.73 | +5% |
-| Goles del visitante: Menos de 2.5 | 89% | 78% | 84% | 1.20 | +0% |
-| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
-| Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -2% |
-| 1X2 descanso: 2 | 16% | 25% | 21% | 3.75 | -23% |
-| 1X2 descanso: X | 33% | 34% | 33% | 2.75 | -9% |
-| 1X2 descanso: 1 | 51% | 42% | 46% | 2.20 | +2% |
+| Goles del visitante: Más de 2.5 | 11% | 22% | 16% | 4.33 | -30% |
+| Goles del visitante: Menos de 0.5 | 32% | 23% | 28% | 4.00 | +11% |
+| Goles del visitante: Menos de 1.5 | 68% | 54% | 61% | 1.73 | +6% |
+| Goles del visitante: Menos de 2.5 | 89% | 78% | 84% | 1.20 | +1% |
+| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -14% |
+| Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
+| 1X2 descanso: 2 | 17% | 25% | 21% | 3.75 | -21% |
+| 1X2 descanso: X | 34% | 34% | 34% | 2.75 | -7% |
+| 1X2 descanso: 1 | 49% | 42% | 45% | 2.20 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Middlesbrough – Charlton
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -60,53 +60,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Middlesbrough (total) | Middlesbrough en casa | Charlton (total) | Charlton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 15 | 7 | 14 | 8 |
 | Forma (últimos 5) | VEVVE | EVEVV | DDEED | DEDDE |
-| Balance | 7V 4E 1D | 4V 2E 0D | 3V 5E 4D | 1V 2E 3D |
-| Goles a favor / partido | 2,25 | 2,33 | 0,92 | 1,00 |
-| Goles en contra / partido | 1,42 | 1,50 | 1,50 | 2,17 |
-| Goles a favor 1ª parte | 0,83 | 0,50 | 0,33 | 0,33 |
-| Goles a favor 2ª parte | 1,42 | 1,83 | 0,58 | 0,67 |
-| Goles en contra 1ª parte | 0,58 | 1,00 | 0,83 | 1,17 |
-| Goles en contra 2ª parte | 0,83 | 0,50 | 0,67 | 1,00 |
-| Más de 1,5 goles | 83% | 83% | 75% | 100% |
-| Más de 2,5 goles | 75% | 83% | 50% | 67% |
-| Más de 3,5 goles | 58% | 67% | 33% | 50% |
-| Ambos marcan | 83% | 83% | 58% | 67% |
-| Portería a cero | 17% | 17% | 25% | 0% |
-| Se queda sin marcar | 0% | 0% | 33% | 33% |
-| xG a favor | 2,22 | 2,06 | 1,00 | 1,05 |
-| xG en contra | 1,03 | 1,16 | 1,59 | 2,02 |
-| Tiros / partido | 20,1 | 21,2 | 10,0 | 8,8 |
-| Tiros a puerta / partido | 6,7 | 7,3 | 3,0 | 3,3 |
-| Tiros recibidos | 11,1 | 10,8 | 17,0 | 20,7 |
-| Tiros a puerta recibidos | 3,6 | 3,3 | 5,0 | 7,0 |
-| Posesión media % | 59 | 60 | 42 | 38 |
-| Córners a favor | 6,3 | 7,3 | 4,4 | 3,5 |
-| Córners en contra | 4,8 | 4,5 | 6,2 | 6,2 |
-| Córners a favor 1ª parte | 2,8 | 2,8 | 2,6 | 2,3 |
-| Córners a favor 2ª parte | 3,6 | 4,5 | 1,8 | 1,2 |
-| Córners totales del partido | 11,1 | 11,8 | 10,6 | 9,7 |
-| Córners totales 1ª parte | 5,2 | 5,7 | 5,2 | 4,5 |
-| Córners totales 2ª parte | 5,8 | 6,2 | 5,4 | 5,2 |
-| Más de 8,5 córners | 67% | 83% | 75% | 50% |
-| Más de 9,5 córners | 67% | 83% | 67% | 50% |
-| Más de 10,5 córners | 50% | 50% | 50% | 50% |
-| Faltas cometidas | 10,0 | 10,5 | 13,0 | 15,5 |
-| Faltas recibidas | 9,5 | 10,2 | 11,1 | 9,5 |
-| Amarillas propias | 1,0 | 1,0 | 2,1 | 2,8 |
-| Amarillas del rival | 1,8 | 1,7 | 2,0 | 2,3 |
-| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,17 |
+| Balance | 9V 4E 2D | 5V 2E 0D | 4V 5E 5D | 2V 2E 4D |
+| Goles a favor / partido | 2,07 | 2,14 | 1,07 | 1,25 |
+| Goles en contra / partido | 1,40 | 1,29 | 1,71 | 2,38 |
+| Goles a favor 1ª parte | 0,73 | 0,43 | 0,50 | 0,62 |
+| Goles a favor 2ª parte | 1,33 | 1,71 | 0,57 | 0,62 |
+| Goles en contra 1ª parte | 0,53 | 0,86 | 0,86 | 1,12 |
+| Goles en contra 2ª parte | 0,87 | 0,43 | 0,86 | 1,25 |
+| Más de 1,5 goles | 80% | 71% | 79% | 100% |
+| Más de 2,5 goles | 73% | 71% | 57% | 75% |
+| Más de 3,5 goles | 53% | 57% | 43% | 62% |
+| Ambos marcan | 73% | 71% | 64% | 75% |
+| Portería a cero | 20% | 29% | 21% | 0% |
+| Se queda sin marcar | 7% | 0% | 29% | 25% |
+| xG a favor | 2,22 | 2,06 | 0,98 | 1,00 |
+| xG en contra | 1,03 | 1,16 | 1,66 | 2,09 |
+| Tiros / partido | 19,6 | 20,0 | 10,2 | 9,5 |
+| Tiros a puerta / partido | 6,3 | 6,7 | 3,5 | 4,1 |
+| Tiros recibidos | 10,9 | 10,9 | 16,5 | 18,9 |
+| Tiros a puerta recibidos | 3,7 | 3,1 | 5,2 | 6,9 |
+| Posesión media % | 57 | 59 | 42 | 40 |
+| Córners a favor | 6,4 | 7,3 | 4,4 | 3,8 |
+| Córners en contra | 4,1 | 4,3 | 6,2 | 6,2 |
+| Córners a favor 1ª parte | 2,9 | 3,0 | 2,4 | 2,1 |
+| Córners a favor 2ª parte | 3,5 | 4,3 | 2,0 | 1,6 |
+| Córners totales del partido | 10,5 | 11,6 | 10,6 | 10,0 |
+| Córners totales 1ª parte | 4,9 | 5,4 | 5,1 | 4,6 |
+| Córners totales 2ª parte | 5,6 | 6,1 | 5,5 | 5,4 |
+| Más de 8,5 córners | 60% | 86% | 71% | 50% |
+| Más de 9,5 córners | 60% | 86% | 64% | 50% |
+| Más de 10,5 córners | 40% | 43% | 50% | 50% |
+| Faltas cometidas | 10,5 | 10,4 | 12,5 | 14,0 |
+| Faltas recibidas | 9,9 | 10,3 | 10,6 | 9,1 |
+| Amarillas propias | 1,1 | 1,0 | 1,9 | 2,2 |
+| Amarillas del rival | 1,8 | 2,0 | 1,9 | 2,0 |
+| Rojas / partido | 0,00 | 0,00 | 0,07 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Middlesbrough | Recibe Middlesbrough | Tarjetas Middlesbrough | Goles Charlton | Recibe Charlton | Tarjetas Charlton |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 1 | 3 | 2 | 1 |
-| 16-30' | 2 | 1 | 0 | 1 | 5 | 1 |
-| 31-45' | 4 | 3 | 2 | 0 | 3 | 5 |
-| 46-60' | 5 | 6 | 3 | 3 | 4 | 6 |
-| 61-75' | 6 | 3 | 2 | 2 | 2 | 5 |
-| 76-90' | 6 | 1 | 4 | 2 | 2 | 8 |
+| 16-30' | 2 | 1 | 0 | 3 | 5 | 1 |
+| 31-45' | 5 | 4 | 3 | 1 | 5 | 6 |
+| 46-60' | 5 | 7 | 4 | 3 | 5 | 6 |
+| 61-75' | 7 | 4 | 4 | 2 | 3 | 5 |
+| 76-90' | 8 | 2 | 5 | 3 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -134,26 +134,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Middlesbrough
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Brittain | D | 12 | 1080 | 1 | 2 | 10 | 0,8 | 4 | 0,3 | 12 | 3 | 0,2 | 1 | 0 |
+| C. Brittain | D | 15 | 1293 | 1 | 2 | 12 | 0,8 | 5 | 0,3 | 14 | 4 | 0,3 | 1 | 0 |
+| A. Malanda | D | 13 | 1157 | 1 | 0 | 13 | 1,0 | 5 | 0,4 | 9 | 5 | 0,4 | 2 | 0 |
+| A. Morris | M | 13 | 1107 | 2 | 0 | 16 | 1,2 | 8 | 0,6 | 12 | 23 | 1,8 | 0 | 0 |
+| W. Lankshear | F | 15 | 1086 | 13 | 0 | 39 | 2,6 | 25 | 1,7 | 20 | 12 | 0,8 | 3 | 0 |
 | R. Vítek | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| A. Malanda | D | 11 | 990 | 1 | 0 | 12 | 1,1 | 4 | 0,4 | 7 | 3 | 0,3 | 1 | 0 |
-| A. Morris | M | 11 | 990 | 2 | 0 | 15 | 1,4 | 7 | 0,6 | 11 | 17 | 1,5 | 0 | 0 |
-| W. Lankshear | F | 12 | 965 | 11 | 0 | 32 | 2,7 | 22 | 1,8 | 18 | 11 | 0,9 | 2 | 0 |
-| Neto Borges | D | 12 | 849 | 1 | 0 | 9 | 0,8 | 1 | 0,1 | 8 | 7 | 0,6 | 1 | 0 |
-| S. Berhalter | M | 12 | 813 | 2 | 1 | 16 | 1,3 | 6 | 0,5 | 11 | 8 | 0,7 | 2 | 0 |
-| L. Ayling | D | 11 | 714 | 0 | 2 | 4 | 0,4 | 1 | 0,1 | 1 | 8 | 0,7 | 0 | 0 |
+| Neto Borges | D | 15 | 1074 | 1 | 0 | 9 | 0,6 | 1 | 0,1 | 11 | 10 | 0,7 | 2 | 0 |
+| L. Ayling | D | 14 | 984 | 0 | 2 | 5 | 0,4 | 1 | 0,1 | 6 | 10 | 0,7 | 0 | 0 |
+| S. Berhalter | M | 14 | 960 | 2 | 2 | 20 | 1,4 | 7 | 0,5 | 13 | 9 | 0,6 | 2 | 0 |
 | R. McGree | M | 12 | 710 | 0 | 3 | 13 | 1,1 | 3 | 0,2 | 8 | 3 | 0,2 | 2 | 0 |
-| A. Phillips | D | 9 | 669 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 7 | 3 | 0,3 | 1 | 0 |
-| A. Cozier-Duberry | M | 7 | 550 | 3 | 4 | 24 | 3,4 | 12 | 1,7 | 6 | 3 | 0,4 | 0 | 0 |
-| T. Conway | M | 10 | 463 | 1 | 4 | 12 | 1,2 | 4 | 0,4 | 1 | 10 | 1,0 | 0 | 0 |
-| K. Joseph | F | 12 | 432 | 0 | 0 | 10 | 0,8 | 6 | 0,5 | 7 | 10 | 0,8 | 0 | 0 |
-| M. Arfsten | D | 11 | 431 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 8 | 2 | 0,2 | 0 | 0 |
-| M. Peart-Harris | M | 10 | 304 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 6 | 0,6 | 1 | 0 |
-| J. Sarmiento | F | 9 | 266 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 3 | 2 | 0,2 | 0 | 0 |
-| Morgan Whittaker | M | 3 | 248 | 0 | 1 | 5 | 1,7 | 2 | 0,7 | 3 | 3 | 1,0 | 0 | 0 |
-| Alfie Jones | D | 5 | 160 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 0 | 0,0 | 1 | 0 |
-| Leo Castledine | M | 4 | 116 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 4 | 1,0 | 0 | 0 |
-| Abdoulaye Kanté | M | 1 | 63 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Phillips | D | 11 | 700 | 1 | 1 | 5 | 0,5 | 1 | 0,1 | 7 | 3 | 0,3 | 1 | 0 |
+| A. Cozier-Duberry | M | 8 | 640 | 3 | 4 | 27 | 3,4 | 14 | 1,8 | 7 | 3 | 0,4 | 0 | 0 |
+| M. Arfsten | D | 13 | 555 | 1 | 0 | 4 | 0,3 | 1 | 0,1 | 11 | 4 | 0,3 | 0 | 0 |
+| T. Conway | M | 11 | 530 | 1 | 4 | 12 | 1,1 | 4 | 0,4 | 1 | 13 | 1,2 | 0 | 0 |
+| K. Joseph | F | 14 | 527 | 1 | 0 | 15 | 1,1 | 8 | 0,6 | 10 | 12 | 0,9 | 0 | 0 |
+| M. Peart-Harris | M | 12 | 484 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 8 | 11 | 0,9 | 3 | 0 |
+| J. Sarmiento | F | 11 | 423 | 2 | 1 | 8 | 0,7 | 4 | 0,4 | 6 | 2 | 0,2 | 0 | 0 |
+| Morgan Whittaker | M | 5 | 421 | 0 | 1 | 11 | 2,2 | 5 | 1,0 | 3 | 6 | 1,2 | 0 | 0 |
+| Alfie Jones | D | 7 | 322 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 0 | 0,0 | 1 | 0 |
+| Leo Castledine | M | 7 | 319 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 4 | 4 | 0,6 | 0 | 0 |
+| Solomon Brynn | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Charlton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,67 +168,67 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Charlton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Jones | D | 12 | 1080 | 2 | 1 | 7 | 0,6 | 5 | 0,4 | 6 | 11 | 0,9 | 1 | 0 |
-| T. Campbell | M | 12 | 995 | 4 | 1 | 13 | 1,1 | 8 | 0,7 | 15 | 13 | 1,1 | 1 | 0 |
+| L. Jones | D | 14 | 1250 | 3 | 1 | 8 | 0,6 | 6 | 0,4 | 7 | 12 | 0,9 | 1 | 0 |
+| T. Campbell | M | 13 | 1090 | 5 | 1 | 17 | 1,3 | 10 | 0,8 | 15 | 13 | 1,0 | 1 | 0 |
+| C. Coventry | M | 13 | 1066 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 23 | 5 | 0,4 | 3 | 0 |
+| K. Ahearne-Grant | M | 13 | 1011 | 2 | 1 | 12 | 0,9 | 7 | 0,5 | 7 | 8 | 0,6 | 2 | 0 |
 | A. Okonkwo | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| C. Coventry | M | 12 | 971 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 20 | 4 | 0,3 | 3 | 0 |
-| K. Ahearne-Grant | M | 12 | 933 | 2 | 1 | 10 | 0,8 | 6 | 0,5 | 6 | 7 | 0,6 | 2 | 0 |
-| M. Leaburn | F | 12 | 835 | 0 | 0 | 11 | 0,9 | 2 | 0,2 | 24 | 17 | 1,4 | 2 | 0 |
-| D. McNamara | M | 10 | 779 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 9 | 0,9 | 5 | 1 |
-| I. Mesík | D | 11 | 671 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 11 | 1,0 | 2 | 0 |
-| Amari'i Bell | M | 8 | 660 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 14 | 1,8 | 0 | 0 |
+| D. McNamara | M | 12 | 924 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 9 | 0,8 | 5 | 1 |
+| M. Leaburn | F | 14 | 884 | 0 | 0 | 12 | 0,9 | 3 | 0,2 | 25 | 17 | 1,2 | 2 | 0 |
+| I. Mesík | D | 13 | 786 | 1 | 0 | 3 | 0,2 | 1 | 0,1 | 13 | 12 | 0,9 | 2 | 0 |
+| Amari'i Bell | M | 9 | 738 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 16 | 1,8 | 0 | 0 |
+| Billy Dawson Koumetio | D | 8 | 650 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 6 | 6 | 0,8 | 1 | 0 |
 | O. Skipp | M | 7 | 565 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 9 | 9 | 1,3 | 2 | 0 |
-| Billy Dawson Koumetio | D | 6 | 540 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 5 | 5 | 0,8 | 1 | 0 |
+| S. Carey | M | 9 | 427 | 1 | 2 | 8 | 0,9 | 5 | 0,6 | 4 | 3 | 0,3 | 0 | 0 |
 | Tyler Bindon | D | 5 | 405 | 0 | 1 | 5 | 1,0 | 1 | 0,2 | 7 | 2 | 0,4 | 0 | 0 |
-| S. Carey | M | 8 | 332 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 4 | 0 | 0,0 | 0 | 0 |
+| M. Alli | F | 12 | 386 | 0 | 1 | 4 | 0,3 | 2 | 0,2 | 7 | 6 | 0,5 | 0 | 0 |
+| Nathaniel Chalobah | M | 4 | 317 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 7 | 1,8 | 0 | 0 |
 | K. Ramsay | D | 4 | 307 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 3 | 2 | 0,5 | 0 | 0 |
-| M. Alli | F | 10 | 303 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 7 | 6 | 0,6 | 0 | 0 |
-| J. Rankin-Costello | M | 7 | 261 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
-| Nathaniel Chalobah | M | 3 | 225 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 5 | 1,7 | 0 | 0 |
-| A. Mwamba | D | 6 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,2 | 2 | 0 |
-| C. Kelman | F | 6 | 179 | 1 | 0 | 8 | 1,3 | 5 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
-| Micah Mbick | F | 8 | 157 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
+| J. Rankin-Costello | M | 8 | 285 | 0 | 2 | 1 | 0,1 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
+| Micah Mbick | F | 9 | 247 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
+| A. Mwamba | D | 8 | 207 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
+| Timothy Ouma | M | 4 | 186 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,63 · visitante 0,69 · córners esperados 10,2._
+_Goles esperados: local 2,47 · visitante 0,77 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 10% | 9% | 9.50 | -18% |
-| 1X2: X | 14% | 17% | 15% | 5.50 | -16% |
-| 1X2: 1 | 79% | 74% | 76% | 1.25 | -5% |
-| Doble oportunidad: X2 | 21% | 26% | 24% | 3.75 | -12% |
-| Doble oportunidad: 12 | 86% | 84% | 85% | 1.14 | -3% |
-| Doble oportunidad: 1X | 92% | 90% | 91% | 1.07 | -2% |
-| Ambos marcan: No | 54% | 49% | 51% | 1.91 | -3% |
-| Ambos marcan: Sí | 46% | 51% | 49% | 1.80 | -12% |
-| Goles más/menos: Más de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
-| Goles más/menos: Más de 3.5 | 42% | 45% | 44% | 2.10 | -8% |
-| Goles más/menos: Más de 4.5 | 24% | 27% | 26% | 3.50 | -10% |
-| Goles más/menos: Menos de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
-| Goles más/menos: Menos de 3.5 | 58% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Menos de 4.5 | 76% | 73% | 74% | 1.30 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
-| Goles 1ª parte más/menos: Más de 2.5 | 18% | 22% | 20% | 4.33 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
-| Goles del local: Más de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles del local: Más de 2.5 | 49% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Más de 3.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del local: Menos de 1.5 | 26% | 27% | 26% | 3.50 | -7% |
-| Goles del local: Menos de 2.5 | 51% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Menos de 3.5 | 73% | 72% | 73% | 1.30 | -6% |
-| Goles del visitante: Más de 0.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles del visitante: Más de 1.5 | 15% | 22% | 19% | 4.33 | -20% |
-| Goles del visitante: Menos de 0.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles del visitante: Menos de 1.5 | 85% | 78% | 81% | 1.20 | -2% |
-| Córners más/menos: Más de 11.5 | 35% | 49% | 42% | 1.91 | -20% |
-| Córners más/menos: Menos de 11.5 | 65% | 51% | 58% | 1.80 | +5% |
-| 1X2 descanso: X | 33% | 32% | 32% | 2.88 | -6% |
-| 1X2 descanso: 1 | 58% | 56% | 57% | 1.67 | -5% |
+| 1X2: 2 | 10% | 10% | 10% | 9.50 | -9% |
+| 1X2: X | 16% | 17% | 16% | 5.50 | -11% |
+| 1X2: 1 | 75% | 74% | 74% | 1.25 | -7% |
+| Doble oportunidad: X2 | 25% | 26% | 25% | 3.75 | -5% |
+| Doble oportunidad: 12 | 84% | 84% | 84% | 1.14 | -4% |
+| Doble oportunidad: 1X | 90% | 90% | 90% | 1.07 | -3% |
+| Ambos marcan: No | 51% | 49% | 50% | 1.91 | -5% |
+| Ambos marcan: Sí | 49% | 51% | 50% | 1.80 | -10% |
+| Goles más/menos: Más de 2.5 | 63% | 66% | 64% | 1.44 | -8% |
+| Goles más/menos: Más de 3.5 | 41% | 45% | 43% | 2.10 | -10% |
+| Goles más/menos: Más de 4.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles más/menos: Menos de 2.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles más/menos: Menos de 3.5 | 59% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Menos de 4.5 | 77% | 73% | 75% | 1.30 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
+| Goles del local: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles del local: Más de 2.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Goles del local: Más de 3.5 | 24% | 28% | 26% | 3.40 | -13% |
+| Goles del local: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles del local: Menos de 2.5 | 55% | 50% | 53% | 1.83 | -4% |
+| Goles del local: Menos de 3.5 | 76% | 72% | 74% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 53% | 56% | 55% | 1.67 | -9% |
+| Goles del visitante: Más de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles del visitante: Menos de 0.5 | 47% | 44% | 45% | 2.10 | -5% |
+| Goles del visitante: Menos de 1.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Córners más/menos: Más de 11.5 | 36% | 49% | 42% | 1.91 | -20% |
+| Córners más/menos: Menos de 11.5 | 64% | 51% | 58% | 1.80 | +4% |
+| 1X2 descanso: X | 34% | 32% | 33% | 2.88 | -4% |
+| 1X2 descanso: 1 | 55% | 56% | 55% | 1.67 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

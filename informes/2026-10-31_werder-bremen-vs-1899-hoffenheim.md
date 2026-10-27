@@ -1,7 +1,7 @@
 # Werder Bremen – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -61,53 +61,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Werder Bremen (total) | Werder Bremen en casa | 1899 Hoffenheim (total) | 1899 Hoffenheim fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 3 | 10 | 4 |
-| Forma (últimos 5) | VEEVE | EVV | VVVDD | VDDD |
-| Balance | 3V 3E 1D | 2V 1E 0D | 4V 0E 6D | 1V 0E 3D |
-| Goles a favor / partido | 2,14 | 2,67 | 1,90 | 1,25 |
-| Goles en contra / partido | 2,00 | 1,67 | 1,90 | 2,25 |
-| Goles a favor 1ª parte | 0,43 | 0,33 | 0,60 | 0,50 |
-| Goles a favor 2ª parte | 1,71 | 2,33 | 1,30 | 0,75 |
-| Goles en contra 1ª parte | 1,00 | 1,00 | 0,40 | 0,75 |
-| Goles en contra 2ª parte | 1,00 | 0,67 | 1,50 | 1,50 |
+| Partidos analizados | 8 | 3 | 11 | 5 |
+| Forma (últimos 5) | VEEVE | EVV | VVVDD | VDDDV |
+| Balance | 4V 3E 1D | 2V 1E 0D | 5V 0E 6D | 2V 0E 3D |
+| Goles a favor / partido | 2,25 | 2,67 | 2,09 | 1,80 |
+| Goles en contra / partido | 1,75 | 1,67 | 1,73 | 1,80 |
+| Goles a favor 1ª parte | 0,50 | 0,33 | 0,82 | 1,00 |
+| Goles a favor 2ª parte | 1,75 | 2,33 | 1,27 | 0,80 |
+| Goles en contra 1ª parte | 0,88 | 1,00 | 0,36 | 0,60 |
+| Goles en contra 2ª parte | 0,88 | 0,67 | 1,36 | 1,20 |
 | Más de 1,5 goles | 100% | 100% | 100% | 100% |
-| Más de 2,5 goles | 86% | 100% | 90% | 75% |
-| Más de 3,5 goles | 86% | 100% | 50% | 50% |
-| Ambos marcan | 100% | 100% | 70% | 75% |
-| Portería a cero | 0% | 0% | 20% | 0% |
-| Se queda sin marcar | 0% | 0% | 10% | 25% |
+| Más de 2,5 goles | 88% | 100% | 91% | 80% |
+| Más de 3,5 goles | 75% | 100% | 55% | 60% |
+| Ambos marcan | 88% | 100% | 64% | 60% |
+| Portería a cero | 12% | 0% | 27% | 20% |
+| Se queda sin marcar | 0% | 0% | 9% | 20% |
 | xG a favor | 1,76 | 2,31 | 1,86 | 1,73 |
 | xG en contra | 1,71 | 1,26 | 1,48 | 1,03 |
-| Tiros / partido | 14,4 | 16,7 | 18,2 | 18,2 |
-| Tiros a puerta / partido | 7,0 | 9,7 | 5,4 | 4,8 |
-| Tiros recibidos | 15,7 | 12,3 | 12,7 | 12,2 |
-| Tiros a puerta recibidos | 5,9 | 4,3 | 3,8 | 4,2 |
-| Posesión media % | 47 | 52 | 55 | 61 |
-| Córners a favor | 4,1 | 3,0 | 7,1 | 6,5 |
-| Córners en contra | 5,9 | 4,0 | 4,9 | 4,8 |
-| Córners a favor 1ª parte | 1,3 | 1,3 | 2,5 | 1,2 |
-| Córners a favor 2ª parte | 2,9 | 1,7 | 4,6 | 5,2 |
-| Córners totales del partido | 10,0 | 7,0 | 12,0 | 11,2 |
-| Córners totales 1ª parte | 4,0 | 3,3 | 4,2 | 3,5 |
-| Córners totales 2ª parte | 6,0 | 3,7 | 7,8 | 7,8 |
-| Más de 8,5 córners | 71% | 33% | 90% | 100% |
-| Más de 9,5 córners | 57% | 0% | 80% | 75% |
-| Más de 10,5 córners | 57% | 0% | 70% | 75% |
-| Faltas cometidas | 11,0 | 11,3 | 15,5 | 16,0 |
-| Faltas recibidas | 10,6 | 11,0 | 8,9 | 9,5 |
-| Amarillas propias | 1,1 | 1,3 | 2,6 | 2,0 |
-| Amarillas del rival | 1,4 | 1,0 | 1,3 | 1,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,20 | 0,00 |
+| Tiros / partido | 15,6 | 16,7 | 19,1 | 20,2 |
+| Tiros a puerta / partido | 7,1 | 9,7 | 6,0 | 6,2 |
+| Tiros recibidos | 14,0 | 12,3 | 12,0 | 10,8 |
+| Tiros a puerta recibidos | 5,1 | 4,3 | 3,5 | 3,6 |
+| Posesión media % | 50 | 52 | 56 | 62 |
+| Córners a favor | 4,9 | 3,0 | 7,8 | 8,2 |
+| Córners en contra | 5,2 | 4,0 | 4,6 | 4,2 |
+| Córners a favor 1ª parte | 1,5 | 1,3 | 2,5 | 1,6 |
+| Córners a favor 2ª parte | 3,4 | 1,7 | 5,3 | 6,6 |
+| Córners totales del partido | 10,1 | 7,0 | 12,5 | 12,4 |
+| Córners totales 1ª parte | 4,0 | 3,3 | 4,3 | 3,8 |
+| Córners totales 2ª parte | 6,1 | 3,7 | 8,2 | 8,6 |
+| Más de 8,5 córners | 75% | 33% | 91% | 100% |
+| Más de 9,5 córners | 62% | 0% | 82% | 80% |
+| Más de 10,5 córners | 62% | 0% | 73% | 80% |
+| Faltas cometidas | 10,6 | 11,3 | 14,6 | 14,0 |
+| Faltas recibidas | 10,4 | 11,0 | 8,5 | 8,4 |
+| Amarillas propias | 1,1 | 1,3 | 2,4 | 1,6 |
+| Amarillas del rival | 1,2 | 1,0 | 1,3 | 1,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,18 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen | Goles 1899 Hoffenheim | Recibe 1899 Hoffenheim | Tarjetas 1899 Hoffenheim |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 0 | 2 | 1 | 1 |
-| 16-30' | 1 | 4 | 2 | 1 | 2 | 2 |
-| 31-45' | 0 | 2 | 1 | 3 | 1 | 5 |
-| 46-60' | 1 | 3 | 2 | 5 | 4 | 2 |
-| 61-75' | 5 | 1 | 1 | 3 | 5 | 8 |
-| 76-90' | 6 | 3 | 2 | 5 | 6 | 12 |
+| 1-15' | 3 | 1 | 0 | 3 | 1 | 1 |
+| 16-30' | 1 | 4 | 2 | 2 | 2 | 2 |
+| 31-45' | 0 | 2 | 2 | 4 | 1 | 5 |
+| 46-60' | 2 | 3 | 2 | 5 | 4 | 2 |
+| 61-75' | 5 | 1 | 1 | 4 | 5 | 8 |
+| 76-90' | 7 | 3 | 2 | 5 | 6 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -135,26 +135,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Werder Bremen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Friedl | D | 7 | 630 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 11 | 3 | 0,4 | 0 | 0 |
+| M. Friedl | D | 8 | 720 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 11 | 4 | 0,5 | 0 | 0 |
+| O. Deman | D | 8 | 675 | 0 | 1 | 5 | 0,6 | 4 | 0,5 | 7 | 4 | 0,5 | 1 | 0 |
+| L. Reis | M | 8 | 672 | 3 | 0 | 9 | 1,1 | 5 | 0,6 | 10 | 6 | 0,8 | 2 | 0 |
+| M. Grüll | M | 8 | 642 | 2 | 6 | 11 | 1,4 | 5 | 0,6 | 8 | 16 | 2,0 | 1 | 0 |
+| A. Pieper | D | 8 | 638 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 1 | 3 | 0,4 | 0 | 0 |
 | K. Hein | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| M. Grüll | M | 7 | 625 | 2 | 5 | 10 | 1,4 | 5 | 0,7 | 8 | 16 | 2,3 | 1 | 0 |
-| O. Deman | D | 7 | 585 | 0 | 0 | 3 | 0,4 | 3 | 0,4 | 6 | 2 | 0,3 | 1 | 0 |
-| L. Reis | M | 7 | 582 | 2 | 0 | 7 | 1,0 | 4 | 0,6 | 7 | 6 | 0,9 | 2 | 0 |
-| N. Füllkrug | F | 7 | 567 | 8 | 0 | 22 | 3,1 | 17 | 2,4 | 16 | 6 | 0,9 | 0 | 0 |
-| Chuky San José | M | 7 | 551 | 0 | 2 | 9 | 1,3 | 7 | 1,0 | 6 | 6 | 0,9 | 1 | 0 |
-| A. Pieper | D | 7 | 548 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 1 | 3 | 0,4 | 0 | 0 |
+| N. Füllkrug | F | 8 | 627 | 9 | 0 | 25 | 3,1 | 18 | 2,2 | 17 | 6 | 0,8 | 1 | 0 |
+| Chuky San José | M | 8 | 596 | 0 | 2 | 10 | 1,2 | 7 | 0,9 | 7 | 6 | 0,8 | 1 | 0 |
 | Y. Regeer | M | 6 | 499 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 5 | 5 | 0,8 | 1 | 0 |
 | Arthur | D | 6 | 482 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 1 | 8 | 1,3 | 1 | 0 |
 | E. Dinkçi | F | 7 | 389 | 1 | 1 | 7 | 1,0 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
-| Mick Schmetgens | D | 6 | 177 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 0,7 | 0 | 0 |
+| Mick Schmetgens | D | 7 | 267 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 5 | 0,7 | 0 | 0 |
 | M. Weiser | M | 5 | 163 | 1 | 0 | 7 | 1,4 | 4 | 0,8 | 1 | 6 | 1,2 | 0 | 0 |
+| Justin Njinmah | F | 2 | 134 | 0 | 0 | 2 | 1,0 | 2 | 1,0 | 0 | 2 | 1,0 | 0 | 0 |
+| C. Itten | F | 6 | 120 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | Dariusz Stalmach | M | 5 | 115 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,4 | 1 | 0 |
 | O. Wójcik | D | 3 | 113 | 0 | 1 | 3 | 1,0 | 1 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
-| C. Itten | F | 5 | 90 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| Justin Njinmah | F | 1 | 61 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
-| Salim Musah | F | 3 | 55 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Paul Erevbenagie | F | 4 | 46 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
-| Senne Lynen | M | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Paul Erevbenagie | F | 5 | 91 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 2 | 0,4 | 0 | 0 |
+| Senne Lynen | M | 2 | 90 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 1 | 0,5 | 0 | 0 |
+| Alexander Schlager | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de 1899 Hoffenheim
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -169,68 +169,66 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de 1899 Hoffenheim
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| L. Avdullahu | M | 11 | 980 | 1 | 0 | 8 | 0,7 | 3 | 0,3 | 13 | 6 | 0,5 | 2 | 0 |
+| V. Coufal | D | 11 | 927 | 0 | 3 | 1 | 0,1 | 0 | 0,0 | 7 | 9 | 0,8 | 2 | 0 |
 | O. Baumann | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Avdullahu | M | 10 | 890 | 1 | 0 | 7 | 0,7 | 2 | 0,2 | 13 | 6 | 0,6 | 2 | 0 |
-| V. Coufal | D | 10 | 850 | 0 | 3 | 1 | 0,1 | 0 | 0,0 | 6 | 9 | 0,9 | 2 | 0 |
-| O. Kabak | D | 10 | 806 | 1 | 0 | 10 | 1,0 | 2 | 0,2 | 27 | 4 | 0,4 | 4 | 0 |
-| W. Burger | M | 9 | 702 | 0 | 0 | 11 | 1,2 | 4 | 0,4 | 6 | 7 | 0,8 | 4 | 0 |
-| A. Daghim | M | 10 | 669 | 3 | 2 | 6 | 0,6 | 5 | 0,5 | 13 | 7 | 0,7 | 1 | 0 |
-| A. Hložek | M | 10 | 599 | 3 | 1 | 26 | 2,6 | 9 | 0,9 | 9 | 6 | 0,6 | 0 | 0 |
-| B. Conté | M | 10 | 560 | 2 | 2 | 14 | 1,4 | 4 | 0,4 | 6 | 15 | 1,5 | 0 | 0 |
-| M. Rots | D | 8 | 537 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 11 | 3 | 0,4 | 1 | 0 |
-| T. Lemperle | F | 8 | 534 | 1 | 1 | 11 | 1,4 | 6 | 0,8 | 15 | 0 | 0,0 | 1 | 0 |
+| O. Kabak | D | 11 | 896 | 1 | 0 | 11 | 1,0 | 2 | 0,2 | 27 | 4 | 0,4 | 4 | 0 |
+| W. Burger | M | 10 | 792 | 1 | 0 | 12 | 1,2 | 5 | 0,5 | 6 | 7 | 0,7 | 4 | 0 |
+| A. Daghim | M | 11 | 698 | 3 | 2 | 10 | 0,9 | 5 | 0,5 | 14 | 7 | 0,6 | 1 | 0 |
+| A. Hložek | M | 11 | 660 | 3 | 1 | 26 | 2,4 | 9 | 0,8 | 9 | 6 | 0,5 | 0 | 0 |
+| M. Rots | D | 9 | 627 | 0 | 0 | 9 | 1,0 | 2 | 0,2 | 11 | 5 | 0,6 | 1 | 0 |
+| T. Lemperle | F | 9 | 595 | 1 | 1 | 14 | 1,6 | 7 | 0,8 | 17 | 0 | 0,0 | 1 | 0 |
+| B. Conté | M | 11 | 589 | 2 | 3 | 16 | 1,5 | 4 | 0,4 | 6 | 15 | 1,4 | 0 | 0 |
 | K. Machida | D | 8 | 513 | 1 | 0 | 4 | 0,5 | 1 | 0,1 | 14 | 1 | 0,1 | 2 | 0 |
-| Albian Hajdari | D | 5 | 357 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 9 | 3 | 0,6 | 1 | 0 |
+| Albian Hajdari | D | 6 | 447 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 3 | 0,5 | 1 | 0 |
 | F. Asllani | F | 8 | 351 | 1 | 1 | 10 | 1,2 | 5 | 0,6 | 6 | 10 | 1,2 | 2 | 0 |
+| Patrick Wimmer | M | 6 | 344 | 2 | 1 | 11 | 1,8 | 5 | 0,8 | 5 | 6 | 1,0 | 0 | 0 |
 | A. Prass | M | 5 | 317 | 2 | 1 | 10 | 2,0 | 6 | 1,2 | 2 | 4 | 0,8 | 1 | 1 |
 | A. Kramarić | F | 10 | 300 | 2 | 3 | 9 | 0,9 | 4 | 0,4 | 2 | 0 | 0,0 | 1 | 0 |
-| Patrick Wimmer | M | 5 | 267 | 0 | 0 | 6 | 1,2 | 1 | 0,2 | 5 | 5 | 1,0 | 0 | 0 |
 | R. Hranáč | D | 7 | 255 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 4 | 0 | 0,0 | 0 | 0 |
 | Bernardo | D | 3 | 208 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 1 |
-| Max Moerstedt | F | 4 | 117 | 1 | 1 | 4 | 1,0 | 3 | 0,8 | 0 | 2 | 0,5 | 1 | 0 |
-| Nathan De Cat | M | 4 | 108 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| Nathan De Cat | M | 5 | 169 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
+| Max Moerstedt | F | 5 | 146 | 2 | 1 | 8 | 1,6 | 6 | 1,2 | 0 | 3 | 0,6 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 1,69 · córners esperados 9,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 2,27 · visitante 1,63 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 43% | 35% | 2.20 | -22% |
-| 1X2: X | 20% | 25% | 22% | 3.80 | -16% |
-| 1X2: 1 | 53% | 32% | 43% | 2.90 | +23% |
-| Doble oportunidad: X2 | 47% | 68% | 58% | 1.40 | -19% |
-| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -2% |
-| Doble oportunidad: 1X | 72% | 57% | 64% | 1.67 | +8% |
-| Ambos marcan: No | 26% | 34% | 30% | 2.75 | -18% |
-| Ambos marcan: Sí | 74% | 66% | 70% | 1.40 | -2% |
-| Goles más/menos: Más de 2.5 | 77% | 66% | 71% | 1.44 | +3% |
-| Goles más/menos: Más de 3.5 | 57% | 47% | 52% | 2.00 | +5% |
-| Goles más/menos: Más de 4.5 | 38% | 28% | 33% | 3.40 | +12% |
-| Goles más/menos: Menos de 2.5 | 23% | 34% | 29% | 2.75 | -21% |
-| Goles más/menos: Menos de 3.5 | 43% | 53% | 48% | 1.80 | -14% |
-| Goles más/menos: Menos de 4.5 | 62% | 72% | 67% | 1.33 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 52% | 46% | 49% | 2.00 | -1% |
-| Goles 1ª parte más/menos: Más de 2.5 | 26% | 22% | 24% | 4.33 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 74% | 78% | 76% | 1.20 | -8% |
-| Goles del local: Más de 0.5 | 90% | 79% | 85% | 1.18 | +0% |
-| Goles del local: Más de 1.5 | 68% | 49% | 58% | 1.91 | +11% |
-| Goles del local: Más de 2.5 | 42% | 23% | 33% | 4.00 | +30% |
-| Goles del local: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -32% |
-| Goles del local: Menos de 1.5 | 32% | 51% | 42% | 1.80 | -25% |
-| Goles del local: Menos de 2.5 | 58% | 77% | 67% | 1.22 | -18% |
-| Goles del visitante: Más de 1.5 | 50% | 56% | 53% | 1.67 | -11% |
-| Goles del visitante: Más de 2.5 | 24% | 29% | 27% | 3.25 | -14% |
-| Goles del visitante: Menos de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles del visitante: Menos de 2.5 | 76% | 71% | 73% | 1.33 | -2% |
-| Córners más/menos: Más de 9.5 | 48% | 51% | 50% | 1.80 | -10% |
-| Córners más/menos: Menos de 9.5 | 52% | 49% | 50% | 1.91 | -4% |
-| 1X2 descanso: 2 | 26% | 35% | 31% | 2.62 | -20% |
-| 1X2 descanso: X | 33% | 36% | 34% | 2.60 | -11% |
-| 1X2 descanso: 1 | 41% | 29% | 35% | 3.20 | +13% |
+| 1X2: 2 | 28% | 43% | 35% | 2.20 | -23% |
+| 1X2: X | 20% | 25% | 22% | 3.80 | -15% |
+| 1X2: 1 ✅ | 52% | 32% | 42% | 2.90 | +23% |
+| Doble oportunidad: X2 | 48% | 68% | 58% | 1.40 | -19% |
+| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
+| Doble oportunidad: 1X | 72% | 57% | 65% | 1.67 | +8% |
+| Ambos marcan: No | 28% | 34% | 31% | 2.75 | -15% |
+| Ambos marcan: Sí | 72% | 66% | 69% | 1.40 | -3% |
+| Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles más/menos: Más de 3.5 | 55% | 47% | 51% | 2.00 | +2% |
+| Goles más/menos: Más de 4.5 | 35% | 28% | 32% | 3.40 | +7% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -18% |
+| Goles más/menos: Menos de 3.5 | 45% | 53% | 49% | 1.80 | -12% |
+| Goles más/menos: Menos de 4.5 | 65% | 72% | 68% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 46% | 48% | 2.00 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 22% | 23% | 4.33 | -1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del local: Más de 0.5 | 90% | 79% | 84% | 1.18 | -0% |
+| Goles del local: Más de 1.5 | 66% | 49% | 57% | 1.91 | +10% |
+| Goles del local: Más de 2.5 ✅ | 40% | 23% | 31% | 4.00 | +26% |
+| Goles del local: Menos de 0.5 | 10% | 21% | 16% | 4.50 | -30% |
+| Goles del local: Menos de 1.5 | 34% | 51% | 43% | 1.80 | -23% |
+| Goles del local: Menos de 2.5 | 60% | 77% | 69% | 1.22 | -16% |
+| Goles del visitante: Más de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
+| Goles del visitante: Más de 2.5 | 22% | 29% | 26% | 3.25 | -16% |
+| Goles del visitante: Menos de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
+| Goles del visitante: Menos de 2.5 | 78% | 71% | 74% | 1.33 | -1% |
+| Córners más/menos: Más de 9.5 | 49% | 51% | 50% | 1.80 | -10% |
+| Córners más/menos: Menos de 9.5 | 51% | 49% | 50% | 1.91 | -5% |
+| 1X2 descanso: 2 | 25% | 35% | 30% | 2.62 | -20% |
+| 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -10% |
+| 1X2 descanso: 1 | 41% | 29% | 35% | 3.20 | +12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

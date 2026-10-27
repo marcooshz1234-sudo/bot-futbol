@@ -1,7 +1,7 @@
 # FC Porto – Estoril
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | FC Porto (total) | FC Porto en casa | Estoril (total) | Estoril fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 9 | 4 |
-| Forma (últimos 5) | VDDVV | DVDVV | DDDDE | DDDD |
-| Balance | 9V 0E 3D | 4V 0E 2D | 0V 2E 7D | 0V 0E 4D |
-| Goles a favor / partido | 1,92 | 1,50 | 0,56 | 0,50 |
-| Goles en contra / partido | 0,83 | 0,83 | 1,67 | 1,75 |
+| Partidos analizados | 12 | 6 | 10 | 5 |
+| Forma (últimos 5) | VDDVV | DVDVV | DEDDD | EDDDD |
+| Balance | 9V 0E 3D | 4V 0E 2D | 0V 3E 7D | 0V 1E 4D |
+| Goles a favor / partido | 1,92 | 1,50 | 0,60 | 0,60 |
+| Goles en contra / partido | 0,83 | 0,83 | 1,60 | 1,60 |
 | Goles a favor 1ª parte | 0,83 | 0,67 | 0,00 | 0,00 |
-| Goles a favor 2ª parte | 1,08 | 0,83 | 0,56 | 0,50 |
-| Goles en contra 1ª parte | 0,25 | 0,17 | 0,78 | 0,50 |
-| Goles en contra 2ª parte | 0,58 | 0,67 | 0,89 | 1,25 |
-| Más de 1,5 goles | 83% | 83% | 78% | 75% |
-| Más de 2,5 goles | 50% | 33% | 44% | 50% |
-| Más de 3,5 goles | 25% | 17% | 11% | 0% |
-| Ambos marcan | 42% | 33% | 56% | 50% |
-| Portería a cero | 42% | 33% | 11% | 0% |
-| Se queda sin marcar | 17% | 33% | 44% | 50% |
+| Goles a favor 2ª parte | 1,08 | 0,83 | 0,60 | 0,60 |
+| Goles en contra 1ª parte | 0,25 | 0,17 | 0,70 | 0,40 |
+| Goles en contra 2ª parte | 0,58 | 0,67 | 0,90 | 1,20 |
+| Más de 1,5 goles | 83% | 83% | 80% | 80% |
+| Más de 2,5 goles | 50% | 33% | 40% | 40% |
+| Más de 3,5 goles | 25% | 17% | 10% | 0% |
+| Ambos marcan | 42% | 33% | 60% | 60% |
+| Portería a cero | 42% | 33% | 10% | 0% |
+| Se queda sin marcar | 17% | 33% | 40% | 40% |
 | xG a favor | 1,82 | 1,92 | 1,05 | 0,83 |
 | xG en contra | 1,13 | 1,35 | 1,49 | 1,65 |
 | Tiros / partido | 14,3 | 15,7 | 14,4 | 10,0 |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 0 | 3 | 1 |
 | 16-30' | 1 | 2 | 0 | 0 | 2 | 4 |
-| 31-45' | 6 | 1 | 3 | 0 | 2 | 5 |
+| 31-45' | 6 | 1 | 3 | 0 | 2 | 6 |
 | 46-60' | 5 | 4 | 3 | 1 | 1 | 1 |
-| 61-75' | 4 | 1 | 2 | 2 | 3 | 6 |
-| 76-90' | 4 | 2 | 5 | 2 | 4 | 7 |
+| 61-75' | 4 | 1 | 2 | 2 | 3 | 7 |
+| 76-90' | 4 | 2 | 5 | 3 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -108,11 +108,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-25 | Primeira Liga | Estoril 1-3 Moreirense | casa | 6-3 | 26 (7) - 13 (4) | 3-1 |
+| 2026-10-18 | Taça de Portugal | Salgueiros 1-1 Estoril | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Academico Viseu 2-1 Estoril | fuera | 5-3 | 15 (9) - 15 (6) | 1-3 |
 | 2026-09-20 | Primeira Liga | Estoril 1-2 Casa Pia | casa | 7-4 | 14 (6) - 11 (3) | 3-2 |
 | 2026-09-14 | Primeira Liga | SC Braga 1-0 Estoril | fuera | 2-4 | 12 (1) - 20 (7) | 2-0 |
 | 2026-09-07 | Primeira Liga | Estoril 0-0 Arouca | casa | 8-2 | 18 (8) - 12 (2) | 4-1 |
-| 2026-08-31 | Primeira Liga | Benfica 2-1 Estoril | fuera | 0-9 | 4 (2) - 25 (8) | 1-0 |
 
 ## Jugadores de Estoril
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Jordan Arnolin | D | 4 | 117 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 4 | 2 | 0,5 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 0,51 · córners esperados 9,8._
+_Goles esperados: local 2,30 · visitante 0,52 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

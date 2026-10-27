@@ -1,15 +1,15 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 80 · aciertos: 47 (59%) · beneficio a 1 € por pick: -15.36 €
+Picks ya jugados: 90 · aciertos: 53 (59%) · beneficio a 1 € por pick: -16.74 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 12 | 17 | 71% | -0.87 € |
-| jugador | 6 | 9 | 67% | -0.84 € |
-| tiros | 2 | 3 | 67% | +0.53 € |
-| goles | 25 | 44 | 57% | -10.35 € |
+| jugador | 8 | 11 | 73% | +0.21 € |
+| resultado | 13 | 18 | 72% | -0.54 € |
+| goles | 28 | 50 | 56% | -12.11 € |
+| tiros | 2 | 4 | 50% | -0.47 € |
 | tarjetas | 2 | 4 | 50% | -0.83 € |
 | corners | 0 | 1 | 0% | -1.00 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
@@ -20,15 +20,27 @@ Picks ya jugados: 80 · aciertos: 47 (59%) · beneficio a 1 € por pick: -15.36
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
 | Double Chance · Draw/Away | 3 | 3 | 100% |
-| Goals Over/Under · Over 1.5 | 6 | 8 | 75% |
-| Double Chance · Home/Away | 7 | 11 | 64% |
-| Total - Away · Over 0.5 | 5 | 9 | 56% |
-| Goals Over/Under First Half · Over 0.5 | 5 | 9 | 56% |
-| Both Teams Score · Yes | 2 | 4 | 50% |
-| Goals Over/Under · Over 2.5 | 3 | 6 | 50% |
+| Goals Over/Under · Over 1.5 | 7 | 9 | 78% |
+| Double Chance · Home/Away | 8 | 12 | 67% |
+| Goals Over/Under First Half · Over 0.5 | 6 | 10 | 60% |
+| Total - Away · Over 0.5 | 6 | 11 | 55% |
+| Goals Over/Under · Over 2.5 | 3 | 7 | 43% |
+| Both Teams Score · Yes | 2 | 5 | 40% |
 | Goals Over/Under - Second Half · Over 0.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-10-26 · 6/10
+- ✅ Vinicius Lopes: 1+ tiros · 1.25 (1-2)
+- ❌ Más de 26,5 tiros en Paris Saint Germain–Lyon · 1.80 (2-0)
+- ❌ Más de 2,5 goles en Paris Saint Germain–Lyon · 1.36 (2-0)
+- ❌ Lyon marca · 1.44 (2-0)
+- ❌ Ambos marcan en Paris Saint Germain–Lyon · 1.62 (2-0)
+- ✅ Burgos marca · 1.44 (2-3)
+- ✅ Gol en la 1ª parte del FC Andorra–Burgos · 1.40 (2-3)
+- ✅ Más de 1,5 goles en Sevilla–Osasuna · 1.40 (2-0)
+- ✅ No hay empate en Sevilla–Osasuna · 1.33 (2-0)
+- ✅ Youssouf Fofana: 1+ tiros a puerta · 1.80 (2-0)
 
 ### 2026-10-25 · 25/46
 - ✅ Más de 2,5 goles en Inter–Fiorentina · 1.44 (2-1)

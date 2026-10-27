@@ -1,7 +1,7 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -49,53 +49,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Liverpool (total) | Liverpool en casa | Arsenal (total) | Arsenal fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 6 |
-| Forma (últimos 5) | VVVVD | VVDEV | VEVVV | EVDVV |
-| Balance | 7V 3E 1D | 3V 2E 1D | 9V 1E 1D | 4V 1E 1D |
-| Goles a favor / partido | 2,09 | 1,67 | 1,73 | 1,17 |
-| Goles en contra / partido | 1,36 | 1,50 | 0,64 | 0,83 |
-| Goles a favor 1ª parte | 0,91 | 0,83 | 0,45 | 0,17 |
-| Goles a favor 2ª parte | 1,18 | 0,83 | 1,27 | 1,00 |
-| Goles en contra 1ª parte | 0,55 | 0,67 | 0,36 | 0,50 |
-| Goles en contra 2ª parte | 0,82 | 0,83 | 0,27 | 0,33 |
-| Más de 1,5 goles | 82% | 83% | 73% | 50% |
-| Más de 2,5 goles | 64% | 67% | 55% | 33% |
-| Más de 3,5 goles | 36% | 33% | 9% | 17% |
-| Ambos marcan | 55% | 50% | 27% | 17% |
-| Portería a cero | 36% | 33% | 64% | 67% |
-| Se queda sin marcar | 18% | 33% | 9% | 17% |
+| Partidos analizados | 12 | 7 | 12 | 7 |
+| Forma (últimos 5) | VVVVD | VVDVE | VEVVV | EVDVV |
+| Balance | 8V 3E 1D | 4V 2E 1D | 10V 1E 1D | 5V 1E 1D |
+| Goles a favor / partido | 2,17 | 1,86 | 1,92 | 1,57 |
+| Goles en contra / partido | 1,33 | 1,43 | 0,75 | 1,00 |
+| Goles a favor 1ª parte | 0,92 | 0,86 | 0,58 | 0,43 |
+| Goles a favor 2ª parte | 1,25 | 1,00 | 1,33 | 1,14 |
+| Goles en contra 1ª parte | 0,50 | 0,57 | 0,33 | 0,43 |
+| Goles en contra 2ª parte | 0,83 | 0,86 | 0,42 | 0,57 |
+| Más de 1,5 goles | 83% | 86% | 75% | 57% |
+| Más de 2,5 goles | 67% | 71% | 58% | 43% |
+| Más de 3,5 goles | 42% | 43% | 17% | 29% |
+| Ambos marcan | 58% | 57% | 33% | 29% |
+| Portería a cero | 33% | 29% | 58% | 57% |
+| Se queda sin marcar | 17% | 29% | 8% | 14% |
 | xG a favor | 1,74 | 1,49 | 1,93 | 1,91 |
 | xG en contra | 1,30 | 1,37 | 0,83 | 1,18 |
-| Tiros / partido | 16,8 | 14,8 | 14,8 | 13,0 |
-| Tiros a puerta / partido | 5,5 | 4,8 | 5,1 | 3,8 |
-| Tiros recibidos | 12,3 | 12,8 | 9,8 | 11,3 |
-| Tiros a puerta recibidos | 3,5 | 3,5 | 2,9 | 3,0 |
-| Posesión media % | 53 | 49 | 60 | 61 |
-| Córners a favor | 5,7 | 5,2 | 5,7 | 4,8 |
-| Córners en contra | 3,9 | 4,7 | 3,1 | 3,7 |
-| Córners a favor 1ª parte | 3,1 | 2,7 | 3,0 | 2,2 |
-| Córners a favor 2ª parte | 2,6 | 2,5 | 2,7 | 2,7 |
-| Córners totales del partido | 9,6 | 9,8 | 8,8 | 8,5 |
-| Córners totales 1ª parte | 5,4 | 4,7 | 4,5 | 3,8 |
-| Córners totales 2ª parte | 4,3 | 5,2 | 4,4 | 4,7 |
-| Más de 8,5 córners | 55% | 67% | 36% | 33% |
-| Más de 9,5 córners | 45% | 50% | 36% | 33% |
-| Más de 10,5 córners | 45% | 50% | 27% | 33% |
-| Faltas cometidas | 12,5 | 13,2 | 10,2 | 8,8 |
-| Faltas recibidas | 9,8 | 10,2 | 14,5 | 14,8 |
-| Amarillas propias | 1,8 | 1,5 | 1,4 | 1,3 |
-| Amarillas del rival | 2,0 | 1,7 | 2,6 | 2,7 |
-| Rojas / partido | 0,09 | 0,17 | 0,00 | 0,00 |
+| Tiros / partido | 16,4 | 14,4 | 14,6 | 12,9 |
+| Tiros a puerta / partido | 5,4 | 4,9 | 5,2 | 4,1 |
+| Tiros recibidos | 12,7 | 13,4 | 9,7 | 10,9 |
+| Tiros a puerta recibidos | 3,7 | 3,9 | 2,9 | 3,0 |
+| Posesión media % | 54 | 50 | 60 | 61 |
+| Córners a favor | 5,7 | 5,1 | 5,4 | 4,4 |
+| Córners en contra | 4,3 | 5,3 | 3,1 | 3,6 |
+| Córners a favor 1ª parte | 3,1 | 2,7 | 2,8 | 1,9 |
+| Córners a favor 2ª parte | 2,6 | 2,4 | 2,7 | 2,6 |
+| Córners totales del partido | 10,0 | 10,4 | 8,5 | 8,0 |
+| Córners totales 1ª parte | 5,3 | 4,7 | 4,2 | 3,6 |
+| Córners totales 2ª parte | 4,7 | 5,7 | 4,2 | 4,4 |
+| Más de 8,5 córners | 58% | 71% | 33% | 29% |
+| Más de 9,5 córners | 50% | 57% | 33% | 29% |
+| Más de 10,5 córners | 50% | 57% | 25% | 29% |
+| Faltas cometidas | 12,7 | 13,4 | 10,4 | 9,4 |
+| Faltas recibidas | 9,9 | 10,3 | 14,2 | 14,3 |
+| Amarillas propias | 1,9 | 1,7 | 1,2 | 1,1 |
+| Amarillas del rival | 2,0 | 1,7 | 2,6 | 2,6 |
+| Rojas / partido | 0,08 | 0,14 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Liverpool | Recibe Liverpool | Tarjetas Liverpool | Goles Arsenal | Recibe Arsenal | Tarjetas Arsenal |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 2 | 2 | 2 | 1 | 1 |
-| 16-30' | 4 | 3 | 3 | 3 | 0 | 2 |
-| 31-45' | 5 | 1 | 1 | 0 | 3 | 2 |
-| 46-60' | 5 | 1 | 9 | 5 | 2 | 3 |
-| 61-75' | 6 | 5 | 3 | 7 | 1 | 1 |
-| 76-90' | 2 | 3 | 3 | 3 | 0 | 7 |
+| 1-15' | 2 | 2 | 2 | 3 | 1 | 1 |
+| 16-30' | 5 | 3 | 3 | 4 | 0 | 2 |
+| 31-45' | 5 | 1 | 3 | 0 | 3 | 2 |
+| 46-60' | 6 | 1 | 9 | 7 | 2 | 3 |
+| 61-75' | 6 | 6 | 4 | 7 | 2 | 1 |
+| 76-90' | 3 | 3 | 4 | 3 | 1 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -124,25 +124,25 @@ _Sin bajas comunicadas por ahora._
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Alisson Becker | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| J. Jacquet | D | 12 | 956 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 10 | 7 | 0,6 | 2 | 0 |
 | V. van Dijk | D | 11 | 928 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 6 | 4 | 0,4 | 2 | 0 |
-| J. Jacquet | D | 11 | 911 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 7 | 0,6 | 2 | 0 |
 | F. Wirtz | M | 11 | 849 | 1 | 3 | 17 | 1,5 | 7 | 0,6 | 17 | 10 | 0,9 | 1 | 0 |
-| A. Mac Allister | M | 11 | 742 | 3 | 0 | 15 | 1,4 | 6 | 0,5 | 10 | 8 | 0,7 | 3 | 0 |
-| M. Kerkez | D | 9 | 742 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 13 | 13 | 1,4 | 2 | 0 |
-| R. Araújo | D | 11 | 692 | 2 | 1 | 8 | 0,7 | 3 | 0,3 | 4 | 1 | 0,1 | 2 | 0 |
-| A. Isak | F | 9 | 683 | 6 | 1 | 20 | 2,2 | 9 | 1,0 | 1 | 3 | 0,3 | 1 | 0 |
-| B. Barcola | M | 9 | 574 | 3 | 2 | 15 | 1,7 | 7 | 0,8 | 7 | 3 | 0,3 | 1 | 0 |
-| Dominik Szoboszlai | M | 7 | 563 | 2 | 0 | 11 | 1,6 | 6 | 0,9 | 11 | 3 | 0,4 | 1 | 0 |
-| C. Gakpo | M | 7 | 551 | 1 | 4 | 12 | 1,7 | 4 | 0,6 | 9 | 10 | 1,4 | 0 | 0 |
-| R. Gravenberch | M | 10 | 545 | 0 | 1 | 6 | 0,6 | 3 | 0,3 | 12 | 10 | 1,0 | 2 | 1 |
+| A. Mac Allister | M | 12 | 832 | 4 | 1 | 19 | 1,6 | 7 | 0,6 | 13 | 10 | 0,8 | 3 | 0 |
+| M. Kerkez | D | 10 | 832 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 16 | 14 | 1,4 | 3 | 0 |
+| R. Araújo | D | 12 | 782 | 2 | 1 | 8 | 0,7 | 3 | 0,2 | 5 | 1 | 0,1 | 3 | 0 |
+| A. Isak | F | 10 | 687 | 6 | 1 | 21 | 2,1 | 9 | 0,9 | 1 | 3 | 0,3 | 1 | 0 |
+| C. Gakpo | M | 8 | 641 | 2 | 5 | 13 | 1,6 | 5 | 0,6 | 10 | 13 | 1,6 | 0 | 0 |
+| B. Barcola | M | 10 | 592 | 3 | 2 | 15 | 1,5 | 7 | 0,7 | 7 | 3 | 0,3 | 1 | 0 |
+| Dominik Szoboszlai | M | 8 | 591 | 3 | 0 | 13 | 1,6 | 8 | 1,0 | 12 | 3 | 0,4 | 1 | 0 |
+| R. Gravenberch | M | 11 | 573 | 0 | 1 | 6 | 0,5 | 3 | 0,3 | 12 | 10 | 0,9 | 2 | 1 |
 | Víctor Muñoz | M | 9 | 475 | 2 | 0 | 10 | 1,1 | 6 | 0,7 | 8 | 11 | 1,2 | 1 | 0 |
-| R. Ngumoha | F | 9 | 385 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 5 | 9 | 1,0 | 0 | 0 |
-| Jeremie Frimpong | D | 7 | 321 | 1 | 2 | 2 | 0,3 | 1 | 0,1 | 3 | 2 | 0,3 | 1 | 0 |
-| T. Nyoni | M | 8 | 317 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
-| L. Koumas | F | 9 | 285 | 1 | 1 | 6 | 0,7 | 4 | 0,4 | 5 | 4 | 0,4 | 0 | 0 |
+| R. Ngumoha | F | 10 | 457 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 5 | 10 | 1,0 | 0 | 0 |
+| Jeremie Frimpong | D | 8 | 411 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 6 | 2 | 0,2 | 2 | 0 |
+| T. Nyoni | M | 9 | 379 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
+| L. Koumas | F | 10 | 371 | 1 | 1 | 9 | 0,9 | 5 | 0,5 | 5 | 4 | 0,4 | 0 | 0 |
 | K. Tsimikas | D | 6 | 254 | 0 | 3 | 2 | 0,3 | 1 | 0,2 | 7 | 5 | 0,8 | 0 | 0 |
-| J. Gomez | D | 4 | 57 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| J. McConnell | M | 1 | 9 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| J. Gomez | D | 5 | 102 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| G. Mamardashvili | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Últimos partidos de Arsenal
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -157,62 +157,62 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Arsenal
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Gabriel Magalhães | D | 11 | 990 | 1 | 0 | 9 | 0,8 | 4 | 0,4 | 13 | 10 | 0,9 | 2 | 0 |
+| Gabriel Magalhães | D | 12 | 1035 | 1 | 0 | 9 | 0,8 | 4 | 0,3 | 13 | 10 | 0,8 | 2 | 0 |
 | David Raya | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
 | D. Rice | M | 11 | 944 | 1 | 4 | 8 | 0,7 | 1 | 0,1 | 8 | 4 | 0,4 | 1 | 0 |
-| M. Ødegaard | M | 11 | 851 | 3 | 1 | 12 | 1,1 | 6 | 0,5 | 3 | 11 | 1,0 | 2 | 0 |
-| E. Konsa | D | 10 | 821 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 15 | 1,5 | 1 | 0 |
+| E. Konsa | D | 11 | 866 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 16 | 1,5 | 1 | 0 |
+| M. Ødegaard | M | 12 | 865 | 3 | 1 | 12 | 1,0 | 6 | 0,5 | 4 | 11 | 0,9 | 2 | 0 |
 | B. Saka | F | 10 | 706 | 4 | 1 | 17 | 1,7 | 12 | 1,2 | 5 | 21 | 2,1 | 0 | 0 |
 | R. Calafiori | D | 9 | 702 | 1 | 2 | 9 | 1,0 | 2 | 0,2 | 5 | 1 | 0,1 | 0 | 0 |
 | K. Havertz | F | 11 | 699 | 2 | 1 | 14 | 1,3 | 7 | 0,6 | 11 | 12 | 1,1 | 3 | 0 |
 | B. White | D | 9 | 628 | 0 | 3 | 1 | 0,1 | 1 | 0,1 | 2 | 8 | 0,9 | 0 | 0 |
-| M. Lewis-Skelly | D | 8 | 515 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 16 | 2,0 | 1 | 0 |
-| E. Eze | M | 9 | 441 | 2 | 0 | 11 | 1,2 | 5 | 0,6 | 4 | 14 | 1,6 | 0 | 0 |
-| Bruno Guimarães | M | 9 | 423 | 2 | 0 | 11 | 1,2 | 5 | 0,6 | 4 | 14 | 1,6 | 0 | 0 |
-| N. Madueke | M | 8 | 420 | 1 | 1 | 9 | 1,1 | 2 | 0,2 | 8 | 0 | 0,0 | 1 | 0 |
-| Christos Tzolis | M | 6 | 389 | 0 | 2 | 6 | 1,0 | 4 | 0,7 | 2 | 9 | 1,5 | 2 | 0 |
+| M. Lewis-Skelly | D | 9 | 605 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 18 | 2,0 | 1 | 0 |
+| E. Eze | M | 10 | 517 | 2 | 1 | 12 | 1,2 | 5 | 0,5 | 5 | 15 | 1,5 | 0 | 0 |
+| N. Madueke | M | 9 | 496 | 2 | 1 | 12 | 1,3 | 3 | 0,3 | 8 | 2 | 0,2 | 1 | 0 |
+| Bruno Guimarães | M | 10 | 487 | 2 | 0 | 12 | 1,2 | 5 | 0,5 | 5 | 14 | 1,4 | 0 | 0 |
+| Mikel Merino | M | 12 | 408 | 1 | 0 | 13 | 1,1 | 5 | 0,4 | 12 | 10 | 0,8 | 2 | 0 |
+| Christos Tzolis | M | 7 | 403 | 0 | 2 | 8 | 1,1 | 5 | 0,7 | 2 | 9 | 1,3 | 2 | 0 |
+| V. Gyökeres | F | 9 | 398 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 8 | 3 | 0,3 | 0 | 0 |
 | J. Timber | D | 6 | 324 | 1 | 0 | 2 | 0,3 | 2 | 0,3 | 4 | 4 | 0,7 | 0 | 0 |
-| Mikel Merino | M | 11 | 318 | 0 | 0 | 12 | 1,1 | 4 | 0,4 | 8 | 9 | 0,8 | 2 | 0 |
-| V. Gyökeres | F | 8 | 308 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 8 | 3 | 0,4 | 0 | 0 |
+| Martín Zubimendi | M | 8 | 202 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 | Cristhian Mosquera | D | 2 | 169 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Piero Hincapié | D | 4 | 130 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Martín Zubimendi | M | 7 | 117 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,02 · visitante 1,42 · córners esperados 9,1._
+_Goles esperados: local 1,10 · visitante 1,47 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 46% | 41% | 44% | 2.25 | -2% |
-| 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 27% | 31% | 29% | 3.00 | -13% |
-| Doble oportunidad: X2 | 73% | 69% | 71% | 1.36 | -3% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
+| 1X2: X | 26% | 27% | 27% | 3.40 | -9% |
+| 1X2: 1 | 28% | 31% | 30% | 3.00 | -11% |
+| Doble oportunidad: X2 | 72% | 69% | 71% | 1.36 | -4% |
+| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 54% | 58% | 56% | 1.62 | -9% |
-| Ambos marcan: No | 52% | 42% | 47% | 2.20 | +3% |
-| Ambos marcan: Sí | 48% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
-| Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +3% |
-| Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
-| Goles del local: Más de 0.5 | 64% | 73% | 69% | 1.28 | -12% |
-| Goles del local: Más de 1.5 | 27% | 39% | 33% | 2.38 | -21% |
-| Goles del local: Menos de 0.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
-| Goles del local: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +2% |
-| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -12% |
-| Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
-| Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
-| Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
-| 1X2 descanso: X | 45% | 40% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 22% | 27% | 25% | 3.40 | -16% |
+| Ambos marcan: No | 49% | 42% | 45% | 2.20 | +0% |
+| Ambos marcan: Sí | 51% | 58% | 55% | 1.62 | -12% |
+| Goles más/menos: Más de 1.5 | 73% | 76% | 74% | 1.25 | -7% |
+| Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -10% |
+| Goles más/menos: Más de 3.5 | 26% | 32% | 29% | 3.00 | -13% |
+| Goles más/menos: Menos de 1.5 | 27% | 24% | 26% | 4.00 | +2% |
+| Goles más/menos: Menos de 2.5 | 52% | 47% | 50% | 2.00 | -0% |
+| Goles más/menos: Menos de 3.5 | 74% | 68% | 71% | 1.40 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles del local: Más de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
+| Goles del local: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
+| Goles del local: Menos de 1.5 | 70% | 61% | 65% | 1.53 | +0% |
+| Goles del visitante: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
+| Goles del visitante: Más de 1.5 | 43% | 46% | 45% | 2.00 | -10% |
+| Goles del visitante: Más de 2.5 | 18% | 22% | 20% | 4.33 | -13% |
+| Goles del visitante: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles del visitante: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -5% |
+| Goles del visitante: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
+| 1X2 descanso: 2 | 34% | 32% | 33% | 2.88 | -5% |
+| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
+| 1X2 descanso: 1 | 23% | 27% | 25% | 3.40 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

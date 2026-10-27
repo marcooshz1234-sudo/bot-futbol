@@ -1,7 +1,7 @@
 # Oviedo – Las Palmas
 **Segunda División** · Regular Season - 12 · 02/11/2026 16:15 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -182,39 +182,39 @@ _Sin bajas comunicadas por ahora._
 | Sergio Ruiz | M | 3 | 80 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,05 · visitante 1,10 · córners esperados 10,2._
+_Goles esperados: local 1,97 · visitante 1,11 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 22% | 21% | 4.20 | -13% |
-| 1X2: X | 21% | 26% | 24% | 3.50 | -18% |
-| 1X2: 1 | 59% | 52% | 56% | 1.75 | -2% |
-| Doble oportunidad: X2 | 41% | 49% | 45% | 1.91 | -15% |
-| Doble oportunidad: 12 | 79% | 74% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 80% | 77% | 79% | 1.20 | -5% |
-| Ambos marcan: No | 42% | 50% | 46% | 1.83 | -16% |
-| Ambos marcan: Sí | 58% | 50% | 54% | 1.83 | -1% |
-| Goles más/menos: Más de 1.5 | 82% | 73% | 78% | 1.28 | -1% |
-| Goles más/menos: Más de 2.5 | 61% | 49% | 55% | 1.95 | +7% |
-| Goles más/menos: Más de 3.5 | 39% | 29% | 34% | 3.25 | +10% |
-| Goles más/menos: Menos de 1.5 | 18% | 27% | 22% | 3.50 | -22% |
-| Goles más/menos: Menos de 2.5 | 39% | 51% | 45% | 1.85 | -16% |
-| Goles más/menos: Menos de 3.5 | 61% | 71% | 66% | 1.33 | -12% |
-| Goles del local: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 1.5 | 61% | 50% | 55% | 1.83 | +1% |
-| Goles del local: Más de 2.5 | 34% | 25% | 29% | 3.75 | +10% |
-| Goles del local: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles del local: Menos de 1.5 | 39% | 50% | 45% | 1.83 | -18% |
-| Goles del local: Menos de 2.5 | 66% | 75% | 71% | 1.25 | -12% |
+| 1X2: 2 | 21% | 22% | 21% | 4.20 | -10% |
+| 1X2: X | 22% | 26% | 24% | 3.50 | -16% |
+| 1X2: 1 | 57% | 52% | 55% | 1.75 | -4% |
+| Doble oportunidad: X2 | 43% | 49% | 46% | 1.91 | -13% |
+| Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 79% | 77% | 78% | 1.20 | -6% |
+| Ambos marcan: No | 42% | 50% | 46% | 1.83 | -15% |
+| Ambos marcan: Sí | 58% | 50% | 54% | 1.83 | -2% |
+| Goles más/menos: Más de 1.5 | 81% | 73% | 77% | 1.28 | -1% |
+| Goles más/menos: Más de 2.5 | 59% | 49% | 54% | 1.95 | +5% |
+| Goles más/menos: Más de 3.5 | 37% | 29% | 33% | 3.25 | +7% |
+| Goles más/menos: Menos de 1.5 | 19% | 27% | 23% | 3.50 | -20% |
+| Goles más/menos: Menos de 2.5 | 41% | 51% | 46% | 1.85 | -15% |
+| Goles más/menos: Menos de 3.5 | 63% | 71% | 67% | 1.33 | -11% |
+| Goles del local: Más de 0.5 | 86% | 79% | 83% | 1.18 | -2% |
+| Goles del local: Más de 1.5 | 59% | 50% | 54% | 1.83 | -1% |
+| Goles del local: Más de 2.5 | 31% | 25% | 28% | 3.75 | +6% |
+| Goles del local: Menos de 0.5 | 14% | 21% | 17% | 4.50 | -22% |
+| Goles del local: Menos de 1.5 | 41% | 50% | 46% | 1.83 | -16% |
+| Goles del local: Menos de 2.5 | 69% | 75% | 72% | 1.25 | -10% |
 | Goles del visitante: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -11% |
-| Goles del visitante: Menos de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
+| Goles del visitante: Más de 1.5 | 30% | 27% | 29% | 3.50 | -0% |
+| Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles del visitante: Menos de 1.5 | 70% | 73% | 71% | 1.28 | -9% |
 | Córners más/menos: Más de 9.5 | 51% | 51% | 51% | 1.80 | -8% |
 | Córners más/menos: Menos de 9.5 | 49% | 49% | 49% | 1.91 | -7% |
-| 1X2 descanso: X | 38% | 41% | 39% | 2.25 | -11% |
-| 1X2 descanso: 1 | 44% | 39% | 41% | 2.38 | -2% |
+| 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -10% |
+| 1X2 descanso: 1 | 42% | 39% | 41% | 2.38 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

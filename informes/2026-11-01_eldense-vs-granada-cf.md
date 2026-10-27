@@ -1,7 +1,7 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Ángelo García Hidalgo | M | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 1,38 · córners esperados 9,7._
+_Goles esperados: local 1,20 · visitante 1,38 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

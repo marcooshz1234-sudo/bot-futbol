@@ -1,7 +1,7 @@
 # Newcastle – Everton
 **Premier League** · Regular Season - 9 · 02/11/2026 21:00 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_
@@ -49,53 +49,53 @@ _Actualizadas: 26/10 02:06_
 ## Estadísticas de equipo
 | | Newcastle (total) | Newcastle en casa | Everton (total) | Everton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 8 | 4 |
-| Forma (últimos 5) | VDDVD | DVEE | DDEVE | DEEE |
-| Balance | 3V 2E 3D | 1V 2E 1D | 2V 4E 2D | 0V 3E 1D |
-| Goles a favor / partido | 1,50 | 1,50 | 1,00 | 0,75 |
-| Goles en contra / partido | 1,75 | 1,50 | 1,12 | 1,25 |
-| Goles a favor 1ª parte | 0,50 | 1,00 | 0,25 | 0,00 |
-| Goles a favor 2ª parte | 1,00 | 0,50 | 0,75 | 0,75 |
-| Goles en contra 1ª parte | 0,88 | 0,75 | 0,25 | 0,50 |
-| Goles en contra 2ª parte | 0,88 | 0,75 | 0,88 | 0,75 |
-| Más de 1,5 goles | 88% | 75% | 75% | 75% |
-| Más de 2,5 goles | 62% | 75% | 25% | 25% |
-| Más de 3,5 goles | 50% | 50% | 25% | 25% |
-| Ambos marcan | 62% | 75% | 38% | 50% |
-| Portería a cero | 25% | 0% | 38% | 25% |
-| Se queda sin marcar | 12% | 25% | 38% | 50% |
+| Partidos analizados | 10 | 5 | 10 | 5 |
+| Forma (últimos 5) | VDDVD | DVEVE | DDEVV | DEEEV |
+| Balance | 5V 2E 3D | 2V 2E 1D | 4V 4E 2D | 1V 3E 1D |
+| Goles a favor / partido | 1,60 | 1,80 | 1,30 | 1,40 |
+| Goles en contra / partido | 1,60 | 1,60 | 0,90 | 1,00 |
+| Goles a favor 1ª parte | 0,50 | 1,00 | 0,30 | 0,20 |
+| Goles a favor 2ª parte | 1,10 | 0,80 | 1,00 | 1,20 |
+| Goles en contra 1ª parte | 0,80 | 0,80 | 0,20 | 0,40 |
+| Goles en contra 2ª parte | 0,80 | 0,80 | 0,70 | 0,60 |
+| Más de 1,5 goles | 80% | 80% | 70% | 80% |
+| Más de 2,5 goles | 60% | 80% | 30% | 40% |
+| Más de 3,5 goles | 50% | 60% | 30% | 40% |
+| Ambos marcan | 60% | 80% | 30% | 40% |
+| Portería a cero | 30% | 0% | 50% | 40% |
+| Se queda sin marcar | 10% | 20% | 30% | 40% |
 | xG a favor | 1,16 | 1,20 | 1,25 | 1,29 |
 | xG en contra | 1,75 | 1,89 | 1,45 | 1,51 |
-| Tiros / partido | 12,0 | 12,2 | 13,6 | 12,0 |
-| Tiros a puerta / partido | 3,4 | 3,0 | 4,8 | 5,0 |
-| Tiros recibidos | 17,2 | 20,2 | 14,5 | 15,0 |
-| Tiros a puerta recibidos | 5,1 | 4,8 | 4,2 | 4,0 |
-| Posesión media % | 51 | 50 | 46 | 46 |
-| Córners a favor | 4,5 | 3,5 | 4,9 | 5,5 |
-| Córners en contra | 5,5 | 5,2 | 6,0 | 8,5 |
-| Córners a favor 1ª parte | 2,4 | 2,0 | 2,5 | 3,8 |
-| Córners a favor 2ª parte | 2,1 | 1,5 | 2,4 | 1,8 |
-| Córners totales del partido | 10,0 | 8,8 | 10,9 | 14,0 |
-| Córners totales 1ª parte | 5,0 | 4,8 | 6,1 | 8,8 |
-| Córners totales 2ª parte | 5,0 | 4,0 | 4,8 | 5,2 |
-| Más de 8,5 córners | 62% | 50% | 62% | 100% |
-| Más de 9,5 córners | 50% | 25% | 62% | 100% |
-| Más de 10,5 córners | 38% | 25% | 62% | 100% |
-| Faltas cometidas | 11,9 | 13,2 | 8,1 | 9,8 |
-| Faltas recibidas | 11,4 | 13,2 | 13,0 | 12,8 |
-| Amarillas propias | 2,8 | 3,5 | 1,9 | 1,8 |
-| Amarillas del rival | 2,2 | 3,0 | 2,1 | 1,5 |
+| Tiros / partido | 13,7 | 13,0 | 15,4 | 15,4 |
+| Tiros a puerta / partido | 4,0 | 3,8 | 5,4 | 6,0 |
+| Tiros recibidos | 16,0 | 18,8 | 12,7 | 13,0 |
+| Tiros a puerta recibidos | 4,6 | 4,4 | 3,7 | 3,4 |
+| Posesión media % | 53 | 52 | 50 | 51 |
+| Córners a favor | 5,7 | 4,0 | 5,0 | 5,4 |
+| Córners en contra | 4,7 | 4,6 | 5,3 | 7,4 |
+| Córners a favor 1ª parte | 3,1 | 2,4 | 2,7 | 3,6 |
+| Córners a favor 2ª parte | 2,6 | 1,6 | 2,3 | 1,8 |
+| Córners totales del partido | 10,4 | 8,6 | 10,3 | 12,8 |
+| Córners totales 1ª parte | 5,4 | 4,8 | 5,6 | 7,6 |
+| Córners totales 2ª parte | 5,0 | 3,8 | 4,7 | 5,2 |
+| Más de 8,5 córners | 60% | 40% | 50% | 80% |
+| Más de 9,5 córners | 50% | 20% | 50% | 80% |
+| Más de 10,5 córners | 40% | 20% | 50% | 80% |
+| Faltas cometidas | 12,1 | 13,4 | 8,4 | 9,0 |
+| Faltas recibidas | 11,9 | 13,2 | 12,0 | 10,8 |
+| Amarillas propias | 2,5 | 3,2 | 1,6 | 1,4 |
+| Amarillas del rival | 2,3 | 3,0 | 1,9 | 1,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Newcastle | Recibe Newcastle | Tarjetas Newcastle | Goles Everton | Recibe Everton | Tarjetas Everton |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 2 | 1 | 1 | 1 | 1 |
-| 16-30' | 0 | 0 | 4 | 0 | 0 | 1 |
-| 31-45' | 1 | 5 | 4 | 1 | 1 | 4 |
-| 46-60' | 3 | 3 | 4 | 2 | 3 | 1 |
-| 61-75' | 3 | 1 | 1 | 1 | 2 | 3 |
-| 76-90' | 2 | 3 | 8 | 3 | 2 | 6 |
+| 1-15' | 3 | 2 | 1 | 1 | 1 | 2 |
+| 16-30' | 0 | 1 | 5 | 1 | 0 | 1 |
+| 31-45' | 2 | 5 | 4 | 1 | 1 | 4 |
+| 46-60' | 4 | 3 | 4 | 3 | 3 | 1 |
+| 61-75' | 3 | 1 | 2 | 3 | 2 | 3 |
+| 76-90' | 4 | 4 | 10 | 4 | 2 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -118,31 +118,31 @@ _Sin bajas comunicadas por ahora._
 | 2026-10-12 | Premier League | Coventry 4-1 Newcastle | fuera | 6-2 | 19 (6) - 9 (6) | 1-1 |
 | 2026-09-19 | Premier League | Newcastle 2-1 Hull City | casa | 4-7 | 12 (5) - 22 (4) | 1-4 |
 | 2026-09-14 | Premier League | Leeds 4-1 Newcastle | fuera | 5-5 | 7 (5) - 14 (6) | 2-1 |
-| 2026-09-05 | Premier League | Newcastle 2-2 Bournemouth | casa | 4-3 | 8 (2) - 17 (5) | 2-3 |
+| 2026-09-08 | Carabao Cup | Millwall 0-1 Newcastle | fuera | 15-1 | 25 (6) - 9 (2) | 1-2 |
 
 ## Jugadores de Newcastle
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Horníček | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| L. Hall | D | 8 | 719 | 1 | 1 | 6 | 0,8 | 3 | 0,4 | 6 | 12 | 1,5 | 1 | 0 |
-| H. Barnes | M | 8 | 706 | 2 | 2 | 17 | 2,1 | 6 | 0,8 | 6 | 15 | 1,9 | 0 | 0 |
-| M. Thiaw | D | 8 | 631 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 4 | 0,5 | 1 | 0 |
-| S. Botman | D | 7 | 630 | 1 | 0 | 4 | 0,6 | 3 | 0,4 | 2 | 4 | 0,6 | 2 | 0 |
-| Y. Wissa | F | 8 | 622 | 1 | 1 | 17 | 2,1 | 4 | 0,5 | 13 | 13 | 1,6 | 3 | 0 |
-| L. Miley | D | 7 | 548 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
-| J. Willock | M | 8 | 479 | 2 | 0 | 11 | 1,4 | 3 | 0,4 | 7 | 9 | 1,1 | 0 | 0 |
-| A. Dedić | D | 6 | 454 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 6 | 4 | 0,7 | 0 | 0 |
-| Nico González | M | 6 | 437 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 15 | 4 | 0,7 | 3 | 0 |
-| J. Murphy | M | 7 | 331 | 0 | 1 | 4 | 0,6 | 0 | 0,0 | 4 | 6 | 0,9 | 3 | 0 |
-| M. Fernandez-Pardo | M | 5 | 305 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 4 | 0,8 | 0 | 0 |
-| A. Elanga | F | 4 | 248 | 2 | 0 | 4 | 1,0 | 3 | 0,8 | 3 | 4 | 1,0 | 1 | 0 |
-| Sean Steur | M | 6 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| L. Hall | D | 10 | 899 | 1 | 2 | 9 | 0,9 | 4 | 0,4 | 9 | 17 | 1,7 | 1 | 0 |
+| H. Barnes | M | 10 | 841 | 4 | 2 | 24 | 2,4 | 10 | 1,0 | 6 | 17 | 1,7 | 0 | 0 |
+| L. Horníček | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| S. Botman | D | 9 | 810 | 1 | 0 | 5 | 0,6 | 3 | 0,3 | 3 | 6 | 0,7 | 2 | 0 |
+| M. Thiaw | D | 9 | 721 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 7 | 5 | 0,6 | 1 | 0 |
+| Y. Wissa | F | 10 | 714 | 1 | 1 | 20 | 2,0 | 4 | 0,4 | 13 | 15 | 1,5 | 3 | 0 |
+| J. Willock | M | 10 | 632 | 3 | 0 | 18 | 1,8 | 6 | 0,6 | 8 | 12 | 1,2 | 0 | 0 |
+| A. Dedić | D | 8 | 589 | 0 | 4 | 2 | 0,2 | 0 | 0,0 | 10 | 5 | 0,6 | 0 | 0 |
+| L. Miley | D | 9 | 580 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
+| Nico González | M | 7 | 527 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 18 | 5 | 0,7 | 3 | 0 |
+| J. Murphy | M | 9 | 461 | 0 | 1 | 7 | 0,8 | 0 | 0,0 | 4 | 9 | 1,0 | 3 | 0 |
+| M. Fernandez-Pardo | M | 6 | 329 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 4 | 0,7 | 0 | 0 |
+| A. Elanga | F | 6 | 298 | 2 | 0 | 7 | 1,2 | 5 | 0,8 | 4 | 5 | 0,8 | 1 | 0 |
+| Sean Steur | M | 8 | 296 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+| J. Ramsey | M | 6 | 255 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 10 | 4 | 0,7 | 3 | 0 |
 | Joelinton | M | 3 | 205 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 5 | 2 | 0,7 | 2 | 0 |
+| F. Schär | D | 4 | 205 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
 | W. Osula | F | 4 | 179 | 1 | 1 | 4 | 1,0 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
-| F. Schär | D | 3 | 115 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| B. Touré | F | 5 | 114 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 3 | 1 | 0,2 | 0 | 0 |
-| D. Burn | D | 3 | 92 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
-| J. Ramsey | M | 4 | 82 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 4 | 0 | 0,0 | 1 | 0 |
+| B. Touré | F | 6 | 159 | 2 | 0 | 5 | 0,8 | 4 | 0,7 | 4 | 1 | 0,2 | 0 | 0 |
+| Nick Woltemade | F | 2 | 109 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 1 | 4 | 2,0 | 0 | 0 |
 
 ## Últimos partidos de Everton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -151,68 +151,68 @@ _Sin bajas comunicadas por ahora._
 | 2026-10-17 | Premier League | Everton 0-2 Chelsea | casa | 5-7 | 6 (5) - 18 (7) | 3-4 |
 | 2026-10-11 | Premier League | Hull City 2-2 Everton | fuera | 6-7 | 15 (7) - 9 (5) | 0-2 |
 | 2026-09-19 | Premier League | Everton 1-0 Ipswich | casa | 4-4 | 21 (2) - 13 (4) | 2-3 |
+| 2026-09-16 | Carabao Cup | Everton 1-0 Wolves | casa | 6-2 | 16 (6) - 6 (2) | 1-2 |
 | 2026-09-12 | Premier League | Tottenham 0-0 Everton | fuera | 6-5 | 12 (3) - 14 (2) | 2-0 |
-| 2026-09-06 | Premier League | Everton 2-2 Manchester United | casa | 4-3 | 18 (6) - 14 (3) | 3-3 |
 
 ## Jugadores de Everton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Tarkowski | D | 8 | 720 | 1 | 1 | 4 | 0,5 | 1 | 0,1 | 5 | 15 | 1,9 | 2 | 0 |
-| J. Pickford | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,5 | 0 | 0 |
-| K. Dewsbury-Hall | M | 8 | 714 | 2 | 1 | 12 | 1,5 | 6 | 0,8 | 3 | 15 | 1,9 | 1 | 0 |
-| H. Armstrong | M | 8 | 699 | 0 | 1 | 6 | 0,8 | 2 | 0,2 | 10 | 6 | 0,8 | 3 | 0 |
-| T. Barry | F | 8 | 685 | 3 | 0 | 20 | 2,5 | 12 | 1,5 | 4 | 11 | 1,4 | 0 | 0 |
+| J. Pickford | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
+| K. Dewsbury-Hall | M | 10 | 885 | 2 | 1 | 16 | 1,6 | 8 | 0,8 | 3 | 17 | 1,7 | 1 | 0 |
+| T. Barry | F | 10 | 825 | 6 | 1 | 29 | 2,9 | 19 | 1,9 | 4 | 11 | 1,1 | 0 | 0 |
+| J. Tarkowski | D | 9 | 810 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 5 | 16 | 1,8 | 2 | 0 |
+| V. Mykolenko | D | 9 | 794 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 6 | 10 | 1,1 | 2 | 0 |
+| H. Armstrong | M | 9 | 789 | 0 | 1 | 7 | 0,8 | 2 | 0,2 | 11 | 7 | 0,8 | 3 | 0 |
+| J. Garner | M | 10 | 754 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 9 | 6 | 0,6 | 3 | 0 |
 | Jarrad Branthwaite | D | 7 | 630 | 0 | 0 | 5 | 0,7 | 3 | 0,4 | 4 | 6 | 0,9 | 0 | 0 |
-| V. Mykolenko | D | 7 | 614 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 8 | 1,1 | 2 | 0 |
-| J. Garner | M | 8 | 600 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 8 | 6 | 0,8 | 3 | 0 |
-| Tyrique George | M | 8 | 461 | 1 | 0 | 6 | 0,8 | 2 | 0,2 | 1 | 5 | 0,6 | 0 | 0 |
-| M. Röhl | D | 5 | 431 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 1,0 | 1 | 0 |
-| B. Johnson | M | 8 | 406 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 9 | 2 | 0,2 | 1 | 0 |
-| Ainsley Maitland-Niles | D | 5 | 310 | 1 | 1 | 2 | 0,4 | 1 | 0,2 | 2 | 1 | 0,2 | 0 | 0 |
-| Jack Grealish | M | 5 | 299 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 2 | 8 | 1,6 | 0 | 0 |
-| Iliman Ndiaye | M | 2 | 180 | 0 | 1 | 4 | 2,0 | 3 | 1,5 | 2 | 1 | 0,5 | 0 | 0 |
-| H. Hackney | M | 7 | 173 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 3 | 3 | 0,4 | 0 | 0 |
-| J. O&apos;Brien | D | 4 | 125 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Michael Keane | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| T. Dibling | F | 3 | 52 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 0 | 1 | 0,3 | 0 | 0 |
+| M. Röhl | D | 6 | 521 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 0,8 | 1 | 0 |
+| Tyrique George | M | 10 | 483 | 1 | 0 | 7 | 0,7 | 2 | 0,2 | 1 | 5 | 0,5 | 0 | 0 |
+| B. Johnson | M | 10 | 464 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 10 | 2 | 0,2 | 1 | 0 |
+| Ainsley Maitland-Niles | D | 6 | 400 | 1 | 1 | 2 | 0,3 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
+| Jack Grealish | M | 6 | 376 | 0 | 0 | 5 | 0,8 | 3 | 0,5 | 5 | 12 | 2,0 | 1 | 0 |
+| Michael Keane | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| Iliman Ndiaye | M | 3 | 261 | 0 | 1 | 4 | 1,3 | 3 | 1,0 | 4 | 2 | 0,7 | 0 | 0 |
+| H. Hackney | M | 8 | 250 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 6 | 3 | 0,4 | 0 | 0 |
+| J. O&apos;Brien | D | 5 | 215 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
+| T. Dibling | F | 5 | 206 | 0 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 4 | 0,8 | 0 | 0 |
+| C. Alcaraz | M | 6 | 45 | 1 | 0 | 5 | 0,8 | 2 | 0,3 | 1 | 2 | 0,3 | 1 | 0 |
 | Beto | F | 2 | 31 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| C. Alcaraz | M | 4 | 23 | 0 | 0 | 4 | 1,0 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 1,27 · córners esperados 10,3._
+_Goles esperados: local 1,08 · visitante 1,30 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 31% | 33% | 3.00 | -1% |
-| 1X2: X | 26% | 27% | 26% | 3.50 | -8% |
-| 1X2: 1 | 39% | 42% | 41% | 2.20 | -11% |
-| Doble oportunidad: X2 | 61% | 57% | 59% | 1.67 | -2% |
-| Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 65% | 70% | 67% | 1.36 | -8% |
-| Ambos marcan: No | 47% | 41% | 44% | 2.25 | -1% |
-| Ambos marcan: Sí | 53% | 59% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.22 | -7% |
-| Goles más/menos: Más de 2.5 | 49% | 57% | 53% | 1.67 | -12% |
-| Goles más/menos: Más de 3.5 | 27% | 34% | 31% | 2.75 | -16% |
-| Goles más/menos: Menos de 1.5 | 26% | 22% | 24% | 4.33 | +5% |
-| Goles más/menos: Menos de 2.5 | 51% | 43% | 47% | 2.20 | +4% |
-| Goles más/menos: Menos de 3.5 | 73% | 66% | 69% | 1.44 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
-| Goles del local: Más de 0.5 | 74% | 79% | 77% | 1.18 | -9% |
-| Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
-| Goles del local: Más de 2.5 | 16% | 23% | 19% | 4.00 | -22% |
-| Goles del local: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +5% |
-| Goles del local: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
-| Goles del local: Menos de 2.5 | 84% | 77% | 81% | 1.22 | -2% |
-| Goles del visitante: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles del visitante: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del visitante: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles del visitante: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| 1X2 descanso: 2 | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
-| 1X2 descanso: 1 | 30% | 33% | 31% | 2.75 | -14% |
+| 1X2: 2 | 42% | 31% | 36% | 3.00 | +9% |
+| 1X2: X | 28% | 27% | 27% | 3.50 | -5% |
+| 1X2: 1 | 31% | 42% | 37% | 2.20 | -19% |
+| Doble oportunidad: X2 | 69% | 57% | 63% | 1.67 | +5% |
+| Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -6% |
+| Doble oportunidad: 1X | 58% | 70% | 64% | 1.36 | -13% |
+| Ambos marcan: No | 52% | 41% | 46% | 2.25 | +5% |
+| Ambos marcan: Sí | 48% | 59% | 54% | 1.57 | -16% |
+| Goles más/menos: Más de 1.5 | 69% | 78% | 73% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 43% | 57% | 50% | 1.67 | -17% |
+| Goles más/menos: Más de 3.5 | 22% | 34% | 28% | 2.75 | -23% |
+| Goles más/menos: Menos de 1.5 | 31% | 22% | 27% | 4.33 | +15% |
+| Goles más/menos: Menos de 2.5 ✅ | 57% | 43% | 50% | 2.20 | +11% |
+| Goles más/menos: Menos de 3.5 | 78% | 66% | 72% | 1.44 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 72% | 68% | 1.30 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 28% | 32% | 3.40 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del local: Más de 0.5 | 66% | 79% | 73% | 1.18 | -14% |
+| Goles del local: Más de 1.5 | 29% | 49% | 39% | 1.91 | -26% |
+| Goles del local: Más de 2.5 | 10% | 23% | 16% | 4.00 | -34% |
+| Goles del local: Menos de 0.5 | 34% | 21% | 27% | 4.50 | +23% |
+| Goles del local: Menos de 1.5 ✅ | 71% | 51% | 61% | 1.80 | +10% |
+| Goles del local: Menos de 2.5 | 90% | 77% | 84% | 1.22 | +2% |
+| Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles del visitante: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles del visitante: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -5% |
+| 1X2 descanso: 2 | 30% | 27% | 29% | 3.40 | -3% |
+| 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -2% |
+| 1X2 descanso: 1 | 24% | 33% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

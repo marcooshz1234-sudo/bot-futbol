@@ -1,7 +1,7 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -56,53 +56,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Getafe (total) | Getafe en casa | Sevilla (total) | Sevilla fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 9 | 5 |
-| Forma (últimos 5) | DDEED | DEVEE | DEDVV | DEVEV |
-| Balance | 3V 4E 7D | 3V 3E 1D | 4V 2E 3D | 2V 2E 1D |
-| Goles a favor / partido | 0,86 | 1,43 | 1,56 | 1,80 |
-| Goles en contra / partido | 1,71 | 1,29 | 1,78 | 1,80 |
-| Goles a favor 1ª parte | 0,21 | 0,43 | 0,33 | 0,40 |
-| Goles a favor 2ª parte | 0,64 | 1,00 | 1,22 | 1,40 |
-| Goles en contra 1ª parte | 0,79 | 0,71 | 0,78 | 0,40 |
-| Goles en contra 2ª parte | 0,93 | 0,57 | 1,00 | 1,40 |
-| Más de 1,5 goles | 71% | 71% | 78% | 80% |
-| Más de 2,5 goles | 43% | 29% | 67% | 60% |
-| Más de 3,5 goles | 21% | 29% | 56% | 60% |
-| Ambos marcan | 50% | 71% | 78% | 80% |
-| Portería a cero | 14% | 29% | 22% | 20% |
+| Partidos analizados | 14 | 7 | 10 | 5 |
+| Forma (últimos 5) | DDEED | DEVEE | VDEDV | DEVEV |
+| Balance | 3V 4E 7D | 3V 3E 1D | 5V 2E 3D | 2V 2E 1D |
+| Goles a favor / partido | 0,86 | 1,43 | 1,60 | 1,80 |
+| Goles en contra / partido | 1,71 | 1,29 | 1,60 | 1,80 |
+| Goles a favor 1ª parte | 0,21 | 0,43 | 0,40 | 0,40 |
+| Goles a favor 2ª parte | 0,64 | 1,00 | 1,20 | 1,40 |
+| Goles en contra 1ª parte | 0,79 | 0,71 | 0,70 | 0,40 |
+| Goles en contra 2ª parte | 0,93 | 0,57 | 0,90 | 1,40 |
+| Más de 1,5 goles | 71% | 71% | 80% | 80% |
+| Más de 2,5 goles | 43% | 29% | 60% | 60% |
+| Más de 3,5 goles | 21% | 29% | 50% | 60% |
+| Ambos marcan | 50% | 71% | 70% | 80% |
+| Portería a cero | 14% | 29% | 30% | 20% |
 | Se queda sin marcar | 36% | 0% | 0% | 0% |
-| xG a favor | 0,79 | 1,04 | 1,00 | 0,92 |
-| xG en contra | 1,38 | 1,29 | 1,46 | 1,34 |
-| Tiros / partido | 11,5 | 14,7 | 11,8 | 10,6 |
-| Tiros a puerta / partido | 3,1 | 4,3 | 4,3 | 4,6 |
-| Tiros recibidos | 13,9 | 11,4 | 12,7 | 13,8 |
-| Tiros a puerta recibidos | 4,4 | 3,4 | 5,0 | 6,0 |
-| Posesión media % | 42 | 43 | 41 | 41 |
-| Córners a favor | 4,7 | 5,7 | 3,0 | 3,0 |
-| Córners en contra | 4,9 | 5,7 | 3,4 | 4,0 |
-| Córners a favor 1ª parte | 2,2 | 2,9 | 1,3 | 1,8 |
-| Córners a favor 2ª parte | 2,5 | 2,9 | 1,7 | 1,2 |
-| Córners totales del partido | 9,6 | 11,4 | 6,4 | 7,0 |
-| Córners totales 1ª parte | 4,1 | 5,0 | 3,1 | 3,6 |
-| Córners totales 2ª parte | 5,5 | 6,4 | 3,3 | 3,4 |
-| Más de 8,5 córners | 50% | 71% | 22% | 20% |
-| Más de 9,5 córners | 50% | 71% | 22% | 20% |
-| Más de 10,5 córners | 43% | 57% | 11% | 20% |
-| Faltas cometidas | 13,7 | 12,1 | 14,7 | 15,2 |
-| Faltas recibidas | 13,4 | 13,7 | 13,0 | 12,0 |
-| Amarillas propias | 3,4 | 3,3 | 3,1 | 4,0 |
+| xG a favor | 0,79 | 1,04 | 1,02 | 0,92 |
+| xG en contra | 1,38 | 1,29 | 1,39 | 1,34 |
+| Tiros / partido | 11,5 | 14,7 | 12,3 | 10,6 |
+| Tiros a puerta / partido | 3,1 | 4,3 | 4,6 | 4,6 |
+| Tiros recibidos | 13,9 | 11,4 | 12,4 | 13,8 |
+| Tiros a puerta recibidos | 4,4 | 3,4 | 4,7 | 6,0 |
+| Posesión media % | 42 | 43 | 42 | 41 |
+| Córners a favor | 4,7 | 5,7 | 3,4 | 3,0 |
+| Córners en contra | 4,9 | 5,7 | 3,5 | 4,0 |
+| Córners a favor 1ª parte | 2,2 | 2,9 | 1,5 | 1,8 |
+| Córners a favor 2ª parte | 2,5 | 2,9 | 1,9 | 1,2 |
+| Córners totales del partido | 9,6 | 11,4 | 6,9 | 7,0 |
+| Córners totales 1ª parte | 4,1 | 5,0 | 3,2 | 3,6 |
+| Córners totales 2ª parte | 5,5 | 6,4 | 3,7 | 3,4 |
+| Más de 8,5 córners | 50% | 71% | 30% | 20% |
+| Más de 9,5 córners | 50% | 71% | 30% | 20% |
+| Más de 10,5 córners | 43% | 57% | 20% | 20% |
+| Faltas cometidas | 13,7 | 12,1 | 14,3 | 15,2 |
+| Faltas recibidas | 13,4 | 13,7 | 12,5 | 12,0 |
+| Amarillas propias | 3,4 | 3,3 | 2,9 | 4,0 |
 | Amarillas del rival | 2,5 | 2,4 | 1,9 | 1,8 |
-| Rojas / partido | 0,43 | 0,43 | 0,33 | 0,40 |
+| Rojas / partido | 0,43 | 0,43 | 0,30 | 0,40 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Getafe | Recibe Getafe | Tarjetas Getafe | Goles Sevilla | Recibe Sevilla | Tarjetas Sevilla |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 3 | 2 | 2 | 1 |
-| 16-30' | 1 | 3 | 8 | 1 | 3 | 4 |
+| 16-30' | 1 | 3 | 8 | 2 | 3 | 4 |
 | 31-45' | 0 | 4 | 10 | 0 | 2 | 3 |
-| 46-60' | 1 | 4 | 9 | 5 | 2 | 3 |
+| 46-60' | 1 | 4 | 9 | 5 | 2 | 4 |
 | 61-75' | 3 | 3 | 12 | 1 | 3 | 4 |
-| 76-90' | 5 | 6 | 12 | 5 | 4 | 16 |
+| 76-90' | 5 | 6 | 12 | 6 | 4 | 16 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -154,70 +154,70 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sevilla
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | LaLiga | Sevilla 2-0 Osasuna | casa | 7-4 | 17 (7) - 10 (2) | 1-2 |
 | 2026-10-18 | LaLiga | Real Madrid 4-1 Sevilla | fuera | 2-1 | 11 (5) - 15 (8) | 2-2 |
 | 2026-10-12 | LaLiga | Levante 3-3 Sevilla | fuera | 2-5 | 18 (5) - 20 (8) | 6-2 |
 | 2026-09-19 | LaLiga | Sevilla 1-3 Barcelona | casa | 1-3 | 7 (3) - 24 (7) | 1-0 |
 | 2026-09-16 | LaLiga | Deportivo La Coruna 0-1 Sevilla | fuera | 4-4 | 11 (6) - 4 (3) | 4-1 |
 | 2026-09-11 | LaLiga | Sevilla 1-0 Valencia | casa | 6-4 | 13 (4) - 3 (0) | 1-2 |
-| 2026-09-06 | LaLiga | Espanyol 1-1 Sevilla | fuera | 4-0 | 6 (3) - 12 (3) | 3-2 |
 
 ## Jugadores de Sevilla
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Odysseas Vlachodimos | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Gabriel Suazo | D | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 18 | 11 | 1,2 | 2 | 0 |
-| Lucien Agoumé | M | 9 | 810 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 18 | 6 | 0,7 | 2 | 0 |
-| Juan Iglesias | D | 9 | 792 | 1 | 0 | 6 | 0,7 | 4 | 0,4 | 8 | 13 | 1,4 | 2 | 0 |
-| Andrés Castrin | D | 8 | 660 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
-| Kike Salas | D | 7 | 628 | 0 | 0 | 6 | 0,9 | 2 | 0,3 | 10 | 5 | 0,7 | 1 | 1 |
+| O. Vlachodimos | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| G. Suazo | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 18 | 12 | 1,2 | 2 | 0 |
+| L. Agoumé | M | 10 | 900 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 19 | 6 | 0,6 | 2 | 0 |
+| Juan Iglesias | D | 10 | 882 | 1 | 0 | 7 | 0,7 | 4 | 0,4 | 9 | 15 | 1,5 | 2 | 0 |
+| Andrés Castrín | D | 9 | 750 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 3 | 0,3 | 1 | 0 |
+| Kike Salas | D | 8 | 718 | 0 | 0 | 8 | 1,0 | 4 | 0,5 | 11 | 5 | 0,6 | 1 | 1 |
 | Miguel Sierra | M | 8 | 564 | 2 | 0 | 9 | 1,1 | 5 | 0,6 | 8 | 14 | 1,8 | 2 | 0 |
-| Robbie Ure | F | 9 | 521 | 1 | 2 | 11 | 1,2 | 3 | 0,3 | 10 | 15 | 1,7 | 1 | 0 |
-| Youssouf Fofana | M | 6 | 456 | 1 | 1 | 7 | 1,2 | 5 | 0,8 | 2 | 2 | 0,3 | 0 | 0 |
+| R. Ure | F | 10 | 548 | 1 | 2 | 12 | 1,2 | 3 | 0,3 | 11 | 16 | 1,6 | 1 | 0 |
+| Y. Fofana | M | 7 | 546 | 1 | 3 | 8 | 1,1 | 6 | 0,9 | 2 | 2 | 0,3 | 0 | 0 |
+| Félix Correia | M | 6 | 454 | 2 | 1 | 7 | 1,2 | 3 | 0,5 | 6 | 4 | 0,7 | 1 | 0 |
 | Jon Guridi | M | 8 | 377 | 1 | 0 | 4 | 0,5 | 3 | 0,4 | 7 | 2 | 0,2 | 3 | 0 |
-| Félix Correia | M | 5 | 368 | 1 | 1 | 4 | 0,8 | 2 | 0,4 | 5 | 3 | 0,6 | 1 | 0 |
+| C. Ejuke | M | 8 | 326 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 3 | 5 | 0,6 | 1 | 0 |
+| Isaac | F | 8 | 310 | 3 | 1 | 8 | 1,0 | 3 | 0,4 | 11 | 5 | 0,6 | 7 | 1 |
+| L. Stassin | F | 5 | 292 | 1 | 1 | 7 | 1,4 | 4 | 0,8 | 2 | 3 | 0,6 | 0 | 0 |
 | Arouna Sangante | D | 4 | 282 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,2 | 0 | 1 |
 | Giorgi Kochorashvili | M | 6 | 273 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
-| Chidera Ejuke | F | 7 | 255 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 4 | 0,6 | 1 | 0 |
-| Isaac Romero | F | 7 | 239 | 2 | 1 | 6 | 0,9 | 2 | 0,3 | 9 | 4 | 0,6 | 6 | 1 |
-| Lucas Stassin | F | 4 | 229 | 1 | 1 | 6 | 1,5 | 4 | 1,0 | 2 | 3 | 0,8 | 0 | 0 |
 | Peque Fernández | M | 4 | 214 | 1 | 0 | 3 | 0,8 | 3 | 0,8 | 7 | 9 | 2,2 | 1 | 0 |
 | Oso | M | 2 | 156 | 1 | 1 | 3 | 1,5 | 1 | 0,5 | 1 | 2 | 1,0 | 0 | 0 |
 | Julio Díaz | D | 5 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
 | Nico Guillén | M | 2 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 1,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,15 · córners esperados 8,6._
+_Goles esperados: local 0,88 · visitante 1,14 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 37% | 39% | 2.50 | -4% |
-| 1X2: X | 30% | 31% | 30% | 3.00 | -9% |
-| 1X2: 1 | 30% | 32% | 31% | 2.90 | -10% |
-| Doble oportunidad: X2 | 70% | 68% | 69% | 1.40 | -4% |
+| 1X2: 2 | 42% | 37% | 39% | 2.50 | -2% |
+| 1X2: X | 30% | 31% | 31% | 3.00 | -8% |
+| 1X2: 1 | 28% | 32% | 30% | 2.90 | -13% |
+| Doble oportunidad: X2 | 72% | 68% | 70% | 1.40 | -2% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 60% | 63% | 62% | 1.50 | -8% |
-| Ambos marcan: No | 58% | 58% | 58% | 1.62 | -6% |
-| Ambos marcan: Sí | 42% | 42% | 42% | 2.20 | -7% |
-| Goles más/menos: Más de 1.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
-| Goles más/menos: Menos de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 59% | 59% | 1.57 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 41% | 41% | 2.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del local: Más de 0.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 1.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del local: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles del local: Menos de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 58% | 63% | 61% | 1.50 | -9% |
+| Ambos marcan: No | 60% | 58% | 59% | 1.62 | -5% |
+| Ambos marcan: Sí | 40% | 42% | 41% | 2.20 | -9% |
+| Goles más/menos: Más de 1.5 | 60% | 62% | 61% | 1.53 | -7% |
+| Goles más/menos: Más de 2.5 | 33% | 34% | 34% | 2.75 | -7% |
+| Goles más/menos: Menos de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles más/menos: Menos de 2.5 | 67% | 66% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 0.5 | 59% | 62% | 61% | 1.50 | -9% |
+| Goles del local: Más de 1.5 | 22% | 27% | 24% | 3.50 | -14% |
+| Goles del local: Menos de 0.5 | 41% | 38% | 39% | 2.50 | -1% |
+| Goles del local: Menos de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles del visitante: Más de 1.5 | 32% | 31% | 31% | 3.00 | -6% |
 | Goles del visitante: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
-| Córners más/menos: Más de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Córners más/menos: Menos de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
-| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
-| 1X2 descanso: X | 49% | 48% | 49% | 1.91 | -7% |
-| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -11% |
+| Goles del visitante: Menos de 1.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Córners más/menos: Más de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
+| Córners más/menos: Menos de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
+| 1X2 descanso: 2 | 29% | 27% | 28% | 3.40 | -4% |
+| 1X2 descanso: X | 50% | 48% | 49% | 1.91 | -6% |
+| 1X2 descanso: 1 | 21% | 25% | 23% | 3.75 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

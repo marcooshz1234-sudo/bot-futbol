@@ -1,7 +1,7 @@
 # Mallorca – Cadiz
 **Segunda División** · Regular Season - 12 · 02/11/2026 21:00 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -186,36 +186,36 @@ _Sin bajas comunicadas por ahora._
 | Beñat de Jesús | D | 3 | 162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 0,77 · córners esperados 9,8._
+_Goles esperados: local 1,27 · visitante 0,79 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 13% | 18% | 7.00 | +23% |
-| 1X2: X | 29% | 23% | 26% | 4.00 | +3% |
-| 1X2: 1 | 49% | 64% | 57% | 1.44 | -18% |
+| 1X2: 2 | 23% | 13% | 18% | 7.00 | +27% |
+| 1X2: X | 29% | 23% | 26% | 4.00 | +4% |
+| 1X2: 1 | 48% | 64% | 56% | 1.44 | -20% |
 | Ambos marcan: No | 61% | 54% | 57% | 1.73 | -1% |
 | Ambos marcan: Sí | 39% | 46% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 1.5 | 62% | 77% | 69% | 1.22 | -16% |
-| Goles más/menos: Más de 2.5 | 35% | 55% | 45% | 1.73 | -23% |
-| Goles más/menos: Más de 3.5 | 16% | 34% | 25% | 2.75 | -32% |
-| Goles más/menos: Menos de 1.5 | 38% | 23% | 31% | 4.00 | +23% |
-| Goles más/menos: Menos de 2.5 | 65% | 45% | 55% | 2.08 | +15% |
-| Goles más/menos: Menos de 3.5 | 84% | 66% | 75% | 1.40 | +5% |
+| Goles más/menos: Más de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
+| Goles más/menos: Más de 2.5 | 34% | 55% | 44% | 1.73 | -24% |
+| Goles más/menos: Más de 3.5 | 15% | 34% | 25% | 2.75 | -33% |
+| Goles más/menos: Menos de 1.5 | 39% | 23% | 31% | 4.00 | +25% |
+| Goles más/menos: Menos de 2.5 | 66% | 45% | 56% | 2.08 | +16% |
+| Goles más/menos: Menos de 3.5 | 85% | 66% | 75% | 1.40 | +6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 59% | 69% | 64% | 1.36 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 34% | 28% | 2.75 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 31% | 36% | 3.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Goles del local: Más de 1.5 | 38% | 62% | 50% | 1.50 | -25% |
-| Goles del local: Más de 2.5 | 15% | 35% | 25% | 2.62 | -34% |
-| Goles del local: Menos de 1.5 | 62% | 38% | 50% | 2.50 | +25% |
-| Goles del local: Menos de 2.5 | 85% | 65% | 75% | 1.44 | +8% |
-| Goles del visitante: Más de 0.5 | 54% | 51% | 53% | 1.80 | -5% |
-| Goles del visitante: Menos de 0.5 | 46% | 49% | 47% | 1.91 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 66% | 72% | 1.40 | +1% |
+| Goles del local: Más de 1.5 | 36% | 62% | 49% | 1.50 | -26% |
+| Goles del local: Más de 2.5 | 14% | 35% | 25% | 2.62 | -36% |
+| Goles del local: Menos de 1.5 | 64% | 38% | 51% | 2.50 | +27% |
+| Goles del local: Menos de 2.5 | 86% | 65% | 75% | 1.44 | +9% |
+| Goles del visitante: Más de 0.5 | 55% | 51% | 53% | 1.80 | -5% |
+| Goles del visitante: Menos de 0.5 | 45% | 49% | 47% | 1.91 | -10% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -6% |
 | 1X2 descanso: X | 49% | 40% | 44% | 2.30 | +2% |
-| 1X2 descanso: 1 | 34% | 47% | 40% | 1.95 | -21% |
+| 1X2 descanso: 1 | 33% | 47% | 40% | 1.95 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

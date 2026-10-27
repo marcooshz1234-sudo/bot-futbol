@@ -1,7 +1,7 @@
 # Sheffield Utd – Wrexham
 **Championship** · Regular Season - 13 · 30/10/2026 21:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:05_
@@ -58,53 +58,53 @@ _Actualizadas: 26/10 02:05_
 ## Estadísticas de equipo
 | | Sheffield Utd (total) | Sheffield Utd en casa | Wrexham (total) | Wrexham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 15 | 6 | 13 | 7 |
 | Forma (últimos 5) | EVDVD | EVDDV | DVDEV | DEDEV |
-| Balance | 4V 4E 4D | 2V 2E 2D | 3V 5E 4D | 1V 3E 2D |
-| Goles a favor / partido | 1,33 | 1,33 | 1,25 | 0,83 |
-| Goles en contra / partido | 1,25 | 1,17 | 1,50 | 1,67 |
-| Goles a favor 1ª parte | 0,67 | 0,50 | 0,50 | 0,33 |
-| Goles a favor 2ª parte | 0,67 | 0,83 | 0,75 | 0,50 |
-| Goles en contra 1ª parte | 0,67 | 0,67 | 0,67 | 0,67 |
-| Goles en contra 2ª parte | 0,58 | 0,50 | 0,83 | 1,00 |
-| Más de 1,5 goles | 67% | 67% | 92% | 83% |
-| Más de 2,5 goles | 58% | 50% | 50% | 33% |
-| Más de 3,5 goles | 33% | 33% | 17% | 17% |
-| Ambos marcan | 58% | 50% | 67% | 33% |
-| Portería a cero | 33% | 33% | 17% | 33% |
-| Se queda sin marcar | 25% | 33% | 25% | 50% |
+| Balance | 6V 4E 5D | 2V 2E 2D | 3V 5E 5D | 1V 3E 3D |
+| Goles a favor / partido | 1,40 | 1,33 | 1,15 | 0,71 |
+| Goles en contra / partido | 1,13 | 1,17 | 1,46 | 1,57 |
+| Goles a favor 1ª parte | 0,67 | 0,50 | 0,46 | 0,29 |
+| Goles a favor 2ª parte | 0,73 | 0,83 | 0,69 | 0,43 |
+| Goles en contra 1ª parte | 0,53 | 0,67 | 0,62 | 0,57 |
+| Goles en contra 2ª parte | 0,60 | 0,50 | 0,85 | 1,00 |
+| Más de 1,5 goles | 67% | 67% | 85% | 71% |
+| Más de 2,5 goles | 60% | 50% | 46% | 29% |
+| Más de 3,5 goles | 27% | 33% | 15% | 14% |
+| Ambos marcan | 53% | 50% | 62% | 29% |
+| Portería a cero | 33% | 33% | 15% | 29% |
+| Se queda sin marcar | 27% | 33% | 31% | 57% |
 | xG a favor | 1,16 | 1,19 | 1,18 | 1,10 |
 | xG en contra | 1,46 | 1,64 | 1,22 | 1,17 |
-| Tiros / partido | 10,7 | 11,3 | 12,3 | 13,2 |
-| Tiros a puerta / partido | 3,8 | 4,5 | 3,4 | 2,7 |
-| Tiros recibidos | 15,4 | 14,3 | 11,8 | 10,7 |
-| Tiros a puerta recibidos | 4,5 | 4,3 | 4,1 | 4,0 |
-| Posesión media % | 43 | 50 | 50 | 48 |
-| Córners a favor | 3,6 | 3,8 | 5,5 | 6,0 |
-| Córners en contra | 6,8 | 5,8 | 4,2 | 4,3 |
-| Córners a favor 1ª parte | 1,5 | 1,5 | 2,8 | 3,0 |
+| Tiros / partido | 11,6 | 11,3 | 12,2 | 12,9 |
+| Tiros a puerta / partido | 3,9 | 4,5 | 3,3 | 2,6 |
+| Tiros recibidos | 14,1 | 14,3 | 11,9 | 11,0 |
+| Tiros a puerta recibidos | 4,4 | 4,3 | 4,0 | 3,9 |
+| Posesión media % | 46 | 50 | 50 | 49 |
+| Córners a favor | 3,7 | 3,8 | 5,3 | 5,6 |
+| Córners en contra | 6,5 | 5,8 | 4,5 | 4,7 |
+| Córners a favor 1ª parte | 1,5 | 1,5 | 2,5 | 2,6 |
 | Córners a favor 2ª parte | 2,1 | 2,3 | 2,8 | 3,0 |
-| Córners totales del partido | 10,4 | 9,7 | 9,8 | 10,3 |
-| Córners totales 1ª parte | 5,0 | 5,0 | 4,8 | 5,0 |
-| Córners totales 2ª parte | 5,4 | 4,7 | 5,0 | 5,3 |
-| Más de 8,5 córners | 83% | 83% | 67% | 67% |
-| Más de 9,5 córners | 58% | 67% | 42% | 33% |
-| Más de 10,5 córners | 33% | 33% | 25% | 33% |
-| Faltas cometidas | 11,2 | 11,3 | 10,6 | 10,7 |
-| Faltas recibidas | 13,1 | 14,5 | 11,1 | 10,2 |
-| Amarillas propias | 1,8 | 1,7 | 1,3 | 1,2 |
-| Amarillas del rival | 2,0 | 1,8 | 2,2 | 2,2 |
-| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
+| Córners totales del partido | 10,1 | 9,7 | 9,8 | 10,3 |
+| Córners totales 1ª parte | 5,0 | 5,0 | 4,7 | 4,9 |
+| Córners totales 2ª parte | 5,1 | 4,7 | 5,1 | 5,4 |
+| Más de 8,5 córners | 80% | 83% | 69% | 71% |
+| Más de 9,5 córners | 53% | 67% | 46% | 43% |
+| Más de 10,5 córners | 27% | 33% | 23% | 29% |
+| Faltas cometidas | 11,1 | 11,3 | 10,6 | 10,7 |
+| Faltas recibidas | 13,1 | 14,5 | 11,0 | 10,1 |
+| Amarillas propias | 1,6 | 1,7 | 1,5 | 1,6 |
+| Amarillas del rival | 1,9 | 1,8 | 2,2 | 2,0 |
+| Rojas / partido | 0,07 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sheffield Utd | Recibe Sheffield Utd | Tarjetas Sheffield Utd | Goles Wrexham | Recibe Wrexham | Tarjetas Wrexham |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 3 | 4 | 1 | 3 | 1 |
-| 16-30' | 1 | 1 | 1 | 2 | 2 | 3 |
-| 31-45' | 3 | 4 | 4 | 3 | 3 | 3 |
-| 46-60' | 3 | 1 | 5 | 4 | 2 | 1 |
-| 61-75' | 2 | 2 | 8 | 3 | 2 | 2 |
-| 76-90' | 3 | 4 | 2 | 2 | 6 | 6 |
+| 1-15' | 5 | 3 | 4 | 1 | 3 | 1 |
+| 16-30' | 2 | 1 | 1 | 2 | 2 | 3 |
+| 31-45' | 3 | 4 | 5 | 3 | 3 | 4 |
+| 46-60' | 3 | 3 | 5 | 4 | 2 | 2 |
+| 61-75' | 3 | 2 | 8 | 3 | 3 | 2 |
+| 76-90' | 5 | 4 | 3 | 2 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -126,31 +126,31 @@ _Sin bajas comunicadas por ahora._
 | 2026-10-14 | Championship | Portsmouth 3-2 Sheffield Utd | fuera | 6-10 | 11 (4) - 24 (6) | 1-3 |
 | 2026-10-10 | Championship | Sheffield Utd 3-0 Lincoln | casa | 2-2 | 10 (5) - 12 (3) | 4-3 |
 | 2026-09-19 | Championship | Stoke City 2-1 Sheffield Utd | fuera | 1-8 | 8 (3) - 12 (5) | 4-4 |
-| 2026-09-13 | Championship | Sheffield Utd 0-1 Wolves | casa | 0-9 | 6 (2) - 16 (3) | 2-1 |
+| 2026-09-16 | Carabao Cup | Fleetwood Town 1-0 Sheffield Utd | fuera | 5-4 | 10 (4) - 11 (5) | 1-2 |
 
 ## Jugadores de Sheffield Utd
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Cooper | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| J. Tanganga | D | 12 | 1080 | 2 | 0 | 10 | 0,8 | 5 | 0,4 | 8 | 12 | 1,0 | 4 | 0 |
-| Sydie Peck | M | 12 | 917 | 1 | 2 | 14 | 1,2 | 6 | 0,5 | 14 | 15 | 1,2 | 3 | 0 |
-| P. Bamford | F | 11 | 787 | 5 | 1 | 12 | 1,1 | 7 | 0,6 | 12 | 10 | 0,9 | 1 | 0 |
-| Sam McCallum | D | 10 | 751 | 0 | 2 | 6 | 0,6 | 2 | 0,2 | 8 | 24 | 2,4 | 3 | 0 |
+| M. Cooper | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| J. Tanganga | D | 14 | 1260 | 2 | 0 | 10 | 0,7 | 5 | 0,4 | 8 | 14 | 1,0 | 4 | 0 |
+| Sydie Peck | M | 14 | 1029 | 1 | 3 | 15 | 1,1 | 7 | 0,5 | 17 | 17 | 1,2 | 3 | 0 |
+| T. Cannon | M | 14 | 932 | 4 | 0 | 23 | 1,6 | 11 | 0,8 | 12 | 6 | 0,4 | 0 | 0 |
+| P. Bamford | F | 13 | 864 | 6 | 1 | 16 | 1,2 | 8 | 0,6 | 12 | 10 | 0,8 | 1 | 0 |
+| Mark McGuinness | D | 11 | 861 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 9 | 9 | 0,8 | 1 | 0 |
+| Sam McCallum | D | 11 | 766 | 0 | 2 | 6 | 0,5 | 2 | 0,2 | 8 | 24 | 2,2 | 3 | 0 |
 | L. Kitching | D | 8 | 720 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 10 | 0 | 0,0 | 4 | 0 |
-| B. Brereton | M | 10 | 669 | 0 | 1 | 6 | 0,6 | 3 | 0,3 | 10 | 12 | 1,2 | 0 | 0 |
-| T. Cannon | M | 11 | 662 | 3 | 0 | 16 | 1,5 | 8 | 0,7 | 8 | 3 | 0,3 | 0 | 0 |
-| Mark McGuinness | D | 8 | 591 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 7 | 0,9 | 1 | 0 |
+| B. Brereton | M | 11 | 701 | 0 | 1 | 7 | 0,6 | 4 | 0,4 | 10 | 13 | 1,2 | 0 | 0 |
+| R. Donovan | M | 13 | 645 | 2 | 1 | 12 | 0,9 | 7 | 0,5 | 11 | 19 | 1,5 | 1 | 0 |
+| O. Arblaster | M | 13 | 637 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 3 | 11 | 0,8 | 1 | 0 |
+| J. Rothwell | M | 10 | 592 | 0 | 3 | 8 | 0,8 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 | H. Choudhury | D | 8 | 573 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 2 | 0,2 | 0 | 1 |
-| K. Phillips | M | 9 | 530 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 10 | 12 | 1,3 | 1 | 0 |
-| O. Arblaster | M | 10 | 489 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 3 | 9 | 0,9 | 1 | 0 |
-| J. Rothwell | M | 7 | 409 | 0 | 2 | 2 | 0,3 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| R. Donovan | M | 10 | 404 | 1 | 1 | 7 | 0,7 | 4 | 0,4 | 8 | 9 | 0,9 | 1 | 0 |
-| T. Chong | M | 6 | 356 | 1 | 1 | 4 | 0,7 | 2 | 0,3 | 4 | 10 | 1,7 | 0 | 0 |
-| H. Burrows | D | 4 | 282 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 5 | 1,2 | 1 | 0 |
-| Callum O'Hare | M | 3 | 270 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 0 | 9 | 3,0 | 0 | 0 |
-| Rhys Norrington-Davies | M | 7 | 248 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
-| T. Campbell | F | 8 | 235 | 0 | 1 | 4 | 0,5 | 3 | 0,4 | 5 | 0 | 0,0 | 0 | 0 |
-| F. Seriki | D | 3 | 213 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 7 | 2,3 | 0 | 0 |
+| K. Phillips | M | 10 | 562 | 1 | 2 | 5 | 0,5 | 2 | 0,2 | 11 | 12 | 1,2 | 1 | 0 |
+| Rhys Norrington-Davies | M | 10 | 458 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 3 | 0,3 | 3 | 0 |
+| Callum O'Hare | M | 5 | 391 | 2 | 0 | 3 | 0,6 | 2 | 0,4 | 1 | 15 | 3,0 | 0 | 0 |
+| T. Chong | M | 7 | 385 | 1 | 1 | 4 | 0,6 | 2 | 0,3 | 4 | 10 | 1,4 | 0 | 0 |
+| T. Campbell | F | 10 | 383 | 0 | 1 | 7 | 0,7 | 3 | 0,3 | 11 | 0 | 0,0 | 0 | 0 |
+| H. Burrows | D | 5 | 327 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 3 | 6 | 1,2 | 1 | 0 |
+| F. Seriki | D | 5 | 320 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 10 | 2,0 | 1 | 0 |
 
 ## Últimos partidos de Wrexham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -165,64 +165,64 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Wrexham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| D. Hyam | D | 13 | 1091 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 11 | 0,8 | 5 | 0 |
+| C. Doyle | D | 12 | 1080 | 1 | 1 | 14 | 1,2 | 6 | 0,5 | 8 | 8 | 0,7 | 2 | 0 |
 | A. Patterson | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| D. Hyam | D | 12 | 1001 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 13 | 10 | 0,8 | 4 | 0 |
-| C. Doyle | D | 11 | 990 | 1 | 1 | 13 | 1,2 | 5 | 0,5 | 6 | 8 | 0,7 | 1 | 0 |
-| B. Whiteman | M | 12 | 987 | 1 | 2 | 5 | 0,4 | 1 | 0,1 | 13 | 2 | 0,2 | 3 | 0 |
-| K. Moore | F | 12 | 800 | 5 | 1 | 28 | 2,3 | 13 | 1,1 | 11 | 24 | 2,0 | 2 | 0 |
+| B. Whiteman | M | 13 | 1005 | 1 | 2 | 5 | 0,4 | 1 | 0,1 | 13 | 2 | 0,2 | 3 | 0 |
+| K. Moore | F | 13 | 818 | 5 | 1 | 28 | 2,2 | 13 | 1,0 | 11 | 24 | 1,8 | 2 | 0 |
 | J. Ekomié | M | 10 | 781 | 2 | 0 | 5 | 0,5 | 3 | 0,3 | 11 | 14 | 1,4 | 0 | 0 |
-| Zak Vyner | D | 8 | 683 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 2 | 0,2 | 1 | 0 |
+| Zak Vyner | D | 9 | 773 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 2 | 0,2 | 1 | 0 |
+| L. O&apos;Brien | M | 12 | 688 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 14 | 12 | 1,0 | 1 | 0 |
 | C. O&apos;Hare | M | 8 | 654 | 0 | 0 | 19 | 2,4 | 4 | 0,5 | 6 | 15 | 1,9 | 0 | 0 |
-| L. O&apos;Brien | M | 11 | 598 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 11 | 10 | 0,9 | 0 | 0 |
+| M. James | M | 10 | 622 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 2 | 5 | 0,5 | 1 | 0 |
+| O. Rathbone | M | 11 | 577 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 10 | 6 | 0,5 | 1 | 0 |
+| Daniel Edward Peter Imray | D | 11 | 568 | 1 | 3 | 8 | 0,7 | 3 | 0,3 | 6 | 4 | 0,4 | 0 | 0 |
+| S. Smith | M | 13 | 557 | 1 | 0 | 13 | 1,0 | 5 | 0,4 | 9 | 13 | 1,0 | 1 | 0 |
 | I. Kaboré | M | 10 | 550 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 7 | 11 | 1,1 | 1 | 0 |
-| M. James | M | 9 | 550 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 2 | 5 | 0,6 | 1 | 0 |
-| O. Rathbone | M | 10 | 505 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 10 | 6 | 0,6 | 1 | 0 |
-| Daniel Edward Peter Imray | D | 10 | 503 | 1 | 3 | 7 | 0,7 | 3 | 0,3 | 5 | 3 | 0,3 | 0 | 0 |
-| S. Smith | M | 12 | 485 | 1 | 0 | 11 | 0,9 | 4 | 0,3 | 6 | 10 | 0,8 | 0 | 0 |
 | J. Worrall | D | 4 | 337 | 1 | 0 | 3 | 0,8 | 1 | 0,2 | 2 | 1 | 0,2 | 0 | 0 |
+| Nathan Broadhead | F | 4 | 296 | 0 | 0 | 5 | 1,2 | 1 | 0,2 | 3 | 3 | 0,8 | 1 | 0 |
+| George Thomason | M | 3 | 269 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 3 | 2 | 0,7 | 0 | 0 |
 | Josh Windass | F | 6 | 260 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
-| Nathan Broadhead | F | 3 | 220 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 3 | 2 | 0,7 | 1 | 0 |
 | G. Dobson | M | 6 | 217 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 3 | 2 | 0,3 | 0 | 0 |
 | Max Cleworth | D | 4 | 211 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| George Thomason | M | 2 | 179 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 3 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,03 · córners esperados 9,5._
+_Goles esperados: local 1,20 · visitante 0,90 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 35% | 33% | 2.62 | -14% |
-| 1X2: X | 28% | 28% | 28% | 3.30 | -7% |
-| 1X2: 1 | 41% | 37% | 39% | 2.45 | -4% |
-| Doble oportunidad: X2 | 59% | 62% | 61% | 1.53 | -7% |
-| Doble oportunidad: 12 | 72% | 72% | 72% | 1.33 | -5% |
-| Doble oportunidad: 1X | 69% | 66% | 68% | 1.44 | -3% |
-| Ambos marcan: No | 54% | 46% | 50% | 2.00 | +1% |
-| Ambos marcan: Sí | 46% | 54% | 50% | 1.73 | -14% |
-| Goles más/menos: Más de 1.5 | 66% | 75% | 70% | 1.28 | -10% |
-| Goles más/menos: Más de 2.5 | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Más de 3.5 | 19% | 28% | 24% | 3.40 | -19% |
-| Goles más/menos: Menos de 1.5 | 34% | 25% | 30% | 3.75 | +11% |
-| Goles más/menos: Menos de 2.5 | 60% | 50% | 55% | 1.91 | +5% |
-| Goles más/menos: Menos de 3.5 | 81% | 72% | 76% | 1.33 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles del local: Más de 1.5 | 35% | 41% | 38% | 2.25 | -14% |
-| Goles del local: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles del local: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del visitante: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles del visitante: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles del visitante: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +8% |
-| Goles del visitante: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Córners más/menos: Más de 10.5 | 37% | 49% | 43% | 1.91 | -18% |
+| 1X2: 2 | 28% | 35% | 31% | 2.62 | -18% |
+| 1X2: X | 29% | 28% | 29% | 3.30 | -6% |
+| 1X2: 1 | 43% | 37% | 40% | 2.45 | -2% |
+| Doble oportunidad: X2 | 57% | 62% | 60% | 1.53 | -9% |
+| Doble oportunidad: 12 | 71% | 72% | 71% | 1.33 | -5% |
+| Doble oportunidad: 1X | 72% | 66% | 69% | 1.44 | -0% |
+| Ambos marcan: No | 58% | 46% | 52% | 2.00 | +5% |
+| Ambos marcan: Sí | 42% | 54% | 48% | 1.73 | -18% |
+| Goles más/menos: Más de 1.5 | 62% | 75% | 68% | 1.28 | -13% |
+| Goles más/menos: Más de 2.5 | 35% | 50% | 43% | 1.91 | -19% |
+| Goles más/menos: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
+| Goles más/menos: Menos de 1.5 | 38% | 25% | 32% | 3.75 | +19% |
+| Goles más/menos: Menos de 2.5 | 65% | 50% | 57% | 1.91 | +10% |
+| Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.33 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 36% | 3.00 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
+| Goles del local: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
+| Goles del local: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
+| Goles del local: Menos de 0.5 | 30% | 27% | 28% | 3.50 | -0% |
+| Goles del local: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
+| Goles del visitante: Más de 0.5 | 59% | 72% | 66% | 1.30 | -14% |
+| Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -25% |
+| Goles del visitante: Menos de 0.5 | 41% | 28% | 34% | 3.40 | +16% |
+| Goles del visitante: Menos de 1.5 | 77% | 62% | 70% | 1.50 | +5% |
+| Córners más/menos: Más de 10.5 | 37% | 49% | 43% | 1.91 | -19% |
 | Córners más/menos: Menos de 10.5 | 63% | 51% | 57% | 1.80 | +3% |
-| 1X2 descanso: 2 | 24% | 28% | 26% | 3.25 | -16% |
-| 1X2 descanso: X | 47% | 42% | 44% | 2.20 | -2% |
-| 1X2 descanso: 1 | 29% | 30% | 30% | 3.10 | -8% |
+| 1X2 descanso: 2 | 21% | 28% | 25% | 3.25 | -20% |
+| 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
+| 1X2 descanso: 1 | 30% | 30% | 30% | 3.10 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

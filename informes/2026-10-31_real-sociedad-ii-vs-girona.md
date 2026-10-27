@@ -1,7 +1,7 @@
 # Real Sociedad II – Girona
 **Segunda División** · Regular Season - 12 · 31/10/2026 14:00 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Mateu Morey | D | 3 | 139 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 2,11 · córners esperados 9,4._
+_Goles esperados: local 1,28 · visitante 2,11 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

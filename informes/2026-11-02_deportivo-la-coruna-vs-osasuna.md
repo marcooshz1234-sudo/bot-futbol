@@ -1,7 +1,7 @@
 # Deportivo La Coruna – Osasuna
 **LaLiga** · Regular Season - 11 · 02/11/2026 21:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_
@@ -56,53 +56,53 @@ _Actualizadas: 26/10 02:06_
 ## Estadísticas de equipo
 | | Deportivo La Coruna (total) | Deportivo La Coruna en casa | Osasuna (total) | Osasuna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 9 | 4 |
-| Forma (últimos 5) | DEDED | EEDVE | VDEDD | DDDV |
-| Balance | 2V 5E 3D | 1V 3E 1D | 3V 2E 4D | 1V 0E 3D |
-| Goles a favor / partido | 1,30 | 1,20 | 1,11 | 1,50 |
-| Goles en contra / partido | 1,30 | 1,00 | 2,00 | 3,75 |
-| Goles a favor 1ª parte | 0,50 | 0,60 | 0,33 | 0,00 |
-| Goles a favor 2ª parte | 0,80 | 0,60 | 0,78 | 1,50 |
-| Goles en contra 1ª parte | 0,60 | 0,40 | 0,89 | 1,50 |
-| Goles en contra 2ª parte | 0,70 | 0,60 | 1,11 | 2,25 |
-| Más de 1,5 goles | 80% | 80% | 78% | 100% |
-| Más de 2,5 goles | 30% | 20% | 44% | 100% |
-| Más de 3,5 goles | 30% | 20% | 33% | 75% |
-| Ambos marcan | 80% | 80% | 44% | 75% |
-| Portería a cero | 0% | 0% | 33% | 0% |
-| Se queda sin marcar | 20% | 20% | 33% | 25% |
-| xG a favor | 1,20 | 1,02 | 1,59 | 1,67 |
-| xG en contra | 1,17 | 1,00 | 1,43 | 2,06 |
-| Tiros / partido | 12,0 | 12,0 | 10,8 | 8,5 |
-| Tiros a puerta / partido | 4,4 | 4,4 | 4,3 | 4,0 |
-| Tiros recibidos | 13,3 | 11,2 | 13,2 | 15,8 |
-| Tiros a puerta recibidos | 4,3 | 4,8 | 3,9 | 6,8 |
-| Posesión media % | 48 | 45 | 46 | 44 |
-| Córners a favor | 5,1 | 5,0 | 3,6 | 2,0 |
-| Córners en contra | 5,2 | 5,0 | 4,9 | 6,2 |
-| Córners a favor 1ª parte | 1,8 | 1,8 | 1,4 | 0,5 |
-| Córners a favor 2ª parte | 3,3 | 3,2 | 2,1 | 1,5 |
-| Córners totales del partido | 10,3 | 10,0 | 8,4 | 8,2 |
-| Córners totales 1ª parte | 4,8 | 4,8 | 3,9 | 3,2 |
-| Córners totales 2ª parte | 5,5 | 5,2 | 4,6 | 5,0 |
-| Más de 8,5 córners | 50% | 40% | 33% | 25% |
-| Más de 9,5 córners | 50% | 40% | 33% | 25% |
-| Más de 10,5 córners | 30% | 20% | 33% | 25% |
-| Faltas cometidas | 12,3 | 13,8 | 14,7 | 13,5 |
-| Faltas recibidas | 11,9 | 10,8 | 12,3 | 9,8 |
-| Amarillas propias | 2,0 | 1,8 | 2,7 | 2,5 |
-| Amarillas del rival | 2,1 | 2,0 | 2,0 | 1,2 |
+| Partidos analizados | 10 | 5 | 10 | 5 |
+| Forma (últimos 5) | DEDED | EEDVE | DVDED | DDDDV |
+| Balance | 2V 5E 3D | 1V 3E 1D | 3V 2E 5D | 1V 0E 4D |
+| Goles a favor / partido | 1,30 | 1,20 | 1,00 | 1,20 |
+| Goles en contra / partido | 1,30 | 1,00 | 2,00 | 3,40 |
+| Goles a favor 1ª parte | 0,50 | 0,60 | 0,30 | 0,00 |
+| Goles a favor 2ª parte | 0,80 | 0,60 | 0,70 | 1,20 |
+| Goles en contra 1ª parte | 0,60 | 0,40 | 0,90 | 1,40 |
+| Goles en contra 2ª parte | 0,70 | 0,60 | 1,10 | 2,00 |
+| Más de 1,5 goles | 80% | 80% | 80% | 100% |
+| Más de 2,5 goles | 30% | 20% | 40% | 80% |
+| Más de 3,5 goles | 30% | 20% | 30% | 60% |
+| Ambos marcan | 80% | 80% | 40% | 60% |
+| Portería a cero | 0% | 0% | 30% | 0% |
+| Se queda sin marcar | 20% | 20% | 40% | 40% |
+| xG a favor | 1,20 | 1,02 | 1,51 | 1,49 |
+| xG en contra | 1,17 | 1,00 | 1,41 | 1,88 |
+| Tiros / partido | 12,0 | 12,0 | 10,7 | 8,8 |
+| Tiros a puerta / partido | 4,4 | 4,4 | 4,1 | 3,6 |
+| Tiros recibidos | 13,3 | 11,2 | 13,6 | 16,0 |
+| Tiros a puerta recibidos | 4,3 | 4,8 | 4,2 | 6,8 |
+| Posesión media % | 48 | 45 | 47 | 47 |
+| Córners a favor | 5,1 | 5,0 | 3,6 | 2,4 |
+| Córners en contra | 5,2 | 5,0 | 5,1 | 6,4 |
+| Córners a favor 1ª parte | 1,8 | 1,8 | 1,4 | 0,6 |
+| Córners a favor 2ª parte | 3,3 | 3,2 | 2,2 | 1,8 |
+| Córners totales del partido | 10,3 | 10,0 | 8,7 | 8,8 |
+| Córners totales 1ª parte | 4,8 | 4,8 | 3,9 | 3,4 |
+| Córners totales 2ª parte | 5,5 | 5,2 | 4,8 | 5,4 |
+| Más de 8,5 córners | 50% | 40% | 40% | 40% |
+| Más de 9,5 córners | 50% | 40% | 40% | 40% |
+| Más de 10,5 córners | 30% | 20% | 40% | 40% |
+| Faltas cometidas | 12,3 | 13,8 | 14,0 | 12,4 |
+| Faltas recibidas | 11,9 | 10,8 | 12,2 | 10,0 |
+| Amarillas propias | 2,0 | 1,8 | 2,6 | 2,4 |
+| Amarillas del rival | 2,1 | 2,0 | 1,9 | 1,2 |
 | Rojas / partido | 0,30 | 0,40 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna | Goles Osasuna | Recibe Osasuna | Tarjetas Osasuna |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 0 | 1 | 1 | 3 | 1 |
-| 16-30' | 3 | 3 | 3 | 1 | 3 | 5 |
+| 16-30' | 3 | 3 | 3 | 1 | 4 | 6 |
 | 31-45' | 1 | 3 | 3 | 1 | 2 | 3 |
 | 46-60' | 1 | 3 | 2 | 4 | 4 | 2 |
-| 61-75' | 3 | 1 | 2 | 2 | 3 | 3 |
-| 76-90' | 4 | 3 | 12 | 1 | 3 | 10 |
+| 61-75' | 3 | 1 | 2 | 2 | 3 | 4 |
+| 76-90' | 4 | 3 | 12 | 1 | 4 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -154,72 +154,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Osasuna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | LaLiga | Sevilla 2-0 Osasuna | fuera | 4-7 | 10 (2) - 17 (7) | 2-1 |
 | 2026-10-18 | LaLiga | Osasuna 2-0 Racing Santander | casa | 7-4 | 20 (7) - 9 (1) | 2-3 |
 | 2026-10-11 | LaLiga | Real Betis 5-2 Osasuna | fuera | 4-8 | 11 (5) - 20 (7) | 5-2 |
 | 2026-09-19 | LaLiga | Osasuna 1-1 Rayo Vallecano | casa | 4-4 | 10 (3) - 19 (2) | 3-2 |
 | 2026-09-16 | LaLiga | Atletico Madrid 4-0 Osasuna | fuera | 0-8 | 3 (1) - 27 (11) | 2-1 |
 | 2026-09-12 | LaLiga | Osasuna 0-2 Espanyol | casa | 3-4 | 11 (4) - 6 (3) | 2-3 |
-| 2026-09-06 | LaLiga | Alaves 5-2 Osasuna | fuera | 1-4 | 7 (5) - 12 (7) | 2-1 |
 
 ## Jugadores de Osasuna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alejandro Catena | D | 8 | 720 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 8 | 5 | 0,6 | 1 | 0 |
-| Abel Bretones | D | 9 | 709 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 4 | 0,4 | 2 | 0 |
-| Ante Budimir | F | 9 | 682 | 7 | 0 | 21 | 2,3 | 14 | 1,6 | 14 | 17 | 1,9 | 1 | 0 |
-| Jon Moncayola | M | 9 | 646 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 10 | 2 | 0,2 | 3 | 0 |
-| Iñigo Arguibide | D | 9 | 643 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 8 | 0,9 | 0 | 0 |
+| Catena | D | 9 | 810 | 0 | 1 | 2 | 0,2 | 2 | 0,2 | 10 | 5 | 0,6 | 2 | 0 |
+| Abel Bretones | D | 10 | 799 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 13 | 5 | 0,5 | 2 | 0 |
+| A. Budimir | F | 10 | 772 | 7 | 0 | 24 | 2,4 | 15 | 1,5 | 14 | 17 | 1,7 | 1 | 0 |
+| Moncayola | M | 10 | 736 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 10 | 3 | 0,3 | 3 | 0 |
+| Íñigo Arguibide | D | 10 | 654 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 8 | 0,8 | 0 | 0 |
+| Rubén García | F | 10 | 595 | 0 | 1 | 9 | 0,9 | 4 | 0,4 | 12 | 7 | 0,7 | 1 | 0 |
 | Iker Muñoz | M | 8 | 554 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 13 | 11 | 1,4 | 1 | 0 |
-| Rubén García | F | 9 | 532 | 0 | 1 | 9 | 1,0 | 4 | 0,4 | 11 | 5 | 0,6 | 1 | 0 |
+| Moi Gómez | M | 7 | 476 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 12 | 1,7 | 0 | 0 |
+| Raúl García | F | 10 | 464 | 1 | 1 | 13 | 1,3 | 6 | 0,6 | 3 | 9 | 0,9 | 1 | 0 |
+| Aitor Fernández | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Sergio Herrera | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,4 | 2 | 0 |
-| Raúl García de Haro | F | 9 | 437 | 1 | 1 | 11 | 1,2 | 6 | 0,7 | 3 | 9 | 1,0 | 1 | 0 |
-| Moi Gómez | M | 6 | 397 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 4 | 10 | 1,7 | 0 | 0 |
-| Asier Osambela | M | 7 | 365 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 10 | 1 | 0,1 | 1 | 0 |
-| Aitor Fernández | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Jonathan Dubasin | F | 9 | 345 | 0 | 0 | 8 | 0,9 | 5 | 0,6 | 6 | 3 | 0,3 | 1 | 0 |
-| Lucas Torró | M | 7 | 342 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 2 | 0,3 | 1 | 0 |
-| Enzo Boyomo | D | 4 | 291 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
-| Kike Barja | M | 6 | 237 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 4 | 4 | 0,7 | 3 | 0 |
+| Lucas Torró | M | 8 | 421 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 5 | 0,6 | 1 | 0 |
+| Jonathan Dubasin | F | 10 | 408 | 0 | 0 | 9 | 0,9 | 5 | 0,5 | 7 | 3 | 0,3 | 1 | 0 |
+| F. Boyomo | D | 5 | 381 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
+| Asier Osambela | M | 8 | 376 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 11 | 1 | 0,1 | 1 | 0 |
+| Kike Barja | F | 7 | 248 | 1 | 0 | 4 | 0,6 | 1 | 0,1 | 4 | 4 | 0,6 | 3 | 0 |
+| Raul Moro | F | 7 | 212 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 1 | 1 | 0,1 | 0 | 0 |
 | Rockson Yeboah | D | 3 | 210 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 1 | 0 |
 | Unai Santos | D | 3 | 208 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 5 | 1 | 0,3 | 1 | 0 |
 | Jorge Herrando | D | 3 | 187 | 0 | 0 | 2 | 0,7 | 2 | 0,7 | 3 | 2 | 0,7 | 1 | 0 |
-| Raúl Moro | F | 6 | 185 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 1,03 · córners esperados 9,7._
+_Goles esperados: local 1,60 · visitante 0,99 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 23% | 28% | 26% | 3.30 | -15% |
-| 1X2: X | 24% | 29% | 27% | 3.20 | -15% |
-| 1X2: 1 | 53% | 43% | 48% | 2.15 | +3% |
-| Doble oportunidad: X2 | 47% | 57% | 52% | 1.67 | -12% |
-| Doble oportunidad: 12 | 76% | 70% | 73% | 1.36 | -1% |
+| 1X2: X | 25% | 29% | 27% | 3.20 | -14% |
+| 1X2: 1 | 52% | 43% | 47% | 2.15 | +2% |
+| Doble oportunidad: X2 | 48% | 57% | 53% | 1.67 | -12% |
+| Doble oportunidad: 12 | 75% | 70% | 73% | 1.36 | -1% |
 | Doble oportunidad: 1X | 77% | 72% | 74% | 1.33 | -1% |
-| Ambos marcan: No | 48% | 52% | 50% | 1.80 | -10% |
-| Ambos marcan: Sí | 52% | 48% | 50% | 1.95 | -2% |
-| Goles más/menos: Más de 1.5 | 75% | 68% | 72% | 1.40 | +0% |
-| Goles más/menos: Más de 2.5 | 51% | 43% | 47% | 2.20 | +3% |
-| Goles más/menos: Más de 3.5 | 29% | 24% | 26% | 4.00 | +5% |
-| Goles más/menos: Menos de 1.5 | 25% | 32% | 28% | 3.00 | -15% |
-| Goles más/menos: Menos de 2.5 | 49% | 57% | 53% | 1.67 | -11% |
-| Goles más/menos: Menos de 3.5 | 71% | 76% | 74% | 1.25 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
-| Goles del local: Más de 1.5 ✅ | 50% | 39% | 45% | 2.38 | +6% |
-| Goles del local: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -20% |
-| Goles del local: Menos de 1.5 | 50% | 61% | 55% | 1.53 | -15% |
-| Goles del visitante: Más de 0.5 | 64% | 65% | 64% | 1.44 | -7% |
-| Goles del visitante: Más de 1.5 | 28% | 28% | 28% | 3.40 | -6% |
-| Goles del visitante: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -7% |
-| Goles del visitante: Menos de 1.5 | 72% | 72% | 72% | 1.30 | -6% |
-| Córners más/menos: Más de 9.5 | 46% | 47% | 47% | 2.02 | -6% |
-| Córners más/menos: Menos de 9.5 | 54% | 53% | 53% | 1.78 | -5% |
+| Ambos marcan: No | 50% | 52% | 51% | 1.80 | -8% |
+| Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -4% |
+| Goles más/menos: Más de 1.5 | 73% | 68% | 71% | 1.40 | -1% |
+| Goles más/menos: Más de 2.5 | 48% | 43% | 46% | 2.20 | +0% |
+| Goles más/menos: Más de 3.5 | 26% | 24% | 25% | 4.00 | +0% |
+| Goles más/menos: Menos de 1.5 | 27% | 32% | 29% | 3.00 | -12% |
+| Goles más/menos: Menos de 2.5 | 52% | 57% | 54% | 1.67 | -9% |
+| Goles más/menos: Menos de 3.5 | 74% | 76% | 75% | 1.25 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 29% | 30% | 3.25 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
+| Goles del local: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
+| Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
+| Goles del local: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
+| Goles del visitante: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Goles del visitante: Más de 1.5 | 26% | 28% | 27% | 3.40 | -8% |
+| Goles del visitante: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles del visitante: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Córners más/menos: Más de 9.5 | 48% | 47% | 47% | 2.02 | -5% |
+| Córners más/menos: Menos de 9.5 | 52% | 53% | 53% | 1.78 | -6% |
 | 1X2 descanso: 2 | 20% | 23% | 22% | 4.00 | -14% |
-| 1X2 descanso: X | 42% | 45% | 43% | 2.05 | -11% |
-| 1X2 descanso: 1 | 38% | 32% | 35% | 2.88 | +1% |
+| 1X2 descanso: X | 43% | 45% | 44% | 2.05 | -10% |
+| 1X2 descanso: 1 | 37% | 32% | 35% | 2.88 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Bologna – Monza
 **Serie A** · Regular Season - 10 · 31/10/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -52,53 +52,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Bologna (total) | Bologna en casa | Monza (total) | Monza fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 8 | 5 |
-| Forma (últimos 5) | VDVED | DEED | DVDVD | DDDED |
-| Balance | 2V 2E 4D | 0V 2E 2D | 2V 1E 5D | 0V 1E 4D |
-| Goles a favor / partido | 1,00 | 1,00 | 1,88 | 1,40 |
-| Goles en contra / partido | 1,25 | 1,75 | 2,25 | 2,80 |
-| Goles a favor 1ª parte | 0,38 | 0,50 | 0,62 | 0,60 |
-| Goles a favor 2ª parte | 0,62 | 0,50 | 1,25 | 0,80 |
-| Goles en contra 1ª parte | 0,25 | 0,50 | 1,25 | 1,40 |
-| Goles en contra 2ª parte | 1,00 | 1,25 | 1,00 | 1,40 |
-| Más de 1,5 goles | 62% | 75% | 100% | 100% |
-| Más de 2,5 goles | 38% | 50% | 88% | 80% |
-| Más de 3,5 goles | 25% | 50% | 75% | 80% |
-| Ambos marcan | 50% | 75% | 88% | 100% |
-| Portería a cero | 12% | 0% | 12% | 0% |
+| Partidos analizados | 8 | 4 | 10 | 6 |
+| Forma (últimos 5) | VDVED | DEED | DVDVD | DDDEV |
+| Balance | 2V 2E 4D | 0V 2E 2D | 4V 1E 5D | 1V 1E 4D |
+| Goles a favor / partido | 1,00 | 1,00 | 1,90 | 1,33 |
+| Goles en contra / partido | 1,25 | 1,75 | 1,80 | 2,33 |
+| Goles a favor 1ª parte | 0,38 | 0,50 | 0,80 | 0,67 |
+| Goles a favor 2ª parte | 0,62 | 0,50 | 1,10 | 0,67 |
+| Goles en contra 1ª parte | 0,25 | 0,50 | 1,00 | 1,17 |
+| Goles en contra 2ª parte | 1,00 | 1,25 | 0,80 | 1,17 |
+| Más de 1,5 goles | 62% | 75% | 90% | 83% |
+| Más de 2,5 goles | 38% | 50% | 80% | 67% |
+| Más de 3,5 goles | 25% | 50% | 60% | 67% |
+| Ambos marcan | 50% | 75% | 70% | 83% |
+| Portería a cero | 12% | 0% | 30% | 17% |
 | Se queda sin marcar | 38% | 25% | 0% | 0% |
 | xG a favor | 1,32 | 1,40 | 1,68 | 1,62 |
 | xG en contra | 1,23 | 1,64 | 1,31 | 1,19 |
-| Tiros / partido | 12,1 | 14,2 | 13,4 | 12,6 |
-| Tiros a puerta / partido | 3,8 | 3,8 | 5,6 | 5,6 |
-| Tiros recibidos | 12,4 | 14,0 | 13,6 | 12,2 |
-| Tiros a puerta recibidos | 3,9 | 5,0 | 5,4 | 5,0 |
-| Posesión media % | 48 | 49 | 45 | 46 |
-| Córners a favor | 4,0 | 5,2 | 4,2 | 4,4 |
-| Córners en contra | 5,9 | 6,2 | 4,8 | 4,6 |
-| Córners a favor 1ª parte | 1,6 | 2,5 | 1,8 | 2,0 |
-| Córners a favor 2ª parte | 2,4 | 2,8 | 2,5 | 2,4 |
-| Córners totales del partido | 9,9 | 11,5 | 9,0 | 9,0 |
-| Córners totales 1ª parte | 3,9 | 5,2 | 3,9 | 3,6 |
-| Córners totales 2ª parte | 6,0 | 6,2 | 5,1 | 5,4 |
-| Más de 8,5 córners | 50% | 50% | 62% | 60% |
-| Más de 9,5 córners | 50% | 50% | 38% | 40% |
-| Más de 10,5 córners | 38% | 50% | 25% | 20% |
-| Faltas cometidas | 12,8 | 14,5 | 11,1 | 11,2 |
-| Faltas recibidas | 14,6 | 12,5 | 10,6 | 10,6 |
-| Amarillas propias | 1,9 | 2,8 | 1,4 | 1,0 |
-| Amarillas del rival | 2,2 | 2,8 | 1,6 | 2,0 |
-| Rojas / partido | 0,00 | 0,00 | 0,12 | 0,20 |
+| Tiros / partido | 12,1 | 14,2 | 14,8 | 13,7 |
+| Tiros a puerta / partido | 3,8 | 3,8 | 5,8 | 6,0 |
+| Tiros recibidos | 12,4 | 14,0 | 13,1 | 12,8 |
+| Tiros a puerta recibidos | 3,9 | 5,0 | 4,5 | 4,2 |
+| Posesión media % | 48 | 49 | 46 | 46 |
+| Córners a favor | 4,0 | 5,2 | 4,7 | 5,0 |
+| Córners en contra | 5,9 | 6,2 | 4,7 | 5,2 |
+| Córners a favor 1ª parte | 1,6 | 2,5 | 2,0 | 2,2 |
+| Córners a favor 2ª parte | 2,4 | 2,8 | 2,7 | 2,8 |
+| Córners totales del partido | 9,9 | 11,5 | 9,4 | 10,2 |
+| Córners totales 1ª parte | 3,9 | 5,2 | 4,1 | 4,2 |
+| Córners totales 2ª parte | 6,0 | 6,2 | 5,3 | 6,0 |
+| Más de 8,5 córners | 50% | 50% | 60% | 67% |
+| Más de 9,5 córners | 50% | 50% | 40% | 50% |
+| Más de 10,5 córners | 38% | 50% | 30% | 33% |
+| Faltas cometidas | 12,8 | 14,5 | 11,3 | 11,3 |
+| Faltas recibidas | 14,6 | 12,5 | 11,8 | 11,8 |
+| Amarillas propias | 1,9 | 2,8 | 1,2 | 1,0 |
+| Amarillas del rival | 2,2 | 2,8 | 1,6 | 1,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bologna | Recibe Bologna | Tarjetas Bologna | Goles Monza | Recibe Monza | Tarjetas Monza |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 0 | 0 | 0 | 4 | 1 |
-| 16-30' | 1 | 1 | 0 | 2 | 2 | 1 |
-| 31-45' | 0 | 1 | 6 | 3 | 4 | 2 |
-| 46-60' | 2 | 2 | 3 | 4 | 3 | 1 |
+| 16-30' | 1 | 1 | 0 | 3 | 2 | 1 |
+| 31-45' | 0 | 1 | 6 | 6 | 4 | 2 |
+| 46-60' | 2 | 2 | 3 | 5 | 3 | 1 |
 | 61-75' | 1 | 3 | 2 | 3 | 3 | 3 |
-| 76-90' | 2 | 3 | 4 | 3 | 2 | 4 |
+| 76-90' | 2 | 3 | 4 | 3 | 3 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -160,59 +160,59 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Monza
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Birindelli | M | 8 | 713 | 0 | 2 | 10 | 1,2 | 4 | 0,5 | 6 | 6 | 0,8 | 2 | 0 |
-| A. Carboni | D | 8 | 661 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 10 | 2 | 0,2 | 1 | 0 |
-| E. Kouadio | D | 8 | 639 | 1 | 0 | 3 | 0,4 | 3 | 0,4 | 10 | 0 | 0,0 | 2 | 0 |
-| Ricardo Mangas | M | 8 | 621 | 1 | 2 | 5 | 0,6 | 3 | 0,4 | 4 | 8 | 1,0 | 0 | 0 |
-| Gustavo Varela | F | 7 | 599 | 7 | 1 | 13 | 1,9 | 8 | 1,1 | 5 | 5 | 0,7 | 1 | 0 |
-| E. Akinsanmiro | M | 7 | 527 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 9 | 11 | 1,6 | 0 | 0 |
-| L. Lucchesi | D | 7 | 517 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 13 | 2 | 0,3 | 2 | 1 |
-| Jay Robinson | M | 6 | 404 | 2 | 0 | 10 | 1,7 | 6 | 1,0 | 3 | 9 | 1,5 | 0 | 0 |
-| M. Folorunsho | M | 7 | 387 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 5 | 10 | 1,4 | 2 | 0 |
-| M. Ondoa | M | 6 | 376 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 4 | 0,7 | 0 | 0 |
+| E. Kouadio | D | 10 | 819 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 11 | 0 | 0,0 | 2 | 0 |
+| S. Birindelli | M | 10 | 808 | 0 | 2 | 11 | 1,1 | 5 | 0,5 | 9 | 11 | 1,1 | 2 | 0 |
+| Ricardo Mangas | M | 10 | 781 | 1 | 2 | 10 | 1,0 | 5 | 0,5 | 7 | 11 | 1,1 | 0 | 0 |
+| A. Carboni | D | 9 | 751 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 12 | 2 | 0,2 | 1 | 0 |
+| Gustavo Varela | F | 8 | 680 | 9 | 1 | 16 | 2,0 | 10 | 1,2 | 7 | 5 | 0,6 | 1 | 0 |
+| L. Lucchesi | D | 9 | 616 | 0 | 0 | 4 | 0,4 | 3 | 0,3 | 15 | 5 | 0,6 | 2 | 1 |
+| E. Akinsanmiro | M | 8 | 616 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 9 | 11 | 1,4 | 0 | 0 |
+| Jay Robinson | M | 7 | 480 | 2 | 0 | 12 | 1,7 | 6 | 0,9 | 4 | 11 | 1,6 | 0 | 0 |
+| M. Folorunsho | M | 8 | 477 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 6 | 13 | 1,6 | 3 | 0 |
+| M. Ondoa | M | 7 | 466 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 5 | 4 | 0,6 | 0 | 0 |
+| Demba Thiam | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Dany Mota | M | 7 | 365 | 1 | 2 | 16 | 2,3 | 8 | 1,1 | 4 | 6 | 0,9 | 0 | 0 |
 | N. Törnqvist | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Dany Mota | M | 6 | 295 | 0 | 2 | 13 | 2,2 | 7 | 1,2 | 4 | 6 | 1,0 | 0 | 0 |
-| A. Colpani | M | 5 | 280 | 1 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 4 | 0,8 | 0 | 0 |
-| Demba Thiam | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| P. Cutrone | F | 8 | 322 | 0 | 2 | 12 | 1,5 | 4 | 0,5 | 5 | 5 | 0,6 | 0 | 0 |
+| A. Colpani | M | 7 | 320 | 1 | 0 | 10 | 1,4 | 6 | 0,9 | 0 | 5 | 0,7 | 0 | 0 |
+| A. Bakoune | D | 8 | 297 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 2 | 0,2 | 0 | 0 |
+| O. Forson | F | 7 | 243 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 5 | 0,7 | 0 | 0 |
+| M. Mout | M | 7 | 242 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 1 | 3 | 0,4 | 0 | 0 |
 | S. Goglichidze | D | 3 | 234 | 1 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 0 | 0 |
-| P. Cutrone | F | 6 | 212 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 4 | 3 | 0,5 | 0 | 0 |
-| A. Bakoune | D | 6 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
-| M. Mout | M | 6 | 157 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
-| O. Forson | F | 5 | 103 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Semuel Pizzignacco | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Yvan Maye | D | 4 | 131 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 0 | 7 | 1,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,50 · visitante 1,18 · córners esperados 9,5._
+_Goles esperados: local 1,31 · visitante 1,23 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 20% | 25% | 4.75 | +18% |
-| 1X2: X | 26% | 25% | 25% | 3.70 | -6% |
-| 1X2: 1 | 45% | 55% | 50% | 1.70 | -15% |
-| Doble oportunidad: X2 | 55% | 45% | 50% | 2.10 | +6% |
-| Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 70% | 81% | 75% | 1.18 | -11% |
-| Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
-| Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 75% | 78% | 76% | 1.22 | -7% |
-| Goles más/menos: Más de 2.5 | 50% | 55% | 53% | 1.73 | -9% |
-| Goles más/menos: Más de 3.5 | 28% | 34% | 31% | 2.75 | -14% |
-| Goles más/menos: Menos de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 50% | 45% | 47% | 2.10 | -0% |
-| Goles más/menos: Menos de 3.5 | 72% | 66% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Goles del local: Más de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
-| Goles del local: Más de 2.5 | 19% | 29% | 24% | 3.25 | -22% |
-| Goles del local: Menos de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Goles del local: Menos de 2.5 | 81% | 71% | 76% | 1.33 | +1% |
-| Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del visitante: Más de 1.5 | 33% | 28% | 30% | 3.40 | +3% |
-| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles del visitante: Menos de 1.5 | 67% | 72% | 70% | 1.30 | -10% |
-| 1X2 descanso: X | 43% | 39% | 41% | 2.38 | -3% |
-| 1X2 descanso: 1 | 33% | 41% | 37% | 2.25 | -16% |
+| 1X2: 2 | 35% | 20% | 27% | 4.75 | +30% |
+| 1X2: X | 27% | 25% | 26% | 3.70 | -4% |
+| 1X2: 1 | 38% | 55% | 47% | 1.70 | -21% |
+| Doble oportunidad: X2 ✅ | 62% | 45% | 53% | 2.10 | +12% |
+| Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
+| Doble oportunidad: 1X | 65% | 81% | 73% | 1.18 | -14% |
+| Ambos marcan: No | 48% | 45% | 47% | 2.05 | -4% |
+| Ambos marcan: Sí | 52% | 55% | 53% | 1.70 | -10% |
+| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -8% |
+| Goles más/menos: Más de 2.5 | 47% | 55% | 51% | 1.73 | -12% |
+| Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -18% |
+| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +8% |
+| Goles más/menos: Menos de 2.5 | 53% | 45% | 49% | 2.10 | +3% |
+| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Más de 1.5 | 38% | 56% | 47% | 1.67 | -22% |
+| Goles del local: Más de 2.5 | 14% | 29% | 22% | 3.25 | -29% |
+| Goles del local: Menos de 1.5 ✅ | 62% | 44% | 53% | 2.10 | +12% |
+| Goles del local: Menos de 2.5 | 86% | 71% | 78% | 1.33 | +4% |
+| Goles del visitante: Más de 0.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del visitante: Más de 1.5 | 35% | 28% | 31% | 3.40 | +6% |
+| Goles del visitante: Menos de 0.5 | 29% | 35% | 32% | 2.62 | -15% |
+| Goles del visitante: Menos de 1.5 | 65% | 72% | 69% | 1.30 | -11% |
+| 1X2 descanso: X | 44% | 39% | 42% | 2.38 | -1% |
+| 1X2 descanso: 1 | 29% | 41% | 35% | 2.25 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

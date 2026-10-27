@@ -1,7 +1,7 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -194,41 +194,41 @@ _Sin bajas comunicadas por ahora._
 | Hugo Novoa | F | 2 | 73 | 1 | 0 | 2 | 1,0 | 1 | 0,5 | 0 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,39 · visitante 0,90 · córners esperados 9,4._
+_Goles esperados: local 3,26 · visitante 0,91 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 6% | 5% | 6% | 17.00 | -1% |
-| 1X2: X | 10% | 9% | 10% | 10.00 | -4% |
-| 1X2: 1 | 84% | 85% | 85% | 1.08 | -9% |
-| Doble oportunidad: X2 | 16% | 12% | 14% | 8.00 | +14% |
-| Doble oportunidad: 12 | 90% | 92% | 91% | 1.06 | -4% |
-| Doble oportunidad: 1X | 94% | 96% | 95% | 1.02 | -3% |
-| Ambos marcan: No | 43% | 53% | 48% | 1.75 | -16% |
-| Ambos marcan: Sí | 57% | 47% | 52% | 2.00 | +4% |
-| Goles más/menos: Más de 2.5 | 80% | 76% | 78% | 1.25 | -2% |
-| Goles más/menos: Más de 3.5 | 62% | 59% | 60% | 1.62 | -2% |
-| Goles más/menos: Más de 4.5 | 43% | 40% | 41% | 2.38 | -2% |
-| Goles más/menos: Más de 5.5 | 26% | 24% | 25% | 4.00 | -0% |
-| Goles más/menos: Menos de 2.5 | 20% | 24% | 22% | 4.00 | -12% |
-| Goles más/menos: Menos de 3.5 | 38% | 41% | 40% | 2.30 | -9% |
-| Goles más/menos: Menos de 4.5 | 57% | 60% | 59% | 1.57 | -8% |
-| Goles más/menos: Menos de 5.5 | 74% | 76% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 56% | 56% | 1.67 | -7% |
-| Goles 1ª parte más/menos: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 44% | 44% | 2.10 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 72% | 71% | 71% | 1.33 | -5% |
-| Goles del local: Más de 2.5 | 66% | 66% | 66% | 1.40 | -8% |
-| Goles del local: Más de 3.5 | 44% | 46% | 45% | 2.00 | -10% |
-| Goles del local: Más de 4.5 | 25% | 28% | 26% | 3.40 | -10% |
-| Goles del local: Menos de 2.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles del local: Menos de 3.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del local: Menos de 4.5 | 75% | 72% | 74% | 1.30 | -4% |
-| Goles del visitante: Más de 0.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del visitante: Menos de 0.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Córners más/menos: Más de 10.5 | 36% | 54% | 45% | 1.73 | -22% |
-| Córners más/menos: Menos de 10.5 ✅ | 64% | 46% | 55% | 2.00 | +10% |
-| 1X2 descanso: X | 26% | 24% | 25% | 3.75 | -6% |
-| 1X2 descanso: 1 | 65% | 69% | 67% | 1.33 | -11% |
+| 1X2: 2 | 7% | 5% | 6% | 17.00 | +5% |
+| 1X2: X | 11% | 9% | 10% | 10.00 | +1% |
+| 1X2: 1 | 82% | 85% | 84% | 1.08 | -10% |
+| Doble oportunidad: X2 | 18% | 12% | 15% | 8.00 | +20% |
+| Doble oportunidad: 12 | 89% | 92% | 91% | 1.06 | -4% |
+| Doble oportunidad: 1X | 93% | 96% | 94% | 1.02 | -4% |
+| Ambos marcan: No | 42% | 53% | 48% | 1.75 | -16% |
+| Ambos marcan: Sí | 58% | 47% | 52% | 2.00 | +4% |
+| Goles más/menos: Más de 2.5 | 79% | 76% | 77% | 1.25 | -3% |
+| Goles más/menos: Más de 3.5 | 60% | 59% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 4.5 | 41% | 40% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 5.5 | 24% | 24% | 24% | 4.00 | -4% |
+| Goles más/menos: Menos de 2.5 | 21% | 24% | 23% | 4.00 | -10% |
+| Goles más/menos: Menos de 3.5 | 40% | 41% | 41% | 2.30 | -6% |
+| Goles más/menos: Menos de 4.5 | 59% | 60% | 60% | 1.57 | -6% |
+| Goles más/menos: Menos de 5.5 | 76% | 76% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles del local: Más de 2.5 | 63% | 66% | 65% | 1.40 | -9% |
+| Goles del local: Más de 3.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Goles del local: Más de 4.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles del local: Menos de 2.5 | 37% | 34% | 35% | 2.75 | -3% |
+| Goles del local: Menos de 3.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del local: Menos de 4.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 60% | 49% | 54% | 1.91 | +4% |
+| Goles del visitante: Menos de 0.5 | 40% | 51% | 46% | 1.80 | -18% |
+| Córners más/menos: Más de 10.5 | 36% | 54% | 45% | 1.73 | -23% |
+| Córners más/menos: Menos de 10.5 ✅ | 64% | 46% | 55% | 2.00 | +11% |
+| 1X2 descanso: X | 27% | 24% | 26% | 3.75 | -4% |
+| 1X2 descanso: 1 | 63% | 69% | 66% | 1.33 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

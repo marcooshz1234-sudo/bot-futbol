@@ -1,7 +1,7 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -189,42 +189,42 @@ _Sin bajas comunicadas por ahora._
 | Héctor Fort | D | 5 | 186 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,77 · visitante 1,28 · córners esperados 10,5._
+_Goles esperados: local 1,70 · visitante 1,30 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 27% | 28% | 3.40 | -6% |
-| 1X2: X | 23% | 26% | 25% | 3.60 | -11% |
-| 1X2: 1 | 49% | 47% | 48% | 2.00 | -4% |
-| Doble oportunidad: X2 | 51% | 53% | 52% | 1.80 | -7% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
-| Doble oportunidad: 1X | 72% | 73% | 73% | 1.30 | -6% |
-| Ambos marcan: No | 40% | 45% | 43% | 2.05 | -13% |
-| Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
-| Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
-| Goles más/menos: Más de 3.5 | 37% | 32% | 34% | 3.00 | +3% |
-| Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -12% |
-| Goles más/menos: Menos de 3.5 | 63% | 68% | 66% | 1.40 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del local: Más de 1.5 | 53% | 46% | 50% | 2.00 | -1% |
-| Goles del local: Más de 2.5 | 26% | 22% | 24% | 4.33 | +4% |
-| Goles del local: Menos de 0.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles del local: Menos de 1.5 | 47% | 54% | 50% | 1.73 | -13% |
-| Goles del local: Menos de 2.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles del visitante: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
-| Goles del visitante: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del visitante: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
-| Goles del visitante: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
+| 1X2: 2 | 30% | 27% | 28% | 3.40 | -3% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -11% |
+| 1X2: 1 | 47% | 47% | 47% | 2.00 | -7% |
+| Doble oportunidad: X2 | 53% | 53% | 53% | 1.80 | -4% |
+| Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 70% | 73% | 72% | 1.30 | -7% |
+| Ambos marcan: No | 41% | 45% | 43% | 2.05 | -12% |
+| Ambos marcan: Sí | 59% | 55% | 57% | 1.70 | -3% |
+| Goles más/menos: Más de 1.5 | 80% | 76% | 78% | 1.25 | -2% |
+| Goles más/menos: Más de 2.5 | 58% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Más de 3.5 | 35% | 32% | 34% | 3.00 | +1% |
+| Goles más/menos: Menos de 1.5 | 20% | 24% | 22% | 4.00 | -13% |
+| Goles más/menos: Menos de 2.5 | 42% | 47% | 45% | 2.00 | -10% |
+| Goles más/menos: Menos de 3.5 | 65% | 68% | 66% | 1.40 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 0.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Goles del local: Más de 1.5 | 51% | 46% | 48% | 2.00 | -3% |
+| Goles del local: Más de 2.5 | 24% | 22% | 23% | 4.33 | -1% |
+| Goles del local: Menos de 0.5 | 18% | 22% | 20% | 4.33 | -13% |
+| Goles del local: Menos de 1.5 | 49% | 54% | 52% | 1.73 | -11% |
+| Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -8% |
+| Goles del visitante: Más de 0.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles del visitante: Más de 1.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles del visitante: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -13% |
+| Goles del visitante: Menos de 1.5 | 63% | 66% | 64% | 1.40 | -10% |
 | Córners más/menos: Más de 9.5 | 53% | 52% | 53% | 1.82 | -4% |
 | Córners más/menos: Menos de 9.5 | 47% | 48% | 47% | 1.98 | -6% |
-| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -6% |
-| 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -9% |
-| 1X2 descanso: 1 | 37% | 35% | 36% | 2.62 | -5% |
+| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
+| 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -9% |
+| 1X2 descanso: 1 | 35% | 35% | 35% | 2.62 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

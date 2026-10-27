@@ -1,7 +1,7 @@
 # Casa Pia – Sporting CP
 **Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Casa Pia (total) | Casa Pia en casa | Sporting CP (total) | Sporting CP fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 12 | 5 |
-| Forma (últimos 5) | VDVDE | DDDD | DDVVE | VVEVE |
-| Balance | 2V 1E 6D | 0V 0E 4D | 7V 3E 2D | 3V 2E 0D |
-| Goles a favor / partido | 0,56 | 0,25 | 2,33 | 2,40 |
-| Goles en contra / partido | 1,89 | 3,25 | 1,25 | 0,80 |
-| Goles a favor 1ª parte | 0,22 | 0,25 | 1,17 | 1,00 |
-| Goles a favor 2ª parte | 0,33 | 0,00 | 1,17 | 1,40 |
-| Goles en contra 1ª parte | 0,67 | 1,00 | 0,33 | 0,20 |
-| Goles en contra 2ª parte | 1,22 | 2,25 | 0,92 | 0,60 |
-| Más de 1,5 goles | 56% | 50% | 100% | 100% |
-| Más de 2,5 goles | 33% | 50% | 75% | 60% |
-| Más de 3,5 goles | 22% | 50% | 67% | 60% |
-| Ambos marcan | 22% | 25% | 75% | 60% |
-| Portería a cero | 22% | 0% | 25% | 40% |
-| Se queda sin marcar | 67% | 75% | 0% | 0% |
+| Partidos analizados | 10 | 4 | 12 | 5 |
+| Forma (últimos 5) | VVDVD | DDDD | DDVVE | VVEVE |
+| Balance | 3V 1E 6D | 0V 0E 4D | 7V 3E 2D | 3V 2E 0D |
+| Goles a favor / partido | 0,60 | 0,25 | 2,33 | 2,40 |
+| Goles en contra / partido | 1,70 | 3,25 | 1,25 | 0,80 |
+| Goles a favor 1ª parte | 0,20 | 0,25 | 1,17 | 1,00 |
+| Goles a favor 2ª parte | 0,40 | 0,00 | 1,17 | 1,40 |
+| Goles en contra 1ª parte | 0,60 | 1,00 | 0,33 | 0,20 |
+| Goles en contra 2ª parte | 1,10 | 2,25 | 0,92 | 0,60 |
+| Más de 1,5 goles | 50% | 50% | 100% | 100% |
+| Más de 2,5 goles | 30% | 50% | 75% | 60% |
+| Más de 3,5 goles | 20% | 50% | 67% | 60% |
+| Ambos marcan | 20% | 25% | 75% | 60% |
+| Portería a cero | 30% | 0% | 25% | 40% |
+| Se queda sin marcar | 60% | 75% | 0% | 0% |
 | xG a favor | 0,84 | 0,74 | 1,99 | 1,84 |
 | xG en contra | 1,62 | 1,58 | 1,01 | 1,03 |
 | Tiros / partido | 9,7 | 9,2 | 13,8 | 13,0 |
@@ -54,7 +54,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 16-30' | 0 | 2 | 0 | 6 | 1 | 4 |
 | 31-45' | 2 | 2 | 2 | 4 | 0 | 2 |
 | 46-60' | 0 | 5 | 3 | 6 | 0 | 3 |
-| 61-75' | 1 | 4 | 6 | 4 | 7 | 6 |
+| 61-75' | 2 | 4 | 6 | 4 | 7 | 6 |
 | 76-90' | 2 | 2 | 10 | 3 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -74,11 +74,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-24 | Primeira Liga | Estrela 0-2 Casa Pia | fuera | 5-7 | 10 (4) - 18 (6) | 2-1 |
+| 2026-10-18 | Taça de Portugal | Alpendorada 0-1 Casa Pia | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Casa Pia 0-1 Santa Clara | casa | 3-7 | 5 (2) - 14 (2) | 3-5 |
 | 2026-09-20 | Primeira Liga | Estoril 1-2 Casa Pia | fuera | 4-7 | 11 (3) - 14 (6) | 2-3 |
 | 2026-09-12 | Primeira Liga | Casa Pia 1-4 FC Porto | casa | 5-10 | 15 (5) - 17 (4) | 4-1 |
 | 2026-09-06 | Primeira Liga | Vitória SC 0-0 Casa Pia | fuera | 4-17 | 7 (3) - 29 (8) | 2-2 |
-| 2026-08-30 | Primeira Liga | Casa Pia 0-1 Moreirense | casa | 5-1 | 14 (2) - 6 (5) | 1-3 |
 
 ## Jugadores de Casa Pia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | João Simões | M | 3 | 146 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,81 · visitante 2,02 · córners esperados 9,5._
+_Goles esperados: local 0,78 · visitante 1,92 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

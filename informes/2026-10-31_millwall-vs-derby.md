@@ -1,7 +1,7 @@
 # Millwall – Derby
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -60,53 +60,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Millwall (total) | Millwall en casa | Derby (total) | Derby fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
-| Forma (últimos 5) | DEDVE | EDEVD | EDDEE | EDEDV |
-| Balance | 4V 3E 5D | 2V 2E 2D | 1V 4E 7D | 1V 2E 3D |
-| Goles a favor / partido | 1,58 | 1,83 | 0,83 | 1,00 |
-| Goles en contra / partido | 1,67 | 1,33 | 1,75 | 1,83 |
-| Goles a favor 1ª parte | 0,75 | 0,67 | 0,50 | 0,50 |
-| Goles a favor 2ª parte | 0,83 | 1,17 | 0,33 | 0,50 |
-| Goles en contra 1ª parte | 0,58 | 0,50 | 0,92 | 0,83 |
-| Goles en contra 2ª parte | 1,08 | 0,83 | 0,83 | 1,00 |
-| Más de 1,5 goles | 83% | 83% | 83% | 100% |
-| Más de 2,5 goles | 75% | 83% | 50% | 50% |
-| Más de 3,5 goles | 50% | 50% | 17% | 17% |
-| Ambos marcan | 50% | 33% | 58% | 67% |
-| Portería a cero | 33% | 33% | 8% | 17% |
-| Se queda sin marcar | 17% | 33% | 33% | 17% |
-| xG a favor | 1,76 | 1,86 | 0,98 | 0,90 |
-| xG en contra | 1,31 | 1,22 | 1,72 | 1,69 |
-| Tiros / partido | 13,8 | 13,3 | 12,6 | 11,7 |
-| Tiros a puerta / partido | 3,9 | 4,8 | 3,8 | 4,2 |
-| Tiros recibidos | 13,0 | 11,3 | 15,1 | 15,7 |
-| Tiros a puerta recibidos | 3,4 | 3,3 | 5,8 | 5,5 |
-| Posesión media % | 48 | 47 | 49 | 47 |
-| Córners a favor | 5,8 | 6,7 | 5,7 | 4,7 |
-| Córners en contra | 5,9 | 4,7 | 5,4 | 5,5 |
-| Córners a favor 1ª parte | 2,9 | 4,2 | 1,8 | 1,7 |
-| Córners a favor 2ª parte | 2,9 | 2,5 | 3,8 | 3,0 |
-| Córners totales del partido | 11,8 | 11,3 | 11,1 | 10,2 |
-| Córners totales 1ª parte | 5,6 | 5,0 | 4,1 | 3,8 |
-| Córners totales 2ª parte | 6,2 | 6,3 | 7,0 | 6,3 |
-| Más de 8,5 córners | 83% | 83% | 92% | 83% |
-| Más de 9,5 córners | 75% | 83% | 75% | 67% |
-| Más de 10,5 córners | 67% | 83% | 58% | 50% |
-| Faltas cometidas | 12,6 | 13,2 | 13,0 | 14,3 |
-| Faltas recibidas | 10,1 | 12,5 | 8,8 | 8,7 |
-| Amarillas propias | 2,0 | 2,2 | 2,2 | 2,3 |
-| Amarillas del rival | 2,2 | 2,5 | 1,6 | 1,5 |
-| Rojas / partido | 0,08 | 0,17 | 0,08 | 0,17 |
+| Partidos analizados | 15 | 7 | 13 | 6 |
+| Forma (últimos 5) | DEDVE | EDEDV | EDDEE | EDEDV |
+| Balance | 5V 4E 6D | 2V 2E 3D | 1V 4E 8D | 1V 2E 3D |
+| Goles a favor / partido | 1,40 | 1,57 | 0,85 | 1,00 |
+| Goles en contra / partido | 1,47 | 1,29 | 1,77 | 1,83 |
+| Goles a favor 1ª parte | 0,67 | 0,57 | 0,54 | 0,50 |
+| Goles a favor 2ª parte | 0,73 | 1,00 | 0,31 | 0,50 |
+| Goles en contra 1ª parte | 0,47 | 0,43 | 1,00 | 0,83 |
+| Goles en contra 2ª parte | 1,00 | 0,86 | 0,77 | 1,00 |
+| Más de 1,5 goles | 73% | 71% | 85% | 100% |
+| Más de 2,5 goles | 60% | 71% | 54% | 50% |
+| Más de 3,5 goles | 40% | 43% | 15% | 17% |
+| Ambos marcan | 47% | 29% | 62% | 67% |
+| Portería a cero | 33% | 29% | 8% | 17% |
+| Se queda sin marcar | 20% | 43% | 31% | 17% |
+| xG a favor | 1,78 | 1,86 | 0,98 | 0,90 |
+| xG en contra | 1,26 | 1,22 | 1,72 | 1,69 |
+| Tiros / partido | 12,7 | 12,7 | 12,2 | 11,7 |
+| Tiros a puerta / partido | 3,7 | 4,4 | 3,8 | 4,2 |
+| Tiros recibidos | 13,3 | 13,3 | 15,0 | 15,7 |
+| Tiros a puerta recibidos | 3,4 | 3,7 | 5,6 | 5,5 |
+| Posesión media % | 48 | 46 | 51 | 47 |
+| Córners a favor | 4,9 | 5,9 | 5,5 | 4,7 |
+| Córners en contra | 6,4 | 6,1 | 5,5 | 5,5 |
+| Córners a favor 1ª parte | 2,5 | 3,7 | 1,8 | 1,7 |
+| Córners a favor 2ª parte | 2,4 | 2,1 | 3,6 | 3,0 |
+| Córners totales del partido | 11,3 | 12,0 | 10,9 | 10,2 |
+| Córners totales 1ª parte | 5,2 | 5,6 | 4,1 | 3,8 |
+| Córners totales 2ª parte | 6,1 | 6,4 | 6,8 | 6,3 |
+| Más de 8,5 córners | 73% | 86% | 92% | 83% |
+| Más de 9,5 córners | 67% | 86% | 69% | 67% |
+| Más de 10,5 córners | 60% | 86% | 54% | 50% |
+| Faltas cometidas | 12,9 | 13,4 | 12,9 | 14,3 |
+| Faltas recibidas | 10,0 | 12,4 | 9,1 | 8,7 |
+| Amarillas propias | 1,7 | 2,1 | 2,2 | 2,3 |
+| Amarillas del rival | 1,9 | 2,3 | 1,6 | 1,5 |
+| Rojas / partido | 0,07 | 0,14 | 0,08 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Millwall | Recibe Millwall | Tarjetas Millwall | Goles Derby | Recibe Derby | Tarjetas Derby |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 1 | 2 | 1 | 2 | 2 |
-| 16-30' | 2 | 3 | 4 | 3 | 4 | 4 |
-| 31-45' | 4 | 3 | 6 | 2 | 5 | 1 |
-| 46-60' | 3 | 4 | 3 | 1 | 1 | 7 |
-| 61-75' | 1 | 4 | 2 | 1 | 3 | 4 |
-| 76-90' | 6 | 5 | 7 | 2 | 6 | 11 |
+| 1-15' | 4 | 1 | 2 | 1 | 3 | 2 |
+| 16-30' | 2 | 3 | 4 | 3 | 5 | 4 |
+| 31-45' | 4 | 3 | 6 | 3 | 5 | 2 |
+| 46-60' | 4 | 4 | 3 | 1 | 1 | 7 |
+| 61-75' | 1 | 4 | 3 | 1 | 3 | 4 |
+| 76-90' | 6 | 7 | 8 | 2 | 6 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -134,26 +134,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Millwall
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Taylor | D | 12 | 1080 | 2 | 1 | 10 | 0,8 | 4 | 0,3 | 6 | 7 | 0,6 | 0 | 0 |
-| J. Cooper | D | 12 | 1072 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 18 | 9 | 0,8 | 2 | 0 |
-| Zak Norton Sturge | D | 12 | 1047 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 18 | 13 | 1,1 | 3 | 0 |
-| C. Neghli | M | 12 | 1036 | 3 | 2 | 17 | 1,4 | 7 | 0,6 | 9 | 4 | 0,3 | 1 | 0 |
-| Jenson Metcalfe | M | 12 | 931 | 1 | 2 | 9 | 0,8 | 2 | 0,2 | 24 | 20 | 1,7 | 4 | 1 |
-| L. Dykes | F | 12 | 789 | 4 | 1 | 17 | 1,4 | 6 | 0,5 | 15 | 4 | 0,3 | 2 | 0 |
+| J. Cooper | D | 15 | 1347 | 2 | 1 | 10 | 0,7 | 3 | 0,2 | 19 | 13 | 0,9 | 2 | 0 |
+| C. Taylor | D | 14 | 1265 | 2 | 1 | 13 | 0,9 | 5 | 0,4 | 6 | 7 | 0,5 | 0 | 0 |
+| C. Neghli | M | 15 | 1247 | 3 | 2 | 18 | 1,2 | 7 | 0,5 | 11 | 6 | 0,4 | 1 | 0 |
+| Zak Norton Sturge | D | 14 | 1162 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 18 | 13 | 0,9 | 3 | 0 |
+| Jenson Metcalfe | M | 15 | 1132 | 1 | 2 | 10 | 0,7 | 2 | 0,1 | 30 | 25 | 1,7 | 5 | 1 |
+| L. Dykes | F | 14 | 966 | 4 | 1 | 20 | 1,4 | 7 | 0,5 | 17 | 6 | 0,4 | 2 | 0 |
 | D. Mazou-Sacko | M | 9 | 696 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 18 | 7 | 0,8 | 3 | 0 |
-| M. Sykes | M | 10 | 640 | 1 | 0 | 8 | 0,8 | 4 | 0,4 | 2 | 5 | 0,5 | 2 | 0 |
-| Tairyk Arconte | F | 8 | 591 | 3 | 0 | 10 | 1,2 | 4 | 0,5 | 2 | 10 | 1,2 | 0 | 0 |
-| M. Crocombe | G | 7 | 585 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| K. Lisbie | M | 8 | 488 | 1 | 0 | 15 | 1,9 | 5 | 0,6 | 5 | 10 | 1,2 | 2 | 0 |
-| Jordi Osei-Tutu | D | 7 | 394 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 3 | 6 | 0,9 | 0 | 0 |
-| F. Marschall | G | 4 | 315 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Casper De Norre | M | 4 | 309 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
-| Josh Coburn | F | 4 | 304 | 2 | 0 | 7 | 1,8 | 5 | 1,2 | 5 | 7 | 1,8 | 1 | 0 |
-| L. Cundle | M | 9 | 249 | 1 | 1 | 3 | 0,3 | 2 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| T. Crama | D | 4 | 197 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,5 | 2 | 0 |
-| R. Leonard | D | 4 | 189 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
-| D. Kelly | M | 9 | 182 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,1 | 0 | 0 |
-| Lukas Jensen | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| M. Sykes | M | 12 | 685 | 1 | 0 | 8 | 0,7 | 4 | 0,3 | 2 | 5 | 0,4 | 2 | 0 |
+| M. Crocombe | G | 8 | 675 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Tairyk Arconte | F | 10 | 638 | 3 | 0 | 11 | 1,1 | 4 | 0,4 | 2 | 10 | 1,0 | 0 | 0 |
+| Jordi Osei-Tutu | D | 9 | 545 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 4 | 9 | 1,0 | 0 | 0 |
+| K. Lisbie | M | 9 | 507 | 1 | 0 | 15 | 1,7 | 5 | 0,6 | 5 | 10 | 1,1 | 2 | 0 |
+| L. Cundle | M | 11 | 415 | 2 | 1 | 5 | 0,5 | 4 | 0,4 | 2 | 0 | 0,0 | 0 | 0 |
+| F. Marschall | G | 5 | 405 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Casper De Norre | M | 5 | 404 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
+| Josh Coburn | F | 5 | 380 | 2 | 0 | 7 | 1,4 | 5 | 1,0 | 8 | 8 | 1,6 | 1 | 0 |
+| D. Kelly | M | 12 | 343 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 4 | 0,3 | 0 | 0 |
+| Elkan Baggott | D | 8 | 334 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 1 | 3 | 0,4 | 0 | 0 |
+| Lukas Jensen | G | 3 | 275 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| R. Leonard | D | 5 | 266 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,4 | 1 | 0 |
 
 ## Últimos partidos de Derby
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,63 +168,63 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Derby
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B. Clark | M | 12 | 1000 | 3 | 2 | 20 | 1,7 | 9 | 0,8 | 10 | 12 | 1,0 | 1 | 0 |
-| D. Sanderson | D | 11 | 921 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 10 | 4 | 0,4 | 2 | 1 |
-| S. Szmodics | M | 11 | 847 | 3 | 1 | 18 | 1,6 | 9 | 0,8 | 2 | 6 | 0,5 | 1 | 0 |
-| Sondre Langås | D | 10 | 822 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 3 | 0,3 | 4 | 0 |
-| J. Widell Zetterström | G | 8 | 720 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| B. Clark | M | 13 | 1095 | 3 | 2 | 20 | 1,5 | 9 | 0,7 | 13 | 12 | 0,9 | 1 | 0 |
+| D. Sanderson | D | 12 | 971 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 11 | 4 | 0,3 | 2 | 1 |
+| S. Szmodics | M | 12 | 927 | 4 | 1 | 20 | 1,7 | 11 | 0,9 | 2 | 8 | 0,7 | 1 | 0 |
+| Sondre Langås | D | 11 | 917 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 5 | 0,5 | 4 | 0 |
+| J. Widell Zetterström | G | 9 | 815 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Ward | D | 11 | 809 | 0 | 0 | 3 | 0,3 | 3 | 0,3 | 5 | 5 | 0,5 | 0 | 0 |
+| C. Morris | F | 9 | 780 | 1 | 1 | 10 | 1,1 | 4 | 0,4 | 10 | 9 | 1,0 | 0 | 0 |
+| Charlie Taylor | D | 9 | 774 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 7 | 0,8 | 1 | 0 |
 | R. Hedges | D | 11 | 717 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 6 | 10 | 0,9 | 1 | 0 |
 | Alex Mowatt | M | 9 | 716 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 11 | 8 | 0,9 | 3 | 0 |
-| J. Ward | D | 10 | 714 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 5 | 5 | 0,5 | 0 | 0 |
-| Charlie Taylor | D | 8 | 711 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 6 | 0,8 | 1 | 0 |
-| C. Morris | F | 8 | 685 | 1 | 1 | 8 | 1,0 | 3 | 0,4 | 10 | 7 | 0,9 | 0 | 0 |
 | D. Ozoh | M | 8 | 614 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 16 | 3 | 0,4 | 3 | 0 |
+| Lewis Travis | M | 6 | 452 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 13 | 10 | 1,7 | 3 | 0 |
+| O. Fraulo | M | 9 | 450 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 8 | 7 | 0,8 | 1 | 0 |
 | Mohammed Fuseini | M | 7 | 413 | 1 | 1 | 5 | 0,7 | 3 | 0,4 | 8 | 12 | 1,7 | 2 | 0 |
-| O. Fraulo | M | 8 | 387 | 0 | 1 | 3 | 0,4 | 2 | 0,2 | 7 | 6 | 0,8 | 1 | 0 |
 | Josh Vickers | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Lewis Travis | M | 5 | 357 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 11 | 7 | 1,4 | 2 | 0 |
 | R. Nyambe | D | 6 | 347 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | R. Brewster | M | 9 | 308 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 2 | 1 | 0,1 | 1 | 0 |
 | H. Meister | M | 7 | 296 | 0 | 0 | 9 | 1,3 | 3 | 0,4 | 16 | 2 | 0,3 | 1 | 0 |
-| L. Salvesen | F | 11 | 262 | 2 | 0 | 12 | 1,1 | 6 | 0,5 | 9 | 1 | 0,1 | 0 | 0 |
-| M. Johnston | D | 6 | 195 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| L. Salvesen | F | 12 | 277 | 2 | 0 | 12 | 1,0 | 6 | 0,5 | 10 | 1 | 0,1 | 0 | 0 |
+| Corey Blackett-Taylor | F | 9 | 248 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,6 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,21 · visitante 0,85 · córners esperados 10,4._
+_Goles esperados: local 1,99 · visitante 0,78 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 20% | 16% | 4.75 | -23% |
-| 1X2: X | 19% | 25% | 22% | 3.70 | -19% |
-| 1X2: 1 | 68% | 55% | 62% | 1.67 | +3% |
-| Doble oportunidad: X2 | 32% | 46% | 39% | 2.10 | -19% |
-| Doble oportunidad: 12 | 81% | 75% | 78% | 1.28 | -0% |
-| Doble oportunidad: 1X | 87% | 80% | 83% | 1.20 | -0% |
-| Ambos marcan: No | 49% | 49% | 49% | 1.91 | -7% |
-| Ambos marcan: Sí | 51% | 51% | 51% | 1.80 | -8% |
-| Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
-| Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +1% |
-| Goles más/menos: Más de 3.5 | 37% | 30% | 33% | 3.20 | +6% |
-| Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -12% |
-| Goles más/menos: Menos de 3.5 | 63% | 70% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
-| Goles del local: Más de 2.5 | 38% | 28% | 33% | 3.40 | +12% |
-| Goles del local: Menos de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
-| Goles del local: Menos de 2.5 | 62% | 72% | 67% | 1.30 | -13% |
-| Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -12% |
-| Goles del visitante: Más de 1.5 | 21% | 28% | 24% | 3.40 | -17% |
-| Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 1.5 | 79% | 72% | 76% | 1.30 | -2% |
-| Córners más/menos: Más de 10.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Córners más/menos: Menos de 10.5 | 55% | 46% | 51% | 2.00 | +2% |
-| 1X2 descanso: X | 37% | 40% | 39% | 2.30 | -11% |
-| 1X2 descanso: 1 | 49% | 41% | 45% | 2.25 | +2% |
+| 1X2: 2 | 14% | 20% | 17% | 4.75 | -21% |
+| 1X2: X | 20% | 25% | 23% | 3.70 | -16% |
+| 1X2: 1 | 66% | 55% | 61% | 1.67 | +1% |
+| Doble oportunidad: X2 | 34% | 46% | 40% | 2.10 | -16% |
+| Doble oportunidad: 12 | 80% | 75% | 77% | 1.28 | -1% |
+| Doble oportunidad: 1X | 86% | 80% | 83% | 1.20 | -0% |
+| Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
+| Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
+| Goles más/menos: Más de 1.5 | 77% | 76% | 76% | 1.25 | -5% |
+| Goles más/menos: Más de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
+| Goles más/menos: Más de 3.5 | 30% | 30% | 30% | 3.20 | -4% |
+| Goles más/menos: Menos de 1.5 | 23% | 24% | 24% | 4.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -5% |
+| Goles más/menos: Menos de 3.5 | 70% | 70% | 70% | 1.36 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del local: Más de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
+| Goles del local: Más de 2.5 | 32% | 28% | 30% | 3.40 | +2% |
+| Goles del local: Menos de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Goles del local: Menos de 2.5 | 68% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 0.5 | 54% | 65% | 59% | 1.44 | -14% |
+| Goles del visitante: Más de 1.5 | 19% | 28% | 23% | 3.40 | -22% |
+| Goles del visitante: Menos de 0.5 | 46% | 35% | 41% | 2.62 | +6% |
+| Goles del visitante: Menos de 1.5 | 81% | 72% | 77% | 1.30 | -0% |
+| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +2% |
+| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 47% | 41% | 44% | 2.25 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

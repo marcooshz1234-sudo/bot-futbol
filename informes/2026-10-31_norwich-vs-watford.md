@@ -1,7 +1,7 @@
 # Norwich – Watford
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -59,53 +59,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Norwich (total) | Norwich en casa | Watford (total) | Watford fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 15 | 7 | 14 | 6 |
 | Forma (últimos 5) | VDDDD | DDDVV | DVDDD | DDDDD |
-| Balance | 4V 0E 8D | 2V 0E 4D | 3V 2E 7D | 0V 1E 5D |
-| Goles a favor / partido | 1,67 | 1,67 | 0,83 | 0,33 |
-| Goles en contra / partido | 1,83 | 1,67 | 1,67 | 1,83 |
-| Goles a favor 1ª parte | 1,00 | 1,17 | 0,33 | 0,17 |
-| Goles a favor 2ª parte | 0,67 | 0,50 | 0,50 | 0,17 |
-| Goles en contra 1ª parte | 0,83 | 0,50 | 1,33 | 1,67 |
-| Goles en contra 2ª parte | 1,00 | 1,17 | 0,33 | 0,17 |
-| Más de 1,5 goles | 75% | 67% | 75% | 50% |
-| Más de 2,5 goles | 75% | 67% | 42% | 17% |
-| Más de 3,5 goles | 42% | 33% | 17% | 17% |
-| Ambos marcan | 67% | 67% | 50% | 33% |
-| Portería a cero | 0% | 0% | 8% | 0% |
-| Se queda sin marcar | 33% | 33% | 42% | 67% |
+| Balance | 6V 0E 9D | 3V 0E 4D | 4V 2E 8D | 0V 1E 5D |
+| Goles a favor / partido | 1,73 | 2,00 | 0,86 | 0,33 |
+| Goles en contra / partido | 1,93 | 1,57 | 1,79 | 1,83 |
+| Goles a favor 1ª parte | 1,07 | 1,43 | 0,29 | 0,17 |
+| Goles a favor 2ª parte | 0,67 | 0,57 | 0,57 | 0,17 |
+| Goles en contra 1ª parte | 0,80 | 0,43 | 1,29 | 1,67 |
+| Goles en contra 2ª parte | 1,13 | 1,14 | 0,50 | 0,17 |
+| Más de 1,5 goles | 80% | 71% | 71% | 50% |
+| Más de 2,5 goles | 80% | 71% | 43% | 17% |
+| Más de 3,5 goles | 47% | 43% | 21% | 17% |
+| Ambos marcan | 67% | 71% | 50% | 33% |
+| Portería a cero | 0% | 0% | 14% | 0% |
+| Se queda sin marcar | 33% | 29% | 36% | 67% |
 | xG a favor | 1,52 | 1,42 | 1,04 | 0,82 |
 | xG en contra | 1,58 | 1,55 | 1,89 | 2,15 |
-| Tiros / partido | 14,1 | 14,3 | 12,2 | 9,7 |
-| Tiros a puerta / partido | 5,0 | 4,8 | 4,0 | 2,8 |
-| Tiros recibidos | 12,2 | 12,0 | 16,6 | 17,0 |
-| Tiros a puerta recibidos | 4,3 | 3,7 | 5,1 | 5,7 |
-| Posesión media % | 53 | 51 | 46 | 45 |
-| Córners a favor | 4,4 | 4,5 | 3,5 | 3,0 |
-| Córners en contra | 3,9 | 3,3 | 6,5 | 7,0 |
-| Córners a favor 1ª parte | 1,5 | 1,3 | 1,3 | 1,3 |
-| Córners a favor 2ª parte | 2,9 | 3,2 | 2,2 | 1,7 |
-| Córners totales del partido | 8,3 | 7,8 | 10,0 | 10,0 |
-| Córners totales 1ª parte | 3,1 | 2,7 | 4,2 | 4,7 |
-| Córners totales 2ª parte | 5,2 | 5,2 | 5,8 | 5,3 |
-| Más de 8,5 córners | 42% | 33% | 50% | 50% |
-| Más de 9,5 córners | 42% | 33% | 42% | 33% |
-| Más de 10,5 córners | 25% | 17% | 42% | 33% |
-| Faltas cometidas | 11,2 | 13,0 | 11,2 | 12,3 |
-| Faltas recibidas | 11,8 | 10,2 | 11,2 | 12,0 |
-| Amarillas propias | 2,2 | 2,5 | 2,8 | 3,2 |
-| Amarillas del rival | 1,9 | 1,8 | 2,2 | 2,3 |
-| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
+| Tiros / partido | 14,0 | 15,9 | 14,3 | 9,7 |
+| Tiros a puerta / partido | 4,7 | 5,1 | 4,6 | 2,8 |
+| Tiros recibidos | 11,9 | 11,4 | 16,2 | 17,0 |
+| Tiros a puerta recibidos | 4,4 | 3,9 | 5,3 | 5,7 |
+| Posesión media % | 51 | 53 | 48 | 45 |
+| Córners a favor | 4,4 | 4,9 | 4,0 | 3,0 |
+| Córners en contra | 3,8 | 3,3 | 5,8 | 7,0 |
+| Córners a favor 1ª parte | 1,4 | 1,3 | 1,9 | 1,3 |
+| Córners a favor 2ª parte | 3,0 | 3,6 | 2,1 | 1,7 |
+| Córners totales del partido | 8,2 | 8,1 | 9,8 | 10,0 |
+| Córners totales 1ª parte | 3,0 | 2,6 | 4,5 | 4,7 |
+| Córners totales 2ª parte | 5,2 | 5,6 | 5,3 | 5,3 |
+| Más de 8,5 córners | 40% | 43% | 50% | 50% |
+| Más de 9,5 córners | 40% | 43% | 43% | 33% |
+| Más de 10,5 córners | 20% | 14% | 43% | 33% |
+| Faltas cometidas | 11,1 | 12,7 | 10,9 | 12,3 |
+| Faltas recibidas | 11,7 | 10,6 | 11,2 | 12,0 |
+| Amarillas propias | 2,2 | 2,7 | 2,5 | 3,2 |
+| Amarillas del rival | 1,8 | 1,7 | 2,2 | 2,3 |
+| Rojas / partido | 0,07 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Norwich | Recibe Norwich | Tarjetas Norwich | Goles Watford | Recibe Watford | Tarjetas Watford |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 5 | 1 | 2 | 4 | 4 |
-| 16-30' | 4 | 3 | 5 | 2 | 5 | 7 |
-| 31-45' | 3 | 2 | 4 | 0 | 7 | 3 |
-| 46-60' | 1 | 6 | 4 | 1 | 2 | 4 |
-| 61-75' | 5 | 3 | 7 | 1 | 0 | 6 |
-| 76-90' | 2 | 3 | 8 | 4 | 2 | 9 |
+| 1-15' | 7 | 5 | 2 | 2 | 5 | 4 |
+| 16-30' | 5 | 4 | 7 | 2 | 6 | 8 |
+| 31-45' | 4 | 3 | 5 | 0 | 7 | 3 |
+| 46-60' | 2 | 9 | 6 | 1 | 4 | 4 |
+| 61-75' | 5 | 3 | 7 | 2 | 1 | 7 |
+| 76-90' | 3 | 5 | 8 | 5 | 2 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -128,31 +128,31 @@ _Sin bajas comunicadas por ahora._
 | 2026-10-14 | Championship | Norwich 0-1 Southampton | casa | 5-3 | 12 (4) - 15 (4) | 2-2 |
 | 2026-10-10 | Championship | Swansea 2-1 Norwich | fuera | 2-3 | 12 (5) - 12 (8) | 1-1 |
 | 2026-09-20 | Championship | Norwich 3-4 Bolton | casa | 4-2 | 10 (4) - 9 (5) | –-– |
-| 2026-09-12 | Championship | Middlesbrough 4-3 Norwich | fuera | 5-3 | 13 (5) - 17 (6) | 1-2 |
+| 2026-09-17 | Carabao Cup | Manchester City 5-0 Norwich | fuera | 3-2 | 4 (0) - 14 (6) | 1-0 |
 
 ## Jugadores de Norwich
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Mattsson | M | 12 | 966 | 0 | 1 | 7 | 0,6 | 3 | 0,2 | 26 | 19 | 1,6 | 1 | 0 |
-| J. Córdoba | D | 11 | 964 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 12 | 7 | 0,6 | 5 | 1 |
-| Ruairi McConville | D | 11 | 920 | 1 | 1 | 8 | 0,7 | 3 | 0,3 | 3 | 5 | 0,5 | 2 | 0 |
-| B. Chrisene | D | 11 | 888 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 6 | 12 | 1,1 | 1 | 0 |
-| A. Brooks | M | 12 | 874 | 2 | 2 | 19 | 1,6 | 8 | 0,7 | 11 | 7 | 0,6 | 1 | 0 |
-| Vladan Kovačević | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| J. Stacey | D | 10 | 778 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 7 | 0,7 | 2 | 0 |
-| K. McLean | M | 9 | 755 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 7 | 14 | 1,6 | 1 | 0 |
-| O. Schwartau | M | 11 | 689 | 1 | 2 | 11 | 1,0 | 3 | 0,3 | 3 | 9 | 0,8 | 2 | 0 |
-| Jacob Wright | M | 11 | 496 | 2 | 1 | 11 | 1,0 | 7 | 0,6 | 6 | 4 | 0,4 | 1 | 0 |
-| Mohamed Touré | F | 7 | 456 | 5 | 0 | 10 | 1,4 | 6 | 0,9 | 5 | 4 | 0,6 | 1 | 0 |
-| A. Ben Slimane | M | 9 | 441 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 6 | 4 | 0,4 | 1 | 0 |
-| A. Musaba | F | 10 | 440 | 1 | 1 | 11 | 1,1 | 7 | 0,7 | 4 | 5 | 0,5 | 0 | 0 |
-| M. Kvistgaarden | F | 9 | 372 | 3 | 2 | 9 | 1,0 | 5 | 0,6 | 8 | 7 | 0,8 | 2 | 0 |
-| P. Maghoma | M | 7 | 309 | 1 | 2 | 4 | 0,6 | 1 | 0,1 | 3 | 4 | 0,6 | 1 | 0 |
-| Kellen Fisher | D | 4 | 302 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 5 | 8 | 2,0 | 1 | 0 |
-| H. Darling | D | 5 | 281 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 5 | 2 | 0,4 | 1 | 0 |
+| P. Mattsson | M | 14 | 1155 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 35 | 21 | 1,5 | 2 | 0 |
+| J. Córdoba | D | 12 | 1063 | 0 | 1 | 4 | 0,3 | 1 | 0,1 | 13 | 10 | 0,8 | 6 | 1 |
+| Ruairi McConville | D | 13 | 1029 | 1 | 1 | 8 | 0,6 | 3 | 0,2 | 3 | 5 | 0,4 | 2 | 0 |
+| B. Chrisene | D | 12 | 987 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 6 | 13 | 1,1 | 1 | 0 |
+| A. Brooks | M | 14 | 981 | 3 | 3 | 20 | 1,4 | 9 | 0,6 | 12 | 7 | 0,5 | 2 | 0 |
+| J. Stacey | D | 12 | 967 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 9 | 8 | 0,7 | 3 | 0 |
+| Vladan Kovačević | G | 10 | 909 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
+| K. McLean | M | 10 | 854 | 0 | 1 | 7 | 0,7 | 3 | 0,3 | 8 | 14 | 1,4 | 2 | 0 |
+| O. Schwartau | M | 14 | 809 | 1 | 2 | 12 | 0,9 | 4 | 0,3 | 4 | 12 | 0,9 | 2 | 0 |
+| Jacob Wright | M | 14 | 714 | 2 | 2 | 14 | 1,0 | 7 | 0,5 | 8 | 6 | 0,4 | 1 | 0 |
+| A. Ben Slimane | M | 12 | 618 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 8 | 6 | 0,5 | 1 | 0 |
+| Mohamed Touré | F | 9 | 536 | 6 | 1 | 13 | 1,4 | 8 | 0,9 | 6 | 5 | 0,6 | 1 | 0 |
+| M. Kvistgaarden | F | 12 | 534 | 4 | 2 | 10 | 0,8 | 6 | 0,5 | 12 | 13 | 1,1 | 2 | 0 |
+| A. Musaba | F | 12 | 513 | 1 | 1 | 12 | 1,0 | 7 | 0,6 | 4 | 5 | 0,4 | 0 | 0 |
+| H. Darling | D | 8 | 490 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 5 | 4 | 0,5 | 1 | 0 |
+| D. Grimshaw | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| K. Fisher | D | 6 | 421 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 7 | 9 | 1,5 | 2 | 0 |
+| P. Maghoma | M | 9 | 391 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 4 | 7 | 0,8 | 1 | 0 |
+| D. Yongwa | D | 6 | 344 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 8 | 6 | 1,0 | 1 | 0 |
 | J. Makama | F | 7 | 276 | 1 | 0 | 6 | 0,9 | 1 | 0,1 | 8 | 4 | 0,6 | 1 | 0 |
-| D. Grimshaw | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| D. Yongwa | D | 4 | 193 | 0 | 0 | 2 | 0,5 | 2 | 0,5 | 5 | 3 | 0,8 | 1 | 0 |
 
 ## Últimos partidos de Watford
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -167,63 +167,63 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Watford
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Pollock | D | 12 | 1080 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 12 | 6 | 0,5 | 2 | 0 |
-| H. Kyprianou | M | 12 | 1080 | 1 | 0 | 7 | 0,6 | 3 | 0,2 | 15 | 14 | 1,2 | 4 | 0 |
-| F. Ravaglia | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
-| K. Keben | D | 11 | 990 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 9 | 3 | 0,3 | 2 | 0 |
-| Iker Bravo | M | 12 | 842 | 1 | 2 | 10 | 0,8 | 7 | 0,6 | 8 | 20 | 1,7 | 4 | 0 |
-| E. Kayembe | M | 12 | 826 | 1 | 1 | 12 | 1,0 | 4 | 0,3 | 11 | 10 | 0,8 | 3 | 0 |
-| M. Doumbia | F | 12 | 624 | 1 | 0 | 10 | 0,8 | 6 | 0,5 | 16 | 0 | 0,0 | 2 | 0 |
-| O. Maamma | F | 11 | 623 | 0 | 0 | 8 | 0,7 | 2 | 0,2 | 7 | 10 | 0,9 | 2 | 0 |
+| H. Kyprianou | M | 14 | 1215 | 1 | 0 | 9 | 0,6 | 4 | 0,3 | 16 | 15 | 1,1 | 4 | 0 |
+| M. Pollock | D | 13 | 1182 | 0 | 0 | 5 | 0,4 | 3 | 0,2 | 14 | 7 | 0,5 | 2 | 0 |
+| F. Ravaglia | G | 13 | 1182 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,4 | 0 | 0 |
+| K. Keben | D | 13 | 1137 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 10 | 5 | 0,4 | 2 | 0 |
+| E. Kayembe | M | 14 | 950 | 1 | 1 | 14 | 1,0 | 5 | 0,4 | 13 | 12 | 0,9 | 3 | 0 |
+| Iker Bravo | M | 13 | 911 | 1 | 2 | 13 | 1,0 | 8 | 0,6 | 8 | 24 | 1,8 | 5 | 0 |
+| M. Doumbia | F | 14 | 748 | 2 | 0 | 17 | 1,2 | 10 | 0,7 | 17 | 2 | 0,1 | 2 | 0 |
+| O. Maamma | F | 13 | 724 | 0 | 0 | 10 | 0,8 | 4 | 0,3 | 8 | 11 | 0,8 | 2 | 0 |
+| Omar Haktab Traore | D | 9 | 646 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 8 | 4 | 0,4 | 1 | 0 |
 | J. Zemura | D | 11 | 606 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 11 | 8 | 0,7 | 3 | 0 |
-| Omar Haktab Traore | D | 8 | 544 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 2 | 0,2 | 1 | 0 |
-| L. Kjerrumgaard | F | 10 | 526 | 2 | 0 | 8 | 0,8 | 3 | 0,3 | 6 | 5 | 0,5 | 0 | 0 |
-| Amin Nabizada | F | 10 | 489 | 3 | 0 | 7 | 0,7 | 6 | 0,6 | 8 | 6 | 0,6 | 4 | 0 |
-| M. Payero | M | 9 | 357 | 0 | 0 | 9 | 1,0 | 3 | 0,3 | 7 | 7 | 0,8 | 3 | 0 |
-| Edoardo Bove | M | 5 | 353 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 7 | 1,4 | 1 | 0 |
+| L. Kjerrumgaard | F | 11 | 594 | 2 | 0 | 12 | 1,1 | 4 | 0,4 | 6 | 5 | 0,5 | 0 | 0 |
+| Amin Nabizada | F | 12 | 591 | 3 | 1 | 9 | 0,8 | 7 | 0,6 | 10 | 6 | 0,5 | 4 | 0 |
+| M. Payero | M | 11 | 456 | 0 | 0 | 14 | 1,3 | 3 | 0,3 | 9 | 8 | 0,7 | 3 | 0 |
+| Edoardo Bove | M | 7 | 445 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 7 | 8 | 1,1 | 2 | 0 |
 | S. Coulibaly | D | 5 | 346 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 2 | 6 | 1,2 | 0 | 0 |
+| R. Vata | F | 12 | 317 | 0 | 1 | 12 | 1,0 | 5 | 0,4 | 3 | 3 | 0,2 | 0 | 0 |
 | Branimir Mlačić | D | 5 | 315 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,4 | 1 | 0 |
-| R. Vata | F | 10 | 247 | 0 | 1 | 8 | 0,8 | 3 | 0,3 | 3 | 3 | 0,3 | 0 | 0 |
+| M. Bola | D | 5 | 297 | 1 | 0 | 6 | 1,2 | 2 | 0,4 | 0 | 1 | 0,2 | 0 | 0 |
 | M. Boadu | F | 5 | 244 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 2 | 6 | 1,2 | 1 | 0 |
-| Stephy Mavididi | M | 5 | 210 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 4 | 0,8 | 0 | 0 |
-| M. Bola | D | 4 | 195 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
+| Albert Eames | D | 4 | 223 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,18 · visitante 1,00 · córners esperados 9,2._
+_Goles esperados: local 2,21 · visitante 0,98 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 19% | 18% | 4.75 | -16% |
-| 1X2: X | 19% | 23% | 21% | 3.90 | -16% |
-| 1X2: 1 | 64% | 57% | 61% | 1.60 | -3% |
-| Doble oportunidad: X2 | 36% | 40% | 38% | 2.38 | -10% |
-| Doble oportunidad: 12 | 81% | 78% | 79% | 1.22 | -3% |
-| Doble oportunidad: 1X | 84% | 82% | 83% | 1.17 | -3% |
+| 1X2: 2 | 15% | 19% | 17% | 4.75 | -17% |
+| 1X2: X | 19% | 23% | 21% | 3.90 | -17% |
+| 1X2: 1 | 65% | 57% | 61% | 1.60 | -2% |
+| Doble oportunidad: X2 | 35% | 40% | 37% | 2.38 | -11% |
+| Doble oportunidad: 12 | 81% | 78% | 80% | 1.22 | -3% |
+| Doble oportunidad: 1X | 85% | 82% | 83% | 1.17 | -3% |
 | Ambos marcan: No | 44% | 41% | 43% | 2.25 | -4% |
 | Ambos marcan: Sí | 56% | 59% | 57% | 1.57 | -10% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 39% | 40% | 40% | 2.38 | -6% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -6% |
+| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -6% |
+| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Menos de 3.5 | 61% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Goles del local: Más de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Goles del local: Más de 2.5 | 37% | 38% | 37% | 2.50 | -6% |
-| Goles del local: Menos de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles del local: Menos de 2.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del visitante: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del visitante: Más de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles del visitante: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles del visitante: Menos de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Córners más/menos: Más de 9.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 9.5 | 57% | 50% | 54% | 1.83 | -2% |
-| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
-| 1X2 descanso: 1 | 47% | 44% | 45% | 2.10 | -5% |
+| Goles del local: Más de 1.5 | 65% | 62% | 64% | 1.50 | -4% |
+| Goles del local: Más de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles del local: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles del local: Menos de 2.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Más de 0.5 | 62% | 65% | 64% | 1.44 | -9% |
+| Goles del visitante: Más de 1.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles del visitante: Menos de 0.5 | 38% | 35% | 36% | 2.62 | -4% |
+| Goles del visitante: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -1% |
+| 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -9% |
+| 1X2 descanso: 1 | 48% | 44% | 46% | 2.10 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

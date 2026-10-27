@@ -1,7 +1,7 @@
 # AD Ceuta FC – Sporting Gijon
 **Segunda División** · Regular Season - 12 · 01/11/2026 16:15 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 15:51_
@@ -157,25 +157,25 @@ _Sin bajas comunicadas por ahora._
 | Antonio Casas | F | 5 | 182 | 3 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 1,33 · córners esperados 9,5._
+_Goles esperados: local 1,13 · visitante 1,32 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 43% | 42% | 2.15 | -10% |
-| 1X2: X | 27% | 28% | 27% | 3.30 | -9% |
-| 1X2: 1 | 33% | 29% | 31% | 3.20 | -1% |
-| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
-| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 51% | 48% | 1.85 | -10% |
-| Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 54% | 49% | 52% | 1.95 | +1% |
-| Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
-| 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -13% |
-| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 26% | 26% | 26% | 3.60 | -8% |
+| 1X2: 2 | 41% | 43% | 42% | 2.15 | -9% |
+| 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
+| 1X2: 1 | 32% | 29% | 30% | 3.20 | -3% |
+| Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
+| Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -12% |
+| Goles más/menos: Más de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 2.5 | 44% | 51% | 48% | 1.85 | -12% |
+| Goles más/menos: Más de 3.5 | 23% | 31% | 27% | 3.00 | -18% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +3% |
+| Goles más/menos: Menos de 2.5 | 56% | 49% | 52% | 1.95 | +2% |
+| Goles más/menos: Menos de 3.5 | 77% | 69% | 73% | 1.36 | -1% |
+| 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -12% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
+| 1X2 descanso: 1 | 25% | 26% | 25% | 3.60 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

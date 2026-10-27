@@ -1,7 +1,7 @@
 # Lincoln – Birmingham
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -59,53 +59,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Lincoln (total) | Lincoln en casa | Birmingham (total) | Birmingham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 15 | 6 | 14 | 7 |
 | Forma (últimos 5) | VEDDD | VDDEE | DVVVE | DVVDV |
-| Balance | 4V 3E 5D | 1V 2E 3D | 5V 5E 2D | 3V 1E 2D |
-| Goles a favor / partido | 1,08 | 1,17 | 1,67 | 1,00 |
-| Goles en contra / partido | 1,67 | 2,17 | 1,00 | 0,83 |
-| Goles a favor 1ª parte | 0,50 | 0,50 | 0,83 | 0,50 |
-| Goles a favor 2ª parte | 0,58 | 0,67 | 0,83 | 0,50 |
-| Goles en contra 1ª parte | 0,50 | 0,83 | 0,75 | 0,67 |
-| Goles en contra 2ª parte | 1,17 | 1,33 | 0,25 | 0,17 |
-| Más de 1,5 goles | 67% | 83% | 75% | 50% |
-| Más de 2,5 goles | 58% | 67% | 67% | 50% |
-| Más de 3,5 goles | 33% | 50% | 33% | 0% |
-| Ambos marcan | 50% | 67% | 58% | 50% |
-| Portería a cero | 33% | 17% | 33% | 33% |
-| Se queda sin marcar | 25% | 33% | 17% | 33% |
-| xG a favor | 1,31 | 1,75 | 1,70 | 1,78 |
-| xG en contra | 1,46 | 1,46 | 1,33 | 1,21 |
-| Tiros / partido | 12,3 | 15,2 | 13,2 | 12,3 |
-| Tiros a puerta / partido | 3,1 | 3,5 | 4,6 | 4,5 |
-| Tiros recibidos | 15,7 | 14,5 | 12,2 | 12,5 |
-| Tiros a puerta recibidos | 5,3 | 5,5 | 3,7 | 3,5 |
-| Posesión media % | 37 | 38 | 52 | 46 |
-| Córners a favor | 3,5 | 4,0 | 5,5 | 6,2 |
-| Córners en contra | 7,9 | 5,5 | 4,4 | 5,2 |
-| Córners a favor 1ª parte | 1,8 | 2,0 | 2,5 | 3,5 |
-| Córners a favor 2ª parte | 1,7 | 2,0 | 3,0 | 2,7 |
-| Córners totales del partido | 11,4 | 9,5 | 9,9 | 11,3 |
-| Córners totales 1ª parte | 5,4 | 4,5 | 4,2 | 4,8 |
-| Córners totales 2ª parte | 6,0 | 5,0 | 5,7 | 6,5 |
-| Más de 8,5 córners | 75% | 67% | 67% | 83% |
-| Más de 9,5 córners | 75% | 67% | 50% | 67% |
-| Más de 10,5 córners | 58% | 50% | 33% | 50% |
-| Faltas cometidas | 12,8 | 12,0 | 12,8 | 13,0 |
-| Faltas recibidas | 11,4 | 11,7 | 10,1 | 9,7 |
-| Amarillas propias | 2,3 | 1,7 | 2,1 | 2,2 |
-| Amarillas del rival | 1,8 | 1,5 | 1,7 | 1,8 |
-| Rojas / partido | 0,25 | 0,33 | 0,00 | 0,00 |
+| Balance | 6V 3E 6D | 1V 2E 3D | 6V 5E 3D | 4V 1E 2D |
+| Goles a favor / partido | 1,27 | 1,17 | 1,57 | 1,00 |
+| Goles en contra / partido | 1,73 | 2,17 | 1,29 | 0,71 |
+| Goles a favor 1ª parte | 0,60 | 0,50 | 0,86 | 0,57 |
+| Goles a favor 2ª parte | 0,67 | 0,67 | 0,71 | 0,43 |
+| Goles en contra 1ª parte | 0,60 | 0,83 | 0,86 | 0,57 |
+| Goles en contra 2ª parte | 1,13 | 1,33 | 0,43 | 0,14 |
+| Más de 1,5 goles | 73% | 83% | 71% | 43% |
+| Más de 2,5 goles | 67% | 67% | 64% | 43% |
+| Más de 3,5 goles | 40% | 50% | 36% | 0% |
+| Ambos marcan | 53% | 67% | 57% | 43% |
+| Portería a cero | 27% | 17% | 36% | 43% |
+| Se queda sin marcar | 27% | 33% | 14% | 29% |
+| xG a favor | 1,31 | 1,75 | 1,61 | 1,78 |
+| xG en contra | 1,46 | 1,46 | 1,39 | 1,21 |
+| Tiros / partido | 11,9 | 15,2 | 12,3 | 11,4 |
+| Tiros a puerta / partido | 3,4 | 3,5 | 4,1 | 4,0 |
+| Tiros recibidos | 16,0 | 14,5 | 12,7 | 12,7 |
+| Tiros a puerta recibidos | 5,3 | 5,5 | 3,9 | 3,3 |
+| Posesión media % | 38 | 38 | 50 | 45 |
+| Córners a favor | 3,3 | 4,0 | 5,3 | 5,9 |
+| Córners en contra | 7,3 | 5,5 | 4,7 | 5,3 |
+| Córners a favor 1ª parte | 1,6 | 2,0 | 2,4 | 3,3 |
+| Córners a favor 2ª parte | 1,7 | 2,0 | 2,9 | 2,6 |
+| Córners totales del partido | 10,5 | 9,5 | 10,0 | 11,1 |
+| Córners totales 1ª parte | 5,0 | 4,5 | 4,3 | 4,9 |
+| Córners totales 2ª parte | 5,5 | 5,0 | 5,7 | 6,3 |
+| Más de 8,5 córners | 73% | 67% | 71% | 86% |
+| Más de 9,5 córners | 67% | 67% | 57% | 71% |
+| Más de 10,5 córners | 47% | 50% | 36% | 43% |
+| Faltas cometidas | 12,3 | 12,0 | 12,9 | 13,9 |
+| Faltas recibidas | 11,5 | 11,7 | 10,4 | 10,0 |
+| Amarillas propias | 2,3 | 1,7 | 1,9 | 1,9 |
+| Amarillas del rival | 1,8 | 1,5 | 1,6 | 1,9 |
+| Rojas / partido | 0,20 | 0,33 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lincoln | Recibe Lincoln | Tarjetas Lincoln | Goles Birmingham | Recibe Birmingham | Tarjetas Birmingham |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 3 | 1 | 1 | 1 |
-| 16-30' | 0 | 1 | 4 | 2 | 1 | 3 |
-| 31-45' | 4 | 4 | 7 | 7 | 7 | 4 |
-| 46-60' | 3 | 5 | 1 | 4 | 1 | 5 |
-| 61-75' | 2 | 4 | 8 | 3 | 0 | 3 |
-| 76-90' | 2 | 5 | 8 | 3 | 2 | 10 |
+| 1-15' | 3 | 2 | 3 | 1 | 2 | 1 |
+| 16-30' | 1 | 1 | 5 | 3 | 1 | 3 |
+| 31-45' | 5 | 6 | 9 | 8 | 9 | 5 |
+| 46-60' | 5 | 5 | 3 | 4 | 1 | 6 |
+| 61-75' | 2 | 5 | 9 | 3 | 2 | 3 |
+| 76-90' | 3 | 7 | 8 | 3 | 3 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -130,26 +130,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Lincoln
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Wickens | G | 12 | 1080 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
-| D. Elerewe | D | 12 | 1074 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 10 | 9 | 0,8 | 2 | 1 |
-| A. Reach | D | 11 | 920 | 1 | 0 | 9 | 0,8 | 2 | 0,2 | 5 | 8 | 0,7 | 0 | 0 |
-| C. McGrandles | M | 11 | 854 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 12 | 18 | 1,6 | 4 | 1 |
-| B. House | M | 10 | 795 | 2 | 2 | 13 | 1,3 | 5 | 0,5 | 18 | 17 | 1,7 | 4 | 0 |
-| F. Draper | F | 11 | 737 | 2 | 0 | 15 | 1,4 | 7 | 0,6 | 37 | 15 | 1,4 | 5 | 0 |
-| D. Jefferies | M | 9 | 662 | 1 | 0 | 8 | 0,9 | 3 | 0,3 | 8 | 5 | 0,6 | 1 | 0 |
-| S. Bradley | D | 8 | 658 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 9 | 1,1 | 0 | 0 |
-| R. Towler | D | 11 | 655 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,5 | 2 | 0 |
-| R. Hackett | M | 10 | 634 | 2 | 1 | 13 | 1,3 | 5 | 0,5 | 4 | 3 | 0,3 | 0 | 0 |
-| I. Varfolomeev | M | 10 | 618 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 6 | 0,6 | 2 | 0 |
-| R. Street | F | 12 | 546 | 1 | 0 | 8 | 0,7 | 2 | 0,2 | 7 | 11 | 0,9 | 1 | 0 |
-| A. Coubiș | D | 9 | 523 | 1 | 2 | 3 | 0,3 | 2 | 0,2 | 6 | 2 | 0,2 | 1 | 0 |
-| T. Bayliss | M | 10 | 368 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 4 | 0,4 | 2 | 0 |
-| C. Elder | D | 5 | 292 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
-| Y. Konak | M | 6 | 286 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 5 | 9 | 1,5 | 0 | 0 |
-| C. Ogbene | F | 7 | 207 | 0 | 0 | 5 | 0,7 | 3 | 0,4 | 1 | 3 | 0,4 | 0 | 0 |
-| D. Oyegoke | D | 5 | 202 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 0 | 0 |
-| T. Hamer | D | 4 | 194 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 1 |
-| M. Ladefoged | F | 6 | 175 | 3 | 0 | 10 | 1,7 | 4 | 0,7 | 1 | 2 | 0,3 | 0 | 0 |
+| D. Elerewe | D | 14 | 1186 | 0 | 0 | 9 | 0,6 | 1 | 0,1 | 13 | 9 | 0,6 | 2 | 1 |
+| G. Wickens | G | 13 | 1175 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
+| A. Reach | D | 12 | 1008 | 1 | 0 | 9 | 0,8 | 2 | 0,2 | 6 | 8 | 0,7 | 1 | 0 |
+| C. McGrandles | M | 12 | 949 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 12 | 22 | 1,8 | 4 | 1 |
+| B. House | M | 12 | 891 | 3 | 2 | 16 | 1,3 | 8 | 0,7 | 19 | 19 | 1,6 | 5 | 0 |
+| R. Towler | D | 14 | 863 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 8 | 5 | 0,4 | 2 | 0 |
+| F. Draper | F | 13 | 835 | 2 | 1 | 16 | 1,2 | 7 | 0,5 | 39 | 15 | 1,2 | 5 | 0 |
+| D. Jefferies | M | 12 | 828 | 2 | 0 | 10 | 0,8 | 4 | 0,3 | 9 | 5 | 0,4 | 2 | 0 |
+| R. Hackett | M | 13 | 759 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 4 | 3 | 0,2 | 0 | 0 |
+| I. Varfolomeev | M | 12 | 731 | 0 | 1 | 6 | 0,5 | 3 | 0,2 | 11 | 8 | 0,7 | 2 | 0 |
+| R. Street | F | 15 | 728 | 2 | 0 | 11 | 0,7 | 3 | 0,2 | 10 | 14 | 0,9 | 1 | 0 |
+| S. Bradley | D | 9 | 675 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 9 | 1,0 | 0 | 0 |
+| A. Coubiș | D | 11 | 645 | 1 | 2 | 3 | 0,3 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
+| T. Bayliss | M | 12 | 530 | 1 | 1 | 3 | 0,2 | 1 | 0,1 | 7 | 7 | 0,6 | 2 | 0 |
+| C. Elder | D | 8 | 462 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 5 | 3 | 0,4 | 2 | 0 |
+| Y. Konak | M | 8 | 444 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 15 | 1,9 | 0 | 0 |
+| C. Ogbene | F | 8 | 297 | 0 | 0 | 5 | 0,6 | 3 | 0,4 | 1 | 5 | 0,6 | 0 | 0 |
+| T. Hamer | D | 5 | 289 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 4 | 3 | 0,6 | 1 | 1 |
+| D. Oyegoke | D | 6 | 275 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
+| Tendayi Darikwa | D | 3 | 239 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Birmingham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -164,66 +164,66 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Birmingham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Klarer | D | 12 | 1080 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 21 | 6 | 0,5 | 3 | 0 |
-| P. Neumann | D | 12 | 1080 | 2 | 0 | 6 | 0,5 | 4 | 0,3 | 10 | 15 | 1,2 | 3 | 0 |
-| J. Beadle | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
-| T. Iwata | M | 12 | 1057 | 0 | 2 | 12 | 1,0 | 1 | 0,1 | 12 | 1 | 0,1 | 0 | 0 |
-| A. Cochrane | D | 12 | 1018 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 12 | 12 | 1,0 | 3 | 0 |
-| J. Stansfield | M | 12 | 1011 | 1 | 1 | 18 | 1,5 | 12 | 1,0 | 18 | 2 | 0,2 | 1 | 0 |
-| B. Osayi-Samuel | D | 12 | 994 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 13 | 16 | 1,3 | 4 | 0 |
-| August Priske | F | 10 | 815 | 4 | 1 | 19 | 1,9 | 9 | 0,9 | 16 | 10 | 1,0 | 1 | 0 |
-| Carlos Vicente | M | 12 | 798 | 2 | 0 | 11 | 0,9 | 4 | 0,3 | 10 | 14 | 1,2 | 3 | 0 |
-| J. Solis | M | 10 | 761 | 0 | 1 | 5 | 0,5 | 1 | 0,1 | 14 | 7 | 0,7 | 3 | 0 |
+| C. Klarer | D | 14 | 1266 | 0 | 0 | 6 | 0,4 | 1 | 0,1 | 22 | 7 | 0,5 | 3 | 0 |
+| P. Neumann | D | 14 | 1191 | 2 | 0 | 6 | 0,4 | 4 | 0,3 | 13 | 15 | 1,1 | 3 | 0 |
+| B. Osayi-Samuel | D | 14 | 1180 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 14 | 20 | 1,4 | 5 | 0 |
+| J. Beadle | G | 13 | 1176 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
+| T. Iwata | M | 14 | 1161 | 0 | 2 | 12 | 0,9 | 1 | 0,1 | 16 | 1 | 0,1 | 0 | 0 |
+| J. Stansfield | M | 14 | 1112 | 1 | 1 | 19 | 1,4 | 12 | 0,9 | 24 | 2 | 0,1 | 1 | 0 |
+| A. Cochrane | D | 14 | 1092 | 0 | 2 | 2 | 0,1 | 1 | 0,1 | 12 | 15 | 1,1 | 3 | 0 |
+| Carlos Vicente | M | 14 | 983 | 2 | 1 | 14 | 1,0 | 4 | 0,3 | 12 | 21 | 1,5 | 3 | 0 |
+| J. Solis | M | 12 | 947 | 0 | 1 | 6 | 0,5 | 1 | 0,1 | 16 | 7 | 0,6 | 4 | 0 |
+| August Priske | F | 12 | 916 | 5 | 1 | 20 | 1,7 | 10 | 0,8 | 20 | 13 | 1,1 | 1 | 0 |
 | L. Millar | M | 8 | 579 | 4 | 3 | 10 | 1,2 | 8 | 1,0 | 2 | 9 | 1,1 | 1 | 0 |
+| Seung Ho Paik | M | 10 | 531 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
 | P. Roberts | M | 9 | 418 | 0 | 3 | 3 | 0,3 | 1 | 0,1 | 6 | 7 | 0,8 | 1 | 0 |
-| Seung Ho Paik | M | 8 | 383 | 1 | 0 | 4 | 0,5 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
-| L. Vázquez | F | 10 | 214 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 5 | 3 | 0,3 | 2 | 0 |
-| D. Gray | F | 9 | 207 | 3 | 0 | 5 | 0,6 | 5 | 0,6 | 5 | 4 | 0,4 | 0 | 0 |
-| E. Laird | D | 8 | 120 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
+| D. Gray | F | 11 | 313 | 4 | 0 | 9 | 0,8 | 7 | 0,6 | 5 | 5 | 0,5 | 0 | 0 |
+| L. Vázquez | F | 12 | 299 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 6 | 5 | 0,4 | 2 | 0 |
+| E. Laird | D | 9 | 144 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 3 | 0,3 | 0 | 0 |
+| Kristoffer Lund | D | 3 | 133 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | M. Bird | M | 5 | 119 | 0 | 1 | 2 | 0,4 | 2 | 0,4 | 3 | 0 | 0,0 | 0 | 0 |
 | M. Ducksch | F | 7 | 105 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
-| Kristoffer Lund | D | 2 | 72 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Taylor Gardner-Hickman | M | 2 | 25 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 2 | 1,0 | 0 | 0 |
+| Dael Fry | D | 3 | 101 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,14 · visitante 1,54 · córners esperados 10,0._
+_Goles esperados: local 1,23 · visitante 1,55 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 45% | 45% | 2.05 | -7% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 | 28% | 29% | 28% | 3.20 | -9% |
-| Doble oportunidad: X2 | 72% | 71% | 71% | 1.36 | -3% |
+| 1X2: 2 | 45% | 45% | 45% | 2.05 | -9% |
+| 1X2: X | 25% | 27% | 26% | 3.40 | -12% |
+| 1X2: 1 | 30% | 29% | 29% | 3.20 | -6% |
+| Doble oportunidad: X2 | 70% | 71% | 70% | 1.36 | -5% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.30 | -3% |
-| Doble oportunidad: 1X | 54% | 56% | 55% | 1.73 | -6% |
-| Ambos marcan: No | 46% | 46% | 46% | 2.00 | -7% |
-| Ambos marcan: Sí | 54% | 54% | 54% | 1.73 | -7% |
-| Goles más/menos: Más de 1.5 | 75% | 73% | 74% | 1.30 | -4% |
-| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Más de 3.5 | 28% | 28% | 28% | 3.40 | -4% |
-| Goles más/menos: Menos de 1.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Menos de 3.5 | 72% | 72% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
+| Doble oportunidad: 1X | 55% | 56% | 55% | 1.73 | -4% |
+| Ambos marcan: No | 44% | 46% | 45% | 2.00 | -9% |
+| Ambos marcan: Sí | 56% | 54% | 55% | 1.73 | -5% |
+| Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.30 | -3% |
+| Goles más/menos: Más de 2.5 | 52% | 50% | 51% | 1.91 | -2% |
+| Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles más/menos: Menos de 2.5 | 48% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles del local: Más de 0.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del local: Más de 1.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles del local: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles del local: Menos de 1.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles del visitante: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del visitante: Más de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
-| Goles del visitante: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles del visitante: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -10% |
-| Goles del visitante: Menos de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
-| Goles del visitante: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Córners más/menos: Más de 9.5 | 49% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 9.5 | 51% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: 2 | 34% | 34% | 34% | 2.75 | -6% |
-| 1X2 descanso: X | 42% | 43% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles del visitante: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
+| Goles del visitante: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
+| Goles del visitante: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles del visitante: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
+| Goles del visitante: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
+| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
+| 1X2 descanso: 2 | 33% | 34% | 34% | 2.75 | -7% |
+| 1X2 descanso: X | 42% | 43% | 42% | 2.20 | -7% |
+| 1X2 descanso: 1 | 25% | 23% | 24% | 4.00 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

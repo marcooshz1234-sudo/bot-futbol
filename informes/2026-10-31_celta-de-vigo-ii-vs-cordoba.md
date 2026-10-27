@@ -1,7 +1,7 @@
 # Celta de Vigo II – Cordoba
 **Segunda División** · Regular Season - 12 · 31/10/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Nélson Monte | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 2,14 · córners esperados 9,5._
+_Goles esperados: local 1,75 · visitante 2,15 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

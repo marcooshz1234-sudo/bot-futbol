@@ -1,7 +1,7 @@
 # Arouca – Nacional
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Arouca (total) | Arouca en casa | Nacional (total) | Nacional fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 9 | 4 |
-| Forma (últimos 5) | VVEDE | VDVV | VDDDD | DDDE |
-| Balance | 5V 2E 2D | 3V 0E 1D | 2V 1E 6D | 0V 1E 3D |
-| Goles a favor / partido | 1,33 | 2,00 | 1,11 | 1,00 |
-| Goles en contra / partido | 0,78 | 0,75 | 2,00 | 2,00 |
-| Goles a favor 1ª parte | 0,67 | 1,25 | 0,56 | 0,75 |
-| Goles a favor 2ª parte | 0,67 | 0,75 | 0,56 | 0,25 |
-| Goles en contra 1ª parte | 0,56 | 0,75 | 1,33 | 1,25 |
-| Goles en contra 2ª parte | 0,22 | 0,00 | 0,67 | 0,75 |
-| Más de 1,5 goles | 56% | 75% | 78% | 75% |
-| Más de 2,5 goles | 44% | 75% | 56% | 50% |
-| Más de 3,5 goles | 22% | 25% | 56% | 50% |
-| Ambos marcan | 33% | 50% | 44% | 50% |
-| Portería a cero | 56% | 50% | 22% | 0% |
-| Se queda sin marcar | 22% | 0% | 33% | 50% |
+| Partidos analizados | 10 | 4 | 10 | 5 |
+| Forma (últimos 5) | VVVED | VDVV | VDDDD | DDDDE |
+| Balance | 6V 2E 2D | 3V 0E 1D | 2V 1E 7D | 0V 1E 4D |
+| Goles a favor / partido | 1,60 | 2,00 | 1,00 | 0,80 |
+| Goles en contra / partido | 1,00 | 0,75 | 1,90 | 1,80 |
+| Goles a favor 1ª parte | 0,70 | 1,25 | 0,50 | 0,60 |
+| Goles a favor 2ª parte | 0,90 | 0,75 | 0,50 | 0,20 |
+| Goles en contra 1ª parte | 0,50 | 0,75 | 1,20 | 1,00 |
+| Goles en contra 2ª parte | 0,50 | 0,00 | 0,70 | 0,80 |
+| Más de 1,5 goles | 60% | 75% | 70% | 60% |
+| Más de 2,5 goles | 50% | 75% | 50% | 40% |
+| Más de 3,5 goles | 30% | 25% | 50% | 40% |
+| Ambos marcan | 40% | 50% | 40% | 40% |
+| Portería a cero | 50% | 50% | 20% | 0% |
+| Se queda sin marcar | 20% | 0% | 40% | 60% |
 | xG a favor | 1,28 | 1,34 | 1,08 | 0,73 |
 | xG en contra | 1,28 | 0,94 | 1,87 | 2,38 |
 | Tiros / partido | 11,2 | 12,2 | 10,6 | 8,0 |
@@ -31,31 +31,31 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tiros recibidos | 13,9 | 10,0 | 15,2 | 18,0 |
 | Tiros a puerta recibidos | 4,1 | 3,0 | 5,8 | 6,8 |
 | Posesión media % | 51 | 51 | 48 | 44 |
-| Córners a favor | 3,1 | 4,2 | 4,3 | 3,8 |
-| Córners en contra | 5,1 | 3,5 | 4,9 | 7,0 |
-| Córners a favor 1ª parte | 1,8 | 2,5 | 2,1 | 2,2 |
-| Córners a favor 2ª parte | 1,3 | 1,8 | 2,2 | 1,5 |
-| Córners totales del partido | 8,2 | 7,8 | 9,2 | 10,8 |
-| Córners totales 1ª parte | 4,2 | 4,5 | 5,1 | 7,0 |
-| Córners totales 2ª parte | 4,0 | 3,2 | 4,1 | 3,8 |
-| Más de 8,5 córners | 33% | 25% | 56% | 50% |
-| Más de 9,5 córners | 33% | 25% | 56% | 50% |
-| Más de 10,5 córners | 22% | 25% | 33% | 50% |
+| Córners a favor | 2,8 | 4,2 | 4,3 | 3,8 |
+| Córners en contra | 4,6 | 3,5 | 4,9 | 7,0 |
+| Córners a favor 1ª parte | 1,6 | 2,5 | 2,1 | 2,2 |
+| Córners a favor 2ª parte | 1,2 | 1,8 | 2,2 | 1,5 |
+| Córners totales del partido | 7,4 | 7,8 | 9,2 | 10,8 |
+| Córners totales 1ª parte | 3,8 | 4,5 | 5,1 | 7,0 |
+| Córners totales 2ª parte | 3,6 | 3,2 | 4,1 | 3,8 |
+| Más de 8,5 córners | 30% | 25% | 56% | 50% |
+| Más de 9,5 córners | 30% | 25% | 56% | 50% |
+| Más de 10,5 córners | 20% | 25% | 33% | 50% |
 | Faltas cometidas | 10,8 | 10,5 | 11,9 | 11,5 |
 | Faltas recibidas | 10,3 | 9,5 | 12,2 | 12,5 |
-| Amarillas propias | 2,7 | 3,2 | 1,4 | 1,0 |
-| Amarillas del rival | 2,4 | 2,5 | 2,3 | 2,0 |
-| Rojas / partido | 0,11 | 0,00 | 0,11 | 0,00 |
+| Amarillas propias | 2,4 | 3,2 | 1,4 | 1,0 |
+| Amarillas del rival | 2,2 | 2,5 | 2,3 | 2,0 |
+| Rojas / partido | 0,10 | 0,00 | 0,11 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Arouca | Recibe Arouca | Tarjetas Arouca | Goles Nacional | Recibe Nacional | Tarjetas Nacional |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 0 | 1 | 3 | 0 |
-| 16-30' | 3 | 3 | 2 | 1 | 2 | 0 |
-| 31-45' | 2 | 1 | 5 | 3 | 7 | 3 |
-| 46-60' | 3 | 0 | 3 | 1 | 2 | 3 |
-| 61-75' | 0 | 1 | 6 | 2 | 3 | 3 |
-| 76-90' | 3 | 1 | 11 | 2 | 1 | 5 |
+| 16-30' | 4 | 3 | 2 | 1 | 2 | 0 |
+| 31-45' | 2 | 1 | 5 | 3 | 7 | 4 |
+| 46-60' | 3 | 1 | 3 | 1 | 2 | 4 |
+| 61-75' | 0 | 1 | 7 | 2 | 3 | 3 |
+| 76-90' | 6 | 3 | 11 | 2 | 2 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -74,11 +74,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-24 | Primeira Liga | Alverca 0-1 Arouca | fuera | 3-3 | 17 (4) - 10 (1) | 2-1 |
+| 2026-10-18 | Taça de Portugal | CF Os Belenenses 3-4 Arouca | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Arouca 1-0 Estrela | casa | 5-6 | 7 (3) - 11 (2) | 5-2 |
 | 2026-09-19 | Primeira Liga | Sporting CP 2-2 Arouca | fuera | 2-4 | 15 (5) - 10 (3) | 5-4 |
 | 2026-09-13 | Primeira Liga | Arouca 1-2 Santa Clara | casa | 5-2 | 10 (4) - 12 (5) | 3-3 |
 | 2026-09-07 | Primeira Liga | Estoril 0-0 Arouca | fuera | 2-8 | 12 (2) - 18 (8) | 1-4 |
-| 2026-08-29 | Primeira Liga | Arouca 2-1 Maritimo | casa | 2-3 | 17 (7) - 12 (4) | 2-1 |
 
 ## Jugadores de Arouca
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -108,11 +108,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-25 | Primeira Liga | Nacional 1-0 SC Braga | casa | 4-6 | 8 (4) - 20 (2) | 2-2 |
+| 2026-10-17 | Taça de Portugal | Sanjoanense 1-0 Nacional | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Rio Ave 3-2 Nacional | fuera | 8-8 | 12 (5) - 11 (7) | 0-2 |
 | 2026-09-19 | Primeira Liga | Nacional 0-4 Famalicao | casa | 7-3 | 12 (3) - 12 (7) | 3-3 |
 | 2026-09-12 | Primeira Liga | Nacional 1-3 Alverca | casa | 2-0 | 13 (3) - 10 (7) | 0-3 |
 | 2026-09-05 | Primeira Liga | Sporting CP 2-0 Nacional | fuera | 0-12 | 3 (2) - 19 (8) | 1-2 |
-| 2026-08-30 | Primeira Liga | Nacional 2-3 Estrela | casa | 4-3 | 10 (5) - 14 (4) | 2-1 |
 
 ## Jugadores de Nacional
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | N. Kader | F | 2 | 159 | 2 | 0 | 3 | 1,5 | 2 | 1,0 | 4 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,16 · visitante 0,80 · córners esperados 9,2._
+_Goles esperados: local 2,21 · visitante 0,82 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -191,41 +191,41 @@ _Sin bajas comunicadas por ahora._
 | Juan Berrocal | D | 3 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 0,77 · córners esperados 10,0._
+_Goles esperados: local 2,26 · visitante 0,78 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 11% | 13% | 12% | 7.00 | -17% |
-| 1X2: X | 17% | 20% | 18% | 4.75 | -14% |
-| 1X2: 1 | 73% | 67% | 70% | 1.38 | -3% |
-| Doble oportunidad: X2 | 27% | 32% | 30% | 3.00 | -11% |
-| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
+| 1X2: 2 | 11% | 13% | 12% | 7.00 | -14% |
+| 1X2: X | 18% | 20% | 19% | 4.75 | -12% |
+| 1X2: 1 | 71% | 67% | 69% | 1.38 | -5% |
+| Doble oportunidad: X2 | 29% | 32% | 30% | 3.00 | -9% |
+| Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -4% |
 | Doble oportunidad: 1X | 89% | 87% | 88% | 1.10 | -3% |
 | Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
 | Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
-| Goles más/menos: Más de 2.5 | 60% | 64% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 3.5 | 38% | 41% | 40% | 2.30 | -9% |
-| Goles más/menos: Más de 4.5 | 21% | 24% | 22% | 4.00 | -11% |
-| Goles más/menos: Menos de 2.5 | 40% | 36% | 38% | 2.62 | -1% |
-| Goles más/menos: Menos de 3.5 | 62% | 59% | 60% | 1.62 | -2% |
-| Goles más/menos: Menos de 4.5 | 79% | 76% | 78% | 1.25 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 42% | 41% | 2.20 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 42% | 42% | 42% | 2.20 | -7% |
-| Goles del local: Más de 3.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 2.5 | 58% | 58% | 58% | 1.62 | -6% |
-| Goles del local: Menos de 3.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Goles del visitante: Más de 0.5 | 54% | 59% | 56% | 1.57 | -11% |
+| Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.50 | -8% |
+| Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
+| Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -14% |
+| Goles más/menos: Menos de 2.5 | 41% | 36% | 39% | 2.62 | +2% |
+| Goles más/menos: Menos de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
+| Goles más/menos: Menos de 4.5 | 81% | 76% | 78% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
+| Goles del local: Más de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles del local: Más de 2.5 | 39% | 42% | 41% | 2.20 | -10% |
+| Goles del local: Más de 3.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles del local: Menos de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles del local: Menos de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
+| Goles del local: Menos de 3.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 0.5 | 54% | 59% | 57% | 1.57 | -11% |
 | Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 41% | 44% | 2.25 | -2% |
+| Goles del visitante: Menos de 0.5 | 46% | 41% | 43% | 2.25 | -2% |
 | Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Córners más/menos: Más de 9.5 | 50% | 56% | 53% | 1.67 | -12% |
 | Córners más/menos: Menos de 9.5 | 50% | 44% | 47% | 2.10 | -1% |
-| 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -7% |
-| 1X2 descanso: 1 | 53% | 51% | 52% | 1.83 | -6% |
+| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -6% |
+| 1X2 descanso: 1 | 51% | 51% | 51% | 1.83 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

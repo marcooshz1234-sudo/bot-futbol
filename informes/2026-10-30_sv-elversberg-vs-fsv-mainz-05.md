@@ -1,7 +1,7 @@
 # SV Elversberg – FSV Mainz 05
 **Bundesliga** · Regular Season - 8 · 30/10/2026 20:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -61,53 +61,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | SV Elversberg (total) | SV Elversberg en casa | FSV Mainz 05 (total) | FSV Mainz 05 fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 3 | 7 | 3 |
-| Forma (últimos 5) | DVDED | VDV | DVDVD | VVV |
-| Balance | 3V 1E 3D | 2V 0E 1D | 3V 1E 3D | 3V 0E 0D |
-| Goles a favor / partido | 1,71 | 2,67 | 2,29 | 3,33 |
-| Goles en contra / partido | 2,14 | 2,33 | 1,86 | 1,00 |
-| Goles a favor 1ª parte | 0,86 | 1,67 | 1,14 | 1,67 |
-| Goles a favor 2ª parte | 0,86 | 1,00 | 1,14 | 1,67 |
-| Goles en contra 1ª parte | 0,57 | 0,67 | 1,00 | 0,33 |
-| Goles en contra 2ª parte | 1,57 | 1,67 | 0,86 | 0,67 |
-| Más de 1,5 goles | 71% | 100% | 71% | 67% |
-| Más de 2,5 goles | 71% | 100% | 71% | 67% |
-| Más de 3,5 goles | 57% | 67% | 71% | 67% |
-| Ambos marcan | 57% | 100% | 57% | 33% |
-| Portería a cero | 14% | 0% | 43% | 67% |
-| Se queda sin marcar | 43% | 0% | 14% | 0% |
+| Partidos analizados | 8 | 3 | 8 | 4 |
+| Forma (últimos 5) | DVDED | VDV | DVDVD | VVVV |
+| Balance | 4V 1E 3D | 2V 0E 1D | 4V 1E 3D | 4V 0E 0D |
+| Goles a favor / partido | 1,88 | 2,67 | 3,12 | 4,75 |
+| Goles en contra / partido | 2,00 | 2,33 | 1,62 | 0,75 |
+| Goles a favor 1ª parte | 0,88 | 1,67 | 1,62 | 2,50 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 1,50 | 2,25 |
+| Goles en contra 1ª parte | 0,50 | 0,67 | 0,88 | 0,25 |
+| Goles en contra 2ª parte | 1,50 | 1,67 | 0,75 | 0,50 |
+| Más de 1,5 goles | 75% | 100% | 75% | 75% |
+| Más de 2,5 goles | 75% | 100% | 75% | 75% |
+| Más de 3,5 goles | 62% | 67% | 75% | 75% |
+| Ambos marcan | 62% | 100% | 50% | 25% |
+| Portería a cero | 12% | 0% | 50% | 75% |
+| Se queda sin marcar | 38% | 0% | 12% | 0% |
 | xG a favor | 1,46 | 2,00 | 2,25 | 2,51 |
 | xG en contra | 2,29 | 2,88 | 1,61 | 1,29 |
-| Tiros / partido | 10,3 | 11,7 | 17,7 | 14,7 |
-| Tiros a puerta / partido | 4,1 | 5,0 | 6,3 | 7,3 |
-| Tiros recibidos | 21,1 | 26,0 | 13,1 | 12,7 |
-| Tiros a puerta recibidos | 5,3 | 6,0 | 4,4 | 3,7 |
-| Posesión media % | 44 | 34 | 51 | 50 |
-| Córners a favor | 4,0 | 3,7 | 5,0 | 3,3 |
-| Córners en contra | 7,4 | 8,0 | 4,4 | 4,7 |
-| Córners a favor 1ª parte | 2,3 | 2,3 | 2,1 | 1,3 |
-| Córners a favor 2ª parte | 1,7 | 1,3 | 2,9 | 2,0 |
-| Córners totales del partido | 11,4 | 11,7 | 9,4 | 8,0 |
-| Córners totales 1ª parte | 5,4 | 6,0 | 4,0 | 3,3 |
-| Córners totales 2ª parte | 6,0 | 5,7 | 5,4 | 4,7 |
-| Más de 8,5 córners | 71% | 67% | 71% | 67% |
-| Más de 9,5 córners | 71% | 67% | 43% | 33% |
-| Más de 10,5 córners | 43% | 67% | 29% | 0% |
-| Faltas cometidas | 12,7 | 14,3 | 12,9 | 17,7 |
-| Faltas recibidas | 12,7 | 12,3 | 10,3 | 12,7 |
-| Amarillas propias | 2,0 | 3,0 | 2,3 | 3,3 |
-| Amarillas del rival | 1,7 | 1,7 | 1,9 | 2,3 |
+| Tiros / partido | 10,9 | 11,7 | 19,2 | 18,5 |
+| Tiros a puerta / partido | 4,4 | 5,0 | 7,0 | 8,5 |
+| Tiros recibidos | 20,1 | 26,0 | 12,8 | 12,0 |
+| Tiros a puerta recibidos | 5,0 | 6,0 | 4,1 | 3,2 |
+| Posesión media % | 46 | 34 | 54 | 56 |
+| Córners a favor | 3,9 | 3,7 | 5,5 | 4,8 |
+| Córners en contra | 6,9 | 8,0 | 4,2 | 4,2 |
+| Córners a favor 1ª parte | 2,2 | 2,3 | 2,4 | 2,0 |
+| Córners a favor 2ª parte | 1,6 | 1,3 | 3,1 | 2,8 |
+| Córners totales del partido | 10,8 | 11,7 | 9,8 | 9,0 |
+| Córners totales 1ª parte | 5,2 | 6,0 | 4,2 | 4,0 |
+| Córners totales 2ª parte | 5,5 | 5,7 | 5,5 | 5,0 |
+| Más de 8,5 córners | 62% | 67% | 75% | 75% |
+| Más de 9,5 córners | 62% | 67% | 50% | 50% |
+| Más de 10,5 córners | 38% | 67% | 38% | 25% |
+| Faltas cometidas | 12,2 | 14,3 | 12,5 | 15,8 |
+| Faltas recibidas | 12,5 | 12,3 | 9,8 | 11,0 |
+| Amarillas propias | 1,9 | 3,0 | 2,1 | 2,8 |
+| Amarillas del rival | 1,6 | 1,7 | 1,6 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles SV Elversberg | Recibe SV Elversberg | Tarjetas SV Elversberg | Goles FSV Mainz 05 | Recibe FSV Mainz 05 | Tarjetas FSV Mainz 05 |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 1 | 1 | 0 | 5 | 1 |
-| 16-30' | 2 | 1 | 2 | 3 | 1 | 1 |
-| 31-45' | 0 | 2 | 2 | 5 | 1 | 4 |
-| 46-60' | 1 | 2 | 1 | 1 | 3 | 1 |
-| 61-75' | 2 | 2 | 3 | 1 | 2 | 2 |
-| 76-90' | 3 | 8 | 5 | 6 | 1 | 7 |
+| 16-30' | 2 | 1 | 2 | 5 | 1 | 2 |
+| 31-45' | 1 | 2 | 2 | 8 | 1 | 4 |
+| 46-60' | 1 | 3 | 1 | 3 | 3 | 1 |
+| 61-75' | 2 | 2 | 4 | 2 | 2 | 2 |
+| 76-90' | 5 | 8 | 5 | 7 | 1 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -131,26 +131,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de SV Elversberg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Ł. Poręba | M | 7 | 630 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 12 | 4 | 0,6 | 0 | 0 |
+| Ł. Poręba | M | 8 | 720 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 13 | 6 | 0,8 | 0 | 0 |
+| N. Kristof | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
+| L. Petkov | M | 8 | 713 | 2 | 2 | 11 | 1,4 | 6 | 0,8 | 11 | 11 | 1,4 | 0 | 0 |
+| M. Rohr | D | 8 | 712 | 1 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 9 | 1,1 | 1 | 0 |
+| F. Keidel | M | 8 | 701 | 1 | 3 | 2 | 0,2 | 1 | 0,1 | 10 | 5 | 0,6 | 4 | 0 |
+| L. Günther | D | 8 | 655 | 1 | 0 | 4 | 0,5 | 2 | 0,2 | 5 | 8 | 1,0 | 1 | 0 |
 | L. Pinckert | D | 7 | 630 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,7 | 1 | 0 |
-| N. Kristof | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 2 | 0 |
-| L. Petkov | M | 7 | 623 | 2 | 2 | 10 | 1,4 | 6 | 0,9 | 11 | 9 | 1,3 | 0 | 0 |
-| M. Rohr | D | 7 | 622 | 1 | 0 | 4 | 0,6 | 1 | 0,1 | 7 | 8 | 1,1 | 1 | 0 |
-| F. Keidel | M | 7 | 612 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 7 | 5 | 0,7 | 3 | 0 |
-| L. Günther | D | 7 | 574 | 1 | 0 | 3 | 0,4 | 2 | 0,3 | 5 | 6 | 0,9 | 1 | 0 |
-| D. Mokwa | F | 7 | 480 | 2 | 0 | 6 | 0,9 | 3 | 0,4 | 7 | 4 | 0,6 | 0 | 0 |
-| J. Gyamerah | D | 6 | 403 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
+| D. Mokwa | F | 8 | 501 | 2 | 0 | 6 | 0,8 | 3 | 0,4 | 7 | 5 | 0,6 | 0 | 0 |
+| J. Gyamerah | D | 7 | 485 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 4 | 0,6 | 0 | 0 |
+| William Cole Campbell | F | 7 | 379 | 1 | 0 | 7 | 1,0 | 6 | 0,9 | 4 | 9 | 1,3 | 1 | 0 |
+| Noah Darvich | M | 6 | 328 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 3 | 3 | 0,5 | 1 | 0 |
 | M. Krattenmacher | M | 7 | 309 | 3 | 1 | 11 | 1,6 | 6 | 0,9 | 7 | 16 | 2,3 | 1 | 0 |
-| William Cole Campbell | F | 6 | 289 | 1 | 0 | 4 | 0,7 | 4 | 0,7 | 4 | 9 | 1,5 | 1 | 0 |
-| Noah Darvich | M | 5 | 259 | 0 | 1 | 4 | 0,8 | 1 | 0,2 | 2 | 2 | 0,4 | 1 | 0 |
-| L. Sirch | D | 6 | 229 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,5 | 0 | 0 |
-| Francis-Ikechukwu Onyeka | M | 5 | 173 | 0 | 1 | 3 | 0,6 | 2 | 0,4 | 5 | 2 | 0,4 | 1 | 0 |
+| L. Sirch | D | 7 | 237 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
+| Francis-Ikechukwu Onyeka | M | 6 | 194 | 2 | 1 | 6 | 1,0 | 4 | 0,7 | 7 | 2 | 0,3 | 1 | 0 |
 | N. Futkeu | F | 6 | 148 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
 | F. Schmahl | M | 3 | 125 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 1 | 0 |
+| Florian Yves Le Joncour | D | 2 | 98 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Luca Schnellbacher | M | 3 | 95 | 1 | 0 | 2 | 0,7 | 2 | 0,7 | 3 | 1 | 0,3 | 0 | 0 |
 | Tom Zimmerschied | M | 1 | 59 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
-| Nicholas Mickelson | D | 3 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| R. Adam | F | 2 | 43 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 2 | 0 | 0,0 | 0 | 0 |
-| Amara Condé | M | 3 | 26 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 1 | 0 |
+| Nicholas Mickelson | D | 4 | 57 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de FSV Mainz 05
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -165,64 +165,62 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de FSV Mainz 05
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Tietz | F | 7 | 629 | 5 | 0 | 24 | 3,4 | 11 | 1,6 | 13 | 8 | 1,1 | 1 | 0 |
-| N. Amiri | M | 7 | 620 | 0 | 1 | 9 | 1,3 | 3 | 0,4 | 5 | 5 | 0,7 | 1 | 0 |
-| K. Sano | M | 7 | 618 | 0 | 2 | 3 | 0,4 | 0 | 0,0 | 5 | 13 | 1,9 | 1 | 0 |
-| P. Mwene | M | 7 | 614 | 1 | 1 | 7 | 1,0 | 3 | 0,4 | 6 | 9 | 1,3 | 4 | 0 |
+| N. Amiri | M | 8 | 710 | 2 | 3 | 14 | 1,8 | 7 | 0,9 | 5 | 6 | 0,8 | 1 | 0 |
+| K. Sano | M | 8 | 708 | 0 | 2 | 3 | 0,4 | 0 | 0,0 | 7 | 13 | 1,6 | 1 | 0 |
+| P. Mwene | M | 8 | 704 | 1 | 3 | 7 | 0,9 | 3 | 0,4 | 7 | 10 | 1,2 | 4 | 0 |
+| P. Tietz | F | 8 | 704 | 9 | 0 | 29 | 3,6 | 15 | 1,9 | 13 | 8 | 1,0 | 1 | 0 |
+| A. Caci | M | 8 | 590 | 3 | 4 | 6 | 0,8 | 4 | 0,5 | 7 | 3 | 0,4 | 1 | 0 |
+| S. Becker | F | 8 | 586 | 3 | 4 | 17 | 2,1 | 12 | 1,5 | 9 | 4 | 0,5 | 3 | 0 |
+| K. Potulski | D | 8 | 558 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 12 | 4 | 0,5 | 1 | 0 |
+| Fabio Gruber | D | 6 | 540 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 0 | 0,0 | 0 | 0 |
 | S. Posch | D | 6 | 538 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 10 | 6 | 1,0 | 1 | 0 |
-| K. Potulski | D | 7 | 530 | 0 | 0 | 6 | 0,9 | 1 | 0,1 | 12 | 3 | 0,4 | 1 | 0 |
-| S. Becker | F | 7 | 524 | 2 | 4 | 15 | 2,1 | 10 | 1,4 | 6 | 4 | 0,6 | 2 | 0 |
-| A. Caci | M | 7 | 515 | 3 | 3 | 6 | 0,9 | 4 | 0,6 | 7 | 3 | 0,4 | 1 | 0 |
+| Lee Jae-Sung | M | 8 | 499 | 1 | 2 | 8 | 1,0 | 3 | 0,4 | 4 | 7 | 0,9 | 1 | 0 |
 | A. Schwolow | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 2 | 0 |
-| Fabio Gruber | D | 5 | 450 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 0 | 0,0 | 0 | 0 |
-| Lee Jae-Sung | M | 7 | 437 | 1 | 1 | 7 | 1,0 | 3 | 0,4 | 4 | 7 | 1,0 | 1 | 0 |
-| D. da Costa | D | 7 | 347 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
-| Robin Zentner | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
-| R. Königsdörffer | F | 7 | 152 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 4 | 2 | 0,3 | 1 | 0 |
+| D. da Costa | D | 8 | 409 | 1 | 0 | 6 | 0,8 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
+| Robin Zentner | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
+| R. Königsdörffer | F | 8 | 180 | 2 | 0 | 8 | 1,0 | 3 | 0,4 | 4 | 2 | 0,2 | 1 | 0 |
+| Dominik Kohr | D | 2 | 170 | 0 | 1 | 3 | 1,5 | 1 | 0,5 | 2 | 2 | 1,0 | 0 | 0 |
 | E. Martel | M | 4 | 105 | 1 | 0 | 4 | 1,0 | 2 | 0,5 | 3 | 2 | 0,5 | 0 | 0 |
-| Dominik Kohr | D | 1 | 80 | 0 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Otto Ruoppi | M | 4 | 61 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| S. Widmer | D | 4 | 48 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | B. Hollerbach | F | 3 | 34 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 1 | 0,3 | 0 | 0 |
-| S. Widmer | D | 3 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Otto Ruoppi | M | 3 | 33 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Lennard Maloney | M | 4 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,16 · visitante 2,20 · córners esperados 9,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 1,85 · visitante 2,41 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 46% | 43% | 2.05 | -11% |
-| 1X2: X | 20% | 25% | 22% | 3.75 | -16% |
-| 1X2: 1 | 39% | 29% | 34% | 3.20 | +10% |
-| Doble oportunidad: X2 | 61% | 70% | 65% | 1.36 | -11% |
-| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
-| Doble oportunidad: 1X | 59% | 55% | 57% | 1.73 | -2% |
-| Ambos marcan: No | 21% | 35% | 28% | 2.62 | -26% |
-| Ambos marcan: Sí | 79% | 65% | 72% | 1.44 | +3% |
-| Goles más/menos: Más de 2.5 | 81% | 64% | 72% | 1.50 | +9% |
-| Goles más/menos: Más de 3.5 | 63% | 45% | 54% | 2.10 | +14% |
-| Goles más/menos: Más de 4.5 | 44% | 25% | 35% | 3.75 | +31% |
-| Goles más/menos: Menos de 2.5 | 19% | 36% | 28% | 2.62 | -28% |
-| Goles más/menos: Menos de 3.5 | 37% | 55% | 46% | 1.73 | -21% |
-| Goles más/menos: Menos de 4.5 | 56% | 75% | 65% | 1.28 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 75% | 80% | 1.25 | -0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 56% | 42% | 49% | 2.20 | +9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 58% | 51% | 1.62 | -18% |
-| Goles del local: Más de 0.5 | 89% | 75% | 82% | 1.25 | +2% |
-| Goles del local: Más de 1.5 | 64% | 42% | 53% | 2.20 | +17% |
-| Goles del local: Menos de 0.5 | 11% | 25% | 18% | 3.75 | -32% |
-| Goles del local: Menos de 1.5 | 36% | 58% | 47% | 1.62 | -24% |
-| Goles del visitante: Más de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
-| Goles del visitante: Más de 2.5 | 38% | 28% | 33% | 3.40 | +11% |
-| Goles del visitante: Menos de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
-| Goles del visitante: Menos de 2.5 | 62% | 72% | 67% | 1.30 | -13% |
-| Córners más/menos: Más de 9.5 | 49% | 53% | 51% | 1.80 | -9% |
-| Córners más/menos: Menos de 9.5 | 51% | 47% | 49% | 2.00 | -1% |
-| 1X2 descanso: 2 | 35% | 36% | 35% | 2.60 | -8% |
+| 1X2: 2 | 51% | 46% | 48% | 2.05 | -1% |
+| 1X2: X | 19% | 25% | 22% | 3.75 | -17% |
+| 1X2: 1 | 30% | 29% | 30% | 3.20 | -5% |
+| Doble oportunidad: X2 | 70% | 70% | 70% | 1.36 | -5% |
+| Doble oportunidad: 12 | 81% | 76% | 78% | 1.25 | -2% |
+| Doble oportunidad: 1X | 49% | 55% | 52% | 1.73 | -10% |
+| Ambos marcan: No | 23% | 35% | 29% | 2.62 | -23% |
+| Ambos marcan: Sí | 77% | 65% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 2.5 | 80% | 64% | 72% | 1.50 | +7% |
+| Goles más/menos: Más de 3.5 | 61% | 45% | 53% | 2.10 | +12% |
+| Goles más/menos: Más de 4.5 ✅ | 42% | 25% | 34% | 3.75 | +27% |
+| Goles más/menos: Menos de 2.5 | 20% | 36% | 28% | 2.62 | -26% |
+| Goles más/menos: Menos de 3.5 | 39% | 55% | 47% | 1.73 | -19% |
+| Goles más/menos: Menos de 4.5 | 58% | 75% | 66% | 1.28 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 84% | 75% | 80% | 1.25 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
+| Goles del local: Más de 0.5 | 84% | 75% | 80% | 1.25 | -0% |
+| Goles del local: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
+| Goles del local: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
+| Goles del local: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
+| Goles del visitante: Más de 1.5 | 69% | 54% | 61% | 1.73 | +6% |
+| Goles del visitante: Más de 2.5 ✅ | 43% | 28% | 35% | 3.40 | +20% |
+| Goles del visitante: Menos de 1.5 | 31% | 46% | 39% | 2.00 | -23% |
+| Goles del visitante: Menos de 2.5 | 57% | 72% | 65% | 1.30 | -16% |
+| Córners más/menos: Más de 9.5 | 48% | 53% | 50% | 1.80 | -9% |
+| Córners más/menos: Menos de 9.5 | 52% | 47% | 50% | 2.00 | -1% |
+| 1X2 descanso: 2 | 41% | 36% | 38% | 2.60 | -1% |
 | 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
-| 1X2 descanso: 1 | 34% | 27% | 30% | 3.50 | +5% |
+| 1X2 descanso: 1 | 27% | 27% | 27% | 3.50 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Burnley – Portsmouth
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -59,53 +59,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Burnley (total) | Burnley en casa | Portsmouth (total) | Portsmouth fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 14 | 7 | 13 | 7 |
 | Forma (últimos 5) | DDEVE | DEEDE | VEVVD | EVDED |
-| Balance | 1V 5E 6D | 0V 4E 2D | 5V 3E 4D | 2V 2E 2D |
-| Goles a favor / partido | 1,42 | 1,33 | 1,33 | 1,00 |
-| Goles en contra / partido | 2,08 | 1,67 | 1,25 | 0,83 |
-| Goles a favor 1ª parte | 0,83 | 0,50 | 0,58 | 0,33 |
-| Goles a favor 2ª parte | 0,58 | 0,83 | 0,75 | 0,67 |
-| Goles en contra 1ª parte | 0,83 | 0,50 | 0,75 | 0,50 |
-| Goles en contra 2ª parte | 1,25 | 1,17 | 0,50 | 0,33 |
-| Más de 1,5 goles | 100% | 100% | 75% | 50% |
-| Más de 2,5 goles | 75% | 67% | 50% | 33% |
-| Más de 3,5 goles | 58% | 33% | 33% | 17% |
-| Ambos marcan | 92% | 100% | 58% | 50% |
-| Portería a cero | 8% | 0% | 25% | 33% |
-| Se queda sin marcar | 0% | 0% | 25% | 33% |
-| xG a favor | 1,33 | 0,97 | 1,32 | 1,03 |
-| xG en contra | 1,66 | 1,58 | 1,12 | 1,06 |
-| Tiros / partido | 13,7 | 12,5 | 14,6 | 11,5 |
-| Tiros a puerta / partido | 4,1 | 3,3 | 3,8 | 2,8 |
-| Tiros recibidos | 14,8 | 13,8 | 10,9 | 10,8 |
-| Tiros a puerta recibidos | 5,3 | 4,5 | 3,6 | 2,8 |
-| Posesión media % | 48 | 47 | 52 | 50 |
-| Córners a favor | 4,8 | 4,8 | 5,9 | 4,2 |
-| Córners en contra | 4,6 | 5,7 | 4,8 | 4,5 |
-| Córners a favor 1ª parte | 2,1 | 2,2 | 2,6 | 1,5 |
-| Córners a favor 2ª parte | 2,7 | 2,7 | 3,3 | 2,7 |
-| Córners totales del partido | 9,3 | 10,5 | 10,7 | 8,7 |
-| Córners totales 1ª parte | 3,9 | 4,7 | 5,0 | 4,3 |
-| Córners totales 2ª parte | 5,4 | 5,8 | 5,7 | 4,3 |
-| Más de 8,5 córners | 58% | 83% | 75% | 50% |
-| Más de 9,5 córners | 33% | 67% | 67% | 50% |
-| Más de 10,5 córners | 25% | 50% | 58% | 50% |
-| Faltas cometidas | 10,1 | 10,3 | 11,2 | 10,7 |
-| Faltas recibidas | 9,7 | 9,5 | 12,1 | 12,8 |
-| Amarillas propias | 2,0 | 2,3 | 1,5 | 1,7 |
-| Amarillas del rival | 1,7 | 1,7 | 2,4 | 3,0 |
-| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
+| Balance | 1V 7E 6D | 0V 5E 2D | 5V 3E 5D | 2V 2E 3D |
+| Goles a favor / partido | 1,29 | 1,29 | 1,31 | 1,00 |
+| Goles en contra / partido | 1,86 | 1,57 | 1,38 | 1,14 |
+| Goles a favor 1ª parte | 0,71 | 0,43 | 0,62 | 0,43 |
+| Goles a favor 2ª parte | 0,57 | 0,86 | 0,69 | 0,57 |
+| Goles en contra 1ª parte | 0,79 | 0,57 | 0,85 | 0,71 |
+| Goles en contra 2ª parte | 1,07 | 1,00 | 0,54 | 0,43 |
+| Más de 1,5 goles | 93% | 100% | 77% | 57% |
+| Más de 2,5 goles | 64% | 57% | 54% | 43% |
+| Más de 3,5 goles | 50% | 29% | 38% | 29% |
+| Ambos marcan | 86% | 100% | 62% | 57% |
+| Portería a cero | 14% | 0% | 23% | 29% |
+| Se queda sin marcar | 7% | 0% | 23% | 29% |
+| xG a favor | 1,37 | 0,97 | 1,32 | 1,03 |
+| xG en contra | 1,65 | 1,58 | 1,12 | 1,06 |
+| Tiros / partido | 14,2 | 12,4 | 14,4 | 11,6 |
+| Tiros a puerta / partido | 4,2 | 3,4 | 3,8 | 3,0 |
+| Tiros recibidos | 14,2 | 12,7 | 11,0 | 11,0 |
+| Tiros a puerta recibidos | 5,0 | 4,1 | 3,8 | 3,4 |
+| Posesión media % | 51 | 51 | 52 | 51 |
+| Córners a favor | 5,4 | 4,7 | 6,0 | 4,6 |
+| Córners en contra | 4,5 | 5,3 | 4,6 | 4,3 |
+| Córners a favor 1ª parte | 2,5 | 2,0 | 2,8 | 2,0 |
+| Córners a favor 2ª parte | 2,9 | 2,7 | 3,2 | 2,6 |
+| Córners totales del partido | 9,9 | 10,0 | 10,6 | 8,9 |
+| Córners totales 1ª parte | 4,3 | 4,4 | 5,2 | 4,7 |
+| Córners totales 2ª parte | 5,6 | 5,6 | 5,5 | 4,1 |
+| Más de 8,5 córners | 57% | 71% | 77% | 57% |
+| Más de 9,5 córners | 36% | 57% | 69% | 57% |
+| Más de 10,5 córners | 29% | 43% | 54% | 43% |
+| Faltas cometidas | 9,9 | 10,1 | 11,8 | 11,9 |
+| Faltas recibidas | 9,9 | 10,3 | 12,1 | 12,7 |
+| Amarillas propias | 1,8 | 2,1 | 1,5 | 1,7 |
+| Amarillas del rival | 1,9 | 2,0 | 2,3 | 2,7 |
+| Rojas / partido | 0,07 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Burnley | Recibe Burnley | Tarjetas Burnley | Goles Portsmouth | Recibe Portsmouth | Tarjetas Portsmouth |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 0 | 3 | 2 | 0 |
 | 16-30' | 5 | 3 | 3 | 2 | 2 | 1 |
-| 31-45' | 3 | 3 | 2 | 2 | 5 | 2 |
-| 46-60' | 4 | 5 | 2 | 3 | 3 | 5 |
+| 31-45' | 3 | 4 | 2 | 3 | 7 | 2 |
+| 46-60' | 5 | 5 | 2 | 3 | 4 | 5 |
 | 61-75' | 0 | 6 | 7 | 2 | 3 | 4 |
-| 76-90' | 3 | 4 | 11 | 4 | 0 | 6 |
+| 76-90' | 3 | 4 | 11 | 4 | 0 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -131,26 +131,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Burnley
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| J. Laurent | M | 13 | 1007 | 1 | 1 | 12 | 0,9 | 6 | 0,5 | 21 | 11 | 0,8 | 3 | 1 |
 | Max Alleyne | M | 12 | 998 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 5 | 5 | 0,4 | 1 | 0 |
-| J. Laurent | M | 11 | 887 | 1 | 1 | 10 | 0,9 | 4 | 0,4 | 15 | 11 | 1,0 | 3 | 1 |
-| K. Walker | D | 10 | 855 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 5 | 0,5 | 2 | 0 |
+| K. Walker | D | 12 | 953 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 5 | 0,4 | 2 | 0 |
+| Max Weiss | G | 8 | 727 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Bruun Larsen | M | 11 | 711 | 2 | 2 | 9 | 0,8 | 6 | 0,5 | 1 | 6 | 0,5 | 0 | 0 |
+| C. Roberts | D | 9 | 659 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 8 | 0,9 | 0 | 0 |
 | L. Ramazani | M | 9 | 639 | 2 | 1 | 12 | 1,3 | 3 | 0,3 | 11 | 8 | 0,9 | 0 | 0 |
-| Max Weiss | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| J. Bruun Larsen | M | 9 | 611 | 2 | 2 | 7 | 0,8 | 5 | 0,6 | 1 | 3 | 0,3 | 0 | 0 |
+| U. Raghouber | M | 12 | 628 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 8 | 0,7 | 2 | 0 |
+| Lucas Pires | D | 10 | 622 | 0 | 4 | 7 | 0,7 | 1 | 0,1 | 7 | 2 | 0,2 | 2 | 0 |
+| Zeki Amdouni | F | 11 | 617 | 3 | 1 | 18 | 1,6 | 8 | 0,7 | 11 | 8 | 0,7 | 0 | 0 |
 | Igor | D | 7 | 608 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 7 | 3 | 0,4 | 2 | 0 |
-| C. Roberts | D | 7 | 540 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,9 | 0 | 0 |
-| Lucas Pires | D | 9 | 532 | 0 | 4 | 7 | 0,8 | 1 | 0,1 | 6 | 2 | 0,2 | 2 | 0 |
-| O. Sonne | D | 8 | 519 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 6 | 3 | 0,4 | 1 | 0 |
-| Zeki Amdouni | F | 9 | 497 | 3 | 1 | 16 | 1,8 | 8 | 0,9 | 10 | 5 | 0,6 | 0 | 0 |
-| Anel Ahmedhodžić | D | 6 | 494 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 4 | 3 | 0,5 | 1 | 0 |
-| U. Raghouber | M | 10 | 481 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 5 | 7 | 0,7 | 2 | 0 |
+| O. Sonne | D | 9 | 586 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 6 | 3 | 0,3 | 1 | 0 |
+| Anel Ahmedhodžić | D | 7 | 584 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 3 | 0,4 | 1 | 0 |
+| G. Coudert | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 1 | 0 |
+| Aaron Ramsey | M | 8 | 524 | 1 | 0 | 11 | 1,4 | 3 | 0,4 | 6 | 4 | 0,5 | 1 | 0 |
 | R. Hatate | M | 8 | 473 | 1 | 2 | 6 | 0,8 | 1 | 0,1 | 9 | 10 | 1,2 | 2 | 0 |
-| Aaron Ramsey | M | 7 | 457 | 1 | 0 | 11 | 1,6 | 3 | 0,4 | 6 | 4 | 0,6 | 1 | 0 |
-| G. Coudert | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 1 | 0 |
-| M. Edwards | F | 8 | 346 | 1 | 0 | 6 | 0,8 | 4 | 0,5 | 3 | 5 | 0,6 | 1 | 0 |
-| H. Ekdal | D | 6 | 345 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 0,7 | 1 | 0 |
-| D. Satpaev | M | 6 | 308 | 0 | 0 | 5 | 0,8 | 4 | 0,7 | 2 | 4 | 0,7 | 0 | 0 |
-| Hannibal Mejbri | M | 5 | 251 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 8 | 7 | 1,4 | 1 | 0 |
+| M. Edwards | F | 10 | 437 | 1 | 1 | 9 | 0,9 | 5 | 0,5 | 4 | 9 | 0,9 | 1 | 0 |
+| H. Ekdal | D | 7 | 435 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,7 | 1 | 0 |
+| D. Satpaev | M | 7 | 388 | 0 | 0 | 7 | 1,0 | 4 | 0,6 | 2 | 4 | 0,6 | 0 | 0 |
+| Hannibal Mejbri | M | 7 | 358 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,1 | 1 | 0 |
 
 ## Últimos partidos de Portsmouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -165,66 +165,66 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Portsmouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. Segecic | M | 13 | 1092 | 3 | 1 | 25 | 1,9 | 9 | 0,7 | 13 | 18 | 1,4 | 1 | 0 |
 | A. Kamara | M | 12 | 1014 | 0 | 1 | 12 | 1,0 | 4 | 0,3 | 14 | 20 | 1,7 | 0 | 0 |
-| A. Segecic | M | 12 | 993 | 2 | 1 | 22 | 1,8 | 6 | 0,5 | 11 | 18 | 1,5 | 0 | 0 |
+| T. Devlin | D | 12 | 870 | 2 | 0 | 6 | 0,5 | 2 | 0,2 | 12 | 18 | 1,5 | 2 | 0 |
+| Z. Swanson | D | 12 | 854 | 2 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 7 | 0,6 | 2 | 0 |
 | M. Pack | M | 11 | 825 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 12 | 4 | 0,4 | 1 | 0 |
-| Z. Swanson | D | 11 | 794 | 2 | 0 | 5 | 0,5 | 2 | 0,2 | 7 | 5 | 0,5 | 2 | 0 |
-| T. Devlin | D | 11 | 771 | 2 | 0 | 6 | 0,5 | 2 | 0,2 | 10 | 15 | 1,4 | 2 | 0 |
-| N. Schmid | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
+| N. Schmid | G | 9 | 819 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
 | R. Kavuma McQueen | M | 12 | 659 | 1 | 2 | 23 | 1,9 | 8 | 0,7 | 12 | 9 | 0,8 | 2 | 0 |
+| E. Adams | M | 13 | 657 | 2 | 1 | 9 | 0,7 | 3 | 0,2 | 15 | 20 | 1,5 | 4 | 0 |
+| R. Poole | D | 9 | 657 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 4 | 13 | 1,4 | 0 | 0 |
 | M. Dia | D | 8 | 651 | 0 | 0 | 8 | 1,0 | 0 | 0,0 | 5 | 4 | 0,5 | 0 | 0 |
+| Conor Shaughnessy | D | 7 | 612 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 3 | 4 | 0,6 | 0 | 0 |
+| C. Bishop | F | 10 | 572 | 1 | 0 | 6 | 0,6 | 5 | 0,5 | 9 | 7 | 0,7 | 0 | 0 |
 | J. Meghoma | D | 7 | 564 | 0 | 0 | 6 | 0,9 | 2 | 0,3 | 2 | 5 | 0,7 | 2 | 0 |
-| E. Adams | M | 12 | 558 | 2 | 1 | 9 | 0,8 | 3 | 0,2 | 11 | 17 | 1,4 | 3 | 0 |
-| R. Poole | D | 8 | 558 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 3 | 11 | 1,4 | 0 | 0 |
-| Conor Shaughnessy | D | 6 | 513 | 1 | 0 | 5 | 0,8 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
-| C. Bishop | F | 9 | 490 | 1 | 0 | 6 | 0,7 | 5 | 0,6 | 7 | 6 | 0,7 | 0 | 0 |
-| M. Milovanović | F | 10 | 458 | 3 | 0 | 13 | 1,3 | 6 | 0,6 | 12 | 8 | 0,8 | 3 | 0 |
+| R. Shein | M | 9 | 542 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 14 | 2 | 0,2 | 1 | 0 |
+| M. Milovanović | F | 11 | 497 | 3 | 0 | 14 | 1,3 | 6 | 0,5 | 14 | 8 | 0,7 | 3 | 0 |
 | Benjamin Arthur | D | 6 | 447 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,7 | 0 | 0 |
-| R. Shein | M | 8 | 443 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 11 | 2 | 0,2 | 1 | 0 |
 | T. Shade | F | 7 | 424 | 0 | 1 | 4 | 0,6 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
 | Daniel Bielica | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | I. Mohamed | M | 7 | 323 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 1 | 0,1 | 1 | 0 |
-| O. Bailey | M | 7 | 116 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 1 | 0,1 | 0 | 0 |
+| O. Bailey | M | 8 | 155 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,53 · córners esperados 9,5._
+_Goles esperados: local 1,26 · visitante 1,45 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 26% | 35% | 3.50 | +21% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -12% |
-| 1X2: 1 | 32% | 47% | 40% | 1.95 | -23% |
-| Doble oportunidad: X2 | 68% | 53% | 60% | 1.80 | +9% |
-| Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 57% | 74% | 66% | 1.28 | -16% |
-| Ambos marcan: No | 43% | 46% | 45% | 2.00 | -10% |
-| Ambos marcan: Sí | 57% | 54% | 55% | 1.73 | -5% |
-| Goles más/menos: Más de 1.5 | 77% | 75% | 76% | 1.28 | -3% |
-| Goles más/menos: Más de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Más de 3.5 | 31% | 28% | 30% | 3.40 | +1% |
-| Goles más/menos: Menos de 1.5 | 23% | 25% | 24% | 3.75 | -9% |
-| Goles más/menos: Menos de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Menos de 3.5 | 69% | 72% | 70% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 70% | 1.36 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 30% | 3.00 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
+| 1X2: 2 | 42% | 26% | 34% | 3.50 | +18% |
+| 1X2: X | 26% | 27% | 26% | 3.40 | -11% |
+| 1X2: 1 | 33% | 47% | 40% | 1.95 | -22% |
+| Doble oportunidad: X2 | 67% | 53% | 60% | 1.80 | +8% |
+| Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
+| Doble oportunidad: 1X | 58% | 74% | 66% | 1.28 | -15% |
+| Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
+| Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
+| Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -4% |
+| Goles más/menos: Más de 2.5 | 51% | 50% | 51% | 1.91 | -4% |
+| Goles más/menos: Más de 3.5 | 29% | 28% | 29% | 3.40 | -3% |
+| Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles más/menos: Menos de 2.5 | 49% | 50% | 49% | 1.91 | -5% |
+| Goles más/menos: Menos de 3.5 | 71% | 72% | 71% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
 | Goles del local: Más de 0.5 | 72% | 78% | 75% | 1.20 | -10% |
-| Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
-| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles del local: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +7% |
-| Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 0.5 | 78% | 66% | 72% | 1.40 | +1% |
-| Goles del visitante: Más de 1.5 | 45% | 31% | 38% | 3.00 | +14% |
-| Goles del visitante: Menos de 0.5 | 22% | 34% | 28% | 2.75 | -24% |
-| Goles del visitante: Menos de 1.5 | 55% | 69% | 62% | 1.36 | -16% |
-| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.85 | -11% |
-| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.95 | +1% |
-| 1X2 descanso: 2 | 33% | 23% | 28% | 4.00 | +11% |
-| 1X2 descanso: X | 41% | 42% | 42% | 2.20 | -8% |
+| Goles del local: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
+| Goles del local: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
+| Goles del local: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +8% |
+| Goles del local: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
+| Goles del local: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
+| Goles del visitante: Más de 0.5 | 77% | 66% | 71% | 1.40 | -0% |
+| Goles del visitante: Más de 1.5 | 43% | 31% | 37% | 3.00 | +11% |
+| Goles del visitante: Menos de 0.5 | 23% | 34% | 29% | 2.75 | -21% |
+| Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -14% |
+| Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.85 | -10% |
+| Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.95 | -0% |
+| 1X2 descanso: 2 | 31% | 23% | 27% | 4.00 | +9% |
+| 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -7% |
 | 1X2 descanso: 1 | 26% | 35% | 31% | 2.62 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

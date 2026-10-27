@@ -80,9 +80,19 @@
     "fijo": true
   },
   {
+    "id": "2026-10-27-datos-rachas",
+    "fecha": "2026-10-27T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• La Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Sassuolo)\n\n• El Willem II encadena 10 partidos sin ganar (hoy, ante el Helmond Sport)\n\n• El Malaga encadena 10 partidos sin ganar (hoy, ante el Alcazar)\n\n• El Telstar encadena 9 partidos sin ganar (hoy, ante el Almere City FC)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
     "id": "2026-10-27-ganadores",
     "fecha": "2026-10-27T10:30",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Lazio — Gana\n✅2. 🇮🇹 AS Roma — Gana o empata\n✅3. 🇮🇹 Como — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Lazio — Gana o empata\n✅2. 🇮🇹 AS Roma — Gana o empata\n✅3. 🇮🇹 Como — Gana o empata\n✅4. 🇩🇪 Borussia Dortmund — Gana o empata\n✅5. 🇩🇪 1. FC Köln — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -124,7 +134,7 @@
   {
     "id": "2026-10-27-datos-pichichis",
     "fecha": "2026-10-27T12:30",
-    "texto": "⚽ LOS PICHICHIS DE EUROPA ⚽\n\n• LaLiga: Raphinha (Barcelona) · 12 goles en 8 partidos\n• Premier League: E. Haaland (Manchester City) · 9 goles en 8 partidos\n• Serie A: A. Raimondo (Frosinone) · 7 goles en 7 partidos\n• Bundesliga: N. Füllkrug (Werder Bremen) · 8 goles en 7 partidos\n• Ligue 1: E. Lepaul (Rennes) · 7 goles en 7 partidos\n\n👇 ¿Quién acaba la temporada arriba?",
+    "texto": "⚽ LOS PICHICHIS DE EUROPA ⚽\n\n• LaLiga: Raphinha (Barcelona) · 13 goles en 9 partidos\n• Premier League: E. Haaland (Manchester City) · 9 goles en 8 partidos\n• Serie A: A. Raimondo (Frosinone) · 7 goles en 8 partidos\n• Bundesliga: N. Füllkrug (Werder Bremen) · 8 goles en 7 partidos\n• Ligue 1: E. Lepaul (Rennes) · 7 goles en 7 partidos\n\n👇 ¿Quién acaba la temporada arriba?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -134,27 +144,33 @@
   {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🇮🇹 Monza marca\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🇮🇹 Juventus gana alguna de las dos partes\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ryan Gravenberch comete 1+ faltas\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇮🇹 Lewis Ferguson comete 1+ faltas\n✅ 🇮🇹 Gol en la 2ª parte del Genoa–Juventus\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Adam Smith comete 1+ faltas\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550176|Match Winner|Away",
-      "1550172|Total - Home|Over 0.5",
       "1550173|Goals Over/Under|Over 1.5",
-      "1550171|To Win Either Half|Away"
+      "1640388|Player Fouls Committed|Ryan Gravenberch - 1",
+      "1640389|Double Chance|Draw/Away",
+      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
+      "1550171|Goals Over/Under - Second Half|Over 0.5",
+      "1640383|Player Fouls Committed|Adam Smith - 1"
     ],
     "cuotas": [
       1.36,
-      1.44,
       1.36,
-      1.4
+      1.25,
+      1.28,
+      1.25,
+      1.25,
+      1.36
     ]
   },
   {
     "id": "2026-10-28-datos-rachas",
     "fecha": "2026-10-28T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Inter ha marcado en sus últimos 11 partidos (hoy, ante el Venezia)\n\n• El Udinese encadena 6 partidos sin ganar (hoy, ante el Parma)\n\n• El Parma lleva 5 partidos seguidos con 3 o más goles en total (hoy, ante el Udinese)\n\n• El Monza ha marcado en sus últimos 8 partidos (hoy, ante el Napoli)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Bayern lleva 8 partidos seguidos con 3 o más goles en total (hoy, ante el 1. FC Magdeburg)\n\n• El Man. City ha marcado en sus últimos 12 partidos (hoy, ante el Brighton)\n\n• El Inter ha marcado en sus últimos 11 partidos (hoy, ante el Venezia)\n\n• El Aston Villa ha marcado en sus últimos 9 partidos (hoy, ante el Bournemouth)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -164,7 +180,7 @@
   {
     "id": "2026-10-28-ganadores",
     "fecha": "2026-10-28T10:30",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Inter — Gana\n✅2. 🇮🇹 Juventus — Gana o empata\n✅3. 🇮🇹 AC Milan — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Inter — Gana\n✅2. 🇮🇹 AC Milan — Gana o empata\n✅3. 🇮🇹 Juventus — Gana o empata\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana o empata\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fulham — Gana o empata\n✅6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City — Gana o empata\n✅7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -174,41 +190,113 @@
   {
     "id": "2026-10-28-combi-segura",
     "fecha": "2026-10-28T12:00",
-    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL MIÉRCOLES x1,74! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🇮🇹 Gol en la 2ª parte del Parma–Udinese\n\n🎯 CUOTA 1,74 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL MIÉRCOLES x1,70! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ryan Gravenberch comete 1+ faltas\n\n🎯 CUOTA 1,70 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550176|Match Winner|Away",
-      "1550173|Goals Over/Under - Second Half|Over 0.5"
+      "1640388|Player Fouls Committed|Ryan Gravenberch - 1"
     ],
     "cuotas": [
       1.36,
-      1.28
+      1.25
+    ]
+  },
+  {
+    "id": "2026-10-28-combi-tema",
+    "fecha": "2026-10-28T13:00",
+    "texto": "🎯 MIÉRCOLES DE REMATES x2,38\n\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 25,5 tiros en Bournemouth–Aston Villa\n\n🎯 CUOTA 2,38 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550176|Away Player Shots|Nicolo Barella - 1",
+      "1640383|Total Shots|Over 25.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.83
+    ]
+  },
+  {
+    "id": "2026-10-28-combi-atreve",
+    "fecha": "2026-10-28T16:00",
+    "texto": "🔥 COMBILOCAS — ¡LA QUE NADIE SE ATREVE x7,34! 🔥\n\n✅ 🇮🇹 Monza hace más de 3,5 córners\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 4,5 tarjetas en Bournemouth–Aston Villa\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chris Richards comete 1+ faltas\n\n🎯 CUOTA 7,34 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550172|Home Corners Over/Under|Over 3.5",
+      "1640383|Cards Over/Under|Over 4.5",
+      "1640387|Player Fouls Committed|Chris Richards - 1"
+    ],
+    "cuotas": [
+      1.83,
+      2.1,
+      1.91
     ]
   },
   {
     "id": "2026-10-28-picks-hoy",
     "fecha": "2026-10-28T17:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA HOY! 🍀\n\n✅ 🇮🇹 Monza marca\n✅ 🇮🇹 Juventus gana alguna de las dos partes\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA HOY! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Adam Smith comete 1+ faltas\n✅ 🇮🇹 Gol en la 2ª parte del Genoa–Juventus\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Anan Khalaili comete 1+ faltas\n✅ 🇮🇹 Gol en la 2ª parte del Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Pedro Neto comete 1+ faltas\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Elliot Anderson comete 1+ faltas\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1640383|Player Fouls Committed|Adam Smith - 1",
+      "1550171|Goals Over/Under - Second Half|Over 0.5",
+      "1640387|Player Fouls Committed|Anan Khalaili - 1",
+      "1550173|Goals Over/Under - Second Half|Over 0.5",
+      "1640388|Player Fouls Committed|Pedro Neto - 1",
+      "1640575|Player Fouls Committed|Elliot Anderson - 1",
+      "1550176|Away Player Shots|Nicolo Barella - 1"
+    ],
+    "cuotas": [
+      1.36,
+      1.25,
+      1.4,
+      1.28,
+      1.25,
+      1.33,
+      1.3
+    ]
+  },
+  {
+    "id": "2026-10-28-combi-partido",
+    "fecha": "2026-10-28T19:55",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 MONZA vs NAPOLI 🇮🇹\n\n🎯 MONZA MARCA [x1.44]\n✅ MONZA HACE MÁS DE 3,5 CÓRNERS [x1.83]\n✅ MONZA GANA ALGUNA DE LAS DOS PARTES [x2.50]\n✅ MÁS DE 8,5 TIROS A PUERTA [x1.67]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 11,00\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550172|Total - Home|Over 0.5",
-      "1550171|To Win Either Half|Away",
-      "1550173|Goals Over/Under|Over 1.5"
+      "1550172|Home Corners Over/Under|Over 3.5",
+      "1550172|To Win Either Half|Home",
+      "1550172|Total ShotOnGoal|Over 8.5"
     ],
     "cuotas": [
       1.44,
-      1.4,
-      1.36
-    ]
+      1.83,
+      2.5,
+      1.67
+    ],
+    "tarjeta": {
+      "local": "Monza",
+      "visitante": "Napoli",
+      "id_l": 1579,
+      "id_v": 492,
+      "logo_l": "https://media.api-sports.io/football/teams/1579.png",
+      "logo_v": "https://media.api-sports.io/football/teams/492.png",
+      "fecha": "2026-10-28T20:45",
+      "liga": "Serie A"
+    }
   },
   {
     "id": "2026-10-29-datos-manana",
     "fecha": "2026-10-28T23:00",
-    "texto": "👀 2 DATOS PARA LOS PARTIDOS DE MAÑANA (JUEVES) 👀\n\n⚽ Fiorentina – Atalanta (20:45)\nSus últimos 6 cara a cara promedian 3,3 goles.\n\n⚽ Frosinone – Lecce (18:30)\nEl Frosinone solo ha ganado 2 de sus últimos 5 partidos.\n\n👇 ¿Qué partido vas a ver?",
+    "texto": "👀 6 DATOS PARA LOS PARTIDOS DE MAÑANA (JUEVES) 👀\n\n⚽ Everton – Newcastle (20:45)\nEl Everton solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Fiorentina – Atalanta (20:45)\nSus últimos 6 cara a cara promedian 3,3 goles.\n\n⚽ Prat – Athletic Club (21:00)\nEl Athletic Club solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Hortaleza – Sevilla (21:00)\nEl Sevilla ha marcado en sus últimos 10 partidos.\n\n⚽ Frosinone – Lecce (18:30)\nEl Frosinone solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Kozakken Boys – Utrecht (18:45)\nEl Utrecht ha ganado 3 de sus últimos 5 partidos.\n\n👇 ¿Qué partido vas a ver?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -216,19 +304,47 @@
     "cuotas": []
   },
   {
+    "id": "2026-10-29-datos-rachas",
+    "fecha": "2026-10-29T10:00",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Sevilla ha marcado en sus últimos 10 partidos (hoy, ante el Hortaleza)\n\n• El Groningen ha marcado en sus últimos 10 partidos (hoy, ante el Emmen)\n\n• El Deportivo La Coruna encadena 6 partidos sin ganar (hoy, ante el Auriense)\n\n• El Getafe encadena 5 partidos sin ganar (hoy, ante el Lebrijana)\n\n👇 ¿Cuál se rompe hoy?",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-10-29-combi-segura",
+    "fecha": "2026-10-29T12:00",
+    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL JUEVES x1,60! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thierno Barry: 2+ tiros\n✅ 🇮🇹 Atalanta marca\n\n🎯 CUOTA 1,60 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1640385|Home Player Shots|Thierno Barry - 2",
+      "1550169|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.25
+    ]
+  },
+  {
     "id": "2026-10-30-picks-manana",
     "fecha": "2026-10-29T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sheffield Utd–Wrexham\n✅ 🇪🇸 Espanyol marca\n✅ 🇫🇷 Gol en la 1ª parte del Lille–Lens\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sheffield Utd–Wrexham\n✅ 🇩🇪 Más de 2,5 goles en SV Elversberg–FSV Mainz 05\n✅ 🇪🇸 Espanyol marca\n✅ 🇫🇷 Gol en la 1ª parte del Lille–Lens\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1563233|Goals Over/Under|Over 1.5",
+      "1575211|Goals Over/Under|Over 2.5",
       "1570442|Total - Away|Over 0.5",
       "1552802|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
       1.28,
+      1.5,
       1.5,
       1.3
     ]
@@ -236,7 +352,7 @@
   {
     "id": "2026-10-30-datos-rachas",
     "fecha": "2026-10-30T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El PSG ha ganado sus últimos 7 partidos (hoy, ante el Le Havre)\n\n• El Sporting CP ha marcado en sus últimos 12 partidos (hoy, ante el Casa Pia)\n\n• El Le Havre encadena 8 partidos sin ganar (hoy, ante el PSG)\n\n• El Espanyol encadena 5 partidos sin ganar (hoy, ante el Villarreal)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El PSG ha ganado sus últimos 8 partidos (hoy, ante el Le Havre)\n\n• El Sporting CP ha marcado en sus últimos 12 partidos (hoy, ante el Casa Pia)\n\n• El Le Havre encadena 8 partidos sin ganar (hoy, ante el PSG)\n\n• El Espanyol encadena 5 partidos sin ganar (hoy, ante el Villarreal)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -246,30 +362,12 @@
   {
     "id": "2026-10-30-ganadores",
     "fecha": "2026-10-30T10:30",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇫🇷 Paris Saint Germain — Gana\n✅2. 🇵🇹 Sporting CP — Gana\n✅3. 🇪🇸 Villarreal — Gana o empata\n✅4. 🇫🇷 Lille — Gana o empata\n✅5. 🇩🇪 FSV Mainz 05 — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇫🇷 Paris Saint Germain — Gana\n✅2. 🇵🇹 Sporting CP — Gana\n✅3. 🇪🇸 Villarreal — Gana o empata\n✅4. 🇩🇪 FSV Mainz 05 — Gana o empata\n✅5. 🇫🇷 Lille — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [],
     "cuotas": []
-  },
-  {
-    "id": "2026-10-30-combi-cuota_3",
-    "fecha": "2026-10-30T11:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x3,30! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Sheffield Utd–Wrexham\n✅ 🇪🇸 Espanyol marca\n✅ 🇩🇪 Phillip Tietz: 3+ tiros\n\n🎯 CUOTA 3,30 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563233|Goals Over/Under First Half|Over 0.5",
-      "1570442|Total - Away|Over 0.5",
-      "1575211|Away Player Shots|Phillip Tietz - 3"
-    ],
-    "cuotas": [
-      1.36,
-      1.5,
-      1.62
-    ]
   },
   {
     "id": "2026-10-30-combi-segura",
@@ -288,9 +386,27 @@
     ]
   },
   {
+    "id": "2026-10-30-picks-hoy",
+    "fecha": "2026-10-30T17:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA HOY! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Sheffield Utd–Wrexham\n✅ 🇩🇪 Más de 2,5 goles en SV Elversberg–FSV Mainz 05\n✅ 🇪🇸 Espanyol marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1563233|Goals Over/Under First Half|Over 0.5",
+      "1575211|Goals Over/Under|Over 2.5",
+      "1570442|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.5,
+      1.5
+    ]
+  },
+  {
     "id": "2026-10-30-datos-finde",
     "fecha": "2026-10-30T18:00",
-    "texto": "📋 LO QUE DICEN LOS DATOS DEL FINDE · 6 PARTIDOS 📋\n\n⚽ Chelsea – Man. United (sáb 13:30)\nEl Man. United encadena 7 partidos sin ganar.\n\n⚽ Levante – Atlético (sáb 14:00)\nEl Atlético lleva 8 partidos seguidos sin perder.\n\n⚽ Real Sociedad II – Girona (sáb 14:00)\nEl Real Sociedad II encadena 6 partidos sin ganar.\n\n⚽ Leverkusen – VfB Stuttgart (sáb 15:30)\nSus últimos 6 cara a cara promedian 4,0 goles.\n\n⚽ Man. City – Brighton (sáb 16:00)\nSus últimos 6 cara a cara promedian 3,2 goles.\n\n⚽ Udinese – Roma (sáb 18:00)\nEl Udinese encadena 6 partidos sin ganar.\n\n👇 ¿Qué partido no te pierdes?",
+    "texto": "📋 LO QUE DICEN LOS DATOS DEL FINDE · 6 PARTIDOS 📋\n\n⚽ Chelsea – Man. United (sáb 13:30)\nEl Man. United encadena 8 partidos sin ganar.\n\n⚽ Levante – Atlético (sáb 14:00)\nEl Atlético lleva 8 partidos seguidos sin perder.\n\n⚽ Real Sociedad II – Girona (sáb 14:00)\nEl Real Sociedad II encadena 6 partidos sin ganar.\n\n⚽ Leverkusen – VfB Stuttgart (sáb 15:30)\nSus últimos 6 cara a cara promedian 4,0 goles.\n\n⚽ Man. City – Brighton (sáb 16:00)\nSus últimos 6 cara a cara promedian 3,2 goles.\n\n⚽ Udinese – Roma (sáb 18:00)\nEl Udinese encadena 6 partidos sin ganar.\n\n👇 ¿Qué partido no te pierdes?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -300,57 +416,57 @@
   {
     "id": "2026-10-31-combi-doble",
     "fecha": "2026-10-30T21:30",
-    "texto": "🛡️ COMBILOCAS — ¡GANA O EMPATA DEL SÁBADO x6,01! 🛡️\n\n✅ 🇳🇱 GO Ahead Eagles o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇫🇷 Rennes o empate\n✅ 🇫🇷 Lorient o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth o empate\n\n🎯 CUOTA 6,01 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🛡️ COMBILOCAS — ¡GANA O EMPATA DEL SÁBADO x7,86! 🛡️\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham o empate\n✅ 🇳🇱 GO Ahead Eagles o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇳🇱 Heerenveen o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Portsmouth o empate\n✅ 🇫🇷 Lorient o empate\n\n🎯 CUOTA 7,86 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1563229|Double Chance|Draw/Away",
       "1552211|Double Chance|Draw/Away",
       "1557449|Double Chance|Home/Draw",
       "1552208|Double Chance|Home/Draw",
-      "1552806|Double Chance|Draw/Away",
-      "1552803|Double Chance|Home/Draw",
-      "1557448|Double Chance|Home/Draw"
+      "1563228|Double Chance|Draw/Away",
+      "1552803|Double Chance|Home/Draw"
     ],
     "cuotas": [
+      1.36,
       1.4,
       1.28,
       1.28,
-      1.44,
-      1.4,
-      1.3
+      1.8,
+      1.4
     ]
   },
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City gana alguna de las dos partes\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Swansea–Blackburn\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Watford hace más de 2,5 córners\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cardiff marca\n✅ 🇫🇷 Lorient o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mohamed Belloumi: 2+ tiros\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City gana alguna de las dos partes\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Swansea–Blackburn\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cardiff marca\n✅ 🇫🇷 Lorient o empate\n✅ 🇩🇪 Niclas Fullkrug: 1+ tiros a puerta\n✅ 🇩🇪 Gol en la 1ª parte del FC Augsburg–SC Freiburg\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1563235|To Win Either Half|Home",
       "1563236|Goals Over/Under First Half|Over 0.5",
-      "1563232|Away Corners Over/Under|Over 2.5",
       "1563237|Home Player Shots On Target Total|Jarrod Bowen - 1",
       "1563238|Total - Away|Over 0.5",
       "1552803|Double Chance|Home/Draw",
-      "1557452|Home Player Shots|Mohamed Belloumi - 2"
+      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
+      "1575206|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
       1.4,
       1.44,
-      1.62,
       1.25,
       1.44,
       1.4,
-      1.28
+      1.25,
+      1.25
     ]
   },
   {
     "id": "2026-10-31-datos-rachas",
     "fecha": "2026-10-31T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Ajax ha marcado en sus últimos 18 partidos (hoy, ante el AZ Alkmaar)\n\n• El Barcelona lleva 11 partidos seguidos con 3 o más goles en total (hoy, ante el Alaves)\n\n• El Bayern lleva 8 partidos seguidos con 3 o más goles en total (hoy, ante el Dortmund)\n\n• El Man. United encadena 7 partidos sin ganar (hoy, ante el Chelsea)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Ajax ha marcado en sus últimos 18 partidos (hoy, ante el AZ Alkmaar)\n\n• El Barcelona lleva 11 partidos seguidos con 3 o más goles en total (hoy, ante el Alaves)\n\n• El Man. United encadena 8 partidos sin ganar (hoy, ante el Chelsea)\n\n• El Bayern lleva 8 partidos seguidos con 3 o más goles en total (hoy, ante el Dortmund)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -360,7 +476,7 @@
   {
     "id": "2026-10-31-ganadores",
     "fecha": "2026-10-31T10:30",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇵🇹 FC Porto — Gana\n✅2. 🇳🇱 PSV Eindhoven — Gana\n✅3. 🇪🇸 Real Betis — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅5. 🇪🇸 Barcelona — Gana\n✅6. 🇮🇹 AS Roma — Gana\n✅7. 🇩🇪 Bayer Leverkusen — Gana\n✅8. 🇪🇸 Atletico Madrid — Gana\n✅9. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City — Gana\n✅10. 🇪🇸 Girona — Gana\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇵🇹 FC Porto — Gana\n✅2. 🇳🇱 PSV Eindhoven — Gana\n✅3. 🇪🇸 Real Betis — Gana\n✅4. 🇪🇸 Barcelona — Gana\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅6. 🇩🇪 Bayer Leverkusen — Gana\n✅7. 🇪🇸 Atletico Madrid — Gana\n✅8. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City — Gana\n✅9. 🇮🇹 AS Roma — Gana\n✅10. 🇪🇸 Girona — Gana\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -370,39 +486,39 @@
   {
     "id": "2026-10-31-combi-segura",
     "fecha": "2026-10-31T12:00",
-    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL SÁBADO x1,75! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City gana alguna de las dos partes\n✅ 🇩🇪 Gol en la 1ª parte del FC Augsburg–SC Freiburg\n\n🎯 CUOTA 1,75 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL SÁBADO x1,70! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham o empate\n✅ 🇩🇪 Gol en la 1ª parte del FC Augsburg–SC Freiburg\n\n🎯 CUOTA 1,70 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563235|To Win Either Half|Home",
+      "1563229|Double Chance|Draw/Away",
       "1575206|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
-      1.4,
+      1.36,
       1.25
     ]
   },
   {
     "id": "2026-10-31-combi-tema",
     "fecha": "2026-10-31T13:00",
-    "texto": "✈️ SÁBADO DE LOS DE FUERA x2,26\n\n✅ 🇳🇱 GO Ahead Eagles gana alguna de las dos partes\n✅ 🇫🇷 Rennes o empate\n\n🎯 CUOTA 2,26 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "✈️ SÁBADO DE LOS DE FUERA x2,14\n\n✅ 🇳🇱 GO Ahead Eagles gana alguna de las dos partes\n✅ 🇪🇸 Celta Vigo marca\n\n🎯 CUOTA 2,14 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552211|To Win Either Half|Away",
-      "1552806|Double Chance|Draw/Away"
+      "1570441|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.57,
-      1.44
+      1.36
     ]
   },
   {
     "id": "2026-10-31-combi-loca",
-    "fecha": "2026-10-31T15:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x8,36! 🤪\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cardiff marca\n✅ 🇳🇱 Heerenveen o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Burnley–Portsmouth\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mohamed Belloumi: 2+ tiros\n✅ 🇪🇸 Malaga hace más de 3,5 córners\n\n🎯 CUOTA 8,36 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "fecha": "2026-10-31T14:30",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x13,63! 🤪\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cardiff marca\n✅ 🇳🇱 Heerenveen o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Burnley–Portsmouth\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🇩🇪 Niclas Fullkrug: 1+ tiros a puerta\n✅ 🇩🇪 Borussia Mönchengladbach hace más de 4,5 córners\n✅ 🇪🇸 Malaga hace más de 3,5 córners\n\n🎯 CUOTA 13,63 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -412,7 +528,8 @@
       "1552208|Double Chance|Home/Draw",
       "1563228|Goals Over/Under|Over 1.5",
       "1563237|Home Player Shots On Target Total|Jarrod Bowen - 1",
-      "1557452|Home Player Shots|Mohamed Belloumi - 2",
+      "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1",
+      "1575208|Home Corners Over/Under|Over 4.5",
       "1570435|Away Corners Over/Under|Over 3.5"
     ],
     "cuotas": [
@@ -421,32 +538,35 @@
       1.28,
       1.28,
       1.25,
-      1.28,
+      1.25,
+      1.67,
       1.73
     ]
   },
   {
     "id": "2026-10-31-picks-hoy",
     "fecha": "2026-10-31T17:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA HOY! 🍀\n\n✅ 🇫🇷 Pathe Mboup: 2+ tiros\n✅ 🇫🇷 Más de 1,5 goles en Estac Troyes–Le Mans\n✅ 🇳🇱 Ambos marcan en Cambuur–GO Ahead Eagles\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA HOY! 🍀\n\n✅ 🇫🇷 Pathe Mboup: 2+ tiros\n✅ 🇳🇱 Ambos marcan en Cambuur–GO Ahead Eagles\n✅ 🇫🇷 Más de 1,5 goles en Estac Troyes–Le Mans\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fulham marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552803|Away Player Shots|Pathe Mboup - 2",
+      "1552211|Both Teams Score|Yes",
       "1552809|Goals Over/Under|Over 1.5",
-      "1552211|Both Teams Score|Yes"
+      "1557447|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.33,
+      1.4,
       1.25,
-      1.4
+      1.36
     ]
   },
   {
     "id": "2026-11-01-combi-doble",
     "fecha": "2026-10-31T21:30",
-    "texto": "🛡️ COMBILOCAS — ¡GANA O EMPATA DEL DOMINGO x14,56! 🛡️\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Elche o empate\n✅ 🇳🇱 Utrecht o empate\n✅ 🇩🇪 1. FC Köln o empate\n✅ 🇪🇸 Real Sociedad o empate\n✅ 🇫🇷 Toulouse o empate\n\n🎯 CUOTA 14,56 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🛡️ COMBILOCAS — ¡GANA O EMPATA DEL DOMINGO x9,70! 🛡️\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Elche o empate\n✅ 🇳🇱 Utrecht o empate\n✅ 🇪🇸 Real Sociedad o empate\n✅ 🇫🇷 Toulouse o empate\n\n🎯 CUOTA 9,70 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -454,7 +574,6 @@
       "1570438|Double Chance|Draw/Away",
       "1570437|Double Chance|Home/Draw",
       "1552214|Double Chance|Draw/Away",
-      "1575207|Double Chance|Draw/Away",
       "1570433|Double Chance|Draw/Away",
       "1552805|Double Chance|Draw/Away"
     ],
@@ -462,7 +581,6 @@
       1.4,
       1.44,
       1.4,
-      1.5,
       1.8,
       1.91
     ]
@@ -470,33 +588,33 @@
   {
     "id": "2026-11-01-picks-manana",
     "fecha": "2026-10-31T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇮🇹 Gana el Como\n✅ 🇳🇱 Sparta Rotterdam marca\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n✅ 🇪🇸 Gol en la 2ª parte del Getafe–Sevilla\n✅ 🇳🇱 ADO Den Haag marca\n✅ 🇮🇹 Gol en la 1ª parte del Frosinone–Torino\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n✅ 🇳🇱 Sparta Rotterdam marca\n✅ 🇳🇱 ADO Den Haag marca\n✅ 🇪🇸 Gol en la 2ª parte del Getafe–Sevilla\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n✅ 🇮🇹 Gol en la 1ª parte del Frosinone–Torino\n✅ 🇪🇸 Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550180|Match Winner|Home",
-      "1552215|Total - Away|Over 0.5",
       "1570433|Goals Over/Under|Over 1.5",
-      "1550184|Goals Over/Under|Over 1.5",
-      "1570438|Goals Over/Under - Second Half|Over 0.5",
+      "1552215|Total - Away|Over 0.5",
       "1552212|Total - Away|Over 0.5",
-      "1550181|Goals Over/Under First Half|Over 0.5"
+      "1570438|Goals Over/Under - Second Half|Over 0.5",
+      "1550184|Goals Over/Under|Over 1.5",
+      "1550181|Goals Over/Under First Half|Over 0.5",
+      "1570440|Total Goals/Both Teams To Score|o/yes 2.5"
     ],
     "cuotas": [
-      1.33,
+      1.25,
       1.36,
       1.25,
+      1.36,
       1.44,
-      1.36,
-      1.25,
-      1.28
+      1.28,
+      1.5
     ]
   },
   {
     "id": "2026-11-01-datos-rachas",
     "fecha": "2026-11-01T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Real Madrid ha ganado sus últimos 5 partidos (hoy, ante el Racing Santander)\n\n• La Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Cagliari)\n\n• El Sevilla ha marcado en sus últimos 9 partidos (hoy, ante el Getafe)\n\n• El Liverpool ha ganado sus últimos 4 partidos (hoy, ante el Arsenal)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Sevilla ha marcado en sus últimos 10 partidos (hoy, ante el Getafe)\n\n• El Real Madrid ha ganado sus últimos 5 partidos (hoy, ante el Racing Santander)\n\n• La Lazio lleva 8 partidos seguidos sin perder (hoy, ante el Cagliari)\n\n• El Liverpool ha ganado sus últimos 4 partidos (hoy, ante el Arsenal)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -506,7 +624,7 @@
   {
     "id": "2026-11-01-ganadores",
     "fecha": "2026-11-01T10:30",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Como — Gana\n✅2. 🇵🇹 Arouca — Gana\n✅3. 🇳🇱 Twente — Gana\n✅4. 🇪🇸 Real Madrid — Gana\n✅5. 🇵🇹 Academico Viseu — Gana\n✅6. 🇮🇹 Lazio — Gana\n✅7. 🇵🇹 Santa Clara — Gana\n✅8. 🇪🇸 Sporting Gijon — Gana o empata\n✅9. 🇪🇸 Castellón — Gana o empata\n✅10. 🇮🇹 Juventus — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Como — Gana\n✅2. 🇵🇹 Arouca — Gana\n✅3. 🇳🇱 Twente — Gana\n✅4. 🇪🇸 Real Madrid — Gana\n✅5. 🇵🇹 Academico Viseu — Gana\n✅6. 🇮🇹 Lazio — Gana\n✅7. 🇪🇸 Sporting Gijon — Gana o empata\n✅8. 🇵🇹 Santa Clara — Gana o empata\n✅9. 🇮🇹 Juventus — Gana o empata\n✅10. 🇪🇸 Castellón — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -515,42 +633,24 @@
   },
   {
     "id": "2026-11-01-combi-segura",
-    "fecha": "2026-11-01T11:30",
-    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL DOMINGO x1,66! 🍀\n\n✅ 🇮🇹 Gana el Como\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n\n🎯 CUOTA 1,66 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550180|Match Winner|Home",
-      "1570433|Goals Over/Under|Over 1.5"
-    ],
-    "cuotas": [
-      1.33,
-      1.25
-    ]
-  },
-  {
-    "id": "2026-11-01-combi-tema",
-    "fecha": "2026-11-01T13:00",
-    "texto": "🛡️ DOMINGO DE SEGUROS x2,67\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇳🇱 Sparta Rotterdam marca\n✅ 🇳🇱 Utrecht o empate\n\n🎯 CUOTA 2,67 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "fecha": "2026-11-01T12:00",
+    "texto": "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL DOMINGO x1,75! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n\n🎯 CUOTA 1,75 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570438|Double Chance|Draw/Away",
-      "1552215|Total - Away|Over 0.5",
-      "1552214|Double Chance|Draw/Away"
+      "1570433|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
       1.4,
-      1.36,
-      1.4
+      1.25
     ]
   },
   {
     "id": "2026-11-02-datos-manana",
     "fecha": "2026-11-01T23:00",
-    "texto": "👀 6 DATOS PARA LOS PARTIDOS DE MAÑANA (LUNES) 👀\n\n⚽ Atalanta – Parma (20:45)\nSus últimos 6 cara a cara promedian 4,5 goles.\n\n⚽ Newcastle – Everton (21:00)\nEl Everton solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Benfica – Alverca (21:15)\nEl Benfica ha marcado en sus últimos 17 partidos.\n\n⚽ Oviedo – Las Palmas (16:15)\nEl Las Palmas solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Sassuolo – Fiorentina (18:30)\nSus últimos 6 cara a cara promedian 3,0 goles.\n\n⚽ Valladolid – Leganes (18:30)\nEl Valladolid lleva 5 partidos seguidos con 3 o más goles en total.\n\n👇 ¿Qué partido vas a ver?",
+    "texto": "👀 6 DATOS PARA LOS PARTIDOS DE MAÑANA (LUNES) 👀\n\n⚽ Atalanta – Parma (20:45)\nSus últimos 6 cara a cara promedian 4,5 goles.\n\n⚽ Newcastle – Everton (21:00)\nEl Newcastle solo ha ganado 2 de sus últimos 5 partidos.\n\n⚽ Benfica – Alverca (21:15)\nEl Benfica ha ganado sus últimos 4 partidos.\n\n⚽ Oviedo – Las Palmas (16:15)\nEl Las Palmas solo ha ganado 1 de sus últimos 5 partidos.\n\n⚽ Sassuolo – Fiorentina (18:30)\nSus últimos 6 cara a cara promedian 3,0 goles.\n\n⚽ Valladolid – Leganes (18:30)\nEl Valladolid lleva 5 partidos seguidos con 3 o más goles en total.\n\n👇 ¿Qué partido vas a ver?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -560,7 +660,7 @@
   {
     "id": "2026-11-02-datos-rachas",
     "fecha": "2026-11-02T10:00",
-    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Benfica ha marcado en sus últimos 17 partidos (hoy, ante el Alverca)\n\n• El Deportivo La Coruna encadena 6 partidos sin ganar (hoy, ante el Osasuna)\n\n• El Valladolid lleva 5 partidos seguidos con 3 o más goles en total (hoy, ante el Leganes)\n\n• El Leganes encadena 5 partidos sin ganar (hoy, ante el Valladolid)\n\n👇 ¿Cuál se rompe hoy?",
+    "texto": "🔥 4 RACHAS QUE SIGUEN VIVAS HOY 🔥\n\n• El Benfica ha marcado en sus últimos 18 partidos (hoy, ante el Alverca)\n\n• El Deportivo La Coruna encadena 6 partidos sin ganar (hoy, ante el Osasuna)\n\n• El Valladolid lleva 5 partidos seguidos con 3 o más goles en total (hoy, ante el Leganes)\n\n• El Leganes encadena 5 partidos sin ganar (hoy, ante el Valladolid)\n\n👇 ¿Cuál se rompe hoy?",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -596,19 +696,17 @@
   {
     "id": "2026-11-02-combi-tema",
     "fecha": "2026-11-02T13:00",
-    "texto": "⚽ LUNES DE GOLES x2,69\n\n✅ 🇪🇸 Más de 1,5 goles en Deportivo La Coruna–Osasuna\n✅ 🇪🇸 Gol en la 2ª parte del Valladolid–Leganes\n✅ 🇪🇸 Las Palmas marca\n\n🎯 CUOTA 2,69 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ LUNES DE GOLES x2,02\n\n✅ 🇪🇸 Más de 1,5 goles en Deportivo La Coruna–Osasuna\n✅ 🇪🇸 Gol en la 1ª parte del Valladolid–Leganes\n\n🎯 CUOTA 2,02 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570436|Goals Over/Under|Over 1.5",
-      "1570002|Goals Over/Under - Second Half|Over 0.5",
-      "1569999|Total - Away|Over 0.5"
+      "1570002|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
       1.4,
-      1.28,
-      1.5
+      1.44
     ]
   }
 ]

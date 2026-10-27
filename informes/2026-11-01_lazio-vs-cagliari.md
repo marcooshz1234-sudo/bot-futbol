@@ -1,7 +1,7 @@
 # Lazio – Cagliari
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -16,53 +16,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Lazio (total) | Lazio en casa | Cagliari (total) | Cagliari fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 8 | 4 |
-| Forma (últimos 5) | VVVVE | VVEV | DDEVV | DVVV |
-| Balance | 7V 1E 0D | 3V 1E 0D | 4V 1E 3D | 3V 0E 1D |
-| Goles a favor / partido | 2,00 | 2,00 | 0,75 | 1,00 |
-| Goles en contra / partido | 0,62 | 1,00 | 1,12 | 1,25 |
-| Goles a favor 1ª parte | 0,75 | 1,25 | 0,38 | 0,25 |
-| Goles a favor 2ª parte | 1,25 | 0,75 | 0,38 | 0,75 |
-| Goles en contra 1ª parte | 0,00 | 0,00 | 0,38 | 0,50 |
-| Goles en contra 2ª parte | 0,62 | 1,00 | 0,75 | 0,75 |
-| Más de 1,5 goles | 75% | 75% | 50% | 50% |
-| Más de 2,5 goles | 62% | 75% | 25% | 50% |
-| Más de 3,5 goles | 25% | 50% | 12% | 25% |
-| Ambos marcan | 50% | 75% | 25% | 25% |
-| Portería a cero | 50% | 25% | 38% | 50% |
-| Se queda sin marcar | 0% | 0% | 38% | 25% |
+| Partidos analizados | 9 | 5 | 10 | 4 |
+| Forma (últimos 5) | VVVVE | VVEVD | DDEVV | DVVV |
+| Balance | 7V 1E 1D | 3V 1E 1D | 5V 1E 4D | 3V 0E 1D |
+| Goles a favor / partido | 1,78 | 1,60 | 0,80 | 1,00 |
+| Goles en contra / partido | 0,78 | 1,20 | 1,10 | 1,25 |
+| Goles a favor 1ª parte | 0,67 | 1,00 | 0,40 | 0,25 |
+| Goles a favor 2ª parte | 1,11 | 0,60 | 0,40 | 0,75 |
+| Goles en contra 1ª parte | 0,00 | 0,00 | 0,40 | 0,50 |
+| Goles en contra 2ª parte | 0,78 | 1,20 | 0,70 | 0,75 |
+| Más de 1,5 goles | 78% | 80% | 50% | 50% |
+| Más de 2,5 goles | 56% | 60% | 30% | 50% |
+| Más de 3,5 goles | 22% | 40% | 10% | 25% |
+| Ambos marcan | 44% | 60% | 30% | 25% |
+| Portería a cero | 44% | 20% | 40% | 50% |
+| Se queda sin marcar | 11% | 20% | 30% | 25% |
 | xG a favor | 1,49 | 1,82 | 1,07 | 1,37 |
 | xG en contra | 1,20 | 1,07 | 1,81 | 1,68 |
-| Tiros / partido | 13,9 | 15,2 | 9,8 | 10,0 |
-| Tiros a puerta / partido | 4,2 | 5,0 | 3,6 | 4,2 |
-| Tiros recibidos | 12,2 | 12,0 | 18,5 | 18,8 |
-| Tiros a puerta recibidos | 4,6 | 4,5 | 5,2 | 4,2 |
-| Posesión media % | 51 | 53 | 43 | 46 |
-| Córners a favor | 5,5 | 5,2 | 3,6 | 3,0 |
-| Córners en contra | 4,8 | 4,0 | 6,2 | 6,0 |
-| Córners a favor 1ª parte | 2,4 | 2,5 | 1,4 | 1,2 |
-| Córners a favor 2ª parte | 3,1 | 2,8 | 2,2 | 1,8 |
-| Córners totales del partido | 10,2 | 9,2 | 9,9 | 9,0 |
-| Córners totales 1ª parte | 5,2 | 5,0 | 3,4 | 3,0 |
-| Córners totales 2ª parte | 5,0 | 4,2 | 6,5 | 6,0 |
-| Más de 8,5 córners | 75% | 50% | 62% | 50% |
-| Más de 9,5 córners | 62% | 50% | 50% | 25% |
-| Más de 10,5 córners | 50% | 50% | 38% | 25% |
-| Faltas cometidas | 11,4 | 12,0 | 12,2 | 12,5 |
-| Faltas recibidas | 11,6 | 10,2 | 9,2 | 8,8 |
-| Amarillas propias | 1,8 | 1,8 | 1,5 | 1,0 |
-| Amarillas del rival | 2,8 | 1,8 | 1,1 | 0,8 |
+| Tiros / partido | 14,7 | 16,4 | 10,7 | 10,0 |
+| Tiros a puerta / partido | 4,1 | 4,6 | 3,6 | 4,2 |
+| Tiros recibidos | 12,2 | 12,0 | 17,5 | 18,8 |
+| Tiros a puerta recibidos | 4,9 | 5,0 | 5,0 | 4,2 |
+| Posesión media % | 53 | 57 | 45 | 46 |
+| Córners a favor | 5,7 | 5,6 | 3,8 | 3,0 |
+| Córners en contra | 4,6 | 3,8 | 5,6 | 6,0 |
+| Córners a favor 1ª parte | 2,2 | 2,2 | 1,5 | 1,2 |
+| Córners a favor 2ª parte | 3,4 | 3,4 | 2,3 | 1,8 |
+| Córners totales del partido | 10,2 | 9,4 | 9,4 | 9,0 |
+| Córners totales 1ª parte | 5,1 | 4,8 | 3,4 | 3,0 |
+| Córners totales 2ª parte | 5,1 | 4,6 | 6,0 | 6,0 |
+| Más de 8,5 córners | 78% | 60% | 50% | 50% |
+| Más de 9,5 córners | 67% | 60% | 40% | 25% |
+| Más de 10,5 córners | 44% | 40% | 30% | 25% |
+| Faltas cometidas | 11,7 | 12,4 | 12,3 | 12,5 |
+| Faltas recibidas | 11,8 | 10,8 | 10,0 | 8,8 |
+| Amarillas propias | 1,9 | 2,0 | 1,5 | 1,0 |
+| Amarillas del rival | 2,6 | 1,6 | 1,3 | 0,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lazio | Recibe Lazio | Tarjetas Lazio | Goles Cagliari | Recibe Cagliari | Tarjetas Cagliari |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 0 | 0 | 0 | 1 | 1 |
-| 16-30' | 2 | 0 | 3 | 3 | 0 | 0 |
+| 16-30' | 2 | 0 | 4 | 4 | 1 | 0 |
 | 31-45' | 2 | 0 | 4 | 0 | 2 | 2 |
-| 46-60' | 5 | 2 | 2 | 1 | 2 | 3 |
-| 61-75' | 2 | 2 | 2 | 1 | 1 | 0 |
-| 76-90' | 3 | 1 | 3 | 1 | 3 | 7 |
+| 46-60' | 5 | 2 | 3 | 2 | 2 | 3 |
+| 61-75' | 2 | 3 | 2 | 1 | 1 | 1 |
+| 76-90' | 3 | 2 | 4 | 1 | 4 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -91,26 +91,26 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Jugadores de Lazio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Mandas | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| M. Zaccagni | F | 8 | 699 | 1 | 3 | 17 | 2,1 | 9 | 1,1 | 5 | 14 | 1,8 | 3 | 0 |
+| C. Mandas | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| M. Zaccagni | F | 9 | 789 | 1 | 3 | 18 | 2,0 | 9 | 1,0 | 6 | 17 | 1,9 | 3 | 0 |
+| K. Taylor | M | 9 | 741 | 1 | 0 | 8 | 0,9 | 4 | 0,4 | 7 | 11 | 1,2 | 1 | 0 |
+| O. Provstgaard | D | 9 | 735 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 15 | 1 | 0,1 | 3 | 0 |
 | R. Floriani Mussolini | D | 8 | 673 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 10 | 1 | 0,1 | 1 | 0 |
-| K. Taylor | M | 8 | 651 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 7 | 10 | 1,2 | 1 | 0 |
-| O. Provstgaard | D | 8 | 645 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 1 | 0,1 | 3 | 0 |
-| D. Frattesi | M | 8 | 626 | 3 | 0 | 9 | 1,1 | 3 | 0,4 | 7 | 12 | 1,5 | 0 | 0 |
+| D. Frattesi | M | 9 | 645 | 3 | 0 | 9 | 1,0 | 3 | 0,3 | 8 | 12 | 1,3 | 0 | 0 |
+| R. Belahyane | M | 8 | 604 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 4 | 3 | 0,4 | 1 | 0 |
 | Nuno Tavares | D | 8 | 594 | 1 | 3 | 8 | 1,0 | 3 | 0,4 | 6 | 9 | 1,1 | 0 | 0 |
-| R. Belahyane | M | 7 | 593 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 4 | 3 | 0,4 | 1 | 0 |
-| T. Noslin | F | 7 | 417 | 2 | 2 | 8 | 1,1 | 4 | 0,6 | 2 | 4 | 0,6 | 0 | 0 |
+| T. Noslin | F | 8 | 428 | 2 | 2 | 9 | 1,1 | 4 | 0,5 | 2 | 5 | 0,6 | 0 | 0 |
+| Danilho Doekhi | D | 5 | 413 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 7 | 3 | 0,6 | 1 | 0 |
 | G. Isaksen | F | 8 | 406 | 2 | 0 | 13 | 1,6 | 2 | 0,2 | 6 | 11 | 1,4 | 1 | 0 |
 | J. Šutalo | D | 5 | 384 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Danilho Doekhi | D | 4 | 323 | 0 | 1 | 3 | 0,8 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
-| Matteo Cancellieri | F | 5 | 293 | 1 | 0 | 6 | 1,2 | 3 | 0,6 | 6 | 6 | 1,2 | 1 | 0 |
-| Boulaye Dia | F | 2 | 159 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
-| Pedraza | D | 7 | 151 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
+| Matteo Cancellieri | F | 6 | 372 | 1 | 0 | 10 | 1,7 | 3 | 0,5 | 8 | 8 | 1,3 | 2 | 0 |
+| Boulaye Dia | F | 3 | 230 | 0 | 1 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
+| Pedraza | D | 8 | 215 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
+| Nicolò Rovella | M | 3 | 206 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
+| F. Dele-Bashiru | M | 5 | 195 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 1 | 3 | 0,6 | 1 | 0 |
 | Andrea Pinamonti | F | 6 | 144 | 1 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 2 | 0,3 | 0 | 0 |
-| Nicolò Rovella | M | 2 | 127 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
-| F. Dele-Bashiru | M | 4 | 124 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 0 | 2 | 0,5 | 0 | 0 |
+| Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 | Diogo Leite | D | 3 | 93 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 1 | 0 |
-| M. Lazzari | M | 5 | 57 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Últimos partidos de Cagliari
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -125,36 +125,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Jugadores de Cagliari
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Adopo | M | 8 | 720 | 0 | 2 | 2 | 0,2 | 2 | 0,2 | 7 | 5 | 0,6 | 0 | 0 |
-| E. Caprile | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| A. Obert | D | 8 | 711 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 3 | 4 | 0,5 | 0 | 0 |
-| A. Romano | M | 8 | 691 | 1 | 0 | 10 | 1,2 | 5 | 0,6 | 12 | 6 | 0,8 | 0 | 0 |
-| H. Winks | M | 8 | 633 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 10 | 6 | 0,8 | 1 | 0 |
-| J. Rodríguez | D | 8 | 620 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 2 | 0,2 | 0 | 0 |
-| P. Mendy | F | 8 | 610 | 1 | 1 | 14 | 1,8 | 5 | 0,6 | 16 | 8 | 1,0 | 0 | 0 |
-| Zé Pedro | D | 8 | 606 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 2 | 0 |
-| A. Deiola | D | 8 | 587 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 3 | 0 |
-| D. Maldini | M | 8 | 572 | 4 | 0 | 9 | 1,1 | 5 | 0,6 | 5 | 11 | 1,4 | 0 | 0 |
+| A. Obert | D | 10 | 856 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,5 | 0 | 0 |
+| M. Adopo | M | 10 | 847 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 10 | 5 | 0,5 | 1 | 0 |
+| A. Romano | M | 10 | 836 | 1 | 0 | 12 | 1,2 | 6 | 0,6 | 14 | 7 | 0,7 | 0 | 0 |
+| E. Caprile | G | 9 | 820 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| J. Rodríguez | D | 10 | 810 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 10 | 6 | 0,6 | 0 | 0 |
+| H. Winks | M | 10 | 798 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 12 | 7 | 0,7 | 1 | 0 |
+| P. Mendy | F | 10 | 745 | 2 | 1 | 17 | 1,7 | 6 | 0,6 | 19 | 9 | 0,9 | 0 | 0 |
+| Zé Pedro | D | 9 | 706 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 1 | 0,1 | 2 | 0 |
+| A. Deiola | D | 10 | 647 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 7 | 4 | 0,4 | 3 | 0 |
+| D. Maldini | M | 10 | 645 | 4 | 0 | 10 | 1,0 | 5 | 0,5 | 7 | 13 | 1,3 | 1 | 0 |
+| Jacopo Fazzini | M | 7 | 382 | 0 | 1 | 6 | 0,9 | 1 | 0,1 | 4 | 6 | 0,9 | 1 | 0 |
+| A. Fadera | F | 8 | 271 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 9 | 1,1 | 1 | 0 |
 | Y. Mina | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 3 | 2 | 0,7 | 0 | 0 |
-| Jacopo Fazzini | M | 5 | 252 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 3 | 3 | 0,6 | 1 | 0 |
-| A. Fadera | F | 7 | 181 | 0 | 0 | 5 | 0,7 | 1 | 0,1 | 4 | 5 | 0,7 | 1 | 0 |
+| Raphael Kofler | D | 5 | 204 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
 | Y. Massolin | M | 2 | 146 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,5 | 0 | 0 |
 | Y. Sugawara | D | 5 | 142 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| Mattia Felici | F | 4 | 133 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 2 | 1 | 0,2 | 0 | 0 |
 | Kevin Carlos | F | 5 | 121 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 2 | 2 | 0,4 | 1 | 0 |
-| M&apos;Bala Nzola | F | 2 | 74 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 3 | 1,5 | 0 | 0 |
-| R. Gagliardini | M | 3 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
-| Raphael Kofler | D | 3 | 68 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Mattia Felici | F | 2 | 37 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
+| R. Ciervo | D | 2 | 102 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| Gennaro Borrelli | F | 3 | 91 | 0 | 0 | 4 | 1,3 | 1 | 0,3 | 4 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,89 · visitante 0,67 · córners esperados 10,2._
+_Goles esperados: local 1,72 · visitante 0,70 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 12% | 14% | 13% | 6.50 | -13% |
-| 1X2: X | 21% | 23% | 22% | 4.00 | -11% |
-| 1X2: 1 | 66% | 63% | 65% | 1.48 | -5% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 49% | 1.91 | -7% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
+| 1X2: 2 | 15% | 14% | 14% | 6.50 | -6% |
+| 1X2: X | 23% | 23% | 23% | 4.00 | -7% |
+| 1X2: 1 | 62% | 63% | 62% | 1.48 | -8% |
+| Goles más/menos: Más de 2.5 | 43% | 50% | 47% | 1.91 | -11% |
+| Goles más/menos: Menos de 2.5 | 57% | 50% | 53% | 1.91 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

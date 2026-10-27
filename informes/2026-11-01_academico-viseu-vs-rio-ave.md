@@ -1,7 +1,7 @@
 # Academico Viseu – Rio Ave
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Academico Viseu (total) | Academico Viseu en casa | Rio Ave (total) | Rio Ave fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 9 | 4 |
-| Forma (últimos 5) | VVVVV | VVDD | DVDED | DDVD |
-| Balance | 5V 2E 2D | 2V 0E 2D | 2V 1E 6D | 1V 0E 3D |
-| Goles a favor / partido | 1,44 | 1,00 | 0,89 | 0,50 |
-| Goles en contra / partido | 1,22 | 1,50 | 2,33 | 1,50 |
-| Goles a favor 1ª parte | 0,78 | 0,25 | 0,33 | 0,25 |
-| Goles a favor 2ª parte | 0,67 | 0,75 | 0,56 | 0,25 |
-| Goles en contra 1ª parte | 0,56 | 1,00 | 1,00 | 0,50 |
-| Goles en contra 2ª parte | 0,67 | 0,50 | 1,33 | 1,00 |
-| Más de 1,5 goles | 78% | 75% | 78% | 50% |
-| Más de 2,5 goles | 67% | 75% | 56% | 25% |
-| Más de 3,5 goles | 22% | 0% | 56% | 25% |
-| Ambos marcan | 56% | 50% | 22% | 0% |
-| Portería a cero | 22% | 0% | 11% | 25% |
-| Se queda sin marcar | 22% | 50% | 67% | 75% |
+| Partidos analizados | 10 | 4 | 10 | 5 |
+| Forma (últimos 5) | VDVVV | VVDD | DVVDE | VDDVD |
+| Balance | 5V 2E 3D | 2V 0E 2D | 3V 1E 6D | 2V 0E 3D |
+| Goles a favor / partido | 1,30 | 1,00 | 0,90 | 0,60 |
+| Goles en contra / partido | 1,20 | 1,50 | 2,10 | 1,20 |
+| Goles a favor 1ª parte | 0,70 | 0,25 | 0,30 | 0,20 |
+| Goles a favor 2ª parte | 0,60 | 0,75 | 0,60 | 0,40 |
+| Goles en contra 1ª parte | 0,50 | 1,00 | 0,90 | 0,40 |
+| Goles en contra 2ª parte | 0,70 | 0,50 | 1,20 | 0,80 |
+| Más de 1,5 goles | 70% | 75% | 70% | 40% |
+| Más de 2,5 goles | 60% | 75% | 50% | 20% |
+| Más de 3,5 goles | 20% | 0% | 50% | 20% |
+| Ambos marcan | 50% | 50% | 20% | 0% |
+| Portería a cero | 20% | 0% | 20% | 40% |
+| Se queda sin marcar | 30% | 50% | 60% | 60% |
 | xG a favor | 1,18 | 0,98 | 0,69 | 0,38 |
 | xG en contra | 1,74 | 1,55 | 1,82 | 1,98 |
 | Tiros / partido | 9,7 | 11,0 | 7,6 | 5,0 |
@@ -55,7 +55,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 31-45' | 1 | 1 | 4 | 2 | 2 | 4 |
 | 46-60' | 2 | 2 | 3 | 2 | 5 | 5 |
 | 61-75' | 2 | 3 | 5 | 2 | 1 | 1 |
-| 76-90' | 2 | 1 | 10 | 1 | 6 | 10 |
+| 76-90' | 2 | 2 | 13 | 2 | 6 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -72,11 +72,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-25 | Primeira Liga | Sporting CP 1-2 Academico Viseu | fuera | 0-11 | 9 (3) - 28 (4) | 4-2 |
+| 2026-10-18 | Taça de Portugal | Fátima 1-0 Academico Viseu | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Academico Viseu 2-1 Estoril | casa | 3-5 | 15 (6) - 15 (9) | 3-1 |
 | 2026-09-20 | Primeira Liga | Estrela 0-2 Academico Viseu | fuera | 2-5 | 8 (4) - 16 (2) | 3-2 |
 | 2026-09-12 | Primeira Liga | Academico Viseu 2-1 Vitória SC | casa | 4-8 | 10 (4) - 22 (7) | 4-3 |
 | 2026-09-06 | Primeira Liga | GIL Vicente 0-1 Academico Viseu | fuera | 1-7 | 6 (1) - 33 (7) | 2-0 |
-| 2026-08-29 | Primeira Liga | Academico Viseu 0-3 FC Porto | casa | 1-1 | 9 (1) - 5 (4) | –-– |
 
 ## Jugadores de Academico Viseu
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -106,11 +106,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-25 | Primeira Liga | Rio Ave 0-4 Famalicao | casa | 4-2 | 7 (2) - 12 (5) | 3-0 |
+| 2026-10-17 | Taça de Portugal | Louletano 0-1 Rio Ave | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Rio Ave 3-2 Nacional | casa | 8-8 | 11 (7) - 12 (5) | 2-0 |
 | 2026-09-19 | Primeira Liga | Alverca 1-0 Rio Ave | fuera | 3-8 | 6 (3) - 23 (6) | 2-2 |
 | 2026-09-14 | Primeira Liga | Rio Ave 3-3 Estrela | casa | 4-5 | 11 (6) - 20 (6) | 2-3 |
 | 2026-09-06 | Primeira Liga | Santa Clara 4-0 Rio Ave | fuera | 2-8 | 5 (3) - 16 (6) | 1-1 |
-| 2026-08-28 | Primeira Liga | Rio Ave 0-4 Sporting CP | casa | 2-3 | 6 (0) - 14 (7) | 1-1 |
 
 ## Jugadores de Rio Ave
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | D. Špikić | F | 6 | 183 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,47 · visitante 0,74 · córners esperados 9,1._
+_Goles esperados: local 2,08 · visitante 0,72 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | GIL Vicente (total) | GIL Vicente en casa | Vitória SC (total) | Vitória SC fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 5 | 9 | 4 |
-| Forma (últimos 5) | DVVED | DEDVV | VDEDE | DDDD |
-| Balance | 4V 2E 3D | 2V 1E 2D | 2V 2E 5D | 0V 0E 4D |
-| Goles a favor / partido | 0,89 | 0,80 | 1,11 | 0,75 |
-| Goles en contra / partido | 0,78 | 0,60 | 1,11 | 2,00 |
-| Goles a favor 1ª parte | 0,44 | 0,60 | 0,22 | 0,00 |
-| Goles a favor 2ª parte | 0,44 | 0,20 | 0,89 | 0,75 |
-| Goles en contra 1ª parte | 0,33 | 0,20 | 0,44 | 1,00 |
-| Goles en contra 2ª parte | 0,44 | 0,40 | 0,67 | 1,00 |
-| Más de 1,5 goles | 44% | 40% | 56% | 75% |
-| Más de 2,5 goles | 22% | 0% | 33% | 50% |
-| Más de 3,5 goles | 11% | 0% | 22% | 25% |
-| Ambos marcan | 33% | 20% | 33% | 50% |
-| Portería a cero | 44% | 40% | 33% | 0% |
-| Se queda sin marcar | 33% | 40% | 44% | 50% |
+| Partidos analizados | 10 | 5 | 10 | 5 |
+| Forma (últimos 5) | DVVVE | DEDVV | VVDED | VDDDD |
+| Balance | 5V 2E 3D | 2V 1E 2D | 3V 2E 5D | 1V 0E 4D |
+| Goles a favor / partido | 1,10 | 0,80 | 1,10 | 0,80 |
+| Goles en contra / partido | 0,90 | 0,60 | 1,00 | 1,60 |
+| Goles a favor 1ª parte | 0,40 | 0,60 | 0,20 | 0,00 |
+| Goles a favor 2ª parte | 0,70 | 0,20 | 0,90 | 0,80 |
+| Goles en contra 1ª parte | 0,30 | 0,20 | 0,40 | 0,80 |
+| Goles en contra 2ª parte | 0,60 | 0,40 | 0,60 | 0,80 |
+| Más de 1,5 goles | 50% | 40% | 50% | 60% |
+| Más de 2,5 goles | 30% | 0% | 30% | 40% |
+| Más de 3,5 goles | 20% | 0% | 20% | 20% |
+| Ambos marcan | 40% | 20% | 30% | 40% |
+| Portería a cero | 40% | 40% | 40% | 20% |
+| Se queda sin marcar | 30% | 40% | 40% | 40% |
 | xG a favor | 1,26 | 1,38 | 1,67 | 1,06 |
 | xG en contra | 0,99 | 0,65 | 0,98 | 1,67 |
 | Tiros / partido | 13,0 | 16,6 | 17,7 | 12,5 |
@@ -50,12 +50,12 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles GIL Vicente | Recibe GIL Vicente | Tarjetas GIL Vicente | Goles Vitória SC | Recibe Vitória SC | Tarjetas Vitória SC |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 0 | 1 | 1 | 2 |
+| 1-15' | 2 | 1 | 1 | 1 | 1 | 2 |
 | 16-30' | 1 | 1 | 3 | 0 | 2 | 6 |
-| 31-45' | 1 | 1 | 4 | 1 | 1 | 3 |
-| 46-60' | 1 | 0 | 4 | 2 | 4 | 3 |
+| 31-45' | 1 | 1 | 4 | 1 | 1 | 4 |
+| 46-60' | 2 | 2 | 5 | 2 | 4 | 3 |
 | 61-75' | 1 | 1 | 4 | 3 | 1 | 7 |
-| 76-90' | 2 | 3 | 5 | 3 | 2 | 5 |
+| 76-90' | 4 | 3 | 6 | 4 | 2 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -75,10 +75,10 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|
 | 2026-10-24 | Primeira Liga | GIL Vicente 0-1 FC Porto | casa | 3-8 | 10 (2) - 12 (4) | 0-1 |
 | 2026-10-19 | Primeira Liga | SC Braga 1-2 GIL Vicente | fuera | 1-4 | 10 (4) - 18 (6) | 3-3 |
+| 2026-10-14 | Taça de Portugal | União Santarém 2-3 GIL Vicente | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-09 | Primeira Liga | Moreirense 0-1 GIL Vicente | fuera | 3-4 | 13 (3) - 12 (2) | 4-3 |
 | 2026-09-19 | Primeira Liga | GIL Vicente 1-1 Maritimo | casa | 4-3 | 19 (4) - 10 (3) | 1-1 |
 | 2026-09-13 | Primeira Liga | Benfica 3-1 GIL Vicente | fuera | 0-14 | 4 (2) - 17 (5) | 3-2 |
-| 2026-09-06 | Primeira Liga | GIL Vicente 0-1 Academico Viseu | casa | 7-1 | 33 (7) - 6 (1) | 0-2 |
 
 ## Jugadores de GIL Vicente
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -108,11 +108,11 @@ _Sin bajas comunicadas por ahora._
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-23 | Primeira Liga | Vitória SC 5-0 Maritimo | casa | 6-5 | 17 (8) - 10 (2) | 4-3 |
+| 2026-10-17 | Taça de Portugal | Recreativa de Lamelas 0-1 Vitória SC | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Benfica 2-0 Vitória SC | fuera | 6-11 | 8 (0) - 23 (5) | 5-2 |
 | 2026-09-20 | Primeira Liga | Vitória SC 1-1 Moreirense | casa | 3-0 | 16 (5) - 7 (3) | 0-0 |
 | 2026-09-12 | Primeira Liga | Academico Viseu 2-1 Vitória SC | fuera | 8-4 | 22 (7) - 10 (4) | 3-4 |
 | 2026-09-06 | Primeira Liga | Vitória SC 0-0 Casa Pia | casa | 17-4 | 29 (8) - 7 (3) | 2-2 |
-| 2026-08-31 | Primeira Liga | SC Braga 1-0 Vitória SC | fuera | 2-2 | 8 (2) - 9 (4) | 3-2 |
 
 ## Jugadores de Vitória SC
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | M. Mitrović | M | 4 | 80 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,90 · visitante 0,86 · córners esperados 9,6._
+_Goles esperados: local 0,93 · visitante 0,93 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Albacete – Sabadell
 **Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Arthur Bonaldo |  | 2 | 117 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,75 · visitante 1,18 · córners esperados 9,3._
+_Goles esperados: local 0,73 · visitante 1,19 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

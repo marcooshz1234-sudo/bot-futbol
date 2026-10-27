@@ -1,7 +1,7 @@
 # Bolton – Bristol City
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_
@@ -60,53 +60,53 @@ _Actualizadas: 26/10 07:52_
 ## Estadísticas de equipo
 | | Bolton (total) | Bolton en casa | Bristol City (total) | Bristol City fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
+| Partidos analizados | 13 | 6 | 13 | 6 |
 | Forma (últimos 5) | DEVDV | DDVDD | EDDEV | EEDVV |
-| Balance | 4V 2E 6D | 2V 0E 4D | 4V 3E 5D | 2V 3E 1D |
-| Goles a favor / partido | 1,33 | 1,17 | 1,00 | 1,50 |
-| Goles en contra / partido | 1,92 | 2,00 | 1,25 | 1,50 |
-| Goles a favor 1ª parte | 0,75 | 0,83 | 0,42 | 0,50 |
-| Goles a favor 2ª parte | 0,58 | 0,33 | 0,58 | 1,00 |
-| Goles en contra 1ª parte | 0,83 | 1,00 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 1,08 | 1,00 | 0,75 | 1,00 |
-| Más de 1,5 goles | 67% | 67% | 58% | 83% |
-| Más de 2,5 goles | 67% | 67% | 42% | 67% |
-| Más de 3,5 goles | 50% | 33% | 25% | 50% |
-| Ambos marcan | 58% | 67% | 50% | 83% |
-| Portería a cero | 25% | 17% | 17% | 17% |
-| Se queda sin marcar | 33% | 17% | 42% | 17% |
+| Balance | 4V 2E 7D | 2V 0E 4D | 4V 3E 6D | 2V 3E 1D |
+| Goles a favor / partido | 1,23 | 1,17 | 0,92 | 1,50 |
+| Goles en contra / partido | 1,85 | 2,00 | 1,23 | 1,50 |
+| Goles a favor 1ª parte | 0,69 | 0,83 | 0,38 | 0,50 |
+| Goles a favor 2ª parte | 0,54 | 0,33 | 0,54 | 1,00 |
+| Goles en contra 1ª parte | 0,77 | 1,00 | 0,46 | 0,50 |
+| Goles en contra 2ª parte | 1,08 | 1,00 | 0,77 | 1,00 |
+| Más de 1,5 goles | 62% | 67% | 54% | 83% |
+| Más de 2,5 goles | 62% | 67% | 38% | 67% |
+| Más de 3,5 goles | 46% | 33% | 23% | 50% |
+| Ambos marcan | 54% | 67% | 46% | 83% |
+| Portería a cero | 23% | 17% | 15% | 17% |
+| Se queda sin marcar | 38% | 17% | 46% | 17% |
 | xG a favor | 1,35 | 1,53 | 1,30 | 1,46 |
 | xG en contra | 1,93 | 1,93 | 1,31 | 1,39 |
-| Tiros / partido | 13,7 | 16,3 | 13,7 | 14,2 |
-| Tiros a puerta / partido | 4,7 | 5,3 | 4,0 | 4,3 |
-| Tiros recibidos | 14,3 | 14,3 | 11,9 | 11,2 |
-| Tiros a puerta recibidos | 5,6 | 6,3 | 2,5 | 3,0 |
-| Posesión media % | 49 | 54 | 46 | 43 |
-| Córners a favor | 5,1 | 6,2 | 5,5 | 4,8 |
-| Córners en contra | 5,8 | 5,7 | 5,3 | 4,8 |
-| Córners a favor 1ª parte | 1,9 | 2,2 | 3,0 | 2,7 |
-| Córners a favor 2ª parte | 3,2 | 4,0 | 2,5 | 2,2 |
-| Córners totales del partido | 10,8 | 11,8 | 10,8 | 9,7 |
-| Córners totales 1ª parte | 4,8 | 5,0 | 5,5 | 5,0 |
-| Córners totales 2ª parte | 6,1 | 6,8 | 5,3 | 4,7 |
-| Más de 8,5 córners | 67% | 67% | 67% | 67% |
-| Más de 9,5 córners | 67% | 67% | 67% | 67% |
-| Más de 10,5 córners | 58% | 67% | 50% | 33% |
-| Faltas cometidas | 10,7 | 9,7 | 11,8 | 11,8 |
-| Faltas recibidas | 10,5 | 11,5 | 11,0 | 10,5 |
-| Amarillas propias | 1,7 | 1,5 | 1,3 | 1,3 |
-| Amarillas del rival | 1,5 | 2,0 | 1,9 | 1,7 |
-| Rojas / partido | 0,08 | 0,00 | 0,08 | 0,00 |
+| Tiros / partido | 13,5 | 16,3 | 15,1 | 14,2 |
+| Tiros a puerta / partido | 4,4 | 5,3 | 4,4 | 4,3 |
+| Tiros recibidos | 14,2 | 14,3 | 11,6 | 11,2 |
+| Tiros a puerta recibidos | 5,4 | 6,3 | 2,7 | 3,0 |
+| Posesión media % | 50 | 54 | 48 | 43 |
+| Córners a favor | 5,1 | 6,2 | 6,1 | 4,8 |
+| Córners en contra | 5,8 | 5,7 | 5,2 | 4,8 |
+| Córners a favor 1ª parte | 2,0 | 2,2 | 3,2 | 2,7 |
+| Córners a favor 2ª parte | 3,1 | 4,0 | 2,9 | 2,2 |
+| Córners totales del partido | 10,8 | 11,8 | 11,3 | 9,7 |
+| Córners totales 1ª parte | 4,8 | 5,0 | 5,8 | 5,0 |
+| Córners totales 2ª parte | 6,1 | 6,8 | 5,5 | 4,7 |
+| Más de 8,5 córners | 69% | 67% | 69% | 67% |
+| Más de 9,5 córners | 69% | 67% | 69% | 67% |
+| Más de 10,5 córners | 62% | 67% | 54% | 33% |
+| Faltas cometidas | 10,5 | 9,7 | 11,2 | 11,8 |
+| Faltas recibidas | 11,0 | 11,5 | 11,2 | 10,5 |
+| Amarillas propias | 1,7 | 1,5 | 1,2 | 1,3 |
+| Amarillas del rival | 1,4 | 2,0 | 2,0 | 1,7 |
+| Rojas / partido | 0,15 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bolton | Recibe Bolton | Tarjetas Bolton | Goles Bristol City | Recibe Bristol City | Tarjetas Bristol City |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 0 | 1 | 2 | 0 |
 | 16-30' | 4 | 1 | 0 | 1 | 0 | 2 |
-| 31-45' | 2 | 5 | 7 | 3 | 4 | 4 |
-| 46-60' | 1 | 1 | 2 | 1 | 4 | 4 |
-| 61-75' | 3 | 5 | 4 | 1 | 1 | 2 |
-| 76-90' | 3 | 7 | 8 | 5 | 4 | 5 |
+| 31-45' | 2 | 5 | 8 | 3 | 4 | 4 |
+| 46-60' | 1 | 1 | 3 | 1 | 5 | 4 |
+| 61-75' | 3 | 6 | 4 | 1 | 1 | 2 |
+| 76-90' | 3 | 7 | 9 | 5 | 4 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -134,26 +134,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Bolton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Sheehan | M | 12 | 1076 | 1 | 0 | 16 | 1,3 | 8 | 0,7 | 16 | 20 | 1,7 | 2 | 1 |
-| S. Dalby | F | 12 | 860 | 4 | 0 | 17 | 1,4 | 8 | 0,7 | 11 | 9 | 0,8 | 0 | 0 |
-| Gaizka Larrazabal | D | 11 | 836 | 1 | 3 | 6 | 0,5 | 2 | 0,2 | 12 | 5 | 0,5 | 2 | 0 |
-| T. Gale | M | 12 | 829 | 3 | 1 | 15 | 1,2 | 6 | 0,5 | 5 | 5 | 0,4 | 2 | 0 |
+| J. Sheehan | M | 13 | 1173 | 1 | 0 | 16 | 1,2 | 8 | 0,6 | 18 | 23 | 1,8 | 2 | 1 |
+| S. Dalby | F | 13 | 957 | 4 | 0 | 18 | 1,4 | 8 | 0,6 | 12 | 12 | 0,9 | 0 | 0 |
+| T. Gale | M | 13 | 901 | 3 | 1 | 15 | 1,2 | 6 | 0,5 | 5 | 5 | 0,4 | 2 | 0 |
+| Gaizka Larrazabal | D | 12 | 898 | 1 | 3 | 6 | 0,5 | 2 | 0,2 | 13 | 5 | 0,4 | 2 | 0 |
+| M. Conway | D | 12 | 738 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 6 | 13 | 1,1 | 1 | 0 |
 | E. Erhahon | M | 11 | 725 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 12 | 9 | 0,8 | 1 | 0 |
-| M. Conway | D | 11 | 703 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 5 | 13 | 1,2 | 1 | 0 |
-| E. Toal | D | 8 | 638 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
+| A. Famewo | D | 9 | 674 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 10 | 1,1 | 3 | 0 |
+| E. Toal | D | 9 | 659 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 4 | 3 | 0,3 | 0 | 0 |
 | G. Bazunu | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Chris Forino | D | 7 | 616 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 2 | 9 | 1,3 | 1 | 0 |
 | L. Brunt | D | 8 | 586 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,5 | 1 | 0 |
-| A. Famewo | D | 8 | 577 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 7 | 0,9 | 2 | 0 |
-| Chris Forino | D | 6 | 540 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 2 | 7 | 1,2 | 1 | 0 |
+| Ben Davies | D | 7 | 563 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 4 | 0,6 | 1 | 0 |
+| Jack Bonham | G | 6 | 547 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
+| Ruben Rodrigues | M | 10 | 533 | 1 | 1 | 16 | 1,6 | 7 | 0,7 | 9 | 19 | 1,9 | 0 | 0 |
+| K. Dong | M | 11 | 494 | 0 | 1 | 8 | 0,7 | 3 | 0,3 | 5 | 7 | 0,6 | 1 | 0 |
 | S. Iling-Junior | F | 11 | 489 | 0 | 1 | 8 | 0,7 | 5 | 0,5 | 7 | 3 | 0,3 | 1 | 0 |
-| Ben Davies | D | 6 | 487 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 4 | 0,7 | 1 | 0 |
-| K. Dong | M | 10 | 469 | 0 | 1 | 8 | 0,8 | 3 | 0,3 | 5 | 7 | 0,7 | 1 | 0 |
-| Ruben Rodrigues | M | 9 | 461 | 1 | 1 | 12 | 1,3 | 6 | 0,7 | 9 | 14 | 1,6 | 0 | 0 |
-| Jack Bonham | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| John McAtee | F | 6 | 337 | 0 | 1 | 6 | 1,0 | 3 | 0,5 | 6 | 2 | 0,3 | 1 | 0 |
-| X. Simons | M | 6 | 266 | 1 | 0 | 5 | 0,8 | 2 | 0,3 | 4 | 3 | 0,5 | 0 | 0 |
+| John McAtee | F | 7 | 362 | 0 | 1 | 6 | 0,9 | 3 | 0,4 | 6 | 2 | 0,3 | 1 | 0 |
+| X. Simons | M | 7 | 322 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 4 | 4 | 0,6 | 0 | 1 |
+| Luca Stephenson | D | 3 | 272 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
 | A. Ito | M | 6 | 247 | 2 | 0 | 3 | 0,5 | 2 | 0,3 | 3 | 0 | 0,0 | 0 | 0 |
-| T. Bair | F | 7 | 222 | 2 | 1 | 7 | 1,0 | 3 | 0,4 | 4 | 1 | 0,1 | 1 | 0 |
 
 ## Últimos partidos de Bristol City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,64 +168,64 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Bristol City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Knight | M | 12 | 1050 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 19 | 8 | 0,7 | 4 | 0 |
-| Sam Tickle | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| J. Knight | M | 13 | 1145 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 19 | 8 | 0,6 | 4 | 0 |
+| Sam Tickle | G | 12 | 1085 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | Rio Cardines | M | 12 | 937 | 0 | 6 | 5 | 0,4 | 1 | 0,1 | 4 | 8 | 0,7 | 1 | 0 |
-| L. Eissat | D | 10 | 778 | 1 | 0 | 8 | 0,8 | 2 | 0,2 | 12 | 1 | 0,1 | 2 | 0 |
-| G. Tanner | D | 10 | 750 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 2 | 0,2 | 0 | 0 |
-| Yu Hirakawa | M | 11 | 703 | 1 | 0 | 12 | 1,1 | 7 | 0,6 | 8 | 12 | 1,1 | 0 | 0 |
-| D. Ballard | M | 12 | 664 | 3 | 0 | 21 | 1,8 | 7 | 0,6 | 13 | 9 | 0,8 | 0 | 0 |
-| Scott Twine | M | 9 | 657 | 3 | 0 | 12 | 1,3 | 6 | 0,7 | 4 | 15 | 1,7 | 0 | 0 |
-| Rob Dickie | D | 7 | 616 | 1 | 0 | 7 | 1,0 | 2 | 0,3 | 9 | 10 | 1,4 | 1 | 0 |
-| L. Tolaj | F | 9 | 615 | 2 | 1 | 21 | 2,3 | 5 | 0,6 | 18 | 13 | 1,4 | 1 | 0 |
-| J. Williams | M | 8 | 577 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 3 | 7 | 0,9 | 1 | 0 |
-| C. Pring | D | 10 | 532 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 5 | 0,5 | 0 | 0 |
-| J. Wallace | M | 11 | 491 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,5 | 0 | 0 |
+| L. Eissat | D | 11 | 873 | 1 | 0 | 9 | 0,8 | 3 | 0,3 | 13 | 1 | 0,1 | 2 | 0 |
+| G. Tanner | D | 11 | 828 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 2 | 0,2 | 0 | 0 |
+| Yu Hirakawa | M | 12 | 741 | 1 | 0 | 12 | 1,0 | 7 | 0,6 | 8 | 13 | 1,1 | 0 | 0 |
+| Rob Dickie | D | 8 | 711 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 9 | 12 | 1,5 | 1 | 0 |
+| D. Ballard | M | 13 | 701 | 3 | 0 | 22 | 1,7 | 7 | 0,5 | 13 | 10 | 0,8 | 0 | 0 |
+| L. Tolaj | F | 10 | 684 | 2 | 1 | 25 | 2,5 | 8 | 0,8 | 20 | 13 | 1,3 | 1 | 0 |
+| Scott Twine | M | 10 | 683 | 3 | 0 | 13 | 1,3 | 7 | 0,7 | 4 | 17 | 1,7 | 0 | 0 |
+| C. Pring | D | 11 | 627 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 9 | 0,8 | 0 | 0 |
+| J. Williams | M | 9 | 594 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 7 | 0,8 | 1 | 0 |
+| J. Wallace | M | 12 | 548 | 0 | 1 | 6 | 0,5 | 3 | 0,2 | 5 | 5 | 0,4 | 0 | 0 |
 | Robert Atkinson | D | 7 | 465 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
+| Sam Greenwood | M | 11 | 446 | 0 | 0 | 11 | 1,0 | 7 | 0,6 | 10 | 12 | 1,1 | 1 | 0 |
 | G. Yah | M | 9 | 439 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 6 | 7 | 0,8 | 0 | 0 |
-| Sam Greenwood | M | 10 | 377 | 0 | 0 | 7 | 0,7 | 6 | 0,6 | 10 | 11 | 1,1 | 1 | 0 |
+| A. Randell | M | 6 | 321 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 7 | 1,2 | 2 | 1 |
 | L. McNally | D | 3 | 270 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 1 | 0 |
-| A. Randell | M | 5 | 263 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 6 | 1,2 | 2 | 1 |
 | Noah Eile | D | 3 | 159 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | B. De Keersmaecker | M | 4 | 134 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,21 · córners esperados 10,0._
+_Goles esperados: local 1,33 · visitante 1,15 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 39% | 35% | 2.35 | -18% |
-| 1X2: X | 26% | 28% | 27% | 3.30 | -12% |
-| 1X2: 1 | 43% | 33% | 38% | 2.75 | +5% |
-| Doble oportunidad: X2 | 57% | 69% | 63% | 1.40 | -12% |
-| Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 69% | 59% | 64% | 1.62 | +4% |
-| Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
-| Goles más/menos: Más de 1.5 | 75% | 78% | 76% | 1.22 | -7% |
-| Goles más/menos: Más de 2.5 | 50% | 55% | 52% | 1.73 | -9% |
-| Goles más/menos: Más de 3.5 | 28% | 34% | 31% | 2.75 | -14% |
-| Goles más/menos: Menos de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 50% | 45% | 48% | 2.10 | -0% |
-| Goles más/menos: Menos de 3.5 | 72% | 66% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Goles del local: Más de 0.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 1.5 | 43% | 35% | 39% | 2.62 | +3% |
-| Goles del local: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles del local: Menos de 1.5 | 57% | 65% | 61% | 1.44 | -13% |
-| Goles del visitante: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles del visitante: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
-| Goles del visitante: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +3% |
-| Goles del visitante: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
-| Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -1% |
-| 1X2 descanso: 2 | 25% | 32% | 28% | 2.88 | -18% |
-| 1X2 descanso: X | 43% | 40% | 41% | 2.30 | -5% |
-| 1X2 descanso: 1 | 32% | 28% | 30% | 3.25 | -2% |
+| 1X2: 2 | 32% | 39% | 36% | 2.35 | -16% |
+| 1X2: X | 27% | 28% | 27% | 3.30 | -10% |
+| 1X2: 1 | 41% | 33% | 37% | 2.75 | +2% |
+| Doble oportunidad: X2 | 59% | 69% | 64% | 1.40 | -10% |
+| Doble oportunidad: 12 | 73% | 72% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 68% | 59% | 63% | 1.62 | +3% |
+| Ambos marcan: No | 50% | 41% | 45% | 2.25 | +2% |
+| Ambos marcan: Sí | 50% | 59% | 55% | 1.57 | -14% |
+| Goles más/menos: Más de 1.5 | 71% | 78% | 74% | 1.22 | -9% |
+| Goles más/menos: Más de 2.5 | 45% | 55% | 50% | 1.73 | -14% |
+| Goles más/menos: Más de 3.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles más/menos: Menos de 1.5 | 29% | 22% | 26% | 4.33 | +11% |
+| Goles más/menos: Menos de 2.5 | 55% | 45% | 50% | 2.10 | +5% |
+| Goles más/menos: Menos de 3.5 | 76% | 66% | 71% | 1.44 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
+| Goles del local: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles del local: Más de 1.5 | 38% | 35% | 37% | 2.62 | -3% |
+| Goles del local: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
+| Goles del local: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
+| Goles del visitante: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Más de 1.5 | 32% | 42% | 37% | 2.20 | -18% |
+| Goles del visitante: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles del visitante: Menos de 1.5 | 68% | 58% | 63% | 1.62 | +2% |
+| Córners más/menos: Más de 10.5 | 43% | 49% | 46% | 1.91 | -13% |
+| Córners más/menos: Menos de 10.5 | 57% | 51% | 54% | 1.80 | -2% |
+| 1X2 descanso: 2 | 25% | 32% | 29% | 2.88 | -18% |
+| 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -3% |
+| 1X2 descanso: 1 | 30% | 28% | 29% | 3.25 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

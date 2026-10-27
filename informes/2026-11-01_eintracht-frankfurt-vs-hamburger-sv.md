@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_
@@ -61,53 +61,53 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Eintracht Frankfurt (total) | Eintracht Frankfurt en casa | Hamburger SV (total) | Hamburger SV fuera |
 |---|---|---|---|---|
-| Partidos analizados | 7 | 3 | 7 | 4 |
-| Forma (últimos 5) | DVDEV | VED | DVVVD | DVDD |
-| Balance | 2V 2E 3D | 1V 1E 1D | 3V 0E 4D | 1V 0E 3D |
-| Goles a favor / partido | 1,43 | 1,33 | 0,86 | 0,75 |
-| Goles en contra / partido | 2,43 | 2,00 | 2,29 | 2,50 |
-| Goles a favor 1ª parte | 1,00 | 1,00 | 0,29 | 0,25 |
-| Goles a favor 2ª parte | 0,43 | 0,33 | 0,57 | 0,50 |
-| Goles en contra 1ª parte | 0,86 | 0,33 | 1,00 | 1,25 |
-| Goles en contra 2ª parte | 1,57 | 1,67 | 1,29 | 1,25 |
-| Más de 1,5 goles | 71% | 67% | 71% | 75% |
-| Más de 2,5 goles | 71% | 67% | 57% | 50% |
-| Más de 3,5 goles | 71% | 67% | 43% | 50% |
-| Ambos marcan | 57% | 67% | 29% | 25% |
-| Portería a cero | 14% | 33% | 14% | 0% |
-| Se queda sin marcar | 29% | 0% | 57% | 75% |
+| Partidos analizados | 8 | 3 | 8 | 5 |
+| Forma (últimos 5) | DVDEV | VED | DVVVD | DVDDV |
+| Balance | 3V 2E 3D | 1V 1E 1D | 4V 0E 4D | 2V 0E 3D |
+| Goles a favor / partido | 2,62 | 1,33 | 1,12 | 1,20 |
+| Goles en contra / partido | 2,12 | 2,00 | 2,00 | 2,00 |
+| Goles a favor 1ª parte | 2,12 | 1,00 | 0,38 | 0,40 |
+| Goles a favor 2ª parte | 0,50 | 0,33 | 0,75 | 0,80 |
+| Goles en contra 1ª parte | 0,75 | 0,33 | 0,88 | 1,00 |
+| Goles en contra 2ª parte | 1,38 | 1,67 | 1,12 | 1,00 |
+| Más de 1,5 goles | 75% | 67% | 75% | 80% |
+| Más de 2,5 goles | 75% | 67% | 62% | 60% |
+| Más de 3,5 goles | 75% | 67% | 38% | 40% |
+| Ambos marcan | 50% | 67% | 25% | 20% |
+| Portería a cero | 25% | 33% | 25% | 20% |
+| Se queda sin marcar | 25% | 0% | 50% | 60% |
 | xG a favor | 1,72 | 2,07 | 0,99 | 0,95 |
 | xG en contra | 2,09 | 1,67 | 1,79 | 1,53 |
-| Tiros / partido | 13,7 | 15,7 | 10,7 | 10,2 |
-| Tiros a puerta / partido | 5,4 | 6,0 | 3,3 | 3,0 |
-| Tiros recibidos | 17,6 | 16,0 | 18,7 | 18,0 |
-| Tiros a puerta recibidos | 6,7 | 5,7 | 5,7 | 5,5 |
-| Posesión media % | 50 | 53 | 39 | 38 |
-| Córners a favor | 4,7 | 6,3 | 3,7 | 3,5 |
-| Córners en contra | 5,3 | 4,0 | 6,0 | 5,8 |
-| Córners a favor 1ª parte | 2,3 | 2,3 | 1,4 | 1,2 |
-| Córners a favor 2ª parte | 2,4 | 4,0 | 2,3 | 2,2 |
-| Córners totales del partido | 10,0 | 10,3 | 9,7 | 9,2 |
-| Córners totales 1ª parte | 5,1 | 5,3 | 4,4 | 4,2 |
-| Córners totales 2ª parte | 4,9 | 5,0 | 5,3 | 5,0 |
-| Más de 8,5 córners | 71% | 67% | 71% | 75% |
-| Más de 9,5 córners | 43% | 67% | 43% | 50% |
-| Más de 10,5 córners | 29% | 33% | 29% | 25% |
-| Faltas cometidas | 10,6 | 10,0 | 14,4 | 15,8 |
-| Faltas recibidas | 12,3 | 13,7 | 12,7 | 11,8 |
+| Tiros / partido | 13,7 | 15,7 | 10,6 | 10,2 |
+| Tiros a puerta / partido | 5,4 | 6,0 | 3,6 | 3,6 |
+| Tiros recibidos | 17,6 | 16,0 | 18,0 | 17,0 |
+| Tiros a puerta recibidos | 6,7 | 5,7 | 5,5 | 5,2 |
+| Posesión media % | 50 | 53 | 40 | 40 |
+| Córners a favor | 4,7 | 6,3 | 3,4 | 3,0 |
+| Córners en contra | 5,3 | 4,0 | 5,5 | 5,0 |
+| Córners a favor 1ª parte | 2,3 | 2,3 | 1,2 | 1,0 |
+| Córners a favor 2ª parte | 2,4 | 4,0 | 2,1 | 2,0 |
+| Córners totales del partido | 10,0 | 10,3 | 8,9 | 8,0 |
+| Córners totales 1ª parte | 5,1 | 5,3 | 4,0 | 3,6 |
+| Córners totales 2ª parte | 4,9 | 5,0 | 4,9 | 4,4 |
+| Más de 8,5 córners | 71% | 67% | 62% | 60% |
+| Más de 9,5 córners | 43% | 67% | 38% | 40% |
+| Más de 10,5 córners | 29% | 33% | 25% | 20% |
+| Faltas cometidas | 10,6 | 10,0 | 14,0 | 14,8 |
+| Faltas recibidas | 12,3 | 13,7 | 12,1 | 11,0 |
 | Amarillas propias | 2,3 | 1,7 | 1,4 | 1,2 |
-| Amarillas del rival | 1,1 | 1,7 | 1,9 | 1,8 |
+| Amarillas del rival | 1,1 | 1,7 | 1,8 | 1,6 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt | Goles Hamburger SV | Recibe Hamburger SV | Tarjetas Hamburger SV |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 3 | 3 | 1 | 1 | 2 |
-| 16-30' | 0 | 0 | 1 | 0 | 3 | 1 |
-| 31-45' | 2 | 3 | 3 | 1 | 3 | 1 |
-| 46-60' | 1 | 4 | 2 | 1 | 2 | 2 |
+| 1-15' | 7 | 3 | 4 | 1 | 1 | 2 |
+| 16-30' | 2 | 0 | 1 | 0 | 3 | 1 |
+| 31-45' | 8 | 3 | 3 | 2 | 3 | 1 |
+| 46-60' | 1 | 4 | 2 | 3 | 2 | 3 |
 | 61-75' | 1 | 1 | 3 | 0 | 2 | 1 |
-| 76-90' | 1 | 6 | 4 | 3 | 5 | 4 |
+| 76-90' | 2 | 6 | 4 | 3 | 5 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -170,65 +170,63 @@ _Sin bajas comunicadas por ahora._
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Daniel Heuer Fernandes | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Nicolás Capaldo | D | 6 | 540 | 1 | 0 | 6 | 1,0 | 2 | 0,3 | 11 | 12 | 2,0 | 2 | 0 |
+| Nicolás Capaldo | D | 7 | 615 | 1 | 0 | 6 | 0,9 | 2 | 0,3 | 13 | 12 | 1,7 | 2 | 0 |
+| S. Bornauw | D | 6 | 540 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 0 | 0 |
 | D. Møller Wolfe | M | 6 | 521 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 8 | 5 | 0,8 | 0 | 0 |
-| S. Bornauw | D | 5 | 450 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 5 | 1 | 0,2 | 0 | 0 |
-| Nicolai Remberg | M | 5 | 401 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 5 | 4 | 0,8 | 0 | 0 |
+| Nicolai Remberg | M | 6 | 491 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 6 | 5 | 0,8 | 0 | 0 |
+| M. Adeline | M | 7 | 445 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 1 | 0,1 | 0 | 0 |
+| A. Grønbæk | M | 7 | 428 | 2 | 2 | 6 | 0,9 | 4 | 0,6 | 4 | 12 | 1,7 | 2 | 0 |
+| A. Sambi Lokonga | M | 6 | 412 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 9 | 5 | 0,8 | 2 | 0 |
 | W. Omari | D | 5 | 377 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 0,6 | 1 | 0 |
-| A. Grønbæk | M | 6 | 368 | 0 | 2 | 3 | 0,5 | 2 | 0,3 | 3 | 11 | 1,8 | 1 | 0 |
 | Z. El Ouahdi | M | 5 | 358 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 3 | 6 | 1,2 | 1 | 0 |
-| M. Adeline | M | 6 | 357 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 1 | 0,2 | 0 | 0 |
-| A. Sambi Lokonga | M | 5 | 352 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 9 | 5 | 1,0 | 2 | 0 |
+| Louis Lemke | M | 6 | 340 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 7 | 1 | 0,2 | 0 | 0 |
 | Fábio Vieira | F | 6 | 333 | 0 | 0 | 11 | 1,8 | 7 | 1,2 | 3 | 11 | 1,8 | 0 | 0 |
 | Jordan Torunarigha | D | 4 | 307 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 0 | 0 |
-| Louis Lemke | M | 5 | 265 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
-| Y. Poulsen | F | 6 | 263 | 2 | 0 | 8 | 1,3 | 3 | 0,5 | 5 | 5 | 0,8 | 0 | 0 |
+| S. Nandja | D | 4 | 298 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 2 | 0 |
+| Patson Daka | F | 5 | 298 | 0 | 1 | 7 | 1,4 | 0 | 0,0 | 4 | 5 | 1,0 | 0 | 0 |
+| Y. Poulsen | F | 7 | 278 | 2 | 0 | 8 | 1,1 | 3 | 0,4 | 5 | 5 | 0,7 | 0 | 0 |
 | T. Moffi | F | 7 | 248 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 3 | 0 | 0,0 | 0 | 0 |
+| B. Nadir | M | 5 | 238 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 4 | 0,8 | 0 | 0 |
+| Otto Emerson Stange | F | 7 | 227 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 10 | 11 | 1,6 | 1 | 0 |
 | M. Muheim | M | 3 | 210 | 2 | 1 | 2 | 0,7 | 2 | 0,7 | 6 | 2 | 0,7 | 0 | 0 |
-| B. Nadir | M | 4 | 208 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 0 | 3 | 0,8 | 0 | 0 |
-| S. Nandja | D | 3 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 2 | 0 |
-| Patson Daka | F | 4 | 208 | 0 | 0 | 6 | 1,5 | 0 | 0,0 | 3 | 3 | 0,8 | 0 | 0 |
-| Otto Emerson Stange | F | 6 | 197 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 10 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 1,03 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+_Goles esperados: local 2,22 · visitante 1,10 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 22% | 21% | 4.33 | -10% |
-| 1X2: X | 22% | 23% | 22% | 4.20 | -7% |
-| 1X2: 1 | 58% | 56% | 57% | 1.70 | -3% |
-| Doble oportunidad: X2 | 42% | 45% | 43% | 2.10 | -9% |
-| Doble oportunidad: 12 | 78% | 77% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 80% | 78% | 79% | 1.20 | -5% |
-| Ambos marcan: No | 45% | 35% | 40% | 2.62 | +5% |
-| Ambos marcan: Sí | 55% | 65% | 60% | 1.44 | -14% |
-| Goles más/menos: Más de 2.5 | 57% | 66% | 61% | 1.44 | -12% |
-| Goles más/menos: Más de 3.5 | 34% | 45% | 40% | 2.10 | -17% |
-| Goles más/menos: Más de 4.5 | 18% | 27% | 22% | 3.50 | -21% |
-| Goles más/menos: Menos de 2.5 | 43% | 34% | 39% | 2.75 | +7% |
-| Goles más/menos: Menos de 3.5 | 66% | 55% | 60% | 1.73 | +4% |
-| Goles más/menos: Menos de 4.5 | 82% | 73% | 78% | 1.30 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 57% | 62% | 60% | 1.50 | -10% |
-| Goles del local: Más de 2.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del local: Menos de 1.5 | 43% | 38% | 40% | 2.50 | +0% |
-| Goles del local: Menos de 2.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del visitante: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles del visitante: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles del visitante: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +7% |
-| Goles del visitante: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Córners más/menos: Más de 9.5 | 43% | 53% | 48% | 1.80 | -14% |
-| Córners más/menos: Menos de 9.5 | 57% | 47% | 52% | 2.00 | +4% |
-| 1X2 descanso: 2 | 19% | 22% | 20% | 4.33 | -13% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -2% |
-| 1X2 descanso: 1 | 42% | 43% | 42% | 2.20 | -7% |
+| 1X2: 2 | 18% | 22% | 20% | 4.33 | -14% |
+| 1X2: X | 20% | 23% | 21% | 4.20 | -12% |
+| 1X2: 1 | 63% | 56% | 59% | 1.70 | +1% |
+| Doble oportunidad: X2 | 37% | 45% | 41% | 2.10 | -14% |
+| Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
+| Doble oportunidad: 1X | 82% | 78% | 80% | 1.20 | -4% |
+| Ambos marcan: No | 41% | 35% | 38% | 2.62 | -0% |
+| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
+| Goles más/menos: Más de 2.5 | 64% | 66% | 65% | 1.44 | -6% |
+| Goles más/menos: Más de 3.5 | 42% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Más de 4.5 | 24% | 27% | 26% | 3.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 3.5 | 58% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Menos de 4.5 | 76% | 73% | 74% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 18% | 22% | 20% | 4.33 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Goles del local: Más de 1.5 | 65% | 62% | 64% | 1.50 | -4% |
+| Goles del local: Más de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles del local: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles del local: Menos de 2.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -10% |
+| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
+| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +4% |
+| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Córners más/menos: Más de 9.5 | 41% | 53% | 47% | 1.80 | -15% |
+| Córners más/menos: Menos de 9.5 | 59% | 47% | 53% | 2.00 | +6% |
+| 1X2 descanso: 2 | 18% | 22% | 20% | 4.33 | -15% |
+| 1X2 descanso: X | 36% | 36% | 36% | 2.62 | -6% |
+| 1X2 descanso: 1 | 46% | 43% | 44% | 2.20 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
