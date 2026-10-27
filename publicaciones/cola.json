@@ -1214,7 +1214,7 @@
   {
     "id": "2026-10-28-combi-partido-1640575",
     "fecha": "2026-10-28T01:30",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 MANCHESTER CITY GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ BRIGHTON MARCA [x1.36]\n✅ BRIGHTON VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,13\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 MANCHESTER CITY GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ BRIGHTON MARCA [x1.36]\n✅ BRIGHTON VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,30\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "bot",
     "directo": true,
@@ -1240,7 +1240,8 @@
       "fecha": "2026-10-28T20:30",
       "liga": "Carabao Cup"
     },
-    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat · 00:35 cuota corregida a 3,30 (la que da bet365, comprobada por Marcos; el bot calculaba 5,13)",
+    "cuota_bet365": 3.3
   },
   {
     "id": "2026-10-28-combi-partido-1638558",
