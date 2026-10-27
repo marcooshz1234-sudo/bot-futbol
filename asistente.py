@@ -87,6 +87,19 @@ def guardar_archivos(rutas, mensaje):
     return False
 
 
+LOG = RAIZ / "datos" / "asistente_log.txt"
+
+
+def registrar(texto):
+    """27/10: registro de lo que hace el bot del móvil (para poder revisar qué pasó con cada mensaje)."""
+    try:
+        lineas = (LOG.read_text(encoding="utf-8").splitlines() if LOG.exists() else [])[-300:]
+        lineas.append(f"{datetime.now(MADRID):%Y-%m-%d %H:%M:%S} {texto}")
+        LOG.write_text("\n".join(lineas) + "\n", encoding="utf-8")
+    except Exception as e:
+        print("registrar:", e)
+
+
 def actualizar():
     if git("pull", "--rebase", "-q").returncode != 0:
         git("rebase", "--abort")
@@ -613,6 +626,7 @@ class Asistente:
     def escuchar(self):
         fin = datetime.now(MADRID) + DURACION
         offset, ultimo_pull = None, 0
+        registrar("arranca el bot del móvil")
         while datetime.now(MADRID) < fin:
             if time.time() - ultimo_pull > 120:
                 actualizar()
@@ -625,11 +639,18 @@ class Asistente:
                     self.vigilar()
                 except Exception as e:
                     print("vigilar:", e)
+            if time.time() - getattr(self, "_ult_log", 0) > 180 and LOG.exists():   # el registro se sube cada 3 min
+                self._ult_log = time.time()
+                try:
+                    guardar_archivos([LOG], "registro")
+                except Exception as e:
+                    print("registro:", e)
             try:
                 r = api(self.t, "getUpdates", {"timeout": 50, "offset": offset,
                                                 "allowed_updates": ["message", "callback_query"]})
             except Exception as e:
                 print("getUpdates:", e)
+                registrar(f"getUpdates falló: {e!r}")
                 time.sleep(10)
                 continue
             for u in r.get("result", []):
@@ -647,13 +668,18 @@ class Asistente:
                         except Exception as e:
                             print("comunidad:", e)
                     continue
+                que = ("botón " + u["callback_query"].get("data", "")) if "callback_query" in u else \
+                    ("foto" if (u.get("message") or {}).get("photo") else "texto " + ((u.get("message") or {}).get("text") or "")[:40])
                 try:
                     if "callback_query" in u:
                         self.boton(u["callback_query"])
                     elif (u["message"].get("chat") or {}).get("type") == "private":
                         self.mensaje(u["message"])
+                    registrar(f"{que} → ok")
                 except Exception as e:
+                    import traceback
                     print("error:", e)
+                    registrar(f"{que} → ERROR {e!r} | {traceback.format_exc()[-300:]!r}")
                     try:
                         self.enviar(f"⚠️ Algo ha fallado: {e}")
                     except Exception:
