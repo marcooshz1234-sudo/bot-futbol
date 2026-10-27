@@ -255,11 +255,11 @@
     "total": 9,
     "cuentas": {
       "verde": 3,
-      "rojo": 3,
-      "pendiente": 3,
+      "rojo": 4,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -301,7 +301,7 @@
       {
         "id": "2026-10-27-combi-torino-como",
         "titulo": "✅ COMBI LOCAS | SERIE A",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 8.27
       },
       {
@@ -318,10 +318,10 @@
       }
     ],
     "picks": {
-      "verde": 23,
-      "rojo": 5,
+      "verde": 24,
+      "rojo": 6,
       "total": 43
     },
-    "texto": "📊 BALANCE DEL MARTES: 3 DE 6 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86\n❌ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21 · pendiente\n✅ ✅ COMBI LOCAS | DFB-POKAL · 2,26\n⏳ ✅ COMBI LOCAS | SERIE A · 8,27 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 6,90\n❌ ✅ COMBI LOCAS | DFB-POKAL · 6,19\n\n✅ 3 acertadas · ❌ 3 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 3 DE 7 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86\n❌ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21 · pendiente\n✅ ✅ COMBI LOCAS | DFB-POKAL · 2,26\n❌ ✅ COMBI LOCAS | SERIE A · 8,27\n❌ ✅ COMBI LOCAS | SERIE A · 6,90\n❌ ✅ COMBI LOCAS | DFB-POKAL · 6,19\n\n✅ 3 acertadas · ❌ 4 falladas · ⏳ 2 sin resolver"
   }
 }
