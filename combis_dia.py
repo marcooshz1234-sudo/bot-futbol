@@ -358,7 +358,15 @@ def del_dia(dia, hist=None, ap=None):
             cp["picks"] = r[1]
             partidos.append((grandeza(cp), r[0], cp, r[2]))
     partidos.sort(key=lambda x: (-x[0], -x[1]))
-    elegidos = [(cp, c) for _, _, cp, c in partidos[:PARTIDO["max"]]]
+    # 27/10 (norma de Marcos): si entre los 3 mejores no hay equipo español, entra el mejor partido español
+    # (en España bet365 suele dar aumentos y apuestas aseguradas)
+    espanol = lambda cp: cp.get("liga_id") in (140, 141, 143)
+    top = partidos[:PARTIDO["max"]]
+    if not any(espanol(x[2]) for x in top[:3]):
+        esp = next((x for x in partidos if espanol(x[2])), None)
+        if esp and esp not in top:
+            top = top[:3] + [esp] + top[3:PARTIDO["max"] - 1]
+    elegidos = [(cp, c) for _, _, cp, c in top]
     # horas: 50 min antes; si chocan, cada 30 min hacia atrás
     usadas, salida = [], []
     for cp, c in sorted(elegidos, key=lambda x: x[0]["fecha"], reverse=True):
@@ -371,17 +379,26 @@ def del_dia(dia, hist=None, ap=None):
     # 2) multis con el mejor pick de cada partido que empiece después de la hora del post
     res = {"partidos": salida}
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
+    # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
+    from collections import Counter
+    sel = lambda p: f"{p['partido_id']}|{p['mercado']}|{p['opcion']}"
+    usos = Counter(sel(p) for cp, _, _, _ in salida for p in cp["picks"])
+    esc = (leer(DATOS / "escalera.json") or {}).get("actual") or {}
+    if esc.get("dia") == dia:
+        usos.update(sel(p) for p in esc.get("picks", []))
     for clave, cfg in (("tres", TRES), ("loca", LOCA)):
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
         for pool in pools:
-            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI
+            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2
                   and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
             if ok:
                 mejores.append(ok[0])
         mejores.sort(key=lambda p: -p["prob_aprendida"])
         r = mejor_combi(mejores, cfg["patas"], cfg["cuota"], una_por_partido=True)
         res[clave] = (r[1], r[2], hora) if r else None
+        if r:
+            usos.update(sel(p) for p in r[1])
     return res
 
 

@@ -261,10 +261,12 @@ def posts_del_dia(dia, d):
             pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
+            apuntar(cp["picks"])   # 27/10: cuentan para el «máx. 2 posts por selección» (la lista de picks)
         for clave_m, titulo in (("tres", "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"), ("loca", "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
             r = cd.get(clave_m)
             if r:
                 sel, cuota, hora = r
+                apuntar(sel)
                 posts.append((f"combi-{clave_m}", hora, sel, combi(titulo.format(c=num(cuota), n=nombre), sel, cuota)))
         combis = {}   # las combis de antes (11:00, 12:00, 19:00, víspera…) ya no salen
     # 26/10: la cuota va en la primera línea (los títulos con número se veían el triple)

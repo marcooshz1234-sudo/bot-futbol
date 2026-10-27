@@ -15,6 +15,7 @@ Solo se guarda el nombre que el usuario tiene en Telegram, para el ranking.
 """
 import json
 import os
+import re
 from datetime import datetime, timedelta
 
 from bot import DATOS, EXTRA, MADRID, PARTIDOS, RAIZ, leer
@@ -153,14 +154,19 @@ def encuesta(est, ahora):
     hoy = ahora.strftime("%Y-%m-%d")
     if est.get("encuesta") == hoy or not ("19:30" <= ahora.strftime("%H:%M") < "21:00"):
         return
-    d = ((leer(DATOS / "picks.json", {}) or {}).get("dias") or {}).get(hoy) or {}
-    combis = d.get("combis") or {}
-    c = next((combis[k] for k in ("loca", "cuota_3", "segura") if combis.get(k)), None) \
-        or next((x for x in (d.get("estilos") or {}).values() if x), None)
-    if not c or len(c["picks"]) < 2:
+    # 27/10: la encuesta va sobre una combi que se ha PUBLICADO hoy (la loca o, si no, la x3), no sobre
+    # las combis viejas de picks.json, que ya no salen
+    raiz = DATOS.parent / "publicaciones"
+    posts = (leer(raiz / "cola.json", []) or []) + (leer(raiz / "auto.json", []) or [])
+    c = next((p for k in ("-combi-loca", "-combi-tres") for p in posts
+              if p["id"].startswith(hoy) and k in p["id"] and not p.get("caducada")), None)
+    if not c:
+        return
+    patas = [re.sub(r"^✅\s*(\S+\s)?", "", l).strip() for l in c["texto"].splitlines() if l.startswith("✅")]
+    if len(patas) < 2:
         return
     est["encuesta"] = hoy
-    opciones = [p["texto"][:100] for p in c["picks"][:10]]
+    opciones = [p[:100] for p in patas[:10]]
     canal("sendPoll", {"question": "🤔 De la combi de hoy, ¿qué pata crees que falla?",
                        "options": [{"text": o} for o in opciones], "is_anonymous": True})
 
