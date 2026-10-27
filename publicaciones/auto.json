@@ -144,27 +144,27 @@
   {
     "id": "2026-10-28-picks-manana",
     "fecha": "2026-10-27T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ryan Gravenberch comete 1+ faltas\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇮🇹 Lewis Ferguson comete 1+ faltas\n✅ 🇮🇹 Monza marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Adam Smith comete 1+ faltas\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇮🇹 Gana el Inter\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇮🇹 Monza marca\n✅ 🇮🇹 Gol en la 2ª parte del Genoa–Juventus\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Bournemouth–Aston Villa\n✅ 🇩🇪 1899 Hoffenheim marca 2 o más\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550176|Match Winner|Away",
       "1550173|Goals Over/Under|Over 1.5",
-      "1640388|Player Fouls Committed|Ryan Gravenberch - 1",
       "1640389|Double Chance|Draw/Away",
-      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
       "1550172|Total - Home|Over 0.5",
-      "1640383|Player Fouls Committed|Adam Smith - 1"
+      "1550171|Goals Over/Under - Second Half|Over 0.5",
+      "1640383|Goals Over/Under First Half|Over 0.5",
+      "1638568|Total - Away|Over 1.5"
     ],
     "cuotas": [
       1.36,
       1.36,
-      1.25,
       1.28,
-      1.25,
       1.44,
-      1.36
+      1.25,
+      1.3,
+      1.33
     ]
   },
   {
@@ -190,13 +190,13 @@
   {
     "id": "2026-10-28-combi-tres",
     "fecha": "2026-10-28T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,74! 🍀\n\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Anan Khalaili comete 1+ faltas\n✅ 🇮🇹 Monza marca\n\n🎯 CUOTA 2,74 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,74! 🍀\n\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool o empate\n✅ 🇮🇹 Monza marca\n\n🎯 CUOTA 2,74 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550173|Goals Over/Under|Over 1.5",
-      "1640387|Player Fouls Committed|Anan Khalaili - 1",
+      "1640388|Double Chance|Home/Draw",
       "1550172|Total - Home|Over 0.5"
     ],
     "cuotas": [
@@ -208,49 +208,79 @@
   {
     "id": "2026-10-28-combi-loca",
     "fecha": "2026-10-28T16:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x7,27! 🤪\n\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Adam Smith comete 1+ faltas\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Anan Khalaili comete 1+ faltas\n✅ 🇮🇹 Monza marca\n✅ 🇩🇪 Bayer Leverkusen gana al descanso\n\n🎯 CUOTA 7,27 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x7,11! 🤪\n\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n✅ 🇮🇹 Más de 1,5 goles en Genoa–Juventus\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool o empate\n✅ 🇮🇹 Monza marca\n✅ 🇩🇪 Bayer Leverkusen gana al descanso\n\n🎯 CUOTA 7,11 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550176|Away Player Shots|Nicolo Barella - 1",
       "1550173|Goals Over/Under|Over 1.5",
-      "1640383|Player Fouls Committed|Adam Smith - 1",
-      "1640387|Player Fouls Committed|Anan Khalaili - 1",
+      "1550171|Goals Over/Under|Over 1.5",
+      "1640388|Double Chance|Home/Draw",
       "1550172|Total - Home|Over 0.5",
       "1638557|First Half Winner|Home"
     ],
     "cuotas": [
       1.3,
       1.36,
-      1.36,
+      1.33,
       1.4,
       1.44,
       1.5
     ]
   },
   {
-    "id": "2026-10-28-combi-partido-1550167",
+    "id": "2026-10-28-combi-partido-1550173",
     "fecha": "2026-10-28T16:10",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs BOLOGNA 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.25]\n✅ LEWIS FERGUSON COMETE 1+ FALTAS [x1.25]\n✅ AC MILAN GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ BOLOGNA MARCA [x1.57]\n✅ BOLOGNA HACE MÁS DE 2,5 CÓRNERS [x1.62]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 7,03\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 PARMA vs UDINESE 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.36]\n✅ PARMA MARCA [x1.40]\n✅ UDINESE O EMPATE [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ UDINESE HACE MÁS TIROS [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 7,33\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550173|Goals Over/Under|Over 1.5",
+      "1550173|Total - Home|Over 0.5",
+      "1550173|Double Chance|Draw/Away",
+      "1550173|Goals Over/Under First Half|Over 0.5",
+      "1550173|Shots.1x2|Away"
+    ],
+    "cuotas": [
+      1.36,
+      1.4,
+      1.4,
+      1.44,
+      1.91
+    ],
+    "tarjeta": {
+      "local": "Parma",
+      "visitante": "Udinese",
+      "id_l": 523,
+      "id_v": 494,
+      "logo_l": "https://media.api-sports.io/football/teams/523.png",
+      "logo_v": "https://media.api-sports.io/football/teams/494.png",
+      "fecha": "2026-10-28T18:30",
+      "liga": "Serie A"
+    }
+  },
+  {
+    "id": "2026-10-28-combi-partido-1550167",
+    "fecha": "2026-10-28T16:40",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs BOLOGNA 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.25]\n✅ AC MILAN GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ BOLOGNA MARCA [x1.57]\n✅ BOLOGNA HACE MÁS DE 2,5 CÓRNERS [x1.62]\n✅ AC MILAN VE MÁS DE 1,5 TARJETAS [x1.67]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 7,06\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550167|Goals Over/Under|Over 1.5",
-      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
       "1550167|To Win Either Half|Home",
-      "1550167|Goals Over/Under First Half|Over 0.5",
       "1550167|Total - Away|Over 0.5",
-      "1550167|Away Corners Over/Under|Over 2.5"
+      "1550167|Away Corners Over/Under|Over 2.5",
+      "1550167|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
       1.25,
-      1.25,
-      1.33,
       1.33,
       1.57,
-      1.62
+      1.62,
+      1.67
     ],
     "tarjeta": {
       "local": "AC Milan",
@@ -265,7 +295,7 @@
   },
   {
     "id": "2026-10-28-combi-partido-1550176",
-    "fecha": "2026-10-28T16:40",
+    "fecha": "2026-10-28T17:10",
     "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 VENEZIA vs INTER 🇮🇹\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.30]\n✅ GANA EL INTER [x1.36]\n✅ VENEZIA MARCA [x1.44]\n✅ AMBOS MARCAN [x1.57]\n✅ MÁS DE 10,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,63\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
@@ -297,13 +327,13 @@
   },
   {
     "id": "2026-10-28-combi-partido-1640575",
-    "fecha": "2026-10-28T17:10",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 ELLIOT ANDERSON COMETE 1+ FALTAS [x1.33]\n✅ MÁS DE 2,5 GOLES [x1.48]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n✅ MÁS DE 27,5 TIROS [x1.91]\n\n🔥 Resultado probable: 1-2 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,18\n🟢 VERDE A VERDE 🟢",
+    "fecha": "2026-10-28T17:40",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 MANCHESTER CITY GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ MÁS DE 2,5 GOLES [x1.48]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n✅ MÁS DE 27,5 TIROS [x1.91]\n\n🔥 Resultado probable: 1-2 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,18\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1640575|Player Fouls Committed|Elliot Anderson - 1",
+      "1640575|To Win Either Half|Home",
       "1640575|Goals Over/Under|Over 2.5",
       "1640575|Total ShotOnGoal|Over 9.5",
       "1640575|Total Shots|Over 27.5"
@@ -327,19 +357,19 @@
   },
   {
     "id": "2026-10-28-combi-partido-1640383",
-    "fecha": "2026-10-28T17:55",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BOURNEMOUTH vs ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 ADAM SMITH COMETE 1+ FALTAS [x1.36]\n✅ ASTON VILLA O EMPATE [x1.62]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 4,5 TARJETAS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,47\n🟢 VERDE A VERDE 🟢",
+    "fecha": "2026-10-28T18:25",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BOURNEMOUTH vs ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.30]\n✅ ASTON VILLA O EMPATE [x1.62]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 4,5 TARJETAS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,09\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1640383|Player Fouls Committed|Adam Smith - 1",
+      "1640383|Goals Over/Under First Half|Over 0.5",
       "1640383|Double Chance|Draw/Away",
       "1640383|Total Shots|Over 25.5",
       "1640383|Cards Over/Under|Over 4.5"
     ],
     "cuotas": [
-      1.36,
+      1.3,
       1.62,
       1.83,
       2.1
@@ -351,36 +381,6 @@
       "id_v": 66,
       "logo_l": "https://media.api-sports.io/football/teams/35.png",
       "logo_v": "https://media.api-sports.io/football/teams/66.png",
-      "fecha": "2026-10-28T20:45",
-      "liga": "Carabao Cup"
-    }
-  },
-  {
-    "id": "2026-10-28-combi-partido-1640387",
-    "fecha": "2026-10-28T18:25",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 FULHAM vs CRYSTAL PALACE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 ANAN KHALAILI COMETE 1+ FALTAS [x1.40]\n✅ DAVID AFFENGRUBER COMETE 1+ FALTAS [x1.44]\n✅ CHRIS RICHARDS COMETE 1+ FALTAS [x1.91]\n✅ CRYSTAL PALACE O EMPATE [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 7,35\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1640387|Player Fouls Committed|Anan Khalaili - 1",
-      "1640387|Player Fouls Committed|David Affengruber - 1",
-      "1640387|Player Fouls Committed|Chris Richards - 1",
-      "1640387|Double Chance|Draw/Away"
-    ],
-    "cuotas": [
-      1.4,
-      1.44,
-      1.91,
-      1.91
-    ],
-    "tarjeta": {
-      "local": "Fulham",
-      "visitante": "Crystal Palace",
-      "id_l": 36,
-      "id_v": 52,
-      "logo_l": "https://media.api-sports.io/football/teams/36.png",
-      "logo_v": "https://media.api-sports.io/football/teams/52.png",
       "fecha": "2026-10-28T20:45",
       "liga": "Carabao Cup"
     }

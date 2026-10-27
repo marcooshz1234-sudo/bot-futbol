@@ -91,7 +91,8 @@ def mejores_para_lista(picks):
     jugador, tarjetas, córners...) para que la lista no sea casi todo goles."""
     # 26/10: en las listas solo lo que el bot de verdad ve probable (antes salía "Gana el Lazio" con un 47 %)
     candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])
-                  and (p.get("prob_aprendida") is None or p["prob_aprendida"] >= PROB_MIN_LISTA)]
+                  and (p.get("prob_aprendida") is None or p["prob_aprendida"] >= PROB_MIN_LISTA)
+                  and p.get("campo") not in ("faltas_c",)]   # 27/10: nada de "X comete 1+ faltas" en las listas
     por_tipo = {}
     for p in candidatos:
         por_tipo.setdefault(p.get("tipo") or "otros", []).append(p)

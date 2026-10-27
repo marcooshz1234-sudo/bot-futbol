@@ -81,6 +81,8 @@ def pool_partido(ex, hist, ap):
                      cuota=c, frecuencia=round(frec, 3), ventaja=round(frec - 1 / c, 3), detalle=det)
             pool.append(p)
     for p in P.picks_jugadores(ex, hist, base, frec_min=0.6):
+        if p.get("campo") in ("faltas_c", "amarillas"):
+            continue   # "X comete 1+ faltas" es relleno: en el histórico prometen 77 % y salen 66 %
         if p["cuota"] >= CUOTA_MIN_PATA and ((lok and vok) or p.get("equipo") == (loc["name"] if lok else vis["name"])):
             pool.append(p)
     for p in pool:
