@@ -1200,7 +1200,16 @@
       "fecha": "2026-10-28T18:30",
       "liga": "Serie A"
     },
-    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat",
+    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550176.tarjeta.jpg",
+    "enviado": "2026-10-28T00:32",
+    "mensaje_id": 145,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17909374614577011",
+      "instagram": "18099659381539583",
+      "instagram_story": "18160818541456103"
+    }
   },
   {
     "id": "2026-10-28-combi-partido-1640575",
