@@ -107,24 +107,40 @@ def picks_dia(posts, dia):
     return salida, en_juego
 
 
+TIPOS = (('tarjetas', 'tarjeta'), ('córners', 'córner'), ('faltas', 'falta'), ('tiros', 'tiro'),
+         ('goles', 'gol'), ('goles', 'marca'))
+
+
+def tipo_pick(texto):
+    s = texto.lower()
+    return next((n for n, clave in TIPOS if clave in s), 'ganadores')
+
+
 def textos_picks(picks, dia):
-    """Texto completo (Telegram) y versión de Threads (máx. 500 caracteres)."""
-    v = sum(x['estado'] == 'verde' for x in picks)
+    """28/10 (Marcos): sin la lista de picks; % de acierto y lo mejor y lo peor por tipo de apuesta.
+    El mismo texto para Telegram y Threads (cabe en 500 caracteres)."""
+    v, n = sum(x['estado'] == 'verde' for x in picks), len(picks)
+    tipos = {}
+    for x in picks:
+        c = tipos.setdefault(tipo_pick(x['texto']), [0, 0])
+        c[0] += x['estado'] == 'verde'
+        c[1] += 1
+    pct = lambda k: tipos[k][0] / tipos[k][1]
+    fmt = lambda k: f"{k} {tipos[k][0]}/{tipos[k][1]}"
     fecha = datetime.fromisoformat(dia)
-    cab = [f"📊 PICKS DEL {DIAS[fecha.weekday()]}: {v} DE {len(picks)} EN VERDE 🍀", '']
-    filas = [f"{'✅' if x['estado'] == 'verde' else '❌'} {x['texto']}" for x in picks]
-    pie = ['', f"✅ {v} acertados · ❌ {len(picks) - v} fallados"]
-    completo = '\n'.join(cab + filas + pie)
-    corto, n = list(cab), 0
-    for f in filas:
-        resto = len(filas) - n - 1
-        extra = [f"➕ {resto} más en Telegram"] if resto else []
-        if len('\n'.join(corto + [f] + extra + pie)) > 490:
-            break
-        corto.append(f); n += 1
-    if n < len(filas):
-        corto.append(f"➕ {len(filas) - n} más en Telegram")
-    return completo, '\n'.join(corto + pie)
+    lineas = [f"📊 BALANCE DEL {DIAS[fecha.weekday()]} · {v} DE {n} PICKS EN VERDE 🍀", '',
+              f"🎯 {round(100 * v / n)} % de acierto", f"✅ {v} acertados · ❌ {n - v} fallados", '']
+    mejores = sorted((k for k in tipos if k != 'ganadores' and pct(k) >= 0.5), key=lambda k: (-pct(k), -tipos[k][1]))[:2]
+    if mejores:
+        lineas.append("🔥 Lo mejor: " + " · ".join(fmt(k) for k in mejores))
+    if 'ganadores' in tipos:
+        lineas.append(f"⚽ Ganadores: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")
+    peores = sorted((k for k in tipos if tipos[k][1] >= 2 and pct(k) < 0.5 and k not in mejores), key=lambda k: (pct(k), -tipos[k][1]))
+    if peores:
+        lineas.append(f"😤 Lo peor: {fmt(peores[0])}")
+    lineas += ['', '💚 Mañana más picks GRATIS en @combilocas', '🍀 ¿Cuántos llevabas tú? 👇']
+    texto = '\n'.join(l for i, l in enumerate(lineas) if l or (i and lineas[i - 1]))
+    return texto, texto
 
 
 def main():
@@ -142,8 +158,8 @@ def main():
     picks, en_juego = picks_dia(datos.get('publicados_hoy', []), hoy)
     if not picks or (en_juego and ahora.strftime('%H:%M') < '23:45'):
         return
-    texto, texto_threads = textos_picks(picks, hoy)
-    cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto, 'texto_threads': texto_threads,
+    texto, _ = textos_picks(picks, hoy)
+    cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto,
                  'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True})
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('Resumen de picks del día en cola')
