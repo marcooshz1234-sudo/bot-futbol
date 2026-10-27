@@ -377,6 +377,9 @@ class Asistente:
             return self.enviar("👍 No se borra nada.")
         if accion == "boleto" and self.borrador and self.borrador.get("foto"):
             return self.recortar_boleto()
+        if accion == "boleto_cuota" and self.boleto:
+            self.esperando = ("cuota_boleto",)
+            return self.enviar("Dime la cuota total, por ejemplo 33,75")
         if accion == "boleto_ok" and self.boleto and self.boleto.get("texto"):
             return self.subir_boleto()
         if accion == "descartar":
@@ -394,7 +397,7 @@ class Asistente:
         pid = f"{datetime.now(MADRID):%Y-%m-%d}-boleto-{datetime.now(MADRID):%H%M%S}"
         destino = RAIZ / "publicaciones" / "fotos" / f"{pid}.jpg"
         try:
-            boleto_foto.recortar(origen, destino)
+            cuota = boleto_foto.recortar(origen, destino)   # la cuota sale de «Ganancias ÷ Imp» antes de recortar
         except Exception as e:
             return self.enviar(f"⚠️ No he podido recortarla: {e}")
         finally:
@@ -402,8 +405,16 @@ class Asistente:
         self.boleto, self.borrador = {"id": pid, "foto": destino}, None
         api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": "✂️ Así queda recortada (sin importe ni ganancias)."},
             archivo=destino)
+        if cuota:
+            return self.vista_boleto(cuota)
         self.esperando = ("cuota_boleto",)
-        return self.enviar("¿Qué cuota total pone? (por ejemplo 33,75)")
+        return self.enviar("No leo bien el importe y las ganancias. ¿Qué cuota total es? (por ejemplo 33,75)")
+
+    def vista_boleto(self, cuota):
+        self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
+                                + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
+        return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}",
+                           [[("✅ Subir", "boleto_ok"), ("✏️ Otra cuota", "boleto_cuota"), ("🗑️ Descartar", "descartar")]])
 
     def subir_boleto(self):
         import shutil
@@ -439,11 +450,7 @@ class Asistente:
                 if not n or not self.boleto:
                     self.esperando = ("cuota_boleto",)
                     return self.enviar("Dime solo la cuota total, por ejemplo 33,75")
-                cuota = float(n.group().replace(",", "."))
-                self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
-                                        + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
-                return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}",
-                                   [[("✅ Subir", "boleto_ok"), ("🗑️ Descartar", "descartar")]])
+                return self.vista_boleto(float(n.group().replace(",", ".")))
             if tipo == "editar":
                 mid, es_foto = datos
                 metodo, campo = ("editMessageCaption", "caption") if es_foto else ("editMessageText", "text")
