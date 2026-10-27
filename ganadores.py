@@ -101,7 +101,7 @@ def ganadores(dia, hist=None):
 
 
 def post(dia, hist=None):
-    """(tipo, hora, texto) o None. Sale a las 10:30 del día."""
+    """(tipo, hora, texto) o None. Sale a la 01:00 del día (antes del 28/10, a las 10:30)."""
     from picks import COMPETICION
     from plantillas import BANDERA
     g = ganadores(dia, hist)
@@ -110,6 +110,8 @@ def post(dia, hist=None):
     lineas = [f"✅{i}. {BANDERA.get(COMPETICION.get(liga), '⚽')} {eq} — {'Gana' if pr >= UMBRAL else 'Gana o empata'}"
               for i, (pr, eq, liga, _, _) in enumerate(g, 1)]
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
-    return ("ganadores", f.replace(hour=10, minute=30),
+    # 27/10: a la 01:00 (en Latinoamérica es la tarde-noche y a esa hora entraron seguidores nuevos)
+    hora = f.replace(hour=1, minute=0) if dia >= "2026-10-28" else f.replace(hour=10, minute=30)
+    return ("ganadores", hora,
             "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n" + "\n".join(lineas)
             + "\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
