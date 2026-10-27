@@ -59,14 +59,33 @@ def guardar(mensaje):
     if git("diff", "--cached", "--quiet").returncode == 0:
         return
     git("commit", "-q", "-m", f"Asistente: {mensaje}")
-    for _ in range(3):
-        if git("pull", "--rebase", "-q").returncode == 0 and git("push", "-q").returncode == 0:
+    for _ in range(5):
+        if git("pull", "--rebase", "-q").returncode != 0:
+            git("rebase", "--abort")      # 27/10: si choca, no dejar el repo atascado a medias
+        elif git("push", "-q").returncode == 0:
             return
         time.sleep(5)
 
 
+def guardar_archivos(rutas, mensaje):
+    """Sube solo estos archivos (nuevos o solo del asistente): nunca choca con lo que escribe el bucle."""
+    git("add", *[str(r) for r in rutas])
+    if git("diff", "--cached", "--quiet").returncode != 0:
+        git("commit", "-q", "-m", f"Asistente: {mensaje}")
+    for _ in range(5):
+        if git("pull", "--rebase", "-q").returncode != 0:
+            git("rebase", "--abort")
+            time.sleep(5)
+            continue
+        if git("push", "-q").returncode == 0:
+            return True
+        time.sleep(5)
+    return False
+
+
 def actualizar():
-    git("pull", "--rebase", "-q")
+    if git("pull", "--rebase", "-q").returncode != 0:
+        git("rebase", "--abort")
 
 
 def borrables():
@@ -417,18 +436,45 @@ class Asistente:
                            [[("✅ Subir", "boleto_ok"), ("✏️ Otra cuota", "boleto_cuota"), ("🗑️ Descartar", "descartar")]])
 
     def subir_boleto(self):
+        """27/10: lo publica el propio asistente en Telegram y Threads. Antes lo metía en cola.json y, si el
+        bucle cambiaba ese archivo a la vez, el git pull chocaba y el boleto se quedaba sin subir."""
         import shutil
+        import redes
         b, self.boleto = self.boleto, None
+        self.enviar("⏳ Subiendo…")
         media = RAIZ / "publicaciones" / "media"
         media.mkdir(parents=True, exist_ok=True)
-        shutil.copy(b["foto"], media / f"{b['id']}.tarjeta.jpg")      # Threads la sube como imagen
-        cola = leer(COLA, [])
-        cola.append({"id": b["id"], "fecha": (datetime.now(MADRID) + timedelta(minutes=1)).strftime("%Y-%m-%dT%H:%M"),
-                     "texto": b["texto"], "foto": str(b["foto"].relative_to(RAIZ)), "directo": True,
-                     "solo_en": ["threads"]})                     # Instagram no: sin boletos ni dinero
-        escribir(COLA, cola)
-        guardar(f"boleto {b['id']}")
-        return self.enviar("✅ En cola: sale en Telegram y Threads en un par de minutos.")
+        tarjeta = media / f"{b['id']}.tarjeta.jpg"
+        shutil.copy(b["foto"], tarjeta)                              # Threads la coge del repo (URL pública)
+        subido = guardar_archivos([b["foto"], tarjeta], f"boleto {b['id']}")
+        res, mid, th = [], None, None
+        try:
+            r = api(self.t, "sendPhoto", {"chat_id": self.canal, "caption": preparar_texto(b["texto"])[:1024]},
+                    archivo=b["foto"])
+            mid = r["result"]["message_id"]
+            res.append("✅ Telegram")
+        except Exception as e:
+            res.append(f"⚠️ Telegram: {e}")
+        token = os.environ.get("THREADS_TOKEN")
+        if token and subido:
+            for intento in range(4):
+                time.sleep(15)                                       # que GitHub ya sirva la foto
+                try:
+                    th = redes.threads({"id": b["id"], "texto": b["texto"]}, token)
+                    res.append("✅ Threads")
+                    break
+                except Exception as e:
+                    if intento == 3:
+                        res.append(f"⚠️ Threads: {e}")
+        elif token:
+            res.append("⚠️ Threads: no pude subir la foto al repositorio")
+        propios = leer(PROPIOS, [])
+        propios.append({"id": b["id"], "texto": b["texto"], "foto": True, "boleto": True, "patas": b.get("patas"),
+                        "enviado": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"), "mensaje_id": mid,
+                        "redes": {"threads": th}})
+        escribir(PROPIOS, propios[-100:])
+        guardar_archivos([PROPIOS], f"publicado {b['id']}")
+        return self.enviar("\n".join(res))
 
     # ---------------------------------------------------------------- mensajes
     def mensaje(self, m):
