@@ -20,7 +20,10 @@ from datetime import datetime, timedelta
 from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
-PARTIDO = {"patas": (4, 7), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}
+PARTIDO = {"patas": (4, 7), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
+# 27/10: en «Crear apuesta» bet365 paga menos que multiplicar (las patas del mismo partido van juntas).
+# Marcos lo comprobó: Monza–Napoli multiplicaba 7,72 y bet365 daba 4 y poco → ~0,55. Se afina con más casos.
+FACTOR_CREAR = 0.55
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
 PROB_MIN_MULTI = 0.60
@@ -237,6 +240,8 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     for n in range(patas[0], patas[1] + 1):
         for comb in itertools.combinations(cand, n):
             c = math.prod(p["cuota"] for p in comb)
+            if not una_por_partido:   # 27/10: «Crear apuesta» de bet365 no multiplica (patas del mismo partido)
+                c *= FACTOR_CREAR
             if not cuota[0] <= c <= cuota[1]:
                 continue
             if una_por_partido and len({p["partido_id"] for p in comb}) < n:
