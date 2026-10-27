@@ -303,8 +303,13 @@ function vDirecto(modo="directo"){
         ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
     }).join("");
   }
+  // 27/10: el marcador cuenta lo PUBLICADO (antes solo los picks del modelo de los partidos en juego: salía 0 y 0)
+  const cb = pub.filter(p=>!p.lista), cv = cb.filter(p=>p.estado==="verde").length, cr = cb.filter(p=>p.estado==="rojo").length;
+  const sel = new Map(); pub.forEach(p=>p.picks.forEach(x=>sel.set(x.partido_id+"|"+x.texto, x.estado)));
+  const sv=[...sel.values()].filter(e=>e==="verde").length, sr=[...sel.values()].filter(e=>e==="rojo").length;
   const ok=pk.filter(p=>p.estado==="verde").length, ko=pk.filter(p=>p.estado==="rojo").length;
-  if(pk.length) h += `<div class="grid2"><div class="stat"><span class="mut">Acertados</span><b>${ok} ✅</b></div><div class="stat"><span class="mut">Fallados</span><b>${ko} ❌</b></div></div>`;
+  if(pub.length) h = h.replace(`<h2>📣 Combinadas publicadas</h2>`, `<div class="grid2"><div class="stat"><span class="mut">Combis acertadas</span><b>${cv} ✅</b></div><div class="stat"><span class="mut">Combis falladas</span><b>${cr} ❌</b></div><div class="stat"><span class="mut">Selecciones acertadas</span><b>${sv} ✅</b></div><div class="stat"><span class="mut">Selecciones falladas</span><b>${sr} ❌</b></div></div><div class="mut" style="margin:-4px 0 8px">${cb.length-cv-cr} combis en juego o pendientes · ${sel.size-sv-sr} selecciones sin resolver</div><h2>📣 Combinadas publicadas</h2>`);
+  if(pk.length) h += `<div class="mut" style="margin:8px 0">Picks del bot en estos partidos: ${ok} ✅ · ${ko} ❌ · ${pk.length-ok-ko} en juego</div>`;
   partidos.forEach(m=>{
     h += tarjetaPartido(m);
     const selecciones=pk.filter(p=>p.partido_id===m.id);
