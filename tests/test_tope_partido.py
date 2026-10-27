@@ -10,7 +10,7 @@ def pk(pid, m, o, c=1.4):
 
 
 class TopePartido(unittest.TestCase):
-    def test_un_partido_en_dos_combis_como_mucho(self):
+    def test_sin_tope_de_combis_por_partido(self):   # 27/10: Marcos quitó el tope
         d = {"picks": [], "combis": {
             "cuota_3": {"cuota": 1.96, "picks": [pk(1, "Goals Over/Under", "Over 1.5"), pk(2, "Corners", "Over 8.5")]},
             "segura": {"cuota": 1.96, "picks": [pk(1, "Total - Home", "Over 0.5"), pk(3, "Corners", "Over 7.5")]},
@@ -19,7 +19,7 @@ class TopePartido(unittest.TestCase):
             ids = [p["id"] for p in plantillas.posts_del_dia("2026-10-26", d)]
         self.assertIn("2026-10-26-combi-cuota_3", ids)
         self.assertIn("2026-10-26-combi-segura", ids)
-        self.assertNotIn("2026-10-26-combi-loca", ids)
+        self.assertIn("2026-10-26-combi-loca", ids)
 
 
 if __name__ == "__main__":

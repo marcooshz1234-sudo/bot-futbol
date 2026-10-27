@@ -39,6 +39,8 @@ def lista(picks):
 
 
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
+FORMATO_27 = True          # el formato del martes 27/10 (combis_dia.py)
+FORMATO_27_DESDE = "2026-10-28"   # poner "9999" para volver al de antes
 GANADORES_ACTIVO = True    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
 
 
@@ -54,7 +56,7 @@ def clave(p):
 OPCIONALES = ("combi-cuota_3", "combi-liga", "combi-atreve", "picks-hoy")
 MAX_OPCIONALES = 2
 MAX_POSTS_POR_SELECCION = 2   # una misma selección no sale en más de 2 posts
-MAX_COMBIS_POR_PARTIDO = 2    # un mismo partido no sale en más de 2 combis del día
+MAX_COMBIS_POR_PARTIDO = 99   # 27/10: sin tope (Marcos aprobó que un partido salga en varias combis)
 MIN_LISTA = 3   # mínimo de picks para una lista (3 para que los días con pocos partidos tengan contenido)
 
 
@@ -227,6 +229,8 @@ def cierre(dia, tipo, lista_=False):
 
 
 def posts_del_dia(dia, d):
+    global FORMATO_27
+    FORMATO_27 = dia >= FORMATO_27_DESDE   # el 27 ya está hecho a mano (cola.json)
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     nombre = DIAS[f.weekday()]
     posts = []
@@ -238,6 +242,25 @@ def posts_del_dia(dia, d):
             usos[clave(p)] = usos.get(clave(p), 0) + 1
 
     combis = d.get("combis") or {}
+    tarjetas = {}
+    if FORMATO_27:
+        # 27/10: el formato de ese martes (combis_dia.py): combi de cada partido con foto, x3 a las 13:30 y loca a las 16:00
+        try:
+            import combis_dia
+            cd = combis_dia.del_dia(dia)
+        except Exception as e:
+            print("combis del día:", str(e)[:200])
+            cd = {"partidos": []}
+        for cp, cuota, tj, hora in cd["partidos"]:
+            pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
+            tarjetas[pid] = tj
+            posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
+        for clave_m, titulo in (("tres", "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"), ("loca", "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
+            r = cd.get(clave_m)
+            if r:
+                sel, cuota, hora = r
+                posts.append((f"combi-{clave_m}", hora, sel, combi(titulo.format(c=num(cuota), n=nombre), sel, cuota)))
+        combis = {}   # las combis de antes (11:00, 12:00, 19:00, víspera…) ya no salen
     # 26/10: la cuota va en la primera línea (los títulos con número se veían el triple)
     for c_clave, hora, titulo in (("cuota_3", (11, 0), "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"),
                                   ("segura", (12, 0), "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL {n} x{c}! 🍀"),
@@ -256,7 +279,7 @@ def posts_del_dia(dia, d):
         posts.append(("combi-doble", (f - timedelta(days=1)).replace(hour=21, minute=30), c["picks"],
                       combi(f"🛡️ COMBILOCAS — ¡GANA O EMPATA DEL {nombre} x{num(c['cuota'])}! 🛡️", c["picks"], c["cuota"])))
 
-    if not any(v for k, v in combis.items() if k != "doble"):   # día flojo (pocos partidos): al menos una combi de 2
+    if not FORMATO_27 and not any(v for k, v in combis.items() if k != "doble"):   # día flojo (pocos partidos): al menos una combi de 2
         cand = sorted(d.get("picks") or [], key=atractivo, reverse=True)
         par = next(([a, b] for i, a in enumerate(cand) for b in cand[i + 1:]
                     if a["partido_id"] != b["partido_id"] and a["cuota"] * b["cuota"] >= 1.5), None)
@@ -266,7 +289,7 @@ def posts_del_dia(dia, d):
             posts.append(("combi-dia", f.replace(hour=12, minute=0), par,
                           combi(f"🔥⚽ COMBILOCAS — ¡LA COMBI DEL {nombre} x{num(ct)}! 🍀", par, ct)))
 
-    cp = combi_partido_grande(d)
+    cp = None if FORMATO_27 else combi_partido_grande(d)
     tarjeta = None
     if cp:
         cuota = cp.get("cuota_sumada")
@@ -299,7 +322,7 @@ def posts_del_dia(dia, d):
                       f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n{VERDE}"))
 
     # ---- estilos (26/10): tema del día, liga, la que nadie se atreve, de 1 € a 500 €
-    est = d.get("estilos") or {}
+    est = {k: v for k, v in (d.get("estilos") or {}).items() if k == "500"} if FORMATO_27 else (d.get("estilos") or {})
     c = est.get("tema")
     if c:
         apuntar(c["picks"])
@@ -331,7 +354,7 @@ def posts_del_dia(dia, d):
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA MAÑANA! 🍀\n\n{lista(sel)}\n\n"
                       "⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
-    if len(tarde) >= MIN_LISTA:
+    if len(tarde) >= MIN_LISTA and not FORMATO_27:
         sel = tarde[:7]
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
@@ -398,6 +421,8 @@ def posts_del_dia(dia, d):
                        "cuotas": [p.get("cuota") for p in picks]})
         if tipo == "combi-partido" and tarjeta:
             salida[-1]["tarjeta"] = tarjeta
+        if tipo in tarjetas and tarjetas[tipo]:
+            salida[-1]["tarjeta"] = tarjetas[tipo]
     return salida
 
 

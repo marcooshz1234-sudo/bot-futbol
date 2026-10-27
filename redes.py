@@ -41,7 +41,7 @@ REEL_TRAS = timedelta(minutes=10)
 INSTAGRAM_SOLO_REEL = True
 FACEBOOK_ACTIVO = False   # 26/10: pausado a petición del dueño; poner True para volver a publicar
 INSTAGRAM_HISTORIAS = ("verde", "picks-manana", "datos-manana", "combi-partido", "combi-500")   # 26/10: estos también como historia
-MAX_THREADS_DIA = 10      # 26/10: con 30+ posts al día en Threads la media se hundía; los días buenos tenían 10-13
+MAX_THREADS_DIA = 999     # 27/10: sin tope (lo pidió Marcos)
 PRIORITARIOS = ("verde", "balance", "picks-manana", "datos-manana", "combi-loca", "combi-doble", "combi-partido",
                 "datos-rachas", "datos-finde")   # salen aunque se llegue al tope (los de fútbol sin apuesta, para que sean ~30 %)
 LIMITE_THREADS = 500
