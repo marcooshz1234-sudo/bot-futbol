@@ -373,6 +373,9 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
   dice «ese botón ya no vale, mándamelo otra vez». **Nunca se queda callado.**
 
 ### Vigilancia (para que nada falle en silencio)
+- **Registro del bot del móvil**: `datos/asistente_log.txt` (cada mensaje, botón y error, se sube cada 3 min).
+  Para ver lo que imprimió cualquier ejecución de GitHub: lanzar a mano «Leer registro de una ejecución» con su id
+  → `datos/registro_ejecucion.txt`.
 - **Vigilante** (en el asistente, proceso aparte del bucle): avisa al móvil si un post lleva >15 min
   sin salir o si el bucle de publicación no da señales en >35 min.
 - **Avisos**: fallo al publicar en Telegram o Threads, verde de cualquier combi/escalera/boleto.
@@ -433,6 +436,7 @@ Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde.
 | Combis todas iguales (4 patas a x7), demasiados «más de 2,5» y tiros totales | Búsqueda que solo miraba la cuota | Reglas de variedad (sección 4) |
 | Picks de «menos de goles» que fallaron | — | Prohibidos |
 | Posts subidos sin enseñárselos a Marcos | — | Siempre enseñar antes |
+| Del 26 al 27/10 el bot del móvil no guardaba nada (cancelar, cambiar textos, pausa…) y nadie se enteró | `git add` con una ruta que no existía (`datos/comunidad_picks.json`) falla entero y no añade nada | El bot solo añade rutas que existen y, si no puede guardar, avisa. Además deja un registro de cada mensaje y botón en `datos/asistente_log.txt` (y el workflow «Leer registro de una ejecución» baja el registro de cualquier ejecución) |
 | Falsa alarma «no salió a su hora» de dos combis quitadas a mano (27/10) | Se quitaron con `"caducada": true`, que significa «fallo» | Quitar siempre con `"caducada": "quitada"`; los avisos ya ignoran lo quitado, lo cancelado y lo que aún no le toca, y dicen la hora y el partido |
 
 ---
