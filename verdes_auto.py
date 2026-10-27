@@ -16,7 +16,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 COLA = RAIZ / "publicaciones" / "cola.json"
 ESTADO = DATOS / "verdes_auto.json"
 ES_COMBI = re.compile(r"COMBI|COMBINADA|ESCALERA|GANA O EMPATA|🆚", re.I)
-NO_ES = re.compile(r"¡VERDE|^\s*(📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE|QUIÉN GANA", re.U | re.I)   # 27/10: «✅ COMBI LOCAS» sí
+NO_ES = re.compile(r"¡VERDE|^\s*(📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE|QUIÉN GANA|RESULTADOS EXACTOS", re.U | re.I)   # 27/10: «✅ COMBI LOCAS» sí
 
 
 def limpio(t):
