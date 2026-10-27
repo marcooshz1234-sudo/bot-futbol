@@ -1,46 +1,46 @@
 # Atlético Paso – Cordoba
 **Copa del Rey** · Round of 128 · 27/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **5.50**  ·  X **4.75**  ·  2 **1.38**
-- **Doble oportunidad:** 1X **3.00**  ·  12 **1.14**  ·  X2 **1.11**
-- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
+- **1X2:** 1 **6.50**  ·  X **4.50**  ·  2 **1.44**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.18**  ·  X2 **1.11**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.65** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.50** · menos **1.18**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
 - **Goles del visitante:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.05**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **6.50**  ·  X **2.50**  ·  2 **1.91**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **2.75**  ·  2 **1.30**
-- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.25**
-- **Win Both Halves:** 1 **21.00**  ·  2 **4.00**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.10**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.75**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **3.40**  ·  2 **1.25**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **2.20**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.40**
+- **Results/Both Teams Score:** Home/Yes **12.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.20**  ·  Home/No **13.00**  ·  Draw/No **13.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Atlético Paso (total) | Atlético Paso en casa | Cordoba (total) | Cordoba fuera |

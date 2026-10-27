@@ -1,10 +1,10 @@
 # Cuarte – Girona
 **Copa del Rey** · Round of 128 · 27/10/2026 18:30 (hora España) · Estadio Municipal Juan Guerrero El Lobo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:48_
 
 - **1X2:** 1 **13.00**  ·  X **6.00**  ·  2 **1.14**
 - **Doble oportunidad:** 1X **5.00**  ·  12 **1.11**  ·  X2 **1.03**

@@ -1,10 +1,10 @@
 # Sheffield Utd – Wrexham
 **Championship** · Regular Season - 13 · 30/10/2026 21:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 02:05_
+_Actualizadas: 27/10 07:50_
 
 - **1X2:** 1 **2.45**  ·  X **3.30**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.53**
@@ -29,7 +29,7 @@ _Actualizadas: 26/10 02:05_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **2.00** · menos **1.80**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -219,8 +219,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -25% |
 | Goles del visitante: Menos de 0.5 | 41% | 28% | 34% | 3.40 | +16% |
 | Goles del visitante: Menos de 1.5 | 77% | 62% | 70% | 1.50 | +5% |
-| Córners más/menos: Más de 10.5 | 37% | 49% | 43% | 1.91 | -19% |
-| Córners más/menos: Menos de 10.5 | 63% | 51% | 57% | 1.80 | +3% |
+| Córners más/menos: Más de 10.5 | 37% | 47% | 42% | 2.00 | -16% |
+| Córners más/menos: Menos de 10.5 | 63% | 53% | 58% | 1.80 | +4% |
 | 1X2 descanso: 2 | 21% | 28% | 25% | 3.25 | -20% |
 | 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
 | 1X2 descanso: 1 | 30% | 30% | 30% | 3.10 | -7% |

@@ -1,12 +1,12 @@
 # Hamburger SV – Eintracht Frankfurt
 **DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:48_
 
-- **1X2:** 1 **3.10**  ·  X **3.60**  ·  2 **2.15**
+- **1X2:** 1 **3.20**  ·  X **3.60**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -26,14 +26,14 @@ _Actualizadas: 27/10 01:07_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **3.40**  ·  X **2.50**  ·  2 **2.62**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.50**  ·  2 **2.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
@@ -41,17 +41,17 @@ _Actualizadas: 27/10 01:07_
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
 - **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.57**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.62**
-- **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.50**  ·  Home/No **7.00**  ·  Draw/No **19.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.40**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.53**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.50**
+- **Win Both Halves:** 1 **11.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.40**  ·  Home/No **8.00**  ·  Draw/No **19.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
-- **Anytime Goal Scorer:** Raphael Onyedika **5.00**  ·  Galdino Otavio Manoel **7.00**  ·  David Wolfe **10.00**  ·  Albert Gronbaek **3.50**  ·  Kofi Amoako **7.50**  ·  Terem Moffi **2.25**  ·  Lilian Brassier **8.50**  ·  Nicolas Capaldo **7.50**  ·  Zakaria El Ouahdi **5.00**  ·  Jordan Torunarigha **12.00**  ·  Immanuel Pherai **3.75**  ·  Elias Baum **8.50**  ·  Fares Chaibi **4.00**  ·  Oscar Hojlund **6.50**  ·  Mario Gotze **4.00**  ·  Alexander Rossing-Lelesiit **4.00**  ·  Keita Kosugi **10.00**  ·  Bakery Jatta **4.50**  ·  Miro Muheim **10.00**  ·  Shafiq Nandja **10.00**  ·  Ayoube Amaimouni-Echghouyab **3.50**  ·  Malik Pimpong **3.20**  ·  Louis Lemke **7.50**  ·  Fabio Vieira **3.75**  ·  Warmed Omari **15.00**  ·  Jeremiaha Maluze **8.50**  ·  Otto Stange **3.20**  ·  Ansgar Knauff **4.00**  ·  Can Uzun **2.88**  ·  Nnamdi Collins **10.00**  ·  Robin Koch **8.50**  ·  Timothy Chandler **7.00**  ·  Albert Sambi Lokonga **4.50**  ·  Noel Aseko-Nkili **7.00**  ·  Yussuf Poulsen **3.20**  ·  Jonathan Burkardt **2.25**  ·  Bilal Nadir **5.50**  ·  Patson Daka **2.38**  ·  Nicolai Remberg **7.50**  ·  Sebastiaan Bornauw **12.00**  ·  Ritsu Doan **3.20**  ·  Martin Adeline **6.50**  ·  Younes Ebnoutalib **2.25**  ·  Joel Agyekum **10.00**  ·  Love Arrhov **4.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.83**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
+- **Anytime Goal Scorer:** Raphael Onyedika **5.00**  ·  Galdino Otavio Manoel **6.00**  ·  David Wolfe **10.00**  ·  Albert Gronbaek **3.75**  ·  Kofi Amoako **7.50**  ·  Terem Moffi **2.38**  ·  Lilian Brassier **8.50**  ·  Nicolas Capaldo **7.50**  ·  Zakaria El Ouahdi **5.00**  ·  Jordan Torunarigha **12.00**  ·  Immanuel Pherai **4.00**  ·  Elias Baum **8.50**  ·  Fares Chaibi **4.00**  ·  Oscar Hojlund **6.00**  ·  Mario Gotze **4.00**  ·  Alexander Rossing-Lelesiit **4.00**  ·  Keita Kosugi **10.00**  ·  Bakery Jatta **4.50**  ·  Miro Muheim **10.00**  ·  Shafiq Nandja **10.00**  ·  Ayoube Amaimouni-Echghouyab **3.40**  ·  Malik Pimpong **3.00**  ·  Louis Lemke **7.50**  ·  Fabio Vieira **4.00**  ·  Warmed Omari **15.00**  ·  Jeremiaha Maluze **8.50**  ·  Otto Stange **3.20**  ·  Ansgar Knauff **4.00**  ·  Can Uzun **2.88**  ·  Nnamdi Collins **10.00**  ·  Robin Koch **8.50**  ·  Timothy Chandler **6.00**  ·  Albert Sambi Lokonga **4.50**  ·  Noel Aseko-Nkili **6.00**  ·  Yussuf Poulsen **3.20**  ·  Jonathan Burkardt **2.10**  ·  Bilal Nadir **5.50**  ·  Patson Daka **2.50**  ·  Nicolai Remberg **7.50**  ·  Sebastiaan Bornauw **12.00**  ·  Ritsu Doan **3.00**  ·  Martin Adeline **6.00**  ·  Younes Ebnoutalib **2.10**  ·  Joel Agyekum **10.00**  ·  Love Arrhov **4.50**
 
 ## Estadísticas de equipo
 | | Hamburger SV (total) | Hamburger SV en casa | Eintracht Frankfurt (total) | Eintracht Frankfurt fuera |
@@ -190,9 +190,9 @@ _Goles esperados: local 1,32 · visitante 1,85 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 44% | 47% | 2.15 | +1% |
+| 1X2: 2 | 50% | 45% | 47% | 2.10 | -1% |
 | 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
-| 1X2: 1 | 27% | 30% | 29% | 3.10 | -11% |
+| 1X2: 1 | 27% | 29% | 28% | 3.20 | -9% |
 | Doble oportunidad: X2 | 73% | 70% | 71% | 1.36 | -3% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 50% | 57% | 53% | 1.67 | -11% |
@@ -214,13 +214,13 @@ _Goles esperados: local 1,32 · visitante 1,85 · córners esperados 9,0._
 | Goles del local: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +0% |
 | Goles del local: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
 | Goles del local: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del visitante: Más de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
-| Goles del visitante: Más de 2.5 | 28% | 28% | 28% | 3.40 | -5% |
-| Goles del visitante: Menos de 1.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Goles del visitante: Menos de 2.5 | 72% | 72% | 72% | 1.30 | -6% |
+| Goles del visitante: Más de 1.5 | 55% | 56% | 56% | 1.67 | -7% |
+| Goles del visitante: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
+| Goles del visitante: Menos de 1.5 | 45% | 44% | 44% | 2.10 | -7% |
+| Goles del visitante: Menos de 2.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Córners más/menos: Más de 9.5 | 41% | 54% | 47% | 1.73 | -18% |
 | Córners más/menos: Menos de 9.5 | 59% | 46% | 53% | 2.00 | +5% |
-| 1X2 descanso: 2 | 38% | 35% | 37% | 2.62 | -4% |
+| 1X2 descanso: 2 | 38% | 36% | 37% | 2.60 | -4% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
 | 1X2 descanso: 1 | 24% | 27% | 26% | 3.40 | -13% |
 

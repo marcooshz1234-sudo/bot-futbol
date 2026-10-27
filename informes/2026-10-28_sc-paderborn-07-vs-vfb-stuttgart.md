@@ -1,10 +1,10 @@
 # SC Paderborn 07 – VfB Stuttgart
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
 - **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
@@ -31,13 +31,13 @@ _Actualizadas: 27/10 01:08_
     - 3,5: más **4.50** · menos **1.18**
     - 4,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
+    - 10,5: más **1.88** · menos **1.92**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.60**  ·  2 **1.95**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **2.75**  ·  2 **1.28**
@@ -49,8 +49,8 @@ _Actualizadas: 27/10 01:08_
     - 3,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
-- **Anytime Goal Scorer:** Chris Fuhrich **3.60**  ·  Maximilian Mittelstadt **4.75**  ·  Leo Sauer **3.10**  ·  Bilal El Khannous **2.75**  ·  Ruben Muller **7.00**  ·  Tom Baack **10.00**  ·  Deniz Zeitler **4.75**  ·  Jonah Sticker **10.00**  ·  Lorenz Assignon **6.00**  ·  Stefano Marino **3.60**  ·  Dzenan Pejcinovic **2.10**  ·  Steffen Tigges **4.00**  ·  Dan-Axel Zagadou **7.00**  ·  Leonidas Stergiou **7.00**  ·  Nikolas Nartey **4.00**  ·  Jano Ter Horst **10.00**  ·  Grischa Promel **4.00**  ·  Laurin Ulrich **6.00**  ·  Rayan Philippe **3.60**  ·  Sven Michel **4.75**  ·  Sebastian Klaas **4.75**  ·  Felix Gotze **12.00**  ·  Raphael Obermair **9.00**  ·  Mattes Hansen **12.00**  ·  Santiago Castaneda **12.00**  ·  Tjark Scheller **12.00**  ·  Laurin Curda **6.00**  ·  Marcel Hoffmeier **15.00**  ·  Finn Jeltsch **9.00**  ·  Niklas Mohr **9.00**  ·  Maximilian Herwerth **9.00**  ·  Yanik Spalt **9.00**  ·  Jarzinho Malanga **3.10**  ·  Clemens Lippmann **9.00**  ·  Nyamekye Awortwie Grant **15.00**  ·  Angelo Stiller **7.00**  ·  Atakan Karazor **7.00**  ·  Deniz Undav **1.83**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.75**  ·  Josha Vagnoman **7.00**  ·  Ramon Hendriks **9.00**  ·  Julian Chabot **7.00**  ·  Ameen Al Dakhil **9.00**  ·  Marvin Pieringer **3.60**  ·  Gabriel Vidovic **3.75**  ·  Tiago Tomas **2.30**  ·  Oliver Batista Meier **4.75**  ·  Luka Djuric **7.00**  ·  Luca Jaquez **7.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
+- **Anytime Goal Scorer:** Chris Fuhrich **3.60**  ·  Maximilian Mittelstadt **4.75**  ·  Leo Sauer **3.10**  ·  Bilal El Khannous **2.75**  ·  Ruben Muller **7.00**  ·  Tom Baack **10.00**  ·  Deniz Zeitler **4.75**  ·  Jonah Sticker **10.00**  ·  Lorenz Assignon **6.00**  ·  Stefano Marino **3.60**  ·  Dzenan Pejcinovic **2.10**  ·  Steffen Tigges **4.00**  ·  Dan-Axel Zagadou **7.00**  ·  Leonidas Stergiou **7.00**  ·  Nikolas Nartey **4.00**  ·  Jano Ter Horst **10.00**  ·  Grischa Promel **4.00**  ·  Laurin Ulrich **6.00**  ·  Rayan Philippe **3.60**  ·  Sven Michel **4.75**  ·  Sebastian Klaas **4.75**  ·  Felix Gotze **12.00**  ·  Raphael Obermair **9.00**  ·  Mattes Hansen **12.00**  ·  Santiago Castaneda **12.00**  ·  Tjark Scheller **12.00**  ·  Laurin Curda **6.00**  ·  Marcel Hoffmeier **15.00**  ·  Finn Jeltsch **9.00**  ·  Niklas Mohr **9.00**  ·  Maximilian Herwerth **9.00**  ·  Yanik Spalt **9.00**  ·  Jarzinho Malanga **3.10**  ·  Clemens Lippmann **9.00**  ·  Nyamekye Awortwie Grant **15.00**  ·  Angelo Stiller **7.00**  ·  Atakan Karazor **7.00**  ·  Deniz Undav **1.80**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.75**  ·  Josha Vagnoman **7.00**  ·  Ramon Hendriks **9.00**  ·  Julian Chabot **7.00**  ·  Ameen Al Dakhil **9.00**  ·  Marvin Pieringer **3.60**  ·  Gabriel Vidovic **3.75**  ·  Tiago Tomas **2.30**  ·  Oliver Batista Meier **4.75**  ·  Luka Djuric **7.00**  ·  Luca Jaquez **7.00**
 
 ## Estadísticas de equipo
 | | SC Paderborn 07 (total) | SC Paderborn 07 en casa | VfB Stuttgart (total) | VfB Stuttgart fuera |
@@ -215,8 +215,8 @@ _Goles esperados: local 1,32 · visitante 1,48 · córners esperados 10,2._
 | Goles del visitante: Menos de 1.5 ✅ | 57% | 35% | 46% | 2.62 | +21% |
 | Goles del visitante: Menos de 2.5 | 81% | 61% | 71% | 1.53 | +9% |
 | Goles del visitante: Menos de 3.5 | 94% | 79% | 86% | 1.18 | +2% |
-| Córners más/menos: Más de 10.5 | 42% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 10.5 | 58% | 50% | 54% | 1.83 | -2% |
+| Córners más/menos: Más de 10.5 | 42% | 51% | 46% | 1.88 | -13% |
+| Córners más/menos: Menos de 10.5 | 58% | 49% | 54% | 1.92 | +3% |
 | 1X2 descanso: 2 | 31% | 48% | 39% | 1.95 | -23% |
 | 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +0% |
 

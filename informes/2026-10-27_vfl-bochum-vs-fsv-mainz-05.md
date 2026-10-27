@@ -1,13 +1,13 @@
 # VfL Bochum – FSV Mainz 05
 **DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · Vonovia Ruhrstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:48_
 
-- **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.67**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.18**
+- **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.65**
+- **Doble oportunidad:** 1X **2.15**  ·  12 **1.22**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -49,8 +49,8 @@ _Actualizadas: 27/10 01:07_
     - 3,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 5,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.88**  ·  Menos de 4.5 **1.92**
-- **Anytime Goal Scorer:** Charlie Patino **8.00**  ·  Kacper Koscierski **9.00**  ·  Oliver Olsen **9.00**  ·  Jean-Manuel Mbom **8.00**  ·  Sean Klaiber **9.00**  ·  Mansour Ouro-Tagba **3.10**  ·  Otto Ruoppi **3.40**  ·  Luis Pick **3.40**  ·  Alessandro Crimaldi **6.00**  ·  Owono-Darnell Keumo **13.00**  ·  Kacper Potulski **9.00**  ·  Sota Kawasaki **8.00**  ·  Jarne Steuckers **4.33**  ·  Daniel Hanslik **3.10**  ·  Phillip Tietz **2.38**  ·  Enis Cokaj **9.00**  ·  Christian Rasmussen **4.33**  ·  Eric Martel **5.50**  ·  Philipp Strompf **13.00**  ·  Michael Steinwender **13.00**  ·  Ransford-Yeboah Konigsdorffer **2.50**  ·  Berkan Taz **4.75**  ·  Yigit Karademir **15.00**  ·  Babis Drakas **6.00**  ·  Tom Meyer **8.00**  ·  Lasse Isbruch **9.00**  ·  Rael Nakuzola **6.50**  ·  Leon Sawas **9.00**  ·  Sheraldo Becker **2.38**  ·  Lennard Maloney **6.50**  ·  Stefan Posch **8.00**  ·  Anthony Caci **8.00**  ·  Danny Da Costa **8.00**  ·  Dominik Kohr **8.00**  ·  Kaishu Sano **5.50**  ·  Karol Mets **15.00**  ·  Nadiem Amiri **3.40**  ·  Paul Nebel **3.40**  ·  Phillipp Mwene **8.00**  ·  Silvan Widmer **8.00**  ·  Stefan Bell **8.00**  ·  Jae-Sung Lee **2.88**  ·  Aurel Wagbe **6.50**  ·  Koji Miyoshi **4.00**  ·  Mats Pannewig **8.00**  ·  Maximilian Wittek **8.00**  ·  Philipp Hofmann **3.10**  ·  Benedict Hollerbach **2.50**  ·  Gerrit Holtmann **4.33**  ·  Fabio Gruber **8.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.88**  ·  Menos de 4.5 **1.92**
+- **Anytime Goal Scorer:** Charlie Patino **8.00**  ·  Kacper Koscierski **9.00**  ·  Oliver Olsen **9.00**  ·  Jean-Manuel Mbom **8.00**  ·  Sean Klaiber **9.00**  ·  Mansour Ouro-Tagba **3.00**  ·  Otto Ruoppi **3.40**  ·  Luis Pick **3.40**  ·  Alessandro Crimaldi **6.00**  ·  Owono-Darnell Keumo **13.00**  ·  Kacper Potulski **9.00**  ·  Sota Kawasaki **8.00**  ·  Jarne Steuckers **4.33**  ·  Daniel Hanslik **3.00**  ·  Phillip Tietz **2.20**  ·  Enis Cokaj **9.00**  ·  Christian Rasmussen **4.33**  ·  Eric Martel **5.50**  ·  Philipp Strompf **13.00**  ·  Michael Steinwender **13.00**  ·  Ransford-Yeboah Konigsdorffer **2.50**  ·  Berkan Taz **4.75**  ·  Yigit Karademir **15.00**  ·  Babis Drakas **6.00**  ·  Tom Meyer **8.00**  ·  Lasse Isbruch **9.00**  ·  Rael Nakuzola **6.50**  ·  Leon Sawas **9.00**  ·  Sheraldo Becker **2.30**  ·  Lennard Maloney **6.50**  ·  Stefan Posch **8.00**  ·  Anthony Caci **8.00**  ·  Danny Da Costa **8.00**  ·  Dominik Kohr **8.00**  ·  Kaishu Sano **5.50**  ·  Karol Mets **15.00**  ·  Nadiem Amiri **3.40**  ·  Paul Nebel **3.40**  ·  Phillipp Mwene **8.00**  ·  Silvan Widmer **8.00**  ·  Stefan Bell **8.00**  ·  Jae-Sung Lee **2.88**  ·  Aurel Wagbe **6.50**  ·  Koji Miyoshi **4.00**  ·  Mats Pannewig **8.00**  ·  Maximilian Wittek **8.00**  ·  Philipp Hofmann **3.00**  ·  Benedict Hollerbach **2.50**  ·  Gerrit Holtmann **4.33**  ·  Fabio Gruber **8.00**
 
 ## Estadísticas de equipo
 | | VfL Bochum (total) | VfL Bochum en casa | FSV Mainz 05 (total) | FSV Mainz 05 fuera |

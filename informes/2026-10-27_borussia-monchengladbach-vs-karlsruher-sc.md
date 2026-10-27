@@ -1,17 +1,17 @@
 # Borussia Mönchengladbach – Karlsruher SC
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
 - **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.70**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
     - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**
@@ -32,7 +32,7 @@ _Actualizadas: 27/10 01:08_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **2.00**
+    - 9,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **1.80**  ·  X **2.75**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**

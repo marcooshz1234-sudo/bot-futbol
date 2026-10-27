@@ -1,10 +1,52 @@
 # Telstar – Almere City FC
 **KNVB Beker** · Round of 64 · 27/10/2026 20:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 07:49_
+
+- **1X2:** 1 **2.05**  ·  X **3.70**  ·  2 **3.25**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.25**  ·  X2 **1.80**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 10,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.50**  ·  2 **3.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **1.53**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **3.25**
+- **Win Both Halves:** 1 **6.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.75**  ·  Home/No **5.00**  ·  Draw/No **21.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.60**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.02**  ·  Menos de 5 **1.78**
 
 ## Estadísticas de equipo
 | | Telstar (total) | Telstar en casa | Almere City FC (total) | Almere City FC fuera |

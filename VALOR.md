@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 27/10/2026 01:54 (hora España)._
+_Actualizado el 27/10/2026 07:51 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -11,7 +11,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
-| 18:30 | [Sassuolo – Lazio](informes/2026-10-27_sassuolo-vs-lazio.md) | 1X2: 1 | 3.40 | 39% | 28% | 33% | **+13%** |
+| 18:30 | [Sassuolo – Lazio](informes/2026-10-27_sassuolo-vs-lazio.md) | 1X2: 1 | 3.25 | 39% | 29% | 34% | **+10%** |
 | 20:45 | [Borussia Dortmund – Werder Bremen](informes/2026-10-27_borussia-dortmund-vs-werder-bremen.md) | Goles del local: Menos de 1.5 | 3.00 | 49% | 31% | 40% | **+20%** |
 | 20:45 | [Borussia Dortmund – Werder Bremen](informes/2026-10-27_borussia-dortmund-vs-werder-bremen.md) | Goles más/menos: Menos de 2.5 | 2.60 | 49% | 36% | 43% | **+11%** |
 

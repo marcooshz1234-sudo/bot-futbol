@@ -1,21 +1,21 @@
 # Kloetinge – Cambuur
 **KNVB Beker** · Round of 64 · 27/10/2026 20:00 (hora España) · Sportpark Wesselopark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **8.50**  ·  X **6.00**  ·  2 **1.22**
+- **1X2:** 1 **9.50**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.11**  ·  X2 **1.07**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.30** · menos **3.50**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.28** · menos **3.60**
     - 3,5: más **1.73** · menos **2.00**
     - 4,5: más **2.62** · menos **1.44**
-    - 5,5: más **4.50** · menos **1.18**
-    - 6,5: más **9.00** · menos **1.07**
+    - 5,5: más **4.33** · menos **1.20**
+    - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
@@ -24,19 +24,18 @@ _Actualizadas: 27/10 01:07_
 - **Córners más/menos:**
     - 10: más **1.88** · menos **1.92**
     - 10,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **8.00**  ·  X **3.10**  ·  2 **1.57**
+- **1X2 descanso:** 1 **8.50**  ·  X **3.20**  ·  2 **1.53**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
-- **To Win Either Half:** 1 **4.00**  ·  2 **1.12**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.62**
-- **Win Both Halves:** 1 **41.00**  ·  2 **2.38**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.30**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.38**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.75** · menos **2.05**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.57**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.25**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.25**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.75**  ·  Menos de 4.5 **2.05**
 
 ## Estadísticas de equipo
 | | Kloetinge (total) | Kloetinge en casa | Cambuur (total) | Cambuur fuera |

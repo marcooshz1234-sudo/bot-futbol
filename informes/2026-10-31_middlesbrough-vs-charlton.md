@@ -1,7 +1,7 @@
 # Middlesbrough – Charlton
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 07:52_

@@ -1,52 +1,52 @@
 # Manacor – Villarreal
 **Copa del Rey** · Round of 128 · 27/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **51.00**  ·  X **15.00**  ·  2 **1.03**
-- **Doble oportunidad:** 1X **15.00**  ·  12 **1.03**  ·  X2 **1.00**
-- **Ambos marcan:** Sí **4.50**  ·  No **1.18**
+- **1X2:** 1 **34.00**  ·  X **21.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **19.00**  ·  12 **1.01**  ·  X2 **1.00**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
-    - 1,5: más **1.07** · menos **9.00**
-    - 2,5: más **1.25** · menos **4.00**
-    - 3,5: más **1.62** · menos **2.20**
-    - 4,5: más **2.38** · menos **1.53**
-    - 5,5: más **4.00** · menos **1.22**
-    - 6,5: más **7.00** · menos **1.10**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.22** · menos **4.20**
+    - 3,5: más **1.57** · menos **2.25**
+    - 4,5: más **2.25** · menos **1.57**
+    - 5,5: más **3.75** · menos **1.25**
+    - 6,5: más **6.50** · menos **1.11**
     - 7,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
+    - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **4.50** · menos **1.18**
+    - 0,5: más **3.40** · menos **1.30**
 - **Goles del visitante:**
-    - 1,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.30** · menos **3.40**
     - 3,5: más **1.73** · menos **2.00**
     - 4,5: más **2.62** · menos **1.44**
-    - 5,5: más **4.50** · menos **1.18**
+    - 5,5: más **4.33** · menos **1.20**
     - 6,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 10,5: más **1.90** · menos **1.90**
-- **1X2 descanso:** 1 **41.00**  ·  X **4.75**  ·  2 **1.18**
+    - 10,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **34.00**  ·  X **4.75**  ·  2 **1.20**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
-    - 3,5: más **4.50** · menos **1.18**
-    - 4,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **13.00**  ·  No **1.04**
-- **Both Teams To Score - Second Half:** Sí **8.00**  ·  No **1.08**
-- **To Win Either Half:** 1 **21.00**  ·  2 **1.01**
-- **To Score In Both Halves By Teams:** 1 **51.00**  ·  2 **1.30**
-- **Win Both Halves:** 1 **101.00**  ·  2 **1.40**
-- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **4.75**  ·  Home/No **67.00**  ·  Draw/No **21.00**  ·  Away/No **1.22**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.75**  ·  o/no 2.5 **1.57**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **4.00**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
+- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
+- **To Win Either Half:** 1 **15.00**  ·  2 **1.02**
+- **To Score In Both Halves By Teams:** 1 **29.00**  ·  2 **1.30**
+- **Win Both Halves:** 1 **101.00**  ·  2 **1.44**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **21.00**  ·  Away/Yes **3.60**  ·  Home/No **101.00**  ·  Draw/No **26.00**  ·  Away/No **1.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **1.67**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.33**
 
 ## Estadísticas de equipo
 | | Manacor (total) | Manacor en casa | Villarreal (total) | Villarreal fuera |

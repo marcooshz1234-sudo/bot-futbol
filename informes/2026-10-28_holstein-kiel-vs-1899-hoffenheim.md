@@ -1,10 +1,10 @@
 # Holstein Kiel – 1899 Hoffenheim
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · Holstein-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:09_
+_Actualizadas: 27/10 07:50_
 
 - **1X2:** 1 **6.25**  ·  X **4.33**  ·  2 **1.48**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.20**  ·  X2 **1.12**
@@ -32,7 +32,7 @@ _Actualizadas: 27/10 01:09_
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **2.00**
+    - 10,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.75**  ·  2 **1.83**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
@@ -41,7 +41,7 @@ _Actualizadas: 27/10 01:09_
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.25**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.22**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **1.83**
 - **Win Both Halves:** 1 **21.00**  ·  2 **3.40**
 - **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.50**  ·  Home/No **15.00**  ·  Draw/No **23.00**  ·  Away/No **3.25**
@@ -50,7 +50,7 @@ _Actualizadas: 27/10 01:09_
     - 3,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.25**  ·  Menos de 5 **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.92**  ·  Menos de 5 **1.88**
 - **Anytime Goal Scorer:** Adam Daghim **2.88**  ·  David Zec **6.00**  ·  Vladimir Coufal **6.50**  ·  Fisnik Asllani **2.00**  ·  Kasper Davidsen **9.50**  ·  Adrian Kapralik **3.00**  ·  Koki Machida **8.00**  ·  Hiroki Sekine **11.00**  ·  Hamza Muqaj **8.00**  ·  Leon Parduzi **11.00**  ·  Cajetan Lenz **5.50**  ·  Frederik Roslyng **15.00**  ·  Gyan de Regt **4.75**  ·  Leon Avdullahu **5.50**  ·  Robin Hranac **6.50**  ·  Wouter Burger **3.25**  ·  Niko Takahashi **9.50**  ·  Faride Alidou **4.75**  ·  Nathan De Cat **4.33**  ·  Guillermo Balzi **5.50**  ·  Tim Lemperle **2.10**  ·  Mats Rots **6.00**  ·  Bambase Conte **2.50**  ·  Jonas Therkelsen **4.75**  ·  Jonas Meffert **9.50**  ·  Sebastian Schonlau **15.00**  ·  John Tolkin **11.00**  ·  Valentin Lassig **6.50**  ·  Ikem Ugoh **7.50**  ·  Albian Hajdari **6.50**  ·  Tayar Tasdelen **5.50**  ·  Moritz Reimers **6.00**  ·  Taisei Abe **9.50**  ·  Caspar Medlin **15.00**  ·  Noah Madsen **15.00**  ·  Mark Monserrat **5.50**  ·  Till Weise **8.00**  ·  Natnael Abraha **5.50**  ·  Adam Hlozek **2.00**  ·  Alexander Prass **3.25**  ·  Andrej Kramaric **1.80**  ·  Max Moerstedt **2.10**  ·  Valentin Gendrey **8.00**  ·  Phil Harres **2.88**  ·  Steven Skrzybski **3.00**  ·  Patrick Wimmer **2.50**  ·  Giorgi Kvilitaia **3.60**  ·  Ozan Kabak **3.60**  ·  Ivan Nekic **15.00**  ·  Bernardo Junior **6.50**
 
 ## Estadísticas de equipo

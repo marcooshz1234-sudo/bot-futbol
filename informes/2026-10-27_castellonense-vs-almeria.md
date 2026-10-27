@@ -1,10 +1,10 @@
 # Castellonense – Almeria
 **Copa del Rey** · Round of 128 · 27/10/2026 19:45 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:49_
 
 - **1X2:** 1 **5.00**  ·  X **4.75**  ·  2 **1.44**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.17**  ·  X2 **1.14**

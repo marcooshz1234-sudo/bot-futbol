@@ -231,7 +231,7 @@
   "dia": "2026-10-27",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 1.87,
+  "cuota": 1.92,
   "picks": [
    {
     "partido_id": 1550174,
@@ -244,22 +244,22 @@
     "opcion": "Draw/Away",
     "tipo": "resultado",
     "texto": "Lazio o empate",
-    "cuota": 1.3,
+    "cuota": 1.33,
     "frecuencia": 0.789,
-    "ventaja": 0.02,
+    "ventaja": 0.038,
     "detalle": "Sassuolo 7/10 · Lazio 8/9",
-    "valor_mercado": -0.037,
-    "movimiento": -0.044,
+    "valor_mercado": -0.015,
+    "movimiento": -0.022,
     "cuota_inicial": 1.36,
     "arbitro": "Luca Zufferli",
-    "arbitro_tarjetas": 2.7,
+    "arbitro_tarjetas": 2.0,
     "posiciones": [
      14,
      2,
      20
     ],
     "contexto": "mejor_abismo",
-    "prob_aprendida": 0.76
+    "prob_aprendida": 0.755
    },
    {
     "partido_id": 1550175,
@@ -276,7 +276,7 @@
     "frecuencia": 0.8,
     "ventaja": 0.106,
     "detalle": "Torino 8/10 · Como (en contra) 8/10",
-    "valor_mercado": 0.014,
+    "valor_mercado": 0.021,
     "movimiento": 0.029,
     "cuota_inicial": 1.4,
     "arbitro": "Guiseppe Collu",
@@ -289,7 +289,7 @@
      20
     ],
     "contexto": "peor_igualado",
-    "prob_aprendida": 0.678
+    "prob_aprendida": 0.697
    }
   ],
   "anterior": {

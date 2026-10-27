@@ -1,10 +1,10 @@
 # SV Elversberg – SV Darmstadt 98
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
 - **1X2:** 1 **1.42**  ·  X **4.75**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.75**
@@ -17,7 +17,7 @@ _Actualizadas: 27/10 01:08_
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
+    - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
@@ -32,23 +32,23 @@ _Actualizadas: 27/10 01:08_
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 10,5: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.50**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.62**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.22**  ·  2 **3.40**
+- **To Win Either Half:** 1 **1.22**  ·  2 **3.25**
 - **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **6.00**
 - **Win Both Halves:** 1 **3.25**  ·  2 **26.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **17.00**  ·  Away/No **15.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **17.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
-    - 6,5: más **1.83** · menos **1.83**
+    - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
-    - 3,5: más **1.83** · menos **1.83**
+    - 3,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 - **Anytime Goal Scorer:** Hiroki Akiyama **9.00**  ·  Felix Keidel **6.00**  ·  Yosuke Furukawa **9.00**  ·  Max Pfister **15.00**  ·  Nicholas Mickelson **7.00**  ·  Luca Schnellbacher **2.00**  ·  Luca Pfeiffer **2.00**  ·  Noel Futkeu **2.00**  ·  Lukas Petkov **2.30**  ·  Frederik Schmahl **3.75**  ·  Florian Le Joncour **7.00**  ·  Lukas Pinckert **7.00**  ·  Maximilian Rohr **7.00**  ·  Carlo Sickinger **8.00**  ·  Fynn Lakenmacher **4.00**  ·  Kai Klefisch **12.00**  ·  Matthias Bader **12.00**  ·  Matej Maglica **12.00**  ·  Aleksandar Vukotic **15.00**  ·  Amara Conde **3.75**  ·  Lasse Gunther **6.00**  ·  Maurice Krattenmacher **2.75**  ·  Jan Gyamerah **7.00**  ·  Florian Kleinhansl **15.00**  ·  Luca Sirch **8.00**  ·  Milan Smit **3.60**  ·  Lukasz Poreba **4.75**  ·  William Mikelbrencis **12.00**  ·  Meldin Dreskovic **19.00**  ·  Nicolas Verkooijen **6.50**  ·  Patric Pfeiffer **15.00**  ·  Raif Adam **2.75**  ·  Yannik Luhrs **15.00**  ·  Tom Zimmerschied **2.75**  ·  Lars Kehl **6.00**  ·  Milian Herbst **5.50**  ·  Manolo Merx **6.00**  ·  Francis-Ikechukwu Onyeka **2.75**  ·  Tom Steineck **12.00**  ·  Marco Richter **6.50**  ·  Noah Darvich **2.40**  ·  Noah Weisshaupt **4.00**  ·  Cole Campbell **2.75**  ·  Christopher Lannert **15.00**  ·  Ho-Jae Lee **4.00**  ·  Lance Duijvestijn **4.00**  ·  David Mokwa **2.00**  ·  Grayson Dettoni **15.00**  ·  Ibrahim El Kadiri **5.50**  ·  Raoul Petretta **15.00**
 

@@ -1,17 +1,17 @@
 # 1. FC Köln – Union Berlin
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
 - **1X2:** 1 **1.80**  ·  X **3.60**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
+    - 2,5: más **1.65** · menos **2.20**
     - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **9.00** · menos **1.07**
@@ -47,7 +47,7 @@ _Actualizadas: 27/10 01:08_
     - 5,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 - **Anytime Goal Scorer:** Kastriot Imeri **5.00**  ·  Isak Johannesson **4.00**  ·  Paul Okon-Engstler **4.33**  ·  Sebastian Sebulonsen **8.50**  ·  Luka Lochoshvili **8.50**  ·  Andras Schafer **7.50**  ·  Said El Mala **2.40**  ·  Reigan Heskey **3.75**  ·  Emmanuel Latte Lath **3.10**  ·  Rav van den Berg **13.00**  ·  Gideon Mensah **17.00**  ·  Marin Ljubicic **3.50**  ·  Zeno Van Den Bosch **13.00**  ·  Alessio Castro-Montes **5.50**  ·  Josip Juranovic **13.00**  ·  Woo-yeong Jeong **4.00**  ·  Jan Thielmann **4.00**  ·  Luca Waldschmidt **2.75**  ·  Linton Maina **4.33**  ·  Marius Bulter **2.75**  ·  Ragnar Ache **2.10**  ·  Derrick Kohn **13.00**  ·  Ohis Uduokhai **13.00**  ·  Livan Burcu **4.00**  ·  Linus Guther **4.33**  ·  Mekhi Gray **3.00**  ·  Jonathan Friemel **8.50**  ·  Jahmai Simpson-Pusey **8.50**  ·  Assad Kotya-Fofana **7.00**  ·  Mikey Moore **3.10**  ·  Ellyes Skhiri **7.00**  ·  Michel Aebischer **9.50**  ·  Thijs Dallinga **2.40**  ·  Borna Sosa **7.50**  ·  Tom Krauss **8.50**  ·  Oliver Burke **4.33**  ·  Aljoscha Kemlein **9.50**  ·  Christopher Trimmel **9.50**  ·  Janik Haberer **9.50**  ·  Leopold Querfeld **13.00**  ·  Rani Khedira **13.00**  ·  Robert Skov **6.00**  ·  Tim Skarke **4.33**  ·  Tom Rothe **9.50**  ·  Joel Schmied **8.50**  ·  Imad Rondic **2.75**
 
 ## Estadísticas de equipo
@@ -196,11 +196,11 @@ _Goles esperados: local 1,62 · visitante 1,14 · córners esperados 10,1._
 | Ambos marcan: No | 45% | 42% | 44% | 2.20 | -3% |
 | Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
 | Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.18 | -8% |
-| Goles más/menos: Más de 2.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles más/menos: Más de 2.5 | 52% | 57% | 55% | 1.65 | -10% |
 | Goles más/menos: Más de 3.5 | 30% | 38% | 34% | 2.50 | -16% |
 | Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +0% |
-| Goles más/menos: Menos de 2.5 | 48% | 42% | 45% | 2.25 | +1% |
+| Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | -0% |
 | Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |

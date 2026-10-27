@@ -1,20 +1,20 @@
 # Koninklijke HFC – GO Ahead Eagles
 **KNVB Beker** · Round of 64 · 27/10/2026 21:00 (hora España) · Sportpark Spanjaardslaan
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:08_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **10.00**  ·  X **5.75**  ·  2 **1.20**
+- **1X2:** 1 **9.50**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.12**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.36** · menos **3.10**
+    - 2,5: más **1.33** · menos **3.40**
     - 3,5: más **1.83** · menos **1.83**
-    - 4,5: más **3.00** · menos **1.36**
-    - 5,5: más **5.50** · menos **1.14**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.18** · menos **4.50**
@@ -26,13 +26,13 @@ _Actualizadas: 27/10 01:08_
     - 11,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **8.50**  ·  X **3.10**  ·  2 **1.57**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **To Win Either Half:** 1 **4.33**  ·  2 **1.12**
-- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.62**
 - **Win Both Halves:** 1 **41.00**  ·  2 **2.38**
 - **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.40**  ·  Home/No **21.00**  ·  Draw/No **23.00**  ·  Away/No **2.25**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.00**  ·  Menos de 5 **2.50**  ·  Más de 5.5 **2.05**  ·  Menos de 5.5 **1.75**

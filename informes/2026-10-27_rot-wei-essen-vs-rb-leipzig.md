@@ -1,10 +1,10 @@
 # Rot-Weiß Essen – RB Leipzig
 **DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · Stadion an der Hafenstrasse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:48_
 
 - **1X2:** 1 **11.00**  ·  X **8.00**  ·  2 **1.18**
 - **Doble oportunidad:** 1X **4.50**  ·  12 **1.08**  ·  X2 **1.05**
@@ -40,18 +40,18 @@ _Actualizadas: 27/10 01:07_
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **5.00**  ·  2 **1.10**
 - **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.57**
-- **Win Both Halves:** 1 **51.00**  ·  2 **2.20**
-- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.40**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.10**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.40**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
-    - 3,5: más **2.20** · menos **1.62**
+    - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
-    - 7,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.78**  ·  Menos de 5 **2.02**
+    - 7,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.10**  ·  Menos de 5 **2.38**
 
 ## Estadísticas de equipo
 | | Rot-Weiß Essen (total) | Rot-Weiß Essen en casa | RB Leipzig (total) | RB Leipzig fuera |

@@ -1,29 +1,29 @@
 # Excelsior '31 – ADO Den Haag
 **KNVB Beker** · Round of 64 · 27/10/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **11.00**  ·  X **6.25**  ·  2 **1.18**
+- **1X2:** 1 **12.00**  ·  X **7.00**  ·  2 **1.14**
 - **Doble oportunidad:** 1X **4.33**  ·  12 **1.11**  ·  X2 **1.04**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.33** · menos **3.40**
-    - 3,5: más **1.83** · menos **1.83**
-    - 4,5: más **2.75** · menos **1.40**
-    - 5,5: más **5.00** · menos **1.17**
-    - 6,5: más **10.00** · menos **1.06**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.28** · menos **3.60**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
+    - 5,5: más **4.33** · menos **1.20**
+    - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **9.50**  ·  X **3.10**  ·  2 **1.53**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **10.00**  ·  X **3.25**  ·  2 **1.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
     - 1,5: más **1.53** · menos **2.38**
@@ -33,7 +33,7 @@ _Actualizadas: 27/10 01:07_
 - **To Win Either Half:** 1 **5.00**  ·  2 **1.11**
 - **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.62**
 - **Win Both Halves:** 1 **51.00**  ·  2 **2.20**
-- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.40**  ·  Home/No **23.00**  ·  Draw/No **23.00**  ·  Away/No **2.10**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.30**  ·  Home/No **26.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
 
 ## Estadísticas de equipo

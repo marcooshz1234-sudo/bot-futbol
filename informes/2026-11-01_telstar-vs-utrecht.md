@@ -1,10 +1,10 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 02:06_
+_Actualizadas: 27/10 07:50_
 
 - **1X2:** 1 **2.75**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -12,8 +12,8 @@ _Actualizadas: 26/10 02:06_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.53** · menos **2.40**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
@@ -202,11 +202,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 38% | 35% | 37% | 2.62 | -3% |
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
 | Goles más/menos: Más de 2.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Goles más/menos: Más de 3.5 | 37% | 42% | 40% | 2.20 | -13% |
-| Goles más/menos: Más de 4.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Más de 3.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles más/menos: Más de 4.5 | 20% | 23% | 22% | 4.00 | -14% |
 | Goles más/menos: Menos de 2.5 | 41% | 39% | 40% | 2.40 | -4% |
-| Goles más/menos: Menos de 3.5 | 63% | 58% | 60% | 1.62 | -2% |
-| Goles más/menos: Menos de 4.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles más/menos: Menos de 3.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles más/menos: Menos de 4.5 | 80% | 77% | 78% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 42% | 40% | 2.20 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |

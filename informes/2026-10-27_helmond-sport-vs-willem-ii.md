@@ -1,46 +1,50 @@
 # Helmond Sport – Willem II
 **KNVB Beker** · Round of 64 · 27/10/2026 20:00 (hora España) · MySteel Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:07_
+_Actualizadas: 27/10 07:49_
 
-- **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **1.85**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.22**  ·  X2 **1.33**
+- **1X2:** 1 **3.50**  ·  X **3.75**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.48** · menos **2.60**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
-- **Goles del local:**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.25** · menos **1.57**
+    - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del visitante:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
-- **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.50**  ·  2 **2.40**
-- **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.50**  ·  2 **2.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **2.10**  ·  2 **1.50**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.50**
 - **Win Both Halves:** 1 **13.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.20**  ·  Home/No **8.00**  ·  Draw/No **21.00**  ·  Away/No **4.33**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.40**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.78** · menos **2.02**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.40**  ·  Home/No **8.00**  ·  Draw/No **17.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
 
 ## Estadísticas de equipo
 | | Helmond Sport (total) | Helmond Sport en casa | Willem II (total) | Willem II fuera |

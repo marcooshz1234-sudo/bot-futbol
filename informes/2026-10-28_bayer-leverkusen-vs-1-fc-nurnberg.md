@@ -1,10 +1,10 @@
 # Bayer Leverkusen – 1. FC Nürnberg
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 01:09_
+_Actualizadas: 27/10 07:50_
 
 - **1X2:** 1 **1.17**  ·  X **8.00**  ·  2 **12.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.08**  ·  X2 **5.00**
