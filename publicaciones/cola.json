@@ -673,5 +673,210 @@
       "threads": "17921144514240325",
       "instagram": "18082401299375961"
     }
+  },
+  {
+    "id": "2026-10-27-combi-tres-datos",
+    "fecha": "2026-10-27T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x3,02! 🍀\n\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇮🇹 Torino marca\n✅ 🇪🇸 Girona gana al descanso\n\n🎯 CUOTA 3,02 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1638561|Match Winner|Home",
+      "1550175|Total - Home|Over 0.5",
+      "1644352|First Half Winner|Away"
+    ],
+    "cuotas": [
+      1.4,
+      1.44,
+      1.5
+    ],
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-loca-datos",
+    "fecha": "2026-10-27T16:00",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x8,30! 🤪\n\n✅ 🇮🇹 Lazio o empate\n✅ 🇪🇸 Almeria gana alguna de las dos partes\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇪🇸 Cordoba gana alguna de las dos partes\n✅ 🇮🇹 Torino marca\n✅ 🇪🇸 Girona gana al descanso\n✅ 🇩🇪 Gol en la 1ª parte del 1. FC Köln–Union Berlin\n\n🎯 CUOTA 8,30 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1550174|Double Chance|Draw/Away",
+      "1644345|To Win Either Half|Away",
+      "1638561|Match Winner|Home",
+      "1644340|To Win Either Half|Away",
+      "1550175|Total - Home|Over 0.5",
+      "1644352|First Half Winner|Away",
+      "1638563|Goals Over/Under First Half|Over 0.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.25,
+      1.4,
+      1.3,
+      1.44,
+      1.5,
+      1.3
+    ],
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-sassuolo-lazio",
+    "fecha": "2026-10-27T17:40",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs LAZIO 🇮🇹\n\n🎯 LAZIO O EMPATE [x1.30]\n✅ SASSUOLO MARCA [x1.30]\n✅ LAZIO VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ LAZIO GANA ALGUNA DE LAS DOS PARTES [x1.57]\n✅ MÁS DE 24,5 TIROS [x1.80]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 7,16\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Sassuolo",
+      "visitante": "Lazio",
+      "id_l": 488,
+      "id_v": 487,
+      "logo_l": "https://media.api-sports.io/football/teams/488.png",
+      "logo_v": "https://media.api-sports.io/football/teams/487.png",
+      "fecha": "2026-10-27T18:30",
+      "liga": "Serie A"
+    },
+    "sel": [
+      "1550174|Double Chance|Draw/Away",
+      "1550174|Total - Home|Over 0.5",
+      "1550174|Away Team Total Cards|Over 1.5",
+      "1550174|To Win Either Half|Away",
+      "1550174|Total Shots|Over 24.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.3,
+      1.5,
+      1.57,
+      1.8
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-borussia-dortmund-werder-bremen",
+    "fecha": "2026-10-27T20:00",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BORUSSIA DORTMUND vs WERDER BREMEN 🇩🇪\n\n🎯 GANA EL BORUSSIA DORTMUND [x1.40]\n✅ BORUSSIA DORTMUND MARCA 2 O MÁS [x1.36]\n✅ WERDER BREMEN MARCA [x1.53]\n✅ MÁS DE 2,5 GOLES [x1.48]\n✅ BORUSSIA DORTMUND HACE MÁS DE 6,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,46\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Borussia Dortmund",
+      "visitante": "Werder Bremen",
+      "id_l": 165,
+      "id_v": 162,
+      "logo_l": "https://media.api-sports.io/football/teams/165.png",
+      "logo_v": "https://media.api-sports.io/football/teams/162.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "DFB-Pokal"
+    },
+    "sel": [
+      "1638561|Match Winner|Home",
+      "1638561|Total - Home|Over 1.5",
+      "1638561|Total - Away|Over 0.5",
+      "1638561|Goals Over/Under|Over 2.5",
+      "1638561|Home Corners Over/Under|Over 6.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.36,
+      1.53,
+      1.48,
+      1.73
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-torino-como",
+    "fecha": "2026-10-27T19:30",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 TORINO vs COMO 🇮🇹\n\n🎯 TORINO MARCA [x1.44]\n✅ MÁS DE 2,5 TARJETAS [x1.57]\n✅ MÁS DE 9,5 TIROS A PUERTA [x2.00]\n✅ TORINO HACE MÁS DE 3,5 CÓRNERS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 9,50\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Torino",
+      "visitante": "Como",
+      "id_l": 503,
+      "id_v": 895,
+      "logo_l": "https://media.api-sports.io/football/teams/503.png",
+      "logo_v": "https://media.api-sports.io/football/teams/895.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "Serie A"
+    },
+    "sel": [
+      "1550175|Total - Home|Over 0.5",
+      "1550175|Cards Over/Under|Over 2.5",
+      "1550175|Total ShotOnGoal|Over 9.5",
+      "1550175|Home Corners Over/Under|Over 3.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.57,
+      2.0,
+      2.1
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-as-roma-cagliari",
+    "fecha": "2026-10-27T18:30",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AS ROMA vs CAGLIARI 🇮🇹\n\n🎯 CAGLIARI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ AS ROMA MARCA 2 O MÁS [x1.44]\n✅ MÁS DE 26,5 TIROS [x1.73]\n✅ CAGLIARI MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 2-2 | 3-1\n💥 Cuota total aprox.: 7,04\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "AS Roma",
+      "visitante": "Cagliari",
+      "id_l": 497,
+      "id_v": 490,
+      "logo_l": "https://media.api-sports.io/football/teams/497.png",
+      "logo_v": "https://media.api-sports.io/football/teams/490.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "Serie A"
+    },
+    "sel": [
+      "1550168|Away Team Total Cards|Over 1.5",
+      "1550168|Total - Home|Over 1.5",
+      "1550168|Total Shots|Over 26.5",
+      "1550168|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.57,
+      1.44,
+      1.73,
+      1.8
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 02:16"
+  },
+  {
+    "id": "2026-10-27-combi-fc-k-ln-union-berlin",
+    "fecha": "2026-10-27T19:00",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 1. FC KÖLN vs UNION BERLIN 🇩🇪\n\n🎯 UNION BERLIN MARCA [x1.40]\n✅ UNION BERLIN O EMPATE [x1.95]\n✅ MÁS DE 2,5 GOLES [x1.62]\n✅ 1. FC KÖLN MARCA 2 O MÁS [x1.73]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 7,65\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "1. FC Köln",
+      "visitante": "Union Berlin",
+      "id_l": 192,
+      "id_v": 182,
+      "logo_l": "https://media.api-sports.io/football/teams/192.png",
+      "logo_v": "https://media.api-sports.io/football/teams/182.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "DFB-Pokal"
+    },
+    "sel": [
+      "1638563|Total - Away|Over 0.5",
+      "1638563|Double Chance|Draw/Away",
+      "1638563|Goals Over/Under|Over 2.5",
+      "1638563|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.95,
+      1.62,
+      1.73
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 02:16"
   }
 ]
