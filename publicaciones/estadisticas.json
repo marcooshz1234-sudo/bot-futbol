@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 14:47",
+ "actualizado": "2026-10-27 15:28",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -11,13 +11,13 @@
    ]
   },
   "threads": {
-   "seguidores": 962,
-   "hoy": 24,
+   "seguidores": 963,
+   "hoy": 25,
    "serie": [
     836,
     930,
     938,
-    962
+    963
    ]
   },
   "facebook": {
@@ -31,24 +31,24 @@
    ]
   },
   "telegram": {
-   "seguidores": 73,
-   "hoy": 4,
+   "seguidores": 74,
+   "hoy": 5,
    "serie": [
     75,
     72,
     71,
     69,
-    73
+    74
    ]
   }
  },
- "total": 1054,
- "total_hoy": 28,
+ "total": 1056,
+ "total_hoy": 30,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "16:00",
   "dia": "2026-10-27",
-  "titulo": "Combi serie a del martes x4,48"
+  "titulo": "Combilocas  la loca del martes x"
  },
  "ayer": {
   "aciertos": 6,
@@ -84,14 +84,19 @@
   },
   "2026-10-27": {
    "instagram": 19,
-   "threads": 962,
+   "threads": 963,
    "facebook": 0,
-   "telegram": 73
+   "telegram": 74
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 10,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -107,11 +112,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 7,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 9,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
