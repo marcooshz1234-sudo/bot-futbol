@@ -1,7 +1,7 @@
 # SG Sonnenhof Grossaspach – FC Augsburg
 **DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · WIRmachenDRUCK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 01:07_

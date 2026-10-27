@@ -1,7 +1,7 @@
 # Kloetinge – Cambuur
 **KNVB Beker** · Round of 64 · 27/10/2026 20:00 (hora España) · Sportpark Wesselopark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 01:07_

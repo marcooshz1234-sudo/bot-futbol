@@ -1,7 +1,7 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 27/10/2026 01:10 (hora España)._
+_Actualizado el 27/10/2026 01:54 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 

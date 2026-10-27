@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-27 01:10 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-27 01:54 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 27/10
 
@@ -13,6 +13,7 @@ _Generado el 2026-10-27 01:10 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 18:30 | Lazio o empate | resultado | 1.30 | 79% | Sassuolo 7/10 · Lazio 8/9 |
 | 20:45 | Torino marca | goles | 1.44 | 80% | Torino 8/10 · Como (en contra) 8/10 |
 | 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.30 | 80% | Torino 8/10 · Como 8/10 |
+| 18:00 | FC Augsburg marca 2 o más | goles | 1.30 | 88% | FC Augsburg 7/8 · rival de categoría inferior |
 
 ## Miércoles 28/10
 
@@ -53,6 +54,7 @@ _Generado el 2026-10-27 01:10 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 20:45 | Gol en la 1ª parte del Bournemouth–Aston Villa | goles | 1.30 | 85% | Bournemouth 9/10 · Aston Villa 8/10 |
 | 18:30 | Udinese marca | goles | 1.33 | 80% | Parma (en contra) 9/10 · Udinese 7/10 |
 | 18:30 | Gol en la 1ª parte del Parma–Udinese | goles | 1.44 | 75% | Parma 7/10 · Udinese 8/10 |
+| 20:45 | 1899 Hoffenheim marca 2 o más | goles | 1.33 | 80% | 1899 Hoffenheim 8/10 · rival de categoría inferior |
 | 20:45 | Genoa ve más de 1,5 tarjetas | tarjetas | 1.53 | 75% | Genoa 7/10 · Juventus (en contra) 8/10 |
 | 20:45 | Chris Richards comete 1+ faltas | jugador | 1.91 | 80% | Chris Richards 8/10 |
 | 20:45 | Más de 2,5 goles en Bournemouth–Aston Villa | goles | 1.70 | 80% | Bournemouth 8/10 · Aston Villa 8/10 |

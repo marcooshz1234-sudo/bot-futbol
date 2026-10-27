@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-27 01:10",
+ "generado": "2026-10-27 01:54",
  "estilos": {
   "escalera": {
    "nota": 0.8,
@@ -14,13 +14,13 @@
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 0.975,
+   "nota": 1.1,
    "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
+   "resultados": 1,
+   "verdes": 1
   },
   "combi-dia": {
-   "nota": 1.625,
+   "nota": 1.5,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1

@@ -1,7 +1,7 @@
 # QPR – Burnley
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

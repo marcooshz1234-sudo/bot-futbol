@@ -1,7 +1,7 @@
 # Ajax – AZ Alkmaar
 **Eredivisie** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_

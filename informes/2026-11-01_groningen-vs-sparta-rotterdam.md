@@ -1,7 +1,7 @@
 # Groningen – Sparta Rotterdam
 **Eredivisie** · Regular Season - 11 · 01/11/2026 16:45 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 01:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 02:06_

@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 27/10/2026 01:10 (hora España). Partidos guardados en la base de datos: 1505._
+_Actualizado el 27/10/2026 01:53 (hora España). Partidos guardados en la base de datos: 1505._
 
 
 ## Martes 27/10
@@ -70,7 +70,7 @@ _Actualizado el 27/10/2026 01:10 (hora España). Partidos guardados en la base d
 - 21:00 · KNVB Beker · [Excelsior Maassluis – Heerenveen](informes/2026-10-28_excelsior-maassluis-vs-heerenveen.md)
 
 ## Jueves 29/10
-- 18:30 · Serie A · [Frosinone – Lecce](informes/2026-10-29_frosinone-vs-lecce.md) · 1X2: 1.67 / 4.00 / 5.00
+- 18:30 · Serie A · [Frosinone – Lecce](informes/2026-10-29_frosinone-vs-lecce.md) · 1X2: 1.65 / 4.00 / 5.00
 - 18:45 · KNVB Beker · [Kozakken Boys – Utrecht](informes/2026-10-29_kozakken-boys-vs-utrecht.md)
 - 19:00 · Copa del Rey · [Atlético Baleares – Eldense](informes/2026-10-29_atletico-baleares-vs-eldense.md)
 - 19:00 · Copa del Rey · [Lebrijana – Getafe](informes/2026-10-29_lebrijana-vs-getafe.md)
@@ -79,7 +79,7 @@ _Actualizado el 27/10/2026 01:10 (hora España). Partidos guardados en la base d
 - 20:00 · Copa del Rey · [Guijuelo – Sporting Gijon](informes/2026-10-29_guijuelo-vs-sporting-gijon.md)
 - 20:00 · Copa del Rey · [Laredo – Burgos](informes/2026-10-29_laredo-vs-burgos.md)
 - 20:00 · Copa del Rey · [Varea – FC Andorra](informes/2026-10-29_varea-vs-fc-andorra.md)
-- 20:45 · Serie A · [Fiorentina – Atalanta](informes/2026-10-29_fiorentina-vs-atalanta.md) · 1X2: 2.25 / 3.40 / 3.20
+- 20:45 · Serie A · [Fiorentina – Atalanta](informes/2026-10-29_fiorentina-vs-atalanta.md) · 1X2: 2.20 / 3.40 / 3.30
 - 20:45 · Carabao Cup · [Everton – Newcastle](informes/2026-10-29_everton-vs-newcastle.md) · 1X2: 2.20 / 3.50 / 3.10
 - 21:00 · Copa del Rey · [Prat – Athletic Club](informes/2026-10-29_prat-vs-athletic-club.md)
 - 21:00 · Copa del Rey · [Auriense – Deportivo La Coruna](informes/2026-10-29_auriense-vs-deportivo-la-coruna.md)
