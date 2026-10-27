@@ -804,12 +804,14 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
         hist = {k: [p for p in v if p["fecha"] < antes_de] for k, v in hist.items()}
     h_loc = [(p, loc["id"]) for p in hist.get(loc["id"], [])[:ULTIMOS]]
     h_vis = [(p, vis["id"]) for p in hist.get(vis["id"], [])[:ULTIMOS]]
-    if len(h_loc) < MIN_PARTIDOS or len(h_vis) < MIN_PARTIDOS:
-        return []
     base = {"partido_id": partido["fixture"]["id"],
             "fecha": inicio.astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
             "competicion": COMPETICION.get(partido["league"]["id"], partido["league"]["name"]),
             "liga_id": partido["league"]["id"], "local": loc["name"], "visitante": vis["name"]}
+    if len(h_loc) < MIN_PARTIDOS or len(h_vis) < MIN_PARTIDOS:
+        if partido["league"]["id"] in COPAS and not antes_de:
+            return picks_copa(prox, hist, base, h_loc, h_vis, jugadores)
+        return []
     salida = []
     for mercado, opciones in (prox.get("cuotas") or {}).items():
         if mercado in JUG_MERCADOS or not mercado_fiable(mercado, opciones, h_loc, h_vis):
@@ -852,6 +854,57 @@ def picks_partido(prox, hist, ahora, cuota_max=CUOTA_MAX, frec_min=FREC_MIN, fre
     if jugadores and not antes_de:
         salida += picks_jugadores(prox, hist, base, cuota_max=max(cuota_max, JUG_CUOTA_MAX),
                                   frec_min=max(JUG_FREC_MIN, frec_min))
+    return salida
+
+
+# 27/10: copas contra equipos de categorías que no seguimos (Fleetwood–Arsenal, Manacor–Villarreal…):
+# solo hay datos de un equipo, así que solo se miran sus mercados (gana, gana o empata, marca, +1,5 suyos),
+# con su propia racha, más exigente, y solo si las casas también lo ven favorito.
+COPAS = {143, 48, 45, 137, 81, 66, 96, 90}
+COPA_FREC_MIN = 0.80
+COPA_CUOTA_GANAR_MAX = 1.80   # nuestro equipo tiene que ser favorito claro
+
+
+def picks_copa(prox, hist, base, h_loc, h_vis, jugadores=True):
+    loc_ok, vis_ok = len(h_loc) >= MIN_PARTIDOS, len(h_vis) >= MIN_PARTIDOS
+    if loc_ok == vis_ok:
+        return []
+    lado = "local" if loc_ok else "visitante"
+    eq, h = (base["local"], h_loc) if loc_ok else (base["visitante"], h_vis)
+    cuotas = prox.get("cuotas") or {}
+    ganar = {str(o): float(c) for o, c in cuotas.get("Match Winner") or [] if c}
+    if ganar.get("Home" if loc_ok else "Away", 99) > COPA_CUOTA_GANAR_MAX:
+        return []
+    suyos = {"Match Winner": ["Home" if loc_ok else "Away"],
+             "Double Chance": ["Home/Draw" if loc_ok else "Draw/Away"],
+             "Total - Home" if loc_ok else "Total - Away": ["Over 0.5", "Over 1.5", "Over 2.5"]}
+    muy_favorito = ganar.get("Home" if loc_ok else "Away", 99) <= 1.20   # contra un equipo de muy abajo
+    salida = []
+    for mercado, validas in suyos.items():
+        for opcion, cuota in cuotas.get(mercado) or []:
+            try:
+                cuota = float(cuota)
+            except (TypeError, ValueError):
+                continue
+            if opcion not in validas or cuota < CUOTA_MIN or cuota > CUOTA_MAX:
+                continue
+            f = evaluador(mercado, opcion, loc_ok)
+            if not f:
+                continue
+            a, na = frecuencia(f, h)
+            # 3+ goles suyos solo si es muy favorito: contra uno de muy abajo marca más que en su liga
+            minimo = 0.5 if opcion == "Over 2.5" else COPA_FREC_MIN
+            if opcion == "Over 2.5" and (not muy_favorito or cuota > 1.70):
+                continue
+            if na < MIN_PARTIDOS or a / na < minimo or (opcion != "Over 2.5" and a / na - 1 / cuota <= 0):
+                continue
+            salida.append(dict(base, mercado=mercado, opcion=opcion, tipo=tipo_de(mercado),
+                               texto=texto_pick(mercado, opcion, base["local"], base["visitante"]),
+                               cuota=cuota, frecuencia=round(a / na, 3), ventaja=round(a / na - 1 / cuota, 3),
+                               detalle=f"{eq} {a}/{na} · rival de categoría inferior", copa=True))
+    if jugadores:
+        salida += [dict(p, copa=True) for p in picks_jugadores(prox, hist, base, cuota_max=JUG_CUOTA_MAX)
+                   if p.get("equipo") == eq]
     return salida
 
 

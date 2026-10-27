@@ -59,6 +59,22 @@ def prob_ganar(loc, vis, liga, fecha, hist):
     return pl, pv
 
 
+def copa(pa, hist, ex):
+    """27/10: copa contra un equipo de categoría que no seguimos: gana el nuestro si en su liga gana al
+    menos la mitad de sus últimos 10 y las casas también lo ven muy favorito (≤ 1,35)."""
+    from picks import COPAS
+    if pa["league"]["id"] not in COPAS:
+        return None
+    loc, vis = pa["teams"]["home"]["id"], pa["teams"]["away"]["id"]
+    a, b = forma(loc, hist), forma(vis, hist)
+    ganar = {str(o): float(c) for o, c in (ex.get("cuotas") or {}).get("Match Winner") or [] if c}
+    for f, otro, lado, cuota in ((a, b, 0, ganar.get("Home")), (b, a, 1, ganar.get("Away"))):
+        if len(f) >= 5 and len(otro) < 5 and cuota and cuota <= 1.35:
+            p = max(f.count("G") / len(f), UMBRAL)
+            return (p, 0.0) if lado == 0 else (0.0, p)
+    return None
+
+
 def ganadores(dia, hist=None):
     """[(prob, equipo, liga, rival, hora)] de los que ganan según los datos, de más a menos seguro."""
     from picks import historial
@@ -73,6 +89,8 @@ def ganadores(dia, hist=None):
             continue
         loc, vis = pa["teams"]["home"], pa["teams"]["away"]
         pr = prob_ganar(loc["id"], vis["id"], pa["league"]["id"], pa["fixture"]["date"], hist)
+        if not pr:
+            pr = copa(pa, hist, leer(f) or {})
         if not pr:
             continue
         pl, pv = pr
