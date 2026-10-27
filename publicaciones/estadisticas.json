@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 22:59",
+ "actualizado": "2026-10-27 23:09",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -11,13 +11,13 @@
    ]
   },
   "threads": {
-   "seguidores": 979,
-   "hoy": 41,
+   "seguidores": 980,
+   "hoy": 42,
    "serie": [
     836,
     930,
     938,
-    979
+    980
    ]
   },
   "facebook": {
@@ -31,24 +31,24 @@
    ]
   },
   "telegram": {
-   "seguidores": 79,
-   "hoy": 10,
+   "seguidores": 80,
+   "hoy": 11,
    "serie": [
     75,
     72,
     71,
     69,
-    79
+    80
    ]
   }
  },
- "total": 1077,
- "total_hoy": 51,
+ "total": 1079,
+ "total_hoy": 53,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-10-27",
-  "titulo": "Combilocas  7 picks para mañana"
+  "hora": "01:00",
+  "dia": "2026-10-28",
+  "titulo": "Quién gana hoy · combilocas"
  },
  "ayer": {
   "aciertos": 6,
@@ -84,19 +84,19 @@
   },
   "2026-10-27": {
    "instagram": 19,
-   "threads": 979,
+   "threads": 980,
    "facebook": 0,
-   "telegram": 79
+   "telegram": 80
   }
  },
  "tipos_instagram": {
-  "Verdes/balance (reel)": {
-   "posts": 5,
+  "Combi loca (reel)": {
+   "posts": 14,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 13,
+  "Verdes/balance (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -151,11 +151,6 @@
    "comentarios_media": 0.0
   },
   "Cuota 3": {
-   "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca": {
    "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
