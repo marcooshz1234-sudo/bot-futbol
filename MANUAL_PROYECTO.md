@@ -163,7 +163,7 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 | Tipo | Telegram (canal) | Threads | Instagram | Facebook |
 |---|---|---|---|---|
 | Quién gana, x3, loca, escalera, 500 | Texto | Texto | **Reel** del texto convertido en imagen (no foto suelta en el feed) | En pausa |
-| Combi de partido | Texto | **Foto-tarjeta del partido + texto** | Reel + **historia** | En pausa |
+| Combi de partido | **Foto-tarjeta del partido + texto** (desde el 27/10) | **Foto-tarjeta del partido + texto** | Reel + **historia** | En pausa |
 | Picks para mañana | Texto | Texto | Reel + historia | En pausa |
 | Verde | Texto (boleto: foto recortada) | Texto (boleto: foto recortada) | Reel + historia (sin dinero salvo escalera, sin boleto) | En pausa |
 | Boleto de bet365 | **Foto recortada + texto** | **Foto recortada + texto** | **No va** | No |
@@ -172,7 +172,7 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
   línea en una tarjeta, la cuota destacada). Se sirve desde GitHub (raw) porque el repo es público:
   **si el repo deja de ser público, Instagram y las fotos de Threads dejan de funcionar.**
 - Threads: máximo 500 caracteres. Sin tope diario de posts. Sin etiqueta de tema (sección 4).
-- Telegram: texto (o foto con pie si el post tiene `foto`).
+- Telegram: texto; foto con pie si el post tiene `foto` o si es combi de partido (va con su foto-tarjeta).
 - Todo sale a la vez en todas las redes. Si una red falla, se reintenta hasta 45 min. Llega aviso al móvil si falla
   Telegram o Threads (los fallos de Instagram quedan apuntados en el post, `errores_redes`, pero no avisan).
 

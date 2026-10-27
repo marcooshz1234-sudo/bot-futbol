@@ -367,7 +367,7 @@ class Asistente:
             if not ultimos:
                 return self.enviar("No hay publicaciones recientes del bot para editar.")
             botones = [[(f"{p.get('enviado', '')[11:16]} {p['texto'].splitlines()[0][:30]}",
-                         f"editar|{p['mensaje_id']}|{1 if p.get('foto') else 0}")] for p in ultimos]
+                         f"editar|{p['mensaje_id']}|{1 if p.get('foto') or p.get('foto_tg') else 0}")] for p in ultimos]
             return self.enviar("¿Cuál quieres cambiar?", botones)
         if orden == "/borrar":
             recientes = borrables()

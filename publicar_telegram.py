@@ -119,7 +119,7 @@ def main(objetivo=None):
     def guardar_estado():
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         for p in auto:
-            estado = {k: p[k] for k in ("enviado", "mensaje_id", "caducada", "error") if k in p}
+            estado = {k: p[k] for k in ("enviado", "mensaje_id", "caducada", "error", "foto_tg") if k in p}
             if estado:
                 enviados[p["id"]] = estado
         ENVIADOS.write_text(json.dumps(enviados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -139,7 +139,7 @@ def main(objetivo=None):
         nuevo = p.get("editar_texto")
         if objetivo or not nuevo or not p.get("mensaje_id"):
             continue
-        metodo, campo = ("editMessageCaption", "caption") if p.get("foto") else ("editMessageText", "text")
+        metodo, campo = ("editMessageCaption", "caption") if p.get("foto") or p.get("foto_tg") else ("editMessageText", "text")
         try:
             api(token, metodo, {"chat_id": canal, "message_id": p["mensaje_id"], campo: preparar_texto(nuevo)})
             p["texto"], p["editado"] = nuevo, ahora.strftime("%Y-%m-%dT%H:%M")
@@ -171,6 +171,11 @@ def main(objetivo=None):
             continue
         texto = preparar_texto(control.get("textos", {}).get(p["id"], p["texto"]))
         foto = p.get("foto")
+        # 27/10 (Marcos): las combis de un partido también van con su foto (escudos y hora) en Telegram
+        tarjeta = RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg"
+        if not foto and p.get("tarjeta") and tarjeta.exists() and len(texto) <= LIMITE_PIE_FOTO:
+            foto = str(tarjeta.relative_to(RAIZ))
+            p["foto_tg"] = foto
         try:
             if foto:
                 if len(texto) > LIMITE_PIE_FOTO:
