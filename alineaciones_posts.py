@@ -94,11 +94,10 @@ def quitar_patas(p, indices, cuotas):
     if len(quedan) < 2:
         return "cancelar"
     sel = [p["sel"][k] for k in quedan]
-    total = 1.0
-    for s in sel:
-        if s not in cuotas:
-            return None
-        total *= cuotas[s]
+    if any(s not in cuotas for s in sel):
+        return None
+    import combis_dia   # 27/10: con el recorte de «Crear apuesta» si quedan patas del mismo partido
+    total = combis_dia.cuota_real_sel(sel, [cuotas[s] for s in sel])
     borrar = {patas[k] for k in indices}
     nuevas, n = [], 0
     for i, l in enumerate(lineas):
@@ -116,6 +115,7 @@ def quitar_patas(p, indices, cuotas):
     texto = re.sub(r"(🎯 Cuota total: )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
     texto = re.sub(r"(🎯 Cuota aprox\.: )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
     texto = re.sub(r"(🎯 CUOTA )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
+    texto = re.sub(r"(Cuota total aprox\.: )\d+,\d\d", lambda m: m.group(1) + num(total), texto)
     texto = re.sub(r"(💶 10€ → )\d+,\d\d€", lambda m: m.group(1) + num(total * 10) + "€", texto)
     r = {"texto": texto, "sel": sel}
     if p.get("cuotas") and len(p["cuotas"]) == len(patas):

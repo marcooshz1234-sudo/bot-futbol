@@ -47,7 +47,7 @@ jobs:
             paso publicar_telegram 180 publicar_telegram.py
             paso redes 420 redes.py
             if [ $(( $(date +%s) - ult_app )) -ge 180 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; paso avisos 120 avisos.py; fi
-            if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso revisor 180 revisor.py; paso threads_crecer 240 threads_crecer.py; paso threads_analisis 300 threads_analisis.py; paso comunidad 120 comunidad.py; fi
+            if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso revisor 180 revisor.py; paso threads_crecer 240 threads_crecer.py; paso threads_analisis 300 threads_analisis.py; paso comunidad 120 comunidad.py; paso imagenes 300 imagenes.py publicaciones/auto.json --pendientes; paso imagenes_cola 300 imagenes.py publicaciones/cola.json --pendientes; fi
             paso resumen_dia 120 resumen_dia.py
             tail -n 400 datos/bucle_log.txt > datos/bucle_log.tmp 2>/dev/null && mv datos/bucle_log.tmp datos/bucle_log.txt
             for ruta in publicaciones docs datos/bucle_log.txt datos/moderacion.json datos/avisos.json datos/en_directo.json datos/en_directo datos/fixtures_dia.json datos/cuotas_inicio.json datos/cuotas_frescas.json datos/revision_avisos.json datos/verdes_auto.json datos/threads_crecer.json datos/threads_vistas.json datos/threads_analisis.json datos/alineaciones_posts.json datos/comunidad.json datos/boletos.json datos/avisos_manuales.json; do if [ -e "$ruta" ]; then git add -A "$ruta"; fi; done

@@ -260,7 +260,7 @@ def main():
         from zoneinfo import ZoneInfo
         ahora = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%Y-%m-%dT%H:%M")
         huella = lambda p: hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
-        cola = [p for p in cola if p["fecha"] > ahora and not (
+        cola = [p for p in cola if p["fecha"] > ahora and not p.get("caducada") and not p.get("solo_en") and not (
             (MEDIA / f"{p['id']}.mp4").exists() and (MEDIA / f"{p['id']}.huella").exists()
             and (MEDIA / f"{p['id']}.story.jpg").exists()
             and (MEDIA / f"{p['id']}.huella").read_text() == huella(p))]

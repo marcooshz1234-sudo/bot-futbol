@@ -391,7 +391,7 @@ class Asistente:
             return self.enviar("❌ Cancelado, no se publicará.")
         if accion == "cambiar":
             self.esperando = ("cambiar", resto[0])
-            return self.enviar("✏️ Mándame el texto nuevo completo (el aviso de +18 lo pongo yo).")
+            return self.enviar("✏️ Mándame el texto nuevo completo.")
         if accion == "editar":
             self.esperando = ("editar", int(resto[0]), resto[1] == "1")
             return self.enviar("✏️ Mándame el texto nuevo para ese post del canal.")

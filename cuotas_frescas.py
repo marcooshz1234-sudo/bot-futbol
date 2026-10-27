@@ -84,6 +84,15 @@ def main():
         total = 1.0
         for c in legs:
             total *= c
+        # 27/10: combis de partido («[x1.40]» en cada pata) y patas del mismo partido: cuota real de «Crear apuesta»
+        if p.get("cuotas") and len(p["cuotas"]) == len(p["sel"]):
+            import combis_dia
+            total = combis_dia.cuota_real_sel(p["sel"], p["cuotas"]) or total
+            marcas = [i for i, l in enumerate(lineas) if re.search(r"\[x\d+\.\d\d\]$", l)]
+            if len(marcas) == len(p["sel"]):
+                for i, c in zip(marcas, p["cuotas"]):
+                    lineas[i] = re.sub(r"\[x\d+\.\d\d\]$", f"[x{c:.2f}]", lineas[i])
+            lineas = [re.sub(r"(Cuota total aprox\.: )\d+,\d\d", lambda m: m.group(1) + num(total), l) for l in lineas]
         # 26/10: el título también lleva la cuota ("x1,70") y se quedaba la vieja
         lineas[0] = re.sub(r"x\d+,\d\d", f"x{num(total)}", lineas[0], count=1)
         texto = "\n".join(lineas)
