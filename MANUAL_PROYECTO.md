@@ -197,10 +197,15 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
    ganado si el equipo se pone 2 goles arriba («2 goles de ventaja»). En jugadores, si lo cambian,
    cuenta lo que haga el que entra (Sustituto+).
 9 bis. **Todo se cierra a los 90 minutos (más el descuento). La prórroga y los penaltis NO cuentan** para ningún
-   mercado: ganador, «gana alguna de las dos partes», 2ª parte, goles, ambos marcan, «2 goles de ventaja»… (regla de
-   Marcos, 27/10). El bot usa el marcador del minuto 90 (`picks.a_90()`, `goles_90` en los datos del partido).
-   Ojo: las estadísticas (córners, tarjetas, tiros) y las de jugadores que da la API incluyen la prórroga y no se
-   pueden separar; en partidos de Copa que vayan a la prórroga, revisar esas patas a mano.
+   mercado: ganador, «gana alguna de las dos partes», goles, ambos marcan, «2 goles de ventaja», córners, tarjetas,
+   tiros, faltas, jugadores… (regla de Marcos, 27/10). Solo contaría la prórroga en un mercado de «se clasifica»
+   (el bot no lo usa). Cómo lo hace el bot (`picks.a_90()`):
+   - Goles y resultado: marcador del minuto 90 (`goles_90`, o los goles de los eventos hasta el 90).
+   - Estadísticas de equipo: 1ª + 2ª parte (`stats_partes`, de fixtures/statistics?half=true); tarjetas, de los
+     eventos hasta el 90 si no hay partes.
+   - Jugadores: goles, asistencias y tarjetas, de los eventos hasta el 90. Tiros, faltas y paradas no se pueden
+     separar: si el jugador jugó la prórroga y no llega ni contándola, roja; si llega, queda «sin datos» (revisar a mano).
+   - Si algo no se puede saber, la pata queda «sin datos»: nunca se da un verde dudoso.
 10. **No repetir la misma selección** en muchos posts (**máx. 2 posts por selección**, contando combis de partido, escalera, x3, loca y lista de picks;
     el bot lo aplica solo).
 11. Usar todo lo que tiene el bot: forma, xG, clasificación (contexto 1º vs 18º), árbitro, bajas,

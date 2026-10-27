@@ -10,7 +10,7 @@ import json
 import os
 from datetime import datetime, timedelta
 
-from bot import API, COMPETICIONES, DATOS, MADRID, RAIZ, leer, recortar_partido, extraer_corners_por_parte
+from bot import API, COMPETICIONES, DATOS, MADRID, RAIZ, leer, recortar_partido, extraer_corners_por_parte, extraer_stats_por_parte
 from publicados import picks_de_post
 
 CARPETA = DATOS / "en_directo"
@@ -100,6 +100,7 @@ def main():
             if p["estado"] in ("1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT", "FT", "AET", "PEN"):
                 mitades = api.get("fixtures/statistics", fixture=p["id"], half="true")
                 p["corners_partes"] = extraer_corners_por_parte(mitades)
+                p["stats_partes"] = extraer_stats_por_parte(mitades)
             (CARPETA / f"{p['id']}.json").write_text(json.dumps(p, ensure_ascii=False), encoding="utf-8")
             resumen[str(p["id"])] = {"estado": p["estado"], "minuto": r["fixture"]["status"].get("elapsed"),
                                      "goles": p.get("goles"), "visto": ahora.strftime("%Y-%m-%dT%H:%M"),

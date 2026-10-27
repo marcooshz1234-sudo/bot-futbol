@@ -255,8 +255,38 @@ def a_90(p):
                     g90 = hasta90
                     break
         if g90 is None:
-            return dict(p, goles=[None, None], eventos=en_90)   # no cuadra: mejor «sin datos» que un verde falso
-    return dict(p, goles=list(g90), goles_total=list(p["goles"]), eventos=en_90)
+            g90 = [None, None]   # no cuadra: mejor «sin datos» que un verde falso
+    stats, inciertos = stats_90(p, en_90)
+    return dict(p, goles=list(g90), goles_total=list(p["goles"]), eventos=en_90, stats=stats,
+                prorroga_inciertos=sorted(inciertos))
+
+
+TARJETA = {"amarillas": ("Yellow Card",), "rojas": ("Red Card", "Second Yellow card", "Second Yellow Card")}
+
+
+def stats_90(p, en_90):
+    """Estadísticas de equipo de los 90 minutos: 1ª + 2ª parte (stats_partes / corners_partes); las tarjetas,
+    si no hay partes, salen de los eventos hasta el 90. Lo que no se puede separar se queda con el total del
+    partido y se apunta como incierto (incluye la prórroga, así que solo sirve como tope)."""
+    sp, cp = p.get("stats_partes") or {}, p.get("corners_partes") or {}
+    salida, inciertos = {}, set()
+    for eq, st in (p.get("stats") or {}).items():
+        n = dict(st or {})
+        for campo in ("corners", "tiros", "a_puerta", "faltas", "fueras_juego", "paradas", "amarillas", "rojas"):
+            if n.get(campo) is None:
+                continue
+            h = (sp.get(eq) or {}).get(campo) or {}
+            if campo == "corners" and not h and cp.get(eq):
+                h = {"1h": cp[eq].get("statistics_1h"), "2h": cp[eq].get("statistics_2h")}
+            if h.get("1h") is not None and h.get("2h") is not None:
+                n[campo] = h["1h"] + h["2h"]
+            elif campo in TARJETA:
+                n[campo] = sum(1 for e in en_90 if e.get("tipo") == "Card" and str(e.get("equipo")) == str(eq)
+                               and e.get("detalle") in TARJETA[campo])
+            else:
+                inciertos.add(campo)
+        salida[eq] = n
+    return salida, inciertos
 
 
 def lidero_por_2(p, equipo):
@@ -762,6 +792,28 @@ def sustituto_de(partido, j):
     return None
 
 
+def jugador_a_90(partido, j, sustituto, campo, n, valor):
+    """Pata de jugador en un partido con prórroga: solo cuentan los 90 minutos. Goles, asistencias y tarjetas
+    salen de los eventos hasta el 90. Tiros, faltas o paradas no se pueden separar: si el jugador (o el que
+    entró por él) jugó la prórroga y aun contándola no llega, es roja; si llega, no se sabe (None: revisar a mano)."""
+    nombres = [x.get("nombre") for x in (j, sustituto) if x]
+    ev = [e for e in partido.get("eventos") or [] if (e.get("min") or 0) <= 90]
+    goles = [e for e in ev if e.get("tipo") == "Goal" and e.get("detalle") not in ("Own Goal", "Missed Penalty")]
+    de = lambda quien: any(mismo_jugador(quien, x) for x in nombres)
+    if campo == "goles":
+        return sum(1 for e in goles if de(e.get("jugador"))) >= n
+    if campo == "amarillas":
+        return sum(1 for e in ev if e.get("tipo") == "Card" and e.get("detalle") == "Yellow Card" and de(e.get("jugador"))) >= n
+    if campo == "gol_o_asist":
+        if not any("otro" in e for e in goles) and goles:
+            return None if valor >= n else False   # datos viejos sin asistencias en los eventos
+        return sum(1 for e in goles if de(e.get("jugador")) or de(e.get("otro"))) >= n
+    jugo_prorroga = any((x.get("min") or 0) > 90 for x in (j, sustituto) if x)
+    if not jugo_prorroga:
+        return valor >= n
+    return False if valor < n else None
+
+
 def evaluar_pick(pick, partido):
     """Evalúa una selección estructurada; None significa que faltan datos, no un fallo."""
     mercado = pick.get("mercado")
@@ -795,12 +847,24 @@ def evaluar_pick(pick, partido):
                 valor += sustituto[campo]
         if campo == "gol_o_asist":
             valor = None if j.get("goles") is None or j.get("asist") is None else j["goles"] + j["asist"]
+        if partido.get("estado") in PRORROGA and valor is not None:
+            return jugador_a_90(partido, j, sustituto_de(partido, j), campo, n, valor)
         return None if valor is None else valor >= n
     f = evaluador(mercado, pick.get("opcion"), True)
     partido = a_90(partido)   # 90 minutos: la prórroga no cuenta
     if not f or None in (partido.get("goles") or [None]):
         return None
-    return f(partido, partido["local"]["id"])
+    r = f(partido, partido["local"]["id"])
+    dudosos = set(partido.get("prorroga_inciertos") or [])
+    campo = (STATS_OU.get(mercado) or (None,))[0] or STATS_1X2.get(mercado)
+    if r is not None and campo in dudosos:
+        # con la prórroga dentro el valor es un tope: si con el tope y con 0 sale lo mismo, es seguro
+        if mercado in STATS_1X2:
+            return None
+        cero = dict(partido, stats={eq: dict(st, **{c: 0 for c in dudosos if st.get(c) is not None})
+                                    for eq, st in partido["stats"].items()})
+        return r if f(cero, partido["local"]["id"]) == r else None
+    return r
 
 
 def historial():

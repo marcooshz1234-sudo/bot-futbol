@@ -230,7 +230,8 @@ def recortar_partido(p):
             "tipo": e["type"],
             "detalle": e.get("detail"),
             "jugador": (e.get("player") or {}).get("name"),
-            **({"otro": (e.get("assist") or {}).get("name")} if e.get("type") == "subst" else {}),
+            # subst: el que entra/sale; Goal: el que asiste (para contar goles y asistencias solo de los 90 min)
+            **({"otro": (e.get("assist") or {}).get("name")} if e.get("type") in ("subst", "Goal") else {}),
         })
     for bloque in p.get("players") or []:
         lista = []
@@ -275,6 +276,25 @@ def extraer_corners_por_parte(resp):
     return salida
 
 
+def extraer_stats_por_parte(resp):
+    """Todas las estadísticas por parte (fixtures/statistics?half=true): {equipo: {campo: {"1h": n, "2h": n}}}.
+    1ª + 2ª parte = los 90 minutos (la prórroga no entra: las apuestas se cierran a los 90)."""
+    salida = {}
+    for bloque in resp or []:
+        eq = str((bloque.get("team") or {}).get("id"))
+        d = {}
+        for clave, valor in bloque.items():
+            parte = "1h" if clave.endswith("_1h") else "2h" if clave.endswith("_2h") else None
+            if not parte or not isinstance(valor, list):
+                continue
+            for s in valor:
+                campo = STATS_CLAVE.get((s or {}).get("type")) if isinstance(s, dict) else None
+                if campo and campo not in ("posesion", "xg"):
+                    d.setdefault(campo, {})[parte] = num(s.get("value"))
+        salida[eq] = d
+    return salida
+
+
 def recoger(api):
     PARTIDOS.mkdir(parents=True, exist_ok=True)
     EXTRA.mkdir(parents=True, exist_ok=True)
@@ -312,6 +332,7 @@ def recoger(api):
             # Córners por parte (1 petición por partido)
             mitades = api.get("fixtures/statistics", fixture=reg["id"], half="true")
             reg["corners_partes"] = extraer_corners_por_parte(mitades)
+            reg["stats_partes"] = extraer_stats_por_parte(mitades)
             if nuevos == 0:
                 print("  muestra de estadísticas por parte:",
                       json.dumps(mitades, ensure_ascii=False)[:600])
