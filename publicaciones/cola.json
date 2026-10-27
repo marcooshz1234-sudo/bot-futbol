@@ -1164,6 +1164,11 @@
     "directo": true,
     "facebook": "texto",
     "sin_instagram": true,
-    "nota": "28/10 00:11: subido a mano a petición de Marcos («sube la de hoy»)"
+    "nota": "28/10 00:11: subido a mano a petición de Marcos («sube la de hoy»)",
+    "enviado": "2026-10-28T00:11",
+    "mensaje_id": 144,
+    "redes": {
+      "threads": "18078383792743993"
+    }
   }
 ]
