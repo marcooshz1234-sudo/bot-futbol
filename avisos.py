@@ -78,6 +78,10 @@ def main():
             hecho.add(k)
         except Exception as e:
             print("boletos:", e)
+    # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
+    for x in leer(DATOS / "avisos_manuales.json", []) or []:
+        if x["k"] not in hecho:
+            avisos.append((x["k"], x["texto"]))
     if not ESTADO.exists():   # primera vez: no se avisa de lo viejo
         hecho |= {k for k, _ in avisos}
         avisos = []
