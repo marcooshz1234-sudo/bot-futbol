@@ -650,7 +650,7 @@
     "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BORUSSIA DORTMUND vs WERDER BREMEN 🇩🇪\n\n🎯 MÁS DE 2,5 GOLES [x1.48]\n✅ WERDER BREMEN MARCA [x1.53]\n\n🔥 Resultado probable: 2-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 2,26\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "bot",
-    "directo": true,
+    "directo": false,
     "tarjeta": {
       "local": "Borussia Dortmund",
       "visitante": "Werder Bremen",
@@ -665,7 +665,7 @@
       "1638561|Goals Over/Under|Over 2.5",
       "1638561|Total - Away|Over 0.5"
     ],
-    "nota": "aprobada por Marcos el 27/10 01:32",
+    "nota": "en espera para redes: se rehace con 6-7 picks (Marcos, 01:43)",
     "enviado": "2026-10-27T01:33",
     "mensaje_id": 123,
     "redes": {
