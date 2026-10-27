@@ -970,5 +970,36 @@
       "AC Milan – Bologna",
       "Parma – Udinese"
     ]
+  },
+  {
+    "id": "2026-10-27-combi-partido-1638566",
+    "fecha": "2026-10-27T16:08",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 HAMBURGER SV vs EINTRACHT FRANKFURT 🇩🇪\n\n🎯 EINTRACHT FRANKFURT O EMPATE [x1.33]\n✅ EINTRACHT FRANKFURT GANA ALGUNA DE LAS DOS PARTES [x1.53]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.83]\n✅ MÁS DE 1,5 GOLES EN LA 1ª PARTE [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 6,19\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Hamburger SV",
+      "visitante": "Eintracht Frankfurt",
+      "id_l": 175,
+      "id_v": 169,
+      "logo_l": "https://media.api-sports.io/football/teams/175.png",
+      "logo_v": "https://media.api-sports.io/football/teams/169.png",
+      "fecha": "2026-10-27T18:00",
+      "liga": "DFB-Pokal"
+    },
+    "sel": [
+      "1638566|Double Chance|Draw/Away",
+      "1638566|To Win Either Half|Away",
+      "1638566|Total Corners (1st Half)|Over 4",
+      "1638566|Goals Over/Under First Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.53,
+      1.83,
+      2.1
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 16:06"
   }
 ]
