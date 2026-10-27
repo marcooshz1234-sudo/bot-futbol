@@ -135,13 +135,13 @@ function vHoy(){
   const vivos = D.partidos.filter(esVivo);
   if(dia===D.hoy && vivos.length){ h += `<h2>🔴 En directo</h2>` + vivos.map(tarjetaPartido).join("") }
   // 27/10: las combis publicadas se quedan con su resultado cuando terminan (verde / roja / en juego)
-  const pubs = (D.publicados_hoy||[]).filter(p => p.fecha.slice(0,10)===dia && !/^\s*✅/.test(p.titulo)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
+  const pubs = (D.publicados_hoy||[]).filter(p => p.fecha.slice(0,10)===dia && !esRepostVerde(p)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
   if(pubs.length){
-    const v = pubs.filter(p=>p.estado==="verde").length, r = pubs.filter(p=>p.estado==="rojo").length;
-    h += `<h2>📣 Publicadas · ${v} ✅ ${r} ❌${pubs.length-v-r?` · ${pubs.length-v-r} en juego`:""}</h2>` + pubs.map(p => {
+    const cb = pubs.filter(p=>!p.lista), v = cb.filter(p=>p.estado==="verde").length, r = cb.filter(p=>p.estado==="rojo").length;
+    h += `<h2>📣 Publicadas · ${v} ✅ ${r} ❌${cb.length-v-r?` · ${cb.length-v-r} en juego`:""}</h2>` + pubs.map(p => {
       const okN = p.picks.filter(x=>x.estado==="verde").length;
-      return `<div class="card" style="${p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
-        <div class="row" style="margin-bottom:4px"><b class="sp">${esc(p.titulo)}</b><span class="mut">${p.fecha.slice(11)}</span>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
+      return `<div class="card" style="${p.lista?"":p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
+        <div class="row" style="margin-bottom:4px"><b class="sp">${esc(p.titulo)}${/COMBI LOCAS/.test(p.titulo)&&p.picks[0]&&p.picks[0].partido?`<br><span class="mut" style="font-weight:400">${esc(p.picks[0].partido)}</span>`:""}</b><span class="mut">${p.fecha.slice(11)}</span>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.lista?`<span class="chip">${okN}/${p.picks.length} ✅</span>`:p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
         ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
     }).join("");
   } else if(dia!==D.manana){ h += `<h2>📣 Publicadas</h2><div class="empty">${dia===ayer?"No hubo combis publicadas":"Aún no se ha publicado ninguna combi hoy"}</div>` }
@@ -276,6 +276,7 @@ function icono(p){
 }
 const ESTADOS_VIVOS = new Set(["1H","2H","HT","ET","P","BT","LIVE","INT"]);
 const ESTADOS_FINALES = new Set(["FT","AET","PEN"]);
+function esRepostVerde(p){ return /verde-auto/.test(p.id) || /¡VERDE/.test(p.titulo) }
 function esFinal(p){ return ESTADOS_FINALES.has(p.estado) }
 function esVivo(p){
   if(!ESTADOS_VIVOS.has(p.estado)) return false;
@@ -288,15 +289,18 @@ function vDirecto(modo="directo"){
     .sort((a,b)=>finalizados ? b.fecha.localeCompare(a.fecha) : a.fecha.localeCompare(b.fecha));
   const ids = new Set(partidos.map(p=>p.id));
   const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>ids.has(p.partido_id));
-  const pub = (D.publicados_hoy||[]).filter(p=>p.picks.some(x=>ids.has(x.partido_id)));
+  // 27/10: en directo salen TODAS las publicadas de hoy (primero las que tienen un partido en juego), no solo esas
+  const enJuego = p => p.picks.some(x=>ids.has(x.partido_id));
+  const pub = (D.publicados_hoy||[]).filter(p => !esRepostVerde(p) && (finalizados ? enJuego(p) : p.fecha.slice(0,10)===D.hoy || enJuego(p)))
+    .sort((a,b)=>(enJuego(b)-enJuego(a)) || a.fecha.localeCompare(b.fecha));
   let h = `<h2>${finalizados?"Partidos terminados":"🔴 Partidos en directo"}</h2>`;
-  if(!partidos.length) return h+`<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
+  if(!partidos.length) h += `<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
   if(pub.length){
     h += `<h2>📣 Combinadas publicadas</h2>` + pub.map(p => {
       const okN = p.picks.filter(x=>x.estado==="verde").length;
-      return `<div class="card" style="${p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
-        <div class="row"><b class="sp">${esc(p.titulo)}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
-        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span>${icono(x)}</div>`).join("")}</div>`;
+      return `<div class="card" style="${p.lista?"":p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
+        <div class="row"><b class="sp">${esc(p.titulo)}${/COMBI LOCAS/.test(p.titulo)&&p.picks[0]&&p.picks[0].partido?`<br><span class="mut" style="font-weight:400">${esc(p.picks[0].partido)}</span>`:""}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.lista?`<span class="chip">${okN}/${p.picks.length} ✅</span>`:p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
+        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
     }).join("");
   }
   const ok=pk.filter(p=>p.estado==="verde").length, ko=pk.filter(p=>p.estado==="rojo").length;
@@ -304,6 +308,8 @@ function vDirecto(modo="directo"){
   partidos.forEach(m=>{
     h += tarjetaPartido(m);
     const selecciones=pk.filter(p=>p.partido_id===m.id);
+    const nuestras = pub.flatMap(c=>c.picks.filter(x=>x.partido_id===m.id).map(x=>({...x, combi:c.titulo})));
+    if(nuestras.length) h+=`<div class="card"><b>📣 En nuestras publicaciones</b>${nuestras.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.combi)}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
     if(selecciones.length) h+=`<div class="card">${selecciones.map(p=>`<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
   });
   return h+`<div class="mut">✅ cumplido · ❌ fallado · ⏳ pendiente o sin datos. Última actualización: ${esc(D.generado)}.</div>`;

@@ -247,14 +247,14 @@
   },
   "2026-10-27": {
     "dia": "2026-10-27",
-    "total": 5,
+    "total": 9,
     "cuentas": {
       "verde": 0,
-      "rojo": 1,
-      "pendiente": 4,
+      "rojo": 2,
+      "pendiente": 7,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -286,8 +286,32 @@
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪",
         "estado": "pendiente",
         "cuota": 7.21
+      },
+      {
+        "id": "2026-10-27-combi-dortmund-werder",
+        "titulo": "✅ COMBI LOCAS | DFB-POKAL",
+        "estado": "pendiente",
+        "cuota": 2.26
+      },
+      {
+        "id": "2026-10-27-combi-torino-como",
+        "titulo": "✅ COMBI LOCAS | SERIE A",
+        "estado": "pendiente",
+        "cuota": 8.27
+      },
+      {
+        "id": "2026-10-27-combi-as-roma-cagliari",
+        "titulo": "✅ COMBI LOCAS | SERIE A",
+        "estado": "pendiente",
+        "cuota": 6.9
+      },
+      {
+        "id": "2026-10-27-combi-partido-1638566",
+        "titulo": "✅ COMBI LOCAS | DFB-POKAL",
+        "estado": "rojo",
+        "cuota": 6.19
       }
     ],
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 1 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86 · pendiente\n❌ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 2 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,92 🍀 · 1,92 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀 · 2,86 · pendiente\n❌ 🇮🇹 COMBI SERIE A DEL MARTES x4,48 · 4,48\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,21! 🤪 · 7,21 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 2,26 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 8,27 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 6,90 · pendiente\n❌ ✅ COMBI LOCAS | DFB-POKAL · 6,19\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 7 sin resolver"
   }
 }
