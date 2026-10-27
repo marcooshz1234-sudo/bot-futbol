@@ -83,6 +83,37 @@ def estado_seleccion(p, d, registro=None):
     return "va_bien" if bien else "va_mal"
 
 
+SUBEN = ("Over", "Yes")   # mercados que, una vez cumplidos, ya no se pueden perder
+
+
+def fila_sel(sel, cuota, directo):
+    """Estado de una selección guardada como 'partido|mercado|opción' (verde en cuanto se cumple si ya no
+    se puede perder; si no, al final del partido)."""
+    pid, mercado, opcion = sel.split("|", 2)
+    d = datos_partido(int(pid))
+    vivo = directo.get(str(pid)) or {}
+    nombres = (d or {}).get("local", {}).get("nombre", ""), (d or {}).get("visitante", {}).get("nombre", "")
+    try:
+        texto = texto_pick(mercado, opcion, *nombres) if all(nombres) else f"{mercado} {opcion}"
+    except Exception:
+        texto = f"{mercado} {opcion}"
+    estado = "pendiente"
+    if d and d.get("estado") not in (None, "NS", "TBD", "PST"):
+        r = evaluar_pick({"mercado": mercado, "opcion": opcion}, d)
+        fin = d.get("estado") in FT
+        sube = str(opcion).startswith(SUBEN) or " - " in str(opcion)
+        if fin:
+            estado = "verde" if r is True else "rojo" if r is False else "sin_datos"
+        elif r is True and sube:
+            estado = "verde"
+        else:
+            estado = "va_bien" if r is True else "va_mal" if r is False else "pendiente"
+    return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
+            "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo"), "progreso": None,
+            "actualizado_iso": fecha_iso(vivo.get("visto")), "marcador": (d or {}).get("goles"),
+            "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado")}
+
+
 def fecha_iso(iso):
     if not iso:
         return None
@@ -620,6 +651,15 @@ def main():
     desde36 = (ahora - timedelta(days=1)).strftime("%Y-%m-%dT00:00")   # 27/10: ayer entero (la app enseña Ayer/Hoy)
     for p in todos:
         if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
+            continue
+        if p.get("cuotas") and p.get("sel") and len(p["cuotas"]) == len(p["sel"]):
+            # 27/10: los posts nuevos del bot se corrigen con sus selecciones guardadas (partido|mercado|opción),
+            # no leyendo el texto (las combis de partido van en mayúsculas y con [x1.40])
+            filas = [fila_sel(s, c, directo) for s, c in zip(p["sel"], p["cuotas"])]
+            est = p.get("resultado") or ("verde" if filas and all(x["estado"] == "verde" for x in filas) else
+                   "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
+            publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
+                                   "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
             continue
         legs = picks_de_post(p, conocidos)
         if not any(l["partido_id"] for l in legs):

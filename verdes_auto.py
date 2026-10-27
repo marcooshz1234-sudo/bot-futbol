@@ -16,7 +16,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 COLA = RAIZ / "publicaciones" / "cola.json"
 ESTADO = DATOS / "verdes_auto.json"
 ES_COMBI = re.compile(r"COMBI|COMBINADA|ESCALERA|GANA O EMPATA|🆚", re.I)
-NO_ES = re.compile(r"^\s*(✅|📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE", re.U | re.I)
+NO_ES = re.compile(r"¡VERDE|^\s*(📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE|QUIÉN GANA", re.U | re.I)   # 27/10: «✅ COMBI LOCAS» sí
 
 
 def limpio(t):
@@ -35,6 +35,7 @@ def main():
     cola = leer(COLA, []) or []
     ids_cola = {p["id"] for p in cola}
     ahora = datetime.now(MADRID)
+    originales = {p["id"]: p for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or []) + cola}
     nuevos = []
     for p in d.get("publicados_hoy", []):
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
@@ -45,7 +46,12 @@ def main():
         if not legs or len(legs) != len(p.get("picks", [])):
             continue
         x = f" x{num(p['cuota'])}" if p.get("cuota") else ""   # 26/10: la cuota en la primera línea
-        texto = f"✅💚 ¡VERDE{x}! {limpio(p['titulo'])} 💚✅\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs)
+        titulo = limpio(p["titulo"])
+        if "COMBI LOCAS" in p["titulo"]:   # combi de partido: «COMBI LOCAS · SASSUOLO vs LAZIO»
+            orig = originales.get(p["id"], {}).get("texto", "").splitlines()
+            partido = re.sub(r"[^\w\s.'·-]", "", orig[1]).strip() if len(orig) > 1 else ""
+            titulo = f"COMBI LOCAS · {partido}" if partido else "COMBI LOCAS"
+        texto = f"✅💚 ¡VERDE{x}! {titulo} 💚✅\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs)
         if p.get("cuota"):
             texto += f"\n\n🎯 Cuota {num(p['cuota'])}\n💶 10€ → {num(p['cuota'] * 10)}€"
         texto += "\n\n¿Quién la llevaba? 👇💚"

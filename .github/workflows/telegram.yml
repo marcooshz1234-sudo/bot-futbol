@@ -46,7 +46,7 @@ jobs:
             if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; paso cuotas_frescas 240 cuotas_frescas.py; paso alineaciones_posts 240 alineaciones_posts.py; fi
             paso publicar_telegram 180 publicar_telegram.py
             paso redes 420 redes.py
-            if [ $(( $(date +%s) - ult_app )) -ge 360 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; fi
+            if [ $(( $(date +%s) - ult_app )) -ge 180 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; fi
             if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso avisos 180 avisos.py; paso revisor 180 revisor.py; paso threads_crecer 240 threads_crecer.py; paso comunidad 120 comunidad.py; fi
             paso resumen_dia 120 resumen_dia.py
             tail -n 400 datos/bucle_log.txt > datos/bucle_log.tmp 2>/dev/null && mv datos/bucle_log.tmp datos/bucle_log.txt
