@@ -1,0 +1,156 @@
+escuchar	Set up job	﻿2026-10-27T09:56:25.2192583Z Current runner version: '2.338.0'
+escuchar	Set up job	2026-10-27T09:56:25.2230851Z ##[group]Runner Image Provisioner
+escuchar	Set up job	2026-10-27T09:56:25.2232487Z Hosted Compute Agent
+escuchar	Set up job	2026-10-27T09:56:25.2233650Z Version: 20261021.618
+escuchar	Set up job	2026-10-27T09:56:25.2234983Z Commit: 21505ad2541d5be6135ed84fc33697146cf75b8e
+escuchar	Set up job	2026-10-27T09:56:25.2236546Z Build Date: 2026-10-21T00:45:21Z
+escuchar	Set up job	2026-10-27T09:56:25.2237885Z Worker ID: {d0fa14c8-2e7f-4d0d-87c0-17e73a8495fd}
+escuchar	Set up job	2026-10-27T09:56:25.2239742Z Region: northcentralus
+escuchar	Set up job	2026-10-27T09:56:25.2240888Z Cloud: Azure
+escuchar	Set up job	2026-10-27T09:56:25.2241925Z ##[endgroup]
+escuchar	Set up job	2026-10-27T09:56:25.2244529Z ##[group]Operating System
+escuchar	Set up job	2026-10-27T09:56:25.2245771Z Ubuntu
+escuchar	Set up job	2026-10-27T09:56:25.2246990Z 24.04.5
+escuchar	Set up job	2026-10-27T09:56:25.2248370Z LTS
+escuchar	Set up job	2026-10-27T09:56:25.2249980Z ##[endgroup]
+escuchar	Set up job	2026-10-27T09:56:25.2251149Z ##[group]Runner Image
+escuchar	Set up job	2026-10-27T09:56:25.2252438Z Image: ubuntu-24.04
+escuchar	Set up job	2026-10-27T09:56:25.2254100Z Version: 20261012.334.1
+escuchar	Set up job	2026-10-27T09:56:25.2256336Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20261012.334/images/ubuntu/Ubuntu2404-Readme.md
+escuchar	Set up job	2026-10-27T09:56:25.2259765Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20261012.334
+escuchar	Set up job	2026-10-27T09:56:25.2260926Z ##[endgroup]
+escuchar	Set up job	2026-10-27T09:56:25.2262207Z ##[group]GITHUB_TOKEN Permissions
+escuchar	Set up job	2026-10-27T09:56:25.2264596Z Contents: write
+escuchar	Set up job	2026-10-27T09:56:25.2265299Z Metadata: read
+escuchar	Set up job	2026-10-27T09:56:25.2266001Z ##[endgroup]
+escuchar	Set up job	2026-10-27T09:56:25.2268540Z Secret source: Actions
+escuchar	Set up job	2026-10-27T09:56:25.2269755Z Cache mode: write
+escuchar	Set up job	2026-10-27T09:56:25.2270859Z Prepare workflow directory
+escuchar	Set up job	2026-10-27T09:56:25.2615065Z Prepare all required actions
+escuchar	Set up job	2026-10-27T09:56:25.2665664Z Getting action download info
+escuchar	Set up job	2026-10-27T09:56:25.5185946Z Download action repository 'actions/checkout@v4' (SHA:11d5960a326750d5838078e36cf38b85af677262)
+escuchar	Set up job	2026-10-27T09:56:25.6736160Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+escuchar	Set up job	2026-10-27T09:56:25.9279500Z Complete job name: escuchar
+escuchar	Run actions/checkout@v4	﻿2026-10-27T09:56:26.0153495Z ##[group]Run actions/checkout@v4
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0154748Z with:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0155281Z   repository: marcooshz1234-sudo/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0159308Z   token: ***
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0159810Z   ssh-strict: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0160333Z   ssh-user: git
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0160849Z   persist-credentials: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0161387Z   clean: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0161883Z   sparse-checkout-cone-mode: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0162468Z   fetch-depth: 1
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0162952Z   fetch-tags: false
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0163439Z   show-progress: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0163931Z   lfs: false
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0164400Z   submodules: false
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0165162Z   set-safe-directory: true
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0165943Z   allow-unsafe-pr-checkout: false
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.0166875Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2946708Z Syncing repository: marcooshz1234-sudo/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2949832Z ##[group]Getting Git version info
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2951245Z Working directory is '/home/runner/work/bot-futbol/bot-futbol'
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.2953392Z [command]/usr/bin/git version
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3039363Z git version 2.55.0
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3065023Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3080816Z Temporarily overriding HOME='/home/runner/work/_temp/055dc15a-aaf8-4277-a3e8-6f19dbb2e3a1' before making global git config changes
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3082732Z Adding repository directory to the temporary git global config as a safe directory
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3089042Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3150439Z Deleting the contents of '/home/runner/work/bot-futbol/bot-futbol'
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3154659Z ##[group]Initializing the repository
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3160991Z [command]/usr/bin/git init /home/runner/work/bot-futbol/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3271468Z hint: Using 'master' as the name for the initial branch. This default branch name
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3273415Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3275548Z hint: to use in all of your new repositories, which will suppress this warning,
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3276927Z hint: call:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3277757Z hint:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3278891Z hint: 	git config --global init.defaultBranch <name>
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3279611Z hint:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3280373Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3281929Z hint: 'development'. The just-created branch can be renamed via this command:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3282770Z hint:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3283256Z hint: 	git branch -m <name>
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3283781Z hint:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3284478Z hint: Disable this message with "git config set advice.defaultBranchName false"
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3285572Z Initialized empty Git repository in /home/runner/work/bot-futbol/bot-futbol/.git/
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3300286Z [command]/usr/bin/git remote add origin https://github.com/marcooshz1234-sudo/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3344520Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3345480Z ##[group]Disabling automatic garbage collection
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3349577Z [command]/usr/bin/git config --local gc.auto 0
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3384068Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3392631Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3431026Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3831946Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.3873844Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4108942Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4151475Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4386870Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4431826Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4433443Z ##[group]Fetching the repository
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:26.4446853Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +2907ce6fb6c9bc310182986ebc004b74c983f930:refs/remotes/origin/main
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4617679Z From https://github.com/marcooshz1234-sudo/bot-futbol
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4621067Z  * [new ref]         2907ce6fb6c9bc310182986ebc004b74c983f930 -> origin/main
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4627007Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4629041Z ##[group]Determining the checkout info
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4630987Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4634456Z [command]/usr/bin/git sparse-checkout disable
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4690581Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4730190Z ##[group]Checking out the ref
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:29.4732427Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0774384Z Switched to a new branch 'main'
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0779944Z branch 'main' set up to track 'origin/main'.
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0805436Z ##[endgroup]
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0852387Z [command]/usr/bin/git log -1 --format=%H
+escuchar	Run actions/checkout@v4	2026-10-27T09:56:30.0879026Z 2907ce6fb6c9bc310182986ebc004b74c983f930
+escuchar	Run actions/setup-python@v5	﻿2026-10-27T09:56:30.1165536Z ##[group]Run actions/setup-python@v5
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166035Z with:
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166349Z   python-version: 3.12
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1166701Z   check-latest: false
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1169884Z   token: ***
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1170239Z   update-environment: true
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1170607Z   allow-prereleases: false
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1171174Z   freethreaded: false
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.1171522Z ##[endgroup]
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.2523313Z ##[group]Installed versions
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3195415Z (node:2296) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3196860Z (Use `node --trace-deprecation ...` to show where the warning was created)
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3197645Z Successfully set up CPython (3.12.15)
+escuchar	Run actions/setup-python@v5	2026-10-27T09:56:30.3198675Z ##[endgroup]
+escuchar	Escuchar al dueño del canal por Telegram	﻿2026-10-27T09:56:39.3312753Z ##[group]Run git config user.name "bot-futbol"
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3313189Z ^[[36;1mgit config user.name "bot-futbol"^[[0m
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3313607Z ^[[36;1mgit config user.email "bot-futbol@users.noreply.github.com"^[[0m
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3314007Z ^[[36;1mpython -u asistente.py^[[0m
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382103Z shell: /usr/bin/bash -e {0}
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382406Z env:
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3382698Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.15/x64
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383148Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib/pkgconfig
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383596Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3383993Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3384416Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.15/x64
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3384821Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.15/x64/lib
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3385368Z   TELEGRAM_TOKEN: ***
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3385616Z   TELEGRAM_CANAL: -1003953339107
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3386957Z   THREADS_TOKEN: ***
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3388500Z   INSTAGRAM_TOKEN: ***
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3389793Z   FACEBOOK_TOKEN: ***
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3390046Z   FACEBOOK_PAGINA: 
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T09:56:39.3390276Z ##[endgroup]
+escuchar	Escuchar al dueño del canal por Telegram	2026-10-27T12:05:27.8326316Z ##[error]The operation was canceled.
+escuchar	Post Run actions/checkout@v4	﻿2026-10-27T12:05:27.8471445Z Post job cleanup.
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9522799Z [command]/usr/bin/git version
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9523966Z git version 2.55.0
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9550784Z Temporarily overriding HOME='/home/runner/work/_temp/e6057724-eb85-499e-8d92-9f8624242a7b' before making global git config changes
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9552157Z Adding repository directory to the temporary git global config as a safe directory
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9557344Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/bot-futbol/bot-futbol
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9605884Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9650043Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9929415Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9973423Z http.https://github.com/.extraheader
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:27.9986552Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0039627Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0329263Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+escuchar	Post Run actions/checkout@v4	2026-10-27T12:05:28.0376813Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+escuchar	Complete job	﻿2026-10-27T12:05:28.0802028Z Cleaning up orphan processes
+escuchar	Complete job	2026-10-27T12:05:28.1014100Z Terminate orphan process: pid (2480) (python)
+escuchar	Complete job	2026-10-27T12:05:28.1132809Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
