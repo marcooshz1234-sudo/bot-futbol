@@ -1,8 +1,8 @@
 """
 Combis del día con el formato que pidió Marcos el 27/10 (las de ese martes son el modelo):
 
-1. COMBI DE CADA PARTIDO («✅ COMBI LOCAS | LIGA», con la foto del partido): una por partido, de 4 a 7
-   selecciones de ESE partido, cuota total entre 7 y 10, cada pata ≥ 1,25 y con ≥ 45 % de probabilidad.
+1. COMBI DE CADA PARTIDO («✅ COMBI LOCAS | LIGA», con la foto del partido): una por partido, de 4 a 6
+   selecciones (28/10: bet365 solo deja 6 mercados por partido en «Crear apuesta») de ESE partido, cuota total entre 7 y 10, cada pata ≥ 1,25 y con ≥ 45 % de probabilidad.
    Se elige la que más devuelve a la larga (probabilidad de que salga × cuota). Las patas de resultado
    van todas a favor del mismo equipo y tiene que existir algún marcador que las cumpla todas.
    Partidos: primero los de equipos grandes, luego los demás; entre 5 y 8 al día (los que haya).
@@ -20,7 +20,7 @@ from datetime import datetime, timedelta
 from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
-PARTIDO = {"patas": (4, 7), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
+PARTIDO = {"patas": (4, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
@@ -253,9 +253,21 @@ def pareja(a, b):
     return 1.0
 
 
+FACTOR_MAX = 1.6   # 28/10: patas que van en contra pagan más que multiplicar (Milan), pero con tope
+
+
 def factor_crear(comb):
-    f = math.prod(pareja(a, b) for a, b in itertools.combinations(comb, 2))
-    return max(FACTOR_MIN, f)
+    """28/10: las patas de goles y resultado se calculan con el modelo de goles (modelo_goles.py), que sabe si
+    van juntas (recorta) o en contra (paga más); el resto de parejas, con los factores medidos de pareja()."""
+    import modelo_goles
+    goles = [p for p in comb if modelo_goles.modelable(p)]
+    aj = modelo_goles.ajuste(goles) if len(goles) >= 2 else None
+    f = aj if aj else 1.0
+    for a, b in itertools.combinations(comb, 2):
+        if aj and a in goles and b in goles:
+            continue
+        f *= pareja(a, b)
+    return min(FACTOR_MAX, max(FACTOR_MIN, f))
 
 
 def cuota_real_sel(sel, cuotas):

@@ -213,7 +213,7 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 
 ### Combis de un partido («COMBI LOCAS») — fórmula de Marcos
 - Una por partido, **hasta 8 partidos al día** (Marcos pidió 5–8; si hay pocos partidos buenos salen menos), primero los de **equipos grandes** (dan más visitas).
-- **4–7 patas**, **cuota real 7–10**, cada pata ≥1,25. Que varíen en longitud y cuota (no todas en 4 patas y x7).
+- **4–6 patas** (bet365 solo deja 6 mercados por partido en «Crear apuesta», 28/10), **cuota real 7–10**, cada pata ≥1,25. Que varíen en longitud y cuota (no todas en 4 patas y x7).
 - Si entre los 3 mejores partidos no hay un equipo español (LaLiga, Segunda o Copa del Rey), entra el mejor
   partido español (bet365 suele dar aumentos/aseguradas con equipos españoles). El bot lo aplica solo.
 - Formato del texto:
@@ -246,6 +246,12 @@ estén. Medido en bet365 el 27/10:
 | Milan gana + Bologna marca + Bologna +2,5 córners + Milan +1,5 tarjetas + Ferguson 1+ faltas (28/10) | ~8,6 | 10,50 | >1 |
 
 **Entre partidos distintos bet365 multiplica tal cual** (comprobado: boleto x33,75 exacto).
+
+**Desde el 28/10, patas de goles y resultado: modelo de goles (`modelo_goles.py`).** Con el 1X2 y el más/menos
+de 2,5 de bet365 se estiman los goles esperados de cada equipo (Poisson; 1ª parte 45 %, 2ª 55 %) y se calcula la
+probabilidad de que pasen TODAS a la vez. Si van juntas (más de 2,5 + ambos marcan) paga menos que multiplicar; si
+van en contra (gana el Milan + Bologna marca) paga más. Comprobado: Milan–Bologna sale 10,43 y bet365 pagaba 10,50.
+Tope del ajuste: 0,45–1,6. El resto de patas (tarjetas, córners, tiros, jugadores) va por parejas:
 
 El bot lo calcula por parejas de patas (`combis_dia.py` → `pareja()`, `factor_crear()`, `cuota_real_sel()`):
 - mismo equipo, «gana/o empata» + «ese equipo marca»: 0,80
