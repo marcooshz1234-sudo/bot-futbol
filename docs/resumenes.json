@@ -244,5 +244,26 @@
       }
     ],
     "texto": "📊 BALANCE DEL LUNES: 3 DE 4 EN VERDE 📊\n\n✅ 📊 COMBI DE DATOS x1,70 · LUNES 📊 · 1,75\n✅ 🎯 LA COMBI DEL LUNES 🎯 · 1,84\n✅ ⚽ LUNES DE GOLES · x2,82 · 2,34\n❌ 🇫🇷 PSG 🆚 LYON · 8,00\n\n✅ 3 acertadas · ❌ 1 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-10-27": {
+    "dia": "2026-10-27",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-10-27-boleto-x33",
+        "titulo": "🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀",
+        "estado": "pendiente",
+        "cuota": 33.75
+      }
+    ],
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀 · 33,75 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
