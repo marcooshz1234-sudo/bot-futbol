@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 19:27",
+ "actualizado": "2026-10-27 19:35",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -11,13 +11,13 @@
    ]
   },
   "threads": {
-   "seguidores": 964,
-   "hoy": 26,
+   "seguidores": 965,
+   "hoy": 27,
    "serie": [
     836,
     930,
     938,
-    964
+    965
    ]
   },
   "facebook": {
@@ -42,13 +42,13 @@
    ]
   }
  },
- "total": 1059,
- "total_hoy": 33,
+ "total": 1060,
+ "total_hoy": 34,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:30",
+  "hora": "23:00",
   "dia": "2026-10-27",
-  "titulo": "Combi locas  serie a"
+  "titulo": "Combilocas  7 picks para mañana"
  },
  "ayer": {
   "aciertos": 6,
@@ -84,14 +84,14 @@
   },
   "2026-10-27": {
    "instagram": 19,
-   "threads": 964,
+   "threads": 965,
    "facebook": 0,
    "telegram": 76
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 10,
+   "posts": 11,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -141,7 +141,7 @@
    "comentarios_media": 0.0
   },
   "Picks (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
