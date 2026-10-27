@@ -80,6 +80,10 @@ def estado_seleccion(p, d, registro=None):
     # Un ganador provisional no es un acierto. Los mercados acumulativos sí pueden cumplirse antes del final.
     if bien and acumulativo:
         return "verde"
+    if bien and mercado == "Match Winner" and opcion in ("Home", "Away"):   # 27/10: 2 goles arriba = pagada
+        from picks import lidero_por_2
+        if lidero_por_2(d, (d.get("local") if opcion == "Home" else d.get("visitante") or {}).get("id")):
+            return "verde"
     return "va_bien" if bien else "va_mal"
 
 
@@ -110,8 +114,12 @@ def fila_sel(sel, cuota, directo, conocidos=None):
         sube = str(opcion).startswith(SUBEN) or " - " in str(opcion)
         if fin:
             estado = "verde" if r is True else "rojo" if r is False else "sin_datos"
-        elif r is True and sube:
-            estado = "verde"
+        elif r is True and (sube or (mercado == "Match Winner" and opcion in ("Home", "Away"))):
+            # 27/10: «gana X» con 2 goles de ventaja ya está pagada (evaluar_pick solo da True si ya es seguro
+            # o si va ganando; se comprueba la ventaja para no dar verde a un 1-0)
+            from picks import lidero_por_2
+            eq = (d.get("local") if opcion == "Home" else d.get("visitante")) or {}
+            estado = "verde" if sube or lidero_por_2(d, eq.get("id")) else "va_bien"
         else:
             estado = "va_bien" if r is True else "va_mal" if r is False else "pendiente"
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,

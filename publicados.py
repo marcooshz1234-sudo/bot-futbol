@@ -284,8 +284,8 @@ def evaluar(spec, d):
         otro = "visitante" if ld == "local" else "local"
         i, j = (0, 1) if ld == "local" else (1, 0)
     if t == "gana":
-        from picks import PAGO_ANTICIPADO, lidero_por_2
-        ya = d.get("liga") in PAGO_ANTICIPADO and lidero_por_2(d, d[ld]["id"])   # 2 goles arriba = pagada
+        from picks import lidero_por_2
+        ya = lidero_por_2(d, d[ld]["id"])   # 2 goles arriba = pagada (27/10: en todos los partidos)
         return final(ya, g[i] > g[j])
     if t == "doble":
         return final(False, g[i] >= g[j])

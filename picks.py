@@ -378,8 +378,7 @@ def evaluador(mercado, opcion, es_local):
                     return None
                 if r in ok:
                     return True
-                if p.get("liga") not in PAGO_ANTICIPADO:
-                    return False
+                # 27/10 (Marcos): la ventaja de 2 goles se da por ganada en TODOS los partidos, no solo en las 5 grandes
                 ganador = eq if ok == {"G"} else next((p[l]["id"] for l in ("local", "visitante") if p[l]["id"] != eq), None)
                 return lidero_por_2(p, ganador)
             return f
