@@ -41,7 +41,8 @@ def lista(picks):
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
 FORMATO_27 = True          # el formato del martes 27/10 (combis_dia.py)
 FORMATO_27_DESDE = "2026-10-28"   # poner "9999" para volver al de antes
-GANADORES_ACTIVO = True    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
+GANADORES_ACTIVO = True
+DATOS_ACTIVO = False       # posts de fútbol sin apuesta (datos_futbol.py): quitados por Marcos el 27/10    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
 
 
 def combi(titulo, picks, cuota):
@@ -396,13 +397,14 @@ def posts_del_dia(dia, d):
     # 26/10: posts de fútbol sin apuesta (rachas, xG, pichichis, previa del finde) → datos_futbol.py
     try:
         import datos_futbol
-        posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
+        if DATOS_ACTIVO:   # 27/10: Marcos quitó los posts que no son apuestas (rachas, pichichis, previas)
+            posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
         if GANADORES_ACTIVO:   # 27/10: «quién gana hoy» con nuestros datos (ganadores.py)
             import ganadores
             g = ganadores.post(dia)
             if g:
                 posts.append((g[0], g[1], [], g[2]))
-        if not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
+        if DATOS_ACTIVO and not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
             pv = datos_futbol.previa(dia)
             if pv:
                 posts.append((pv[0], pv[1], [], pv[2]))
