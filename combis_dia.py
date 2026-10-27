@@ -21,9 +21,11 @@ from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
 PARTIDO = {"patas": (4, 7), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
-# 27/10: en «Crear apuesta» bet365 paga menos que multiplicar (las patas del mismo partido van juntas).
-# Marcos lo comprobó: Monza–Napoli multiplicaba 7,72 y bet365 daba 4 y poco → ~0,55. Se afina con más casos.
-FACTOR_CREAR = 0.55
+# 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
+# Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
+# puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
+# asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53). Por eso ya no es un factor fijo: va por parejas.
+FACTOR_MIN = 0.45
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
 PROB_MIN_MULTI = 0.60
@@ -193,6 +195,45 @@ def variada(comb):
     return len(c) >= min(3, len(comb))
 
 
+def lado(p):
+    """A qué equipo favorece la pata ('local'/'visitante'/None), jugadores y tiros incluidos."""
+    import picks as P
+    m, o = p["mercado"], str(p["opcion"])
+    if m in ("ShotOnTarget 1x2", "Shots.1x2", "Corners 1x2") or m.endswith("1x2"):
+        return {"Home": "local", "Away": "visitante"}.get(o)
+    return P.lado_pick(p)
+
+
+def pareja(a, b):
+    """Cuánto recorta bet365 al juntar estas dos patas en «Crear apuesta» (1 = nada)."""
+    fa, fb = familia(a), familia(b)
+    la, lb = lado(a), lado(b)
+    if "tarjetas" in (fa, fb) or "fueras" in (fa, fb) or "faltas" in (str(a.get("campo")), str(b.get("campo"))):
+        return 1.0
+    if la and lb:
+        if la != lb:
+            return 1.0
+        if {fa, fb} == {"resultado", "goles"}:          # gana/o empata + ese equipo marca: van muy juntas
+            return 0.80
+        if fa == fb == "resultado":                      # o empate + gana alguna parte: casi lo mismo
+            return 0.85
+        return 0.97                                      # mismo equipo: córners, tiros, jugadores…
+    if fa == "goles" and fb == "goles":                  # más de 1,5 + ambos marcan, gol 1ª parte…
+        return 0.90
+    if {fa, fb} == {"goles", "resultado"}:
+        return 0.97
+    if "goles" in (fa, fb) or (fa == fb == "tiros") or {fa, fb} <= {"tiros", "jugador-tiros", "jugador-a_puerta"}:
+        return 0.99
+    if fa == fb == "corners":
+        return 0.95
+    return 1.0
+
+
+def factor_crear(comb):
+    f = math.prod(pareja(a, b) for a, b in itertools.combinations(comb, 2))
+    return max(FACTOR_MIN, f)
+
+
 def implica(a, b):
     """¿La pata a ya incluye a b? (si gana el Milan, ya ha ganado alguna parte: meter las dos es inflar la cuota)"""
     ma, oa, mb, ob = a["mercado"], str(a["opcion"]), b["mercado"], str(b["opcion"])
@@ -241,7 +282,7 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
         for comb in itertools.combinations(cand, n):
             c = math.prod(p["cuota"] for p in comb)
             if not una_por_partido:   # 27/10: «Crear apuesta» de bet365 no multiplica (patas del mismo partido)
-                c *= FACTOR_CREAR
+                c *= factor_crear(comb)
             if not cuota[0] <= c <= cuota[1]:
                 continue
             if una_por_partido and len({p["partido_id"] for p in comb}) < n:
