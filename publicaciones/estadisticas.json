@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 13:29",
+ "actualizado": "2026-10-27 13:40",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -46,9 +46,9 @@
  "total_hoy": 25,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "16:00",
   "dia": "2026-10-27",
-  "titulo": "Combilocas  combi del martes x2,"
+  "titulo": "Combilocas  la loca del martes x"
  },
  "ayer": {
   "aciertos": 6,
@@ -90,13 +90,13 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 2,
+  "Combi loca (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 5,
+  "Escalera (reel)": {
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -156,7 +156,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
