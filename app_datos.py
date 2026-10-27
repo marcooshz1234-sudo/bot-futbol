@@ -167,6 +167,30 @@ def formatos_redes(ahora):
 STATS_DESDE = "2026-10-26"
 
 
+def totales_publicado(resumenes):
+    """27/10: Stats como el Directo: combis publicadas y picks (selecciones) publicados, acertados y fallados."""
+    c = {"verde": 0, "rojo": 0, "pendiente": 0, "beneficio": 0.0}
+    p = {"verde": 0, "rojo": 0, "pendiente": 0}
+    for b in resumenes.values():
+        for x in b.get("combis", []):
+            e = x.get("estado")
+            if e in ("verde", "rojo"):
+                c[e] += 1
+                if x.get("cuota"):
+                    c["beneficio"] += (x["cuota"] - 1) if e == "verde" else -1
+            else:
+                c["pendiente"] += 1
+        q = b.get("picks") or {}
+        p["verde"] += q.get("verde", 0)
+        p["rojo"] += q.get("rojo", 0)
+        p["pendiente"] += q.get("total", 0) - q.get("verde", 0) - q.get("rojo", 0)
+    for d in (c, p):
+        n = d["verde"] + d["rojo"]
+        d["pct"] = round(100 * d["verde"] / n) if n else None
+    c["beneficio"] = round(c["beneficio"], 2)
+    return {"combis": c, "picks": p}
+
+
 def rentabilidad(resumenes):
     """27/10: cuántas sale de cada tipo de combi y lo que habría dado apostar 1 € a cada una."""
     tabla = {}
@@ -820,7 +844,8 @@ def main():
     resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
              "resumenes": {k: v for k, v in resumenes.items() if k >= STATS_DESDE},
-             "rentabilidad": rentabilidad({k: v for k, v in resumenes.items() if k >= STATS_DESDE}), "stats_desde": STATS_DESDE, "formatos_redes": formatos_redes(ahora),
+             "rentabilidad": rentabilidad({k: v for k, v in resumenes.items() if k >= STATS_DESDE}), "stats_desde": STATS_DESDE,
+             "publicado": totales_publicado({k: v for k, v in resumenes.items() if k >= STATS_DESDE}), "formatos_redes": formatos_redes(ahora),
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,

@@ -39,7 +39,18 @@ def balance(posts, dia):
         filas.append({'id': p['id'], 'titulo': p['titulo'], 'estado': estado, 'cuota': p.get('cuota')})
     cuentas = {e: sum(p['estado'] == e for p in filas) for e in ('verde', 'rojo', 'pendiente', 'sin_datos', 'no_jugo')}
     cuentas['sin_resolver'] = cuentas['pendiente'] + cuentas['sin_datos'] + cuentas['no_jugo']
-    resultado = {'dia': dia, 'total': len(filas), 'cuentas': cuentas, 'combis': filas}
+    # 27/10: también las selecciones publicadas (cada una una vez aunque vaya en varias combis o listas)
+    sel = {}
+    for p in posts:
+        t = p['titulo'].lstrip()
+        if (p['fecha'][:10] != dia or 'verde-auto' in p['id'] or (t.startswith('✅') and 'VERDE' in t.upper())
+                or 'picks-manana' in p['id'] or 'PARA MAÑANA' in t.upper()):
+            continue
+        for x in p.get('picks', []):
+            sel[f"{x.get('partido_id')}|{x.get('texto')}"] = x.get('estado')
+    picks = {'verde': sum(e == 'verde' for e in sel.values()), 'rojo': sum(e == 'rojo' for e in sel.values()),
+             'total': len(sel)}
+    resultado = {'dia': dia, 'total': len(filas), 'cuentas': cuentas, 'combis': filas, 'picks': picks}
     resultado['texto'] = texto_balance(resultado)
     return resultado
 
