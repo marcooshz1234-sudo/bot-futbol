@@ -225,6 +225,8 @@ def pareja(a, b):
         if "corners" in (fa, fb) and (fa.startswith("jugador") or fb.startswith("jugador")):
             return 0.93
         return 0.97                                      # mismo equipo: córners, tiros, jugadores…
+    if fa == "goles" and fb == "goles" and (la or lb):   # 27/10: +2,5 goles + Werder marca: 2,26 → ~1,80 en bet365
+        return 0.80
     if fa == "goles" and fb == "goles":                  # más de 1,5 + ambos marcan, gol 1ª parte…
         return 0.90
     if {fa, fb} == {"goles", "resultado"}:
