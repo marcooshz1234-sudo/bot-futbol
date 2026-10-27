@@ -169,6 +169,9 @@ def main(objetivo=None):
             cambios += 1
             print(f"Caducada (no se publica): {p['id']}")
             continue
+        if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
+            print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
+            continue
         texto = preparar_texto(control.get("textos", {}).get(p["id"], p["texto"]))
         foto = p.get("foto")
         # 27/10 (Marcos): las combis de un partido también van con su foto (escudos y hora) en Telegram

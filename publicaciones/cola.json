@@ -1170,5 +1170,129 @@
     "redes": {
       "threads": "18078383792743993"
     }
+  },
+  {
+    "id": "2026-10-28-combi-partido-1550176",
+    "fecha": "2026-10-28T00:32",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 VENEZIA vs INTER 🇮🇹\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.30]\n✅ GANA EL INTER [x1.36]\n✅ VENEZIA MARCA [x1.44]\n✅ MÁS DE 10,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 4,39\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1550176|Away Player Shots|Nicolo Barella - 1",
+      "1550176|Match Winner|Away",
+      "1550176|Total - Home|Over 0.5",
+      "1550176|Total ShotOnGoal|Over 10.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.36,
+      1.44,
+      1.91
+    ],
+    "tarjeta": {
+      "local": "Venezia",
+      "visitante": "Inter",
+      "id_l": 517,
+      "id_v": 505,
+      "logo_l": "https://media.api-sports.io/football/teams/517.png",
+      "logo_v": "https://media.api-sports.io/football/teams/505.png",
+      "fecha": "2026-10-28T18:30",
+      "liga": "Serie A"
+    },
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
+  },
+  {
+    "id": "2026-10-28-combi-partido-1640575",
+    "fecha": "2026-10-28T01:30",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 MANCHESTER CITY GANA ALGUNA DE LAS DOS PARTES [x1.33]\n✅ BRIGHTON MARCA [x1.36]\n✅ BRIGHTON VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,13\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1640575|To Win Either Half|Home",
+      "1640575|Total - Away|Over 0.5",
+      "1640575|Away Team Total Cards|Over 1.5",
+      "1640575|Total ShotOnGoal|Over 9.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.36,
+      1.5,
+      1.91
+    ],
+    "tarjeta": {
+      "local": "Manchester City",
+      "visitante": "Brighton",
+      "id_l": 50,
+      "id_v": 51,
+      "logo_l": "https://media.api-sports.io/football/teams/50.png",
+      "logo_v": "https://media.api-sports.io/football/teams/51.png",
+      "fecha": "2026-10-28T20:30",
+      "liga": "Carabao Cup"
+    },
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
+  },
+  {
+    "id": "2026-10-28-combi-partido-1638558",
+    "fecha": "2026-10-28T02:00",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BAYERN MÜNCHEN vs 1. FC MAGDEBURG 🇩🇪\n\n🎯 HARRY KANE MARCA [x1.28]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.33]\n✅ 1. FC MAGDEBURG HACE MÁS DE 1,5 CÓRNERS [x1.53]\n✅ BAYERN MÜNCHEN HACE MÁS DE 7,5 CÓRNERS [x1.73]\n\n💥 Cuota total aprox.: 3,90\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1638558|Anytime Goal Scorer|Harry Kane",
+      "1638558|Goals Over/Under - Second Half|Over 1.5",
+      "1638558|Away Corners Over/Under|Over 1.5",
+      "1638558|Home Corners Over/Under|Over 7.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.33,
+      1.53,
+      1.73
+    ],
+    "tarjeta": {
+      "local": "Bayern München",
+      "visitante": "1. FC Magdeburg",
+      "id_l": 157,
+      "id_v": 179,
+      "logo_l": "https://media.api-sports.io/football/teams/157.png",
+      "logo_v": "https://media.api-sports.io/football/teams/179.png",
+      "fecha": "2026-10-28T20:45",
+      "liga": "DFB-Pokal"
+    },
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
+  },
+  {
+    "id": "2026-10-28-combi-partido-1638557",
+    "fecha": "2026-10-28T02:30",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BAYER LEVERKUSEN vs 1. FC NÜRNBERG 🇩🇪\n\n🎯 MÁS DE 2,5 GOLES [x1.25]\n✅ PATRIK SCHICK MARCA [x1.40]\n✅ BAYER LEVERKUSEN GANA AL DESCANSO [x1.50]\n✅ BAYER LEVERKUSEN HACE MÁS DE 6,5 CÓRNERS [x1.73]\n\n💥 Cuota total aprox.: 3,66\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1638557|Goals Over/Under|Over 2.5",
+      "1638557|Anytime Goal Scorer|Patrik Schick",
+      "1638557|First Half Winner|Home",
+      "1638557|Home Corners Over/Under|Over 6.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.4,
+      1.5,
+      1.73
+    ],
+    "tarjeta": {
+      "local": "Bayer Leverkusen",
+      "visitante": "1. FC Nürnberg",
+      "id_l": 168,
+      "id_v": 171,
+      "logo_l": "https://media.api-sports.io/football/teams/168.png",
+      "logo_v": "https://media.api-sports.io/football/teams/171.png",
+      "fecha": "2026-10-28T20:45",
+      "liga": "DFB-Pokal"
+    },
+    "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat"
   }
 ]

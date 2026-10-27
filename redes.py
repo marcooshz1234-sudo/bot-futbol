@@ -252,6 +252,8 @@ def main(objetivo=None):
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
         if cuando > ahora or ahora - cuando > MAX_RETRASO + REEL_TRAS:
             continue
+        if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
+            continue   # 28/10 (Marcos): combi de partido SIEMPRE con su foto; se espera a que el bucle la haga
         hecho = p.setdefault("redes", {})
         errores = p.setdefault("errores_redes", {})
         tareas = []
