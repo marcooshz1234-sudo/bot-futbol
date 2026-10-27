@@ -17,6 +17,7 @@ Claves (GitHub → Settings → Secrets): THREADS_TOKEN, INSTAGRAM_TOKEN, FACEBO
 
 import json
 import hashlib
+import re
 import os
 import time
 from datetime import datetime, timedelta
@@ -69,10 +70,8 @@ def llamar(metodo, url, params):
 
 
 def texto_final(p):
-    t = p["texto"].replace("jugarbien.es", "").rstrip()
-    if PIE not in t:
-        t += "\n\n" + PIE
-    return t
+    t = p["texto"].replace("jugarbien.es", "")
+    return re.sub(r"\n*🔞 \+18 \| Jueg[ao] (?:con )?responsab\w*", "", t).rstrip()   # 27/10: sin +18
 
 
 _PAGINA = {}

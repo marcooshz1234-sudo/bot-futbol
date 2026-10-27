@@ -100,7 +100,7 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
             f'<div class="{"b" if c.startswith("💶") else ""}">{e(c)}</div>' for c in cuota) + "</div>")
     if dato:
         partes_html.append(f'<div class="dato{cls(2 + n)}">{e(dato)}</div>')
-    partes_html.append('<div class="pie"><span>@combilocas</span><span>🔞 +18 · Juega con responsabilidad</span></div>')
+    partes_html.append('<div class="pie"><span>@combilocas</span><span></span></div>')
     clase = ' class="v"' if vertical else ""
     return f"<html><head><meta charset='utf-8'><style>{css}</style></head><body{clase}>{''.join(partes_html)}</body></html>", total
 

@@ -15,6 +15,7 @@ Formato de cada publicación en la cola:
 """
 
 import json
+import re
 import os
 import sys
 import time
@@ -74,9 +75,9 @@ def api(token, metodo, datos=None, archivo=None):
 
 
 def preparar_texto(texto):
-    texto = texto.replace("jugarbien.es", "").replace("🔞 +18 | Juego responsable", PIE).rstrip()
-    if PIE not in texto:
-        texto += "\n\n" + PIE
+    # 27/10: sin el aviso de +18 (lo pidió Marcos)
+    texto = texto.replace("jugarbien.es", "")
+    texto = re.sub(r"\n*🔞 \+18 \| Jueg[ao] (?:con )?responsab\w*", "", texto).rstrip()
     return texto
 
 

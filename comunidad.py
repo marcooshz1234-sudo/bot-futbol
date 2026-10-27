@@ -31,7 +31,7 @@ AYUDA = ("🏆 CONCURSO COMBILOCAS · el pick de los seguidores\n\n"
          "/pick Gana el Barça\n"
          "/pick Mbappé 1+ tiro a puerta\n\n"
          "Lo corrijo yo solo cuando acaba el partido. El domingo por la noche publico el ranking de la "
-         "semana en el canal 🏅\n/ranking para ver cómo vas.\n\nSolo es un juego: no hace falta apostar. 🔞 +18")
+         "semana en el canal 🏅\n/ranking para ver cómo vas.\n\nSolo es un juego: no hace falta apostar.")
 
 
 def semana(fecha):
