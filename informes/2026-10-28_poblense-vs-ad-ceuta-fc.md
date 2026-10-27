@@ -1,10 +1,42 @@
 # Poblense – AD Ceuta FC
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:49_
+
+- **1X2:** 1 **4.33**  ·  X **4.20**  ·  2 **1.53**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.17**  ·  X2 **1.12**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.38**
+- **Win Both Halves:** 1 **21.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Poblense (total) | Poblense en casa | AD Ceuta FC (total) | AD Ceuta FC fuera |

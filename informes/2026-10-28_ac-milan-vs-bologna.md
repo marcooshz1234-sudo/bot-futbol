@@ -1,7 +1,7 @@
 # AC Milan – Bologna
 **Serie A** · Regular Season - 9 · 28/10/2026 18:30 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:51_

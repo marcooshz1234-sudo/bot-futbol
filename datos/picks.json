@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-27 13:53",
+ "generado": "2026-10-27 19:51",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,34 +9,6 @@
  "dias": {
   "2026-10-27": {
    "picks": [
-    {
-     "partido_id": 1550174,
-     "fecha": "2026-10-27T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Sassuolo",
-     "visitante": "Lazio",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Lazio o empate",
-     "cuota": 1.33,
-     "frecuencia": 0.789,
-     "ventaja": 0.038,
-     "detalle": "Sassuolo 7/10 · Lazio 8/9",
-     "valor_mercado": -0.015,
-     "movimiento": -0.022,
-     "cuota_inicial": 1.36,
-     "arbitro": "Luca Zufferli",
-     "arbitro_tarjetas": 2.0,
-     "posiciones": [
-      14,
-      2,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.755
-    },
     {
      "partido_id": 1550175,
      "fecha": "2026-10-27T20:45",
@@ -66,29 +38,6 @@
      ],
      "contexto": "peor_igualado",
      "prob_aprendida": 0.697
-    },
-    {
-     "partido_id": 1638565,
-     "fecha": "2026-10-27T18:00",
-     "competicion": "DFB-Pokal",
-     "liga_id": 81,
-     "local": "SG Sonnenhof Grossaspach",
-     "visitante": "FC Augsburg",
-     "mercado": "Total - Away",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "FC Augsburg marca 2 o más",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "FC Augsburg 7/8 · rival de categoría inferior",
-     "copa": true,
-     "valor_mercado": 0.016,
-     "movimiento": -0.015,
-     "cuota_inicial": 1.3,
-     "arbitro": "Patrick Schwengers",
-     "arbitro_tarjetas": null,
-     "prob_aprendida": 0.673
     },
     {
      "partido_id": 1550175,
@@ -119,34 +68,6 @@
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1550174,
-     "fecha": "2026-10-27T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Sassuolo",
-     "visitante": "Lazio",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Lazio o empate",
-     "cuota": 1.33,
-     "frecuencia": 0.789,
-     "ventaja": 0.038,
-     "detalle": "Sassuolo 7/10 · Lazio 8/9",
-     "valor_mercado": -0.015,
-     "movimiento": -0.022,
-     "cuota_inicial": 1.36,
-     "arbitro": "Luca Zufferli",
-     "arbitro_tarjetas": 2.0,
-     "posiciones": [
-      14,
-      2,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.755
-    },
-    {
      "partido_id": 1550175,
      "fecha": "2026-10-27T20:45",
      "competicion": "Serie A",
@@ -175,183 +96,15 @@
      ],
      "contexto": "peor_igualado",
      "prob_aprendida": 0.697
-    },
-    {
-     "partido_id": 1638565,
-     "fecha": "2026-10-27T18:00",
-     "competicion": "DFB-Pokal",
-     "liga_id": 81,
-     "local": "SG Sonnenhof Grossaspach",
-     "visitante": "FC Augsburg",
-     "mercado": "Total - Away",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "FC Augsburg marca 2 o más",
-     "cuota": 1.28,
-     "frecuencia": 0.875,
-     "ventaja": 0.094,
-     "detalle": "FC Augsburg 7/8 · rival de categoría inferior",
-     "copa": true,
-     "valor_mercado": 0.016,
-     "movimiento": -0.015,
-     "cuota_inicial": 1.3,
-     "arbitro": "Patrick Schwengers",
-     "arbitro_tarjetas": null,
-     "prob_aprendida": 0.673
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1550174,
-       "fecha": "2026-10-27T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Sassuolo",
-       "visitante": "Lazio",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Lazio o empate",
-       "cuota": 1.33,
-       "frecuencia": 0.789,
-       "ventaja": 0.038,
-       "detalle": "Sassuolo 7/10 · Lazio 8/9",
-       "valor_mercado": -0.015,
-       "movimiento": -0.022,
-       "cuota_inicial": 1.36,
-       "arbitro": "Luca Zufferli",
-       "arbitro_tarjetas": 2.0,
-       "posiciones": [
-        14,
-        2,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.755
-      },
-      {
-       "partido_id": 1638565,
-       "fecha": "2026-10-27T18:00",
-       "competicion": "DFB-Pokal",
-       "liga_id": 81,
-       "local": "SG Sonnenhof Grossaspach",
-       "visitante": "FC Augsburg",
-       "mercado": "Total - Away",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "FC Augsburg marca 2 o más",
-       "cuota": 1.28,
-       "frecuencia": 0.875,
-       "ventaja": 0.094,
-       "detalle": "FC Augsburg 7/8 · rival de categoría inferior",
-       "copa": true,
-       "valor_mercado": 0.016,
-       "movimiento": -0.015,
-       "cuota_inicial": 1.3,
-       "arbitro": "Patrick Schwengers",
-       "arbitro_tarjetas": null,
-       "prob_aprendida": 0.673
-      }
-     ],
-     "cuota": 1.7
-    },
+    "segura": null,
     "cuota_3": null,
     "loca": null,
     "doble": null
    },
-   "estilos": {
-    "liga": {
-     "picks": [
-      {
-       "partido_id": 1550168,
-       "fecha": "2026-10-27T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "AS Roma",
-       "visitante": "Cagliari",
-       "mercado": "Cards Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "tarjetas",
-       "texto": "Más de 2,5 tarjetas en AS Roma–Cagliari",
-       "cuota": 1.8,
-       "frecuencia": 0.737,
-       "ventaja": 0.181,
-       "detalle": "AS Roma 7/10 · Cagliari 7/9",
-       "valor_mercado": 0.161,
-       "arbitro": "Ermanno Feliciani",
-       "arbitro_tarjetas": 2.5,
-       "posiciones": [
-        3,
-        9,
-        20
-       ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.622
-      },
-      {
-       "partido_id": 1550175,
-       "fecha": "2026-10-27T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Torino",
-       "visitante": "Como",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Torino marca",
-       "cuota": 1.44,
-       "frecuencia": 0.8,
-       "ventaja": 0.106,
-       "detalle": "Torino 8/10 · Como (en contra) 8/10",
-       "valor_mercado": 0.021,
-       "movimiento": 0.029,
-       "cuota_inicial": 1.4,
-       "arbitro": "Guiseppe Collu",
-       "arbitro_tarjetas": null,
-       "prob_xg": 0.721,
-       "xg_esperado": 3.01,
-       "posiciones": [
-        8,
-        5,
-        20
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.697
-      },
-      {
-       "partido_id": 1550174,
-       "fecha": "2026-10-27T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Sassuolo",
-       "visitante": "Lazio",
-       "mercado": "Corners Over Under",
-       "opcion": "Over 8.5",
-       "tipo": "corners",
-       "texto": "Más de 8,5 córners en Sassuolo–Lazio",
-       "cuota": 1.73,
-       "frecuencia": 0.737,
-       "ventaja": 0.159,
-       "detalle": "Sassuolo 7/10 · Lazio 7/9",
-       "valor_mercado": 0.03,
-       "arbitro": "Luca Zufferli",
-       "arbitro_tarjetas": 2.0,
-       "posiciones": [
-        14,
-        2,
-        20
-       ],
-       "contexto": "total_abismo",
-       "prob_aprendida": 0.546
-      }
-     ],
-     "cuota": 4.48,
-     "titulo": "🇮🇹 COMBI SERIE A",
-     "liga": "Serie A"
-    }
-   },
+   "estilos": {},
    "combis_partido": []
   },
   "2026-10-28": {
@@ -1005,6 +758,28 @@
      "prob_aprendida": 0.596
     },
     {
+     "partido_id": 1641985,
+     "fecha": "2026-10-28T18:45",
+     "competicion": "KNVB Beker",
+     "liga_id": 90,
+     "local": "Sparta Rotterdam",
+     "visitante": "Fortuna Sittard",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Sparta Rotterdam–Fortuna Sittard",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Sparta Rotterdam 8/10 · Fortuna Sittard 7/10",
+     "valor_mercado": 0.059,
+     "arbitro": "S. van der Eijk",
+     "arbitro_tarjetas": 1.0,
+     "prob_xg": 0.614,
+     "xg_esperado": 3.21,
+     "prob_aprendida": 0.522
+    },
+    {
      "partido_id": 1640383,
      "fecha": "2026-10-28T20:45",
      "competicion": "Carabao Cup",
@@ -1327,6 +1102,28 @@
      "arbitro": "Bastian Dankert",
      "arbitro_tarjetas": 4.0,
      "prob_aprendida": 0.638
+    },
+    {
+     "partido_id": 1641985,
+     "fecha": "2026-10-28T18:45",
+     "competicion": "KNVB Beker",
+     "liga_id": 90,
+     "local": "Sparta Rotterdam",
+     "visitante": "Fortuna Sittard",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Sparta Rotterdam–Fortuna Sittard",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Sparta Rotterdam 8/10 · Fortuna Sittard 7/10",
+     "valor_mercado": 0.059,
+     "arbitro": "S. van der Eijk",
+     "arbitro_tarjetas": 1.0,
+     "prob_xg": 0.614,
+     "xg_esperado": 3.21,
+     "prob_aprendida": 0.522
     }
    ],
    "combis": {
@@ -5427,6 +5224,30 @@
      "prob_aprendida": 0.751
     },
     {
+     "partido_id": 1569995,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "AD Ceuta FC",
+     "visitante": "Sporting Gijon",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "AD Ceuta FC 8/10 · Sporting Gijon 7/10",
+     "valor_mercado": 0.023,
+     "posiciones": [
+      21,
+      8,
+      22
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.726
+    },
+    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -5506,6 +5327,30 @@
      "prob_aprendida": 0.678
     },
     {
+     "partido_id": 1575534,
+     "fecha": "2026-11-01T19:00",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Maritimo",
+     "visitante": "Santa Clara",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Maritimo–Santa Clara",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Maritimo 8/10 · Santa Clara 7/10",
+     "valor_mercado": 0.027,
+     "posiciones": [
+      14,
+      4,
+      18
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.673
+    },
+    {
      "partido_id": 1570440,
      "fecha": "2026-11-01T16:15",
      "competicion": "LaLiga",
@@ -5560,6 +5405,32 @@
      ],
      "contexto": "mejor_abismo",
      "prob_aprendida": 0.696
+    },
+    {
+     "partido_id": 1575534,
+     "fecha": "2026-11-01T19:00",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Maritimo",
+     "visitante": "Santa Clara",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Santa Clara marca",
+     "cuota": 1.33,
+     "frecuencia": 0.9,
+     "ventaja": 0.148,
+     "detalle": "Maritimo (en contra) 9/10 · Santa Clara 9/10",
+     "valor_mercado": 0.008,
+     "prob_xg": 0.761,
+     "xg_esperado": 2.18,
+     "posiciones": [
+      14,
+      4,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.711
     },
     {
      "partido_id": 1550181,
@@ -6027,30 +5898,6 @@
      "prob_aprendida": 0.481
     },
     {
-     "partido_id": 1569995,
-     "fecha": "2026-11-01T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Sporting Gijon",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Sporting Gijon",
-     "cuota": 2.15,
-     "frecuencia": 0.65,
-     "ventaja": 0.185,
-     "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
-     "valor_mercado": -0.16,
-     "posiciones": [
-      21,
-      8,
-      22
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.444
-    },
-    {
      "partido_id": 1552808,
      "fecha": "2026-11-01T15:00",
      "competicion": "Ligue 1",
@@ -6201,6 +6048,30 @@
      "prob_aprendida": 0.75
     },
     {
+     "partido_id": 1569995,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "AD Ceuta FC",
+     "visitante": "Sporting Gijon",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "AD Ceuta FC 8/10 · Sporting Gijon 7/10",
+     "valor_mercado": 0.023,
+     "posiciones": [
+      21,
+      8,
+      22
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.726
+    },
+    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -6278,6 +6149,30 @@
      ],
      "contexto": "total_abismo",
      "prob_aprendida": 0.678
+    },
+    {
+     "partido_id": 1575534,
+     "fecha": "2026-11-01T19:00",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Maritimo",
+     "visitante": "Santa Clara",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Maritimo–Santa Clara",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Maritimo 8/10 · Santa Clara 7/10",
+     "valor_mercado": 0.027,
+     "posiciones": [
+      14,
+      4,
+      18
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.673
     },
     {
      "partido_id": 1550181,
@@ -6434,30 +6329,6 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.651
-    },
-    {
-     "partido_id": 1569995,
-     "fecha": "2026-11-01T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Sporting Gijon",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Sporting Gijon",
-     "cuota": 2.15,
-     "frecuencia": 0.65,
-     "ventaja": 0.185,
-     "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
-     "valor_mercado": -0.16,
-     "posiciones": [
-      21,
-      8,
-      22
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.444
     }
    ],
    "combis": {
@@ -6517,135 +6388,7 @@
      "cuota": 1.75
     },
     "cuota_3": null,
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1575528,
-       "fecha": "2026-11-01T16:30",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Arouca",
-       "visitante": "Nacional",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Arouca gana alguna de las dos partes",
-       "cuota": 1.44,
-       "frecuencia": 0.75,
-       "ventaja": 0.056,
-       "detalle": "Arouca 8/10 · Nacional 7/10",
-       "valor_mercado": -0.007,
-       "posiciones": [
-        5,
-        15,
-        18
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.775
-      },
-      {
-       "partido_id": 1569993,
-       "fecha": "2026-11-01T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Burgos",
-       "visitante": "Castellón",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Burgos–Castellón",
-       "cuota": 1.4,
-       "frecuencia": 0.8,
-       "ventaja": 0.086,
-       "detalle": "Burgos 8/10 · Castellón 8/10",
-       "valor_mercado": 0.045,
-       "posiciones": [
-        6,
-        1,
-        22
-       ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.745
-      },
-      {
-       "partido_id": 1569997,
-       "fecha": "2026-11-01T14:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Eldense",
-       "visitante": "Granada CF",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Granada CF marca",
-       "cuota": 1.36,
-       "frecuencia": 0.85,
-       "ventaja": 0.115,
-       "detalle": "Eldense (en contra) 8/10 · Granada CF 9/10",
-       "valor_mercado": 0.023,
-       "prob_xg": 0.763,
-       "xg_esperado": 2.72,
-       "posiciones": [
-        13,
-        5,
-        22
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.75
-      },
-      {
-       "partido_id": 1550184,
-       "fecha": "2026-11-01T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lecce",
-       "visitante": "Genoa",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Lecce–Genoa",
-       "cuota": 1.44,
-       "frecuencia": 0.789,
-       "ventaja": 0.095,
-       "detalle": "Lecce 8/9 · Genoa 7/10",
-       "valor_mercado": 0.0,
-       "prob_xg": 0.763,
-       "xg_esperado": 2.76,
-       "posiciones": [
-        12,
-        16,
-        20
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.722
-      },
-      {
-       "partido_id": 1569995,
-       "fecha": "2026-11-01T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "AD Ceuta FC",
-       "visitante": "Sporting Gijon",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Sporting Gijon",
-       "cuota": 2.15,
-       "frecuencia": 0.65,
-       "ventaja": 0.185,
-       "detalle": "AD Ceuta FC 7/10 · Sporting Gijon 6/10",
-       "valor_mercado": -0.16,
-       "posiciones": [
-        21,
-        8,
-        22
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.444
-      }
-     ],
-     "cuota": 8.49
-    },
+    "loca": null,
     "doble": {
      "picks": [
       {
@@ -6697,6 +6440,30 @@
        ],
        "contexto": "mejor_igualado",
        "prob_aprendida": 0.79
+      },
+      {
+       "partido_id": 1569995,
+       "fecha": "2026-11-01T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "AD Ceuta FC",
+       "visitante": "Sporting Gijon",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 1.44,
+       "frecuencia": 0.75,
+       "ventaja": 0.056,
+       "tipo": "resultado",
+       "texto": "Sporting Gijon o empate",
+       "detalle": "AD Ceuta FC 9/10 · Sporting Gijon 6/10",
+       "valor_mercado": -0.007,
+       "posiciones": [
+        21,
+        8,
+        22
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.766
       },
       {
        "partido_id": 1552214,
@@ -6773,12 +6540,62 @@
        "prob_aprendida": 0.475
       }
      ],
-     "cuota": 9.7
+     "cuota": 13.97
     }
    },
    "estilos": {
     "tema": {
      "picks": [
+      {
+       "partido_id": 1569993,
+       "fecha": "2026-11-01T18:30",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Burgos",
+       "visitante": "Castellón",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del Burgos–Castellón",
+       "cuota": 1.4,
+       "frecuencia": 0.8,
+       "ventaja": 0.086,
+       "detalle": "Burgos 8/10 · Castellón 8/10",
+       "valor_mercado": 0.045,
+       "posiciones": [
+        6,
+        1,
+        22
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.745
+      },
+      {
+       "partido_id": 1569997,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Eldense",
+       "visitante": "Granada CF",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Granada CF marca",
+       "cuota": 1.36,
+       "frecuencia": 0.85,
+       "ventaja": 0.115,
+       "detalle": "Eldense (en contra) 8/10 · Granada CF 9/10",
+       "valor_mercado": 0.023,
+       "prob_xg": 0.763,
+       "xg_esperado": 2.72,
+       "posiciones": [
+        13,
+        5,
+        22
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.75
+      },
       {
        "partido_id": 1570438,
        "fecha": "2026-11-01T14:00",
@@ -6802,61 +6619,9 @@
        ],
        "contexto": "total_abismo",
        "prob_aprendida": 0.751
-      },
-      {
-       "partido_id": 1552215,
-       "fecha": "2026-11-01T16:45",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Groningen",
-       "visitante": "Sparta Rotterdam",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Sparta Rotterdam marca",
-       "cuota": 1.28,
-       "frecuencia": 0.85,
-       "ventaja": 0.069,
-       "detalle": "Groningen (en contra) 9/10 · Sparta Rotterdam 8/10",
-       "valor_mercado": -0.008,
-       "movimiento": -0.059,
-       "cuota_inicial": 1.36,
-       "prob_xg": 0.863,
-       "xg_esperado": 3.64,
-       "posiciones": [
-        8,
-        14,
-        18
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.732
-      },
-      {
-       "partido_id": 1552214,
-       "fecha": "2026-11-01T14:30",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Telstar",
-       "visitante": "Utrecht",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Utrecht o empate",
-       "cuota": 1.4,
-       "frecuencia": 0.75,
-       "ventaja": 0.036,
-       "detalle": "Telstar 9/10 · Utrecht 6/10",
-       "valor_mercado": -0.028,
-       "posiciones": [
-        16,
-        11,
-        18
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.734
       }
      ],
-     "cuota": 2.44,
+     "cuota": 2.59,
      "titulo": "🛡️ DOMINGO DE SEGUROS",
      "tema": "seguros"
     },

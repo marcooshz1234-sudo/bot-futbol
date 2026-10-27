@@ -152,7 +152,7 @@
   {
     "id": "2026-10-28-ganadores",
     "fecha": "2026-10-28T01:00",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Inter — Gana\n✅2. 🇩🇪 Bayer Leverkusen — Gana\n✅3. 🇩🇪 Bayern München — Gana\n✅4. 🇮🇹 AC Milan — Gana o empata\n✅5. 🇮🇹 Juventus — Gana o empata\n✅6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana o empata\n✅7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fulham — Gana o empata\n✅8. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City — Gana o empata\n✅9. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Inter — Gana\n✅2. 🇪🇸 Eibar — Gana\n✅3. 🇩🇪 Bayer Leverkusen — Gana\n✅4. 🇪🇸 Valladolid — Gana\n✅5. 🇳🇱 PEC Zwolle — Gana\n✅6. 🇪🇸 Levante — Gana\n✅7. 🇳🇱 Heerenveen — Gana\n✅8. 🇩🇪 Bayern München — Gana\n✅9. 🇪🇸 Alaves — Gana\n✅10. 🇮🇹 AC Milan — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -716,7 +716,7 @@
   {
     "id": "2026-11-01-picks-manana",
     "fecha": "2026-10-31T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n✅ 🇵🇹 Arouca gana alguna de las dos partes\n✅ 🇪🇸 Gol en la 1ª parte del Burgos–Castellón\n✅ 🇪🇸 Granada CF marca\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n✅ 🇳🇱 Sparta Rotterdam marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Más de 1,5 goles en Athletic Club–Real Sociedad\n✅ 🇵🇹 Arouca gana alguna de las dos partes\n✅ 🇪🇸 Gol en la 1ª parte del Burgos–Castellón\n✅ 🇪🇸 Granada CF marca\n✅ 🇪🇸 Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -726,8 +726,8 @@
       "1575528|To Win Either Half|Home",
       "1569993|Goals Over/Under First Half|Over 0.5",
       "1569997|Total - Away|Over 0.5",
-      "1550184|Goals Over/Under|Over 1.5",
-      "1552215|Total - Away|Over 0.5"
+      "1569995|Goals Over/Under First Half|Over 0.5",
+      "1550184|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
       1.4,
@@ -735,8 +735,8 @@
       1.44,
       1.4,
       1.36,
-      1.44,
-      1.28
+      1.36,
+      1.44
     ]
   },
   {
@@ -859,6 +859,38 @@
       "logo_v": "https://media.api-sports.io/football/teams/426.png",
       "fecha": "2026-11-01T16:45",
       "liga": "Eredivisie"
+    }
+  },
+  {
+    "id": "2026-11-01-combi-partido-1575534",
+    "fecha": "2026-11-01T18:00",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 MARITIMO vs SANTA CLARA 🇵🇹\n\n🎯 BRENNER SANTOS: 1+ TIROS [x1.25]\n✅ MÁS DE 1,5 GOLES [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.53]\n✅ SANTA CLARA GANA ALGUNA DE LAS DOS PARTES [x1.73]\n✅ EMPATE AL DESCANSO [x1.95]\n\n🔥 Resultado probable: 1-1 | 0-2 | 1-2\n💥 Cuota total aprox.: 7,04\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575534|Away Player Shots|Brenner Santos - 1",
+      "1575534|Goals Over/Under|Over 1.5",
+      "1575534|Goals Over/Under First Half|Over 0.5",
+      "1575534|To Win Either Half|Away",
+      "1575534|First Half Winner|Draw"
+    ],
+    "cuotas": [
+      1.25,
+      1.44,
+      1.53,
+      1.73,
+      1.95
+    ],
+    "tarjeta": {
+      "local": "Maritimo",
+      "visitante": "Santa Clara",
+      "id_l": 214,
+      "id_v": 227,
+      "logo_l": "https://media.api-sports.io/football/teams/214.png",
+      "logo_v": "https://media.api-sports.io/football/teams/227.png",
+      "fecha": "2026-11-01T19:00",
+      "liga": "Primeira Liga"
     }
   },
   {

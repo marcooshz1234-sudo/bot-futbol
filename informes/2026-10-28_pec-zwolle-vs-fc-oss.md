@@ -1,10 +1,49 @@
 # PEC Zwolle – FC OSS
 **KNVB Beker** · Round of 64 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **1.30**  ·  X **5.00**  ·  2 **7.00**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **7.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **7.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **6.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **21.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.25**
 
 ## Estadísticas de equipo
 | | PEC Zwolle (total) | PEC Zwolle en casa | FC OSS (total) | FC OSS fuera |

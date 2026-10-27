@@ -1,10 +1,36 @@
 # Tarancón – Levante
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:49_
+
+- **1X2:** 1 **29.00**  ·  X **11.00**  ·  2 **1.07**
+- **Doble oportunidad:** 1X **13.00**  ·  12 **1.03**  ·  X2 **1.00**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
+- **Goles más/menos:**
+    - 1,5: más **1.05** · menos **11.00**
+    - 2,5: más **1.18** · menos **4.50**
+    - 3,5: más **1.50** · menos **2.50**
+    - 4,5: más **2.10** · menos **1.67**
+    - 5,5: más **3.25** · menos **1.33**
+    - 6,5: más **5.50** · menos **1.14**
+    - 7,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **34.00**  ·  X **5.00**  ·  2 **1.17**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **17.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **26.00**  ·  2 **1.25**
+- **Win Both Halves:** 2 **1.40**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **3.60**  ·  Home/No **101.00**  ·  Draw/No **29.00**  ·  Away/No **1.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **1.67**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **5.00**
 
 ## Estadísticas de equipo
 | | Tarancón (total) | Tarancón en casa | Levante (total) | Levante fuera |

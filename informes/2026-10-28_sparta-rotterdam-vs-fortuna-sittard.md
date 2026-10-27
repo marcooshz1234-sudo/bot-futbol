@@ -1,10 +1,23 @@
 # Sparta Rotterdam – Fortuna Sittard
 **KNVB Beker** · Round of 64 · 28/10/2026 18:45 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:49_
+
+- **1X2:** 1 **1.65**  ·  X **4.00**  ·  2 **5.00**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **15.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.75**
 
 ## Estadísticas de equipo
 | | Sparta Rotterdam (total) | Sparta Rotterdam en casa | Fortuna Sittard (total) | Fortuna Sittard fuera |
@@ -141,4 +154,20 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,96 · visitante 1,35 · córners esperados 10,5._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 26% | 19% | 23% | 5.00 | +13% |
+| 1X2: X | 22% | 24% | 23% | 4.00 | -9% |
+| 1X2: 1 | 52% | 57% | 55% | 1.65 | -10% |
+| Ambos marcan: No | 36% | 42% | 39% | 2.20 | -13% |
+| Ambos marcan: Sí | 64% | 58% | 61% | 1.62 | -2% |
+| Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 3.5 | 42% | 39% | 41% | 2.38 | -3% |
+| Goles más/menos: Más de 4.5 | 24% | 22% | 23% | 4.33 | -1% |
+| Goles más/menos: Menos de 2.5 | 36% | 40% | 38% | 2.35 | -11% |
+| Goles más/menos: Menos de 3.5 | 58% | 61% | 59% | 1.53 | -9% |
+| Goles más/menos: Menos de 4.5 | 76% | 78% | 77% | 1.20 | -7% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

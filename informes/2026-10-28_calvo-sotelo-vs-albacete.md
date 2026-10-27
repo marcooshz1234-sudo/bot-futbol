@@ -1,10 +1,23 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.50**
+- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.00**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **10.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
 
 ## Estadísticas de equipo
 | | Calvo Sotelo (total) | Calvo Sotelo en casa | Albacete (total) | Albacete fuera |

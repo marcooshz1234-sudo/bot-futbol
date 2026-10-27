@@ -1,10 +1,47 @@
 # Excelsior Maassluis – Heerenveen
 **KNVB Beker** · Round of 64 · 28/10/2026 21:00 (hora España) · Sportpark Dijkpolder
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **10.00**  ·  X **5.50**  ·  2 **1.20**
+- **Doble oportunidad:** 1X **4.00**  ·  12 **1.12**  ·  X2 **1.05**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Goles del visitante:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.00**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **9.00**  ·  X **3.10**  ·  2 **1.57**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **4.50**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.62**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.25**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.50**  ·  Home/No **21.00**  ·  Draw/No **23.00**  ·  Away/No **2.20**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **4.00**
 
 ## Estadísticas de equipo
 | | Excelsior Maassluis (total) | Excelsior Maassluis en casa | Heerenveen (total) | Heerenveen fuera |

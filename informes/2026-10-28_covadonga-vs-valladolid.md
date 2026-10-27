@@ -1,10 +1,27 @@
 # Covadonga – Valladolid
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **11.00**  ·  X **5.50**  ·  2 **1.20**
+- **Ambos marcan:** Sí **2.05**  ·  No **1.70**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **11.00**  ·  X **2.88**  ·  2 **1.57**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **5.50**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.25**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.88**  ·  Home/No **21.00**  ·  Draw/No **17.00**  ·  Away/No **1.91**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.00**
 
 ## Estadísticas de equipo
 | | Covadonga (total) | Covadonga en casa | Valladolid (total) | Valladolid fuera |

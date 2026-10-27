@@ -1,10 +1,26 @@
 # Anaitasuna – Alaves
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **41.00**  ·  X **19.00**  ·  2 **1.02**
+- **Ambos marcan:** Sí **3.40**  ·  No **1.30**
+- **Goles más/menos:**
+    - 1,5: más **1.04** · menos **13.00**
+    - 2,5: más **1.17** · menos **5.00**
+    - 3,5: más **1.44** · menos **2.62**
+    - 4,5: más **1.91** · menos **1.80**
+    - 5,5: más **3.00** · menos **1.36**
+    - 6,5: más **5.00** · menos **1.17**
+    - 7,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **34.00**  ·  X **5.50**  ·  2 **1.14**
+- **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **Results/Both Teams Score:** Home/Yes **51.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **3.40**  ·  Home/No **67.00**  ·  Draw/No **34.00**  ·  Away/No **1.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.40**  ·  o/no 2.5 **1.62**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **5.50**
 
 ## Estadísticas de equipo
 | | Anaitasuna (total) | Anaitasuna en casa | Alaves (total) | Alaves fuera |

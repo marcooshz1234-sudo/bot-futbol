@@ -1,7 +1,7 @@
 # RSD Alcalá – Las Palmas
 **Copa del Rey** · Round of 128 · 27/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:50_

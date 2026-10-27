@@ -1,10 +1,32 @@
 # Utebo – Sabadell
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:49_
+
+- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.50**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **6.00**  ·  X **2.38**  ·  2 **2.05**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **3.25**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **2.38**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.50**  ·  Home/No **10.00**  ·  Draw/No **12.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.40**
 
 ## Estadísticas de equipo
 | | Utebo (total) | Utebo en casa | Sabadell (total) | Sabadell fuera |

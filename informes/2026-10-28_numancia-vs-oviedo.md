@@ -1,10 +1,20 @@
 # Numancia – Oviedo
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 19:50_
+
+- **1X2:** 1 **4.75**  ·  X **3.90**  ·  2 **1.53**
+- **Ambos marcan:** Sí **2.05**  ·  No **1.70**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **4.00**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.38**
 
 ## Estadísticas de equipo
 | | Numancia (total) | Numancia en casa | Oviedo (total) | Oviedo fuera |

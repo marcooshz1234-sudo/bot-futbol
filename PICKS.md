@@ -1,18 +1,12 @@
 # Picks del Analista
 
-_Generado el 2026-10-27 13:53 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-27 19:51 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 27/10
 
-**🔒 Combi segura · cuota 1,70**
-- Lazio o empate (1,33) · Sassuolo 7/10 · Lazio 8/9
-- FC Augsburg marca 2 o más (1,28) · FC Augsburg 7/8 · rival de categoría inferior
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 18:30 | Lazio o empate | resultado | 1.33 | 79% | Sassuolo 7/10 · Lazio 8/9 |
 | 20:45 | Torino marca | goles | 1.44 | 80% | Torino 8/10 · Como (en contra) 8/10 |
-| 18:00 | FC Augsburg marca 2 o más | goles | 1.28 | 88% | FC Augsburg 7/8 · rival de categoría inferior |
 | 20:45 | Gol en la 1ª parte del Torino–Como | goles | 1.30 | 80% | Torino 8/10 · Como 8/10 |
 
 ## Miércoles 28/10
@@ -60,6 +54,7 @@ _Generado el 2026-10-27 13:53 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 20:45 | Chris Richards comete 1+ faltas | jugador | 1.67 | 80% | Chris Richards 8/10 |
 | 20:45 | 1899 Hoffenheim marca 2 o más | goles | 1.33 | 80% | 1899 Hoffenheim 8/10 · rival de categoría inferior |
 | 20:45 | Genoa ve más de 1,5 tarjetas | tarjetas | 1.53 | 75% | Genoa 7/10 · Juventus (en contra) 8/10 |
+| 18:45 | Ambos marcan en Sparta Rotterdam–Fortuna Sittard | goles | 1.62 | 75% | Sparta Rotterdam 8/10 · Fortuna Sittard 7/10 |
 | 20:45 | Más de 2,5 goles en Bournemouth–Aston Villa | goles | 1.70 | 80% | Bournemouth 8/10 · Aston Villa 8/10 |
 
 ## Jueves 29/10
@@ -173,13 +168,6 @@ _Generado el 2026-10-27 13:53 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Sevilla o empate (1,40) · Getafe 9/10 · Sevilla 7/10
 - Más de 1,5 goles en Athletic Club–Real Sociedad (1,25) · Athletic Club 7/9 · Real Sociedad 9/10
 
-**🤪 Combi loca · cuota 8,49**
-- Arouca gana alguna de las dos partes (1,44) · Arouca 8/10 · Nacional 7/10
-- Gol en la 1ª parte del Burgos–Castellón (1,40) · Burgos 8/10 · Castellón 8/10
-- Granada CF marca (1,36) · Eldense (en contra) 8/10 · Granada CF 9/10
-- Más de 1,5 goles en Lecce–Genoa (1,44) · Lecce 8/9 · Genoa 7/10
-- Gana el Sporting Gijon (2,15) · AD Ceuta FC 7/10 · Sporting Gijon 6/10
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 14:00 | Sevilla o empate | resultado | 1.40 | 80% | Getafe 9/10 · Sevilla 7/10 |
@@ -188,11 +176,14 @@ _Generado el 2026-10-27 13:53 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 18:30 | Gol en la 1ª parte del Burgos–Castellón | goles | 1.40 | 80% | Burgos 8/10 · Castellón 8/10 |
 | 14:00 | Granada CF marca | goles | 1.36 | 85% | Eldense (en contra) 8/10 · Granada CF 9/10 |
 | 14:00 | Gol en la 2ª parte del Getafe–Sevilla | goles | 1.36 | 90% | Getafe 8/10 · Sevilla 10/10 |
+| 16:15 | Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon | goles | 1.36 | 75% | AD Ceuta FC 8/10 · Sporting Gijon 7/10 |
 | 18:00 | Más de 1,5 goles en Lecce–Genoa | goles | 1.44 | 79% | Lecce 8/9 · Genoa 7/10 |
 | 16:45 | Sparta Rotterdam marca | goles | 1.28 | 85% | Groningen (en contra) 9/10 · Sparta Rotterdam 8/10 |
 | 16:15 | Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid | goles | 1.50 | 75% | Racing Santander 7/10 · Real Madrid 8/10 |
+| 19:00 | Gol en la 1ª parte del Maritimo–Santa Clara | goles | 1.53 | 75% | Maritimo 8/10 · Santa Clara 7/10 |
 | 16:15 | Racing Santander marca | goles | 1.36 | 80% | Racing Santander 7/10 · Real Madrid (en contra) 9/10 |
 | 14:00 | Sevilla marca | goles | 1.40 | 95% | Getafe (en contra) 9/10 · Sevilla 10/10 |
+| 19:00 | Santa Clara marca | goles | 1.33 | 90% | Maritimo (en contra) 9/10 · Santa Clara 9/10 |
 | 15:00 | Gol en la 1ª parte del Frosinone–Torino | goles | 1.25 | 90% | Frosinone 10/10 · Torino 8/10 |
 | 12:15 | ADO Den Haag marca | goles | 1.25 | 85% | PEC Zwolle (en contra) 9/10 · ADO Den Haag 8/10 |
 | 14:00 | Más de 1,5 goles en Getafe–Sevilla | goles | 1.53 | 75% | Getafe 7/10 · Sevilla 8/10 |
@@ -211,7 +202,6 @@ _Generado el 2026-10-27 13:53 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | Más de 2,5 goles en Strasbourg–Auxerre | goles | 1.57 | 81% | Strasbourg 7/8 · Auxerre 6/8 |
 | 16:45 | Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam | goles | 1.62 | 75% | Groningen 7/10 · Sparta Rotterdam 8/10 |
 | 12:15 | Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag | goles | 1.80 | 75% | PEC Zwolle 7/10 · ADO Den Haag 8/10 |
-| 16:15 | Gana el Sporting Gijon | resultado | 2.15 | 65% | AD Ceuta FC 7/10 · Sporting Gijon 6/10 |
 | 15:00 | Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre | goles | 1.80 | 75% | Strasbourg 6/8 · Auxerre 6/8 |
 
 ## Lunes 02/11

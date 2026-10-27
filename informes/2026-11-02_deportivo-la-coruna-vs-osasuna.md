@@ -1,7 +1,7 @@
 # Deportivo La Coruna – Osasuna
 **LaLiga** · Regular Season - 11 · 02/11/2026 21:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
