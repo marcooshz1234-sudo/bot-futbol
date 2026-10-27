@@ -1,10 +1,57 @@
 # Alcazar – Malaga
 **Copa del Rey** · Round of 128 · 27/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 13:51_
+
+- **1X2:** 1 **26.00**  ·  X **21.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **17.00**  ·  12 **1.01**  ·  X2 **1.01**
+- **Ambos marcan:** Sí **2.38**  ·  No **1.53**
+- **Goles más/menos:**
+    - 2,5: más **1.12** · menos **6.00**
+    - 3,5: más **1.33** · menos **3.25**
+    - 4,5: más **1.80** · menos **1.91**
+    - 5,5: más **2.62** · menos **1.44**
+    - 6,5: más **4.00** · menos **1.22**
+    - 7,5: más **7.00** · menos **1.10**
+    - 8,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **2.38** · menos **1.53**
+    - 1,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 1,5: más **1.05** · menos **11.00**
+    - 2,5: más **1.20** · menos **4.33**
+    - 3,5: más **1.50** · menos **2.50**
+    - 4,5: más **2.10** · menos **1.67**
+    - 5,5: más **3.40** · menos **1.30**
+    - 6,5: más **6.00** · menos **1.12**
+    - 7,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **1X2 descanso:** 1 **23.00**  ·  X **5.50**  ·  2 **1.18**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **13.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.22**
+- **Win Both Halves:** 1 **101.00**  ·  2 **1.40**
+- **Results/Both Teams Score:** Home/Yes **34.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **2.60**  ·  Home/No **51.00**  ·  Draw/No **34.00**  ·  Away/No **1.53**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **1.83**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **6.50**
 
 ## Estadísticas de equipo
 | | Alcazar (total) | Alcazar en casa | Malaga (total) | Malaga fuera |

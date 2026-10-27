@@ -1,19 +1,19 @@
 # Dynamo Dresden – FC Schalke 04
-**DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Rudolf-Harbig-Stadion
+**DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Rudolf-Harbig Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
-- **1X2:** 1 **3.50**  ·  X **3.60**  ·  2 **2.00**
+- **1X2:** 1 **3.60**  ·  X **3.60**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
-- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
+    - 2,5: más **1.65** · menos **2.20**
     - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.33** · menos **1.20**
+    - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
@@ -30,19 +30,19 @@ _Actualizadas: 27/10 07:49_
     - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.40**  ·  2 **2.50**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.38**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **2.10**  ·  2 **1.50**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.62**
 - **Win Both Halves:** 1 **13.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **15.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**

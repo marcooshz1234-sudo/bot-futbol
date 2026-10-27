@@ -1,18 +1,18 @@
 # SG Sonnenhof Grossaspach – FC Augsburg
-**DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · WIRmachenDRUCK Arena
+**DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · comtech Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:48_
+_Actualizadas: 27/10 13:50_
 
 - **1X2:** 1 **11.00**  ·  X **5.50**  ·  2 **1.27**
-- **Doble oportunidad:** 1X **3.40**  ·  12 **1.17**  ·  X2 **1.07**
+- **Doble oportunidad:** 1X **3.50**  ·  12 **1.17**  ·  X2 **1.06**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.40** · menos **2.88**
-    - 3,5: más **2.00** · menos **1.73**
+    - 3,5: más **1.91** · menos **1.80**
     - 4,5: más **3.25** · menos **1.33**
     - 5,5: más **6.00** · menos **1.12**
     - 6,5: más **11.00** · menos **1.05**
@@ -22,31 +22,30 @@ _Actualizadas: 27/10 07:48_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.57** · menos **2.25**
+    - 0,5: más **1.62** · menos **2.20**
     - 1,5: más **4.00** · menos **1.22**
-    - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **1.91** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **7.00** · menos **1.10**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
     - 11: más **1.90** · menos **1.90**
     - 11,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **7.50**  ·  X **2.88**  ·  2 **1.67**
+- **1X2 descanso:** 1 **8.00**  ·  X **2.88**  ·  2 **1.67**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.00** · menos **1.12**
+    - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.73**
-- **Win Both Halves:** 1 **34.00**  ·  2 **2.62**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.50**  ·  Home/No **19.00**  ·  Draw/No **21.00**  ·  Away/No **2.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.60**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **4.00**  ·  2 **1.14**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.60**  ·  Home/No **19.00**  ·  Draw/No **21.00**  ·  Away/No **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**

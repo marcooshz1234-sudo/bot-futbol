@@ -1,49 +1,49 @@
 # Sestao River – Espanyol
 **Copa del Rey** · Round of 128 · 27/10/2026 19:00 (hora España) · Estadio Las Llanas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:50_
 
-- **1X2:** 1 **7.50**  ·  X **4.20**  ·  2 **1.44**
-- **Doble oportunidad:** 1X **2.50**  ·  12 **1.22**  ·  X2 **1.12**
-- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
+- **1X2:** 1 **7.50**  ·  X **4.20**  ·  2 **1.48**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.22**  ·  X2 **1.10**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
+    - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.73** · menos **2.08**
     - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.00** · menos **1.17**
+    - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **4.50** · menos **1.18**
 - **Goles del visitante:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.50** · menos **2.50**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **7.00**  ·  X **2.50**  ·  2 **1.91**
+    - 9,5: más **1.85** · menos **1.95**
+- **1X2 descanso:** 1 **6.50**  ·  X **2.40**  ·  2 **1.95**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **3.50**  ·  2 **1.25**
-- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **2.20**
-- **Win Both Halves:** 1 **29.00**  ·  2 **3.40**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.20**  ·  Home/No **13.00**  ·  Draw/No **13.00**  ·  Away/No **2.38**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.60**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **3.40**  ·  2 **1.28**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **2.25**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **13.00**  ·  Draw/No **12.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Sestao River (total) | Sestao River en casa | Espanyol (total) | Espanyol fuera |

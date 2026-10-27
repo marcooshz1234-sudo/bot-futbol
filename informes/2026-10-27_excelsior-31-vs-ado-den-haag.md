@@ -1,13 +1,13 @@
 # Excelsior '31 – ADO Den Haag
 **KNVB Beker** · Round of 64 · 27/10/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:50_
 
-- **1X2:** 1 **12.00**  ·  X **7.00**  ·  2 **1.14**
-- **Doble oportunidad:** 1X **4.33**  ·  12 **1.11**  ·  X2 **1.04**
+- **1X2:** 1 **17.00**  ·  X **7.50**  ·  2 **1.14**
+- **Doble oportunidad:** 1X **5.50**  ·  12 **1.10**  ·  X2 **1.02**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**
@@ -17,10 +17,10 @@ _Actualizadas: 27/10 07:49_
     - 5,5: más **4.33** · menos **1.20**
     - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **10.00**  ·  X **3.25**  ·  2 **1.50**
@@ -30,11 +30,11 @@ _Actualizadas: 27/10 07:49_
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
-- **To Win Either Half:** 1 **5.00**  ·  2 **1.11**
-- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.62**
-- **Win Both Halves:** 1 **51.00**  ·  2 **2.20**
-- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.30**  ·  Home/No **26.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
+- **To Win Either Half:** 1 **5.00**  ·  2 **1.08**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.53**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.10**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.30**  ·  Home/No **26.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
 
 ## Estadísticas de equipo
 | | Excelsior '31 (total) | Excelsior '31 en casa | ADO Den Haag (total) | ADO Den Haag fuera |

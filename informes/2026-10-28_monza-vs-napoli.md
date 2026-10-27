@@ -1,18 +1,18 @@
 # Monza – Napoli
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Stadio Brianteo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **4.50**  ·  X **3.90**  ·  2 **1.75**
-- **Doble oportunidad:** 1X **2.00**  ·  12 **1.22**  ·  X2 **1.18**
+- **Doble oportunidad:** 1X **2.00**  ·  12 **1.25**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
+    - 2,5: más **1.67** · menos **2.20**
     - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
@@ -30,7 +30,7 @@ _Actualizadas: 27/10 07:49_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 8,5: más **1.80** · menos **1.91**
+    - 8,5: más **1.80** · menos **2.00**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **4.75**  ·  X **2.38**  ·  2 **2.25**
@@ -50,7 +50,7 @@ _Actualizadas: 27/10 07:49_
     - 3,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 - **Home Team Total Cards:**
     - 2,5: más **2.38** · menos **1.53**
 - **Away Team Total Cards:**
@@ -213,16 +213,16 @@ _Goles esperados: local 1,64 · visitante 1,57 · córners esperados 9,7._
 | 1X2: 2 | 37% | 54% | 46% | 1.75 | -20% |
 | 1X2: X | 23% | 24% | 24% | 3.90 | -7% |
 | 1X2: 1 ✅ | 40% | 21% | 30% | 4.50 | +37% |
-| Doble oportunidad: X2 | 60% | 78% | 69% | 1.18 | -18% |
-| Doble oportunidad: 12 | 77% | 76% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 63% | 46% | 55% | 2.00 | +9% |
+| Doble oportunidad: X2 | 60% | 79% | 70% | 1.18 | -18% |
+| Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -6% |
+| Doble oportunidad: 1X | 63% | 47% | 55% | 2.00 | +10% |
 | Ambos marcan: No | 36% | 45% | 41% | 2.05 | -16% |
 | Ambos marcan: Sí | 64% | 55% | 59% | 1.70 | +1% |
 | Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 62% | 55% | 59% | 1.73 | +1% |
+| Goles más/menos: Más de 2.5 | 62% | 57% | 60% | 1.67 | -1% |
 | Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +2% |
 | Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles más/menos: Menos de 2.5 | 38% | 45% | 41% | 2.10 | -13% |
+| Goles más/menos: Menos de 2.5 | 38% | 43% | 40% | 2.20 | -11% |
 | Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.44 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
@@ -236,8 +236,8 @@ _Goles esperados: local 1,64 · visitante 1,57 · córners esperados 9,7._
 | Goles del visitante: Más de 2.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 53% | 46% | 50% | 2.00 | -0% |
 | Goles del visitante: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Córners más/menos: Más de 8.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Córners más/menos: Menos de 8.5 | 45% | 49% | 47% | 1.91 | -11% |
+| Córners más/menos: Más de 8.5 | 55% | 53% | 54% | 1.80 | -3% |
+| Córners más/menos: Menos de 8.5 | 45% | 47% | 46% | 2.00 | -8% |
 | 1X2 descanso: 2 | 30% | 41% | 36% | 2.25 | -20% |
 | 1X2 descanso: X | 38% | 39% | 39% | 2.38 | -8% |
 

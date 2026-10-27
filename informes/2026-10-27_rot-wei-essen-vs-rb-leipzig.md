@@ -1,23 +1,23 @@
 # Rot-Weiß Essen – RB Leipzig
-**DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · Stadion an der Hafenstrasse
+**DFB-Pokal** · Round of 32 · 27/10/2026 18:00 (hora España) · Stadion Essen
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:48_
+_Actualizadas: 27/10 13:50_
 
-- **1X2:** 1 **11.00**  ·  X **8.00**  ·  2 **1.18**
+- **1X2:** 1 **12.00**  ·  X **8.50**  ·  2 **1.17**
 - **Doble oportunidad:** 1X **4.50**  ·  12 **1.08**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.30** · menos **3.50**
-    - 3,5: más **1.80** · menos **1.91**
-    - 4,5: más **2.75** · menos **1.40**
+    - 2,5: más **1.28** · menos **3.60**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
     - 5,5: más **4.50** · menos **1.18**
     - 6,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
@@ -27,26 +27,26 @@ _Actualizadas: 27/10 07:48_
 - **Goles del visitante:**
     - 1,5: más **1.20** · menos **4.33**
     - 2,5: más **1.62** · menos **2.20**
-    - 3,5: más **2.62** · menos **1.44**
+    - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 10,5: más **1.73** · menos **2.00**
     - 11: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **10.00**  ·  X **3.20**  ·  2 **1.50**
+- **1X2 descanso:** 1 **10.00**  ·  X **3.25**  ·  2 **1.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.50** · menos **2.50**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **5.00**  ·  2 **1.10**
-- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.57**
+- **To Win Either Half:** 1 **5.50**  ·  2 **1.08**
+- **To Score In Both Halves By Teams:** 1 **9.00**  ·  2 **1.53**
 - **Win Both Halves:** 1 **51.00**  ·  2 **2.10**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.40**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.00**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **2.38**  ·  Home/No **23.00**  ·  Draw/No **29.00**  ·  Away/No **2.10**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **3.20**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**

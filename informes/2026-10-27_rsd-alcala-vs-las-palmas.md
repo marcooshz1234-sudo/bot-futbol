@@ -1,14 +1,14 @@
 # RSD Alcalá – Las Palmas
 **Copa del Rey** · Round of 128 · 27/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:50_
 
-- **1X2:** 1 **5.75**  ·  X **4.50**  ·  2 **1.50**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.18**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **1X2:** 1 **5.50**  ·  X **4.50**  ·  2 **1.53**
+- **Doble oportunidad:** 1X **2.38**  ·  12 **1.20**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
@@ -17,7 +17,7 @@ _Actualizadas: 27/10 07:49_
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
@@ -29,19 +29,19 @@ _Actualizadas: 27/10 07:49_
     - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **6.00**  ·  X **2.40**  ·  2 **2.05**
+- **1X2 descanso:** 1 **6.00**  ·  X **2.40**  ·  2 **2.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.38**
 - **Win Both Halves:** 1 **23.00**  ·  2 **3.75**
-- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **10.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.50**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **10.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | RSD Alcalá (total) | RSD Alcalá en casa | Las Palmas (total) | Las Palmas fuera |

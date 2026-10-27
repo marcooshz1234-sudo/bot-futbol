@@ -1,10 +1,53 @@
 # Pinatar – Elche
 **Copa del Rey** · Round of 128 · 27/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 13:50_
+
+- **1X2:** 1 **41.00**  ·  X **19.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **13.00**  ·  12 **1.02**  ·  X2 **1.01**
+- **Ambos marcan:** Sí **3.25**  ·  No **1.33**
+- **Goles más/menos:**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.25** · menos **4.00**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.38** · menos **1.53**
+    - 5,5: más **4.00** · menos **1.22**
+    - 6,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **3.25** · menos **1.33**
+- **Goles del visitante:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.25**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.90** · menos **1.90**
+    - 10,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **29.00**  ·  X **4.33**  ·  2 **1.22**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **17.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **29.00**  ·  2 **1.30**
+- **Win Both Halves:** 2 **1.40**
+- **Results/Both Teams Score:** Home/Yes **51.00**  ·  Draw/Yes **26.00**  ·  Away/Yes **3.75**  ·  Home/No **51.00**  ·  Draw/No **29.00**  ·  Away/No **1.28**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.33**  ·  o/no 2.5 **1.57**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **4.33**
 
 ## Estadísticas de equipo
 | | Pinatar (total) | Pinatar en casa | Elche (total) | Elche fuera |

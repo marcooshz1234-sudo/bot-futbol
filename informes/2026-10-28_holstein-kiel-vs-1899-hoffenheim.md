@@ -1,10 +1,10 @@
 # Holstein Kiel – 1899 Hoffenheim
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · Holstein-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:50_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **6.25**  ·  X **4.33**  ·  2 **1.48**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.20**  ·  X2 **1.12**

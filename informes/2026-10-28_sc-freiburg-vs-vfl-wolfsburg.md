@@ -1,10 +1,10 @@
 # SC Freiburg – VfL Wolfsburg
-**DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Europa-Park Stadion
+**DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **1.48**  ·  X **4.50**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.62**
@@ -32,7 +32,7 @@ _Actualizadas: 27/10 07:49_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
+    - 10,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.75**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**

@@ -1,7 +1,7 @@
 # PEC Zwolle – ADO Den Haag
 **Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_

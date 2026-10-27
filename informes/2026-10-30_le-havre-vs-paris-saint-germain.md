@@ -1,7 +1,7 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
 _Actualizadas: 26/10 19:53_

@@ -1,22 +1,21 @@
 # Bayern München – 1. FC Magdeburg
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **1.04**  ·  X **15.00**  ·  2 **26.00**
-- **Doble oportunidad:** 1X **1.01**  ·  12 **1.02**  ·  X2 **13.00**
+- **Doble oportunidad:** 1X **1.01**  ·  12 **1.03**  ·  X2 **13.00**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 1,5: más **1.04** · menos **13.00**
     - 2,5: más **1.14** · menos **5.50**
     - 3,5: más **1.40** · menos **2.75**
     - 4,5: más **1.83** · menos **1.83**
     - 5,5: más **2.75** · menos **1.40**
     - 6,5: más **4.50** · menos **1.18**
-    - 7,5: más **9.00** · menos **1.07**
+    - 7,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
@@ -49,8 +48,8 @@ _Actualizadas: 27/10 07:49_
 - **To Win Either Half:** 1 **1.02**  ·  2 **10.00**
 - **To Score In Both Halves By Teams:** 1 **1.28**  ·  2 **13.00**
 - **Win Both Halves:** 1 **1.50**  ·  2 **101.00**
-- **Results/Both Teams Score:** Home/Yes **2.38**  ·  Draw/Yes **17.00**  ·  Away/Yes **34.00**  ·  Home/No **1.67**  ·  Draw/No **34.00**  ·  Away/No **51.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **2.05**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **6.00**
+- **Results/Both Teams Score:** Home/Yes **2.38**  ·  Draw/Yes **17.00**  ·  Away/Yes **41.00**  ·  Home/No **1.67**  ·  Draw/No **34.00**  ·  Away/No **51.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **2.10**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **6.00**
 - **Home Corners Over/Under:**
     - 7,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**

@@ -1,18 +1,18 @@
 # SC Paderborn 07 – VfB Stuttgart
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
@@ -195,11 +195,11 @@ _Goles esperados: local 1,32 · visitante 1,48 · córners esperados 10,2._
 | Doble oportunidad: 1X ✅ | 59% | 40% | 49% | 2.38 | +18% |
 | Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
 | Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -8% |
-| Goles más/menos: Más de 2.5 | 53% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 3.5 | 31% | 42% | 37% | 2.20 | -20% |
+| Goles más/menos: Más de 2.5 | 53% | 64% | 58% | 1.48 | -14% |
+| Goles más/menos: Más de 3.5 | 31% | 44% | 38% | 2.10 | -21% |
 | Goles más/menos: Más de 4.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles más/menos: Menos de 2.5 | 47% | 38% | 42% | 2.50 | +6% |
-| Goles más/menos: Menos de 3.5 | 69% | 58% | 63% | 1.62 | +3% |
+| Goles más/menos: Menos de 2.5 | 47% | 36% | 42% | 2.60 | +8% |
+| Goles más/menos: Menos de 3.5 | 69% | 56% | 62% | 1.67 | +4% |
 | Goles más/menos: Menos de 4.5 | 85% | 75% | 80% | 1.25 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |

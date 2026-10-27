@@ -1,10 +1,10 @@
 # West Ham – West Brom
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 07:52_
+_Actualizadas: 27/10 13:52_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.38**

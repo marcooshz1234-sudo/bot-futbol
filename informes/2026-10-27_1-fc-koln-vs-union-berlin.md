@@ -1,17 +1,17 @@
 # 1. FC Köln – Union Berlin
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
-- **1X2:** 1 **1.80**  ·  X **3.60**  ·  2 **4.33**
+- **1X2:** 1 **1.75**  ·  X **3.60**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.65** · menos **2.20**
+    - 2,5: más **1.62** · menos **2.25**
     - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **9.00** · menos **1.07**
@@ -29,8 +29,8 @@ _Actualizadas: 27/10 07:49_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.38**  ·  2 **4.33**
+    - 10,5: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.40**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -187,20 +187,20 @@ _Goles esperados: local 1,62 · visitante 1,14 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 22% | 24% | 4.33 | +5% |
+| 1X2: 2 | 27% | 21% | 24% | 4.50 | +7% |
 | 1X2: X | 25% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 49% | 52% | 50% | 1.80 | -9% |
+| 1X2: 1 | 49% | 53% | 51% | 1.75 | -11% |
 | Doble oportunidad: X2 | 51% | 48% | 50% | 1.95 | -3% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 73% | 78% | 76% | 1.20 | -9% |
 | Ambos marcan: No | 45% | 42% | 44% | 2.20 | -3% |
 | Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
 | Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.18 | -8% |
-| Goles más/menos: Más de 2.5 | 52% | 57% | 55% | 1.65 | -10% |
+| Goles más/menos: Más de 2.5 | 52% | 58% | 55% | 1.62 | -11% |
 | Goles más/menos: Más de 3.5 | 30% | 38% | 34% | 2.50 | -16% |
 | Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +0% |
-| Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | -0% |
+| Goles más/menos: Menos de 2.5 | 48% | 42% | 45% | 2.25 | +1% |
 | Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
@@ -215,10 +215,10 @@ _Goles esperados: local 1,62 · visitante 1,14 · córners esperados 10,1._
 | Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles del visitante: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Córners más/menos: Más de 10.5 | 42% | 50% | 46% | 1.83 | -16% |
-| Córners más/menos: Menos de 10.5 | 58% | 50% | 54% | 1.83 | -1% |
-| 1X2 descanso: 2 | 23% | 21% | 22% | 4.33 | -5% |
-| 1X2 descanso: X | 42% | 39% | 40% | 2.38 | -4% |
-| 1X2 descanso: 1 | 36% | 40% | 38% | 2.30 | -13% |
+| Córners más/menos: Más de 10.5 | 42% | 49% | 45% | 1.95 | -12% |
+| Córners más/menos: Menos de 10.5 | 58% | 51% | 55% | 1.85 | +1% |
+| 1X2 descanso: 2 | 23% | 21% | 22% | 4.50 | -3% |
+| 1X2 descanso: X | 42% | 38% | 40% | 2.40 | -4% |
+| 1X2 descanso: 1 | 36% | 41% | 38% | 2.25 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

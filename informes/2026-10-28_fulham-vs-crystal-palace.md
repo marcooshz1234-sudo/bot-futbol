@@ -1,10 +1,10 @@
 # Fulham – Crystal Palace
 **Carabao Cup** · Round of 16 · 28/10/2026 20:45 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **1.83**  ·  X **3.75**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**

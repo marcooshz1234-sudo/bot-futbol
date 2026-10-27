@@ -1,10 +1,52 @@
 # Casa Pia – Sporting CP
 **Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 13:52_
+
+- **1X2:** 1 **10.00**  ·  X **5.50**  ·  2 **1.27**
+- **Doble oportunidad:** 1X **3.75**  ·  12 **1.14**  ·  X2 **1.06**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.80** · menos **1.91**
+    - 1,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **9.00**  ·  X **2.75**  ·  2 **1.67**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.17**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.83**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **3.00**  ·  Home/No **17.00**  ·  Draw/No **15.00**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.88**
+- **Home Player Shots On Target Total:** JP Morais - 1 **6.00**  ·  Alassana Jatta - 1 **1.80**  ·  Cassiano Dias - 1 **1.83**  ·  Claudio Mendes - 1 **2.50**  ·  Henrique Araujo - 1 **2.10**  ·  Diogo Rochinha - 1 **3.00**  ·  Korede Osundina - 1 **3.25**  ·  Abdu Dafe - 1 **3.40**  ·  Gabi Pereira - 1 **3.40**  ·  Lima Kaique Rocha - 1 **5.00**  ·  Lawrence Ofori - 1 **5.50**  ·  Sebastian Perez - 1 **5.50**  ·  Kevin Prieto - 1 **3.25**  ·  Abdu Conte - 1 **6.00**  ·  Pedro Rosas - 1 **6.00**  ·  Albino Sousa - 1 **6.00**  ·  Selvi Clua - 1 **6.00**  ·  Joao Goulart - 1 **7.00**  ·  Barros Andre Geraldes - 1 **7.00**  ·  Domingos Kaly - 1 **7.00**  ·  Alassana Jatta - 2 **5.00**  ·  Cassiano Dias - 2 **6.00**  ·  Claudio Mendes - 2 **10.00**  ·  Henrique Araujo - 2 **7.00**  ·  Diogo Rochinha - 2 **13.00**  ·  Korede Osundina - 2 **17.00**  ·  Abdu Dafe - 2 **17.00**  ·  Gabi Pereira - 2 **17.00**  ·  Kevin Prieto - 2 **17.00**  ·  Alassana Jatta - 3 **17.00**  ·  Cassiano Dias - 3 **21.00**  ·  Henrique Araujo - 3 **21.00**  ·  Benjamin Pauwels - 1 **2.62**  ·  Benjamin Pauwels - 2 **11.00**  ·  Joao Rego - 1 **2.75**  ·  Joao Rego - 2 **13.00**  ·  Aymen Zouin - 1 **2.62**  ·  Aymen Zouin - 2 **11.00**  ·  Evans Maurin - 1 **2.50**  ·  Felipe Silva - 1 **6.00**  ·  Evans Maurin - 2 **10.00**
+- **Away Player Shots On Target Total:** Luis Guilherme Lira **19.00**  ·  Domingos Kaly **29.00**  ·  Zeno Debast **26.00**  ·  Moncef Zekri **12.00**  ·  Luis Suarez **8.50**  ·  Georgios Vagiannidis **26.00**  ·  Alassana Jatta **13.00**  ·  Goncalo Inacio **12.00**  ·  Maximiliano Araujo **34.00**  ·  Claudio Mendes **26.00**  ·  Lima Kaique Rocha **26.00**  ·  Albino Sousa **23.00**  ·  Sotiris Alexandropoulos **29.00**  ·  Fotis Ioannidis **3.50**  ·  Issa Doumbia **26.00**  ·  Salvador Blopa **17.00**  ·  Flavio Goncalves **26.00**  ·  Silas Andersen **23.00**  ·  Rodrigo Dias **34.00**  ·  Rafael Nel **8.00**  ·  Abdu Conte **151.00**  ·  Miguel Gomes dos Nuno Santos **34.00**  ·  Geny Catamo **34.00**  ·  Joao Simoes **29.00**  ·  Ivan Fresneda **41.00**  ·  Eduardo Quaresma **19.00**  ·  Pedro Rosas **151.00**  ·  Jesse Derry **21.00**  ·  Rodrigo Zalazar **26.00**  ·  Pedro Lima **17.00**  ·  Henrique Araujo **23.00**  ·  Lawrence Ofori **126.00**  ·  Sebastian Perez **81.00**  ·  Diogo Rochinha **67.00**  ·  Ibrahima Ba **9.50**  ·  Barros Andre Geraldes **126.00**  ·  Joao Goulart **34.00**  ·  Felipe Silva **29.00**  ·  Sergi Altimira **34.00**  ·  Nestory Irankunda **21.00**  ·  Selvi Clua **67.00**  ·  Eduardo Felicissimo **10.00**  ·  Kevin Prieto **67.00**  ·  Korede Osundina **67.00**  ·  Cassiano Dias **41.00**
+- **Home Player Shots:** JP Morais - 1 **2.25**  ·  JP Morais - 2 **8.00**  ·  JP Morais - 3 **21.00**  ·  Alassana Jatta - 1 **1.12**  ·  Cassiano Dias - 1 **1.14**  ·  Claudio Mendes - 1 **1.33**  ·  Henrique Araujo - 1 **1.20**  ·  Diogo Rochinha - 1 **1.44**  ·  Korede Osundina - 1 **1.57**  ·  Abdu Dafe - 1 **1.62**  ·  Gabi Pereira - 1 **1.62**  ·  Lima Kaique Rocha - 1 **1.83**  ·  Lawrence Ofori - 1 **2.00**  ·  Sebastian Perez - 1 **2.20**  ·  Kevin Prieto - 1 **1.57**  ·  Abdu Conte - 1 **2.50**  ·  Pedro Rosas - 1 **2.50**  ·  Albino Sousa - 1 **2.50**  ·  Selvi Clua - 1 **2.25**  ·  Joao Goulart - 1 **2.50**  ·  Barros Andre Geraldes - 1 **3.00**  ·  Domingos Kaly - 1 **3.00**  ·  Alassana Jatta - 2 **1.57**  ·  Cassiano Dias - 2 **1.67**  ·  Claudio Mendes - 2 **2.38**  ·  Henrique Araujo - 2 **1.83**  ·  Diogo Rochinha - 2 **3.00**  ·  Korede Osundina - 2 **3.50**  ·  Abdu Dafe - 2 **3.75**  ·  Gabi Pereira - 2 **3.75**  ·  Lima Kaique Rocha - 2 **4.50**  ·  Lawrence Ofori - 2 **5.50**  ·  Sebastian Perez - 2 **6.50**  ·  Kevin Prieto - 2 **3.50**  ·  Abdu Conte - 2 **9.00**  ·  Pedro Rosas - 2 **9.00**  ·  Albino Sousa - 2 **9.00**  ·  Selvi Clua - 2 **8.00**  ·  Joao Goulart - 2 **9.00**  ·  Barros Andre Geraldes - 2 **11.00**  ·  Domingos Kaly - 2 **11.00**  ·  Alassana Jatta - 3 **2.62**  ·  Cassiano Dias - 3 **3.00**  ·  Claudio Mendes - 3 **5.50**  ·  Henrique Araujo - 3 **3.75**  ·  Diogo Rochinha - 3 **7.00**  ·  Korede Osundina - 3 **10.00**  ·  Abdu Dafe - 3 **11.00**  ·  Gabi Pereira - 3 **11.00**  ·  Lima Kaique Rocha - 3 **15.00**  ·  Lawrence Ofori - 3 **17.00**  ·  Sebastian Perez - 3 **21.00**  ·  Kevin Prieto - 3 **10.00**  ·  Abdu Conte - 3 **21.00**  ·  Pedro Rosas - 3 **21.00**  ·  Albino Sousa - 3 **21.00**  ·  Selvi Clua - 3 **21.00**  ·  Joao Goulart - 3 **21.00**  ·  Alassana Jatta - 4 **5.00**  ·  Cassiano Dias - 4 **6.00**  ·  Claudio Mendes - 4 **13.00**  ·  Henrique Araujo - 4 **8.00**  ·  Diogo Rochinha - 4 **19.00**  ·  Korede Osundina - 4 **21.00**  ·  Abdu Dafe - 4 **21.00**  ·  Gabi Pereira - 4 **21.00**  ·  Alassana Jatta - 5 **11.00**  ·  Cassiano Dias - 5 **13.00**  ·  Claudio Mendes - 5 **21.00**  ·  Henrique Araujo - 5 **19.00**  ·  Alassana Jatta - 6 **21.00**  ·  Cassiano Dias - 6 **21.00**  ·  Benjamin Pauwels - 1 **1.36**  ·  Benjamin Pauwels - 2 **2.62**  ·  Benjamin Pauwels - 3 **6.00**  ·  Benjamin Pauwels - 4 **15.00**  ·  Benjamin Pauwels - 5 **21.00**  ·  Joao Rego - 1 **1.44**  ·  Joao Rego - 2 **3.00**  ·  Joao Rego - 3 **7.00**  ·  Joao Rego - 4 **19.00**  ·  Aymen Zouin - 1 **1.36**  ·  Aymen Zouin - 2 **2.62**  ·  Aymen Zouin - 3 **6.00**  ·  Aymen Zouin - 4 **15.00**  ·  Aymen Zouin - 5 **21.00**  ·  Evans Maurin - 1 **1.33**  ·  Felipe Silva - 1 **2.50**  ·  Evans Maurin - 2 **2.38**  ·  Felipe Silva - 2 **9.00**  ·  Evans Maurin - 3 **5.50**  ·  Felipe Silva - 3 **21.00**  ·  Evans Maurin - 4 **13.00**  ·  Evans Maurin - 5 **21.00**  ·  Kevin Prieto - 4 **21.00**
+- **Away Player Shots:** Rodrigo Dias - 1 **1.44**  ·  Issa Doumbia - 1 **1.05**  ·  Rafael Nel - 1 **1.02**  ·  Flavio Goncalves - 1 **1.04**  ·  Geny Catamo - 1 **1.05**  ·  Jesse Derry - 1 **1.04**  ·  Luis Guilherme Lira - 1 **1.07**  ·  Maximiliano Araujo - 1 **1.12**  ·  Miguel Gomes dos Nuno Santos - 1 **1.08**  ·  Pedro Lima - 1 **1.08**  ·  Sergi Altimira - 1 **1.22**  ·  Silas Andersen - 1 **1.12**  ·  Zeno Debast - 1 **1.44**  ·  Ivan Fresneda - 1 **1.40**  ·  Sotiris Alexandropoulos - 1 **1.40**  ·  Eduardo Felicissimo - 1 **1.44**  ·  Georgios Vagiannidis - 1 **1.44**  ·  Eduardo Quaresma - 1 **1.44**  ·  Ibrahima Ba - 1 **1.30**  ·  Goncalo Inacio - 1 **1.36**  ·  Luis Suarez - 2 **1.08**  ·  Fotis Ioannidis - 2 **1.06**  ·  Rodrigo Zalazar - 2 **1.04**  ·  Rodrigo Dias - 2 **3.00**  ·  Issa Doumbia - 2 **1.28**  ·  Rafael Nel - 2 **1.12**  ·  Flavio Goncalves - 2 **1.22**  ·  Geny Catamo - 2 **1.25**  ·  Jesse Derry - 2 **1.22**  ·  Luis Guilherme Lira - 2 **1.36**  ·  Maximiliano Araujo - 2 **1.57**  ·  Miguel Gomes dos Nuno Santos - 2 **1.40**  ·  Pedro Lima - 2 **1.40**  ·  Sergi Altimira - 2 **1.91**  ·  Silas Andersen - 2 **1.62**  ·  Zeno Debast - 2 **3.00**  ·  Ivan Fresneda - 2 **2.62**  ·  Sotiris Alexandropoulos - 2 **2.62**  ·  Eduardo Felicissimo - 2 **3.00**  ·  Georgios Vagiannidis - 2 **3.00**  ·  Eduardo Quaresma - 2 **3.00**  ·  Ibrahima Ba - 2 **2.25**  ·  Goncalo Inacio - 2 **2.50**  ·  Luis Suarez - 3 **1.28**  ·  Fotis Ioannidis - 3 **1.22**  ·  Rodrigo Zalazar - 3 **1.17**  ·  Rodrigo Dias - 3 **7.00**  ·  Issa Doumbia - 3 **1.83**  ·  Rafael Nel - 3 **1.40**  ·  Flavio Goncalves - 3 **1.67**  ·  Geny Catamo - 3 **1.73**  ·  Jesse Derry - 3 **1.67**  ·  Luis Guilherme Lira - 3 **2.10**  ·  Maximiliano Araujo - 3 **2.62**  ·  Miguel Gomes dos Nuno Santos - 3 **2.20**  ·  Pedro Lima - 3 **2.10**  ·  Sergi Altimira - 3 **3.75**  ·  Silas Andersen - 3 **2.75**  ·  Zeno Debast - 3 **7.00**  ·  Ivan Fresneda - 3 **6.00**  ·  Sotiris Alexandropoulos - 3 **6.00**  ·  Eduardo Felicissimo - 3 **7.00**  ·  Georgios Vagiannidis - 3 **7.00**  ·  Eduardo Quaresma - 3 **7.00**  ·  Ibrahima Ba - 3 **5.00**  ·  Goncalo Inacio - 3 **6.00**  ·  Luis Suarez - 4 **1.73**  ·  Fotis Ioannidis - 4 **1.53**  ·  Rodrigo Zalazar - 4 **1.40**  ·  Rodrigo Dias - 4 **19.00**  ·  Issa Doumbia - 4 **3.00**  ·  Rafael Nel - 4 **1.91**  ·  Flavio Goncalves - 4 **2.62**  ·  Geny Catamo - 4 **2.75**  ·  Jesse Derry - 4 **2.62**  ·  Luis Guilherme Lira - 4 **3.50**  ·  Maximiliano Araujo - 4 **5.00**  ·  Miguel Gomes dos Nuno Santos - 4 **3.75**  ·  Pedro Lima - 4 **3.75**  ·  Sergi Altimira - 4 **9.00**  ·  Silas Andersen - 4 **5.50**  ·  Zeno Debast - 4 **19.00**  ·  Ivan Fresneda - 4 **15.00**  ·  Sotiris Alexandropoulos - 4 **15.00**  ·  Eduardo Felicissimo - 4 **19.00**  ·  Georgios Vagiannidis - 4 **19.00**  ·  Eduardo Quaresma - 4 **19.00**  ·  Ibrahima Ba - 4 **13.00**  ·  Goncalo Inacio - 4 **15.00**  ·  Luis Suarez - 5 **2.50**  ·  Fotis Ioannidis - 5 **2.10**  ·  Rodrigo Zalazar - 5 **1.83**  ·  Issa Doumbia - 5 **5.50**  ·  Rafael Nel - 5 **3.00**  ·  Flavio Goncalves - 5 **4.33**  ·  Geny Catamo - 5 **5.00**  ·  Jesse Derry - 5 **4.33**  ·  Luis Guilherme Lira - 5 **7.00**  ·  Maximiliano Araujo - 5 **11.00**  ·  Miguel Gomes dos Nuno Santos - 5 **8.00**  ·  Pedro Lima - 5 **8.00**  ·  Sergi Altimira - 5 **19.00**  ·  Silas Andersen - 5 **11.00**  ·  Luis Suarez - 6 **4.00**  ·  Fotis Ioannidis - 6 **3.40**  ·  Rodrigo Zalazar - 6 **2.75**  ·  Issa Doumbia - 6 **11.00**  ·  Rafael Nel - 6 **5.00**  ·  Flavio Goncalves - 6 **9.00**  ·  Geny Catamo - 6 **10.00**  ·  Jesse Derry - 6 **9.00**  ·  Luis Guilherme Lira - 6 **15.00**  ·  Maximiliano Araujo - 6 **21.00**  ·  Miguel Gomes dos Nuno Santos - 6 **15.00**  ·  Pedro Lima - 6 **15.00**  ·  Luis Suarez - 7 **7.00**  ·  Fotis Ioannidis - 7 **5.50**  ·  Rodrigo Zalazar - 7 **4.33**  ·  Issa Doumbia - 7 **21.00**  ·  Rafael Nel - 7 **10.00**  ·  Flavio Goncalves - 7 **17.00**  ·  Geny Catamo - 7 **19.00**  ·  Jesse Derry - 7 **17.00**  ·  Luis Guilherme Lira - 7 **21.00**  ·  Miguel Gomes dos Nuno Santos - 7 **21.00**  ·  Luis Suarez - 8 **13.00**  ·  Fotis Ioannidis - 8 **10.00**  ·  Rodrigo Zalazar - 8 **7.00**  ·  Rafael Nel - 8 **17.00**  ·  Luis Suarez - 9 **21.00**  ·  Fotis Ioannidis - 9 **17.00**  ·  Rodrigo Zalazar - 9 **13.00**  ·  Fotis Ioannidis - 10 **21.00**  ·  Rodrigo Zalazar - 10 **21.00**  ·  Luis Suarez - 1 **1.01**  ·  Moncef Zekri - 1 **1.62**  ·  Moncef Zekri - 2 **3.75**  ·  Moncef Zekri - 3 **11.00**  ·  Nestory Irankunda - 1 **1.02**  ·  Nestory Irankunda - 2 **1.14**  ·  Nestory Irankunda - 3 **1.44**  ·  Nestory Irankunda - 4 **2.00**  ·  Nestory Irankunda - 5 **3.40**  ·  Ibrahima Ba - 5 **21.00**  ·  Nestory Irankunda - 6 **5.50**  ·  Silas Andersen - 6 **21.00**  ·  Nestory Irankunda - 7 **11.00**  ·  Pedro Lima - 7 **21.00**  ·  Jesse Derry - 8 **21.00**  ·  Nestory Irankunda - 8 **19.00**  ·  Flavio Goncalves - 8 **21.00**  ·  Rafael Nel - 9 **21.00**  ·  Joao Simoes - 1 **1.14**  ·  Salvador Blopa - 1 **1.33**  ·  Joao Simoes - 2 **1.67**  ·  Salvador Blopa - 2 **2.38**  ·  Joao Simoes - 3 **3.00**  ·  Salvador Blopa - 3 **5.50**  ·  Joao Simoes - 4 **6.00**  ·  Salvador Blopa - 4 **13.00**  ·  Joao Simoes - 5 **13.00**  ·  Moncef Zekri - 4 **21.00**  ·  Salvador Blopa - 5 **21.00**  ·  Joao Simoes - 6 **21.00**
+- **Anytime Goal Scorer:** Luis Guilherme Lira **4.00**  ·  Domingos Kaly **21.00**  ·  Zeno Debast **8.50**  ·  Moncef Zekri **8.50**  ·  Luis Suarez **1.91**  ·  Georgios Vagiannidis **7.00**  ·  Alassana Jatta **4.50**  ·  Goncalo Inacio **8.50**  ·  Maximiliano Araujo **4.50**  ·  Claudio Mendes **6.00**  ·  Evans Maurin **6.00**  ·  Benjamin Pauwels **6.50**  ·  Lima Kaique Rocha **17.00**  ·  Albino Sousa **17.00**  ·  Sotiris Alexandropoulos **6.50**  ·  Fotis Ioannidis **2.20**  ·  Issa Doumbia **3.60**  ·  Salvador Blopa **6.00**  ·  Flavio Goncalves **2.75**  ·  Silas Andersen **5.00**  ·  Rodrigo Dias **7.00**  ·  Rafael Nel **2.20**  ·  Joao Rego **7.00**  ·  Abdu Conte **17.00**  ·  Miguel Gomes dos Nuno Santos **3.60**  ·  Geny Catamo **3.60**  ·  Joao Simoes **4.50**  ·  Ivan Fresneda **6.50**  ·  Eduardo Quaresma **8.50**  ·  Pedro Rosas **17.00**  ·  Jesse Derry **2.75**  ·  Rodrigo Zalazar **2.20**  ·  Abdu Dafe **8.50**  ·  Pedro Lima **3.60**  ·  Henrique Araujo **5.00**  ·  Lawrence Ofori **13.00**  ·  Sebastian Perez **17.00**  ·  Diogo Rochinha **7.00**  ·  Ibrahima Ba **7.00**  ·  Barros Andre Geraldes **21.00**  ·  Joao Goulart **21.00**  ·  Felipe Silva **21.00**  ·  Gabi Pereira **8.50**  ·  Aymen Zouin **6.50**  ·  Sergi Altimira **6.00**  ·  Nestory Irankunda **2.30**  ·  Selvi Clua **13.00**  ·  Eduardo Felicissimo **7.00**  ·  Kevin Prieto **8.00**  ·  Korede Osundina **8.00**  ·  Cassiano Dias **4.50**  ·  JP Morais **13.00**
+- **Player to Score or Assist:** Luis Guilherme Lira **2.38**  ·  Domingos Kaly **15.00**  ·  Zeno Debast **4.33**  ·  Moncef Zekri **5.00**  ·  Luis Suarez **1.57**  ·  Georgios Vagiannidis **3.20**  ·  Alassana Jatta **3.40**  ·  Goncalo Inacio **4.00**  ·  Maximiliano Araujo **2.38**  ·  Claudio Mendes **4.00**  ·  Evans Maurin **4.50**  ·  Benjamin Pauwels **4.00**  ·  Lima Kaique Rocha **11.00**  ·  Albino Sousa **12.00**  ·  Sotiris Alexandropoulos **3.40**  ·  Fotis Ioannidis **1.57**  ·  Issa Doumbia **2.75**  ·  Salvador Blopa **3.00**  ·  Flavio Goncalves **1.73**  ·  Silas Andersen **3.10**  ·  Rodrigo Dias **2.50**  ·  Rafael Nel **1.67**  ·  Joao Rego **4.33**  ·  Abdu Conte **7.00**  ·  Miguel Gomes dos Nuno Santos **2.00**  ·  Geny Catamo **1.91**  ·  Joao Simoes **2.50**  ·  Ivan Fresneda **3.60**  ·  Eduardo Quaresma **4.33**  ·  Pedro Rosas **8.00**  ·  Jesse Derry **2.20**  ·  Rodrigo Zalazar **1.57**  ·  Abdu Dafe **4.75**  ·  Pedro Lima **2.10**  ·  Henrique Araujo **3.75**  ·  Lawrence Ofori **7.50**  ·  Sebastian Perez **12.00**  ·  Diogo Rochinha **4.33**  ·  Ibrahima Ba **4.50**  ·  Barros Andre Geraldes **10.00**  ·  Joao Goulart **13.00**  ·  Felipe Silva **13.00**  ·  Gabi Pereira **5.50**  ·  Aymen Zouin **3.75**  ·  Sergi Altimira **2.88**  ·  Nestory Irankunda **1.62**  ·  Selvi Clua **9.50**  ·  Eduardo Felicissimo **3.00**  ·  Kevin Prieto **4.33**  ·  Korede Osundina **4.33**  ·  Cassiano Dias **3.60**  ·  JP Morais **5.50**
 
 ## Estadísticas de equipo
 | | Casa Pia (total) | Casa Pia en casa | Sporting CP (total) | Sporting CP fuera |
@@ -141,4 +183,37 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,78 · visitante 1,92 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 64% | 74% | 69% | 1.27 | -13% |
+| 1X2: X | 21% | 17% | 19% | 5.50 | +5% |
+| 1X2: 1 | 15% | 9% | 12% | 10.00 | +20% |
+| Doble oportunidad: X2 | 85% | 90% | 88% | 1.06 | -7% |
+| Doble oportunidad: 12 | 79% | 84% | 81% | 1.14 | -7% |
+| Doble oportunidad: 1X | 36% | 26% | 31% | 3.75 | +15% |
+| Ambos marcan: No | 54% | 53% | 54% | 1.75 | -6% |
+| Ambos marcan: Sí | 46% | 47% | 46% | 2.00 | -7% |
+| Goles más/menos: Más de 2.5 | 51% | 60% | 55% | 1.57 | -13% |
+| Goles más/menos: Más de 3.5 | 29% | 39% | 34% | 2.38 | -19% |
+| Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -23% |
+| Goles más/menos: Menos de 2.5 | 49% | 40% | 45% | 2.35 | +5% |
+| Goles más/menos: Menos de 3.5 | 71% | 61% | 66% | 1.53 | +1% |
+| Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
+| Goles del local: Más de 0.5 | 54% | 51% | 53% | 1.80 | -5% |
+| Goles del local: Menos de 0.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Goles del visitante: Más de 1.5 | 57% | 72% | 65% | 1.30 | -16% |
+| Goles del visitante: Más de 2.5 | 30% | 49% | 39% | 1.91 | -25% |
+| Goles del visitante: Más de 3.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles del visitante: Menos de 1.5 | 43% | 28% | 35% | 3.40 | +20% |
+| Goles del visitante: Menos de 2.5 | 70% | 51% | 61% | 1.80 | +9% |
+| Goles del visitante: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
+| 1X2 descanso: 2 | 45% | 56% | 51% | 1.67 | -16% |
+| 1X2 descanso: X | 40% | 34% | 37% | 2.75 | +2% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

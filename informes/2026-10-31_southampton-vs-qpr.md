@@ -1,10 +1,10 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 07:52_
+_Actualizadas: 27/10 13:52_
 
 - **1X2:** 1 **1.73**  ·  X **3.90**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **2.05**
@@ -16,9 +16,10 @@ _Actualizadas: 26/10 07:52_
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.11** · menos **6.50**
     - 1,5: más **1.57** · menos **2.25**
@@ -209,10 +210,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 50% | 38% | 44% | 2.50 | +10% |
 | Goles más/menos: Menos de 3.5 | 72% | 59% | 65% | 1.62 | +6% |
 | Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 42% | 37% | 2.20 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 58% | 63% | 1.62 | +1% |
 | Goles del local: Más de 1.5 | 42% | 59% | 50% | 1.57 | -21% |
 | Goles del local: Más de 2.5 | 17% | 34% | 26% | 2.75 | -30% |
 | Goles del local: Menos de 1.5 | 58% | 41% | 50% | 2.25 | +12% |

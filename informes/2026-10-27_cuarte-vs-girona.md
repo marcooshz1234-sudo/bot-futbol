@@ -1,47 +1,47 @@
 # Cuarte – Girona
 **Copa del Rey** · Round of 128 · 27/10/2026 18:30 (hora España) · Estadio Municipal Juan Guerrero El Lobo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:48_
+_Actualizadas: 27/10 13:50_
 
-- **1X2:** 1 **13.00**  ·  X **6.00**  ·  2 **1.14**
-- **Doble oportunidad:** 1X **5.00**  ·  12 **1.11**  ·  X2 **1.03**
+- **1X2:** 1 **15.00**  ·  X **7.00**  ·  2 **1.17**
+- **Doble oportunidad:** 1X **5.50**  ·  12 **1.10**  ·  X2 **1.02**
 - **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.35**
     - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **2.38** · menos **1.53**
-    - 1,5: más **10.00** · menos **1.06**
+    - 1,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.30** · menos **3.40**
+    - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.83** · menos **1.83**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **15.00**  ·  X **2.88**  ·  2 **1.50**
+- **1X2 descanso:** 1 **13.00**  ·  X **2.88**  ·  2 **1.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
 - **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
-- **To Win Either Half:** 1 **7.00**  ·  2 **1.10**
-- **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.73**
-- **Win Both Halves:** 1 **101.00**  ·  2 **2.20**
-- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **3.40**  ·  Home/No **23.00**  ·  Draw/No **13.00**  ·  Away/No **1.67**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **2.62**
+- **To Win Either Half:** 1 **6.50**  ·  2 **1.10**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **67.00**  ·  2 **2.20**
+- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **3.25**  ·  Home/No **23.00**  ·  Draw/No **15.00**  ·  Away/No **1.67**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Cuarte (total) | Cuarte en casa | Girona (total) | Girona fuera |

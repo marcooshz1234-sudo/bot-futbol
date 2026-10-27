@@ -1,10 +1,10 @@
 # Genoa – Juventus
 **Serie A** · Regular Season - 9 · 28/10/2026 20:45 (hora España) · Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **5.50**  ·  X **3.60**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.28**  ·  X2 **1.14**
@@ -59,7 +59,7 @@ _Actualizadas: 27/10 07:49_
 - **Total Shots:**
     - 25,5: más **1.83** · menos **1.83**
     - 26,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **4.00**  ·  X **17.00**  ·  2 **1.22**
+- **Shots.1x2:** 1 **4.75**  ·  X **17.00**  ·  2 **1.18**
 - **Home Player Shots On Target Total:** Cody Drameh - 1 **6.00**  ·  Robinho Junior - 1 **2.62**  ·  Robinho Junior - 2 **11.00**  ·  Lorenzo Colombo - 1 **2.00**  ·  Milutin Osmajic - 1 **2.00**  ·  Tommaso Baldanzi - 1 **2.10**  ·  Junior Messias - 1 **2.00**  ·  Mikael Egill Ellertsson - 1 **4.00**  ·  Hamed Traore - 1 **2.38**  ·  Alexsandro Amorim - 1 **6.00**  ·  Franz-Ethan Meichtry - 1 **3.00**  ·  Leo Ostigard - 1 **3.40**  ·  Samuel Wiafe - 1 **2.75**  ·  Djibril Sow - 1 **3.75**  ·  David Puczka - 1 **6.00**  ·  Morten Frendrup - 1 **4.50**  ·  Johan Vasquez - 1 **6.00**  ·  Sebastian Otoa - 1 **7.00**  ·  Stefano Sabelli - 1 **7.00**  ·  Alessandro Marcandalli - 1 **11.00**  ·  Mamedi Doucoure - 1 **11.00**  ·  Mario Mitaj - 1 **5.00**  ·  Marcelo Vaz - 1 **6.00**  ·  Lorenzo Colombo - 2 **6.50**  ·  Milutin Osmajic - 2 **6.50**  ·  Tommaso Baldanzi - 2 **7.00**  ·  Junior Messias - 2 **6.50**  ·  Mikael Egill Ellertsson - 2 **21.00**  ·  Hamed Traore - 2 **9.00**  ·  Alexsandro Amorim - 2 **19.00**  ·  Franz-Ethan Meichtry - 2 **15.00**  ·  Leo Ostigard - 2 **17.00**  ·  Samuel Wiafe - 2 **13.00**  ·  Djibril Sow - 2 **21.00**  ·  David Puczka - 2 **21.00**  ·  Morten Frendrup - 2 **21.00**  ·  Lorenzo Colombo - 3 **21.00**  ·  Milutin Osmajic - 3 **21.00**  ·  Tommaso Baldanzi - 3 **21.00**  ·  Junior Messias - 3 **21.00**  ·  Stephan El Shaarawy - 1 **1.91**  ·  Kingsley Ehizibue - 1 **6.00**  ·  Stephan El Shaarawy - 2 **6.00**  ·  Stephan El Shaarawy - 3 **21.00**  ·  Gael Lafont - 1 **4.00**  ·  Lukas Klisys - 1 **10.00**  ·  Gael Lafont - 2 **21.00**  ·  Vitinha Oliveira - 1 **1.73**  ·  Vitinha Oliveira - 2 **4.50**  ·  Vitinha Oliveira - 3 **17.00**
 - **Away Player Shots On Target Total:** Edon Zhegrova **34.00**  ·  Randal Kolo Muani **13.00**  ·  Leo Ostigard **19.00**  ·  Mikael Egill Ellertsson **67.00**  ·  Mario Mitaj **51.00**  ·  Jhon Lucumi **15.00**  ·  Sebastian Otoa **21.00**  ·  Hamed Traore **81.00**  ·  Bremer **19.00**  ·  Milutin Osmajic **21.00**  ·  Zeki Celik **67.00**  ·  Robinho Junior **67.00**  ·  Alexsandro Amorim **81.00**  ·  Jeremie Boga **23.00**  ·  Cody Drameh **51.00**  ·  Nicolas Gonzalez **12.00**  ·  Douglas Luiz **34.00**  ·  Daniele Rugani **21.00**  ·  Johan Vasquez **21.00**  ·  Samuel Wiafe **29.00**  ·  Mamedi Doucoure **34.00**  ·  Gael Lafont **67.00**  ·  Lukas Klisys **34.00**  ·  David Puczka **67.00**  ·  Franz-Ethan Meichtry **67.00**  ·  Marcelo Vaz **67.00**  ·  Kerim Alajbegovic **17.00**  ·  Lloyd Kelly **29.00**  ·  Pape Sarr **29.00**  ·  Nick Woltemade **6.00**  ·  Stephan El Shaarawy **51.00**  ·  Tommaso Baldanzi **51.00**  ·  Djibril Sow **23.00**  ·  Lorenzo Colombo **19.00**  ·  Andrea Cambiaso **81.00**  ·  Federico Gatti **15.00**  ·  Juan Cabal **34.00**  ·  Teun Koopmeiners **51.00**  ·  Weston McKennie **8.00**  ·  Francisco Conceicao **29.00**  ·  Pierre Kalulu Kyatengwa **23.00**  ·  Alessandro Marcandalli **26.00**  ·  Morten Frendrup **81.00**  ·  Stefano Sabelli **151.00**  ·  Junior Messias **23.00**  ·  Vitinha **17.00**  ·  Kingsley Ehizibue **101.00**  ·  Augusto Owusu **19.00**
 - **Away Player Shots Total:**

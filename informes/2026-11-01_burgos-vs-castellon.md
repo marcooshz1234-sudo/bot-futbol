@@ -1,10 +1,59 @@
 # Burgos – Castellón
 **Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 27/10 13:52_
+
+- **1X2:** 1 **3.00**  ·  X **3.30**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9: más **1.88** · menos **1.92**
+    - 9,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.20**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.50**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **10.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
+- **Home Player Shots On Target Total:** Unai Vencedor - 1 **3.25**  ·  Unai Vencedor - 2 **17.00**  ·  Jon Karrikaburu - 1 **1.50**  ·  Jon Karrikaburu - 2 **3.40**  ·  Jon Karrikaburu - 3 **10.00**  ·  Jon Karrikaburu - 4 **21.00**  ·  David Gonzalez - 1 **1.50**  ·  Francisco Curro - 1 **1.50**  ·  Alex Fores - 1 **1.53**  ·  Kevin Appin - 1 **2.62**  ·  Santiago Lencina - 1 **2.50**  ·  Alberto Dadie - 1 **2.10**  ·  Fermin Garcia - 1 **2.62**  ·  Marcelo Exposito - 1 **2.62**  ·  Pablo Galdames - 1 **2.75**  ·  Javi Llabres - 1 **1.83**  ·  Mario Cantero - 1 **3.25**  ·  Saul del Cerro - 1 **3.25**  ·  Alex Lizancos - 1 **3.50**  ·  Sergio Gonzalez - 1 **3.40**  ·  Ignasi Vilarrasa - 1 **5.00**  ·  Jose Gragera - 1 **3.75**  ·  Brais Martinez - 1 **5.00**  ·  Oier Luengo - 1 **5.00**  ·  Gregorio Sierra - 1 **5.50**  ·  David Gonzalez - 2 **3.50**  ·  Francisco Curro - 2 **3.40**  ·  Alex Fores - 2 **3.50**  ·  Kevin Appin - 2 **11.00**  ·  Santiago Lencina - 2 **10.00**  ·  Alberto Dadie - 2 **7.00**  ·  Fermin Garcia - 2 **11.00**  ·  Marcelo Exposito - 2 **11.00**  ·  Pablo Galdames - 2 **13.00**  ·  Javi Llabres - 2 **5.50**  ·  Mario Cantero - 2 **15.00**  ·  Saul del Cerro - 2 **15.00**  ·  Alex Lizancos - 2 **19.00**  ·  Sergio Gonzalez - 2 **17.00**  ·  Ignasi Vilarrasa - 2 **17.00**  ·  Jose Gragera - 2 **19.00**  ·  David Gonzalez - 3 **10.00**  ·  Francisco Curro - 3 **10.00**  ·  Alex Fores - 3 **11.00**  ·  Alberto Dadie - 3 **21.00**  ·  Javi Llabres - 3 **19.00**  ·  David Gonzalez - 4 **21.00**  ·  Francisco Curro - 4 **21.00**  ·  Alex Fores - 4 **21.00**  ·  Irian Ribas - 1 **1.67**  ·  Ivan Martinez - 1 **3.75**  ·  Irian Ribas - 2 **4.33**  ·  Ivan Martinez - 2 **19.00**  ·  Irian Ribas - 3 **13.00**  ·  David Hernaiz - 1 **3.75**  ·  David Hernaiz - 2 **21.00**
+- **Home Player Shots:** Unai Vencedor - 1 **1.57**  ·  Unai Vencedor - 2 **3.50**  ·  Unai Vencedor - 3 **10.00**  ·  Unai Vencedor - 4 **21.00**  ·  Jon Karrikaburu - 1 **1.05**  ·  Jon Karrikaburu - 2 **1.28**  ·  Jon Karrikaburu - 3 **1.83**  ·  Jon Karrikaburu - 4 **3.00**  ·  Jon Karrikaburu - 5 **5.50**  ·  Jon Karrikaburu - 6 **11.00**  ·  Jon Karrikaburu - 7 **21.00**  ·  David Gonzalez - 1 **1.03**  ·  Francisco Curro - 1 **1.05**  ·  Alex Fores - 1 **1.06**  ·  Kevin Appin - 1 **1.33**  ·  Santiago Lencina - 1 **1.33**  ·  Alberto Dadie - 1 **1.20**  ·  Fermin Garcia - 1 **1.40**  ·  Marcelo Exposito - 1 **1.40**  ·  Pablo Galdames - 1 **1.36**  ·  Javi Llabres - 1 **1.12**  ·  Mario Cantero - 1 **1.53**  ·  Saul del Cerro - 1 **1.53**  ·  Alex Lizancos - 1 **1.53**  ·  Sergio Gonzalez - 1 **1.53**  ·  Ignasi Vilarrasa - 1 **1.80**  ·  Jose Gragera - 1 **1.80**  ·  Brais Martinez - 1 **2.00**  ·  Oier Luengo - 1 **2.00**  ·  Gregorio Sierra - 1 **2.38**  ·  David Gonzalez - 2 **1.18**  ·  Francisco Curro - 2 **1.28**  ·  Alex Fores - 2 **1.33**  ·  Kevin Appin - 2 **2.38**  ·  Santiago Lencina - 2 **2.38**  ·  Alberto Dadie - 2 **1.83**  ·  Fermin Garcia - 2 **2.62**  ·  Marcelo Exposito - 2 **2.62**  ·  Pablo Galdames - 2 **2.50**  ·  Javi Llabres - 2 **1.62**  ·  Mario Cantero - 2 **3.40**  ·  Saul del Cerro - 2 **3.40**  ·  Alex Lizancos - 2 **3.40**  ·  Sergio Gonzalez - 2 **3.40**  ·  Ignasi Vilarrasa - 2 **4.50**  ·  Jose Gragera - 2 **4.33**  ·  Brais Martinez - 2 **6.00**  ·  Oier Luengo - 2 **6.00**  ·  Gregorio Sierra - 2 **8.00**  ·  David Gonzalez - 3 **1.57**  ·  Francisco Curro - 3 **1.80**  ·  Alex Fores - 3 **1.91**  ·  Kevin Appin - 3 **5.50**  ·  Santiago Lencina - 3 **5.50**  ·  Alberto Dadie - 3 **3.75**  ·  Fermin Garcia - 3 **6.00**  ·  Marcelo Exposito - 3 **6.00**  ·  Pablo Galdames - 3 **5.50**  ·  Javi Llabres - 3 **2.75**  ·  Mario Cantero - 3 **9.00**  ·  Saul del Cerro - 3 **9.00**  ·  Alex Lizancos - 3 **9.00**  ·  Sergio Gonzalez - 3 **9.00**  ·  Ignasi Vilarrasa - 3 **13.00**  ·  Jose Gragera - 3 **13.00**  ·  Brais Martinez - 3 **19.00**  ·  Oier Luengo - 3 **19.00**  ·  Gregorio Sierra - 3 **21.00**  ·  David Gonzalez - 4 **2.25**  ·  Francisco Curro - 4 **2.75**  ·  Alex Fores - 4 **3.40**  ·  Kevin Appin - 4 **13.00**  ·  Santiago Lencina - 4 **13.00**  ·  Alberto Dadie - 4 **8.00**  ·  Fermin Garcia - 4 **15.00**  ·  Marcelo Exposito - 4 **15.00**  ·  Pablo Galdames - 4 **15.00**  ·  Javi Llabres - 4 **5.50**  ·  Mario Cantero - 4 **21.00**  ·  Saul del Cerro - 4 **21.00**  ·  Alex Lizancos - 4 **21.00**  ·  Sergio Gonzalez - 4 **21.00**  ·  Ignasi Vilarrasa - 4 **19.00**  ·  David Gonzalez - 5 **3.75**  ·  Francisco Curro - 5 **5.00**  ·  Alex Fores - 5 **6.00**  ·  Kevin Appin - 5 **21.00**  ·  Santiago Lencina - 5 **21.00**  ·  Alberto Dadie - 5 **17.00**  ·  Fermin Garcia - 5 **21.00**  ·  Marcelo Exposito - 5 **21.00**  ·  Pablo Galdames - 5 **21.00**  ·  Javi Llabres - 5 **11.00**  ·  David Gonzalez - 6 **7.00**  ·  Francisco Curro - 6 **10.00**  ·  Alex Fores - 6 **13.00**  ·  David Gonzalez - 7 **13.00**  ·  Francisco Curro - 7 **19.00**  ·  Alex Fores - 7 **21.00**  ·  David Gonzalez - 8 **21.00**  ·  Javi Llabres - 6 **21.00**  ·  Irian Ribas - 1 **1.08**  ·  Ivan Martinez - 1 **1.73**  ·  Irian Ribas - 2 **1.44**  ·  Ivan Martinez - 2 **4.33**  ·  Irian Ribas - 3 **2.25**  ·  Ivan Martinez - 3 **13.00**  ·  Irian Ribas - 4 **4.00**  ·  Irian Ribas - 5 **8.00**  ·  Ivan Martinez - 4 **21.00**  ·  Irian Ribas - 6 **17.00**  ·  David Hernaiz - 1 **1.83**  ·  David Hernaiz - 2 **5.00**  ·  David Hernaiz - 3 **15.00**
+- **Away Player Shots:** Ousmane Camara - 1 **1.03**  ·  Ousmane Camara - 2 **1.20**  ·  Ousmane Camara - 3 **1.62**  ·  Alvaro Garcia - 1 **1.05**  ·  Alvaro Garcia - 2 **1.30**  ·  Alvaro Garcia - 3 **1.83**  ·  Alvaro Garcia - 4 **3.00**  ·  Alvaro Garcia - 5 **5.50**  ·  Adam Jakobsen - 1 **1.03**  ·  David Nzanza - 1 **1.04**  ·  Israel Suero - 1 **1.05**  ·  Inigo Cordoba - 1 **1.05**  ·  Raul Sanchez - 1 **1.05**  ·  Pablo Santiago Lopez - 1 **1.10**  ·  Alvaro Martin - 1 **1.10**  ·  Rodrigo Rego - 1 **1.33**  ·  Fran Castillo - 1 **1.33**  ·  Antonio Gala - 1 **1.40**  ·  Hamza Bellari - 1 **1.40**  ·  Jari Vlak - 1 **1.33**  ·  Diego Barri - 1 **1.57**  ·  Jeremy Mellot - 1 **1.62**  ·  Alberto Jimenez - 1 **2.00**  ·  Juanjo Nieto - 1 **2.00**  ·  Ilias Kostis - 1 **1.83**  ·  Lucas Alcazar - 1 **1.83**  ·  Tincho Conde - 1 **1.83**  ·  Agustin Sienra - 1 **2.10**  ·  Michal Willmann - 1 **2.25**  ·  Adam Jakobsen - 2 **1.20**  ·  David Nzanza - 2 **1.22**  ·  Israel Suero - 2 **1.28**  ·  Inigo Cordoba - 2 **1.28**  ·  Raul Sanchez - 2 **1.30**  ·  Pablo Santiago Lopez - 2 **1.44**  ·  Alvaro Martin - 2 **1.50**  ·  Rodrigo Rego - 2 **2.38**  ·  Fran Castillo - 2 **2.38**  ·  Antonio Gala - 2 **2.62**  ·  Hamza Bellari - 2 **2.62**  ·  Jari Vlak - 2 **2.38**  ·  Diego Barri - 2 **3.50**  ·  Jeremy Mellot - 2 **3.75**  ·  Alberto Jimenez - 2 **5.50**  ·  Juanjo Nieto - 2 **6.00**  ·  Ilias Kostis - 2 **5.00**  ·  Lucas Alcazar - 2 **5.00**  ·  Tincho Conde - 2 **5.00**  ·  Agustin Sienra - 2 **6.50**  ·  Michal Willmann - 2 **8.00**  ·  Adam Jakobsen - 3 **1.62**  ·  David Nzanza - 3 **1.67**  ·  Israel Suero - 3 **1.80**  ·  Inigo Cordoba - 3 **1.80**  ·  Raul Sanchez - 3 **1.83**  ·  Pablo Santiago Lopez - 3 **2.25**  ·  Alvaro Martin - 3 **2.38**  ·  Rodrigo Rego - 3 **5.00**  ·  Fran Castillo - 3 **5.50**  ·  Antonio Gala - 3 **6.00**  ·  Hamza Bellari - 3 **6.00**  ·  Jari Vlak - 3 **5.50**  ·  Diego Barri - 3 **10.00**  ·  Jeremy Mellot - 3 **10.00**  ·  Alberto Jimenez - 3 **17.00**  ·  Juanjo Nieto - 3 **19.00**  ·  Ilias Kostis - 3 **15.00**  ·  Lucas Alcazar - 3 **15.00**  ·  Tincho Conde - 3 **15.00**  ·  Agustin Sienra - 3 **21.00**  ·  Michal Willmann - 3 **21.00**  ·  Adam Jakobsen - 4 **2.50**  ·  David Nzanza - 4 **2.62**  ·  Ousmane Camara - 4 **2.50**  ·  Israel Suero - 4 **3.00**  ·  Inigo Cordoba - 4 **3.00**  ·  Raul Sanchez - 4 **3.00**  ·  Pablo Santiago Lopez - 4 **4.00**  ·  Alvaro Martin - 4 **4.33**  ·  Rodrigo Rego - 4 **13.00**  ·  Fran Castillo - 4 **13.00**  ·  Antonio Gala - 4 **15.00**  ·  Hamza Bellari - 4 **15.00**  ·  Jari Vlak - 4 **13.00**  ·  Diego Barri - 4 **21.00**  ·  Jeremy Mellot - 4 **21.00**  ·  Adam Jakobsen - 5 **4.00**  ·  David Nzanza - 5 **4.50**  ·  Ousmane Camara - 5 **4.00**  ·  Israel Suero - 5 **5.50**  ·  Inigo Cordoba - 5 **5.50**  ·  Raul Sanchez - 5 **5.50**  ·  Pablo Santiago Lopez - 5 **9.00**  ·  Alvaro Martin - 5 **9.00**  ·  Rodrigo Rego - 5 **21.00**  ·  Fran Castillo - 5 **21.00**  ·  Jari Vlak - 5 **21.00**  ·  Adam Jakobsen - 6 **8.00**  ·  David Nzanza - 6 **9.00**  ·  Ousmane Camara - 6 **8.00**  ·  Israel Suero - 6 **10.00**  ·  Alvaro Garcia - 6 **11.00**  ·  Inigo Cordoba - 6 **11.00**  ·  Raul Sanchez - 6 **11.00**  ·  Pablo Santiago Lopez - 6 **17.00**  ·  Alvaro Martin - 6 **19.00**  ·  Adam Jakobsen - 7 **15.00**  ·  David Nzanza - 7 **17.00**  ·  Ousmane Camara - 7 **15.00**  ·  Israel Suero - 7 **19.00**  ·  Alvaro Garcia - 7 **21.00**  ·  Inigo Cordoba - 7 **19.00**  ·  Raul Sanchez - 7 **21.00**  ·  Adam Jakobsen - 8 **21.00**  ·  Ousmane Camara - 8 **21.00**  ·  Matias Orozco - 1 **1.40**  ·  Matias Orozco - 2 **2.62**  ·  Matias Orozco - 3 **6.00**  ·  Matias Orozco - 4 **15.00**  ·  Federico Ceccherini - 1 **2.25**  ·  Federico Ceccherini - 2 **8.00**  ·  Federico Ceccherini - 3 **21.00**  ·  Axel Perez - 1 **1.05**  ·  Miguel Ferrer - 1 **1.05**  ·  Oscar Albiol - 1 **1.05**  ·  Axel Perez - 2 **1.28**  ·  Miguel Ferrer - 2 **1.28**  ·  Oscar Albiol - 2 **1.28**  ·  Axel Perez - 3 **1.80**  ·  Miguel Ferrer - 3 **1.83**  ·  Oscar Albiol - 3 **1.80**  ·  Axel Perez - 4 **2.75**  ·  Miguel Ferrer - 4 **3.00**  ·  Oscar Albiol - 4 **2.75**  ·  Axel Perez - 5 **5.00**  ·  Miguel Ferrer - 5 **5.50**  ·  Oscar Albiol - 5 **5.00**  ·  Axel Perez - 6 **10.00**  ·  Miguel Ferrer - 6 **11.00**  ·  Oscar Albiol - 6 **10.00**  ·  Axel Perez - 7 **19.00**  ·  Miguel Ferrer - 7 **21.00**  ·  Oscar Albiol - 7 **19.00**
+- **Anytime Goal Scorer:** Axel Perez **3.00**  ·  Hamza Bellari **6.50**  ·  Raul Sanchez **3.10**  ·  Israel Suero **3.00**  ·  Alberto Jimenez **13.00**  ·  Jari Vlak **6.00**  ·  Brais Martinez **15.00**  ·  Jeremy Mellot **11.00**  ·  Sergio Gonzalez **10.00**  ·  Ignasi Vilarrasa **13.00**  ·  Oier Luengo **15.00**  ·  Jon Karrikaburu **3.10**  ·  Unai Vencedor **8.00**  ·  Francisco Curro **4.00**  ·  Alberto Dadie **5.00**  ·  David Gonzalez **3.50**  ·  Inigo Cordoba **4.33**  ·  Kevin Appin **6.50**  ·  Marcelo Exposito **6.50**  ·  Saul del Cerro **7.50**  ·  Matias Orozco **6.50**  ·  Alvaro Martin **4.75**  ·  Alex Lizancos **9.00**  ·  Pablo Santiago Lopez **3.75**  ·  Diego Barri **8.00**  ·  Michal Willmann **13.00**  ·  Tincho Conde **11.00**  ·  Pablo Galdames **7.50**  ·  Fermin Garcia **6.50**  ·  Miguel Ferrer **3.10**  ·  Santiago Lencina **6.50**  ·  Ousmane Camara **2.60**  ·  Federico Ceccherini **13.00**  ·  Alvaro Garcia **3.10**  ·  Javi Llabres **5.00**  ·  Jose Gragera **10.00**  ·  Adam Jakobsen **2.60**  ·  Victor Mollejo **5.00**  ·  Irian Ribas **3.75**  ·  Rodrigo Rego **6.00**  ·  Ivan Martinez **10.00**  ·  Juanjo Nieto **13.00**  ·  Antonio Gala **6.50**  ·  David Nzanza **2.75**  ·  Fran Castillo **6.00**  ·  David Hernaiz **11.00**  ·  Oscar Albiol **3.00**  ·  Ilias Kostis **11.00**  ·  Mario Cantero **7.50**  ·  Lucas Alcazar **11.00**  ·  Agustin Sienra **15.00**  ·  Gregorio Sierra **15.00**  ·  Alex Fores **3.25**
+- **Player to Score or Assist:** Axel Perez **2.10**  ·  Hamza Bellari **3.25**  ·  Raul Sanchez **2.50**  ·  Israel Suero **2.10**  ·  Alberto Jimenez **7.00**  ·  Jari Vlak **3.25**  ·  Brais Martinez **5.00**  ·  Jeremy Mellot **4.33**  ·  Sergio Gonzalez **5.00**  ·  Ignasi Vilarrasa **4.75**  ·  Oier Luengo **11.00**  ·  Jon Karrikaburu **2.30**  ·  Unai Vencedor **4.75**  ·  Francisco Curro **2.62**  ·  Alberto Dadie **2.88**  ·  David Gonzalez **2.25**  ·  Inigo Cordoba **2.00**  ·  Kevin Appin **4.00**  ·  Marcelo Exposito **3.40**  ·  Saul del Cerro **4.33**  ·  Matias Orozco **4.00**  ·  Alvaro Martin **2.60**  ·  Alex Lizancos **4.33**  ·  Pablo Santiago Lopez **2.40**  ·  Diego Barri **4.00**  ·  Michal Willmann **4.50**  ·  Tincho Conde **4.00**  ·  Pablo Galdames **3.40**  ·  Fermin Garcia **3.40**  ·  Miguel Ferrer **2.40**  ·  Santiago Lencina **4.00**  ·  Ousmane Camara **2.00**  ·  Federico Ceccherini **9.00**  ·  Alvaro Garcia **2.40**  ·  Javi Llabres **3.25**  ·  Jose Gragera **4.75**  ·  Adam Jakobsen **2.00**  ·  Victor Mollejo **2.75**  ·  Irian Ribas **2.40**  ·  Rodrigo Rego **3.20**  ·  Ivan Martinez **6.50**  ·  Juanjo Nieto **5.00**  ·  Antonio Gala **2.88**  ·  David Nzanza **2.10**  ·  Fran Castillo **3.25**  ·  David Hernaiz **4.50**  ·  Oscar Albiol **2.10**  ·  Ilias Kostis **6.50**  ·  Mario Cantero **4.33**  ·  Lucas Alcazar **4.33**  ·  Agustin Sienra **7.50**  ·  Gregorio Sierra **8.00**  ·  Alex Fores **2.62**
 
 ## Estadísticas de equipo
 | | Burgos (total) | Burgos en casa | Castellón (total) | Castellón fuera |
@@ -139,4 +188,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,94 · visitante 1,56 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 52% | 41% | 46% | 2.25 | +4% |
+| 1X2: X | 25% | 28% | 27% | 3.30 | -12% |
+| 1X2: 1 | 23% | 31% | 27% | 3.00 | -20% |
+| Doble oportunidad: X2 | 77% | 70% | 74% | 1.36 | +0% |
+| Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 48% | 59% | 53% | 1.62 | -13% |
+| Ambos marcan: No | 52% | 46% | 49% | 2.00 | -2% |
+| Ambos marcan: Sí | 48% | 54% | 51% | 1.73 | -12% |
+| Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -7% |
+| Goles más/menos: Más de 2.5 | 46% | 49% | 47% | 1.95 | -8% |
+| Goles más/menos: Más de 3.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles más/menos: Menos de 2.5 | 54% | 51% | 53% | 1.85 | -2% |
+| Goles más/menos: Menos de 3.5 | 76% | 72% | 74% | 1.30 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -4% |
+| Goles del local: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del local: Más de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
+| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del local: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del visitante: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 46% | 42% | 44% | 2.20 | -2% |
+| Goles del visitante: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles del visitante: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -10% |
+| Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
+| Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
+| 1X2 descanso: 2 | 37% | 32% | 35% | 2.88 | -1% |
+| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
+| 1X2 descanso: 1 | 19% | 26% | 23% | 3.60 | -19% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

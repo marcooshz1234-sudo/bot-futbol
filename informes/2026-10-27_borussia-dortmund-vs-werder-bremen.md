@@ -1,14 +1,14 @@
 # Borussia Dortmund – Werder Bremen
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
-- **1X2:** 1 **1.40**  ·  X **4.50**  ·  2 **7.00**
+- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.75**
-- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.48** · menos **2.60**
@@ -20,7 +20,7 @@ _Actualizadas: 27/10 07:49_
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.36** · menos **3.00**
@@ -28,30 +28,30 @@ _Actualizadas: 27/10 07:49_
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.75**  ·  2 **6.50**
+    - 10,5: más **2.00** · menos **1.80**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.20**  ·  2 **3.40**
-- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **6.00**
-- **Win Both Halves:** 1 **3.00**  ·  2 **26.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **19.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.40**
+- **To Win Either Half:** 1 **1.22**  ·  2 **3.40**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **6.00**
+- **Win Both Halves:** 1 **3.25**  ·  2 **26.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.75**  ·  Draw/No **21.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.50**
 - **Home Corners Over/Under:**
     - 6,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.02**  ·  Menos de 5 **1.78**
-- **Anytime Goal Scorer:** Arthur Augusto **15.00**  ·  Enzo Duarte **2.88**  ·  Cedric Itten **4.00**  ·  Kaua Prates **7.00**  ·  Daniel Svensson **7.00**  ·  Marco Grull **5.00**  ·  Mathis Albert **2.50**  ·  Samuele Inacio **2.88**  ·  Salim Musah **4.00**  ·  Jobe Bellingham **4.00**  ·  Kouakou Gadou **7.00**  ·  Konstantinos Karetsas **2.88**  ·  Filippo Mane **7.50**  ·  Justin Njinmah **5.00**  ·  Moussa N'Diaye **15.00**  ·  Niclas Fullkrug **3.50**  ·  Eren Dinkci **6.50**  ·  Youri Regeer **15.00**  ·  Joey Veerman **3.75**  ·  Ludovit Reis **10.00**  ·  Kenny Quetant **4.00**  ·  Luca Reggiani **7.00**  ·  Mats Heitmann **15.00**  ·  Oskar Wojcik **15.00**  ·  Darwin Soylu **6.50**  ·  Paul Erevbenagie **6.50**  ·  Ivan Chuki **5.00**  ·  Carney Chukwuemeka **3.75**  ·  Fabio Silva **2.25**  ·  Ethan Nwaneri **2.50**  ·  Amos Pieper **15.00**  ·  Felix Agu **15.00**  ·  Jens Stage **7.00**  ·  Marco Friedl **23.00**  ·  Mitchell Weiser **10.00**  ·  Olivier Deman **15.00**  ·  Felix Nmecha **3.20**  ·  Julian Ryerson **6.00**  ·  Marcel Sabitzer **4.50**  ·  Maximilian Beier **2.25**  ·  Nico Schlotterbeck **6.00**  ·  Ramy Bensebaini **6.00**  ·  Serhou Guirassy **1.67**  ·  Waldemar Anton **7.50**  ·  Niklas Stark **15.00**  ·  Senne Lynen **12.00**  ·  Mick Schmetgens **15.00**  ·  Dariusz Stalmach **7.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
+- **Anytime Goal Scorer:** Arthur Augusto **15.00**  ·  Enzo Duarte **2.88**  ·  Cedric Itten **4.00**  ·  Kaua Prates **7.00**  ·  Daniel Svensson **7.00**  ·  Marco Grull **4.50**  ·  Mathis Albert **2.62**  ·  Samuele Inacio **2.88**  ·  Salim Musah **4.00**  ·  Jobe Bellingham **4.00**  ·  Kouakou Gadou **7.00**  ·  Konstantinos Karetsas **2.88**  ·  Filippo Mane **8.50**  ·  Justin Njinmah **5.00**  ·  Moussa N'Diaye **15.00**  ·  Niclas Fullkrug **3.50**  ·  Eren Dinkci **6.50**  ·  Youri Regeer **15.00**  ·  Joey Veerman **3.75**  ·  Ludovit Reis **8.50**  ·  Kenny Quetant **4.00**  ·  Luca Reggiani **7.00**  ·  Mats Heitmann **15.00**  ·  Oskar Wojcik **15.00**  ·  Darwin Soylu **6.50**  ·  Paul Erevbenagie **6.50**  ·  Ivan Chuki **5.00**  ·  Carney Chukwuemeka **3.75**  ·  Fabio Silva **2.25**  ·  Ethan Nwaneri **2.62**  ·  Amos Pieper **15.00**  ·  Felix Agu **15.00**  ·  Jens Stage **7.00**  ·  Marco Friedl **19.00**  ·  Mitchell Weiser **10.00**  ·  Olivier Deman **15.00**  ·  Felix Nmecha **3.50**  ·  Julian Ryerson **5.50**  ·  Marcel Sabitzer **4.50**  ·  Maximilian Beier **2.25**  ·  Nico Schlotterbeck **5.50**  ·  Ramy Bensebaini **5.50**  ·  Serhou Guirassy **1.67**  ·  Waldemar Anton **8.50**  ·  Niklas Stark **15.00**  ·  Senne Lynen **10.00**  ·  Mick Schmetgens **15.00**  ·  Dariusz Stalmach **7.50**
 
 ## Estadísticas de equipo
 | | Borussia Dortmund (total) | Borussia Dortmund en casa | Werder Bremen (total) | Werder Bremen fuera |
@@ -190,14 +190,14 @@ _Goles esperados: local 1,71 · visitante 0,99 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 13% | 17% | 7.00 | +22% |
-| 1X2: X | 24% | 21% | 22% | 4.50 | +0% |
-| 1X2: 1 | 54% | 66% | 60% | 1.40 | -16% |
+| 1X2: 2 | 22% | 13% | 18% | 7.00 | +23% |
+| 1X2: X | 24% | 21% | 22% | 4.50 | +1% |
+| 1X2: 1 | 54% | 66% | 60% | 1.42 | -15% |
 | Doble oportunidad: X2 | 46% | 34% | 40% | 2.75 | +10% |
 | Doble oportunidad: 12 | 76% | 80% | 78% | 1.18 | -8% |
 | Doble oportunidad: 1X | 78% | 86% | 82% | 1.10 | -10% |
-| Ambos marcan: No | 49% | 45% | 47% | 2.05 | -4% |
-| Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
+| Ambos marcan: No | 49% | 44% | 46% | 2.10 | -3% |
+| Ambos marcan: Sí | 51% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 2.5 | 51% | 64% | 57% | 1.48 | -15% |
 | Goles más/menos: Más de 3.5 | 29% | 44% | 36% | 2.10 | -23% |
 | Goles más/menos: Más de 4.5 | 14% | 27% | 20% | 3.50 | -29% |
@@ -216,13 +216,13 @@ _Goles esperados: local 1,71 · visitante 0,99 · córners esperados 10,0._
 | Goles del local: Menos de 1.5 ✅ | 49% | 31% | 40% | 3.00 | +20% |
 | Goles del local: Menos de 2.5 | 75% | 56% | 66% | 1.67 | +9% |
 | Goles del local: Menos de 3.5 | 90% | 75% | 83% | 1.25 | +3% |
-| Goles del visitante: Más de 0.5 | 63% | 59% | 61% | 1.57 | -4% |
-| Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles del visitante: Menos de 0.5 | 37% | 41% | 39% | 2.25 | -12% |
-| Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -1% |
+| Goles del visitante: Más de 0.5 | 63% | 62% | 63% | 1.50 | -6% |
+| Goles del visitante: Más de 1.5 | 26% | 27% | 26% | 3.50 | -8% |
+| Goles del visitante: Menos de 0.5 | 37% | 38% | 37% | 2.50 | -7% |
+| Goles del visitante: Menos de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Córners más/menos: Más de 10.5 | 41% | 47% | 44% | 2.00 | -11% |
+| Córners más/menos: Menos de 10.5 | 59% | 53% | 56% | 1.80 | +0% |
 | 1X2 descanso: X | 42% | 34% | 38% | 2.75 | +4% |
-| 1X2 descanso: 1 | 39% | 52% | 45% | 1.80 | -18% |
+| 1X2 descanso: 1 | 39% | 51% | 45% | 1.83 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,20 +1,20 @@
 # Lecce – Genoa
 **Serie A** · Regular Season - 10 · 01/11/2026 18:00 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 07:52_
+_Actualizadas: 27/10 13:52_
 
 - **1X2:** 1 **2.62**  ·  X **3.10**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.36**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **7.50**
+    - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.44** · menos **2.75**
-    - 2,5: más **2.30** · menos **1.62**
-    - 3,5: más **4.33** · menos **1.22**
-    - 4,5: más **9.00** · menos **1.07**
+    - 2,5: más **2.38** · menos **1.57**
+    - 3,5: más **4.50** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
@@ -27,6 +27,8 @@ _Actualizadas: 26/10 07:52_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.00**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.30** · menos **3.40**
@@ -39,6 +41,11 @@ _Actualizadas: 26/10 07:52_
 - **Win Both Halves:** 1 **10.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **7.50**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.00**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
 - **Home Player Shots On Target Total:** Nikola Stulic - 1 **1.44**  ·  Francisco Paco Esteban - 1 **1.57**  ·  Santiago Pierotti - 1 **1.44**  ·  Willem Geubbels - 1 **1.62**  ·  Medon Berisha - 1 **1.53**  ·  Omri Gandelman - 1 **1.53**  ·  Konan N'Dri - 1 **1.73**  ·  Youssef Maleh - 1 **2.50**  ·  Lassana Coulibaly - 1 **3.40**  ·  Mohamed Kaba - 1 **3.25**  ·  Olaf Gorter - 1 **3.25**  ·  Sadik Fofana - 1 **3.50**  ·  Oumar Ngom - 1 **3.50**  ·  Kialonda Gaspar - 1 **4.00**  ·  Corrie Ndaba - 1 **3.75**  ·  Danilo Veiga - 1 **5.00**  ·  Oliveira Tiago Gabriel - 1 **5.50**  ·  Antonino Gallo - 1 **4.50**  ·  Gaby Jean - 1 **5.50**  ·  Jamil Siebert - 1 **5.50**  ·  Nikola Stulic - 2 **3.25**  ·  Francisco Paco Esteban - 2 **3.75**  ·  Santiago Pierotti - 2 **3.25**  ·  Willem Geubbels - 2 **4.00**  ·  Medon Berisha - 2 **3.75**  ·  Omri Gandelman - 2 **3.50**  ·  Konan N'Dri - 2 **4.50**  ·  Youssef Maleh - 2 **10.00**  ·  Lassana Coulibaly - 2 **17.00**  ·  Mohamed Kaba - 2 **15.00**  ·  Olaf Gorter - 2 **15.00**  ·  Sadik Fofana - 2 **19.00**  ·  Oumar Ngom - 2 **19.00**  ·  Kialonda Gaspar - 2 **21.00**  ·  Corrie Ndaba - 2 **21.00**  ·  Antonino Gallo - 2 **21.00**  ·  Nikola Stulic - 3 **9.00**  ·  Francisco Paco Esteban - 3 **11.00**  ·  Santiago Pierotti - 3 **9.00**  ·  Willem Geubbels - 3 **13.00**  ·  Medon Berisha - 3 **11.00**  ·  Omri Gandelman - 3 **11.00**  ·  Konan N'Dri - 3 **17.00**  ·  Nikola Stulic - 4 **21.00**  ·  Santiago Pierotti - 4 **21.00**  ·  Ivan Ilic - 1 **3.25**  ·  Ali Dembele - 1 **3.75**  ·  Ivan Ilic - 2 **15.00**  ·  Ali Dembele - 2 **21.00**  ·  Amar Ahmed Fatah - 1 **1.67**  ·  Elijah Scott - 1 **3.75**  ·  Amar Ahmed Fatah - 2 **4.33**  ·  Elijah Scott - 2 **21.00**  ·  Amar Ahmed Fatah - 3 **13.00**  ·  Joel Monteiro - 1 **1.83**  ·  Joel Monteiro - 2 **5.50**  ·  Joel Monteiro - 3 **19.00**
 - **Away Player Shots On Target Total:** Omri Gandelman **12.00**  ·  Joel Monteiro **34.00**  ·  Leo Ostigard **15.00**  ·  Mikael Egill Ellertsson **51.00**  ·  Mario Mitaj **41.00**  ·  Sebastian Otoa **17.00**  ·  Hamed Traore **51.00**  ·  Milutin Osmajic **17.00**  ·  Robinho Junior **51.00**  ·  Oumar Ngom **41.00**  ·  Alexsandro Amorim **51.00**  ·  Olaf Gorter **41.00**  ·  Cody Drameh **41.00**  ·  Nikola Stulic **12.00**  ·  Konan N'dri **34.00**  ·  Ali Dembele **81.00**  ·  Corrie Ndaba **51.00**  ·  Johan Vasquez **21.00**  ·  Samuel Wiafe **23.00**  ·  Mamedi Doucoure **29.00**  ·  Jamil Siebert **19.00**  ·  Danilo Veiga **67.00**  ·  Oliveira Tiago Gabriel **19.00**  ·  Willem Geubbels **15.00**  ·  David Puczka **51.00**  ·  Franz-Ethan Meichtry **51.00**  ·  Marcelo Vaz **51.00**  ·  Amar Ahmed Fatah **34.00**  ·  Stephan El Shaarawy **41.00**  ·  Tommaso Baldanzi **41.00**  ·  Djibril Sow **21.00**  ·  Lorenzo Colombo **15.00**  ·  Youssef Maleh **19.00**  ·  Ivan Ilic **51.00**  ·  Alessandro Marcandalli **23.00**  ·  Morten Frendrup **67.00**  ·  Stefano Sabelli **101.00**  ·  Junior Messias **19.00**  ·  Vitinha **12.00**  ·  Antonino Gallo **81.00**  ·  Gaby Jean **21.00**  ·  Kingsley Ehizibue **81.00**  ·  Lassana Coulibaly **29.00**  ·  Santiago Pierotti **17.00**  ·  Kialonda Gaspar **15.00**  ·  Medon Berisha **34.00**  ·  Mohamed Kaba **67.00**
 - **Home Player Shots:** Nikola Stulic - 1 **1.03**  ·  Francisco Paco Esteban - 1 **1.07**  ·  Santiago Pierotti - 1 **1.04**  ·  Willem Geubbels - 1 **1.08**  ·  Medon Berisha - 1 **1.05**  ·  Omri Gandelman - 1 **1.06**  ·  Konan N'Dri - 1 **1.06**  ·  Youssef Maleh - 1 **1.22**  ·  Lassana Coulibaly - 1 **1.57**  ·  Mohamed Kaba - 1 **1.40**  ·  Olaf Gorter - 1 **1.50**  ·  Sadik Fofana - 1 **1.57**  ·  Oumar Ngom - 1 **1.67**  ·  Kialonda Gaspar - 1 **1.67**  ·  Corrie Ndaba - 1 **1.83**  ·  Danilo Veiga - 1 **2.00**  ·  Oliveira Tiago Gabriel - 1 **2.38**  ·  Antonino Gallo - 1 **2.10**  ·  Gaby Jean - 1 **2.38**  ·  Jamil Siebert - 1 **2.38**  ·  Nikola Stulic - 2 **1.20**  ·  Francisco Paco Esteban - 2 **1.36**  ·  Santiago Pierotti - 2 **1.25**  ·  Willem Geubbels - 2 **1.40**  ·  Medon Berisha - 2 **1.25**  ·  Omri Gandelman - 2 **1.33**  ·  Konan N'Dri - 2 **1.33**  ·  Youssef Maleh - 2 **1.91**  ·  Lassana Coulibaly - 2 **3.50**  ·  Mohamed Kaba - 2 **2.75**  ·  Olaf Gorter - 2 **3.40**  ·  Sadik Fofana - 2 **3.50**  ·  Oumar Ngom - 2 **4.00**  ·  Kialonda Gaspar - 2 **4.00**  ·  Corrie Ndaba - 2 **5.00**  ·  Danilo Veiga - 2 **6.00**  ·  Oliveira Tiago Gabriel - 2 **8.00**  ·  Antonino Gallo - 2 **6.50**  ·  Gaby Jean - 2 **8.00**  ·  Jamil Siebert - 2 **8.00**  ·  Nikola Stulic - 3 **1.57**  ·  Francisco Paco Esteban - 3 **2.00**  ·  Santiago Pierotti - 3 **1.73**  ·  Willem Geubbels - 3 **2.20**  ·  Medon Berisha - 3 **1.73**  ·  Omri Gandelman - 3 **1.91**  ·  Konan N'Dri - 3 **1.91**  ·  Youssef Maleh - 3 **3.75**  ·  Lassana Coulibaly - 3 **10.00**  ·  Mohamed Kaba - 3 **7.00**  ·  Olaf Gorter - 3 **9.00**  ·  Sadik Fofana - 3 **10.00**  ·  Oumar Ngom - 3 **11.00**  ·  Kialonda Gaspar - 3 **11.00**  ·  Danilo Veiga - 3 **19.00**  ·  Oliveira Tiago Gabriel - 3 **21.00**  ·  Nikola Stulic - 4 **2.38**  ·  Francisco Paco Esteban - 4 **3.50**  ·  Santiago Pierotti - 4 **2.75**  ·  Willem Geubbels - 4 **3.75**  ·  Medon Berisha - 4 **2.75**  ·  Omri Gandelman - 4 **3.25**  ·  Konan N'Dri - 4 **3.40**  ·  Youssef Maleh - 4 **9.00**  ·  Lassana Coulibaly - 4 **21.00**  ·  Nikola Stulic - 5 **4.00**  ·  Francisco Paco Esteban - 5 **7.00**  ·  Santiago Pierotti - 5 **5.00**  ·  Willem Geubbels - 5 **8.00**  ·  Medon Berisha - 5 **5.00**  ·  Omri Gandelman - 5 **6.00**  ·  Ivan Ilic - 1 **1.50**  ·  Ali Dembele - 1 **1.83**  ·  Ivan Ilic - 2 **3.40**  ·  Ali Dembele - 2 **5.00**  ·  Ivan Ilic - 3 **9.00**  ·  Ali Dembele - 3 **15.00**  ·  Ivan Ilic - 4 **21.00**  ·  Corrie Ndaba - 3 **15.00**  ·  Nikola Stulic - 6 **8.00**  ·  Francisco Paco Esteban - 6 **15.00**  ·  Jamil Siebert - 3 **21.00**  ·  Gaby Jean - 3 **21.00**  ·  Antonino Gallo - 3 **19.00**  ·  Mohamed Kaba - 4 **17.00**  ·  Olaf Gorter - 4 **21.00**  ·  Sadik Fofana - 4 **21.00**  ·  Youssef Maleh - 5 **19.00**  ·  Konan N'Dri - 5 **6.50**  ·  Santiago Pierotti - 6 **10.00**  ·  Amar Ahmed Fatah - 1 **1.08**  ·  Elijah Scott - 1 **1.83**  ·  Amar Ahmed Fatah - 2 **1.44**  ·  Elijah Scott - 2 **5.00**  ·  Amar Ahmed Fatah - 3 **2.25**  ·  Elijah Scott - 3 **15.00**  ·  Amar Ahmed Fatah - 4 **4.00**  ·  Amar Ahmed Fatah - 5 **8.00**  ·  Medon Berisha - 6 **10.00**  ·  Amar Ahmed Fatah - 6 **17.00**  ·  Omri Gandelman - 6 **13.00**  ·  Willem Geubbels - 6 **17.00**  ·  Nikola Stulic - 7 **15.00**  ·  Joel Monteiro - 1 **1.14**  ·  Joel Monteiro - 2 **1.62**  ·  Joel Monteiro - 3 **2.75**  ·  Joel Monteiro - 4 **5.50**  ·  Joel Monteiro - 5 **13.00**  ·  Joel Monteiro - 6 **21.00**  ·  Konan N'Dri - 6 **13.00**  ·  Santiago Pierotti - 7 **19.00**  ·  Medon Berisha - 7 **19.00**  ·  Francisco Paco Esteban - 7 **21.00**  ·  Konan N'Dri - 7 **21.00**  ·  Omri Gandelman - 7 **21.00**  ·  Nikola Stulic - 8 **21.00**
@@ -192,11 +199,11 @@ _Goles esperados: local 1,22 · visitante 1,11 · córners esperados 9,3._
 | Ambos marcan: No | 53% | 52% | 52% | 1.80 | -6% |
 | Ambos marcan: Sí | 47% | 48% | 48% | 1.95 | -7% |
 | Goles más/menos: Más de 1.5 | 67% | 66% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 41% | 41% | 41% | 2.30 | -5% |
-| Goles más/menos: Más de 3.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles más/menos: Más de 2.5 | 41% | 40% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles más/menos: Menos de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles más/menos: Menos de 2.5 | 59% | 59% | 59% | 1.62 | -5% |
-| Goles más/menos: Menos de 3.5 | 79% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Menos de 2.5 | 59% | 60% | 60% | 1.57 | -6% |
+| Goles más/menos: Menos de 3.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 62% | 63% | 1.50 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 28% | 27% | 3.40 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
@@ -209,6 +216,8 @@ _Goles esperados: local 1,22 · visitante 1,11 · córners esperados 9,3._
 | Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.85 | -4% |
+| Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.95 | -6% |
 | 1X2 descanso: 2 | 25% | 27% | 26% | 3.40 | -11% |
 | 1X2 descanso: X | 46% | 46% | 46% | 2.00 | -8% |
 | 1X2 descanso: 1 | 28% | 27% | 28% | 3.40 | -6% |

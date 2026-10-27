@@ -1,17 +1,17 @@
 # Borussia Mönchengladbach – Karlsruher SC
 **DFB-Pokal** · Round of 32 · 27/10/2026 20:45 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
-- **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **7.50**
+- **1X2:** 1 **1.33**  ·  X **5.00**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **2.88**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**
@@ -32,20 +32,20 @@ _Actualizadas: 27/10 07:49_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.75**  ·  2 **6.50**
+    - 9,5: más **1.80** · menos **2.00**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.88**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.20**  ·  2 **3.40**
-- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **6.00**
-- **Win Both Halves:** 1 **3.00**  ·  2 **26.00**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.50**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **6.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.62**  ·  Draw/No **21.00**  ·  Away/No **17.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.75**
 - **Home Corners Over/Under:**
     - 5,5: más **1.67** · menos **2.10**
     - 6,5: más **2.10** · menos **1.67**

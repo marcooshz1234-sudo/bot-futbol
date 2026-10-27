@@ -1,14 +1,14 @@
 # Kloetinge – Cambuur
 **KNVB Beker** · Round of 64 · 27/10/2026 20:00 (hora España) · Sportpark Wesselopark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:49_
+_Actualizadas: 27/10 13:51_
 
 - **1X2:** 1 **9.50**  ·  X **6.50**  ·  2 **1.22**
-- **Doble oportunidad:** 1X **3.75**  ·  12 **1.11**  ·  X2 **1.07**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.07**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**
     - 2,5: más **1.28** · menos **3.60**
@@ -18,22 +18,22 @@ _Actualizadas: 27/10 07:49_
     - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10: más **1.88** · menos **1.92**
     - 10,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **8.50**  ·  X **3.20**  ·  2 **1.53**
+- **1X2 descanso:** 1 **8.00**  ·  X **3.20**  ·  2 **1.57**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
-- **To Win Either Half:** 1 **4.33**  ·  2 **1.11**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **To Win Either Half:** 1 **4.00**  ·  2 **1.12**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.57**
-- **Win Both Halves:** 1 **41.00**  ·  2 **2.25**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.38**
 - **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.25**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.50**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.75**  ·  Menos de 4.5 **2.05**
 

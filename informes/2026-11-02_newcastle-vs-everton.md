@@ -1,7 +1,7 @@
 # Newcastle – Everton
 **Premier League** · Regular Season - 9 · 02/11/2026 21:00 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 07:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 13:53._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
