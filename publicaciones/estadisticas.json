@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 16:42",
+ "actualizado": "2026-10-27 18:46",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -11,13 +11,13 @@
    ]
   },
   "threads": {
-   "seguidores": 964,
-   "hoy": 26,
+   "seguidores": 963,
+   "hoy": 25,
    "serie": [
     836,
     930,
     938,
-    964
+    963
    ]
   },
   "facebook": {
@@ -31,22 +31,22 @@
    ]
   },
   "telegram": {
-   "seguidores": 74,
-   "hoy": 5,
+   "seguidores": 76,
+   "hoy": 7,
    "serie": [
     75,
     72,
     71,
     69,
-    74
+    76
    ]
   }
  },
- "total": 1057,
- "total_hoy": 31,
+ "total": 1058,
+ "total_hoy": 32,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:40",
+  "hora": "19:30",
   "dia": "2026-10-27",
   "titulo": "Combi locas  serie a"
  },
@@ -84,14 +84,14 @@
   },
   "2026-10-27": {
    "instagram": 19,
-   "threads": 964,
+   "threads": 963,
    "facebook": 0,
-   "telegram": 74
+   "telegram": 76
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 8,
+   "posts": 10,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -131,7 +131,7 @@
    "comentarios_media": 0.0
   },
   "Picks": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -161,7 +161,7 @@
    "comentarios_media": 0.0
   },
   "Combi segura (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
