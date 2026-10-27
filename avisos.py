@@ -62,6 +62,22 @@ def main():
             if k not in hecho:
                 avisos.append((k, f"⚠️ Fallo publicando en {red}:\n{p['texto'].splitlines()[0][:50]}\n{str(e)[:200]}"))
 
+    # 27/10 (Marcos): a las 10:00, las 2 combis «Crear apuesta» del día para que las monte en bet365
+    k = f"boletos-{ahora:%Y-%m-%d}"
+    if ahora.hour >= 10 and k not in hecho:
+        try:
+            import combis_dia
+            bs = combis_dia.boletos(f"{ahora:%Y-%m-%d}", desde=f"{ahora:%Y-%m-%d}T12:00")
+            (DATOS / "boletos.json").write_text(json.dumps({"dia": f"{ahora:%Y-%m-%d}", "boletos": bs},
+                                                           ensure_ascii=False, default=str), encoding="utf-8")
+            for i, b in enumerate(bs, 1):
+                avisos.append((f"{k}-{i}", combis_dia.texto_boleto(b, i)
+                               + "\n\n📲 Móntala en bet365 y mándame la captura aquí: recorto el dinero y te pregunto antes de subirla."))
+            if not bs:
+                avisos.append((k, "🎟️ Hoy no hay partidos suficientes para la combi «Crear apuesta»."))
+            hecho.add(k)
+        except Exception as e:
+            print("boletos:", e)
     if not ESTADO.exists():   # primera vez: no se avisa de lo viejo
         hecho |= {k for k, _ in avisos}
         avisos = []

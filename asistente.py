@@ -16,6 +16,8 @@ Además:
   - 60 min antes de cada post automático te llega el borrador con
     [✅ Vale] [✏️ Cambiar] [❌ Cancelar]. Si no contestas, sale tal cual.
   - Si le mandas un texto o una foto con texto, te pregunta si lo sube ya.
+  - Si le mandas la captura de un boleto de bet365 → «🎟️ Es un boleto»: recorta el importe y las
+    ganancias, te enseña cómo queda, te pide la cuota y, si dices que sí, sale en Telegram y Threads.
   - /editar → últimos posts publicados para cambiar su texto en el canal.
 
 Lo que decides se guarda en publicaciones/control.json (el Publicador lo lee).
@@ -157,6 +159,7 @@ class Asistente:
         self.duenio = next(a["user"]["id"] for a in admins if a["status"] == "creator")
         self.esperando = None       # ("cambiar", id) / ("editar", mensaje_id, es_foto)
         self.borrador = None        # texto/foto recibidos pendientes de "¿lo subo?"
+        self.boleto = None          # captura de bet365 ya recortada: {"id", "foto", "texto"}
         api(token, "setMyCommands", {"commands": [
             {"command": "hoy", "description": "Lo programado hoy en el canal"},
             {"command": "picks", "description": "Picks de hoy"},
@@ -372,9 +375,49 @@ class Asistente:
             return self.enviar(borrar_en_todas(self.t, self.canal, p))
         if accion == "ok_no":
             return self.enviar("👍 No se borra nada.")
+        if accion == "boleto" and self.borrador and self.borrador.get("foto"):
+            return self.recortar_boleto()
+        if accion == "boleto_ok" and self.boleto and self.boleto.get("texto"):
+            return self.subir_boleto()
         if accion == "descartar":
-            self.borrador = None
+            self.borrador = self.boleto = None
             return self.enviar("🗑️ Descartado.")
+
+    # ---------------------------------------------------------------- boletos de bet365
+    def recortar_boleto(self):
+        from urllib.request import urlopen
+        import boleto_foto
+        info = api(self.t, "getFile", {"file_id": self.borrador["foto"]})["result"]
+        origen = RAIZ / "publicaciones" / "fotos" / "_boleto_original.jpg"
+        origen.parent.mkdir(parents=True, exist_ok=True)
+        origen.write_bytes(urlopen(f"https://api.telegram.org/file/bot{self.t}/{info['file_path']}", timeout=60).read())
+        pid = f"{datetime.now(MADRID):%Y-%m-%d}-boleto-{datetime.now(MADRID):%H%M%S}"
+        destino = RAIZ / "publicaciones" / "fotos" / f"{pid}.jpg"
+        try:
+            boleto_foto.recortar(origen, destino)
+        except Exception as e:
+            return self.enviar(f"⚠️ No he podido recortarla: {e}")
+        finally:
+            origen.unlink(missing_ok=True)
+        self.boleto, self.borrador = {"id": pid, "foto": destino}, None
+        api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": "✂️ Así queda recortada (sin importe ni ganancias)."},
+            archivo=destino)
+        self.esperando = ("cuota_boleto",)
+        return self.enviar("¿Qué cuota total pone? (por ejemplo 33,75)")
+
+    def subir_boleto(self):
+        import shutil
+        b, self.boleto = self.boleto, None
+        media = RAIZ / "publicaciones" / "media"
+        media.mkdir(parents=True, exist_ok=True)
+        shutil.copy(b["foto"], media / f"{b['id']}.tarjeta.jpg")      # Threads la sube como imagen
+        cola = leer(COLA, [])
+        cola.append({"id": b["id"], "fecha": (datetime.now(MADRID) + timedelta(minutes=1)).strftime("%Y-%m-%dT%H:%M"),
+                     "texto": b["texto"], "foto": str(b["foto"].relative_to(RAIZ)), "directo": True,
+                     "solo_en": ["threads"]})                     # Instagram no: sin boletos ni dinero
+        escribir(COLA, cola)
+        guardar(f"boleto {b['id']}")
+        return self.enviar("✅ En cola: sale en Telegram y Threads en un par de minutos.")
 
     # ---------------------------------------------------------------- mensajes
     def mensaje(self, m):
@@ -390,6 +433,17 @@ class Asistente:
                 escribir(CONTROL, c)
                 guardar(f"texto cambiado {datos[0]}")
                 return self.enviar("✅ Cambiado. Saldrá con tu texto.")
+            if tipo == "cuota_boleto":
+                import re
+                n = re.search(r"\d+(?:[.,]\d+)?", texto or "")
+                if not n or not self.boleto:
+                    self.esperando = ("cuota_boleto",)
+                    return self.enviar("Dime solo la cuota total, por ejemplo 33,75")
+                cuota = float(n.group().replace(",", "."))
+                self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
+                                        + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
+                return self.enviar(f"Así saldría en Telegram y Threads (con la foto recortada):\n\n{self.boleto['texto']}",
+                                   [[("✅ Subir", "boleto_ok"), ("🗑️ Descartar", "descartar")]])
             if tipo == "editar":
                 mid, es_foto = datos
                 metodo, campo = ("editMessageCaption", "caption") if es_foto else ("editMessageText", "text")
@@ -400,8 +454,10 @@ class Asistente:
             return self.enviar("Mándame un texto o una foto con texto y te pregunto si lo subo.")
         self.borrador = {"texto": texto, "foto": foto}
         vista = preparar_texto(texto) if texto else "(solo foto)"
-        return self.enviar(f"¿Lo subo así al canal?\n\n{vista}",
-                           [[("✅ Publicar ya", "subir"), ("🗑️ Descartar", "descartar")]])
+        botones = [[("✅ Publicar ya", "subir"), ("🗑️ Descartar", "descartar")]]
+        if foto:   # 27/10: captura de un boleto de bet365 → se recorta el dinero y va a Telegram y Threads
+            botones.insert(0, [("🎟️ Es un boleto de bet365 (recorto el dinero)", "boleto")])
+        return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones)
 
     # ---------------------------------------------------------------- bucle
     def escuchar(self):

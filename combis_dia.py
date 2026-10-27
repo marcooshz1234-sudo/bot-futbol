@@ -361,3 +361,87 @@ def del_dia(dia, hist=None, ap=None):
         r = mejor_combi(mejores, cfg["patas"], cfg["cuota"], una_por_partido=True)
         res[clave] = (r[1], r[2], hora) if r else None
     return res
+
+
+# ---------------------------------------------------------------- boletos «Crear apuesta» (27/10, Marcos)
+# Dos al día: 5–6 partidos, 2 patas de «Crear apuesta» por partido (~2,00 cada uno), total ~20–45.
+# Se los manda el bot por privado a las 10:00; él los monta en bet365 y manda la captura al asistente,
+# que recorta el dinero y la publica en Telegram y Threads cuando él dice que sí.
+BOLETO = {"pareja": (1.70, 2.30), "prob_min": 0.60, "partidos": (4, 6), "total": (20.0, 45.0), "n": 2}
+num = lambda x: f"{x:.2f}".replace(".", ",")
+
+
+def pareja_partido(pool, evitar=(), rango=None):
+    """Las 2 patas de un partido para «Crear apuesta»: precio real ~2, lo más probable posible."""
+    best = None
+    cand = [p for p in pool if p["prob_aprendida"] >= BOLETO["prob_min"] and not MAS_25.search(f"{p['mercado']}|{p['opcion']}")]
+    for a, b in itertools.combinations(cand[:25], 2):
+        if (a["mercado"], a["opcion"]) in evitar or (b["mercado"], b["opcion"]) in evitar:
+            continue
+        if familia(a) == familia(b) and familia(a) in ("goles", "resultado"):
+            continue
+        c = a["cuota"] * b["cuota"] * factor_crear([a, b])
+        lo, hi = rango or BOLETO["pareja"]
+        if not lo <= c <= hi or not coherente([a, b]):
+            continue
+        s = a["prob_aprendida"] * b["prob_aprendida"]
+        if not best or s > best[0]:
+            best = (s, [a, b], round(c, 2))
+    return best
+
+
+def boletos(dia, hist=None, ap=None, desde=None):
+    """[{'partidos': [(cabecera, [pata, pata], cuota)], 'cuota': total}] para el día."""
+    import picks as P
+    from bot import DATOS
+    from plantillas import grandeza
+    hist = hist if hist is not None else P.historial()
+    ap = ap if ap is not None else (leer(DATOS / "aprendizaje.json") or {})
+    filas = []
+    for f in EXTRA.glob("*.json"):
+        ex = leer(f) or {}
+        pa = ex.get("partido")
+        if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != dia:
+            continue
+        pool = pool_partido(ex, hist, ap)
+        if not pool or (desde and pool[0]["fecha"] < desde):
+            continue
+        r = pareja_partido(pool)
+        if r:
+            b = pool[0]
+            cab = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
+            filas.append((grandeza(cab), r[0], cab, r, pool))
+    filas.sort(key=lambda x: (-x[0], -x[1]))
+    salida, usados = [], set()
+    for _ in range(BOLETO["n"]):
+        libres = [x for x in filas if x[2]["partido_id"] not in usados]
+        if len(libres) < BOLETO["partidos"][0]:   # pocos partidos: el 2º repite partidos con otras patas
+            libres = list(libres)
+            for g, s, cab, r, pool in filas:
+                if cab["partido_id"] in usados:
+                    r2 = pareja_partido(pool, evitar={(p["mercado"], p["opcion"]) for p in r[1]}, rango=(1.55, 2.50))
+                    if r2:
+                        libres.append((g, r2[0], cab, r2, pool))
+        elegido, total = [], 1.0
+        for g, s, cab, r, pool in libres:
+            if len(elegido) >= BOLETO["partidos"][1] or (len(elegido) >= BOLETO["partidos"][0] and total >= BOLETO["total"][0]):
+                break
+            if total * r[2] > BOLETO["total"][1] and len(elegido) >= BOLETO["partidos"][0]:
+                continue
+            elegido.append((cab, r[1], r[2]))
+            total *= r[2]
+        if len(elegido) < BOLETO["partidos"][0]:
+            break
+        usados |= {cab["partido_id"] for cab, _, _ in elegido}
+        salida.append({"partidos": sorted(elegido, key=lambda x: x[0]["fecha"]), "cuota": round(total, 2)})
+    return salida
+
+
+def texto_boleto(b, n):
+    from plantillas import corto
+    lineas = [f"🎟️ COMBI CREAR APUESTA {n} · x{num(b['cuota'])}", ""]
+    for cab, patas, c in b["partidos"]:
+        lineas.append(f"⚽ {corto(cab['local'])} vs {corto(cab['visitante'])} · {cab['fecha'][11:16]} · x{num(c)}")
+        lineas += [f"   • {p['texto']} ({num(p['cuota'])})" for p in patas]
+        lineas.append("")
+    return "\n".join(lineas).strip()
