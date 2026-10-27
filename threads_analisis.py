@@ -9,6 +9,10 @@ from bot import DATOS
 from redes import THREADS, llamar
 
 tok = os.environ["THREADS_TOKEN"]
+# 27/10: también se lanza desde el bucle de publicación; como mucho una vez cada 6 h
+_previo = DATOS / "threads_analisis.json"
+if "--ya" not in __import__("sys").argv and _previo.exists() and time.time() - _previo.stat().st_mtime < 6 * 3600:
+    raise SystemExit(0)
 posts, url, params = [], f"{THREADS}/me/threads", {
     "fields": "id,text,timestamp,media_type,permalink,is_quote_post,topic_tag,shortcode",
     "limit": 100, "access_token": tok}

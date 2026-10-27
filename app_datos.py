@@ -127,6 +127,34 @@ def tipo_combi(c):
     return "otras", "📊 Otras combis"
 
 
+FORMATOS = [("⚽ Combi de partido", r"COMBI LOCAS|🆚| VS "), ("✅ Verdes", r"VERDE"), ("⚽ Quién gana", r"QUIÉN GANA"),
+            ("🔥 Picks / listas", r"PICKS|OPCIONES"), ("🪜 Escalera", r"ESCALERA"), ("🤪 La loca", r"\bLA LOCA\b|COMBI LOCA\b"),
+            ("🔥 Combis", r"COMBI\b|COMBINADA|COMBI DEL|COMBI X|\bX\d+[,.]\d+|CUOTA"), ("📊 Datos sin apuesta", r"RACHAS|SABÍAS|PICHICHIS|DATOS|PREVIA"),
+            ("📋 Balances", r"BALANCE|ASÍ FUE|PLENO")]
+
+
+def formatos_redes(ahora):
+    """27/10: qué formato se ve más en Threads (últimos 30 días), con las métricas de threads_analisis.py."""
+    import statistics as st
+    d = leer(DATOS / "threads_analisis.json", {}) or {}
+    desde = (ahora - timedelta(days=30)).strftime("%Y-%m-%d")
+    grupos = {}
+    for p in d.get("posts", []):
+        if p.get("timestamp", "")[:10] < desde or not p.get("text"):
+            continue
+        cab = p["text"].strip().splitlines()[0].upper()
+        nombre = next((n for n, rx in FORMATOS if re.search(rx, cab)), "📝 Otros")
+        m = p.get("metricas") or {}
+        grupos.setdefault(nombre, []).append((m.get("views", 0), m.get("likes", 0), m.get("replies", 0), cab[:60], p.get("permalink")))
+    filas = []
+    for nombre, l in grupos.items():
+        mejor = max(l)
+        filas.append({"formato": nombre, "posts": len(l), "vistas": int(st.median(x[0] for x in l)),
+                      "likes": st.median(x[1] for x in l), "respuestas": st.median(x[2] for x in l),
+                      "mejor": mejor[3], "mejor_vistas": mejor[0], "mejor_link": mejor[4]})
+    return sorted(filas, key=lambda f: -f["vistas"])
+
+
 def rentabilidad(resumenes):
     """27/10: cuántas sale de cada tipo de combi y lo que habría dado apostar 1 € a cada una."""
     tabla = {}
@@ -760,7 +788,7 @@ def main():
     resumenes = {k: resumenes[k] for k in sorted(resumenes)[-30:]}
     resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
-             "resumenes": resumenes, "rentabilidad": rentabilidad(resumenes),
+             "resumenes": resumenes, "rentabilidad": rentabilidad(resumenes), "formatos_redes": formatos_redes(ahora),
              "partidos": partidos, "dias": dias, "alertas": alertas[:10], "escalera": escalera,
              "valor": valor_es(), "clasificaciones": clasificaciones(),
              "patrones": patrones(hist, nombres), "aciertos": aciertos, "calendario": calendario,
