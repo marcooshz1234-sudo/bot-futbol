@@ -218,7 +218,9 @@ def pareja(a, b):
             return 0.80
         if fa == fb == "resultado":                      # o empate + gana alguna parte: casi lo mismo
             return 0.85
-        if "goles" in (fa, fb) and "resultado" not in (fa, fb):   # ese equipo marca + sus córners/tiros
+        if "goles" in (fa, fb) and (fa.startswith("jugador") or fb.startswith("jugador")):
+            return 0.90                                  # Monza marca + Varela 1+ a puerta: 2,26 → 2,05 en bet365
+        if "goles" in (fa, fb) and "resultado" not in (fa, fb):   # ese equipo marca + sus córners
             return 0.88
         if "corners" in (fa, fb) and (fa.startswith("jugador") or fb.startswith("jugador")):
             return 0.93
