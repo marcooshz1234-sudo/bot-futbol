@@ -47,6 +47,8 @@ def balance(posts, dia):
                 or 'picks-manana' in p['id'] or 'PARA MAÑANA' in t.upper()):
             continue
         for x in p.get('picks', []):
+            if x.get('exacto'):   # 27/10 (Marcos): los resultados exactos no cuentan en acertados/fallados
+                continue
             sel[f"{x.get('partido_id')}|{x.get('texto')}"] = x.get('estado')
     picks = {'verde': sum(e == 'verde' for e in sel.values()), 'rojo': sum(e == 'rojo' for e in sel.values()),
              'total': len(sel)}

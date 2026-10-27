@@ -806,7 +806,8 @@ def main():
             filas.append({"texto": l["texto"], "cuota": l["cuota"], "partido": l["partido"], "partido_id": l["partido_id"],
                           "estado": e, "definitivo": e in ("verde", "rojo"), "progreso": progreso(l["spec"], d),
                           "actualizado_iso": fecha_iso(vivo.get("visto")),
-                          "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado")})
+                          "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado"),
+                          "exacto": bool(l["spec"] and l["spec"].get("t") == "exacto")})   # 27/10: no cuenta en el marcador
         est = p.get("resultado") or ("verde" if all(x["estado"] == "verde" for x in filas) else
                "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
         lista = bool(re.search(r"QUIÉN GANA|RESULTADOS EXACTOS|PICKS PARA|OPCIONES|RACHAS|DATOS PARA", filas and p["texto"].splitlines()[0].upper() or ""))
