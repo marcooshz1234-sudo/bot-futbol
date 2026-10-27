@@ -691,7 +691,8 @@
       1.44,
       1.5
     ],
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-loca-datos",
@@ -718,7 +719,8 @@
       1.5,
       1.3
     ],
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-sassuolo-lazio",
@@ -751,7 +753,8 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-borussia-dortmund-werder-bremen",
@@ -784,7 +787,8 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-torino-como",
@@ -815,7 +819,8 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-as-roma-cagliari",
@@ -846,7 +851,8 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   },
   {
     "id": "2026-10-27-combi-fc-k-ln-union-berlin",
@@ -877,6 +883,7 @@
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16"
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true
   }
 ]
