@@ -81,12 +81,17 @@ def pool_partido(ex, hist, ap):
                      cuota=c, frecuencia=round(frec, 3), ventaja=round(frec - 1 / c, 3), detalle=det)
             pool.append(p)
     for p in P.picks_jugadores(ex, hist, base, frec_min=0.6):
-        if p.get("campo") in ("faltas_c", "amarillas"):
-            continue   # "X comete 1+ faltas" es relleno: en el histórico prometen 77 % y salen 66 %
+        if p.get("campo") == "amarillas":
+            continue
+        # 27/10 (Marcos): falta de jugador solo si la hace SIEMPRE (9 de 10 o más) y solo 1+
+        if p.get("campo") == "faltas_c" and (p.get("n", 1) > 1 or p["frecuencia"] < 0.9):
+            continue
         if p["cuota"] >= CUOTA_MIN_PATA and ((lok and vok) or p.get("equipo") == (loc["name"] if lok else vis["name"])):
             pool.append(p)
     for p in pool:
         p["prob_aprendida"] = aprender.prob_aprendida(p, ap) or p["frecuencia"]
+    # 27/10 (Marcos): «más de 2,5 goles» falla mucho: solo si está muy respaldado
+    pool = [p for p in pool if not (MAS_25.search(f"{p['mercado']}|{p['opcion']}") and p["prob_aprendida"] < PROB_MIN_25)]
     # una por mercado (o por jugador y dato): la más probable
     mejor = {}
     for p in pool:
@@ -94,6 +99,40 @@ def pool_partido(ex, hist, ap):
         if k not in mejor or p["prob_aprendida"] > mejor[k]["prob_aprendida"]:
             mejor[k] = p
     return sorted(mejor.values(), key=lambda p: -p["prob_aprendida"])
+
+
+import re
+MAS_25 = re.compile(r"Goals Over/Under\|Over 2\.5|Total Goals/Both Teams To Score\|o/yes 2\.5")
+PROB_MIN_25 = 0.70
+
+
+def familia(p):
+    """Tipo de mercado para variar: goles, resultado, córners, tarjetas, tiros del partido, jugador…"""
+    m = p["mercado"]
+    if p.get("tipo") == "jugador" or p.get("jugador"):
+        return f"jugador-{p.get('campo')}"
+    if "Corner" in m:
+        return "corners"
+    if "Card" in m:
+        return "tarjetas"
+    if "Shot" in m:
+        return "tiros"
+    if "Offside" in m:
+        return "fueras"
+    if m in RESULTADO or m.startswith("Results/"):
+        return "resultado"
+    return "goles"
+
+
+def variada(comb):
+    """27/10 (Marcos): todo tipo de mercados, no siempre lo mismo. Como mucho 2 patas de goles o de
+    resultado, 1 de tiros del partido, y al menos 3 tipos distintos en combis de 4 o más."""
+    from collections import Counter
+    c = Counter(familia(p) for p in comb)
+    tope = {"goles": 2, "resultado": 2, "tiros": 1}
+    if any(n > tope.get(f, 2) for f, n in c.items()):
+        return False
+    return len(c) >= min(3, len(comb))
 
 
 def coherente(comb):
@@ -111,7 +150,7 @@ def coherente(comb):
 def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     """La combinación que más devuelve a la larga (prob × cuota) dentro de los límites."""
     best = None
-    cand = [p for p in pool if p["prob_aprendida"] >= prob_min][:16]
+    cand = [p for p in pool if p["prob_aprendida"] >= prob_min][:18]
     for n in range(patas[0], patas[1] + 1):
         for comb in itertools.combinations(cand, n):
             c = math.prod(p["cuota"] for p in comb)
@@ -119,7 +158,7 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
                 continue
             if una_por_partido and len({p["partido_id"] for p in comb}) < n:
                 continue
-            if not una_por_partido and not coherente(comb):
+            if not una_por_partido and not (coherente(comb) and variada(comb)):
                 continue
             s = math.prod(p["prob_aprendida"] for p in comb) * c
             if not best or s > best[0]:
