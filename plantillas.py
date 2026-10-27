@@ -38,7 +38,8 @@ def lista(picks):
     return "\n".join(f"✅ {BANDERA.get(p.get('competicion'), '⚽')} {p['texto']}" for p in picks)
 
 
-VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"   # el cierre de los posts con más likes
+VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
+GANADORES_ACTIVO = False   # «quién gana hoy»: se activa cuando Marcos dé el visto bueno   # el cierre de los posts con más likes
 
 
 def combi(titulo, picks, cuota):
@@ -371,6 +372,11 @@ def posts_del_dia(dia, d):
     try:
         import datos_futbol
         posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
+        if GANADORES_ACTIVO:   # 27/10: «quién gana hoy» con nuestros datos (ganadores.py)
+            import ganadores
+            g = ganadores.post(dia)
+            if g:
+                posts.append((g[0], g[1], [], g[2]))
         if not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
             pv = datos_futbol.previa(dia)
             if pv:
