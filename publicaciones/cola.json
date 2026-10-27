@@ -1052,6 +1052,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-27-escalera"
+    "verde_de": "2026-10-27-escalera",
+    "enviado": "2026-10-27T21:14",
+    "mensaje_id": 137,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18105242843248364",
+      "instagram": "17885044485526517",
+      "instagram_story": "18102019808075628"
+    }
   }
 ]
