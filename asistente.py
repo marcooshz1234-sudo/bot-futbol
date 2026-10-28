@@ -11,7 +11,7 @@ Comandos:
   /combis     combis de hoy y escalera
   /pausa      para todas las publicaciones automáticas · /reanudar
   /borrar     últimos posts → los borras de Telegram, Threads, Instagram y Facebook a la vez
-  /gifs       eliges los GIF del canal: te llegan de 5 en 5 con 👍 / 👎 (solo salen los 👍)
+  /gifs       eliges los GIF del canal: te llegan de 10 en 10 con 👍 / 👎 (solo salen los 👍)
   /ayuda
 Además:
   - 60 min antes de cada post automático te llega el borrador con
@@ -418,7 +418,7 @@ class Asistente:
         if fila:
             filas.append(fila)
         estado = "encendidos" if gifs.ACTIVO else "apagados (no sale ninguno hasta que digas)"
-        return self.enviar("🎞️ GIF del canal · " + estado + "\n\nElige un momento y te mando 5 para votar 👍/👎. "
+        return self.enviar("🎞️ GIF del canal · " + estado + "\n\nElige un momento y te mando 10 para votar 👍/👎. "
                            "Solo salen los 👍. El número es cuántos llevas aprobados (lo ideal: 20–30 de cada).", filas)
 
     def candidatos_gifs(self, momento):
@@ -427,7 +427,7 @@ class Asistente:
         if not clave:
             return self.enviar("⚠️ Falta la clave de GIPHY en el bot del móvil.")
         try:
-            lista = gifs.candidatos(clave, momento, 5)
+            lista = gifs.candidatos(clave, momento, 10)
         except Exception as e:
             return self.enviar(f"⚠️ GIPHY no responde: {str(e)[:150]}")
         if not lista:
@@ -441,7 +441,7 @@ class Asistente:
                                                   {"text": "👎 No", "callback_data": f"gifv|n|{momento}|{gid}"}]]}})
             except Exception as e:
                 print("gif candidato:", str(e)[:120])
-        return self.enviar(f"¿Más de {nombre}?", [[("➕ 5 más", f"gifcat|{momento}"), ("🎞️ Otro momento", "gifmenu")]])
+        return self.enviar(f"¿Más de {nombre}?", [[("➕ 10 más", f"gifcat|{momento}"), ("🎞️ Otro momento", "gifmenu")]])
 
     def votar_gif(self, q, si, momento, gid):
         import gifs
