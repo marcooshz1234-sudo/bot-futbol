@@ -49,7 +49,7 @@ def balance(posts, dia):
         for x in p.get('picks', []):
             if x.get('exacto'):   # 27/10 (Marcos): los resultados exactos no cuentan en acertados/fallados
                 continue
-            sel[f"{x.get('partido_id')}|{x.get('texto')}"] = x.get('estado')
+            sel[clave_pick(x)] = x.get('estado')   # 28/10: el mismo pick escrito de otra forma cuenta una vez
     picks = {'verde': sum(e == 'verde' for e in sel.values()), 'rojo': sum(e == 'rojo' for e in sel.values()),
              'total': len(sel)}
     resultado = {'dia': dia, 'total': len(filas), 'cuentas': cuentas, 'combis': filas, 'picks': picks}
