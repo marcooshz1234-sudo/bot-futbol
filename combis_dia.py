@@ -269,6 +269,8 @@ def clave_pareja(a, b):
     """Tipo de pareja para lo aprendido (28/10): «goles+resultado/mismo», «jugador+tiros/partido»…"""
     def fam(p):
         f = familia(p)
+        if f in ("jugador-goles", "jugador-gol_o_asist"):
+            return "goleador"   # «X marca» va muy ligado a los goles y al resultado; tiros o faltas de un jugador, no
         return "jugador" if f.startswith("jugador") else f
     la, lb = lado(a), lado(b)
     rel = "mismo" if la and la == lb else "contrario" if la and lb else "partido"

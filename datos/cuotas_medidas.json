@@ -268,15 +268,15 @@
   "aj": null,
   "parejas": [
    [
-    "goles+jugador/partido",
+    "goleador+goles/partido",
     0.88
    ],
    [
-    "corners+jugador/partido",
+    "corners+goleador/partido",
     0.97
    ],
    [
-    "corners+jugador/partido",
+    "corners+goleador/partido",
     0.97
    ],
    [
@@ -331,6 +331,60 @@
    ],
    [
     "resultado+tarjetas/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "semilla-milan-ramos-pulisic-27",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550167|Anytime Goal Scorer|Goncalo Ramos",
+   "1550167|Player to Score or Assist|Christian Pulisic",
+   "1550167|Match Winner|Home"
+  ],
+  "cuotas": [
+   2.5,
+   3.7,
+   1.73
+  ],
+  "real": 8.501,
+  "multiplicando": 16.003,
+  "aj": null,
+  "parejas": [
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "semilla-genoa-juve-27",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550171|To Win Either Half|Away",
+   "1550171|Home Team Total Cards|Over 1.5"
+  ],
+  "cuotas": [
+   1.44,
+   1.73
+  ],
+  "real": 2.445,
+  "multiplicando": 2.491,
+  "aj": null,
+  "parejas": [
+   [
+    "resultado+tarjetas/contrario",
     1.0
    ]
   ]
