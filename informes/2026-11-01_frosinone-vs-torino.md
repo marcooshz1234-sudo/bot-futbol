@@ -1,7 +1,7 @@
 # Frosinone – Torino
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_

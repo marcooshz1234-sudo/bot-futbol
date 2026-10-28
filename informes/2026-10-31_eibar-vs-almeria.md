@@ -1,10 +1,10 @@
 # Eibar – Almeria
 **Segunda División** · Regular Season - 12 · 31/10/2026 16:15 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:58_
+_Actualizadas: 28/10 19:56_
 
 - **1X2:** 1 **2.30**  ·  X **3.30**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.57**

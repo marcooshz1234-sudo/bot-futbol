@@ -1,18 +1,18 @@
 # Picks del Analista
 
-_Generado el 2026-10-28 14:02 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-28 19:57 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Miércoles 28/10
 
 **🔒 Combi segura · cuota 1,70**
 - Brentford o empate (1,28) · Sunderland 7/10 · Brentford 9/10
-- Más de 1,5 goles en Parma–Udinese (1,33) · Parma 9/10 · Udinese 8/10
+- Gol en la 2ª parte del Genoa–Juventus (1,33) · Genoa 8/10 · Juventus 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,24**
-- Gana el Inter (1,36) · Venezia 8/10 · Inter 7/10
+**💥 Combi cuota 3-4 · cuota 3,10**
 - Monza marca (1,40) · Monza 10/10 · Napoli (en contra) 8/10
-- Fortuna Sittard marca (1,33) · Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10
-- Mikael Egill Ellertsson comete 1+ faltas (1,28) · Mikael Egill Ellertsson 8/9
+- 1899 Hoffenheim marca 2 o más (1,33) · 1899 Hoffenheim 8/10 · rival de categoría inferior
+- Ryan Gravenberch comete 1+ faltas (1,25) · Ryan Gravenberch 6/6
+- Elliot Anderson comete 1+ faltas (1,33) · Elliot Anderson 8/9
 
 **🎯 Combi del partido Monza–Napoli · cuota sumada 12,00**
 - Kevin De Bruyne comete 1+ faltas (1,57) · Kevin De Bruyne 6/7
@@ -23,28 +23,18 @@ _Generado el 2026-10-28 14:02 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Brentford o empate | resultado | 1.28 | 80% | Sunderland 7/10 · Brentford 9/10 |
-| 18:30 | Gana el Inter | resultado | 1.36 | 75% | Venezia 8/10 · Inter 7/10 |
-| 18:30 | Más de 1,5 goles en Parma–Udinese | goles | 1.33 | 85% | Parma 9/10 · Udinese 8/10 |
 | 20:45 | Monza marca | goles | 1.40 | 90% | Monza 10/10 · Napoli (en contra) 8/10 |
-| 18:45 | Fortuna Sittard marca | goles | 1.33 | 95% | Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10 |
-| 18:30 | Gol en la 2ª parte del Parma–Udinese | goles | 1.28 | 80% | Parma 7/10 · Udinese 9/10 |
-| 18:45 | Gol en la 1ª parte del Sparta Rotterdam–Fortuna Sittard | goles | 1.28 | 85% | Sparta Rotterdam 10/10 · Fortuna Sittard 7/10 |
 | 20:45 | Gol en la 2ª parte del Genoa–Juventus | goles | 1.33 | 85% | Genoa 8/10 · Juventus 9/10 |
 | 20:45 | 1899 Hoffenheim marca 2 o más | goles | 1.33 | 80% | 1899 Hoffenheim 8/10 · rival de categoría inferior |
-| 18:30 | Nicolo Barella: 1+ tiros | jugador | 1.30 | 90% | Nicolo Barella 9/10 |
 | 20:45 | Mikael Egill Ellertsson comete 1+ faltas | jugador | 1.28 | 89% | Mikael Egill Ellertsson 8/9 |
-| 18:30 | Udinese marca | goles | 1.33 | 80% | Parma (en contra) 9/10 · Udinese 7/10 |
 | 20:45 | Más de 1,5 goles en Genoa–Juventus | goles | 1.44 | 85% | Genoa 7/10 · Juventus 10/10 |
 | 21:00 | Ryan Gravenberch comete 1+ faltas | jugador | 1.25 | 100% | Ryan Gravenberch 6/6 |
 | 20:45 | Gol en la 1ª parte del Bournemouth–Aston Villa | goles | 1.30 | 85% | Bournemouth 9/10 · Aston Villa 8/10 |
-| 18:30 | Gol en la 1ª parte del Parma–Udinese | goles | 1.44 | 75% | Parma 7/10 · Udinese 8/10 |
 | 21:00 | Pedro Neto comete 1+ faltas | jugador | 1.25 | 86% | Pedro Neto 6/7 |
 | 20:30 | Elliot Anderson comete 1+ faltas | jugador | 1.33 | 89% | Elliot Anderson 8/9 |
 | 20:45 | Adam Smith comete 1+ faltas | jugador | 1.36 | 90% | Adam Smith 9/10 |
-| 18:30 | Matias Moreno comete 1+ faltas | jugador | 1.30 | 80% | Matias Moreno 4/5 |
 | 20:45 | Anan Khalaili comete 1+ faltas | jugador | 1.40 | 89% | Anan Khalaili 8/9 |
 | 20:45 | Kevin De Bruyne comete 1+ faltas | jugador | 1.57 | 86% | Kevin De Bruyne 6/7 |
-| 18:45 | Ambos marcan en Sparta Rotterdam–Fortuna Sittard | goles | 1.50 | 75% | Sparta Rotterdam 8/10 · Fortuna Sittard 7/10 |
 | 20:45 | David Affengruber comete 1+ faltas | jugador | 1.44 | 80% | David Affengruber 4/5 |
 | 20:45 | Chris Richards comete 1+ faltas | jugador | 1.67 | 80% | Chris Richards 8/10 |
 | 20:45 | Más de 2,5 goles en Bournemouth–Aston Villa | goles | 1.70 | 80% | Bournemouth 8/10 · Aston Villa 8/10 |
@@ -85,20 +75,19 @@ _Generado el 2026-10-28 14:02 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Girona o empate (1,30) · Real Sociedad II 8/10 · Girona 9/10
 - Más de 1,5 goles en Moreirense–Estrela (1,28) · Moreirense 7/10 · Estrela 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,05**
+**💥 Combi cuota 3-4 · cuota 3,52**
 - Stoke City gana alguna de las dos partes (1,40) · Stoke City 7/10 · Preston 9/10
-- Birmingham o empate (1,36) · Lincoln 7/10 · Birmingham 8/10
 - Más de 1,5 goles en Burnley–Portsmouth (1,28) · Burnley 10/10 · Portsmouth 7/10
 - Maximilian Eggestein: 1+ tiros (1,25) · Maximilian Eggestein 10/10
+- Bournemouth ve más de 1,5 tarjetas (1,57) · Bournemouth 8/10 · Leeds (en contra) 7/10
 
-**🤪 Combi loca · cuota 12,67**
+**🤪 Combi loca · cuota 8,09**
+- Birmingham o empate (1,36) · Lincoln 7/10 · Birmingham 8/10
 - Brentford o empate (1,25) · Brentford 9/10 · Nottingham Forest 8/9
-- Heerenveen o empate (1,36) · Heerenveen 7/10 · NEC Nijmegen 9/10
 - Gol en la 2ª parte del Rayo Vallecano–Celta Vigo (1,25) · Rayo Vallecano 10/10 · Celta Vigo 7/10
-- Más de 1,5 goles en Bournemouth–Leeds (1,28) · Bournemouth 9/10 · Leeds 7/10
+- Cardiff marca (1,36) · Wolves (en contra) 7/10 · Cardiff 8/10
 - Nicolo Barella: 1+ tiros (1,33) · Nicolo Barella 9/10
-- Jarrod Bowen: 1+ tiros a puerta (1,25) · Jarrod Bowen 10/10
-- Malaga hace más de 3,5 córners (1,73) · Real Betis (en contra) 7/10 · Malaga 8/9
+- Koki Machida comete 1+ faltas (1,30) · Koki Machida 5/5
 - Manchester United hace más de 3,5 córners (1,62) · Chelsea (en contra) 9/10 · Manchester United 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
@@ -123,41 +112,61 @@ _Generado el 2026-10-28 14:02 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:00 | Gol en la 1ª parte del Swansea–Blackburn | goles | 1.36 | 80% | Swansea 8/10 · Blackburn 8/10 |
 | 20:45 | Nicolo Barella: 1+ tiros | jugador | 1.33 | 90% | Nicolo Barella 9/10 |
 | 16:30 | Gol en la 1ª parte del Moreirense–Estrela | goles | 1.40 | 75% | Moreirense 8/10 · Estrela 7/10 |
-| 16:00 | Hull City marca | goles | 1.28 | 85% | Hull City 7/10 · Ipswich (en contra) 10/10 |
 | 13:30 | Gol en la 1ª parte del Norwich–Watford | goles | 1.25 | 85% | Norwich 8/10 · Watford 9/10 |
 | 16:00 | Gol en la 1ª parte del Millwall–Derby | goles | 1.36 | 80% | Millwall 7/10 · Derby 9/10 |
 | 20:45 | Más de 1,5 goles en Estac Troyes–Le Mans | goles | 1.25 | 88% | Estac Troyes 6/8 · Le Mans 8/8 |
 | 16:00 | Portsmouth o empate | resultado | 1.80 | 80% | Burnley 9/10 · Portsmouth 7/10 |
 | 16:00 | Portsmouth marca | goles | 1.40 | 80% | Burnley (en contra) 9/10 · Portsmouth 7/10 |
+| 16:00 | Hull City marca | goles | 1.25 | 85% | Hull City 7/10 · Ipswich (en contra) 10/10 |
 | 13:30 | Gol en la 1ª parte del Lincoln–Birmingham | goles | 1.36 | 85% | Lincoln 7/10 · Birmingham 10/10 |
 | 16:15 | Celta Vigo o empate | resultado | 1.62 | 75% | Rayo Vallecano 7/10 · Celta Vigo 8/10 |
 | 16:00 | Gol en la 1ª parte del Burnley–Portsmouth | goles | 1.36 | 80% | Burnley 9/10 · Portsmouth 7/10 |
 | 15:30 | Más de 2,5 goles en FC Augsburg–SC Freiburg | goles | 1.50 | 84% | FC Augsburg 7/9 · SC Freiburg 9/10 |
 | 15:00 | Monza marca | goles | 1.50 | 94% | Bologna (en contra) 7/8 · Monza 10/10 |
 | 18:00 | Gana el AS Roma | resultado | 1.57 | 65% | Udinese 6/10 · AS Roma 7/10 |
+| 15:30 | Koki Machida comete 1+ faltas | jugador | 1.30 | 100% | Koki Machida 5/5 |
+| 18:30 | Felix Nmecha comete 1+ faltas | jugador | 1.25 | 88% | Felix Nmecha 7/8 |
 | 20:45 | Lorient o empate | resultado | 1.40 | 75% | Lorient 6/8 · Stade Brestois 29 6/8 |
 | 16:00 | Jarrod Bowen: 1+ tiros a puerta | jugador | 1.25 | 100% | Jarrod Bowen 10/10 |
 | 15:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim | goles | 1.57 | 90% | Werder Bremen 8/9 · 1899 Hoffenheim 9/10 |
 | 15:30 | Ambos marcan en Werder Bremen–1899 Hoffenheim | goles | 1.36 | 79% | Werder Bremen 8/9 · 1899 Hoffenheim 7/10 |
 | 15:30 | Más de 2,5 goles en Werder Bremen–1899 Hoffenheim | goles | 1.40 | 90% | Werder Bremen 8/9 · 1899 Hoffenheim 9/10 |
-| 21:00 | Ambos marcan en Cambuur–GO Ahead Eagles | goles | 1.40 | 80% | Cambuur 7/10 · GO Ahead Eagles 9/10 |
 | 18:30 | Borussia Dortmund marca | goles | 1.36 | 75% | Bayern München (en contra) 7/10 · Borussia Dortmund 8/10 |
+| 16:00 | Mohamed Belloumi: 2+ tiros | jugador | 1.25 | 86% | Mohamed Belloumi 6/7 |
+| 21:00 | Ambos marcan en Cambuur–GO Ahead Eagles | goles | 1.40 | 80% | Cambuur 7/10 · GO Ahead Eagles 9/10 |
+| 15:30 | Ibrahim Maza comete 1+ faltas | jugador | 1.30 | 89% | Ibrahim Maza 8/9 |
+| 16:00 | Dominic Calvert-Lewin comete 1+ faltas | jugador | 1.28 | 100% | Dominic Calvert-Lewin 8/8 |
 | 21:00 | Más de 2,5 goles en Cambuur–GO Ahead Eagles | goles | 1.44 | 75% | Cambuur 7/10 · GO Ahead Eagles 8/10 |
 | 20:45 | Le Mans marca | goles | 1.33 | 81% | Estac Troyes (en contra) 6/8 · Le Mans 7/8 |
+| 16:00 | Jayden Bogle comete 1+ faltas | jugador | 1.33 | 100% | Jayden Bogle 8/8 |
 | 13:30 | Gana el Stoke City | resultado | 1.70 | 65% | Stoke City 6/10 · Preston 7/10 |
+| 15:30 | Satoshi Tanaka comete 1+ faltas | jugador | 1.44 | 83% | Satoshi Tanaka 5/6 |
 | 20:45 | Lorient marca | goles | 1.28 | 88% | Lorient 6/8 · Stade Brestois 29 (en contra) 8/8 |
-| 16:00 | Mohamed Belloumi: 2+ tiros | jugador | 1.33 | 86% | Mohamed Belloumi 6/7 |
-| 18:30 | Malaga hace más de 3,5 córners | corners | 1.73 | 79% | Real Betis (en contra) 7/10 · Malaga 8/9 |
+| 18:30 | Anan Khalaili comete 1+ faltas | jugador | 1.28 | 89% | Anan Khalaili 8/9 |
+| 16:00 | Adrien Truffert comete 1+ faltas | jugador | 1.25 | 90% | Adrien Truffert 9/10 |
+| 16:00 | Evanilson comete 1+ faltas | jugador | 1.30 | 90% | Evanilson 9/10 |
+| 16:00 | Adam Smith comete 1+ faltas | jugador | 1.30 | 90% | Adam Smith 9/10 |
+| 18:30 | Omar Marmoush comete 1+ faltas | jugador | 1.30 | 100% | Omar Marmoush 7/7 |
+| 16:00 | James Hill comete 1+ faltas | jugador | 1.28 | 80% | James Hill 8/10 |
+| 16:00 | Antonio Silva comete 1+ faltas | jugador | 1.28 | 80% | Antonio Silva 8/10 |
 | 18:45 | Willem II marca | goles | 1.67 | 80% | PSV Eindhoven (en contra) 8/10 · Willem II 8/10 |
+| 16:00 | Oliver McBurnie comete 1+ faltas | jugador | 1.25 | 88% | Oliver McBurnie 7/8 |
 | 20:45 | Pathe Mboup: 2+ tiros | jugador | 1.33 | 88% | Pathe Mboup 7/8 |
+| 16:00 | Daniel Munoz comete 1+ faltas | jugador | 1.28 | 80% | Daniel Munoz 4/5 |
+| 16:00 | Elliot Anderson comete 1+ faltas | jugador | 1.30 | 89% | Elliot Anderson 8/9 |
+| 16:00 | Ao Tanaka comete 1+ faltas | jugador | 1.44 | 86% | Ao Tanaka 6/7 |
 | 15:00 | Federico Bernardeschi: 1+ tiros a puerta | jugador | 1.30 | 83% | Federico Bernardeschi 5/6 |
 | 13:30 | Manchester United hace más de 3,5 córners | corners | 1.62 | 85% | Chelsea (en contra) 9/10 · Manchester United 8/10 |
 | 15:30 | Gana el Bayer Leverkusen | resultado | 1.75 | 60% | Bayer Leverkusen 7/10 · VfB Stuttgart 5/10 |
 | 14:00 | Gana el Girona | resultado | 2.00 | 65% | Real Sociedad II 6/10 · Girona 7/10 |
+| 18:30 | Malaga hace más de 3,5 córners | corners | 1.73 | 79% | Real Betis (en contra) 7/10 · Malaga 8/9 |
+| 16:00 | Bournemouth ve más de 1,5 tarjetas | tarjetas | 1.57 | 75% | Bournemouth 8/10 · Leeds (en contra) 7/10 |
 | 13:30 | Pedro Neto comete 1+ faltas | jugador | 1.50 | 86% | Pedro Neto 6/7 |
+| 18:30 | Jan Paul van Hecke comete 1+ faltas | jugador | 1.53 | 89% | Jan Paul van Hecke 8/9 |
+| 16:00 | Mohamed Belloumi comete 1+ faltas | jugador | 1.50 | 86% | Mohamed Belloumi 6/7 |
+| 18:30 | Más de 9,5 córners en Bayern München–Borussia Dortmund | corners | 1.73 | 75% | Bayern München 7/10 · Borussia Dortmund 8/10 |
 | 16:30 | Fortuna Sittard marca | goles | 1.73 | 80% | Feyenoord (en contra) 7/10 · Fortuna Sittard 9/10 |
 | 18:45 | Ambos marcan en PSV Eindhoven–Willem II | goles | 1.67 | 75% | PSV Eindhoven 7/10 · Willem II 8/10 |
-| 18:30 | Más de 9,5 córners en Bayern München–Borussia Dortmund | corners | 1.73 | 75% | Bayern München 7/10 · Borussia Dortmund 8/10 |
 | 13:30 | Pedro Neto: 1+ tiros a puerta | jugador | 1.73 | 86% | Pedro Neto 6/7 |
 
 ## Domingo 01/11
@@ -206,7 +215,7 @@ _Generado el 2026-10-28 14:02 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:45 | Groningen marca 2 o más | goles | 1.53 | 80% | Groningen 8/10 · Sparta Rotterdam (en contra) 8/10 |
 | 16:45 | Ambos marcan y más de 2,5 goles en Groningen–Sparta Rotterdam | goles | 1.67 | 80% | Groningen 8/10 · Sparta Rotterdam 8/10 |
 | 16:45 | Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam | goles | 1.67 | 75% | Groningen 7/10 · Sparta Rotterdam 8/10 |
-| 19:00 | Gana el Santa Clara | resultado | 2.25 | 60% | Maritimo 6/10 · Santa Clara 6/10 |
+| 19:00 | Gana el Santa Clara | resultado | 2.20 | 60% | Maritimo 6/10 · Santa Clara 6/10 |
 | 15:00 | Ambos marcan en Strasbourg–Auxerre | goles | 1.53 | 81% | Strasbourg 6/8 · Auxerre 7/8 |
 | 15:00 | Más de 2,5 goles en Strasbourg–Auxerre | goles | 1.57 | 81% | Strasbourg 7/8 · Auxerre 6/8 |
 | 15:00 | Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre | goles | 1.80 | 75% | Strasbourg 6/8 · Auxerre 6/8 |

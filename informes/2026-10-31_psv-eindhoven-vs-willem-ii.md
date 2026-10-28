@@ -1,10 +1,10 @@
 # PSV Eindhoven – Willem II
 **Eredivisie** · Regular Season - 11 · 31/10/2026 18:45 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 28/10 19:56_
 
 - **1X2:** 1 **1.08**  ·  X **11.00**  ·  2 **19.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.05**  ·  X2 **10.00**

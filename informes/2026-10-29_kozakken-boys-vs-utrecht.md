@@ -1,7 +1,7 @@
 # Kozakken Boys – Utrecht
 **KNVB Beker** · Round of 64 · 29/10/2026 18:45 (hora España) · De Zwaaier
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:00_

@@ -1,10 +1,10 @@
 # Feyenoord – Fortuna Sittard
 **Eredivisie** · Regular Season - 11 · 31/10/2026 16:30 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:58_
+_Actualizadas: 28/10 19:56_
 
 - **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **5.50**

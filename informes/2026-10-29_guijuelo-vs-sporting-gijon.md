@@ -1,10 +1,33 @@
 # Guijuelo – Sporting Gijon
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 19:55_
+
+- **1X2:** 1 **7.00**  ·  X **4.60**  ·  2 **1.33**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **8.00**  ·  X **2.50**  ·  2 **1.80**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **4.00**  ·  2 **1.20**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **2.10**
+- **Win Both Halves:** 1 **34.00**  ·  2 **3.00**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.20**  ·  Home/No **13.00**  ·  Draw/No **13.00**  ·  Away/No **2.10**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Guijuelo (total) | Guijuelo en casa | Sporting Gijon (total) | Sporting Gijon fuera |

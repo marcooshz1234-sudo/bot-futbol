@@ -1,10 +1,31 @@
 # Atlético Baleares – Eldense
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España) · Estadio Balear
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 19:55_
+
+- **1X2:** 1 **4.33**  ·  X **3.80**  ·  2 **1.62**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.30**  ·  2 **2.20**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.62**
+- **Win Both Halves:** 1 **21.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.60**  ·  Home/No **8.00**  ·  Draw/No **12.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.40**
 
 ## Estadísticas de equipo
 | | Atlético Baleares (total) | Atlético Baleares en casa | Eldense (total) | Eldense fuera |
