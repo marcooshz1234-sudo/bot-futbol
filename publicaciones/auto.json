@@ -178,7 +178,7 @@
   {
     "id": "2026-10-28-combi-tres",
     "fecha": "2026-10-28T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,96! 🍀\n\n✅ 🇩🇪 SC Freiburg gana alguna de las dos partes\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n\n🎯 CUOTA 2,96 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀\n\n✅ 🇩🇪 SC Freiburg gana alguna de las dos partes\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🇮🇹 Más de 1,5 goles en Parma–Udinese\n\n🎯 CUOTA 2,88 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -189,11 +189,12 @@
       "1550173|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
-      1.25,
+      1.28,
       1.3,
       1.3,
-      1.4
-    ]
+      1.33
+    ],
+    "cuotas_revisadas": "2026-10-28T12:07"
   },
   {
     "id": "2026-10-28-combi-loca",
