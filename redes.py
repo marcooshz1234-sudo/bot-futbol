@@ -129,6 +129,7 @@ def threads(p, token):
 
 
 # 28/10 (Marcos): en los verdes y en el balance del día en positivo, primer comentario con el canal de Telegram
+# (solo en Threads: en Instagram no hace falta, Marcos 28/10)
 ENLACE_TELEGRAM = "https://t.me/+NMCCvWtZu842Mjhk"
 TEXTO_ENLACE = f"💚 ¿Quieres más combis así? Únete GRATIS a nuestro canal de Telegram 👇\n{ENLACE_TELEGRAM}"
 
@@ -320,8 +321,6 @@ def main(objetivo=None):
         if lleva_enlace(p):   # 28/10: el comentario va cuando el post ya está publicado (la vuelta siguiente)
             if claves["threads"] and "threads_enlace" not in hecho and id_publicado(hecho.get("threads")):
                 tareas.append(("threads_enlace", lambda: comentar_threads(p, claves["threads"])))
-            if claves["instagram"] and "instagram_enlace" not in hecho and id_publicado(hecho.get("instagram")):
-                tareas.append(("instagram_enlace", lambda: comentar_instagram(p, claves["instagram"])))
         for red, hacer in tareas:
             if objetivo and red != objetivo[1]:
                 continue
