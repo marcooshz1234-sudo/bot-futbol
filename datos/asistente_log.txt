@@ -24,3 +24,4 @@
 🇩🇪 BAYERN MÜNC → ok
 2026-10-28 02:12:18 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
 2026-10-28 02:16:02 texto /hoy → ok
+2026-10-28 02:19:44 arranca el bot del móvil
