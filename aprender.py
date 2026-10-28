@@ -204,24 +204,35 @@ def clave_pub(m, o):
     return f"{m}|{o}"
 
 
+_VISTOS = {}
+
+
 def aprender_publicados():
     """28/10 (Marcos): aprender también de cada pick PUBLICADO (combis de partido, boletos, x3, loca…), no solo
     de los picks del bot. Por mercado concreto: cuánto acierta de verdad frente a lo que daba la cuota de bet365.
     Lo que falla más de lo que dice la cuota baja su probabilidad (y deja de salir si falla una y otra vez)."""
     import picks as P
-    cola = leer(RAIZ / "publicaciones" / "cola.json", []) or []
-    auto = leer(RAIZ / "publicaciones" / "auto.json", []) or []
+    pub = RAIZ / "publicaciones"
+    cola = leer(pub / "cola.json", []) or []
+    enviados, redes = leer(pub / "enviados.json", {}) or {}, leer(pub / "enviados_redes.json", {}) or {}
+    auto = [dict(x, **enviados.get(x["id"], {}), **redes.get(x["id"], {})) for x in leer(pub / "auto.json", []) or []]
     ids = {c["id"] for c in cola}
+    todos = cola + [x for x in auto if x["id"] not in ids]
+    todos += [dict(x, fecha=x.get("fecha") or x.get("enviado")) for x in leer(pub / "asistente.json", []) or []
+              if x.get("boleto") and x.get("sel") and x["id"] not in ids]   # boletos que sube el asistente
     vistos = {}
-    for post in cola + [x for x in auto if x["id"] not in ids]:
+    for post in todos:
         if not (post.get("enviado") or post.get("mensaje_id") or post.get("redes")) or post.get("borrar"):
             continue
-        if not post.get("sel") or not post.get("cuotas") or len(post["sel"]) != len(post["cuotas"]) or post.get("aumento"):
+        if not post.get("sel") or post.get("aumento"):
             continue
-        for s, c in zip(post["sel"], post["cuotas"]):
+        cuotas = post.get("cuotas") or [None] * len(post["sel"])
+        if len(cuotas) != len(post["sel"]):
+            continue
+        for s, c in zip(post["sel"], cuotas):
             try:
                 pid, m, o = s.split("|", 2)
-                c = float(c)
+                c = float(c) if c else 1.43   # pata de boleto sin cuota leída: como una pata normal (~70 %)
             except (ValueError, TypeError):
                 continue
             if m == "?" or (pid, m, o) in vistos or c <= 1:
@@ -237,10 +248,13 @@ def aprender_publicados():
                 continue
             if r is None:
                 continue
-            vistos[(pid, m, o)] = (clave_pub(m, o), 1 / c, float(bool(r)), d["fecha"][:10])
+            vistos[(pid, m, o)] = (clave_pub(m, o), 1 / c, float(bool(r)), d["fecha"][:10],
+                                   clave_concreta(m, o, (d.get("local") or {}).get("nombre"), (d.get("visitante") or {}).get("nombre")))
     hoy = datetime.now(MADRID).replace(tzinfo=None)
     res, n, cuenta = defaultdict(float), defaultdict(float), defaultdict(lambda: [0, 0, 0.0])
-    for k, imp, y, fecha in vistos.values():
+    _VISTOS.clear()
+    _VISTOS.update({k: {"concreto": v[4], "imp": v[1], "y": v[2], "fecha": v[3]} for k, v in vistos.items()})
+    for k, imp, y, fecha, _ in vistos.values():
         w = peso({"fecha": fecha}, hoy)
         res[k] += w * (y - imp)
         n[k] += w
@@ -249,6 +263,52 @@ def aprender_publicados():
         cuenta[k][2] += imp
     return {k: {"ajuste": round(max(-TOPE, min(TOPE, res[k] / (n[k] + K_PUB))), 4), "n": cuenta[k][0],
                 "aciertos": cuenta[k][1], "cuota_implicita": round(cuenta[k][2] / cuenta[k][0], 3)} for k in res}
+
+
+K_CONC, TOPE_CONC = 8, 0.12   # 28/10: jugador o equipo concreto (con pocos casos pesa poco)
+
+
+def clave_concreta(m, o, local, visitante):
+    """28/10 (Marcos): «qué jugadores o cosas en concreto acertamos más». Clave del jugador o del equipo con su
+    tipo de apuesta: «jugador|Gustavo Varela|a_puerta», «equipo|Monza|Total|Over 0.5», «equipo|Napoli|Match Winner|gana»."""
+    import picks as P
+    o = str(o)
+    if m in P.JUG_MERCADOS:
+        return f"jugador|{o.rsplit(' - ', 1)[0].strip()}|{P.JUG_MERCADOS[m][0]}"
+    if "Scorer" in m:
+        return f"jugador|{o.strip()}|gol"
+    lado = P.lado_pick({"mercado": m, "opcion": o})
+    if not lado or not (local and visitante):
+        return None
+    eq = local if lado == "local" else visitante
+    mn = m.replace(" - Home", "").replace(" - Away", "").replace("Home ", "").replace("Away ", "")
+    on = {"Home": "gana", "Away": "gana", "Home/Draw": "o empate", "Draw/Away": "o empate"}.get(o, o)
+    return f"equipo|{eq}|{mn}|{on}"
+
+
+def aprender_concretos(publicados_vistos):
+    """Por jugador y por equipo: cuánto acierta de verdad frente a lo que daba la cuota (picks del bot + publicados)."""
+    hoy = datetime.now(MADRID).replace(tzinfo=None)
+    filas = dict(publicados_vistos)
+    for p in (leer(REGISTRO, {}) or {}).values():
+        if p.get("acierto") is None or not p.get("cuota"):
+            continue
+        k = (str(p.get("partido_id")), p["mercado"], str(p["opcion"]))
+        if k not in filas:
+            filas[k] = {"concreto": clave_concreta(p["mercado"], p["opcion"], p.get("local"), p.get("visitante")),
+                        "imp": 1 / float(p["cuota"]), "y": float(bool(p["acierto"])), "fecha": p["fecha"][:10]}
+    res, n, cuenta = defaultdict(float), defaultdict(float), defaultdict(lambda: [0, 0])
+    for f in filas.values():
+        k = f.get("concreto")
+        if not k:
+            continue
+        w = peso({"fecha": f["fecha"]}, hoy)
+        res[k] += w * (f["y"] - f["imp"])
+        n[k] += w
+        cuenta[k][0] += 1
+        cuenta[k][1] += int(f["y"])
+    return {k: {"ajuste": round(max(-TOPE_CONC, min(TOPE_CONC, res[k] / (n[k] + K_CONC))), 4),
+                "n": cuenta[k][0], "aciertos": cuenta[k][1]} for k in res}
 
 
 def prob_aprendida(p, ap):
@@ -262,6 +322,8 @@ def prob_aprendida(p, ap):
         prob += (ap.get(tabla, {}).get(clave) or {}).get("ajuste", 0)
     if p.get("mercado"):
         prob += ((ap.get("publicados") or {}).get(clave_pub(p["mercado"], p.get("opcion"))) or {}).get("ajuste", 0)
+        kc = clave_concreta(p["mercado"], p.get("opcion"), p.get("local"), p.get("visitante"))
+        prob += ((ap.get("concretos") or {}).get(kc) or {}).get("ajuste", 0)
     return max(0.01, min(0.99, prob))
 
 
@@ -420,6 +482,10 @@ def main():
             ap["publicados"] = aprender_publicados()
         except Exception as e:
             print("publicados:", str(e)[:150])
+        try:
+            ap["concretos"] = aprender_concretos(_VISTOS)
+        except Exception as e:
+            print("concretos:", str(e)[:150])
         try:
             import goles_partido
             goles_partido.main()
