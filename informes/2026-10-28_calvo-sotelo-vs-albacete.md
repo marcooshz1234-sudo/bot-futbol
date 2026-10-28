@@ -1,12 +1,13 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.50**
+- **Doble oportunidad:** 1X **2.38**  ·  12 **1.20**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
@@ -14,10 +15,28 @@ _Actualizadas: 27/10 19:50_
     - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.00**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.25**
+- **Win Both Halves:** 1 **21.00**  ·  2 **3.75**
 - **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **10.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.88**
 
 ## Estadísticas de equipo
 | | Calvo Sotelo (total) | Calvo Sotelo en casa | Albacete (total) | Albacete fuera |

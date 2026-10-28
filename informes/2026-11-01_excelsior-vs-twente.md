@@ -1,7 +1,7 @@
 # Excelsior – Twente
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | S. Lemkin | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 2,08 · córners esperados 9,4._
+_Goles esperados: local 0,96 · visitante 2,07 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -198,25 +198,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 63% | 59% | 61% | 1.57 | -4% |
 | 1X2: X | 20% | 23% | 21% | 4.10 | -12% |
-| 1X2: 1 | 16% | 19% | 17% | 5.00 | -13% |
-| Doble oportunidad: X2 | 84% | 81% | 82% | 1.17 | -4% |
+| 1X2: 1 | 17% | 19% | 18% | 5.00 | -12% |
+| Doble oportunidad: X2 | 83% | 81% | 82% | 1.17 | -4% |
 | Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 37% | 41% | 39% | 2.30 | -10% |
 | Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -12% |
+| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
 | Goles más/menos: Más de 2.5 | 58% | 62% | 60% | 1.50 | -9% |
 | Goles más/menos: Más de 3.5 | 36% | 42% | 39% | 2.20 | -14% |
 | Goles más/menos: Más de 4.5 | 19% | 25% | 22% | 3.75 | -17% |
 | Goles más/menos: Menos de 2.5 | 42% | 38% | 40% | 2.50 | -1% |
-| Goles más/menos: Menos de 3.5 | 64% | 58% | 61% | 1.62 | -1% |
+| Goles más/menos: Menos de 3.5 | 64% | 58% | 61% | 1.62 | -2% |
 | Goles más/menos: Menos de 4.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 44% | 41% | 2.10 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
-| Goles del local: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles del local: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles del local: Más de 1.5 | 25% | 31% | 28% | 3.00 | -16% |
-| Goles del local: Menos de 0.5 | 39% | 34% | 36% | 2.75 | -1% |
+| Goles del local: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del local: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del visitante: Más de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del visitante: Más de 2.5 | 34% | 38% | 36% | 2.50 | -10% |
@@ -224,7 +224,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
-| 1X2 descanso: 2 | 46% | 45% | 46% | 2.05 | -6% |
+| 1X2 descanso: 2 | 46% | 45% | 46% | 2.05 | -7% |
 | 1X2 descanso: X | 38% | 36% | 37% | 2.60 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Excelsior Maassluis – Heerenveen
 **KNVB Beker** · Round of 64 · 28/10/2026 21:00 (hora España) · Sportpark Dijkpolder
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **10.00**  ·  X **5.50**  ·  2 **1.20**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.12**  ·  X2 **1.05**
@@ -16,6 +16,11 @@ _Actualizadas: 27/10 19:50_
     - 4,5: más **2.75** · menos **1.40**
     - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 0,5: más **1.67** · menos **2.10**
     - 1,5: más **4.33** · menos **1.20**
@@ -42,6 +47,7 @@ _Actualizadas: 27/10 19:50_
 - **Win Both Halves:** 1 **51.00**  ·  2 **2.25**
 - **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.50**  ·  Home/No **21.00**  ·  Draw/No **23.00**  ·  Away/No **2.20**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **4.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
 
 ## Estadísticas de equipo
 | | Excelsior Maassluis (total) | Excelsior Maassluis en casa | Heerenveen (total) | Heerenveen fuera |

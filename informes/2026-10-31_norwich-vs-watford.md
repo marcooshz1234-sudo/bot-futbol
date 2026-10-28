@@ -1,7 +1,7 @@
 # Norwich – Watford
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -190,41 +190,41 @@ _Sin bajas comunicadas por ahora._
 | Albert Eames | D | 4 | 223 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,21 · visitante 0,98 · córners esperados 9,2._
+_Goles esperados: local 2,20 · visitante 0,99 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 18% | 17% | 5.00 | -16% |
+| 1X2: 2 | 16% | 18% | 17% | 5.00 | -15% |
 | 1X2: X | 19% | 23% | 21% | 4.00 | -16% |
 | 1X2: 1 | 65% | 59% | 62% | 1.55 | -4% |
-| Doble oportunidad: X2 | 35% | 41% | 38% | 2.25 | -15% |
+| Doble oportunidad: X2 | 35% | 41% | 38% | 2.25 | -14% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 85% | 81% | 83% | 1.14 | -5% |
+| Doble oportunidad: 1X | 84% | 81% | 83% | 1.14 | -6% |
 | Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
 | Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 40% | 41% | 40% | 2.30 | -7% |
+| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -7% |
 | Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Menos de 3.5 | 60% | 59% | 60% | 1.62 | -4% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
+| Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
+| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Goles del local: Más de 1.5 | 65% | 62% | 64% | 1.50 | -4% |
+| Goles del local: Más de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
 | Goles del local: Más de 2.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles del local: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles del local: Menos de 1.5 | 36% | 38% | 37% | 2.50 | -9% |
 | Goles del local: Menos de 2.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del visitante: Más de 0.5 | 62% | 65% | 64% | 1.44 | -9% |
-| Goles del visitante: Más de 1.5 | 26% | 29% | 27% | 3.25 | -11% |
-| Goles del visitante: Menos de 0.5 | 38% | 35% | 36% | 2.62 | -4% |
-| Goles del visitante: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Goles del visitante: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Goles del visitante: Más de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
+| Goles del visitante: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles del visitante: Menos de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
 | Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |
 | Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -1% |
-| 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -9% |
-| 1X2 descanso: 1 | 48% | 45% | 46% | 2.05 | -5% |
+| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: 1 | 47% | 45% | 46% | 2.05 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Lazio – Cagliari
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -24,53 +24,53 @@ _Actualizadas: 27/10 13:52_
 ## Estadísticas de equipo
 | | Lazio (total) | Lazio en casa | Cagliari (total) | Cagliari fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 5 | 10 | 4 |
-| Forma (últimos 5) | VVVVE | VVEVD | DDEVV | DVVV |
-| Balance | 7V 1E 1D | 3V 1E 1D | 5V 1E 4D | 3V 0E 1D |
-| Goles a favor / partido | 1,78 | 1,60 | 0,80 | 1,00 |
-| Goles en contra / partido | 0,78 | 1,20 | 1,10 | 1,25 |
-| Goles a favor 1ª parte | 0,67 | 1,00 | 0,40 | 0,25 |
-| Goles a favor 2ª parte | 1,11 | 0,60 | 0,40 | 0,75 |
-| Goles en contra 1ª parte | 0,00 | 0,00 | 0,40 | 0,50 |
-| Goles en contra 2ª parte | 0,78 | 1,20 | 0,70 | 0,75 |
-| Más de 1,5 goles | 78% | 80% | 50% | 50% |
-| Más de 2,5 goles | 56% | 60% | 30% | 50% |
-| Más de 3,5 goles | 22% | 40% | 10% | 25% |
-| Ambos marcan | 44% | 60% | 30% | 25% |
-| Portería a cero | 44% | 20% | 40% | 50% |
-| Se queda sin marcar | 11% | 20% | 30% | 25% |
-| xG a favor | 1,49 | 1,82 | 1,07 | 1,37 |
-| xG en contra | 1,20 | 1,07 | 1,81 | 1,68 |
-| Tiros / partido | 14,7 | 16,4 | 10,7 | 10,0 |
-| Tiros a puerta / partido | 4,1 | 4,6 | 3,6 | 4,2 |
-| Tiros recibidos | 12,2 | 12,0 | 17,5 | 18,8 |
-| Tiros a puerta recibidos | 4,9 | 5,0 | 5,0 | 4,2 |
-| Posesión media % | 53 | 57 | 45 | 46 |
-| Córners a favor | 5,7 | 5,6 | 3,8 | 3,0 |
-| Córners en contra | 4,6 | 3,8 | 5,6 | 6,0 |
-| Córners a favor 1ª parte | 2,2 | 2,2 | 1,5 | 1,2 |
-| Córners a favor 2ª parte | 3,4 | 3,4 | 2,3 | 1,8 |
-| Córners totales del partido | 10,2 | 9,4 | 9,4 | 9,0 |
-| Córners totales 1ª parte | 5,1 | 4,8 | 3,4 | 3,0 |
-| Córners totales 2ª parte | 5,1 | 4,6 | 6,0 | 6,0 |
-| Más de 8,5 córners | 78% | 60% | 50% | 50% |
-| Más de 9,5 córners | 67% | 60% | 40% | 25% |
-| Más de 10,5 córners | 44% | 40% | 30% | 25% |
-| Faltas cometidas | 11,7 | 12,4 | 12,3 | 12,5 |
-| Faltas recibidas | 11,8 | 10,8 | 10,0 | 8,8 |
-| Amarillas propias | 1,9 | 2,0 | 1,5 | 1,0 |
-| Amarillas del rival | 2,6 | 1,6 | 1,3 | 0,8 |
+| Partidos analizados | 10 | 5 | 11 | 5 |
+| Forma (últimos 5) | VVVVV | VVEVD | DDDEV | DDVVV |
+| Balance | 8V 1E 1D | 3V 1E 1D | 5V 1E 5D | 3V 0E 2D |
+| Goles a favor / partido | 2,20 | 1,60 | 0,91 | 1,20 |
+| Goles en contra / partido | 0,90 | 1,20 | 1,36 | 1,80 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,45 | 0,40 |
+| Goles a favor 2ª parte | 1,20 | 0,60 | 0,45 | 0,80 |
+| Goles en contra 1ª parte | 0,20 | 0,00 | 0,55 | 0,80 |
+| Goles en contra 2ª parte | 0,70 | 1,20 | 0,82 | 1,00 |
+| Más de 1,5 goles | 80% | 80% | 55% | 60% |
+| Más de 2,5 goles | 60% | 60% | 36% | 60% |
+| Más de 3,5 goles | 30% | 40% | 18% | 40% |
+| Ambos marcan | 50% | 60% | 36% | 40% |
+| Portería a cero | 40% | 20% | 36% | 40% |
+| Se queda sin marcar | 10% | 20% | 27% | 20% |
+| xG a favor | 1,72 | 1,82 | 1,25 | 1,63 |
+| xG en contra | 1,15 | 1,07 | 1,94 | 1,94 |
+| Tiros / partido | 14,8 | 16,4 | 11,5 | 11,8 |
+| Tiros a puerta / partido | 4,5 | 4,6 | 4,0 | 5,0 |
+| Tiros recibidos | 11,9 | 12,0 | 17,7 | 19,0 |
+| Tiros a puerta recibidos | 4,5 | 5,0 | 5,3 | 5,0 |
+| Posesión media % | 54 | 57 | 45 | 44 |
+| Córners a favor | 5,2 | 5,6 | 4,2 | 4,0 |
+| Córners en contra | 4,3 | 3,8 | 5,7 | 6,2 |
+| Córners a favor 1ª parte | 2,0 | 2,2 | 1,5 | 1,4 |
+| Córners a favor 2ª parte | 3,2 | 3,4 | 2,6 | 2,6 |
+| Córners totales del partido | 9,5 | 9,4 | 9,9 | 10,2 |
+| Córners totales 1ª parte | 4,7 | 4,8 | 3,8 | 4,0 |
+| Córners totales 2ª parte | 4,8 | 4,6 | 6,1 | 6,2 |
+| Más de 8,5 córners | 70% | 60% | 55% | 60% |
+| Más de 9,5 córners | 60% | 60% | 45% | 40% |
+| Más de 10,5 córners | 40% | 40% | 36% | 40% |
+| Faltas cometidas | 11,8 | 12,4 | 11,9 | 11,6 |
+| Faltas recibidas | 11,3 | 10,8 | 9,8 | 8,6 |
+| Amarillas propias | 1,8 | 2,0 | 1,5 | 1,0 |
+| Amarillas del rival | 2,4 | 1,6 | 1,2 | 0,6 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lazio | Recibe Lazio | Tarjetas Lazio | Goles Cagliari | Recibe Cagliari | Tarjetas Cagliari |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 0 | 0 | 0 | 1 | 1 |
-| 16-30' | 2 | 0 | 4 | 4 | 1 | 0 |
-| 31-45' | 2 | 0 | 4 | 0 | 2 | 2 |
-| 46-60' | 5 | 2 | 3 | 2 | 2 | 3 |
-| 61-75' | 2 | 3 | 2 | 1 | 1 | 1 |
-| 76-90' | 3 | 2 | 4 | 1 | 4 | 9 |
+| 1-15' | 4 | 1 | 0 | 1 | 2 | 1 |
+| 16-30' | 3 | 0 | 5 | 4 | 2 | 0 |
+| 31-45' | 3 | 1 | 4 | 0 | 2 | 2 |
+| 46-60' | 6 | 2 | 3 | 2 | 2 | 3 |
+| 61-75' | 3 | 3 | 2 | 1 | 1 | 1 |
+| 76-90' | 3 | 2 | 4 | 2 | 6 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -89,82 +89,82 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lazio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Serie A | Sassuolo 2-6 Lazio | fuera | 1-2 | 16 (8) - 9 (1) | 1-1 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | casa | 8-3 | 21 (5) - 10 (4) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | fuera | 7-5 | 9 (3) - 9 (2) | 2-0 |
 | 2026-10-11 | Serie A | Lazio 3-1 Monza | casa | 7-6 | 17 (7) - 14 (6) | 3-1 |
 | 2026-09-19 | Serie A | Venezia 0-2 Lazio | fuera | 2-7 | 12 (2) - 17 (6) | 0-6 |
 | 2026-09-12 | Serie A | Lazio 2-2 AC Milan | casa | 2-5 | 8 (6) - 16 (7) | 2-3 |
-| 2026-09-07 | Serie A | Udinese 1-2 Lazio | fuera | 8-2 | 19 (6) - 10 (6) | 1-5 |
 
 ## Jugadores de Lazio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Mandas | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| M. Zaccagni | F | 9 | 789 | 1 | 3 | 18 | 2,0 | 9 | 1,0 | 6 | 17 | 1,9 | 3 | 0 |
-| K. Taylor | M | 9 | 741 | 1 | 0 | 8 | 0,9 | 4 | 0,4 | 7 | 11 | 1,2 | 1 | 0 |
+| C. Mandas | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| M. Zaccagni | F | 10 | 879 | 2 | 5 | 23 | 2,3 | 11 | 1,1 | 7 | 20 | 2,0 | 3 | 0 |
+| K. Taylor | M | 10 | 786 | 2 | 1 | 9 | 0,9 | 5 | 0,5 | 8 | 12 | 1,2 | 2 | 0 |
+| D. Frattesi | M | 10 | 735 | 3 | 0 | 10 | 1,0 | 4 | 0,4 | 10 | 12 | 1,2 | 0 | 0 |
+| R. Floriani Mussolini | D | 9 | 735 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 12 | 1 | 0,1 | 1 | 0 |
 | O. Provstgaard | D | 9 | 735 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 15 | 1 | 0,1 | 3 | 0 |
-| R. Floriani Mussolini | D | 8 | 673 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 10 | 1 | 0,1 | 1 | 0 |
-| D. Frattesi | M | 9 | 645 | 3 | 0 | 9 | 1,0 | 3 | 0,3 | 8 | 12 | 1,3 | 0 | 0 |
-| R. Belahyane | M | 8 | 604 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 4 | 3 | 0,4 | 1 | 0 |
-| Nuno Tavares | D | 8 | 594 | 1 | 3 | 8 | 1,0 | 3 | 0,4 | 6 | 9 | 1,1 | 0 | 0 |
-| T. Noslin | F | 8 | 428 | 2 | 2 | 9 | 1,1 | 4 | 0,5 | 2 | 5 | 0,6 | 0 | 0 |
+| R. Belahyane | M | 9 | 694 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
+| Nuno Tavares | D | 9 | 657 | 1 | 3 | 8 | 0,9 | 3 | 0,3 | 7 | 9 | 1,0 | 0 | 0 |
+| T. Noslin | F | 9 | 499 | 4 | 2 | 13 | 1,4 | 6 | 0,7 | 3 | 5 | 0,6 | 0 | 0 |
+| J. Šutalo | D | 6 | 474 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
+| G. Isaksen | F | 9 | 469 | 3 | 1 | 14 | 1,6 | 3 | 0,3 | 7 | 12 | 1,3 | 1 | 0 |
 | Danilho Doekhi | D | 5 | 413 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 7 | 3 | 0,6 | 1 | 0 |
-| G. Isaksen | F | 8 | 406 | 2 | 0 | 13 | 1,6 | 2 | 0,2 | 6 | 11 | 1,4 | 1 | 0 |
-| J. Šutalo | D | 5 | 384 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Matteo Cancellieri | F | 6 | 372 | 1 | 0 | 10 | 1,7 | 3 | 0,5 | 8 | 8 | 1,3 | 2 | 0 |
+| M. Cancellieri | F | 7 | 399 | 1 | 0 | 12 | 1,7 | 3 | 0,4 | 8 | 9 | 1,3 | 2 | 0 |
+| Pedraza | D | 9 | 242 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
+| F. Dele-Bashiru | M | 6 | 240 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 1 | 3 | 0,5 | 1 | 0 |
 | Boulaye Dia | F | 3 | 230 | 0 | 1 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
-| Pedraza | D | 8 | 215 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
 | Nicolò Rovella | M | 3 | 206 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
-| F. Dele-Bashiru | M | 5 | 195 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 1 | 3 | 0,6 | 1 | 0 |
-| Andrea Pinamonti | F | 6 | 144 | 1 | 1 | 3 | 0,5 | 1 | 0,2 | 5 | 2 | 0,3 | 0 | 0 |
+| Diogo Leite | D | 4 | 183 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,5 | 1 | 0 |
+| A. Pinamonti | F | 7 | 163 | 1 | 1 | 3 | 0,4 | 1 | 0,1 | 5 | 2 | 0,3 | 0 | 0 |
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
-| Diogo Leite | D | 3 | 93 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 1 | 0 |
 
 ## Últimos partidos de Cagliari
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Serie A | AS Roma 4-2 Cagliari | fuera | 8-7 | 19 (8) - 20 (8) | 1-0 |
 | 2026-10-24 | Serie A | Cagliari 0-2 Bologna | casa | 1-6 | 4 (1) - 10 (5) | 3-1 |
 | 2026-10-19 | Serie A | Monza 4-0 Cagliari | fuera | 7-2 | 16 (5) - 14 (6) | 2-1 |
 | 2026-10-11 | Serie A | Cagliari 1-1 Juventus | casa | 1-9 | 4 (2) - 22 (10) | 2-1 |
 | 2026-09-19 | Serie A | Udinese 0-1 Cagliari | fuera | 1-16 | 5 (2) - 26 (5) | 0-2 |
 | 2026-09-12 | Serie A | Atalanta 1-2 Cagliari | fuera | 2-3 | 5 (5) - 22 (4) | –-– |
-| 2026-09-07 | Serie A | Cagliari 1-0 Lecce | casa | 7-5 | 20 (9) - 10 (3) | 1-3 |
 
 ## Jugadores de Cagliari
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A. Obert | D | 10 | 856 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,5 | 0 | 0 |
-| M. Adopo | M | 10 | 847 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 10 | 5 | 0,5 | 1 | 0 |
-| A. Romano | M | 10 | 836 | 1 | 0 | 12 | 1,2 | 6 | 0,6 | 14 | 7 | 0,7 | 0 | 0 |
-| E. Caprile | G | 9 | 820 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| J. Rodríguez | D | 10 | 810 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 10 | 6 | 0,6 | 0 | 0 |
+| A. Obert | M | 11 | 946 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 6 | 0,5 | 0 | 0 |
+| M. Adopo | M | 11 | 936 | 0 | 2 | 8 | 0,7 | 4 | 0,4 | 10 | 5 | 0,5 | 1 | 0 |
+| A. Romano | M | 11 | 926 | 1 | 0 | 13 | 1,2 | 6 | 0,5 | 15 | 8 | 0,7 | 0 | 0 |
+| E. Caprile | G | 10 | 910 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| J. Rodríguez | D | 11 | 900 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 13 | 6 | 0,5 | 1 | 0 |
 | H. Winks | M | 10 | 798 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 12 | 7 | 0,7 | 1 | 0 |
-| P. Mendy | F | 10 | 745 | 2 | 1 | 17 | 1,7 | 6 | 0,6 | 19 | 9 | 0,9 | 0 | 0 |
-| Zé Pedro | D | 9 | 706 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 1 | 0,1 | 2 | 0 |
-| A. Deiola | D | 10 | 647 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 7 | 4 | 0,4 | 3 | 0 |
-| D. Maldini | M | 10 | 645 | 4 | 0 | 10 | 1,0 | 5 | 0,5 | 7 | 13 | 1,3 | 1 | 0 |
+| Zé Pedro | D | 10 | 796 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 6 | 1 | 0,1 | 2 | 0 |
+| P. Mendy | F | 11 | 772 | 2 | 1 | 18 | 1,6 | 7 | 0,6 | 20 | 9 | 0,8 | 0 | 0 |
+| A. Deiola | M | 11 | 723 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 7 | 4 | 0,4 | 3 | 0 |
+| D. Maldini | F | 11 | 659 | 5 | 0 | 11 | 1,0 | 6 | 0,5 | 7 | 13 | 1,2 | 1 | 0 |
 | Jacopo Fazzini | M | 7 | 382 | 0 | 1 | 6 | 0,9 | 1 | 0,1 | 4 | 6 | 0,9 | 1 | 0 |
-| A. Fadera | F | 8 | 271 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 9 | 1,1 | 1 | 0 |
-| Y. Mina | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 3 | 2 | 0,7 | 0 | 0 |
+| Y. Mina | D | 4 | 360 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 3 | 3 | 0,8 | 0 | 0 |
+| A. Fadera | M | 9 | 347 | 0 | 1 | 7 | 0,8 | 2 | 0,2 | 7 | 12 | 1,3 | 1 | 0 |
+| Y. Sugawara | M | 6 | 231 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
 | Raphael Kofler | D | 5 | 204 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
-| Y. Massolin | M | 2 | 146 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,5 | 0 | 0 |
-| Y. Sugawara | D | 5 | 142 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| Y. Massolin | M | 3 | 147 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,0 | 0 | 0 |
+| M&apos;Bala Nzola | F | 3 | 137 | 1 | 0 | 6 | 2,0 | 2 | 0,7 | 3 | 3 | 1,0 | 0 | 0 |
 | Mattia Felici | F | 4 | 133 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 2 | 1 | 0,2 | 0 | 0 |
 | Kevin Carlos | F | 5 | 121 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 2 | 2 | 0,4 | 1 | 0 |
 | R. Ciervo | D | 2 | 102 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
-| Gennaro Borrelli | F | 3 | 91 | 0 | 0 | 4 | 1,3 | 1 | 0,3 | 4 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,72 · visitante 0,70 · córners esperados 10,0._
+_Goles esperados: local 2,17 · visitante 0,83 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 15% | 15% | 6.00 | -9% |
-| 1X2: X | 23% | 24% | 24% | 3.90 | -8% |
-| 1X2: 1 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles más/menos: Más de 2.5 | 43% | 47% | 45% | 2.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 57% | 53% | 55% | 1.80 | -2% |
-| Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -3% |
-| Córners más/menos: Menos de 8.5 | 42% | 46% | 44% | 2.00 | -12% |
+| 1X2: 2 | 13% | 15% | 14% | 6.00 | -15% |
+| 1X2: X | 19% | 24% | 21% | 3.90 | -17% |
+| 1X2: 1 | 68% | 61% | 64% | 1.53 | -1% |
+| Goles más/menos: Más de 2.5 | 58% | 47% | 53% | 2.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 42% | 53% | 47% | 1.80 | -15% |
+| Córners más/menos: Más de 8.5 | 57% | 54% | 55% | 1.73 | -4% |
+| Córners más/menos: Menos de 8.5 | 43% | 46% | 45% | 2.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

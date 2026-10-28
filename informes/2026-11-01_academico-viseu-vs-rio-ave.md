@@ -1,7 +1,7 @@
 # Academico Viseu – Rio Ave
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -179,42 +179,42 @@ _Sin bajas comunicadas por ahora._
 | D. Špikić | F | 6 | 183 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,08 · visitante 0,72 · córners esperados 9,2._
+_Goles esperados: local 2,06 · visitante 0,73 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 12% | 24% | 18% | 3.90 | -30% |
-| 1X2: X | 19% | 27% | 23% | 3.40 | -21% |
-| 1X2: 1 | 69% | 49% | 59% | 1.91 | +12% |
-| Doble oportunidad: X2 | 31% | 52% | 41% | 1.83 | -24% |
-| Doble oportunidad: 12 | 81% | 73% | 77% | 1.30 | -0% |
+| 1X2: X | 20% | 27% | 23% | 3.40 | -20% |
+| 1X2: 1 | 68% | 49% | 59% | 1.91 | +12% |
+| Doble oportunidad: X2 | 32% | 52% | 42% | 1.83 | -24% |
+| Doble oportunidad: 12 | 80% | 73% | 77% | 1.30 | -0% |
 | Doble oportunidad: 1X | 88% | 76% | 82% | 1.25 | +2% |
 | Ambos marcan: No | 55% | 48% | 51% | 1.95 | +0% |
-| Ambos marcan: Sí | 45% | 52% | 49% | 1.80 | -13% |
+| Ambos marcan: Sí | 45% | 52% | 49% | 1.80 | -12% |
 | Goles más/menos: Más de 1.5 | 77% | 73% | 75% | 1.28 | -4% |
 | Goles más/menos: Más de 2.5 | 53% | 49% | 51% | 1.95 | -1% |
 | Goles más/menos: Más de 3.5 | 31% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles más/menos: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -12% |
 | Goles más/menos: Menos de 2.5 | 47% | 51% | 49% | 1.85 | -9% |
 | Goles más/menos: Menos de 3.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 70% | 1.36 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 30% | 3.00 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
 | Goles del local: Más de 0.5 | 87% | 78% | 83% | 1.20 | -1% |
 | Goles del local: Más de 1.5 | 61% | 49% | 55% | 1.91 | +5% |
-| Goles del local: Más de 2.5 | 34% | 23% | 29% | 4.00 | +16% |
-| Goles del local: Menos de 0.5 | 13% | 22% | 17% | 4.33 | -26% |
-| Goles del local: Menos de 1.5 | 39% | 51% | 45% | 1.80 | -19% |
+| Goles del local: Más de 2.5 | 34% | 23% | 29% | 4.00 | +14% |
+| Goles del local: Menos de 0.5 | 13% | 22% | 17% | 4.33 | -25% |
+| Goles del local: Menos de 1.5 | 39% | 51% | 45% | 1.80 | -18% |
 | Goles del local: Menos de 2.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
-| Goles del visitante: Más de 1.5 | 16% | 29% | 23% | 3.25 | -26% |
+| Goles del visitante: Más de 1.5 | 17% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +10% |
-| Goles del visitante: Menos de 1.5 | 84% | 71% | 77% | 1.33 | +3% |
-| 1X2 descanso: 2 | 12% | 21% | 17% | 4.33 | -27% |
+| Goles del visitante: Menos de 1.5 | 83% | 71% | 77% | 1.33 | +3% |
+| 1X2 descanso: 2 | 13% | 21% | 17% | 4.33 | -26% |
 | 1X2 descanso: X | 39% | 42% | 40% | 2.20 | -11% |
-| 1X2 descanso: 1 | 49% | 37% | 43% | 2.50 | +7% |
+| 1X2 descanso: 1 | 48% | 37% | 43% | 2.50 | +6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

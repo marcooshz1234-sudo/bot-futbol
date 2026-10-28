@@ -1,21 +1,21 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **2.15**  ·  X **3.40**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.30**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.25** · menos **4.00**
-    - 2,5: más **1.80** · menos **2.00**
+    - 1,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.20** · menos **1.36**
-    - 4,5: más **5.50** · menos **1.14**
-    - 5,5: más **11.00** · menos **1.05**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
@@ -47,7 +47,7 @@ _Actualizadas: 26/10 19:53_
 - **Home Player Shots:** Evanilson - 1 **1.02**  ·  Rayan Vitor - 1 **1.05**  ·  Alvaro Rodriguez - 1 **1.03**  ·  David Brooks - 1 **1.05**  ·  Daniel Jebbison - 1 **1.05**  ·  Amine Adli - 1 **1.07**  ·  Justin Kluivert - 1 **1.08**  ·  Marcus Tavernier - 1 **1.04**  ·  Ben Doak - 1 **1.18**  ·  Juanlu Sanchez - 1 **1.62**  ·  Alex Scott - 1 **1.28**  ·  Ryan Christie - 1 **1.30**  ·  Alex Toth - 1 **1.44**  ·  Bafode Diakite - 1 **1.67**  ·  James Hill - 1 **1.67**  ·  Antonio Silva - 1 **1.83**  ·  Lewis Cook - 1 **1.83**  ·  Veljko Milosavljevic - 1 **2.00**  ·  Adrien Truffert - 1 **2.10**  ·  Tyler Adams - 1 **2.25**  ·  Adam Smith - 1 **2.38**  ·  Julio Soler - 1 **2.38**  ·  Evanilson - 2 **1.17**  ·  Rayan Vitor - 2 **1.25**  ·  Alvaro Rodriguez - 2 **1.20**  ·  David Brooks - 2 **1.30**  ·  Daniel Jebbison - 2 **1.28**  ·  Amine Adli - 2 **1.36**  ·  Justin Kluivert - 2 **1.40**  ·  Marcus Tavernier - 2 **1.22**  ·  Ben Doak - 2 **1.80**  ·  Juanlu Sanchez - 2 **3.75**  ·  Alex Scott - 2 **2.20**  ·  Ryan Christie - 2 **2.25**  ·  Alex Toth - 2 **3.00**  ·  Bafode Diakite - 2 **3.75**  ·  James Hill - 2 **3.75**  ·  Antonio Silva - 2 **5.00**  ·  Lewis Cook - 2 **5.00**  ·  Veljko Milosavljevic - 2 **6.00**  ·  Adrien Truffert - 2 **6.50**  ·  Tyler Adams - 2 **8.00**  ·  Adam Smith - 2 **8.00**  ·  Julio Soler - 2 **8.00**  ·  Evanilson - 3 **1.53**  ·  Rayan Vitor - 3 **1.73**  ·  Alvaro Rodriguez - 3 **1.57**  ·  David Brooks - 3 **1.83**  ·  Daniel Jebbison - 3 **1.83**  ·  Amine Adli - 3 **2.10**  ·  Justin Kluivert - 3 **2.20**  ·  Marcus Tavernier - 3 **1.67**  ·  Ben Doak - 3 **3.40**  ·  Juanlu Sanchez - 3 **11.00**  ·  Alex Scott - 3 **4.50**  ·  Ryan Christie - 3 **5.00**  ·  Alex Toth - 3 **8.00**  ·  Bafode Diakite - 3 **11.00**  ·  James Hill - 3 **11.00**  ·  Antonio Silva - 3 **15.00**  ·  Lewis Cook - 3 **15.00**  ·  Veljko Milosavljevic - 3 **19.00**  ·  Adrien Truffert - 3 **19.00**  ·  Tyler Adams - 3 **21.00**  ·  Adam Smith - 3 **21.00**  ·  Julio Soler - 3 **21.00**  ·  Evanilson - 4 **2.20**  ·  Rayan Vitor - 4 **2.75**  ·  Alvaro Rodriguez - 4 **2.38**  ·  David Brooks - 4 **3.25**  ·  Daniel Jebbison - 4 **3.00**  ·  Amine Adli - 4 **3.50**  ·  Justin Kluivert - 4 **4.00**  ·  Marcus Tavernier - 4 **2.50**  ·  Ben Doak - 4 **7.00**  ·  Juanlu Sanchez - 4 **21.00**  ·  Alex Scott - 4 **11.00**  ·  Ryan Christie - 4 **13.00**  ·  Alex Toth - 4 **19.00**  ·  Bafode Diakite - 4 **21.00**  ·  James Hill - 4 **21.00**  ·  Evanilson - 5 **3.75**  ·  Rayan Vitor - 5 **5.00**  ·  Alvaro Rodriguez - 5 **4.00**  ·  David Brooks - 5 **5.50**  ·  Daniel Jebbison - 5 **5.50**  ·  Amine Adli - 5 **7.00**  ·  Justin Kluivert - 5 **8.00**  ·  Marcus Tavernier - 5 **4.33**  ·  Ben Doak - 5 **15.00**  ·  Alex Scott - 5 **21.00**  ·  Ryan Christie - 5 **21.00**  ·  Evanilson - 6 **6.50**  ·  Rayan Vitor - 6 **10.00**  ·  Alvaro Rodriguez - 6 **8.00**  ·  David Brooks - 6 **11.00**  ·  Daniel Jebbison - 6 **11.00**  ·  Amine Adli - 6 **15.00**  ·  Justin Kluivert - 6 **17.00**  ·  Marcus Tavernier - 6 **8.00**  ·  Ben Doak - 6 **21.00**  ·  Evanilson - 7 **13.00**  ·  Rayan Vitor - 7 **19.00**  ·  Alvaro Rodriguez - 7 **15.00**  ·  David Brooks - 7 **21.00**  ·  Daniel Jebbison - 7 **21.00**  ·  Amine Adli - 7 **21.00**  ·  Evanilson - 8 **21.00**  ·  Alvaro Rodriguez - 8 **21.00**  ·  Marcus Tavernier - 7 **17.00**
 - **Away Player Shots:** Melvin Bard - 1 **1.83**  ·  Melvin Bard - 2 **5.00**  ·  Melvin Bard - 3 **15.00**  ·  Melvin Bard - 4 **21.00**  ·  Lukas Nmecha - 1 **1.02**  ·  Dominic Calvert-Lewin - 1 **1.04**  ·  Noah Okafor - 1 **1.08**  ·  Daniel James - 1 **1.10**  ·  Brenden Aaronson - 1 **1.14**  ·  Harry Wilson - 1 **1.11**  ·  Anton Stach - 1 **1.30**  ·  Ao Tanaka - 1 **1.44**  ·  Sean Longstaff - 1 **1.62**  ·  Jaka Bijol - 1 **1.53**  ·  Jayden Bogle - 1 **1.44**  ·  James Justin - 1 **1.91**  ·  Tarik Muharemovic - 1 **2.10**  ·  Ethan Ampadu - 1 **2.20**  ·  Nico Elvedi - 1 **2.25**  ·  Lukas Nmecha - 2 **1.17**  ·  Dominic Calvert-Lewin - 2 **1.22**  ·  Noah Okafor - 2 **1.40**  ·  Daniel James - 2 **1.50**  ·  Brenden Aaronson - 2 **1.62**  ·  Harry Wilson - 2 **1.53**  ·  Anton Stach - 2 **2.25**  ·  Ao Tanaka - 2 **3.00**  ·  Sean Longstaff - 2 **3.75**  ·  Jaka Bijol - 2 **3.40**  ·  Jayden Bogle - 2 **3.00**  ·  James Justin - 2 **5.50**  ·  Tarik Muharemovic - 2 **6.50**  ·  Ethan Ampadu - 2 **7.00**  ·  Nico Elvedi - 2 **8.00**  ·  Lukas Nmecha - 3 **1.53**  ·  Dominic Calvert-Lewin - 3 **1.67**  ·  Noah Okafor - 3 **2.20**  ·  Daniel James - 3 **2.38**  ·  Brenden Aaronson - 3 **2.75**  ·  Harry Wilson - 3 **2.50**  ·  Anton Stach - 3 **5.00**  ·  Ao Tanaka - 3 **7.00**  ·  Sean Longstaff - 3 **11.00**  ·  Jaka Bijol - 3 **9.00**  ·  Jayden Bogle - 3 **8.00**  ·  James Justin - 3 **17.00**  ·  Tarik Muharemovic - 3 **19.00**  ·  Ethan Ampadu - 3 **21.00**  ·  Nico Elvedi - 3 **21.00**  ·  Lukas Nmecha - 4 **2.20**  ·  Dominic Calvert-Lewin - 4 **2.62**  ·  Noah Okafor - 4 **3.75**  ·  Daniel James - 4 **4.33**  ·  Brenden Aaronson - 4 **5.50**  ·  Harry Wilson - 4 **4.50**  ·  Anton Stach - 4 **13.00**  ·  Ao Tanaka - 4 **19.00**  ·  Sean Longstaff - 4 **21.00**  ·  Jaka Bijol - 4 **21.00**  ·  Jayden Bogle - 4 **19.00**  ·  Lukas Nmecha - 5 **3.75**  ·  Dominic Calvert-Lewin - 5 **4.50**  ·  Noah Okafor - 5 **8.00**  ·  Daniel James - 5 **9.00**  ·  Brenden Aaronson - 5 **13.00**  ·  Harry Wilson - 5 **10.00**  ·  Anton Stach - 5 **21.00**  ·  Lukas Nmecha - 6 **6.50**  ·  Dominic Calvert-Lewin - 6 **9.00**  ·  Noah Okafor - 6 **17.00**  ·  Daniel James - 6 **19.00**  ·  Brenden Aaronson - 6 **21.00**  ·  Harry Wilson - 6 **21.00**  ·  Lukas Nmecha - 7 **13.00**  ·  Dominic Calvert-Lewin - 7 **17.00**  ·  Noah Okafor - 7 **21.00**  ·  Lukas Nmecha - 8 **21.00**  ·  Dominic Calvert-Lewin - 8 **21.00**  ·  Jean-Matteo Bahoya - 1 **1.25**  ·  Jean-Matteo Bahoya - 2 **2.10**  ·  Jean-Matteo Bahoya - 3 **4.33**  ·  Jean-Matteo Bahoya - 4 **10.00**  ·  Jean-Matteo Bahoya - 5 **21.00**  ·  Gabriel Gudmundsson - 1 **2.10**  ·  Gabriel Gudmundsson - 2 **6.50**  ·  Gabriel Gudmundsson - 3 **19.00**  ·  Ilia Gruev - 1 **2.25**  ·  Ilia Gruev - 2 **8.00**  ·  Ilia Gruev - 3 **21.00**
 - **Anytime Goal Scorer:** Gabriel Gudmundsson **13.00**  ·  Alvaro Rodriguez **3.25**  ·  Nico Elvedi **13.00**  ·  Ao Tanaka **7.00**  ·  Ben Doak **4.75**  ·  Antonio Silva **11.00**  ·  Eli Junior Kroupi **2.20**  ·  Brenden Aaronson **4.75**  ·  Julio Soler **15.00**  ·  Daniel James **4.75**  ·  Jayden Bogle **8.50**  ·  Bafode Diakite **11.00**  ·  Daniel Jebbison **3.10**  ·  Melvin Bard **13.00**  ·  Adrien Truffert **13.00**  ·  Tarik Muharemovic **13.00**  ·  Jean-Matteo Bahoya **5.50**  ·  Juanlu Sanchez **8.50**  ·  Tyler Adams **13.00**  ·  Veljko Milosavljevic **13.00**  ·  Alex Toth **8.50**  ·  Adam Smith **15.00**  ·  Alex Scott **7.00**  ·  Justin Kluivert **4.00**  ·  Lewis Cook **11.00**  ·  Marcus Tavernier **3.40**  ·  Ryan Christie **7.00**  ·  Dominic Calvert-Lewin **2.75**  ·  James Justin **13.00**  ·  Rayan Vitor **3.60**  ·  Noah Okafor **3.60**  ·  Anton Stach **7.00**  ·  Sean Longstaff **8.50**  ·  David Brooks **4.00**  ·  James Hill **11.00**  ·  Evanilson **2.75**  ·  Harry Wilson **4.00**  ·  Amine Adli **4.33**  ·  Jaka Bijol **9.50**  ·  Lukas Nmecha **3.40**  ·  Ethan Ampadu **15.00**  ·  Ilia Gruev **13.00**
-- **Player to Score or Assist:** Gabriel Gudmundsson **6.00**  ·  Alvaro Rodriguez **2.25**  ·  Nico Elvedi **8.00**  ·  Ao Tanaka **4.00**  ·  Ben Doak **2.75**  ·  Antonio Silva **7.00**  ·  Eli Junior Kroupi **1.80**  ·  Brenden Aaronson **2.88**  ·  Julio Soler **8.50**  ·  Daniel James **3.00**  ·  Jayden Bogle **4.75**  ·  Bafode Diakite **5.00**  ·  Daniel Jebbison **2.25**  ·  Melvin Bard **6.00**  ·  Adrien Truffert **4.33**  ·  Tarik Muharemovic **7.50**  ·  Jean-Matteo Bahoya **3.40**  ·  Juanlu Sanchez **4.00**  ·  Tyler Adams **7.50**  ·  Veljko Milosavljevic **8.50**  ·  Alex Toth **3.20**  ·  Adam Smith **8.50**  ·  Alex Scott **4.00**  ·  Justin Kluivert **2.50**  ·  Lewis Cook **4.75**  ·  Marcus Tavernier **2.38**  ·  Ryan Christie **3.50**  ·  Dominic Calvert-Lewin **2.38**  ·  James Justin **6.50**  ·  Rayan Vitor **2.50**  ·  Noah Okafor **2.60**  ·  Anton Stach **3.75**  ·  Sean Longstaff **3.50**  ·  David Brooks **2.50**  ·  James Hill **7.00**  ·  Evanilson **2.00**  ·  Harry Wilson **2.60**  ·  Amine Adli **2.62**  ·  Jaka Bijol **7.50**  ·  Lukas Nmecha **2.60**  ·  Ethan Ampadu **9.00**  ·  Ilia Gruev **6.00**
+- **Player to Score or Assist:** Gabriel Gudmundsson **6.50**  ·  Alvaro Rodriguez **2.25**  ·  Nico Elvedi **8.50**  ·  Ao Tanaka **4.00**  ·  Ben Doak **2.88**  ·  Antonio Silva **7.00**  ·  Eli Junior Kroupi **1.83**  ·  Brenden Aaronson **3.00**  ·  Julio Soler **8.50**  ·  Daniel James **3.00**  ·  Jayden Bogle **5.00**  ·  Bafode Diakite **5.50**  ·  Daniel Jebbison **2.25**  ·  Melvin Bard **6.00**  ·  Adrien Truffert **4.33**  ·  Tarik Muharemovic **7.50**  ·  Jean-Matteo Bahoya **3.50**  ·  Juanlu Sanchez **4.00**  ·  Tyler Adams **7.50**  ·  Veljko Milosavljevic **8.50**  ·  Alex Toth **3.25**  ·  Adam Smith **8.50**  ·  Alex Scott **4.00**  ·  Justin Kluivert **2.50**  ·  Lewis Cook **4.75**  ·  Marcus Tavernier **2.38**  ·  Ryan Christie **3.60**  ·  Dominic Calvert-Lewin **2.38**  ·  James Justin **6.50**  ·  Rayan Vitor **2.50**  ·  Noah Okafor **2.60**  ·  Anton Stach **3.75**  ·  Sean Longstaff **3.60**  ·  David Brooks **2.50**  ·  James Hill **7.00**  ·  Evanilson **2.00**  ·  Harry Wilson **2.62**  ·  Amine Adli **2.62**  ·  Jaka Bijol **7.50**  ·  Lukas Nmecha **2.75**  ·  Ethan Ampadu **9.50**  ·  Ilia Gruev **6.00**
 
 ## Estadísticas de equipo
 | | Bournemouth (total) | Bournemouth en casa | Leeds (total) | Leeds fuera |
@@ -187,18 +187,18 @@ _Goles esperados: local 1,99 · visitante 0,98 · córners esperados 9,0._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 18% | 28% | 23% | 3.40 | -22% |
-| 1X2: X | 21% | 28% | 25% | 3.40 | -17% |
-| 1X2: 1 ✅ | 61% | 44% | 53% | 2.15 | +13% |
-| Doble oportunidad: X2 | 39% | 56% | 48% | 1.67 | -21% |
+| 1X2: X | 21% | 28% | 25% | 3.40 | -16% |
+| 1X2: 1 ✅ | 61% | 44% | 52% | 2.15 | +13% |
+| Doble oportunidad: X2 | 39% | 56% | 48% | 1.67 | -20% |
 | Doble oportunidad: 12 | 79% | 72% | 75% | 1.30 | -2% |
 | Doble oportunidad: 1X | 82% | 72% | 77% | 1.30 | +0% |
 | Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
 | Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 80% | 76% | 78% | 1.25 | -3% |
-| Goles más/menos: Más de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Más de 1.5 | 80% | 75% | 77% | 1.28 | -1% |
+| Goles más/menos: Más de 2.5 | 57% | 50% | 54% | 1.91 | +2% |
 | Goles más/menos: Más de 3.5 | 35% | 30% | 32% | 3.20 | +3% |
-| Goles más/menos: Menos de 1.5 | 20% | 24% | 22% | 4.00 | -12% |
-| Goles más/menos: Menos de 2.5 | 43% | 47% | 45% | 2.00 | -10% |
+| Goles más/menos: Menos de 1.5 | 20% | 25% | 23% | 3.75 | -14% |
+| Goles más/menos: Menos de 2.5 | 43% | 50% | 46% | 1.91 | -11% |
 | Goles más/menos: Menos de 3.5 | 65% | 70% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
@@ -207,14 +207,14 @@ _Goles esperados: local 1,99 · visitante 0,98 · córners esperados 9,0._
 | Goles del local: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles del local: Más de 1.5 | 59% | 46% | 53% | 2.00 | +6% |
 | Goles del local: Más de 2.5 | 32% | 22% | 27% | 4.33 | +17% |
-| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -24% |
+| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -23% |
 | Goles del local: Menos de 1.5 | 41% | 54% | 47% | 1.73 | -18% |
 | Goles del local: Menos de 2.5 | 68% | 78% | 73% | 1.20 | -12% |
-| Goles del visitante: Más de 0.5 | 62% | 69% | 66% | 1.36 | -11% |
+| Goles del visitante: Más de 0.5 | 63% | 69% | 66% | 1.36 | -11% |
 | Goles del visitante: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 34% | 3.00 | +3% |
+| Goles del visitante: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +3% |
 | Goles del visitante: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| 1X2 descanso: 2 | 17% | 25% | 21% | 3.75 | -22% |
+| 1X2 descanso: 2 | 17% | 25% | 21% | 3.75 | -21% |
 | 1X2 descanso: X | 39% | 42% | 40% | 2.20 | -11% |
 | 1X2 descanso: 1 ✅ | 44% | 34% | 39% | 2.75 | +7% |
 

@@ -1,7 +1,7 @@
 # Villarreal – Paris Saint Germain
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Villarreal (total) | Villarreal en casa | Paris Saint Germain (total) | Paris Saint Germain fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 11 | 6 |
-| Forma (últimos 5) | VDEVD | EVVDD | VVVVV | VVVVE |
-| Balance | 4V 3E 6D | 2V 1E 2D | 8V 2E 1D | 4V 2E 0D |
-| Goles a favor / partido | 1,77 | 1,80 | 2,73 | 2,33 |
-| Goles en contra / partido | 1,69 | 1,40 | 1,27 | 1,33 |
-| Goles a favor 1ª parte | 0,85 | 1,00 | 0,91 | 0,67 |
-| Goles a favor 2ª parte | 0,92 | 0,80 | 1,82 | 1,67 |
-| Goles en contra 1ª parte | 0,92 | 1,00 | 0,36 | 0,67 |
-| Goles en contra 2ª parte | 0,77 | 0,40 | 0,91 | 0,67 |
-| Más de 1,5 goles | 77% | 80% | 91% | 83% |
-| Más de 2,5 goles | 77% | 80% | 82% | 83% |
-| Más de 3,5 goles | 62% | 60% | 64% | 67% |
-| Ambos marcan | 77% | 80% | 82% | 83% |
-| Portería a cero | 8% | 20% | 18% | 17% |
-| Se queda sin marcar | 23% | 20% | 0% | 0% |
+| Partidos analizados | 14 | 5 | 11 | 6 |
+| Forma (últimos 5) | VVDEV | EVVDD | VVVVV | VVVVE |
+| Balance | 5V 3E 6D | 2V 1E 2D | 8V 2E 1D | 4V 2E 0D |
+| Goles a favor / partido | 2,00 | 1,80 | 2,73 | 2,33 |
+| Goles en contra / partido | 1,57 | 1,40 | 1,27 | 1,33 |
+| Goles a favor 1ª parte | 0,93 | 1,00 | 0,91 | 0,67 |
+| Goles a favor 2ª parte | 1,07 | 0,80 | 1,82 | 1,67 |
+| Goles en contra 1ª parte | 0,86 | 1,00 | 0,36 | 0,67 |
+| Goles en contra 2ª parte | 0,71 | 0,40 | 0,91 | 0,67 |
+| Más de 1,5 goles | 79% | 80% | 91% | 83% |
+| Más de 2,5 goles | 79% | 80% | 82% | 83% |
+| Más de 3,5 goles | 64% | 60% | 64% | 67% |
+| Ambos marcan | 71% | 80% | 82% | 83% |
+| Portería a cero | 14% | 20% | 18% | 17% |
+| Se queda sin marcar | 21% | 20% | 0% | 0% |
 | xG a favor | 1,92 | 2,18 | 2,70 | 2,27 |
 | xG en contra | 1,44 | 1,35 | 1,35 | 1,55 |
 | Tiros / partido | 16,1 | 17,6 | 21,4 | 19,3 |
@@ -50,11 +50,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Villarreal | Recibe Villarreal | Tarjetas Villarreal | Goles Paris Saint Germain | Recibe Paris Saint Germain | Tarjetas Paris Saint Germain |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 1 | 3 | 1 | 0 |
-| 16-30' | 5 | 1 | 1 | 3 | 2 | 0 |
+| 1-15' | 2 | 2 | 1 | 3 | 1 | 0 |
+| 16-30' | 6 | 1 | 1 | 3 | 2 | 0 |
 | 31-45' | 5 | 9 | 7 | 4 | 1 | 3 |
-| 46-60' | 2 | 1 | 3 | 2 | 5 | 1 |
-| 61-75' | 3 | 3 | 2 | 8 | 3 | 2 |
+| 46-60' | 4 | 1 | 3 | 2 | 5 | 1 |
+| 61-75' | 4 | 3 | 3 | 8 | 3 | 2 |
 | 76-90' | 7 | 6 | 13 | 10 | 2 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -68,12 +68,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Villarreal
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Copa del Rey | Manacor 0-5 Villarreal | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Valencia 1-2 Villarreal | fuera | 9-6 | 19 (3) - 9 (5) | 3-3 |
 | 2026-10-20 | Champions League | Liverpool 4-3 Villarreal | fuera | 2-7 | 14 (5) - 22 (7) | 2-0 |
 | 2026-10-17 | LaLiga | Villarreal 0-0 Elche | casa | 10-5 | 20 (7) - 7 (1) | 2-4 |
 | 2026-10-13 | Champions League | Villarreal 3-1 Napoli | casa | 4-4 | 16 (4) - 11 (3) | 2-3 |
 | 2026-10-10 | LaLiga | Real Madrid 1-0 Villarreal | fuera | 3-9 | 15 (4) - 11 (4) | 2-5 |
-| 2026-09-20 | LaLiga | Villarreal 3-1 Levante | casa | 7-1 | 21 (7) - 6 (1) | 1-1 |
 
 ## Jugadores de Villarreal
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Lucas Digne | D | 4 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 2,16 · córners esperados 9,6._
+_Goles esperados: local 1,68 · visitante 2,06 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

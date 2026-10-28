@@ -1,7 +1,7 @@
 # AD Ceuta FC – Sporting Gijon
 **Segunda División** · Regular Season - 12 · 01/11/2026 16:15 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 19:50_
@@ -183,42 +183,42 @@ _Sin bajas comunicadas por ahora._
 | Antonio Casas | F | 5 | 182 | 3 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,13 · visitante 1,32 · córners esperados 9,5._
+_Goles esperados: local 1,12 · visitante 1,33 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 37% | 39% | 2.50 | -2% |
-| 1X2: X | 27% | 29% | 28% | 3.25 | -9% |
-| 1X2: 1 | 32% | 34% | 33% | 2.70 | -11% |
-| Doble oportunidad: X2 | 68% | 66% | 67% | 1.44 | -3% |
+| 1X2: 2 | 42% | 37% | 39% | 2.50 | -2% |
+| 1X2: X | 27% | 29% | 28% | 3.25 | -10% |
+| 1X2: 1 | 31% | 34% | 33% | 2.70 | -11% |
+| Doble oportunidad: X2 | 69% | 66% | 67% | 1.44 | -3% |
 | Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 59% | 63% | 61% | 1.50 | -9% |
+| Doble oportunidad: 1X | 58% | 63% | 61% | 1.50 | -9% |
 | Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
 | Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 44% | 51% | 48% | 1.85 | -12% |
+| Goles más/menos: Más de 2.5 | 44% | 51% | 48% | 1.85 | -11% |
 | Goles más/menos: Más de 3.5 | 23% | 31% | 27% | 3.00 | -18% |
-| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +3% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +2% |
 | Goles más/menos: Menos de 2.5 | 56% | 49% | 52% | 1.95 | +2% |
 | Goles más/menos: Menos de 3.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 0.5 | 68% | 73% | 70% | 1.28 | -10% |
-| Goles del local: Más de 1.5 | 31% | 39% | 35% | 2.38 | -16% |
-| Goles del local: Menos de 0.5 | 32% | 27% | 30% | 3.50 | +4% |
+| Goles del local: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles del local: Más de 1.5 | 31% | 39% | 35% | 2.38 | -17% |
+| Goles del local: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +4% |
 | Goles del local: Menos de 1.5 | 69% | 61% | 65% | 1.53 | -1% |
-| Goles del visitante: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
-| Goles del visitante: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles del visitante: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
-| Goles del visitante: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
+| Goles del visitante: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles del visitante: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
+| Goles del visitante: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del visitante: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -5% |
 | Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
 | Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -6% |
+| 1X2 descanso: 2 | 31% | 30% | 30% | 3.10 | -6% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
-| 1X2 descanso: 1 | 25% | 29% | 27% | 3.25 | -13% |
+| 1X2 descanso: 1 | 25% | 29% | 27% | 3.25 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,46 @@
 # Xerez – Cadiz
 **Copa del Rey** · Round of 128 · 28/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 02:03_
+
+- **1X2:** 1 **4.20**  ·  X **3.60**  ·  2 **1.67**
+- **Doble oportunidad:** 1X **2.00**  ·  12 **1.25**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.60**  ·  2 **2.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.28**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.10**
+- **Win Both Halves:** 1 **21.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.88**  ·  Home/No **11.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.88**
 
 ## Estadísticas de equipo
 | | Xerez (total) | Xerez en casa | Cadiz (total) | Cadiz fuera |

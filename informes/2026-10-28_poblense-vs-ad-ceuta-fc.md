@@ -1,29 +1,33 @@
 # Poblense – AD Ceuta FC
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:49_
+_Actualizadas: 28/10 02:02_
 
-- **1X2:** 1 **4.33**  ·  X **4.20**  ·  2 **1.53**
-- **Doble oportunidad:** 1X **2.62**  ·  12 **1.17**  ·  X2 **1.12**
+- **1X2:** 1 **4.33**  ·  X **4.20**  ·  2 **1.55**
+- **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -32,11 +36,11 @@ _Actualizadas: 27/10 19:49_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.33**
 - **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.38**
 - **Win Both Halves:** 1 **21.00**  ·  2 **4.00**
 - **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.60**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.62**
 
 ## Estadísticas de equipo
 | | Poblense (total) | Poblense en casa | AD Ceuta FC (total) | AD Ceuta FC fuera |

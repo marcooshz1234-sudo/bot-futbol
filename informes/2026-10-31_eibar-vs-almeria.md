@@ -1,7 +1,7 @@
 # Eibar – Almeria
 **Segunda División** · Regular Season - 12 · 31/10/2026 16:15 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -59,21 +59,21 @@ _Actualizadas: 27/10 07:50_
 ## Estadísticas de equipo
 | | Eibar (total) | Eibar en casa | Almeria (total) | Almeria fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 5 |
-| Forma (últimos 5) | DEDVV | EVVVD | EVVVV | VVVDD |
-| Balance | 7V 1E 3D | 3V 1E 1D | 8V 1E 2D | 3V 0E 2D |
-| Goles a favor / partido | 1,82 | 1,80 | 2,00 | 1,40 |
-| Goles en contra / partido | 1,18 | 1,20 | 0,82 | 0,80 |
-| Goles a favor 1ª parte | 0,91 | 1,00 | 1,18 | 0,60 |
-| Goles a favor 2ª parte | 0,91 | 0,80 | 0,82 | 0,80 |
-| Goles en contra 1ª parte | 0,55 | 0,60 | 0,27 | 0,20 |
-| Goles en contra 2ª parte | 0,64 | 0,60 | 0,55 | 0,60 |
-| Más de 1,5 goles | 82% | 80% | 73% | 40% |
-| Más de 2,5 goles | 64% | 60% | 55% | 20% |
-| Más de 3,5 goles | 45% | 40% | 27% | 20% |
-| Ambos marcan | 55% | 60% | 36% | 20% |
-| Portería a cero | 36% | 40% | 45% | 40% |
-| Se queda sin marcar | 9% | 0% | 18% | 40% |
+| Partidos analizados | 11 | 5 | 12 | 6 |
+| Forma (últimos 5) | DEDVV | EVVVD | VEVVV | VVVVD |
+| Balance | 7V 1E 3D | 3V 1E 1D | 9V 1E 2D | 4V 0E 2D |
+| Goles a favor / partido | 1,82 | 1,80 | 2,00 | 1,50 |
+| Goles en contra / partido | 1,18 | 1,20 | 0,83 | 0,83 |
+| Goles a favor 1ª parte | 0,91 | 1,00 | 1,08 | 0,50 |
+| Goles a favor 2ª parte | 0,91 | 0,80 | 0,92 | 1,00 |
+| Goles en contra 1ª parte | 0,55 | 0,60 | 0,25 | 0,17 |
+| Goles en contra 2ª parte | 0,64 | 0,60 | 0,58 | 0,67 |
+| Más de 1,5 goles | 82% | 80% | 75% | 50% |
+| Más de 2,5 goles | 64% | 60% | 58% | 33% |
+| Más de 3,5 goles | 45% | 40% | 25% | 17% |
+| Ambos marcan | 55% | 60% | 42% | 33% |
+| Portería a cero | 36% | 40% | 42% | 33% |
+| Se queda sin marcar | 9% | 0% | 17% | 33% |
 | xG a favor | 1,61 | 2,00 | 1,40 | 1,20 |
 | xG en contra | 1,42 | 0,88 | 1,47 | 1,96 |
 | Tiros / partido | 12,2 | 14,0 | 12,6 | 8,4 |
@@ -103,9 +103,9 @@ _Actualizadas: 27/10 07:50_
 | 1-15' | 5 | 3 | 1 | 3 | 0 | 1 |
 | 16-30' | 2 | 1 | 1 | 4 | 1 | 0 |
 | 31-45' | 3 | 2 | 3 | 6 | 2 | 8 |
-| 46-60' | 3 | 3 | 4 | 4 | 2 | 2 |
+| 46-60' | 3 | 3 | 4 | 4 | 2 | 3 |
 | 61-75' | 5 | 1 | 3 | 2 | 0 | 2 |
-| 76-90' | 2 | 3 | 11 | 3 | 4 | 9 |
+| 76-90' | 2 | 3 | 11 | 5 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,12 +157,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Almeria
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Copa del Rey | Castellonense 1-2 Almeria | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Almeria 2-2 Oviedo | casa | 4-7 | 7 (3) - 20 (8) | 2-5 |
 | 2026-10-17 | Segunda División | Real Sociedad II 2-4 Almeria | fuera | 2-10 | 7 (4) - 21 (9) | 1-2 |
 | 2026-10-11 | Segunda División | Almeria 3-0 Leganes | casa | 8-3 | 18 (8) - 7 (1) | 2-5 |
 | 2026-10-03 | Segunda División | Almeria 2-1 Burgos | casa | 8-3 | 25 (8) - 9 (4) | 2-3 |
 | 2026-09-27 | Segunda División | Mallorca 0-1 Almeria | fuera | 2-6 | 11 (3) - 17 (5) | 3-6 |
-| 2026-09-20 | Segunda División | Almeria 2-0 Celta de Vigo II | casa | 2-5 | 16 (6) - 12 (1) | 0-1 |
 
 ## Jugadores de Almeria
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -189,42 +189,42 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 1,36 · córners esperados 9,6._
+_Goles esperados: local 1,67 · visitante 1,37 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 36% | 33% | 2.55 | -15% |
-| 1X2: X | 24% | 27% | 25% | 3.40 | -14% |
-| 1X2: 1 | 46% | 37% | 41% | 2.50 | +3% |
-| Doble oportunidad: X2 | 54% | 63% | 59% | 1.50 | -12% |
+| 1X2: 2 | 32% | 36% | 34% | 2.55 | -14% |
+| 1X2: X | 24% | 27% | 25% | 3.40 | -13% |
+| 1X2: 1 | 44% | 37% | 41% | 2.50 | +2% |
+| Doble oportunidad: X2 | 56% | 63% | 59% | 1.50 | -11% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.30 | -3% |
-| Doble oportunidad: 1X | 69% | 63% | 66% | 1.50 | -0% |
-| Ambos marcan: No | 39% | 41% | 40% | 2.25 | -10% |
+| Doble oportunidad: 1X | 68% | 63% | 66% | 1.50 | -1% |
+| Ambos marcan: No | 39% | 41% | 40% | 2.25 | -9% |
 | Ambos marcan: Sí | 61% | 59% | 60% | 1.57 | -6% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.73 | -2% |
-| Goles más/menos: Más de 3.5 | 37% | 34% | 35% | 2.75 | -3% |
+| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles más/menos: Menos de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.08 | -10% |
-| Goles más/menos: Menos de 3.5 | 63% | 66% | 65% | 1.40 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -10% |
+| Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Goles del local: Más de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
-| Goles del local: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del local: Menos de 1.5 | 49% | 58% | 53% | 1.62 | -13% |
-| Goles del visitante: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
-| Goles del visitante: Más de 1.5 | 39% | 42% | 41% | 2.20 | -10% |
-| Goles del visitante: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
-| Goles del visitante: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
+| Goles del local: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
+| Goles del local: Más de 1.5 | 50% | 42% | 46% | 2.20 | +1% |
+| Goles del local: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del local: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
+| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
+| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.80 | -12% |
 | Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.91 | -2% |
-| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -14% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
-| 1X2 descanso: 1 | 35% | 30% | 32% | 3.10 | +0% |
+| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -13% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 34% | 30% | 32% | 3.10 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

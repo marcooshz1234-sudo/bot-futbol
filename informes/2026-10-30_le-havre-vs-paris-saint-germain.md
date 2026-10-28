@@ -1,10 +1,10 @@
 # Le Havre – Paris Saint Germain
 **Ligue 1** · Regular Season - 9 · 30/10/2026 19:00 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **11.00**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.05**
@@ -192,43 +192,43 @@ _Sin bajas comunicadas por ahora._
 | Lucas Digne | D | 4 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,03 · visitante 2,68 · córners esperados 9,3._
+_Goles esperados: local 1,02 · visitante 2,71 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 72% | 77% | 75% | 1.22 | -9% |
-| 1X2: X | 16% | 14% | 15% | 6.50 | -3% |
-| 1X2: 1 | 12% | 9% | 10% | 11.00 | +13% |
+| 1X2: 2 | 73% | 77% | 75% | 1.22 | -8% |
+| 1X2: X | 15% | 14% | 15% | 6.50 | -3% |
+| 1X2: 1 | 12% | 9% | 10% | 11.00 | +11% |
 | Doble oportunidad: X2 | 88% | 91% | 89% | 1.05 | -6% |
-| Doble oportunidad: 12 | 84% | 86% | 85% | 1.11 | -6% |
-| Doble oportunidad: 1X | 28% | 24% | 26% | 4.00 | +3% |
+| Doble oportunidad: 12 | 85% | 86% | 85% | 1.11 | -5% |
+| Doble oportunidad: 1X | 27% | 24% | 25% | 4.00 | +2% |
 | Ambos marcan: No | 40% | 45% | 43% | 2.05 | -12% |
 | Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -5% |
+| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -4% |
 | Goles más/menos: Más de 3.5 | 51% | 53% | 52% | 1.80 | -7% |
-| Goles más/menos: Más de 4.5 | 31% | 32% | 32% | 3.00 | -5% |
+| Goles más/menos: Más de 4.5 | 32% | 32% | 32% | 3.00 | -5% |
 | Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
-| Goles más/menos: Menos de 3.5 | 49% | 47% | 48% | 2.00 | -3% |
-| Goles más/menos: Menos de 4.5 | 69% | 68% | 68% | 1.40 | -4% |
+| Goles más/menos: Menos de 3.5 | 49% | 47% | 48% | 2.00 | -4% |
+| Goles más/menos: Menos de 4.5 | 68% | 68% | 68% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 0.5 | 64% | 58% | 61% | 1.62 | -1% |
+| Goles del local: Más de 0.5 | 64% | 58% | 61% | 1.62 | -2% |
 | Goles del local: Más de 1.5 | 27% | 23% | 25% | 4.00 | +1% |
 | Goles del local: Menos de 0.5 | 36% | 42% | 39% | 2.20 | -14% |
 | Goles del local: Menos de 1.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del visitante: Más de 1.5 | 75% | 77% | 76% | 1.22 | -8% |
-| Goles del visitante: Más de 2.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles del visitante: Más de 3.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles del visitante: Menos de 1.5 | 25% | 23% | 24% | 4.00 | -3% |
-| Goles del visitante: Menos de 2.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles del visitante: Menos de 3.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles del visitante: Más de 1.5 | 75% | 77% | 76% | 1.22 | -7% |
+| Goles del visitante: Más de 2.5 | 51% | 54% | 52% | 1.73 | -10% |
+| Goles del visitante: Más de 3.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles del visitante: Menos de 1.5 | 25% | 23% | 24% | 4.00 | -4% |
+| Goles del visitante: Menos de 2.5 | 49% | 46% | 48% | 2.00 | -4% |
+| Goles del visitante: Menos de 3.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.95 | -10% |
 | Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.85 | -0% |
 | 1X2 descanso: 2 | 54% | 59% | 57% | 1.57 | -11% |
-| 1X2 descanso: X | 32% | 30% | 31% | 3.10 | -4% |
+| 1X2 descanso: X | 32% | 30% | 31% | 3.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

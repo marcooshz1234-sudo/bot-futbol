@@ -1,7 +1,7 @@
 # Arouca – Nacional
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -182,40 +182,40 @@ _Sin bajas comunicadas por ahora._
 | N. Kader | F | 2 | 159 | 2 | 0 | 3 | 1,5 | 2 | 1,0 | 4 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,21 · visitante 0,82 · córners esperados 9,2._
+_Goles esperados: local 2,19 · visitante 0,83 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 13% | 23% | 18% | 4.10 | -27% |
-| 1X2: X | 18% | 26% | 22% | 3.60 | -20% |
-| 1X2: 1 | 69% | 51% | 60% | 1.83 | +10% |
+| 1X2: X | 19% | 26% | 22% | 3.60 | -20% |
+| 1X2: 1 | 69% | 51% | 60% | 1.83 | +9% |
 | Doble oportunidad: X2 | 31% | 49% | 40% | 1.91 | -23% |
-| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | -1% |
+| Doble oportunidad: 12 | 81% | 74% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 87% | 77% | 82% | 1.22 | +0% |
 | Ambos marcan: No | 50% | 47% | 48% | 2.00 | -3% |
-| Ambos marcan: Sí | 50% | 53% | 52% | 1.75 | -10% |
-| Goles más/menos: Más de 1.5 | 81% | 75% | 78% | 1.25 | -3% |
-| Goles más/menos: Más de 2.5 | 58% | 51% | 55% | 1.85 | +2% |
+| Ambos marcan: Sí | 50% | 53% | 52% | 1.75 | -9% |
+| Goles más/menos: Más de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 2.5 | 58% | 51% | 55% | 1.85 | +1% |
 | Goles más/menos: Más de 3.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles más/menos: Menos de 1.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles más/menos: Menos de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
 | Goles más/menos: Menos de 2.5 | 42% | 49% | 45% | 1.95 | -12% |
 | Goles más/menos: Menos de 3.5 | 64% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 1.5 | 65% | 51% | 58% | 1.80 | +5% |
+| Goles del local: Más de 1.5 | 64% | 51% | 58% | 1.80 | +4% |
 | Goles del local: Más de 2.5 | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del local: Menos de 1.5 | 35% | 49% | 42% | 1.91 | -20% |
+| Goles del local: Menos de 1.5 | 36% | 49% | 42% | 1.91 | -20% |
 | Goles del local: Menos de 2.5 | 62% | 73% | 68% | 1.28 | -13% |
 | Goles del visitante: Más de 0.5 | 56% | 65% | 60% | 1.44 | -13% |
-| Goles del visitante: Más de 1.5 | 20% | 29% | 24% | 3.25 | -20% |
+| Goles del visitante: Más de 1.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles del visitante: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +4% |
-| Goles del visitante: Menos de 1.5 | 80% | 71% | 76% | 1.33 | +0% |
-| 1X2 descanso: 2 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles del visitante: Menos de 1.5 | 80% | 71% | 75% | 1.33 | +0% |
+| 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -23% |
 | 1X2 descanso: X | 37% | 41% | 39% | 2.25 | -12% |
-| 1X2 descanso: 1 | 50% | 38% | 44% | 2.40 | +6% |
+| 1X2 descanso: 1 | 49% | 38% | 44% | 2.40 | +5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

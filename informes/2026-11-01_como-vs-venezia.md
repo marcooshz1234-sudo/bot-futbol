@@ -1,7 +1,7 @@
 # Como – Venezia
 **Serie A** · Regular Season - 10 · 01/11/2026 12:30 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -62,53 +62,53 @@ _Actualizadas: 27/10 13:52_
 ## Estadísticas de equipo
 | | Como (total) | Como en casa | Venezia (total) | Venezia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 10 | 5 |
-| Forma (últimos 5) | VVVDE | VVEVV | DVDDD | DDDDD |
-| Balance | 7V 2E 2D | 4V 1E 0D | 2V 0E 8D | 0V 0E 5D |
-| Goles a favor / partido | 2,18 | 2,40 | 1,00 | 0,80 |
-| Goles en contra / partido | 1,09 | 0,60 | 2,10 | 2,20 |
-| Goles a favor 1ª parte | 1,09 | 0,80 | 0,40 | 0,40 |
-| Goles a favor 2ª parte | 1,09 | 1,60 | 0,60 | 0,40 |
-| Goles en contra 1ª parte | 0,64 | 0,00 | 1,10 | 1,40 |
-| Goles en contra 2ª parte | 0,45 | 0,60 | 1,00 | 0,80 |
-| Más de 1,5 goles | 91% | 80% | 80% | 80% |
-| Más de 2,5 goles | 64% | 60% | 50% | 60% |
-| Más de 3,5 goles | 45% | 40% | 40% | 40% |
-| Ambos marcan | 73% | 60% | 50% | 60% |
-| Portería a cero | 18% | 40% | 10% | 0% |
-| Se queda sin marcar | 18% | 20% | 40% | 40% |
-| xG a favor | 1,87 | 2,24 | 1,58 | 1,82 |
-| xG en contra | 1,29 | 0,98 | 2,08 | 1,68 |
-| Tiros / partido | 18,4 | 17,4 | 15,1 | 14,6 |
-| Tiros a puerta / partido | 6,6 | 6,2 | 4,9 | 3,8 |
-| Tiros recibidos | 13,6 | 11,0 | 15,7 | 14,8 |
-| Tiros a puerta recibidos | 3,5 | 2,8 | 6,7 | 7,2 |
-| Posesión media % | 58 | 58 | 56 | 57 |
+| Partidos analizados | 12 | 5 | 10 | 5 |
+| Forma (últimos 5) | VVVVD | VVEVV | DVDDD | DDDDD |
+| Balance | 8V 2E 2D | 4V 1E 0D | 2V 0E 8D | 0V 0E 5D |
+| Goles a favor / partido | 2,25 | 2,40 | 1,00 | 0,80 |
+| Goles en contra / partido | 1,08 | 0,60 | 2,10 | 2,20 |
+| Goles a favor 1ª parte | 1,00 | 0,80 | 0,40 | 0,40 |
+| Goles a favor 2ª parte | 1,25 | 1,60 | 0,60 | 0,40 |
+| Goles en contra 1ª parte | 0,67 | 0,00 | 1,10 | 1,40 |
+| Goles en contra 2ª parte | 0,42 | 0,60 | 1,00 | 0,80 |
+| Más de 1,5 goles | 92% | 80% | 80% | 80% |
+| Más de 2,5 goles | 67% | 60% | 50% | 60% |
+| Más de 3,5 goles | 50% | 40% | 40% | 40% |
+| Ambos marcan | 75% | 60% | 50% | 60% |
+| Portería a cero | 17% | 40% | 10% | 0% |
+| Se queda sin marcar | 17% | 20% | 40% | 40% |
+| xG a favor | 1,90 | 2,24 | 1,58 | 1,82 |
+| xG en contra | 1,28 | 0,98 | 2,08 | 1,68 |
+| Tiros / partido | 18,3 | 17,4 | 15,1 | 14,6 |
+| Tiros a puerta / partido | 6,5 | 6,2 | 4,9 | 3,8 |
+| Tiros recibidos | 13,4 | 11,0 | 15,7 | 14,8 |
+| Tiros a puerta recibidos | 3,7 | 2,8 | 6,7 | 7,2 |
+| Posesión media % | 59 | 58 | 56 | 57 |
 | Córners a favor | 5,5 | 5,0 | 4,8 | 4,8 |
-| Córners en contra | 4,5 | 3,8 | 4,9 | 5,0 |
-| Córners a favor 1ª parte | 2,7 | 2,4 | 2,1 | 1,4 |
+| Córners en contra | 4,6 | 3,8 | 4,9 | 5,0 |
+| Córners a favor 1ª parte | 2,8 | 2,4 | 2,1 | 1,4 |
 | Córners a favor 2ª parte | 2,7 | 2,6 | 2,7 | 3,4 |
-| Córners totales del partido | 10,0 | 8,8 | 9,7 | 9,8 |
-| Córners totales 1ª parte | 4,6 | 4,4 | 4,2 | 4,0 |
-| Córners totales 2ª parte | 5,4 | 4,4 | 5,5 | 5,8 |
-| Más de 8,5 córners | 64% | 40% | 60% | 60% |
-| Más de 9,5 córners | 45% | 40% | 50% | 60% |
-| Más de 10,5 córners | 36% | 20% | 40% | 40% |
-| Faltas cometidas | 10,1 | 10,0 | 10,1 | 10,0 |
-| Faltas recibidas | 11,5 | 8,8 | 10,9 | 14,0 |
-| Amarillas propias | 1,5 | 1,6 | 2,1 | 1,8 |
-| Amarillas del rival | 2,2 | 2,2 | 1,2 | 1,2 |
+| Córners totales del partido | 10,1 | 8,8 | 9,7 | 9,8 |
+| Córners totales 1ª parte | 4,8 | 4,4 | 4,2 | 4,0 |
+| Córners totales 2ª parte | 5,3 | 4,4 | 5,5 | 5,8 |
+| Más de 8,5 córners | 67% | 40% | 60% | 60% |
+| Más de 9,5 córners | 50% | 40% | 50% | 60% |
+| Más de 10,5 córners | 42% | 20% | 40% | 40% |
+| Faltas cometidas | 9,5 | 10,0 | 10,1 | 10,0 |
+| Faltas recibidas | 11,3 | 8,8 | 10,9 | 14,0 |
+| Amarillas propias | 1,4 | 1,6 | 2,1 | 1,8 |
+| Amarillas del rival | 2,1 | 2,2 | 1,2 | 1,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Como | Recibe Como | Tarjetas Como | Goles Venezia | Recibe Venezia | Tarjetas Venezia |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 0 | 1 | 2 | 0 |
-| 16-30' | 5 | 4 | 1 | 2 | 6 | 3 |
+| 16-30' | 5 | 5 | 1 | 2 | 6 | 3 |
 | 31-45' | 5 | 2 | 4 | 1 | 3 | 5 |
 | 46-60' | 7 | 2 | 3 | 1 | 4 | 3 |
 | 61-75' | 0 | 0 | 3 | 2 | 2 | 3 |
-| 76-90' | 5 | 3 | 6 | 3 | 4 | 7 |
+| 76-90' | 8 | 3 | 6 | 3 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -126,36 +126,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Como
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Serie A | Torino 1-3 Como | fuera | 6-5 | 18 (5) - 11 (5) | 0-1 |
 | 2026-10-24 | Serie A | Como 2-0 Sassuolo | casa | 6-4 | 14 (6) - 7 (0) | 2-2 |
 | 2026-10-21 | Champions League | Como 4-1 Manchester United | casa | 1-4 | 11 (8) - 13 (4) | 1-3 |
 | 2026-10-18 | Serie A | Fiorentina 1-3 Como | fuera | 5-11 | 16 (8) - 19 (7) | 3-2 |
 | 2026-10-14 | Champions League | Feyenoord 3-2 Como | fuera | 1-5 | 11 (5) - 13 (5) | 3-2 |
 | 2026-10-11 | Serie A | Como 0-0 AS Roma | casa | 6-2 | 19 (4) - 9 (2) | 2-3 |
-| 2026-09-20 | Serie A | Frosinone 2-0 Como | fuera | 8-7 | 27 (8) - 22 (6) | 2-3 |
 
 ## Jugadores de Como
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jacobo Ramón Naveros | D | 11 | 931 | 2 | 1 | 9 | 0,8 | 3 | 0,3 | 10 | 2 | 0,2 | 2 | 0 |
-| N. Paz | M | 10 | 831 | 4 | 5 | 33 | 3,3 | 15 | 1,5 | 20 | 13 | 1,3 | 2 | 0 |
+| Jacobo Ramón Naveros | D | 12 | 1021 | 3 | 1 | 12 | 1,0 | 5 | 0,4 | 10 | 2 | 0,2 | 2 | 0 |
+| N. Paz | M | 11 | 921 | 5 | 6 | 39 | 3,5 | 16 | 1,5 | 20 | 14 | 1,3 | 2 | 0 |
+| T. Douvikas | F | 12 | 862 | 8 | 0 | 27 | 2,2 | 17 | 1,4 | 4 | 19 | 1,6 | 0 | 0 |
+| Yan Couto | D | 11 | 846 | 0 | 2 | 7 | 0,6 | 3 | 0,3 | 10 | 7 | 0,6 | 2 | 0 |
+| L. da Cunha | M | 12 | 820 | 0 | 1 | 13 | 1,1 | 4 | 0,3 | 5 | 5 | 0,4 | 1 | 0 |
 | J. Butez | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| T. Douvikas | F | 11 | 772 | 8 | 0 | 25 | 2,3 | 17 | 1,5 | 4 | 19 | 1,7 | 0 | 0 |
-| Yan Couto | D | 10 | 756 | 0 | 1 | 6 | 0,6 | 3 | 0,3 | 9 | 5 | 0,5 | 2 | 0 |
-| L. da Cunha | M | 11 | 730 | 0 | 1 | 11 | 1,0 | 4 | 0,4 | 5 | 3 | 0,3 | 1 | 0 |
-| M. Perrone | M | 11 | 668 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 10 | 5 | 0,5 | 1 | 0 |
-| Luis Milla | M | 11 | 658 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 11 | 1,0 | 1 | 0 |
-| Álex Valle | D | 8 | 658 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 5 | 7 | 0,9 | 1 | 0 |
+| Luis Milla | M | 12 | 736 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 7 | 12 | 1,0 | 1 | 0 |
+| Álex Valle | D | 9 | 728 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 5 | 8 | 0,9 | 1 | 0 |
+| M. Perrone | M | 12 | 726 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 10 | 5 | 0,4 | 1 | 0 |
 | Trevoh Chalobah | D | 8 | 644 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 1 | 5 | 0,6 | 0 | 0 |
+| M. Baturina | M | 11 | 567 | 4 | 2 | 16 | 1,5 | 9 | 0,8 | 5 | 18 | 1,6 | 2 | 0 |
 | Assane Diao | M | 8 | 536 | 4 | 1 | 11 | 1,4 | 5 | 0,6 | 6 | 3 | 0,4 | 2 | 0 |
-| M. Baturina | M | 10 | 535 | 3 | 2 | 15 | 1,5 | 8 | 0,8 | 5 | 16 | 1,6 | 2 | 0 |
-| Kaiki | D | 8 | 422 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 8 | 7 | 0,9 | 0 | 0 |
-| M. Kempf | D | 7 | 419 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 6 | 0,9 | 1 | 0 |
-| M. Caqueret | M | 8 | 364 | 0 | 2 | 5 | 0,6 | 2 | 0,2 | 2 | 4 | 0,5 | 1 | 0 |
+| M. Kempf | D | 8 | 509 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 3 | 6 | 0,8 | 1 | 0 |
+| Kaiki | D | 9 | 442 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 9 | 8 | 0,9 | 0 | 0 |
+| M. Caqueret | M | 9 | 422 | 0 | 2 | 7 | 0,8 | 3 | 0,3 | 2 | 4 | 0,4 | 1 | 0 |
+| Robert Sánchez | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| I. Smolčić |  | 8 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
 | Jesús Rodríguez | F | 5 | 242 | 0 | 0 | 6 | 1,2 | 2 | 0,4 | 4 | 5 | 1,0 | 0 | 0 |
-| I. Smolčić | D | 7 | 232 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
-| Robert Sánchez | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Moise Kean | F | 4 | 158 | 0 | 1 | 3 | 0,8 | 3 | 0,8 | 2 | 3 | 0,8 | 0 | 0 |
-| S. Ricci | M | 7 | 140 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
+| S. Ricci | M | 8 | 152 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 
 ## Últimos partidos de Venezia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -192,42 +192,42 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Bartol Franjić | D | 2 | 134 | 0 | 0 | 2 | 1,0 | 2 | 1,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,94 · visitante 0,84 · córners esperados 9,8._
+_Goles esperados: local 2,94 · visitante 0,86 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 12% | 10% | 8.00 | -22% |
+| 1X2: 2 | 8% | 12% | 10% | 8.00 | -21% |
 | 1X2: X | 13% | 18% | 15% | 5.25 | -20% |
-| 1X2: 1 | 80% | 70% | 75% | 1.33 | -0% |
-| Doble oportunidad: X2 | 20% | 29% | 25% | 3.25 | -19% |
+| 1X2: 1 | 79% | 70% | 75% | 1.33 | -0% |
+| Doble oportunidad: X2 | 21% | 29% | 25% | 3.25 | -19% |
 | Doble oportunidad: 12 | 87% | 82% | 85% | 1.17 | -1% |
 | Doble oportunidad: 1X | 92% | 89% | 90% | 1.08 | -2% |
-| Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
-| Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -8% |
-| Goles más/menos: Más de 2.5 | 73% | 68% | 70% | 1.40 | -1% |
-| Goles más/menos: Más de 3.5 | 52% | 47% | 50% | 2.00 | -0% |
-| Goles más/menos: Más de 4.5 | 33% | 28% | 30% | 3.40 | +4% |
-| Goles más/menos: Menos de 2.5 | 27% | 32% | 30% | 3.00 | -11% |
-| Goles más/menos: Menos de 3.5 | 48% | 53% | 50% | 1.80 | -10% |
-| Goles más/menos: Menos de 4.5 | 67% | 72% | 70% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Ambos marcan: No | 45% | 44% | 45% | 2.10 | -6% |
+| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -8% |
+| Goles más/menos: Más de 2.5 | 73% | 68% | 71% | 1.40 | -1% |
+| Goles más/menos: Más de 3.5 | 53% | 47% | 50% | 2.00 | +0% |
+| Goles más/menos: Más de 4.5 | 33% | 28% | 31% | 3.40 | +4% |
+| Goles más/menos: Menos de 2.5 | 27% | 32% | 29% | 3.00 | -12% |
+| Goles más/menos: Menos de 3.5 | 47% | 53% | 50% | 1.80 | -10% |
+| Goles más/menos: Menos de 4.5 | 67% | 72% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 78% | 80% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 23% | 22% | 22% | 4.33 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 54% | 52% | 1.73 | -9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Goles del local: Más de 1.5 | 79% | 72% | 76% | 1.30 | -2% |
+| Goles del local: Más de 1.5 | 79% | 72% | 76% | 1.30 | -1% |
 | Goles del local: Más de 2.5 | 56% | 46% | 51% | 2.00 | +3% |
 | Goles del local: Más de 3.5 ✅ | 34% | 27% | 30% | 3.50 | +6% |
 | Goles del local: Menos de 1.5 | 21% | 28% | 24% | 3.40 | -18% |
 | Goles del local: Menos de 2.5 | 44% | 54% | 49% | 1.73 | -16% |
 | Goles del local: Menos de 3.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles del visitante: Más de 0.5 | 57% | 61% | 59% | 1.53 | -10% |
-| Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -17% |
-| Goles del visitante: Menos de 0.5 | 43% | 39% | 41% | 2.38 | -2% |
-| Goles del visitante: Menos de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
-| Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -6% |
-| Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
+| Goles del visitante: Más de 0.5 | 58% | 61% | 59% | 1.53 | -9% |
+| Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 42% | 39% | 41% | 2.38 | -3% |
+| Goles del visitante: Menos de 1.5 | 79% | 73% | 76% | 1.28 | -3% |
+| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
 | 1X2 descanso: X | 30% | 32% | 31% | 2.88 | -11% |
 | 1X2 descanso: 1 | 60% | 54% | 57% | 1.73 | -2% |
 

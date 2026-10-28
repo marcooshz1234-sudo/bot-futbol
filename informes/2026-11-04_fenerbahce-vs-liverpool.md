@@ -1,7 +1,7 @@
 # Fenerbahçe – Liverpool
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium Fenerbahce Sukru Saracoglu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | G. Mamardashvili | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,58 · córners esperados 9,6._
+_Goles esperados: local 1,05 · visitante 1,60 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

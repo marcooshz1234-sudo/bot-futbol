@@ -1,7 +1,7 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | M. Mitrović | M | 4 | 80 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 0,93 · córners esperados 9,6._
+_Goles esperados: local 0,92 · visitante 0,94 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 34% | 34% | 2.75 | -7% |
-| 1X2: X | 32% | 29% | 31% | 3.25 | -1% |
-| 1X2: 1 | 34% | 37% | 36% | 2.50 | -11% |
-| Doble oportunidad: X2 | 66% | 63% | 64% | 1.50 | -3% |
+| 1X2: 2 | 34% | 34% | 34% | 2.75 | -6% |
+| 1X2: X | 32% | 29% | 30% | 3.25 | -1% |
+| 1X2: 1 | 33% | 37% | 35% | 2.50 | -11% |
+| Doble oportunidad: X2 | 67% | 63% | 65% | 1.50 | -3% |
 | Doble oportunidad: 12 | 68% | 71% | 69% | 1.33 | -8% |
-| Doble oportunidad: 1X | 66% | 67% | 67% | 1.40 | -7% |
+| Doble oportunidad: 1X | 66% | 67% | 66% | 1.40 | -7% |
 | Ambos marcan: No | 63% | 50% | 57% | 1.91 | +8% |
 | Ambos marcan: Sí | 37% | 50% | 43% | 1.91 | -17% |
-| Goles más/menos: Más de 1.5 | 55% | 69% | 62% | 1.36 | -16% |
-| Goles más/menos: Más de 2.5 | 28% | 44% | 36% | 2.15 | -22% |
+| Goles más/menos: Más de 1.5 | 55% | 69% | 62% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 29% | 44% | 36% | 2.15 | -22% |
 | Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -30% |
 | Goles más/menos: Menos de 1.5 | 45% | 31% | 38% | 3.00 | +14% |
-| Goles más/menos: Menos de 2.5 | 72% | 56% | 64% | 1.67 | +7% |
+| Goles más/menos: Menos de 2.5 | 71% | 56% | 64% | 1.67 | +7% |
 | Goles más/menos: Menos de 3.5 | 88% | 77% | 82% | 1.22 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 55% | 65% | 60% | 1.44 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 29% | 24% | 3.25 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 45% | 35% | 40% | 2.62 | +5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 81% | 71% | 76% | 1.33 | +1% |
 | Goles del local: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
-| Goles del local: Más de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
+| Goles del local: Más de 1.5 | 24% | 35% | 30% | 2.62 | -23% |
 | Goles del local: Menos de 0.5 | 40% | 29% | 34% | 3.25 | +12% |
 | Goles del local: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del visitante: Más de 0.5 | 60% | 69% | 65% | 1.36 | -12% |
-| Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 0.5 | 40% | 31% | 35% | 3.00 | +6% |
-| Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
+| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
 | 1X2 descanso: 2 | 24% | 26% | 25% | 3.50 | -12% |
 | 1X2 descanso: X | 52% | 45% | 49% | 2.05 | -0% |
 | 1X2 descanso: 1 | 24% | 28% | 26% | 3.25 | -15% |

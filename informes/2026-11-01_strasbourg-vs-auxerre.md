@@ -1,10 +1,10 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:04_
 
 - **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.95**
@@ -187,40 +187,40 @@ _Sin bajas comunicadas por ahora._
 | Lamfia Dioubaté | M | 3 | 34 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,89 · visitante 1,53 · córners esperados 9,4._
+_Goles esperados: local 1,87 · visitante 1,54 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 24% | 28% | 3.80 | +6% |
-| 1X2: X | 22% | 24% | 23% | 3.80 | -12% |
-| 1X2: 1 | 46% | 51% | 49% | 1.80 | -12% |
-| Doble oportunidad: X2 | 54% | 49% | 51% | 1.95 | -0% |
+| 1X2: 2 | 32% | 24% | 28% | 3.80 | +7% |
+| 1X2: X | 22% | 24% | 23% | 3.80 | -11% |
+| 1X2: 1 | 46% | 51% | 49% | 1.80 | -13% |
+| Doble oportunidad: X2 | 54% | 49% | 51% | 1.95 | +0% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 69% | 76% | 72% | 1.25 | -10% |
-| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -14% |
-| Ambos marcan: Sí | 66% | 61% | 64% | 1.53 | -3% |
+| Doble oportunidad: 1X | 68% | 76% | 72% | 1.25 | -10% |
+| Ambos marcan: No | 33% | 39% | 36% | 2.38 | -14% |
+| Ambos marcan: Sí | 67% | 61% | 64% | 1.53 | -3% |
 | Goles más/menos: Más de 2.5 | 66% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 3.5 | 45% | 38% | 41% | 2.50 | +3% |
+| Goles más/menos: Más de 3.5 | 44% | 38% | 41% | 2.50 | +3% |
 | Goles más/menos: Más de 4.5 | 26% | 22% | 24% | 4.33 | +4% |
 | Goles más/menos: Menos de 2.5 | 34% | 40% | 37% | 2.38 | -13% |
-| Goles más/menos: Menos de 3.5 | 55% | 62% | 59% | 1.53 | -10% |
+| Goles más/menos: Menos de 3.5 | 56% | 62% | 59% | 1.53 | -10% |
 | Goles más/menos: Menos de 4.5 | 74% | 78% | 76% | 1.22 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 42% | 2.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
-| Goles del local: Más de 1.5 | 56% | 56% | 56% | 1.67 | -6% |
-| Goles del local: Más de 2.5 | 29% | 31% | 30% | 3.00 | -9% |
-| Goles del local: Menos de 1.5 | 44% | 44% | 44% | 2.10 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
+| Goles del local: Más de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Goles del local: Más de 2.5 | 29% | 31% | 30% | 3.00 | -10% |
+| Goles del local: Menos de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Goles del local: Menos de 2.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles del visitante: Más de 0.5 | 78% | 71% | 75% | 1.33 | -1% |
-| Goles del visitante: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
-| Goles del visitante: Menos de 0.5 | 22% | 29% | 25% | 3.25 | -18% |
-| Goles del visitante: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -1% |
+| Goles del visitante: Más de 1.5 ✅ | 46% | 35% | 41% | 2.62 | +6% |
+| Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -18% |
+| Goles del visitante: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -14% |
 | Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
 | Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +0% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
 | 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
-| 1X2 descanso: 1 | 36% | 40% | 38% | 2.30 | -12% |
+| 1X2 descanso: 1 | 36% | 40% | 38% | 2.30 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

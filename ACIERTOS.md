@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 90 · aciertos: 53 (59%) · beneficio a 1 € por pick: -16.74 €
+Picks ya jugados: 100 · aciertos: 62 (62%) · beneficio a 1 € por pick: -13.65 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 8 | 11 | 73% | +0.21 € |
-| resultado | 13 | 18 | 72% | -0.54 € |
-| goles | 28 | 50 | 56% | -12.11 € |
+| resultado | 17 | 22 | 77% | +1.47 € |
+| jugador | 9 | 13 | 69% | -0.43 € |
+| goles | 32 | 54 | 59% | -10.39 € |
 | tiros | 2 | 4 | 50% | -0.47 € |
 | tarjetas | 2 | 4 | 50% | -0.83 € |
 | corners | 0 | 1 | 0% | -1.00 € |
@@ -19,16 +19,29 @@ Picks ya jugados: 90 · aciertos: 53 (59%) · beneficio a 1 € por pick: -16.74
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| Double Chance · Draw/Away | 3 | 3 | 100% |
+| Double Chance · Draw/Away | 4 | 4 | 100% |
 | Goals Over/Under · Over 1.5 | 7 | 9 | 78% |
-| Double Chance · Home/Away | 8 | 12 | 67% |
-| Goals Over/Under First Half · Over 0.5 | 6 | 10 | 60% |
+| Double Chance · Home/Away | 10 | 14 | 71% |
+| Total - Home · Over 0.5 | 2 | 3 | 67% |
+| Goals Over/Under First Half · Over 0.5 | 7 | 11 | 64% |
 | Total - Away · Over 0.5 | 6 | 11 | 55% |
+| Both Teams Score · Yes | 3 | 6 | 50% |
 | Goals Over/Under · Over 2.5 | 3 | 7 | 43% |
-| Both Teams Score · Yes | 2 | 5 | 40% |
 | Goals Over/Under - Second Half · Over 0.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-10-27 · 9/10
+- ✅ FC Augsburg marca 2 o más · 1.28 (2-4)
+- ✅ Lazio o empate · 1.33 (2-6)
+- ✅ No hay empate en Sassuolo–Lazio · 1.30 (2-6)
+- ✅ Gana el Lazio · 2.10 (2-6)
+- ✅ Torino marca · 1.44 (1-3)
+- ✅ Gol en la 1ª parte del Torino–Como · 1.30 (1-3)
+- ✅ No hay empate en Torino–Como · 1.28 (1-3)
+- ✅ Ambos marcan en Torino–Como · 1.70 (1-3)
+- ✅ Alessandro Romano: 1+ tiros · 1.36 (4-2)
+- ❌ Paul Mendy comete 2+ faltas · 1.44 (4-2)
 
 ### 2026-10-26 · 6/10
 - ✅ Vinicius Lopes: 1+ tiros · 1.25 (1-2)

@@ -1,7 +1,7 @@
 # PEC Zwolle – ADO Den Haag
 **Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -60,21 +60,21 @@ _Actualizadas: 27/10 07:50_
 ## Estadísticas de equipo
 | | PEC Zwolle (total) | PEC Zwolle en casa | ADO Den Haag (total) | ADO Den Haag fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 5 |
-| Forma (últimos 5) | EVDDD | VDDDD | DVEED | EDEDD |
-| Balance | 2V 2E 6D | 1V 0E 4D | 1V 3E 6D | 0V 2E 3D |
-| Goles a favor / partido | 1,10 | 1,00 | 1,30 | 1,00 |
-| Goles en contra / partido | 2,30 | 2,80 | 2,30 | 2,20 |
-| Goles a favor 1ª parte | 0,30 | 0,20 | 0,30 | 0,60 |
-| Goles a favor 2ª parte | 0,80 | 0,80 | 1,00 | 0,40 |
-| Goles en contra 1ª parte | 1,00 | 1,20 | 1,10 | 0,60 |
-| Goles en contra 2ª parte | 1,30 | 1,60 | 1,20 | 1,60 |
+| Partidos analizados | 10 | 5 | 11 | 6 |
+| Forma (últimos 5) | EVDDD | VDDDD | EDVEE | EEDED |
+| Balance | 2V 2E 6D | 1V 0E 4D | 1V 4E 6D | 0V 3E 3D |
+| Goles a favor / partido | 1,10 | 1,00 | 1,27 | 1,00 |
+| Goles en contra / partido | 2,30 | 2,80 | 2,18 | 2,00 |
+| Goles a favor 1ª parte | 0,30 | 0,20 | 0,27 | 0,50 |
+| Goles a favor 2ª parte | 0,80 | 0,80 | 1,00 | 0,50 |
+| Goles en contra 1ª parte | 1,00 | 1,20 | 1,09 | 0,67 |
+| Goles en contra 2ª parte | 1,30 | 1,60 | 1,09 | 1,33 |
 | Más de 1,5 goles | 90% | 80% | 100% | 100% |
-| Más de 2,5 goles | 60% | 60% | 70% | 60% |
-| Más de 3,5 goles | 50% | 60% | 60% | 60% |
-| Ambos marcan | 50% | 40% | 80% | 60% |
+| Más de 2,5 goles | 60% | 60% | 64% | 50% |
+| Más de 3,5 goles | 50% | 60% | 55% | 50% |
+| Ambos marcan | 50% | 40% | 82% | 67% |
 | Portería a cero | 10% | 0% | 0% | 0% |
-| Se queda sin marcar | 40% | 60% | 20% | 40% |
+| Se queda sin marcar | 40% | 60% | 18% | 33% |
 | xG a favor | 1,03 | 1,12 | 1,08 | 0,79 |
 | xG en contra | 1,87 | 2,09 | 2,11 | 2,33 |
 | Tiros / partido | 11,6 | 11,0 | 12,3 | 9,6 |
@@ -103,10 +103,10 @@ _Actualizadas: 27/10 07:50_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 1 | 0 | 1 | 2 | 1 |
 | 16-30' | 2 | 6 | 0 | 2 | 4 | 1 |
-| 31-45' | 1 | 3 | 2 | 0 | 5 | 3 |
-| 46-60' | 3 | 2 | 3 | 5 | 1 | 3 |
+| 31-45' | 1 | 3 | 2 | 0 | 6 | 3 |
+| 46-60' | 3 | 2 | 3 | 6 | 1 | 3 |
 | 61-75' | 3 | 5 | 1 | 2 | 9 | 4 |
-| 76-90' | 2 | 6 | 9 | 3 | 2 | 6 |
+| 76-90' | 2 | 6 | 9 | 3 | 2 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,12 +157,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de ADO Den Haag
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | KNVB Beker | Excelsior '31 1-1 ADO Den Haag | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Eredivisie | ADO Den Haag 2-3 Heerenveen | casa | 8-2 | 22 (7) - 16 (5) | 1-0 |
 | 2026-10-17 | Eredivisie | ADO Den Haag 2-1 PSV Eindhoven | casa | 3-2 | 14 (2) - 15 (4) | 3-0 |
 | 2026-10-11 | Eredivisie | Telstar 2-2 ADO Den Haag | fuera | 0-8 | 3 (2) - 30 (4) | 1-2 |
 | 2026-09-19 | Eredivisie | ADO Den Haag 1-1 Cambuur | casa | 6-3 | 18 (6) - 8 (3) | 3-2 |
 | 2026-09-12 | Eredivisie | Twente 2-0 ADO Den Haag | fuera | 2-12 | 11 (5) - 24 (12) | 3-1 |
-| 2026-09-06 | Eredivisie | ADO Den Haag 2-3 Fortuna Sittard | casa | 2-0 | 11 (3) - 8 (5) | 0-4 |
 
 ## Jugadores de ADO Den Haag
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -189,44 +189,44 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Pozo |  | 3 | 74 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,19 · córners esperados 9,7._
+_Goles esperados: local 1,26 · visitante 1,19 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 32% | 33% | 2.88 | -4% |
+| 1X2: 2 | 35% | 32% | 34% | 2.88 | -3% |
 | 1X2: X | 27% | 26% | 27% | 3.60 | -4% |
-| 1X2: 1 | 39% | 42% | 40% | 2.25 | -10% |
-| Doble oportunidad: X2 | 61% | 58% | 60% | 1.62 | -3% |
+| 1X2: 1 | 38% | 42% | 40% | 2.25 | -10% |
+| Doble oportunidad: X2 | 62% | 58% | 60% | 1.62 | -2% |
 | Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
-| Doble oportunidad: 1X | 66% | 68% | 67% | 1.40 | -7% |
+| Doble oportunidad: 1X | 65% | 68% | 66% | 1.40 | -7% |
 | Ambos marcan: No | 50% | 38% | 44% | 2.50 | +9% |
-| Ambos marcan: Sí | 50% | 62% | 56% | 1.50 | -15% |
+| Ambos marcan: Sí | 50% | 62% | 56% | 1.50 | -16% |
 | Goles más/menos: Más de 2.5 | 45% | 59% | 52% | 1.60 | -17% |
-| Goles más/menos: Más de 3.5 | 24% | 38% | 31% | 2.50 | -24% |
-| Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -30% |
-| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +10% |
-| Goles más/menos: Menos de 3.5 | 76% | 62% | 69% | 1.50 | +4% |
-| Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.20 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
+| Goles más/menos: Más de 3.5 | 23% | 38% | 30% | 2.50 | -24% |
+| Goles más/menos: Más de 4.5 | 10% | 22% | 16% | 4.33 | -31% |
+| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +11% |
+| Goles más/menos: Menos de 3.5 | 77% | 62% | 70% | 1.50 | +4% |
+| Goles más/menos: Menos de 4.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 69% | 1.28 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 31% | 3.50 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
-| Goles del local: Más de 0.5 | 72% | 79% | 76% | 1.18 | -11% |
-| Goles del local: Más de 1.5 | 37% | 50% | 43% | 1.83 | -21% |
-| Goles del local: Más de 2.5 | 14% | 25% | 19% | 3.75 | -27% |
-| Goles del local: Menos de 0.5 | 28% | 21% | 24% | 4.50 | +9% |
-| Goles del local: Menos de 1.5 | 63% | 50% | 57% | 1.83 | +4% |
-| Goles del local: Menos de 2.5 | 86% | 75% | 81% | 1.25 | +1% |
+| Goles del local: Más de 0.5 | 72% | 79% | 75% | 1.18 | -11% |
+| Goles del local: Más de 1.5 | 36% | 50% | 43% | 1.83 | -21% |
+| Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles del local: Menos de 0.5 | 28% | 21% | 25% | 4.50 | +10% |
+| Goles del local: Menos de 1.5 | 64% | 50% | 57% | 1.83 | +4% |
+| Goles del local: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
 | Goles del visitante: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
-| Goles del visitante: Más de 1.5 | 33% | 42% | 38% | 2.20 | -17% |
+| Goles del visitante: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
 | Goles del visitante: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
-| Goles del visitante: Menos de 1.5 | 67% | 58% | 62% | 1.62 | +1% |
+| Goles del visitante: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
 | Córners más/menos: Más de 10.5 | 38% | 46% | 42% | 2.00 | -15% |
 | Córners más/menos: Menos de 10.5 | 62% | 54% | 58% | 1.73 | -0% |
-| 1X2 descanso: 2 | 26% | 28% | 27% | 3.25 | -11% |
+| 1X2 descanso: 2 | 27% | 28% | 27% | 3.25 | -11% |
 | 1X2 descanso: X | 45% | 38% | 42% | 2.38 | -1% |
-| 1X2 descanso: 1 | 29% | 33% | 31% | 2.75 | -14% |
+| 1X2 descanso: 1 | 29% | 33% | 31% | 2.75 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

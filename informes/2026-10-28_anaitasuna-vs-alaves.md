@@ -1,12 +1,13 @@
 # Anaitasuna – Alaves
 **Copa del Rey** · Round of 128 · 28/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:02_
 
 - **1X2:** 1 **41.00**  ·  X **19.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **17.00**  ·  12 **1.02**  ·  X2 **1.00**
 - **Ambos marcan:** Sí **3.40**  ·  No **1.30**
 - **Goles más/menos:**
     - 1,5: más **1.04** · menos **13.00**
@@ -16,9 +17,34 @@ _Actualizadas: 27/10 19:50_
     - 5,5: más **3.00** · menos **1.36**
     - 6,5: más **5.00** · menos **1.17**
     - 7,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **3.40** · menos **1.30**
+- **Goles del visitante:**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.22** · menos **4.00**
+    - 3,5: más **1.53** · menos **2.38**
+    - 4,5: más **2.20** · menos **1.62**
+    - 5,5: más **3.50** · menos **1.28**
+    - 6,5: más **6.00** · menos **1.12**
+    - 7,5: más **11.00** · menos **1.05**
 - **1X2 descanso:** 1 **34.00**  ·  X **5.50**  ·  2 **1.14**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
 - **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **19.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **29.00**  ·  2 **1.25**
+- **Win Both Halves:** 2 **1.36**
 - **Results/Both Teams Score:** Home/Yes **51.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **3.40**  ·  Home/No **67.00**  ·  Draw/No **34.00**  ·  Away/No **1.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **3.40**  ·  o/no 2.5 **1.62**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **5.50**
 

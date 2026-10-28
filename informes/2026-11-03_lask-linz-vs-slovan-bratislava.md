@@ -1,7 +1,7 @@
 # Lask Linz – Slovan Bratislava
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin precedentes recientes._
 | R. Čerepkai | F | 3 | 110 | 1 | 0 | 5 | 1,7 | 3 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,32 · visitante 1,37 · córners esperados 9,7._
+_Goles esperados: local 2,30 · visitante 1,36 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

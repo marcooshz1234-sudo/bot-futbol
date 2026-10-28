@@ -1,7 +1,7 @@
 # Derby – Norwich
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | J. Makama | F | 7 | 276 | 1 | 0 | 6 | 0,9 | 1 | 0,1 | 8 | 4 | 0,6 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,18 · visitante 1,74 · córners esperados 9,3._
+_Goles esperados: local 1,18 · visitante 1,76 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -190,20 +190,20 @@ _Sin bajas comunicadas por ahora._
 | Tariq Lamptey | D | 6 | 225 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 3 | 5 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,26 · córners esperados 9,2._
+_Goles esperados: local 1,42 · visitante 1,27 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 23% | 28% | 4.00 | +13% |
+| 1X2: 2 | 34% | 23% | 28% | 4.00 | +14% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -4% |
-| 1X2: 1 | 41% | 53% | 47% | 1.73 | -18% |
-| Doble oportunidad: X2 | 59% | 46% | 53% | 2.05 | +8% |
+| 1X2: 1 | 40% | 53% | 47% | 1.73 | -19% |
+| Doble oportunidad: X2 | 60% | 46% | 53% | 2.05 | +8% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 67% | 78% | 72% | 1.22 | -12% |
-| Ambos marcan: No | 46% | 39% | 42% | 2.38 | +1% |
-| Ambos marcan: Sí | 54% | 61% | 58% | 1.53 | -12% |
+| Doble oportunidad: 1X | 66% | 78% | 72% | 1.22 | -12% |
+| Ambos marcan: No | 45% | 39% | 42% | 2.38 | +1% |
+| Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
 | Goles más/menos: Más de 2.5 | 50% | 62% | 56% | 1.53 | -14% |
 | Goles más/menos: Más de 3.5 | 28% | 41% | 35% | 2.30 | -20% |
 | Goles más/menos: Más de 4.5 | 14% | 24% | 19% | 4.00 | -25% |
@@ -211,20 +211,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 72% | 59% | 65% | 1.62 | +6% |
 | Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 42% | 37% | 2.20 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 42% | 37% | 2.20 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 58% | 63% | 1.62 | +1% |
-| Goles del local: Más de 1.5 | 42% | 59% | 50% | 1.57 | -21% |
-| Goles del local: Más de 2.5 | 17% | 34% | 26% | 2.75 | -30% |
-| Goles del local: Menos de 1.5 | 58% | 41% | 50% | 2.25 | +12% |
-| Goles del local: Menos de 2.5 | 83% | 66% | 74% | 1.40 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 58% | 63% | 1.62 | +1% |
+| Goles del local: Más de 1.5 | 41% | 59% | 50% | 1.57 | -21% |
+| Goles del local: Más de 2.5 | 17% | 34% | 25% | 2.75 | -30% |
+| Goles del local: Menos de 1.5 | 59% | 41% | 50% | 2.25 | +12% |
+| Goles del local: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +4% |
 | Goles del visitante: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles del visitante: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
 | Goles del visitante: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -7% |
+| Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
 | Córners más/menos: Más de 10.5 | 34% | 46% | 40% | 2.00 | -19% |
 | Córners más/menos: Menos de 10.5 | 66% | 54% | 60% | 1.73 | +3% |
-| 1X2 descanso: 2 | 26% | 21% | 24% | 4.33 | +4% |
+| 1X2 descanso: 2 | 27% | 21% | 24% | 4.33 | +4% |
 | 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
 | 1X2 descanso: 1 | 31% | 41% | 36% | 2.25 | -19% |
 

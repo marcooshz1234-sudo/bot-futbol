@@ -1,21 +1,21 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 27/10/2026 19:51. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 28/10/2026 02:05. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 22 · **acertados:** 6 (27%)
-- **Beneficio:** -6.10 unidades · **rentabilidad (yield):** -27.7%
-- **Cuota media:** 2.76 · **pendientes:** 56
+- **Picks jugados:** 26 · **acertados:** 6 (23%)
+- **Beneficio:** -10.10 unidades · **rentabilidad (yield):** -38.8%
+- **Cuota media:** 2.75 · **pendientes:** 56
 
-_Con 22 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 26 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 6 | 1 (17%) | -2.90 | -48.3% |
-| Goles más/menos | 5 | 2 (40%) | -0.40 | -8.0% |
-| Goles del visitante | 3 | 0 (0%) | -3.00 | -100.0% |
-| Goles del local | 2 | 2 (100%) | +4.00 | +200.0% |
+| 1X2 | 7 | 1 (14%) | -3.90 | -55.7% |
+| Goles más/menos | 6 | 2 (33%) | -1.40 | -23.3% |
+| Goles del visitante | 4 | 0 (0%) | -4.00 | -100.0% |
+| Goles del local | 3 | 2 (67%) | +3.00 | +100.0% |
 | Doble oportunidad | 2 | 1 (50%) | +0.20 | +10.0% |
 | 1X2 descanso | 2 | 0 (0%) | -2.00 | -100.0% |
 | Córners más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
@@ -25,6 +25,10 @@ _Con 22 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles más/menos: Menos de 2.5 | 2.60 | ❌ | -1.00 |
+| 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles del local: Menos de 1.5 | 3.00 | ❌ | -1.00 |
+| 2026-10-27 | Sassuolo – Lazio | Goles del visitante: Menos de 1.5 | 1.91 | ❌ | -1.00 |
+| 2026-10-27 | Sassuolo – Lazio | 1X2: 1 | 3.40 | ❌ | -1.00 |
 | 2026-10-26 | Sevilla – Osasuna | Goles 1ª parte más/menos: Más de 1.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-26 | Sevilla – Osasuna | Goles más/menos: Más de 2.5 | 2.20 | ❌ | -1.00 |
 | 2026-10-25 | Barcelona – Real Madrid | Córners más/menos: Menos de 10.5 | 1.91 | ❌ | -1.00 |

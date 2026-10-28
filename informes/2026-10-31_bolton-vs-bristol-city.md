@@ -1,7 +1,7 @@
 # Bolton – Bristol City
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -190,18 +190,18 @@ _Sin bajas comunicadas por ahora._
 | B. De Keersmaecker | M | 4 | 134 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,33 · visitante 1,15 · córners esperados 10,2._
+_Goles esperados: local 1,32 · visitante 1,16 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 38% | 35% | 2.38 | -16% |
+| 1X2: 2 | 33% | 38% | 36% | 2.38 | -15% |
 | 1X2: X | 27% | 28% | 27% | 3.30 | -10% |
-| 1X2: 1 | 41% | 34% | 37% | 2.70 | +1% |
-| Doble oportunidad: X2 | 59% | 66% | 63% | 1.44 | -10% |
+| 1X2: 1 | 40% | 34% | 37% | 2.70 | +0% |
+| Doble oportunidad: X2 | 60% | 66% | 63% | 1.44 | -9% |
 | Doble oportunidad: 12 | 73% | 72% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 68% | 62% | 65% | 1.53 | -1% |
+| Doble oportunidad: 1X | 67% | 62% | 65% | 1.53 | -1% |
 | Ambos marcan: No | 50% | 41% | 45% | 2.25 | +2% |
 | Ambos marcan: Sí | 50% | 59% | 55% | 1.57 | -14% |
 | Goles más/menos: Más de 1.5 | 71% | 78% | 74% | 1.22 | -9% |
@@ -213,21 +213,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Goles del local: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Goles del local: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
 | Goles del local: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del local: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del visitante: Más de 0.5 | 68% | 77% | 72% | 1.22 | -12% |
+| Goles del visitante: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
 | Goles del visitante: Más de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
-| Goles del visitante: Más de 2.5 | 11% | 21% | 16% | 4.50 | -29% |
-| Goles del visitante: Menos de 0.5 | 32% | 23% | 28% | 4.00 | +10% |
+| Goles del visitante: Más de 2.5 | 11% | 21% | 16% | 4.50 | -28% |
+| Goles del visitante: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +9% |
 | Goles del visitante: Menos de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
 | Goles del visitante: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -1% |
 | Córners más/menos: Más de 10.5 | 43% | 49% | 46% | 1.91 | -13% |
 | Córners más/menos: Menos de 10.5 | 57% | 51% | 54% | 1.80 | -2% |
-| 1X2 descanso: 2 | 25% | 31% | 28% | 3.00 | -16% |
+| 1X2 descanso: 2 | 25% | 31% | 28% | 3.00 | -15% |
 | 1X2 descanso: X | 45% | 40% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 30% | 29% | 29% | 3.25 | -4% |
+| 1X2 descanso: 1 | 30% | 29% | 29% | 3.25 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

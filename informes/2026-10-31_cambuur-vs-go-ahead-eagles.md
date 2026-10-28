@@ -1,7 +1,7 @@
 # Cambuur – GO Ahead Eagles
 **Eredivisie** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -61,21 +61,21 @@ _Actualizadas: 27/10 07:50_
 ## Estadísticas de equipo
 | | Cambuur (total) | Cambuur en casa | GO Ahead Eagles (total) | GO Ahead Eagles fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 5 |
-| Forma (últimos 5) | VEVEV | EVDDD | VDEEE | DEEDE |
-| Balance | 3V 3E 4D | 1V 1E 3D | 3V 5E 2D | 0V 3E 2D |
-| Goles a favor / partido | 1,90 | 1,60 | 2,30 | 1,80 |
-| Goles en contra / partido | 2,20 | 3,00 | 2,30 | 3,00 |
-| Goles a favor 1ª parte | 0,80 | 0,60 | 0,80 | 0,80 |
-| Goles a favor 2ª parte | 1,10 | 1,00 | 1,50 | 1,00 |
-| Goles en contra 1ª parte | 1,20 | 2,00 | 0,80 | 1,00 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 1,50 | 2,00 |
-| Más de 1,5 goles | 90% | 100% | 100% | 100% |
-| Más de 2,5 goles | 80% | 100% | 80% | 80% |
-| Más de 3,5 goles | 70% | 80% | 80% | 80% |
-| Ambos marcan | 70% | 60% | 100% | 100% |
-| Portería a cero | 20% | 20% | 0% | 0% |
-| Se queda sin marcar | 10% | 20% | 0% | 0% |
+| Partidos analizados | 11 | 5 | 11 | 6 |
+| Forma (últimos 5) | VVEVE | EVDDD | VVDEE | VDEED |
+| Balance | 4V 3E 4D | 1V 1E 3D | 4V 5E 2D | 1V 3E 2D |
+| Goles a favor / partido | 1,91 | 1,60 | 2,55 | 2,33 |
+| Goles en contra / partido | 2,00 | 3,00 | 2,09 | 2,50 |
+| Goles a favor 1ª parte | 0,82 | 0,60 | 0,91 | 1,00 |
+| Goles a favor 2ª parte | 1,09 | 1,00 | 1,64 | 1,33 |
+| Goles en contra 1ª parte | 1,09 | 2,00 | 0,73 | 0,83 |
+| Goles en contra 2ª parte | 0,91 | 1,00 | 1,36 | 1,67 |
+| Más de 1,5 goles | 91% | 100% | 100% | 100% |
+| Más de 2,5 goles | 73% | 100% | 82% | 83% |
+| Más de 3,5 goles | 64% | 80% | 82% | 83% |
+| Ambos marcan | 64% | 60% | 91% | 83% |
+| Portería a cero | 27% | 20% | 9% | 17% |
+| Se queda sin marcar | 9% | 20% | 0% | 0% |
 | xG a favor | 1,45 | 1,36 | 1,80 | 2,01 |
 | xG en contra | 1,81 | 2,04 | 1,62 | 2,12 |
 | Tiros / partido | 12,5 | 11,6 | 15,7 | 13,8 |
@@ -102,12 +102,12 @@ _Actualizadas: 27/10 07:50_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Cambuur | Recibe Cambuur | Tarjetas Cambuur | Goles GO Ahead Eagles | Recibe GO Ahead Eagles | Tarjetas GO Ahead Eagles |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 2 | 0 | 2 | 3 | 0 |
-| 16-30' | 3 | 6 | 2 | 4 | 1 | 1 |
-| 31-45' | 2 | 4 | 3 | 2 | 4 | 3 |
+| 1-15' | 4 | 2 | 0 | 2 | 3 | 0 |
+| 16-30' | 3 | 6 | 3 | 4 | 1 | 1 |
+| 31-45' | 2 | 4 | 3 | 4 | 4 | 3 |
 | 46-60' | 4 | 1 | 3 | 4 | 4 | 0 |
-| 61-75' | 2 | 3 | 3 | 7 | 4 | 1 |
-| 76-90' | 5 | 6 | 8 | 4 | 7 | 3 |
+| 61-75' | 2 | 3 | 3 | 9 | 4 | 1 |
+| 76-90' | 6 | 6 | 10 | 5 | 7 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -125,12 +125,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Cambuur
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | KNVB Beker | Kloetinge 0-2 Cambuur | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Eredivisie | Willem II 1-6 Cambuur | fuera | 4-13 | 19 (11) - 11 (2) | 0-2 |
 | 2026-10-18 | Eredivisie | Cambuur 2-2 AZ Alkmaar | casa | 3-6 | 11 (6) - 7 (4) | 2-2 |
 | 2026-10-11 | Eredivisie | PEC Zwolle 0-1 Cambuur | fuera | 5-5 | 13 (4) - 14 (6) | 3-3 |
 | 2026-09-19 | Eredivisie | ADO Den Haag 1-1 Cambuur | fuera | 3-6 | 8 (3) - 18 (6) | 2-3 |
 | 2026-09-12 | Eredivisie | Cambuur 3-0 NEC Nijmegen | casa | 4-5 | 16 (7) - 10 (1) | 2-4 |
-| 2026-09-06 | Eredivisie | Telstar 2-2 Cambuur | fuera | 2-4 | 8 (3) - 11 (2) | 4-3 |
 
 ## Jugadores de Cambuur
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -159,12 +159,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de GO Ahead Eagles
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | KNVB Beker | Koninklijke HFC 0-5 GO Ahead Eagles | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | Eredivisie | GO Ahead Eagles 3-2 Telstar | casa | 4-2 | 16 (7) - 12 (3) | 1-1 |
 | 2026-10-18 | Eredivisie | PEC Zwolle 4-1 GO Ahead Eagles | fuera | 6-5 | 18 (6) - 19 (9) | 0-0 |
 | 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | casa | 9-6 | 17 (6) - 18 (8) | 0-3 |
 | 2026-09-20 | Eredivisie | NEC Nijmegen 1-1 GO Ahead Eagles | fuera | 7-5 | 14 (6) - 17 (5) | 2-0 |
 | 2026-09-12 | Eredivisie | GO Ahead Eagles 1-1 Groningen | casa | 9-0 | 24 (6) - 4 (2) | 1-0 |
-| 2026-09-08 | Eredivisie | Utrecht 3-3 GO Ahead Eagles | fuera | 5-7 | 13 (7) - 19 (6) | 1-2 |
 
 ## Jugadores de GO Ahead Eagles
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -191,46 +191,46 @@ _Sin bajas comunicadas por ahora._
 | Calvin Twigt | M | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,97 · visitante 1,94 · córners esperados 10,0._
+_Goles esperados: local 1,89 · visitante 1,99 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 43% | 41% | 2.15 | -12% |
+| 1X2: 2 | 41% | 43% | 42% | 2.15 | -9% |
 | 1X2: X | 21% | 25% | 23% | 3.80 | -14% |
-| 1X2: 1 | 40% | 32% | 36% | 2.90 | +5% |
-| Doble oportunidad: X2 | 60% | 68% | 64% | 1.40 | -11% |
+| 1X2: 1 | 38% | 32% | 35% | 2.90 | +1% |
+| Doble oportunidad: X2 | 62% | 68% | 65% | 1.40 | -9% |
 | Doble oportunidad: 12 | 79% | 76% | 77% | 1.25 | -3% |
-| Doble oportunidad: 1X | 61% | 57% | 59% | 1.67 | -2% |
-| Ambos marcan: No | 26% | 34% | 30% | 2.75 | -17% |
-| Ambos marcan: Sí | 74% | 66% | 70% | 1.40 | -2% |
+| Doble oportunidad: 1X | 59% | 57% | 58% | 1.67 | -4% |
+| Ambos marcan: No | 27% | 34% | 30% | 2.75 | -17% |
+| Ambos marcan: Sí | 73% | 66% | 70% | 1.40 | -2% |
 | Goles más/menos: Más de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
-| Goles más/menos: Más de 3.5 | 55% | 44% | 50% | 2.10 | +4% |
-| Goles más/menos: Más de 4.5 | 35% | 27% | 31% | 3.50 | +9% |
+| Goles más/menos: Más de 3.5 | 54% | 44% | 49% | 2.10 | +4% |
+| Goles más/menos: Más de 4.5 | 35% | 27% | 31% | 3.50 | +8% |
 | Goles más/menos: Menos de 2.5 | 25% | 35% | 30% | 2.70 | -19% |
-| Goles más/menos: Menos de 3.5 | 45% | 56% | 50% | 1.67 | -16% |
-| Goles más/menos: Menos de 4.5 | 65% | 73% | 69% | 1.28 | -12% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 47% | 2.10 | -0% |
-| Goles 1ª parte más/menos: Más de 2.5 | 24% | 21% | 23% | 4.50 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 53% | 1.67 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 77% | 1.18 | -9% |
-| Goles del local: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 59% | 46% | 53% | 2.00 | +5% |
-| Goles del local: Más de 2.5 | 32% | 22% | 27% | 4.33 | +15% |
-| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles del local: Menos de 1.5 | 41% | 54% | 47% | 1.73 | -18% |
-| Goles del local: Menos de 2.5 | 68% | 78% | 73% | 1.20 | -12% |
-| Goles del visitante: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles del visitante: Más de 2.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles del visitante: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles del visitante: Menos de 2.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles más/menos: Menos de 3.5 | 46% | 56% | 51% | 1.67 | -15% |
+| Goles más/menos: Menos de 4.5 | 65% | 73% | 69% | 1.28 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 21% | 22% | 4.50 | +0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 56% | 53% | 1.67 | -12% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -8% |
+| Goles del local: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
+| Goles del local: Más de 1.5 | 56% | 46% | 51% | 2.00 | +3% |
+| Goles del local: Más de 2.5 | 29% | 22% | 26% | 4.33 | +11% |
+| Goles del local: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -20% |
+| Goles del local: Menos de 1.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Goles del local: Menos de 2.5 | 71% | 78% | 74% | 1.20 | -11% |
+| Goles del visitante: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
+| Goles del visitante: Más de 2.5 | 32% | 29% | 31% | 3.25 | -0% |
+| Goles del visitante: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles del visitante: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
 | Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -15% |
 | Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: 2 | 33% | 35% | 34% | 2.62 | -11% |
-| 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -12% |
-| 1X2 descanso: 1 | 33% | 28% | 31% | 3.25 | +0% |
+| 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -9% |
+| 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -11% |
+| 1X2 descanso: 1 | 32% | 28% | 30% | 3.25 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

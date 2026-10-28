@@ -1,10 +1,44 @@
 # Salamanca UDS – Celta Vigo
 **Copa del Rey** · Round of 128 · 28/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 02:03_
+
+- **1X2:** 1 **8.50**  ·  X **6.50**  ·  2 **1.20**
+- **Doble oportunidad:** 1X **4.00**  ·  12 **1.10**  ·  X2 **1.07**
+- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.30** · menos **3.50**
+    - 3,5: más **1.80** · menos **1.91**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **4.50** · menos **1.18**
+    - 6,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Goles del visitante:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.62** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **8.50**  ·  X **3.10**  ·  2 **1.57**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.62**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.25**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.38**  ·  Home/No **19.00**  ·  Draw/No **29.00**  ·  Away/No **2.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.00**
 
 ## Estadísticas de equipo
 | | Salamanca UDS (total) | Salamanca UDS en casa | Celta Vigo (total) | Celta Vigo fuera |

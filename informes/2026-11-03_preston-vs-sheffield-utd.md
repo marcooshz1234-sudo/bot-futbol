@@ -1,7 +1,7 @@
 # Preston – Sheffield Utd
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Deepdale
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | F. Seriki | D | 5 | 320 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 10 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,09 · visitante 1,59 · córners esperados 9,7._
+_Goles esperados: local 1,08 · visitante 1,59 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Feyenoord – Inter
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | John Stones | D | 4 | 144 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,10 · visitante 1,84 · córners esperados 9,4._
+_Goles esperados: local 2,13 · visitante 1,82 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

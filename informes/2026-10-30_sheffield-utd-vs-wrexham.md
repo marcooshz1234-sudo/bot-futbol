@@ -1,10 +1,10 @@
 # Sheffield Utd – Wrexham
 **Championship** · Regular Season - 13 · 30/10/2026 21:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **2.45**  ·  X **3.30**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.53**
@@ -187,18 +187,18 @@ _Sin bajas comunicadas por ahora._
 | Max Cleworth | D | 4 | 211 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 0,90 · córners esperados 9,5._
+_Goles esperados: local 1,19 · visitante 0,91 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 35% | 31% | 2.62 | -18% |
-| 1X2: X | 29% | 28% | 29% | 3.30 | -6% |
-| 1X2: 1 | 43% | 37% | 40% | 2.45 | -2% |
-| Doble oportunidad: X2 | 57% | 62% | 60% | 1.53 | -9% |
-| Doble oportunidad: 12 | 71% | 72% | 71% | 1.33 | -5% |
-| Doble oportunidad: 1X | 72% | 66% | 69% | 1.44 | -0% |
+| 1X2: 2 | 28% | 35% | 31% | 2.62 | -17% |
+| 1X2: X | 30% | 28% | 29% | 3.30 | -5% |
+| 1X2: 1 | 42% | 37% | 40% | 2.45 | -2% |
+| Doble oportunidad: X2 | 58% | 62% | 60% | 1.53 | -8% |
+| Doble oportunidad: 12 | 70% | 72% | 71% | 1.33 | -6% |
+| Doble oportunidad: 1X | 72% | 66% | 69% | 1.44 | -1% |
 | Ambos marcan: No | 58% | 46% | 52% | 2.00 | +5% |
 | Ambos marcan: Sí | 42% | 54% | 48% | 1.73 | -18% |
 | Goles más/menos: Más de 1.5 | 62% | 75% | 68% | 1.28 | -13% |
@@ -207,22 +207,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 38% | 25% | 32% | 3.75 | +19% |
 | Goles más/menos: Menos de 2.5 | 65% | 50% | 57% | 1.91 | +10% |
 | Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.33 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 36% | 3.00 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Goles del local: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles del local: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
-| Goles del local: Menos de 0.5 | 30% | 27% | 28% | 3.50 | -0% |
-| Goles del local: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
-| Goles del visitante: Más de 0.5 | 59% | 72% | 66% | 1.30 | -14% |
-| Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -25% |
-| Goles del visitante: Menos de 0.5 | 41% | 28% | 34% | 3.40 | +16% |
+| Goles del local: Más de 0.5 | 70% | 73% | 71% | 1.28 | -9% |
+| Goles del local: Más de 1.5 | 33% | 41% | 37% | 2.25 | -16% |
+| Goles del local: Menos de 0.5 | 30% | 27% | 29% | 3.50 | +0% |
+| Goles del local: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
+| Goles del visitante: Más de 0.5 | 60% | 72% | 66% | 1.30 | -14% |
+| Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -24% |
+| Goles del visitante: Menos de 0.5 | 40% | 28% | 34% | 3.40 | +15% |
 | Goles del visitante: Menos de 1.5 | 77% | 62% | 70% | 1.50 | +5% |
 | Córners más/menos: Más de 10.5 | 37% | 47% | 42% | 2.00 | -16% |
 | Córners más/menos: Menos de 10.5 | 63% | 53% | 58% | 1.80 | +4% |
-| 1X2 descanso: 2 | 21% | 28% | 25% | 3.25 | -20% |
+| 1X2 descanso: 2 | 21% | 28% | 25% | 3.25 | -19% |
 | 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
-| 1X2 descanso: 1 | 30% | 30% | 30% | 3.10 | -7% |
+| 1X2 descanso: 1 | 30% | 30% | 30% | 3.10 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Burgos – Castellón
 **Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -186,18 +186,18 @@ _Sin bajas comunicadas por ahora._
 | J. Vlak | M | 5 | 76 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,94 · visitante 1,56 · córners esperados 9,6._
+_Goles esperados: local 0,93 · visitante 1,57 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 52% | 41% | 46% | 2.25 | +4% |
+| 1X2: 2 | 52% | 41% | 47% | 2.25 | +5% |
 | 1X2: X | 25% | 28% | 27% | 3.30 | -12% |
-| 1X2: 1 | 23% | 31% | 27% | 3.00 | -20% |
-| Doble oportunidad: X2 | 77% | 70% | 74% | 1.36 | +0% |
+| 1X2: 1 | 22% | 31% | 27% | 3.00 | -20% |
+| Doble oportunidad: X2 | 78% | 70% | 74% | 1.36 | +0% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 48% | 59% | 53% | 1.62 | -13% |
+| Doble oportunidad: 1X | 48% | 59% | 53% | 1.62 | -14% |
 | Ambos marcan: No | 52% | 46% | 49% | 2.00 | -2% |
 | Ambos marcan: Sí | 48% | 54% | 51% | 1.73 | -12% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -7% |
@@ -212,16 +212,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
 | Goles del local: Más de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
-| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +6% |
 | Goles del local: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 1.5 | 46% | 42% | 44% | 2.20 | -2% |
+| Goles del visitante: Más de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
 | Goles del visitante: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles del visitante: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -10% |
+| Goles del visitante: Menos de 1.5 | 53% | 58% | 55% | 1.62 | -10% |
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
-| 1X2 descanso: 2 | 37% | 32% | 35% | 2.88 | -1% |
+| 1X2 descanso: 2 | 37% | 32% | 35% | 2.88 | -0% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 19% | 26% | 23% | 3.60 | -19% |
+| 1X2 descanso: 1 | 19% | 26% | 22% | 3.60 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

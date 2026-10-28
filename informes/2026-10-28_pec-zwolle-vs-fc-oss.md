@@ -1,10 +1,10 @@
 # PEC Zwolle – FC OSS
 **KNVB Beker** · Round of 64 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **1.30**  ·  X **5.00**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
@@ -31,6 +31,9 @@ _Actualizadas: 27/10 19:50_
     - 0,5: más **1.62** · menos **2.20**
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 10,5: más **1.73** · menos **2.00**
+    - 11: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -44,6 +47,7 @@ _Actualizadas: 27/10 19:50_
 - **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **6.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **21.00**  ·  Away/No **15.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.25**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.82**  ·  Menos de 5 **1.98**
 
 ## Estadísticas de equipo
 | | PEC Zwolle (total) | PEC Zwolle en casa | FC OSS (total) | FC OSS fuera |

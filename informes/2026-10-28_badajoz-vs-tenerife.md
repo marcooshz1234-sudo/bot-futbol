@@ -1,10 +1,28 @@
 # Badajoz – Tenerife
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 02:03_
+
+- **1X2:** 1 **4.75**  ·  X **3.75**  ·  2 **1.57**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.38**  ·  2 **2.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.33**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.38**
+- **Win Both Halves:** 1 **23.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.40**  ·  Home/No **10.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Badajoz (total) | Badajoz en casa | Tenerife (total) | Tenerife fuera |

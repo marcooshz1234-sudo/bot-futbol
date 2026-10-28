@@ -1,7 +1,7 @@
 # Stoke City – Preston
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -189,41 +189,41 @@ _Sin bajas comunicadas por ahora._
 | A. Moran | M | 5 | 192 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 1 | 3 | 0,6 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,71 · visitante 1,00 · córners esperados 9,4._
+_Goles esperados: local 1,69 · visitante 1,00 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 21% | 22% | 4.33 | -7% |
+| 1X2: 2 | 22% | 21% | 22% | 4.33 | -6% |
 | 1X2: X | 24% | 25% | 24% | 3.70 | -10% |
-| 1X2: 1 | 54% | 54% | 54% | 1.67 | -9% |
-| Doble oportunidad: X2 | 46% | 47% | 46% | 2.00 | -7% |
+| 1X2: 1 | 54% | 54% | 54% | 1.67 | -10% |
+| Doble oportunidad: X2 | 46% | 47% | 47% | 2.00 | -7% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 78% | 79% | 78% | 1.18 | -7% |
+| Doble oportunidad: 1X | 78% | 79% | 78% | 1.18 | -8% |
 | Ambos marcan: No | 48% | 50% | 49% | 1.83 | -10% |
 | Ambos marcan: Sí | 52% | 50% | 51% | 1.83 | -7% |
 | Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -4% |
 | Goles más/menos: Más de 2.5 | 51% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Más de 3.5 | 29% | 28% | 28% | 3.40 | -3% |
+| Goles más/menos: Más de 3.5 | 29% | 28% | 28% | 3.40 | -4% |
 | Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles más/menos: Menos de 2.5 | 49% | 50% | 50% | 1.91 | -5% |
 | Goles más/menos: Menos de 3.5 | 71% | 72% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del local: Más de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
-| Goles del local: Más de 2.5 | 24% | 27% | 26% | 3.50 | -10% |
-| Goles del local: Menos de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Goles del local: Menos de 2.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
+| Goles del local: Más de 1.5 | 50% | 51% | 51% | 1.80 | -8% |
+| Goles del local: Más de 2.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles del local: Menos de 1.5 | 50% | 49% | 49% | 1.91 | -6% |
+| Goles del local: Menos de 2.5 | 76% | 73% | 75% | 1.28 | -5% |
 | Goles del visitante: Más de 0.5 | 63% | 61% | 62% | 1.53 | -5% |
-| Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del visitante: Más de 1.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -10% |
-| Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles del visitante: Menos de 1.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Córners más/menos: Más de 10.5 | 36% | 50% | 43% | 1.90 | -18% |
 | Córners más/menos: Menos de 10.5 | 64% | 50% | 57% | 1.90 | +8% |
 | 1X2 descanso: X | 42% | 41% | 41% | 2.25 | -7% |
-| 1X2 descanso: 1 | 39% | 41% | 40% | 2.25 | -10% |
+| 1X2 descanso: 1 | 39% | 41% | 40% | 2.25 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Ajax – AZ Alkmaar
 **Eredivisie** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -192,44 +192,44 @@ _Sin bajas comunicadas por ahora._
 | D. Kasius | D | 4 | 91 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 1,50 · córners esperados 10,1._
+_Goles esperados: local 2,00 · visitante 1,53 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 24% | 26% | 3.90 | +2% |
-| 1X2: X | 21% | 22% | 22% | 4.20 | -8% |
-| 1X2: 1 | 50% | 54% | 52% | 1.73 | -10% |
-| Doble oportunidad: X2 | 50% | 46% | 48% | 2.05 | -1% |
-| Doble oportunidad: 12 | 79% | 78% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 71% | 76% | 74% | 1.25 | -8% |
+| 1X2: 2 | 30% | 24% | 27% | 3.90 | +5% |
+| 1X2: X | 22% | 22% | 22% | 4.20 | -8% |
+| 1X2: 1 | 49% | 54% | 51% | 1.73 | -11% |
+| Doble oportunidad: X2 | 51% | 46% | 49% | 2.05 | +0% |
+| Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
+| Doble oportunidad: 1X | 70% | 76% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 32% | 34% | 33% | 2.75 | -9% |
 | Ambos marcan: Sí | 68% | 66% | 67% | 1.40 | -6% |
-| Goles más/menos: Más de 2.5 | 69% | 67% | 68% | 1.40 | -5% |
+| Goles más/menos: Más de 2.5 | 68% | 67% | 68% | 1.40 | -5% |
 | Goles más/menos: Más de 3.5 | 47% | 49% | 48% | 1.91 | -9% |
 | Goles más/menos: Más de 4.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles más/menos: Menos de 2.5 | 31% | 33% | 32% | 2.88 | -8% |
+| Goles más/menos: Menos de 2.5 | 32% | 33% | 32% | 2.88 | -7% |
 | Goles más/menos: Menos de 3.5 | 53% | 51% | 52% | 1.80 | -6% |
 | Goles más/menos: Menos de 4.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 45% | 46% | 46% | 2.00 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 23% | 22% | 4.00 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -4% |
-| Goles del local: Más de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles del local: Más de 2.5 | 33% | 38% | 35% | 2.50 | -12% |
-| Goles del local: Menos de 1.5 | 40% | 35% | 38% | 2.62 | -2% |
-| Goles del local: Menos de 2.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del visitante: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
-| Goles del visitante: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
-| Goles del visitante: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
+| Goles del local: Más de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
+| Goles del local: Más de 2.5 | 32% | 38% | 35% | 2.50 | -13% |
+| Goles del local: Menos de 1.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles del local: Menos de 2.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del visitante: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 45% | 41% | 43% | 2.25 | -3% |
+| Goles del visitante: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -13% |
+| Goles del visitante: Menos de 1.5 | 55% | 59% | 57% | 1.57 | -11% |
 | Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
-| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -3% |
-| 1X2 descanso: X | 36% | 35% | 35% | 2.62 | -7% |
-| 1X2 descanso: 1 | 39% | 42% | 40% | 2.20 | -11% |
+| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -2% |
+| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -7% |
+| 1X2 descanso: 1 | 38% | 42% | 40% | 2.20 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

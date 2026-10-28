@@ -1,7 +1,7 @@
 # Moreirense – Estrela
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 16:30 (hora España) · Parque Joaquim de Almeida Freitas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -179,18 +179,18 @@ _Sin bajas comunicadas por ahora._
 | L. Mincarelli Davin | D | 2 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 1,47 · córners esperados 8,9._
+_Goles esperados: local 1,47 · visitante 1,48 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 40% | 39% | 2.35 | -9% |
+| 1X2: 2 | 38% | 40% | 39% | 2.35 | -8% |
 | 1X2: X | 24% | 29% | 27% | 3.25 | -13% |
-| 1X2: 1 | 38% | 31% | 35% | 3.00 | +4% |
-| Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -11% |
+| 1X2: 1 | 38% | 31% | 34% | 3.00 | +3% |
+| Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -10% |
 | Doble oportunidad: 12 | 76% | 71% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 63% | 60% | 61% | 1.57 | -4% |
+| Doble oportunidad: 1X | 62% | 60% | 61% | 1.57 | -4% |
 | Ambos marcan: No | 40% | 47% | 44% | 2.00 | -13% |
 | Ambos marcan: Sí | 60% | 53% | 56% | 1.75 | -1% |
 | Goles más/menos: Más de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
@@ -201,18 +201,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 66% | 72% | 69% | 1.30 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
 | Goles del local: Más de 0.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del local: Más de 1.5 | 44% | 35% | 40% | 2.62 | +4% |
+| Goles del local: Más de 1.5 | 43% | 35% | 39% | 2.62 | +3% |
 | Goles del local: Menos de 0.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles del local: Menos de 1.5 | 56% | 65% | 60% | 1.44 | -13% |
+| Goles del local: Menos de 1.5 | 57% | 65% | 61% | 1.44 | -13% |
 | Goles del visitante: Más de 0.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 43% | 38% | 40% | 2.50 | +1% |
+| Goles del visitante: Más de 1.5 | 44% | 38% | 41% | 2.50 | +1% |
 | Goles del visitante: Menos de 0.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del visitante: Menos de 1.5 | 57% | 62% | 60% | 1.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 56% | 62% | 59% | 1.50 | -11% |
 | 1X2 descanso: 2 | 30% | 31% | 30% | 3.00 | -9% |
 | 1X2 descanso: X | 40% | 42% | 41% | 2.20 | -9% |
-| 1X2 descanso: 1 | 30% | 27% | 28% | 3.50 | -1% |
+| 1X2 descanso: 1 | 30% | 27% | 28% | 3.50 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

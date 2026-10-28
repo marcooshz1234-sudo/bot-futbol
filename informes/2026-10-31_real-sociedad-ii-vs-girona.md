@@ -1,7 +1,7 @@
 # Real Sociedad II – Girona
 **Segunda División** · Regular Season - 12 · 31/10/2026 14:00 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -57,21 +57,21 @@ _Actualizadas: 27/10 07:50_
 ## Estadísticas de equipo
 | | Real Sociedad II (total) | Real Sociedad II en casa | Girona (total) | Girona fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 4 |
-| Forma (últimos 5) | DDDDD | DDDED | VVEEV | EVVD |
-| Balance | 2V 2E 7D | 0V 1E 4D | 6V 3E 2D | 2V 1E 1D |
-| Goles a favor / partido | 1,27 | 1,00 | 2,00 | 1,50 |
-| Goles en contra / partido | 2,00 | 2,00 | 0,91 | 1,00 |
-| Goles a favor 1ª parte | 0,73 | 0,40 | 1,27 | 1,00 |
-| Goles a favor 2ª parte | 0,55 | 0,60 | 0,73 | 0,50 |
-| Goles en contra 1ª parte | 0,73 | 0,60 | 0,27 | 0,75 |
-| Goles en contra 2ª parte | 1,27 | 1,40 | 0,64 | 0,25 |
-| Más de 1,5 goles | 73% | 60% | 91% | 100% |
-| Más de 2,5 goles | 64% | 40% | 45% | 50% |
-| Más de 3,5 goles | 55% | 40% | 18% | 0% |
-| Ambos marcan | 73% | 60% | 64% | 75% |
-| Portería a cero | 0% | 0% | 36% | 25% |
-| Se queda sin marcar | 27% | 40% | 9% | 0% |
+| Partidos analizados | 11 | 5 | 12 | 5 |
+| Forma (últimos 5) | DDDDD | DDDED | VVVEE | VEVVD |
+| Balance | 2V 2E 7D | 0V 1E 4D | 7V 3E 2D | 3V 1E 1D |
+| Goles a favor / partido | 1,27 | 1,00 | 2,00 | 1,60 |
+| Goles en contra / partido | 2,00 | 2,00 | 0,83 | 0,80 |
+| Goles a favor 1ª parte | 0,73 | 0,40 | 1,25 | 1,00 |
+| Goles a favor 2ª parte | 0,55 | 0,60 | 0,75 | 0,60 |
+| Goles en contra 1ª parte | 0,73 | 0,60 | 0,25 | 0,60 |
+| Goles en contra 2ª parte | 1,27 | 1,40 | 0,58 | 0,20 |
+| Más de 1,5 goles | 73% | 60% | 92% | 100% |
+| Más de 2,5 goles | 64% | 40% | 42% | 40% |
+| Más de 3,5 goles | 55% | 40% | 17% | 0% |
+| Ambos marcan | 73% | 60% | 58% | 60% |
+| Portería a cero | 0% | 0% | 42% | 40% |
+| Se queda sin marcar | 27% | 40% | 8% | 0% |
 | xG a favor | 1,51 | 1,17 | 1,59 | 1,11 |
 | xG en contra | 1,96 | 1,67 | 1,35 | 1,44 |
 | Tiros / partido | 12,9 | 12,0 | 15,0 | 11,8 |
@@ -99,9 +99,9 @@ _Actualizadas: 27/10 07:50_
 | Tramo | Goles Real Sociedad II | Recibe Real Sociedad II | Tarjetas Real Sociedad II | Goles Girona | Recibe Girona | Tarjetas Girona |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 1 | 4 | 1 | 1 |
-| 16-30' | 2 | 1 | 2 | 5 | 1 | 2 |
+| 16-30' | 2 | 1 | 2 | 6 | 1 | 3 |
 | 31-45' | 4 | 3 | 7 | 5 | 1 | 2 |
-| 46-60' | 2 | 4 | 6 | 3 | 4 | 6 |
+| 46-60' | 2 | 4 | 6 | 4 | 4 | 6 |
 | 61-75' | 1 | 4 | 9 | 1 | 0 | 8 |
 | 76-90' | 3 | 6 | 7 | 4 | 3 | 11 |
 
@@ -151,12 +151,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Girona
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Copa del Rey | Cuarte 0-2 Girona | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Girona 5-1 Celta de Vigo II | casa | 7-2 | 21 (8) - 3 (3) | 1-3 |
 | 2026-10-18 | Segunda División | Girona 2-0 FC Andorra | casa | 2-6 | 11 (4) - 6 (3) | 2-2 |
 | 2026-10-12 | Segunda División | Tenerife 1-1 Girona | fuera | 3-6 | 12 (4) - 13 (3) | 4-3 |
 | 2026-10-04 | Segunda División | Girona 0-0 Mallorca | casa | 5-7 | 16 (5) - 9 (1) | 1-4 |
 | 2026-09-25 | Segunda División | Girona 2-0 Albacete | casa | 3-5 | 18 (3) - 20 (5) | 0-5 |
-| 2026-09-19 | Segunda División | Cadiz 1-2 Girona | fuera | 4-2 | 15 (7) - 15 (5) | 4-5 |
 
 ## Jugadores de Girona
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -183,44 +183,44 @@ _Sin bajas comunicadas por ahora._
 | Mateu Morey | D | 3 | 139 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 2,11 · córners esperados 9,5._
+_Goles esperados: local 1,20 · visitante 2,13 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 46% | 51% | 2.00 | +3% |
-| 1X2: X | 21% | 26% | 24% | 3.50 | -17% |
-| 1X2: 1 | 23% | 27% | 25% | 3.40 | -15% |
-| Doble oportunidad: X2 | 77% | 73% | 75% | 1.30 | -2% |
+| 1X2: 2 | 59% | 46% | 53% | 2.00 | +5% |
+| 1X2: X | 21% | 26% | 23% | 3.50 | -18% |
+| 1X2: 1 | 21% | 27% | 24% | 3.40 | -18% |
+| Doble oportunidad: X2 | 79% | 73% | 76% | 1.30 | -1% |
 | Doble oportunidad: 12 | 79% | 74% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 44% | 53% | 48% | 1.80 | -13% |
-| Ambos marcan: No | 37% | 39% | 38% | 2.38 | -10% |
-| Ambos marcan: Sí | 63% | 61% | 62% | 1.53 | -5% |
+| Doble oportunidad: 1X | 41% | 53% | 47% | 1.80 | -15% |
+| Ambos marcan: No | 38% | 39% | 39% | 2.38 | -8% |
+| Ambos marcan: Sí | 62% | 61% | 61% | 1.53 | -6% |
 | Goles más/menos: Más de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles más/menos: Más de 2.5 | 66% | 58% | 62% | 1.62 | +0% |
-| Goles más/menos: Más de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Más de 4.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles más/menos: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles más/menos: Menos de 2.5 | 34% | 42% | 38% | 2.25 | -14% |
-| Goles más/menos: Menos de 3.5 | 56% | 62% | 59% | 1.50 | -11% |
-| Goles más/menos: Menos de 4.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 39% | 41% | 2.38 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
-| Goles del local: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
-| Goles del local: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles del local: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -6% |
-| Goles del local: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del visitante: Más de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
-| Goles del visitante: Más de 2.5 | 35% | 27% | 31% | 3.50 | +9% |
-| Goles del visitante: Menos de 1.5 | 38% | 49% | 43% | 1.91 | -18% |
-| Goles del visitante: Menos de 2.5 | 65% | 73% | 69% | 1.28 | -12% |
+| Goles más/menos: Más de 2.5 | 65% | 58% | 61% | 1.62 | -1% |
+| Goles más/menos: Más de 3.5 | 43% | 38% | 40% | 2.50 | +0% |
+| Goles más/menos: Más de 4.5 | 24% | 21% | 23% | 4.50 | +1% |
+| Goles más/menos: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -18% |
+| Goles más/menos: Menos de 2.5 | 35% | 42% | 39% | 2.25 | -13% |
+| Goles más/menos: Menos de 3.5 | 57% | 62% | 60% | 1.50 | -10% |
+| Goles más/menos: Menos de 4.5 | 76% | 79% | 77% | 1.18 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 39% | 41% | 2.38 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 61% | 59% | 1.53 | -9% |
+| Goles del local: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles del local: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles del local: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles del local: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles del visitante: Más de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
+| Goles del visitante: Más de 2.5 | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del visitante: Menos de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
+| Goles del visitante: Menos de 2.5 | 64% | 73% | 69% | 1.28 | -12% |
 | Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
 | Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| 1X2 descanso: 2 | 42% | 36% | 39% | 2.60 | +2% |
+| 1X2 descanso: 2 | 44% | 36% | 40% | 2.60 | +3% |
 | 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -10% |
-| 1X2 descanso: 1 | 21% | 25% | 23% | 3.75 | -13% |
+| 1X2 descanso: 1 | 20% | 25% | 22% | 3.75 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,20 +1,41 @@
 # Numancia – Oviedo
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:02_
 
-- **1X2:** 1 **4.75**  ·  X **3.90**  ·  2 **1.53**
-- **Ambos marcan:** Sí **2.05**  ·  No **1.70**
+- **1X2:** 1 **3.50**  ·  X **3.40**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.25**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **7.00** · menos **1.10**
-- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **4.00**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.38**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.15** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.10**  ·  2 **2.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.53**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **3.40**
+- **Win Both Halves:** 1 **17.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **4.33**  ·  Home/No **7.00**  ·  Draw/No **9.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.05**
 
 ## Estadísticas de equipo
 | | Numancia (total) | Numancia en casa | Oviedo (total) | Oviedo fuera |

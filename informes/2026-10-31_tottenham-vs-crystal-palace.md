@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:04_
 
 - **1X2:** 1 **1.53**  ·  X **4.20**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.38**
@@ -43,7 +43,7 @@ _Actualizadas: 26/10 19:53_
 - **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **17.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**
 - **Away Player Shots On Target Total:** Quinten Timber **51.00**  ·  Anan Khalaili **67.00**  ·  Dario Osorio **51.00**  ·  Evann Guessand **13.00**  ·  Oscar Mingueza **81.00**  ·  Ismaila Sarr **17.00**  ·  Andrew Robertson **26.00**  ·  Jaydee Canvot **26.00**  ·  Cheick Doucoure **81.00**  ·  Adam Wharton **101.00**  ·  Chris Richards **15.00**  ·  Daichi Kamada **81.00**  ·  Eddie Nketiah **19.00**  ·  Jefferson Lerma **41.00**  ·  Tyrick Mitchell **101.00**  ·  Will Hughes **126.00**  ·  Axel Disasi **26.00**  ·  Tosin Adarabioyo **15.00**  ·  Conor Gallagher **34.00**  ·  Marcos Senesi **19.00**  ·  Jan Paul van Hecke **11.00**  ·  Sandro Tonali **51.00**  ·  Dwight McNeil **51.00**  ·  Archie Gray **29.00**  ·  Ben Davies **29.00**  ·  Destiny Udogie **29.00**  ·  Dominic Solanke **8.00**  ·  James Maddison **51.00**  ·  Lucas Bergvall **41.00**  ·  Micky Van de Ven **9.00**  ·  Mohammed Kudus **26.00**  ·  Pedro Porro **51.00**  ·  Rodrigo Bentancur **26.00**  ·  Mathys Tel **19.00**  ·  Omar Marmoush **15.00**  ·  Ben Chilwell **67.00**  ·  Yeremy Pino **41.00**  ·  Honest Ahanor **26.00**  ·  Mateus Fernandes **34.00**  ·  Takehiro Tomiyasu **41.00**  ·  Jorgen Larsen **13.00**  ·  Savio **34.00**
-- **Anytime Goal Scorer:** Quinten Timber **9.50**  ·  Anan Khalaili **7.00**  ·  Dario Osorio **6.00**  ·  Evann Guessand **4.50**  ·  Oscar Mingueza **11.00**  ·  Ismaila Sarr **4.33**  ·  Andrew Robertson **9.50**  ·  Jaydee Canvot **13.00**  ·  Cheick Doucoure **9.50**  ·  Adam Wharton **11.00**  ·  Chris Richards **13.00**  ·  Daichi Kamada **7.00**  ·  Eddie Nketiah **4.00**  ·  Jefferson Lerma **11.00**  ·  Tyrick Mitchell **13.00**  ·  Will Hughes **13.00**  ·  Axel Disasi **17.00**  ·  Tosin Adarabioyo **9.50**  ·  Conor Gallagher **4.00**  ·  Marcos Senesi **11.00**  ·  Jan Paul van Hecke **8.00**  ·  Sandro Tonali **6.00**  ·  Dwight McNeil **7.00**  ·  Archie Gray **6.50**  ·  Ben Davies **9.50**  ·  Destiny Udogie **8.00**  ·  Dominic Solanke **2.20**  ·  James Maddison **3.40**  ·  Lucas Bergvall **5.00**  ·  Micky Van de Ven **6.00**  ·  Mohammed Kudus **3.00**  ·  Pedro Porro **6.50**  ·  Rodrigo Bentancur **6.50**  ·  Mathys Tel **3.00**  ·  Omar Marmoush **2.30**  ·  Ben Chilwell **9.50**  ·  Yeremy Pino **6.50**  ·  Honest Ahanor **13.00**  ·  Mateus Fernandes **4.00**  ·  Takehiro Tomiyasu **17.00**  ·  Jorgen Larsen **3.40**  ·  Savio **4.00**
+- **Anytime Goal Scorer:** Quinten Timber **9.50**  ·  Anan Khalaili **7.00**  ·  Dario Osorio **6.00**  ·  Evann Guessand **4.50**  ·  Oscar Mingueza **11.00**  ·  Ismaila Sarr **4.33**  ·  Andrew Robertson **9.50**  ·  Jaydee Canvot **13.00**  ·  Cheick Doucoure **9.50**  ·  Adam Wharton **11.00**  ·  Chris Richards **13.00**  ·  Daichi Kamada **7.00**  ·  Eddie Nketiah **4.00**  ·  Jefferson Lerma **11.00**  ·  Tyrick Mitchell **13.00**  ·  Will Hughes **13.00**  ·  Axel Disasi **17.00**  ·  Tosin Adarabioyo **9.50**  ·  Conor Gallagher **4.00**  ·  Marcos Senesi **11.00**  ·  Jan Paul van Hecke **7.50**  ·  Sandro Tonali **6.00**  ·  Dwight McNeil **7.00**  ·  Archie Gray **6.50**  ·  Ben Davies **9.50**  ·  Destiny Udogie **7.50**  ·  Dominic Solanke **2.20**  ·  James Maddison **3.40**  ·  Lucas Bergvall **5.00**  ·  Micky Van de Ven **6.00**  ·  Mohammed Kudus **2.88**  ·  Pedro Porro **6.50**  ·  Rodrigo Bentancur **6.50**  ·  Mathys Tel **2.88**  ·  Omar Marmoush **2.30**  ·  Ben Chilwell **9.50**  ·  Yeremy Pino **6.50**  ·  Honest Ahanor **13.00**  ·  Mateus Fernandes **4.00**  ·  Takehiro Tomiyasu **17.00**  ·  Jorgen Larsen **3.40**  ·  Savio **4.00**
 - **Player to Score or Assist:** Quinten Timber **4.33**  ·  Anan Khalaili **4.33**  ·  Dario Osorio **3.60**  ·  Evann Guessand **3.10**  ·  Oscar Mingueza **5.00**  ·  Ismaila Sarr **3.00**  ·  Andrew Robertson **4.00**  ·  Jaydee Canvot **9.00**  ·  Cheick Doucoure **6.00**  ·  Adam Wharton **5.50**  ·  Chris Richards **9.00**  ·  Daichi Kamada **4.33**  ·  Eddie Nketiah **2.88**  ·  Jefferson Lerma **6.00**  ·  Tyrick Mitchell **7.50**  ·  Will Hughes **6.50**  ·  Axel Disasi **13.00**  ·  Tosin Adarabioyo **6.50**  ·  Conor Gallagher **2.40**  ·  Marcos Senesi **7.00**  ·  Jan Paul van Hecke **4.50**  ·  Sandro Tonali **2.75**  ·  Dwight McNeil **3.60**  ·  Archie Gray **3.60**  ·  Ben Davies **7.00**  ·  Destiny Udogie **4.00**  ·  Dominic Solanke **1.80**  ·  James Maddison **2.00**  ·  Lucas Bergvall **3.25**  ·  Micky Van de Ven **4.75**  ·  Mohammed Kudus **1.91**  ·  Pedro Porro **2.88**  ·  Rodrigo Bentancur **4.00**  ·  Mathys Tel **2.10**  ·  Omar Marmoush **1.73**  ·  Ben Chilwell **4.75**  ·  Yeremy Pino **3.50**  ·  Honest Ahanor **8.50**  ·  Mateus Fernandes **2.05**  ·  Takehiro Tomiyasu **7.50**  ·  Jorgen Larsen **2.62**  ·  Savio **2.20**
 
 ## Estadísticas de equipo
@@ -179,37 +179,37 @@ _Sin bajas comunicadas por ahora._
 | Will Hughes | M | 4 | 128 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,30 · córners esperados 10,0._
+_Goles esperados: local 1,42 · visitante 1,31 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 17% | 26% | 5.50 | +41% |
+| 1X2: 2 | 35% | 17% | 26% | 5.50 | +42% |
 | 1X2: X | 26% | 22% | 24% | 4.20 | +0% |
-| 1X2: 1 | 40% | 61% | 51% | 1.53 | -23% |
-| Doble oportunidad: X2 ✅ | 60% | 40% | 50% | 2.38 | +18% |
+| 1X2: 1 | 40% | 61% | 50% | 1.53 | -23% |
+| Doble oportunidad: X2 ✅ | 60% | 40% | 50% | 2.38 | +19% |
 | Doble oportunidad: 12 | 74% | 77% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 66% | 83% | 74% | 1.14 | -15% |
-| Ambos marcan: No | 45% | 44% | 45% | 2.10 | -7% |
-| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -7% |
+| Doble oportunidad: 1X | 65% | 83% | 74% | 1.14 | -16% |
+| Ambos marcan: No | 45% | 44% | 44% | 2.10 | -7% |
+| Ambos marcan: Sí | 55% | 56% | 56% | 1.67 | -7% |
 | Goles más/menos: Más de 2.5 | 51% | 60% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 3.5 | 29% | 40% | 34% | 2.38 | -18% |
+| Goles más/menos: Más de 3.5 | 29% | 40% | 35% | 2.38 | -18% |
 | Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -22% |
 | Goles más/menos: Menos de 2.5 | 49% | 40% | 44% | 2.38 | +5% |
-| Goles más/menos: Menos de 3.5 | 71% | 60% | 66% | 1.57 | +3% |
+| Goles más/menos: Menos de 3.5 | 71% | 60% | 65% | 1.57 | +3% |
 | Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.22 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
 | Goles del local: Más de 1.5 | 42% | 62% | 52% | 1.50 | -22% |
-| Goles del local: Más de 2.5 | 17% | 38% | 27% | 2.50 | -31% |
+| Goles del local: Más de 2.5 | 17% | 38% | 27% | 2.50 | -32% |
 | Goles del local: Menos de 1.5 ✅ | 58% | 38% | 48% | 2.50 | +20% |
 | Goles del local: Menos de 2.5 | 83% | 62% | 73% | 1.50 | +9% |
 | Goles del visitante: Más de 0.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del visitante: Más de 1.5 | 37% | 28% | 32% | 3.40 | +10% |
+| Goles del visitante: Más de 1.5 | 38% | 28% | 33% | 3.40 | +11% |
 | Goles del visitante: Menos de 0.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del visitante: Menos de 1.5 | 63% | 72% | 68% | 1.30 | -12% |
+| Goles del visitante: Menos de 1.5 | 62% | 72% | 67% | 1.30 | -12% |
 | 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -1% |
-| 1X2 descanso: 1 | 31% | 46% | 38% | 2.00 | -23% |
+| 1X2 descanso: 1 | 30% | 46% | 38% | 2.00 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

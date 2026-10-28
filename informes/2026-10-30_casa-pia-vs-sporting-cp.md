@@ -1,10 +1,10 @@
 # Casa Pia – Sporting CP
-**Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España)
+**Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España) · Estadio Municipal de Rio Maior
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:52_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **10.00**  ·  X **5.50**  ·  2 **1.27**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.14**  ·  X2 **1.06**
@@ -181,18 +181,18 @@ _Sin bajas comunicadas por ahora._
 | João Simões | M | 3 | 146 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,78 · visitante 1,92 · córners esperados 9,6._
+_Goles esperados: local 0,77 · visitante 1,93 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 64% | 74% | 69% | 1.27 | -13% |
+| 1X2: 2 | 65% | 74% | 69% | 1.27 | -12% |
 | 1X2: X | 21% | 17% | 19% | 5.50 | +5% |
-| 1X2: 1 | 15% | 9% | 12% | 10.00 | +20% |
-| Doble oportunidad: X2 | 85% | 90% | 88% | 1.06 | -7% |
+| 1X2: 1 | 14% | 9% | 12% | 10.00 | +18% |
+| Doble oportunidad: X2 | 86% | 90% | 88% | 1.06 | -7% |
 | Doble oportunidad: 12 | 79% | 84% | 81% | 1.14 | -7% |
-| Doble oportunidad: 1X | 36% | 26% | 31% | 3.75 | +15% |
+| Doble oportunidad: 1X | 35% | 26% | 30% | 3.75 | +14% |
 | Ambos marcan: No | 54% | 53% | 54% | 1.75 | -6% |
 | Ambos marcan: Sí | 46% | 47% | 46% | 2.00 | -7% |
 | Goles más/menos: Más de 2.5 | 51% | 60% | 55% | 1.57 | -13% |
@@ -207,13 +207,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
 | Goles del local: Más de 0.5 | 54% | 51% | 53% | 1.80 | -5% |
 | Goles del local: Menos de 0.5 | 46% | 49% | 47% | 1.91 | -10% |
-| Goles del visitante: Más de 1.5 | 57% | 72% | 65% | 1.30 | -16% |
-| Goles del visitante: Más de 2.5 | 30% | 49% | 39% | 1.91 | -25% |
+| Goles del visitante: Más de 1.5 | 58% | 72% | 65% | 1.30 | -16% |
+| Goles del visitante: Más de 2.5 | 31% | 49% | 40% | 1.91 | -24% |
 | Goles del visitante: Más de 3.5 | 13% | 28% | 20% | 3.40 | -31% |
-| Goles del visitante: Menos de 1.5 | 43% | 28% | 35% | 3.40 | +20% |
-| Goles del visitante: Menos de 2.5 | 70% | 51% | 61% | 1.80 | +9% |
-| Goles del visitante: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
-| 1X2 descanso: 2 | 45% | 56% | 51% | 1.67 | -16% |
+| Goles del visitante: Menos de 1.5 | 42% | 28% | 35% | 3.40 | +19% |
+| Goles del visitante: Menos de 2.5 | 69% | 51% | 60% | 1.80 | +9% |
+| Goles del visitante: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +3% |
+| 1X2 descanso: 2 | 46% | 56% | 51% | 1.67 | -15% |
 | 1X2 descanso: X | 40% | 34% | 37% | 2.75 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

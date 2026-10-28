@@ -1,21 +1,21 @@
 # Bayern München – 1. FC Magdeburg
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:51_
+_Actualizadas: 28/10 02:03_
 
-- **1X2:** 1 **1.04**  ·  X **15.00**  ·  2 **26.00**
-- **Doble oportunidad:** 1X **1.01**  ·  12 **1.03**  ·  X2 **13.00**
-- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **1X2:** 1 **1.04**  ·  X **17.00**  ·  2 **29.00**
+- **Doble oportunidad:** 1X **1.01**  ·  12 **1.02**  ·  X2 **13.00**
+- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
     - 2,5: más **1.14** · menos **5.50**
     - 3,5: más **1.40** · menos **2.75**
     - 4,5: más **1.83** · menos **1.83**
     - 5,5: más **2.75** · menos **1.40**
     - 6,5: más **4.50** · menos **1.18**
-    - 7,5: más **8.00** · menos **1.08**
+    - 7,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
@@ -24,39 +24,39 @@ _Actualizadas: 27/10 13:51_
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 1,5: más **1.06** · menos **10.00**
-    - 2,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.22** · menos **4.00**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.38** · menos **1.53**
-    - 5,5: más **4.00** · menos **1.22**
+    - 5,5: más **3.75** · menos **1.25**
     - 6,5: más **7.00** · menos **1.10**
     - 7,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **7.00** · menos **1.10**
+    - 0,5: más **2.20** · menos **1.62**
+    - 1,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 10: más **1.80** · menos **2.00**
     - 10,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **1.22**  ·  X **4.75**  ·  2 **19.00**
+- **1X2 descanso:** 1 **1.22**  ·  X **4.75**  ·  2 **21.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.00** · menos **1.73**
     - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.02**  ·  2 **10.00**
-- **To Score In Both Halves By Teams:** 1 **1.28**  ·  2 **13.00**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.02**  ·  2 **11.00**
+- **To Score In Both Halves By Teams:** 1 **1.25**  ·  2 **15.00**
 - **Win Both Halves:** 1 **1.50**  ·  2 **101.00**
-- **Results/Both Teams Score:** Home/Yes **2.38**  ·  Draw/Yes **17.00**  ·  Away/Yes **41.00**  ·  Home/No **1.67**  ·  Draw/No **34.00**  ·  Away/No **51.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **2.10**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **6.00**
+- **Results/Both Teams Score:** Home/Yes **2.40**  ·  Draw/Yes **17.00**  ·  Away/Yes **41.00**  ·  Home/No **1.62**  ·  Draw/No **34.00**  ·  Away/No **51.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **2.00**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **6.00**
 - **Home Corners Over/Under:**
     - 7,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
-- **Anytime Goal Scorer:** Lennart Karl **2.00**  ·  Ismael Saibari **1.91**  ·  Magnus Baars **9.50**  ·  Luis Diaz **1.91**  ·  Eldin Dzogovic **21.00**  ·  Felipe Chavez **8.00**  ·  Do-young Yoon **9.50**  ·  Torben Musel **8.00**  ·  Roko Simic **5.50**  ·  Emmanuel Iyoha **8.00**  ·  Josip Stanisic **7.00**  ·  Luka Hyrylainen **9.50**  ·  Richmond Tachie **6.00**  ·  Anselmo Garcia MacNulty **21.00**  ·  Alexander Nollenberger **12.00**  ·  Baris Atik **9.50**  ·  Falko Michel **9.50**  ·  Lubambo Musonda **15.00**  ·  Herbert Bockhorn **21.00**  ·  Pierre Nadjombe **19.00**  ·  Tarek Chahed **21.00**  ·  Daniel Heber **26.00**  ·  Tobias Muller **26.00**  ·  Mateusz Zukowski **5.00**  ·  Tony Reitz **19.00**  ·  Bara Ndiaye **3.00**  ·  Kevin Manthey **6.00**  ·  Tim Binder **2.88**  ·  Leon Mergner **15.00**  ·  Tom Bischof **3.00**  ·  Aleksandar Pavlovic **4.50**  ·  Alphonso Davies **3.00**  ·  Dayot Upamecano **7.00**  ·  Harry Kane **1.28**  ·  Jamal Musiala **1.80**  ·  Joshua Kimmich **4.50**  ·  Konrad Laimer **4.50**  ·  Michael Olise **1.91**  ·  Nathaniel Brown **2.62**  ·  Serge Gnabry **2.00**  ·  Min-Jae Kim **8.00**  ·  Sacha Boey **4.50**  ·  Hiroki Ito **4.50**  ·  Jonathan Tah **4.50**  ·  Moritz-Broni Kwarteng **9.50**  ·  Paul Jaeckel **41.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
+- **Anytime Goal Scorer:** Lennart Karl **2.00**  ·  Ismael Saibari **1.91**  ·  Magnus Baars **9.50**  ·  Luis Diaz **1.91**  ·  Eldin Dzogovic **26.00**  ·  Felipe Chavez **9.50**  ·  Do-young Yoon **9.50**  ·  Torben Musel **9.50**  ·  Roko Simic **6.00**  ·  Emmanuel Iyoha **8.00**  ·  Josip Stanisic **7.00**  ·  Luka Hyrylainen **9.50**  ·  Richmond Tachie **7.00**  ·  Anselmo Garcia MacNulty **26.00**  ·  Alexander Nollenberger **12.00**  ·  Baris Atik **9.50**  ·  Falko Michel **9.50**  ·  Lubambo Musonda **15.00**  ·  Herbert Bockhorn **21.00**  ·  Pierre Nadjombe **19.00**  ·  Tarek Chahed **26.00**  ·  Daniel Heber **34.00**  ·  Tobias Muller **34.00**  ·  Mateusz Zukowski **5.00**  ·  Tony Reitz **19.00**  ·  Bara Ndiaye **3.00**  ·  Kevin Manthey **7.00**  ·  Tim Binder **2.88**  ·  Leon Mergner **15.00**  ·  Tom Bischof **3.00**  ·  Aleksandar Pavlovic **4.00**  ·  Alphonso Davies **3.00**  ·  Dayot Upamecano **7.00**  ·  Harry Kane **1.25**  ·  Jamal Musiala **1.80**  ·  Joshua Kimmich **4.50**  ·  Konrad Laimer **4.50**  ·  Michael Olise **1.91**  ·  Nathaniel Brown **2.62**  ·  Serge Gnabry **2.00**  ·  Min-Jae Kim **8.00**  ·  Sacha Boey **4.50**  ·  Hiroki Ito **4.50**  ·  Jonathan Tah **4.50**  ·  Moritz-Broni Kwarteng **9.50**  ·  Paul Jaeckel **51.00**
 
 ## Estadísticas de equipo
 | | Bayern München (total) | Bayern München en casa | 1. FC Magdeburg (total) | 1. FC Magdeburg fuera |

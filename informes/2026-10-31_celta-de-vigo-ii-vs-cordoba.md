@@ -1,7 +1,7 @@
 # Celta de Vigo II – Cordoba
 **Segunda División** · Regular Season - 12 · 31/10/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -59,21 +59,21 @@ _Actualizadas: 27/10 07:50_
 ## Estadísticas de equipo
 | | Celta de Vigo II (total) | Celta de Vigo II en casa | Cordoba (total) | Cordoba fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 6 |
-| Forma (últimos 5) | DEVDE | EVEDD | VVDVD | VDDVD |
-| Balance | 3V 3E 5D | 2V 2E 2D | 5V 0E 6D | 2V 0E 4D |
-| Goles a favor / partido | 1,45 | 1,83 | 1,55 | 1,50 |
-| Goles en contra / partido | 1,91 | 1,83 | 1,82 | 2,00 |
-| Goles a favor 1ª parte | 0,64 | 0,83 | 0,91 | 0,83 |
-| Goles a favor 2ª parte | 0,82 | 1,00 | 0,64 | 0,67 |
-| Goles en contra 1ª parte | 1,27 | 1,00 | 0,64 | 1,00 |
-| Goles en contra 2ª parte | 0,64 | 0,83 | 1,18 | 1,00 |
-| Más de 1,5 goles | 91% | 100% | 91% | 83% |
-| Más de 2,5 goles | 55% | 67% | 73% | 83% |
-| Más de 3,5 goles | 45% | 50% | 45% | 50% |
-| Ambos marcan | 64% | 83% | 73% | 83% |
-| Portería a cero | 18% | 0% | 18% | 17% |
-| Se queda sin marcar | 27% | 17% | 9% | 0% |
+| Partidos analizados | 11 | 6 | 12 | 7 |
+| Forma (últimos 5) | DEVDE | EVEDD | DVVDV | DVDDV |
+| Balance | 3V 3E 5D | 2V 2E 2D | 5V 0E 7D | 2V 0E 5D |
+| Goles a favor / partido | 1,45 | 1,83 | 1,50 | 1,43 |
+| Goles en contra / partido | 1,91 | 1,83 | 1,92 | 2,14 |
+| Goles a favor 1ª parte | 0,64 | 0,83 | 0,92 | 0,86 |
+| Goles a favor 2ª parte | 0,82 | 1,00 | 0,58 | 0,57 |
+| Goles en contra 1ª parte | 1,27 | 1,00 | 0,58 | 0,86 |
+| Goles en contra 2ª parte | 0,64 | 0,83 | 1,33 | 1,29 |
+| Más de 1,5 goles | 91% | 100% | 92% | 86% |
+| Más de 2,5 goles | 55% | 67% | 75% | 86% |
+| Más de 3,5 goles | 45% | 50% | 50% | 57% |
+| Ambos marcan | 64% | 83% | 75% | 86% |
+| Portería a cero | 18% | 0% | 17% | 14% |
+| Se queda sin marcar | 27% | 17% | 8% | 0% |
 | xG a favor | 1,22 | 1,48 | 1,70 | 1,72 |
 | xG en contra | 1,98 | 1,72 | 1,65 | 2,31 |
 | Tiros / partido | 11,5 | 12,8 | 16,5 | 16,0 |
@@ -101,11 +101,11 @@ _Actualizadas: 27/10 07:50_
 | Tramo | Goles Celta de Vigo II | Recibe Celta de Vigo II | Tarjetas Celta de Vigo II | Goles Cordoba | Recibe Cordoba | Tarjetas Cordoba |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 2 | 6 | 3 | 1 |
-| 16-30' | 1 | 6 | 4 | 2 | 2 | 4 |
-| 31-45' | 3 | 4 | 4 | 2 | 2 | 7 |
+| 16-30' | 1 | 6 | 4 | 3 | 2 | 4 |
+| 31-45' | 3 | 4 | 4 | 2 | 2 | 8 |
 | 46-60' | 3 | 6 | 3 | 3 | 2 | 7 |
-| 61-75' | 0 | 0 | 5 | 1 | 5 | 6 |
-| 76-90' | 6 | 1 | 14 | 3 | 6 | 13 |
+| 61-75' | 0 | 0 | 5 | 1 | 6 | 9 |
+| 76-90' | 6 | 1 | 14 | 3 | 8 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -153,12 +153,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Cordoba
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Copa del Rey | Atlético Paso 3-1 Cordoba | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Cordoba 2-0 Eibar | casa | 16-2 | 23 (11) - 14 (4) | 5-2 |
 | 2026-10-16 | Segunda División | Leganes 0-1 Cordoba | fuera | 7-4 | 20 (3) - 9 (2) | 2-4 |
 | 2026-10-10 | Segunda División | Eldense 2-1 Cordoba | fuera | 4-6 | 12 (6) - 14 (4) | 3-3 |
 | 2026-10-05 | Segunda División | Cordoba 3-2 Tenerife | casa | 4-8 | 16 (6) - 10 (2) | 4-5 |
 | 2026-09-27 | Segunda División | Valladolid 3-1 Cordoba | fuera | 5-2 | 16 (4) - 12 (7) | 3-3 |
-| 2026-09-18 | Segunda División | Albacete 1-2 Cordoba | fuera | 3-4 | 13 (5) - 13 (3) | 6-1 |
 
 ## Jugadores de Cordoba
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -185,44 +185,44 @@ _Sin bajas comunicadas por ahora._
 | Nélson Monte | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,75 · visitante 2,15 · córners esperados 9,5._
+_Goles esperados: local 1,79 · visitante 2,13 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 47% | 46% | 47% | 2.00 | -7% |
+| 1X2: 2 | 46% | 46% | 46% | 2.00 | -8% |
 | 1X2: X | 21% | 25% | 23% | 3.70 | -16% |
-| 1X2: 1 | 32% | 30% | 31% | 3.10 | -5% |
-| Doble oportunidad: X2 | 68% | 71% | 69% | 1.36 | -5% |
+| 1X2: 1 | 33% | 30% | 31% | 3.10 | -3% |
+| Doble oportunidad: X2 | 67% | 71% | 69% | 1.36 | -6% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.28 | -1% |
-| Doble oportunidad: 1X | 53% | 54% | 53% | 1.80 | -4% |
-| Ambos marcan: No | 27% | 35% | 31% | 2.62 | -18% |
+| Doble oportunidad: 1X | 54% | 54% | 54% | 1.80 | -3% |
+| Ambos marcan: No | 27% | 35% | 31% | 2.62 | -19% |
 | Ambos marcan: Sí | 73% | 65% | 69% | 1.44 | -1% |
-| Goles más/menos: Más de 2.5 | 75% | 64% | 69% | 1.48 | +2% |
-| Goles más/menos: Más de 3.5 | 55% | 44% | 49% | 2.10 | +4% |
+| Goles más/menos: Más de 2.5 | 75% | 64% | 69% | 1.48 | +3% |
+| Goles más/menos: Más de 3.5 | 55% | 44% | 50% | 2.10 | +4% |
 | Goles más/menos: Más de 4.5 | 35% | 25% | 30% | 3.75 | +13% |
 | Goles más/menos: Menos de 2.5 | 25% | 36% | 31% | 2.60 | -20% |
-| Goles más/menos: Menos de 3.5 | 45% | 56% | 51% | 1.67 | -16% |
+| Goles más/menos: Menos de 3.5 | 45% | 56% | 50% | 1.67 | -16% |
 | Goles más/menos: Menos de 4.5 | 65% | 75% | 70% | 1.25 | -13% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 47% | 2.10 | -0% |
 | Goles 1ª parte más/menos: Más de 2.5 | 24% | 21% | 22% | 4.50 | +1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 53% | 1.67 | -12% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -9% |
 | Goles del local: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del local: Más de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
-| Goles del local: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -21% |
-| Goles del local: Menos de 1.5 | 48% | 58% | 53% | 1.62 | -15% |
+| Goles del local: Más de 1.5 | 53% | 42% | 48% | 2.20 | +5% |
+| Goles del local: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -22% |
+| Goles del local: Menos de 1.5 | 47% | 58% | 52% | 1.62 | -16% |
 | Goles del visitante: Más de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
-| Goles del visitante: Más de 2.5 | 36% | 29% | 33% | 3.25 | +6% |
-| Goles del visitante: Menos de 1.5 | 37% | 44% | 41% | 2.10 | -15% |
-| Goles del visitante: Menos de 2.5 | 64% | 71% | 67% | 1.33 | -10% |
+| Goles del visitante: Más de 2.5 | 36% | 29% | 32% | 3.25 | +5% |
+| Goles del visitante: Menos de 1.5 | 37% | 44% | 41% | 2.10 | -14% |
+| Goles del visitante: Menos de 2.5 | 64% | 71% | 68% | 1.33 | -10% |
 | Córners más/menos: Más de 9.5 | 45% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 55% | 46% | 50% | 2.00 | +1% |
-| 1X2 descanso: 2 | 38% | 37% | 37% | 2.50 | -7% |
+| 1X2 descanso: 2 | 37% | 37% | 37% | 2.50 | -8% |
 | 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -11% |
-| 1X2 descanso: 1 | 28% | 26% | 27% | 3.50 | -5% |
+| 1X2 descanso: 1 | 29% | 26% | 28% | 3.50 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

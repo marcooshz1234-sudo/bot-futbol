@@ -1,10 +1,10 @@
 # Fulham – Crystal Palace
 **Carabao Cup** · Round of 16 · 28/10/2026 20:45 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:51_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **1.83**  ·  X **3.75**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
@@ -207,16 +207,16 @@ _Sin bajas comunicadas por ahora._
 | Will Hughes | M | 4 | 128 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,26 · córners esperados 9,7._
+_Goles esperados: local 1,63 · visitante 1,27 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 24% | 26% | 4.00 | +6% |
+| 1X2: 2 | 30% | 24% | 27% | 4.00 | +7% |
 | 1X2: X | 24% | 25% | 25% | 3.75 | -7% |
 | 1X2: 1 | 46% | 51% | 49% | 1.83 | -11% |
-| Doble oportunidad: X2 | 54% | 49% | 51% | 1.91 | -2% |
+| Doble oportunidad: X2 | 54% | 49% | 52% | 1.91 | -2% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 71% | 76% | 74% | 1.22 | -10% |
+| Doble oportunidad: 1X | 70% | 76% | 73% | 1.22 | -11% |
 | Ambos marcan: No | 42% | 42% | 42% | 2.20 | -7% |
 | Ambos marcan: Sí | 58% | 58% | 58% | 1.62 | -7% |
 | Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
@@ -225,21 +225,21 @@ _Goles esperados: local 1,64 · visitante 1,26 · córners esperados 9,7._
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles más/menos: Menos de 2.5 | 45% | 44% | 44% | 2.15 | -5% |
 | Goles más/menos: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
-| Goles del local: Más de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles del local: Más de 2.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del local: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -2% |
-| Goles del local: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 0.5 | 72% | 69% | 70% | 1.36 | -5% |
+| Goles del local: Más de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Goles del local: Más de 2.5 | 22% | 28% | 25% | 3.40 | -15% |
+| Goles del local: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Goles del local: Menos de 2.5 | 78% | 72% | 75% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
 | Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles del visitante: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
 | Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -0% |
-| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | -1% |
+| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | -0% |
 | 1X2 descanso: X | 41% | 39% | 40% | 2.38 | -6% |
 | 1X2 descanso: 1 | 35% | 40% | 37% | 2.30 | -14% |
 

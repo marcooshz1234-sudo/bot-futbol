@@ -1,7 +1,7 @@
 # Bodo/Glimt – Lille
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | S. Diaoune | F | 4 | 171 | 2 | 1 | 3 | 0,8 | 3 | 0,8 | 3 | 2 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,52 · visitante 1,03 · córners esperados 9,2._
+_Goles esperados: local 2,50 · visitante 1,05 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

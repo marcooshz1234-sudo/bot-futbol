@@ -1,7 +1,7 @@
 # Juventus – Napoli
 **Serie A** · Regular Season - 10 · 01/11/2026 20:45 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -154,16 +154,16 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | A. Vergara | M | 5 | 173 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 0,97 · córners esperados 9,8._
+_Goles esperados: local 1,65 · visitante 0,96 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 22% | 22% | 4.20 | -8% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 54% | 52% | 53% | 1.80 | -4% |
-| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
-| Córners más/menos: Más de 8.5 | 56% | 56% | 56% | 1.67 | -7% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
+| 1X2: 1 | 54% | 52% | 53% | 1.80 | -5% |
+| Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.91 | -6% |
+| Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.91 | -3% |
+| Córners más/menos: Más de 8.5 | 56% | 56% | 56% | 1.67 | -6% |
 | Córners más/menos: Menos de 8.5 | 44% | 44% | 44% | 2.10 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

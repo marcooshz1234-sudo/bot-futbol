@@ -1,7 +1,7 @@
 # Groningen – Sparta Rotterdam
 **Eredivisie** · Regular Season - 11 · 01/11/2026 16:45 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -192,44 +192,44 @@ _Sin bajas comunicadas por ahora._
 | Joel Ideho | M | 5 | 104 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,55 · visitante 1,81 · córners esperados 10,3._
+_Goles esperados: local 2,52 · visitante 1,83 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 22% | 25% | 4.20 | +4% |
+| 1X2: 2 | 28% | 22% | 25% | 4.20 | +5% |
 | 1X2: X | 19% | 23% | 21% | 4.00 | -16% |
-| 1X2: 1 | 54% | 55% | 54% | 1.70 | -8% |
-| Doble oportunidad: X2 | 46% | 45% | 45% | 2.10 | -5% |
+| 1X2: 1 | 53% | 55% | 54% | 1.70 | -8% |
+| Doble oportunidad: X2 | 47% | 45% | 46% | 2.10 | -4% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -3% |
-| Doble oportunidad: 1X | 73% | 77% | 75% | 1.22 | -8% |
+| Doble oportunidad: 1X | 72% | 77% | 75% | 1.22 | -9% |
 | Ambos marcan: No | 23% | 35% | 29% | 2.62 | -24% |
 | Ambos marcan: Sí | 77% | 65% | 71% | 1.44 | +2% |
 | Goles más/menos: Más de 2.5 | 81% | 65% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 3.5 | 64% | 44% | 54% | 2.10 | +13% |
-| Goles más/menos: Más de 4.5 | 44% | 27% | 36% | 3.50 | +24% |
-| Goles más/menos: Menos de 2.5 | 19% | 35% | 27% | 2.70 | -28% |
-| Goles más/menos: Menos de 3.5 | 36% | 56% | 46% | 1.67 | -23% |
-| Goles más/menos: Menos de 4.5 | 56% | 73% | 64% | 1.28 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 46% | 51% | 2.00 | +3% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 22% | 26% | 4.33 | +11% |
+| Goles más/menos: Más de 3.5 | 63% | 44% | 54% | 2.10 | +13% |
+| Goles más/menos: Más de 4.5 | 44% | 27% | 35% | 3.50 | +24% |
+| Goles más/menos: Menos de 2.5 | 19% | 35% | 27% | 2.70 | -27% |
+| Goles más/menos: Menos de 3.5 | 37% | 56% | 46% | 1.67 | -23% |
+| Goles más/menos: Menos de 4.5 | 56% | 73% | 65% | 1.28 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 56% | 46% | 51% | 2.00 | +2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 22% | 25% | 4.33 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 54% | 49% | 1.73 | -16% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 78% | 74% | 1.20 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 78% | 75% | 1.20 | -10% |
 | Goles del local: Más de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del local: Más de 2.5 | 47% | 38% | 42% | 2.50 | +6% |
-| Goles del local: Menos de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles del local: Menos de 2.5 | 53% | 62% | 58% | 1.50 | -13% |
-| Goles del visitante: Más de 0.5 | 84% | 73% | 78% | 1.28 | +0% |
+| Goles del local: Más de 2.5 | 46% | 38% | 42% | 2.50 | +5% |
+| Goles del local: Menos de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles del local: Menos de 2.5 | 54% | 62% | 58% | 1.50 | -13% |
+| Goles del visitante: Más de 0.5 | 84% | 73% | 79% | 1.28 | +1% |
 | Goles del visitante: Más de 1.5 | 54% | 39% | 47% | 2.38 | +11% |
-| Goles del visitante: Menos de 0.5 | 16% | 27% | 22% | 3.50 | -25% |
-| Goles del visitante: Menos de 1.5 | 46% | 61% | 53% | 1.53 | -18% |
+| Goles del visitante: Menos de 0.5 | 16% | 27% | 21% | 3.50 | -25% |
+| Goles del visitante: Menos de 1.5 | 46% | 61% | 53% | 1.53 | -19% |
 | Córners más/menos: Más de 10.5 | 43% | 54% | 48% | 1.73 | -16% |
 | Córners más/menos: Menos de 10.5 | 57% | 46% | 52% | 2.00 | +3% |
-| 1X2 descanso: 2 | 26% | 22% | 24% | 4.33 | +3% |
+| 1X2 descanso: 2 | 26% | 22% | 24% | 4.33 | +4% |
 | 1X2 descanso: X | 31% | 36% | 34% | 2.62 | -12% |
-| 1X2 descanso: 1 | 43% | 43% | 43% | 2.20 | -6% |
+| 1X2 descanso: 1 | 42% | 43% | 42% | 2.20 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

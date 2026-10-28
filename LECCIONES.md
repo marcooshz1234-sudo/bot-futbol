@@ -1,5 +1,31 @@
 # Lecciones del bot
 
+## 2026-10-27
+
+```
+🧠 LECCIONES DEL 27/10
+Picks del bot: 9 ✅ · 1 ❌
+
+❌ Lo que falló en lo publicado:
+• Almeria gana alguna de las dos partes → marcador 1-2
+• Cagliari ve más de 1,5 tarjetas → marcador 4-2
+• Más de 1,5 goles en la 1ª parte del Hamburger SV–Eintracht Frankfurt → marcador 1-3
+• Más de 2,5 tarjetas en AS Roma–Cagliari → marcador 4-2
+• Más de 2,5 tarjetas en Torino–Como → marcador 1-3
+• Más de 8,5 córners en Sassuolo–Lazio → marcador 2-6
+• Rayo Vallecano gana alguna de las dos partes → marcador 2-3
+
+❌ Fallos de los picks del bot y por qué:
+• Paul Mendy comete 2+ faltas — jugó 27′ e hizo 1 (necesitaba 2)
+
+📐 Modelo: 62/100 aciertos reales (62%) frente al 73% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.45 (antes 0.44)
+Ajustes nuevos:
+⬇️ castigo cuota >1,60: 8/17 (-5 pts)
+⬆️ premio tipo resultado: 17/22 (+3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-26
 
 ```

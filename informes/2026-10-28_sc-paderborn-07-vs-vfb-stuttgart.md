@@ -1,20 +1,21 @@
 # SC Paderborn 07 – VfB Stuttgart
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:51_
+_Actualizadas: 28/10 02:02_
 
-- **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.53**
+- **1X2:** 1 **6.00**  ·  X **4.20**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -31,7 +32,7 @@ _Actualizadas: 27/10 13:51_
     - 3,5: más **4.50** · menos **1.18**
     - 4,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.88** · menos **1.92**
+    - 10,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.60**  ·  2 **1.95**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -43,7 +44,7 @@ _Actualizadas: 27/10 13:51_
 - **To Win Either Half:** 1 **2.75**  ·  2 **1.28**
 - **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.10**
 - **Win Both Halves:** 1 **21.00**  ·  2 **3.75**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.88**  ·  Home/No **13.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.75**  ·  Home/No **13.00**  ·  Draw/No **19.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
@@ -183,41 +184,41 @@ _Sin bajas comunicadas por ahora._
 | Yanik Spalt | D | 2 | 56 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,48 · córners esperados 10,2._
+_Goles esperados: local 1,29 · visitante 1,49 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 61% | 51% | 1.53 | -22% |
-| 1X2: X | 25% | 22% | 24% | 4.20 | -0% |
-| 1X2: 1 | 34% | 16% | 25% | 5.75 | +44% |
-| Doble oportunidad: X2 | 66% | 83% | 75% | 1.14 | -15% |
+| 1X2: 2 | 42% | 62% | 52% | 1.53 | -21% |
+| 1X2: X | 25% | 22% | 24% | 4.20 | +0% |
+| 1X2: 1 | 33% | 16% | 24% | 6.00 | +46% |
+| Doble oportunidad: X2 | 67% | 83% | 75% | 1.14 | -14% |
 | Doble oportunidad: 12 | 75% | 77% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X ✅ | 59% | 40% | 49% | 2.38 | +18% |
-| Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
-| Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -8% |
+| Doble oportunidad: 1X ✅ | 58% | 40% | 49% | 2.38 | +16% |
+| Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
+| Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 2.5 | 53% | 64% | 58% | 1.48 | -14% |
-| Goles más/menos: Más de 3.5 | 31% | 44% | 38% | 2.10 | -21% |
-| Goles más/menos: Más de 4.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles más/menos: Menos de 2.5 | 47% | 36% | 42% | 2.60 | +8% |
-| Goles más/menos: Menos de 3.5 | 69% | 56% | 62% | 1.67 | +4% |
-| Goles más/menos: Menos de 4.5 | 85% | 75% | 80% | 1.25 | -0% |
+| Goles más/menos: Más de 3.5 | 30% | 44% | 37% | 2.10 | -21% |
+| Goles más/menos: Más de 4.5 | 15% | 27% | 21% | 3.50 | -27% |
+| Goles más/menos: Menos de 2.5 | 47% | 36% | 42% | 2.60 | +9% |
+| Goles más/menos: Menos de 3.5 | 70% | 56% | 63% | 1.67 | +5% |
+| Goles más/menos: Menos de 4.5 | 85% | 73% | 79% | 1.28 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 58% | 62% | 1.62 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
 | Goles del local: Más de 0.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del local: Más de 1.5 | 38% | 29% | 34% | 3.25 | +9% |
-| Goles del local: Menos de 0.5 | 27% | 35% | 31% | 2.62 | -19% |
-| Goles del local: Menos de 1.5 | 62% | 71% | 66% | 1.33 | -12% |
-| Goles del visitante: Más de 1.5 | 43% | 65% | 54% | 1.44 | -22% |
+| Goles del local: Más de 1.5 | 37% | 29% | 33% | 3.25 | +7% |
+| Goles del local: Menos de 0.5 | 27% | 35% | 31% | 2.62 | -18% |
+| Goles del local: Menos de 1.5 | 63% | 71% | 67% | 1.33 | -11% |
+| Goles del visitante: Más de 1.5 | 44% | 65% | 54% | 1.44 | -22% |
 | Goles del visitante: Más de 2.5 | 19% | 39% | 29% | 2.38 | -31% |
 | Goles del visitante: Más de 3.5 | 6% | 21% | 14% | 4.50 | -39% |
-| Goles del visitante: Menos de 1.5 ✅ | 57% | 35% | 46% | 2.62 | +21% |
+| Goles del visitante: Menos de 1.5 ✅ | 56% | 35% | 46% | 2.62 | +20% |
 | Goles del visitante: Menos de 2.5 | 81% | 61% | 71% | 1.53 | +9% |
 | Goles del visitante: Menos de 3.5 | 94% | 79% | 86% | 1.18 | +2% |
-| Córners más/menos: Más de 10.5 | 42% | 51% | 46% | 1.88 | -13% |
-| Córners más/menos: Menos de 10.5 | 58% | 49% | 54% | 1.92 | +3% |
-| 1X2 descanso: 2 | 31% | 48% | 39% | 1.95 | -23% |
-| 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +0% |
+| Córners más/menos: Más de 10.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Córners más/menos: Menos de 10.5 | 57% | 50% | 54% | 1.83 | -2% |
+| 1X2 descanso: 2 | 32% | 48% | 40% | 1.95 | -23% |
+| 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

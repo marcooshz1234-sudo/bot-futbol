@@ -1,10 +1,47 @@
 # Cieza – Granada CF
 **Copa del Rey** · Round of 128 · 28/10/2026 20:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 02:03_
+
+- **1X2:** 1 **5.25**  ·  X **4.33**  ·  2 **1.44**
+- **Doble oportunidad:** 1X **2.50**  ·  12 **1.18**  ·  X2 **1.14**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **6.50**  ·  X **2.50**  ·  2 **1.95**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **3.25**  ·  2 **1.25**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **2.20**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.50**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **3.20**  ·  Home/No **11.00**  ·  Draw/No **15.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Cieza (total) | Cieza en casa | Granada CF (total) | Granada CF fuera |

@@ -1,7 +1,7 @@
 # QPR – Burnley
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Hannibal Mejbri | M | 7 | 358 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,1 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,01 · visitante 0,90 · córners esperados 9,3._
+_Goles esperados: local 2,00 · visitante 0,90 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

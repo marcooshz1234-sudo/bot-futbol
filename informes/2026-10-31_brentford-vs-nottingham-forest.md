@@ -1,13 +1,13 @@
 # Brentford – Nottingham Forest
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:04_
 
-- **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.60**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
+- **1X2:** 1 **1.95**  ·  X **3.50**  ·  2 **3.75**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -22,12 +22,12 @@ _Actualizadas: 26/10 19:53_
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.62** · menos **1.44**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.30**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
@@ -37,17 +37,17 @@ _Actualizadas: 26/10 19:53_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.53**  ·  2 **2.20**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.20**
 - **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **4.33**
 - **Win Both Halves:** 1 **6.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **13.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
 - **Home Player Shots On Target Total:** Igor Thiago - 1 **1.22**  ·  Callum Wilson - 1 **1.40**  ·  Kevin Schade - 1 **1.44**  ·  Jaidon Anthony - 1 **1.44**  ·  Dango Ouattara - 1 **1.62**  ·  Fabio Carvalho - 1 **1.62**  ·  Keane Lewis-Potter - 1 **2.25**  ·  Vitaly Janelt - 1 **2.75**  ·  Mamadou Sangare - 1 **2.50**  ·  Mikkel Damsgaard - 1 **2.10**  ·  Mathias Jensen - 1 **3.25**  ·  Yegor Yarmolyuk - 1 **3.25**  ·  El Hadji Diouf - 1 **3.25**  ·  Jannik Schuster - 1 **3.25**  ·  Rico Henry - 1 **3.25**  ·  Michael Kayode - 1 **4.33**  ·  Kristoffer Ajer - 1 **4.00**  ·  Nathan Collins - 1 **3.25**  ·  Aaron Hickey - 1 **4.33**  ·  Igor Thiago - 2 **2.00**  ·  Callum Wilson - 2 **3.00**  ·  Kevin Schade - 2 **3.25**  ·  Jaidon Anthony - 2 **3.25**  ·  Dango Ouattara - 2 **4.00**  ·  Fabio Carvalho - 2 **4.00**  ·  Keane Lewis-Potter - 2 **9.00**  ·  Vitaly Janelt - 2 **13.00**  ·  Mamadou Sangare - 2 **10.00**  ·  Mikkel Damsgaard - 2 **7.00**  ·  Mathias Jensen - 2 **15.00**  ·  Yegor Yarmolyuk - 2 **15.00**  ·  El Hadji Diouf - 2 **17.00**  ·  Jannik Schuster - 2 **15.00**  ·  Rico Henry - 2 **17.00**  ·  Michael Kayode - 2 **21.00**  ·  Kristoffer Ajer - 2 **21.00**  ·  Nathan Collins - 2 **17.00**  ·  Aaron Hickey - 2 **21.00**  ·  Igor Thiago - 3 **4.33**  ·  Callum Wilson - 3 **8.00**  ·  Kevin Schade - 3 **9.00**  ·  Jaidon Anthony - 3 **9.00**  ·  Dango Ouattara - 3 **13.00**  ·  Fabio Carvalho - 3 **13.00**  ·  Mikkel Damsgaard - 3 **21.00**  ·  Igor Thiago - 4 **11.00**  ·  Callum Wilson - 4 **21.00**  ·  Kevin Schade - 4 **21.00**  ·  Jaidon Anthony - 4 **21.00**  ·  Igor Thiago - 5 **21.00**
-- **Away Player Shots On Target Total:** Ousmane Diomande **26.00**  ·  Daniel Munoz **17.00**  ·  Jannik Schuster **11.00**  ·  El Hadji Diouf **51.00**  ·  Yegor Yarmolyuk **67.00**  ·  Arnaud Kalimuendo **17.00**  ·  Jaidon Anthony **23.00**  ·  Mamadou Sangare **21.00**  ·  Nicolas Dominguez **41.00**  ·  Ibrahim Sangare **34.00**  ·  Luca Netz **126.00**  ·  Xaver Schlager **101.00**  ·  Callum Hudson-Odoi **34.00**  ·  Chris Wood **8.00**  ·  Morgan Gibbs-White **17.00**  ·  Neco Williams **81.00**  ·  Nikola Milenkovic **13.00**  ·  Ola Aina **41.00**  ·  Ryan Yates **23.00**  ·  Dango Ouattara **13.00**  ·  Fabio Carvalho **41.00**  ·  Keane Lewis-Potter **13.00**  ·  Kevin Schade **15.00**  ·  Kristoffer Ajer **41.00**  ·  Mathias Jensen **67.00**  ·  Mikkel Damsgaard **29.00**  ·  Nathan Collins **13.00**  ·  Sepp van den Berg **17.00**  ·  Vitaly Janelt **34.00**  ·  Liam Delap **6.50**  ·  Igor Jesus **9.50**  ·  Michael Kayode **81.00**  ·  Dan Ndoye **34.00**  ·  Igor Thiago **6.50**  ·  Callum Wilson **11.00**  ·  James McAtee **51.00**  ·  Rico Henry **26.00**  ·  Aaron Hickey **101.00**  ·  Jair Cunha **29.00**  ·  Murillo dos Santos **19.00**
+- **Away Player Shots On Target Total:** Ousmane Diomande **26.00**  ·  Daniel Munoz **17.00**  ·  Jannik Schuster **11.00**  ·  El Hadji Diouf **51.00**  ·  Yegor Yarmolyuk **67.00**  ·  Arnaud Kalimuendo **17.00**  ·  Jaidon Anthony **23.00**  ·  Mamadou Sangare **21.00**  ·  Nicolas Dominguez **41.00**  ·  Ibrahim Sangare **34.00**  ·  Luca Netz **126.00**  ·  Xaver Schlager **101.00**  ·  Callum Hudson-Odoi **34.00**  ·  Chris Wood **8.00**  ·  Morgan Gibbs-White **17.00**  ·  Neco Williams **81.00**  ·  Nikola Milenkovic **13.00**  ·  Ola Aina **41.00**  ·  Ryan Yates **23.00**  ·  Dango Ouattara **13.00**  ·  Fabio Carvalho **41.00**  ·  Keane Lewis-Potter **13.00**  ·  Kevin Schade **15.00**  ·  Kristoffer Ajer **41.00**  ·  Mathias Jensen **67.00**  ·  Mikkel Damsgaard **29.00**  ·  Nathan Collins **13.00**  ·  Sepp van den Berg **15.00**  ·  Vitaly Janelt **34.00**  ·  Liam Delap **6.50**  ·  Igor Jesus **9.50**  ·  Michael Kayode **81.00**  ·  Dan Ndoye **34.00**  ·  Igor Thiago **6.50**  ·  Callum Wilson **11.00**  ·  James McAtee **51.00**  ·  Rico Henry **26.00**  ·  Aaron Hickey **101.00**  ·  Jair Cunha **29.00**  ·  Murillo dos Santos **19.00**
 - **Home Player Shots:** Igor Thiago - 1 **1.01**  ·  Callum Wilson - 1 **1.04**  ·  Kevin Schade - 1 **1.03**  ·  Jaidon Anthony - 1 **1.03**  ·  Dango Ouattara - 1 **1.08**  ·  Fabio Carvalho - 1 **1.08**  ·  Keane Lewis-Potter - 1 **1.18**  ·  Vitaly Janelt - 1 **1.40**  ·  Mamadou Sangare - 1 **1.25**  ·  Mikkel Damsgaard - 1 **1.22**  ·  Mathias Jensen - 1 **1.36**  ·  Yegor Yarmolyuk - 1 **1.44**  ·  El Hadji Diouf - 1 **1.57**  ·  Jannik Schuster - 1 **1.53**  ·  Rico Henry - 1 **1.57**  ·  Michael Kayode - 1 **2.00**  ·  Kristoffer Ajer - 1 **1.83**  ·  Nathan Collins - 1 **1.50**  ·  Aaron Hickey - 1 **2.00**  ·  Igor Thiago - 2 **1.10**  ·  Callum Wilson - 2 **1.22**  ·  Kevin Schade - 2 **1.18**  ·  Jaidon Anthony - 2 **1.20**  ·  Dango Ouattara - 2 **1.40**  ·  Fabio Carvalho - 2 **1.40**  ·  Keane Lewis-Potter - 2 **1.80**  ·  Vitaly Janelt - 2 **2.75**  ·  Mamadou Sangare - 2 **2.00**  ·  Mikkel Damsgaard - 2 **1.91**  ·  Mathias Jensen - 2 **2.62**  ·  Yegor Yarmolyuk - 2 **3.00**  ·  El Hadji Diouf - 2 **3.50**  ·  Jannik Schuster - 2 **3.40**  ·  Rico Henry - 2 **3.50**  ·  Michael Kayode - 2 **5.50**  ·  Kristoffer Ajer - 2 **5.00**  ·  Nathan Collins - 2 **3.25**  ·  Aaron Hickey - 2 **5.50**  ·  Igor Thiago - 3 **1.33**  ·  Callum Wilson - 3 **1.67**  ·  Kevin Schade - 3 **1.57**  ·  Jaidon Anthony - 3 **1.62**  ·  Dango Ouattara - 3 **2.20**  ·  Fabio Carvalho - 3 **2.20**  ·  Keane Lewis-Potter - 3 **3.40**  ·  Vitaly Janelt - 3 **6.50**  ·  Mamadou Sangare - 3 **4.00**  ·  Mikkel Damsgaard - 3 **3.75**  ·  Mathias Jensen - 3 **6.00**  ·  Yegor Yarmolyuk - 3 **7.00**  ·  El Hadji Diouf - 3 **10.00**  ·  Jannik Schuster - 3 **9.00**  ·  Rico Henry - 3 **10.00**  ·  Michael Kayode - 3 **19.00**  ·  Kristoffer Ajer - 3 **15.00**  ·  Nathan Collins - 3 **8.00**  ·  Aaron Hickey - 3 **19.00**  ·  Igor Thiago - 4 **1.83**  ·  Callum Wilson - 4 **2.62**  ·  Kevin Schade - 4 **2.38**  ·  Jaidon Anthony - 4 **2.38**  ·  Dango Ouattara - 4 **3.75**  ·  Fabio Carvalho - 4 **3.75**  ·  Keane Lewis-Potter - 4 **7.00**  ·  Vitaly Janelt - 4 **17.00**  ·  Mamadou Sangare - 4 **10.00**  ·  Mikkel Damsgaard - 4 **8.00**  ·  Mathias Jensen - 4 **15.00**  ·  Igor Thiago - 5 **2.75**  ·  Callum Wilson - 5 **4.50**  ·  Kevin Schade - 5 **4.00**  ·  Jaidon Anthony - 5 **4.00**  ·  Dango Ouattara - 5 **8.00**  ·  Fabio Carvalho - 5 **8.00**  ·  Keane Lewis-Potter - 5 **15.00**  ·  Igor Thiago - 6 **4.50**  ·  Callum Wilson - 6 **9.00**  ·  Kevin Schade - 6 **7.00**  ·  Jaidon Anthony - 6 **8.00**  ·  Dango Ouattara - 6 **17.00**  ·  Fabio Carvalho - 6 **17.00**  ·  Igor Thiago - 7 **8.00**  ·  Callum Wilson - 7 **17.00**  ·  Kevin Schade - 7 **15.00**  ·  Jaidon Anthony - 7 **15.00**  ·  Igor Thiago - 8 **15.00**  ·  Yegor Yarmolyuk - 4 **19.00**  ·  Rico Henry - 4 **21.00**  ·  El Hadji Diouf - 4 **21.00**  ·  Mikkel Damsgaard - 5 **19.00**  ·  Mamadou Sangare - 5 **21.00**  ·  Jannik Schuster - 4 **21.00**  ·  Nathan Collins - 4 **21.00**  ·  Jaidon Anthony - 8 **21.00**  ·  Kevin Schade - 8 **21.00**  ·  Igor Thiago - 9 **21.00**
-- **Away Player Shots:** Morgan Gibbs-White - 1 **1.04**  ·  Igor Jesus - 1 **1.02**  ·  Chris Wood - 1 **1.06**  ·  Arnaud Kalimuendo - 1 **1.07**  ·  Dan Ndoye - 1 **1.18**  ·  Callum Hudson-Odoi - 1 **1.14**  ·  James McAtee - 1 **1.33**  ·  Nicolas Dominguez - 1 **1.40**  ·  Neco Williams - 1 **1.50**  ·  Ryan Yates - 1 **1.57**  ·  Ibrahim Sangare - 1 **1.80**  ·  Jair Cunha - 1 **1.80**  ·  Xaver Schlager - 1 **1.50**  ·  Murillo dos Santos - 1 **1.83**  ·  Nikola Milenkovic - 1 **1.67**  ·  Ousmane Diomande - 1 **2.00**  ·  Ola Aina - 1 **2.20**  ·  Luca Netz - 1 **2.38**  ·  Morgan Gibbs-White - 2 **1.25**  ·  Igor Jesus - 2 **1.12**  ·  Chris Wood - 2 **1.33**  ·  Arnaud Kalimuendo - 2 **1.36**  ·  Dan Ndoye - 2 **1.80**  ·  Callum Hudson-Odoi - 2 **1.62**  ·  James McAtee - 2 **2.38**  ·  Nicolas Dominguez - 2 **2.62**  ·  Neco Williams - 2 **3.25**  ·  Ryan Yates - 2 **3.50**  ·  Ibrahim Sangare - 2 **4.33**  ·  Jair Cunha - 2 **4.33**  ·  Xaver Schlager - 2 **3.25**  ·  Murillo dos Santos - 2 **5.00**  ·  Nikola Milenkovic - 2 **4.00**  ·  Ousmane Diomande - 2 **6.00**  ·  Ola Aina - 2 **7.00**  ·  Luca Netz - 2 **8.00**  ·  Morgan Gibbs-White - 3 **1.73**  ·  Igor Jesus - 3 **1.40**  ·  Chris Wood - 3 **1.91**  ·  Arnaud Kalimuendo - 3 **2.00**  ·  Dan Ndoye - 3 **3.40**  ·  Callum Hudson-Odoi - 3 **2.75**  ·  James McAtee - 3 **5.50**  ·  Nicolas Dominguez - 3 **6.00**  ·  Neco Williams - 3 **8.00**  ·  Ryan Yates - 3 **10.00**  ·  Ibrahim Sangare - 3 **13.00**  ·  Jair Cunha - 3 **13.00**  ·  Xaver Schlager - 3 **8.00**  ·  Murillo dos Santos - 3 **15.00**  ·  Nikola Milenkovic - 3 **11.00**  ·  Ousmane Diomande - 3 **19.00**  ·  Ola Aina - 3 **21.00**  ·  Luca Netz - 3 **21.00**  ·  Morgan Gibbs-White - 4 **2.75**  ·  Igor Jesus - 4 **2.00**  ·  Chris Wood - 4 **3.40**  ·  Arnaud Kalimuendo - 4 **3.50**  ·  Dan Ndoye - 4 **7.00**  ·  Callum Hudson-Odoi - 4 **5.50**  ·  James McAtee - 4 **13.00**  ·  Nicolas Dominguez - 4 **15.00**  ·  Neco Williams - 4 **19.00**  ·  Ryan Yates - 4 **21.00**  ·  Morgan Gibbs-White - 5 **5.00**  ·  Igor Jesus - 5 **3.25**  ·  Chris Wood - 5 **6.00**  ·  Arnaud Kalimuendo - 5 **7.00**  ·  Dan Ndoye - 5 **15.00**  ·  Morgan Gibbs-White - 6 **10.00**  ·  Igor Jesus - 6 **5.50**  ·  Chris Wood - 6 **13.00**  ·  Daniel Munoz - 1 **1.44**  ·  Daniel Munoz - 2 **3.00**  ·  Daniel Munoz - 3 **7.00**  ·  Daniel Munoz - 4 **19.00**  ·  Xaver Schlager - 4 **21.00**  ·  Liam Delap - 3 **2.00**  ·  Liam Delap - 2 **1.36**  ·  Liam Delap - 4 **3.50**  ·  Liam Delap - 5 **7.00**  ·  Callum Hudson-Odoi - 5 **13.00**  ·  Arnaud Kalimuendo - 6 **15.00**  ·  Liam Delap - 6 **15.00**  ·  Callum Hudson-Odoi - 6 **21.00**  ·  Igor Jesus - 7 **10.00**  ·  Chris Wood - 7 **21.00**  ·  Morgan Gibbs-White - 7 **19.00**  ·  Arnaud Kalimuendo - 7 **21.00**  ·  Liam Delap - 7 **21.00**  ·  Igor Jesus - 8 **19.00**  ·  Liam Delap - 1 **1.07**
-- **Anytime Goal Scorer:** Ousmane Diomande **15.00**  ·  Daniel Munoz **7.00**  ·  Jannik Schuster **7.50**  ·  El Hadji Diouf **8.00**  ·  Yegor Yarmolyuk **7.50**  ·  Arnaud Kalimuendo **3.40**  ·  Jaidon Anthony **3.60**  ·  Mamadou Sangare **6.00**  ·  Nicolas Dominguez **7.00**  ·  Ibrahim Sangare **10.00**  ·  Luca Netz **15.00**  ·  Xaver Schlager **12.00**  ·  Callum Hudson-Odoi **4.75**  ·  Chris Wood **3.25**  ·  Morgan Gibbs-White **3.40**  ·  Neco Williams **10.00**  ·  Nikola Milenkovic **10.00**  ·  Ola Aina **15.00**  ·  Ryan Yates **10.00**  ·  Dango Ouattara **3.60**  ·  Fabio Carvalho **3.60**  ·  Keane Lewis-Potter **5.50**  ·  Kevin Schade **2.88**  ·  Kristoffer Ajer **12.00**  ·  Mathias Jensen **7.50**  ·  Mikkel Damsgaard **5.50**  ·  Nathan Collins **8.00**  ·  Sepp van den Berg **10.00**  ·  Vitaly Janelt **7.50**  ·  Liam Delap **3.40**  ·  Igor Jesus **3.40**  ·  Michael Kayode **12.00**  ·  Dan Ndoye **4.75**  ·  Igor Thiago **2.05**  ·  Callum Wilson **2.75**  ·  James McAtee **6.00**  ·  Rico Henry **8.00**  ·  Aaron Hickey **12.00**  ·  Jair Cunha **12.00**  ·  Murillo dos Santos **12.00**
-- **Player to Score or Assist:** Ousmane Diomande **9.00**  ·  Daniel Munoz **3.75**  ·  Jannik Schuster **5.50**  ·  El Hadji Diouf **3.75**  ·  Yegor Yarmolyuk **4.00**  ·  Arnaud Kalimuendo **2.60**  ·  Jaidon Anthony **2.50**  ·  Mamadou Sangare **3.75**  ·  Nicolas Dominguez **4.33**  ·  Ibrahim Sangare **5.50**  ·  Luca Netz **5.00**  ·  Xaver Schlager **6.00**  ·  Callum Hudson-Odoi **3.00**  ·  Chris Wood **2.62**  ·  Morgan Gibbs-White **2.40**  ·  Neco Williams **5.00**  ·  Nikola Milenkovic **7.00**  ·  Ola Aina **7.50**  ·  Ryan Yates **6.00**  ·  Dango Ouattara **2.40**  ·  Fabio Carvalho **2.40**  ·  Keane Lewis-Potter **3.20**  ·  Kevin Schade **2.25**  ·  Kristoffer Ajer **6.50**  ·  Mathias Jensen **4.00**  ·  Mikkel Damsgaard **2.62**  ·  Nathan Collins **6.00**  ·  Sepp van den Berg **6.50**  ·  Vitaly Janelt **4.33**  ·  Liam Delap **2.75**  ·  Igor Jesus **2.75**  ·  Michael Kayode **5.50**  ·  Dan Ndoye **2.88**  ·  Igor Thiago **1.67**  ·  Callum Wilson **2.25**  ·  James McAtee **3.50**  ·  Rico Henry **4.50**  ·  Aaron Hickey **8.00**  ·  Jair Cunha **8.50**  ·  Murillo dos Santos **7.50**
+- **Away Player Shots:** Morgan Gibbs-White - 1 **1.04**  ·  Igor Jesus - 1 **1.02**  ·  Chris Wood - 1 **1.06**  ·  Arnaud Kalimuendo - 1 **1.07**  ·  Dan Ndoye - 1 **1.10**  ·  Callum Hudson-Odoi - 1 **1.14**  ·  James McAtee - 1 **1.33**  ·  Nicolas Dominguez - 1 **1.40**  ·  Neco Williams - 1 **1.50**  ·  Ryan Yates - 1 **1.57**  ·  Ibrahim Sangare - 1 **1.80**  ·  Jair Cunha - 1 **1.80**  ·  Xaver Schlager - 1 **1.50**  ·  Murillo dos Santos - 1 **1.62**  ·  Nikola Milenkovic - 1 **1.67**  ·  Ousmane Diomande - 1 **2.00**  ·  Ola Aina - 1 **2.20**  ·  Luca Netz - 1 **2.38**  ·  Morgan Gibbs-White - 2 **1.25**  ·  Igor Jesus - 2 **1.12**  ·  Chris Wood - 2 **1.33**  ·  Arnaud Kalimuendo - 2 **1.36**  ·  Dan Ndoye - 2 **1.44**  ·  Callum Hudson-Odoi - 2 **1.62**  ·  James McAtee - 2 **2.38**  ·  Nicolas Dominguez - 2 **2.62**  ·  Neco Williams - 2 **3.25**  ·  Ryan Yates - 2 **3.50**  ·  Ibrahim Sangare - 2 **4.33**  ·  Jair Cunha - 2 **4.33**  ·  Xaver Schlager - 2 **3.25**  ·  Murillo dos Santos - 2 **3.75**  ·  Nikola Milenkovic - 2 **4.00**  ·  Ousmane Diomande - 2 **6.00**  ·  Ola Aina - 2 **7.00**  ·  Luca Netz - 2 **8.00**  ·  Morgan Gibbs-White - 3 **1.73**  ·  Igor Jesus - 3 **1.40**  ·  Chris Wood - 3 **1.91**  ·  Arnaud Kalimuendo - 3 **2.00**  ·  Dan Ndoye - 3 **2.25**  ·  Callum Hudson-Odoi - 3 **2.75**  ·  James McAtee - 3 **5.50**  ·  Nicolas Dominguez - 3 **6.00**  ·  Neco Williams - 3 **8.00**  ·  Ryan Yates - 3 **10.00**  ·  Ibrahim Sangare - 3 **13.00**  ·  Jair Cunha - 3 **13.00**  ·  Xaver Schlager - 3 **8.00**  ·  Murillo dos Santos - 3 **10.00**  ·  Nikola Milenkovic - 3 **11.00**  ·  Ousmane Diomande - 3 **19.00**  ·  Ola Aina - 3 **21.00**  ·  Luca Netz - 3 **21.00**  ·  Morgan Gibbs-White - 4 **2.75**  ·  Igor Jesus - 4 **2.00**  ·  Chris Wood - 4 **3.40**  ·  Arnaud Kalimuendo - 4 **3.50**  ·  Dan Ndoye - 4 **4.00**  ·  Callum Hudson-Odoi - 4 **5.50**  ·  James McAtee - 4 **13.00**  ·  Nicolas Dominguez - 4 **15.00**  ·  Neco Williams - 4 **19.00**  ·  Ryan Yates - 4 **21.00**  ·  Morgan Gibbs-White - 5 **5.00**  ·  Igor Jesus - 5 **3.25**  ·  Chris Wood - 5 **6.00**  ·  Arnaud Kalimuendo - 5 **7.00**  ·  Dan Ndoye - 5 **9.00**  ·  Morgan Gibbs-White - 6 **10.00**  ·  Igor Jesus - 6 **5.50**  ·  Chris Wood - 6 **13.00**  ·  Daniel Munoz - 1 **1.44**  ·  Daniel Munoz - 2 **3.00**  ·  Daniel Munoz - 3 **7.00**  ·  Daniel Munoz - 4 **19.00**  ·  Xaver Schlager - 4 **21.00**  ·  Murillo dos Santos - 4 **21.00**  ·  Liam Delap - 3 **2.00**  ·  Liam Delap - 2 **1.36**  ·  Liam Delap - 4 **3.50**  ·  Liam Delap - 5 **7.00**  ·  Callum Hudson-Odoi - 5 **13.00**  ·  Arnaud Kalimuendo - 6 **15.00**  ·  Liam Delap - 6 **15.00**  ·  Callum Hudson-Odoi - 6 **21.00**  ·  Igor Jesus - 7 **10.00**  ·  Chris Wood - 7 **21.00**  ·  Morgan Gibbs-White - 7 **19.00**  ·  Arnaud Kalimuendo - 7 **21.00**  ·  Liam Delap - 7 **21.00**  ·  Igor Jesus - 8 **19.00**  ·  Liam Delap - 1 **1.07**  ·  Dan Ndoye - 6 **17.00**
+- **Anytime Goal Scorer:** Ousmane Diomande **15.00**  ·  Daniel Munoz **7.00**  ·  Jannik Schuster **7.50**  ·  El Hadji Diouf **8.00**  ·  Yegor Yarmolyuk **7.50**  ·  Arnaud Kalimuendo **3.40**  ·  Jaidon Anthony **3.60**  ·  Mamadou Sangare **6.00**  ·  Nicolas Dominguez **7.00**  ·  Ibrahim Sangare **10.00**  ·  Luca Netz **15.00**  ·  Xaver Schlager **12.00**  ·  Callum Hudson-Odoi **4.75**  ·  Chris Wood **3.25**  ·  Morgan Gibbs-White **3.40**  ·  Neco Williams **10.00**  ·  Nikola Milenkovic **10.00**  ·  Ola Aina **15.00**  ·  Ryan Yates **10.00**  ·  Dango Ouattara **3.60**  ·  Fabio Carvalho **3.60**  ·  Keane Lewis-Potter **5.50**  ·  Kevin Schade **2.88**  ·  Kristoffer Ajer **12.00**  ·  Mathias Jensen **7.50**  ·  Mikkel Damsgaard **5.50**  ·  Nathan Collins **8.00**  ·  Sepp van den Berg **9.00**  ·  Vitaly Janelt **7.50**  ·  Liam Delap **3.40**  ·  Igor Jesus **3.40**  ·  Michael Kayode **12.00**  ·  Dan Ndoye **4.75**  ·  Igor Thiago **2.05**  ·  Callum Wilson **2.75**  ·  James McAtee **6.00**  ·  Rico Henry **8.00**  ·  Aaron Hickey **12.00**  ·  Jair Cunha **12.00**  ·  Murillo dos Santos **12.00**
+- **Player to Score or Assist:** Ousmane Diomande **9.00**  ·  Daniel Munoz **3.75**  ·  Jannik Schuster **5.50**  ·  El Hadji Diouf **3.75**  ·  Yegor Yarmolyuk **4.00**  ·  Arnaud Kalimuendo **2.60**  ·  Jaidon Anthony **2.50**  ·  Mamadou Sangare **3.60**  ·  Nicolas Dominguez **4.33**  ·  Ibrahim Sangare **5.50**  ·  Luca Netz **5.00**  ·  Xaver Schlager **6.00**  ·  Callum Hudson-Odoi **3.00**  ·  Chris Wood **2.62**  ·  Morgan Gibbs-White **2.40**  ·  Neco Williams **5.00**  ·  Nikola Milenkovic **7.00**  ·  Ola Aina **7.50**  ·  Ryan Yates **6.00**  ·  Dango Ouattara **2.40**  ·  Fabio Carvalho **2.38**  ·  Keane Lewis-Potter **3.20**  ·  Kevin Schade **2.25**  ·  Kristoffer Ajer **6.50**  ·  Mathias Jensen **4.00**  ·  Mikkel Damsgaard **2.62**  ·  Nathan Collins **6.00**  ·  Sepp van den Berg **6.00**  ·  Vitaly Janelt **4.33**  ·  Liam Delap **2.75**  ·  Igor Jesus **2.75**  ·  Michael Kayode **5.50**  ·  Dan Ndoye **2.88**  ·  Igor Thiago **1.67**  ·  Callum Wilson **2.20**  ·  James McAtee **3.50**  ·  Rico Henry **4.50**  ·  Aaron Hickey **8.00**  ·  Jair Cunha **8.50**  ·  Murillo dos Santos **7.50**
 
 ## Estadísticas de equipo
 | | Brentford (total) | Brentford en casa | Nottingham Forest (total) | Nottingham Forest fuera |
@@ -182,38 +182,38 @@ _Sin bajas comunicadas por ahora._
 | L. Netz | D | 5 | 75 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,74 · visitante 0,95 · córners esperados 9,5._
+_Goles esperados: local 1,73 · visitante 0,96 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 26% | 23% | 3.60 | -16% |
+| 1X2: 2 | 21% | 25% | 23% | 3.75 | -14% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 56% | 47% | 52% | 2.00 | +3% |
-| Doble oportunidad: X2 | 44% | 52% | 48% | 1.80 | -13% |
-| Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 80% | 74% | 77% | 1.28 | -2% |
+| 1X2: 1 | 55% | 48% | 52% | 1.95 | +1% |
+| Doble oportunidad: X2 | 45% | 52% | 48% | 1.80 | -13% |
+| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 79% | 75% | 77% | 1.25 | -4% |
 | Ambos marcan: No | 49% | 42% | 46% | 2.20 | +1% |
 | Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
-| Goles más/menos: Más de 1.5 | 75% | 78% | 77% | 1.22 | -7% |
-| Goles más/menos: Más de 2.5 | 51% | 55% | 53% | 1.73 | -9% |
+| Goles más/menos: Más de 1.5 | 75% | 78% | 76% | 1.22 | -7% |
+| Goles más/menos: Más de 2.5 | 50% | 55% | 53% | 1.73 | -9% |
 | Goles más/menos: Más de 3.5 | 28% | 34% | 31% | 2.75 | -14% |
-| Goles más/menos: Menos de 1.5 | 25% | 22% | 23% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 49% | 45% | 47% | 2.10 | -1% |
+| Goles más/menos: Menos de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
+| Goles más/menos: Menos de 2.5 | 50% | 45% | 47% | 2.10 | -0% |
 | Goles más/menos: Menos de 3.5 | 72% | 66% | 69% | 1.44 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Más de 2.5 | 25% | 25% | 25% | 3.75 | -5% |
-| Goles del local: Menos de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Menos de 2.5 | 75% | 75% | 75% | 1.25 | -7% |
-| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
-| 1X2 descanso: 2 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del local: Más de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Goles del local: Más de 2.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles del local: Menos de 1.5 | 48% | 49% | 48% | 1.91 | -7% |
+| Goles del local: Menos de 2.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
+| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
+| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| 1X2 descanso: 2 | 19% | 23% | 21% | 4.00 | -17% |
 | 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 40% | 37% | 39% | 2.50 | -4% |
+| 1X2 descanso: 1 | 40% | 37% | 38% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

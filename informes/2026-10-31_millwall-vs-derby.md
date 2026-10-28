@@ -1,7 +1,7 @@
 # Millwall – Derby
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -190,41 +190,41 @@ _Sin bajas comunicadas por ahora._
 | Corey Blackett-Taylor | F | 9 | 248 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,6 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 0,78 · córners esperados 10,4._
+_Goles esperados: local 1,98 · visitante 0,79 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 20% | 17% | 4.75 | -21% |
-| 1X2: X | 20% | 25% | 23% | 3.70 | -16% |
-| 1X2: 1 | 66% | 55% | 61% | 1.67 | +1% |
-| Doble oportunidad: X2 | 34% | 44% | 39% | 2.15 | -15% |
-| Doble oportunidad: 12 | 80% | 75% | 77% | 1.28 | -1% |
-| Doble oportunidad: 1X | 86% | 81% | 84% | 1.18 | -1% |
+| 1X2: 2 | 14% | 20% | 17% | 4.75 | -20% |
+| 1X2: X | 21% | 25% | 23% | 3.70 | -16% |
+| 1X2: 1 | 65% | 55% | 60% | 1.67 | +1% |
+| Doble oportunidad: X2 | 35% | 44% | 40% | 2.15 | -15% |
+| Doble oportunidad: 12 | 79% | 75% | 77% | 1.28 | -1% |
+| Doble oportunidad: 1X | 86% | 81% | 83% | 1.18 | -2% |
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
-| Goles más/menos: Más de 1.5 | 77% | 76% | 76% | 1.25 | -5% |
-| Goles más/menos: Más de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
+| Goles más/menos: Más de 1.5 | 76% | 76% | 76% | 1.25 | -5% |
+| Goles más/menos: Más de 2.5 | 52% | 53% | 52% | 1.80 | -6% |
 | Goles más/menos: Más de 3.5 | 30% | 30% | 30% | 3.20 | -4% |
-| Goles más/menos: Menos de 1.5 | 23% | 24% | 24% | 4.00 | -5% |
-| Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -5% |
+| Goles más/menos: Menos de 1.5 | 24% | 24% | 24% | 4.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 48% | 47% | 48% | 2.00 | -5% |
 | Goles más/menos: Menos de 3.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del local: Más de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
-| Goles del local: Más de 2.5 | 32% | 28% | 30% | 3.40 | +2% |
+| Goles del local: Más de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del local: Más de 2.5 | 32% | 28% | 30% | 3.40 | +1% |
 | Goles del local: Menos de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del local: Menos de 2.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 0.5 | 54% | 61% | 58% | 1.53 | -12% |
-| Goles del visitante: Más de 1.5 | 19% | 27% | 23% | 3.50 | -21% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 42% | 2.38 | +1% |
+| Goles del visitante: Más de 0.5 | 55% | 61% | 58% | 1.53 | -12% |
+| Goles del visitante: Más de 1.5 | 19% | 27% | 23% | 3.50 | -20% |
+| Goles del visitante: Menos de 0.5 | 45% | 39% | 42% | 2.38 | +1% |
 | Goles del visitante: Menos de 1.5 | 81% | 73% | 77% | 1.28 | -1% |
 | Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -16% |
 | Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +2% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
-| 1X2 descanso: 1 | 47% | 41% | 44% | 2.25 | -1% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 46% | 41% | 44% | 2.25 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

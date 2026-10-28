@@ -1,7 +1,7 @@
 # Birmingham – Millwall
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | R. Leonard | D | 5 | 266 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,19 · córners esperados 10,2._
+_Goles esperados: local 1,57 · visitante 1,20 · córners esperados 10,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

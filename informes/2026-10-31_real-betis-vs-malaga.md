@@ -1,10 +1,10 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:04_
 
 - **1X2:** 1 **1.38**  ·  X **4.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **3.00**
@@ -61,21 +61,21 @@ _Actualizadas: 26/10 19:53_
 ## Estadísticas de equipo
 | | Real Betis (total) | Real Betis en casa | Malaga (total) | Malaga fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 10 | 5 |
-| Forma (últimos 5) | EVDVV | VDVVV | EDEDD | EDEDD |
-| Balance | 9V 2E 2D | 6V 0E 1D | 0V 5E 5D | 0V 2E 3D |
-| Goles a favor / partido | 1,77 | 2,00 | 0,70 | 0,40 |
-| Goles en contra / partido | 1,38 | 1,29 | 1,90 | 1,80 |
-| Goles a favor 1ª parte | 0,77 | 0,57 | 0,30 | 0,20 |
-| Goles a favor 2ª parte | 1,00 | 1,43 | 0,40 | 0,20 |
-| Goles en contra 1ª parte | 0,54 | 0,29 | 1,00 | 0,80 |
-| Goles en contra 2ª parte | 0,85 | 1,00 | 0,90 | 1,00 |
-| Más de 1,5 goles | 54% | 43% | 80% | 80% |
-| Más de 2,5 goles | 46% | 43% | 30% | 20% |
-| Más de 3,5 goles | 38% | 43% | 30% | 20% |
-| Ambos marcan | 54% | 43% | 60% | 40% |
-| Portería a cero | 46% | 57% | 10% | 0% |
-| Se queda sin marcar | 8% | 0% | 40% | 60% |
+| Partidos analizados | 13 | 7 | 11 | 6 |
+| Forma (últimos 5) | EVDVV | VDVVV | VEDED | VEDED |
+| Balance | 9V 2E 2D | 6V 0E 1D | 1V 5E 5D | 1V 2E 3D |
+| Goles a favor / partido | 1,77 | 2,00 | 0,91 | 0,83 |
+| Goles en contra / partido | 1,38 | 1,29 | 1,73 | 1,50 |
+| Goles a favor 1ª parte | 0,77 | 0,57 | 0,27 | 0,17 |
+| Goles a favor 2ª parte | 1,00 | 1,43 | 0,64 | 0,67 |
+| Goles en contra 1ª parte | 0,54 | 0,29 | 0,91 | 0,67 |
+| Goles en contra 2ª parte | 0,85 | 1,00 | 0,82 | 0,83 |
+| Más de 1,5 goles | 54% | 43% | 82% | 83% |
+| Más de 2,5 goles | 46% | 43% | 36% | 33% |
+| Más de 3,5 goles | 38% | 43% | 27% | 17% |
+| Ambos marcan | 54% | 43% | 55% | 33% |
+| Portería a cero | 46% | 57% | 18% | 17% |
+| Se queda sin marcar | 8% | 0% | 36% | 50% |
 | xG a favor | 1,69 | 1,73 | 0,85 | 0,51 |
 | xG en contra | 1,66 | 1,71 | 1,71 | 1,65 |
 | Tiros / partido | 17,2 | 16,6 | 10,9 | 9,8 |
@@ -105,9 +105,9 @@ _Actualizadas: 26/10 19:53_
 | 1-15' | 1 | 2 | 0 | 1 | 2 | 0 |
 | 16-30' | 1 | 2 | 2 | 0 | 5 | 3 |
 | 31-45' | 8 | 3 | 3 | 2 | 3 | 7 |
-| 46-60' | 6 | 5 | 5 | 1 | 1 | 0 |
-| 61-75' | 3 | 3 | 6 | 1 | 3 | 6 |
-| 76-90' | 4 | 3 | 9 | 2 | 5 | 9 |
+| 46-60' | 6 | 5 | 5 | 1 | 1 | 1 |
+| 61-75' | 3 | 3 | 6 | 2 | 3 | 7 |
+| 76-90' | 4 | 3 | 9 | 4 | 5 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -159,12 +159,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Malaga
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Copa del Rey | Alcazar 0-3 Malaga | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | LaLiga | Alaves 1-1 Malaga | fuera | 2-7 | 7 (3) - 18 (4) | 1-2 |
 | 2026-10-18 | LaLiga | Malaga 2-5 Real Sociedad | casa | 4-5 | 17 (6) - 21 (9) | 1-2 |
 | 2026-10-09 | LaLiga | Malaga 1-1 Espanyol | casa | 8-2 | 15 (7) - 9 (4) | 4-5 |
 | 2026-09-20 | LaLiga | Getafe 1-0 Malaga | fuera | 9-5 | 11 (4) - 20 (7) | 2-4 |
 | 2026-09-17 | LaLiga | Malaga 1-3 Villarreal | casa | 4-8 | 5 (1) - 16 (7) | 5-1 |
-| 2026-09-13 | LaLiga | Celta Vigo 1-1 Malaga | fuera | 5-1 | 12 (2) - 17 (5) | 1-1 |
 
 ## Jugadores de Malaga
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -191,41 +191,41 @@ _Sin bajas comunicadas por ahora._
 | Juan Berrocal | D | 3 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,26 · visitante 0,78 · córners esperados 10,0._
+_Goles esperados: local 2,15 · visitante 0,87 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 11% | 13% | 12% | 7.00 | -14% |
-| 1X2: X | 18% | 20% | 19% | 4.75 | -12% |
-| 1X2: 1 | 71% | 67% | 69% | 1.38 | -5% |
-| Doble oportunidad: X2 | 29% | 32% | 30% | 3.00 | -9% |
-| Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 89% | 87% | 88% | 1.10 | -3% |
-| Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
-| Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
-| Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.50 | -8% |
+| 1X2: 2 | 14% | 13% | 14% | 7.00 | -4% |
+| 1X2: X | 19% | 20% | 19% | 4.75 | -8% |
+| 1X2: 1 | 67% | 67% | 67% | 1.38 | -8% |
+| Doble oportunidad: X2 | 33% | 32% | 33% | 3.00 | -2% |
+| Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -5% |
+| Doble oportunidad: 1X | 86% | 87% | 86% | 1.10 | -5% |
+| Ambos marcan: No | 49% | 45% | 47% | 2.05 | -4% |
+| Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
+| Goles más/menos: Más de 2.5 | 58% | 64% | 61% | 1.50 | -9% |
 | Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
-| Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 36% | 39% | 2.62 | +2% |
-| Goles más/menos: Menos de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Menos de 4.5 | 81% | 76% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
+| Goles más/menos: Más de 4.5 | 19% | 24% | 21% | 4.00 | -15% |
+| Goles más/menos: Menos de 2.5 | 42% | 36% | 39% | 2.62 | +3% |
+| Goles más/menos: Menos de 3.5 | 64% | 59% | 61% | 1.62 | -0% |
+| Goles más/menos: Menos de 4.5 | 81% | 76% | 79% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles del local: Más de 2.5 | 39% | 42% | 41% | 2.20 | -10% |
-| Goles del local: Más de 3.5 | 19% | 22% | 21% | 4.33 | -11% |
-| Goles del local: Menos de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles del local: Menos de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del local: Menos de 3.5 | 81% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 0.5 | 54% | 59% | 57% | 1.57 | -11% |
-| Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 41% | 43% | 2.25 | -2% |
-| Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
+| Goles del local: Más de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
+| Goles del local: Más de 2.5 | 36% | 42% | 39% | 2.20 | -13% |
+| Goles del local: Más de 3.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles del local: Menos de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
+| Goles del local: Menos de 2.5 | 64% | 58% | 61% | 1.62 | -2% |
+| Goles del local: Menos de 3.5 | 83% | 78% | 81% | 1.20 | -3% |
+| Goles del visitante: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles del visitante: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del visitante: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles del visitante: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Córners más/menos: Más de 9.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Córners más/menos: Menos de 9.5 | 50% | 44% | 47% | 2.10 | -1% |
-| 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -6% |
-| 1X2 descanso: 1 | 51% | 51% | 51% | 1.83 | -7% |
+| Córners más/menos: Menos de 9.5 | 50% | 44% | 47% | 2.10 | -0% |
+| 1X2 descanso: X | 37% | 35% | 36% | 2.62 | -5% |
+| 1X2 descanso: 1 | 48% | 51% | 49% | 1.83 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

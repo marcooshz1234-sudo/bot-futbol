@@ -1,7 +1,7 @@
 # Bologna – Monza
 **Serie A** · Regular Season - 10 · 31/10/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -190,39 +190,39 @@ _Sin bajas comunicadas por ahora._
 | Yvan Maye | D | 4 | 131 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 0 | 7 | 1,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 1,23 · córners esperados 9,7._
+_Goles esperados: local 1,22 · visitante 1,17 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 35% | 20% | 27% | 4.75 | +30% |
-| 1X2: X | 27% | 27% | 27% | 3.50 | -6% |
-| 1X2: 1 | 38% | 54% | 46% | 1.75 | -20% |
-| Doble oportunidad: X2 ✅ | 62% | 47% | 54% | 2.00 | +9% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.28 | -6% |
+| 1X2: X | 28% | 27% | 27% | 3.50 | -5% |
+| 1X2: 1 | 37% | 54% | 45% | 1.75 | -20% |
+| Doble oportunidad: X2 ✅ | 63% | 47% | 55% | 2.00 | +10% |
+| Doble oportunidad: 12 | 72% | 73% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 65% | 80% | 72% | 1.18 | -15% |
-| Ambos marcan: No | 48% | 48% | 48% | 1.95 | -6% |
-| Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -7% |
-| Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 30% | 27% | 3.20 | -12% |
-| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | +0% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Menos de 3.5 | 75% | 70% | 73% | 1.36 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 1.5 | 38% | 51% | 45% | 1.80 | -20% |
-| Goles del local: Más de 2.5 | 14% | 27% | 21% | 3.50 | -28% |
-| Goles del local: Menos de 1.5 | 62% | 49% | 55% | 1.91 | +6% |
-| Goles del local: Menos de 2.5 | 86% | 73% | 79% | 1.28 | +2% |
-| Goles del visitante: Más de 0.5 | 71% | 62% | 67% | 1.50 | +0% |
-| Goles del visitante: Más de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
-| Goles del visitante: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles del visitante: Menos de 1.5 | 65% | 73% | 69% | 1.28 | -12% |
-| Córners más/menos: Más de 8.5 | 56% | 54% | 55% | 1.73 | -6% |
-| Córners más/menos: Menos de 8.5 | 44% | 46% | 45% | 2.00 | -9% |
-| 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -5% |
-| 1X2 descanso: 1 | 29% | 40% | 34% | 2.30 | -21% |
+| Ambos marcan: No | 51% | 48% | 50% | 1.95 | -3% |
+| Ambos marcan: Sí | 49% | 52% | 50% | 1.80 | -9% |
+| Goles más/menos: Más de 1.5 | 69% | 75% | 72% | 1.28 | -8% |
+| Goles más/menos: Más de 2.5 | 43% | 50% | 46% | 1.91 | -11% |
+| Goles más/menos: Más de 3.5 | 22% | 30% | 26% | 3.20 | -17% |
+| Goles más/menos: Menos de 1.5 | 31% | 25% | 28% | 3.75 | +6% |
+| Goles más/menos: Menos de 2.5 | 57% | 50% | 54% | 1.91 | +2% |
+| Goles más/menos: Menos de 3.5 | 78% | 70% | 74% | 1.36 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Más de 1.5 | 35% | 51% | 43% | 1.80 | -23% |
+| Goles del local: Más de 2.5 | 13% | 27% | 20% | 3.50 | -31% |
+| Goles del local: Menos de 1.5 ✅ | 65% | 49% | 57% | 1.91 | +9% |
+| Goles del local: Menos de 2.5 | 87% | 73% | 80% | 1.28 | +3% |
+| Goles del visitante: Más de 0.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del visitante: Más de 1.5 | 33% | 27% | 30% | 3.50 | +4% |
+| Goles del visitante: Menos de 0.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del visitante: Menos de 1.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Córners más/menos: Más de 8.5 | 56% | 54% | 55% | 1.73 | -5% |
+| Córners más/menos: Menos de 8.5 | 44% | 46% | 45% | 2.00 | -10% |
+| 1X2 descanso: X | 46% | 41% | 43% | 2.25 | -3% |
+| 1X2 descanso: 1 | 28% | 40% | 34% | 2.30 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

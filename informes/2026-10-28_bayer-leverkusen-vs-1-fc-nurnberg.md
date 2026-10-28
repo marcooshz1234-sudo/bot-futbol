@@ -1,21 +1,21 @@
 # Bayer Leverkusen – 1. FC Nürnberg
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:51_
+_Actualizadas: 28/10 02:03_
 
-- **1X2:** 1 **1.17**  ·  X **8.00**  ·  2 **13.00**
-- **Doble oportunidad:** 1X **1.05**  ·  12 **1.08**  ·  X2 **5.00**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **1.14**  ·  X **8.00**  ·  2 **13.00**
+- **Doble oportunidad:** 1X **1.04**  ·  12 **1.08**  ·  X2 **5.00**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
-    - 2,5: más **1.25** · menos **4.00**
-    - 3,5: más **1.62** · menos **2.20**
+    - 2,5: más **1.22** · menos **4.20**
+    - 3,5: más **1.57** · menos **2.25**
     - 4,5: más **2.25** · menos **1.57**
     - 5,5: más **3.75** · menos **1.25**
-    - 6,5: más **7.00** · menos **1.10**
+    - 6,5: más **6.50** · menos **1.11**
     - 7,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
@@ -23,19 +23,18 @@ _Actualizadas: 27/10 13:51_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 1,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.25** · menos **1.57**
-    - 4,5: más **4.00** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **4.00** · menos **1.22**
-    - 2,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.33** · menos **1.20**
 - **Córners más/menos:**
     - 10: más **1.80** · menos **2.00**
     - 10,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **1.50**  ·  X **3.40**  ·  2 **9.00**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.50**  ·  2 **9.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
@@ -44,17 +43,17 @@ _Actualizadas: 27/10 13:51_
     - 4,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.08**  ·  2 **4.50**
-- **To Score In Both Halves By Teams:** 1 **1.50**  ·  2 **7.00**
-- **Win Both Halves:** 1 **2.10**  ·  2 **51.00**
-- **Results/Both Teams Score:** Home/Yes **2.20**  ·  Draw/Yes **8.00**  ·  Away/Yes **15.00**  ·  Home/No **2.38**  ·  Draw/No **34.00**  ·  Away/No **26.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.75**
+- **To Win Either Half:** 1 **1.08**  ·  2 **5.00**
+- **To Score In Both Halves By Teams:** 1 **1.44**  ·  2 **7.00**
+- **Win Both Halves:** 1 **2.00**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **2.20**  ·  Draw/Yes **8.50**  ·  Away/Yes **19.00**  ·  Home/No **2.20**  ·  Draw/No **34.00**  ·  Away/No **29.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **3.20**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.75**
 - **Home Corners Over/Under:**
     - 6,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **2.25** · menos **1.57**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.02**  ·  Menos de 5 **1.78**
-- **Anytime Goal Scorer:** Styopa Mkrtchyan **17.00**  ·  Malik Tillman **2.50**  ·  Eliesse Ben Seghir **2.10**  ·  Eric Porstner **13.00**  ·  Loic Bade **5.50**  ·  William Boving **5.00**  ·  Ibrahim Maza **2.50**  ·  Guela Doue **6.50**  ·  Aleix Garcia **3.50**  ·  Sigurd Haugen **4.00**  ·  Piet Scobel **4.50**  ·  Ayoub Chaikhoun **6.00**  ·  Kristian Mandic **21.00**  ·  Montrell Culbreath **2.75**  ·  Mohamed Ali Zoma **4.00**  ·  Facundo Medina **6.50**  ·  Adriano Grimaldi **4.50**  ·  Can Moustfa **7.50**  ·  Finn Ole Becker **10.00**  ·  Miguel Gutierrez **5.50**  ·  Alexios Kalogeropoulos **23.00**  ·  Julian Justvan **5.50**  ·  Andrea Ceresoli **13.00**  ·  Tim Janisch **6.50**  ·  Rafael Lubach **4.50**  ·  Moussa Diaby **1.91**  ·  Ezequiel Fernandez **4.50**  ·  Marko Soldic **8.50**  ·  Javier Fernandez **7.50**  ·  Adam Markhiyev **6.50**  ·  Giannis Masouras **13.00**  ·  Fynn Otto **21.00**  ·  Marc Kornwachs Barjuan **13.00**  ·  Tobias Hess **13.00**  ·  Khalid Abu El Haija **13.00**  ·  Jarell Quansah **5.00**  ·  Vazquez Lucas **4.50**  ·  Edmond Tapsoba **4.50**  ·  Jonas Hofmann **2.50**  ·  Martin Terrier **2.00**  ·  Nathan Tella **2.10**  ·  Patrik Schick **1.40**  ·  Robert Andrich **4.50**  ·  Victor Boniface **1.67**  ·  Tim Oermann **7.50**  ·  Rayan Ghrieb **4.00**  ·  Christian Kofane **1.67**  ·  Afonso Moreira **2.10**
+- **Anytime Goal Scorer:** Styopa Mkrtchyan **17.00**  ·  Malik Tillman **2.38**  ·  Eliesse Ben Seghir **2.10**  ·  Eric Porstner **13.00**  ·  Loic Bade **5.50**  ·  William Boving **5.00**  ·  Ibrahim Maza **2.38**  ·  Guela Doue **6.00**  ·  Aleix Garcia **3.50**  ·  Sigurd Haugen **4.50**  ·  Piet Scobel **4.50**  ·  Ayoub Chaikhoun **6.00**  ·  Kristian Mandic **21.00**  ·  Montrell Culbreath **2.75**  ·  Mohamed Ali Zoma **4.00**  ·  Facundo Medina **6.00**  ·  Adriano Grimaldi **5.00**  ·  Can Moustfa **7.50**  ·  Finn Ole Becker **10.00**  ·  Miguel Gutierrez **5.50**  ·  Alexios Kalogeropoulos **23.00**  ·  Julian Justvan **6.00**  ·  Andrea Ceresoli **13.00**  ·  Tim Janisch **6.50**  ·  Rafael Lubach **4.50**  ·  Moussa Diaby **1.80**  ·  Ezequiel Fernandez **4.50**  ·  Marko Soldic **8.50**  ·  Javier Fernandez **7.50**  ·  Adam Markhiyev **6.50**  ·  Giannis Masouras **13.00**  ·  Fynn Otto **21.00**  ·  Marc Kornwachs Barjuan **13.00**  ·  Tobias Hess **13.00**  ·  Khalid Abu El Haija **13.00**  ·  Jarell Quansah **5.00**  ·  Vazquez Lucas **4.50**  ·  Edmond Tapsoba **4.50**  ·  Jonas Hofmann **2.38**  ·  Martin Terrier **2.00**  ·  Nathan Tella **2.10**  ·  Patrik Schick **1.40**  ·  Robert Andrich **4.50**  ·  Victor Boniface **1.67**  ·  Tim Oermann **7.50**  ·  Rayan Ghrieb **4.50**  ·  Christian Kofane **1.67**  ·  Afonso Moreira **2.10**
 
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | 1. FC Nürnberg (total) | 1. FC Nürnberg fuera |

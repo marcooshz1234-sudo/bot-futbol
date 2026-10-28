@@ -1,37 +1,37 @@
 {
- "generado": "2026-10-27 19:51",
- "picks_usados": 90,
- "aciertos": 53,
- "prometido_medio": 0.732,
- "implicita_media": 0.719,
- "w_frecuencia": 0.443,
+ "generado": "2026-10-28 02:05",
+ "picks_usados": 100,
+ "aciertos": 62,
+ "prometido_medio": 0.727,
+ "implicita_media": 0.717,
+ "w_frecuencia": 0.449,
  "tipos": {
   "jugador:None": {
-   "ajuste": 0.0021,
+   "ajuste": 0.002,
    "n": 1,
    "partidos": 0.2,
    "aciertos": 1,
-   "prometido": 0.863,
+   "prometido": 0.862,
    "cuota_implicita": 0.752
   },
   "goles": {
-   "ajuste": -0.0421,
-   "n": 50,
-   "partidos": 18.3,
-   "aciertos": 28,
-   "prometido": 0.739,
-   "cuota_implicita": 0.736
+   "ajuste": -0.0256,
+   "n": 54,
+   "partidos": 19.7,
+   "aciertos": 32,
+   "prometido": 0.737,
+   "cuota_implicita": 0.734
   },
   "resultado": {
-   "ajuste": 0.0164,
-   "n": 18,
-   "partidos": 8.1,
-   "aciertos": 13,
-   "prometido": 0.752,
-   "cuota_implicita": 0.748
+   "ajuste": 0.0312,
+   "n": 22,
+   "partidos": 9.2,
+   "aciertos": 17,
+   "prometido": 0.744,
+   "cuota_implicita": 0.737
   },
   "tiros": {
-   "ajuste": -0.0193,
+   "ajuste": -0.0191,
    "n": 4,
    "partidos": 1.1,
    "aciertos": 2,
@@ -39,31 +39,31 @@
    "cuota_implicita": 0.561
   },
   "tarjetas": {
-   "ajuste": -0.0347,
+   "ajuste": -0.0343,
    "n": 4,
    "partidos": 1.8,
    "aciertos": 2,
-   "prometido": 0.765,
+   "prometido": 0.764,
    "cuota_implicita": 0.624
   },
   "jugador:tiros": {
-   "ajuste": 0.031,
-   "n": 5,
-   "partidos": 3.0,
-   "aciertos": 4,
-   "prometido": 0.655,
-   "cuota_implicita": 0.746
+   "ajuste": 0.0375,
+   "n": 6,
+   "partidos": 3.5,
+   "aciertos": 5,
+   "prometido": 0.66,
+   "cuota_implicita": 0.745
   },
   "corners": {
-   "ajuste": -0.0211,
+   "ajuste": -0.0207,
    "n": 1,
    "partidos": 0.5,
    "aciertos": 0,
-   "prometido": 0.745,
+   "prometido": 0.74,
    "cuota_implicita": 0.617
   },
   "fueras de juego": {
-   "ajuste": -0.014,
+   "ajuste": -0.0139,
    "n": 1,
    "partidos": 0.3,
    "aciertos": 0,
@@ -71,28 +71,28 @@
    "cuota_implicita": 0.599
   },
   "tiros a puerta": {
-   "ajuste": -0.0057,
+   "ajuste": -0.0056,
    "n": 1,
    "partidos": 0.1,
    "aciertos": 0,
-   "prometido": 0.677,
+   "prometido": 0.681,
    "cuota_implicita": 0.578
   },
   "jugador:a_puerta": {
-   "ajuste": -0.0127,
+   "ajuste": -0.0125,
    "n": 4,
    "partidos": 1.1,
    "aciertos": 2,
-   "prometido": 0.603,
+   "prometido": 0.605,
    "cuota_implicita": 0.659
   },
   "jugador:faltas_c": {
-   "ajuste": 0.0027,
-   "n": 1,
-   "partidos": 0.2,
+   "ajuste": -0.0165,
+   "n": 2,
+   "partidos": 0.7,
    "aciertos": 1,
-   "prometido": 0.711,
-   "cuota_implicita": 0.769
+   "prometido": 0.607,
+   "cuota_implicita": 0.732
   }
  },
  "mercados": {
@@ -101,115 +101,115 @@
    "n": 1,
    "partidos": 0.2,
    "aciertos": 1,
-   "prometido": 0.863,
+   "prometido": 0.862,
    "cuota_implicita": 0.752
   },
   "Goals Over/Under|Over 1.5": {
-   "ajuste": 0.0308,
+   "ajuste": 0.0267,
    "n": 9,
-   "partidos": 4.2,
+   "partidos": 4.1,
    "aciertos": 7,
-   "prometido": 0.795,
+   "prometido": 0.797,
    "cuota_implicita": 0.77
   },
   "Total - Away|Over 0.5": {
-   "ajuste": -0.0194,
+   "ajuste": -0.0219,
    "n": 11,
-   "partidos": 3.0,
+   "partidos": 2.9,
    "aciertos": 6,
    "prometido": 0.758,
    "cuota_implicita": 0.75
   },
   "Double Chance|Home/Away": {
-   "ajuste": -0.0071,
-   "n": 12,
-   "partidos": 5.8,
-   "aciertos": 8,
-   "prometido": 0.764,
-   "cuota_implicita": 0.768
+   "ajuste": -0.0052,
+   "n": 14,
+   "partidos": 6.2,
+   "aciertos": 10,
+   "prometido": 0.763,
+   "cuota_implicita": 0.769
   },
   "Goals Over/Under First Half|Over 0.5": {
-   "ajuste": -0.0138,
-   "n": 10,
-   "partidos": 5.1,
-   "aciertos": 6,
+   "ajuste": -0.0141,
+   "n": 11,
+   "partidos": 5.3,
+   "aciertos": 7,
    "prometido": 0.736,
    "cuota_implicita": 0.764
   },
   "Both Teams Score|Yes": {
-   "ajuste": -0.0201,
-   "n": 5,
-   "partidos": 1.0,
-   "aciertos": 2,
-   "prometido": 0.643,
-   "cuota_implicita": 0.641
+   "ajuste": -0.0143,
+   "n": 6,
+   "partidos": 1.3,
+   "aciertos": 3,
+   "prometido": 0.644,
+   "cuota_implicita": 0.632
   },
   "Shots.1x2|Away": {
-   "ajuste": 0.0058,
+   "ajuste": 0.0057,
    "n": 1,
    "partidos": 0.2,
    "aciertos": 1,
-   "prometido": 0.723,
+   "prometido": 0.724,
    "cuota_implicita": 0.578
   },
   "Away Team Total Cards|Over 1.5": {
-   "ajuste": -0.0037,
-   "n": 2,
-   "partidos": 0.6,
-   "aciertos": 1,
-   "prometido": 0.785,
-   "cuota_implicita": 0.66
-  },
-  "Total - Home|Over 0.5": {
-   "ajuste": -0.0073,
+   "ajuste": -0.0036,
    "n": 2,
    "partidos": 0.5,
    "aciertos": 1,
-   "prometido": 0.82,
-   "cuota_implicita": 0.742
+   "prometido": 0.784,
+   "cuota_implicita": 0.66
+  },
+  "Total - Home|Over 0.5": {
+   "ajuste": -0.0034,
+   "n": 3,
+   "partidos": 0.7,
+   "aciertos": 2,
+   "prometido": 0.821,
+   "cuota_implicita": 0.731
   },
   "Goals Over/Under - Second Half|Over 0.5": {
-   "ajuste": -0.0205,
+   "ajuste": -0.021,
    "n": 3,
    "partidos": 0.7,
    "aciertos": 1,
-   "prometido": 0.847,
+   "prometido": 0.849,
    "cuota_implicita": 0.794
   },
   "Double Chance|Home/Draw": {
-   "ajuste": -0.0117,
+   "ajuste": -0.0118,
    "n": 1,
    "partidos": 0.2,
    "aciertos": 0,
-   "prometido": 0.78,
+   "prometido": 0.782,
    "cuota_implicita": 0.694
   },
   "Match Winner|Home": {
-   "ajuste": 0.0059,
+   "ajuste": 0.0056,
    "n": 1,
    "partidos": 0.3,
    "aciertos": 1,
-   "prometido": 0.727,
+   "prometido": 0.721,
    "cuota_implicita": 0.676
   },
   "Total Goals/Both Teams To Score|o/yes 2.5": {
-   "ajuste": 0.0104,
+   "ajuste": 0.009,
    "n": 2,
    "partidos": 1.2,
    "aciertos": 1,
-   "prometido": 0.724,
+   "prometido": 0.726,
    "cuota_implicita": 0.657
   },
   "Goals Over/Under|Over 2.5": {
-   "ajuste": -0.0097,
+   "ajuste": -0.0117,
    "n": 7,
-   "partidos": 2.2,
+   "partidos": 2.1,
    "aciertos": 3,
-   "prometido": 0.655,
+   "prometido": 0.656,
    "cuota_implicita": 0.692
   },
   "Total Shots|Over 26.5": {
-   "ajuste": -0.0281,
+   "ajuste": -0.0277,
    "n": 2,
    "partidos": 0.7,
    "aciertos": 0,
@@ -217,23 +217,23 @@
    "cuota_implicita": 0.556
   },
   "jugador:tiros:1": {
-   "ajuste": 0.0258,
-   "n": 5,
-   "partidos": 3.0,
-   "aciertos": 4,
-   "prometido": 0.655,
-   "cuota_implicita": 0.746
+   "ajuste": 0.0305,
+   "n": 6,
+   "partidos": 3.5,
+   "aciertos": 5,
+   "prometido": 0.66,
+   "cuota_implicita": 0.745
   },
   "Away Corners Over/Under|Over 3.5": {
-   "ajuste": -0.0204,
+   "ajuste": -0.0201,
    "n": 1,
    "partidos": 0.5,
    "aciertos": 0,
-   "prometido": 0.745,
+   "prometido": 0.74,
    "cuota_implicita": 0.617
   },
   "Offsides Total|Over 2.5": {
-   "ajuste": -0.0137,
+   "ajuste": -0.0136,
    "n": 1,
    "partidos": 0.3,
    "aciertos": 0,
@@ -245,11 +245,11 @@
    "n": 1,
    "partidos": 0.1,
    "aciertos": 0,
-   "prometido": 0.677,
+   "prometido": 0.681,
    "cuota_implicita": 0.578
   },
   "Shots.1x2|Home": {
-   "ajuste": 0.0042,
+   "ajuste": 0.0041,
    "n": 1,
    "partidos": 0.2,
    "aciertos": 1,
@@ -257,23 +257,23 @@
    "cuota_implicita": 0.556
   },
   "Double Chance|Draw/Away": {
-   "ajuste": 0.0264,
-   "n": 3,
-   "partidos": 1.5,
-   "aciertos": 3,
-   "prometido": 0.653,
-   "cuota_implicita": 0.696
+   "ajuste": 0.0293,
+   "n": 4,
+   "partidos": 1.8,
+   "aciertos": 4,
+   "prometido": 0.659,
+   "cuota_implicita": 0.707
   },
   "To Win Either Half|Home": {
-   "ajuste": 0.0031,
+   "ajuste": 0.0027,
    "n": 1,
    "partidos": 0.3,
    "aciertos": 1,
-   "prometido": 0.905,
+   "prometido": 0.906,
    "cuota_implicita": 0.781
   },
   "Total - Home|Over 1.5": {
-   "ajuste": 0.0103,
+   "ajuste": 0.0096,
    "n": 1,
    "partidos": 0.5,
    "aciertos": 1,
@@ -281,15 +281,15 @@
    "cuota_implicita": 0.752
   },
   "Cards Over/Under|Over 4.5": {
-   "ajuste": 0.0072,
+   "ajuste": 0.007,
    "n": 1,
    "partidos": 0.3,
    "aciertos": 1,
-   "prometido": 0.803,
+   "prometido": 0.802,
    "cuota_implicita": 0.599
   },
   "Home Team Total Cards|Over 1.5": {
-   "ajuste": -0.0359,
+   "ajuste": -0.0354,
    "n": 1,
    "partidos": 1.0,
    "aciertos": 0,
@@ -297,130 +297,170 @@
    "cuota_implicita": 0.578
   },
   "jugador:a_puerta:1": {
-   "ajuste": -0.0118,
+   "ajuste": -0.0117,
    "n": 4,
    "partidos": 1.1,
    "aciertos": 2,
-   "prometido": 0.603,
+   "prometido": 0.605,
    "cuota_implicita": 0.659
   },
   "jugador:faltas_c:1": {
-   "ajuste": 0.0027,
+   "ajuste": 0.0029,
    "n": 1,
    "partidos": 0.2,
    "aciertos": 1,
-   "prometido": 0.711,
+   "prometido": 0.712,
    "cuota_implicita": 0.769
+  },
+  "Match Winner|Away": {
+   "ajuste": 0.0091,
+   "n": 1,
+   "partidos": 0.3,
+   "aciertos": 1,
+   "prometido": 0.639,
+   "cuota_implicita": 0.465
+  },
+  "jugador:faltas_c:2": {
+   "ajuste": -0.0188,
+   "n": 1,
+   "partidos": 0.5,
+   "aciertos": 0,
+   "prometido": 0.502,
+   "cuota_implicita": 0.694
+  },
+  "Total - Away|Over 1.5": {
+   "ajuste": 0.0192,
+   "n": 1,
+   "partidos": 1.0,
+   "aciertos": 1,
+   "prometido": 0.614,
+   "cuota_implicita": 0.794
   }
  },
  "ligas": {
   "Serie A": {
-   "ajuste": -0.0095,
-   "n": 27,
-   "partidos": 8.6,
-   "aciertos": 18,
-   "prometido": 0.764,
-   "cuota_implicita": 0.736
+   "ajuste": 0.0022,
+   "n": 36,
+   "partidos": 11.5,
+   "aciertos": 26,
+   "prometido": 0.745,
+   "cuota_implicita": 0.725
   },
   "Ligue 1": {
-   "ajuste": -0.0663,
+   "ajuste": -0.0703,
    "n": 26,
-   "partidos": 8.7,
+   "partidos": 8.6,
    "aciertos": 10,
-   "prometido": 0.691,
+   "prometido": 0.693,
    "cuota_implicita": 0.705
   },
   "Premier": {
-   "ajuste": -0.0343,
+   "ajuste": -0.0369,
    "n": 19,
-   "partidos": 5.8,
+   "partidos": 5.7,
    "aciertos": 10,
    "prometido": 0.748,
    "cuota_implicita": 0.704
   },
   "LaLiga": {
-   "ajuste": 0.0251,
+   "ajuste": 0.0216,
    "n": 10,
-   "partidos": 5.8,
+   "partidos": 5.7,
    "aciertos": 8,
-   "prometido": 0.725,
+   "prometido": 0.726,
    "cuota_implicita": 0.701
   },
   "Bundesliga": {
-   "ajuste": 0.0018,
+   "ajuste": -0.0013,
    "n": 5,
    "partidos": 3.8,
    "aciertos": 4,
-   "prometido": 0.743,
+   "prometido": 0.744,
    "cuota_implicita": 0.769
   },
   "Primeira Liga": {
-   "ajuste": 0.013,
+   "ajuste": 0.0121,
    "n": 1,
    "partidos": 1.0,
    "aciertos": 1,
-   "prometido": 0.645,
+   "prometido": 0.652,
    "cuota_implicita": 0.8
   },
   "Segunda": {
-   "ajuste": 0.0207,
+   "ajuste": 0.0194,
    "n": 2,
    "partidos": 1.0,
    "aciertos": 2,
-   "prometido": 0.722,
+   "prometido": 0.723,
    "cuota_implicita": 0.725
+  },
+  "DFB-Pokal": {
+   "ajuste": 0.0181,
+   "n": 1,
+   "partidos": 1.0,
+   "aciertos": 1,
+   "prometido": 0.614,
+   "cuota_implicita": 0.794
   }
  },
  "cuotas": {
   "≤1,35": {
-   "ajuste": 0.0011,
-   "n": 43,
-   "partidos": 18.8,
-   "aciertos": 28,
-   "prometido": 0.763,
-   "cuota_implicita": 0.776
+   "ajuste": 0.0079,
+   "n": 48,
+   "partidos": 20.6,
+   "aciertos": 33,
+   "prometido": 0.758,
+   "cuota_implicita": 0.775
   },
   "1,36-1,60": {
-   "ajuste": 0.0194,
-   "n": 32,
-   "partidos": 11.3,
-   "aciertos": 19,
-   "prometido": 0.706,
-   "cuota_implicita": 0.703
+   "ajuste": 0.0085,
+   "n": 35,
+   "partidos": 12.4,
+   "aciertos": 21,
+   "prometido": 0.703,
+   "cuota_implicita": 0.704
   },
   ">1,60": {
-   "ajuste": -0.0658,
-   "n": 15,
-   "partidos": 4.6,
-   "aciertos": 6,
-   "prometido": 0.696,
-   "cuota_implicita": 0.587
+   "ajuste": -0.0518,
+   "n": 17,
+   "partidos": 5.1,
+   "aciertos": 8,
+   "prometido": 0.69,
+   "cuota_implicita": 0.58
   }
  },
  "senales": {
   "sin otras casas": {
-   "ajuste": -0.0164,
-   "n": 85,
-   "partidos": 32.9,
-   "aciertos": 50,
-   "prometido": 0.733,
+   "ajuste": -0.0253,
+   "n": 90,
+   "partidos": 34.2,
+   "aciertos": 54,
+   "prometido": 0.73,
    "cuota_implicita": 0.719
   },
   "igual que el resto": {
-   "ajuste": -0.0049,
-   "n": 2,
-   "partidos": 0.6,
-   "aciertos": 1,
-   "prometido": 0.724,
-   "cuota_implicita": 0.722
+   "ajuste": 0.0193,
+   "n": 5,
+   "partidos": 2.1,
+   "aciertos": 4,
+   "prometido": 0.694,
+   "cuota_implicita": 0.747
   },
   "bet365 paga más": {
-   "ajuste": 0.0112,
-   "n": 3,
-   "partidos": 1.2,
-   "aciertos": 2,
-   "prometido": 0.695,
-   "cuota_implicita": 0.696
+   "ajuste": 0.014,
+   "n": 4,
+   "partidos": 1.5,
+   "aciertos": 3,
+   "prometido": 0.726,
+   "cuota_implicita": 0.699
+  },
+  "bet365 paga menos": {
+   "ajuste": 0.01,
+   "n": 1,
+   "partidos": 0.3,
+   "aciertos": 1,
+   "prometido": 0.639,
+   "cuota_implicita": 0.465
   }
  }
 }

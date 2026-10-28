@@ -1,7 +1,7 @@
 # Burnley – Portsmouth
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_
@@ -187,25 +187,25 @@ _Sin bajas comunicadas por ahora._
 | O. Bailey | M | 8 | 155 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,26 · visitante 1,45 · córners esperados 9,6._
+_Goles esperados: local 1,26 · visitante 1,46 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 26% | 34% | 3.50 | +18% |
+| 1X2: 2 | 42% | 26% | 34% | 3.50 | +19% |
 | 1X2: X | 26% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 | 33% | 47% | 40% | 1.95 | -22% |
+| 1X2: 1 | 33% | 47% | 40% | 1.95 | -23% |
 | Doble oportunidad: X2 | 67% | 53% | 60% | 1.80 | +8% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 58% | 74% | 66% | 1.28 | -15% |
 | Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
 | Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
 | Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -4% |
-| Goles más/menos: Más de 2.5 | 51% | 50% | 51% | 1.91 | -4% |
+| Goles más/menos: Más de 2.5 | 51% | 50% | 51% | 1.91 | -3% |
 | Goles más/menos: Más de 3.5 | 29% | 28% | 29% | 3.40 | -3% |
 | Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles más/menos: Menos de 2.5 | 49% | 50% | 49% | 1.91 | -5% |
+| Goles más/menos: Menos de 2.5 | 49% | 50% | 49% | 1.91 | -6% |
 | Goles más/menos: Menos de 3.5 | 71% | 72% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
@@ -214,16 +214,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 72% | 78% | 75% | 1.20 | -10% |
 | Goles del local: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
 | Goles del local: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles del local: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +8% |
+| Goles del local: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +9% |
 | Goles del local: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
 | Goles del local: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 0.5 | 77% | 66% | 71% | 1.40 | -0% |
+| Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
 | Goles del visitante: Más de 1.5 | 43% | 31% | 37% | 3.00 | +11% |
-| Goles del visitante: Menos de 0.5 | 23% | 34% | 29% | 2.75 | -21% |
+| Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
 | Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -14% |
 | Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -12% |
 | Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -5% |
-| 1X2 descanso: 2 | 31% | 23% | 27% | 4.00 | +9% |
+| 1X2 descanso: 2 | 32% | 23% | 27% | 4.00 | +9% |
 | 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -7% |
 | 1X2 descanso: 1 | 26% | 35% | 31% | 2.62 | -20% |
 

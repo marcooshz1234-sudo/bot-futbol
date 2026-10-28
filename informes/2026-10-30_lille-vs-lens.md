@@ -1,10 +1,10 @@
 # Lille – Lens
 **Ligue 1** · Regular Season - 9 · 30/10/2026 21:05 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 26/10 19:53_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **2.30**  ·  X **3.60**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -195,7 +195,7 @@ _Goles esperados: local 1,59 · visitante 1,53 · córners esperados 9,3._
 | 1X2: 2 | 37% | 34% | 35% | 2.75 | -3% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -11% |
 | 1X2: 1 | 39% | 40% | 40% | 2.30 | -8% |
-| Doble oportunidad: X2 | 61% | 60% | 60% | 1.57 | -6% |
+| Doble oportunidad: X2 | 61% | 60% | 60% | 1.57 | -5% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 63% | 67% | 65% | 1.40 | -9% |
 | Ambos marcan: No | 38% | 41% | 39% | 2.25 | -11% |
@@ -209,9 +209,9 @@ _Goles esperados: local 1,59 · visitante 1,53 · córners esperados 9,3._
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |
+| Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
 | Goles del local: Más de 2.5 | 21% | 22% | 22% | 4.33 | -7% |
 | Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles del local: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
@@ -223,7 +223,7 @@ _Goles esperados: local 1,59 · visitante 1,53 · córners esperados 9,3._
 | Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
 | 1X2 descanso: 2 | 30% | 28% | 29% | 3.25 | -6% |
-| 1X2 descanso: X | 39% | 40% | 39% | 2.30 | -9% |
-| 1X2 descanso: 1 | 31% | 32% | 32% | 2.88 | -9% |
+| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
+| 1X2 descanso: 1 | 31% | 32% | 31% | 2.88 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

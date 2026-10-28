@@ -1,10 +1,10 @@
 # MVV – Excelsior
 **KNVB Beker** · Round of 64 · 28/10/2026 20:00 (hora España) · De Geusselt
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 19:50_
+_Actualizadas: 28/10 02:03_
 
 - **1X2:** 1 **5.75**  ·  X **4.33**  ·  2 **1.40**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.18**  ·  X2 **1.12**
@@ -33,6 +33,7 @@ _Actualizadas: 27/10 19:50_
     - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.75**  ·  2 **1.83**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -46,6 +47,7 @@ _Actualizadas: 27/10 19:50_
 - **Win Both Halves:** 1 **23.00**  ·  2 **3.25**
 - **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.50**  ·  Home/No **15.00**  ·  Draw/No **23.00**  ·  Away/No **3.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.75**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
 
 ## Estadísticas de equipo
 | | MVV (total) | MVV en casa | Excelsior (total) | Excelsior fuera |

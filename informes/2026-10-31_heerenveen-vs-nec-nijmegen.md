@@ -1,7 +1,7 @@
 # Heerenveen – NEC Nijmegen
 **Eredivisie** · Regular Season - 11 · 31/10/2026 18:45 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -192,46 +192,46 @@ _Sin bajas comunicadas por ahora._
 | Almugera Raouf Mohammed Kabar | D | 8 | 320 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 8 | 1,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 1,17 · córners esperados 9,0._
+_Goles esperados: local 1,96 · visitante 1,18 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 31% | 27% | 3.00 | -20% |
+| 1X2: 2 | 23% | 31% | 27% | 3.00 | -19% |
 | 1X2: X | 22% | 24% | 23% | 3.90 | -11% |
-| 1X2: 1 | 56% | 45% | 50% | 2.10 | +6% |
+| 1X2: 1 | 56% | 45% | 50% | 2.10 | +5% |
 | Doble oportunidad: X2 | 44% | 50% | 47% | 1.91 | -10% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -3% |
-| Doble oportunidad: 1X | 78% | 74% | 76% | 1.30 | -2% |
+| Doble oportunidad: 1X | 77% | 74% | 76% | 1.30 | -2% |
 | Ambos marcan: No | 41% | 29% | 35% | 3.25 | +13% |
 | Ambos marcan: Sí | 59% | 71% | 65% | 1.33 | -13% |
 | Goles más/menos: Más de 2.5 | 61% | 70% | 65% | 1.36 | -11% |
-| Goles más/menos: Más de 3.5 | 39% | 50% | 44% | 1.83 | -19% |
+| Goles más/menos: Más de 3.5 | 38% | 50% | 44% | 1.83 | -19% |
 | Goles más/menos: Más de 4.5 | 21% | 31% | 26% | 3.00 | -22% |
 | Goles más/menos: Menos de 2.5 | 39% | 30% | 35% | 3.10 | +8% |
-| Goles más/menos: Menos de 3.5 | 61% | 50% | 56% | 1.83 | +2% |
-| Goles más/menos: Menos de 4.5 | 79% | 69% | 74% | 1.36 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
+| Goles más/menos: Menos de 3.5 | 62% | 50% | 56% | 1.83 | +2% |
+| Goles más/menos: Menos de 4.5 | 79% | 69% | 74% | 1.36 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 16% | 23% | 20% | 4.00 | -22% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del local: Más de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
-| Goles del local: Más de 2.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
-| Goles del local: Menos de 2.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 0.5 | 69% | 79% | 74% | 1.18 | -13% |
+| Goles del local: Más de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles del local: Más de 2.5 | 31% | 34% | 33% | 2.75 | -10% |
+| Goles del local: Menos de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles del local: Menos de 2.5 | 69% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 0.5 | 69% | 79% | 74% | 1.18 | -12% |
 | Goles del visitante: Más de 1.5 | 33% | 50% | 41% | 1.83 | -24% |
-| Goles del visitante: Más de 2.5 | 11% | 25% | 18% | 3.75 | -32% |
-| Goles del visitante: Menos de 0.5 | 31% | 21% | 26% | 4.50 | +17% |
+| Goles del visitante: Más de 2.5 | 12% | 25% | 18% | 3.75 | -31% |
+| Goles del visitante: Menos de 0.5 | 31% | 21% | 26% | 4.50 | +16% |
 | Goles del visitante: Menos de 1.5 | 67% | 50% | 59% | 1.83 | +7% |
-| Goles del visitante: Menos de 2.5 | 89% | 75% | 82% | 1.25 | +2% |
+| Goles del visitante: Menos de 2.5 | 88% | 75% | 82% | 1.25 | +2% |
 | Córners más/menos: Más de 10.5 | 33% | 46% | 40% | 2.00 | -21% |
-| Córners más/menos: Menos de 10.5 | 67% | 54% | 60% | 1.73 | +5% |
-| 1X2 descanso: 2 | 20% | 28% | 24% | 3.25 | -21% |
-| 1X2 descanso: X | 38% | 35% | 36% | 2.62 | -4% |
-| 1X2 descanso: 1 | 42% | 37% | 39% | 2.50 | -2% |
+| Córners más/menos: Menos de 10.5 | 67% | 54% | 60% | 1.73 | +4% |
+| 1X2 descanso: 2 | 21% | 28% | 24% | 3.25 | -21% |
+| 1X2 descanso: X | 38% | 35% | 37% | 2.62 | -4% |
+| 1X2 descanso: 1 | 41% | 37% | 39% | 2.50 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

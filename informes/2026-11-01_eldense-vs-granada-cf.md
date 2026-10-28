@@ -1,7 +1,7 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 07:50_
@@ -184,16 +184,16 @@ _Sin bajas comunicadas por ahora._
 | Ángelo García Hidalgo | M | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,38 · córners esperados 9,7._
+_Goles esperados: local 1,19 · visitante 1,38 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 30% | 35% | 3.10 | +10% |
+| 1X2: 2 | 41% | 30% | 36% | 3.10 | +10% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -10% |
-| 1X2: 1 | 33% | 42% | 37% | 2.20 | -18% |
-| Doble oportunidad: X2 | 67% | 57% | 62% | 1.67 | +4% |
+| 1X2: 1 | 32% | 42% | 37% | 2.20 | -18% |
+| Doble oportunidad: X2 | 68% | 57% | 63% | 1.67 | +4% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 59% | 70% | 65% | 1.36 | -12% |
 | Ambos marcan: No | 48% | 46% | 47% | 2.00 | -6% |
@@ -216,12 +216,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Goles del visitante: Más de 0.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del visitante: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles del visitante: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -15% |
-| Goles del visitante: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles del visitante: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -16% |
+| Goles del visitante: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -11% |
 | Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -0% |
 | 1X2 descanso: 2 | 31% | 25% | 28% | 3.75 | +4% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 26% | 34% | 30% | 2.75 | -19% |
+| 1X2 descanso: 1 | 25% | 34% | 29% | 2.75 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
