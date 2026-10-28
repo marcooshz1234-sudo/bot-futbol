@@ -17,6 +17,6 @@ jobs:
       - env:
           GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
         run: |
-          python -u gifs_analisis.py
+          python -u gifs.py --muestra
           git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
-          git add datos/gifs_analisis.json && git commit -q -m "Análisis de GIF votados" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done
+          git add datos/gifs_auto.md && git commit -q -m "GIF de muestra (elegidos solos)" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done

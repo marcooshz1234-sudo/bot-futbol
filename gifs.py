@@ -67,6 +67,67 @@ MOMENTOS = {   # clave: (nombre en el bot, búsquedas en GIPHY, textos)
 }
 
 
+# ------------------------------------------------------------------ elección automática (28/10)
+# Lo que le gustó a Marcos: GIF de canales verificados de fútbol (DAZN, Liverpool, Chelsea, Play Sports, Eleven…).
+# Lo que no: dibujos, series, gente bailando, solo letras. Se busca «@canal emoción» en canales de fútbol y se filtra.
+CANALES = ["dazn", "lfc", "chelseafc", "playsports", "ElevenSportsBE", "premierleague", "laliga", "seriea",
+           "bundesliga", "championsleague", "uefa", "fifaworldcup", "realmadrid", "fcbarcelona", "mancity",
+           "manchesterunited", "arsenal", "spurs", "juventus", "acmilan", "inter", "psg", "bvb", "fcbayern",
+           "atleticodemadrid", "sevillafc", "realbetis", "athleticclub", "valenciacf", "villarrealcf", "onefootball",
+           "433", "brfootball", "espnfc", "goal", "skysports", "beinsports", "eurosport", "mls", "ligue1"]
+EMOCION = {
+    "verde": ["celebration", "goal celebration", "lets go", "happy", "yes", "winner", "fist pump", "dance"],
+    "racha": ["fire", "on fire", "unstoppable", "legend", "goat", "hat trick", "magic"],
+    "loca": ["crazy", "wild", "mind blown", "wow", "madness", "omg", "crazy celebration", "shocked"],
+    "boleto": ["pray", "nervous", "money", "hope", "please", "fingers crossed", "come on"],
+    "escalera": ["training", "keep going", "focus", "work", "warm up", "lets go"],
+    "escalera_alta": ["nervous", "tension", "so close", "pressure", "focus", "come on"],
+    "combi": ["lets go", "ready", "hype", "fire", "kick off", "come on"],
+    "fiesta": ["party", "celebration", "dance", "dressing room", "champagne", "trophy"],
+    "noche": ["tired", "sleep", "bye", "night", "rest", "wave"],
+    "previa": ["nervous", "walk out", "tunnel", "kick off", "anthem", "warm up", "stadium"],
+    "partidazo": ["stadium", "walk out", "anthem", "big game", "derby", "tunnel", "fans"],
+    "lunes": ["tired", "monday", "training", "coffee", "morning"],
+    "viernes": ["happy", "dance", "weekend", "friday", "party"],
+    "europa": ["champions league", "anthem", "stadium", "night", "lets go"],
+    "finde": ["fans", "weekend", "party", "cheers", "singing"],
+    "seguidores": ["thank you", "fans", "applause", "celebration", "clapping"],
+}
+VETO = re.compile(r"cartoon|animat|anime|illustrat|drawing|spongebob|simpson|disney|text|typography|lettering|quote|"
+                  r"sticker|brazil|brasil|flag|bandera|women|womens|woman|girl|nwsl|\bwsl\b|frauen|femeni|liga f|"
+                  r"bikini|sexy|hot\b|kiss", re.I)
+
+
+def valido(g):
+    """GIF de un canal verificado de fútbol, que no sea dibujo, solo letras, bandera ni de fútbol femenino."""
+    usuario = (g.get("username") or "").lower()
+    if g.get("type") != "gif" or not (g.get("user") or {}).get("is_verified"):
+        return False
+    if usuario not in {c.lower() for c in CANALES}:
+        return False
+    texto = " ".join(str(g.get(k) or "") for k in ("title", "alt_text", "slug"))
+    return not VETO.search(texto)
+
+
+def auto(clave, momento, usados=(), vetados=(), rnd=random, intentos=8):
+    """(giphy_id, url) elegido solo: «@canal emoción» en canales de fútbol, filtrado. None si no encuentra."""
+    for _ in range(intentos):
+        canal, emo = rnd.choice(CANALES), rnd.choice(EMOCION[momento])
+        q = urlencode({"api_key": clave, "q": f"@{canal} {emo}", "limit": 25, "rating": "g"})
+        try:
+            with urlopen(f"https://api.giphy.com/v1/gifs/search?{q}", timeout=20) as r:
+                datos = json.load(r).get("data") or []
+        except Exception as e:
+            print("giphy:", str(e)[:100])
+            continue
+        buenos = [g for g in datos if valido(g) and g["id"] not in usados and g["id"] not in vetados]
+        if buenos:
+            g = rnd.choice(buenos[:12])
+            img = g.get("images") or {}
+            return g["id"], (img.get("downsized_medium") or img.get("original") or {}).get("url")
+    return None
+
+
 # ------------------------------------------------------------------ GIPHY (candidatos para votar)
 def buscar(clave, termino, offset=0, limite=25):
     q = urlencode({"api_key": clave, "q": termino, "limit": limite, "offset": offset, "rating": "g", "lang": "es"})
@@ -214,6 +275,23 @@ def elegir(votos, momento, est, rnd=random):
     return rnd.choice(nunca or libres)
 
 
+def muestra_auto(n=10):
+    """n GIF elegidos solos de cada momento → datos/gifs_auto.md para que Marcos los vea (no publica nada)."""
+    clave = os.environ.get("GIPHY_API_KEY")
+    md = ["# GIF que elegiría el bot solo (no se ha publicado nada)", ""]
+    for k, (nombre, _, _) in MOMENTOS.items():
+        vistos, fila = set(), []
+        for _ in range(n * 2):
+            r = auto(clave, k, vistos)
+            if r and r[1]:
+                vistos.add(r[0])
+                fila.append(r[1])
+            if len(fila) >= n:
+                break
+        md += [f"## {nombre} · {len(fila)}", "", " ".join(f'<img src="{u}" height="110">' for u in fila), ""]
+    (DATOS / "gifs_auto.md").write_text("\n".join(md), encoding="utf-8")
+
+
 def main(ahora=None, enviar=None, rnd=random):
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
     if not (token and canal) or not ACTIVO:
@@ -232,8 +310,14 @@ def main(ahora=None, enviar=None, rnd=random):
             break
         est.setdefault("hechos", []).append(k)
         g = elegir(votos, momento, est, rnd)
+        clave = os.environ.get("GIPHY_API_KEY")
+        if clave and (not g or rnd.random() < 0.5):   # 28/10: el bot elige solo (como los que gustaron a Marcos)
+            usados = {x.get("gif") for x in est.get("enviados", [])}
+            r = auto(clave, momento, usados, set(votos.get("no", [])), rnd)
+            if r and r[1]:
+                g = {"giphy": r[0], "file_id": r[1]}
         if not g:
-            print(f"GIF {momento}: no hay ninguno aprobado")
+            print(f"GIF {momento}: no hay ninguno")
             continue
         texto = extra or rnd.choice(MOMENTOS[momento][2])
         try:
@@ -252,4 +336,5 @@ def main(ahora=None, enviar=None, rnd=random):
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    muestra_auto() if "--muestra" in sys.argv else main()

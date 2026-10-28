@@ -56,6 +56,14 @@ class Gifs(unittest.TestCase):
         self.assertEqual(gifs.elegir(v, "verde", est)["giphy"], "g2")
         self.assertIsNone(gifs.elegir(v, "loca", est))
 
+    def test_filtro_como_marcos(self):
+        ok = {"type": "gif", "username": "dazn", "user": {"is_verified": True}, "title": "Happy Lets Go GIF by DAZN"}
+        self.assertTrue(gifs.valido(ok))
+        self.assertFalse(gifs.valido(dict(ok, username="spongebob")))
+        self.assertFalse(gifs.valido(dict(ok, title="Brazil Flag GIF by DAZN")))
+        self.assertFalse(gifs.valido(dict(ok, title="Womens Football GIF by DAZN")))
+        self.assertFalse(gifs.valido(dict(ok, user={"is_verified": False})))
+
     def test_apagado_no_hace_nada(self):
         with patch.object(gifs, "ACTIVO", False), patch.dict("os.environ", {"TELEGRAM_TOKEN": "x", "TELEGRAM_CANAL": "y"}):
             gifs.main(enviar=lambda *a: self.fail("no debe enviar"))
