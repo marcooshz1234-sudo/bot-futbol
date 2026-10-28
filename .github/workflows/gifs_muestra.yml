@@ -1,0 +1,22 @@
+name: GIF de muestra (no publica nada)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/gifs_muestra.yml']
+permissions:
+  contents: write
+jobs:
+  muestra:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - env:
+          GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
+        run: |
+          python -u gifs.py --muestra
+          git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
+          git add datos/gifs_muestra.json && git commit -q -m "GIF de muestra" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done

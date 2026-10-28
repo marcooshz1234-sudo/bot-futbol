@@ -19,6 +19,7 @@ from urllib.request import urlopen
 from bot import DATOS, MADRID, RAIZ, leer
 
 ESTADO = DATOS / "gifs.json"
+ACTIVO = False   # 28/10: no sale ningún GIF al canal hasta que Marcos vea las muestras y diga que sí
 MAX_DIA = 4
 BUSQUEDAS = {
     "verde": ["football celebration", "celebration dance", "lets go celebration", "money rain", "winner celebration"],
@@ -116,7 +117,7 @@ def main(ahora=None, enviar=None, rnd=random):
     auto = leer(RAIZ / "publicaciones" / "auto.json", []) or []
     env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
     app = leer(RAIZ / "docs" / "datos.json", {}) or {}
-    if (leer(RAIZ / "publicaciones" / "control.json", {}) or {}).get("pausa"):
+    if (leer(RAIZ / "publicaciones" / "control.json", {}) or {}).get("pausa") or not ACTIVO:
         return
     for k, tipo, terminos, texto in momentos(ahora, cola, auto, env, app, est)[:1]:   # uno por vuelta
         if not puede(ahora, est, cola, env):
@@ -139,5 +140,22 @@ def main(ahora=None, enviar=None, rnd=random):
     ESTADO.write_text(json.dumps(est, ensure_ascii=False), encoding="utf-8")
 
 
+def muestra():
+    """Busca 3 GIF de cada momento y los deja en datos/gifs_muestra.json (no publica nada)."""
+    clave = os.environ.get("GIPHY_API_KEY")
+    sal = {}
+    for tipo, b in BUSQUEDAS.items():
+        terminos = [t for v in b.values() for t in v] if isinstance(b, dict) else b
+        sal[tipo] = []
+        for t in terminos[:3]:
+            try:
+                sal[tipo].append({"busqueda": t, "url": buscar(clave, t)})
+            except Exception as e:
+                sal[tipo].append({"busqueda": t, "error": str(e)[:120]})
+    (DATOS / "gifs_muestra.json").write_text(json.dumps(sal, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(json.dumps(sal, ensure_ascii=False)[:2000])
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    muestra() if "--muestra" in sys.argv else main()
