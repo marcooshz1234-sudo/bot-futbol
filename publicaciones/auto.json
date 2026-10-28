@@ -354,7 +354,7 @@
   {
     "id": "2026-10-28-combi-partido-1550171",
     "fecha": "2026-10-28T18:55",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.73]\n✅ GENOA O EMPATE [x2.05]\n\n🔥 Resultado probable: 1-1 | 0-0 | 1-0\n💥 Cuota total aprox.: 8,15\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.73]\n✅ GENOA O EMPATE [x2.00]\n\n🔥 Resultado probable: 1-1 | 0-0 | 1-0\n💥 Cuota total aprox.: 8,03\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -368,7 +368,7 @@
       1.33,
       1.44,
       1.73,
-      2.05
+      2.0
     ],
     "tarjeta": {
       "local": "Genoa",
@@ -379,7 +379,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/496.png",
       "fecha": "2026-10-28T20:45",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-10-28T17:25"
   },
   {
     "id": "2026-10-28-combi-partido-1550172",
