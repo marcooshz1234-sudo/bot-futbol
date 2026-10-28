@@ -1,7 +1,7 @@
 # Oviedo – Las Palmas
 **Segunda División** · Regular Season - 12 · 02/11/2026 16:15 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_

@@ -1,7 +1,7 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_

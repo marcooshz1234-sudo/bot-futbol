@@ -1,10 +1,10 @@
 # Fiorentina – Atalanta
 **Serie A** · Regular Season - 9 · 29/10/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:03_
+_Actualizadas: 28/10 14:01_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -32,7 +32,7 @@ _Actualizadas: 28/10 02:03_
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.02** · menos **1.78**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.80** · menos **1.91**
+    - 3,5: más **1.62** · menos **2.20**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.40**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -50,7 +50,7 @@ _Actualizadas: 28/10 02:03_
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 - **Home Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
@@ -60,7 +60,7 @@ _Actualizadas: 28/10 02:03_
 - **ShotOnTarget 1x2:** 1 **1.95**  ·  X **7.50**  ·  2 **2.20**
 - **Total Shots:**
     - 28,5: más **1.80** · menos **1.91**
-- **Shots.1x2:** 1 **1.57**  ·  X **15.00**  ·  2 **2.40**
+- **Shots.1x2:** 1 **1.62**  ·  X **15.00**  ·  2 **2.30**
 - **Home Player Shots On Target Total:** Pedro Goncalves - 1 **1.44**  ·  Pedro Goncalves - 2 **3.25**  ·  Pedro Goncalves - 3 **9.00**  ·  Pedro Goncalves - 4 **21.00**  ·  Degnand Gnonto - 1 **1.67**  ·  Degnand Gnonto - 2 **4.33**  ·  Degnand Gnonto - 3 **15.00**  ·  Degnand Gnonto - 4 **21.00**  ·  Beto - 1 **1.30**  ·  Beto - 2 **2.50**  ·  Beto - 3 **6.00**  ·  Beto - 4 **17.00**  ·  Mateo Pellegrino - 1 **1.44**  ·  Arthur Atta - 1 **1.67**  ·  Federico Croci - 1 **1.73**  ·  Franco Mastantuono - 1 **1.40**  ·  Marco Brescianini - 1 **3.40**  ·  Cher Ndour - 1 **2.75**  ·  Nicolo Fagioli - 1 **2.75**  ·  Christ Oulai - 1 **3.50**  ·  Alejandro Jimenez - 1 **4.00**  ·  Dodo dos Santos - 1 **6.50**  ·  Luca Ranieri - 1 **8.00**  ·  Viery Lopes - 1 **4.50**  ·  Victor Valdepenas - 1 **6.50**  ·  Marin Pongracic - 1 **9.00**  ·  Radu Dragusin - 1 **5.50**  ·  Mateo Pellegrino - 2 **3.25**  ·  Arthur Atta - 2 **4.33**  ·  Federico Croci - 2 **4.50**  ·  Franco Mastantuono - 2 **2.75**  ·  Marco Brescianini - 2 **17.00**  ·  Cher Ndour - 2 **13.00**  ·  Nicolo Fagioli - 2 **13.00**  ·  Christ Oulai - 2 **19.00**  ·  Alejandro Jimenez - 2 **21.00**  ·  Dodo dos Santos - 2 **15.00**  ·  Luca Ranieri - 2 **21.00**  ·  Viery Lopes - 2 **21.00**  ·  Victor Valdepenas - 2 **19.00**  ·  Radu Dragusin - 2 **21.00**  ·  Mateo Pellegrino - 3 **9.00**  ·  Arthur Atta - 3 **15.00**  ·  Federico Croci - 3 **17.00**  ·  Franco Mastantuono - 3 **7.00**  ·  Mateo Pellegrino - 4 **21.00**  ·  Arthur Atta - 4 **21.00**  ·  Franco Mastantuono - 4 **21.00**  ·  Mateo Pellegrino - 5 **21.00**  ·  Franco Mastantuono - 5 **19.00**  ·  Alieu Njie - 1 **1.80**  ·  Alieu Njie - 2 **5.50**  ·  Alieu Njie - 3 **19.00**  ·  Antonio Pirro - 1 **1.44**  ·  Brando Mazzeo - 1 **1.80**  ·  Antonio Pirro - 2 **3.25**  ·  Brando Mazzeo - 2 **5.00**  ·  Antonio Pirro - 3 **9.00**  ·  Brando Mazzeo - 3 **17.00**  ·  Antonio Pirro - 4 **21.00**  ·  Arnis Ademi - 1 **3.75**  ·  Arnis Ademi - 2 **21.00**  ·  Neto Joao Mario - 1 **4.00**  ·  Neto Joao Mario - 2 **21.00**
 - **Away Player Shots On Target Total:** Dodo dos Santos **81.00**  ·  Javison Idele **26.00**  ·  Giacomo Raspadori **15.00**  ·  Nicolo Fagioli **51.00**  ·  Franck Kessie **41.00**  ·  Christ Oulai **51.00**  ·  Degnand Gnonto **21.00**  ·  Franco Mastantuono **26.00**  ·  Mateo Pellegrino **7.50**  ·  Joao Mario **51.00**  ·  Cher Ndour **34.00**  ·  Giorgio Scalvini **17.00**  ·  Victor Valdepenas **17.00**  ·  Jacopo Mirra **19.00**  ·  Pedro Goncalves **26.00**  ·  Matteo Plaia **19.00**  ·  Antonio Pirro **34.00**  ·  Federico Croci **34.00**  ·  Brando Mazzeo **13.00**  ·  Arnis Ademi **29.00**  ·  Digne Pounga **41.00**  ·  Jonathan Rowe **23.00**  ·  Radu Dragusin **15.00**  ·  Luca Ranieri **17.00**  ·  Marin Pongracic **23.00**  ·  Alejandro Jimenez **51.00**  ·  Nicola Zalewski **34.00**  ·  Eljif Elmas **34.00**  ·  Gianluca Gaetano **51.00**  ·  Alieu Njie **19.00**  ·  Beto **7.00**  ·  Charles De Ketelaere **10.00**  ·  Davide Zappacosta **81.00**  ·  Lazar Samardzic **41.00**  ·  Mario Pasalic **26.00**  ·  Raoul Bellanova **29.00**  ·  Sead Kolasinac **41.00**  ·  Marco Brescianini **34.00**  ·  Lorenzo Bernasconi **29.00**  ·  Ederson Silva **51.00**  ·  Kamaldeen Sulemana **29.00**  ·  Arthur Atta **29.00**  ·  Nikola Krstovic **8.50**  ·  Thomas Kristensen **19.00**  ·  Gianluca Scamacca **10.00**  ·  Relja Obric **15.00**  ·  Viery Lopes **17.00**
 - **Away Player Shots Total:**
@@ -127,8 +127,8 @@ _Actualizadas: 28/10 02:03_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Fiorentina:** F. Parisi (baja, Knee Injury); R. Sottil (baja, Back Injury); A. Atta (duda, Abdominal strain); M. Pongracic (duda, Muscle Injury); L. Ranieri (duda, Leg Injury); F. Parisi (baja, Knee Injury); R. Sottil (baja, Back Injury); A. Atta (duda, Abdominal strain); M. Pongracic (duda, Muscle Injury); L. Ranieri (duda, Leg Injury)
-**Atalanta:** I. Hien (baja, Muscle Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); R. Bellanova (duda, Muscle Injury); F. Kessie (duda, Calf Injury); G. Scalvini (duda, Thigh Injury); K. Sulemana (duda, Knee Injury); I. Hien (baja, Muscle Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); R. Bellanova (duda, Muscle Injury); F. Kessie (duda, Calf Injury); G. Scalvini (duda, Thigh Injury); K. Sulemana (duda, Knee Injury)
+**Fiorentina:** A. Atta (baja, Abdominal strain); F. Parisi (baja, Knee Injury); M. Pongracic (baja, Muscle Injury); R. Sottil (baja, Back Injury); L. Ranieri (duda, Leg Injury); A. Atta (baja, Abdominal strain); F. Parisi (baja, Knee Injury); M. Pongracic (baja, Muscle Injury); R. Sottil (baja, Back Injury); L. Ranieri (duda, Leg Injury)
+**Atalanta:** R. Bellanova (baja, Muscle Injury); I. Hien (baja, Muscle Injury); F. Kessie (baja, Calf Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); G. Scamacca (baja, Thigh Injury); G. Scalvini (duda, Thigh Injury); K. Sulemana (duda, Knee Injury); R. Bellanova (baja, Muscle Injury); I. Hien (baja, Muscle Injury); F. Kessie (baja, Calf Injury); S. Kolasinac (baja, Thigh Injury); O. Kossounou (baja, Thigh Injury); G. Raspadori (baja, Thigh Injury); G. Scamacca (baja, Thigh Injury); G. Scalvini (duda, Thigh Injury); K. Sulemana (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-22 · Serie A: Fiorentina 1-1 Atalanta

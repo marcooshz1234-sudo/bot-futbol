@@ -1,12 +1,12 @@
 # Dynamo Dresden – FC Schalke 04
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Rudolf-Harbig Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:02_
+_Actualizadas: 28/10 14:00_
 
-- **1X2:** 1 **3.50**  ·  X **3.50**  ·  2 **2.05**
+- **1X2:** 1 **3.30**  ·  X **3.50**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -29,11 +29,11 @@ _Actualizadas: 28/10 02:02_
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.38**  ·  2 **2.60**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.38**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
@@ -48,7 +48,7 @@ _Actualizadas: 28/10 02:02_
 - **Away Corners Over/Under:**
     - 5,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
-- **Anytime Goal Scorer:** Till Neininger **11.00**  ·  Mertcan Ayhan **11.00**  ·  Edin Dzeko **2.20**  ·  Nikola Katic **11.00**  ·  Maximilian Wober **11.00**  ·  Christoph Daferner **2.62**  ·  Soufiane El-Faouzi **6.00**  ·  Nils Froling **3.40**  ·  Jakob Lemmer **4.00**  ·  Lukas Boeder **11.00**  ·  Niklas Hauptmann **5.50**  ·  Alexander Rossipal **9.00**  ·  Satoshi Tanaka **6.00**  ·  Hasan Kurucay **9.00**  ·  Ben Bobzien **1.83**  ·  Simon Straudi **7.50**  ·  Vincent Vermeij **3.10**  ·  Nicolai Rapp **6.00**  ·  Luca Herrmann **8.00**  ·  Tobias Raschl **6.00**  ·  Luca Vozar **5.00**  ·  Kenan Karaman **2.20**  ·  Moussa Sylla **2.50**  ·  Janik Bachmann **5.00**  ·  Ron Schallenberg **6.50**  ·  Max Gruger **6.00**  ·  Adrian Gantenbein **6.50**  ·  Anton Donkor **9.00**  ·  Vitalie Becker **6.00**  ·  Brooklyn Ezeh **13.00**  ·  Friedrich Muller **8.00**  ·  Kennedy Okpala **3.40**  ·  Adil Aouchiche **3.00**  ·  Ahmet Muhamedbegovic **13.00**  ·  Kaan Inanoglu **2.62**  ·  Quentin Enold **4.00**  ·  Robin Gosens **5.00**  ·  Eric Ebimbe **4.33**  ·  Thomas Keller **11.00**  ·  Robert Wagner **6.00**  ·  Hee-Chan Hwang **2.75**  ·  Timo Becker **6.00**  ·  Jonas Sterner **6.00**  ·  Chukwubuike Adamu **2.50**  ·  Patrice Covic **5.00**
+- **Anytime Goal Scorer:** Till Neininger **11.00**  ·  Mertcan Ayhan **11.00**  ·  Edin Dzeko **2.20**  ·  Nikola Katic **11.00**  ·  Maximilian Wober **11.00**  ·  Christoph Daferner **2.62**  ·  Soufiane El-Faouzi **6.00**  ·  Nils Froling **3.20**  ·  Jakob Lemmer **4.00**  ·  Lukas Boeder **11.00**  ·  Niklas Hauptmann **5.50**  ·  Alexander Rossipal **9.00**  ·  Satoshi Tanaka **6.00**  ·  Hasan Kurucay **9.00**  ·  Ben Bobzien **1.83**  ·  Simon Straudi **6.50**  ·  Vincent Vermeij **2.88**  ·  Nicolai Rapp **6.00**  ·  Luca Herrmann **8.00**  ·  Tobias Raschl **6.00**  ·  Luca Vozar **4.75**  ·  Kenan Karaman **2.20**  ·  Moussa Sylla **2.50**  ·  Janik Bachmann **4.75**  ·  Ron Schallenberg **6.50**  ·  Max Gruger **6.00**  ·  Adrian Gantenbein **6.50**  ·  Anton Donkor **9.00**  ·  Vitalie Becker **6.00**  ·  Brooklyn Ezeh **13.00**  ·  Friedrich Muller **8.00**  ·  Kennedy Okpala **3.20**  ·  Adil Aouchiche **3.10**  ·  Ahmet Muhamedbegovic **13.00**  ·  Kaan Inanoglu **2.62**  ·  Quentin Enold **4.00**  ·  Robin Gosens **4.75**  ·  Eric Ebimbe **4.33**  ·  Thomas Keller **11.00**  ·  Robert Wagner **6.00**  ·  Hee-Chan Hwang **2.75**  ·  Timo Becker **6.00**  ·  Jonas Sterner **6.00**  ·  Chukwubuike Adamu **2.50**  ·  Patrice Covic **4.75**
 
 ## Estadísticas de equipo
 | | Dynamo Dresden (total) | Dynamo Dresden en casa | FC Schalke 04 (total) | FC Schalke 04 fuera |

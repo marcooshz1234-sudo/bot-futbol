@@ -1,12 +1,12 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:03_
+_Actualizadas: 28/10 14:01_
 
-- **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **4.10**
+- **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -14,36 +14,69 @@ _Actualizadas: 28/10 02:03_
     - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.33** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
 - **Goles del local:**
     - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
+    - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.50**  ·  2 **4.33**
+- **Córners más/menos:**
+    - 10: más **1.90** · menos **1.90**
+    - 10,5: más **2.10** · menos **1.67**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **1.40**  ·  2 **2.25**
-- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.00**
-- **Win Both Halves:** 1 **5.00**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **17.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.20**
-- **Away Player Shots On Target Total:** Moises Caicedo **51.00**  ·  Jorrel Hato **23.00**  ·  Bruno Fernandes **41.00**  ·  Diogo Dalot **126.00**  ·  Lisandro Martinez **41.00**  ·  Shea Lacey **29.00**  ·  Andrey Santos **29.00**  ·  Matheus Cunha **26.00**  ·  Romeo Lavia **15.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **126.00**  ·  Valentin Barco **41.00**  ·  Geovany Quenda **34.00**  ·  Maxence Lacroix **12.00**  ·  Cole Palmer **15.00**  ·  Levi Colwill **17.00**  ·  Malo Gusto **51.00**  ·  Reece James **67.00**  ·  Wesley Fofana **13.00**  ·  Morgan Rogers **26.00**  ·  Youri Tielemans **81.00**  ·  Carlos Baleba **51.00**  ·  Danny Welbeck **8.00**  ·  Bryan Mbeumo **19.00**  ·  Harry Maguire **19.00**  ·  Joshua Zirkzee **21.00**  ·  Kobbie Mainoo **81.00**  ·  Luke Shaw **151.00**  ·  Marcus Rashford **34.00**  ·  Mason Mount **41.00**  ·  Matthijs de Ligt **21.00**  ·  Noussair Mazraoui **81.00**  ·  Estevao **26.00**  ·  Leny Yoro **29.00**  ·  Joao Pedro **9.00**  ·  Benjamin Sesko **8.50**  ·  Pedro Neto **29.00**  ·  Josh Acheampong **26.00**  ·  Marco Palestra **51.00**  ·  Ayden Heaven **26.00**  ·  Patrick Dorgu **21.00**  ·  Jamie Bynoe-Gittens **29.00**
-- **Anytime Goal Scorer:** Moises Caicedo **8.50**  ·  Jorrel Hato **9.50**  ·  Bruno Fernandes **3.75**  ·  Diogo Dalot **11.00**  ·  Lisandro Martinez **17.00**  ·  Shea Lacey **6.50**  ·  Andrey Santos **8.50**  ·  Matheus Cunha **3.75**  ·  Romeo Lavia **7.50**  ·  Pep Chavarria **8.50**  ·  Jordan Henderson **8.50**  ·  Valentin Barco **6.50**  ·  Geovany Quenda **4.00**  ·  Maxence Lacroix **9.50**  ·  Cole Palmer **2.30**  ·  Levi Colwill **9.50**  ·  Malo Gusto **9.50**  ·  Reece James **7.00**  ·  Wesley Fofana **9.50**  ·  Morgan Rogers **2.88**  ·  Youri Tielemans **8.50**  ·  Carlos Baleba **7.50**  ·  Danny Welbeck **2.30**  ·  Bryan Mbeumo **3.75**  ·  Harry Maguire **11.00**  ·  Joshua Zirkzee **3.75**  ·  Kobbie Mainoo **9.50**  ·  Luke Shaw **17.00**  ·  Marcus Rashford **4.00**  ·  Mason Mount **7.00**  ·  Matthijs de Ligt **11.00**  ·  Noussair Mazraoui **17.00**  ·  Estevao **2.88**  ·  Leny Yoro **17.00**  ·  Joao Pedro **2.10**  ·  Benjamin Sesko **2.88**  ·  Pedro Neto **3.50**  ·  Josh Acheampong **9.50**  ·  Marco Palestra **8.50**  ·  Ayden Heaven **13.00**  ·  Patrick Dorgu **5.00**  ·  Jamie Bynoe-Gittens **3.75**
-- **Player to Score or Assist:** Moises Caicedo **4.75**  ·  Jorrel Hato **4.33**  ·  Bruno Fernandes **2.20**  ·  Diogo Dalot **6.00**  ·  Lisandro Martinez **13.00**  ·  Shea Lacey **4.33**  ·  Andrey Santos **5.00**  ·  Matheus Cunha **2.60**  ·  Romeo Lavia **3.75**  ·  Pep Chavarria **3.75**  ·  Jordan Henderson **3.60**  ·  Valentin Barco **2.88**  ·  Geovany Quenda **2.10**  ·  Maxence Lacroix **6.00**  ·  Cole Palmer **1.67**  ·  Levi Colwill **6.00**  ·  Malo Gusto **3.60**  ·  Reece James **3.00**  ·  Wesley Fofana **6.50**  ·  Morgan Rogers **1.83**  ·  Youri Tielemans **4.75**  ·  Carlos Baleba **5.50**  ·  Danny Welbeck **1.95**  ·  Bryan Mbeumo **2.75**  ·  Harry Maguire **10.00**  ·  Joshua Zirkzee **3.20**  ·  Kobbie Mainoo **6.00**  ·  Luke Shaw **8.50**  ·  Marcus Rashford **2.75**  ·  Mason Mount **4.50**  ·  Matthijs de Ligt **8.00**  ·  Noussair Mazraoui **10.00**  ·  Estevao **1.91**  ·  Leny Yoro **11.00**  ·  Joao Pedro **1.67**  ·  Benjamin Sesko **2.60**  ·  Pedro Neto **2.20**  ·  Josh Acheampong **4.50**  ·  Marco Palestra **3.75**  ·  Ayden Heaven **11.00**  ·  Patrick Dorgu **4.00**  ·  Jamie Bynoe-Gittens **2.25**
+- **To Win Either Half:** 1 **1.40**  ·  2 **2.38**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.33**
+- **Win Both Halves:** 1 **4.50**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.33**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **17.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.20**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Home Team Total Cards:**
+    - 2,5: más **2.20** · menos **1.62**
+- **Away Team Total Cards:**
+    - 2,5: más **2.00** · menos **1.73**
+- **Total ShotOnGoal:**
+    - 9,5: más **2.00** · menos **1.73**
+- **ShotOnTarget 1x2:** 1 **1.57**  ·  X **7.50**  ·  2 **2.88**
+- **Total Shots:**
+    - 26,5: más **1.80** · menos **1.91**
+- **Shots.1x2:** 1 **1.40**  ·  X **15.00**  ·  2 **3.00**
+- **Offsides Total:**
+    - 2,5: más **1.67** · menos **2.10**
+- **Offsides Home Total:**
+    - 1,5: más **1.91** · menos **1.80**
+- **Offsides Away Total:**
+    - 1,5: más **2.50** · menos **1.50**
+- **Home Player Shots On Target Total:** Danny Welbeck - 1 **1.40**  ·  Estevao - 1 **1.44**  ·  Pedro Neto - 1 **1.73**  ·  Morgan Rogers - 1 **1.62**  ·  Geovany Quenda - 1 **2.20**  ·  Valentin Barco - 1 **2.20**  ·  Marco Palestra - 1 **3.00**  ·  Romeo Lavia - 1 **3.25**  ·  Maxence Lacroix - 1 **4.50**  ·  Malo Gusto - 1 **3.50**  ·  Josh Acheampong - 1 **4.50**  ·  Moises Caicedo - 1 **3.50**  ·  Jorrel Hato - 1 **4.00**  ·  Levi Colwill - 1 **3.75**  ·  Wesley Fofana - 1 **4.50**  ·  Danny Welbeck - 2 **3.00**  ·  Estevao - 2 **3.25**  ·  Pedro Neto - 2 **5.00**  ·  Morgan Rogers - 2 **4.00**  ·  Geovany Quenda - 2 **8.00**  ·  Valentin Barco - 2 **8.00**  ·  Marco Palestra - 2 **13.00**  ·  Romeo Lavia - 2 **15.00**  ·  Maxence Lacroix - 2 **21.00**  ·  Malo Gusto - 2 **19.00**  ·  Josh Acheampong - 2 **21.00**  ·  Moises Caicedo - 2 **19.00**  ·  Jorrel Hato - 2 **21.00**  ·  Levi Colwill - 2 **21.00**  ·  Wesley Fofana - 2 **21.00**  ·  Danny Welbeck - 3 **8.00**  ·  Estevao - 3 **10.00**  ·  Pedro Neto - 3 **17.00**  ·  Morgan Rogers - 3 **13.00**  ·  Geovany Quenda - 3 **21.00**  ·  Danny Welbeck - 4 **21.00**  ·  Estevao - 4 **21.00**  ·  Jordan Henderson - 1 **3.25**  ·  Jordan Henderson - 2 **15.00**  ·  Mahdi Nicoll-Jazuli - 1 **2.50**  ·  Mahdi Nicoll-Jazuli - 2 **11.00**
+- **Away Player Shots On Target Total:** Jaydan Kamason **51.00**  ·  Moises Caicedo **51.00**  ·  Jorrel Hato **23.00**  ·  Bruno Fernandes **34.00**  ·  Diogo Dalot **126.00**  ·  Lisandro Martinez **41.00**  ·  Tynan Thompson **51.00**  ·  Shea Lacey **29.00**  ·  Andrey Santos **29.00**  ·  Matheus Cunha **23.00**  ·  Romeo Lavia **15.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **126.00**  ·  Valentin Barco **41.00**  ·  Tyler Fletcher **41.00**  ·  Geovany Quenda **34.00**  ·  Jack Fletcher **41.00**  ·  Daniel Armer **41.00**  ·  Mahdi Nicoll-Jazuli **41.00**  ·  Maxence Lacroix **12.00**  ·  Cole Palmer **15.00**  ·  Levi Colwill **17.00**  ·  Malo Gusto **51.00**  ·  Reece James **67.00**  ·  Wesley Fofana **13.00**  ·  Morgan Rogers **26.00**  ·  Youri Tielemans **67.00**  ·  Carlos Baleba **67.00**  ·  Danny Welbeck **8.00**  ·  Amad Diallo **51.00**  ·  Bryan Mbeumo **17.00**  ·  Harry Maguire **19.00**  ·  Joshua Zirkzee **21.00**  ·  Kobbie Mainoo **81.00**  ·  Luke Shaw **151.00**  ·  Marcus Rashford **41.00**  ·  Mason Mount **41.00**  ·  Matthijs de Ligt **21.00**  ·  Noussair Mazraoui **81.00**  ·  Estevao **26.00**  ·  Leny Yoro **29.00**  ·  Joao Pedro **9.00**  ·  Benjamin Sesko **8.00**  ·  Pedro Neto **29.00**  ·  Harry Amass **101.00**  ·  Josh Acheampong **26.00**  ·  Marco Palestra **51.00**  ·  Ayden Heaven **21.00**  ·  Patrick Dorgu **19.00**  ·  Jamie Bynoe-Gittens **34.00**
+- **Away Player Shots Total:**
+    - 11,5: más **1.91** · menos **1.80**
+- **Home Player Shots:** Danny Welbeck - 1 **1.06**  ·  Estevao - 1 **1.04**  ·  Pedro Neto - 1 **1.17**  ·  Morgan Rogers - 1 **1.04**  ·  Geovany Quenda - 1 **1.25**  ·  Valentin Barco - 1 **1.30**  ·  Marco Palestra - 1 **1.50**  ·  Romeo Lavia - 1 **1.62**  ·  Maxence Lacroix - 1 **1.83**  ·  Malo Gusto - 1 **1.57**  ·  Josh Acheampong - 1 **1.83**  ·  Moises Caicedo - 1 **1.57**  ·  Jorrel Hato - 1 **1.83**  ·  Levi Colwill - 1 **1.73**  ·  Wesley Fofana - 1 **1.91**  ·  Danny Welbeck - 2 **1.30**  ·  Estevao - 2 **1.22**  ·  Pedro Neto - 2 **1.73**  ·  Morgan Rogers - 2 **1.25**  ·  Geovany Quenda - 2 **2.10**  ·  Valentin Barco - 2 **2.38**  ·  Marco Palestra - 2 **3.25**  ·  Romeo Lavia - 2 **3.75**  ·  Maxence Lacroix - 2 **4.50**  ·  Malo Gusto - 2 **3.50**  ·  Josh Acheampong - 2 **4.50**  ·  Moises Caicedo - 2 **3.50**  ·  Jorrel Hato - 2 **4.50**  ·  Levi Colwill - 2 **4.33**  ·  Wesley Fofana - 2 **5.50**  ·  Danny Welbeck - 3 **1.83**  ·  Estevao - 3 **1.67**  ·  Pedro Neto - 3 **3.00**  ·  Morgan Rogers - 3 **1.73**  ·  Geovany Quenda - 3 **4.33**  ·  Valentin Barco - 3 **5.00**  ·  Marco Palestra - 3 **8.00**  ·  Romeo Lavia - 3 **11.00**  ·  Maxence Lacroix - 3 **15.00**  ·  Malo Gusto - 3 **9.00**  ·  Josh Acheampong - 3 **15.00**  ·  Moises Caicedo - 3 **9.00**  ·  Jorrel Hato - 3 **15.00**  ·  Levi Colwill - 3 **13.00**  ·  Wesley Fofana - 3 **17.00**  ·  Danny Welbeck - 4 **3.25**  ·  Estevao - 4 **2.62**  ·  Pedro Neto - 4 **6.00**  ·  Morgan Rogers - 4 **2.75**  ·  Geovany Quenda - 4 **10.00**  ·  Valentin Barco - 4 **13.00**  ·  Marco Palestra - 4 **21.00**  ·  Romeo Lavia - 4 **21.00**  ·  Malo Gusto - 4 **21.00**  ·  Danny Welbeck - 5 **6.00**  ·  Estevao - 5 **4.50**  ·  Pedro Neto - 5 **13.00**  ·  Morgan Rogers - 5 **5.00**  ·  Geovany Quenda - 5 **21.00**  ·  Valentin Barco - 5 **21.00**  ·  Danny Welbeck - 6 **11.00**  ·  Estevao - 6 **9.00**  ·  Pedro Neto - 6 **21.00**  ·  Morgan Rogers - 6 **10.00**  ·  Danny Welbeck - 7 **21.00**  ·  Estevao - 7 **17.00**  ·  Moises Caicedo - 4 **21.00**  ·  Morgan Rogers - 7 **19.00**  ·  Jordan Henderson - 1 **1.50**  ·  Jordan Henderson - 2 **3.25**  ·  Jordan Henderson - 3 **8.00**  ·  Jordan Henderson - 4 **21.00**  ·  Mahdi Nicoll-Jazuli - 1 **1.36**  ·  Mahdi Nicoll-Jazuli - 2 **2.50**  ·  Mahdi Nicoll-Jazuli - 3 **5.50**  ·  Mahdi Nicoll-Jazuli - 4 **15.00**
+- **Away Player Shots:** Matheus Cunha - 2 **1.57**  ·  Matheus Cunha - 3 **2.62**  ·  Matheus Cunha - 4 **5.00**  ·  Matheus Cunha - 5 **11.00**  ·  Matheus Cunha - 6 **21.00**  ·  Matheus Cunha - 1 **1.12**  ·  Joshua Zirkzee - 1 **1.11**  ·  Bryan Mbeumo - 1 **1.10**  ·  Marcus Rashford - 1 **1.12**  ·  Bruno Fernandes - 1 **1.11**  ·  Shea Lacey - 1 **1.44**  ·  Mason Mount - 1 **1.44**  ·  Andrey Santos - 1 **1.50**  ·  Youri Tielemans - 1 **1.36**  ·  Diogo Dalot - 1 **1.62**  ·  Harry Maguire - 1 **1.83**  ·  Matthijs de Ligt - 1 **2.20**  ·  Ayden Heaven - 1 **2.20**  ·  Leny Yoro - 1 **2.75**  ·  Noussair Mazraoui - 1 **2.62**  ·  Lisandro Martinez - 1 **2.38**  ·  Joshua Zirkzee - 2 **1.50**  ·  Bryan Mbeumo - 2 **1.50**  ·  Marcus Rashford - 2 **1.57**  ·  Bruno Fernandes - 2 **1.53**  ·  Shea Lacey - 2 **2.75**  ·  Mason Mount - 2 **3.00**  ·  Andrey Santos - 2 **3.25**  ·  Youri Tielemans - 2 **2.62**  ·  Diogo Dalot - 2 **3.75**  ·  Harry Maguire - 2 **5.00**  ·  Matthijs de Ligt - 2 **7.00**  ·  Ayden Heaven - 2 **7.00**  ·  Leny Yoro - 2 **11.00**  ·  Noussair Mazraoui - 2 **10.00**  ·  Lisandro Martinez - 2 **8.00**  ·  Joshua Zirkzee - 3 **2.50**  ·  Bryan Mbeumo - 3 **2.38**  ·  Marcus Rashford - 3 **2.62**  ·  Bruno Fernandes - 3 **2.50**  ·  Shea Lacey - 3 **7.00**  ·  Mason Mount - 3 **8.00**  ·  Andrey Santos - 3 **9.00**  ·  Youri Tielemans - 3 **6.00**  ·  Diogo Dalot - 3 **10.00**  ·  Harry Maguire - 3 **15.00**  ·  Matthijs de Ligt - 3 **21.00**  ·  Ayden Heaven - 3 **21.00**  ·  Lisandro Martinez - 3 **21.00**  ·  Joshua Zirkzee - 4 **4.50**  ·  Bryan Mbeumo - 4 **4.33**  ·  Marcus Rashford - 4 **5.00**  ·  Bruno Fernandes - 4 **5.00**  ·  Shea Lacey - 4 **17.00**  ·  Mason Mount - 4 **19.00**  ·  Andrey Santos - 4 **21.00**  ·  Youri Tielemans - 4 **15.00**  ·  Diogo Dalot - 4 **21.00**  ·  Joshua Zirkzee - 5 **10.00**  ·  Bryan Mbeumo - 5 **9.00**  ·  Marcus Rashford - 5 **11.00**  ·  Bruno Fernandes - 5 **10.00**  ·  Joshua Zirkzee - 6 **19.00**  ·  Bryan Mbeumo - 6 **19.00**  ·  Marcus Rashford - 6 **21.00**  ·  Bruno Fernandes - 6 **21.00**  ·  Tyler Fletcher - 1 **1.73**  ·  Tyler Fletcher - 2 **4.33**  ·  Tyler Fletcher - 3 **13.00**  ·  Carlos Baleba - 1 **1.50**  ·  Carlos Baleba - 2 **3.25**  ·  Carlos Baleba - 3 **9.00**  ·  Carlos Baleba - 4 **21.00**  ·  Amad Diallo - 1 **1.17**  ·  Amad Diallo - 2 **1.73**  ·  Amad Diallo - 3 **3.25**  ·  Amad Diallo - 4 **6.50**  ·  Amad Diallo - 5 **15.00**
+- **Player Fouls Committed:** Matheus Cunha - 2 **2.62**  ·  Matheus Cunha - 3 **6.50**  ·  Matheus Cunha - 4 **17.00**  ·  Danny Welbeck - 1 **1.53**  ·  Estevao - 1 **1.12**  ·  Pedro Neto - 1 **1.50**  ·  Morgan Rogers - 1 **1.20**  ·  Geovany Quenda - 1 **1.53**  ·  Valentin Barco - 1 **1.53**  ·  Marco Palestra - 1 **1.40**  ·  Romeo Lavia - 1 **1.25**  ·  Maxence Lacroix - 1 **1.53**  ·  Malo Gusto - 1 **1.33**  ·  Josh Acheampong - 1 **1.44**  ·  Moises Caicedo - 1 **1.18**  ·  Jorrel Hato - 1 **1.44**  ·  Levi Colwill - 1 **1.44**  ·  Wesley Fofana - 1 **1.20**  ·  Danny Welbeck - 2 **3.50**  ·  Estevao - 2 **1.62**  ·  Pedro Neto - 2 **3.40**  ·  Morgan Rogers - 2 **1.91**  ·  Geovany Quenda - 2 **3.50**  ·  Valentin Barco - 2 **3.50**  ·  Marco Palestra - 2 **2.62**  ·  Romeo Lavia - 2 **2.10**  ·  Maxence Lacroix - 2 **3.50**  ·  Malo Gusto - 2 **2.50**  ·  Josh Acheampong - 2 **3.00**  ·  Moises Caicedo - 2 **1.80**  ·  Jorrel Hato - 2 **3.00**  ·  Levi Colwill - 2 **3.00**  ·  Wesley Fofana - 2 **1.91**  ·  Danny Welbeck - 3 **10.00**  ·  Estevao - 3 **2.75**  ·  Pedro Neto - 3 **9.00**  ·  Morgan Rogers - 3 **3.75**  ·  Geovany Quenda - 3 **10.00**  ·  Valentin Barco - 3 **10.00**  ·  Marco Palestra - 3 **6.50**  ·  Romeo Lavia - 3 **4.33**  ·  Maxence Lacroix - 3 **10.00**  ·  Malo Gusto - 3 **6.00**  ·  Josh Acheampong - 3 **8.00**  ·  Moises Caicedo - 3 **3.50**  ·  Jorrel Hato - 3 **8.00**  ·  Levi Colwill - 3 **8.00**  ·  Wesley Fofana - 3 **3.75**  ·  Danny Welbeck - 4 **26.00**  ·  Estevao - 4 **5.50**  ·  Pedro Neto - 4 **23.00**  ·  Morgan Rogers - 4 **9.00**  ·  Geovany Quenda - 4 **26.00**  ·  Valentin Barco - 4 **26.00**  ·  Marco Palestra - 4 **19.00**  ·  Romeo Lavia - 4 **11.00**  ·  Maxence Lacroix - 4 **26.00**  ·  Malo Gusto - 4 **15.00**  ·  Estevao - 5 **13.00**  ·  Morgan Rogers - 5 **21.00**  ·  Estevao - 6 **26.00**  ·  Matheus Cunha - 1 **1.36**  ·  Joshua Zirkzee - 1 **1.50**  ·  Bryan Mbeumo - 1 **1.62**  ·  Marcus Rashford - 1 **1.62**  ·  Bruno Fernandes - 1 **1.44**  ·  Shea Lacey - 1 **1.44**  ·  Mason Mount - 1 **1.44**  ·  Andrey Santos - 1 **1.25**  ·  Youri Tielemans - 1 **1.44**  ·  Diogo Dalot - 1 **1.36**  ·  Harry Maguire - 1 **1.44**  ·  Matthijs de Ligt - 1 **1.91**  ·  Ayden Heaven - 1 **1.33**  ·  Leny Yoro - 1 **1.36**  ·  Noussair Mazraoui - 1 **1.44**  ·  Lisandro Martinez - 1 **1.44**  ·  Joshua Zirkzee - 2 **3.40**  ·  Bryan Mbeumo - 2 **3.75**  ·  Marcus Rashford - 2 **3.75**  ·  Bruno Fernandes - 2 **3.25**  ·  Shea Lacey - 2 **3.00**  ·  Mason Mount - 2 **3.00**  ·  Andrey Santos - 2 **2.20**  ·  Youri Tielemans - 2 **3.00**  ·  Diogo Dalot - 2 **2.62**  ·  Harry Maguire - 2 **3.00**  ·  Matthijs de Ligt - 2 **5.50**  ·  Ayden Heaven - 2 **2.50**  ·  Leny Yoro - 2 **2.62**  ·  Noussair Mazraoui - 2 **3.00**  ·  Lisandro Martinez - 2 **3.00**  ·  Joshua Zirkzee - 3 **10.00**  ·  Bryan Mbeumo - 3 **11.00**  ·  Marcus Rashford - 3 **11.00**  ·  Bruno Fernandes - 3 **8.00**  ·  Shea Lacey - 3 **8.00**  ·  Mason Mount - 3 **8.00**  ·  Andrey Santos - 3 **4.50**  ·  Youri Tielemans - 3 **8.00**  ·  Diogo Dalot - 3 **6.50**  ·  Harry Maguire - 3 **8.00**  ·  Matthijs de Ligt - 3 **19.00**  ·  Ayden Heaven - 3 **6.00**  ·  Leny Yoro - 3 **6.50**  ·  Noussair Mazraoui - 3 **8.00**  ·  Lisandro Martinez - 3 **8.00**  ·  Joshua Zirkzee - 4 **26.00**  ·  Bruno Fernandes - 4 **21.00**  ·  Shea Lacey - 4 **21.00**  ·  Mason Mount - 4 **21.00**  ·  Andrey Santos - 4 **11.00**  ·  Youri Tielemans - 4 **21.00**  ·  Diogo Dalot - 4 **17.00**  ·  Harry Maguire - 4 **21.00**  ·  Andrey Santos - 5 **26.00**  ·  Ayden Heaven - 4 **15.00**  ·  Noussair Mazraoui - 4 **21.00**  ·  Leny Yoro - 4 **17.00**  ·  Moises Caicedo - 4 **8.00**  ·  Wesley Fofana - 4 **9.00**  ·  Jorrel Hato - 4 **21.00**  ·  Josh Acheampong - 4 **21.00**  ·  Levi Colwill - 4 **21.00**  ·  Moises Caicedo - 5 **19.00**  ·  Wesley Fofana - 5 **21.00**  ·  Romeo Lavia - 5 **26.00**  ·  Jordan Henderson - 1 **1.80**  ·  Jordan Henderson - 2 **5.00**  ·  Jordan Henderson - 3 **15.00**  ·  Lisandro Martinez - 4 **21.00**  ·  Tyler Fletcher - 1 **1.30**  ·  Tyler Fletcher - 2 **2.38**  ·  Tyler Fletcher - 3 **5.50**  ·  Tyler Fletcher - 4 **15.00**  ·  Carlos Baleba - 1 **1.14**  ·  Carlos Baleba - 2 **1.67**  ·  Carlos Baleba - 3 **3.00**  ·  Carlos Baleba - 4 **6.50**  ·  Carlos Baleba - 5 **15.00**  ·  Amad Diallo - 1 **1.50**  ·  Amad Diallo - 2 **3.40**  ·  Amad Diallo - 3 **10.00**  ·  Amad Diallo - 4 **26.00**  ·  Mahdi Nicoll-Jazuli - 1 **1.28**  ·  Mahdi Nicoll-Jazuli - 2 **2.25**  ·  Mahdi Nicoll-Jazuli - 3 **5.00**  ·  Mahdi Nicoll-Jazuli - 4 **13.00**
+- **Goalkeeper Saves:** Mike Penders - 3 **1.73**  ·  Mike Penders - 4 **3.00**  ·  Mike Penders - 5 **5.50**  ·  Mike Penders - 6 **11.00**  ·  Mike Penders - 2 **1.25**  ·  Senne Lammens - 2 **1.14**  ·  Senne Lammens - 3 **1.44**  ·  Senne Lammens - 4 **2.10**  ·  Senne Lammens - 5 **3.50**  ·  Senne Lammens - 6 **6.50**
+- **Anytime Goal Scorer:** Jaydan Kamason **13.00**  ·  Moises Caicedo **8.50**  ·  Jorrel Hato **9.50**  ·  Bruno Fernandes **3.75**  ·  Diogo Dalot **13.00**  ·  Lisandro Martinez **17.00**  ·  Tynan Thompson **6.50**  ·  Shea Lacey **6.50**  ·  Andrey Santos **8.50**  ·  Matheus Cunha **3.75**  ·  Romeo Lavia **7.50**  ·  Pep Chavarria **8.50**  ·  Jordan Henderson **8.50**  ·  Valentin Barco **6.50**  ·  Tyler Fletcher **9.50**  ·  Geovany Quenda **4.00**  ·  Jack Fletcher **7.50**  ·  Daniel Armer **13.00**  ·  Mahdi Nicoll-Jazuli **5.50**  ·  Maxence Lacroix **9.50**  ·  Cole Palmer **2.30**  ·  Levi Colwill **9.50**  ·  Malo Gusto **9.50**  ·  Reece James **7.00**  ·  Wesley Fofana **9.50**  ·  Morgan Rogers **2.88**  ·  Youri Tielemans **7.50**  ·  Carlos Baleba **11.00**  ·  Danny Welbeck **2.30**  ·  Amad Diallo **5.00**  ·  Bryan Mbeumo **3.40**  ·  Harry Maguire **13.00**  ·  Joshua Zirkzee **4.00**  ·  Kobbie Mainoo **9.50**  ·  Luke Shaw **17.00**  ·  Marcus Rashford **4.50**  ·  Mason Mount **7.00**  ·  Matthijs de Ligt **13.00**  ·  Noussair Mazraoui **17.00**  ·  Estevao **2.88**  ·  Leny Yoro **17.00**  ·  Joao Pedro **2.10**  ·  Benjamin Sesko **2.88**  ·  Pedro Neto **3.40**  ·  Harry Amass **11.00**  ·  Josh Acheampong **9.50**  ·  Marco Palestra **8.50**  ·  Ayden Heaven **13.00**  ·  Patrick Dorgu **5.00**  ·  Jamie Bynoe-Gittens **3.75**
+- **Player to Score or Assist:** Jaydan Kamason **9.50**  ·  Moises Caicedo **4.75**  ·  Jorrel Hato **4.33**  ·  Bruno Fernandes **2.20**  ·  Diogo Dalot **6.00**  ·  Lisandro Martinez **13.00**  ·  Tynan Thompson **3.75**  ·  Shea Lacey **4.33**  ·  Andrey Santos **5.00**  ·  Matheus Cunha **2.60**  ·  Romeo Lavia **3.75**  ·  Pep Chavarria **3.75**  ·  Jordan Henderson **3.60**  ·  Valentin Barco **2.88**  ·  Tyler Fletcher **5.50**  ·  Geovany Quenda **2.10**  ·  Jack Fletcher **5.50**  ·  Daniel Armer **8.50**  ·  Mahdi Nicoll-Jazuli **3.20**  ·  Maxence Lacroix **6.00**  ·  Cole Palmer **1.67**  ·  Levi Colwill **6.00**  ·  Malo Gusto **3.60**  ·  Reece James **3.00**  ·  Wesley Fofana **6.50**  ·  Morgan Rogers **1.83**  ·  Youri Tielemans **4.33**  ·  Carlos Baleba **6.00**  ·  Danny Welbeck **1.95**  ·  Amad Diallo **3.20**  ·  Bryan Mbeumo **2.50**  ·  Harry Maguire **10.00**  ·  Joshua Zirkzee **3.10**  ·  Kobbie Mainoo **5.50**  ·  Luke Shaw **8.00**  ·  Marcus Rashford **2.88**  ·  Mason Mount **4.50**  ·  Matthijs de Ligt **8.00**  ·  Noussair Mazraoui **9.50**  ·  Estevao **1.91**  ·  Leny Yoro **11.00**  ·  Joao Pedro **1.67**  ·  Benjamin Sesko **2.50**  ·  Pedro Neto **2.10**  ·  Harry Amass **6.00**  ·  Josh Acheampong **4.50**  ·  Marco Palestra **3.75**  ·  Ayden Heaven **9.50**  ·  Patrick Dorgu **3.75**  ·  Jamie Bynoe-Gittens **2.38**
 
 ## Estadísticas de equipo
 | | Chelsea (total) | Chelsea en casa | Manchester United (total) | Manchester United fuera |
@@ -183,8 +216,8 @@ _Goles esperados: local 2,71 · visitante 1,57 · córners esperados 9,5._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 21% | 23% | 22% | 4.10 | -10% |
-| 1X2: X | 17% | 25% | 21% | 3.80 | -20% |
-| 1X2: 1 | 62% | 52% | 57% | 1.80 | +3% |
+| 1X2: X | 17% | 25% | 21% | 3.75 | -20% |
+| 1X2: 1 | 62% | 52% | 57% | 1.80 | +2% |
 | Doble oportunidad: X2 | 38% | 48% | 43% | 1.95 | -16% |
 | Doble oportunidad: 12 | 83% | 75% | 79% | 1.25 | -2% |
 | Doble oportunidad: 1X | 79% | 77% | 78% | 1.22 | -5% |
@@ -200,16 +233,18 @@ _Goles esperados: local 2,71 · visitante 1,57 · córners esperados 9,5._
 | Goles 1ª parte más/menos: Más de 1.5 | 55% | 42% | 49% | 2.20 | +8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Goles del local: Más de 1.5 | 75% | 59% | 67% | 1.57 | +5% |
+| Goles del local: Más de 1.5 | 75% | 58% | 66% | 1.62 | +8% |
 | Goles del local: Más de 2.5 ✅ | 51% | 34% | 42% | 2.75 | +16% |
-| Goles del local: Menos de 1.5 | 25% | 41% | 33% | 2.25 | -26% |
+| Goles del local: Menos de 1.5 | 25% | 42% | 34% | 2.20 | -26% |
 | Goles del local: Menos de 2.5 | 49% | 66% | 58% | 1.40 | -19% |
-| Goles del visitante: Más de 0.5 | 79% | 69% | 74% | 1.36 | +1% |
-| Goles del visitante: Más de 1.5 | 47% | 34% | 40% | 2.75 | +11% |
-| Goles del visitante: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -22% |
-| Goles del visitante: Menos de 1.5 | 53% | 66% | 60% | 1.40 | -16% |
-| 1X2 descanso: 2 | 21% | 22% | 22% | 4.33 | -7% |
-| 1X2 descanso: X | 31% | 38% | 34% | 2.50 | -14% |
-| 1X2 descanso: 1 | 48% | 41% | 44% | 2.30 | +2% |
+| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
+| Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
+| Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Córners más/menos: Más de 10.5 | 37% | 44% | 40% | 2.10 | -15% |
+| Córners más/menos: Menos de 10.5 | 63% | 56% | 60% | 1.67 | -1% |
+| 1X2 descanso: 2 | 21% | 21% | 21% | 4.33 | -7% |
+| 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |
+| 1X2 descanso: 1 | 48% | 41% | 44% | 2.25 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,12 +1,12 @@
 # SC Freiburg – VfL Wolfsburg
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:02_
+_Actualizadas: 28/10 14:00_
 
-- **1X2:** 1 **1.50**  ·  X **4.50**  ·  2 **5.75**
+- **1X2:** 1 **1.60**  ·  X **4.20**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
@@ -32,8 +32,8 @@ _Actualizadas: 28/10 02:02_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.85** · menos **1.95**
-- **1X2 descanso:** 1 **1.91**  ·  X **2.75**  ·  2 **5.00**
+    - 10,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **1.95**  ·  X **2.75**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
@@ -41,17 +41,17 @@ _Actualizadas: 28/10 02:02_
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **1.25**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **4.50**
+- **To Win Either Half:** 1 **1.28**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **4.33**
 - **Win Both Halves:** 1 **3.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.50**  ·  Home/No **3.25**  ·  Draw/No **21.00**  ·  Away/No **13.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.40**  ·  Draw/No **21.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.75**
 - **Home Corners Over/Under:**
     - 6,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
-- **Anytime Goal Scorer:** Elvis Rexhbecaj **5.00**  ·  Yuito Suzuki **2.20**  ·  Jonas Adjetey **19.00**  ·  Rihito Yamamoto **4.50**  ·  Lucas Holer **2.20**  ·  Derry Scherhant **2.40**  ·  Robert Glatzel **2.88**  ·  Kento Shiogai **3.40**  ·  Muhammed Damar **5.00**  ·  Lukas Kubler **4.50**  ·  Christian Gunter **6.50**  ·  Fraser Hornby **3.00**  ·  Fabian Reese **3.40**  ·  Aaron Zehnter **12.00**  ·  Yannick Engelhardt **6.00**  ·  Bence Dardai **4.50**  ·  Mathys Angely **12.00**  ·  Berkay Yilmaz **6.50**  ·  Pharell Hensel **6.50**  ·  Bruno Katz **3.40**  ·  Jan-Niklas Beste **2.60**  ·  Alessio Besio **3.40**  ·  Mateo Zelic **2.88**  ·  Sael Kumbedi **12.00**  ·  Vini Souza **9.50**  ·  Igor Matanovic **1.80**  ·  Hauke Wahl **12.00**  ·  Moritz Jenz **21.00**  ·  Philipp Treu **6.50**  ·  Alexander Bernhardsson **4.00**  ·  Joakim Maehle **9.50**  ·  Kilian Fischer **12.00**  ·  Maximilian Arnold **8.50**  ·  Yannick Gerhardt **6.00**  ·  Anthony Jung **9.50**  ·  Bruno Ogbus **6.50**  ·  Jordy Makengo **9.50**  ·  Matthias Ginter **5.50**  ·  Max Rosenfelder **8.50**  ·  Maximilian Eggestein **3.40**  ·  Patrick Osterhage **4.50**  ·  Philipp Lienhart **6.50**  ·  Vincenzo Grifo **2.05**  ·  Mattias Svanberg **5.50**  ·  Cyriaque Irie **3.00**  ·  Keisuke Goto **2.40**  ·  Cleiton dos Santos **12.00**
+- **Anytime Goal Scorer:** Elvis Rexhbecaj **5.00**  ·  Yuito Suzuki **2.20**  ·  Jonas Adjetey **19.00**  ·  Rihito Yamamoto **4.50**  ·  Lucas Holer **2.20**  ·  Derry Scherhant **2.40**  ·  Robert Glatzel **2.88**  ·  Kento Shiogai **3.40**  ·  Muhammed Damar **5.00**  ·  Lukas Kubler **4.50**  ·  Christian Gunter **6.50**  ·  Fraser Hornby **3.00**  ·  Fabian Reese **3.40**  ·  Aaron Zehnter **12.00**  ·  Yannick Engelhardt **6.00**  ·  Bence Dardai **4.50**  ·  Mathys Angely **12.00**  ·  Berkay Yilmaz **6.50**  ·  Pharell Hensel **6.50**  ·  Bruno Katz **3.40**  ·  Jan-Niklas Beste **2.60**  ·  Alessio Besio **3.40**  ·  Mateo Zelic **2.88**  ·  Sael Kumbedi **12.00**  ·  Vini Souza **9.50**  ·  Igor Matanovic **1.80**  ·  Hauke Wahl **12.00**  ·  Moritz Jenz **21.00**  ·  Philipp Treu **6.50**  ·  Alexander Bernhardsson **3.60**  ·  Joakim Maehle **9.50**  ·  Kilian Fischer **12.00**  ·  Maximilian Arnold **7.50**  ·  Yannick Gerhardt **6.00**  ·  Anthony Jung **9.50**  ·  Bruno Ogbus **6.50**  ·  Jordy Makengo **9.50**  ·  Matthias Ginter **5.50**  ·  Max Rosenfelder **8.00**  ·  Maximilian Eggestein **3.40**  ·  Patrick Osterhage **4.50**  ·  Philipp Lienhart **6.50**  ·  Vincenzo Grifo **2.05**  ·  Mattias Svanberg **5.00**  ·  Cyriaque Irie **3.00**  ·  Keisuke Goto **2.40**  ·  Cleiton dos Santos **12.00**
 
 ## Estadísticas de equipo
 | | SC Freiburg (total) | SC Freiburg en casa | VfL Wolfsburg (total) | VfL Wolfsburg fuera |

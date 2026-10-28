@@ -1,10 +1,28 @@
 # Groningen – Emmen
 **KNVB Beker** · Round of 64 · 29/10/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 14:01_
+
+- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **5.25**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.25** · menos **1.33**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **5.50**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.22**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **5.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **23.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.60**
 
 ## Estadísticas de equipo
 | | Groningen (total) | Groningen en casa | Emmen (total) | Emmen fuera |

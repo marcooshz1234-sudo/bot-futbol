@@ -1,10 +1,10 @@
 # Swansea – Blackburn
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 13:52_
+_Actualizadas: 28/10 14:01_
 
 - **1X2:** 1 **1.70**  ·  X **3.40**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.00**

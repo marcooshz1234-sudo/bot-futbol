@@ -1,46 +1,46 @@
 # Sparta Rotterdam – Fortuna Sittard
 **KNVB Beker** · Round of 64 · 28/10/2026 18:45 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:02_
+_Actualizadas: 28/10 14:00_
 
-- **1X2:** 1 **1.91**  ·  X **3.70**  ·  2 **3.75**
+- **1X2:** 1 **1.95**  ·  X **3.90**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
-- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
-- **1X2 descanso:** 1 **2.40**  ·  X **2.40**  ·  2 **4.00**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.50**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.50**  ·  2 **2.20**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **4.00**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **3.75**
 - **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **15.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **19.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
 
 ## Estadísticas de equipo
 | | Sparta Rotterdam (total) | Sparta Rotterdam en casa | Fortuna Sittard (total) | Fortuna Sittard fuera |
@@ -181,36 +181,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 25% | 26% | 3.75 | -3% |
-| 1X2: X | 22% | 25% | 24% | 3.70 | -12% |
-| 1X2: 1 | 51% | 49% | 50% | 1.91 | -4% |
+| 1X2: 2 | 27% | 28% | 27% | 3.40 | -8% |
+| 1X2: X | 22% | 24% | 23% | 3.90 | -10% |
+| 1X2: 1 | 51% | 48% | 50% | 1.95 | -3% |
 | Doble oportunidad: X2 | 49% | 51% | 50% | 1.83 | -9% |
 | Doble oportunidad: 12 | 78% | 73% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 73% | 75% | 74% | 1.25 | -7% |
-| Ambos marcan: No | 37% | 39% | 38% | 2.38 | -10% |
-| Ambos marcan: Sí | 63% | 61% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 1.5 | 84% | 79% | 82% | 1.18 | -4% |
-| Goles más/menos: Más de 2.5 | 64% | 58% | 61% | 1.62 | -1% |
-| Goles más/menos: Más de 3.5 | 42% | 38% | 40% | 2.50 | -1% |
-| Goles más/menos: Más de 4.5 | 23% | 22% | 23% | 4.33 | -2% |
-| Goles más/menos: Menos de 1.5 | 16% | 21% | 18% | 4.50 | -17% |
-| Goles más/menos: Menos de 2.5 | 36% | 42% | 39% | 2.25 | -12% |
-| Goles más/menos: Menos de 3.5 | 58% | 62% | 60% | 1.50 | -9% |
-| Goles más/menos: Menos de 4.5 | 77% | 78% | 77% | 1.20 | -7% |
+| Ambos marcan: No | 37% | 38% | 37% | 2.50 | -7% |
+| Ambos marcan: Sí | 63% | 62% | 63% | 1.50 | -6% |
+| Goles más/menos: Más de 2.5 | 64% | 61% | 62% | 1.53 | -4% |
+| Goles más/menos: Más de 3.5 | 42% | 42% | 42% | 2.20 | -8% |
+| Goles más/menos: Más de 4.5 | 23% | 25% | 24% | 3.75 | -9% |
+| Goles más/menos: Menos de 2.5 | 36% | 39% | 38% | 2.40 | -10% |
+| Goles más/menos: Menos de 3.5 | 58% | 58% | 58% | 1.62 | -6% |
+| Goles más/menos: Menos de 4.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
-| Goles del local: Más de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
-| Goles del local: Más de 2.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del local: Menos de 1.5 | 42% | 41% | 42% | 2.25 | -6% |
-| Goles del local: Menos de 2.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 0.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del visitante: Más de 1.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 0.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles del visitante: Menos de 1.5 | 61% | 69% | 65% | 1.36 | -12% |
-| 1X2 descanso: 2 | 24% | 23% | 23% | 4.00 | -7% |
-| 1X2 descanso: X | 37% | 38% | 38% | 2.40 | -9% |
-| 1X2 descanso: 1 | 39% | 38% | 39% | 2.40 | -7% |
+| Goles del local: Más de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles del local: Más de 2.5 | 31% | 28% | 29% | 3.40 | -1% |
+| Goles del local: Menos de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Goles del local: Menos de 2.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles del visitante: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
+| Goles del visitante: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
+| Goles del visitante: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -10% |
+| Goles del visitante: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
+| 1X2 descanso: 2 | 24% | 25% | 24% | 3.75 | -9% |
+| 1X2 descanso: X | 37% | 38% | 37% | 2.50 | -6% |
+| 1X2 descanso: 1 | 39% | 38% | 38% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

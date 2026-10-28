@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-28 08:00",
+ "generado": "2026-10-28 14:02",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -20,12 +20,12 @@
      "opcion": "Draw/Away",
      "tipo": "resultado",
      "texto": "Brentford o empate",
-     "cuota": 1.3,
+     "cuota": 1.28,
      "frecuencia": 0.8,
-     "ventaja": 0.031,
+     "ventaja": 0.019,
      "detalle": "Sunderland 7/10 · Brentford 9/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.016,
+     "valor_mercado": -0.015,
+     "movimiento": 0.0,
      "cuota_inicial": 1.28,
      "arbitro": "Gavin Ward",
      "arbitro_tarjetas": 4.0,
@@ -46,7 +46,7 @@
      "frecuencia": 0.75,
      "ventaja": 0.015,
      "detalle": "Venezia 8/10 · Inter 7/10",
-     "valor_mercado": 0.023,
+     "valor_mercado": 0.007,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
      "arbitro": "Luca J. Pairetto",
@@ -57,29 +57,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.783
-    },
-    {
-     "partido_id": 1641985,
-     "fecha": "2026-10-28T18:45",
-     "competicion": "KNVB Beker",
-     "liga_id": 90,
-     "local": "Sparta Rotterdam",
-     "visitante": "Fortuna Sittard",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Fortuna Sittard marca",
-     "cuota": 1.4,
-     "frecuencia": 0.95,
-     "ventaja": 0.236,
-     "detalle": "Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10",
-     "valor_mercado": 0.077,
-     "arbitro": "S. van der Eijk",
-     "arbitro_tarjetas": 1.0,
-     "prob_xg": 0.717,
-     "xg_esperado": 3.21,
-     "prob_aprendida": 0.732
+     "prob_aprendida": 0.782
     },
     {
      "partido_id": 1550173,
@@ -92,12 +70,12 @@
      "opcion": "Over 1.5",
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Parma–Udinese",
-     "cuota": 1.4,
+     "cuota": 1.33,
      "frecuencia": 0.85,
-     "ventaja": 0.136,
+     "ventaja": 0.098,
      "detalle": "Parma 9/10 · Udinese 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.029,
+     "valor_mercado": -0.022,
+     "movimiento": -0.022,
      "cuota_inicial": 1.36,
      "arbitro": "Davide Massa",
      "arbitro_tarjetas": 2.7,
@@ -109,7 +87,7 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.782
+     "prob_aprendida": 0.783
     },
     {
      "partido_id": 1550172,
@@ -126,7 +104,7 @@
      "frecuencia": 0.9,
      "ventaja": 0.186,
      "detalle": "Monza 10/10 · Napoli (en contra) 8/10",
-     "valor_mercado": -0.014,
+     "valor_mercado": -0.007,
      "movimiento": -0.028,
      "cuota_inicial": 1.44,
      "arbitro": "Giovanni Ayroldi",
@@ -139,33 +117,31 @@
       20
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.756
+     "prob_aprendida": 0.759
     },
     {
-     "partido_id": 1550171,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Juventus",
-     "mercado": "Goals Over/Under - Second Half",
+     "partido_id": 1641985,
+     "fecha": "2026-10-28T18:45",
+     "competicion": "KNVB Beker",
+     "liga_id": 90,
+     "local": "Sparta Rotterdam",
+     "visitante": "Fortuna Sittard",
+     "mercado": "Total - Away",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Gol en la 2ª parte del Genoa–Juventus",
-     "cuota": 1.25,
-     "frecuencia": 0.85,
-     "ventaja": 0.05,
-     "detalle": "Genoa 8/10 · Juventus 9/10",
-     "valor_mercado": -0.023,
-     "arbitro": "Daniele Doveri",
-     "arbitro_tarjetas": 3.7,
-     "posiciones": [
-      16,
-      7,
-      20
-     ],
-     "contexto": "total_lejos",
-     "prob_aprendida": 0.788
+     "texto": "Fortuna Sittard marca",
+     "cuota": 1.33,
+     "frecuencia": 0.95,
+     "ventaja": 0.198,
+     "detalle": "Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10",
+     "valor_mercado": 0.031,
+     "movimiento": -0.05,
+     "cuota_inicial": 1.4,
+     "arbitro": "S. van der Eijk",
+     "arbitro_tarjetas": 1.0,
+     "prob_xg": 0.717,
+     "xg_esperado": 3.21,
+     "prob_aprendida": 0.735
     },
     {
      "partido_id": 1550173,
@@ -182,7 +158,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.019,
      "detalle": "Parma 7/10 · Udinese 9/10",
-     "valor_mercado": -0.015,
+     "valor_mercado": -0.008,
      "arbitro": "Davide Massa",
      "arbitro_tarjetas": 2.7,
      "posiciones": [
@@ -191,7 +167,7 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.776
+     "prob_aprendida": 0.779
     },
     {
      "partido_id": 1641985,
@@ -208,10 +184,10 @@
      "frecuencia": 0.85,
      "ventaja": 0.069,
      "detalle": "Sparta Rotterdam 10/10 · Fortuna Sittard 7/10",
-     "valor_mercado": 0.016,
+     "valor_mercado": 0.0,
      "arbitro": "S. van der Eijk",
      "arbitro_tarjetas": 1.0,
-     "prob_aprendida": 0.757
+     "prob_aprendida": 0.751
     },
     {
      "partido_id": 1550171,
@@ -220,28 +196,47 @@
      "liga_id": 135,
      "local": "Genoa",
      "visitante": "Juventus",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Más de 1,5 goles en Genoa–Juventus",
-     "cuota": 1.36,
+     "texto": "Gol en la 2ª parte del Genoa–Juventus",
+     "cuota": 1.33,
      "frecuencia": 0.85,
-     "ventaja": 0.115,
-     "detalle": "Genoa 7/10 · Juventus 10/10",
-     "valor_mercado": 0.007,
-     "movimiento": 0.023,
-     "cuota_inicial": 1.33,
+     "ventaja": 0.098,
+     "detalle": "Genoa 8/10 · Juventus 9/10",
+     "valor_mercado": -0.022,
+     "movimiento": 0.064,
+     "cuota_inicial": 1.25,
      "arbitro": "Daniele Doveri",
      "arbitro_tarjetas": 3.7,
-     "prob_xg": 0.659,
-     "xg_esperado": 2.26,
      "posiciones": [
       16,
       7,
       20
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.754
+     "prob_aprendida": 0.763
+    },
+    {
+     "partido_id": 1638568,
+     "fecha": "2026-10-28T20:45",
+     "competicion": "DFB-Pokal",
+     "liga_id": 81,
+     "local": "Holstein Kiel",
+     "visitante": "1899 Hoffenheim",
+     "mercado": "Total - Away",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "1899 Hoffenheim marca 2 o más",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "detalle": "1899 Hoffenheim 8/10 · rival de categoría inferior",
+     "copa": true,
+     "valor_mercado": 0.008,
+     "arbitro": "Bastian Dankert",
+     "arbitro_tarjetas": 4.0,
+     "prob_aprendida": 0.723
     },
     {
      "partido_id": 1550176,
@@ -277,25 +272,97 @@
      "prob_aprendida": 0.78
     },
     {
-     "partido_id": 1638568,
+     "partido_id": 1550171,
      "fecha": "2026-10-28T20:45",
-     "competicion": "DFB-Pokal",
-     "liga_id": 81,
-     "local": "Holstein Kiel",
-     "visitante": "1899 Hoffenheim",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Genoa",
+     "visitante": "Juventus",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Mikael Egill Ellertsson - 1",
+     "cuota": 1.28,
+     "frecuencia": 0.889,
+     "ventaja": 0.108,
+     "tipo": "jugador",
+     "jugador": "Mikael Egill Ellertsson",
+     "equipo": "Genoa",
+     "jugador_id": 89520,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Mikael Egill Ellertsson comete 1+ faltas",
+     "detalle": "Mikael Egill Ellertsson 8/9",
+     "temporada": "8/9",
+     "movimiento": -0.059,
+     "cuota_inicial": 1.36,
+     "arbitro": "Daniele Doveri",
+     "arbitro_tarjetas": 3.7,
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.713
+    },
+    {
+     "partido_id": 1550173,
+     "fecha": "2026-10-28T18:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Parma",
+     "visitante": "Udinese",
      "mercado": "Total - Away",
-     "opcion": "Over 1.5",
+     "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "1899 Hoffenheim marca 2 o más",
+     "texto": "Udinese marca",
      "cuota": 1.33,
      "frecuencia": 0.8,
      "ventaja": 0.048,
-     "detalle": "1899 Hoffenheim 8/10 · rival de categoría inferior",
-     "copa": true,
+     "detalle": "Parma (en contra) 9/10 · Udinese 7/10",
      "valor_mercado": 0.0,
-     "arbitro": "Bastian Dankert",
-     "arbitro_tarjetas": 4.0,
-     "prob_aprendida": 0.72
+     "movimiento": 0.023,
+     "cuota_inicial": 1.3,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 2.7,
+     "prob_xg": 0.755,
+     "xg_esperado": 2.96,
+     "posiciones": [
+      19,
+      17,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.73
+    },
+    {
+     "partido_id": 1550171,
+     "fecha": "2026-10-28T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Genoa",
+     "visitante": "Juventus",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Genoa–Juventus",
+     "cuota": 1.44,
+     "frecuencia": 0.85,
+     "ventaja": 0.156,
+     "detalle": "Genoa 7/10 · Juventus 10/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.083,
+     "cuota_inicial": 1.33,
+     "arbitro": "Daniele Doveri",
+     "arbitro_tarjetas": 3.7,
+     "prob_xg": 0.659,
+     "xg_esperado": 2.26,
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.729
     },
     {
      "partido_id": 1640388,
@@ -323,36 +390,6 @@
      "prob_aprendida": 0.73
     },
     {
-     "partido_id": 1550173,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Parma",
-     "visitante": "Udinese",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Udinese marca",
-     "cuota": 1.33,
-     "frecuencia": 0.8,
-     "ventaja": 0.048,
-     "detalle": "Parma (en contra) 9/10 · Udinese 7/10",
-     "valor_mercado": -0.015,
-     "movimiento": 0.023,
-     "cuota_inicial": 1.3,
-     "arbitro": "Davide Massa",
-     "arbitro_tarjetas": 2.7,
-     "prob_xg": 0.755,
-     "xg_esperado": 2.96,
-     "posiciones": [
-      19,
-      17,
-      20
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.724
-    },
-    {
      "partido_id": 1640383,
      "fecha": "2026-10-28T20:45",
      "competicion": "Carabao Cup",
@@ -371,6 +408,32 @@
      "arbitro": "Tony Harrington",
      "arbitro_tarjetas": 3.3,
      "prob_aprendida": 0.725
+    },
+    {
+     "partido_id": 1550173,
+     "fecha": "2026-10-28T18:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Parma",
+     "visitante": "Udinese",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Parma–Udinese",
+     "cuota": 1.44,
+     "frecuencia": 0.75,
+     "ventaja": 0.056,
+     "detalle": "Parma 7/10 · Udinese 8/10",
+     "valor_mercado": -0.02,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 2.7,
+     "posiciones": [
+      19,
+      17,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.692
     },
     {
      "partido_id": 1640388,
@@ -396,37 +459,6 @@
      "arbitro": "Darren England",
      "arbitro_tarjetas": 3.6,
      "prob_aprendida": 0.713
-    },
-    {
-     "partido_id": 1550171,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Juventus",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Mikael Egill Ellertsson - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.889,
-     "ventaja": 0.154,
-     "tipo": "jugador",
-     "jugador": "Mikael Egill Ellertsson",
-     "equipo": "Genoa",
-     "jugador_id": 89520,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Mikael Egill Ellertsson comete 1+ faltas",
-     "detalle": "Mikael Egill Ellertsson 8/9",
-     "temporada": "8/9",
-     "arbitro": "Daniele Doveri",
-     "arbitro_tarjetas": 3.7,
-     "posiciones": [
-      16,
-      7,
-      20
-     ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.688
     },
     {
      "partido_id": 1640575,
@@ -510,56 +542,6 @@
      "prob_aprendida": 0.693
     },
     {
-     "partido_id": 1550173,
-     "fecha": "2026-10-28T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Parma",
-     "visitante": "Udinese",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Parma–Udinese",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Parma 7/10 · Udinese 8/10",
-     "valor_mercado": -0.027,
-     "arbitro": "Davide Massa",
-     "arbitro_tarjetas": 2.7,
-     "posiciones": [
-      19,
-      17,
-      20
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.68
-    },
-    {
-     "partido_id": 1641985,
-     "fecha": "2026-10-28T18:45",
-     "competicion": "KNVB Beker",
-     "liga_id": 90,
-     "local": "Sparta Rotterdam",
-     "visitante": "Fortuna Sittard",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Sparta Rotterdam–Fortuna Sittard",
-     "cuota": 1.53,
-     "frecuencia": 0.75,
-     "ventaja": 0.096,
-     "detalle": "Sparta Rotterdam 8/10 · Fortuna Sittard 7/10",
-     "valor_mercado": 0.007,
-     "movimiento": -0.056,
-     "cuota_inicial": 1.62,
-     "arbitro": "S. van der Eijk",
-     "arbitro_tarjetas": 1.0,
-     "prob_xg": 0.614,
-     "xg_esperado": 3.21,
-     "prob_aprendida": 0.629
-    },
-    {
      "partido_id": 1640387,
      "fecha": "2026-10-28T20:45",
      "competicion": "Carabao Cup",
@@ -616,6 +598,30 @@
      "prob_aprendida": 0.637
     },
     {
+     "partido_id": 1641985,
+     "fecha": "2026-10-28T18:45",
+     "competicion": "KNVB Beker",
+     "liga_id": 90,
+     "local": "Sparta Rotterdam",
+     "visitante": "Fortuna Sittard",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Sparta Rotterdam–Fortuna Sittard",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Sparta Rotterdam 8/10 · Fortuna Sittard 7/10",
+     "valor_mercado": -0.02,
+     "movimiento": -0.074,
+     "cuota_inicial": 1.62,
+     "arbitro": "S. van der Eijk",
+     "arbitro_tarjetas": 1.0,
+     "prob_xg": 0.614,
+     "xg_esperado": 3.21,
+     "prob_aprendida": 0.626
+    },
+    {
      "partido_id": 1640387,
      "fecha": "2026-10-28T20:45",
      "competicion": "Carabao Cup",
@@ -668,34 +674,6 @@
      "prob_aprendida": 0.536
     },
     {
-     "partido_id": 1550171,
-     "fecha": "2026-10-28T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Genoa",
-     "visitante": "Juventus",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Genoa ve más de 1,5 tarjetas",
-     "cuota": 1.73,
-     "frecuencia": 0.75,
-     "ventaja": 0.172,
-     "detalle": "Genoa 7/10 · Juventus (en contra) 8/10",
-     "valor_mercado": 0.068,
-     "movimiento": 0.131,
-     "cuota_inicial": 1.53,
-     "arbitro": "Daniele Doveri",
-     "arbitro_tarjetas": 3.7,
-     "posiciones": [
-      16,
-      7,
-      20
-     ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.552
-    },
-    {
      "partido_id": 1640383,
      "fecha": "2026-10-28T20:45",
      "competicion": "Carabao Cup",
@@ -710,12 +688,40 @@
      "frecuencia": 0.8,
      "ventaja": 0.212,
      "detalle": "Bournemouth 8/10 · Aston Villa 8/10",
-     "valor_mercado": -0.017,
+     "valor_mercado": -0.012,
      "arbitro": "Tony Harrington",
      "arbitro_tarjetas": 3.3,
      "prob_xg": 0.621,
      "xg_esperado": 3.21,
-     "prob_aprendida": 0.531
+     "prob_aprendida": 0.533
+    },
+    {
+     "partido_id": 1550171,
+     "fecha": "2026-10-28T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Genoa",
+     "visitante": "Juventus",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Genoa ve más de 1,5 tarjetas",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Genoa 7/10 · Juventus (en contra) 8/10",
+     "valor_mercado": 0.036,
+     "movimiento": 0.131,
+     "cuota_inicial": 1.53,
+     "arbitro": "Daniele Doveri",
+     "arbitro_tarjetas": 3.7,
+     "posiciones": [
+      16,
+      7,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.542
     }
    ],
    "mejores_por_partido": [
@@ -730,12 +736,12 @@
      "opcion": "Draw/Away",
      "tipo": "resultado",
      "texto": "Brentford o empate",
-     "cuota": 1.3,
+     "cuota": 1.28,
      "frecuencia": 0.8,
-     "ventaja": 0.031,
+     "ventaja": 0.019,
      "detalle": "Sunderland 7/10 · Brentford 9/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.016,
+     "valor_mercado": -0.015,
+     "movimiento": 0.0,
      "cuota_inicial": 1.28,
      "arbitro": "Gavin Ward",
      "arbitro_tarjetas": 4.0,
@@ -756,7 +762,7 @@
      "frecuencia": 0.75,
      "ventaja": 0.015,
      "detalle": "Venezia 8/10 · Inter 7/10",
-     "valor_mercado": 0.023,
+     "valor_mercado": 0.007,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
      "arbitro": "Luca J. Pairetto",
@@ -767,29 +773,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.783
-    },
-    {
-     "partido_id": 1641985,
-     "fecha": "2026-10-28T18:45",
-     "competicion": "KNVB Beker",
-     "liga_id": 90,
-     "local": "Sparta Rotterdam",
-     "visitante": "Fortuna Sittard",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Fortuna Sittard marca",
-     "cuota": 1.4,
-     "frecuencia": 0.95,
-     "ventaja": 0.236,
-     "detalle": "Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10",
-     "valor_mercado": 0.077,
-     "arbitro": "S. van der Eijk",
-     "arbitro_tarjetas": 1.0,
-     "prob_xg": 0.717,
-     "xg_esperado": 3.21,
-     "prob_aprendida": 0.732
+     "prob_aprendida": 0.782
     },
     {
      "partido_id": 1550173,
@@ -802,12 +786,12 @@
      "opcion": "Over 1.5",
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Parma–Udinese",
-     "cuota": 1.4,
+     "cuota": 1.33,
      "frecuencia": 0.85,
-     "ventaja": 0.136,
+     "ventaja": 0.098,
      "detalle": "Parma 9/10 · Udinese 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.029,
+     "valor_mercado": -0.022,
+     "movimiento": -0.022,
      "cuota_inicial": 1.36,
      "arbitro": "Davide Massa",
      "arbitro_tarjetas": 2.7,
@@ -819,7 +803,7 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.782
+     "prob_aprendida": 0.783
     },
     {
      "partido_id": 1550172,
@@ -836,7 +820,7 @@
      "frecuencia": 0.9,
      "ventaja": 0.186,
      "detalle": "Monza 10/10 · Napoli (en contra) 8/10",
-     "valor_mercado": -0.014,
+     "valor_mercado": -0.007,
      "movimiento": -0.028,
      "cuota_inicial": 1.44,
      "arbitro": "Giovanni Ayroldi",
@@ -849,7 +833,31 @@
       20
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.756
+     "prob_aprendida": 0.759
+    },
+    {
+     "partido_id": 1641985,
+     "fecha": "2026-10-28T18:45",
+     "competicion": "KNVB Beker",
+     "liga_id": 90,
+     "local": "Sparta Rotterdam",
+     "visitante": "Fortuna Sittard",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Fortuna Sittard marca",
+     "cuota": 1.33,
+     "frecuencia": 0.95,
+     "ventaja": 0.198,
+     "detalle": "Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10",
+     "valor_mercado": 0.031,
+     "movimiento": -0.05,
+     "cuota_inicial": 1.4,
+     "arbitro": "S. van der Eijk",
+     "arbitro_tarjetas": 1.0,
+     "prob_xg": 0.717,
+     "xg_esperado": 3.21,
+     "prob_aprendida": 0.735
     },
     {
      "partido_id": 1550171,
@@ -862,11 +870,13 @@
      "opcion": "Over 0.5",
      "tipo": "goles",
      "texto": "Gol en la 2ª parte del Genoa–Juventus",
-     "cuota": 1.25,
+     "cuota": 1.33,
      "frecuencia": 0.85,
-     "ventaja": 0.05,
+     "ventaja": 0.098,
      "detalle": "Genoa 8/10 · Juventus 9/10",
-     "valor_mercado": -0.023,
+     "valor_mercado": -0.022,
+     "movimiento": 0.064,
+     "cuota_inicial": 1.25,
      "arbitro": "Daniele Doveri",
      "arbitro_tarjetas": 3.7,
      "posiciones": [
@@ -875,7 +885,7 @@
       20
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.788
+     "prob_aprendida": 0.763
     },
     {
      "partido_id": 1638568,
@@ -893,10 +903,10 @@
      "ventaja": 0.048,
      "detalle": "1899 Hoffenheim 8/10 · rival de categoría inferior",
      "copa": true,
-     "valor_mercado": 0.0,
+     "valor_mercado": 0.008,
      "arbitro": "Bastian Dankert",
      "arbitro_tarjetas": 4.0,
-     "prob_aprendida": 0.72
+     "prob_aprendida": 0.723
     },
     {
      "partido_id": 1640388,
@@ -1008,45 +1018,49 @@
        "opcion": "Draw/Away",
        "tipo": "resultado",
        "texto": "Brentford o empate",
-       "cuota": 1.3,
+       "cuota": 1.28,
        "frecuencia": 0.8,
-       "ventaja": 0.031,
+       "ventaja": 0.019,
        "detalle": "Sunderland 7/10 · Brentford 9/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.016,
+       "valor_mercado": -0.015,
+       "movimiento": 0.0,
        "cuota_inicial": 1.28,
        "arbitro": "Gavin Ward",
        "arbitro_tarjetas": 4.0,
        "prob_aprendida": 0.817
       },
       {
-       "partido_id": 1550171,
-       "fecha": "2026-10-28T20:45",
+       "partido_id": 1550173,
+       "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
        "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "Juventus",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 0.5",
+       "local": "Parma",
+       "visitante": "Udinese",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
        "tipo": "goles",
-       "texto": "Gol en la 2ª parte del Genoa–Juventus",
-       "cuota": 1.25,
+       "texto": "Más de 1,5 goles en Parma–Udinese",
+       "cuota": 1.33,
        "frecuencia": 0.85,
-       "ventaja": 0.05,
-       "detalle": "Genoa 8/10 · Juventus 9/10",
-       "valor_mercado": -0.023,
-       "arbitro": "Daniele Doveri",
-       "arbitro_tarjetas": 3.7,
+       "ventaja": 0.098,
+       "detalle": "Parma 9/10 · Udinese 8/10",
+       "valor_mercado": -0.022,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "arbitro": "Davide Massa",
+       "arbitro_tarjetas": 2.7,
+       "prob_xg": 0.794,
+       "xg_esperado": 2.96,
        "posiciones": [
-        16,
-        7,
+        19,
+        17,
         20
        ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.788
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.783
       }
      ],
-     "cuota": 1.62
+     "cuota": 1.7
     },
     "cuota_3": {
      "picks": [
@@ -1065,7 +1079,7 @@
        "frecuencia": 0.75,
        "ventaja": 0.015,
        "detalle": "Venezia 8/10 · Inter 7/10",
-       "valor_mercado": 0.023,
+       "valor_mercado": 0.007,
        "movimiento": 0.023,
        "cuota_inicial": 1.33,
        "arbitro": "Luca J. Pairetto",
@@ -1076,7 +1090,37 @@
         20
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.783
+       "prob_aprendida": 0.782
+      },
+      {
+       "partido_id": 1550172,
+       "fecha": "2026-10-28T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Monza",
+       "visitante": "Napoli",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Monza marca",
+       "cuota": 1.4,
+       "frecuencia": 0.9,
+       "ventaja": 0.186,
+       "detalle": "Monza 10/10 · Napoli (en contra) 8/10",
+       "valor_mercado": -0.007,
+       "movimiento": -0.028,
+       "cuota_inicial": 1.44,
+       "arbitro": "Giovanni Ayroldi",
+       "arbitro_tarjetas": 4.5,
+       "prob_xg": 0.812,
+       "xg_esperado": 3.2,
+       "posiciones": [
+        15,
+        10,
+        20
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.759
       },
       {
        "partido_id": 1641985,
@@ -1089,74 +1133,54 @@
        "opcion": "Over 0.5",
        "tipo": "goles",
        "texto": "Fortuna Sittard marca",
-       "cuota": 1.4,
+       "cuota": 1.33,
        "frecuencia": 0.95,
-       "ventaja": 0.236,
+       "ventaja": 0.198,
        "detalle": "Sparta Rotterdam (en contra) 10/10 · Fortuna Sittard 9/10",
-       "valor_mercado": 0.077,
+       "valor_mercado": 0.031,
+       "movimiento": -0.05,
+       "cuota_inicial": 1.4,
        "arbitro": "S. van der Eijk",
        "arbitro_tarjetas": 1.0,
        "prob_xg": 0.717,
        "xg_esperado": 3.21,
-       "prob_aprendida": 0.732
+       "prob_aprendida": 0.735
       },
       {
-       "partido_id": 1550173,
-       "fecha": "2026-10-28T18:30",
+       "partido_id": 1550171,
+       "fecha": "2026-10-28T20:45",
        "competicion": "Serie A",
        "liga_id": 135,
-       "local": "Parma",
-       "visitante": "Udinese",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Parma–Udinese",
-       "cuota": 1.4,
-       "frecuencia": 0.85,
-       "ventaja": 0.136,
-       "detalle": "Parma 9/10 · Udinese 8/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.029,
-       "cuota_inicial": 1.36,
-       "arbitro": "Davide Massa",
-       "arbitro_tarjetas": 2.7,
-       "prob_xg": 0.794,
-       "xg_esperado": 2.96,
-       "posiciones": [
-        19,
-        17,
-        20
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.782
-      },
-      {
-       "partido_id": 1640388,
-       "fecha": "2026-10-28T21:00",
-       "competicion": "Carabao Cup",
-       "liga_id": 48,
-       "local": "Liverpool",
-       "visitante": "Chelsea",
+       "local": "Genoa",
+       "visitante": "Juventus",
        "mercado": "Player Fouls Committed",
-       "opcion": "Ryan Gravenberch - 1",
-       "cuota": 1.25,
-       "frecuencia": 1.0,
-       "ventaja": 0.2,
+       "opcion": "Mikael Egill Ellertsson - 1",
+       "cuota": 1.28,
+       "frecuencia": 0.889,
+       "ventaja": 0.108,
        "tipo": "jugador",
-       "jugador": "Ryan Gravenberch",
-       "equipo": "Liverpool",
-       "jugador_id": 542,
+       "jugador": "Mikael Egill Ellertsson",
+       "equipo": "Genoa",
+       "jugador_id": 89520,
        "campo": "faltas_c",
        "n": 1,
-       "texto": "Ryan Gravenberch comete 1+ faltas",
-       "detalle": "Ryan Gravenberch 6/6",
-       "temporada": "6/6",
-       "arbitro": "Darren England",
-       "arbitro_tarjetas": 3.6,
-       "prob_aprendida": 0.73
+       "texto": "Mikael Egill Ellertsson comete 1+ faltas",
+       "detalle": "Mikael Egill Ellertsson 8/9",
+       "temporada": "8/9",
+       "movimiento": -0.059,
+       "cuota_inicial": 1.36,
+       "arbitro": "Daniele Doveri",
+       "arbitro_tarjetas": 3.7,
+       "posiciones": [
+        16,
+        7,
+        20
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.713
       }
      ],
-     "cuota": 3.33
+     "cuota": 3.24
     },
     "loca": null,
     "doble": null
@@ -1224,6 +1248,32 @@
     "liga": {
      "picks": [
       {
+       "partido_id": 1550173,
+       "fecha": "2026-10-28T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Parma",
+       "visitante": "Udinese",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 2ª parte del Parma–Udinese",
+       "cuota": 1.28,
+       "frecuencia": 0.8,
+       "ventaja": 0.019,
+       "detalle": "Parma 7/10 · Udinese 9/10",
+       "valor_mercado": -0.008,
+       "arbitro": "Davide Massa",
+       "arbitro_tarjetas": 2.7,
+       "posiciones": [
+        19,
+        17,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.779
+      },
+      {
        "partido_id": 1550167,
        "fecha": "2026-10-28T18:30",
        "competicion": "Serie A",
@@ -1234,11 +1284,13 @@
        "opcion": "Over 1.5",
        "tipo": "goles",
        "texto": "Más de 1,5 goles en AC Milan–Bologna",
-       "cuota": 1.25,
+       "cuota": 1.28,
        "frecuencia": 0.833,
-       "ventaja": 0.033,
+       "ventaja": 0.052,
        "detalle": "AC Milan 10/10 · Bologna 5/8",
-       "valor_mercado": -0.008,
+       "valor_mercado": -0.038,
+       "movimiento": 0.024,
+       "cuota_inicial": 1.25,
        "arbitro": "Juan Luca Sacchi",
        "arbitro_tarjetas": 3.3,
        "prob_xg": 0.777,
@@ -1249,37 +1301,7 @@
         20
        ],
        "contexto": "total_lejos",
-       "prob_aprendida": 0.821
-      },
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Monza marca",
-       "cuota": 1.4,
-       "frecuencia": 0.9,
-       "ventaja": 0.186,
-       "detalle": "Monza 10/10 · Napoli (en contra) 8/10",
-       "valor_mercado": -0.014,
-       "movimiento": -0.028,
-       "cuota_inicial": 1.44,
-       "arbitro": "Giovanni Ayroldi",
-       "arbitro_tarjetas": 4.5,
-       "prob_xg": 0.812,
-       "xg_esperado": 3.2,
-       "posiciones": [
-        15,
-        10,
-        20
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.756
+       "prob_aprendida": 0.789
       },
       {
        "partido_id": 1550171,
@@ -1288,20 +1310,17 @@
        "liga_id": 135,
        "local": "Genoa",
        "visitante": "Juventus",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Mikael Egill Ellertsson - 1",
-       "cuota": 1.36,
-       "frecuencia": 0.889,
-       "ventaja": 0.154,
-       "tipo": "jugador",
-       "jugador": "Mikael Egill Ellertsson",
-       "equipo": "Genoa",
-       "jugador_id": 89520,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Mikael Egill Ellertsson comete 1+ faltas",
-       "detalle": "Mikael Egill Ellertsson 8/9",
-       "temporada": "8/9",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Juventus gana alguna de las dos partes",
+       "cuota": 1.44,
+       "frecuencia": 0.7,
+       "ventaja": 0.006,
+       "detalle": "Genoa 7/10 · Juventus 7/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.029,
+       "cuota_inicial": 1.4,
        "arbitro": "Daniele Doveri",
        "arbitro_tarjetas": 3.7,
        "posiciones": [
@@ -1309,36 +1328,42 @@
         7,
         20
        ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.688
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.714
       },
       {
-       "partido_id": 1550176,
-       "fecha": "2026-10-28T18:30",
+       "partido_id": 1550172,
+       "fecha": "2026-10-28T20:45",
        "competicion": "Serie A",
        "liga_id": 135,
-       "local": "Venezia",
-       "visitante": "Inter",
-       "mercado": "Total ShotOnGoal",
-       "opcion": "Over 10.5",
-       "tipo": "tiros a puerta",
-       "texto": "Más de 10,5 tiros a puerta en Venezia–Inter",
-       "cuota": 1.91,
-       "frecuencia": 0.65,
-       "ventaja": 0.126,
-       "detalle": "Venezia 7/10 · Inter 6/10",
-       "arbitro": "Luca J. Pairetto",
-       "arbitro_tarjetas": null,
+       "local": "Monza",
+       "visitante": "Napoli",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Kevin De Bruyne - 1",
+       "cuota": 1.57,
+       "frecuencia": 0.857,
+       "ventaja": 0.22,
+       "tipo": "jugador",
+       "jugador": "Kevin De Bruyne",
+       "equipo": "Napoli",
+       "jugador_id": 629,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Kevin De Bruyne comete 1+ faltas",
+       "detalle": "Kevin De Bruyne 6/7",
+       "temporada": "6/7",
+       "arbitro": "Giovanni Ayroldi",
+       "arbitro_tarjetas": 4.5,
        "posiciones": [
-        20,
-        2,
+        15,
+        10,
         20
        ],
-       "contexto": "total_abismo",
-       "prob_aprendida": 0.501
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.637
       }
      ],
-     "cuota": 4.55,
+     "cuota": 3.7,
      "titulo": "🇮🇹 COMBI SERIE A",
      "liga": "Serie A"
     },
@@ -1359,10 +1384,10 @@
        "frecuencia": 0.8,
        "ventaja": 0.254,
        "detalle": "Sparta Rotterdam 8/10 · Fortuna Sittard 8/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": 0.046,
        "arbitro": "S. van der Eijk",
        "arbitro_tarjetas": 1.0,
-       "prob_aprendida": 0.634
+       "prob_aprendida": 0.643
       },
       {
        "partido_id": 1550172,
@@ -1435,36 +1460,6 @@
        "liga_id": 135,
        "local": "Monza",
        "visitante": "Napoli",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Monza marca",
-       "cuota": 1.4,
-       "frecuencia": 0.9,
-       "ventaja": 0.186,
-       "detalle": "Monza 10/10 · Napoli (en contra) 8/10",
-       "valor_mercado": -0.014,
-       "movimiento": -0.028,
-       "cuota_inicial": 1.44,
-       "arbitro": "Giovanni Ayroldi",
-       "arbitro_tarjetas": 4.5,
-       "prob_xg": 0.812,
-       "xg_esperado": 3.2,
-       "posiciones": [
-        15,
-        10,
-        20
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.756
-      },
-      {
-       "partido_id": 1550172,
-       "fecha": "2026-10-28T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Napoli",
        "mercado": "To Win Either Half",
        "opcion": "Home",
        "tipo": "resultado",
@@ -1509,9 +1504,39 @@
        ],
        "contexto": "peor_lejos",
        "prob_aprendida": 0.563
+      },
+      {
+       "partido_id": 1550172,
+       "fecha": "2026-10-28T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Monza",
+       "visitante": "Napoli",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Monza–Napoli",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Monza 7/10 · Napoli 6/10",
+       "valor_mercado": 0.031,
+       "movimiento": -0.018,
+       "cuota_inicial": 1.7,
+       "arbitro": "Giovanni Ayroldi",
+       "arbitro_tarjetas": 4.5,
+       "prob_xg": 0.636,
+       "xg_esperado": 3.2,
+       "posiciones": [
+        15,
+        10,
+        20
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.551
       }
      ],
-     "cuota_sumada": 10.06,
+     "cuota_sumada": 12.0,
      "partido_id": 1550172,
      "fecha": "2026-10-28T20:45",
      "local": "Monza",
@@ -1721,11 +1746,13 @@
      "opcion": "Over 1.5",
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Sheffield Utd–Wrexham",
-     "cuota": 1.28,
+     "cuota": 1.3,
      "frecuencia": 0.8,
-     "ventaja": 0.019,
+     "ventaja": 0.031,
      "detalle": "Sheffield Utd 7/10 · Wrexham 9/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": 0.008,
+     "movimiento": 0.016,
+     "cuota_inicial": 1.28,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
      "posiciones": [
@@ -1734,7 +1761,7 @@
       24
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.789
+     "prob_aprendida": 0.79
     },
     {
      "partido_id": 1563233,
@@ -1751,7 +1778,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.019,
      "detalle": "Sheffield Utd 8/10 · Wrexham (en contra) 8/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": 0.016,
      "prob_xg": 0.712,
      "xg_esperado": 2.53,
      "posiciones": [
@@ -1760,7 +1787,7 @@
       24
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.761
+     "prob_aprendida": 0.771
     },
     {
      "partido_id": 1563233,
@@ -1787,6 +1814,34 @@
      "prob_aprendida": 0.727
     },
     {
+     "partido_id": 1570442,
+     "fecha": "2026-10-30T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Villarreal",
+     "visitante": "Espanyol",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Espanyol marca",
+     "cuota": 1.5,
+     "frecuencia": 0.85,
+     "ventaja": 0.183,
+     "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.042,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.71,
+     "xg_esperado": 2.99,
+     "posiciones": [
+      10,
+      18,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.695
+    },
+    {
      "partido_id": 1575211,
      "fecha": "2026-10-30T20:30",
      "competicion": "Bundesliga",
@@ -1810,34 +1865,6 @@
      "prob_aprendida": 0.671
     },
     {
-     "partido_id": 1570442,
-     "fecha": "2026-10-30T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Villarreal",
-     "visitante": "Espanyol",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Espanyol marca",
-     "cuota": 1.5,
-     "frecuencia": 0.85,
-     "ventaja": 0.183,
-     "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
-     "valor_mercado": -0.007,
-     "movimiento": 0.042,
-     "cuota_inicial": 1.44,
-     "prob_xg": 0.71,
-     "xg_esperado": 2.99,
-     "posiciones": [
-      10,
-      18,
-      20
-     ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.692
-    },
-    {
      "partido_id": 1552802,
      "fecha": "2026-10-30T21:05",
      "competicion": "Ligue 1",
@@ -1852,14 +1879,14 @@
      "frecuencia": 0.8,
      "ventaja": 0.031,
      "detalle": "Lille 8/10 · Lens 8/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": -0.015,
      "posiciones": [
       3,
       7,
       18
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.675
+     "prob_aprendida": 0.672
     },
     {
      "partido_id": 1570442,
@@ -1900,11 +1927,13 @@
      "opcion": "Over 1.5",
      "tipo": "goles",
      "texto": "Más de 1,5 goles en Sheffield Utd–Wrexham",
-     "cuota": 1.28,
+     "cuota": 1.3,
      "frecuencia": 0.8,
-     "ventaja": 0.019,
+     "ventaja": 0.031,
      "detalle": "Sheffield Utd 7/10 · Wrexham 9/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": 0.008,
+     "movimiento": 0.016,
+     "cuota_inicial": 1.28,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
      "posiciones": [
@@ -1913,7 +1942,35 @@
       24
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.789
+     "prob_aprendida": 0.79
+    },
+    {
+     "partido_id": 1570442,
+     "fecha": "2026-10-30T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Villarreal",
+     "visitante": "Espanyol",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Espanyol marca",
+     "cuota": 1.5,
+     "frecuencia": 0.85,
+     "ventaja": 0.183,
+     "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.042,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.71,
+     "xg_esperado": 2.99,
+     "posiciones": [
+      10,
+      18,
+      20
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.695
     },
     {
      "partido_id": 1575211,
@@ -1939,34 +1996,6 @@
      "prob_aprendida": 0.671
     },
     {
-     "partido_id": 1570442,
-     "fecha": "2026-10-30T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Villarreal",
-     "visitante": "Espanyol",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Espanyol marca",
-     "cuota": 1.5,
-     "frecuencia": 0.85,
-     "ventaja": 0.183,
-     "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
-     "valor_mercado": -0.007,
-     "movimiento": 0.042,
-     "cuota_inicial": 1.44,
-     "prob_xg": 0.71,
-     "xg_esperado": 2.99,
-     "posiciones": [
-      10,
-      18,
-      20
-     ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.692
-    },
-    {
      "partido_id": 1552802,
      "fecha": "2026-10-30T21:05",
      "competicion": "Ligue 1",
@@ -1981,14 +2010,14 @@
      "frecuencia": 0.8,
      "ventaja": 0.031,
      "detalle": "Lille 8/10 · Lens 8/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": -0.015,
      "posiciones": [
       3,
       7,
       18
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.675
+     "prob_aprendida": 0.672
     }
    ],
    "combis": {
@@ -2005,11 +2034,13 @@
        "opcion": "Over 1.5",
        "tipo": "goles",
        "texto": "Más de 1,5 goles en Sheffield Utd–Wrexham",
-       "cuota": 1.28,
+       "cuota": 1.3,
        "frecuencia": 0.8,
-       "ventaja": 0.019,
+       "ventaja": 0.031,
        "detalle": "Sheffield Utd 7/10 · Wrexham 9/10",
-       "valor_mercado": -0.008,
+       "valor_mercado": 0.008,
+       "movimiento": 0.016,
+       "cuota_inicial": 1.28,
        "prob_xg": 0.719,
        "xg_esperado": 2.53,
        "posiciones": [
@@ -2018,7 +2049,7 @@
         24
        ],
        "contexto": "total_lejos",
-       "prob_aprendida": 0.789
+       "prob_aprendida": 0.79
       },
       {
        "partido_id": 1552802,
@@ -2035,17 +2066,17 @@
        "frecuencia": 0.8,
        "ventaja": 0.031,
        "detalle": "Lille 8/10 · Lens 8/10",
-       "valor_mercado": -0.008,
+       "valor_mercado": -0.015,
        "posiciones": [
         3,
         7,
         18
        ],
        "contexto": "total_lejos",
-       "prob_aprendida": 0.675
+       "prob_aprendida": 0.672
       }
      ],
-     "cuota": 1.66
+     "cuota": 1.69
     },
     "cuota_3": {
      "picks": [
@@ -2064,7 +2095,7 @@
        "frecuencia": 0.8,
        "ventaja": 0.019,
        "detalle": "Sheffield Utd 8/10 · Wrexham (en contra) 8/10",
-       "valor_mercado": -0.008,
+       "valor_mercado": 0.016,
        "prob_xg": 0.712,
        "xg_esperado": 2.53,
        "posiciones": [
@@ -2073,7 +2104,35 @@
         24
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.761
+       "prob_aprendida": 0.771
+      },
+      {
+       "partido_id": 1570442,
+       "fecha": "2026-10-30T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Villarreal",
+       "visitante": "Espanyol",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Espanyol marca",
+       "cuota": 1.5,
+       "frecuencia": 0.85,
+       "ventaja": 0.183,
+       "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.042,
+       "cuota_inicial": 1.44,
+       "prob_xg": 0.71,
+       "xg_esperado": 2.99,
+       "posiciones": [
+        10,
+        18,
+        20
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.695
       },
       {
        "partido_id": 1575211,
@@ -2097,34 +2156,6 @@
        ],
        "contexto": "total_igualado",
        "prob_aprendida": 0.671
-      },
-      {
-       "partido_id": 1570442,
-       "fecha": "2026-10-30T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Villarreal",
-       "visitante": "Espanyol",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Espanyol marca",
-       "cuota": 1.5,
-       "frecuencia": 0.85,
-       "ventaja": 0.183,
-       "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
-       "valor_mercado": -0.007,
-       "movimiento": 0.042,
-       "cuota_inicial": 1.44,
-       "prob_xg": 0.71,
-       "xg_esperado": 2.99,
-       "posiciones": [
-        10,
-        18,
-        20
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.692
       }
      ],
      "cuota": 2.94
@@ -2132,7 +2163,65 @@
     "loca": null,
     "doble": null
    },
-   "estilos": {},
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1552806,
+       "fecha": "2026-10-30T19:00",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Nice",
+       "visitante": "Rennes",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Rennes o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.722,
+       "ventaja": 0.028,
+       "detalle": "Nice 5/8 · Rennes 8/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        10,
+        2,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.682
+      },
+      {
+       "partido_id": 1552802,
+       "fecha": "2026-10-30T21:05",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Lille",
+       "visitante": "Lens",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Lille gana alguna de las dos partes",
+       "cuota": 1.73,
+       "frecuencia": 0.7,
+       "ventaja": 0.122,
+       "detalle": "Lille 7/10 · Lens 7/10",
+       "valor_mercado": 0.018,
+       "movimiento": 0.036,
+       "cuota_inicial": 1.67,
+       "posiciones": [
+        3,
+        7,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.566
+      }
+     ],
+     "cuota": 2.49,
+     "titulo": "👑 VIERNES DE FAVORITOS",
+     "tema": "favoritos"
+    }
+   },
    "combis_partido": []
   },
   "2026-10-31": {
@@ -2521,6 +2610,34 @@
      "prob_aprendida": 0.782
     },
     {
+     "partido_id": 1563238,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Wolves",
+     "visitante": "Cardiff",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cardiff marca",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Wolves (en contra) 7/10 · Cardiff 8/10",
+     "valor_mercado": 0.03,
+     "movimiento": -0.056,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.77,
+     "xg_esperado": 3.09,
+     "posiciones": [
+      5,
+      16,
+      24
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.722
+    },
+    {
      "partido_id": 1575208,
      "fecha": "2026-10-31T15:30",
      "competicion": "Bundesliga",
@@ -2600,34 +2717,6 @@
      ],
      "contexto": "mejor_igualado",
      "prob_aprendida": 0.759
-    },
-    {
-     "partido_id": 1563238,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Wolves",
-     "visitante": "Cardiff",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Cardiff marca",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Wolves (en contra) 7/10 · Cardiff 8/10",
-     "valor_mercado": 0.023,
-     "movimiento": -0.056,
-     "cuota_inicial": 1.44,
-     "prob_xg": 0.77,
-     "xg_esperado": 3.09,
-     "posiciones": [
-      5,
-      16,
-      24
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.719
     },
     {
      "partido_id": 1575535,
@@ -3151,30 +3240,6 @@
      "prob_aprendida": 0.711
     },
     {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Stoke City",
-     "cuota": 1.67,
-     "frecuencia": 0.65,
-     "ventaja": 0.051,
-     "detalle": "Stoke City 6/10 · Preston 7/10",
-     "valor_mercado": -0.018,
-     "posiciones": [
-      9,
-      24,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.64
-    },
-    {
      "partido_id": 1552211,
      "fecha": "2026-10-31T21:00",
      "competicion": "Eredivisie",
@@ -3227,6 +3292,32 @@
      "prob_aprendida": 0.675
     },
     {
+     "partido_id": 1563235,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Stoke City",
+     "visitante": "Preston",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Stoke City",
+     "cuota": 1.7,
+     "frecuencia": 0.65,
+     "ventaja": 0.062,
+     "detalle": "Stoke City 6/10 · Preston 7/10",
+     "valor_mercado": -0.017,
+     "movimiento": 0.018,
+     "cuota_inicial": 1.67,
+     "posiciones": [
+      9,
+      24,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.634
+    },
+    {
      "partido_id": 1552803,
      "fecha": "2026-10-31T20:45",
      "competicion": "Ligue 1",
@@ -3251,34 +3342,6 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.686
-    },
-    {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Manchester United marca",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Chelsea (en contra) 8/10 · Manchester United 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.062,
-     "cuota_inicial": 1.28,
-     "prob_xg": 0.742,
-     "xg_esperado": 2.85,
-     "posiciones": [
-      5,
-      16,
-      20
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.674
     },
     {
      "partido_id": 1557452,
@@ -3424,6 +3487,30 @@
      "prob_aprendida": 0.659
     },
     {
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Manchester United hace más de 3,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.85,
+     "ventaja": 0.233,
+     "detalle": "Chelsea (en contra) 9/10 · Manchester United 8/10",
+     "valor_mercado": 0.045,
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.57
+    },
+    {
      "partido_id": 1575204,
      "fecha": "2026-10-31T15:30",
      "competicion": "Bundesliga",
@@ -3470,6 +3557,35 @@
      ],
      "contexto": "mejor_abismo",
      "prob_aprendida": 0.563
+    },
+    {
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Pedro Neto - 1",
+     "cuota": 1.5,
+     "frecuencia": 0.857,
+     "ventaja": 0.19,
+     "tipo": "jugador",
+     "jugador": "Pedro Neto",
+     "equipo": "Chelsea",
+     "jugador_id": 1864,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Pedro Neto comete 1+ faltas",
+     "detalle": "Pedro Neto 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.598
     },
     {
      "partido_id": 1552207,
@@ -3548,6 +3664,35 @@
      ],
      "contexto": "total_igualado",
      "prob_aprendida": 0.523
+    },
+    {
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Pedro Neto - 1",
+     "cuota": 1.73,
+     "frecuencia": 0.857,
+     "ventaja": 0.279,
+     "tipo": "jugador",
+     "jugador": "Pedro Neto",
+     "equipo": "Chelsea",
+     "jugador_id": 1864,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Pedro Neto: 1+ tiros a puerta",
+     "detalle": "Pedro Neto 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.453
     }
    ],
    "mejores_por_partido": [
@@ -3835,6 +3980,34 @@
      "prob_aprendida": 0.782
     },
     {
+     "partido_id": 1563238,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Wolves",
+     "visitante": "Cardiff",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cardiff marca",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Wolves (en contra) 7/10 · Cardiff 8/10",
+     "valor_mercado": 0.03,
+     "movimiento": -0.056,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.77,
+     "xg_esperado": 3.09,
+     "posiciones": [
+      5,
+      16,
+      24
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.722
+    },
+    {
      "partido_id": 1575208,
      "fecha": "2026-10-31T15:30",
      "competicion": "Bundesliga",
@@ -3914,34 +4087,6 @@
      ],
      "contexto": "mejor_igualado",
      "prob_aprendida": 0.759
-    },
-    {
-     "partido_id": 1563238,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Wolves",
-     "visitante": "Cardiff",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Cardiff marca",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Wolves (en contra) 7/10 · Cardiff 8/10",
-     "valor_mercado": 0.023,
-     "movimiento": -0.056,
-     "cuota_inicial": 1.44,
-     "prob_xg": 0.77,
-     "xg_esperado": 3.09,
-     "posiciones": [
-      5,
-      16,
-      24
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.719
     },
     {
      "partido_id": 1557452,
@@ -4237,34 +4382,6 @@
      "prob_aprendida": 0.711
     },
     {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Manchester United marca",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Chelsea (en contra) 8/10 · Manchester United 7/10",
-     "valor_mercado": 0.023,
-     "movimiento": 0.062,
-     "cuota_inicial": 1.28,
-     "prob_xg": 0.742,
-     "xg_esperado": 2.85,
-     "posiciones": [
-      5,
-      16,
-      20
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.674
-    },
-    {
      "partido_id": 1570435,
      "fecha": "2026-10-31T18:30",
      "competicion": "LaLiga",
@@ -4315,6 +4432,30 @@
      ],
      "contexto": "peor_abismo",
      "prob_aprendida": 0.578
+    },
+    {
+     "partido_id": 1557450,
+     "fecha": "2026-10-31T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Chelsea",
+     "visitante": "Manchester United",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Manchester United hace más de 3,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.85,
+     "ventaja": 0.233,
+     "detalle": "Chelsea (en contra) 9/10 · Manchester United 8/10",
+     "valor_mercado": 0.045,
+     "posiciones": [
+      5,
+      16,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.57
     },
     {
      "partido_id": 1575204,
@@ -4722,31 +4863,31 @@
        "prob_aprendida": 0.584
       },
       {
-       "partido_id": 1575203,
-       "fecha": "2026-10-31T18:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Bayern München",
-       "visitante": "Borussia Dortmund",
-       "mercado": "Corners Over Under",
-       "opcion": "Over 9.5",
+       "partido_id": 1557450,
+       "fecha": "2026-10-31T13:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Chelsea",
+       "visitante": "Manchester United",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 3.5",
        "tipo": "corners",
-       "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
-       "cuota": 1.73,
-       "frecuencia": 0.75,
-       "ventaja": 0.172,
-       "detalle": "Bayern München 7/10 · Borussia Dortmund 8/10",
-       "valor_mercado": -0.011,
+       "texto": "Manchester United hace más de 3,5 córners",
+       "cuota": 1.62,
+       "frecuencia": 0.85,
+       "ventaja": 0.233,
+       "detalle": "Chelsea (en contra) 9/10 · Manchester United 8/10",
+       "valor_mercado": 0.045,
        "posiciones": [
-        1,
-        2,
-        18
+        5,
+        16,
+        20
        ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.523
+       "contexto": "peor_abismo",
+       "prob_aprendida": 0.57
       }
      ],
-     "cuota": 13.53
+     "cuota": 12.67
     },
     "doble": {
      "picks": [
@@ -5258,30 +5399,6 @@
      "prob_aprendida": 0.777
     },
     {
-     "partido_id": 1569993,
-     "fecha": "2026-11-01T18:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Burgos",
-     "visitante": "Castellón",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Burgos–Castellón",
-     "cuota": 1.4,
-     "frecuencia": 0.8,
-     "ventaja": 0.086,
-     "detalle": "Burgos 8/10 · Castellón 8/10",
-     "valor_mercado": 0.045,
-     "posiciones": [
-      6,
-      1,
-      22
-     ],
-     "contexto": "total_lejos",
-     "prob_aprendida": 0.751
-    },
-    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -5360,6 +5477,32 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.759
+    },
+    {
+     "partido_id": 1569993,
+     "fecha": "2026-11-01T18:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Burgos",
+     "visitante": "Castellón",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Burgos–Castellón",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "detalle": "Burgos 8/10 · Castellón 8/10",
+     "valor_mercado": -0.015,
+     "movimiento": -0.05,
+     "cuota_inicial": 1.4,
+     "posiciones": [
+      6,
+      1,
+      22
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.752
     },
     {
      "partido_id": 1575534,
@@ -5462,30 +5605,30 @@
      "prob_aprendida": 0.733
     },
     {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.53,
-     "frecuencia": 0.7,
-     "ventaja": 0.046,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": -0.013,
-     "movimiento": 0.034,
-     "cuota_inicial": 1.48,
+     "partido_id": 1575528,
+     "fecha": "2026-11-01T16:30",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Arouca",
+     "visitante": "Nacional",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Arouca–Nacional",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Arouca 7/10 · Nacional 8/10",
+     "valor_mercado": 0.023,
+     "movimiento": 0.023,
+     "cuota_inicial": 1.33,
      "posiciones": [
-      1,
-      9,
-      20
+      5,
+      15,
+      18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.723
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.726
     },
     {
      "partido_id": 1570438,
@@ -5592,6 +5735,56 @@
      "prob_aprendida": 0.731
     },
     {
+     "partido_id": 1575528,
+     "fecha": "2026-11-01T16:30",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Arouca",
+     "visitante": "Nacional",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Arouca",
+     "cuota": 1.8,
+     "frecuencia": 0.7,
+     "ventaja": 0.144,
+     "detalle": "Arouca 6/10 · Nacional 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.016,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      5,
+      15,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.645
+    },
+    {
+     "partido_id": 1550184,
+     "fecha": "2026-11-01T18:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Lecce",
+     "visitante": "Genoa",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Lecce–Genoa",
+     "cuota": 1.5,
+     "frecuencia": 0.789,
+     "ventaja": 0.123,
+     "detalle": "Lecce 8/9 · Genoa 7/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      12,
+      16,
+      20
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.687
+    },
+    {
      "partido_id": 1550180,
      "fecha": "2026-11-01T12:30",
      "competicion": "Serie A",
@@ -5606,7 +5799,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.031,
      "detalle": "Como 8/10 · Venezia (en contra) 8/10",
-     "valor_mercado": 0.016,
+     "valor_mercado": 0.008,
      "movimiento": 0.016,
      "cuota_inicial": 1.28,
      "prob_xg": 0.598,
@@ -5617,7 +5810,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.724
+     "prob_aprendida": 0.72
     },
     {
      "partido_id": 1570438,
@@ -5672,54 +5865,6 @@
      ],
      "contexto": "total_abismo",
      "prob_aprendida": 0.673
-    },
-    {
-     "partido_id": 1575528,
-     "fecha": "2026-11-01T16:30",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Arouca",
-     "visitante": "Nacional",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Arouca",
-     "cuota": 1.83,
-     "frecuencia": 0.7,
-     "ventaja": 0.154,
-     "detalle": "Arouca 6/10 · Nacional 8/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      5,
-      15,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.64
-    },
-    {
-     "partido_id": 1550184,
-     "fecha": "2026-11-01T18:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lecce",
-     "visitante": "Genoa",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Lecce–Genoa",
-     "cuota": 1.5,
-     "frecuencia": 0.789,
-     "ventaja": 0.123,
-     "detalle": "Lecce 8/9 · Genoa 7/10",
-     "valor_mercado": -0.013,
-     "posiciones": [
-      12,
-      16,
-      20
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.682
     },
     {
      "partido_id": 1552215,
@@ -5860,6 +6005,32 @@
      "prob_aprendida": 0.674
     },
     {
+     "partido_id": 1575527,
+     "fecha": "2026-11-01T19:00",
+     "competicion": "Primeira Liga",
+     "liga_id": 94,
+     "local": "Academico Viseu",
+     "visitante": "Rio Ave",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Academico Viseu",
+     "cuota": 1.85,
+     "frecuencia": 0.6,
+     "ventaja": 0.059,
+     "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
+     "valor_mercado": -0.046,
+     "movimiento": -0.031,
+     "cuota_inicial": 1.91,
+     "posiciones": [
+      6,
+      17,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.592
+    },
+    {
      "partido_id": 1552215,
      "fecha": "2026-11-01T16:45",
      "competicion": "Eredivisie",
@@ -5909,30 +6080,6 @@
      ],
      "contexto": "total_lejos",
      "prob_aprendida": 0.58
-    },
-    {
-     "partido_id": 1575527,
-     "fecha": "2026-11-01T19:00",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Academico Viseu",
-     "visitante": "Rio Ave",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Academico Viseu",
-     "cuota": 1.91,
-     "frecuencia": 0.6,
-     "ventaja": 0.076,
-     "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
-     "valor_mercado": -0.054,
-     "posiciones": [
-      6,
-      17,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.581
     },
     {
      "partido_id": 1552215,
@@ -6139,30 +6286,6 @@
      "prob_aprendida": 0.777
     },
     {
-     "partido_id": 1569993,
-     "fecha": "2026-11-01T18:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Burgos",
-     "visitante": "Castellón",
-     "mercado": "Goals Over/Under First Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 1ª parte del Burgos–Castellón",
-     "cuota": 1.4,
-     "frecuencia": 0.8,
-     "ventaja": 0.086,
-     "detalle": "Burgos 8/10 · Castellón 8/10",
-     "valor_mercado": 0.045,
-     "posiciones": [
-      6,
-      1,
-      22
-     ],
-     "contexto": "total_lejos",
-     "prob_aprendida": 0.751
-    },
-    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -6243,6 +6366,32 @@
      "prob_aprendida": 0.759
     },
     {
+     "partido_id": 1569993,
+     "fecha": "2026-11-01T18:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Burgos",
+     "visitante": "Castellón",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del Burgos–Castellón",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "detalle": "Burgos 8/10 · Castellón 8/10",
+     "valor_mercado": -0.015,
+     "movimiento": -0.05,
+     "cuota_inicial": 1.4,
+     "posiciones": [
+      6,
+      1,
+      22
+     ],
+     "contexto": "total_lejos",
+     "prob_aprendida": 0.752
+    },
+    {
      "partido_id": 1575534,
      "fecha": "2026-11-01T19:00",
      "competicion": "Primeira Liga",
@@ -6319,32 +6468,6 @@
      "prob_aprendida": 0.733
     },
     {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.53,
-     "frecuencia": 0.7,
-     "ventaja": 0.046,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": -0.013,
-     "movimiento": 0.034,
-     "cuota_inicial": 1.48,
-     "posiciones": [
-      1,
-      9,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.723
-    },
-    {
      "partido_id": 1575527,
      "fecha": "2026-11-01T19:00",
      "competicion": "Primeira Liga",
@@ -6411,7 +6534,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.031,
      "detalle": "Como 8/10 · Venezia (en contra) 8/10",
-     "valor_mercado": 0.016,
+     "valor_mercado": 0.008,
      "movimiento": 0.016,
      "cuota_inicial": 1.28,
      "prob_xg": 0.598,
@@ -6422,7 +6545,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.724
+     "prob_aprendida": 0.72
     },
     {
      "partido_id": 1552808,
@@ -6594,30 +6717,6 @@
        "prob_aprendida": 0.777
       },
       {
-       "partido_id": 1569993,
-       "fecha": "2026-11-01T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Burgos",
-       "visitante": "Castellón",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Burgos–Castellón",
-       "cuota": 1.4,
-       "frecuencia": 0.8,
-       "ventaja": 0.086,
-       "detalle": "Burgos 8/10 · Castellón 8/10",
-       "valor_mercado": 0.045,
-       "posiciones": [
-        6,
-        1,
-        22
-       ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.751
-      },
-      {
        "partido_id": 1550184,
        "fecha": "2026-11-01T18:00",
        "competicion": "Serie A",
@@ -6644,30 +6743,32 @@
        "prob_aprendida": 0.76
       },
       {
-       "partido_id": 1550183,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Cagliari",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
-       "cuota": 1.53,
-       "frecuencia": 0.7,
-       "ventaja": 0.046,
-       "detalle": "Lazio 9/10 · Cagliari 5/10",
-       "valor_mercado": -0.013,
-       "movimiento": 0.034,
-       "cuota_inicial": 1.48,
+       "partido_id": 1569997,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Eldense",
+       "visitante": "Granada CF",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Granada CF marca",
+       "cuota": 1.33,
+       "frecuencia": 0.85,
+       "ventaja": 0.098,
+       "detalle": "Eldense (en contra) 8/10 · Granada CF 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "prob_xg": 0.763,
+       "xg_esperado": 2.72,
        "posiciones": [
-        1,
-        9,
-        20
+        13,
+        5,
+        22
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.723
+       "prob_aprendida": 0.759
       },
       {
        "partido_id": 1575207,
@@ -6699,9 +6800,35 @@
        ],
        "contexto": "mejor_lejos",
        "prob_aprendida": 0.674
+      },
+      {
+       "partido_id": 1575527,
+       "fecha": "2026-11-01T19:00",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Academico Viseu",
+       "visitante": "Rio Ave",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Academico Viseu",
+       "cuota": 1.85,
+       "frecuencia": 0.6,
+       "ventaja": 0.059,
+       "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
+       "valor_mercado": -0.046,
+       "movimiento": -0.031,
+       "cuota_inicial": 1.91,
+       "posiciones": [
+        6,
+        17,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.592
       }
      ],
-     "cuota": 8.66
+     "cuota": 9.95
     },
     "doble": {
      "picks": [
@@ -6887,32 +7014,30 @@
        "prob_aprendida": 0.798
       },
       {
-       "partido_id": 1569997,
-       "fecha": "2026-11-01T14:00",
+       "partido_id": 1569993,
+       "fecha": "2026-11-01T18:30",
        "competicion": "Segunda",
        "liga_id": 141,
-       "local": "Eldense",
-       "visitante": "Granada CF",
-       "mercado": "Total - Away",
+       "local": "Burgos",
+       "visitante": "Castellón",
+       "mercado": "Goals Over/Under First Half",
        "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Granada CF marca",
+       "texto": "Gol en la 1ª parte del Burgos–Castellón",
        "cuota": 1.33,
-       "frecuencia": 0.85,
-       "ventaja": 0.098,
-       "detalle": "Eldense (en contra) 8/10 · Granada CF 9/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.022,
-       "cuota_inicial": 1.36,
-       "prob_xg": 0.763,
-       "xg_esperado": 2.72,
+       "frecuencia": 0.8,
+       "ventaja": 0.048,
+       "detalle": "Burgos 8/10 · Castellón 8/10",
+       "valor_mercado": -0.015,
+       "movimiento": -0.05,
+       "cuota_inicial": 1.4,
        "posiciones": [
-        13,
-        5,
+        6,
+        1,
         22
        ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.759
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.752
       },
       {
        "partido_id": 1552214,
@@ -7067,18 +7192,20 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Arouca",
-       "cuota": 1.83,
+       "cuota": 1.8,
        "frecuencia": 0.7,
-       "ventaja": 0.154,
+       "ventaja": 0.144,
        "detalle": "Arouca 6/10 · Nacional 8/10",
        "valor_mercado": 0.0,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
        "posiciones": [
         5,
         15,
         18
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.64
+       "prob_aprendida": 0.645
       },
       {
        "partido_id": 1552214,
@@ -7105,41 +7232,13 @@
        "prob_aprendida": 0.577
       }
      ],
-     "cuota": 5.48
+     "cuota": 5.39
     }
    },
    "combis_partido": []
   },
   "2026-11-02": {
    "picks": [
-    {
-     "partido_id": 1550178,
-     "fecha": "2026-11-02T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Atalanta",
-     "visitante": "Parma",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Atalanta–Parma",
-     "cuota": 1.25,
-     "frecuencia": 0.85,
-     "ventaja": 0.05,
-     "detalle": "Atalanta 8/10 · Parma 9/10",
-     "valor_mercado": 0.016,
-     "movimiento": 0.068,
-     "cuota_inicial": 1.17,
-     "prob_xg": 0.823,
-     "xg_esperado": 3.16,
-     "posiciones": [
-      11,
-      19,
-      20
-     ],
-     "contexto": "total_lejos",
-     "prob_aprendida": 0.847
-    },
     {
      "partido_id": 1570436,
      "fecha": "2026-11-02T21:00",
@@ -7223,26 +7322,26 @@
      "liga_id": 135,
      "local": "Sassuolo",
      "visitante": "Fiorentina",
-     "mercado": "Total - Away",
+     "mercado": "Total - Home",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Fiorentina marca",
+     "texto": "Sassuolo marca",
      "cuota": 1.25,
      "frecuencia": 0.9,
      "ventaja": 0.1,
-     "detalle": "Sassuolo (en contra) 10/10 · Fiorentina 8/10",
-     "valor_mercado": 0.025,
+     "detalle": "Sassuolo 9/10 · Fiorentina (en contra) 9/10",
+     "valor_mercado": 0.016,
      "movimiento": 0.025,
      "cuota_inicial": 1.22,
-     "prob_xg": 0.804,
+     "prob_xg": 0.759,
      "xg_esperado": 3.05,
      "posiciones": [
       14,
       18,
       20
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.784
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.797
     },
     {
      "partido_id": 1569999,
@@ -7312,7 +7411,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.146,
      "detalle": "Sassuolo 9/10 · Fiorentina 7/10",
-     "valor_mercado": 0.007,
+     "valor_mercado": 0.02,
      "prob_xg": 0.61,
      "xg_esperado": 3.05,
      "posiciones": [
@@ -7321,7 +7420,7 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.631
+     "prob_aprendida": 0.635
     },
     {
      "partido_id": 1550185,
@@ -7334,11 +7433,13 @@
      "opcion": "Over 2.5",
      "tipo": "goles",
      "texto": "Más de 2,5 goles en Sassuolo–Fiorentina",
-     "cuota": 1.67,
+     "cuota": 1.62,
      "frecuencia": 0.8,
-     "ventaja": 0.201,
+     "ventaja": 0.183,
      "detalle": "Sassuolo 7/10 · Fiorentina 9/10",
-     "valor_mercado": 0.006,
+     "valor_mercado": -0.006,
+     "movimiento": -0.03,
+     "cuota_inicial": 1.67,
      "prob_xg": 0.588,
      "xg_esperado": 3.05,
      "posiciones": [
@@ -7347,38 +7448,10 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.536
+     "prob_aprendida": 0.543
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1550178,
-     "fecha": "2026-11-02T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Atalanta",
-     "visitante": "Parma",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Atalanta–Parma",
-     "cuota": 1.25,
-     "frecuencia": 0.85,
-     "ventaja": 0.05,
-     "detalle": "Atalanta 8/10 · Parma 9/10",
-     "valor_mercado": 0.016,
-     "movimiento": 0.068,
-     "cuota_inicial": 1.17,
-     "prob_xg": 0.823,
-     "xg_esperado": 3.16,
-     "posiciones": [
-      11,
-      19,
-      20
-     ],
-     "contexto": "total_lejos",
-     "prob_aprendida": 0.847
-    },
     {
      "partido_id": 1570436,
      "fecha": "2026-11-02T21:00",
@@ -7436,26 +7509,26 @@
      "liga_id": 135,
      "local": "Sassuolo",
      "visitante": "Fiorentina",
-     "mercado": "Total - Away",
+     "mercado": "Total - Home",
      "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Fiorentina marca",
+     "texto": "Sassuolo marca",
      "cuota": 1.25,
      "frecuencia": 0.9,
      "ventaja": 0.1,
-     "detalle": "Sassuolo (en contra) 10/10 · Fiorentina 8/10",
-     "valor_mercado": 0.025,
+     "detalle": "Sassuolo 9/10 · Fiorentina (en contra) 9/10",
+     "valor_mercado": 0.016,
      "movimiento": 0.025,
      "cuota_inicial": 1.22,
-     "prob_xg": 0.804,
+     "prob_xg": 0.759,
      "xg_esperado": 3.05,
      "posiciones": [
       14,
       18,
       20
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.784
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.797
     },
     {
      "partido_id": 1569999,
@@ -7515,73 +7588,6 @@
     "segura": {
      "picks": [
       {
-       "partido_id": 1550178,
-       "fecha": "2026-11-02T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Atalanta",
-       "visitante": "Parma",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Atalanta–Parma",
-       "cuota": 1.25,
-       "frecuencia": 0.85,
-       "ventaja": 0.05,
-       "detalle": "Atalanta 8/10 · Parma 9/10",
-       "valor_mercado": 0.016,
-       "movimiento": 0.068,
-       "cuota_inicial": 1.17,
-       "prob_xg": 0.823,
-       "xg_esperado": 3.16,
-       "posiciones": [
-        11,
-        19,
-        20
-       ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.847
-      },
-      {
-       "partido_id": 1557455,
-       "fecha": "2026-11-02T21:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Newcastle",
-       "visitante": "Everton",
-       "mercado": "Away Player Shots",
-       "opcion": "Thierno Barry - 2",
-       "cuota": 1.36,
-       "frecuencia": 0.889,
-       "ventaja": 0.154,
-       "tipo": "jugador",
-       "jugador": "Thierno Barry",
-       "equipo": "Everton",
-       "jugador_id": 343684,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Thierno Barry: 2+ tiros",
-       "detalle": "Thierno Barry 8/9",
-       "temporada": "8/9",
-       "posiciones": [
-        8,
-        11,
-        20
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.683
-      }
-     ],
-     "cuota": 1.7
-    },
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
-      {
        "partido_id": 1570436,
        "fecha": "2026-11-02T21:00",
        "competicion": "LaLiga",
@@ -7608,6 +7614,44 @@
        "prob_aprendida": 0.791
       },
       {
+       "partido_id": 1550185,
+       "fecha": "2026-11-02T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Sassuolo marca",
+       "cuota": 1.25,
+       "frecuencia": 0.9,
+       "ventaja": 0.1,
+       "detalle": "Sassuolo 9/10 · Fiorentina (en contra) 9/10",
+       "valor_mercado": 0.016,
+       "movimiento": 0.025,
+       "cuota_inicial": 1.22,
+       "prob_xg": 0.759,
+       "xg_esperado": 3.05,
+       "posiciones": [
+        14,
+        18,
+        20
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.797
+      }
+     ],
+     "cuota": 1.75
+    },
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
        "partido_id": 1570002,
        "fecha": "2026-11-02T18:30",
        "competicion": "Segunda",
@@ -7632,35 +7676,57 @@
        "prob_aprendida": 0.804
       },
       {
-       "partido_id": 1550185,
-       "fecha": "2026-11-02T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Sassuolo",
-       "visitante": "Fiorentina",
-       "mercado": "Total - Away",
+       "partido_id": 1570436,
+       "fecha": "2026-11-02T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Deportivo La Coruna",
+       "visitante": "Osasuna",
+       "mercado": "Goals Over/Under - Second Half",
        "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Fiorentina marca",
-       "cuota": 1.25,
-       "frecuencia": 0.9,
-       "ventaja": 0.1,
-       "detalle": "Sassuolo (en contra) 10/10 · Fiorentina 8/10",
-       "valor_mercado": 0.025,
-       "movimiento": 0.025,
-       "cuota_inicial": 1.22,
-       "prob_xg": 0.804,
-       "xg_esperado": 3.05,
+       "texto": "Gol en la 2ª parte del Deportivo La Coruna–Osasuna",
+       "cuota": 1.3,
+       "frecuencia": 0.8,
+       "ventaja": 0.031,
+       "detalle": "Deportivo La Coruna 9/10 · Osasuna 7/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.016,
+       "cuota_inicial": 1.28,
        "posiciones": [
-        14,
-        18,
+        11,
+        12,
         20
        ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.784
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.796
+      },
+      {
+       "partido_id": 1569999,
+       "fecha": "2026-11-02T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Oviedo",
+       "visitante": "Las Palmas",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del Oviedo–Las Palmas",
+       "cuota": 1.36,
+       "frecuencia": 0.8,
+       "ventaja": 0.065,
+       "detalle": "Oviedo 9/10 · Las Palmas 7/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        9,
+        14,
+        22
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.75
       }
      ],
-     "cuota": 2.24,
+     "cuota": 2.26,
      "titulo": "⚽ LUNES DE GOLES",
      "tema": "goles"
     },
@@ -7697,22 +7763,24 @@
        "liga_id": 141,
        "local": "Oviedo",
        "visitante": "Las Palmas",
-       "mercado": "Goals Over/Under First Half",
+       "mercado": "Total - Away",
        "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Oviedo–Las Palmas",
-       "cuota": 1.36,
-       "frecuencia": 0.8,
-       "ventaja": 0.065,
-       "detalle": "Oviedo 9/10 · Las Palmas 7/10",
-       "valor_mercado": 0.0,
+       "texto": "Las Palmas marca",
+       "cuota": 1.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.033,
+       "detalle": "Oviedo (en contra) 6/10 · Las Palmas 8/10",
+       "valor_mercado": -0.02,
+       "prob_xg": 0.749,
+       "xg_esperado": 2.98,
        "posiciones": [
         9,
         14,
         22
        ],
-       "contexto": "total_lejos",
-       "prob_aprendida": 0.75
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.688
       },
       {
        "partido_id": 1569998,
@@ -7739,7 +7807,7 @@
        "prob_aprendida": 0.489
       }
      ],
-     "cuota": 3.92,
+     "cuota": 4.32,
      "titulo": "🇪🇸 COMBI SEGUNDA",
      "liga": "Segunda"
     }

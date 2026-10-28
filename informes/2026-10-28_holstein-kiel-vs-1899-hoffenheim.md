@@ -1,28 +1,28 @@
 # Holstein Kiel – 1899 Hoffenheim
 **DFB-Pokal** · Round of 32 · 28/10/2026 20:45 (hora España) · Holstein-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:03_
+_Actualizadas: 28/10 14:00_
 
-- **1X2:** 1 **6.25**  ·  X **4.33**  ·  2 **1.48**
-- **Doble oportunidad:** 1X **2.62**  ·  12 **1.20**  ·  X2 **1.12**
+- **1X2:** 1 **6.00**  ·  X **4.33**  ·  2 **1.50**
+- **Doble oportunidad:** 1X **2.50**  ·  12 **1.20**  ·  X2 **1.12**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.36** · menos **3.10**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **3.00** · menos **1.36**
-    - 5,5: más **5.50** · menos **1.14**
-    - 6,5: más **11.00** · menos **1.05**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
@@ -32,20 +32,21 @@ _Actualizadas: 28/10 02:03_
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **2.00**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.75**  ·  2 **1.83**
+    - 10,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.88**  ·  2 **1.91**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
-- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
 - **To Win Either Half:** 1 **3.00**  ·  2 **1.22**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **1.83**
 - **Win Both Halves:** 1 **21.00**  ·  2 **3.40**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.50**  ·  Home/No **15.00**  ·  Draw/No **23.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **4.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.50**  ·  Home/No **15.00**  ·  Draw/No **23.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**

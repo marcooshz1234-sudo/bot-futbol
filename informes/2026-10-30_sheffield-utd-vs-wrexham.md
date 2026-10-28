@@ -1,17 +1,17 @@
 # Sheffield Utd – Wrexham
 **Championship** · Regular Season - 13 · 30/10/2026 21:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:03_
+_Actualizadas: 28/10 14:01_
 
 - **1X2:** 1 **2.45**  ·  X **3.30**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.28** · menos **3.75**
+    - 1,5: más **1.30** · menos **3.50**
     - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.40** · menos **1.33**
     - 4,5: más **6.00** · menos **1.12**
@@ -29,7 +29,7 @@ _Actualizadas: 28/10 02:03_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
+    - 10,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -109,7 +109,8 @@ _Actualizadas: 28/10 02:03_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Sheffield Utd:** M. Doherty (baja, Injury); J. Shackleton (baja, Health problems); M. Doherty (baja, Injury); J. Shackleton (baja, Health problems)
+**Wrexham:** N. Broadhead (baja, Thigh Injury); L. Cacace (baja, Calf Injury); M. Cleworth (baja, Muscle Injury); S. Revan (baja, Hamstring Injury); J. Windass (baja, Ankle Injury); G. Thomason (duda, Thigh Injury); N. Broadhead (baja, Thigh Injury); L. Cacace (baja, Calf Injury); M. Cleworth (baja, Muscle Injury); S. Revan (baja, Hamstring Injury); J. Windass (baja, Ankle Injury); G. Thomason (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-21 · Championship: Sheffield Utd 1-2 Wrexham
@@ -201,10 +202,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 72% | 66% | 69% | 1.44 | -1% |
 | Ambos marcan: No | 58% | 46% | 52% | 2.00 | +5% |
 | Ambos marcan: Sí | 42% | 54% | 48% | 1.73 | -18% |
-| Goles más/menos: Más de 1.5 | 62% | 75% | 68% | 1.28 | -13% |
+| Goles más/menos: Más de 1.5 | 62% | 73% | 67% | 1.30 | -12% |
 | Goles más/menos: Más de 2.5 | 35% | 50% | 43% | 1.91 | -19% |
 | Goles más/menos: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
-| Goles más/menos: Menos de 1.5 | 38% | 25% | 32% | 3.75 | +19% |
+| Goles más/menos: Menos de 1.5 | 38% | 27% | 33% | 3.50 | +14% |
 | Goles más/menos: Menos de 2.5 | 65% | 50% | 57% | 1.91 | +10% |
 | Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.33 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
@@ -219,8 +220,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -24% |
 | Goles del visitante: Menos de 0.5 | 40% | 28% | 34% | 3.40 | +15% |
 | Goles del visitante: Menos de 1.5 | 77% | 62% | 70% | 1.50 | +5% |
-| Córners más/menos: Más de 10.5 | 37% | 47% | 42% | 2.00 | -16% |
-| Córners más/menos: Menos de 10.5 | 63% | 53% | 58% | 1.80 | +4% |
+| Córners más/menos: Más de 10.5 | 37% | 49% | 43% | 1.91 | -19% |
+| Córners más/menos: Menos de 10.5 | 63% | 51% | 57% | 1.80 | +3% |
 | 1X2 descanso: 2 | 21% | 28% | 25% | 3.25 | -19% |
 | 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
 | 1X2 descanso: 1 | 30% | 30% | 30% | 3.10 | -8% |

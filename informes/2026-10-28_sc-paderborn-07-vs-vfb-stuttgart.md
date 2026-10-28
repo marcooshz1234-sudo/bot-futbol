@@ -1,57 +1,58 @@
 # SC Paderborn 07 – VfB Stuttgart
 **DFB-Pokal** · Round of 32 · 28/10/2026 18:00 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:02_
+_Actualizadas: 28/10 14:00_
 
-- **1X2:** 1 **6.00**  ·  X **4.20**  ·  2 **1.53**
+- **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.48** · menos **2.60**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.08** · menos **8.00**
+    - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
+    - 2,5: más **2.25** · menos **1.57**
     - 3,5: más **4.50** · menos **1.18**
-    - 4,5: más **11.00** · menos **1.05**
+    - 4,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.60**  ·  2 **1.95**
+    - 10,5: más **1.88** · menos **1.92**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.62**  ·  2 **2.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **2.75**  ·  2 **1.28**
-- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.00**
 - **Win Both Halves:** 1 **21.00**  ·  2 **3.75**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.75**  ·  Home/No **13.00**  ·  Draw/No **19.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.25**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.75**  ·  Home/No **13.00**  ·  Draw/No **19.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.50**
 - **Home Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
+    - 4,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
-    - 6,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
-- **Anytime Goal Scorer:** Chris Fuhrich **3.60**  ·  Maximilian Mittelstadt **4.75**  ·  Leo Sauer **3.10**  ·  Bilal El Khannous **2.75**  ·  Ruben Muller **7.00**  ·  Tom Baack **10.00**  ·  Deniz Zeitler **4.75**  ·  Jonah Sticker **10.00**  ·  Lorenz Assignon **6.00**  ·  Stefano Marino **3.60**  ·  Dzenan Pejcinovic **2.10**  ·  Steffen Tigges **4.00**  ·  Dan-Axel Zagadou **7.00**  ·  Leonidas Stergiou **7.00**  ·  Nikolas Nartey **4.00**  ·  Jano Ter Horst **10.00**  ·  Grischa Promel **4.00**  ·  Laurin Ulrich **6.00**  ·  Rayan Philippe **3.60**  ·  Sven Michel **4.75**  ·  Sebastian Klaas **4.75**  ·  Felix Gotze **12.00**  ·  Raphael Obermair **9.00**  ·  Mattes Hansen **12.00**  ·  Santiago Castaneda **12.00**  ·  Tjark Scheller **12.00**  ·  Laurin Curda **6.00**  ·  Marcel Hoffmeier **15.00**  ·  Finn Jeltsch **9.00**  ·  Niklas Mohr **9.00**  ·  Maximilian Herwerth **9.00**  ·  Yanik Spalt **9.00**  ·  Jarzinho Malanga **3.10**  ·  Clemens Lippmann **9.00**  ·  Nyamekye Awortwie Grant **15.00**  ·  Angelo Stiller **7.00**  ·  Atakan Karazor **7.00**  ·  Deniz Undav **1.80**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.75**  ·  Josha Vagnoman **7.00**  ·  Ramon Hendriks **9.00**  ·  Julian Chabot **7.00**  ·  Ameen Al Dakhil **9.00**  ·  Marvin Pieringer **3.60**  ·  Gabriel Vidovic **3.75**  ·  Tiago Tomas **2.30**  ·  Oliver Batista Meier **4.75**  ·  Luka Djuric **7.00**  ·  Luca Jaquez **7.00**
+    - 6,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.00**  ·  Menos de 5 **1.80**
+- **Anytime Goal Scorer:** Chris Fuhrich **3.40**  ·  Maximilian Mittelstadt **4.50**  ·  Leo Sauer **3.00**  ·  Bilal El Khannous **2.62**  ·  Ruben Muller **7.00**  ·  Tom Baack **10.00**  ·  Deniz Zeitler **4.50**  ·  Jonah Sticker **10.00**  ·  Lorenz Assignon **5.50**  ·  Stefano Marino **3.40**  ·  Dzenan Pejcinovic **2.10**  ·  Steffen Tigges **3.75**  ·  Dan-Axel Zagadou **7.00**  ·  Leonidas Stergiou **7.00**  ·  Nikolas Nartey **4.00**  ·  Jano Ter Horst **10.00**  ·  Grischa Promel **4.00**  ·  Laurin Ulrich **5.00**  ·  Rayan Philippe **3.40**  ·  Sven Michel **4.00**  ·  Sebastian Klaas **4.50**  ·  Felix Gotze **12.00**  ·  Raphael Obermair **7.50**  ·  Mattes Hansen **12.00**  ·  Santiago Castaneda **12.00**  ·  Tjark Scheller **12.00**  ·  Laurin Curda **5.00**  ·  Marcel Hoffmeier **15.00**  ·  Finn Jeltsch **8.50**  ·  Niklas Mohr **7.50**  ·  Maximilian Herwerth **8.50**  ·  Yanik Spalt **8.50**  ·  Jarzinho Malanga **3.00**  ·  Clemens Lippmann **7.50**  ·  Nyamekye Awortwie Grant **15.00**  ·  Angelo Stiller **7.00**  ·  Atakan Karazor **7.00**  ·  Deniz Undav **1.80**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.62**  ·  Josha Vagnoman **7.00**  ·  Ramon Hendriks **8.50**  ·  Julian Chabot **7.00**  ·  Ameen Al Dakhil **8.50**  ·  Marvin Pieringer **3.40**  ·  Gabriel Vidovic **3.75**  ·  Tiago Tomas **2.20**  ·  Oliver Batista Meier **4.50**  ·  Luka Djuric **7.00**  ·  Luca Jaquez **7.00**
 
 ## Estadísticas de equipo
 | | SC Paderborn 07 (total) | SC Paderborn 07 en casa | VfB Stuttgart (total) | VfB Stuttgart fuera |
@@ -188,37 +189,39 @@ _Goles esperados: local 1,29 · visitante 1,49 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 62% | 52% | 1.53 | -21% |
-| 1X2: X | 25% | 22% | 24% | 4.20 | +0% |
-| 1X2: 1 | 33% | 16% | 24% | 6.00 | +46% |
+| 1X2: 2 | 42% | 61% | 51% | 1.55 | -20% |
+| 1X2: X | 25% | 23% | 24% | 4.20 | +0% |
+| 1X2: 1 | 33% | 16% | 25% | 5.75 | +42% |
 | Doble oportunidad: X2 | 67% | 83% | 75% | 1.14 | -14% |
 | Doble oportunidad: 12 | 75% | 77% | 76% | 1.22 | -7% |
 | Doble oportunidad: 1X ✅ | 58% | 40% | 49% | 2.38 | +16% |
-| Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
-| Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
-| Goles más/menos: Más de 2.5 | 53% | 64% | 58% | 1.48 | -14% |
+| Ambos marcan: No | 44% | 39% | 41% | 2.38 | -1% |
+| Ambos marcan: Sí | 56% | 61% | 59% | 1.53 | -10% |
+| Goles más/menos: Más de 2.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Goles más/menos: Más de 3.5 | 30% | 44% | 37% | 2.10 | -21% |
 | Goles más/menos: Más de 4.5 | 15% | 27% | 21% | 3.50 | -27% |
-| Goles más/menos: Menos de 2.5 | 47% | 36% | 42% | 2.60 | +9% |
+| Goles más/menos: Menos de 2.5 | 47% | 35% | 41% | 2.70 | +11% |
 | Goles más/menos: Menos de 3.5 | 70% | 56% | 63% | 1.67 | +5% |
 | Goles más/menos: Menos de 4.5 | 85% | 73% | 79% | 1.28 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
-| Goles del local: Más de 0.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del local: Más de 1.5 | 37% | 29% | 33% | 3.25 | +7% |
-| Goles del local: Menos de 0.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del local: Menos de 1.5 | 63% | 71% | 67% | 1.33 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 77% | 73% | 1.22 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 12% | 22% | 17% | 4.33 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 23% | 27% | 4.00 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 88% | 78% | 83% | 1.20 | -0% |
+| Goles del local: Más de 0.5 | 73% | 66% | 69% | 1.40 | -3% |
+| Goles del local: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
+| Goles del local: Menos de 0.5 | 27% | 34% | 31% | 2.75 | -16% |
+| Goles del local: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles del visitante: Más de 1.5 | 44% | 65% | 54% | 1.44 | -22% |
-| Goles del visitante: Más de 2.5 | 19% | 39% | 29% | 2.38 | -31% |
+| Goles del visitante: Más de 2.5 | 19% | 41% | 30% | 2.25 | -32% |
 | Goles del visitante: Más de 3.5 | 6% | 21% | 14% | 4.50 | -39% |
 | Goles del visitante: Menos de 1.5 ✅ | 56% | 35% | 46% | 2.62 | +20% |
-| Goles del visitante: Menos de 2.5 | 81% | 61% | 71% | 1.53 | +9% |
+| Goles del visitante: Menos de 2.5 | 81% | 59% | 70% | 1.57 | +10% |
 | Goles del visitante: Menos de 3.5 | 94% | 79% | 86% | 1.18 | +2% |
-| Córners más/menos: Más de 10.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 10.5 | 57% | 50% | 54% | 1.83 | -2% |
-| 1X2 descanso: 2 | 32% | 48% | 40% | 1.95 | -23% |
-| 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +1% |
+| Córners más/menos: Más de 10.5 | 43% | 51% | 47% | 1.88 | -13% |
+| Córners más/menos: Menos de 10.5 | 57% | 49% | 53% | 1.92 | +3% |
+| 1X2 descanso: 2 | 32% | 46% | 39% | 2.00 | -22% |
+| 1X2 descanso: X | 42% | 35% | 39% | 2.62 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

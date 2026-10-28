@@ -1,10 +1,28 @@
 # Kozakken Boys – Utrecht
 **KNVB Beker** · Round of 64 · 29/10/2026 18:45 (hora España) · De Zwaaier
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 14:00_
+
+- **1X2:** 1 **4.75**  ·  X **5.00**  ·  2 **1.40**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.88**  ·  2 **1.83**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.22**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **1.80**
+- **Win Both Halves:** 1 **21.00**  ·  2 **3.25**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.40**  ·  Home/No **13.00**  ·  Draw/No **29.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **4.00**
 
 ## Estadísticas de equipo
 | | Kozakken Boys (total) | Kozakken Boys en casa | Utrecht (total) | Utrecht fuera |

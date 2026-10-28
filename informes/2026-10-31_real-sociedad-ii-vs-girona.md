@@ -1,10 +1,10 @@
 # Real Sociedad II – Girona
 **Segunda División** · Regular Season - 12 · 31/10/2026 14:00 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:58_
+_Actualizadas: 28/10 14:01_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
