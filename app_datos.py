@@ -90,6 +90,86 @@ def estado_seleccion(p, d, registro=None):
 SUBEN = ("Over", "Yes")   # mercados que, una vez cumplidos, ya no se pueden perder
 
 
+def progreso_sel(mercado, opcion, d):
+    """28/10: barra de progreso de una pata guardada como partido|mercado|opción (antes salía siempre vacía)."""
+    import picks as P
+    if not d or d.get("estado") not in FT | EN_JUEGO:
+        return None
+    o = str(opcion)
+    stats = d.get("stats") or {}
+    ids = {"home": d["local"]["id"], "away": d["visitante"]["id"]}
+    g = d.get("goles") or [None, None]
+
+    def st(eq, campo):
+        v = (stats.get(str(eq)) or {}).get(campo)
+        if campo == "tarjetas":
+            a = (stats.get(str(eq)) or {}).get("amarillas")
+            return None if a is None else a + ((stats.get(str(eq)) or {}).get("rojas") or 0)
+        return v
+
+    def barra(valor, objetivo, unidad):
+        if valor is None:
+            return None
+        if objetivo == 1 and unidad == "goles":
+            unidad = "gol"
+        txt = (f"{valor:g} {unidad} · cumplido ✅" if valor >= objetivo else f"{valor:g} de {objetivo:g} {unidad}")
+        return {"actual": valor, "objetivo": objetivo, "unidad": unidad, "texto": txt,
+                "porcentaje": min(100, round(100 * valor / objetivo)) if objetivo else 0}
+
+    unidades = {"corners": "córners", "tarjetas": "tarjetas", "amarillas": "amarillas", "a_puerta": "tiros a puerta",
+                "tiros": "tiros", "faltas": "faltas", "fueras_juego": "fueras de juego", "paradas": "paradas"}
+    # jugadores (tiros, a puerta, faltas, paradas, goles)
+    if mercado in P.JUG_MERCADOS:
+        campo = P.JUG_MERCADOS[mercado][0]
+        nombre, n = (o.rsplit(" - ", 1) + ["1"])[:2] if " - " in o else (o, "1")
+        cand = [j for l in (d.get("jugadores") or {}).values() for j in l if P.mismo_jugador(nombre, j.get("nombre"))]
+        if len(cand) != 1 or not cand[0].get("min") or campo not in unidades and campo not in ("goles", "gol_o_asist", "amarillas"):
+            return None
+        valor = cand[0].get(campo) if campo != "gol_o_asist" else (cand[0].get("goles") or 0) + (cand[0].get("asist") or 0)
+        sus = P.sustituto_de(d, cand[0])
+        if sus and campo != "gol_o_asist" and sus.get(campo) is not None and valor is not None:
+            valor += sus[campo]
+        return barra(valor, int(float(n)), {"faltas_c": "faltas", "goles": "goles", "gol_o_asist": "goles o asist."}.get(campo, unidades.get(campo, campo)))
+    # estadísticas «más de» del partido o de un equipo
+    if mercado in P.STATS_OU and o.startswith("Over "):
+        campo, ambito = P.STATS_OU[mercado]
+        if campo in ("corners_1h", "corners_2h"):
+            return None
+        linea = float(o.split()[1])
+        if ambito == "total":
+            vs = [st(ids["home"], campo), st(ids["away"], campo)]
+            valor = None if None in vs else sum(vs)
+        else:
+            valor = st(ids[ambito], campo)
+        return barra(valor, int(linea) + 1, unidades.get(campo, campo))
+    # goles
+    if mercado == "Goals Over/Under" and o.startswith("Over ") and None not in g:
+        return barra(sum(g), int(float(o.split()[1])) + 1, "goles")
+    if mercado in ("Total - Home", "Total - Away") and o.startswith("Over ") and None not in g:
+        return barra(g[0 if mercado.endswith("Home") else 1], int(float(o.split()[1])) + 1, "goles")
+    if mercado == "Both Teams Score" and o == "Yes" and None not in g:
+        return barra(sum(x > 0 for x in g), 2, "equipos que marcan")
+    # comparaciones (más tiros, más córners…): cuánto va cada uno
+    if mercado in P.STATS_1X2:
+        campo = P.STATS_1X2[mercado]
+        a, b = st(ids["home"], campo), st(ids["away"], campo)
+        if a is not None and b is not None:
+            return {"texto": f"{unidades.get(campo, campo).capitalize()}: {a} – {b}", "sin_barra": True}
+        return None
+    # resultado: el marcador
+    if None not in g:
+        return {"texto": f"Marcador: {g[0]}–{g[1]}", "sin_barra": True}
+    return None
+
+
+def progreso_seguro(mercado, opcion, d):
+    try:
+        return progreso_sel(mercado, opcion, d)
+    except Exception as e:
+        print("progreso:", mercado, str(e)[:80])
+        return None
+
+
 def fila_sel(sel, cuota, directo, conocidos=None):
     """Estado de una selección guardada como 'partido|mercado|opción' (verde en cuanto se cumple si ya no
     se puede perder; si no, al final del partido)."""
@@ -123,7 +203,8 @@ def fila_sel(sel, cuota, directo, conocidos=None):
         else:
             estado = "va_bien" if r is True else "va_mal" if r is False else "pendiente"
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
-            "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo"), "progreso": None,
+            "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo"),
+            "progreso": progreso_seguro(mercado, opcion, d),
             "actualizado_iso": fecha_iso(vivo.get("visto")), "marcador": (d or {}).get("goles") or vivo.get("goles"),
             "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado") or vivo.get("estado")}
 
