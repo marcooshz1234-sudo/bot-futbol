@@ -329,11 +329,11 @@
     "total": 14,
     "cuentas": {
       "verde": 0,
-      "rojo": 6,
-      "pendiente": 8,
+      "rojo": 7,
+      "pendiente": 7,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -405,7 +405,7 @@
       {
         "id": "2026-10-28-combi-partido-1640383",
         "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 8.62
       },
       {
@@ -423,9 +423,9 @@
     ],
     "picks": {
       "verde": 29,
-      "rojo": 10,
+      "rojo": 11,
       "total": 72
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 6 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | SERIE A · 4,39\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88\n❌ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n❌ ✅ COMBI LOCAS | SERIE A · 10,04\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,78 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 10,06 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 8,62 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 8,36 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,65 · pendiente\n\n✅ 0 acertadas · ❌ 6 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 7 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | SERIE A · 4,39\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88\n❌ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n❌ ✅ COMBI LOCAS | SERIE A · 10,04\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,78 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 10,06 · pendiente\n❌ ✅ COMBI LOCAS | CARABAO CUP · 8,62\n⏳ ✅ COMBI LOCAS | SERIE A · 8,36 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,65 · pendiente\n\n✅ 0 acertadas · ❌ 7 falladas · ⏳ 7 sin resolver"
   }
 }
