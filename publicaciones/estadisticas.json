@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 02:28",
+ "actualizado": "2026-10-28 02:38",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 997,
-   "hoy": 14,
+   "seguidores": 999,
+   "hoy": 16,
    "serie": [
     836,
     930,
     938,
     983,
-    997
+    999
    ]
   },
   "facebook": {
@@ -46,13 +46,13 @@
    ]
   }
  },
- "total": 1097,
- "total_hoy": 15,
+ "total": 1099,
+ "total_hoy": 17,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "02:30",
+  "hora": "11:00",
   "dia": "2026-10-28",
-  "titulo": "Combi locas  dfb-pokal"
+  "titulo": "Reto escalera · día 2/7 · x1,90"
  },
  "ayer": {
   "aciertos": 9,
@@ -94,7 +94,7 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 997,
+   "threads": 999,
    "facebook": 0,
    "telegram": 81
   }
