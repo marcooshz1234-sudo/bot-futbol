@@ -4,8 +4,12 @@ import aprender
 from picks import aplicar_aprendizaje
 
 
+from datetime import datetime as _dt
+HOY = _dt.now().strftime("%Y-%m-%dT15:00")   # 29/10: fecha de hoy (con una fija el test caducaba al pesar menos lo antiguo)
+
+
 def pick(i, ok, tipo="goles", cuota=1.3, frec=0.85, partido=None):
-    return {"partido_id": partido or i, "fecha": "2026-10-25T15:00", "competicion": "Ligue 1", "tipo": tipo,
+    return {"partido_id": partido or i, "fecha": HOY, "competicion": "Ligue 1", "tipo": tipo,
             "mercado": "Goals Over/Under", "opcion": "Over 1.5", "cuota": cuota, "frecuencia": frec, "acierto": ok,
             "local": "A", "visitante": "B", "texto": "x"}
 

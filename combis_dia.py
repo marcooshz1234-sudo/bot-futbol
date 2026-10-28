@@ -29,6 +29,7 @@ NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (3, 6), "cuota": (3.5, 10.0), "ha
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
 # asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53); Monza–Napoli (McTominay 2+ remates, Varela 1+
 # a puerta, Monza marca, Monza +3 córners, +28,5 remates) multiplica 9,46 y paga 6,00 (0,63). Por eso ya no es un factor fijo: va por parejas.
+CORTA = {"patas": (3, 6), "cuota": (4.0, 10.0)}
 FACTOR_MIN = 0.45
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
@@ -444,6 +445,18 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     return best
 
 
+def ya_en_otras():
+    """Selecciones de las combis de partido metidas a mano en la cola (no las del bot), sin cancelar."""
+    from bot import RAIZ
+    control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+    out = set()
+    for p in leer(RAIZ / "publicaciones" / "cola.json", []) or []:
+        if "combi-partido" in p.get("id", "") and p.get("sel") and not p.get("borrar") \
+                and p.get("caducada") not in ("quitada", "cancelado") and p["id"] not in control.get("cancelados", []):
+            out.update(control.get("sel", {}).get(p["id"], p["sel"]))
+    return out
+
+
 def del_dia(dia, hist=None, ap=None):
     """{'partidos': [(cp, cuota, tarjeta, hora)], 'tres': (picks, cuota), 'loca': (picks, cuota)}"""
     import picks as P
@@ -452,18 +465,24 @@ def del_dia(dia, hist=None, ap=None):
     hist = hist if hist is not None else P.historial()
     ap = ap if ap is not None else (leer(DATOS / "aprendizaje.json") or {})
     pools = []
+    otras = ya_en_otras()
     for f in EXTRA.glob("*.json"):
         ex = leer(f) or {}
         pa = ex.get("partido")
         if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != dia:
             continue
         pool = pool_partido(ex, hist, ap)
+        # 29/10 (Marcos): si ya hay otra combi de ese partido puesta a mano (p. ej. la del Everton de las 00:05),
+        # la del bot sale diferente: sin repetir ninguna de sus selecciones
+        pool = [p for p in pool if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in otras]
         if pool:
             pools.append(pool)
     # 1) combi de cada partido: grandes primero
     partidos = []
     for pool in pools:
         r = mejor_combi(pool, PARTIDO["patas"], PARTIDO["cuota"], PARTIDO["prob_min"])
+        if not r:   # 29/10: si con lo aprendido no llega a 7, una algo más corta antes que dejar el partido sin combi
+            r = mejor_combi(pool, CORTA["patas"], CORTA["cuota"], PARTIDO["prob_min"])
         if r:
             b = pool[0]
             cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
