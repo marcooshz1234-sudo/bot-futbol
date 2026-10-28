@@ -1,17 +1,22 @@
 """
-28/10 (Marcos): GIF en el canal de Telegram según el momento (GIPHY, clave gratis en el secreto GIPHY_API_KEY).
+GIF en el canal de Telegram (28/10, Marcos).
+
+Solo salen GIF que Marcos ha aprobado: con /gifs en el bot del móvil le llegan candidatos de GIPHY con
+👍 / 👎 y los 👍 se guardan por momento en datos/gifs_votos.json (con el file_id de Telegram, que no caduca).
 
 Cuándo (como mucho 4 al día y nunca dos GIF seguidos sin un post en medio):
-  - justo después de: un verde 💚, la loca 🤪, un boleto 🎟️, la escalera 🪜, la combi del día 🔥, los picks de mañana 🌙
-  (28/10: sin GIF de roja, Marcos)
-  - ⚽ previa  → 20 min antes del primer partido de la noche (19:00–22:00) que lleva combi publicada
-  - ☀️ mañana  → 10:30 los lunes, viernes y días de Champions/Europa League
-Busca GIF de reacciones y gente (no jugadas de partidos, que tienen derechos), con contenido apto («g»).
-Lo ya hecho se guarda en datos/gifs.json. Sin clave no hace nada.
+  justo después de un post:
+    💚 verde · 🔥🔥🔥 racha (3.º verde seguido) · 🤪 la loca · 🎟️ boleto · 🪜 escalera (⛰️ días 5–7)
+    🔥 combi del día · 🎉 balance del día en positivo · 🌙 picks para mañana
+  ⚽ previa: 20 min antes del primer partido de la noche (19–22 h) con combi publicada (🏟️ si es un partidazo)
+  ☀️ 10:30 lunes, viernes y días de Champions/Europa League · 🍻 viernes 22:30 «empieza el finde»
+  👥 al pasar 2.000, 3.000, 5.000, 10.000… seguidores en Threads
+Sin GIF aprobados de un momento, ese momento no sale. Sin clave de GIPHY solo se usan los aprobados.
 """
 import json
 import os
 import random
+import re
 from datetime import datetime, timedelta
 from urllib.parse import urlencode
 from urllib.request import urlopen
@@ -19,96 +24,175 @@ from urllib.request import urlopen
 from bot import DATOS, MADRID, RAIZ, leer
 
 ESTADO = DATOS / "gifs.json"
-ACTIVO = False   # 28/10: no sale ningún GIF al canal hasta que Marcos vea las muestras y diga que sí
+VOTOS = DATOS / "gifs_votos.json"
+ACTIVO = False   # 28/10: apagado hasta que Marcos haya aprobado GIF y diga que sí
 MAX_DIA = 4
-# 28/10 (Marcos): muchos GIF por momento (se mezclan varias búsquedas y no se repite uno ya usado) y según el post
-BUSQUEDAS = {
-    "verde": ["celebration", "lets go", "winner", "victory dance", "yes yes yes", "happy dance", "money rain",
-              "we did it", "champions celebration", "fist pump", "jumping celebration", "cheering crowd"],
-    "loca": ["crazy", "going crazy", "insane", "mind blown", "lets go crazy", "wild", "explosion", "chaos",
-             "crazy dance", "madness", "rollercoaster", "all in"],
-    "escalera": ["stairs", "step by step", "climbing", "level up", "one step at a time", "stairway",
-                 "to the top", "going up", "next level", "climb"],
-    "combi": ["fire", "on fire", "lets go", "here we go", "hype", "ready", "game on", "boom", "lets do this", "bring it on"],
-    "boleto": ["money", "jackpot", "dream big", "rich", "make it rain", "lottery", "cash", "big money",
-               "millionaire", "pray", "fingers crossed"],
-    "previa": ["nervous", "game time", "popcorn", "here we go", "waiting", "excited", "anxious", "nail biting",
+EUROPA = {2, 3, 848}
+GRANDES = {"Real Madrid", "Barcelona", "Atletico Madrid", "Manchester City", "Liverpool", "Arsenal", "Chelsea",
+           "Manchester United", "Tottenham", "Bayern München", "Borussia Dortmund", "Paris Saint Germain",
+           "Inter", "AC Milan", "Juventus", "Napoli", "AS Roma", "Sevilla", "Real Betis", "Athletic Club"}
+HITOS = (2000, 3000, 5000, 7500, 10000, 15000, 20000, 30000, 50000, 100000)
+
+MOMENTOS = {   # clave: (nombre en el bot, búsquedas en GIPHY, textos)
+    "verde": ("💚 Verde", ["celebration", "lets go", "winner", "victory dance", "yes yes yes", "happy dance",
+              "we did it", "fist pump", "jumping celebration", "cheering crowd"],
+              ["💚💚💚", "¡VERDEEEE! 💚", "Así se celebra en COMBILOCAS 💚🍀", "¡A COBRAR! 💚💶", "Otra más pa' la saca 💚"]),
+    "racha": ("🔥 Racha (3 verdes seguidos)", ["on fire", "unstoppable", "cant stop", "streak", "heating up", "legendary"],
+              ["¡IMPARABLES! 🔥🔥🔥", "3 de 3… esto está on fire 🔥💚", "No hay quien nos pare 🔥"]),
+    "loca": ("🤪 La loca", ["crazy", "going crazy", "mind blown", "insane", "wild", "explosion", "chaos",
+             "crazy dance", "madness", "all in"],
+             ["La loca de hoy viene así 🤪", "¿Quién se atreve? 🤪🔥", "Modo loco activado 🤪", "Hoy toca soñar 🤪💸"]),
+    "boleto": ("🎟️ Boletos", ["money", "jackpot", "dream big", "make it rain", "lottery", "cash", "pray",
+               "fingers crossed", "millionaire"],
+               ["Hoy soñamos a lo grande 💸🍀", "Que sea lo que tenga que ser 🙏🍀", "Dedos cruzados 🤞💚"]),
+    "escalera": ("🪜 Escalera", ["stairs", "step by step", "climbing", "level up", "one step at a time", "going up",
+                 "next level", "climb"], ["Escalón a escalón 🪜", "Un peldaño más 🪜💪", "Subiendo… 🪜🔥"]),
+    "escalera_alta": ("⛰️ Escalera días 5–7", ["almost there", "so close", "final boss", "summit", "nervous",
+                      "the final step", "tension", "edge of seat"],
+                      ["A un paso de la cima ⛰️🪜", "Esto ya quema… 🪜🔥", "Los últimos escalones 😮‍💨🪜"]),
+    "combi": ("🔥 Combi del día", ["fire", "on fire", "lets go", "hype", "game on", "boom", "lets do this", "bring it on"],
+              ["Hoy toca 🔥", "Vamos con todo 🔥⚽", "Esta pinta bien 👀🔥"]),
+    "fiesta": ("🎉 Balance en positivo", ["party", "celebration party", "dance party", "confetti", "champagne", "fiesta"],
+               ["Día en verde 🎉💚", "¡Así cerramos el día! 🎉", "Hoy se celebra 🍾💚"]),
+    "noche": ("🌙 Buenas noches", ["good night", "see you tomorrow", "sleep", "bedtime", "night night", "goodnight wink"],
+              ["Mañana más 🌙🍀", "A descansar, que mañana hay más 🌙⚽", "Buenas noches, combilocos 🌙💚"]),
+    "previa": ("⚽ Previa de la noche", ["nervous", "game time", "popcorn", "waiting", "excited", "nail biting",
                "lets go football", "stadium crowd"],
-    "noche": ["good night", "see you tomorrow", "sleep", "tomorrow", "bedtime", "night night", "goodnight wink"],
-    "manana": {"lunes": ["monday", "monday motivation", "monday coffee", "monday mood", "new week"],
-               "viernes": ["friday", "its friday", "weekend", "friday dance", "tgif", "weekend vibes"],
-               "europa": ["champions league", "big night", "lets go", "game night", "under the lights"]},
+               ["Empieza lo bueno ⚽🔥", "Nervios… ¿cómo vais? ⚽👀", "Hora de partido ⚽🍀", "Palomitas listas 🍿⚽"]),
+    "partidazo": ("🏟️ Partidazo", ["big game", "epic", "showtime", "its time", "here we go", "stadium", "game night"],
+                  ["Hoy hay PARTIDAZO 🏟️🔥", "Noche grande ⭐⚽", "De estos no hay todos los días 🏟️👀"]),
+    "lunes": ("☀️ Lunes", ["monday", "monday motivation", "monday coffee", "monday mood", "new week"], ["☀️ Lunes de combis 🍀"]),
+    "viernes": ("☀️ Viernes", ["friday", "its friday", "friday dance", "tgif", "weekend vibes"],
+                ["☀️ ¡Viernes! Se viene finde de fútbol ⚽🔥"]),
+    "europa": ("⭐ Noche europea", ["champions league", "big night", "game night", "under the lights"],
+               ["☀️ Hoy hay noche europea ⭐⚽"]),
+    "finde": ("🍻 Empieza el finde", ["weekend", "lets go weekend", "cheers", "beer cheers", "weekend mode"],
+              ["Empieza el finde de fútbol 🍻⚽", "Mañana hay fútbol del bueno 🍻🔥"]),
+    "seguidores": ("👥 Hitos de seguidores", ["thank you", "celebration", "we did it", "milestone", "party"],
+                   ["¡Gracias a todos! 💚"]),
 }
-TEXTOS = {
-    "verde": ["💚💚💚", "¡VERDEEEE! 💚", "Así se celebra en COMBILOCAS 💚🍀", "¡A COBRAR! 💚💶", "Otra más pa' la saca 💚"],
-    "loca": ["La loca de hoy viene así 🤪", "¿Quién se atreve? 🤪🔥", "Modo loco activado 🤪", "Hoy toca soñar 🤪💸"],
-    "escalera": ["Escalón a escalón 🪜", "Un peldaño más 🪜💪", "Subiendo… 🪜🔥"],
-    "combi": ["Hoy toca 🔥", "Vamos con todo 🔥⚽", "Esta pinta bien 👀🔥"],
-    "boleto": ["Hoy soñamos a lo grande 💸🍀", "Que sea lo que tenga que ser 🙏🍀", "Dedos cruzados 🤞💚"],
-    "previa": ["Empieza lo bueno ⚽🔥", "Nervios… ¿cómo vais? ⚽👀", "Hora de partido ⚽🍀", "Palomitas listas 🍿⚽"],
-    "noche": ["Mañana más 🌙🍀", "A descansar, que mañana hay más 🌙⚽", "Buenas noches, combilocos 🌙💚"],
-    "manana": {"lunes": "☀️ Lunes de combis 🍀", "viernes": "☀️ ¡Viernes! Se viene finde de fútbol ⚽🔥",
-               "europa": "☀️ Hoy hay noche europea ⭐⚽"},
-}
-# qué GIF va justo después de cada tipo de post (por su id); los verdes, siempre
-TRAS_POST = (("verde", "verde"), ("combi-loca", "loca"), ("boleto", "boleto"), ("escalera", "escalera"),
-             ("combi-tres", "combi"), ("picks-manana", "noche"))
-EUROPA = {2, 3, 848}   # Champions, Europa League, Conference
 
 
-def buscar(clave, termino, rnd=random, usados=(), offset=None):
-    q = urlencode({"api_key": clave, "q": termino, "limit": 25, "rating": "g", "lang": "es",
-                   "offset": rnd.choice((0, 0, 25, 50)) if offset is None else offset})
+# ------------------------------------------------------------------ GIPHY (candidatos para votar)
+def buscar(clave, termino, offset=0, limite=25):
+    q = urlencode({"api_key": clave, "q": termino, "limit": limite, "offset": offset, "rating": "g", "lang": "es"})
     with urlopen(f"https://api.giphy.com/v1/gifs/search?{q}", timeout=20) as r:
-        datos = [g for g in (json.load(r).get("data") or []) if g.get("id") not in usados]
-    if not datos:
-        return None
-    g = rnd.choice(datos)
-    img = (g.get("images") or {})
-    return g.get("id"), (img.get("downsized_medium") or img.get("original") or {}).get("url")
+        datos = json.load(r).get("data") or []
+    salida = []
+    for g in datos:
+        img = g.get("images") or {}
+        url = (img.get("downsized_medium") or img.get("original") or {}).get("url")
+        if url:
+            salida.append((g["id"], url))
+    return salida
+
+
+def candidatos(clave, momento, n=5, votos=None, rnd=random):
+    """n GIF de GIPHY para ese momento que Marcos aún no ha votado."""
+    votos = votos if votos is not None else (leer(VOTOS, {}) or {})
+    vistos = set(votos.get("no", [])) | {x["giphy"] for xs in (votos.get("si") or {}).values() for x in xs}
+    terminos = list(MOMENTOS[momento][1])
+    rnd.shuffle(terminos)
+    salida = []
+    for t in terminos:
+        for off in (0, 25, 50):
+            for gid, url in buscar(clave, t, off):
+                if gid not in vistos and gid not in {g for g, _ in salida}:
+                    salida.append((gid, url))
+            if len(salida) >= n * 3:
+                break
+        if len(salida) >= n * 3:
+            break
+    rnd.shuffle(salida)
+    return salida[:n]
+
+
+def votar(votos, momento, giphy_id, si, file_id=None):
+    votos.setdefault("si", {}).setdefault(momento, [])
+    votos.setdefault("no", [])
+    votos["si"][momento] = [x for x in votos["si"][momento] if x["giphy"] != giphy_id]
+    if giphy_id in votos["no"]:
+        votos["no"].remove(giphy_id)
+    if si:
+        votos["si"][momento].append({"giphy": giphy_id, "file_id": file_id})
+    else:
+        votos["no"].append(giphy_id)
+    return votos
+
+
+# ------------------------------------------------------------------ cuándo sale cada uno
+def tipo_tras_post(p, publicados):
+    pid, texto = p["id"], p.get("texto", "")
+    if "verde" in pid:
+        resueltas = [x for x in sorted(publicados, key=lambda x: x["fecha"])
+                     if x.get("estado") in ("verde", "rojo") and not x.get("lista") and "verde" not in x["id"]]
+        return "racha" if len(resueltas) >= 3 and all(x["estado"] == "verde" for x in resueltas[-3:]) else "verde"
+    if "combi-loca" in pid:
+        return "loca"
+    if "boleto" in pid:
+        return "boleto"
+    if "escalera" in pid:
+        m = re.search(r"DÍA (\d)/7", texto)
+        return "escalera_alta" if m and int(m.group(1)) >= 5 else "escalera"
+    if "combi-tres" in pid:
+        return "combi"
+    if "balance" in pid:
+        m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", texto)
+        return "fiesta" if m and int(m.group(1)) > int(m.group(2)) else None
+    if "picks-manana" in pid:
+        return "noche"
+    return None
 
 
 def momentos(ahora, cola, auto, env, app, est):
-    """Lista de (clave_unica, tipo, termino_opciones, texto) que tocan ahora."""
+    """Lista de (clave_unica, momento, texto_extra) que tocan ahora."""
     hoy = ahora.strftime("%Y-%m-%d")
     ya = ahora.strftime("%Y-%m-%dT%H:%M")
     hace15 = (ahora - timedelta(minutes=15)).strftime("%Y-%m-%dT%H:%M")
     hecho = set(est.get("hechos", []))
+    publicados = [x for x in app.get("publicados_hoy", [])]
     salida = []
-    # justo después de ciertos posts del canal (verdes, la loca, boletos, escalera, combi del día, picks de mañana)
     ids_c = {p["id"] for p in cola}
-    recientes = cola + [dict(p, **env.get(p["id"], {})) for p in auto if p["id"] not in ids_c]
-    for p in sorted(recientes, key=lambda x: x.get("enviado") or ""):
+    posts = cola + [dict(p, **env.get(p["id"], {})) for p in auto if p["id"] not in ids_c]
+    for p in sorted(posts, key=lambda x: x.get("enviado") or ""):
         if not (p.get("mensaje_id") and hace15 <= (p.get("enviado") or "") <= ya) or f"t-{p['id']}" in hecho:
             continue
-        tipo = next((g for patron, g in TRAS_POST if patron in p["id"]), None)
+        tipo = tipo_tras_post(p, publicados)
         if tipo:
-            salida.append((f"t-{p['id']}", tipo, BUSQUEDAS[tipo], random.choice(TEXTOS[tipo])))
-    # ⚽ previa: 20 min antes del primer partido de la noche con combi publicada hoy
-    ids = {p["id"] for p in cola}
-    posts = cola + [dict(p, **env.get(p["id"], {})) for p in auto if p["id"] not in ids]
-    inicios = sorted({s.split("|")[0]: None for p in posts if p.get("fecha", "")[:10] == hoy and p.get("mensaje_id")
-                      for s in p.get("sel") or []})
-    horas = []
-    for fid in inicios:
+            salida.append((f"t-{p['id']}", tipo, None))
+    # ⚽ / 🏟️ previa del primer partido de la noche con combi publicada
+    fids = {s.split("|")[0] for p in posts if p.get("fecha", "")[:10] == hoy and p.get("mensaje_id") for s in p.get("sel") or []}
+    noche = []
+    for fid in fids:
         pa = (leer(DATOS / "proximos" / f"{fid}.json") or {}).get("partido")
         if pa:
             h = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
             if h.strftime("%Y-%m-%d") == hoy and 19 <= h.hour <= 22:
-                horas.append(h)
-    if horas:
-        h = min(horas) - timedelta(minutes=20)
-        if h <= ahora <= h + timedelta(minutes=15) and f"p-{hoy}" not in hecho:
-            salida.append((f"p-{hoy}", "previa", BUSQUEDAS["previa"], random.choice(TEXTOS["previa"])))
-    # ☀️ mañana: lunes, viernes o día europeo, a las 10:30
+                gordo = pa["league"]["id"] in EUROPA or {pa["teams"]["home"]["name"], pa["teams"]["away"]["name"]} <= GRANDES
+                noche.append((h, gordo))
+    if noche and f"p-{hoy}" not in hecho:
+        h = min(x[0] for x in noche) - timedelta(minutes=20)
+        if h <= ahora <= h + timedelta(minutes=15):
+            salida.append((f"p-{hoy}", "partidazo" if any(g for x, g in noche if x == min(y[0] for y in noche)) else "previa", None))
+    # ☀️ 10:30 · 🍻 viernes 22:30
     m = ahora.replace(hour=10, minute=30, second=0, microsecond=0)
     if m <= ahora <= m + timedelta(minutes=15) and f"m-{hoy}" not in hecho:
-        europa = any((leer(f) or {}).get("partido", {}).get("league", {}).get("id") in EUROPA
-                     and (leer(f) or {}).get("partido", {}).get("fixture", {}).get("date", "")[:10] == hoy
+        europa = any(((leer(f) or {}).get("partido") or {}).get("league", {}).get("id") in EUROPA
+                     and ((leer(f) or {}).get("partido") or {}).get("fixture", {}).get("date", "")[:10] == hoy
                      for f in (DATOS / "proximos").glob("*.json"))
         dia = "europa" if europa else "lunes" if ahora.weekday() == 0 else "viernes" if ahora.weekday() == 4 else None
         if dia:
-            salida.append((f"m-{hoy}", "manana", BUSQUEDAS["manana"][dia], TEXTOS["manana"][dia]))
+            salida.append((f"m-{hoy}", dia, None))
+    f = ahora.replace(hour=22, minute=30, second=0, microsecond=0)
+    if ahora.weekday() == 4 and f <= ahora <= f + timedelta(minutes=15) and f"f-{hoy}" not in hecho:
+        salida.append((f"f-{hoy}", "finde", None))
+    # 👥 hitos de seguidores en Threads
+    seg = (((app.get("redes") or {}).get("redes") or {}).get("threads") or {}).get("seguidores")
+    if seg:
+        for hito in HITOS:
+            if seg >= hito and f"s-{hito}" not in hecho:
+                salida.append((f"s-{hito}", "seguidores", f"¡Somos {hito:,} en Threads! 💚".replace(",", ".")))
+                break
     return salida
 
 
@@ -124,72 +208,54 @@ def puede(ahora, est, cola, env):
     return any(e > ultimo for e in posts)
 
 
+def elegir(votos, momento, est, rnd=random):
+    """Un GIF aprobado de ese momento, el que lleve más tiempo sin salir (nunca uno de los 10 últimos)."""
+    lista = (votos.get("si") or {}).get(momento) or []
+    if not lista:
+        return None
+    usados = [x.get("gif") for x in est.get("enviados", [])]
+    recientes = set(usados[-10:])
+    libres = [x for x in lista if x["giphy"] not in recientes] or lista
+    nunca = [x for x in libres if x["giphy"] not in usados]
+    return rnd.choice(nunca or libres)
+
+
 def main(ahora=None, enviar=None, rnd=random):
-    clave, token, canal = os.environ.get("GIPHY_API_KEY"), os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
-    if not (clave and token and canal):
-        print("GIF: falta la clave de GIPHY")
+    token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
+    if not (token and canal) or not ACTIVO:
         return
     ahora = ahora or datetime.now(MADRID)
     est = leer(ESTADO, {}) or {}
+    votos = leer(VOTOS, {}) or {}
     cola = leer(RAIZ / "publicaciones" / "cola.json", []) or []
     auto = leer(RAIZ / "publicaciones" / "auto.json", []) or []
     env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
     app = leer(RAIZ / "docs" / "datos.json", {}) or {}
-    if (leer(RAIZ / "publicaciones" / "control.json", {}) or {}).get("pausa") or not ACTIVO:
+    if (leer(RAIZ / "publicaciones" / "control.json", {}) or {}).get("pausa"):
         return
-    for k, tipo, terminos, texto in momentos(ahora, cola, auto, env, app, est)[:1]:   # uno por vuelta
-        if not puede(ahora, est, cola, env):
+    for k, momento, extra in momentos(ahora, cola, auto, env, app, est)[:1]:   # uno por vuelta
+        if not puede(ahora, est, cola, env) and momento != "seguidores":
             break
-        est.setdefault("hechos", []).append(k)   # aunque falle, no se reintenta en bucle
+        est.setdefault("hechos", []).append(k)
+        g = elegir(votos, momento, est, rnd)
+        if not g:
+            print(f"GIF {momento}: no hay ninguno aprobado")
+            continue
+        texto = extra or rnd.choice(MOMENTOS[momento][2])
         try:
-            usados = {x.get("gif") for x in est.get("enviados", [])}
-            r = buscar(clave, rnd.choice(terminos), rnd, usados)
-            gid, url = r if r else (None, None)
-            if url:
-                if enviar:
-                    enviar(url, texto)
-                else:
-                    from publicar_telegram import api
-                    api(token, "sendAnimation", {"chat_id": canal, "animation": url, "caption": texto})
-                est.setdefault("enviados", []).append({"fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "tipo": tipo, "gif": gid, "url": url})
-                print(f"GIF {tipo}: enviado")
+            if enviar:
+                enviar(g["file_id"], texto)
+            else:
+                from publicar_telegram import api
+                api(token, "sendAnimation", {"chat_id": canal, "animation": g["file_id"], "caption": texto})
+            est.setdefault("enviados", []).append({"fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "tipo": momento, "gif": g["giphy"]})
+            print(f"GIF {momento}: enviado")
         except Exception as e:
             print("GIF:", str(e)[:150])
     est["hechos"] = est.get("hechos", [])[-300:]
-    est["enviados"] = est.get("enviados", [])[-200:]
+    est["enviados"] = est.get("enviados", [])[-300:]
     ESTADO.write_text(json.dumps(est, ensure_ascii=False), encoding="utf-8")
 
 
-def muestra(n=25):
-    """Busca n GIF distintos de cada momento y los deja en datos/gifs_muestra.json (no publica nada)."""
-    clave = os.environ.get("GIPHY_API_KEY")
-    sal = {}
-    for tipo, b in BUSQUEDAS.items():
-        terminos = [t for v in b.values() for t in v] if isinstance(b, dict) else list(b)
-        vistos, lista = set(), []
-        for i in range(n * 3):
-            if len(lista) >= n:
-                break
-            t = terminos[i % len(terminos)]
-            try:
-                r = buscar(clave, t, random, vistos, offset=0)
-            except Exception as e:
-                print(tipo, t, str(e)[:80])
-                continue
-            if r and r[1]:
-                vistos.add(r[0])
-                lista.append({"busqueda": t, "url": r[1]})
-        sal[tipo] = lista
-    (DATOS / "gifs_muestra.json").write_text(json.dumps(sal, ensure_ascii=False, indent=1), encoding="utf-8")
-    nom = {"verde": "💚 Verde", "loca": "🤪 La loca", "escalera": "🪜 Escalera", "combi": "🔥 Combi del día",
-           "boleto": "🎟️ Boletos y combi de los 1.000", "previa": "⚽ Previa de la noche", "noche": "🌙 Picks para mañana (buenas noches)",
-           "manana": "☀️ Mañanas (lunes, viernes, noche europea)"}
-    md = ["# GIF de muestra (no se ha publicado nada)", ""]
-    for k, v in sal.items():
-        md += [f"## {nom.get(k, k)} · {len(v)}", "", " ".join(f'<img src="{x["url"]}" height="110">' for x in v), ""]
-    (DATOS / "gifs_muestra.md").write_text("\n".join(md), encoding="utf-8")
-
-
 if __name__ == "__main__":
-    import sys
-    muestra() if "--muestra" in sys.argv else main()
+    main()
