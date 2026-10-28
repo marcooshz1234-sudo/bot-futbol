@@ -1282,7 +1282,16 @@
       "liga": "DFB-Pokal"
     },
     "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat · 00:40 cuota recalculada 3,90 → 3,66 (recorte de Crear apuesta ajustado con el caso del City)",
-    "cuota_bet365": 4.0
+    "cuota_bet365": 4.0,
+    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1638558.tarjeta.jpg",
+    "enviado": "2026-10-28T02:00",
+    "mensaje_id": 148,
+    "redes": {
+      "threads": "17915084844513426"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   },
   {
     "id": "2026-10-28-combi-partido-1638557",
