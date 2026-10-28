@@ -23,3 +23,4 @@
 2026-10-28 01:39:12 texto ✅ COMBI LOCAS | DFB-POKAL
 🇩🇪 BAYERN MÜNC → ok
 2026-10-28 02:12:18 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
+2026-10-28 02:16:02 texto /hoy → ok
