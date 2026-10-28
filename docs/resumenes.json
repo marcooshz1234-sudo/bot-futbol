@@ -329,11 +329,11 @@
     "total": 14,
     "cuentas": {
       "verde": 0,
-      "rojo": 13,
-      "pendiente": 1,
+      "rojo": 14,
+      "pendiente": 0,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 0
     },
     "combis": [
       {
@@ -393,7 +393,7 @@
       {
         "id": "2026-10-28-combi-partido-1640388-b",
         "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 9.78
       },
       {
@@ -422,10 +422,10 @@
       }
     ],
     "picks": {
-      "verde": 35,
-      "rojo": 23,
+      "verde": 37,
+      "rojo": 28,
       "total": 72
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 13 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | SERIE A · 4,39\n❌ ✅ COMBI LOCAS | CARABAO CUP · 4,25\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,66\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,04\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88\n❌ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n❌ ✅ COMBI LOCAS | SERIE A · 10,04\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,78 · pendiente\n❌ ✅ COMBI LOCAS | CARABAO CUP · 10,06\n❌ ✅ COMBI LOCAS | CARABAO CUP · 8,62\n❌ ✅ COMBI LOCAS | SERIE A · 8,36\n❌ ✅ COMBI LOCAS | SERIE A · 7,65\n\n✅ 0 acertadas · ❌ 13 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 14 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | SERIE A · 4,39\n❌ ✅ COMBI LOCAS | CARABAO CUP · 4,25\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,66\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,04\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88\n❌ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n❌ ✅ COMBI LOCAS | SERIE A · 10,04\n❌ ✅ COMBI LOCAS | CARABAO CUP · 9,78\n❌ ✅ COMBI LOCAS | CARABAO CUP · 10,06\n❌ ✅ COMBI LOCAS | CARABAO CUP · 8,62\n❌ ✅ COMBI LOCAS | SERIE A · 8,36\n❌ ✅ COMBI LOCAS | SERIE A · 7,65\n\n✅ 0 acertadas · ❌ 14 falladas · ⏳ 0 sin resolver"
   }
 }
