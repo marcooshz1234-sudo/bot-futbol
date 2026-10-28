@@ -262,6 +262,11 @@ def posts_del_dia(dia, d):
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
             apuntar(cp["picks"])   # 27/10: cuentan para el «máx. 2 posts por selección» (la lista de picks)
+        for cp, cuota, tj, hora in cd.get("noche") or []:   # 28/10: prueba de combis de madrugada
+            pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
+            tarjetas[pid] = tj
+            posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
+            apuntar(cp["picks"])
         for clave_m, titulo in (("tres", "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"), ("loca", "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
             r = cd.get(clave_m)
             if r:
