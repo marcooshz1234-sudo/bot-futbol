@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 10:55",
+ "actualizado": "2026-10-28 11:11",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 1086,
-   "hoy": 103,
+   "seguidores": 1088,
+   "hoy": 105,
    "serie": [
     836,
     930,
     938,
     983,
-    1086
+    1088
    ]
   },
   "facebook": {
@@ -46,13 +46,13 @@
    ]
   }
  },
- "total": 1198,
- "total_hoy": 116,
+ "total": 1200,
+ "total_hoy": 118,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "13:30",
   "dia": "2026-10-28",
-  "titulo": "Reto escalera · día 2/7 · x1,90"
+  "titulo": "Combilocas  combi del miércoles "
  },
  "ayer": {
   "aciertos": 9,
@@ -94,12 +94,17 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 1086,
+   "threads": 1088,
    "facebook": 0,
    "telegram": 93
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 18,
    "likes_media": 0.0,
@@ -107,11 +112,6 @@
   },
   "Verdes/balance (reel)": {
    "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -136,7 +136,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
