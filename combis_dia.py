@@ -152,8 +152,25 @@ def pool_partido(ex, hist, ap):
             continue
         if p["cuota"] >= CUOTA_MIN_PATA and ((lok and vok) or p.get("equipo") == (loc["name"] if lok else vis["name"])):
             pool.append(p)
+    import goles_partido as G
+    import modelo_goles as M
+    lam = M.lambdas(pa["fixture"]["id"])
+    gana = favorito(ex)
     for p in pool:
         p["prob_aprendida"] = aprender.prob_aprendida(p, ap) or p["frecuencia"]
+        # 28/10 (Marcos): en los picks de goles manda también lo que dice bet365 y lo que pasó en partidos
+        # del mismo tipo (goles_partido.py), no solo la racha (Parma–Udinese +1,5 acabó 0-0)
+        g = G.prob_goles(p, hist, lam, loc["id"], vis["id"])
+        if g:
+            p["prob_aprendida"], p["prob_bet365"], p["prob_tipo"] = g["prob"], g["bet365"], g["tipo"]
+    # 28/10 (Marcos): «gana alguna de las dos partes» acertó 3 de 8: solo para el favorito claro de bet365
+    pool = [p for p in pool if not (p["mercado"] == "To Win Either Half" and gana.get(p["opcion"], 0) < FAVORITO_MIN)]
+    # 28/10: los tiros a puerta del partido acertaron 1 de 4: solo muy respaldados
+    pool = [p for p in pool if not (p["mercado"] == "Total ShotOnGoal" and p["prob_aprendida"] < PROB_MIN_A_PUERTA)]
+    # 28/10 (Marcos): +1,5 goles solo si los tres (bot, bet365 y partidos parecidos) lo ven claro
+    pool = [p for p in pool if not (p["mercado"] == "Goals Over/Under" and p["opcion"] == "Over 1.5"
+                                    and (p["prob_aprendida"] < MAS_15["prob_min"]
+                                         or min(x for x in (p.get("prob_bet365"), p.get("prob_tipo"), p["frecuencia"]) if x is not None) < MAS_15["cada_una"]))]
     # 27/10 (Marcos): «más de 2,5 goles» falla mucho: solo si está muy respaldado
     pool = [p for p in pool if not (MAS_25.search(f"{p['mercado']}|{p['opcion']}") and p["prob_aprendida"] < PROB_MIN_25)]
     # una por mercado (o por jugador y dato): la más probable
@@ -163,6 +180,26 @@ def pool_partido(ex, hist, ap):
         if k not in mejor or p["prob_aprendida"] > mejor[k]["prob_aprendida"]:
             mejor[k] = p
     return sorted(mejor.values(), key=lambda p: -p["prob_aprendida"])
+
+
+FAVORITO_MIN = 0.55          # probabilidad de ganar (bet365, sin margen) para «gana alguna de las dos partes»
+PROB_MIN_A_PUERTA = 0.70
+MAS_15 = {"prob_min": 0.80, "cada_una": 0.75, "max_dia": 1}   # 28/10 (Marcos): +1,5 solo uno al día y muy claro
+
+
+def es_mas15(p):
+    return p["mercado"] == "Goals Over/Under" and str(p["opcion"]) == "Over 1.5"
+
+
+def favorito(ex):
+    """Probabilidad de ganar de local y visitante según el 1X2 de bet365 (sin el margen de la casa)."""
+    c = dict((o, v) for o, v in (ex.get("cuotas") or {}).get("Match Winner", []))
+    try:
+        inv = {o: 1 / float(c[o]) for o in ("Home", "Draw", "Away")}
+    except (KeyError, TypeError, ValueError, ZeroDivisionError):
+        return {}
+    s = sum(inv.values())
+    return {o: v / s for o, v in inv.items()}
 
 
 import re
@@ -442,6 +479,21 @@ def del_dia(dia, hist=None, ap=None):
         if esp and esp not in top:
             top = top[:3] + [esp] + top[3:PARTIDO["max"] - 1]
     elegidos = [(cp, c) for _, _, cp, c in top]
+    # 28/10 (Marcos): +1,5 goles en una combi de partido como mucho al día; las demás se rehacen sin él
+    pool_de = {pool[0]["partido_id"]: pool for pool in pools}
+    con15, rehechos = 0, []
+    for cp, c in elegidos:
+        if any(es_mas15(p) for p in cp["picks"]):
+            if con15 >= MAS_15["max_dia"]:
+                r = mejor_combi([p for p in pool_de[cp["partido_id"]] if not es_mas15(p)],
+                                PARTIDO["patas"], PARTIDO["cuota"], PARTIDO["prob_min"])
+                if not r:
+                    continue
+                cp, c = dict(cp, picks=r[1]), r[2]
+            else:
+                con15 += 1
+        rehechos.append((cp, c))
+    elegidos = rehechos
     # horas: 50 min antes; si chocan, cada 30 min hacia atrás
     usadas, salida = [], []
     for cp, c in sorted(elegidos, key=lambda x: x[0]["fecha"], reverse=True):
@@ -463,7 +515,8 @@ def del_dia(dia, hist=None, ap=None):
             b = pool[0]
             if b["partido_id"] in ya:
                 continue
-            r = mejor_combi(pool, NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"])
+            r = mejor_combi([p for p in pool if not (con15 >= MAS_15["max_dia"] and es_mas15(p))],
+                            NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"])
             if r:
                 cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
                 cp["picks"] = r[1]

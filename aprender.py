@@ -33,6 +33,9 @@ K = 15                          # "partidos de prudencia": una corrección neces
 VIDA_MEDIA = 45                 # días: lo reciente pesa más
 MIN_EVIDENCIA = 25              # para descartar picks: partidos (no picks) de su tipo de mercado ya jugados
 TOPE = 0.25
+# 28/10 (Marcos: «acertamos el 50 %»): la racha prometía 82-85 % y salía lo que decía bet365 o menos.
+W_MAX = 0.35        # nunca fiarse de la racha más que esto frente a la cuota
+K_PUB = 8           # lo publicado que falla se corrige antes (antes hacían falta ~15 partidos)
 
 
 def seg_tipo(p):
@@ -148,7 +151,7 @@ def calibrar(resueltos):
         filas.append((p, imp, f, float(bool(p["acierto"])), peso(p, hoy) / por_partido[p.get("partido_id")]))
     sxy = sum(w * (y - imp) * (f - imp) for _, imp, f, y, w in filas)
     sxx = sum(w * (f - imp) ** 2 for _, imp, f, y, w in filas)
-    w_frec = max(0.0, min(1.0, (sxy + LAMBDA * W_PREVIO) / (sxx + LAMBDA)))
+    w_frec = max(0.0, min(W_MAX, (sxy + LAMBDA * W_PREVIO) / (sxx + LAMBDA)))
 
     def ajustar(clave, base):
         res, n = defaultdict(float), defaultdict(float)
@@ -188,6 +191,66 @@ def calibrar(resueltos):
             "cuotas": tabla(a_cuota, n_cuota, tramo_cuota), "senales": tabla(a_senal, n_senal, senal)}
 
 
+def clave_pub(m, o):
+    """Mercado concreto para lo publicado: «Total - Home|Over 0.5», «To Win Either Half», «Total ShotOnGoal|Over»…"""
+    o = str(o)
+    if " - " in o or "Player" in m or "Scorer" in m:
+        return m    # jugadores: por mercado
+    if o.startswith(("Over", "Under")):
+        lado = o.split()[0]
+        return f"{m}|{o}" if m in ("Goals Over/Under", "Total - Home", "Total - Away", "Goals Over/Under First Half") else f"{m}|{lado}"
+    if m in ("Match Winner", "Double Chance", "To Win Either Half", "First Half Winner", "Both Teams Score"):
+        return f"{m}|{o}" if m in ("Both Teams Score", "Double Chance") else m
+    return f"{m}|{o}"
+
+
+def aprender_publicados():
+    """28/10 (Marcos): aprender también de cada pick PUBLICADO (combis de partido, boletos, x3, loca…), no solo
+    de los picks del bot. Por mercado concreto: cuánto acierta de verdad frente a lo que daba la cuota de bet365.
+    Lo que falla más de lo que dice la cuota baja su probabilidad (y deja de salir si falla una y otra vez)."""
+    import picks as P
+    cola = leer(RAIZ / "publicaciones" / "cola.json", []) or []
+    auto = leer(RAIZ / "publicaciones" / "auto.json", []) or []
+    ids = {c["id"] for c in cola}
+    vistos = {}
+    for post in cola + [x for x in auto if x["id"] not in ids]:
+        if not (post.get("enviado") or post.get("mensaje_id") or post.get("redes")) or post.get("borrar"):
+            continue
+        if not post.get("sel") or not post.get("cuotas") or len(post["sel"]) != len(post["cuotas"]) or post.get("aumento"):
+            continue
+        for s, c in zip(post["sel"], post["cuotas"]):
+            try:
+                pid, m, o = s.split("|", 2)
+                c = float(c)
+            except (ValueError, TypeError):
+                continue
+            if m == "?" or (pid, m, o) in vistos or c <= 1:
+                continue
+            d = leer(PARTIDOS / f"{pid}.json")
+            if not d or d.get("estado") not in ("FT", "AET", "PEN"):
+                d = leer(DATOS / "en_directo" / f"{pid}.json")   # recién terminado: aún no está en datos/partidos
+            if not d or d.get("estado") not in ("FT", "AET", "PEN"):
+                continue
+            try:
+                r = P.evaluar_pick({"mercado": m, "opcion": o}, P.a_90(d))
+            except Exception:
+                continue
+            if r is None:
+                continue
+            vistos[(pid, m, o)] = (clave_pub(m, o), 1 / c, float(bool(r)), d["fecha"][:10])
+    hoy = datetime.now(MADRID).replace(tzinfo=None)
+    res, n, cuenta = defaultdict(float), defaultdict(float), defaultdict(lambda: [0, 0, 0.0])
+    for k, imp, y, fecha in vistos.values():
+        w = peso({"fecha": fecha}, hoy)
+        res[k] += w * (y - imp)
+        n[k] += w
+        cuenta[k][0] += 1
+        cuenta[k][1] += int(y)
+        cuenta[k][2] += imp
+    return {k: {"ajuste": round(max(-TOPE, min(TOPE, res[k] / (n[k] + K_PUB))), 4), "n": cuenta[k][0],
+                "aciertos": cuenta[k][1], "cuota_implicita": round(cuenta[k][2] / cuenta[k][0], 3)} for k in res}
+
+
 def prob_aprendida(p, ap):
     """Probabilidad real estimada de un pick con lo aprendido (None si no hay modelo o cuota)."""
     if not ap or not p.get("cuota"):
@@ -197,6 +260,8 @@ def prob_aprendida(p, ap):
     for tabla, clave in (("tipos", seg_tipo(p)), ("mercados", seg_fino(p)),
                          ("ligas", p.get("competicion") or "?"), ("cuotas", tramo_cuota(p)), ("senales", senal(p))):
         prob += (ap.get(tabla, {}).get(clave) or {}).get("ajuste", 0)
+    if p.get("mercado"):
+        prob += ((ap.get("publicados") or {}).get(clave_pub(p["mercado"], p.get("opcion"))) or {}).get("ajuste", 0)
     return max(0.01, min(0.99, prob))
 
 
@@ -351,6 +416,15 @@ def main():
     previo = leer(SALIDA, {}) or {}
     ap = calibrar(resueltos) if resueltos else None
     if ap:
+        try:
+            ap["publicados"] = aprender_publicados()
+        except Exception as e:
+            print("publicados:", str(e)[:150])
+        try:
+            import goles_partido
+            goles_partido.main()
+        except Exception as e:
+            print("tipo de partido:", str(e)[:150])
         SALIDA.write_text(json.dumps(ap, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         print(f"Aprendizaje: w={ap['w_frecuencia']} · {ap['aciertos']}/{ap['picks_usados']}")
 
