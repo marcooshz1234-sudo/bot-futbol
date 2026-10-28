@@ -244,6 +244,7 @@ estén. Medido en bet365 el 27/10:
 | Juve gana alguna mitad + Genoa +1 tarjetas | 2,14 | 2,10 | 0,98 |
 | City gana alguna mitad + Brighton marca + Brighton +1,5 tarjetas + +9,5 tiros a puerta (28/10) | 5,18 | 4,25 | 0,82 |
 | Milan gana + Bologna marca + Bologna +2,5 córners + Milan +1,5 tarjetas + Ferguson 1+ faltas (28/10) | ~8,6 | 10,50 | >1 |
+| Milan más tiros a puerta + Bologna marca + gana Milan + más de 3,5 tarjetas (28/10) | 7,14 | 8,00 | 1,12 |
 
 **Entre partidos distintos bet365 multiplica tal cual** (comprobado: boleto x33,75 exacto).
 

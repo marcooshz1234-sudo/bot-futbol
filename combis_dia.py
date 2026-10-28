@@ -219,6 +219,12 @@ def pareja(a, b):
     if "tarjetas" in (fa, fb) or "fueras" in (fa, fb) or "faltas" in (str(a.get("campo")), str(b.get("campo"))):
         return 1.0
     if la and lb:
+        dominio = {"ShotOnTarget 1x2", "Shots.1x2", "Corners 1x2"}
+        if la == lb and ({a["mercado"], b["mercado"]} & dominio) and "Match Winner" in {a["mercado"], b["mercado"]}:
+            # 28/10: «el Milan hace más tiros a puerta» + «gana el Milan» van muy juntas (con «gana alguna mitad»
+            # no tanto: Monza–Napoli del 27/10 sigue cuadrando con el recorte normal). Milan–Bologna
+            # (tiros a puerta 1,44 · Bologna marca 1,62 · gana Milan 1,70 · +3,5 tarjetas 1,80) pagaba 8,00 en bet365
+            return 0.78
         if la != lb:
             # 28/10: Milan gana + Bologna marca (+ córners, tarjetas, faltas): bet365 pagaba 10,50, MÁS que
             # multiplicando (~8,6). Que gane uno y marque el otro no se recorta.

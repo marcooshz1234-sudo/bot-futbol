@@ -52,3 +52,11 @@ class RecorteCaso28(unittest.TestCase):
         sel = ["1|To Win Either Half|Home", "1|Total - Away|Over 0.5", "1|Away Team Total Cards|Over 1.5", "1|Total ShotOnGoal|Over 9.5"]
         real = combis_dia.cuota_real_sel(sel, [1.33, 1.36, 1.50, 1.91])
         self.assertAlmostEqual(real, 4.25, delta=0.15)   # bet365 pagaba 4,25 (Marcos, 28/10)
+
+
+class RecorteMilan28(unittest.TestCase):
+    def test_milan_bologna_como_bet365(self):
+        import combis_dia
+        sel = ["1550167|ShotOnTarget 1x2|Home", "1550167|Total - Away|Over 0.5", "1550167|Match Winner|Home", "1550167|Cards Over/Under|Over 3.5"]
+        real = combis_dia.cuota_real_sel(sel, [1.44, 1.62, 1.70, 1.80])
+        self.assertAlmostEqual(real, 8.0, delta=0.4)   # bet365 pagaba 8,00 (Marcos, 28/10)
