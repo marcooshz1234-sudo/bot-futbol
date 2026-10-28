@@ -94,3 +94,8 @@
 2026-10-28 14:19:11 botón gifv|s|verde|cQRL8fNySBh8s7Q1U3 → ok
 2026-10-28 14:19:12 botón gifv|s|verde|cMQNQF8BpBBu22RQ5B → ok
 2026-10-28 14:19:13 botón gifv|s|verde|1ZlFlwlinZ23xD3iKQ → ok
+2026-10-28 14:19:30 botón gifcat|verde → ok
+2026-10-28 14:19:34 botón gifv|s|verde|iOak97jdrTPWWN2Psz → ok
+2026-10-28 14:19:36 botón gifv|s|verde|QxMb25h7RhitNWgyy0 → ok
+2026-10-28 14:19:44 botón gifv|s|verde|hHNsldYiAZTJInRGYB → ok
+2026-10-28 14:19:52 botón gifv|s|verde|NjRQkcFlyqHZxcfjY0 → ok
