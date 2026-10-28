@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 16:57",
+ "actualizado": "2026-10-28 17:15",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 1175,
-   "hoy": 192,
+   "seguidores": 1177,
+   "hoy": 194,
    "serie": [
     836,
     930,
     938,
     983,
-    1175
+    1177
    ]
   },
   "facebook": {
@@ -46,11 +46,11 @@
    ]
   }
  },
- "total": 1299,
- "total_hoy": 217,
+ "total": 1301,
+ "total_hoy": 219,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:10",
+  "hora": "17:55",
   "dia": "2026-10-28",
   "titulo": "Combi locas  carabao cup"
  },
@@ -94,7 +94,7 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 1175,
+   "threads": 1177,
    "facebook": 0,
    "telegram": 105
   }
