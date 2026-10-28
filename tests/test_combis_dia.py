@@ -8,6 +8,10 @@ def pk(i, m, o, c, pr, pid=1, lado=None):
             "fecha": "2026-10-28T20:45", "tipo": "goles", "partido_id": i}
 
 
+
+import combis_dia as _cd
+_cd._APRENDIDO = {}   # 28/10: estos tests miden las reglas base, sin lo aprendido de las cuotas reales
+
 class CombisDia(unittest.TestCase):
     def test_cuota_y_patas_en_el_intervalo(self):
         pool = [pk(1, "Goals Over/Under", "Over 1.5", 1.3, .8), pk(2, "Total - Home", "Over 0.5", 1.3, .78),

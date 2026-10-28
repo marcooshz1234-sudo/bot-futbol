@@ -1,0 +1,338 @@
+[
+ {
+  "id": "semilla-milan-boleto-28",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550167|Player Fouls Committed|Lewis Ferguson - 1",
+   "1550167|Total - Away|Over 0.5",
+   "1550167|Away Corners Over/Under|Over 2.5",
+   "1550167|Match Winner|Home",
+   "1550167|Home Team Total Cards|Over 1.5"
+  ],
+  "cuotas": [
+   1.25,
+   1.57,
+   1.62,
+   1.62,
+   1.67
+  ],
+  "real": 10.5,
+  "multiplicando": 8.601,
+  "aj": 1.4494119199504354,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "corners+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+tarjetas/partido",
+    1.0
+   ],
+   [
+    "corners+goles/mismo",
+    0.88
+   ],
+   [
+    "goles+tarjetas/contrario",
+    1.0
+   ],
+   [
+    "corners+resultado/contrario",
+    1.0
+   ],
+   [
+    "corners+tarjetas/contrario",
+    1.0
+   ],
+   [
+    "resultado+tarjetas/mismo",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "semilla-monza-napoli-27a",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550172|Away Player Shots|Scott McTominay - 2",
+   "1550172|Goals Over/Under First Half|Over 0.5",
+   "1550172|To Win Either Half|Away",
+   "1550172|Home Player Shots On Target Total|Gustavo Varela - 1",
+   "1550172|ShotOnTarget 1x2|Away"
+  ],
+  "cuotas": [
+   1.18,
+   1.3,
+   1.4,
+   1.57,
+   1.5
+  ],
+  "real": 4.34,
+  "multiplicando": 5.058,
+  "aj": 0.8915471946637542,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+tiros/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+tiros/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "resultado+tiros/mismo",
+    0.97
+   ],
+   [
+    "jugador+tiros/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "semilla-monza-napoli-27b",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550172|Away Player Shots|Scott McTominay - 2",
+   "1550172|Home Player Shots On Target Total|Gustavo Varela - 1",
+   "1550172|Total - Home|Over 0.5",
+   "1550172|Home Corners Over/Under|Over 3.5",
+   "1550172|Total Shots|Over 28.5"
+  ],
+  "cuotas": [
+   1.18,
+   1.57,
+   1.4,
+   1.83,
+   1.73
+  ],
+  "real": 5.208,
+  "multiplicando": 8.211,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "corners+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+tiros/partido",
+    0.94
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "corners+jugador/mismo",
+    0.93
+   ],
+   [
+    "jugador+tiros/partido",
+    0.94
+   ],
+   [
+    "corners+goles/mismo",
+    0.88
+   ],
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "corners+tiros/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "semilla-monza-varela-27",
+  "fecha": "2026-10-28T00:00",
+  "fuente": "medida a mano (Claude)",
+  "sel": [
+   "1550172|Total - Home|Over 0.5",
+   "1550172|Home Player Shots On Target Total|Gustavo Varela - 1"
+  ],
+  "cuotas": [
+   1.4,
+   1.57
+  ],
+  "real": 1.994,
+  "multiplicando": 2.198,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/mismo",
+    0.9
+   ]
+  ]
+ },
+ {
+  "id": "2026-10-28-combi-partido-1640575",
+  "fecha": "2026-10-28T01:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1640575|To Win Either Half|Home",
+   "1640575|Total - Away|Over 0.5",
+   "1640575|Away Team Total Cards|Over 1.5",
+   "1640575|Total ShotOnGoal|Over 9.5"
+  ],
+  "cuotas": [
+   1.33,
+   1.36,
+   1.5,
+   1.91
+  ],
+  "real": 4.25,
+  "multiplicando": 5.182,
+  "aj": 1.1201345212033755,
+  "parejas": [
+   [
+    "resultado+tarjetas/contrario",
+    1.0
+   ],
+   [
+    "resultado+tiros/partido",
+    0.87
+   ],
+   [
+    "goles+tarjetas/mismo",
+    1.0
+   ],
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "tarjetas+tiros/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-10-28-combi-partido-1638558",
+  "fecha": "2026-10-28T02:00",
+  "fuente": "editada por Marcos",
+  "sel": [
+   "1638558|Anytime Goal Scorer|Harry Kane",
+   "1638558|Goals Over/Under - Second Half|Over 1.5",
+   "1638558|Away Corners Over/Under|Over 1.5",
+   "1638558|Home Corners Over/Under|Over 7.5"
+  ],
+  "cuotas": [
+   1.28,
+   1.33,
+   1.53,
+   1.73
+  ],
+  "real": 4.0,
+  "multiplicando": 4.506,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.88
+   ],
+   [
+    "corners+jugador/partido",
+    0.97
+   ],
+   [
+    "corners+jugador/partido",
+    0.97
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+corners/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-10-28-combi-partido-1550167",
+  "fecha": "2026-10-28T16:40",
+  "fuente": "editada por Marcos",
+  "sel": [
+   "1550167|ShotOnTarget 1x2|Home",
+   "1550167|Total - Away|Over 0.5",
+   "1550167|Match Winner|Home",
+   "1550167|Cards Over/Under|Over 3.5"
+  ],
+  "cuotas": [
+   1.44,
+   1.62,
+   1.7,
+   1.8
+  ],
+  "real": 8.0,
+  "multiplicando": 7.138,
+  "aj": 1.4494119199504354,
+  "parejas": [
+   [
+    "goles+tiros/contrario",
+    1.0
+   ],
+   [
+    "resultado+tiros/mismo",
+    0.78
+   ],
+   [
+    "tarjetas+tiros/partido",
+    1.0
+   ],
+   [
+    "goles+tarjetas/partido",
+    1.0
+   ],
+   [
+    "resultado+tarjetas/partido",
+    1.0
+   ]
+  ]
+ }
+]

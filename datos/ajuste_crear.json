@@ -1,0 +1,31 @@
+{
+ "claves": {
+  "corners+corners/contrario": 0.0092,
+  "corners+goles/mismo": -0.0059,
+  "corners+goles/partido": 0.0183,
+  "corners+jugador/partido": 0.0101,
+  "corners+resultado/contrario": -0.0082,
+  "corners+tarjetas/contrario": -0.0082,
+  "goles+jugador/mismo": 0.0058,
+  "goles+jugador/partido": 0.0182,
+  "goles+tarjetas/contrario": -0.0082,
+  "goles+tarjetas/mismo": -0.0257,
+  "goles+tiros/partido": -0.0148,
+  "jugador+jugador/contrario": 0.0108,
+  "jugador+resultado/contrario": 0.0086,
+  "jugador+resultado/mismo": 0.0086,
+  "jugador+resultado/partido": -0.0082,
+  "jugador+tarjetas/partido": -0.0082,
+  "jugador+tiros/contrario": 0.0086,
+  "jugador+tiros/mismo": 0.0086,
+  "resultado+tarjetas/contrario": -0.0257,
+  "resultado+tarjetas/mismo": -0.0082,
+  "resultado+tiros/mismo": 0.0105,
+  "resultado+tiros/partido": -0.0257,
+  "tarjetas+tiros/partido": -0.0238
+ },
+ "beta": 0.994,
+ "n": 7,
+ "error_antes": 5.3,
+ "error_ahora": 0.8
+}
