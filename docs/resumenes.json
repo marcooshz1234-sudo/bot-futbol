@@ -326,14 +326,14 @@
   },
   "2026-10-28": {
     "dia": "2026-10-28",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -347,13 +347,19 @@
         "titulo": "✅ COMBI LOCAS | CARABAO CUP",
         "estado": "pendiente",
         "cuota": 4.25
+      },
+      {
+        "id": "2026-10-28-combi-partido-1638558",
+        "titulo": "✅ COMBI LOCAS | DFB-POKAL",
+        "estado": "pendiente",
+        "cuota": 3.66
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 18
+      "total": 22
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }

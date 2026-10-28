@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 01:53",
+ "actualizado": "2026-10-28 02:03",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 994,
-   "hoy": 11,
+   "seguidores": 995,
+   "hoy": 12,
    "serie": [
     836,
     930,
     938,
     983,
-    994
+    995
    ]
   },
   "facebook": {
@@ -34,23 +34,23 @@
    ]
   },
   "telegram": {
-   "seguidores": 80,
-   "hoy": 0,
+   "seguidores": 81,
+   "hoy": 1,
    "serie": [
     75,
     72,
     71,
     69,
     80,
-    80
+    81
    ]
   }
  },
- "total": 1093,
- "total_hoy": 11,
+ "total": 1095,
+ "total_hoy": 13,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "02:00",
+  "hora": "02:30",
   "dia": "2026-10-28",
   "titulo": "Combi locas  dfb-pokal"
  },
@@ -91,9 +91,9 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 994,
+   "threads": 995,
    "facebook": 0,
-   "telegram": 80
+   "telegram": 81
   }
  },
  "tipos_instagram": {
