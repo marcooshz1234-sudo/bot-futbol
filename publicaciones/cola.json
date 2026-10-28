@@ -1287,10 +1287,10 @@
     "enviado": "2026-10-28T02:00",
     "mensaje_id": 148,
     "redes": {
-      "threads": "17915084844513426"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "17915084844513426",
+      "instagram_reel": null,
+      "instagram": "18426860980146439",
+      "instagram_story": "18044408267835343"
     }
   },
   {

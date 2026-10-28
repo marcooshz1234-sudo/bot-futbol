@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 02:03",
+ "actualizado": "2026-10-28 02:15",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -54,13 +54,16 @@
   "dia": "2026-10-28",
   "titulo": "Combi locas  dfb-pokal"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 9,
+  "total": 10
+ },
  "escalera": {
-  "dia": 1,
+  "dia": 2,
   "de": 7,
-  "stake": 20.0,
-  "objetivo": 38.4,
-  "fecha": "2026-10-27"
+  "stake": 38.4,
+  "objetivo": 72.96,
+  "fecha": "2026-10-28"
  },
  "historial": {
   "2026-10-23": {
@@ -98,7 +101,7 @@
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 17,
+   "posts": 18,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -118,7 +121,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
