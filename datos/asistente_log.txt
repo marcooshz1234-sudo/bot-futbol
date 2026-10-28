@@ -28,6 +28,7 @@
 2026-10-28 07:32:49 arranca el bot del móvil
 2026-10-28 13:33:41 arranca el bot del móvil
 2026-10-28 13:59:55 arranca el bot del móvil
+<<<<<<< Updated upstream
 2026-10-28 14:00:46 texto /gifs → ok
 2026-10-28 14:00:55 botón gifcat|verde → ok
 2026-10-28 14:01:22 botón gifv|n|verde|qAAzU1EtL1D2YFhlhK → ok
@@ -39,3 +40,6 @@
 2026-10-28 14:01:52 botón gifv|n|verde|hVYVYZZBgF50k → ok
 2026-10-28 14:01:52 botón gifv|n|verde|26tOWWypWdxIQCces → ERROR RuntimeError('Telegram 400: Bad Request: query is too old and response timeout expired or query ID is invalid') | '"callback_query_id": q["id"]})\n  File "/home/runner/work/bot-futbol/bot-futbol/publicar_telegram.py", line 69, in api\n    raise RuntimeError(f"Telegram {e.code}: {resp.get(\'description\')}")\nRuntimeError: Telegram 400: Bad Request: query is too old and response timeout expired or query ID is invalid\n'
 2026-10-28 14:02:19 botón gifv|n|verde|26tOWWypWdxIQCces → ok
+=======
+2026-10-28 14:04:05 arranca el bot del móvil
+>>>>>>> Stashed changes
