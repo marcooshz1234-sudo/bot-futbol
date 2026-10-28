@@ -94,7 +94,7 @@ def guardar_archivos(rutas, mensaje):
         if r.returncode:
             print("git commit:", r.stdout[-300:], r.stderr[-300:])
     for _ in range(5):
-        r = git("pull", "--rebase", "-q")
+        r = git("pull", "--rebase", "--autostash", "-q")   # 28/10: sin autostash fallaba si había otros cambios
         if r.returncode != 0:
             print("git pull:", r.stderr[-400:])
             git("rebase", "--abort")
@@ -122,7 +122,7 @@ def registrar(texto):
 
 
 def actualizar():
-    if git("pull", "--rebase", "-q").returncode != 0:
+    if git("pull", "--rebase", "--autostash", "-q").returncode != 0:
         git("rebase", "--abort")
     elif git("status", "-sb").stdout.find("ahead") >= 0:   # algo guardado que no llegó a subirse
         git("push", "-q")
@@ -456,12 +456,28 @@ class Asistente:
                                                                                           "callback_data": f"gifv|{'n' if si else 's'}|{momento}|{gid}"}]]}})
         except Exception as e:
             print("gif voto:", str(e)[:120])
-        if not guardar_archivos([gifs.VOTOS], f"GIF {'👍' if si else '👎'} {momento}"):
-            self.enviar("⚠️ No he podido guardar el voto del GIF (lo reintento al votar el siguiente).")
+        self.gifs_pendiente = True
+        self.subir_votos()
+
+    def subir_votos(self, forzar=False):
+        """Sube los votos de GIF al repositorio, como mucho cada 30 s (para que votar sea rápido)."""
+        import gifs
+        if not getattr(self, "gifs_pendiente", False):
+            return
+        if not forzar and time.time() - getattr(self, "gifs_subido", 0) < 30:
+            return
+        self.gifs_subido = time.time()
+        if guardar_archivos([gifs.VOTOS], "votos de GIF"):
+            self.gifs_pendiente = False
+        else:
+            self.enviar("⚠️ No he podido guardar los votos de GIF en el repositorio (lo reintento solo).")
 
     def boton(self, q):
         accion, *resto = q["data"].split("|")
-        api(self.t, "answerCallbackQuery", {"callback_query_id": q["id"]})
+        try:
+            api(self.t, "answerCallbackQuery", {"callback_query_id": q["id"]})
+        except Exception as e:   # 28/10: botón pulsado hace rato («query is too old»): se hace igual
+            print("answerCallbackQuery:", str(e)[:120])
         if accion == "gifmenu":
             return self.menu_gifs()
         if accion == "gifcat":
@@ -733,6 +749,10 @@ class Asistente:
         offset, ultimo_pull = None, 0
         registrar("arranca el bot del móvil")
         while datetime.now(MADRID) < fin:
+            try:
+                self.subir_votos()   # 28/10: votos de GIF pendientes de subir
+            except Exception as e:
+                print("votos gif:", e)
             if time.time() - ultimo_pull > 120:
                 actualizar()
                 ultimo_pull = time.time()
