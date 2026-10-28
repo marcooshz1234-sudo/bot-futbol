@@ -326,14 +326,14 @@
   },
   "2026-10-28": {
     "dia": "2026-10-28",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -377,13 +377,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀",
         "estado": "pendiente",
         "cuota": 2.88
+      },
+      {
+        "id": "2026-10-28-boleto-aumento-milan",
+        "titulo": "🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 47
+      "total": 49
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90 · pendiente\n⏳ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90 · pendiente\n⏳ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88 · pendiente\n⏳ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }
