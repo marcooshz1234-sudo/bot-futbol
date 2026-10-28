@@ -122,7 +122,7 @@ const num = x => x == null ? "—" : Math.round(x).toLocaleString("es-ES");
 const eur = x => x == null ? "—" : (x >= 0 ? "+" : "") + Number(x).toFixed(2).replace(".", ",") + " €";
 const diaTxt = d => { if(!D) return d; if(d===D.hoy) return "Hoy"; if(d===D.manana) return "Mañana"; const f=new Date(d+"T12:00"); return f.toLocaleDateString("es-ES",{weekday:"short",day:"numeric",month:"short"}) };
 const ESTADO = {verde:["✅ Verde","verde"],rojo:["❌ Roja","rojo"],va_bien:["🟢 Va bien","va_bien"],va_mal:["🟠 Va mal","va_mal"],en_juego:["En juego","live"],pendiente:["Pendiente",""]};
-const chipEstado = e => { const [t,c] = ESTADO[e] || ESTADO.pendiente; return `<span class="chip ${c}">${t}</span>` };
+const chipEstado = e => { if(e==="verde"||e==="rojo") return icono({estado:e}); const [t,c] = ESTADO[e] || ESTADO.pendiente; return `<span class="chip ${c}">${t}</span>` };   // 28/10: ✅/❌ iguales en toda la app
 function toast(t){const x=$("#toast");x.textContent=t;x.classList.add("on");setTimeout(()=>x.classList.remove("on"),1600)}
 async function copiar(t){try{await navigator.clipboard.writeText(t);toast("Copiado")}catch(e){toast("No se pudo copiar")}}
 
@@ -190,10 +190,10 @@ function toggle(k){ abiertos.has(k)?abiertos.delete(k):abiertos.add(k); pintar()
 const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}\u{1F1E6}-\u{1F1FF}\u{E0060}-\u{E007F}]/gu,"").replace(/\s*[—–-]\s*$/,"").replace(/\s+/g," ").trim();
 
 /* ---------------- HOY ---------------- */
-function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">${eqP(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
+function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">${eqP(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("") }
 function resultadoPost(p){ const okN = p.picks.filter(x=>x.estado==="verde").length;
   if(p.lista) return `<span class="chip">${okN}/${p.picks.length} ✅</span>`;
-  return p.estado==="verde"?`<span style="font-size:18px">✅</span>`:p.estado==="rojo"?`<span style="font-size:18px">❌</span>`:`<span class="mut">${okN}/${p.picks.length}</span>` }
+  return p.estado==="verde"?`<span style="font-size:22px">✅</span>`:p.estado==="rojo"?`<span style="font-size:22px">❌</span>`:`<span class="mut">${okN}/${p.picks.length}</span>` }
 function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las patas
   const k = "p:"+p.id, abierto = abiertos.has(k);
   const partido = /COMBI LOCAS/.test(p.titulo) && p.picks[0] && p.picks[0].partido ? p.picks[0].partido : "";
@@ -208,7 +208,7 @@ function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las pat
 }
 function filaPick(p){
   const k = "k:"+p.partido_id+"|"+p.texto, abierto = abiertos.has(k);
-  return `<div class="leg" onclick="toggle(${JSON.stringify(k).replace(/"/g,"&quot;")})" style="cursor:pointer"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}${p.a_favor&&p.a_favor.top?" ⭐":""}</span><span class="mut" style="padding-left:22px">${eqP(p.partido)} · ${p.fecha.slice(11)}</span>${abierto?`<span class="mut">${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}`:""}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`;
+  return `<div class="leg" onclick="toggle(${JSON.stringify(k).replace(/"/g,"&quot;")})" style="cursor:pointer"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}${p.a_favor&&p.a_favor.top?" ⭐":""}</span><span class="mut" style="padding-left:22px">${eqP(p.partido)} · ${p.fecha.slice(11)}</span>${abierto?`<span class="mut">${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}`:""}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?icono(p):""}</div>`;
 }
 function selectorDia(){ const ayer = ayerDe(D.hoy); return subTabs("hoydia", [[ayer,"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy) }
 function vHoy(){
@@ -270,7 +270,7 @@ function tarjetaPartido(p){
    <div class="match"><div class="team sp"><img src="${esc(p.logo_l)}" alt="" loading="lazy"><span>${esc(p.local)}</span></div><div class="score">${marcador}</div><div class="team sp" style="justify-content:flex-end"><span>${esc(p.visitante)}</span><img src="${esc(p.logo_v)}" alt="" loading="lazy"></div></div>
    ${vivo?`<div style="margin:8px 0">${avisoDatos(p.actualizado_iso,true)}</div>`:""}
    <div class="ficha" onclick="event.stopPropagation()">
-    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.pct_real??x.frecuencia}%</span>${x.estado!=="pendiente"?chipEstado(x.estado):""}</div>`).join("")}</div>`:""}
+    ${pk.length?`<div style="margin-bottom:8px">${pk.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span>${progresoPick(x)}</div><span class="cuota">${n2(x.cuota)}</span><span class="chip">${x.pct_real??x.frecuencia}%</span>${x.estado!=="pendiente"?icono(x):""}</div>`).join("")}</div>`:""}
     ${f?extrasFicha(p, f):""}
     ${f?`<div class="row" style="margin-bottom:6px"><span class="sp">${forma(f.local.forma)}</span><span class="mut">forma (último a la izq.)</span><span class="sp" style="text-align:right">${forma(f.visitante.forma)}</span></div>
     <table><tr><th>Media últimos ${f.local.partidos}</th><th>${esc(p.local)}</th><th>${esc(p.visitante)}</th></tr>
@@ -363,6 +363,11 @@ function avisoDatos(fecha, partido=false){
   const atrasado = minutos > 20;
   return `<span class="${atrasado?"chip warn":"mut"}">${atrasado?"⚠️ Datos atrasados · ":""}${partido?"Partido actualizado":"Panel actualizado"} hace ${minutos} min${atrasado?" · el marcador puede haber cambiado":""}</span>`;
 }
+function claveP(x){   // 28/10: el mismo pick escrito igual o de otra forma («Lazio o empate» / «Lazio — Gana o empata») cuenta una vez
+  let s=(x.texto||"").trim().toLowerCase().replace(" — gana o empata"," o empate");
+  if(s.endsWith(" — gana")) s="gana el "+s.slice(0,-7);
+  return x.partido_id+"|"+s;
+}
 function icono(p){
   if(p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)) return `<span style="font-size:22px">✅</span>`;
   if(p.estado==="rojo") return `<span style="font-size:22px">❌</span>`;
@@ -391,16 +396,16 @@ function vDirecto(modo="directo"){   // 28/10: compacto: marcador, minuto y nues
   const pub = (D.publicados_hoy||[]).filter(p => !esRepostVerde(p) && (finalizados ? enJuego(p) : p.fecha.slice(0,10)===D.hoy || enJuego(p)))
     .sort((a,b)=>(enJuego(b)-enJuego(a)) || a.fecha.localeCompare(b.fecha));
   const cb = pub.filter(p=>!p.lista), cv = cb.filter(p=>p.estado==="verde").length, cr = cb.filter(p=>p.estado==="rojo").length;
-  const sel = new Map(); pub.forEach(p=>p.picks.forEach(x=>!x.exacto&&sel.set(x.partido_id+"|"+x.texto, x.estado)));
+  const sel = new Map(); pub.forEach(p=>p.picks.forEach(x=>!x.exacto&&sel.set(claveP(x), x.estado)));
   const sv=[...sel.values()].filter(e=>e==="verde").length, sr=[...sel.values()].filter(e=>e==="rojo").length;
   let h = "";
   if(pub.length) h += `<div class="grid3"><div class="stat kpi"><b style="color:var(--ok)">${cv}</b><span>combis ✅</span></div><div class="stat kpi"><b style="color:var(--ko)">${cr}</b><span>combis ❌</span></div><div class="stat kpi"><b>${sv}<span class="mut" style="font:400 16px var(--t)">/${sv+sr}</span></b><span>picks ✅</span></div></div>`;
   h += `<h2>${finalizados?"Partidos terminados":"En directo"}</h2>`;
   if(!partidos.length) h += `<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
   partidos.forEach(m=>{
-    const nuestras = pub.flatMap(c=>c.picks.filter(x=>x.partido_id===m.id).map(x=>({...x, combi:c.titulo, cid:c.id})));
-    const selecciones = pk.filter(p=>p.partido_id===m.id && !nuestras.some(x=>x.texto===p.texto));
-    const filas = [...nuestras.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${esc(nombreCorto({id:x.cid,titulo:x.combi}))}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`),
+    const nuestras = [...pub.flatMap(c=>c.picks.filter(x=>x.partido_id===m.id).map(x=>({...x, combi:c.titulo, cid:c.id}))).reduce((g,x)=>{const k=claveP(x), y=g.get(k); if(!y) g.set(k,{...x,donde:[nombreCorto({id:x.cid,titulo:x.combi})]}); else{const n=nombreCorto({id:x.cid,titulo:x.combi}); if(!y.donde.includes(n)) y.donde.push(n); if(!y.cuota&&x.cuota) y.cuota=x.cuota; if(!y.progreso&&x.progreso) y.progreso=x.progreso;} return g;}, new Map()).values()];
+    const selecciones = pk.filter(p=>p.partido_id===m.id && !nuestras.some(x=>claveP(x)===claveP(p)));
+    const filas = [...nuestras.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${esc(x.donde.join(" · "))}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`),
                    ...selecciones.map(p=>`<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">Pick del bot</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`)];
     const extra = filas.length ? `<div class="det" onclick="event.stopPropagation()">${filas.join("")}</div>` : "";
     h += tarjetaPartido(m).replace('<div class="ficha"', extra + '<div class="ficha"');
