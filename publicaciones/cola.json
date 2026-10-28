@@ -1606,6 +1606,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-28T23:16",
+    "mensaje_id": 162,
+    "redes": {
+      "threads": "18096664538444889"
+    }
   }
 ]
