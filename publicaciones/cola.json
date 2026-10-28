@@ -1476,5 +1476,36 @@
     "redes": {
       "threads": "18150914758547847"
     }
+  },
+  {
+    "id": "2026-10-28-boleto-aumento-milan",
+    "fecha": "2026-10-28T16:18",
+    "texto": "🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n\n⚽ AC MILAN vs BOLOGNA · 18:30\n✅ Gana el Milan\n✅ El Milan saca más córners\n\n👉 Cópiala aquí: https://www.bet365.es/s/r/gn5nz\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto_threads": "🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n\n⚽ AC MILAN vs BOLOGNA · 18:30\n✅ Gana el Milan\n✅ El Milan saca más córners\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": "publicaciones/fotos/2026-10-28-boleto-aumento-milan.jpg",
+    "origen": "bot",
+    "directo": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1550167|Match Winner|Home",
+      "1550167|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.73,
+      null
+    ],
+    "cuota_bet365": 4.0,
+    "aumento": true,
+    "boleto": true,
+    "textos": [
+      "Gana el AC Milan",
+      "AC Milan saca más córners"
+    ],
+    "partidos": [
+      "AC Milan – Bologna",
+      "AC Milan – Bologna"
+    ],
+    "nota": "28/10 16:17: superaumento de bet365 (2,55 → 4,00), aprobado por Marcos"
   }
 ]

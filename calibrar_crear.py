@@ -49,8 +49,8 @@ def nuevas(medidas):
     ids_c = {p["id"] for p in cola}
     salida = []
     for p in cola + [p for p in auto if p["id"] not in ids_c]:
-        if not p.get("sel") or not p.get("cuotas") or len(p["sel"]) != len(p["cuotas"]):
-            continue
+        if not p.get("sel") or not p.get("cuotas") or len(p["sel"]) != len(p["cuotas"]) or p.get("aumento"):
+            continue   # 28/10: un superaumento no es la cuota normal de bet365: no se aprende de él
         real, fuente = None, None
         if p.get("cuota_bet365"):
             real, fuente = float(p["cuota_bet365"]), "cuota comprobada"
