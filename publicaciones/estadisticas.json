@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 13:26",
+ "actualizado": "2026-10-28 13:36",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 1117,
-   "hoy": 134,
+   "seguidores": 1120,
+   "hoy": 137,
    "serie": [
     836,
     930,
     938,
     983,
-    1117
+    1120
    ]
   },
   "facebook": {
@@ -34,25 +34,25 @@
    ]
   },
   "telegram": {
-   "seguidores": 101,
-   "hoy": 21,
+   "seguidores": 102,
+   "hoy": 22,
    "serie": [
     75,
     72,
     71,
     69,
     80,
-    101
+    102
    ]
   }
  },
- "total": 1237,
- "total_hoy": 155,
+ "total": 1241,
+ "total_hoy": 159,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "16:00",
   "dia": "2026-10-28",
-  "titulo": "Combilocas  combi del miércoles "
+  "titulo": "Combilocas  la loca del miércole"
  },
  "ayer": {
   "aciertos": 9,
@@ -94,19 +94,19 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 1117,
+   "threads": 1120,
    "facebook": 0,
-   "telegram": 101
+   "telegram": 102
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 4,
+  "Combi loca (reel)": {
+   "posts": 19,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 18,
+  "Escalera (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -121,7 +121,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
