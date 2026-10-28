@@ -1,5 +1,5 @@
 """
-GIF en el canal de Telegram (28/10, Marcos).
+GIF en el canal de Telegram (28/10, Marcos). Todo de fútbol (futbolistas, entrenadores, aficiones, memes), y verde si se puede.
 
 Solo salen GIF que Marcos ha aprobado: con /gifs en el bot del móvil le llegan candidatos de GIPHY con
 👍 / 👎 y los 👍 se guardan por momento en datos/gifs_votos.json (con el file_id de Telegram, que no caduca).
@@ -34,41 +34,35 @@ GRANDES = {"Real Madrid", "Barcelona", "Atletico Madrid", "Manchester City", "Li
 HITOS = (2000, 3000, 5000, 7500, 10000, 15000, 20000, 30000, 50000, 100000)
 
 MOMENTOS = {   # clave: (nombre en el bot, búsquedas en GIPHY, textos)
-    "verde": ("💚 Verde", ["celebration", "lets go", "winner", "victory dance", "yes yes yes", "happy dance",
-              "we did it", "fist pump", "jumping celebration", "cheering crowd"],
+    "verde": ("💚 Verde", ["soccer celebration", "football goal celebration", "soccer player celebration", "goal celebration", "ronaldo siuu", "messi celebration", "football fans celebrating", "green soccer celebration", "green football", "soccer win", "football team celebrating", "football coach celebration"],
               ["💚💚💚", "¡VERDEEEE! 💚", "Así se celebra en COMBILOCAS 💚🍀", "¡A COBRAR! 💚💶", "Otra más pa' la saca 💚"]),
-    "racha": ("🔥 Racha (3 verdes seguidos)", ["on fire", "unstoppable", "cant stop", "streak", "heating up", "legendary"],
+    "racha": ("🔥 Racha (3 verdes seguidos)", ["soccer on fire", "football unstoppable", "hat trick celebration", "soccer legend", "football genius", "soccer goat"],
               ["¡IMPARABLES! 🔥🔥🔥", "3 de 3… esto está on fire 🔥💚", "No hay quien nos pare 🔥"]),
-    "loca": ("🤪 La loca", ["crazy", "going crazy", "mind blown", "insane", "wild", "explosion", "chaos",
-             "crazy dance", "madness", "all in"],
+    "loca": ("🤪 La loca", ["crazy soccer", "football crazy", "soccer madness", "crazy goal", "football fans crazy", "crazy football celebration", "soccer chaos", "football mind blown", "crazy coach", "bicycle kick"],
              ["La loca de hoy viene así 🤪", "¿Quién se atreve? 🤪🔥", "Modo loco activado 🤪", "Hoy toca soñar 🤪💸"]),
-    "boleto": ("🎟️ Boletos", ["money", "jackpot", "dream big", "make it rain", "lottery", "cash", "pray",
-               "fingers crossed", "millionaire"],
+    "boleto": ("🎟️ Boletos", ["football money", "soccer money", "football pray", "soccer fans pray", "football fingers crossed", "soccer jackpot", "football nervous fan"],
                ["Hoy soñamos a lo grande 💸🍀", "Que sea lo que tenga que ser 🙏🍀", "Dedos cruzados 🤞💚"]),
-    "escalera": ("🪜 Escalera", ["stairs", "step by step", "climbing", "level up", "one step at a time", "going up",
-                 "next level", "climb"], ["Escalón a escalón 🪜", "Un peldaño más 🪜💪", "Subiendo… 🪜🔥"]),
-    "escalera_alta": ("⛰️ Escalera días 5–7", ["almost there", "so close", "final boss", "summit", "nervous",
-                      "the final step", "tension", "edge of seat"],
+    "escalera": ("🪜 Escalera", ["football training", "soccer training stairs", "football keep going", "soccer step by step", "football level up", "soccer warm up"], ["Escalón a escalón 🪜", "Un peldaño más 🪜💪", "Subiendo… 🪜🔥"]),
+    "escalera_alta": ("⛰️ Escalera días 5–7", ["football tension", "soccer nervous", "penalty shootout tension", "football almost", "soccer so close", "football coach nervous"],
                       ["A un paso de la cima ⛰️🪜", "Esto ya quema… 🪜🔥", "Los últimos escalones 😮‍💨🪜"]),
-    "combi": ("🔥 Combi del día", ["fire", "on fire", "lets go", "hype", "game on", "boom", "lets do this", "bring it on"],
+    "combi": ("🔥 Combi del día", ["football lets go", "soccer lets go", "football hype", "soccer fire", "football ready", "soccer kick off", "football warm up"],
               ["Hoy toca 🔥", "Vamos con todo 🔥⚽", "Esta pinta bien 👀🔥"]),
-    "fiesta": ("🎉 Balance en positivo", ["party", "celebration party", "dance party", "confetti", "champagne", "fiesta"],
+    "fiesta": ("🎉 Balance en positivo", ["football party", "soccer party", "football dressing room celebration", "soccer champagne", "football trophy celebration", "soccer team dancing"],
                ["Día en verde 🎉💚", "¡Así cerramos el día! 🎉", "Hoy se celebra 🍾💚"]),
-    "noche": ("🌙 Buenas noches", ["good night", "see you tomorrow", "sleep", "bedtime", "night night", "goodnight wink"],
+    "noche": ("🌙 Buenas noches", ["football good night", "soccer sleep", "football tired", "soccer goodnight", "football see you tomorrow"],
               ["Mañana más 🌙🍀", "A descansar, que mañana hay más 🌙⚽", "Buenas noches, combilocos 🌙💚"]),
-    "previa": ("⚽ Previa de la noche", ["nervous", "game time", "popcorn", "waiting", "excited", "nail biting",
-               "lets go football", "stadium crowd"],
+    "previa": ("⚽ Previa de la noche", ["football nervous", "soccer fans waiting", "football kick off", "soccer stadium", "football fans nervous", "soccer tunnel walk out", "football anthem"],
                ["Empieza lo bueno ⚽🔥", "Nervios… ¿cómo vais? ⚽👀", "Hora de partido ⚽🍀", "Palomitas listas 🍿⚽"]),
-    "partidazo": ("🏟️ Partidazo", ["big game", "epic", "showtime", "its time", "here we go", "stadium", "game night"],
+    "partidazo": ("🏟️ Partidazo", ["champions league anthem", "el clasico", "soccer derby", "football big match", "champions league", "soccer stadium night", "football rivalry"],
                   ["Hoy hay PARTIDAZO 🏟️🔥", "Noche grande ⭐⚽", "De estos no hay todos los días 🏟️👀"]),
-    "lunes": ("☀️ Lunes", ["monday", "monday motivation", "monday coffee", "monday mood", "new week"], ["☀️ Lunes de combis 🍀"]),
-    "viernes": ("☀️ Viernes", ["friday", "its friday", "friday dance", "tgif", "weekend vibes"],
+    "lunes": ("☀️ Lunes", ["football monday", "soccer monday", "football tired", "soccer coffee"], ["☀️ Lunes de combis 🍀"]),
+    "viernes": ("☀️ Viernes", ["football friday", "soccer weekend", "football weekend", "soccer dance"],
                 ["☀️ ¡Viernes! Se viene finde de fútbol ⚽🔥"]),
-    "europa": ("⭐ Noche europea", ["champions league", "big night", "game night", "under the lights"],
+    "europa": ("⭐ Noche europea", ["champions league", "europa league", "champions league night", "soccer anthem"],
                ["☀️ Hoy hay noche europea ⭐⚽"]),
-    "finde": ("🍻 Empieza el finde", ["weekend", "lets go weekend", "cheers", "beer cheers", "weekend mode"],
+    "finde": ("🍻 Empieza el finde", ["football weekend", "soccer fans cheers", "football beer fans", "soccer weekend vibes", "football fans singing"],
               ["Empieza el finde de fútbol 🍻⚽", "Mañana hay fútbol del bueno 🍻🔥"]),
-    "seguidores": ("👥 Hitos de seguidores", ["thank you", "celebration", "we did it", "milestone", "party"],
+    "seguidores": ("👥 Hitos de seguidores", ["football thank you", "soccer fans thank you", "football celebration fans", "soccer crowd cheering"],
                    ["¡Gracias a todos! 💚"]),
 }
 
