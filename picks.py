@@ -560,6 +560,15 @@ def mercado_fiable(mercado, opciones, h_loc, h_vis):
 
 def texto_pick(mercado, opcion, local, visit):
     o = str(opcion)
+    if mercado in JUG_MERCADOS and " - " in o and JUG_MERCADOS[mercado][0] not in ("goles", "gol_o_asist", "amarillas"):
+        # 28/10: «Away Player Shots Nicolo Barella - 1» → «Nicolo Barella: 1+ tiros»
+        j, linea = o.rsplit(" - ", 1)
+        try:
+            return JUG_MERCADOS[mercado][1].format(j=j, n=int(float(linea)))
+        except ValueError:
+            pass
+    if mercado in JUG_MERCADOS and " - " not in o:
+        return JUG_MERCADOS[mercado][1].format(j=o, n=1)
     partido = f"{local}–{visit}"
     n = mm = None
     if o.startswith(("Over ", "Under ")):
