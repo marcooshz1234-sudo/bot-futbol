@@ -354,7 +354,7 @@
   {
     "id": "2026-10-28-combi-partido-1550171",
     "fecha": "2026-10-28T18:55",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.73]\n✅ GENOA O EMPATE [x2.00]\n\n🔥 Resultado probable: 1-1 | 0-0 | 1-0\n💥 Cuota total aprox.: 8,03\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs JUVENTUS 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.50]\n✅ GENOA VE MÁS DE 1,5 TARJETAS [x1.73]\n✅ GENOA O EMPATE [x2.00]\n\n🔥 Resultado probable: 1-1 | 0-0 | 1-0\n💥 Cuota total aprox.: 8,36\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -366,7 +366,7 @@
     ],
     "cuotas": [
       1.33,
-      1.44,
+      1.5,
       1.73,
       2.0
     ],
@@ -380,12 +380,12 @@
       "fecha": "2026-10-28T20:45",
       "liga": "Serie A"
     },
-    "cuotas_revisadas": "2026-10-28T17:25"
+    "cuotas_revisadas": "2026-10-28T18:30"
   },
   {
     "id": "2026-10-28-combi-partido-1550172",
     "fecha": "2026-10-28T19:25",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 MONZA vs NAPOLI 🇮🇹\n\n🎯 MONZA MARCA [x1.44]\n✅ NAPOLI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ GUSTAVO VARELA: 1+ TIROS A PUERTA [x1.57]\n✅ GANA EL NAPOLI [x1.75]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,87\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 MONZA vs NAPOLI 🇮🇹\n\n🎯 MONZA MARCA [x1.40]\n✅ NAPOLI VE MÁS DE 1,5 TARJETAS [x1.57]\n✅ GUSTAVO VARELA: 1+ TIROS A PUERTA [x1.57]\n✅ GANA EL NAPOLI [x1.75]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,65\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -396,7 +396,7 @@
       "1550172|Match Winner|Away"
     ],
     "cuotas": [
-      1.44,
+      1.4,
       1.57,
       1.57,
       1.75
@@ -411,12 +411,12 @@
       "fecha": "2026-10-28T20:45",
       "liga": "Serie A"
     },
-    "cuotas_revisadas": "2026-10-28T17:59"
+    "cuotas_revisadas": "2026-10-28T18:30"
   },
   {
     "id": "2026-10-28-combi-partido-1640388",
     "fecha": "2026-10-28T20:00",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs CHELSEA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 RYAN GRAVENBERCH COMETE 1+ FALTAS [x1.25]\n✅ AMBOS MARCAN [x1.44]\n✅ GANA EL LIVERPOOL [x2.10]\n✅ CHELSEA HACE MÁS DE 1,5 FUERAS DE JUEGO [x1.91]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,91\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs CHELSEA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 RYAN GRAVENBERCH COMETE 1+ FALTAS [x1.25]\n✅ AMBOS MARCAN [x1.44]\n✅ GANA EL LIVERPOOL [x2.25]\n✅ CHELSEA HACE MÁS DE 1,5 FUERAS DE JUEGO [x1.91]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,61\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -429,7 +429,7 @@
     "cuotas": [
       1.25,
       1.44,
-      2.1,
+      2.25,
       1.91
     ],
     "tarjeta": {
@@ -441,7 +441,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/49.png",
       "fecha": "2026-10-28T21:00",
       "liga": "Carabao Cup"
-    }
+    },
+    "cuotas_revisadas": "2026-10-28T18:30"
   },
   {
     "id": "2026-10-29-combi-partido-1550170",
