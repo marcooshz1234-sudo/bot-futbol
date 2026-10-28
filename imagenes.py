@@ -264,20 +264,49 @@ def generar(p, pagina):
     return img, mp4
 
 
+def huella(p):
+    import hashlib
+    return hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
+
+
+def pendientes_de(cola, ahora, control=None, estado=None):
+    """Posts cuya imagen falta o no cuadra con su texto. 28/10: con el texto EDITADO desde el bot del móvil
+    (control.json) y también los que ya tocaba publicar hace menos de 45 min y aún no han salido en Instagram
+    (si se editó justo antes, la imagen vieja no valía y Instagram fallaba)."""
+    from datetime import timedelta
+    raiz = MEDIA.parent.parent
+    if control is None:
+        f = raiz / "publicaciones" / "control.json"
+        control = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+    if estado is None:
+        f = raiz / "publicaciones" / "enviados_redes.json"
+        estado = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+    textos = control.get("textos", {})
+    ya = ahora.strftime("%Y-%m-%dT%H:%M")
+    hace45 = (ahora - timedelta(minutes=45)).strftime("%Y-%m-%dT%H:%M")
+    salida = []
+    for p in cola:
+        if p.get("caducada") or p.get("solo_en") or p.get("sin_instagram"):
+            continue
+        p = dict(p, texto=textos.get(p["id"], p["texto"]))
+        redes = dict(estado.get(p["id"], {}).get("redes") or {}, **(p.get("redes") or {}))
+        if not (p["fecha"] > ya or (p["fecha"] >= hace45 and not redes.get("instagram"))):
+            continue
+        hecha = all((MEDIA / f"{p['id']}.{e}").exists() for e in ("mp4", "story.jpg", "huella"))
+        if hecha and (MEDIA / f"{p['id']}.huella").read_text().strip() == huella(p):
+            continue
+        salida.append(p)
+    return salida
+
+
 def main():
     cola = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
     ids = set(sys.argv[2:]) - {"--pendientes"}
     pendientes = "--pendientes" in sys.argv   # solo los que aún no han salido y cuyo texto ha cambiado
     if pendientes:
-        import hashlib
         from datetime import datetime
         from zoneinfo import ZoneInfo
-        ahora = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%Y-%m-%dT%H:%M")
-        huella = lambda p: hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
-        cola = [p for p in cola if p["fecha"] > ahora and not p.get("caducada") and not p.get("solo_en") and not (
-            (MEDIA / f"{p['id']}.mp4").exists() and (MEDIA / f"{p['id']}.huella").exists()
-            and (MEDIA / f"{p['id']}.story.jpg").exists()
-            and (MEDIA / f"{p['id']}.huella").read_text() == huella(p))]
+        cola = pendientes_de(cola, datetime.now(ZoneInfo("Europe/Madrid")))
     if not cola:
         print("Imágenes: nada que generar")
         return
