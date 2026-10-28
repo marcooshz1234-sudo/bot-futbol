@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 00:50",
+ "actualizado": "2026-10-28 01:01",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 984,
-   "hoy": 1,
+   "seguidores": 986,
+   "hoy": 3,
    "serie": [
     836,
     930,
     938,
     983,
-    984
+    986
    ]
   },
   "facebook": {
@@ -46,13 +46,13 @@
    ]
   }
  },
- "total": 1083,
- "total_hoy": 1,
+ "total": 1085,
+ "total_hoy": 3,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:00",
+  "hora": "01:30",
   "dia": "2026-10-28",
-  "titulo": "Quién gana hoy · combilocas"
+  "titulo": "Combi locas  carabao cup"
  },
  "ayer": null,
  "escalera": {
@@ -91,14 +91,14 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 984,
+   "threads": 986,
    "facebook": 0,
    "telegram": 80
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 15,
+   "posts": 16,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -118,7 +118,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 7,
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
