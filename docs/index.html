@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Combilocas</title>
-<meta name="theme-color" content="#0e3a1e">
+<meta name="theme-color" content="#f2f5f3" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0d1310" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Combilocas">
@@ -14,68 +14,83 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Condensed:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
-:root{--f:"Roboto Condensed",-apple-system,system-ui,sans-serif;--t:Anton,Impact,"Arial Narrow",sans-serif;--card:rgba(255,255,255,.96);--card2:#eef4ef;--line:#e3ebe5;--txt:#0f2e1a;--sub:#3d5c47;--mut:#6b8573;--ok:#0f7a35;--ko:#d62828;--warn:#ffd400;--live:#e8590c}
+:root{--f:"Roboto Condensed",-apple-system,system-ui,sans-serif;--t:Anton,Impact,"Arial Narrow",sans-serif;
+--bg:#f2f5f3;--card:#fff;--card2:#eef3f0;--line:#e5ebe7;--txt:#13221a;--sub:#46594e;--mut:#7c8b83;
+--ok:#12924a;--ko:#e03131;--warn:#f5c400;--live:#f76707;--acc:#12924a;--sombra:0 1px 2px rgba(16,40,26,.06)}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1310;--card:#161e1a;--card2:#1f2924;--line:#25312b;--txt:#e9f0eb;--sub:#b6c4bc;--mut:#84948b;--ok:#2fbf6b;--ko:#ff6b6b;--sombra:none}}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-html{background:#1b6e34}
-body{margin:0;color:var(--txt);font:16px/1.4 var(--f);background:repeating-linear-gradient(90deg,#1f7a3a 0 34px,#1b6e34 34px 68px) fixed;min-height:100vh;padding:env(safe-area-inset-top) 0 calc(74px + env(safe-area-inset-bottom))}
-header{position:sticky;top:0;z-index:5;background:rgba(14,58,30,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding:12px 16px 10px;border-bottom:3px solid var(--warn)}
-.marca-logo{width:46px;height:46px;object-fit:contain;border-radius:50%;flex-shrink:0}
-header h1{margin:0;font:400 26px/1 var(--t);letter-spacing:1.5px;color:#fff}
-header small{color:#cfe8d6;font-size:12px}
-main{padding:12px 14px;max-width:760px;margin:0 auto}
-h2{font:400 18px/1.2 var(--t);letter-spacing:1px;text-transform:uppercase;color:#fff;margin:22px 4px 8px;text-shadow:0 1px 2px rgba(0,0,0,.25)}
-main>.mut,main>.empty{color:#eaf6ee!important;text-shadow:0 1px 2px rgba(0,0,0,.3)}
-.card{background:var(--card);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
-.row{display:flex;align-items:center;gap:8px}.sp{flex:1}.col{display:flex;flex-direction:column}
-.chip{font-size:11px;padding:2px 8px;border-radius:20px;background:var(--card2);color:var(--sub);white-space:nowrap;font-weight:700;text-transform:uppercase;letter-spacing:.3px}
-.verde{background:#d9f2e1;color:var(--ok)}.rojo{background:#fde2e2;color:var(--ko)}
-.va_bien{background:#e6f6ea;color:var(--ok)}.va_mal{background:#ffe8d6;color:var(--live)}
-.live{background:var(--warn);color:var(--txt)}.warn{background:var(--warn);color:var(--txt)}
-.leg{display:flex;align-items:center;gap:8px;padding:8px 0;border-top:1px solid var(--line);font-size:15px}
+html{background:var(--bg)}
+body{margin:0;color:var(--txt);font:16px/1.4 var(--f);background:var(--bg);min-height:100vh;padding:env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom))}
+header{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:10px 16px 8px;border-bottom:1px solid var(--line)}
+.marca-logo{width:34px;height:34px;object-fit:contain;border-radius:50%;flex-shrink:0}
+header h1{margin:0;font:400 21px/1 var(--t);letter-spacing:1.2px;color:var(--txt)}
+header small{color:var(--mut);font-size:12px}
+main{padding:10px 14px;max-width:720px;margin:0 auto}
+h2{font:700 12px/1.2 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin:22px 4px 8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:8px;box-shadow:var(--sombra)}
+.row{display:flex;align-items:center;gap:8px}.sp{flex:1;min-width:0}.col{display:flex;flex-direction:column;min-width:0}
+.chip{font-size:11px;padding:2px 8px;border-radius:20px;background:var(--card2);color:var(--sub);white-space:nowrap;font-weight:700;letter-spacing:.2px}
+.verde{background:color-mix(in srgb,var(--ok) 16%,transparent);color:var(--ok)}.rojo{background:color-mix(in srgb,var(--ko) 15%,transparent);color:var(--ko)}
+.va_bien{background:color-mix(in srgb,var(--ok) 12%,transparent);color:var(--ok)}.va_mal{background:color-mix(in srgb,var(--live) 15%,transparent);color:var(--live)}
+.live{background:var(--live);color:#fff}.warn{background:var(--warn);color:#13221a}
+.leg{display:flex;align-items:center;gap:8px;padding:9px 0;border-top:1px solid var(--line);font-size:15px}
 .leg:first-of-type{border-top:0}
-.cuota{font:400 19px/1 var(--t);color:var(--ok);letter-spacing:.5px}
-.big{font:400 30px/1.1 var(--t);letter-spacing:.5px}
+.cuota{font:700 17px/1 var(--f);color:var(--txt);font-variant-numeric:tabular-nums}
+.big{font:400 28px/1.1 var(--t);letter-spacing:.5px}
 .mut{color:var(--mut);font-size:13px}.sub{color:var(--sub);font-size:14px}
-.tabs{display:flex;gap:6px;overflow-x:auto;margin:4px 0 10px;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}
-.tabs button{border:0;background:rgba(255,255,255,.88);color:var(--txt);border-radius:20px;padding:7px 14px;font:700 14px var(--f);white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,.12)}
-.tabs button.on{background:var(--warn);color:var(--txt)}
-nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:rgba(255,255,255,.97);border-top:3px solid var(--warn);padding:6px 4px calc(6px + env(safe-area-inset-bottom));z-index:9}
-nav button{flex:1;background:none;border:0;color:var(--mut);font:700 11px var(--f);display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;text-transform:uppercase}
-nav button span{font-size:21px;line-height:1.1}nav button.on{color:var(--ok)}
-.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.stat{background:var(--card);border-radius:12px;padding:10px 12px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
-.stat b{display:block;font:400 28px/1.15 var(--t);letter-spacing:.5px}
-input,select{width:100%;background:#fff;border:2px solid transparent;color:var(--txt);border-radius:10px;padding:10px 12px;font:16px var(--f);box-shadow:0 1px 3px rgba(0,0,0,.12)}
-input:focus{outline:0;border-color:var(--warn)}
+.tabs{display:flex;gap:4px;overflow-x:auto;margin:2px 0 12px;padding:3px;background:var(--card2);border-radius:12px;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}
+.tabs button{flex:1;border:0;background:none;color:var(--sub);border-radius:9px;padding:7px 12px;font:700 14px var(--f);white-space:nowrap}
+.tabs button.on{background:var(--card);color:var(--txt);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--card);border-top:1px solid var(--line);padding:6px 4px calc(6px + env(safe-area-inset-bottom));z-index:9}
+nav button{flex:1;background:none;border:0;color:var(--mut);font:700 11px var(--f);display:flex;flex-direction:column;align-items:center;gap:1px;padding:4px 0}
+nav button span{font-size:20px;line-height:1.15;filter:grayscale(1);opacity:.7}nav button.on{color:var(--acc)}nav button.on span{filter:none;opacity:1}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:8px}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:4px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 12px;box-shadow:var(--sombra)}
+.stat b{display:block;font:400 26px/1.15 var(--t);letter-spacing:.5px}
+input,select{width:100%;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:12px;padding:10px 12px;font:16px var(--f)}
+input:focus,select:focus{outline:0;border-color:var(--acc)}
 .match{display:flex;align-items:center;gap:8px}
 .match img{width:22px;height:22px;object-fit:contain}
 .team{display:flex;align-items:center;gap:6px;min-width:0;font-weight:700}.team span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .score{font:400 22px/1 var(--t);min-width:54px;text-align:center;letter-spacing:.5px}
-.ficha{margin-top:10px;border-top:2px solid var(--line);padding-top:10px;display:none}.open .ficha{display:block}
-.ficha h2{color:var(--txt);text-shadow:none;font-size:15px}
+.ficha{margin-top:10px;border-top:1px solid var(--line);padding-top:10px;display:none}.open .ficha{display:block}
+.ficha h2{margin-left:0}
 table{width:100%;border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
 td,th{padding:5px 4px;text-align:right}td:first-child,th:first-child{text-align:left}th{color:var(--mut);font-weight:700;font-size:11px;text-transform:uppercase}
 tr+tr td{border-top:1px solid var(--line)}
 .forma{white-space:nowrap}.forma i{display:inline-block;width:17px;height:17px;border-radius:4px;font:700 10px/17px var(--f);text-align:center;margin-right:2px;font-style:normal}
-.fG{background:#1f9d4c;color:#fff}.fE{background:#a8b8ad;color:#0f2e1a}.fP{background:var(--ko);color:#fff}
-.bar{height:9px;border-radius:5px;background:var(--card2);overflow:hidden}.bar>div{height:100%;background:var(--ok);border-radius:5px}
-.btn{border:0;background:var(--warn);color:var(--txt);font:700 14px var(--f);border-radius:10px;padding:8px 14px;text-transform:uppercase}
-.btn2{border:0;background:var(--card2);color:var(--txt);font:700 13px var(--f);border-radius:10px;padding:7px 12px;text-decoration:none;display:inline-block}
-header .btn2{background:rgba(255,255,255,.15);color:#fff}
-pre{white-space:pre-wrap;font:15px/1.45 var(--f);margin:8px 0;color:var(--txt);background:var(--card2);padding:10px;border-radius:8px}
-.steps{display:flex;gap:4px;margin:8px 0}.steps div{flex:1;height:10px;border-radius:3px;background:var(--card2)}
-.empty{color:#eaf6ee;text-align:center;padding:18px;font-size:15px}
-.card .empty{color:var(--mut);text-shadow:none}
-.toast{position:fixed;left:50%;bottom:96px;transform:translateX(-50%);background:var(--warn);color:var(--txt);font-weight:700;padding:8px 16px;border-radius:20px;opacity:0;transition:.25s;z-index:20}
+.fG{background:var(--ok);color:#fff}.fE{background:#a8b8ad;color:#13221a}.fP{background:var(--ko);color:#fff}
+.bar{height:7px;border-radius:5px;background:var(--card2);overflow:hidden}.bar>div{height:100%;background:var(--ok);border-radius:5px}
+.btn{border:0;background:var(--acc);color:#fff;font:700 14px var(--f);border-radius:10px;padding:9px 14px}
+.btn2{border:0;background:var(--card2);color:var(--txt);font:700 13px var(--f);border-radius:10px;padding:8px 12px;text-decoration:none;display:inline-block}
+header .btn2{background:var(--card2);color:var(--txt);padding:6px 10px}
+pre{white-space:pre-wrap;font:15px/1.45 var(--f);margin:8px 0;color:var(--txt);background:var(--card2);padding:10px;border-radius:10px}
+.steps{display:flex;gap:4px;margin:8px 0}.steps div{flex:1;height:7px;border-radius:4px;background:var(--card2)}
+.empty{color:var(--mut);text-align:center;padding:22px 10px;font-size:15px}
+.toast{position:fixed;left:50%;bottom:96px;transform:translateX(-50%);background:var(--txt);color:var(--bg);font-weight:700;padding:8px 16px;border-radius:20px;opacity:0;transition:.25s;z-index:20}
 .toast.on{opacity:1}
 svg text{fill:var(--mut);font:11px var(--f)}
 details summary{cursor:pointer}
+/* 28/10: diseño limpio, filas compactas que se abren al tocarlas */
+.fila{display:flex;align-items:center;gap:10px;cursor:pointer}
+.hora{font:700 13px var(--f);color:var(--mut);width:40px;flex-shrink:0;font-variant-numeric:tabular-nums}
+.tit{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lista .card{padding:10px 12px}
+.det{margin-top:8px;padding-top:4px;border-top:1px solid var(--line)}
+.ok-l{border-left:4px solid var(--ok)}.ko-l{border-left:4px solid var(--ko)}
+.sec{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:8px;box-shadow:var(--sombra)}
+.sec>summary{list-style:none;padding:12px 14px;font-weight:700;display:flex;align-items:center;gap:8px}
+.sec>summary::-webkit-details-marker{display:none}.sec>summary::after{content:"›";margin-left:auto;color:var(--mut);font-size:20px;transition:.2s}
+.sec[open]>summary::after{transform:rotate(90deg)}.sec>div{padding:0 14px 12px}
+.kpi{text-align:center}.kpi b{font:400 24px/1.1 var(--t)}.kpi span{font-size:12px;color:var(--mut)}
+.punto{width:9px;height:9px;border-radius:50%;display:inline-block}
+.mas{margin:-4px 0 12px}
 </style>
 </head>
 <body>
-<header><div class="row"><img class="marca-logo" src="logo.png?v=cl2" alt="Logo Combilocas"><h1>COMBILOCAS</h1><span class="sp"></span><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div><small id="act">Cargando…</small></header>
+<header><div class="row"><img class="marca-logo" src="logo.png?v=cl2" alt="Logo Combilocas"><div class="col sp"><h1>COMBILOCAS</h1><small id="act">Cargando…</small></div><button class="btn2" id="estadoBot" aria-label="Estado del bot" onclick="ir('bot')">🤖</button><button class="btn2" id="recargar" aria-label="Actualizar">↻</button></div></header>
 <main id="vista"></main>
-<div style="text-align:center;color:rgba(255,255,255,.75);font:600 12px var(--f);margin:6px 16px 96px">🔞 +18 · Juega con responsabilidad · Son datos e información, no consejos de apuesta</div>
+<div style="text-align:center;color:var(--mut);font:500 12px var(--f);margin:6px 16px 96px">Son datos e información, no consejos de apuesta</div>
 <nav id="nav"></nav>
 <div class="toast" id="toast"></div>
 <script>
@@ -91,7 +106,7 @@ const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under Firs
   "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
   "Results/Both Teams Score":"Resultado y ambos marcan"};
 const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
-const PESTANAS = [["hoy","⚽","Hoy"],["partidos","📅","Partidos"],["contenido","✍️","Contenido"],["stats","📈","Stats"],["bot","🤖","Bot"]]
+const PESTANAS = [["hoy","⚽","Hoy"],["picks","🎯","Picks"],["partidos","📅","Partidos"],["contenido","✍️","Posts"],["stats","📈","Stats"]]
   .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
@@ -118,45 +133,74 @@ async function cargar(){
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; $("#vista").innerHTML = `<div style="margin-bottom:12px">${avisoDatos(D.generado_iso)}</div>` + ({hoy:vHoy,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab](); }
+function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
+  const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
+function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
+  b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
+function titPost(p){   // 28/10: en las combis de un partido, el partido delante («PARMA vs UDINESE»)
+  const ls = String(p.texto||"").split("\n"), t0 = sinEmoji(p.titulo||ls[0]);
+  return /COMBI LOCAS/.test(t0) && ls[1] ? `${esc(sinEmoji(ls[1]))} <span class="mut" style="font-weight:400">· ${esc(t0.replace(/^COMBI LOCAS \| /,""))}</span>` : esc(t0) }
+function toggle(k){ abiertos.has(k)?abiertos.delete(k):abiertos.add(k); pintar() }
+const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}\u{1F1E6}-\u{1F1FF}\u{E0060}-\u{E007F}]/gu,"").replace(/\s*[—–-]\s*$/,"").replace(/\s+/g," ").trim();
 
 /* ---------------- HOY ---------------- */
 function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
+function resultadoPost(p){ const okN = p.picks.filter(x=>x.estado==="verde").length;
+  if(p.lista) return `<span class="chip">${okN}/${p.picks.length} ✅</span>`;
+  return p.estado==="verde"?`<span style="font-size:18px">✅</span>`:p.estado==="rojo"?`<span style="font-size:18px">❌</span>`:`<span class="chip">${okN}/${p.picks.length}</span>` }
+function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las patas
+  const k = "p:"+p.id, abierto = abiertos.has(k);
+  const partido = /COMBI LOCAS/.test(p.titulo) && p.picks[0] && p.picks[0].partido ? p.picks[0].partido : "";
+  const borde = p.lista?"":p.estado==="verde"?"ok-l":p.estado==="rojo"?"ko-l":"";
+  return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><div class="col sp"><span class="tit">${esc(sinEmoji(p.titulo))}</span>${partido?`<span class="mut">${esc(partido)}</span>`:""}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>
+    ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
+}
+function filaPick(p){
+  const k = "k:"+p.partido_id+"|"+p.texto, abierto = abiertos.has(k);
+  return `<div class="leg" onclick="toggle(${JSON.stringify(k).replace(/"/g,"&quot;")})" style="cursor:pointer"><div class="col sp"><span>${p.a_favor&&p.a_favor.top?"⭐ ":""}${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)}</span>${abierto?`<span class="mut">${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}`:""}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`;
+}
+function selectorDia(){ const ayer = ayerDe(D.hoy); return subTabs("hoydia", [[ayer,"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy) }
 function vHoy(){
   const ayer = ayerDe(D.hoy);
-  const [dia, t] = subTabs("hoydia", [[ayer,"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
-  const d = D.dias[dia] || {picks:[],combis:{}};
+  const [dia, t] = selectorDia();
   let h = t;
-  const tops = d.picks.filter(p => p.a_favor && p.a_favor.top && p.estado==="pendiente" && (p.pct_real??p.frecuencia)>=70);   // 27/10: «todo a favor» con un 60 % no lo es
-  if(tops.length){ h += `<h2>⭐ Con todo a favor</h2><div class="card" style="border-left:5px solid var(--warn)">` + tops.slice(0,6).map(p => `<div class="leg"><div class="col sp"><span><b>${esc(p.texto)}</b></span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · a favor: ${p.a_favor.si.join(", ")}</span></div><span class="cuota">${n2(p.cuota)}</span><span class="chip warn">${p.pct_real??p.frecuencia}%</span></div>`).join("") + `</div>` }
-  const gd = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia && x.cuota).sort((a,b)=>(b.valor??-9)-(a.valor??-9))[0];
-  if(gd){ h += `<h2>⚽ Goleador del día</h2><div class="card row"><span style="font-size:30px">⚽</span><div class="col sp"><b>${esc(gd.jugador)} marca</b><span class="mut">${esc(gd.partido)} · ${gd.fecha.slice(11)} · ${gd.goles} goles en ${gd.partidos} partidos (${String(gd.media).replace(".",",")}/partido)</span></div><span class="cuota big" style="font-size:22px">${n2(gd.cuota)}</span></div>` }
-  if(D.alertas.length){ h += `<h2>🚨 Alertas de cuota</h2>` + D.alertas.map(a => `<div class="card"><div class="row"><b class="sp">${esc(a.texto)}</b><span class="chip warn">+${a.sube}%</span></div><div class="row mut" style="margin-top:4px"><span class="sp">${esc(a.partido)} · ${a.fecha.slice(11)} · se cumplió ${a.frecuencia}%</span><span>${n2(a.antes)} → <b class="cuota">${n2(a.cuota)}</b></span></div></div>`).join("") }
-  const vivos = D.partidos.filter(esVivo);
-  if(dia===D.hoy && vivos.length){ h += `<h2>🔴 En directo</h2>` + vivos.map(tarjetaPartido).join("") }
-  // 27/10: las combis publicadas se quedan con su resultado cuando terminan (verde / roja / en juego)
   const pubs = (D.publicados_hoy||[]).filter(p => p.fecha.slice(0,10)===dia && !esRepostVerde(p)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
-  if(pubs.length){
-    const cb = pubs.filter(p=>!p.lista), v = cb.filter(p=>p.estado==="verde").length, r = cb.filter(p=>p.estado==="rojo").length;
-    h += `<h2>📣 Publicadas · ${v} ✅ ${r} ❌${cb.length-v-r?` · ${cb.length-v-r} en juego`:""}</h2>` + pubs.map(p => {
-      const okN = p.picks.filter(x=>x.estado==="verde").length;
-      return `<div class="card" style="${p.lista?"":p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
-        <div class="row" style="margin-bottom:4px"><b class="sp">${esc(p.titulo)}${/COMBI LOCAS/.test(p.titulo)&&p.picks[0]&&p.picks[0].partido?`<br><span class="mut" style="font-weight:400">${esc(p.picks[0].partido)}</span>`:""}</b><span class="mut">${p.fecha.slice(11)}</span>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.lista?`<span class="chip">${okN}/${p.picks.length} ✅</span>`:p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
-        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
-    }).join("");
-  } else if(dia!==D.manana){ h += `<h2>📣 Publicadas</h2><div class="empty">${dia===ayer?"No hubo combis publicadas":"Aún no se ha publicado ninguna combi hoy"}</div>` }
-  const nombres = {segura:"🔒 Combi segura", cuota_3:"💥 Cuota 3", loca:"🤪 Combi loca"};
-  const cs = Object.entries(d.combis||{});
-  if(dia!==ayer && cs.length){ h += `<h2>🧮 Combis previstas</h2><div class="mut" style="margin-bottom:10px">Lo que prepara el bot; pueden cambiar con las cuotas antes de publicarse.</div>` + cs.map(([k,c]) => `<div class="card"><div class="row" style="margin-bottom:4px"><b class="sp">${nombres[k]||k}</b><span class="cuota big" style="font-size:20px">${n2(c.cuota)}</span>${chipEstado(c.estado)}</div>${legs(c.picks)}<div class="mut" style="margin-top:6px">10 € → ${n2(c.cuota*10)} €</div></div>`).join("") }
-  const e = D.escalera.actual;
-  const eh = (D.escalera.historial||[]).filter(x=>x.dia===dia).pop();
+  const cb = pubs.filter(p=>!p.lista), v = cb.filter(p=>p.estado==="verde").length, r = cb.filter(p=>p.estado==="rojo").length;
+  if(pubs.length) h += `<div class="grid3"><div class="stat kpi"><b style="color:var(--ok)">${v}</b><span>verdes</span></div><div class="stat kpi"><b style="color:var(--ko)">${r}</b><span>rojas</span></div><div class="stat kpi"><b>${cb.length-v-r}</b><span>en juego</span></div></div>`;
+  const vivos = D.partidos.filter(esVivo);
+  if(dia===D.hoy && vivos.length) h += `<div class="card fila" onclick="sub.pmodo='directo';ir('partidos')" style="margin-top:8px"><span class="chip live">● En directo</span><span class="sp">${vivos.length} partido${vivos.length>1?"s":""} ahora</span><span class="mut">Ver ›</span></div>`;
+  h += `<h2>Publicadas</h2>` + (pubs.length ? `<div class="lista">${pubs.map(filaPost).join("")}</div>` : `<div class="empty">${dia===ayer?"No hubo publicaciones":dia===D.manana?"Todavía no ha salido nada de mañana":"Aún no se ha publicado nada hoy"}</div>`);
+  const prox = (D.calendario||[]).filter(p => p.fecha.slice(0,10)===dia);
+  if(prox.length && dia!==ayer) h += `<h2>Próximos posts</h2><div class="card">${prox.map(p=>`<div class="leg" onclick="sub.cmodo='calendario';ir('contenido')" style="cursor:pointer"><span class="hora">${p.fecha.slice(11,16)}</span><span class="sp tit" style="font-weight:500">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}</div>`).join("")}</div>`;
+  const e = D.escalera.actual, eh = (D.escalera.historial||[]).filter(x=>x.dia===dia).pop();
   const pasos = (n, col) => `<div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<n?"var(--ok)":i===n?col:""}"></div>`).join("")}</div>`;
-  if(e && e.dia===dia){ h += `<h2>🪜 Reto escalera</h2><div class="card"><div class="row"><span class="big sp">Día ${e.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)} · ${diaTxt(e.dia)}</span></div></div>${pasos(e.escalon,"var(--warn)")}${legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""})))}</div>` }
-  else if(eh){ const ok = eh.resultado==="verde"; h += `<h2>🪜 Reto escalera</h2><div class="card" style="border-left:5px solid var(${ok?"--ok":"--ko"})"><div class="row"><span class="big sp">Día ${eh.escalon}<span class="mut" style="font-size:15px">/7</span></span><div class="col" style="text-align:right"><b>${ok?"✅ Superado":"❌ Se cayó"}</b><span class="mut">cuota ${n2(eh.cuota)} · ${num(eh.stake)} €</span></div></div>${pasos(eh.escalon, ok?"var(--ok)":"var(--ko)")}${(eh.picks||[]).length?legs(eh.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""}))):""}</div>` }
-  else if(e && dia!==D.manana && e.dia>dia){ h += `<h2>🪜 Reto escalera</h2><div class="card"><span>${dia===D.hoy?"Hoy la escalera descansa: no hay dos picks con valor.":"Ese día no hubo escalón."}</span> <span class="mut">Próximo: día ${e.escalon}, ${diaTxt(e.dia).toLowerCase()} a las 11:00.</span></div>` }
-  h += `<h2>Picks (${d.picks.length})</h2>` + (d.picks.length ? `<div class="card">` + d.picks.map(p => `<div class="leg"><div class="col sp"><span>${p.a_favor&&p.a_favor.top?"⭐ ":""}${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)} · ${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`).join("") + `</div>` : `<div class="empty">El bot aún no tiene picks para este día</div>`);
-  const gh = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia);
-  if(gh.length){ h += `<h2>⚽ Goleadores que juegan</h2><div class="card">` + gh.map(x => `<div class="leg"><div class="col sp"><span><b>${esc(x.jugador)}</b> marca</span><span class="mut">${esc(x.partido)} · ${x.fecha.slice(11)} · ${x.goles} goles en ${x.partidos} (${String(x.media).replace(".",",")}/partido) · ${x.puesto}º de su liga</span></div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:`<span class="mut">sin cuota</span>`}${x.valor!=null&&x.valor>0?`<span class="chip verde">valor</span>`:""}</div>`).join("") + `</div>` }
+  if(e && e.dia===dia){ const k="esc", ab=abiertos.has(k); h += `<h2>Reto escalera</h2><div class="card"><div class="fila" onclick="toggle('${k}')"><span class="big" style="font-size:22px">Día ${e.escalon}<span class="mut">/7</span></span><span class="sp"></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)}</span></div></div>${pasos(e.escalon,"var(--warn)")}${ab?legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""}))):""}</div>` }
+  else if(eh){ const ok = eh.resultado==="verde"; h += `<h2>Reto escalera</h2><div class="card ${ok?"ok-l":"ko-l"}"><div class="row"><span class="big sp" style="font-size:22px">Día ${eh.escalon}<span class="mut">/7</span></span><b>${ok?"✅ Superado":"❌ Se cayó"}</b></div>${pasos(eh.escalon, ok?"var(--ok)":"var(--ko)")}</div>` }
+  return h;
+}
+function vPicks(){
+  const [dia, t] = selectorDia();
+  const [modo, t2] = subTabs("pkmodo", [["top","⭐ Destacados"],["todos","Todos"],["goleadores","Goleadores"]], "top");
+  const d = D.dias[dia] || {picks:[],combis:{}};
+  let h = t + t2;
+  if(modo==="top"){
+    const tops = d.picks.filter(p => p.a_favor && p.a_favor.top && p.estado==="pendiente" && (p.pct_real??p.frecuencia)>=70);   // 27/10: «todo a favor» con un 60 % no lo es
+    h += `<h2>Con todo a favor</h2>` + (tops.length ? `<div class="card">${tops.slice(0,8).map(filaPick).join("")}</div>` : `<div class="empty">Nada destacado para este día</div>`);
+    const gd = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia && x.cuota).sort((a,b)=>(b.valor??-9)-(a.valor??-9))[0];
+    if(gd) h += `<h2>Goleador del día</h2><div class="card row"><div class="col sp"><b>${esc(gd.jugador)} marca</b><span class="mut">${esc(gd.partido)} · ${gd.fecha.slice(11)} · ${gd.goles} goles en ${gd.partidos}</span></div><span class="cuota">${n2(gd.cuota)}</span></div>`;
+    if(D.alertas.length) h += `<h2>Alertas de cuota</h2><div class="card">${D.alertas.map(a => `<div class="leg"><div class="col sp"><span>${esc(a.texto)}</span><span class="mut">${esc(a.partido)} · ${a.fecha.slice(11)} · ${n2(a.antes)} → ${n2(a.cuota)}</span></div><span class="chip warn">+${a.sube}%</span></div>`).join("")}</div>`;
+    const nombres = {segura:"Combi segura", cuota_3:"Cuota 3", loca:"Combi loca"};
+    const cs = Object.entries(d.combis||{});
+    if(cs.length && dia!==ayerDe(D.hoy)) h += `<h2>Combis que prepara el bot</h2>` + cs.map(([k,c]) => `<details class="sec"><summary><span class="sp">${nombres[k]||k}</span><span class="cuota">${n2(c.cuota)}</span>${chipEstado(c.estado)}</summary><div>${legs(c.picks)}</div></details>`).join("");
+  } else if(modo==="todos"){
+    const q = (sub.pq||"").toLowerCase();
+    const lista = d.picks.filter(p => !q || (p.texto+" "+p.partido).toLowerCase().includes(q));
+    h += `<input placeholder="Buscar equipo o jugador…" value="${esc(sub.pq||"")}" oninput="sub.pq=this.value;clearTimeout(window._b);window._b=setTimeout(()=>{pintar();const i=$('main input');i.focus();i.setSelectionRange(99,99)},250)" style="margin-bottom:10px">`;
+    h += lista.length ? `<div class="mut" style="margin:0 4px 8px">${lista.length} picks · toca uno para ver sus datos</div><div class="card">${lista.map(filaPick).join("")}</div>` : `<div class="empty">Sin picks para este día</div>`;
+  } else {
+    const gh = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia);
+    h += gh.length ? `<div class="card">${gh.map(x => `<div class="leg"><div class="col sp"><span><b>${esc(x.jugador)}</b> marca</span><span class="mut">${esc(x.partido)} · ${x.fecha.slice(11)} · ${x.goles} goles en ${x.partidos} · ${x.puesto}º de su liga</span></div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:`<span class="mut">sin cuota</span>`}${x.valor!=null&&x.valor>0?`<span class="chip verde">valor</span>`:""}</div>`).join("")}</div>` : `<div class="empty">Sin goleadores para este día</div>`;
+  }
   return h;
 }
 
@@ -214,8 +258,11 @@ function extrasPick(p){
 }
 function abrir(id,e){ abiertos.has(id)?abiertos.delete(id):abiertos.add(id); pintar() }
 function vPartidos(){
-  const [modo, t] = subTabs("pmodo", [["directo","🔴 En directo"],["lista","Próximos"],["terminados","Terminados"],["resumen","Resumen diario"],["tabla","Clasificación"],["goleadores","Goleadores"],["arbitros","Árbitros"],["tramos","Cuándo se marca"],["patrones","Patrones"]], "directo");
-  let h = t;
+  // 28/10: tres vistas principales y el resto en «Más», para no llenar la pantalla de botones
+  const MAS = [["resumen","Resumen diario"],["tabla","Clasificación"],["goleadores","Goleadores"],["arbitros","Árbitros"],["tramos","Cuándo se marca"],["patrones","Patrones"]];
+  const modo = sub.pmodo || "directo", enMas = MAS.some(([k])=>k===modo);
+  let h = `<div class="tabs">${[["directo","En directo"],["lista","Próximos"],["terminados","Terminados"]].map(([k,x])=>`<button class="${k===modo?"on":""}" onclick="sub.pmodo='${k}';pintar()">${x}</button>`).join("")}<button class="${enMas?"on":""}" onclick="sub.pmas=!sub.pmas;pintar()">${enMas?MAS.find(([k])=>k===modo)[1]:"Más"} ▾</button></div>`;
+  if(sub.pmas) h += `<div class="card mas">${MAS.map(([k,x])=>`<div class="leg" style="cursor:pointer" onclick="sub.pmodo='${k}';sub.pmas=false;pintar()"><span class="sp">${x}</span>${k===modo?"✓":""}</div>`).join("")}</div>`;
   if(modo==="lista"){
     const [dia, t2] = subTabs("pdia", [[ayerDe(D.hoy),"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
     const q = (sub.q||"").toLowerCase();
@@ -333,7 +380,7 @@ function ayerDe(d){ const f=new Date(d+"T12:00"); f.setDate(f.getDate()-1); retu
 
 /* ---------------- CONTENIDO ---------------- */
 function vContenido(){
-  const [modo, t] = subTabs("cmodo", [["calendario","🗓️ Próximos posts"],["ideas","💡 Ideas"],["muro","💚 Muro de verdes"],["archivo","🗂️ Archivo"]], "calendario");
+  const [modo, t] = subTabs("cmodo", [["calendario","Próximos"],["archivo","Publicados"],["muro","Verdes"],["ideas","Ideas"]], "calendario");
   let h = t;
   const post = (p, extra="") => `<div class="card"><div class="row"><b class="sp">${esc(p.titulo||p.texto)}</b>${p.resultado?chipEstado(p.resultado):""}</div><div class="mut">${diaTxt(p.fecha.slice(0,10))} · ${p.fecha.slice(11,16)}${p.cuota?" · cuota "+n2(p.cuota):""}${p.redes&&p.redes.length?" · "+p.redes.join(", "):""}</div>${extra}</div>`;
   const conTexto = (p, i, pre, extra="") => post(p, `<details><summary class="mut" style="margin-top:6px">Ver texto</summary><pre>${esc(p.texto)}</pre></details><div class="row" style="margin-top:8px"><button class="btn2" onclick="copiar(window.${pre}[${i}].texto)">Copiar texto</button></div>${extra}`);
@@ -351,8 +398,12 @@ function vContenido(){
     // 27/10: la imagen que va a salir (la tarjeta del partido si la lleva), para verlo todo antes de que se publique
     const RAW = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/publicaciones/media/";
     const foto = p => `<img loading="lazy" src="${RAW}${encodeURIComponent(p.id)}.tarjeta.jpg" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${RAW}${encodeURIComponent(p.id)}.jpg'}else{this.remove()}" style="width:100%;border-radius:12px;margin-top:8px">`;
-    h += `<div class="mut" style="margin:0 4px 10px">Todo lo que va a salir, con su texto y su imagen. ✏️ Cambiar y ❌ Cancelar abren el bot de Telegram.</div>`;
-    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id]; return (r&&r.length?`<div class="card" style="border-left:5px solid var(--live);margin-bottom:-4px"><b>🔎 El bot ha visto esto:</b>${r.map(x=>`<div class="mut">• ${esc(x)}</div>`).join("")}</div>`:"") + conTexto(p,i,"_cal",foto(p)+acciones(p)) }).join("") : `<div class="empty">Nada programado</div>`;
+    h += `<div class="mut" style="margin:0 4px 10px">Toca un post para ver su texto, su imagen y cambiarlo o cancelarlo.</div>`;
+    let diaAnt = "";
+    h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id], k="c:"+p.id, ab=abiertos.has(k), d=p.fecha.slice(0,10);
+      const cab = d!==diaAnt ? `<h2>${esc(diaTxt(d))}</h2>` : ""; diaAnt = d;
+      return cab + `<div class="card ${r&&r.length?"ko-l":""}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><span class="sp tit">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}${r&&r.length?`<span class="chip va_mal">Revisar</span>`:""}</div>`
+        + (ab ? `<div class="det">${r&&r.length?`<div class="mut" style="margin:6px 0">🔎 ${r.map(esc).join(" · ")}</div>`:""}${foto(p)}<pre>${esc(p.texto)}</pre><button class="btn2" onclick="copiar(window._cal[${i}].texto)">Copiar texto</button>${acciones(p)}</div>` : "") + `</div>` }).join("") : `<div class="empty">Nada programado</div>`;
   } else if(modo==="muro"){
     window._muro = D.muro;
     h += `<div class="mut" style="margin:0 4px 10px">Los mejores aciertos de los últimos 7 días, de mayor a menor cuota. Listos para captura.</div>` + (D.muro.length ? D.muro.map((p,i)=>`<div class="card" style="border-left:5px solid var(--ok)"><div class="row"><span style="font-size:22px">💚</span><div class="col sp"><b>${esc(p.titulo)}</b><span class="mut">${p.partido?esc(p.partido)+" · ":""}${diaTxt(p.fecha.slice(0,10))}${p.marcador?" · "+p.marcador:""}</span></div><span class="cuota big" style="font-size:20px">${n2(p.cuota)}</span></div>${p.pick?"":`<details><summary class="mut" style="margin-top:6px">Ver post</summary><pre>${esc(p.texto)}</pre></details>`}<button class="btn2" style="margin-top:8px" onclick="copiar('✅💚 VERDE 💚✅\\n\\n'+window._muro[${i}].texto)">Copiar</button></div>`).join("") : `<div class="empty">Esta semana aún no hay verdes registrados. Se van llenando según el bot corrige los partidos.</div>`);
@@ -382,7 +433,7 @@ function linea(puntos, color="#0f7a35"){
 }
 const NOMBRE_RED = {instagram:"Instagram",threads:"Threads",facebook:"Facebook",telegram:"Telegram"};
 function vStats(){
-  const [modo, t0] = subTabs("smodo", [["bot","🎯 Aciertos"],["redes","📱 Redes"],["metas","🏁 Objetivos"]], "bot");
+  const [modo, t0] = subTabs("smodo", [["bot","Aciertos"],["redes","Redes"],["metas","Objetivos"]], "bot");
   const t = PUBLICA ? "" : t0;
   if(PUBLICA && modo !== "bot") sub.smodo = "bot";
   let h = t; const A = D.aciertos;
@@ -404,10 +455,10 @@ function vStats(){
     const [per, t2] = subTabs("per", [["dia","Por día"],["semana","Por semana"],["mes","Por mes"]], "semana");
     const serie = per==="dia"?A.por_dia:per==="semana"?A.por_semana:A.por_mes;
     if(!PUBLICA) h += `<h2>Beneficio a 10 € por pick</h2>${t2}<div class="card">${barras(serie, s=>per==="dia"?s.dia.slice(8,10)+"/"+s.dia.slice(5,7):per==="semana"?s.semana.slice(-3):s.mes.slice(5,7)+"/"+s.mes.slice(2,4), s=>s.beneficio, v=>Math.round(v))}</div>`;
-    h += `<h2>Por tipo de apuesta</h2><div class="card">${Object.entries(A.por_tipo).sort((a,b)=>b[1].pct-a[1].pct).map(([k,v])=>`<div style="padding:6px 0"><div class="row"><span class="sp" style="text-transform:capitalize">${esc(k)}</span><b>${v.pct}%</b><span class="mut" style="width:70px;text-align:right">${v.aciertos}/${v.picks}</span></div><div class="bar"><div style="width:${v.pct}%"></div></div></div>`).join("") || `<div class="mut">Aún sin partidos corregidos</div>`}</div>`;
-    h += `<h2>Por mercado (mín. 3 picks)</h2><div class="card">${A.por_mercado.map(v=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(nombreMercado(v.mercado))}</span><b>${v.pct}%</b>${PUBLICA?`<span class="mut" style="width:60px;text-align:right">${v.picks??""}</span>`:`<span class="mut" style="width:90px;text-align:right">${eur(v.beneficio)}</span>`}</div><div class="bar"><div style="width:${v.pct}%;background:${v.pct>=75?"var(--ok)":v.pct>=60?"var(--warn)":"var(--ko)"}"></div></div></div>`).join("") || `<div class="mut">Aún sin datos suficientes</div>`}</div>`;
+    h += `<details class="sec"><summary>Por tipo de apuesta</summary><div>${Object.entries(A.por_tipo).sort((a,b)=>b[1].pct-a[1].pct).map(([k,v])=>`<div style="padding:6px 0"><div class="row"><span class="sp" style="text-transform:capitalize">${esc(k)}</span><b>${v.pct}%</b><span class="mut" style="width:70px;text-align:right">${v.aciertos}/${v.picks}</span></div><div class="bar"><div style="width:${v.pct}%"></div></div></div>`).join("") || `<div class="mut">Aún sin partidos corregidos</div>`}</div></details>`;
+    h += `<details class="sec"><summary>Por mercado (mín. 3 picks)</summary><div>${A.por_mercado.map(v=>`<div style="padding:6px 0"><div class="row"><span class="sp">${esc(nombreMercado(v.mercado))}</span><b>${v.pct}%</b>${PUBLICA?`<span class="mut" style="width:60px;text-align:right">${v.picks??""}</span>`:`<span class="mut" style="width:90px;text-align:right">${eur(v.beneficio)}</span>`}</div><div class="bar"><div style="width:${v.pct}%;background:${v.pct>=75?"var(--ok)":v.pct>=60?"var(--warn)":"var(--ko)"}"></div></div></div>`).join("") || `<div class="mut">Aún sin datos suficientes</div>`}</div></details>`;
     const hist = (D.escalera.historial||[]).filter(x=>!D.stats_desde||x.dia>=D.stats_desde);
-    h += `<h2>Escalera · historial</h2><div class="card">${hist.length?hist.slice().reverse().map(x=>`<div class="leg"><span class="sp">${diaTxt(x.dia)} · día ${x.escalon}</span><span class="mut">${num(x.stake)} € x${n2(x.cuota)}</span>${chipEstado(x.resultado==="verde"?"verde":"rojo")}</div>`).join(""):`<div class="mut">Sin intentos todavía</div>`}</div>`;
+    h += `<details class="sec"><summary>Escalera · historial</summary><div>${hist.length?hist.slice().reverse().map(x=>`<div class="leg"><span class="sp">${diaTxt(x.dia)} · día ${x.escalon}</span><span class="mut">${num(x.stake)} € x${n2(x.cuota)}</span>${chipEstado(x.resultado==="verde"?"verde":"rojo")}</div>`).join(""):`<div class="mut">Sin intentos todavía</div>`}</div></details>`;
   } else if(modo==="redes"){
     const R = D.redes||{}, redes = R.redes||{};
     const F = D.formatos_redes||[];   // 27/10: qué formato se ve más en Threads
