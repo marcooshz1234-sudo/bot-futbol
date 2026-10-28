@@ -21,6 +21,9 @@ from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
 PARTIDO = {"patas": (4, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
+# 28/10 (Marcos, prueba de una semana): 2 combis de partido extra de madrugada (00:30 y 01:30) con los partidos grandes
+# del día que no tienen combi a su hora; más cortas si hace falta. La del City a la 01:30 hizo 4,8 mil vistas.
+NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (3, 6), "cuota": (3.5, 10.0), "hasta": "2026-11-04"}
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
@@ -406,6 +409,24 @@ def del_dia(dia, hist=None, ap=None):
     salida.sort(key=lambda x: x[3])
     # 2) multis con el mejor pick de cada partido que empiece después de la hora del post
     res = {"partidos": salida}
+    # 28/10: combis de madrugada (prueba): partidos grandes que no salen a su hora, con combis algo más cortas
+    res["noche"] = []
+    if dia <= NOCHE["hasta"]:
+        ya = {cp["partido_id"] for cp, _ in elegidos}
+        f0n = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
+        cand = []
+        for pool in pools:
+            b = pool[0]
+            if b["partido_id"] in ya:
+                continue
+            r = mejor_combi(pool, NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"])
+            if r:
+                cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
+                cp["picks"] = r[1]
+                cand.append((grandeza(cp), r[0], cp, r[2]))
+        cand.sort(key=lambda x: (-x[0], -x[1]))
+        for (h, m), (_, _, cp, c) in zip(NOCHE["horas"], cand):
+            res["noche"].append((cp, c, datos_tarjeta(cp), f0n.replace(hour=h, minute=m)))
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
     from collections import Counter
