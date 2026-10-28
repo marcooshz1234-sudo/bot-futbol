@@ -1241,7 +1241,16 @@
       "liga": "Carabao Cup"
     },
     "nota": "28/10 00:31: combi corta pedida por Marcos (cuota más baja de lo normal), aprobada en el chat · 00:35 cuota corregida a 4,25 (la que da bet365, comprobada por Marcos; el bot calculaba 5,13)",
-    "cuota_bet365": 4.25
+    "cuota_bet365": 4.25,
+    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1640575.tarjeta.jpg",
+    "enviado": "2026-10-28T01:30",
+    "mensaje_id": 147,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18179340895446871",
+      "instagram": "17999599917034194",
+      "instagram_story": "18065427260538989"
+    }
   },
   {
     "id": "2026-10-28-combi-partido-1638558",

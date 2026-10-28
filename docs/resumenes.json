@@ -326,14 +326,14 @@
   },
   "2026-10-28": {
     "dia": "2026-10-28",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -341,13 +341,19 @@
         "titulo": "✅ COMBI LOCAS | SERIE A",
         "estado": "pendiente",
         "cuota": 4.39
+      },
+      {
+        "id": "2026-10-28-combi-partido-1640575",
+        "titulo": "✅ COMBI LOCAS | CARABAO CUP",
+        "estado": "pendiente",
+        "cuota": 4.25
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 14
+      "total": 18
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
