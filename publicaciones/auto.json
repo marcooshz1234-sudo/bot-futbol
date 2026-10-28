@@ -199,7 +199,7 @@
   {
     "id": "2026-10-28-combi-partido-1550176",
     "fecha": "2026-10-28T16:10",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 VENEZIA vs INTER 🇮🇹\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.30]\n✅ GANA EL INTER [x1.36]\n✅ VENEZIA MARCA [x1.50]\n✅ MÁS DE 10,5 TIROS A PUERTA [x1.91]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,93\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 VENEZIA vs INTER 🇮🇹\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.25]\n✅ GANA EL INTER [x1.36]\n✅ VENEZIA MARCA [x1.50]\n✅ MÁS DE 10,5 TIROS A PUERTA [x1.91]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,63\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -211,7 +211,7 @@
       "1550176|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.3,
+      1.25,
       1.36,
       1.5,
       1.91,
@@ -226,12 +226,13 @@
       "logo_v": "https://media.api-sports.io/football/teams/505.png",
       "fecha": "2026-10-28T18:30",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-10-28T15:13"
   },
   {
     "id": "2026-10-28-combi-partido-1550167",
     "fecha": "2026-10-28T16:40",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs BOLOGNA 🇮🇹\n\n🎯 AC MILAN HACE MÁS TIROS A PUERTA [x1.40]\n✅ BOLOGNA MARCA [x1.53]\n✅ GANA EL AC MILAN [x1.73]\n✅ MÁS DE 3,5 TARJETAS [x1.80]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,38\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs BOLOGNA 🇮🇹\n\n🎯 AC MILAN HACE MÁS TIROS A PUERTA [x1.44]\n✅ BOLOGNA MARCA [x1.62]\n✅ GANA EL AC MILAN [x1.70]\n✅ MÁS DE 3,5 TARJETAS [x1.80]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 10,04\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -242,9 +243,9 @@
       "1550167|Cards Over/Under|Over 3.5"
     ],
     "cuotas": [
-      1.4,
-      1.53,
-      1.73,
+      1.44,
+      1.62,
+      1.7,
       1.8
     ],
     "tarjeta": {
@@ -256,7 +257,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/500.png",
       "fecha": "2026-10-28T18:30",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-10-28T15:13"
   },
   {
     "id": "2026-10-28-combi-partido-1640575",
