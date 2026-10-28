@@ -74,7 +74,9 @@ details summary{cursor:pointer}
 /* 28/10: diseño limpio, filas compactas que se abren al tocarlas */
 .fila{display:flex;align-items:center;gap:10px;cursor:pointer}
 .hora{font:700 13px var(--f);color:var(--mut);width:40px;flex-shrink:0;font-variant-numeric:tabular-nums}
-.tit{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tit{font-weight:700;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.patas{display:flex;gap:3px;margin-top:8px}.patas i{flex:1;height:5px;border-radius:3px;background:var(--card2)}.patas i.v{background:var(--ok)}.patas i.r{background:var(--ko)}.patas i.b{background:color-mix(in srgb,var(--ok) 45%,transparent)}.patas i.m{background:color-mix(in srgb,var(--live) 55%,transparent)}
+.hero{text-align:center;padding:16px}.hero b{display:block;font:400 52px/1 var(--t);color:var(--ok)}
 .lista .card{padding:10px 12px}
 .det{margin-top:8px;padding-top:4px;border-top:1px solid var(--line)}
 .ok-l{border-left:4px solid var(--ok)}.ko-l{border-left:4px solid var(--ko)}
@@ -85,7 +87,8 @@ details summary{cursor:pointer}
 .kpi{text-align:center}.kpi b{font:400 24px/1.1 var(--t)}.kpi span{font-size:12px;color:var(--mut)}
 .punto{width:9px;height:9px;border-radius:50%;display:inline-block}
 .mas{margin:-4px 0 12px}
-.eq{color:var(--acc);font-weight:600}.eqn{font-weight:700}
+.eq{color:var(--acc);font-weight:600}
+.escudos{display:flex;align-items:center;flex-shrink:0}.escudos img{width:28px;height:28px;object-fit:contain;background:var(--card2);border-radius:50%;padding:2px}.escudos img+img{margin-left:-6px}.eqn{font-weight:700}
 </style>
 </head>
 <body>
@@ -138,9 +141,29 @@ function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picks
   const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
 function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
   b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
-function titPost(p){   // 28/10: en las combis de un partido, el partido delante («PARMA vs UDINESE»)
-  const ls = String(p.texto||"").split("\n"), t0 = sinEmoji(p.titulo||ls[0]);
-  return /COMBI LOCAS/.test(t0) && ls[1] ? `${esc(sinEmoji(ls[1]))} <span class="mut" style="font-weight:400">· ${esc(t0.replace(/^COMBI LOCAS \| /,""))}</span>` : esc(t0) }
+function nombreCorto(p){   // 28/10: «⚽ Quién gana hoy» en vez de «QUIÉN GANA HOY · COMBILOCAS ⚽» cortado
+  const id = String(p.id||""), tt = String(p.titulo||p.texto||"").toUpperCase();
+  if(/verde/.test(id) || /¡VERDE/.test(tt)) return "💚 Verde" + ((tt.match(/X\d+,\d+/)||[])[0] ? " " + tt.match(/X\d+,\d+/)[0].toLowerCase() : "");
+  if(/ganadores/.test(id) || /QUIÉN GANA/.test(tt)) return "⚽ Quién gana hoy";
+  if(/escalera/.test(id) || /ESCALERA/.test(tt)) return "🪜 Reto escalera" + ((tt.match(/DÍA \d\/7/)||[])[0] ? " · " + tt.match(/DÍA \d\/7/)[0].toLowerCase() : "");
+  if(/combi-loca/.test(id) || /LA LOCA/.test(tt)) return "🤪 La loca";
+  if(/combi-tres/.test(id) || /COMBI DEL/.test(tt)) return "🔥 Combi del día";
+  if(/picks-manana/.test(id) || /PARA MAÑANA/.test(tt)) return "📋 Picks para mañana";
+  if(/boleto/.test(id) || /CREAR APUESTA/.test(tt)) return "🎟️ Boleto de bet365";
+  if(/balance/.test(id) || /BALANCE/.test(tt)) return "📊 Balance del día";
+  if(/500/.test(id)) return "🧮 De 1 € a 500 €";
+  if(/exacto/.test(id) || /EXACTOS/.test(tt)) return "🎯 Resultados exactos";
+  return sinEmoji(p.titulo||p.texto);
+}
+function escudosDe(fid){
+  const pm = D.partidos.find(m => String(m.id)===String(fid));
+  return pm && pm.logo_l ? `<span class="escudos"><img src="${esc(pm.logo_l)}" alt="" loading="lazy"><img src="${esc(pm.logo_v)}" alt="" loading="lazy"></span>` : "";
+}
+const fidPost = p => (String(p.id||"").match(/combi-partido-(\d+)/)||[])[1];
+function titPost(p){   // 28/10: combis de un partido con el partido (equipos en verde); el resto, nombre corto
+  const fid = fidPost(p), pm = fid && D.partidos.find(m => String(m.id)===String(fid));
+  if(pm){ const liga = sinEmoji(String(p.texto||"").split("\n")[0]).replace(/^COMBI LOCAS\s*\|\s*/,""); return `${eqP(pm.local+" – "+pm.visitante)} <span class="mut" style="font-weight:400">· ${esc(liga)}</span>` }
+  return esc(nombreCorto(p)) }
 function resaltar(texto, partido, clase="eqn"){   // 28/10: en el pick, el equipo en negrita; debajo, el partido en verde
   let h = esc(texto); const eqs = String(partido||"").split(/\s+[–-]\s+/).filter(x=>x.length>2).sort((a,b)=>b.length-a.length);
   eqs.forEach(e => { const r = new RegExp(esc(e).replace(/[.*+?^${}()|[\]\\]/g,"\\$&"), "g"); h = h.replace(r, m => `<span class="${clase}">${m}</span>`) });
@@ -170,12 +193,17 @@ const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27B
 function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">${eqP(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
 function resultadoPost(p){ const okN = p.picks.filter(x=>x.estado==="verde").length;
   if(p.lista) return `<span class="chip">${okN}/${p.picks.length} ✅</span>`;
-  return p.estado==="verde"?`<span style="font-size:18px">✅</span>`:p.estado==="rojo"?`<span style="font-size:18px">❌</span>`:`<span class="chip">${okN}/${p.picks.length}</span>` }
+  return p.estado==="verde"?`<span style="font-size:18px">✅</span>`:p.estado==="rojo"?`<span style="font-size:18px">❌</span>`:`<span class="mut">${okN}/${p.picks.length}</span>` }
 function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las patas
   const k = "p:"+p.id, abierto = abiertos.has(k);
   const partido = /COMBI LOCAS/.test(p.titulo) && p.picks[0] && p.picks[0].partido ? p.picks[0].partido : "";
   const borde = p.lista?"":p.estado==="verde"?"ok-l":p.estado==="rojo"?"ko-l":"";
-  return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><div class="col sp"><span class="tit">${esc(sinEmoji(p.titulo))}</span>${partido?`<span class="mut">${eqP(partido)}</span>`:""}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>
+  const esc2 = partido ? escudosDe(p.picks[0].partido_id) : "";   // 28/10: escudos y el partido como título
+  const liga = sinEmoji(p.titulo).replace(/^COMBI LOCAS\s*\|\s*/,"");
+  const cabeza = partido && esc2 ? `<span class="tit">${eqP(partido)}</span><span class="mut">${esc(liga)} · Combi del partido</span>` : `<span class="tit">${esc(nombreCorto(p))}</span>${partido?`<span class="mut">${eqP(partido)}</span>`:""}`;
+  const clase = x => x.estado==="verde"||(x.estado==="va_bien"&&x.definitivo)?"v":x.estado==="rojo"?"r":x.estado==="va_bien"?"b":x.estado==="va_mal"?"m":"";
+  const barra = p.picks.length>1 ? `<div class="patas">${p.picks.map(x=>`<i class="${clase(x)}"></i>`).join("")}</div>` : "";
+  return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span>${esc2}<div class="col sp">${cabeza}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>${barra}
     ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${eqP(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
 }
 function filaPick(p){
@@ -194,7 +222,7 @@ function vHoy(){
   if(dia===D.hoy && vivos.length) h += `<div class="card fila" onclick="sub.pmodo='directo';ir('partidos')" style="margin-top:8px"><span class="chip live">● En directo</span><span class="sp">${vivos.length} partido${vivos.length>1?"s":""} ahora</span><span class="mut">Ver ›</span></div>`;
   h += `<h2>Publicadas</h2>` + (pubs.length ? `<div class="lista">${pubs.map(filaPost).join("")}</div>` : `<div class="empty">${dia===ayer?"No hubo publicaciones":dia===D.manana?"Todavía no ha salido nada de mañana":"Aún no se ha publicado nada hoy"}</div>`);
   const prox = (D.calendario||[]).filter(p => p.fecha.slice(0,10)===dia);
-  if(prox.length && dia!==ayer) h += `<h2>Próximos posts</h2><div class="card">${prox.map(p=>`<div class="leg" onclick="sub.cmodo='calendario';ir('contenido')" style="cursor:pointer"><span class="hora">${p.fecha.slice(11,16)}</span><span class="sp tit" style="font-weight:500">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}</div>`).join("")}</div>`;
+  if(prox.length && dia!==ayer) h += `<h2>Próximos posts</h2><div class="card">${prox.map(p=>`<div class="leg" onclick="sub.cmodo='calendario';ir('contenido')" style="cursor:pointer"><span class="hora">${p.fecha.slice(11,16)}</span>${fidPost(p)?escudosDe(fidPost(p)):""}<span class="sp tit" style="font-weight:500">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}</div>`).join("")}</div>`;
   const e = D.escalera.actual, eh = (D.escalera.historial||[]).filter(x=>x.dia===dia).pop();
   const pasos = (n, col) => `<div class="steps">${[1,2,3,4,5,6,7].map(i=>`<div style="background:${i<n?"var(--ok)":i===n?col:""}"></div>`).join("")}</div>`;
   if(e && e.dia===dia){ const k="esc", ab=abiertos.has(k); h += `<h2>Reto escalera</h2><div class="card"><div class="fila" onclick="toggle('${k}')"><span class="big" style="font-size:22px">Día ${e.escalon}<span class="mut">/7</span></span><span class="sp"></span><div class="col" style="text-align:right"><b>${num(e.stake)} € → ${num(e.stake*e.cuota)} €</b><span class="mut">cuota ${n2(e.cuota)}</span></div></div>${pasos(e.escalon,"var(--warn)")}${ab?legs(e.picks.map(p=>({...p,partido:p.local?p.local+" – "+p.visitante:""}))):""}</div>` }
@@ -353,41 +381,32 @@ function esVivo(p){
   const referencia = new Date(D.generado.replace(" ","T"));
   return p.fecha.slice(0,10)===D.hoy && referencia-new Date(p.fecha)<=6*60*60*1000;
 }
-function vDirecto(modo="directo"){
+function vDirecto(modo="directo"){   // 28/10: compacto: marcador, minuto y nuestras patas dentro de cada partido
   const finalizados = modo==="terminados";
   const partidos = D.partidos.filter(finalizados ? esFinal : esVivo)
     .sort((a,b)=>finalizados ? b.fecha.localeCompare(a.fecha) : a.fecha.localeCompare(b.fecha));
   const ids = new Set(partidos.map(p=>p.id));
   const pk = Object.values(D.dias).flatMap(d=>d.picks).filter(p=>ids.has(p.partido_id));
-  // 27/10: en directo salen TODAS las publicadas de hoy (primero las que tienen un partido en juego), no solo esas
   const enJuego = p => p.picks.some(x=>ids.has(x.partido_id));
   const pub = (D.publicados_hoy||[]).filter(p => !esRepostVerde(p) && (finalizados ? enJuego(p) : p.fecha.slice(0,10)===D.hoy || enJuego(p)))
     .sort((a,b)=>(enJuego(b)-enJuego(a)) || a.fecha.localeCompare(b.fecha));
-  let h = `<h2>${finalizados?"Partidos terminados":"🔴 Partidos en directo"}</h2>`;
-  if(!partidos.length) h += `<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
-  if(pub.length){
-    h += `<h2>📣 Combinadas publicadas</h2>` + pub.map(p => {
-      const okN = p.picks.filter(x=>x.estado==="verde").length;
-      return `<div class="card" style="${p.lista?"":p.estado==="verde"?"border-left:5px solid var(--ok)":p.estado==="rojo"?"border-left:5px solid var(--ko)":""}">
-        <div class="row"><b class="sp">${esc(p.titulo)}${/COMBI LOCAS/.test(p.titulo)&&p.picks[0]&&p.picks[0].partido?`<br><span class="mut" style="font-weight:400">${esc(p.picks[0].partido)}</span>`:""}</b>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${p.lista?`<span class="chip">${okN}/${p.picks.length} ✅</span>`:p.estado==="verde"?"✅":p.estado==="rojo"?"❌":`<span class="chip">${okN}/${p.picks.length}</span>`}</div>
-        ${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"Partido sin datos")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
-    }).join("");
-  }
-  // 27/10: el marcador cuenta lo PUBLICADO (antes solo los picks del modelo de los partidos en juego: salía 0 y 0)
   const cb = pub.filter(p=>!p.lista), cv = cb.filter(p=>p.estado==="verde").length, cr = cb.filter(p=>p.estado==="rojo").length;
   const sel = new Map(); pub.forEach(p=>p.picks.forEach(x=>!x.exacto&&sel.set(x.partido_id+"|"+x.texto, x.estado)));
   const sv=[...sel.values()].filter(e=>e==="verde").length, sr=[...sel.values()].filter(e=>e==="rojo").length;
-  const ok=pk.filter(p=>p.estado==="verde").length, ko=pk.filter(p=>p.estado==="rojo").length;
-  if(pub.length) h = h.replace(`<h2>📣 Combinadas publicadas</h2>`, `<div class="grid2"><div class="stat"><span class="mut">Combis acertadas</span><b>${cv} ✅</b></div><div class="stat"><span class="mut">Combis falladas</span><b>${cr} ❌</b></div><div class="stat"><span class="mut">Selecciones acertadas</span><b>${sv} ✅</b></div><div class="stat"><span class="mut">Selecciones falladas</span><b>${sr} ❌</b></div></div><div class="mut" style="margin:-4px 0 8px">${cb.length-cv-cr} combis en juego o pendientes · ${sel.size-sv-sr} selecciones sin resolver</div><h2>📣 Combinadas publicadas</h2>`);
-  if(pk.length) h += `<div class="mut" style="margin:8px 0">Picks del bot en estos partidos: ${ok} ✅ · ${ko} ❌ · ${pk.length-ok-ko} en juego</div>`;
+  let h = "";
+  if(pub.length) h += `<div class="grid3"><div class="stat kpi"><b style="color:var(--ok)">${cv}</b><span>combis ✅</span></div><div class="stat kpi"><b style="color:var(--ko)">${cr}</b><span>combis ❌</span></div><div class="stat kpi"><b>${sv}<span class="mut" style="font:400 16px var(--t)">/${sv+sr}</span></b><span>picks ✅</span></div></div>`;
+  h += `<h2>${finalizados?"Partidos terminados":"En directo"}</h2>`;
+  if(!partidos.length) h += `<div class="empty">${finalizados?"Todavía no hay partidos terminados":"Ahora no hay partidos en directo"}</div>`;
   partidos.forEach(m=>{
-    h += tarjetaPartido(m);
-    const selecciones=pk.filter(p=>p.partido_id===m.id);
-    const nuestras = pub.flatMap(c=>c.picks.filter(x=>x.partido_id===m.id).map(x=>({...x, combi:c.titulo})));
-    if(nuestras.length) h+=`<div class="card"><b>📣 En nuestras publicaciones</b>${nuestras.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.combi)}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`;
-    if(selecciones.length) h+=`<div class="card">${selecciones.map(p=>`<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("")}</div>`;
+    const nuestras = pub.flatMap(c=>c.picks.filter(x=>x.partido_id===m.id).map(x=>({...x, combi:c.titulo, cid:c.id})));
+    const selecciones = pk.filter(p=>p.partido_id===m.id && !nuestras.some(x=>x.texto===p.texto));
+    const filas = [...nuestras.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${esc(nombreCorto({id:x.cid,titulo:x.combi}))}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`),
+                   ...selecciones.map(p=>`<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">Pick del bot</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`)];
+    const extra = filas.length ? `<div class="det" onclick="event.stopPropagation()">${filas.join("")}</div>` : "";
+    h += tarjetaPartido(m).replace('<div class="ficha"', extra + '<div class="ficha"');
   });
-  return h+`<div class="mut">✅ cumplido · ❌ fallado · ⏳ pendiente o sin datos. Última actualización: ${esc(D.generado)}.</div>`;
+  if(pub.length) h += `<h2>Publicadas hoy</h2><div class="lista">${pub.map(filaPost).join("")}</div>`;
+  return h+`<div class="mut" style="margin-top:8px">✅ cumplido · ❌ fallado · ⏳ pendiente. Toca un partido para ver su ficha.</div>`;
 }
 function vResumen(){
   const resumenes = D.resumenes||{}, fechas = Object.keys(resumenes).sort().reverse();
@@ -425,7 +444,7 @@ function vContenido(){
     let diaAnt = "";
     h += D.calendario.length ? D.calendario.map((p,i)=>{ const r=(D.revision||{})[p.id], k="c:"+p.id, ab=abiertos.has(k), d=p.fecha.slice(0,10);
       const cab = d!==diaAnt ? `<h2>${esc(diaTxt(d))}</h2>` : ""; diaAnt = d;
-      return cab + `<div class="card ${r&&r.length?"ko-l":""}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><span class="sp tit">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}${r&&r.length?`<span class="chip va_mal">Revisar</span>`:""}</div>`
+      return cab + `<div class="card ${r&&r.length?"ko-l":""}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span>${fidPost(p)?escudosDe(fidPost(p)):""}<span class="sp tit">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}${r&&r.length?`<span class="chip va_mal">Revisar</span>`:""}</div>`
         + (ab ? `<div class="det">${r&&r.length?`<div class="mut" style="margin:6px 0">🔎 ${r.map(esc).join(" · ")}</div>`:""}${foto(p)}<pre>${esc(p.texto)}</pre><button class="btn2" onclick="copiar(window._cal[${i}].texto)">Copiar texto</button>${acciones(p)}</div>` : "") + `</div>` }).join("") : `<div class="empty">Nada programado</div>`;
   } else if(modo==="muro"){
     window._muro = D.muro;
@@ -464,6 +483,10 @@ function vStats(){
   if(modo==="bot" && desde) h += `<div class="mut" style="margin:0 0 10px">📅 Estadísticas desde el ${desde}: todo lo corregido desde ese día, aciertos y fallos.</div>`;
   const PB = D.publicado;   // 27/10: igual que el Directo: combis y picks publicados
   const caja = (t,v,sub) => `<div class="stat"><span class="mut">${t}</span><b>${v}</b>${sub?`<span class="mut">${sub}</span>`:""}</div>`;
+  if(modo==="bot" && PB && PB.picks && PB.picks.pct!=null){   // 28/10: el número que importa, grande arriba
+    const sem = (A.por_semana||[]).slice(-1)[0];
+    h += `<div class="card hero"><span class="mut">Picks publicados acertados</span><b>${PB.picks.pct}%</b><span class="sub">${PB.picks.verde} de ${PB.picks.verde+PB.picks.rojo}${sem&&sem.pct!=null?` · esta semana el bot va al ${sem.pct}%`:""}</span></div>`;
+  }
   if(modo==="bot" && PB){
     const C = PB.combis, P = PB.picks;
     h += `<h2>📣 Combis publicadas</h2><div class="grid2">${caja("Combis acertadas", C.verde+" ✅", C.pct!=null?C.pct+" % de acierto":"")}${caja("Combis falladas", C.rojo+" ❌", C.pendiente?C.pendiente+" en juego o pendientes":"")}</div>`;
