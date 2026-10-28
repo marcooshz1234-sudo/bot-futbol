@@ -12,3 +12,8 @@
 2026-10-28 01:30:44 arranca el bot del móvil
 2026-10-28 01:37:39 botón cambiar|2026-10-28-combi-partido-1638558 → ok
 2026-10-28 01:37:40 botón cambiar|2026-10-28-combi-partido-1638558 → ok
+2026-10-28 01:38:20 texto ✅ COMBI LOCAS | DFB-POKAL
+🇩🇪 BAYERN MÜNC → ok
+2026-10-28 01:38:46 texto ✅ COMBI LOCAS | DFB-POKAL
+🇩🇪 BAYERN MÜNC → ok
+2026-10-28 01:38:52 botón cambiar|2026-10-28-combi-partido-1638558 → ok
