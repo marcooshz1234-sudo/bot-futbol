@@ -265,25 +265,54 @@ def pareja(a, b):
 FACTOR_MAX = 1.6   # 28/10: patas que van en contra pagan más que multiplicar (Milan), pero con tope
 
 
-def factor_crear(comb):
-    """28/10: las patas de goles y resultado se calculan con el modelo de goles (modelo_goles.py), que sabe si
-    van juntas (recorta) o en contra (paga más); el resto de parejas, con los factores medidos de pareja()."""
+def clave_pareja(a, b):
+    """Tipo de pareja para lo aprendido (28/10): «goles+resultado/mismo», «jugador+tiros/partido»…"""
+    def fam(p):
+        f = familia(p)
+        if f in ("jugador-goles", "jugador-gol_o_asist"):
+            return "goleador"   # «X marca» va muy ligado a los goles y al resultado; tiros o faltas de un jugador, no
+        return "jugador" if f.startswith("jugador") else f
+    la, lb = lado(a), lado(b)
+    rel = "mismo" if la and la == lb else "contrario" if la and lb else "partido"
+    return "+".join(sorted((fam(a), fam(b)))) + "/" + rel
+
+
+def rasgos(comb):
+    """Lo que entra en el cálculo: (ajuste del modelo de goles o None, [(clave, factor base)] de cada pareja)."""
     import modelo_goles
     goles = [p for p in comb if modelo_goles.modelable(p)]
     aj = modelo_goles.ajuste(goles) if len(goles) >= 2 else None
-    f = aj if aj else 1.0
-    for a, b in itertools.combinations(comb, 2):
-        if aj and a in goles and b in goles:
-            continue
-        f *= pareja(a, b)
+    parejas = [(clave_pareja(a, b), pareja(a, b)) for a, b in itertools.combinations(comb, 2)
+               if not (aj and a in goles and b in goles)]
+    return aj, parejas
+
+
+_APRENDIDO = None
+
+
+def aprendido():
+    """Correcciones aprendidas de las cuotas reales de bet365 (calibrar_crear.py → datos/ajuste_crear.json)."""
+    global _APRENDIDO
+    if _APRENDIDO is None:
+        from bot import DATOS
+        _APRENDIDO = leer(DATOS / "ajuste_crear.json") or {}
+    return _APRENDIDO
+
+
+def factor_crear(comb, base=False):
+    """28/10: las patas de goles y resultado se calculan con el modelo de goles (modelo_goles.py), que sabe si
+    van juntas (recorta) o en contra (paga más); el resto de parejas, con los factores medidos de pareja().
+    Encima, lo aprendido de las cuotas reales que da Marcos (calibrar_crear.py); base=True lo ignora."""
+    aj, parejas = rasgos(comb)
+    ap = {} if base else aprendido()
+    beta, corr = ap.get("beta", 1.0), ap.get("claves") or {}
+    f = aj ** beta if aj else 1.0
+    for k, v in parejas:
+        f *= v * math.exp(corr.get(k, 0.0))
     return min(FACTOR_MAX, max(FACTOR_MIN, f))
 
 
-def cuota_real_sel(sel, cuotas):
-    """Cuota real en bet365 de una combi guardada como ['partido|mercado|opción'] + cuotas: por partido se aplica
-    el recorte de «Crear apuesta»; entre partidos distintos se multiplica tal cual. None si falta alguna cuota."""
-    if not sel or len(sel) != len(cuotas) or any(c is None for c in cuotas):
-        return None
+def patas_de_sel(sel, cuotas):
     patas = []
     for s, c in zip(sel, cuotas):
         pid, m, o = s.split("|", 2)
@@ -295,6 +324,15 @@ def cuota_real_sel(sel, cuotas):
             x.update(tipo="jugador", jugador=o, campo={"Anytime Goal Scorer": "goles", "Player to be booked": "amarillas"}
                      .get(m, "gol_o_asist"))
         patas.append(x)
+    return patas
+
+
+def cuota_real_sel(sel, cuotas):
+    """Cuota real en bet365 de una combi guardada como ['partido|mercado|opción'] + cuotas: por partido se aplica
+    el recorte de «Crear apuesta»; entre partidos distintos se multiplica tal cual. None si falta alguna cuota."""
+    if not sel or len(sel) != len(cuotas) or any(c is None for c in cuotas):
+        return None
+    patas = patas_de_sel(sel, cuotas)
     total = 1.0
     for pid in {x["partido_id"] for x in patas}:
         g = [x for x in patas if x["partido_id"] == pid]
