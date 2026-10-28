@@ -1553,5 +1553,40 @@
     "errores_redes": {
       "instagram": "falta la imagen/vídeo en publicaciones/media"
     }
+  },
+  {
+    "id": "2026-10-28-combi-partido-1640388",
+    "fecha": "2026-10-28T20:00",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs CHELSEA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 ALEXANDER ISAK: 2+ TIROS [x1.30]\n✅ FLORIAN WIRTZ COMETE 1+ FALTAS [x1.33]\n✅ AMBOS MARCAN [x1.44]\n✅ LIVERPOOL VE MÁS DE 1,5 TARJETAS [x1.53]\n✅ LIVERPOOL HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ GANA EL LIVERPOOL [x2.10]\n\n💥 Cuota total aprox.: 12,19\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1640388|Home Player Shots|Alexander Isak - 2",
+      "1640388|Player Fouls Committed|Florian Wirtz - 1",
+      "1640388|Both Teams Score|Yes",
+      "1640388|Home Team Total Cards|Over 1.5",
+      "1640388|Home Corners Over/Under|Over 4.5",
+      "1640388|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.3,
+      1.33,
+      1.44,
+      1.53,
+      1.67,
+      2.1
+    ],
+    "tarjeta": {
+      "local": "Liverpool",
+      "visitante": "Chelsea",
+      "id_l": 40,
+      "id_v": 49,
+      "logo_l": "https://media.api-sports.io/football/teams/40.png",
+      "logo_v": "https://media.api-sports.io/football/teams/49.png",
+      "fecha": "2026-10-28T21:00",
+      "liga": "Carabao Cup"
+    },
+    "nota": "28/10 17:02: sustituye a la del bot (Marcos: un poco de todo, cuota 11-15)"
   }
 ]
