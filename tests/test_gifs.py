@@ -24,12 +24,15 @@ class Gifs(unittest.TestCase):
         est = {"enviados": [{"fecha": f"2026-10-28T1{i}:00"} for i in range(4)]}
         self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T21:05"}], {}))
 
-    def test_roja_una_al_dia(self):
-        ahora = datetime(2026, 10, 28, 23, 0, tzinfo=M)
-        app = {"publicados_hoy": [{"id": "a", "fecha": "2026-10-28T16:00", "estado": "rojo"},
-                                  {"id": "b", "fecha": "2026-10-28T17:00", "estado": "rojo"}]}
-        self.assertEqual(len([x for x in gifs.momentos(ahora, [], [], {}, app, {}) if x[1] == "roja"]), 1)
-        self.assertEqual(gifs.momentos(ahora, [], [], {}, app, {"hechos": ["r-2026-10-28-a"]}), [])
+    def test_tras_cada_tipo_de_post(self):
+        ahora = datetime(2026, 10, 28, 16, 5, tzinfo=M)
+        cola = [{"id": "2026-10-28-combi-loca", "mensaje_id": 1, "enviado": "2026-10-28T16:00"},
+                {"id": "2026-10-28-combi-partido-1", "mensaje_id": 2, "enviado": "2026-10-28T16:01"}]
+        self.assertEqual([m[1] for m in gifs.momentos(ahora, cola, [], {}, {}, {})], ["loca"])
+
+    def test_sin_roja(self):
+        app = {"publicados_hoy": [{"id": "a", "fecha": "2026-10-28T16:00", "estado": "rojo"}]}
+        self.assertEqual(gifs.momentos(datetime(2026, 10, 28, 23, 0, tzinfo=M), [], [], {}, app, {}), [])
 
     def test_sin_clave_no_hace_nada(self):
         with patch.dict("os.environ", {}, clear=True):

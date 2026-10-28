@@ -19,4 +19,4 @@ jobs:
         run: |
           python -u gifs.py --muestra
           git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
-          git add datos/gifs_muestra.json && git commit -q -m "GIF de muestra" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done
+          git add datos/gifs_muestra.json datos/gifs_muestra.md && git commit -q -m "GIF de muestra" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done
