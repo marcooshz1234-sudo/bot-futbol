@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 16:01",
+ "actualizado": "2026-10-28 16:15",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -12,14 +12,14 @@
    ]
   },
   "threads": {
-   "seguidores": 1162,
-   "hoy": 179,
+   "seguidores": 1166,
+   "hoy": 183,
    "serie": [
     836,
     930,
     938,
     983,
-    1162
+    1166
    ]
   },
   "facebook": {
@@ -46,11 +46,11 @@
    ]
   }
  },
- "total": 1285,
- "total_hoy": 203,
+ "total": 1289,
+ "total_hoy": 207,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:10",
+  "hora": "16:40",
   "dia": "2026-10-28",
   "titulo": "Combi locas  serie a"
  },
@@ -94,7 +94,7 @@
   },
   "2026-10-28": {
    "instagram": 19,
-   "threads": 1162,
+   "threads": 1166,
    "facebook": 0,
    "telegram": 104
   }
