@@ -1,24 +1,26 @@
 {
- "actualizado": "2026-10-28 23:45",
+ "actualizado": "2026-10-29 00:00",
  "redes": {
   "instagram": {
    "seguidores": 20,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
     19,
     19,
     19,
+    20,
     20
    ]
   },
   "threads": {
    "seguidores": 1225,
-   "hoy": 242,
+   "hoy": 0,
    "serie": [
     836,
     930,
     938,
     983,
+    1225,
     1225
    ]
   },
@@ -30,34 +32,33 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
   "telegram": {
-   "seguidores": 113,
-   "hoy": 33,
+   "seguidores": 111,
+   "hoy": -2,
    "serie": [
     75,
     72,
     71,
     69,
     80,
-    113
+    113,
+    111
    ]
   }
  },
- "total": 1358,
- "total_hoy": 276,
+ "total": 1356,
+ "total_hoy": -2,
  "likes_hoy": 0,
  "proximo": {
   "hora": "01:00",
   "dia": "2026-10-29",
   "titulo": "Quién gana hoy · combilocas"
  },
- "ayer": {
-  "aciertos": 9,
-  "total": 10
- },
+ "ayer": null,
  "escalera": {
   "dia": 2,
   "de": 7,
@@ -97,6 +98,12 @@
    "threads": 1225,
    "facebook": 0,
    "telegram": 113
+  },
+  "2026-10-29": {
+   "instagram": 20,
+   "threads": 1225,
+   "facebook": 0,
+   "telegram": 111
   }
  },
  "tipos_instagram": {
