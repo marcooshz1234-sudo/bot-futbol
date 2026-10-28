@@ -1,4 +1,4 @@
-name: GIF de muestra (no publica nada)
+name: Análisis de GIF (no publica nada)
 on:
   workflow_dispatch:
   push:
@@ -17,6 +17,6 @@ jobs:
       - env:
           GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
         run: |
-          python -u gifs.py --muestra
+          python -u gifs_analisis.py
           git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
-          git add datos/gifs_muestra.json datos/gifs_muestra.md && git commit -q -m "GIF de muestra" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done
+          git add datos/gifs_analisis.json && git commit -q -m "Análisis de GIF votados" && for i in 1 2 3; do git pull --rebase -q -X theirs && git push -q && break; sleep 5; done
