@@ -87,7 +87,7 @@ def momentos(ahora, cola, auto, env, app, est):
     # ⚽ previa: 20 min antes del primer partido de la noche con combi publicada hoy
     ids = {p["id"] for p in cola}
     posts = cola + [dict(p, **env.get(p["id"], {})) for p in auto if p["id"] not in ids]
-    inicios = sorted({s.split("|")[0]: None for p in posts if p["fecha"][:10] == hoy and p.get("mensaje_id")
+    inicios = sorted({s.split("|")[0]: None for p in posts if p.get("fecha", "")[:10] == hoy and p.get("mensaje_id")
                       for s in p.get("sel") or []})
     horas = []
     for fid in inicios:
