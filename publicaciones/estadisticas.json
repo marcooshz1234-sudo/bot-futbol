@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 16:36",
+ "actualizado": "2026-10-28 16:47",
  "redes": {
   "instagram": {
    "seguidores": 19,
@@ -34,25 +34,25 @@
    ]
   },
   "telegram": {
-   "seguidores": 104,
-   "hoy": 24,
+   "seguidores": 105,
+   "hoy": 25,
    "serie": [
     75,
     72,
     71,
     69,
     80,
-    104
+    105
    ]
   }
  },
- "total": 1294,
- "total_hoy": 212,
+ "total": 1295,
+ "total_hoy": 213,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:40",
+  "hora": "17:10",
   "dia": "2026-10-28",
-  "titulo": "Combi locas  serie a"
+  "titulo": "Combi locas  carabao cup"
  },
  "ayer": {
   "aciertos": 9,
@@ -96,12 +96,12 @@
    "instagram": 19,
    "threads": 1171,
    "facebook": 0,
-   "telegram": 104
+   "telegram": 105
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 19,
+   "posts": 20,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -136,7 +136,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
