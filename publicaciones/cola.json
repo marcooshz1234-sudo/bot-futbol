@@ -1613,5 +1613,41 @@
       "threads": "18096664538444889",
       "threads_enlace": "18639661957013444"
     }
+  },
+  {
+    "id": "2026-10-29-combi-partido-1640385-b",
+    "fecha": "2026-10-29T00:03",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 EVERTON vs NEWCASTLE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 EVERTON O EMPATE [x1.36]\n✅ HARVEY BARNES: 2+ TIROS [x1.40]\n✅ NEWCASTLE MARCA [x1.30]\n✅ EVERTON HACE MÁS TIROS [x1.44]\n✅ THIERNO BARRY: 1+ TIROS A PUERTA [x1.33]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n\n💥 Cuota total aprox.: 9,79\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1640385|Double Chance|Home/Draw",
+      "1640385|Away Player Shots|Harvey Barnes - 2",
+      "1640385|Total - Away|Over 0.5",
+      "1640385|Shots.1x2|Home",
+      "1640385|Home Player Shots On Target Total|Thierno Barry - 1",
+      "1640385|Total Corners (1st Half)|Over 4"
+    ],
+    "cuotas": [
+      1.36,
+      1.4,
+      1.3,
+      1.44,
+      1.33,
+      1.91
+    ],
+    "tarjeta": {
+      "local": "Everton",
+      "visitante": "Newcastle",
+      "id_l": 45,
+      "id_v": 34,
+      "logo_l": "https://media.api-sports.io/football/teams/45.png",
+      "logo_v": "https://media.api-sports.io/football/teams/34.png",
+      "fecha": "2026-10-29T20:45",
+      "liga": "Carabao Cup"
+    },
+    "forzar": true,
+    "nota": "29/10 00:05: combi Everton–Newcastle 8-11 con lo aprendido el 28/10, pedida por Marcos («súbela ya»)"
   }
 ]
