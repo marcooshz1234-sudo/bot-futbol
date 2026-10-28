@@ -128,6 +128,38 @@ def threads(p, token):
     return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
 
+# 28/10 (Marcos): en los verdes y en el balance del día en positivo, primer comentario con el canal de Telegram
+ENLACE_TELEGRAM = "https://t.me/+NMCCvWtZu842Mjhk"
+TEXTO_ENLACE = f"💚 ¿Quieres más combis así? Únete GRATIS a nuestro canal de Telegram 👇\n{ENLACE_TELEGRAM}"
+
+
+def lleva_enlace(p):
+    """Verdes (combis, escalera, boletos) y balance del día con más acertados que fallados."""
+    pid = p.get("id", "")
+    if "verde" in pid:
+        return True
+    if "balance" in pid:
+        m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", p.get("texto", ""))
+        return bool(m) and int(m.group(1)) > int(m.group(2))
+    return False
+
+
+def id_publicado(v):
+    return v if v and str(v) not in ("ya-publicado", "confirmado") else None
+
+
+def comentar_threads(p, token):
+    c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": TEXTO_ENLACE,
+                                                 "reply_to_id": id_publicado(p["redes"]["threads"]), "access_token": token})
+    time.sleep(3)
+    return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
+
+
+def comentar_instagram(p, token):
+    return llamar("POST", f"{INSTAGRAM}/{id_publicado(p['redes']['instagram'])}/comments",
+                  {"message": TEXTO_ENLACE, "access_token": token})["id"]
+
+
 def esperar_contenedor(base, cid, token, intentos=40):
     for _ in range(intentos):
         st = llamar("GET", f"{base}/{cid}", {"fields": "status_code,status", "access_token": token})
@@ -285,6 +317,11 @@ def main(objetivo=None):
         if FACEBOOK_ACTIVO and claves["facebook"] and "facebook" not in hecho:
             tipo = p.get("facebook") or ("foto" if ultimo_fb == "texto" else "texto")
             tareas.append(("facebook", lambda tipo=tipo: facebook(p, claves["facebook"], pagina, tipo == "foto")))
+        if lleva_enlace(p):   # 28/10: el comentario va cuando el post ya está publicado (la vuelta siguiente)
+            if claves["threads"] and "threads_enlace" not in hecho and id_publicado(hecho.get("threads")):
+                tareas.append(("threads_enlace", lambda: comentar_threads(p, claves["threads"])))
+            if claves["instagram"] and "instagram_enlace" not in hecho and id_publicado(hecho.get("instagram")):
+                tareas.append(("instagram_enlace", lambda: comentar_instagram(p, claves["instagram"])))
         for red, hacer in tareas:
             if objetivo and red != objetivo[1]:
                 continue
@@ -300,7 +337,7 @@ def main(objetivo=None):
                     print(f"{red}: no se pudo comprobar duplicados ({e})")
             if ambiguo(errores.get(red)):
                 continue
-            if ahora - cuando > MAX_RETRASO and red != "instagram_reel":
+            if ahora - cuando > MAX_RETRASO and red not in ("instagram_reel", "threads_enlace", "instagram_enlace"):
                 errores[red] = "caducado: no salió a tiempo"
                 hecho[red] = None
                 cambios += 1
