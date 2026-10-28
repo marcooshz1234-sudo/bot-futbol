@@ -326,14 +326,14 @@
   },
   "2026-10-28": {
     "dia": "2026-10-28",
-    "total": 4,
+    "total": 5,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 5
     },
     "combis": [
       {
@@ -359,13 +359,19 @@
         "titulo": "✅ COMBI LOCAS | DFB-POKAL",
         "estado": "pendiente",
         "cuota": 3.04
+      },
+      {
+        "id": "2026-10-28-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀",
+        "estado": "pendiente",
+        "cuota": 1.9
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 26
+      "total": 27
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
