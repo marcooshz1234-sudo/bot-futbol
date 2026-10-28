@@ -48,8 +48,12 @@ def main():
     enviados = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
 
     est_redes = leer(RAIZ / "publicaciones" / "enviados_redes.json", {}) or {}
-    for p in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + [
-            dict(x, **enviados.get(x["id"], {}), **est_redes.get(x["id"], {})) for x in leer(RAIZ / "publicaciones" / "auto.json", []) or []]:
+    cola_ = leer(RAIZ / "publicaciones" / "cola.json", []) or []
+    ids_cola_ = {x["id"] for x in cola_}
+    # 28/10: si un post está en la cola (subido a mano), el del bot con el mismo id no sale: no es un fallo
+    for p in cola_ + [
+            dict(x, **enviados.get(x["id"], {}), **est_redes.get(x["id"], {})) for x in leer(RAIZ / "publicaciones" / "auto.json", []) or []
+            if x["id"] not in ids_cola_]:
         if p["fecha"][:10] < desde:
             continue
         # 27/10: nada de falsas alarmas: un post quitado o cancelado a propósito, o que aún no le toca, no es un fallo
@@ -93,7 +97,12 @@ def main():
     try:
         import combis_dia
         limite = (ahora + timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M")
-        for p in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or []):
+        cola_r = leer(RAIZ / "publicaciones" / "cola.json", []) or []
+        ids_r = {x["id"] for x in cola_r}
+        textos_r = (control.get("textos") or {})
+        for p in cola_r + [x for x in leer(RAIZ / "publicaciones" / "auto.json", []) or [] if x["id"] not in ids_r]:
+            if p["id"] in textos_r:   # 28/10: si Marcos ya ha editado el texto, la cuota la ha puesto él
+                continue
             if p.get("enviado") or p.get("caducada") or not (ahora.strftime("%Y-%m-%dT%H:%M") < p["fecha"] <= limite):
                 continue
             real = p.get("cuota_bet365") or combis_dia.cuota_real_sel(p.get("sel"), p.get("cuotas") or [])
