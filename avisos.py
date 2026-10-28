@@ -112,6 +112,11 @@ def main():
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:
             avisos.append((x["k"], x["texto"]))
+    try:   # 28/10: lo que sale en Threads, listo para publicarlo en X con un toque
+        import para_x
+        para_x.main(token, canal, api, ahora)
+    except Exception as e:
+        print("para X:", str(e)[:150])
     if not ESTADO.exists():   # primera vez: no se avisa de lo viejo
         hecho |= {k for k, _ in avisos}
         avisos = []
