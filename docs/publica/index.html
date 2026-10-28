@@ -85,6 +85,7 @@ details summary{cursor:pointer}
 .kpi{text-align:center}.kpi b{font:400 24px/1.1 var(--t)}.kpi span{font-size:12px;color:var(--mut)}
 .punto{width:9px;height:9px;border-radius:50%;display:inline-block}
 .mas{margin:-4px 0 12px}
+.eq{color:var(--acc);font-weight:600}.eqn{font-weight:700}
 </style>
 </head>
 <body>
@@ -140,11 +141,33 @@ function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; 
 function titPost(p){   // 28/10: en las combis de un partido, el partido delante («PARMA vs UDINESE»)
   const ls = String(p.texto||"").split("\n"), t0 = sinEmoji(p.titulo||ls[0]);
   return /COMBI LOCAS/.test(t0) && ls[1] ? `${esc(sinEmoji(ls[1]))} <span class="mut" style="font-weight:400">· ${esc(t0.replace(/^COMBI LOCAS \| /,""))}</span>` : esc(t0) }
+function resaltar(texto, partido, clase="eqn"){   // 28/10: en el pick, el equipo en negrita; debajo, el partido en verde
+  let h = esc(texto); const eqs = String(partido||"").split(/\s+[–-]\s+/).filter(x=>x.length>2).sort((a,b)=>b.length-a.length);
+  eqs.forEach(e => { const r = new RegExp(esc(e).replace(/[.*+?^${}()|[\]\\]/g,"\\$&"), "g"); h = h.replace(r, m => `<span class="${clase}">${m}</span>`) });
+  return h }
+const eqP = partido => resaltar(partido, partido, "eq");
+function emojiPata(texto){   // 28/10: un emoji por tipo de pata
+  const s = String(texto||"").toLowerCase();
+  if(/tarjeta/.test(s)) return "🟨";
+  if(/córner|corner/.test(s)) return "🚩";
+  if(/falta/.test(s)) return "🦶";
+  if(/fuera.? de juego/.test(s)) return "🚫";
+  if(/parada/.test(s)) return "🧤";
+  if(/asist/.test(s)) return "🅰️";
+  if(/a puerta/.test(s)) return "🎯";
+  if(/tiro|remate|shots?/.test(s)) return "👟";
+  if(/ambos marcan/.test(s)) return "🤝";
+  if(/descanso|1ª parte|2ª parte|alguna de las dos partes|las dos partes|mitad/.test(s)) return "⏱️";
+  if(/gol|marca/.test(s)) return "⚽";
+  if(/gana|empate|empata/.test(s)) return "🏆";
+  return "•";
+}
+const conEmoji = (texto, partido) => `<span style="display:inline-block;width:22px">${emojiPata(texto)}</span>${resaltar(texto, partido)}`;
 function toggle(k){ abiertos.has(k)?abiertos.delete(k):abiertos.add(k); pintar() }
 const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}\u{1F1E6}-\u{1F1FF}\u{E0060}-\u{E007F}]/gu,"").replace(/\s*[—–-]\s*$/,"").replace(/\s+/g," ").trim();
 
 /* ---------------- HOY ---------------- */
-function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${esc(p.texto)}</span><span class="mut">${esc(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
+function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">${eqP(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${chipEstado(p.estado)}</div>`).join("") }
 function resultadoPost(p){ const okN = p.picks.filter(x=>x.estado==="verde").length;
   if(p.lista) return `<span class="chip">${okN}/${p.picks.length} ✅</span>`;
   return p.estado==="verde"?`<span style="font-size:18px">✅</span>`:p.estado==="rojo"?`<span style="font-size:18px">❌</span>`:`<span class="chip">${okN}/${p.picks.length}</span>` }
@@ -152,12 +175,12 @@ function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las pat
   const k = "p:"+p.id, abierto = abiertos.has(k);
   const partido = /COMBI LOCAS/.test(p.titulo) && p.picks[0] && p.picks[0].partido ? p.picks[0].partido : "";
   const borde = p.lista?"":p.estado==="verde"?"ok-l":p.estado==="rojo"?"ko-l":"";
-  return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><div class="col sp"><span class="tit">${esc(sinEmoji(p.titulo))}</span>${partido?`<span class="mut">${esc(partido)}</span>`:""}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>
-    ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${esc(x.texto)}</span><span class="mut">${esc(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
+  return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span><div class="col sp"><span class="tit">${esc(sinEmoji(p.titulo))}</span>${partido?`<span class="mut">${eqP(partido)}</span>`:""}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>
+    ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${eqP(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
 }
 function filaPick(p){
   const k = "k:"+p.partido_id+"|"+p.texto, abierto = abiertos.has(k);
-  return `<div class="leg" onclick="toggle(${JSON.stringify(k).replace(/"/g,"&quot;")})" style="cursor:pointer"><div class="col sp"><span>${p.a_favor&&p.a_favor.top?"⭐ ":""}${esc(p.texto)}</span><span class="mut">${esc(p.partido)} · ${p.fecha.slice(11)}</span>${abierto?`<span class="mut">${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}`:""}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`;
+  return `<div class="leg" onclick="toggle(${JSON.stringify(k).replace(/"/g,"&quot;")})" style="cursor:pointer"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}${p.a_favor&&p.a_favor.top?" ⭐":""}</span><span class="mut" style="padding-left:22px">${eqP(p.partido)} · ${p.fecha.slice(11)}</span>${abierto?`<span class="mut">${esc(p.detalle||"")}</span>${extrasPick(p)}${sparkCuota(p)}`:""}${progresoPick(p)}</div><div class="col" style="align-items:flex-end;gap:3px"><span class="cuota">${n2(p.cuota)}</span><span class="chip">${p.pct_real??p.frecuencia}%</span></div>${p.estado!=="pendiente"?chipEstado(p.estado):""}</div>`;
 }
 function selectorDia(){ const ayer = ayerDe(D.hoy); return subTabs("hoydia", [[ayer,"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy) }
 function vHoy(){
