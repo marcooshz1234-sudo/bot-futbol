@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 28/10/2026 02:05 (hora España)._
+_Actualizado el 28/10/2026 08:00 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -92,5 +92,26 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles del local: Menos de 1.5 | 2.38 | 50% | 39% | 45% | **+6%** |
 | 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | Goles más/menos: Menos de 2.5 | 2.20 | 57% | 43% | 50% | **+11%** |
 | 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | Goles del local: Menos de 1.5 | 1.80 | 71% | 51% | 61% | **+10%** |
+
+## 03/11
+
+| Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
+|---|---|---|---|---|---|---|---|
+| 21:00 | [Atletico Madrid – Bayern München](informes/2026-11-03_atletico-madrid-vs-bayern-munchen.md) | Ambos marcan: No | 3.00 | 45% | 31% | 38% | **+14%** |
+| 21:00 | [Atletico Madrid – Bayern München](informes/2026-11-03_atletico-madrid-vs-bayern-munchen.md) | Goles más/menos: Menos de 2.5 | 3.00 | 42% | 32% | 37% | **+11%** |
+| 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Goles del local: Más de 1.5 | 2.50 | 50% | 38% | 44% | **+9%** |
+| 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Doble oportunidad: 1X | 2.30 | 53% | 41% | 47% | **+8%** |
+| 21:00 | [Barcelona – Aston Villa](informes/2026-11-03_barcelona-vs-aston-villa.md) | Goles del visitante: Más de 1.5 | 3.25 | 47% | 29% | 38% | **+23%** |
+| 21:00 | [Barcelona – Aston Villa](informes/2026-11-03_barcelona-vs-aston-villa.md) | Doble oportunidad: X2 | 4.00 | 37% | 24% | 31% | **+22%** |
+
+## 04/11
+
+| Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
+|---|---|---|---|---|---|---|---|
+| 21:00 | [Borussia Dortmund – Real Betis](informes/2026-11-04_borussia-dortmund-vs-real-betis.md) | Goles del visitante: Menos de 0.5 | 3.25 | 41% | 29% | 35% | **+14%** |
+| 21:00 | [Borussia Dortmund – Real Betis](informes/2026-11-04_borussia-dortmund-vs-real-betis.md) | Ambos marcan: No | 2.50 | 49% | 38% | 43% | **+9%** |
+| 21:00 | [RB Leipzig – Manchester City](informes/2026-11-04_rb-leipzig-vs-manchester-city.md) | Goles del local: Más de 1.5 | 2.50 | 50% | 38% | 44% | **+10%** |
+| 21:00 | [RB Leipzig – Manchester City](informes/2026-11-04_rb-leipzig-vs-manchester-city.md) | Doble oportunidad: 1X | 2.38 | 52% | 39% | 46% | **+8%** |
+| 21:00 | [Lens – Como](informes/2026-11-04_lens-vs-como.md) | Goles del visitante: Más de 2.5 | 3.50 | 35% | 27% | 31% | **+8%** |
 
 Ver el historial de aciertos en [RESULTADOS.md](RESULTADOS.md).

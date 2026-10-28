@@ -1,7 +1,7 @@
 # Bournemouth – Aston Villa
 **Carabao Cup** · Round of 16 · 28/10/2026 20:45 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:03_

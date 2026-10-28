@@ -1,10 +1,53 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **3.40**  ·  X **3.90**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.30**
+- **Ambos marcan:** Sí **1.36**  ·  No **3.00**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.62**  ·  2 **2.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.25**
+- **Win Both Halves:** 1 **11.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.00**  ·  Home/No **9.00**  ·  Draw/No **23.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **4.00**
+- **Away Player Shots On Target Total:** Morten Hjulmand **41.00**  ·  Lennart Karl **15.00**  ·  Jonathan David **13.00**  ·  Ismael Saibari **29.00**  ·  Kang-In Lee **29.00**  ·  Rodrigo Mendoza **11.00**  ·  Marc Pubill **51.00**  ·  Alexander Sorloth **5.50**  ·  David Hancko **13.00**  ·  Luis Diaz **15.00**  ·  Alex Baena **23.00**  ·  Alex Grimaldo **41.00**  ·  Julian Alvarez **23.00**  ·  Josip Stanisic **29.00**  ·  Jorge Koke **81.00**  ·  Obed Vargas **101.00**  ·  Dani Martinez **81.00**  ·  Bara Ndiaye **21.00**  ·  Arnau Ortiz **21.00**  ·  Tim Binder **23.00**  ·  Marcos Llorente **81.00**  ·  Robin Le Normand **21.00**  ·  Javier Gil **67.00**  ·  Johnny Cardoso **17.00**  ·  Cristian Romero **8.50**  ·  Giuliano Simeone **51.00**  ·  Pablo Barrios **51.00**  ·  Tom Bischof **41.00**  ·  Aleksandar Pavlovic **51.00**  ·  Alphonso Davies **51.00**  ·  Dayot Upamecano **21.00**  ·  Harry Kane **6.00**  ·  Jamal Musiala **17.00**  ·  Joshua Kimmich **34.00**  ·  Konrad Laimer **67.00**  ·  Michael Olise **29.00**  ·  Nathaniel Brown **41.00**  ·  Serge Gnabry **34.00**  ·  Min-Jae Kim **21.00**  ·  Sacha Boey **67.00**  ·  Ademola Lookman **26.00**  ·  Hiroki Ito **15.00**  ·  Jonathan Tah **12.00**
+- **Anytime Goal Scorer:** Morten Hjulmand **8.50**  ·  Lennart Karl **3.20**  ·  Jonathan David **2.50**  ·  Ismael Saibari **3.10**  ·  Kang-In Lee **3.50**  ·  Rodrigo Mendoza **4.50**  ·  Marc Pubill **10.00**  ·  Alexander Sorloth **2.38**  ·  David Hancko **7.50**  ·  Luis Diaz **3.10**  ·  Alex Baena **4.00**  ·  Alex Grimaldo **5.00**  ·  Julian Alvarez **2.62**  ·  Josip Stanisic **12.00**  ·  Jorge Koke **8.50**  ·  Obed Vargas **6.50**  ·  Dani Martinez **10.00**  ·  Jorge Castillo **6.50**  ·  Bara Ndiaye **5.00**  ·  Jorge Dominguez **10.00**  ·  Arnau Ortiz **3.50**  ·  Tim Binder **5.00**  ·  Marcos Llorente **8.50**  ·  Robin Le Normand **15.00**  ·  Javier Gil **7.50**  ·  Johnny Cardoso **8.50**  ·  Cristian Romero **6.50**  ·  Giuliano Simeone **6.00**  ·  Pablo Barrios **6.50**  ·  Tom Bischof **5.00**  ·  Aleksandar Pavlovic **7.50**  ·  Alphonso Davies **7.50**  ·  Dayot Upamecano **12.00**  ·  Harry Kane **1.83**  ·  Jamal Musiala **2.75**  ·  Joshua Kimmich **7.50**  ·  Konrad Laimer **7.50**  ·  Michael Olise **3.10**  ·  Nathaniel Brown **4.50**  ·  Serge Gnabry **3.20**  ·  Min-Jae Kim **15.00**  ·  Sacha Boey **7.50**  ·  Ademola Lookman **2.75**  ·  Hiroki Ito **7.50**  ·  Jonathan Tah **7.50**
+- **Player to Score or Assist:** Morten Hjulmand **5.00**  ·  Lennart Karl **2.05**  ·  Jonathan David **1.95**  ·  Ismael Saibari **2.05**  ·  Kang-In Lee **2.30**  ·  Rodrigo Mendoza **2.75**  ·  Marc Pubill **4.75**  ·  Alexander Sorloth **2.00**  ·  David Hancko **5.50**  ·  Luis Diaz **1.95**  ·  Alex Baena **2.25**  ·  Alex Grimaldo **2.60**  ·  Julian Alvarez **2.00**  ·  Josip Stanisic **4.00**  ·  Jorge Koke **5.00**  ·  Obed Vargas **3.40**  ·  Dani Martinez **5.50**  ·  Jorge Castillo **4.33**  ·  Bara Ndiaye **3.00**  ·  Jorge Dominguez **6.00**  ·  Arnau Ortiz **2.40**  ·  Tim Binder **2.62**  ·  Marcos Llorente **4.33**  ·  Robin Le Normand **10.00**  ·  Javier Gil **5.00**  ·  Johnny Cardoso **6.00**  ·  Cristian Romero **5.50**  ·  Giuliano Simeone **2.75**  ·  Pablo Barrios **3.75**  ·  Tom Bischof **2.88**  ·  Aleksandar Pavlovic **5.00**  ·  Alphonso Davies **4.00**  ·  Dayot Upamecano **8.50**  ·  Harry Kane **1.57**  ·  Jamal Musiala **1.91**  ·  Joshua Kimmich **3.10**  ·  Konrad Laimer **3.50**  ·  Michael Olise **1.73**  ·  Nathaniel Brown **2.62**  ·  Serge Gnabry **2.00**  ·  Min-Jae Kim **11.00**  ·  Sacha Boey **4.00**  ·  Ademola Lookman **2.00**  ·  Hiroki Ito **4.33**  ·  Jonathan Tah **6.00**
 
 ## Estadísticas de equipo
 | | Atletico Madrid (total) | Atletico Madrid en casa | Bayern München (total) | Bayern München fuera |
@@ -141,4 +184,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,02 · visitante 2,00 · córners esperados 9,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 60% | 48% | 54% | 1.95 | +6% |
+| 1X2: X | 21% | 24% | 23% | 3.90 | -12% |
+| 1X2: 1 | 19% | 28% | 23% | 3.40 | -21% |
+| Doble oportunidad: X2 | 81% | 72% | 77% | 1.30 | -0% |
+| Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
+| Doble oportunidad: 1X | 40% | 52% | 46% | 1.80 | -17% |
+| Ambos marcan: No ✅ | 45% | 31% | 38% | 3.00 | +14% |
+| Ambos marcan: Sí | 55% | 69% | 62% | 1.36 | -16% |
+| Goles más/menos: Más de 2.5 | 58% | 68% | 63% | 1.40 | -12% |
+| Goles más/menos: Más de 3.5 | 36% | 50% | 43% | 1.91 | -18% |
+| Goles más/menos: Más de 4.5 | 19% | 30% | 24% | 3.20 | -22% |
+| Goles más/menos: Menos de 2.5 ✅ | 42% | 32% | 37% | 3.00 | +11% |
+| Goles más/menos: Menos de 3.5 | 64% | 50% | 57% | 1.91 | +9% |
+| Goles más/menos: Menos de 4.5 | 81% | 70% | 76% | 1.36 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 23% | 19% | 4.00 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
+| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
+| Goles del local: Más de 1.5 | 27% | 46% | 37% | 2.00 | -27% |
+| Goles del local: Más de 2.5 | 8% | 22% | 15% | 4.33 | -35% |
+| Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +19% |
+| Goles del local: Menos de 1.5 | 73% | 54% | 63% | 1.73 | +10% |
+| Goles del local: Menos de 2.5 | 92% | 78% | 85% | 1.20 | +2% |
+| Goles del visitante: Más de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
+| Goles del visitante: Más de 2.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles del visitante: Menos de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
+| Goles del visitante: Menos de 2.5 | 68% | 65% | 66% | 1.44 | -5% |
+| 1X2 descanso: 2 | 44% | 38% | 41% | 2.40 | -1% |
+| 1X2 descanso: X | 38% | 35% | 37% | 2.62 | -3% |
+| 1X2 descanso: 1 | 18% | 26% | 22% | 3.50 | -23% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

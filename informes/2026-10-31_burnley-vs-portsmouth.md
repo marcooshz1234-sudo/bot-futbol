@@ -1,7 +1,7 @@
 # Burnley – Portsmouth
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Actualizadas: 27/10 13:52_

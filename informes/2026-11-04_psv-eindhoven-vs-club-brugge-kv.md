@@ -1,10 +1,52 @@
 # PSV Eindhoven – Club Brugge KV
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **2.05**  ·  X **4.10**  ·  2 **2.90**
+- **Doble oportunidad:** 1X **1.40**  ·  12 **1.22**  ·  X2 **1.73**
+- **Ambos marcan:** Sí **1.36**  ·  No **3.00**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.36** · menos **3.20**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.62**  ·  2 **3.25**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
+- **To Win Either Half:** 1 **1.53**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **3.00**
+- **Win Both Halves:** 1 **6.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **26.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.53**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **4.00**
+- **Away Player Shots On Target Total:** Sergino Dest **13.00**  ·  Brandon Mechele **15.00**  ·  Hans Vanaken **19.00**  ·  Hugo Vetlesen **21.00**  ·  Joaquin Seys **81.00**  ·  Guus Til **11.00**  ·  Ivan Perisic **19.00**  ·  Ryan Flamingo **17.00**  ·  Esmir Bajraktarevic **29.00**  ·  Han-beom Lee **13.00**  ·  Ayoni Santos **10.00**  ·  Jan Virgili **29.00**  ·  Noah Fernandez **51.00**  ·  Ricardo Pepi **5.50**  ·  Freddie Potts **23.00**  ·  Mamadou Diakhon **23.00**  ·  Felix Lemarechal **29.00**  ·  Romeo Vermant **11.00**  ·  Lynnt Audoor **19.00**  ·  Kyriani Sabbe **81.00**  ·  Jorne Spileers **23.00**  ·  Hugo Siquet **101.00**  ·  Nicolo Tresoldi **3.40**  ·  Kodai Sano **41.00**  ·  Yarek Gasiorowski **10.00**  ·  Sami Ouaissa **41.00**  ·  Mauro Junior **81.00**  ·  Matteo Dams **29.00**  ·  Adamo Nagalo **17.00**  ·  Armando Obispo **15.00**  ·  Filip Kostic **15.00**  ·  Ruben van Bommel **17.00**  ·  Sven Mijnans **9.00**  ·  Fabian Merien **17.00**  ·  Tian Nai Koren **19.00**  ·  Samba Coulibaly **17.00**  ·  Cheveyo Tsawa **41.00**  ·  Shuryjano Cornecion **10.00**  ·  Amir Bouhamdi **19.00**  ·  Andrej Vasovic **10.00**  ·  Wout Verlinden **15.00**  ·  Milan Robberechts **26.00**  ·  Carlos Forbs **29.00**  ·  Lutsharel Geertruida **11.00**  ·  Paul Wanner **34.00**  ·  Dennis Man **29.00**  ·  Mikkel Bro Hansen **9.00**
+- **Anytime Goal Scorer:** Sergino Dest **8.00**  ·  Brandon Mechele **10.00**  ·  Hans Vanaken **4.75**  ·  Hugo Vetlesen **3.50**  ·  Joaquin Seys **10.00**  ·  Guus Til **2.40**  ·  Ivan Perisic **3.75**  ·  Ryan Flamingo **10.00**  ·  Esmir Bajraktarevic **3.50**  ·  Han-beom Lee **10.00**  ·  Ayoni Santos **4.00**  ·  Jan Virgili **3.75**  ·  Noah Fernandez **6.50**  ·  Ricardo Pepi **2.40**  ·  Freddie Potts **8.50**  ·  Mamadou Diakhon **3.75**  ·  Felix Lemarechal **4.75**  ·  Romeo Vermant **2.75**  ·  Lynnt Audoor **7.00**  ·  Kyriani Sabbe **8.50**  ·  Jorne Spileers **10.00**  ·  Hugo Siquet **12.00**  ·  Nicolo Tresoldi **2.10**  ·  Kodai Sano **6.50**  ·  Yarek Gasiorowski **8.00**  ·  Sami Ouaissa **3.10**  ·  Mauro Junior **8.50**  ·  Matteo Dams **10.00**  ·  Adamo Nagalo **10.00**  ·  Armando Obispo **10.00**  ·  Filip Kostic **4.75**  ·  Ruben van Bommel **3.50**  ·  Sven Mijnans **2.40**  ·  Fabian Merien **10.00**  ·  Tian Nai Koren **4.00**  ·  Samba Coulibaly **10.00**  ·  Cheveyo Tsawa **6.50**  ·  Shuryjano Cornecion **4.00**  ·  Amir Bouhamdi **3.75**  ·  Andrej Vasovic **3.10**  ·  Wout Verlinden **8.00**  ·  Milan Robberechts **4.00**  ·  Carlos Forbs **3.75**  ·  Lutsharel Geertruida **8.00**  ·  Paul Wanner **4.75**  ·  Dennis Man **3.75**  ·  Mikkel Bro Hansen **2.40**
+- **Player to Score or Assist:** Sergino Dest **2.88**  ·  Brandon Mechele **5.00**  ·  Hans Vanaken **2.30**  ·  Hugo Vetlesen **2.62**  ·  Joaquin Seys **6.00**  ·  Guus Til **1.91**  ·  Ivan Perisic **2.20**  ·  Ryan Flamingo **5.50**  ·  Esmir Bajraktarevic **2.25**  ·  Han-beom Lee **7.00**  ·  Ayoni Santos **2.88**  ·  Jan Virgili **2.20**  ·  Noah Fernandez **3.10**  ·  Ricardo Pepi **1.95**  ·  Freddie Potts **4.50**  ·  Mamadou Diakhon **2.60**  ·  Felix Lemarechal **2.60**  ·  Romeo Vermant **1.95**  ·  Lynnt Audoor **3.75**  ·  Kyriani Sabbe **3.75**  ·  Jorne Spileers **6.00**  ·  Hugo Siquet **6.50**  ·  Nicolo Tresoldi **1.73**  ·  Kodai Sano **3.50**  ·  Yarek Gasiorowski **5.50**  ·  Sami Ouaissa **2.10**  ·  Mauro Junior **3.40**  ·  Matteo Dams **5.50**  ·  Adamo Nagalo **5.50**  ·  Armando Obispo **7.00**  ·  Filip Kostic **2.30**  ·  Ruben van Bommel **2.25**  ·  Sven Mijnans **1.73**  ·  Fabian Merien **5.50**  ·  Tian Nai Koren **2.50**  ·  Samba Coulibaly **6.00**  ·  Cheveyo Tsawa **4.50**  ·  Shuryjano Cornecion **2.88**  ·  Amir Bouhamdi **2.20**  ·  Andrej Vasovic **2.50**  ·  Wout Verlinden **5.00**  ·  Milan Robberechts **2.38**  ·  Carlos Forbs **2.20**  ·  Lutsharel Geertruida **3.40**  ·  Paul Wanner **2.88**  ·  Dennis Man **2.30**  ·  Mikkel Bro Hansen **1.83**
 
 ## Estadísticas de equipo
 | | PSV Eindhoven (total) | PSV Eindhoven en casa | Club Brugge KV (total) | Club Brugge KV fuera |

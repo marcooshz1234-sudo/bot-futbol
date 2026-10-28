@@ -1,7 +1,7 @@
 # Atlético Baleares – Eldense
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España) · Estadio Balear
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

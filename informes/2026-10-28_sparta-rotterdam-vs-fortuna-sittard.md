@@ -1,7 +1,7 @@
 # Sparta Rotterdam – Fortuna Sittard
 **KNVB Beker** · Round of 64 · 28/10/2026 18:45 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:02_

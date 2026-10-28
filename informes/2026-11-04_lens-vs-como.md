@@ -1,10 +1,51 @@
 # Lens – Como
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **3.00**  ·  X **3.75**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.50**  ·  2 **2.62**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.62**
+- **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
+- **Away Player Shots On Target Total:** Souleymane Sagnan **19.00**  ·  Martin Baturina **29.00**  ·  Abdallah Sima **10.00**  ·  Andrija Bulatovic **19.00**  ·  Nicolas Paz **17.00**  ·  Florian Sotoca **9.50**  ·  Maxence Caqueret **41.00**  ·  Ruben Aguilar **26.00**  ·  Kyllian Antonio **21.00**  ·  Jonathan Gradit **19.00**  ·  Franjo Ivanovic **26.00**  ·  Samson Baidoo **19.00**  ·  Michal Skoras **17.00**  ·  Odsonne Edouard **7.50**  ·  Yacine Titraoui **26.00**  ·  Yan Couto **81.00**  ·  Alberto Dossena **11.00**  ·  Edoardo Goldaniga **13.00**  ·  Lucas Da Cunha **34.00**  ·  Marc-Oliver Kempf **13.00**  ·  Alex Valle **67.00**  ·  Mickael Cuisance **23.00**  ·  Adrian Lahdo **26.00**  ·  Jayden Addai **29.00**  ·  Maximo Perrone **41.00**  ·  Jacobo Ramon **12.00**  ·  Pierre Ganiou **19.00**  ·  Mattia Liberali **34.00**  ·  Mezian Mesloub **19.00**  ·  Luis Milla **81.00**  ·  Assane Diao **29.00**  ·  Jean-Clair Todibo **17.00**  ·  Moise Kean **7.50**  ·  Saud Abdulhamid **29.00**  ·  Jesus Rodriguez **21.00**  ·  Amadou Haidara **17.00**  ·  Willy Kambwala **17.00**  ·  Samuele Ricci **51.00**  ·  Anastasios Douvikas **15.00**  ·  Florian Thauvin **26.00**  ·  Trevoh Chalobah **15.00**  ·  Matthieu Udol **41.00**  ·  Thorgan Hazard **15.00**  ·  Ivan Smolcic **26.00**  ·  Nidel Celik **17.00**  ·  Kaiki **29.00**
+- **Anytime Goal Scorer:** Souleymane Sagnan **11.00**  ·  Martin Baturina **3.20**  ·  Abdallah Sima **3.20**  ·  Andrija Bulatovic **5.00**  ·  Nicolas Paz **2.60**  ·  Florian Sotoca **3.00**  ·  Maxence Caqueret **5.00**  ·  Ruben Aguilar **7.00**  ·  Kyllian Antonio **11.00**  ·  Jonathan Gradit **11.00**  ·  Franjo Ivanovic **2.88**  ·  Samson Baidoo **11.00**  ·  Michal Skoras **4.33**  ·  Odsonne Edouard **2.60**  ·  Yacine Titraoui **7.00**  ·  Yan Couto **9.50**  ·  Alberto Dossena **8.50**  ·  Edoardo Goldaniga **11.00**  ·  Lucas Da Cunha **4.33**  ·  Marc-Oliver Kempf **9.50**  ·  Alex Valle **7.50**  ·  Mickael Cuisance **5.00**  ·  Adrian Lahdo **5.50**  ·  Junior Kadile **3.75**  ·  Jayden Addai **3.20**  ·  Maximo Perrone **7.50**  ·  Jacobo Ramon **7.50**  ·  Pierre Ganiou **11.00**  ·  Mattia Liberali **3.75**  ·  Mezian Mesloub **3.75**  ·  Luis Milla **5.00**  ·  Assane Diao **3.20**  ·  Jean-Clair Todibo **9.50**  ·  Moise Kean **2.25**  ·  Saud Abdulhamid **8.50**  ·  Jesus Rodriguez **3.20**  ·  Amadou Haidara **7.00**  ·  Willy Kambwala **13.00**  ·  Samuele Ricci **7.00**  ·  Anastasios Douvikas **2.40**  ·  Florian Thauvin **3.00**  ·  Trevoh Chalobah **9.50**  ·  Matthieu Udol **7.50**  ·  Thorgan Hazard **3.00**  ·  Ivan Smolcic **11.00**  ·  Nidel Celik **9.50**  ·  Kaiki **8.50**
+- **Player to Score or Assist:** Souleymane Sagnan **6.50**  ·  Martin Baturina **2.00**  ·  Abdallah Sima **2.40**  ·  Andrija Bulatovic **3.50**  ·  Nicolas Paz **1.83**  ·  Florian Sotoca **2.10**  ·  Maxence Caqueret **3.00**  ·  Ruben Aguilar **3.50**  ·  Kyllian Antonio **6.00**  ·  Jonathan Gradit **6.50**  ·  Franjo Ivanovic **2.20**  ·  Samson Baidoo **6.50**  ·  Michal Skoras **3.10**  ·  Odsonne Edouard **2.10**  ·  Yacine Titraoui **4.00**  ·  Yan Couto **3.40**  ·  Alberto Dossena **3.60**  ·  Edoardo Goldaniga **8.00**  ·  Lucas Da Cunha **2.75**  ·  Marc-Oliver Kempf **6.50**  ·  Alex Valle **3.50**  ·  Mickael Cuisance **3.40**  ·  Adrian Lahdo **3.10**  ·  Junior Kadile **2.40**  ·  Jayden Addai **2.30**  ·  Maximo Perrone **3.75**  ·  Jacobo Ramon **5.50**  ·  Pierre Ganiou **6.50**  ·  Mattia Liberali **2.50**  ·  Mezian Mesloub **2.38**  ·  Luis Milla **2.40**  ·  Assane Diao **2.30**  ·  Jean-Clair Todibo **6.00**  ·  Moise Kean **1.80**  ·  Saud Abdulhamid **3.40**  ·  Jesus Rodriguez **2.00**  ·  Amadou Haidara **4.00**  ·  Willy Kambwala **7.00**  ·  Samuele Ricci **4.00**  ·  Anastasios Douvikas **2.05**  ·  Florian Thauvin **2.05**  ·  Trevoh Chalobah **7.00**  ·  Matthieu Udol **3.10**  ·  Thorgan Hazard **2.25**  ·  Ivan Smolcic **6.00**  ·  Nidel Celik **4.00**  ·  Kaiki **4.00**
 
 ## Estadísticas de equipo
 | | Lens (total) | Lens en casa | Como (total) | Como fuera |
@@ -136,4 +177,38 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,37 · visitante 2,09 · córners esperados 9,8._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 54% | 44% | 49% | 2.15 | +5% |
+| 1X2: X | 21% | 25% | 23% | 3.75 | -14% |
+| 1X2: 1 | 25% | 31% | 28% | 3.00 | -16% |
+| Doble oportunidad: X2 | 75% | 69% | 72% | 1.36 | -2% |
+| Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
+| Doble oportunidad: 1X | 46% | 56% | 51% | 1.67 | -15% |
+| Ambos marcan: No | 35% | 35% | 35% | 2.62 | -8% |
+| Ambos marcan: Sí | 65% | 65% | 65% | 1.44 | -7% |
+| Goles más/menos: Más de 2.5 | 67% | 64% | 65% | 1.50 | -2% |
+| Goles más/menos: Más de 3.5 | 45% | 43% | 44% | 2.20 | -3% |
+| Goles más/menos: Más de 4.5 | 27% | 24% | 25% | 4.00 | +1% |
+| Goles más/menos: Menos de 2.5 | 33% | 36% | 35% | 2.62 | -9% |
+| Goles más/menos: Menos de 3.5 | 55% | 57% | 56% | 1.67 | -7% |
+| Goles más/menos: Menos de 4.5 | 73% | 76% | 75% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
+| Goles del local: Más de 0.5 | 75% | 77% | 76% | 1.22 | -8% |
+| Goles del local: Más de 1.5 | 40% | 44% | 42% | 2.10 | -12% |
+| Goles del local: Más de 2.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles del local: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -2% |
+| Goles del local: Menos de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
+| Goles del local: Menos de 2.5 | 84% | 79% | 82% | 1.18 | -4% |
+| Goles del visitante: Más de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
+| Goles del visitante: Más de 2.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
+| Goles del visitante: Menos de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
+| Goles del visitante: Menos de 2.5 | 65% | 73% | 69% | 1.28 | -11% |
+| 1X2 descanso: 2 | 41% | 35% | 38% | 2.62 | +0% |
+| 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: 1 | 23% | 27% | 25% | 3.40 | -15% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Manchester City – Brighton
 **Carabao Cup** · Round of 16 · 28/10/2026 20:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:03_

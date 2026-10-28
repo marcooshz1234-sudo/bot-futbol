@@ -1,10 +1,52 @@
 # Villarreal – Paris Saint Germain
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **4.50**  ·  X **4.50**  ·  2 **1.57**
+- **Doble oportunidad:** 1X **2.30**  ·  12 **1.18**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.36** · menos **3.20**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.75**  ·  2 **2.05**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **2.00**
+- **Win Both Halves:** 1 **17.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.60**  ·  Home/No **11.00**  ·  Draw/No **26.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **4.00**
+- **Away Player Shots On Target Total:** Achraf Hakimi **41.00**  ·  Willian Pacho **15.00**  ·  Maghnes Akliouche **21.00**  ·  Quentin Ndjantou **12.00**  ·  Warren Zaire Emery **51.00**  ·  Ousmane Dembele **19.00**  ·  Nicolas Pepe **29.00**  ·  Georges Mikautadze **26.00**  ·  Joao Neves **29.00**  ·  Marquinhos **11.00**  ·  Lucas Beraldo **9.50**  ·  Fabian Ruiz **41.00**  ·  Santiago Mourino **11.00**  ·  Dro Fernandez **15.00**  ·  Desire Doue **21.00**  ·  Senny Mayulu **15.00**  ·  Lucas Hernandez **13.00**  ·  Mika Godts **19.00**  ·  Moreno Gerard **26.00**  ·  Ayoze Perez **13.00**  ·  Tajon Buchanan **34.00**  ·  Santiago Comesana **41.00**  ·  Tani Oluwaseyi **15.00**  ·  Alex Freeman **13.00**  ·  Nathan-Dylan Saliba **34.00**  ·  Carlos Macia **21.00**  ·  Alberto Moleiro **21.00**  ·  Ferran Torres **10.00**  ·  Ilias Akhomach **34.00**  ·  Pape Gueye **26.00**  ·  Sergi Cardona **41.00**  ·  Illia Zabarnyi **12.00**  ·  Lucas Digne **81.00**  ·  Renato Veiga **29.00**  ·  Pau Navarro **17.00**  ·  Logan Costa **26.00**  ·  Juan Foyth **19.00**  ·  Vitinha **41.00**  ·  Alassane Diatta **29.00**  ·  Carlos Romero **67.00**
+- **Anytime Goal Scorer:** Achraf Hakimi **4.75**  ·  Willian Pacho **8.00**  ·  Maghnes Akliouche **2.40**  ·  Quentin Ndjantou **2.50**  ·  Warren Zaire Emery **6.00**  ·  Ousmane Dembele **2.00**  ·  Nicolas Pepe **3.20**  ·  Georges Mikautadze **2.75**  ·  Joao Neves **5.00**  ·  Marquinhos **7.00**  ·  Lucas Beraldo **6.00**  ·  Fabian Ruiz **5.00**  ·  Santiago Mourino **8.50**  ·  Dro Fernandez **3.20**  ·  Desire Doue **2.40**  ·  Senny Mayulu **2.50**  ·  Lucas Hernandez **8.00**  ·  Mika Godts **2.10**  ·  Moreno Gerard **2.75**  ·  Ayoze Perez **2.75**  ·  Tajon Buchanan **4.75**  ·  Santiago Comesana **8.50**  ·  Tani Oluwaseyi **3.20**  ·  Alex Freeman **8.00**  ·  Nathan-Dylan Saliba **8.00**  ·  Carlos Macia **8.50**  ·  Jose Gaitan Diaz **4.75**  ·  Alberto Moleiro **3.50**  ·  Nizar El Jmili **5.00**  ·  Ferran Torres **2.10**  ·  Ilias Akhomach **3.75**  ·  Pape Gueye **6.50**  ·  Sergi Cardona **8.50**  ·  Illia Zabarnyi **8.00**  ·  Lucas Digne **8.50**  ·  Renato Veiga **10.00**  ·  Pau Navarro **12.00**  ·  Logan Costa **15.00**  ·  Juan Foyth **15.00**  ·  Vitinha **4.75**  ·  Alassane Diatta **6.50**  ·  Carlos Romero **7.00**
+- **Player to Score or Assist:** Achraf Hakimi **2.50**  ·  Willian Pacho **4.50**  ·  Maghnes Akliouche **1.67**  ·  Quentin Ndjantou **1.95**  ·  Warren Zaire Emery **3.25**  ·  Ousmane Dembele **1.50**  ·  Nicolas Pepe **2.25**  ·  Georges Mikautadze **2.10**  ·  Joao Neves **2.75**  ·  Marquinhos **5.00**  ·  Lucas Beraldo **4.33**  ·  Fabian Ruiz **3.00**  ·  Santiago Mourino **5.00**  ·  Dro Fernandez **2.20**  ·  Desire Doue **1.73**  ·  Senny Mayulu **1.95**  ·  Lucas Hernandez **4.00**  ·  Mika Godts **1.57**  ·  Moreno Gerard **2.20**  ·  Ayoze Perez **2.20**  ·  Tajon Buchanan **2.88**  ·  Santiago Comesana **4.50**  ·  Tani Oluwaseyi **2.20**  ·  Alex Freeman **4.00**  ·  Nathan-Dylan Saliba **4.33**  ·  Carlos Macia **4.75**  ·  Jose Gaitan Diaz **2.75**  ·  Alberto Moleiro **2.40**  ·  Nizar El Jmili **2.88**  ·  Ferran Torres **1.73**  ·  Ilias Akhomach **2.50**  ·  Pape Gueye **4.00**  ·  Sergi Cardona **4.75**  ·  Illia Zabarnyi **4.50**  ·  Lucas Digne **3.10**  ·  Renato Veiga **6.50**  ·  Pau Navarro **7.50**  ·  Logan Costa **11.00**  ·  Juan Foyth **7.00**  ·  Vitinha **2.50**  ·  Alassane Diatta **4.00**  ·  Carlos Romero **4.00**
 
 ## Estadísticas de equipo
 | | Villarreal (total) | Villarreal en casa | Paris Saint Germain (total) | Paris Saint Germain fuera |
@@ -136,4 +178,40 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,68 · visitante 2,06 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 47% | 59% | 53% | 1.57 | -17% |
+| 1X2: X | 21% | 21% | 21% | 4.50 | -6% |
+| 1X2: 1 | 32% | 21% | 26% | 4.50 | +18% |
+| Doble oportunidad: X2 | 68% | 80% | 74% | 1.18 | -13% |
+| Doble oportunidad: 12 | 79% | 80% | 79% | 1.18 | -6% |
+| Doble oportunidad: 1X ✅ | 53% | 41% | 47% | 2.30 | +8% |
+| Ambos marcan: No | 29% | 35% | 32% | 2.62 | -16% |
+| Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -2% |
+| Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -3% |
+| Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.91 | -3% |
+| Goles más/menos: Más de 4.5 | 32% | 30% | 31% | 3.20 | -1% |
+| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.20 | -8% |
+| Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.91 | -6% |
+| Goles más/menos: Menos de 4.5 | 68% | 70% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
+| Goles del local: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +9% |
+| Goles del local: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
+| Goles del local: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
+| Goles del visitante: Más de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles del visitante: Más de 2.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles del visitante: Más de 3.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del visitante: Menos de 1.5 | 39% | 34% | 36% | 2.75 | -0% |
+| Goles del visitante: Menos de 2.5 | 66% | 59% | 62% | 1.57 | -2% |
+| Goles del visitante: Menos de 3.5 | 85% | 78% | 81% | 1.20 | -2% |
+| 1X2 descanso: 2 | 37% | 45% | 41% | 2.05 | -15% |
+| 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -5% |
+| 1X2 descanso: 1 | 28% | 21% | 24% | 4.50 | +9% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

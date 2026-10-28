@@ -1,10 +1,52 @@
 # Feyenoord – Inter
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **4.20**  ·  X **4.10**  ·  2 **1.70**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.22**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.60**  ·  2 **2.20**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **2.38**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.10**
+- **Win Both Halves:** 1 **15.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.75**  ·  Home/No **10.00**  ·  Draw/No **21.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.60**
+- **Away Player Shots On Target Total:** Thijs Kraaijeveld **17.00**  ·  Petar Sucic **34.00**  ·  Anis Hadj Moussa **34.00**  ·  Hakan Calhanoglu **34.00**  ·  Aleksandar Stankovic **23.00**  ·  Gaoussou Diarra **29.00**  ·  Pio Esposito **5.00**  ·  Oussama Targhaline **101.00**  ·  Andy Diouf **41.00**  ·  Nacho Ferri **9.00**  ·  Tsuyoshi Watanabe **17.00**  ·  Charles Vanhoutte **41.00**  ·  Mattia Mosconi **19.00**  ·  Sem Steijn **34.00**  ·  Luciano Valente **41.00**  ·  Javier Lopez **51.00**  ·  Mika Marmol **21.00**  ·  Givairo Read **81.00**  ·  Mats Deijl **51.00**  ·  Nicolo Barella **51.00**  ·  Shaqueel van Persie **13.00**  ·  Leonardo Bovo **41.00**  ·  Jerayno Schaken **29.00**  ·  Jerry St Juste **34.00**  ·  Goncalo Borges **41.00**  ·  Jivayno Zinhagel **23.00**  ·  Tijme Wessels **15.00**  ·  Curtis Jones **67.00**  ·  Theodoris Deligiannidis **15.00**  ·  John Stones **13.00**  ·  Manuel Akanji **13.00**  ·  Reiss Nelson **101.00**  ·  Gjivai Zechiel **15.00**  ·  Djed Spence **41.00**  ·  Ange Bonny **13.00**  ·  Alessandro Bastoni **13.00**  ·  Federico Dimarco **41.00**  ·  Henrikh Mkhitaryan **34.00**  ·  Marcus Thuram **8.00**  ·  Piotr Zielinski **67.00**  ·  Carlos Augusto **34.00**  ·  Yann Aurel Bisseck **9.50**  ·  Tobias van den Elshout **51.00**  ·  Luis Henrique de Lima **34.00**
+- **Anytime Goal Scorer:** Thijs Kraaijeveld **10.00**  ·  Petar Sucic **5.50**  ·  Anis Hadj Moussa **4.00**  ·  Hakan Calhanoglu **3.25**  ·  Aleksandar Stankovic **4.75**  ·  Gaoussou Diarra **6.00**  ·  Pio Esposito **2.20**  ·  Oussama Targhaline **13.00**  ·  Andy Diouf **4.75**  ·  Nacho Ferri **3.00**  ·  Tsuyoshi Watanabe **13.00**  ·  Charles Vanhoutte **7.00**  ·  Mattia Mosconi **2.88**  ·  Sem Steijn **3.60**  ·  Luciano Valente **4.75**  ·  Javier Lopez **13.00**  ·  Mika Marmol **15.00**  ·  Givairo Read **13.00**  ·  Mats Deijl **10.00**  ·  Nicolo Barella **5.50**  ·  Shaqueel van Persie **4.00**  ·  Leonardo Bovo **6.50**  ·  Jerayno Schaken **4.75**  ·  Jerry St Juste **10.00**  ·  Goncalo Borges **4.75**  ·  Jivayno Zinhagel **4.75**  ·  Tijme Wessels **9.00**  ·  Curtis Jones **4.33**  ·  Theodoris Deligiannidis **3.60**  ·  Francesco Stante **6.50**  ·  John Stones **8.00**  ·  Manuel Akanji **8.00**  ·  Reiss Nelson **4.75**  ·  Gjivai Zechiel **4.00**  ·  Djed Spence **9.00**  ·  Ange Bonny **2.20**  ·  Alessandro Bastoni **8.00**  ·  Federico Dimarco **4.75**  ·  Henrikh Mkhitaryan **4.00**  ·  Marcus Thuram **1.91**  ·  Piotr Zielinski **4.00**  ·  Carlos Augusto **6.00**  ·  Yann Aurel Bisseck **6.50**  ·  Tobias van den Elshout **6.00**  ·  Luis Henrique de Lima **4.33**
+- **Player to Score or Assist:** Thijs Kraaijeveld **6.50**  ·  Petar Sucic **2.62**  ·  Anis Hadj Moussa **2.62**  ·  Hakan Calhanoglu **2.00**  ·  Aleksandar Stankovic **3.20**  ·  Gaoussou Diarra **3.75**  ·  Pio Esposito **1.73**  ·  Oussama Targhaline **5.00**  ·  Andy Diouf **2.62**  ·  Nacho Ferri **2.40**  ·  Tsuyoshi Watanabe **7.50**  ·  Charles Vanhoutte **3.75**  ·  Mattia Mosconi **1.91**  ·  Sem Steijn **2.30**  ·  Luciano Valente **2.75**  ·  Javier Lopez **5.50**  ·  Mika Marmol **6.00**  ·  Givairo Read **4.33**  ·  Mats Deijl **4.33**  ·  Nicolo Barella **2.75**  ·  Shaqueel van Persie **2.88**  ·  Leonardo Bovo **3.25**  ·  Jerayno Schaken **3.00**  ·  Jerry St Juste **6.50**  ·  Goncalo Borges **3.00**  ·  Jivayno Zinhagel **3.00**  ·  Tijme Wessels **6.00**  ·  Curtis Jones **2.75**  ·  Theodoris Deligiannidis **2.75**  ·  Francesco Stante **4.33**  ·  John Stones **5.50**  ·  Manuel Akanji **4.75**  ·  Reiss Nelson **2.88**  ·  Gjivai Zechiel **2.75**  ·  Djed Spence **4.75**  ·  Ange Bonny **1.73**  ·  Alessandro Bastoni **3.75**  ·  Federico Dimarco **2.25**  ·  Henrikh Mkhitaryan **2.40**  ·  Marcus Thuram **1.53**  ·  Piotr Zielinski **2.30**  ·  Carlos Augusto **2.88**  ·  Yann Aurel Bisseck **5.50**  ·  Tobias van den Elshout **4.00**  ·  Luis Henrique de Lima **2.20**
 
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | Inter (total) | Inter fuera |
@@ -137,4 +179,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 2,13 · visitante 1,82 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 55% | 44% | 1.70 | -25% |
+| 1X2: X | 21% | 23% | 22% | 4.10 | -11% |
+| 1X2: 1 | 46% | 22% | 34% | 4.20 | +42% |
+| Doble oportunidad: X2 | 54% | 77% | 66% | 1.22 | -20% |
+| Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -4% |
+| Doble oportunidad: 1X | 66% | 45% | 56% | 2.10 | +17% |
+| Ambos marcan: No | 26% | 35% | 31% | 2.62 | -19% |
+| Ambos marcan: Sí | 74% | 65% | 69% | 1.44 | -0% |
+| Goles más/menos: Más de 2.5 | 75% | 66% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 3.5 | 56% | 47% | 52% | 2.00 | +3% |
+| Goles más/menos: Más de 4.5 | 36% | 28% | 32% | 3.40 | +9% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles más/menos: Menos de 3.5 | 44% | 53% | 48% | 1.80 | -13% |
+| Goles más/menos: Menos de 4.5 | 64% | 72% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 25% | 22% | 23% | 4.33 | +0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles del local: Más de 0.5 | 88% | 72% | 80% | 1.30 | +4% |
+| Goles del local: Más de 1.5 | 63% | 38% | 50% | 2.50 | +25% |
+| Goles del local: Menos de 0.5 | 12% | 28% | 20% | 3.40 | -33% |
+| Goles del local: Menos de 1.5 | 37% | 62% | 50% | 1.50 | -25% |
+| Goles del visitante: Más de 1.5 | 54% | 62% | 58% | 1.50 | -12% |
+| Goles del visitante: Más de 2.5 | 28% | 38% | 33% | 2.50 | -19% |
+| Goles del visitante: Menos de 1.5 | 46% | 38% | 42% | 2.50 | +4% |
+| Goles del visitante: Menos de 2.5 | 72% | 62% | 67% | 1.50 | +1% |
+| 1X2 descanso: 2 | 29% | 42% | 36% | 2.20 | -21% |
+| 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
+| 1X2 descanso: 1 | 37% | 22% | 29% | 4.33 | +26% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

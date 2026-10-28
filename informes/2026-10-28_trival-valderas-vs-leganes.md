@@ -1,10 +1,38 @@
 # Trival Valderas – Leganes
 **Copa del Rey** · Round of 128 · 28/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:58_
+
+- **1X2:** 2 **1.18**  ·  X **6.00**  ·  1 **13.00**
+- **Doble oportunidad:** Away/Draw **1.04**  ·  Away/Home **1.12**  ·  Draw/Home **4.50**
+- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.65** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **2.25** · menos **1.57**
+    - 1,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 2 **1.57**  ·  X **2.75**  ·  1 **13.00**
+- **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
+- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
+- **To Win Either Half:** 2 **1.12**  ·  1 **6.00**
+- **To Score In Both Halves By Teams:** 2 **1.83**  ·  1 **15.00**
+- **Win Both Halves:** 2 **2.38**  ·  1 **67.00**
+- **Results/Both Teams Score:** Away/Yes **3.40**  ·  Draw/Yes **9.00**  ·  Home/Yes **26.00**  ·  Away/No **1.73**  ·  Draw/No **13.00**  ·  Home/No **21.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **3.20**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Trival Valderas (total) | Trival Valderas en casa | Leganes (total) | Leganes fuera |

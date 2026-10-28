@@ -1,10 +1,50 @@
 # Shakhtar Donetsk – Sporting CP
 **Champions League** · League Stage - 4 · 03/11/2026 18:45 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **3.70**  ·  X **3.70**  ·  2 **1.90**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.28**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.20**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.38**  ·  2 **2.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.62**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.50**  ·  Home/No **7.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Luis Guilherme Lira **26.00**  ·  Marlon da Silva **34.00**  ·  Zeno Debast **34.00**  ·  Alaa Ghram **19.00**  ·  Dmytro Kryskiv **34.00**  ·  Mykola Matviyenko **26.00**  ·  Moncef Zekri **17.00**  ·  Luis Suarez **10.00**  ·  Alisson Santana **51.00**  ·  Lucas Ferreira **51.00**  ·  Georgios Vagiannidis **34.00**  ·  Gabriel Carvalho **51.00**  ·  Valeriy Bondar **23.00**  ·  Goncalo Inacio **15.00**  ·  Maximiliano Araujo **51.00**  ·  Oleg Ocheretko **29.00**  ·  Pedrinho da Silva **51.00**  ·  Severino Isaque **51.00**  ·  Sotiris Alexandropoulos **34.00**  ·  Fotis Ioannidis **4.33**  ·  Issa Doumbia **34.00**  ·  Salvador Blopa **21.00**  ·  Flavio Goncalves **34.00**  ·  Silas Andersen **29.00**  ·  Ryan Roberto **34.00**  ·  Rodrigo Dias **41.00**  ·  Rafael Nel **11.00**  ·  Irakli Azarovi **101.00**  ·  Viktor Tsukanov **51.00**  ·  Yehor Nazaryna **67.00**  ·  Lassina Traore **13.00**  ·  Vinicius Tobias **126.00**  ·  Miguel Gomes dos Nuno Santos **41.00**  ·  Geny Catamo **41.00**  ·  Joao Simoes **34.00**  ·  Ivan Fresneda **51.00**  ·  Eduardo Quaresma **26.00**  ·  Jesse Derry **26.00**  ·  Rodrigo Zalazar **34.00**  ·  Oleksandr Karavaev **41.00**  ·  Pedro Lima **29.00**  ·  Marlon Gomes **41.00**  ·  Newerton **41.00**  ·  Bruninho Ramos **51.00**  ·  Ibrahima Ba **12.00**  ·  Pedro Henrique Azevedo **67.00**  ·  Sergi Altimira **51.00**  ·  Nestory Irankunda **26.00**  ·  Luca Meirelles **13.00**  ·  Kaua Elias **13.00**  ·  Eduardo Felicissimo **13.00**  ·  Gleiker Mendoza **29.00**
+- **Anytime Goal Scorer:** Luis Guilherme Lira **5.50**  ·  Marlon da Silva **17.00**  ·  Zeno Debast **12.00**  ·  Alaa Ghram **12.00**  ·  Dmytro Kryskiv **7.50**  ·  Mykola Matviyenko **15.00**  ·  Moncef Zekri **12.00**  ·  Luis Suarez **2.10**  ·  Alisson Santana **5.50**  ·  Lucas Ferreira **6.00**  ·  Georgios Vagiannidis **9.00**  ·  Gabriel Carvalho **6.00**  ·  Valeriy Bondar **17.00**  ·  Goncalo Inacio **12.00**  ·  Maximiliano Araujo **7.50**  ·  Oleg Ocheretko **7.00**  ·  Pedrinho da Silva **5.50**  ·  Severino Isaque **5.50**  ·  Sotiris Alexandropoulos **8.00**  ·  Fotis Ioannidis **2.60**  ·  Issa Doumbia **4.75**  ·  Salvador Blopa **7.50**  ·  Flavio Goncalves **4.00**  ·  Silas Andersen **7.00**  ·  Ryan Roberto **5.50**  ·  Rodrigo Dias **9.00**  ·  Rafael Nel **2.75**  ·  Irakli Azarovi **17.00**  ·  Viktor Tsukanov **5.50**  ·  Yehor Nazaryna **8.00**  ·  Lassina Traore **3.40**  ·  Vinicius Tobias **15.00**  ·  Miguel Gomes dos Nuno Santos **4.75**  ·  Geny Catamo **4.75**  ·  Joao Simoes **6.00**  ·  Ivan Fresneda **8.00**  ·  Eduardo Quaresma **12.00**  ·  Jesse Derry **3.40**  ·  Rodrigo Zalazar **2.88**  ·  Oleksandr Karavaev **7.00**  ·  Pedro Lima **6.00**  ·  Marlon Gomes **7.00**  ·  Newerton **4.75**  ·  Bruninho Ramos **6.00**  ·  Ibrahima Ba **9.00**  ·  Pedro Henrique Azevedo **12.00**  ·  Sergi Altimira **7.50**  ·  Nestory Irankunda **2.88**  ·  Luca Meirelles **3.60**  ·  Kaua Elias **3.60**  ·  Eduardo Felicissimo **9.00**  ·  Gleiker Mendoza **4.75**
+- **Player to Score or Assist:** Luis Guilherme Lira **3.25**  ·  Marlon da Silva **11.00**  ·  Zeno Debast **6.00**  ·  Alaa Ghram **8.50**  ·  Dmytro Kryskiv **4.00**  ·  Mykola Matviyenko **7.00**  ·  Moncef Zekri **7.00**  ·  Luis Suarez **1.80**  ·  Alisson Santana **3.20**  ·  Lucas Ferreira **4.00**  ·  Georgios Vagiannidis **4.33**  ·  Gabriel Carvalho **3.40**  ·  Valeriy Bondar **11.00**  ·  Goncalo Inacio **5.50**  ·  Maximiliano Araujo **3.50**  ·  Oleg Ocheretko **4.33**  ·  Pedrinho da Silva **3.00**  ·  Severino Isaque **3.10**  ·  Sotiris Alexandropoulos **4.75**  ·  Fotis Ioannidis **1.91**  ·  Issa Doumbia **3.40**  ·  Salvador Blopa **4.00**  ·  Flavio Goncalves **2.40**  ·  Silas Andersen **4.33**  ·  Ryan Roberto **3.75**  ·  Rodrigo Dias **3.40**  ·  Rafael Nel **2.10**  ·  Irakli Azarovi **6.00**  ·  Viktor Tsukanov **3.25**  ·  Yehor Nazaryna **5.50**  ·  Lassina Traore **2.20**  ·  Vinicius Tobias **5.50**  ·  Miguel Gomes dos Nuno Santos **2.62**  ·  Geny Catamo **2.50**  ·  Joao Simoes **3.50**  ·  Ivan Fresneda **5.00**  ·  Eduardo Quaresma **6.00**  ·  Jesse Derry **2.75**  ·  Rodrigo Zalazar **2.05**  ·  Oleksandr Karavaev **3.40**  ·  Pedro Lima **3.20**  ·  Marlon Gomes **3.75**  ·  Newerton **3.10**  ·  Bruninho Ramos **3.75**  ·  Ibrahima Ba **6.00**  ·  Pedro Henrique Azevedo **4.50**  ·  Sergi Altimira **4.00**  ·  Nestory Irankunda **2.05**  ·  Luca Meirelles **2.60**  ·  Kaua Elias **2.75**  ·  Eduardo Felicissimo **4.33**  ·  Gleiker Mendoza **2.75**
 
 ## Estadísticas de equipo
 | | Shakhtar Donetsk (total) | Shakhtar Donetsk en casa | Sporting CP (total) | Sporting CP fuera |

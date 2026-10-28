@@ -1,10 +1,50 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **2.30**  ·  X **3.80**  ·  2 **2.70**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.50**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+- **Goles del local:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.40**  ·  2 **3.20**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.67**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **3.25**
+- **Win Both Halves:** 1 **7.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.00**  ·  Draw/No **19.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.20**
+- **Away Player Shots On Target Total:** Jaydan Kamason **41.00**  ·  Niccolo Pisilli **41.00**  ·  Evan N'Dicka **17.00**  ·  Bruno Fernandes **29.00**  ·  Diogo Dalot **81.00**  ·  Lisandro Martinez **34.00**  ·  Leonardo Balerdi **17.00**  ·  Tynan Thompson **41.00**  ·  Shea Lacey **21.00**  ·  Andrey Santos **26.00**  ·  Emanuele Lulli **12.00**  ·  Daniele Ghilardi **13.00**  ·  Matheus Cunha **19.00**  ·  Devyne Rensch **81.00**  ·  Matias Soule **10.00**  ·  Tyler Fletcher **34.00**  ·  Rodrigo Mora **34.00**  ·  Jack Fletcher **41.00**  ·  Daniel Armer **34.00**  ·  Lorenzo Paratici **8.50**  ·  Nahuel Molina **81.00**  ·  Alessandro Di Nunzio **23.00**  ·  Mandjou Camara **8.50**  ·  Youri Tielemans **51.00**  ·  Carlos Baleba **51.00**  ·  Amad Diallo **41.00**  ·  Bryan Mbeumo **13.00**  ·  Harry Maguire **13.00**  ·  Joshua Zirkzee **17.00**  ·  Kobbie Mainoo **67.00**  ·  Luke Shaw **126.00**  ·  Marcus Rashford **29.00**  ·  Mason Mount **29.00**  ·  Matthijs de Ligt **15.00**  ·  Noussair Mazraoui **51.00**  ·  Leny Yoro **23.00**  ·  Bryan Cristante **15.00**  ·  Gianluca Mancini **13.00**  ·  Lorenzo Pellegrini **29.00**  ·  Mario Hermoso **29.00**  ·  Paulo Dybala **51.00**  ·  Kouadio Kone **51.00**  ·  Benjamin Sesko **6.50**  ·  Santiago Castro **7.00**  ·  Harry Amass **81.00**  ·  Marten de Roon **34.00**  ·  Ayden Heaven **19.00**  ·  Konstantinos Koulierakis **13.00**  ·  Donyell Malen **17.00**  ·  Patrick Dorgu **17.00**  ·  Wesley Lima **41.00**
+- **Anytime Goal Scorer:** Jaydan Kamason **9.50**  ·  Niccolo Pisilli **5.00**  ·  Evan N'Dicka **11.00**  ·  Bruno Fernandes **3.10**  ·  Diogo Dalot **9.50**  ·  Lisandro Martinez **13.00**  ·  Leonardo Balerdi **9.50**  ·  Tynan Thompson **4.50**  ·  Shea Lacey **4.50**  ·  Andrey Santos **7.00**  ·  Emanuele Lulli **8.50**  ·  Daniele Ghilardi **9.50**  ·  Matheus Cunha **3.10**  ·  Devyne Rensch **8.50**  ·  Matias Soule **3.20**  ·  Tyler Fletcher **7.50**  ·  Rodrigo Mora **4.00**  ·  Jack Fletcher **6.50**  ·  Daniel Armer **11.00**  ·  Lorenzo Paratici **2.60**  ·  Nahuel Molina **13.00**  ·  Alessandro Di Nunzio **5.00**  ·  Mandjou Camara **2.60**  ·  Youri Tielemans **5.50**  ·  Carlos Baleba **8.50**  ·  Amad Diallo **4.00**  ·  Bryan Mbeumo **2.75**  ·  Harry Maguire **9.50**  ·  Joshua Zirkzee **3.40**  ·  Kobbie Mainoo **7.50**  ·  Luke Shaw **13.00**  ·  Marcus Rashford **3.50**  ·  Mason Mount **5.00**  ·  Matthijs de Ligt **9.50**  ·  Noussair Mazraoui **13.00**  ·  Leny Yoro **13.00**  ·  Bryan Cristante **7.00**  ·  Gianluca Mancini **9.50**  ·  Lorenzo Pellegrini **3.50**  ·  Mario Hermoso **11.00**  ·  Paulo Dybala **2.88**  ·  Kouadio Kone **6.50**  ·  Benjamin Sesko **2.50**  ·  Santiago Castro **2.60**  ·  Harry Amass **8.50**  ·  Marten de Roon **9.50**  ·  Ayden Heaven **11.00**  ·  Konstantinos Koulierakis **11.00**  ·  Donyell Malen **2.20**  ·  Patrick Dorgu **4.00**  ·  Wesley Lima **7.00**
+- **Player to Score or Assist:** Jaydan Kamason **7.00**  ·  Niccolo Pisilli **3.10**  ·  Evan N'Dicka **5.00**  ·  Bruno Fernandes **1.80**  ·  Diogo Dalot **4.50**  ·  Lisandro Martinez **10.00**  ·  Leonardo Balerdi **5.00**  ·  Tynan Thompson **2.88**  ·  Shea Lacey **3.20**  ·  Andrey Santos **4.00**  ·  Emanuele Lulli **4.00**  ·  Daniele Ghilardi **6.00**  ·  Matheus Cunha **2.10**  ·  Devyne Rensch **4.00**  ·  Matias Soule **2.05**  ·  Tyler Fletcher **4.33**  ·  Rodrigo Mora **2.50**  ·  Jack Fletcher **4.33**  ·  Daniel Armer **7.00**  ·  Lorenzo Paratici **2.00**  ·  Nahuel Molina **5.50**  ·  Alessandro Di Nunzio **2.88**  ·  Mandjou Camara **2.00**  ·  Youri Tielemans **3.25**  ·  Carlos Baleba **4.50**  ·  Amad Diallo **2.60**  ·  Bryan Mbeumo **2.10**  ·  Harry Maguire **7.00**  ·  Joshua Zirkzee **2.60**  ·  Kobbie Mainoo **4.50**  ·  Luke Shaw **6.50**  ·  Marcus Rashford **2.30**  ·  Mason Mount **3.50**  ·  Matthijs de Ligt **6.00**  ·  Noussair Mazraoui **7.50**  ·  Leny Yoro **9.00**  ·  Bryan Cristante **4.00**  ·  Gianluca Mancini **6.00**  ·  Lorenzo Pellegrini **2.30**  ·  Mario Hermoso **7.00**  ·  Paulo Dybala **1.83**  ·  Kouadio Kone **3.75**  ·  Benjamin Sesko **2.10**  ·  Santiago Castro **2.10**  ·  Harry Amass **4.75**  ·  Marten de Roon **4.75**  ·  Ayden Heaven **7.50**  ·  Konstantinos Koulierakis **6.50**  ·  Donyell Malen **1.80**  ·  Patrick Dorgu **2.88**  ·  Wesley Lima **3.50**
 
 ## Estadísticas de equipo
 | | Manchester United (total) | Manchester United en casa | AS Roma (total) | AS Roma fuera |
@@ -137,4 +177,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,66 · visitante 1,81 · córners esperados 9,1._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 42% | 35% | 38% | 2.70 | +3% |
+| 1X2: X | 22% | 25% | 23% | 3.80 | -11% |
+| 1X2: 1 | 36% | 41% | 38% | 2.30 | -12% |
+| Doble oportunidad: X2 | 64% | 60% | 62% | 1.57 | -3% |
+| Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 58% | 65% | 62% | 1.44 | -11% |
+| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
+| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
+| Goles más/menos: Más de 2.5 | 67% | 62% | 65% | 1.53 | -1% |
+| Goles más/menos: Más de 3.5 | 46% | 40% | 43% | 2.38 | +2% |
+| Goles más/menos: Más de 4.5 | 27% | 24% | 25% | 4.00 | +1% |
+| Goles más/menos: Menos de 2.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles más/menos: Menos de 3.5 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Menos de 4.5 | 73% | 76% | 75% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
+| Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
+| Goles del local: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
+| Goles del local: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles del local: Menos de 1.5 | 51% | 50% | 50% | 1.83 | -8% |
+| Goles del local: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles del visitante: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Goles del visitante: Más de 1.5 | 54% | 46% | 50% | 2.00 | +0% |
+| Goles del visitante: Más de 2.5 | 27% | 22% | 24% | 4.33 | +6% |
+| Goles del visitante: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -20% |
+| Goles del visitante: Menos de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Goles del visitante: Menos de 2.5 | 73% | 78% | 76% | 1.20 | -9% |
+| 1X2 descanso: 2 | 34% | 29% | 31% | 3.20 | +0% |
+| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -9% |
+| 1X2 descanso: 1 | 30% | 32% | 31% | 2.88 | -11% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

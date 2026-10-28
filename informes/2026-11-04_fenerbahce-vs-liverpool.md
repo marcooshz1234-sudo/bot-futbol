@@ -1,10 +1,52 @@
 # Fenerbahçe – Liverpool
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium Fenerbahce Sukru Saracoglu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **4.75**  ·  X **4.33**  ·  2 **1.62**
+- **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.60**  ·  2 **2.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.33**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.20**
+- **Win Both Halves:** 1 **17.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.88**  ·  Home/No **10.00**  ·  Draw/No **21.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.40**
+- **Away Player Shots On Target Total:** Bradley Barcola **23.00**  ·  Milan Skriniar **19.00**  ·  Matteo Guendouzi **34.00**  ·  Lewis Koumas **8.50**  ·  Konstantinos Tsimikas **81.00**  ·  Luke Chambers **34.00**  ·  Kerem Akturkoglu **34.00**  ·  Irfan Kahveci **29.00**  ·  Ismail Yuksek **23.00**  ·  Yigit Efe Demir **29.00**  ·  Michael Laffey **26.00**  ·  Mason Greenwood **23.00**  ·  Nene Dorgeles **15.00**  ·  Archie Brown **26.00**  ·  Romelu Lukaku **8.50**  ·  Ronald Araujo **12.00**  ·  Vedat Muriqi **7.00**  ·  Oguz Aydin **23.00**  ·  Munir Mercan **81.00**  ·  Bartug Elmaz **67.00**  ·  Kojo Oppong **23.00**  ·  Ngolo Kante **81.00**  ·  Ognjen Mimovic **51.00**  ·  Alexis Mac Allister **34.00**  ·  Cody Gakpo **13.00**  ·  Dominik Szoboszlai **34.00**  ·  Federico Chiesa **13.00**  ·  Joe Gomez **19.00**  ·  Ryan Gravenberch **51.00**  ·  Virgil van Dijk **10.00**  ·  Wataru Endo **26.00**  ·  Milos Kerkez **81.00**  ·  Alexander Isak **8.00**  ·  Nelson Semedo **51.00**  ·  Florian Wirtz **29.00**  ·  Jeremie Frimpong **101.00**  ·  Trey Nyoni **21.00**  ·  James McConnell **26.00**  ·  Victor Munoz **34.00**  ·  Jayden Danns **9.00**  ·  Rio Ngumoha **17.00**  ·  Jeremy Jacquet **15.00**
+- **Anytime Goal Scorer:** Bradley Barcola **2.62**  ·  Milan Skriniar **13.00**  ·  Matteo Guendouzi **8.50**  ·  Lewis Koumas **2.25**  ·  Konstantinos Tsimikas **8.50**  ·  Luke Chambers **8.50**  ·  Kerem Akturkoglu **3.75**  ·  Irfan Kahveci **7.00**  ·  Ismail Yuksek **8.50**  ·  Yigit Efe Demir **13.00**  ·  Michael Laffey **7.00**  ·  Mason Greenwood **3.10**  ·  Nene Dorgeles **4.00**  ·  Archie Brown **8.50**  ·  Romelu Lukaku **3.10**  ·  Ronald Araujo **8.50**  ·  Vedat Muriqi **3.00**  ·  Oguz Aydin **5.50**  ·  Munir Mercan **9.00**  ·  Bartug Elmaz **7.50**  ·  Kojo Oppong **13.00**  ·  Ngolo Kante **9.00**  ·  Ognjen Mimovic **9.00**  ·  Alexis Mac Allister **5.50**  ·  Cody Gakpo **2.62**  ·  Dominik Szoboszlai **4.00**  ·  Federico Chiesa **2.88**  ·  Joe Gomez **11.00**  ·  Ryan Gravenberch **5.50**  ·  Virgil van Dijk **7.50**  ·  Wataru Endo **7.00**  ·  Milos Kerkez **8.50**  ·  Alexander Isak **2.10**  ·  Nelson Semedo **11.00**  ·  Florian Wirtz **4.00**  ·  Jeremie Frimpong **8.50**  ·  Trey Nyoni **5.50**  ·  James McConnell **5.50**  ·  Victor Munoz **4.00**  ·  Jayden Danns **2.62**  ·  Rio Ngumoha **3.40**  ·  Jeremy Jacquet **8.50**
+- **Player to Score or Assist:** Bradley Barcola **1.80**  ·  Milan Skriniar **7.50**  ·  Matteo Guendouzi **4.33**  ·  Lewis Koumas **1.73**  ·  Konstantinos Tsimikas **3.60**  ·  Luke Chambers **3.60**  ·  Kerem Akturkoglu **2.40**  ·  Irfan Kahveci **3.75**  ·  Ismail Yuksek **4.50**  ·  Yigit Efe Demir **8.00**  ·  Michael Laffey **4.00**  ·  Mason Greenwood **2.20**  ·  Nene Dorgeles **2.75**  ·  Archie Brown **4.33**  ·  Romelu Lukaku **2.38**  ·  Ronald Araujo **5.00**  ·  Vedat Muriqi **2.30**  ·  Oguz Aydin **3.25**  ·  Munir Mercan **6.00**  ·  Bartug Elmaz **4.33**  ·  Kojo Oppong **8.00**  ·  Ngolo Kante **5.00**  ·  Ognjen Mimovic **6.50**  ·  Alexis Mac Allister **2.88**  ·  Cody Gakpo **1.91**  ·  Dominik Szoboszlai **2.20**  ·  Federico Chiesa **1.91**  ·  Joe Gomez **4.33**  ·  Ryan Gravenberch **3.20**  ·  Virgil van Dijk **4.33**  ·  Wataru Endo **4.00**  ·  Milos Kerkez **4.00**  ·  Alexander Isak **1.67**  ·  Nelson Semedo **4.75**  ·  Florian Wirtz **2.10**  ·  Jeremie Frimpong **3.00**  ·  Trey Nyoni **3.50**  ·  James McConnell **2.50**  ·  Victor Munoz **2.38**  ·  Jayden Danns **1.95**  ·  Rio Ngumoha **2.10**  ·  Jeremy Jacquet **5.00**
 
 ## Estadísticas de equipo
 | | Fenerbahçe (total) | Fenerbahçe en casa | Liverpool (total) | Liverpool fuera |
@@ -136,4 +178,40 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,05 · visitante 1,60 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 50% | 58% | 54% | 1.62 | -12% |
+| 1X2: X | 25% | 22% | 23% | 4.33 | +1% |
+| 1X2: 1 | 25% | 20% | 22% | 4.75 | +7% |
+| Doble oportunidad: X2 | 75% | 80% | 77% | 1.18 | -9% |
+| Doble oportunidad: 12 | 75% | 78% | 77% | 1.20 | -8% |
+| Doble oportunidad: 1X | 50% | 42% | 46% | 2.25 | +3% |
+| Ambos marcan: No | 48% | 39% | 44% | 2.38 | +4% |
+| Ambos marcan: Sí | 52% | 61% | 56% | 1.53 | -14% |
+| Goles más/menos: Más de 2.5 | 49% | 64% | 57% | 1.50 | -15% |
+| Goles más/menos: Más de 3.5 | 28% | 43% | 35% | 2.20 | -22% |
+| Goles más/menos: Más de 4.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles más/menos: Menos de 2.5 | 51% | 36% | 43% | 2.62 | +14% |
+| Goles más/menos: Menos de 3.5 | 72% | 57% | 65% | 1.67 | +8% |
+| Goles más/menos: Menos de 4.5 | 87% | 75% | 81% | 1.28 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
+| Goles 1ª parte más/menos: Más de 2.5 | 11% | 21% | 16% | 4.50 | -29% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -1% |
+| Goles del local: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
+| Goles del local: Más de 1.5 | 28% | 35% | 32% | 2.62 | -16% |
+| Goles del local: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
+| Goles del local: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Goles del visitante: Más de 1.5 | 47% | 62% | 55% | 1.50 | -18% |
+| Goles del visitante: Más de 2.5 | 22% | 35% | 29% | 2.62 | -25% |
+| Goles del visitante: Menos de 1.5 | 53% | 38% | 45% | 2.50 | +13% |
+| Goles del visitante: Menos de 2.5 | 78% | 65% | 71% | 1.44 | +3% |
+| 1X2 descanso: 2 | 36% | 44% | 40% | 2.10 | -16% |
+| 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +1% |
+| 1X2 descanso: 1 | 21% | 21% | 21% | 4.50 | -6% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,54 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/10 07:59_
+
+- **1X2:** 1 **1.22**  ·  X **6.50**  ·  2 **11.00**
+- **Doble oportunidad:** 1X **1.05**  ·  12 **1.11**  ·  X2 **4.00**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.22** · menos **4.33**
+    - 3,5: más **1.57** · menos **2.38**
+    - 4,5: más **2.30** · menos **1.62**
+    - 5,5: más **3.75** · menos **1.28**
+    - 6,5: más **6.00** · menos **1.12**
+    - 7,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **1.53**  ·  X **3.40**  ·  2 **7.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **1.11**  ·  2 **4.00**
+- **To Score In Both Halves By Teams:** 1 **1.50**  ·  2 **5.50**
+- **Win Both Halves:** 1 **2.25**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.05**  ·  Draw/Yes **7.00**  ·  Away/Yes **13.00**  ·  Home/No **2.75**  ·  Draw/No **34.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **5.50**
+- **Away Player Shots On Target Total:** Brian Madjo **13.00**  ·  Rodri **17.00**  ·  Victor Lindelof **26.00**  ·  Alysson Edward **29.00**  ·  Jules Kounde **13.00**  ·  Lamine Yamal **17.00**  ·  Pedri **23.00**  ·  Pau Cubarsi **9.50**  ·  Joao Cancelo **41.00**  ·  Raphinha **21.00**  ·  George Hemmings **67.00**  ·  Ibrahim Mbaye **29.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **10.00**  ·  Emiliano Buendia **29.00**  ·  Andreas Christensen **9.00**  ·  Marc Bernal **8.50**  ·  Eric Garcia **10.00**  ·  Dani Olmo **23.00**  ·  Gavi **34.00**  ·  Fermin Lopez **11.00**  ·  Hamza Abdelkarim **9.50**  ·  Brian Farinas **15.00**  ·  Nicolas Jackson **17.00**  ·  Alex Campos **9.00**  ·  Matty Cash **126.00**  ·  Pau Torres **34.00**  ·  Ross Barkley **67.00**  ·  Anthony Gordon **13.00**  ·  Alejandro Garnacho **51.00**  ·  Taylor Harwood-Bellis **17.00**  ·  Aaron Wan-Bissaka **201.00**  ·  Tammy Abraham **10.00**  ·  Leon Goretzka **41.00**  ·  Frenkie De Jong **41.00**  ·  Alex Balde **41.00**  ·  Ian Maatsen **126.00**  ·  Lamare Bogarde **26.00**  ·  John McGinn **51.00**  ·  Boubacar Kamara **41.00**  ·  Tyrone Mings **23.00**  ·  Matteo Ruggeri **41.00**  ·  Joao Gomes **101.00**  ·  Johan Manzambi **15.00**  ·  Karim Adeyemi **15.00**  ·  Martin Gerard **29.00**
+- **Anytime Goal Scorer:** Brian Madjo **4.00**  ·  Rodri **5.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **5.00**  ·  Jules Kounde **5.50**  ·  Lamine Yamal **1.80**  ·  Pedri **3.60**  ·  Pau Cubarsi **7.00**  ·  Joao Cancelo **5.00**  ·  Raphinha **1.62**  ·  George Hemmings **7.50**  ·  Ibrahim Mbaye **6.00**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.80**  ·  Emiliano Buendia **4.50**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **3.60**  ·  Eric Garcia **5.50**  ·  Dani Olmo **2.50**  ·  Gavi **4.50**  ·  Fermin Lopez **2.38**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **3.10**  ·  Nicolas Jackson **3.60**  ·  Alex Campos **5.50**  ·  Matty Cash **13.00**  ·  Pau Torres **17.00**  ·  Ross Barkley **7.50**  ·  Anthony Gordon **2.00**  ·  Alejandro Garnacho **6.00**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **21.00**  ·  Tammy Abraham **3.60**  ·  Leon Goretzka **8.50**  ·  Frenkie De Jong **4.50**  ·  Alex Balde **7.00**  ·  Ian Maatsen **13.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **7.00**  ·  Boubacar Kamara **13.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **13.00**  ·  Joao Gomes **10.00**  ·  Johan Manzambi **4.00**  ·  Karim Adeyemi **2.00**  ·  Martin Gerard **7.50**
+- **Player to Score or Assist:** Brian Madjo **3.00**  ·  Rodri **2.62**  ·  Victor Lindelof **13.00**  ·  Alysson Edward **3.50**  ·  Jules Kounde **2.88**  ·  Lamine Yamal **1.25**  ·  Pedri **1.83**  ·  Pau Cubarsi **4.50**  ·  Joao Cancelo **2.20**  ·  Raphinha **1.25**  ·  George Hemmings **4.75**  ·  Ibrahim Mbaye **3.75**  ·  Xavi Espart **3.00**  ·  Gabriel Jesus **1.40**  ·  Emiliano Buendia **2.88**  ·  Andreas Christensen **4.00**  ·  Marc Bernal **2.00**  ·  Eric Garcia **3.50**  ·  Dani Olmo **1.62**  ·  Gavi **2.40**  ·  Fermin Lopez **1.50**  ·  Hamza Abdelkarim **1.62**  ·  Brian Farinas **1.83**  ·  Nicolas Jackson **2.75**  ·  Alex Campos **4.00**  ·  Matty Cash **6.50**  ·  Pau Torres **13.00**  ·  Ross Barkley **4.33**  ·  Anthony Gordon **1.36**  ·  Alejandro Garnacho **3.75**  ·  Taylor Harwood-Bellis **9.50**  ·  Aaron Wan-Bissaka **8.50**  ·  Tammy Abraham **2.88**  ·  Leon Goretzka **4.75**  ·  Frenkie De Jong **2.40**  ·  Alex Balde **3.20**  ·  Ian Maatsen **5.00**  ·  Lamare Bogarde **8.50**  ·  John McGinn **4.00**  ·  Boubacar Kamara **6.50**  ·  Tyrone Mings **12.00**  ·  Matteo Ruggeri **6.50**  ·  Joao Gomes **5.50**  ·  Johan Manzambi **2.62**  ·  Karim Adeyemi **1.44**  ·  Martin Gerard **3.20**
 
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Aston Villa (total) | Aston Villa fuera |
@@ -136,4 +180,39 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 2,76 · visitante 1,57 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 20% | 9% | 14% | 11.00 | +58% |
+| 1X2: X | 17% | 14% | 16% | 6.50 | +3% |
+| 1X2: 1 | 63% | 77% | 70% | 1.22 | -15% |
+| Doble oportunidad: X2 ✅ | 37% | 24% | 31% | 4.00 | +22% |
+| Doble oportunidad: 12 | 83% | 86% | 84% | 1.11 | -6% |
+| Doble oportunidad: 1X | 80% | 91% | 85% | 1.05 | -11% |
+| Ambos marcan: No | 26% | 38% | 32% | 2.50 | -21% |
+| Ambos marcan: Sí | 74% | 62% | 68% | 1.50 | +3% |
+| Goles más/menos: Más de 2.5 | 81% | 78% | 79% | 1.22 | -3% |
+| Goles más/menos: Más de 3.5 | 63% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 4.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Más de 5.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles más/menos: Menos de 2.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles más/menos: Menos de 3.5 | 37% | 40% | 38% | 2.38 | -9% |
+| Goles más/menos: Menos de 4.5 | 56% | 59% | 57% | 1.62 | -7% |
+| Goles más/menos: Menos de 5.5 | 73% | 75% | 74% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 29% | 29% | 3.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 71% | 71% | 1.33 | -6% |
+| Goles del local: Más de 2.5 | 52% | 61% | 57% | 1.53 | -14% |
+| Goles del local: Más de 3.5 | 30% | 39% | 35% | 2.38 | -18% |
+| Goles del local: Más de 4.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles del local: Menos de 2.5 | 48% | 39% | 43% | 2.38 | +3% |
+| Goles del local: Menos de 3.5 | 70% | 61% | 65% | 1.53 | +0% |
+| Goles del local: Menos de 4.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles del visitante: Más de 0.5 | 79% | 65% | 72% | 1.44 | +4% |
+| Goles del visitante: Más de 1.5 ✅ | 47% | 29% | 38% | 3.25 | +23% |
+| Goles del visitante: Menos de 0.5 | 21% | 35% | 28% | 2.62 | -26% |
+| Goles del visitante: Menos de 1.5 | 53% | 71% | 62% | 1.33 | -17% |
+| 1X2 descanso: X | 31% | 27% | 29% | 3.40 | -2% |
+| 1X2 descanso: 1 | 48% | 60% | 54% | 1.53 | -17% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

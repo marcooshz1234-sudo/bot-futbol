@@ -1,10 +1,10 @@
 # Celta de Vigo II – Cordoba
 **Segunda División** · Regular Season - 12 · 31/10/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
-_Actualizadas: 27/10 07:50_
+_Actualizadas: 28/10 07:59_
 
 - **1X2:** 1 **3.10**  ·  X **3.70**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.36**

@@ -1,7 +1,7 @@
 # Casa Pia – Sporting CP
 **Primeira Liga** · Regular Season - 10 · 30/10/2026 21:15 (hora España) · Estadio Municipal de Rio Maior
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 02:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 08:00._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:03_

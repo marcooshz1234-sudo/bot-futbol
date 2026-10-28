@@ -712,21 +712,21 @@
   {
     "id": "2026-10-31-combi-tres",
     "fecha": "2026-10-31T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,03! 🍀\n\n✅ 🇩🇪 Maximilian Eggestein: 1+ tiros\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇪🇸 Sabadell o empate\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n\n🎯 CUOTA 3,03 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,17! 🍀\n\n✅ 🇩🇪 Maximilian Eggestein: 1+ tiros\n✅ 🇪🇸 Sabadell o empate\n✅ 🇮🇹 Nicolo Barella: 1+ tiros\n✅ 🇳🇱 Heerenveen o empate\n\n🎯 CUOTA 3,17 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575206|Away Player Shots|Maximilian Eggestein - 1",
-      "1552208|Double Chance|Home/Draw",
       "1569992|Double Chance|Draw/Away",
-      "1550177|Away Player Shots|Nicolo Barella - 1"
+      "1550177|Away Player Shots|Nicolo Barella - 1",
+      "1552208|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.25,
-      1.3,
       1.4,
-      1.33
+      1.33,
+      1.36
     ]
   },
   {
@@ -882,25 +882,25 @@
   {
     "id": "2026-11-01-picks-manana",
     "fecha": "2026-10-31T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇪🇸 Gol en la 1ª parte del Burgos–Castellón\n✅ 🇩🇪 Said El Mala: 3+ tiros\n✅ 🇵🇹 Arouca gana alguna de las dos partes\n✅ 🇳🇱 Sparta Rotterdam marca\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n✅ 🇮🇹 Gana el Lazio\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇳🇱 Sparta Rotterdam marca\n✅ 🇩🇪 Said El Mala: 3+ tiros\n✅ 🇵🇹 Arouca gana alguna de las dos partes\n✅ 🇪🇸 Gol en la 1ª parte del Burgos–Castellón\n✅ 🇮🇹 Más de 1,5 goles en Lecce–Genoa\n✅ 🇮🇹 Gana el Lazio\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570438|Double Chance|Draw/Away",
-      "1569993|Goals Over/Under First Half|Over 0.5",
+      "1552215|Total - Away|Over 0.5",
       "1575207|Away Player Shots|Said El Mala - 3",
       "1575528|To Win Either Half|Home",
-      "1552215|Total - Away|Over 0.5",
+      "1569993|Goals Over/Under First Half|Over 0.5",
       "1550184|Goals Over/Under|Over 1.5",
       "1550183|Match Winner|Home"
     ],
     "cuotas": [
       1.4,
-      1.4,
+      1.3,
       1.5,
       1.44,
-      1.28,
+      1.4,
       1.44,
       1.53
     ]
@@ -1000,7 +1000,7 @@
   {
     "id": "2026-11-01-combi-partido-1552215",
     "fecha": "2026-11-01T15:45",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 GRONINGEN vs SPARTA ROTTERDAM 🇳🇱\n\n🎯 SPARTA ROTTERDAM MARCA [x1.28]\n✅ GRONINGEN MARCA 2 O MÁS [x1.50]\n✅ SPARTA ROTTERDAM HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ SPARTA ROTTERDAM O EMPATE [x2.10]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 8,45\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 GRONINGEN vs SPARTA ROTTERDAM 🇳🇱\n\n🎯 SPARTA ROTTERDAM MARCA [x1.30]\n✅ GRONINGEN MARCA 2 O MÁS [x1.53]\n✅ SPARTA ROTTERDAM HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ SPARTA ROTTERDAM O EMPATE [x2.10]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 8,76\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1011,8 +1011,8 @@
       "1552215|Double Chance|Draw/Away"
     ],
     "cuotas": [
-      1.28,
-      1.5,
+      1.3,
+      1.53,
       1.62,
       2.1
     ],
@@ -1180,6 +1180,24 @@
     "cuotas": []
   },
   {
+    "id": "2026-11-02-combi-tres",
+    "fecha": "2026-11-02T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,53! 🍀\n\n✅ 🇪🇸 Más de 1,5 goles en Valladolid–Leganes\n✅ 🇵🇹 Más de 1,5 goles en GIL Vicente–Vitória SC\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thierno Barry: 2+ tiros\n\n🎯 CUOTA 2,53 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570002|Goals Over/Under|Over 1.5",
+      "1575533|Goals Over/Under|Over 1.5",
+      "1557455|Away Player Shots|Thierno Barry - 2"
+    ],
+    "cuotas": [
+      1.33,
+      1.4,
+      1.36
+    ]
+  },
+  {
     "id": "2026-11-02-combi-partido-1569999",
     "fecha": "2026-11-02T15:15",
     "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 OVIEDO vs LAS PALMAS 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ LAS PALMAS MARCA [x1.50]\n✅ GANA EL OVIEDO [x1.75]\n✅ OVIEDO HACE MÁS DE 5,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,10\n🟢 VERDE A VERDE 🟢",
@@ -1241,7 +1259,7 @@
   },
   {
     "id": "2026-11-02-combi-partido-1569998",
-    "fecha": "2026-11-02T20:00",
+    "fecha": "2026-11-02T19:40",
     "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 MALLORCA vs CADIZ 🇪🇸\n\n🎯 MÁS DE 1,5 GOLES [x1.28]\n✅ ALEX SALA: 1+ TIROS A PUERTA [x1.40]\n✅ MALLORCA HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ CADIZ O EMPATE [x2.62]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,15\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
@@ -1268,5 +1286,117 @@
       "fecha": "2026-11-02T21:00",
       "liga": "Segunda"
     }
+  },
+  {
+    "id": "2026-11-02-combi-partido-1557455",
+    "fecha": "2026-11-02T20:00",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 NEWCASTLE vs EVERTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 THIERNO BARRY: 2+ TIROS [x1.36]\n✅ NEWCASTLE O EMPATE [x1.36]\n✅ EVERTON MARCA [x1.28]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.62]\n✅ MÁS DE 4,5 TARJETAS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,17\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557455|Away Player Shots|Thierno Barry - 2",
+      "1557455|Double Chance|Home/Draw",
+      "1557455|Total - Away|Over 0.5",
+      "1557455|Offsides Total|Over 2.5",
+      "1557455|Cards Over/Under|Over 4.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.36,
+      1.28,
+      1.62,
+      1.73
+    ],
+    "tarjeta": {
+      "local": "Newcastle",
+      "visitante": "Everton",
+      "id_l": 34,
+      "id_v": 45,
+      "logo_l": "https://media.api-sports.io/football/teams/34.png",
+      "logo_v": "https://media.api-sports.io/football/teams/45.png",
+      "fecha": "2026-11-02T21:00",
+      "liga": "Premier"
+    }
+  },
+  {
+    "id": "2026-11-03-picks-manana",
+    "fecha": "2026-11-02T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡6 PICKS PARA MAÑANA! 🍀\n\n✅ ⭐ AS Roma o empate\n✅ ⭐ Feyenoord marca\n✅ ⭐ Villarreal marca\n✅ ⭐ Ambos marcan en Barcelona–Aston Villa\n✅ ⭐ Lille marca\n✅ ⭐ Slovan Bratislava marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635695|Double Chance|Draw/Away",
+      "1635662|Total - Home|Over 0.5",
+      "1635746|Total - Home|Over 0.5",
+      "1635627|Both Teams Score|Yes",
+      "1635640|Total - Away|Over 0.5",
+      "1635677|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.57,
+      1.3,
+      1.3,
+      1.5,
+      1.28,
+      1.44
+    ]
+  },
+  {
+    "id": "2026-11-03-ganadores",
+    "fecha": "2026-11-03T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 QPR — Gana o empata\n✅2. ⭐ Barcelona — Gana o empata\n✅3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Utd — Gana o empata\n✅4. ⭐ Paris Saint Germain — Gana o empata\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham — Gana o empata\n✅6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Lincoln — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-03-combi-tres",
+    "fecha": "2026-11-03T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,65! 🍀\n\n✅ ⭐ Feyenoord marca\n✅ ⭐ Villarreal marca\n✅ ⭐ AS Roma o empate\n\n🎯 CUOTA 2,65 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635662|Total - Home|Over 0.5",
+      "1635746|Total - Home|Over 0.5",
+      "1635695|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.3,
+      1.3,
+      1.57
+    ]
+  },
+  {
+    "id": "2026-11-04-ganadores",
+    "fecha": "2026-11-04T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana o empata\n✅2. ⭐ FC Porto — Gana o empata\n✅3. ⭐ Manchester City — Gana o empata\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham — Gana o empata\n✅5. ⭐ Como — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-04-combi-tres",
+    "fecha": "2026-11-04T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,60! 🍀\n\n✅ ⭐ Fenerbahçe marca\n✅ ⭐ Como o empate\n✅ ⭐ AEK Athens FC marca\n\n🎯 CUOTA 2,60 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635658|Total - Home|Over 0.5",
+      "1635681|Double Chance|Draw/Away",
+      "1635606|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.36,
+      1.44
+    ]
   }
 ]
