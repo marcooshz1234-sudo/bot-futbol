@@ -81,3 +81,4 @@
 2026-10-28 14:11:15 botón gifv|n|verde|1PMVNNKVIL8Ig → ok
 2026-10-28 14:11:18 botón gifv|n|verde|ePaw7nwYmSI1t389Sy → ok
 2026-10-28 14:11:27 botón gifcat|verde → ok
+2026-10-28 14:15:56 arranca el bot del móvil
