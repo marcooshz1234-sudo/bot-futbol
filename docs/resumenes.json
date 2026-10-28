@@ -318,7 +318,7 @@
       }
     ],
     "picks": {
-      "verde": 24,
+      "verde": 25,
       "rojo": 9,
       "total": 43
     },
@@ -329,11 +329,11 @@
     "total": 14,
     "cuentas": {
       "verde": 0,
-      "rojo": 0,
-      "pendiente": 14,
+      "rojo": 1,
+      "pendiente": 13,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 14
+      "sin_resolver": 13
     },
     "combis": [
       {
@@ -369,7 +369,7 @@
       {
         "id": "2026-10-28-boleto-mil",
         "titulo": "🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -422,10 +422,10 @@
       }
     ],
     "picks": {
-      "verde": 3,
-      "rojo": 0,
+      "verde": 5,
+      "rojo": 1,
       "total": 67
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90 · pendiente\n⏳ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88 · pendiente\n⏳ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 10,04 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,78 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 10,06 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 8,62 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 8,36 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,65 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 1 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | SERIE A · 4,39 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 4,25 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,66 · pendiente\n⏳ ✅ COMBI LOCAS | DFB-POKAL · 3,04 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90 · pendiente\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88 · pendiente\n⏳ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 10,04 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,78 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 10,06 · pendiente\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 8,62 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 8,36 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,65 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 13 sin resolver"
   }
 }
