@@ -293,7 +293,7 @@
   {
     "id": "2026-10-28-combi-partido-1640387",
     "fecha": "2026-10-28T17:55",
-    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 FULHAM vs CRYSTAL PALACE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ JOSHUA KING: 1+ TIROS A PUERTA [x1.40]\n✅ CRYSTAL PALACE O EMPATE [x1.95]\n✅ FULHAM MARCA 2 O MÁS [x1.67]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 9,34\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 FULHAM vs CRYSTAL PALACE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ JOSHUA KING: 1+ TIROS A PUERTA [x1.40]\n✅ CRYSTAL PALACE O EMPATE [x2.10]\n✅ FULHAM MARCA 2 O MÁS [x1.67]\n\n🔥 Resultado probable: 2-2 | 2-3 | 3-3\n💥 Cuota total aprox.: 10,06\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -306,7 +306,7 @@
     "cuotas": [
       1.28,
       1.4,
-      1.95,
+      2.1,
       1.67
     ],
     "tarjeta": {
@@ -318,7 +318,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/52.png",
       "fecha": "2026-10-28T20:45",
       "liga": "Carabao Cup"
-    }
+    },
+    "cuotas_revisadas": "2026-10-28T16:25"
   },
   {
     "id": "2026-10-28-combi-partido-1640383",
