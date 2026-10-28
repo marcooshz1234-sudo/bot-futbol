@@ -1512,5 +1512,37 @@
     "redes": {
       "threads": "18085065227357108"
     }
+  },
+  {
+    "id": "2026-10-28-combi-partido-1640388-b",
+    "fecha": "2026-10-28T16:58",
+    "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs CHELSEA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 LIVERPOOL GANA ALGUNA DE LAS DOS PARTES [x1.57]\n✅ LIVERPOOL MARCA 2 O MÁS [x1.67]\n✅ MÁS DE 9,5 TIROS A PUERTA [x1.91]\n✅ EMPATE AL DESCANSO [x2.50]\n\n💥 Cuota total aprox.: 9,78\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "sel": [
+      "1640388|To Win Either Half|Home",
+      "1640388|Total - Home|Over 1.5",
+      "1640388|Total ShotOnGoal|Over 9.5",
+      "1640388|First Half Winner|Draw"
+    ],
+    "cuotas": [
+      1.57,
+      1.67,
+      1.91,
+      2.5
+    ],
+    "tarjeta": {
+      "local": "Liverpool",
+      "visitante": "Chelsea",
+      "id_l": 40,
+      "id_v": 49,
+      "logo_l": "https://media.api-sports.io/football/teams/40.png",
+      "logo_v": "https://media.api-sports.io/football/teams/49.png",
+      "fecha": "2026-10-28T21:00",
+      "liga": "Carabao Cup"
+    },
+    "forzar": true,
+    "nota": "28/10 16:58: segunda combi del Liverpool–Chelsea (9-10), aprobada por Marcos"
   }
 ]
