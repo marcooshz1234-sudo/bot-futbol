@@ -1548,10 +1548,10 @@
     "enviado": "2026-10-28T16:59",
     "mensaje_id": 155,
     "redes": {
-      "threads": "17939368107122352"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "17939368107122352",
+      "instagram_reel": null,
+      "instagram": "18129727978760865",
+      "instagram_story": "18114407999604550"
     }
   },
   {
