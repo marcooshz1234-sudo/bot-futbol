@@ -24,6 +24,7 @@ Lo que decides se guarda en publicaciones/control.json (el Publicador lo lee).
 """
 
 import json
+import re
 import os
 import subprocess
 import time
@@ -246,7 +247,10 @@ class Asistente:
 
     def programados(self):
         enviados = leer(ENVIADOS, {})
-        posts = [p for ruta in AUTOS for p in leer(ruta, [])] + leer(COLA, [])
+        cola = leer(COLA, [])
+        ids_cola = {p["id"] for p in cola}
+        # 28/10: si un post está en la cola (subido a mano), manda sobre el del bot con el mismo id, como al publicar
+        posts = [p for ruta in AUTOS for p in leer(ruta, []) if p["id"] not in ids_cola] + cola
         for p in posts:
             p.update(enviados.get(p["id"], {}))
         return sorted(posts, key=lambda p: p["fecha"])
@@ -345,7 +349,11 @@ class Asistente:
                     continue
                 estado = ("✅ publicado" if p.get("enviado") else "❌ cancelado" if p["id"] in c["cancelados"]
                           else "⏭️ caducado" if p.get("caducada") else "⏳ pendiente")
-                lineas.append(f"{p['fecha'][11:]} · {p['texto'].splitlines()[0][:45]} · {estado}")
+                ls = p["texto"].splitlines()
+                tit = ls[0][:45]
+                if "COMBI LOCAS" in ls[0] and len(ls) > 1:   # 28/10: el partido, que si no salen todas iguales
+                    tit = "✅ " + re.sub(r"[^\w\s.\-–]", "", ls[1]).strip().title().replace(" Vs ", " vs ").replace("Fc ", "FC ")
+                lineas.append(f"{p['fecha'][11:]} · {tit} · {estado}")
             pausa = "\n\n⏸️ PUBLICACIONES EN PAUSA (/reanudar)" if c["pausa"] else ""
             return self.enviar("📅 Hoy en el canal:\n\n" + ("\n".join(lineas) or "Nada programado") + pausa)
         if orden in ("/picks", "/manana", "/picks_manana", "/picksmanana"):
