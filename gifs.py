@@ -26,7 +26,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 
 ESTADO = DATOS / "gifs.json"
 VOTOS = DATOS / "gifs_votos.json"
-ACTIVO = False   # 28/10: apagado hasta que Marcos haya aprobado GIF y diga que sí
+ACTIVO = True    # 28/10: encendido por Marcos (2-3 GIF de relleno al día)
 MAX_DIA = 3          # 28/10 (Marcos): 2-3 al día, de relleno, no en todos los posts
 SEPARACION = timedelta(hours=3)
 PROBABILIDAD = {"verde": 0.5, "loca": 0.25, "boleto": 0.25, "previa": 0.25, "partidazo": 0.35,
