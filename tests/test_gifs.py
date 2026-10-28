@@ -37,11 +37,20 @@ class Gifs(unittest.TestCase):
 
     def test_no_dos_gif_seguidos_y_tope(self):
         ahora = datetime(2026, 10, 28, 21, 10, tzinfo=M)
-        est = {"enviados": [{"fecha": "2026-10-28T21:00"}]}
-        self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T20:00"}], {}))
+        est = {"enviados": [{"fecha": "2026-10-28T17:00"}]}
+        self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T16:00"}], {}))   # sin post en medio
         self.assertTrue(gifs.puede(ahora, est, [{"enviado": "2026-10-28T21:05"}], {}))
-        est = {"enviados": [{"fecha": f"2026-10-28T1{i}:00"} for i in range(4)]}
-        self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T21:05"}], {}))
+        est = {"enviados": [{"fecha": "2026-10-28T20:00"}]}
+        self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T21:05"}], {}))   # menos de 3 h
+        est = {"enviados": [{"fecha": f"2026-10-28T1{i}:00"} for i in range(3)]}
+        self.assertFalse(gifs.puede(ahora, est, [{"enviado": "2026-10-28T21:05"}], {}))   # ya van 3
+
+    def test_no_sale_siempre(self):
+        import random
+        r = random.Random(1)
+        n = sum(gifs.toca("combi", r) for _ in range(600))
+        self.assertTrue(70 < n < 130)
+        self.assertTrue(all(gifs.toca("racha", r) for _ in range(50)))
 
     def test_votos_y_elegir_sin_repetir(self):
         v = {}

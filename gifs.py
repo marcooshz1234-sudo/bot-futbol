@@ -4,7 +4,8 @@ GIF en el canal de Telegram (28/10, Marcos). Todo de fútbol (futbolistas, entre
 Solo salen GIF que Marcos ha aprobado: con /gifs en el bot del móvil le llegan candidatos de GIPHY con
 👍 / 👎 y los 👍 se guardan por momento en datos/gifs_votos.json (con el file_id de Telegram, que no caduca).
 
-Cuándo (como mucho 4 al día y nunca dos GIF seguidos sin un post en medio):
+Cuándo (28/10: de relleno, 2-3 al día: como mucho 3, 3 h entre uno y otro, y no en todos los posts: cada momento
+tiene su probabilidad; racha, escalera días 5-7 e hitos de seguidores, siempre):
   justo después de un post:
     💚 verde · 🔥🔥🔥 racha (3.º verde seguido) · 🤪 la loca · 🎟️ boleto · 🪜 escalera (⛰️ días 5–7)
     🔥 combi del día · 🎉 balance del día en positivo · 🌙 picks para mañana
@@ -26,7 +27,11 @@ from bot import DATOS, MADRID, RAIZ, leer
 ESTADO = DATOS / "gifs.json"
 VOTOS = DATOS / "gifs_votos.json"
 ACTIVO = False   # 28/10: apagado hasta que Marcos haya aprobado GIF y diga que sí
-MAX_DIA = 4
+MAX_DIA = 3          # 28/10 (Marcos): 2-3 al día, de relleno, no en todos los posts
+SEPARACION = timedelta(hours=3)
+PROBABILIDAD = {"verde": 0.5, "loca": 0.25, "boleto": 0.25, "previa": 0.25, "partidazo": 0.35,
+                "racha": 1, "escalera_alta": 1, "seguidores": 1}   # el resto: 1 de cada 6
+PROB_RESTO = 1 / 6
 EUROPA = {2, 3, 848}
 GRANDES = {"Real Madrid", "Barcelona", "Atletico Madrid", "Manchester City", "Liverpool", "Arsenal", "Chelsea",
            "Manchester United", "Tottenham", "Bayern München", "Borussia Dortmund", "Paris Saint Germain",
@@ -252,15 +257,22 @@ def momentos(ahora, cola, auto, env, app, est):
 
 
 def puede(ahora, est, cola, env):
-    """Tope diario y nada de dos GIF seguidos: tiene que haber salido un post después del último GIF."""
+    """Como mucho 3 al día, 3 h entre uno y otro y nunca dos GIF seguidos sin un post en medio."""
     hoy = ahora.strftime("%Y-%m-%d")
     if sum(1 for x in est.get("enviados", []) if x["fecha"][:10] == hoy) >= MAX_DIA:
         return False
     ultimo = max((x["fecha"] for x in est.get("enviados", [])), default="")
     if not ultimo:
         return True
+    if ahora - datetime.fromisoformat(ultimo).replace(tzinfo=MADRID) < SEPARACION:
+        return False
     posts = [p.get("enviado") or "" for p in cola] + [v.get("enviado") or "" for v in env.values()]
     return any(e > ultimo for e in posts)
+
+
+def toca(momento, rnd=random):
+    """No sale en todos: cada momento tiene su probabilidad."""
+    return rnd.random() < PROBABILIDAD.get(momento, PROB_RESTO)
 
 
 def elegir(votos, momento, est, rnd=random):
@@ -309,6 +321,9 @@ def main(ahora=None, enviar=None, rnd=random):
         if not puede(ahora, est, cola, env) and momento != "seguidores":
             break
         est.setdefault("hechos", []).append(k)
+        if not toca(momento, rnd):
+            print(f"GIF {momento}: esta vez no toca")
+            continue
         g = elegir(votos, momento, est, rnd)
         clave = os.environ.get("GIPHY_API_KEY")
         if clave and (not g or rnd.random() < 0.5):   # 28/10: el bot elige solo (como los que gustaron a Marcos)
@@ -321,12 +336,24 @@ def main(ahora=None, enviar=None, rnd=random):
             continue
         texto = extra or rnd.choice(MOMENTOS[momento][2])
         try:
+            mid = None
             if enviar:
                 enviar(g["file_id"], texto)
             else:
                 from publicar_telegram import api
-                api(token, "sendAnimation", {"chat_id": canal, "animation": g["file_id"], "caption": texto})
-            est.setdefault("enviados", []).append({"fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "tipo": momento, "gif": g["giphy"]})
+                r = api(token, "sendAnimation", {"chat_id": canal, "animation": g["file_id"], "caption": texto})
+                mid = (r.get("result") or {}).get("message_id")
+                try:   # 28/10: a Marcos le llega con «👎 Este no» (lo borra del canal y no vuelve a salir)
+                    admins = api(token, "getChatAdministrators", {"chat_id": canal})["result"]
+                    duenio = next(a["user"]["id"] for a in admins if a["status"] == "creator")
+                    api(token, "sendAnimation", {"chat_id": duenio, "animation": g["file_id"],
+                                                 "caption": f"🎞️ GIF publicado en el canal ({MOMENTOS[momento][0]}): «{texto}»",
+                                                 "reply_markup": {"inline_keyboard": [[{"text": "👎 Este no (lo quito)",
+                                                                                        "callback_data": f"gifquitar|{g['giphy']}|{mid}"}]]}})
+                except Exception as e:
+                    print("aviso GIF:", str(e)[:120])
+            est.setdefault("enviados", []).append({"fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "tipo": momento,
+                                                   "gif": g["giphy"], "mensaje_id": mid})
             print(f"GIF {momento}: enviado")
         except Exception as e:
             print("GIF:", str(e)[:150])

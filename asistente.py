@@ -484,6 +484,19 @@ class Asistente:
             return self.candidatos_gifs(resto[0])
         if accion == "gifv":
             return self.votar_gif(q, resto[0] == "s", resto[1], resto[2])
+        if accion == "gifquitar":   # 28/10: un GIF publicado que no le gusta: fuera del canal y vetado
+            import gifs
+            gid, mid = resto[0], resto[1]
+            votos = gifs.votar(leer(gifs.VOTOS, {}) or {}, "verde", gid, False)
+            escribir(gifs.VOTOS, votos)
+            self.gifs_pendiente = True
+            self.subir_votos(forzar=True)
+            try:
+                if mid and mid != "None":
+                    api(self.t, "deleteMessage", {"chat_id": self.canal, "message_id": int(mid)})
+                return self.enviar("🗑️ Quitado del canal. No volverá a salir.")
+            except Exception as e:
+                return self.enviar(f"Vetado, pero no he podido borrarlo del canal: {str(e)[:120]}")
         c = self.control()
         # 27/10: si el bot se ha reiniciado entre tu foto y tu botón, la foto se recupera del mensaje al que
         # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
