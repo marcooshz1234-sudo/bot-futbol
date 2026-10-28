@@ -25,3 +25,11 @@ class EnlaceTelegram(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Duplicados(unittest.TestCase):
+    def test_misma_liga_distinto_partido(self):
+        a = "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BAYERN MÜNCHEN vs 1. FC MAGDEBURG 🇩🇪\n\n🎯 X"
+        b = "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BAYER LEVERKUSEN vs 1. FC NÜRNBERG 🇩🇪\n\n🎯 Y"
+        self.assertNotEqual(redes._titulo(a), redes._titulo(b))
+        self.assertEqual(redes._titulo(a), redes._titulo(a + "\notra cosa"))

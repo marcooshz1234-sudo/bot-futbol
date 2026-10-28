@@ -204,8 +204,10 @@ def facebook(p, token_usuario, pagina, con_foto):
 
 
 def _titulo(t):
+    """Huella para no publicar dos veces lo mismo. 28/10: las 2 primeras líneas (antes solo la 1ª): Bayern y
+    Leverkusen empiezan igual («✅ COMBI LOCAS | DFB-POKAL») y el Leverkusen no salió en Threads ni Instagram."""
     import re as _re
-    return _re.sub(r"\W+", "", (t or "").strip().split("\n")[0]).lower()[:40]
+    return _re.sub(r"\W+", "", " ".join((t or "").strip().split("\n")[:2])).lower()[:80]
 
 
 _RECIENTES = {}
