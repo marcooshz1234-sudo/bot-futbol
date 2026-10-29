@@ -329,7 +329,8 @@ def posts_del_dia(dia, d):
         else:
             intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
-        posts.append(("escalera", f.replace(hour=11, minute=0), act["picks"],
+        h_esc, m_esc = (int(x) for x in (act.get("hora") or "11:00").split(":"))   # 29/10: si se prepara tarde, sale tarde
+        posts.append(("escalera", f.replace(hour=h_esc, minute=m_esc), act["picks"],
                       f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 · x{num(act['cuota'])} 🍀\n\n{intro}\n\n"
                       f"{lista(act['picks'])}\n\n🎯 CUOTA {num(act['cuota'])} 💎 · "
                       f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n{VERDE}"))
