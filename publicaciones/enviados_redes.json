@@ -174,10 +174,9 @@
  "2026-10-29-escalera": {
   "redes": {
    "threads": "18644882698025999",
-   "threads_enlace": "17979750104922666"
-  },
-  "errores_redes": {
-   "instagram": "falta la imagen/vídeo en publicaciones/media"
+   "threads_enlace": "17979750104922666",
+   "instagram_reel": null,
+   "instagram": "18358066831220192"
   }
  }
 }
