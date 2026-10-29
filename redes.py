@@ -255,6 +255,41 @@ def ya_esta(red, p, claves, pagina):
 
 # ------------------------------------------------------------------ bucle
 
+RESPUESTAS = RAIZ / "publicaciones" / "respuestas_threads.json"
+
+
+def responder_threads(token):
+    """29/10 (Marcos): respuestas a comentarios de seguidores en Threads, puestas por el bot.
+    publicaciones/respuestas_threads.json: [{"post": id del post, "usuario": "walter", "texto": "…"}].
+    Busca el comentario de ese usuario en el post y le responde; apunta el resultado en la misma entrada."""
+    lista = json.loads(RESPUESTAS.read_text(encoding="utf-8")) if RESPUESTAS.exists() else []
+    cambios = False
+    for r in lista:
+        if r.get("hecho") or r.get("intentos", 0) >= 3:
+            continue
+        r["intentos"] = r.get("intentos", 0) + 1
+        cambios = True
+        try:
+            dest = r.get("comentario")
+            if not dest:
+                rep = llamar("GET", f"{THREADS}/{r['post']}/replies", {"fields": "id,username,text", "access_token": token})
+                dest = next((x["id"] for x in rep.get("data", []) if x.get("username", "").lower() == r["usuario"].lower()), None)
+            if not dest:
+                r["error"] = "no encuentro su comentario"
+                continue
+            c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": r["texto"], "reply_to_id": dest,
+                                                         "access_token": token})
+            time.sleep(3)
+            r["hecho"] = llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
+            r.pop("error", None)
+            print(f"Threads: respondido a {r['usuario']}")
+        except Exception as e:
+            r["error"] = str(e)[:200]
+            print("Threads: no se pudo responder a", r.get("usuario"), r["error"])
+    if cambios:
+        RESPUESTAS.write_text(json.dumps(lista, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
 def main(objetivo=None):
     control = json.loads(CONTROL.read_text(encoding="utf-8")) if CONTROL.exists() else {}
     if control.get("pausa"):
@@ -266,6 +301,11 @@ def main(objetivo=None):
     if not any(claves.values()):
         print("Redes: sin claves de Meta todavía (se publica solo en Telegram)")
         return
+    if claves["threads"] and not objetivo:
+        try:
+            responder_threads(claves["threads"])
+        except Exception as e:
+            print("respuestas Threads:", str(e)[:150])
     cola = json.loads(COLA.read_text(encoding="utf-8"))
     auto = json.loads(AUTO.read_text(encoding="utf-8")) if AUTO.exists() else []
     est_auto = json.loads(ESTADO_AUTO.read_text(encoding="utf-8")) if ESTADO_AUTO.exists() else {}
