@@ -558,7 +558,7 @@
   {
     "id": "2026-10-30-combi-partido-1552806",
     "fecha": "2026-10-30T01:30",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 NICE vs RENNES 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ NICE O EMPATE [x1.53]\n✅ AMBOS MARCAN [x1.50]\n✅ NICE HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ RENNES HACE MÁS TIROS A PUERTA [x2.05]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,57\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 NICE vs RENNES 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ NICE O EMPATE [x1.53]\n✅ AMBOS MARCAN [x1.50]\n✅ NICE HACE MÁS DE 4,5 CÓRNERS [x1.80]\n✅ RENNES HACE MÁS TIROS A PUERTA [x2.05]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,16\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -573,7 +573,7 @@
       1.25,
       1.53,
       1.5,
-      1.67,
+      1.8,
       2.05
     ],
     "tarjeta": {
@@ -585,7 +585,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/94.png",
       "fecha": "2026-10-30T19:00",
       "liga": "Ligue 1"
-    }
+    },
+    "cuotas_revisadas": "2026-10-30T00:01"
   },
   {
     "id": "2026-10-30-combi-tres",
