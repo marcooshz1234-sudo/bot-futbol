@@ -1688,6 +1688,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-10-29-combi-tres"
+    "verde_de": "2026-10-29-combi-tres",
+    "enviado": "2026-10-29T21:33",
+    "mensaje_id": 172,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18119693636101360",
+      "instagram": "18058770539805120",
+      "instagram_story": "18107381075457288"
+    }
   }
 ]
