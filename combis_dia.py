@@ -399,10 +399,19 @@ def implica(a, b):
     return False
 
 
+COMBINADOS = ("Results/Both Teams Score", "Total Goals/Both Teams To Score", "Result/Total Goals")
+# 29/10 (Marcos): «gana X y ambos marcan» no va con «gana X», «ambos marcan», «X marca 2 o más»… (lo repite)
+CHOCAN_COMBINADO = ("Match Winner", "Double Chance", "To Win Either Half", "Both Teams Score", "Total - Home",
+                    "Total - Away", "Goals Over/Under")
+
+
 def coherente(comb):
     import picks as P
     from plantillas import cumple
     if any(implica(a, b) for a in comb for b in comb if a is not b):
+        return False
+    if any(p["mercado"] in COMBINADOS for p in comb) and \
+            sum(1 for p in comb if p["mercado"] in COMBINADOS or p["mercado"] in CHOCAN_COMBINADO) > 1:
         return False
     lados = {P.lado_pick(p) for p in comb if p["mercado"] in RESULTADO} - {None}
     if len(lados) > 1:
