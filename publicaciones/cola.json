@@ -1719,7 +1719,12 @@
     "foto_tg": "publicaciones/media/2026-10-29-por-un-corner.tarjeta.jpg",
     "enviado": "2026-10-29T22:51",
     "mensaje_id": 174,
-    "directo": true
+    "directo": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18231657970328783",
+      "instagram": "18141122122619383"
+    }
   },
   {
     "id": "2026-10-29-verde-auto-2026-10-29-combi-partido-1550169",
