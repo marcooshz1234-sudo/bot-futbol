@@ -1698,5 +1698,23 @@
       "instagram_story": "18107381075457288",
       "threads_enlace": "18647180551006571"
     }
+  },
+  {
+    "id": "2026-10-29-por-un-corner",
+    "fecha": "2026-10-29T22:43",
+    "texto": "😩 ¡POR UN CÓRNER! 😩\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 EVERTON 3-1 NEWCASTLE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n✅ GOL EN LA 1ª PARTE\n✅ NEWCASTLE VE MÁS DE 1,5 TARJETAS\n❌ EVERTON HACE MÁS DE 4,5 CÓRNERS (se quedó en 4)\n✅ MÁS DE 26,5 TIROS\n✅ MÁS DE 9,5 CÓRNERS\n\n💔 4 de 5 y la x9,10 se nos escapa por UN córner\n\n💪 Mañana más combis con escudos 🍀",
+    "foto": null,
+    "origen": "bot",
+    "tarjeta": {
+      "local": "Everton",
+      "visitante": "Newcastle",
+      "id_l": 45,
+      "id_v": 34,
+      "logo_l": "https://media.api-sports.io/football/teams/45.png",
+      "logo_v": "https://media.api-sports.io/football/teams/34.png",
+      "fecha": "2026-10-29T20:45",
+      "liga": "Carabao Cup"
+    },
+    "nota": "29/10 22:43: casi verde del Everton–Newcastle (falló por un córner), pedido por Marcos («sube que solo ha faltado eso»)"
   }
 ]
