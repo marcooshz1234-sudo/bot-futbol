@@ -1,10 +1,10 @@
 # Bayer Leverkusen – VfB Stuttgart
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **2.00**
@@ -126,7 +126,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Bayer Leverkusen:** L. Bade (baja, Head Injury); E. Ben Seghir (baja, Muscle Injury); M. Diaby (baja, Hamstring Injury); K. Eichhorn (baja, Illness); C. Kofane (baja, Muscle Injury); M. Terrier (baja, Muscle Injury); G. Doue (duda, Calf Injury); L. Bade (baja, Head Injury); E. Ben Seghir (baja, Muscle Injury); M. Diaby (baja, Hamstring Injury); K. Eichhorn (baja, Illness); C. Kofane (baja, Muscle Injury); M. Terrier (baja, Muscle Injury); G. Doue (duda, Calf Injury)
+**VfB Stuttgart:** T. Tomas (baja, Muscle Injury); J. Vagnoman (baja, Muscle Injury); J. Diehl (duda, Muscle Injury); D. Zagadou (duda, Muscle Injury); T. Tomas (baja, Muscle Injury); J. Vagnoman (baja, Muscle Injury); J. Diehl (duda, Muscle Injury); D. Zagadou (duda, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-09 · Bundesliga: VfB Stuttgart 3-1 Bayer Leverkusen

@@ -1,10 +1,10 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.91**  ·  X **3.80**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.83**
@@ -131,7 +131,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Aston Villa:** A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury)
+**Fulham:** R. Sessegnon (baja, Red Card); E. Smith Rowe (duda, Injury); R. Sessegnon (baja, Red Card); E. Smith Rowe (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-25 · Premier League: Fulham 1-0 Aston Villa

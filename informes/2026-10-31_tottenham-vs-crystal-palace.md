@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
@@ -134,7 +134,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Tottenham:** R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury); D. Udogie (duda, Knee Injury); R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury); D. Udogie (duda, Knee Injury)
+**Crystal Palace:** C. Riad (baja, Knee Injury); T. Tomiyasu (baja, Calf Injury); J. Larsen (duda, Ankle Injury); I. Sarr (duda, Groin Injury); Q. Timber (duda, Hamstring Injury); C. Riad (baja, Knee Injury); T. Tomiyasu (baja, Calf Injury); J. Larsen (duda, Ankle Injury); I. Sarr (duda, Groin Injury); Q. Timber (duda, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-05 · Premier League: Tottenham 1-3 Crystal Palace

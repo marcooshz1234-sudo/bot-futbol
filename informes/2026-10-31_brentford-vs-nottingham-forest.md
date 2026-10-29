@@ -1,10 +1,10 @@
 # Brentford – Nottingham Forest
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Gtech Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
@@ -127,7 +127,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Brentford:** K. Furo (baja, Surgery); R. Henry (baja, Hip Injury); Y. Yarmolyuk (baja, Red Card); J. Dasilva (duda, Muscle Injury); A. Milambo (duda, Knock); K. Furo (baja, Surgery); R. Henry (baja, Hip Injury); Y. Yarmolyuk (baja, Red Card); J. Dasilva (duda, Muscle Injury); A. Milambo (duda, Knock)
+**Nottingham Forest:** N. Savona (baja, Knee Injury); N. Dominguez (duda, Muscle Injury); Igor Jesus (duda, Calf Injury); N. Williams (duda, Elbow Injury); N. Savona (baja, Knee Injury); N. Dominguez (duda, Muscle Injury); Igor Jesus (duda, Calf Injury); N. Williams (duda, Elbow Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-25 · Premier League: Brentford 0-2 Nottingham Forest

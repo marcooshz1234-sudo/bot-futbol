@@ -1,10 +1,10 @@
 # Norwich – Watford
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.53**  ·  X **4.00**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.25**
@@ -111,7 +111,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Norwich:** A. Ahmed (baja, Knee Injury); P. A. Diallo (baja, Injury); M. Toure (baja, Shoulder Injury); G. Forsyth (duda, Lacking Match Fitness); M. Topic (duda, Lacking Match Fitness); A. Ahmed (baja, Knee Injury); P. A. Diallo (baja, Injury); M. Toure (baja, Shoulder Injury); G. Forsyth (duda, Lacking Match Fitness); M. Topic (duda, Lacking Match Fitness)
+**Watford:** K. Baah (baja, Knock); E. Bove (baja, Knee Injury); J. Ngakia (baja, Thigh Injury); M. Antonio (duda, Inactive); K. Baah (baja, Knock); E. Bove (baja, Knee Injury); J. Ngakia (baja, Thigh Injury); M. Antonio (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2025-12-29 · Championship: Norwich 0-1 Watford

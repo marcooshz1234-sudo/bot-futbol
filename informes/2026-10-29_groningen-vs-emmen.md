@@ -1,52 +1,52 @@
 # Groningen – Emmen
 **KNVB Beker** · Round of 64 · 29/10/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
-- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **5.25**
+- **1X2:** 1 **1.48**  ·  X **5.00**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.40** · menos **2.88**
     - 3,5: más **2.00** · menos **1.73**
-    - 4,5: más **3.25** · menos **1.33**
+    - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**
-    - 6,5: más **11.00** · menos **1.05**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **5.50**
+    - 10,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.75**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
-- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
-- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **1.22**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **5.00**
-- **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **23.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.60**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.25**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **5.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **5.50**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **21.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 
 ## Estadísticas de equipo
 | | Groningen (total) | Groningen en casa | Emmen (total) | Emmen fuera |

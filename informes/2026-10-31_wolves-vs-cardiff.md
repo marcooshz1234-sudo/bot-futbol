@@ -1,10 +1,10 @@
 # Wolves – Cardiff
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.62**  ·  X **4.00**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.25**
@@ -112,7 +112,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Wolves:** R. Gomes (baja, Foot Injury); R. Jimenez (baja, Knee Injury); B. Traore (baja, Injury); B. Traore (baja, Injury); R. Gomes (baja, Foot Injury); R. Jimenez (baja, Knee Injury); B. Traore (baja, Injury); B. Traore (baja, Injury)
+**Cardiff:** C. Chambers (baja, Knee Injury); D. Lawlor (baja, Hamstring Injury); R. Colwill (duda, Ankle Injury); C. Chambers (baja, Knee Injury); D. Lawlor (baja, Hamstring Injury); R. Colwill (duda, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2019-03-02 · Premier League: Wolves 2-0 Cardiff

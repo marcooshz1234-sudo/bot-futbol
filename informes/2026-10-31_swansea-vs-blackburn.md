@@ -1,10 +1,10 @@
 # Swansea – Blackburn
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.70**  ·  X **3.40**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.00**
@@ -110,7 +110,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Swansea:** C. Burgess (baja, Achilles Tendon Injury); J. Key (baja, Muscle Injury); Ronald (baja, Hamstring Injury); C. Burgess (baja, Achilles Tendon Injury); J. Key (baja, Muscle Injury); Ronald (baja, Hamstring Injury)
+**Blackburn:** A. Forshaw (baja, Hip Injury); M. Litherland (baja, Muscle Injury); L. Miller (baja, Achilles Tendon Injury); S. Morsy (baja, Yellow Cards); Y. Ohashi (baja, Hamstring Injury); Y. Ribeiro (baja, Hamstring Injury); R. Morishita (duda, Injury); A. Forshaw (baja, Hip Injury); M. Litherland (baja, Muscle Injury); L. Miller (baja, Achilles Tendon Injury); S. Morsy (baja, Yellow Cards); Y. Ohashi (baja, Hamstring Injury); Y. Ribeiro (baja, Hamstring Injury); R. Morishita (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-20 · Championship: Swansea 3-1 Blackburn

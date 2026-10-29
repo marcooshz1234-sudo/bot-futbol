@@ -1,10 +1,46 @@
 # Varea – FC Andorra
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España) · Estadio Las Gaunas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 29/10 14:01_
+
+- **1X2:** 1 **21.00**  ·  X **7.00**  ·  2 **1.14**
+- **Doble oportunidad:** 1X **5.50**  ·  12 **1.10**  ·  X2 **1.01**
+- **Ambos marcan:** Sí **3.25**  ·  No **1.33**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **3.00** · menos **1.36**
+- **Goles del visitante:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **19.00**  ·  X **2.75**  ·  2 **1.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
+- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
+- **To Win Either Half:** 1 **9.00**  ·  2 **1.10**
+- **To Score In Both Halves By Teams:** 1 **23.00**  ·  2 **1.83**
+- **Win Both Halves:** 1 **101.00**  ·  2 **2.20**
+- **Results/Both Teams Score:** Home/Yes **41.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **4.33**  ·  Home/No **26.00**  ·  Draw/No **10.00**  ·  Away/No **1.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.00**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **2.25**
 
 ## Estadísticas de equipo
 | | Varea (total) | Varea en casa | FC Andorra (total) | FC Andorra fuera |

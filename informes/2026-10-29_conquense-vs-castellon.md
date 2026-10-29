@@ -1,33 +1,46 @@
 # Conquense – Castellón
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España) · Estadio La Fuensanta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
-- **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.53**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **1X2:** 1 **5.00**  ·  X **3.60**  ·  2 **1.70**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.28**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.70** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.38**
-- **Win Both Halves:** 1 **23.00**  ·  2 **4.00**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **10.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.60**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.25**  ·  2 **2.25**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.40**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.62**
+- **Win Both Halves:** 1 **19.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.40**
 
 ## Estadísticas de equipo
 | | Conquense (total) | Conquense en casa | Castellón (total) | Castellón fuera |

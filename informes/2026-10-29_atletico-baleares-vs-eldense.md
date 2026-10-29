@@ -1,35 +1,48 @@
 # Atlético Baleares – Eldense
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España) · Estadio Balear
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:00_
+_Actualizadas: 29/10 14:00_
 
-- **1X2:** 1 **3.80**  ·  X **3.60**  ·  2 **1.75**
+- **1X2:** 1 **4.10**  ·  X **3.50**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.85** · menos **1.95**
-    - 3,5: más **3.25** · menos **1.33**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
-    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.62** · menos **1.44**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 9,5: más **1.90** · menos **1.90**
-- **1X2 descanso:** 1 **4.75**  ·  X **2.25**  ·  2 **2.38**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.20**  ·  2 **2.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.50**  ·  2 **1.44**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.75**
-- **Win Both Halves:** 1 **17.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **11.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.38**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.00**
+- **Win Both Halves:** 1 **17.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **10.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 
 ## Estadísticas de equipo

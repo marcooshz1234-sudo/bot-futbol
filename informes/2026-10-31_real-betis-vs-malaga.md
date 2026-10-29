@@ -1,10 +1,10 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de la Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **3.00**
@@ -112,7 +112,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Real Betis:** F. Bernal (baja, Red Card); C. Hernandez (baja, Calf Injury); I. Losada (baja, Coach's decision); F. Bernal (baja, Red Card); C. Hernandez (baja, Calf Injury); I. Losada (baja, Coach's decision)
+**Malaga:** J. Lobete (baja, Knee Injury); J. Munoz (baja, Calf Injury); D. Murillo (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); P. Martinez (duda, Foot Injury); J. Lobete (baja, Knee Injury); J. Munoz (baja, Calf Injury); D. Murillo (baja, Knee Injury); A. Ochoa (baja, Knee Injury); J. Cruz (duda, Muscle Injury); P. Martinez (duda, Foot Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-08-09 · Friendlies Clubs: Malaga 3-1 Real Betis

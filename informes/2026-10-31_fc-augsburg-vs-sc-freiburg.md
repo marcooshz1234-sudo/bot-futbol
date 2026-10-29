@@ -1,10 +1,10 @@
 # FC Augsburg – SC Freiburg
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **2.90**  ·  X **3.75**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -123,7 +123,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**FC Augsburg:** J. Bah (baja, Red Card); N. Banks (baja, Knee Injury); S. Mounie (baja, Injury); C. Brackelmann (duda, Concussion); A. Claude-Maurice (duda, Muscle Injury); J. Bah (baja, Red Card); N. Banks (baja, Knee Injury); S. Mounie (baja, Injury); C. Brackelmann (duda, Concussion); A. Claude-Maurice (duda, Muscle Injury)
+**SC Freiburg:** B. Yilmaz (duda, Lacking Match Fitness); B. Yilmaz (duda, Lacking Match Fitness)
 
 ## Enfrentamientos directos recientes
 - 2026-01-18 · Bundesliga: FC Augsburg 2-2 SC Freiburg

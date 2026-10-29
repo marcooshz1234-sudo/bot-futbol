@@ -1,10 +1,10 @@
 # Stoke City – Preston
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **2.00**
@@ -110,7 +110,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Stoke City:** A. Ampah (baja, Knee Injury); E. Bocat (baja, Injury); A. Cresswell (baja, Knee Injury); S. Gallagher (baja, Injury); S. Ingelsson (baja, Muscle Injury); A. Ampah (baja, Knee Injury); E. Bocat (baja, Injury); A. Cresswell (baja, Knee Injury); S. Gallagher (baja, Injury); S. Ingelsson (baja, Muscle Injury)
+**Preston:** H. Clarke (baja, Knee Injury); L. Gibbs (baja, Muscle Injury); L. Gibson (baja, Inactive); A. McCann (baja, Hamstring Injury); T. Carroll (duda, Ankle Injury); L. Lindsay (duda, Injury); H. Clarke (baja, Knee Injury); L. Gibbs (baja, Muscle Injury); L. Gibson (baja, Inactive); A. McCann (baja, Hamstring Injury); T. Carroll (duda, Ankle Injury); L. Lindsay (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-20 · Championship: Preston 3-1 Stoke City

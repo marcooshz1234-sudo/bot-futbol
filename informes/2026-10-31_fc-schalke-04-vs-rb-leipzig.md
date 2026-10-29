@@ -1,10 +1,10 @@
 # FC Schalke 04 – RB Leipzig
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · VELTINS-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **3.90**  ·  X **3.70**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
@@ -125,7 +125,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**FC Schalke 04:** A. Gantenbein (baja, Muscle Injury); R. Schallenberg (baja, Leg Injury); M. Wober (baja, Muscle Injury); S. El-Faouzi (duda, Broken nose); R. Gosens (duda, Head Injury); M. Sylla (duda, Leg Injury); A. Gantenbein (baja, Muscle Injury); R. Schallenberg (baja, Leg Injury); M. Wober (baja, Muscle Injury); S. El-Faouzi (duda, Broken nose); R. Gosens (duda, Head Injury); M. Sylla (duda, Leg Injury)
+**RB Leipzig:** M. Guiu (baja, Hamstring Injury); A. Ouedraogo (baja, Shoulder Injury); M. Esteve (duda, Knock); C. Nkunku (duda, Groin Injury); M. Guiu (baja, Hamstring Injury); A. Ouedraogo (baja, Shoulder Injury); M. Esteve (duda, Knock); C. Nkunku (duda, Groin Injury)
 
 ## Enfrentamientos directos recientes
 - 2023-05-27 · Bundesliga: RB Leipzig 4-2 FC Schalke 04

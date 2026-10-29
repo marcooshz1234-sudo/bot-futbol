@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.65**  ·  X **4.10**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.20**
@@ -123,7 +123,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Manchester City:** A. Semenyo (baja, Knee Injury); M. Nunes (duda, Knock); A. Semenyo (baja, Knee Injury); M. Nunes (duda, Knock)
+**Brighton:** F. Azeez (baja, Abdominal strain); E. Ferguson (baja, Ankle Injury); K. Mitoma (baja, Hamstring Injury); P. Struijk (baja, Rest); S. Tzimas (baja, Knee Injury); Z. Yohanna (baja, Injury); C. Andres (duda, Muscle Injury); F. Kadioglu (duda, Hip Injury); F. Azeez (baja, Abdominal strain); E. Ferguson (baja, Ankle Injury); K. Mitoma (baja, Hamstring Injury); P. Struijk (baja, Rest); S. Tzimas (baja, Knee Injury); Z. Yohanna (baja, Injury); C. Andres (duda, Muscle Injury); F. Kadioglu (duda, Hip Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-07 · Premier League: Manchester City 1-1 Brighton

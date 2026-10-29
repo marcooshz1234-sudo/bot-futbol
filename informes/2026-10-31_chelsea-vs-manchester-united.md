@@ -1,10 +1,10 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
@@ -132,7 +132,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Chelsea:** R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Injury); R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Injury)
+**Manchester United:** P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); B. Fernandes (duda, Injury); K. Mainoo (duda, Injury); M. Rashford (duda, Hip Injury); P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); B. Fernandes (duda, Injury); K. Mainoo (duda, Injury); M. Rashford (duda, Hip Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-18 · Premier League: Chelsea 0-1 Manchester United

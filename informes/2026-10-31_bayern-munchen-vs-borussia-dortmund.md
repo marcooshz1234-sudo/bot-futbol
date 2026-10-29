@@ -1,10 +1,10 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -127,7 +127,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Bayern München:** T. Buchmann (baja, Knee Injury); L. Diaz (baja, Muscle Injury); J. Musiala (duda, Muscle Injury); M. Neuer (duda, Foot Injury); T. Buchmann (baja, Knee Injury); L. Diaz (baja, Muscle Injury); J. Musiala (duda, Muscle Injury); M. Neuer (duda, Foot Injury)
+**Borussia Dortmund:** E. Can (baja, Knee Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury); R. Bensebaini (duda, Muscle Injury); K. Karetsas (duda, Ankle Injury); K. Prates (duda, Muscle Injury); E. Can (baja, Knee Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury); R. Bensebaini (duda, Muscle Injury); K. Karetsas (duda, Ankle Injury); K. Prates (duda, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-08-22 · Super Cup: Borussia Dortmund 1-2 Bayern München

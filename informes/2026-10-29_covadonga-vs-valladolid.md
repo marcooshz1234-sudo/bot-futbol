@@ -1,10 +1,10 @@
 # Covadonga – Valladolid
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España) · Estadio El Bayu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **13.00**  ·  X **6.50**  ·  2 **1.20**
 - **Doble oportunidad:** 1X **4.33**  ·  12 **1.11**  ·  X2 **1.04**

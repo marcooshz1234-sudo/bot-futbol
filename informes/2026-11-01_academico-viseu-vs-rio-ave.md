@@ -1,10 +1,10 @@
 # Academico Viseu – Rio Ave
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 14:03_
 
 - **1X2:** 1 **1.85**  ·  X **3.50**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**

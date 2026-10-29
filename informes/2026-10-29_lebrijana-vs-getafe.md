@@ -1,18 +1,18 @@
 # Lebrijana – Getafe
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España) · Municipal de Lebrija
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
-- **1X2:** 1 **51.00**  ·  X **19.00**  ·  2 **1.02**
-- **Doble oportunidad:** 1X **21.00**  ·  12 **1.01**  ·  X2 **1.00**
+- **1X2:** 1 **29.00**  ·  X **15.00**  ·  2 **1.03**
+- **Doble oportunidad:** 1X **15.00**  ·  12 **1.03**  ·  X2 **1.01**
 - **Goles más/menos:**
-    - 2,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.17** · menos **5.00**
 - **Córners más/menos:**
     - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **34.00**  ·  X **6.00**  ·  2 **1.14**
+- **1X2 descanso:** 1 **26.00**  ·  X **5.00**  ·  2 **1.18**
 
 ## Estadísticas de equipo
 | | Lebrijana (total) | Lebrijana en casa | Getafe (total) | Getafe fuera |

@@ -1,10 +1,10 @@
 # Borussia Mönchengladbach – SC Paderborn 07
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **1.90**  ·  X **3.90**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
@@ -121,7 +121,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Borussia Mönchengladbach:** F. Fleck (baja, Muscle Injury); E. Leopold (baja, Knee Injury); J. Leszczynski (baja, Knee Injury); F. Honorat (duda, Muscle Injury); T. Kleindienst (duda, Muscle Injury); N. Kuhn (duda, Muscle Injury); F. Fleck (baja, Muscle Injury); E. Leopold (baja, Knee Injury); J. Leszczynski (baja, Knee Injury); F. Honorat (duda, Muscle Injury); T. Kleindienst (duda, Muscle Injury); N. Kuhn (duda, Muscle Injury)
+**SC Paderborn 07:** O. Batista Meier (baja, Ankle Injury); T. Gayret (baja, Knee Injury); N. Awortwie-Grant (duda, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury); G. Vidovic (duda, Foot Injury); O. Batista Meier (baja, Ankle Injury); T. Gayret (baja, Knee Injury); N. Awortwie-Grant (duda, Knee Injury); M. Hoffmeier (duda, Muscle Injury); S. Klaas (duda, Muscle Injury); G. Vidovic (duda, Foot Injury)
 
 ## Enfrentamientos directos recientes
 - 2021-07-17 · Friendlies Clubs: SC Paderborn 07 3-1 Borussia Monchengladbach

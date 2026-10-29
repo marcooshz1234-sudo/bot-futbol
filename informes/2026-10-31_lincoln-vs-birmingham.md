@@ -1,10 +1,10 @@
 # Lincoln – Birmingham
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.36**
@@ -110,7 +110,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Lincoln:** T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive); T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive)
+**Birmingham:** M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems)
 
 ## Enfrentamientos directos recientes
 - 2025-03-08 · League One: Birmingham 1-0 Lincoln

@@ -1,10 +1,18 @@
 # Hortaleza – Sevilla
 **Copa del Rey** · Round of 128 · 29/10/2026 21:00 (hora España) · Estadio Municipal El Val
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 29/10 14:01_
+
+- **1X2:** 1 **51.00**  ·  X **19.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **21.00**  ·  12 **1.01**  ·  X2 **1.00**
+- **Goles más/menos:**
+    - 2,5: más **1.10** · menos **7.00**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **41.00**  ·  X **6.50**  ·  2 **1.11**
 
 ## Estadísticas de equipo
 | | Hortaleza (total) | Hortaleza en casa | Sevilla (total) | Sevilla fuera |

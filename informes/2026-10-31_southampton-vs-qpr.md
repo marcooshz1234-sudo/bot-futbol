@@ -1,10 +1,10 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.73**  ·  X **3.90**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **2.05**
@@ -111,7 +111,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Southampton:** F. Downes (duda, Ankle Injury); C. Larin (duda, Hamstring Injury); F. Downes (duda, Ankle Injury); C. Larin (duda, Hamstring Injury)
+**QPR:** R. Burrell (baja, Inactive); I. Chair (baja, Muscle Injury); T. Lamptey (baja, Inactive); N. Madsen (baja, Injury); A. S. Mbengue (baja, Knee Injury); R. Burrell (baja, Inactive); I. Chair (baja, Muscle Injury); T. Lamptey (baja, Inactive); N. Madsen (baja, Injury); A. S. Mbengue (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-24 · Championship: Southampton 5-0 QPR

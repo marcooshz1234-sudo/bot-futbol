@@ -1,10 +1,10 @@
 # Millwall – Derby
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.67**  ·  X **3.70**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.15**
@@ -111,7 +111,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Millwall:** J. Coburn (baja, Muscle Injury); C. De Norre (baja, Muscle Injury); L. Jensen (baja, Muscle Injury); M. Luongo (baja, Knee Injury); F. Marschall (baja, Injury); M. Servais (baja, Inactive); T. Arconte (duda, Ankle Injury); J. Coburn (baja, Muscle Injury); C. De Norre (baja, Muscle Injury); L. Jensen (baja, Muscle Injury); M. Luongo (baja, Knee Injury); F. Marschall (baja, Injury); M. Servais (baja, Inactive); T. Arconte (duda, Ankle Injury)
+**Derby:** P. Agyemang (baja, Achilles Tendon Injury); E. Cashin (baja, Inactive); M. Clarke (baja, Calf Injury); C. Forsyth (baja, Knee Injury); S. Langas (baja, Injury); D. Murkin (baja, Hamstring Injury); D. Sanderson (baja, Red Card); C. Taylor (baja, Injury); L. Travis (baja, Ankle Injury); P. Agyemang (baja, Achilles Tendon Injury); E. Cashin (baja, Inactive); M. Clarke (baja, Calf Injury); C. Forsyth (baja, Knee Injury); S. Langas (baja, Injury); D. Murkin (baja, Hamstring Injury); D. Sanderson (baja, Red Card); C. Taylor (baja, Injury); L. Travis (baja, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-10 · Championship: Millwall 1-0 Derby

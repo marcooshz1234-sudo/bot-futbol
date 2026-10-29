@@ -1,10 +1,10 @@
 # Ajax – AZ Alkmaar
 **Eredivisie** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.73**  ·  X **4.20**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **2.05**
@@ -32,7 +32,7 @@ _Actualizadas: 29/10 02:02_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.73** · menos **2.00**
+    - 9,5: más **1.78** · menos **2.02**
     - 10: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.62**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
@@ -113,7 +113,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Ajax:** S. Adingra (baja, Lacking Match Fitness); Caio Henrique (baja, Thigh Injury); K. Dolberg (baja, Knee Injury); O. Edvardsen (baja, Inactive); A. Gaaei (baja, Injury); S. Berghuis (duda, Injury); S. Adingra (baja, Lacking Match Fitness); Caio Henrique (baja, Thigh Injury); K. Dolberg (baja, Knee Injury); O. Edvardsen (baja, Inactive); A. Gaaei (baja, Injury); S. Berghuis (duda, Injury)
+**AZ Alkmaar:** J. Hornkamp (baja, Injury); S. Resink (baja, Knee Injury); K. Smit (baja, Injury); J. Zoet (baja, Inactive); W. Goes (duda, Inactive); J. Hornkamp (baja, Injury); S. Resink (baja, Knee Injury); K. Smit (baja, Injury); J. Zoet (baja, Inactive); W. Goes (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-02-08 · Eredivisie: AZ Alkmaar 1-1 Ajax
@@ -226,8 +227,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 45% | 41% | 43% | 2.25 | -3% |
 | Goles del visitante: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -13% |
 | Goles del visitante: Menos de 1.5 | 55% | 59% | 57% | 1.57 | -11% |
-| Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Córners más/menos: Más de 9.5 | 50% | 53% | 52% | 1.78 | -8% |
+| Córners más/menos: Menos de 9.5 | 50% | 47% | 48% | 2.02 | -3% |
 | 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -2% |
 | 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -7% |
 | 1X2 descanso: 1 | 38% | 42% | 40% | 2.20 | -13% |

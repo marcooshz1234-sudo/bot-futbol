@@ -1,10 +1,10 @@
 # Werder Bremen – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Weser-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **2.90**  ·  X **3.80**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -122,7 +122,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Werder Bremen:** F. Agu (baja, Calf Injury); S. Alvero (baja, Calf Injury); S. Musah (baja, Muscle Injury); J. Njinmah (baja, Thigh Injury); J. Stage (baja, Muscle Injury); K. Topp (baja, Knee Injury); M. N'Diaye (duda, Groin Injury); N. Stark (duda, Muscle Injury); F. Agu (baja, Calf Injury); S. Alvero (baja, Calf Injury); S. Musah (baja, Muscle Injury); J. Njinmah (baja, Thigh Injury); J. Stage (baja, Muscle Injury); K. Topp (baja, Knee Injury); M. N'Diaye (duda, Groin Injury); N. Stark (duda, Muscle Injury)
+**1899 Hoffenheim:** N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); A. Prass (baja, Red Card); P. Wimmer (baja, Thigh Injury); Bernardo (duda, Injury); N. De Cat (baja, Knee Injury); A. Hajdari (baja, Foot Injury); A. Prass (baja, Red Card); P. Wimmer (baja, Thigh Injury); Bernardo (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-09 · Bundesliga: 1899 Hoffenheim 1-0 Werder Bremen

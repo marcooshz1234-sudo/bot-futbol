@@ -1,20 +1,20 @@
 # Xerez – Cadiz
 **Copa del Rey** · Round of 128 · 29/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
-- **1X2:** 1 **4.10**  ·  X **3.50**  ·  2 **1.85**
-- **Doble oportunidad:** 1X **2.05**  ·  12 **1.28**  ·  X2 **1.18**
+- **1X2:** 1 **3.80**  ·  X **3.50**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.30**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.50** · menos **1.14**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
@@ -29,16 +29,16 @@ _Actualizadas: 29/10 02:01_
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **4.33**  ·  X **2.30**  ·  2 **2.40**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.38**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.38**  ·  2 **1.44**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.62**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.75**
 - **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
 - **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **8.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**

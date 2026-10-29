@@ -1,7 +1,7 @@
 # Lyon – Angers
-**Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Parc Olympique Lyonnais
+**Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Parc Olympique Lyonnais
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:02_

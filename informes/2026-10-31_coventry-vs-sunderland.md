@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
@@ -127,7 +127,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Coventry:** A. Amenda (baja, Calf Injury); L. Woolfenden (baja, Knee Injury); H. Wright (baja, Muscle Injury); J. Eccles (duda, Ankle Injury); B. Thomas (duda, Leg Injury); A. Amenda (baja, Calf Injury); L. Woolfenden (baja, Knee Injury); H. Wright (baja, Muscle Injury); J. Eccles (duda, Ankle Injury); B. Thomas (duda, Leg Injury)
+**Sunderland:** D. Ballard (baja, Muscle Injury); R. Mundle (baja, Knee Injury); W. Isidor (duda, Injury); N. Mukiele (duda, Face Injury); J. Ta Bi (duda, Injury); D. Ballard (baja, Muscle Injury); R. Mundle (baja, Knee Injury); W. Isidor (duda, Injury); N. Mukiele (duda, Face Injury); J. Ta Bi (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-05-13 · Championship: Sunderland 1-1 Coventry

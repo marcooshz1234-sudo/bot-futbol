@@ -1,10 +1,10 @@
 # West Ham – West Brom
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.53**  ·  X **4.20**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.38**
@@ -111,7 +111,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**West Ham:** K. Lamadrid (baja, Injury); K. Lamadrid (baja, Injury)
+**West Brom:** T. Collyer (baja, Injury); N. Galves (baja, Knee Injury); M. Johnston (baja, Broken Leg); T. Collyer (baja, Injury); N. Galves (baja, Knee Injury); M. Johnston (baja, Broken Leg)
 
 ## Enfrentamientos directos recientes
 - 2021-05-19 · Premier League: West Brom 1-3 West Ham

@@ -1,10 +1,10 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **3.10**  ·  X **3.00**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.36**  ·  X2 **1.36**

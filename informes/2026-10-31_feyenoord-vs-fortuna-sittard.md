@@ -1,10 +1,10 @@
 # Feyenoord – Fortuna Sittard
 **Eredivisie** · Regular Season - 11 · 31/10/2026 16:30 (hora España) · Stadion Feijenoord
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **5.50**
@@ -114,7 +114,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Feyenoord:** T. Beelen (baja, Broken Leg); J. Bos (baja, Knee Injury); R. Nelson (baja, Muscle Injury); B. Nieuwkoop (baja, Knee Injury); G. Smal (baja, Ankle Injury); S. van Persie (baja, Knock); T. Beelen (baja, Broken Leg); J. Bos (baja, Knee Injury); R. Nelson (baja, Muscle Injury); B. Nieuwkoop (baja, Knee Injury); G. Smal (baja, Ankle Injury); S. van Persie (baja, Knock)
+**Fortuna Sittard:** R. Bayram (baja, Knee Injury); R. Bayram (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-03 · Eredivisie: Fortuna Sittard 1-2 Feyenoord

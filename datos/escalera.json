@@ -564,7 +564,7 @@
   "dia": "2026-10-30",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 2.04,
+  "cuota": 2.08,
   "picks": [
    {
     "partido_id": 1563233,
@@ -603,12 +603,12 @@
     "opcion": "Over 0.5",
     "tipo": "goles",
     "texto": "Espanyol marca",
-    "cuota": 1.5,
+    "cuota": 1.53,
     "frecuencia": 0.85,
-    "ventaja": 0.183,
+    "ventaja": 0.196,
     "detalle": "Villarreal (en contra) 8/10 · Espanyol 9/10",
-    "valor_mercado": -0.007,
-    "movimiento": 0.042,
+    "valor_mercado": 0.007,
+    "movimiento": 0.062,
     "cuota_inicial": 1.44,
     "prob_xg": 0.71,
     "xg_esperado": 2.99,
@@ -618,7 +618,7 @@
      20
     ],
     "contexto": "peor_lejos",
-    "prob_aprendida": 0.723
+    "prob_aprendida": 0.72
    }
   ],
   "anterior": {

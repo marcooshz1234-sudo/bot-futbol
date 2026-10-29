@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 29/10/2026 08:03 (hora España)._
+_Actualizado el 29/10/2026 14:05 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -36,15 +36,17 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Doble oportunidad: X2 | 2.20 | 62% | 43% | 53% | **+16%** |
 | 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Goles del local: Menos de 1.5 | 2.50 | 54% | 38% | 46% | **+15%** |
 | 16:00 | [Bournemouth – Leeds](informes/2026-10-31_bournemouth-vs-leeds.md) | 1X2: 1 | 2.05 | 61% | 46% | 53% | **+10%** |
+| 18:00 | [Udinese – AS Roma](informes/2026-10-31_udinese-vs-as-roma.md) | Goles más/menos: Más de 3.5 | 2.62 | 47% | 36% | 42% | **+9%** |
 | 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles más/menos: Menos de 2.5 | 4.00 | 43% | 24% | 34% | **+35%** |
 | 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles del local: Menos de 1.5 | 4.00 | 41% | 23% | 32% | **+28%** |
 | 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Doble oportunidad: X2 | 2.50 | 61% | 38% | 49% | **+23%** |
 | 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Goles del local: Menos de 1.5 | 2.50 | 60% | 38% | 49% | **+22%** |
 | 20:45 | [AC Milan – Inter](informes/2026-10-31_ac-milan-vs-inter.md) | 1X2: 1 | 3.50 | 37% | 27% | 32% | **+12%** |
+| 20:45 | [AC Milan – Inter](informes/2026-10-31_ac-milan-vs-inter.md) | Goles más/menos: Más de 3.5 | 2.50 | 50% | 38% | 44% | **+9%** |
 | 20:45 | [Lorient – Stade Brestois 29](informes/2026-10-31_lorient-vs-stade-brestois-29.md) | Goles del local: Menos de 0.5 | 3.50 | 38% | 27% | 32% | **+13%** |
 | 20:45 | [Lorient – Stade Brestois 29](informes/2026-10-31_lorient-vs-stade-brestois-29.md) | Goles más/menos: Menos de 1.5 | 3.40 | 37% | 28% | 33% | **+12%** |
-| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | 1X2: 2 | 3.00 | 46% | 31% | 38% | **+15%** |
-| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | 1X2 descanso: 2 | 3.50 | 35% | 27% | 31% | **+7%** |
+| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | 1X2: 2 | 2.90 | 46% | 33% | 39% | **+14%** |
+| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | Goles del visitante: Más de 1.5 | 2.50 | 48% | 38% | 43% | **+7%** |
 | 21:00 | [Barcelona – Alaves](informes/2026-10-31_barcelona-vs-alaves.md) | Córners más/menos: Menos de 10.5 | 2.00 | 64% | 46% | 55% | **+11%** |
 
 ## 01/11

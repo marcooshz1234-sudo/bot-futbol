@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -126,7 +126,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Bournemouth:** J. Araujo (baja, Thigh Injury); A. Scott (baja, Thigh Injury); A. Toth (baja, Muscle Injury); J. Araujo (baja, Thigh Injury); A. Scott (baja, Thigh Injury); A. Toth (baja, Muscle Injury)
+**Leeds:** M. Joseph (baja, Knee Injury); J. Rodon (baja, Muscle Injury); N. Elvedi (duda, Illness); D. James (duda, Back Injury); M. Joseph (baja, Knee Injury); J. Rodon (baja, Muscle Injury); N. Elvedi (duda, Illness); D. James (duda, Back Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-22 · Premier League: Bournemouth 2-2 Leeds

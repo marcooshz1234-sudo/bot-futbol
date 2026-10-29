@@ -1,10 +1,10 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **5.00**  ·  X **4.10**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
@@ -111,7 +111,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Levante:** E. Bardeli (baja, Muscle Injury); Dela (duda, Overload); E. Bardeli (baja, Muscle Injury); Dela (duda, Overload)
+**Atletico Madrid:** Koke (baja, Muscle Injury); J. Cardoso (duda, Thigh Injury); C. Romero (duda, Muscle Injury); Koke (baja, Muscle Injury); J. Cardoso (duda, Thigh Injury); C. Romero (duda, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-31 · La Liga: Levante 0-0 Atletico Madrid

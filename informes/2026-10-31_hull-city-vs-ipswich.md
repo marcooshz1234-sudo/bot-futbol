@@ -1,10 +1,10 @@
 # Hull City – Ipswich
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:01_
+_Actualizadas: 29/10 14:01_
 
 - **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**
@@ -125,7 +125,8 @@ _Actualizadas: 29/10 02:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Hull City:** I. Ansah (baja, Back Injury); J. Butland (baja, Arm Injury); D. Gyabi (baja, Groin Injury); C. Hughes (baja, Groin Injury); E. Matazo (baja, Knee Injury); M. Targett (baja, Ankle Injury); L. Gourna-Douath (duda, Calf Injury); N. Mendy (duda, Groin Injury); I. Ansah (baja, Back Injury); J. Butland (baja, Arm Injury); D. Gyabi (baja, Groin Injury); C. Hughes (baja, Groin Injury); E. Matazo (baja, Knee Injury); M. Targett (baja, Ankle Injury); L. Gourna-Douath (duda, Calf Injury); N. Mendy (duda, Groin Injury)
+**Ipswich:** J. Taylor (baja, Knee Injury); S. Lukic (duda, Groin Injury); J. Taylor (baja, Knee Injury); S. Lukic (duda, Groin Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-03 · Championship: Ipswich 1-0 Hull City

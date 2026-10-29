@@ -1,10 +1,10 @@
 # FC Porto – Estoril
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 21:30 (hora España) · Estádio do Dragão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.22**  ·  X **6.50**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.11**  ·  X2 **4.00**

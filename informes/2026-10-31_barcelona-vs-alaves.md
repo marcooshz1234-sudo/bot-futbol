@@ -1,10 +1,10 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 02:02_
+_Actualizadas: 29/10 14:02_
 
 - **1X2:** 1 **1.08**  ·  X **9.50**  ·  2 **21.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.07**  ·  X2 **8.00**
@@ -116,7 +116,8 @@ _Actualizadas: 29/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Barcelona:** R. Bardghji (baja, Knee Injury); A. Christensen (baja, Muscle Injury); X. Espart (baja, Ankle Injury); D. Olmo (baja, Groin Injury); E. Garcia (duda, Muscle Injury); J. Kounde (duda, Ankle Injury); R. Bardghji (baja, Knee Injury); A. Christensen (baja, Muscle Injury); X. Espart (baja, Ankle Injury); D. Olmo (baja, Groin Injury); E. Garcia (duda, Muscle Injury); J. Kounde (duda, Ankle Injury)
+**Alaves:** F. Garces (baja, Suspended); M. Rodriguez (baja, Ankle Injury); F. Garces (baja, Suspended); M. Rodriguez (baja, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-13 · La Liga: Alaves 1-0 Barcelona
