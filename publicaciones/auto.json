@@ -459,7 +459,7 @@
   {
     "id": "2026-10-29-combi-partido-1550169",
     "fecha": "2026-10-29T19:45",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FIORENTINA vs ATALANTA 🇮🇹\n\n🎯 ATALANTA MARCA [x1.25]\n✅ FIORENTINA O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.28]\n✅ CHER NDOUR: 1+ TIROS [x1.40]\n✅ FIORENTINA HACE MÁS TIROS [x1.53]\n✅ FIORENTINA VE MÁS DE 1,5 TARJETAS [x1.83]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,36\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FIORENTINA vs ATALANTA 🇮🇹\n\n🎯 ATALANTA MARCA [x1.25]\n✅ FIORENTINA O EMPATE [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.22]\n✅ CHER NDOUR: 1+ TIROS [x1.22]\n✅ FIORENTINA HACE MÁS TIROS [x1.53]\n✅ FIORENTINA VE MÁS DE 1,5 TARJETAS [x1.83]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,15\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -473,9 +473,9 @@
     ],
     "cuotas": [
       1.25,
-      1.36,
-      1.28,
       1.4,
+      1.22,
+      1.22,
       1.53,
       1.83
     ],
@@ -488,7 +488,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/499.png",
       "fecha": "2026-10-29T20:45",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-10-29T18:16"
   },
   {
     "id": "2026-10-30-picks-manana",
