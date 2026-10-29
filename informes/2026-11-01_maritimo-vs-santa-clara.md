@@ -1,7 +1,7 @@
 # Maritimo – Santa Clara
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 19:56_
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | Henrique Silva | D | 3 | 32 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,83 · visitante 1,41 · córners esperados 9,0._
+_Goles esperados: local 0,83 · visitante 1,42 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -193,16 +193,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 49% | 57% | 53% | 1.67 | -11% |
 | Ambos marcan: No | 57% | 55% | 56% | 1.70 | -5% |
 | Ambos marcan: Sí | 43% | 45% | 44% | 2.05 | -10% |
-| Goles más/menos: Más de 1.5 | 65% | 65% | 65% | 1.44 | -6% |
+| Goles más/menos: Más de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles más/menos: Más de 2.5 | 39% | 39% | 39% | 2.40 | -7% |
-| Goles más/menos: Menos de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles más/menos: Menos de 2.5 | 61% | 61% | 61% | 1.53 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 61% | 61% | 1.53 | -6% |
+| Goles más/menos: Menos de 1.5 | 34% | 35% | 35% | 2.62 | -8% |
+| Goles más/menos: Menos de 2.5 | 61% | 61% | 61% | 1.53 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 61% | 62% | 1.53 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 39% | 39% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 39% | 38% | 2.38 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles del local: Más de 0.5 | 56% | 61% | 59% | 1.53 | -10% |
-| Goles del local: Más de 1.5 | 20% | 25% | 23% | 3.75 | -16% |
+| Goles del local: Más de 1.5 | 20% | 25% | 23% | 3.75 | -15% |
 | Goles del local: Menos de 0.5 | 44% | 39% | 41% | 2.38 | -1% |
 | Goles del local: Menos de 1.5 | 80% | 75% | 77% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 76% | 71% | 73% | 1.33 | -2% |

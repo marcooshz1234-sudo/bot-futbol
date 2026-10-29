@@ -1,7 +1,7 @@
 # Arouca – Nacional
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -190,16 +190,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 13% | 23% | 18% | 4.10 | -27% |
 | 1X2: X | 19% | 26% | 22% | 3.60 | -20% |
-| 1X2: 1 | 69% | 52% | 60% | 1.80 | +8% |
-| Doble oportunidad: X2 | 31% | 49% | 40% | 1.95 | -22% |
+| 1X2: 1 | 68% | 52% | 60% | 1.80 | +8% |
+| Doble oportunidad: X2 | 32% | 49% | 40% | 1.95 | -22% |
 | Doble oportunidad: 12 | 81% | 74% | 78% | 1.28 | -1% |
 | Doble oportunidad: 1X | 87% | 78% | 82% | 1.22 | +0% |
-| Ambos marcan: No | 50% | 47% | 48% | 2.00 | -3% |
+| Ambos marcan: No | 50% | 47% | 48% | 2.00 | -4% |
 | Ambos marcan: Sí | 50% | 53% | 52% | 1.75 | -9% |
 | Goles más/menos: Más de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles más/menos: Más de 2.5 | 58% | 51% | 55% | 1.85 | +1% |
 | Goles más/menos: Más de 3.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles más/menos: Menos de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Menos de 1.5 | 20% | 25% | 22% | 3.75 | -17% |
 | Goles más/menos: Menos de 2.5 | 42% | 49% | 45% | 1.95 | -12% |
 | Goles más/menos: Menos de 3.5 | 64% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -4% |
@@ -210,9 +210,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 38% | 25% | 31% | 3.75 | +17% |
 | Goles del local: Menos de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
 | Goles del local: Menos de 2.5 | 62% | 75% | 69% | 1.25 | -14% |
-| Goles del visitante: Más de 0.5 | 56% | 65% | 60% | 1.44 | -13% |
+| Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -13% |
 | Goles del visitante: Más de 1.5 | 20% | 29% | 25% | 3.25 | -20% |
-| Goles del visitante: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +4% |
+| Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +3% |
 | Goles del visitante: Menos de 1.5 | 80% | 71% | 75% | 1.33 | +0% |
 | 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -23% |
 | 1X2 descanso: X | 37% | 41% | 39% | 2.25 | -12% |

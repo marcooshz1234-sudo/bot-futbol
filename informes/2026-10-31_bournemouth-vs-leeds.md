@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:55_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -75,52 +75,52 @@ _Actualizadas: 28/10 19:55_
 ## Estadísticas de equipo
 | | Bournemouth (total) | Bournemouth en casa | Leeds (total) | Leeds fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 7 | 10 | 6 |
-| Forma (últimos 5) | VVVVD | VVVDE | EEDEV | EDDEV |
-| Balance | 6V 3E 3D | 4V 2E 1D | 3V 5E 2D | 2V 2E 2D |
-| Goles a favor / partido | 2,00 | 2,14 | 1,40 | 1,33 |
-| Goles en contra / partido | 1,17 | 0,57 | 1,20 | 1,50 |
-| Goles a favor 1ª parte | 1,17 | 1,00 | 0,50 | 0,33 |
-| Goles a favor 2ª parte | 0,83 | 1,14 | 0,90 | 1,00 |
-| Goles en contra 1ª parte | 0,33 | 0,14 | 0,20 | 0,00 |
-| Goles en contra 2ª parte | 0,83 | 0,43 | 1,00 | 1,50 |
-| Más de 1,5 goles | 92% | 86% | 70% | 67% |
-| Más de 2,5 goles | 75% | 57% | 30% | 33% |
-| Más de 3,5 goles | 33% | 29% | 20% | 17% |
-| Ambos marcan | 50% | 29% | 60% | 50% |
-| Portería a cero | 42% | 57% | 40% | 50% |
-| Se queda sin marcar | 8% | 14% | 20% | 17% |
-| xG a favor | 2,08 | 2,53 | 1,47 | 1,39 |
-| xG en contra | 0,99 | 0,78 | 1,32 | 1,47 |
-| Tiros / partido | 17,2 | 22,0 | 12,5 | 12,3 |
-| Tiros a puerta / partido | 5,4 | 6,4 | 4,3 | 4,7 |
-| Tiros recibidos | 9,2 | 6,7 | 13,8 | 14,0 |
-| Tiros a puerta recibidos | 3,2 | 2,0 | 4,5 | 4,7 |
-| Posesión media % | 52 | 59 | 49 | 47 |
-| Córners a favor | 5,2 | 6,1 | 4,0 | 4,0 |
-| Córners en contra | 4,1 | 3,0 | 3,9 | 3,7 |
-| Córners a favor 1ª parte | 2,5 | 2,6 | 1,9 | 2,0 |
+| Partidos analizados | 13 | 8 | 10 | 6 |
+| Forma (últimos 5) | VVVVV | VVVVD | EEDEV | EDDEV |
+| Balance | 7V 3E 3D | 5V 2E 1D | 3V 5E 2D | 2V 2E 2D |
+| Goles a favor / partido | 2,08 | 2,25 | 1,40 | 1,33 |
+| Goles en contra / partido | 1,08 | 0,50 | 1,20 | 1,50 |
+| Goles a favor 1ª parte | 1,15 | 1,00 | 0,50 | 0,33 |
+| Goles a favor 2ª parte | 0,92 | 1,25 | 0,90 | 1,00 |
+| Goles en contra 1ª parte | 0,31 | 0,12 | 0,20 | 0,00 |
+| Goles en contra 2ª parte | 0,77 | 0,38 | 1,00 | 1,50 |
+| Más de 1,5 goles | 92% | 88% | 70% | 67% |
+| Más de 2,5 goles | 77% | 62% | 30% | 33% |
+| Más de 3,5 goles | 31% | 25% | 20% | 17% |
+| Ambos marcan | 46% | 25% | 60% | 50% |
+| Portería a cero | 46% | 62% | 40% | 50% |
+| Se queda sin marcar | 8% | 12% | 20% | 17% |
+| xG a favor | 2,14 | 2,56 | 1,47 | 1,39 |
+| xG en contra | 1,05 | 0,90 | 1,32 | 1,47 |
+| Tiros / partido | 17,3 | 21,6 | 12,5 | 12,3 |
+| Tiros a puerta / partido | 5,5 | 6,5 | 4,3 | 4,7 |
+| Tiros recibidos | 9,8 | 8,0 | 13,8 | 14,0 |
+| Tiros a puerta recibidos | 3,3 | 2,4 | 4,5 | 4,7 |
+| Posesión media % | 52 | 58 | 49 | 47 |
+| Córners a favor | 5,3 | 6,1 | 4,0 | 4,0 |
+| Córners en contra | 3,9 | 2,9 | 3,9 | 3,7 |
+| Córners a favor 1ª parte | 2,5 | 2,5 | 1,9 | 2,0 |
 | Córners a favor 2ª parte | 2,8 | 3,6 | 2,1 | 2,0 |
-| Córners totales del partido | 9,3 | 9,1 | 7,9 | 7,7 |
-| Córners totales 1ª parte | 4,1 | 3,9 | 3,5 | 3,3 |
-| Córners totales 2ª parte | 5,2 | 5,3 | 4,4 | 4,3 |
-| Más de 8,5 córners | 58% | 57% | 40% | 33% |
-| Más de 9,5 córners | 50% | 57% | 30% | 17% |
-| Más de 10,5 córners | 25% | 14% | 20% | 17% |
+| Córners totales del partido | 9,2 | 9,0 | 7,9 | 7,7 |
+| Córners totales 1ª parte | 4,0 | 3,8 | 3,5 | 3,3 |
+| Córners totales 2ª parte | 5,2 | 5,2 | 4,4 | 4,3 |
+| Más de 8,5 córners | 54% | 50% | 40% | 33% |
+| Más de 9,5 córners | 46% | 50% | 30% | 17% |
+| Más de 10,5 córners | 23% | 12% | 20% | 17% |
 | Faltas cometidas | 13,4 | 12,6 | 12,5 | 14,3 |
-| Faltas recibidas | 12,7 | 12,6 | 11,4 | 11,8 |
-| Amarillas propias | 2,7 | 2,7 | 1,8 | 2,2 |
-| Amarillas del rival | 2,2 | 2,3 | 2,3 | 2,0 |
+| Faltas recibidas | 12,8 | 12,9 | 11,4 | 11,8 |
+| Amarillas propias | 2,7 | 2,8 | 1,8 | 2,2 |
+| Amarillas del rival | 2,2 | 2,4 | 2,3 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bournemouth | Recibe Bournemouth | Tarjetas Bournemouth | Goles Leeds | Recibe Leeds | Tarjetas Leeds |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 2 | 2 | 1 | 0 | 1 |
-| 16-30' | 2 | 0 | 6 | 1 | 0 | 3 |
+| 1-15' | 6 | 2 | 2 | 1 | 0 | 1 |
+| 16-30' | 2 | 0 | 8 | 1 | 0 | 3 |
 | 31-45' | 7 | 2 | 6 | 3 | 2 | 5 |
-| 46-60' | 3 | 4 | 3 | 5 | 3 | 1 |
-| 61-75' | 2 | 2 | 7 | 2 | 4 | 4 |
+| 46-60' | 4 | 4 | 3 | 5 | 3 | 1 |
+| 61-75' | 3 | 2 | 8 | 2 | 4 | 4 |
 | 76-90' | 5 | 4 | 8 | 2 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -139,36 +139,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bournemouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | casa | 6-2 | 19 (7) - 17 (5) | 3-3 |
 | 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | fuera | 4-5 | 10 (4) - 17 (5) | 1-4 |
 | 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | casa | 6-4 | 20 (7) - 3 (0) | 2-3 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | casa | 5-3 | 29 (6) - 3 (0) | 3-2 |
 | 2026-10-15 | Europa League | Bournemouth 3-0 Sturm Graz | casa | 7-3 | 23 (7) - 6 (1) | 3-3 |
 | 2026-10-10 | Premier League | Chelsea 5-1 Bournemouth | fuera | 7-1 | 9 (4) - 10 (6) | 4-0 |
-| 2026-09-20 | Premier League | Bournemouth 0-1 Liverpool | casa | 3-3 | 9 (2) - 12 (3) | 1-2 |
 
 ## Jugadores de Bournemouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| António Silva | D | 12 | 1072 | 0 | 0 | 8 | 0,7 | 2 | 0,2 | 11 | 3 | 0,2 | 4 | 0 |
+| António Silva | D | 13 | 1162 | 0 | 0 | 9 | 0,7 | 2 | 0,2 | 11 | 3 | 0,2 | 4 | 0 |
 | J. Hill | D | 12 | 1018 | 0 | 0 | 10 | 0,8 | 1 | 0,1 | 12 | 9 | 0,8 | 1 | 0 |
+| M. Tavernier | M | 13 | 944 | 6 | 0 | 24 | 1,8 | 12 | 0,9 | 8 | 13 | 1,0 | 3 | 0 |
 | Đ. Petrović | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Tavernier | M | 12 | 899 | 6 | 0 | 21 | 1,8 | 12 | 1,0 | 8 | 12 | 1,0 | 3 | 0 |
 | A. Truffert | D | 10 | 894 | 0 | 2 | 7 | 0,7 | 2 | 0,2 | 20 | 5 | 0,5 | 3 | 0 |
 | Evanilson | F | 11 | 888 | 4 | 4 | 26 | 2,4 | 10 | 0,9 | 16 | 23 | 2,1 | 2 | 0 |
-| Rayan | M | 12 | 838 | 4 | 0 | 30 | 2,5 | 15 | 1,2 | 6 | 12 | 1,0 | 0 | 0 |
+| Rayan | F | 13 | 883 | 4 | 0 | 30 | 2,3 | 15 | 1,2 | 6 | 12 | 0,9 | 0 | 0 |
 | A. Smith | D | 10 | 809 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 15 | 1,5 | 3 | 0 |
-| T. Adams | M | 11 | 744 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 16 | 7 | 0,6 | 3 | 0 |
-| J. Kluivert | M | 10 | 616 | 3 | 1 | 19 | 1,9 | 9 | 0,9 | 21 | 8 | 0,8 | 3 | 0 |
-| L. Cook | M | 11 | 544 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 6 | 2 | 0,2 | 2 | 0 |
+| T. Adams | M | 12 | 771 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 16 | 9 | 0,8 | 3 | 0 |
+| J. Kluivert | F | 11 | 661 | 3 | 1 | 22 | 2,0 | 9 | 0,8 | 22 | 11 | 1,0 | 3 | 0 |
+| L. Cook | M | 12 | 634 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 3 | 0 |
+| R. Christie | M | 12 | 577 | 3 | 0 | 19 | 1,6 | 6 | 0,5 | 9 | 9 | 0,8 | 2 | 0 |
 | Alex Scott | M | 6 | 536 | 1 | 1 | 5 | 0,8 | 1 | 0,2 | 4 | 23 | 3,8 | 1 | 0 |
-| R. Christie | M | 11 | 514 | 3 | 0 | 19 | 1,7 | 6 | 0,5 | 7 | 9 | 0,8 | 2 | 0 |
-| B. Doak | F | 11 | 363 | 0 | 1 | 10 | 0,9 | 0 | 0,0 | 5 | 6 | 0,5 | 0 | 0 |
-| B. Diakité | D | 6 | 301 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 6 | 1 | 0,2 | 3 | 0 |
-| Á. Rodríguez | F | 8 | 250 | 1 | 0 | 10 | 1,2 | 2 | 0,2 | 5 | 3 | 0,4 | 0 | 0 |
-| J. Soler | D | 3 | 192 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 1 | 3 | 1,0 | 1 | 0 |
-| David Brooks | M | 7 | 181 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
-| M. Di Gregorio | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Tóth | M | 4 | 60 | 0 | 0 | 4 | 1,0 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
+| B. Doak | M | 12 | 426 | 0 | 2 | 12 | 1,0 | 2 | 0,2 | 7 | 6 | 0,5 | 1 | 0 |
+| B. Diakité | D | 7 | 391 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 1 | 0,1 | 3 | 0 |
+| Á. Rodríguez | F | 9 | 330 | 2 | 0 | 12 | 1,3 | 3 | 0,3 | 7 | 4 | 0,4 | 0 | 0 |
+| J. Soler | D | 4 | 282 | 0 | 1 | 3 | 0,8 | 0 | 0,0 | 4 | 6 | 1,5 | 1 | 0 |
+| M. Di Gregorio | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| D. Brooks | M | 8 | 208 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 3 | 0,4 | 1 | 0 |
+| Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Últimos partidos de Leeds
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -205,24 +205,24 @@ _Sin bajas comunicadas por ahora._
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 0,98 · córners esperados 9,0._
+_Goles esperados: local 1,99 · visitante 0,97 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 18% | 27% | 22% | 3.50 | -22% |
 | 1X2: X | 21% | 28% | 24% | 3.40 | -17% |
-| 1X2: 1 ✅ | 61% | 46% | 53% | 2.05 | +9% |
+| 1X2: 1 ✅ | 61% | 46% | 53% | 2.05 | +10% |
 | Doble oportunidad: X2 | 39% | 54% | 47% | 1.73 | -19% |
 | Doble oportunidad: 12 | 79% | 72% | 76% | 1.30 | -2% |
-| Doble oportunidad: 1X | 82% | 73% | 78% | 1.28 | -1% |
+| Doble oportunidad: 1X | 82% | 73% | 78% | 1.28 | -0% |
 | Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
 | Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 80% | 75% | 77% | 1.28 | -1% |
-| Goles más/menos: Más de 2.5 | 57% | 50% | 54% | 1.91 | +2% |
-| Goles más/menos: Más de 3.5 | 35% | 30% | 32% | 3.20 | +3% |
-| Goles más/menos: Menos de 1.5 | 20% | 25% | 23% | 3.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 43% | 50% | 46% | 1.91 | -11% |
-| Goles más/menos: Menos de 3.5 | 65% | 70% | 68% | 1.36 | -8% |
+| Goles más/menos: Más de 1.5 | 79% | 75% | 77% | 1.28 | -1% |
+| Goles más/menos: Más de 2.5 | 57% | 50% | 53% | 1.91 | +2% |
+| Goles más/menos: Más de 3.5 | 34% | 30% | 32% | 3.20 | +3% |
+| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles más/menos: Menos de 2.5 | 43% | 50% | 47% | 1.91 | -11% |
+| Goles más/menos: Menos de 3.5 | 66% | 70% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
@@ -230,16 +230,16 @@ _Goles esperados: local 1,99 · visitante 0,98 · córners esperados 9,0._
 | Goles del local: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles del local: Más de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
 | Goles del local: Más de 2.5 | 32% | 23% | 28% | 4.00 | +11% |
-| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -23% |
+| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -24% |
 | Goles del local: Menos de 1.5 | 41% | 51% | 46% | 1.80 | -17% |
 | Goles del local: Menos de 2.5 | 68% | 77% | 72% | 1.22 | -12% |
-| Goles del visitante: Más de 0.5 | 63% | 66% | 64% | 1.40 | -10% |
-| Goles del visitante: Más de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles del visitante: Menos de 0.5 | 37% | 34% | 36% | 2.75 | -2% |
-| Goles del visitante: Menos de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Córners más/menos: Más de 9.5 | 40% | 47% | 44% | 2.00 | -12% |
-| Córners más/menos: Menos de 9.5 | 60% | 53% | 56% | 1.80 | +1% |
-| 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles del visitante: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
+| Goles del visitante: Más de 1.5 | 25% | 31% | 28% | 3.00 | -15% |
+| Goles del visitante: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
+| Goles del visitante: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
+| Córners más/menos: Más de 9.5 | 41% | 47% | 44% | 2.00 | -12% |
+| Córners más/menos: Menos de 9.5 | 59% | 53% | 56% | 1.80 | +1% |
+| 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -20% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: 1 | 44% | 36% | 40% | 2.60 | +4% |
 

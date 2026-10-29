@@ -1,10 +1,10 @@
 # Feyenoord – Fortuna Sittard
-**Eredivisie** · Regular Season - 11 · 31/10/2026 16:30 (hora España) · De Kuip
+**Eredivisie** · Regular Season - 11 · 31/10/2026 16:30 (hora España) · Stadion Feijenoord
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **5.50**
@@ -63,53 +63,53 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | Fortuna Sittard (total) | Fortuna Sittard fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 10 | 5 |
-| Forma (últimos 5) | EDVVV | VVVEE | VEEVD | EVVVE |
-| Balance | 8V 3E 2D | 3V 2E 0D | 5V 3E 2D | 3V 2E 0D |
-| Goles a favor / partido | 2,77 | 2,80 | 1,70 | 2,20 |
-| Goles en contra / partido | 1,46 | 1,20 | 1,70 | 1,60 |
-| Goles a favor 1ª parte | 1,38 | 1,40 | 0,90 | 1,20 |
-| Goles a favor 2ª parte | 1,38 | 1,40 | 0,80 | 1,00 |
-| Goles en contra 1ª parte | 0,54 | 0,40 | 0,50 | 0,40 |
-| Goles en contra 2ª parte | 0,92 | 0,80 | 1,20 | 1,20 |
-| Más de 1,5 goles | 85% | 100% | 80% | 80% |
-| Más de 2,5 goles | 69% | 80% | 60% | 80% |
-| Más de 3,5 goles | 69% | 80% | 60% | 80% |
-| Ambos marcan | 62% | 60% | 70% | 80% |
-| Portería a cero | 31% | 40% | 20% | 20% |
-| Se queda sin marcar | 8% | 0% | 10% | 0% |
+| Partidos analizados | 13 | 5 | 11 | 6 |
+| Forma (últimos 5) | EDVVV | VVVEE | EVEEV | EEVVV |
+| Balance | 8V 3E 2D | 3V 2E 0D | 5V 4E 2D | 3V 3E 0D |
+| Goles a favor / partido | 2,77 | 2,80 | 1,73 | 2,17 |
+| Goles en contra / partido | 1,46 | 1,20 | 1,73 | 1,67 |
+| Goles a favor 1ª parte | 1,38 | 1,40 | 0,82 | 1,00 |
+| Goles a favor 2ª parte | 1,38 | 1,40 | 0,91 | 1,17 |
+| Goles en contra 1ª parte | 0,54 | 0,40 | 0,55 | 0,50 |
+| Goles en contra 2ª parte | 0,92 | 0,80 | 1,18 | 1,17 |
+| Más de 1,5 goles | 85% | 100% | 82% | 83% |
+| Más de 2,5 goles | 69% | 80% | 64% | 83% |
+| Más de 3,5 goles | 69% | 80% | 64% | 83% |
+| Ambos marcan | 62% | 60% | 73% | 83% |
+| Portería a cero | 31% | 40% | 18% | 17% |
+| Se queda sin marcar | 8% | 0% | 9% | 0% |
 | xG a favor | 2,21 | 2,33 | 0,89 | 0,84 |
 | xG en contra | 1,17 | 0,94 | 2,10 | 1,69 |
-| Tiros / partido | 18,0 | 22,2 | 9,7 | 9,4 |
-| Tiros a puerta / partido | 7,2 | 7,8 | 4,5 | 4,4 |
-| Tiros recibidos | 13,7 | 10,2 | 18,4 | 18,8 |
-| Tiros a puerta recibidos | 4,7 | 3,6 | 5,7 | 4,2 |
-| Posesión media % | 51 | 54 | 36 | 36 |
-| Córners a favor | 5,6 | 7,0 | 2,7 | 1,0 |
-| Córners en contra | 4,2 | 3,8 | 8,0 | 7,2 |
-| Córners a favor 1ª parte | 3,0 | 3,2 | 0,7 | 0,2 |
-| Córners a favor 2ª parte | 2,6 | 3,8 | 2,0 | 0,8 |
-| Córners totales del partido | 9,8 | 10,8 | 10,7 | 8,2 |
-| Córners totales 1ª parte | 4,4 | 4,0 | 4,2 | 3,0 |
-| Córners totales 2ª parte | 5,4 | 6,8 | 6,5 | 5,2 |
-| Más de 8,5 córners | 62% | 80% | 80% | 60% |
-| Más de 9,5 córners | 54% | 60% | 60% | 20% |
-| Más de 10,5 córners | 54% | 60% | 60% | 20% |
-| Faltas cometidas | 10,2 | 10,0 | 9,7 | 10,0 |
-| Faltas recibidas | 12,1 | 14,6 | 12,0 | 10,8 |
-| Amarillas propias | 1,5 | 1,0 | 1,5 | 2,4 |
-| Amarillas del rival | 1,7 | 2,2 | 1,7 | 1,4 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,00 |
+| Tiros / partido | 18,0 | 22,2 | 10,1 | 10,2 |
+| Tiros a puerta / partido | 7,2 | 7,8 | 4,5 | 4,5 |
+| Tiros recibidos | 13,7 | 10,2 | 18,5 | 18,8 |
+| Tiros a puerta recibidos | 4,7 | 3,6 | 5,6 | 4,3 |
+| Posesión media % | 51 | 54 | 37 | 36 |
+| Córners a favor | 5,6 | 7,0 | 3,3 | 2,3 |
+| Córners en contra | 4,2 | 3,8 | 7,7 | 6,8 |
+| Córners a favor 1ª parte | 3,0 | 3,2 | 1,0 | 0,8 |
+| Córners a favor 2ª parte | 2,6 | 3,8 | 2,1 | 1,2 |
+| Córners totales del partido | 9,8 | 10,8 | 11,0 | 9,2 |
+| Córners totales 1ª parte | 4,4 | 4,0 | 4,2 | 3,2 |
+| Córners totales 2ª parte | 5,4 | 6,8 | 6,4 | 5,2 |
+| Más de 8,5 córners | 62% | 80% | 82% | 67% |
+| Más de 9,5 córners | 54% | 60% | 64% | 33% |
+| Más de 10,5 córners | 54% | 60% | 64% | 33% |
+| Faltas cometidas | 10,2 | 10,0 | 11,2 | 12,7 |
+| Faltas recibidas | 12,1 | 14,6 | 12,0 | 11,0 |
+| Amarillas propias | 1,5 | 1,0 | 1,6 | 2,5 |
+| Amarillas del rival | 1,7 | 2,2 | 1,6 | 1,3 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Feyenoord | Recibe Feyenoord | Tarjetas Feyenoord | Goles Fortuna Sittard | Recibe Fortuna Sittard | Tarjetas Fortuna Sittard |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 1 | 4 | 0 | 3 |
+| 1-15' | 4 | 2 | 1 | 4 | 1 | 3 |
 | 16-30' | 6 | 4 | 2 | 3 | 3 | 0 |
 | 31-45' | 8 | 1 | 4 | 2 | 2 | 4 |
 | 46-60' | 7 | 4 | 4 | 2 | 3 | 3 |
-| 61-75' | 7 | 3 | 6 | 2 | 3 | 1 |
-| 76-90' | 4 | 5 | 2 | 4 | 6 | 5 |
+| 61-75' | 7 | 3 | 6 | 4 | 3 | 2 |
+| 76-90' | 4 | 5 | 2 | 4 | 7 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -161,79 +161,79 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Fortuna Sittard
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | KNVB Beker | Sparta Rotterdam 2-2 Fortuna Sittard | fuera | 9-5 | 14 (5) - 19 (5) | 3-1 |
 | 2026-10-25 | Eredivisie | Fortuna Sittard 1-0 Excelsior | casa | 7-4 | 7 (5) - 6 (2) | 2-1 |
 | 2026-10-18 | Eredivisie | NEC Nijmegen 2-2 Fortuna Sittard | fuera | 0-13 | 5 (3) - 24 (7) | 2-0 |
 | 2026-10-10 | Eredivisie | Fortuna Sittard 1-1 Twente | casa | 5-7 | 14 (5) - 12 (6) | 0-1 |
 | 2026-09-19 | Eredivisie | Willem II 0-1 Fortuna Sittard | fuera | 3-5 | 17 (3) - 16 (3) | 1-3 |
 | 2026-09-12 | Eredivisie | Fortuna Sittard 1-5 Ajax | casa | 3-11 | 8 (4) - 27 (10) | 1-5 |
-| 2026-09-06 | Eredivisie | ADO Den Haag 2-3 Fortuna Sittard | fuera | 0-2 | 8 (5) - 11 (3) | 4-0 |
 
 ## Jugadores de Fortuna Sittard
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Branderhorst | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| Justin Quincy Hubner | D | 10 | 900 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 2 | 4 | 0,4 | 2 | 0 |
-| P. Brittijn | M | 10 | 881 | 2 | 0 | 6 | 0,6 | 3 | 0,3 | 4 | 9 | 0,9 | 1 | 0 |
+| Mattijs Branderhorst | G | 11 | 1020 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
+| Justin Hubner | D | 11 | 1020 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 4 | 6 | 0,5 | 3 | 0 |
+| Philip Brittijn | M | 11 | 1001 | 2 | 0 | 6 | 0,5 | 3 | 0,3 | 4 | 9 | 0,8 | 1 | 0 |
 | Ivo Pinto | D | 10 | 849 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 5 | 5 | 0,5 | 1 | 0 |
 | É. Michut | M | 10 | 786 | 1 | 2 | 9 | 0,9 | 4 | 0,4 | 8 | 30 | 3,0 | 1 | 0 |
-| Shiloh Kiesar ’t Zand | F | 9 | 687 | 1 | 1 | 9 | 1,0 | 6 | 0,7 | 8 | 10 | 1,1 | 3 | 0 |
-| L. Zeefuik | F | 9 | 641 | 3 | 1 | 10 | 1,1 | 5 | 0,6 | 18 | 12 | 1,3 | 3 | 0 |
-| Rodrigo Guth | D | 8 | 636 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 5 | 1 | 0,1 | 2 | 0 |
+| Shiloh 't Zand | M | 10 | 749 | 1 | 1 | 11 | 1,1 | 7 | 0,7 | 11 | 11 | 1,1 | 3 | 0 |
+| Lequincio Zeefuik | F | 10 | 713 | 4 | 1 | 12 | 1,2 | 6 | 0,6 | 20 | 14 | 1,4 | 3 | 0 |
+| Rodrigo Guth | D | 9 | 681 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 6 | 1 | 0,1 | 2 | 0 |
+| Syb Van Ottele | D | 11 | 671 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 4 | 8 | 0,7 | 0 | 0 |
+| Jasper Dahlhaus | M | 9 | 611 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 8 | 3 | 0,3 | 1 | 0 |
+| Anthony Descotte | F | 10 | 611 | 5 | 0 | 13 | 1,3 | 10 | 1,0 | 12 | 9 | 0,9 | 0 | 0 |
 | M. Ihattaren | M | 9 | 586 | 3 | 4 | 10 | 1,1 | 7 | 0,8 | 6 | 6 | 0,7 | 0 | 0 |
-| J. Dahlhaus | D | 8 | 553 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 7 | 3 | 0,4 | 1 | 0 |
-| S. van Ottele | M | 10 | 551 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 7 | 0,7 | 0 | 0 |
-| A. Descotte | F | 9 | 536 | 5 | 0 | 13 | 1,4 | 10 | 1,1 | 9 | 8 | 0,9 | 0 | 0 |
 | O. Romeny | F | 6 | 360 | 1 | 0 | 8 | 1,3 | 6 | 1,0 | 5 | 6 | 1,0 | 0 | 1 |
-| S. Wylin | D | 5 | 229 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
+| Siebe Wylin | M | 6 | 349 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
+| Nick de Groot | D | 9 | 278 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 5 | 0,6 | 1 | 0 |
+| Kristoffer Peterson | F | 5 | 242 | 1 | 0 | 2 | 0,4 | 2 | 0,4 | 1 | 3 | 0,6 | 0 | 0 |
 | Yassin Oukili | M | 5 | 229 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,6 | 0 | 0 |
-| N. de Groot | D | 8 | 216 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
-| K. Peterson | F | 4 | 137 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,5 | 0 | 0 |
-| S. Simons | F | 3 | 100 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
-| D. Sinkgraven | D | 3 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |
-| Moussa Gbemou | M | 4 | 21 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
+| Sven Simons | F | 4 | 158 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,8 | 1 | 0 |
+| Daley Sinkgraven | M | 4 | 126 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,2 | 1 | 0 |
+| Moussa Gbemou | M | 5 | 60 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,78 · visitante 0,76 · córners esperados 10,3._
+_Goles esperados: local 2,76 · visitante 0,79 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 7% | 7% | 13.00 | -5% |
-| 1X2: X | 13% | 12% | 13% | 7.50 | -5% |
-| 1X2: 1 | 79% | 81% | 80% | 1.14 | -9% |
-| Doble oportunidad: X2 | 21% | 18% | 19% | 5.50 | +6% |
-| Doble oportunidad: 12 | 87% | 89% | 88% | 1.10 | -4% |
-| Doble oportunidad: 1X | 92% | 94% | 93% | 1.04 | -3% |
-| Ambos marcan: No | 50% | 48% | 49% | 1.95 | -4% |
-| Ambos marcan: Sí | 50% | 52% | 51% | 1.80 | -8% |
+| 1X2: 2 | 8% | 7% | 8% | 13.00 | -1% |
+| 1X2: X | 14% | 12% | 13% | 7.50 | -3% |
+| 1X2: 1 | 78% | 81% | 79% | 1.14 | -9% |
+| Doble oportunidad: X2 | 22% | 18% | 20% | 5.50 | +8% |
+| Doble oportunidad: 12 | 86% | 89% | 88% | 1.10 | -4% |
+| Doble oportunidad: 1X | 92% | 94% | 93% | 1.04 | -4% |
+| Ambos marcan: No | 49% | 48% | 48% | 1.95 | -6% |
+| Ambos marcan: Sí | 51% | 52% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 2.5 | 69% | 74% | 71% | 1.28 | -9% |
-| Goles más/menos: Más de 3.5 | 47% | 56% | 51% | 1.67 | -14% |
+| Goles más/menos: Más de 3.5 | 47% | 56% | 52% | 1.67 | -14% |
 | Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles más/menos: Más de 5.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles más/menos: Menos de 2.5 | 31% | 26% | 29% | 3.60 | +4% |
-| Goles más/menos: Menos de 3.5 | 53% | 44% | 49% | 2.10 | +2% |
+| Goles más/menos: Menos de 2.5 | 31% | 26% | 29% | 3.60 | +3% |
+| Goles más/menos: Menos de 3.5 | 53% | 44% | 48% | 2.10 | +2% |
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles más/menos: Menos de 5.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 51% | 49% | 1.80 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 2.5 | 52% | 61% | 57% | 1.53 | -13% |
-| Goles del local: Más de 3.5 | 30% | 39% | 35% | 2.38 | -17% |
+| Goles del local: Más de 2.5 | 52% | 61% | 56% | 1.53 | -14% |
+| Goles del local: Más de 3.5 | 30% | 39% | 34% | 2.38 | -18% |
 | Goles del local: Más de 4.5 | 15% | 23% | 19% | 4.00 | -24% |
-| Goles del local: Menos de 2.5 | 48% | 39% | 43% | 2.38 | +3% |
-| Goles del local: Menos de 3.5 | 70% | 61% | 65% | 1.53 | -0% |
+| Goles del local: Menos de 2.5 | 48% | 39% | 44% | 2.38 | +4% |
+| Goles del local: Menos de 3.5 | 70% | 61% | 66% | 1.53 | +0% |
 | Goles del local: Menos de 4.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Goles del visitante: Más de 1.5 | 18% | 21% | 19% | 4.50 | -14% |
-| Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -7% |
-| Goles del visitante: Menos de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Córners más/menos: Más de 10.5 | 43% | 56% | 50% | 1.67 | -17% |
+| Goles del visitante: Más de 0.5 | 55% | 54% | 54% | 1.73 | -6% |
+| Goles del visitante: Más de 1.5 | 19% | 21% | 20% | 4.50 | -11% |
+| Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -8% |
+| Goles del visitante: Menos de 1.5 | 81% | 79% | 80% | 1.18 | -5% |
+| Córners más/menos: Más de 10.5 | 43% | 56% | 49% | 1.67 | -17% |
 | Córners más/menos: Más de 11.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Córners más/menos: Menos de 10.5 | 57% | 44% | 50% | 2.10 | +6% |
+| Córners más/menos: Menos de 10.5 | 57% | 44% | 51% | 2.10 | +6% |
 | Córners más/menos: Menos de 11.5 | 64% | 56% | 60% | 1.67 | +0% |
 | 1X2 descanso: X | 31% | 27% | 29% | 3.40 | -1% |
-| 1X2 descanso: 1 | 59% | 64% | 61% | 1.44 | -12% |
+| 1X2 descanso: 1 | 58% | 64% | 61% | 1.44 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

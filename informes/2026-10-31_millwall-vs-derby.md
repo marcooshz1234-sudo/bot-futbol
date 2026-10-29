@@ -1,10 +1,10 @@
 # Millwall – Derby
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.67**  ·  X **3.70**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.15**
@@ -205,10 +205,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
 | Goles más/menos: Más de 1.5 | 76% | 76% | 76% | 1.25 | -5% |
-| Goles más/menos: Más de 2.5 | 52% | 53% | 52% | 1.80 | -6% |
+| Goles más/menos: Más de 2.5 | 52% | 53% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 3.5 | 30% | 30% | 30% | 3.20 | -4% |
 | Goles más/menos: Menos de 1.5 | 24% | 24% | 24% | 4.00 | -5% |
-| Goles más/menos: Menos de 2.5 | 48% | 47% | 48% | 2.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 48% | 47% | 47% | 2.00 | -5% |
 | Goles más/menos: Menos de 3.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |

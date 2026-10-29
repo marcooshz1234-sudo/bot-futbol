@@ -1,7 +1,7 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | Ángelo García Hidalgo | M | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,19 · visitante 1,38 · córners esperados 9,7._
+_Goles esperados: local 1,20 · visitante 1,39 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -193,18 +193,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 41% | 32% | 36% | 2.90 | +6% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
-| 1X2: 1 | 32% | 41% | 37% | 2.25 | -18% |
+| 1X2: 1 | 32% | 41% | 36% | 2.25 | -18% |
 | Doble oportunidad: X2 | 68% | 59% | 63% | 1.62 | +3% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 59% | 69% | 64% | 1.40 | -11% |
 | Ambos marcan: No | 48% | 46% | 47% | 2.00 | -6% |
 | Ambos marcan: Sí | 52% | 54% | 53% | 1.73 | -8% |
-| Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.90 | -7% |
-| Goles más/menos: Más de 3.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -11% |
 | Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -6% |
 | Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.90 | -3% |
-| Goles más/menos: Menos de 3.5 | 74% | 71% | 73% | 1.33 | -4% |
+| Goles más/menos: Menos de 3.5 | 74% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |

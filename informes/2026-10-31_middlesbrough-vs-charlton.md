@@ -1,10 +1,10 @@
 # Middlesbrough – Charlton
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.25**  ·  X **5.50**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.75**
@@ -198,31 +198,31 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 10% | 10% | 10% | 9.50 | -8% |
 | 1X2: X | 16% | 17% | 16% | 5.50 | -10% |
-| 1X2: 1 | 74% | 74% | 74% | 1.25 | -8% |
+| 1X2: 1 | 74% | 74% | 74% | 1.25 | -7% |
 | Doble oportunidad: X2 | 26% | 26% | 26% | 3.75 | -4% |
 | Doble oportunidad: 12 | 84% | 84% | 84% | 1.14 | -4% |
 | Doble oportunidad: 1X | 90% | 90% | 90% | 1.07 | -4% |
 | Ambos marcan: No | 51% | 49% | 50% | 1.91 | -5% |
 | Ambos marcan: Sí | 49% | 51% | 50% | 1.80 | -9% |
 | Goles más/menos: Más de 2.5 | 63% | 66% | 64% | 1.44 | -8% |
-| Goles más/menos: Más de 3.5 | 40% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Más de 4.5 | 22% | 27% | 25% | 3.50 | -13% |
-| Goles más/menos: Menos de 2.5 | 37% | 34% | 36% | 2.75 | -1% |
-| Goles más/menos: Menos de 3.5 | 60% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Menos de 4.5 | 78% | 73% | 75% | 1.30 | -2% |
+| Goles más/menos: Más de 3.5 | 41% | 45% | 43% | 2.10 | -10% |
+| Goles más/menos: Más de 4.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles más/menos: Menos de 2.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles más/menos: Menos de 3.5 | 59% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Menos de 4.5 | 77% | 73% | 75% | 1.30 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del local: Más de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
+| Goles del local: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles del local: Más de 2.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Goles del local: Más de 3.5 | 23% | 28% | 25% | 3.40 | -13% |
-| Goles del local: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
+| Goles del local: Más de 3.5 | 23% | 28% | 26% | 3.40 | -13% |
+| Goles del local: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles del local: Menos de 2.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Goles del local: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 0.5 | 54% | 56% | 55% | 1.67 | -9% |
+| Goles del local: Menos de 3.5 | 77% | 72% | 74% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 54% | 56% | 55% | 1.67 | -8% |
 | Goles del visitante: Más de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
 | Goles del visitante: Menos de 0.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Goles del visitante: Menos de 1.5 | 82% | 78% | 80% | 1.20 | -4% |

@@ -1,7 +1,7 @@
 # Elche – Valencia
 **LaLiga** · Regular Season - 11 · 01/11/2026 18:30 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -216,9 +216,9 @@ _Goles esperados: local 1,49 · visitante 0,89 · córners esperados 9,1._
 | Goles del local: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -11% |
 | Goles del local: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
 | Goles del visitante: Más de 0.5 | 59% | 72% | 66% | 1.30 | -15% |
-| Goles del visitante: Más de 1.5 | 22% | 38% | 30% | 2.50 | -25% |
+| Goles del visitante: Más de 1.5 | 23% | 38% | 30% | 2.50 | -25% |
 | Goles del visitante: Menos de 0.5 ✅ | 41% | 28% | 34% | 3.40 | +17% |
-| Goles del visitante: Menos de 1.5 | 78% | 62% | 70% | 1.50 | +5% |
+| Goles del visitante: Menos de 1.5 | 77% | 62% | 70% | 1.50 | +5% |
 | Córners más/menos: Más de 8.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Córners más/menos: Menos de 8.5 | 50% | 46% | 48% | 2.00 | -4% |
 | 1X2 descanso: 2 | 19% | 27% | 23% | 3.40 | -21% |

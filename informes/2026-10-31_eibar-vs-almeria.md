@@ -1,10 +1,10 @@
 # Eibar – Almeria
-**Segunda División** · Regular Season - 12 · 31/10/2026 16:15 (hora España) · Estadio Municipal de Ipurua
+**Segunda División** · Regular Season - 12 · 31/10/2026 16:15 (hora España) · Ipurua Municipal Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **2.30**  ·  X **3.30**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.57**
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 1,37 · córners esperados 9,6._
+_Goles esperados: local 1,67 · visitante 1,38 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

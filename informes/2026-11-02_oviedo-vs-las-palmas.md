@@ -1,7 +1,7 @@
 # Oviedo – Las Palmas
 **Segunda División** · Regular Season - 12 · 02/11/2026 16:15 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -194,7 +194,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 24% | 22% | 23% | 4.20 | -5% |
-| 1X2: X | 22% | 26% | 24% | 3.50 | -15% |
+| 1X2: X | 22% | 26% | 24% | 3.50 | -16% |
 | 1X2: 1 | 54% | 52% | 53% | 1.75 | -7% |
 | Doble oportunidad: X2 | 46% | 49% | 47% | 1.91 | -10% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
@@ -203,12 +203,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 59% | 50% | 55% | 1.83 | +0% |
 | Goles más/menos: Más de 1.5 | 82% | 73% | 77% | 1.28 | -1% |
 | Goles más/menos: Más de 2.5 | 60% | 49% | 54% | 1.95 | +6% |
-| Goles más/menos: Más de 3.5 | 38% | 29% | 33% | 3.25 | +8% |
+| Goles más/menos: Más de 3.5 | 38% | 29% | 33% | 3.25 | +9% |
 | Goles más/menos: Menos de 1.5 | 18% | 27% | 23% | 3.50 | -21% |
 | Goles más/menos: Menos de 2.5 | 40% | 51% | 46% | 1.85 | -16% |
 | Goles más/menos: Menos de 3.5 | 62% | 71% | 67% | 1.33 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 34% | 36% | 2.75 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 34% | 36% | 2.75 | +0% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
 | Goles del local: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
@@ -218,9 +218,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
 | Goles del local: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -9% |
 | Goles del visitante: Más de 0.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del visitante: Más de 1.5 | 33% | 27% | 30% | 3.50 | +5% |
+| Goles del visitante: Más de 1.5 | 34% | 27% | 30% | 3.50 | +6% |
 | Goles del visitante: Menos de 0.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del visitante: Menos de 1.5 | 67% | 73% | 70% | 1.28 | -11% |
+| Goles del visitante: Menos de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
 | Córners más/menos: Más de 9.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Córners más/menos: Menos de 9.5 | 49% | 47% | 48% | 2.00 | -4% |
 | 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -10% |

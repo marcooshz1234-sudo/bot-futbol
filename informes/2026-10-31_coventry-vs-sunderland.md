@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
@@ -76,53 +76,53 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Coventry (total) | Coventry en casa | Sunderland (total) | Sunderland fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 12 | 6 |
-| Forma (últimos 5) | DDVVD | DVDDD | EEDVD | EDVDE |
-| Balance | 3V 0E 7D | 1V 0E 4D | 4V 3E 5D | 1V 2E 3D |
-| Goles a favor / partido | 1,10 | 1,00 | 0,92 | 1,33 |
-| Goles en contra / partido | 2,00 | 2,20 | 1,33 | 2,00 |
-| Goles a favor 1ª parte | 0,40 | 0,40 | 0,33 | 0,67 |
-| Goles a favor 2ª parte | 0,70 | 0,60 | 0,58 | 0,67 |
-| Goles en contra 1ª parte | 0,80 | 0,60 | 0,50 | 1,00 |
-| Goles en contra 2ª parte | 1,20 | 1,60 | 0,83 | 1,00 |
-| Más de 1,5 goles | 60% | 60% | 67% | 100% |
-| Más de 2,5 goles | 60% | 60% | 25% | 50% |
-| Más de 3,5 goles | 50% | 60% | 8% | 17% |
-| Ambos marcan | 40% | 40% | 42% | 83% |
-| Portería a cero | 10% | 0% | 33% | 0% |
-| Se queda sin marcar | 50% | 60% | 33% | 17% |
-| xG a favor | 0,96 | 1,17 | 1,74 | 1,78 |
-| xG en contra | 1,50 | 1,50 | 1,74 | 2,14 |
-| Tiros / partido | 11,2 | 12,4 | 14,7 | 15,3 |
-| Tiros a puerta / partido | 3,5 | 4,4 | 4,7 | 5,7 |
-| Tiros recibidos | 16,3 | 15,4 | 12,5 | 14,3 |
-| Tiros a puerta recibidos | 5,0 | 5,4 | 3,3 | 4,0 |
-| Posesión media % | 41 | 42 | 50 | 52 |
-| Córners a favor | 3,5 | 3,8 | 5,7 | 5,2 |
+| Partidos analizados | 10 | 5 | 13 | 6 |
+| Forma (últimos 5) | DDVVD | DVDDD | VEEDV | EDVDE |
+| Balance | 3V 0E 7D | 1V 0E 4D | 5V 3E 5D | 1V 2E 3D |
+| Goles a favor / partido | 1,10 | 1,00 | 1,08 | 1,33 |
+| Goles en contra / partido | 2,00 | 2,20 | 1,38 | 2,00 |
+| Goles a favor 1ª parte | 0,40 | 0,40 | 0,54 | 0,67 |
+| Goles a favor 2ª parte | 0,70 | 0,60 | 0,54 | 0,67 |
+| Goles en contra 1ª parte | 0,80 | 0,60 | 0,54 | 1,00 |
+| Goles en contra 2ª parte | 1,20 | 1,60 | 0,85 | 1,00 |
+| Más de 1,5 goles | 60% | 60% | 69% | 100% |
+| Más de 2,5 goles | 60% | 60% | 31% | 50% |
+| Más de 3,5 goles | 50% | 60% | 15% | 17% |
+| Ambos marcan | 40% | 40% | 46% | 83% |
+| Portería a cero | 10% | 0% | 31% | 0% |
+| Se queda sin marcar | 50% | 60% | 31% | 17% |
+| xG a favor | 0,96 | 1,17 | 1,79 | 1,78 |
+| xG en contra | 1,50 | 1,50 | 1,83 | 2,14 |
+| Tiros / partido | 11,2 | 12,4 | 14,1 | 15,3 |
+| Tiros a puerta / partido | 3,5 | 4,4 | 4,6 | 5,7 |
+| Tiros recibidos | 16,3 | 15,4 | 12,8 | 14,3 |
+| Tiros a puerta recibidos | 5,0 | 5,4 | 3,6 | 4,0 |
+| Posesión media % | 41 | 42 | 49 | 52 |
+| Córners a favor | 3,5 | 3,8 | 5,2 | 5,2 |
 | Córners en contra | 5,1 | 5,2 | 4,7 | 3,8 |
-| Córners a favor 1ª parte | 1,5 | 1,4 | 2,9 | 2,8 |
-| Córners a favor 2ª parte | 2,0 | 2,4 | 2,8 | 2,3 |
-| Córners totales del partido | 8,6 | 9,0 | 10,3 | 9,0 |
-| Córners totales 1ª parte | 4,1 | 4,2 | 4,9 | 4,7 |
-| Córners totales 2ª parte | 4,5 | 4,8 | 5,4 | 4,3 |
-| Más de 8,5 córners | 40% | 40% | 58% | 50% |
-| Más de 9,5 córners | 30% | 40% | 42% | 33% |
-| Más de 10,5 córners | 10% | 20% | 42% | 33% |
-| Faltas cometidas | 11,6 | 9,8 | 12,0 | 12,7 |
-| Faltas recibidas | 12,2 | 11,2 | 13,6 | 13,5 |
-| Amarillas propias | 1,3 | 1,0 | 1,9 | 2,0 |
-| Amarillas del rival | 1,6 | 2,0 | 1,6 | 1,2 |
-| Rojas / partido | 0,10 | 0,20 | 0,17 | 0,17 |
+| Córners a favor 1ª parte | 1,5 | 1,4 | 2,7 | 2,8 |
+| Córners a favor 2ª parte | 2,0 | 2,4 | 2,5 | 2,3 |
+| Córners totales del partido | 8,6 | 9,0 | 9,9 | 9,0 |
+| Córners totales 1ª parte | 4,1 | 4,2 | 4,8 | 4,7 |
+| Córners totales 2ª parte | 4,5 | 4,8 | 5,2 | 4,3 |
+| Más de 8,5 córners | 40% | 40% | 54% | 50% |
+| Más de 9,5 córners | 30% | 40% | 38% | 33% |
+| Más de 10,5 córners | 10% | 20% | 38% | 33% |
+| Faltas cometidas | 11,6 | 9,8 | 11,7 | 12,7 |
+| Faltas recibidas | 12,2 | 11,2 | 13,9 | 13,5 |
+| Amarillas propias | 1,3 | 1,0 | 1,8 | 2,0 |
+| Amarillas del rival | 1,6 | 2,0 | 1,7 | 1,2 |
+| Rojas / partido | 0,10 | 0,20 | 0,15 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Coventry | Recibe Coventry | Tarjetas Coventry | Goles Sunderland | Recibe Sunderland | Tarjetas Sunderland |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 3 | 1 | 2 | 2 | 2 |
-| 16-30' | 1 | 3 | 4 | 0 | 2 | 4 |
-| 31-45' | 0 | 2 | 1 | 2 | 2 | 5 |
+| 16-30' | 1 | 3 | 4 | 2 | 2 | 4 |
+| 31-45' | 0 | 2 | 1 | 3 | 3 | 5 |
 | 46-60' | 3 | 5 | 2 | 1 | 5 | 1 |
 | 61-75' | 1 | 2 | 2 | 4 | 1 | 6 |
-| 76-90' | 3 | 5 | 4 | 2 | 4 | 7 |
+| 76-90' | 3 | 5 | 4 | 2 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -174,12 +174,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sunderland
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | casa | 0-5 | 7 (4) - 16 (7) | 1-3 |
 | 2026-10-25 | Premier League | Sunderland 0-0 Leeds | casa | 4-5 | 15 (4) - 11 (4) | 1-2 |
 | 2026-10-22 | Europa League | Lech Poznan 1-1 Sunderland | fuera | 6-3 | 25 (11) - 16 (6) | 1-0 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | fuera | 3-5 | 3 (0) - 29 (6) | 2-3 |
 | 2026-10-15 | Europa League | Torreense 1-2 Sunderland | fuera | 9-2 | 22 (5) - 3 (1) | 3-1 |
 | 2026-10-10 | Premier League | Sunderland 0-2 Brighton | casa | 7-5 | 12 (3) - 13 (4) | 0-1 |
-| 2026-09-20 | Premier League | Manchester City 5-3 Sunderland | fuera | 5-6 | 17 (9) - 16 (6) | 1-0 |
 
 ## Jugadores de Sunderland
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -191,55 +191,55 @@ _Sin bajas comunicadas por ahora._
 | N. Mukiele | D | 10 | 776 | 0 | 1 | 12 | 1,2 | 3 | 0,3 | 11 | 6 | 0,6 | 3 | 0 |
 | Reinildo | D | 10 | 739 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 12 | 1,2 | 3 | 1 |
 | T. Hume | D | 11 | 720 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 10 | 6 | 0,5 | 2 | 0 |
+| K. Danso | D | 8 | 641 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 8 | 5 | 0,6 | 1 | 1 |
 | N. Angulo | M | 10 | 614 | 1 | 2 | 11 | 1,1 | 7 | 0,7 | 10 | 10 | 1,0 | 1 | 0 |
-| K. Danso | D | 7 | 551 | 0 | 0 | 6 | 0,9 | 2 | 0,3 | 8 | 4 | 0,6 | 1 | 1 |
+| T. Meunier | D | 9 | 511 | 0 | 2 | 4 | 0,4 | 4 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
+| M. Fofana | M | 9 | 500 | 1 | 0 | 13 | 1,4 | 7 | 0,8 | 8 | 7 | 0,8 | 0 | 0 |
 | B. Brobbey | F | 7 | 489 | 3 | 0 | 10 | 1,4 | 7 | 1,0 | 9 | 11 | 1,6 | 1 | 0 |
+| L. O&apos;Nien | M | 7 | 488 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 5 | 5 | 0,7 | 2 | 0 |
 | Daniel Ballard | D | 6 | 488 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 10 | 8 | 1,3 | 2 | 0 |
-| Thomas Meunier | M | 8 | 481 | 0 | 2 | 4 | 0,5 | 4 | 0,5 | 4 | 2 | 0,2 | 0 | 0 |
-| L. O&apos;Nien | D | 6 | 458 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 5 | 4 | 0,7 | 2 | 0 |
-| M. Fofana | M | 8 | 410 | 0 | 0 | 12 | 1,5 | 6 | 0,8 | 7 | 5 | 0,6 | 0 | 0 |
-| C. Rigg | M | 8 | 390 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 6 | 7 | 0,9 | 1 | 0 |
+| C. Rigg | M | 9 | 435 | 0 | 0 | 7 | 0,8 | 0 | 0,0 | 8 | 8 | 0,9 | 2 | 0 |
+| O. Alderete | D | 7 | 412 | 0 | 0 | 8 | 1,1 | 1 | 0,1 | 8 | 1 | 0,1 | 2 | 0 |
+| D. Methalie | D | 6 | 411 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
+| Jules Ahoka | M | 5 | 385 | 1 | 0 | 9 | 1,8 | 2 | 0,4 | 4 | 6 | 1,2 | 0 | 0 |
 | Wilson Isidor | F | 8 | 353 | 1 | 0 | 9 | 1,1 | 2 | 0,2 | 9 | 7 | 0,9 | 0 | 0 |
-| O. Alderete | D | 6 | 352 | 0 | 0 | 8 | 1,3 | 1 | 0,2 | 7 | 1 | 0,2 | 2 | 0 |
-| D. Methalie | D | 5 | 321 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
-| Jules Ahoka | M | 4 | 295 | 1 | 0 | 8 | 2,0 | 2 | 0,5 | 4 | 3 | 0,8 | 0 | 0 |
-| Timur Tuterov | F | 5 | 270 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 4 | 3 | 0,6 | 0 | 0 |
+| Timur Tuterov | F | 6 | 330 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,40 · córners esperados 9,3._
+_Goles esperados: local 1,16 · visitante 1,51 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 41% | 42% | 2.25 | -5% |
-| 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 30% | 31% | 31% | 3.00 | -8% |
-| Doble oportunidad: X2 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 57% | 58% | 57% | 1.62 | -7% |
-| Ambos marcan: No | 49% | 45% | 47% | 2.05 | -3% |
-| Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
-| Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 46% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 28% | 26% | 3.40 | -10% |
-| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 54% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Menos de 3.5 | 75% | 72% | 74% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 32% | 3.00 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles del local: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
-| Goles del local: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 41% | 42% | 42% | 2.20 | -9% |
-| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles del visitante: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
-| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 32% | 32% | 32% | 2.88 | -8% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
+| 1X2: 2 | 45% | 41% | 43% | 2.25 | -3% |
+| 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
+| 1X2: 1 | 29% | 31% | 30% | 3.00 | -9% |
+| Doble oportunidad: X2 | 71% | 69% | 70% | 1.36 | -5% |
+| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
+| Doble oportunidad: 1X | 55% | 58% | 57% | 1.62 | -8% |
+| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -6% |
+| Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -8% |
+| Goles más/menos: Más de 1.5 | 74% | 75% | 75% | 1.28 | -5% |
+| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
+| Goles más/menos: Más de 3.5 | 28% | 28% | 28% | 3.40 | -5% |
+| Goles más/menos: Menos de 1.5 | 26% | 25% | 25% | 3.75 | -4% |
+| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
+| Goles más/menos: Menos de 3.5 | 72% | 72% | 72% | 1.33 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
+| Goles del local: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles del local: Más de 1.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles del local: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
+| Goles del local: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles del visitante: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles del visitante: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles del visitante: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
+| Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
+| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
+| 1X2 descanso: X | 43% | 42% | 42% | 2.20 | -7% |
 | 1X2 descanso: 1 | 24% | 26% | 25% | 3.60 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

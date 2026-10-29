@@ -1,30 +1,43 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 28/10/2026 19:57. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 29/10/2026 02:04. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 26 · **acertados:** 6 (23%)
-- **Beneficio:** -10.10 unidades · **rentabilidad (yield):** -38.8%
-- **Cuota media:** 2.75 · **pendientes:** 65
+- **Picks jugados:** 39 · **acertados:** 10 (26%)
+- **Beneficio:** -13.10 unidades · **rentabilidad (yield):** -33.6%
+- **Cuota media:** 2.77 · **pendientes:** 46
 
-_Con 26 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 39 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 7 | 1 (14%) | -3.90 | -55.7% |
-| Goles más/menos | 6 | 2 (33%) | -1.40 | -23.3% |
-| Goles del visitante | 4 | 0 (0%) | -4.00 | -100.0% |
-| Goles del local | 3 | 2 (67%) | +3.00 | +100.0% |
-| Doble oportunidad | 2 | 1 (50%) | +0.20 | +10.0% |
-| 1X2 descanso | 2 | 0 (0%) | -2.00 | -100.0% |
+| 1X2 | 8 | 2 (25%) | -2.65 | -33.1% |
+| Goles más/menos | 8 | 2 (25%) | -3.40 | -42.5% |
+| Goles del local | 6 | 2 (33%) | +0.00 | +0.0% |
+| Goles del visitante | 6 | 1 (17%) | -3.38 | -56.3% |
+| Doble oportunidad | 5 | 2 (40%) | -0.55 | -11.0% |
+| 1X2 descanso | 3 | 1 (33%) | -0.12 | -4.0% |
+| Goles 1ª parte más/menos | 2 | 0 (0%) | -2.00 | -100.0% |
 | Córners más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
-| Goles 1ª parte más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
 
 ## Últimos picks
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-28 | Liverpool – Chelsea | Goles del local: Más de 2.5 | 3.25 | ❌ | -1.00 |
+| 2026-10-28 | Liverpool – Chelsea | Goles más/menos: Más de 4.5 | 3.50 | ❌ | -1.00 |
+| 2026-10-28 | Monza – Napoli | Doble oportunidad: 1X | 2.00 | ❌ | -1.00 |
+| 2026-10-28 | Monza – Napoli | Goles del local: Más de 1.5 | 3.00 | ❌ | -1.00 |
+| 2026-10-28 | Bournemouth – Aston Villa | 1X2 descanso: 1 | 2.88 | ✅ | +1.88 |
+| 2026-10-28 | Bournemouth – Aston Villa | 1X2: 1 | 2.25 | ✅ | +1.25 |
+| 2026-10-28 | Manchester City – Brighton | Goles del local: Menos de 1.5 | 2.50 | ❌ | -1.00 |
+| 2026-10-28 | Manchester City – Brighton | Doble oportunidad: X2 | 2.25 | ✅ | +1.25 |
+| 2026-10-28 | Venezia – Inter | Goles del visitante: Más de 3.5 | 3.40 | ❌ | -1.00 |
+| 2026-10-28 | Venezia – Inter | Goles más/menos: Más de 4.5 | 3.20 | ❌ | -1.00 |
+| 2026-10-28 | AC Milan – Bologna | Goles 1ª parte más/menos: Menos de 0.5 | 3.25 | ❌ | -1.00 |
+| 2026-10-28 | SC Paderborn 07 – VfB Stuttgart | Doble oportunidad: 1X | 2.38 | ❌ | -1.00 |
+| 2026-10-28 | SC Paderborn 07 – VfB Stuttgart | Goles del visitante: Menos de 1.5 | 2.62 | ✅ | +1.62 |
 | 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles más/menos: Menos de 2.5 | 2.60 | ❌ | -1.00 |
 | 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles del local: Menos de 1.5 | 3.00 | ❌ | -1.00 |
 | 2026-10-27 | Sassuolo – Lazio | Goles del visitante: Menos de 1.5 | 1.91 | ❌ | -1.00 |

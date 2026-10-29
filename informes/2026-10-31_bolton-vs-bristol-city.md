@@ -1,10 +1,10 @@
 # Bolton – Bristol City
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **2.80**  ·  X **3.30**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.40**
@@ -213,7 +213,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
 | Goles del local: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles del local: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
 | Goles del local: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
@@ -228,6 +228,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 10.5 | 57% | 51% | 54% | 1.80 | -2% |
 | 1X2 descanso: 2 | 25% | 32% | 29% | 2.88 | -18% |
 | 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -3% |
-| 1X2 descanso: 1 | 30% | 28% | 29% | 3.25 | -6% |
+| 1X2 descanso: 1 | 30% | 28% | 29% | 3.25 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

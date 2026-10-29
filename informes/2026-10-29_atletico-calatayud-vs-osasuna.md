@@ -1,10 +1,18 @@
 # Atletico Calatayud – Osasuna
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 29/10 02:01_
+
+- **1X2:** 1 **34.00**  ·  X **17.00**  ·  2 **1.02**
+- **Doble oportunidad:** 1X **17.00**  ·  12 **1.02**  ·  X2 **1.00**
+- **Goles más/menos:**
+    - 2,5: más **1.14** · menos **5.50**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **29.00**  ·  X **5.50**  ·  2 **1.17**
 
 ## Estadísticas de equipo
 | | Atletico Calatayud (total) | Atletico Calatayud en casa | Osasuna (total) | Osasuna fuera |

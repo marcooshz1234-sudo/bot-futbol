@@ -1,50 +1,92 @@
 {
- "generado": "2026-10-28 19:57",
+ "generado": "2026-10-29 02:04",
  "estilos": {
   "escalera": {
-   "nota": 0.889,
-   "posts_threads": 1,
-   "resultados": 3,
+   "nota": 1.162,
+   "posts_threads": 2,
+   "resultados": 4,
    "verdes": 1
   },
   "datos-rachas": {
-   "nota": 0.991,
+   "nota": 0.914,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 1.015,
+   "nota": 1.144,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 1.458,
+   "nota": 1.371,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-tema": {
-   "nota": 0.941,
+   "nota": 0.897,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "datos-manana": {
-   "nota": 0.945,
+   "nota": 0.899,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores": {
-   "nota": 1.375,
+   "nota": 1.16,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-liga": {
-   "nota": 1.375,
+   "nota": 1.17,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "picks-manana": {
+   "nota": 0.875,
+   "posts_threads": 0,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-tres": {
+   "nota": 0.968,
+   "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-partido-1550167": {
+   "nota": 0.999,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1640387": {
+   "nota": 1.007,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1640383": {
+   "nota": 0.983,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550171": {
+   "nota": 0.876,
+   "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-partido-1550172": {
+   "nota": 1.0,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0

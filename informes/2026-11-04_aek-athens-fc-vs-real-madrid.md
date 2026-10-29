@@ -1,7 +1,7 @@
 # AEK Athens FC – Real Madrid
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Allwyn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -176,45 +176,45 @@ _Sin precedentes recientes._
 | A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,89 · córners esperados 9,3._
+_Goles esperados: local 1,15 · visitante 1,91 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 55% | 71% | 63% | 1.33 | -17% |
+| 1X2: 2 | 55% | 71% | 63% | 1.33 | -16% |
 | 1X2: X | 22% | 16% | 19% | 6.00 | +14% |
-| 1X2: 1 | 23% | 13% | 18% | 7.00 | +27% |
+| 1X2: 1 | 23% | 13% | 18% | 7.00 | +26% |
 | Doble oportunidad: X2 | 77% | 86% | 82% | 1.10 | -10% |
 | Doble oportunidad: 12 | 78% | 85% | 81% | 1.12 | -9% |
-| Doble oportunidad: 1X | 45% | 29% | 37% | 3.25 | +21% |
+| Doble oportunidad: 1X | 45% | 29% | 37% | 3.25 | +20% |
 | Ambos marcan: No | 42% | 41% | 42% | 2.25 | -7% |
 | Ambos marcan: Sí | 58% | 59% | 58% | 1.57 | -8% |
 | Goles más/menos: Más de 2.5 | 59% | 72% | 65% | 1.33 | -13% |
-| Goles más/menos: Más de 3.5 | 36% | 53% | 44% | 1.80 | -20% |
+| Goles más/menos: Más de 3.5 | 36% | 53% | 45% | 1.80 | -20% |
 | Goles más/menos: Más de 4.5 | 19% | 34% | 27% | 2.75 | -26% |
 | Goles más/menos: Más de 5.5 | 9% | 21% | 15% | 4.50 | -33% |
 | Goles más/menos: Menos de 2.5 | 41% | 28% | 35% | 3.40 | +18% |
-| Goles más/menos: Menos de 3.5 | 64% | 47% | 56% | 2.00 | +11% |
+| Goles más/menos: Menos de 3.5 | 64% | 47% | 55% | 2.00 | +11% |
 | Goles más/menos: Menos de 4.5 | 81% | 66% | 73% | 1.44 | +5% |
 | Goles más/menos: Menos de 5.5 | 91% | 79% | 85% | 1.20 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 50% | 44% | 1.83 | -20% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 25% | 20% | 3.75 | -26% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 50% | 44% | 1.83 | -19% |
+| Goles 1ª parte más/menos: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 85% | 75% | 80% | 1.25 | +0% |
 | Goles del local: Más de 0.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles del local: Más de 1.5 | 32% | 29% | 30% | 3.25 | -1% |
 | Goles del local: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del local: Menos de 1.5 | 68% | 71% | 70% | 1.33 | -8% |
-| Goles del visitante: Más de 1.5 | 56% | 75% | 66% | 1.25 | -18% |
-| Goles del visitante: Más de 2.5 | 29% | 50% | 40% | 1.83 | -27% |
-| Goles del visitante: Más de 3.5 | 12% | 29% | 21% | 3.25 | -33% |
-| Goles del visitante: Menos de 1.5 | 44% | 25% | 34% | 3.75 | +29% |
-| Goles del visitante: Menos de 2.5 | 71% | 50% | 60% | 1.83 | +10% |
-| Goles del visitante: Menos de 3.5 | 88% | 71% | 79% | 1.33 | +5% |
-| 1X2 descanso: 2 | 40% | 55% | 48% | 1.67 | -20% |
+| Goles del local: Menos de 1.5 | 68% | 71% | 70% | 1.33 | -7% |
+| Goles del visitante: Más de 1.5 | 57% | 75% | 66% | 1.25 | -18% |
+| Goles del visitante: Más de 2.5 | 30% | 50% | 40% | 1.83 | -27% |
+| Goles del visitante: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
+| Goles del visitante: Menos de 1.5 | 43% | 25% | 34% | 3.75 | +28% |
+| Goles del visitante: Menos de 2.5 | 70% | 50% | 60% | 1.83 | +10% |
+| Goles del visitante: Menos de 3.5 | 87% | 71% | 79% | 1.33 | +5% |
+| 1X2 descanso: 2 | 41% | 55% | 48% | 1.67 | -20% |
 | 1X2 descanso: X | 39% | 31% | 35% | 3.00 | +4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

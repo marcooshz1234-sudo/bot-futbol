@@ -1,10 +1,10 @@
 # Lincoln – Birmingham
-**Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · LNER stadium
+**Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.36**
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | Dael Fry | D | 3 | 101 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,56 · córners esperados 9,9._
+_Goles esperados: local 1,22 · visitante 1,55 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -197,14 +197,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 30% | 29% | 29% | 3.20 | -7% |
 | Doble oportunidad: X2 | 70% | 71% | 70% | 1.36 | -4% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.30 | -3% |
-| Doble oportunidad: 1X | 55% | 56% | 55% | 1.73 | -5% |
-| Ambos marcan: No | 44% | 46% | 45% | 2.00 | -9% |
-| Ambos marcan: Sí | 56% | 54% | 55% | 1.73 | -6% |
-| Goles más/menos: Más de 1.5 | 77% | 73% | 75% | 1.30 | -3% |
-| Goles más/menos: Más de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
+| Doble oportunidad: 1X | 55% | 56% | 55% | 1.73 | -4% |
+| Ambos marcan: No | 45% | 46% | 45% | 2.00 | -9% |
+| Ambos marcan: Sí | 55% | 54% | 55% | 1.73 | -6% |
+| Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.30 | -3% |
+| Goles más/menos: Más de 2.5 | 52% | 50% | 51% | 1.91 | -2% |
 | Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -11% |
-| Goles más/menos: Menos de 2.5 | 47% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles más/menos: Menos de 2.5 | 48% | 50% | 49% | 1.91 | -7% |
 | Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
@@ -216,14 +216,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles del visitante: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Goles del visitante: Más de 2.5 | 21% | 21% | 21% | 4.50 | -7% |
+| Goles del visitante: Más de 2.5 | 20% | 21% | 21% | 4.50 | -7% |
 | Goles del visitante: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles del visitante: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -6% |
+| Goles del visitante: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
 | 1X2 descanso: 2 | 34% | 34% | 34% | 2.75 | -8% |
 | 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -8% |
-| 1X2 descanso: 1 | 25% | 25% | 25% | 3.75 | -8% |
+| 1X2 descanso: 1 | 24% | 25% | 25% | 3.75 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

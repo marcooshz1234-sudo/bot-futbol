@@ -1,7 +1,7 @@
 # Fenerbahçe – Liverpool
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium Fenerbahce Sukru Saracoglu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -51,40 +51,40 @@ _Actualizadas: 28/10 07:59_
 ## Estadísticas de equipo
 | | Fenerbahçe (total) | Fenerbahçe en casa | Liverpool (total) | Liverpool fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 5 | 12 | 5 |
-| Forma (últimos 5) | EDEVE | EEEVV | VVVVD | VVVVE |
-| Balance | 4V 4E 1D | 2V 3E 0D | 8V 3E 1D | 4V 1E 0D |
-| Goles a favor / partido | 1,22 | 1,40 | 2,17 | 2,60 |
-| Goles en contra / partido | 1,33 | 0,80 | 1,33 | 1,20 |
+| Partidos analizados | 9 | 5 | 13 | 5 |
+| Forma (últimos 5) | EDEVE | EEEVV | EVVVV | VVVVE |
+| Balance | 4V 4E 1D | 2V 3E 0D | 8V 4E 1D | 4V 1E 0D |
+| Goles a favor / partido | 1,22 | 1,40 | 2,08 | 2,60 |
+| Goles en contra / partido | 1,33 | 0,80 | 1,31 | 1,20 |
 | Goles a favor 1ª parte | 0,89 | 1,00 | 0,92 | 1,00 |
-| Goles a favor 2ª parte | 0,33 | 0,40 | 1,25 | 1,60 |
-| Goles en contra 1ª parte | 0,78 | 0,60 | 0,50 | 0,40 |
-| Goles en contra 2ª parte | 0,56 | 0,20 | 0,83 | 0,80 |
-| Más de 1,5 goles | 78% | 80% | 83% | 80% |
-| Más de 2,5 goles | 33% | 20% | 67% | 60% |
-| Más de 3,5 goles | 22% | 20% | 42% | 40% |
-| Ambos marcan | 56% | 60% | 58% | 60% |
-| Portería a cero | 33% | 40% | 33% | 40% |
-| Se queda sin marcar | 11% | 0% | 17% | 0% |
-| xG a favor | 1,49 | 1,36 | 1,74 | 2,04 |
-| xG en contra | 1,73 | 1,02 | 1,30 | 1,22 |
-| Tiros / partido | 14,0 | 14,0 | 16,4 | 19,2 |
-| Tiros a puerta / partido | 5,4 | 6,0 | 5,4 | 6,2 |
-| Tiros recibidos | 12,6 | 8,4 | 12,7 | 11,6 |
+| Goles a favor 2ª parte | 0,33 | 0,40 | 1,15 | 1,60 |
+| Goles en contra 1ª parte | 0,78 | 0,60 | 0,54 | 0,40 |
+| Goles en contra 2ª parte | 0,56 | 0,20 | 0,77 | 0,80 |
+| Más de 1,5 goles | 78% | 80% | 85% | 80% |
+| Más de 2,5 goles | 33% | 20% | 62% | 60% |
+| Más de 3,5 goles | 22% | 20% | 38% | 40% |
+| Ambos marcan | 56% | 60% | 62% | 60% |
+| Portería a cero | 33% | 40% | 31% | 40% |
+| Se queda sin marcar | 11% | 0% | 15% | 0% |
+| xG a favor | 1,49 | 1,36 | 1,78 | 2,04 |
+| xG en contra | 1,73 | 1,02 | 1,35 | 1,22 |
+| Tiros / partido | 14,0 | 14,0 | 15,9 | 19,2 |
+| Tiros a puerta / partido | 5,4 | 6,0 | 5,3 | 6,2 |
+| Tiros recibidos | 12,6 | 8,4 | 12,5 | 11,6 |
 | Tiros a puerta recibidos | 4,3 | 2,8 | 3,7 | 3,4 |
-| Posesión media % | 55 | 59 | 54 | 59 |
-| Córners a favor | 5,2 | 4,0 | 5,7 | 6,4 |
-| Córners en contra | 4,7 | 2,4 | 4,3 | 3,0 |
-| Córners a favor 1ª parte | 2,8 | 2,4 | 3,1 | 3,6 |
-| Córners a favor 2ª parte | 2,4 | 1,6 | 2,6 | 2,8 |
-| Córners totales del partido | 9,9 | 6,4 | 10,0 | 9,4 |
+| Posesión media % | 55 | 59 | 53 | 59 |
+| Córners a favor | 5,2 | 4,0 | 5,8 | 6,4 |
+| Córners en contra | 4,7 | 2,4 | 4,4 | 3,0 |
+| Córners a favor 1ª parte | 2,8 | 2,4 | 3,2 | 3,6 |
+| Córners a favor 2ª parte | 2,4 | 1,6 | 2,5 | 2,8 |
+| Córners totales del partido | 9,9 | 6,4 | 10,2 | 9,4 |
 | Córners totales 1ª parte | 5,1 | 3,4 | 5,3 | 6,2 |
-| Córners totales 2ª parte | 4,8 | 3,0 | 4,7 | 3,2 |
-| Más de 8,5 córners | 56% | 20% | 58% | 40% |
-| Más de 9,5 córners | 56% | 20% | 50% | 40% |
-| Más de 10,5 córners | 56% | 20% | 50% | 40% |
-| Faltas cometidas | 12,6 | 12,4 | 12,7 | 11,6 |
-| Faltas recibidas | 13,4 | 15,4 | 9,9 | 9,4 |
+| Córners totales 2ª parte | 4,8 | 3,0 | 4,8 | 3,2 |
+| Más de 8,5 córners | 56% | 20% | 62% | 40% |
+| Más de 9,5 córners | 56% | 20% | 54% | 40% |
+| Más de 10,5 córners | 56% | 20% | 54% | 40% |
+| Faltas cometidas | 12,6 | 12,4 | 12,6 | 11,6 |
+| Faltas recibidas | 13,4 | 15,4 | 9,8 | 9,4 |
 | Amarillas propias | 2,4 | 1,8 | 1,9 | 2,2 |
 | Amarillas del rival | 1,4 | 1,4 | 2,0 | 2,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,08 | 0,00 |
@@ -92,9 +92,9 @@ _Actualizadas: 28/10 07:59_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Fenerbahçe | Recibe Fenerbahçe | Tarjetas Fenerbahçe | Goles Liverpool | Recibe Liverpool | Tarjetas Liverpool |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 0 | 2 | 2 | 2 |
-| 16-30' | 2 | 0 | 0 | 5 | 3 | 3 |
-| 31-45' | 2 | 5 | 6 | 5 | 1 | 3 |
+| 1-15' | 4 | 2 | 0 | 2 | 2 | 3 |
+| 16-30' | 2 | 0 | 0 | 5 | 3 | 4 |
+| 31-45' | 2 | 5 | 6 | 6 | 2 | 3 |
 | 46-60' | 2 | 0 | 2 | 6 | 1 | 9 |
 | 61-75' | 1 | 4 | 2 | 6 | 6 | 4 |
 | 76-90' | 0 | 2 | 12 | 3 | 3 | 4 |
@@ -144,74 +144,74 @@ _Sin precedentes recientes._
 ## Últimos partidos de Liverpool
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Liverpool 1-1 Chelsea | casa | 7-5 | 10 (4) - 11 (4) | 2-2 |
 | 2026-10-25 | Premier League | Liverpool 2-0 Brighton | casa | 4-2 | 13 (4) - 17 (1) | 0-2 |
 | 2026-10-20 | Champions League | Liverpool 4-3 Villarreal | casa | 7-2 | 22 (7) - 14 (5) | 0-2 |
 | 2026-10-17 | Premier League | Brentford 1-2 Liverpool | fuera | 9-3 | 21 (5) - 10 (2) | 3-4 |
 | 2026-10-14 | Champions League | Lask Linz 3-6 Liverpool | fuera | 11-3 | 26 (9) - 12 (4) | 0-1 |
 | 2026-10-11 | Premier League | Liverpool 0-3 Manchester City | casa | 5-6 | 13 (6) - 15 (4) | 4-2 |
-| 2026-09-20 | Premier League | Bournemouth 0-1 Liverpool | fuera | 3-3 | 12 (3) - 9 (2) | 2-1 |
 
 ## Jugadores de Liverpool
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| V. van Dijk | D | 12 | 1000 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 6 | 4 | 0,3 | 2 | 0 |
 | Alisson Becker | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| J. Jacquet | D | 12 | 956 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 10 | 7 | 0,6 | 2 | 0 |
-| V. van Dijk | D | 11 | 928 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 6 | 4 | 0,4 | 2 | 0 |
-| F. Wirtz | M | 11 | 849 | 1 | 3 | 17 | 1,5 | 7 | 0,6 | 17 | 10 | 0,9 | 1 | 0 |
-| A. Mac Allister | M | 12 | 832 | 4 | 1 | 19 | 1,6 | 7 | 0,6 | 13 | 10 | 0,8 | 3 | 0 |
+| J. Jacquet | D | 13 | 974 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 11 | 7 | 0,5 | 2 | 0 |
+| F. Wirtz | M | 12 | 880 | 1 | 3 | 18 | 1,5 | 7 | 0,6 | 18 | 10 | 0,8 | 1 | 0 |
+| R. Araújo | D | 13 | 872 | 2 | 1 | 11 | 0,8 | 4 | 0,3 | 5 | 1 | 0,1 | 3 | 0 |
+| A. Mac Allister | M | 13 | 841 | 4 | 1 | 19 | 1,5 | 7 | 0,5 | 13 | 10 | 0,8 | 3 | 0 |
 | M. Kerkez | D | 10 | 832 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 16 | 14 | 1,4 | 3 | 0 |
-| R. Araújo | D | 12 | 782 | 2 | 1 | 8 | 0,7 | 3 | 0,2 | 5 | 1 | 0,1 | 3 | 0 |
-| A. Isak | F | 10 | 687 | 6 | 1 | 21 | 2,1 | 9 | 0,9 | 1 | 3 | 0,3 | 1 | 0 |
-| C. Gakpo | M | 8 | 641 | 2 | 5 | 13 | 1,6 | 5 | 0,6 | 10 | 13 | 1,6 | 0 | 0 |
-| B. Barcola | M | 10 | 592 | 3 | 2 | 15 | 1,5 | 7 | 0,7 | 7 | 3 | 0,3 | 1 | 0 |
+| C. Gakpo | F | 9 | 731 | 3 | 5 | 15 | 1,7 | 7 | 0,8 | 12 | 14 | 1,6 | 0 | 0 |
+| A. Isak | F | 11 | 695 | 6 | 1 | 21 | 1,9 | 9 | 0,8 | 1 | 3 | 0,3 | 1 | 0 |
+| R. Gravenberch | M | 12 | 663 | 0 | 1 | 6 | 0,5 | 3 | 0,2 | 13 | 11 | 0,9 | 2 | 1 |
+| B. Barcola | F | 11 | 623 | 3 | 2 | 17 | 1,5 | 8 | 0,7 | 8 | 3 | 0,3 | 1 | 0 |
 | Dominik Szoboszlai | M | 8 | 591 | 3 | 0 | 13 | 1,6 | 8 | 1,0 | 12 | 3 | 0,4 | 1 | 0 |
-| R. Gravenberch | M | 11 | 573 | 0 | 1 | 6 | 0,5 | 3 | 0,3 | 12 | 10 | 0,9 | 2 | 1 |
+| R. Ngumoha | M | 11 | 539 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 5 | 13 | 1,2 | 0 | 0 |
 | Víctor Muñoz | M | 9 | 475 | 2 | 0 | 10 | 1,1 | 6 | 0,7 | 8 | 11 | 1,2 | 1 | 0 |
-| R. Ngumoha | F | 10 | 457 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 5 | 10 | 1,0 | 0 | 0 |
+| T. Nyoni | M | 10 | 460 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 5 | 2 | 0,2 | 0 | 0 |
+| L. Koumas | M | 11 | 430 | 1 | 1 | 9 | 0,8 | 5 | 0,5 | 7 | 4 | 0,4 | 1 | 0 |
 | Jeremie Frimpong | D | 8 | 411 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 6 | 2 | 0,2 | 2 | 0 |
-| T. Nyoni | M | 9 | 379 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
-| L. Koumas | F | 10 | 371 | 1 | 1 | 9 | 0,9 | 5 | 0,5 | 5 | 4 | 0,4 | 0 | 0 |
-| K. Tsimikas | D | 6 | 254 | 0 | 3 | 2 | 0,3 | 1 | 0,2 | 7 | 5 | 0,8 | 0 | 0 |
-| J. Gomez | D | 5 | 102 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| G. Mamardashvili | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
+| K. Tsimikas | D | 7 | 344 | 0 | 3 | 2 | 0,3 | 1 | 0,1 | 9 | 5 | 0,7 | 0 | 0 |
+| J. Gomez | D | 6 | 192 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
+| G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,05 · visitante 1,60 · córners esperados 9,6._
+_Goles esperados: local 1,03 · visitante 1,57 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 50% | 58% | 54% | 1.62 | -12% |
-| 1X2: X | 25% | 22% | 23% | 4.33 | +1% |
+| 1X2: X | 25% | 22% | 24% | 4.33 | +2% |
 | 1X2: 1 | 25% | 20% | 22% | 4.75 | +7% |
 | Doble oportunidad: X2 | 75% | 80% | 77% | 1.18 | -9% |
 | Doble oportunidad: 12 | 75% | 78% | 77% | 1.20 | -8% |
-| Doble oportunidad: 1X | 50% | 42% | 46% | 2.25 | +3% |
-| Ambos marcan: No | 48% | 39% | 44% | 2.38 | +4% |
-| Ambos marcan: Sí | 52% | 61% | 56% | 1.53 | -14% |
-| Goles más/menos: Más de 2.5 | 49% | 64% | 57% | 1.50 | -15% |
-| Goles más/menos: Más de 3.5 | 28% | 43% | 35% | 2.20 | -22% |
-| Goles más/menos: Más de 4.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles más/menos: Menos de 2.5 | 51% | 36% | 43% | 2.62 | +14% |
-| Goles más/menos: Menos de 3.5 | 72% | 57% | 65% | 1.67 | +8% |
-| Goles más/menos: Menos de 4.5 | 87% | 75% | 81% | 1.28 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
-| Goles 1ª parte más/menos: Más de 2.5 | 11% | 21% | 16% | 4.50 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -1% |
-| Goles del local: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
-| Goles del local: Más de 1.5 | 28% | 35% | 32% | 2.62 | -16% |
-| Goles del local: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
-| Goles del local: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Doble oportunidad: 1X | 50% | 42% | 46% | 2.25 | +4% |
+| Ambos marcan: No | 49% | 39% | 44% | 2.38 | +5% |
+| Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -14% |
+| Goles más/menos: Más de 2.5 | 48% | 64% | 56% | 1.50 | -16% |
+| Goles más/menos: Más de 3.5 | 26% | 43% | 35% | 2.20 | -23% |
+| Goles más/menos: Más de 4.5 | 12% | 25% | 19% | 3.75 | -29% |
+| Goles más/menos: Menos de 2.5 | 52% | 36% | 44% | 2.62 | +15% |
+| Goles más/menos: Menos de 3.5 | 74% | 57% | 65% | 1.67 | +9% |
+| Goles más/menos: Menos de 4.5 | 88% | 75% | 81% | 1.28 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 71% | 1.25 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 44% | 38% | 2.10 | -21% |
+| Goles 1ª parte más/menos: Más de 2.5 | 11% | 21% | 16% | 4.50 | -30% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 29% | 3.75 | +8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 56% | 62% | 1.67 | +4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -0% |
+| Goles del local: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Goles del local: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles del local: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
+| Goles del local: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
 | Goles del visitante: Más de 1.5 | 47% | 62% | 55% | 1.50 | -18% |
-| Goles del visitante: Más de 2.5 | 22% | 35% | 29% | 2.62 | -25% |
-| Goles del visitante: Menos de 1.5 | 53% | 38% | 45% | 2.50 | +13% |
-| Goles del visitante: Menos de 2.5 | 78% | 65% | 71% | 1.44 | +3% |
+| Goles del visitante: Más de 2.5 | 21% | 35% | 28% | 2.62 | -26% |
+| Goles del visitante: Menos de 1.5 | 53% | 38% | 45% | 2.50 | +14% |
+| Goles del visitante: Menos de 2.5 | 79% | 65% | 72% | 1.44 | +3% |
 | 1X2 descanso: 2 | 36% | 44% | 40% | 2.10 | -16% |
-| 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +1% |
-| 1X2 descanso: 1 | 21% | 21% | 21% | 4.50 | -6% |
+| 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +2% |
+| 1X2 descanso: 1 | 21% | 21% | 21% | 4.50 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Burgos – Castellón
 **Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | J. Vlak | M | 5 | 76 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 1,57 · córners esperados 9,6._
+_Goles esperados: local 0,93 · visitante 1,58 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,16 +201,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -10% |
 | Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
 | Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -8% |
 | Goles más/menos: Más de 2.5 | 46% | 51% | 49% | 1.85 | -10% |
 | Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +0% |
 | Goles más/menos: Menos de 2.5 | 54% | 49% | 51% | 1.95 | +0% |
 | Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 32% | 2.62 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 68% | 1.44 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
 | Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
 | Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +6% |
@@ -224,7 +224,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
 | 1X2 descanso: 2 | 37% | 35% | 36% | 2.62 | -5% |
-| 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
+| 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -4% |
 | 1X2 descanso: 1 | 19% | 23% | 21% | 4.00 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

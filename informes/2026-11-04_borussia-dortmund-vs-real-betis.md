@@ -1,7 +1,7 @@
 # Borussia Dortmund – Real Betis
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -174,37 +174,37 @@ _Sin precedentes recientes._
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,95 · visitante 0,89 · córners esperados 10,5._
+_Goles esperados: local 1,93 · visitante 0,90 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 22% | 19% | 4.33 | -17% |
-| 1X2: X | 21% | 25% | 23% | 3.75 | -13% |
-| 1X2: 1 | 62% | 53% | 58% | 1.75 | +1% |
-| Doble oportunidad: X2 | 38% | 47% | 42% | 2.00 | -15% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
+| 1X2: 2 | 17% | 22% | 19% | 4.33 | -16% |
+| 1X2: X | 22% | 25% | 23% | 3.75 | -13% |
+| 1X2: 1 | 61% | 53% | 57% | 1.75 | +1% |
+| Doble oportunidad: X2 | 39% | 47% | 43% | 2.00 | -15% |
+| Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 83% | 78% | 81% | 1.20 | -3% |
-| Ambos marcan: No ✅ | 49% | 38% | 43% | 2.50 | +9% |
+| Ambos marcan: No ✅ | 49% | 38% | 43% | 2.50 | +8% |
 | Ambos marcan: Sí | 51% | 62% | 57% | 1.50 | -15% |
 | Goles más/menos: Más de 2.5 | 54% | 62% | 58% | 1.53 | -11% |
-| Goles más/menos: Más de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
+| Goles más/menos: Más de 3.5 | 31% | 43% | 37% | 2.20 | -18% |
 | Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -21% |
 | Goles más/menos: Menos de 2.5 | 46% | 38% | 42% | 2.50 | +5% |
-| Goles más/menos: Menos de 3.5 | 68% | 57% | 63% | 1.67 | +5% |
+| Goles más/menos: Menos de 3.5 | 69% | 57% | 63% | 1.67 | +5% |
 | Goles más/menos: Menos de 4.5 | 84% | 76% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -0% |
-| Goles del local: Más de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
-| Goles del local: Más de 2.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del local: Menos de 1.5 | 42% | 41% | 42% | 2.25 | -6% |
-| Goles del local: Menos de 2.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -14% |
-| Goles del visitante: Más de 1.5 | 22% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 0.5 ✅ | 41% | 29% | 35% | 3.25 | +14% |
-| Goles del visitante: Menos de 1.5 | 78% | 65% | 71% | 1.44 | +2% |
-| 1X2 descanso: 2 | 16% | 21% | 19% | 4.33 | -19% |
+| Goles del local: Más de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
+| Goles del local: Más de 2.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Menos de 1.5 | 43% | 41% | 42% | 2.25 | -6% |
+| Goles del local: Menos de 2.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del visitante: Más de 0.5 | 59% | 71% | 65% | 1.33 | -13% |
+| Goles del visitante: Más de 1.5 | 23% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Menos de 0.5 ✅ | 41% | 29% | 35% | 3.25 | +13% |
+| Goles del visitante: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
+| 1X2 descanso: 2 | 16% | 21% | 19% | 4.33 | -18% |
 | 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: 1 | 44% | 41% | 43% | 2.25 | -4% |
 

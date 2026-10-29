@@ -1,7 +1,7 @@
 # Marseille – Toulouse
 **Ligue 1** · Regular Season - 9 · 01/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -206,7 +206,7 @@ _Goles esperados: local 1,79 · visitante 2,02 · córners esperados 9,1._
 | Goles más/menos: Menos de 3.5 | 47% | 60% | 54% | 1.57 | -16% |
 | Goles más/menos: Menos de 4.5 | 67% | 78% | 72% | 1.22 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -20% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -14% |
 | Goles del local: Más de 1.5 | 53% | 56% | 55% | 1.67 | -9% |
@@ -219,8 +219,8 @@ _Goles esperados: local 1,79 · visitante 2,02 · córners esperados 9,1._
 | Goles del visitante: Menos de 1.5 | 40% | 62% | 51% | 1.50 | -23% |
 | Córners más/menos: Más de 9.5 | 42% | 47% | 44% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 58% | 53% | 56% | 1.80 | -0% |
-| 1X2 descanso: 2 | 35% | 23% | 29% | 4.00 | +17% |
-| 1X2 descanso: X | 35% | 38% | 36% | 2.40 | -12% |
+| 1X2 descanso: 2 | 36% | 23% | 29% | 4.00 | +17% |
+| 1X2 descanso: X | 35% | 38% | 36% | 2.40 | -13% |
 | 1X2 descanso: 1 | 30% | 39% | 34% | 2.38 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

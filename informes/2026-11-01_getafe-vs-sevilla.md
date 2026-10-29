@@ -1,7 +1,7 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -192,10 +192,10 @@ _Goles esperados: local 0,87 · visitante 1,15 · córners esperados 8,7._
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 37% | 40% | 2.50 | -1% |
 | 1X2: X | 30% | 31% | 31% | 3.00 | -8% |
-| 1X2: 1 | 28% | 32% | 30% | 2.90 | -13% |
+| 1X2: 1 | 28% | 32% | 30% | 2.90 | -14% |
 | Doble oportunidad: X2 | 72% | 68% | 70% | 1.40 | -2% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 58% | 63% | 61% | 1.50 | -9% |
+| Doble oportunidad: 1X | 58% | 63% | 60% | 1.50 | -9% |
 | Ambos marcan: No | 60% | 58% | 59% | 1.62 | -4% |
 | Ambos marcan: Sí | 40% | 42% | 41% | 2.20 | -10% |
 | Goles más/menos: Más de 1.5 | 60% | 62% | 61% | 1.53 | -7% |
@@ -211,9 +211,9 @@ _Goles esperados: local 0,87 · visitante 1,15 · córners esperados 8,7._
 | Goles del local: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del local: Menos de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 1.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles del visitante: Más de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles del visitante: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles del visitante: Menos de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Córners más/menos: Más de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
 | 1X2 descanso: 2 | 29% | 27% | 28% | 3.40 | -4% |

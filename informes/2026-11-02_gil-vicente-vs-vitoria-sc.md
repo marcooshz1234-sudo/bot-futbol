@@ -1,7 +1,7 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -193,12 +193,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 66% | 67% | 66% | 1.40 | -7% |
 | Ambos marcan: No | 63% | 52% | 58% | 1.80 | +4% |
 | Ambos marcan: Sí | 37% | 48% | 42% | 1.95 | -17% |
-| Goles más/menos: Más de 1.5 | 55% | 66% | 61% | 1.40 | -15% |
+| Goles más/menos: Más de 1.5 | 56% | 66% | 61% | 1.40 | -15% |
 | Goles más/menos: Más de 2.5 | 29% | 42% | 35% | 2.25 | -21% |
-| Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -30% |
-| Goles más/menos: Menos de 1.5 | 45% | 34% | 39% | 2.75 | +8% |
+| Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -29% |
+| Goles más/menos: Menos de 1.5 | 44% | 34% | 39% | 2.75 | +7% |
 | Goles más/menos: Menos de 2.5 | 71% | 58% | 65% | 1.62 | +5% |
-| Goles más/menos: Menos de 3.5 | 88% | 77% | 82% | 1.22 | +1% |
+| Goles más/menos: Menos de 3.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 55% | 65% | 60% | 1.44 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 29% | 24% | 3.25 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 45% | 35% | 40% | 2.62 | +5% |
@@ -211,8 +211,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
 | Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
 | Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
-| 1X2 descanso: 2 | 24% | 27% | 26% | 3.40 | -13% |
-| 1X2 descanso: X | 52% | 45% | 49% | 2.05 | +0% |
-| 1X2 descanso: 1 | 24% | 27% | 25% | 3.40 | -13% |
+| 1X2 descanso: 2 | 24% | 27% | 26% | 3.40 | -12% |
+| 1X2 descanso: X | 52% | 45% | 49% | 2.05 | -0% |
+| 1X2 descanso: 1 | 24% | 27% | 26% | 3.40 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

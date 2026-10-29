@@ -1,10 +1,10 @@
 # Albacete – Sabadell
-**Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Estadio Carlos Belmonte
+**Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **2.75**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Arthur Bonaldo |  | 2 | 117 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,72 · visitante 1,19 · córners esperados 9,3._
+_Goles esperados: local 0,73 · visitante 1,20 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -200,22 +200,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 36% | 49% | 42% | 1.91 | -19% |
 | Goles más/menos: Más de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
 | Goles más/menos: Más de 2.5 | 30% | 42% | 36% | 2.25 | -19% |
-| Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
+| Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -27% |
 | Goles más/menos: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +5% |
 | Goles más/menos: Menos de 2.5 | 70% | 58% | 64% | 1.62 | +4% |
 | Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 56% | 62% | 59% | 1.50 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 20% | 28% | 24% | 3.40 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 38% | 41% | 2.50 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 57% | 62% | 60% | 1.50 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 28% | 24% | 3.40 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 38% | 40% | 2.50 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles del local: Más de 0.5 | 52% | 66% | 59% | 1.40 | -18% |
 | Goles del local: Más de 1.5 | 16% | 31% | 24% | 3.00 | -29% |
 | Goles del local: Menos de 0.5 | 48% | 34% | 41% | 2.75 | +13% |
 | Goles del local: Menos de 1.5 | 84% | 69% | 76% | 1.36 | +4% |
 | Goles del visitante: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 34% | 35% | 34% | 2.62 | -10% |
+| Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
 | Goles del visitante: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles del visitante: Menos de 1.5 | 66% | 65% | 66% | 1.44 | -6% |
+| Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -10% |
 | Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
 | 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -2% |

@@ -1,21 +1,35 @@
 # Guijuelo – Sporting Gijon
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:55_
+_Actualizadas: 29/10 02:01_
 
-- **1X2:** 1 **7.00**  ·  X **4.60**  ·  2 **1.33**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **1X2:** 1 **8.00**  ·  X **4.50**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.07**
+- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.67** · menos **2.15**
-    - 3,5: más **2.62** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **8.00**  ·  X **2.50**  ·  2 **1.80**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.80** · menos **1.91**
+    - 1,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **9.00**  ·  X **2.40**  ·  2 **1.80**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.91** · menos **1.80**
@@ -26,7 +40,7 @@ _Actualizadas: 28/10 19:55_
 - **To Win Either Half:** 1 **4.00**  ·  2 **1.20**
 - **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **2.10**
 - **Win Both Halves:** 1 **34.00**  ·  2 **3.00**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.20**  ·  Home/No **13.00**  ·  Draw/No **13.00**  ·  Away/No **2.10**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **3.60**  ·  Home/No **13.00**  ·  Draw/No **11.00**  ·  Away/No **1.91**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo

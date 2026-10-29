@@ -1,10 +1,10 @@
 # Hull City – Ipswich
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**
@@ -204,40 +204,40 @@ _Sin bajas comunicadas por ahora._
 | D. Furlong | D | 3 | 197 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,26 · córners esperados 9,2._
+_Goles esperados: local 1,50 · visitante 1,25 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 36% | 34% | 2.60 | -12% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 43% | 37% | 40% | 2.55 | +2% |
+| 1X2: 1 | 43% | 37% | 40% | 2.55 | +1% |
 | Doble oportunidad: X2 | 57% | 63% | 60% | 1.50 | -10% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 68% | 63% | 66% | 1.50 | -1% |
-| Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
-| Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |
+| Ambos marcan: No | 45% | 44% | 44% | 2.10 | -7% |
+| Ambos marcan: Sí | 55% | 56% | 56% | 1.67 | -7% |
 | Goles más/menos: Más de 1.5 | 76% | 76% | 76% | 1.25 | -5% |
 | Goles más/menos: Más de 2.5 | 52% | 53% | 52% | 1.80 | -6% |
-| Goles más/menos: Más de 3.5 | 30% | 30% | 30% | 3.20 | -4% |
+| Goles más/menos: Más de 3.5 | 30% | 30% | 30% | 3.20 | -5% |
 | Goles más/menos: Menos de 1.5 | 24% | 24% | 24% | 4.00 | -5% |
 | Goles más/menos: Menos de 2.5 | 48% | 47% | 48% | 2.00 | -5% |
 | Goles más/menos: Menos de 3.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 35% | 34% | 2.62 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -6% |
+| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
-| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles del local: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
-| Goles del visitante: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
+| Goles del visitante: Más de 0.5 | 71% | 73% | 72% | 1.28 | -7% |
 | Goles del visitante: Más de 1.5 | 36% | 41% | 38% | 2.25 | -14% |
-| Goles del visitante: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -3% |
+| Goles del visitante: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -3% |
 | Goles del visitante: Menos de 1.5 | 64% | 59% | 62% | 1.57 | -3% |
-| Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -15% |
-| Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -2% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 54% | 1.83 | -2% |
 | 1X2 descanso: 2 | 26% | 29% | 27% | 3.20 | -13% |
 | 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -8% |
-| 1X2 descanso: 1 | 33% | 30% | 31% | 3.10 | -4% |
+| 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Borussia Mönchengladbach – SC Paderborn 07
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:55_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **1.90**  ·  X **3.90**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
@@ -70,53 +70,53 @@ _Actualizadas: 28/10 19:55_
 ## Estadísticas de equipo
 | | Borussia Mönchengladbach (total) | Borussia Mönchengladbach en casa | SC Paderborn 07 (total) | SC Paderborn 07 fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 8 | 4 |
-| Forma (últimos 5) | VVDDD | VDDD | VEDVD | EDEV |
-| Balance | 3V 0E 6D | 1V 0E 3D | 3V 2E 3D | 1V 2E 1D |
-| Goles a favor / partido | 2,00 | 2,25 | 1,25 | 1,50 |
-| Goles en contra / partido | 2,44 | 2,50 | 1,38 | 1,75 |
-| Goles a favor 1ª parte | 0,89 | 1,00 | 0,75 | 1,00 |
-| Goles a favor 2ª parte | 1,11 | 1,25 | 0,50 | 0,50 |
-| Goles en contra 1ª parte | 1,00 | 1,00 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 1,44 | 1,50 | 0,88 | 1,25 |
-| Más de 1,5 goles | 100% | 100% | 62% | 75% |
-| Más de 2,5 goles | 89% | 75% | 50% | 75% |
-| Más de 3,5 goles | 56% | 50% | 38% | 50% |
-| Ambos marcan | 56% | 75% | 38% | 50% |
-| Portería a cero | 22% | 25% | 25% | 25% |
-| Se queda sin marcar | 22% | 0% | 50% | 50% |
-| xG a favor | 1,49 | 1,71 | 1,00 | 0,79 |
-| xG en contra | 2,17 | 1,96 | 1,70 | 2,07 |
-| Tiros / partido | 15,7 | 14,8 | 15,2 | 13,8 |
-| Tiros a puerta / partido | 5,4 | 4,8 | 4,2 | 3,5 |
-| Tiros recibidos | 15,8 | 15,0 | 16,6 | 17,0 |
-| Tiros a puerta recibidos | 7,0 | 7,5 | 5,8 | 7,5 |
-| Posesión media % | 48 | 46 | 50 | 49 |
-| Córners a favor | 5,6 | 5,8 | 5,1 | 4,2 |
+| Partidos analizados | 9 | 4 | 9 | 4 |
+| Forma (últimos 5) | VVDDD | VDDD | DVEDV | EDEV |
+| Balance | 3V 0E 6D | 1V 0E 3D | 3V 2E 4D | 1V 2E 1D |
+| Goles a favor / partido | 2,00 | 2,25 | 1,11 | 1,50 |
+| Goles en contra / partido | 2,44 | 2,50 | 1,33 | 1,75 |
+| Goles a favor 1ª parte | 0,89 | 1,00 | 0,67 | 1,00 |
+| Goles a favor 2ª parte | 1,11 | 1,25 | 0,44 | 0,50 |
+| Goles en contra 1ª parte | 1,00 | 1,00 | 0,44 | 0,50 |
+| Goles en contra 2ª parte | 1,44 | 1,50 | 0,89 | 1,25 |
+| Más de 1,5 goles | 100% | 100% | 56% | 75% |
+| Más de 2,5 goles | 89% | 75% | 44% | 75% |
+| Más de 3,5 goles | 56% | 50% | 33% | 50% |
+| Ambos marcan | 56% | 75% | 33% | 50% |
+| Portería a cero | 22% | 25% | 22% | 25% |
+| Se queda sin marcar | 22% | 0% | 56% | 50% |
+| xG a favor | 1,49 | 1,71 | 0,99 | 0,79 |
+| xG en contra | 2,17 | 1,96 | 1,89 | 2,07 |
+| Tiros / partido | 15,7 | 14,8 | 15,4 | 13,8 |
+| Tiros a puerta / partido | 5,4 | 4,8 | 4,3 | 3,5 |
+| Tiros recibidos | 15,8 | 15,0 | 16,9 | 17,0 |
+| Tiros a puerta recibidos | 7,0 | 7,5 | 5,7 | 7,5 |
+| Posesión media % | 48 | 46 | 49 | 49 |
+| Córners a favor | 5,6 | 5,8 | 5,0 | 4,2 |
 | Córners en contra | 5,1 | 5,0 | 6,0 | 7,8 |
 | Córners a favor 1ª parte | 2,4 | 2,2 | 3,4 | 2,5 |
-| Córners a favor 2ª parte | 3,1 | 3,5 | 1,8 | 1,8 |
-| Córners totales del partido | 10,7 | 10,8 | 11,1 | 12,0 |
-| Córners totales 1ª parte | 4,3 | 4,0 | 5,4 | 5,0 |
-| Córners totales 2ª parte | 6,3 | 6,8 | 5,8 | 7,0 |
-| Más de 8,5 córners | 78% | 75% | 88% | 75% |
-| Más de 9,5 córners | 56% | 50% | 62% | 75% |
-| Más de 10,5 córners | 44% | 25% | 50% | 50% |
-| Faltas cometidas | 13,4 | 12,5 | 10,6 | 10,2 |
-| Faltas recibidas | 9,6 | 11,8 | 12,1 | 11,8 |
-| Amarillas propias | 2,7 | 3,0 | 1,4 | 1,5 |
-| Amarillas del rival | 1,4 | 2,0 | 1,2 | 1,0 |
-| Rojas / partido | 0,22 | 0,25 | 0,00 | 0,00 |
+| Córners a favor 2ª parte | 3,1 | 3,5 | 1,6 | 1,8 |
+| Córners totales del partido | 10,7 | 10,8 | 11,0 | 12,0 |
+| Córners totales 1ª parte | 4,3 | 4,0 | 5,6 | 5,0 |
+| Córners totales 2ª parte | 6,3 | 6,8 | 5,4 | 7,0 |
+| Más de 8,5 córners | 78% | 75% | 89% | 75% |
+| Más de 9,5 córners | 56% | 50% | 67% | 75% |
+| Más de 10,5 córners | 44% | 25% | 44% | 50% |
+| Faltas cometidas | 13,4 | 12,5 | 10,4 | 10,2 |
+| Faltas recibidas | 9,6 | 11,8 | 12,2 | 11,8 |
+| Amarillas propias | 2,7 | 3,0 | 1,3 | 1,5 |
+| Amarillas del rival | 1,4 | 2,0 | 1,3 | 1,0 |
+| Rojas / partido | 0,22 | 0,25 | 0,11 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Borussia Mönchengladbach | Recibe Borussia Mönchengladbach | Tarjetas Borussia Mönchengladbach | Goles SC Paderborn 07 | Recibe SC Paderborn 07 | Tarjetas SC Paderborn 07 |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 2 | 2 | 0 | 1 | 1 |
 | 16-30' | 2 | 6 | 2 | 4 | 2 | 0 |
-| 31-45' | 3 | 1 | 5 | 2 | 1 | 5 |
+| 31-45' | 3 | 1 | 5 | 2 | 1 | 6 |
 | 46-60' | 6 | 2 | 5 | 0 | 2 | 2 |
 | 61-75' | 3 | 3 | 1 | 3 | 2 | 2 |
-| 76-90' | 1 | 8 | 11 | 1 | 3 | 1 |
+| 76-90' | 1 | 8 | 11 | 1 | 4 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -168,72 +168,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de SC Paderborn 07
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | DFB-Pokal | SC Paderborn 07 0-1 VfB Stuttgart | casa | 4-6 | 17 (5) - 19 (5) | 1-2 |
 | 2026-10-24 | Bundesliga | SC Paderborn 07 1-0 Hamburger SV | casa | 6-3 | 16 (6) - 8 (1) | 1-2 |
 | 2026-10-17 | Bundesliga | Werder Bremen 2-2 SC Paderborn 07 | fuera | 3-5 | 11 (4) - 18 (11) | 1-1 |
 | 2026-10-10 | Bundesliga | SC Paderborn 07 0-2 VfB Stuttgart | casa | 7-5 | 24 (6) - 18 (8) | 1-0 |
 | 2026-09-20 | Bundesliga | SC Paderborn 07 3-1 1899 Hoffenheim | casa | 6-5 | 13 (5) - 23 (2) | 0-1 |
 | 2026-09-12 | Bundesliga | Borussia Dortmund 3-0 SC Paderborn 07 | fuera | 3-7 | 10 (0) - 14 (8) | 1-1 |
-| 2026-09-05 | Bundesliga | SC Paderborn 07 0-1 SC Freiburg | casa | 5-4 | 14 (3) - 16 (5) | 3-3 |
 
 ## Jugadores de SC Paderborn 07
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Castañeda | M | 8 | 720 | 2 | 0 | 13 | 1,6 | 6 | 0,8 | 6 | 17 | 2,1 | 1 | 0 |
-| T. Scheller | D | 8 | 715 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 6 | 0,8 | 1 | 0 |
-| L. Curda | M | 8 | 697 | 0 | 1 | 11 | 1,4 | 1 | 0,1 | 12 | 12 | 1,5 | 1 | 0 |
-| J. ter Horst | D | 8 | 684 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 12 | 5 | 0,6 | 2 | 0 |
-| M. Hansen | D | 8 | 661 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 5 | 6 | 0,8 | 1 | 0 |
-| R. Obermair | M | 8 | 648 | 0 | 0 | 7 | 0,9 | 4 | 0,5 | 2 | 0 | 0,0 | 1 | 0 |
+| S. Castañeda | M | 9 | 810 | 2 | 0 | 15 | 1,7 | 7 | 0,8 | 6 | 19 | 2,1 | 1 | 0 |
+| J. ter Horst | D | 9 | 759 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 13 | 5 | 0,6 | 2 | 0 |
+| L. Curda | M | 9 | 734 | 0 | 1 | 11 | 1,2 | 1 | 0,1 | 14 | 12 | 1,3 | 1 | 1 |
+| T. Scheller | D | 9 | 730 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 6 | 0,7 | 1 | 0 |
+| M. Hansen | D | 9 | 676 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 5 | 6 | 0,7 | 1 | 0 |
+| R. Obermair | M | 9 | 670 | 0 | 0 | 8 | 0,9 | 4 | 0,4 | 3 | 0 | 0,0 | 2 | 0 |
 | N. Noll | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | L. Ulrich | M | 8 | 622 | 0 | 1 | 7 | 0,9 | 0 | 0,0 | 5 | 18 | 2,2 | 1 | 0 |
 | G. Vidović | M | 8 | 603 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 9 | 1,1 | 0 | 0 |
-| S. Marino | F | 8 | 502 | 3 | 0 | 10 | 1,2 | 6 | 0,8 | 6 | 5 | 0,6 | 1 | 0 |
-| M. Pieringer | F | 7 | 419 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 15 | 4 | 0,6 | 1 | 0 |
-| S. Tigges | F | 8 | 311 | 2 | 1 | 17 | 2,1 | 5 | 0,6 | 4 | 5 | 0,6 | 0 | 0 |
+| S. Marino | F | 9 | 534 | 3 | 0 | 10 | 1,1 | 6 | 0,7 | 6 | 5 | 0,6 | 1 | 0 |
+| M. Pieringer | F | 8 | 487 | 0 | 0 | 9 | 1,1 | 1 | 0,1 | 18 | 7 | 0,9 | 1 | 0 |
+| S. Tigges | F | 9 | 333 | 2 | 1 | 17 | 1,9 | 5 | 0,6 | 4 | 5 | 0,6 | 0 | 0 |
+| T. Baack | M | 5 | 191 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
+| M. Schubert | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 1 | 0 |
+| C. Lippmann | M | 4 | 159 | 0 | 0 | 5 | 1,2 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Jonah Benedict Sticker | D | 7 | 149 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 5 | 0,7 | 0 | 0 |
+| F. Götze | D | 4 | 142 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 4 | 1,0 | 0 | 0 |
 | R. Philippe | F | 6 | 134 | 1 | 0 | 6 | 1,0 | 4 | 0,7 | 1 | 0 | 0,0 | 0 | 0 |
-| T. Baack | M | 4 | 101 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | Oliver Batista Meier | M | 4 | 94 | 0 | 1 | 4 | 1,0 | 3 | 0,8 | 1 | 1 | 0,2 | 0 | 0 |
-| M. Schubert | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 1 | 0 |
-| Jonah Sticker | D | 6 | 74 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-| Clemens Lippmann | M | 3 | 69 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| F. Götze | D | 3 | 52 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
-| A. Millgramm | F | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Ruben Müller | M | 2 | 83 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 1,32 · córners esperados 10,0._
+_Goles esperados: local 1,60 · visitante 1,25 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 27% | 30% | 3.50 | +5% |
+| 1X2: 2 | 30% | 27% | 28% | 3.50 | -1% |
 | 1X2: X | 25% | 24% | 24% | 3.90 | -5% |
-| 1X2: 1 | 42% | 49% | 46% | 1.90 | -13% |
-| Doble oportunidad: X2 | 58% | 50% | 54% | 1.91 | +3% |
-| Doble oportunidad: 12 | 75% | 76% | 76% | 1.25 | -6% |
-| Doble oportunidad: 1X | 67% | 74% | 71% | 1.28 | -10% |
+| 1X2: 1 | 46% | 49% | 47% | 1.90 | -10% |
+| Doble oportunidad: X2 | 54% | 50% | 52% | 1.91 | -1% |
+| Doble oportunidad: 12 | 75% | 76% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 70% | 74% | 72% | 1.28 | -8% |
 | Ambos marcan: No | 43% | 35% | 39% | 2.62 | +3% |
 | Ambos marcan: Sí | 57% | 65% | 61% | 1.44 | -12% |
 | Goles más/menos: Más de 2.5 | 54% | 64% | 59% | 1.50 | -12% |
-| Goles más/menos: Más de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -21% |
+| Goles más/menos: Más de 3.5 | 32% | 43% | 38% | 2.20 | -17% |
+| Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -20% |
 | Goles más/menos: Menos de 2.5 ✅ | 46% | 36% | 41% | 2.62 | +8% |
-| Goles más/menos: Menos de 3.5 | 68% | 57% | 63% | 1.67 | +5% |
+| Goles más/menos: Menos de 3.5 | 68% | 57% | 62% | 1.67 | +4% |
 | Goles más/menos: Menos de 4.5 | 84% | 76% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
-| Goles del local: Más de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Goles del local: Más de 2.5 | 20% | 31% | 25% | 3.00 | -24% |
-| Goles del local: Menos de 1.5 ✅ | 55% | 42% | 49% | 2.20 | +7% |
-| Goles del local: Menos de 2.5 | 80% | 69% | 75% | 1.36 | +1% |
-| Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles del visitante: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
+| Goles del local: Más de 1.5 | 48% | 58% | 53% | 1.62 | -15% |
+| Goles del local: Más de 2.5 | 22% | 31% | 26% | 3.00 | -21% |
+| Goles del local: Menos de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
+| Goles del local: Menos de 2.5 | 78% | 69% | 74% | 1.36 | -0% |
+| Goles del visitante: Más de 0.5 | 71% | 73% | 72% | 1.28 | -7% |
+| Goles del visitante: Más de 1.5 | 36% | 41% | 38% | 2.25 | -14% |
+| Goles del visitante: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles del visitante: Menos de 1.5 | 64% | 59% | 62% | 1.57 | -3% |
 | Córners más/menos: Más de 9.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Córners más/menos: Menos de 9.5 | 51% | 51% | 51% | 1.80 | -8% |
-| 1X2 descanso: 2 | 27% | 25% | 26% | 3.75 | -4% |
-| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -2% |
-| 1X2 descanso: 1 | 32% | 38% | 35% | 2.40 | -15% |
+| Córners más/menos: Menos de 9.5 | 51% | 51% | 51% | 1.80 | -7% |
+| 1X2 descanso: 2 | 25% | 25% | 25% | 3.75 | -8% |
+| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
+| 1X2 descanso: 1 | 34% | 38% | 36% | 2.40 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

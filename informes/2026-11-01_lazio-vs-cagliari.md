@@ -1,7 +1,7 @@
 # Lazio – Cagliari
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -155,15 +155,15 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | R. Ciervo | D | 2 | 102 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,17 · visitante 0,83 · córners esperados 9,9._
+_Goles esperados: local 2,16 · visitante 0,82 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 13% | 13% | 13% | 7.00 | -8% |
 | 1X2: X | 19% | 21% | 20% | 4.33 | -13% |
 | 1X2: 1 | 68% | 65% | 67% | 1.42 | -5% |
-| Goles más/menos: Más de 2.5 | 58% | 53% | 55% | 1.80 | -1% |
-| Goles más/menos: Menos de 2.5 | 42% | 47% | 45% | 2.00 | -10% |
+| Goles más/menos: Más de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Menos de 2.5 | 43% | 47% | 45% | 2.00 | -10% |
 | Córners más/menos: Más de 8.5 | 57% | 54% | 55% | 1.73 | -4% |
 | Córners más/menos: Menos de 8.5 | 43% | 46% | 45% | 2.00 | -11% |
 

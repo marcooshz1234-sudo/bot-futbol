@@ -1,7 +1,7 @@
 # Newcastle – Everton
 **Premier League** · Regular Season - 9 · 02/11/2026 21:00 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -211,42 +211,42 @@ _Sin bajas comunicadas por ahora._
 | Beto | F | 2 | 31 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,31 · córners esperados 10,1._
+_Goles esperados: local 1,08 · visitante 1,33 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 31% | 37% | 3.00 | +10% |
-| 1X2: X | 28% | 27% | 27% | 3.50 | -5% |
+| 1X2: 2 ✅ | 42% | 31% | 37% | 3.00 | +10% |
+| 1X2: X | 27% | 27% | 27% | 3.50 | -6% |
 | 1X2: 1 | 30% | 42% | 36% | 2.20 | -20% |
-| Doble oportunidad: X2 | 70% | 57% | 63% | 1.67 | +5% |
-| Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -6% |
-| Doble oportunidad: 1X | 58% | 70% | 64% | 1.36 | -13% |
-| Ambos marcan: No | 52% | 41% | 46% | 2.25 | +5% |
-| Ambos marcan: Sí | 48% | 59% | 54% | 1.57 | -16% |
-| Goles más/menos: Más de 1.5 | 69% | 78% | 73% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 43% | 57% | 50% | 1.67 | -17% |
-| Goles más/menos: Más de 3.5 | 22% | 34% | 28% | 2.75 | -23% |
-| Goles más/menos: Menos de 1.5 | 31% | 22% | 27% | 4.33 | +15% |
-| Goles más/menos: Menos de 2.5 ✅ | 57% | 43% | 50% | 2.20 | +11% |
-| Goles más/menos: Menos de 3.5 | 78% | 66% | 72% | 1.44 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +8% |
+| Doble oportunidad: X2 | 70% | 57% | 63% | 1.67 | +6% |
+| Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
+| Doble oportunidad: 1X | 58% | 70% | 64% | 1.36 | -14% |
+| Ambos marcan: No | 51% | 41% | 46% | 2.25 | +4% |
+| Ambos marcan: Sí | 49% | 59% | 54% | 1.57 | -16% |
+| Goles más/menos: Más de 1.5 | 69% | 78% | 74% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 43% | 57% | 50% | 1.67 | -16% |
+| Goles más/menos: Más de 3.5 | 22% | 34% | 28% | 2.75 | -22% |
+| Goles más/menos: Menos de 1.5 | 31% | 22% | 26% | 4.33 | +14% |
+| Goles más/menos: Menos de 2.5 | 57% | 43% | 50% | 2.20 | +10% |
+| Goles más/menos: Menos de 3.5 | 78% | 66% | 72% | 1.44 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del local: Más de 0.5 | 66% | 78% | 72% | 1.20 | -14% |
+| Goles del local: Más de 0.5 | 66% | 78% | 72% | 1.20 | -13% |
 | Goles del local: Más de 1.5 | 29% | 49% | 39% | 1.91 | -26% |
-| Goles del local: Más de 2.5 | 9% | 23% | 16% | 4.00 | -34% |
+| Goles del local: Más de 2.5 | 10% | 23% | 16% | 4.00 | -34% |
 | Goles del local: Menos de 0.5 | 34% | 22% | 28% | 4.33 | +21% |
 | Goles del local: Menos de 1.5 ✅ | 71% | 51% | 61% | 1.80 | +10% |
-| Goles del local: Menos de 2.5 | 91% | 77% | 84% | 1.22 | +2% |
-| Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles del visitante: Más de 1.5 | 38% | 39% | 38% | 2.38 | -8% |
-| Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
+| Goles del local: Menos de 2.5 | 90% | 77% | 84% | 1.22 | +2% |
+| Goles del visitante: Más de 0.5 | 74% | 73% | 73% | 1.28 | -6% |
+| Goles del visitante: Más de 1.5 | 39% | 39% | 39% | 2.38 | -8% |
+| Goles del visitante: Menos de 0.5 | 26% | 27% | 27% | 3.50 | -7% |
+| Goles del visitante: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -6% |
 | Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -14% |
 | Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -1% |
 | 1X2 descanso: 2 | 31% | 27% | 29% | 3.40 | -2% |
-| 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 24% | 33% | 29% | 2.75 | -22% |
+| 1X2 descanso: X | 45% | 40% | 43% | 2.30 | -2% |
+| 1X2 descanso: 1 | 24% | 33% | 28% | 2.75 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

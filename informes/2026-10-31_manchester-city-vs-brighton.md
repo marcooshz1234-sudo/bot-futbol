@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **1.65**  ·  X **4.10**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.20**
@@ -72,53 +72,53 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Manchester City (total) | Manchester City en casa | Brighton (total) | Brighton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 7 | 13 | 7 |
-| Forma (últimos 5) | DVVDV | VVDVV | DEVVV | DEVVV |
-| Balance | 10V 0E 2D | 6V 0E 1D | 8V 3E 2D | 3V 2E 2D |
-| Goles a favor / partido | 2,83 | 3,29 | 2,62 | 1,86 |
-| Goles en contra / partido | 1,17 | 1,57 | 0,69 | 1,14 |
-| Goles a favor 1ª parte | 0,92 | 1,43 | 1,31 | 0,43 |
-| Goles a favor 2ª parte | 1,92 | 1,86 | 1,31 | 1,43 |
-| Goles en contra 1ª parte | 0,67 | 1,00 | 0,62 | 1,00 |
-| Goles en contra 2ª parte | 0,50 | 0,57 | 0,08 | 0,14 |
-| Más de 1,5 goles | 83% | 86% | 85% | 71% |
-| Más de 2,5 goles | 75% | 86% | 62% | 43% |
-| Más de 3,5 goles | 50% | 71% | 54% | 43% |
-| Ambos marcan | 58% | 71% | 23% | 29% |
-| Portería a cero | 42% | 29% | 69% | 57% |
-| Se queda sin marcar | 0% | 0% | 23% | 43% |
-| xG a favor | 2,27 | 2,70 | 2,14 | 1,63 |
-| xG en contra | 1,26 | 1,72 | 1,18 | 1,31 |
-| Tiros / partido | 16,2 | 17,3 | 20,1 | 18,6 |
-| Tiros a puerta / partido | 6,3 | 6,3 | 5,7 | 4,6 |
-| Tiros recibidos | 10,2 | 10,3 | 9,4 | 11,6 |
-| Tiros a puerta recibidos | 3,7 | 4,6 | 2,8 | 4,0 |
-| Posesión media % | 63 | 64 | 64 | 63 |
-| Córners a favor | 6,0 | 5,9 | 6,3 | 5,3 |
-| Córners en contra | 3,6 | 3,4 | 3,8 | 4,4 |
-| Córners a favor 1ª parte | 3,1 | 3,3 | 3,1 | 2,7 |
-| Córners a favor 2ª parte | 2,9 | 2,6 | 3,2 | 2,6 |
-| Córners totales del partido | 9,6 | 9,3 | 10,2 | 9,7 |
-| Córners totales 1ª parte | 4,6 | 4,4 | 4,7 | 4,9 |
-| Córners totales 2ª parte | 5,0 | 4,9 | 5,5 | 4,9 |
-| Más de 8,5 córners | 67% | 71% | 54% | 43% |
-| Más de 9,5 córners | 58% | 57% | 54% | 43% |
-| Más de 10,5 córners | 58% | 57% | 54% | 43% |
-| Faltas cometidas | 11,1 | 9,1 | 12,8 | 13,0 |
-| Faltas recibidas | 13,3 | 12,1 | 9,0 | 7,7 |
-| Amarillas propias | 1,5 | 0,7 | 1,8 | 1,9 |
-| Amarillas del rival | 1,7 | 1,3 | 1,2 | 0,7 |
-| Rojas / partido | 0,08 | 0,00 | 0,08 | 0,14 |
+| Partidos analizados | 13 | 8 | 14 | 8 |
+| Forma (últimos 5) | EDVVD | EVVDV | EDEVV | EDEVV |
+| Balance | 10V 1E 2D | 6V 1E 1D | 8V 4E 2D | 3V 3E 2D |
+| Goles a favor / partido | 2,77 | 3,12 | 2,57 | 1,88 |
+| Goles en contra / partido | 1,23 | 1,62 | 0,79 | 1,25 |
+| Goles a favor 1ª parte | 0,92 | 1,38 | 1,29 | 0,50 |
+| Goles a favor 2ª parte | 1,85 | 1,75 | 1,29 | 1,38 |
+| Goles en contra 1ª parte | 0,69 | 1,00 | 0,64 | 1,00 |
+| Goles en contra 2ª parte | 0,54 | 0,62 | 0,14 | 0,25 |
+| Más de 1,5 goles | 85% | 88% | 86% | 75% |
+| Más de 2,5 goles | 77% | 88% | 64% | 50% |
+| Más de 3,5 goles | 54% | 75% | 57% | 50% |
+| Ambos marcan | 62% | 75% | 29% | 38% |
+| Portería a cero | 38% | 25% | 64% | 50% |
+| Se queda sin marcar | 0% | 0% | 21% | 38% |
+| xG a favor | 2,14 | 2,43 | 2,13 | 1,70 |
+| xG en contra | 1,32 | 1,77 | 1,14 | 1,23 |
+| Tiros / partido | 16,0 | 16,8 | 19,9 | 18,4 |
+| Tiros a puerta / partido | 6,1 | 5,9 | 5,7 | 4,8 |
+| Tiros recibidos | 10,8 | 11,1 | 9,6 | 11,8 |
+| Tiros a puerta recibidos | 3,8 | 4,8 | 2,9 | 3,9 |
+| Posesión media % | 63 | 63 | 63 | 61 |
+| Córners a favor | 5,8 | 5,5 | 6,4 | 5,5 |
+| Córners en contra | 3,8 | 3,9 | 3,8 | 4,2 |
+| Córners a favor 1ª parte | 3,0 | 3,1 | 2,9 | 2,5 |
+| Córners a favor 2ª parte | 2,8 | 2,4 | 3,4 | 3,0 |
+| Córners totales del partido | 9,6 | 9,4 | 10,1 | 9,8 |
+| Córners totales 1ª parte | 4,5 | 4,2 | 4,6 | 4,6 |
+| Córners totales 2ª parte | 5,2 | 5,1 | 5,6 | 5,1 |
+| Más de 8,5 córners | 69% | 75% | 57% | 50% |
+| Más de 9,5 córners | 62% | 62% | 57% | 50% |
+| Más de 10,5 córners | 54% | 50% | 50% | 38% |
+| Faltas cometidas | 10,5 | 8,4 | 13,3 | 13,9 |
+| Faltas recibidas | 13,8 | 13,1 | 8,6 | 7,1 |
+| Amarillas propias | 1,5 | 0,8 | 1,9 | 2,0 |
+| Amarillas del rival | 1,8 | 1,5 | 1,1 | 0,8 |
+| Rojas / partido | 0,08 | 0,00 | 0,07 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester City | Recibe Manchester City | Tarjetas Manchester City | Goles Brighton | Recibe Brighton | Tarjetas Brighton |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 4 | 0 | 4 | 5 | 2 |
-| 16-30' | 5 | 2 | 1 | 3 | 2 | 1 |
-| 31-45' | 4 | 2 | 4 | 10 | 1 | 6 |
-| 46-60' | 10 | 4 | 4 | 5 | 0 | 5 |
-| 61-75' | 5 | 1 | 2 | 6 | 1 | 5 |
-| 76-90' | 8 | 1 | 8 | 6 | 0 | 6 |
+| 1-15' | 2 | 4 | 0 | 4 | 5 | 3 |
+| 16-30' | 5 | 3 | 1 | 4 | 2 | 1 |
+| 31-45' | 5 | 2 | 5 | 10 | 2 | 6 |
+| 46-60' | 10 | 5 | 4 | 6 | 0 | 5 |
+| 61-75' | 6 | 1 | 2 | 6 | 2 | 5 |
+| 76-90' | 8 | 1 | 8 | 6 | 0 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -136,108 +136,108 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Manchester City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | casa | 3-7 | 13 (3) - 17 (6) | 1-3 |
 | 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | fuera | 7-4 | 15 (7) - 8 (2) | 4-4 |
 | 2026-10-20 | Champions League | Manchester City 5-1 AEK Athens FC | casa | 8-3 | 17 (7) - 11 (3) | 1-0 |
 | 2026-10-17 | Premier League | Manchester City 3-2 Ipswich | casa | 2-3 | 19 (6) - 8 (3) | 1-2 |
 | 2026-10-14 | Champions League | Manchester City 2-4 Paris Saint Germain | casa | 11-2 | 27 (9) - 15 (10) | 1-1 |
 | 2026-10-11 | Premier League | Liverpool 0-3 Manchester City | fuera | 6-5 | 15 (4) - 13 (6) | 2-4 |
-| 2026-09-20 | Premier League | Manchester City 5-3 Sunderland | casa | 6-5 | 16 (6) - 17 (9) | 0-1 |
 
 ## Jugadores de Manchester City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | G. Donnarumma | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
+| M. Guéhi | D | 11 | 945 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 10 | 11 | 1,0 | 1 | 0 |
 | Rúben Dias | D | 11 | 938 | 0 | 0 | 6 | 0,5 | 3 | 0,3 | 17 | 1 | 0,1 | 0 | 0 |
 | E. Haaland | F | 10 | 890 | 13 | 0 | 39 | 3,9 | 22 | 2,2 | 10 | 8 | 0,8 | 1 | 0 |
-| M. Guéhi | D | 10 | 855 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 10 | 10 | 1,0 | 1 | 0 |
 | E. Anderson | M | 11 | 816 | 1 | 1 | 12 | 1,1 | 3 | 0,3 | 11 | 30 | 2,7 | 2 | 0 |
 | J. Gvardiol | D | 11 | 788 | 1 | 3 | 8 | 0,7 | 5 | 0,5 | 11 | 14 | 1,3 | 4 | 0 |
-| E. Fernández | M | 9 | 709 | 1 | 1 | 13 | 1,4 | 5 | 0,6 | 10 | 16 | 1,8 | 1 | 0 |
+| R. Cherki | M | 12 | 772 | 6 | 3 | 22 | 1,8 | 11 | 0,9 | 7 | 9 | 0,8 | 2 | 0 |
+| E. Fernández | M | 10 | 712 | 1 | 1 | 13 | 1,3 | 5 | 0,5 | 10 | 17 | 1,7 | 1 | 0 |
 | Antoine Semenyo | F | 9 | 705 | 2 | 3 | 13 | 1,4 | 6 | 0,7 | 15 | 7 | 0,8 | 1 | 0 |
-| A. Khusanov | D | 9 | 685 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 5 | 0,6 | 1 | 0 |
-| R. Cherki | M | 11 | 682 | 6 | 2 | 16 | 1,5 | 10 | 0,9 | 7 | 8 | 0,7 | 2 | 0 |
+| A. Khusanov | D | 10 | 699 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 6 | 0,6 | 1 | 0 |
+| P. Foden | M | 9 | 596 | 4 | 4 | 12 | 1,3 | 6 | 0,7 | 5 | 11 | 1,2 | 1 | 1 |
 | Matheus Nunes | D | 7 | 514 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
-| P. Foden | M | 8 | 506 | 4 | 3 | 11 | 1,4 | 6 | 0,8 | 5 | 7 | 0,9 | 1 | 1 |
 | I. Ndiaye | M | 8 | 495 | 0 | 3 | 12 | 1,5 | 4 | 0,5 | 5 | 15 | 1,9 | 0 | 0 |
-| Nico O'Reilly | D | 8 | 389 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
-| Ayyoub Bouaddi | M | 7 | 332 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 3 | 6 | 0,9 | 1 | 0 |
-| R. Lewis | D | 4 | 282 | 0 | 2 | 2 | 0,5 | 1 | 0,2 | 4 | 6 | 1,5 | 0 | 0 |
-| J. Doku | M | 5 | 261 | 1 | 1 | 5 | 1,0 | 2 | 0,4 | 2 | 11 | 2,2 | 0 | 0 |
-| Mateo Kovačić | M | 5 | 197 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Allan | M | 3 | 171 | 1 | 1 | 3 | 1,0 | 2 | 0,7 | 2 | 3 | 1,0 | 0 | 0 |
-| F. Samba | F | 2 | 152 | 2 | 0 | 4 | 2,0 | 2 | 1,0 | 0 | 1 | 0,5 | 0 | 0 |
+| N. O&apos;Reilly | D | 9 | 476 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
+| A. Bouaddi | M | 8 | 377 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 4 | 7 | 0,9 | 2 | 0 |
+| R. Lewis | D | 5 | 358 | 0 | 2 | 3 | 0,6 | 1 | 0,2 | 4 | 8 | 1,6 | 0 | 0 |
+| J. Doku | F | 6 | 290 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 2 | 13 | 2,2 | 0 | 0 |
+| M. Kovačić | M | 6 | 287 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 0 | 3 | 0,5 | 0 | 0 |
+| Allan | M | 4 | 232 | 1 | 1 | 4 | 1,0 | 2 | 0,5 | 3 | 6 | 1,5 | 0 | 0 |
+| Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Brighton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | fuera | 7-3 | 17 (6) - 13 (3) | 3-1 |
 | 2026-10-25 | Premier League | Liverpool 2-0 Brighton | fuera | 2-4 | 17 (1) - 13 (4) | 2-0 |
 | 2026-10-22 | Conference League | FK Jablonec 0-0 Brighton | fuera | 6-2 | 20 (3) - 8 (4) | 1-4 |
 | 2026-10-18 | Premier League | Brighton 5-0 Crystal Palace | casa | 8-5 | 17 (9) - 5 (1) | 2-1 |
 | 2026-10-15 | Conference League | Brighton 4-0 Kauno Žalgiris | casa | 13-0 | 35 (9) - 4 (1) | 0-1 |
 | 2026-10-10 | Premier League | Sunderland 0-2 Brighton | fuera | 5-7 | 13 (4) - 12 (3) | 1-0 |
-| 2026-09-19 | Premier League | Brighton 3-0 Arsenal | casa | 5-6 | 17 (5) - 11 (2) | 4-1 |
 
 ## Jugadores de Brighton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Groß | M | 13 | 1096 | 4 | 4 | 19 | 1,5 | 7 | 0,5 | 14 | 3 | 0,2 | 3 | 0 |
+| P. Groß | M | 14 | 1186 | 4 | 4 | 21 | 1,5 | 7 | 0,5 | 14 | 3 | 0,2 | 3 | 0 |
+| O. Boscagli | D | 14 | 1088 | 1 | 1 | 9 | 0,6 | 3 | 0,2 | 14 | 10 | 0,7 | 3 | 0 |
 | B. Verbruggen | G | 12 | 1076 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | L. Vušković | D | 13 | 1041 | 1 | 1 | 19 | 1,5 | 4 | 0,3 | 14 | 14 | 1,1 | 1 | 0 |
-| O. Boscagli | D | 13 | 998 | 1 | 1 | 8 | 0,6 | 3 | 0,2 | 14 | 10 | 0,8 | 3 | 0 |
-| D. Gómez | M | 11 | 862 | 1 | 2 | 21 | 1,9 | 8 | 0,7 | 12 | 2 | 0,2 | 0 | 0 |
-| Y. Ayari | M | 12 | 825 | 2 | 0 | 21 | 1,8 | 7 | 0,6 | 7 | 11 | 0,9 | 2 | 0 |
-| M. De Cuyper | M | 12 | 821 | 4 | 3 | 11 | 0,9 | 4 | 0,3 | 14 | 8 | 0,7 | 3 | 0 |
+| D. Gómez | M | 12 | 938 | 1 | 2 | 22 | 1,8 | 9 | 0,8 | 14 | 2 | 0,2 | 0 | 0 |
+| Y. Ayari | M | 13 | 915 | 2 | 0 | 25 | 1,9 | 7 | 0,5 | 8 | 11 | 0,8 | 2 | 0 |
+| M. De Cuyper | D | 13 | 835 | 4 | 3 | 11 | 0,8 | 4 | 0,3 | 15 | 8 | 0,6 | 3 | 0 |
 | C. Kostoulas | F | 11 | 771 | 5 | 3 | 34 | 3,1 | 11 | 1,0 | 13 | 12 | 1,1 | 1 | 0 |
-| L. Dunk | D | 9 | 659 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,4 | 1 | 0 |
-| M. Yalcouyé | M | 13 | 636 | 2 | 0 | 10 | 0,8 | 4 | 0,3 | 10 | 12 | 0,9 | 0 | 0 |
+| M. Yalcouyé | M | 14 | 717 | 3 | 0 | 11 | 0,8 | 5 | 0,4 | 12 | 12 | 0,9 | 0 | 0 |
+| L. Dunk | D | 10 | 664 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 4 | 0,4 | 2 | 0 |
 | F. Kadıoğlu | D | 9 | 623 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 8 | 0,9 | 2 | 0 |
-| Costinha | D | 11 | 492 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 9 | 3 | 0,3 | 3 | 0 |
+| Costinha | D | 12 | 582 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 12 | 3 | 0,2 | 3 | 0 |
+| G. Rutter | F | 10 | 491 | 3 | 4 | 17 | 1,7 | 10 | 1,0 | 10 | 4 | 0,4 | 0 | 0 |
 | José María Andrés Baixauli | M | 7 | 452 | 1 | 1 | 6 | 0,9 | 1 | 0,1 | 13 | 3 | 0,4 | 2 | 0 |
-| G. Rutter | F | 9 | 410 | 2 | 3 | 12 | 1,3 | 6 | 0,7 | 8 | 2 | 0,2 | 0 | 0 |
-| Matt O'Riley | M | 6 | 329 | 1 | 0 | 8 | 1,3 | 3 | 0,5 | 1 | 3 | 0,5 | 0 | 0 |
+| J. Hinshelwood | M | 7 | 341 | 4 | 0 | 11 | 1,6 | 8 | 1,1 | 6 | 3 | 0,4 | 0 | 0 |
+| M. O&apos;Riley | M | 7 | 338 | 1 | 0 | 8 | 1,1 | 3 | 0,4 | 1 | 3 | 0,4 | 0 | 0 |
+| M. Wieffer | M | 5 | 302 | 1 | 0 | 5 | 1,0 | 1 | 0,2 | 4 | 5 | 1,0 | 1 | 0 |
 | Ibrahim Osman | M | 7 | 294 | 0 | 2 | 10 | 1,4 | 1 | 0,1 | 7 | 3 | 0,4 | 0 | 0 |
-| Mats Wieffer | D | 4 | 293 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 3 | 5 | 1,2 | 0 | 0 |
 | Pascal Struijk | D | 6 | 291 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 1 |
-| J. Hinshelwood | M | 6 | 265 | 4 | 0 | 10 | 1,7 | 8 | 1,3 | 2 | 3 | 0,5 | 0 | 0 |
-| Michael Svoboda | D | 4 | 188 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
+| M. Svoboda | D | 5 | 273 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 1,50 · córners esperados 10,2._
+_Goles esperados: local 1,55 · visitante 1,57 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 21% | 28% | 4.50 | +27% |
+| 1X2: 2 | 39% | 21% | 30% | 4.50 | +33% |
 | 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
-| 1X2: 1 | 40% | 57% | 48% | 1.65 | -20% |
-| Doble oportunidad: X2 ✅ | 60% | 43% | 51% | 2.20 | +13% |
+| 1X2: 1 | 38% | 57% | 47% | 1.65 | -22% |
+| Doble oportunidad: X2 ✅ | 62% | 43% | 53% | 2.20 | +16% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 64% | 80% | 72% | 1.18 | -15% |
+| Doble oportunidad: 1X | 61% | 80% | 71% | 1.18 | -17% |
 | Ambos marcan: No | 38% | 38% | 38% | 2.50 | -6% |
-| Ambos marcan: Sí | 62% | 62% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 2.5 | 60% | 66% | 63% | 1.44 | -10% |
-| Goles más/menos: Más de 3.5 | 38% | 45% | 41% | 2.10 | -13% |
-| Goles más/menos: Más de 4.5 | 20% | 27% | 24% | 3.50 | -17% |
+| Ambos marcan: Sí | 62% | 62% | 62% | 1.50 | -6% |
+| Goles más/menos: Más de 2.5 | 60% | 66% | 63% | 1.44 | -9% |
+| Goles más/menos: Más de 3.5 | 38% | 45% | 42% | 2.10 | -13% |
+| Goles más/menos: Más de 4.5 | 21% | 27% | 24% | 3.50 | -17% |
 | Goles más/menos: Menos de 2.5 | 40% | 34% | 37% | 2.75 | +2% |
-| Goles más/menos: Menos de 3.5 | 62% | 55% | 59% | 1.73 | +1% |
-| Goles más/menos: Menos de 4.5 | 80% | 73% | 76% | 1.30 | -1% |
+| Goles más/menos: Menos de 3.5 | 62% | 55% | 58% | 1.73 | +1% |
+| Goles más/menos: Menos de 4.5 | 79% | 73% | 76% | 1.30 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 44% | 42% | 2.10 | -13% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 21% | 18% | 4.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 56% | 58% | 1.67 | -2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del local: Más de 1.5 | 48% | 62% | 55% | 1.50 | -17% |
-| Goles del local: Más de 2.5 | 22% | 38% | 30% | 2.50 | -26% |
-| Goles del local: Menos de 1.5 ✅ | 52% | 38% | 45% | 2.50 | +12% |
-| Goles del local: Menos de 2.5 | 78% | 62% | 70% | 1.50 | +6% |
-| Goles del visitante: Más de 0.5 | 78% | 71% | 74% | 1.33 | -1% |
-| Goles del visitante: Más de 1.5 | 44% | 35% | 40% | 2.62 | +4% |
-| Goles del visitante: Menos de 0.5 | 22% | 29% | 26% | 3.25 | -17% |
-| Goles del visitante: Menos de 1.5 | 56% | 65% | 60% | 1.44 | -13% |
-| Córners más/menos: Más de 10.5 | 42% | 46% | 44% | 2.00 | -11% |
-| Córners más/menos: Menos de 10.5 | 58% | 54% | 56% | 1.73 | -4% |
-| 1X2 descanso: 2 | 29% | 21% | 25% | 4.50 | +12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 44% | 42% | 2.10 | -12% |
+| Goles 1ª parte más/menos: Más de 2.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 79% | 82% | 1.18 | -3% |
+| Goles del local: Más de 1.5 | 46% | 62% | 54% | 1.50 | -19% |
+| Goles del local: Más de 2.5 | 20% | 38% | 29% | 2.50 | -28% |
+| Goles del local: Menos de 1.5 ✅ | 54% | 38% | 46% | 2.50 | +15% |
+| Goles del local: Menos de 2.5 | 80% | 62% | 71% | 1.50 | +7% |
+| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
+| Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Córners más/menos: Más de 10.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Córners más/menos: Menos de 10.5 | 58% | 54% | 56% | 1.73 | -3% |
+| 1X2 descanso: 2 | 31% | 21% | 26% | 4.50 | +15% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
-| 1X2 descanso: 1 | 32% | 44% | 38% | 2.10 | -21% |
+| 1X2 descanso: 1 | 30% | 44% | 37% | 2.10 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

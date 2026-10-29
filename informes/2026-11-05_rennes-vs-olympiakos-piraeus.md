@@ -1,7 +1,7 @@
 # Rennes – Olympiakos Piraeus
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin precedentes recientes._
 | K. Fortounis | M | 2 | 83 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,16 · visitante 0,97 · córners esperados 10,6._
+_Goles esperados: local 1,15 · visitante 0,98 · córners esperados 10,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

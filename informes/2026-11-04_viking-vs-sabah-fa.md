@@ -1,7 +1,7 @@
 # Viking – Sabah FA
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Lyse Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin precedentes recientes._
 | Tellur Mutallimov | D | 2 | 34 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,42 · visitante 1,77 · córners esperados 10,2._
+_Goles esperados: local 2,41 · visitante 1,77 · córners esperados 10,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

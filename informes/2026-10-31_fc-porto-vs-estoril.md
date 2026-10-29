@@ -1,10 +1,10 @@
 # FC Porto – Estoril
-**Primeira Liga** · Regular Season - 10 · 31/10/2026 21:30 (hora España)
+**Primeira Liga** · Regular Season - 10 · 31/10/2026 21:30 (hora España) · Estádio do Dragão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.22**  ·  X **6.50**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.11**  ·  X2 **4.00**
@@ -197,24 +197,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 63% | 56% | 59% | 1.67 | -1% |
 | Ambos marcan: Sí | 37% | 44% | 41% | 2.10 | -15% |
 | Goles más/menos: Más de 2.5 | 54% | 61% | 57% | 1.53 | -12% |
-| Goles más/menos: Más de 3.5 | 31% | 41% | 36% | 2.25 | -19% |
-| Goles más/menos: Más de 4.5 | 16% | 23% | 19% | 4.00 | -22% |
+| Goles más/menos: Más de 3.5 | 31% | 41% | 36% | 2.25 | -18% |
+| Goles más/menos: Más de 4.5 | 16% | 23% | 20% | 4.00 | -22% |
 | Goles más/menos: Menos de 2.5 | 46% | 39% | 43% | 2.40 | +2% |
 | Goles más/menos: Menos de 3.5 | 69% | 59% | 64% | 1.57 | +0% |
-| Goles más/menos: Menos de 4.5 | 84% | 77% | 81% | 1.22 | -2% |
+| Goles más/menos: Menos de 4.5 | 84% | 77% | 80% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 38% | 2.20 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 62% | 1.62 | -0% |
-| Goles del local: Más de 1.5 | 67% | 72% | 70% | 1.30 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -0% |
+| Goles del local: Más de 1.5 | 67% | 72% | 70% | 1.30 | -9% |
 | Goles del local: Más de 2.5 | 40% | 49% | 44% | 1.91 | -15% |
 | Goles del local: Más de 3.5 | 20% | 27% | 23% | 3.50 | -18% |
 | Goles del local: Menos de 1.5 | 33% | 28% | 30% | 3.40 | +3% |
-| Goles del local: Menos de 2.5 | 60% | 51% | 56% | 1.80 | +0% |
+| Goles del local: Menos de 2.5 | 60% | 51% | 56% | 1.80 | -0% |
 | Goles del local: Menos de 3.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles del visitante: Más de 0.5 | 41% | 49% | 45% | 1.91 | -15% |
 | Goles del visitante: Menos de 0.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: X | 37% | 32% | 34% | 2.88 | -1% |
+| 1X2 descanso: X | 36% | 32% | 34% | 2.88 | -1% |
 | 1X2 descanso: 1 | 55% | 59% | 57% | 1.57 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

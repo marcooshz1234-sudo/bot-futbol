@@ -1,7 +1,7 @@
 # Benfica – Alverca
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -180,25 +180,25 @@ _Sin bajas comunicadas por ahora._
 | Matheus França | F | 4 | 85 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,25 · visitante 0,85 · córners esperados 9,1._
+_Goles esperados: local 3,23 · visitante 0,85 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 6% | 7% | 7% | 13.00 | -12% |
+| 1X2: 2 | 6% | 7% | 7% | 13.00 | -11% |
 | 1X2: X | 11% | 13% | 12% | 7.50 | -13% |
-| 1X2: 1 | 83% | 80% | 82% | 1.17 | -4% |
+| 1X2: 1 | 83% | 80% | 82% | 1.17 | -5% |
 | Doble oportunidad: X2 | 17% | 19% | 18% | 5.00 | -9% |
 | Doble oportunidad: 12 | 89% | 88% | 89% | 1.10 | -3% |
 | Doble oportunidad: 1X | 94% | 93% | 93% | 1.04 | -3% |
 | Ambos marcan: No | 45% | 53% | 49% | 1.75 | -14% |
 | Ambos marcan: Sí | 55% | 47% | 51% | 2.00 | +2% |
-| Goles más/menos: Más de 2.5 | 78% | 67% | 72% | 1.40 | +1% |
-| Goles más/menos: Más de 3.5 | 59% | 49% | 54% | 1.91 | +2% |
-| Goles más/menos: Más de 4.5 | 39% | 29% | 34% | 3.25 | +11% |
-| Goles más/menos: Menos de 2.5 | 22% | 33% | 28% | 2.88 | -21% |
-| Goles más/menos: Menos de 3.5 | 41% | 51% | 46% | 1.80 | -16% |
+| Goles más/menos: Más de 2.5 | 77% | 67% | 72% | 1.40 | +1% |
+| Goles más/menos: Más de 3.5 | 58% | 49% | 53% | 1.91 | +2% |
+| Goles más/menos: Más de 4.5 | 39% | 29% | 34% | 3.25 | +10% |
+| Goles más/menos: Menos de 2.5 | 23% | 33% | 28% | 2.88 | -20% |
+| Goles más/menos: Menos de 3.5 | 42% | 51% | 47% | 1.80 | -16% |
 | Goles más/menos: Menos de 4.5 | 61% | 71% | 66% | 1.33 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
@@ -208,10 +208,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del local: Más de 1.5 | 83% | 77% | 80% | 1.22 | -2% |
 | Goles del local: Más de 2.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del local: Más de 3.5 | 41% | 34% | 37% | 2.75 | +2% |
+| Goles del local: Más de 3.5 | 40% | 34% | 37% | 2.75 | +2% |
 | Goles del local: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -20% |
-| Goles del local: Menos de 2.5 | 37% | 46% | 42% | 2.00 | -17% |
-| Goles del local: Menos de 3.5 | 59% | 66% | 63% | 1.40 | -12% |
+| Goles del local: Menos de 2.5 | 37% | 46% | 42% | 2.00 | -16% |
+| Goles del local: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -12% |
 | Goles del visitante: Más de 0.5 | 57% | 50% | 54% | 1.83 | -2% |
 | Goles del visitante: Menos de 0.5 | 43% | 50% | 46% | 1.83 | -15% |
 | 1X2 descanso: X | 27% | 30% | 28% | 3.10 | -12% |

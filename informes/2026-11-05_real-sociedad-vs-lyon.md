@@ -1,7 +1,7 @@
 # Real Sociedad – Lyon
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Rémy Descamps | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 1,39 · córners esperados 10,4._
+_Goles esperados: local 1,53 · visitante 1,39 · córners esperados 10,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

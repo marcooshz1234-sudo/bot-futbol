@@ -1,7 +1,7 @@
 # Groningen – Sparta Rotterdam
 **Eredivisie** · Regular Season - 11 · 01/11/2026 16:45 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -62,53 +62,53 @@ _Actualizadas: 28/10 07:59_
 ## Estadísticas de equipo
 | | Groningen (total) | Groningen en casa | Sparta Rotterdam (total) | Sparta Rotterdam fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 4 |
-| Forma (últimos 5) | EDVVE | DVEDV | DVEDD | EDDV |
-| Balance | 4V 3E 3D | 2V 1E 2D | 2V 3E 5D | 1V 1E 2D |
-| Goles a favor / partido | 2,40 | 2,20 | 1,70 | 2,00 |
-| Goles en contra / partido | 2,10 | 2,20 | 2,40 | 2,50 |
-| Goles a favor 1ª parte | 1,50 | 1,20 | 0,70 | 0,75 |
+| Partidos analizados | 10 | 5 | 11 | 4 |
+| Forma (últimos 5) | EDVVE | DVEDV | EDVED | EDDV |
+| Balance | 4V 3E 3D | 2V 1E 2D | 2V 4E 5D | 1V 1E 2D |
+| Goles a favor / partido | 2,40 | 2,20 | 1,73 | 2,00 |
+| Goles en contra / partido | 2,10 | 2,20 | 2,36 | 2,50 |
+| Goles a favor 1ª parte | 1,50 | 1,20 | 0,73 | 0,75 |
 | Goles a favor 2ª parte | 0,90 | 1,00 | 1,00 | 1,25 |
-| Goles en contra 1ª parte | 1,00 | 1,20 | 1,10 | 0,75 |
-| Goles en contra 2ª parte | 1,10 | 1,00 | 1,30 | 1,75 |
-| Más de 1,5 goles | 100% | 100% | 90% | 100% |
-| Más de 2,5 goles | 90% | 100% | 90% | 100% |
-| Más de 3,5 goles | 70% | 60% | 70% | 75% |
-| Ambos marcan | 90% | 80% | 80% | 100% |
+| Goles en contra 1ª parte | 1,00 | 1,20 | 1,00 | 0,75 |
+| Goles en contra 2ª parte | 1,10 | 1,00 | 1,36 | 1,75 |
+| Más de 1,5 goles | 100% | 100% | 91% | 100% |
+| Más de 2,5 goles | 90% | 100% | 91% | 100% |
+| Más de 3,5 goles | 70% | 60% | 73% | 75% |
+| Ambos marcan | 90% | 80% | 82% | 100% |
 | Portería a cero | 10% | 20% | 0% | 0% |
-| Se queda sin marcar | 0% | 0% | 20% | 0% |
+| Se queda sin marcar | 0% | 0% | 18% | 0% |
 | xG a favor | 1,70 | 1,66 | 1,84 | 2,06 |
 | xG en contra | 2,02 | 1,78 | 1,91 | 1,94 |
-| Tiros / partido | 14,3 | 18,4 | 14,3 | 13,5 |
+| Tiros / partido | 14,3 | 18,4 | 14,7 | 13,5 |
 | Tiros a puerta / partido | 5,5 | 4,6 | 5,1 | 6,2 |
-| Tiros recibidos | 15,9 | 12,6 | 17,2 | 16,8 |
+| Tiros recibidos | 15,9 | 12,6 | 16,9 | 16,8 |
 | Tiros a puerta recibidos | 6,2 | 5,8 | 5,5 | 5,5 |
-| Posesión media % | 50 | 56 | 44 | 39 |
-| Córners a favor | 4,6 | 6,4 | 5,6 | 5,0 |
-| Córners en contra | 5,2 | 3,0 | 6,5 | 7,8 |
-| Córners a favor 1ª parte | 2,1 | 2,6 | 2,5 | 2,2 |
-| Córners a favor 2ª parte | 2,5 | 3,8 | 3,1 | 2,8 |
-| Córners totales del partido | 9,8 | 9,4 | 12,1 | 12,8 |
-| Córners totales 1ª parte | 4,3 | 3,8 | 6,7 | 6,2 |
+| Posesión media % | 50 | 56 | 46 | 39 |
+| Córners a favor | 4,6 | 6,4 | 5,5 | 5,0 |
+| Córners en contra | 5,2 | 3,0 | 6,7 | 7,8 |
+| Córners a favor 1ª parte | 2,1 | 2,6 | 2,3 | 2,2 |
+| Córners a favor 2ª parte | 2,5 | 3,8 | 3,0 | 2,8 |
+| Córners totales del partido | 9,8 | 9,4 | 12,3 | 12,8 |
+| Córners totales 1ª parte | 4,3 | 3,8 | 6,5 | 6,2 |
 | Córners totales 2ª parte | 5,5 | 5,6 | 5,4 | 6,5 |
-| Más de 8,5 córners | 80% | 80% | 80% | 100% |
-| Más de 9,5 córners | 50% | 60% | 70% | 100% |
-| Más de 10,5 córners | 40% | 40% | 60% | 75% |
-| Faltas cometidas | 9,4 | 9,0 | 10,6 | 8,8 |
-| Faltas recibidas | 11,0 | 12,4 | 9,6 | 9,0 |
-| Amarillas propias | 1,2 | 1,0 | 1,6 | 1,5 |
-| Amarillas del rival | 1,3 | 2,2 | 1,3 | 1,0 |
+| Más de 8,5 córners | 80% | 80% | 82% | 100% |
+| Más de 9,5 córners | 50% | 60% | 73% | 100% |
+| Más de 10,5 córners | 40% | 40% | 64% | 75% |
+| Faltas cometidas | 9,4 | 9,0 | 10,7 | 8,8 |
+| Faltas recibidas | 11,0 | 12,4 | 11,1 | 9,0 |
+| Amarillas propias | 1,2 | 1,0 | 1,5 | 1,5 |
+| Amarillas del rival | 1,3 | 2,2 | 1,5 | 1,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Groningen | Recibe Groningen | Tarjetas Groningen | Goles Sparta Rotterdam | Recibe Sparta Rotterdam | Tarjetas Sparta Rotterdam |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 3 | 0 | 2 | 0 | 0 |
+| 1-15' | 5 | 3 | 0 | 3 | 0 | 1 |
 | 16-30' | 5 | 2 | 1 | 2 | 7 | 3 |
 | 31-45' | 5 | 5 | 3 | 3 | 4 | 1 |
 | 46-60' | 2 | 5 | 2 | 4 | 4 | 4 |
-| 61-75' | 3 | 4 | 1 | 3 | 4 | 2 |
-| 76-90' | 4 | 2 | 5 | 3 | 5 | 7 |
+| 61-75' | 3 | 4 | 1 | 3 | 6 | 2 |
+| 76-90' | 4 | 2 | 5 | 4 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -160,76 +160,76 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sparta Rotterdam
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | KNVB Beker | Sparta Rotterdam 2-2 Fortuna Sittard | casa | 5-9 | 19 (5) - 14 (5) | 1-3 |
 | 2026-10-25 | Eredivisie | Sparta Rotterdam 1-2 Ajax | casa | 5-3 | 11 (5) - 16 (4) | 1-2 |
 | 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | casa | 3-4 | 22 (8) - 13 (4) | 4-4 |
 | 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | fuera | 6-9 | 18 (8) - 17 (6) | 3-0 |
 | 2026-09-19 | Eredivisie | Sparta Rotterdam 0-4 Heerenveen | casa | 3-6 | 11 (0) - 23 (9) | 2-0 |
 | 2026-09-13 | Eredivisie | PSV Eindhoven 4-1 Sparta Rotterdam | fuera | 5-9 | 10 (6) - 28 (10) | 1-1 |
-| 2026-09-04 | Eredivisie | Sparta Rotterdam 2-2 PEC Zwolle | casa | 15-4 | 21 (8) - 15 (6) | 0-2 |
 
 ## Jugadores de Sparta Rotterdam
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B. Kuipers | D | 10 | 900 | 0 | 3 | 5 | 0,5 | 1 | 0,1 | 9 | 7 | 0,7 | 2 | 0 |
-| M. Young | D | 10 | 883 | 2 | 0 | 8 | 0,8 | 3 | 0,3 | 7 | 11 | 1,1 | 1 | 0 |
-| L. Martes | D | 10 | 882 | 2 | 0 | 9 | 0,9 | 6 | 0,6 | 12 | 8 | 0,8 | 3 | 0 |
+| Bas Kuipers | D | 11 | 1020 | 0 | 3 | 5 | 0,5 | 1 | 0,1 | 9 | 7 | 0,6 | 2 | 0 |
+| Marvin Young | D | 11 | 1003 | 2 | 1 | 9 | 0,8 | 3 | 0,3 | 7 | 12 | 1,1 | 1 | 0 |
+| Lushendry Edward Martes | D | 11 | 927 | 2 | 0 | 9 | 0,8 | 6 | 0,5 | 12 | 8 | 0,7 | 3 | 0 |
+| Milan Zonneveld | F | 11 | 802 | 8 | 1 | 30 | 2,7 | 14 | 1,3 | 15 | 11 | 1,0 | 1 | 0 |
+| Nick Verschuren | D | 11 | 783 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 14 | 1,3 | 1 | 0 |
 | B. Martins Indi | D | 9 | 725 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 5 | 0,6 | 1 | 0 |
-| M. Zonneveld | F | 10 | 682 | 6 | 1 | 23 | 2,3 | 11 | 1,1 | 11 | 7 | 0,7 | 1 | 0 |
-| N. Verschuren | D | 10 | 663 | 1 | 0 | 6 | 0,6 | 1 | 0,1 | 6 | 12 | 1,2 | 0 | 0 |
+| Cedric Hatenboer | M | 7 | 573 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 4 | 6 | 0,9 | 1 | 0 |
 | M. Brouwer | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
-| Cedric Hatenboer | M | 6 | 522 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 4 | 4 | 0,7 | 1 | 0 |
-| J. Baas | M | 6 | 464 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 7 | 3 | 0,5 | 1 | 0 |
-| C. Terho | F | 9 | 438 | 1 | 0 | 9 | 1,0 | 4 | 0,4 | 4 | 5 | 0,6 | 1 | 0 |
+| Julian Baas | M | 7 | 533 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 8 | 3 | 0,4 | 1 | 0 |
+| Casper Terho | F | 10 | 513 | 1 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 10 | 1,0 | 1 | 0 |
+| Robin van Cruijsen | M | 10 | 489 | 1 | 0 | 12 | 1,2 | 5 | 0,5 | 3 | 3 | 0,3 | 0 | 0 |
+| Filip Bednarek | G | 5 | 480 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Isaac Babadi | M | 7 | 462 | 1 | 4 | 6 | 0,9 | 3 | 0,4 | 4 | 4 | 0,6 | 2 | 0 |
 | J. Toornstra | M | 7 | 423 | 2 | 1 | 6 | 0,9 | 3 | 0,4 | 7 | 4 | 0,6 | 1 | 0 |
 | Shunsuke Mito | M | 5 | 423 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 1 | 7 | 1,4 | 0 | 0 |
-| Robin van Cruijsen | M | 9 | 420 | 1 | 0 | 12 | 1,3 | 5 | 0,6 | 3 | 3 | 0,3 | 0 | 0 |
-| I. Babadi | M | 6 | 381 | 1 | 3 | 6 | 1,0 | 3 | 0,5 | 4 | 1 | 0,2 | 2 | 0 |
-| M. van Bergen | F | 8 | 360 | 0 | 1 | 9 | 1,1 | 5 | 0,6 | 1 | 5 | 0,6 | 1 | 0 |
-| Filip Bednarek | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Mitchell Van Bergen | M | 9 | 405 | 0 | 1 | 9 | 1,0 | 5 | 0,6 | 1 | 5 | 0,6 | 1 | 0 |
 | Ayoni Santos | F | 3 | 257 | 0 | 0 | 5 | 1,7 | 2 | 0,7 | 2 | 4 | 1,3 | 0 | 0 |
+| Teo Quintero | M | 8 | 211 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 3 | 0,4 | 0 | 0 |
 | Nökkvi Þórisson | F | 3 | 209 | 1 | 1 | 7 | 2,3 | 4 | 1,3 | 9 | 5 | 1,7 | 0 | 0 |
-| Teo Quintero | D | 7 | 121 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
-| Joel Ideho | M | 5 | 104 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Joel Ideho | F | 6 | 143 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 1 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,52 · visitante 1,83 · córners esperados 10,3._
+_Goles esperados: local 2,57 · visitante 1,83 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 22% | 25% | 4.20 | +5% |
+| 1X2: 2 | 27% | 22% | 25% | 4.20 | +4% |
 | 1X2: X | 19% | 23% | 21% | 4.00 | -16% |
-| 1X2: 1 | 53% | 55% | 54% | 1.70 | -8% |
-| Doble oportunidad: X2 | 47% | 45% | 46% | 2.10 | -4% |
+| 1X2: 1 | 54% | 55% | 54% | 1.70 | -7% |
+| Doble oportunidad: X2 | 46% | 45% | 45% | 2.10 | -5% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -3% |
-| Doble oportunidad: 1X | 72% | 77% | 75% | 1.22 | -9% |
-| Ambos marcan: No | 23% | 35% | 29% | 2.62 | -24% |
-| Ambos marcan: Sí | 77% | 65% | 71% | 1.44 | +2% |
-| Goles más/menos: Más de 2.5 | 81% | 65% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 3.5 | 63% | 44% | 54% | 2.10 | +13% |
-| Goles más/menos: Más de 4.5 | 44% | 27% | 35% | 3.50 | +24% |
-| Goles más/menos: Menos de 2.5 | 19% | 35% | 27% | 2.70 | -27% |
-| Goles más/menos: Menos de 3.5 | 37% | 56% | 46% | 1.67 | -23% |
-| Goles más/menos: Menos de 4.5 | 56% | 73% | 65% | 1.28 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -11% |
-| Goles del local: Más de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
-| Goles del local: Más de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles del local: Menos de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
-| Goles del local: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Doble oportunidad: 1X | 73% | 77% | 75% | 1.22 | -8% |
+| Ambos marcan: No | 22% | 35% | 29% | 2.62 | -24% |
+| Ambos marcan: Sí | 78% | 65% | 71% | 1.44 | +2% |
+| Goles más/menos: Más de 2.5 | 82% | 65% | 73% | 1.44 | +6% |
+| Goles más/menos: Más de 3.5 | 64% | 44% | 54% | 2.10 | +14% |
+| Goles más/menos: Más de 4.5 | 45% | 27% | 36% | 3.50 | +26% |
+| Goles más/menos: Menos de 2.5 | 18% | 35% | 27% | 2.70 | -28% |
+| Goles más/menos: Menos de 3.5 | 36% | 56% | 46% | 1.67 | -24% |
+| Goles más/menos: Menos de 4.5 | 55% | 73% | 64% | 1.28 | -18% |
+| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 21% | 25% | 4.50 | +14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 56% | 49% | 1.67 | -18% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 79% | 75% | 1.18 | -12% |
+| Goles del local: Más de 1.5 | 73% | 61% | 67% | 1.53 | +2% |
+| Goles del local: Más de 2.5 | 48% | 35% | 41% | 2.62 | +9% |
+| Goles del local: Menos de 1.5 | 27% | 39% | 33% | 2.38 | -21% |
+| Goles del local: Menos de 2.5 | 52% | 65% | 59% | 1.44 | -16% |
 | Goles del visitante: Más de 0.5 | 84% | 72% | 78% | 1.30 | +2% |
-| Goles del visitante: Más de 1.5 | 54% | 39% | 47% | 2.38 | +11% |
+| Goles del visitante: Más de 1.5 | 55% | 39% | 47% | 2.38 | +12% |
 | Goles del visitante: Menos de 0.5 | 16% | 28% | 22% | 3.40 | -26% |
-| Goles del visitante: Menos de 1.5 | 46% | 61% | 53% | 1.53 | -19% |
-| Córners más/menos: Más de 10.5 | 43% | 54% | 48% | 1.73 | -16% |
-| Córners más/menos: Menos de 10.5 | 57% | 46% | 52% | 2.00 | +3% |
-| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -2% |
-| 1X2 descanso: X | 31% | 35% | 33% | 2.60 | -13% |
-| 1X2 descanso: 1 | 42% | 42% | 42% | 2.20 | -8% |
+| Goles del visitante: Menos de 1.5 | 45% | 61% | 53% | 1.53 | -19% |
+| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +3% |
+| 1X2 descanso: 2 | 26% | 23% | 24% | 4.00 | -2% |
+| 1X2 descanso: X | 31% | 35% | 33% | 2.60 | -14% |
+| 1X2 descanso: 1 | 43% | 42% | 42% | 2.20 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

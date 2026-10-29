@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
@@ -83,42 +83,42 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Tottenham (total) | Tottenham en casa | Crystal Palace (total) | Crystal Palace fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 12 | 6 |
-| Forma (últimos 5) | VVEDD | VDEDV | DEDDV | EDDEV |
-| Balance | 3V 3E 4D | 2V 1E 2D | 4V 2E 6D | 1V 2E 3D |
-| Goles a favor / partido | 1,40 | 2,00 | 1,67 | 1,17 |
-| Goles en contra / partido | 1,40 | 1,40 | 2,00 | 2,33 |
-| Goles a favor 1ª parte | 0,30 | 0,60 | 0,67 | 0,17 |
-| Goles a favor 2ª parte | 1,10 | 1,40 | 1,00 | 1,00 |
-| Goles en contra 1ª parte | 0,40 | 0,20 | 1,08 | 1,50 |
-| Goles en contra 2ª parte | 1,00 | 1,20 | 0,92 | 0,83 |
-| Más de 1,5 goles | 80% | 80% | 92% | 83% |
-| Más de 2,5 goles | 50% | 60% | 75% | 67% |
-| Más de 3,5 goles | 40% | 60% | 67% | 67% |
-| Ambos marcan | 50% | 60% | 50% | 50% |
-| Portería a cero | 30% | 20% | 25% | 17% |
-| Se queda sin marcar | 40% | 40% | 33% | 50% |
-| xG a favor | 1,20 | 1,35 | 1,32 | 1,29 |
-| xG en contra | 1,18 | 0,90 | 1,86 | 1,72 |
-| Tiros / partido | 15,1 | 17,4 | 11,0 | 9,7 |
-| Tiros a puerta / partido | 4,8 | 6,2 | 4,0 | 3,5 |
-| Tiros recibidos | 12,5 | 11,2 | 15,3 | 14,5 |
-| Tiros a puerta recibidos | 3,9 | 3,2 | 5,1 | 4,7 |
-| Posesión media % | 59 | 62 | 47 | 46 |
-| Córners a favor | 7,2 | 8,0 | 3,5 | 2,5 |
-| Córners en contra | 4,6 | 4,8 | 5,1 | 4,8 |
-| Córners a favor 1ª parte | 3,3 | 4,6 | 1,8 | 1,0 |
-| Córners a favor 2ª parte | 3,9 | 3,4 | 1,8 | 1,5 |
-| Córners totales del partido | 11,8 | 12,8 | 8,6 | 7,3 |
-| Córners totales 1ª parte | 5,7 | 7,4 | 3,8 | 3,5 |
-| Córners totales 2ª parte | 6,1 | 5,4 | 4,8 | 3,8 |
-| Más de 8,5 córners | 80% | 80% | 42% | 17% |
-| Más de 9,5 córners | 80% | 80% | 33% | 17% |
-| Más de 10,5 córners | 60% | 80% | 33% | 17% |
-| Faltas cometidas | 12,7 | 11,6 | 10,6 | 11,5 |
-| Faltas recibidas | 13,6 | 11,0 | 9,5 | 8,2 |
-| Amarillas propias | 1,5 | 0,8 | 1,3 | 1,5 |
-| Amarillas del rival | 2,2 | 2,0 | 1,7 | 1,2 |
+| Partidos analizados | 10 | 5 | 13 | 7 |
+| Forma (últimos 5) | VVEDD | VDEDV | VDEDD | VEDDE |
+| Balance | 3V 3E 4D | 2V 1E 2D | 5V 2E 6D | 2V 2E 3D |
+| Goles a favor / partido | 1,40 | 2,00 | 1,62 | 1,14 |
+| Goles en contra / partido | 1,40 | 1,40 | 1,85 | 2,00 |
+| Goles a favor 1ª parte | 0,30 | 0,60 | 0,69 | 0,29 |
+| Goles a favor 2ª parte | 1,10 | 1,40 | 0,92 | 0,86 |
+| Goles en contra 1ª parte | 0,40 | 0,20 | 1,00 | 1,29 |
+| Goles en contra 2ª parte | 1,00 | 1,20 | 0,85 | 0,71 |
+| Más de 1,5 goles | 80% | 80% | 85% | 71% |
+| Más de 2,5 goles | 50% | 60% | 69% | 57% |
+| Más de 3,5 goles | 40% | 60% | 62% | 57% |
+| Ambos marcan | 50% | 60% | 46% | 43% |
+| Portería a cero | 30% | 20% | 31% | 29% |
+| Se queda sin marcar | 40% | 40% | 31% | 43% |
+| xG a favor | 1,20 | 1,35 | 1,25 | 1,19 |
+| xG en contra | 1,18 | 0,90 | 1,83 | 1,70 |
+| Tiros / partido | 15,1 | 17,4 | 10,5 | 8,9 |
+| Tiros a puerta / partido | 4,8 | 6,2 | 3,9 | 3,4 |
+| Tiros recibidos | 12,5 | 11,2 | 15,2 | 14,4 |
+| Tiros a puerta recibidos | 3,9 | 3,2 | 5,0 | 4,6 |
+| Posesión media % | 59 | 62 | 45 | 43 |
+| Córners a favor | 7,2 | 8,0 | 3,2 | 2,1 |
+| Córners en contra | 4,6 | 4,8 | 5,4 | 5,4 |
+| Córners a favor 1ª parte | 3,3 | 4,6 | 1,6 | 0,9 |
+| Córners a favor 2ª parte | 3,9 | 3,4 | 1,6 | 1,3 |
+| Córners totales del partido | 11,8 | 12,8 | 8,6 | 7,6 |
+| Córners totales 1ª parte | 5,7 | 7,4 | 3,7 | 3,4 |
+| Córners totales 2ª parte | 6,1 | 5,4 | 4,9 | 4,1 |
+| Más de 8,5 córners | 80% | 80% | 46% | 29% |
+| Más de 9,5 córners | 80% | 80% | 31% | 14% |
+| Más de 10,5 córners | 60% | 80% | 31% | 14% |
+| Faltas cometidas | 12,7 | 11,6 | 10,7 | 11,6 |
+| Faltas recibidas | 13,6 | 11,0 | 9,6 | 8,6 |
+| Amarillas propias | 1,5 | 0,8 | 1,4 | 1,6 |
+| Amarillas del rival | 2,2 | 2,0 | 1,6 | 1,1 |
 | Rojas / partido | 0,10 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -126,9 +126,9 @@ _Actualizadas: 28/10 19:56_
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 2 | 2 | 6 | 0 |
 | 16-30' | 0 | 1 | 2 | 1 | 2 | 2 |
-| 31-45' | 2 | 2 | 5 | 5 | 5 | 3 |
-| 46-60' | 1 | 3 | 0 | 7 | 6 | 3 |
-| 61-75' | 2 | 4 | 4 | 2 | 1 | 3 |
+| 31-45' | 2 | 2 | 5 | 6 | 5 | 3 |
+| 46-60' | 1 | 3 | 0 | 7 | 6 | 4 |
+| 61-75' | 2 | 4 | 4 | 2 | 1 | 4 |
 | 76-90' | 8 | 3 | 4 | 3 | 4 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -181,71 +181,71 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Crystal Palace
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Fulham 0-1 Crystal Palace | fuera | 0-9 | 4 (3) - 14 (4) | 2-1 |
 | 2026-10-25 | Premier League | Crystal Palace 0-2 Newcastle | casa | 7-4 | 17 (4) - 10 (2) | 3-3 |
 | 2026-10-22 | Europa League | Beşiktaş 2-2 Crystal Palace | fuera | 3-1 | 8 (3) - 5 (2) | 1-2 |
 | 2026-10-18 | Premier League | Brighton 5-0 Crystal Palace | fuera | 5-8 | 5 (1) - 17 (9) | 1-2 |
 | 2026-10-15 | Europa League | Lyon 3-2 Crystal Palace | fuera | 3-5 | 12 (4) - 11 (4) | 3-1 |
 | 2026-10-11 | Premier League | Crystal Palace 3-1 Nottingham Forest | casa | 5-8 | 13 (7) - 24 (6) | 2-2 |
-| 2026-09-20 | Premier League | Leeds 0-0 Crystal Palace | fuera | 3-4 | 12 (4) - 13 (2) | 3-2 |
 
 ## Jugadores de Crystal Palace
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A. Wharton | M | 12 | 1008 | 0 | 3 | 5 | 0,4 | 2 | 0,2 | 7 | 14 | 1,2 | 1 | 0 |
-| C. Richards | D | 11 | 974 | 1 | 0 | 7 | 0,6 | 4 | 0,4 | 9 | 2 | 0,2 | 2 | 0 |
-| T. Mitchell | M | 11 | 961 | 2 | 0 | 8 | 0,7 | 3 | 0,3 | 7 | 3 | 0,3 | 0 | 0 |
-| D. Kamada | M | 12 | 926 | 3 | 3 | 9 | 0,8 | 5 | 0,4 | 5 | 13 | 1,1 | 2 | 0 |
-| Yeremy Pino | M | 12 | 855 | 4 | 0 | 15 | 1,2 | 7 | 0,6 | 9 | 14 | 1,2 | 5 | 0 |
+| C. Richards | D | 12 | 1064 | 1 | 0 | 7 | 0,6 | 4 | 0,3 | 9 | 2 | 0,2 | 2 | 0 |
+| A. Wharton | M | 13 | 1037 | 0 | 3 | 5 | 0,4 | 2 | 0,2 | 7 | 14 | 1,1 | 1 | 0 |
+| T. Mitchell | D | 12 | 990 | 2 | 0 | 8 | 0,7 | 3 | 0,2 | 7 | 3 | 0,2 | 0 | 0 |
+| D. Kamada | M | 13 | 939 | 3 | 3 | 10 | 0,8 | 5 | 0,4 | 5 | 13 | 1,0 | 2 | 0 |
+| Yeremy Pino | M | 13 | 868 | 4 | 0 | 15 | 1,2 | 7 | 0,5 | 9 | 14 | 1,1 | 5 | 0 |
 | J. Canvot | D | 10 | 826 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 4 | 0,4 | 1 | 0 |
 | A. Khalaili | M | 11 | 817 | 1 | 1 | 9 | 0,8 | 2 | 0,2 | 11 | 3 | 0,3 | 2 | 0 |
 | W. Benítez | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | J. Strand Larsen | F | 11 | 678 | 4 | 1 | 18 | 1,6 | 10 | 0,9 | 9 | 12 | 1,1 | 0 | 0 |
 | Quinten Timber | M | 8 | 596 | 0 | 1 | 7 | 0,9 | 2 | 0,2 | 11 | 13 | 1,6 | 0 | 0 |
 | A. Disasi | D | 8 | 573 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 10 | 2 | 0,2 | 0 | 1 |
-| Honest Ahanor | D | 5 | 341 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 7 | 1,4 | 0 | 0 |
-| D. McNeil | M | 9 | 309 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 5 | 0,6 | 0 | 0 |
-| E. Nketiah | F | 10 | 294 | 1 | 1 | 8 | 0,8 | 3 | 0,3 | 7 | 2 | 0,2 | 0 | 0 |
+| H. Ahanor | D | 6 | 431 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 8 | 1,3 | 0 | 0 |
+| E. Nketiah | F | 11 | 365 | 2 | 1 | 9 | 0,8 | 4 | 0,4 | 10 | 3 | 0,3 | 0 | 0 |
+| D. Henderson | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| D. McNeil | F | 10 | 328 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 4 | 5 | 0,5 | 0 | 0 |
+| Óscar Mingueza | M | 6 | 299 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,5 | 0 | 0 |
 | Takehiro Tomiyasu | D | 5 | 280 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,6 | 0 | 0 |
-| Dean Henderson | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Lerma | D | 6 | 273 | 1 | 0 | 5 | 0,8 | 2 | 0,3 | 7 | 1 | 0,2 | 3 | 0 |
+| W. Hughes | M | 5 | 218 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
 | J. Mateta | F | 4 | 215 | 1 | 0 | 8 | 2,0 | 4 | 1,0 | 4 | 4 | 1,0 | 0 | 0 |
-| Óscar Mingueza | M | 5 | 209 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
-| Jefferson Lerma | M | 5 | 183 | 1 | 0 | 5 | 1,0 | 2 | 0,4 | 6 | 1 | 0,2 | 2 | 0 |
-| Will Hughes | M | 4 | 128 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,31 · córners esperados 10,0._
+_Goles esperados: local 1,37 · visitante 1,28 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 17% | 26% | 5.50 | +42% |
-| 1X2: X | 26% | 20% | 23% | 4.75 | +8% |
-| 1X2: 1 | 40% | 63% | 51% | 1.50 | -23% |
-| Doble oportunidad: X2 ✅ | 60% | 38% | 49% | 2.50 | +22% |
+| 1X2: 2 | 35% | 17% | 26% | 5.50 | +43% |
+| 1X2: X | 26% | 20% | 23% | 4.75 | +9% |
+| 1X2: 1 | 39% | 63% | 51% | 1.50 | -23% |
+| Doble oportunidad: X2 ✅ | 61% | 38% | 49% | 2.50 | +23% |
 | Doble oportunidad: 12 | 74% | 80% | 77% | 1.18 | -9% |
 | Doble oportunidad: 1X | 65% | 83% | 74% | 1.14 | -16% |
-| Ambos marcan: No | 45% | 44% | 44% | 2.10 | -7% |
-| Ambos marcan: Sí | 55% | 56% | 56% | 1.67 | -7% |
-| Goles más/menos: Más de 2.5 | 51% | 60% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 3.5 | 29% | 38% | 34% | 2.50 | -16% |
-| Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles más/menos: Menos de 2.5 | 49% | 40% | 44% | 2.38 | +5% |
-| Goles más/menos: Menos de 3.5 | 71% | 62% | 66% | 1.53 | +2% |
-| Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.22 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
-| Goles del local: Más de 1.5 | 42% | 62% | 52% | 1.50 | -22% |
-| Goles del local: Más de 2.5 | 17% | 35% | 26% | 2.62 | -31% |
-| Goles del local: Menos de 1.5 ✅ | 58% | 38% | 48% | 2.50 | +20% |
-| Goles del local: Menos de 2.5 | 83% | 65% | 74% | 1.44 | +6% |
-| Goles del visitante: Más de 0.5 | 73% | 62% | 68% | 1.50 | +2% |
-| Goles del visitante: Más de 1.5 | 38% | 28% | 33% | 3.40 | +11% |
-| Goles del visitante: Menos de 0.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles del visitante: Menos de 1.5 | 62% | 72% | 67% | 1.30 | -12% |
-| Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
+| Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -8% |
+| Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -14% |
+| Goles más/menos: Más de 3.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles más/menos: Más de 4.5 | 13% | 22% | 18% | 4.33 | -24% |
+| Goles más/menos: Menos de 2.5 | 50% | 40% | 45% | 2.38 | +7% |
+| Goles más/menos: Menos de 3.5 | 72% | 62% | 67% | 1.53 | +3% |
+| Goles más/menos: Menos de 4.5 | 87% | 78% | 82% | 1.22 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -0% |
+| Goles del local: Más de 1.5 | 40% | 62% | 51% | 1.50 | -23% |
+| Goles del local: Más de 2.5 | 16% | 35% | 26% | 2.62 | -33% |
+| Goles del local: Menos de 1.5 ✅ | 60% | 38% | 49% | 2.50 | +22% |
+| Goles del local: Menos de 2.5 | 84% | 65% | 74% | 1.44 | +7% |
+| Goles del visitante: Más de 0.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del visitante: Más de 1.5 | 37% | 28% | 32% | 3.40 | +9% |
+| Goles del visitante: Menos de 0.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles del visitante: Menos de 1.5 | 63% | 72% | 68% | 1.30 | -12% |
+| Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -1% |
-| 1X2 descanso: 1 | 30% | 46% | 38% | 2.00 | -23% |
+| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
+| 1X2 descanso: 1 | 30% | 46% | 38% | 2.00 | -24% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

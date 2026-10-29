@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 100 · aciertos: 62 (62%) · beneficio a 1 € por pick: -13.65 €
+Picks ya jugados: 135 · aciertos: 82 (61%) · beneficio a 1 € por pick: -21.03 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 17 | 22 | 77% | +1.47 € |
-| jugador | 9 | 13 | 69% | -0.43 € |
-| goles | 32 | 54 | 59% | -10.39 € |
+| resultado | 19 | 27 | 70% | -0.89 € |
+| jugador | 19 | 28 | 68% | -1.65 € |
+| goles | 40 | 68 | 59% | -13.19 € |
 | tiros | 2 | 4 | 50% | -0.47 € |
-| tarjetas | 2 | 4 | 50% | -0.83 € |
+| tarjetas | 2 | 5 | 40% | -1.83 € |
 | corners | 0 | 1 | 0% | -1.00 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
@@ -19,17 +19,54 @@ Picks ya jugados: 100 · aciertos: 62 (62%) · beneficio a 1 € por pick: -13.6
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| Double Chance · Draw/Away | 4 | 4 | 100% |
-| Goals Over/Under · Over 1.5 | 7 | 9 | 78% |
-| Double Chance · Home/Away | 10 | 14 | 71% |
-| Total - Home · Over 0.5 | 2 | 3 | 67% |
-| Goals Over/Under First Half · Over 0.5 | 7 | 11 | 64% |
-| Total - Away · Over 0.5 | 6 | 11 | 55% |
-| Both Teams Score · Yes | 3 | 6 | 50% |
-| Goals Over/Under · Over 2.5 | 3 | 7 | 43% |
-| Goals Over/Under - Second Half · Over 0.5 | 1 | 3 | 33% |
+| Double Chance · Draw/Away | 4 | 5 | 80% |
+| Total - Home · Over 0.5 | 3 | 4 | 75% |
+| Goals Over/Under · Over 1.5 | 8 | 11 | 73% |
+| Double Chance · Home/Away | 11 | 16 | 69% |
+| Goals Over/Under First Half · Over 0.5 | 9 | 14 | 64% |
+| Both Teams Score · Yes | 4 | 7 | 57% |
+| Total - Away · Over 0.5 | 7 | 13 | 54% |
+| Goals Over/Under · Over 2.5 | 4 | 8 | 50% |
+| Goals Over/Under - Second Half · Over 0.5 | 1 | 5 | 20% |
 
 ## Últimos días
+
+### 2026-10-28 · 20/35
+- ❌ Gol en la 2ª parte del Parma–Udinese · 1.28 (0-0)
+- ❌ Más de 1,5 goles en Parma–Udinese · 1.33 (0-0)
+- ❌ No hay empate en Parma–Udinese · 1.36 (0-0)
+- ❌ Udinese marca · 1.33 (0-0)
+- ✅ Gana el Inter · 1.36 (0-2)
+- ✅ Akor Adams: 1+ tiros a puerta · 1.67 (0-2)
+- ✅ Antoine Hainaut: 1+ tiros · 1.36 (0-2)
+- ✅ Akor Adams: 2+ tiros · 1.33 (0-2)
+- ✅ Lewis Ferguson comete 1+ faltas · 1.25 (2-4)
+- ✅ Nicolo Barella: 1+ tiros · 1.30 (0-2)
+- ❌ Matias Moreno comete 1+ faltas · 1.30 (0-2)
+- ❌ Gol en la 1ª parte del Parma–Udinese · 1.44 (0-0)
+- ✅ Ambos marcan en Sparta Rotterdam–Fortuna Sittard · 1.50 (2-2)
+- ✅ Fortuna Sittard marca · 1.33 (2-2)
+- ✅ Gol en la 1ª parte del Sparta Rotterdam–Fortuna Sittard · 1.28 (2-2)
+- ✅ Más de 1,5 goles en Genoa–Juventus · 1.44 (2-0)
+- ✅ No hay empate en Monza–Napoli · 1.28 (1-4)
+- ❌ Gol en la 2ª parte del Genoa–Juventus · 1.33 (2-0)
+- ❌ Juventus gana alguna de las dos partes · 1.40 (2-0)
+- ✅ Monza marca · 1.40 (1-4)
+- ✅ Samuele Birindelli: 1+ tiros · 1.40 (1-4)
+- ✅ Gustavo Varela: 1+ tiros a puerta · 1.57 (1-4)
+- ✅ Gustavo Varela: 2+ tiros · 1.40 (1-4)
+- ❌ Milutin Osmajic: 1+ tiros a puerta · 1.83 (2-0)
+- ❌ Brentford o empate · 1.28 (3-2)
+- ✅ Gol en la 1ª parte del Bournemouth–Aston Villa · 1.30 (3-0)
+- ❌ Genoa ve más de 1,5 tarjetas · 1.73 (2-0)
+- ❌ Chris Richards comete 1+ faltas · 1.67 (0-1)
+- ✅ Más de 2,5 goles en Bournemouth–Aston Villa · 1.70 (3-0)
+- ❌ 1899 Hoffenheim marca 2 o más · 1.33 (1-1)
+- ❌ Mikael Egill Ellertsson comete 1+ faltas · 1.28 (2-0)
+- ❌ Kevin De Bruyne comete 1+ faltas · 1.57 (1-4)
+- ✅ Bayern München marca 3 o más · 1.25 (6-1)
+- ✅ Ryan Gravenberch comete 1+ faltas · 1.25 (1-1)
+- ✅ Pedro Neto comete 1+ faltas · 1.25 (1-1)
 
 ### 2026-10-27 · 9/10
 - ✅ FC Augsburg marca 2 o más · 1.28 (2-4)

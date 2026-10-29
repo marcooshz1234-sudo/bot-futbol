@@ -1,5 +1,56 @@
 # Lecciones del bot
 
+## 2026-10-28
+
+```
+🧠 LECCIONES DEL 28/10
+Picks del bot: 20 ✅ · 15 ❌ · 4 sin resultado
+
+❌ Lo que falló en lo publicado:
+• 1. FC Magdeburg hace más de 1,5 córners → 0 de 2 córners
+• AC Milan hace más tiros a puerta → Tiros a puerta: 3 – 5
+• AC Milan saca más córners → Córners: 2 – 3
+• Alexander Isak: 2+ tiros → 0 de 2 tiros
+• Aston Villa o empate → Marcador: 3–0
+• Bayer Leverkusen gana al descanso → Marcador: 5–2
+• Bayern München hace más de 7,5 córners → 6 de 8 córners
+• Brentford o empate → Marcador: 3–2
+• Fulham marca 2 o más → 0 de 2 goles
+• Gana el AC Milan → Marcador: 2–4
+• Gana el Liverpool → Marcador: 1–1
+• Genoa ve más de 1,5 tarjetas → 0 de 2 tarjetas
+• Gol en la 2ª parte del Genoa–Juventus → Marcador: 2–0
+• Joshua King: 1+ tiros a puerta → 0 de 1 tiros a puerta
+• Juventus gana alguna de las dos partes → Marcador: 2–0
+
+❌ Fallos de los picks del bot y por qué:
+• Gol en la 2ª parte del Parma–Udinese — partido cerrado (0-0): faltó 1 gol en la 2ª parte
+• Gol en la 2ª parte del Genoa–Juventus — partido cerrado (2-0): faltó 1 gol en la 2ª parte
+• Más de 1,5 goles en Parma–Udinese — partido cerrado (0-0): faltó 2 goles
+• No hay empate en Parma–Udinese — resultado 0-0
+• Udinese marca — Udinese no marcó lo esperado (0-0)
+• Juventus gana alguna de las dos partes — no llegó a la línea (2-0)
+• Milutin Osmajic: 1+ tiros a puerta — jugó 82′ e hizo 0 (necesitaba 1)
+• Brentford o empate — resultado 3-2
+• Matias Moreno comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Gol en la 1ª parte del Parma–Udinese — partido cerrado (0-0): faltó 1 gol en la 1ª parte
+• Genoa ve más de 1,5 tarjetas — no llegó a la línea (2-0)
+• Chris Richards comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• 1899 Hoffenheim marca 2 o más — 1899 Hoffenheim no marcó lo esperado (1-1)
+• Mikael Egill Ellertsson comete 1+ faltas — jugó 41′ e hizo 0 (necesitaba 1)
+• Kevin De Bruyne comete 1+ faltas — jugó 27′ e hizo 0 (necesitaba 1)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Parma–Udinese, Genoa–Juventus
+
+📐 Modelo: 82/135 aciertos reales (61%) frente al 72% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.45)
+Ajustes nuevos:
+⬇️ castigo tipo jugador:faltas_c: 4/9 (-4 pts)
+⬇️ castigo mercado Goals Over/Under - Second Half|Over 0.5: 1/5 (-4 pts)
+⬇️ castigo liga Carabao Cup: 4/6 (-3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-27
 
 ```

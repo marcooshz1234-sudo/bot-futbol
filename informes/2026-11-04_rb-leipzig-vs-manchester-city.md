@@ -1,7 +1,7 @@
 # RB Leipzig – Manchester City
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -52,52 +52,52 @@ _Actualizadas: 28/10 07:59_
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | Manchester City (total) | Manchester City fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 12 | 5 |
-| Forma (últimos 5) | VVDDV | VVVVV | DVVDV | DVVVV |
-| Balance | 7V 0E 5D | 5V 0E 0D | 10V 0E 2D | 4V 0E 1D |
-| Goles a favor / partido | 2,58 | 3,80 | 2,83 | 2,20 |
-| Goles en contra / partido | 1,67 | 0,00 | 1,17 | 0,60 |
+| Partidos analizados | 12 | 5 | 13 | 5 |
+| Forma (últimos 5) | VVDDV | VVVVV | EDVVD | DVVVV |
+| Balance | 7V 0E 5D | 5V 0E 0D | 10V 1E 2D | 4V 0E 1D |
+| Goles a favor / partido | 2,58 | 3,80 | 2,77 | 2,20 |
+| Goles en contra / partido | 1,67 | 0,00 | 1,23 | 0,60 |
 | Goles a favor 1ª parte | 0,83 | 1,40 | 0,92 | 0,20 |
-| Goles a favor 2ª parte | 1,75 | 2,40 | 1,92 | 2,00 |
-| Goles en contra 1ª parte | 0,75 | 0,00 | 0,67 | 0,20 |
-| Goles en contra 2ª parte | 0,92 | 0,00 | 0,50 | 0,40 |
-| Más de 1,5 goles | 92% | 80% | 83% | 80% |
-| Más de 2,5 goles | 83% | 80% | 75% | 60% |
-| Más de 3,5 goles | 67% | 60% | 50% | 20% |
-| Ambos marcan | 42% | 0% | 58% | 40% |
-| Portería a cero | 50% | 100% | 42% | 60% |
+| Goles a favor 2ª parte | 1,75 | 2,40 | 1,85 | 2,00 |
+| Goles en contra 1ª parte | 0,75 | 0,00 | 0,69 | 0,20 |
+| Goles en contra 2ª parte | 0,92 | 0,00 | 0,54 | 0,40 |
+| Más de 1,5 goles | 92% | 80% | 85% | 80% |
+| Más de 2,5 goles | 83% | 80% | 77% | 60% |
+| Más de 3,5 goles | 67% | 60% | 54% | 20% |
+| Ambos marcan | 42% | 0% | 62% | 40% |
+| Portería a cero | 50% | 100% | 38% | 60% |
 | Se queda sin marcar | 8% | 0% | 0% | 0% |
-| xG a favor | 2,18 | 3,09 | 2,27 | 1,74 |
-| xG en contra | 1,80 | 1,15 | 1,26 | 0,70 |
-| Tiros / partido | 16,9 | 19,2 | 16,2 | 14,8 |
-| Tiros a puerta / partido | 6,2 | 8,0 | 6,3 | 6,4 |
-| Tiros recibidos | 13,8 | 11,8 | 10,2 | 10,2 |
-| Tiros a puerta recibidos | 6,1 | 4,6 | 3,7 | 2,4 |
+| xG a favor | 2,18 | 3,09 | 2,14 | 1,74 |
+| xG en contra | 1,80 | 1,15 | 1,32 | 0,70 |
+| Tiros / partido | 16,9 | 19,2 | 16,0 | 14,8 |
+| Tiros a puerta / partido | 6,2 | 8,0 | 6,1 | 6,4 |
+| Tiros recibidos | 13,8 | 11,8 | 10,8 | 10,2 |
+| Tiros a puerta recibidos | 6,1 | 4,6 | 3,8 | 2,4 |
 | Posesión media % | 53 | 51 | 63 | 62 |
-| Córners a favor | 5,6 | 5,4 | 6,0 | 6,2 |
-| Córners en contra | 6,2 | 7,4 | 3,6 | 3,8 |
-| Córners a favor 1ª parte | 2,4 | 2,0 | 3,1 | 2,8 |
-| Córners a favor 2ª parte | 3,2 | 3,4 | 2,9 | 3,4 |
+| Córners a favor | 5,6 | 5,4 | 5,8 | 6,2 |
+| Córners en contra | 6,2 | 7,4 | 3,8 | 3,8 |
+| Córners a favor 1ª parte | 2,4 | 2,0 | 3,0 | 2,8 |
+| Córners a favor 2ª parte | 3,2 | 3,4 | 2,8 | 3,4 |
 | Córners totales del partido | 11,8 | 12,8 | 9,6 | 10,0 |
-| Córners totales 1ª parte | 5,2 | 6,2 | 4,6 | 4,8 |
-| Córners totales 2ª parte | 6,6 | 6,6 | 5,0 | 5,2 |
-| Más de 8,5 córners | 83% | 100% | 67% | 60% |
-| Más de 9,5 córners | 67% | 80% | 58% | 60% |
-| Más de 10,5 córners | 58% | 60% | 58% | 60% |
-| Faltas cometidas | 10,2 | 12,0 | 11,1 | 13,8 |
-| Faltas recibidas | 12,8 | 13,8 | 13,3 | 15,0 |
+| Córners totales 1ª parte | 5,2 | 6,2 | 4,5 | 4,8 |
+| Córners totales 2ª parte | 6,6 | 6,6 | 5,2 | 5,2 |
+| Más de 8,5 córners | 83% | 100% | 69% | 60% |
+| Más de 9,5 córners | 67% | 80% | 62% | 60% |
+| Más de 10,5 córners | 58% | 60% | 54% | 60% |
+| Faltas cometidas | 10,2 | 12,0 | 10,5 | 13,8 |
+| Faltas recibidas | 12,8 | 13,8 | 13,8 | 15,0 |
 | Amarillas propias | 1,3 | 1,0 | 1,5 | 2,6 |
-| Amarillas del rival | 1,5 | 1,6 | 1,7 | 2,2 |
+| Amarillas del rival | 1,5 | 1,6 | 1,8 | 2,2 |
 | Rojas / partido | 0,08 | 0,00 | 0,08 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig | Goles Manchester City | Recibe Manchester City | Tarjetas Manchester City |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 4 | 2 | 2 | 4 | 0 |
-| 16-30' | 3 | 1 | 2 | 5 | 2 | 1 |
-| 31-45' | 3 | 4 | 2 | 4 | 2 | 4 |
-| 46-60' | 4 | 5 | 3 | 10 | 4 | 4 |
-| 61-75' | 5 | 2 | 5 | 5 | 1 | 2 |
+| 16-30' | 3 | 1 | 2 | 5 | 3 | 1 |
+| 31-45' | 3 | 4 | 2 | 5 | 2 | 5 |
+| 46-60' | 4 | 5 | 3 | 10 | 5 | 4 |
+| 61-75' | 5 | 2 | 5 | 6 | 1 | 2 |
 | 76-90' | 12 | 4 | 5 | 8 | 1 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -150,73 +150,73 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Manchester City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | casa | 3-7 | 13 (3) - 17 (6) | 1-3 |
 | 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | fuera | 7-4 | 15 (7) - 8 (2) | 4-4 |
 | 2026-10-20 | Champions League | Manchester City 5-1 AEK Athens FC | casa | 8-3 | 17 (7) - 11 (3) | 1-0 |
 | 2026-10-17 | Premier League | Manchester City 3-2 Ipswich | casa | 2-3 | 19 (6) - 8 (3) | 1-2 |
 | 2026-10-14 | Champions League | Manchester City 2-4 Paris Saint Germain | casa | 11-2 | 27 (9) - 15 (10) | 1-1 |
 | 2026-10-11 | Premier League | Liverpool 0-3 Manchester City | fuera | 6-5 | 15 (4) - 13 (6) | 2-4 |
-| 2026-09-20 | Premier League | Manchester City 5-3 Sunderland | casa | 6-5 | 16 (6) - 17 (9) | 0-1 |
 
 ## Jugadores de Manchester City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | G. Donnarumma | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
+| M. Guéhi | D | 11 | 945 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 10 | 11 | 1,0 | 1 | 0 |
 | Rúben Dias | D | 11 | 938 | 0 | 0 | 6 | 0,5 | 3 | 0,3 | 17 | 1 | 0,1 | 0 | 0 |
 | E. Haaland | F | 10 | 890 | 13 | 0 | 39 | 3,9 | 22 | 2,2 | 10 | 8 | 0,8 | 1 | 0 |
-| M. Guéhi | D | 10 | 855 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 10 | 10 | 1,0 | 1 | 0 |
 | E. Anderson | M | 11 | 816 | 1 | 1 | 12 | 1,1 | 3 | 0,3 | 11 | 30 | 2,7 | 2 | 0 |
 | J. Gvardiol | D | 11 | 788 | 1 | 3 | 8 | 0,7 | 5 | 0,5 | 11 | 14 | 1,3 | 4 | 0 |
-| E. Fernández | M | 9 | 709 | 1 | 1 | 13 | 1,4 | 5 | 0,6 | 10 | 16 | 1,8 | 1 | 0 |
+| R. Cherki | M | 12 | 772 | 6 | 3 | 22 | 1,8 | 11 | 0,9 | 7 | 9 | 0,8 | 2 | 0 |
+| E. Fernández | M | 10 | 712 | 1 | 1 | 13 | 1,3 | 5 | 0,5 | 10 | 17 | 1,7 | 1 | 0 |
 | Antoine Semenyo | F | 9 | 705 | 2 | 3 | 13 | 1,4 | 6 | 0,7 | 15 | 7 | 0,8 | 1 | 0 |
-| A. Khusanov | D | 9 | 685 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 5 | 0,6 | 1 | 0 |
-| R. Cherki | M | 11 | 682 | 6 | 2 | 16 | 1,5 | 10 | 0,9 | 7 | 8 | 0,7 | 2 | 0 |
+| A. Khusanov | D | 10 | 699 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 6 | 0,6 | 1 | 0 |
+| P. Foden | M | 9 | 596 | 4 | 4 | 12 | 1,3 | 6 | 0,7 | 5 | 11 | 1,2 | 1 | 1 |
 | Matheus Nunes | D | 7 | 514 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
-| P. Foden | M | 8 | 506 | 4 | 3 | 11 | 1,4 | 6 | 0,8 | 5 | 7 | 0,9 | 1 | 1 |
 | I. Ndiaye | M | 8 | 495 | 0 | 3 | 12 | 1,5 | 4 | 0,5 | 5 | 15 | 1,9 | 0 | 0 |
-| Nico O'Reilly | D | 8 | 389 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
-| Ayyoub Bouaddi | M | 7 | 332 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 3 | 6 | 0,9 | 1 | 0 |
-| R. Lewis | D | 4 | 282 | 0 | 2 | 2 | 0,5 | 1 | 0,2 | 4 | 6 | 1,5 | 0 | 0 |
-| J. Doku | M | 5 | 261 | 1 | 1 | 5 | 1,0 | 2 | 0,4 | 2 | 11 | 2,2 | 0 | 0 |
-| Mateo Kovačić | M | 5 | 197 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| Allan | M | 3 | 171 | 1 | 1 | 3 | 1,0 | 2 | 0,7 | 2 | 3 | 1,0 | 0 | 0 |
-| F. Samba | F | 2 | 152 | 2 | 0 | 4 | 2,0 | 2 | 1,0 | 0 | 1 | 0,5 | 0 | 0 |
+| N. O&apos;Reilly | D | 9 | 476 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
+| A. Bouaddi | M | 8 | 377 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 4 | 7 | 0,9 | 2 | 0 |
+| R. Lewis | D | 5 | 358 | 0 | 2 | 3 | 0,6 | 1 | 0,2 | 4 | 8 | 1,6 | 0 | 0 |
+| J. Doku | F | 6 | 290 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 2 | 13 | 2,2 | 0 | 0 |
+| M. Kovačić | M | 6 | 287 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 0 | 3 | 0,5 | 0 | 0 |
+| Allan | M | 4 | 232 | 1 | 1 | 4 | 1,0 | 2 | 0,5 | 3 | 6 | 1,5 | 0 | 0 |
+| Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,69 · visitante 2,12 · córners esperados 10,4._
+_Goles esperados: local 1,72 · visitante 2,10 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 62% | 55% | 1.53 | -16% |
+| 1X2: 2 | 47% | 62% | 54% | 1.53 | -17% |
 | 1X2: X | 21% | 21% | 21% | 4.50 | -6% |
-| 1X2: 1 | 31% | 17% | 24% | 5.50 | +33% |
-| Doble oportunidad: X2 | 69% | 82% | 75% | 1.14 | -14% |
+| 1X2: 1 | 32% | 17% | 25% | 5.50 | +36% |
+| Doble oportunidad: X2 | 68% | 82% | 75% | 1.14 | -15% |
 | Doble oportunidad: 12 | 79% | 79% | 79% | 1.18 | -7% |
-| Doble oportunidad: 1X ✅ | 52% | 39% | 46% | 2.38 | +8% |
-| Ambos marcan: No | 28% | 35% | 32% | 2.62 | -16% |
+| Doble oportunidad: 1X ✅ | 53% | 39% | 46% | 2.38 | +10% |
+| Ambos marcan: No | 28% | 35% | 32% | 2.62 | -17% |
 | Ambos marcan: Sí | 72% | 65% | 68% | 1.44 | -2% |
-| Goles más/menos: Más de 2.5 | 73% | 70% | 72% | 1.36 | -3% |
-| Goles más/menos: Más de 3.5 | 53% | 50% | 51% | 1.91 | -2% |
-| Goles más/menos: Más de 4.5 | 33% | 32% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 2.5 | 27% | 30% | 28% | 3.20 | -9% |
-| Goles más/menos: Menos de 3.5 | 47% | 50% | 49% | 1.91 | -7% |
-| Goles más/menos: Menos de 4.5 | 67% | 68% | 67% | 1.40 | -6% |
+| Goles más/menos: Más de 2.5 | 73% | 70% | 72% | 1.36 | -2% |
+| Goles más/menos: Más de 3.5 | 53% | 50% | 52% | 1.91 | -2% |
+| Goles más/menos: Más de 4.5 | 34% | 32% | 33% | 3.00 | -2% |
+| Goles más/menos: Menos de 2.5 | 27% | 30% | 28% | 3.20 | -10% |
+| Goles más/menos: Menos de 3.5 | 47% | 50% | 48% | 1.91 | -7% |
+| Goles más/menos: Menos de 4.5 | 66% | 68% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
 | Goles 1ª parte más/menos: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 50% | 50% | 1.83 | -8% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del local: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
-| Goles del local: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +10% |
-| Goles del local: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
-| Goles del local: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles del visitante: Más de 1.5 | 63% | 69% | 66% | 1.36 | -11% |
-| Goles del visitante: Más de 2.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Goles del visitante: Más de 3.5 | 16% | 23% | 20% | 4.00 | -20% |
-| Goles del visitante: Menos de 1.5 | 37% | 31% | 34% | 3.00 | +3% |
-| Goles del visitante: Menos de 2.5 | 64% | 56% | 60% | 1.67 | +0% |
+| Goles del local: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
+| Goles del local: Más de 1.5 ✅ | 51% | 38% | 44% | 2.50 | +11% |
+| Goles del local: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
+| Goles del local: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -17% |
+| Goles del visitante: Más de 1.5 | 62% | 69% | 65% | 1.36 | -11% |
+| Goles del visitante: Más de 2.5 | 35% | 44% | 40% | 2.10 | -17% |
+| Goles del visitante: Más de 3.5 | 16% | 23% | 20% | 4.00 | -21% |
+| Goles del visitante: Menos de 1.5 | 38% | 31% | 35% | 3.00 | +4% |
+| Goles del visitante: Menos de 2.5 | 65% | 56% | 60% | 1.67 | +1% |
 | Goles del visitante: Menos de 3.5 | 84% | 77% | 80% | 1.22 | -2% |
-| 1X2 descanso: 2 | 38% | 47% | 43% | 1.95 | -17% |
+| 1X2 descanso: 2 | 37% | 47% | 42% | 1.95 | -17% |
 | 1X2 descanso: X | 34% | 33% | 34% | 2.75 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

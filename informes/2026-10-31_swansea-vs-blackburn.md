@@ -1,10 +1,10 @@
 # Swansea – Blackburn
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.70**  ·  X **3.40**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.00**
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 49% | 53% | 51% | 1.70 | -13% |
 | Doble oportunidad: X2 | 51% | 47% | 49% | 2.00 | -2% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 75% | 80% | 77% | 1.17 | -9% |
+| Doble oportunidad: 1X | 75% | 80% | 77% | 1.17 | -10% |
 | Ambos marcan: No | 50% | 49% | 49% | 1.91 | -6% |
 | Ambos marcan: Sí | 50% | 51% | 51% | 1.80 | -8% |
 | Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.28 | -6% |
@@ -210,17 +210,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
 | Goles más/menos: Menos de 3.5 | 74% | 70% | 72% | 1.36 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 1.5 | 46% | 51% | 48% | 1.80 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles del local: Más de 1.5 | 46% | 51% | 49% | 1.80 | -13% |
 | Goles del local: Más de 2.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 1.5 | 54% | 49% | 52% | 1.91 | -2% |
+| Goles del local: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
 | Goles del local: Menos de 2.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles del visitante: Más de 0.5 | 64% | 61% | 63% | 1.53 | -4% |
-| Goles del visitante: Más de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles del visitante: Más de 1.5 | 28% | 27% | 27% | 3.50 | -5% |
 | Goles del visitante: Menos de 0.5 | 36% | 39% | 37% | 2.38 | -11% |
-| Goles del visitante: Menos de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles del visitante: Menos de 1.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Córners más/menos: Más de 10.5 | 41% | 50% | 46% | 1.83 | -16% |
 | Córners más/menos: Menos de 10.5 | 59% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |

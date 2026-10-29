@@ -1,10 +1,33 @@
 # Conquense – Castellón
 **Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 29/10 02:01_
+
+- **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.53**
+- **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.38**
+- **Win Both Halves:** 1 **23.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.25**  ·  Home/No **10.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Conquense (total) | Conquense en casa | Castellón (total) | Castellón fuera |

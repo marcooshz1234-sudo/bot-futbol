@@ -1,7 +1,7 @@
 # Atalanta – Parma
 **Serie A** · Regular Season - 10 · 02/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:02_
@@ -59,40 +59,40 @@ _Actualizadas: 28/10 14:02_
 ## Estadísticas de equipo
 | | Atalanta (total) | Atalanta en casa | Parma (total) | Parma fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 7 | 10 | 4 |
-| Forma (últimos 5) | EDDVV | EVVDV | DDDVD | DDDD |
-| Balance | 5V 2E 5D | 4V 2E 1D | 2V 1E 7D | 0V 0E 4D |
-| Goles a favor / partido | 1,50 | 2,00 | 0,70 | 0,50 |
-| Goles en contra / partido | 1,50 | 1,29 | 1,70 | 2,25 |
-| Goles a favor 1ª parte | 0,92 | 1,57 | 0,30 | 0,00 |
-| Goles a favor 2ª parte | 0,58 | 0,43 | 0,40 | 0,50 |
-| Goles en contra 1ª parte | 0,58 | 0,57 | 0,90 | 1,00 |
-| Goles en contra 2ª parte | 0,92 | 0,71 | 0,80 | 1,25 |
-| Más de 1,5 goles | 75% | 71% | 90% | 100% |
-| Más de 2,5 goles | 58% | 71% | 50% | 75% |
+| Partidos analizados | 12 | 7 | 11 | 4 |
+| Forma (últimos 5) | EDDVV | EVVDV | EDDDV | DDDD |
+| Balance | 5V 2E 5D | 4V 2E 1D | 2V 2E 7D | 0V 0E 4D |
+| Goles a favor / partido | 1,50 | 2,00 | 0,64 | 0,50 |
+| Goles en contra / partido | 1,50 | 1,29 | 1,55 | 2,25 |
+| Goles a favor 1ª parte | 0,92 | 1,57 | 0,27 | 0,00 |
+| Goles a favor 2ª parte | 0,58 | 0,43 | 0,36 | 0,50 |
+| Goles en contra 1ª parte | 0,58 | 0,57 | 0,82 | 1,00 |
+| Goles en contra 2ª parte | 0,92 | 0,71 | 0,73 | 1,25 |
+| Más de 1,5 goles | 75% | 71% | 82% | 100% |
+| Más de 2,5 goles | 58% | 71% | 45% | 75% |
 | Más de 3,5 goles | 33% | 43% | 0% | 0% |
-| Ambos marcan | 58% | 71% | 40% | 50% |
-| Portería a cero | 25% | 29% | 10% | 0% |
-| Se queda sin marcar | 25% | 14% | 50% | 50% |
-| xG a favor | 1,63 | 2,05 | 0,79 | 0,68 |
-| xG en contra | 1,89 | 1,71 | 1,72 | 2,20 |
-| Tiros / partido | 14,5 | 16,4 | 10,6 | 8,8 |
-| Tiros a puerta / partido | 4,8 | 6,4 | 3,8 | 3,2 |
-| Tiros recibidos | 16,4 | 14,4 | 16,0 | 22,5 |
+| Ambos marcan | 58% | 71% | 36% | 50% |
+| Portería a cero | 25% | 29% | 18% | 0% |
+| Se queda sin marcar | 25% | 14% | 55% | 50% |
+| xG a favor | 1,63 | 2,05 | 0,84 | 0,68 |
+| xG en contra | 1,89 | 1,71 | 1,69 | 2,20 |
+| Tiros / partido | 14,5 | 16,4 | 10,4 | 8,8 |
+| Tiros a puerta / partido | 4,8 | 6,4 | 3,6 | 3,2 |
+| Tiros recibidos | 16,4 | 14,4 | 16,4 | 22,5 |
 | Tiros a puerta recibidos | 5,8 | 5,6 | 5,0 | 6,0 |
 | Posesión media % | 48 | 53 | 43 | 38 |
-| Córners a favor | 4,7 | 4,7 | 4,0 | 2,5 |
+| Córners a favor | 4,7 | 4,7 | 3,9 | 2,5 |
 | Córners en contra | 5,2 | 3,9 | 5,9 | 8,0 |
 | Córners a favor 1ª parte | 2,2 | 2,4 | 2,0 | 2,0 |
-| Córners a favor 2ª parte | 2,5 | 2,3 | 2,0 | 0,5 |
-| Córners totales del partido | 9,8 | 8,6 | 9,9 | 10,5 |
-| Córners totales 1ª parte | 4,8 | 4,4 | 5,5 | 6,2 |
-| Córners totales 2ª parte | 5,0 | 4,1 | 4,4 | 4,2 |
-| Más de 8,5 córners | 50% | 29% | 50% | 75% |
-| Más de 9,5 córners | 42% | 29% | 40% | 75% |
-| Más de 10,5 córners | 42% | 29% | 40% | 75% |
-| Faltas cometidas | 10,2 | 10,3 | 11,1 | 9,2 |
-| Faltas recibidas | 9,8 | 10,9 | 13,0 | 12,2 |
+| Córners a favor 2ª parte | 2,5 | 2,3 | 1,9 | 0,5 |
+| Córners totales del partido | 9,8 | 8,6 | 9,8 | 10,5 |
+| Córners totales 1ª parte | 4,8 | 4,4 | 5,4 | 6,2 |
+| Córners totales 2ª parte | 5,0 | 4,1 | 4,5 | 4,2 |
+| Más de 8,5 córners | 50% | 29% | 55% | 75% |
+| Más de 9,5 córners | 42% | 29% | 36% | 75% |
+| Más de 10,5 córners | 42% | 29% | 36% | 75% |
+| Faltas cometidas | 10,2 | 10,3 | 11,2 | 9,2 |
+| Faltas recibidas | 9,8 | 10,9 | 13,1 | 12,2 |
 | Amarillas propias | 0,9 | 0,6 | 1,4 | 1,0 |
 | Amarillas del rival | 1,4 | 1,1 | 1,6 | 1,0 |
 | Rojas / partido | 0,17 | 0,14 | 0,00 | 0,00 |
@@ -101,11 +101,11 @@ _Actualizadas: 28/10 14:02_
 | Tramo | Goles Atalanta | Recibe Atalanta | Tarjetas Atalanta | Goles Parma | Recibe Parma | Tarjetas Parma |
 |---|---|---|---|---|---|---|
 | 1-15' | 5 | 1 | 0 | 0 | 3 | 1 |
-| 16-30' | 2 | 4 | 1 | 1 | 3 | 1 |
+| 16-30' | 2 | 4 | 1 | 1 | 3 | 2 |
 | 31-45' | 4 | 2 | 1 | 2 | 3 | 1 |
 | 46-60' | 2 | 3 | 1 | 1 | 2 | 3 |
 | 61-75' | 3 | 1 | 4 | 0 | 3 | 1 |
-| 76-90' | 2 | 7 | 5 | 3 | 3 | 7 |
+| 76-90' | 2 | 7 | 5 | 3 | 3 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,71 +157,71 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Parma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Serie A | Parma 0-0 Udinese | casa | 3-6 | 8 (2) - 20 (5) | 1-2 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | fuera | 3-8 | 10 (4) - 21 (5) | 1-1 |
 | 2026-10-19 | Serie A | Parma 0-3 Torino | casa | 6-2 | 25 (8) - 9 (3) | 3-2 |
 | 2026-10-10 | Serie A | Inter 3-0 Parma | fuera | 1-3 | 9 (2) - 19 (6) | –-– |
 | 2026-09-20 | Serie A | Parma 2-1 Genoa | casa | 2-5 | 5 (2) - 12 (5) | 3-3 |
 | 2026-09-14 | Serie A | Como 2-1 Parma | fuera | 4-11 | 12 (4) - 29 (7) | 0-1 |
-| 2026-09-06 | Serie A | Parma 1-1 Monza | casa | 6-3 | 7 (3) - 16 (5) | 2-2 |
 
 ## Jugadores de Parma
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Valeri | D | 10 | 822 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 5 | 0,5 | 0 | 0 |
-| E. Del Prato | D | 9 | 810 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 4 | 4 | 0,4 | 2 | 0 |
+| E. Del Prato | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 4 | 5 | 0,5 | 2 | 0 |
+| M. Troilo | D | 10 | 895 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 7 | 8 | 0,8 | 3 | 0 |
+| M. Keita | M | 11 | 864 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 6 | 27 | 2,5 | 1 | 0 |
+| E. Valeri | D | 11 | 852 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 5 | 0,5 | 0 | 0 |
 | E. Corvi | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Troilo | D | 9 | 805 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 6 | 7 | 0,8 | 3 | 0 |
-| M. Keita | M | 10 | 774 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 26 | 2,6 | 1 | 0 |
-| E. Touré | F | 10 | 728 | 0 | 2 | 13 | 1,3 | 6 | 0,6 | 10 | 9 | 0,9 | 0 | 0 |
-| S. Britschgi | M | 8 | 505 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 3 | 0,4 | 1 | 0 |
-| S. Lontani | F | 9 | 496 | 4 | 0 | 16 | 1,8 | 6 | 0,7 | 6 | 9 | 1,0 | 0 | 0 |
+| E. Touré | M | 11 | 802 | 0 | 2 | 13 | 1,2 | 6 | 0,5 | 11 | 10 | 0,9 | 0 | 0 |
+| S. Britschgi | M | 9 | 591 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 4 | 0,4 | 1 | 0 |
+| S. Lontani | F | 10 | 512 | 4 | 0 | 16 | 1,6 | 6 | 0,6 | 7 | 9 | 0,9 | 1 | 0 |
+| D. Drobnic | D | 6 | 495 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
+| D. Romero | F | 9 | 468 | 2 | 0 | 18 | 2,0 | 10 | 1,1 | 6 | 8 | 0,9 | 0 | 0 |
+| Adrián Bernabé | M | 8 | 465 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 6 | 17 | 2,1 | 0 | 0 |
 | C. Ordoñez | M | 8 | 458 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 4 | 8 | 1,0 | 0 | 0 |
 | Diego Carlos | D | 6 | 423 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 7 | 1 | 0,2 | 1 | 0 |
-| D. Romero | F | 8 | 408 | 2 | 0 | 18 | 2,2 | 10 | 1,2 | 4 | 7 | 0,9 | 0 | 0 |
-| D. Drobnic | D | 5 | 405 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
-| Adrián Bernabé | M | 7 | 391 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 6 | 14 | 2,0 | 0 | 0 |
-| V. Sierro | M | 5 | 297 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 8 | 3 | 0,6 | 1 | 0 |
-| G. Fabbian | M | 7 | 287 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 5 | 5 | 0,7 | 0 | 0 |
+| V. Sierro | M | 6 | 387 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 9 | 4 | 0,7 | 1 | 0 |
+| G. Fabbian | M | 8 | 303 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 8 | 6 | 0,8 | 0 | 0 |
+| M. Frigan | F | 8 | 242 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 3 | 5 | 0,6 | 0 | 0 |
+| F. Carboni | M | 4 | 229 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 | Nesta Elphege | F | 6 | 225 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
-| M. Frigan | F | 7 | 212 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 3 | 5 | 0,7 | 0 | 0 |
 | Abdou-Salam Konate | M | 4 | 205 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,5 | 1 | 0 |
-| Franco Carboni | D | 3 | 169 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
-| Lautaro Valenti | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 2 | 1 | 0,5 | 1 | 0 |
+| G. Daffara | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 0,81 · córners esperados 9,5._
+_Goles esperados: local 1,66 · visitante 0,77 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 18% | 14% | 16% | 6.50 | +5% |
+| 1X2: 2 | 17% | 14% | 16% | 6.50 | +2% |
 | 1X2: X | 24% | 22% | 23% | 4.20 | -3% |
-| 1X2: 1 | 58% | 64% | 61% | 1.45 | -12% |
-| Doble oportunidad: X2 | 42% | 35% | 38% | 2.75 | +6% |
+| 1X2: 1 | 59% | 64% | 61% | 1.45 | -11% |
+| Doble oportunidad: X2 | 41% | 35% | 38% | 2.75 | +4% |
 | Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 82% | 87% | 84% | 1.10 | -7% |
-| Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 1.5 | 71% | 78% | 75% | 1.22 | -9% |
-| Goles más/menos: Más de 2.5 | 45% | 55% | 50% | 1.73 | -13% |
-| Goles más/menos: Más de 3.5 | 24% | 34% | 29% | 2.75 | -20% |
-| Goles más/menos: Menos de 1.5 | 29% | 22% | 25% | 4.33 | +10% |
-| Goles más/menos: Menos de 2.5 | 55% | 45% | 50% | 2.10 | +5% |
-| Goles más/menos: Menos de 3.5 | 76% | 66% | 71% | 1.44 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Goles del local: Más de 1.5 | 50% | 61% | 55% | 1.53 | -15% |
-| Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -23% |
-| Goles del local: Menos de 1.5 ✅ | 50% | 39% | 45% | 2.38 | +6% |
-| Goles del local: Menos de 2.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del visitante: Más de 0.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Goles del visitante: Más de 1.5 | 20% | 22% | 21% | 4.33 | -11% |
-| Goles del visitante: Menos de 0.5 | 44% | 44% | 44% | 2.10 | -7% |
-| Goles del visitante: Menos de 1.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: X | 43% | 38% | 41% | 2.40 | -2% |
+| Doble oportunidad: 1X | 83% | 87% | 85% | 1.10 | -7% |
+| Ambos marcan: No | 57% | 52% | 54% | 1.80 | -2% |
+| Ambos marcan: Sí | 43% | 48% | 46% | 1.95 | -11% |
+| Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 44% | 55% | 49% | 1.73 | -15% |
+| Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -22% |
+| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +13% |
+| Goles más/menos: Menos de 2.5 ✅ | 56% | 45% | 51% | 2.10 | +7% |
+| Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del local: Más de 1.5 | 49% | 61% | 55% | 1.53 | -16% |
+| Goles del local: Más de 2.5 | 23% | 35% | 29% | 2.62 | -23% |
+| Goles del local: Menos de 1.5 ✅ | 51% | 39% | 45% | 2.38 | +7% |
+| Goles del local: Menos de 2.5 | 77% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 0.5 | 53% | 56% | 55% | 1.67 | -9% |
+| Goles del visitante: Más de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles del visitante: Menos de 0.5 | 47% | 44% | 45% | 2.10 | -5% |
+| Goles del visitante: Menos de 1.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
+| 1X2 descanso: X | 44% | 38% | 41% | 2.40 | -1% |
 | 1X2 descanso: 1 | 41% | 47% | 44% | 1.95 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -52,53 +52,53 @@ _Actualizadas: 28/10 07:59_
 ## Estadísticas de equipo
 | | Atletico Madrid (total) | Atletico Madrid en casa | Bayern München (total) | Bayern München fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 11 | 6 |
-| Forma (últimos 5) | VEVVV | VVVVE | VEVEE | VEEVE |
-| Balance | 9V 2E 2D | 5V 1E 0D | 7V 4E 0D | 3V 3E 0D |
-| Goles a favor / partido | 1,85 | 2,17 | 3,55 | 2,33 |
-| Goles en contra / partido | 0,85 | 0,50 | 1,09 | 1,33 |
-| Goles a favor 1ª parte | 0,54 | 0,33 | 1,18 | 0,83 |
-| Goles a favor 2ª parte | 1,31 | 1,83 | 2,36 | 1,50 |
-| Goles en contra 1ª parte | 0,23 | 0,00 | 0,45 | 0,67 |
-| Goles en contra 2ª parte | 0,62 | 0,50 | 0,64 | 0,67 |
-| Más de 1,5 goles | 85% | 83% | 91% | 83% |
-| Más de 2,5 goles | 62% | 50% | 91% | 83% |
-| Más de 3,5 goles | 23% | 33% | 82% | 67% |
-| Ambos marcan | 46% | 33% | 73% | 83% |
-| Portería a cero | 46% | 67% | 27% | 17% |
-| Se queda sin marcar | 8% | 0% | 9% | 17% |
-| xG a favor | 1,56 | 1,83 | 3,25 | 3,25 |
+| Partidos analizados | 13 | 6 | 12 | 6 |
+| Forma (últimos 5) | VEVVV | VVVVE | VVEVE | VEEVE |
+| Balance | 9V 2E 2D | 5V 1E 0D | 8V 4E 0D | 3V 3E 0D |
+| Goles a favor / partido | 1,85 | 2,17 | 3,75 | 2,33 |
+| Goles en contra / partido | 0,85 | 0,50 | 1,08 | 1,33 |
+| Goles a favor 1ª parte | 0,54 | 0,33 | 1,25 | 0,83 |
+| Goles a favor 2ª parte | 1,31 | 1,83 | 2,50 | 1,50 |
+| Goles en contra 1ª parte | 0,23 | 0,00 | 0,50 | 0,67 |
+| Goles en contra 2ª parte | 0,62 | 0,50 | 0,58 | 0,67 |
+| Más de 1,5 goles | 85% | 83% | 92% | 83% |
+| Más de 2,5 goles | 62% | 50% | 92% | 83% |
+| Más de 3,5 goles | 23% | 33% | 83% | 67% |
+| Ambos marcan | 46% | 33% | 75% | 83% |
+| Portería a cero | 46% | 67% | 25% | 17% |
+| Se queda sin marcar | 8% | 0% | 8% | 17% |
+| xG a favor | 1,56 | 1,83 | 3,32 | 3,25 |
 | xG en contra | 1,17 | 1,26 | 0,91 | 1,03 |
-| Tiros / partido | 16,2 | 18,3 | 22,5 | 22,8 |
-| Tiros a puerta / partido | 5,7 | 6,5 | 9,5 | 7,8 |
-| Tiros recibidos | 10,9 | 8,8 | 8,5 | 8,5 |
-| Tiros a puerta recibidos | 3,6 | 3,3 | 3,1 | 3,2 |
-| Posesión media % | 58 | 58 | 65 | 69 |
-| Córners a favor | 5,5 | 4,5 | 8,7 | 9,7 |
-| Córners en contra | 3,8 | 2,3 | 3,3 | 3,3 |
-| Córners a favor 1ª parte | 2,4 | 1,8 | 4,2 | 4,2 |
+| Tiros / partido | 16,2 | 18,3 | 22,2 | 22,8 |
+| Tiros a puerta / partido | 5,7 | 6,5 | 9,4 | 7,8 |
+| Tiros recibidos | 10,9 | 8,8 | 8,6 | 8,5 |
+| Tiros a puerta recibidos | 3,6 | 3,3 | 3,0 | 3,2 |
+| Posesión media % | 58 | 58 | 64 | 69 |
+| Córners a favor | 5,5 | 4,5 | 8,5 | 9,7 |
+| Córners en contra | 3,8 | 2,3 | 3,0 | 3,3 |
+| Córners a favor 1ª parte | 2,4 | 1,8 | 4,0 | 4,2 |
 | Córners a favor 2ª parte | 3,1 | 2,7 | 4,5 | 5,5 |
-| Córners totales del partido | 9,3 | 6,8 | 12,0 | 13,0 |
-| Córners totales 1ª parte | 4,4 | 3,2 | 5,7 | 5,7 |
-| Córners totales 2ª parte | 4,9 | 3,7 | 6,3 | 7,3 |
-| Más de 8,5 córners | 46% | 0% | 82% | 83% |
-| Más de 9,5 córners | 46% | 0% | 73% | 83% |
-| Más de 10,5 córners | 38% | 0% | 73% | 83% |
-| Faltas cometidas | 11,4 | 12,8 | 10,1 | 9,0 |
-| Faltas recibidas | 11,5 | 10,2 | 8,8 | 8,5 |
-| Amarillas propias | 2,0 | 2,2 | 0,9 | 1,2 |
-| Amarillas del rival | 1,6 | 2,0 | 1,9 | 2,0 |
-| Rojas / partido | 0,15 | 0,17 | 0,09 | 0,17 |
+| Córners totales del partido | 9,3 | 6,8 | 11,5 | 13,0 |
+| Córners totales 1ª parte | 4,4 | 3,2 | 5,4 | 5,7 |
+| Córners totales 2ª parte | 4,9 | 3,7 | 6,1 | 7,3 |
+| Más de 8,5 córners | 46% | 0% | 75% | 83% |
+| Más de 9,5 córners | 46% | 0% | 67% | 83% |
+| Más de 10,5 córners | 38% | 0% | 67% | 83% |
+| Faltas cometidas | 11,4 | 12,8 | 9,8 | 9,0 |
+| Faltas recibidas | 11,5 | 10,2 | 8,6 | 8,5 |
+| Amarillas propias | 2,0 | 2,2 | 1,0 | 1,2 |
+| Amarillas del rival | 1,6 | 2,0 | 2,0 | 2,0 |
+| Rojas / partido | 0,15 | 0,17 | 0,08 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Atletico Madrid | Recibe Atletico Madrid | Tarjetas Atletico Madrid | Goles Bayern München | Recibe Bayern München | Tarjetas Bayern München |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 0 | 1 | 1 | 3 | 0 |
-| 16-30' | 3 | 0 | 2 | 7 | 1 | 0 |
+| 1-15' | 2 | 0 | 1 | 2 | 4 | 0 |
+| 16-30' | 3 | 0 | 2 | 8 | 1 | 0 |
 | 31-45' | 2 | 3 | 8 | 5 | 1 | 2 |
-| 46-60' | 6 | 3 | 3 | 9 | 1 | 2 |
-| 61-75' | 2 | 2 | 4 | 8 | 2 | 6 |
-| 76-90' | 9 | 3 | 11 | 9 | 4 | 1 |
+| 46-60' | 6 | 3 | 3 | 10 | 1 | 2 |
+| 61-75' | 2 | 2 | 4 | 10 | 2 | 6 |
+| 76-90' | 9 | 3 | 11 | 10 | 4 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -150,74 +150,74 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bayern München
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | DFB-Pokal | Bayern München 6-1 1. FC Magdeburg | casa | 6-0 | 19 (8) - 9 (2) | 2-3 |
 | 2026-10-25 | Bundesliga | SC Freiburg 1-3 Bayern München | fuera | 6-5 | 17 (9) - 17 (5) | 1-3 |
 | 2026-10-21 | Champions League | Bayern München 2-2 Arsenal | casa | 3-5 | 13 (5) - 14 (5) | 0-2 |
 | 2026-10-17 | Bundesliga | Bayern München 6-1 RB Leipzig | casa | 11-3 | 29 (17) - 12 (4) | 1-0 |
 | 2026-10-13 | Champions League | Viking 3-3 Bayern München | fuera | 15-7 | 25 (8) - 8 (5) | 4-2 |
 | 2026-10-10 | Bundesliga | FC Augsburg 2-2 Bayern München | fuera | 9-5 | 30 (10) - 12 (5) | 0-3 |
-| 2026-09-18 | Bundesliga | Bayern München 7-0 Union Berlin | casa | 9-2 | 23 (15) - 3 (2) | 1-3 |
 
 ## Jugadores de Bayern München
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | H. Kane | F | 11 | 892 | 10 | 7 | 36 | 3,3 | 19 | 1,7 | 4 | 9 | 0,8 | 0 | 0 |
-| M. Olise | M | 10 | 823 | 9 | 4 | 37 | 3,7 | 26 | 2,6 | 5 | 28 | 2,8 | 2 | 1 |
+| M. Olise | M | 11 | 891 | 11 | 5 | 40 | 3,6 | 28 | 2,5 | 5 | 29 | 2,6 | 2 | 1 |
 | D. Upamecano | D | 10 | 810 | 2 | 0 | 9 | 0,9 | 6 | 0,6 | 11 | 3 | 0,3 | 2 | 0 |
 | Joshua Kimmich | M | 9 | 735 | 0 | 4 | 9 | 1,0 | 3 | 0,3 | 0 | 6 | 0,7 | 0 | 0 |
+| J. Tah | D | 10 | 732 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
 | L. Díaz | F | 10 | 712 | 5 | 1 | 20 | 2,0 | 14 | 1,4 | 12 | 6 | 0,6 | 0 | 0 |
-| A. Pavlović | M | 9 | 647 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 12 | 6 | 0,7 | 1 | 0 |
-| J. Tah | D | 9 | 642 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
-| A. Davies | D | 10 | 617 | 2 | 2 | 4 | 0,4 | 2 | 0,2 | 2 | 8 | 0,8 | 0 | 0 |
-| K. Laimer | M | 8 | 577 | 0 | 1 | 4 | 0,5 | 2 | 0,2 | 14 | 6 | 0,8 | 2 | 0 |
-| J. Stanišić | D | 10 | 574 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
+| A. Pavlović | M | 10 | 669 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 13 | 6 | 0,6 | 2 | 0 |
+| J. Stanišić | D | 11 | 664 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 4 | 5 | 0,5 | 0 | 0 |
+| A. Davies | D | 11 | 662 | 3 | 3 | 6 | 0,5 | 3 | 0,3 | 2 | 9 | 0,8 | 0 | 0 |
+| K. Laimer | M | 9 | 645 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 15 | 6 | 0,7 | 2 | 0 |
+| T. Bischof | M | 12 | 605 | 1 | 2 | 10 | 0,8 | 6 | 0,5 | 11 | 6 | 0,5 | 0 | 0 |
+| I. Saibari | F | 12 | 601 | 3 | 3 | 26 | 2,2 | 10 | 0,8 | 10 | 3 | 0,2 | 1 | 0 |
+| N. Brown | D | 11 | 570 | 2 | 2 | 7 | 0,6 | 6 | 0,5 | 5 | 5 | 0,5 | 1 | 0 |
+| J. Urbig | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | M. Neuer | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| I. Saibari | M | 11 | 526 | 2 | 2 | 22 | 2,0 | 9 | 0,8 | 9 | 2 | 0,2 | 1 | 0 |
-| T. Bischof | M | 11 | 523 | 1 | 2 | 7 | 0,6 | 5 | 0,5 | 9 | 5 | 0,5 | 0 | 0 |
 | Kim Min-Jae | D | 7 | 521 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
-| N. Brown | D | 10 | 480 | 1 | 2 | 6 | 0,6 | 5 | 0,5 | 5 | 5 | 0,5 | 0 | 0 |
-| J. Urbig | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Karl | M | 10 | 368 | 1 | 1 | 7 | 0,7 | 3 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
+| L. Karl | M | 11 | 458 | 1 | 2 | 12 | 1,1 | 4 | 0,4 | 1 | 1 | 0,1 | 0 | 0 |
+| S. Gnabry | M | 6 | 241 | 1 | 0 | 7 | 1,2 | 3 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
 | Jamal Musiala | M | 4 | 213 | 2 | 1 | 3 | 0,8 | 3 | 0,8 | 3 | 4 | 1,0 | 0 | 0 |
-| S. Gnabry | M | 5 | 196 | 1 | 0 | 7 | 1,4 | 3 | 0,6 | 1 | 0 | 0,0 | 0 | 0 |
-| S. Boey | D | 2 | 42 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,02 · visitante 2,00 · córners esperados 9,7._
+_Goles esperados: local 1,04 · visitante 2,00 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 60% | 48% | 54% | 1.95 | +6% |
-| 1X2: X | 21% | 24% | 23% | 3.90 | -12% |
-| 1X2: 1 | 19% | 28% | 23% | 3.40 | -21% |
+| 1X2: 2 | 59% | 48% | 54% | 1.95 | +5% |
+| 1X2: X | 21% | 24% | 23% | 3.90 | -11% |
+| 1X2: 1 | 19% | 28% | 23% | 3.40 | -20% |
 | Doble oportunidad: X2 | 81% | 72% | 77% | 1.30 | -0% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 40% | 52% | 46% | 1.80 | -17% |
-| Ambos marcan: No ✅ | 45% | 31% | 38% | 3.00 | +14% |
-| Ambos marcan: Sí | 55% | 69% | 62% | 1.36 | -16% |
-| Goles más/menos: Más de 2.5 | 58% | 68% | 63% | 1.40 | -12% |
+| Doble oportunidad: 1X | 41% | 52% | 46% | 1.80 | -16% |
+| Ambos marcan: No ✅ | 44% | 31% | 38% | 3.00 | +13% |
+| Ambos marcan: Sí | 56% | 69% | 62% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 59% | 68% | 63% | 1.40 | -11% |
 | Goles más/menos: Más de 3.5 | 36% | 50% | 43% | 1.91 | -18% |
-| Goles más/menos: Más de 4.5 | 19% | 30% | 24% | 3.20 | -22% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 32% | 37% | 3.00 | +11% |
+| Goles más/menos: Más de 4.5 | 19% | 30% | 25% | 3.20 | -22% |
+| Goles más/menos: Menos de 2.5 ✅ | 41% | 32% | 37% | 3.00 | +10% |
 | Goles más/menos: Menos de 3.5 | 64% | 50% | 57% | 1.91 | +9% |
-| Goles más/menos: Menos de 4.5 | 81% | 70% | 76% | 1.36 | +3% |
+| Goles más/menos: Menos de 4.5 | 81% | 70% | 75% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 23% | 19% | 4.00 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
-| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
-| Goles del local: Más de 1.5 | 27% | 46% | 37% | 2.00 | -27% |
-| Goles del local: Más de 2.5 | 8% | 22% | 15% | 4.33 | -35% |
-| Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +19% |
-| Goles del local: Menos de 1.5 | 73% | 54% | 63% | 1.73 | +10% |
-| Goles del local: Menos de 2.5 | 92% | 78% | 85% | 1.20 | +2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
+| Goles 1ª parte más/menos: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles del local: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
+| Goles del local: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
+| Goles del local: Más de 2.5 | 9% | 22% | 15% | 4.33 | -34% |
+| Goles del local: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +17% |
+| Goles del local: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
+| Goles del local: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
 | Goles del visitante: Más de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
 | Goles del visitante: Más de 2.5 | 32% | 35% | 34% | 2.62 | -11% |
 | Goles del visitante: Menos de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
 | Goles del visitante: Menos de 2.5 | 68% | 65% | 66% | 1.44 | -5% |
-| 1X2 descanso: 2 | 44% | 38% | 41% | 2.40 | -1% |
-| 1X2 descanso: X | 38% | 35% | 37% | 2.62 | -3% |
-| 1X2 descanso: 1 | 18% | 26% | 22% | 3.50 | -23% |
+| 1X2 descanso: 2 | 43% | 38% | 41% | 2.40 | -2% |
+| 1X2 descanso: X | 38% | 35% | 37% | 2.62 | -4% |
+| 1X2 descanso: 1 | 18% | 26% | 22% | 3.50 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

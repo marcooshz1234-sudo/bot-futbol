@@ -1,7 +1,7 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -198,13 +198,13 @@ _Sin bajas comunicadas por ahora._
 | Reigan Heskey | F | 4 | 45 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,8._
+_Goles esperados: local 1,23 · visitante 1,73 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 ✅ | 49% | 36% | 43% | 2.60 | +11% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 27% | 38% | 33% | 2.50 | -19% |
+| 1X2: 1 | 27% | 38% | 32% | 2.50 | -19% |
 | Doble oportunidad: X2 | 73% | 63% | 68% | 1.50 | +2% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 51% | 63% | 57% | 1.50 | -14% |
@@ -212,7 +212,7 @@ _Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,8._
 | Ambos marcan: Sí | 58% | 61% | 60% | 1.53 | -9% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles más/menos: Más de 2.5 | 57% | 57% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 3.5 | 34% | 36% | 35% | 2.62 | -8% |
+| Goles más/menos: Más de 3.5 | 34% | 36% | 35% | 2.62 | -7% |
 | Goles más/menos: Más de 4.5 | 18% | 21% | 19% | 4.50 | -13% |
 | Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles más/menos: Menos de 2.5 | 43% | 43% | 43% | 2.20 | -5% |
@@ -229,14 +229,14 @@ _Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,8._
 | Goles del local: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
 | Goles del local: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
 | Goles del visitante: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles del visitante: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
+| Goles del visitante: Más de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
 | Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
-| Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
-| Goles del visitante: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
+| Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -18% |
+| Goles del visitante: Menos de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
 | Goles del visitante: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
 | Córners más/menos: Más de 9.5 | 47% | 54% | 51% | 1.73 | -13% |
 | Córners más/menos: Menos de 9.5 | 53% | 46% | 49% | 2.00 | -1% |
-| 1X2 descanso: 2 | 36% | 30% | 33% | 3.10 | +3% |
+| 1X2 descanso: 2 | 37% | 30% | 33% | 3.10 | +3% |
 | 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -6% |
 | 1X2 descanso: 1 | 23% | 31% | 27% | 3.00 | -18% |
 

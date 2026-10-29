@@ -1,7 +1,7 @@
 # Lecce – Genoa
 **Serie A** · Regular Season - 10 · 01/11/2026 18:00 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -56,49 +56,49 @@ _Actualizadas: 28/10 14:01_
 ## Estadísticas de equipo
 | | Lecce (total) | Lecce en casa | Genoa (total) | Genoa fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 10 | 3 |
-| Forma (últimos 5) | DVDDV | DDVD | VDVDV | DDD |
-| Balance | 3V 0E 6D | 1V 0E 3D | 4V 1E 5D | 0V 0E 3D |
-| Goles a favor / partido | 1,00 | 1,00 | 1,10 | 0,33 |
-| Goles en contra / partido | 1,78 | 2,50 | 1,40 | 1,67 |
-| Goles a favor 1ª parte | 0,56 | 0,75 | 0,60 | 0,00 |
-| Goles a favor 2ª parte | 0,44 | 0,25 | 0,50 | 0,33 |
-| Goles en contra 1ª parte | 1,22 | 1,75 | 0,70 | 0,67 |
-| Goles en contra 2ª parte | 0,56 | 0,75 | 0,70 | 1,00 |
-| Más de 1,5 goles | 89% | 100% | 70% | 67% |
-| Más de 2,5 goles | 56% | 75% | 40% | 33% |
-| Más de 3,5 goles | 22% | 50% | 20% | 0% |
-| Ambos marcan | 22% | 50% | 50% | 33% |
-| Portería a cero | 22% | 0% | 20% | 0% |
-| Se queda sin marcar | 56% | 50% | 30% | 67% |
-| xG a favor | 1,41 | 1,10 | 0,85 | 0,53 |
+| Partidos analizados | 9 | 4 | 11 | 3 |
+| Forma (últimos 5) | DVDDV | DDVD | VVDVD | DDD |
+| Balance | 3V 0E 6D | 1V 0E 3D | 5V 1E 5D | 0V 0E 3D |
+| Goles a favor / partido | 1,00 | 1,00 | 1,18 | 0,33 |
+| Goles en contra / partido | 1,78 | 2,50 | 1,27 | 1,67 |
+| Goles a favor 1ª parte | 0,56 | 0,75 | 0,73 | 0,00 |
+| Goles a favor 2ª parte | 0,44 | 0,25 | 0,45 | 0,33 |
+| Goles en contra 1ª parte | 1,22 | 1,75 | 0,64 | 0,67 |
+| Goles en contra 2ª parte | 0,56 | 0,75 | 0,64 | 1,00 |
+| Más de 1,5 goles | 89% | 100% | 73% | 67% |
+| Más de 2,5 goles | 56% | 75% | 36% | 33% |
+| Más de 3,5 goles | 22% | 50% | 18% | 0% |
+| Ambos marcan | 22% | 50% | 45% | 33% |
+| Portería a cero | 22% | 0% | 27% | 0% |
+| Se queda sin marcar | 56% | 50% | 27% | 67% |
+| xG a favor | 1,41 | 1,10 | 0,87 | 0,53 |
 | xG en contra | 1,95 | 2,29 | 1,32 | 1,16 |
 | Tiros / partido | 12,4 | 12,2 | 13,6 | 9,7 |
-| Tiros a puerta / partido | 4,6 | 3,8 | 4,0 | 2,3 |
-| Tiros recibidos | 14,0 | 12,8 | 14,0 | 11,7 |
+| Tiros a puerta / partido | 4,6 | 3,8 | 3,8 | 2,3 |
+| Tiros recibidos | 14,0 | 12,8 | 14,3 | 11,7 |
 | Tiros a puerta recibidos | 5,9 | 6,5 | 4,0 | 3,0 |
-| Posesión media % | 42 | 44 | 45 | 48 |
-| Córners a favor | 4,9 | 5,2 | 5,1 | 3,3 |
-| Córners en contra | 3,3 | 3,2 | 4,8 | 3,7 |
-| Córners a favor 1ª parte | 1,8 | 1,8 | 2,7 | 2,0 |
+| Posesión media % | 42 | 44 | 44 | 48 |
+| Córners a favor | 4,9 | 5,2 | 5,2 | 3,3 |
+| Córners en contra | 3,3 | 3,2 | 5,2 | 3,7 |
+| Córners a favor 1ª parte | 1,8 | 1,8 | 2,8 | 2,0 |
 | Córners a favor 2ª parte | 3,1 | 3,5 | 2,4 | 1,3 |
-| Córners totales del partido | 8,2 | 8,5 | 9,9 | 7,0 |
-| Córners totales 1ª parte | 3,1 | 2,8 | 4,2 | 3,3 |
-| Córners totales 2ª parte | 5,1 | 5,8 | 5,7 | 3,7 |
-| Más de 8,5 córners | 44% | 50% | 60% | 0% |
-| Más de 9,5 córners | 44% | 50% | 50% | 0% |
-| Más de 10,5 córners | 22% | 25% | 30% | 0% |
-| Faltas cometidas | 12,2 | 12,5 | 10,0 | 9,0 |
-| Faltas recibidas | 9,9 | 10,2 | 10,9 | 15,0 |
-| Amarillas propias | 1,7 | 1,8 | 2,2 | 2,7 |
+| Córners totales del partido | 8,2 | 8,5 | 10,4 | 7,0 |
+| Córners totales 1ª parte | 3,1 | 2,8 | 4,7 | 3,3 |
+| Córners totales 2ª parte | 5,1 | 5,8 | 5,6 | 3,7 |
+| Más de 8,5 córners | 44% | 50% | 64% | 0% |
+| Más de 9,5 córners | 44% | 50% | 55% | 0% |
+| Más de 10,5 córners | 22% | 25% | 36% | 0% |
+| Faltas cometidas | 12,2 | 12,5 | 9,5 | 9,0 |
+| Faltas recibidas | 9,9 | 10,2 | 10,6 | 15,0 |
+| Amarillas propias | 1,7 | 1,8 | 2,0 | 2,7 |
 | Amarillas del rival | 0,8 | 0,8 | 1,4 | 2,0 |
-| Rojas / partido | 0,11 | 0,25 | 0,10 | 0,00 |
+| Rojas / partido | 0,11 | 0,25 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lecce | Recibe Lecce | Tarjetas Lecce | Goles Genoa | Recibe Genoa | Tarjetas Genoa |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 3 | 2 | 2 | 1 | 4 |
-| 16-30' | 1 | 6 | 0 | 2 | 4 | 0 |
+| 1-15' | 3 | 3 | 2 | 3 | 1 | 4 |
+| 16-30' | 1 | 6 | 0 | 3 | 4 | 0 |
 | 31-45' | 1 | 2 | 5 | 2 | 2 | 2 |
 | 46-60' | 1 | 0 | 2 | 1 | 1 | 4 |
 | 61-75' | 1 | 4 | 1 | 2 | 2 | 4 |
@@ -154,72 +154,72 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Genoa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Serie A | Genoa 2-0 Juventus | casa | 6-9 | 14 (2) - 17 (4) | 0-1 |
 | 2026-10-25 | Serie A | Genoa 1-0 Venezia | casa | 2-10 | 7 (4) - 19 (5) | 1-0 |
 | 2026-10-17 | Serie A | AS Roma 2-0 Genoa | fuera | 3-5 | 9 (1) - 15 (5) | 3-2 |
 | 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | casa | 3-4 | 10 (4) - 13 (3) | 5-3 |
 | 2026-09-20 | Serie A | Parma 2-1 Genoa | fuera | 5-2 | 12 (5) - 5 (2) | 3-3 |
 | 2026-09-15 | Coppa Italia | Genoa 1-0 Sudtirol | casa | 10-3 | 27 (6) - 5 (2) | 0-0 |
-| 2026-09-12 | Serie A | Genoa 1-1 Frosinone | casa | 8-9 | 17 (5) - 26 (6) | 3-2 |
 
 ## Jugadores de Genoa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Bijlow | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Ellertsson | M | 9 | 779 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 11 | 7 | 0,8 | 2 | 0 |
-| A. Marcandalli | D | 10 | 755 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 4 | 0,4 | 1 | 0 |
-| L. Østigård | D | 9 | 741 | 0 | 0 | 5 | 0,6 | 3 | 0,3 | 10 | 7 | 0,8 | 5 | 0 |
-| M. Frendrup | M | 9 | 741 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 6 | 4 | 0,4 | 0 | 0 |
-| J. Vásquez | D | 9 | 711 | 2 | 0 | 5 | 0,6 | 2 | 0,2 | 6 | 5 | 0,6 | 4 | 1 |
-| M. Osmajić | F | 7 | 567 | 3 | 1 | 9 | 1,3 | 4 | 0,6 | 4 | 13 | 1,9 | 0 | 0 |
-| Tommaso Baldanzi | F | 7 | 470 | 1 | 0 | 11 | 1,6 | 3 | 0,4 | 6 | 4 | 0,6 | 0 | 0 |
-| Vitinha | F | 9 | 467 | 0 | 0 | 13 | 1,4 | 4 | 0,4 | 3 | 8 | 0,9 | 1 | 0 |
-| L. Colombo | F | 8 | 444 | 1 | 2 | 9 | 1,1 | 5 | 0,6 | 10 | 11 | 1,4 | 0 | 0 |
-| Junior Messias | M | 9 | 434 | 1 | 0 | 10 | 1,1 | 4 | 0,4 | 4 | 15 | 1,7 | 0 | 0 |
+| J. Bijlow | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Marcandalli | D | 11 | 845 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 7 | 4 | 0,4 | 1 | 0 |
+| M. Frendrup | M | 10 | 831 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 7 | 5 | 0,5 | 0 | 0 |
+| L. Østigård | D | 10 | 831 | 0 | 0 | 6 | 0,6 | 3 | 0,3 | 10 | 7 | 0,7 | 5 | 0 |
+| M. Ellertsson | M | 10 | 820 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 11 | 7 | 0,7 | 2 | 0 |
+| J. Vásquez | D | 10 | 801 | 2 | 0 | 6 | 0,6 | 2 | 0,2 | 6 | 5 | 0,5 | 4 | 1 |
+| M. Osmajić | F | 8 | 649 | 3 | 1 | 11 | 1,4 | 4 | 0,5 | 6 | 14 | 1,8 | 0 | 0 |
+| Vítinha | M | 10 | 557 | 0 | 0 | 15 | 1,5 | 4 | 0,4 | 4 | 9 | 0,9 | 1 | 0 |
+| T. Baldanzi | M | 8 | 539 | 2 | 1 | 14 | 1,8 | 4 | 0,5 | 6 | 4 | 0,5 | 0 | 0 |
+| Junior Messias | F | 10 | 455 | 1 | 0 | 10 | 1,0 | 4 | 0,4 | 4 | 15 | 1,5 | 0 | 0 |
+| L. Colombo | F | 9 | 452 | 1 | 2 | 9 | 1,0 | 5 | 0,6 | 10 | 11 | 1,2 | 0 | 0 |
 | Djibril Sow | M | 6 | 356 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 5 | 0,8 | 1 | 0 |
 | S. Otoa | D | 6 | 345 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 4 | 0,7 | 2 | 0 |
-| S. Wiafe | M | 5 | 306 | 0 | 1 | 5 | 1,0 | 1 | 0,2 | 7 | 3 | 0,6 | 1 | 0 |
+| S. Wiafe | M | 6 | 314 | 0 | 1 | 5 | 0,8 | 1 | 0,2 | 8 | 3 | 0,5 | 1 | 0 |
+| Alexsandro Amorim | M | 8 | 305 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 1 | 4 | 0,5 | 1 | 0 |
+| K. Ehizibue | M | 5 | 294 | 1 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 4 | 0,8 | 1 | 0 |
 | S. El Shaarawy | M | 6 | 273 | 0 | 1 | 4 | 0,7 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
 | Brooke Norton-Cuffy | M | 3 | 270 | 0 | 1 | 3 | 1,0 | 1 | 0,3 | 0 | 1 | 0,3 | 0 | 0 |
 | D. Puczka | D | 6 | 240 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
-| Kingsley Ehizibue | D | 4 | 225 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
-| Alexsandro Amorim | M | 7 | 223 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 1 | 2 | 0,3 | 1 | 0 |
-| H. Traorè | M | 4 | 200 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| M. Mitaj | D | 4 | 236 | 0 | 1 | 5 | 1,2 | 2 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 1,11 · córners esperados 9,3._
+_Goles esperados: local 1,10 · visitante 1,18 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 34% | 34% | 2.70 | -7% |
-| 1X2: X | 29% | 30% | 29% | 3.10 | -9% |
-| 1X2: 1 | 37% | 36% | 36% | 2.62 | -5% |
-| Doble oportunidad: X2 | 63% | 65% | 64% | 1.44 | -8% |
-| Doble oportunidad: 12 | 71% | 69% | 70% | 1.36 | -4% |
-| Doble oportunidad: 1X | 66% | 65% | 66% | 1.44 | -6% |
+| 1X2: 2 | 38% | 34% | 36% | 2.70 | -3% |
+| 1X2: X | 28% | 30% | 29% | 3.10 | -9% |
+| 1X2: 1 | 34% | 36% | 35% | 2.62 | -9% |
+| Doble oportunidad: X2 | 66% | 65% | 66% | 1.44 | -5% |
+| Doble oportunidad: 12 | 72% | 69% | 70% | 1.36 | -4% |
+| Doble oportunidad: 1X | 62% | 65% | 64% | 1.44 | -8% |
 | Ambos marcan: No | 54% | 52% | 53% | 1.80 | -5% |
 | Ambos marcan: Sí | 46% | 48% | 47% | 1.95 | -8% |
 | Goles más/menos: Más de 1.5 | 66% | 66% | 66% | 1.44 | -5% |
 | Goles más/menos: Más de 2.5 | 40% | 40% | 40% | 2.38 | -5% |
-| Goles más/menos: Más de 3.5 | 20% | 21% | 20% | 4.50 | -9% |
-| Goles más/menos: Menos de 1.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles más/menos: Menos de 2.5 | 60% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Más de 3.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles más/menos: Menos de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles más/menos: Menos de 2.5 | 60% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 3.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 38% | 37% | 2.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 38% | 37% | 2.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles del local: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del local: Más de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del local: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del local: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Córners más/menos: Más de 8.5 | 52% | 50% | 51% | 1.83 | -6% |
-| Córners más/menos: Menos de 8.5 | 48% | 50% | 49% | 1.83 | -11% |
-| 1X2 descanso: 2 | 26% | 27% | 26% | 3.40 | -11% |
+| Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del visitante: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles del visitante: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles del visitante: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Córners más/menos: Más de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Córners más/menos: Menos de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
+| 1X2 descanso: 2 | 28% | 27% | 27% | 3.40 | -7% |
 | 1X2 descanso: X | 47% | 46% | 46% | 2.00 | -7% |
-| 1X2 descanso: 1 | 27% | 27% | 27% | 3.40 | -7% |
+| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

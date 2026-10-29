@@ -1,28 +1,49 @@
 # Kozakken Boys – Utrecht
 **KNVB Beker** · Round of 64 · 29/10/2026 18:45 (hora España) · De Zwaaier
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:00_
+_Actualizadas: 29/10 02:00_
 
-- **1X2:** 1 **4.75**  ·  X **5.00**  ·  2 **1.40**
-- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **1X2:** 1 **7.00**  ·  X **4.75**  ·  2 **1.33**
+- **Doble oportunidad:** 1X **3.00**  ·  12 **1.17**  ·  X2 **1.08**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.33** · menos **3.40**
-    - 3,5: más **1.83** · menos **1.83**
-    - 4,5: más **2.75** · menos **1.40**
-    - 5,5: más **5.00** · menos **1.17**
-    - 6,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.88**  ·  2 **1.83**
-- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
-- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.22**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **1.80**
-- **Win Both Halves:** 1 **21.00**  ·  2 **3.25**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.40**  ·  Home/No **13.00**  ·  Draw/No **29.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **4.00**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10: más **1.82** · menos **1.98**
+    - 10,5: más **2.00** · menos **1.73**
+- **1X2 descanso:** 1 **6.50**  ·  X **2.75**  ·  2 **1.73**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **3.50**  ·  2 **1.18**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **1.83**
+- **Win Both Halves:** 1 **29.00**  ·  2 **3.00**
+- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.50**  ·  Home/No **17.00**  ·  Draw/No **21.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.50**
+- **Total Corners (1st Half):**
+    - 4,5: más **1.75** · menos **2.05**
 
 ## Estadísticas de equipo
 | | Kozakken Boys (total) | Kozakken Boys en casa | Utrecht (total) | Utrecht fuera |

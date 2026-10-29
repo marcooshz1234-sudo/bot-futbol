@@ -1,7 +1,7 @@
 # Juventus – Napoli
 **Serie A** · Regular Season - 10 · 01/11/2026 20:45 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -24,52 +24,52 @@ _Actualizadas: 28/10 14:01_
 ## Estadísticas de equipo
 | | Juventus (total) | Juventus en casa | Napoli (total) | Napoli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 5 |
-| Forma (últimos 5) | VEDVE | EDVVE | EVDDV | DDEDV |
-| Balance | 6V 3E 2D | 3V 2E 1D | 4V 2E 5D | 1V 1E 3D |
-| Goles a favor / partido | 1,82 | 2,00 | 1,64 | 1,20 |
-| Goles en contra / partido | 1,00 | 1,00 | 1,55 | 1,60 |
-| Goles a favor 1ª parte | 0,73 | 0,83 | 0,73 | 0,40 |
-| Goles a favor 2ª parte | 1,09 | 1,17 | 0,91 | 0,80 |
-| Goles en contra 1ª parte | 0,45 | 0,50 | 0,45 | 0,40 |
-| Goles en contra 2ª parte | 0,55 | 0,50 | 1,09 | 1,20 |
-| Más de 1,5 goles | 91% | 100% | 73% | 80% |
-| Más de 2,5 goles | 45% | 50% | 55% | 40% |
-| Más de 3,5 goles | 27% | 33% | 36% | 40% |
-| Ambos marcan | 45% | 33% | 55% | 60% |
-| Portería a cero | 45% | 50% | 27% | 20% |
-| Se queda sin marcar | 9% | 17% | 18% | 20% |
-| xG a favor | 1,58 | 1,50 | 1,69 | 1,73 |
-| xG en contra | 0,73 | 0,66 | 1,72 | 1,58 |
-| Tiros / partido | 15,8 | 13,8 | 15,0 | 16,4 |
-| Tiros a puerta / partido | 5,5 | 4,8 | 5,6 | 5,8 |
-| Tiros recibidos | 9,5 | 9,0 | 17,3 | 16,4 |
-| Tiros a puerta recibidos | 3,0 | 2,8 | 4,5 | 4,4 |
-| Posesión media % | 57 | 53 | 49 | 54 |
-| Córners a favor | 6,7 | 5,5 | 4,8 | 6,2 |
-| Córners en contra | 3,2 | 3,5 | 5,1 | 4,6 |
-| Córners a favor 1ª parte | 3,2 | 2,5 | 2,3 | 3,2 |
-| Córners a favor 2ª parte | 3,5 | 3,0 | 2,5 | 3,0 |
-| Córners totales del partido | 9,9 | 9,0 | 9,9 | 10,8 |
-| Córners totales 1ª parte | 4,4 | 4,2 | 4,7 | 5,4 |
-| Córners totales 2ª parte | 5,5 | 4,8 | 5,2 | 5,4 |
-| Más de 8,5 córners | 73% | 67% | 73% | 80% |
-| Más de 9,5 córners | 55% | 50% | 55% | 60% |
-| Más de 10,5 córners | 45% | 50% | 27% | 40% |
-| Faltas cometidas | 13,0 | 12,2 | 9,3 | 9,0 |
-| Faltas recibidas | 11,1 | 11,5 | 8,8 | 8,6 |
-| Amarillas propias | 1,2 | 1,0 | 1,4 | 1,2 |
-| Amarillas del rival | 1,9 | 2,0 | 1,5 | 2,0 |
+| Partidos analizados | 12 | 6 | 12 | 6 |
+| Forma (últimos 5) | DVEDV | EDVVE | VEVDD | VDDED |
+| Balance | 6V 3E 3D | 3V 2E 1D | 5V 2E 5D | 2V 1E 3D |
+| Goles a favor / partido | 1,67 | 2,00 | 1,83 | 1,67 |
+| Goles en contra / partido | 1,08 | 1,00 | 1,50 | 1,50 |
+| Goles a favor 1ª parte | 0,67 | 0,83 | 0,75 | 0,50 |
+| Goles a favor 2ª parte | 1,00 | 1,17 | 1,08 | 1,17 |
+| Goles en contra 1ª parte | 0,58 | 0,50 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 0,50 | 0,50 | 1,00 | 1,00 |
+| Más de 1,5 goles | 92% | 100% | 75% | 83% |
+| Más de 2,5 goles | 42% | 50% | 58% | 50% |
+| Más de 3,5 goles | 25% | 33% | 42% | 50% |
+| Ambos marcan | 42% | 33% | 58% | 67% |
+| Portería a cero | 42% | 50% | 25% | 17% |
+| Se queda sin marcar | 17% | 17% | 17% | 17% |
+| xG a favor | 1,55 | 1,50 | 1,67 | 1,68 |
+| xG en contra | 0,76 | 0,66 | 1,64 | 1,45 |
+| Tiros / partido | 15,9 | 13,8 | 15,1 | 16,3 |
+| Tiros a puerta / partido | 5,3 | 4,8 | 5,8 | 6,0 |
+| Tiros recibidos | 9,8 | 9,0 | 16,8 | 15,7 |
+| Tiros a puerta recibidos | 2,9 | 2,8 | 4,5 | 4,5 |
+| Posesión media % | 57 | 53 | 51 | 56 |
+| Córners a favor | 6,9 | 5,5 | 4,6 | 5,5 |
+| Córners en contra | 3,4 | 3,5 | 4,8 | 4,2 |
+| Córners a favor 1ª parte | 3,4 | 2,5 | 2,2 | 2,8 |
+| Córners a favor 2ª parte | 3,5 | 3,0 | 2,4 | 2,7 |
+| Córners totales del partido | 10,3 | 9,0 | 9,4 | 9,7 |
+| Córners totales 1ª parte | 4,8 | 4,2 | 4,6 | 5,0 |
+| Córners totales 2ª parte | 5,5 | 4,8 | 4,8 | 4,7 |
+| Más de 8,5 córners | 75% | 67% | 67% | 67% |
+| Más de 9,5 córners | 58% | 50% | 50% | 50% |
+| Más de 10,5 córners | 50% | 50% | 25% | 33% |
+| Faltas cometidas | 12,6 | 12,2 | 9,0 | 8,5 |
+| Faltas recibidas | 10,6 | 11,5 | 9,2 | 9,5 |
+| Amarillas propias | 1,2 | 1,0 | 1,2 | 1,0 |
+| Amarillas del rival | 1,8 | 2,0 | 1,6 | 2,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Juventus | Recibe Juventus | Tarjetas Juventus | Goles Napoli | Recibe Napoli | Tarjetas Napoli |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 1 | 2 | 0 | 1 |
-| 16-30' | 4 | 2 | 4 | 4 | 4 | 0 |
-| 31-45' | 2 | 2 | 0 | 2 | 1 | 3 |
-| 46-60' | 1 | 0 | 4 | 3 | 3 | 4 |
-| 61-75' | 3 | 3 | 1 | 2 | 4 | 1 |
+| 1-15' | 2 | 2 | 1 | 3 | 0 | 1 |
+| 16-30' | 4 | 3 | 4 | 4 | 4 | 0 |
+| 31-45' | 2 | 2 | 0 | 2 | 2 | 3 |
+| 46-60' | 1 | 0 | 4 | 4 | 3 | 4 |
+| 61-75' | 3 | 3 | 2 | 4 | 4 | 1 |
 | 76-90' | 8 | 3 | 4 | 5 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -88,82 +88,82 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Juventus
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Serie A | Genoa 2-0 Juventus | fuera | 9-6 | 17 (4) - 14 (2) | 1-0 |
 | 2026-10-25 | Serie A | Lecce 0-2 Juventus | fuera | 3-5 | 8 (2) - 16 (4) | 0-1 |
 | 2026-10-22 | Europa League | Juventus 2-2 Rennes | casa | 7-5 | 14 (4) - 16 (5) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | casa | 5-7 | 9 (2) - 9 (3) | 0-2 |
 | 2026-10-15 | Europa League | Celta Vigo 1-2 Juventus | fuera | 7-2 | 22 (6) - 9 (2) | 2-2 |
 | 2026-10-11 | Serie A | Cagliari 1-1 Juventus | fuera | 9-1 | 22 (10) - 4 (2) | 1-2 |
-| 2026-09-20 | Serie A | Juventus 2-0 Atalanta | casa | 4-5 | 14 (5) - 11 (2) | 1-2 |
 
 ## Jugadores de Juventus
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Kalulu | M | 11 | 945 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 4 | 0,4 | 0 | 0 |
-| G. Vicario | G | 10 | 899 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Bremer | D | 11 | 860 | 2 | 0 | 8 | 0,7 | 2 | 0,2 | 10 | 2 | 0,2 | 0 | 0 |
-| R. Kolo Muani | F | 11 | 822 | 3 | 2 | 16 | 1,5 | 6 | 0,5 | 18 | 15 | 1,4 | 0 | 0 |
-| Douglas Luiz | M | 11 | 818 | 1 | 1 | 13 | 1,2 | 5 | 0,5 | 19 | 17 | 1,5 | 2 | 0 |
+| P. Kalulu | M | 12 | 1035 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 6 | 4 | 0,3 | 0 | 0 |
+| G. Vicario | G | 11 | 989 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Bremer | D | 12 | 950 | 2 | 0 | 10 | 0,8 | 2 | 0,2 | 11 | 3 | 0,2 | 0 | 0 |
+| R. Kolo Muani | F | 12 | 912 | 3 | 2 | 16 | 1,3 | 6 | 0,5 | 19 | 15 | 1,2 | 0 | 0 |
+| Douglas Luiz | M | 12 | 895 | 1 | 1 | 14 | 1,2 | 5 | 0,4 | 19 | 19 | 1,6 | 2 | 0 |
+| J. Lucumí | D | 11 | 780 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 3 | 0 | 0,0 | 3 | 0 |
+| W. McKennie | M | 9 | 730 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 3 | 0,3 | 0 | 0 |
 | Z. Çelik | M | 9 | 700 | 2 | 1 | 2 | 0,2 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
-| J. Lucumí | D | 10 | 690 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 0 |
-| W. McKennie | M | 8 | 640 | 1 | 1 | 3 | 0,4 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
+| N. Woltemade | F | 10 | 525 | 3 | 1 | 23 | 2,3 | 7 | 0,7 | 8 | 15 | 1,5 | 0 | 0 |
 | Francisco Conceição | F | 9 | 525 | 1 | 1 | 17 | 1,9 | 8 | 0,9 | 13 | 9 | 1,0 | 1 | 0 |
-| N. Woltemade | F | 9 | 480 | 3 | 1 | 20 | 2,2 | 6 | 0,7 | 7 | 14 | 1,6 | 0 | 0 |
+| Kerim-Sam Alajbegović | M | 11 | 501 | 1 | 1 | 15 | 1,4 | 6 | 0,5 | 3 | 6 | 0,5 | 0 | 0 |
+| P. Sarr | M | 8 | 487 | 0 | 0 | 7 | 0,9 | 2 | 0,2 | 8 | 4 | 0,5 | 0 | 0 |
 | N. González | F | 9 | 472 | 2 | 0 | 13 | 1,4 | 5 | 0,6 | 8 | 14 | 1,6 | 0 | 0 |
-| Kerim-Sam Alajbegović | F | 10 | 456 | 1 | 1 | 12 | 1,2 | 5 | 0,5 | 3 | 6 | 0,6 | 0 | 0 |
-| T. Koopmeiners | M | 10 | 438 | 1 | 1 | 5 | 0,5 | 4 | 0,4 | 10 | 4 | 0,4 | 0 | 0 |
-| P. Sarr | M | 7 | 428 | 0 | 0 | 7 | 1,0 | 2 | 0,3 | 8 | 4 | 0,6 | 0 | 0 |
-| A. Cambiaso | M | 7 | 320 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 5 | 0,7 | 1 | 0 |
-| F. Gatti | D | 5 | 318 | 1 | 1 | 3 | 0,6 | 2 | 0,4 | 9 | 4 | 0,8 | 2 | 0 |
+| T. Koopmeiners | M | 11 | 451 | 1 | 1 | 6 | 0,5 | 4 | 0,4 | 10 | 4 | 0,4 | 0 | 0 |
+| A. Cambiaso | M | 8 | 379 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 5 | 0,6 | 1 | 0 |
+| F. Gatti | D | 6 | 363 | 1 | 1 | 4 | 0,7 | 2 | 0,3 | 10 | 4 | 0,7 | 2 | 0 |
 | L. Kelly | D | 6 | 301 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
 | Manuel Locatelli | M | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 8 | 8 | 2,7 | 1 | 0 |
-| Edon Zhegrova | F | 6 | 146 | 2 | 1 | 9 | 1,5 | 7 | 1,2 | 0 | 1 | 0,2 | 0 | 0 |
-| J. Boga | F | 6 | 139 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
+| E. Zhegrova | F | 7 | 191 | 2 | 1 | 11 | 1,6 | 8 | 1,1 | 2 | 1 | 0,1 | 1 | 0 |
+| J. Boga | F | 7 | 170 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
 
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Serie A | Monza 1-4 Napoli | fuera | 2-2 | 16 (7) - 12 (5) | 0-3 |
 | 2026-10-24 | Serie A | Napoli 3-3 AS Roma | casa | 2-11 | 15 (9) - 24 (4) | 1-4 |
 | 2026-10-20 | Champions League | Napoli 4-3 Bodo/Glimt | casa | 2-5 | 17 (8) - 15 (6) | 3-0 |
 | 2026-10-17 | Serie A | Venezia 1-0 Napoli | fuera | 12-0 | 29 (10) - 9 (4) | 0-2 |
 | 2026-10-13 | Champions League | Villarreal 3-1 Napoli | fuera | 4-4 | 11 (3) - 16 (4) | 3-2 |
 | 2026-10-10 | Serie A | Napoli 3-0 Frosinone | casa | 6-4 | 19 (8) - 17 (1) | 2-0 |
-| 2026-09-20 | Serie A | Fiorentina 1-1 Napoli | fuera | 5-4 | 13 (5) - 17 (4) | 0-3 |
 
 ## Jugadores de Napoli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Di Lorenzo | D | 11 | 980 | 0 | 1 | 5 | 0,5 | 3 | 0,3 | 7 | 9 | 0,8 | 3 | 0 |
-| Amir Rrahmani | D | 10 | 900 | 1 | 1 | 7 | 0,7 | 2 | 0,2 | 8 | 6 | 0,6 | 1 | 0 |
-| Rafa Marín | D | 10 | 873 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 14 | 6 | 0,6 | 2 | 0 |
-| R. Højlund | F | 11 | 806 | 2 | 0 | 17 | 1,5 | 7 | 0,6 | 8 | 10 | 0,9 | 0 | 0 |
-| K. De Bruyne | M | 11 | 738 | 3 | 2 | 10 | 0,9 | 5 | 0,5 | 11 | 9 | 0,8 | 1 | 0 |
-| S. Lobotka | M | 11 | 736 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 4 | 14 | 1,3 | 0 | 0 |
+| G. Di Lorenzo | D | 12 | 1070 | 0 | 2 | 5 | 0,4 | 3 | 0,2 | 7 | 11 | 0,9 | 3 | 0 |
+| Rafa Marín | D | 11 | 963 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 15 | 6 | 0,5 | 2 | 0 |
+| Amir Rrahmani | D | 11 | 945 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
+| R. Højlund | F | 12 | 887 | 3 | 0 | 20 | 1,7 | 9 | 0,8 | 8 | 11 | 0,9 | 0 | 0 |
+| K. De Bruyne | M | 12 | 765 | 4 | 2 | 11 | 0,9 | 6 | 0,5 | 11 | 10 | 0,8 | 1 | 0 |
+| S. Lobotka | M | 12 | 753 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 4 | 15 | 1,2 | 0 | 0 |
+| M. Politano | F | 12 | 700 | 3 | 4 | 12 | 1,0 | 10 | 0,8 | 5 | 7 | 0,6 | 1 | 0 |
 | A. Meret | G | 8 | 675 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| M. Politano | F | 11 | 637 | 2 | 3 | 10 | 0,9 | 9 | 0,8 | 5 | 5 | 0,5 | 1 | 0 |
+| S. McTominay | M | 8 | 595 | 4 | 0 | 22 | 2,8 | 9 | 1,1 | 3 | 5 | 0,6 | 0 | 0 |
 | L. Spinazzola | D | 9 | 586 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| S. McTominay | M | 7 | 505 | 4 | 0 | 17 | 2,4 | 8 | 1,1 | 3 | 3 | 0,4 | 0 | 0 |
-| N. Lang | F | 8 | 443 | 1 | 0 | 14 | 1,8 | 7 | 0,9 | 4 | 4 | 0,5 | 1 | 0 |
-| Billy Gilmour | M | 7 | 426 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
-| A. Zambo Anguissa | M | 6 | 387 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 2 | 5 | 0,8 | 1 | 0 |
-| M. Olivera | D | 8 | 362 | 0 | 1 | 8 | 1,0 | 2 | 0,2 | 6 | 3 | 0,4 | 0 | 0 |
+| N. Lang | F | 9 | 533 | 1 | 1 | 15 | 1,7 | 8 | 0,9 | 4 | 5 | 0,6 | 1 | 0 |
+| B. Gilmour | M | 8 | 499 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,5 | 1 | 0 |
+| M. Olivera | D | 9 | 452 | 0 | 1 | 9 | 1,0 | 2 | 0,2 | 8 | 3 | 0,3 | 0 | 0 |
+| A. Zambo Anguissa | M | 7 | 450 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 2 | 6 | 0,9 | 1 | 0 |
+| V. Milinković-Savić | G | 5 | 405 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | B. Badiashile | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
-| Vanja Milinković-Savić | G | 4 | 315 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
-| Lorenzo Lucca | F | 9 | 201 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 1 | 0,1 | 1 | 0 |
+| L. Lucca | F | 10 | 210 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 1 | 0 |
+| A. Vergara | M | 6 | 200 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,3 | 1 | 0 |
 | David Neres | F | 6 | 174 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
-| A. Vergara | M | 5 | 173 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,65 · visitante 0,96 · córners esperados 9,8._
+_Goles esperados: local 1,54 · visitante 1,07 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 22% | 22% | 4.20 | -8% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 54% | 52% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.91 | -6% |
-| Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.91 | -3% |
-| Córners más/menos: Más de 8.5 | 56% | 56% | 56% | 1.67 | -6% |
-| Córners más/menos: Menos de 8.5 | 44% | 44% | 44% | 2.10 | -8% |
+| 1X2: 2 | 26% | 22% | 24% | 4.20 | +2% |
+| 1X2: X | 25% | 26% | 26% | 3.60 | -8% |
+| 1X2: 1 | 48% | 52% | 50% | 1.80 | -10% |
+| Goles más/menos: Más de 2.5 | 49% | 50% | 49% | 1.91 | -6% |
+| Goles más/menos: Menos de 2.5 | 51% | 50% | 51% | 1.91 | -3% |
+| Córners más/menos: Más de 8.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Córners más/menos: Menos de 8.5 | 44% | 44% | 44% | 2.10 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

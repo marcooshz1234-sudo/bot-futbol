@@ -1,7 +1,7 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -193,23 +193,23 @@ _Goles esperados: local 1,68 · visitante 1,31 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 29% | 29% | 3.20 | -6% |
+| 1X2: 2 | 30% | 29% | 30% | 3.20 | -5% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
 | 1X2: 1 | 46% | 46% | 46% | 2.05 | -6% |
 | Doble oportunidad: X2 | 54% | 55% | 54% | 1.73 | -6% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 70% | 70% | 70% | 1.36 | -5% |
-| Ambos marcan: No | 41% | 42% | 42% | 2.20 | -9% |
-| Ambos marcan: Sí | 59% | 58% | 58% | 1.62 | -5% |
+| Ambos marcan: No | 41% | 42% | 41% | 2.20 | -9% |
+| Ambos marcan: Sí | 59% | 58% | 59% | 1.62 | -5% |
 | Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
-| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -5% |
+| Goles más/menos: Más de 2.5 | 58% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -4% |
 | Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Menos de 2.5 | 42% | 45% | 44% | 2.10 | -8% |
 | Goles más/menos: Menos de 3.5 | 65% | 66% | 65% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 72% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 28% | 3.40 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
 | Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -8% |

@@ -1,10 +1,10 @@
 # Norwich – Watford
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **1.53**  ·  X **4.00**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.25**
@@ -196,7 +196,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 17% | 17% | 5.25 | -13% |
+| 1X2: 2 | 16% | 17% | 17% | 5.25 | -12% |
 | 1X2: X | 19% | 23% | 21% | 4.00 | -16% |
 | 1X2: 1 | 65% | 60% | 62% | 1.53 | -5% |
 | Doble oportunidad: X2 | 35% | 41% | 38% | 2.25 | -14% |
@@ -205,10 +205,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
 | Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -7% |
+| Goles más/menos: Más de 3.5 | 40% | 41% | 40% | 2.30 | -7% |
 | Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
+| Goles más/menos: Menos de 3.5 | 60% | 59% | 60% | 1.62 | -3% |
 | Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
@@ -224,7 +224,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
 | Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |
 | Córners más/menos: Menos de 9.5 | 58% | 50% | 54% | 1.83 | -1% |
-| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -8% |
 | 1X2 descanso: 1 | 47% | 45% | 46% | 2.05 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

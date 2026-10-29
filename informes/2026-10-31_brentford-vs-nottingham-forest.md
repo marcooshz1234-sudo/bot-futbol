@@ -1,10 +1,10 @@
 # Brentford – Nottingham Forest
-**Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Brentford Community Stadium
+**Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Gtech Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:01_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
@@ -76,53 +76,53 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Brentford (total) | Brentford en casa | Nottingham Forest (total) | Nottingham Forest fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 4 | 9 | 4 |
-| Forma (últimos 5) | EDEVV | DVEV | EDDDV | EDVE |
-| Balance | 4V 5E 1D | 2V 1E 1D | 1V 3E 5D | 1V 2E 1D |
-| Goles a favor / partido | 2,20 | 2,00 | 0,67 | 1,50 |
-| Goles en contra / partido | 1,10 | 0,75 | 1,33 | 1,75 |
-| Goles a favor 1ª parte | 1,10 | 0,75 | 0,33 | 0,75 |
-| Goles a favor 2ª parte | 1,10 | 1,25 | 0,33 | 0,75 |
-| Goles en contra 1ª parte | 0,40 | 0,00 | 0,33 | 0,75 |
-| Goles en contra 2ª parte | 0,70 | 0,75 | 1,00 | 1,00 |
+| Partidos analizados | 11 | 4 | 9 | 4 |
+| Forma (últimos 5) | DEDEV | DVEV | EDDDV | EDVE |
+| Balance | 4V 5E 2D | 2V 1E 1D | 1V 3E 5D | 1V 2E 1D |
+| Goles a favor / partido | 2,18 | 2,00 | 0,67 | 1,50 |
+| Goles en contra / partido | 1,27 | 0,75 | 1,33 | 1,75 |
+| Goles a favor 1ª parte | 1,09 | 0,75 | 0,33 | 0,75 |
+| Goles a favor 2ª parte | 1,09 | 1,25 | 0,33 | 0,75 |
+| Goles en contra 1ª parte | 0,64 | 0,00 | 0,33 | 0,75 |
+| Goles en contra 2ª parte | 0,64 | 0,75 | 1,00 | 1,00 |
 | Más de 1,5 goles | 100% | 100% | 56% | 100% |
-| Más de 2,5 goles | 70% | 75% | 33% | 75% |
-| Más de 3,5 goles | 30% | 0% | 22% | 50% |
-| Ambos marcan | 80% | 50% | 44% | 100% |
-| Portería a cero | 20% | 50% | 11% | 0% |
+| Más de 2,5 goles | 73% | 75% | 33% | 75% |
+| Más de 3,5 goles | 36% | 0% | 22% | 50% |
+| Ambos marcan | 82% | 50% | 44% | 100% |
+| Portería a cero | 18% | 50% | 11% | 0% |
 | Se queda sin marcar | 0% | 0% | 56% | 0% |
-| xG a favor | 1,75 | 2,15 | 1,67 | 2,56 |
-| xG en contra | 1,42 | 1,19 | 1,28 | 1,37 |
+| xG a favor | 1,86 | 2,15 | 1,67 | 2,56 |
+| xG en contra | 1,52 | 1,19 | 1,28 | 1,37 |
 | Tiros / partido | 16,1 | 15,2 | 16,1 | 18,8 |
-| Tiros a puerta / partido | 5,1 | 4,5 | 3,7 | 5,2 |
-| Tiros recibidos | 14,5 | 14,0 | 10,4 | 10,0 |
+| Tiros a puerta / partido | 5,3 | 4,5 | 3,7 | 5,2 |
+| Tiros recibidos | 13,8 | 14,0 | 10,4 | 10,0 |
 | Tiros a puerta recibidos | 4,2 | 4,0 | 3,4 | 4,8 |
-| Posesión media % | 49 | 42 | 46 | 46 |
+| Posesión media % | 51 | 42 | 46 | 46 |
 | Córners a favor | 4,7 | 4,5 | 4,6 | 4,8 |
-| Córners en contra | 5,0 | 6,8 | 4,0 | 3,5 |
-| Córners a favor 1ª parte | 2,3 | 2,5 | 2,0 | 2,2 |
+| Córners en contra | 4,5 | 6,8 | 4,0 | 3,5 |
+| Córners a favor 1ª parte | 2,4 | 2,5 | 2,0 | 2,2 |
 | Córners a favor 2ª parte | 2,4 | 2,0 | 2,6 | 2,5 |
-| Córners totales del partido | 9,7 | 11,2 | 8,6 | 8,2 |
-| Córners totales 1ª parte | 4,0 | 4,8 | 4,0 | 4,5 |
-| Córners totales 2ª parte | 5,7 | 6,5 | 4,6 | 3,8 |
-| Más de 8,5 córners | 70% | 75% | 33% | 25% |
-| Más de 9,5 córners | 70% | 75% | 33% | 25% |
-| Más de 10,5 córners | 60% | 50% | 33% | 25% |
-| Faltas cometidas | 13,5 | 13,2 | 13,9 | 11,8 |
-| Faltas recibidas | 9,2 | 10,8 | 11,3 | 11,0 |
-| Amarillas propias | 2,2 | 2,5 | 2,3 | 2,5 |
+| Córners totales del partido | 9,3 | 11,2 | 8,6 | 8,2 |
+| Córners totales 1ª parte | 3,9 | 4,8 | 4,0 | 4,5 |
+| Córners totales 2ª parte | 5,4 | 6,5 | 4,6 | 3,8 |
+| Más de 8,5 córners | 64% | 75% | 33% | 25% |
+| Más de 9,5 córners | 64% | 75% | 33% | 25% |
+| Más de 10,5 córners | 55% | 50% | 33% | 25% |
+| Faltas cometidas | 13,9 | 13,2 | 13,9 | 11,8 |
+| Faltas recibidas | 9,1 | 10,8 | 11,3 | 11,0 |
+| Amarillas propias | 2,3 | 2,5 | 2,3 | 2,5 |
 | Amarillas del rival | 1,5 | 1,5 | 1,8 | 2,2 |
-| Rojas / partido | 0,20 | 0,50 | 0,00 | 0,00 |
+| Rojas / partido | 0,18 | 0,50 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Brentford | Recibe Brentford | Tarjetas Brentford | Goles Nottingham Forest | Recibe Nottingham Forest | Tarjetas Nottingham Forest |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 1 | 0 | 2 | 0 | 0 |
-| 16-30' | 0 | 2 | 4 | 1 | 0 | 2 |
-| 31-45' | 7 | 2 | 3 | 0 | 3 | 3 |
+| 16-30' | 0 | 4 | 4 | 1 | 0 | 2 |
+| 31-45' | 8 | 3 | 3 | 0 | 3 | 3 |
 | 46-60' | 3 | 1 | 2 | 1 | 4 | 7 |
-| 61-75' | 4 | 3 | 5 | 1 | 2 | 3 |
-| 76-90' | 4 | 3 | 10 | 1 | 3 | 6 |
+| 61-75' | 4 | 3 | 6 | 1 | 2 | 3 |
+| 76-90' | 5 | 3 | 12 | 1 | 3 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -140,36 +140,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Brentford
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | fuera | 5-0 | 16 (7) - 7 (4) | 3-1 |
 | 2026-10-25 | Premier League | Hull City 1-1 Brentford | fuera | 6-5 | 14 (6) - 12 (2) | 1-0 |
 | 2026-10-17 | Premier League | Brentford 1-2 Liverpool | casa | 3-9 | 10 (2) - 21 (5) | 4-3 |
 | 2026-10-10 | Premier League | Aston Villa 2-2 Brentford | fuera | 2-2 | 14 (4) - 20 (7) | 5-2 |
 | 2026-09-18 | Premier League | Brentford 3-0 Chelsea | casa | 4-12 | 13 (6) - 12 (2) | 2-0 |
 | 2026-09-15 | Carabao Cup | Reading 1-2 Brentford | fuera | 7-5 | 24 (8) - 17 (3) | 0-0 |
-| 2026-09-12 | Premier League | Bournemouth 2-2 Brentford | fuera | 1-2 | 8 (2) - 20 (10) | 1-5 |
 
 ## Jugadores de Brentford
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Ajer | D | 9 | 810 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 6 | 0,7 | 2 | 0 |
-| Thiago | F | 10 | 754 | 2 | 2 | 19 | 1,9 | 7 | 0,7 | 14 | 4 | 0,4 | 4 | 0 |
+| Thiago | F | 11 | 844 | 3 | 2 | 22 | 2,0 | 9 | 0,8 | 15 | 4 | 0,4 | 4 | 0 |
+| K. Ajer | D | 10 | 829 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 6 | 0,6 | 2 | 0 |
+| V. Janelt | M | 9 | 791 | 2 | 1 | 5 | 0,6 | 3 | 0,3 | 17 | 4 | 0,4 | 7 | 1 |
 | K. Lewis-Potter | D | 10 | 740 | 2 | 1 | 9 | 0,9 | 4 | 0,4 | 12 | 8 | 0,8 | 0 | 0 |
+| M. Kayode | D | 11 | 735 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 10 | 10 | 0,9 | 1 | 0 |
 | C. Kelleher | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Vitaly Janelt | M | 8 | 701 | 2 | 0 | 2 | 0,2 | 2 | 0,2 | 13 | 3 | 0,4 | 6 | 1 |
-| M. Kayode | D | 10 | 676 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 10 | 1,0 | 1 | 0 |
-| K. Schade | M | 9 | 652 | 3 | 0 | 14 | 1,6 | 7 | 0,8 | 5 | 11 | 1,2 | 1 | 0 |
-| M. Sangaré | M | 10 | 585 | 0 | 2 | 7 | 0,7 | 1 | 0,1 | 11 | 6 | 0,6 | 2 | 0 |
-| J. Anthony | F | 10 | 563 | 1 | 4 | 11 | 1,1 | 4 | 0,4 | 8 | 5 | 0,5 | 1 | 0 |
-| M. Damsgaard | M | 9 | 507 | 1 | 0 | 8 | 0,9 | 2 | 0,2 | 3 | 3 | 0,3 | 0 | 0 |
-| D. Ouattara | M | 10 | 448 | 1 | 2 | 12 | 1,2 | 4 | 0,4 | 6 | 5 | 0,5 | 0 | 0 |
+| K. Schade | M | 10 | 671 | 3 | 0 | 14 | 1,4 | 7 | 0,7 | 6 | 12 | 1,2 | 2 | 0 |
+| M. Sangaré | M | 11 | 644 | 0 | 2 | 8 | 0,7 | 2 | 0,2 | 13 | 6 | 0,5 | 2 | 0 |
+| J. Anthony | M | 11 | 634 | 1 | 4 | 11 | 1,0 | 4 | 0,4 | 9 | 6 | 0,5 | 1 | 0 |
+| M. Damsgaard | M | 10 | 597 | 1 | 0 | 10 | 1,0 | 2 | 0,2 | 3 | 4 | 0,4 | 0 | 0 |
+| Jannik Schuster | D | 7 | 507 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 11 | 4 | 0,6 | 2 | 0 |
+| D. Ouattara | F | 11 | 479 | 1 | 2 | 12 | 1,1 | 4 | 0,4 | 6 | 5 | 0,5 | 0 | 0 |
 | Yehor Yarmoliuk | M | 9 | 428 | 1 | 2 | 5 | 0,6 | 2 | 0,2 | 10 | 2 | 0,2 | 1 | 1 |
-| Jannik Schuster | D | 6 | 417 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 9 | 3 | 0,5 | 1 | 0 |
-| A. Hickey | M | 10 | 382 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 7 | 7 | 0,7 | 1 | 0 |
-| Nathan Collins | D | 4 | 287 | 2 | 0 | 6 | 1,5 | 4 | 1,0 | 3 | 6 | 1,5 | 1 | 0 |
-| M. Jensen | M | 4 | 225 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 4 | 4 | 1,0 | 0 | 0 |
-| E. Diouf | D | 6 | 215 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
-| C. Wilson | F | 7 | 188 | 2 | 0 | 5 | 0,7 | 3 | 0,4 | 6 | 3 | 0,4 | 1 | 0 |
+| A. Hickey | D | 11 | 413 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 8 | 8 | 0,7 | 1 | 0 |
+| N. Collins | D | 5 | 358 | 2 | 0 | 7 | 1,4 | 5 | 1,0 | 4 | 6 | 1,2 | 1 | 0 |
+| E. Diouf | D | 7 | 305 | 0 | 0 | 5 | 0,7 | 0 | 0,0 | 7 | 4 | 0,6 | 0 | 0 |
+| M. Jensen | M | 5 | 256 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 4 | 4 | 0,8 | 0 | 0 |
+| C. Wilson | M | 8 | 247 | 3 | 0 | 8 | 1,0 | 5 | 0,6 | 7 | 4 | 0,5 | 1 | 0 |
+| H. Valdimarsson | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 | R. Henry | D | 3 | 163 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| S. van den Berg | D | 2 | 161 | 0 | 0 | 2 | 1,0 | 2 | 1,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Nottingham Forest
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -206,40 +206,40 @@ _Sin bajas comunicadas por ahora._
 | L. Netz | D | 5 | 75 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 0,96 · córners esperados 9,5._
+_Goles esperados: local 1,81 · visitante 1,05 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 26% | 23% | 3.60 | -16% |
-| 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
+| 1X2: 2 | 22% | 26% | 24% | 3.60 | -14% |
+| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
 | 1X2: 1 | 55% | 47% | 51% | 2.00 | +2% |
 | Doble oportunidad: X2 | 45% | 52% | 48% | 1.80 | -13% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 79% | 75% | 77% | 1.25 | -4% |
-| Ambos marcan: No | 49% | 42% | 46% | 2.20 | +1% |
-| Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
-| Goles más/menos: Más de 1.5 | 75% | 78% | 76% | 1.22 | -7% |
-| Goles más/menos: Más de 2.5 | 50% | 55% | 53% | 1.73 | -9% |
-| Goles más/menos: Más de 3.5 | 28% | 34% | 31% | 2.75 | -14% |
-| Goles más/menos: Menos de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 50% | 45% | 47% | 2.10 | -0% |
-| Goles más/menos: Menos de 3.5 | 72% | 66% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Goles del local: Más de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Más de 2.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles del local: Menos de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Menos de 2.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
-| Córners más/menos: Más de 9.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Córners más/menos: Menos de 9.5 | 55% | 46% | 51% | 2.00 | +2% |
-| 1X2 descanso: 2 | 19% | 23% | 21% | 4.00 | -17% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 40% | 37% | 38% | 2.50 | -4% |
+| Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 78% | 75% | 77% | 1.25 | -4% |
+| Ambos marcan: No | 46% | 42% | 44% | 2.20 | -3% |
+| Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -9% |
+| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
+| Goles más/menos: Más de 2.5 | 54% | 55% | 55% | 1.73 | -5% |
+| Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
+| Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
+| Goles del local: Más de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Más de 2.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles del local: Menos de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Goles del local: Menos de 2.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles del visitante: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
+| Goles del visitante: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles del visitante: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
+| Goles del visitante: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Córners más/menos: Más de 9.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Córners más/menos: Menos de 9.5 | 56% | 46% | 51% | 2.00 | +3% |
+| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -15% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 40% | 37% | 39% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

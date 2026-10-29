@@ -1,10 +1,10 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.73**  ·  X **3.90**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **2.05**
@@ -207,13 +207,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 50% | 62% | 56% | 1.53 | -14% |
 | Goles más/menos: Más de 3.5 | 28% | 41% | 35% | 2.30 | -20% |
 | Goles más/menos: Más de 4.5 | 14% | 24% | 19% | 4.00 | -25% |
-| Goles más/menos: Menos de 2.5 | 50% | 38% | 44% | 2.50 | +10% |
+| Goles más/menos: Menos de 2.5 | 50% | 38% | 44% | 2.50 | +9% |
 | Goles más/menos: Menos de 3.5 | 72% | 59% | 65% | 1.62 | +6% |
 | Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 42% | 37% | 2.20 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 42% | 37% | 2.20 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 58% | 63% | 1.62 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 58% | 63% | 1.62 | +1% |
 | Goles del local: Más de 1.5 | 41% | 59% | 50% | 1.57 | -21% |
 | Goles del local: Más de 2.5 | 17% | 34% | 25% | 2.75 | -30% |
 | Goles del local: Menos de 1.5 | 59% | 41% | 50% | 2.25 | +12% |

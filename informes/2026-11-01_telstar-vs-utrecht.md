@@ -1,7 +1,7 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 07:59_
@@ -193,10 +193,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 41% | 39% | 2.30 | -9% |
+| 1X2: 2 | 38% | 41% | 40% | 2.30 | -9% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -8% |
-| 1X2: 1 | 38% | 34% | 36% | 2.75 | -2% |
-| Doble oportunidad: X2 | 62% | 67% | 65% | 1.40 | -9% |
+| 1X2: 1 | 37% | 34% | 36% | 2.75 | -2% |
+| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
 | Doble oportunidad: 12 | 76% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 62% | 60% | 61% | 1.57 | -5% |
 | Ambos marcan: No | 40% | 35% | 38% | 2.62 | -2% |
@@ -211,15 +211,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 42% | 40% | 2.20 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles del local: Más de 1.5 | 44% | 46% | 45% | 2.00 | -10% |
 | Goles del local: Más de 2.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -8% |
+| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -8% |
 | Goles del local: Menos de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
 | Goles del local: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles del visitante: Más de 1.5 | 45% | 50% | 47% | 1.83 | -14% |
+| Goles del visitante: Más de 1.5 | 45% | 50% | 47% | 1.83 | -13% |
 | Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del visitante: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -3% |
+| Goles del visitante: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -4% |
 | Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
 | Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |

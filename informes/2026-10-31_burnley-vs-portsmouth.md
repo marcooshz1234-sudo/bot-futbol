@@ -1,10 +1,10 @@
 # Burnley – Portsmouth
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.95**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.80**
@@ -195,16 +195,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 26% | 34% | 3.50 | +19% |
 | 1X2: X | 26% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 | 33% | 47% | 40% | 1.95 | -23% |
-| Doble oportunidad: X2 | 67% | 53% | 60% | 1.80 | +8% |
+| 1X2: 1 | 32% | 47% | 40% | 1.95 | -23% |
+| Doble oportunidad: X2 | 68% | 53% | 60% | 1.80 | +8% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 58% | 74% | 66% | 1.28 | -15% |
 | Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
 | Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
-| Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.28 | -4% |
+| Goles más/menos: Más de 1.5 | 76% | 75% | 75% | 1.28 | -4% |
 | Goles más/menos: Más de 2.5 | 51% | 50% | 51% | 1.91 | -3% |
 | Goles más/menos: Más de 3.5 | 29% | 28% | 29% | 3.40 | -3% |
-| Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles más/menos: Menos de 1.5 | 24% | 25% | 25% | 3.75 | -6% |
 | Goles más/menos: Menos de 2.5 | 49% | 50% | 49% | 1.91 | -6% |
 | Goles más/menos: Menos de 3.5 | 71% | 72% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |

@@ -1,7 +1,7 @@
 # Frosinone – Torino
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -190,40 +190,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | G. Oristanio | M | 4 | 133 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,77 · visitante 1,43 · córners esperados 10,1._
+_Goles esperados: local 1,78 · visitante 1,40 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 31% | 31% | 3.00 | -7% |
+| 1X2: 2 | 30% | 31% | 31% | 3.00 | -8% |
 | 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
-| 1X2: 1 | 46% | 43% | 44% | 2.15 | -4% |
-| Doble oportunidad: X2 | 54% | 57% | 55% | 1.67 | -7% |
+| 1X2: 1 | 47% | 43% | 45% | 2.15 | -4% |
+| Doble oportunidad: X2 | 53% | 57% | 55% | 1.67 | -8% |
 | Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
-| Doble oportunidad: 1X | 69% | 70% | 69% | 1.36 | -6% |
+| Doble oportunidad: 1X | 70% | 70% | 70% | 1.36 | -5% |
 | Ambos marcan: No | 37% | 35% | 36% | 2.62 | -5% |
 | Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 3.5 | 40% | 41% | 41% | 2.30 | -7% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -8% |
+| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -7% |
+| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
 | Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles más/menos: Menos de 3.5 | 60% | 59% | 59% | 1.62 | -4% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
+| Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
+| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Goles del local: Más de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles del local: Más de 2.5 | 26% | 27% | 26% | 3.50 | -7% |
+| Goles del local: Más de 2.5 | 26% | 27% | 27% | 3.50 | -7% |
 | Goles del local: Menos de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
-| Goles del local: Menos de 2.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles del visitante: Más de 0.5 | 76% | 75% | 76% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -8% |
-| Goles del visitante: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -8% |
-| Córners más/menos: Menos de 9.5 | 50% | 49% | 49% | 1.91 | -6% |
-| 1X2 descanso: 2 | 26% | 27% | 27% | 3.40 | -9% |
+| Goles del local: Menos de 2.5 | 74% | 73% | 73% | 1.28 | -6% |
+| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
+| Goles del visitante: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
+| Córners más/menos: Más de 9.5 | 51% | 51% | 51% | 1.80 | -8% |
+| Córners más/menos: Menos de 9.5 | 49% | 49% | 49% | 1.91 | -6% |
+| 1X2 descanso: 2 | 26% | 27% | 26% | 3.40 | -10% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -8% |
-| 1X2 descanso: 1 | 35% | 35% | 35% | 2.62 | -8% |
+| 1X2 descanso: 1 | 36% | 35% | 35% | 2.62 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

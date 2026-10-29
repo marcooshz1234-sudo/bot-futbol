@@ -1,7 +1,7 @@
 # Sassuolo – Fiorentina
 **Serie A** · Regular Season - 10 · 02/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:02_
@@ -191,44 +191,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Pedro Gonçalves | M | 6 | 147 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,72 · visitante 1,49 · córners esperados 9,2._
+_Goles esperados: local 1,69 · visitante 1,50 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 40% | 37% | 2.35 | -14% |
-| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
-| 1X2: 1 ✅ | 43% | 33% | 38% | 2.80 | +8% |
-| Doble oportunidad: X2 | 57% | 67% | 62% | 1.40 | -14% |
+| 1X2: 2 | 34% | 40% | 37% | 2.35 | -13% |
+| 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
+| 1X2: 1 ✅ | 42% | 33% | 38% | 2.80 | +6% |
+| Doble oportunidad: X2 | 58% | 67% | 62% | 1.40 | -13% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 67% | 60% | 63% | 1.57 | -1% |
-| Ambos marcan: No | 36% | 39% | 38% | 2.38 | -10% |
-| Ambos marcan: Sí | 64% | 61% | 62% | 1.53 | -5% |
+| Doble oportunidad: 1X | 66% | 60% | 63% | 1.57 | -2% |
+| Ambos marcan: No | 37% | 39% | 38% | 2.38 | -10% |
+| Ambos marcan: Sí | 63% | 61% | 62% | 1.53 | -5% |
 | Goles más/menos: Más de 1.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles más/menos: Más de 2.5 | 62% | 59% | 60% | 1.62 | -2% |
-| Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles más/menos: Más de 4.5 | 22% | 21% | 22% | 4.50 | -3% |
+| Goles más/menos: Más de 3.5 | 39% | 38% | 39% | 2.50 | -3% |
+| Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -4% |
 | Goles más/menos: Menos de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles más/menos: Menos de 2.5 | 38% | 41% | 40% | 2.30 | -9% |
-| Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
-| Goles más/menos: Menos de 4.5 | 78% | 79% | 78% | 1.20 | -6% |
+| Goles más/menos: Menos de 3.5 | 61% | 62% | 61% | 1.53 | -6% |
+| Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles del local: Más de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
-| Goles del local: Menos de 0.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles del local: Menos de 1.5 | 49% | 58% | 53% | 1.62 | -14% |
-| Goles del visitante: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles del visitante: Más de 1.5 | 44% | 49% | 46% | 1.91 | -12% |
-| Goles del visitante: Más de 2.5 | 19% | 23% | 21% | 4.00 | -16% |
-| Goles del visitante: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles del local: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
+| Goles del local: Más de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
+| Goles del local: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del local: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
+| Goles del visitante: Más de 0.5 | 78% | 79% | 78% | 1.18 | -7% |
+| Goles del visitante: Más de 1.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Goles del visitante: Más de 2.5 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles del visitante: Menos de 0.5 | 22% | 21% | 22% | 4.50 | -3% |
 | Goles del visitante: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -3% |
 | Goles del visitante: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Córners más/menos: Más de 8.5 | 51% | 54% | 53% | 1.73 | -9% |
-| Córners más/menos: Menos de 8.5 | 49% | 46% | 47% | 2.00 | -5% |
-| 1X2 descanso: 2 | 28% | 32% | 30% | 2.88 | -14% |
-| 1X2 descanso: X | 38% | 39% | 39% | 2.38 | -8% |
-| 1X2 descanso: 1 | 34% | 29% | 31% | 3.25 | +2% |
+| Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -5% |
+| 1X2 descanso: 2 | 28% | 32% | 30% | 2.88 | -13% |
+| 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -8% |
+| 1X2 descanso: 1 | 33% | 29% | 31% | 3.25 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

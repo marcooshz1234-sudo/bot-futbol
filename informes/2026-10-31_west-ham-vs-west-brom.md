@@ -1,10 +1,10 @@
 # West Ham – West Brom
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 14:01_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.53**  ·  X **4.20**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.38**
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | Matt Ingram | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,64 · visitante 1,26 · córners esperados 10,4._
+_Goles esperados: local 2,65 · visitante 1,26 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,20 +202,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 33% | 40% | 37% | 2.38 | -13% |
 | Doble oportunidad: 12 | 83% | 78% | 81% | 1.22 | -2% |
 | Doble oportunidad: 1X | 84% | 82% | 83% | 1.17 | -3% |
-| Ambos marcan: No | 34% | 44% | 39% | 2.10 | -18% |
-| Ambos marcan: Sí | 66% | 56% | 61% | 1.67 | +2% |
+| Ambos marcan: No | 33% | 44% | 39% | 2.10 | -18% |
+| Ambos marcan: Sí | 67% | 56% | 61% | 1.67 | +2% |
 | Goles más/menos: Más de 1.5 | 90% | 79% | 85% | 1.20 | +1% |
 | Goles más/menos: Más de 2.5 | 75% | 59% | 67% | 1.62 | +8% |
 | Goles más/menos: Más de 3.5 | 55% | 38% | 46% | 2.50 | +16% |
 | Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +24% |
 | Goles más/menos: Menos de 1.5 | 10% | 21% | 15% | 4.50 | -30% |
-| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -23% |
+| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -24% |
 | Goles más/menos: Menos de 3.5 | 45% | 62% | 54% | 1.53 | -18% |
 | Goles más/menos: Menos de 4.5 | 65% | 78% | 71% | 1.22 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Más de 1.5 | 74% | 61% | 67% | 1.53 | +3% |
 | Goles del local: Más de 2.5 | 49% | 35% | 42% | 2.62 | +11% |
 | Goles del local: Menos de 1.5 | 26% | 39% | 33% | 2.38 | -23% |
@@ -224,9 +224,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 36% | 28% | 32% | 3.40 | +8% |
 | Goles del visitante: Menos de 0.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles del visitante: Menos de 1.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -15% |
 | Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +2% |
 | 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
-| 1X2 descanso: 1 | 50% | 46% | 48% | 2.05 | -2% |
+| 1X2 descanso: 1 | 51% | 46% | 48% | 2.05 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

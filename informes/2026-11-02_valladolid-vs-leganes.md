@@ -1,7 +1,7 @@
 # Valladolid – Leganes
 **Segunda División** · Regular Season - 12 · 02/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 24% | 25% | 24% | 3.70 | -9% |
+| 1X2: 2 | 24% | 25% | 25% | 3.70 | -9% |
 | 1X2: X | 26% | 28% | 27% | 3.25 | -12% |
 | 1X2: 1 | 50% | 47% | 48% | 1.95 | -6% |
 | Doble oportunidad: X2 | 50% | 53% | 52% | 1.80 | -7% |
@@ -212,14 +212,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del local: Más de 1.5 | 45% | 44% | 44% | 2.10 | -7% |
-| Goles del local: Más de 2.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles del local: Más de 2.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -9% |
 | Goles del local: Menos de 1.5 | 55% | 56% | 56% | 1.67 | -7% |
 | Goles del local: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -6% |
 | Goles del visitante: Más de 0.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del visitante: Más de 1.5 | 25% | 28% | 26% | 3.40 | -10% |
+| Goles del visitante: Más de 1.5 | 25% | 28% | 27% | 3.40 | -10% |
 | Goles del visitante: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
+| Goles del visitante: Menos de 1.5 | 75% | 72% | 73% | 1.30 | -4% |
 | Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -12% |
 | Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: 2 | 20% | 21% | 21% | 4.33 | -10% |

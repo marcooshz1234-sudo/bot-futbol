@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -199,34 +199,34 @@ _Sin bajas comunicadas por ahora._
 | B. Nadir | M | 5 | 238 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,25 · visitante 1,26 · córners esperados 9,1._
+_Goles esperados: local 2,26 · visitante 1,27 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 21% | 21% | 4.50 | -7% |
+| 1X2: 2 | 21% | 21% | 21% | 4.50 | -7% |
 | 1X2: X | 20% | 22% | 21% | 4.20 | -12% |
 | 1X2: 1 | 60% | 57% | 58% | 1.65 | -4% |
 | Doble oportunidad: X2 | 40% | 43% | 42% | 2.20 | -9% |
 | Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 80% | 80% | 80% | 1.18 | -6% |
+| Doble oportunidad: 1X | 79% | 80% | 80% | 1.18 | -6% |
 | Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
 | Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
 | Goles más/menos: Más de 2.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 3.5 | 46% | 45% | 46% | 2.10 | -4% |
-| Goles más/menos: Más de 4.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles más/menos: Más de 3.5 | 47% | 45% | 46% | 2.10 | -3% |
+| Goles más/menos: Más de 4.5 | 28% | 27% | 28% | 3.50 | -4% |
 | Goles más/menos: Menos de 2.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Menos de 3.5 | 54% | 55% | 54% | 1.73 | -6% |
-| Goles más/menos: Menos de 4.5 | 72% | 73% | 73% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 22% | 21% | 4.33 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles más/menos: Menos de 3.5 | 53% | 55% | 54% | 1.73 | -7% |
+| Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 77% | 77% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 46% | 46% | 2.00 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 2.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles del local: Menos de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del local: Menos de 2.5 | 61% | 62% | 62% | 1.50 | -7% |
+| Goles del local: Menos de 2.5 | 61% | 62% | 62% | 1.50 | -8% |
 | Goles del visitante: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles del visitante: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles del visitante: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
@@ -235,6 +235,6 @@ _Goles esperados: local 2,25 · visitante 1,26 · córners esperados 9,1._
 | Córners más/menos: Menos de 9.5 | 58% | 49% | 53% | 1.91 | +2% |
 | 1X2 descanso: 2 | 20% | 21% | 20% | 4.50 | -9% |
 | 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -8% |
-| 1X2 descanso: 1 | 45% | 44% | 44% | 2.10 | -7% |
+| 1X2 descanso: 1 | 45% | 44% | 45% | 2.10 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

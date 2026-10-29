@@ -1,7 +1,7 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | A. Sadybekov | M | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,95 · visitante 0,57 · córners esperados 9,1._
+_Goles esperados: local 1,94 · visitante 0,57 · córners esperados 9,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

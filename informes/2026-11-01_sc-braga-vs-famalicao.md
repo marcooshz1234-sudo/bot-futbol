@@ -1,7 +1,7 @@
 # SC Braga – Famalicao
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 19:56_
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 11% | 23% | 17% | 4.00 | -32% |
 | Goles del visitante: Menos de 0.5 | 58% | 42% | 50% | 2.20 | +10% |
 | Goles del visitante: Menos de 1.5 | 89% | 77% | 83% | 1.22 | +1% |
-| 1X2 descanso: X | 49% | 42% | 46% | 2.20 | +1% |
+| 1X2 descanso: X | 49% | 42% | 46% | 2.20 | +0% |
 | 1X2 descanso: 1 | 39% | 39% | 39% | 2.38 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

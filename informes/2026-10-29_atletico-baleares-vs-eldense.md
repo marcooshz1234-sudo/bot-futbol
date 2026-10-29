@@ -1,31 +1,36 @@
 # Atlético Baleares – Eldense
 **Copa del Rey** · Round of 128 · 29/10/2026 19:00 (hora España) · Estadio Balear
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:55_
+_Actualizadas: 29/10 02:00_
 
-- **1X2:** 1 **4.33**  ·  X **3.80**  ·  2 **1.62**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.18**
+- **1X2:** 1 **3.80**  ·  X **3.60**  ·  2 **1.75**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
     - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.30**  ·  2 **2.20**
+    - 9,5: más **1.90** · menos **1.90**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.25**  ·  2 **2.38**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.75**  ·  2 **1.36**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.62**
-- **Win Both Halves:** 1 **21.00**  ·  2 **4.33**
-- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.60**  ·  Home/No **8.00**  ·  Draw/No **12.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.40**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.75**
+- **Win Both Halves:** 1 **17.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **11.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.38**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 
 ## Estadísticas de equipo
 | | Atlético Baleares (total) | Atlético Baleares en casa | Eldense (total) | Eldense fuera |

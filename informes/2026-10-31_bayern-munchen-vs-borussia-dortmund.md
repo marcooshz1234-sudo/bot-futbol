@@ -1,10 +1,10 @@
 # Bayern München – Borussia Dortmund
 **Bundesliga** · Regular Season - 8 · 31/10/2026 18:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 02:02_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -76,53 +76,53 @@ _Actualizadas: 28/10 19:56_
 ## Estadísticas de equipo
 | | Bayern München (total) | Bayern München en casa | Borussia Dortmund (total) | Borussia Dortmund fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | VEVEE | EVVVV | VVVED | VEDVV |
-| Balance | 7V 4E 0D | 4V 1E 0D | 9V 2E 1D | 4V 1E 1D |
-| Goles a favor / partido | 3,55 | 5,00 | 2,08 | 1,83 |
-| Goles en contra / partido | 1,09 | 0,80 | 0,83 | 0,67 |
-| Goles a favor 1ª parte | 1,18 | 1,60 | 0,83 | 0,83 |
-| Goles a favor 2ª parte | 2,36 | 3,40 | 1,25 | 1,00 |
-| Goles en contra 1ª parte | 0,45 | 0,20 | 0,17 | 0,33 |
-| Goles en contra 2ª parte | 0,64 | 0,60 | 0,67 | 0,33 |
-| Más de 1,5 goles | 91% | 100% | 67% | 50% |
-| Más de 2,5 goles | 91% | 100% | 58% | 50% |
-| Más de 3,5 goles | 82% | 100% | 42% | 33% |
-| Ambos marcan | 73% | 60% | 42% | 33% |
-| Portería a cero | 27% | 40% | 50% | 50% |
-| Se queda sin marcar | 9% | 0% | 17% | 33% |
-| xG a favor | 3,25 | 3,26 | 1,88 | 1,81 |
-| xG en contra | 0,91 | 0,80 | 1,08 | 1,11 |
-| Tiros / partido | 22,5 | 22,2 | 17,0 | 16,8 |
-| Tiros a puerta / partido | 9,5 | 11,6 | 5,9 | 5,5 |
-| Tiros recibidos | 8,5 | 8,6 | 10,8 | 11,2 |
-| Tiros a puerta recibidos | 3,1 | 3,0 | 3,4 | 3,2 |
-| Posesión media % | 65 | 59 | 56 | 54 |
-| Córners a favor | 8,7 | 7,6 | 7,6 | 7,7 |
-| Córners en contra | 3,3 | 3,2 | 4,1 | 5,2 |
-| Córners a favor 1ª parte | 4,2 | 4,2 | 3,6 | 3,7 |
-| Córners a favor 2ª parte | 4,5 | 3,4 | 4,0 | 4,0 |
-| Córners totales del partido | 12,0 | 10,8 | 11,7 | 12,8 |
-| Córners totales 1ª parte | 5,7 | 5,8 | 5,2 | 5,8 |
-| Córners totales 2ª parte | 6,3 | 5,0 | 6,5 | 7,0 |
-| Más de 8,5 córners | 82% | 80% | 75% | 83% |
-| Más de 9,5 córners | 73% | 60% | 75% | 83% |
-| Más de 10,5 córners | 73% | 60% | 58% | 67% |
-| Faltas cometidas | 10,1 | 11,4 | 10,9 | 10,2 |
-| Faltas recibidas | 8,8 | 9,2 | 10,6 | 10,0 |
-| Amarillas propias | 0,9 | 0,6 | 1,7 | 2,0 |
-| Amarillas del rival | 1,9 | 1,8 | 2,0 | 2,3 |
-| Rojas / partido | 0,09 | 0,00 | 0,08 | 0,00 |
+| Partidos analizados | 12 | 6 | 12 | 6 |
+| Forma (últimos 5) | VVEVE | VEVVV | VVVED | VEDVV |
+| Balance | 8V 4E 0D | 5V 1E 0D | 9V 2E 1D | 4V 1E 1D |
+| Goles a favor / partido | 3,75 | 5,17 | 2,08 | 1,83 |
+| Goles en contra / partido | 1,08 | 0,83 | 0,83 | 0,67 |
+| Goles a favor 1ª parte | 1,25 | 1,67 | 0,83 | 0,83 |
+| Goles a favor 2ª parte | 2,50 | 3,50 | 1,25 | 1,00 |
+| Goles en contra 1ª parte | 0,50 | 0,33 | 0,17 | 0,33 |
+| Goles en contra 2ª parte | 0,58 | 0,50 | 0,67 | 0,33 |
+| Más de 1,5 goles | 92% | 100% | 67% | 50% |
+| Más de 2,5 goles | 92% | 100% | 58% | 50% |
+| Más de 3,5 goles | 83% | 100% | 42% | 33% |
+| Ambos marcan | 75% | 67% | 42% | 33% |
+| Portería a cero | 25% | 33% | 50% | 50% |
+| Se queda sin marcar | 8% | 0% | 17% | 33% |
+| xG a favor | 3,32 | 3,38 | 1,88 | 1,81 |
+| xG en contra | 0,91 | 0,81 | 1,08 | 1,11 |
+| Tiros / partido | 22,2 | 21,7 | 17,0 | 16,8 |
+| Tiros a puerta / partido | 9,4 | 11,0 | 5,9 | 5,5 |
+| Tiros recibidos | 8,6 | 8,7 | 10,8 | 11,2 |
+| Tiros a puerta recibidos | 3,0 | 2,8 | 3,4 | 3,2 |
+| Posesión media % | 64 | 60 | 56 | 54 |
+| Córners a favor | 8,5 | 7,3 | 7,6 | 7,7 |
+| Córners en contra | 3,0 | 2,7 | 4,1 | 5,2 |
+| Córners a favor 1ª parte | 4,0 | 3,8 | 3,6 | 3,7 |
+| Córners a favor 2ª parte | 4,5 | 3,5 | 4,0 | 4,0 |
+| Córners totales del partido | 11,5 | 10,0 | 11,7 | 12,8 |
+| Córners totales 1ª parte | 5,4 | 5,2 | 5,2 | 5,8 |
+| Córners totales 2ª parte | 6,1 | 4,8 | 6,5 | 7,0 |
+| Más de 8,5 córners | 75% | 67% | 75% | 83% |
+| Más de 9,5 córners | 67% | 50% | 75% | 83% |
+| Más de 10,5 córners | 67% | 50% | 58% | 67% |
+| Faltas cometidas | 9,8 | 10,7 | 10,9 | 10,2 |
+| Faltas recibidas | 8,6 | 8,7 | 10,6 | 10,0 |
+| Amarillas propias | 1,0 | 0,8 | 1,7 | 2,0 |
+| Amarillas del rival | 2,0 | 2,0 | 2,0 | 2,3 |
+| Rojas / partido | 0,08 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bayern München | Recibe Bayern München | Tarjetas Bayern München | Goles Borussia Dortmund | Recibe Borussia Dortmund | Tarjetas Borussia Dortmund |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 3 | 0 | 4 | 0 | 4 |
-| 16-30' | 7 | 1 | 0 | 1 | 0 | 1 |
+| 1-15' | 2 | 4 | 0 | 4 | 0 | 4 |
+| 16-30' | 8 | 1 | 0 | 1 | 0 | 1 |
 | 31-45' | 5 | 1 | 2 | 5 | 2 | 2 |
-| 46-60' | 9 | 1 | 2 | 2 | 3 | 4 |
-| 61-75' | 8 | 2 | 6 | 3 | 3 | 2 |
-| 76-90' | 9 | 4 | 1 | 10 | 2 | 8 |
+| 46-60' | 10 | 1 | 2 | 2 | 3 | 4 |
+| 61-75' | 10 | 2 | 6 | 3 | 3 | 2 |
+| 76-90' | 10 | 4 | 3 | 10 | 2 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -140,36 +140,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bayern München
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | DFB-Pokal | Bayern München 6-1 1. FC Magdeburg | casa | 6-0 | 19 (8) - 9 (2) | 2-3 |
 | 2026-10-25 | Bundesliga | SC Freiburg 1-3 Bayern München | fuera | 6-5 | 17 (9) - 17 (5) | 1-3 |
 | 2026-10-21 | Champions League | Bayern München 2-2 Arsenal | casa | 3-5 | 13 (5) - 14 (5) | 0-2 |
 | 2026-10-17 | Bundesliga | Bayern München 6-1 RB Leipzig | casa | 11-3 | 29 (17) - 12 (4) | 1-0 |
 | 2026-10-13 | Champions League | Viking 3-3 Bayern München | fuera | 15-7 | 25 (8) - 8 (5) | 4-2 |
 | 2026-10-10 | Bundesliga | FC Augsburg 2-2 Bayern München | fuera | 9-5 | 30 (10) - 12 (5) | 0-3 |
-| 2026-09-18 | Bundesliga | Bayern München 7-0 Union Berlin | casa | 9-2 | 23 (15) - 3 (2) | 1-3 |
 
 ## Jugadores de Bayern München
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | H. Kane | F | 11 | 892 | 10 | 7 | 36 | 3,3 | 19 | 1,7 | 4 | 9 | 0,8 | 0 | 0 |
-| M. Olise | M | 10 | 823 | 9 | 4 | 37 | 3,7 | 26 | 2,6 | 5 | 28 | 2,8 | 2 | 1 |
+| M. Olise | M | 11 | 891 | 11 | 5 | 40 | 3,6 | 28 | 2,5 | 5 | 29 | 2,6 | 2 | 1 |
 | D. Upamecano | D | 10 | 810 | 2 | 0 | 9 | 0,9 | 6 | 0,6 | 11 | 3 | 0,3 | 2 | 0 |
 | Joshua Kimmich | M | 9 | 735 | 0 | 4 | 9 | 1,0 | 3 | 0,3 | 0 | 6 | 0,7 | 0 | 0 |
+| J. Tah | D | 10 | 732 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
 | L. Díaz | F | 10 | 712 | 5 | 1 | 20 | 2,0 | 14 | 1,4 | 12 | 6 | 0,6 | 0 | 0 |
-| A. Pavlović | M | 9 | 647 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 12 | 6 | 0,7 | 1 | 0 |
-| J. Tah | D | 9 | 642 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
-| A. Davies | D | 10 | 617 | 2 | 2 | 4 | 0,4 | 2 | 0,2 | 2 | 8 | 0,8 | 0 | 0 |
-| K. Laimer | M | 8 | 577 | 0 | 1 | 4 | 0,5 | 2 | 0,2 | 14 | 6 | 0,8 | 2 | 0 |
-| J. Stanišić | D | 10 | 574 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
+| A. Pavlović | M | 10 | 669 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 13 | 6 | 0,6 | 2 | 0 |
+| J. Stanišić | D | 11 | 664 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 4 | 5 | 0,5 | 0 | 0 |
+| A. Davies | D | 11 | 662 | 3 | 3 | 6 | 0,5 | 3 | 0,3 | 2 | 9 | 0,8 | 0 | 0 |
+| K. Laimer | M | 9 | 645 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 15 | 6 | 0,7 | 2 | 0 |
+| T. Bischof | M | 12 | 605 | 1 | 2 | 10 | 0,8 | 6 | 0,5 | 11 | 6 | 0,5 | 0 | 0 |
+| I. Saibari | F | 12 | 601 | 3 | 3 | 26 | 2,2 | 10 | 0,8 | 10 | 3 | 0,2 | 1 | 0 |
+| N. Brown | D | 11 | 570 | 2 | 2 | 7 | 0,6 | 6 | 0,5 | 5 | 5 | 0,5 | 1 | 0 |
+| J. Urbig | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | M. Neuer | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| I. Saibari | M | 11 | 526 | 2 | 2 | 22 | 2,0 | 9 | 0,8 | 9 | 2 | 0,2 | 1 | 0 |
-| T. Bischof | M | 11 | 523 | 1 | 2 | 7 | 0,6 | 5 | 0,5 | 9 | 5 | 0,5 | 0 | 0 |
 | Kim Min-Jae | D | 7 | 521 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
-| N. Brown | D | 10 | 480 | 1 | 2 | 6 | 0,6 | 5 | 0,5 | 5 | 5 | 0,5 | 0 | 0 |
-| J. Urbig | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Karl | M | 10 | 368 | 1 | 1 | 7 | 0,7 | 3 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
+| L. Karl | M | 11 | 458 | 1 | 2 | 12 | 1,1 | 4 | 0,4 | 1 | 1 | 0,1 | 0 | 0 |
+| S. Gnabry | M | 6 | 241 | 1 | 0 | 7 | 1,2 | 3 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
 | Jamal Musiala | M | 4 | 213 | 2 | 1 | 3 | 0,8 | 3 | 0,8 | 3 | 4 | 1,0 | 0 | 0 |
-| S. Gnabry | M | 5 | 196 | 1 | 0 | 7 | 1,4 | 3 | 0,6 | 1 | 0 | 0,0 | 0 | 0 |
-| S. Boey | D | 2 | 42 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Borussia Dortmund
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -206,43 +206,43 @@ _Sin bajas comunicadas por ahora._
 | Mathis Albert | F | 2 | 110 | 0 | 0 | 3 | 1,5 | 3 | 1,5 | 2 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 0,93 · córners esperados 10,3._
+_Goles esperados: local 2,00 · visitante 0,95 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 13% | 15% | 7.00 | +6% |
-| 1X2: X | 21% | 17% | 19% | 5.50 | +5% |
+| 1X2: 2 | 17% | 13% | 15% | 7.00 | +7% |
+| 1X2: X | 21% | 17% | 19% | 5.50 | +4% |
 | 1X2: 1 | 62% | 70% | 66% | 1.33 | -13% |
 | Doble oportunidad: X2 | 38% | 29% | 34% | 3.25 | +10% |
 | Doble oportunidad: 12 | 79% | 84% | 81% | 1.14 | -7% |
 | Doble oportunidad: 1X | 83% | 87% | 85% | 1.10 | -7% |
-| Ambos marcan: No | 48% | 35% | 42% | 2.62 | +9% |
-| Ambos marcan: Sí | 52% | 65% | 58% | 1.44 | -16% |
-| Goles más/menos: Más de 2.5 | 56% | 76% | 66% | 1.25 | -18% |
-| Goles más/menos: Más de 3.5 | 33% | 57% | 45% | 1.67 | -25% |
-| Goles más/menos: Más de 4.5 | 17% | 38% | 27% | 2.50 | -31% |
+| Ambos marcan: No | 47% | 35% | 41% | 2.62 | +8% |
+| Ambos marcan: Sí | 53% | 65% | 59% | 1.44 | -15% |
+| Goles más/menos: Más de 2.5 | 57% | 76% | 66% | 1.25 | -17% |
+| Goles más/menos: Más de 3.5 | 34% | 57% | 45% | 1.67 | -24% |
+| Goles más/menos: Más de 4.5 | 18% | 38% | 28% | 2.50 | -31% |
 | Goles más/menos: Más de 5.5 | 8% | 24% | 16% | 4.00 | -37% |
-| Goles más/menos: Menos de 2.5 ✅ | 44% | 24% | 34% | 4.00 | +36% |
-| Goles más/menos: Menos de 3.5 | 67% | 43% | 55% | 2.20 | +21% |
-| Goles más/menos: Menos de 4.5 | 83% | 62% | 73% | 1.53 | +11% |
+| Goles más/menos: Menos de 2.5 ✅ | 43% | 24% | 34% | 4.00 | +35% |
+| Goles más/menos: Menos de 3.5 | 66% | 43% | 55% | 2.20 | +20% |
+| Goles más/menos: Menos de 4.5 | 82% | 62% | 72% | 1.53 | +10% |
 | Goles más/menos: Menos de 5.5 | 92% | 76% | 84% | 1.25 | +5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 54% | 45% | 1.73 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 28% | 21% | 3.40 | -30% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 46% | 55% | 2.00 | +10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 72% | 79% | 1.30 | +3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 54% | 45% | 1.73 | -22% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 28% | 21% | 3.40 | -30% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 46% | 55% | 2.00 | +10% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 72% | 79% | 1.30 | +3% |
 | Goles del local: Más de 1.5 | 59% | 77% | 68% | 1.22 | -17% |
 | Goles del local: Más de 2.5 | 32% | 54% | 43% | 1.73 | -26% |
 | Goles del local: Más de 3.5 | 14% | 34% | 24% | 2.75 | -34% |
-| Goles del local: Menos de 1.5 ✅ | 41% | 23% | 32% | 4.00 | +29% |
-| Goles del local: Menos de 2.5 | 68% | 46% | 57% | 2.00 | +15% |
-| Goles del local: Menos de 3.5 | 86% | 66% | 76% | 1.40 | +7% |
-| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
-| Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +6% |
-| Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Córners más/menos: Más de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Córners más/menos: Menos de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: X | 39% | 30% | 35% | 3.10 | +7% |
-| 1X2 descanso: 1 | 44% | 54% | 49% | 1.73 | -15% |
+| Goles del local: Menos de 1.5 ✅ | 41% | 23% | 32% | 4.00 | +28% |
+| Goles del local: Menos de 2.5 | 68% | 46% | 57% | 2.00 | +14% |
+| Goles del local: Menos de 3.5 | 86% | 66% | 76% | 1.40 | +6% |
+| Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -11% |
+| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Córners más/menos: Más de 9.5 | 51% | 54% | 53% | 1.73 | -9% |
+| Córners más/menos: Menos de 9.5 | 49% | 46% | 47% | 2.00 | -5% |
+| 1X2 descanso: X | 39% | 30% | 34% | 3.10 | +7% |
+| 1X2 descanso: 1 | 45% | 54% | 49% | 1.73 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

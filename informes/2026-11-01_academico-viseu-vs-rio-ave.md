@@ -1,7 +1,7 @@
 # Academico Viseu – Rio Ave
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_
@@ -188,7 +188,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 12% | 23% | 18% | 4.00 | -29% |
 | 1X2: X | 20% | 27% | 23% | 3.50 | -19% |
 | 1X2: 1 | 68% | 50% | 59% | 1.85 | +10% |
-| Doble oportunidad: X2 | 32% | 49% | 40% | 1.91 | -23% |
+| Doble oportunidad: X2 | 32% | 49% | 41% | 1.91 | -23% |
 | Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 88% | 77% | 82% | 1.22 | +1% |
 | Ambos marcan: No | 55% | 48% | 51% | 1.95 | +0% |
@@ -199,7 +199,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -12% |
 | Goles más/menos: Menos de 2.5 | 47% | 51% | 49% | 1.85 | -9% |
 | Goles más/menos: Menos de 3.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
@@ -211,7 +211,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del visitante: Más de 1.5 | 17% | 28% | 22% | 3.40 | -25% |
-| Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +10% |
+| Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +9% |
 | Goles del visitante: Menos de 1.5 | 83% | 72% | 78% | 1.30 | +1% |
 | 1X2 descanso: 2 | 13% | 21% | 17% | 4.50 | -25% |
 | 1X2 descanso: X | 39% | 42% | 41% | 2.20 | -11% |

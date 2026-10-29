@@ -1,7 +1,7 @@
 # Mallorca – Cadiz
 **Segunda División** · Regular Season - 12 · 02/11/2026 21:00 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 02:04_
@@ -195,8 +195,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 24% | 13% | 18% | 7.00 | +29% |
-| 1X2: X | 29% | 23% | 26% | 4.00 | +5% |
-| 1X2: 1 | 47% | 64% | 56% | 1.44 | -20% |
+| 1X2: X | 29% | 23% | 26% | 4.00 | +4% |
+| 1X2: 1 | 47% | 64% | 55% | 1.44 | -20% |
 | Doble oportunidad: X2 | 53% | 36% | 45% | 2.62 | +17% |
 | Doble oportunidad: 12 | 71% | 78% | 74% | 1.22 | -9% |
 | Doble oportunidad: 1X | 76% | 86% | 81% | 1.10 | -11% |
@@ -207,7 +207,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 15% | 29% | 22% | 3.25 | -28% |
 | Goles más/menos: Menos de 1.5 | 39% | 27% | 33% | 3.50 | +15% |
 | Goles más/menos: Menos de 2.5 | 66% | 50% | 58% | 1.90 | +10% |
-| Goles más/menos: Menos de 3.5 | 85% | 71% | 78% | 1.33 | +4% |
+| Goles más/menos: Menos de 3.5 | 85% | 71% | 78% | 1.33 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 59% | 69% | 64% | 1.36 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 22% | 34% | 28% | 2.75 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 31% | 36% | 3.00 | +8% |
@@ -220,7 +220,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 45% | 49% | 47% | 1.91 | -11% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -6% |
-| 1X2 descanso: X | 49% | 40% | 45% | 2.30 | +2% |
+| 1X2 descanso: X | 49% | 40% | 44% | 2.30 | +2% |
 | 1X2 descanso: 1 | 32% | 47% | 40% | 1.95 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,19 @@
 # Prat – Athletic Club
 **Copa del Rey** · Round of 128 · 29/10/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 29/10 02:01_
+
+- **1X2:** 1 **41.00**  ·  X **17.00**  ·  2 **1.03**
+- **Doble oportunidad:** 1X **15.00**  ·  12 **1.02**  ·  X2 **1.00**
+- **Goles más/menos:**
+    - 2,5: más **1.08** · menos **8.00**
+- **Córners más/menos:**
+    - 10,5: más **1.73** · menos **2.00**
+    - 11: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **21.00**  ·  X **5.50**  ·  2 **1.18**
 
 ## Estadísticas de equipo
 | | Prat (total) | Prat en casa | Athletic Club (total) | Athletic Club fuera |
