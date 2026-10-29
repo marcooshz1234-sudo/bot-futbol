@@ -1825,6 +1825,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-29T23:16",
+    "mensaje_id": 178,
+    "redes": {
+      "threads": "18056385071588417"
+    }
   }
 ]
