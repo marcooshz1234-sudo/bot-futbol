@@ -1715,7 +1715,10 @@
       "fecha": "2026-10-29T20:45",
       "liga": "Carabao Cup"
     },
-    "nota": "29/10 22:43: casi verde del Everton–Newcastle (falló por un córner), pedido por Marcos («sube que solo ha faltado eso»)"
+    "nota": "29/10 22:43: casi verde del Everton–Newcastle (falló por un córner), pedido por Marcos («sube que solo ha faltado eso»)",
+    "foto_tg": "publicaciones/media/2026-10-29-por-un-corner.tarjeta.jpg",
+    "enviado": "2026-10-29T22:51",
+    "mensaje_id": 174
   },
   {
     "id": "2026-10-29-verde-auto-2026-10-29-combi-partido-1550169",
@@ -1733,7 +1736,8 @@
       "instagram_reel": null,
       "threads": "17914984146287308",
       "instagram": "18023977493936481",
-      "instagram_story": "17999542332030026"
+      "instagram_story": "17999542332030026",
+      "threads_enlace": "18158271667522774"
     }
   }
 ]
