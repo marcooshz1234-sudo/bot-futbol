@@ -372,6 +372,7 @@ function icono(p){
   if(p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)) return `<span style="font-size:22px">✅</span>`;
   if(p.estado==="rojo") return `<span style="font-size:22px">❌</span>`;
   if(p.estado==="no_jugo") return `<span class="chip">No jugó</span>`;
+  if(p.estado==="anulada") return `<span class="chip">Anulada · 1,00</span>`;
   if(p.estado==="sin_datos" && ["FT","AET","PEN"].includes(p.estado_partido)) return `<span class="chip">Sin datos</span>`;
   if(p.estado==="va_bien") return `<span class="chip va_bien">Va bien</span>`;
   if(p.estado==="va_mal") return `<span class="chip va_mal">Falta</span>`;

@@ -133,8 +133,16 @@ def progreso_sel(mercado, opcion, d):
     # estadísticas «más de» del partido o de un equipo
     if mercado in P.STATS_OU and o.startswith("Over "):
         campo, ambito = P.STATS_OU[mercado]
-        if campo in ("corners_1h", "corners_2h"):
-            return None
+        if campo in ("corners_1h", "corners_2h"):   # 29/10: córners por partes (corners_partes de cada equipo)
+            cp = d.get("corners_partes") or {}
+            if not cp:
+                return None
+            def parte(x):
+                return x.get("statistics_1h") if campo == "corners_1h" else (x.get("statistics") or 0) - (x.get("statistics_1h") or 0)
+            vals = [parte(cp.get(str(ids[k])) or {}) for k in (("home", "away") if ambito == "total" else (ambito,))]
+            if None in vals:
+                return None
+            return barra(sum(vals), int(float(o.split()[1])) + 1, "córners")
         linea = float(o.split()[1])
         if ambito == "total":
             vs = [st(ids["home"], campo), st(ids["away"], campo)]
@@ -191,6 +199,9 @@ def fila_sel(sel, cuota, directo, conocidos=None):
     if d and d.get("estado") not in (None, "NS", "TBD", "PST"):
         r = evaluar_pick({"mercado": mercado, "opcion": opcion}, d)
         fin = d.get("estado") in FT
+        # 29/10: lo de la 1ª parte ya está decidido al descanso (antes seguía «pendiente» hasta el final)
+        if ("1st Half" in mercado or "First Half" in mercado) and d.get("estado") in {"HT", "2H", "ET", "BT", "P"} | set(FT):
+            fin = True
         sube = str(opcion).startswith(SUBEN) or " - " in str(opcion)
         if fin:
             estado = "verde" if r is True else "rojo" if r is False else "sin_datos"
@@ -202,9 +213,14 @@ def fila_sel(sel, cuota, directo, conocidos=None):
             estado = "verde" if sube or lidero_por_2(d, eq.get("id")) else "va_bien"
         else:
             estado = "va_bien" if r is True else "va_mal" if r is False else "pendiente"
+    prog = progreso_seguro(mercado, opcion, d)
+    # 29/10: línea entera («más de 4 córners») que se queda justo en 4: bet365 la anula (cuenta a 1,00)
+    m_lin = re.match(r"Over (\d+)$", str(opcion))
+    if estado == "rojo" and m_lin and prog and prog.get("actual") == int(m_lin.group(1)):
+        estado = "anulada"
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
-            "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo"),
-            "progreso": progreso_seguro(mercado, opcion, d),
+            "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo", "anulada"),
+            "progreso": prog,
             "actualizado_iso": fecha_iso(vivo.get("visto")), "marcador": (d or {}).get("goles") or vivo.get("goles"),
             "minuto": vivo.get("minuto"), "estado_partido": (d or {}).get("estado") or vivo.get("estado")}
 
@@ -865,7 +881,8 @@ def main():
             filas = [fila_sel(s, c, directo, conocidos) for s, c in zip(p["sel"], p["cuotas"])]
             for f, t, pa in zip(filas, p.get("textos") or [], p.get("partidos") or []):   # boletos: el texto de bet365
                 f["texto"], f["partido"] = t, f["partido"] or pa
-            est = p.get("resultado") or ("verde" if filas and all(x["estado"] == "verde" for x in filas) else
+            est = p.get("resultado") or ("verde" if filas and all(x["estado"] in ("verde", "anulada") for x in filas)
+                                         and any(x["estado"] == "verde" for x in filas) else
                    "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
             publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                    "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
