@@ -409,6 +409,22 @@
     "cuotas_revisadas": "2026-10-29T16:02"
   },
   {
+    "id": "2026-10-29-escalera",
+    "fecha": "2026-10-29T18:23",
+    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x1,75 🍀\n\n❌ Ayer se cayó el día 2. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅ 🇮🇹 Atalanta marca\n✅ 🇳🇱 Groningen marca 2 o más\n\n🎯 CUOTA 1,75 💎 · 20,00€ → 35,00€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550169|Total - Away|Over 0.5",
+      "1641972|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.4
+    ]
+  },
+  {
     "id": "2026-10-29-combi-partido-1640385",
     "fecha": "2026-10-29T19:25",
     "texto": "✅ COMBI LOCAS | CARABAO CUP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 EVERTON vs NEWCASTLE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ NEWCASTLE VE MÁS DE 1,5 TARJETAS [x1.53]\n✅ EVERTON HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ MÁS DE 26,5 TIROS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 9,10\n🟢 VERDE A VERDE 🟢",
@@ -567,22 +583,6 @@
       "fecha": "2026-10-30T19:00",
       "liga": "Ligue 1"
     }
-  },
-  {
-    "id": "2026-10-30-escalera",
-    "fecha": "2026-10-30T11:00",
-    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀\n\n❌ El miércoles se cayó el día 2. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Sheffield Utd–Wrexham\n✅ 🇪🇸 Espanyol marca\n\n🎯 CUOTA 2,08 💎 · 20,00€ → 41,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563233|Goals Over/Under First Half|Over 0.5",
-      "1570442|Total - Away|Over 0.5"
-    ],
-    "cuotas": [
-      1.36,
-      1.53
-    ]
   },
   {
     "id": "2026-10-30-combi-tres",
