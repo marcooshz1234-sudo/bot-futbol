@@ -1781,7 +1781,16 @@
     },
     "cuotas_revisadas": "2026-10-29T23:04",
     "forzar": true,
-    "nota": "29/10: a las 23:30 (Marcos)"
+    "nota": "29/10: a las 23:30 (Marcos)",
+    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1552801.tarjeta.jpg",
+    "enviado": "2026-10-29T23:30",
+    "mensaje_id": 179,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18108165565958052",
+      "instagram": "18382591279236144",
+      "instagram_story": "18196437337403987"
+    }
   },
   {
     "id": "2026-10-30-combi-partido-1552806",
