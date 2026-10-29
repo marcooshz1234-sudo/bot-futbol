@@ -59,10 +59,146 @@
    ]
   },
   "1550169": {
-   "hora": "2026-10-29T19:47:20.055170+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-29T20:20:42.040719+01:00",
+   "xi": [
+    "David de Gea",
+    "Álex Jiménez",
+    "R. Drăgușin",
+    "Viery",
+    "João Mário",
+    "C. Ndour",
+    "N. Fagioli",
+    "M. Brescianini",
+    "Franco Mastantuono",
+    "Mateo Pellegrino",
+    "A. Njie",
+    "C. De Ketelaere",
+    "Éderson",
+    "E. Elmas",
+    "M. Carnesecchi",
+    "D. Zappacosta",
+    "T. Kristensen",
+    "R. ObriÄ",
+    "L. Bernasconi",
+    "G. Gaetano",
+    "N. Zalewski",
+    "N. Krstović"
+   ],
+   "banquillo": [
+    "O. Christensen",
+    "Dodô",
+    "W. Gnonto",
+    "Beto",
+    "Valde",
+    "Antonio Pirrò",
+    "Pote",
+    "B. Mazzeo",
+    "L. Lezzerini",
+    "C. Inao OulaÃ¯",
+    "J. Rowe",
+    "K. Sulemana",
+    "M. Sportiello",
+    "M. Sonzogni",
+    "G. Scalvini",
+    "L. Samardžić",
+    "M. Plaia",
+    "Mario Pasalic",
+    "J. Idele"
+   ],
+   "equipos": {
+    "502": [
+     {
+      "n": "David de Gea",
+      "pos": "G"
+     },
+     {
+      "n": "Álex Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "R. Drăgușin",
+      "pos": "D"
+     },
+     {
+      "n": "Viery",
+      "pos": "D"
+     },
+     {
+      "n": "João Mário",
+      "pos": "D"
+     },
+     {
+      "n": "C. Ndour",
+      "pos": "M"
+     },
+     {
+      "n": "N. Fagioli",
+      "pos": "M"
+     },
+     {
+      "n": "M. Brescianini",
+      "pos": "M"
+     },
+     {
+      "n": "Franco Mastantuono",
+      "pos": "F"
+     },
+     {
+      "n": "Mateo Pellegrino",
+      "pos": "F"
+     },
+     {
+      "n": "A. Njie",
+      "pos": "F"
+     }
+    ],
+    "499": [
+     {
+      "n": "C. De Ketelaere",
+      "pos": "M"
+     },
+     {
+      "n": "Éderson",
+      "pos": "M"
+     },
+     {
+      "n": "E. Elmas",
+      "pos": "M"
+     },
+     {
+      "n": "M. Carnesecchi",
+      "pos": "G"
+     },
+     {
+      "n": "D. Zappacosta",
+      "pos": "D"
+     },
+     {
+      "n": "T. Kristensen",
+      "pos": "D"
+     },
+     {
+      "n": "R. ObriÄ",
+      "pos": "D"
+     },
+     {
+      "n": "L. Bernasconi",
+      "pos": "D"
+     },
+     {
+      "n": "G. Gaetano",
+      "pos": "M"
+     },
+     {
+      "n": "N. Zalewski",
+      "pos": "M"
+     },
+     {
+      "n": "N. Krstović",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
