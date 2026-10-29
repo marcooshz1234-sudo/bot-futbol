@@ -1701,7 +1701,7 @@
   },
   {
     "id": "2026-10-29-por-un-corner",
-    "fecha": "2026-10-29T22:43",
+    "fecha": "2026-10-29T23:06",
     "texto": "😩 ¡POR UN CÓRNER! 😩\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 EVERTON 3-1 NEWCASTLE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n✅ GOL EN LA 1ª PARTE\n✅ NEWCASTLE VE MÁS DE 1,5 TARJETAS\n❌ EVERTON HACE MÁS DE 4,5 CÓRNERS (se quedó en 4)\n✅ MÁS DE 26,5 TIROS\n✅ MÁS DE 9,5 CÓRNERS\n\n💔 4 de 5 y la x9,10 se nos escapa por UN córner\n\n💪 Mañana más combis con escudos 🍀",
     "foto": null,
     "origen": "bot",
@@ -1718,7 +1718,8 @@
     "nota": "29/10 22:43: casi verde del Everton–Newcastle (falló por un córner), pedido por Marcos («sube que solo ha faltado eso»)",
     "foto_tg": "publicaciones/media/2026-10-29-por-un-corner.tarjeta.jpg",
     "enviado": "2026-10-29T22:51",
-    "mensaje_id": 174
+    "mensaje_id": 174,
+    "directo": true
   },
   {
     "id": "2026-10-29-verde-auto-2026-10-29-combi-partido-1550169",
