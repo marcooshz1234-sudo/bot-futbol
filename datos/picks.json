@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29 14:05",
+ "generado": "2026-10-29 19:58",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -119,37 +119,6 @@
      "arbitro": "Farai Hallam",
      "arbitro_tarjetas": 3.7,
      "prob_aprendida": 0.627
-    },
-    {
-     "partido_id": 1550170,
-     "fecha": "2026-10-29T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Lecce",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Patrizio Masini - 2",
-     "cuota": 1.57,
-     "frecuencia": 0.833,
-     "ventaja": 0.196,
-     "tipo": "jugador",
-     "jugador": "Patrizio Masini",
-     "equipo": "Frosinone",
-     "jugador_id": 281096,
-     "campo": "faltas_c",
-     "n": 2,
-     "texto": "Patrizio Masini comete 2+ faltas",
-     "detalle": "Patrizio Masini 5/6",
-     "temporada": "5/6",
-     "arbitro": "Rosario Abisso",
-     "arbitro_tarjetas": 5.0,
-     "posiciones": [
-      7,
-      14,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.595
     }
    ],
    "mejores_por_partido": [
@@ -232,37 +201,6 @@
      "arbitro": "Farai Hallam",
      "arbitro_tarjetas": 3.7,
      "prob_aprendida": 0.627
-    },
-    {
-     "partido_id": 1550170,
-     "fecha": "2026-10-29T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Lecce",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Patrizio Masini - 2",
-     "cuota": 1.57,
-     "frecuencia": 0.833,
-     "ventaja": 0.196,
-     "tipo": "jugador",
-     "jugador": "Patrizio Masini",
-     "equipo": "Frosinone",
-     "jugador_id": 281096,
-     "campo": "faltas_c",
-     "n": 2,
-     "texto": "Patrizio Masini comete 2+ faltas",
-     "detalle": "Patrizio Masini 5/6",
-     "temporada": "5/6",
-     "arbitro": "Rosario Abisso",
-     "arbitro_tarjetas": 5.0,
-     "posiciones": [
-      7,
-      14,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.595
     }
    ],
    "combis": {
@@ -328,96 +266,7 @@
      ],
      "cuota": 1.6
     },
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1641972,
-       "fecha": "2026-10-29T21:00",
-       "competicion": "KNVB Beker",
-       "liga_id": 90,
-       "local": "Groningen",
-       "visitante": "Emmen",
-       "mercado": "Total - Home",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Groningen marca 2 o más",
-       "cuota": 1.4,
-       "frecuencia": 0.8,
-       "ventaja": 0.086,
-       "detalle": "Groningen 8/10 · rival de categoría inferior",
-       "copa": true,
-       "valor_mercado": 0.029,
-       "movimiento": 0.029,
-       "cuota_inicial": 1.36,
-       "arbitro": "E. Blank",
-       "arbitro_tarjetas": null,
-       "prob_aprendida": 0.7
-      },
-      {
-       "partido_id": 1550169,
-       "fecha": "2026-10-29T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Fiorentina",
-       "visitante": "Atalanta",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Radu Dragusin - 1",
-       "cuota": 1.5,
-       "frecuencia": 0.889,
-       "ventaja": 0.222,
-       "tipo": "jugador",
-       "jugador": "Radu Dragusin",
-       "equipo": "Fiorentina",
-       "jugador_id": 162498,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Radu Dragusin comete 1+ faltas",
-       "detalle": "Radu Dragusin 8/9",
-       "temporada": "8/9",
-       "arbitro": "Federico La Penna",
-       "arbitro_tarjetas": 2.5,
-       "posiciones": [
-        19,
-        12,
-        20
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.676
-      },
-      {
-       "partido_id": 1550170,
-       "fecha": "2026-10-29T18:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Frosinone",
-       "visitante": "Lecce",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Patrizio Masini - 2",
-       "cuota": 1.57,
-       "frecuencia": 0.833,
-       "ventaja": 0.196,
-       "tipo": "jugador",
-       "jugador": "Patrizio Masini",
-       "equipo": "Frosinone",
-       "jugador_id": 281096,
-       "campo": "faltas_c",
-       "n": 2,
-       "texto": "Patrizio Masini comete 2+ faltas",
-       "detalle": "Patrizio Masini 5/6",
-       "temporada": "5/6",
-       "arbitro": "Rosario Abisso",
-       "arbitro_tarjetas": 5.0,
-       "posiciones": [
-        7,
-        14,
-        20
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.595
-      }
-     ],
-     "cuota": 3.3
-    },
+    "cuota_3": null,
     "loca": null,
     "doble": null
    },
@@ -1432,7 +1281,7 @@
      "detalle": "Jayden Bogle 8/8",
      "temporada": "8/8",
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       13,
       7,
@@ -1488,7 +1337,7 @@
      "movimiento": 0.024,
      "cuota_inicial": 1.25,
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "prob_xg": 0.82,
      "xg_esperado": 3.13,
      "posiciones": [
@@ -1545,7 +1394,7 @@
      "detalle": "Dominic Calvert-Lewin 8/8",
      "temporada": "8/8",
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       13,
       7,
@@ -1864,7 +1713,7 @@
      "detalle": "Ao Tanaka 6/7",
      "temporada": "6/7",
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       13,
       7,
@@ -2519,7 +2368,7 @@
      "detalle": "Bournemouth 8/10 · Leeds (en contra) 7/10",
      "valor_mercado": 0.0,
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       13,
       7,
@@ -3107,7 +2956,7 @@
      "detalle": "Jayden Bogle 8/8",
      "temporada": "8/8",
      "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       13,
       7,

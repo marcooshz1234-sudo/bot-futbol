@@ -1,10 +1,10 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **2.75**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -112,7 +112,7 @@ _Actualizadas: 29/10 08:00_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Utrecht:** A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive); M. Broholm (duda, Inactive); A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive); M. Broholm (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-04-11 · Eredivisie: Utrecht 4-1 Telstar

@@ -1,10 +1,10 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**

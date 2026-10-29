@@ -1,10 +1,10 @@
 # Excelsior – Twente
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **5.00**  ·  X **4.10**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
@@ -111,7 +111,7 @@ _Actualizadas: 29/10 08:00_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Twente:** M. Bruns (baja, Inactive); S. Lemkin (baja, Muscle Injury); F. Thorvaldsen (baja, Inactive); D. Weidmann (baja, Red Card); L. Unnerstall (duda, Inactive); B. van Rooij (duda, Injury); M. Bruns (baja, Inactive); S. Lemkin (baja, Muscle Injury); F. Thorvaldsen (baja, Inactive); D. Weidmann (baja, Red Card); L. Unnerstall (duda, Inactive); B. van Rooij (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-24 · Eredivisie: Twente 0-0 Excelsior

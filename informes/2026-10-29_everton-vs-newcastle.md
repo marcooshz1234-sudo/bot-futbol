@@ -1,7 +1,7 @@
 # Everton – Newcastle
 **Carabao Cup** · Round of 16 · 29/10/2026 20:45 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 14:01_

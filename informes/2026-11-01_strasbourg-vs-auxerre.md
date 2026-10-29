@@ -1,10 +1,10 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **1.83**  ·  X **3.90**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **2.00**
@@ -124,7 +124,8 @@ _Actualizadas: 29/10 08:00_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Strasbourg:** J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury); I. Doukoure (duda, Injury); S. Nanasi (duda, Injury); J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury); I. Doukoure (duda, Injury); S. Nanasi (duda, Injury)
+**Auxerre:** A. Diousse (baja, Knee Injury); S. Fofana (baja, Groin Injury); R. Labeau Lascary (baja, Injury); M. Senaya (baja, Hamstring Injury); T. Siwe (baja, Muscle Injury); A. Diousse (baja, Knee Injury); S. Fofana (baja, Groin Injury); R. Labeau Lascary (baja, Injury); M. Senaya (baja, Hamstring Injury); T. Siwe (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-07 · Ligue 1: Auxerre 0-0 Strasbourg

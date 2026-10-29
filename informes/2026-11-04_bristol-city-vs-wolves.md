@@ -1,7 +1,7 @@
 # Bristol City – Wolves
 **Championship** · Regular Season - 14 · 04/11/2026 21:00 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

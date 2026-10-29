@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-29 14:05 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-29 19:58 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Jueves 29/10
 
@@ -8,18 +8,12 @@ _Generado el 2026-10-29 14:05 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Atalanta marca (1,25) · Fiorentina (en contra) 9/10 · Atalanta 8/10
 - Thierno Barry: 1+ tiros a puerta (1,28) · Thierno Barry 8/9
 
-**💥 Combi cuota 3-4 · cuota 3,30**
-- Groningen marca 2 o más (1,40) · Groningen 8/10 · rival de categoría inferior
-- Radu Dragusin comete 1+ faltas (1,50) · Radu Dragusin 8/9
-- Patrizio Masini comete 2+ faltas (1,57) · Patrizio Masini 5/6
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Atalanta marca | goles | 1.25 | 85% | Fiorentina (en contra) 9/10 · Atalanta 8/10 |
 | 21:00 | Groningen marca 2 o más | goles | 1.40 | 80% | Groningen 8/10 · rival de categoría inferior |
 | 20:45 | Radu Dragusin comete 1+ faltas | jugador | 1.50 | 89% | Radu Dragusin 8/9 |
 | 20:45 | Thierno Barry: 1+ tiros a puerta | jugador | 1.28 | 89% | Thierno Barry 8/9 |
-| 18:30 | Patrizio Masini comete 2+ faltas | jugador | 1.57 | 83% | Patrizio Masini 5/6 |
 
 ## Viernes 30/10
 

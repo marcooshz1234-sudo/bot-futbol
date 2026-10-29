@@ -1,17 +1,9 @@
 # Próximos partidos
 
-_Actualizado el 29/10/2026 14:04 (hora España). Partidos guardados en la base de datos: 1551._
+_Actualizado el 29/10/2026 19:57 (hora España). Partidos guardados en la base de datos: 1551._
 
 
 ## Jueves 29/10
-- 18:00 · Copa del Rey · [Numancia – Oviedo](informes/2026-10-29_numancia-vs-oviedo.md) · 1X2: 3.90 / 3.50 / 1.91
-- 18:30 · Serie A · [Frosinone – Lecce](informes/2026-10-29_frosinone-vs-lecce.md) · 1X2: 1.73 / 4.10 / 4.33
-- 18:45 · KNVB Beker · [Kozakken Boys – Utrecht](informes/2026-10-29_kozakken-boys-vs-utrecht.md) · 1X2: 6.50 / 5.25 / 1.40
-- 19:00 · Copa del Rey · [Poblense – AD Ceuta FC](informes/2026-10-29_poblense-vs-ad-ceuta-fc.md) · 1X2: 4.33 / 4.00 / 1.73
-- 19:00 · Copa del Rey · [Atlético Baleares – Eldense](informes/2026-10-29_atletico-baleares-vs-eldense.md) · 1X2: 4.10 / 3.50 / 1.85
-- 19:00 · Copa del Rey · [Lebrijana – Getafe](informes/2026-10-29_lebrijana-vs-getafe.md) · 1X2: 29.00 / 15.00 / 1.03
-- 19:00 · Copa del Rey · [Atletico Calatayud – Osasuna](informes/2026-10-29_atletico-calatayud-vs-osasuna.md) · 1X2: 41.00 / 17.00 / 1.03
-- 19:30 · Copa del Rey · [Cieza – Granada CF](informes/2026-10-29_cieza-vs-granada-cf.md) · 1X2: 5.75 / 4.33 / 1.50
 - 20:00 · Copa del Rey · [Conquense – Castellón](informes/2026-10-29_conquense-vs-castellon.md) · 1X2: 5.00 / 3.60 / 1.70
 - 20:00 · Copa del Rey · [Guijuelo – Sporting Gijon](informes/2026-10-29_guijuelo-vs-sporting-gijon.md) · 1X2: 7.00 / 4.33 / 1.44
 - 20:00 · Copa del Rey · [Laredo – Burgos](informes/2026-10-29_laredo-vs-burgos.md) · 1X2: 6.50 / 3.90 / 1.53
@@ -97,7 +89,7 @@ _Actualizado el 29/10/2026 14:04 (hora España). Partidos guardados en la base d
 - 16:15 · Segunda División · [AD Ceuta FC – Sporting Gijon](informes/2026-11-01_ad-ceuta-fc-vs-sporting-gijon.md) · 1X2: 2.70 / 3.25 / 2.50
 - 16:30 · Primeira Liga · [Arouca – Nacional](informes/2026-11-01_arouca-vs-nacional.md) · 1X2: 1.80 / 3.60 / 4.10
 - 16:45 · Eredivisie · [Groningen – Sparta Rotterdam](informes/2026-11-01_groningen-vs-sparta-rotterdam.md) · 1X2: 1.70 / 4.00 / 4.20
-- 17:15 · Ligue 1 · [Lyon – Angers](informes/2026-11-01_lyon-vs-angers.md) · 1X2: 1.36 / 5.00 / 6.25
+- 17:15 · Ligue 1 · [Lyon – Angers](informes/2026-11-01_lyon-vs-angers.md) · 1X2: 1.36 / 5.00 / 8.00
 - 17:15 · Ligue 1 · [Paris FC – Monaco](informes/2026-11-01_paris-fc-vs-monaco.md) · 1X2: 2.30 / 3.50 / 3.00
 - 17:30 · Premier League · [Liverpool – Arsenal](informes/2026-11-01_liverpool-vs-arsenal.md) · 1X2: 3.00 / 3.40 / 2.25
 - 17:30 · Bundesliga · [Eintracht Frankfurt – Hamburger SV](informes/2026-11-01_eintracht-frankfurt-vs-hamburger-sv.md) · 1X2: 1.62 / 4.33 / 4.50

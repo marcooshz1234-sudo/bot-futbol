@@ -1,7 +1,7 @@
 # Celta de Vigo II – Cordoba
 **Segunda División** · Regular Season - 12 · 31/10/2026 18:30 (hora España) · Municipal de Balaídos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 14:02_

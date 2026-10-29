@@ -1,7 +1,7 @@
 # Groningen – Emmen
 **KNVB Beker** · Round of 64 · 29/10/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 14:01_

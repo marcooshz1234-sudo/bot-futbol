@@ -1,7 +1,7 @@
 # Lens – Como
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_

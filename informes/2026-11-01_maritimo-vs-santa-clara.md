@@ -1,10 +1,10 @@
 # Maritimo – Santa Clara
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 19:56_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **3.40**  ·  X **3.10**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.36**  ·  X2 **1.30**

@@ -1,6 +1,6 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 29/10/2026 14:05. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 29/10/2026 19:58. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
 - **Picks jugados:** 39 · **acertados:** 10 (26%)
 - **Beneficio:** -13.10 unidades · **rentabilidad (yield):** -33.6%

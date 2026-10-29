@@ -1,10 +1,10 @@
 # Elche – Valencia
 **LaLiga** · Regular Season - 11 · 01/11/2026 18:30 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **2.45**  ·  X **3.30**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.53**

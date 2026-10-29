@@ -1,10 +1,10 @@
 # Racing Santander – Real Madrid
 **LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **10.00**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.06**

@@ -1,7 +1,7 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_

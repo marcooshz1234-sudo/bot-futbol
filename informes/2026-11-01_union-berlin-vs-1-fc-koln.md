@@ -1,10 +1,10 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 14:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:00_
+_Actualizadas: 29/10 19:56_
 
 - **1X2:** 1 **2.50**  ·  X **3.60**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
@@ -123,7 +123,8 @@ _Actualizadas: 29/10 08:00_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Union Berlin:** A. Markgraf (baja, Knee Injury); S. Nsoki (baja, Muscle Injury); F. Uduokhai (baja, Red Card); A. Ilic (duda, Illness); J. Juranovic (duda, Achilles Tendon Injury); A. Markgraf (baja, Knee Injury); S. Nsoki (baja, Muscle Injury); F. Uduokhai (baja, Red Card); A. Ilic (duda, Illness); J. Juranovic (duda, Achilles Tendon Injury)
+**1. FC Köln:** T. Dallinga (baja, Knee Injury); T. Hubers (baja, Knee Injury); I. Rondic (baja, Injury); E. Skhiri (baja, Ankle Injury); R. van den Berg (baja, Muscle Injury); R. Ache (duda, Thigh Injury); T. Dallinga (baja, Knee Injury); T. Hubers (baja, Knee Injury); I. Rondic (baja, Injury); E. Skhiri (baja, Ankle Injury); R. van den Berg (baja, Muscle Injury); R. Ache (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-02 · Bundesliga: Union Berlin 2-2 1. FC Köln
