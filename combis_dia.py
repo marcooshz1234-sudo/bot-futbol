@@ -20,10 +20,10 @@ from datetime import datetime, timedelta
 from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
-PARTIDO = {"patas": (4, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
+PARTIDO = {"patas": (6, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # 29/10 (Marcos): 6 cosas (bet365 no deja más de 6)   # cuota REAL de bet365
 # 28/10 (Marcos, prueba de una semana): 2 combis de partido extra de madrugada (00:30 y 01:30) con los partidos grandes
 # del día que no tienen combi a su hora; más cortas si hace falta. La del City a la 01:30 hizo 4,8 mil vistas.
-NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (3, 6), "cuota": (7.0, 10.0), "hasta": "2026-11-04"}   # 29/10: también 7-10
+NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (6, 6), "cuota": (7.0, 10.0), "hasta": "2026-11-04"}   # 29/10: también 7-10 y 6 cosas
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
@@ -413,6 +413,14 @@ def coherente(comb):
     return any(all(cumple(p, gl, gv) is not False for p in comb) for gl in range(7) for gv in range(7))
 
 
+def combi_partido(pool, cfg):
+    """29/10 (Marcos): combi de un partido con 6 cosas y cuota 7-10. Primero con patas seguras; si no sale, admite
+    alguna algo menos segura; y si aun así no hay 6 posibles, con 5."""
+    return (mejor_combi(pool, cfg["patas"], cfg["cuota"], PARTIDO["prob_min"])
+            or mejor_combi(pool, cfg["patas"], cfg["cuota"], PROB_MIN_RELAJADA)
+            or mejor_combi(pool, (5, 5), cfg["cuota"], PROB_MIN_RELAJADA))
+
+
 def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     """La combinación que más devuelve a la larga (prob × cuota) dentro de los límites."""
     best = None
@@ -480,15 +488,31 @@ def del_dia(dia, hist=None, ap=None):
     # 1) combi de cada partido: grandes primero
     partidos = []
     for pool in pools:
-        r = mejor_combi(pool, PARTIDO["patas"], PARTIDO["cuota"], PARTIDO["prob_min"])
-        if not r:   # 29/10 (Marcos): siempre entre 7 y 10; si no llega, se admiten patas algo menos seguras
-            r = mejor_combi(pool, PARTIDO["patas"], PARTIDO["cuota"], PROB_MIN_RELAJADA)
+        r = combi_partido(pool, PARTIDO)
         if r:
             b = pool[0]
             cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
             cp["picks"] = r[1]
             partidos.append((grandeza(cp), r[0], cp, r[2]))
     partidos.sort(key=lambda x: (-x[0], -x[1]))
+    # 29/10 (Marcos): por la noche SIEMPRE combis con escudos (dan muchos seguidores) de los partidos más grandes del
+    # día (la de las 00:30, la del más grande, p. ej. el PSG). Esa combi es la buena; la de su hora del mismo partido
+    # se rehace con otras selecciones y, si no da para otra, ese partido solo sale de noche.
+    noche_sel = []
+    if dia <= NOCHE["hasta"]:
+        pool_id = {pool[0]["partido_id"]: pool for pool in pools}
+        quedan = []
+        for g, s, cp, c in partidos:
+            if len(noche_sel) < len(NOCHE["horas"]):
+                noche_sel.append((cp, c))
+                usadas = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in cp["picks"]}
+                r2 = combi_partido([p for p in pool_id[cp["partido_id"]]
+                                    if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in usadas], PARTIDO)
+                if r2:
+                    quedan.append((g, r2[0], dict(cp, picks=r2[1]), r2[2]))
+            else:
+                quedan.append((g, s, cp, c))
+        partidos = quedan
     # 27/10 (norma de Marcos): si entre los 3 mejores no hay equipo español, entra el mejor partido español
     # (en España bet365 suele dar aumentos y apuestas aseguradas)
     espanol = lambda cp: cp.get("liga_id") in (140, 141, 143)
@@ -504,8 +528,7 @@ def del_dia(dia, hist=None, ap=None):
     for cp, c in elegidos:
         if any(es_mas15(p) for p in cp["picks"]):
             if con15 >= MAS_15["max_dia"]:
-                r = mejor_combi([p for p in pool_de[cp["partido_id"]] if not es_mas15(p)],
-                                PARTIDO["patas"], PARTIDO["cuota"], PARTIDO["prob_min"])
+                r = combi_partido([p for p in pool_de[cp["partido_id"]] if not es_mas15(p)], PARTIDO)
                 if not r:
                     continue
                 cp, c = dict(cp, picks=r[1]), r[2]
@@ -527,21 +550,8 @@ def del_dia(dia, hist=None, ap=None):
     # 28/10: combis de madrugada (prueba): partidos grandes que no salen a su hora, con combis algo más cortas
     res["noche"] = []
     if dia <= NOCHE["hasta"]:
-        ya = {cp["partido_id"] for cp, _ in elegidos}
         f0n = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
-        cand = []
-        for pool in pools:
-            b = pool[0]
-            if b["partido_id"] in ya:
-                continue
-            sin15 = [p for p in pool if not (con15 >= MAS_15["max_dia"] and es_mas15(p))]
-            r = mejor_combi(sin15, NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"]) \
-                or mejor_combi(sin15, NOCHE["patas"], NOCHE["cuota"], PROB_MIN_RELAJADA)
-            if r:
-                cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
-                cp["picks"] = r[1]
-                cand.append((grandeza(cp), r[0], cp, r[2]))
-        cand.sort(key=lambda x: (-x[0], -x[1]))
+        cand = [(None, None, cp, c) for cp, c in noche_sel]
         for (h, m), (_, _, cp, c) in zip(NOCHE["horas"], cand):
             res["noche"].append((cp, c, datos_tarjeta(cp), f0n.replace(hour=h, minute=m)))
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)

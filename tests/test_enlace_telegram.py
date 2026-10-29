@@ -9,7 +9,10 @@ class EnlaceTelegram(unittest.TestCase):
         self.assertTrue(redes.lleva_enlace({"id": "2026-10-28-verde-auto-2026-10-28-combi-tres"}))
         self.assertTrue(redes.lleva_enlace({"id": "2026-10-27-balance-picks", "texto": "x\n✅ 23 acertados · ❌ 9 fallados"}))
         self.assertFalse(redes.lleva_enlace({"id": "2026-10-27-balance-picks", "texto": "✅ 4 acertados · ❌ 9 fallados"}))
-        self.assertFalse(redes.lleva_enlace({"id": "2026-10-28-combi-loca-datos", "texto": "🤪"}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-10-28-combi-loca-datos", "fecha": "2026-10-28T16:00", "texto": "🤪"}))
+        # 29/10 (Marcos): desde entonces también las combis, listas y boletos
+        self.assertTrue(redes.lleva_enlace({"id": "2026-10-30-combi-partido-1552801", "fecha": "2026-10-30T00:30", "texto": "✅"}))
+        self.assertTrue(redes.lleva_enlace({"id": "2026-10-30-picks-manana", "fecha": "2026-10-29T23:00", "texto": "🔥"}))
 
     def test_comentario_threads_responde_al_post(self):
         llamadas = []

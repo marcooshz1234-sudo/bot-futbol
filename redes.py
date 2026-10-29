@@ -134,10 +134,23 @@ ENLACE_TELEGRAM = "https://t.me/+NMCCvWtZu842Mjhk"
 TEXTO_ENLACE = f"💚 ¿Quieres más combis así? Únete GRATIS a nuestro canal de Telegram 👇\n{ENLACE_TELEGRAM}"
 
 
+TEXTO_ENLACE_COMBI = f"🍀 Todas las combis antes que nadie y GRATIS en nuestro canal de Telegram 👇\n{ENLACE_TELEGRAM}"
+# 29/10 (Marcos): el enlace a Telegram en el primer comentario de más posts de Threads, no solo en los verdes
+DESDE_ENLACE = "2026-10-29T18:00"
+CON_ENLACE = ("combi-partido", "picks-manana", "combi-tres", "combi-loca", "escalera", "ganadores", "boleto")
+
+
+def texto_enlace(p):
+    return TEXTO_ENLACE if "verde" in p.get("id", "") or "balance" in p.get("id", "") else TEXTO_ENLACE_COMBI
+
+
 def lleva_enlace(p):
-    """Verdes (combis, escalera, boletos) y balance del día con más acertados que fallados."""
+    """Verdes (combis, escalera, boletos), balance del día con más acertados que fallados y, desde el 29/10,
+    las combis, listas y boletos."""
     pid = p.get("id", "")
     if "verde" in pid:
+        return True
+    if any(k in pid for k in CON_ENLACE) and p.get("fecha", "") >= DESDE_ENLACE:   # los ya publicados, no
         return True
     if "balance" in pid:
         m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", p.get("texto", ""))
@@ -150,7 +163,7 @@ def id_publicado(v):
 
 
 def comentar_threads(p, token):
-    c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": TEXTO_ENLACE,
+    c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": texto_enlace(p),
                                                  "reply_to_id": id_publicado(p["redes"]["threads"]), "access_token": token})
     time.sleep(3)
     return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
