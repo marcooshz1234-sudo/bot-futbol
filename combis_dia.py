@@ -499,7 +499,8 @@ def del_dia(dia, hist=None, ap=None):
     # día (la de las 00:30, la del más grande, p. ej. el PSG). Esa combi es la buena; la de su hora del mismo partido
     # se rehace con otras selecciones y, si no da para otra, ese partido solo sale de noche.
     noche_sel = []
-    if dia <= NOCHE["hasta"]:
+    ultima_noche = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=NOCHE["horas"][-1][0], minute=NOCHE["horas"][-1][1])
+    if dia <= NOCHE["hasta"] and ultima_noche > datetime.now(MADRID):   # si la noche ya pasó, no quita partidos de la tarde
         pool_id = {pool[0]["partido_id"]: pool for pool in pools}
         quedan = []
         for g, s, cp, c in partidos:
