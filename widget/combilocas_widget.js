@@ -82,16 +82,43 @@ let d
 try { d = await new Request(URL + "?t=" + Date.now()).loadJSON() } catch (e) { d = null }
 
 const w = new ListWidget()
-w.backgroundColor = FONDO
+if (!(config.widgetFamily || "").startsWith("accessory")) w.backgroundColor = FONDO
 const grad = new LinearGradient(); grad.colors = [new Color("#0d2118"), FONDO]; grad.locations = [0, 1]
-w.backgroundGradient = grad
+if (!(config.widgetFamily || "").startsWith("accessory")) w.backgroundGradient = grad
 w.refreshAfterDate = new Date(Date.now() + 15 * 60 * 1000)
 const tam = config.widgetFamily || "medium"
 const modo = (args.widgetParameter || "").toLowerCase()
 const total = d ? REDES.reduce((a, r) => a + ((d.redes[r.k] || {}).seguidores || 0), 0) : null
 const totalHoy = d ? REDES.reduce((a, r) => a + ((d.redes[r.k] || {}).hoy || 0), 0) : null
 
-if (!d) {
+if (tam.startsWith("accessory")) {
+  // 29/10: pantalla de bloqueo (iOS la pinta en un solo color). Rectangular = las tres redes · redondo = una red
+  // (parámetro «threads», «instagram» o «telegram»; sin parámetro, Threads) · en línea = Threads
+  if (tam === "accessoryRectangular") {
+    w.setPadding(2, 4, 2, 4)
+    for (const r of REDES) {
+      const x = d ? (d.redes[r.k] || {}) : {}
+      const f = w.addStack(); f.centerAlignContent()
+      const ic = f.addImage(SFSymbol.named(r.icono).image); ic.imageSize = new Size(11, 11); ic.tintColor = Color.white()
+      f.addSpacer(5); texto(f, r.nombre, 12, new Color("#ffffff", 0.75), "semi"); f.addSpacer()
+      texto(f, num(x.seguidores), 14, Color.white(), "negra"); f.addSpacer(5)
+      const h = texto(f, mas(x.hoy), 11, new Color("#ffffff", x.hoy ? 1 : 0.6), "semi"); h.rightAlignText()
+      if (r !== REDES[REDES.length - 1]) w.addSpacer(2)
+    }
+  } else if (tam === "accessoryCircular") {
+    w.addAccessoryWidgetBackground = true
+    const r = REDES.find(r => modo.startsWith(r.k.slice(0, 3))) || REDES[0]
+    const x = d ? (d.redes[r.k] || {}) : {}
+    const col = w.addStack(); col.layoutVertically(); col.centerAlignContent()
+    const f1 = col.addStack(); f1.addSpacer()
+    const ic = f1.addImage(SFSymbol.named(r.icono).image); ic.imageSize = new Size(12, 12); ic.tintColor = Color.white(); f1.addSpacer()
+    const f2 = col.addStack(); f2.addSpacer(); texto(f2, num(x.seguidores), 15, Color.white(), "negra"); f2.addSpacer()
+    const f3 = col.addStack(); f3.addSpacer(); texto(f3, mas(x.hoy), 10, Color.white(), "semi"); f3.addSpacer()
+  } else {
+    const x = d ? (d.redes.threads || {}) : {}
+    texto(w, `Threads ${num(x.seguidores)} · ${mas(x.hoy)} hoy`, 12, Color.white(), "semi")
+  }
+} else if (!d) {
   w.setPadding(14, 14, 14, 14)
   texto(w, "COMBILOCAS", 13, BLANCO, "negra"); w.addSpacer(6); texto(w, "Sin conexión", 12, GRIS)
 } else if (tam === "small" && modo.startsWith("esc")) {
@@ -134,5 +161,6 @@ if (!d) {
 }
 
 Script.setWidget(w)
-if (config.runsInApp) tam === "small" ? w.presentSmall() : w.presentMedium()
+if (config.runsInApp) tam === "small" ? w.presentSmall() : tam === "accessoryRectangular" ? w.presentAccessoryRectangular()
+  : tam === "accessoryCircular" ? w.presentAccessoryCircular() : tam === "accessoryInline" ? w.presentAccessoryInline() : w.presentMedium()
 Script.complete()
