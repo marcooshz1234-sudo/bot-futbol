@@ -69,12 +69,12 @@ function tarjeta(fila, red, x, ancho) {
   const ic = cab.addImage(SFSymbol.named(red.icono).image); ic.imageSize = new Size(10, 10); ic.tintColor = red.color
   cab.addSpacer(4); texto(cab, red.nombre, 10, GRIS, "semi")
   c.addSpacer(3)
-  texto(c, num(x.seguidores), 22, BLANCO, "negra")
+  texto(c, num(x.seguidores), 25, BLANCO, "negra")
   c.addSpacer(2)
   const d = c.addStack(); d.centerAlignContent()
   pastilla(d, mas(x.hoy) + " hoy", x.hoy > 0 ? VERDE : x.hoy < 0 ? ROJO : GRIS)
-  c.addSpacer(5)
-  const g = c.addImage(grafica(x.serie, ancho - 18, 20, red.color)); g.imageSize = new Size(ancho - 18, 20)
+  c.addSpacer(7)
+  const g = c.addImage(grafica(x.serie, ancho - 18, 30, red.color)); g.imageSize = new Size(ancho - 18, 30)
 }
 
 await actualizarme()
@@ -122,24 +122,15 @@ if (!d) {
     texto(f, mas(h), 10, h > 0 ? VERDE : h < 0 ? ROJO : GRIS, "semi")
   }
 } else {
-  w.setPadding(11, 12, 10, 12)
+  // 29/10 (Marcos): sin total arriba ni línea de abajo: solo las tres redes
+  w.setPadding(12, 12, 12, 12)
   const cab = w.addStack(); cab.centerAlignContent()
   texto(cab, "COMBILOCAS", 13, BLANCO, "negra")
-  cab.addSpacer(6); pastilla(cab, num(total) + " · " + mas(totalHoy), totalHoy > 0 ? VERDE : GRIS)
   cab.addSpacer(); texto(cab, d.actualizado.slice(11), 9, GRIS, "semi")
-  w.addSpacer(7)
+  w.addSpacer()
   const fila = w.addStack(); fila.spacing = 6
   for (const r of REDES) tarjeta(fila, r, d.redes[r.k] || {}, 101)
   w.addSpacer()
-  const pie = w.addStack(); pie.centerAlignContent()
-  const pr = d.proximo
-  const ic = pie.addImage(SFSymbol.named("clock.fill").image); ic.imageSize = new Size(9, 9); ic.tintColor = VERDE
-  pie.addSpacer(4)
-  if (pr) { texto(pie, pr.hora, 10, VERDE, "semi"); pie.addSpacer(4); texto(pie, pr.titulo, 10, BLANCO, "medium") }
-  else texto(pie, "Sin posts pendientes", 10, GRIS)
-  pie.addSpacer(6)
-  if (d.ayer && d.ayer.total) pastilla(pie, `Ayer ${d.ayer.aciertos}/${d.ayer.total}`, VERDE)
-  else if (d.escalera) pastilla(pie, `Escalera ${d.escalera.dia}/7`, AMARILLO)
 }
 
 Script.setWidget(w)
