@@ -433,17 +433,17 @@
     "total": 5,
     "cuentas": {
       "verde": 2,
-      "rojo": 0,
-      "pendiente": 3,
+      "rojo": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 2
     },
     "combis": [
       {
         "id": "2026-10-29-combi-partido-1640385-b",
         "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": 9.79
       },
       {
@@ -472,10 +472,10 @@
       }
     ],
     "picks": {
-      "verde": 16,
-      "rojo": 0,
+      "verde": 18,
+      "rojo": 3,
       "total": 25
     },
-    "texto": "📊 BALANCE DEL JUEVES: 2 DE 2 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,79 · pendiente\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀 · 2,83\n✅ ✅ COMBI LOCAS | SERIE A · 4,41\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,75 🍀 · 1,75 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,15 · pendiente\n\n✅ 2 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 2 DE 3 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | CARABAO CUP · 9,79\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀 · 2,83\n✅ ✅ COMBI LOCAS | SERIE A · 4,41\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,75 🍀 · 1,75 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,15 · pendiente\n\n✅ 2 acertadas · ❌ 1 falladas · ⏳ 2 sin resolver"
   }
 }
