@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 02:02",
+ "actualizado": "2026-10-29 02:13",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -13,15 +13,15 @@
    ]
   },
   "threads": {
-   "seguidores": 1236,
-   "hoy": 11,
+   "seguidores": 1238,
+   "hoy": 13,
    "serie": [
     836,
     930,
     938,
     983,
     1225,
-    1236
+    1238
    ]
   },
   "facebook": {
@@ -50,21 +50,24 @@
    ]
   }
  },
- "total": 1367,
- "total_hoy": 9,
+ "total": 1369,
+ "total_hoy": 11,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:30",
+  "hora": "13:30",
   "dia": "2026-10-29",
-  "titulo": "Combi locas  serie a"
+  "titulo": "Combilocas  combi del jueves x2,"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 20,
+  "total": 35
+ },
  "escalera": {
-  "dia": 2,
+  "dia": 1,
   "de": 7,
-  "stake": 38.4,
-  "objetivo": 72.96,
-  "fecha": "2026-10-28"
+  "stake": 20.0,
+  "objetivo": 40.8,
+  "fecha": "2026-10-30"
  },
  "historial": {
   "2026-10-23": {
@@ -101,7 +104,7 @@
   },
   "2026-10-29": {
    "instagram": 20,
-   "threads": 1236,
+   "threads": 1238,
    "facebook": 0,
    "telegram": 111
   }
