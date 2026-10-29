@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 18:17",
+ "actualizado": "2026-10-29 18:28",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -13,15 +13,15 @@
    ]
   },
   "threads": {
-   "seguidores": 1262,
-   "hoy": 37,
+   "seguidores": 1263,
+   "hoy": 38,
    "serie": [
     836,
     930,
     938,
     983,
     1225,
-    1262
+    1263
    ]
   },
   "facebook": {
@@ -37,8 +37,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 111,
-   "hoy": -2,
+   "seguidores": 112,
+   "hoy": -1,
    "serie": [
     75,
     72,
@@ -46,17 +46,17 @@
     69,
     80,
     113,
-    111
+    112
    ]
   }
  },
- "total": 1393,
- "total_hoy": 35,
+ "total": 1395,
+ "total_hoy": 37,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:23",
+  "hora": "19:25",
   "dia": "2026-10-29",
-  "titulo": "Reto escalera · día 1/7 · x1,75"
+  "titulo": "Combi Everton vs Newcastle"
  },
  "ayer": {
   "aciertos": 20,
@@ -104,9 +104,9 @@
   },
   "2026-10-29": {
    "instagram": 20,
-   "threads": 1262,
+   "threads": 1263,
    "facebook": 0,
-   "telegram": 111
+   "telegram": 112
   }
  },
  "tipos_instagram": {
