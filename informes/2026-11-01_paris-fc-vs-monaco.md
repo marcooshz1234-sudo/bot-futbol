@@ -1,60 +1,75 @@
 # Paris FC – Monaco
 **Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:04_
+_Actualizadas: 29/10 08:00_
 
-- **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **2.90**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
-- **Goles del local:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
-- **Goles del visitante:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
     - 9,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.30**  ·  2 **3.40**
+- **Tarjetas más/menos:**
+    - 4,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.25**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.62**  ·  2 **1.91**
-- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.75**
-- **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.67**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **4.00**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **12.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
-- **Home Player Shots On Target Total:** Jean-Philippe Krasso - 1 **1.25**  ·  Lassine Sinayoko - 1 **1.28**  ·  Ilan Kebbal - 1 **1.50**  ·  Pablo Pagis - 1 **1.50**  ·  Moses Simon - 1 **1.44**  ·  Omar Sissoko - 1 **1.57**  ·  Pierre Lees-Melou - 1 **2.20**  ·  Jonathan Ikone - 1 **1.73**  ·  Vincent Marchetti - 1 **2.00**  ·  Luca Koleosho - 1 **1.83**  ·  Adama Camara - 1 **2.00**  ·  Rudy Matondo - 1 **3.00**  ·  Zabi Gueu - 1 **3.25**  ·  Samir Chergui - 1 **3.50**  ·  Diego Coppola - 1 **3.75**  ·  Mamadou Mbow - 1 **3.75**  ·  Maxime Lopez - 1 **3.75**  ·  Thibault De Smet - 1 **3.75**  ·  Yoan Kore - 1 **3.75**  ·  Otavio da Silva - 1 **4.00**  ·  Hamari Traore - 1 **5.50**  ·  Jean-Philippe Krasso - 2 **2.25**  ·  Lassine Sinayoko - 2 **2.25**  ·  Ilan Kebbal - 2 **3.40**  ·  Pablo Pagis - 2 **3.40**  ·  Moses Simon - 2 **3.25**  ·  Omar Sissoko - 2 **3.75**  ·  Pierre Lees-Melou - 2 **8.00**  ·  Jonathan Ikone - 2 **4.50**  ·  Vincent Marchetti - 2 **6.50**  ·  Luca Koleosho - 2 **6.00**  ·  Adama Camara - 2 **6.50**  ·  Rudy Matondo - 2 **13.00**  ·  Zabi Gueu - 2 **15.00**  ·  Samir Chergui - 2 **19.00**  ·  Diego Coppola - 2 **19.00**  ·  Mamadou Mbow - 2 **19.00**  ·  Maxime Lopez - 2 **19.00**  ·  Thibault De Smet - 2 **19.00**  ·  Yoan Kore - 2 **19.00**  ·  Otavio da Silva - 2 **21.00**  ·  Jean-Philippe Krasso - 3 **5.00**  ·  Lassine Sinayoko - 3 **5.50**  ·  Ilan Kebbal - 3 **10.00**  ·  Pablo Pagis - 3 **10.00**  ·  Moses Simon - 3 **9.00**  ·  Omar Sissoko - 3 **13.00**  ·  Pierre Lees-Melou - 3 **15.00**  ·  Jonathan Ikone - 3 **17.00**  ·  Vincent Marchetti - 3 **21.00**  ·  Luca Koleosho - 3 **21.00**  ·  Adama Camara - 3 **21.00**  ·  Jean-Philippe Krasso - 4 **13.00**  ·  Lassine Sinayoko - 4 **15.00**  ·  Ilan Kebbal - 4 **21.00**  ·  Pablo Pagis - 4 **21.00**  ·  Moses Simon - 4 **21.00**
-- **Home Player Shots:** Jean-Philippe Krasso - 1 **1.02**  ·  Lassine Sinayoko - 1 **1.02**  ·  Ilan Kebbal - 1 **1.02**  ·  Pablo Pagis - 1 **1.04**  ·  Moses Simon - 1 **1.05**  ·  Omar Sissoko - 1 **1.07**  ·  Pierre Lees-Melou - 1 **1.22**  ·  Jonathan Ikone - 1 **1.11**  ·  Vincent Marchetti - 1 **1.10**  ·  Luca Koleosho - 1 **1.14**  ·  Adama Camara - 1 **1.18**  ·  Rudy Matondo - 1 **1.44**  ·  Zabi Gueu - 1 **1.53**  ·  Samir Chergui - 1 **1.73**  ·  Diego Coppola - 1 **1.80**  ·  Mamadou Mbow - 1 **1.73**  ·  Maxime Lopez - 1 **1.80**  ·  Thibault De Smet - 1 **1.80**  ·  Yoan Kore - 1 **1.80**  ·  Otavio da Silva - 1 **1.67**  ·  Hamari Traore - 1 **2.38**  ·  Jean-Philippe Krasso - 2 **1.14**  ·  Lassine Sinayoko - 2 **1.14**  ·  Ilan Kebbal - 2 **1.17**  ·  Pablo Pagis - 2 **1.22**  ·  Moses Simon - 2 **1.25**  ·  Omar Sissoko - 2 **1.40**  ·  Pierre Lees-Melou - 2 **1.91**  ·  Jonathan Ikone - 2 **1.53**  ·  Vincent Marchetti - 2 **1.50**  ·  Luca Koleosho - 2 **1.67**  ·  Adama Camara - 2 **1.80**  ·  Rudy Matondo - 2 **3.00**  ·  Zabi Gueu - 2 **3.40**  ·  Samir Chergui - 2 **4.33**  ·  Diego Coppola - 2 **4.33**  ·  Mamadou Mbow - 2 **4.33**  ·  Maxime Lopez - 2 **4.33**  ·  Thibault De Smet - 2 **4.33**  ·  Yoan Kore - 2 **4.33**  ·  Otavio da Silva - 2 **4.00**  ·  Hamari Traore - 2 **8.00**  ·  Jean-Philippe Krasso - 3 **1.44**  ·  Lassine Sinayoko - 3 **1.50**  ·  Ilan Kebbal - 3 **1.53**  ·  Pablo Pagis - 3 **1.67**  ·  Moses Simon - 3 **1.80**  ·  Omar Sissoko - 3 **2.10**  ·  Pierre Lees-Melou - 3 **3.75**  ·  Jonathan Ikone - 3 **2.50**  ·  Vincent Marchetti - 3 **2.38**  ·  Luca Koleosho - 3 **3.00**  ·  Adama Camara - 3 **3.40**  ·  Rudy Matondo - 3 **7.00**  ·  Zabi Gueu - 3 **9.00**  ·  Samir Chergui - 3 **13.00**  ·  Diego Coppola - 3 **13.00**  ·  Mamadou Mbow - 3 **13.00**  ·  Maxime Lopez - 3 **13.00**  ·  Thibault De Smet - 3 **13.00**  ·  Yoan Kore - 3 **13.00**  ·  Otavio da Silva - 3 **11.00**  ·  Jean-Philippe Krasso - 4 **2.00**  ·  Lassine Sinayoko - 4 **2.10**  ·  Ilan Kebbal - 4 **2.20**  ·  Pablo Pagis - 4 **2.62**  ·  Moses Simon - 4 **2.75**  ·  Omar Sissoko - 4 **3.75**  ·  Pierre Lees-Melou - 4 **9.00**  ·  Jonathan Ikone - 4 **4.50**  ·  Vincent Marchetti - 4 **4.33**  ·  Luca Koleosho - 4 **6.00**  ·  Adama Camara - 4 **7.00**  ·  Rudy Matondo - 4 **19.00**  ·  Zabi Gueu - 4 **21.00**  ·  Jean-Philippe Krasso - 5 **3.40**  ·  Lassine Sinayoko - 5 **3.50**  ·  Ilan Kebbal - 5 **3.75**  ·  Pablo Pagis - 5 **4.33**  ·  Moses Simon - 5 **5.00**  ·  Omar Sissoko - 5 **7.00**  ·  Pierre Lees-Melou - 5 **19.00**  ·  Jonathan Ikone - 5 **10.00**  ·  Vincent Marchetti - 5 **9.00**  ·  Luca Koleosho - 5 **13.00**  ·  Adama Camara - 5 **15.00**  ·  Jean-Philippe Krasso - 6 **5.50**  ·  Lassine Sinayoko - 6 **6.00**  ·  Ilan Kebbal - 6 **6.50**  ·  Pablo Pagis - 6 **9.00**  ·  Moses Simon - 6 **10.00**  ·  Omar Sissoko - 6 **15.00**  ·  Pierre Lees-Melou - 6 **19.00**  ·  Jonathan Ikone - 6 **21.00**  ·  Jean-Philippe Krasso - 7 **11.00**  ·  Lassine Sinayoko - 7 **11.00**  ·  Ilan Kebbal - 7 **13.00**  ·  Pablo Pagis - 7 **17.00**  ·  Moses Simon - 7 **19.00**  ·  Jean-Philippe Krasso - 8 **19.00**  ·  Lassine Sinayoko - 8 **21.00**  ·  Hamari Traore - 3 **21.00**  ·  Luca Koleosho - 6 **21.00**  ·  Vincent Marchetti - 6 **19.00**  ·  Omar Sissoko - 7 **21.00**  ·  Ilan Kebbal - 8 **21.00**
-- **Away Player Shots:** Folarin Balogun - 1 **1.04**  ·  Matthis Abline - 1 **1.04**  ·  Mika Biereth - 1 **1.05**  ·  Oumar Konate - 1 **1.05**  ·  Paris Brunner - 1 **1.02**  ·  Ansu Fati - 1 **1.06**  ·  Takumi Minamino - 1 **1.12**  ·  Alexandr Golovin - 1 **1.14**  ·  Safouane Benzahra - 1 **1.08**  ·  Anis Soubeir - 1 **1.50**  ·  Stanis Idumbo-Muzambo - 1 **1.18**  ·  Edan Diop - 1 **1.25**  ·  Lamine Camara - 1 **1.53**  ·  Denis Zakaria - 1 **1.33**  ·  Pape Cabral - 1 **1.18**  ·  Vanderson Campos - 1 **1.53**  ·  Jordan Teze - 1 **1.44**  ·  Flavio Nazinho - 1 **1.53**  ·  Eric Dier - 1 **1.62**  ·  Ilane Toure - 1 **1.73**  ·  Samuel Nibombe - 1 **1.73**  ·  Christian Mawissa Elebi - 1 **2.38**  ·  Mohammed Salisu - 1 **2.00**  ·  Sadibou Sane - 1 **2.00**  ·  Folarin Balogun - 2 **1.20**  ·  Matthis Abline - 2 **1.20**  ·  Mika Biereth - 2 **1.25**  ·  Oumar Konate - 2 **1.25**  ·  Paris Brunner - 2 **1.17**  ·  Ansu Fati - 2 **1.33**  ·  Takumi Minamino - 2 **1.57**  ·  Alexandr Golovin - 2 **1.62**  ·  Safouane Benzahra - 2 **1.44**  ·  Anis Soubeir - 2 **3.25**  ·  Stanis Idumbo-Muzambo - 2 **1.80**  ·  Edan Diop - 2 **2.10**  ·  Lamine Camara - 2 **3.40**  ·  Denis Zakaria - 2 **2.38**  ·  Pape Cabral - 2 **1.80**  ·  Vanderson Campos - 2 **3.40**  ·  Jordan Teze - 2 **3.00**  ·  Flavio Nazinho - 2 **3.40**  ·  Eric Dier - 2 **3.75**  ·  Ilane Toure - 2 **4.00**  ·  Samuel Nibombe - 2 **4.00**  ·  Christian Mawissa Elebi - 2 **8.00**  ·  Mohammed Salisu - 2 **5.50**  ·  Sadibou Sane - 2 **5.50**  ·  Folarin Balogun - 3 **1.62**  ·  Matthis Abline - 3 **1.62**  ·  Mika Biereth - 3 **1.73**  ·  Oumar Konate - 3 **1.80**  ·  Paris Brunner - 3 **1.50**  ·  Ansu Fati - 3 **1.91**  ·  Takumi Minamino - 3 **2.62**  ·  Alexandr Golovin - 3 **2.75**  ·  Safouane Benzahra - 3 **2.25**  ·  Anis Soubeir - 3 **8.00**  ·  Stanis Idumbo-Muzambo - 3 **3.40**  ·  Edan Diop - 3 **4.33**  ·  Lamine Camara - 3 **9.00**  ·  Denis Zakaria - 3 **5.50**  ·  Pape Cabral - 3 **3.40**  ·  Vanderson Campos - 3 **9.00**  ·  Jordan Teze - 3 **7.00**  ·  Flavio Nazinho - 3 **9.00**  ·  Eric Dier - 3 **10.00**  ·  Ilane Toure - 3 **13.00**  ·  Samuel Nibombe - 3 **13.00**  ·  Christian Mawissa Elebi - 3 **21.00**  ·  Mohammed Salisu - 3 **19.00**  ·  Sadibou Sane - 3 **19.00**  ·  Folarin Balogun - 4 **2.50**  ·  Matthis Abline - 4 **2.50**  ·  Mika Biereth - 4 **2.75**  ·  Oumar Konate - 4 **2.75**  ·  Paris Brunner - 4 **2.20**  ·  Ansu Fati - 4 **3.25**  ·  Takumi Minamino - 4 **5.50**  ·  Alexandr Golovin - 4 **5.50**  ·  Safouane Benzahra - 4 **4.00**  ·  Anis Soubeir - 4 **21.00**  ·  Stanis Idumbo-Muzambo - 4 **7.00**  ·  Edan Diop - 4 **10.00**  ·  Lamine Camara - 4 **21.00**  ·  Denis Zakaria - 4 **13.00**  ·  Pape Cabral - 4 **7.00**  ·  Vanderson Campos - 4 **21.00**  ·  Jordan Teze - 4 **19.00**  ·  Flavio Nazinho - 4 **21.00**  ·  Eric Dier - 4 **21.00**  ·  Folarin Balogun - 5 **4.33**  ·  Matthis Abline - 5 **4.33**  ·  Mika Biereth - 5 **5.00**  ·  Oumar Konate - 5 **5.00**  ·  Paris Brunner - 5 **3.50**  ·  Ansu Fati - 5 **6.00**  ·  Takumi Minamino - 5 **11.00**  ·  Alexandr Golovin - 5 **13.00**  ·  Safouane Benzahra - 5 **8.00**  ·  Anis Soubeir - 5 **15.00**  ·  Stanis Idumbo-Muzambo - 5 **15.00**  ·  Edan Diop - 5 **21.00**  ·  Lamine Camara - 5 **21.00**  ·  Folarin Balogun - 6 **8.00**  ·  Matthis Abline - 6 **8.00**  ·  Mika Biereth - 6 **10.00**  ·  Oumar Konate - 6 **10.00**  ·  Paris Brunner - 6 **6.50**  ·  Ansu Fati - 6 **13.00**  ·  Takumi Minamino - 6 **21.00**  ·  Alexandr Golovin - 6 **21.00**  ·  Safouane Benzahra - 6 **17.00**  ·  Folarin Balogun - 7 **15.00**  ·  Matthis Abline - 7 **15.00**  ·  Mika Biereth - 7 **19.00**  ·  Oumar Konate - 7 **19.00**  ·  Paris Brunner - 7 **13.00**  ·  Ansu Fati - 7 **21.00**  ·  Folarin Balogun - 8 **21.00**  ·  Matthis Abline - 8 **21.00**  ·  Paris Brunner - 8 **21.00**  ·  Pape Cabral - 5 **15.00**
-- **Anytime Goal Scorer:** Vanderson Campos **9.50**  ·  Mika Biereth **3.25**  ·  Rudy Matondo **7.00**  ·  Denis Zakaria **7.00**  ·  Folarin Balogun **3.00**  ·  Lamine Camara **7.50**  ·  Mohammed Salisu **12.00**  ·  Takumi Minamino **4.75**  ·  Jean-Philippe Krasso **2.30**  ·  Moses Simon **3.50**  ·  Omar Sissoko **3.50**  ·  Pablo Pagis **3.10**  ·  Pape Cabral **4.75**  ·  Ilan Kebbal **3.10**  ·  Maxime Lopez **10.00**  ·  Samir Chergui **9.50**  ·  Vincent Marchetti **4.75**  ·  Adama Camara **4.75**  ·  Mamadou Mbow **10.00**  ·  Yoan Kore **10.00**  ·  Ilane Toure **9.50**  ·  Matthis Abline **3.00**  ·  Lassine Sinayoko **2.62**  ·  Thibault De Smet **10.00**  ·  Luca Koleosho **4.50**  ·  Jordan Teze **8.00**  ·  Christian Mawissa Elebi **15.00**  ·  Edan Diop **5.50**  ·  Alexandr Golovin **4.75**  ·  Pierre Lees-Melou **6.00**  ·  Paris Brunner **2.75**  ·  Diego Coppola **10.00**  ·  Flavio Nazinho **7.50**  ·  Jonathan Ikone **4.00**  ·  Hamari Traore **15.00**  ·  Stanis Idumbo-Muzambo **4.75**  ·  Mamadou Coulibaly **5.50**  ·  Mathys Detourbet **5.50**  ·  Emmanuel Mbemba **10.00**  ·  Oumar Konate **3.00**  ·  Safouane Benzahra **3.75**  ·  Anis Soubeir **7.50**  ·  Samuel Nibombe **9.50**  ·  Eric Dier **10.00**  ·  Ansu Fati **3.60**  ·  Sadibou Sane **12.00**  ·  Patrick Zabi **7.00**  ·  Zabi Gueu **7.50**  ·  Otavio da Silva **12.00**
-- **Player to Score or Assist:** Vanderson Campos **4.50**  ·  Mika Biereth **2.40**  ·  Rudy Matondo **3.50**  ·  Denis Zakaria **5.00**  ·  Folarin Balogun **2.10**  ·  Lamine Camara **3.75**  ·  Mohammed Salisu **7.00**  ·  Takumi Minamino **2.88**  ·  Jean-Philippe Krasso **1.83**  ·  Moses Simon **2.20**  ·  Omar Sissoko **2.40**  ·  Pablo Pagis **2.10**  ·  Pape Cabral **3.10**  ·  Ilan Kebbal **2.00**  ·  Maxime Lopez **4.33**  ·  Samir Chergui **6.00**  ·  Vincent Marchetti **2.75**  ·  Adama Camara **3.60**  ·  Mamadou Mbow **7.00**  ·  Yoan Kore **6.00**  ·  Ilane Toure **4.33**  ·  Matthis Abline **2.10**  ·  Lassine Sinayoko **1.91**  ·  Thibault De Smet **4.33**  ·  Luca Koleosho **2.75**  ·  Jordan Teze **4.50**  ·  Christian Mawissa Elebi **11.00**  ·  Edan Diop **3.50**  ·  Alexandr Golovin **2.75**  ·  Pierre Lees-Melou **3.75**  ·  Paris Brunner **2.20**  ·  Diego Coppola **7.00**  ·  Flavio Nazinho **4.00**  ·  Jonathan Ikone **2.75**  ·  Hamari Traore **6.00**  ·  Stanis Idumbo-Muzambo **3.25**  ·  Mamadou Coulibaly **3.60**  ·  Mathys Detourbet **3.60**  ·  Emmanuel Mbemba **6.00**  ·  Oumar Konate **2.20**  ·  Safouane Benzahra **2.50**  ·  Anis Soubeir **3.75**  ·  Samuel Nibombe **6.00**  ·  Eric Dier **6.50**  ·  Ansu Fati **2.50**  ·  Sadibou Sane **7.00**  ·  Patrick Zabi **4.00**  ·  Zabi Gueu **3.75**  ·  Otavio da Silva **6.50**
+- **Home Team Total Cards:**
+    - 2,5: más **2.50** · menos **1.50**
+- **Away Team Total Cards:**
+    - 2,5: más **2.50** · menos **1.50**
+- **Total ShotOnGoal:**
+    - 8,5: más **1.80** · menos **1.91**
+- **ShotOnTarget 1x2:** 1 **1.80**  ·  X **7.00**  ·  2 **2.40**
+- **Total Shots:**
+    - 25,5: más **1.91** · menos **1.80**
+- **Shots.1x2:** 1 **1.53**  ·  X **15.00**  ·  2 **2.50**
+- **Home Player Shots On Target Total:** Jean-Philippe Krasso - 1 **1.67**  ·  Lassine Sinayoko - 1 **1.53**  ·  Ilan Kebbal - 1 **1.53**  ·  Pablo Pagis - 1 **1.73**  ·  Moses Simon - 1 **2.10**  ·  Omar Sissoko - 1 **1.83**  ·  Pierre Lees-Melou - 1 **2.62**  ·  Jonathan Ikone - 1 **2.10**  ·  Vincent Marchetti - 1 **1.80**  ·  Luca Koleosho - 1 **1.44**  ·  Adama Camara - 1 **4.00**  ·  Rudy Matondo - 1 **2.62**  ·  Zabi Gueu - 1 **3.00**  ·  Samir Chergui - 1 **3.00**  ·  Diego Coppola - 1 **4.33**  ·  Mamadou Mbow - 1 **5.50**  ·  Maxime Lopez - 1 **4.33**  ·  Thibault De Smet - 1 **5.50**  ·  Yoan Kore - 1 **5.50**  ·  Otavio da Silva - 1 **8.00**  ·  Hamari Traore - 1 **8.00**  ·  Jean-Philippe Krasso - 2 **4.00**  ·  Lassine Sinayoko - 2 **3.75**  ·  Ilan Kebbal - 2 **3.75**  ·  Pablo Pagis - 2 **4.50**  ·  Moses Simon - 2 **8.00**  ·  Omar Sissoko - 2 **5.50**  ·  Pierre Lees-Melou - 2 **11.00**  ·  Jonathan Ikone - 2 **7.00**  ·  Vincent Marchetti - 2 **5.00**  ·  Luca Koleosho - 2 **3.25**  ·  Adama Camara - 2 **21.00**  ·  Rudy Matondo - 2 **11.00**  ·  Zabi Gueu - 2 **15.00**  ·  Samir Chergui - 2 **15.00**  ·  Diego Coppola - 2 **21.00**  ·  Mamadou Mbow - 2 **19.00**  ·  Maxime Lopez - 2 **21.00**  ·  Thibault De Smet - 2 **19.00**  ·  Yoan Kore - 2 **19.00**  ·  Otavio da Silva - 2 **21.00**  ·  Jean-Philippe Krasso - 3 **13.00**  ·  Lassine Sinayoko - 3 **11.00**  ·  Ilan Kebbal - 3 **11.00**  ·  Pablo Pagis - 3 **17.00**  ·  Moses Simon - 3 **21.00**  ·  Omar Sissoko - 3 **19.00**  ·  Jonathan Ikone - 3 **21.00**  ·  Vincent Marchetti - 3 **17.00**  ·  Luca Koleosho - 3 **10.00**  ·  Adama Camara - 3 **21.00**  ·  Jean-Philippe Krasso - 4 **13.00**  ·  Lassine Sinayoko - 4 **15.00**  ·  Ilan Kebbal - 4 **21.00**  ·  Pablo Pagis - 4 **21.00**  ·  Moses Simon - 4 **21.00**  ·  Luca Koleosho - 4 **21.00**
+- **Away Player Shots Total:**
+    - 11,5: más **1.91** · menos **1.80**
+- **Home Player Shots:** Jean-Philippe Krasso - 1 **1.05**  ·  Lassine Sinayoko - 1 **1.04**  ·  Ilan Kebbal - 1 **1.07**  ·  Pablo Pagis - 1 **1.11**  ·  Moses Simon - 1 **1.18**  ·  Omar Sissoko - 1 **1.12**  ·  Pierre Lees-Melou - 1 **1.22**  ·  Jonathan Ikone - 1 **1.08**  ·  Vincent Marchetti - 1 **1.11**  ·  Luca Koleosho - 1 **1.08**  ·  Adama Camara - 1 **1.73**  ·  Rudy Matondo - 1 **1.36**  ·  Zabi Gueu - 1 **1.53**  ·  Samir Chergui - 1 **1.44**  ·  Diego Coppola - 1 **2.50**  ·  Mamadou Mbow - 1 **3.40**  ·  Maxime Lopez - 1 **1.91**  ·  Thibault De Smet - 1 **2.50**  ·  Yoan Kore - 1 **2.50**  ·  Otavio da Silva - 1 **3.40**  ·  Hamari Traore - 1 **3.40**  ·  Jean-Philippe Krasso - 2 **1.28**  ·  Lassine Sinayoko - 2 **1.25**  ·  Ilan Kebbal - 2 **1.36**  ·  Pablo Pagis - 2 **1.53**  ·  Moses Simon - 2 **1.80**  ·  Omar Sissoko - 2 **1.57**  ·  Pierre Lees-Melou - 2 **1.91**  ·  Jonathan Ikone - 2 **1.44**  ·  Vincent Marchetti - 2 **1.50**  ·  Luca Koleosho - 2 **1.40**  ·  Adama Camara - 2 **4.33**  ·  Rudy Matondo - 2 **2.62**  ·  Zabi Gueu - 2 **3.40**  ·  Samir Chergui - 2 **3.00**  ·  Diego Coppola - 2 **9.00**  ·  Mamadou Mbow - 2 **13.00**  ·  Maxime Lopez - 2 **5.50**  ·  Thibault De Smet - 2 **9.00**  ·  Yoan Kore - 2 **9.00**  ·  Otavio da Silva - 2 **13.00**  ·  Hamari Traore - 2 **13.00**  ·  Jean-Philippe Krasso - 3 **1.83**  ·  Lassine Sinayoko - 3 **1.73**  ·  Ilan Kebbal - 3 **2.10**  ·  Pablo Pagis - 3 **2.62**  ·  Moses Simon - 3 **3.40**  ·  Omar Sissoko - 3 **2.62**  ·  Pierre Lees-Melou - 3 **3.75**  ·  Jonathan Ikone - 3 **2.25**  ·  Vincent Marchetti - 3 **2.50**  ·  Luca Koleosho - 3 **2.20**  ·  Adama Camara - 3 **13.00**  ·  Rudy Matondo - 3 **6.00**  ·  Zabi Gueu - 3 **9.00**  ·  Samir Chergui - 3 **8.00**  ·  Diego Coppola - 3 **21.00**  ·  Mamadou Mbow - 3 **13.00**  ·  Maxime Lopez - 3 **17.00**  ·  Thibault De Smet - 3 **21.00**  ·  Yoan Kore - 3 **21.00**  ·  Otavio da Silva - 3 **11.00**  ·  Jean-Philippe Krasso - 4 **3.00**  ·  Lassine Sinayoko - 4 **2.75**  ·  Ilan Kebbal - 4 **3.75**  ·  Pablo Pagis - 4 **5.00**  ·  Moses Simon - 4 **7.00**  ·  Omar Sissoko - 4 **5.50**  ·  Pierre Lees-Melou - 4 **9.00**  ·  Jonathan Ikone - 4 **4.00**  ·  Vincent Marchetti - 4 **4.50**  ·  Luca Koleosho - 4 **3.75**  ·  Adama Camara - 4 **8.00**  ·  Rudy Matondo - 4 **15.00**  ·  Zabi Gueu - 4 **21.00**  ·  Jean-Philippe Krasso - 5 **5.50**  ·  Lassine Sinayoko - 5 **5.00**  ·  Ilan Kebbal - 5 **7.00**  ·  Pablo Pagis - 5 **11.00**  ·  Moses Simon - 5 **17.00**  ·  Omar Sissoko - 5 **11.00**  ·  Pierre Lees-Melou - 5 **19.00**  ·  Jonathan Ikone - 5 **8.00**  ·  Vincent Marchetti - 5 **10.00**  ·  Luca Koleosho - 5 **8.00**  ·  Adama Camara - 5 **19.00**  ·  Jean-Philippe Krasso - 6 **11.00**  ·  Lassine Sinayoko - 6 **10.00**  ·  Ilan Kebbal - 6 **15.00**  ·  Pablo Pagis - 6 **21.00**  ·  Moses Simon - 6 **10.00**  ·  Omar Sissoko - 6 **21.00**  ·  Jonathan Ikone - 6 **17.00**  ·  Jean-Philippe Krasso - 7 **21.00**  ·  Lassine Sinayoko - 7 **19.00**  ·  Ilan Kebbal - 7 **21.00**  ·  Pablo Pagis - 7 **19.00**  ·  Moses Simon - 7 **19.00**  ·  Jean-Philippe Krasso - 8 **19.00**  ·  Lassine Sinayoko - 8 **21.00**  ·  Hamari Traore - 3 **21.00**  ·  Luca Koleosho - 6 **15.00**  ·  Vincent Marchetti - 6 **19.00**  ·  Omar Sissoko - 7 **21.00**  ·  Ilan Kebbal - 8 **21.00**  ·  Samir Chergui - 4 **19.00**
+- **Away Player Shots:** Folarin Balogun - 1 **1.04**  ·  Matthis Abline - 1 **1.08**  ·  Mika Biereth - 1 **1.25**  ·  Oumar Konate - 1 **1.20**  ·  Paris Brunner - 1 **1.02**  ·  Ansu Fati - 1 **1.07**  ·  Takumi Minamino - 1 **1.17**  ·  Alexandr Golovin - 1 **1.20**  ·  Safouane Benzahra - 1 **1.44**  ·  Anis Soubeir - 1 **1.83**  ·  Stanis Idumbo-Muzambo - 1 **1.10**  ·  Edan Diop - 1 **1.36**  ·  Lamine Camara - 1 **1.36**  ·  Denis Zakaria - 1 **1.83**  ·  Pape Cabral - 1 **1.10**  ·  Vanderson Campos - 1 **2.10**  ·  Jordan Teze - 1 **2.20**  ·  Flavio Nazinho - 1 **1.83**  ·  Eric Dier - 1 **2.75**  ·  Ilane Toure - 1 **2.20**  ·  Samuel Nibombe - 1 **2.38**  ·  Christian Mawissa Elebi - 1 **6.00**  ·  Mohammed Salisu - 1 **2.20**  ·  Sadibou Sane - 1 **2.38**  ·  Folarin Balogun - 2 **1.25**  ·  Matthis Abline - 2 **1.40**  ·  Mika Biereth - 2 **2.10**  ·  Oumar Konate - 2 **1.83**  ·  Paris Brunner - 2 **1.17**  ·  Ansu Fati - 2 **1.36**  ·  Takumi Minamino - 2 **1.73**  ·  Alexandr Golovin - 2 **1.83**  ·  Safouane Benzahra - 2 **2.75**  ·  Anis Soubeir - 2 **5.00**  ·  Stanis Idumbo-Muzambo - 2 **1.44**  ·  Edan Diop - 2 **2.62**  ·  Lamine Camara - 2 **2.62**  ·  Denis Zakaria - 2 **5.00**  ·  Pape Cabral - 2 **1.44**  ·  Vanderson Campos - 2 **6.00**  ·  Jordan Teze - 2 **7.00**  ·  Flavio Nazinho - 2 **5.00**  ·  Eric Dier - 2 **11.00**  ·  Ilane Toure - 2 **7.00**  ·  Samuel Nibombe - 2 **8.00**  ·  Christian Mawissa Elebi - 2 **21.00**  ·  Mohammed Salisu - 2 **7.00**  ·  Sadibou Sane - 2 **8.00**  ·  Folarin Balogun - 3 **1.73**  ·  Matthis Abline - 3 **2.10**  ·  Mika Biereth - 3 **4.33**  ·  Oumar Konate - 3 **3.50**  ·  Paris Brunner - 3 **1.50**  ·  Ansu Fati - 3 **2.00**  ·  Takumi Minamino - 3 **3.25**  ·  Alexandr Golovin - 3 **3.50**  ·  Safouane Benzahra - 3 **7.00**  ·  Anis Soubeir - 3 **15.00**  ·  Stanis Idumbo-Muzambo - 3 **2.25**  ·  Edan Diop - 3 **6.00**  ·  Lamine Camara - 3 **6.00**  ·  Denis Zakaria - 3 **15.00**  ·  Pape Cabral - 3 **2.25**  ·  Vanderson Campos - 3 **19.00**  ·  Jordan Teze - 3 **21.00**  ·  Flavio Nazinho - 3 **15.00**  ·  Eric Dier - 3 **10.00**  ·  Ilane Toure - 3 **21.00**  ·  Samuel Nibombe - 3 **21.00**  ·  Christian Mawissa Elebi - 3 **21.00**  ·  Mohammed Salisu - 3 **21.00**  ·  Sadibou Sane - 3 **21.00**  ·  Folarin Balogun - 4 **2.75**  ·  Matthis Abline - 4 **3.75**  ·  Mika Biereth - 4 **11.00**  ·  Oumar Konate - 4 **8.00**  ·  Paris Brunner - 4 **2.20**  ·  Ansu Fati - 4 **3.50**  ·  Takumi Minamino - 4 **6.50**  ·  Alexandr Golovin - 4 **8.00**  ·  Safouane Benzahra - 4 **19.00**  ·  Anis Soubeir - 4 **21.00**  ·  Stanis Idumbo-Muzambo - 4 **4.00**  ·  Edan Diop - 4 **15.00**  ·  Lamine Camara - 4 **15.00**  ·  Denis Zakaria - 4 **15.00**  ·  Pape Cabral - 4 **4.00**  ·  Vanderson Campos - 4 **21.00**  ·  Jordan Teze - 4 **21.00**  ·  Flavio Nazinho - 4 **21.00**  ·  Eric Dier - 4 **21.00**  ·  Folarin Balogun - 5 **5.00**  ·  Matthis Abline - 5 **8.00**  ·  Mika Biereth - 5 **21.00**  ·  Oumar Konate - 5 **17.00**  ·  Paris Brunner - 5 **3.50**  ·  Ansu Fati - 5 **6.50**  ·  Takumi Minamino - 5 **15.00**  ·  Alexandr Golovin - 5 **17.00**  ·  Safouane Benzahra - 5 **13.00**  ·  Stanis Idumbo-Muzambo - 5 **9.00**  ·  Edan Diop - 5 **21.00**  ·  Folarin Balogun - 6 **10.00**  ·  Matthis Abline - 6 **15.00**  ·  Mika Biereth - 6 **11.00**  ·  Oumar Konate - 6 **10.00**  ·  Paris Brunner - 6 **6.50**  ·  Ansu Fati - 6 **13.00**  ·  Takumi Minamino - 6 **21.00**  ·  Alexandr Golovin - 6 **21.00**  ·  Safouane Benzahra - 6 **21.00**  ·  Stanis Idumbo-Muzambo - 6 **17.00**  ·  Folarin Balogun - 7 **19.00**  ·  Matthis Abline - 7 **15.00**  ·  Mika Biereth - 7 **21.00**  ·  Oumar Konate - 7 **19.00**  ·  Paris Brunner - 7 **13.00**  ·  Ansu Fati - 7 **21.00**  ·  Folarin Balogun - 8 **21.00**  ·  Matthis Abline - 8 **21.00**  ·  Paris Brunner - 8 **21.00**  ·  Pape Cabral - 5 **9.00**  ·  Pape Cabral - 6 **17.00**
+- **Goalkeeper Saves:** Obed Nkambadio - 3 **1.80**  ·  Obed Nkambadio - 4 **3.00**  ·  Obed Nkambadio - 5 **6.00**  ·  Obed Nkambadio - 2 **1.25**  ·  Lukas Hradecky - 2 **1.17**  ·  Lukas Hradecky - 3 **1.50**  ·  Lukas Hradecky - 4 **2.25**  ·  Lukas Hradecky - 5 **3.75**  ·  Lukas Hradecky - 6 **8.00**
+- **Anytime Goal Scorer:** Vanderson Campos **9.50**  ·  Mika Biereth **3.40**  ·  Rudy Matondo **7.00**  ·  Denis Zakaria **6.50**  ·  Folarin Balogun **3.00**  ·  Lamine Camara **8.00**  ·  Mohammed Salisu **12.00**  ·  Takumi Minamino **5.00**  ·  Jean-Philippe Krasso **2.50**  ·  Moses Simon **3.75**  ·  Omar Sissoko **3.75**  ·  Pablo Pagis **3.20**  ·  Pape Cabral **5.00**  ·  Ilan Kebbal **3.40**  ·  Maxime Lopez **11.00**  ·  Samir Chergui **9.50**  ·  Vincent Marchetti **5.00**  ·  Adama Camara **5.00**  ·  Mamadou Mbow **11.00**  ·  Yoan Kore **11.00**  ·  Ilane Toure **9.50**  ·  Matthis Abline **3.00**  ·  Lassine Sinayoko **2.75**  ·  Thibault De Smet **11.00**  ·  Luca Koleosho **4.50**  ·  Jordan Teze **8.50**  ·  Christian Mawissa Elebi **15.00**  ·  Edan Diop **5.50**  ·  Alexandr Golovin **5.00**  ·  Pierre Lees-Melou **6.50**  ·  Paris Brunner **2.88**  ·  Diego Coppola **11.00**  ·  Flavio Nazinho **8.00**  ·  Jonathan Ikone **4.33**  ·  Hamari Traore **15.00**  ·  Stanis Idumbo-Muzambo **5.00**  ·  Mamadou Coulibaly **5.50**  ·  Mathys Detourbet **5.50**  ·  Emmanuel Mbemba **11.00**  ·  Oumar Konate **3.00**  ·  Safouane Benzahra **4.33**  ·  Anis Soubeir **8.00**  ·  Samuel Nibombe **9.50**  ·  Eric Dier **11.00**  ·  Ansu Fati **3.75**  ·  Sadibou Sane **12.00**  ·  Patrick Zabi **7.00**  ·  Zabi Gueu **8.00**  ·  Otavio da Silva **12.00**
+- **Player to Score or Assist:** Vanderson Campos **4.75**  ·  Mika Biereth **2.50**  ·  Rudy Matondo **3.75**  ·  Denis Zakaria **4.75**  ·  Folarin Balogun **2.20**  ·  Lamine Camara **3.75**  ·  Mohammed Salisu **7.50**  ·  Takumi Minamino **3.00**  ·  Jean-Philippe Krasso **2.00**  ·  Moses Simon **2.30**  ·  Omar Sissoko **2.60**  ·  Pablo Pagis **2.20**  ·  Pape Cabral **3.25**  ·  Ilan Kebbal **2.10**  ·  Maxime Lopez **4.50**  ·  Samir Chergui **6.00**  ·  Vincent Marchetti **2.88**  ·  Adama Camara **3.75**  ·  Mamadou Mbow **7.50**  ·  Yoan Kore **6.50**  ·  Ilane Toure **4.50**  ·  Matthis Abline **2.20**  ·  Lassine Sinayoko **2.00**  ·  Thibault De Smet **4.50**  ·  Luca Koleosho **2.88**  ·  Jordan Teze **4.75**  ·  Christian Mawissa Elebi **11.00**  ·  Edan Diop **3.60**  ·  Alexandr Golovin **2.88**  ·  Pierre Lees-Melou **4.00**  ·  Paris Brunner **2.25**  ·  Diego Coppola **7.50**  ·  Flavio Nazinho **4.00**  ·  Jonathan Ikone **2.88**  ·  Hamari Traore **6.00**  ·  Stanis Idumbo-Muzambo **3.40**  ·  Mamadou Coulibaly **3.75**  ·  Mathys Detourbet **3.75**  ·  Emmanuel Mbemba **6.50**  ·  Oumar Konate **2.30**  ·  Safouane Benzahra **2.75**  ·  Anis Soubeir **3.75**  ·  Samuel Nibombe **6.50**  ·  Eric Dier **7.00**  ·  Ansu Fati **2.62**  ·  Sadibou Sane **7.50**  ·  Patrick Zabi **4.33**  ·  Zabi Gueu **3.75**  ·  Otavio da Silva **7.00**
 
 ## Estadísticas de equipo
 | | Paris FC (total) | Paris FC en casa | Monaco (total) | Monaco fuera |
@@ -189,38 +204,38 @@ _Goles esperados: local 1,23 · visitante 1,22 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 32% | 34% | 2.90 | -1% |
-| 1X2: X | 27% | 26% | 27% | 3.60 | -4% |
-| 1X2: 1 | 37% | 42% | 39% | 2.20 | -13% |
-| Doble oportunidad: X2 | 63% | 57% | 60% | 1.67 | +1% |
-| Doble oportunidad: 12 | 73% | 75% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 64% | 68% | 66% | 1.40 | -8% |
-| Ambos marcan: No | 50% | 41% | 46% | 2.25 | +3% |
-| Ambos marcan: Sí | 50% | 59% | 54% | 1.57 | -15% |
-| Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 44% | 55% | 50% | 1.73 | -14% |
-| Goles más/menos: Más de 3.5 | 23% | 34% | 29% | 2.75 | -21% |
-| Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +12% |
-| Goles más/menos: Menos de 2.5 | 56% | 45% | 50% | 2.10 | +6% |
-| Goles más/menos: Menos de 3.5 | 77% | 66% | 71% | 1.44 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 72% | 69% | 1.30 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
-| Goles del local: Más de 0.5 | 71% | 78% | 75% | 1.20 | -11% |
-| Goles del local: Más de 1.5 | 35% | 49% | 42% | 1.91 | -20% |
-| Goles del local: Más de 2.5 | 13% | 23% | 18% | 4.00 | -28% |
-| Goles del local: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
-| Goles del local: Menos de 1.5 | 65% | 51% | 58% | 1.80 | +5% |
-| Goles del local: Menos de 2.5 | 87% | 77% | 82% | 1.22 | +0% |
-| Goles del visitante: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles del visitante: Más de 1.5 | 34% | 39% | 37% | 2.38 | -12% |
-| Goles del visitante: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles del visitante: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
+| 1X2: 2 | 36% | 32% | 34% | 3.00 | +2% |
+| 1X2: X | 27% | 27% | 27% | 3.50 | -5% |
+| 1X2: 1 | 37% | 41% | 39% | 2.30 | -11% |
+| Doble oportunidad: X2 | 63% | 57% | 60% | 1.67 | +0% |
+| Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
+| Doble oportunidad: 1X | 64% | 70% | 67% | 1.36 | -9% |
+| Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
+| Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -12% |
+| Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -8% |
+| Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
+| Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
+| Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +7% |
+| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +3% |
+| Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles del local: Más de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
+| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -25% |
+| Goles del local: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles del local: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
+| Goles del visitante: Más de 0.5 | 71% | 72% | 71% | 1.30 | -7% |
+| Goles del visitante: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles del visitante: Menos de 0.5 | 29% | 28% | 29% | 3.40 | -3% |
+| Goles del visitante: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Córners más/menos: Más de 9.5 | 43% | 46% | 45% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 57% | 54% | 55% | 1.73 | -4% |
-| 1X2 descanso: 2 | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -2% |
-| 1X2 descanso: 1 | 28% | 33% | 30% | 2.75 | -16% |
+| 1X2 descanso: 2 | 27% | 27% | 27% | 3.50 | -6% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
+| 1X2 descanso: 1 | 28% | 32% | 30% | 2.88 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Sheffield Utd – Wrexham
 **Championship** · Regular Season - 13 · 30/10/2026 21:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:01_

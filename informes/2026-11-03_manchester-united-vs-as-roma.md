@@ -1,20 +1,20 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **2.30**  ·  X **3.80**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.53** · menos **2.50**
-    - 3,5: más **2.38** · menos **1.57**
+    - 2,5: más **1.50** · menos **2.62**
+    - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -187,11 +187,11 @@ _Goles esperados: local 1,66 · visitante 1,83 · córners esperados 9,1._
 | Doble oportunidad: 1X | 58% | 65% | 61% | 1.44 | -12% |
 | Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
 | Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 68% | 62% | 65% | 1.53 | -1% |
-| Goles más/menos: Más de 3.5 | 46% | 40% | 43% | 2.38 | +2% |
+| Goles más/menos: Más de 2.5 | 68% | 64% | 66% | 1.50 | -1% |
+| Goles más/menos: Más de 3.5 | 46% | 41% | 44% | 2.30 | +1% |
 | Goles más/menos: Más de 4.5 | 27% | 24% | 26% | 4.00 | +2% |
-| Goles más/menos: Menos de 2.5 | 32% | 38% | 35% | 2.50 | -12% |
-| Goles más/menos: Menos de 3.5 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Menos de 2.5 | 32% | 36% | 34% | 2.62 | -10% |
+| Goles más/menos: Menos de 3.5 | 54% | 59% | 56% | 1.62 | -9% |
 | Goles más/menos: Menos de 4.5 | 73% | 76% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |

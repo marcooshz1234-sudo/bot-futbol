@@ -1,7 +1,7 @@
 # SV Elversberg – FSV Mainz 05
 **Bundesliga** · Regular Season - 8 · 30/10/2026 20:30 (hora España) · Ursapharm-Arena an der Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:01_

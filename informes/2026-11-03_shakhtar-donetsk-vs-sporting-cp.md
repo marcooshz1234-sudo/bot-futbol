@@ -1,10 +1,10 @@
 # Shakhtar Donetsk – Sporting CP
 **Champions League** · League Stage - 4 · 03/11/2026 18:45 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **3.70**  ·  X **3.70**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.28**

@@ -1,7 +1,7 @@
 # Ribadesella CF – Racing Santander
-**Copa del Rey** · Round of 128 · 29/10/2026 21:00 (hora España)
+**Copa del Rey** · Round of 128 · 29/10/2026 21:00 (hora España) · Estadio Oreyana
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

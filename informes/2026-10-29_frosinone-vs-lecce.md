@@ -1,7 +1,7 @@
 # Frosinone – Lecce
 **Serie A** · Regular Season - 9 · 29/10/2026 18:30 (hora España) · PSC Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:00_

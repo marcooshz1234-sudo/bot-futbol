@@ -1,20 +1,20 @@
 # Feyenoord – Inter
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **4.20**  ·  X **4.10**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.75**
+    - 2,5: más **1.40** · menos **3.00**
     - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.40** · menos **1.33**
-    - 5,5: más **6.00** · menos **1.12**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -191,10 +191,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 67% | 45% | 56% | 2.10 | +18% |
 | Ambos marcan: No | 27% | 35% | 31% | 2.62 | -18% |
 | Ambos marcan: Sí | 73% | 65% | 69% | 1.44 | -1% |
-| Goles más/menos: Más de 2.5 | 74% | 66% | 70% | 1.44 | +0% |
+| Goles más/menos: Más de 2.5 | 74% | 68% | 71% | 1.40 | -1% |
 | Goles más/menos: Más de 3.5 | 54% | 47% | 50% | 2.00 | +1% |
 | Goles más/menos: Más de 4.5 | 34% | 28% | 31% | 3.40 | +6% |
-| Goles más/menos: Menos de 2.5 | 26% | 34% | 30% | 2.75 | -17% |
+| Goles más/menos: Menos de 2.5 | 26% | 32% | 29% | 3.00 | -13% |
 | Goles más/menos: Menos de 3.5 | 46% | 53% | 50% | 1.80 | -11% |
 | Goles más/menos: Menos de 4.5 | 66% | 72% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |

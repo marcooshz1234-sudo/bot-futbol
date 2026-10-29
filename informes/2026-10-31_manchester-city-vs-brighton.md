@@ -1,7 +1,7 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:01_

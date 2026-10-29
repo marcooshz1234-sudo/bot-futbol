@@ -1,16 +1,16 @@
 # FC Porto – Napoli
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **2.15**  ·  X **3.40**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**

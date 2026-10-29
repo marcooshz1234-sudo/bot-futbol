@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29 02:04",
+ "generado": "2026-10-29 08:03",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -751,6 +751,8 @@
      "valor_mercado": 0.023,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Anthony Backhouse",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       13,
       23,
@@ -777,6 +779,8 @@
      "valor_mercado": 0.03,
      "movimiento": -0.056,
      "cuota_inicial": 1.44,
+     "arbitro": "Josh Smith",
+     "arbitro_tarjetas": 5.0,
      "prob_xg": 0.77,
      "xg_esperado": 3.09,
      "posiciones": [
@@ -805,6 +809,8 @@
      "valor_mercado": 0.007,
      "movimiento": -0.056,
      "cuota_inicial": 1.44,
+     "arbitro": "Gavin Ward",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       3,
       10,
@@ -855,6 +861,8 @@
      "ventaja": 0.115,
      "detalle": "Lincoln 7/10 · Birmingham 10/10",
      "valor_mercado": 0.0,
+     "arbitro": "Lewis Smith",
+     "arbitro_tarjetas": 3.3,
      "posiciones": [
       15,
       8,
@@ -879,6 +887,8 @@
      "ventaja": 0.05,
      "detalle": "Norwich 8/10 · Watford 9/10",
      "valor_mercado": 0.0,
+     "arbitro": "Ben Speedie",
+     "arbitro_tarjetas": null,
      "posiciones": [
       20,
       21,
@@ -903,6 +913,8 @@
      "ventaja": 0.065,
      "detalle": "Burnley 9/10 · Portsmouth 7/10",
      "valor_mercado": 0.007,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "posiciones": [
       22,
       11,
@@ -955,6 +967,8 @@
      "ventaja": 0.015,
      "detalle": "Lincoln 7/10 · Birmingham 8/10",
      "valor_mercado": 0.046,
+     "arbitro": "Lewis Smith",
+     "arbitro_tarjetas": 3.3,
      "posiciones": [
       15,
       8,
@@ -1059,6 +1073,8 @@
      "ventaja": 0.086,
      "detalle": "Burnley (en contra) 9/10 · Portsmouth 7/10",
      "valor_mercado": 0.014,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "prob_xg": 0.772,
      "xg_esperado": 2.62,
      "posiciones": [
@@ -1114,6 +1130,8 @@
      "ventaja": 0.069,
      "detalle": "Burnley 10/10 · Portsmouth 7/10",
      "valor_mercado": 0.0,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "prob_xg": 0.737,
      "xg_esperado": 2.62,
      "posiciones": [
@@ -1258,6 +1276,8 @@
      "texto": "Jayden Bogle comete 1+ faltas",
      "detalle": "Jayden Bogle 8/8",
      "temporada": "8/8",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       13,
       7,
@@ -1310,6 +1330,8 @@
      "valor_mercado": -0.038,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       6,
       18,
@@ -1336,6 +1358,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.024,
      "cuota_inicial": 1.25,
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "prob_xg": 0.82,
      "xg_esperado": 3.13,
      "posiciones": [
@@ -1391,6 +1415,8 @@
      "texto": "Dominic Calvert-Lewin comete 1+ faltas",
      "detalle": "Dominic Calvert-Lewin 8/8",
      "temporada": "8/8",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       13,
       7,
@@ -1506,6 +1532,8 @@
      "texto": "Oliver McBurnie comete 1+ faltas",
      "detalle": "Oliver McBurnie 7/8",
      "temporada": "7/8",
+     "arbitro": "Thomas Kirk",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       10,
       12,
@@ -1589,6 +1617,8 @@
      "texto": "Vitaly Janelt comete 1+ faltas",
      "detalle": "Vitaly Janelt 8/9",
      "temporada": "8/9",
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       6,
       18,
@@ -1618,6 +1648,8 @@
      "texto": "Pedro Neto comete 1+ faltas",
      "detalle": "Pedro Neto 7/8",
      "temporada": "7/8",
+     "arbitro": "Peter Bankes",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       5,
       16,
@@ -1671,6 +1703,8 @@
      "texto": "Daniel Munoz comete 1+ faltas",
      "detalle": "Daniel Munoz 4/5",
      "temporada": "4/5",
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       6,
       18,
@@ -1700,6 +1734,8 @@
      "texto": "Ao Tanaka comete 1+ faltas",
      "detalle": "Ao Tanaka 6/7",
      "temporada": "6/7",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       13,
       7,
@@ -1731,6 +1767,8 @@
      "temporada": "6/7",
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
+     "arbitro": "Thomas Kirk",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       10,
       12,
@@ -1760,6 +1798,8 @@
      "texto": "Jarrod Bowen: 1+ tiros a puerta",
      "detalle": "Jarrod Bowen 10/10",
      "temporada": "12/13",
+     "arbitro": "Robert Jones",
+     "arbitro_tarjetas": 2.7,
      "posiciones": [
       4,
       6,
@@ -1789,6 +1829,8 @@
      "texto": "Mohamed Belloumi comete 1+ faltas",
      "detalle": "Mohamed Belloumi 6/7",
      "temporada": "6/7",
+     "arbitro": "Thomas Kirk",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       10,
       12,
@@ -1951,6 +1993,8 @@
      "ventaja": 0.244,
      "detalle": "Burnley 9/10 · Portsmouth 7/10",
      "valor_mercado": 0.034,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "posiciones": [
       22,
       11,
@@ -2029,6 +2073,8 @@
      "ventaja": 0.222,
      "detalle": "Feyenoord (en contra) 7/10 · Fortuna Sittard 9/10",
      "valor_mercado": 0.018,
+     "arbitro": "Joey Kooij",
+     "arbitro_tarjetas": 4.0,
      "prob_xg": 0.649,
      "xg_esperado": 3.07,
      "posiciones": [
@@ -2131,6 +2177,8 @@
      "ventaja": 0.086,
      "detalle": "Stoke City 7/10 · Preston 9/10",
      "valor_mercado": 0.0,
+     "arbitro": "Adam Herczeg",
+     "arbitro_tarjetas": 4.4,
      "posiciones": [
       9,
       24,
@@ -2155,6 +2203,8 @@
      "ventaja": 0.233,
      "detalle": "Chelsea (en contra) 9/10 · Manchester United 8/10",
      "valor_mercado": 0.045,
+     "arbitro": "Peter Bankes",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       5,
       16,
@@ -2181,6 +2231,8 @@
      "valor_mercado": -0.008,
      "movimiento": 0.0,
      "cuota_inicial": 1.25,
+     "arbitro": "Thomas Kirk",
+     "arbitro_tarjetas": 3.0,
      "prob_xg": 0.803,
      "xg_esperado": 3.02,
      "posiciones": [
@@ -2263,6 +2315,8 @@
      "valor_mercado": -0.017,
      "movimiento": 0.018,
      "cuota_inicial": 1.67,
+     "arbitro": "Adam Herczeg",
+     "arbitro_tarjetas": 4.4,
      "posiciones": [
       9,
       24,
@@ -2335,6 +2389,8 @@
      "ventaja": 0.113,
      "detalle": "Bournemouth 8/10 · Leeds (en contra) 7/10",
      "valor_mercado": 0.0,
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       13,
       7,
@@ -2464,6 +2520,8 @@
      "texto": "Pedro Neto: 1+ tiros a puerta",
      "detalle": "Pedro Neto 7/8",
      "temporada": "7/8",
+     "arbitro": "Peter Bankes",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       5,
       16,
@@ -2564,6 +2622,8 @@
      "valor_mercado": 0.023,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Anthony Backhouse",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       13,
       23,
@@ -2590,6 +2650,8 @@
      "valor_mercado": 0.03,
      "movimiento": -0.056,
      "cuota_inicial": 1.44,
+     "arbitro": "Josh Smith",
+     "arbitro_tarjetas": 5.0,
      "prob_xg": 0.77,
      "xg_esperado": 3.09,
      "posiciones": [
@@ -2618,6 +2680,8 @@
      "valor_mercado": 0.007,
      "movimiento": -0.056,
      "cuota_inicial": 1.44,
+     "arbitro": "Gavin Ward",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       3,
       10,
@@ -2668,6 +2732,8 @@
      "ventaja": 0.115,
      "detalle": "Lincoln 7/10 · Birmingham 10/10",
      "valor_mercado": 0.0,
+     "arbitro": "Lewis Smith",
+     "arbitro_tarjetas": 3.3,
      "posiciones": [
       15,
       8,
@@ -2692,6 +2758,8 @@
      "ventaja": 0.05,
      "detalle": "Norwich 8/10 · Watford 9/10",
      "valor_mercado": 0.0,
+     "arbitro": "Ben Speedie",
+     "arbitro_tarjetas": null,
      "posiciones": [
       20,
       21,
@@ -2716,6 +2784,8 @@
      "ventaja": 0.065,
      "detalle": "Burnley 9/10 · Portsmouth 7/10",
      "valor_mercado": 0.007,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "posiciones": [
       22,
       11,
@@ -2883,6 +2953,8 @@
      "texto": "Jayden Bogle comete 1+ faltas",
      "detalle": "Jayden Bogle 8/8",
      "temporada": "8/8",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       13,
       7,
@@ -2935,6 +3007,8 @@
      "valor_mercado": -0.038,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       6,
       18,
@@ -3022,6 +3096,8 @@
      "texto": "Oliver McBurnie comete 1+ faltas",
      "detalle": "Oliver McBurnie 7/8",
      "temporada": "7/8",
+     "arbitro": "Thomas Kirk",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       10,
       12,
@@ -3051,6 +3127,8 @@
      "texto": "Pedro Neto comete 1+ faltas",
      "detalle": "Pedro Neto 7/8",
      "temporada": "7/8",
+     "arbitro": "Peter Bankes",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       5,
       16,
@@ -3104,6 +3182,8 @@
      "texto": "Jarrod Bowen: 1+ tiros a puerta",
      "detalle": "Jarrod Bowen 10/10",
      "temporada": "12/13",
+     "arbitro": "Robert Jones",
+     "arbitro_tarjetas": 2.7,
      "posiciones": [
       4,
       6,
@@ -3180,6 +3260,8 @@
      "ventaja": 0.222,
      "detalle": "Feyenoord (en contra) 7/10 · Fortuna Sittard 9/10",
      "valor_mercado": 0.018,
+     "arbitro": "Joey Kooij",
+     "arbitro_tarjetas": 4.0,
      "prob_xg": 0.649,
      "xg_esperado": 3.07,
      "posiciones": [
@@ -3229,6 +3311,8 @@
      "ventaja": 0.086,
      "detalle": "Stoke City 7/10 · Preston 9/10",
      "valor_mercado": 0.0,
+     "arbitro": "Adam Herczeg",
+     "arbitro_tarjetas": 4.4,
      "posiciones": [
       9,
       24,
@@ -3384,6 +3468,8 @@
        "ventaja": 0.015,
        "detalle": "Lincoln 7/10 · Birmingham 8/10",
        "valor_mercado": 0.046,
+       "arbitro": "Lewis Smith",
+       "arbitro_tarjetas": 3.3,
        "posiciones": [
         15,
         8,
@@ -3444,6 +3530,8 @@
        "valor_mercado": 0.023,
        "movimiento": 0.023,
        "cuota_inicial": 1.33,
+       "arbitro": "Anthony Backhouse",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         13,
         23,
@@ -3470,6 +3558,8 @@
        "valor_mercado": 0.03,
        "movimiento": -0.056,
        "cuota_inicial": 1.44,
+       "arbitro": "Josh Smith",
+       "arbitro_tarjetas": 5.0,
        "prob_xg": 0.77,
        "xg_esperado": 3.09,
        "posiciones": [
@@ -3530,6 +3620,8 @@
        "texto": "Jayden Bogle comete 1+ faltas",
        "detalle": "Jayden Bogle 8/8",
        "temporada": "8/8",
+       "arbitro": "Michael Salisbury",
+       "arbitro_tarjetas": 3.7,
        "posiciones": [
         13,
         7,
@@ -3582,6 +3674,8 @@
        "valor_mercado": -0.038,
        "movimiento": -0.023,
        "cuota_inicial": 1.28,
+       "arbitro": "Darren England",
+       "arbitro_tarjetas": 3.7,
        "posiciones": [
         6,
         18,
@@ -3660,6 +3754,8 @@
        "texto": "Birmingham o empate",
        "detalle": "Lincoln 7/10 · Birmingham 8/10",
        "valor_mercado": 0.046,
+       "arbitro": "Lewis Smith",
+       "arbitro_tarjetas": 3.3,
        "posiciones": [
         15,
         8,
@@ -3712,6 +3808,8 @@
        "valor_mercado": -0.038,
        "movimiento": -0.023,
        "cuota_inicial": 1.28,
+       "arbitro": "Darren England",
+       "arbitro_tarjetas": 3.7,
        "posiciones": [
         6,
         18,
@@ -3845,6 +3943,8 @@
        "ventaja": 0.033,
        "detalle": "West Ham (en contra) 6/10 · West Brom 8/10",
        "valor_mercado": 0.034,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 2.7,
        "prob_xg": 0.712,
        "xg_esperado": 3.06,
        "posiciones": [
@@ -3880,6 +3980,8 @@
        "valor_mercado": 0.007,
        "movimiento": -0.056,
        "cuota_inicial": 1.44,
+       "arbitro": "Gavin Ward",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         3,
         10,
@@ -3904,6 +4006,8 @@
        "ventaja": 0.115,
        "detalle": "Lincoln 7/10 · Birmingham 10/10",
        "valor_mercado": 0.0,
+       "arbitro": "Lewis Smith",
+       "arbitro_tarjetas": 3.3,
        "posiciones": [
         15,
         8,
@@ -3928,6 +4032,8 @@
        "ventaja": 0.083,
        "detalle": "Norwich (en contra) 7/10 · Watford 7/10",
        "valor_mercado": 0.059,
+       "arbitro": "Ben Speedie",
+       "arbitro_tarjetas": null,
        "posiciones": [
         20,
         21,
@@ -3952,6 +4058,8 @@
        "ventaja": 0.244,
        "detalle": "Burnley 9/10 · Portsmouth 7/10",
        "valor_mercado": 0.034,
+       "arbitro": "Ruebyn Ricardo",
+       "arbitro_tarjetas": 7.3,
        "posiciones": [
         22,
         11,
@@ -4032,6 +4140,8 @@
        "ventaja": 0.222,
        "detalle": "Feyenoord (en contra) 7/10 · Fortuna Sittard 9/10",
        "valor_mercado": 0.018,
+       "arbitro": "Joey Kooij",
+       "arbitro_tarjetas": 4.0,
        "prob_xg": 0.649,
        "xg_esperado": 3.07,
        "posiciones": [
@@ -4201,30 +4311,6 @@
      "prob_aprendida": 0.8
     },
     {
-     "partido_id": 1570438,
-     "fecha": "2026-11-01T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Getafe",
-     "visitante": "Sevilla",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Sevilla o empate",
-     "cuota": 1.4,
-     "frecuencia": 0.8,
-     "ventaja": 0.086,
-     "detalle": "Getafe 9/10 · Sevilla 7/10",
-     "valor_mercado": 0.029,
-     "posiciones": [
-      17,
-      6,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.761
-    },
-    {
      "partido_id": 1575534,
      "fecha": "2026-11-01T19:00",
      "competicion": "Primeira Liga",
@@ -4362,32 +4448,62 @@
      "prob_aprendida": 0.751
     },
     {
-     "partido_id": 1570438,
-     "fecha": "2026-11-01T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Getafe",
-     "visitante": "Sevilla",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Sevilla marca",
-     "cuota": 1.4,
-     "frecuencia": 0.95,
-     "ventaja": 0.236,
-     "detalle": "Getafe (en contra) 9/10 · Sevilla 10/10",
-     "valor_mercado": -0.007,
-     "movimiento": -0.028,
-     "cuota_inicial": 1.44,
-     "prob_xg": 0.68,
-     "xg_esperado": 2.23,
+     "partido_id": 1575207,
+     "fecha": "2026-11-01T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Union Berlin",
+     "visitante": "1. FC Köln",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Rani Khedira - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Rani Khedira",
+     "equipo": "Union Berlin",
+     "jugador_id": 25300,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Rani Khedira comete 1+ faltas",
+     "detalle": "Rani Khedira 9/9",
+     "temporada": "9/9",
      "posiciones": [
       17,
-      6,
+      12,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.77
+    },
+    {
+     "partido_id": 1557453,
+     "fecha": "2026-11-01T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Liverpool",
+     "visitante": "Arsenal",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Ryan Gravenberch - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Ryan Gravenberch",
+     "equipo": "Liverpool",
+     "jugador_id": 542,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Ryan Gravenberch comete 1+ faltas",
+     "detalle": "Ryan Gravenberch 7/7",
+     "temporada": "7/7",
+     "posiciones": [
+      4,
+      2,
       20
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.732
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.767
     },
     {
      "partido_id": 1552212,
@@ -4440,6 +4556,89 @@
      "prob_aprendida": 0.718
     },
     {
+     "partido_id": 1570438,
+     "fecha": "2026-11-01T14:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Getafe",
+     "visitante": "Sevilla",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Sevilla marca",
+     "cuota": 1.4,
+     "frecuencia": 0.95,
+     "ventaja": 0.236,
+     "detalle": "Getafe (en contra) 9/10 · Sevilla 10/10",
+     "valor_mercado": -0.014,
+     "movimiento": -0.028,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.68,
+     "xg_esperado": 2.23,
+     "posiciones": [
+      17,
+      6,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.729
+    },
+    {
+     "partido_id": 1570438,
+     "fecha": "2026-11-01T14:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Getafe",
+     "visitante": "Sevilla",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Sevilla o empate",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "detalle": "Getafe 9/10 · Sevilla 7/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.029,
+     "cuota_inicial": 1.4,
+     "posiciones": [
+      17,
+      6,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.723
+    },
+    {
+     "partido_id": 1575207,
+     "fecha": "2026-11-01T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Union Berlin",
+     "visitante": "1. FC Köln",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Said El Mala - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.857,
+     "ventaja": 0.143,
+     "tipo": "jugador",
+     "jugador": "Said El Mala",
+     "equipo": "1. FC Köln",
+     "jugador_id": 432310,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Said El Mala comete 1+ faltas",
+     "detalle": "Said El Mala 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      17,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.721
+    },
+    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -4464,6 +4663,35 @@
      ],
      "contexto": "total_igualado",
      "prob_aprendida": 0.713
+    },
+    {
+     "partido_id": 1575207,
+     "fecha": "2026-11-01T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Union Berlin",
+     "visitante": "1. FC Köln",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Zeno Van Den Bosch - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.857,
+     "ventaja": 0.143,
+     "tipo": "jugador",
+     "jugador": "Zeno Van Den Bosch",
+     "equipo": "Union Berlin",
+     "jugador_id": 303679,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Zeno Van Den Bosch comete 1+ faltas",
+     "detalle": "Zeno Van Den Bosch 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      17,
+      12,
+      18
+     ],
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.716
     },
     {
      "partido_id": 1570438,
@@ -4492,34 +4720,6 @@
      "prob_aprendida": 0.709
     },
     {
-     "partido_id": 1570440,
-     "fecha": "2026-11-01T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Racing Santander",
-     "visitante": "Real Madrid",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Racing Santander–Real Madrid",
-     "cuota": 1.5,
-     "frecuencia": 0.75,
-     "ventaja": 0.083,
-     "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
-     "valor_mercado": 0.02,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.5,
-     "prob_xg": 0.655,
-     "xg_esperado": 3.59,
-     "posiciones": [
-      13,
-      3,
-      20
-     ],
-     "contexto": "total_abismo",
-     "prob_aprendida": 0.677
-    },
-    {
      "partido_id": 1550180,
      "fecha": "2026-11-01T12:30",
      "competicion": "Serie A",
@@ -4544,29 +4744,61 @@
      "prob_aprendida": 0.714
     },
     {
+     "partido_id": 1575205,
+     "fecha": "2026-11-01T17:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Eintracht Frankfurt",
+     "visitante": "Hamburger SV",
+     "mercado": "Player Fouls Committed",
+     "opcion": "David Wolfe - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.857,
+     "ventaja": 0.163,
+     "tipo": "jugador",
+     "jugador": "David Wolfe",
+     "equipo": "Hamburger SV",
+     "jugador_id": 265782,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "David Wolfe comete 1+ faltas",
+     "detalle": "David Wolfe 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      14,
+      11,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.693
+    },
+    {
      "partido_id": 1570440,
      "fecha": "2026-11-01T16:15",
      "competicion": "LaLiga",
      "liga_id": 140,
      "local": "Racing Santander",
      "visitante": "Real Madrid",
-     "mercado": "Total Goals/Both Teams To Score",
-     "opcion": "o/yes 2.5",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
      "tipo": "goles",
-     "texto": "Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid",
-     "cuota": 1.57,
+     "texto": "Ambos marcan en Racing Santander–Real Madrid",
+     "cuota": 1.5,
      "frecuencia": 0.75,
-     "ventaja": 0.113,
+     "ventaja": 0.083,
      "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
+     "valor_mercado": 0.0,
      "movimiento": 0.0,
-     "cuota_inicial": 1.57,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.655,
+     "xg_esperado": 3.59,
      "posiciones": [
       13,
       3,
       20
      ],
      "contexto": "total_abismo",
-     "prob_aprendida": 0.664
+     "prob_aprendida": 0.669
     },
     {
      "partido_id": 1552215,
@@ -4675,6 +4907,35 @@
      "prob_aprendida": 0.645
     },
     {
+     "partido_id": 1575207,
+     "fecha": "2026-11-01T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Union Berlin",
+     "visitante": "1. FC Köln",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Marius Bulter - 1",
+     "cuota": 1.67,
+     "frecuencia": 0.833,
+     "ventaja": 0.235,
+     "tipo": "jugador",
+     "jugador": "Marius Bulter",
+     "equipo": "1. FC Köln",
+     "jugador_id": 25242,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Marius Bulter comete 1+ faltas",
+     "detalle": "Marius Bulter 5/6",
+     "temporada": "5/6",
+     "posiciones": [
+      17,
+      12,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.57
+    },
+    {
      "partido_id": 1552215,
      "fecha": "2026-11-01T16:45",
      "competicion": "Eredivisie",
@@ -4696,34 +4957,6 @@
      ],
      "contexto": "total_lejos",
      "prob_aprendida": 0.569
-    },
-    {
-     "partido_id": 1570440,
-     "fecha": "2026-11-01T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Racing Santander",
-     "visitante": "Real Madrid",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Racing Santander marca",
-     "cuota": 1.36,
-     "frecuencia": 0.8,
-     "ventaja": 0.065,
-     "detalle": "Racing Santander 7/10 · Real Madrid (en contra) 9/10",
-     "valor_mercado": -0.042,
-     "movimiento": -0.029,
-     "cuota_inicial": 1.4,
-     "prob_xg": 0.73,
-     "xg_esperado": 3.59,
-     "posiciones": [
-      13,
-      3,
-      20
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.627
     },
     {
      "partido_id": 1550180,
@@ -4752,6 +4985,31 @@
      ],
      "contexto": "mejor_abismo",
      "prob_aprendida": 0.623
+    },
+    {
+     "partido_id": 1570440,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Racing Santander",
+     "visitante": "Real Madrid",
+     "mercado": "Total Goals/Both Teams To Score",
+     "opcion": "o/yes 2.5",
+     "tipo": "goles",
+     "texto": "Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
+     "movimiento": 0.032,
+     "cuota_inicial": 1.57,
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.577
     },
     {
      "partido_id": 1575528,
@@ -4790,11 +5048,13 @@
      "opcion": "Yes",
      "tipo": "goles",
      "texto": "Ambos marcan en Strasbourg–Auxerre",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.812,
-     "ventaja": 0.159,
+     "ventaja": 0.176,
      "detalle": "Strasbourg 6/8 · Auxerre 7/8",
-     "valor_mercado": -0.013,
+     "valor_mercado": 0.013,
+     "movimiento": 0.026,
+     "cuota_inicial": 1.53,
      "prob_xg": 0.65,
      "xg_esperado": 3.29,
      "posiciones": [
@@ -4804,6 +5064,34 @@
      ],
      "contexto": "total_lejos",
      "prob_aprendida": 0.562
+    },
+    {
+     "partido_id": 1570440,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Racing Santander",
+     "visitante": "Real Madrid",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Racing Santander marca",
+     "cuota": 1.44,
+     "frecuencia": 0.8,
+     "ventaja": 0.106,
+     "detalle": "Racing Santander 7/10 · Real Madrid (en contra) 9/10",
+     "valor_mercado": -0.02,
+     "movimiento": 0.029,
+     "cuota_inicial": 1.4,
+     "prob_xg": 0.73,
+     "xg_esperado": 3.59,
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.583
     },
     {
      "partido_id": 1575528,
@@ -4898,7 +5186,7 @@
      "frecuencia": 0.812,
      "ventaja": 0.176,
      "detalle": "Strasbourg 7/8 · Auxerre 6/8",
-     "valor_mercado": -0.031,
+     "valor_mercado": -0.019,
      "prob_xg": 0.64,
      "xg_esperado": 3.29,
      "posiciones": [
@@ -4907,7 +5195,7 @@
       18
      ],
      "contexto": "total_lejos",
-     "prob_aprendida": 0.53
+     "prob_aprendida": 0.507
     },
     {
      "partido_id": 1575534,
@@ -5138,30 +5426,6 @@
      "prob_aprendida": 0.8
     },
     {
-     "partido_id": 1570438,
-     "fecha": "2026-11-01T14:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Getafe",
-     "visitante": "Sevilla",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Sevilla o empate",
-     "cuota": 1.4,
-     "frecuencia": 0.8,
-     "ventaja": 0.086,
-     "detalle": "Getafe 9/10 · Sevilla 7/10",
-     "valor_mercado": 0.029,
-     "posiciones": [
-      17,
-      6,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.761
-    },
-    {
      "partido_id": 1552215,
      "fecha": "2026-11-01T16:45",
      "competicion": "Eredivisie",
@@ -5273,6 +5537,35 @@
      "prob_aprendida": 0.751
     },
     {
+     "partido_id": 1557453,
+     "fecha": "2026-11-01T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Liverpool",
+     "visitante": "Arsenal",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Ryan Gravenberch - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Ryan Gravenberch",
+     "equipo": "Liverpool",
+     "jugador_id": 542,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Ryan Gravenberch comete 1+ faltas",
+     "detalle": "Ryan Gravenberch 7/7",
+     "temporada": "7/7",
+     "posiciones": [
+      4,
+      2,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.767
+    },
+    {
      "partido_id": 1550184,
      "fecha": "2026-11-01T18:00",
      "competicion": "Serie A",
@@ -5297,32 +5590,32 @@
      "prob_aprendida": 0.718
     },
     {
-     "partido_id": 1570440,
-     "fecha": "2026-11-01T16:15",
+     "partido_id": 1570438,
+     "fecha": "2026-11-01T14:00",
      "competicion": "LaLiga",
      "liga_id": 140,
-     "local": "Racing Santander",
-     "visitante": "Real Madrid",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
+     "local": "Getafe",
+     "visitante": "Sevilla",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
      "tipo": "goles",
-     "texto": "Ambos marcan en Racing Santander–Real Madrid",
-     "cuota": 1.5,
-     "frecuencia": 0.75,
-     "ventaja": 0.083,
-     "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
-     "valor_mercado": 0.02,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.5,
-     "prob_xg": 0.655,
-     "xg_esperado": 3.59,
+     "texto": "Sevilla marca",
+     "cuota": 1.4,
+     "frecuencia": 0.95,
+     "ventaja": 0.236,
+     "detalle": "Getafe (en contra) 9/10 · Sevilla 10/10",
+     "valor_mercado": -0.014,
+     "movimiento": -0.028,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.68,
+     "xg_esperado": 2.23,
      "posiciones": [
-      13,
-      3,
+      17,
+      6,
       20
      ],
-     "contexto": "total_abismo",
-     "prob_aprendida": 0.677
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.729
     },
     {
      "partido_id": 1550180,
@@ -5347,6 +5640,63 @@
      ],
      "contexto": "mejor_abismo",
      "prob_aprendida": 0.714
+    },
+    {
+     "partido_id": 1575205,
+     "fecha": "2026-11-01T17:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Eintracht Frankfurt",
+     "visitante": "Hamburger SV",
+     "mercado": "Player Fouls Committed",
+     "opcion": "David Wolfe - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.857,
+     "ventaja": 0.163,
+     "tipo": "jugador",
+     "jugador": "David Wolfe",
+     "equipo": "Hamburger SV",
+     "jugador_id": 265782,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "David Wolfe comete 1+ faltas",
+     "detalle": "David Wolfe 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      14,
+      11,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.693
+    },
+    {
+     "partido_id": 1570440,
+     "fecha": "2026-11-01T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Racing Santander",
+     "visitante": "Real Madrid",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Racing Santander–Real Madrid",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Racing Santander 7/10 · Real Madrid 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.655,
+     "xg_esperado": 3.59,
+     "posiciones": [
+      13,
+      3,
+      20
+     ],
+     "contexto": "total_abismo",
+     "prob_aprendida": 0.669
     },
     {
      "partido_id": 1552808,
@@ -5403,6 +5753,40 @@
        "prob_aprendida": 0.835
       },
       {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Rani Khedira - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Rani Khedira",
+       "equipo": "Union Berlin",
+       "jugador_id": 25300,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Rani Khedira comete 1+ faltas",
+       "detalle": "Rani Khedira 9/9",
+       "temporada": "9/9",
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.77
+      }
+     ],
+     "cuota": 1.7
+    },
+    "cuota_3": {
+     "picks": [
+      {
        "partido_id": 1552212,
        "fecha": "2026-11-01T12:15",
        "competicion": "Eredivisie",
@@ -5425,12 +5809,7 @@
        ],
        "contexto": "total_igualado",
        "prob_aprendida": 0.842
-      }
-     ],
-     "cuota": 1.74
-    },
-    "cuota_3": {
-     "picks": [
+      },
       {
        "partido_id": 1575528,
        "fecha": "2026-11-01T16:30",
@@ -5458,6 +5837,66 @@
        "prob_aprendida": 0.825
       },
       {
+       "partido_id": 1557453,
+       "fecha": "2026-11-01T17:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Liverpool",
+       "visitante": "Arsenal",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Ryan Gravenberch - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Ryan Gravenberch",
+       "equipo": "Liverpool",
+       "jugador_id": 542,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Ryan Gravenberch comete 1+ faltas",
+       "detalle": "Ryan Gravenberch 7/7",
+       "temporada": "7/7",
+       "posiciones": [
+        4,
+        2,
+        20
+       ],
+       "contexto": "peor_igualado",
+       "prob_aprendida": 0.767
+      },
+      {
+       "partido_id": 1570438,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Getafe",
+       "visitante": "Sevilla",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Sevilla o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.8,
+       "ventaja": 0.065,
+       "detalle": "Getafe 9/10 · Sevilla 7/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.029,
+       "cuota_inicial": 1.4,
+       "posiciones": [
+        17,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.723
+      }
+     ],
+     "cuota": 2.96
+    },
+    "loca": {
+     "picks": [
+      {
        "partido_id": 1575534,
        "fecha": "2026-11-01T19:00",
        "competicion": "Primeira Liga",
@@ -5481,35 +5920,6 @@
        "contexto": "total_abismo",
        "prob_aprendida": 0.773
       },
-      {
-       "partido_id": 1570438,
-       "fecha": "2026-11-01T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Getafe",
-       "visitante": "Sevilla",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Sevilla o empate",
-       "cuota": 1.4,
-       "frecuencia": 0.8,
-       "ventaja": 0.086,
-       "detalle": "Getafe 9/10 · Sevilla 7/10",
-       "valor_mercado": 0.029,
-       "posiciones": [
-        17,
-        6,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.761
-      }
-     ],
-     "cuota": 2.91
-    },
-    "loca": {
-     "picks": [
       {
        "partido_id": 1569993,
        "fecha": "2026-11-01T18:30",
@@ -5563,63 +5973,6 @@
        "prob_aprendida": 0.8
       },
       {
-       "partido_id": 1575534,
-       "fecha": "2026-11-01T19:00",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Maritimo",
-       "visitante": "Santa Clara",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Santa Clara marca",
-       "cuota": 1.33,
-       "frecuencia": 0.9,
-       "ventaja": 0.148,
-       "detalle": "Maritimo (en contra) 9/10 · Santa Clara 9/10",
-       "valor_mercado": 0.008,
-       "prob_xg": 0.761,
-       "xg_esperado": 2.18,
-       "posiciones": [
-        14,
-        4,
-        18
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.78
-      },
-      {
-       "partido_id": 1575207,
-       "fecha": "2026-11-01T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Union Berlin",
-       "visitante": "1. FC Köln",
-       "mercado": "Away Player Shots",
-       "opcion": "Said El Mala - 3",
-       "cuota": 1.5,
-       "frecuencia": 0.857,
-       "ventaja": 0.19,
-       "tipo": "jugador",
-       "jugador": "Said El Mala",
-       "equipo": "1. FC Köln",
-       "jugador_id": 432310,
-       "campo": "tiros",
-       "n": 3,
-       "texto": "Said El Mala: 3+ tiros",
-       "detalle": "Said El Mala 6/7",
-       "temporada": "6/7",
-       "movimiento": 0.071,
-       "cuota_inicial": 1.4,
-       "posiciones": [
-        17,
-        12,
-        18
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.751
-      },
-      {
        "partido_id": 1550180,
        "fecha": "2026-11-01T12:30",
        "competicion": "Serie A",
@@ -5644,30 +5997,33 @@
        "prob_aprendida": 0.714
       },
       {
-       "partido_id": 1575528,
-       "fecha": "2026-11-01T16:30",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Arouca",
-       "visitante": "Nacional",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Arouca",
-       "cuota": 1.8,
-       "frecuencia": 0.7,
-       "ventaja": 0.144,
-       "detalle": "Arouca 6/10 · Nacional 8/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.016,
-       "cuota_inicial": 1.83,
+       "partido_id": 1575205,
+       "fecha": "2026-11-01T17:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "Hamburger SV",
+       "mercado": "Player Fouls Committed",
+       "opcion": "David Wolfe - 1",
+       "cuota": 1.44,
+       "frecuencia": 0.857,
+       "ventaja": 0.163,
+       "tipo": "jugador",
+       "jugador": "David Wolfe",
+       "equipo": "Hamburger SV",
+       "jugador_id": 265782,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "David Wolfe comete 1+ faltas",
+       "detalle": "David Wolfe 6/7",
+       "temporada": "6/7",
        "posiciones": [
-        5,
-        15,
+        14,
+        11,
         18
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.531
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.693
       },
       {
        "partido_id": 1575527,
@@ -5696,7 +6052,7 @@
        "prob_aprendida": 0.514
       }
      ],
-     "cuota": 14.69
+     "cuota": 9.01
     },
     "doble": {
      "picks": [
@@ -5735,20 +6091,22 @@
        "visitante": "Sevilla",
        "mercado": "Double Chance",
        "opcion": "Draw/Away",
-       "cuota": 1.4,
+       "cuota": 1.36,
        "frecuencia": 0.8,
-       "ventaja": 0.086,
+       "ventaja": 0.065,
        "tipo": "resultado",
        "texto": "Sevilla o empate",
        "detalle": "Getafe 9/10 · Sevilla 7/10",
-       "valor_mercado": 0.029,
+       "valor_mercado": 0.0,
+       "movimiento": -0.029,
+       "cuota_inicial": 1.4,
        "posiciones": [
         17,
         6,
         20
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.761
+       "prob_aprendida": 0.723
       },
       {
        "partido_id": 1569995,
@@ -5837,7 +6195,7 @@
        "tipo": "resultado",
        "texto": "Real Sociedad o empate",
        "detalle": "Athletic Club 6/9 · Real Sociedad 8/10",
-       "valor_mercado": -0.011,
+       "valor_mercado": 0.0,
        "movimiento": -0.039,
        "cuota_inicial": 1.8,
        "posiciones": [
@@ -5846,10 +6204,10 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.515
+       "prob_aprendida": 0.519
       }
      ],
-     "cuota": 10.25
+     "cuota": 9.96
     }
    },
    "estilos": {
@@ -5882,6 +6240,32 @@
        "prob_aprendida": 0.814
       },
       {
+       "partido_id": 1575534,
+       "fecha": "2026-11-01T19:00",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Maritimo",
+       "visitante": "Santa Clara",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Santa Clara marca",
+       "cuota": 1.33,
+       "frecuencia": 0.9,
+       "ventaja": 0.148,
+       "detalle": "Maritimo (en contra) 9/10 · Santa Clara 9/10",
+       "valor_mercado": 0.008,
+       "prob_xg": 0.761,
+       "xg_esperado": 2.18,
+       "posiciones": [
+        14,
+        4,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.78
+      },
+      {
        "partido_id": 1552215,
        "fecha": "2026-11-01T16:45",
        "competicion": "Eredivisie",
@@ -5908,7 +6292,14 @@
        ],
        "contexto": "peor_lejos",
        "prob_aprendida": 0.771
-      },
+      }
+     ],
+     "cuota": 2.42,
+     "titulo": "🛡️ DOMINGO DE SEGUROS",
+     "tema": "seguros"
+    },
+    "liga": {
+     "picks": [
       {
        "partido_id": 1575527,
        "fecha": "2026-11-01T19:00",
@@ -5932,11 +6323,63 @@
        ],
        "contexto": "total_abismo",
        "prob_aprendida": 0.776
+      },
+      {
+       "partido_id": 1575534,
+       "fecha": "2026-11-01T19:00",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Maritimo",
+       "visitante": "Santa Clara",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Maritimo–Santa Clara",
+       "cuota": 1.44,
+       "frecuencia": 0.75,
+       "ventaja": 0.056,
+       "detalle": "Maritimo 9/10 · Santa Clara 6/10",
+       "valor_mercado": -0.007,
+       "prob_xg": 0.639,
+       "xg_esperado": 2.18,
+       "posiciones": [
+        14,
+        4,
+        18
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.697
+      },
+      {
+       "partido_id": 1575528,
+       "fecha": "2026-11-01T16:30",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Arouca",
+       "visitante": "Nacional",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Arouca",
+       "cuota": 1.8,
+       "frecuencia": 0.7,
+       "ventaja": 0.144,
+       "detalle": "Arouca 6/10 · Nacional 8/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
+       "posiciones": [
+        5,
+        15,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.531
       }
      ],
-     "cuota": 2.48,
-     "titulo": "🛡️ DOMINGO DE SEGUROS",
-     "tema": "seguros"
+     "cuota": 3.53,
+     "titulo": "🇵🇹 COMBI LIGA PORTUGAL",
+     "liga": "Primeira Liga"
     },
     "atreve": {
      "picks": [
@@ -5996,7 +6439,151 @@
      "cuota": 4.62
     }
    },
-   "combis_partido": []
+   "combis_partido": [
+    {
+     "picks": [
+      {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Away Player Shots",
+       "opcion": "Said El Mala - 3",
+       "cuota": 1.5,
+       "frecuencia": 0.857,
+       "ventaja": 0.19,
+       "tipo": "jugador",
+       "jugador": "Said El Mala",
+       "equipo": "1. FC Köln",
+       "jugador_id": 432310,
+       "campo": "tiros",
+       "n": 3,
+       "texto": "Said El Mala: 3+ tiros",
+       "detalle": "Said El Mala 6/7",
+       "temporada": "6/7",
+       "movimiento": 0.071,
+       "cuota_inicial": 1.4,
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.751
+      },
+      {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "1. FC Köln o empate",
+       "cuota": 1.5,
+       "frecuencia": 0.722,
+       "ventaja": 0.056,
+       "detalle": "Union Berlin 7/9 · 1. FC Köln 6/9",
+       "valor_mercado": -0.02,
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.609
+      },
+      {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 2.5",
+       "tipo": "goles",
+       "texto": "Más de 2,5 goles en Union Berlin–1. FC Köln",
+       "cuota": 1.67,
+       "frecuencia": 0.667,
+       "ventaja": 0.068,
+       "detalle": "Union Berlin 6/9 · 1. FC Köln 6/9",
+       "valor_mercado": 0.006,
+       "prob_xg": 0.641,
+       "xg_esperado": 3.3,
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.484
+      },
+      {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Total ShotOnGoal",
+       "opcion": "Over 9.5",
+       "tipo": "tiros a puerta",
+       "texto": "Más de 9,5 tiros a puerta en Union Berlin–1. FC Köln",
+       "cuota": 2.1,
+       "frecuencia": 0.722,
+       "ventaja": 0.246,
+       "detalle": "Union Berlin 6/9 · 1. FC Köln 7/9",
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "total_lejos",
+       "prob_aprendida": 0.386
+      },
+      {
+       "partido_id": 1575207,
+       "fecha": "2026-11-01T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "1. FC Köln",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Zeno Van Den Bosch - 1",
+       "cuota": 1.4,
+       "frecuencia": 0.857,
+       "ventaja": 0.143,
+       "tipo": "jugador",
+       "jugador": "Zeno Van Den Bosch",
+       "equipo": "Union Berlin",
+       "jugador_id": 303679,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Zeno Van Den Bosch comete 1+ faltas",
+       "detalle": "Zeno Van Den Bosch 6/7",
+       "temporada": "6/7",
+       "posiciones": [
+        17,
+        12,
+        18
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.716
+      }
+     ],
+     "cuota_sumada": 11.05,
+     "partido_id": 1575207,
+     "fecha": "2026-11-01T15:30",
+     "local": "Union Berlin",
+     "visitante": "1. FC Köln",
+     "competicion": "Bundesliga"
+    }
+   ]
   },
   "2026-11-02": {
    "picks": [
@@ -6104,30 +6691,6 @@
      ],
      "contexto": "total_igualado",
      "prob_aprendida": 0.619
-    },
-    {
-     "partido_id": 1570002,
-     "fecha": "2026-11-02T18:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Valladolid",
-     "visitante": "Leganes",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 2ª parte del Valladolid–Leganes",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "detalle": "Valladolid 8/10 · Leganes 8/10",
-     "valor_mercado": 0.008,
-     "posiciones": [
-      15,
-      17,
-      22
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.635
     },
     {
      "partido_id": 1570436,
@@ -6317,30 +6880,6 @@
      ],
      "contexto": "total_igualado",
      "prob_aprendida": 0.619
-    },
-    {
-     "partido_id": 1570002,
-     "fecha": "2026-11-02T18:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Valladolid",
-     "visitante": "Leganes",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Gol en la 2ª parte del Valladolid–Leganes",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "detalle": "Valladolid 8/10 · Leganes 8/10",
-     "valor_mercado": 0.008,
-     "posiciones": [
-      15,
-      17,
-      22
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.635
     }
    ],
    "combis": {
@@ -6371,31 +6910,35 @@
        "prob_aprendida": 0.802
       },
       {
-       "partido_id": 1570002,
+       "partido_id": 1550185,
        "fecha": "2026-11-02T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Valladolid",
-       "visitante": "Leganes",
-       "mercado": "Goals Over/Under - Second Half",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Total - Home",
        "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Gol en la 2ª parte del Valladolid–Leganes",
-       "cuota": 1.28,
-       "frecuencia": 0.8,
-       "ventaja": 0.019,
-       "detalle": "Valladolid 8/10 · Leganes 8/10",
-       "valor_mercado": 0.008,
+       "texto": "Sassuolo marca",
+       "cuota": 1.25,
+       "frecuencia": 0.9,
+       "ventaja": 0.1,
+       "detalle": "Sassuolo 9/10 · Fiorentina (en contra) 9/10",
+       "valor_mercado": 0.016,
+       "movimiento": 0.025,
+       "cuota_inicial": 1.22,
+       "prob_xg": 0.759,
+       "xg_esperado": 3.05,
        "posiciones": [
         15,
-        17,
-        22
+        19,
+        20
        ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.635
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.556
       }
      ],
-     "cuota": 1.74
+     "cuota": 1.7
     },
     "cuota_3": {
      "picks": [
@@ -6490,30 +7033,6 @@
     "tema": {
      "picks": [
       {
-       "partido_id": 1570002,
-       "fecha": "2026-11-02T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Valladolid",
-       "visitante": "Leganes",
-       "mercado": "Goals Over/Under First Half",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Gol en la 1ª parte del Valladolid–Leganes",
-       "cuota": 1.44,
-       "frecuencia": 0.7,
-       "ventaja": 0.006,
-       "detalle": "Valladolid 8/10 · Leganes 6/10",
-       "valor_mercado": 0.059,
-       "posiciones": [
-        15,
-        17,
-        22
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.829
-      },
-      {
        "partido_id": 1570436,
        "fecha": "2026-11-02T21:00",
        "competicion": "LaLiga",
@@ -6536,9 +7055,35 @@
        ],
        "contexto": "total_igualado",
        "prob_aprendida": 0.775
+      },
+      {
+       "partido_id": 1569999,
+       "fecha": "2026-11-02T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Oviedo",
+       "visitante": "Las Palmas",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Las Palmas marca",
+       "cuota": 1.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.033,
+       "detalle": "Oviedo (en contra) 6/10 · Las Palmas 8/10",
+       "valor_mercado": -0.02,
+       "prob_xg": 0.749,
+       "xg_esperado": 2.98,
+       "posiciones": [
+        9,
+        14,
+        22
+       ],
+       "contexto": "peor_lejos",
+       "prob_aprendida": 0.691
       }
      ],
-     "cuota": 2.07,
+     "cuota": 2.16,
      "titulo": "⚽ LUNES DE GOLES",
      "tema": "goles"
     }
@@ -6604,26 +7149,6 @@
      "prob_aprendida": 0.707
     },
     {
-     "partido_id": 1635662,
-     "fecha": "2026-11-03T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Feyenoord",
-     "visitante": "Inter",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Feyenoord–Inter",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Feyenoord 7/10 · Inter 8/10",
-     "valor_mercado": 0.029,
-     "prob_xg": 0.723,
-     "xg_esperado": 3.75,
-     "prob_aprendida": 0.69
-    },
-    {
      "partido_id": 1635627,
      "fecha": "2026-11-03T21:00",
      "competicion": "Champions",
@@ -6684,6 +7209,28 @@
      "prob_aprendida": 0.677
     },
     {
+     "partido_id": 1635662,
+     "fecha": "2026-11-03T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Feyenoord",
+     "visitante": "Inter",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Feyenoord–Inter",
+     "cuota": 1.4,
+     "frecuencia": 0.75,
+     "ventaja": 0.036,
+     "detalle": "Feyenoord 7/10 · Inter 8/10",
+     "valor_mercado": 0.007,
+     "movimiento": -0.028,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.723,
+     "xg_esperado": 3.75,
+     "prob_aprendida": 0.655
+    },
+    {
      "partido_id": 1635695,
      "fecha": "2026-11-03T21:00",
      "competicion": "Champions",
@@ -6702,26 +7249,6 @@
      "prob_aprendida": 0.653
     },
     {
-     "partido_id": 1635662,
-     "fecha": "2026-11-03T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Feyenoord",
-     "visitante": "Inter",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Feyenoord marca",
-     "cuota": 1.3,
-     "frecuencia": 0.8,
-     "ventaja": 0.031,
-     "detalle": "Feyenoord 9/10 · Inter (en contra) 7/10",
-     "valor_mercado": 0.0,
-     "prob_xg": 0.814,
-     "xg_esperado": 3.75,
-     "prob_aprendida": 0.625
-    },
-    {
      "partido_id": 1635746,
      "fecha": "2026-11-03T21:00",
      "competicion": "Champions",
@@ -6736,10 +7263,30 @@
      "frecuencia": 0.8,
      "ventaja": 0.031,
      "detalle": "Villarreal 8/10 · Paris Saint Germain (en contra) 8/10",
-     "valor_mercado": -0.008,
+     "valor_mercado": 0.008,
      "prob_xg": 0.837,
      "xg_esperado": 4.03,
-     "prob_aprendida": 0.626
+     "prob_aprendida": 0.634
+    },
+    {
+     "partido_id": 1635662,
+     "fecha": "2026-11-03T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Feyenoord",
+     "visitante": "Inter",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Feyenoord marca",
+     "cuota": 1.3,
+     "frecuencia": 0.8,
+     "ventaja": 0.031,
+     "detalle": "Feyenoord 9/10 · Inter (en contra) 7/10",
+     "valor_mercado": 0.008,
+     "prob_xg": 0.814,
+     "xg_esperado": 3.75,
+     "prob_aprendida": 0.629
     },
     {
      "partido_id": 1635627,
@@ -6852,26 +7399,6 @@
      "prob_aprendida": 0.707
     },
     {
-     "partido_id": 1635662,
-     "fecha": "2026-11-03T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Feyenoord",
-     "visitante": "Inter",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "goles",
-     "texto": "Más de 2,5 goles en Feyenoord–Inter",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Feyenoord 7/10 · Inter 8/10",
-     "valor_mercado": 0.029,
-     "prob_xg": 0.723,
-     "xg_esperado": 3.75,
-     "prob_aprendida": 0.69
-    },
-    {
      "partido_id": 1635627,
      "fecha": "2026-11-03T21:00",
      "competicion": "Champions",
@@ -6890,6 +7417,28 @@
      "prob_xg": 0.809,
      "xg_esperado": 3.98,
      "prob_aprendida": 0.712
+    },
+    {
+     "partido_id": 1635662,
+     "fecha": "2026-11-03T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Feyenoord",
+     "visitante": "Inter",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "goles",
+     "texto": "Más de 2,5 goles en Feyenoord–Inter",
+     "cuota": 1.4,
+     "frecuencia": 0.75,
+     "ventaja": 0.036,
+     "detalle": "Feyenoord 7/10 · Inter 8/10",
+     "valor_mercado": 0.007,
+     "movimiento": -0.028,
+     "cuota_inicial": 1.44,
+     "prob_xg": 0.723,
+     "xg_esperado": 3.75,
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1635695,
@@ -6974,10 +7523,10 @@
      "frecuencia": 0.75,
      "ventaja": 0.083,
      "detalle": "Lens 8/10 · Como 7/10",
-     "valor_mercado": -0.02,
+     "valor_mercado": -0.007,
      "prob_xg": 0.617,
      "xg_esperado": 3.19,
-     "prob_aprendida": 0.585
+     "prob_aprendida": 0.591
     },
     {
      "partido_id": 1635606,
@@ -7088,10 +7637,10 @@
      "frecuencia": 0.75,
      "ventaja": 0.083,
      "detalle": "Lens 8/10 · Como 7/10",
-     "valor_mercado": -0.02,
+     "valor_mercado": -0.007,
      "prob_xg": 0.617,
      "xg_esperado": 3.19,
-     "prob_aprendida": 0.585
+     "prob_aprendida": 0.591
     },
     {
      "partido_id": 1635606,

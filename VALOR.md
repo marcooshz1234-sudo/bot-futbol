@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 29/10/2026 02:04 (hora España)._
+_Actualizado el 29/10/2026 08:03 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -55,7 +55,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 15:30 | [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) | 1X2: 2 | 2.60 | 49% | 36% | 43% | **+11%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | Goles del visitante: Menos de 0.5 | 3.40 | 41% | 28% | 34% | **+17%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | 1X2: 1 | 2.45 | 51% | 38% | 45% | **+9%** |
-| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.70 | 44% | 25% | 35% | **+28%** |
+| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.75 | 44% | 25% | 35% | **+30%** |
 | 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.50 | 60% | 38% | 49% | **+22%** |
 
 ## 02/11
@@ -75,6 +75,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Goles del local: Más de 1.5 | 2.50 | 50% | 38% | 44% | **+10%** |
 | 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Doble oportunidad: 1X | 2.30 | 53% | 41% | 47% | **+8%** |
 | 21:00 | [Barcelona – Aston Villa](informes/2026-11-03_barcelona-vs-aston-villa.md) | Goles del visitante: Más de 1.5 | 3.25 | 46% | 29% | 37% | **+22%** |
+| 21:00 | [Barcelona – Aston Villa](informes/2026-11-03_barcelona-vs-aston-villa.md) | Doble oportunidad: X2 | 3.75 | 35% | 25% | 30% | **+14%** |
 | 21:00 | [Atletico Madrid – Bayern München](informes/2026-11-03_atletico-madrid-vs-bayern-munchen.md) | Ambos marcan: No | 3.00 | 44% | 31% | 38% | **+13%** |
 | 21:00 | [Atletico Madrid – Bayern München](informes/2026-11-03_atletico-madrid-vs-bayern-munchen.md) | Goles más/menos: Menos de 2.5 | 3.00 | 41% | 32% | 37% | **+10%** |
 

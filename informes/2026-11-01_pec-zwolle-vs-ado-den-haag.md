@@ -1,10 +1,10 @@
 # PEC Zwolle – ADO Den Haag
 **Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:00_
 
 - **1X2:** 1 **2.25**  ·  X **3.60**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.62**
@@ -20,7 +20,7 @@ _Actualizadas: 28/10 07:59_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
@@ -28,7 +28,6 @@ _Actualizadas: 28/10 07:59_
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 10: más **1.85** · menos **1.95**
     - 10,5: más **2.00** · menos **1.73**
@@ -213,10 +212,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 31% | 3.50 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
-| Goles del local: Más de 0.5 | 71% | 79% | 75% | 1.18 | -11% |
 | Goles del local: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
 | Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles del local: Menos de 0.5 | 29% | 21% | 25% | 4.50 | +11% |
 | Goles del local: Menos de 1.5 | 64% | 50% | 57% | 1.83 | +5% |
 | Goles del local: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
 | Goles del visitante: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |

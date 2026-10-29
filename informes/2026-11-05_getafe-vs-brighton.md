@@ -1,7 +1,7 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

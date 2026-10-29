@@ -1,7 +1,7 @@
 # Conquense – Castellón
-**Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España)
+**Copa del Rey** · Round of 128 · 29/10/2026 20:00 (hora España) · Estadio La Fuensanta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 02:01_

@@ -1,7 +1,7 @@
 # Como – Venezia
 **Serie A** · Regular Season - 10 · 01/11/2026 12:30 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 14:01_

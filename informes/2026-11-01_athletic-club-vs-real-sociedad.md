@@ -1,10 +1,10 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 02:04_
+_Actualizadas: 29/10 08:00_
 
 - **1X2:** 1 **2.05**  ·  X **3.70**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.73**

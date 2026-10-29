@@ -1,10 +1,10 @@
 # Villarreal – Paris Saint Germain
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **4.50**  ·  X **4.50**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.18**  ·  X2 **1.18**

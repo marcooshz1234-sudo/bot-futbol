@@ -1,17 +1,17 @@
 # Galatasaray – VfB Stuttgart
 **Champions League** · League Stage - 4 · 03/11/2026 18:45 (hora España) · Rams Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
-- **1X2:** 1 **2.25**  ·  X **3.60**  ·  2 **2.88**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.62**
+- **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.75**
+    - 2,5: más **1.40** · menos **3.00**
     - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.40** · menos **1.33**
     - 5,5: más **5.50** · menos **1.14**
@@ -22,16 +22,16 @@ _Actualizadas: 28/10 07:59_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.60**  ·  2 **3.10**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.60**  ·  2 **3.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.57** · menos **2.25**
@@ -39,14 +39,14 @@ _Actualizadas: 28/10 07:59_
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
 - **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
-- **To Win Either Half:** 1 **1.62**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **2.75**
-- **Win Both Halves:** 1 **7.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **21.00**  ·  Away/No **7.00**
+- **To Win Either Half:** 1 **1.57**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **3.00**
+- **Win Both Halves:** 1 **6.50**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **21.00**  ·  Away/No **8.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **4.00**
-- **Away Player Shots On Target Total:** Renato Nhaga **29.00**  ·  Chris Fuhrich **41.00**  ·  Maximilian Mittelstadt **51.00**  ·  Leo Sauer **34.00**  ·  Davinson Sanchez **15.00**  ·  Baris Yilmaz **17.00**  ·  Yunus Akgun **67.00**  ·  Abdulkerim Bardakci **10.00**  ·  Evren Elmali **21.00**  ·  Ismail Jakobs **41.00**  ·  Bilal El Khannous **67.00**  ·  Stephane Singo **13.00**  ·  Lorenz Assignon **41.00**  ·  Leroy Sane **51.00**  ·  Dzenan Pejcinovic **6.50**  ·  Ilkay Gundogan **26.00**  ·  Dan-Axel Zagadou **21.00**  ·  Leonidas Stergiou **12.00**  ·  Nikolas Nartey **34.00**  ·  Grischa Promel **12.00**  ·  Victor Osimhen **4.50**  ·  Finn Jeltsch **21.00**  ·  Berat Lus **26.00**  ·  Lucas Torreira **51.00**  ·  Yanik Spalt **67.00**  ·  Deniz Gul **9.50**  ·  Jarzinho Malanga **26.00**  ·  Alexey Batrakov **21.00**  ·  Mario Lemina **19.00**  ·  Lesley Ugochukwu **17.00**  ·  Gabriel Sara **26.00**  ·  Rafael Leao **29.00**  ·  Angelo Stiller **51.00**  ·  Atakan Karazor **21.00**  ·  Deniz Undav **7.00**  ·  Ermedin Demirovic **8.50**  ·  Jamie Leweling **34.00**  ·  Josha Vagnoman **81.00**  ·  Ramon Hendriks **13.00**  ·  Julian Chabot **15.00**  ·  Ameen Al Dakhil **26.00**  ·  El Chadaille Bitshiabu **13.00**  ·  Tiago Tomas **17.00**  ·  Roland Sallai **26.00**  ·  Luca Jaquez **12.00**
-- **Anytime Goal Scorer:** Renato Nhaga **3.25**  ·  Chris Fuhrich **4.75**  ·  Maximilian Mittelstadt **6.50**  ·  Leo Sauer **4.00**  ·  Davinson Sanchez **10.00**  ·  Baris Yilmaz **3.25**  ·  Yunus Akgun **3.75**  ·  Abdulkerim Bardakci **7.00**  ·  Evren Elmali **7.00**  ·  Ismail Jakobs **10.00**  ·  Bilal El Khannous **3.50**  ·  Stephane Singo **6.00**  ·  Lorenz Assignon **7.00**  ·  Leroy Sane **3.00**  ·  Dzenan Pejcinovic **2.75**  ·  Ilkay Gundogan **5.50**  ·  Dan-Axel Zagadou **9.00**  ·  Leonidas Stergiou **9.00**  ·  Nikolas Nartey **5.50**  ·  Grischa Promel **5.50**  ·  Victor Osimhen **1.91**  ·  Finn Jeltsch **10.00**  ·  Berat Lus **4.00**  ·  Lucas Torreira **7.00**  ·  Maximilian Herwerth **10.00**  ·  Yanik Spalt **10.00**  ·  Deniz Gul **2.60**  ·  Jarzinho Malanga **4.00**  ·  Alexey Batrakov **3.25**  ·  Mario Lemina **6.50**  ·  Lesley Ugochukwu **6.00**  ·  Gabriel Sara **4.00**  ·  Rafael Leao **2.88**  ·  Angelo Stiller **9.00**  ·  Atakan Karazor **9.00**  ·  Deniz Undav **2.30**  ·  Ermedin Demirovic **2.75**  ·  Jamie Leweling **3.50**  ·  Josha Vagnoman **9.00**  ·  Ramon Hendriks **10.00**  ·  Julian Chabot **9.00**  ·  Ameen Al Dakhil **10.00**  ·  El Chadaille Bitshiabu **9.00**  ·  Tiago Tomas **3.00**  ·  Roland Sallai **6.00**  ·  Luca Jaquez **9.00**
-- **Player to Score or Assist:** Renato Nhaga **2.50**  ·  Chris Fuhrich **2.50**  ·  Maximilian Mittelstadt **3.00**  ·  Leo Sauer **2.62**  ·  Davinson Sanchez **5.00**  ·  Baris Yilmaz **2.25**  ·  Yunus Akgun **2.10**  ·  Abdulkerim Bardakci **4.75**  ·  Evren Elmali **4.00**  ·  Ismail Jakobs **4.75**  ·  Bilal El Khannous **2.20**  ·  Stephane Singo **4.33**  ·  Lorenz Assignon **3.25**  ·  Leroy Sane **1.95**  ·  Dzenan Pejcinovic **2.10**  ·  Ilkay Gundogan **3.00**  ·  Dan-Axel Zagadou **5.50**  ·  Leonidas Stergiou **5.50**  ·  Nikolas Nartey **3.25**  ·  Grischa Promel **3.10**  ·  Victor Osimhen **1.67**  ·  Finn Jeltsch **6.50**  ·  Berat Lus **2.62**  ·  Lucas Torreira **3.75**  ·  Maximilian Herwerth **6.50**  ·  Yanik Spalt **3.20**  ·  Deniz Gul **2.10**  ·  Jarzinho Malanga **2.88**  ·  Alexey Batrakov **2.20**  ·  Mario Lemina **3.50**  ·  Lesley Ugochukwu **3.40**  ·  Gabriel Sara **2.30**  ·  Rafael Leao **1.83**  ·  Angelo Stiller **3.10**  ·  Atakan Karazor **4.50**  ·  Deniz Undav **1.80**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.20**  ·  Josha Vagnoman **4.00**  ·  Ramon Hendriks **5.50**  ·  Julian Chabot **6.00**  ·  Ameen Al Dakhil **5.00**  ·  El Chadaille Bitshiabu **6.50**  ·  Tiago Tomas **2.25**  ·  Roland Sallai **3.75**  ·  Luca Jaquez **6.00**
+- **Away Player Shots On Target Total:** Renato Nhaga **29.00**  ·  Chris Fuhrich **41.00**  ·  Maximilian Mittelstadt **51.00**  ·  Leo Sauer **34.00**  ·  Davinson Sanchez **15.00**  ·  Baris Yilmaz **17.00**  ·  Yunus Akgun **67.00**  ·  Abdulkerim Bardakci **10.00**  ·  Evren Elmali **21.00**  ·  Ismail Jakobs **41.00**  ·  Bilal El Khannous **67.00**  ·  Stephane Singo **13.00**  ·  Lorenz Assignon **51.00**  ·  Leroy Sane **51.00**  ·  Dzenan Pejcinovic **6.50**  ·  Ilkay Gundogan **26.00**  ·  Dan-Axel Zagadou **23.00**  ·  Leonidas Stergiou **13.00**  ·  Nikolas Nartey **34.00**  ·  Grischa Promel **12.00**  ·  Victor Osimhen **4.50**  ·  Finn Jeltsch **23.00**  ·  Berat Lus **26.00**  ·  Lucas Torreira **51.00**  ·  Yanik Spalt **67.00**  ·  Deniz Gul **9.50**  ·  Jarzinho Malanga **26.00**  ·  Alexey Batrakov **21.00**  ·  Mario Lemina **19.00**  ·  Lesley Ugochukwu **17.00**  ·  Gabriel Sara **26.00**  ·  Rafael Leao **29.00**  ·  Angelo Stiller **67.00**  ·  Atakan Karazor **23.00**  ·  Deniz Undav **7.00**  ·  Ermedin Demirovic **8.50**  ·  Jamie Leweling **34.00**  ·  Josha Vagnoman **81.00**  ·  Ramon Hendriks **17.00**  ·  Julian Chabot **17.00**  ·  Ameen Al Dakhil **34.00**  ·  El Chadaille Bitshiabu **13.00**  ·  Tiago Tomas **17.00**  ·  Roland Sallai **26.00**  ·  Luca Jaquez **15.00**
+- **Anytime Goal Scorer:** Renato Nhaga **3.25**  ·  Chris Fuhrich **4.75**  ·  Maximilian Mittelstadt **6.50**  ·  Leo Sauer **4.00**  ·  Davinson Sanchez **10.00**  ·  Baris Yilmaz **3.25**  ·  Yunus Akgun **3.75**  ·  Abdulkerim Bardakci **7.00**  ·  Evren Elmali **7.00**  ·  Ismail Jakobs **10.00**  ·  Bilal El Khannous **3.50**  ·  Stephane Singo **6.00**  ·  Lorenz Assignon **8.00**  ·  Leroy Sane **3.00**  ·  Dzenan Pejcinovic **2.75**  ·  Ilkay Gundogan **5.50**  ·  Dan-Axel Zagadou **10.00**  ·  Leonidas Stergiou **10.00**  ·  Nikolas Nartey **5.50**  ·  Grischa Promel **5.50**  ·  Victor Osimhen **1.91**  ·  Finn Jeltsch **12.00**  ·  Berat Lus **4.00**  ·  Lucas Torreira **7.00**  ·  Maximilian Herwerth **12.00**  ·  Yanik Spalt **12.00**  ·  Deniz Gul **2.60**  ·  Jarzinho Malanga **4.00**  ·  Alexey Batrakov **3.25**  ·  Mario Lemina **6.50**  ·  Lesley Ugochukwu **6.00**  ·  Gabriel Sara **4.00**  ·  Rafael Leao **2.88**  ·  Angelo Stiller **10.00**  ·  Atakan Karazor **10.00**  ·  Deniz Undav **2.30**  ·  Ermedin Demirovic **2.75**  ·  Jamie Leweling **3.50**  ·  Josha Vagnoman **10.00**  ·  Ramon Hendriks **12.00**  ·  Julian Chabot **10.00**  ·  Ameen Al Dakhil **12.00**  ·  El Chadaille Bitshiabu **9.00**  ·  Tiago Tomas **3.00**  ·  Roland Sallai **6.00**  ·  Luca Jaquez **10.00**
+- **Player to Score or Assist:** Renato Nhaga **2.50**  ·  Chris Fuhrich **2.50**  ·  Maximilian Mittelstadt **3.00**  ·  Leo Sauer **2.62**  ·  Davinson Sanchez **5.00**  ·  Baris Yilmaz **2.25**  ·  Yunus Akgun **2.10**  ·  Abdulkerim Bardakci **4.75**  ·  Evren Elmali **4.00**  ·  Ismail Jakobs **4.75**  ·  Bilal El Khannous **2.20**  ·  Stephane Singo **4.00**  ·  Lorenz Assignon **3.40**  ·  Leroy Sane **1.95**  ·  Dzenan Pejcinovic **2.10**  ·  Ilkay Gundogan **3.00**  ·  Dan-Axel Zagadou **6.00**  ·  Leonidas Stergiou **6.00**  ·  Nikolas Nartey **3.25**  ·  Grischa Promel **3.10**  ·  Victor Osimhen **1.67**  ·  Finn Jeltsch **7.50**  ·  Berat Lus **2.62**  ·  Lucas Torreira **3.75**  ·  Maximilian Herwerth **7.50**  ·  Yanik Spalt **3.40**  ·  Deniz Gul **2.10**  ·  Jarzinho Malanga **2.88**  ·  Alexey Batrakov **2.20**  ·  Mario Lemina **3.50**  ·  Lesley Ugochukwu **3.40**  ·  Gabriel Sara **2.30**  ·  Rafael Leao **1.80**  ·  Angelo Stiller **3.25**  ·  Atakan Karazor **5.00**  ·  Deniz Undav **1.80**  ·  Ermedin Demirovic **2.10**  ·  Jamie Leweling **2.20**  ·  Josha Vagnoman **4.33**  ·  Ramon Hendriks **6.00**  ·  Julian Chabot **6.50**  ·  Ameen Al Dakhil **5.50**  ·  El Chadaille Bitshiabu **6.00**  ·  Tiago Tomas **2.25**  ·  Roland Sallai **3.75**  ·  Luca Jaquez **6.50**
 
 ## Estadísticas de equipo
 | | Galatasaray (total) | Galatasaray en casa | VfB Stuttgart (total) | VfB Stuttgart fuera |

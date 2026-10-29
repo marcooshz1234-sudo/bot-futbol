@@ -1,7 +1,7 @@
 # AD Ceuta FC – Sporting Gijon
 **Segunda División** · Regular Season - 12 · 01/11/2026 16:15 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/10 19:56_

@@ -1,10 +1,10 @@
 # Newcastle – Everton
 **Premier League** · Regular Season - 9 · 02/11/2026 21:00 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:00_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -38,7 +38,7 @@ _Actualizadas: 28/10 07:59_
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.91**

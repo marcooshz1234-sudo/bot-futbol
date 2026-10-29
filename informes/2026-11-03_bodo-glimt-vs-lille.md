@@ -1,10 +1,10 @@
 # Bodo/Glimt – Lille
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **1.85**  ·  X **3.75**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.91**

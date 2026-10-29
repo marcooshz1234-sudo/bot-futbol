@@ -1,10 +1,10 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/10 07:59_
+_Actualizadas: 29/10 08:01_
 
 - **1X2:** 1 **3.40**  ·  X **3.90**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.30**
@@ -12,10 +12,10 @@ _Actualizadas: 28/10 07:59_
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.40** · menos **3.00**
-    - 3,5: más **1.91** · menos **1.91**
+    - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.20** · menos **1.36**
     - 5,5: más **5.50** · menos **1.14**
-    - 6,5: más **10.00** · menos **1.06**
+    - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -195,10 +195,10 @@ _Goles esperados: local 1,04 · visitante 2,00 · córners esperados 9,6._
 | Ambos marcan: No ✅ | 44% | 31% | 38% | 3.00 | +13% |
 | Ambos marcan: Sí | 56% | 69% | 62% | 1.36 | -15% |
 | Goles más/menos: Más de 2.5 | 59% | 68% | 63% | 1.40 | -11% |
-| Goles más/menos: Más de 3.5 | 36% | 50% | 43% | 1.91 | -18% |
+| Goles más/menos: Más de 3.5 | 36% | 47% | 42% | 2.00 | -16% |
 | Goles más/menos: Más de 4.5 | 19% | 30% | 25% | 3.20 | -22% |
 | Goles más/menos: Menos de 2.5 ✅ | 41% | 32% | 37% | 3.00 | +10% |
-| Goles más/menos: Menos de 3.5 | 64% | 50% | 57% | 1.91 | +9% |
+| Goles más/menos: Menos de 3.5 | 64% | 53% | 58% | 1.80 | +5% |
 | Goles más/menos: Menos de 4.5 | 81% | 70% | 75% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |

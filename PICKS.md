@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-29 08:03 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Jueves 29/10
 
@@ -123,23 +123,30 @@ _Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Domingo 01/11
 
-**🔒 Combi segura · cuota 1,74**
+**🔒 Combi segura · cuota 1,70**
 - Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon (1,36) · AD Ceuta FC 8/10 · Sporting Gijon 7/10
+- Rani Khedira comete 1+ faltas (1,25) · Rani Khedira 9/9
+
+**💥 Combi cuota 3-4 · cuota 2,96**
 - Gol en la 1ª parte del PEC Zwolle–ADO Den Haag (1,28) · PEC Zwolle 7/10 · ADO Den Haag 9/10
-
-**💥 Combi cuota 3-4 · cuota 2,91**
 - Gol en la 1ª parte del Arouca–Nacional (1,36) · Arouca 7/10 · Nacional 8/10
-- Gol en la 1ª parte del Maritimo–Santa Clara (1,53) · Maritimo 8/10 · Santa Clara 7/10
-- Sevilla o empate (1,40) · Getafe 9/10 · Sevilla 7/10
+- Ryan Gravenberch comete 1+ faltas (1,25) · Ryan Gravenberch 7/7
+- Sevilla o empate (1,36) · Getafe 9/10 · Sevilla 7/10
 
-**🤪 Combi loca · cuota 14,69**
+**🤪 Combi loca · cuota 9,01**
+- Gol en la 1ª parte del Maritimo–Santa Clara (1,53) · Maritimo 8/10 · Santa Clara 7/10
 - Gol en la 1ª parte del Burgos–Castellón (1,33) · Burgos 8/10 · Castellón 8/10
 - Gol en la 1ª parte del Frosinone–Torino (1,25) · Frosinone 10/10 · Torino 8/10
-- Santa Clara marca (1,33) · Maritimo (en contra) 9/10 · Santa Clara 9/10
-- Said El Mala: 3+ tiros (1,50) · Said El Mala 6/7
 - Gana el Como (1,33) · Como 7/10 · Venezia 9/10
-- Gana el Arouca (1,80) · Arouca 6/10 · Nacional 8/10
+- David Wolfe comete 1+ faltas (1,44) · David Wolfe 6/7
 - Gana el Academico Viseu (1,85) · Academico Viseu 6/10 · Rio Ave 6/10
+
+**🎯 Combi del partido Union Berlin–1. FC Köln · cuota sumada 11,05**
+- Said El Mala: 3+ tiros (1,50) · Said El Mala 6/7
+- 1. FC Köln o empate (1,50) · Union Berlin 7/9 · 1. FC Köln 6/9
+- Más de 2,5 goles en Union Berlin–1. FC Köln (1,67) · Union Berlin 6/9 · 1. FC Köln 6/9
+- Más de 9,5 tiros a puerta en Union Berlin–1. FC Köln (2,10) · Union Berlin 6/9 · 1. FC Köln 7/9
+- Zeno Van Den Bosch comete 1+ faltas (1,40) · Zeno Van Den Bosch 6/7
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -149,29 +156,35 @@ _Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 19:00 | Gol en la 1ª parte del Maritimo–Santa Clara | goles | 1.53 | 75% | Maritimo 8/10 · Santa Clara 7/10 |
 | 18:30 | Gol en la 1ª parte del Burgos–Castellón | goles | 1.33 | 80% | Burgos 8/10 · Castellón 8/10 |
 | 15:00 | Gol en la 1ª parte del Frosinone–Torino | goles | 1.25 | 90% | Frosinone 10/10 · Torino 8/10 |
-| 14:00 | Sevilla o empate | resultado | 1.40 | 80% | Getafe 9/10 · Sevilla 7/10 |
 | 19:00 | Santa Clara marca | goles | 1.33 | 90% | Maritimo (en contra) 9/10 · Santa Clara 9/10 |
 | 16:45 | Sparta Rotterdam marca | goles | 1.30 | 90% | Groningen (en contra) 9/10 · Sparta Rotterdam 9/10 |
 | 19:00 | Gol en la 1ª parte del Academico Viseu–Rio Ave | goles | 1.36 | 75% | Academico Viseu 8/10 · Rio Ave 7/10 |
 | 14:00 | Granada CF marca | goles | 1.33 | 85% | Eldense (en contra) 8/10 · Granada CF 9/10 |
 | 15:30 | Said El Mala: 3+ tiros | jugador | 1.50 | 86% | Said El Mala 6/7 |
-| 14:00 | Sevilla marca | goles | 1.40 | 95% | Getafe (en contra) 9/10 · Sevilla 10/10 |
+| 15:30 | Rani Khedira comete 1+ faltas | jugador | 1.25 | 100% | Rani Khedira 9/9 |
+| 17:30 | Ryan Gravenberch comete 1+ faltas | jugador | 1.25 | 100% | Ryan Gravenberch 7/7 |
 | 12:15 | ADO Den Haag marca | goles | 1.25 | 90% | PEC Zwolle (en contra) 9/10 · ADO Den Haag 9/10 |
 | 18:00 | Gol en la 1ª parte del Lecce–Genoa | goles | 1.50 | 79% | Lecce 8/9 · Genoa 7/10 |
+| 14:00 | Sevilla marca | goles | 1.40 | 95% | Getafe (en contra) 9/10 · Sevilla 10/10 |
+| 14:00 | Sevilla o empate | resultado | 1.36 | 80% | Getafe 9/10 · Sevilla 7/10 |
+| 15:30 | Said El Mala comete 1+ faltas | jugador | 1.40 | 86% | Said El Mala 6/7 |
 | 18:00 | Más de 1,5 goles en Lecce–Genoa | goles | 1.44 | 79% | Lecce 8/9 · Genoa 7/10 |
+| 15:30 | Zeno Van Den Bosch comete 1+ faltas | jugador | 1.40 | 86% | Zeno Van Den Bosch 6/7 |
 | 14:00 | Más de 1,5 goles en Getafe–Sevilla | goles | 1.53 | 75% | Getafe 7/10 · Sevilla 8/10 |
-| 16:15 | Ambos marcan en Racing Santander–Real Madrid | goles | 1.50 | 75% | Racing Santander 7/10 · Real Madrid 8/10 |
 | 12:30 | Gana el Como | resultado | 1.33 | 80% | Como 7/10 · Venezia 9/10 |
-| 16:15 | Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid | goles | 1.57 | 75% | Racing Santander 7/10 · Real Madrid 8/10 |
+| 17:30 | David Wolfe comete 1+ faltas | jugador | 1.44 | 86% | David Wolfe 6/7 |
+| 16:15 | Ambos marcan en Racing Santander–Real Madrid | goles | 1.50 | 75% | Racing Santander 7/10 · Real Madrid 8/10 |
 | 16:45 | Ambos marcan en Groningen–Sparta Rotterdam | goles | 1.44 | 90% | Groningen 9/10 · Sparta Rotterdam 9/10 |
 | 15:00 | Auxerre marca | goles | 1.33 | 100% | Strasbourg (en contra) 8/8 · Auxerre 8/8 |
 | 16:45 | Más de 2,5 goles en Groningen–Sparta Rotterdam | goles | 1.44 | 95% | Groningen 9/10 · Sparta Rotterdam 10/10 |
 | 14:00 | Gol en la 2ª parte del Getafe–Sevilla | goles | 1.36 | 90% | Getafe 8/10 · Sevilla 10/10 |
+| 15:30 | Marius Bulter comete 1+ faltas | jugador | 1.67 | 83% | Marius Bulter 5/6 |
 | 16:45 | Ambos marcan y más de 2,5 goles en Groningen–Sparta Rotterdam | goles | 1.67 | 85% | Groningen 8/10 · Sparta Rotterdam 9/10 |
-| 16:15 | Racing Santander marca | goles | 1.36 | 80% | Racing Santander 7/10 · Real Madrid (en contra) 9/10 |
 | 12:30 | Como marca 2 o más | goles | 1.30 | 80% | Como 8/10 · Venezia (en contra) 8/10 |
+| 16:15 | Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid | goles | 1.62 | 75% | Racing Santander 7/10 · Real Madrid 8/10 |
 | 16:30 | Gana el Arouca | resultado | 1.80 | 70% | Arouca 6/10 · Nacional 8/10 |
-| 15:00 | Ambos marcan en Strasbourg–Auxerre | goles | 1.53 | 81% | Strasbourg 6/8 · Auxerre 7/8 |
+| 15:00 | Ambos marcan en Strasbourg–Auxerre | goles | 1.57 | 81% | Strasbourg 6/8 · Auxerre 7/8 |
+| 16:15 | Racing Santander marca | goles | 1.44 | 80% | Racing Santander 7/10 · Real Madrid (en contra) 9/10 |
 | 16:30 | Arouca gana alguna de las dos partes | resultado | 1.44 | 75% | Arouca 8/10 · Nacional 7/10 |
 | 19:00 | Gana el Academico Viseu | resultado | 1.85 | 60% | Academico Viseu 6/10 · Rio Ave 6/10 |
 | 16:45 | Groningen marca 2 o más | goles | 1.53 | 85% | Groningen 8/10 · Sparta Rotterdam (en contra) 9/10 |
@@ -182,9 +195,9 @@ _Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Lunes 02/11
 
-**🔒 Combi segura · cuota 1,74**
+**🔒 Combi segura · cuota 1,70**
 - Gol en la 1ª parte del Oviedo–Las Palmas (1,36) · Oviedo 9/10 · Las Palmas 7/10
-- Gol en la 2ª parte del Valladolid–Leganes (1,28) · Valladolid 8/10 · Leganes 8/10
+- Sassuolo marca (1,25) · Sassuolo 9/10 · Fiorentina (en contra) 9/10
 
 **💥 Combi cuota 3-4 · cuota 2,91**
 - Más de 1,5 goles en Deportivo La Coruna–Osasuna (1,40) · Deportivo La Coruna 8/10 · Osasuna 8/10
@@ -197,7 +210,6 @@ _Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 21:00 | Más de 1,5 goles en Deportivo La Coruna–Osasuna | goles | 1.40 | 80% | Deportivo La Coruna 8/10 · Osasuna 8/10 |
 | 21:00 | Thierno Barry: 2+ tiros | jugador | 1.36 | 89% | Thierno Barry 8/9 |
 | 18:30 | Ambos marcan en Sassuolo–Fiorentina | goles | 1.53 | 80% | Sassuolo 9/10 · Fiorentina 7/10 |
-| 18:30 | Gol en la 2ª parte del Valladolid–Leganes | goles | 1.28 | 80% | Valladolid 8/10 · Leganes 8/10 |
 | 21:00 | Gol en la 2ª parte del Deportivo La Coruna–Osasuna | goles | 1.30 | 80% | Deportivo La Coruna 9/10 · Osasuna 7/10 |
 | 18:30 | Sassuolo marca | goles | 1.25 | 90% | Sassuolo 9/10 · Fiorentina (en contra) 9/10 |
 | 18:30 | Más de 2,5 goles en Sassuolo–Fiorentina | goles | 1.62 | 80% | Sassuolo 7/10 · Fiorentina 9/10 |
@@ -209,13 +221,13 @@ _Generado el 2026-10-29 02:04 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 21:00 | Ambos marcan en Villarreal–Paris Saint Germain | goles | 1.44 | 75% | Villarreal 7/10 · Paris Saint Germain 8/10 |
 | 21:00 | Lille marca | goles | 1.28 | 82% | Bodo/Glimt (en contra) 5/7 · Lille 9/10 |
 | 21:00 | Slovan Bratislava marca | goles | 1.44 | 86% | Lask Linz (en contra) 5/5 · Slovan Bratislava 7/9 |
-| 21:00 | Más de 2,5 goles en Feyenoord–Inter | goles | 1.44 | 75% | Feyenoord 7/10 · Inter 8/10 |
 | 21:00 | Aston Villa marca | goles | 1.44 | 85% | Barcelona (en contra) 8/10 · Aston Villa 9/10 |
 | 21:00 | Ambos marcan en Barcelona–Aston Villa | goles | 1.50 | 75% | Barcelona 8/10 · Aston Villa 7/10 |
 | 21:00 | Más de 2,5 goles en Villarreal–Paris Saint Germain | goles | 1.36 | 80% | Villarreal 8/10 · Paris Saint Germain 8/10 |
+| 21:00 | Más de 2,5 goles en Feyenoord–Inter | goles | 1.40 | 75% | Feyenoord 7/10 · Inter 8/10 |
 | 21:00 | AS Roma o empate | resultado | 1.57 | 90% | Manchester United 9/10 · AS Roma 9/10 |
-| 21:00 | Feyenoord marca | goles | 1.30 | 80% | Feyenoord 9/10 · Inter (en contra) 7/10 |
 | 21:00 | Villarreal marca | goles | 1.30 | 80% | Villarreal 8/10 · Paris Saint Germain (en contra) 8/10 |
+| 21:00 | Feyenoord marca | goles | 1.30 | 80% | Feyenoord 9/10 · Inter (en contra) 7/10 |
 | 21:00 | Ambos marcan y más de 2,5 goles en Barcelona–Aston Villa | goles | 1.62 | 75% | Barcelona 8/10 · Aston Villa 7/10 |
 | 21:00 | Ambos marcan y más de 2,5 goles en Villarreal–Paris Saint Germain | goles | 1.62 | 75% | Villarreal 7/10 · Paris Saint Germain 8/10 |
 | 21:00 | Más de 1,5 goles en la 2ª parte del Barcelona–Aston Villa | goles | 1.40 | 80% | Barcelona 9/10 · Aston Villa 7/10 |
