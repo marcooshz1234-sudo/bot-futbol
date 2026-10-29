@@ -301,7 +301,7 @@ def main(objetivo=None):
     if not any(claves.values()):
         print("Redes: sin claves de Meta todavía (se publica solo en Telegram)")
         return
-    if claves["threads"] and not objetivo:
+    if claves["threads"] and not objetivo and os.environ.get("GITHUB_ACTIONS") == "true":   # no en las pruebas
         try:
             responder_threads(claves["threads"])
         except Exception as e:
