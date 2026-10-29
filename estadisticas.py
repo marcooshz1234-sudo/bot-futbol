@@ -31,6 +31,21 @@ def intentar(f):
         return None
 
 
+def titulo_corto(texto):
+    """29/10 (widget): título legible del próximo post: «Combi Everton vs Newcastle», «Combi del jueves x2,40»."""
+    import re
+    lineas = [l for l in texto.strip().splitlines() if l.strip()]
+    limpio = lambda s: re.sub(r"\s+", " ", "".join(c for c in s if c.isalnum() or c in " ·-–,.()/+%|")).strip(" |·-–")
+    t = limpio(lineas[0])
+    if "COMBI LOCAS" in t.upper() and len(lineas) > 1:   # combi de partido: el partido de la 2ª línea
+        t = "Combi " + limpio(lineas[1]).title().replace(" Vs ", " vs ")
+    else:
+        t = re.sub(r"^COMBILOCAS\s*[-–|·]*\s*", "", t, flags=re.I)
+        t = re.sub(r"\s*[·|-]\s*COMBILOCAS$", "", t, flags=re.I)
+        t = t[:1].upper() + t[1:].lower()
+    return t[:38]
+
+
 def main():
     ahora = datetime.now(MADRID)
     hoy, ayer = ahora.strftime("%Y-%m-%d"), (ahora - timedelta(days=1)).strftime("%Y-%m-%d")
@@ -90,9 +105,7 @@ def main():
     proximo = None
     if futuros:
         p = futuros[0]
-        titulo = p["texto"].strip().splitlines()[0]
-        titulo = "".join(c for c in titulo if c.isalnum() or c in " ·-–,.()/+%").strip().capitalize()
-        proximo = {"hora": p["fecha"][11:16], "dia": p["fecha"][:10], "titulo": titulo[:32]}
+        proximo = {"hora": p["fecha"][11:16], "dia": p["fecha"][:10], "titulo": titulo_corto(p["texto"])}
 
     # cómo fueron ayer los picks del bot
     reg = leer(RAIZ / "datos" / "registro_aciertos.json", {})
