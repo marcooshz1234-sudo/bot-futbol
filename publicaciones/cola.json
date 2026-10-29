@@ -1782,5 +1782,39 @@
     "cuotas_revisadas": "2026-10-29T23:04",
     "forzar": true,
     "nota": "29/10: a las 23:30 (Marcos)"
+  },
+  {
+    "id": "2026-10-30-combi-partido-1552806",
+    "fecha": "2026-10-30T00:30",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 NICE vs RENNES 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ NICE O EMPATE [x1.53]\n✅ AMBOS MARCAN [x1.50]\n✅ NICE HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ RENNES HACE MÁS TIROS A PUERTA [x2.05]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,57\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552806|Goals Over/Under First Half|Over 0.5",
+      "1552806|Double Chance|Home/Draw",
+      "1552806|Both Teams Score|Yes",
+      "1552806|Home Corners Over/Under|Over 4.5",
+      "1552806|ShotOnTarget 1x2|Away"
+    ],
+    "cuotas": [
+      1.25,
+      1.53,
+      1.5,
+      1.67,
+      2.05
+    ],
+    "tarjeta": {
+      "local": "Nice",
+      "visitante": "Rennes",
+      "id_l": 84,
+      "id_v": 94,
+      "logo_l": "https://media.api-sports.io/football/teams/84.png",
+      "logo_v": "https://media.api-sports.io/football/teams/94.png",
+      "fecha": "2026-10-30T19:00",
+      "liga": "Ligue 1"
+    },
+    "forzar": true,
+    "nota": "29/10 23:12: adelantada una hora (Marcos); antes 01:30"
   }
 ]
