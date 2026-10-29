@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 19:19",
+ "actualizado": "2026-10-29 19:29",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -54,9 +54,9 @@
  "total_hoy": 41,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:25",
+  "hora": "19:45",
   "dia": "2026-10-29",
-  "titulo": "Combi Everton vs Newcastle"
+  "titulo": "Combi Fiorentina vs Atalanta"
  },
  "ayer": {
   "aciertos": 20,
@@ -110,13 +110,13 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 4,
+  "Combi loca (reel)": {
+   "posts": 31,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 30,
+  "Escalera (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -151,7 +151,7 @@
    "comentarios_media": 0.0
   },
   "Picks": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
