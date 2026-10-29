@@ -21,6 +21,7 @@ const num = n => n == null ? "—" : Math.round(n).toLocaleString("es-ES")
 const mas = n => n == null ? "—" : n > 0 ? "+" + n : n < 0 ? "−" + Math.abs(n) : "±0"
 
 async function actualizarme() {
+  if (typeof CARGADOR !== "undefined") return   // 29/10: con el cargador corto ya se baja la última versión cada vez
   try {
     const nuevo = await new Request(CODIGO + "?t=" + Date.now()).loadString()
     if (!nuevo.includes("Script.setWidget") || !nuevo.includes("const VERSION")) return
