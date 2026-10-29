@@ -1825,7 +1825,16 @@
       "liga": "Ligue 1"
     },
     "forzar": true,
-    "nota": "29/10 23:12: adelantada una hora (Marcos); antes 01:30"
+    "nota": "29/10 23:12: adelantada una hora (Marcos); antes 01:30",
+    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1552806.tarjeta.jpg",
+    "enviado": "2026-10-30T00:30",
+    "mensaje_id": 180,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18105444866375250",
+      "instagram": "18117878129041795",
+      "instagram_story": "18127878922910764"
+    }
   },
   {
     "id": "2026-10-29-balance-auto",
