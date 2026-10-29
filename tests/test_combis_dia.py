@@ -61,6 +61,9 @@ class RecorteCaso28(unittest.TestCase):
 class RecorteMilan28(unittest.TestCase):
     def test_milan_bologna_como_bet365(self):
         import combis_dia
+        from bot import EXTRA
+        if not (EXTRA / "1550167.json").exists():   # 29/10: el bot borra las cuotas de los partidos ya jugados
+            self.skipTest("ya no están las cuotas del Milan–Bologna")
         sel = ["1550167|ShotOnTarget 1x2|Home", "1550167|Total - Away|Over 0.5", "1550167|Match Winner|Home", "1550167|Cards Over/Under|Over 3.5"]
         real = combis_dia.cuota_real_sel(sel, [1.44, 1.62, 1.70, 1.80])
         self.assertAlmostEqual(real, 8.0, delta=0.4)   # bet365 pagaba 8,00 (Marcos, 28/10)
