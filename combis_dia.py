@@ -474,7 +474,12 @@ def ya_en_otras():
     return out
 
 
-def del_dia(dia, hist=None, ap=None):
+def noche_fija():
+    from bot import DATOS
+    return DATOS / "noche_elegidos.json"
+
+
+def del_dia(dia, hist=None, ap=None, guardar=False):
     """{'partidos': [(cp, cuota, tarjeta, hora)], 'tres': (picks, cuota), 'loca': (picks, cuota)}"""
     import picks as P
     from bot import DATOS
@@ -511,9 +516,13 @@ def del_dia(dia, hist=None, ap=None):
     ultima_noche = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=NOCHE["horas"][-1][0], minute=NOCHE["horas"][-1][1])
     if dia <= NOCHE["hasta"] and ultima_noche > datetime.now(MADRID):   # si la noche ya pasó, no quita partidos de la tarde
         pool_id = {pool[0]["partido_id"]: pool for pool in pools}
+        # 29/10 (Marcos: «¿por qué cambia la hora?»): los partidos de la noche, una vez elegidos, no cambian
+        fijos = (leer(noche_fija(), {}) or {}).get(dia) or []
+        if fijos:
+            partidos = sorted(partidos, key=lambda x: x[2]["partido_id"] not in fijos)
         quedan = []
         for g, s, cp, c in partidos:
-            if len(noche_sel) < len(NOCHE["horas"]):
+            if len(noche_sel) < len(NOCHE["horas"]) and (not fijos or cp["partido_id"] in fijos):
                 noche_sel.append((cp, c))
                 usadas = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in cp["picks"]}
                 r2 = combi_partido([p for p in pool_id[cp["partido_id"]]
@@ -523,6 +532,12 @@ def del_dia(dia, hist=None, ap=None):
             else:
                 quedan.append((g, s, cp, c))
         partidos = quedan
+        if guardar and noche_sel and not fijos:
+            import json
+            todo = leer(noche_fija(), {}) or {}
+            todo[dia] = [cp["partido_id"] for cp, _ in noche_sel]
+            todo = {k: todo[k] for k in sorted(todo)[-10:]}
+            noche_fija().write_text(json.dumps(todo, ensure_ascii=False) + "\n", encoding="utf-8")
     # 27/10 (norma de Marcos): si entre los 3 mejores no hay equipo español, entra el mejor partido español
     # (en España bet365 suele dar aumentos y apuestas aseguradas)
     espanol = lambda cp: cp.get("liga_id") in (140, 141, 143)

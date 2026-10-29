@@ -253,7 +253,7 @@ def posts_del_dia(dia, d):
         # 27/10: el formato de ese martes (combis_dia.py): combi de cada partido con foto, x3 a las 13:30 y loca a las 16:00
         try:
             import combis_dia
-            cd = combis_dia.del_dia(dia)
+            cd = combis_dia.del_dia(dia, guardar=True)
         except Exception as e:
             print("combis del día:", str(e)[:200])
             cd = {"partidos": []}
