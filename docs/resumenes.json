@@ -430,14 +430,14 @@
   },
   "2026-10-29": {
     "dia": "2026-10-29",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -451,13 +451,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀",
         "estado": "pendiente",
         "cuota": 2.83
+      },
+      {
+        "id": "2026-10-29-combi-partido-1550170",
+        "titulo": "✅ COMBI LOCAS | SERIE A",
+        "estado": "pendiente",
+        "cuota": 4.41
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 12
+      "total": 15
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,79 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀 · 2,83 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CARABAO CUP · 9,79 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀 · 2,83 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 4,41 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
