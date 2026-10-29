@@ -360,6 +360,13 @@ def posts_del_dia(dia, d):
         return [p for p in lista_picks if usos.get(clave(p), 0) < MAX_POSTS_POR_SELECCION]
 
     mejores = mejores_para_lista(libres(d.get("picks") or []))
+    if len(mejores) < MIN_LISTA:
+        # 29/10 (Marcos): si no llega porque los buenos ya van en otras combis, se completa repitiendo pocos
+        # (solo los que falten para llegar al mínimo, de los más probables ya usados)
+        ya = {clave(p) for p in mejores}
+        extra = [p for p in mejores_para_lista(d.get("picks") or []) if clave(p) not in ya
+                 and p["partido_id"] not in {q["partido_id"] for q in mejores}]
+        mejores = mejores + extra[:MIN_LISTA - len(mejores)]
     if len(mejores) >= MIN_LISTA:
         sel = mejores[:7]
         apuntar(sel)

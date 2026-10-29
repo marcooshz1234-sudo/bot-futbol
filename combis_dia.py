@@ -23,13 +23,13 @@ CUOTA_MIN_PATA = 1.25
 PARTIDO = {"patas": (4, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # cuota REAL de bet365
 # 28/10 (Marcos, prueba de una semana): 2 combis de partido extra de madrugada (00:30 y 01:30) con los partidos grandes
 # del día que no tienen combi a su hora; más cortas si hace falta. La del City a la 01:30 hizo 4,8 mil vistas.
-NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (3, 6), "cuota": (3.5, 10.0), "hasta": "2026-11-04"}
+NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (3, 6), "cuota": (7.0, 10.0), "hasta": "2026-11-04"}   # 29/10: también 7-10
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
 # asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53); Monza–Napoli (McTominay 2+ remates, Varela 1+
 # a puerta, Monza marca, Monza +3 córners, +28,5 remates) multiplica 9,46 y paga 6,00 (0,63). Por eso ya no es un factor fijo: va por parejas.
-CORTA = {"patas": (3, 6), "cuota": (4.0, 10.0)}
+PROB_MIN_RELAJADA = 0.35   # 29/10 (Marcos): cuota 7-10 siempre; si no sale, patas desde el 35 %
 FACTOR_MIN = 0.45
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
@@ -481,8 +481,8 @@ def del_dia(dia, hist=None, ap=None):
     partidos = []
     for pool in pools:
         r = mejor_combi(pool, PARTIDO["patas"], PARTIDO["cuota"], PARTIDO["prob_min"])
-        if not r:   # 29/10: si con lo aprendido no llega a 7, una algo más corta antes que dejar el partido sin combi
-            r = mejor_combi(pool, CORTA["patas"], CORTA["cuota"], PARTIDO["prob_min"])
+        if not r:   # 29/10 (Marcos): siempre entre 7 y 10; si no llega, se admiten patas algo menos seguras
+            r = mejor_combi(pool, PARTIDO["patas"], PARTIDO["cuota"], PROB_MIN_RELAJADA)
         if r:
             b = pool[0]
             cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
@@ -534,8 +534,9 @@ def del_dia(dia, hist=None, ap=None):
             b = pool[0]
             if b["partido_id"] in ya:
                 continue
-            r = mejor_combi([p for p in pool if not (con15 >= MAS_15["max_dia"] and es_mas15(p))],
-                            NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"])
+            sin15 = [p for p in pool if not (con15 >= MAS_15["max_dia"] and es_mas15(p))]
+            r = mejor_combi(sin15, NOCHE["patas"], NOCHE["cuota"], PARTIDO["prob_min"]) \
+                or mejor_combi(sin15, NOCHE["patas"], NOCHE["cuota"], PROB_MIN_RELAJADA)
             if r:
                 cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
                 cp["picks"] = r[1]
