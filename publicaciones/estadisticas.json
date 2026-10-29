@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 23:07",
+ "actualizado": "2026-10-29 23:17",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -13,15 +13,15 @@
    ]
   },
   "threads": {
-   "seguidores": 1273,
-   "hoy": 48,
+   "seguidores": 1274,
+   "hoy": 49,
    "serie": [
     836,
     930,
     938,
     983,
     1225,
-    1273
+    1274
    ]
   },
   "facebook": {
@@ -37,8 +37,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 123,
-   "hoy": 10,
+   "seguidores": 124,
+   "hoy": 11,
    "serie": [
     75,
     72,
@@ -46,16 +46,16 @@
     69,
     80,
     113,
-    123
+    124
    ]
   }
  },
- "total": 1416,
- "total_hoy": 58,
+ "total": 1418,
+ "total_hoy": 60,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
-  "dia": "2026-10-30",
+  "hora": "23:30",
+  "dia": "2026-10-29",
   "titulo": "Combi Le Havre vs Paris Saint Germain"
  },
  "ayer": {
@@ -104,12 +104,17 @@
   },
   "2026-10-29": {
    "instagram": 20,
-   "threads": 1273,
+   "threads": 1274,
    "facebook": 0,
-   "telegram": 123
+   "telegram": 124
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 9,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 35,
    "likes_media": 0.0,
@@ -125,13 +130,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 8,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Combi de partido (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
