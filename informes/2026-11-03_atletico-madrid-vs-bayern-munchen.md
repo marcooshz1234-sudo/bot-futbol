@@ -1,7 +1,7 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_
@@ -182,42 +182,42 @@ _Sin bajas comunicadas por ahora._
 | H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,00 · córners esperados 9,6._
+_Goles esperados: local 1,09 · visitante 1,90 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 59% | 48% | 54% | 1.95 | +5% |
-| 1X2: X | 21% | 24% | 23% | 3.90 | -11% |
-| 1X2: 1 | 19% | 28% | 23% | 3.40 | -20% |
-| Doble oportunidad: X2 | 81% | 72% | 77% | 1.30 | -0% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 41% | 52% | 46% | 1.80 | -16% |
-| Ambos marcan: No ✅ | 44% | 31% | 38% | 3.00 | +13% |
-| Ambos marcan: Sí | 56% | 69% | 62% | 1.36 | -15% |
-| Goles más/menos: Más de 2.5 | 59% | 68% | 63% | 1.40 | -11% |
-| Goles más/menos: Más de 3.5 | 36% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 4.5 | 19% | 30% | 25% | 3.20 | -22% |
-| Goles más/menos: Menos de 2.5 ✅ | 41% | 32% | 37% | 3.00 | +10% |
-| Goles más/menos: Menos de 3.5 | 64% | 53% | 58% | 1.80 | +5% |
-| Goles más/menos: Menos de 4.5 | 81% | 70% | 75% | 1.36 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles del local: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
-| Goles del local: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
-| Goles del local: Más de 2.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles del local: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +17% |
-| Goles del local: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
-| Goles del local: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
-| Goles del visitante: Más de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Goles del visitante: Más de 2.5 | 32% | 35% | 34% | 2.62 | -11% |
-| Goles del visitante: Menos de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
-| Goles del visitante: Menos de 2.5 | 68% | 65% | 66% | 1.44 | -5% |
-| 1X2 descanso: 2 | 43% | 38% | 41% | 2.40 | -2% |
-| 1X2 descanso: X | 38% | 35% | 37% | 2.62 | -4% |
-| 1X2 descanso: 1 | 18% | 26% | 22% | 3.50 | -22% |
+| 1X2: 2 | 56% | 48% | 52% | 1.95 | +2% |
+| 1X2: X | 22% | 24% | 23% | 3.90 | -10% |
+| 1X2: 1 | 21% | 28% | 25% | 3.40 | -16% |
+| Doble oportunidad: X2 | 79% | 72% | 75% | 1.30 | -2% |
+| Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
+| Doble oportunidad: 1X | 44% | 52% | 48% | 1.80 | -14% |
+| Ambos marcan: No ✅ | 44% | 31% | 37% | 3.00 | +12% |
+| Ambos marcan: Sí | 56% | 69% | 63% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 57% | 68% | 63% | 1.40 | -12% |
+| Goles más/menos: Más de 3.5 | 35% | 47% | 41% | 2.00 | -18% |
+| Goles más/menos: Más de 4.5 | 18% | 30% | 24% | 3.20 | -23% |
+| Goles más/menos: Menos de 2.5 ✅ | 43% | 32% | 37% | 3.00 | +12% |
+| Goles más/menos: Menos de 3.5 | 65% | 53% | 59% | 1.80 | +6% |
+| Goles más/menos: Menos de 4.5 | 82% | 70% | 76% | 1.36 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 75% | 1.20 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 23% | 19% | 4.00 | -25% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 25% | 4.33 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
+| Goles del local: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
+| Goles del local: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
+| Goles del local: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
+| Goles del local: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +14% |
+| Goles del local: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
+| Goles del local: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles del visitante: Más de 1.5 | 56% | 61% | 59% | 1.53 | -10% |
+| Goles del visitante: Más de 2.5 | 30% | 35% | 32% | 2.62 | -15% |
+| Goles del visitante: Menos de 1.5 | 44% | 39% | 41% | 2.38 | -2% |
+| Goles del visitante: Menos de 2.5 | 70% | 65% | 68% | 1.44 | -3% |
+| 1X2 descanso: 2 | 41% | 38% | 40% | 2.40 | -4% |
+| 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -3% |
+| 1X2 descanso: 1 | 20% | 26% | 23% | 3.50 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

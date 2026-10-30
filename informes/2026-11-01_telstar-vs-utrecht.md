@@ -1,10 +1,10 @@
 # Telstar – Utrecht
-**Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · BUKO Stadion
+**Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 19:56_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **2.75**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -61,42 +61,42 @@ _Actualizadas: 29/10 19:56_
 ## Estadísticas de equipo
 | | Telstar (total) | Telstar en casa | Utrecht (total) | Utrecht fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 10 | 5 |
-| Forma (últimos 5) | DDDED | DDEED | EVVDV | VDVED |
-| Balance | 1V 3E 7D | 0V 2E 4D | 3V 3E 4D | 2V 1E 2D |
-| Goles a favor / partido | 1,09 | 1,33 | 1,70 | 1,60 |
-| Goles en contra / partido | 2,09 | 2,83 | 2,70 | 2,40 |
-| Goles a favor 1ª parte | 0,55 | 0,67 | 0,30 | 0,40 |
-| Goles a favor 2ª parte | 0,55 | 0,67 | 1,40 | 1,20 |
-| Goles en contra 1ª parte | 0,91 | 1,17 | 1,00 | 1,20 |
-| Goles en contra 2ª parte | 1,18 | 1,67 | 1,70 | 1,20 |
-| Más de 1,5 goles | 73% | 100% | 100% | 100% |
-| Más de 2,5 goles | 64% | 83% | 90% | 100% |
-| Más de 3,5 goles | 55% | 83% | 60% | 40% |
-| Ambos marcan | 55% | 67% | 90% | 80% |
-| Portería a cero | 9% | 0% | 0% | 0% |
-| Se queda sin marcar | 45% | 33% | 10% | 20% |
+| Partidos analizados | 11 | 6 | 11 | 6 |
+| Forma (últimos 5) | DDDED | DDEED | VEVVD | VVDVE |
+| Balance | 1V 3E 7D | 0V 2E 4D | 4V 3E 4D | 3V 1E 2D |
+| Goles a favor / partido | 1,09 | 1,33 | 1,64 | 1,50 |
+| Goles en contra / partido | 2,09 | 2,83 | 2,45 | 2,00 |
+| Goles a favor 1ª parte | 0,55 | 0,67 | 0,36 | 0,50 |
+| Goles a favor 2ª parte | 0,55 | 0,67 | 1,27 | 1,00 |
+| Goles en contra 1ª parte | 0,91 | 1,17 | 0,91 | 1,00 |
+| Goles en contra 2ª parte | 1,18 | 1,67 | 1,55 | 1,00 |
+| Más de 1,5 goles | 73% | 100% | 91% | 83% |
+| Más de 2,5 goles | 64% | 83% | 82% | 83% |
+| Más de 3,5 goles | 55% | 83% | 55% | 33% |
+| Ambos marcan | 55% | 67% | 82% | 67% |
+| Portería a cero | 9% | 0% | 9% | 17% |
+| Se queda sin marcar | 45% | 33% | 9% | 17% |
 | xG a favor | 1,27 | 1,79 | 1,41 | 1,49 |
 | xG en contra | 2,07 | 2,17 | 1,77 | 1,73 |
-| Tiros / partido | 12,2 | 16,0 | 13,9 | 12,8 |
-| Tiros a puerta / partido | 2,9 | 3,5 | 4,4 | 4,8 |
-| Tiros recibidos | 15,9 | 11,7 | 17,2 | 17,4 |
-| Tiros a puerta recibidos | 6,5 | 6,3 | 6,8 | 6,2 |
-| Posesión media % | 48 | 55 | 46 | 42 |
-| Córners a favor | 4,8 | 6,3 | 4,1 | 3,4 |
-| Córners en contra | 5,7 | 4,0 | 5,8 | 5,2 |
-| Córners a favor 1ª parte | 2,1 | 2,5 | 2,2 | 1,8 |
-| Córners a favor 2ª parte | 2,7 | 3,8 | 1,9 | 1,6 |
-| Córners totales del partido | 10,5 | 10,3 | 9,9 | 8,6 |
-| Córners totales 1ª parte | 4,6 | 5,0 | 5,2 | 3,6 |
-| Córners totales 2ª parte | 5,9 | 5,3 | 4,7 | 5,0 |
-| Más de 8,5 córners | 64% | 67% | 80% | 60% |
-| Más de 9,5 córners | 55% | 50% | 50% | 20% |
-| Más de 10,5 córners | 55% | 50% | 40% | 20% |
-| Faltas cometidas | 9,9 | 9,5 | 15,8 | 14,4 |
-| Faltas recibidas | 12,7 | 12,7 | 10,4 | 10,6 |
-| Amarillas propias | 1,3 | 1,2 | 2,1 | 1,2 |
-| Amarillas del rival | 1,5 | 1,7 | 1,0 | 0,8 |
+| Tiros / partido | 12,2 | 16,0 | 13,4 | 12,0 |
+| Tiros a puerta / partido | 2,9 | 3,5 | 4,3 | 4,5 |
+| Tiros recibidos | 15,9 | 11,7 | 17,3 | 17,5 |
+| Tiros a puerta recibidos | 6,5 | 6,3 | 6,5 | 5,7 |
+| Posesión media % | 48 | 55 | 47 | 43 |
+| Córners a favor | 4,8 | 6,3 | 4,5 | 4,2 |
+| Córners en contra | 5,7 | 4,0 | 5,9 | 5,5 |
+| Córners a favor 1ª parte | 2,1 | 2,5 | 2,3 | 2,0 |
+| Córners a favor 2ª parte | 2,7 | 3,8 | 2,2 | 2,2 |
+| Córners totales del partido | 10,5 | 10,3 | 10,4 | 9,7 |
+| Córners totales 1ª parte | 4,6 | 5,0 | 5,2 | 3,8 |
+| Córners totales 2ª parte | 5,9 | 5,3 | 5,2 | 5,8 |
+| Más de 8,5 córners | 64% | 67% | 82% | 67% |
+| Más de 9,5 córners | 55% | 50% | 55% | 33% |
+| Más de 10,5 córners | 55% | 50% | 45% | 33% |
+| Faltas cometidas | 9,9 | 9,5 | 15,4 | 13,8 |
+| Faltas recibidas | 12,7 | 12,7 | 10,6 | 11,0 |
+| Amarillas propias | 1,3 | 1,2 | 1,9 | 1,0 |
+| Amarillas del rival | 1,5 | 1,7 | 0,9 | 0,7 |
 | Rojas / partido | 0,09 | 0,17 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -104,7 +104,7 @@ _Actualizadas: 29/10 19:56_
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 0 | 1 | 4 | 1 |
 | 16-30' | 2 | 4 | 4 | 1 | 2 | 2 |
-| 31-45' | 2 | 3 | 1 | 1 | 4 | 3 |
+| 31-45' | 2 | 3 | 1 | 2 | 4 | 3 |
 | 46-60' | 1 | 6 | 3 | 3 | 7 | 4 |
 | 61-75' | 2 | 3 | 2 | 4 | 3 | 4 |
 | 76-90' | 3 | 4 | 5 | 7 | 7 | 7 |
@@ -155,76 +155,76 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Utrecht
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | KNVB Beker | Kozakken Boys 0-1 Utrecht | fuera | 8-7 | 8 (3) - 18 (3) | –-– |
 | 2026-10-24 | Eredivisie | Utrecht 1-1 PEC Zwolle | casa | 7-2 | 23 (5) - 9 (5) | 2-2 |
 | 2026-10-18 | Eredivisie | Twente 1-2 Utrecht | fuera | 4-5 | 16 (5) - 24 (5) | 2-0 |
 | 2026-10-11 | Eredivisie | Utrecht 3-1 Willem II | casa | 7-3 | 24 (6) - 9 (2) | 2-0 |
 | 2026-09-20 | Eredivisie | Feyenoord 5-0 Utrecht | fuera | 3-6 | 6 (2) - 23 (12) | 2-2 |
 | 2026-09-13 | Eredivisie | Excelsior 1-2 Utrecht | fuera | 2-5 | 12 (6) - 10 (4) | 0-2 |
-| 2026-09-08 | Eredivisie | Utrecht 3-3 GO Ahead Eagles | casa | 7-5 | 19 (6) - 13 (7) | 2-1 |
 
 ## Jugadores de Utrecht
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. de Wit | F | 10 | 865 | 2 | 1 | 13 | 1,3 | 9 | 0,9 | 15 | 10 | 1,0 | 2 | 0 |
-| A. Zagré | D | 10 | 832 | 0 | 2 | 5 | 0,5 | 2 | 0,2 | 15 | 4 | 0,4 | 2 | 0 |
-| S. Horemans | D | 10 | 808 | 0 | 0 | 6 | 0,6 | 0 | 0,0 | 8 | 1 | 0,1 | 2 | 0 |
-| N. Vesterlund | M | 9 | 717 | 0 | 2 | 3 | 0,3 | 2 | 0,2 | 8 | 5 | 0,6 | 0 | 0 |
-| Ángel Alarcón | M | 10 | 666 | 3 | 0 | 21 | 2,1 | 10 | 1,0 | 8 | 4 | 0,4 | 0 | 0 |
-| M. Didden | D | 8 | 654 | 2 | 0 | 5 | 0,6 | 3 | 0,4 | 13 | 3 | 0,4 | 0 | 0 |
-| Y. Cathline | M | 10 | 638 | 2 | 2 | 20 | 2,0 | 3 | 0,3 | 8 | 16 | 1,6 | 1 | 0 |
+| Dani De Wit | M | 11 | 955 | 2 | 1 | 14 | 1,3 | 10 | 0,9 | 18 | 13 | 1,2 | 2 | 0 |
+| Arthur Zagré | D | 11 | 922 | 0 | 2 | 5 | 0,5 | 2 | 0,2 | 15 | 5 | 0,5 | 2 | 0 |
+| Siebe Horemans | D | 11 | 817 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 8 | 1 | 0,1 | 2 | 0 |
+| Niklas Vesterlund | D | 10 | 798 | 0 | 2 | 3 | 0,3 | 2 | 0,2 | 8 | 5 | 0,5 | 0 | 0 |
+| Matisse Didden | D | 9 | 744 | 2 | 0 | 5 | 0,6 | 3 | 0,3 | 15 | 3 | 0,3 | 0 | 0 |
+| Yoann Cathline | M | 11 | 728 | 2 | 2 | 20 | 1,8 | 3 | 0,3 | 8 | 20 | 1,8 | 1 | 0 |
+| Ángel Alarcón | M | 11 | 727 | 3 | 0 | 23 | 2,1 | 10 | 0,9 | 8 | 5 | 0,5 | 0 | 0 |
+| Nikolas Panagiotou | D | 7 | 630 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 11 | 4 | 0,6 | 2 | 0 |
 | V. Barkas | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| N. Panagiotou | D | 6 | 540 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 10 | 3 | 0,5 | 2 | 0 |
+| Joris van Overeem | M | 7 | 518 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 14 | 6 | 0,9 | 2 | 0 |
+| Artem Stepanov | F | 8 | 481 | 5 | 0 | 7 | 0,9 | 5 | 0,6 | 10 | 4 | 0,5 | 2 | 0 |
 | D. van den Berg | M | 10 | 470 | 0 | 2 | 5 | 0,5 | 1 | 0,1 | 7 | 5 | 0,5 | 2 | 0 |
-| Artem Stepanov | F | 7 | 452 | 5 | 0 | 7 | 1,0 | 5 | 0,7 | 10 | 4 | 0,6 | 2 | 0 |
-| J. van Overeem | M | 6 | 428 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 12 | 5 | 0,8 | 2 | 0 |
+| Oualid Agougil | M | 4 | 313 | 0 | 2 | 4 | 1,0 | 1 | 0,2 | 5 | 6 | 1,5 | 1 | 0 |
 | A. Blake | F | 10 | 304 | 2 | 1 | 14 | 1,4 | 6 | 0,6 | 8 | 14 | 1,4 | 0 | 0 |
 | Guus Offerhaus | M | 5 | 274 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 1 | 0,2 | 2 | 0 |
-| O. Agougil | M | 3 | 232 | 0 | 1 | 4 | 1,3 | 1 | 0,3 | 3 | 5 | 1,7 | 1 | 0 |
-| M. Broholm | F | 4 | 184 | 0 | 0 | 4 | 1,0 | 0 | 0,0 | 5 | 8 | 2,0 | 1 | 0 |
-| S. Padt | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| Sergio Padt | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| Marius Broholm | F | 5 | 213 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 5 | 9 | 1,8 | 1 | 0 |
+| Sem van Duijn | F | 8 | 204 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 0 | 0,0 | 0 | 0 |
 | Neville Nwankwo | D | 3 | 172 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |
-| S. van Duijn | F | 7 | 143 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 0 | 0,0 | 0 | 0 |
 | Mike Eerdhuijzen | D | 2 | 135 | 0 | 0 | 3 | 1,5 | 1 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 1,51 · córners esperados 9,7._
+_Goles esperados: local 1,43 · visitante 1,50 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 41% | 40% | 2.30 | -9% |
-| 1X2: X | 24% | 25% | 25% | 3.70 | -8% |
-| 1X2: 1 | 37% | 34% | 36% | 2.75 | -2% |
-| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
-| Doble oportunidad: 12 | 76% | 73% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 62% | 60% | 61% | 1.57 | -5% |
-| Ambos marcan: No | 40% | 35% | 38% | 2.62 | -2% |
-| Ambos marcan: Sí | 60% | 65% | 62% | 1.44 | -10% |
-| Goles más/menos: Más de 2.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles más/menos: Más de 3.5 | 35% | 41% | 38% | 2.25 | -14% |
-| Goles más/menos: Más de 4.5 | 19% | 23% | 21% | 4.00 | -16% |
-| Goles más/menos: Menos de 2.5 | 42% | 39% | 41% | 2.40 | -3% |
-| Goles más/menos: Menos de 3.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles más/menos: Menos de 4.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 42% | 40% | 2.20 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles del local: Más de 1.5 | 44% | 46% | 45% | 2.00 | -10% |
-| Goles del local: Más de 2.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -8% |
-| Goles del local: Menos de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del local: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles del visitante: Más de 1.5 | 45% | 50% | 47% | 1.83 | -13% |
+| 1X2: 2 | 39% | 41% | 40% | 2.30 | -8% |
+| 1X2: X | 25% | 25% | 25% | 3.70 | -8% |
+| 1X2: 1 | 36% | 34% | 35% | 2.75 | -4% |
+| Doble oportunidad: X2 | 64% | 67% | 65% | 1.40 | -8% |
+| Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 61% | 60% | 60% | 1.57 | -5% |
+| Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
+| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
+| Goles más/menos: Más de 2.5 | 56% | 61% | 59% | 1.53 | -10% |
+| Goles más/menos: Más de 3.5 | 34% | 41% | 37% | 2.25 | -16% |
+| Goles más/menos: Más de 4.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles más/menos: Menos de 2.5 | 44% | 39% | 41% | 2.40 | -0% |
+| Goles más/menos: Menos de 3.5 | 66% | 59% | 63% | 1.57 | -2% |
+| Goles más/menos: Menos de 4.5 | 83% | 77% | 80% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
+| Goles del local: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Goles del local: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Goles del local: Más de 2.5 | 17% | 21% | 19% | 4.50 | -14% |
+| Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
+| Goles del local: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -3% |
+| Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles del visitante: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del visitante: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -4% |
+| Goles del visitante: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
 | Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
-| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
-| 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -13% |
-| 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -6% |
-| 1X2 descanso: 1 | 30% | 29% | 29% | 3.20 | -7% |
+| 1X2 descanso: 2 | 31% | 33% | 32% | 2.75 | -12% |
+| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: 1 | 29% | 29% | 29% | 3.20 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

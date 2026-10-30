@@ -1,7 +1,7 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Leander Dendoncker | M | 2 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 2,26 · córners esperados 9,3._
+_Goles esperados: local 0,65 · visitante 2,27 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

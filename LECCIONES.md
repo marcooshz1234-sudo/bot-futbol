@@ -1,5 +1,33 @@
 # Lecciones del bot
 
+## 2026-10-29
+
+```
+🧠 LECCIONES DEL 29/10
+Picks del bot: 6 ✅ · 3 ❌ · 1 sin resultado
+
+❌ Lo que falló en lo publicado:
+• Everton hace más de 4,5 córners → 4 de 5 córners
+• Everton hace más tiros → Tiros: 11 – 28
+• Groningen marca 2 o más → 0 de 2 goles
+• Más de 4 córners en la 1ª parte en Everton–Newcastle → marcador 3-1
+
+❌ Fallos de los picks del bot y por qué:
+• No hay empate en Fiorentina–Atalanta — resultado 2-2
+• Radu Dragusin comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Groningen marca 2 o más — Groningen no marcó lo esperado (0-2)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Fiorentina–Atalanta
+
+📐 Modelo: 88/144 aciertos reales (61%) frente al 72% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo jugador:faltas_c: 4/10 (-5 pts)
+⬇️ castigo tipo goles: 42/71 (-5 pts)
+⬇️ castigo mercado Total - Home|Over 1.5: 1/2 (-3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-28
 
 ```

@@ -1,7 +1,7 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | N. Bochorishvili | D | 2 | 29 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 4,10 · visitante 0,40 · córners esperados 9,4._
+_Goles esperados: local 4,05 · visitante 0,40 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

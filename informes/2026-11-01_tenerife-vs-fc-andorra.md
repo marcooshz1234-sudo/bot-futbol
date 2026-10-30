@@ -1,7 +1,7 @@
 # Tenerife – FC Andorra
-**Segunda División** · Regular Season - 12 · 01/11/2026 21:00 (hora España)
+**Segunda División** · Regular Season - 12 · 01/11/2026 21:00 (hora España) · Heliodoro Rodríguez López
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Tenerife (total) | Tenerife en casa | FC Andorra (total) | FC Andorra fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 5 |
-| Forma (últimos 5) | EEEDE | EEVDV | DDVEV | DEVDD |
-| Balance | 3V 5E 3D | 2V 2E 1D | 3V 1E 7D | 1V 1E 3D |
-| Goles a favor / partido | 1,18 | 1,00 | 1,36 | 1,00 |
-| Goles en contra / partido | 1,36 | 0,60 | 1,82 | 1,80 |
-| Goles a favor 1ª parte | 0,64 | 0,80 | 0,55 | 0,40 |
-| Goles a favor 2ª parte | 0,55 | 0,20 | 0,82 | 0,60 |
-| Goles en contra 1ª parte | 0,73 | 0,20 | 0,91 | 0,60 |
-| Goles en contra 2ª parte | 0,64 | 0,40 | 0,91 | 1,20 |
-| Más de 1,5 goles | 82% | 60% | 64% | 60% |
-| Más de 2,5 goles | 27% | 0% | 55% | 40% |
-| Más de 3,5 goles | 27% | 0% | 55% | 40% |
-| Ambos marcan | 64% | 40% | 55% | 40% |
-| Portería a cero | 18% | 40% | 18% | 20% |
-| Se queda sin marcar | 18% | 20% | 36% | 60% |
+| Partidos analizados | 11 | 5 | 12 | 6 |
+| Forma (últimos 5) | EEEDE | EEVDV | VDDVE | VDEVD |
+| Balance | 3V 5E 3D | 2V 2E 1D | 4V 1E 7D | 2V 1E 3D |
+| Goles a favor / partido | 1,18 | 1,00 | 1,50 | 1,33 |
+| Goles en contra / partido | 1,36 | 0,60 | 1,67 | 1,50 |
+| Goles a favor 1ª parte | 0,64 | 0,80 | 0,58 | 0,50 |
+| Goles a favor 2ª parte | 0,55 | 0,20 | 0,92 | 0,83 |
+| Goles en contra 1ª parte | 0,73 | 0,20 | 0,83 | 0,50 |
+| Goles en contra 2ª parte | 0,64 | 0,40 | 0,83 | 1,00 |
+| Más de 1,5 goles | 82% | 60% | 67% | 67% |
+| Más de 2,5 goles | 27% | 0% | 58% | 50% |
+| Más de 3,5 goles | 27% | 0% | 50% | 33% |
+| Ambos marcan | 64% | 40% | 50% | 33% |
+| Portería a cero | 18% | 40% | 25% | 33% |
+| Se queda sin marcar | 18% | 20% | 33% | 50% |
 | xG a favor | 0,92 | 1,16 | 2,13 | 1,62 |
 | xG en contra | 1,21 | 1,12 | 1,40 | 1,67 |
 | Tiros / partido | 10,5 | 12,0 | 15,5 | 9,2 |
@@ -52,9 +52,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 3 | 5 | 3 | 5 | 3 |
 | 16-30' | 4 | 4 | 4 | 0 | 2 | 4 |
-| 31-45' | 2 | 1 | 4 | 3 | 3 | 7 |
-| 46-60' | 3 | 1 | 3 | 4 | 3 | 4 |
-| 61-75' | 3 | 3 | 4 | 3 | 1 | 7 |
+| 31-45' | 2 | 1 | 4 | 4 | 3 | 7 |
+| 46-60' | 3 | 1 | 3 | 5 | 3 | 5 |
+| 61-75' | 3 | 3 | 4 | 4 | 1 | 7 |
 | 76-90' | 0 | 3 | 9 | 2 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -105,12 +105,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FC Andorra
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Varea 0-3 FC Andorra | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-26 | Segunda División | FC Andorra 2-3 Burgos | casa | 7-3 | 20 (11) - 13 (7) | 1-1 |
 | 2026-10-18 | Segunda División | Girona 2-0 FC Andorra | fuera | 6-2 | 6 (3) - 11 (4) | 2-2 |
 | 2026-10-11 | Segunda División | FC Andorra 1-0 Castellón | casa | 4-7 | 16 (8) - 12 (3) | 4-2 |
 | 2026-10-04 | Segunda División | Sabadell 0-0 FC Andorra | fuera | 0-11 | 4 (0) - 19 (3) | 5-2 |
 | 2026-09-26 | Segunda División | Granada CF 2-3 FC Andorra | fuera | 4-14 | 6 (5) - 23 (5) | 8-2 |
-| 2026-09-19 | Segunda División | FC Andorra 1-3 Sporting Gijon | casa | 9-4 | 13 (4) - 7 (4) | 1-3 |
 
 ## Jugadores de FC Andorra
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | D. Diaz | M | 6 | 198 | 0 | 0 | 4 | 0,7 | 3 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,41 · córners esperados 9,3._
+_Goles esperados: local 1,14 · visitante 1,46 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

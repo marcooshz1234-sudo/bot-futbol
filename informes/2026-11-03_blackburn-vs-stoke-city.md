@@ -1,7 +1,7 @@
 # Blackburn – Stoke City
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Svante Ingelsson | M | 3 | 190 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 2 | 0,7 | 2 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 1,18 · córners esperados 10,0._
+_Goles esperados: local 1,44 · visitante 1,19 · córners esperados 10,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

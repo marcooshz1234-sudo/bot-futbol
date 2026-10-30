@@ -1,10 +1,10 @@
 # Eibar – Almeria
 **Segunda División** · Regular Season - 12 · 31/10/2026 16:15 (hora España) · Ipurua Municipal Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.30**  ·  X **3.30**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.57**
@@ -188,42 +188,42 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 1,38 · córners esperados 9,6._
+_Goles esperados: local 1,65 · visitante 1,37 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 32% | 32% | 2.88 | -8% |
-| 1X2: X | 24% | 28% | 26% | 3.30 | -15% |
+| 1X2: X | 24% | 28% | 26% | 3.30 | -14% |
 | 1X2: 1 | 44% | 40% | 42% | 2.30 | -3% |
 | Doble oportunidad: X2 | 56% | 61% | 58% | 1.57 | -9% |
 | Doble oportunidad: 12 | 76% | 72% | 74% | 1.33 | -2% |
 | Doble oportunidad: 1X | 68% | 68% | 68% | 1.40 | -5% |
-| Ambos marcan: No | 39% | 44% | 42% | 2.10 | -12% |
-| Ambos marcan: Sí | 61% | 56% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 1.5 | 81% | 75% | 78% | 1.25 | -3% |
-| Goles más/menos: Más de 2.5 | 59% | 51% | 55% | 1.85 | +2% |
-| Goles más/menos: Más de 3.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles más/menos: Menos de 1.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles más/menos: Menos de 2.5 | 41% | 49% | 45% | 1.95 | -12% |
-| Goles más/menos: Menos de 3.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -3% |
+| Ambos marcan: No | 40% | 44% | 42% | 2.10 | -12% |
+| Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -3% |
+| Goles más/menos: Más de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 2.5 | 58% | 51% | 55% | 1.85 | +1% |
+| Goles más/menos: Más de 3.5 | 36% | 31% | 33% | 3.00 | +0% |
+| Goles más/menos: Menos de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Menos de 2.5 | 42% | 49% | 45% | 1.95 | -12% |
+| Goles más/menos: Menos de 3.5 | 64% | 69% | 67% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 0.5 | 81% | 75% | 78% | 1.25 | -2% |
-| Goles del local: Más de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles del local: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -18% |
-| Goles del local: Menos de 1.5 | 50% | 56% | 53% | 1.67 | -11% |
+| Goles del local: Más de 0.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Goles del local: Más de 1.5 | 49% | 44% | 47% | 2.10 | -2% |
+| Goles del local: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles del local: Menos de 1.5 | 51% | 56% | 53% | 1.67 | -11% |
 | Goles del visitante: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
 | Goles del visitante: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
 | Goles del visitante: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -10% |
 | Goles del visitante: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.80 | -12% |
 | Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.91 | -2% |
-| 1X2 descanso: 2 | 26% | 27% | 27% | 3.40 | -9% |
+| 1X2 descanso: 2 | 26% | 27% | 27% | 3.40 | -8% |
 | 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -9% |
-| 1X2 descanso: 1 | 34% | 31% | 33% | 3.00 | -2% |
+| 1X2 descanso: 1 | 34% | 31% | 32% | 3.00 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

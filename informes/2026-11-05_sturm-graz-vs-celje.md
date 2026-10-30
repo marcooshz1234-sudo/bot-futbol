@@ -1,7 +1,7 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Merkur-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | V. Tusha | F | 2 | 81 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 4 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,46 · visitante 0,68 · córners esperados 9,4._
+_Goles esperados: local 1,45 · visitante 0,68 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -511,41 +511,6 @@
     "cuotas_revisadas": "2026-10-29T21:34"
   },
   {
-    "id": "2026-10-30-combi-partido-1552801",
-    "fecha": "2026-10-30T00:30",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LE HAVRE vs PARIS SAINT GERMAIN 🇫🇷\n\n🎯 GANA EL PARIS SAINT GERMAIN [x1.25]\n✅ LE HAVRE MARCA [x1.62]\n✅ PARIS SAINT GERMAIN GANA AL DESCANSO [x1.57]\n✅ LE HAVRE HACE MÁS DE 2,5 CÓRNERS [x1.73]\n✅ LE HAVRE VE MÁS DE 1,5 TARJETAS [x1.67]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.53]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 9,64\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552801|Match Winner|Away",
-      "1552801|Total - Home|Over 0.5",
-      "1552801|First Half Winner|Away",
-      "1552801|Home Corners Over/Under|Over 2.5",
-      "1552801|Home Team Total Cards|Over 1.5",
-      "1552801|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.25,
-      1.62,
-      1.57,
-      1.73,
-      1.67,
-      1.53
-    ],
-    "tarjeta": {
-      "local": "Le Havre",
-      "visitante": "Paris Saint Germain",
-      "id_l": 111,
-      "id_v": 85,
-      "logo_l": "https://media.api-sports.io/football/teams/111.png",
-      "logo_v": "https://media.api-sports.io/football/teams/85.png",
-      "fecha": "2026-10-30T19:00",
-      "liga": "Ligue 1"
-    },
-    "cuotas_revisadas": "2026-10-29T23:04"
-  },
-  {
     "id": "2026-10-30-ganadores",
     "fecha": "2026-10-30T01:00",
     "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇫🇷 Paris Saint Germain — Gana\n✅2. 🇵🇹 Sporting CP — Gana\n✅3. 🇪🇸 Villarreal — Gana\n✅4. 🇫🇷 Rennes — Gana o empata\n✅5. 🇫🇷 Lille — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -556,78 +521,43 @@
     "cuotas": []
   },
   {
-    "id": "2026-10-30-combi-partido-1552806",
-    "fecha": "2026-10-30T01:30",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 NICE vs RENNES 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ NICE O EMPATE [x1.53]\n✅ AMBOS MARCAN [x1.50]\n✅ NICE HACE MÁS DE 4,5 CÓRNERS [x1.80]\n✅ RENNES HACE MÁS TIROS A PUERTA [x2.05]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,16\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-10-30-escalera",
+    "fecha": "2026-10-30T11:00",
+    "texto": "🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀\n\n❌ Ayer se cayó el día 1. Aquí no se borra nada: otra vez desde 20€ 💪\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Sheffield Utd–Wrexham\n✅ 🇪🇸 Espanyol marca\n\n🎯 CUOTA 2,08 💎 · 20,00€ → 41,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552806|Goals Over/Under First Half|Over 0.5",
-      "1552806|Double Chance|Home/Draw",
-      "1552806|Both Teams Score|Yes",
-      "1552806|Home Corners Over/Under|Over 4.5",
-      "1552806|ShotOnTarget 1x2|Away"
+      "1563233|Goals Over/Under First Half|Over 0.5",
+      "1570442|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.25,
-      1.53,
-      1.5,
-      1.8,
-      2.05
-    ],
-    "tarjeta": {
-      "local": "Nice",
-      "visitante": "Rennes",
-      "id_l": 84,
-      "id_v": 94,
-      "logo_l": "https://media.api-sports.io/football/teams/84.png",
-      "logo_v": "https://media.api-sports.io/football/teams/94.png",
-      "fecha": "2026-10-30T19:00",
-      "liga": "Ligue 1"
-    },
-    "cuotas_revisadas": "2026-10-30T00:01"
-  },
-  {
-    "id": "2026-10-30-combi-tres",
-    "fecha": "2026-10-30T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,75! 🍀\n\n✅ 🇵🇹 Gol en la 1ª parte del Casa Pia–Sporting CP\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Utd o empate\n✅ 🇩🇪 FSV Mainz 05 hace más tiros\n\n🎯 CUOTA 2,75 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575531|Goals Over/Under First Half|Over 0.5",
-      "1563233|Double Chance|Home/Draw",
-      "1575211|Shots.1x2|Away"
-    ],
-    "cuotas": [
-      1.25,
-      1.44,
+      1.36,
       1.53
     ]
   },
   {
     "id": "2026-10-30-combi-partido-1575211",
     "fecha": "2026-10-30T18:40",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 SV ELVERSBERG vs FSV MAINZ 05 🇩🇪\n\n🎯 FSV MAINZ 05 HACE MÁS TIROS [x1.53]\n✅ FSV MAINZ 05 O EMPATE [x1.36]\n✅ AMBOS MARCAN [x1.40]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.67]\n✅ FSV MAINZ 05 HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n\n🔥 Resultado probable: 1-2 | 1-1 | 2-2\n💥 Cuota total aprox.: 9,63\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 SV ELVERSBERG vs FSV MAINZ 05 🇩🇪\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ SV ELVERSBERG O EMPATE [x1.67]\n✅ AMBOS MARCAN [x1.44]\n✅ MÁS DE 28,5 TIROS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n✅ FSV MAINZ 05 HACE MÁS DE 4,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 1-1 | 2-2 | 2-1\n💥 Cuota total aprox.: 9,62\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575211|Shots.1x2|Away",
-      "1575211|Double Chance|Draw/Away",
+      "1575211|Goals Over/Under First Half|Over 0.5",
+      "1575211|Double Chance|Home/Draw",
       "1575211|Both Teams Score|Yes",
-      "1575211|Goals Over/Under - Second Half|Over 1.5",
-      "1575211|Away Corners Over/Under|Over 4.5",
-      "1575211|Corners Over Under|Over 9.5"
+      "1575211|Total Shots|Over 28.5",
+      "1575211|Corners Over Under|Over 9.5",
+      "1575211|Away Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
-      1.53,
-      1.36,
-      1.4,
+      1.25,
       1.67,
-      1.67,
-      1.8
+      1.44,
+      1.73,
+      1.8,
+      1.67
     ],
     "tarjeta": {
       "local": "SV Elversberg",
@@ -641,61 +571,27 @@
     }
   },
   {
-    "id": "2026-10-30-combi-partido-1570442",
-    "fecha": "2026-10-30T19:10",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 VILLARREAL vs ESPANYOL 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ GANA EL VILLARREAL [x1.42]\n✅ VILLARREAL MARCA 2 O MÁS [x1.40]\n✅ VILLARREAL HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n✅ GANA EL VILLARREAL Y AMBOS MARCAN [x2.75]\n\n🔥 Resultado probable: 2-1 | 2-0 | 3-1\n💥 Cuota total aprox.: 9,40\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570442|Goals Over/Under First Half|Over 0.5",
-      "1570442|Match Winner|Home",
-      "1570442|Total - Home|Over 1.5",
-      "1570442|Home Corners Over/Under|Over 5.5",
-      "1570442|Corners Over Under|Over 9.5",
-      "1570442|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      1.25,
-      1.42,
-      1.4,
-      1.67,
-      1.83,
-      2.75
-    ],
-    "tarjeta": {
-      "local": "Villarreal",
-      "visitante": "Espanyol",
-      "id_l": 533,
-      "id_v": 540,
-      "logo_l": "https://media.api-sports.io/football/teams/533.png",
-      "logo_v": "https://media.api-sports.io/football/teams/540.png",
-      "fecha": "2026-10-30T21:00",
-      "liga": "LaLiga"
-    }
-  },
-  {
     "id": "2026-10-30-combi-partido-1563233",
-    "fecha": "2026-10-30T19:40",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SHEFFIELD UTD vs WREXHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 SHEFFIELD UTD O EMPATE [x1.44]\n✅ WREXHAM MARCA [x1.33]\n✅ SHEFFIELD UTD MARCA [x1.25]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n✅ MÁS DE 24,5 TIROS [x1.91]\n✅ WREXHAM HACE MÁS DE 4,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,34\n🟢 VERDE A VERDE 🟢",
+    "fecha": "2026-10-30T19:10",
+    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SHEFFIELD UTD vs WREXHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 SHEFFIELD UTD O EMPATE [x1.40]\n✅ WREXHAM MARCA [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ SHEFFIELD UTD VE MÁS DE 1,5 TARJETAS [x1.73]\n✅ MÁS DE 2,5 TARJETAS [x1.62]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,96\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1563233|Double Chance|Home/Draw",
       "1563233|Total - Away|Over 0.5",
-      "1563233|Total - Home|Over 0.5",
-      "1563233|Total Corners (1st Half)|Over 4.5",
-      "1563233|Total Shots|Over 24.5",
-      "1563233|Away Corners Over/Under|Over 4.5"
+      "1563233|Goals Over/Under First Half|Over 0.5",
+      "1563233|Total Shots|Over 25.5",
+      "1563233|Home Team Total Cards|Over 1.5",
+      "1563233|Cards Over/Under|Over 2.5"
     ],
     "cuotas": [
-      1.44,
+      1.4,
       1.33,
-      1.25,
-      1.78,
-      1.91,
-      1.67
+      1.36,
+      1.83,
+      1.73,
+      1.62
     ],
     "tarjeta": {
       "local": "Sheffield Utd",
@@ -709,9 +605,43 @@
     }
   },
   {
+    "id": "2026-10-30-combi-partido-1570442",
+    "fecha": "2026-10-30T19:40",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 VILLARREAL vs ESPANYOL 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ GANA EL VILLARREAL [x1.42]\n✅ ESPANYOL MARCA [x1.53]\n✅ VILLARREAL HACE MÁS TIROS A PUERTA [x1.30]\n✅ VILLARREAL HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 8,02\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570442|Goals Over/Under First Half|Over 0.5",
+      "1570442|Match Winner|Home",
+      "1570442|Total - Away|Over 0.5",
+      "1570442|ShotOnTarget 1x2|Home",
+      "1570442|Home Corners Over/Under|Over 5.5",
+      "1570442|Corners Over Under|Over 9.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.42,
+      1.53,
+      1.3,
+      1.67,
+      1.83
+    ],
+    "tarjeta": {
+      "local": "Villarreal",
+      "visitante": "Espanyol",
+      "id_l": 533,
+      "id_v": 540,
+      "logo_l": "https://media.api-sports.io/football/teams/533.png",
+      "logo_v": "https://media.api-sports.io/football/teams/540.png",
+      "fecha": "2026-10-30T21:00",
+      "liga": "LaLiga"
+    }
+  },
+  {
     "id": "2026-10-30-combi-partido-1552802",
     "fecha": "2026-10-30T20:05",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ LILLE O EMPATE [x1.50]\n✅ MÁS DE 25,5 TIROS [x1.80]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x1.91]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,03\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ LILLE O EMPATE [x1.44]\n✅ MÁS DE 24,5 TIROS [x1.80]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,23\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -720,16 +650,16 @@
       "1552802|Goals Over/Under First Half|Over 0.5",
       "1552802|Away Player Shots|Florian Thauvin - 2",
       "1552802|Double Chance|Home/Draw",
-      "1552802|Total Shots|Over 25.5",
+      "1552802|Total Shots|Over 24.5",
       "1552802|Away Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
       1.25,
-      1.3,
+      1.33,
       1.44,
-      1.5,
+      1.44,
       1.8,
-      1.91
+      2.0
     ],
     "tarjeta": {
       "local": "Lille",
@@ -745,51 +675,51 @@
   {
     "id": "2026-10-31-picks-manana",
     "fecha": "2026-10-30T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇩🇪 Gol en la 1ª parte del FC Augsburg–SC Freiburg\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mohamed Belloumi: 2+ tiros\n✅ 🇪🇸 Gol en la 1ª parte del Real Sociedad II–Girona\n✅ 🇫🇷 Lorient o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🇵🇹 Gol en la 1ª parte del Moreirense–Estrela\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Gol en la 1ª parte del Real Sociedad II–Girona\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mohamed Belloumi: 2+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Southampton–QPR\n✅ 🇫🇷 Lorient o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jarrod Bowen: 1+ tiros a puerta\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Swansea–Blackburn\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575206|Goals Over/Under First Half|Over 0.5",
-      "1563229|Double Chance|Draw/Away",
-      "1557452|Home Player Shots|Mohamed Belloumi - 2",
       "1570000|Goals Over/Under First Half|Over 0.5",
+      "1557449|Double Chance|Home/Draw",
+      "1557452|Home Player Shots|Mohamed Belloumi - 2",
+      "1563234|Goals Over/Under First Half|Over 0.5",
       "1552803|Double Chance|Home/Draw",
       "1563237|Home Player Shots On Target Total|Jarrod Bowen - 1",
-      "1575535|Goals Over/Under First Half|Over 0.5"
+      "1563236|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
+      1.28,
       1.25,
-      1.36,
       1.25,
       1.28,
       1.36,
-      1.25,
-      1.4
+      1.3,
+      1.36
     ]
   },
   {
     "id": "2026-10-31-combi-partido-1557450",
     "fecha": "2026-10-31T00:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA vs MANCHESTER UNITED 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED MARCA [x1.33]\n✅ CHELSEA HACE MÁS TIROS A PUERTA [x1.57]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.67]\n✅ MANCHESTER UNITED HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.82]\n\n🔥 Resultado probable: 1-1 | 1-2 | 0-1\n💥 Cuota total aprox.: 9,75\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA vs MANCHESTER UNITED 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED MARCA [x1.33]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.67]\n✅ CHELSEA HACE MÁS TIROS A PUERTA [x1.57]\n✅ MANCHESTER UNITED HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ GANA EL CHELSEA [x1.80]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,80\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1557450|Goals Over/Under First Half|Over 0.5",
       "1557450|Total - Away|Over 0.5",
-      "1557450|ShotOnTarget 1x2|Home",
       "1557450|Offsides Total|Over 2.5",
+      "1557450|ShotOnTarget 1x2|Home",
       "1557450|Away Corners Over/Under|Over 3.5",
-      "1557450|Total Corners (1st Half)|Over 4.5"
+      "1557450|Match Winner|Home"
     ],
     "cuotas": [
       1.25,
       1.33,
-      1.57,
       1.67,
+      1.57,
       1.62,
-      1.82
+      1.8
     ],
     "tarjeta": {
       "local": "Chelsea",
@@ -845,97 +775,61 @@
     }
   },
   {
-    "id": "2026-10-31-combi-partido-1575208",
-    "fecha": "2026-10-31T13:10",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 BORUSSIA MÖNCHENGLADBACH vs SC PADERBORN 07 🇩🇪\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ SC PADERBORN 07 MARCA [x1.28]\n✅ BORUSSIA MÖNCHENGLADBACH HACE MÁS TIROS [x1.33]\n✅ SANTIAGO CASTANEDA: 1+ TIROS [x1.62]\n✅ BORUSSIA MÖNCHENGLADBACH HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x2.05]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 9,26\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-10-31-combi-tres",
+    "fecha": "2026-10-31T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,13! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cian Ashford: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth o empate\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇩🇪 Santiago Castaneda: 1+ tiros\n\n🎯 CUOTA 3,13 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575208|Goals Over/Under First Half|Over 0.5",
-      "1575208|Total - Away|Over 0.5",
-      "1575208|Shots.1x2|Home",
-      "1575208|Away Player Shots|Santiago Castaneda - 1",
-      "1575208|Home Corners Over/Under|Over 4.5",
-      "1575208|Total Corners (1st Half)|Over 4"
+      "1563238|Away Player Shots|Cian Ashford - 1",
+      "1557448|Double Chance|Home/Draw",
+      "1552208|Double Chance|Home/Draw",
+      "1575208|Away Player Shots|Santiago Castaneda - 1"
     ],
     "cuotas": [
       1.25,
       1.28,
-      1.33,
-      1.62,
-      1.67,
-      2.05
-    ],
-    "tarjeta": {
-      "local": "Borussia Mönchengladbach",
-      "visitante": "SC Paderborn 07",
-      "id_l": 163,
-      "id_v": 185,
-      "logo_l": "https://media.api-sports.io/football/teams/163.png",
-      "logo_v": "https://media.api-sports.io/football/teams/185.png",
-      "fecha": "2026-10-31T15:30",
-      "liga": "Bundesliga"
-    }
-  },
-  {
-    "id": "2026-10-31-combi-tres",
-    "fecha": "2026-10-31T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,27! 🍀\n\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇪🇸 Rayo Vallecano o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liam Delap: 2+ tiros\n✅ 🇪🇸 Gol en la 1ª parte del Eibar–Almeria\n\n🎯 CUOTA 3,27 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552208|Double Chance|Home/Draw",
-      "1570441|Double Chance|Home/Draw",
-      "1557449|Away Player Shots|Liam Delap - 2",
-      "1569996|Goals Over/Under First Half|Over 0.5"
-    ],
-    "cuotas": [
       1.36,
-      1.36,
-      1.3,
-      1.36
+      1.44
     ]
   },
   {
-    "id": "2026-10-31-combi-partido-1557448",
-    "fecha": "2026-10-31T13:40",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BOURNEMOUTH vs LEEDS 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BOURNEMOUTH O EMPATE [x1.28]\n✅ JAYDEN BOGLE COMETE 1+ FALTAS [x1.33]\n✅ DOMINIC CALVERT-LEWIN COMETE 1+ FALTAS [x1.28]\n✅ LEEDS MARCA [x1.40]\n✅ BOURNEMOUTH HACE MÁS TIROS A PUERTA [x1.50]\n✅ BOURNEMOUTH VE MÁS DE 1,5 TARJETAS [x1.57]\n\n🔥 Resultado probable: 1-1 | 2-1 | 3-1\n💥 Cuota total aprox.: 7,16\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-10-31-combi-partido-1563236",
+    "fecha": "2026-10-31T14:10",
+    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SWANSEA vs BLACKBURN 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ BLACKBURN MARCA [x1.53]\n✅ MÁS DE 24,5 TIROS [x1.83]\n✅ GANA EL SWANSEA [x1.75]\n✅ SWANSEA VE MÁS DE 1,5 TARJETAS [x1.62]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,07\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557448|Double Chance|Home/Draw",
-      "1557448|Player Fouls Committed|Jayden Bogle - 1",
-      "1557448|Player Fouls Committed|Dominic Calvert-Lewin - 1",
-      "1557448|Total - Away|Over 0.5",
-      "1557448|ShotOnTarget 1x2|Home",
-      "1557448|Home Team Total Cards|Over 1.5"
+      "1563236|Goals Over/Under First Half|Over 0.5",
+      "1563236|Total - Away|Over 0.5",
+      "1563236|Total Shots|Over 24.5",
+      "1563236|Match Winner|Home",
+      "1563236|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
-      1.28,
-      1.33,
-      1.28,
-      1.4,
-      1.5,
-      1.57
+      1.36,
+      1.53,
+      1.83,
+      1.75,
+      1.62
     ],
     "tarjeta": {
-      "local": "Bournemouth",
-      "visitante": "Leeds",
-      "id_l": 35,
-      "id_v": 63,
-      "logo_l": "https://media.api-sports.io/football/teams/35.png",
-      "logo_v": "https://media.api-sports.io/football/teams/63.png",
+      "local": "Swansea",
+      "visitante": "Blackburn",
+      "id_l": 76,
+      "id_v": 67,
+      "logo_l": "https://media.api-sports.io/football/teams/76.png",
+      "logo_v": "https://media.api-sports.io/football/teams/67.png",
       "fecha": "2026-10-31T16:00",
-      "liga": "Premier"
+      "liga": "Championship"
     }
   },
   {
     "id": "2026-10-31-combi-partido-1557449",
-    "fecha": "2026-10-31T14:10",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BRENTFORD vs NOTTINGHAM FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 LIAM DELAP: 2+ TIROS [x1.30]\n✅ BRENTFORD O EMPATE [x1.25]\n✅ DAN NDOYE: 2+ TIROS [x1.44]\n✅ NOTTINGHAM FOREST MARCA [x1.36]\n✅ BRENTFORD HACE MÁS TIROS A PUERTA [x1.57]\n✅ BRENTFORD VE MÁS DE 1,5 TARJETAS [x1.50]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,33\n🟢 VERDE A VERDE 🟢",
+    "fecha": "2026-10-31T14:40",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BRENTFORD vs NOTTINGHAM FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 LIAM DELAP: 2+ TIROS [x1.30]\n✅ BRENTFORD O EMPATE [x1.25]\n✅ DAN NDOYE: 2+ TIROS [x1.44]\n✅ NOTTINGHAM FOREST MARCA [x1.36]\n✅ BRENTFORD VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ BRENTFORD HACE MÁS TIROS A PUERTA [x1.57]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,33\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -944,16 +838,16 @@
       "1557449|Double Chance|Home/Draw",
       "1557449|Away Player Shots|Dan Ndoye - 2",
       "1557449|Total - Away|Over 0.5",
-      "1557449|ShotOnTarget 1x2|Home",
-      "1557449|Home Team Total Cards|Over 1.5"
+      "1557449|Home Team Total Cards|Over 1.5",
+      "1557449|ShotOnTarget 1x2|Home"
     ],
     "cuotas": [
       1.3,
       1.25,
       1.44,
       1.36,
-      1.57,
-      1.5
+      1.5,
+      1.57
     ],
     "tarjeta": {
       "local": "Brentford",
@@ -967,57 +861,25 @@
     }
   },
   {
-    "id": "2026-10-31-combi-partido-1563227",
-    "fecha": "2026-10-31T14:40",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BOLTON vs BRISTOL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ BOLTON O EMPATE [x1.57]\n✅ AMBOS MARCAN [x1.57]\n✅ BOLTON HACE MÁS DE 4,5 CÓRNERS [x1.62]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,15\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563227|Goals Over/Under First Half|Over 0.5",
-      "1563227|Double Chance|Home/Draw",
-      "1563227|Both Teams Score|Yes",
-      "1563227|Home Corners Over/Under|Over 4.5",
-      "1563227|Total Corners (1st Half)|Over 4.5"
-    ],
-    "cuotas": [
-      1.33,
-      1.57,
-      1.57,
-      1.62,
-      1.78
-    ],
-    "tarjeta": {
-      "local": "Bolton",
-      "visitante": "Bristol City",
-      "id_l": 68,
-      "id_v": 56,
-      "logo_l": "https://media.api-sports.io/football/teams/68.png",
-      "logo_v": "https://media.api-sports.io/football/teams/56.png",
-      "fecha": "2026-10-31T16:00",
-      "liga": "Championship"
-    }
-  },
-  {
     "id": "2026-10-31-combi-partido-1557454",
     "fecha": "2026-10-31T15:00",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BRIGHTON MARCA [x1.33]\n✅ MÁS DE 26,5 TIROS [x1.80]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.67]\n✅ MÁS DE 10 CÓRNERS [x1.82]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 9,64\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BRIGHTON MARCA [x1.33]\n✅ MÁS DE 26,5 TIROS [x1.80]\n✅ MÁS DE 10 CÓRNERS [x1.82]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 9,64\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1557454|Total - Away|Over 0.5",
       "1557454|Total Shots|Over 26.5",
+      "1557454|Corners Over Under|Over 10",
       "1557454|Total Corners (1st Half)|Over 4.5",
-      "1557454|Goals Over/Under - Second Half|Over 1.5",
-      "1557454|Corners Over Under|Over 10"
+      "1557454|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.33,
       1.8,
+      1.82,
       1.78,
-      1.67,
-      1.82
+      1.67
     ],
     "tarjeta": {
       "local": "Manchester City",
@@ -1033,29 +895,93 @@
   {
     "id": "2026-10-31-combi-loca",
     "fecha": "2026-10-31T16:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x7,04! 🤪\n\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇫🇷 Lorient o empate\n✅ 🇪🇸 Sabadell marca\n✅ 🇮🇹 Inter hace más tiros\n✅ 🇪🇸 Alaves marca\n\n🎯 CUOTA 7,04 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x7,07! 🤪\n\n✅ 🇳🇱 Heerenveen o empate\n✅ 🇩🇪 Tom Bischof comete 1+ faltas\n✅ 🇪🇸 Sabadell marca\n✅ 🇳🇱 Cambuur o empate\n✅ 🇪🇸 Alaves marca\n\n🎯 CUOTA 7,07 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552208|Double Chance|Home/Draw",
-      "1552803|Double Chance|Home/Draw",
+      "1575203|Player Fouls Committed|Tom Bischof - 1",
       "1569992|Total - Away|Over 0.5",
-      "1550177|Shots.1x2|Away",
+      "1552211|Double Chance|Home/Draw",
       "1570434|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.36,
+      1.25,
       1.36,
-      1.36,
-      1.53,
+      1.67,
       1.83
     ]
   },
   {
+    "id": "2026-10-31-combi-partido-1550186",
+    "fecha": "2026-10-31T16:40",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 UDINESE vs AS ROMA 🇮🇹\n\n🎯 AS ROMA HACE MÁS TIROS [x1.25]\n✅ UDINESE MARCA [x1.53]\n✅ GANA EL AS ROMA [x1.53]\n✅ AMBOS MARCAN [x1.70]\n✅ EMPATE AL DESCANSO [x2.50]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 8,60\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550186|Shots.1x2|Away",
+      "1550186|Total - Home|Over 0.5",
+      "1550186|Match Winner|Away",
+      "1550186|Both Teams Score|Yes",
+      "1550186|First Half Winner|Draw"
+    ],
+    "cuotas": [
+      1.25,
+      1.53,
+      1.53,
+      1.7,
+      2.5
+    ],
+    "tarjeta": {
+      "local": "Udinese",
+      "visitante": "AS Roma",
+      "id_l": 494,
+      "id_v": 497,
+      "logo_l": "https://media.api-sports.io/football/teams/494.png",
+      "logo_v": "https://media.api-sports.io/football/teams/497.png",
+      "fecha": "2026-10-31T18:00",
+      "liga": "Serie A"
+    }
+  },
+  {
+    "id": "2026-10-31-combi-partido-1570435",
+    "fecha": "2026-10-31T17:10",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 REAL BETIS vs MALAGA 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ GANA EL REAL BETIS [x1.36]\n✅ MALAGA MARCA [x1.57]\n✅ MALAGA HACE MÁS DE 3,5 CÓRNERS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,13\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570435|Goals Over/Under First Half|Over 0.5",
+      "1570435|Match Winner|Home",
+      "1570435|Total - Away|Over 0.5",
+      "1570435|Away Corners Over/Under|Over 3.5",
+      "1570435|Corners Over Under|Over 9.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.36,
+      1.57,
+      1.73,
+      1.67
+    ],
+    "tarjeta": {
+      "local": "Real Betis",
+      "visitante": "Malaga",
+      "id_l": 543,
+      "id_v": 535,
+      "logo_l": "https://media.api-sports.io/football/teams/543.png",
+      "logo_v": "https://media.api-sports.io/football/teams/535.png",
+      "fecha": "2026-10-31T18:30",
+      "liga": "LaLiga"
+    }
+  },
+  {
     "id": "2026-10-31-combi-partido-1557456",
     "fecha": "2026-10-31T17:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 TOTTENHAM vs CRYSTAL PALACE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ OMAR MARMOUSH COMETE 1+ FALTAS [x1.30]\n✅ CRYSTAL PALACE MARCA [x1.50]\n✅ TOTTENHAM HACE MÁS TIROS [x1.44]\n✅ CRYSTAL PALACE HACE MÁS DE 1,5 FUERAS DE JUEGO [x1.67]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n\n🔥 Resultado probable: 1-1 | 2-1 | 0-1\n💥 Cuota total aprox.: 9,87\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 TOTTENHAM vs CRYSTAL PALACE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ OMAR MARMOUSH COMETE 1+ FALTAS [x1.30]\n✅ CRYSTAL PALACE MARCA [x1.50]\n✅ TOTTENHAM HACE MÁS TIROS [x1.44]\n✅ CRYSTAL PALACE HACE MÁS DE 1,5 FUERAS DE JUEGO [x1.67]\n✅ TOTTENHAM VE MÁS DE 1,5 TARJETAS [x1.80]\n\n🔥 Resultado probable: 1-1 | 2-1 | 0-1\n💥 Cuota total aprox.: 9,94\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1065,7 +991,7 @@
       "1557456|Total - Away|Over 0.5",
       "1557456|Shots.1x2|Home",
       "1557456|Offsides Away Total|Over 1.5",
-      "1557456|Total Corners (1st Half)|Over 4.5"
+      "1557456|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
       1.28,
@@ -1073,7 +999,7 @@
       1.5,
       1.44,
       1.67,
-      1.78
+      1.8
     ],
     "tarjeta": {
       "local": "Tottenham",
@@ -1087,35 +1013,37 @@
     }
   },
   {
-    "id": "2026-10-31-combi-partido-1569992",
-    "fecha": "2026-10-31T19:40",
-    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 ALBACETE vs SABADELL 🇪🇸\n\n🎯 ALBACETE MARCA [x1.40]\n✅ SABADELL O EMPATE [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.50]\n✅ ALBACETE HACE MÁS DE 4,5 CÓRNERS [x1.83]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.78]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,86\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-10-31-combi-partido-1550177",
+    "fecha": "2026-10-31T19:25",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 AC MILAN vs INTER 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ AC MILAN MARCA [x1.30]\n✅ INTER O EMPATE [x1.28]\n✅ INTER HACE MÁS TIROS [x1.53]\n✅ AC MILAN HACE MÁS DE 3,5 CÓRNERS [x1.67]\n✅ MÁS DE 3,5 CÓRNERS EN LA 1ª PARTE [x1.72]\n\n🔥 Resultado probable: 1-2 | 1-1 | 2-2\n💥 Cuota total aprox.: 7,95\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1569992|Total - Home|Over 0.5",
-      "1569992|Double Chance|Draw/Away",
-      "1569992|Goals Over/Under First Half|Over 0.5",
-      "1569992|Home Corners Over/Under|Over 4.5",
-      "1569992|Total Corners (1st Half)|Over 4"
+      "1550177|Goals Over/Under First Half|Over 0.5",
+      "1550177|Total - Home|Over 0.5",
+      "1550177|Double Chance|Draw/Away",
+      "1550177|Shots.1x2|Away",
+      "1550177|Home Corners Over/Under|Over 3.5",
+      "1550177|Total Corners (1st Half)|Over 3.5"
     ],
     "cuotas": [
-      1.4,
-      1.4,
-      1.5,
-      1.83,
-      1.78
+      1.28,
+      1.3,
+      1.28,
+      1.53,
+      1.67,
+      1.72
     ],
     "tarjeta": {
-      "local": "Albacete",
-      "visitante": "Sabadell",
-      "id_l": 722,
-      "id_v": 9593,
-      "logo_l": "https://media.api-sports.io/football/teams/722.png",
-      "logo_v": "https://media.api-sports.io/football/teams/9593.png",
-      "fecha": "2026-10-31T21:00",
-      "liga": "Segunda"
+      "local": "AC Milan",
+      "visitante": "Inter",
+      "id_l": 489,
+      "id_v": 505,
+      "logo_l": "https://media.api-sports.io/football/teams/489.png",
+      "logo_v": "https://media.api-sports.io/football/teams/505.png",
+      "fecha": "2026-10-31T20:45",
+      "liga": "Serie A"
     }
   },
   {
@@ -1153,33 +1081,33 @@
   {
     "id": "2026-11-01-picks-manana",
     "fecha": "2026-10-31T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon\n✅ 🇪🇸 Sevilla o empate\n✅ 🇩🇪 Said El Mala: 3+ tiros\n✅ 🇳🇱 Gol en la 1ª parte del PEC Zwolle–ADO Den Haag\n✅ 🇮🇹 Gana el Como\n✅ 🇵🇹 Gol en la 1ª parte del Arouca–Nacional\n✅ 🇵🇹 Gol en la 1ª parte del Maritimo–Santa Clara\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🇳🇱 Gol en la 1ª parte del PEC Zwolle–ADO Den Haag\n✅ 🇮🇹 Gana el Lazio\n✅ 🇩🇪 Said El Mala: 3+ tiros\n✅ 🇮🇹 Gol en la 1ª parte del Frosinone–Torino\n✅ 🇮🇹 Gana el Como\n✅ 🇪🇸 Robert Navarro: 1+ tiros a puerta\n✅ 🇪🇸 Gol en la 1ª parte del Burgos–Castellón\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1569995|Goals Over/Under First Half|Over 0.5",
-      "1570438|Double Chance|Draw/Away",
-      "1575207|Away Player Shots|Said El Mala - 3",
       "1552212|Goals Over/Under First Half|Over 0.5",
+      "1550183|Match Winner|Home",
+      "1575207|Away Player Shots|Said El Mala - 3",
+      "1550181|Goals Over/Under First Half|Over 0.5",
       "1550180|Match Winner|Home",
-      "1575528|Goals Over/Under First Half|Over 0.5",
-      "1575534|Goals Over/Under First Half|Over 0.5"
+      "1570433|Home Player Shots On Target Total|Robert Navarro - 1",
+      "1569993|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
-      1.36,
-      1.36,
-      1.5,
       1.28,
+      1.44,
+      1.5,
+      1.25,
       1.3,
-      1.36,
-      1.53
+      1.57,
+      1.33
     ]
   },
   {
     "id": "2026-11-01-combi-partido-1557453",
     "fecha": "2026-11-01T00:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs ARSENAL 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 RYAN GRAVENBERCH COMETE 1+ FALTAS [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LIVERPOOL MARCA [x1.33]\n✅ LIVERPOOL VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 3,5 FUERAS DE JUEGO [x1.62]\n✅ MÁS DE 25,5 TIROS [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 7,86\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 LIVERPOOL vs ARSENAL 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 RYAN GRAVENBERCH COMETE 1+ FALTAS [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LIVERPOOL MARCA [x1.33]\n✅ LIVERPOOL VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 3,5 FUERAS DE JUEGO [x1.62]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 7,86\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1188,16 +1116,16 @@
       "1557453|Goals Over/Under First Half|Over 0.5",
       "1557453|Total - Home|Over 0.5",
       "1557453|Home Team Total Cards|Over 1.5",
-      "1557453|Offsides Total|Over 3.5",
-      "1557453|Total Shots|Over 25.5"
+      "1557453|Total Shots|Over 25.5",
+      "1557453|Offsides Total|Over 3.5"
     ],
     "cuotas": [
       1.25,
       1.36,
       1.33,
       1.5,
-      1.62,
-      1.83
+      1.83,
+      1.62
     ],
     "tarjeta": {
       "local": "Liverpool",
@@ -1213,7 +1141,7 @@
   {
     "id": "2026-11-01-ganadores",
     "fecha": "2026-11-01T01:00",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Como — Gana\n✅2. 🇮🇹 Lazio — Gana\n✅3. 🇵🇹 Arouca — Gana\n✅4. 🇳🇱 Twente — Gana\n✅5. 🇪🇸 Real Madrid — Gana\n✅6. 🇵🇹 Academico Viseu — Gana\n✅7. 🇪🇸 Sporting Gijon — Gana o empata\n✅8. 🇵🇹 Santa Clara — Gana o empata\n✅9. 🇫🇷 Lyon — Gana o empata\n✅10. 🇪🇸 Castellón — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇮🇹 Como — Gana\n✅2. 🇮🇹 Lazio — Gana\n✅3. 🇵🇹 Arouca — Gana\n✅4. 🇳🇱 Twente — Gana\n✅5. 🇪🇸 Real Madrid — Gana\n✅6. 🇵🇹 Academico Viseu — Gana\n✅7. 🇵🇹 Santa Clara — Gana o empata\n✅8. 🇫🇷 Lyon — Gana o empata\n✅9. 🇪🇸 Sporting Gijon — Gana o empata\n✅10. 🇪🇸 Castellón — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1253,38 +1181,6 @@
     }
   },
   {
-    "id": "2026-11-01-combi-partido-1552212",
-    "fecha": "2026-11-01T11:15",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 PEC ZWOLLE vs ADO DEN HAAG 🇳🇱\n\n🎯 PEC ZWOLLE O EMPATE [x1.40]\n✅ ADO DEN HAAG MARCA [x1.25]\n✅ PEC ZWOLLE HACE MÁS DE 4,5 CÓRNERS [x1.73]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.82]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.80]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,62\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552212|Double Chance|Home/Draw",
-      "1552212|Total - Away|Over 0.5",
-      "1552212|Home Corners Over/Under|Over 4.5",
-      "1552212|Total Corners (1st Half)|Over 4.5",
-      "1552212|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.25,
-      1.73,
-      1.82,
-      1.8
-    ],
-    "tarjeta": {
-      "local": "PEC Zwolle",
-      "visitante": "ADO Den Haag",
-      "id_l": 193,
-      "id_v": 198,
-      "logo_l": "https://media.api-sports.io/football/teams/193.png",
-      "logo_v": "https://media.api-sports.io/football/teams/198.png",
-      "fecha": "2026-11-01T12:15",
-      "liga": "Eredivisie"
-    }
-  },
-  {
     "id": "2026-11-01-combi-partido-1552214",
     "fecha": "2026-11-01T13:30",
     "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 TELSTAR vs UTRECHT 🇳🇱\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ UTRECHT O EMPATE [x1.40]\n✅ TELSTAR HACE MÁS DE 4,5 CÓRNERS [x1.67]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.82]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.73]\n\n🔥 Resultado probable: 1-1 | 1-2 | 0-1\n💥 Cuota total aprox.: 9,49\n🟢 VERDE A VERDE 🟢",
@@ -1319,27 +1215,27 @@
   {
     "id": "2026-11-01-combi-tres",
     "fecha": "2026-11-01T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x3,52! 🍀\n\n✅ 🇪🇸 Elche o empate\n✅ 🇵🇹 Sorriso: 1+ tiros\n✅ 🇮🇹 Scott McTominay: 2+ tiros\n✅ 🇮🇹 Gana el Lazio\n\n🎯 CUOTA 3,52 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x3,57! 🍀\n\n✅ 🇵🇹 Sorriso: 1+ tiros\n✅ 🇮🇹 Scott McTominay: 2+ tiros\n✅ 🇪🇸 Elche o empate\n✅ 🇮🇹 Gana el Lazio\n\n🎯 CUOTA 3,57 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570437|Double Chance|Home/Draw",
       "1575530|Away Player Shots|Sorriso - 1",
       "1550182|Away Player Shots|Scott McTominay - 2",
+      "1570437|Double Chance|Home/Draw",
       "1550183|Match Winner|Home"
     ],
     "cuotas": [
+      1.33,
+      1.33,
       1.4,
-      1.33,
-      1.33,
-      1.42
+      1.44
     ]
   },
   {
     "id": "2026-11-01-combi-partido-1550181",
     "fecha": "2026-11-01T14:00",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FROSINONE vs TORINO 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ FROSINONE HACE MÁS TIROS [x1.50]\n✅ AMBOS MARCAN [x1.44]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.95]\n✅ GANA EL FROSINONE [x2.25]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 8,37\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FROSINONE vs TORINO 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ FROSINONE HACE MÁS TIROS [x1.50]\n✅ AMBOS MARCAN [x1.44]\n✅ GANA EL FROSINONE [x2.30]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.95]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 8,56\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1347,15 +1243,15 @@
       "1550181|Goals Over/Under First Half|Over 0.5",
       "1550181|Shots.1x2|Home",
       "1550181|Both Teams Score|Yes",
-      "1550181|Total Corners (1st Half)|Over 4",
-      "1550181|Match Winner|Home"
+      "1550181|Match Winner|Home",
+      "1550181|Total Corners (1st Half)|Over 4"
     ],
     "cuotas": [
       1.25,
       1.5,
       1.44,
-      1.95,
-      2.25
+      2.3,
+      1.95
     ],
     "tarjeta": {
       "local": "Frosinone",
@@ -1371,25 +1267,25 @@
   {
     "id": "2026-11-01-combi-partido-1575207",
     "fecha": "2026-11-01T14:30",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 UNION BERLIN vs 1. FC KÖLN 🇩🇪\n\n🎯 RANI KHEDIRA COMETE 1+ FALTAS [x1.25]\n✅ SAID EL MALA: 3+ TIROS [x1.50]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ UNION BERLIN O EMPATE [x1.50]\n✅ AMBOS MARCAN [x1.53]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,47\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 UNION BERLIN vs 1. FC KÖLN 🇩🇪\n\n🎯 RANI KHEDIRA COMETE 1+ FALTAS [x1.25]\n✅ SAID EL MALA: 3+ TIROS [x1.50]\n✅ UNION BERLIN O EMPATE [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ UNION BERLIN HACE MÁS DE 4,5 CÓRNERS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,48\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575207|Player Fouls Committed|Rani Khedira - 1",
       "1575207|Away Player Shots|Said El Mala - 3",
-      "1575207|Goals Over/Under First Half|Over 0.5",
       "1575207|Double Chance|Home/Draw",
-      "1575207|Both Teams Score|Yes",
-      "1575207|Total Corners (1st Half)|Over 4"
+      "1575207|Goals Over/Under First Half|Over 0.5",
+      "1575207|Home Corners Over/Under|Over 4.5",
+      "1575207|Corners Over Under|Over 9.5"
     ],
     "cuotas": [
       1.25,
       1.5,
+      1.44,
       1.3,
-      1.5,
-      1.53,
-      1.91
+      1.73,
+      1.73
     ],
     "tarjeta": {
       "local": "Union Berlin",
@@ -1403,41 +1299,9 @@
     }
   },
   {
-    "id": "2026-11-01-combi-partido-1550184",
-    "fecha": "2026-11-01T16:40",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 LECCE vs GENOA 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.50]\n✅ GENOA O EMPATE [x1.40]\n✅ LECCE MARCA [x1.44]\n✅ LECCE HACE MÁS TIROS [x1.67]\n✅ MÁS DE 8,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,46\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550184|Goals Over/Under First Half|Over 0.5",
-      "1550184|Double Chance|Draw/Away",
-      "1550184|Total - Home|Over 0.5",
-      "1550184|Shots.1x2|Home",
-      "1550184|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.5,
-      1.4,
-      1.44,
-      1.67,
-      1.83
-    ],
-    "tarjeta": {
-      "local": "Lecce",
-      "visitante": "Genoa",
-      "id_l": 867,
-      "id_v": 495,
-      "logo_l": "https://media.api-sports.io/football/teams/867.png",
-      "logo_v": "https://media.api-sports.io/football/teams/495.png",
-      "fecha": "2026-11-01T18:00",
-      "liga": "Serie A"
-    }
-  },
-  {
     "id": "2026-11-01-combi-partido-1569993",
     "fecha": "2026-11-01T17:10",
-    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 BURGOS vs CASTELLÓN 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ BURGOS MARCA [x1.36]\n✅ CASTELLÓN O EMPATE [x1.30]\n✅ CASTELLÓN HACE MÁS DE 4,5 CÓRNERS [x1.91]\n✅ MÁS DE 9 CÓRNERS [x1.88]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,13\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 BURGOS vs CASTELLÓN 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ BURGOS MARCA [x1.36]\n✅ CASTELLÓN O EMPATE [x1.30]\n✅ MÁS DE 9 CÓRNERS [x1.88]\n✅ CASTELLÓN HACE MÁS DE 4,5 CÓRNERS [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 8,13\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1445,15 +1309,15 @@
       "1569993|Goals Over/Under First Half|Over 0.5",
       "1569993|Total - Home|Over 0.5",
       "1569993|Double Chance|Draw/Away",
-      "1569993|Away Corners Over/Under|Over 4.5",
-      "1569993|Corners Over Under|Over 9"
+      "1569993|Corners Over Under|Over 9",
+      "1569993|Away Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
       1.33,
       1.36,
       1.3,
-      1.91,
-      1.88
+      1.88,
+      1.91
     ],
     "tarjeta": {
       "local": "Burgos",
@@ -1469,23 +1333,23 @@
   {
     "id": "2026-11-01-combi-partido-1570437",
     "fecha": "2026-11-01T17:30",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ELCHE vs VALENCIA 🇪🇸\n\n🎯 ELCHE O EMPATE [x1.40]\n✅ ELCHE MARCA [x1.25]\n✅ VALENCIA MARCA [x1.30]\n✅ ELCHE HACE MÁS DE 4,5 CÓRNERS [x1.80]\n✅ EMPATE AL DESCANSO [x2.20]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,94\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ELCHE vs VALENCIA 🇪🇸\n\n🎯 ELCHE O EMPATE [x1.40]\n✅ VALENCIA MARCA [x1.30]\n✅ ELCHE MARCA [x1.25]\n✅ EMPATE AL DESCANSO [x2.20]\n✅ ELCHE HACE MÁS DE 4,5 CÓRNERS [x1.80]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,94\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570437|Double Chance|Home/Draw",
-      "1570437|Total - Home|Over 0.5",
       "1570437|Total - Away|Over 0.5",
-      "1570437|Home Corners Over/Under|Over 4.5",
-      "1570437|First Half Winner|Draw"
+      "1570437|Total - Home|Over 0.5",
+      "1570437|First Half Winner|Draw",
+      "1570437|Home Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
       1.4,
-      1.25,
       1.3,
-      1.8,
-      2.2
+      1.25,
+      2.2,
+      1.8
     ],
     "tarjeta": {
       "local": "Elche",
@@ -1499,25 +1363,93 @@
     }
   },
   {
+    "id": "2026-11-01-combi-partido-1552805",
+    "fecha": "2026-11-01T18:55",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 MARSEILLE vs TOULOUSE 🇫🇷\n\n🎯 TOULOUSE MARCA [x1.28]\n✅ AMBOS MARCAN [x1.50]\n✅ IGOR PAIXAO: 1+ TIROS A PUERTA [x1.40]\n✅ MARSEILLE VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ EMPATE AL DESCANSO [x2.50]\n\n🔥 Resultado probable: 1-2 | 1-1 | 2-2\n💥 Cuota total aprox.: 7,14\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552805|Total - Away|Over 0.5",
+      "1552805|Both Teams Score|Yes",
+      "1552805|Home Player Shots On Target Total|Igor Paixao - 1",
+      "1552805|Home Team Total Cards|Over 1.5",
+      "1552805|First Half Winner|Draw"
+    ],
+    "cuotas": [
+      1.28,
+      1.5,
+      1.4,
+      1.5,
+      2.5
+    ],
+    "tarjeta": {
+      "local": "Marseille",
+      "visitante": "Toulouse",
+      "id_l": 81,
+      "id_v": 96,
+      "logo_l": "https://media.api-sports.io/football/teams/81.png",
+      "logo_v": "https://media.api-sports.io/football/teams/96.png",
+      "fecha": "2026-11-01T20:45",
+      "liga": "Ligue 1"
+    }
+  },
+  {
+    "id": "2026-11-01-combi-partido-1550182",
+    "fecha": "2026-11-01T19:25",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 JUVENTUS vs NAPOLI 🇮🇹\n\n🎯 SCOTT MCTOMINAY: 2+ TIROS [x1.33]\n✅ JUVENTUS O EMPATE [x1.33]\n✅ NAPOLI MARCA [x1.36]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 8,5 CÓRNERS [x1.67]\n✅ NAPOLI HACE MÁS DE 3,5 CÓRNERS [x1.80]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,11\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550182|Away Player Shots|Scott McTominay - 2",
+      "1550182|Double Chance|Home/Draw",
+      "1550182|Total - Away|Over 0.5",
+      "1550182|Total Shots|Over 25.5",
+      "1550182|Corners Over Under|Over 8.5",
+      "1550182|Away Corners Over/Under|Over 3.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.33,
+      1.36,
+      1.83,
+      1.67,
+      1.8
+    ],
+    "tarjeta": {
+      "local": "Juventus",
+      "visitante": "Napoli",
+      "id_l": 496,
+      "id_v": 492,
+      "logo_l": "https://media.api-sports.io/football/teams/496.png",
+      "logo_v": "https://media.api-sports.io/football/teams/492.png",
+      "fecha": "2026-11-01T20:45",
+      "liga": "Serie A"
+    }
+  },
+  {
     "id": "2026-11-01-combi-partido-1570433",
     "fecha": "2026-11-01T20:00",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ REAL SOCIEDAD MARCA [x1.30]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,95\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.36]\n✅ REAL SOCIEDAD MARCA [x1.30]\n✅ ROBERT NAVARRO: 1+ TIROS A PUERTA [x1.57]\n✅ AMBOS MARCAN [x1.62]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ REAL SOCIEDAD HACE MÁS DE 3,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,89\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570433|Double Chance|Home/Draw",
-      "1570433|Goals Over/Under First Half|Over 0.5",
       "1570433|Total - Away|Over 0.5",
+      "1570433|Home Player Shots On Target Total|Robert Navarro - 1",
+      "1570433|Both Teams Score|Yes",
       "1570433|Total Corners (1st Half)|Over 4",
-      "1570433|Corners Over Under|Over 9.5"
+      "1570433|Away Corners Over/Under|Over 3.5"
     ],
     "cuotas": [
       1.36,
       1.3,
-      1.3,
+      1.57,
+      1.62,
       1.91,
-      1.8
+      1.73
     ],
     "tarjeta": {
       "local": "Athletic Club",
@@ -1533,25 +1465,25 @@
   {
     "id": "2026-11-02-picks-manana",
     "fecha": "2026-11-01T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Más de 1,5 goles en Deportivo La Coruna–Osasuna\n✅ 🇮🇹 Ambos marcan en Sassuolo–Fiorentina\n✅ 🇪🇸 Gol en la 1ª parte del Oviedo–Las Palmas\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n✅ 🇪🇸 Más de 1,5 goles en Deportivo La Coruna–Osasuna\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thierno Barry: 2+ tiros\n✅ 🇪🇸 Gol en la 1ª parte del Oviedo–Las Palmas\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570436|Goals Over/Under|Over 1.5",
-      "1550185|Both Teams Score|Yes",
+      "1557455|Away Player Shots|Thierno Barry - 2",
       "1569999|Goals Over/Under First Half|Over 0.5"
     ],
     "cuotas": [
       1.4,
-      1.53,
+      1.36,
       1.36
     ]
   },
   {
     "id": "2026-11-02-combi-partido-1557455",
     "fecha": "2026-11-02T00:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 NEWCASTLE vs EVERTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 THIERNO BARRY: 2+ TIROS [x1.36]\n✅ NEWCASTLE O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ EVERTON MARCA [x1.28]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.62]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.75]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,58\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 NEWCASTLE vs EVERTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 THIERNO BARRY: 2+ TIROS [x1.36]\n✅ NEWCASTLE O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ AMBOS MARCAN [x1.57]\n✅ NEWCASTLE HACE MÁS TIROS [x1.50]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.62]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,36\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1559,17 +1491,17 @@
       "1557455|Away Player Shots|Thierno Barry - 2",
       "1557455|Double Chance|Home/Draw",
       "1557455|Goals Over/Under First Half|Over 0.5",
-      "1557455|Total - Away|Over 0.5",
-      "1557455|Offsides Total|Over 2.5",
-      "1557455|Total Corners (1st Half)|Over 4.5"
+      "1557455|Both Teams Score|Yes",
+      "1557455|Shots.1x2|Home",
+      "1557455|Offsides Total|Over 2.5"
     ],
     "cuotas": [
       1.36,
       1.36,
       1.3,
-      1.28,
-      1.62,
-      1.75
+      1.57,
+      1.5,
+      1.62
     ],
     "tarjeta": {
       "local": "Newcastle",
@@ -1595,21 +1527,21 @@
   {
     "id": "2026-11-02-combi-partido-1550178",
     "fecha": "2026-11-02T01:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 ATALANTA vs PARMA 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.30]\n✅ GANA EL ATALANTA [x1.45]\n✅ PARMA MARCA [x1.67]\n✅ PARMA HACE MÁS DE 2,5 CÓRNERS [x1.62]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.95]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,34\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 ATALANTA vs PARMA 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.30]\n✅ ATALANTA GANA ALGUNA DE LAS DOS PARTES [x1.25]\n✅ AMBOS MARCAN [x1.91]\n✅ PARMA HACE MÁS DE 2,5 CÓRNERS [x1.62]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.95]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 7,43\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550178|Goals Over/Under First Half|Over 0.5",
-      "1550178|Match Winner|Home",
-      "1550178|Total - Away|Over 0.5",
+      "1550178|To Win Either Half|Home",
+      "1550178|Both Teams Score|Yes",
       "1550178|Away Corners Over/Under|Over 2.5",
       "1550178|Total Corners (1st Half)|Over 4"
     ],
     "cuotas": [
       1.3,
-      1.45,
-      1.67,
+      1.25,
+      1.91,
       1.62,
       1.95
     ],
@@ -1647,22 +1579,22 @@
   {
     "id": "2026-11-02-combi-partido-1569999",
     "fecha": "2026-11-02T15:15",
-    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 OVIEDO vs LAS PALMAS 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ LAS PALMAS MARCA [x1.50]\n✅ OVIEDO HACE MÁS DE 5,5 CÓRNERS [x1.83]\n✅ GANA EL OVIEDO [x1.75]\n✅ OVIEDO GANA AL DESCANSO [x2.38]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,98\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 OVIEDO vs LAS PALMAS 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ LAS PALMAS MARCA [x1.50]\n✅ GANA EL OVIEDO [x1.75]\n✅ OVIEDO HACE MÁS DE 5,5 CÓRNERS [x1.83]\n✅ OVIEDO GANA AL DESCANSO [x2.38]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 9,98\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1569999|Goals Over/Under First Half|Over 0.5",
       "1569999|Total - Away|Over 0.5",
-      "1569999|Home Corners Over/Under|Over 5.5",
       "1569999|Match Winner|Home",
+      "1569999|Home Corners Over/Under|Over 5.5",
       "1569999|First Half Winner|Home"
     ],
     "cuotas": [
       1.36,
       1.5,
-      1.83,
       1.75,
+      1.83,
       2.38
     ],
     "tarjeta": {
@@ -1711,7 +1643,7 @@
   {
     "id": "2026-11-02-combi-partido-1569998",
     "fecha": "2026-11-02T20:00",
-    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 MALLORCA vs CADIZ 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ GOL EN LA 2ª PARTE [x1.25]\n✅ ALEX SALA: 1+ TIROS A PUERTA [x1.44]\n✅ MALLORCA GANA ALGUNA DE LAS DOS PARTES [x1.30]\n✅ MALLORCA HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 7,43\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 MALLORCA vs CADIZ 🇪🇸\n\n🎯 GOL EN LA 1ª PARTE [x1.36]\n✅ GOL EN LA 2ª PARTE [x1.25]\n✅ ALEX SALA: 1+ TIROS A PUERTA [x1.44]\n✅ MALLORCA GANA ALGUNA DE LAS DOS PARTES [x1.30]\n✅ MÁS DE 9,5 CÓRNERS [x1.85]\n✅ CADIZ HACE MÁS DE 3,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 9,64\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1720,16 +1652,16 @@
       "1569998|Goals Over/Under - Second Half|Over 0.5",
       "1569998|Home Player Shots On Target Total|Alex Sala - 1",
       "1569998|To Win Either Half|Home",
-      "1569998|Home Corners Over/Under|Over 5.5",
-      "1569998|Total Corners (1st Half)|Over 4"
+      "1569998|Corners Over Under|Over 9.5",
+      "1569998|Away Corners Over/Under|Over 3.5"
     ],
     "cuotas": [
       1.36,
       1.25,
       1.44,
       1.3,
-      1.67,
-      1.91
+      1.85,
+      2.0
     ],
     "tarjeta": {
       "local": "Mallorca",
@@ -1745,25 +1677,21 @@
   {
     "id": "2026-11-03-picks-manana",
     "fecha": "2026-11-02T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡6 PICKS PARA MAÑANA! 🍀\n\n✅ ⭐ Ambos marcan en Villarreal–Paris Saint Germain\n✅ ⭐ AS Roma o empate\n✅ ⭐ Lille marca\n✅ ⭐ Ambos marcan en Barcelona–Aston Villa\n✅ ⭐ Slovan Bratislava marca\n✅ ⭐ Feyenoord marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n✅ ⭐ Lille marca\n✅ ⭐ AS Roma o empate\n✅ ⭐ Slovan Bratislava marca\n✅ ⭐ Aston Villa marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635746|Both Teams Score|Yes",
-      "1635695|Double Chance|Draw/Away",
       "1635640|Total - Away|Over 0.5",
-      "1635627|Both Teams Score|Yes",
+      "1635695|Double Chance|Draw/Away",
       "1635677|Total - Away|Over 0.5",
-      "1635662|Total - Home|Over 0.5"
+      "1635627|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.44,
-      1.57,
       1.28,
-      1.5,
+      1.57,
       1.44,
-      1.3
+      1.44
     ]
   },
   {
@@ -1803,5 +1731,53 @@
     "directo": true,
     "sel": [],
     "cuotas": []
+  },
+  {
+    "id": "2026-11-04-combi-tres",
+    "fecha": "2026-11-04T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,76! 🍀\n\n✅ ⭐ FC Porto o empate\n✅ ⭐ Gol en la 1ª parte del Lens–Como\n✅ ⭐ Gol en la 1ª parte del Borussia Dortmund–Real Betis\n✅ ⭐ Gana el Real Madrid\n\n🎯 CUOTA 2,76 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635656|Double Chance|Home/Draw",
+      "1635681|Goals Over/Under First Half|Over 0.5",
+      "1635651|Goals Over/Under First Half|Over 0.5",
+      "1635606|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.33,
+      1.25,
+      1.25,
+      1.33
+    ]
+  },
+  {
+    "id": "2026-11-06-ganadores",
+    "fecha": "2026-11-06T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton — Gana o empata\n✅2. 🇩🇪 Hamburger SV — Gana o empata\n✅3. 🇫🇷 Toulouse — Gana o empata\n✅4. 🇪🇸 Castellón — Gana o empata\n✅5. 🇵🇹 Arouca — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-06-combi-tres",
+    "fecha": "2026-11-06T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,58! 🍀\n\n✅ 🇪🇸 Sevilla o empate\n✅ 🇩🇪 Hamburger SV o empate\n✅ 🇳🇱 Ambos marcan en Willem II–PEC Zwolle\n\n🎯 CUOTA 2,58 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570450|Double Chance|Home/Draw",
+      "1575218|Double Chance|Home/Draw",
+      "1552216|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.28,
+      1.4,
+      1.44
+    ]
   }
 ]

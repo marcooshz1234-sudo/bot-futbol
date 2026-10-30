@@ -1,10 +1,10 @@
 # Aston Villa – Fulham
 **Premier League** · Regular Season - 9 · 31/10/2026 21:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **1.91**  ·  X **3.80**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.83**
@@ -132,7 +132,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Aston Villa:** A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury)
-**Fulham:** R. Sessegnon (baja, Red Card); E. Smith Rowe (duda, Injury); R. Sessegnon (baja, Red Card); E. Smith Rowe (duda, Injury)
+**Fulham:** R. Sessegnon (baja, Red Card); D. Affengruber (duda, Injury); E. Smith Rowe (duda, Injury); R. Sessegnon (baja, Red Card); D. Affengruber (duda, Injury); E. Smith Rowe (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-25 · Premier League: Fulham 1-0 Aston Villa
@@ -211,40 +211,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Emile Smith Rowe | M | 6 | 207 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 1 | 0,2 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,15 · córners esperados 9,6._
+_Goles esperados: local 1,62 · visitante 1,16 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 26% | 26% | 3.60 | -5% |
-| 1X2: X | 24% | 25% | 25% | 3.80 | -7% |
-| 1X2: 1 | 49% | 49% | 49% | 1.91 | -7% |
-| Doble oportunidad: X2 | 51% | 51% | 51% | 1.83 | -6% |
-| Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 73% | 73% | 73% | 1.28 | -6% |
+| 1X2: 2 | 27% | 26% | 27% | 3.60 | -4% |
+| 1X2: X | 25% | 25% | 25% | 3.80 | -6% |
+| 1X2: 1 | 48% | 49% | 49% | 1.91 | -7% |
+| Doble oportunidad: X2 | 52% | 51% | 52% | 1.83 | -5% |
+| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 73% | 73% | 73% | 1.28 | -7% |
 | Ambos marcan: No | 45% | 42% | 44% | 2.20 | -4% |
 | Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
 | Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 2.5 | 53% | 57% | 55% | 1.67 | -8% |
-| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -11% |
+| Goles más/menos: Más de 2.5 | 53% | 57% | 55% | 1.67 | -9% |
+| Goles más/menos: Más de 3.5 | 30% | 34% | 32% | 2.75 | -11% |
 | Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
-| Goles más/menos: Menos de 2.5 | 47% | 43% | 45% | 2.20 | -1% |
-| Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
+| Goles más/menos: Menos de 2.5 | 47% | 43% | 45% | 2.20 | -0% |
+| Goles más/menos: Menos de 3.5 | 70% | 66% | 68% | 1.44 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del local: Más de 1.5 | 49% | 51% | 50% | 1.80 | -10% |
-| Goles del local: Más de 2.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles del local: Menos de 1.5 | 51% | 49% | 50% | 1.91 | -5% |
-| Goles del local: Menos de 2.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 0.5 | 68% | 71% | 70% | 1.33 | -7% |
-| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del visitante: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -2% |
+| Goles del local: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Goles del local: Más de 2.5 | 22% | 27% | 24% | 3.50 | -14% |
+| Goles del local: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
+| Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Goles del visitante: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles del visitante: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
 | Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -8% |
-| 1X2 descanso: X | 41% | 39% | 40% | 2.38 | -4% |
-| 1X2 descanso: 1 | 36% | 37% | 37% | 2.50 | -8% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -13% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | -0% |
+| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -7% |
+| 1X2 descanso: X | 42% | 39% | 40% | 2.38 | -4% |
+| 1X2 descanso: 1 | 35% | 37% | 36% | 2.50 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

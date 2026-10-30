@@ -1,61 +1,75 @@
 # Bolton – Bristol City
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
-- **1X2:** 1 **2.80**  ·  X **3.30**  ·  2 **2.30**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.40**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **1X2:** 1 **2.90**  ·  X **3.30**  ·  2 **2.40**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
-- **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
 - **Goles del visitante:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
-    - 3,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 10,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **3.25**  ·  X **2.30**  ·  2 **2.88**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.25**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.67**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.25**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.40**
 - **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **4.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **11.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.62**
 - **Home Corners Over/Under:**
-    - 4,5: más **1.62** · menos **2.20**
     - 5,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
-- **Home Player Shots On Target Total:** Atsuki Ito - 1 **2.25**  ·  Atsuki Ito - 2 **9.00**  ·  Ryan Hardie - 1 **1.40**  ·  Sam Dalby - 1 **1.50**  ·  John McAtee - 1 **1.50**  ·  Ruben Rodrigues - 1 **1.67**  ·  Thierry Gale - 1 **1.67**  ·  Kyliane Dong - 1 **1.73**  ·  Gaizka Larrazabal - 1 **3.00**  ·  Josh Sheehan - 1 **2.25**  ·  David Watson - 1 **2.25**  ·  Samuel Iling-Junior - 1 **1.67**  ·  Xavier Simons - 1 **2.25**  ·  Luca Stephenson - 1 **2.50**  ·  Chris Forino - 1 **3.50**  ·  Eoin Toal - 1 **3.50**  ·  Akin Famewo - 1 **3.75**  ·  Ethan Erhahon - 1 **4.33**  ·  Lewis Brunt - 1 **4.33**  ·  Maxwell Conway - 1 **5.50**  ·  Ben Davies - 1 **5.50**  ·  Ryan Hardie - 2 **3.00**  ·  Sam Dalby - 2 **3.40**  ·  John McAtee - 2 **3.40**  ·  Ruben Rodrigues - 2 **4.33**  ·  Thierry Gale - 2 **4.33**  ·  Kyliane Dong - 2 **4.50**  ·  Gaizka Larrazabal - 2 **13.00**  ·  Josh Sheehan - 2 **9.00**  ·  David Watson - 2 **9.00**  ·  Samuel Iling-Junior - 2 **4.33**  ·  Xavier Simons - 2 **9.00**  ·  Luca Stephenson - 2 **10.00**  ·  Chris Forino - 2 **19.00**  ·  Eoin Toal - 2 **19.00**  ·  Akin Famewo - 2 **19.00**  ·  Ethan Erhahon - 2 **21.00**  ·  Lewis Brunt - 2 **21.00**  ·  Ryan Hardie - 3 **8.00**  ·  Sam Dalby - 3 **10.00**  ·  John McAtee - 3 **10.00**  ·  Ruben Rodrigues - 3 **13.00**  ·  Thierry Gale - 3 **13.00**  ·  Kyliane Dong - 3 **15.00**  ·  Samuel Iling-Junior - 3 **13.00**  ·  Ryan Hardie - 4 **21.00**  ·  Sam Dalby - 4 **21.00**  ·  John McAtee - 4 **21.00**  ·  Theo Bair - 1 **1.50**  ·  Theo Bair - 2 **3.40**  ·  Theo Bair - 3 **10.00**  ·  Theo Bair - 4 **21.00**  ·  Jayden Nelson - 1 **1.57**  ·  Jayden Nelson - 2 **3.75**  ·  Jayden Nelson - 3 **11.00**
+- **Home Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
+- **Away Team Total Cards:**
+    - 1,5: más **1.57** · menos **2.25**
+- **Total ShotOnGoal:**
+    - 8,5: más **1.83** · menos **1.83**
+- **ShotOnTarget 1x2:** 1 **2.20**  ·  X **7.00**  ·  2 **1.95**
+- **Total Shots:**
+    - 26,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.91**  ·  X **15.00**  ·  2 **1.91**
+- **Home Player Shots On Target Total:** Atsuki Ito - 1 **2.38**  ·  Atsuki Ito - 2 **10.00**  ·  Ryan Hardie - 1 **1.53**  ·  Sam Dalby - 1 **1.67**  ·  John McAtee - 1 **1.73**  ·  Ruben Rodrigues - 1 **1.73**  ·  Thierry Gale - 1 **1.83**  ·  Kyliane Dong - 1 **1.83**  ·  Gaizka Larrazabal - 1 **3.25**  ·  Josh Sheehan - 1 **2.20**  ·  David Watson - 1 **2.62**  ·  Samuel Iling-Junior - 1 **1.80**  ·  Xavier Simons - 1 **2.00**  ·  Luca Stephenson - 1 **3.25**  ·  Chris Forino - 1 **4.00**  ·  Eoin Toal - 1 **4.50**  ·  Akin Famewo - 1 **4.33**  ·  Ethan Erhahon - 1 **4.50**  ·  Lewis Brunt - 1 **5.00**  ·  Maxwell Conway - 1 **7.00**  ·  Ben Davies - 1 **7.00**  ·  Ryan Hardie - 2 **3.50**  ·  Sam Dalby - 2 **4.33**  ·  John McAtee - 2 **4.50**  ·  Ruben Rodrigues - 2 **4.50**  ·  Thierry Gale - 2 **5.50**  ·  Kyliane Dong - 2 **5.50**  ·  Gaizka Larrazabal - 2 **15.00**  ·  Josh Sheehan - 2 **8.00**  ·  David Watson - 2 **11.00**  ·  Samuel Iling-Junior - 2 **5.00**  ·  Xavier Simons - 2 **6.50**  ·  Luca Stephenson - 2 **15.00**  ·  Chris Forino - 2 **21.00**  ·  Eoin Toal - 2 **21.00**  ·  Akin Famewo - 2 **21.00**  ·  Ethan Erhahon - 2 **21.00**  ·  Lewis Brunt - 2 **21.00**  ·  Ryan Hardie - 3 **11.00**  ·  Sam Dalby - 3 **15.00**  ·  John McAtee - 3 **15.00**  ·  Ruben Rodrigues - 3 **15.00**  ·  Thierry Gale - 3 **19.00**  ·  Kyliane Dong - 3 **19.00**  ·  Josh Sheehan - 3 **21.00**  ·  Samuel Iling-Junior - 3 **17.00**  ·  Xavier Simons - 3 **21.00**  ·  Ryan Hardie - 4 **21.00**  ·  Sam Dalby - 4 **21.00**  ·  John McAtee - 4 **21.00**  ·  Theo Bair - 1 **1.62**  ·  Theo Bair - 2 **4.00**  ·  Theo Bair - 3 **13.00**  ·  Theo Bair - 4 **21.00**  ·  Jayden Nelson - 1 **1.80**  ·  Jayden Nelson - 2 **5.00**  ·  Jayden Nelson - 3 **17.00**
 - **Away Player Shots On Target Total:** Tomi Horvat **34.00**  ·  Jason Knight **29.00**  ·  Josh Sheehan **51.00**  ·  Eoin Toal **19.00**  ·  Maxwell Conway **126.00**  ·  Lorent Tolaj **17.00**  ·  Ethan Erhahon **101.00**  ·  Rio Cardines **81.00**  ·  Gibson Yah **13.00**  ·  Lisav Eissat **13.00**  ·  Elijah Adebayo **6.00**  ·  Jed Wallace **51.00**  ·  Ruben Rodrigues **15.00**  ·  Sam Bell **23.00**  ·  Scott Twine **29.00**  ·  Yu Hirakawa **34.00**  ·  Joe Williams **67.00**  ·  Luke McNally **13.00**  ·  Rob Dickie **19.00**  ·  Cameron Pring **23.00**  ·  Robert Atkinson **13.00**  ·  George Tanner **101.00**  ·  Theo Bair **15.00**  ·  Ryan Hardie **26.00**  ·  Adam Randell **67.00**  ·  Akin Famewo **19.00**  ·  Xavier Simons **26.00**  ·  Dominic Ballard **11.00**  ·  John McAtee **19.00**  ·  Lewis Brunt **29.00**  ·  Atsuki Ito **13.00**  ·  Chris Forino **17.00**  ·  Sam Dalby **8.50**  ·  Luca Stephenson **17.00**  ·  Jayden Nelson **51.00**  ·  Brian De Keersmaecker **41.00**  ·  David Watson **29.00**  ·  Noah Eile **17.00**  ·  Sam Greenwood **26.00**  ·  Gaizka Larrazabal **51.00**  ·  Thierry Gale **34.00**  ·  Max Lott **29.00**  ·  Ben Davies **23.00**  ·  Samuel Iling-Junior **34.00**  ·  Kyliane Dong **26.00**
-- **Home Player Shots:** Atsuki Ito - 1 **1.25**  ·  Atsuki Ito - 2 **2.10**  ·  Atsuki Ito - 3 **4.33**  ·  Atsuki Ito - 4 **10.00**  ·  Ryan Hardie - 1 **1.04**  ·  Sam Dalby - 1 **1.06**  ·  John McAtee - 1 **1.06**  ·  Ruben Rodrigues - 1 **1.10**  ·  Thierry Gale - 1 **1.10**  ·  Kyliane Dong - 1 **1.11**  ·  Gaizka Larrazabal - 1 **1.44**  ·  Josh Sheehan - 1 **1.25**  ·  David Watson - 1 **1.25**  ·  Samuel Iling-Junior - 1 **1.10**  ·  Xavier Simons - 1 **1.17**  ·  Luca Stephenson - 1 **1.33**  ·  Chris Forino - 1 **1.67**  ·  Eoin Toal - 1 **1.67**  ·  Akin Famewo - 1 **1.80**  ·  Ethan Erhahon - 1 **2.00**  ·  Lewis Brunt - 1 **2.00**  ·  Maxwell Conway - 1 **2.38**  ·  Ben Davies - 1 **2.38**  ·  Ryan Hardie - 2 **1.22**  ·  Sam Dalby - 2 **1.30**  ·  John McAtee - 2 **1.30**  ·  Ruben Rodrigues - 2 **1.44**  ·  Thierry Gale - 2 **1.44**  ·  Kyliane Dong - 2 **1.53**  ·  Gaizka Larrazabal - 2 **3.00**  ·  Josh Sheehan - 2 **2.10**  ·  David Watson - 2 **2.10**  ·  Samuel Iling-Junior - 2 **1.44**  ·  Xavier Simons - 2 **1.73**  ·  Luca Stephenson - 2 **2.38**  ·  Chris Forino - 2 **4.00**  ·  Eoin Toal - 2 **4.00**  ·  Akin Famewo - 2 **4.33**  ·  Ethan Erhahon - 2 **5.50**  ·  Lewis Brunt - 2 **5.50**  ·  Maxwell Conway - 2 **8.00**  ·  Ben Davies - 2 **8.00**  ·  Ryan Hardie - 3 **1.67**  ·  Sam Dalby - 3 **1.83**  ·  John McAtee - 3 **1.83**  ·  Ruben Rodrigues - 3 **2.25**  ·  Thierry Gale - 3 **2.25**  ·  Kyliane Dong - 3 **2.50**  ·  Gaizka Larrazabal - 3 **7.00**  ·  Josh Sheehan - 3 **4.33**  ·  David Watson - 3 **4.33**  ·  Samuel Iling-Junior - 3 **2.25**  ·  Xavier Simons - 3 **3.25**  ·  Luca Stephenson - 3 **5.50**  ·  Chris Forino - 3 **11.00**  ·  Eoin Toal - 3 **11.00**  ·  Akin Famewo - 3 **13.00**  ·  Ethan Erhahon - 3 **17.00**  ·  Lewis Brunt - 3 **17.00**  ·  Maxwell Conway - 3 **21.00**  ·  Ben Davies - 3 **21.00**  ·  Ryan Hardie - 4 **2.62**  ·  Sam Dalby - 4 **3.00**  ·  John McAtee - 4 **3.00**  ·  Ruben Rodrigues - 4 **4.00**  ·  Thierry Gale - 4 **4.00**  ·  Kyliane Dong - 4 **4.50**  ·  Gaizka Larrazabal - 4 **19.00**  ·  Josh Sheehan - 4 **10.00**  ·  David Watson - 4 **10.00**  ·  Samuel Iling-Junior - 4 **4.00**  ·  Xavier Simons - 4 **6.50**  ·  Luca Stephenson - 4 **13.00**  ·  Ryan Hardie - 5 **4.50**  ·  Sam Dalby - 5 **5.50**  ·  John McAtee - 5 **5.50**  ·  Ruben Rodrigues - 5 **9.00**  ·  Thierry Gale - 5 **9.00**  ·  Kyliane Dong - 5 **10.00**  ·  Josh Sheehan - 5 **21.00**  ·  Ryan Hardie - 6 **9.00**  ·  Sam Dalby - 6 **11.00**  ·  John McAtee - 6 **11.00**  ·  Ruben Rodrigues - 6 **17.00**  ·  Thierry Gale - 6 **17.00**  ·  Kyliane Dong - 6 **21.00**  ·  Ryan Hardie - 7 **17.00**  ·  Sam Dalby - 7 **21.00**  ·  John McAtee - 7 **21.00**  ·  Theo Bair - 1 **1.06**  ·  Theo Bair - 2 **1.30**  ·  Theo Bair - 3 **1.83**  ·  Theo Bair - 4 **3.00**  ·  Theo Bair - 5 **5.50**  ·  Theo Bair - 6 **11.00**  ·  Theo Bair - 7 **21.00**  ·  Jayden Nelson - 1 **1.07**  ·  Jayden Nelson - 2 **1.36**  ·  Jayden Nelson - 3 **2.00**  ·  Jayden Nelson - 4 **3.50**  ·  Jayden Nelson - 5 **6.50**  ·  Jayden Nelson - 6 **13.00**  ·  Samuel Iling-Junior - 5 **9.00**  ·  David Watson - 5 **21.00**  ·  Xavier Simons - 5 **13.00**  ·  Atsuki Ito - 5 **21.00**  ·  Jayden Nelson - 7 **21.00**  ·  Luca Stephenson - 5 **21.00**  ·  Samuel Iling-Junior - 6 **17.00**  ·  Xavier Simons - 6 **21.00**
-- **Away Player Shots:** Lorent Tolaj - 1 **1.02**  ·  Dominic Ballard - 1 **1.02**  ·  Sam Greenwood - 1 **1.05**  ·  Scott Twine - 1 **1.05**  ·  Sam Bell - 1 **1.06**  ·  Tomi Horvat - 1 **1.08**  ·  Jed Wallace - 1 **1.25**  ·  Yu Hirakawa - 1 **1.08**  ·  Jason Knight - 1 **1.44**  ·  Rio Cardines - 1 **1.67**  ·  Rob Dickie - 1 **1.80**  ·  Adam Randell - 1 **1.57**  ·  Joe Williams - 1 **1.57**  ·  Lisav Eissat - 1 **1.67**  ·  Luke McNally - 1 **1.80**  ·  Cameron Pring - 1 **1.80**  ·  Robert Atkinson - 1 **1.80**  ·  George Tanner - 1 **2.00**  ·  Gibson Yah - 1 **1.44**  ·  Noah Eile - 1 **2.00**  ·  Lorent Tolaj - 2 **1.17**  ·  Dominic Ballard - 2 **1.14**  ·  Sam Greenwood - 2 **1.25**  ·  Scott Twine - 2 **1.25**  ·  Sam Bell - 2 **1.33**  ·  Tomi Horvat - 2 **1.40**  ·  Jed Wallace - 2 **2.10**  ·  Yu Hirakawa - 2 **1.40**  ·  Jason Knight - 2 **3.00**  ·  Rio Cardines - 2 **4.00**  ·  Rob Dickie - 2 **4.33**  ·  Adam Randell - 2 **3.50**  ·  Joe Williams - 2 **3.50**  ·  Lisav Eissat - 2 **4.00**  ·  Luke McNally - 2 **4.33**  ·  Cameron Pring - 2 **4.33**  ·  Robert Atkinson - 2 **4.33**  ·  George Tanner - 2 **5.50**  ·  Gibson Yah - 2 **3.00**  ·  Noah Eile - 2 **5.50**  ·  Lorent Tolaj - 3 **1.50**  ·  Dominic Ballard - 3 **1.40**  ·  Sam Greenwood - 3 **1.73**  ·  Scott Twine - 3 **1.73**  ·  Sam Bell - 3 **1.91**  ·  Tomi Horvat - 3 **2.20**  ·  Jed Wallace - 3 **4.33**  ·  Yu Hirakawa - 3 **2.20**  ·  Jason Knight - 3 **7.00**  ·  Rio Cardines - 3 **11.00**  ·  Rob Dickie - 3 **13.00**  ·  Adam Randell - 3 **10.00**  ·  Joe Williams - 3 **10.00**  ·  Lisav Eissat - 3 **11.00**  ·  Luke McNally - 3 **13.00**  ·  Cameron Pring - 3 **13.00**  ·  Robert Atkinson - 3 **13.00**  ·  George Tanner - 3 **17.00**  ·  Gibson Yah - 3 **7.00**  ·  Noah Eile - 3 **17.00**  ·  Lorent Tolaj - 4 **2.20**  ·  Dominic Ballard - 4 **2.00**  ·  Sam Greenwood - 4 **2.75**  ·  Scott Twine - 4 **2.75**  ·  Sam Bell - 4 **3.40**  ·  Tomi Horvat - 4 **3.75**  ·  Jed Wallace - 4 **10.00**  ·  Yu Hirakawa - 4 **3.75**  ·  Jason Knight - 4 **19.00**  ·  Adam Randell - 4 **21.00**  ·  Lorent Tolaj - 5 **3.50**  ·  Dominic Ballard - 5 **3.25**  ·  Sam Greenwood - 5 **5.00**  ·  Scott Twine - 5 **5.00**  ·  Sam Bell - 5 **6.00**  ·  Tomi Horvat - 5 **8.00**  ·  Jed Wallace - 5 **21.00**  ·  Yu Hirakawa - 5 **8.00**  ·  Lorent Tolaj - 6 **6.50**  ·  Dominic Ballard - 6 **5.50**  ·  Sam Greenwood - 6 **10.00**  ·  Scott Twine - 6 **10.00**  ·  Sam Bell - 6 **13.00**  ·  Tomi Horvat - 6 **15.00**  ·  Yu Hirakawa - 6 **15.00**  ·  Lorent Tolaj - 7 **13.00**  ·  Dominic Ballard - 7 **10.00**  ·  Sam Greenwood - 7 **19.00**  ·  Scott Twine - 7 **19.00**  ·  Lorent Tolaj - 8 **21.00**  ·  Dominic Ballard - 8 **19.00**  ·  Sam Bell - 7 **21.00**  ·  Joe Williams - 4 **21.00**  ·  Elijah Adebayo - 1 **1.04**  ·  Brian De Keersmaecker - 1 **1.25**  ·  Elijah Adebayo - 2 **1.20**  ·  Brian De Keersmaecker - 2 **2.10**  ·  Elijah Adebayo - 3 **1.62**  ·  Brian De Keersmaecker - 3 **4.33**  ·  Elijah Adebayo - 4 **2.50**  ·  Brian De Keersmaecker - 4 **10.00**  ·  Elijah Adebayo - 5 **4.00**  ·  Brian De Keersmaecker - 5 **21.00**  ·  Elijah Adebayo - 6 **8.00**  ·  Elijah Adebayo - 7 **15.00**  ·  Elijah Adebayo - 8 **21.00**  ·  Gibson Yah - 4 **19.00**
-- **Anytime Goal Scorer:** Tomi Horvat **3.60**  ·  Jason Knight **7.00**  ·  Josh Sheehan **5.50**  ·  Eoin Toal **9.00**  ·  Maxwell Conway **15.00**  ·  Lorent Tolaj **2.40**  ·  Ethan Erhahon **12.00**  ·  Rio Cardines **9.00**  ·  Gibson Yah **7.00**  ·  Lisav Eissat **9.00**  ·  Elijah Adebayo **2.60**  ·  Jed Wallace **5.50**  ·  Ruben Rodrigues **3.75**  ·  Sam Bell **3.25**  ·  Scott Twine **3.25**  ·  Yu Hirakawa **3.60**  ·  Joe Williams **8.00**  ·  Luke McNally **10.00**  ·  Rob Dickie **10.00**  ·  Cameron Pring **10.00**  ·  Robert Atkinson **10.00**  ·  George Tanner **12.00**  ·  Theo Bair **3.10**  ·  Ryan Hardie **2.75**  ·  Adam Randell **8.00**  ·  Akin Famewo **10.00**  ·  Xavier Simons **5.50**  ·  Dominic Ballard **2.25**  ·  John McAtee **3.10**  ·  Lewis Brunt **12.00**  ·  Atsuki Ito **5.50**  ·  Chris Forino **9.00**  ·  Sam Dalby **3.10**  ·  Luca Stephenson **6.00**  ·  Jayden Nelson **3.40**  ·  Brian De Keersmaecker **5.50**  ·  David Watson **5.50**  ·  Noah Eile **12.00**  ·  Sam Greenwood **2.88**  ·  Gaizka Larrazabal **7.00**  ·  Thierry Gale **3.75**  ·  Max Lott **7.00**  ·  Ben Davies **15.00**  ·  Samuel Iling-Junior **3.75**  ·  Kyliane Dong **4.00**
-- **Player to Score or Assist:** Tomi Horvat **2.25**  ·  Jason Knight **3.75**  ·  Josh Sheehan **3.00**  ·  Eoin Toal **6.50**  ·  Maxwell Conway **6.00**  ·  Lorent Tolaj **1.83**  ·  Ethan Erhahon **4.75**  ·  Rio Cardines **2.88**  ·  Gibson Yah **4.00**  ·  Lisav Eissat **5.50**  ·  Elijah Adebayo **2.20**  ·  Jed Wallace **2.75**  ·  Ruben Rodrigues **2.25**  ·  Sam Bell **2.30**  ·  Scott Twine **2.05**  ·  Yu Hirakawa **2.30**  ·  Joe Williams **3.25**  ·  Luke McNally **6.00**  ·  Rob Dickie **7.00**  ·  Cameron Pring **3.75**  ·  Robert Atkinson **7.00**  ·  George Tanner **7.00**  ·  Theo Bair **2.25**  ·  Ryan Hardie **2.10**  ·  Adam Randell **4.33**  ·  Akin Famewo **7.50**  ·  Xavier Simons **3.40**  ·  Dominic Ballard **1.95**  ·  John McAtee **2.25**  ·  Lewis Brunt **8.00**  ·  Atsuki Ito **3.40**  ·  Chris Forino **6.50**  ·  Sam Dalby **2.25**  ·  Luca Stephenson **3.40**  ·  Jayden Nelson **2.10**  ·  Brian De Keersmaecker **2.62**  ·  David Watson **3.75**  ·  Noah Eile **6.50**  ·  Sam Greenwood **2.05**  ·  Gaizka Larrazabal **3.10**  ·  Thierry Gale **2.50**  ·  Max Lott **3.10**  ·  Ben Davies **9.00**  ·  Samuel Iling-Junior **2.50**  ·  Kyliane Dong **2.75**
+- **Away Player Shots Total:**
+    - 13,5: más **2.00** · menos **1.73**
+- **Home Player Shots:** Atsuki Ito - 1 **1.18**  ·  Atsuki Ito - 2 **1.80**  ·  Atsuki Ito - 3 **3.40**  ·  Atsuki Ito - 4 **7.00**  ·  Ryan Hardie - 1 **1.06**  ·  Sam Dalby - 1 **1.14**  ·  John McAtee - 1 **1.10**  ·  Ruben Rodrigues - 1 **1.07**  ·  Thierry Gale - 1 **1.14**  ·  Kyliane Dong - 1 **1.10**  ·  Gaizka Larrazabal - 1 **1.50**  ·  Josh Sheehan - 1 **1.12**  ·  David Watson - 1 **1.22**  ·  Samuel Iling-Junior - 1 **1.12**  ·  Xavier Simons - 1 **1.20**  ·  Luca Stephenson - 1 **1.33**  ·  Chris Forino - 1 **1.62**  ·  Eoin Toal - 1 **1.80**  ·  Akin Famewo - 1 **1.73**  ·  Ethan Erhahon - 1 **1.83**  ·  Lewis Brunt - 1 **2.00**  ·  Maxwell Conway - 1 **2.38**  ·  Ben Davies - 1 **2.38**  ·  Ryan Hardie - 2 **1.33**  ·  Sam Dalby - 2 **1.67**  ·  John McAtee - 2 **1.44**  ·  Ruben Rodrigues - 2 **1.33**  ·  Thierry Gale - 2 **1.67**  ·  Kyliane Dong - 2 **1.44**  ·  Gaizka Larrazabal - 2 **3.25**  ·  Josh Sheehan - 2 **1.62**  ·  David Watson - 2 **1.91**  ·  Samuel Iling-Junior - 2 **1.62**  ·  Xavier Simons - 2 **1.83**  ·  Luca Stephenson - 2 **2.50**  ·  Chris Forino - 2 **3.75**  ·  Eoin Toal - 2 **4.50**  ·  Akin Famewo - 2 **4.00**  ·  Ethan Erhahon - 2 **5.00**  ·  Lewis Brunt - 2 **6.00**  ·  Maxwell Conway - 2 **8.00**  ·  Ben Davies - 2 **8.00**  ·  Ryan Hardie - 3 **1.91**  ·  Sam Dalby - 3 **2.75**  ·  John McAtee - 3 **2.25**  ·  Ruben Rodrigues - 3 **2.00**  ·  Thierry Gale - 3 **2.75**  ·  Kyliane Dong - 3 **2.25**  ·  Gaizka Larrazabal - 3 **8.00**  ·  Josh Sheehan - 3 **2.62**  ·  David Watson - 3 **3.75**  ·  Samuel Iling-Junior - 3 **2.62**  ·  Xavier Simons - 3 **3.50**  ·  Luca Stephenson - 3 **5.50**  ·  Chris Forino - 3 **10.00**  ·  Eoin Toal - 3 **13.00**  ·  Akin Famewo - 3 **11.00**  ·  Ethan Erhahon - 3 **15.00**  ·  Lewis Brunt - 3 **17.00**  ·  Maxwell Conway - 3 **21.00**  ·  Ben Davies - 3 **21.00**  ·  Ryan Hardie - 4 **3.25**  ·  Sam Dalby - 4 **5.50**  ·  John McAtee - 4 **4.00**  ·  Ruben Rodrigues - 4 **3.40**  ·  Thierry Gale - 4 **5.50**  ·  Kyliane Dong - 4 **4.00**  ·  Gaizka Larrazabal - 4 **21.00**  ·  Josh Sheehan - 4 **5.50**  ·  David Watson - 4 **9.00**  ·  Samuel Iling-Junior - 4 **5.50**  ·  Xavier Simons - 4 **8.00**  ·  Luca Stephenson - 4 **13.00**  ·  Ryan Hardie - 5 **6.00**  ·  Sam Dalby - 5 **13.00**  ·  John McAtee - 5 **9.00**  ·  Ruben Rodrigues - 5 **6.50**  ·  Thierry Gale - 5 **13.00**  ·  Kyliane Dong - 5 **9.00**  ·  Josh Sheehan - 5 **11.00**  ·  Ryan Hardie - 6 **13.00**  ·  Sam Dalby - 6 **21.00**  ·  John McAtee - 6 **17.00**  ·  Ruben Rodrigues - 6 **13.00**  ·  Thierry Gale - 6 **21.00**  ·  Kyliane Dong - 6 **17.00**  ·  Ryan Hardie - 7 **21.00**  ·  Sam Dalby - 7 **21.00**  ·  John McAtee - 7 **21.00**  ·  Theo Bair - 1 **1.08**  ·  Theo Bair - 2 **1.40**  ·  Theo Bair - 3 **2.10**  ·  Theo Bair - 4 **3.75**  ·  Theo Bair - 5 **7.00**  ·  Theo Bair - 6 **15.00**  ·  Theo Bair - 7 **21.00**  ·  Jayden Nelson - 1 **1.08**  ·  Jayden Nelson - 2 **1.40**  ·  Jayden Nelson - 3 **2.10**  ·  Jayden Nelson - 4 **3.75**  ·  Jayden Nelson - 5 **7.00**  ·  Jayden Nelson - 6 **15.00**  ·  Samuel Iling-Junior - 5 **11.00**  ·  Chris Forino - 4 **21.00**  ·  David Watson - 5 **19.00**  ·  Xavier Simons - 5 **17.00**  ·  Atsuki Ito - 5 **15.00**  ·  Jayden Nelson - 7 **21.00**  ·  Josh Sheehan - 6 **21.00**  ·  Ruben Rodrigues - 7 **21.00**  ·  Luca Stephenson - 5 **21.00**  ·  Samuel Iling-Junior - 6 **21.00**  ·  Xavier Simons - 6 **21.00**
+- **Away Player Shots:** Lorent Tolaj - 1 **1.02**  ·  Dominic Ballard - 1 **1.02**  ·  Sam Greenwood - 1 **1.10**  ·  Scott Twine - 1 **1.12**  ·  Sam Bell - 1 **1.12**  ·  Tomi Horvat - 1 **1.11**  ·  Jed Wallace - 1 **1.40**  ·  Yu Hirakawa - 1 **1.17**  ·  Jason Knight - 1 **1.62**  ·  Rio Cardines - 1 **1.67**  ·  Rob Dickie - 1 **2.00**  ·  Adam Randell - 1 **1.62**  ·  Joe Williams - 1 **1.62**  ·  Lisav Eissat - 1 **1.57**  ·  Luke McNally - 1 **2.00**  ·  Cameron Pring - 1 **2.38**  ·  Robert Atkinson - 1 **2.00**  ·  George Tanner - 1 **2.38**  ·  Gibson Yah - 1 **1.36**  ·  Noah Eile - 1 **2.62**  ·  Lorent Tolaj - 2 **1.17**  ·  Dominic Ballard - 2 **1.14**  ·  Sam Greenwood - 2 **1.44**  ·  Scott Twine - 2 **1.57**  ·  Sam Bell - 2 **1.53**  ·  Tomi Horvat - 2 **1.50**  ·  Jed Wallace - 2 **2.75**  ·  Yu Hirakawa - 2 **1.73**  ·  Jason Knight - 2 **3.75**  ·  Rio Cardines - 2 **4.00**  ·  Rob Dickie - 2 **5.50**  ·  Adam Randell - 2 **3.75**  ·  Joe Williams - 2 **3.75**  ·  Lisav Eissat - 2 **3.50**  ·  Luke McNally - 2 **5.50**  ·  Cameron Pring - 2 **8.00**  ·  Robert Atkinson - 2 **5.50**  ·  George Tanner - 2 **8.00**  ·  Gibson Yah - 2 **2.62**  ·  Noah Eile - 2 **9.00**  ·  Lorent Tolaj - 3 **1.50**  ·  Dominic Ballard - 3 **1.50**  ·  Sam Greenwood - 3 **2.25**  ·  Scott Twine - 3 **2.62**  ·  Sam Bell - 3 **2.62**  ·  Tomi Horvat - 3 **2.50**  ·  Jed Wallace - 3 **6.50**  ·  Yu Hirakawa - 3 **3.25**  ·  Jason Knight - 3 **10.00**  ·  Rio Cardines - 3 **11.00**  ·  Rob Dickie - 3 **17.00**  ·  Adam Randell - 3 **10.00**  ·  Joe Williams - 3 **10.00**  ·  Lisav Eissat - 3 **9.00**  ·  Luke McNally - 3 **17.00**  ·  Cameron Pring - 3 **21.00**  ·  Robert Atkinson - 3 **17.00**  ·  George Tanner - 3 **21.00**  ·  Gibson Yah - 3 **6.00**  ·  Noah Eile - 3 **17.00**  ·  Lorent Tolaj - 4 **2.20**  ·  Dominic Ballard - 4 **2.10**  ·  Sam Greenwood - 4 **4.00**  ·  Scott Twine - 4 **5.50**  ·  Sam Bell - 4 **5.00**  ·  Tomi Horvat - 4 **4.50**  ·  Jed Wallace - 4 **17.00**  ·  Yu Hirakawa - 4 **6.50**  ·  Jason Knight - 4 **21.00**  ·  Adam Randell - 4 **21.00**  ·  Lorent Tolaj - 5 **3.50**  ·  Dominic Ballard - 5 **3.50**  ·  Sam Greenwood - 5 **8.00**  ·  Scott Twine - 5 **11.00**  ·  Sam Bell - 5 **10.00**  ·  Tomi Horvat - 5 **10.00**  ·  Jed Wallace - 5 **21.00**  ·  Yu Hirakawa - 5 **15.00**  ·  Lorent Tolaj - 6 **6.50**  ·  Dominic Ballard - 6 **6.00**  ·  Sam Greenwood - 6 **17.00**  ·  Scott Twine - 6 **21.00**  ·  Sam Bell - 6 **21.00**  ·  Tomi Horvat - 6 **19.00**  ·  Yu Hirakawa - 6 **15.00**  ·  Lorent Tolaj - 7 **13.00**  ·  Dominic Ballard - 7 **11.00**  ·  Sam Greenwood - 7 **19.00**  ·  Scott Twine - 7 **19.00**  ·  Lorent Tolaj - 8 **21.00**  ·  Dominic Ballard - 8 **21.00**  ·  Sam Bell - 7 **21.00**  ·  Joe Williams - 4 **21.00**  ·  Elijah Adebayo - 1 **1.06**  ·  Brian De Keersmaecker - 1 **1.22**  ·  Elijah Adebayo - 2 **1.33**  ·  Brian De Keersmaecker - 2 **1.91**  ·  Elijah Adebayo - 3 **1.91**  ·  Brian De Keersmaecker - 3 **3.75**  ·  Elijah Adebayo - 4 **3.25**  ·  Brian De Keersmaecker - 4 **8.00**  ·  Elijah Adebayo - 5 **6.00**  ·  Brian De Keersmaecker - 5 **19.00**  ·  Elijah Adebayo - 6 **11.00**  ·  Elijah Adebayo - 7 **21.00**  ·  Lisav Eissat - 4 **21.00**  ·  Elijah Adebayo - 8 **21.00**  ·  Gibson Yah - 4 **15.00**
+- **Goalkeeper Saves:** Gavin Bazunu - 2 **1.20**  ·  Gavin Bazunu - 3 **1.62**  ·  Gavin Bazunu - 4 **2.62**  ·  Gavin Bazunu - 5 **4.50**  ·  Gavin Bazunu - 6 **10.00**  ·  Bradley Collins - 2 **1.22**  ·  Bradley Collins - 3 **1.67**  ·  Bradley Collins - 4 **2.62**  ·  Bradley Collins - 5 **5.00**  ·  Bradley Collins - 6 **10.00**
+- **Anytime Goal Scorer:** Tomi Horvat **3.75**  ·  Jason Knight **7.00**  ·  Josh Sheehan **5.50**  ·  Eoin Toal **9.50**  ·  Maxwell Conway **15.00**  ·  Lorent Tolaj **2.50**  ·  Ethan Erhahon **12.00**  ·  Rio Cardines **9.50**  ·  Gibson Yah **7.00**  ·  Lisav Eissat **9.50**  ·  Elijah Adebayo **2.75**  ·  Jed Wallace **5.50**  ·  Ruben Rodrigues **4.00**  ·  Sam Bell **3.40**  ·  Scott Twine **3.40**  ·  Yu Hirakawa **3.75**  ·  Joe Williams **8.50**  ·  Luke McNally **11.00**  ·  Rob Dickie **11.00**  ·  Cameron Pring **11.00**  ·  Robert Atkinson **11.00**  ·  George Tanner **12.00**  ·  Theo Bair **3.40**  ·  Ryan Hardie **3.00**  ·  Adam Randell **8.50**  ·  Akin Famewo **11.00**  ·  Xavier Simons **5.50**  ·  Dominic Ballard **2.38**  ·  John McAtee **3.40**  ·  Lewis Brunt **12.00**  ·  Atsuki Ito **5.50**  ·  Chris Forino **9.50**  ·  Sam Dalby **3.40**  ·  Luca Stephenson **6.50**  ·  Jayden Nelson **3.75**  ·  Brian De Keersmaecker **5.50**  ·  David Watson **5.50**  ·  Noah Eile **12.00**  ·  Sam Greenwood **3.00**  ·  Gaizka Larrazabal **7.00**  ·  Thierry Gale **4.00**  ·  Max Lott **7.00**  ·  Ben Davies **15.00**  ·  Samuel Iling-Junior **4.00**  ·  Kyliane Dong **4.33**
+- **Player to Score or Assist:** Tomi Horvat **2.30**  ·  Jason Knight **4.00**  ·  Josh Sheehan **3.10**  ·  Eoin Toal **7.00**  ·  Maxwell Conway **6.50**  ·  Lorent Tolaj **1.91**  ·  Ethan Erhahon **5.00**  ·  Rio Cardines **3.00**  ·  Gibson Yah **4.00**  ·  Lisav Eissat **6.00**  ·  Elijah Adebayo **2.25**  ·  Jed Wallace **2.88**  ·  Ruben Rodrigues **2.30**  ·  Sam Bell **2.38**  ·  Scott Twine **2.10**  ·  Yu Hirakawa **2.38**  ·  Joe Williams **3.40**  ·  Luke McNally **6.50**  ·  Rob Dickie **7.50**  ·  Cameron Pring **4.00**  ·  Robert Atkinson **7.50**  ·  George Tanner **7.00**  ·  Theo Bair **2.40**  ·  Ryan Hardie **2.20**  ·  Adam Randell **4.33**  ·  Akin Famewo **7.50**  ·  Xavier Simons **3.50**  ·  Dominic Ballard **2.00**  ·  John McAtee **2.38**  ·  Lewis Brunt **8.50**  ·  Atsuki Ito **3.50**  ·  Chris Forino **6.50**  ·  Sam Dalby **2.38**  ·  Luca Stephenson **3.50**  ·  Jayden Nelson **2.20**  ·  Brian De Keersmaecker **2.75**  ·  David Watson **4.00**  ·  Noah Eile **6.50**  ·  Sam Greenwood **2.10**  ·  Gaizka Larrazabal **3.20**  ·  Thierry Gale **2.60**  ·  Max Lott **3.20**  ·  Ben Davies **9.50**  ·  Samuel Iling-Junior **2.50**  ·  Kyliane Dong **2.75**
 
 ## Estadísticas de equipo
 | | Bolton (total) | Bolton en casa | Bristol City (total) | Bristol City fuera |
@@ -191,44 +205,42 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | B. De Keersmaecker | M | 4 | 134 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,16 · córners esperados 10,2._
+_Goles esperados: local 1,31 · visitante 1,17 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 40% | 36% | 2.30 | -17% |
-| 1X2: X | 27% | 28% | 27% | 3.30 | -10% |
-| 1X2: 1 | 40% | 33% | 36% | 2.80 | +2% |
-| Doble oportunidad: X2 | 60% | 68% | 64% | 1.40 | -11% |
-| Doble oportunidad: 12 | 73% | 72% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 67% | 61% | 64% | 1.57 | +0% |
-| Ambos marcan: No | 50% | 41% | 45% | 2.25 | +2% |
-| Ambos marcan: Sí | 50% | 59% | 55% | 1.57 | -14% |
-| Goles más/menos: Más de 1.5 | 71% | 78% | 74% | 1.22 | -9% |
-| Goles más/menos: Más de 2.5 | 45% | 55% | 50% | 1.73 | -14% |
-| Goles más/menos: Más de 3.5 | 24% | 34% | 29% | 2.75 | -20% |
-| Goles más/menos: Menos de 1.5 | 29% | 22% | 26% | 4.33 | +11% |
-| Goles más/menos: Menos de 2.5 | 55% | 45% | 50% | 2.10 | +5% |
-| Goles más/menos: Menos de 3.5 | 76% | 66% | 71% | 1.44 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Goles del local: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles del local: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles del local: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles del local: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del visitante: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
-| Goles del visitante: Más de 1.5 | 32% | 46% | 39% | 2.00 | -21% |
-| Goles del visitante: Más de 2.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles del visitante: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +9% |
-| Goles del visitante: Menos de 1.5 | 68% | 54% | 61% | 1.73 | +5% |
-| Goles del visitante: Menos de 2.5 | 89% | 78% | 84% | 1.20 | +0% |
+| 1X2: 2 | 33% | 39% | 36% | 2.40 | -13% |
+| 1X2: X | 27% | 28% | 28% | 3.30 | -8% |
+| 1X2: 1 | 40% | 32% | 36% | 2.90 | +5% |
+| Doble oportunidad: X2 | 60% | 67% | 64% | 1.40 | -11% |
+| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
+| Doble oportunidad: 1X | 67% | 62% | 64% | 1.53 | -2% |
+| Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
+| Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
+| Goles más/menos: Más de 1.5 | 71% | 76% | 73% | 1.25 | -8% |
+| Goles más/menos: Más de 2.5 | 45% | 53% | 49% | 1.80 | -12% |
+| Goles más/menos: Más de 3.5 | 24% | 32% | 28% | 3.00 | -17% |
+| Goles más/menos: Menos de 1.5 | 29% | 24% | 27% | 4.00 | +6% |
+| Goles más/menos: Menos de 2.5 | 55% | 47% | 51% | 2.00 | +2% |
+| Goles más/menos: Menos de 3.5 | 76% | 68% | 72% | 1.40 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
+| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
+| Goles del local: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles del local: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
+| Goles del local: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
+| Goles del visitante: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Más de 1.5 | 33% | 44% | 38% | 2.10 | -19% |
+| Goles del visitante: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles del visitante: Menos de 1.5 | 67% | 56% | 62% | 1.67 | +3% |
 | Córners más/menos: Más de 10.5 | 43% | 49% | 46% | 1.91 | -13% |
 | Córners más/menos: Menos de 10.5 | 57% | 51% | 54% | 1.80 | -2% |
-| 1X2 descanso: 2 | 25% | 32% | 29% | 2.88 | -18% |
-| 1X2 descanso: X | 45% | 40% | 42% | 2.30 | -3% |
-| 1X2 descanso: 1 | 30% | 28% | 29% | 3.25 | -5% |
+| 1X2 descanso: 2 | 26% | 31% | 28% | 3.00 | -15% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
+| 1X2 descanso: 1 | 30% | 27% | 29% | 3.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Levski Sofia – Jagiellonia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · National Stadium Vasil Levski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Youssuf Sylla | F | 1 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,12 · córners esperados 9,5._
+_Goles esperados: local 1,31 · visitante 1,12 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

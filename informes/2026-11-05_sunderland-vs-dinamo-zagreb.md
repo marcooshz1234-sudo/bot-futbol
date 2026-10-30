@@ -1,7 +1,7 @@
 # Sunderland – Dinamo Zagreb
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Iker Almena | M | 3 | 133 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,95 · visitante 1,13 · córners esperados 9,8._
+_Goles esperados: local 1,92 · visitante 1,13 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

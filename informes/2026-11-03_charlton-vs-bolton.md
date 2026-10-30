@@ -1,7 +1,7 @@
 # Charlton – Bolton
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | A. Ito | M | 6 | 247 | 2 | 0 | 3 | 0,5 | 2 | 0,3 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,30 · visitante 1,34 · córners esperados 10,1._
+_Goles esperados: local 1,29 · visitante 1,36 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

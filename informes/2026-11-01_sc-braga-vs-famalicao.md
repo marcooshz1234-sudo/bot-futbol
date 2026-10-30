@@ -1,10 +1,10 @@
 # SC Braga – Famalicao
-**Primeira Liga** · Regular Season - 10 · 01/11/2026 21:30 (hora España)
+**Primeira Liga** · Regular Season - 10 · 01/11/2026 21:30 (hora España) · Estádio Municipal de Braga
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 19:56_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.10**
@@ -180,41 +180,41 @@ _Sin bajas comunicadas por ahora._
 | Leny Meyer | D | 4 | 91 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 0,55 · córners esperados 9,1._
+_Goles esperados: local 1,40 · visitante 0,56 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 20% | 17% | 4.75 | -19% |
-| 1X2: X | 27% | 25% | 26% | 3.70 | -3% |
-| 1X2: 1 | 58% | 55% | 57% | 1.70 | -4% |
-| Doble oportunidad: X2 | 42% | 45% | 43% | 2.10 | -9% |
-| Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 86% | 81% | 83% | 1.18 | -2% |
+| 1X2: 2 | 15% | 20% | 17% | 4.75 | -18% |
+| 1X2: X | 27% | 25% | 26% | 3.70 | -2% |
+| 1X2: 1 | 58% | 55% | 56% | 1.70 | -4% |
+| Doble oportunidad: X2 | 42% | 45% | 44% | 2.10 | -8% |
+| Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
+| Doble oportunidad: 1X | 85% | 81% | 83% | 1.18 | -2% |
 | Ambos marcan: No | 68% | 52% | 60% | 1.80 | +8% |
 | Ambos marcan: Sí | 32% | 48% | 40% | 1.95 | -22% |
-| Goles más/menos: Más de 1.5 | 59% | 71% | 65% | 1.33 | -14% |
-| Goles más/menos: Más de 2.5 | 32% | 46% | 39% | 2.05 | -20% |
-| Goles más/menos: Más de 3.5 | 14% | 25% | 19% | 3.75 | -27% |
-| Goles más/menos: Menos de 1.5 | 41% | 29% | 35% | 3.25 | +14% |
-| Goles más/menos: Menos de 2.5 | 68% | 54% | 61% | 1.75 | +7% |
-| Goles más/menos: Menos de 3.5 | 86% | 75% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 57% | 66% | 62% | 1.40 | -13% |
+| Goles más/menos: Más de 1.5 | 58% | 71% | 65% | 1.33 | -14% |
+| Goles más/menos: Más de 2.5 | 31% | 46% | 39% | 2.05 | -21% |
+| Goles más/menos: Más de 3.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles más/menos: Menos de 1.5 | 42% | 29% | 35% | 3.25 | +15% |
+| Goles más/menos: Menos de 2.5 | 69% | 54% | 61% | 1.75 | +7% |
+| Goles más/menos: Menos de 3.5 | 87% | 75% | 81% | 1.25 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 57% | 66% | 62% | 1.40 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 21% | 31% | 26% | 3.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 43% | 34% | 38% | 2.75 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
-| Goles del local: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
-| Goles del local: Más de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Goles del local: Más de 2.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles del local: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -1% |
-| Goles del local: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
-| Goles del local: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles del visitante: Más de 0.5 | 42% | 58% | 50% | 1.62 | -19% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +1% |
+| Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles del local: Más de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Goles del local: Más de 2.5 | 17% | 23% | 20% | 4.00 | -20% |
+| Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
+| Goles del local: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -0% |
+| Goles del local: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -2% |
+| Goles del visitante: Más de 0.5 | 43% | 58% | 50% | 1.62 | -19% |
 | Goles del visitante: Más de 1.5 | 11% | 23% | 17% | 4.00 | -32% |
-| Goles del visitante: Menos de 0.5 | 58% | 42% | 50% | 2.20 | +10% |
+| Goles del visitante: Menos de 0.5 | 57% | 42% | 50% | 2.20 | +10% |
 | Goles del visitante: Menos de 1.5 | 89% | 77% | 83% | 1.22 | +1% |
-| 1X2 descanso: X | 49% | 42% | 46% | 2.20 | +0% |
-| 1X2 descanso: 1 | 39% | 39% | 39% | 2.38 | -8% |
+| 1X2 descanso: X | 49% | 42% | 46% | 2.20 | +1% |
+| 1X2 descanso: 1 | 38% | 39% | 39% | 2.38 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

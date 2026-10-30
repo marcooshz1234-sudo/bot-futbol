@@ -1,10 +1,10 @@
 {
- "generado": "2026-10-29 19:58",
+ "generado": "2026-10-30 02:06",
  "estilos": {
   "escalera": {
-   "nota": 1.162,
-   "posts_threads": 2,
-   "resultados": 4,
+   "nota": 1.03,
+   "posts_threads": 3,
+   "resultados": 5,
    "verdes": 1
   },
   "datos-rachas": {
@@ -14,13 +14,13 @@
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 1.144,
+   "nota": 1.186,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 1.371,
+   "nota": 1.412,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
@@ -56,8 +56,8 @@
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 0.968,
-   "posts_threads": 1,
+   "nota": 0.991,
+   "posts_threads": 2,
    "resultados": 1,
    "verdes": 0
   },
@@ -87,6 +87,24 @@
   },
   "combi-partido-1550172": {
    "nota": 1.0,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550170": {
+   "nota": 1.217,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1640385": {
+   "nota": 0.911,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550169": {
+   "nota": 0.915,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0

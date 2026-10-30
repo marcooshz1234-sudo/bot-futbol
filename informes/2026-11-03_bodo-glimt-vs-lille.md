@@ -1,7 +1,7 @@
 # Bodo/Glimt – Lille
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_
@@ -175,42 +175,42 @@ _Sin precedentes recientes._
 | S. Diaoune | F | 4 | 171 | 2 | 1 | 3 | 0,8 | 3 | 0,8 | 3 | 2 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,52 · visitante 1,04 · córners esperados 9,3._
+_Goles esperados: local 2,48 · visitante 1,06 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 24% | 19% | 3.90 | -26% |
+| 1X2: 2 | 14% | 24% | 19% | 3.90 | -25% |
 | 1X2: X | 17% | 25% | 21% | 3.75 | -21% |
-| 1X2: 1 | 70% | 51% | 60% | 1.85 | +11% |
-| Doble oportunidad: X2 | 30% | 49% | 40% | 1.91 | -24% |
+| 1X2: 1 | 68% | 51% | 60% | 1.85 | +10% |
+| Doble oportunidad: X2 | 32% | 49% | 40% | 1.91 | -23% |
 | Doble oportunidad: 12 | 83% | 75% | 79% | 1.25 | -1% |
 | Doble oportunidad: 1X | 86% | 75% | 81% | 1.25 | +1% |
-| Ambos marcan: No | 41% | 35% | 38% | 2.62 | -0% |
-| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
-| Goles más/menos: Más de 2.5 | 69% | 64% | 66% | 1.50 | -0% |
-| Goles más/menos: Más de 3.5 | 48% | 43% | 45% | 2.20 | -0% |
-| Goles más/menos: Más de 4.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 31% | 36% | 34% | 2.62 | -12% |
-| Goles más/menos: Menos de 3.5 | 52% | 57% | 55% | 1.67 | -9% |
-| Goles más/menos: Menos de 4.5 | 71% | 75% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 72% | 59% | 65% | 1.57 | +3% |
-| Goles del local: Más de 2.5 | 46% | 34% | 40% | 2.75 | +10% |
-| Goles del local: Menos de 1.5 | 28% | 41% | 35% | 2.25 | -22% |
-| Goles del local: Menos de 2.5 | 54% | 66% | 60% | 1.40 | -16% |
-| Goles del visitante: Más de 0.5 | 65% | 73% | 69% | 1.28 | -12% |
-| Goles del visitante: Más de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
-| Goles del visitante: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +9% |
-| Goles del visitante: Menos de 1.5 | 72% | 61% | 66% | 1.53 | +2% |
-| 1X2 descanso: 2 | 15% | 25% | 20% | 3.75 | -26% |
-| 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -12% |
-| 1X2 descanso: 1 | 52% | 39% | 45% | 2.38 | +7% |
+| Ambos marcan: No | 40% | 35% | 38% | 2.62 | -1% |
+| Ambos marcan: Sí | 60% | 65% | 62% | 1.44 | -10% |
+| Goles más/menos: Más de 2.5 | 69% | 64% | 66% | 1.50 | -1% |
+| Goles más/menos: Más de 3.5 | 47% | 43% | 45% | 2.20 | -1% |
+| Goles más/menos: Más de 4.5 | 28% | 25% | 27% | 3.75 | +1% |
+| Goles más/menos: Menos de 2.5 | 31% | 36% | 34% | 2.62 | -11% |
+| Goles más/menos: Menos de 3.5 | 53% | 57% | 55% | 1.67 | -8% |
+| Goles más/menos: Menos de 4.5 | 72% | 75% | 73% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
+| Goles del local: Más de 2.5 | 45% | 34% | 39% | 2.75 | +8% |
+| Goles del local: Menos de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
+| Goles del local: Menos de 2.5 | 55% | 66% | 61% | 1.40 | -15% |
+| Goles del visitante: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
+| Goles del visitante: Más de 1.5 | 29% | 39% | 34% | 2.38 | -20% |
+| Goles del visitante: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +8% |
+| Goles del visitante: Menos de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
+| 1X2 descanso: 2 | 16% | 25% | 20% | 3.75 | -25% |
+| 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -12% |
+| 1X2 descanso: 1 | 51% | 39% | 45% | 2.38 | +6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

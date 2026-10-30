@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 135 · aciertos: 82 (61%) · beneficio a 1 € por pick: -21.03 €
+Picks ya jugados: 144 · aciertos: 88 (61%) · beneficio a 1 € por pick: -22.16 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 19 | 27 | 70% | -0.89 € |
-| jugador | 19 | 28 | 68% | -1.65 € |
-| goles | 40 | 68 | 59% | -13.19 € |
+| resultado | 21 | 30 | 70% | -1.11 € |
+| jugador | 21 | 31 | 68% | -2.09 € |
+| goles | 42 | 71 | 59% | -13.66 € |
 | tiros | 2 | 4 | 50% | -0.47 € |
 | tarjetas | 2 | 5 | 40% | -1.83 € |
 | corners | 0 | 1 | 0% | -1.00 € |
@@ -22,14 +22,25 @@ Picks ya jugados: 135 · aciertos: 82 (61%) · beneficio a 1 € por pick: -21.0
 | Double Chance · Draw/Away | 4 | 5 | 80% |
 | Total - Home · Over 0.5 | 3 | 4 | 75% |
 | Goals Over/Under · Over 1.5 | 8 | 11 | 73% |
-| Double Chance · Home/Away | 11 | 16 | 69% |
-| Goals Over/Under First Half · Over 0.5 | 9 | 14 | 64% |
+| Double Chance · Home/Away | 12 | 18 | 67% |
+| Goals Over/Under First Half · Over 0.5 | 10 | 15 | 67% |
+| Total - Away · Over 0.5 | 8 | 14 | 57% |
 | Both Teams Score · Yes | 4 | 7 | 57% |
-| Total - Away · Over 0.5 | 7 | 13 | 54% |
 | Goals Over/Under · Over 2.5 | 4 | 8 | 50% |
 | Goals Over/Under - Second Half · Over 0.5 | 1 | 5 | 20% |
 
 ## Últimos días
+
+### 2026-10-29 · 6/9
+- ✅ Gol en la 1ª parte del Frosinone–Lecce · 1.28 (5-1)
+- ✅ No hay empate en Frosinone–Lecce · 1.28 (5-1)
+- ✅ Frosinone gana alguna de las dos partes · 1.50 (5-1)
+- ❌ No hay empate en Fiorentina–Atalanta · 1.30 (2-2)
+- ✅ Atalanta marca · 1.25 (2-2)
+- ✅ Thierno Barry: 2+ tiros · 1.28 (3-1)
+- ✅ Thierno Barry: 1+ tiros a puerta · 1.28 (3-1)
+- ❌ Radu Dragusin comete 1+ faltas · 1.50 (2-2)
+- ❌ Groningen marca 2 o más · 1.40 (0-2)
 
 ### 2026-10-28 · 20/35
 - ❌ Gol en la 2ª parte del Parma–Udinese · 1.28 (0-0)

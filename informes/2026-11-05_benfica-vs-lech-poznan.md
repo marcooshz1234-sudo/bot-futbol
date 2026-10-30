@@ -1,7 +1,7 @@
 # Benfica – Lech Poznan
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Gisli Thordarson | M | 1 | 22 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,94 · visitante 1,39 · córners esperados 9,7._
+_Goles esperados: local 3,90 · visitante 1,41 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

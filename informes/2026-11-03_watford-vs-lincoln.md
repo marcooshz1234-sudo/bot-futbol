@@ -1,7 +1,7 @@
 # Watford – Lincoln
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Tendayi Darikwa | D | 3 | 239 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,53 · córners esperados 9,6._
+_Goles esperados: local 1,07 · visitante 1,54 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

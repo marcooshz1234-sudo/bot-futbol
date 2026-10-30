@@ -1,10 +1,10 @@
 # Tottenham – Crystal Palace
 **Premier League** · Regular Season - 9 · 31/10/2026 18:30 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
@@ -134,7 +134,7 @@ _Actualizadas: 29/10 14:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Tottenham:** R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury); D. Udogie (duda, Knee Injury); R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury); D. Udogie (duda, Knee Injury)
+**Tottenham:** R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury); R. Bentancur (baja, Red Card); M. Mudryk (baja, Ankle Injury); W. Odobert (baja, Knee Injury); X. Simons (baja, Knee Injury); None (baja, Muscle Injury); T. Adarabioyo (duda, Calf Injury); L. Bergvall (duda, Knee Injury); J. Maddison (duda, Groin Injury)
 **Crystal Palace:** C. Riad (baja, Knee Injury); T. Tomiyasu (baja, Calf Injury); J. Larsen (duda, Ankle Injury); I. Sarr (duda, Groin Injury); Q. Timber (duda, Hamstring Injury); C. Riad (baja, Knee Injury); T. Tomiyasu (baja, Calf Injury); J. Larsen (duda, Ankle Injury); I. Sarr (duda, Groin Injury); Q. Timber (duda, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
@@ -214,39 +214,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Mateta | F | 4 | 215 | 1 | 0 | 8 | 2,0 | 4 | 1,0 | 4 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,28 · córners esperados 10,0._
+_Goles esperados: local 1,34 · visitante 1,28 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 17% | 26% | 5.50 | +43% |
-| 1X2: X | 26% | 20% | 23% | 4.75 | +9% |
-| 1X2: 1 | 39% | 63% | 51% | 1.50 | -23% |
-| Doble oportunidad: X2 ✅ | 61% | 38% | 49% | 2.50 | +23% |
+| 1X2: 2 | 35% | 17% | 26% | 5.50 | +44% |
+| 1X2: X | 26% | 20% | 23% | 4.75 | +10% |
+| 1X2: 1 | 38% | 63% | 51% | 1.50 | -24% |
+| Doble oportunidad: X2 ✅ | 62% | 38% | 50% | 2.50 | +24% |
 | Doble oportunidad: 12 | 74% | 80% | 77% | 1.18 | -9% |
 | Doble oportunidad: 1X | 65% | 83% | 74% | 1.14 | -16% |
-| Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
-| Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -8% |
-| Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -14% |
-| Goles más/menos: Más de 3.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles más/menos: Más de 4.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles más/menos: Menos de 2.5 | 50% | 40% | 45% | 2.38 | +7% |
-| Goles más/menos: Menos de 3.5 | 72% | 62% | 67% | 1.53 | +3% |
-| Goles más/menos: Menos de 4.5 | 87% | 78% | 82% | 1.22 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -0% |
-| Goles del local: Más de 1.5 | 40% | 62% | 51% | 1.50 | -23% |
-| Goles del local: Más de 2.5 | 16% | 35% | 26% | 2.62 | -33% |
-| Goles del local: Menos de 1.5 ✅ | 60% | 38% | 49% | 2.50 | +22% |
-| Goles del local: Menos de 2.5 | 84% | 65% | 74% | 1.44 | +7% |
+| Ambos marcan: No | 47% | 44% | 45% | 2.10 | -4% |
+| Ambos marcan: Sí | 53% | 56% | 55% | 1.67 | -9% |
+| Goles más/menos: Más de 2.5 | 49% | 60% | 54% | 1.57 | -14% |
+| Goles más/menos: Más de 3.5 | 27% | 38% | 32% | 2.50 | -19% |
+| Goles más/menos: Más de 4.5 | 13% | 22% | 17% | 4.33 | -25% |
+| Goles más/menos: Menos de 2.5 | 51% | 40% | 46% | 2.38 | +8% |
+| Goles más/menos: Menos de 3.5 | 73% | 62% | 68% | 1.53 | +3% |
+| Goles más/menos: Menos de 4.5 | 87% | 78% | 83% | 1.22 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 41% | 36% | 2.25 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 59% | 64% | 1.57 | +0% |
+| Goles del local: Más de 1.5 | 39% | 62% | 51% | 1.50 | -24% |
+| Goles del local: Más de 2.5 | 15% | 35% | 25% | 2.62 | -34% |
+| Goles del local: Menos de 1.5 ✅ | 61% | 38% | 49% | 2.50 | +23% |
+| Goles del local: Menos de 2.5 | 85% | 65% | 75% | 1.44 | +7% |
 | Goles del visitante: Más de 0.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles del visitante: Más de 1.5 | 37% | 28% | 32% | 3.40 | +9% |
 | Goles del visitante: Menos de 0.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles del visitante: Menos de 1.5 | 63% | 72% | 68% | 1.30 | -12% |
 | Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
-| 1X2 descanso: 1 | 30% | 46% | 38% | 2.00 | -24% |
+| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | +0% |
+| 1X2 descanso: 1 | 29% | 46% | 38% | 2.00 | -25% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin precedentes recientes._
 | E. Poku | F | 1 | 20 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,60 · visitante 2,30 · córners esperados 9,6._
+_Goles esperados: local 0,60 · visitante 2,31 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

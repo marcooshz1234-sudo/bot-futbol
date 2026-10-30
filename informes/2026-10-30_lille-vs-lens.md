@@ -1,71 +1,76 @@
 # Lille – Lens
 **Ligue 1** · Regular Season - 9 · 30/10/2026 21:05 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:02_
 
-- **1X2:** 1 **2.55**  ·  X **3.60**  ·  2 **2.62**
-- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.53**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **1X2:** 1 **2.55**  ·  X **3.50**  ·  2 **2.70**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
-- **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
+    - 4,5: más **1.73** · menos **2.00**
     - 5,5: más **2.20** · menos **1.62**
-- **1X2 descanso:** 1 **3.10**  ·  X **2.30**  ·  2 **3.20**
+- **1X2 descanso:** 1 **3.10**  ·  X **2.25**  ·  2 **3.20**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.73**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **3.50**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.50**
 - **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.00**  ·  Draw/No **13.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.00**  ·  Draw/No **12.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.62**
 - **Home Corners Over/Under:**
-    - 4,5: más **1.73** · menos **2.00**
+    - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
-    - 4,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
+- **Home Team Total Cards:**
+    - 2,5: más **1.91** · menos **1.80**
+- **Away Team Total Cards:**
+    - 2,5: más **1.91** · menos **1.80**
 - **Total ShotOnGoal:**
     - 8,5: más **1.67** · menos **2.10**
 - **ShotOnTarget 1x2:** 1 **1.80**  ·  X **7.50**  ·  2 **2.38**
 - **Total Shots:**
+    - 24,5: más **1.80** · menos **1.91**
     - 25,5: más **1.80** · menos **1.91**
 - **Shots.1x2:** 1 **1.62**  ·  X **15.00**  ·  2 **2.38**
 - **Home Player Shots On Target Total:** Ayase Ueda - 2 **2.38**  ·  Ayase Ueda - 3 **5.50**  ·  Ayase Ueda - 4 **15.00**  ·  Ayase Ueda - 1 **1.28**  ·  Olivier Giroud - 1 **1.53**  ·  Soriba Diaoune - 1 **1.53**  ·  Hakon Arnar Haraldsson - 1 **2.00**  ·  Osame Sahraoui - 1 **1.80**  ·  Gaetan Perrin - 1 **1.67**  ·  Basar Onal - 1 **1.67**  ·  Ethan Mbappe - 1 **1.44**  ·  Romain Perraud - 1 **2.38**  ·  Calvin Verdonk - 1 **6.50**  ·  Ngal'ayel Mukau - 1 **3.50**  ·  Tiago Santos - 1 **4.00**  ·  Benjamin Andre - 1 **5.00**  ·  Nabil Bentaleb - 1 **2.62**  ·  Isaac Cossier - 1 **6.50**  ·  Loun Srdanovic - 1 **5.00**  ·  Nathan Ngoy - 1 **5.00**  ·  Alexsandro Victor - 1 **3.50**  ·  Olivier Giroud - 2 **3.50**  ·  Soriba Diaoune - 2 **3.50**  ·  Hakon Arnar Haraldsson - 2 **6.50**  ·  Osame Sahraoui - 2 **5.50**  ·  Gaetan Perrin - 2 **4.33**  ·  Basar Onal - 2 **4.33**  ·  Ethan Mbappe - 2 **3.25**  ·  Romain Perraud - 2 **10.00**  ·  Calvin Verdonk - 2 **11.00**  ·  Ngal'ayel Mukau - 2 **19.00**  ·  Tiago Santos - 2 **21.00**  ·  Benjamin Andre - 2 **11.00**  ·  Nabil Bentaleb - 2 **11.00**  ·  Isaac Cossier - 2 **17.00**  ·  Loun Srdanovic - 2 **19.00**  ·  Nathan Ngoy - 2 **19.00**  ·  Alexsandro Victor - 2 **19.00**  ·  Olivier Giroud - 3 **11.00**  ·  Soriba Diaoune - 3 **11.00**  ·  Hakon Arnar Haraldsson - 3 **21.00**  ·  Osame Sahraoui - 3 **19.00**  ·  Gaetan Perrin - 3 **15.00**  ·  Basar Onal - 3 **15.00**  ·  Ethan Mbappe - 3 **9.00**  ·  Olivier Giroud - 4 **17.00**  ·  Soriba Diaoune - 4 **21.00**  ·  Osame Sahraoui - 4 **21.00**  ·  Ethan Mbappe - 4 **21.00**  ·  Dilane Bakwa - 1 **1.62**  ·  Dilane Bakwa - 2 **4.00**  ·  Dilane Bakwa - 3 **13.00**  ·  Dilane Bakwa - 4 **21.00**  ·  Maurits Kjaergaard - 1 **3.50**  ·  Maurits Kjaergaard - 2 **19.00**  ·  Maurits Kjaergaard - 3 **21.00**  ·  Tanguy Kouassi - 1 **5.50**  ·  Tanguy Kouassi - 2 **19.00**
 - **Away Player Shots Total:**
     - 11,5: más **1.80** · menos **1.91**
-- **Home Player Shots:** Ayase Ueda - 2 **1.14**  ·  Ayase Ueda - 3 **1.44**  ·  Ayase Ueda - 4 **2.10**  ·  Ayase Ueda - 5 **3.40**  ·  Ayase Ueda - 6 **6.00**  ·  Ayase Ueda - 7 **11.00**  ·  Ayase Ueda - 8 **19.00**  ·  Ayase Ueda - 9 **21.00**  ·  Ayase Ueda - 1 **1.02**  ·  Olivier Giroud - 1 **1.07**  ·  Soriba Diaoune - 1 **1.07**  ·  Hakon Arnar Haraldsson - 1 **1.14**  ·  Osame Sahraoui - 1 **1.12**  ·  Gaetan Perrin - 1 **1.18**  ·  Basar Onal - 1 **1.18**  ·  Ethan Mbappe - 1 **1.11**  ·  Romain Perraud - 1 **1.44**  ·  Calvin Verdonk - 1 **2.75**  ·  Ngal'ayel Mukau - 1 **1.44**  ·  Tiago Santos - 1 **1.44**  ·  Benjamin Andre - 1 **1.57**  ·  Nabil Bentaleb - 1 **1.30**  ·  Isaac Cossier - 1 **2.25**  ·  Loun Srdanovic - 1 **2.25**  ·  Nathan Ngoy - 1 **1.91**  ·  Alexsandro Victor - 1 **1.57**  ·  Olivier Giroud - 2 **1.36**  ·  Soriba Diaoune - 2 **1.36**  ·  Hakon Arnar Haraldsson - 2 **1.67**  ·  Osame Sahraoui - 2 **1.57**  ·  Gaetan Perrin - 2 **1.80**  ·  Basar Onal - 2 **1.80**  ·  Ethan Mbappe - 2 **1.50**  ·  Romain Perraud - 2 **3.00**  ·  Calvin Verdonk - 2 **11.00**  ·  Ngal'ayel Mukau - 2 **3.00**  ·  Tiago Santos - 2 **3.00**  ·  Benjamin Andre - 2 **3.50**  ·  Nabil Bentaleb - 2 **2.38**  ·  Isaac Cossier - 2 **7.00**  ·  Loun Srdanovic - 2 **7.00**  ·  Nathan Ngoy - 2 **5.50**  ·  Alexsandro Victor - 2 **3.50**  ·  Olivier Giroud - 3 **2.10**  ·  Soriba Diaoune - 3 **2.10**  ·  Hakon Arnar Haraldsson - 3 **3.00**  ·  Osame Sahraoui - 3 **2.62**  ·  Gaetan Perrin - 3 **3.40**  ·  Basar Onal - 3 **3.40**  ·  Ethan Mbappe - 3 **2.50**  ·  Romain Perraud - 3 **8.00**  ·  Calvin Verdonk - 3 **5.00**  ·  Ngal'ayel Mukau - 3 **8.00**  ·  Tiago Santos - 3 **8.00**  ·  Benjamin Andre - 3 **10.00**  ·  Nabil Bentaleb - 3 **5.00**  ·  Isaac Cossier - 3 **21.00**  ·  Loun Srdanovic - 3 **21.00**  ·  Nathan Ngoy - 3 **17.00**  ·  Alexsandro Victor - 3 **10.00**  ·  Olivier Giroud - 4 **3.75**  ·  Soriba Diaoune - 4 **3.75**  ·  Hakon Arnar Haraldsson - 4 **6.00**  ·  Osame Sahraoui - 4 **5.50**  ·  Gaetan Perrin - 4 **7.00**  ·  Basar Onal - 4 **7.00**  ·  Ethan Mbappe - 4 **4.50**  ·  Romain Perraud - 4 **19.00**  ·  Calvin Verdonk - 4 **13.00**  ·  Ngal'ayel Mukau - 4 **19.00**  ·  Tiago Santos - 4 **19.00**  ·  Benjamin Andre - 4 **21.00**  ·  Olivier Giroud - 5 **7.00**  ·  Soriba Diaoune - 5 **7.00**  ·  Hakon Arnar Haraldsson - 5 **13.00**  ·  Osame Sahraoui - 5 **11.00**  ·  Gaetan Perrin - 5 **17.00**  ·  Basar Onal - 5 **17.00**  ·  Olivier Giroud - 6 **15.00**  ·  Soriba Diaoune - 6 **15.00**  ·  Hakon Arnar Haraldsson - 6 **21.00**  ·  Osame Sahraoui - 6 **21.00**  ·  Olivier Giroud - 7 **21.00**  ·  Ethan Mbappe - 5 **10.00**  ·  Gaetan Perrin - 6 **13.00**  ·  Dilane Bakwa - 1 **1.14**  ·  Dilane Bakwa - 2 **1.67**  ·  Dilane Bakwa - 3 **3.00**  ·  Dilane Bakwa - 4 **6.00**  ·  Nabil Bentaleb - 4 **13.00**  ·  Dilane Bakwa - 5 **13.00**  ·  Ngal'ayel Mukau - 5 **21.00**  ·  Dilane Bakwa - 6 **21.00**  ·  Ethan Mbappe - 6 **19.00**  ·  Basar Onal - 6 **17.00**  ·  Soriba Diaoune - 7 **21.00**  ·  Hakon Arnar Haraldsson - 7 **17.00**  ·  Osame Sahraoui - 7 **21.00**  ·  Gaetan Perrin - 7 **21.00**  ·  Olivier Giroud - 8 **21.00**  ·  Maurits Kjaergaard - 1 **1.14**  ·  Maurits Kjaergaard - 2 **1.67**  ·  Maurits Kjaergaard - 3 **3.00**  ·  Maurits Kjaergaard - 4 **6.00**  ·  Isaac Cossier - 4 **21.00**  ·  Alexsandro Victor - 4 **21.00**  ·  Maurits Kjaergaard - 5 **13.00**  ·  Nabil Bentaleb - 5 **21.00**  ·  Tiago Santos - 5 **21.00**  ·  Calvin Verdonk - 5 **21.00**  ·  Maurits Kjaergaard - 6 **21.00**  ·  Dilane Bakwa - 7 **21.00**  ·  Tanguy Kouassi - 1 **2.50**  ·  Tanguy Kouassi - 2 **9.00**  ·  Tanguy Kouassi - 3 **21.00**
-- **Away Player Shots:** Jean-Clair Todibo - 1 **3.25**  ·  Jean-Clair Todibo - 2 **13.00**  ·  Jean-Clair Todibo - 3 **13.00**  ·  Franjo Ivanovic - 1 **1.11**  ·  Florian Sotoca - 1 **1.14**  ·  Odsonne Edouard - 1 **1.11**  ·  Florian Thauvin - 1 **1.10**  ·  Thorgan Hazard - 1 **1.20**  ·  Abdallah Sima - 1 **1.05**  ·  Michal Skoras - 1 **1.40**  ·  Mickael Cuisance - 1 **1.40**  ·  Andrija Bulatovic - 1 **1.57**  ·  Mezian Mesloub - 1 **1.73**  ·  Ruben Aguilar - 1 **2.50**  ·  Saud Abdulhamid - 1 **2.10**  ·  Amadou Haidara - 1 **2.50**  ·  Matthieu Udol - 1 **1.33**  ·  Yacine Titraoui - 1 **1.28**  ·  Pierre Ganiou - 1 **1.73**  ·  Jonathan Gradit - 1 **3.25**  ·  Nidel Celik - 1 **3.25**  ·  Kyllian Antonio - 1 **3.25**  ·  Souleymane Sagnan - 1 **3.25**  ·  Franjo Ivanovic - 2 **1.53**  ·  Florian Sotoca - 2 **1.67**  ·  Odsonne Edouard - 2 **1.53**  ·  Florian Thauvin - 2 **1.44**  ·  Thorgan Hazard - 2 **1.83**  ·  Abdallah Sima - 2 **1.28**  ·  Michal Skoras - 2 **2.75**  ·  Mickael Cuisance - 2 **2.75**  ·  Andrija Bulatovic - 2 **3.50**  ·  Mezian Mesloub - 2 **4.33**  ·  Ruben Aguilar - 2 **9.00**  ·  Saud Abdulhamid - 2 **6.50**  ·  Amadou Haidara - 2 **9.00**  ·  Matthieu Udol - 2 **2.50**  ·  Yacine Titraoui - 2 **2.20**  ·  Pierre Ganiou - 2 **4.33**  ·  Jonathan Gradit - 2 **13.00**  ·  Nidel Celik - 2 **13.00**  ·  Kyllian Antonio - 2 **13.00**  ·  Souleymane Sagnan - 2 **13.00**  ·  Franjo Ivanovic - 3 **2.50**  ·  Florian Sotoca - 3 **3.00**  ·  Odsonne Edouard - 3 **2.50**  ·  Florian Thauvin - 3 **2.25**  ·  Thorgan Hazard - 3 **3.75**  ·  Abdallah Sima - 3 **1.83**  ·  Michal Skoras - 3 **6.50**  ·  Mickael Cuisance - 3 **6.50**  ·  Andrija Bulatovic - 3 **10.00**  ·  Mezian Mesloub - 3 **13.00**  ·  Ruben Aguilar - 3 **21.00**  ·  Saud Abdulhamid - 3 **21.00**  ·  Amadou Haidara - 3 **21.00**  ·  Matthieu Udol - 3 **5.50**  ·  Yacine Titraoui - 3 **4.50**  ·  Pierre Ganiou - 3 **13.00**  ·  Jonathan Gradit - 3 **13.00**  ·  Nidel Celik - 3 **13.00**  ·  Kyllian Antonio - 3 **19.00**  ·  Souleymane Sagnan - 3 **19.00**  ·  Franjo Ivanovic - 4 **4.50**  ·  Florian Sotoca - 4 **6.00**  ·  Odsonne Edouard - 4 **4.50**  ·  Florian Thauvin - 4 **4.33**  ·  Thorgan Hazard - 4 **8.00**  ·  Abdallah Sima - 4 **3.00**  ·  Michal Skoras - 4 **17.00**  ·  Mickael Cuisance - 4 **17.00**  ·  Andrija Bulatovic - 4 **21.00**  ·  Mezian Mesloub - 4 **4.50**  ·  Ruben Aguilar - 4 **17.00**  ·  Saud Abdulhamid - 4 **19.00**  ·  Amadou Haidara - 4 **21.00**  ·  Matthieu Udol - 4 **13.00**  ·  Yacine Titraoui - 4 **11.00**  ·  Franjo Ivanovic - 5 **10.00**  ·  Florian Sotoca - 5 **13.00**  ·  Odsonne Edouard - 5 **10.00**  ·  Florian Thauvin - 5 **9.00**  ·  Thorgan Hazard - 5 **19.00**  ·  Abdallah Sima - 5 **5.50**  ·  Michal Skoras - 5 **15.00**  ·  Mickael Cuisance - 5 **15.00**  ·  Andrija Bulatovic - 5 **21.00**  ·  Mezian Mesloub - 5 **10.00**  ·  Franjo Ivanovic - 6 **21.00**  ·  Florian Sotoca - 6 **21.00**  ·  Odsonne Edouard - 6 **21.00**  ·  Florian Thauvin - 6 **19.00**  ·  Thorgan Hazard - 6 **11.00**  ·  Abdallah Sima - 6 **11.00**  ·  Franjo Ivanovic - 7 **15.00**  ·  Florian Sotoca - 7 **17.00**  ·  Odsonne Edouard - 7 **17.00**  ·  Florian Thauvin - 7 **17.00**  ·  Thorgan Hazard - 7 **21.00**  ·  Abdallah Sima - 7 **21.00**  ·  Franjo Ivanovic - 8 **21.00**  ·  Yacine Titraoui - 5 **21.00**  ·  Mezian Mesloub - 6 **19.00**  ·  Junior Kadile - 1 **1.08**  ·  Junior Kadile - 2 **1.40**  ·  Junior Kadile - 3 **2.20**  ·  Junior Kadile - 4 **3.75**  ·  Junior Kadile - 5 **8.00**  ·  Junior Kadile - 6 **15.00**
-- **Goalkeeper Saves:** Berke Ozer - 2 **1.25**  ·  Berke Ozer - 3 **1.73**  ·  Berke Ozer - 4 **3.00**  ·  Berke Ozer - 5 **5.50**  ·  Robin Risser - 3 **1.44**  ·  Robin Risser - 4 **2.10**  ·  Robin Risser - 5 **3.50**  ·  Robin Risser - 6 **6.50**  ·  Berke Ozer - 6 **11.00**  ·  Robin Risser - 2 **1.14**
-- **Anytime Goal Scorer:** Alexsandro Victor **10.00**  ·  Souleymane Sagnan **10.00**  ·  Osame Sahraoui **4.00**  ·  Ayase Ueda **2.60**  ·  Abdallah Sima **3.25**  ·  Andrija Bulatovic **5.50**  ·  Olivier Giroud **2.60**  ·  Loun Srdanovic **9.00**  ·  Calvin Verdonk **7.50**  ·  Maxima Goffi **8.00**  ·  Florian Sotoca **3.10**  ·  Gaetan Perrin **3.25**  ·  Hakon Arnar Haraldsson **3.40**  ·  Ethan Mbappe **4.50**  ·  Nabil Bentaleb **7.00**  ·  Benjamin Andre **7.50**  ·  Tiago Santos **7.50**  ·  Ngal'ayel Mukau **5.50**  ·  Dilane Bakwa **4.50**  ·  Ruben Aguilar **7.50**  ·  Kyllian Antonio **10.00**  ·  Jonathan Gradit **10.00**  ·  Franjo Ivanovic **2.88**  ·  Maurits Kjaergaard **4.75**  ·  Samson Baidoo **10.00**  ·  Michal Skoras **4.75**  ·  Odsonne Edouard **2.75**  ·  Yacine Titraoui **7.50**  ·  Nathan Ngoy **10.00**  ·  Basar Onal **4.00**  ·  Mickael Cuisance **5.50**  ·  Junior Kadile **4.00**  ·  Matah Yondjio **2.60**  ·  Pierre Ganiou **10.00**  ·  Mezian Mesloub **4.00**  ·  Isaac Cossier **8.00**  ·  Romain Perraud **7.50**  ·  Jean-Clair Todibo **10.00**  ·  Saud Abdulhamid **8.00**  ·  Tanguy Kouassi **10.00**  ·  Amadou Haidara **7.50**  ·  Florian Thauvin **3.10**  ·  Matthieu Udol **7.50**  ·  Thorgan Hazard **3.10**  ·  Nidel Celik **10.00**  ·  Soriba Diaoune **3.10**
-- **Player to Score or Assist:** Alexsandro Victor **6.50**  ·  Souleymane Sagnan **6.50**  ·  Osame Sahraoui **2.38**  ·  Ayase Ueda **2.20**  ·  Abdallah Sima **2.50**  ·  Andrija Bulatovic **3.75**  ·  Olivier Giroud **2.10**  ·  Loun Srdanovic **4.75**  ·  Calvin Verdonk **4.50**  ·  Maxima Goffi **5.50**  ·  Florian Sotoca **2.20**  ·  Gaetan Perrin **2.10**  ·  Hakon Arnar Haraldsson **2.20**  ·  Ethan Mbappe **2.75**  ·  Nabil Bentaleb **4.00**  ·  Benjamin Andre **3.75**  ·  Tiago Santos **4.33**  ·  Ngal'ayel Mukau **3.75**  ·  Dilane Bakwa **2.60**  ·  Ruben Aguilar **3.75**  ·  Kyllian Antonio **6.00**  ·  Jonathan Gradit **6.50**  ·  Franjo Ivanovic **2.25**  ·  Maurits Kjaergaard **2.60**  ·  Samson Baidoo **6.50**  ·  Michal Skoras **3.25**  ·  Odsonne Edouard **2.20**  ·  Yacine Titraoui **4.33**  ·  Nathan Ngoy **6.50**  ·  Basar Onal **2.50**  ·  Mickael Cuisance **3.60**  ·  Junior Kadile **2.60**  ·  Matah Yondjio **2.10**  ·  Pierre Ganiou **6.50**  ·  Mezian Mesloub **2.50**  ·  Isaac Cossier **5.50**  ·  Romain Perraud **3.10**  ·  Jean-Clair Todibo **6.50**  ·  Saud Abdulhamid **3.40**  ·  Tanguy Kouassi **7.50**  ·  Amadou Haidara **4.33**  ·  Florian Thauvin **2.10**  ·  Matthieu Udol **3.20**  ·  Thorgan Hazard **2.30**  ·  Nidel Celik **4.33**  ·  Soriba Diaoune **2.25**
+- **Home Player Shots:** Ayase Ueda - 2 **1.18**  ·  Ayase Ueda - 3 **1.53**  ·  Ayase Ueda - 4 **2.25**  ·  Ayase Ueda - 5 **3.75**  ·  Ayase Ueda - 6 **7.00**  ·  Ayase Ueda - 7 **13.00**  ·  Ayase Ueda - 8 **21.00**  ·  Ayase Ueda - 9 **21.00**  ·  Ayase Ueda - 1 **1.03**  ·  Olivier Giroud - 1 **1.10**  ·  Soriba Diaoune - 1 **1.10**  ·  Hakon Arnar Haraldsson - 1 **1.18**  ·  Osame Sahraoui - 1 **1.14**  ·  Gaetan Perrin - 1 **1.20**  ·  Basar Onal - 1 **1.20**  ·  Ethan Mbappe - 1 **1.12**  ·  Romain Perraud - 1 **1.53**  ·  Calvin Verdonk - 1 **3.00**  ·  Ngal'ayel Mukau - 1 **1.53**  ·  Tiago Santos - 1 **1.53**  ·  Benjamin Andre - 1 **1.67**  ·  Nabil Bentaleb - 1 **1.36**  ·  Isaac Cossier - 1 **2.38**  ·  Loun Srdanovic - 1 **2.38**  ·  Nathan Ngoy - 1 **2.00**  ·  Alexsandro Victor - 1 **1.67**  ·  Olivier Giroud - 2 **1.44**  ·  Soriba Diaoune - 2 **1.44**  ·  Hakon Arnar Haraldsson - 2 **1.80**  ·  Osame Sahraoui - 2 **1.67**  ·  Gaetan Perrin - 2 **1.91**  ·  Basar Onal - 2 **1.91**  ·  Ethan Mbappe - 2 **1.57**  ·  Romain Perraud - 2 **3.40**  ·  Calvin Verdonk - 2 **11.00**  ·  Ngal'ayel Mukau - 2 **3.40**  ·  Tiago Santos - 2 **3.40**  ·  Benjamin Andre - 2 **3.75**  ·  Nabil Bentaleb - 2 **2.50**  ·  Isaac Cossier - 2 **8.00**  ·  Loun Srdanovic - 2 **8.00**  ·  Nathan Ngoy - 2 **6.00**  ·  Alexsandro Victor - 2 **3.75**  ·  Olivier Giroud - 3 **2.25**  ·  Soriba Diaoune - 3 **2.25**  ·  Hakon Arnar Haraldsson - 3 **3.40**  ·  Osame Sahraoui - 3 **3.00**  ·  Gaetan Perrin - 3 **3.75**  ·  Basar Onal - 3 **3.75**  ·  Ethan Mbappe - 3 **2.62**  ·  Romain Perraud - 3 **9.00**  ·  Calvin Verdonk - 3 **5.00**  ·  Ngal'ayel Mukau - 3 **9.00**  ·  Tiago Santos - 3 **9.00**  ·  Benjamin Andre - 3 **11.00**  ·  Nabil Bentaleb - 3 **6.00**  ·  Isaac Cossier - 3 **21.00**  ·  Loun Srdanovic - 3 **21.00**  ·  Nathan Ngoy - 3 **19.00**  ·  Alexsandro Victor - 3 **11.00**  ·  Olivier Giroud - 4 **4.00**  ·  Soriba Diaoune - 4 **4.00**  ·  Hakon Arnar Haraldsson - 4 **7.00**  ·  Osame Sahraoui - 4 **6.00**  ·  Gaetan Perrin - 4 **8.00**  ·  Basar Onal - 4 **8.00**  ·  Ethan Mbappe - 4 **5.50**  ·  Romain Perraud - 4 **21.00**  ·  Calvin Verdonk - 4 **13.00**  ·  Ngal'ayel Mukau - 4 **21.00**  ·  Tiago Santos - 4 **21.00**  ·  Benjamin Andre - 4 **21.00**  ·  Olivier Giroud - 5 **9.00**  ·  Soriba Diaoune - 5 **9.00**  ·  Hakon Arnar Haraldsson - 5 **15.00**  ·  Osame Sahraoui - 5 **13.00**  ·  Gaetan Perrin - 5 **19.00**  ·  Basar Onal - 5 **19.00**  ·  Olivier Giroud - 6 **17.00**  ·  Soriba Diaoune - 6 **17.00**  ·  Hakon Arnar Haraldsson - 6 **21.00**  ·  Osame Sahraoui - 6 **21.00**  ·  Olivier Giroud - 7 **21.00**  ·  Ethan Mbappe - 5 **11.00**  ·  Gaetan Perrin - 6 **13.00**  ·  Dilane Bakwa - 1 **1.18**  ·  Dilane Bakwa - 2 **1.80**  ·  Dilane Bakwa - 3 **3.40**  ·  Dilane Bakwa - 4 **7.00**  ·  Nabil Bentaleb - 4 **15.00**  ·  Dilane Bakwa - 5 **15.00**  ·  Ngal'ayel Mukau - 5 **21.00**  ·  Dilane Bakwa - 6 **21.00**  ·  Ethan Mbappe - 6 **21.00**  ·  Basar Onal - 6 **17.00**  ·  Soriba Diaoune - 7 **21.00**  ·  Hakon Arnar Haraldsson - 7 **17.00**  ·  Osame Sahraoui - 7 **21.00**  ·  Gaetan Perrin - 7 **21.00**  ·  Olivier Giroud - 8 **21.00**  ·  Maurits Kjaergaard - 1 **1.18**  ·  Maurits Kjaergaard - 2 **1.80**  ·  Maurits Kjaergaard - 3 **3.40**  ·  Maurits Kjaergaard - 4 **7.00**  ·  Isaac Cossier - 4 **21.00**  ·  Alexsandro Victor - 4 **21.00**  ·  Maurits Kjaergaard - 5 **15.00**  ·  Nabil Bentaleb - 5 **21.00**  ·  Tiago Santos - 5 **21.00**  ·  Calvin Verdonk - 5 **21.00**  ·  Maurits Kjaergaard - 6 **21.00**  ·  Dilane Bakwa - 7 **21.00**  ·  Tanguy Kouassi - 1 **2.62**  ·  Tanguy Kouassi - 2 **10.00**  ·  Tanguy Kouassi - 3 **21.00**
+- **Away Player Shots:** Jean-Clair Todibo - 1 **3.25**  ·  Jean-Clair Todibo - 2 **13.00**  ·  Jean-Clair Todibo - 3 **13.00**  ·  Franjo Ivanovic - 1 **1.11**  ·  Florian Sotoca - 1 **1.14**  ·  Odsonne Edouard - 1 **1.11**  ·  Florian Thauvin - 1 **1.10**  ·  Thorgan Hazard - 1 **1.20**  ·  Abdallah Sima - 1 **1.05**  ·  Michal Skoras - 1 **1.40**  ·  Mickael Cuisance - 1 **1.40**  ·  Andrija Bulatovic - 1 **1.57**  ·  Mezian Mesloub - 1 **1.73**  ·  Ruben Aguilar - 1 **2.50**  ·  Saud Abdulhamid - 1 **2.10**  ·  Amadou Haidara - 1 **2.50**  ·  Matthieu Udol - 1 **1.33**  ·  Yacine Titraoui - 1 **1.28**  ·  Pierre Ganiou - 1 **1.73**  ·  Jonathan Gradit - 1 **3.25**  ·  Nidel Celik - 1 **3.25**  ·  Kyllian Antonio - 1 **3.25**  ·  Souleymane Sagnan - 1 **3.25**  ·  Franjo Ivanovic - 2 **1.53**  ·  Florian Sotoca - 2 **1.67**  ·  Odsonne Edouard - 2 **1.53**  ·  Florian Thauvin - 2 **1.44**  ·  Thorgan Hazard - 2 **1.91**  ·  Abdallah Sima - 2 **1.28**  ·  Michal Skoras - 2 **2.75**  ·  Mickael Cuisance - 2 **2.75**  ·  Andrija Bulatovic - 2 **3.50**  ·  Mezian Mesloub - 2 **4.33**  ·  Ruben Aguilar - 2 **9.00**  ·  Saud Abdulhamid - 2 **6.50**  ·  Amadou Haidara - 2 **9.00**  ·  Matthieu Udol - 2 **2.50**  ·  Yacine Titraoui - 2 **2.20**  ·  Pierre Ganiou - 2 **4.33**  ·  Jonathan Gradit - 2 **13.00**  ·  Nidel Celik - 2 **13.00**  ·  Kyllian Antonio - 2 **13.00**  ·  Souleymane Sagnan - 2 **13.00**  ·  Franjo Ivanovic - 3 **2.50**  ·  Florian Sotoca - 3 **3.00**  ·  Odsonne Edouard - 3 **2.50**  ·  Florian Thauvin - 3 **2.25**  ·  Thorgan Hazard - 3 **3.75**  ·  Abdallah Sima - 3 **1.83**  ·  Michal Skoras - 3 **6.50**  ·  Mickael Cuisance - 3 **6.50**  ·  Andrija Bulatovic - 3 **10.00**  ·  Mezian Mesloub - 3 **13.00**  ·  Ruben Aguilar - 3 **21.00**  ·  Saud Abdulhamid - 3 **21.00**  ·  Amadou Haidara - 3 **21.00**  ·  Matthieu Udol - 3 **5.50**  ·  Yacine Titraoui - 3 **4.50**  ·  Pierre Ganiou - 3 **13.00**  ·  Jonathan Gradit - 3 **13.00**  ·  Nidel Celik - 3 **13.00**  ·  Kyllian Antonio - 3 **19.00**  ·  Souleymane Sagnan - 3 **19.00**  ·  Franjo Ivanovic - 4 **4.50**  ·  Florian Sotoca - 4 **6.00**  ·  Odsonne Edouard - 4 **4.50**  ·  Florian Thauvin - 4 **4.33**  ·  Thorgan Hazard - 4 **8.00**  ·  Abdallah Sima - 4 **3.00**  ·  Michal Skoras - 4 **17.00**  ·  Mickael Cuisance - 4 **17.00**  ·  Andrija Bulatovic - 4 **21.00**  ·  Mezian Mesloub - 4 **4.50**  ·  Ruben Aguilar - 4 **17.00**  ·  Saud Abdulhamid - 4 **19.00**  ·  Amadou Haidara - 4 **21.00**  ·  Matthieu Udol - 4 **13.00**  ·  Yacine Titraoui - 4 **11.00**  ·  Franjo Ivanovic - 5 **10.00**  ·  Florian Sotoca - 5 **13.00**  ·  Odsonne Edouard - 5 **10.00**  ·  Florian Thauvin - 5 **9.00**  ·  Thorgan Hazard - 5 **19.00**  ·  Abdallah Sima - 5 **5.50**  ·  Michal Skoras - 5 **15.00**  ·  Mickael Cuisance - 5 **15.00**  ·  Andrija Bulatovic - 5 **21.00**  ·  Mezian Mesloub - 5 **10.00**  ·  Franjo Ivanovic - 6 **21.00**  ·  Florian Sotoca - 6 **21.00**  ·  Odsonne Edouard - 6 **21.00**  ·  Florian Thauvin - 6 **19.00**  ·  Thorgan Hazard - 6 **11.00**  ·  Abdallah Sima - 6 **11.00**  ·  Franjo Ivanovic - 7 **15.00**  ·  Florian Sotoca - 7 **17.00**  ·  Odsonne Edouard - 7 **17.00**  ·  Florian Thauvin - 7 **17.00**  ·  Thorgan Hazard - 7 **21.00**  ·  Abdallah Sima - 7 **21.00**  ·  Franjo Ivanovic - 8 **21.00**  ·  Yacine Titraoui - 5 **21.00**  ·  Mezian Mesloub - 6 **19.00**  ·  Junior Kadile - 1 **1.08**  ·  Junior Kadile - 2 **1.40**  ·  Junior Kadile - 3 **2.20**  ·  Junior Kadile - 4 **3.75**  ·  Junior Kadile - 5 **8.00**  ·  Junior Kadile - 6 **17.00**
+- **Goalkeeper Saves:** Berke Ozer - 2 **1.22**  ·  Berke Ozer - 3 **1.73**  ·  Berke Ozer - 4 **2.75**  ·  Berke Ozer - 5 **5.50**  ·  Robin Risser - 3 **1.44**  ·  Robin Risser - 4 **2.10**  ·  Robin Risser - 5 **3.50**  ·  Robin Risser - 6 **6.50**  ·  Berke Ozer - 6 **11.00**  ·  Robin Risser - 2 **1.12**
+- **Anytime Goal Scorer:** Alexsandro Victor **10.00**  ·  Souleymane Sagnan **10.00**  ·  Osame Sahraoui **4.33**  ·  Ayase Ueda **2.62**  ·  Abdallah Sima **3.25**  ·  Andrija Bulatovic **5.50**  ·  Olivier Giroud **2.75**  ·  Loun Srdanovic **9.50**  ·  Calvin Verdonk **7.50**  ·  Maxima Goffi **8.50**  ·  Florian Sotoca **3.10**  ·  Gaetan Perrin **3.25**  ·  Hakon Arnar Haraldsson **3.50**  ·  Ethan Mbappe **4.50**  ·  Nabil Bentaleb **7.00**  ·  Benjamin Andre **7.50**  ·  Tiago Santos **7.50**  ·  Ngal'ayel Mukau **5.50**  ·  Dilane Bakwa **4.50**  ·  Ruben Aguilar **7.50**  ·  Kyllian Antonio **10.00**  ·  Jonathan Gradit **10.00**  ·  Franjo Ivanovic **3.00**  ·  Maurits Kjaergaard **4.75**  ·  Samson Baidoo **10.00**  ·  Michal Skoras **4.75**  ·  Odsonne Edouard **2.75**  ·  Yacine Titraoui **7.50**  ·  Nathan Ngoy **10.00**  ·  Basar Onal **4.33**  ·  Mickael Cuisance **5.50**  ·  Junior Kadile **4.33**  ·  Matah Yondjio **2.75**  ·  Pierre Ganiou **10.00**  ·  Mezian Mesloub **4.33**  ·  Isaac Cossier **8.50**  ·  Romain Perraud **7.50**  ·  Jean-Clair Todibo **10.00**  ·  Saud Abdulhamid **8.50**  ·  Tanguy Kouassi **10.00**  ·  Amadou Haidara **7.50**  ·  Florian Thauvin **3.10**  ·  Matthieu Udol **7.50**  ·  Thorgan Hazard **3.10**  ·  Nidel Celik **10.00**  ·  Soriba Diaoune **3.10**
+- **Player to Score or Assist:** Alexsandro Victor **6.50**  ·  Souleymane Sagnan **6.50**  ·  Osame Sahraoui **2.38**  ·  Ayase Ueda **2.20**  ·  Abdallah Sima **2.50**  ·  Andrija Bulatovic **3.75**  ·  Olivier Giroud **2.10**  ·  Loun Srdanovic **5.00**  ·  Calvin Verdonk **4.50**  ·  Maxima Goffi **5.50**  ·  Florian Sotoca **2.20**  ·  Gaetan Perrin **2.10**  ·  Hakon Arnar Haraldsson **2.30**  ·  Ethan Mbappe **2.75**  ·  Nabil Bentaleb **4.00**  ·  Benjamin Andre **3.75**  ·  Tiago Santos **4.33**  ·  Ngal'ayel Mukau **3.75**  ·  Dilane Bakwa **2.60**  ·  Ruben Aguilar **3.75**  ·  Kyllian Antonio **6.00**  ·  Jonathan Gradit **6.50**  ·  Franjo Ivanovic **2.30**  ·  Maurits Kjaergaard **2.60**  ·  Samson Baidoo **6.50**  ·  Michal Skoras **3.25**  ·  Odsonne Edouard **2.20**  ·  Yacine Titraoui **4.33**  ·  Nathan Ngoy **6.50**  ·  Basar Onal **2.50**  ·  Mickael Cuisance **3.60**  ·  Junior Kadile **2.60**  ·  Matah Yondjio **2.10**  ·  Pierre Ganiou **6.50**  ·  Mezian Mesloub **2.50**  ·  Isaac Cossier **5.50**  ·  Romain Perraud **3.20**  ·  Jean-Clair Todibo **6.50**  ·  Saud Abdulhamid **3.40**  ·  Tanguy Kouassi **7.50**  ·  Amadou Haidara **4.33**  ·  Florian Thauvin **2.10**  ·  Matthieu Udol **3.20**  ·  Thorgan Hazard **2.30**  ·  Nidel Celik **4.33**  ·  Soriba Diaoune **2.30**
 
 ## Estadísticas de equipo
 | | Lille (total) | Lille en casa | Lens (total) | Lens fuera |
@@ -122,7 +127,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Lille:** H. Igamane (baja, Knee Injury); T. Nianzou (baja, Red Card); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury); H. Igamane (baja, Knee Injury); T. Nianzou (baja, Red Card); T. Santos (baja, Knee Injury); A. Ueda (baja, Foot Injury)
-**Lens:** O. Edouard (baja, Groin Injury); I. Ganiou (baja, Knee Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); J. Gradit (duda, Muscle Injury); O. Edouard (baja, Groin Injury); I. Ganiou (baja, Knee Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); J. Gradit (duda, Muscle Injury)
+**Lens:** O. Edouard (baja, Groin Injury); I. Ganiou (baja, Knee Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury); O. Edouard (baja, Groin Injury); I. Ganiou (baja, Knee Injury); M. Nawrocki (baja, Knee Injury); A. Sima (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-04 · Ligue 1: Lille 3-0 Lens
@@ -205,38 +210,36 @@ _Goles esperados: local 1,59 · visitante 1,53 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 36% | 37% | 2.62 | -4% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
+| 1X2: 2 | 37% | 35% | 36% | 2.70 | -2% |
+| 1X2: X | 24% | 27% | 26% | 3.50 | -11% |
 | 1X2: 1 | 39% | 37% | 38% | 2.55 | -2% |
-| Doble oportunidad: X2 | 61% | 62% | 61% | 1.53 | -6% |
-| Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -5% |
-| Ambos marcan: No | 38% | 41% | 39% | 2.25 | -12% |
-| Ambos marcan: Sí | 62% | 59% | 61% | 1.57 | -5% |
-| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 60% | 55% | 58% | 1.73 | -0% |
-| Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | -0% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -13% |
-| Goles más/menos: Menos de 2.5 | 40% | 45% | 42% | 2.10 | -11% |
-| Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Doble oportunidad: X2 | 61% | 62% | 61% | 1.50 | -8% |
+| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
+| Doble oportunidad: 1X | 63% | 65% | 64% | 1.44 | -8% |
+| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
+| Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
+| Goles más/menos: Más de 1.5 | 82% | 76% | 79% | 1.25 | -1% |
+| Goles más/menos: Más de 2.5 | 60% | 53% | 56% | 1.80 | +2% |
+| Goles más/menos: Más de 3.5 | 38% | 32% | 35% | 3.00 | +5% |
+| Goles más/menos: Menos de 1.5 | 18% | 24% | 21% | 4.00 | -16% |
+| Goles más/menos: Menos de 2.5 | 40% | 47% | 44% | 2.00 | -13% |
+| Goles más/menos: Menos de 3.5 | 62% | 68% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 73% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 47% | 44% | 46% | 2.10 | -4% |
-| Goles del local: Más de 2.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles del local: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -12% |
-| Goles del local: Menos de 1.5 | 53% | 56% | 54% | 1.67 | -9% |
-| Goles del local: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
+| Goles del local: Más de 0.5 | 80% | 75% | 77% | 1.25 | -3% |
+| Goles del local: Más de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
+| Goles del local: Menos de 0.5 | 20% | 25% | 23% | 3.75 | -15% |
+| Goles del local: Menos de 1.5 | 53% | 58% | 55% | 1.62 | -11% |
 | Goles del visitante: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 1.5 | 45% | 42% | 44% | 2.20 | -3% |
+| Goles del visitante: Más de 1.5 | 45% | 41% | 43% | 2.25 | -3% |
 | Goles del visitante: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -13% |
-| Goles del visitante: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
-| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
+| Goles del visitante: Menos de 1.5 | 55% | 59% | 57% | 1.57 | -11% |
+| Córners más/menos: Más de 9.5 | 43% | 47% | 45% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 57% | 53% | 55% | 1.80 | -2% |
 | 1X2 descanso: 2 | 30% | 29% | 29% | 3.20 | -6% |
-| 1X2 descanso: X | 39% | 41% | 40% | 2.30 | -8% |
+| 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: 1 | 31% | 30% | 31% | 3.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

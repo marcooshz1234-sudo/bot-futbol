@@ -1,7 +1,7 @@
 # Crystal Palace – 1899 Hoffenheim
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Nathan De Cat | M | 5 | 169 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,96 · visitante 1,72 · córners esperados 9,8._
+_Goles esperados: local 1,93 · visitante 1,71 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

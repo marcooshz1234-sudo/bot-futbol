@@ -1,7 +1,7 @@
 # Sparta Praha – Bournemouth
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin precedentes recientes._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,94 · visitante 2,89 · córners esperados 9,9._
+_Goles esperados: local 0,92 · visitante 2,91 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

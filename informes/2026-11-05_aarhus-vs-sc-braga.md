@@ -1,7 +1,7 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Diego Rodrigues | M | 6 | 244 | 2 | 0 | 6 | 1,0 | 4 | 0,7 | 2 | 8 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 1,23 · córners esperados 9,2._
+_Goles esperados: local 0,65 · visitante 1,24 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

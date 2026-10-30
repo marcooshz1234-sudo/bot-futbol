@@ -1,7 +1,7 @@
 # Deportivo La Coruna – Osasuna
 **LaLiga** · Regular Season - 11 · 02/11/2026 21:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:00_
@@ -56,21 +56,21 @@ _Actualizadas: 29/10 08:00_
 ## Estadísticas de equipo
 | | Deportivo La Coruna (total) | Deportivo La Coruna en casa | Osasuna (total) | Osasuna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 5 |
-| Forma (últimos 5) | DEDED | EEDVE | DVDED | DDDDV |
-| Balance | 2V 5E 3D | 1V 3E 1D | 3V 2E 5D | 1V 0E 4D |
-| Goles a favor / partido | 1,30 | 1,20 | 1,00 | 1,20 |
-| Goles en contra / partido | 1,30 | 1,00 | 2,00 | 3,40 |
-| Goles a favor 1ª parte | 0,50 | 0,60 | 0,30 | 0,00 |
-| Goles a favor 2ª parte | 0,80 | 0,60 | 0,70 | 1,20 |
-| Goles en contra 1ª parte | 0,60 | 0,40 | 0,90 | 1,40 |
-| Goles en contra 2ª parte | 0,70 | 0,60 | 1,10 | 2,00 |
-| Más de 1,5 goles | 80% | 80% | 80% | 100% |
-| Más de 2,5 goles | 30% | 20% | 40% | 80% |
-| Más de 3,5 goles | 30% | 20% | 30% | 60% |
-| Ambos marcan | 80% | 80% | 40% | 60% |
-| Portería a cero | 0% | 0% | 30% | 0% |
-| Se queda sin marcar | 20% | 20% | 40% | 40% |
+| Partidos analizados | 11 | 5 | 11 | 6 |
+| Forma (últimos 5) | VDEDE | EEDVE | VDVDE | VDDDD |
+| Balance | 3V 5E 3D | 1V 3E 1D | 4V 2E 5D | 2V 0E 4D |
+| Goles a favor / partido | 1,45 | 1,20 | 1,45 | 2,00 |
+| Goles en contra / partido | 1,18 | 1,00 | 1,82 | 2,83 |
+| Goles a favor 1ª parte | 0,55 | 0,60 | 0,55 | 0,50 |
+| Goles a favor 2ª parte | 0,91 | 0,60 | 0,91 | 1,50 |
+| Goles en contra 1ª parte | 0,55 | 0,40 | 0,82 | 1,17 |
+| Goles en contra 2ª parte | 0,64 | 0,60 | 1,00 | 1,67 |
+| Más de 1,5 goles | 82% | 80% | 82% | 100% |
+| Más de 2,5 goles | 36% | 20% | 45% | 83% |
+| Más de 3,5 goles | 27% | 20% | 36% | 67% |
+| Ambos marcan | 73% | 80% | 36% | 50% |
+| Portería a cero | 9% | 0% | 36% | 17% |
+| Se queda sin marcar | 18% | 20% | 36% | 33% |
 | xG a favor | 1,20 | 1,02 | 1,51 | 1,49 |
 | xG en contra | 1,17 | 1,00 | 1,41 | 1,88 |
 | Tiros / partido | 12,0 | 12,0 | 10,7 | 8,8 |
@@ -97,12 +97,12 @@ _Actualizadas: 29/10 08:00_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna | Goles Osasuna | Recibe Osasuna | Tarjetas Osasuna |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 0 | 1 | 1 | 3 | 1 |
-| 16-30' | 3 | 3 | 3 | 1 | 4 | 6 |
-| 31-45' | 1 | 3 | 3 | 1 | 2 | 3 |
-| 46-60' | 1 | 3 | 2 | 4 | 4 | 2 |
+| 1-15' | 1 | 0 | 1 | 2 | 3 | 1 |
+| 16-30' | 3 | 3 | 3 | 2 | 4 | 6 |
+| 31-45' | 2 | 3 | 3 | 2 | 2 | 3 |
+| 46-60' | 2 | 3 | 2 | 6 | 4 | 3 |
 | 61-75' | 3 | 1 | 2 | 2 | 3 | 4 |
-| 76-90' | 4 | 3 | 12 | 1 | 4 | 10 |
+| 76-90' | 5 | 3 | 12 | 2 | 4 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -120,12 +120,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Deportivo La Coruna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Auriense 0-3 Deportivo La Coruna | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Atletico Madrid 1-0 Deportivo La Coruna | fuera | 4-3 | 15 (5) - 20 (4) | 2-4 |
 | 2026-10-16 | LaLiga | Deportivo La Coruna 1-1 Levante | casa | 3-5 | 13 (5) - 11 (4) | 3-2 |
 | 2026-10-11 | LaLiga | Real Sociedad 3-2 Deportivo La Coruna | fuera | 10-7 | 21 (7) - 12 (4) | 2-1 |
 | 2026-09-20 | LaLiga | Deportivo La Coruna 1-1 Real Betis | casa | 11-5 | 24 (7) - 11 (4) | 1-1 |
 | 2026-09-16 | LaLiga | Deportivo La Coruna 0-1 Sevilla | casa | 4-4 | 4 (3) - 11 (6) | 1-4 |
-| 2026-09-13 | LaLiga | Getafe 1-1 Deportivo La Coruna | fuera | 7-3 | 10 (3) - 15 (4) | 1-3 |
 
 ## Jugadores de Deportivo La Coruna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -154,12 +154,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Osasuna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Atletico Calatayud 0-6 Osasuna | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-26 | LaLiga | Sevilla 2-0 Osasuna | fuera | 4-7 | 10 (2) - 17 (7) | 2-1 |
 | 2026-10-18 | LaLiga | Osasuna 2-0 Racing Santander | casa | 7-4 | 20 (7) - 9 (1) | 2-3 |
 | 2026-10-11 | LaLiga | Real Betis 5-2 Osasuna | fuera | 4-8 | 11 (5) - 20 (7) | 5-2 |
 | 2026-09-19 | LaLiga | Osasuna 1-1 Rayo Vallecano | casa | 4-4 | 10 (3) - 19 (2) | 3-2 |
 | 2026-09-16 | LaLiga | Atletico Madrid 4-0 Osasuna | fuera | 0-8 | 3 (1) - 27 (11) | 2-1 |
-| 2026-09-12 | LaLiga | Osasuna 0-2 Espanyol | casa | 3-4 | 11 (4) - 6 (3) | 2-3 |
 
 ## Jugadores de Osasuna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -186,40 +186,40 @@ _Sin bajas comunicadas por ahora._
 | Jorge Herrando | D | 3 | 187 | 0 | 0 | 2 | 0,7 | 2 | 0,7 | 3 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 0,99 · córners esperados 9,8._
+_Goles esperados: local 1,59 · visitante 1,09 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 27% | 25% | 3.50 | -13% |
+| 1X2: 2 | 26% | 27% | 26% | 3.50 | -8% |
 | 1X2: X | 25% | 29% | 27% | 3.20 | -13% |
-| 1X2: 1 | 52% | 44% | 48% | 2.10 | +1% |
-| Doble oportunidad: X2 | 48% | 56% | 52% | 1.70 | -11% |
-| Doble oportunidad: 12 | 75% | 70% | 72% | 1.36 | -1% |
-| Doble oportunidad: 1X | 77% | 74% | 75% | 1.28 | -3% |
-| Ambos marcan: No | 50% | 52% | 51% | 1.80 | -8% |
-| Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -4% |
-| Goles más/menos: Más de 1.5 | 73% | 68% | 71% | 1.40 | -1% |
-| Goles más/menos: Más de 2.5 | 48% | 43% | 45% | 2.20 | +0% |
-| Goles más/menos: Más de 3.5 | 26% | 24% | 25% | 4.00 | -0% |
-| Goles más/menos: Menos de 1.5 | 27% | 32% | 29% | 3.00 | -12% |
-| Goles más/menos: Menos de 2.5 | 52% | 57% | 55% | 1.67 | -9% |
-| Goles más/menos: Menos de 3.5 | 74% | 76% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 65% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 1.5 | 47% | 41% | 44% | 2.25 | -0% |
-| Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -13% |
-| Goles del visitante: Más de 0.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del visitante: Más de 1.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles del visitante: Menos de 0.5 | 37% | 38% | 37% | 2.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
+| 1X2: 1 | 49% | 44% | 47% | 2.10 | -2% |
+| Doble oportunidad: X2 | 51% | 56% | 54% | 1.70 | -9% |
+| Doble oportunidad: 12 | 75% | 70% | 72% | 1.36 | -2% |
+| Doble oportunidad: 1X | 74% | 74% | 74% | 1.28 | -5% |
+| Ambos marcan: No | 47% | 52% | 50% | 1.80 | -11% |
+| Ambos marcan: Sí | 53% | 48% | 50% | 1.95 | -2% |
+| Goles más/menos: Más de 1.5 | 75% | 68% | 71% | 1.40 | -0% |
+| Goles más/menos: Más de 2.5 | 50% | 43% | 47% | 2.20 | +2% |
+| Goles más/menos: Más de 3.5 | 28% | 24% | 26% | 4.00 | +4% |
+| Goles más/menos: Menos de 1.5 | 25% | 32% | 29% | 3.00 | -14% |
+| Goles más/menos: Menos de 2.5 | 50% | 57% | 53% | 1.67 | -11% |
+| Goles más/menos: Menos de 3.5 | 72% | 76% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 29% | 31% | 3.25 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 71% | 69% | 1.33 | -8% |
+| Goles del local: Más de 0.5 | 80% | 73% | 76% | 1.28 | -2% |
+| Goles del local: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
+| Goles del local: Menos de 0.5 | 20% | 27% | 24% | 3.50 | -17% |
+| Goles del local: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
+| Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
+| Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
 | Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
-| 1X2 descanso: 2 | 20% | 21% | 21% | 4.33 | -11% |
-| 1X2 descanso: X | 43% | 45% | 44% | 2.05 | -10% |
-| 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -3% |
+| 1X2 descanso: 2 | 22% | 21% | 22% | 4.33 | -6% |
+| 1X2 descanso: X | 42% | 45% | 44% | 2.05 | -10% |
+| 1X2 descanso: 1 | 36% | 34% | 35% | 2.75 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

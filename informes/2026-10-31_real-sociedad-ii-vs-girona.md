@@ -1,10 +1,10 @@
 # Real Sociedad II – Girona
 **Segunda División** · Regular Season - 12 · 31/10/2026 14:00 (hora España) · Estadio Ciudad Deportiva Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:02_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | Mateu Morey | D | 3 | 139 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 2,14 · córners esperados 9,4._
+_Goles esperados: local 1,18 · visitante 2,13 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -191,28 +191,28 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 59% | 46% | 53% | 2.00 | +5% |
 | 1X2: X | 20% | 26% | 23% | 3.50 | -18% |
-| 1X2: 1 | 21% | 27% | 24% | 3.40 | -18% |
-| Doble oportunidad: X2 | 79% | 73% | 76% | 1.30 | -1% |
+| 1X2: 1 | 20% | 27% | 24% | 3.40 | -19% |
+| Doble oportunidad: X2 | 80% | 73% | 76% | 1.30 | -1% |
 | Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 41% | 53% | 47% | 1.80 | -15% |
-| Ambos marcan: No | 38% | 39% | 39% | 2.38 | -8% |
-| Ambos marcan: Sí | 62% | 61% | 61% | 1.53 | -6% |
-| Goles más/menos: Más de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles más/menos: Más de 2.5 | 65% | 58% | 61% | 1.62 | -0% |
-| Goles más/menos: Más de 3.5 | 43% | 38% | 40% | 2.50 | +0% |
-| Goles más/menos: Más de 4.5 | 24% | 21% | 23% | 4.50 | +2% |
-| Goles más/menos: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -19% |
-| Goles más/menos: Menos de 2.5 | 35% | 42% | 39% | 2.25 | -13% |
-| Goles más/menos: Menos de 3.5 | 57% | 62% | 60% | 1.50 | -10% |
-| Goles más/menos: Menos de 4.5 | 76% | 79% | 77% | 1.18 | -9% |
+| Doble oportunidad: 1X | 41% | 53% | 47% | 1.80 | -16% |
+| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
+| Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
+| Goles más/menos: Más de 1.5 | 84% | 79% | 82% | 1.18 | -4% |
+| Goles más/menos: Más de 2.5 | 64% | 58% | 61% | 1.62 | -1% |
+| Goles más/menos: Más de 3.5 | 42% | 38% | 40% | 2.50 | -0% |
+| Goles más/menos: Más de 4.5 | 24% | 21% | 22% | 4.50 | +0% |
+| Goles más/menos: Menos de 1.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles más/menos: Menos de 2.5 | 36% | 42% | 39% | 2.25 | -13% |
+| Goles más/menos: Menos de 3.5 | 58% | 62% | 60% | 1.50 | -10% |
+| Goles más/menos: Menos de 4.5 | 76% | 79% | 78% | 1.18 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 39% | 41% | 2.38 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del local: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Goles del local: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles del local: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles del local: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles del local: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles del local: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -1% |
+| Goles del local: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del visitante: Más de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
 | Goles del visitante: Más de 2.5 | 36% | 27% | 31% | 3.50 | +10% |
 | Goles del visitante: Menos de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
@@ -221,6 +221,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
 | 1X2 descanso: 2 | 44% | 36% | 40% | 2.60 | +4% |
 | 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -10% |
-| 1X2 descanso: 1 | 20% | 25% | 22% | 3.75 | -16% |
+| 1X2 descanso: 1 | 20% | 25% | 22% | 3.75 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Villarreal – Paris Saint Germain
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_
@@ -176,16 +176,16 @@ _Sin precedentes recientes._
 | Lucas Digne | D | 4 | 187 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,69 · visitante 2,06 · córners esperados 9,6._
+_Goles esperados: local 1,74 · visitante 2,01 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 47% | 59% | 53% | 1.57 | -17% |
+| 1X2: 2 | 45% | 59% | 52% | 1.57 | -19% |
 | 1X2: X | 21% | 21% | 21% | 4.50 | -6% |
-| 1X2: 1 | 32% | 21% | 26% | 4.50 | +19% |
-| Doble oportunidad: X2 | 68% | 80% | 74% | 1.18 | -13% |
+| 1X2: 1 | 34% | 21% | 27% | 4.50 | +23% |
+| Doble oportunidad: X2 | 66% | 80% | 73% | 1.18 | -14% |
 | Doble oportunidad: 12 | 79% | 80% | 79% | 1.18 | -7% |
-| Doble oportunidad: 1X ✅ | 53% | 41% | 47% | 2.30 | +8% |
+| Doble oportunidad: 1X ✅ | 55% | 41% | 48% | 2.30 | +11% |
 | Ambos marcan: No | 29% | 35% | 32% | 2.62 | -16% |
 | Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -2% |
 | Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -3% |
@@ -195,23 +195,23 @@ _Goles esperados: local 1,69 · visitante 2,06 · córners esperados 9,6._
 | Goles más/menos: Menos de 3.5 | 48% | 50% | 49% | 1.91 | -6% |
 | Goles más/menos: Menos de 4.5 | 68% | 70% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 49% | 48% | 1.91 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles del local: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
-| Goles del local: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +10% |
-| Goles del local: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -22% |
-| Goles del local: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles del visitante: Más de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles del visitante: Más de 2.5 | 34% | 41% | 38% | 2.25 | -16% |
-| Goles del visitante: Más de 3.5 | 15% | 22% | 19% | 4.33 | -20% |
-| Goles del visitante: Menos de 1.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles del visitante: Menos de 2.5 | 66% | 59% | 62% | 1.57 | -2% |
-| Goles del visitante: Menos de 3.5 | 85% | 78% | 81% | 1.20 | -2% |
-| 1X2 descanso: 2 | 37% | 45% | 41% | 2.05 | -15% |
-| 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -6% |
-| 1X2 descanso: 1 | 28% | 21% | 24% | 4.50 | +10% |
+| Goles del local: Más de 0.5 | 82% | 72% | 77% | 1.30 | +1% |
+| Goles del local: Más de 1.5 ✅ | 52% | 38% | 45% | 2.50 | +12% |
+| Goles del local: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
+| Goles del local: Menos de 1.5 | 48% | 62% | 55% | 1.50 | -17% |
+| Goles del visitante: Más de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles del visitante: Más de 2.5 | 32% | 41% | 37% | 2.25 | -17% |
+| Goles del visitante: Más de 3.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles del visitante: Menos de 1.5 | 40% | 34% | 37% | 2.75 | +2% |
+| Goles del visitante: Menos de 2.5 | 68% | 59% | 63% | 1.57 | -1% |
+| Goles del visitante: Menos de 3.5 | 86% | 78% | 82% | 1.20 | -2% |
+| 1X2 descanso: 2 | 36% | 45% | 41% | 2.05 | -17% |
+| 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -5% |
+| 1X2 descanso: 1 | 29% | 21% | 25% | 4.50 | +12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

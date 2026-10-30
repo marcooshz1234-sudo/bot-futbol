@@ -1,10 +1,10 @@
 # Coventry – Sunderland
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
@@ -207,40 +207,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Timur Tuterov | F | 6 | 330 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,16 · visitante 1,51 · córners esperados 9,3._
+_Goles esperados: local 1,14 · visitante 1,51 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 41% | 43% | 2.25 | -3% |
-| 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 29% | 31% | 30% | 3.00 | -9% |
-| Doble oportunidad: X2 | 71% | 69% | 70% | 1.36 | -5% |
+| 1X2: 2 | 46% | 41% | 44% | 2.25 | -2% |
+| 1X2: X | 26% | 27% | 27% | 3.40 | -10% |
+| 1X2: 1 | 29% | 31% | 30% | 3.00 | -10% |
+| Doble oportunidad: X2 | 71% | 69% | 70% | 1.36 | -4% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
-| Doble oportunidad: 1X | 55% | 58% | 57% | 1.62 | -8% |
-| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -6% |
+| Doble oportunidad: 1X | 54% | 58% | 56% | 1.62 | -9% |
+| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -5% |
 | Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 74% | 75% | 75% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
+| Goles más/menos: Más de 1.5 | 74% | 75% | 74% | 1.28 | -5% |
+| Goles más/menos: Más de 2.5 | 49% | 50% | 50% | 1.91 | -5% |
 | Goles más/menos: Más de 3.5 | 28% | 28% | 28% | 3.40 | -5% |
-| Goles más/menos: Menos de 1.5 | 26% | 25% | 25% | 3.75 | -4% |
-| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
+| Goles más/menos: Menos de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles más/menos: Menos de 2.5 | 51% | 50% | 50% | 1.91 | -4% |
 | Goles más/menos: Menos de 3.5 | 72% | 72% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 1.5 | 32% | 35% | 34% | 2.62 | -11% |
-| Goles del local: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles del local: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles del local: Más de 0.5 | 68% | 71% | 70% | 1.33 | -8% |
+| Goles del local: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
+| Goles del local: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
+| Goles del local: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles del visitante: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
-| Goles del visitante: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles del visitante: Más de 1.5 | 45% | 42% | 43% | 2.20 | -4% |
 | Goles del visitante: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles del visitante: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
+| Goles del visitante: Menos de 1.5 | 55% | 58% | 57% | 1.62 | -8% |
 | Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
+| 1X2 descanso: 2 | 34% | 32% | 33% | 2.88 | -5% |
 | 1X2 descanso: X | 43% | 42% | 42% | 2.20 | -7% |
-| 1X2 descanso: 1 | 24% | 26% | 25% | 3.60 | -11% |
+| 1X2 descanso: 1 | 23% | 26% | 25% | 3.60 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

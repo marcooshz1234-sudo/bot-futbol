@@ -1,10 +1,10 @@
 # Moreirense – Estrela
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 16:30 (hora España) · Parque Joaquim Almeida Freitas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.90**  ·  X **3.25**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.40**
@@ -180,40 +180,40 @@ _Sin bajas comunicadas por ahora._
 | L. Mincarelli Davin | D | 2 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,49 · córners esperados 8,9._
+_Goles esperados: local 1,45 · visitante 1,50 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 39% | 39% | 2.38 | -8% |
-| 1X2: X | 24% | 29% | 27% | 3.25 | -14% |
-| 1X2: 1 | 37% | 32% | 35% | 2.90 | +1% |
+| 1X2: 2 | 39% | 39% | 39% | 2.38 | -7% |
+| 1X2: X | 25% | 29% | 27% | 3.25 | -14% |
+| 1X2: 1 | 37% | 32% | 34% | 2.90 | -0% |
 | Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
-| Doble oportunidad: 12 | 76% | 71% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 62% | 62% | 62% | 1.53 | -5% |
-| Ambos marcan: No | 40% | 47% | 43% | 2.00 | -13% |
-| Ambos marcan: Sí | 60% | 53% | 57% | 1.75 | -1% |
-| Goles más/menos: Más de 1.5 | 80% | 73% | 76% | 1.28 | -2% |
+| Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 61% | 62% | 61% | 1.53 | -6% |
+| Ambos marcan: No | 41% | 47% | 44% | 2.00 | -13% |
+| Ambos marcan: Sí | 59% | 53% | 56% | 1.75 | -1% |
+| Goles más/menos: Más de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Goles más/menos: Más de 2.5 | 57% | 49% | 53% | 1.95 | +3% |
-| Goles más/menos: Más de 3.5 | 34% | 28% | 31% | 3.40 | +6% |
-| Goles más/menos: Menos de 1.5 | 20% | 27% | 24% | 3.50 | -17% |
-| Goles más/menos: Menos de 2.5 | 43% | 51% | 47% | 1.85 | -13% |
+| Goles más/menos: Más de 3.5 | 34% | 28% | 31% | 3.40 | +5% |
+| Goles más/menos: Menos de 1.5 | 21% | 27% | 24% | 3.50 | -17% |
+| Goles más/menos: Menos de 2.5 | 43% | 51% | 47% | 1.85 | -12% |
 | Goles más/menos: Menos de 3.5 | 66% | 72% | 69% | 1.30 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
 | Goles del local: Más de 0.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 1.5 | 43% | 35% | 39% | 2.62 | +3% |
-| Goles del local: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -16% |
-| Goles del local: Menos de 1.5 | 57% | 65% | 61% | 1.44 | -13% |
-| Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 1.5 | 44% | 41% | 42% | 2.25 | -4% |
-| Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -14% |
-| Goles del visitante: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
+| Goles del local: Más de 1.5 | 43% | 35% | 39% | 2.62 | +2% |
+| Goles del local: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -15% |
+| Goles del local: Menos de 1.5 | 57% | 65% | 61% | 1.44 | -12% |
+| Goles del visitante: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles del visitante: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
+| Goles del visitante: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles del visitante: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
 | 1X2 descanso: 2 | 30% | 31% | 31% | 3.00 | -8% |
 | 1X2 descanso: X | 40% | 42% | 41% | 2.20 | -9% |
-| 1X2 descanso: 1 | 30% | 27% | 28% | 3.50 | -2% |
+| 1X2 descanso: 1 | 29% | 27% | 28% | 3.50 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

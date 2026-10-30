@@ -1,7 +1,7 @@
 # Oviedo – Las Palmas
 **Segunda División** · Regular Season - 12 · 02/11/2026 16:15 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:00_
@@ -57,21 +57,21 @@ _Actualizadas: 29/10 08:00_
 ## Estadísticas de equipo
 | | Oviedo (total) | Oviedo en casa | Las Palmas (total) | Las Palmas fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | EVVDV | VVEDE | VVDDE | VDDVD |
-| Balance | 5V 3E 3D | 2V 2E 1D | 5V 2E 5D | 3V 0E 3D |
-| Goles a favor / partido | 1,36 | 1,00 | 1,42 | 1,83 |
-| Goles en contra / partido | 1,09 | 0,40 | 1,67 | 2,00 |
-| Goles a favor 1ª parte | 0,64 | 0,60 | 0,50 | 0,33 |
-| Goles a favor 2ª parte | 0,73 | 0,40 | 0,92 | 1,50 |
-| Goles en contra 1ª parte | 0,45 | 0,20 | 0,67 | 0,67 |
-| Goles en contra 2ª parte | 0,64 | 0,20 | 1,00 | 1,33 |
-| Más de 1,5 goles | 64% | 40% | 75% | 83% |
-| Más de 2,5 goles | 55% | 20% | 67% | 67% |
-| Más de 3,5 goles | 36% | 20% | 42% | 67% |
-| Ambos marcan | 45% | 20% | 58% | 67% |
-| Portería a cero | 45% | 60% | 33% | 33% |
-| Se queda sin marcar | 27% | 60% | 17% | 0% |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | EEVVD | VVEDE | VVDDE | VDDVD |
+| Balance | 5V 4E 3D | 2V 2E 1D | 5V 2E 5D | 3V 0E 3D |
+| Goles a favor / partido | 1,50 | 1,00 | 1,42 | 1,83 |
+| Goles en contra / partido | 1,25 | 0,40 | 1,67 | 2,00 |
+| Goles a favor 1ª parte | 0,58 | 0,60 | 0,50 | 0,33 |
+| Goles a favor 2ª parte | 0,92 | 0,40 | 0,92 | 1,50 |
+| Goles en contra 1ª parte | 0,50 | 0,20 | 0,67 | 0,67 |
+| Goles en contra 2ª parte | 0,75 | 0,20 | 1,00 | 1,33 |
+| Más de 1,5 goles | 67% | 40% | 75% | 83% |
+| Más de 2,5 goles | 58% | 20% | 67% | 67% |
+| Más de 3,5 goles | 42% | 20% | 42% | 67% |
+| Ambos marcan | 50% | 20% | 58% | 67% |
+| Portería a cero | 42% | 60% | 33% | 33% |
+| Se queda sin marcar | 25% | 60% | 17% | 0% |
 | xG a favor | 1,78 | 1,82 | 0,95 | 1,43 |
 | xG en contra | 1,49 | 1,19 | 1,36 | 1,17 |
 | Tiros / partido | 15,5 | 17,6 | 9,7 | 9,8 |
@@ -79,31 +79,31 @@ _Actualizadas: 29/10 08:00_
 | Tiros recibidos | 13,8 | 12,0 | 13,2 | 14,6 |
 | Tiros a puerta recibidos | 4,1 | 3,2 | 4,7 | 5,2 |
 | Posesión media % | 50 | 52 | 51 | 47 |
-| Córners a favor | 5,6 | 7,2 | 4,1 | 3,4 |
-| Córners en contra | 5,3 | 3,8 | 5,6 | 6,0 |
-| Córners a favor 1ª parte | 2,3 | 3,4 | 2,0 | 1,8 |
-| Córners a favor 2ª parte | 3,4 | 3,8 | 2,1 | 1,6 |
-| Córners totales del partido | 10,9 | 11,0 | 9,7 | 9,4 |
-| Córners totales 1ª parte | 4,6 | 5,4 | 4,0 | 4,0 |
-| Córners totales 2ª parte | 6,3 | 5,6 | 5,7 | 5,4 |
-| Más de 8,5 córners | 73% | 80% | 73% | 60% |
-| Más de 9,5 córners | 64% | 60% | 36% | 40% |
-| Más de 10,5 córners | 64% | 60% | 27% | 20% |
+| Córners a favor | 5,2 | 7,2 | 4,1 | 3,4 |
+| Córners en contra | 4,8 | 3,8 | 5,6 | 6,0 |
+| Córners a favor 1ª parte | 2,1 | 3,4 | 2,0 | 1,8 |
+| Córners a favor 2ª parte | 3,1 | 3,8 | 2,1 | 1,6 |
+| Córners totales del partido | 10,0 | 11,0 | 9,7 | 9,4 |
+| Córners totales 1ª parte | 4,2 | 5,4 | 4,0 | 4,0 |
+| Córners totales 2ª parte | 5,8 | 5,6 | 5,7 | 5,4 |
+| Más de 8,5 córners | 67% | 80% | 73% | 60% |
+| Más de 9,5 córners | 58% | 60% | 36% | 40% |
+| Más de 10,5 córners | 58% | 60% | 27% | 20% |
 | Faltas cometidas | 13,7 | 12,6 | 12,5 | 13,8 |
 | Faltas recibidas | 14,6 | 16,0 | 15,9 | 13,8 |
-| Amarillas propias | 3,2 | 3,2 | 2,9 | 2,6 |
-| Amarillas del rival | 2,8 | 3,2 | 2,2 | 1,8 |
-| Rojas / partido | 0,09 | 0,20 | 0,18 | 0,40 |
+| Amarillas propias | 3,1 | 3,2 | 2,9 | 2,6 |
+| Amarillas del rival | 3,0 | 3,2 | 2,2 | 1,8 |
+| Rojas / partido | 0,08 | 0,20 | 0,18 | 0,40 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Oviedo | Recibe Oviedo | Tarjetas Oviedo | Goles Las Palmas | Recibe Las Palmas | Tarjetas Las Palmas |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 2 | 3 | 1 |
 | 16-30' | 2 | 4 | 8 | 3 | 5 | 7 |
-| 31-45' | 2 | 1 | 5 | 1 | 0 | 4 |
-| 46-60' | 2 | 1 | 3 | 4 | 5 | 1 |
-| 61-75' | 2 | 2 | 8 | 2 | 3 | 7 |
-| 76-90' | 4 | 4 | 11 | 5 | 4 | 15 |
+| 31-45' | 2 | 2 | 5 | 1 | 0 | 4 |
+| 46-60' | 2 | 2 | 3 | 4 | 5 | 1 |
+| 61-75' | 3 | 2 | 8 | 2 | 3 | 7 |
+| 76-90' | 6 | 5 | 13 | 5 | 4 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -121,12 +121,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Oviedo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Numancia 3-3 Oviedo | fuera | –-– | – (–) - – (–) | 2-5 |
 | 2026-10-24 | Segunda División | Almeria 2-2 Oviedo | fuera | 7-4 | 20 (8) - 7 (3) | 5-2 |
 | 2026-10-18 | Segunda División | AD Ceuta FC 1-2 Oviedo | fuera | 2-15 | 18 (9) - 29 (7) | 3-4 |
 | 2026-10-12 | Segunda División | Oviedo 3-1 Eibar | casa | 10-5 | 17 (7) - 18 (6) | 4-3 |
 | 2026-10-02 | Segunda División | Eldense 4-1 Oviedo | fuera | 8-6 | 15 (4) - 17 (9) | 4-2 |
 | 2026-09-27 | Segunda División | Oviedo 2-0 Sporting Gijon | casa | 5-4 | 16 (6) - 11 (3) | 4-6 |
-| 2026-09-20 | Segunda División | Sabadell 3-1 Oviedo | fuera | 1-4 | 9 (2) - 16 (7) | 2-2 |
 
 ## Jugadores de Oviedo
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -187,43 +187,43 @@ _Sin bajas comunicadas por ahora._
 | Sergio Ruiz | M | 3 | 80 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 1,19 · córners esperados 10,2._
+_Goles esperados: local 1,95 · visitante 1,25 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 24% | 22% | 23% | 4.20 | -5% |
+| 1X2: 2 | 24% | 22% | 23% | 4.20 | -3% |
 | 1X2: X | 22% | 26% | 24% | 3.50 | -16% |
 | 1X2: 1 | 54% | 52% | 53% | 1.75 | -7% |
-| Doble oportunidad: X2 | 46% | 49% | 47% | 1.91 | -10% |
+| Doble oportunidad: X2 | 46% | 49% | 47% | 1.91 | -9% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 76% | 77% | 77% | 1.20 | -8% |
-| Ambos marcan: No | 41% | 50% | 45% | 1.83 | -17% |
-| Ambos marcan: Sí | 59% | 50% | 55% | 1.83 | +0% |
-| Goles más/menos: Más de 1.5 | 82% | 73% | 77% | 1.28 | -1% |
-| Goles más/menos: Más de 2.5 | 60% | 49% | 54% | 1.95 | +6% |
-| Goles más/menos: Más de 3.5 | 38% | 29% | 33% | 3.25 | +9% |
-| Goles más/menos: Menos de 1.5 | 18% | 27% | 23% | 3.50 | -21% |
-| Goles más/menos: Menos de 2.5 | 40% | 51% | 46% | 1.85 | -16% |
-| Goles más/menos: Menos de 3.5 | 62% | 71% | 67% | 1.33 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles del local: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles del local: Más de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
-| Goles del local: Más de 2.5 | 30% | 25% | 28% | 3.75 | +3% |
-| Goles del local: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles del local: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Goles del local: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -9% |
-| Goles del visitante: Más de 0.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del visitante: Más de 1.5 | 34% | 27% | 30% | 3.50 | +6% |
-| Goles del visitante: Menos de 0.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del visitante: Menos de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Córners más/menos: Más de 9.5 | 51% | 51% | 51% | 1.80 | -8% |
-| Córners más/menos: Menos de 9.5 | 49% | 49% | 49% | 1.91 | -7% |
-| 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -10% |
+| Doble oportunidad: 1X | 76% | 77% | 76% | 1.20 | -8% |
+| Ambos marcan: No | 39% | 50% | 44% | 1.83 | -19% |
+| Ambos marcan: Sí | 61% | 50% | 56% | 1.83 | +2% |
+| Goles más/menos: Más de 1.5 | 83% | 73% | 78% | 1.28 | -0% |
+| Goles más/menos: Más de 2.5 | 62% | 49% | 55% | 1.95 | +8% |
+| Goles más/menos: Más de 3.5 | 40% | 29% | 34% | 3.25 | +12% |
+| Goles más/menos: Menos de 1.5 | 17% | 27% | 22% | 3.50 | -23% |
+| Goles más/menos: Menos de 2.5 | 38% | 51% | 45% | 1.85 | -17% |
+| Goles más/menos: Menos de 3.5 | 60% | 71% | 66% | 1.33 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 69% | 72% | 1.36 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 34% | 37% | 2.75 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles del local: Más de 0.5 | 86% | 79% | 83% | 1.18 | -3% |
+| Goles del local: Más de 1.5 | 58% | 50% | 54% | 1.83 | -1% |
+| Goles del local: Más de 2.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles del local: Menos de 0.5 | 14% | 21% | 17% | 4.50 | -21% |
+| Goles del local: Menos de 1.5 | 42% | 50% | 46% | 1.83 | -16% |
+| Goles del local: Menos de 2.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Más de 0.5 | 71% | 62% | 67% | 1.50 | +0% |
+| Goles del visitante: Más de 1.5 | 36% | 27% | 31% | 3.50 | +9% |
+| Goles del visitante: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del visitante: Menos de 1.5 | 64% | 73% | 69% | 1.28 | -12% |
+| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -9% |
+| Córners más/menos: Menos de 9.5 | 50% | 49% | 49% | 1.91 | -6% |
+| 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -11% |
 | 1X2 descanso: 1 | 40% | 39% | 40% | 2.38 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Bournemouth – Leeds
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -206,40 +206,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 0,97 · córners esperados 9,0._
+_Goles esperados: local 1,97 · visitante 0,96 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 18% | 27% | 22% | 3.50 | -22% |
 | 1X2: X | 21% | 28% | 24% | 3.40 | -17% |
-| 1X2: 1 ✅ | 61% | 46% | 53% | 2.05 | +10% |
+| 1X2: 1 ✅ | 61% | 46% | 53% | 2.05 | +9% |
 | Doble oportunidad: X2 | 39% | 54% | 47% | 1.73 | -19% |
-| Doble oportunidad: 12 | 79% | 72% | 76% | 1.30 | -2% |
+| Doble oportunidad: 12 | 79% | 72% | 75% | 1.30 | -2% |
 | Doble oportunidad: 1X | 82% | 73% | 78% | 1.28 | -0% |
-| Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
-| Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 79% | 75% | 77% | 1.28 | -1% |
-| Goles más/menos: Más de 2.5 | 57% | 50% | 53% | 1.91 | +2% |
-| Goles más/menos: Más de 3.5 | 34% | 30% | 32% | 3.20 | +3% |
-| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 43% | 50% | 47% | 1.91 | -11% |
-| Goles más/menos: Menos de 3.5 | 66% | 70% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -5% |
+| Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -8% |
+| Goles más/menos: Más de 1.5 | 79% | 75% | 77% | 1.28 | -2% |
+| Goles más/menos: Más de 2.5 | 56% | 50% | 53% | 1.91 | +1% |
+| Goles más/menos: Más de 3.5 | 34% | 30% | 32% | 3.20 | +2% |
+| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles más/menos: Menos de 2.5 | 44% | 50% | 47% | 1.91 | -10% |
+| Goles más/menos: Menos de 3.5 | 66% | 70% | 68% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
 | Goles del local: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del local: Más de 2.5 | 32% | 23% | 28% | 4.00 | +11% |
-| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -24% |
-| Goles del local: Menos de 1.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Goles del local: Menos de 2.5 | 68% | 77% | 72% | 1.22 | -12% |
+| Goles del local: Más de 1.5 | 59% | 49% | 54% | 1.91 | +2% |
+| Goles del local: Más de 2.5 | 32% | 23% | 27% | 4.00 | +10% |
+| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -23% |
+| Goles del local: Menos de 1.5 | 41% | 51% | 46% | 1.80 | -16% |
+| Goles del local: Menos de 2.5 | 68% | 77% | 73% | 1.22 | -11% |
 | Goles del visitante: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
-| Goles del visitante: Más de 1.5 | 25% | 31% | 28% | 3.00 | -15% |
+| Goles del visitante: Más de 1.5 | 25% | 31% | 28% | 3.00 | -16% |
 | Goles del visitante: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del visitante: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
-| Córners más/menos: Más de 9.5 | 41% | 47% | 44% | 2.00 | -12% |
-| Córners más/menos: Menos de 9.5 | 59% | 53% | 56% | 1.80 | +1% |
+| Córners más/menos: Más de 9.5 | 40% | 47% | 44% | 2.00 | -12% |
+| Córners más/menos: Menos de 9.5 | 60% | 53% | 56% | 1.80 | +1% |
 | 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -20% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: 1 | 44% | 36% | 40% | 2.60 | +4% |

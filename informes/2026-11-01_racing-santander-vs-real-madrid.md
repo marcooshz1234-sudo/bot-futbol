@@ -1,10 +1,10 @@
 # Racing Santander – Real Madrid
-**LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · Estadio El Sardinero
+**LaLiga** · Regular Season - 11 · 01/11/2026 16:15 (hora España) · El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 19:56_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **10.00**  ·  X **6.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.11**  ·  X2 **1.06**
@@ -63,21 +63,21 @@ _Actualizadas: 29/10 19:56_
 ## Estadísticas de equipo
 | | Racing Santander (total) | Racing Santander en casa | Real Madrid (total) | Real Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 13 | 6 |
-| Forma (últimos 5) | VDEDD | VEVVE | VVVVV | VVDVD |
-| Balance | 3V 2E 5D | 3V 2E 0D | 11V 0E 2D | 4V 0E 2D |
-| Goles a favor / partido | 1,50 | 2,20 | 2,69 | 2,00 |
-| Goles en contra / partido | 2,60 | 1,60 | 1,15 | 1,67 |
-| Goles a favor 1ª parte | 1,00 | 1,40 | 1,31 | 0,83 |
-| Goles a favor 2ª parte | 0,50 | 0,80 | 1,38 | 1,17 |
-| Goles en contra 1ª parte | 1,30 | 0,80 | 0,23 | 0,33 |
-| Goles en contra 2ª parte | 1,30 | 0,80 | 0,92 | 1,33 |
-| Más de 1,5 goles | 90% | 100% | 85% | 83% |
-| Más de 2,5 goles | 80% | 100% | 85% | 83% |
-| Más de 3,5 goles | 60% | 60% | 54% | 33% |
-| Ambos marcan | 70% | 100% | 77% | 83% |
-| Portería a cero | 0% | 0% | 15% | 0% |
-| Se queda sin marcar | 30% | 0% | 8% | 17% |
+| Partidos analizados | 11 | 5 | 13 | 6 |
+| Forma (últimos 5) | VVDED | VEVVE | VVVVV | VVDVD |
+| Balance | 4V 2E 5D | 3V 2E 0D | 11V 0E 2D | 4V 0E 2D |
+| Goles a favor / partido | 1,55 | 2,20 | 2,69 | 2,00 |
+| Goles en contra / partido | 2,36 | 1,60 | 1,15 | 1,67 |
+| Goles a favor 1ª parte | 0,91 | 1,40 | 1,31 | 0,83 |
+| Goles a favor 2ª parte | 0,64 | 0,80 | 1,38 | 1,17 |
+| Goles en contra 1ª parte | 1,18 | 0,80 | 0,23 | 0,33 |
+| Goles en contra 2ª parte | 1,18 | 0,80 | 0,92 | 1,33 |
+| Más de 1,5 goles | 91% | 100% | 85% | 83% |
+| Más de 2,5 goles | 73% | 100% | 85% | 83% |
+| Más de 3,5 goles | 55% | 60% | 54% | 33% |
+| Ambos marcan | 64% | 100% | 77% | 83% |
+| Portería a cero | 9% | 0% | 15% | 0% |
+| Se queda sin marcar | 27% | 0% | 8% | 17% |
 | xG a favor | 1,42 | 1,88 | 2,44 | 2,26 |
 | xG en contra | 2,15 | 1,22 | 1,16 | 1,31 |
 | Tiros / partido | 12,4 | 16,8 | 16,8 | 15,8 |
@@ -105,16 +105,17 @@ _Actualizadas: 29/10 19:56_
 | Tramo | Goles Racing Santander | Recibe Racing Santander | Tarjetas Racing Santander | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 3 | 3 | 0 | 2 |
-| 16-30' | 4 | 3 | 4 | 8 | 2 | 2 |
+| 16-30' | 4 | 3 | 5 | 8 | 2 | 2 |
 | 31-45' | 4 | 7 | 6 | 6 | 1 | 2 |
-| 46-60' | 2 | 1 | 3 | 2 | 5 | 4 |
-| 61-75' | 2 | 4 | 6 | 3 | 2 | 6 |
+| 46-60' | 3 | 1 | 3 | 2 | 5 | 4 |
+| 61-75' | 3 | 4 | 6 | 3 | 2 | 6 |
 | 76-90' | 1 | 8 | 6 | 13 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Racing Santander:** J. Salinas (baja, Yellow Cards); S. Eriksson (duda, Shoulder Injury); J. Salinas (baja, Yellow Cards); S. Eriksson (duda, Shoulder Injury)
+**Real Madrid:** R. Asencio (baja, Broken Leg); Rodrygo (baja, Knee Injury); Vinicius Junior (baja, Red Card); T. Courtois (duda, Illness); F. Mendy (duda, Hip Injury); F. Valverde (duda, Hamstring Injury); R. Asencio (baja, Broken Leg); Rodrygo (baja, Knee Injury); Vinicius Junior (baja, Red Card); T. Courtois (duda, Illness); F. Mendy (duda, Hip Injury); F. Valverde (duda, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 - 2012-02-18 · La Liga: Real Madrid 4-0 Racing Santander
@@ -125,12 +126,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Racing Santander
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Ribadesella CF 0-2 Racing Santander | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Racing Santander 2-1 Espanyol | casa | 9-4 | 23 (9) - 11 (1) | 3-4 |
 | 2026-10-18 | LaLiga | Osasuna 2-0 Racing Santander | fuera | 4-7 | 9 (1) - 20 (7) | 3-2 |
 | 2026-10-11 | LaLiga | Racing Santander 2-2 Valencia | casa | 8-3 | 20 (11) - 10 (2) | 3-3 |
 | 2026-09-19 | LaLiga | Celta Vigo 5-0 Racing Santander | fuera | 3-3 | 11 (5) - 13 (9) | 5-2 |
 | 2026-09-16 | LaLiga | Barcelona 7-2 Racing Santander | fuera | 0-18 | 5 (3) - 30 (9) | 2-3 |
-| 2026-09-12 | LaLiga | Racing Santander 2-1 Alaves | casa | 4-6 | 11 (4) - 16 (8) | 2-3 |
 
 ## Jugadores de Racing Santander
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -191,43 +192,43 @@ _Sin bajas comunicadas por ahora._
 | A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 3,48 · córners esperados 11,2._
+_Goles esperados: local 1,01 · visitante 3,31 · córners esperados 11,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 83% | 76% | 80% | 1.22 | -3% |
-| 1X2: X | 10% | 14% | 12% | 6.50 | -20% |
-| 1X2: 1 | 7% | 9% | 8% | 10.00 | -20% |
-| Doble oportunidad: X2 | 93% | 90% | 92% | 1.06 | -3% |
-| Doble oportunidad: 12 | 90% | 86% | 88% | 1.11 | -2% |
-| Doble oportunidad: 1X | 17% | 24% | 20% | 4.00 | -19% |
+| 1X2: 2 | 81% | 76% | 79% | 1.22 | -4% |
+| 1X2: X | 11% | 14% | 13% | 6.50 | -17% |
+| 1X2: 1 | 8% | 9% | 9% | 10.00 | -15% |
+| Doble oportunidad: X2 | 92% | 90% | 91% | 1.06 | -3% |
+| Doble oportunidad: 12 | 89% | 86% | 87% | 1.11 | -3% |
+| Doble oportunidad: 1X | 19% | 24% | 21% | 4.00 | -14% |
 | Ambos marcan: No | 39% | 38% | 38% | 2.50 | -5% |
 | Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 2.5 | 82% | 79% | 81% | 1.20 | -3% |
-| Goles más/menos: Más de 3.5 | 65% | 62% | 64% | 1.53 | -2% |
-| Goles más/menos: Más de 4.5 | 46% | 43% | 45% | 2.20 | -1% |
-| Goles más/menos: Más de 5.5 | 29% | 27% | 28% | 3.50 | -1% |
-| Goles más/menos: Menos de 2.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles más/menos: Menos de 3.5 | 35% | 38% | 36% | 2.50 | -9% |
-| Goles más/menos: Menos de 4.5 | 54% | 57% | 55% | 1.67 | -8% |
-| Goles más/menos: Menos de 5.5 | 71% | 73% | 72% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del local: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles del local: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles del local: Menos de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Goles del visitante: Más de 2.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Goles del visitante: Más de 3.5 | 46% | 41% | 44% | 2.25 | -2% |
-| Goles del visitante: Más de 4.5 | 27% | 23% | 25% | 4.00 | +1% |
-| Goles del visitante: Menos de 2.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles del visitante: Menos de 3.5 | 54% | 59% | 56% | 1.57 | -11% |
-| Goles del visitante: Menos de 4.5 | 73% | 77% | 75% | 1.22 | -9% |
+| Goles más/menos: Más de 2.5 | 81% | 79% | 80% | 1.20 | -4% |
+| Goles más/menos: Más de 3.5 | 63% | 62% | 62% | 1.53 | -5% |
+| Goles más/menos: Más de 4.5 | 43% | 43% | 43% | 2.20 | -5% |
+| Goles más/menos: Más de 5.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles más/menos: Menos de 2.5 | 19% | 21% | 20% | 4.50 | -9% |
+| Goles más/menos: Menos de 3.5 | 37% | 38% | 38% | 2.50 | -6% |
+| Goles más/menos: Menos de 4.5 | 57% | 57% | 57% | 1.67 | -5% |
+| Goles más/menos: Menos de 5.5 | 73% | 73% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 31% | 30% | 3.00 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 69% | 70% | 1.36 | -5% |
+| Goles del local: Más de 0.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 1.5 | 27% | 29% | 28% | 3.25 | -9% |
+| Goles del local: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles del local: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles del visitante: Más de 2.5 | 64% | 62% | 63% | 1.50 | -5% |
+| Goles del visitante: Más de 3.5 | 42% | 41% | 42% | 2.25 | -6% |
+| Goles del visitante: Más de 4.5 | 24% | 23% | 24% | 4.00 | -5% |
+| Goles del visitante: Menos de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles del visitante: Menos de 3.5 | 58% | 59% | 58% | 1.57 | -8% |
+| Goles del visitante: Menos de 4.5 | 76% | 77% | 76% | 1.22 | -7% |
 | Córners más/menos: Más de 10.5 | 51% | 52% | 51% | 1.82 | -6% |
 | Córners más/menos: Menos de 10.5 | 49% | 48% | 49% | 1.98 | -4% |
-| 1X2 descanso: 2 | 64% | 60% | 62% | 1.53 | -5% |
-| 1X2 descanso: X | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2 descanso: 2 | 62% | 60% | 61% | 1.53 | -6% |
+| 1X2 descanso: X | 27% | 27% | 27% | 3.40 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

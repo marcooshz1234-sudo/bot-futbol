@@ -1,10 +1,10 @@
 # Chelsea – Manchester United
 **Premier League** · Regular Season - 9 · 31/10/2026 13:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:02_
 
 - **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
@@ -132,8 +132,8 @@ _Actualizadas: 29/10 14:01_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Chelsea:** R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Injury); R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Injury)
-**Manchester United:** P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); B. Fernandes (duda, Injury); K. Mainoo (duda, Injury); M. Rashford (duda, Hip Injury); P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); B. Fernandes (duda, Injury); K. Mainoo (duda, Injury); M. Rashford (duda, Hip Injury)
+**Chelsea:** R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); M. Caicedo (duda, Injury); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Muscle Injury); R. James (baja, Knee Injury); Joao Pedro (baja, Thigh Injury); E. Martinez (baja, Broken jawbone); M. Caicedo (duda, Injury); P. Chavarria (duda, Injury); J. Gittens (duda, Ankle Injury); M. Lacroix (duda, Muscle Injury)
+**Manchester United:** P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); M. Rashford (duda, Hip Injury); P. Dorgu (baja, Hamstring Injury); B. Sesko (baja, Leg Injury); L. Shaw (baja, Injury); M. Ugarte (baja, Knee Injury); M. Rashford (duda, Hip Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-18 · Premier League: Chelsea 0-1 Manchester United
@@ -212,40 +212,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | B. Šeško | F | 6 | 206 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,69 · visitante 1,54 · córners esperados 9,5._
+_Goles esperados: local 2,63 · visitante 1,55 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 23% | 22% | 4.10 | -11% |
-| 1X2: X | 17% | 25% | 21% | 3.75 | -20% |
-| 1X2: 1 | 62% | 52% | 57% | 1.80 | +3% |
-| Doble oportunidad: X2 | 38% | 48% | 43% | 1.95 | -16% |
-| Doble oportunidad: 12 | 83% | 75% | 79% | 1.25 | -2% |
+| 1X2: 2 | 21% | 23% | 22% | 4.10 | -9% |
+| 1X2: X | 18% | 25% | 21% | 3.75 | -20% |
+| 1X2: 1 | 61% | 52% | 56% | 1.80 | +2% |
+| Doble oportunidad: X2 | 39% | 48% | 44% | 1.95 | -15% |
+| Doble oportunidad: 12 | 82% | 75% | 79% | 1.25 | -2% |
 | Doble oportunidad: 1X | 79% | 77% | 78% | 1.22 | -5% |
-| Ambos marcan: No | 27% | 39% | 33% | 2.38 | -22% |
-| Ambos marcan: Sí | 73% | 61% | 67% | 1.53 | +3% |
-| Goles más/menos: Más de 2.5 | 79% | 60% | 70% | 1.57 | +10% |
-| Goles más/menos: Más de 3.5 | 61% | 41% | 51% | 2.30 | +18% |
-| Goles más/menos: Más de 4.5 ✅ | 42% | 22% | 32% | 4.33 | +37% |
-| Goles más/menos: Menos de 2.5 | 21% | 40% | 30% | 2.38 | -28% |
-| Goles más/menos: Menos de 3.5 | 39% | 59% | 49% | 1.62 | -21% |
-| Goles más/menos: Menos de 4.5 | 58% | 78% | 68% | 1.22 | -17% |
+| Ambos marcan: No | 27% | 39% | 33% | 2.38 | -21% |
+| Ambos marcan: Sí | 73% | 61% | 67% | 1.53 | +2% |
+| Goles más/menos: Más de 2.5 | 79% | 60% | 69% | 1.57 | +9% |
+| Goles más/menos: Más de 3.5 | 60% | 41% | 51% | 2.30 | +17% |
+| Goles más/menos: Más de 4.5 ✅ | 41% | 22% | 31% | 4.33 | +36% |
+| Goles más/menos: Menos de 2.5 | 21% | 40% | 31% | 2.38 | -27% |
+| Goles más/menos: Menos de 3.5 | 40% | 59% | 49% | 1.62 | -20% |
+| Goles más/menos: Menos de 4.5 | 59% | 78% | 69% | 1.22 | -16% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 75% | 79% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Goles del local: Más de 1.5 | 75% | 58% | 66% | 1.62 | +7% |
-| Goles del local: Más de 2.5 ✅ | 50% | 34% | 42% | 2.75 | +16% |
-| Goles del local: Menos de 1.5 | 25% | 42% | 34% | 2.20 | -26% |
-| Goles del local: Menos de 2.5 | 50% | 66% | 58% | 1.40 | -19% |
-| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -1% |
-| Goles del visitante: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 54% | 42% | 48% | 2.20 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 25% | 21% | 3.75 | -22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 58% | 52% | 1.62 | -16% |
+| Goles del local: Más de 1.5 | 74% | 58% | 66% | 1.62 | +6% |
+| Goles del local: Más de 2.5 ✅ | 49% | 34% | 41% | 2.75 | +14% |
+| Goles del local: Menos de 1.5 | 26% | 42% | 34% | 2.20 | -25% |
+| Goles del local: Menos de 2.5 | 51% | 66% | 59% | 1.40 | -18% |
+| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles del visitante: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles del visitante: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| Goles del visitante: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
 | Córners más/menos: Más de 10.5 | 37% | 44% | 41% | 2.10 | -15% |
 | Córners más/menos: Menos de 10.5 | 63% | 56% | 59% | 1.67 | -1% |
-| 1X2 descanso: 2 | 21% | 21% | 21% | 4.33 | -8% |
-| 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |
-| 1X2 descanso: 1 | 48% | 41% | 45% | 2.25 | +0% |
+| 1X2 descanso: 2 | 22% | 21% | 22% | 4.33 | -7% |
+| 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -14% |
+| 1X2 descanso: 1 | 47% | 41% | 44% | 2.25 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

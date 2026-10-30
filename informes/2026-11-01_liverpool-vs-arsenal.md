@@ -1,10 +1,10 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 19:56_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.36**
@@ -133,7 +133,8 @@ _Actualizadas: 29/10 19:56_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Liverpool:** C. Bradley (baja, Knee Injury); H. Ekitike (baja, Achilles Tendon Injury); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury); V. Munoz (duda, Knee Injury); D. Szoboszlai (duda, Muscle Injury); C. Bradley (baja, Knee Injury); H. Ekitike (baja, Achilles Tendon Injury); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury); V. Munoz (duda, Knee Injury); D. Szoboszlai (duda, Muscle Injury)
+**Arsenal:** M. Dowman (baja, Red Card); B. Saka (baja, Thigh Injury); W. Saliba (baja, Back Injury); R. Calafiori (duda, Ribs Injury); N. Madueke (duda, Ankle Injury); C. Tzolis (duda, Hamstring Injury); M. Dowman (baja, Red Card); B. Saka (baja, Thigh Injury); W. Saliba (baja, Back Injury); R. Calafiori (duda, Ribs Injury); N. Madueke (duda, Ankle Injury); C. Tzolis (duda, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-08 · Premier League: Arsenal 0-0 Liverpool
@@ -212,7 +213,7 @@ _Sin bajas comunicadas por ahora._
 | P. Hincapié | D | 5 | 220 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 1 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,46 · córners esperados 9,2._
+_Goles esperados: local 1,08 · visitante 1,45 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -222,31 +223,31 @@ _Goles esperados: local 1,08 · visitante 1,46 · córners esperados 9,2._
 | Doble oportunidad: X2 | 72% | 69% | 71% | 1.36 | -4% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 54% | 58% | 56% | 1.62 | -9% |
-| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
-| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
+| Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
+| Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -11% |
 | Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -7% |
-| Goles más/menos: Más de 2.5 | 47% | 53% | 50% | 1.80 | -11% |
-| Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
-| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +3% |
-| Goles más/menos: Menos de 2.5 | 53% | 47% | 50% | 2.00 | +1% |
-| Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -1% |
+| Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -11% |
+| Goles más/menos: Más de 3.5 | 25% | 30% | 27% | 3.20 | -13% |
+| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +4% |
+| Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +1% |
+| Goles más/menos: Menos de 3.5 | 75% | 70% | 73% | 1.36 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles del local: Más de 1.5 | 29% | 38% | 33% | 2.50 | -16% |
-| Goles del local: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
+| Goles del local: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles del local: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
 | Goles del local: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Goles del visitante: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles del visitante: Más de 2.5 | 18% | 21% | 19% | 4.50 | -12% |
-| Goles del visitante: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles del visitante: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
+| Goles del visitante: Más de 0.5 | 77% | 77% | 77% | 1.22 | -7% |
+| Goles del visitante: Más de 1.5 | 43% | 44% | 43% | 2.10 | -9% |
+| Goles del visitante: Más de 2.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles del visitante: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -6% |
+| Goles del visitante: Menos de 1.5 | 57% | 56% | 57% | 1.67 | -6% |
 | Goles del visitante: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Córners más/menos: Más de 9.5 | 43% | 50% | 46% | 1.83 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 50% | 54% | 1.83 | -2% |
-| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -5% |
+| 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
 | 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
 | 1X2 descanso: 1 | 23% | 27% | 25% | 3.50 | -14% |
 

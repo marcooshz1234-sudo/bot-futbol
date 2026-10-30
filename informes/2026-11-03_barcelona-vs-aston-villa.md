@@ -1,7 +1,7 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_
@@ -178,41 +178,41 @@ _Sin precedentes recientes._
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,86 · visitante 1,55 · córners esperados 9,3._
+_Goles esperados: local 2,98 · visitante 1,48 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 9% | 14% | 11.00 | +51% |
-| 1X2: X | 16% | 15% | 16% | 6.25 | -1% |
-| 1X2: 1 | 65% | 76% | 70% | 1.25 | -12% |
-| Doble oportunidad: X2 ✅ | 35% | 25% | 30% | 3.75 | +14% |
-| Doble oportunidad: 12 | 84% | 85% | 84% | 1.12 | -6% |
-| Doble oportunidad: 1X | 81% | 90% | 86% | 1.05 | -10% |
-| Ambos marcan: No | 26% | 38% | 32% | 2.50 | -21% |
-| Ambos marcan: Sí | 74% | 62% | 68% | 1.50 | +3% |
-| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 3.5 | 64% | 60% | 62% | 1.57 | -2% |
-| Goles más/menos: Más de 4.5 | 45% | 41% | 43% | 2.30 | -0% |
-| Goles más/menos: Más de 5.5 | 28% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -13% |
-| Goles más/menos: Menos de 3.5 | 36% | 40% | 38% | 2.38 | -10% |
-| Goles más/menos: Menos de 4.5 | 55% | 59% | 57% | 1.62 | -8% |
-| Goles más/menos: Menos de 5.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 29% | 30% | 3.25 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
-| Goles del local: Más de 2.5 | 55% | 61% | 58% | 1.53 | -12% |
-| Goles del local: Más de 3.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Más de 4.5 | 16% | 23% | 20% | 4.00 | -21% |
-| Goles del local: Menos de 2.5 | 45% | 39% | 42% | 2.38 | +1% |
-| Goles del local: Menos de 3.5 | 68% | 61% | 64% | 1.53 | -2% |
-| Goles del local: Menos de 4.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del visitante: Más de 0.5 | 79% | 65% | 72% | 1.44 | +3% |
-| Goles del visitante: Más de 1.5 ✅ | 46% | 29% | 37% | 3.25 | +22% |
-| Goles del visitante: Menos de 0.5 | 21% | 35% | 28% | 2.62 | -26% |
-| Goles del visitante: Menos de 1.5 | 54% | 71% | 63% | 1.33 | -17% |
-| 1X2 descanso: X | 30% | 27% | 29% | 3.40 | -3% |
-| 1X2 descanso: 1 | 50% | 60% | 55% | 1.53 | -16% |
+| 1X2: 2 | 17% | 9% | 13% | 11.00 | +39% |
+| 1X2: X | 16% | 15% | 15% | 6.25 | -4% |
+| 1X2: 1 | 68% | 76% | 72% | 1.25 | -10% |
+| Doble oportunidad: X2 | 32% | 25% | 29% | 3.75 | +8% |
+| Doble oportunidad: 12 | 84% | 85% | 84% | 1.12 | -5% |
+| Doble oportunidad: 1X | 83% | 90% | 87% | 1.05 | -9% |
+| Ambos marcan: No | 27% | 38% | 32% | 2.50 | -20% |
+| Ambos marcan: Sí | 73% | 62% | 68% | 1.50 | +2% |
+| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -2% |
+| Goles más/menos: Más de 3.5 | 65% | 60% | 63% | 1.57 | -2% |
+| Goles más/menos: Más de 4.5 | 46% | 41% | 44% | 2.30 | +0% |
+| Goles más/menos: Más de 5.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles más/menos: Menos de 3.5 | 35% | 40% | 37% | 2.38 | -11% |
+| Goles más/menos: Menos de 4.5 | 54% | 59% | 56% | 1.62 | -9% |
+| Goles más/menos: Menos de 5.5 | 71% | 75% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 29% | 30% | 3.25 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -7% |
+| Goles del local: Más de 2.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles del local: Más de 3.5 | 35% | 39% | 37% | 2.38 | -12% |
+| Goles del local: Más de 4.5 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles del local: Menos de 2.5 | 43% | 39% | 41% | 2.38 | -2% |
+| Goles del local: Menos de 3.5 | 65% | 61% | 63% | 1.53 | -4% |
+| Goles del local: Menos de 4.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 1.5 ✅ | 44% | 29% | 36% | 3.25 | +18% |
+| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Menos de 1.5 | 56% | 71% | 64% | 1.33 | -15% |
+| 1X2 descanso: X | 29% | 27% | 28% | 3.40 | -4% |
+| 1X2 descanso: 1 | 52% | 60% | 56% | 1.53 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Getafe (total) | Getafe en casa | Brighton (total) | Brighton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 14 | 8 |
-| Forma (últimos 5) | DDEED | DEVEE | EDEVV | EDEVV |
-| Balance | 3V 4E 7D | 3V 3E 1D | 8V 4E 2D | 3V 3E 2D |
-| Goles a favor / partido | 0,86 | 1,43 | 2,57 | 1,88 |
-| Goles en contra / partido | 1,71 | 1,29 | 0,79 | 1,25 |
-| Goles a favor 1ª parte | 0,21 | 0,43 | 1,29 | 0,50 |
-| Goles a favor 2ª parte | 0,64 | 1,00 | 1,29 | 1,38 |
-| Goles en contra 1ª parte | 0,79 | 0,71 | 0,64 | 1,00 |
-| Goles en contra 2ª parte | 0,93 | 0,57 | 0,14 | 0,25 |
-| Más de 1,5 goles | 71% | 71% | 86% | 75% |
-| Más de 2,5 goles | 43% | 29% | 64% | 50% |
-| Más de 3,5 goles | 21% | 29% | 57% | 50% |
-| Ambos marcan | 50% | 71% | 29% | 38% |
-| Portería a cero | 14% | 29% | 64% | 50% |
-| Se queda sin marcar | 36% | 0% | 21% | 38% |
+| Partidos analizados | 15 | 7 | 14 | 8 |
+| Forma (últimos 5) | VDDEE | DEVEE | EDEVV | EDEVV |
+| Balance | 4V 4E 7D | 3V 3E 1D | 8V 4E 2D | 3V 3E 2D |
+| Goles a favor / partido | 1,00 | 1,43 | 2,57 | 1,88 |
+| Goles en contra / partido | 1,73 | 1,29 | 0,79 | 1,25 |
+| Goles a favor 1ª parte | 0,33 | 0,43 | 1,29 | 0,50 |
+| Goles a favor 2ª parte | 0,67 | 1,00 | 1,29 | 1,38 |
+| Goles en contra 1ª parte | 0,87 | 0,71 | 0,64 | 1,00 |
+| Goles en contra 2ª parte | 0,87 | 0,57 | 0,14 | 0,25 |
+| Más de 1,5 goles | 73% | 71% | 86% | 75% |
+| Más de 2,5 goles | 47% | 29% | 64% | 50% |
+| Más de 3,5 goles | 27% | 29% | 57% | 50% |
+| Ambos marcan | 53% | 71% | 29% | 38% |
+| Portería a cero | 13% | 29% | 64% | 50% |
+| Se queda sin marcar | 33% | 0% | 21% | 38% |
 | xG a favor | 0,79 | 1,04 | 2,13 | 1,70 |
 | xG en contra | 1,38 | 1,29 | 1,14 | 1,23 |
 | Tiros / partido | 11,5 | 14,7 | 19,9 | 18,4 |
@@ -50,11 +50,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Getafe | Recibe Getafe | Tarjetas Getafe | Goles Brighton | Recibe Brighton | Tarjetas Brighton |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 4 | 3 | 4 | 5 | 3 |
-| 16-30' | 1 | 3 | 8 | 4 | 2 | 1 |
-| 31-45' | 0 | 4 | 10 | 10 | 2 | 6 |
+| 1-15' | 2 | 5 | 4 | 4 | 5 | 3 |
+| 16-30' | 1 | 4 | 9 | 4 | 2 | 1 |
+| 31-45' | 2 | 4 | 10 | 10 | 2 | 6 |
 | 46-60' | 1 | 4 | 9 | 6 | 0 | 5 |
-| 61-75' | 3 | 3 | 12 | 6 | 2 | 5 |
+| 61-75' | 4 | 3 | 13 | 6 | 2 | 5 |
 | 76-90' | 5 | 6 | 12 | 6 | 0 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -68,12 +68,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Getafe
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Lebrijana 2-3 Getafe | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | LaLiga | Athletic Club 4-0 Getafe | fuera | 4-2 | 7 (1) - 11 (4) | 3-1 |
 | 2026-10-22 | Conference League | Getafe 2-5 FC Lugano | casa | 12-2 | 22 (7) - 8 (5) | 1-5 |
 | 2026-10-19 | LaLiga | Getafe 1-1 Rayo Vallecano | casa | 8-8 | 12 (4) - 21 (5) | 6-3 |
 | 2026-10-15 | Conference League | Universitatea Craiova 1-1 Getafe | fuera | 4-4 | 13 (3) - 12 (4) | 1-4 |
 | 2026-10-10 | LaLiga | Barcelona 3-0 Getafe | fuera | 2-9 | 4 (1) - 23 (8) | 4-2 |
-| 2026-09-20 | LaLiga | Getafe 1-0 Malaga | casa | 5-9 | 20 (7) - 11 (4) | 4-2 |
 
 ## Jugadores de Getafe
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -134,6 +134,6 @@ _Sin bajas comunicadas por ahora._
 | M. Svoboda | D | 5 | 273 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,51 · visitante 2,30 · córners esperados 9,9._
+_Goles esperados: local 0,58 · visitante 2,22 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

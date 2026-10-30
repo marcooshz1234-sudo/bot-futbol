@@ -1,10 +1,10 @@
 # Brentford – Nottingham Forest
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Gtech Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
@@ -207,40 +207,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | L. Netz | D | 5 | 75 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,81 · visitante 1,05 · córners esperados 9,4._
+_Goles esperados: local 1,80 · visitante 1,06 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 26% | 24% | 3.60 | -14% |
-| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
+| 1X2: 2 | 22% | 26% | 24% | 3.60 | -13% |
+| 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
 | 1X2: 1 | 55% | 47% | 51% | 2.00 | +2% |
-| Doble oportunidad: X2 | 45% | 52% | 48% | 1.80 | -13% |
+| Doble oportunidad: X2 | 45% | 52% | 49% | 1.80 | -12% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 78% | 75% | 77% | 1.25 | -4% |
-| Ambos marcan: No | 46% | 42% | 44% | 2.20 | -3% |
-| Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -9% |
+| Doble oportunidad: 1X | 78% | 75% | 76% | 1.25 | -5% |
+| Ambos marcan: No | 45% | 42% | 44% | 2.20 | -3% |
+| Ambos marcan: Sí | 55% | 58% | 56% | 1.62 | -9% |
 | Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles más/menos: Más de 2.5 | 54% | 55% | 55% | 1.73 | -5% |
 | Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
 | Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
 | Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 62% | 64% | 1.50 | -4% |
 | Goles del local: Más de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles del local: Más de 2.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles del local: Más de 2.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del local: Menos de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles del local: Menos de 2.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles del local: Menos de 2.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Goles del visitante: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles del visitante: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles del visitante: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles del visitante: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
-| Goles del visitante: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| Goles del visitante: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | Córners más/menos: Más de 9.5 | 44% | 54% | 49% | 1.73 | -16% |
-| Córners más/menos: Menos de 9.5 | 56% | 46% | 51% | 2.00 | +3% |
-| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -15% |
+| Córners más/menos: Menos de 9.5 | 56% | 46% | 51% | 2.00 | +2% |
+| 1X2 descanso: 2 | 20% | 23% | 21% | 4.00 | -14% |
 | 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
-| 1X2 descanso: 1 | 40% | 37% | 39% | 2.50 | -4% |
+| 1X2 descanso: 1 | 40% | 37% | 38% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

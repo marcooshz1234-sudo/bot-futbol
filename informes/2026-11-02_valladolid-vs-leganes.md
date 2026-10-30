@@ -1,7 +1,7 @@
 # Valladolid – Leganes
 **Segunda División** · Regular Season - 12 · 02/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:00_
@@ -57,21 +57,21 @@ _Actualizadas: 29/10 08:00_
 ## Estadísticas de equipo
 | | Valladolid (total) | Valladolid en casa | Leganes (total) | Leganes fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 6 |
-| Forma (últimos 5) | DDVEV | DVVDV | EDDDD | DDDEV |
-| Balance | 3V 3E 5D | 3V 0E 2D | 3V 3E 5D | 1V 2E 3D |
-| Goles a favor / partido | 1,45 | 2,20 | 0,64 | 0,33 |
-| Goles en contra / partido | 1,45 | 1,40 | 1,45 | 1,67 |
-| Goles a favor 1ª parte | 0,91 | 1,40 | 0,27 | 0,17 |
-| Goles a favor 2ª parte | 0,55 | 0,80 | 0,36 | 0,17 |
-| Goles en contra 1ª parte | 0,64 | 0,80 | 0,45 | 0,33 |
-| Goles en contra 2ª parte | 0,82 | 0,60 | 1,00 | 1,33 |
-| Más de 1,5 goles | 82% | 80% | 64% | 67% |
-| Más de 2,5 goles | 55% | 80% | 27% | 33% |
-| Más de 3,5 goles | 36% | 60% | 18% | 17% |
-| Ambos marcan | 55% | 40% | 27% | 17% |
-| Portería a cero | 18% | 40% | 27% | 33% |
-| Se queda sin marcar | 27% | 20% | 55% | 67% |
+| Partidos analizados | 12 | 5 | 11 | 6 |
+| Forma (últimos 5) | VDDVE | DVVDV | EDDDD | DDDEV |
+| Balance | 4V 3E 5D | 3V 0E 2D | 3V 3E 5D | 1V 2E 3D |
+| Goles a favor / partido | 1,42 | 2,20 | 0,64 | 0,33 |
+| Goles en contra / partido | 1,33 | 1,40 | 1,45 | 1,67 |
+| Goles a favor 1ª parte | 0,92 | 1,40 | 0,27 | 0,17 |
+| Goles a favor 2ª parte | 0,50 | 0,80 | 0,36 | 0,17 |
+| Goles en contra 1ª parte | 0,58 | 0,80 | 0,45 | 0,33 |
+| Goles en contra 2ª parte | 0,75 | 0,60 | 1,00 | 1,33 |
+| Más de 1,5 goles | 75% | 80% | 64% | 67% |
+| Más de 2,5 goles | 50% | 80% | 27% | 33% |
+| Más de 3,5 goles | 33% | 60% | 18% | 17% |
+| Ambos marcan | 50% | 40% | 27% | 17% |
+| Portería a cero | 25% | 40% | 27% | 33% |
+| Se queda sin marcar | 25% | 20% | 55% | 67% |
 | xG a favor | 1,41 | 1,96 | 1,21 | 0,84 |
 | xG en contra | 1,30 | 1,47 | 1,57 | 1,81 |
 | Tiros / partido | 13,3 | 13,8 | 10,7 | 8,2 |
@@ -98,9 +98,9 @@ _Actualizadas: 29/10 08:00_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Valladolid | Recibe Valladolid | Tarjetas Valladolid | Goles Leganes | Recibe Leganes | Tarjetas Leganes |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 3 | 4 | 2 | 1 | 3 |
-| 16-30' | 3 | 2 | 6 | 1 | 3 | 6 |
-| 31-45' | 4 | 2 | 3 | 0 | 1 | 3 |
+| 1-15' | 4 | 3 | 4 | 2 | 1 | 3 |
+| 16-30' | 3 | 2 | 7 | 1 | 3 | 6 |
+| 31-45' | 4 | 2 | 4 | 0 | 1 | 3 |
 | 46-60' | 4 | 3 | 5 | 2 | 5 | 2 |
 | 61-75' | 1 | 4 | 4 | 0 | 3 | 8 |
 | 76-90' | 1 | 2 | 18 | 2 | 3 | 13 |
@@ -121,12 +121,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Valladolid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Covadonga 0-1 Valladolid | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | Segunda División | Granada CF 2-1 Valladolid | fuera | 4-3 | 14 (8) - 10 (7) | 4-1 |
 | 2026-10-18 | Segunda División | Valladolid 2-3 Eldense | casa | 13-2 | 16 (5) - 13 (5) | 4-4 |
 | 2026-10-12 | Segunda División | Valladolid 5-0 Albacete | casa | 7-5 | 19 (7) - 10 (2) | 2-4 |
 | 2026-10-04 | Segunda División | Las Palmas 2-2 Valladolid | fuera | 6-3 | 15 (7) - 12 (4) | 4-3 |
 | 2026-09-27 | Segunda División | Valladolid 3-1 Cordoba | casa | 2-5 | 12 (7) - 16 (4) | 3-3 |
-| 2026-09-20 | Segunda División | AD Ceuta FC 1-1 Valladolid | fuera | 3-3 | 11 (6) - 12 (3) | 5-3 |
 
 ## Jugadores de Valladolid
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -187,43 +187,43 @@ _Sin bajas comunicadas por ahora._
 | Enric Franquesa | D | 3 | 144 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 0,97 · córners esperados 9,4._
+_Goles esperados: local 1,48 · visitante 0,93 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 24% | 20% | 22% | 4.50 | +1% |
-| 1X2: X | 26% | 26% | 26% | 3.50 | -9% |
+| 1X2: 2 | 24% | 20% | 22% | 4.50 | -0% |
+| 1X2: X | 26% | 26% | 26% | 3.50 | -8% |
 | 1X2: 1 | 50% | 53% | 52% | 1.73 | -11% |
 | Doble oportunidad: X2 | 50% | 46% | 48% | 2.05 | -1% |
-| Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
+| Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -6% |
 | Doble oportunidad: 1X | 76% | 80% | 78% | 1.18 | -8% |
-| Ambos marcan: No | 52% | 50% | 51% | 1.83 | -7% |
-| Ambos marcan: Sí | 48% | 50% | 49% | 1.83 | -10% |
-| Goles más/menos: Más de 1.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Goles más/menos: Más de 2.5 | 45% | 47% | 46% | 2.00 | -7% |
-| Goles más/menos: Más de 3.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles más/menos: Menos de 1.5 | 29% | 28% | 28% | 3.40 | -4% |
-| Goles más/menos: Menos de 2.5 | 55% | 53% | 54% | 1.80 | -3% |
-| Goles más/menos: Menos de 3.5 | 76% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 45% | 50% | 47% | 1.83 | -13% |
-| Goles del local: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -4% |
-| Goles del local: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -4% |
-| Goles del local: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
-| Goles del visitante: Más de 0.5 | 62% | 59% | 61% | 1.57 | -5% |
-| Goles del visitante: Más de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles del visitante: Menos de 0.5 | 38% | 41% | 39% | 2.25 | -11% |
-| Goles del visitante: Menos de 1.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Ambos marcan: No | 53% | 50% | 52% | 1.83 | -5% |
+| Ambos marcan: Sí | 47% | 50% | 48% | 1.83 | -12% |
+| Goles más/menos: Más de 1.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles más/menos: Más de 2.5 | 43% | 47% | 45% | 2.00 | -9% |
+| Goles más/menos: Más de 3.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles más/menos: Menos de 1.5 | 31% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Menos de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Menos de 3.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 65% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 35% | 2.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles del local: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
+| Goles del local: Más de 1.5 | 43% | 50% | 47% | 1.83 | -15% |
+| Goles del local: Más de 2.5 | 18% | 25% | 22% | 3.75 | -18% |
+| Goles del local: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles del local: Menos de 1.5 | 57% | 50% | 53% | 1.83 | -2% |
+| Goles del local: Menos de 2.5 | 82% | 75% | 78% | 1.25 | -2% |
+| Goles del visitante: Más de 0.5 | 61% | 59% | 60% | 1.57 | -6% |
+| Goles del visitante: Más de 1.5 | 24% | 25% | 24% | 3.75 | -8% |
+| Goles del visitante: Menos de 0.5 | 39% | 41% | 40% | 2.25 | -9% |
+| Goles del visitante: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -6% |
 | Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -12% |
 | Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
-| 1X2 descanso: 1 | 36% | 39% | 37% | 2.38 | -11% |
+| 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
+| 1X2 descanso: 1 | 35% | 39% | 37% | 2.38 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

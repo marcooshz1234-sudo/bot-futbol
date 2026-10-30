@@ -1,10 +1,10 @@
 # Burgos – Castellón
-**Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España)
+**Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España) · Municipal El Plantio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:03_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
@@ -59,21 +59,21 @@ _Actualizadas: 29/10 14:03_
 ## Estadísticas de equipo
 | | Burgos (total) | Burgos en casa | Castellón (total) | Castellón fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 6 |
-| Forma (últimos 5) | VVDDV | VDVVE | VVDEV | VDVVV |
-| Balance | 6V 2E 3D | 4V 1E 1D | 8V 2E 1D | 5V 0E 1D |
-| Goles a favor / partido | 1,45 | 1,67 | 2,00 | 1,67 |
-| Goles en contra / partido | 1,09 | 1,00 | 0,36 | 0,50 |
-| Goles a favor 1ª parte | 0,82 | 0,83 | 1,00 | 0,83 |
-| Goles a favor 2ª parte | 0,64 | 0,83 | 1,00 | 0,83 |
-| Goles en contra 1ª parte | 0,82 | 0,83 | 0,18 | 0,33 |
-| Goles en contra 2ª parte | 0,27 | 0,17 | 0,18 | 0,17 |
-| Más de 1,5 goles | 55% | 50% | 73% | 67% |
-| Más de 2,5 goles | 55% | 50% | 45% | 50% |
-| Más de 3,5 goles | 36% | 50% | 18% | 0% |
-| Ambos marcan | 55% | 50% | 27% | 33% |
-| Portería a cero | 27% | 33% | 64% | 50% |
-| Se queda sin marcar | 27% | 17% | 18% | 17% |
+| Partidos analizados | 12 | 6 | 12 | 7 |
+| Forma (últimos 5) | VVVDD | VDVVE | VVVDE | VVDVV |
+| Balance | 7V 2E 3D | 4V 1E 1D | 9V 2E 1D | 6V 0E 1D |
+| Goles a favor / partido | 1,67 | 1,67 | 2,08 | 1,86 |
+| Goles en contra / partido | 1,17 | 1,00 | 0,33 | 0,43 |
+| Goles a favor 1ª parte | 0,83 | 0,83 | 1,08 | 1,00 |
+| Goles a favor 2ª parte | 0,83 | 0,83 | 1,00 | 0,86 |
+| Goles en contra 1ª parte | 0,75 | 0,83 | 0,17 | 0,29 |
+| Goles en contra 2ª parte | 0,42 | 0,17 | 0,17 | 0,14 |
+| Más de 1,5 goles | 58% | 50% | 75% | 71% |
+| Más de 2,5 goles | 58% | 50% | 50% | 57% |
+| Más de 3,5 goles | 42% | 50% | 17% | 0% |
+| Ambos marcan | 58% | 50% | 25% | 29% |
+| Portería a cero | 25% | 33% | 67% | 57% |
+| Se queda sin marcar | 25% | 17% | 17% | 14% |
 | xG a favor | 1,36 | 1,48 | 2,11 | 2,25 |
 | xG en contra | 1,58 | 1,70 | 1,23 | 1,15 |
 | Tiros / partido | 11,6 | 12,3 | 14,5 | 15,5 |
@@ -81,31 +81,31 @@ _Actualizadas: 29/10 14:03_
 | Tiros recibidos | 14,6 | 12,0 | 10,0 | 10,0 |
 | Tiros a puerta recibidos | 4,9 | 4,2 | 3,2 | 3,5 |
 | Posesión media % | 48 | 53 | 61 | 58 |
-| Córners a favor | 4,0 | 4,0 | 5,1 | 6,5 |
-| Córners en contra | 5,7 | 4,3 | 4,0 | 3,8 |
-| Córners a favor 1ª parte | 1,8 | 2,2 | 2,3 | 3,2 |
-| Córners a favor 2ª parte | 2,2 | 1,8 | 2,8 | 3,3 |
-| Córners totales del partido | 9,7 | 8,3 | 9,1 | 10,3 |
-| Córners totales 1ª parte | 4,5 | 4,3 | 4,3 | 4,8 |
-| Córners totales 2ª parte | 5,2 | 4,0 | 4,8 | 5,5 |
-| Más de 8,5 córners | 55% | 33% | 55% | 67% |
-| Más de 9,5 córners | 55% | 33% | 45% | 50% |
-| Más de 10,5 córners | 36% | 17% | 27% | 50% |
+| Córners a favor | 3,7 | 4,0 | 4,7 | 5,6 |
+| Córners en contra | 5,2 | 4,3 | 3,7 | 3,3 |
+| Córners a favor 1ª parte | 1,7 | 2,2 | 2,1 | 2,7 |
+| Córners a favor 2ª parte | 2,0 | 1,8 | 2,6 | 2,9 |
+| Córners totales del partido | 8,9 | 8,3 | 8,3 | 8,9 |
+| Córners totales 1ª parte | 4,2 | 4,3 | 3,9 | 4,1 |
+| Córners totales 2ª parte | 4,8 | 4,0 | 4,4 | 4,7 |
+| Más de 8,5 córners | 50% | 33% | 50% | 57% |
+| Más de 9,5 córners | 50% | 33% | 42% | 43% |
+| Más de 10,5 córners | 33% | 17% | 25% | 43% |
 | Faltas cometidas | 15,1 | 14,0 | 11,2 | 12,0 |
 | Faltas recibidas | 14,0 | 15,2 | 14,2 | 16,0 |
-| Amarillas propias | 2,5 | 2,3 | 1,6 | 2,2 |
-| Amarillas del rival | 1,8 | 2,0 | 3,3 | 3,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,17 |
+| Amarillas propias | 2,5 | 2,3 | 1,7 | 2,1 |
+| Amarillas del rival | 2,1 | 2,0 | 3,1 | 3,4 |
+| Rojas / partido | 0,00 | 0,00 | 0,17 | 0,29 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Burgos | Recibe Burgos | Tarjetas Burgos | Goles Castellón | Recibe Castellón | Tarjetas Castellón |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 2 | 5 | 2 | 0 |
-| 16-30' | 4 | 1 | 2 | 6 | 0 | 1 |
-| 31-45' | 3 | 4 | 4 | 0 | 0 | 2 |
-| 46-60' | 3 | 0 | 5 | 5 | 1 | 6 |
-| 61-75' | 1 | 1 | 5 | 2 | 0 | 1 |
-| 76-90' | 3 | 2 | 10 | 4 | 1 | 9 |
+| 16-30' | 5 | 1 | 2 | 6 | 0 | 1 |
+| 31-45' | 3 | 4 | 4 | 2 | 0 | 3 |
+| 46-60' | 3 | 1 | 5 | 5 | 1 | 8 |
+| 61-75' | 2 | 2 | 6 | 3 | 0 | 1 |
+| 76-90' | 5 | 2 | 12 | 4 | 1 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -121,12 +121,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Burgos
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Laredo 2-4 Burgos | fuera | –-– | – (–) - – (–) | 3-5 |
 | 2026-10-26 | Segunda División | FC Andorra 2-3 Burgos | fuera | 3-7 | 13 (7) - 20 (11) | 1-1 |
 | 2026-10-18 | Segunda División | Burgos 1-0 Sabadell | casa | 10-3 | 13 (7) - 7 (2) | 2-1 |
 | 2026-10-12 | Segunda División | Burgos 0-1 Granada CF | casa | 4-0 | 23 (5) - 7 (3) | 4-2 |
 | 2026-10-03 | Segunda División | Almeria 2-1 Burgos | fuera | 3-8 | 9 (4) - 25 (8) | 3-2 |
 | 2026-09-27 | Segunda División | Burgos 1-0 Eldense | casa | 2-5 | 6 (2) - 11 (4) | 3-2 |
-| 2026-09-20 | Segunda División | Las Palmas 1-2 Burgos | fuera | 4-9 | 9 (3) - 13 (3) | 3-2 |
 
 ## Jugadores de Burgos
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -155,12 +155,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Castellón
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Conquense 0-3 Castellón | fuera | –-– | – (–) - – (–) | 2-1 |
 | 2026-10-25 | Segunda División | Castellón 4-0 Sporting Gijon | casa | 2-3 | 14 (6) - 8 (3) | 1-2 |
 | 2026-10-17 | Segunda División | Las Palmas 0-3 Castellón | fuera | 6-3 | 14 (7) - 5 (1) | 1-7 |
 | 2026-10-11 | Segunda División | FC Andorra 1-0 Castellón | fuera | 7-4 | 12 (3) - 16 (8) | 2-4 |
 | 2026-10-04 | Segunda División | Castellón 1-1 AD Ceuta FC | casa | 3-7 | 10 (2) - 13 (4) | 1-3 |
 | 2026-09-28 | Segunda División | Leganes 0-2 Castellón | fuera | 4-4 | 22 (7) - 15 (2) | 1-6 |
-| 2026-09-19 | Segunda División | Castellón 5-0 Tenerife | casa | 0-5 | 9 (5) - 12 (4) | 0-2 |
 
 ## Jugadores de Castellón
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -187,44 +187,44 @@ _Sin bajas comunicadas por ahora._
 | J. Vlak | M | 5 | 76 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 1,58 · córners esperados 9,6._
+_Goles esperados: local 0,94 · visitante 1,64 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 52% | 46% | 49% | 2.00 | -1% |
-| 1X2: X | 25% | 26% | 26% | 3.50 | -9% |
-| 1X2: 1 | 22% | 27% | 25% | 3.40 | -16% |
-| Doble oportunidad: X2 | 78% | 73% | 75% | 1.30 | -2% |
-| Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -10% |
-| Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
-| Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -8% |
-| Goles más/menos: Más de 2.5 | 46% | 51% | 49% | 1.85 | -10% |
-| Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +0% |
-| Goles más/menos: Menos de 2.5 | 54% | 49% | 51% | 1.95 | +0% |
-| Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
+| 1X2: 2 | 54% | 46% | 50% | 2.00 | +0% |
+| 1X2: X | 25% | 26% | 26% | 3.50 | -11% |
+| 1X2: 1 | 22% | 27% | 24% | 3.40 | -17% |
+| Doble oportunidad: X2 | 78% | 73% | 76% | 1.30 | -2% |
+| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 46% | 53% | 49% | 1.80 | -11% |
+| Ambos marcan: No | 51% | 44% | 48% | 2.10 | -0% |
+| Ambos marcan: Sí | 49% | 56% | 52% | 1.67 | -12% |
+| Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles más/menos: Más de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
+| Goles más/menos: Más de 3.5 | 26% | 31% | 29% | 3.00 | -14% |
+| Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles más/menos: Menos de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
+| Goles más/menos: Menos de 3.5 | 74% | 69% | 71% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del local: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
-| Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +6% |
-| Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
-| Goles del visitante: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del visitante: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -8% |
-| Goles del visitante: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles del visitante: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
-| 1X2 descanso: 2 | 37% | 35% | 36% | 2.62 | -5% |
-| 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -4% |
-| 1X2 descanso: 1 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
+| Goles del visitante: Más de 0.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
+| Goles del visitante: Más de 2.5 | 23% | 23% | 23% | 4.00 | -8% |
+| Goles del visitante: Menos de 0.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles del visitante: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
+| Goles del visitante: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Córners más/menos: Menos de 9.5 | 56% | 56% | 56% | 1.67 | -7% |
+| 1X2 descanso: 2 | 38% | 35% | 37% | 2.62 | -3% |
+| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
+| 1X2 descanso: 1 | 19% | 23% | 21% | 4.00 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

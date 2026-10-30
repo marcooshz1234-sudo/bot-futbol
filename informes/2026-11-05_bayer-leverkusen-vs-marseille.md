@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,40 · visitante 0,97 · córners esperados 9,2._
+_Goles esperados: local 3,35 · visitante 0,98 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

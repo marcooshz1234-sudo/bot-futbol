@@ -1,7 +1,7 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Gabriel Debeljuh | F | 2 | 36 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,92 · visitante 0,83 · córners esperados 10,1._
+_Goles esperados: local 2,90 · visitante 0,82 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,58 +1,58 @@
 {
  "Goals Over/Under|Over 1.5": {
-  "n": 413,
-  "brier_frecuencia": 0.17,
-  "brier_xg": 0.1602,
+  "n": 416,
+  "brier_frecuencia": 0.169,
+  "brier_xg": 0.1593,
   "peso_xg": 1.0,
-  "brier_mezcla": 0.1602
+  "brier_mezcla": 0.1593
  },
  "Goals Over/Under|Over 2.5": {
-  "n": 413,
-  "brier_frecuencia": 0.2554,
-  "brier_xg": 0.2399,
+  "n": 416,
+  "brier_frecuencia": 0.2549,
+  "brier_xg": 0.2392,
   "peso_xg": 1.0,
-  "brier_mezcla": 0.2399
+  "brier_mezcla": 0.2392
  },
  "Goals Over/Under|Over 3.5": {
-  "n": 413,
-  "brier_frecuencia": 0.257,
-  "brier_xg": 0.2423,
+  "n": 416,
+  "brier_frecuencia": 0.258,
+  "brier_xg": 0.243,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.2421
+  "brier_mezcla": 0.2429
  },
  "Both Teams Score|Yes": {
-  "n": 413,
-  "brier_frecuencia": 0.2628,
-  "brier_xg": 0.2437,
+  "n": 416,
+  "brier_frecuencia": 0.2627,
+  "brier_xg": 0.2429,
   "peso_xg": 1.0,
-  "brier_mezcla": 0.2437
+  "brier_mezcla": 0.2429
  },
  "Total - Home|Over 0.5": {
-  "n": 413,
-  "brier_frecuencia": 0.1635,
-  "brier_xg": 0.1531,
+  "n": 416,
+  "brier_frecuencia": 0.1627,
+  "brier_xg": 0.1523,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.153
+  "brier_mezcla": 0.1522
  },
  "Total - Away|Over 0.5": {
-  "n": 413,
-  "brier_frecuencia": 0.2005,
-  "brier_xg": 0.191,
+  "n": 416,
+  "brier_frecuencia": 0.1997,
+  "brier_xg": 0.1899,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.1909
+  "brier_mezcla": 0.1898
  },
  "Total - Home|Over 1.5": {
-  "n": 413,
-  "brier_frecuencia": 0.2564,
-  "brier_xg": 0.2422,
+  "n": 416,
+  "brier_frecuencia": 0.2563,
+  "brier_xg": 0.2424,
   "peso_xg": 1.0,
-  "brier_mezcla": 0.2422
+  "brier_mezcla": 0.2424
  },
  "Total - Away|Over 1.5": {
-  "n": 413,
-  "brier_frecuencia": 0.2471,
+  "n": 416,
+  "brier_frecuencia": 0.2468,
   "brier_xg": 0.2375,
   "peso_xg": 0.9,
-  "brier_mezcla": 0.2373
+  "brier_mezcla": 0.2372
  }
 }

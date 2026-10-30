@@ -1,12 +1,12 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 29/10/2026 19:58. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 30/10/2026 02:06. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 39 · **acertados:** 10 (26%)
-- **Beneficio:** -13.10 unidades · **rentabilidad (yield):** -33.6%
-- **Cuota media:** 2.77 · **pendientes:** 49
+- **Picks jugados:** 40 · **acertados:** 10 (25%)
+- **Beneficio:** -14.10 unidades · **rentabilidad (yield):** -35.2%
+- **Cuota media:** 2.79 · **pendientes:** 50
 
-_Con 39 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 40 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
@@ -14,8 +14,8 @@ _Con 39 picks el resultado todavía depende mucho de la suerte; a partir de unos
 |---|---|---|---|---|
 | 1X2 | 8 | 2 (25%) | -2.65 | -33.1% |
 | Goles más/menos | 8 | 2 (25%) | -3.40 | -42.5% |
+| Goles del visitante | 7 | 1 (14%) | -4.38 | -62.6% |
 | Goles del local | 6 | 2 (33%) | +0.00 | +0.0% |
-| Goles del visitante | 6 | 1 (17%) | -3.38 | -56.3% |
 | Doble oportunidad | 5 | 2 (40%) | -0.55 | -11.0% |
 | 1X2 descanso | 3 | 1 (33%) | -0.12 | -4.0% |
 | Goles 1ª parte más/menos | 2 | 0 (0%) | -2.00 | -100.0% |
@@ -25,6 +25,7 @@ _Con 39 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-29 | Everton – Newcastle | Goles del visitante: Menos de 0.5 | 3.40 | ❌ | -1.00 |
 | 2026-10-28 | Liverpool – Chelsea | Goles del local: Más de 2.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-28 | Liverpool – Chelsea | Goles más/menos: Más de 4.5 | 3.50 | ❌ | -1.00 |
 | 2026-10-28 | Monza – Napoli | Doble oportunidad: 1X | 2.00 | ❌ | -1.00 |

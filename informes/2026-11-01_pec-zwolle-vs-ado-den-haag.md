@@ -1,10 +1,10 @@
 # PEC Zwolle – ADO Den Haag
-**Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España)
+**Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España) · MAC³PARK Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.25**  ·  X **3.60**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.62**
@@ -110,7 +110,8 @@ _Actualizadas: 29/10 14:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**PEC Zwolle:** S. Floranus (baja, Injury); F. Krastev (baja, Achilles Tendon Injury); S. Floranus (baja, Injury); F. Krastev (baja, Achilles Tendon Injury)
+**ADO Den Haag:** D. Barany (baja, Thigh Injury); L. Reischl (baja, Groin Injury); D. Barany (baja, Thigh Injury); L. Reischl (baja, Groin Injury)
 
 ## Enfrentamientos directos recientes
 - 2023-02-17 · Eerste Divisie: ADO Den Haag 3-1 PEC Zwolle
@@ -188,38 +189,38 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Pozo |  | 3 | 74 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 1,22 · córners esperados 9,7._
+_Goles esperados: local 1,24 · visitante 1,23 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 32% | 34% | 2.88 | -2% |
+| 1X2: 2 | 36% | 32% | 34% | 2.88 | -1% |
 | 1X2: X | 27% | 26% | 27% | 3.60 | -4% |
-| 1X2: 1 | 37% | 42% | 39% | 2.25 | -11% |
-| Doble oportunidad: X2 | 63% | 58% | 61% | 1.62 | -2% |
+| 1X2: 1 | 37% | 42% | 39% | 2.25 | -12% |
+| Doble oportunidad: X2 | 63% | 58% | 61% | 1.62 | -1% |
 | Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 64% | 68% | 66% | 1.40 | -8% |
 | Ambos marcan: No | 50% | 39% | 44% | 2.38 | +6% |
 | Ambos marcan: Sí | 50% | 61% | 56% | 1.53 | -15% |
 | Goles más/menos: Más de 2.5 | 45% | 59% | 52% | 1.60 | -17% |
 | Goles más/menos: Más de 3.5 | 24% | 38% | 31% | 2.50 | -24% |
-| Goles más/menos: Más de 4.5 | 10% | 22% | 16% | 4.33 | -30% |
-| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +11% |
+| Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -30% |
+| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +10% |
 | Goles más/menos: Menos de 3.5 | 76% | 62% | 69% | 1.50 | +4% |
-| Goles más/menos: Menos de 4.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.20 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 69% | 1.28 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 31% | 3.50 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
-| Goles del local: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
-| Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles del local: Menos de 1.5 | 64% | 50% | 57% | 1.83 | +5% |
+| Goles del local: Más de 1.5 | 35% | 50% | 43% | 1.83 | -22% |
+| Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -29% |
+| Goles del local: Menos de 1.5 | 65% | 50% | 57% | 1.83 | +5% |
 | Goles del local: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles del visitante: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles del visitante: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
-| Goles del visitante: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +2% |
-| Goles del visitante: Menos de 1.5 | 66% | 58% | 62% | 1.62 | -0% |
+| Goles del visitante: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del visitante: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
+| Goles del visitante: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles del visitante: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
 | Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
 | Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
 | 1X2 descanso: 2 | 27% | 27% | 27% | 3.40 | -7% |

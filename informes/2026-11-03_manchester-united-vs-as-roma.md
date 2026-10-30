@@ -1,7 +1,7 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Actualizadas: 29/10 08:01_
@@ -175,42 +175,42 @@ _Sin bajas comunicadas por ahora._
 | D. Ghilardi | D | 7 | 248 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 5 | 3 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,66 · visitante 1,83 · córners esperados 9,1._
+_Goles esperados: local 1,63 · visitante 1,83 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 35% | 39% | 2.70 | +4% |
+| 1X2: 2 | 43% | 35% | 39% | 2.70 | +5% |
 | 1X2: X | 22% | 25% | 23% | 3.80 | -11% |
 | 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
-| Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
-| Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -4% |
-| Doble oportunidad: 1X | 58% | 65% | 61% | 1.44 | -12% |
+| Doble oportunidad: X2 | 65% | 60% | 63% | 1.57 | -2% |
+| Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 57% | 65% | 61% | 1.44 | -12% |
 | Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
 | Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 68% | 64% | 66% | 1.50 | -1% |
-| Goles más/menos: Más de 3.5 | 46% | 41% | 44% | 2.30 | +1% |
-| Goles más/menos: Más de 4.5 | 27% | 24% | 26% | 4.00 | +2% |
-| Goles más/menos: Menos de 2.5 | 32% | 36% | 34% | 2.62 | -10% |
-| Goles más/menos: Menos de 3.5 | 54% | 59% | 56% | 1.62 | -9% |
-| Goles más/menos: Menos de 4.5 | 73% | 76% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles del local: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
-| Goles del local: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles del local: Menos de 1.5 | 51% | 50% | 50% | 1.83 | -8% |
-| Goles del local: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles más/menos: Más de 2.5 | 67% | 64% | 65% | 1.50 | -2% |
+| Goles más/menos: Más de 3.5 | 45% | 41% | 43% | 2.30 | -0% |
+| Goles más/menos: Más de 4.5 | 27% | 24% | 25% | 4.00 | +1% |
+| Goles más/menos: Menos de 2.5 | 33% | 36% | 35% | 2.62 | -9% |
+| Goles más/menos: Menos de 3.5 | 55% | 59% | 57% | 1.62 | -8% |
+| Goles más/menos: Menos de 4.5 | 73% | 76% | 75% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
+| Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles del local: Menos de 1.5 | 51% | 50% | 51% | 1.83 | -7% |
+| Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del visitante: Más de 1.5 | 55% | 46% | 51% | 2.00 | +1% |
+| Goles del visitante: Más de 1.5 | 55% | 46% | 50% | 2.00 | +1% |
 | Goles del visitante: Más de 2.5 | 28% | 22% | 25% | 4.33 | +7% |
 | Goles del visitante: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -21% |
-| Goles del visitante: Menos de 1.5 | 45% | 54% | 49% | 1.73 | -14% |
+| Goles del visitante: Menos de 1.5 | 45% | 54% | 50% | 1.73 | -14% |
 | Goles del visitante: Menos de 2.5 | 72% | 78% | 75% | 1.20 | -10% |
-| 1X2 descanso: 2 | 34% | 29% | 31% | 3.20 | +1% |
-| 1X2 descanso: X | 36% | 39% | 38% | 2.40 | -10% |
-| 1X2 descanso: 1 | 30% | 32% | 31% | 2.88 | -11% |
+| 1X2 descanso: 2 | 34% | 29% | 32% | 3.20 | +1% |
+| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -10% |
+| 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

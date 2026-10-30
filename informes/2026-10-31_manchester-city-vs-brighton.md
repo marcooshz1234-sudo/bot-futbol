@@ -1,10 +1,10 @@
 # Manchester City – Brighton
 **Premier League** · Regular Season - 9 · 31/10/2026 16:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:01_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **1.65**  ·  X **4.10**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.20**
@@ -203,16 +203,16 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Svoboda | D | 5 | 273 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 1,57 · córners esperados 10,1._
+_Goles esperados: local 1,54 · visitante 1,58 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 21% | 30% | 4.50 | +33% |
+| 1X2: 2 | 39% | 21% | 30% | 4.50 | +34% |
 | 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
-| 1X2: 1 | 38% | 57% | 47% | 1.65 | -22% |
-| Doble oportunidad: X2 ✅ | 62% | 43% | 53% | 2.20 | +16% |
+| 1X2: 1 | 37% | 57% | 47% | 1.65 | -23% |
+| Doble oportunidad: X2 ✅ | 63% | 43% | 53% | 2.20 | +16% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 61% | 80% | 71% | 1.18 | -17% |
+| Doble oportunidad: 1X | 61% | 80% | 70% | 1.18 | -17% |
 | Ambos marcan: No | 38% | 38% | 38% | 2.50 | -6% |
 | Ambos marcan: Sí | 62% | 62% | 62% | 1.50 | -6% |
 | Goles más/menos: Más de 2.5 | 60% | 66% | 63% | 1.44 | -9% |
@@ -232,12 +232,12 @@ _Goles esperados: local 1,55 · visitante 1,57 · córners esperados 10,1._
 | Goles del local: Menos de 1.5 ✅ | 54% | 38% | 46% | 2.50 | +15% |
 | Goles del local: Menos de 2.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Córners más/menos: Más de 10.5 | 42% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Menos de 10.5 | 58% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: 2 | 31% | 21% | 26% | 4.50 | +15% |
+| 1X2 descanso: 2 | 31% | 21% | 26% | 4.50 | +16% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
 | 1X2 descanso: 1 | 30% | 44% | 37% | 2.10 | -22% |
 

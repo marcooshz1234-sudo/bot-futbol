@@ -1,10 +1,10 @@
 # Getafe – Sevilla
-**LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum
+**LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum Alfonso Pérez
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:04_
 
 - **1X2:** 1 **3.10**  ·  X **3.00**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.36**  ·  X2 **1.36**
@@ -56,21 +56,21 @@ _Actualizadas: 29/10 14:02_
 ## Estadísticas de equipo
 | | Getafe (total) | Getafe en casa | Sevilla (total) | Sevilla fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 10 | 5 |
-| Forma (últimos 5) | DDEED | DEVEE | VDEDV | DEVEV |
-| Balance | 3V 4E 7D | 3V 3E 1D | 5V 2E 3D | 2V 2E 1D |
-| Goles a favor / partido | 0,86 | 1,43 | 1,60 | 1,80 |
-| Goles en contra / partido | 1,71 | 1,29 | 1,60 | 1,80 |
-| Goles a favor 1ª parte | 0,21 | 0,43 | 0,40 | 0,40 |
-| Goles a favor 2ª parte | 0,64 | 1,00 | 1,20 | 1,40 |
-| Goles en contra 1ª parte | 0,79 | 0,71 | 0,70 | 0,40 |
-| Goles en contra 2ª parte | 0,93 | 0,57 | 0,90 | 1,40 |
-| Más de 1,5 goles | 71% | 71% | 80% | 80% |
-| Más de 2,5 goles | 43% | 29% | 60% | 60% |
-| Más de 3,5 goles | 21% | 29% | 50% | 60% |
-| Ambos marcan | 50% | 71% | 70% | 80% |
-| Portería a cero | 14% | 29% | 30% | 20% |
-| Se queda sin marcar | 36% | 0% | 0% | 0% |
+| Partidos analizados | 15 | 7 | 11 | 6 |
+| Forma (últimos 5) | VDDEE | DEVEE | VVDED | VDEVE |
+| Balance | 4V 4E 7D | 3V 3E 1D | 6V 2E 3D | 3V 2E 1D |
+| Goles a favor / partido | 1,00 | 1,43 | 1,73 | 2,00 |
+| Goles en contra / partido | 1,73 | 1,29 | 1,45 | 1,50 |
+| Goles a favor 1ª parte | 0,33 | 0,43 | 0,55 | 0,67 |
+| Goles a favor 2ª parte | 0,67 | 1,00 | 1,18 | 1,33 |
+| Goles en contra 1ª parte | 0,87 | 0,71 | 0,64 | 0,33 |
+| Goles en contra 2ª parte | 0,87 | 0,57 | 0,82 | 1,17 |
+| Más de 1,5 goles | 73% | 71% | 82% | 83% |
+| Más de 2,5 goles | 47% | 29% | 64% | 67% |
+| Más de 3,5 goles | 27% | 29% | 45% | 50% |
+| Ambos marcan | 53% | 71% | 64% | 67% |
+| Portería a cero | 13% | 29% | 36% | 33% |
+| Se queda sin marcar | 33% | 0% | 0% | 0% |
 | xG a favor | 0,79 | 1,04 | 1,02 | 0,92 |
 | xG en contra | 1,38 | 1,29 | 1,39 | 1,34 |
 | Tiros / partido | 11,5 | 14,7 | 12,3 | 10,6 |
@@ -97,17 +97,18 @@ _Actualizadas: 29/10 14:02_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Getafe | Recibe Getafe | Tarjetas Getafe | Goles Sevilla | Recibe Sevilla | Tarjetas Sevilla |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 4 | 3 | 2 | 2 | 1 |
-| 16-30' | 1 | 3 | 8 | 2 | 3 | 4 |
-| 31-45' | 0 | 4 | 10 | 0 | 2 | 3 |
-| 46-60' | 1 | 4 | 9 | 5 | 2 | 4 |
-| 61-75' | 3 | 3 | 12 | 1 | 3 | 4 |
+| 1-15' | 2 | 5 | 4 | 2 | 2 | 1 |
+| 16-30' | 1 | 4 | 9 | 3 | 3 | 4 |
+| 31-45' | 2 | 4 | 10 | 1 | 2 | 5 |
+| 46-60' | 1 | 4 | 9 | 6 | 2 | 4 |
+| 61-75' | 4 | 3 | 13 | 1 | 3 | 4 |
 | 76-90' | 5 | 6 | 12 | 6 | 4 | 16 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Getafe:** Juanmi (baja, Knee Injury); M. Martin (baja, Red Card); J. Mojica (baja, Yellow Cards); C. Uche (baja, Knee Injury); O. Mangala (duda, Muscle Injury); J. Mojica (duda, Injury); Z. Romero (duda, Muscle Injury); Juanmi (baja, Knee Injury); M. Martin (baja, Red Card); J. Mojica (baja, Yellow Cards); C. Uche (baja, Knee Injury); O. Mangala (duda, Muscle Injury); J. Mojica (duda, Injury); Z. Romero (duda, Muscle Injury)
+**Sevilla:** Marcao (baja, Muscle Injury); M. Sierra (baja, Shoulder Injury); Marcao (baja, Muscle Injury); M. Sierra (baja, Shoulder Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-22 · La Liga: Getafe 0-1 Sevilla
@@ -120,12 +121,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Getafe
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Lebrijana 2-3 Getafe | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | LaLiga | Athletic Club 4-0 Getafe | fuera | 4-2 | 7 (1) - 11 (4) | 3-1 |
 | 2026-10-22 | Conference League | Getafe 2-5 FC Lugano | casa | 12-2 | 22 (7) - 8 (5) | 1-5 |
 | 2026-10-19 | LaLiga | Getafe 1-1 Rayo Vallecano | casa | 8-8 | 12 (4) - 21 (5) | 6-3 |
 | 2026-10-15 | Conference League | Universitatea Craiova 1-1 Getafe | fuera | 4-4 | 13 (3) - 12 (4) | 1-4 |
 | 2026-10-10 | LaLiga | Barcelona 3-0 Getafe | fuera | 2-9 | 4 (1) - 23 (8) | 4-2 |
-| 2026-09-20 | LaLiga | Getafe 1-0 Malaga | casa | 5-9 | 20 (7) - 11 (4) | 4-2 |
 
 ## Jugadores de Getafe
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -154,12 +155,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sevilla
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Copa del Rey | Hortaleza 0-3 Sevilla | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-26 | LaLiga | Sevilla 2-0 Osasuna | casa | 7-4 | 17 (7) - 10 (2) | 1-2 |
 | 2026-10-18 | LaLiga | Real Madrid 4-1 Sevilla | fuera | 2-1 | 11 (5) - 15 (8) | 2-2 |
 | 2026-10-12 | LaLiga | Levante 3-3 Sevilla | fuera | 2-5 | 18 (5) - 20 (8) | 6-2 |
 | 2026-09-19 | LaLiga | Sevilla 1-3 Barcelona | casa | 1-3 | 7 (3) - 24 (7) | 1-0 |
 | 2026-09-16 | LaLiga | Deportivo La Coruna 0-1 Sevilla | fuera | 4-4 | 11 (6) - 4 (3) | 4-1 |
-| 2026-09-11 | LaLiga | Sevilla 1-0 Valencia | casa | 6-4 | 13 (4) - 3 (0) | 1-2 |
 
 ## Jugadores de Sevilla
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -186,38 +187,38 @@ _Sin bajas comunicadas por ahora._
 | Nico Guillén | M | 2 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 1,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,87 · visitante 1,15 · córners esperados 8,7._
+_Goles esperados: local 0,87 · visitante 1,24 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 39% | 41% | 2.35 | -4% |
-| 1X2: X | 30% | 31% | 31% | 3.00 | -8% |
-| 1X2: 1 | 28% | 30% | 29% | 3.10 | -11% |
-| Doble oportunidad: X2 | 72% | 70% | 71% | 1.36 | -3% |
-| Doble oportunidad: 12 | 70% | 70% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |
-| Ambos marcan: No | 60% | 58% | 59% | 1.62 | -4% |
-| Ambos marcan: Sí | 40% | 42% | 41% | 2.20 | -10% |
-| Goles más/menos: Más de 1.5 | 60% | 62% | 61% | 1.53 | -7% |
-| Goles más/menos: Más de 2.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles más/menos: Menos de 1.5 | 40% | 38% | 39% | 2.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 67% | 66% | 66% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 58% | 59% | 59% | 1.57 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 41% | 41% | 2.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 0.5 | 58% | 62% | 60% | 1.50 | -10% |
+| 1X2: 2 | 45% | 39% | 42% | 2.35 | -1% |
+| 1X2: X | 29% | 31% | 30% | 3.00 | -10% |
+| 1X2: 1 | 26% | 30% | 28% | 3.10 | -13% |
+| Doble oportunidad: X2 | 74% | 70% | 72% | 1.36 | -2% |
+| Doble oportunidad: 12 | 71% | 70% | 70% | 1.36 | -4% |
+| Doble oportunidad: 1X | 55% | 60% | 58% | 1.57 | -9% |
+| Ambos marcan: No | 59% | 58% | 58% | 1.62 | -6% |
+| Ambos marcan: Sí | 41% | 42% | 42% | 2.20 | -8% |
+| Goles más/menos: Más de 1.5 | 62% | 62% | 62% | 1.53 | -5% |
+| Goles más/menos: Más de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Menos de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles del local: Más de 0.5 | 58% | 62% | 60% | 1.50 | -9% |
 | Goles del local: Más de 1.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles del local: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del local: Menos de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Goles del visitante: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
-| Goles del visitante: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles del visitante: Más de 0.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del visitante: Más de 1.5 | 35% | 31% | 33% | 3.00 | -1% |
+| Goles del visitante: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles del visitante: Menos de 1.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Córners más/menos: Más de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
-| 1X2 descanso: 2 | 29% | 28% | 29% | 3.25 | -6% |
-| 1X2 descanso: X | 50% | 48% | 49% | 1.91 | -6% |
-| 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -12% |
+| 1X2 descanso: 2 | 31% | 28% | 30% | 3.25 | -3% |
+| 1X2 descanso: X | 49% | 48% | 49% | 1.91 | -7% |
+| 1X2 descanso: 1 | 20% | 23% | 22% | 4.00 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

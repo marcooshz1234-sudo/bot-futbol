@@ -1,10 +1,10 @@
 # Albacete – Sabadell
 **Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **2.75**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
@@ -184,42 +184,42 @@ _Sin bajas comunicadas por ahora._
 | Arthur Bonaldo |  | 2 | 117 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,73 · visitante 1,20 · córners esperados 9,3._
+_Goles esperados: local 0,71 · visitante 1,20 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 47% | 37% | 42% | 2.50 | +5% |
+| 1X2: 2 | 48% | 37% | 42% | 2.50 | +6% |
 | 1X2: X | 30% | 30% | 30% | 3.10 | -7% |
-| 1X2: 1 | 22% | 33% | 28% | 2.75 | -23% |
+| 1X2: 1 | 22% | 33% | 28% | 2.75 | -24% |
 | Doble oportunidad: X2 | 78% | 68% | 73% | 1.40 | +2% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 53% | 63% | 58% | 1.50 | -13% |
-| Ambos marcan: No | 64% | 51% | 58% | 1.80 | +4% |
-| Ambos marcan: Sí | 36% | 49% | 42% | 1.91 | -19% |
+| Doble oportunidad: 1X | 52% | 63% | 58% | 1.50 | -13% |
+| Ambos marcan: No | 65% | 51% | 58% | 1.80 | +4% |
+| Ambos marcan: Sí | 35% | 49% | 42% | 1.91 | -20% |
 | Goles más/menos: Más de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
 | Goles más/menos: Más de 2.5 | 30% | 42% | 36% | 2.25 | -19% |
-| Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -27% |
-| Goles más/menos: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +5% |
+| Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
+| Goles más/menos: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +6% |
 | Goles más/menos: Menos de 2.5 | 70% | 58% | 64% | 1.62 | +4% |
-| Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 57% | 62% | 60% | 1.50 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 20% | 28% | 24% | 3.40 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 38% | 40% | 2.50 | +1% |
+| Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 56% | 62% | 59% | 1.50 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 28% | 24% | 3.40 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 38% | 41% | 2.50 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 72% | 76% | 1.30 | -1% |
-| Goles del local: Más de 0.5 | 52% | 66% | 59% | 1.40 | -18% |
+| Goles del local: Más de 0.5 | 51% | 66% | 59% | 1.40 | -18% |
 | Goles del local: Más de 1.5 | 16% | 31% | 24% | 3.00 | -29% |
-| Goles del local: Menos de 0.5 | 48% | 34% | 41% | 2.75 | +13% |
+| Goles del local: Menos de 0.5 | 49% | 34% | 41% | 2.75 | +14% |
 | Goles del local: Menos de 1.5 | 84% | 69% | 76% | 1.36 | +4% |
 | Goles del visitante: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
 | Goles del visitante: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -10% |
+| Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -9% |
 | Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
 | 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -2% |
-| 1X2 descanso: X | 51% | 45% | 48% | 2.05 | -2% |
-| 1X2 descanso: 1 | 17% | 26% | 22% | 3.50 | -23% |
+| 1X2 descanso: X | 51% | 45% | 48% | 2.05 | -1% |
+| 1X2 descanso: 1 | 17% | 26% | 22% | 3.50 | -24% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

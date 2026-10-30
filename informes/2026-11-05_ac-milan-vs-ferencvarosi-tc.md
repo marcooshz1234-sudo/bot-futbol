@@ -1,7 +1,7 @@
 # AC Milan – Ferencvarosi TC
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | P. Rommens | M | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,14 · visitante 1,25 · córners esperados 9,2._
+_Goles esperados: local 1,12 · visitante 1,26 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

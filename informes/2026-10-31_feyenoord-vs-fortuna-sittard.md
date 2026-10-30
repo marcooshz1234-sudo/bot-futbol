@@ -1,10 +1,10 @@
 # Feyenoord – Fortuna Sittard
 **Eredivisie** · Regular Season - 11 · 31/10/2026 16:30 (hora España) · Stadion Feijenoord
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 29/10 19:57._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 14:02_
+_Actualizadas: 30/10 02:03_
 
 - **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **5.50**
@@ -194,31 +194,31 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Moussa Gbemou | M | 5 | 60 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,76 · visitante 0,79 · córners esperados 10,3._
+_Goles esperados: local 2,75 · visitante 0,79 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 7% | 8% | 13.00 | -1% |
+| 1X2: 2 | 8% | 7% | 8% | 13.00 | -2% |
 | 1X2: X | 14% | 12% | 13% | 7.50 | -3% |
-| 1X2: 1 | 78% | 81% | 79% | 1.14 | -9% |
+| 1X2: 1 | 78% | 81% | 80% | 1.14 | -9% |
 | Doble oportunidad: X2 | 22% | 18% | 20% | 5.50 | +8% |
 | Doble oportunidad: 12 | 86% | 89% | 88% | 1.10 | -4% |
-| Doble oportunidad: 1X | 92% | 94% | 93% | 1.04 | -4% |
-| Ambos marcan: No | 49% | 48% | 48% | 1.95 | -6% |
+| Doble oportunidad: 1X | 92% | 94% | 93% | 1.04 | -3% |
+| Ambos marcan: No | 49% | 48% | 48% | 1.95 | -5% |
 | Ambos marcan: Sí | 51% | 52% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 2.5 | 69% | 74% | 71% | 1.28 | -9% |
-| Goles más/menos: Más de 3.5 | 47% | 56% | 52% | 1.67 | -14% |
+| Goles más/menos: Más de 3.5 | 47% | 56% | 51% | 1.67 | -14% |
 | Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles más/menos: Más de 5.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles más/menos: Menos de 2.5 | 31% | 26% | 29% | 3.60 | +3% |
-| Goles más/menos: Menos de 3.5 | 53% | 44% | 48% | 2.10 | +2% |
+| Goles más/menos: Menos de 2.5 | 31% | 26% | 29% | 3.60 | +4% |
+| Goles más/menos: Menos de 3.5 | 53% | 44% | 49% | 2.10 | +2% |
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles más/menos: Menos de 5.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 51% | 49% | 1.80 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles del local: Más de 2.5 | 52% | 61% | 56% | 1.53 | -14% |
 | Goles del local: Más de 3.5 | 30% | 39% | 34% | 2.38 | -18% |
@@ -226,9 +226,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 48% | 39% | 44% | 2.38 | +4% |
 | Goles del local: Menos de 3.5 | 70% | 61% | 66% | 1.53 | +0% |
 | Goles del local: Menos de 4.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles del visitante: Más de 0.5 | 55% | 54% | 54% | 1.73 | -6% |
+| Goles del visitante: Más de 0.5 | 54% | 54% | 54% | 1.73 | -6% |
 | Goles del visitante: Más de 1.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -8% |
+| Goles del visitante: Menos de 0.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Goles del visitante: Menos de 1.5 | 81% | 79% | 80% | 1.18 | -5% |
 | Córners más/menos: Más de 10.5 | 43% | 56% | 49% | 1.67 | -17% |
 | Córners más/menos: Más de 11.5 | 36% | 44% | 40% | 2.10 | -16% |
