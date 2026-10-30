@@ -1,10 +1,49 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:00_
+
+- **1X2:** 1 **1.18**  ·  X **6.25**  ·  2 **15.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **4.50**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **1.53**  ·  X **3.00**  ·  2 **11.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.10**  ·  2 **5.50**
+- **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **11.00**
+- **Win Both Halves:** 1 **2.20**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **8.00**  ·  Away/Yes **23.00**  ·  Home/No **1.83**  ·  Draw/No **19.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.25**
 
 ## Estadísticas de equipo
 | | Atalanta (total) | Atalanta en casa | Kairat Almaty (total) | Kairat Almaty fuera |
@@ -136,4 +175,39 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,94 · visitante 0,57 · córners esperados 9,2._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 10% | 6% | 8% | 15.00 | +21% |
+| 1X2: X | 20% | 15% | 17% | 6.25 | +9% |
+| 1X2: 1 | 70% | 79% | 75% | 1.18 | -12% |
+| Doble oportunidad: X2 | 30% | 21% | 26% | 4.50 | +15% |
+| Doble oportunidad: 12 | 80% | 86% | 83% | 1.12 | -7% |
+| Doble oportunidad: 1X | 90% | 93% | 92% | 1.03 | -6% |
+| Ambos marcan: No | 63% | 56% | 59% | 1.67 | -1% |
+| Ambos marcan: Sí | 37% | 44% | 41% | 2.10 | -14% |
+| Goles más/menos: Más de 2.5 | 46% | 65% | 56% | 1.44 | -20% |
+| Goles más/menos: Más de 3.5 | 24% | 46% | 35% | 2.00 | -29% |
+| Goles más/menos: Más de 4.5 | 11% | 28% | 19% | 3.40 | -34% |
+| Goles más/menos: Menos de 2.5 | 54% | 35% | 44% | 2.70 | +20% |
+| Goles más/menos: Menos de 3.5 | 76% | 54% | 65% | 1.73 | +12% |
+| Goles más/menos: Menos de 4.5 | 89% | 72% | 81% | 1.30 | +5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
+| Goles 1ª parte más/menos: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles del local: Más de 1.5 | 58% | 75% | 66% | 1.25 | -17% |
+| Goles del local: Más de 2.5 | 31% | 51% | 41% | 1.80 | -26% |
+| Goles del local: Más de 3.5 | 13% | 31% | 22% | 3.00 | -33% |
+| Goles del local: Menos de 1.5 | 42% | 25% | 34% | 3.75 | +26% |
+| Goles del local: Menos de 2.5 | 69% | 49% | 59% | 1.91 | +12% |
+| Goles del local: Menos de 3.5 | 87% | 69% | 78% | 1.36 | +6% |
+| Goles del visitante: Más de 0.5 | 43% | 49% | 46% | 1.91 | -12% |
+| Goles del visitante: Menos de 0.5 | 57% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: X | 41% | 31% | 36% | 3.00 | +8% |
+| 1X2 descanso: 1 | 49% | 61% | 55% | 1.53 | -16% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

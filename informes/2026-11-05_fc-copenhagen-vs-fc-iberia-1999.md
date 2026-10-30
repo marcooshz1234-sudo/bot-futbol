@@ -1,10 +1,49 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:01_
+
+- **1X2:** 1 **1.14**  ·  X **7.00**  ·  2 **17.00**
+- **Doble oportunidad:** 1X **1.02**  ·  12 **1.10**  ·  X2 **5.50**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **1.91** · menos **1.80**
+    - 4,5: más **3.25** · menos **1.33**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.67** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.20**  ·  2 **12.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.08**  ·  2 **6.50**
+- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **13.00**
+- **Win Both Halves:** 1 **2.00**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **9.00**  ·  Away/Yes **26.00**  ·  Home/No **1.80**  ·  Draw/No **21.00**  ·  Away/No **26.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.40**
 
 ## Estadísticas de equipo
 | | FC Copenhagen (total) | FC Copenhagen en casa | FC Iberia 1999 (total) | FC Iberia 1999 fuera |
@@ -136,4 +175,39 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 4,05 · visitante 0,40 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 1% | 5% | 3% | 17.00 | -41% |
+| 1X2: X | 4% | 13% | 9% | 7.00 | -40% |
+| 1X2: 1 | 95% | 81% | 88% | 1.14 | +0% |
+| Doble oportunidad: X2 | 5% | 18% | 11% | 5.50 | -37% |
+| Doble oportunidad: 12 | 96% | 88% | 92% | 1.10 | +1% |
+| Doble oportunidad: 1X | 99% | 95% | 97% | 1.02 | -1% |
+| Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
+| Ambos marcan: Sí | 33% | 42% | 38% | 2.20 | -17% |
+| Goles más/menos: Más de 2.5 | 82% | 67% | 75% | 1.40 | +5% |
+| Goles más/menos: Más de 3.5 | 65% | 49% | 57% | 1.91 | +8% |
+| Goles más/menos: Más de 4.5 | 46% | 29% | 37% | 3.25 | +22% |
+| Goles más/menos: Menos de 2.5 | 18% | 33% | 25% | 2.88 | -27% |
+| Goles más/menos: Menos de 3.5 | 35% | 51% | 43% | 1.80 | -22% |
+| Goles más/menos: Menos de 4.5 | 54% | 71% | 63% | 1.33 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 57% | 46% | 52% | 2.00 | +4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 23% | 27% | 4.00 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 54% | 48% | 1.73 | -17% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 77% | 73% | 1.22 | -11% |
+| Goles del local: Más de 1.5 | 91% | 77% | 84% | 1.22 | +2% |
+| Goles del local: Más de 2.5 | 77% | 56% | 66% | 1.67 | +11% |
+| Goles del local: Más de 3.5 | 58% | 35% | 47% | 2.62 | +22% |
+| Goles del local: Menos de 1.5 | 9% | 23% | 16% | 4.00 | -36% |
+| Goles del local: Menos de 2.5 | 23% | 44% | 34% | 2.10 | -29% |
+| Goles del local: Menos de 3.5 | 42% | 65% | 53% | 1.44 | -23% |
+| Goles del visitante: Más de 0.5 | 33% | 46% | 40% | 2.00 | -21% |
+| Goles del visitante: Menos de 0.5 | 67% | 54% | 60% | 1.73 | +4% |
+| 1X2 descanso: X | 19% | 29% | 24% | 3.20 | -23% |
+| 1X2 descanso: 1 | 77% | 64% | 71% | 1.44 | +2% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,46 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:00_
+
+- **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.53**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.25**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Aarhus (total) | Aarhus en casa | SC Braga (total) | SC Braga fuera |
@@ -136,4 +172,40 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 0,65 · visitante 1,24 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 50% | 48% | 49% | 1.95 | -4% |
+| 1X2: X | 30% | 28% | 29% | 3.30 | -4% |
+| 1X2: 1 | 20% | 24% | 22% | 3.80 | -16% |
+| Doble oportunidad: X2 | 80% | 76% | 78% | 1.25 | -2% |
+| Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
+| Doble oportunidad: 1X | 50% | 53% | 51% | 1.80 | -8% |
+| Ambos marcan: No | 66% | 46% | 56% | 2.00 | +12% |
+| Ambos marcan: Sí | 34% | 54% | 44% | 1.73 | -24% |
+| Goles más/menos: Más de 1.5 | 56% | 73% | 65% | 1.28 | -17% |
+| Goles más/menos: Más de 2.5 | 29% | 49% | 39% | 1.95 | -24% |
+| Goles más/menos: Más de 3.5 | 12% | 29% | 21% | 3.25 | -33% |
+| Goles más/menos: Menos de 1.5 | 44% | 27% | 35% | 3.50 | +23% |
+| Goles más/menos: Menos de 2.5 | 71% | 51% | 61% | 1.85 | +13% |
+| Goles más/menos: Menos de 3.5 | 88% | 71% | 79% | 1.33 | +5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 38% | 3.00 | +13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +3% |
+| Goles del local: Más de 0.5 | 48% | 65% | 56% | 1.44 | -19% |
+| Goles del local: Más de 1.5 | 14% | 29% | 21% | 3.25 | -30% |
+| Goles del local: Menos de 0.5 | 52% | 35% | 44% | 2.62 | +15% |
+| Goles del local: Menos de 1.5 | 86% | 71% | 79% | 1.33 | +4% |
+| Goles del visitante: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
+| Goles del visitante: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
+| Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
+| Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
+| Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
+| Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
+| 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
+| 1X2 descanso: X | 51% | 42% | 47% | 2.20 | +3% |
+| 1X2 descanso: 1 | 15% | 22% | 19% | 4.33 | -20% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

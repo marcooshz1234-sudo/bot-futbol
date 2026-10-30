@@ -1,10 +1,47 @@
 # St. Truiden – Brann
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Daio Wasabi Stayen
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:01_
+
+- **1X2:** 1 **1.70**  ·  X **4.00**  ·  2 **4.10**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.10**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.36**  ·  2 **2.38**
+- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **4.33**
+- **Win Both Halves:** 1 **4.50**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **19.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.25**
 
 ## Estadísticas de equipo
 | | St. Truiden (total) | St. Truiden en casa | Brann (total) | Brann fuera |

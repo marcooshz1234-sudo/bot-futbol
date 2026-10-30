@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 30/10/2026 02:06 (hora España)._
+_Actualizado el 30/10/2026 08:01 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -84,6 +84,17 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 21:00 | [Lens – Como](informes/2026-11-04_lens-vs-como.md) | 1X2: 2 | 2.15 | 56% | 44% | 50% | **+7%** |
 | 21:00 | [RB Leipzig – Manchester City](informes/2026-11-04_rb-leipzig-vs-manchester-city.md) | Goles del local: Más de 1.5 | 2.50 | 51% | 38% | 44% | **+10%** |
 | 21:00 | [RB Leipzig – Manchester City](informes/2026-11-04_rb-leipzig-vs-manchester-city.md) | Doble oportunidad: 1X | 2.38 | 52% | 39% | 46% | **+9%** |
+
+## 05/11
+
+| Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
+|---|---|---|---|---|---|---|---|
+| 18:45 | [Crystal Palace – 1899 Hoffenheim](informes/2026-11-05_crystal-palace-vs-1899-hoffenheim.md) | Goles del visitante: Más de 1.5 | 2.50 | 51% | 38% | 44% | **+11%** |
+| 18:45 | [Crystal Palace – 1899 Hoffenheim](informes/2026-11-05_crystal-palace-vs-1899-hoffenheim.md) | 1X2: 2 | 3.60 | 35% | 25% | 30% | **+8%** |
+| 21:00 | [Getafe – Brighton](informes/2026-11-05_getafe-vs-brighton.md) | Goles del visitante: Más de 2.5 | 3.50 | 38% | 27% | 33% | **+14%** |
+| 21:00 | [Getafe – Brighton](informes/2026-11-05_getafe-vs-brighton.md) | Goles del local: Menos de 0.5 | 2.20 | 56% | 42% | 49% | **+8%** |
+| 21:00 | [Bayer Leverkusen – Marseille](informes/2026-11-05_bayer-leverkusen-vs-marseille.md) | Goles del local: Más de 3.5 | 4.00 | 43% | 23% | 33% | **+33%** |
+| 21:00 | [Bayer Leverkusen – Marseille](informes/2026-11-05_bayer-leverkusen-vs-marseille.md) | Goles más/menos: Más de 4.5 | 3.75 | 44% | 25% | 35% | **+29%** |
 
 ## 06/11
 

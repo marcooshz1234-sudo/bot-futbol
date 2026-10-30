@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 30/10/2026 02:06 (hora España). Partidos guardados en la base de datos: 1572._
+_Actualizado el 30/10/2026 08:01 (hora España). Partidos guardados en la base de datos: 1572._
 
 
 ## Viernes 30/10
@@ -140,43 +140,43 @@ _Actualizado el 30/10/2026 02:06 (hora España). Partidos guardados en la base d
 - 21:00 · Copa del Rey · [Badajoz – Tenerife](informes/2026-11-04_badajoz-vs-tenerife.md) · 1X2: 5.75 / 4.00 / 1.57
 
 ## Jueves 05/11
-- 18:45 · Europa League · [Crystal Palace – 1899 Hoffenheim](informes/2026-11-05_crystal-palace-vs-1899-hoffenheim.md)
-- 18:45 · Europa League · [Rennes – Olympiakos Piraeus](informes/2026-11-05_rennes-vs-olympiakos-piraeus.md)
-- 18:45 · Europa League · [Lillestrom – Plzen](informes/2026-11-05_lillestrom-vs-plzen.md)
-- 18:45 · Europa League · [NEC Nijmegen – Omonia Nicosia](informes/2026-11-05_nec-nijmegen-vs-omonia-nicosia.md)
-- 18:45 · Europa League · [AC Milan – Ferencvarosi TC](informes/2026-11-05_ac-milan-vs-ferencvarosi-tc.md)
-- 18:45 · Europa League · [Real Sociedad – Lyon](informes/2026-11-05_real-sociedad-vs-lyon.md)
-- 18:45 · Europa League · [Anderlecht – Red Bull Salzburg](informes/2026-11-05_anderlecht-vs-red-bull-salzburg.md)
-- 18:45 · Europa League · [Sparta Praha – Bournemouth](informes/2026-11-05_sparta-praha-vs-bournemouth.md)
-- 18:45 · Europa League · [Levski Sofia – Jagiellonia](informes/2026-11-05_levski-sofia-vs-jagiellonia.md)
-- 18:45 · Conference League · [FC Midtjylland – Ajax](informes/2026-11-05_fc-midtjylland-vs-ajax.md)
-- 18:45 · Conference League · [Aarhus – SC Braga](informes/2026-11-05_aarhus-vs-sc-braga.md)
-- 18:45 · Conference League · [Atalanta – Kairat Almaty](informes/2026-11-05_atalanta-vs-kairat-almaty.md)
-- 18:45 · Conference League · [FK Crvena Zvezda – Inter Club d'Escaldes](informes/2026-11-05_fk-crvena-zvezda-vs-inter-club-d-escaldes.md)
+- 18:45 · Europa League · [Crystal Palace – 1899 Hoffenheim](informes/2026-11-05_crystal-palace-vs-1899-hoffenheim.md) · 1X2: 1.85 / 3.60 / 3.60
+- 18:45 · Europa League · [Rennes – Olympiakos Piraeus](informes/2026-11-05_rennes-vs-olympiakos-piraeus.md) · 1X2: 2.10 / 3.50 / 3.10
+- 18:45 · Europa League · [Lillestrom – Plzen](informes/2026-11-05_lillestrom-vs-plzen.md) · 1X2: 2.75 / 3.60 / 2.30
+- 18:45 · Europa League · [NEC Nijmegen – Omonia Nicosia](informes/2026-11-05_nec-nijmegen-vs-omonia-nicosia.md) · 1X2: 1.73 / 3.90 / 4.00
+- 18:45 · Europa League · [AC Milan – Ferencvarosi TC](informes/2026-11-05_ac-milan-vs-ferencvarosi-tc.md) · 1X2: 1.33 / 5.25 / 7.50
+- 18:45 · Europa League · [Real Sociedad – Lyon](informes/2026-11-05_real-sociedad-vs-lyon.md) · 1X2: 1.90 / 3.70 / 3.60
+- 18:45 · Europa League · [Anderlecht – Red Bull Salzburg](informes/2026-11-05_anderlecht-vs-red-bull-salzburg.md) · 1X2: 1.90 / 3.75 / 3.50
+- 18:45 · Europa League · [Sparta Praha – Bournemouth](informes/2026-11-05_sparta-praha-vs-bournemouth.md) · 1X2: 5.25 / 4.00 / 1.55
+- 18:45 · Europa League · [Levski Sofia – Jagiellonia](informes/2026-11-05_levski-sofia-vs-jagiellonia.md) · 1X2: 1.95 / 3.50 / 3.50
+- 18:45 · Conference League · [FC Midtjylland – Ajax](informes/2026-11-05_fc-midtjylland-vs-ajax.md) · 1X2: 2.88 / 3.50 / 2.20
+- 18:45 · Conference League · [Aarhus – SC Braga](informes/2026-11-05_aarhus-vs-sc-braga.md) · 1X2: 3.80 / 3.30 / 1.95
+- 18:45 · Conference League · [Atalanta – Kairat Almaty](informes/2026-11-05_atalanta-vs-kairat-almaty.md) · 1X2: 1.18 / 6.25 / 15.00
+- 18:45 · Conference League · [FK Crvena Zvezda – Inter Club d'Escaldes](informes/2026-11-05_fk-crvena-zvezda-vs-inter-club-d-escaldes.md) · 1X2: 1.07 / 9.50 / 26.00
 - 18:45 · Conference League · [Lincoln Red Imps FC – HNK Hajduk Split](informes/2026-11-05_lincoln-red-imps-fc-vs-hnk-hajduk-split.md)
-- 18:45 · Conference League · [Trabzonspor – SC Freiburg](informes/2026-11-05_trabzonspor-vs-sc-freiburg.md)
+- 18:45 · Conference League · [Trabzonspor – SC Freiburg](informes/2026-11-05_trabzonspor-vs-sc-freiburg.md) · 1X2: 2.50 / 3.60 / 2.50
 - 18:45 · Conference League · [FC Thun – Heart Of Midlothian](informes/2026-11-05_fc-thun-vs-heart-of-midlothian.md)
 - 18:45 · Conference League · [KuPS – Gent](informes/2026-11-05_kups-vs-gent.md)
-- 18:45 · Conference League · [Mjallby AIF – Borac Banja Luka](informes/2026-11-05_mjallby-aif-vs-borac-banja-luka.md)
+- 18:45 · Conference League · [Mjallby AIF – Borac Banja Luka](informes/2026-11-05_mjallby-aif-vs-borac-banja-luka.md) · 1X2: 2.10 / 3.60 / 3.00
 - 19:00 · Copa del Rey · [Tarancón – Levante](informes/2026-11-05_tarancon-vs-levante.md) · 1X2: 15.00 / 10.00 / 1.12
-- 21:00 · Europa League · [Bayer Leverkusen – Marseille](informes/2026-11-05_bayer-leverkusen-vs-marseille.md)
-- 21:00 · Europa League · [AZ Alkmaar – Juventus](informes/2026-11-05_az-alkmaar-vs-juventus.md)
-- 21:00 · Europa League · [Benfica – Lech Poznan](informes/2026-11-05_benfica-vs-lech-poznan.md)
-- 21:00 · Europa League · [Celtic – Beşiktaş](informes/2026-11-05_celtic-vs-besiktas.md)
-- 21:00 · Europa League · [Celta Vigo – Union St. Gilloise](informes/2026-11-05_celta-vigo-vs-union-st-gilloise.md)
-- 21:00 · Europa League · [Hapoel Beer Sheva – OFI](informes/2026-11-05_hapoel-beer-sheva-vs-ofi.md)
-- 21:00 · Europa League · [Sturm Graz – Celje](informes/2026-11-05_sturm-graz-vs-celje.md)
-- 21:00 · Europa League · [Sunderland – Dinamo Zagreb](informes/2026-11-05_sunderland-vs-dinamo-zagreb.md)
-- 21:00 · Europa League · [Torreense – Ararat-Armenia](informes/2026-11-05_torreense-vs-ararat-armenia.md)
-- 21:00 · Conference League · [Monaco – FC Nordsjaelland](informes/2026-11-05_monaco-vs-fc-nordsjaelland.md)
-- 21:00 · Conference League · [FC Copenhagen – FC Iberia 1999](informes/2026-11-05_fc-copenhagen-vs-fc-iberia-1999.md)
-- 21:00 · Conference League · [Twente – Pafos](informes/2026-11-05_twente-vs-pafos.md)
-- 21:00 · Conference League · [Getafe – Brighton](informes/2026-11-05_getafe-vs-brighton.md)
-- 21:00 · Conference League · [FC Lugano – Kauno Žalgiris](informes/2026-11-05_fc-lugano-vs-kauno-zalgiris.md)
-- 21:00 · Conference League · [Panathinaikos – CSKA Sofia](informes/2026-11-05_panathinaikos-vs-cska-sofia.md)
-- 21:00 · Conference League · [Universitatea Craiova – Egnatia Rrogozhinë](informes/2026-11-05_universitatea-craiova-vs-egnatia-rrogozhine.md)
-- 21:00 · Conference League · [St. Truiden – Brann](informes/2026-11-05_st-truiden-vs-brann.md)
-- 21:00 · Conference League · [Riga – FK Jablonec](informes/2026-11-05_riga-vs-fk-jablonec.md)
+- 21:00 · Europa League · [Bayer Leverkusen – Marseille](informes/2026-11-05_bayer-leverkusen-vs-marseille.md) · 1X2: 1.40 / 4.75 / 6.25
+- 21:00 · Europa League · [AZ Alkmaar – Juventus](informes/2026-11-05_az-alkmaar-vs-juventus.md) · 1X2: 3.60 / 3.40 / 1.95
+- 21:00 · Europa League · [Benfica – Lech Poznan](informes/2026-11-05_benfica-vs-lech-poznan.md) · 1X2: 1.18 / 6.50 / 12.00
+- 21:00 · Europa League · [Celtic – Beşiktaş](informes/2026-11-05_celtic-vs-besiktas.md) · 1X2: 2.80 / 3.60 / 2.25
+- 21:00 · Europa League · [Celta Vigo – Union St. Gilloise](informes/2026-11-05_celta-vigo-vs-union-st-gilloise.md) · 1X2: 1.95 / 3.75 / 3.25
+- 21:00 · Europa League · [Hapoel Beer Sheva – OFI](informes/2026-11-05_hapoel-beer-sheva-vs-ofi.md) · 1X2: 1.95 / 3.50 / 3.50
+- 21:00 · Europa League · [Sturm Graz – Celje](informes/2026-11-05_sturm-graz-vs-celje.md) · 1X2: 1.55 / 4.10 / 5.00
+- 21:00 · Europa League · [Sunderland – Dinamo Zagreb](informes/2026-11-05_sunderland-vs-dinamo-zagreb.md) · 1X2: 1.42 / 4.50 / 6.25
+- 21:00 · Europa League · [Torreense – Ararat-Armenia](informes/2026-11-05_torreense-vs-ararat-armenia.md) · 1X2: 1.70 / 3.70 / 4.33
+- 21:00 · Conference League · [Monaco – FC Nordsjaelland](informes/2026-11-05_monaco-vs-fc-nordsjaelland.md) · 1X2: 1.48 / 4.33 / 5.50
+- 21:00 · Conference League · [FC Copenhagen – FC Iberia 1999](informes/2026-11-05_fc-copenhagen-vs-fc-iberia-1999.md) · 1X2: 1.14 / 7.00 / 17.00
+- 21:00 · Conference League · [Twente – Pafos](informes/2026-11-05_twente-vs-pafos.md) · 1X2: 1.27 / 5.75 / 8.50
+- 21:00 · Conference League · [Getafe – Brighton](informes/2026-11-05_getafe-vs-brighton.md) · 1X2: 5.25 / 3.60 / 1.62
+- 21:00 · Conference League · [FC Lugano – Kauno Žalgiris](informes/2026-11-05_fc-lugano-vs-kauno-zalgiris.md) · 1X2: 1.18 / 6.25 / 13.00
+- 21:00 · Conference League · [Panathinaikos – CSKA Sofia](informes/2026-11-05_panathinaikos-vs-cska-sofia.md) · 1X2: 1.40 / 4.50 / 7.00
+- 21:00 · Conference League · [Universitatea Craiova – Egnatia Rrogozhinë](informes/2026-11-05_universitatea-craiova-vs-egnatia-rrogozhine.md) · 1X2: 1.44 / 4.33 / 6.25
+- 21:00 · Conference League · [St. Truiden – Brann](informes/2026-11-05_st-truiden-vs-brann.md) · 1X2: 1.70 / 4.00 / 4.10
+- 21:00 · Conference League · [Riga – FK Jablonec](informes/2026-11-05_riga-vs-fk-jablonec.md) · 1X2: 2.25 / 3.40 / 2.90
 - 21:00 · Copa del Rey · [Alcoyano – Mallorca](informes/2026-11-05_alcoyano-vs-mallorca.md) · 1X2: 5.75 / 4.00 / 1.55
 
 ## Viernes 06/11

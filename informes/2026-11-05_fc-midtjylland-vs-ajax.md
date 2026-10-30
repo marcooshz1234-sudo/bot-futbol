@@ -1,10 +1,47 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:00_
+
+- **1X2:** 1 **2.88**  ·  X **3.50**  ·  2 **2.20**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.50**  ·  2 **2.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.62**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.75**
+- **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.60**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.40**
 
 ## Estadísticas de equipo
 | | FC Midtjylland (total) | FC Midtjylland en casa | Ajax (total) | Ajax fuera |
@@ -137,4 +174,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,68 · visitante 1,63 · córners esperados 8,9._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 38% | 42% | 40% | 2.20 | -13% |
+| 1X2: X | 23% | 26% | 25% | 3.50 | -14% |
+| 1X2: 1 | 39% | 32% | 36% | 2.88 | +3% |
+| Doble oportunidad: X2 | 61% | 68% | 64% | 1.40 | -10% |
+| Doble oportunidad: 12 | 77% | 75% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 62% | 57% | 60% | 1.67 | -0% |
+| Ambos marcan: No | 35% | 35% | 35% | 2.62 | -8% |
+| Ambos marcan: Sí | 65% | 65% | 65% | 1.44 | -6% |
+| Goles más/menos: Más de 2.5 | 64% | 62% | 63% | 1.50 | -5% |
+| Goles más/menos: Más de 3.5 | 42% | 42% | 42% | 2.20 | -7% |
+| Goles más/menos: Más de 4.5 | 24% | 25% | 24% | 3.75 | -8% |
+| Goles más/menos: Menos de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles más/menos: Menos de 3.5 | 58% | 58% | 58% | 1.62 | -7% |
+| Goles más/menos: Menos de 4.5 | 76% | 75% | 76% | 1.25 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 42% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
+| Goles del local: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles del local: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Goles del local: Más de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles del local: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
+| Goles del local: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
+| Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del visitante: Más de 1.5 | 49% | 51% | 50% | 1.80 | -10% |
+| Goles del visitante: Más de 2.5 | 23% | 27% | 25% | 3.50 | -14% |
+| Goles del visitante: Menos de 1.5 | 51% | 49% | 50% | 1.91 | -5% |
+| Goles del visitante: Menos de 2.5 | 77% | 73% | 75% | 1.28 | -4% |
+| 1X2 descanso: 2 | 31% | 34% | 32% | 2.75 | -12% |
+| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -6% |
+| 1X2 descanso: 1 | 32% | 29% | 30% | 3.20 | -3% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Stoke City – Preston
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 02:02_

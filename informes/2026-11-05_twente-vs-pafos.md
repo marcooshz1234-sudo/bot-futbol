@@ -1,10 +1,48 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:01_
+
+- **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **8.50**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.75**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **1X2 descanso:** 1 **1.67**  ·  X **2.88**  ·  2 **7.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.17**  ·  2 **4.00**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **7.00**
+- **Win Both Halves:** 1 **2.62**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **7.00**  ·  Away/Yes **13.00**  ·  Home/No **2.25**  ·  Draw/No **21.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
 
 ## Estadísticas de equipo
 | | Twente (total) | Twente en casa | Pafos (total) | Pafos fuera |
@@ -134,4 +172,41 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 2,42 · visitante 0,99 · córners esperados 10,2._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 14% | 11% | 12% | 8.50 | +4% |
+| 1X2: X | 17% | 16% | 17% | 5.75 | -3% |
+| 1X2: 1 | 69% | 73% | 71% | 1.27 | -10% |
+| Doble oportunidad: X2 | 31% | 26% | 28% | 3.75 | +7% |
+| Doble oportunidad: 12 | 83% | 85% | 84% | 1.14 | -5% |
+| Doble oportunidad: 1X | 86% | 89% | 88% | 1.08 | -5% |
+| Ambos marcan: No | 43% | 49% | 46% | 1.91 | -13% |
+| Ambos marcan: Sí | 57% | 51% | 54% | 1.80 | -2% |
+| Goles más/menos: Más de 2.5 | 66% | 67% | 67% | 1.40 | -7% |
+| Goles más/menos: Más de 3.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Goles más/menos: Más de 4.5 | 26% | 28% | 27% | 3.40 | -9% |
+| Goles más/menos: Menos de 2.5 | 34% | 33% | 33% | 2.88 | -4% |
+| Goles más/menos: Menos de 3.5 | 56% | 54% | 55% | 1.73 | -5% |
+| Goles más/menos: Menos de 4.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 46% | 45% | 2.00 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 19% | 22% | 20% | 4.33 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 81% | 78% | 80% | 1.20 | -4% |
+| Goles del local: Más de 1.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles del local: Más de 2.5 | 43% | 49% | 46% | 1.91 | -12% |
+| Goles del local: Más de 3.5 | 22% | 28% | 25% | 3.40 | -15% |
+| Goles del local: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles del local: Menos de 2.5 | 57% | 51% | 54% | 1.80 | -3% |
+| Goles del local: Menos de 3.5 | 78% | 72% | 75% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 63% | 56% | 59% | 1.67 | -1% |
+| Goles del visitante: Más de 1.5 | 26% | 22% | 24% | 4.33 | +3% |
+| Goles del visitante: Menos de 0.5 | 37% | 44% | 41% | 2.10 | -14% |
+| Goles del visitante: Menos de 1.5 | 74% | 78% | 76% | 1.20 | -9% |
+| 1X2 descanso: X | 34% | 32% | 33% | 2.88 | -4% |
+| 1X2 descanso: 1 | 51% | 55% | 53% | 1.67 | -11% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1753,6 +1753,94 @@
     ]
   },
   {
+    "id": "2026-11-05-picks-manana",
+    "fecha": "2026-11-04T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🟢 Gol en la 1ª parte del FC Midtjylland–Ajax\n✅ 🟠 Gana el Bayer Leverkusen\n✅ 🟠 Camilo Duran: 1+ tiros a puerta\n✅ 🟠 Gol en la 1ª parte del Crystal Palace–1899 Hoffenheim\n✅ 🟢 Gol en la 1ª parte del Universitatea Craiova–Egnatia Rrogozhinë\n✅ 🟠 Gol en la 1ª parte del Levski Sofia–Jagiellonia\n✅ 🟢 FC Nordsjaelland marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636448|Goals Over/Under First Half|Over 0.5",
+      "1636223|Match Winner|Home",
+      "1636250|Home Player Shots On Target Total|Camilo Duran - 1",
+      "1636254|Goals Over/Under First Half|Over 0.5",
+      "1636483|Goals Over/Under First Half|Over 0.5",
+      "1636286|Goals Over/Under First Half|Over 0.5",
+      "1636456|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.4,
+      1.4,
+      1.28,
+      1.3,
+      1.33,
+      1.53
+    ]
+  },
+  {
+    "id": "2026-11-05-ganadores",
+    "fecha": "2026-11-05T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🟠 Bayer Leverkusen — Gana\n✅2. 🇪🇸 Levante — Gana\n✅3. 🟢 Brighton — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-05-combi-tres",
+    "fecha": "2026-11-05T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,83! 🍀\n\n✅ 🟠 Crystal Palace o empate\n✅ 🟠 Celta Vigo o empate\n✅ 🟢 Gol en la 1ª parte del FC Midtjylland–Ajax\n✅ 🟠 Gol en la 1ª parte del AZ Alkmaar–Juventus\n\n🎯 CUOTA 2,83 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636254|Double Chance|Home/Draw",
+      "1636245|Double Chance|Home/Draw",
+      "1636448|Goals Over/Under First Half|Over 0.5",
+      "1636219|Goals Over/Under First Half|Over 0.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.33,
+      1.28,
+      1.33
+    ]
+  },
+  {
+    "id": "2026-11-05-combi-partido-1636250",
+    "fecha": "2026-11-05T20:00",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 CELTIC vs BEŞIKTAŞ 🟠\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ CELTIC MARCA [x1.25]\n✅ BEŞIKTAŞ O EMPATE [x1.40]\n✅ CAMILO DURAN: 1+ TIROS A PUERTA [x1.40]\n✅ EMPATE AL DESCANSO [x2.38]\n\n💥 Cuota total aprox.: 9,47\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636250|Goals Over/Under First Half|Over 0.5",
+      "1636250|Total - Home|Over 0.5",
+      "1636250|Double Chance|Draw/Away",
+      "1636250|Home Player Shots On Target Total|Camilo Duran - 1",
+      "1636250|First Half Winner|Draw"
+    ],
+    "cuotas": [
+      1.28,
+      1.25,
+      1.4,
+      1.4,
+      2.38
+    ],
+    "tarjeta": {
+      "local": "Celtic",
+      "visitante": "Beşiktaş",
+      "id_l": 247,
+      "id_v": 549,
+      "logo_l": "https://media.api-sports.io/football/teams/247.png",
+      "logo_v": "https://media.api-sports.io/football/teams/549.png",
+      "fecha": "2026-11-05T21:00",
+      "liga": "Europa League"
+    }
+  },
+  {
     "id": "2026-11-06-ganadores",
     "fecha": "2026-11-06T01:00",
     "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton — Gana o empata\n✅2. 🇩🇪 Hamburger SV — Gana o empata\n✅3. 🇫🇷 Toulouse — Gana o empata\n✅4. 🇪🇸 Castellón — Gana o empata\n✅5. 🇵🇹 Arouca — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",

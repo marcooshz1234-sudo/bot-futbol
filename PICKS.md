@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-30 02:06 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-30 08:01 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 30/10
 
@@ -183,6 +183,35 @@ _Generado el 2026-10-30 02:06 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 21:00 | Gana el Como | resultado | 2.15 | 65% | Lens 6/10 · Como 7/10 |
+
+## Jueves 05/11
+
+**🔒 Combi segura · cuota 1,64**
+- Gol en la 1ª parte del FC Midtjylland–Ajax (1,28) · FC Midtjylland 7/8 · Ajax 9/10
+- Gol en la 1ª parte del Crystal Palace–1899 Hoffenheim (1,28) · Crystal Palace 8/10 · 1899 Hoffenheim 8/10
+
+**💥 Combi cuota 3-4 · cuota 3,39**
+- Gol en la 1ª parte del Universitatea Craiova–Egnatia Rrogozhinë (1,30) · Universitatea Craiova 7/10 · Egnatia Rrogozhinë 9/10
+- Gol en la 1ª parte del Levski Sofia–Jagiellonia (1,33) · Levski Sofia 7/10 · Jagiellonia 7/7
+- Gana el Bayer Leverkusen (1,40) · Bayer Leverkusen 8/10 · Marseille 7/10
+- Beşiktaş o empate (1,40) · Celtic 4/5 · Beşiktaş 8/9
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 18:45 | Gol en la 1ª parte del FC Midtjylland–Ajax | goles | 1.28 | 89% | FC Midtjylland 7/8 · Ajax 9/10 |
+| 18:45 | Gol en la 1ª parte del Crystal Palace–1899 Hoffenheim | goles | 1.28 | 80% | Crystal Palace 8/10 · 1899 Hoffenheim 8/10 |
+| 21:00 | Gol en la 1ª parte del Universitatea Craiova–Egnatia Rrogozhinë | goles | 1.30 | 80% | Universitatea Craiova 7/10 · Egnatia Rrogozhinë 9/10 |
+| 18:45 | Gol en la 1ª parte del Levski Sofia–Jagiellonia | goles | 1.33 | 82% | Levski Sofia 7/10 · Jagiellonia 7/7 |
+| 21:00 | FC Nordsjaelland marca | goles | 1.53 | 83% | Monaco (en contra) 8/10 · FC Nordsjaelland 7/8 |
+| 18:45 | Omonia Nicosia marca | goles | 1.36 | 90% | NEC Nijmegen (en contra) 10/10 · Omonia Nicosia 7/9 |
+| 21:00 | Gol en la 1ª parte del Getafe–Brighton | goles | 1.36 | 75% | Getafe 7/10 · Brighton 8/10 |
+| 21:00 | FK Jablonec marca | goles | 1.33 | 78% | Riga (en contra) 8/10 · FK Jablonec 6/8 |
+| 21:00 | Gana el Bayer Leverkusen | resultado | 1.40 | 75% | Bayer Leverkusen 8/10 · Marseille 7/10 |
+| 21:00 | Dinamo Zagreb marca | goles | 1.57 | 79% | Sunderland (en contra) 7/10 · Dinamo Zagreb 8/9 |
+| 21:00 | Beşiktaş o empate | resultado | 1.40 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 18:45 | Ferencvarosi TC marca | goles | 1.67 | 85% | AC Milan (en contra) 7/10 · Ferencvarosi TC 10/10 |
+| 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.40 | 80% | Camilo Duran 4/5 |
+| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.67 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
 
 ## Viernes 06/11
 

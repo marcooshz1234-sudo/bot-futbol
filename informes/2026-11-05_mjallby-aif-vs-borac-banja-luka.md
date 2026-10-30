@@ -1,10 +1,47 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 02:06._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 30/10 08:00_
+
+- **1X2:** 1 **2.10**  ·  X **3.60**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.70**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.30**  ·  2 **3.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.00**
+- **Win Both Halves:** 1 **6.50**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **13.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
 
 ## Estadísticas de equipo
 | | Mjallby AIF (total) | Mjallby AIF en casa | Borac Banja Luka (total) | Borac Banja Luka fuera |
@@ -136,4 +173,40 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,00 · visitante 1,19 · córners esperados 9,5._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 40% | 31% | 35% | 3.00 | +6% |
+| 1X2: X | 29% | 26% | 27% | 3.60 | -2% |
+| 1X2: 1 | 31% | 44% | 37% | 2.10 | -22% |
+| Doble oportunidad: X2 | 69% | 56% | 63% | 1.70 | +6% |
+| Doble oportunidad: 12 | 71% | 74% | 73% | 1.28 | -7% |
+| Doble oportunidad: 1X | 60% | 70% | 65% | 1.36 | -12% |
+| Ambos marcan: No | 56% | 42% | 49% | 2.20 | +8% |
+| Ambos marcan: Sí | 44% | 58% | 51% | 1.62 | -18% |
+| Goles más/menos: Más de 1.5 | 64% | 77% | 71% | 1.22 | -14% |
+| Goles más/menos: Más de 2.5 | 38% | 55% | 46% | 1.73 | -20% |
+| Goles más/menos: Más de 3.5 | 18% | 34% | 26% | 2.75 | -29% |
+| Goles más/menos: Menos de 1.5 | 36% | 23% | 29% | 4.00 | +18% |
+| Goles más/menos: Menos de 2.5 | 62% | 45% | 54% | 2.08 | +12% |
+| Goles más/menos: Menos de 3.5 | 82% | 66% | 74% | 1.40 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 38% | 31% | 2.50 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 62% | 69% | 1.50 | +3% |
+| Goles del local: Más de 0.5 | 63% | 78% | 71% | 1.20 | -15% |
+| Goles del local: Más de 1.5 | 27% | 49% | 38% | 1.91 | -28% |
+| Goles del local: Más de 2.5 | 8% | 23% | 16% | 4.00 | -37% |
+| Goles del local: Menos de 0.5 | 37% | 22% | 29% | 4.33 | +26% |
+| Goles del local: Menos de 1.5 | 73% | 51% | 62% | 1.80 | +12% |
+| Goles del local: Menos de 2.5 | 92% | 77% | 84% | 1.22 | +3% |
+| Goles del visitante: Más de 0.5 | 70% | 71% | 70% | 1.33 | -7% |
+| Goles del visitante: Más de 1.5 | 33% | 38% | 35% | 2.50 | -11% |
+| Goles del visitante: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -3% |
+| Goles del visitante: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
+| 1X2 descanso: 2 | 29% | 26% | 27% | 3.60 | -2% |
+| 1X2 descanso: X | 48% | 40% | 44% | 2.30 | +1% |
+| 1X2 descanso: 1 | 23% | 34% | 29% | 2.75 | -21% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
