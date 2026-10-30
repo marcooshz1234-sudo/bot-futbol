@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Panel Combilocas</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+:root{--bg:#0b1310;--card:#131f1a;--card2:#1a2a23;--line:#22362d;--txt:#eef7f1;--mut:#8aa596;--ok:#4ade80;--ko:#f87171;--warn:#fbbf24;--acc:#22c55e;--r:16px}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.4 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 80%,transparent);padding:14px 16px 8px;display:flex;align-items:center;gap:10px}
+header h1{font-size:19px;margin:0;font-weight:800;letter-spacing:.3px;flex:1}
+.mut{color:var(--mut);font-size:13px}
+.btn{border:0;border-radius:12px;padding:10px 14px;font:600 14px inherit;font-family:inherit;color:var(--txt);background:var(--card2);cursor:pointer}
+.btn.acc{background:var(--acc);color:#04210f}.btn.ko{background:rgba(248,113,113,.15);color:var(--ko)}.btn.sm{padding:7px 10px;font-size:13px;border-radius:10px}
+main{padding:0 16px 150px}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);margin:18px 2px 8px;font-weight:700}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:12px;margin-bottom:10px}
+.row{display:flex;align-items:center;gap:8px}.sp{flex:1;min-width:0}
+.chip{display:inline-block;font-size:12px;font-weight:700;padding:3px 8px;border-radius:999px;background:var(--card2);color:var(--mut)}
+.chip.ok{background:rgba(74,222,128,.14);color:var(--ok)}.chip.ko{background:rgba(248,113,113,.14);color:var(--ko)}.chip.warn{background:rgba(251,191,36,.14);color:var(--warn)}
+.hora{font-weight:800;font-size:20px;min-width:58px}
+.txt{white-space:pre-wrap;font-size:13.5px;margin-top:8px;max-height:7.5em;overflow:hidden;position:relative}
+.txt.abierto{max-height:none}
+.txt:not(.abierto)::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2.2em;background:linear-gradient(transparent,var(--card))}
+.img{width:100%;border-radius:12px;margin-top:10px;display:block;background:var(--card2);object-fit:contain;max-height:240px}
+.acciones{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.cancel{opacity:.45}
+.red{display:flex;align-items:center;gap:6px;font-size:13px;margin-top:6px}
+.pend{outline:2px solid var(--warn);outline-offset:2px}
+.sug{display:flex;flex-direction:column;gap:6px;margin-top:10px}
+.sug .btn{text-align:left;font-weight:500}
+.sug .btn.sel{background:var(--acc);color:#04210f}
+.switch{width:50px;height:30px;border-radius:999px;background:var(--card2);position:relative;border:0;flex:none}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#cfe;transition:.2s}
+.switch.on{background:var(--acc)}.switch.on::after{left:23px}
+.step{display:flex;align-items:center;gap:8px}.step b{min-width:42px;text-align:center;font-size:17px}
+input[type=time],textarea{background:var(--card2);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px;font:15px inherit;font-family:inherit}
+textarea{width:100%;min-height:200px;margin-top:8px}
+.big{font-weight:800;font-size:26px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.barra{height:8px;border-radius:99px;background:var(--card2);overflow:hidden;margin-top:5px}.barra>div{height:100%;background:var(--acc)}
+nav{position:fixed;left:0;right:0;bottom:0;background:rgba(11,19,16,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px)}
+nav button{background:none;border:0;color:var(--mut);font:600 11px inherit;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;position:relative}
+nav button span{font-size:21px}nav button.on{color:var(--ok)}
+nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;font-size:10px;border-radius:99px;padding:1px 5px}
+#aplicar{position:fixed;left:16px;right:16px;bottom:calc(70px + env(safe-area-inset-bottom));display:none;z-index:6;box-shadow:0 6px 24px rgba(0,0,0,.5);padding:14px;font-size:16px}
+.vacio{text-align:center;color:var(--mut);padding:30px 10px}
+.aviso{background:rgba(251,191,36,.12);color:var(--warn);border-radius:12px;padding:10px 12px;font-size:13px;margin-bottom:10px}
+</style>
+</head>
+<body>
+<header>
+  <h1>⚙️ Panel</h1>
+  <span class="mut" id="act"></span>
+  <button class="btn sm acc" onclick="subir()">➕ Subir</button>
+</header>
+<main id="vista"><div class="vacio">Cargando…</div></main>
+<button class="btn acc" id="aplicar" onclick="aplicar()"></button>
+<nav id="nav"></nav>
+<script>
+const tg = window.Telegram && Telegram.WebApp;
+if (tg) { tg.ready(); tg.expand(); try { tg.setHeaderColor("#0b1310"); tg.setBackgroundColor("#0b1310"); } catch (e) {} }
+const enTelegram = !!(tg && tg.initData);
+const BOT = "https://t.me/combilocas_publica_bot";
+let D = null, tab = "cola", cambios = [], abiertos = new Set(), editando = null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dia = f => { const h = new Date(); const d = f.slice(0,10); const hoy = h.toISOString().slice(0,10);
+  const man = new Date(h.getTime()+864e5).toISOString().slice(0,10); return d===hoy?"Hoy":d===man?"Mañana":d.slice(8,10)+"/"+d.slice(5,7) };
+const TABS = [["cola","📅","Cola"],["redes","📡","Redes"],["com","💬","Comentarios"],["ajustes","🎛️","Ajustes"],["rend","📈","Números"]];
+
+async function cargar(){
+  try { D = await (await fetch("datos.json?t="+Date.now(), {cache:"no-store"})).json(); }
+  catch(e){ $("#vista").innerHTML = `<div class="vacio">Sin conexión. Prueba otra vez.</div>`; return; }
+  $("#act").textContent = "act. " + D.generado.slice(11);
+  pintar();
+}
+function nav(){
+  const nc = D.comentarios.length, nf = D.redes.filter(p=>Object.values(p.redes).some(r=>r.error)).length;
+  $("#nav").innerHTML = TABS.map(([k,i,n]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${n}${
+    k==="com"&&nc?`<i class="badge">${nc}</i>`:k==="redes"&&nf?`<i class="badge">${nf}</i>`:""}</button>`).join("");
+}
+function ir(k){ tab = k; window.scrollTo(0,0); pintar(); }
+function pintar(){
+  nav();
+  const f = {cola:vCola, redes:vRedes, com:vCom, ajustes:vAjustes, rend:vRend}[tab];
+  $("#vista").innerHTML = (D.pausa && !cambio("pausa") ? `<div class="aviso">⏸️ El bot está en pausa: no se publica nada.</div>` : "") + f();
+  const b = $("#aplicar"); b.style.display = cambios.length ? "block" : "none";
+  b.textContent = `✅ Aplicar ${cambios.length} cambio${cambios.length>1?"s":""}`;
+}
+// ---------- cambios pendientes (se mandan todos juntos al bot)
+function cambio(a, id){ return cambios.find(c => c.a===a && (id===undefined || c.id===id || c.k===id)); }
+function poner(c){ cambios = cambios.filter(x => !(x.a===c.a && (x.id??x.k)===(c.id??c.k))); if(!c.quitar) cambios.push(c); pintar(); }
+function aplicar(){
+  const datos = JSON.stringify({v:1, acc:cambios});
+  if (enTelegram) { tg.sendData(datos); return; }
+  alert("Abre el panel desde el botón «📱 Panel» del bot para aplicar cambios.");
+}
+function subir(){
+  if (enTelegram) { tg.sendData(JSON.stringify({v:1, acc:[...cambios, {a:"subir"}]})); return; }
+  location.href = BOT;
+}
+// ---------- 📅 cola
+function vCola(){
+  if (!D.cola.length) return `<div class="vacio">No hay nada programado en las próximas 48 h</div>`;
+  let h = "", ult = "";
+  D.cola.forEach(p => {
+    const d = dia(p.fecha); if (d !== ult) { h += `<h2>${d}</h2>`; ult = d; }
+    const cH = cambio("hora", p.id), cT = cambio("texto", p.id), cC = cambio("cancelar", p.id), cR = cambio("recuperar", p.id), cY = cambio("ya", p.id);
+    const cancel = (p.cancelado && !cR) || cC;
+    const texto = cT ? cT.t : p.texto;
+    h += `<div class="card ${cancel?"cancel":""} ${cH||cT||cC||cR||cY?"pend":""}">
+      <div class="row"><span class="hora">${esc(cY?"Ya":cH?cH.h:p.fecha.slice(11,16))}</span>
+        <div class="sp"><b>${esc(p.tipo)}</b>${p.editado||cT?` <span class="chip warn">editado</span>`:""}${cancel?` <span class="chip ko">cancelado</span>`:""}</div></div>
+      ${p.imagen?`<img class="img" loading="lazy" src="${esc(p.imagen)}" onclick="this.style.aspectRatio='auto';this.style.objectFit='contain'">`:""}
+      ${editando===p.id ? `<textarea id="ed">${esc(texto)}</textarea>
+        <div class="acciones"><button class="btn sm acc" onclick="guardarTexto('${p.id}')">Guardar texto</button><button class="btn sm" onclick="editando=null;pintar()">Cancelar</button></div>`
+      : `<div class="txt ${abiertos.has(p.id)?"abierto":""}" onclick="abrir('${p.id}')">${esc(texto)}</div>`}
+      ${editando===p.id?"":`<div class="acciones">
+        <button class="btn sm" onclick="editando='${p.id}';pintar()">✏️ Texto</button>
+        <label class="btn sm">🕒 <input type="time" value="${esc(cH?cH.h:p.fecha.slice(11,16))}" style="padding:2px 4px;border:0" onchange="poner({a:'hora',id:'${p.id}',h:this.value,f:'${p.fecha.slice(0,10)}'})"></label>
+        <button class="btn sm" onclick="poner({a:'ya',id:'${p.id}',quitar:!!cambio('ya','${p.id}')})">⚡ Sacar ya</button>
+        ${cancel ? `<button class="btn sm" onclick="${cC?`poner({a:'cancelar',id:'${p.id}',quitar:true})`:`poner({a:'recuperar',id:'${p.id}'})`}">↩️ Recuperar</button>`
+                 : `<button class="btn sm ko" onclick="${cR?`poner({a:'recuperar',id:'${p.id}',quitar:true})`:`poner({a:'cancelar',id:'${p.id}'})`}">✕ Cancelar</button>`}
+      </div>`}
+    </div>`;
+  });
+  return h;
+}
+function abrir(id){ abiertos.has(id) ? abiertos.delete(id) : abiertos.add(id); pintar(); }
+function guardarTexto(id){ const t = $("#ed").value; const p = D.cola.find(x=>x.id===id); editando = null;
+  poner({a:"texto", id, t, quitar: t === p.texto}); }
+// ---------- 📡 redes
+const ICO = {telegram:"✈️", threads:"@", instagram:"📷"};
+function vRedes(){
+  const fallos = D.redes.filter(p=>Object.values(p.redes).some(r=>r.error));
+  let h = fallos.length ? `<h2>Con fallos</h2>` + fallos.map(tarjetaRed).join("") : `<div class="card row"><span style="font-size:22px">👌</span><div class="sp"><b>Todo publicado</b><div class="mut">Sin fallos en las últimas 30 h</div></div></div>`;
+  h += `<h2>Últimas 30 h</h2>` + D.redes.filter(p=>!fallos.includes(p)).map(tarjetaRed).join("");
+  return h;
+}
+function tarjetaRed(p){
+  return `<div class="card"><div class="row"><span class="hora" style="font-size:16px">${p.fecha.slice(11,16)}</span><div class="sp"><b>${esc(p.titulo)}</b><div class="mut">${esc(p.tipo)} · ${dia(p.fecha)}</div></div></div>
+    ${Object.entries(p.redes).map(([red,r]) => `<div class="red"><span style="width:22px;text-align:center">${ICO[red]}</span>
+      <span class="sp">${red[0].toUpperCase()+red.slice(1)}</span>${r.ok?`<span class="chip ok">✓ publicado</span>`:r.error?`<span class="chip ko">✕ falló</span>`:`<span class="chip">⏳ pendiente</span>`}</div>
+      ${r.error?`<div class="mut" style="margin:4px 0 0 28px">${esc(r.error)}</div>${r.bloqueo?`<div class="mut" style="margin:4px 0 0 28px">ℹ️ ${esc(r.bloqueo)}</div>`:
+        `<div style="margin:6px 0 0 28px"><button class="btn sm ${cambio('retry',r.clave)?'acc':''}" onclick="poner({a:'retry',k:'${r.clave}',quitar:!!cambio('retry','${r.clave}')})">🔁 Reintentar en ${red}</button></div>`}`:""}`).join("")}</div>`;
+}
+// ---------- 💬 comentarios
+function vCom(){
+  if (!D.comentarios.length) return `<div class="vacio">💬 No hay comentarios nuevos sin contestar</div>`;
+  return `<div class="mut" style="margin:6px 2px 10px">Toca una respuesta y dale a Aplicar: la pone el bot en Threads.</div>` + D.comentarios.map(c => {
+    const r = cambio("resp", c.id), ig = cambio("ignorar", c.id);
+    return `<div class="card ${r||ig?"pend":""} ${ig?"cancel":""}"><div class="row"><b class="sp">@${esc(c.usuario)}</b><span class="mut">${esc((c.fecha||"").slice(11,16))}</span></div>
+      <div class="mut">en «${esc(c.post)}»</div><div style="margin-top:6px;font-size:15px">${esc(c.texto)}</div>
+      <div class="sug">${(c.sugerencias||[]).map(s => `<button class="btn ${r&&r.t===s?"sel":""}" onclick='poner({a:"resp",id:${JSON.stringify(c.id)},post:${JSON.stringify(c.post_id)},u:${JSON.stringify(c.usuario)},c:${JSON.stringify(c.id)},t:${JSON.stringify(s)},quitar:${!!(r&&r.t===s)}})'>${esc(s)}</button>`).join("")}
+        <div class="row"><button class="btn sm" onclick='escribir(${JSON.stringify(c.id)})'>✏️ Escribo yo</button><button class="btn sm" onclick='poner({a:"ignorar",id:${JSON.stringify(c.id)},quitar:${!!ig}})'>🙈 No contestar</button></div>
+        ${r && !(c.sugerencias||[]).includes(r.t) ? `<div class="chip ok" style="margin-top:4px">«${esc(r.t)}»</div>` : ""}</div></div>`;
+  }).join("");
+}
+function escribir(id){ const c = D.comentarios.find(x=>x.id===id); const t = prompt("Tu respuesta a @"+c.usuario+":");
+  if (t && t.trim()) poner({a:"resp", id, post:c.post_id, u:c.usuario, c:c.id, t:t.trim()}); }
+// ---------- 🎛️ ajustes
+function valor(k){ const c = cambio("ajuste", k); return c ? c.v : D.ajustes[k].v; }
+function vAjustes(){
+  const pausa = cambio("pausa") ? cambio("pausa").v : D.pausa;
+  let h = `<div class="card row"><div class="sp"><b>${pausa?"⏸️ Bot en pausa":"▶️ Bot publicando"}</b><div class="mut">Para todo de golpe (Telegram y redes)</div></div>
+    <button class="switch ${pausa?"":"on"}" onclick="poner({a:'pausa',k:'pausa',v:${!pausa},quitar:${!pausa}===D.pausa})"></button></div>`;
+  const grupos = [["Contenido",["gifs","noche","enlace_threads"]],["Combis con escudos",["cuota_min","cuota_max","patas"]],["Horarios",["hora_escalera","hora_x3","hora_loca","hora_picks"]]];
+  grupos.forEach(([g, ks]) => { h += `<h2>${g}</h2>` + ks.map(k => {
+    const a = D.ajustes[k], v = valor(k), pend = cambio("ajuste", k);
+    const ctrl = a.tipo==="si_no" ? `<button class="switch ${v?"on":""}" onclick="aj('${k}',${!v})"></button>`
+      : a.tipo==="num" ? `<div class="step"><button class="btn sm" onclick="aj('${k}',Math.max(${a.min},+(${v}-${a.paso}).toFixed(1)))">−</button><b>${String(v).replace(".",",")}</b><button class="btn sm" onclick="aj('${k}',Math.min(${a.max},+(${v}+${a.paso}).toFixed(1)))">+</button></div>`
+      : `<input type="time" value="${esc(v)}" onchange="aj('${k}',this.value)">`;
+    return `<div class="card row ${pend?"pend":""}"><div class="sp"><b>${esc(a.t)}</b>${a.d?`<div class="mut">${esc(a.d)}</div>`:""}</div>${ctrl}</div>`; }).join(""); });
+  return h + `<div class="mut" style="margin-top:6px">Los cambios de combis y horarios se notan en las combis que el bot prepare a partir de ahora.</div>`;
+}
+function aj(k, v){ poner({a:"ajuste", k, v, quitar: v === D.ajustes[k].v}); }
+// ---------- 📈 números
+function vRend(){
+  const R = D.rendimiento, S = R.seguidores;
+  let h = `<h2>Seguidores</h2><div class="grid3">` + [["threads","Threads"],["instagram","Instagram"],["telegram","Telegram"]].map(([k,n]) => { const x = S[k]||{};
+    return `<div class="card" style="margin:0"><div class="mut">${n}</div><div class="big">${(x.seguidores??"—").toLocaleString("es-ES")}</div><span class="chip ${x.hoy>0?"ok":x.hoy<0?"ko":""}">${x.hoy>0?"+":""}${x.hoy??0} hoy</span></div>`; }).join("") + `</div>`;
+  h += `<h2>Lo más visto esta semana (Threads)</h2>` + (R.top.length ? R.top.map((p,i) => `<div class="card row"><b style="font-size:18px;width:22px">${i+1}</b><div class="sp"><b>${esc(p.titulo)}</b><div class="mut">${esc(p.tipo)} · ${p.fecha.slice(8,10)}/${p.fecha.slice(5,7)} ${p.fecha.slice(11,16)}</div></div><b>${p.vistas.toLocaleString("es-ES")}</b></div>`).join("") : `<div class="vacio">Sin datos aún</div>`);
+  const barras = (l, et) => { const m = Math.max(...l.map(x=>x.media), 1); return l.map(x => `<div style="margin-bottom:10px"><div class="row"><span class="sp">${esc(x[et])}</span><b>${x.media.toLocaleString("es-ES")}</b><span class="mut">· ${x.n} posts</span></div><div class="barra"><div style="width:${100*x.media/m}%"></div></div></div>`).join(""); };
+  h += `<h2>Vistas medias por tipo de post</h2><div class="card">${barras(R.por_tipo, "tipo")}</div>`;
+  h += `<h2>Vistas medias por hora</h2><div class="card">${barras(R.por_hora, "franja")}</div><div class="mut">Últimos 14 días, solo Threads.</div>`;
+  return h;
+}
+cargar();
+</script>
+</body>
+</html>

@@ -306,7 +306,8 @@ def muestra_auto(n=10):
 
 def main(ahora=None, enviar=None, rnd=random):
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
-    if not (token and canal) or not ACTIVO:
+    from panel_datos import ajustes   # 30/10: se puede apagar desde el panel
+    if not (token and canal) or not ACTIVO or not ajustes()["gifs"]:
         return
     ahora = ahora or datetime.now(MADRID)
     est = leer(ESTADO, {}) or {}
