@@ -1914,6 +1914,9 @@
       "threads": "18113309900272216",
       "instagram": "18131581057762717",
       "instagram_story": "17904648297656392"
+    },
+    "errores_redes": {
+      "threads_enlace": "500: An unexpected error has occurred. Please retry your request later."
     }
   }
 ]
