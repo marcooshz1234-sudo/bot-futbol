@@ -609,7 +609,7 @@
   {
     "id": "2026-10-30-combi-partido-1563233",
     "fecha": "2026-10-30T19:40",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SHEFFIELD UTD vs WREXHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 SHEFFIELD UTD O EMPATE [x1.36]\n✅ WREXHAM MARCA [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ THOMAS CANNON COMETE 1+ FALTAS [x1.53]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,10\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SHEFFIELD UTD vs WREXHAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 SHEFFIELD UTD O EMPATE [x1.36]\n✅ WREXHAM MARCA [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ ROMELLE DONOVAN COMETE 1+ FALTAS [x1.25]\n✅ MÁS DE 25,5 TIROS [x1.83]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 5,80\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -617,7 +617,7 @@
       "1563233|Double Chance|Home/Draw",
       "1563233|Total - Away|Over 0.5",
       "1563233|Goals Over/Under First Half|Over 0.5",
-      "1563233|Player Fouls Committed|Thomas Cannon - 1",
+      "1563233|Player Fouls Committed|Romelle Donovan - 1",
       "1563233|Total Shots|Over 25.5",
       "1563233|Total Corners (1st Half)|Over 4.5"
     ],
@@ -625,7 +625,7 @@
       1.36,
       1.33,
       1.36,
-      1.53,
+      1.25,
       1.83,
       1.78
     ],
@@ -638,7 +638,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/1837.png",
       "fecha": "2026-10-30T21:00",
       "liga": "Championship"
-    }
+    },
+    "revisado_alineaciones": "2026-10-30T20:34"
   },
   {
     "id": "2026-10-30-combi-partido-1552802",

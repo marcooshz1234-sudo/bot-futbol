@@ -1,6 +1,7 @@
 {
  "avisados": [
-  "2026-10-28-combi-tres|Nicolo Barella: 1+ tiros"
+  "2026-10-28-combi-tres|Nicolo Barella: 1+ tiros",
+  "2026-10-30-combi-partido-1563233|Thomas Cannon comete 1+ faltas"
  ],
  "alineaciones": {
   "1550169": {
@@ -146,10 +147,145 @@
    }
   },
   "1563233": {
-   "hora": "2026-10-30T20:23:29.689404+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-30T20:34:52.555365+01:00",
+   "xi": [
+    "M. Cooper",
+    "H. Choudhury",
+    "J. Tanganga",
+    "L. Kitching",
+    "H. Burrows",
+    "Sydie Peck",
+    "K. Phillips",
+    "T. Chong",
+    "R. Donovan",
+    "B. Brereton",
+    "J. Ayew",
+    "A. Patterson",
+    "D. Hyam",
+    "J. Worrall",
+    "C. Doyle",
+    "I. Kaboré",
+    "B. Sheaf",
+    "M. James",
+    "J. Ekomié",
+    "O. Rathbone",
+    "L. O&apos;Brien",
+    "K. Moore"
+   ],
+   "banquillo": [
+    "J. Riedewald",
+    "M. McGuinness",
+    "S. McCallum",
+    "T. Cannon",
+    "T. Campbell",
+    "O. Arblaster",
+    "J. Rothwell",
+    "F. Seriki",
+    "Tommy Betts",
+    "B. Whiteman",
+    "B. Cadamarteri",
+    "M. Cleworth",
+    "G. Dobson",
+    "Daniel Edward Peter Imray",
+    "S. Smith",
+    "G. Thomason",
+    "Z. Vyner",
+    "D. Ward"
+   ],
+   "equipos": {
+    "62": [
+     {
+      "n": "M. Cooper",
+      "pos": "G"
+     },
+     {
+      "n": "H. Choudhury",
+      "pos": "D"
+     },
+     {
+      "n": "J. Tanganga",
+      "pos": "D"
+     },
+     {
+      "n": "L. Kitching",
+      "pos": "D"
+     },
+     {
+      "n": "H. Burrows",
+      "pos": "D"
+     },
+     {
+      "n": "Sydie Peck",
+      "pos": "M"
+     },
+     {
+      "n": "K. Phillips",
+      "pos": "M"
+     },
+     {
+      "n": "T. Chong",
+      "pos": "M"
+     },
+     {
+      "n": "R. Donovan",
+      "pos": "M"
+     },
+     {
+      "n": "B. Brereton",
+      "pos": "M"
+     },
+     {
+      "n": "J. Ayew",
+      "pos": "F"
+     }
+    ],
+    "1837": [
+     {
+      "n": "A. Patterson",
+      "pos": "G"
+     },
+     {
+      "n": "D. Hyam",
+      "pos": "D"
+     },
+     {
+      "n": "J. Worrall",
+      "pos": "D"
+     },
+     {
+      "n": "C. Doyle",
+      "pos": "D"
+     },
+     {
+      "n": "I. Kaboré",
+      "pos": "M"
+     },
+     {
+      "n": "B. Sheaf",
+      "pos": "M"
+     },
+     {
+      "n": "M. James",
+      "pos": "M"
+     },
+     {
+      "n": "J. Ekomié",
+      "pos": "M"
+     },
+     {
+      "n": "O. Rathbone",
+      "pos": "M"
+     },
+     {
+      "n": "L. O&apos;Brien",
+      "pos": "M"
+     },
+     {
+      "n": "K. Moore",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552802": {
    "hora": "2026-10-30T20:29:05.779979+01:00",
