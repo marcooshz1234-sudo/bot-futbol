@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 22:02",
+ "actualizado": "2026-10-30 22:13",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -117,18 +117,18 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 7,
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
    "posts": 43,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
