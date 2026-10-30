@@ -502,7 +502,7 @@ class Asistente:
         # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
         orig = (q.get("message") or {}).get("reply_to_message") or {}
         foto_orig = (orig.get("photo") or [{}])[-1].get("file_id")
-        if accion in ("subir", "boleto") and not self.borrador and (foto_orig or orig.get("text")):
+        if accion in ("subir", "boleto", "aprender") and not self.borrador and (foto_orig or orig.get("text")):
             self.borrador = {"texto": orig.get("caption") or orig.get("text") or "", "foto": foto_orig,
                              "msg": orig.get("message_id")}
         if accion in ("boleto_ok", "boleto_cuota") and not self.boleto and foto_orig:
@@ -573,6 +573,8 @@ class Asistente:
             return self.enviar("👍 No se borra nada.")
         if accion == "boleto" and self.borrador and self.borrador.get("foto"):
             return self.recortar_boleto()
+        if accion == "aprender" and self.borrador and self.borrador.get("foto"):
+            return self.guardar_para_aprender()
         if accion == "boleto_cuota" and self.boleto:
             self.esperando = ("cuota_boleto",)
             return self.enviar("Dime la cuota total, por ejemplo 33,75")
@@ -584,6 +586,21 @@ class Asistente:
         # nunca en silencio: si el botón no se ha podido atender, se dice
         return self.enviar("⚠️ Ese botón ya no vale (el bot se ha reiniciado y no tengo lo que iba con él). "
                            "Mándamelo otra vez.")
+
+    # ---------------------------------------------------------------- capturas para aprender
+    def guardar_para_aprender(self):
+        """30/10 (Marcos): guarda la captura de su apuesta en datos/capturas_marcos/ (no se publica). Cada noche
+        una tarea programada las lee (patas, ✓/✗, cuotas del «Crear apuesta») y las añade a lo que aprende el bot."""
+        from urllib.request import urlopen
+        b, self.borrador = self.borrador, None
+        info = api(self.t, "getFile", {"file_id": b["foto"]})["result"]
+        carpeta = RAIZ / "datos" / "capturas_marcos"
+        carpeta.mkdir(parents=True, exist_ok=True)
+        destino = carpeta / f"{datetime.now(MADRID):%Y-%m-%d_%H%M%S}.jpg"
+        destino.write_bytes(urlopen(f"https://api.telegram.org/file/bot{self.t}/{info['file_path']}", timeout=60).read())
+        ok = guardar_archivos([destino], f"captura para aprender {destino.name}")
+        return self.enviar("🧠 Guardada para que el bot aprenda (no se publica). Esta noche la leo con las demás."
+                           if ok else "⚠️ No he podido guardarla. Mándamela otra vez.")
 
     # ---------------------------------------------------------------- boletos de bet365
     def preparar_boleto(self, file_id, msg_id):
@@ -719,6 +736,8 @@ class Asistente:
         botones = [[("✅ Publicar ya", "subir"), ("🗑️ Descartar", "descartar")]]
         if foto:   # 27/10: captura de un boleto de bet365 → se recorta el dinero y va a Telegram y Threads
             botones.insert(0, [("🎟️ Es un boleto de bet365 (recorto el dinero)", "boleto")])
+            # 30/10 (Marcos): sus apuestas (abiertas, ganadas, perdidas o con cash out) para que el bot aprenda
+            botones.insert(1, [("🧠 Solo para que aprenda (no se publica)", "aprender")])
         return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones, responder=m.get("message_id"))
 
     # ---------------------------------------------------------------- bucle
