@@ -539,7 +539,7 @@
   {
     "id": "2026-10-30-combi-partido-1575211",
     "fecha": "2026-10-30T18:40",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 SV ELVERSBERG vs FSV MAINZ 05 🇩🇪\n\n🎯 FSV MAINZ 05 HACE MÁS TIROS [x1.53]\n✅ FSV MAINZ 05 O EMPATE [x1.36]\n✅ AMBOS MARCAN [x1.44]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ MÁS DE 3,5 GOLES [x2.10]\n\n🔥 Resultado probable: 2-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 8,75\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 SV ELVERSBERG vs FSV MAINZ 05 🇩🇪\n\n🎯 FSV MAINZ 05 HACE MÁS TIROS [x1.53]\n✅ FSV MAINZ 05 O EMPATE [x1.30]\n✅ AMBOS MARCAN [x1.44]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ MÁS DE 3,5 GOLES [x2.20]\n\n🔥 Resultado probable: 2-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 8,76\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -553,11 +553,11 @@
     ],
     "cuotas": [
       1.53,
-      1.36,
+      1.3,
       1.44,
       1.8,
       1.91,
-      2.1
+      2.2
     ],
     "tarjeta": {
       "local": "SV Elversberg",
@@ -568,7 +568,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/164.png",
       "fecha": "2026-10-30T20:30",
       "liga": "Bundesliga"
-    }
+    },
+    "cuotas_revisadas": "2026-10-30T17:10"
   },
   {
     "id": "2026-10-30-combi-partido-1570442",
