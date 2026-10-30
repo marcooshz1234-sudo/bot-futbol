@@ -492,14 +492,14 @@
   },
   "2026-10-30": {
     "dia": "2026-10-30",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -531,13 +531,19 @@
         "titulo": "✅ COMBI LOCAS | LALIGA",
         "estado": "pendiente",
         "cuota": 6.63
+      },
+      {
+        "id": "2026-10-30-combi-partido-1563233",
+        "titulo": "✅ COMBI LOCAS | CHAMPIONSHIP",
+        "estado": "pendiente",
+        "cuota": 7.1
       }
     ],
     "picks": {
       "verde": 2,
       "rojo": 0,
-      "total": 35
+      "total": 40
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | LIGUE 1 · 7,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀 · 2,08 · pendiente\n⏳ 🔥 MI COMBILOCA PERSONAL x20,79 🔥 · 20,79 · pendiente\n⏳ ✅ COMBI LOCAS | BUNDESLIGA · 8,76 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 6,63 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | LIGUE 1 · 7,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀 · 2,08 · pendiente\n⏳ 🔥 MI COMBILOCA PERSONAL x20,79 🔥 · 20,79 · pendiente\n⏳ ✅ COMBI LOCAS | BUNDESLIGA · 8,76 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 6,63 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONSHIP · 7,10 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }
