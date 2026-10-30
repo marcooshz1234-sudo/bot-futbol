@@ -705,7 +705,7 @@
   {
     "id": "2026-10-31-combi-partido-1557450",
     "fecha": "2026-10-31T00:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA vs MANCHESTER UNITED 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ MANCHESTER UNITED MARCA [x1.33]\n✅ MANCHESTER UNITED HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ PEDRO NETO: 1+ TIROS A PUERTA [x1.73]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.67]\n✅ CHELSEA HACE MÁS TIROS A PUERTA [x1.57]\n\n🔥 Resultado probable: 1-1 | 1-2 | 0-1\n💥 Cuota total aprox.: 9,23\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 CHELSEA vs MANCHESTER UNITED 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ MANCHESTER UNITED MARCA [x1.36]\n✅ MANCHESTER UNITED HACE MÁS DE 3,5 CÓRNERS [x1.62]\n✅ PEDRO NETO: 1+ TIROS A PUERTA [x1.73]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.67]\n✅ CHELSEA HACE MÁS TIROS A PUERTA [x1.57]\n\n🔥 Resultado probable: 1-1 | 1-2 | 0-1\n💥 Cuota total aprox.: 9,44\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -719,7 +719,7 @@
     ],
     "cuotas": [
       1.28,
-      1.33,
+      1.36,
       1.62,
       1.73,
       1.67,
@@ -734,7 +734,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/33.png",
       "fecha": "2026-10-31T13:30",
       "liga": "Premier"
-    }
+    },
+    "cuotas_revisadas": "2026-10-30T23:06"
   },
   {
     "id": "2026-10-31-ganadores",
