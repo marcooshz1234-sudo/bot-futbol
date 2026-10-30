@@ -1,7 +1,7 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:00_

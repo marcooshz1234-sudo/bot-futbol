@@ -1,7 +1,7 @@
 # Bolton – Bristol City
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:00_

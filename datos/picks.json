@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30 14:03",
+ "generado": "2026-10-30 19:53",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -24,6 +24,8 @@
      "frecuencia": 0.833,
      "ventaja": 0.18,
      "detalle": "SV Elversberg 7/9 · FSV Mainz 05 8/9",
+     "arbitro": "Sascha Stegemann",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       8,
       7,
@@ -112,6 +114,8 @@
      "frecuencia": 0.833,
      "ventaja": 0.18,
      "detalle": "SV Elversberg 7/9 · FSV Mainz 05 8/9",
+     "arbitro": "Sascha Stegemann",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       8,
       7,
@@ -203,6 +207,8 @@
        "frecuencia": 0.833,
        "ventaja": 0.18,
        "detalle": "SV Elversberg 7/9 · FSV Mainz 05 8/9",
+       "arbitro": "Sascha Stegemann",
+       "arbitro_tarjetas": 2.0,
        "posiciones": [
         8,
         7,
@@ -5708,7 +5714,117 @@
      "cuota": 6.59
     }
    },
-   "combis_partido": []
+   "combis_partido": [
+    {
+     "picks": [
+      {
+       "partido_id": 1550185,
+       "fecha": "2026-11-02T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Radu Dragusin - 1",
+       "cuota": 1.53,
+       "frecuencia": 0.8,
+       "ventaja": 0.146,
+       "tipo": "jugador",
+       "jugador": "Radu Dragusin",
+       "equipo": "Fiorentina",
+       "jugador_id": 162498,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Radu Dragusin comete 1+ faltas",
+       "detalle": "Radu Dragusin 8/10",
+       "temporada": "8/10",
+       "posiciones": [
+        15,
+        18,
+        20
+       ],
+       "contexto": "peor_igualado",
+       "prob_aprendida": 0.519
+      },
+      {
+       "partido_id": 1550185,
+       "fecha": "2026-11-02T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Shots.1x2",
+       "opcion": "Away",
+       "tipo": "tiros",
+       "texto": "Fiorentina hace más tiros",
+       "cuota": 1.8,
+       "frecuencia": 0.75,
+       "ventaja": 0.194,
+       "detalle": "Sassuolo 7/10 · Fiorentina 8/10",
+       "posiciones": [
+        15,
+        18,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.516
+      },
+      {
+       "partido_id": 1550185,
+       "fecha": "2026-11-02T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Total ShotOnGoal",
+       "opcion": "Over 9.5",
+       "tipo": "tiros a puerta",
+       "texto": "Más de 9,5 tiros a puerta en Sassuolo–Fiorentina",
+       "cuota": 2.1,
+       "frecuencia": 0.7,
+       "ventaja": 0.224,
+       "detalle": "Sassuolo 8/10 · Fiorentina 6/10",
+       "posiciones": [
+        15,
+        18,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.378
+      },
+      {
+       "partido_id": 1550185,
+       "fecha": "2026-11-02T18:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Fiorentina",
+       "mercado": "Cards Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "tarjetas",
+       "texto": "Más de 3,5 tarjetas en Sassuolo–Fiorentina",
+       "cuota": 1.8,
+       "frecuencia": 0.722,
+       "ventaja": 0.167,
+       "detalle": "Sassuolo 7/9 · Fiorentina 6/9",
+       "valor_mercado": 0.029,
+       "posiciones": [
+        15,
+        18,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.283
+      }
+     ],
+     "cuota_sumada": 10.41,
+     "partido_id": 1550185,
+     "fecha": "2026-11-02T18:30",
+     "local": "Sassuolo",
+     "visitante": "Fiorentina",
+     "competicion": "Serie A"
+    }
+   ]
   },
   "2026-11-03": {
    "picks": [
@@ -6180,31 +6296,29 @@
   "2026-11-07": {
    "picks": [
     {
-     "partido_id": 1557463,
-     "fecha": "2026-11-07T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Leeds",
-     "visitante": "Tottenham",
+     "partido_id": 1552217,
+     "fecha": "2026-11-07T16:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Fortuna Sittard",
+     "visitante": "Telstar",
      "mercado": "Double Chance",
      "opcion": "Home/Draw",
      "tipo": "resultado",
-     "texto": "Leeds o empate",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Leeds 8/10 · Tottenham 7/10",
-     "valor_mercado": 0.0,
+     "texto": "Fortuna Sittard o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.9,
+     "ventaja": 0.119,
+     "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+     "valor_mercado": -0.015,
      "posiciones": [
-      7,
-      14,
-      20
+      6,
+      16,
+      18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.768
-    }
-   ],
-   "mejores_por_partido": [
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.892
+    },
     {
      "partido_id": 1557463,
      "fecha": "2026-11-07T13:30",
@@ -6228,11 +6342,474 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.768
+    },
+    {
+     "partido_id": 1552220,
+     "fecha": "2026-11-07T18:45",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "ADO Den Haag",
+     "visitante": "Sparta Rotterdam",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam",
+     "cuota": 1.28,
+     "frecuencia": 0.95,
+     "ventaja": 0.169,
+     "detalle": "ADO Den Haag 9/10 · Sparta Rotterdam 10/10",
+     "valor_mercado": 0.024,
+     "posiciones": [
+      17,
+      14,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.784
+    },
+    {
+     "partido_id": 1575214,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Werder Bremen",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Werder Bremen marca",
+     "cuota": 1.33,
+     "frecuencia": 0.842,
+     "ventaja": 0.09,
+     "detalle": "VfB Stuttgart (en contra) 7/10 · Werder Bremen 9/9",
+     "valor_mercado": 0.008,
+     "prob_xg": 0.812,
+     "xg_esperado": 3.54,
+     "posiciones": [
+      15,
+      6,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.77
+    },
+    {
+     "partido_id": 1575220,
+     "fecha": "2026-11-07T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Home Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.62,
+     "frecuencia": 0.889,
+     "ventaja": 0.272,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 8/9",
+     "temporada": "8/9",
+     "posiciones": [
+      13,
+      14,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.613
+    },
+    {
+     "partido_id": 1570446,
+     "fecha": "2026-11-07T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Espanyol",
+     "visitante": "Deportivo La Coruna",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Deportivo La Coruna o empate",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Espanyol 9/10 · Deportivo La Coruna 7/10",
+     "valor_mercado": -0.006,
+     "posiciones": [
+      18,
+      11,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.531
+    },
+    {
+     "partido_id": 1552217,
+     "fecha": "2026-11-07T16:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Fortuna Sittard",
+     "visitante": "Telstar",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Fortuna Sittard",
+     "cuota": 2.0,
+     "frecuencia": 0.65,
+     "ventaja": 0.15,
+     "detalle": "Fortuna Sittard 5/10 · Telstar 8/10",
+     "valor_mercado": -0.01,
+     "posiciones": [
+      6,
+      16,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.49
+    },
+    {
+     "partido_id": 1557465,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Nottingham Forest",
+     "visitante": "Manchester City",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Manchester City",
+     "cuota": 1.62,
+     "frecuencia": 0.632,
+     "ventaja": 0.014,
+     "detalle": "Nottingham Forest 5/9 · Manchester City 7/10",
+     "valor_mercado": -0.012,
+     "posiciones": [
+      18,
+      1,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.505
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1552217,
+     "fecha": "2026-11-07T16:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Fortuna Sittard",
+     "visitante": "Telstar",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Fortuna Sittard o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.9,
+     "ventaja": 0.119,
+     "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+     "valor_mercado": -0.015,
+     "posiciones": [
+      6,
+      16,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.892
+    },
+    {
+     "partido_id": 1557463,
+     "fecha": "2026-11-07T13:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Leeds",
+     "visitante": "Tottenham",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Leeds o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.75,
+     "ventaja": 0.056,
+     "detalle": "Leeds 8/10 · Tottenham 7/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      7,
+      14,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.768
+    },
+    {
+     "partido_id": 1552220,
+     "fecha": "2026-11-07T18:45",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "ADO Den Haag",
+     "visitante": "Sparta Rotterdam",
+     "mercado": "Goals Over/Under First Half",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam",
+     "cuota": 1.28,
+     "frecuencia": 0.95,
+     "ventaja": 0.169,
+     "detalle": "ADO Den Haag 9/10 · Sparta Rotterdam 10/10",
+     "valor_mercado": 0.024,
+     "posiciones": [
+      17,
+      14,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.784
+    },
+    {
+     "partido_id": 1575214,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Werder Bremen",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Werder Bremen marca",
+     "cuota": 1.33,
+     "frecuencia": 0.842,
+     "ventaja": 0.09,
+     "detalle": "VfB Stuttgart (en contra) 7/10 · Werder Bremen 9/9",
+     "valor_mercado": 0.008,
+     "prob_xg": 0.812,
+     "xg_esperado": 3.54,
+     "posiciones": [
+      15,
+      6,
+      18
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.77
+    },
+    {
+     "partido_id": 1575220,
+     "fecha": "2026-11-07T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Home Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.62,
+     "frecuencia": 0.889,
+     "ventaja": 0.272,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 8/9",
+     "temporada": "8/9",
+     "posiciones": [
+      13,
+      14,
+      18
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.613
+    },
+    {
+     "partido_id": 1570446,
+     "fecha": "2026-11-07T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Espanyol",
+     "visitante": "Deportivo La Coruna",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Deportivo La Coruna o empate",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Espanyol 9/10 · Deportivo La Coruna 7/10",
+     "valor_mercado": -0.006,
+     "posiciones": [
+      18,
+      11,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.531
+    },
+    {
+     "partido_id": 1557465,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Nottingham Forest",
+     "visitante": "Manchester City",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Manchester City",
+     "cuota": 1.62,
+     "frecuencia": 0.632,
+     "ventaja": 0.014,
+     "detalle": "Nottingham Forest 5/9 · Manchester City 7/10",
+     "valor_mercado": -0.012,
+     "posiciones": [
+      18,
+      1,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.505
     }
    ],
    "combis": {
-    "segura": null,
-    "cuota_3": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1552217,
+       "fecha": "2026-11-07T16:30",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Fortuna Sittard",
+       "visitante": "Telstar",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Fortuna Sittard o empate",
+       "cuota": 1.28,
+       "frecuencia": 0.9,
+       "ventaja": 0.119,
+       "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+       "valor_mercado": -0.015,
+       "posiciones": [
+        6,
+        16,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.892
+      },
+      {
+       "partido_id": 1552220,
+       "fecha": "2026-11-07T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "ADO Den Haag",
+       "visitante": "Sparta Rotterdam",
+       "mercado": "Goals Over/Under First Half",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam",
+       "cuota": 1.28,
+       "frecuencia": 0.95,
+       "ventaja": 0.169,
+       "detalle": "ADO Den Haag 9/10 · Sparta Rotterdam 10/10",
+       "valor_mercado": 0.024,
+       "posiciones": [
+        17,
+        14,
+        18
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.784
+      }
+     ],
+     "cuota": 1.64
+    },
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1557463,
+       "fecha": "2026-11-07T13:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Leeds",
+       "visitante": "Tottenham",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Leeds o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.75,
+       "ventaja": 0.056,
+       "detalle": "Leeds 8/10 · Tottenham 7/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        7,
+        14,
+        20
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.768
+      },
+      {
+       "partido_id": 1575214,
+       "fecha": "2026-11-07T18:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "VfB Stuttgart",
+       "visitante": "Werder Bremen",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Werder Bremen marca",
+       "cuota": 1.33,
+       "frecuencia": 0.842,
+       "ventaja": 0.09,
+       "detalle": "VfB Stuttgart (en contra) 7/10 · Werder Bremen 9/9",
+       "valor_mercado": 0.008,
+       "prob_xg": 0.812,
+       "xg_esperado": 3.54,
+       "posiciones": [
+        15,
+        6,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.77
+      },
+      {
+       "partido_id": 1575220,
+       "fecha": "2026-11-07T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SC Paderborn 07",
+       "visitante": "Eintracht Frankfurt",
+       "mercado": "Home Player Shots",
+       "opcion": "Santiago Castaneda - 1",
+       "cuota": 1.62,
+       "frecuencia": 0.889,
+       "ventaja": 0.272,
+       "tipo": "jugador",
+       "jugador": "Santiago Castaneda",
+       "equipo": "SC Paderborn 07",
+       "jugador_id": 363156,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Santiago Castaneda: 1+ tiros",
+       "detalle": "Santiago Castaneda 8/9",
+       "temporada": "8/9",
+       "posiciones": [
+        13,
+        14,
+        18
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.613
+      }
+     ],
+     "cuota": 3.1
+    },
     "loca": null,
     "doble": null
    },

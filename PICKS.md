@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-10-30 14:03 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-10-30 19:53 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 30/10
 
@@ -133,6 +133,12 @@ _Generado el 2026-10-30 14:03 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Lorient o empate (1,36) · Lorient 6/8 · Stade Brestois 29 6/8
 - Duje Caleta-Car comete 1+ faltas (1,33) · Duje Caleta-Car 4/5
 
+**🎯 Combi del partido Sassuolo–Fiorentina · cuota sumada 10,41**
+- Radu Dragusin comete 1+ faltas (1,53) · Radu Dragusin 8/10
+- Fiorentina hace más tiros (1,80) · Sassuolo 7/10 · Fiorentina 8/10
+- Más de 9,5 tiros a puerta en Sassuolo–Fiorentina (2,10) · Sassuolo 8/10 · Fiorentina 6/10
+- Más de 3,5 tarjetas en Sassuolo–Fiorentina (1,80) · Sassuolo 7/9 · Fiorentina 6/9
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 21:00 | Thierno Barry: 2+ tiros | jugador | 1.36 | 90% | Thierno Barry 9/10 |
@@ -170,6 +176,22 @@ _Generado el 2026-10-30 14:03 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Sábado 07/11
 
+**🔒 Combi segura · cuota 1,64**
+- Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 10/10
+- Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam (1,28) · ADO Den Haag 9/10 · Sparta Rotterdam 10/10
+
+**💥 Combi cuota 3-4 · cuota 3,10**
+- Leeds o empate (1,44) · Leeds 8/10 · Tottenham 7/10
+- Werder Bremen marca (1,33) · VfB Stuttgart (en contra) 7/10 · Werder Bremen 9/9
+- Santiago Castaneda: 1+ tiros (1,62) · Santiago Castaneda 8/9
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 16:30 | Fortuna Sittard o empate | resultado | 1.28 | 90% | Fortuna Sittard 8/10 · Telstar 10/10 |
 | 13:30 | Leeds o empate | resultado | 1.44 | 75% | Leeds 8/10 · Tottenham 7/10 |
+| 18:45 | Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam | goles | 1.28 | 95% | ADO Den Haag 9/10 · Sparta Rotterdam 10/10 |
+| 18:30 | Werder Bremen marca | goles | 1.33 | 84% | VfB Stuttgart (en contra) 7/10 · Werder Bremen 9/9 |
+| 15:30 | Santiago Castaneda: 1+ tiros | jugador | 1.62 | 89% | Santiago Castaneda 8/9 |
+| 16:15 | Deportivo La Coruna o empate | resultado | 1.67 | 80% | Espanyol 9/10 · Deportivo La Coruna 7/10 |
+| 16:30 | Gana el Fortuna Sittard | resultado | 2.00 | 65% | Fortuna Sittard 5/10 · Telstar 8/10 |
+| 18:30 | Gana el Manchester City | resultado | 1.62 | 63% | Nottingham Forest 5/9 · Manchester City 7/10 |

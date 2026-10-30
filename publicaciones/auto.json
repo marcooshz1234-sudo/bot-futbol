@@ -643,7 +643,7 @@
   {
     "id": "2026-10-30-combi-partido-1552802",
     "fecha": "2026-10-30T20:05",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.25]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LILLE O EMPATE [x1.50]\n✅ LENS HACE MÁS TIROS [x2.10]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,55\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.28]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LILLE O EMPATE [x1.50]\n✅ LENS HACE MÁS TIROS [x2.10]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,78\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -656,7 +656,7 @@
       "1552802|Away Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
-      1.25,
+      1.28,
       1.44,
       1.36,
       1.5,
@@ -672,8 +672,7 @@
       "logo_v": "https://media.api-sports.io/football/teams/116.png",
       "fecha": "2026-10-30T21:05",
       "liga": "Ligue 1"
-    },
-    "cuotas_revisadas": "2026-10-30T18:35"
+    }
   },
   {
     "id": "2026-10-31-picks-manana",
@@ -1638,38 +1637,6 @@
     }
   },
   {
-    "id": "2026-11-02-combi-partido-1550185",
-    "fecha": "2026-11-02T17:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs FIORENTINA 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ SASSUOLO O EMPATE [x1.57]\n✅ AMBOS MARCAN [x1.53]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n✅ SASSUOLO HACE MÁS TIROS A PUERTA [x2.20]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,09\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550185|Goals Over/Under First Half|Over 0.5",
-      "1550185|Double Chance|Home/Draw",
-      "1550185|Both Teams Score|Yes",
-      "1550185|Corners Over Under|Over 8.5",
-      "1550185|ShotOnTarget 1x2|Home"
-    ],
-    "cuotas": [
-      1.28,
-      1.57,
-      1.53,
-      1.73,
-      2.2
-    ],
-    "tarjeta": {
-      "local": "Sassuolo",
-      "visitante": "Fiorentina",
-      "id_l": 488,
-      "id_v": 502,
-      "logo_l": "https://media.api-sports.io/football/teams/488.png",
-      "logo_v": "https://media.api-sports.io/football/teams/502.png",
-      "fecha": "2026-11-02T18:30",
-      "liga": "Serie A"
-    }
-  },
-  {
     "id": "2026-11-02-combi-partido-1552803",
     "fecha": "2026-11-02T19:25",
     "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LORIENT vs STADE BRESTOIS 29 🇫🇷\n\n🎯 LORIENT O EMPATE [x1.36]\n✅ PATHE MBOUP: 2+ TIROS [x1.50]\n✅ LORIENT MARCA [x1.28]\n✅ GOL EN LA 2ª PARTE [x1.25]\n✅ STADE BRESTOIS 29 HACE MÁS DE 3,5 CÓRNERS [x1.67]\n✅ STADE BRESTOIS 29 HACE MÁS TIROS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 7,16\n🟢 VERDE A VERDE 🟢",
@@ -1941,6 +1908,90 @@
       "logo_v": "https://media.api-sports.io/football/teams/549.png",
       "fecha": "2026-11-05T21:00",
       "liga": "Europa League"
+    }
+  },
+  {
+    "id": "2026-11-07-picks-manana",
+    "fecha": "2026-11-06T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n✅ 🇳🇱 Fortuna Sittard o empate\n✅ 🇳🇱 Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam\n✅ 🇩🇪 Santiago Castaneda: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds o empate\n✅ 🇩🇪 Werder Bremen marca\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552217|Double Chance|Home/Draw",
+      "1552220|Goals Over/Under First Half|Over 0.5",
+      "1575220|Home Player Shots|Santiago Castaneda - 1",
+      "1557463|Double Chance|Home/Draw",
+      "1575214|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.28,
+      1.62,
+      1.44,
+      1.33
+    ]
+  },
+  {
+    "id": "2026-11-07-ganadores",
+    "fecha": "2026-11-07T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton — Gana\n✅3. 🇩🇪 Borussia Dortmund — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City — Gana\n✅5. 🇪🇸 Burgos — Gana o empata\n✅6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal — Gana o empata\n✅7. 🇮🇹 Torino — Gana o empata\n✅8. 🇳🇱 Fortuna Sittard — Gana o empata\n✅9. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bristol City — Gana o empata\n✅10. 🇩🇪 Bayern München — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-07-combi-tres",
+    "fecha": "2026-11-07T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x2,91! 🍀\n\n✅ 🇳🇱 Fortuna Sittard o empate\n✅ 🇩🇪 Michael Olise: 3+ tiros\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇪🇸 Gol en la 1ª parte del Espanyol–Deportivo La Coruna\n\n🎯 CUOTA 2,91 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552217|Double Chance|Home/Draw",
+      "1575217|Away Player Shots|Michael Olise - 3",
+      "1575212|Match Winner|Home",
+      "1570446|Goals Over/Under First Half|Over 0.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.28,
+      1.27,
+      1.4
+    ]
+  },
+  {
+    "id": "2026-11-07-combi-partido-1552811",
+    "fecha": "2026-11-07T16:15",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 AUXERRE vs PARIS FC 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ AUXERRE MARCA [x1.36]\n✅ CAMERON ARCHER: 1+ TIROS A PUERTA [x1.53]\n✅ DANNY NAMASO: 1+ TIROS A PUERTA [x1.67]\n✅ GANA EL PARIS FC [x1.90]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 8,42\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552811|Goals Over/Under First Half|Over 0.5",
+      "1552811|Total - Home|Over 0.5",
+      "1552811|Home Player Shots On Target Total|Cameron Archer - 1",
+      "1552811|Home Player Shots On Target Total|Danny Namaso - 1",
+      "1552811|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.33,
+      1.36,
+      1.53,
+      1.67,
+      1.9
+    ],
+    "tarjeta": {
+      "local": "Auxerre",
+      "visitante": "Paris FC",
+      "id_l": 108,
+      "id_v": 114,
+      "logo_l": "https://media.api-sports.io/football/teams/108.png",
+      "logo_v": "https://media.api-sports.io/football/teams/114.png",
+      "fecha": "2026-11-07T17:15",
+      "liga": "Ligue 1"
     }
   }
 ]

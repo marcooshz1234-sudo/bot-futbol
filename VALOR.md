@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 30/10/2026 14:03 (hora España)._
+_Actualizado el 30/10/2026 19:53 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -59,10 +59,11 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
+| 18:30 | [Sassuolo – Fiorentina](informes/2026-11-02_sassuolo-vs-fiorentina.md) | 1X2: 1 | 2.88 | 42% | 33% | 37% | **+7%** |
 | 20:45 | [Lorient – Stade Brestois 29](informes/2026-11-02_lorient-vs-stade-brestois-29.md) | Goles del local: Menos de 0.5 | 3.50 | 38% | 27% | 32% | **+13%** |
 | 20:45 | [Lorient – Stade Brestois 29](informes/2026-11-02_lorient-vs-stade-brestois-29.md) | Goles más/menos: Menos de 1.5 | 3.40 | 38% | 28% | 33% | **+12%** |
-| 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles del local: Menos de 1.5 | 2.38 | 51% | 39% | 45% | **+7%** |
-| 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles más/menos: Menos de 2.5 | 2.10 | 56% | 45% | 51% | **+6%** |
+| 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles más/menos: Menos de 2.5 | 2.30 | 56% | 41% | 49% | **+12%** |
+| 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles del local: Menos de 1.5 | 2.50 | 51% | 38% | 44% | **+10%** |
 | 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | 1X2: 2 | 3.00 | 43% | 32% | 38% | **+13%** |
 
 ## 03/11
@@ -110,5 +111,16 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 |---|---|---|---|---|---|---|---|
 | 13:30 | [Leeds – Tottenham](informes/2026-11-07_leeds-vs-tottenham.md) | Goles del visitante: Menos de 0.5 | 3.50 | 37% | 27% | 32% | **+12%** |
 | 13:30 | [Leeds – Tottenham](informes/2026-11-07_leeds-vs-tottenham.md) | 1X2: 1 | 2.60 | 49% | 36% | 43% | **+11%** |
+| 15:30 | [Borussia Dortmund – SV Elversberg](informes/2026-11-07_borussia-dortmund-vs-sv-elversberg.md) | Goles más/menos: Menos de 2.5 | 3.40 | 43% | 28% | 36% | **+22%** |
+| 15:30 | [Borussia Dortmund – SV Elversberg](informes/2026-11-07_borussia-dortmund-vs-sv-elversberg.md) | Goles del local: Menos de 1.5 | 3.75 | 38% | 25% | 31% | **+17%** |
+| 15:30 | [RB Leipzig – FC Augsburg](informes/2026-11-07_rb-leipzig-vs-fc-augsburg.md) | Goles más/menos: Más de 4.5 | 2.62 | 52% | 36% | 44% | **+15%** |
+| 15:30 | [RB Leipzig – FC Augsburg](informes/2026-11-07_rb-leipzig-vs-fc-augsburg.md) | Goles del visitante: Más de 1.5 | 2.38 | 53% | 39% | 46% | **+9%** |
+| 16:00 | [Arsenal – Hull City](informes/2026-11-07_arsenal-vs-hull-city.md) | Goles del local: Menos de 1.5 | 3.50 | 47% | 27% | 37% | **+29%** |
+| 16:00 | [Arsenal – Hull City](informes/2026-11-07_arsenal-vs-hull-city.md) | Goles más/menos: Menos de 2.5 | 2.62 | 60% | 36% | 48% | **+26%** |
+| 16:15 | [Espanyol – Deportivo La Coruna](informes/2026-11-07_espanyol-vs-deportivo-la-coruna.md) | 1X2: 2 | 3.30 | 40% | 28% | 34% | **+14%** |
+| 16:15 | [Espanyol – Deportivo La Coruna](informes/2026-11-07_espanyol-vs-deportivo-la-coruna.md) | Goles más/menos: Menos de 1.5 | 3.50 | 35% | 27% | 31% | **+8%** |
+| 18:30 | [Osasuna – Athletic Club](informes/2026-11-07_osasuna-vs-athletic-club.md) | Goles más/menos: Más de 2.5 | 2.10 | 57% | 45% | 51% | **+7%** |
+| 18:30 | [VfB Stuttgart – Werder Bremen](informes/2026-11-07_vfb-stuttgart-vs-werder-bremen.md) | Doble oportunidad: X2 | 2.62 | 58% | 37% | 48% | **+24%** |
+| 18:30 | [VfB Stuttgart – Werder Bremen](informes/2026-11-07_vfb-stuttgart-vs-werder-bremen.md) | Goles del local: Menos de 1.5 | 3.25 | 42% | 29% | 36% | **+16%** |
 
 Ver el historial de aciertos en [RESULTADOS.md](RESULTADOS.md).
