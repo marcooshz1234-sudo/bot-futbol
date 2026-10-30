@@ -574,7 +574,7 @@
   {
     "id": "2026-10-30-combi-partido-1570442",
     "fecha": "2026-10-30T19:10",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 VILLARREAL vs ESPANYOL 🇪🇸\n\n🎯 GANA EL VILLARREAL [x1.40]\n✅ ESPANYOL MARCA [x1.53]\n✅ MÁS DE 27,5 TIROS [x1.83]\n✅ VILLARREAL HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ AMBOS MARCAN [x1.67]\n✅ MÁS DE 9,5 CÓRNERS [x1.88]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,16\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 VILLARREAL vs ESPANYOL 🇪🇸\n\n🎯 GANA EL VILLARREAL [x1.40]\n✅ ESPANYOL MARCA [x1.50]\n✅ MÁS DE 27,5 TIROS [x1.83]\n✅ VILLARREAL HACE MÁS DE 5,5 CÓRNERS [x1.67]\n✅ AMBOS MARCAN [x1.62]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 6,63\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -588,11 +588,11 @@
     ],
     "cuotas": [
       1.4,
-      1.53,
+      1.5,
       1.83,
       1.67,
-      1.67,
-      1.88
+      1.62,
+      1.83
     ],
     "tarjeta": {
       "local": "Villarreal",
@@ -603,7 +603,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/540.png",
       "fecha": "2026-10-30T21:00",
       "liga": "LaLiga"
-    }
+    },
+    "cuotas_revisadas": "2026-10-30T17:43"
   },
   {
     "id": "2026-10-30-combi-partido-1563233",
