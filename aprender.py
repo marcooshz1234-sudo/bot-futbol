@@ -286,6 +286,38 @@ def clave_concreta(m, o, local, visitante):
     return f"equipo|{eq}|{mn}|{on}"
 
 
+MARCOS = DATOS / "apuestas_marcos.json"
+FAMILIA_PICK = {"goles": "goles", "resultado": "resultado", "corners": "corners", "tarjetas": "tarjetas"}
+K_MARCOS, TOPE_MARCOS, BASE_MARCOS = 20, 0.06, 0.70
+
+
+def familia_de(p):
+    """Familia de un pick del bot para cruzarlo con las apuestas de Marcos."""
+    if p.get("tipo") == "jugador" or p.get("jugador"):
+        return f"jugador:{p.get('campo')}"
+    return FAMILIA_PICK.get(p.get("tipo"))
+
+
+def aprender_marcos():
+    """30/10 (Marcos): sus propias apuestas (nota «Compartir» de bet365). Cuánto acierta cada tipo de pata
+    (paradas, córners, tiros a puerta, ambos marcan…) frente a lo normal de una pata (~70 %), y por jugador.
+    Con pocas patas pesa poco."""
+    d = leer(MARCOS, {}) or {}
+    fam, jug = defaultdict(lambda: [0, 0]), defaultdict(lambda: [0, 0])
+    for x in d.get("patas", []):
+        f = f"jugador:{x['campo']}" if x.get("campo") else x.get("familia")
+        fam[f][0] += 1
+        fam[f][1] += int(bool(x["acierto"]))
+        if x.get("jugador") and x.get("campo"):
+            k = f"jugador|{x['jugador']}|{x['campo']}"
+            jug[k][0] += 1
+            jug[k][1] += int(bool(x["acierto"]))
+    def tabla(c, k):
+        return {f: {"n": n, "aciertos": a, "ajuste": round(max(-TOPE_MARCOS, min(TOPE_MARCOS, (a - BASE_MARCOS * n) / (n + k))), 4)}
+                for f, (n, a) in c.items()}
+    return {"familias": tabla(fam, K_MARCOS), "jugadores": tabla(jug, 6)}
+
+
 def aprender_concretos(publicados_vistos):
     """Por jugador y por equipo: cuánto acierta de verdad frente a lo que daba la cuota (picks del bot + publicados)."""
     hoy = datetime.now(MADRID).replace(tzinfo=None)
@@ -324,6 +356,11 @@ def prob_aprendida(p, ap):
         prob += ((ap.get("publicados") or {}).get(clave_pub(p["mercado"], p.get("opcion"))) or {}).get("ajuste", 0)
         kc = clave_concreta(p["mercado"], p.get("opcion"), p.get("local"), p.get("visitante"))
         prob += ((ap.get("concretos") or {}).get(kc) or {}).get("ajuste", 0)
+        # 30/10: lo que acierta Marcos con sus apuestas (por tipo de pata y por jugador)
+        mar = ap.get("marcos") or {}
+        prob += ((mar.get("familias") or {}).get(familia_de(p)) or {}).get("ajuste", 0)
+        if kc and kc.startswith("jugador|"):
+            prob += ((mar.get("jugadores") or {}).get(kc) or {}).get("ajuste", 0)
     return max(0.01, min(0.99, prob))
 
 
@@ -482,6 +519,10 @@ def main():
             ap["publicados"] = aprender_publicados()
         except Exception as e:
             print("publicados:", str(e)[:150])
+        try:
+            ap["marcos"] = aprender_marcos()
+        except Exception as e:
+            print("apuestas de Marcos:", str(e)[:150])
         try:
             ap["concretos"] = aprender_concretos(_VISTOS)
         except Exception as e:
