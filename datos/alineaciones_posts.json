@@ -288,10 +288,145 @@
    }
   },
   "1552802": {
-   "hora": "2026-10-30T20:29:05.779979+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-30T20:40:51.511550+01:00",
+   "xi": [
+    "B. Özer",
+    "N. Ngoy",
+    "M. Goffi",
+    "Alexsandro Ribeiro",
+    "R. Perraud",
+    "N. Mukau",
+    "N. Bentaleb",
+    "B. André",
+    "E. Mbappé",
+    "H. Haraldsson",
+    "S. Diaoune",
+    "R. Risser",
+    "R. Aguilar",
+    "S. Baidoo",
+    "J. Todibo",
+    "Saud Abdulhamid",
+    "A. Haidara",
+    "M. Cuisance",
+    "M. Udol",
+    "F. Thauvin",
+    "F. Sotoca",
+    "T. Hazard"
+   ],
+   "banquillo": [
+    "O. Giroud",
+    "O. Gill",
+    "I. Cossier",
+    "M. Kjærgaard",
+    "G. Perrin",
+    "D. Bakwa",
+    "O. Sahraoui",
+    "C. Verdonk",
+    "B. Önal",
+    "K. Antonio",
+    "A. Bulatović",
+    "M. Gorgelin",
+    "J. Gradit",
+    "F. Ivanović",
+    "J. Kadile",
+    "M. Soares",
+    "M. Skóraś",
+    "Y. Titraoui"
+   ],
+   "equipos": {
+    "79": [
+     {
+      "n": "B. Özer",
+      "pos": "G"
+     },
+     {
+      "n": "N. Ngoy",
+      "pos": "D"
+     },
+     {
+      "n": "M. Goffi",
+      "pos": "D"
+     },
+     {
+      "n": "Alexsandro Ribeiro",
+      "pos": "D"
+     },
+     {
+      "n": "R. Perraud",
+      "pos": "D"
+     },
+     {
+      "n": "N. Mukau",
+      "pos": "M"
+     },
+     {
+      "n": "N. Bentaleb",
+      "pos": "M"
+     },
+     {
+      "n": "B. André",
+      "pos": "M"
+     },
+     {
+      "n": "E. Mbappé",
+      "pos": "F"
+     },
+     {
+      "n": "H. Haraldsson",
+      "pos": "F"
+     },
+     {
+      "n": "S. Diaoune",
+      "pos": "F"
+     }
+    ],
+    "116": [
+     {
+      "n": "R. Risser",
+      "pos": "G"
+     },
+     {
+      "n": "R. Aguilar",
+      "pos": "D"
+     },
+     {
+      "n": "S. Baidoo",
+      "pos": "D"
+     },
+     {
+      "n": "J. Todibo",
+      "pos": "D"
+     },
+     {
+      "n": "Saud Abdulhamid",
+      "pos": "M"
+     },
+     {
+      "n": "A. Haidara",
+      "pos": "M"
+     },
+     {
+      "n": "M. Cuisance",
+      "pos": "M"
+     },
+     {
+      "n": "M. Udol",
+      "pos": "M"
+     },
+     {
+      "n": "F. Thauvin",
+      "pos": "M"
+     },
+     {
+      "n": "F. Sotoca",
+      "pos": "M"
+     },
+     {
+      "n": "T. Hazard",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
