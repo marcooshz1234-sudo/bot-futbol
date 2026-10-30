@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 21:22",
+ "actualizado": "2026-10-30 21:31",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -55,9 +55,9 @@
  "total_hoy": 109,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "21:24",
+  "hora": "23:00",
   "dia": "2026-10-30",
-  "titulo": "Por un córner otra vez"
+  "titulo": "7 picks para mañana"
  },
  "ayer": {
   "aciertos": 6,
@@ -117,6 +117,11 @@
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 7,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 43,
    "likes_media": 0.0,
@@ -124,11 +129,6 @@
   },
   "Escalera (reel)": {
    "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
