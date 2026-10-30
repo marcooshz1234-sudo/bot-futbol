@@ -643,7 +643,7 @@
   {
     "id": "2026-10-30-combi-partido-1552802",
     "fecha": "2026-10-30T20:05",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.28]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LILLE O EMPATE [x1.50]\n✅ LENS HACE MÁS TIROS [x2.10]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,78\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LILLE vs LENS 🇫🇷\n\n🎯 LENS MARCA [x1.25]\n✅ FLORIAN THAUVIN: 2+ TIROS [x1.44]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ LILLE O EMPATE [x1.50]\n✅ LENS HACE MÁS TIROS [x2.10]\n✅ LENS HACE MÁS DE 4,5 CÓRNERS [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,55\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -656,7 +656,7 @@
       "1552802|Away Corners Over/Under|Over 4.5"
     ],
     "cuotas": [
-      1.28,
+      1.25,
       1.44,
       1.36,
       1.5,
@@ -672,7 +672,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/116.png",
       "fecha": "2026-10-30T21:05",
       "liga": "Ligue 1"
-    }
+    },
+    "cuotas_revisadas": "2026-10-30T19:55"
   },
   {
     "id": "2026-10-31-picks-manana",
