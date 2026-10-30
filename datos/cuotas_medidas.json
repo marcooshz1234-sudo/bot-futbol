@@ -462,5 +462,57 @@
     0.95
    ]
   ]
+ },
+ {
+  "id": "2026-10-30-combi-partido-1552806",
+  "fecha": "2026-10-30T00:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552806|Goals Over/Under First Half|Over 0.5",
+   "1552806|Double Chance|Home/Draw",
+   "1552806|Both Teams Score|Yes",
+   "1552806|Home Corners Over/Under|Over 4.5",
+   "1552806|ShotOnTarget 1x2|Away"
+  ],
+  "cuotas": [
+   1.25,
+   1.53,
+   1.5,
+   1.67,
+   2.05
+  ],
+  "real": 14.0,
+  "multiplicando": 9.821,
+  "aj": 0.8121518496454866,
+  "parejas": [
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "goles+tiros/partido",
+    0.99
+   ],
+   [
+    "corners+resultado/mismo",
+    0.97
+   ],
+   [
+    "resultado+tiros/contrario",
+    1.0
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "goles+tiros/partido",
+    0.99
+   ],
+   [
+    "corners+tiros/contrario",
+    1.0
+   ]
+  ]
  }
 ]
