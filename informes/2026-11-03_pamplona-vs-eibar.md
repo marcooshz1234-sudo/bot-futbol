@@ -1,10 +1,10 @@
 # Pamplona – Eibar
 **Copa del Rey** · Round of 128 · 03/11/2026 19:00 (hora España) · Campo de Futbol Beitikuntzea
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 29/10 08:01_
+_Actualizadas: 30/10 14:01_
 
 - **1X2:** 1 **11.00**  ·  X **6.25**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.33**  ·  12 **1.10**  ·  X2 **1.05**

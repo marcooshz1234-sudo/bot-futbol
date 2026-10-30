@@ -1,19 +1,19 @@
 # Burgos – Castellón
 **Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España) · Municipal El Plantio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:04_
+_Actualizadas: 30/10 14:01_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.85** · menos **1.95**
-    - 3,5: más **3.00** · menos **1.36**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
@@ -203,10 +203,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 49% | 56% | 52% | 1.67 | -12% |
 | Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
 | Goles más/menos: Más de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
-| Goles más/menos: Más de 3.5 | 26% | 31% | 29% | 3.00 | -14% |
+| Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -10% |
 | Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
 | Goles más/menos: Menos de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
-| Goles más/menos: Menos de 3.5 | 74% | 69% | 71% | 1.36 | -3% |
+| Goles más/menos: Menos de 3.5 | 74% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |

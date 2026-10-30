@@ -1,10 +1,10 @@
 # Wolves – Cardiff
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 14:00_
 
 - **1X2:** 1 **1.67**  ·  X **3.90**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.15**
@@ -32,7 +32,7 @@ _Actualizadas: 30/10 02:03_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
+    - 10,5: más **1.92** · menos **1.88**
 - **Tarjetas más/menos:**
     - 4,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.60**  ·  2 **4.33**
@@ -52,7 +52,7 @@ _Actualizadas: 30/10 02:03_
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.38**  ·  Menos de 5 **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.02**  ·  Menos de 5 **1.78**
 - **Home Team Total Cards:**
     - 1,5: más **1.50** · menos **2.50**
 - **Away Team Total Cards:**
@@ -71,7 +71,7 @@ _Actualizadas: 30/10 02:03_
 - **Away Player Shots:** Rubin Colwill - 1 **1.30**  ·  Yousef Salech - 1 **1.12**  ·  Callum Robinson - 1 **1.12**  ·  Isaak Davies - 1 **1.17**  ·  Chris Willock - 1 **1.53**  ·  Jack Moylan - 1 **1.06**  ·  Cian Ashford - 1 **1.25**  ·  Alex Robertson - 1 **1.73**  ·  David Turnbull - 1 **1.30**  ·  Joel Colwill - 1 **1.25**  ·  Ollie Tanner - 1 **1.14**  ·  Rob Tankiewicz - 1 **1.44**  ·  Perry Ng - 1 **1.67**  ·  Calum Scanlon - 1 **2.50**  ·  Dylan Lawlor - 1 **2.50**  ·  Gabriel Osho - 1 **3.00**  ·  Joel Bagan - 1 **2.50**  ·  Ronan Kpakio - 1 **1.73**  ·  Rubin Colwill - 2 **2.25**  ·  Yousef Salech - 2 **1.62**  ·  Callum Robinson - 2 **1.57**  ·  Isaak Davies - 2 **1.73**  ·  Chris Willock - 2 **3.40**  ·  Jack Moylan - 2 **1.30**  ·  Cian Ashford - 2 **2.00**  ·  Alex Robertson - 2 **4.00**  ·  David Turnbull - 2 **2.25**  ·  Joel Colwill - 2 **2.00**  ·  Ollie Tanner - 2 **1.67**  ·  Rob Tankiewicz - 2 **3.00**  ·  Perry Ng - 2 **3.75**  ·  Calum Scanlon - 2 **8.00**  ·  Dylan Lawlor - 2 **8.00**  ·  Gabriel Osho - 2 **11.00**  ·  Joel Bagan - 2 **8.00**  ·  Ronan Kpakio - 2 **4.00**  ·  Rubin Colwill - 3 **5.00**  ·  Yousef Salech - 3 **2.62**  ·  Callum Robinson - 3 **2.62**  ·  Isaak Davies - 3 **3.25**  ·  Chris Willock - 3 **9.00**  ·  Jack Moylan - 3 **1.83**  ·  Cian Ashford - 3 **4.00**  ·  Alex Robertson - 3 **11.00**  ·  David Turnbull - 3 **5.00**  ·  Joel Colwill - 3 **4.00**  ·  Ollie Tanner - 3 **3.00**  ·  Rob Tankiewicz - 3 **7.00**  ·  Perry Ng - 3 **11.00**  ·  Calum Scanlon - 3 **21.00**  ·  Dylan Lawlor - 3 **21.00**  ·  Gabriel Osho - 3 **21.00**  ·  Joel Bagan - 3 **21.00**  ·  Ronan Kpakio - 3 **11.00**  ·  Rubin Colwill - 4 **11.00**  ·  Yousef Salech - 4 **5.50**  ·  Callum Robinson - 4 **5.00**  ·  Isaak Davies - 4 **6.50**  ·  Chris Willock - 4 **21.00**  ·  Jack Moylan - 4 **3.00**  ·  Cian Ashford - 4 **9.00**  ·  Alex Robertson - 4 **21.00**  ·  David Turnbull - 4 **11.00**  ·  Joel Colwill - 4 **9.00**  ·  Ollie Tanner - 4 **6.00**  ·  Rob Tankiewicz - 4 **19.00**  ·  Perry Ng - 4 **21.00**  ·  Rubin Colwill - 5 **21.00**  ·  Yousef Salech - 5 **11.00**  ·  Callum Robinson - 5 **11.00**  ·  Isaak Davies - 5 **15.00**  ·  Chris Willock - 5 **13.00**  ·  Jack Moylan - 5 **5.50**  ·  Cian Ashford - 5 **21.00**  ·  David Turnbull - 5 **21.00**  ·  Joel Colwill - 5 **21.00**  ·  Ollie Tanner - 5 **13.00**  ·  Rubin Colwill - 6 **21.00**  ·  Yousef Salech - 6 **21.00**  ·  Callum Robinson - 6 **21.00**  ·  Isaak Davies - 6 **21.00**  ·  Chris Willock - 6 **21.00**  ·  Jack Moylan - 6 **11.00**  ·  Cian Ashford - 6 **21.00**  ·  Yousef Salech - 7 **19.00**  ·  Callum Robinson - 7 **21.00**  ·  Ollie Tanner - 6 **21.00**  ·  Jack Moylan - 7 **21.00**  ·  Krystian Bielik - 1 **1.83**  ·  Krystian Bielik - 2 **5.00**  ·  Krystian Bielik - 3 **15.00**  ·  Noah Williams - 1 **2.62**  ·  Noah Williams - 2 **10.00**  ·  Noah Williams - 3 **21.00**  ·  Charlie Holt - 1 **1.33**  ·  Charlie Holt - 2 **2.38**  ·  Charlie Holt - 3 **5.00**  ·  Charlie Holt - 4 **13.00**  ·  Charlie Holt - 5 **21.00**
 - **Goalkeeper Saves:** Nathan Trott - 3 **1.30**  ·  Nathan Trott - 4 **1.73**  ·  Nathan Trott - 5 **2.62**  ·  Nathan Trott - 6 **4.50**  ·  Nathan Trott - 7 **9.00**  ·  Jose Sa - 2 **1.33**  ·  Jose Sa - 3 **2.00**  ·  Jose Sa - 4 **3.75**  ·  Jose Sa - 5 **8.00**  ·  Jose Sa - 1 **1.06**  ·  Nathan Trott - 2 **1.08**
 - **Anytime Goal Scorer:** Jordan James **4.00**  ·  Hugo Bueno **8.00**  ·  Nasser Djiga **9.00**  ·  Jack Moylan **3.10**  ·  Ladislav Krejci **5.50**  ·  Joel Colwill **5.50**  ·  Krystian Bielik **9.00**  ·  Jackson Tchatchoua **6.50**  ·  Rob Tankiewicz **6.50**  ·  Callum Robinson **3.20**  ·  Alex Robertson **8.00**  ·  Chris Willock **4.33**  ·  Cian Ashford **4.33**  ·  David Turnbull **5.50**  ·  Joel Bagan **13.00**  ·  Ollie Tanner **4.33**  ·  Perry Ng **9.00**  ·  Ronan Kpakio **11.00**  ·  Rubin Colwill **4.75**  ·  William Fish **13.00**  ·  Gabriel Osho **15.00**  ·  Marshall Munetsi **4.00**  ·  Tawanda Chirewa **4.00**  ·  Calum Scanlon **15.00**  ·  Jeanricner Bellegarde **2.88**  ·  Boubacar Traore **4.75**  ·  Yousef Salech **2.88**  ·  Bertrand Traore **3.20**  ·  Noah Williams **13.00**  ·  Paul Moreno **6.00**  ·  Noah Anyadike **9.00**  ·  Charlie Holt **6.00**  ·  Yerson Mosquera **6.50**  ·  Kieran Trippier **6.50**  ·  Fernando Lopez **2.20**  ·  Tommy Doyle **5.50**  ·  Rodrigo Gomes **3.40**  ·  Toti Gomes **9.00**  ·  Adam Armstrong **2.50**  ·  Rafiki Said **2.88**  ·  Isaak Davies **4.00**  ·  Troy Perrett **4.75**  ·  Luke Rawlings **9.00**  ·  Sean Neave **2.20**  ·  Andre Trindade **6.50**  ·  Ghislain Konan **9.00**  ·  Dylan Lawlor **13.00**  ·  Mateus Mane **2.88**
-- **Player to Score or Assist:** Jordan James **2.10**  ·  Hugo Bueno **3.10**  ·  Nasser Djiga **6.50**  ·  Jack Moylan **2.30**  ·  Ladislav Krejci **3.50**  ·  Joel Colwill **3.10**  ·  Krystian Bielik **6.00**  ·  Jackson Tchatchoua **2.75**  ·  Rob Tankiewicz **3.75**  ·  Callum Robinson **2.25**  ·  Alex Robertson **4.00**  ·  Chris Willock **2.75**  ·  Cian Ashford **2.62**  ·  David Turnbull **3.25**  ·  Joel Bagan **6.00**  ·  Ollie Tanner **2.75**  ·  Perry Ng **5.50**  ·  Ronan Kpakio **3.75**  ·  Rubin Colwill **2.62**  ·  William Fish **8.00**  ·  Gabriel Osho **8.00**  ·  Marshall Munetsi **2.38**  ·  Tawanda Chirewa **2.38**  ·  Calum Scanlon **8.00**  ·  Jeanricner Bellegarde **1.91**  ·  Boubacar Traore **3.10**  ·  Yousef Salech **2.10**  ·  Bertrand Traore **1.91**  ·  Noah Williams **7.50**  ·  Paul Moreno **3.75**  ·  Noah Anyadike **6.00**  ·  Charlie Holt **3.10**  ·  Yerson Mosquera **4.75**  ·  Kieran Trippier **2.40**  ·  Fernando Lopez **1.57**  ·  Tommy Doyle **2.75**  ·  Rodrigo Gomes **2.25**  ·  Toti Gomes **4.33**  ·  Adam Armstrong **1.80**  ·  Rafiki Said **1.91**  ·  Isaak Davies **3.00**  ·  Troy Perrett **2.62**  ·  Luke Rawlings **6.00**  ·  Sean Neave **1.83**  ·  Andre Trindade **3.20**  ·  Ghislain Konan **6.00**  ·  Dylan Lawlor **8.00**  ·  Mateus Mane **2.00**
+- **Player to Score or Assist:** Jordan James **2.10**  ·  Hugo Bueno **3.10**  ·  Nasser Djiga **6.50**  ·  Jack Moylan **2.30**  ·  Ladislav Krejci **3.50**  ·  Joel Colwill **3.10**  ·  Krystian Bielik **6.00**  ·  Jackson Tchatchoua **2.75**  ·  Rob Tankiewicz **3.75**  ·  Callum Robinson **2.30**  ·  Alex Robertson **4.00**  ·  Chris Willock **2.75**  ·  Cian Ashford **2.62**  ·  David Turnbull **3.25**  ·  Joel Bagan **6.00**  ·  Ollie Tanner **2.75**  ·  Perry Ng **5.50**  ·  Ronan Kpakio **3.75**  ·  Rubin Colwill **2.88**  ·  William Fish **8.00**  ·  Gabriel Osho **8.00**  ·  Marshall Munetsi **2.38**  ·  Tawanda Chirewa **2.38**  ·  Calum Scanlon **8.00**  ·  Jeanricner Bellegarde **1.91**  ·  Boubacar Traore **3.00**  ·  Yousef Salech **2.20**  ·  Bertrand Traore **1.91**  ·  Noah Williams **7.50**  ·  Paul Moreno **3.75**  ·  Noah Anyadike **6.00**  ·  Charlie Holt **3.10**  ·  Yerson Mosquera **4.75**  ·  Kieran Trippier **2.40**  ·  Fernando Lopez **1.57**  ·  Tommy Doyle **2.75**  ·  Rodrigo Gomes **2.25**  ·  Toti Gomes **4.33**  ·  Adam Armstrong **1.80**  ·  Rafiki Said **1.91**  ·  Isaak Davies **3.10**  ·  Troy Perrett **2.88**  ·  Luke Rawlings **6.00**  ·  Sean Neave **1.83**  ·  Andre Trindade **3.20**  ·  Ghislain Konan **6.00**  ·  Dylan Lawlor **8.00**  ·  Mateus Mane **2.00**
 
 ## Estadísticas de equipo
 | | Wolves (total) | Wolves en casa | Cardiff (total) | Cardiff fuera |
@@ -241,8 +241,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
 | Goles del visitante: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
 | Goles del visitante: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
-| Córners más/menos: Más de 10.5 | 42% | 50% | 46% | 1.83 | -16% |
-| Córners más/menos: Menos de 10.5 | 58% | 50% | 54% | 1.83 | -1% |
+| Córners más/menos: Más de 10.5 | 42% | 49% | 46% | 1.92 | -12% |
+| Córners más/menos: Menos de 10.5 | 58% | 51% | 54% | 1.88 | +2% |
 | 1X2 descanso: 2 | 18% | 21% | 20% | 4.33 | -15% |
 | 1X2 descanso: X | 39% | 35% | 37% | 2.60 | -4% |
 | 1X2 descanso: 1 | 43% | 44% | 43% | 2.10 | -9% |

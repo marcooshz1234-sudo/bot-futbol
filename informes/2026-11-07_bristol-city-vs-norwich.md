@@ -1,0 +1,144 @@
+# Bristol City – Norwich
+**Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Ashton Gate Stadium
+
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
+
+## Cuotas Bet365
+_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+
+## Estadísticas de equipo
+| | Bristol City (total) | Bristol City en casa | Norwich (total) | Norwich fuera |
+|---|---|---|---|---|
+| Partidos analizados | 13 | 7 | 15 | 8 |
+| Forma (últimos 5) | EDDEV | DDVDV | VDDDD | VDDDV |
+| Balance | 4V 3E 6D | 2V 0E 5D | 6V 0E 9D | 3V 0E 5D |
+| Goles a favor / partido | 0,92 | 0,43 | 1,73 | 1,50 |
+| Goles en contra / partido | 1,23 | 1,00 | 1,93 | 2,25 |
+| Goles a favor 1ª parte | 0,38 | 0,29 | 1,07 | 0,75 |
+| Goles a favor 2ª parte | 0,54 | 0,14 | 0,67 | 0,75 |
+| Goles en contra 1ª parte | 0,46 | 0,43 | 0,80 | 1,12 |
+| Goles en contra 2ª parte | 0,77 | 0,57 | 1,13 | 1,12 |
+| Más de 1,5 goles | 54% | 29% | 80% | 88% |
+| Más de 2,5 goles | 38% | 14% | 80% | 88% |
+| Más de 3,5 goles | 23% | 0% | 47% | 50% |
+| Ambos marcan | 46% | 14% | 67% | 62% |
+| Portería a cero | 15% | 14% | 0% | 0% |
+| Se queda sin marcar | 46% | 71% | 33% | 38% |
+| xG a favor | 1,30 | 1,14 | 1,52 | 1,61 |
+| xG en contra | 1,31 | 1,23 | 1,58 | 1,61 |
+| Tiros / partido | 15,1 | 15,9 | 14,0 | 12,4 |
+| Tiros a puerta / partido | 4,4 | 4,4 | 4,7 | 4,2 |
+| Tiros recibidos | 11,6 | 12,0 | 11,9 | 12,4 |
+| Tiros a puerta recibidos | 2,7 | 2,4 | 4,4 | 4,9 |
+| Posesión media % | 48 | 52 | 51 | 50 |
+| Córners a favor | 6,1 | 7,1 | 4,4 | 4,0 |
+| Córners en contra | 5,2 | 5,6 | 3,8 | 4,2 |
+| Córners a favor 1ª parte | 3,2 | 3,6 | 1,4 | 1,5 |
+| Córners a favor 2ª parte | 2,9 | 3,6 | 3,0 | 2,5 |
+| Córners totales del partido | 11,3 | 12,7 | 8,2 | 8,2 |
+| Córners totales 1ª parte | 5,8 | 6,4 | 3,0 | 3,4 |
+| Córners totales 2ª parte | 5,5 | 6,3 | 5,2 | 4,9 |
+| Más de 8,5 córners | 69% | 71% | 40% | 38% |
+| Más de 9,5 córners | 69% | 71% | 40% | 38% |
+| Más de 10,5 córners | 54% | 71% | 20% | 25% |
+| Faltas cometidas | 11,2 | 10,6 | 11,1 | 9,6 |
+| Faltas recibidas | 11,2 | 11,7 | 11,7 | 12,6 |
+| Amarillas propias | 1,2 | 1,1 | 2,2 | 1,8 |
+| Amarillas del rival | 2,0 | 2,3 | 1,8 | 1,9 |
+| Rojas / partido | 0,08 | 0,14 | 0,07 | 0,12 |
+
+## Goles y tarjetas por tramos de minutos
+| Tramo | Goles Bristol City | Recibe Bristol City | Tarjetas Bristol City | Goles Norwich | Recibe Norwich | Tarjetas Norwich |
+|---|---|---|---|---|---|---|
+| 1-15' | 1 | 2 | 0 | 7 | 5 | 2 |
+| 16-30' | 1 | 0 | 2 | 5 | 4 | 7 |
+| 31-45' | 3 | 4 | 4 | 4 | 3 | 5 |
+| 46-60' | 1 | 5 | 4 | 2 | 9 | 6 |
+| 61-75' | 1 | 1 | 2 | 5 | 3 | 7 |
+| 76-90' | 5 | 4 | 5 | 3 | 5 | 8 |
+
+_Totales de la temporada (el tramo 76-90 incluye el descuento)._
+
+## Bajas y dudas
+_Sin bajas comunicadas por ahora._
+
+## Enfrentamientos directos recientes
+- 2026-04-18 · Championship: Bristol City 2-4 Norwich
+- 2025-10-18 · Championship: Norwich 0-1 Bristol City
+- 2025-03-14 · Championship: Bristol City 2-1 Norwich
+- 2024-11-09 · Championship: Norwich 0-2 Bristol City
+- 2024-04-20 · Championship: Norwich 1-1 Bristol City
+- 2023-12-03 · Championship: Bristol City 1-2 Norwich
+
+## Últimos partidos de Bristol City
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-10-24 | Championship | Stoke City 0-0 Bristol City | fuera | 6-5 | 8 (0) - 11 (1) | 2-1 |
+| 2026-10-17 | Championship | Bristol City 0-1 Sheffield Utd | casa | 3-5 | 7 (1) - 16 (2) | 1-1 |
+| 2026-10-13 | Championship | Bristol City 0-1 Blackburn | casa | 10-5 | 20 (7) - 3 (1) | –-– |
+| 2026-10-10 | Championship | Charlton 1-1 Bristol City | fuera | 5-5 | 13 (3) - 12 (4) | 1-2 |
+| 2026-09-18 | Championship | Bristol City 1-0 Watford | casa | 2-5 | 17 (7) - 10 (2) | 2-5 |
+| 2026-09-15 | Championship | Bristol City 0-1 Lincoln | casa | 13-4 | 18 (4) - 9 (3) | 2-5 |
+
+## Jugadores de Bristol City
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| J. Knight | M | 13 | 1145 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 19 | 8 | 0,6 | 4 | 0 |
+| Sam Tickle | G | 12 | 1085 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Rio Cardines | M | 12 | 937 | 0 | 6 | 5 | 0,4 | 1 | 0,1 | 4 | 8 | 0,7 | 1 | 0 |
+| L. Eissat | D | 11 | 873 | 1 | 0 | 9 | 0,8 | 3 | 0,3 | 13 | 1 | 0,1 | 2 | 0 |
+| G. Tanner | D | 11 | 828 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 2 | 0,2 | 0 | 0 |
+| Yu Hirakawa | M | 12 | 741 | 1 | 0 | 12 | 1,0 | 7 | 0,6 | 8 | 13 | 1,1 | 0 | 0 |
+| Rob Dickie | D | 8 | 711 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 9 | 12 | 1,5 | 1 | 0 |
+| D. Ballard | M | 13 | 701 | 3 | 0 | 22 | 1,7 | 7 | 0,5 | 13 | 10 | 0,8 | 0 | 0 |
+| L. Tolaj | F | 10 | 684 | 2 | 1 | 25 | 2,5 | 8 | 0,8 | 20 | 13 | 1,3 | 1 | 0 |
+| Scott Twine | M | 10 | 683 | 3 | 0 | 13 | 1,3 | 7 | 0,7 | 4 | 17 | 1,7 | 0 | 0 |
+| C. Pring | D | 11 | 627 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 9 | 0,8 | 0 | 0 |
+| J. Williams | M | 9 | 594 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 7 | 0,8 | 1 | 0 |
+| J. Wallace | M | 12 | 548 | 0 | 1 | 6 | 0,5 | 3 | 0,2 | 5 | 5 | 0,4 | 0 | 0 |
+| Robert Atkinson | D | 7 | 465 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
+| Sam Greenwood | M | 11 | 446 | 0 | 0 | 11 | 1,0 | 7 | 0,6 | 10 | 12 | 1,1 | 1 | 0 |
+| G. Yah | M | 9 | 439 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 6 | 7 | 0,8 | 0 | 0 |
+| A. Randell | M | 6 | 321 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 7 | 1,2 | 2 | 1 |
+| L. McNally | D | 3 | 270 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 1 | 0 |
+| Noah Eile | D | 3 | 159 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| B. De Keersmaecker | M | 4 | 134 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+
+## Últimos partidos de Norwich
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-10-24 | Championship | Charlton 1-3 Norwich | fuera | 7-3 | 16 (5) - 8 (3) | 2-4 |
+| 2026-10-17 | Championship | Norwich 0-1 Portsmouth | casa | 1-1 | 9 (2) - 9 (2) | 3-2 |
+| 2026-10-14 | Championship | Norwich 0-1 Southampton | casa | 5-3 | 12 (4) - 15 (4) | 2-2 |
+| 2026-10-10 | Championship | Swansea 2-1 Norwich | fuera | 2-3 | 12 (5) - 12 (8) | 1-1 |
+| 2026-09-20 | Championship | Norwich 3-4 Bolton | casa | 4-2 | 10 (4) - 9 (5) | –-– |
+| 2026-09-17 | Carabao Cup | Manchester City 5-0 Norwich | fuera | 3-2 | 4 (0) - 14 (6) | 1-0 |
+
+## Jugadores de Norwich
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P. Mattsson | M | 14 | 1155 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 35 | 21 | 1,5 | 2 | 0 |
+| J. Córdoba | D | 12 | 1063 | 0 | 1 | 4 | 0,3 | 1 | 0,1 | 13 | 10 | 0,8 | 6 | 1 |
+| Ruairi McConville | D | 13 | 1029 | 1 | 1 | 8 | 0,6 | 3 | 0,2 | 3 | 5 | 0,4 | 2 | 0 |
+| B. Chrisene | D | 12 | 987 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 6 | 13 | 1,1 | 1 | 0 |
+| A. Brooks | M | 14 | 981 | 3 | 3 | 20 | 1,4 | 9 | 0,6 | 12 | 7 | 0,5 | 2 | 0 |
+| J. Stacey | D | 12 | 967 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 9 | 8 | 0,7 | 3 | 0 |
+| Vladan Kovačević | G | 10 | 909 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
+| K. McLean | M | 10 | 854 | 0 | 1 | 7 | 0,7 | 3 | 0,3 | 8 | 14 | 1,4 | 2 | 0 |
+| O. Schwartau | M | 14 | 809 | 1 | 2 | 12 | 0,9 | 4 | 0,3 | 4 | 12 | 0,9 | 2 | 0 |
+| Jacob Wright | M | 14 | 714 | 2 | 2 | 14 | 1,0 | 7 | 0,5 | 8 | 6 | 0,4 | 1 | 0 |
+| A. Ben Slimane | M | 12 | 618 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 8 | 6 | 0,5 | 1 | 0 |
+| Mohamed Touré | F | 9 | 536 | 6 | 1 | 13 | 1,4 | 8 | 0,9 | 6 | 5 | 0,6 | 1 | 0 |
+| M. Kvistgaarden | F | 12 | 534 | 4 | 2 | 10 | 0,8 | 6 | 0,5 | 12 | 13 | 1,1 | 2 | 0 |
+| A. Musaba | F | 12 | 513 | 1 | 1 | 12 | 1,0 | 7 | 0,6 | 4 | 5 | 0,4 | 0 | 0 |
+| H. Darling | D | 8 | 490 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 5 | 4 | 0,5 | 1 | 0 |
+| D. Grimshaw | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| K. Fisher | D | 6 | 421 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 7 | 9 | 1,5 | 2 | 0 |
+| P. Maghoma | M | 9 | 391 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 4 | 7 | 0,8 | 1 | 0 |
+| D. Yongwa | D | 6 | 344 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 8 | 6 | 1,0 | 1 | 0 |
+| J. Makama | F | 7 | 276 | 1 | 0 | 6 | 0,9 | 1 | 0,1 | 8 | 4 | 0,6 | 1 | 0 |
+
+## Probabilidades del modelo
+_Goles esperados: local 1,31 · visitante 1,41 · córners esperados 9,3._
+
+_Sin cuotas de Bet365 todavía para comparar._

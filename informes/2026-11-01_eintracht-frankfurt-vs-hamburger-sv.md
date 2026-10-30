@@ -1,10 +1,10 @@
 # Eintracht Frankfurt – Hamburger SV
 **Bundesliga** · Regular Season - 8 · 01/11/2026 17:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:04_
+_Actualizadas: 30/10 14:01_
 
 - **1X2:** 1 **1.57**  ·  X **4.50**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.18**  ·  X2 **2.30**
@@ -32,7 +32,7 @@ _Actualizadas: 30/10 02:04_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.80** · menos **2.00**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **1.83** · menos **1.83**
@@ -245,8 +245,8 @@ _Goles esperados: local 2,23 · visitante 1,28 · córners esperados 9,1._
 | Goles del visitante: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
 | Goles del visitante: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
-| Córners más/menos: Más de 9.5 | 42% | 51% | 47% | 1.80 | -16% |
-| Córners más/menos: Menos de 9.5 | 58% | 49% | 53% | 1.91 | +2% |
+| Córners más/menos: Más de 9.5 | 42% | 53% | 47% | 1.80 | -15% |
+| Córners más/menos: Menos de 9.5 | 58% | 47% | 53% | 2.00 | +6% |
 | 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -8% |
 | 1X2 descanso: 1 | 44% | 46% | 45% | 2.00 | -10% |
 

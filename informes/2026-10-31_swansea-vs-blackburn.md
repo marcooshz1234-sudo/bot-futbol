@@ -1,13 +1,13 @@
 # Swansea – Blackburn
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 14:00_
 
-- **1X2:** 1 **1.75**  ·  X **3.50**  ·  2 **4.75**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.00**
+- **1X2:** 1 **1.80**  ·  X **3.40**  ·  2 **4.50**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.30**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -30,7 +30,7 @@ _Actualizadas: 30/10 02:03_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.95** · menos **1.85**
+    - 10,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.20** · menos **1.62**
@@ -45,7 +45,7 @@ _Actualizadas: 30/10 02:03_
 - **To Win Either Half:** 1 **1.40**  ·  2 **2.62**
 - **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **6.00**
 - **Win Both Halves:** 1 **5.00**  ·  2 **19.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **10.00**  ·  Away/No **9.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **10.00**  ·  Away/No **8.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
     - 5,5: más **1.67** · menos **2.10**
@@ -53,7 +53,7 @@ _Actualizadas: 30/10 02:03_
     - 4,5: más **2.10** · menos **1.67**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 - **Home Team Total Cards:**
-    - 1,5: más **1.62** · menos **2.20**
+    - 1,5: más **1.67** · menos **2.10**
 - **Away Team Total Cards:**
     - 2,5: más **2.25** · menos **1.57**
 - **Total ShotOnGoal:**
@@ -63,7 +63,7 @@ _Actualizadas: 30/10 02:03_
     - 24,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **1.36**  ·  X **15.00**  ·  2 **3.20**
 - **Home Player Shots On Target Total:** Adam Idah - 1 **1.36**  ·  Zan Vipotnik - 1 **1.33**  ·  Ross Stewart - 1 **1.40**  ·  Moussa Yeo - 1 **1.67**  ·  Elijah Just - 1 **1.62**  ·  Ronald Martins - 1 **1.62**  ·  Ji-Sung Eom - 1 **1.62**  ·  Joseph Opoku - 1 **1.50**  ·  Melker Widell - 1 **1.91**  ·  Baptista Goncalo Franco - 1 **3.50**  ·  Josh Tymon - 1 **3.75**  ·  Jay Fulton - 1 **4.33**  ·  Marko Stamenic - 1 **3.40**  ·  Filip Lissah - 1 **6.50**  ·  Ben Cabango - 1 **6.50**  ·  Josh Key - 1 **5.00**  ·  Tiago Parente - 1 **3.75**  ·  Stephen Welsh - 1 **7.00**  ·  Adam Idah - 2 **2.62**  ·  Zan Vipotnik - 2 **2.62**  ·  Ross Stewart - 2 **3.00**  ·  Moussa Yeo - 2 **4.33**  ·  Elijah Just - 2 **4.00**  ·  Ronald Martins - 2 **4.00**  ·  Ji-Sung Eom - 2 **4.00**  ·  Joseph Opoku - 2 **3.50**  ·  Melker Widell - 2 **6.00**  ·  Baptista Goncalo Franco - 2 **19.00**  ·  Josh Tymon - 2 **21.00**  ·  Jay Fulton - 2 **21.00**  ·  Marko Stamenic - 2 **17.00**  ·  Filip Lissah - 2 **19.00**  ·  Ben Cabango - 2 **21.00**  ·  Josh Key - 2 **19.00**  ·  Tiago Parente - 2 **21.00**  ·  Adam Idah - 3 **6.50**  ·  Zan Vipotnik - 3 **6.50**  ·  Ross Stewart - 3 **8.00**  ·  Moussa Yeo - 3 **15.00**  ·  Elijah Just - 3 **13.00**  ·  Ronald Martins - 3 **13.00**  ·  Ji-Sung Eom - 3 **13.00**  ·  Joseph Opoku - 3 **10.00**  ·  Melker Widell - 3 **21.00**  ·  Adam Idah - 4 **19.00**  ·  Zan Vipotnik - 4 **19.00**  ·  Ross Stewart - 4 **21.00**  ·  Moussa Yeo - 4 **21.00**  ·  Elijah Just - 4 **19.00**  ·  Ronald Martins - 4 **13.00**  ·  Ji-Sung Eom - 4 **21.00**  ·  Joseph Opoku - 4 **21.00**  ·  Zan Vipotnik - 5 **21.00**  ·  Stephen Eustaquio - 1 **2.50**  ·  Stephen Eustaquio - 2 **10.00**  ·  Stephen Eustaquio - 3 **21.00**  ·  Jenson Seelt - 1 **5.00**  ·  Jenson Seelt - 2 **19.00**  ·  Tom Iorpenda - 1 **2.62**  ·  Tom Iorpenda - 2 **11.00**
-- **Away Player Shots On Target Total:** Kristi Montgomery **41.00**  ·  Adam Idah **5.50**  ·  Zan Vipotnik **7.00**  ·  Andri Gudjohnsen **17.00**  ·  Ben Cabango **13.00**  ·  Jayden Fevrier **81.00**  ·  Elijah Just **23.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **17.00**  ·  Melker Widell **23.00**  ·  Augustus Kargbo **41.00**  ·  Joseph Opoku **23.00**  ·  Filip Lissah **13.00**  ·  Scott Wharton **21.00**  ·  Todd Cantwell **23.00**  ·  Harry Pickering **51.00**  ·  Jay Fulton **41.00**  ·  Hayden Carter **29.00**  ·  Josh Tymon **51.00**  ·  Josh Key **34.00**  ·  Adam Forshaw **101.00**  ·  Sean McLoughlin **29.00**  ·  Ji-Sung Eom **23.00**  ·  Baptista Goncalo Franco **41.00**  ·  Moussa Yeo **21.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **101.00**  ·  Marko Stamenic **34.00**  ·  Stephen Welsh **19.00**  ·  Stephen Eustaquio **23.00**  ·  Ryoya Morishita **41.00**  ·  Carter Heywood **12.00**  ·  Yuri Ribeiro **151.00**  ·  Oladapo Afolayan **21.00**  ·  Ross Stewart **8.50**  ·  Sam Morsy **67.00**  ·  Tiago Parente **41.00**  ·  Jeremy Monga **34.00**  ·  Jenson Seelt **13.00**  ·  Ronald Martins **17.00**
+- **Away Player Shots On Target Total:** Kristi Montgomery **41.00**  ·  Adam Idah **5.50**  ·  Zan Vipotnik **7.50**  ·  Andri Gudjohnsen **15.00**  ·  Ben Cabango **13.00**  ·  Jayden Fevrier **81.00**  ·  Elijah Just **23.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **17.00**  ·  Melker Widell **26.00**  ·  Augustus Kargbo **34.00**  ·  Joseph Opoku **23.00**  ·  Filip Lissah **13.00**  ·  Scott Wharton **21.00**  ·  Todd Cantwell **23.00**  ·  Harry Pickering **51.00**  ·  Jay Fulton **41.00**  ·  Hayden Carter **23.00**  ·  Josh Tymon **51.00**  ·  Josh Key **34.00**  ·  Adam Forshaw **101.00**  ·  Sean McLoughlin **29.00**  ·  Ji-Sung Eom **23.00**  ·  Baptista Goncalo Franco **41.00**  ·  Moussa Yeo **21.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **101.00**  ·  Marko Stamenic **34.00**  ·  Stephen Welsh **21.00**  ·  Stephen Eustaquio **23.00**  ·  Ryoya Morishita **41.00**  ·  Carter Heywood **12.00**  ·  Yuri Ribeiro **126.00**  ·  Oladapo Afolayan **19.00**  ·  Ross Stewart **8.50**  ·  Sam Morsy **67.00**  ·  Tiago Parente **41.00**  ·  Jeremy Monga **41.00**  ·  Jenson Seelt **13.00**  ·  Ronald Martins **17.00**
 - **Away Player Shots Total:**
     - 10,5: más **2.00** · menos **1.73**
 - **Home Player Shots:** Adam Idah - 1 **1.03**  ·  Zan Vipotnik - 1 **1.02**  ·  Ross Stewart - 1 **1.05**  ·  Moussa Yeo - 1 **1.11**  ·  Elijah Just - 1 **1.10**  ·  Ronald Martins - 1 **1.06**  ·  Ji-Sung Eom - 1 **1.11**  ·  Joseph Opoku - 1 **1.07**  ·  Melker Widell - 1 **1.14**  ·  Baptista Goncalo Franco - 1 **1.57**  ·  Josh Tymon - 1 **1.80**  ·  Jay Fulton - 1 **1.80**  ·  Marko Stamenic - 1 **1.62**  ·  Filip Lissah - 1 **2.20**  ·  Ben Cabango - 1 **2.20**  ·  Josh Key - 1 **1.91**  ·  Tiago Parente - 1 **1.62**  ·  Stephen Welsh - 1 **2.50**  ·  Adam Idah - 2 **1.20**  ·  Zan Vipotnik - 2 **1.17**  ·  Ross Stewart - 2 **1.28**  ·  Moussa Yeo - 2 **1.50**  ·  Elijah Just - 2 **1.44**  ·  Ronald Martins - 2 **1.30**  ·  Ji-Sung Eom - 2 **1.50**  ·  Joseph Opoku - 2 **1.36**  ·  Melker Widell - 2 **1.62**  ·  Baptista Goncalo Franco - 2 **3.50**  ·  Josh Tymon - 2 **4.50**  ·  Jay Fulton - 2 **4.50**  ·  Marko Stamenic - 2 **3.75**  ·  Filip Lissah - 2 **7.00**  ·  Ben Cabango - 2 **7.00**  ·  Josh Key - 2 **5.50**  ·  Tiago Parente - 2 **3.75**  ·  Stephen Welsh - 2 **9.00**  ·  Adam Idah - 3 **1.57**  ·  Zan Vipotnik - 3 **1.50**  ·  Ross Stewart - 3 **1.83**  ·  Moussa Yeo - 3 **2.50**  ·  Elijah Just - 3 **2.38**  ·  Ronald Martins - 3 **1.83**  ·  Ji-Sung Eom - 3 **2.50**  ·  Joseph Opoku - 3 **2.00**  ·  Melker Widell - 3 **2.75**  ·  Baptista Goncalo Franco - 3 **9.00**  ·  Josh Tymon - 3 **13.00**  ·  Jay Fulton - 3 **13.00**  ·  Marko Stamenic - 3 **10.00**  ·  Filip Lissah - 3 **21.00**  ·  Ben Cabango - 3 **21.00**  ·  Josh Key - 3 **15.00**  ·  Tiago Parente - 3 **10.00**  ·  Adam Idah - 4 **2.38**  ·  Zan Vipotnik - 4 **2.20**  ·  Ross Stewart - 4 **3.00**  ·  Moussa Yeo - 4 **4.50**  ·  Elijah Just - 4 **4.33**  ·  Ronald Martins - 4 **3.25**  ·  Ji-Sung Eom - 4 **4.50**  ·  Joseph Opoku - 4 **3.50**  ·  Melker Widell - 4 **5.50**  ·  Baptista Goncalo Franco - 4 **21.00**  ·  Josh Tymon - 4 **17.00**  ·  Jay Fulton - 4 **21.00**  ·  Adam Idah - 5 **4.00**  ·  Zan Vipotnik - 5 **3.50**  ·  Ross Stewart - 5 **5.50**  ·  Moussa Yeo - 5 **10.00**  ·  Elijah Just - 5 **9.00**  ·  Ronald Martins - 5 **5.50**  ·  Ji-Sung Eom - 5 **10.00**  ·  Joseph Opoku - 5 **6.50**  ·  Melker Widell - 5 **13.00**  ·  Adam Idah - 6 **8.00**  ·  Zan Vipotnik - 6 **6.00**  ·  Ross Stewart - 6 **11.00**  ·  Moussa Yeo - 6 **19.00**  ·  Elijah Just - 6 **19.00**  ·  Ronald Martins - 6 **11.00**  ·  Ji-Sung Eom - 6 **19.00**  ·  Joseph Opoku - 6 **13.00**  ·  Melker Widell - 6 **21.00**  ·  Adam Idah - 7 **15.00**  ·  Zan Vipotnik - 7 **11.00**  ·  Stephen Eustaquio - 1 **1.28**  ·  Stephen Eustaquio - 2 **2.10**  ·  Stephen Eustaquio - 3 **4.33**  ·  Stephen Eustaquio - 4 **11.00**  ·  Stephen Eustaquio - 5 **21.00**  ·  Jenson Seelt - 1 **2.00**  ·  Jenson Seelt - 2 **6.00**  ·  Jenson Seelt - 3 **19.00**  ·  Stephen Welsh - 3 **21.00**  ·  Marko Stamenic - 4 **21.00**  ·  Baptista Goncalo Franco - 5 **19.00**  ·  Moussa Yeo - 7 **13.00**  ·  Ross Stewart - 7 **21.00**  ·  Elijah Just - 7 **13.00**  ·  Ronald Martins - 7 **21.00**  ·  Ji-Sung Eom - 7 **19.00**  ·  Adam Idah - 8 **21.00**  ·  Zan Vipotnik - 8 **21.00**  ·  Joseph Opoku - 7 **21.00**  ·  Tiago Parente - 4 **21.00**  ·  Josh Key - 4 **21.00**  ·  Tom Iorpenda - 1 **1.33**  ·  Tom Iorpenda - 2 **2.38**  ·  Tom Iorpenda - 3 **5.50**  ·  Tom Iorpenda - 4 **13.00**  ·  Ronald Martins - 8 **19.00**  ·  Moussa Yeo - 8 **21.00**  ·  Elijah Just - 8 **21.00**  ·  Tom Iorpenda - 5 **21.00**
@@ -212,11 +212,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 20% | 23% | 4.75 | +8% |
-| 1X2: X | 26% | 27% | 26% | 3.50 | -8% |
-| 1X2: 1 | 49% | 54% | 51% | 1.75 | -11% |
-| Doble oportunidad: X2 | 51% | 47% | 49% | 2.00 | -2% |
-| Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -5% |
+| 1X2: 2 | 26% | 21% | 23% | 4.50 | +5% |
+| 1X2: X | 26% | 27% | 27% | 3.40 | -10% |
+| 1X2: 1 | 49% | 52% | 50% | 1.80 | -10% |
+| Doble oportunidad: X2 | 51% | 48% | 50% | 1.95 | -3% |
+| Doble oportunidad: 12 | 74% | 72% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 74% | 80% | 77% | 1.18 | -9% |
 | Ambos marcan: No | 50% | 49% | 49% | 1.91 | -6% |
 | Ambos marcan: Sí | 50% | 51% | 51% | 1.80 | -8% |
@@ -238,8 +238,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 28% | 25% | 26% | 3.75 | -1% |
 | Goles del visitante: Menos de 0.5 | 36% | 39% | 37% | 2.38 | -11% |
 | Goles del visitante: Menos de 1.5 | 72% | 75% | 74% | 1.25 | -8% |
-| Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.95 | -12% |
-| Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.85 | +2% |
+| Córners más/menos: Más de 10.5 | 41% | 50% | 46% | 1.83 | -16% |
+| Córners más/menos: Menos de 10.5 | 59% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -5% |
 | 1X2 descanso: 1 | 35% | 40% | 38% | 2.30 | -14% |
 

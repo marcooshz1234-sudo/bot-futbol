@@ -1,13 +1,13 @@
 # Lincoln – Birmingham
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:02_
+_Actualizadas: 30/10 13:59_
 
-- **1X2:** 1 **3.30**  ·  X **3.50**  ·  2 **2.10**
-- **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.33**
+- **1X2:** 1 **3.20**  ·  X **3.50**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -25,12 +25,12 @@ _Actualizadas: 30/10 02:02_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.95** · menos **1.85**
 - **Tarjetas más/menos:**
     - 3,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.20**  ·  2 **2.75**
@@ -208,12 +208,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 45% | 45% | 2.10 | -5% |
+| 1X2: 2 | 46% | 44% | 45% | 2.15 | -4% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 29% | 28% | 29% | 3.30 | -5% |
-| Doble oportunidad: X2 | 71% | 71% | 71% | 1.33 | -6% |
+| 1X2: 1 | 29% | 29% | 29% | 3.20 | -6% |
+| Doble oportunidad: X2 | 71% | 70% | 70% | 1.36 | -5% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 54% | 55% | 55% | 1.70 | -7% |
+| Doble oportunidad: 1X | 54% | 57% | 55% | 1.67 | -7% |
 | Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
 | Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
 | Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.30 | -3% |
@@ -230,14 +230,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del local: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles del visitante: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Goles del visitante: Más de 2.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles del visitante: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles del visitante: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -9% |
 | Goles del visitante: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -6% |
-| Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Córners más/menos: Más de 9.5 | 48% | 49% | 49% | 1.95 | -5% |
+| Córners más/menos: Menos de 9.5 | 52% | 51% | 51% | 1.85 | -5% |
 | 1X2 descanso: 2 | 34% | 34% | 34% | 2.75 | -7% |
 | 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -8% |
 | 1X2 descanso: 1 | 24% | 25% | 24% | 3.75 | -9% |

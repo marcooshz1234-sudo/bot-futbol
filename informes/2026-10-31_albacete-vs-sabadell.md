@@ -1,10 +1,10 @@
 # Albacete – Sabadell
 **Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 14:00_
 
 - **1X2:** 1 **2.75**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**

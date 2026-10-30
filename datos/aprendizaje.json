@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30 08:01",
+ "generado": "2026-10-30 14:02",
  "picks_usados": 144,
  "aciertos": 88,
  "prometido_medio": 0.722,
@@ -695,6 +695,337 @@
    "n": 1,
    "aciertos": 0,
    "cuota_implicita": 0.752
+  }
+ },
+ "marcos": {
+  "familias": {
+   "goles": {
+    "n": 48,
+    "aciertos": 27,
+    "ajuste": -0.06
+   },
+   "jugador:paradas": {
+    "n": 11,
+    "aciertos": 10,
+    "ajuste": 0.06
+   },
+   "jugador:faltas_r": {
+    "n": 14,
+    "aciertos": 8,
+    "ajuste": -0.0529
+   },
+   "jugador:faltas_c": {
+    "n": 7,
+    "aciertos": 4,
+    "ajuste": -0.0333
+   },
+   "tarjetas": {
+    "n": 13,
+    "aciertos": 7,
+    "ajuste": -0.06
+   },
+   "jugador:a_puerta": {
+    "n": 22,
+    "aciertos": 17,
+    "ajuste": 0.0381
+   },
+   "corners": {
+    "n": 15,
+    "aciertos": 12,
+    "ajuste": 0.0429
+   },
+   "resultado": {
+    "n": 24,
+    "aciertos": 16,
+    "ajuste": -0.0182
+   },
+   "jugador:gol": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0143
+   },
+   "jugador:gol_o_asist": {
+    "n": 2,
+    "aciertos": 1,
+    "ajuste": -0.0182
+   }
+  },
+  "jugadores": {
+   "jugador|Stas Pokatilov|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Akim Zedadka|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Ivan Lepinjica|faltas_c": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Pierre Ganiou|faltas_c": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Matthieu Udol|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Robin Risser|paradas": {
+    "n": 2,
+    "aciertos": 2,
+    "ajuste": 0.06
+   },
+   "jugador|Yann Sommer|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Pape Gueye|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Harry Kane|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Eberechi Eze|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Jan Oblak|paradas": {
+    "n": 2,
+    "aciertos": 2,
+    "ajuste": 0.06
+   },
+   "jugador|Florian Thauvin|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Joy-Lance Mickels|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Tymoteusz Puchacz|faltas_c": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Lautaro Martinez|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Mezian Mesloub|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Ezechiel Banzuzi|faltas_c": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Michael Olise|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Harry Kane|gol": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Dani Olmo|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Georges Mikautadze|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Senne Lammens|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Bukayo Saka|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Michael Olise|gol_o_asist": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Antonio Nusa|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Zion Suzuki|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Jude Bellingham|a_puerta": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Ousmane Dembele|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Bradley Barcola|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Endrick|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Thibaut Courtois|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Ayyoub Bouaddi|a_puerta": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Cucho Hernandez|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Rodrigo Mora|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Carney Chukwuemeka|a_puerta": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Lamine Yamal|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Lautaro Martinez|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Harry Kane|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Giuliano Simeone|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Mason Greenwood|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Tjark Ernst|paradas": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Federico Valverde|a_puerta": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Kylian Mbappe|gol_o_asist": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Kylian Mbappe|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Matvey Safonov|paradas": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Grischa Promel|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Barnabas Varga|a_puerta": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Marlon Gomes|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Evan N'Dicka|faltas_c": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Iliman-Cheikh Ndiaye|faltas_r": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Martin Baturina|faltas_r": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Florian Wirtz|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|Vedat Muriqi|a_puerta": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   },
+   "jugador|In-Beom Hwang|faltas_c": {
+    "n": 1,
+    "aciertos": 0,
+    "ajuste": -0.06
+   },
+   "jugador|Pablo Rosario|faltas_c": {
+    "n": 1,
+    "aciertos": 1,
+    "ajuste": 0.0429
+   }
   }
  },
  "concretos": {

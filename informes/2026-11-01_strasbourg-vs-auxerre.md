@@ -1,10 +1,10 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:04_
+_Actualizadas: 30/10 14:01_
 
 - **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **1.95**
@@ -29,7 +29,7 @@ _Actualizadas: 30/10 02:04_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.50**  ·  2 **4.33**
@@ -51,17 +51,17 @@ _Actualizadas: 30/10 02:04_
     - 4,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Home Team Total Cards:**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.67** · menos **2.10**
 - **Total ShotOnGoal:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.62**  ·  X **7.50**  ·  2 **2.75**
 - **Total Shots:**
     - 24,5: más **1.73** · menos **2.00**
     - 25,5: más **1.73** · menos **2.00**
     - 26,5: más **2.00** · menos **1.73**
-- **Shots.1x2:** 1 **1.53**  ·  X **15.00**  ·  2 **2.60**
+- **Shots.1x2:** 1 **1.40**  ·  X **15.00**  ·  2 **3.00**
 - **Home Player Shots On Target Total:** Conrad Harder - 2 **3.50**  ·  Conrad Harder - 3 **11.00**  ·  Conrad Harder - 4 **11.00**  ·  Conrad Harder - 5 **21.00**  ·  Conrad Harder - 1 **1.53**  ·  Sekou Mara - 1 **1.57**  ·  Jacobo Ortega - 1 **1.50**  ·  Mateo Del Blanco - 1 **1.73**  ·  Yaya Dieme - 1 **1.67**  ·  Sebastian Nanasi - 1 **1.62**  ·  Pape Diop - 1 **1.80**  ·  Giovanni Reyna - 1 **1.57**  ·  Samuel Amo-Ameyaw - 1 **1.62**  ·  Gessime Yassine - 1 **1.57**  ·  Samir El Mourabet - 1 **3.25**  ·  Diogo Sousa - 1 **2.62**  ·  Fabio Balde - 1 **2.10**  ·  Genesis Antwi - 1 **2.38**  ·  Ismael Doukoure - 1 **3.25**  ·  Lucas Hogsberg - 1 **5.50**  ·  Jeyland Mitchell - 1 **7.00**  ·  Karim Coulibaly - 1 **7.00**  ·  Sekou Mara - 2 **3.75**  ·  Jacobo Ortega - 2 **3.40**  ·  Mateo Del Blanco - 2 **4.50**  ·  Yaya Dieme - 2 **4.33**  ·  Sebastian Nanasi - 2 **4.00**  ·  Pape Diop - 2 **5.50**  ·  Giovanni Reyna - 2 **3.75**  ·  Samuel Amo-Ameyaw - 2 **4.00**  ·  Gessime Yassine - 2 **3.75**  ·  Samir El Mourabet - 2 **15.00**  ·  Diogo Sousa - 2 **11.00**  ·  Fabio Balde - 2 **7.00**  ·  Genesis Antwi - 2 **9.00**  ·  Ismael Doukoure - 2 **15.00**  ·  Lucas Hogsberg - 2 **15.00**  ·  Jeyland Mitchell - 2 **17.00**  ·  Karim Coulibaly - 2 **17.00**  ·  Sekou Mara - 3 **11.00**  ·  Jacobo Ortega - 3 **10.00**  ·  Mateo Del Blanco - 3 **15.00**  ·  Yaya Dieme - 3 **15.00**  ·  Sebastian Nanasi - 3 **13.00**  ·  Pape Diop - 3 **19.00**  ·  Giovanni Reyna - 3 **13.00**  ·  Samuel Amo-Ameyaw - 3 **13.00**  ·  Gessime Yassine - 3 **11.00**  ·  Samir El Mourabet - 3 **21.00**  ·  Fabio Balde - 3 **21.00**  ·  Sekou Mara - 4 **15.00**  ·  Jacobo Ortega - 4 **21.00**  ·  Mateo Del Blanco - 4 **21.00**  ·  Yaya Dieme - 4 **19.00**  ·  Sebastian Nanasi - 4 **21.00**  ·  Joaquin Martinez Gauna - 1 **1.80**  ·  Joaquin Martinez Gauna - 2 **5.50**  ·  Joaquin Martinez Gauna - 3 **19.00**  ·  Dario Essugo - 1 **3.25**  ·  Dario Essugo - 2 **15.00**
 - **Away Player Shots Total:**
     - 11,5: más **2.00** · menos **1.73**
@@ -69,7 +69,7 @@ _Actualizadas: 30/10 02:04_
 - **Away Player Shots:** Cameron Archer - 1 **1.07**  ·  Cameron Archer - 2 **1.36**  ·  Cameron Archer - 3 **2.10**  ·  Cameron Archer - 4 **3.50**  ·  Cameron Archer - 5 **7.00**  ·  Cameron Archer - 6 **15.00**  ·  Cameron Archer - 7 **21.00**  ·  Danny Namaso - 1 **1.11**  ·  Ryan Rodin - 1 **1.20**  ·  Remy Labeau Lascary - 1 **1.12**  ·  Rayan Mandengue - 1 **1.62**  ·  Romain Faivre - 1 **1.11**  ·  Aristide Zossou - 1 **1.36**  ·  Kevin Danois - 1 **1.62**  ·  Lamfia Dioubate - 1 **1.44**  ·  Naouirou Ahamada - 1 **1.33**  ·  Tidiane Devernois - 1 **1.36**  ·  Fredrik Oppegard - 1 **1.80**  ·  Arthur Piedfort - 1 **2.20**  ·  Salimou Danfakha - 1 **2.20**  ·  Alvin Petit Dol - 1 **2.62**  ·  Elikya Legros - 1 **2.20**  ·  Lamine Sy - 1 **1.80**  ·  Sinaly Diomande - 1 **2.62**  ·  Clement Akpa - 1 **3.40**  ·  Danny Namaso - 2 **1.53**  ·  Ryan Rodin - 2 **1.83**  ·  Remy Labeau Lascary - 2 **1.62**  ·  Rayan Mandengue - 2 **3.75**  ·  Romain Faivre - 2 **1.53**  ·  Aristide Zossou - 2 **2.62**  ·  Kevin Danois - 2 **3.75**  ·  Lamfia Dioubate - 2 **3.00**  ·  Naouirou Ahamada - 2 **2.38**  ·  Tidiane Devernois - 2 **2.62**  ·  Fredrik Oppegard - 2 **4.50**  ·  Arthur Piedfort - 2 **7.00**  ·  Salimou Danfakha - 2 **7.00**  ·  Alvin Petit Dol - 2 **10.00**  ·  Elikya Legros - 2 **7.00**  ·  Lamine Sy - 2 **4.50**  ·  Sinaly Diomande - 2 **10.00**  ·  Clement Akpa - 2 **13.00**  ·  Danny Namaso - 3 **2.50**  ·  Ryan Rodin - 3 **3.50**  ·  Remy Labeau Lascary - 3 **2.75**  ·  Rayan Mandengue - 3 **11.00**  ·  Romain Faivre - 3 **2.50**  ·  Aristide Zossou - 3 **6.00**  ·  Kevin Danois - 3 **11.00**  ·  Lamfia Dioubate - 3 **7.00**  ·  Naouirou Ahamada - 3 **5.50**  ·  Tidiane Devernois - 3 **6.00**  ·  Fredrik Oppegard - 3 **13.00**  ·  Arthur Piedfort - 3 **21.00**  ·  Salimou Danfakha - 3 **21.00**  ·  Alvin Petit Dol - 3 **13.00**  ·  Elikya Legros - 3 **21.00**  ·  Lamine Sy - 3 **13.00**  ·  Sinaly Diomande - 3 **15.00**  ·  Clement Akpa - 3 **15.00**  ·  Danny Namaso - 4 **4.50**  ·  Ryan Rodin - 4 **8.00**  ·  Remy Labeau Lascary - 4 **5.50**  ·  Rayan Mandengue - 4 **21.00**  ·  Romain Faivre - 4 **5.00**  ·  Aristide Zossou - 4 **15.00**  ·  Kevin Danois - 4 **21.00**  ·  Lamfia Dioubate - 4 **19.00**  ·  Naouirou Ahamada - 4 **13.00**  ·  Tidiane Devernois - 4 **15.00**  ·  Fredrik Oppegard - 4 **21.00**  ·  Arthur Piedfort - 4 **21.00**  ·  Salimou Danfakha - 4 **21.00**  ·  Danny Namaso - 5 **10.00**  ·  Ryan Rodin - 5 **19.00**  ·  Remy Labeau Lascary - 5 **11.00**  ·  Rayan Mandengue - 5 **21.00**  ·  Romain Faivre - 5 **10.00**  ·  Naouirou Ahamada - 5 **21.00**  ·  Danny Namaso - 6 **21.00**  ·  Ryan Rodin - 6 **11.00**  ·  Remy Labeau Lascary - 6 **21.00**  ·  Romain Faivre - 6 **21.00**  ·  Danny Namaso - 7 **17.00**  ·  Ryan Rodin - 7 **21.00**  ·  Pierre Ekwah - 1 **1.36**  ·  Christ Makosso - 1 **1.91**  ·  Pierre Ekwah - 2 **2.62**  ·  Christ Makosso - 2 **5.50**  ·  Pierre Ekwah - 3 **6.00**  ·  Pierre Ekwah - 4 **15.00**  ·  Christ Makosso - 3 **17.00**  ·  Axel Tuanzebe - 1 **3.40**  ·  Axel Tuanzebe - 2 **13.00**  ·  Axel Tuanzebe - 3 **15.00**  ·  Pierre Ekwah - 5 **21.00**  ·  Sekou Fofana - 1 **2.20**  ·  Sekou Fofana - 2 **7.00**  ·  Sekou Fofana - 3 **21.00**
 - **Goalkeeper Saves:** Filip Jorgensen - 2 **1.25**  ·  Filip Jorgensen - 3 **1.73**  ·  Filip Jorgensen - 4 **3.00**  ·  Filip Jorgensen - 5 **5.50**  ·  Filip Jorgensen - 6 **11.00**  ·  Paul Nardi - 2 **1.14**  ·  Paul Nardi - 3 **1.50**  ·  Paul Nardi - 4 **2.20**  ·  Paul Nardi - 5 **3.75**  ·  Paul Nardi - 6 **7.00**
 - **Anytime Goal Scorer:** Karim Coulibaly **8.50**  ·  Genesis Antwi **6.50**  ·  Joaquin Martinez Gauna **3.75**  ·  Sebastian Nanasi **2.88**  ·  Lucas Hogsberg **7.50**  ·  Pape Diop **4.00**  ·  Sekou Fofana **11.00**  ·  Elikya Legros **9.50**  ·  Alvin Petit Dol **9.50**  ·  Ryan Rodin **3.10**  ·  Tidiane Devernois **6.50**  ·  Remy Labeau Lascary **4.00**  ·  Kevin Danois **6.50**  ·  Sinaly Diomande **11.00**  ·  Mateo Del Blanco **3.75**  ·  Sekou Mara **2.60**  ·  Ismael Doukoure **7.00**  ·  Pierre Ekwah **6.50**  ·  Aristide Zossou **6.50**  ·  Clement Akpa **11.00**  ·  Romain Faivre **2.60**  ·  Naouirou Ahamada **6.50**  ·  Arthur Piedfort **8.50**  ·  Samuel Amo-Ameyaw **3.40**  ·  Jeyland Mitchell **7.00**  ·  Fabio Balde **4.00**  ·  Mamoudou Cissokho **4.50**  ·  Lamfia Dioubate **6.50**  ·  Conrad Harder **2.50**  ·  Tyrese Noubissie **4.50**  ·  Yoann Becker **7.00**  ·  Fredrik Oppegard **7.50**  ·  Yaya Dieme **2.50**  ·  Rayan Mandengue **6.50**  ·  Jacobo Ortega **2.30**  ·  Salimou Danfakha **8.50**  ·  Youssef Khoudda **3.10**  ·  Axel Tuanzebe **13.00**  ·  Cameron Archer **3.10**  ·  Danny Namaso **3.50**  ·  Omari Kellyman **2.60**  ·  Dario Essugo **5.50**  ·  Becket Godo **2.50**  ·  Giovanni Reyna **3.40**  ·  Gessime Yassine **3.75**  ·  Lamine Sy **9.50**  ·  Diogo Sousa **5.00**  ·  Samir El Mourabet **4.50**  ·  Christ Makosso **13.00**
-- **Player to Score or Assist:** Karim Coulibaly **5.00**  ·  Genesis Antwi **3.60**  ·  Joaquin Martinez Gauna **2.50**  ·  Sebastian Nanasi **2.05**  ·  Lucas Hogsberg **4.75**  ·  Pape Diop **2.88**  ·  Sekou Fofana **4.75**  ·  Elikya Legros **6.00**  ·  Alvin Petit Dol **6.50**  ·  Ryan Rodin **2.38**  ·  Tidiane Devernois **3.75**  ·  Remy Labeau Lascary **3.10**  ·  Kevin Danois **3.20**  ·  Sinaly Diomande **6.00**  ·  Mateo Del Blanco **1.95**  ·  Sekou Mara **2.00**  ·  Ismael Doukoure **4.00**  ·  Pierre Ekwah **3.75**  ·  Aristide Zossou **3.60**  ·  Clement Akpa **4.75**  ·  Romain Faivre **2.10**  ·  Naouirou Ahamada **3.20**  ·  Arthur Piedfort **5.50**  ·  Samuel Amo-Ameyaw **2.40**  ·  Jeyland Mitchell **3.25**  ·  Fabio Balde **2.62**  ·  Mamoudou Cissokho **2.88**  ·  Lamfia Dioubate **4.00**  ·  Conrad Harder **1.80**  ·  Tyrese Noubissie **2.60**  ·  Yoann Becker **4.75**  ·  Fredrik Oppegard **5.50**  ·  Yaya Dieme **1.80**  ·  Rayan Mandengue **3.60**  ·  Jacobo Ortega **1.91**  ·  Salimou Danfakha **4.75**  ·  Youssef Khoudda **2.38**  ·  Axel Tuanzebe **6.50**  ·  Cameron Archer **2.40**  ·  Danny Namaso **2.50**  ·  Omari Kellyman **2.05**  ·  Dario Essugo **3.75**  ·  Becket Godo **1.80**  ·  Giovanni Reyna **2.20**  ·  Gessime Yassine **2.25**  ·  Lamine Sy **6.00**  ·  Diogo Sousa **3.40**  ·  Samir El Mourabet **2.75**  ·  Christ Makosso **6.50**
+- **Player to Score or Assist:** Karim Coulibaly **4.75**  ·  Genesis Antwi **3.60**  ·  Joaquin Martinez Gauna **2.50**  ·  Sebastian Nanasi **2.00**  ·  Lucas Hogsberg **4.75**  ·  Pape Diop **2.88**  ·  Sekou Fofana **4.75**  ·  Elikya Legros **6.00**  ·  Alvin Petit Dol **6.50**  ·  Ryan Rodin **2.30**  ·  Tidiane Devernois **4.00**  ·  Remy Labeau Lascary **3.10**  ·  Kevin Danois **3.40**  ·  Sinaly Diomande **6.00**  ·  Mateo Del Blanco **1.95**  ·  Sekou Mara **2.00**  ·  Ismael Doukoure **4.00**  ·  Pierre Ekwah **4.00**  ·  Aristide Zossou **3.75**  ·  Clement Akpa **5.00**  ·  Romain Faivre **2.10**  ·  Naouirou Ahamada **3.40**  ·  Arthur Piedfort **5.50**  ·  Samuel Amo-Ameyaw **2.30**  ·  Jeyland Mitchell **3.20**  ·  Fabio Balde **2.60**  ·  Mamoudou Cissokho **2.88**  ·  Lamfia Dioubate **4.33**  ·  Conrad Harder **1.80**  ·  Tyrese Noubissie **2.50**  ·  Yoann Becker **4.50**  ·  Fredrik Oppegard **5.50**  ·  Yaya Dieme **1.80**  ·  Rayan Mandengue **3.75**  ·  Jacobo Ortega **1.91**  ·  Salimou Danfakha **4.75**  ·  Youssef Khoudda **2.30**  ·  Axel Tuanzebe **7.50**  ·  Cameron Archer **2.40**  ·  Danny Namaso **2.50**  ·  Omari Kellyman **2.05**  ·  Dario Essugo **3.75**  ·  Becket Godo **1.80**  ·  Giovanni Reyna **2.20**  ·  Gessime Yassine **2.25**  ·  Lamine Sy **6.00**  ·  Diogo Sousa **3.25**  ·  Samir El Mourabet **2.75**  ·  Christ Makosso **7.50**
 
 ## Estadísticas de equipo
 | | Strasbourg (total) | Strasbourg en casa | Auxerre (total) | Auxerre fuera |
@@ -125,7 +125,7 @@ _Actualizadas: 30/10 02:04_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Strasbourg:** J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury); I. Doukoure (duda, Injury); S. Nanasi (duda, Injury); J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury); I. Doukoure (duda, Injury); S. Nanasi (duda, Injury)
+**Strasbourg:** J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury); J. Panichelli (baja, Knee Injury); S. Amo-Ameyaw (duda, Inactive); F. Balde (duda, Leg Injury)
 **Auxerre:** A. Diousse (baja, Knee Injury); S. Fofana (baja, Groin Injury); R. Labeau Lascary (baja, Injury); M. Senaya (baja, Hamstring Injury); T. Siwe (baja, Muscle Injury); A. Diousse (baja, Knee Injury); S. Fofana (baja, Groin Injury); R. Labeau Lascary (baja, Injury); M. Senaya (baja, Hamstring Injury); T. Siwe (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
@@ -235,8 +235,8 @@ _Goles esperados: local 1,85 · visitante 1,56 · córners esperados 9,4._
 | Goles del visitante: Más de 1.5 ✅ | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
-| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -4% |
+| Córners más/menos: Más de 9.5 | 44% | 48% | 46% | 1.98 | -9% |
+| Córners más/menos: Menos de 9.5 | 56% | 52% | 54% | 1.82 | -2% |
 | 1X2 descanso: 2 | 28% | 22% | 25% | 4.33 | +7% |
 | 1X2 descanso: X | 37% | 38% | 37% | 2.50 | -7% |
 | 1X2 descanso: 1 | 35% | 41% | 38% | 2.30 | -13% |

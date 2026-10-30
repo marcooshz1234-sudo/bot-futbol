@@ -1,12 +1,12 @@
 # FC Schalke 04 – RB Leipzig
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · VELTINS-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 13:59_
 
-- **1X2:** 1 **3.90**  ·  X **4.00**  ·  2 **1.83**
+- **1X2:** 1 **4.00**  ·  X **4.00**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -35,7 +35,7 @@ _Actualizadas: 30/10 02:03_
     - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.60**  ·  2 **2.30**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.60**  ·  2 **2.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
@@ -46,7 +46,7 @@ _Actualizadas: 30/10 02:03_
 - **To Win Either Half:** 1 **2.20**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.25**
 - **Win Both Halves:** 1 **13.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.00**  ·  Home/No **10.00**  ·  Draw/No **21.00**  ·  Away/No **4.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.00**  ·  Home/No **10.00**  ·  Draw/No **21.00**  ·  Away/No **4.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
@@ -67,7 +67,7 @@ _Actualizadas: 30/10 02:03_
     - 29,5: más **1.80** · menos **1.91**
 - **Shots.1x2:** 1 **2.88**  ·  X **17.00**  ·  2 **1.40**
 - **Home Player Shots On Target Total:** Hee-Chan Hwang - 1 **2.00**  ·  Hee-Chan Hwang - 2 **6.50**  ·  Hee-Chan Hwang - 3 **21.00**  ·  Chukwubuike Adamu - 1 **1.73**  ·  Moussa Sylla - 1 **1.62**  ·  Kenan Karaman - 1 **2.00**  ·  Adil Aouchiche - 1 **1.73**  ·  Timo Becker - 1 **3.50**  ·  Eric Ebimbe - 1 **2.20**  ·  Robin Gosens - 1 **3.00**  ·  Janik Bachmann - 1 **2.62**  ·  Max Gruger - 1 **3.75**  ·  Satoshi Tanaka - 1 **3.50**  ·  Soufiane El-Faouzi - 1 **4.50**  ·  Vitalie Becker - 1 **2.38**  ·  Adrian Gantenbein - 1 **5.50**  ·  Ron Schallenberg - 1 **5.50**  ·  Anton Donkor - 1 **5.50**  ·  Hasan Kurucay - 1 **4.50**  ·  Maximilian Wober - 1 **5.50**  ·  Mertcan Ayhan - 1 **5.50**  ·  Nikola Katic - 1 **5.50**  ·  Chukwubuike Adamu - 2 **4.50**  ·  Moussa Sylla - 2 **4.00**  ·  Kenan Karaman - 2 **6.50**  ·  Adil Aouchiche - 2 **4.50**  ·  Timo Becker - 2 **19.00**  ·  Eric Ebimbe - 2 **8.00**  ·  Robin Gosens - 2 **15.00**  ·  Janik Bachmann - 2 **11.00**  ·  Max Gruger - 2 **21.00**  ·  Satoshi Tanaka - 2 **19.00**  ·  Soufiane El-Faouzi - 2 **21.00**  ·  Vitalie Becker - 2 **10.00**  ·  Adrian Gantenbein - 2 **19.00**  ·  Ron Schallenberg - 2 **19.00**  ·  Anton Donkor - 2 **19.00**  ·  Hasan Kurucay - 2 **21.00**  ·  Maximilian Wober - 2 **21.00**  ·  Mertcan Ayhan - 2 **21.00**  ·  Nikola Katic - 2 **21.00**  ·  Chukwubuike Adamu - 3 **15.00**  ·  Moussa Sylla - 3 **13.00**  ·  Kenan Karaman - 3 **21.00**  ·  Adil Aouchiche - 3 **15.00**  ·  Eric Ebimbe - 3 **21.00**  ·  Kenan Karaman - 4 **21.00**  ·  Edin Dzeko - 1 **1.50**  ·  Edin Dzeko - 2 **3.50**  ·  Edin Dzeko - 3 **10.00**  ·  Edin Dzeko - 4 **21.00**  ·  Luca Vozar - 1 **2.38**  ·  Luca Vozar - 2 **9.00**
-- **Away Player Shots On Target Total:** Johan Bakayoko **23.00**  ·  Mertcan Ayhan **19.00**  ·  Andrija Maksimovic **21.00**  ·  Edin Dzeko **11.00**  ·  Nikola Katic **21.00**  ·  Maximilian Wober **26.00**  ·  Willi Orban **11.00**  ·  Soufiane El-Faouzi **67.00**  ·  Satoshi Tanaka **67.00**  ·  Abdoul Kone **11.00**  ·  Maxime Esteve **21.00**  ·  Neil El Aynaoui **19.00**  ·  Ezechiel Banzuzi **13.00**  ·  Hasan Kurucay **17.00**  ·  Rocco Reitz **34.00**  ·  Dejan Ljubicic **41.00**  ·  Max Finkgrafe **67.00**  ·  Assan Ouedraogo **29.00**  ·  Luca Vozar **29.00**  ·  Kenan Karaman **11.00**  ·  Moussa Sylla **15.00**  ·  Janik Bachmann **17.00**  ·  Bryan Lasme **6.50**  ·  Ron Schallenberg **23.00**  ·  Max Gruger **34.00**  ·  Adrian Gantenbein **29.00**  ·  Anton Donkor **51.00**  ·  Vitalie Becker **67.00**  ·  Samba Konate **19.00**  ·  Benno Kaltefleiter **15.00**  ·  Adil Aouchiche **34.00**  ·  Christopher Nkunku **11.00**  ·  Robin Gosens **17.00**  ·  Brajan Gruda **17.00**  ·  Eric Ebimbe **26.00**  ·  Antonio Nusa **26.00**  ·  Benjamin Henrichs **51.00**  ·  Castello Lukeba **17.00**  ·  Christoph Baumgartner **11.00**  ·  David Raum **29.00**  ·  Lukas Klostermann **23.00**  ·  Nicolas Seiwald **29.00**  ·  Marc Guiu **9.00**  ·  Hee-Chan Hwang **21.00**  ·  Finn Porath **51.00**  ·  Timo Becker **17.00**  ·  Ridle Baku **34.00**  ·  Chukwubuike Adamu **7.50**  ·  Tidiam Gomis **15.00**  ·  Romulo da Cruz **15.00**
+- **Away Player Shots On Target Total:** Johan Bakayoko **26.00**  ·  Mertcan Ayhan **19.00**  ·  Andrija Maksimovic **21.00**  ·  Edin Dzeko **11.00**  ·  Nikola Katic **21.00**  ·  Maximilian Wober **26.00**  ·  Willi Orban **11.00**  ·  Soufiane El-Faouzi **67.00**  ·  Satoshi Tanaka **67.00**  ·  Abdoul Kone **11.00**  ·  Maxime Esteve **21.00**  ·  Neil El Aynaoui **19.00**  ·  Ezechiel Banzuzi **13.00**  ·  Hasan Kurucay **17.00**  ·  Rocco Reitz **34.00**  ·  Dejan Ljubicic **41.00**  ·  Max Finkgrafe **67.00**  ·  Assan Ouedraogo **29.00**  ·  Luca Vozar **29.00**  ·  Kenan Karaman **11.00**  ·  Moussa Sylla **15.00**  ·  Janik Bachmann **17.00**  ·  Bryan Lasme **6.50**  ·  Ron Schallenberg **23.00**  ·  Max Gruger **34.00**  ·  Adrian Gantenbein **29.00**  ·  Anton Donkor **51.00**  ·  Vitalie Becker **67.00**  ·  Samba Konate **19.00**  ·  Benno Kaltefleiter **15.00**  ·  Adil Aouchiche **34.00**  ·  Christopher Nkunku **11.00**  ·  Robin Gosens **17.00**  ·  Brajan Gruda **17.00**  ·  Eric Ebimbe **26.00**  ·  Antonio Nusa **26.00**  ·  Benjamin Henrichs **51.00**  ·  Castello Lukeba **17.00**  ·  Christoph Baumgartner **11.00**  ·  David Raum **29.00**  ·  Lukas Klostermann **23.00**  ·  Nicolas Seiwald **29.00**  ·  Marc Guiu **9.00**  ·  Hee-Chan Hwang **21.00**  ·  Finn Porath **51.00**  ·  Timo Becker **17.00**  ·  Ridle Baku **34.00**  ·  Chukwubuike Adamu **7.50**  ·  Tidiam Gomis **15.00**  ·  Romulo da Cruz **15.00**
 - **Away Player Shots Total:**
     - 14,5: más **1.83** · menos **1.83**
     - 15,5: más **1.80** · menos **1.91**
@@ -217,9 +217,9 @@ _Goles esperados: local 1,03 · visitante 1,74 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 52% | 53% | 1.83 | -3% |
+| 1X2: 2 | 54% | 53% | 53% | 1.80 | -4% |
 | 1X2: X | 24% | 24% | 24% | 4.00 | -5% |
-| 1X2: 1 | 22% | 24% | 23% | 3.90 | -9% |
+| 1X2: 1 | 22% | 24% | 23% | 4.00 | -8% |
 | Doble oportunidad: X2 | 78% | 75% | 76% | 1.25 | -5% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.22 | -7% |
 | Doble oportunidad: 1X | 46% | 49% | 47% | 1.91 | -9% |
@@ -247,8 +247,8 @@ _Goles esperados: local 1,03 · visitante 1,74 · córners esperados 9,8._
 | Goles del visitante: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -6% |
-| 1X2 descanso: 2 | 39% | 41% | 40% | 2.30 | -8% |
-| 1X2 descanso: X | 41% | 36% | 39% | 2.60 | +0% |
-| 1X2 descanso: 1 | 20% | 23% | 22% | 4.00 | -14% |
+| 1X2 descanso: 2 | 39% | 41% | 40% | 2.25 | -10% |
+| 1X2 descanso: X | 41% | 36% | 38% | 2.60 | -0% |
+| 1X2 descanso: 1 | 20% | 23% | 21% | 4.00 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

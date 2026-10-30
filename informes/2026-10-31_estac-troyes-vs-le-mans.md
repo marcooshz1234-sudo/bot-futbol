@@ -1,10 +1,10 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 14:00_
 
 - **1X2:** 1 **2.38**  ·  X **3.50**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.53**
@@ -50,7 +50,7 @@ _Actualizadas: 30/10 02:03_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
 - **Home Team Total Cards:**
     - 1,5: más **1.67** · menos **2.10**
 - **Away Team Total Cards:**

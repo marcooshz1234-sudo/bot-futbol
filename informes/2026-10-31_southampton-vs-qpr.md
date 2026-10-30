@@ -1,13 +1,13 @@
 # Southampton – QPR
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:03_
+_Actualizadas: 30/10 14:00_
 
-- **1X2:** 1 **1.75**  ·  X **3.90**  ·  2 **4.20**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **2.00**
+- **1X2:** 1 **1.80**  ·  X **3.80**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -20,32 +20,32 @@ _Actualizadas: 30/10 02:03_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 10: más **1.80** · menos **2.00**
     - 10,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
     - 4,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **4.33**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.40**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.73** · menos **2.00**
+    - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.40**  ·  2 **2.38**
-- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.33**
-- **Win Both Halves:** 1 **4.50**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **17.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.10**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **4.00**
+- **Win Both Halves:** 1 **5.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **17.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
@@ -61,16 +61,16 @@ _Actualizadas: 30/10 02:03_
 - **Total Shots:**
     - 26,5: más **1.83** · menos **1.83**
     - 27,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **1.28**  ·  X **17.00**  ·  2 **3.60**
+- **Shots.1x2:** 1 **1.36**  ·  X **15.00**  ·  2 **3.10**
 - **Home Player Shots On Target Total:** Zach Abbott - 1 **5.00**  ·  Zach Abbott - 2 **19.00**  ·  Lewis Dobbin - 1 **1.50**  ·  Cyle Larin - 1 **1.20**  ·  Divin Mubama - 1 **1.28**  ·  Leo Scienza - 1 **1.57**  ·  Finn Azaz - 1 **1.73**  ·  Kuryu Matsuki - 1 **2.10**  ·  Samuel Edozie - 1 **1.83**  ·  James Bree - 1 **4.50**  ·  Tom Fellows - 1 **3.25**  ·  Ryan Manning - 1 **2.75**  ·  Caspar Jander - 1 **3.75**  ·  Cameron Bragg - 1 **4.00**  ·  Flynn Downes - 1 **4.00**  ·  Welington - 1 **7.00**  ·  Jack Stephens - 1 **6.00**  ·  Nathan Wood-Gordon - 1 **7.00**  ·  Lewis Dobbin - 2 **3.40**  ·  Cyle Larin - 2 **2.00**  ·  Divin Mubama - 2 **2.25**  ·  Leo Scienza - 2 **3.75**  ·  Finn Azaz - 2 **4.50**  ·  Kuryu Matsuki - 2 **7.00**  ·  Samuel Edozie - 2 **5.50**  ·  James Bree - 2 **21.00**  ·  Tom Fellows - 2 **15.00**  ·  Ryan Manning - 2 **13.00**  ·  Caspar Jander - 2 **21.00**  ·  Cameron Bragg - 2 **21.00**  ·  Flynn Downes - 2 **21.00**  ·  Welington - 2 **19.00**  ·  Jack Stephens - 2 **19.00**  ·  Nathan Wood-Gordon - 2 **19.00**  ·  Lewis Dobbin - 3 **10.00**  ·  Cyle Larin - 3 **4.00**  ·  Divin Mubama - 3 **5.50**  ·  Leo Scienza - 3 **11.00**  ·  Finn Azaz - 3 **15.00**  ·  Kuryu Matsuki - 3 **21.00**  ·  Samuel Edozie - 3 **19.00**  ·  Tom Fellows - 3 **21.00**  ·  Ryan Manning - 3 **21.00**  ·  Lewis Dobbin - 4 **21.00**  ·  Cyle Larin - 4 **10.00**  ·  Divin Mubama - 4 **15.00**  ·  Leo Scienza - 4 **21.00**  ·  Cyle Larin - 5 **21.00**  ·  Divin Mubama - 5 **21.00**  ·  James Ward-Prowse - 1 **1.83**  ·  Keven Schlotterbeck - 1 **2.75**  ·  James Ward-Prowse - 2 **5.50**  ·  Keven Schlotterbeck - 2 **13.00**  ·  James Ward-Prowse - 3 **19.00**
-- **Away Player Shots On Target Total:** Justin Obikwu **21.00**  ·  Finn Azaz **21.00**  ·  Glen Kamara **101.00**  ·  Paul Smyth **34.00**  ·  Cameron Bragg **41.00**  ·  Kwame Poku **29.00**  ·  Richard Kone **11.00**  ·  Lewis Dobbin **19.00**  ·  Tom Fellows **29.00**  ·  Ilias Chair **101.00**  ·  Rayan Kolli **29.00**  ·  Karamoko Dembele **41.00**  ·  Koki Saito **51.00**  ·  Nicolas Madsen **51.00**  ·  Alfie Lloyd **29.00**  ·  Jimmy Dunne **17.00**  ·  Jake Clarke-Salter **17.00**  ·  Liam Morrison **29.00**  ·  Dennis Cirkin **41.00**  ·  Samuel Edozie **29.00**  ·  Rumarn Burrell **15.00**  ·  Keven Schlotterbeck **11.00**  ·  Boy Kemper **21.00**  ·  Caspar Jander **67.00**  ·  Kuryu Matsuki **29.00**  ·  Kealey Adamson **51.00**  ·  Jonathan Varane **51.00**  ·  James Ward-Prowse **23.00**  ·  Cyle Larin **6.50**  ·  Flynn Downes **41.00**  ·  Jack Stephens **15.00**  ·  Tariq Lamptey **81.00**  ·  Zach Abbott **17.00**  ·  Leo Scienza **19.00**  ·  Mads Roerslev **41.00**  ·  James Bree **41.00**  ·  Ronnie Edwards **29.00**  ·  Ryan Manning **29.00**  ·  Nathan Wood-Gordon **12.00**  ·  Harvey Vale **26.00**  ·  Divin Mubama **7.00**  ·  Isak Alemayehu **51.00**  ·  Welington **81.00**
+- **Away Player Shots On Target Total:** Justin Obikwu **21.00**  ·  Finn Azaz **21.00**  ·  Glen Kamara **101.00**  ·  Paul Smyth **34.00**  ·  Cameron Bragg **41.00**  ·  Kwame Poku **29.00**  ·  Richard Kone **11.00**  ·  Lewis Dobbin **19.00**  ·  Tom Fellows **34.00**  ·  Ilias Chair **101.00**  ·  Rayan Kolli **29.00**  ·  Karamoko Dembele **41.00**  ·  Koki Saito **51.00**  ·  Nicolas Madsen **51.00**  ·  Alfie Lloyd **29.00**  ·  Jimmy Dunne **15.00**  ·  Jake Clarke-Salter **17.00**  ·  Liam Morrison **29.00**  ·  Dennis Cirkin **34.00**  ·  Samuel Edozie **34.00**  ·  Rumarn Burrell **15.00**  ·  Keven Schlotterbeck **11.00**  ·  Boy Kemper **21.00**  ·  Caspar Jander **67.00**  ·  Kuryu Matsuki **34.00**  ·  Kealey Adamson **51.00**  ·  Jonathan Varane **51.00**  ·  James Ward-Prowse **23.00**  ·  Cyle Larin **7.50**  ·  Flynn Downes **41.00**  ·  Jack Stephens **17.00**  ·  Tariq Lamptey **81.00**  ·  Zach Abbott **17.00**  ·  Leo Scienza **19.00**  ·  Mads Roerslev **41.00**  ·  James Bree **41.00**  ·  Ronnie Edwards **29.00**  ·  Ryan Manning **29.00**  ·  Nathan Wood-Gordon **12.00**  ·  Harvey Vale **23.00**  ·  Divin Mubama **7.50**  ·  Isak Alemayehu **41.00**  ·  Welington **81.00**
 - **Away Player Shots Total:**
     - 11,5: más **2.00** · menos **1.73**
 - **Home Player Shots:** Zach Abbott - 1 **2.10**  ·  Zach Abbott - 2 **6.50**  ·  Zach Abbott - 3 **19.00**  ·  Lewis Dobbin - 1 **1.06**  ·  Cyle Larin - 1 **1.01**  ·  Divin Mubama - 1 **1.02**  ·  Leo Scienza - 1 **1.11**  ·  Finn Azaz - 1 **1.08**  ·  Kuryu Matsuki - 1 **1.28**  ·  Samuel Edozie - 1 **1.12**  ·  James Bree - 1 **1.91**  ·  Tom Fellows - 1 **1.44**  ·  Ryan Manning - 1 **1.40**  ·  Caspar Jander - 1 **1.62**  ·  Cameron Bragg - 1 **1.62**  ·  Flynn Downes - 1 **1.73**  ·  Welington - 1 **2.62**  ·  Jack Stephens - 1 **2.62**  ·  Nathan Wood-Gordon - 1 **2.62**  ·  Lewis Dobbin - 2 **1.33**  ·  Cyle Larin - 2 **1.10**  ·  Divin Mubama - 2 **1.17**  ·  Leo Scienza - 2 **1.50**  ·  Finn Azaz - 2 **1.44**  ·  Kuryu Matsuki - 2 **2.20**  ·  Samuel Edozie - 2 **1.53**  ·  James Bree - 2 **5.50**  ·  Tom Fellows - 2 **3.00**  ·  Ryan Manning - 2 **2.62**  ·  Caspar Jander - 2 **3.75**  ·  Cameron Bragg - 2 **3.75**  ·  Flynn Downes - 2 **4.33**  ·  Welington - 2 **10.00**  ·  Jack Stephens - 2 **10.00**  ·  Nathan Wood-Gordon - 2 **10.00**  ·  Lewis Dobbin - 3 **2.00**  ·  Cyle Larin - 3 **1.33**  ·  Divin Mubama - 3 **1.50**  ·  Leo Scienza - 3 **2.50**  ·  Finn Azaz - 3 **2.20**  ·  Kuryu Matsuki - 3 **4.50**  ·  Samuel Edozie - 3 **2.62**  ·  James Bree - 3 **17.00**  ·  Tom Fellows - 3 **7.00**  ·  Ryan Manning - 3 **6.50**  ·  Caspar Jander - 3 **11.00**  ·  Cameron Bragg - 3 **11.00**  ·  Flynn Downes - 3 **13.00**  ·  Welington - 3 **21.00**  ·  Jack Stephens - 3 **21.00**  ·  Nathan Wood-Gordon - 3 **21.00**  ·  Lewis Dobbin - 4 **3.40**  ·  Cyle Larin - 4 **1.80**  ·  Divin Mubama - 4 **2.20**  ·  Leo Scienza - 4 **4.50**  ·  Finn Azaz - 4 **4.00**  ·  Kuryu Matsuki - 4 **11.00**  ·  Samuel Edozie - 4 **5.00**  ·  James Bree - 4 **21.00**  ·  Tom Fellows - 4 **19.00**  ·  Ryan Manning - 4 **15.00**  ·  Caspar Jander - 4 **21.00**  ·  Cameron Bragg - 4 **21.00**  ·  Flynn Downes - 4 **21.00**  ·  Lewis Dobbin - 5 **6.50**  ·  Cyle Larin - 5 **2.62**  ·  Divin Mubama - 5 **3.50**  ·  Leo Scienza - 5 **10.00**  ·  Finn Azaz - 5 **8.00**  ·  Kuryu Matsuki - 5 **21.00**  ·  Samuel Edozie - 5 **10.00**  ·  Tom Fellows - 5 **13.00**  ·  Ryan Manning - 5 **17.00**  ·  Lewis Dobbin - 6 **13.00**  ·  Cyle Larin - 6 **4.33**  ·  Divin Mubama - 6 **6.00**  ·  Leo Scienza - 6 **19.00**  ·  Finn Azaz - 6 **17.00**  ·  Kuryu Matsuki - 6 **15.00**  ·  Samuel Edozie - 6 **21.00**  ·  Lewis Dobbin - 7 **21.00**  ·  Cyle Larin - 7 **8.00**  ·  Divin Mubama - 7 **11.00**  ·  Leo Scienza - 7 **19.00**  ·  Finn Azaz - 7 **21.00**  ·  Lewis Dobbin - 8 **21.00**  ·  Cyle Larin - 8 **15.00**  ·  Divin Mubama - 8 **21.00**  ·  James Ward-Prowse - 1 **1.12**  ·  Keven Schlotterbeck - 1 **1.50**  ·  James Ward-Prowse - 2 **1.57**  ·  Keven Schlotterbeck - 2 **3.25**  ·  James Ward-Prowse - 3 **2.62**  ·  Keven Schlotterbeck - 3 **8.00**  ·  James Ward-Prowse - 4 **5.50**  ·  Keven Schlotterbeck - 4 **21.00**  ·  Kuryu Matsuki - 7 **21.00**  ·  Tom Fellows - 6 **21.00**  ·  James Ward-Prowse - 5 **11.00**  ·  James Ward-Prowse - 6 **21.00**  ·  Cyle Larin - 9 **21.00**  ·  Samuel Edozie - 7 **21.00**  ·  Divin Mubama - 9 **21.00**
 - **Away Player Shots:** Ilias Chair - 1 **1.12**  ·  Richard Kone - 1 **1.14**  ·  Karamoko Dembele - 1 **1.18**  ·  Rayan Kolli - 1 **1.10**  ·  Rumarn Burrell - 1 **1.10**  ·  Kwame Poku - 1 **1.11**  ·  Alfie Lloyd - 1 **1.06**  ·  Paul Smyth - 1 **1.18**  ·  Justin Obikwu - 1 **1.07**  ·  Harvey Vale - 1 **1.18**  ·  Koki Saito - 1 **1.50**  ·  Nicolas Madsen - 1 **1.50**  ·  Boy Kemper - 1 **1.83**  ·  Jonathan Varane - 1 **2.00**  ·  Glen Kamara - 1 **2.10**  ·  Kealey Adamson - 1 **2.10**  ·  Jimmy Dunne - 1 **2.10**  ·  Dennis Cirkin - 1 **1.80**  ·  Tariq Lamptey - 1 **1.50**  ·  Jake Clarke-Salter - 1 **3.00**  ·  Liam Morrison - 1 **3.00**  ·  Ronnie Edwards - 1 **2.75**  ·  Ilias Chair - 2 **1.57**  ·  Richard Kone - 2 **1.67**  ·  Karamoko Dembele - 2 **1.80**  ·  Rayan Kolli - 2 **1.50**  ·  Rumarn Burrell - 2 **1.50**  ·  Kwame Poku - 2 **1.50**  ·  Alfie Lloyd - 2 **1.33**  ·  Paul Smyth - 2 **1.83**  ·  Justin Obikwu - 2 **1.36**  ·  Harvey Vale - 2 **1.83**  ·  Koki Saito - 2 **3.25**  ·  Nicolas Madsen - 2 **3.25**  ·  Boy Kemper - 2 **5.00**  ·  Jonathan Varane - 2 **5.50**  ·  Glen Kamara - 2 **6.00**  ·  Kealey Adamson - 2 **6.00**  ·  Jimmy Dunne - 2 **6.00**  ·  Dennis Cirkin - 2 **4.50**  ·  Tariq Lamptey - 2 **3.25**  ·  Jake Clarke-Salter - 2 **11.00**  ·  Liam Morrison - 2 **11.00**  ·  Ronnie Edwards - 2 **11.00**  ·  Ilias Chair - 3 **2.62**  ·  Richard Kone - 3 **2.75**  ·  Karamoko Dembele - 3 **3.40**  ·  Rayan Kolli - 3 **2.38**  ·  Rumarn Burrell - 3 **2.38**  ·  Kwame Poku - 3 **2.50**  ·  Alfie Lloyd - 3 **1.91**  ·  Paul Smyth - 3 **3.50**  ·  Justin Obikwu - 3 **2.10**  ·  Harvey Vale - 3 **3.50**  ·  Koki Saito - 3 **8.00**  ·  Nicolas Madsen - 3 **8.00**  ·  Boy Kemper - 3 **15.00**  ·  Jonathan Varane - 3 **17.00**  ·  Glen Kamara - 3 **19.00**  ·  Kealey Adamson - 3 **19.00**  ·  Jimmy Dunne - 3 **19.00**  ·  Dennis Cirkin - 3 **13.00**  ·  Tariq Lamptey - 3 **8.00**  ·  Ilias Chair - 4 **5.00**  ·  Richard Kone - 4 **5.50**  ·  Karamoko Dembele - 4 **7.00**  ·  Rayan Kolli - 4 **4.33**  ·  Rumarn Burrell - 4 **4.33**  ·  Kwame Poku - 4 **4.50**  ·  Alfie Lloyd - 4 **3.40**  ·  Paul Smyth - 4 **7.00**  ·  Justin Obikwu - 4 **3.50**  ·  Harvey Vale - 4 **7.00**  ·  Koki Saito - 4 **19.00**  ·  Nicolas Madsen - 4 **19.00**  ·  Ilias Chair - 5 **11.00**  ·  Richard Kone - 5 **13.00**  ·  Karamoko Dembele - 5 **15.00**  ·  Rayan Kolli - 5 **9.00**  ·  Rumarn Burrell - 5 **9.00**  ·  Kwame Poku - 5 **10.00**  ·  Alfie Lloyd - 5 **6.00**  ·  Paul Smyth - 5 **17.00**  ·  Justin Obikwu - 5 **7.00**  ·  Harvey Vale - 5 **17.00**  ·  Nicolas Madsen - 5 **21.00**  ·  Ilias Chair - 6 **21.00**  ·  Richard Kone - 6 **21.00**  ·  Karamoko Dembele - 6 **21.00**  ·  Rayan Kolli - 6 **19.00**  ·  Rumarn Burrell - 6 **19.00**  ·  Kwame Poku - 6 **19.00**  ·  Alfie Lloyd - 6 **13.00**  ·  Paul Smyth - 6 **21.00**  ·  Justin Obikwu - 6 **15.00**  ·  Harvey Vale - 6 **21.00**  ·  Ilias Chair - 7 **21.00**  ·  Richard Kone - 7 **21.00**  ·  Rayan Kolli - 7 **21.00**  ·  Rumarn Burrell - 7 **21.00**  ·  Kwame Poku - 7 **21.00**  ·  Jake Clarke-Salter - 3 **21.00**  ·  Liam Morrison - 3 **21.00**  ·  Ronnie Edwards - 3 **21.00**  ·  Alfie Lloyd - 7 **21.00**  ·  Justin Obikwu - 7 **21.00**  ·  Tariq Lamptey - 4 **19.00**  ·  Leon Scarlett - 1 **1.17**  ·  Leon Scarlett - 2 **1.73**  ·  Leon Scarlett - 3 **3.25**  ·  Leon Scarlett - 4 **6.50**  ·  Leon Scarlett - 5 **15.00**  ·  Leon Scarlett - 6 **21.00**
 - **Goalkeeper Saves:** Daniel Peretz - 3 **2.00**  ·  Daniel Peretz - 4 **3.50**  ·  Daniel Peretz - 5 **7.00**  ·  Daniel Peretz - 2 **1.33**  ·  Pierce Charles - 3 **1.40**  ·  Pierce Charles - 4 **2.00**  ·  Pierce Charles - 5 **3.40**  ·  Pierce Charles - 6 **6.00**  ·  Pierce Charles - 7 **11.00**  ·  Pierce Charles - 2 **1.12**  ·  Daniel Peretz - 1 **1.06**
-- **Anytime Goal Scorer:** Justin Obikwu **3.60**  ·  Finn Azaz **3.40**  ·  Glen Kamara **11.00**  ·  Paul Smyth **4.33**  ·  Cameron Bragg **7.50**  ·  Kwame Poku **3.60**  ·  Richard Kone **3.60**  ·  Lewis Dobbin **2.50**  ·  Tom Fellows **4.50**  ·  Ilias Chair **4.00**  ·  Rayan Kolli **3.10**  ·  Karamoko Dembele **4.50**  ·  Koki Saito **6.50**  ·  Nicolas Madsen **6.50**  ·  Alfie Lloyd **3.60**  ·  Jimmy Dunne **13.00**  ·  Jake Clarke-Salter **13.00**  ·  Liam Morrison **13.00**  ·  Dennis Cirkin **13.00**  ·  Samuel Edozie **3.60**  ·  Rumarn Burrell **3.10**  ·  Keven Schlotterbeck **7.00**  ·  Boy Kemper **11.00**  ·  Caspar Jander **7.00**  ·  Kuryu Matsuki **3.60**  ·  Kealey Adamson **11.00**  ·  Leon Scarlett **4.33**  ·  Jonathan Varane **9.50**  ·  James Ward-Prowse **4.33**  ·  Cyle Larin **2.00**  ·  Flynn Downes **7.00**  ·  Jack Stephens **9.50**  ·  Tariq Lamptey **9.50**  ·  Zach Abbott **9.50**  ·  Leo Scienza **3.00**  ·  Mads Roerslev **7.50**  ·  James Bree **7.50**  ·  Ronnie Edwards **13.00**  ·  Ryan Manning **5.00**  ·  Nathan Wood-Gordon **9.50**  ·  Harvey Vale **6.00**  ·  Divin Mubama **2.20**  ·  Isak Alemayehu **6.50**  ·  Welington **9.50**
-- **Player to Score or Assist:** Justin Obikwu **2.75**  ·  Finn Azaz **2.05**  ·  Glen Kamara **6.00**  ·  Paul Smyth **3.00**  ·  Cameron Bragg **3.75**  ·  Kwame Poku **2.40**  ·  Richard Kone **2.75**  ·  Lewis Dobbin **1.67**  ·  Tom Fellows **2.25**  ·  Ilias Chair **2.40**  ·  Rayan Kolli **2.20**  ·  Karamoko Dembele **2.88**  ·  Koki Saito **3.10**  ·  Nicolas Madsen **3.40**  ·  Alfie Lloyd **2.75**  ·  Jimmy Dunne **5.50**  ·  Jake Clarke-Salter **6.00**  ·  Liam Morrison **7.50**  ·  Dennis Cirkin **6.50**  ·  Samuel Edozie **2.30**  ·  Rumarn Burrell **2.38**  ·  Keven Schlotterbeck **4.00**  ·  Boy Kemper **5.00**  ·  Caspar Jander **3.75**  ·  Kuryu Matsuki **2.38**  ·  Kealey Adamson **7.00**  ·  Leon Scarlett **2.50**  ·  Jonathan Varane **6.50**  ·  James Ward-Prowse **2.25**  ·  Cyle Larin **1.62**  ·  Flynn Downes **4.00**  ·  Jack Stephens **6.00**  ·  Tariq Lamptey **5.50**  ·  Zach Abbott **5.00**  ·  Leo Scienza **1.91**  ·  Mads Roerslev **3.75**  ·  James Bree **3.60**  ·  Ronnie Edwards **10.00**  ·  Ryan Manning **2.88**  ·  Nathan Wood-Gordon **5.50**  ·  Harvey Vale **3.10**  ·  Divin Mubama **1.83**  ·  Isak Alemayehu **3.40**  ·  Welington **4.50**
+- **Anytime Goal Scorer:** Justin Obikwu **3.40**  ·  Finn Azaz **3.60**  ·  Glen Kamara **11.00**  ·  Paul Smyth **4.33**  ·  Cameron Bragg **7.50**  ·  Kwame Poku **3.40**  ·  Richard Kone **3.40**  ·  Lewis Dobbin **2.50**  ·  Tom Fellows **5.00**  ·  Ilias Chair **4.00**  ·  Rayan Kolli **3.10**  ·  Karamoko Dembele **4.50**  ·  Koki Saito **6.00**  ·  Nicolas Madsen **6.00**  ·  Alfie Lloyd **3.40**  ·  Jimmy Dunne **11.00**  ·  Jake Clarke-Salter **13.00**  ·  Liam Morrison **13.00**  ·  Dennis Cirkin **11.00**  ·  Samuel Edozie **4.00**  ·  Rumarn Burrell **3.10**  ·  Keven Schlotterbeck **7.00**  ·  Boy Kemper **11.00**  ·  Caspar Jander **7.00**  ·  Kuryu Matsuki **4.00**  ·  Kealey Adamson **11.00**  ·  Leon Scarlett **4.33**  ·  Jonathan Varane **9.50**  ·  James Ward-Prowse **4.33**  ·  Cyle Larin **2.20**  ·  Flynn Downes **7.00**  ·  Jack Stephens **9.50**  ·  Tariq Lamptey **9.50**  ·  Zach Abbott **9.50**  ·  Leo Scienza **2.88**  ·  Mads Roerslev **7.50**  ·  James Bree **7.50**  ·  Ronnie Edwards **13.00**  ·  Ryan Manning **5.00**  ·  Nathan Wood-Gordon **9.50**  ·  Harvey Vale **5.00**  ·  Divin Mubama **2.30**  ·  Isak Alemayehu **6.00**  ·  Welington **9.50**
+- **Player to Score or Assist:** Justin Obikwu **2.75**  ·  Finn Azaz **2.10**  ·  Glen Kamara **6.00**  ·  Paul Smyth **3.00**  ·  Cameron Bragg **3.75**  ·  Kwame Poku **2.38**  ·  Richard Kone **2.62**  ·  Lewis Dobbin **1.67**  ·  Tom Fellows **2.25**  ·  Ilias Chair **2.40**  ·  Rayan Kolli **2.20**  ·  Karamoko Dembele **2.88**  ·  Koki Saito **3.10**  ·  Nicolas Madsen **3.40**  ·  Alfie Lloyd **2.75**  ·  Jimmy Dunne **5.50**  ·  Jake Clarke-Salter **6.00**  ·  Liam Morrison **7.50**  ·  Dennis Cirkin **6.50**  ·  Samuel Edozie **2.30**  ·  Rumarn Burrell **2.38**  ·  Keven Schlotterbeck **4.00**  ·  Boy Kemper **5.00**  ·  Caspar Jander **3.75**  ·  Kuryu Matsuki **2.50**  ·  Kealey Adamson **7.00**  ·  Leon Scarlett **2.50**  ·  Jonathan Varane **6.50**  ·  James Ward-Prowse **2.25**  ·  Cyle Larin **1.73**  ·  Flynn Downes **4.00**  ·  Jack Stephens **6.00**  ·  Tariq Lamptey **5.50**  ·  Zach Abbott **5.00**  ·  Leo Scienza **1.91**  ·  Mads Roerslev **3.75**  ·  James Bree **3.60**  ·  Ronnie Edwards **10.00**  ·  Ryan Manning **2.88**  ·  Nathan Wood-Gordon **5.50**  ·  Harvey Vale **3.10**  ·  Divin Mubama **1.83**  ·  Isak Alemayehu **3.40**  ·  Welington **4.50**
 
 ## Estadísticas de equipo
 | | Southampton (total) | Southampton en casa | QPR (total) | QPR fuera |
@@ -212,12 +212,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 22% | 28% | 4.20 | +19% |
-| 1X2: X | 26% | 24% | 25% | 3.90 | -3% |
-| 1X2: 1 | 40% | 54% | 47% | 1.75 | -18% |
-| Doble oportunidad: X2 | 60% | 47% | 54% | 2.00 | +7% |
-| Doble oportunidad: 12 | 74% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 66% | 77% | 72% | 1.22 | -13% |
+| 1X2: 2 | 34% | 23% | 29% | 4.00 | +15% |
+| 1X2: X | 26% | 25% | 25% | 3.80 | -4% |
+| 1X2: 1 | 40% | 52% | 46% | 1.80 | -17% |
+| Doble oportunidad: X2 | 60% | 48% | 54% | 1.95 | +6% |
+| Doble oportunidad: 12 | 74% | 75% | 75% | 1.25 | -7% |
+| Doble oportunidad: 1X | 66% | 77% | 71% | 1.22 | -13% |
 | Ambos marcan: No | 45% | 39% | 42% | 2.38 | +1% |
 | Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
 | Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -13% |
@@ -230,18 +230,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -1% |
-| Goles del local: Más de 1.5 | 41% | 58% | 49% | 1.62 | -20% |
-| Goles del local: Más de 2.5 | 17% | 34% | 25% | 2.75 | -31% |
-| Goles del local: Menos de 1.5 | 59% | 42% | 51% | 2.20 | +12% |
-| Goles del local: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +5% |
-| Goles del visitante: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
-| Goles del visitante: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del visitante: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
-| Goles del visitante: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
+| Goles del local: Más de 1.5 | 41% | 56% | 48% | 1.67 | -19% |
+| Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -28% |
+| Goles del local: Menos de 1.5 | 59% | 44% | 52% | 2.10 | +9% |
+| Goles del local: Menos de 2.5 | 83% | 69% | 76% | 1.36 | +3% |
+| Goles del visitante: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Goles del visitante: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
+| Goles del visitante: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
+| Goles del visitante: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Córners más/menos: Más de 10.5 | 35% | 46% | 40% | 2.00 | -19% |
 | Córners más/menos: Menos de 10.5 | 65% | 54% | 60% | 1.73 | +3% |
-| 1X2 descanso: 2 | 27% | 21% | 24% | 4.33 | +5% |
-| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
-| 1X2 descanso: 1 | 30% | 41% | 36% | 2.25 | -19% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | -1% |
+| 1X2 descanso: X | 43% | 38% | 40% | 2.40 | -3% |
+| 1X2 descanso: 1 | 30% | 39% | 35% | 2.30 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

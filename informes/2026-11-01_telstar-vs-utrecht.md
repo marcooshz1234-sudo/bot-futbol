@@ -1,12 +1,12 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:04_
+_Actualizadas: 30/10 14:01_
 
-- **1X2:** 1 **2.75**  ·  X **3.70**  ·  2 **2.30**
+- **1X2:** 1 **2.80**  ·  X **3.80**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -44,7 +44,7 @@ _Actualizadas: 30/10 02:04_
 - **To Win Either Half:** 1 **1.83**  ·  2 **1.67**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.75**
 - **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **5.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **17.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
@@ -112,7 +112,7 @@ _Actualizadas: 30/10 02:04_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Utrecht:** A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive); M. Broholm (duda, Inactive); A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive); M. Broholm (duda, Inactive)
+**Utrecht:** A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive); A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury); V. Barkas (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-04-11 · Eredivisie: Utrecht 4-1 Telstar
@@ -194,8 +194,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 39% | 41% | 40% | 2.30 | -8% |
-| 1X2: X | 25% | 25% | 25% | 3.70 | -8% |
-| 1X2: 1 | 36% | 34% | 35% | 2.75 | -4% |
+| 1X2: X | 25% | 25% | 25% | 3.80 | -6% |
+| 1X2: 1 | 36% | 34% | 35% | 2.80 | -2% |
 | Doble oportunidad: X2 | 64% | 67% | 65% | 1.40 | -8% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 61% | 60% | 60% | 1.57 | -5% |

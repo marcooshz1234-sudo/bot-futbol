@@ -1,10 +1,10 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España) · An der Alten Försterei
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 14:02._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 02:04_
+_Actualizadas: 30/10 14:01_
 
 - **1X2:** 1 **2.60**  ·  X **3.50**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
@@ -59,7 +59,7 @@ _Actualizadas: 30/10 02:04_
 - **Away Team Total Cards:**
     - 2,5: más **2.50** · menos **1.50**
 - **Total ShotOnGoal:**
-    - 9,5: más **2.10** · menos **1.67**
+    - 9,5: más **1.80** · menos **1.91**
 - **ShotOnTarget 1x2:** 1 **2.00**  ·  X **7.50**  ·  2 **2.10**
 - **Total Shots:**
     - 27,5: más **1.83** · menos **1.83**
