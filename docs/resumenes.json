@@ -557,5 +557,31 @@
       "total": 46
     },
     "texto": "📊 BALANCE DEL VIERNES: 1 DE 6 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | LIGUE 1 · 7,57\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀 · 2,08\n⏳ 🔥 MI COMBILOCA PERSONAL x20,79 🔥 · 20,79 · pendiente\n❌ ✅ COMBI LOCAS | BUNDESLIGA · 8,76\n❌ ✅ COMBI LOCAS | LALIGA · 6,63\n❌ ✅ COMBI LOCAS | CHAMPIONSHIP · 5,80\n❌ ✅ COMBI LOCAS | LIGUE 1 · 9,55\n⏳ 😩 ¡POR UN CÓRNER OTRA VEZ! 😩 · pendiente\n\n✅ 1 acertadas · ❌ 5 falladas · ⏳ 2 sin resolver"
+  },
+  "2026-10-31": {
+    "dia": "2026-10-31",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-10-31-combi-partido-1557450",
+        "titulo": "✅ COMBI LOCAS | PREMIER",
+        "estado": "pendiente",
+        "cuota": 9.44
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 6
+    },
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
