@@ -30,7 +30,7 @@ NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (6, 6), "cuota": (7.0, 10.0), "ha
 # asiste + gana el Milan) multiplica 16,0 y paga 8,50 (0,53); Monza–Napoli (McTominay 2+ remates, Varela 1+
 # a puerta, Monza marca, Monza +3 córners, +28,5 remates) multiplica 9,46 y paga 6,00 (0,63). Por eso ya no es un factor fijo: va por parejas.
 PROB_MIN_RELAJADA = 0.35   # 29/10 (Marcos): cuota 7-10 siempre; si no sale, patas desde el 35 %
-FACTOR_MIN = 0.45
+FACTOR_MIN = 0.33   # 30/10: Elversberg–Mainz multiplicaba 15,63 y bet365 pagaba 6,00 (0,38): con 0,45 no podía bajar de 7
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
 PROB_MIN_MULTI = 0.60

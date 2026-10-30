@@ -105,7 +105,7 @@ def error_medio(medidas, aj_json):
         f = (m["aj"] ** ap.get("beta", 1.0)) if m.get("aj") else 1.0
         for k, v in m["parejas"]:
             f *= v * math.exp((ap.get("claves") or {}).get(k, 0.0))
-        return m["multiplicando"] * min(1.6, max(0.45, f))
+        return m["multiplicando"] * min(1.6, max(0.33, f))
     if not medidas:
         return None, None
     e0 = sum(abs(pred(m, {}) / m["real"] - 1) for m in medidas) / len(medidas)

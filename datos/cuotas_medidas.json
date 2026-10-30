@@ -388,5 +388,79 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-10-30-combi-partido-1575211",
+  "fecha": "2026-10-30T18:40",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1575211|Goals Over/Under First Half|Over 0.5",
+   "1575211|Double Chance|Home/Draw",
+   "1575211|Both Teams Score|Yes",
+   "1575211|Total Shots|Over 28.5",
+   "1575211|Corners Over Under|Over 9.5",
+   "1575211|Away Corners Over/Under|Over 4.5"
+  ],
+  "cuotas": [
+   1.25,
+   1.67,
+   1.44,
+   1.73,
+   1.8,
+   1.67
+  ],
+  "real": 6.0,
+  "multiplicando": 15.632,
+  "aj": 0.8277087581486238,
+  "parejas": [
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "resultado+tiros/partido",
+    0.87
+   ],
+   [
+    "corners+resultado/partido",
+    1.0
+   ],
+   [
+    "corners+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+tiros/partido",
+    1.0
+   ],
+   [
+    "corners+tiros/partido",
+    1.0
+   ],
+   [
+    "corners+corners/partido",
+    0.95
+   ]
+  ]
  }
 ]
