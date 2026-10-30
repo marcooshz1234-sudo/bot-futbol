@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31 00:24",
+ "actualizado": "2026-10-31 00:34",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -58,9 +58,9 @@
  "total_hoy": -2,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
+  "hora": "01:00",
   "dia": "2026-10-31",
-  "titulo": "Combi Chelsea vs Manchester United"
+  "titulo": "Quién gana hoy"
  },
  "ayer": null,
  "escalera": {
@@ -124,7 +124,7 @@
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 44,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -134,7 +134,7 @@
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
