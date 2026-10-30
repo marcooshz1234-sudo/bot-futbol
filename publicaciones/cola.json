@@ -1947,6 +1947,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-30T23:16",
+    "mensaje_id": 193,
+    "redes": {
+      "threads": "18135551323680278"
+    }
   }
 ]
