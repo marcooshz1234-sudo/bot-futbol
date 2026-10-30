@@ -1860,6 +1860,14 @@
     "foto": null,
     "origen": "marcos",
     "directo": true,
-    "nota": "30/10 12:50: combi personal de Marcos (captura de bet365, sin dinero)"
+    "nota": "30/10 12:50: combi personal de Marcos (captura de bet365, sin dinero)",
+    "enviado": "2026-10-30T12:51",
+    "mensaje_id": 183,
+    "redes": {
+      "threads": "17902173348606607"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
