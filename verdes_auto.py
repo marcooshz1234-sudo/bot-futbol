@@ -15,6 +15,9 @@ from bot import DATOS, MADRID, RAIZ, leer
 
 COLA = RAIZ / "publicaciones" / "cola.json"
 ESTADO = DATOS / "verdes_auto.json"
+ESPERA = DATOS / "verdes_espera.json"   # 30/10: cuándo se vio cada combi toda en verde por primera vez
+ESPERA_MIN = 10                         # minutos en verde antes de celebrarla (gol anulado por el VAR: Espanyol 30/10)
+TERMINADO = {"FT", "AET", "PEN"}
 ES_COMBI = re.compile(r"COMBI|COMBINADA|ESCALERA|GANA O EMPATA|🆚", re.I)
 NO_ES = re.compile(r"¡VERDE|^\s*(📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE|QUIÉN GANA|RESULTADOS EXACTOS", re.U | re.I)   # 27/10: «✅ COMBI LOCAS» sí
 
@@ -38,6 +41,8 @@ def main():
     originales = {p["id"]: p for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or []) + cola
                   + (leer(RAIZ / "publicaciones" / "asistente.json", []) or [])}
     nuevos = []
+    espera_antes = leer(ESPERA, {}) or {}
+    espera = {}
     for p in d.get("publicados_hoy", []):
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
         es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera", p["id"]) and "verde-auto" not in p["id"])
@@ -45,6 +50,14 @@ def main():
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
         if not legs or len(legs) != len(p.get("picks", [])):
+            continue
+        # 30/10: no se celebra al momento. Espera a que terminen los partidos o a que siga en verde 10 min
+        # (si el VAR anula el gol, la pata vuelve a pendiente y no sale el verde)
+        visto = espera_antes.get(p["id"]) or ahora.strftime("%Y-%m-%dT%H:%M")
+        espera[p["id"]] = visto
+        terminados = all(x.get("estado_partido") in TERMINADO for x in legs if x.get("estado_partido"))
+        minutos = (ahora - datetime.fromisoformat(visto).replace(tzinfo=MADRID)).total_seconds() / 60
+        if not terminados and minutos < ESPERA_MIN:
             continue
         x = f" x{num(p['cuota'])}" if p.get("cuota") else ""   # 26/10: la cuota en la primera línea
         titulo = limpio(p["titulo"])
@@ -73,6 +86,7 @@ def main():
             shutil.copy(RAIZ / foto, RAIZ / "publicaciones" / "media" / f"{pid}.tarjeta.jpg")
         nuevos.append(post)
         hechos.add(p["id"])
+    ESPERA.write_text(json.dumps(espera, ensure_ascii=False) + "\n", encoding="utf-8")
     if not nuevos:
         ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
         return
