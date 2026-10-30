@@ -6,9 +6,9 @@
 <title>Panel Combilocas</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
-:root{--bg:#0b1310;--card:#131f1a;--card2:#1a2a23;--line:#22362d;--txt:#eef7f1;--mut:#8aa596;--ok:#4ade80;--ko:#f87171;--warn:#fbbf24;--acc:#22c55e;--r:16px}
+:root{--bg:#070d0a;--card:#121c17;--card2:#1c2b24;--line:#26392f;--txt:#ffffff;--mut:#9fb8aa;--ok:#4ade80;--ko:#f87171;--warn:#fbbf24;--acc:#22c55e;--r:16px}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-html,body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.4 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif}
+html,body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif}
 header{position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 80%,transparent);padding:14px 16px 8px;display:flex;align-items:center;gap:10px}
 header h1{font-size:19px;margin:0;font-weight:800;letter-spacing:.3px;flex:1}
 .mut{color:var(--mut);font-size:13px}
@@ -48,6 +48,28 @@ nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;fon
 #aplicar{position:fixed;left:16px;right:16px;bottom:calc(70px + env(safe-area-inset-bottom));display:none;z-index:6;box-shadow:0 6px 24px rgba(0,0,0,.5);padding:14px;font-size:16px}
 .vacio{text-align:center;color:var(--mut);padding:30px 10px}
 .aviso{background:rgba(251,191,36,.12);color:var(--warn);border-radius:12px;padding:10px 12px;font-size:13px;margin-bottom:10px}
+
+.resumen{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 6px}
+.resumen div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px;text-align:center}
+.resumen b{display:block;font-size:24px;font-weight:800}.resumen span{font-size:12px;color:var(--mut)}
+.prox{background:linear-gradient(135deg,#14532d,#0f2a1d);border:1px solid #1f7a45;border-radius:16px;padding:14px;margin:8px 0 4px}
+.prox .t{font-size:13px;color:#bbf7d0;font-weight:700;text-transform:uppercase;letter-spacing:.8px}
+.prox .n{font-size:20px;font-weight:800;margin-top:2px}
+.post{display:flex;gap:12px;align-items:flex-start}
+.post .h{font-weight:800;font-size:22px;min-width:64px;line-height:1.1}
+.post .h small{display:block;font-size:12px;font-weight:600;color:var(--mut)}
+.post .tit{font-weight:700;font-size:16px}
+.post .tipo{font-size:13px;color:var(--mut)}
+.thumb{width:88px;height:56px;border-radius:10px;object-fit:cover;flex:none;background:var(--card2)}
+.patas{margin-top:8px;font-size:14px;color:#d7e9df;line-height:1.55}
+.iconos{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:10px}
+.iconos .btn{display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 4px;font-size:12px}
+.iconos .btn span{font-size:19px}
+.fila-red{display:flex;align-items:center;gap:10px;padding:12px;border-bottom:1px solid var(--line)}
+.fila-red:last-child{border-bottom:0}
+.pill{font-size:14px;font-weight:700;padding:5px 7px;border-radius:10px;background:var(--card2);color:var(--mut);white-space:nowrap}
+.pill.ok{background:rgba(74,222,128,.16);color:var(--ok)}.pill.ko{background:rgba(248,113,113,.18);color:var(--ko)}
+.lista{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
 </style>
 </head>
 <body>
@@ -69,7 +91,7 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const dia = f => { const h = new Date(); const d = f.slice(0,10); const hoy = h.toISOString().slice(0,10);
   const man = new Date(h.getTime()+864e5).toISOString().slice(0,10); return d===hoy?"Hoy":d===man?"Mañana":d.slice(8,10)+"/"+d.slice(5,7) };
-const TABS = [["cola","📅","Cola"],["redes","📡","Redes"],["com","💬","Comentarios"],["ajustes","🎛️","Ajustes"],["rend","📈","Números"]];
+const TABS = [["cola","📅","Cola"],["redes","📡","Redes"],["com","💬","Respuestas"],["ajustes","🎛️","Ajustes"],["rend","📈","Números"]];
 
 async function cargar(){
   try { D = await (await fetch("datos.json?t="+Date.now(), {cache:"no-store"})).json(); }
@@ -103,31 +125,44 @@ function subir(){
   location.href = BOT;
 }
 // ---------- 📅 cola
+function titulo(texto){ const l = texto.split("\n").filter(x=>x.trim());
+  return l.length>1 && /COMBI LOCAS/i.test(l[0]) ? l[1] : l[0] || ""; }
+function patas(texto){ return texto.split("\n").filter(l => /^\s*(🎯|✅)/.test(l) && !/COMBI LOCAS/i.test(l)).slice(0,6)
+  .map(l => esc(l.replace(/\s*\[x[\d.]+\]/, "")).replace(/^(🎯|✅)\s*/, "• ")); }
+function cuotaDe(texto){ const m = texto.match(/(?:Cuota total aprox\.:|CUOTA|x)\s*(\d+,\d\d)/); return m ? m[1] : ""; }
 function vCola(){
   if (!D.cola.length) return `<div class="vacio">No hay nada programado en las próximas 48 h</div>`;
-  let h = "", ult = "";
+  const vivos = D.cola.filter(p => !p.cancelado);
+  const hoy = new Date().toISOString().slice(0,10);
+  const p0 = vivos[0];
+  let h = p0 ? `<div class="prox"><div class="t">Lo siguiente · ${p0.fecha.slice(11,16)}</div><div class="n">${esc(titulo(cambio("texto",p0.id)?.t || p0.texto))}</div><div class="mut" style="color:#bbf7d0">${esc(p0.tipo)}</div></div>` : "";
+  h += `<div class="resumen"><div><b>${vivos.filter(p=>p.fecha.slice(0,10)===hoy).length}</b><span>salen hoy</span></div><div><b>${vivos.length}</b><span>en 48 h</span></div><div><b>${D.cola.length-vivos.length}</b><span>cancelados</span></div></div>`;
+  let ult = "";
   D.cola.forEach(p => {
     const d = dia(p.fecha); if (d !== ult) { h += `<h2>${d}</h2>`; ult = d; }
     const cH = cambio("hora", p.id), cT = cambio("texto", p.id), cC = cambio("cancelar", p.id), cR = cambio("recuperar", p.id), cY = cambio("ya", p.id);
     const cancel = (p.cancelado && !cR) || cC;
-    const texto = cT ? cT.t : p.texto;
+    const texto = cT ? cT.t : p.texto, abierto = abiertos.has(p.id), ps = patas(texto), q = cuotaDe(texto);
     h += `<div class="card ${cancel?"cancel":""} ${cH||cT||cC||cR||cY?"pend":""}">
-      <div class="row"><span class="hora">${esc(cY?"Ya":cH?cH.h:p.fecha.slice(11,16))}</span>
-        <div class="sp"><b>${esc(p.tipo)}</b>${p.editado||cT?` <span class="chip warn">editado</span>`:""}${cancel?` <span class="chip ko">cancelado</span>`:""}</div></div>
-      ${p.imagen?`<img class="img" loading="lazy" src="${esc(p.imagen)}" onclick="this.style.aspectRatio='auto';this.style.objectFit='contain'">`:""}
-      ${editando===p.id ? `<textarea id="ed">${esc(texto)}</textarea>
-        <div class="acciones"><button class="btn sm acc" onclick="guardarTexto('${p.id}')">Guardar texto</button><button class="btn sm" onclick="editando=null;pintar()">Cancelar</button></div>`
-      : `<div class="txt ${abiertos.has(p.id)?"abierto":""}" onclick="abrir('${p.id}')">${esc(texto)}</div>`}
-      ${editando===p.id?"":`<div class="acciones">
-        <button class="btn sm" onclick="editando='${p.id}';pintar()">✏️ Texto</button>
-        <label class="btn sm">🕒 <input type="time" value="${esc(cH?cH.h:p.fecha.slice(11,16))}" style="padding:2px 4px;border:0" onchange="poner({a:'hora',id:'${p.id}',h:this.value,f:'${p.fecha.slice(0,10)}'})"></label>
-        <button class="btn sm" onclick="poner({a:'ya',id:'${p.id}',quitar:!!cambio('ya','${p.id}')})">⚡ Sacar ya</button>
-        ${cancel ? `<button class="btn sm" onclick="${cC?`poner({a:'cancelar',id:'${p.id}',quitar:true})`:`poner({a:'recuperar',id:'${p.id}'})`}">↩️ Recuperar</button>`
-                 : `<button class="btn sm ko" onclick="${cR?`poner({a:'recuperar',id:'${p.id}',quitar:true})`:`poner({a:'cancelar',id:'${p.id}'})`}">✕ Cancelar</button>`}
+      <div class="post" onclick="abrir('${p.id}')">
+        <div class="h">${esc(cY?"Ya":cH?cH.h:p.fecha.slice(11,16))}${q?`<small>x${esc(q)}</small>`:""}</div>
+        <div class="sp"><div class="tit">${esc(titulo(texto))}</div><div class="tipo">${esc(p.tipo)}${p.editado||cT?" · ✏️ editado":""}${cancel?" · ✕ cancelado":""}</div></div>
+        ${p.imagen?`<img class="thumb" loading="lazy" src="${esc(p.imagen)}">`:""}
+      </div>
+      ${ps.length && !abierto ? `<div class="patas">${ps.join("<br>")}</div>` : ""}
+      ${abierto ? (editando===p.id ? `<textarea id="ed">${esc(texto)}</textarea>
+          <div class="acciones"><button class="btn acc" onclick="guardarTexto('${p.id}')">Guardar texto</button><button class="btn" onclick="editando=null;pintar()">Cancelar</button></div>`
+        : `${p.imagen?`<img class="img" loading="lazy" src="${esc(p.imagen)}">`:""}<div class="txt abierto">${esc(texto)}</div>`) : ""}
+      ${editando===p.id ? "" : `<div class="iconos">
+        <button class="btn" onclick="editando='${p.id}';abiertos.add('${p.id}');pintar()"><span>✏️</span>Texto</button>
+        <label class="btn" style="position:relative"><span>🕒</span>Hora<input type="time" value="${esc(cH?cH.h:p.fecha.slice(11,16))}" style="position:absolute;inset:0;opacity:0;width:100%;height:100%" onchange="poner({a:'hora',id:'${p.id}',h:this.value,f:'${p.fecha.slice(0,10)}'})"></label>
+        <button class="btn ${cY?"acc":""}" onclick="poner({a:'ya',id:'${p.id}',quitar:!!cambio('ya','${p.id}')})"><span>⚡</span>Sacar ya</button>
+        ${cancel ? `<button class="btn" onclick="${cC?`poner({a:'cancelar',id:'${p.id}',quitar:true})`:`poner({a:'recuperar',id:'${p.id}'})`}"><span>↩️</span>Recuperar</button>`
+                 : `<button class="btn ko" onclick="${cR?`poner({a:'recuperar',id:'${p.id}',quitar:true})`:`poner({a:'cancelar',id:'${p.id}'})`}"><span>✕</span>Cancelar</button>`}
       </div>`}
     </div>`;
   });
-  return h;
+  return h + `<div class="mut" style="text-align:center;margin-top:8px">Toca un post para ver el texto entero y la foto</div>`;
 }
 function abrir(id){ abiertos.has(id) ? abiertos.delete(id) : abiertos.add(id); pintar(); }
 function guardarTexto(id){ const t = $("#ed").value; const p = D.cola.find(x=>x.id===id); editando = null;
@@ -135,17 +170,18 @@ function guardarTexto(id){ const t = $("#ed").value; const p = D.cola.find(x=>x.
 // ---------- 📡 redes
 const ICO = {telegram:"✈️", threads:"@", instagram:"📷"};
 function vRedes(){
-  const fallos = D.redes.filter(p=>Object.values(p.redes).some(r=>r.error));
-  let h = fallos.length ? `<h2>Con fallos</h2>` + fallos.map(tarjetaRed).join("") : `<div class="card row"><span style="font-size:22px">👌</span><div class="sp"><b>Todo publicado</b><div class="mut">Sin fallos en las últimas 30 h</div></div></div>`;
-  h += `<h2>Últimas 30 h</h2>` + D.redes.filter(p=>!fallos.includes(p)).map(tarjetaRed).join("");
+  const conFallo = p => Object.values(p.redes).some(r=>r.error);
+  const fallos = D.redes.filter(conFallo), resto = D.redes.filter(p=>!conFallo(p));
+  const pend = D.redes.reduce((n,p)=>n+Object.values(p.redes).filter(r=>!r.ok&&!r.error).length,0);
+  let h = `<div class="resumen"><div><b>${D.redes.length}</b><span>posts 30 h</span></div><div><b style="color:${fallos.length?"var(--ko)":"var(--ok)"}">${fallos.length}</b><span>con fallos</span></div><div><b>${pend}</b><span>pendientes</span></div></div>`;
+  if (fallos.length) h += `<h2>Con fallos</h2>` + fallos.map(p => `<div class="card"><div class="post"><div class="h" style="font-size:18px">${p.fecha.slice(11,16)}</div><div class="sp"><div class="tit">${esc(p.titulo)}</div><div class="tipo">${esc(p.tipo)} · ${dia(p.fecha)}</div></div></div>
+      ${Object.entries(p.redes).filter(([,r])=>r.error).map(([red,r]) => `<div style="margin-top:10px"><span class="pill ko">${ICO[red]} ${red} ✕</span> <span class="mut">${esc(r.error)}</span>
+        ${r.bloqueo?`<div class="mut" style="margin-top:6px">ℹ️ ${esc(r.bloqueo)}</div>`:`<div style="margin-top:8px"><button class="btn ${cambio('retry',r.clave)?'acc':''}" onclick="poner({a:'retry',k:'${r.clave}',quitar:!!cambio('retry','${r.clave}')})">🔁 Reintentar en ${red}</button></div>`}</div>`).join("")}</div>`).join("");
+  else h += `<div class="card row"><span style="font-size:24px">👌</span><div class="sp"><b>Todo publicado bien</b><div class="mut">Sin fallos en las últimas 30 h</div></div></div>`;
+  h += `<h2>Últimas 30 h</h2><div class="lista">` + resto.map(p => `<div class="fila-red"><b style="min-width:48px">${p.fecha.slice(11,16)}</b><div class="sp" style="font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(p.titulo)}</div>
+      ${Object.entries(p.redes).map(([red,r]) => `<span class="pill ${r.ok?"ok":""}" title="${red}">${r.ok?ICO[red]:"⏳"}</span>`).join("")}</div>`).join("") + `</div>
+    <div class="mut" style="margin-top:8px">Verde = publicado · ⏳ = aún no ha salido en esa red</div>`;
   return h;
-}
-function tarjetaRed(p){
-  return `<div class="card"><div class="row"><span class="hora" style="font-size:16px">${p.fecha.slice(11,16)}</span><div class="sp"><b>${esc(p.titulo)}</b><div class="mut">${esc(p.tipo)} · ${dia(p.fecha)}</div></div></div>
-    ${Object.entries(p.redes).map(([red,r]) => `<div class="red"><span style="width:22px;text-align:center">${ICO[red]}</span>
-      <span class="sp">${red[0].toUpperCase()+red.slice(1)}</span>${r.ok?`<span class="chip ok">✓ publicado</span>`:r.error?`<span class="chip ko">✕ falló</span>`:`<span class="chip">⏳ pendiente</span>`}</div>
-      ${r.error?`<div class="mut" style="margin:4px 0 0 28px">${esc(r.error)}</div>${r.bloqueo?`<div class="mut" style="margin:4px 0 0 28px">ℹ️ ${esc(r.bloqueo)}</div>`:
-        `<div style="margin:6px 0 0 28px"><button class="btn sm ${cambio('retry',r.clave)?'acc':''}" onclick="poner({a:'retry',k:'${r.clave}',quitar:!!cambio('retry','${r.clave}')})">🔁 Reintentar en ${red}</button></div>`}`:""}`).join("")}</div>`;
 }
 // ---------- 💬 comentarios
 function vCom(){
