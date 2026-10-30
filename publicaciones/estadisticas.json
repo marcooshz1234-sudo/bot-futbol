@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 01:28",
+ "actualizado": "2026-10-30 01:39",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -14,15 +14,15 @@
    ]
   },
   "threads": {
-   "seguidores": 1289,
-   "hoy": 8,
+   "seguidores": 1291,
+   "hoy": 10,
    "serie": [
     930,
     938,
     983,
     1225,
     1281,
-    1289
+    1291
    ]
   },
   "facebook": {
@@ -51,13 +51,13 @@
    ]
   }
  },
- "total": 1439,
- "total_hoy": 12,
+ "total": 1441,
+ "total_hoy": 14,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:30",
+  "hora": "13:30",
   "dia": "2026-10-30",
-  "titulo": "Combi Nice vs Rennes"
+  "titulo": "Combi del viernes x2,75"
  },
  "ayer": null,
  "escalera": {
@@ -108,7 +108,7 @@
   },
   "2026-10-30": {
    "instagram": 20,
-   "threads": 1289,
+   "threads": 1291,
    "facebook": 0,
    "telegram": 130
   }
