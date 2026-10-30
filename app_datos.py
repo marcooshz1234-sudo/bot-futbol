@@ -895,6 +895,13 @@ def main():
         publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
 
+    # 30/10 (Marcos): aviso al móvil cuando a una combi solo le falta una pata
+    try:
+        import a_una_pata
+        a_una_pata.avisar(publicados_hoy, ahora)
+    except Exception as e:
+        print("a una pata:", str(e)[:150])
+
     # --- redes
     stats = leer(RAIZ / "publicaciones" / "estadisticas.json", {}) or {}
 
