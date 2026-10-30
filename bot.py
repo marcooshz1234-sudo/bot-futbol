@@ -254,6 +254,34 @@ def recortar_partido(p):
                 "paradas": (s.get("goals") or {}).get("saves") or 0,
             })
         reg["jugadores"][str(bloque["team"]["id"])] = lista
+    return quitar_goles_anulados(reg)
+
+
+GOLES_ANULADOS = DATOS / "goles_anulados.json"
+
+
+def quitar_goles_anulados(reg):
+    """30/10 (Marcos): goles que la API da por buenos pero el VAR anuló (Espanyol en Villarreal, 30/10).
+    datos/goles_anulados.json: {"<id partido>": [{"equipo": <id>, "min": <minuto>}]}. Se quita el gol del
+    marcador, del descanso, de los 90 min, de los eventos y al goleador. Si la API ya lo quitó, no hace nada."""
+    for g in (leer(GOLES_ANULADOS, {}) or {}).get(str(reg["id"])) or []:
+        ev = next((e for e in reg["eventos"] if e["tipo"] == "Goal" and e["equipo"] == g["equipo"]
+                   and e["min"] == g["min"]), None)
+        if not ev:
+            continue
+        reg["eventos"].remove(ev)
+        lado = 0 if reg["local"]["id"] == g["equipo"] else 1
+        if "Own Goal" in str(ev.get("detalle")):
+            lado = 1 - lado
+        claves = ["goles"] + (["goles_90"] if g["min"] <= 90 else []) + (["descanso"] if g["min"] <= 45 else [])
+        for k in claves:
+            if reg.get(k) and reg[k][lado]:
+                reg[k][lado] -= 1
+        for j in reg["jugadores"].get(str(g["equipo"])) or []:
+            if j["nombre"] == ev.get("jugador") and j["goles"]:
+                j["goles"] -= 1
+            if ev.get("otro") and j["nombre"] == ev["otro"] and j["asist"]:
+                j["asist"] -= 1
     return reg
 
 
