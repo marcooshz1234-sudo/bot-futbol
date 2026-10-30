@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 22:55",
+ "actualizado": "2026-10-30 23:05",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -38,8 +38,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 165,
-   "hoy": 39,
+   "seguidores": 164,
+   "hoy": 38,
    "serie": [
     72,
     71,
@@ -47,17 +47,17 @@
     80,
     113,
     126,
-    165
+    164
    ]
   }
  },
- "total": 1539,
- "total_hoy": 112,
+ "total": 1538,
+ "total_hoy": 111,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-10-30",
-  "titulo": "7 picks para mañana"
+  "hora": "00:30",
+  "dia": "2026-10-31",
+  "titulo": "Combi Chelsea vs Manchester United"
  },
  "ayer": {
   "aciertos": 6,
@@ -113,22 +113,22 @@
    "instagram": 20,
    "threads": 1354,
    "facebook": 0,
-   "telegram": 165
+   "telegram": 164
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 44,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 43,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
