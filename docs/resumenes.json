@@ -492,14 +492,14 @@
   },
   "2026-10-30": {
     "dia": "2026-10-30",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -507,13 +507,19 @@
         "titulo": "✅ COMBI LOCAS | LIGUE 1",
         "estado": "pendiente",
         "cuota": 7.57
+      },
+      {
+        "id": "2026-10-30-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀",
+        "estado": "pendiente",
+        "cuota": 2.08
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 10
+      "total": 12
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | LIGUE 1 · 7,57 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | LIGUE 1 · 7,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,08 🍀 · 2,08 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
