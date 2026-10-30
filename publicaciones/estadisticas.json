@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 18:39",
+ "actualizado": "2026-10-30 18:49",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -14,15 +14,15 @@
    ]
   },
   "threads": {
-   "seguidores": 1349,
-   "hoy": 68,
+   "seguidores": 1350,
+   "hoy": 69,
    "serie": [
     930,
     938,
     983,
     1225,
     1281,
-    1349
+    1350
    ]
   },
   "facebook": {
@@ -38,8 +38,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 162,
-   "hoy": 36,
+   "seguidores": 164,
+   "hoy": 38,
    "serie": [
     72,
     71,
@@ -47,17 +47,17 @@
     80,
     113,
     126,
-    162
+    164
    ]
   }
  },
- "total": 1531,
- "total_hoy": 104,
+ "total": 1534,
+ "total_hoy": 107,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "18:40",
+  "hora": "19:10",
   "dia": "2026-10-30",
-  "titulo": "Combi Sv Elversberg vs Fsv Mainz 05"
+  "titulo": "Combi Villarreal vs Espanyol"
  },
  "ayer": {
   "aciertos": 6,
@@ -111,14 +111,14 @@
   },
   "2026-10-30": {
    "instagram": 20,
-   "threads": 1349,
+   "threads": 1350,
    "facebook": 0,
-   "telegram": 162
+   "telegram": 164
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 39,
+   "posts": 40,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -139,11 +139,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
