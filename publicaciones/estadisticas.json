@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 19:00",
+ "actualizado": "2026-10-30 19:11",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -55,9 +55,9 @@
  "total_hoy": 107,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "19:10",
+  "hora": "19:40",
   "dia": "2026-10-30",
-  "titulo": "Combi Villarreal vs Espanyol"
+  "titulo": "Combi Sheffield Utd vs Wrexham"
  },
  "ayer": {
   "aciertos": 6,
@@ -118,7 +118,7 @@
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 40,
+   "posts": 41,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -138,7 +138,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
