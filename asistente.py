@@ -109,6 +109,7 @@ def guardar_archivos(rutas, mensaje):
 
 
 LOG = RAIZ / "datos" / "asistente_log.txt"
+PANEL_URL = "https://marcooshz1234-sudo.github.io/bot-futbol/panel/"
 
 
 def registrar(texto):
@@ -341,6 +342,10 @@ class Asistente:
             actual = c["textos"].get(p["id"], p["texto"])
             return self.enviar(f"✏️ Así está ahora «{titulo}» ({p['fecha'][11:16]}):\n\n{actual}\n\n"
                                "Mándame el texto nuevo completo (el aviso de +18 lo pongo yo).")
+        if orden in ("/panel",) or (orden == "/start" and len(partes) == 1):
+            self.boton_panel()
+            if orden == "/panel":
+                return None
         if orden in ("/start", "/ayuda"):
             return self.enviar(__doc__.split("Comandos:")[1].split("Lo que decides")[0].strip())
         if orden == "/gifs":   # 28/10: Marcos elige los GIF que pueden salir en el canal
@@ -703,7 +708,35 @@ class Asistente:
         return self.enviar("\n".join(res))
 
     # ---------------------------------------------------------------- mensajes
+    def boton_panel(self):
+        """30/10: botón fijo «📱 Panel» abajo del chat: abre el panel de control (docs/panel) como mini app."""
+        return api(self.t, "sendMessage", {"chat_id": self.duenio, "text": "📱 Tu panel de control, siempre en el botón de abajo.",
+                                           "reply_markup": {"keyboard": [[{"text": "📱 Panel", "web_app": {"url": PANEL_URL}}]],
+                                                            "resize_keyboard": True, "is_persistent": True}})
+
+    def acciones_panel(self, m):
+        """30/10: lo que manda el panel (todos los cambios juntos) → se aplica y se sube al repositorio."""
+        import panel_acciones
+        try:
+            datos = json.loads(m["web_app_data"]["data"])
+        except Exception:
+            return self.enviar("⚠️ No entiendo lo que ha mandado el panel. Prueba otra vez.")
+        acc = datos.get("acc") or []
+        pide_subir = any(a.get("a") == "subir" for a in acc)
+        lineas, archivos = panel_acciones.aplicar({"acc": [a for a in acc if a.get("a") != "subir"]})
+        if archivos:
+            ok = guardar_archivos(archivos, f"panel: {len(lineas)} cambios")
+            if not ok:
+                lineas.append("⚠️ No he podido guardarlo en el repositorio: inténtalo otra vez en un minuto.")
+        if lineas:
+            self.enviar("✅ Hecho desde el panel:\n\n" + "\n".join(lineas))
+        if pide_subir:
+            return self.enviar("➕ Mándame la foto (captura, boleto…) o el texto que quieres subir y te pregunto qué hago con él.")
+        return None
+
     def mensaje(self, m):
+        if m.get("web_app_data"):   # 30/10: cambios desde el panel de control
+            return self.acciones_panel(m)
         texto = m.get("text") or m.get("caption") or ""
         if texto.startswith("/"):
             return self.cmd(texto)

@@ -151,7 +151,8 @@ def lleva_enlace(p):
     if "verde" in pid:
         return True
     if any(k in pid for k in CON_ENLACE) and p.get("fecha", "") >= DESDE_ENLACE:   # los ya publicados, no
-        return True
+        from panel_datos import ajustes
+        return bool(ajustes()["enlace_threads"])   # 30/10: se puede apagar desde el panel
     if "balance" in pid:
         m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", p.get("texto", ""))
         return bool(m) and int(m.group(1)) > int(m.group(2))
@@ -290,6 +291,60 @@ def responder_threads(token):
         RESPUESTAS.write_text(json.dumps(lista, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
+COMENTARIOS = RAIZ / "datos" / "comentarios_threads.json"
+CADA_COMENTARIOS = timedelta(minutes=15)
+SUGERENCIAS = [   # 30/10 (Marcos): respuestas cortas, en plan chaval, sin tildes
+    (("?", "recomiend", "meto", "meterias", "sale ", "crees", "que opinas", "vale la pena", "entro"),
+     ["Yo la llevo tio 🍀", "Hoy salimos de dudas 💪", "Esa yo no la tocaria 🙅‍♂️"]),
+    (("falt", "corner", "casi", "por poco", "joder", "una ", "pena", "rojo", "fallo", "palo"),
+     ["Que pena tio, mañana la sacamos 💪", "Nos dolio a todos 💔", "Por nada se escapa, la proxima es nuestra 🍀"]),
+    (("verde", "gan", "dentro", "crack", "maquina", "gracias", "grande", "bien", "toma", "cobr"),
+     ["Maquina 🔥", "A por la siguiente 💚", "Asi se hace crack 🔥"]),
+]
+GENERICAS = ["Vamos tio 💪", "Gracias crack 💚", "🔥🔥"]
+
+
+def sugerir(texto):
+    t = (texto or "").lower()
+    for claves, frases in SUGERENCIAS:
+        if any(k in t for k in claves):
+            return frases
+    return GENERICAS
+
+
+def leer_comentarios(token, posts, ahora):
+    """30/10: comentarios nuevos de los posts de Threads de las últimas 48 h, para contestarlos desde el panel.
+    No se guardan los nuestros ni los ya contestados. Cada 10 minutos como mucho."""
+    lista = json.loads(COMENTARIOS.read_text(encoding="utf-8")) if COMENTARIOS.exists() else []
+    marca = COMENTARIOS.with_suffix(".visto")
+    if marca.exists() and ahora - datetime.fromisoformat(marca.read_text().strip()) < CADA_COMENTARIOS:
+        return
+    marca.write_text(ahora.isoformat())
+    ya = {c["id"] for c in lista}
+    desde = (ahora - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M")
+    nuevos = 0
+    for p in posts:
+        tid = id_publicado((p.get("redes") or {}).get("threads"))
+        if not tid or p["fecha"] < desde:
+            continue
+        try:
+            r = llamar("GET", f"{THREADS}/{tid}/replies", {"fields": "id,username,text,timestamp", "access_token": token})
+        except Exception as e:
+            print("comentarios:", str(e)[:120])
+            continue
+        l = [x for x in (p.get("texto") or "").strip().splitlines() if x.strip()]
+        post = (l[1] if l and "COMBI LOCAS" in l[0].upper() and len(l) > 1 else (l[0] if l else p["id"]))[:60]
+        for x in r.get("data", []):
+            if x["id"] in ya or (x.get("username") or "").lower() == "combilocas" or not x.get("text"):
+                continue
+            lista.append({"id": x["id"], "post_id": tid, "post": post, "usuario": x.get("username"), "texto": x["text"][:400],
+                          "fecha": (x.get("timestamp") or "")[:16], "sugerencias": sugerir(x["text"])})
+            nuevos += 1
+    COMENTARIOS.write_text(json.dumps(lista[-300:], ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    if nuevos:
+        print(f"Threads: {nuevos} comentarios nuevos")
+
+
 def main(objetivo=None):
     control = json.loads(CONTROL.read_text(encoding="utf-8")) if CONTROL.exists() else {}
     if control.get("pausa"):
@@ -313,6 +368,11 @@ def main(objetivo=None):
         p.update(est_auto.get(p["id"], {}))
     ids_cola = {p["id"] for p in cola}
     cola_total = cola + [p for p in auto if p["id"] not in ids_cola]
+    if claves["threads"] and not objetivo and os.environ.get("GITHUB_ACTIONS") == "true":   # 30/10: para el panel
+        try:
+            leer_comentarios(claves["threads"], cola_total, datetime.now(MADRID))
+        except Exception as e:
+            print("comentarios Threads:", str(e)[:150])
     ahora = datetime.now(MADRID)
     ultimo_fb = next((p.get("facebook_tipo") for p in sorted(cola_total, key=lambda x: x["fecha"], reverse=True)
                       if p.get("facebook_tipo")), "texto")

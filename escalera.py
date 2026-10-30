@@ -122,7 +122,9 @@ def main():
                 _, sel, cuota = elegido
                 ahora = datetime.now(MADRID)
                 # se publica a las 11:00; si se prepara más tarde ese mismo día, dentro de 15 min
-                hora = "11:00" if dia > hoy or ahora.strftime("%H:%M") < "10:45" else (ahora + timedelta(minutes=15)).strftime("%H:%M")
+                from panel_datos import ajustes
+                h_esc = ajustes()["hora_escalera"]
+                hora = None if dia > hoy or ahora.strftime("%H:%M") < h_esc else (ahora + timedelta(minutes=15)).strftime("%H:%M")
                 estado["actual"] = {"dia": dia, "escalon": estado["escalon"], "stake": estado["stake"],
                                     "cuota": cuota, "picks": sel, "hora": hora,
                                     "anterior": estado["historial"][-1] if estado["historial"] else None}

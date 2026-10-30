@@ -895,6 +895,13 @@ def main():
         publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
 
+    # 30/10 (Marcos): datos del panel de control (docs/panel/datos.json)
+    try:
+        import panel_datos
+        panel_datos.main()
+    except Exception as e:
+        print("panel:", str(e)[:150])
+
     # 30/10 (Marcos): aviso al móvil cuando a una combi solo le falta una pata
     try:
         import a_una_pata

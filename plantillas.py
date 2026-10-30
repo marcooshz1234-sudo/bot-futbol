@@ -329,7 +329,8 @@ def posts_del_dia(dia, d):
         else:
             intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
-        h_esc, m_esc = (int(x) for x in (act.get("hora") or "11:00").split(":"))   # 29/10: si se prepara tarde, sale tarde
+        from panel_datos import ajustes   # 30/10: hora de la escalera desde el panel
+        h_esc, m_esc = (int(x) for x in (act.get("hora") or ajustes()["hora_escalera"]).split(":"))   # 29/10: si se prepara tarde, sale tarde
         posts.append(("escalera", f.replace(hour=h_esc, minute=m_esc), act["picks"],
                       f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 · x{num(act['cuota'])} 🍀\n\n{intro}\n\n"
                       f"{lista(act['picks'])}\n\n🎯 CUOTA {num(act['cuota'])} 💎 · "
@@ -371,7 +372,9 @@ def posts_del_dia(dia, d):
     if len(mejores) >= MIN_LISTA:
         sel = mejores[:7]
         apuntar(sel)
-        posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=23, minute=0), sel,
+        from panel_datos import ajustes   # 30/10: hora desde el panel
+        hp, mp = (int(x) for x in ajustes()["hora_picks"].split(":"))
+        posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=hp, minute=mp), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA MAÑANA! 🍀\n\n{lista(sel)}\n\n"
                       "⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]

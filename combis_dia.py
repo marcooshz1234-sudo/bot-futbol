@@ -427,7 +427,7 @@ def combi_partido(pool, cfg):
     alguna algo menos segura; y si aun así no hay 6 posibles, con 5."""
     return (mejor_combi(pool, cfg["patas"], cfg["cuota"], PARTIDO["prob_min"])
             or mejor_combi(pool, cfg["patas"], cfg["cuota"], PROB_MIN_RELAJADA)
-            or mejor_combi(pool, (5, 5), cfg["cuota"], PROB_MIN_RELAJADA))
+            or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA))
 
 
 def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
@@ -462,6 +462,18 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
     return best
 
 
+def aplicar_ajustes():
+    """30/10: valores del panel de control (control.json → ajustes)."""
+    from panel_datos import ajustes
+    a = ajustes()
+    lo, hi = sorted((float(a["cuota_min"]), float(a["cuota_max"])))
+    PARTIDO["cuota"] = NOCHE["cuota"] = (lo, hi)
+    PARTIDO["patas"] = NOCHE["patas"] = (int(a["patas"]), int(a["patas"]))
+    NOCHE["activa"] = bool(a["noche"])
+    TRES["hora"] = tuple(int(x) for x in a["hora_x3"].split(":"))
+    LOCA["hora"] = tuple(int(x) for x in a["hora_loca"].split(":"))
+
+
 def ya_en_otras():
     """Selecciones de las combis de partido metidas a mano en la cola (no las del bot), sin cancelar."""
     from bot import RAIZ
@@ -486,6 +498,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     from plantillas import datos_tarjeta, grandeza
     hist = hist if hist is not None else P.historial()
     ap = ap if ap is not None else (leer(DATOS / "aprendizaje.json") or {})
+    aplicar_ajustes()   # 30/10: lo que Marcos cambia en el panel (cuotas, cosas por combi, noche, horas)
     pools = []
     otras = ya_en_otras()
     for f in EXTRA.glob("*.json"):
@@ -514,7 +527,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # se rehace con otras selecciones y, si no da para otra, ese partido solo sale de noche.
     noche_sel = []
     ultima_noche = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=NOCHE["horas"][-1][0], minute=NOCHE["horas"][-1][1])
-    if dia <= NOCHE["hasta"] and ultima_noche > datetime.now(MADRID):   # si la noche ya pasó, no quita partidos de la tarde
+    if dia <= NOCHE["hasta"] and NOCHE.get("activa", True) and ultima_noche > datetime.now(MADRID):   # si la noche ya pasó, no quita partidos de la tarde
         pool_id = {pool[0]["partido_id"]: pool for pool in pools}
         # 29/10 (Marcos: «¿por qué cambia la hora?»): los partidos de la noche, una vez elegidos, no cambian
         fijos = (leer(noche_fija(), {}) or {}).get(dia) or []
@@ -574,7 +587,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     res = {"partidos": salida}
     # 28/10: combis de madrugada (prueba): partidos grandes que no salen a su hora, con combis algo más cortas
     res["noche"] = []
-    if dia <= NOCHE["hasta"]:
+    if dia <= NOCHE["hasta"] and NOCHE.get("activa", True):
         f0n = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
         cand = [(None, None, cp, c) for cp, c in noche_sel]
         for (h, m), (_, _, cp, c) in zip(NOCHE["horas"], cand):
