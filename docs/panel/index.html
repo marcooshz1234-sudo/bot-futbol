@@ -6,7 +6,7 @@
 <title>Panel Combilocas</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
-:root{--bg:#070d0a;--card:#121c17;--card2:#1c2b24;--line:#26392f;--txt:#ffffff;--mut:#9fb8aa;--ok:#4ade80;--ko:#f87171;--warn:#fbbf24;--acc:#22c55e;--r:16px}
+:root{--bg:#0a0f1c;--card:#141c2f;--card2:#1e2940;--line:#2a3652;--txt:#ffffff;--mut:#9aa8c3;--ok:#4ade80;--ko:#f87171;--warn:#fbbf24;--acc:#22c55e;--r:16px}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif}
 header{position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 80%,transparent);padding:14px 16px 8px;display:flex;align-items:center;gap:10px}
@@ -33,7 +33,7 @@ h2{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);m
 .sug .btn{text-align:left;font-weight:500}
 .sug .btn.sel{background:var(--acc);color:#04210f}
 .switch{width:50px;height:30px;border-radius:999px;background:var(--card2);position:relative;border:0;flex:none}
-.switch::after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#cfe;transition:.2s}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#dbe4f5;transition:.2s}
 .switch.on{background:var(--acc)}.switch.on::after{left:23px}
 .step{display:flex;align-items:center;gap:8px}.step b{min-width:42px;text-align:center;font-size:17px}
 input[type=time],textarea{background:var(--card2);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px;font:15px inherit;font-family:inherit}
@@ -41,7 +41,7 @@ textarea{width:100%;min-height:200px;margin-top:8px}
 .big{font-weight:800;font-size:26px}
 .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
 .barra{height:8px;border-radius:99px;background:var(--card2);overflow:hidden;margin-top:5px}.barra>div{height:100%;background:var(--acc)}
-nav{position:fixed;left:0;right:0;bottom:0;background:rgba(11,19,16,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px)}
+nav{position:fixed;left:0;right:0;bottom:0;background:rgba(10,15,28,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px)}
 nav button{background:none;border:0;color:var(--mut);font:600 11px inherit;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;position:relative}
 nav button span{font-size:21px}nav button.on{color:var(--ok)}
 nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;font-size:10px;border-radius:99px;padding:1px 5px}
@@ -52,16 +52,16 @@ nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;fon
 .resumen{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 6px}
 .resumen div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px;text-align:center}
 .resumen b{display:block;font-size:24px;font-weight:800}.resumen span{font-size:12px;color:var(--mut)}
-.prox{background:linear-gradient(135deg,#14532d,#0f2a1d);border:1px solid #1f7a45;border-radius:16px;padding:14px;margin:8px 0 4px}
-.prox .t{font-size:13px;color:#bbf7d0;font-weight:700;text-transform:uppercase;letter-spacing:.8px}
+.prox{background:linear-gradient(135deg,#1e3a8a,#14532d);border:1px solid #3b5bb5;border-radius:16px;padding:14px;margin:8px 0 4px}
+.prox .t{font-size:13px;color:#c7d7fe;font-weight:700;text-transform:uppercase;letter-spacing:.8px}
 .prox .n{font-size:20px;font-weight:800;margin-top:2px}
 .post{display:flex;gap:12px;align-items:flex-start}
 .post .h{font-weight:800;font-size:22px;min-width:64px;line-height:1.1}
 .post .h small{display:block;font-size:12px;font-weight:600;color:var(--mut)}
 .post .tit{font-weight:700;font-size:16px}
 .post .tipo{font-size:13px;color:var(--mut)}
-.thumb{width:88px;height:56px;border-radius:10px;object-fit:cover;flex:none;background:var(--card2)}
-.patas{margin-top:8px;font-size:14px;color:#d7e9df;line-height:1.55}
+.banner{display:block;width:100%;height:auto;border-radius:12px;margin-top:10px;background:var(--card2)}
+.patas{margin-top:8px;font-size:14px;color:#dbe4f5;line-height:1.55}
 .iconos{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:10px}
 .iconos .btn{display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 4px;font-size:12px}
 .iconos .btn span{font-size:19px}
@@ -83,7 +83,7 @@ nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;fon
 <nav id="nav"></nav>
 <script>
 const tg = window.Telegram && Telegram.WebApp;
-if (tg) { tg.ready(); tg.expand(); try { tg.setHeaderColor("#0b1310"); tg.setBackgroundColor("#0b1310"); } catch (e) {} }
+if (tg) { tg.ready(); tg.expand(); try { tg.setHeaderColor("#0a0f1c"); tg.setBackgroundColor("#0a0f1c"); } catch (e) {} }
 const enTelegram = !!(tg && tg.initData);
 const BOT = "https://t.me/combilocas_publica_bot";
 let D = null, tab = "cola", cambios = [], abiertos = new Set(), editando = null;
@@ -135,7 +135,7 @@ function vCola(){
   const vivos = D.cola.filter(p => !p.cancelado);
   const hoy = new Date().toISOString().slice(0,10);
   const p0 = vivos[0];
-  let h = p0 ? `<div class="prox"><div class="t">Lo siguiente · ${p0.fecha.slice(11,16)}</div><div class="n">${esc(titulo(cambio("texto",p0.id)?.t || p0.texto))}</div><div class="mut" style="color:#bbf7d0">${esc(p0.tipo)}</div></div>` : "";
+  let h = p0 ? `<div class="prox"><div class="t">Lo siguiente · ${p0.fecha.slice(11,16)}</div><div class="n">${esc(titulo(cambio("texto",p0.id)?.t || p0.texto))}</div><div class="mut" style="color:#c7d7fe">${esc(p0.tipo)}</div></div>` : "";
   h += `<div class="resumen"><div><b>${vivos.filter(p=>p.fecha.slice(0,10)===hoy).length}</b><span>salen hoy</span></div><div><b>${vivos.length}</b><span>en 48 h</span></div><div><b>${D.cola.length-vivos.length}</b><span>cancelados</span></div></div>`;
   let ult = "";
   D.cola.forEach(p => {
@@ -147,8 +147,8 @@ function vCola(){
       <div class="post" onclick="abrir('${p.id}')">
         <div class="h">${esc(cY?"Ya":cH?cH.h:p.fecha.slice(11,16))}${q?`<small>x${esc(q)}</small>`:""}</div>
         <div class="sp"><div class="tit">${esc(titulo(texto))}</div><div class="tipo">${esc(p.tipo)}${p.editado||cT?" · ✏️ editado":""}${cancel?" · ✕ cancelado":""}</div></div>
-        ${p.imagen?`<img class="thumb" loading="lazy" src="${esc(p.imagen)}">`:""}
       </div>
+      ${p.imagen && !abierto ? `<img class="banner" loading="lazy" src="${esc(p.imagen)}" onclick="abrir('${p.id}')">` : ""}
       ${ps.length && !abierto ? `<div class="patas">${ps.join("<br>")}</div>` : ""}
       ${abierto ? (editando===p.id ? `<textarea id="ed">${esc(texto)}</textarea>
           <div class="acciones"><button class="btn acc" onclick="guardarTexto('${p.id}')">Guardar texto</button><button class="btn" onclick="editando=null;pintar()">Cancelar</button></div>`
