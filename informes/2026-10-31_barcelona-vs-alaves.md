@@ -1,7 +1,7 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -217,43 +217,43 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Hugo Novoa | F | 2 | 73 | 1 | 0 | 2 | 1,0 | 1 | 0,5 | 0 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,05 · visitante 0,94 · córners esperados 9,4._
+_Goles esperados: local 3,07 · visitante 0,93 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 5% | 6% | 21.00 | +35% |
-| 1X2: X | 12% | 9% | 11% | 10.00 | +9% |
-| 1X2: 1 | 79% | 86% | 83% | 1.10 | -9% |
-| Doble oportunidad: X2 | 21% | 14% | 17% | 7.00 | +21% |
+| 1X2: 2 | 8% | 5% | 6% | 21.00 | +33% |
+| 1X2: X | 12% | 9% | 11% | 10.00 | +8% |
+| 1X2: 1 | 80% | 86% | 83% | 1.10 | -9% |
+| Doble oportunidad: X2 | 20% | 14% | 17% | 7.00 | +19% |
 | Doble oportunidad: 12 | 88% | 91% | 89% | 1.06 | -5% |
-| Doble oportunidad: 1X | 92% | 95% | 94% | 1.01 | -6% |
+| Doble oportunidad: 1X | 92% | 95% | 94% | 1.01 | -5% |
 | Ambos marcan: No | 42% | 50% | 46% | 1.91 | -12% |
 | Ambos marcan: Sí | 58% | 50% | 54% | 1.91 | +3% |
 | Goles más/menos: Más de 2.5 | 76% | 78% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 3.5 | 56% | 62% | 59% | 1.53 | -9% |
+| Goles más/menos: Más de 3.5 | 57% | 62% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 4.5 | 37% | 43% | 40% | 2.20 | -12% |
-| Goles más/menos: Más de 5.5 | 21% | 27% | 24% | 3.50 | -15% |
+| Goles más/menos: Más de 5.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles más/menos: Menos de 2.5 | 24% | 22% | 23% | 4.33 | -1% |
-| Goles más/menos: Menos de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Menos de 4.5 | 63% | 57% | 60% | 1.67 | +0% |
-| Goles más/menos: Menos de 5.5 | 79% | 73% | 76% | 1.30 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 52% | 58% | 55% | 1.62 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 25% | 31% | 28% | 3.00 | -16% |
+| Goles más/menos: Menos de 3.5 | 43% | 38% | 41% | 2.50 | +1% |
+| Goles más/menos: Menos de 4.5 | 63% | 57% | 60% | 1.67 | -0% |
+| Goles más/menos: Menos de 5.5 | 78% | 73% | 76% | 1.30 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 25% | 31% | 28% | 3.00 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 48% | 42% | 45% | 2.20 | -0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del local: Más de 2.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles del local: Más de 3.5 | 36% | 49% | 42% | 1.91 | -19% |
-| Goles del local: Más de 4.5 | 19% | 29% | 24% | 3.25 | -21% |
-| Goles del local: Menos de 2.5 | 41% | 34% | 37% | 2.75 | +3% |
-| Goles del local: Menos de 3.5 | 64% | 51% | 58% | 1.80 | +4% |
-| Goles del local: Menos de 4.5 | 81% | 71% | 76% | 1.33 | +1% |
+| Goles del local: Más de 3.5 | 37% | 49% | 43% | 1.91 | -18% |
+| Goles del local: Más de 4.5 | 20% | 29% | 24% | 3.25 | -21% |
+| Goles del local: Menos de 2.5 | 41% | 34% | 37% | 2.75 | +2% |
+| Goles del local: Menos de 3.5 | 63% | 51% | 57% | 1.80 | +3% |
+| Goles del local: Menos de 4.5 | 80% | 71% | 76% | 1.33 | +1% |
 | Goles del visitante: Más de 0.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles del visitante: Menos de 0.5 | 39% | 49% | 44% | 1.91 | -16% |
 | Córners más/menos: Más de 10.5 | 36% | 56% | 46% | 1.67 | -23% |
 | Córners más/menos: Más de 11.5 | 29% | 46% | 38% | 2.00 | -25% |
 | Córners más/menos: Menos de 10.5 ✅ | 64% | 44% | 54% | 2.10 | +14% |
 | Córners más/menos: Menos de 11.5 | 71% | 54% | 62% | 1.73 | +8% |
-| 1X2 descanso: X | 29% | 25% | 27% | 3.75 | -0% |
+| 1X2 descanso: X | 28% | 25% | 27% | 3.75 | -0% |
 | 1X2 descanso: 1 | 60% | 68% | 64% | 1.36 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

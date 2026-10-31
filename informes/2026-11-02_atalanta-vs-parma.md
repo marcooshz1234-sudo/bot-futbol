@@ -1,7 +1,7 @@
 # Atalanta – Parma
 **Serie A** · Regular Season - 10 · 02/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -213,22 +213,22 @@ _Goles esperados: local 1,66 · visitante 0,77 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 16% | 17% | 6.00 | -1% |
+| 1X2: 2 | 17% | 16% | 16% | 6.00 | -1% |
 | 1X2: X | 24% | 21% | 23% | 4.50 | +2% |
-| 1X2: 1 | 58% | 63% | 61% | 1.50 | -9% |
-| Doble oportunidad: X2 | 42% | 37% | 39% | 2.50 | -1% |
+| 1X2: 1 | 59% | 63% | 61% | 1.50 | -9% |
+| Doble oportunidad: X2 | 41% | 37% | 39% | 2.50 | -2% |
 | Doble oportunidad: 12 | 76% | 79% | 77% | 1.18 | -9% |
 | Doble oportunidad: 1X | 83% | 83% | 83% | 1.12 | -7% |
-| Ambos marcan: No | 56% | 47% | 52% | 2.00 | +3% |
-| Ambos marcan: Sí | 44% | 53% | 48% | 1.75 | -15% |
+| Ambos marcan: No | 57% | 47% | 52% | 2.00 | +3% |
+| Ambos marcan: Sí | 43% | 53% | 48% | 1.75 | -15% |
 | Goles más/menos: Más de 1.5 | 70% | 79% | 74% | 1.20 | -11% |
 | Goles más/menos: Más de 2.5 | 44% | 59% | 51% | 1.62 | -17% |
-| Goles más/menos: Más de 3.5 | 23% | 36% | 30% | 2.62 | -22% |
-| Goles más/menos: Más de 4.5 | 10% | 21% | 16% | 4.50 | -30% |
+| Goles más/menos: Más de 3.5 | 23% | 36% | 30% | 2.62 | -23% |
+| Goles más/menos: Más de 4.5 | 10% | 21% | 15% | 4.50 | -30% |
 | Goles más/menos: Menos de 1.5 | 30% | 21% | 26% | 4.50 | +15% |
 | Goles más/menos: Menos de 2.5 ✅ | 56% | 41% | 49% | 2.30 | +12% |
 | Goles más/menos: Menos de 3.5 | 77% | 64% | 70% | 1.50 | +6% |
-| Goles más/menos: Menos de 4.5 | 90% | 79% | 84% | 1.20 | +1% |
+| Goles más/menos: Menos de 4.5 | 90% | 79% | 85% | 1.20 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +8% |
@@ -238,9 +238,9 @@ _Goles esperados: local 1,66 · visitante 0,77 · córners esperados 9,5._
 | Goles del local: Menos de 1.5 ✅ | 51% | 38% | 44% | 2.50 | +10% |
 | Goles del local: Menos de 2.5 | 77% | 65% | 71% | 1.44 | +2% |
 | Goles del visitante: Más de 0.5 | 54% | 61% | 57% | 1.53 | -12% |
-| Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +1% |
-| Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
+| Goles del visitante: Más de 1.5 | 18% | 25% | 21% | 3.75 | -19% |
+| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +2% |
+| Goles del visitante: Menos de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
 | 1X2 descanso: X | 44% | 38% | 41% | 2.50 | +2% |

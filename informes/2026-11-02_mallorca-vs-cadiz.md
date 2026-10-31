@@ -1,7 +1,7 @@
 # Mallorca – Cadiz
 **Segunda División** · Regular Season - 12 · 02/11/2026 21:00 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -186,39 +186,39 @@ _Sin bajas comunicadas por ahora._
 | Beñat de Jesús | D | 3 | 162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,24 · visitante 0,87 · córners esperados 9,8._
+_Goles esperados: local 1,27 · visitante 0,87 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 16% | 21% | 6.00 | +25% |
-| 1X2: X | 29% | 23% | 26% | 4.10 | +7% |
-| 1X2: 1 | 45% | 61% | 53% | 1.53 | -19% |
-| Doble oportunidad: X2 | 55% | 38% | 46% | 2.50 | +16% |
+| 1X2: 2 | 26% | 16% | 21% | 6.00 | +24% |
+| 1X2: X | 29% | 23% | 26% | 4.10 | +6% |
+| 1X2: 1 | 46% | 61% | 53% | 1.53 | -18% |
+| Doble oportunidad: X2 | 54% | 38% | 46% | 2.50 | +15% |
 | Doble oportunidad: 12 | 71% | 78% | 74% | 1.22 | -9% |
 | Doble oportunidad: 1X | 74% | 85% | 79% | 1.12 | -11% |
-| Ambos marcan: No | 59% | 54% | 56% | 1.73 | -3% |
-| Ambos marcan: Sí | 41% | 46% | 44% | 2.00 | -12% |
-| Goles más/menos: Más de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
-| Goles más/menos: Más de 2.5 | 35% | 49% | 42% | 1.95 | -18% |
-| Goles más/menos: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
-| Goles más/menos: Menos de 1.5 | 38% | 27% | 32% | 3.50 | +13% |
-| Goles más/menos: Menos de 2.5 | 65% | 51% | 58% | 1.85 | +7% |
-| Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 36% | 3.00 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Goles del local: Más de 1.5 | 35% | 56% | 45% | 1.67 | -24% |
-| Goles del local: Más de 2.5 | 13% | 31% | 22% | 3.00 | -34% |
-| Goles del local: Menos de 1.5 | 65% | 44% | 55% | 2.10 | +15% |
+| Ambos marcan: No | 58% | 54% | 56% | 1.73 | -3% |
+| Ambos marcan: Sí | 42% | 46% | 44% | 2.00 | -12% |
+| Goles más/menos: Más de 1.5 | 63% | 73% | 68% | 1.28 | -13% |
+| Goles más/menos: Más de 2.5 | 36% | 49% | 42% | 1.95 | -17% |
+| Goles más/menos: Más de 3.5 | 17% | 28% | 22% | 3.40 | -24% |
+| Goles más/menos: Menos de 1.5 | 37% | 27% | 32% | 3.50 | +12% |
+| Goles más/menos: Menos de 2.5 | 64% | 51% | 58% | 1.85 | +7% |
+| Goles más/menos: Menos de 3.5 | 83% | 72% | 78% | 1.30 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 65% | 1.36 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 35% | 3.00 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
+| Goles del local: Más de 1.5 | 36% | 56% | 46% | 1.67 | -23% |
+| Goles del local: Más de 2.5 | 13% | 31% | 22% | 3.00 | -33% |
+| Goles del local: Menos de 1.5 | 64% | 44% | 54% | 2.10 | +14% |
 | Goles del local: Menos de 2.5 | 87% | 69% | 78% | 1.36 | +6% |
-| Goles del visitante: Más de 0.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles del visitante: Más de 0.5 | 58% | 54% | 56% | 1.73 | -3% |
 | Goles del visitante: Menos de 0.5 | 42% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Más de 9.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Córners más/menos: Menos de 9.5 | 52% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: X | 49% | 40% | 45% | 2.30 | +2% |
-| 1X2 descanso: 1 | 31% | 45% | 38% | 2.05 | -21% |
+| 1X2 descanso: X | 48% | 40% | 44% | 2.30 | +2% |
+| 1X2 descanso: 1 | 32% | 45% | 39% | 2.05 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Napoli – Lazio
 **Serie A** · Regular Season - 11 · 08/11/2026 12:30 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -140,6 +140,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,59 · visitante 1,47 · córners esperados 9,5._
+_Goles esperados: local 1,59 · visitante 1,45 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

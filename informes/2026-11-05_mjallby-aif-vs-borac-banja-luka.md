@@ -1,7 +1,7 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -179,7 +179,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 31% | 35% | 3.00 | +6% |
 | 1X2: X | 29% | 26% | 28% | 3.50 | -3% |
-| 1X2: 1 | 31% | 43% | 37% | 2.15 | -21% |
+| 1X2: 1 | 31% | 43% | 37% | 2.15 | -20% |
 | Doble oportunidad: X2 | 69% | 57% | 63% | 1.67 | +5% |
 | Doble oportunidad: 12 | 71% | 74% | 72% | 1.28 | -7% |
 | Doble oportunidad: 1X | 60% | 70% | 65% | 1.36 | -12% |
@@ -195,18 +195,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 38% | 31% | 2.50 | -22% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 62% | 69% | 1.50 | +3% |
-| Goles del local: Más de 0.5 | 63% | 78% | 71% | 1.20 | -15% |
+| Goles del local: Más de 0.5 | 64% | 78% | 71% | 1.20 | -15% |
 | Goles del local: Más de 1.5 | 27% | 46% | 37% | 2.00 | -27% |
 | Goles del local: Más de 2.5 | 8% | 23% | 16% | 4.00 | -37% |
-| Goles del local: Menos de 0.5 | 37% | 22% | 29% | 4.33 | +26% |
+| Goles del local: Menos de 0.5 | 36% | 22% | 29% | 4.33 | +26% |
 | Goles del local: Menos de 1.5 | 73% | 54% | 63% | 1.73 | +10% |
 | Goles del local: Menos de 2.5 | 92% | 77% | 84% | 1.22 | +3% |
-| Goles del visitante: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Goles del visitante: Más de 1.5 | 33% | 38% | 35% | 2.50 | -11% |
-| Goles del visitante: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles del visitante: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles del visitante: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles del visitante: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -1% |
 | Goles del visitante: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | 1X2 descanso: 2 | 29% | 26% | 27% | 3.60 | -2% |
 | 1X2 descanso: X | 48% | 40% | 44% | 2.30 | +1% |
-| 1X2 descanso: 1 | 23% | 34% | 29% | 2.75 | -21% |
+| 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

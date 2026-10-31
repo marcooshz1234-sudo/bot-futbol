@@ -1,7 +1,7 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España) · Estadio Cidade de Barcelos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -212,17 +212,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 81% | 71% | 76% | 1.33 | +1% |
 | Goles del local: Más de 0.5 | 60% | 66% | 63% | 1.40 | -12% |
-| Goles del local: Más de 1.5 | 23% | 34% | 29% | 2.75 | -22% |
+| Goles del local: Más de 1.5 | 23% | 34% | 29% | 2.75 | -21% |
 | Goles del local: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
-| Goles del local: Menos de 1.5 | 77% | 66% | 71% | 1.40 | +0% |
+| Goles del local: Menos de 1.5 | 77% | 66% | 71% | 1.40 | -0% |
 | Goles del visitante: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
 | Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
 | Goles del visitante: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
 | Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -9% |
-| 1X2 descanso: 2 | 25% | 29% | 27% | 3.20 | -15% |
-| 1X2 descanso: X | 52% | 45% | 48% | 2.05 | -1% |
+| 1X2 descanso: 2 | 24% | 29% | 27% | 3.20 | -15% |
+| 1X2 descanso: X | 52% | 45% | 49% | 2.05 | -1% |
 | 1X2 descanso: 1 | 23% | 26% | 25% | 3.50 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

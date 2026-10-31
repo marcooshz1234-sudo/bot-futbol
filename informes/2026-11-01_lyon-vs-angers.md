@@ -1,7 +1,7 @@
 # Lyon – Angers
 **Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Groupama Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -205,34 +205,34 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Louis Mouton | M | 3 | 78 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 0,81 · córners esperados 10,6._
+_Goles esperados: local 2,00 · visitante 0,81 · córners esperados 10,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 14% | 14% | 7.00 | -2% |
-| 1X2: X | 21% | 19% | 20% | 5.00 | -1% |
+| 1X2: 2 | 14% | 14% | 14% | 7.00 | -3% |
+| 1X2: X | 20% | 19% | 20% | 5.00 | -1% |
 | 1X2: 1 | 65% | 68% | 66% | 1.40 | -7% |
-| Doble oportunidad: X2 | 35% | 34% | 35% | 2.75 | -5% |
-| Doble oportunidad: 12 | 79% | 80% | 80% | 1.17 | -7% |
+| Doble oportunidad: X2 | 35% | 34% | 34% | 2.75 | -5% |
+| Doble oportunidad: 12 | 80% | 80% | 80% | 1.17 | -6% |
 | Doble oportunidad: 1X | 86% | 85% | 86% | 1.10 | -6% |
 | Ambos marcan: No | 52% | 47% | 49% | 2.00 | -1% |
 | Ambos marcan: Sí | 48% | 53% | 51% | 1.75 | -11% |
 | Goles más/menos: Más de 2.5 | 53% | 62% | 58% | 1.53 | -12% |
 | Goles más/menos: Más de 3.5 | 31% | 40% | 35% | 2.38 | -16% |
 | Goles más/menos: Más de 4.5 | 15% | 24% | 20% | 4.00 | -22% |
-| Goles más/menos: Menos de 2.5 ✅ | 47% | 38% | 42% | 2.50 | +6% |
-| Goles más/menos: Menos de 3.5 | 69% | 60% | 65% | 1.57 | +2% |
-| Goles más/menos: Menos de 4.5 | 85% | 76% | 80% | 1.25 | +1% |
+| Goles más/menos: Menos de 2.5 | 47% | 38% | 42% | 2.50 | +6% |
+| Goles más/menos: Menos de 3.5 | 69% | 60% | 65% | 1.57 | +1% |
+| Goles más/menos: Menos de 4.5 | 85% | 76% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 58% | 62% | 1.62 | -0% |
 | Goles del local: Más de 1.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles del local: Más de 2.5 | 32% | 41% | 37% | 2.25 | -18% |
+| Goles del local: Más de 2.5 | 32% | 41% | 37% | 2.25 | -17% |
 | Goles del local: Más de 3.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles del local: Menos de 1.5 | 41% | 34% | 37% | 2.75 | +3% |
-| Goles del local: Menos de 2.5 | 68% | 59% | 63% | 1.57 | -0% |
-| Goles del local: Menos de 3.5 | 86% | 78% | 82% | 1.20 | -1% |
+| Goles del local: Menos de 1.5 | 41% | 34% | 37% | 2.75 | +2% |
+| Goles del local: Menos de 2.5 | 68% | 59% | 63% | 1.57 | -1% |
+| Goles del local: Menos de 3.5 | 86% | 78% | 82% | 1.20 | -2% |
 | Goles del visitante: Más de 0.5 | 56% | 59% | 57% | 1.57 | -10% |
 | Goles del visitante: Más de 1.5 | 20% | 23% | 21% | 4.00 | -14% |
 | Goles del visitante: Menos de 0.5 | 44% | 41% | 43% | 2.25 | -4% |
@@ -240,6 +240,6 @@ _Goles esperados: local 1,99 · visitante 0,81 · córners esperados 10,6._
 | Córners más/menos: Más de 10.5 | 46% | 49% | 47% | 1.91 | -10% |
 | Córners más/menos: Menos de 10.5 | 54% | 51% | 53% | 1.80 | -5% |
 | 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -2% |
-| 1X2 descanso: 1 | 46% | 51% | 48% | 1.83 | -12% |
+| 1X2 descanso: 1 | 46% | 51% | 48% | 1.83 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

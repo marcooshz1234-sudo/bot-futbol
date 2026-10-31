@@ -1,7 +1,7 @@
 # Willem II – PEC Zwolle
 **Eredivisie** · Regular Season - 12 · 06/11/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 07:55_
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | T. Velthuis | D | 5 | 88 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 1,48 · córners esperados 10,2._
+_Goles esperados: local 1,46 · visitante 1,47 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -191,8 +191,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 45% | 41% | 2.10 | -13% |
 | 1X2: X | 25% | 25% | 25% | 3.75 | -7% |
-| 1X2: 1 | 37% | 30% | 34% | 3.10 | +4% |
-| Doble oportunidad: X2 | 63% | 69% | 66% | 1.36 | -10% |
+| 1X2: 1 | 38% | 30% | 34% | 3.10 | +5% |
+| Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -10% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 62% | 55% | 59% | 1.70 | -0% |
 | Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
@@ -209,18 +209,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -7% |
-| Goles del local: Más de 1.5 | 43% | 44% | 43% | 2.10 | -9% |
-| Goles del local: Más de 2.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -6% |
-| Goles del local: Menos de 1.5 | 57% | 56% | 57% | 1.67 | -6% |
+| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
+| Goles del local: Más de 2.5 | 18% | 21% | 19% | 4.50 | -12% |
+| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles del local: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
 | Goles del local: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del visitante: Más de 1.5 | 43% | 56% | 50% | 1.67 | -17% |
-| Goles del visitante: Más de 2.5 | 19% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 57% | 44% | 50% | 2.10 | +6% |
-| Goles del visitante: Menos de 2.5 | 81% | 71% | 76% | 1.33 | +1% |
+| Goles del visitante: Más de 1.5 | 43% | 56% | 49% | 1.67 | -17% |
+| Goles del visitante: Más de 2.5 | 18% | 29% | 24% | 3.25 | -23% |
+| Goles del visitante: Menos de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
+| Goles del visitante: Menos de 2.5 | 82% | 71% | 76% | 1.33 | +2% |
 | 1X2 descanso: 2 | 30% | 36% | 33% | 2.60 | -15% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
-| 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -4% |
+| 1X2 descanso: 1 | 30% | 27% | 28% | 3.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Bayern München
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Mewa Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -188,40 +188,40 @@ _Sin bajas comunicadas por ahora._
 | H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 3,14 · córners esperados 10,1._
+_Goles esperados: local 1,35 · visitante 3,18 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 73% | 66% | 70% | 1.42 | -1% |
 | 1X2: X | 14% | 16% | 15% | 5.75 | -13% |
-| 1X2: 1 | 13% | 17% | 15% | 5.50 | -17% |
+| 1X2: 1 | 13% | 17% | 15% | 5.50 | -18% |
 | Doble oportunidad: X2 | 87% | 83% | 85% | 1.14 | -3% |
-| Doble oportunidad: 12 | 86% | 83% | 84% | 1.14 | -4% |
-| Doble oportunidad: 1X | 27% | 34% | 31% | 2.75 | -16% |
-| Ambos marcan: No | 29% | 29% | 29% | 3.25 | -5% |
+| Doble oportunidad: 12 | 86% | 83% | 85% | 1.14 | -4% |
+| Doble oportunidad: 1X | 27% | 34% | 30% | 2.75 | -16% |
+| Ambos marcan: No | 29% | 29% | 29% | 3.25 | -6% |
 | Ambos marcan: Sí | 71% | 71% | 71% | 1.33 | -6% |
-| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 3.5 | 65% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 4.5 | 46% | 43% | 45% | 2.20 | -1% |
-| Goles más/menos: Más de 5.5 | 29% | 25% | 27% | 3.75 | +3% |
-| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 3.5 | 35% | 40% | 37% | 2.38 | -12% |
-| Goles más/menos: Menos de 4.5 | 54% | 57% | 55% | 1.67 | -8% |
-| Goles más/menos: Menos de 5.5 | 71% | 75% | 73% | 1.28 | -7% |
+| Goles más/menos: Más de 2.5 | 83% | 78% | 81% | 1.22 | -2% |
+| Goles más/menos: Más de 3.5 | 66% | 60% | 63% | 1.57 | -1% |
+| Goles más/menos: Más de 4.5 | 47% | 43% | 45% | 2.20 | -0% |
+| Goles más/menos: Más de 5.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles más/menos: Menos de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles más/menos: Menos de 3.5 | 34% | 40% | 37% | 2.38 | -13% |
+| Goles más/menos: Menos de 4.5 | 53% | 57% | 55% | 1.67 | -9% |
+| Goles más/menos: Menos de 5.5 | 70% | 75% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del local: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Goles del local: Más de 1.5 | 39% | 42% | 41% | 2.20 | -11% |
-| Goles del local: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -10% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -7% |
+| Goles del local: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
+| Goles del local: Más de 1.5 | 39% | 42% | 41% | 2.20 | -10% |
+| Goles del local: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -4% |
 | Goles del local: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del visitante: Más de 1.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles del visitante: Más de 2.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del visitante: Más de 3.5 | 38% | 34% | 36% | 2.75 | -1% |
-| Goles del visitante: Menos de 1.5 | 18% | 23% | 21% | 4.00 | -17% |
-| Goles del visitante: Menos de 2.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles del visitante: Menos de 3.5 | 62% | 66% | 64% | 1.40 | -10% |
+| Goles del visitante: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
+| Goles del visitante: Más de 2.5 | 62% | 54% | 58% | 1.73 | -0% |
+| Goles del visitante: Más de 3.5 | 39% | 34% | 37% | 2.75 | +1% |
+| Goles del visitante: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles del visitante: Menos de 2.5 | 38% | 46% | 42% | 2.00 | -15% |
+| Goles del visitante: Menos de 3.5 | 61% | 66% | 63% | 1.40 | -11% |
 | 1X2 descanso: 2 | 56% | 52% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 28% | 30% | 29% | 3.10 | -10% |
 

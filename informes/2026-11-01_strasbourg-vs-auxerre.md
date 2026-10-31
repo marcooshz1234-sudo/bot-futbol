@@ -1,7 +1,7 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -205,30 +205,30 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Lamfia Dioubaté | M | 3 | 34 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,78 · visitante 1,49 · córners esperados 9,4._
+_Goles esperados: local 1,78 · visitante 1,48 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 22% | 27% | 4.33 | +18% |
+| 1X2: 2 | 32% | 22% | 27% | 4.33 | +17% |
 | 1X2: X | 23% | 25% | 24% | 3.80 | -9% |
 | 1X2: 1 | 45% | 53% | 49% | 1.80 | -12% |
-| Doble oportunidad: X2 | 55% | 48% | 52% | 1.95 | +1% |
+| Doble oportunidad: X2 | 55% | 48% | 51% | 1.95 | +0% |
 | Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 68% | 78% | 73% | 1.20 | -13% |
 | Ambos marcan: No | 36% | 39% | 37% | 2.38 | -11% |
 | Ambos marcan: Sí | 64% | 61% | 63% | 1.53 | -4% |
 | Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
-| Goles más/menos: Más de 3.5 | 41% | 40% | 41% | 2.38 | -4% |
+| Goles más/menos: Más de 3.5 | 41% | 40% | 40% | 2.38 | -4% |
 | Goles más/menos: Más de 4.5 | 23% | 22% | 23% | 4.33 | -2% |
 | Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -9% |
-| Goles más/menos: Menos de 3.5 | 59% | 60% | 59% | 1.57 | -7% |
+| Goles más/menos: Menos de 3.5 | 59% | 60% | 60% | 1.57 | -7% |
 | Goles más/menos: Menos de 4.5 | 77% | 78% | 77% | 1.22 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 25% | 25% | 3.75 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Más de 1.5 | 53% | 58% | 55% | 1.62 | -10% |
-| Goles del local: Más de 2.5 | 26% | 31% | 29% | 3.00 | -14% |
+| Goles del local: Más de 2.5 | 26% | 31% | 29% | 3.00 | -13% |
 | Goles del local: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
 | Goles del local: Menos de 2.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del visitante: Más de 0.5 | 77% | 71% | 74% | 1.33 | -1% |

@@ -1,7 +1,7 @@
 # Juventus – Napoli
 **Serie A** · Regular Season - 10 · 01/11/2026 20:45 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -210,7 +210,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | David Neres | F | 6 | 174 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,50 · visitante 1,07 · córners esperados 9,7._
+_Goles esperados: local 1,49 · visitante 1,07 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -222,21 +222,21 @@ _Goles esperados: local 1,50 · visitante 1,07 · córners esperados 9,7._
 | Doble oportunidad: 1X | 73% | 73% | 73% | 1.30 | -6% |
 | Ambos marcan: No | 49% | 47% | 48% | 2.00 | -4% |
 | Ambos marcan: Sí | 51% | 53% | 52% | 1.75 | -9% |
-| Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.30 | -5% |
+| Goles más/menos: Más de 1.5 | 72% | 73% | 73% | 1.30 | -5% |
 | Goles más/menos: Más de 2.5 | 47% | 47% | 47% | 2.00 | -5% |
 | Goles más/menos: Más de 3.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles más/menos: Menos de 1.5 | 28% | 27% | 27% | 3.50 | -4% |
 | Goles más/menos: Menos de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
 | Goles más/menos: Menos de 3.5 | 74% | 73% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del local: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
-| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles del local: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -11% |
 | Goles del local: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
-| Goles del visitante: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles del visitante: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles del visitante: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
 | Goles del visitante: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles del visitante: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
@@ -244,7 +244,7 @@ _Goles esperados: local 1,50 · visitante 1,07 · córners esperados 9,7._
 | Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 8.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
-| 1X2 descanso: 2 | 22% | 25% | 24% | 3.75 | -11% |
+| 1X2 descanso: 2 | 22% | 25% | 24% | 3.75 | -12% |
 | 1X2 descanso: X | 44% | 43% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 34% | 32% | 33% | 2.88 | -4% |
 

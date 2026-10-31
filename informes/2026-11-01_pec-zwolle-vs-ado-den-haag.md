@@ -1,7 +1,7 @@
 # PEC Zwolle – ADO Den Haag
 **Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España) · MAC³PARK Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -189,7 +189,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alejandro Pozo |  | 3 | 74 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,24 · visitante 1,23 · córners esperados 9,7._
+_Goles esperados: local 1,25 · visitante 1,23 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -204,9 +204,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 50% | 38% | 44% | 2.50 | +9% |
 | Ambos marcan: Sí | 50% | 62% | 56% | 1.50 | -15% |
 | Goles más/menos: Más de 2.5 | 45% | 59% | 52% | 1.60 | -17% |
-| Goles más/menos: Más de 3.5 | 24% | 38% | 31% | 2.50 | -24% |
+| Goles más/menos: Más de 3.5 | 24% | 38% | 31% | 2.50 | -23% |
 | Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -30% |
-| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +11% |
+| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +10% |
 | Goles más/menos: Menos de 3.5 | 76% | 62% | 69% | 1.50 | +4% |
 | Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.20 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |

@@ -1,7 +1,7 @@
 # Fulham – Newcastle
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -179,40 +179,40 @@ _Sin bajas comunicadas por ahora._
 | B. Touré | F | 7 | 182 | 2 | 0 | 6 | 0,9 | 4 | 0,6 | 4 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,10 · córners esperados 10,1._
+_Goles esperados: local 1,62 · visitante 1,11 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 31% | 28% | 3.00 | -15% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -11% |
-| 1X2: 1 | 50% | 42% | 46% | 2.20 | +1% |
-| Doble oportunidad: X2 | 50% | 57% | 53% | 1.67 | -11% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
+| 1X2: 2 | 26% | 31% | 29% | 3.00 | -14% |
+| 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
+| 1X2: 1 | 49% | 42% | 46% | 2.20 | +1% |
+| Doble oportunidad: X2 | 51% | 57% | 54% | 1.67 | -10% |
+| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 74% | 70% | 72% | 1.36 | -2% |
 | Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
+| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -12% |
 | Goles más/menos: Más de 1.5 | 76% | 78% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 2.5 | 52% | 57% | 54% | 1.67 | -9% |
-| Goles más/menos: Más de 3.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles más/menos: Menos de 1.5 | 24% | 22% | 23% | 4.33 | -0% |
-| Goles más/menos: Menos de 2.5 | 48% | 43% | 46% | 2.20 | +1% |
-| Goles más/menos: Menos de 3.5 | 70% | 66% | 68% | 1.44 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Más de 2.5 | 51% | 57% | 54% | 1.67 | -10% |
+| Goles más/menos: Más de 3.5 | 29% | 34% | 32% | 2.75 | -13% |
+| Goles más/menos: Menos de 1.5 | 24% | 22% | 23% | 4.33 | +0% |
+| Goles más/menos: Menos de 2.5 | 49% | 43% | 46% | 2.20 | +1% |
+| Goles más/menos: Menos de 3.5 | 71% | 66% | 68% | 1.44 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -8% |
-| Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
-| Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
+| Goles del local: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles del local: Menos de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Goles del local: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
 | Goles del visitante: Más de 1.5 | 30% | 39% | 35% | 2.38 | -17% |
 | Goles del visitante: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
 | Goles del visitante: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
-| 1X2 descanso: 2 | 22% | 26% | 24% | 3.50 | -16% |
+| 1X2 descanso: 2 | 22% | 26% | 24% | 3.50 | -15% |
 | 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -4% |
+| 1X2 descanso: 1 | 36% | 34% | 35% | 2.75 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

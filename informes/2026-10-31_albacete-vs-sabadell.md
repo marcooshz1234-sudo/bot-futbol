@@ -1,7 +1,7 @@
 # Albacete – Sabadell
 **Segunda División** · Regular Season - 12 · 31/10/2026 21:00 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -202,21 +202,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 78% | 59% | 69% | 1.57 | +8% |
 | Doble oportunidad: 12 | 70% | 69% | 69% | 1.36 | -6% |
 | Doble oportunidad: 1X | 52% | 72% | 62% | 1.30 | -19% |
-| Ambos marcan: No | 65% | 51% | 58% | 1.80 | +4% |
-| Ambos marcan: Sí | 35% | 49% | 42% | 1.91 | -20% |
+| Ambos marcan: No | 64% | 51% | 58% | 1.80 | +4% |
+| Ambos marcan: Sí | 36% | 49% | 42% | 1.91 | -20% |
 | Goles más/menos: Más de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
 | Goles más/menos: Más de 2.5 | 30% | 42% | 36% | 2.25 | -19% |
 | Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
 | Goles más/menos: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +6% |
 | Goles más/menos: Menos de 2.5 | 70% | 58% | 64% | 1.62 | +4% |
-| Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | +0% |
+| Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 62% | 59% | 1.50 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 28% | 24% | 3.40 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 38% | 41% | 2.50 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 38% | 41% | 2.50 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles del local: Más de 0.5 | 51% | 72% | 62% | 1.30 | -20% |
 | Goles del local: Más de 1.5 | 16% | 38% | 27% | 2.50 | -33% |
-| Goles del local: Menos de 0.5 | 49% | 28% | 38% | 3.40 | +31% |
+| Goles del local: Menos de 0.5 | 49% | 28% | 38% | 3.40 | +30% |
 | Goles del local: Menos de 1.5 | 84% | 62% | 73% | 1.50 | +10% |
 | Goles del visitante: Más de 0.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del visitante: Más de 1.5 | 34% | 28% | 31% | 3.40 | +4% |

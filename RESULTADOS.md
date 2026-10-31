@@ -1,23 +1,23 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 31/10/2026 13:56. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 31/10/2026 19:51. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 44 · **acertados:** 11 (25%)
-- **Beneficio:** -14.35 unidades · **rentabilidad (yield):** -32.6%
-- **Cuota media:** 2.83 · **pendientes:** 71
+- **Picks jugados:** 59 · **acertados:** 19 (32%)
+- **Beneficio:** -9.28 unidades · **rentabilidad (yield):** -15.7%
+- **Cuota media:** 2.85 · **pendientes:** 69
 
-_Con 44 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 59 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| Goles más/menos | 10 | 3 (30%) | -1.65 | -16.5% |
-| 1X2 | 9 | 2 (22%) | -3.65 | -40.6% |
-| Goles del visitante | 8 | 1 (12%) | -5.38 | -67.2% |
-| Goles del local | 6 | 2 (33%) | +0.00 | +0.0% |
-| Doble oportunidad | 5 | 2 (40%) | -0.55 | -11.0% |
-| 1X2 descanso | 3 | 1 (33%) | -0.12 | -4.0% |
+| 1X2 | 13 | 5 (38%) | -1.00 | -7.7% |
+| Goles más/menos | 13 | 4 (31%) | -2.15 | -16.5% |
+| Goles del local | 10 | 4 (40%) | +2.02 | +20.2% |
+| Goles del visitante | 9 | 1 (11%) | -6.38 | -70.9% |
+| Doble oportunidad | 7 | 3 (43%) | -0.40 | -5.7% |
+| 1X2 descanso | 4 | 2 (50%) | +1.63 | +40.8% |
 | Goles 1ª parte más/menos | 2 | 0 (0%) | -2.00 | -100.0% |
 | Córners más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
 
@@ -25,6 +25,21 @@ _Con 44 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-31 | Brentford – Nottingham Forest | 1X2: 1 | 2.15 | ✅ | +1.15 |
+| 2026-10-31 | Bournemouth – Leeds | 1X2 descanso: 1 | 2.75 | ✅ | +1.75 |
+| 2026-10-31 | Bournemouth – Leeds | 1X2: 1 | 2.10 | ✅ | +1.10 |
+| 2026-10-31 | Manchester City – Brighton | Doble oportunidad: X2 | 2.15 | ✅ | +1.15 |
+| 2026-10-31 | Manchester City – Brighton | Goles del local: Menos de 1.5 | 2.62 | ✅ | +1.62 |
+| 2026-10-31 | Hull City – Ipswich | 1X2: 1 | 2.80 | ❌ | -1.00 |
+| 2026-10-31 | FC Augsburg – SC Freiburg | Goles del visitante: Más de 2.5 | 3.40 | ❌ | -1.00 |
+| 2026-10-31 | FC Augsburg – SC Freiburg | Goles más/menos: Más de 4.5 | 3.75 | ❌ | -1.00 |
+| 2026-10-31 | FC Schalke 04 – RB Leipzig | Goles más/menos: Menos de 2.5 | 2.50 | ✅ | +1.50 |
+| 2026-10-31 | FC Schalke 04 – RB Leipzig | Goles del local: Menos de 0.5 | 3.40 | ✅ | +2.40 |
+| 2026-10-31 | Werder Bremen – 1899 Hoffenheim | 1X2: 1 | 2.40 | ✅ | +1.40 |
+| 2026-10-31 | Werder Bremen – 1899 Hoffenheim | Goles del local: Más de 2.5 | 3.50 | ❌ | -1.00 |
+| 2026-10-31 | Bologna – Monza | Doble oportunidad: X2 | 2.20 | ❌ | -1.00 |
+| 2026-10-31 | Chelsea – Manchester United | Goles del local: Más de 2.5 | 3.25 | ❌ | -1.00 |
+| 2026-10-31 | Chelsea – Manchester United | Goles más/menos: Más de 4.5 | 4.50 | ❌ | -1.00 |
 | 2026-10-30 | Lille – Lens | Goles más/menos: Más de 3.5 | 3.20 | ❌ | -1.00 |
 | 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles del visitante: Más de 2.5 | 3.40 | ❌ | -1.00 |
 | 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles más/menos: Más de 4.5 | 3.75 | ✅ | +2.75 |
@@ -50,18 +65,3 @@ _Con 44 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-26 | Sevilla – Osasuna | Goles 1ª parte más/menos: Más de 1.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-26 | Sevilla – Osasuna | Goles más/menos: Más de 2.5 | 2.20 | ❌ | -1.00 |
 | 2026-10-25 | Barcelona – Real Madrid | Córners más/menos: Menos de 10.5 | 1.91 | ❌ | -1.00 |
-| 2026-10-25 | Real Sociedad – Levante | Goles del visitante: Más de 1.5 | 3.00 | ❌ | -1.00 |
-| 2026-10-25 | Real Sociedad – Levante | Goles más/menos: Más de 4.5 | 3.75 | ❌ | -1.00 |
-| 2026-10-25 | SC Freiburg – Bayern München | Goles del visitante: Menos de 1.5 | 3.25 | ❌ | -1.00 |
-| 2026-10-25 | SC Freiburg – Bayern München | Doble oportunidad: 1X | 2.62 | ❌ | -1.00 |
-| 2026-10-25 | Celta Vigo – Real Betis | Goles más/menos: Menos de 2.5 | 2.10 | ✅ | +1.10 |
-| 2026-10-25 | 1899 Hoffenheim – Bayer Leverkusen | 1X2 descanso: 2 | 2.50 | ❌ | -1.00 |
-| 2026-10-25 | 1899 Hoffenheim – Bayer Leverkusen | 1X2: 2 | 2.10 | ❌ | -1.00 |
-| 2026-10-25 | Monaco – Lille | Goles del visitante: Menos de 0.5 | 2.75 | ❌ | -1.00 |
-| 2026-10-25 | Monaco – Lille | 1X2: 1 | 1.95 | ❌ | -1.00 |
-| 2026-10-25 | Manchester United – Bournemouth | 1X2: 2 | 3.10 | ✅ | +2.10 |
-| 2026-10-25 | Liverpool – Brighton | 1X2 descanso: 2 | 3.50 | ❌ | -1.00 |
-| 2026-10-25 | Liverpool – Brighton | 1X2: 2 | 3.10 | ❌ | -1.00 |
-| 2026-10-25 | Athletic Club – Getafe | Goles más/menos: Menos de 1.5 | 3.20 | ❌ | -1.00 |
-| 2026-10-24 | Atletico Madrid – Deportivo La Coruna | Goles más/menos: Menos de 2.5 | 2.50 | ✅ | +1.50 |
-| 2026-10-24 | Atletico Madrid – Deportivo La Coruna | Goles del local: Menos de 1.5 | 3.25 | ✅ | +2.25 |

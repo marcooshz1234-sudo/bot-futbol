@@ -1,7 +1,7 @@
 # Lecce – Genoa
 **Serie A** · Regular Season - 10 · 01/11/2026 18:00 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -205,23 +205,23 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Mitaj | D | 4 | 236 | 0 | 1 | 5 | 1,2 | 2 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 1,29 · córners esperados 9,5._
+_Goles esperados: local 1,06 · visitante 1,28 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 40% | 41% | 2.38 | -3% |
+| 1X2: 2 | 41% | 40% | 41% | 2.38 | -3% |
 | 1X2: X | 28% | 32% | 30% | 3.00 | -11% |
 | 1X2: 1 | 31% | 29% | 30% | 3.30 | -2% |
 | Doble oportunidad: X2 | 69% | 70% | 70% | 1.33 | -7% |
 | Doble oportunidad: 12 | 72% | 69% | 70% | 1.36 | -4% |
-| Doble oportunidad: 1X | 58% | 61% | 60% | 1.53 | -9% |
+| Doble oportunidad: 1X | 59% | 61% | 60% | 1.53 | -8% |
 | Ambos marcan: No | 53% | 52% | 52% | 1.80 | -6% |
 | Ambos marcan: Sí | 47% | 48% | 48% | 1.95 | -7% |
 | Goles más/menos: Más de 1.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 42% | 40% | 41% | 2.38 | -3% |
-| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles más/menos: Más de 2.5 | 41% | 40% | 41% | 2.38 | -3% |
+| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles más/menos: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles más/menos: Menos de 2.5 | 58% | 60% | 59% | 1.57 | -7% |
+| Goles más/menos: Menos de 2.5 | 59% | 60% | 59% | 1.57 | -7% |
 | Goles más/menos: Menos de 3.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 62% | 63% | 1.50 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 28% | 27% | 3.40 | -7% |
@@ -231,13 +231,13 @@ _Goles esperados: local 1,06 · visitante 1,29 · córners esperados 9,5._
 | Goles del local: Más de 1.5 | 29% | 28% | 28% | 3.40 | -4% |
 | Goles del local: Menos de 0.5 | 35% | 38% | 36% | 2.50 | -10% |
 | Goles del local: Menos de 1.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Goles del visitante: Más de 0.5 | 73% | 71% | 72% | 1.33 | -5% |
-| Goles del visitante: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles del visitante: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles del visitante: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Goles del visitante: Más de 1.5 | 37% | 35% | 36% | 2.62 | -6% |
+| Goles del visitante: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
 | Goles del visitante: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Córners más/menos: Más de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
 | Córners más/menos: Menos de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
-| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -6% |
+| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -7% |
 | 1X2 descanso: X | 46% | 47% | 46% | 2.00 | -7% |
 | 1X2 descanso: 1 | 24% | 23% | 24% | 4.00 | -6% |
 

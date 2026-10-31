@@ -1,7 +1,7 @@
 # Marseille – Toulouse
 **Ligue 1** · Regular Season - 9 · 01/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -206,35 +206,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Sion Oppong | F | 5 | 119 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 3 | 0,6 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 2,02 · córners esperados 9,1._
+_Goles esperados: local 1,74 · visitante 2,01 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 ✅ | 45% | 26% | 36% | 3.60 | +28% |
 | 1X2: X | 21% | 24% | 23% | 3.90 | -11% |
-| 1X2: 1 | 34% | 49% | 42% | 1.91 | -21% |
-| Doble oportunidad: X2 | 66% | 51% | 59% | 1.83 | +7% |
+| 1X2: 1 | 34% | 49% | 42% | 1.91 | -20% |
+| Doble oportunidad: X2 | 66% | 51% | 58% | 1.83 | +7% |
 | Doble oportunidad: 12 | 79% | 76% | 78% | 1.22 | -5% |
 | Doble oportunidad: 1X | 55% | 73% | 64% | 1.28 | -18% |
 | Ambos marcan: No | 29% | 38% | 33% | 2.50 | -17% |
 | Ambos marcan: Sí | 71% | 62% | 67% | 1.50 | +0% |
 | Goles más/menos: Más de 2.5 | 72% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 3.5 | 52% | 41% | 47% | 2.30 | +7% |
+| Goles más/menos: Más de 3.5 | 52% | 41% | 46% | 2.30 | +7% |
 | Goles más/menos: Más de 4.5 | 32% | 24% | 28% | 4.00 | +12% |
 | Goles más/menos: Menos de 2.5 | 28% | 40% | 34% | 2.38 | -20% |
-| Goles más/menos: Menos de 3.5 | 48% | 59% | 53% | 1.62 | -13% |
+| Goles más/menos: Menos de 3.5 | 48% | 59% | 54% | 1.62 | -13% |
 | Goles más/menos: Menos de 4.5 | 68% | 76% | 72% | 1.25 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 42% | 45% | 2.20 | -0% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
 | Goles del local: Más de 1.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Goles del local: Más de 2.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles del local: Menos de 1.5 | 48% | 44% | 46% | 2.10 | -3% |
 | Goles del local: Menos de 2.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles del visitante: Más de 0.5 | 87% | 72% | 80% | 1.30 | +3% |
+| Goles del visitante: Más de 0.5 | 87% | 72% | 79% | 1.30 | +3% |
 | Goles del visitante: Más de 1.5 ✅ | 60% | 38% | 49% | 2.50 | +22% |
-| Goles del visitante: Menos de 0.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles del visitante: Menos de 0.5 | 13% | 28% | 21% | 3.40 | -30% |
 | Goles del visitante: Menos de 1.5 | 40% | 62% | 51% | 1.50 | -23% |
 | Córners más/menos: Más de 9.5 | 42% | 47% | 45% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 58% | 53% | 55% | 1.80 | -0% |

@@ -1,7 +1,7 @@
 # Lazio – Cagliari
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -205,37 +205,37 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | R. Ciervo | D | 2 | 102 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,15 · visitante 0,82 · córners esperados 9,9._
+_Goles esperados: local 2,13 · visitante 0,81 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 13% | 14% | 13% | 7.00 | -7% |
-| 1X2: X | 19% | 20% | 19% | 4.75 | -7% |
+| 1X2: X | 19% | 20% | 20% | 4.75 | -7% |
 | 1X2: 1 | 68% | 67% | 67% | 1.42 | -5% |
 | Doble oportunidad: X2 | 32% | 36% | 34% | 2.62 | -11% |
 | Doble oportunidad: 12 | 81% | 80% | 80% | 1.18 | -5% |
 | Doble oportunidad: 1X | 87% | 85% | 86% | 1.11 | -5% |
 | Ambos marcan: No | 51% | 53% | 52% | 1.75 | -9% |
 | Ambos marcan: Sí | 49% | 47% | 48% | 2.00 | -4% |
-| Goles más/menos: Más de 1.5 | 80% | 76% | 78% | 1.25 | -3% |
-| Goles más/menos: Más de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Más de 1.5 | 79% | 76% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 2.5 | 56% | 53% | 54% | 1.80 | -2% |
 | Goles más/menos: Más de 3.5 | 34% | 32% | 33% | 3.00 | -1% |
-| Goles más/menos: Menos de 1.5 | 20% | 24% | 22% | 4.00 | -11% |
-| Goles más/menos: Menos de 2.5 | 43% | 47% | 45% | 2.00 | -9% |
+| Goles más/menos: Menos de 1.5 | 21% | 24% | 22% | 4.00 | -11% |
+| Goles más/menos: Menos de 2.5 | 44% | 47% | 46% | 2.00 | -9% |
 | Goles más/menos: Menos de 3.5 | 66% | 68% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
 | Goles del local: Más de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
 | Goles del local: Más de 2.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles del local: Menos de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
 | Goles del local: Menos de 2.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles del visitante: Más de 0.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -9% |
-| Córners más/menos: Más de 8.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Córners más/menos: Menos de 8.5 | 43% | 46% | 45% | 2.00 | -11% |
+| Goles del visitante: Más de 0.5 | 55% | 54% | 55% | 1.73 | -6% |
+| Goles del visitante: Menos de 0.5 | 45% | 46% | 45% | 2.00 | -9% |
+| Córners más/menos: Más de 8.5 | 57% | 54% | 56% | 1.73 | -4% |
+| Córners más/menos: Menos de 8.5 | 43% | 46% | 44% | 2.00 | -11% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -9% |
-| 1X2 descanso: 1 | 49% | 48% | 49% | 1.91 | -7% |
+| 1X2 descanso: 1 | 49% | 48% | 48% | 1.91 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

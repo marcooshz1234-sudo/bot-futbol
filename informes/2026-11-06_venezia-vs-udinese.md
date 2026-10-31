@@ -1,7 +1,7 @@
 # Venezia – Udinese
 **Serie A** · Regular Season - 11 · 06/11/2026 20:45 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -138,6 +138,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Vakoun Issouf Bayo | F | 5 | 182 | 2 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,33 · córners esperados 9,7._
+_Goles esperados: local 1,65 · visitante 1,32 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

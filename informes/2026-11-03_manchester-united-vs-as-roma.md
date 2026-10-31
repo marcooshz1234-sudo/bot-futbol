@@ -1,10 +1,10 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:01_
+_Actualizadas: 31/10 19:49_
 
 - **1X2:** 1 **2.30**  ·  X **3.80**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.57**
@@ -49,43 +49,43 @@ _Actualizadas: 30/10 14:01_
 ## Estadísticas de equipo
 | | Manchester United (total) | Manchester United en casa | AS Roma (total) | AS Roma fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 5 |
-| Forma (últimos 5) | DDEDE | DEDDV | VEVVD | EEVEV |
-| Balance | 2V 4E 6D | 2V 1E 3D | 7V 4E 1D | 2V 3E 0D |
-| Goles a favor / partido | 1,42 | 2,00 | 2,58 | 2,00 |
-| Goles en contra / partido | 1,83 | 1,67 | 1,08 | 0,80 |
-| Goles a favor 1ª parte | 0,58 | 1,00 | 1,08 | 1,00 |
-| Goles a favor 2ª parte | 0,83 | 1,00 | 1,50 | 1,00 |
-| Goles en contra 1ª parte | 0,67 | 0,67 | 0,25 | 0,20 |
-| Goles en contra 2ª parte | 1,17 | 1,00 | 0,83 | 0,60 |
+| Partidos analizados | 13 | 6 | 12 | 5 |
+| Forma (últimos 5) | DDDED | DEDDV | VEVVD | EEVEV |
+| Balance | 2V 4E 7D | 2V 1E 3D | 7V 4E 1D | 2V 3E 0D |
+| Goles a favor / partido | 1,31 | 2,00 | 2,58 | 2,00 |
+| Goles en contra / partido | 1,85 | 1,67 | 1,08 | 0,80 |
+| Goles a favor 1ª parte | 0,54 | 1,00 | 1,08 | 1,00 |
+| Goles a favor 2ª parte | 0,77 | 1,00 | 1,50 | 1,00 |
+| Goles en contra 1ª parte | 0,62 | 0,67 | 0,25 | 0,20 |
+| Goles en contra 2ª parte | 1,23 | 1,00 | 0,83 | 0,60 |
 | Más de 1,5 goles | 92% | 83% | 92% | 80% |
-| Más de 2,5 goles | 50% | 67% | 67% | 40% |
-| Más de 3,5 goles | 42% | 50% | 58% | 40% |
-| Ambos marcan | 58% | 50% | 50% | 40% |
+| Más de 2,5 goles | 46% | 67% | 67% | 40% |
+| Más de 3,5 goles | 38% | 50% | 58% | 40% |
+| Ambos marcan | 54% | 50% | 50% | 40% |
 | Portería a cero | 8% | 17% | 50% | 60% |
-| Se queda sin marcar | 33% | 33% | 8% | 20% |
-| xG a favor | 1,65 | 2,21 | 2,11 | 1,72 |
-| xG en contra | 1,51 | 1,56 | 1,30 | 1,40 |
-| Tiros / partido | 17,5 | 18,5 | 18,2 | 14,0 |
+| Se queda sin marcar | 38% | 33% | 8% | 20% |
+| xG a favor | 1,61 | 2,21 | 2,11 | 1,72 |
+| xG en contra | 1,61 | 1,56 | 1,30 | 1,40 |
+| Tiros / partido | 17,1 | 18,5 | 18,2 | 14,0 |
 | Tiros a puerta / partido | 5,2 | 6,2 | 6,2 | 4,4 |
-| Tiros recibidos | 11,5 | 11,0 | 11,3 | 12,0 |
-| Tiros a puerta recibidos | 4,4 | 3,2 | 4,3 | 4,8 |
-| Posesión media % | 53 | 54 | 58 | 53 |
-| Córners a favor | 5,7 | 5,7 | 5,8 | 5,0 |
-| Córners en contra | 3,1 | 4,0 | 3,2 | 2,4 |
-| Córners a favor 1ª parte | 1,9 | 2,2 | 2,9 | 2,2 |
-| Córners a favor 2ª parte | 3,8 | 3,5 | 2,9 | 2,8 |
-| Córners totales del partido | 8,8 | 9,7 | 9,1 | 7,4 |
-| Córners totales 1ª parte | 3,6 | 4,7 | 4,0 | 3,0 |
+| Tiros recibidos | 12,1 | 11,0 | 11,3 | 12,0 |
+| Tiros a puerta recibidos | 4,8 | 3,2 | 4,3 | 4,8 |
+| Posesión media % | 52 | 54 | 58 | 53 |
+| Córners a favor | 5,8 | 5,7 | 5,8 | 5,0 |
+| Córners en contra | 3,5 | 4,0 | 3,2 | 2,4 |
+| Córners a favor 1ª parte | 2,2 | 2,2 | 2,9 | 2,2 |
+| Córners a favor 2ª parte | 3,5 | 3,5 | 2,9 | 2,8 |
+| Córners totales del partido | 9,2 | 9,7 | 9,1 | 7,4 |
+| Córners totales 1ª parte | 4,0 | 4,7 | 4,0 | 3,0 |
 | Córners totales 2ª parte | 5,2 | 5,0 | 5,1 | 4,4 |
-| Más de 8,5 córners | 42% | 67% | 50% | 40% |
-| Más de 9,5 córners | 25% | 33% | 33% | 20% |
-| Más de 10,5 córners | 25% | 33% | 33% | 20% |
-| Faltas cometidas | 10,1 | 11,2 | 12,2 | 13,4 |
-| Faltas recibidas | 12,1 | 13,7 | 8,7 | 8,6 |
-| Amarillas propias | 1,8 | 1,8 | 1,8 | 2,4 |
-| Amarillas del rival | 2,2 | 2,3 | 1,8 | 1,6 |
-| Rojas / partido | 0,08 | 0,00 | 0,08 | 0,20 |
+| Más de 8,5 córners | 46% | 67% | 50% | 40% |
+| Más de 9,5 córners | 31% | 33% | 33% | 20% |
+| Más de 10,5 córners | 31% | 33% | 33% | 20% |
+| Faltas cometidas | 10,8 | 11,2 | 12,2 | 13,4 |
+| Faltas recibidas | 11,8 | 13,7 | 8,7 | 8,6 |
+| Amarillas propias | 1,9 | 1,8 | 1,8 | 2,4 |
+| Amarillas del rival | 2,1 | 2,3 | 1,8 | 1,6 |
+| Rojas / partido | 0,15 | 0,00 | 0,08 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United | Goles AS Roma | Recibe AS Roma | Tarjetas AS Roma |
@@ -93,9 +93,9 @@ _Actualizadas: 30/10 14:01_
 | 1-15' | 2 | 2 | 0 | 3 | 1 | 1 |
 | 16-30' | 1 | 2 | 3 | 6 | 2 | 1 |
 | 31-45' | 4 | 4 | 4 | 4 | 0 | 3 |
-| 46-60' | 2 | 4 | 2 | 7 | 4 | 6 |
-| 61-75' | 4 | 4 | 3 | 5 | 0 | 6 |
-| 76-90' | 4 | 6 | 10 | 7 | 6 | 6 |
+| 46-60' | 2 | 5 | 3 | 7 | 4 | 6 |
+| 61-75' | 4 | 5 | 6 | 5 | 0 | 6 |
+| 76-90' | 4 | 6 | 12 | 7 | 6 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -109,34 +109,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Manchester United
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Premier League | Chelsea 2-0 Manchester United | fuera | 7-8 | 12 (5) - 19 (10) | 4-1 |
 | 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | casa | 5-4 | 17 (5) - 10 (4) | 4-1 |
 | 2026-10-21 | Champions League | Como 4-1 Manchester United | fuera | 4-1 | 13 (4) - 11 (8) | 3-1 |
 | 2026-10-18 | Premier League | Leeds 1-1 Manchester United | fuera | 3-2 | 13 (3) - 12 (5) | 2-2 |
 | 2026-10-13 | Champions League | Atletico Madrid 2-0 Manchester United | fuera | 5-2 | 9 (4) - 11 (5) | 1-1 |
 | 2026-10-10 | Premier League | Manchester United 1-1 Tottenham | casa | 4-4 | 12 (4) - 12 (3) | 4-3 |
-| 2026-09-20 | Premier League | Fulham 1-1 Manchester United | fuera | 13-3 | 29 (6) - 12 (6) | 0-3 |
 
 ## Jugadores de Manchester United
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B. Mbeumo | F | 12 | 992 | 4 | 1 | 22 | 1,8 | 13 | 1,1 | 10 | 9 | 0,8 | 1 | 0 |
-| S. Lammens | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Bruno Fernandes | F | 11 | 884 | 4 | 1 | 21 | 1,9 | 9 | 0,8 | 6 | 8 | 0,7 | 2 | 0 |
+| B. Mbeumo | F | 13 | 1082 | 4 | 1 | 23 | 1,8 | 14 | 1,1 | 10 | 11 | 0,8 | 2 | 0 |
+| S. Lammens | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Bruno Fernandes | M | 12 | 974 | 4 | 1 | 23 | 1,9 | 9 | 0,8 | 8 | 10 | 0,8 | 2 | 0 |
+| Diogo Dalot | D | 12 | 919 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 11 | 3 | 0,2 | 2 | 0 |
+| H. Maguire | D | 11 | 910 | 0 | 0 | 9 | 0,8 | 2 | 0,2 | 8 | 9 | 0,8 | 4 | 0 |
 | Y. Tielemans | M | 12 | 883 | 0 | 3 | 10 | 0,8 | 4 | 0,3 | 7 | 20 | 1,7 | 1 | 0 |
-| Diogo Dalot | D | 11 | 829 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 10 | 3 | 0,3 | 2 | 0 |
-| H. Maguire | D | 10 | 820 | 0 | 0 | 9 | 0,9 | 2 | 0,2 | 7 | 8 | 0,8 | 3 | 0 |
-| Matheus Cunha | F | 12 | 705 | 2 | 2 | 17 | 1,4 | 9 | 0,8 | 13 | 14 | 1,2 | 0 | 0 |
-| Lisandro Martínez | D | 9 | 700 | 1 | 0 | 7 | 0,8 | 4 | 0,4 | 8 | 2 | 0,2 | 1 | 0 |
-| Kobbie Mainoo | M | 8 | 535 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,8 | 0 | 0 |
-| L. Yoro | D | 8 | 522 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 2 | 0,2 | 0 | 1 |
+| Matheus Cunha | M | 13 | 771 | 2 | 2 | 18 | 1,4 | 10 | 0,8 | 14 | 16 | 1,2 | 0 | 0 |
+| Lisandro Martínez | D | 10 | 763 | 1 | 0 | 7 | 0,7 | 4 | 0,4 | 11 | 2 | 0,2 | 1 | 1 |
+| L. Yoro | D | 9 | 612 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 2 | 0,2 | 0 | 1 |
+| K. Mainoo | M | 9 | 567 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,7 | 1 | 0 |
+| Andrey Santos | M | 10 | 563 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,5 | 3 | 0 |
 | Marcus Rashford | M | 8 | 502 | 0 | 0 | 13 | 1,6 | 6 | 0,8 | 5 | 8 | 1,0 | 1 | 0 |
-| Andrey Santos | M | 9 | 497 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 15 | 1,7 | 3 | 0 |
 | Luke Shaw | D | 5 | 425 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
 | N. Mazraoui | D | 7 | 413 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
-| M. Mount | M | 7 | 348 | 1 | 0 | 7 | 1,0 | 2 | 0,3 | 4 | 10 | 1,4 | 0 | 0 |
-| A. Heaven | D | 5 | 326 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 8 | 1,6 | 1 | 0 |
-| A. Diallo | M | 5 | 296 | 0 | 1 | 8 | 1,6 | 3 | 0,6 | 1 | 5 | 1,0 | 0 | 0 |
-| C. Baleba | M | 5 | 288 | 0 | 0 | 5 | 1,0 | 1 | 0,2 | 5 | 7 | 1,4 | 1 | 0 |
+| A. Diallo | M | 6 | 373 | 0 | 1 | 12 | 2,0 | 5 | 0,8 | 3 | 5 | 0,8 | 0 | 0 |
+| M. Mount | M | 8 | 372 | 1 | 0 | 7 | 0,9 | 2 | 0,2 | 5 | 10 | 1,2 | 0 | 0 |
+| A. Heaven | D | 6 | 350 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 8 | 1,3 | 1 | 0 |
+| C. Baleba | M | 6 | 346 | 0 | 0 | 6 | 1,0 | 1 | 0,2 | 7 | 7 | 1,2 | 1 | 0 |
 | Patrick Dorgu | D | 6 | 247 | 0 | 2 | 6 | 1,0 | 1 | 0,2 | 9 | 3 | 0,5 | 2 | 0 |
 | B. Šeško | F | 6 | 206 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
 
@@ -175,42 +175,42 @@ _Sin bajas comunicadas por ahora._
 | D. Ghilardi | D | 7 | 248 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 5 | 3 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,83 · córners esperados 9,1._
+_Goles esperados: local 1,59 · visitante 1,82 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 35% | 39% | 2.70 | +5% |
-| 1X2: X | 22% | 25% | 23% | 3.80 | -11% |
-| 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
-| Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
+| 1X2: 2 | 44% | 35% | 39% | 2.70 | +6% |
+| 1X2: X | 22% | 25% | 24% | 3.80 | -10% |
+| 1X2: 1 | 34% | 41% | 37% | 2.30 | -14% |
+| Doble oportunidad: X2 | 66% | 60% | 63% | 1.57 | -1% |
 | Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 57% | 65% | 61% | 1.44 | -12% |
-| Ambos marcan: No | 33% | 38% | 35% | 2.50 | -12% |
+| Doble oportunidad: 1X | 56% | 65% | 61% | 1.44 | -12% |
+| Ambos marcan: No | 33% | 38% | 35% | 2.50 | -11% |
 | Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
-| Goles más/menos: Más de 2.5 | 67% | 64% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 3.5 | 45% | 41% | 43% | 2.30 | -0% |
-| Goles más/menos: Más de 4.5 | 27% | 24% | 25% | 4.00 | +1% |
-| Goles más/menos: Menos de 2.5 | 33% | 36% | 35% | 2.62 | -9% |
-| Goles más/menos: Menos de 3.5 | 55% | 59% | 57% | 1.62 | -8% |
-| Goles más/menos: Menos de 4.5 | 73% | 76% | 75% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
-| Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
-| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
-| Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
+| Goles más/menos: Más de 2.5 | 66% | 64% | 65% | 1.50 | -3% |
+| Goles más/menos: Más de 3.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Más de 4.5 | 26% | 24% | 25% | 4.00 | -1% |
+| Goles más/menos: Menos de 2.5 | 34% | 36% | 35% | 2.62 | -8% |
+| Goles más/menos: Menos de 3.5 | 56% | 59% | 57% | 1.62 | -7% |
+| Goles más/menos: Menos de 4.5 | 74% | 76% | 75% | 1.25 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
+| Goles del local: Más de 0.5 | 80% | 79% | 79% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
+| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles del local: Menos de 0.5 | 20% | 21% | 21% | 4.50 | -7% |
+| Goles del local: Menos de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
+| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Goles del visitante: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del visitante: Más de 1.5 | 55% | 46% | 50% | 2.00 | +1% |
-| Goles del visitante: Más de 2.5 | 28% | 22% | 25% | 4.33 | +7% |
+| Goles del visitante: Más de 1.5 | 54% | 46% | 50% | 2.00 | +1% |
+| Goles del visitante: Más de 2.5 | 27% | 22% | 25% | 4.33 | +6% |
 | Goles del visitante: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -21% |
-| Goles del visitante: Menos de 1.5 | 45% | 54% | 50% | 1.73 | -14% |
-| Goles del visitante: Menos de 2.5 | 72% | 78% | 75% | 1.20 | -10% |
-| 1X2 descanso: 2 | 34% | 29% | 32% | 3.20 | +1% |
-| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -10% |
-| 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |
+| Goles del visitante: Menos de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Goles del visitante: Menos de 2.5 | 73% | 78% | 75% | 1.20 | -9% |
+| 1X2 descanso: 2 | 34% | 29% | 32% | 3.20 | +2% |
+| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -9% |
+| 1X2 descanso: 1 | 29% | 32% | 30% | 2.88 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

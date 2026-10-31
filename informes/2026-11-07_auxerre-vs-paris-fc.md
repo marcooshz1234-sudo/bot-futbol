@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -181,16 +181,16 @@ _Sin bajas comunicadas por ahora._
 | Jonathan Ikoné | F | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,83 · córners esperados 9,5._
+_Goles esperados: local 1,16 · visitante 1,82 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 53% | 49% | 51% | 1.90 | -3% |
 | 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
 | 1X2: 1 | 24% | 25% | 25% | 3.70 | -9% |
-| Doble oportunidad: X2 | 76% | 75% | 76% | 1.28 | -3% |
+| Doble oportunidad: X2 | 76% | 75% | 75% | 1.28 | -3% |
 | Doble oportunidad: 12 | 77% | 75% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 47% | 50% | 48% | 1.91 | -7% |
+| Doble oportunidad: 1X | 47% | 50% | 49% | 1.91 | -7% |
 | Ambos marcan: No | 43% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 57% | 56% | 57% | 1.67 | -5% |
 | Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
@@ -203,16 +203,16 @@ _Goles esperados: local 1,15 · visitante 1,83 · córners esperados 9,5._
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del local: Más de 0.5 | 68% | 69% | 69% | 1.36 | -7% |
-| Goles del local: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles del local: Más de 0.5 | 69% | 69% | 69% | 1.36 | -7% |
+| Goles del local: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles del local: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
 | Goles del local: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del visitante: Más de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
+| Goles del visitante: Más de 1.5 | 54% | 50% | 52% | 1.83 | -4% |
 | Goles del visitante: Más de 2.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles del visitante: Menos de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Goles del visitante: Menos de 1.5 | 46% | 50% | 48% | 1.83 | -13% |
 | Goles del visitante: Menos de 2.5 | 72% | 75% | 74% | 1.25 | -8% |
 | 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -5% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
+| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
 | 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

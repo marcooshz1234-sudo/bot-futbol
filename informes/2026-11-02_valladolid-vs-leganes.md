@@ -1,7 +1,7 @@
 # Valladolid – Leganes
 **Segunda División** · Regular Season - 12 · 02/11/2026 18:30 (hora España) · Estadio José Zorrilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -187,22 +187,22 @@ _Sin bajas comunicadas por ahora._
 | Enric Franquesa | D | 3 | 144 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 0,93 · córners esperados 9,4._
+_Goles esperados: local 1,48 · visitante 0,92 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 24% | 22% | 23% | 4.33 | -1% |
+| 1X2: 2 | 24% | 22% | 23% | 4.33 | -2% |
 | 1X2: X | 26% | 27% | 27% | 3.50 | -7% |
 | 1X2: 1 | 50% | 51% | 51% | 1.83 | -7% |
-| Doble oportunidad: X2 | 50% | 49% | 50% | 1.91 | -5% |
+| Doble oportunidad: X2 | 50% | 49% | 49% | 1.91 | -6% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 76% | 78% | 77% | 1.20 | -7% |
 | Ambos marcan: No | 53% | 50% | 52% | 1.83 | -5% |
 | Ambos marcan: Sí | 47% | 50% | 48% | 1.83 | -12% |
 | Goles más/menos: Más de 1.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles más/menos: Más de 2.5 | 43% | 47% | 45% | 2.00 | -10% |
+| Goles más/menos: Más de 2.5 | 43% | 47% | 45% | 2.00 | -9% |
 | Goles más/menos: Más de 3.5 | 22% | 28% | 25% | 3.40 | -15% |
 | Goles más/menos: Menos de 1.5 | 31% | 28% | 29% | 3.40 | -1% |
 | Goles más/menos: Menos de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
@@ -212,18 +212,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del local: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles del local: Más de 1.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Goles del local: Más de 2.5 | 18% | 23% | 21% | 4.00 | -16% |
+| Goles del local: Más de 1.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Goles del local: Más de 2.5 | 19% | 23% | 21% | 4.00 | -16% |
 | Goles del local: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -2% |
-| Goles del local: Menos de 1.5 | 57% | 51% | 54% | 1.80 | -3% |
-| Goles del local: Menos de 2.5 | 82% | 77% | 79% | 1.22 | -4% |
-| Goles del visitante: Más de 0.5 | 61% | 61% | 61% | 1.53 | -7% |
-| Goles del visitante: Más de 1.5 | 24% | 25% | 24% | 3.75 | -8% |
-| Goles del visitante: Menos de 0.5 | 39% | 39% | 39% | 2.38 | -6% |
-| Goles del visitante: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -6% |
-| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Goles del local: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -3% |
+| Goles del local: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles del visitante: Más de 0.5 | 60% | 61% | 61% | 1.53 | -7% |
+| Goles del visitante: Más de 1.5 | 24% | 25% | 24% | 3.75 | -9% |
+| Goles del visitante: Menos de 0.5 | 40% | 39% | 39% | 2.38 | -6% |
+| Goles del visitante: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
 | Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -4% |
-| 1X2 descanso: 1 | 35% | 39% | 37% | 2.40 | -11% |
+| 1X2 descanso: 1 | 36% | 39% | 37% | 2.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

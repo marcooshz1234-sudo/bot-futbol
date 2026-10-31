@@ -1,7 +1,7 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -173,7 +173,7 @@ _Sin precedentes recientes._
 | N. Bochorishvili | D | 2 | 29 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 4,05 · visitante 0,40 · córners esperados 9,4._
+_Goles esperados: local 4,06 · visitante 0,40 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -182,7 +182,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 1% | 5% | 3% | 17.00 | -41% |
 | 1X2: X | 4% | 13% | 9% | 7.00 | -40% |
 | 1X2: 1 | 95% | 81% | 88% | 1.14 | +0% |
-| Doble oportunidad: X2 | 5% | 18% | 12% | 5.50 | -37% |
+| Doble oportunidad: X2 | 5% | 18% | 11% | 5.50 | -37% |
 | Doble oportunidad: 12 | 96% | 88% | 92% | 1.10 | +1% |
 | Doble oportunidad: 1X | 99% | 95% | 97% | 1.02 | -1% |
 | Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
@@ -193,11 +193,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 18% | 33% | 25% | 2.88 | -27% |
 | Goles más/menos: Menos de 3.5 | 35% | 51% | 43% | 1.80 | -22% |
 | Goles más/menos: Menos de 4.5 | 54% | 71% | 63% | 1.33 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 46% | 52% | 2.00 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 86% | 78% | 82% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 58% | 46% | 52% | 2.00 | +4% |
 | Goles 1ª parte más/menos: Más de 2.5 | 30% | 23% | 27% | 4.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 54% | 48% | 1.73 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 54% | 48% | 1.73 | -17% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 70% | 77% | 73% | 1.22 | -11% |
 | Goles del local: Más de 1.5 | 91% | 77% | 84% | 1.22 | +2% |
 | Goles del local: Más de 2.5 | 77% | 56% | 66% | 1.67 | +11% |

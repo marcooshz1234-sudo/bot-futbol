@@ -1,7 +1,7 @@
 # Sunderland – Dinamo Zagreb
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -52,53 +52,53 @@ _Actualizadas: 31/10 13:55_
 ## Estadísticas de equipo
 | | Sunderland (total) | Sunderland en casa | Dinamo Zagreb (total) | Dinamo Zagreb fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 9 | 4 |
-| Forma (últimos 5) | VEEDV | VEDVD | DVEDE | EDVE |
-| Balance | 5V 3E 5D | 4V 1E 2D | 4V 3E 2D | 1V 2E 1D |
-| Goles a favor / partido | 1,08 | 0,86 | 1,89 | 1,00 |
-| Goles en contra / partido | 1,38 | 0,86 | 1,44 | 1,25 |
-| Goles a favor 1ª parte | 0,54 | 0,43 | 1,00 | 0,75 |
-| Goles a favor 2ª parte | 0,54 | 0,43 | 0,89 | 0,25 |
-| Goles en contra 1ª parte | 0,54 | 0,14 | 0,89 | 0,50 |
-| Goles en contra 2ª parte | 0,85 | 0,71 | 0,56 | 0,75 |
-| Más de 1,5 goles | 69% | 43% | 78% | 75% |
-| Más de 2,5 goles | 31% | 14% | 67% | 50% |
-| Más de 3,5 goles | 15% | 14% | 56% | 25% |
-| Ambos marcan | 46% | 14% | 67% | 75% |
-| Portería a cero | 31% | 57% | 33% | 25% |
-| Se queda sin marcar | 31% | 43% | 11% | 25% |
+| Partidos analizados | 14 | 7 | 9 | 4 |
+| Forma (últimos 5) | DVEED | VEDVD | DVEDE | EDVE |
+| Balance | 5V 3E 6D | 4V 1E 2D | 4V 3E 2D | 1V 2E 1D |
+| Goles a favor / partido | 1,07 | 0,86 | 1,89 | 1,00 |
+| Goles en contra / partido | 1,50 | 0,86 | 1,44 | 1,25 |
+| Goles a favor 1ª parte | 0,50 | 0,43 | 1,00 | 0,75 |
+| Goles a favor 2ª parte | 0,57 | 0,43 | 0,89 | 0,25 |
+| Goles en contra 1ª parte | 0,64 | 0,14 | 0,89 | 0,50 |
+| Goles en contra 2ª parte | 0,86 | 0,71 | 0,56 | 0,75 |
+| Más de 1,5 goles | 71% | 43% | 78% | 75% |
+| Más de 2,5 goles | 36% | 14% | 67% | 50% |
+| Más de 3,5 goles | 21% | 14% | 56% | 25% |
+| Ambos marcan | 50% | 14% | 67% | 75% |
+| Portería a cero | 29% | 57% | 33% | 25% |
+| Se queda sin marcar | 29% | 43% | 11% | 25% |
 | xG a favor | 1,79 | 1,81 | 2,33 | – |
-| xG en contra | 1,83 | 1,52 | 1,18 | – |
-| Tiros / partido | 14,1 | 13,0 | 18,4 | 15,7 |
-| Tiros a puerta / partido | 4,6 | 3,7 | 5,1 | 4,0 |
-| Tiros recibidos | 12,8 | 11,4 | 10,8 | 14,7 |
+| xG en contra | 1,75 | 1,52 | 1,18 | – |
+| Tiros / partido | 14,3 | 13,0 | 18,4 | 15,7 |
+| Tiros a puerta / partido | 4,4 | 3,7 | 5,1 | 4,0 |
+| Tiros recibidos | 12,7 | 11,4 | 10,8 | 14,7 |
 | Tiros a puerta recibidos | 3,6 | 3,3 | 4,1 | 5,0 |
 | Posesión media % | 49 | 46 | 55 | 48 |
-| Córners a favor | 5,2 | 5,3 | 6,4 | 3,2 |
-| Córners en contra | 4,7 | 5,4 | 3,8 | 6,5 |
-| Córners a favor 1ª parte | 2,7 | 2,6 | 2,6 | 1,0 |
-| Córners a favor 2ª parte | 2,5 | 2,7 | 3,3 | 2,0 |
-| Córners totales del partido | 9,9 | 10,7 | 10,2 | 9,8 |
-| Córners totales 1ª parte | 4,8 | 4,9 | 3,7 | 3,2 |
-| Córners totales 2ª parte | 5,2 | 5,9 | 5,1 | 4,2 |
-| Más de 8,5 córners | 54% | 57% | 56% | 50% |
-| Más de 9,5 córners | 38% | 43% | 44% | 25% |
-| Más de 10,5 córners | 38% | 43% | 33% | 25% |
-| Faltas cometidas | 11,7 | 10,9 | 13,1 | 11,5 |
-| Faltas recibidas | 13,9 | 14,3 | 14,2 | 14,8 |
-| Amarillas propias | 1,8 | 1,7 | 1,6 | 1,2 |
+| Córners a favor | 5,1 | 5,3 | 6,4 | 3,2 |
+| Córners en contra | 4,6 | 5,4 | 3,8 | 6,5 |
+| Córners a favor 1ª parte | 2,6 | 2,6 | 2,6 | 1,0 |
+| Córners a favor 2ª parte | 2,6 | 2,7 | 3,3 | 2,0 |
+| Córners totales del partido | 9,8 | 10,7 | 10,2 | 9,8 |
+| Córners totales 1ª parte | 4,7 | 4,9 | 3,7 | 3,2 |
+| Córners totales 2ª parte | 5,1 | 5,9 | 5,1 | 4,2 |
+| Más de 8,5 córners | 50% | 57% | 56% | 50% |
+| Más de 9,5 córners | 36% | 43% | 44% | 25% |
+| Más de 10,5 córners | 36% | 43% | 33% | 25% |
+| Faltas cometidas | 11,5 | 10,9 | 13,1 | 11,5 |
+| Faltas recibidas | 14,1 | 14,3 | 14,2 | 14,8 |
+| Amarillas propias | 1,7 | 1,7 | 1,6 | 1,2 |
 | Amarillas del rival | 1,7 | 2,1 | 1,8 | 2,2 |
-| Rojas / partido | 0,15 | 0,14 | 0,11 | 0,25 |
+| Rojas / partido | 0,21 | 0,14 | 0,11 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sunderland | Recibe Sunderland | Tarjetas Sunderland | Goles Dinamo Zagreb | Recibe Dinamo Zagreb | Tarjetas Dinamo Zagreb |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 2 | 2 | 3 | 1 | 1 |
-| 16-30' | 2 | 2 | 4 | 2 | 5 | 4 |
-| 31-45' | 3 | 3 | 5 | 4 | 2 | 1 |
-| 46-60' | 1 | 5 | 1 | 1 | 4 | 3 |
-| 61-75' | 4 | 1 | 6 | 1 | 0 | 4 |
-| 76-90' | 2 | 5 | 8 | 6 | 1 | 2 |
+| 16-30' | 2 | 3 | 4 | 2 | 5 | 4 |
+| 31-45' | 3 | 4 | 5 | 4 | 2 | 1 |
+| 46-60' | 1 | 6 | 1 | 1 | 4 | 3 |
+| 61-75' | 5 | 1 | 6 | 1 | 0 | 4 |
+| 76-90' | 2 | 5 | 10 | 6 | 1 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -111,35 +111,35 @@ _Sin precedentes recientes._
 ## Últimos partidos de Sunderland
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Premier League | Coventry 3-1 Sunderland | fuera | 4-4 | 17 (2) - 12 (4) | 0-2 |
 | 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | casa | 0-5 | 7 (4) - 16 (7) | 1-3 |
 | 2026-10-25 | Premier League | Sunderland 0-0 Leeds | casa | 4-5 | 15 (4) - 11 (4) | 1-2 |
 | 2026-10-22 | Europa League | Lech Poznan 1-1 Sunderland | fuera | 6-3 | 25 (11) - 16 (6) | 1-0 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | fuera | 3-5 | 3 (0) - 29 (6) | 2-3 |
 | 2026-10-15 | Europa League | Torreense 1-2 Sunderland | fuera | 9-2 | 22 (5) - 3 (1) | 3-1 |
-| 2026-10-10 | Premier League | Sunderland 0-2 Brighton | casa | 7-5 | 12 (3) - 13 (4) | 0-1 |
 
 ## Jugadores de Sunderland
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Roefs | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| G. Xhaka | M | 11 | 905 | 0 | 1 | 9 | 0,8 | 3 | 0,3 | 7 | 16 | 1,5 | 2 | 0 |
-| N. Sadiki | M | 11 | 889 | 1 | 0 | 8 | 0,7 | 4 | 0,4 | 7 | 14 | 1,3 | 1 | 0 |
-| E. Le Fée | M | 11 | 838 | 2 | 1 | 20 | 1,8 | 6 | 0,5 | 7 | 22 | 2,0 | 1 | 0 |
+| R. Roefs | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
+| G. Xhaka | M | 12 | 995 | 0 | 1 | 9 | 0,8 | 3 | 0,2 | 7 | 17 | 1,4 | 2 | 0 |
+| N. Sadiki | M | 12 | 964 | 1 | 0 | 8 | 0,7 | 4 | 0,3 | 8 | 16 | 1,3 | 1 | 0 |
+| E. Le Fée | M | 12 | 928 | 3 | 1 | 22 | 1,8 | 7 | 0,6 | 7 | 23 | 1,9 | 1 | 0 |
+| Reinildo | D | 11 | 829 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 12 | 1,1 | 3 | 1 |
+| T. Hume | D | 12 | 795 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 12 | 8 | 0,7 | 2 | 0 |
 | N. Mukiele | D | 10 | 776 | 0 | 1 | 12 | 1,2 | 3 | 0,3 | 11 | 6 | 0,6 | 3 | 0 |
-| Reinildo | D | 10 | 739 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 12 | 1,2 | 3 | 1 |
-| T. Hume | D | 11 | 720 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 10 | 6 | 0,5 | 2 | 0 |
+| N. Angulo | M | 11 | 671 | 1 | 2 | 12 | 1,1 | 7 | 0,6 | 10 | 11 | 1,0 | 1 | 0 |
 | K. Danso | D | 8 | 641 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 8 | 5 | 0,6 | 1 | 1 |
-| N. Angulo | M | 10 | 614 | 1 | 2 | 11 | 1,1 | 7 | 0,7 | 10 | 10 | 1,0 | 1 | 0 |
-| T. Meunier | D | 9 | 511 | 0 | 2 | 4 | 0,4 | 4 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
-| M. Fofana | M | 9 | 500 | 1 | 0 | 13 | 1,4 | 7 | 0,8 | 8 | 7 | 0,8 | 0 | 0 |
-| B. Brobbey | F | 7 | 489 | 3 | 0 | 10 | 1,4 | 7 | 1,0 | 9 | 11 | 1,6 | 1 | 0 |
-| L. O&apos;Nien | M | 7 | 488 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 5 | 5 | 0,7 | 2 | 0 |
+| B. Brobbey | F | 8 | 579 | 3 | 0 | 12 | 1,5 | 7 | 0,9 | 10 | 13 | 1,6 | 1 | 0 |
+| L. O&apos;Nien | D | 8 | 578 | 0 | 0 | 7 | 0,9 | 0 | 0,0 | 5 | 5 | 0,6 | 2 | 0 |
+| T. Meunier | D | 10 | 526 | 0 | 2 | 4 | 0,4 | 4 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
+| M. Fofana | F | 10 | 515 | 1 | 0 | 13 | 1,3 | 7 | 0,7 | 8 | 7 | 0,7 | 0 | 0 |
+| O. Alderete | D | 8 | 511 | 0 | 0 | 9 | 1,1 | 1 | 0,1 | 12 | 1 | 0,1 | 2 | 1 |
+| C. Rigg | M | 10 | 492 | 0 | 0 | 10 | 1,0 | 1 | 0,1 | 8 | 10 | 1,0 | 2 | 0 |
 | Daniel Ballard | D | 6 | 488 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 10 | 8 | 1,3 | 2 | 0 |
-| C. Rigg | M | 9 | 435 | 0 | 0 | 7 | 0,8 | 0 | 0,0 | 8 | 8 | 0,9 | 2 | 0 |
-| O. Alderete | D | 7 | 412 | 0 | 0 | 8 | 1,1 | 1 | 0,1 | 8 | 1 | 0,1 | 2 | 0 |
 | D. Methalie | D | 6 | 411 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
+| W. Isidor | F | 9 | 386 | 1 | 0 | 10 | 1,1 | 2 | 0,2 | 10 | 8 | 0,9 | 0 | 0 |
 | Jules Ahoka | M | 5 | 385 | 1 | 0 | 9 | 1,8 | 2 | 0,4 | 4 | 6 | 1,2 | 0 | 0 |
-| Wilson Isidor | F | 8 | 353 | 1 | 0 | 9 | 1,1 | 2 | 0,2 | 9 | 7 | 0,9 | 0 | 0 |
 | Timur Tuterov | F | 6 | 330 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
 
 ## Últimos partidos de Dinamo Zagreb
@@ -177,41 +177,41 @@ _Sin precedentes recientes._
 | Iker Almena | M | 3 | 133 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 1,13 · córners esperados 9,8._
+_Goles esperados: local 1,94 · visitante 1,16 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 15% | 18% | 6.25 | +15% |
+| 1X2: 2 | 23% | 15% | 19% | 6.25 | +17% |
 | 1X2: X | 22% | 20% | 21% | 4.50 | -4% |
-| 1X2: 1 | 56% | 65% | 60% | 1.42 | -14% |
-| Doble oportunidad: X2 | 44% | 35% | 39% | 2.75 | +8% |
-| Doble oportunidad: 12 | 78% | 81% | 79% | 1.18 | -7% |
-| Doble oportunidad: 1X | 78% | 85% | 81% | 1.12 | -9% |
-| Ambos marcan: No | 42% | 48% | 45% | 1.95 | -12% |
-| Ambos marcan: Sí | 58% | 52% | 55% | 1.80 | -1% |
-| Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
-| Goles más/menos: Más de 2.5 | 59% | 59% | 59% | 1.62 | -5% |
-| Goles más/menos: Más de 3.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles más/menos: Más de 4.5 | 19% | 22% | 21% | 4.33 | -10% |
-| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles más/menos: Menos de 2.5 | 41% | 41% | 41% | 2.30 | -5% |
-| Goles más/menos: Menos de 3.5 | 63% | 62% | 63% | 1.53 | -4% |
-| Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del local: Más de 1.5 | 57% | 65% | 61% | 1.44 | -12% |
-| Goles del local: Más de 2.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del local: Menos de 1.5 | 43% | 35% | 39% | 2.62 | +2% |
-| Goles del local: Menos de 2.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del visitante: Más de 0.5 | 68% | 59% | 63% | 1.57 | -1% |
-| Goles del visitante: Más de 1.5 | 31% | 25% | 28% | 3.75 | +6% |
-| Goles del visitante: Menos de 0.5 | 32% | 41% | 37% | 2.25 | -18% |
-| Goles del visitante: Menos de 1.5 | 69% | 75% | 72% | 1.25 | -10% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
+| 1X2: 1 | 55% | 65% | 60% | 1.42 | -15% |
+| Doble oportunidad: X2 | 45% | 35% | 40% | 2.75 | +9% |
+| Doble oportunidad: 12 | 78% | 81% | 79% | 1.18 | -6% |
+| Doble oportunidad: 1X | 77% | 85% | 81% | 1.12 | -9% |
+| Ambos marcan: No | 41% | 48% | 45% | 1.95 | -13% |
+| Ambos marcan: Sí | 59% | 52% | 55% | 1.80 | -0% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 80% | 1.20 | -4% |
+| Goles más/menos: Más de 2.5 | 60% | 59% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 20% | 4.50 | -11% |
+| Goles más/menos: Menos de 2.5 | 40% | 41% | 41% | 2.30 | -6% |
+| Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.53 | -5% |
+| Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
+| Goles del local: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
+| Goles del local: Más de 2.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles del local: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
+| Goles del local: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del visitante: Más de 0.5 | 69% | 59% | 64% | 1.57 | +0% |
+| Goles del visitante: Más de 1.5 | 32% | 25% | 29% | 3.75 | +8% |
+| Goles del visitante: Menos de 0.5 | 31% | 41% | 36% | 2.25 | -19% |
+| Goles del visitante: Menos de 1.5 | 68% | 75% | 71% | 1.25 | -11% |
+| 1X2 descanso: X | 38% | 36% | 37% | 2.60 | -4% |
 | 1X2 descanso: 1 | 41% | 49% | 45% | 1.91 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

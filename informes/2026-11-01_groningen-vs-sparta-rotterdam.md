@@ -1,7 +1,7 @@
 # Groningen – Sparta Rotterdam
 **Eredivisie** · Regular Season - 11 · 01/11/2026 16:45 (hora España) · Hitachi Capital Mobility Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -193,43 +193,43 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Joel Ideho | F | 6 | 143 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 1 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,44 · visitante 1,87 · córners esperados 10,4._
+_Goles esperados: local 2,45 · visitante 1,86 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 23% | 27% | 4.10 | +9% |
+| 1X2: 2 | 30% | 23% | 26% | 4.10 | +8% |
 | 1X2: X | 19% | 23% | 21% | 4.20 | -12% |
 | 1X2: 1 | 51% | 54% | 53% | 1.75 | -8% |
-| Doble oportunidad: X2 | 49% | 47% | 48% | 2.00 | -4% |
+| Doble oportunidad: X2 | 49% | 47% | 48% | 2.00 | -5% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 70% | 77% | 73% | 1.22 | -10% |
+| Doble oportunidad: 1X | 70% | 77% | 74% | 1.22 | -10% |
 | Ambos marcan: No | 23% | 35% | 29% | 2.62 | -24% |
 | Ambos marcan: Sí | 77% | 65% | 71% | 1.44 | +2% |
 | Goles más/menos: Más de 2.5 | 80% | 65% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 3.5 | 62% | 46% | 54% | 2.00 | +9% |
-| Goles más/menos: Más de 4.5 | 43% | 27% | 35% | 3.50 | +22% |
-| Goles más/menos: Menos de 2.5 | 20% | 35% | 27% | 2.70 | -26% |
-| Goles más/menos: Menos de 3.5 | 38% | 54% | 46% | 1.73 | -21% |
+| Goles más/menos: Más de 3.5 | 63% | 46% | 54% | 2.00 | +9% |
+| Goles más/menos: Más de 4.5 | 43% | 27% | 35% | 3.50 | +23% |
+| Goles más/menos: Menos de 2.5 | 20% | 35% | 27% | 2.70 | -27% |
+| Goles más/menos: Menos de 3.5 | 37% | 54% | 46% | 1.73 | -21% |
 | Goles más/menos: Menos de 4.5 | 57% | 73% | 65% | 1.28 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -11% |
-| Goles del local: Más de 1.5 | 70% | 61% | 65% | 1.53 | +0% |
-| Goles del local: Más de 2.5 | 44% | 35% | 40% | 2.62 | +4% |
-| Goles del local: Menos de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
-| Goles del local: Menos de 2.5 | 56% | 65% | 60% | 1.44 | -13% |
-| Goles del visitante: Más de 0.5 | 85% | 72% | 78% | 1.30 | +2% |
+| Goles del local: Más de 1.5 | 70% | 61% | 66% | 1.53 | +0% |
+| Goles del local: Más de 2.5 | 44% | 35% | 40% | 2.62 | +5% |
+| Goles del local: Menos de 1.5 | 30% | 39% | 34% | 2.38 | -18% |
+| Goles del local: Menos de 2.5 | 56% | 65% | 60% | 1.44 | -14% |
+| Goles del visitante: Más de 0.5 | 84% | 72% | 78% | 1.30 | +2% |
 | Goles del visitante: Más de 1.5 | 56% | 39% | 47% | 2.38 | +13% |
-| Goles del visitante: Menos de 0.5 | 15% | 28% | 22% | 3.40 | -27% |
-| Goles del visitante: Menos de 1.5 | 44% | 61% | 53% | 1.53 | -20% |
+| Goles del visitante: Menos de 0.5 | 16% | 28% | 22% | 3.40 | -27% |
+| Goles del visitante: Menos de 1.5 | 44% | 61% | 53% | 1.53 | -19% |
 | Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -15% |
 | Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +2% |
-| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +0% |
 | 1X2 descanso: X | 32% | 35% | 34% | 2.60 | -13% |
 | 1X2 descanso: 1 | 41% | 42% | 41% | 2.20 | -9% |
 

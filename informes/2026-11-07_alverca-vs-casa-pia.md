@@ -1,7 +1,7 @@
 # Alverca – Casa Pia
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 19:00 (hora España) · FC Alverca Sports Complex
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -136,6 +136,6 @@ _Sin bajas comunicadas por ahora._
 | P. Sequeira | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 0,86 · córners esperados 9,6._
+_Goles esperados: local 1,72 · visitante 0,86 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

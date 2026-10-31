@@ -1,7 +1,7 @@
 # Leganes – Albacete
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | D. Bernabeu | D | 8 | 235 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 0,92 · córners esperados 9,6._
+_Goles esperados: local 1,33 · visitante 0,93 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

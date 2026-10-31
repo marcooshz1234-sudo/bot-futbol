@@ -1,7 +1,7 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -173,41 +173,41 @@ _Sin precedentes recientes._
 | Gabriel Debeljuh | F | 2 | 36 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,90 · visitante 0,82 · córners esperados 10,1._
+_Goles esperados: local 2,91 · visitante 0,82 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 7% | 7% | 13.00 | -4% |
-| 1X2: X | 13% | 15% | 14% | 6.25 | -14% |
+| 1X2: 2 | 8% | 7% | 7% | 13.00 | -5% |
+| 1X2: X | 13% | 15% | 14% | 6.25 | -15% |
 | 1X2: 1 | 80% | 78% | 79% | 1.18 | -7% |
-| Doble oportunidad: X2 | 20% | 21% | 21% | 4.50 | -6% |
+| Doble oportunidad: X2 | 20% | 21% | 21% | 4.50 | -7% |
 | Doble oportunidad: 12 | 87% | 86% | 87% | 1.12 | -3% |
-| Doble oportunidad: 1X | 92% | 93% | 92% | 1.04 | -4% |
+| Doble oportunidad: 1X | 92% | 93% | 93% | 1.04 | -4% |
 | Ambos marcan: No | 47% | 50% | 49% | 1.83 | -11% |
 | Ambos marcan: Sí | 53% | 50% | 51% | 1.83 | -6% |
 | Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -4% |
-| Goles más/menos: Más de 3.5 | 51% | 50% | 50% | 1.83 | -8% |
-| Goles más/menos: Más de 4.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.83 | -7% |
+| Goles más/menos: Más de 4.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
-| Goles más/menos: Menos de 3.5 | 49% | 50% | 50% | 1.83 | -9% |
-| Goles más/menos: Menos de 4.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Goles más/menos: Menos de 4.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
 | Goles del local: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 2.5 | 55% | 56% | 56% | 1.67 | -7% |
+| Goles del local: Más de 2.5 | 56% | 56% | 56% | 1.67 | -7% |
 | Goles del local: Más de 3.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del local: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -10% |
-| Goles del local: Menos de 2.5 | 45% | 44% | 44% | 2.10 | -7% |
-| Goles del local: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -5% |
+| Goles del local: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles del local: Menos de 2.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Goles del local: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -6% |
 | Goles del visitante: Más de 0.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -10% |
-| 1X2 descanso: X | 30% | 30% | 30% | 3.10 | -7% |
+| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -9% |
+| 1X2 descanso: X | 30% | 30% | 30% | 3.10 | -8% |
 | 1X2 descanso: 1 | 60% | 60% | 60% | 1.53 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -170,25 +170,25 @@ _Sin precedentes recientes._
 | Nicolas Moumie Ngamaleu | F | 1 | 47 | 1 | 1 | 1 | 1,0 | 1 | 1,0 | 1 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,42 · visitante 0,99 · córners esperados 10,2._
+_Goles esperados: local 2,43 · visitante 0,98 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 11% | 12% | 8.50 | +4% |
-| 1X2: X | 17% | 16% | 17% | 5.75 | -3% |
+| 1X2: 2 | 13% | 11% | 12% | 8.50 | +4% |
+| 1X2: X | 17% | 16% | 17% | 5.75 | -4% |
 | 1X2: 1 | 69% | 73% | 71% | 1.27 | -10% |
-| Doble oportunidad: X2 | 31% | 26% | 28% | 3.75 | +7% |
+| Doble oportunidad: X2 | 31% | 26% | 28% | 3.75 | +6% |
 | Doble oportunidad: 12 | 83% | 85% | 84% | 1.14 | -5% |
-| Doble oportunidad: 1X | 86% | 89% | 88% | 1.08 | -5% |
+| Doble oportunidad: 1X | 87% | 89% | 88% | 1.08 | -5% |
 | Ambos marcan: No | 43% | 49% | 46% | 1.91 | -13% |
 | Ambos marcan: Sí | 57% | 51% | 54% | 1.80 | -2% |
 | Goles más/menos: Más de 2.5 | 66% | 67% | 67% | 1.40 | -7% |
 | Goles más/menos: Más de 3.5 | 44% | 46% | 45% | 2.00 | -9% |
 | Goles más/menos: Más de 4.5 | 26% | 28% | 27% | 3.40 | -9% |
 | Goles más/menos: Menos de 2.5 | 34% | 33% | 33% | 2.88 | -4% |
-| Goles más/menos: Menos de 3.5 | 56% | 54% | 55% | 1.73 | -5% |
+| Goles más/menos: Menos de 3.5 | 56% | 54% | 55% | 1.73 | -6% |
 | Goles más/menos: Menos de 4.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 46% | 45% | 2.00 | -10% |
@@ -197,15 +197,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -5% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 81% | 78% | 80% | 1.20 | -4% |
 | Goles del local: Más de 1.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Goles del local: Más de 2.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Goles del local: Más de 3.5 | 22% | 28% | 25% | 3.40 | -15% |
-| Goles del local: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles del local: Menos de 2.5 | 57% | 51% | 54% | 1.80 | -3% |
-| Goles del local: Menos de 3.5 | 78% | 72% | 75% | 1.30 | -3% |
+| Goles del local: Más de 2.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Goles del local: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles del local: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles del local: Menos de 2.5 | 56% | 51% | 54% | 1.80 | -3% |
+| Goles del local: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles del visitante: Más de 0.5 | 63% | 56% | 59% | 1.67 | -1% |
 | Goles del visitante: Más de 1.5 | 26% | 22% | 24% | 4.33 | +3% |
 | Goles del visitante: Menos de 0.5 | 37% | 44% | 41% | 2.10 | -14% |
-| Goles del visitante: Menos de 1.5 | 74% | 78% | 76% | 1.20 | -9% |
+| Goles del visitante: Menos de 1.5 | 74% | 78% | 76% | 1.20 | -8% |
 | 1X2 descanso: X | 34% | 32% | 33% | 2.88 | -4% |
 | 1X2 descanso: 1 | 51% | 55% | 53% | 1.67 | -11% |
 

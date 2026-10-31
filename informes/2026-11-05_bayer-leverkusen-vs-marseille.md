@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -54,53 +54,53 @@ _Actualizadas: 31/10 13:55_
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | Marseille (total) | Marseille fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 11 | 6 |
-| Forma (últimos 5) | VDVVV | VVVVV | VDVDV | DVVDD |
-| Balance | 9V 1E 2D | 5V 0E 0D | 4V 0E 7D | 2V 0E 4D |
-| Goles a favor / partido | 2,75 | 3,00 | 1,73 | 1,33 |
-| Goles en contra / partido | 1,17 | 0,60 | 1,73 | 1,67 |
-| Goles a favor 1ª parte | 1,25 | 1,20 | 0,55 | 0,50 |
-| Goles a favor 2ª parte | 1,50 | 1,80 | 1,18 | 0,83 |
-| Goles en contra 1ª parte | 0,58 | 0,60 | 0,64 | 0,67 |
-| Goles en contra 2ª parte | 0,58 | 0,00 | 1,09 | 1,00 |
+| Partidos analizados | 13 | 6 | 11 | 6 |
+| Forma (últimos 5) | DVDVV | DVVVV | VDVDV | DVVDD |
+| Balance | 9V 1E 3D | 5V 0E 1D | 4V 0E 7D | 2V 0E 4D |
+| Goles a favor / partido | 2,69 | 2,83 | 1,73 | 1,33 |
+| Goles en contra / partido | 1,38 | 1,17 | 1,73 | 1,67 |
+| Goles a favor 1ª parte | 1,23 | 1,17 | 0,55 | 0,50 |
+| Goles a favor 2ª parte | 1,46 | 1,67 | 1,18 | 0,83 |
+| Goles en contra 1ª parte | 0,69 | 0,83 | 0,64 | 0,67 |
+| Goles en contra 2ª parte | 0,69 | 0,33 | 1,09 | 1,00 |
 | Más de 1,5 goles | 100% | 100% | 73% | 67% |
-| Más de 2,5 goles | 75% | 60% | 55% | 33% |
-| Más de 3,5 goles | 58% | 40% | 45% | 33% |
-| Ambos marcan | 42% | 40% | 45% | 33% |
-| Portería a cero | 50% | 60% | 18% | 17% |
+| Más de 2,5 goles | 77% | 67% | 55% | 33% |
+| Más de 3,5 goles | 62% | 50% | 45% | 33% |
+| Ambos marcan | 46% | 50% | 45% | 33% |
+| Portería a cero | 46% | 50% | 18% | 17% |
 | Se queda sin marcar | 8% | 0% | 36% | 50% |
-| xG a favor | 2,52 | 2,41 | 1,51 | 1,50 |
-| xG en contra | 1,29 | 0,90 | 1,99 | 1,67 |
-| Tiros / partido | 20,2 | 18,6 | 12,9 | 13,3 |
-| Tiros a puerta / partido | 7,4 | 7,8 | 4,4 | 3,5 |
-| Tiros recibidos | 10,2 | 7,6 | 15,6 | 14,7 |
-| Tiros a puerta recibidos | 3,2 | 2,2 | 5,5 | 5,0 |
-| Posesión media % | 60 | 56 | 57 | 59 |
-| Córners a favor | 7,0 | 8,6 | 4,6 | 4,5 |
-| Córners en contra | 3,6 | 3,0 | 3,6 | 3,5 |
-| Córners a favor 1ª parte | 2,4 | 3,2 | 2,6 | 2,7 |
-| Córners a favor 2ª parte | 4,6 | 5,4 | 2,0 | 1,8 |
-| Córners totales del partido | 10,6 | 11,6 | 8,3 | 8,0 |
-| Córners totales 1ª parte | 4,6 | 4,6 | 4,5 | 4,2 |
-| Córners totales 2ª parte | 6,0 | 7,0 | 3,8 | 3,8 |
-| Más de 8,5 córners | 50% | 60% | 45% | 33% |
-| Más de 9,5 córners | 42% | 60% | 27% | 17% |
-| Más de 10,5 córners | 42% | 60% | 9% | 17% |
-| Faltas cometidas | 12,9 | 12,6 | 11,5 | 11,8 |
-| Faltas recibidas | 9,8 | 8,6 | 12,0 | 13,8 |
-| Amarillas propias | 1,6 | 1,2 | 1,6 | 1,7 |
-| Amarillas del rival | 1,7 | 1,4 | 2,3 | 2,5 |
+| xG a favor | 2,48 | 2,35 | 1,51 | 1,50 |
+| xG en contra | 1,42 | 1,23 | 1,99 | 1,67 |
+| Tiros / partido | 20,5 | 19,5 | 12,9 | 13,3 |
+| Tiros a puerta / partido | 7,5 | 7,8 | 4,4 | 3,5 |
+| Tiros recibidos | 10,6 | 8,8 | 15,6 | 14,7 |
+| Tiros a puerta recibidos | 3,5 | 3,0 | 5,5 | 5,0 |
+| Posesión media % | 60 | 57 | 57 | 59 |
+| Córners a favor | 7,4 | 9,2 | 4,6 | 4,5 |
+| Córners en contra | 3,5 | 3,0 | 3,6 | 3,5 |
+| Córners a favor 1ª parte | 2,6 | 3,5 | 2,6 | 2,7 |
+| Córners a favor 2ª parte | 4,8 | 5,7 | 2,0 | 1,8 |
+| Córners totales del partido | 10,9 | 12,2 | 8,3 | 8,0 |
+| Córners totales 1ª parte | 4,8 | 5,0 | 4,5 | 4,2 |
+| Córners totales 2ª parte | 6,2 | 7,2 | 3,8 | 3,8 |
+| Más de 8,5 córners | 54% | 67% | 45% | 33% |
+| Más de 9,5 córners | 46% | 67% | 27% | 17% |
+| Más de 10,5 córners | 46% | 67% | 9% | 17% |
+| Faltas cometidas | 12,6 | 12,0 | 11,5 | 11,8 |
+| Faltas recibidas | 10,0 | 9,3 | 12,0 | 13,8 |
+| Amarillas propias | 1,8 | 1,7 | 1,6 | 1,7 |
+| Amarillas del rival | 1,8 | 1,8 | 2,3 | 2,5 |
 | Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen | Goles Marseille | Recibe Marseille | Tarjetas Marseille |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 4 | 1 | 2 | 5 | 0 |
-| 16-30' | 4 | 1 | 1 | 1 | 1 | 1 |
-| 31-45' | 7 | 2 | 1 | 3 | 1 | 5 |
-| 46-60' | 5 | 3 | 2 | 6 | 4 | 0 |
-| 61-75' | 5 | 0 | 5 | 2 | 3 | 2 |
-| 76-90' | 8 | 4 | 11 | 5 | 5 | 11 |
+| 1-15' | 4 | 5 | 1 | 2 | 5 | 0 |
+| 16-30' | 5 | 2 | 3 | 1 | 1 | 1 |
+| 31-45' | 7 | 2 | 3 | 3 | 1 | 5 |
+| 46-60' | 5 | 4 | 3 | 6 | 4 | 0 |
+| 61-75' | 5 | 1 | 5 | 2 | 3 | 2 |
+| 76-90' | 9 | 4 | 11 | 5 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -113,34 +113,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bayer Leverkusen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Bundesliga | Bayer Leverkusen 2-4 VfB Stuttgart | casa | 12-3 | 24 (8) - 15 (7) | 4-4 |
 | 2026-10-28 | DFB-Pokal | Bayer Leverkusen 5-2 1. FC Nürnberg | casa | 13-3 | 25 (10) - 5 (3) | 2-1 |
 | 2026-10-25 | Bundesliga | 1899 Hoffenheim 3-0 Bayer Leverkusen | fuera | 3-5 | 9 (1) - 20 (6) | 4-2 |
 | 2026-10-22 | Europa League | OFI 0-2 Bayer Leverkusen | fuera | 10-5 | 33 (15) - 6 (2) | 3-1 |
 | 2026-10-18 | Bundesliga | Bayer Leverkusen 2-1 SC Freiburg | casa | 4-3 | 12 (5) - 11 (2) | 0-1 |
 | 2026-10-15 | Europa League | Lech Poznan 0-4 Bayer Leverkusen | fuera | 5-4 | 22 (10) - 10 (3) | 2-1 |
-| 2026-10-10 | Bundesliga | FSV Mainz 05 3-4 Bayer Leverkusen | fuera | 3-4 | 16 (7) - 23 (5) | 1-3 |
 
 ## Jugadores de Bayer Leverkusen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Aleix García | M | 12 | 1046 | 0 | 4 | 16 | 1,3 | 5 | 0,4 | 4 | 2 | 0,2 | 1 | 0 |
-| E. Tapsoba | D | 12 | 1006 | 2 | 1 | 10 | 0,8 | 5 | 0,4 | 5 | 6 | 0,5 | 1 | 0 |
-| Miguel Gutiérrez | D | 11 | 892 | 1 | 3 | 7 | 0,6 | 3 | 0,3 | 11 | 8 | 0,7 | 1 | 0 |
-| I. Maza | M | 11 | 839 | 3 | 3 | 23 | 2,1 | 5 | 0,5 | 16 | 12 | 1,1 | 2 | 0 |
-| F. Medina | D | 12 | 832 | 2 | 0 | 8 | 0,7 | 5 | 0,4 | 12 | 4 | 0,3 | 2 | 0 |
-| P. Schick | F | 12 | 829 | 10 | 2 | 36 | 3,0 | 18 | 1,5 | 9 | 9 | 0,8 | 1 | 0 |
-| M. Flekken | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Afonso Moreira | M | 12 | 768 | 0 | 3 | 22 | 1,8 | 11 | 0,9 | 11 | 15 | 1,2 | 1 | 0 |
-| E. Fernández | M | 12 | 759 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 13 | 14 | 1,2 | 3 | 0 |
-| J. Quansah | D | 11 | 689 | 1 | 1 | 6 | 0,5 | 3 | 0,3 | 12 | 5 | 0,5 | 2 | 0 |
-| M. Tillman | M | 11 | 588 | 1 | 2 | 7 | 0,6 | 3 | 0,3 | 11 | 12 | 1,1 | 0 | 0 |
+| Aleix García | M | 13 | 1129 | 0 | 5 | 17 | 1,3 | 5 | 0,4 | 5 | 2 | 0,2 | 2 | 0 |
+| E. Tapsoba | D | 13 | 1096 | 2 | 1 | 10 | 0,8 | 5 | 0,4 | 5 | 6 | 0,5 | 1 | 0 |
+| Miguel Gutiérrez | D | 12 | 982 | 1 | 4 | 8 | 0,7 | 3 | 0,2 | 12 | 8 | 0,7 | 1 | 0 |
+| I. Maza | M | 12 | 929 | 4 | 3 | 27 | 2,2 | 7 | 0,6 | 19 | 17 | 1,4 | 3 | 0 |
+| F. Medina | D | 13 | 922 | 2 | 0 | 9 | 0,7 | 6 | 0,5 | 13 | 6 | 0,5 | 3 | 0 |
+| P. Schick | F | 13 | 919 | 11 | 2 | 42 | 3,2 | 20 | 1,5 | 9 | 10 | 0,8 | 1 | 0 |
+| M. Flekken | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Afonso Moreira | M | 13 | 843 | 0 | 3 | 28 | 2,2 | 14 | 1,1 | 11 | 17 | 1,3 | 1 | 0 |
+| E. Fernández | M | 13 | 835 | 1 | 0 | 7 | 0,5 | 2 | 0,2 | 14 | 16 | 1,2 | 4 | 0 |
+| J. Quansah | D | 12 | 779 | 1 | 1 | 8 | 0,7 | 3 | 0,2 | 12 | 5 | 0,4 | 2 | 0 |
+| M. Tillman | M | 12 | 603 | 1 | 2 | 7 | 0,6 | 3 | 0,2 | 11 | 12 | 1,0 | 0 | 0 |
+| Lucas Vázquez | M | 10 | 519 | 2 | 0 | 6 | 0,6 | 3 | 0,3 | 9 | 12 | 1,2 | 1 | 0 |
 | M. Diaby | M | 9 | 515 | 1 | 0 | 7 | 0,8 | 2 | 0,2 | 6 | 1 | 0,1 | 1 | 0 |
-| Lucas Vázquez | D | 9 | 457 | 2 | 0 | 5 | 0,6 | 3 | 0,3 | 9 | 11 | 1,2 | 1 | 0 |
 | L. Badé | D | 7 | 444 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 13 | 1 | 0,1 | 1 | 0 |
-| R. Andrich | M | 7 | 316 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 7 | 3 | 0,4 | 1 | 0 |
+| R. Andrich | M | 8 | 330 | 1 | 0 | 7 | 0,9 | 3 | 0,4 | 9 | 3 | 0,4 | 1 | 0 |
 | N. Tella | F | 7 | 291 | 1 | 0 | 14 | 2,0 | 6 | 0,9 | 3 | 3 | 0,4 | 0 | 0 |
 | J. Blaswich | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
-| J. Hofmann | M | 6 | 205 | 3 | 0 | 11 | 1,8 | 7 | 1,2 | 2 | 1 | 0,2 | 0 | 0 |
+| J. Hofmann | M | 7 | 233 | 3 | 0 | 11 | 1,6 | 7 | 1,0 | 2 | 1 | 0,1 | 0 | 0 |
 | Christian Kofane | F | 6 | 176 | 3 | 0 | 10 | 1,7 | 4 | 0,7 | 7 | 1 | 0,2 | 0 | 0 |
 | M. Terrier | F | 4 | 117 | 0 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 
@@ -179,41 +179,41 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,33 · visitante 0,97 · córners esperados 9,2._
+_Goles esperados: local 3,32 · visitante 1,09 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 7% | 15% | 11% | 6.25 | -31% |
-| 1X2: X | 11% | 19% | 15% | 4.75 | -28% |
-| 1X2: 1 | 82% | 66% | 74% | 1.40 | +3% |
-| Doble oportunidad: X2 | 18% | 35% | 26% | 2.75 | -28% |
-| Doble oportunidad: 12 | 89% | 81% | 85% | 1.18 | +0% |
-| Doble oportunidad: 1X | 93% | 85% | 89% | 1.12 | -1% |
-| Ambos marcan: No | 40% | 44% | 42% | 2.10 | -11% |
-| Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -4% |
-| Goles más/menos: Más de 2.5 | 80% | 66% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 3.5 | 62% | 43% | 53% | 2.20 | +16% |
-| Goles más/menos: Más de 4.5 ✅ | 43% | 25% | 34% | 3.75 | +28% |
-| Goles más/menos: Menos de 2.5 | 20% | 34% | 27% | 2.75 | -26% |
-| Goles más/menos: Menos de 3.5 | 38% | 57% | 47% | 1.67 | -21% |
-| Goles más/menos: Menos de 4.5 | 57% | 75% | 66% | 1.28 | -16% |
-| Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 81% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 19% | 4.00 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -16% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -11% |
+| 1X2: 2 | 9% | 15% | 12% | 6.25 | -27% |
+| 1X2: X | 12% | 19% | 15% | 4.75 | -26% |
+| 1X2: 1 | 80% | 66% | 73% | 1.40 | +2% |
+| Doble oportunidad: X2 | 20% | 35% | 27% | 2.75 | -25% |
+| Doble oportunidad: 12 | 88% | 81% | 84% | 1.18 | -0% |
+| Doble oportunidad: 1X | 91% | 85% | 88% | 1.12 | -1% |
+| Ambos marcan: No | 36% | 44% | 40% | 2.10 | -16% |
+| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | -0% |
+| Goles más/menos: Más de 2.5 | 82% | 66% | 74% | 1.44 | +6% |
+| Goles más/menos: Más de 3.5 | 64% | 43% | 54% | 2.20 | +18% |
+| Goles más/menos: Más de 4.5 ✅ | 45% | 25% | 35% | 3.75 | +32% |
+| Goles más/menos: Menos de 2.5 | 18% | 34% | 26% | 2.75 | -27% |
+| Goles más/menos: Menos de 3.5 | 36% | 57% | 46% | 1.67 | -23% |
+| Goles más/menos: Menos de 4.5 | 55% | 75% | 65% | 1.28 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 21% | 25% | 4.50 | +14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 56% | 49% | 1.67 | -18% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 79% | 75% | 1.18 | -12% |
 | Goles del local: Más de 1.5 | 84% | 69% | 77% | 1.36 | +4% |
-| Goles del local: Más de 2.5 | 65% | 42% | 54% | 2.20 | +18% |
-| Goles del local: Más de 3.5 ✅ | 43% | 23% | 33% | 4.00 | +32% |
+| Goles del local: Más de 2.5 | 65% | 42% | 53% | 2.20 | +18% |
+| Goles del local: Más de 3.5 ✅ | 42% | 23% | 33% | 4.00 | +32% |
 | Goles del local: Menos de 1.5 | 16% | 31% | 23% | 3.00 | -30% |
-| Goles del local: Menos de 2.5 | 35% | 58% | 46% | 1.62 | -25% |
-| Goles del local: Menos de 3.5 | 57% | 77% | 67% | 1.22 | -18% |
-| Goles del visitante: Más de 0.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del visitante: Más de 1.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del visitante: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
-| 1X2 descanso: X | 26% | 34% | 30% | 2.75 | -17% |
-| 1X2 descanso: 1 | 63% | 51% | 57% | 1.83 | +4% |
+| Goles del local: Menos de 2.5 | 35% | 58% | 47% | 1.62 | -25% |
+| Goles del local: Menos de 3.5 | 58% | 77% | 67% | 1.22 | -18% |
+| Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
+| Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
+| 1X2 descanso: X | 27% | 34% | 30% | 2.75 | -17% |
+| 1X2 descanso: 1 | 61% | 51% | 56% | 1.83 | +3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 07:55_
@@ -185,12 +185,12 @@ _Goles esperados: local 2,15 · visitante 1,15 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 29% | 24% | 3.25 | -22% |
+| 1X2: 2 | 19% | 29% | 24% | 3.25 | -22% |
 | 1X2: X | 20% | 25% | 23% | 3.70 | -16% |
 | 1X2: 1 ✅ | 60% | 46% | 53% | 2.00 | +7% |
-| Doble oportunidad: X2 | 40% | 53% | 47% | 1.80 | -16% |
+| Doble oportunidad: X2 | 40% | 53% | 46% | 1.80 | -16% |
 | Doble oportunidad: 12 | 80% | 75% | 77% | 1.28 | -1% |
-| Doble oportunidad: 1X | 80% | 72% | 76% | 1.33 | +1% |
+| Doble oportunidad: 1X | 81% | 72% | 76% | 1.33 | +1% |
 | Ambos marcan: No | 40% | 39% | 39% | 2.38 | -6% |
 | Ambos marcan: Sí | 60% | 61% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -2% |
@@ -207,10 +207,10 @@ _Goles esperados: local 2,15 · visitante 1,15 · córners esperados 8,8._
 | Goles del local: Más de 2.5 ✅ | 36% | 28% | 32% | 3.40 | +9% |
 | Goles del local: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
 | Goles del local: Menos de 2.5 | 64% | 72% | 68% | 1.30 | -12% |
-| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
+| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles del visitante: Más de 1.5 | 32% | 39% | 35% | 2.38 | -16% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles del visitante: Menos de 1.5 | 68% | 61% | 65% | 1.53 | -1% |
 | 1X2 descanso: 2 | 19% | 25% | 22% | 3.75 | -18% |
 | 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -10% |
 | 1X2 descanso: 1 | 45% | 37% | 41% | 2.50 | +2% |

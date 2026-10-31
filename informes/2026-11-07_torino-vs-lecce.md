@@ -1,7 +1,7 @@
 # Torino – Lecce
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Kaba | M | 6 | 139 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 1,05 · córners esperados 9,2._
+_Goles esperados: local 1,74 · visitante 1,04 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

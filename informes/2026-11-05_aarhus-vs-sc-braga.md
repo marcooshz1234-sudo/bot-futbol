@@ -1,7 +1,7 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -170,7 +170,7 @@ _Sin precedentes recientes._
 | Diego Rodrigues | M | 6 | 244 | 2 | 0 | 6 | 1,0 | 4 | 0,7 | 2 | 8 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,65 · visitante 1,24 · córners esperados 9,3._
+_Goles esperados: local 0,66 · visitante 1,25 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -184,24 +184,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 49% | 53% | 51% | 1.80 | -8% |
 | Ambos marcan: No | 66% | 46% | 56% | 2.00 | +12% |
 | Ambos marcan: Sí | 34% | 54% | 44% | 1.73 | -24% |
-| Goles más/menos: Más de 1.5 | 56% | 73% | 65% | 1.28 | -17% |
-| Goles más/menos: Más de 2.5 | 29% | 49% | 39% | 1.95 | -24% |
-| Goles más/menos: Más de 3.5 | 12% | 28% | 20% | 3.40 | -32% |
-| Goles más/menos: Menos de 1.5 | 44% | 27% | 35% | 3.50 | +23% |
-| Goles más/menos: Menos de 2.5 | 71% | 51% | 61% | 1.85 | +13% |
-| Goles más/menos: Menos de 3.5 | 88% | 72% | 80% | 1.30 | +4% |
+| Goles más/menos: Más de 1.5 | 57% | 73% | 65% | 1.28 | -17% |
+| Goles más/menos: Más de 2.5 | 30% | 49% | 39% | 1.95 | -24% |
+| Goles más/menos: Más de 3.5 | 13% | 28% | 20% | 3.40 | -32% |
+| Goles más/menos: Menos de 1.5 | 43% | 27% | 35% | 3.50 | +23% |
+| Goles más/menos: Menos de 2.5 | 70% | 51% | 61% | 1.85 | +13% |
+| Goles más/menos: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 38% | 3.00 | +13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +2% |
 | Goles del local: Más de 0.5 | 48% | 65% | 56% | 1.44 | -19% |
-| Goles del local: Más de 1.5 | 14% | 29% | 21% | 3.25 | -30% |
-| Goles del local: Menos de 0.5 | 52% | 35% | 44% | 2.62 | +15% |
-| Goles del local: Menos de 1.5 | 86% | 71% | 79% | 1.33 | +4% |
+| Goles del local: Más de 1.5 | 14% | 29% | 22% | 3.25 | -30% |
+| Goles del local: Menos de 0.5 | 52% | 35% | 44% | 2.62 | +14% |
+| Goles del local: Menos de 1.5 | 86% | 71% | 78% | 1.33 | +4% |
 | Goles del visitante: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
 | Goles del visitante: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
 | Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
+| Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +9% |
 | Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
 | 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |

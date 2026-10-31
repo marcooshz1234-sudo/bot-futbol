@@ -1,7 +1,7 @@
 # Sparta Praha – Bournemouth
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -52,41 +52,41 @@ _Actualizadas: 31/10 13:55_
 ## Estadísticas de equipo
 | | Sparta Praha (total) | Sparta Praha en casa | Bournemouth (total) | Bournemouth fuera |
 |---|---|---|---|---|
-| Partidos analizados | 5 | 2 | 13 | 5 |
+| Partidos analizados | 5 | 2 | 14 | 5 |
 | Forma (últimos 5) | DEVDV | EV | VVVVV | VDVED |
-| Balance | 2V 1E 2D | 1V 1E 0D | 7V 3E 3D | 2V 1E 2D |
-| Goles a favor / partido | 1,40 | 1,50 | 2,08 | 1,80 |
-| Goles en contra / partido | 1,40 | 1,00 | 1,08 | 2,00 |
-| Goles a favor 1ª parte | 0,40 | 0,00 | 1,15 | 1,40 |
-| Goles a favor 2ª parte | 1,00 | 1,50 | 0,92 | 0,40 |
-| Goles en contra 1ª parte | 0,40 | 0,50 | 0,31 | 0,60 |
-| Goles en contra 2ª parte | 1,00 | 0,50 | 0,77 | 1,40 |
-| Más de 1,5 goles | 80% | 100% | 92% | 100% |
-| Más de 2,5 goles | 60% | 50% | 77% | 100% |
-| Más de 3,5 goles | 20% | 0% | 31% | 40% |
-| Ambos marcan | 60% | 100% | 46% | 80% |
-| Portería a cero | 0% | 0% | 46% | 20% |
-| Se queda sin marcar | 40% | 0% | 8% | 0% |
-| xG a favor | 0,95 | 1,12 | 2,14 | 1,40 |
-| xG en contra | 1,54 | 0,84 | 1,05 | 1,31 |
-| Tiros / partido | 13,4 | 12,0 | 17,3 | 10,4 |
+| Balance | 2V 1E 2D | 1V 1E 0D | 8V 3E 3D | 2V 1E 2D |
+| Goles a favor / partido | 1,40 | 1,50 | 2,07 | 1,80 |
+| Goles en contra / partido | 1,40 | 1,00 | 1,00 | 2,00 |
+| Goles a favor 1ª parte | 0,40 | 0,00 | 1,14 | 1,40 |
+| Goles a favor 2ª parte | 1,00 | 1,50 | 0,93 | 0,40 |
+| Goles en contra 1ª parte | 0,40 | 0,50 | 0,29 | 0,60 |
+| Goles en contra 2ª parte | 1,00 | 0,50 | 0,71 | 1,40 |
+| Más de 1,5 goles | 80% | 100% | 93% | 100% |
+| Más de 2,5 goles | 60% | 50% | 71% | 100% |
+| Más de 3,5 goles | 20% | 0% | 29% | 40% |
+| Ambos marcan | 60% | 100% | 43% | 80% |
+| Portería a cero | 0% | 0% | 50% | 20% |
+| Se queda sin marcar | 40% | 0% | 7% | 0% |
+| xG a favor | 0,95 | 1,12 | 2,07 | 1,40 |
+| xG en contra | 1,54 | 0,84 | 1,02 | 1,31 |
+| Tiros / partido | 13,4 | 12,0 | 16,9 | 10,4 |
 | Tiros a puerta / partido | 4,2 | 5,5 | 5,5 | 4,0 |
-| Tiros recibidos | 14,4 | 8,5 | 9,8 | 12,8 |
-| Tiros a puerta recibidos | 4,4 | 3,0 | 3,3 | 4,8 |
-| Posesión media % | 51 | 52 | 52 | 42 |
-| Córners a favor | 5,8 | 6,0 | 5,3 | 4,0 |
+| Tiros recibidos | 14,4 | 8,5 | 9,9 | 12,8 |
+| Tiros a puerta recibidos | 4,4 | 3,0 | 3,1 | 4,8 |
+| Posesión media % | 51 | 52 | 51 | 42 |
+| Córners a favor | 5,8 | 6,0 | 5,2 | 4,0 |
 | Córners en contra | 6,6 | 5,0 | 3,9 | 5,6 |
-| Córners a favor 1ª parte | 3,4 | 3,5 | 2,5 | 2,4 |
+| Córners a favor 1ª parte | 3,4 | 3,5 | 2,4 | 2,4 |
 | Córners a favor 2ª parte | 2,4 | 2,5 | 2,8 | 1,6 |
-| Córners totales del partido | 12,4 | 11,0 | 9,2 | 9,6 |
-| Córners totales 1ª parte | 5,6 | 4,0 | 4,0 | 4,4 |
+| Córners totales del partido | 12,4 | 11,0 | 9,1 | 9,6 |
+| Córners totales 1ª parte | 5,6 | 4,0 | 3,9 | 4,4 |
 | Córners totales 2ª parte | 6,8 | 7,0 | 5,2 | 5,2 |
-| Más de 8,5 córners | 60% | 50% | 54% | 60% |
-| Más de 9,5 córners | 60% | 50% | 46% | 40% |
-| Más de 10,5 córners | 60% | 50% | 23% | 40% |
-| Faltas cometidas | 13,8 | 11,5 | 13,4 | 14,6 |
-| Faltas recibidas | 11,8 | 8,0 | 12,8 | 12,8 |
-| Amarillas propias | 2,0 | 2,5 | 2,7 | 2,6 |
+| Más de 8,5 córners | 60% | 50% | 50% | 60% |
+| Más de 9,5 córners | 60% | 50% | 43% | 40% |
+| Más de 10,5 córners | 60% | 50% | 21% | 40% |
+| Faltas cometidas | 13,8 | 11,5 | 13,3 | 14,6 |
+| Faltas recibidas | 11,8 | 8,0 | 13,0 | 12,8 |
+| Amarillas propias | 2,0 | 2,5 | 2,6 | 2,6 |
 | Amarillas del rival | 1,6 | 1,0 | 2,2 | 2,0 |
 | Rojas / partido | 0,20 | 0,00 | 0,00 | 0,00 |
 
@@ -95,10 +95,10 @@ _Actualizadas: 31/10 13:55_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 0 | 0 | 6 | 2 | 2 |
 | 16-30' | 2 | 1 | 3 | 2 | 0 | 8 |
-| 31-45' | 0 | 1 | 2 | 7 | 2 | 6 |
+| 31-45' | 0 | 1 | 2 | 8 | 2 | 7 |
 | 46-60' | 2 | 1 | 0 | 4 | 4 | 3 |
-| 61-75' | 3 | 2 | 1 | 3 | 2 | 8 |
-| 76-90' | 0 | 2 | 5 | 5 | 4 | 8 |
+| 61-75' | 3 | 2 | 1 | 3 | 2 | 9 |
+| 76-90' | 0 | 2 | 5 | 6 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -144,71 +144,71 @@ _Sin precedentes recientes._
 ## Últimos partidos de Bournemouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Premier League | Bournemouth 2-0 Leeds | casa | 4-4 | 11 (5) - 10 (1) | 2-2 |
 | 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | casa | 6-2 | 19 (7) - 17 (5) | 3-3 |
 | 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | fuera | 4-5 | 10 (4) - 17 (5) | 1-4 |
 | 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | casa | 6-4 | 20 (7) - 3 (0) | 2-3 |
 | 2026-10-18 | Premier League | Bournemouth 2-0 Sunderland | casa | 5-3 | 29 (6) - 3 (0) | 3-2 |
 | 2026-10-15 | Europa League | Bournemouth 3-0 Sturm Graz | casa | 7-3 | 23 (7) - 6 (1) | 3-3 |
-| 2026-10-10 | Premier League | Chelsea 5-1 Bournemouth | fuera | 7-1 | 9 (4) - 10 (6) | 4-0 |
 
 ## Jugadores de Bournemouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| António Silva | D | 13 | 1162 | 0 | 0 | 9 | 0,7 | 2 | 0,2 | 11 | 3 | 0,2 | 4 | 0 |
-| J. Hill | D | 12 | 1018 | 0 | 0 | 10 | 0,8 | 1 | 0,1 | 12 | 9 | 0,8 | 1 | 0 |
-| M. Tavernier | M | 13 | 944 | 6 | 0 | 24 | 1,8 | 12 | 0,9 | 8 | 13 | 1,0 | 3 | 0 |
-| Đ. Petrović | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Truffert | D | 10 | 894 | 0 | 2 | 7 | 0,7 | 2 | 0,2 | 20 | 5 | 0,5 | 3 | 0 |
-| Evanilson | F | 11 | 888 | 4 | 4 | 26 | 2,4 | 10 | 0,9 | 16 | 23 | 2,1 | 2 | 0 |
-| Rayan | F | 13 | 883 | 4 | 0 | 30 | 2,3 | 15 | 1,2 | 6 | 12 | 0,9 | 0 | 0 |
-| A. Smith | D | 10 | 809 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 15 | 1,5 | 3 | 0 |
-| T. Adams | M | 12 | 771 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 16 | 9 | 0,8 | 3 | 0 |
-| J. Kluivert | F | 11 | 661 | 3 | 1 | 22 | 2,0 | 9 | 0,8 | 22 | 11 | 1,0 | 3 | 0 |
-| L. Cook | M | 12 | 634 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 3 | 0 |
-| R. Christie | M | 12 | 577 | 3 | 0 | 19 | 1,6 | 6 | 0,5 | 9 | 9 | 0,8 | 2 | 0 |
+| António Silva | D | 14 | 1252 | 0 | 0 | 9 | 0,6 | 2 | 0,1 | 11 | 3 | 0,2 | 4 | 0 |
+| J. Hill | D | 13 | 1108 | 0 | 0 | 11 | 0,8 | 1 | 0,1 | 13 | 10 | 0,8 | 1 | 0 |
+| M. Tavernier | M | 14 | 1034 | 6 | 0 | 26 | 1,9 | 14 | 1,0 | 8 | 14 | 1,0 | 3 | 0 |
+| Đ. Petrović | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Truffert | D | 11 | 984 | 0 | 2 | 8 | 0,7 | 2 | 0,2 | 20 | 5 | 0,5 | 3 | 0 |
+| Rayan | M | 14 | 971 | 4 | 0 | 31 | 2,2 | 15 | 1,1 | 8 | 12 | 0,9 | 0 | 0 |
+| Evanilson | F | 12 | 964 | 5 | 4 | 27 | 2,2 | 11 | 0,9 | 17 | 28 | 2,3 | 2 | 0 |
+| A. Smith | D | 11 | 897 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 13 | 17 | 1,5 | 3 | 0 |
+| T. Adams | M | 13 | 861 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 18 | 9 | 0,7 | 4 | 0 |
+| J. Kluivert | M | 12 | 729 | 3 | 2 | 23 | 1,9 | 9 | 0,8 | 24 | 11 | 0,9 | 3 | 0 |
+| L. Cook | M | 13 | 656 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 3 | 0 |
+| R. Christie | M | 13 | 645 | 3 | 0 | 20 | 1,5 | 6 | 0,5 | 11 | 12 | 0,9 | 3 | 0 |
 | Alex Scott | M | 6 | 536 | 1 | 1 | 5 | 0,8 | 1 | 0,2 | 4 | 23 | 3,8 | 1 | 0 |
 | B. Doak | M | 12 | 426 | 0 | 2 | 12 | 1,0 | 2 | 0,2 | 7 | 6 | 0,5 | 1 | 0 |
-| B. Diakité | D | 7 | 391 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 1 | 0,1 | 3 | 0 |
-| Á. Rodríguez | F | 9 | 330 | 2 | 0 | 12 | 1,3 | 3 | 0,3 | 7 | 4 | 0,4 | 0 | 0 |
+| B. Diakité | D | 8 | 393 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 1 | 0,1 | 3 | 0 |
+| Á. Rodríguez | F | 10 | 344 | 2 | 0 | 13 | 1,3 | 4 | 0,4 | 7 | 4 | 0,4 | 0 | 0 |
 | J. Soler | D | 4 | 282 | 0 | 1 | 3 | 0,8 | 0 | 0,0 | 4 | 6 | 1,5 | 1 | 0 |
 | M. Di Gregorio | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | D. Brooks | M | 8 | 208 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 4 | 3 | 0,4 | 1 | 0 |
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,92 · visitante 2,93 · córners esperados 9,9._
+_Goles esperados: local 0,89 · visitante 2,88 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 78% | 59% | 69% | 1.55 | +7% |
-| 1X2: X | 13% | 23% | 18% | 4.00 | -28% |
+| 1X2: 2 | 78% | 59% | 69% | 1.55 | +6% |
+| 1X2: X | 13% | 23% | 18% | 4.00 | -27% |
 | 1X2: 1 | 9% | 18% | 13% | 5.25 | -31% |
 | Doble oportunidad: X2 | 91% | 82% | 86% | 1.17 | +1% |
-| Doble oportunidad: 12 | 87% | 78% | 83% | 1.22 | +1% |
+| Doble oportunidad: 12 | 87% | 78% | 82% | 1.22 | +1% |
 | Doble oportunidad: 1X | 22% | 40% | 31% | 2.38 | -26% |
-| Ambos marcan: No | 43% | 44% | 44% | 2.10 | -8% |
-| Ambos marcan: Sí | 57% | 56% | 56% | 1.67 | -6% |
-| Goles más/menos: Más de 2.5 | 74% | 59% | 66% | 1.62 | +7% |
-| Goles más/menos: Más de 3.5 | 54% | 40% | 47% | 2.38 | +11% |
-| Goles más/menos: Más de 4.5 | 34% | 22% | 28% | 4.33 | +22% |
-| Goles más/menos: Menos de 2.5 | 26% | 41% | 34% | 2.30 | -23% |
-| Goles más/menos: Menos de 3.5 | 46% | 60% | 53% | 1.57 | -16% |
-| Goles más/menos: Menos de 4.5 | 66% | 78% | 72% | 1.22 | -12% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 45% | 2.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -20% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 55% | 1.57 | -14% |
-| Goles del local: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles del local: Más de 1.5 | 24% | 28% | 26% | 3.40 | -13% |
-| Goles del local: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles del local: Menos de 1.5 | 76% | 72% | 74% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 79% | 61% | 70% | 1.53 | +7% |
-| Goles del visitante: Más de 2.5 | 56% | 35% | 46% | 2.62 | +20% |
-| Goles del visitante: Menos de 1.5 | 21% | 39% | 30% | 2.38 | -29% |
-| Goles del visitante: Menos de 2.5 | 44% | 65% | 54% | 1.44 | -22% |
-| 1X2 descanso: 2 | 59% | 45% | 52% | 2.05 | +6% |
-| 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -17% |
+| Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
+| Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |
+| Goles más/menos: Más de 2.5 | 73% | 59% | 66% | 1.62 | +6% |
+| Goles más/menos: Más de 3.5 | 52% | 40% | 46% | 2.38 | +9% |
+| Goles más/menos: Más de 4.5 | 33% | 22% | 27% | 4.33 | +18% |
+| Goles más/menos: Menos de 2.5 | 27% | 41% | 34% | 2.30 | -21% |
+| Goles más/menos: Menos de 3.5 | 48% | 60% | 54% | 1.57 | -15% |
+| Goles más/menos: Menos de 4.5 | 67% | 78% | 73% | 1.22 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -19% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -13% |
+| Goles del local: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
+| Goles del local: Más de 1.5 | 23% | 28% | 25% | 3.40 | -15% |
+| Goles del local: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles del local: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles del visitante: Más de 1.5 | 78% | 61% | 70% | 1.53 | +6% |
+| Goles del visitante: Más de 2.5 | 55% | 35% | 45% | 2.62 | +18% |
+| Goles del visitante: Menos de 1.5 | 22% | 39% | 30% | 2.38 | -27% |
+| Goles del visitante: Menos de 2.5 | 45% | 65% | 55% | 1.44 | -21% |
+| 1X2 descanso: 2 | 58% | 45% | 52% | 2.05 | +6% |
+| 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

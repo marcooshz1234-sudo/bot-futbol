@@ -1,7 +1,7 @@
 # Tenerife – FC Andorra
 **Segunda División** · Regular Season - 12 · 01/11/2026 21:00 (hora España) · Heliodoro Rodríguez López
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | D. Diaz | M | 6 | 198 | 0 | 0 | 4 | 0,7 | 3 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,14 · visitante 1,46 · córners esperados 9,3._
+_Goles esperados: local 1,17 · visitante 1,48 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

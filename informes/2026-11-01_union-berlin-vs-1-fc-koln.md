@@ -1,7 +1,7 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España) · An der Alten Försterei
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -209,16 +209,16 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Reigan Heskey | F | 4 | 45 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,73 · córners esperados 9,8._
+_Goles esperados: local 1,21 · visitante 1,75 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 49% | 37% | 43% | 2.55 | +11% |
+| 1X2: 2 ✅ | 50% | 37% | 44% | 2.55 | +11% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
 | 1X2: 1 | 27% | 35% | 31% | 2.70 | -16% |
-| Doble oportunidad: X2 | 73% | 65% | 69% | 1.44 | -1% |
+| Doble oportunidad: X2 | 73% | 65% | 69% | 1.44 | -0% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 51% | 62% | 56% | 1.50 | -15% |
+| Doble oportunidad: 1X | 50% | 62% | 56% | 1.50 | -16% |
 | Ambos marcan: No | 42% | 39% | 41% | 2.38 | -4% |
 | Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
@@ -233,24 +233,24 @@ _Goles esperados: local 1,22 · visitante 1,73 · córners esperados 9,8._
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 39% | 38% | 2.38 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
-| Goles del local: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
-| Goles del local: Más de 1.5 | 35% | 44% | 39% | 2.10 | -17% |
-| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -25% |
-| Goles del local: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +6% |
-| Goles del local: Menos de 1.5 | 65% | 56% | 61% | 1.67 | +1% |
-| Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del visitante: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles del local: Más de 0.5 | 70% | 77% | 73% | 1.22 | -10% |
+| Goles del local: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
+| Goles del local: Más de 2.5 | 12% | 21% | 17% | 4.50 | -25% |
+| Goles del local: Menos de 0.5 | 30% | 23% | 27% | 4.00 | +6% |
+| Goles del local: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +1% |
+| Goles del local: Menos de 2.5 | 88% | 79% | 83% | 1.18 | -2% |
+| Goles del visitante: Más de 0.5 | 83% | 77% | 80% | 1.22 | -3% |
 | Goles del visitante: Más de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
-| Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
-| Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -18% |
-| Goles del visitante: Menos de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
-| Goles del visitante: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Goles del visitante: Más de 2.5 | 26% | 21% | 23% | 4.50 | +4% |
+| Goles del visitante: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -18% |
+| Goles del visitante: Menos de 1.5 | 48% | 56% | 52% | 1.67 | -14% |
+| Goles del visitante: Menos de 2.5 | 74% | 79% | 77% | 1.18 | -9% |
+| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |
+| Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -1% |
 | 1X2 descanso: 2 | 37% | 31% | 34% | 3.00 | +2% |
-| 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -6% |
-| 1X2 descanso: 1 | 23% | 30% | 27% | 3.10 | -18% |
+| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
+| 1X2 descanso: 1 | 23% | 30% | 26% | 3.10 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

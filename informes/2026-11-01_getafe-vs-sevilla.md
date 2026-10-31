@@ -1,7 +1,7 @@
 # Getafe – Sevilla
 **LaLiga** · Regular Season - 11 · 01/11/2026 14:00 (hora España) · Coliseum Alfonso Pérez
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -212,7 +212,7 @@ _Goles esperados: local 0,87 · visitante 1,24 · córners esperados 8,7._
 | Ambos marcan: Sí | 41% | 42% | 42% | 2.20 | -8% |
 | Goles más/menos: Más de 1.5 | 62% | 62% | 62% | 1.53 | -5% |
 | Goles más/menos: Más de 2.5 | 35% | 34% | 35% | 2.75 | -4% |
-| Goles más/menos: Menos de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles más/menos: Menos de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles más/menos: Menos de 2.5 | 65% | 66% | 65% | 1.44 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 59% | 59% | 1.57 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 25% | 24% | 3.75 | -9% |
@@ -229,7 +229,7 @@ _Goles esperados: local 0,87 · visitante 1,24 · córners esperados 8,7._
 | Córners más/menos: Más de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
 | 1X2 descanso: 2 | 31% | 28% | 30% | 3.25 | -3% |
-| 1X2 descanso: X | 49% | 48% | 48% | 1.91 | -7% |
+| 1X2 descanso: X | 49% | 48% | 49% | 1.91 | -7% |
 | 1X2 descanso: 1 | 20% | 23% | 22% | 4.00 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

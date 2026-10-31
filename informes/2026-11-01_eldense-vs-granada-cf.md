@@ -1,7 +1,7 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | Ángelo García Hidalgo | M | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,09 · visitante 1,36 · córners esperados 9,6._
+_Goles esperados: local 1,10 · visitante 1,36 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,16 +202,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 44% | 50% | 47% | 1.90 | -10% |
 | Goles más/menos: Más de 3.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +3% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +2% |
 | Goles más/menos: Menos de 2.5 | 56% | 50% | 53% | 1.90 | +0% |
 | Goles más/menos: Menos de 3.5 | 77% | 71% | 74% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 67% | 75% | 71% | 1.25 | -12% |
+| Goles del local: Más de 0.5 | 67% | 75% | 71% | 1.25 | -11% |
 | Goles del local: Más de 1.5 | 30% | 44% | 37% | 2.10 | -22% |
-| Goles del local: Menos de 0.5 | 33% | 25% | 29% | 3.75 | +10% |
+| Goles del local: Menos de 0.5 | 33% | 25% | 29% | 3.75 | +9% |
 | Goles del local: Menos de 1.5 | 70% | 56% | 63% | 1.67 | +5% |
 | Goles del visitante: Más de 0.5 | 74% | 69% | 72% | 1.36 | -3% |
 | Goles del visitante: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
@@ -220,7 +220,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
 | 1X2 descanso: 2 | 31% | 26% | 29% | 3.60 | +3% |
-| 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
+| 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -4% |
 | 1X2 descanso: 1 | 24% | 32% | 28% | 2.88 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

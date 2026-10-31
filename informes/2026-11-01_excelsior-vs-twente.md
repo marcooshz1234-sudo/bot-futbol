@@ -1,7 +1,7 @@
 # Excelsior – Twente
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Van Donge & De Roo Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -190,19 +190,19 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | S. Lemkin | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 2,01 · córners esperados 9,3._
+_Goles esperados: local 1,01 · visitante 2,00 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 61% | 61% | 61% | 1.57 | -5% |
-| 1X2: X | 21% | 22% | 22% | 4.33 | -7% |
-| 1X2: 1 | 18% | 17% | 18% | 5.50 | -2% |
-| Doble oportunidad: X2 | 82% | 82% | 82% | 1.14 | -7% |
+| 1X2: 2 | 60% | 61% | 60% | 1.57 | -5% |
+| 1X2: X | 21% | 22% | 22% | 4.33 | -6% |
+| 1X2: 1 | 19% | 17% | 18% | 5.50 | -1% |
+| Doble oportunidad: X2 | 81% | 82% | 82% | 1.14 | -7% |
 | Doble oportunidad: 12 | 79% | 78% | 78% | 1.20 | -6% |
-| Doble oportunidad: 1X | 39% | 41% | 40% | 2.30 | -8% |
-| Ambos marcan: No | 45% | 39% | 42% | 2.38 | +0% |
+| Doble oportunidad: 1X | 40% | 41% | 40% | 2.30 | -8% |
+| Ambos marcan: No | 45% | 39% | 42% | 2.38 | -0% |
 | Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -11% |
 | Goles más/menos: Más de 2.5 | 58% | 64% | 61% | 1.48 | -10% |
 | Goles más/menos: Más de 3.5 | 36% | 44% | 40% | 2.10 | -16% |
@@ -210,20 +210,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 42% | 36% | 39% | 2.60 | +2% |
 | Goles más/menos: Menos de 3.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles más/menos: Menos de 4.5 | 81% | 75% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 44% | 41% | 2.10 | -14% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 21% | 18% | 4.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 21% | 18% | 4.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -1% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
 | Goles del local: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
 | Goles del local: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
 | Goles del local: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles del local: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 60% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 2.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles del visitante: Menos de 2.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles del local: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles del visitante: Más de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
+| Goles del visitante: Más de 2.5 | 32% | 39% | 36% | 2.38 | -15% |
+| Goles del visitante: Menos de 1.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles del visitante: Menos de 2.5 | 68% | 61% | 64% | 1.53 | -2% |
 | Córners más/menos: Más de 9.5 | 44% | 51% | 47% | 1.88 | -12% |
 | Córners más/menos: Menos de 9.5 | 56% | 49% | 53% | 1.92 | +2% |
 | 1X2 descanso: 2 | 44% | 46% | 45% | 2.00 | -10% |

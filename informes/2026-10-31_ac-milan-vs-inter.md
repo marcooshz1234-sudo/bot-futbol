@@ -1,7 +1,7 @@
 # AC Milan – Inter
 **Serie A** · Regular Season - 10 · 31/10/2026 20:45 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -210,41 +210,41 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | I. Provedel | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,72 · visitante 1,91 · córners esperados 8,8._
+_Goles esperados: local 1,72 · visitante 1,90 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 43% | 47% | 45% | 2.00 | -10% |
 | 1X2: X | 22% | 27% | 24% | 3.50 | -15% |
-| 1X2: 1 ✅ | 35% | 26% | 30% | 3.70 | +13% |
-| Doble oportunidad: X2 | 65% | 72% | 68% | 1.30 | -11% |
+| 1X2: 1 ✅ | 36% | 26% | 31% | 3.70 | +13% |
+| Doble oportunidad: X2 | 64% | 72% | 68% | 1.30 | -11% |
 | Doble oportunidad: 12 | 78% | 73% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 57% | 54% | 56% | 1.73 | -4% |
-| Ambos marcan: No | 30% | 39% | 35% | 2.38 | -18% |
-| Ambos marcan: Sí | 70% | 61% | 65% | 1.53 | +0% |
-| Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | +0% |
-| Goles más/menos: Más de 2.5 | 70% | 57% | 64% | 1.67 | +6% |
+| Doble oportunidad: 1X | 57% | 54% | 56% | 1.73 | -3% |
+| Ambos marcan: No | 30% | 39% | 35% | 2.38 | -17% |
+| Ambos marcan: Sí | 70% | 61% | 65% | 1.53 | -0% |
+| Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | -0% |
+| Goles más/menos: Más de 2.5 | 70% | 57% | 63% | 1.67 | +6% |
 | Goles más/menos: Más de 3.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
-| Goles más/menos: Más de 4.5 | 30% | 21% | 26% | 4.50 | +15% |
+| Goles más/menos: Más de 4.5 | 30% | 21% | 25% | 4.50 | +14% |
 | Goles más/menos: Menos de 1.5 | 12% | 21% | 17% | 4.50 | -25% |
-| Goles más/menos: Menos de 2.5 | 30% | 43% | 36% | 2.20 | -20% |
+| Goles más/menos: Menos de 2.5 | 30% | 43% | 37% | 2.20 | -20% |
 | Goles más/menos: Menos de 3.5 | 51% | 64% | 57% | 1.50 | -14% |
-| Goles más/menos: Menos de 4.5 | 70% | 79% | 74% | 1.20 | -11% |
+| Goles más/menos: Menos de 4.5 | 70% | 79% | 75% | 1.20 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 39% | 43% | 2.38 | +2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 39% | 43% | 2.38 | +2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 61% | 57% | 1.53 | -12% |
 | Goles del local: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Goles del local: Más de 1.5 | 51% | 38% | 44% | 2.50 | +11% |
 | Goles del local: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
 | Goles del local: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -17% |
-| Goles del visitante: Más de 1.5 | 57% | 51% | 54% | 1.80 | -2% |
+| Goles del visitante: Más de 1.5 | 57% | 51% | 54% | 1.80 | -3% |
 | Goles del visitante: Más de 2.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles del visitante: Menos de 1.5 | 43% | 49% | 46% | 1.91 | -13% |
+| Goles del visitante: Menos de 1.5 | 43% | 49% | 46% | 1.91 | -12% |
 | Goles del visitante: Menos de 2.5 | 70% | 73% | 72% | 1.28 | -8% |
 | Córners más/menos: Más de 8.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Córners más/menos: Menos de 8.5 | 52% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: 2 | 35% | 35% | 35% | 2.60 | -9% |
+| 1X2 descanso: 2 | 34% | 35% | 35% | 2.60 | -9% |
 | 1X2 descanso: X | 36% | 40% | 38% | 2.30 | -13% |
 | 1X2 descanso: 1 | 30% | 25% | 27% | 3.75 | +2% |
 

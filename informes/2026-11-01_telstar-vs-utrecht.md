@@ -1,7 +1,7 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -187,7 +187,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Mike Eerdhuijzen | D | 2 | 135 | 0 | 0 | 3 | 1,5 | 1 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,50 · córners esperados 9,8._
+_Goles esperados: local 1,43 · visitante 1,49 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -216,11 +216,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
 | Goles del local: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -5% |
 | Goles del visitante: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -18% |
 | Goles del visitante: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
-| Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -2% |
 | Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
 | 1X2 descanso: 2 | 31% | 33% | 32% | 2.75 | -12% |

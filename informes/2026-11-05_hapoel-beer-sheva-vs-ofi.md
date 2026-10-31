@@ -1,7 +1,7 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -176,25 +176,25 @@ _Sin precedentes recientes._
 | A. Leya | F | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,64 · visitante 1,22 · córners esperados 9,6._
+_Goles esperados: local 0,65 · visitante 1,21 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 26% | 38% | 3.50 | +34% |
+| 1X2: 2 | 50% | 26% | 38% | 3.50 | +33% |
 | 1X2: X | 30% | 26% | 28% | 3.50 | -1% |
-| 1X2: 1 | 19% | 47% | 33% | 1.95 | -35% |
-| Doble oportunidad: X2 | 81% | 52% | 67% | 1.80 | +20% |
+| 1X2: 1 | 20% | 47% | 34% | 1.95 | -34% |
+| Doble oportunidad: X2 | 80% | 52% | 66% | 1.80 | +19% |
 | Doble oportunidad: 12 | 70% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 50% | 74% | 62% | 1.28 | -21% |
 | Ambos marcan: No | 67% | 42% | 54% | 2.20 | +20% |
 | Ambos marcan: Sí | 33% | 58% | 46% | 1.62 | -26% |
-| Goles más/menos: Más de 1.5 | 56% | 78% | 67% | 1.22 | -18% |
-| Goles más/menos: Más de 2.5 | 29% | 57% | 43% | 1.67 | -29% |
-| Goles más/menos: Más de 3.5 | 12% | 34% | 23% | 2.75 | -36% |
-| Goles más/menos: Menos de 1.5 | 44% | 22% | 33% | 4.33 | +44% |
-| Goles más/menos: Menos de 2.5 | 71% | 43% | 57% | 2.20 | +26% |
+| Goles más/menos: Más de 1.5 | 55% | 78% | 67% | 1.22 | -19% |
+| Goles más/menos: Más de 2.5 | 28% | 57% | 43% | 1.67 | -29% |
+| Goles más/menos: Más de 3.5 | 12% | 34% | 23% | 2.75 | -37% |
+| Goles más/menos: Menos de 1.5 | 45% | 22% | 33% | 4.33 | +44% |
+| Goles más/menos: Menos de 2.5 | 72% | 43% | 57% | 2.20 | +26% |
 | Goles más/menos: Menos de 3.5 | 88% | 66% | 77% | 1.44 | +11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 55% | 72% | 64% | 1.30 | -17% |
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 38% | 28% | 2.50 | -29% |
@@ -204,12 +204,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 3% | 25% | 14% | 3.75 | -48% |
 | Goles del local: Menos de 1.5 | 86% | 50% | 68% | 1.83 | +25% |
 | Goles del local: Menos de 2.5 | 97% | 75% | 86% | 1.25 | +8% |
-| Goles del visitante: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del visitante: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -6% |
-| 1X2 descanso: 2 | 33% | 25% | 29% | 3.75 | +9% |
-| 1X2 descanso: X | 51% | 39% | 45% | 2.38 | +8% |
-| 1X2 descanso: 1 | 15% | 36% | 26% | 2.60 | -33% |
+| Goles del visitante: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
+| 1X2 descanso: 2 | 33% | 25% | 29% | 3.75 | +8% |
+| 1X2 descanso: X | 52% | 39% | 45% | 2.38 | +8% |
+| 1X2 descanso: 1 | 16% | 36% | 26% | 2.60 | -33% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

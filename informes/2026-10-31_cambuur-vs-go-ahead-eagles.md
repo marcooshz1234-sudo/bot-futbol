@@ -1,7 +1,7 @@
 # Cambuur – GO Ahead Eagles
 **Eredivisie** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:53_
@@ -192,23 +192,23 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Calvin Twigt | M | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,88 · visitante 1,99 · córners esperados 10,0._
+_Goles esperados: local 1,90 · visitante 1,99 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 42% | 42% | 2.25 | -6% |
+| 1X2: 2 | 41% | 42% | 41% | 2.25 | -7% |
 | 1X2: X | 21% | 24% | 23% | 3.90 | -12% |
-| 1X2: 1 | 37% | 34% | 36% | 2.75 | -2% |
-| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
+| 1X2: 1 | 38% | 34% | 36% | 2.75 | -1% |
+| Doble oportunidad: X2 | 62% | 67% | 65% | 1.40 | -10% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 58% | 58% | 58% | 1.62 | -6% |
+| Doble oportunidad: 1X | 59% | 58% | 58% | 1.62 | -5% |
 | Ambos marcan: No | 27% | 34% | 30% | 2.75 | -17% |
 | Ambos marcan: Sí | 73% | 66% | 70% | 1.40 | -2% |
-| Goles más/menos: Más de 2.5 | 74% | 65% | 70% | 1.44 | +0% |
-| Goles más/menos: Más de 3.5 | 54% | 44% | 49% | 2.10 | +3% |
-| Goles más/menos: Más de 4.5 | 35% | 27% | 31% | 3.50 | +7% |
+| Goles más/menos: Más de 2.5 | 74% | 65% | 70% | 1.44 | +1% |
+| Goles más/menos: Más de 3.5 | 54% | 44% | 49% | 2.10 | +4% |
+| Goles más/menos: Más de 4.5 | 35% | 27% | 31% | 3.50 | +8% |
 | Goles más/menos: Menos de 2.5 | 26% | 35% | 30% | 2.70 | -18% |
 | Goles más/menos: Menos de 3.5 | 46% | 56% | 51% | 1.67 | -15% |
 | Goles más/menos: Menos de 4.5 | 65% | 73% | 69% | 1.28 | -11% |
@@ -219,13 +219,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 56% | 53% | 1.67 | -12% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -8% |
 | Goles del local: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles del local: Más de 1.5 | 56% | 49% | 52% | 1.91 | -0% |
-| Goles del local: Más de 2.5 | 29% | 23% | 26% | 4.00 | +5% |
-| Goles del local: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -20% |
-| Goles del local: Menos de 1.5 | 44% | 51% | 48% | 1.80 | -14% |
-| Goles del local: Menos de 2.5 | 71% | 77% | 74% | 1.22 | -10% |
-| Goles del visitante: Más de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
-| Goles del visitante: Más de 2.5 | 32% | 28% | 30% | 3.40 | +2% |
+| Goles del local: Más de 1.5 | 57% | 49% | 53% | 1.91 | +0% |
+| Goles del local: Más de 2.5 | 30% | 23% | 26% | 4.00 | +6% |
+| Goles del local: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles del local: Menos de 1.5 | 43% | 51% | 47% | 1.80 | -15% |
+| Goles del local: Menos de 2.5 | 70% | 77% | 74% | 1.22 | -10% |
+| Goles del visitante: Más de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles del visitante: Más de 2.5 | 32% | 28% | 30% | 3.40 | +1% |
 | Goles del visitante: Menos de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del visitante: Menos de 2.5 | 68% | 72% | 70% | 1.30 | -9% |
 | Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -15% |

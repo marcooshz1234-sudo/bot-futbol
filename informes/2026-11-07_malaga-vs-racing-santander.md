@@ -1,7 +1,7 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Aarón Martín | D | 5 | 157 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,52 · córners esperados 11,1._
+_Goles esperados: local 1,56 · visitante 1,51 · córners esperados 11,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -201,9 +201,9 @@ _Goles esperados: local 1,56 · visitante 1,52 · córners esperados 11,1._
 | Goles más/menos: Menos de 3.5 | 63% | 64% | 63% | 1.50 | -5% |
 | Goles más/menos: Menos de 4.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 39% | 39% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
 | Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -7% |
 | Goles del local: Más de 2.5 | 21% | 22% | 21% | 4.33 | -8% |

@@ -1,7 +1,7 @@
 # Cordoba – AD Ceuta FC
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Alex Petxarroman | D | 5 | 266 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 4 | 5 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,51 · visitante 1,52 · córners esperados 9,3._
+_Goles esperados: local 2,51 · visitante 1,53 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

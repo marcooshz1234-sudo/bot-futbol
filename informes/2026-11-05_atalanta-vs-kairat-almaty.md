@@ -1,7 +1,7 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -181,16 +181,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 10% | 6% | 8% | 15.00 | +21% |
 | 1X2: X | 20% | 15% | 17% | 6.25 | +9% |
-| 1X2: 1 | 70% | 79% | 74% | 1.18 | -12% |
+| 1X2: 1 | 70% | 79% | 75% | 1.18 | -12% |
 | Doble oportunidad: X2 | 30% | 21% | 26% | 4.50 | +15% |
 | Doble oportunidad: 12 | 80% | 86% | 83% | 1.12 | -7% |
 | Doble oportunidad: 1X | 90% | 93% | 92% | 1.03 | -6% |
 | Ambos marcan: No | 63% | 56% | 59% | 1.67 | -1% |
-| Ambos marcan: Sí | 37% | 44% | 41% | 2.10 | -14% |
-| Goles más/menos: Más de 2.5 | 46% | 65% | 56% | 1.44 | -20% |
+| Ambos marcan: Sí | 37% | 44% | 41% | 2.10 | -15% |
+| Goles más/menos: Más de 2.5 | 46% | 65% | 55% | 1.44 | -20% |
 | Goles más/menos: Más de 3.5 | 24% | 46% | 35% | 2.00 | -29% |
 | Goles más/menos: Más de 4.5 | 11% | 28% | 19% | 3.40 | -34% |
-| Goles más/menos: Menos de 2.5 | 54% | 35% | 44% | 2.70 | +20% |
+| Goles más/menos: Menos de 2.5 | 54% | 35% | 45% | 2.70 | +20% |
 | Goles más/menos: Menos de 3.5 | 76% | 54% | 65% | 1.73 | +12% |
 | Goles más/menos: Menos de 4.5 | 89% | 72% | 81% | 1.30 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
@@ -208,6 +208,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 43% | 49% | 46% | 1.91 | -12% |
 | Goles del visitante: Menos de 0.5 | 57% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 41% | 31% | 36% | 3.00 | +8% |
-| 1X2 descanso: 1 | 48% | 61% | 55% | 1.53 | -17% |
+| 1X2 descanso: 1 | 49% | 61% | 55% | 1.53 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:56_
@@ -56,42 +56,42 @@ _Actualizadas: 31/10 13:56_
 ## Estadísticas de equipo
 | | Heerenveen (total) | Heerenveen en casa | Feyenoord (total) | Feyenoord fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 13 | 8 |
-| Forma (últimos 5) | VVVDV | VEDDV | EDVVV | EDVVD |
-| Balance | 5V 3E 3D | 2V 1E 2D | 8V 3E 2D | 5V 1E 2D |
-| Goles a favor / partido | 1,82 | 1,40 | 2,77 | 2,75 |
-| Goles en contra / partido | 1,18 | 1,00 | 1,46 | 1,62 |
-| Goles a favor 1ª parte | 0,64 | 0,60 | 1,38 | 1,38 |
-| Goles a favor 2ª parte | 1,18 | 0,80 | 1,38 | 1,38 |
-| Goles en contra 1ª parte | 0,36 | 0,20 | 0,54 | 0,62 |
-| Goles en contra 2ª parte | 0,82 | 0,80 | 0,92 | 1,00 |
-| Más de 1,5 goles | 82% | 60% | 85% | 75% |
-| Más de 2,5 goles | 55% | 40% | 69% | 62% |
-| Más de 3,5 goles | 55% | 40% | 69% | 62% |
-| Ambos marcan | 36% | 20% | 62% | 62% |
-| Portería a cero | 45% | 60% | 31% | 25% |
-| Se queda sin marcar | 27% | 40% | 8% | 12% |
-| xG a favor | 1,56 | 1,41 | 2,21 | 2,13 |
-| xG en contra | 1,54 | 1,16 | 1,17 | 1,32 |
-| Tiros / partido | 15,1 | 15,2 | 18,0 | 15,4 |
-| Tiros a puerta / partido | 5,9 | 5,4 | 7,2 | 6,8 |
-| Tiros recibidos | 14,7 | 14,0 | 13,7 | 15,9 |
-| Tiros a puerta recibidos | 3,7 | 4,2 | 4,7 | 5,4 |
-| Posesión media % | 54 | 54 | 51 | 49 |
+| Partidos analizados | 11 | 5 | 14 | 8 |
+| Forma (últimos 5) | VVVDV | VEDDV | EEDVV | EDVVD |
+| Balance | 5V 3E 3D | 2V 1E 2D | 8V 4E 2D | 5V 1E 2D |
+| Goles a favor / partido | 1,82 | 1,40 | 2,64 | 2,75 |
+| Goles en contra / partido | 1,18 | 1,00 | 1,43 | 1,62 |
+| Goles a favor 1ª parte | 0,64 | 0,60 | 1,29 | 1,38 |
+| Goles a favor 2ª parte | 1,18 | 0,80 | 1,36 | 1,38 |
+| Goles en contra 1ª parte | 0,36 | 0,20 | 0,50 | 0,62 |
+| Goles en contra 2ª parte | 0,82 | 0,80 | 0,93 | 1,00 |
+| Más de 1,5 goles | 82% | 60% | 86% | 75% |
+| Más de 2,5 goles | 55% | 40% | 64% | 62% |
+| Más de 3,5 goles | 55% | 40% | 64% | 62% |
+| Ambos marcan | 36% | 20% | 64% | 62% |
+| Portería a cero | 45% | 60% | 29% | 25% |
+| Se queda sin marcar | 27% | 40% | 7% | 12% |
+| xG a favor | 1,56 | 1,41 | 2,24 | 2,13 |
+| xG en contra | 1,54 | 1,16 | 1,16 | 1,32 |
+| Tiros / partido | 15,1 | 15,2 | 17,8 | 15,4 |
+| Tiros a puerta / partido | 5,9 | 5,4 | 7,1 | 6,8 |
+| Tiros recibidos | 14,7 | 14,0 | 13,5 | 15,9 |
+| Tiros a puerta recibidos | 3,7 | 4,2 | 4,6 | 5,4 |
+| Posesión media % | 54 | 54 | 52 | 49 |
 | Córners a favor | 4,6 | 5,0 | 5,6 | 4,8 |
-| Córners en contra | 5,1 | 4,2 | 4,2 | 4,4 |
+| Córners en contra | 5,1 | 4,2 | 3,9 | 4,4 |
 | Córners a favor 1ª parte | 2,2 | 2,0 | 3,0 | 2,9 |
 | Córners a favor 2ª parte | 2,5 | 3,0 | 2,6 | 1,9 |
-| Córners totales del partido | 9,7 | 9,2 | 9,8 | 9,1 |
+| Córners totales del partido | 9,7 | 9,2 | 9,6 | 9,1 |
 | Córners totales 1ª parte | 4,3 | 3,0 | 4,4 | 4,6 |
-| Córners totales 2ª parte | 5,5 | 6,2 | 5,4 | 4,5 |
-| Más de 8,5 córners | 64% | 40% | 62% | 50% |
-| Más de 9,5 córners | 45% | 40% | 54% | 50% |
-| Más de 10,5 córners | 27% | 40% | 54% | 50% |
-| Faltas cometidas | 8,4 | 8,8 | 10,2 | 10,2 |
+| Córners totales 2ª parte | 5,5 | 6,2 | 5,2 | 4,5 |
+| Más de 8,5 córners | 64% | 40% | 57% | 50% |
+| Más de 9,5 córners | 45% | 40% | 50% | 50% |
+| Más de 10,5 córners | 27% | 40% | 50% | 50% |
+| Faltas cometidas | 8,4 | 8,8 | 9,9 | 10,2 |
 | Faltas recibidas | 12,1 | 10,0 | 12,1 | 10,5 |
-| Amarillas propias | 0,9 | 1,2 | 1,5 | 1,8 |
-| Amarillas del rival | 1,5 | 1,2 | 1,7 | 1,4 |
+| Amarillas propias | 0,9 | 1,2 | 1,4 | 1,8 |
+| Amarillas del rival | 1,5 | 1,2 | 1,6 | 1,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -100,9 +100,9 @@ _Actualizadas: 31/10 13:56_
 | 1-15' | 1 | 2 | 0 | 4 | 2 | 1 |
 | 16-30' | 4 | 1 | 1 | 6 | 4 | 2 |
 | 31-45' | 2 | 1 | 0 | 8 | 1 | 4 |
-| 46-60' | 4 | 2 | 2 | 7 | 4 | 4 |
+| 46-60' | 4 | 2 | 2 | 8 | 4 | 4 |
 | 61-75' | 5 | 5 | 3 | 7 | 3 | 6 |
-| 76-90' | 4 | 2 | 4 | 4 | 5 | 2 |
+| 76-90' | 4 | 2 | 4 | 4 | 6 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -154,29 +154,29 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Feyenoord
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Eredivisie | Feyenoord 1-1 Fortuna Sittard | casa | 6-1 | 15 (6) - 11 (3) | 0-1 |
 | 2026-10-25 | Eredivisie | PSV Eindhoven 1-1 Feyenoord | fuera | 5-6 | 13 (9) - 19 (6) | 3-4 |
 | 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | fuera | 4-4 | 12 (2) - 23 (10) | 2-1 |
 | 2026-10-17 | Eredivisie | Telstar 3-4 Feyenoord | fuera | 8-7 | 21 (11) - 23 (9) | 4-1 |
 | 2026-10-14 | Champions League | Feyenoord 3-2 Como | casa | 5-1 | 13 (5) - 11 (5) | 2-3 |
 | 2026-10-10 | Eredivisie | Feyenoord 2-0 AZ Alkmaar | casa | 7-6 | 15 (4) - 12 (2) | 1-3 |
-| 2026-09-20 | Eredivisie | Feyenoord 5-0 Utrecht | casa | 6-3 | 23 (12) - 6 (2) | 2-2 |
 
 ## Jugadores de Feyenoord
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T. Ernst | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Mika Màrmol | D | 13 | 1141 | 0 | 1 | 6 | 0,5 | 0 | 0,0 | 13 | 12 | 0,9 | 1 | 0 |
-| G. Zechiël | M | 13 | 1124 | 6 | 4 | 21 | 1,6 | 12 | 0,9 | 11 | 11 | 0,8 | 2 | 0 |
-| G. Read | D | 13 | 1111 | 0 | 5 | 13 | 1,0 | 3 | 0,2 | 12 | 19 | 1,5 | 1 | 0 |
-| A. Hadj-Moussa | F | 12 | 1047 | 7 | 1 | 37 | 3,1 | 19 | 1,6 | 5 | 15 | 1,2 | 2 | 0 |
-| L. Valente | F | 13 | 1004 | 4 | 3 | 18 | 1,4 | 9 | 0,7 | 10 | 16 | 1,2 | 0 | 0 |
-| C. Vanhoutte | M | 13 | 954 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 16 | 10 | 0,8 | 5 | 0 |
+| T. Ernst | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Mika Màrmol | D | 14 | 1231 | 0 | 1 | 6 | 0,4 | 0 | 0,0 | 13 | 13 | 0,9 | 1 | 0 |
+| G. Zechiël | M | 14 | 1214 | 6 | 4 | 24 | 1,7 | 13 | 0,9 | 12 | 13 | 0,9 | 2 | 0 |
+| G. Read | D | 14 | 1201 | 0 | 5 | 14 | 1,0 | 4 | 0,3 | 13 | 21 | 1,5 | 1 | 0 |
+| A. Hadj-Moussa | F | 13 | 1137 | 7 | 2 | 39 | 3,0 | 20 | 1,5 | 6 | 16 | 1,2 | 2 | 0 |
+| L. Valente | F | 14 | 1094 | 5 | 3 | 23 | 1,6 | 11 | 0,8 | 10 | 16 | 1,1 | 0 | 0 |
+| C. Vanhoutte | M | 14 | 1044 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 16 | 11 | 0,8 | 5 | 0 |
 | J. St. Juste | D | 11 | 912 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 7 | 0,6 | 0 | 0 |
-| O. Targhalline | M | 12 | 784 | 0 | 1 | 7 | 0,6 | 0 | 0,0 | 8 | 11 | 0,9 | 2 | 0 |
-| T. Watanabe | D | 11 | 782 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 2 | 0,2 | 1 | 0 |
-| Nacho Ferri | F | 12 | 736 | 6 | 1 | 26 | 2,2 | 15 | 1,2 | 15 | 19 | 1,6 | 1 | 0 |
-| Javi López | D | 9 | 517 | 1 | 0 | 8 | 0,9 | 1 | 0,1 | 8 | 8 | 0,9 | 2 | 0 |
-| G. Diarra | F | 10 | 469 | 2 | 2 | 25 | 2,5 | 9 | 0,9 | 7 | 6 | 0,6 | 2 | 0 |
+| O. Targhalline | M | 13 | 874 | 0 | 1 | 7 | 0,5 | 0 | 0,0 | 8 | 12 | 0,9 | 2 | 0 |
+| T. Watanabe | D | 12 | 872 | 0 | 1 | 7 | 0,6 | 3 | 0,2 | 8 | 2 | 0,2 | 1 | 0 |
+| Nacho Ferri | F | 13 | 812 | 6 | 1 | 27 | 2,1 | 15 | 1,2 | 16 | 23 | 1,8 | 1 | 0 |
+| Javi López | D | 10 | 607 | 1 | 0 | 8 | 0,8 | 1 | 0,1 | 8 | 8 | 0,8 | 2 | 0 |
+| G. Diarra | F | 11 | 483 | 2 | 2 | 25 | 2,3 | 9 | 0,8 | 7 | 6 | 0,5 | 2 | 0 |
 | A. Ueda | F | 4 | 308 | 3 | 1 | 15 | 3,8 | 6 | 1,5 | 2 | 6 | 1,5 | 0 | 0 |
 | S. Steijn | M | 7 | 215 | 3 | 1 | 17 | 2,4 | 11 | 1,6 | 0 | 1 | 0,1 | 0 | 0 |
 | T. Kraaijeveld | M | 7 | 190 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 1 | 0 | 0,0 | 0 | 0 |
@@ -186,44 +186,44 @@ _Sin bajas comunicadas por ahora._
 | Gonçalo Borges | F | 2 | 44 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,18 · visitante 1,81 · córners esperados 9,5._
+_Goles esperados: local 1,19 · visitante 1,76 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 52% | 55% | 53% | 1.70 | -9% |
-| 1X2: X | 23% | 22% | 23% | 4.20 | -5% |
-| 1X2: 1 | 25% | 23% | 24% | 4.00 | -4% |
-| Doble oportunidad: X2 | 75% | 77% | 76% | 1.22 | -7% |
+| 1X2: 2 | 51% | 55% | 53% | 1.70 | -10% |
+| 1X2: X | 23% | 22% | 23% | 4.20 | -4% |
+| 1X2: 1 | 26% | 23% | 24% | 4.00 | -2% |
+| Doble oportunidad: X2 | 74% | 77% | 76% | 1.22 | -7% |
 | Doble oportunidad: 12 | 77% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 48% | 45% | 46% | 2.10 | -3% |
+| Doble oportunidad: 1X | 49% | 45% | 47% | 2.10 | -1% |
 | Ambos marcan: No | 42% | 31% | 37% | 3.00 | +10% |
 | Ambos marcan: Sí | 58% | 69% | 63% | 1.36 | -14% |
-| Goles más/menos: Más de 2.5 | 57% | 72% | 65% | 1.33 | -14% |
-| Goles más/menos: Más de 3.5 | 35% | 51% | 43% | 1.80 | -22% |
-| Goles más/menos: Más de 4.5 | 18% | 34% | 26% | 2.75 | -28% |
-| Goles más/menos: Menos de 2.5 | 43% | 28% | 35% | 3.40 | +20% |
-| Goles más/menos: Menos de 3.5 | 65% | 49% | 57% | 1.91 | +8% |
+| Goles más/menos: Más de 2.5 | 57% | 72% | 64% | 1.33 | -15% |
+| Goles más/menos: Más de 3.5 | 34% | 51% | 43% | 1.80 | -23% |
+| Goles más/menos: Más de 4.5 | 18% | 34% | 26% | 2.75 | -29% |
+| Goles más/menos: Menos de 2.5 | 43% | 28% | 36% | 3.40 | +22% |
+| Goles más/menos: Menos de 3.5 | 66% | 49% | 57% | 1.91 | +9% |
 | Goles más/menos: Menos de 4.5 | 82% | 66% | 74% | 1.40 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 50% | 44% | 1.83 | -20% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 25% | 20% | 3.75 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 50% | 56% | 1.83 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 75% | 80% | 1.25 | +1% |
-| Goles del local: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 79% | 76% | 1.18 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 50% | 43% | 1.83 | -21% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 25% | 19% | 3.75 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 21% | 24% | 4.50 | +9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 50% | 57% | 1.83 | +4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 75% | 81% | 1.25 | +1% |
+| Goles del local: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
 | Goles del local: Más de 1.5 | 33% | 42% | 38% | 2.20 | -17% |
-| Goles del local: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +5% |
+| Goles del local: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
 | Goles del local: Menos de 1.5 | 67% | 58% | 62% | 1.62 | +1% |
-| Goles del visitante: Más de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
-| Goles del visitante: Más de 2.5 | 27% | 41% | 34% | 2.25 | -23% |
-| Goles del visitante: Más de 3.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles del visitante: Menos de 1.5 | 46% | 34% | 40% | 2.75 | +10% |
-| Goles del visitante: Menos de 2.5 | 73% | 59% | 66% | 1.57 | +3% |
-| Goles del visitante: Menos de 3.5 | 89% | 78% | 84% | 1.20 | +0% |
-| 1X2 descanso: 2 | 39% | 43% | 41% | 2.20 | -11% |
-| 1X2 descanso: X | 39% | 34% | 37% | 2.75 | +1% |
-| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -10% |
+| Goles del visitante: Más de 1.5 | 53% | 66% | 59% | 1.40 | -17% |
+| Goles del visitante: Más de 2.5 | 26% | 41% | 33% | 2.25 | -25% |
+| Goles del visitante: Más de 3.5 | 10% | 22% | 16% | 4.33 | -31% |
+| Goles del visitante: Menos de 1.5 | 47% | 34% | 41% | 2.75 | +12% |
+| Goles del visitante: Menos de 2.5 | 74% | 59% | 67% | 1.57 | +4% |
+| Goles del visitante: Menos de 3.5 | 90% | 78% | 84% | 1.20 | +1% |
+| 1X2 descanso: 2 | 38% | 43% | 40% | 2.20 | -12% |
+| 1X2 descanso: X | 40% | 34% | 37% | 2.75 | +2% |
+| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

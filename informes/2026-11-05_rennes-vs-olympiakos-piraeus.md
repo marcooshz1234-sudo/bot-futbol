@@ -1,7 +1,7 @@
 # Rennes – Olympiakos Piraeus
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -176,17 +176,17 @@ _Sin precedentes recientes._
 | K. Fortounis | M | 2 | 83 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,18 · visitante 1,11 · córners esperados 10,6._
+_Goles esperados: local 1,18 · visitante 1,10 · córners esperados 10,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 30% | 32% | 3.10 | -1% |
-| 1X2: X | 28% | 26% | 27% | 3.50 | -4% |
-| 1X2: 1 | 37% | 44% | 41% | 2.10 | -15% |
-| Doble oportunidad: X2 | 63% | 56% | 59% | 1.70 | +1% |
-| Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
+| 1X2: X | 29% | 26% | 27% | 3.50 | -4% |
+| 1X2: 1 | 38% | 44% | 41% | 2.10 | -14% |
+| Doble oportunidad: X2 | 62% | 56% | 59% | 1.70 | +1% |
+| Doble oportunidad: 12 | 71% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
 | Ambos marcan: No | 54% | 42% | 48% | 2.20 | +6% |
 | Ambos marcan: Sí | 46% | 58% | 52% | 1.62 | -16% |
@@ -210,7 +210,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
 | Goles del visitante: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| 1X2 descanso: 2 | 26% | 26% | 26% | 3.60 | -8% |
+| 1X2 descanso: 2 | 25% | 26% | 26% | 3.60 | -8% |
 | 1X2 descanso: X | 47% | 40% | 44% | 2.30 | +0% |
 | 1X2 descanso: 1 | 28% | 34% | 31% | 2.75 | -16% |
 

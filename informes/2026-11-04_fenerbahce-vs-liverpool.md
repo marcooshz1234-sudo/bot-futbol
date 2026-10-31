@@ -1,10 +1,10 @@
 # Fenerbahçe – Liverpool
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium Fenerbahce Sukru Saracoglu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:02_
+_Actualizadas: 31/10 19:49_
 
 - **1X2:** 1 **5.00**  ·  X **4.50**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.18**  ·  X2 **1.17**
@@ -22,15 +22,15 @@ _Actualizadas: 30/10 14:02_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
 - **1X2 descanso:** 1 **4.75**  ·  X **2.60**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -46,7 +46,7 @@ _Actualizadas: 30/10 14:02_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.40**
 - **Away Player Shots On Target Total:** Bradley Barcola **23.00**  ·  Milan Skriniar **19.00**  ·  Matteo Guendouzi **34.00**  ·  Lewis Koumas **8.50**  ·  Konstantinos Tsimikas **81.00**  ·  Luke Chambers **34.00**  ·  Kerem Akturkoglu **34.00**  ·  Irfan Kahveci **29.00**  ·  Ismail Yuksek **23.00**  ·  Yigit Efe Demir **29.00**  ·  Michael Laffey **26.00**  ·  Mason Greenwood **23.00**  ·  Nene Dorgeles **15.00**  ·  Archie Brown **26.00**  ·  Romelu Lukaku **8.50**  ·  Ronald Araujo **12.00**  ·  Vedat Muriqi **7.00**  ·  Oguz Aydin **23.00**  ·  Munir Mercan **81.00**  ·  Bartug Elmaz **67.00**  ·  Kojo Oppong **23.00**  ·  Ngolo Kante **81.00**  ·  Ognjen Mimovic **51.00**  ·  Alexis Mac Allister **34.00**  ·  Cody Gakpo **13.00**  ·  Dominik Szoboszlai **34.00**  ·  Federico Chiesa **13.00**  ·  Joe Gomez **19.00**  ·  Ryan Gravenberch **51.00**  ·  Virgil van Dijk **10.00**  ·  Wataru Endo **26.00**  ·  Milos Kerkez **81.00**  ·  Alexander Isak **8.00**  ·  Nelson Semedo **51.00**  ·  Florian Wirtz **29.00**  ·  Jeremie Frimpong **101.00**  ·  Trey Nyoni **21.00**  ·  James McConnell **26.00**  ·  Victor Munoz **34.00**  ·  Jayden Danns **9.00**  ·  Rio Ngumoha **17.00**  ·  Jeremy Jacquet **15.00**
 - **Anytime Goal Scorer:** Bradley Barcola **2.62**  ·  Milan Skriniar **13.00**  ·  Matteo Guendouzi **8.50**  ·  Lewis Koumas **2.25**  ·  Konstantinos Tsimikas **8.50**  ·  Luke Chambers **8.50**  ·  Kerem Akturkoglu **4.00**  ·  Irfan Kahveci **7.00**  ·  Ismail Yuksek **8.50**  ·  Yigit Efe Demir **13.00**  ·  Michael Laffey **7.00**  ·  Mason Greenwood **3.10**  ·  Nene Dorgeles **4.00**  ·  Archie Brown **8.50**  ·  Romelu Lukaku **3.10**  ·  Ronald Araujo **8.50**  ·  Vedat Muriqi **3.00**  ·  Oguz Aydin **5.50**  ·  Munir Mercan **9.00**  ·  Bartug Elmaz **7.50**  ·  Kojo Oppong **13.00**  ·  Ngolo Kante **9.00**  ·  Ognjen Mimovic **9.00**  ·  Alexis Mac Allister **5.50**  ·  Cody Gakpo **2.62**  ·  Dominik Szoboszlai **4.00**  ·  Federico Chiesa **2.62**  ·  Joe Gomez **11.00**  ·  Ryan Gravenberch **5.50**  ·  Virgil van Dijk **7.50**  ·  Wataru Endo **7.00**  ·  Milos Kerkez **8.50**  ·  Alexander Isak **2.10**  ·  Nelson Semedo **11.00**  ·  Florian Wirtz **4.00**  ·  Jeremie Frimpong **8.50**  ·  Trey Nyoni **5.50**  ·  James McConnell **5.50**  ·  Victor Munoz **4.00**  ·  Jayden Danns **2.62**  ·  Rio Ngumoha **3.40**  ·  Jeremy Jacquet **8.50**
-- **Player to Score or Assist:** Bradley Barcola **1.80**  ·  Milan Skriniar **7.50**  ·  Matteo Guendouzi **4.33**  ·  Lewis Koumas **1.73**  ·  Konstantinos Tsimikas **3.60**  ·  Luke Chambers **3.60**  ·  Kerem Akturkoglu **2.40**  ·  Irfan Kahveci **3.75**  ·  Ismail Yuksek **4.50**  ·  Yigit Efe Demir **8.00**  ·  Michael Laffey **4.00**  ·  Mason Greenwood **2.20**  ·  Nene Dorgeles **2.75**  ·  Archie Brown **4.33**  ·  Romelu Lukaku **2.38**  ·  Ronald Araujo **5.00**  ·  Vedat Muriqi **2.38**  ·  Oguz Aydin **3.25**  ·  Munir Mercan **6.00**  ·  Bartug Elmaz **4.33**  ·  Kojo Oppong **8.00**  ·  Ngolo Kante **5.00**  ·  Ognjen Mimovic **6.50**  ·  Alexis Mac Allister **2.75**  ·  Cody Gakpo **1.91**  ·  Dominik Szoboszlai **2.20**  ·  Federico Chiesa **1.91**  ·  Joe Gomez **4.33**  ·  Ryan Gravenberch **3.20**  ·  Virgil van Dijk **4.33**  ·  Wataru Endo **4.00**  ·  Milos Kerkez **4.00**  ·  Alexander Isak **1.67**  ·  Nelson Semedo **4.75**  ·  Florian Wirtz **2.10**  ·  Jeremie Frimpong **3.00**  ·  Trey Nyoni **3.50**  ·  James McConnell **2.50**  ·  Victor Munoz **2.38**  ·  Jayden Danns **1.95**  ·  Rio Ngumoha **2.10**  ·  Jeremy Jacquet **5.00**
+- **Player to Score or Assist:** Bradley Barcola **1.80**  ·  Milan Skriniar **7.50**  ·  Matteo Guendouzi **4.33**  ·  Lewis Koumas **1.73**  ·  Konstantinos Tsimikas **3.60**  ·  Luke Chambers **3.60**  ·  Kerem Akturkoglu **2.60**  ·  Irfan Kahveci **3.75**  ·  Ismail Yuksek **4.50**  ·  Yigit Efe Demir **8.00**  ·  Michael Laffey **4.00**  ·  Mason Greenwood **2.20**  ·  Nene Dorgeles **2.75**  ·  Archie Brown **4.33**  ·  Romelu Lukaku **2.38**  ·  Ronald Araujo **5.00**  ·  Vedat Muriqi **2.38**  ·  Oguz Aydin **3.25**  ·  Munir Mercan **6.00**  ·  Bartug Elmaz **4.50**  ·  Kojo Oppong **8.00**  ·  Ngolo Kante **5.00**  ·  Ognjen Mimovic **6.50**  ·  Alexis Mac Allister **2.75**  ·  Cody Gakpo **1.91**  ·  Dominik Szoboszlai **2.10**  ·  Federico Chiesa **1.83**  ·  Joe Gomez **4.33**  ·  Ryan Gravenberch **3.20**  ·  Virgil van Dijk **4.33**  ·  Wataru Endo **4.00**  ·  Milos Kerkez **4.00**  ·  Alexander Isak **1.67**  ·  Nelson Semedo **4.75**  ·  Florian Wirtz **2.10**  ·  Jeremie Frimpong **3.00**  ·  Trey Nyoni **3.50**  ·  James McConnell **2.50**  ·  Victor Munoz **2.38**  ·  Jayden Danns **1.95**  ·  Rio Ngumoha **2.10**  ·  Jeremy Jacquet **5.00**
 
 ## Estadísticas de equipo
 | | Fenerbahçe (total) | Fenerbahçe en casa | Liverpool (total) | Liverpool fuera |
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,02 · visitante 1,60 · córners esperados 9,7._
+_Goles esperados: local 1,03 · visitante 1,62 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -188,28 +188,28 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 76% | 80% | 78% | 1.17 | -9% |
 | Doble oportunidad: 12 | 75% | 79% | 77% | 1.18 | -9% |
 | Doble oportunidad: 1X | 49% | 41% | 45% | 2.30 | +3% |
-| Ambos marcan: No | 49% | 39% | 44% | 2.38 | +5% |
+| Ambos marcan: No | 49% | 39% | 44% | 2.38 | +4% |
 | Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -14% |
-| Goles más/menos: Más de 2.5 | 49% | 64% | 56% | 1.50 | -16% |
-| Goles más/menos: Más de 3.5 | 27% | 43% | 35% | 2.20 | -23% |
-| Goles más/menos: Más de 4.5 | 13% | 25% | 19% | 3.75 | -29% |
-| Goles más/menos: Menos de 2.5 | 51% | 36% | 44% | 2.62 | +15% |
-| Goles más/menos: Menos de 3.5 | 73% | 57% | 65% | 1.67 | +9% |
-| Goles más/menos: Menos de 4.5 | 87% | 75% | 81% | 1.28 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 71% | 1.25 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 44% | 38% | 2.10 | -20% |
+| Goles más/menos: Más de 2.5 | 49% | 64% | 56% | 1.50 | -15% |
+| Goles más/menos: Más de 3.5 | 27% | 43% | 35% | 2.20 | -22% |
+| Goles más/menos: Más de 4.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles más/menos: Menos de 2.5 | 51% | 36% | 44% | 2.62 | +14% |
+| Goles más/menos: Menos de 3.5 | 73% | 57% | 65% | 1.67 | +8% |
+| Goles más/menos: Menos de 4.5 | 87% | 75% | 81% | 1.28 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
 | Goles 1ª parte más/menos: Más de 2.5 | 11% | 21% | 16% | 4.50 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 29% | 3.75 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 56% | 62% | 1.67 | +4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -1% |
-| Goles del local: Más de 0.5 | 64% | 71% | 67% | 1.33 | -10% |
-| Goles del local: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles del local: Menos de 0.5 | 36% | 29% | 33% | 3.25 | +6% |
-| Goles del local: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 0.5 | 64% | 69% | 67% | 1.36 | -10% |
+| Goles del local: Más de 1.5 | 27% | 34% | 31% | 2.75 | -16% |
+| Goles del local: Menos de 0.5 | 36% | 31% | 33% | 3.00 | +0% |
+| Goles del local: Menos de 1.5 | 73% | 66% | 69% | 1.40 | -3% |
 | Goles del visitante: Más de 1.5 | 48% | 62% | 55% | 1.50 | -17% |
-| Goles del visitante: Más de 2.5 | 22% | 35% | 29% | 2.62 | -25% |
+| Goles del visitante: Más de 2.5 | 22% | 38% | 30% | 2.50 | -26% |
 | Goles del visitante: Menos de 1.5 | 52% | 38% | 45% | 2.50 | +12% |
-| Goles del visitante: Menos de 2.5 | 78% | 65% | 71% | 1.44 | +3% |
+| Goles del visitante: Menos de 2.5 | 78% | 62% | 70% | 1.50 | +5% |
 | 1X2 descanso: 2 | 37% | 44% | 41% | 2.10 | -15% |
 | 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +2% |
 

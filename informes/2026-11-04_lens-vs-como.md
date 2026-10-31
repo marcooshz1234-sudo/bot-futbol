@@ -1,10 +1,10 @@
 # Lens – Como
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:02_
+_Actualizadas: 31/10 19:49_
 
 - **1X2:** 1 **2.90**  ·  X **3.75**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.40**
@@ -33,7 +33,7 @@ _Actualizadas: 30/10 14:02_
 - **1X2 descanso:** 1 **3.25**  ·  X **2.50**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
@@ -178,7 +178,7 @@ _Sin precedentes recientes._
 | S. Ricci | M | 8 | 152 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,26 · visitante 2,13 · córners esperados 10,0._
+_Goles esperados: local 1,27 · visitante 2,13 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -192,22 +192,22 @@ _Goles esperados: local 1,26 · visitante 2,13 · córners esperados 10,0._
 | Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 2.5 | 66% | 64% | 65% | 1.50 | -3% |
 | Goles más/menos: Más de 3.5 | 44% | 43% | 44% | 2.20 | -4% |
-| Goles más/menos: Más de 4.5 | 25% | 24% | 25% | 4.00 | -1% |
+| Goles más/menos: Más de 4.5 | 26% | 24% | 25% | 4.00 | -1% |
 | Goles más/menos: Menos de 2.5 | 34% | 36% | 35% | 2.62 | -8% |
 | Goles más/menos: Menos de 3.5 | 56% | 57% | 56% | 1.67 | -6% |
-| Goles más/menos: Menos de 4.5 | 75% | 76% | 75% | 1.25 | -6% |
+| Goles más/menos: Menos de 4.5 | 74% | 76% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
-| Goles del local: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
-| Goles del local: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles del local: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
+| Goles del local: Más de 1.5 | 36% | 44% | 40% | 2.10 | -15% |
+| Goles del local: Más de 2.5 | 14% | 21% | 17% | 4.50 | -23% |
 | Goles del local: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles del local: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
-| Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
+| Goles del local: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -2% |
 | Goles del visitante: Más de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +9% |
 | Goles del visitante: Menos de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
 | Goles del visitante: Menos de 2.5 | 64% | 73% | 69% | 1.28 | -12% |
 | 1X2 descanso: 2 | 43% | 34% | 38% | 2.75 | +6% |

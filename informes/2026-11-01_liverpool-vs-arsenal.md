@@ -1,7 +1,7 @@
 # Liverpool – Arsenal
 **Premier League** · Regular Season - 9 · 01/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -216,40 +216,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | P. Hincapié | D | 5 | 220 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 1 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,47 · córners esperados 9,2._
+_Goles esperados: local 1,10 · visitante 1,49 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 46% | 39% | 43% | 2.45 | +4% |
 | 1X2: X | 26% | 28% | 27% | 3.40 | -8% |
-| 1X2: 1 | 28% | 33% | 30% | 2.88 | -12% |
-| Doble oportunidad: X2 | 72% | 67% | 70% | 1.40 | -3% |
+| 1X2: 1 | 28% | 33% | 31% | 2.88 | -12% |
+| Doble oportunidad: X2 | 72% | 67% | 69% | 1.40 | -3% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 54% | 61% | 58% | 1.53 | -12% |
-| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
-| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
-| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
+| Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
+| Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.28 | -6% |
+| Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Más de 3.5 | 26% | 30% | 28% | 3.20 | -11% |
+| Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.91 | -2% |
+| Goles más/menos: Menos de 3.5 | 74% | 70% | 72% | 1.36 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del local: Más de 1.5 | 29% | 38% | 33% | 2.50 | -16% |
-| Goles del local: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del local: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del local: Más de 0.5 | 67% | 72% | 69% | 1.30 | -10% |
+| Goles del local: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del local: Menos de 0.5 | 33% | 28% | 31% | 3.40 | +4% |
+| Goles del local: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles del visitante: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles del visitante: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
+| Goles del visitante: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles del visitante: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -11% |
+| Goles del visitante: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Córners más/menos: Más de 9.5 | 43% | 51% | 47% | 1.85 | -13% |
 | Córners más/menos: Menos de 9.5 | 57% | 49% | 53% | 1.95 | +3% |
 | 1X2 descanso: 2 | 34% | 31% | 32% | 3.00 | -3% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
+| 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
 | 1X2 descanso: 1 | 23% | 27% | 25% | 3.40 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

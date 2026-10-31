@@ -1,7 +1,7 @@
 # Excelsior – GO Ahead Eagles
 **Eredivisie** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 02:04_
@@ -183,18 +183,18 @@ _Sin bajas comunicadas por ahora._
 | Calvin Twigt | M | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,66 · visitante 1,64 · córners esperados 9,5._
+_Goles esperados: local 1,67 · visitante 1,63 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 41% | 40% | 2.25 | -11% |
+| 1X2: 2 | 38% | 41% | 39% | 2.25 | -11% |
 | 1X2: X | 23% | 25% | 24% | 3.70 | -11% |
-| 1X2: 1 | 39% | 34% | 36% | 2.75 | -0% |
+| 1X2: 1 | 39% | 34% | 37% | 2.75 | +0% |
 | Doble oportunidad: X2 | 61% | 68% | 64% | 1.40 | -10% |
 | Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
-| Doble oportunidad: 1X | 62% | 58% | 60% | 1.62 | -3% |
+| Doble oportunidad: 1X | 62% | 58% | 60% | 1.62 | -2% |
 | Ambos marcan: No | 35% | 34% | 34% | 2.75 | -6% |
 | Ambos marcan: Sí | 65% | 66% | 66% | 1.40 | -8% |
 | Goles más/menos: Más de 2.5 | 64% | 64% | 64% | 1.48 | -5% |
@@ -210,17 +210,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -5% |
 | Goles del local: Más de 0.5 | 81% | 78% | 80% | 1.20 | -4% |
-| Goles del local: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles del local: Más de 1.5 | 50% | 49% | 49% | 1.91 | -6% |
+| Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -6% |
 | Goles del local: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
-| Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles del visitante: Más de 2.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles del visitante: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -2% |
-| Goles del visitante: Menos de 2.5 | 77% | 73% | 75% | 1.28 | -4% |
-| 1X2 descanso: 2 | 31% | 33% | 32% | 2.75 | -11% |
+| Goles del local: Menos de 1.5 | 50% | 51% | 51% | 1.80 | -8% |
+| Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -7% |
+| Goles del visitante: Más de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Goles del visitante: Más de 2.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles del visitante: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Goles del visitante: Menos de 2.5 | 78% | 73% | 75% | 1.28 | -3% |
+| 1X2 descanso: 2 | 31% | 33% | 32% | 2.75 | -12% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
-| 1X2 descanso: 1 | 31% | 30% | 30% | 3.10 | -5% |
+| 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

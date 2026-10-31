@@ -1,7 +1,7 @@
 # Paris Saint Germain – Estac Troyes
 **Ligue 1** · Regular Season - 10 · 07/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 02:04_
@@ -184,39 +184,39 @@ _Sin bajas comunicadas por ahora._
 | Yacouba Kone | F | 5 | 41 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,61 · visitante 0,67 · córners esperados 9,0._
+_Goles esperados: local 3,63 · visitante 0,67 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 4% | 5% | 5% | 17.00 | -23% |
-| 1X2: X | 7% | 12% | 10% | 8.00 | -24% |
+| 1X2: 2 | 3% | 5% | 4% | 17.00 | -24% |
+| 1X2: X | 7% | 12% | 9% | 8.00 | -24% |
 | 1X2: 1 | 89% | 83% | 86% | 1.12 | -4% |
-| Doble oportunidad: X2 | 11% | 18% | 14% | 5.50 | -21% |
+| Doble oportunidad: X2 | 11% | 18% | 14% | 5.50 | -22% |
 | Doble oportunidad: 12 | 93% | 88% | 90% | 1.10 | -1% |
-| Doble oportunidad: 1X | 96% | 94% | 95% | 1.03 | -2% |
+| Doble oportunidad: 1X | 97% | 94% | 95% | 1.03 | -2% |
 | Ambos marcan: No | 52% | 52% | 52% | 1.80 | -6% |
 | Ambos marcan: Sí | 48% | 48% | 48% | 1.95 | -7% |
 | Goles más/menos: Más de 2.5 | 80% | 75% | 77% | 1.28 | -1% |
-| Goles más/menos: Más de 3.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Más de 4.5 | 43% | 36% | 39% | 2.62 | +3% |
-| Goles más/menos: Más de 5.5 | 26% | 21% | 24% | 4.50 | +6% |
+| Goles más/menos: Más de 3.5 | 62% | 55% | 59% | 1.73 | +1% |
+| Goles más/menos: Más de 4.5 | 43% | 36% | 40% | 2.62 | +4% |
+| Goles más/menos: Más de 5.5 | 26% | 21% | 24% | 4.50 | +7% |
 | Goles más/menos: Menos de 2.5 | 20% | 25% | 23% | 3.75 | -15% |
-| Goles más/menos: Menos de 3.5 | 38% | 45% | 42% | 2.10 | -13% |
-| Goles más/menos: Menos de 4.5 | 57% | 64% | 61% | 1.50 | -9% |
+| Goles más/menos: Menos de 3.5 | 38% | 45% | 41% | 2.10 | -13% |
+| Goles más/menos: Menos de 4.5 | 57% | 64% | 60% | 1.50 | -10% |
 | Goles más/menos: Menos de 5.5 | 74% | 79% | 76% | 1.20 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 28% | 27% | 28% | 3.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 72% | 73% | 72% | 1.28 | -7% |
-| Goles del local: Más de 2.5 | 70% | 61% | 65% | 1.53 | -0% |
-| Goles del local: Más de 3.5 | 49% | 39% | 44% | 2.38 | +4% |
-| Goles del local: Más de 4.5 | 29% | 23% | 26% | 4.00 | +6% |
-| Goles del local: Menos de 2.5 | 30% | 39% | 35% | 2.38 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 56% | 51% | 54% | 1.80 | -4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 71% | 73% | 72% | 1.28 | -7% |
+| Goles del local: Más de 2.5 | 70% | 61% | 66% | 1.53 | +0% |
+| Goles del local: Más de 3.5 | 49% | 39% | 44% | 2.38 | +5% |
+| Goles del local: Más de 4.5 | 30% | 23% | 27% | 4.00 | +7% |
+| Goles del local: Menos de 2.5 | 30% | 39% | 34% | 2.38 | -18% |
 | Goles del local: Menos de 3.5 | 51% | 61% | 56% | 1.53 | -14% |
-| Goles del local: Menos de 4.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles del local: Menos de 4.5 | 70% | 77% | 73% | 1.22 | -11% |
 | Goles del visitante: Más de 0.5 | 49% | 51% | 50% | 1.80 | -10% |
 | Goles del visitante: Menos de 0.5 | 51% | 49% | 50% | 1.91 | -5% |
-| 1X2 descanso: X | 24% | 27% | 25% | 3.40 | -14% |
+| 1X2 descanso: X | 23% | 27% | 25% | 3.40 | -14% |
 | 1X2 descanso: 1 | 70% | 64% | 67% | 1.44 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Frosinone – Torino
 **Serie A** · Regular Season - 10 · 01/11/2026 15:00 (hora España) · PSC Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -210,42 +210,42 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | G. Oristanio | M | 4 | 133 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,89 · visitante 1,40 · córners esperados 10,3._
+_Goles esperados: local 1,89 · visitante 1,39 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 30% | 29% | 3.20 | -7% |
+| 1X2: 2 | 28% | 30% | 29% | 3.20 | -7% |
 | 1X2: X | 22% | 25% | 24% | 3.75 | -11% |
 | 1X2: 1 | 49% | 45% | 47% | 2.10 | -1% |
 | Doble oportunidad: X2 | 51% | 55% | 53% | 1.70 | -10% |
 | Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -4% |
-| Doble oportunidad: 1X | 71% | 69% | 70% | 1.36 | -4% |
+| Doble oportunidad: 1X | 72% | 69% | 70% | 1.36 | -4% |
 | Ambos marcan: No | 36% | 31% | 34% | 3.00 | +1% |
 | Ambos marcan: Sí | 64% | 69% | 66% | 1.36 | -10% |
 | Goles más/menos: Más de 2.5 | 64% | 66% | 65% | 1.44 | -7% |
-| Goles más/menos: Más de 3.5 | 42% | 47% | 45% | 2.00 | -11% |
-| Goles más/menos: Más de 4.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles más/menos: Más de 3.5 | 41% | 47% | 44% | 2.00 | -11% |
+| Goles más/menos: Más de 4.5 | 23% | 28% | 26% | 3.40 | -13% |
 | Goles más/menos: Menos de 2.5 | 36% | 34% | 35% | 2.75 | -3% |
-| Goles más/menos: Menos de 3.5 | 58% | 53% | 55% | 1.80 | -0% |
-| Goles más/menos: Menos de 4.5 | 76% | 72% | 74% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 78% | 77% | 1.20 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 17% | 22% | 20% | 4.33 | -16% |
+| Goles más/menos: Menos de 3.5 | 59% | 53% | 56% | 1.80 | +0% |
+| Goles más/menos: Menos de 4.5 | 77% | 72% | 74% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 46% | 44% | 2.00 | -12% |
+| Goles 1ª parte más/menos: Más de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 80% | 1.20 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del local: Más de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles del local: Más de 2.5 | 29% | 31% | 30% | 3.00 | -9% |
 | Goles del local: Menos de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
 | Goles del local: Menos de 2.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Goles del visitante: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
-| Goles del visitante: Más de 2.5 | 17% | 23% | 20% | 4.00 | -20% |
-| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
-| Goles del visitante: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -0% |
-| Goles del visitante: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -2% |
-| Córners más/menos: Más de 9.5 | 52% | 51% | 51% | 1.80 | -7% |
-| Córners más/menos: Menos de 9.5 | 48% | 49% | 49% | 1.91 | -7% |
+| Goles del visitante: Más de 1.5 | 40% | 49% | 44% | 1.91 | -15% |
+| Goles del visitante: Más de 2.5 | 16% | 23% | 20% | 4.00 | -21% |
+| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
+| Goles del visitante: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
+| Goles del visitante: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Córners más/menos: Más de 9.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Córners más/menos: Menos de 9.5 | 48% | 49% | 48% | 1.91 | -7% |
 | 1X2 descanso: 2 | 25% | 29% | 27% | 3.25 | -13% |
 | 1X2 descanso: X | 38% | 36% | 37% | 2.60 | -5% |
 | 1X2 descanso: 1 | 38% | 36% | 37% | 2.60 | -5% |
