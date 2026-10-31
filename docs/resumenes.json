@@ -560,14 +560,14 @@
   },
   "2026-10-31": {
     "dia": "2026-10-31",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -575,13 +575,19 @@
         "titulo": "✅ COMBI LOCAS | PREMIER",
         "estado": "pendiente",
         "cuota": 9.44
+      },
+      {
+        "id": "2026-10-31-combi-partido-1570439",
+        "titulo": "✅ COMBI LOCAS | LALIGA",
+        "estado": "pendiente",
+        "cuota": 8.74
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 16
+      "total": 20
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 8,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
