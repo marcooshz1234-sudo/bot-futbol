@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 31/10/2026 02:04 (hora España). Partidos guardados en la base de datos: 1579._
+_Actualizado el 31/10/2026 07:56 (hora España). Partidos guardados en la base de datos: 1579._
 
 
 ## Sábado 31/10
@@ -177,7 +177,7 @@ _Actualizado el 31/10/2026 02:04 (hora España). Partidos guardados en la base d
 - 20:45 · Serie A · [Venezia – Udinese](informes/2026-11-06_venezia-vs-udinese.md)
 - 20:45 · Ligue 1 · [Toulouse – Strasbourg](informes/2026-11-06_toulouse-vs-strasbourg.md) · 1X2: 2.00 / 3.70 / 3.25
 - 21:00 · LaLiga · [Sevilla – Alaves](informes/2026-11-06_sevilla-vs-alaves.md) · 1X2: 2.05 / 3.30 / 3.60
-- 21:00 · Premier League · [Everton – Coventry](informes/2026-11-06_everton-vs-coventry.md) · 1X2: 1.50 / 4.20 / 5.75
+- 21:00 · Premier League · [Everton – Coventry](informes/2026-11-06_everton-vs-coventry.md) · 1X2: 1.70 / 3.90 / 4.33
 - 21:00 · Championship · [Derby – Bolton](informes/2026-11-06_derby-vs-bolton.md)
 - 21:45 · Primeira Liga · [Famalicao – Arouca](informes/2026-11-06_famalicao-vs-arouca.md)
 

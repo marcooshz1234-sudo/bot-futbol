@@ -1,7 +1,7 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Merkur-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_

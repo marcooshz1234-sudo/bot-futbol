@@ -1,7 +1,7 @@
 # Tenerife – FC Andorra
 **Segunda División** · Regular Season - 12 · 01/11/2026 21:00 (hora España) · Heliodoro Rodríguez López
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

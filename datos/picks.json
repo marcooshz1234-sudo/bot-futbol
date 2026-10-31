@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-31 02:05",
+ "generado": "2026-10-31 07:56",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -60,6 +60,8 @@
      "temporada": "8/8",
      "movimiento": 0.025,
      "cuota_inicial": 1.22,
+     "arbitro": "Mateo Busquets Ferrer",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       4,
       20,
@@ -207,6 +209,8 @@
      "ventaja": 0.206,
      "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
      "valor_mercado": 0.099,
+     "arbitro": "Adrian Cordero Vega",
+     "arbitro_tarjetas": 6.7,
      "posiciones": [
       1,
       7,
@@ -503,6 +507,8 @@
      "valor_mercado": -0.023,
      "movimiento": -0.015,
      "cuota_inicial": 1.3,
+     "arbitro": "Jose Antonio Sanchez Villalobos",
+     "arbitro_tarjetas": 7.0,
      "posiciones": [
       20,
       4,
@@ -780,6 +786,8 @@
      "texto": "Lucas Boye comete 2+ faltas",
      "detalle": "Lucas Boye 8/9",
      "temporada": "8/9",
+     "arbitro": "Adrian Cordero Vega",
+     "arbitro_tarjetas": 6.7,
      "posiciones": [
       1,
       7,
@@ -837,6 +845,8 @@
      "valor_mercado": 0.013,
      "movimiento": 0.121,
      "cuota_inicial": 1.4,
+     "arbitro": "Andres Fuentes Molina",
+     "arbitro_tarjetas": 7.6,
      "posiciones": [
       22,
       10,
@@ -863,6 +873,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.047,
      "cuota_inicial": 1.5,
+     "arbitro": "Fabio Maresca",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       17,
       3,
@@ -889,6 +901,8 @@
      "valor_mercado": -0.025,
      "movimiento": -0.056,
      "cuota_inicial": 1.62,
+     "arbitro": "Manuel Jesus Orellana Cid",
+     "arbitro_tarjetas": 6.0,
      "posiciones": [
       17,
       9,
@@ -1025,6 +1039,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.036,
      "detalle": "Levante 7/10 · Atletico Madrid 8/10",
+     "arbitro": "Ricardo De Burgos Bengoetxea",
+     "arbitro_tarjetas": 4.6,
      "posiciones": [
       15,
       2,
@@ -1103,6 +1119,8 @@
      "ventaja": 0.15,
      "detalle": "Real Sociedad II 6/10 · Girona 7/10",
      "valor_mercado": -0.015,
+     "arbitro": "Jose Antonio Sanchez Villalobos",
+     "arbitro_tarjetas": 7.0,
      "posiciones": [
       20,
       4,
@@ -1126,6 +1144,8 @@
      "frecuencia": 0.85,
      "ventaja": 0.272,
      "detalle": "Udinese 10/10 · AS Roma 7/10",
+     "arbitro": "Fabio Maresca",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       17,
       3,
@@ -1152,6 +1172,8 @@
      "valor_mercado": 0.023,
      "movimiento": 0.04,
      "cuota_inicial": 1.73,
+     "arbitro": "Mateo Busquets Ferrer",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       4,
       20,
@@ -1176,6 +1198,8 @@
      "ventaja": 0.031,
      "detalle": "Udinese 8/10 · AS Roma 8/10",
      "valor_mercado": -0.023,
+     "arbitro": "Fabio Maresca",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       17,
       3,
@@ -1200,6 +1224,8 @@
      "ventaja": 0.146,
      "detalle": "Real Sociedad II 8/10 · Girona 8/10",
      "valor_mercado": -0.013,
+     "arbitro": "Jose Antonio Sanchez Villalobos",
+     "arbitro_tarjetas": 7.0,
      "posiciones": [
       20,
       4,
@@ -1289,6 +1315,8 @@
      "temporada": "8/8",
      "movimiento": 0.025,
      "cuota_inicial": 1.22,
+     "arbitro": "Mateo Busquets Ferrer",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       4,
       20,
@@ -1436,6 +1464,8 @@
      "ventaja": 0.206,
      "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
      "valor_mercado": 0.099,
+     "arbitro": "Adrian Cordero Vega",
+     "arbitro_tarjetas": 6.7,
      "posiciones": [
       1,
       7,
@@ -1557,6 +1587,8 @@
      "valor_mercado": -0.023,
      "movimiento": -0.015,
      "cuota_inicial": 1.3,
+     "arbitro": "Jose Antonio Sanchez Villalobos",
+     "arbitro_tarjetas": 7.0,
      "posiciones": [
       20,
       4,
@@ -1674,6 +1706,8 @@
      "valor_mercado": 0.013,
      "movimiento": 0.121,
      "cuota_inicial": 1.4,
+     "arbitro": "Andres Fuentes Molina",
+     "arbitro_tarjetas": 7.6,
      "posiciones": [
       22,
       10,
@@ -1700,6 +1734,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.047,
      "cuota_inicial": 1.5,
+     "arbitro": "Fabio Maresca",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       17,
       3,
@@ -1726,6 +1762,8 @@
      "valor_mercado": -0.025,
      "movimiento": -0.056,
      "cuota_inicial": 1.62,
+     "arbitro": "Manuel Jesus Orellana Cid",
+     "arbitro_tarjetas": 6.0,
      "posiciones": [
       17,
       9,
@@ -1775,6 +1813,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.036,
      "detalle": "Levante 7/10 · Atletico Madrid 8/10",
+     "arbitro": "Ricardo De Burgos Bengoetxea",
+     "arbitro_tarjetas": 4.6,
      "posiciones": [
       15,
       2,
@@ -1866,6 +1906,8 @@
        "temporada": "8/8",
        "movimiento": 0.025,
        "cuota_inicial": 1.22,
+       "arbitro": "Mateo Busquets Ferrer",
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
         4,
         20,
@@ -1956,6 +1998,8 @@
        "ventaja": 0.206,
        "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
        "valor_mercado": 0.099,
+       "arbitro": "Adrian Cordero Vega",
+       "arbitro_tarjetas": 6.7,
        "posiciones": [
         1,
         7,
@@ -1979,6 +2023,8 @@
        "frecuencia": 0.75,
        "ventaja": 0.036,
        "detalle": "Levante 7/10 · Atletico Madrid 8/10",
+       "arbitro": "Ricardo De Burgos Bengoetxea",
+       "arbitro_tarjetas": 4.6,
        "posiciones": [
         15,
         2,
@@ -2096,6 +2142,8 @@
        "valor_mercado": -0.023,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
+       "arbitro": "Jose Antonio Sanchez Villalobos",
+       "arbitro_tarjetas": 7.0,
        "posiciones": [
         20,
         4,
@@ -2122,6 +2170,8 @@
        "valor_mercado": 0.013,
        "movimiento": 0.121,
        "cuota_inicial": 1.4,
+       "arbitro": "Andres Fuentes Molina",
+       "arbitro_tarjetas": 7.6,
        "posiciones": [
         22,
         10,
@@ -2263,6 +2313,8 @@
        "valor_mercado": -0.023,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
+       "arbitro": "Jose Antonio Sanchez Villalobos",
+       "arbitro_tarjetas": 7.0,
        "posiciones": [
         20,
         4,
@@ -2289,6 +2341,8 @@
        "valor_mercado": 0.013,
        "movimiento": 0.121,
        "cuota_inicial": 1.4,
+       "arbitro": "Andres Fuentes Molina",
+       "arbitro_tarjetas": 7.6,
        "posiciones": [
         22,
         10,
@@ -2315,6 +2369,8 @@
        "valor_mercado": -0.025,
        "movimiento": -0.056,
        "cuota_inicial": 1.62,
+       "arbitro": "Manuel Jesus Orellana Cid",
+       "arbitro_tarjetas": 6.0,
        "posiciones": [
         17,
         9,
@@ -2372,6 +2428,8 @@
        "ventaja": 0.15,
        "detalle": "Real Sociedad II 6/10 · Girona 7/10",
        "valor_mercado": -0.015,
+       "arbitro": "Jose Antonio Sanchez Villalobos",
+       "arbitro_tarjetas": 7.0,
        "posiciones": [
         20,
         4,
@@ -2555,6 +2613,8 @@
        "temporada": "8/8",
        "movimiento": 0.025,
        "cuota_inicial": 1.22,
+       "arbitro": "Mateo Busquets Ferrer",
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
         4,
         20,
@@ -2701,6 +2761,8 @@
        "ventaja": 0.206,
        "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
        "valor_mercado": 0.099,
+       "arbitro": "Adrian Cordero Vega",
+       "arbitro_tarjetas": 6.7,
        "posiciones": [
         1,
         7,
@@ -2822,6 +2884,8 @@
        "valor_mercado": -0.023,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
+       "arbitro": "Jose Antonio Sanchez Villalobos",
+       "arbitro_tarjetas": 7.0,
        "posiciones": [
         20,
         4,
@@ -2898,6 +2962,8 @@
        "valor_mercado": 0.013,
        "movimiento": 0.121,
        "cuota_inicial": 1.4,
+       "arbitro": "Andres Fuentes Molina",
+       "arbitro_tarjetas": 7.6,
        "posiciones": [
         22,
         10,
@@ -3015,6 +3081,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.027,
      "cuota_inicial": 1.48,
+     "arbitro": "Andrea Colombo",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       2,
       10,
@@ -3041,6 +3109,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Maria Sole Ferrieri Caputi",
+     "arbitro_tarjetas": null,
      "posiciones": [
       4,
       20,
@@ -3130,6 +3200,8 @@
      "texto": "Pietro Comuzzo comete 1+ faltas",
      "detalle": "Pietro Comuzzo 8/10",
      "temporada": "8/10",
+     "arbitro": "Giuseppe Mucera",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       6,
       9,
@@ -3432,6 +3504,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.194,
      "detalle": "Lecce 8/10 · Genoa 7/10",
+     "arbitro": "Matteo Marchetti",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       14,
       13,
@@ -3519,6 +3593,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.027,
      "cuota_inicial": 1.48,
+     "arbitro": "Andrea Colombo",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       2,
       10,
@@ -3545,6 +3621,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Maria Sole Ferrieri Caputi",
+     "arbitro_tarjetas": null,
      "posiciones": [
       4,
       20,
@@ -3603,6 +3681,8 @@
      "texto": "Pietro Comuzzo comete 1+ faltas",
      "detalle": "Pietro Comuzzo 8/10",
      "temporada": "8/10",
+     "arbitro": "Giuseppe Mucera",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       6,
       9,
@@ -3763,6 +3843,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.194,
      "detalle": "Lecce 8/10 · Genoa 7/10",
+     "arbitro": "Matteo Marchetti",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       14,
       13,
@@ -3886,6 +3968,8 @@
        "valor_mercado": 0.0,
        "movimiento": -0.027,
        "cuota_inicial": 1.48,
+       "arbitro": "Andrea Colombo",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         2,
         10,
@@ -3915,6 +3999,8 @@
        "texto": "Pietro Comuzzo comete 1+ faltas",
        "detalle": "Pietro Comuzzo 8/10",
        "temporada": "8/10",
+       "arbitro": "Giuseppe Mucera",
+       "arbitro_tarjetas": 1.0,
        "posiciones": [
         6,
         9,
@@ -3938,6 +4024,8 @@
        "frecuencia": 0.75,
        "ventaja": 0.194,
        "detalle": "Lecce 8/10 · Genoa 7/10",
+       "arbitro": "Matteo Marchetti",
+       "arbitro_tarjetas": 1.0,
        "posiciones": [
         14,
         13,
@@ -3969,6 +4057,8 @@
        "valor_mercado": 0.0,
        "movimiento": -0.023,
        "cuota_inicial": 1.33,
+       "arbitro": "Maria Sole Ferrieri Caputi",
+       "arbitro_tarjetas": null,
        "posiciones": [
         4,
         20,
@@ -4390,6 +4480,8 @@
        "ventaja": 0.072,
        "detalle": "Lazio 7/10 · Cagliari 6/10",
        "valor_mercado": 0.068,
+       "arbitro": "Andrea Colombo",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         2,
         10,
