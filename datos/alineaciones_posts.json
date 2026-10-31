@@ -1571,10 +1571,151 @@
    }
   },
   "1552210": {
-   "hora": "2026-10-31T20:29:24.167402+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-31T20:40:45.090881+01:00",
+   "xi": [
+    "M. ter Stegen",
+    "Lucas Rosa",
+    "A. Bouwman",
+    "Y. Baas",
+    "O. Wijndal",
+    "J. Mokio",
+    "S. Amrabat",
+    "J. Brandt",
+    "D. Klaassen",
+    "T. Arokodare",
+    "A. Ouazane",
+    "J. De Busser",
+    "E. Dijkstra",
+    "W. Goes",
+    "L. Schouten",
+    "M. de Wit",
+    "D. Kwakman",
+    "P. Koopmeiners",
+    "Weslley Patati",
+    "V. Byskov",
+    "R. Daal",
+    "M. Meerdink"
+   ],
+   "banquillo": [
+    "S. Berghuis",
+    "T. Kehrer",
+    "Mohamed Abdalla",
+    "Y. Bissouma",
+    "D. Blind",
+    "Rayane Bounida",
+    "O. Gloukh",
+    "D. Janse",
+    "M. Paes",
+    "D. Pugno",
+    "Marcos Leonardo",
+    "Jofre Torrents",
+    "Jerolldino Bergraaf",
+    "Wassim bouziane",
+    "M. Chávez",
+    "J. Clasie",
+    "W. Hoedt",
+    "D. Kasius",
+    "B. Kovacs",
+    "S. Maikuma",
+    "A. Natali",
+    "R. Owusu-Oduro",
+    "C. Stengs",
+    "H. de Wit"
+   ],
+   "equipos": {
+    "194": [
+     {
+      "n": "M. ter Stegen",
+      "pos": "G"
+     },
+     {
+      "n": "Lucas Rosa",
+      "pos": "D"
+     },
+     {
+      "n": "A. Bouwman",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Baas",
+      "pos": "D"
+     },
+     {
+      "n": "O. Wijndal",
+      "pos": "D"
+     },
+     {
+      "n": "J. Mokio",
+      "pos": "M"
+     },
+     {
+      "n": "S. Amrabat",
+      "pos": "M"
+     },
+     {
+      "n": "J. Brandt",
+      "pos": "M"
+     },
+     {
+      "n": "D. Klaassen",
+      "pos": "F"
+     },
+     {
+      "n": "T. Arokodare",
+      "pos": "F"
+     },
+     {
+      "n": "A. Ouazane",
+      "pos": "F"
+     }
+    ],
+    "201": [
+     {
+      "n": "J. De Busser",
+      "pos": "G"
+     },
+     {
+      "n": "E. Dijkstra",
+      "pos": "D"
+     },
+     {
+      "n": "W. Goes",
+      "pos": "D"
+     },
+     {
+      "n": "L. Schouten",
+      "pos": "D"
+     },
+     {
+      "n": "M. de Wit",
+      "pos": "D"
+     },
+     {
+      "n": "D. Kwakman",
+      "pos": "M"
+     },
+     {
+      "n": "P. Koopmeiners",
+      "pos": "M"
+     },
+     {
+      "n": "Weslley Patati",
+      "pos": "M"
+     },
+     {
+      "n": "V. Byskov",
+      "pos": "M"
+     },
+     {
+      "n": "R. Daal",
+      "pos": "M"
+     },
+     {
+      "n": "M. Meerdink",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570434": {
    "hora": "2026-10-31T20:35:09.042671+01:00",
