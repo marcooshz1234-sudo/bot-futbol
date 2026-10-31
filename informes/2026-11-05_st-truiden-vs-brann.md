@@ -1,19 +1,19 @@
 # St. Truiden – Brann
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Daio Wasabi Stayen
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:01_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.70**  ·  X **4.00**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.10**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**

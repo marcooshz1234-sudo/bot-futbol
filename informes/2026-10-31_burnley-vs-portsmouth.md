@@ -1,14 +1,14 @@
 # Burnley – Portsmouth
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:53_
 
-- **1X2:** 1 **2.20**  ·  X **3.30**  ·  2 **3.25**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **2.30**  ·  X **3.25**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.30** · menos **3.50**
@@ -16,23 +16,22 @@ _Actualizadas: 31/10 02:02_
     - 3,5: más **3.50** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
-- **Goles del local:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
-- **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.85** · menos **1.95**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.75**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
@@ -40,16 +39,16 @@ _Actualizadas: 31/10 02:02_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.50**
-- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.50**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **9.50**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Home Team Total Cards:**
     - 2,5: más **2.25** · menos **1.57**
 - **Away Team Total Cards:**
@@ -60,15 +59,15 @@ _Actualizadas: 31/10 02:02_
 - **Total Shots:**
     - 25,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **1.50**  ·  X **15.00**  ·  2 **2.75**
-- **Home Player Shots On Target Total:** Armando Broja - 1 **1.44**  ·  Dastan Satpaev - 1 **1.44**  ·  Andreas Hountondji - 1 **1.57**  ·  Zeki Amdouni - 1 **1.40**  ·  Marcus Edwards - 1 **1.80**  ·  Mike Ndayishimiye - 1 **1.80**  ·  Aaron Ramsey - 1 **1.73**  ·  Jacob Bruun Larsen - 1 **1.67**  ·  Hannibal Mejbri - 1 **3.50**  ·  Josh Laurent - 1 **2.62**  ·  Lucas Pires - 1 **3.25**  ·  Ugo Raghouber - 1 **2.25**  ·  Anel Ahmedhodzic - 1 **6.00**  ·  Oliver Sonne - 1 **4.33**  ·  Connor Roberts - 1 **6.50**  ·  Bashir Humphreys - 1 **6.00**  ·  Hjalmar Ekdal - 1 **5.00**  ·  Kyle Walker - 1 **6.50**  ·  Max Alleyne - 1 **6.50**  ·  Armando Broja - 2 **3.25**  ·  Dastan Satpaev - 2 **3.25**  ·  Andreas Hountondji - 2 **3.75**  ·  Zeki Amdouni - 2 **2.75**  ·  Marcus Edwards - 2 **5.00**  ·  Mike Ndayishimiye - 2 **5.00**  ·  Aaron Ramsey - 2 **4.50**  ·  Jacob Bruun Larsen - 2 **4.33**  ·  Hannibal Mejbri - 2 **17.00**  ·  Josh Laurent - 2 **11.00**  ·  Lucas Pires - 2 **17.00**  ·  Ugo Raghouber - 2 **9.00**  ·  Anel Ahmedhodzic - 2 **21.00**  ·  Oliver Sonne - 2 **21.00**  ·  Armando Broja - 3 **9.00**  ·  Dastan Satpaev - 3 **9.00**  ·  Andreas Hountondji - 3 **11.00**  ·  Zeki Amdouni - 3 **7.00**  ·  Marcus Edwards - 3 **17.00**  ·  Mike Ndayishimiye - 3 **17.00**  ·  Aaron Ramsey - 3 **17.00**  ·  Jacob Bruun Larsen - 3 **15.00**  ·  Armando Broja - 4 **21.00**  ·  Dastan Satpaev - 4 **21.00**  ·  Andreas Hountondji - 4 **21.00**  ·  Zeki Amdouni - 4 **21.00**  ·  Marcus Edwards - 4 **21.00**  ·  Reo Hatate - 1 **1.91**  ·  Reo Hatate - 2 **6.00**  ·  Reo Hatate - 3 **21.00**  ·  Largie Ramazani - 1 **1.80**  ·  Igor Julio - 1 **4.00**  ·  Largie Ramazani - 2 **5.00**  ·  Igor Julio - 2 **21.00**  ·  Largie Ramazani - 3 **17.00**  ·  Jamie Vardy - 1 **1.53**  ·  Jamie Vardy - 2 **3.75**  ·  Jamie Vardy - 3 **11.00**  ·  Jamie Vardy - 4 **21.00**
-- **Away Player Shots On Target Total:** Dastan Satpaev **13.00**  ·  Reo Hatate **34.00**  ·  Marko Milovanovic **7.50**  ·  Zeki Amdouni **21.00**  ·  Connor Roberts **51.00**  ·  Rocco Robert Shein **41.00**  ·  Odin Bailey **67.00**  ·  Keshi Anderson **29.00**  ·  Oliver Sonne **26.00**  ·  George Brierley **41.00**  ·  Largie Ramazani **29.00**  ·  John Swift **51.00**  ·  Andreas Hountondji **21.00**  ·  Harvey Blair **51.00**  ·  Terry Devlin **51.00**  ·  Marlon Pack **41.00**  ·  Regan Poole **34.00**  ·  Conor Shaughnessy **23.00**  ·  Zak Swanson **21.00**  ·  Anel Ahmedhodzic **15.00**  ·  Aaron Ramsey **34.00**  ·  Ebou Adams **29.00**  ·  Josh Laurent **26.00**  ·  Hannibal Mejbri **51.00**  ·  Bashir Humphreys **19.00**  ·  Abu Kamara **41.00**  ·  Ryan Kavuma-McQueen **34.00**  ·  Igor Julio **19.00**  ·  Madiodio Dia **29.00**  ·  Tyrese Shade **34.00**  ·  Thomas Waddingham **19.00**  ·  Eoin Kenny **19.00**  ·  Marcus Edwards **34.00**  ·  Adrian Segecic **21.00**  ·  Mike Ndayishimiye **29.00**  ·  Enock Agyei **23.00**  ·  Lluc Castell **41.00**  ·  Kyle Walker **67.00**  ·  Max Alleyne **21.00**  ·  Jamie Vardy **17.00**  ·  Lucas Pires **67.00**  ·  Jacob Bruun Larsen **21.00**  ·  Colby Bishop **10.00**  ·  Armando Broja **8.50**  ·  Jayden Meghoma **29.00**  ·  Hjalmar Ekdal **21.00**  ·  Franco Umeh **26.00**  ·  Ugo Raghouber **19.00**  ·  Iyad Mohamed **34.00**
+- **Home Player Shots On Target Total:** Armando Broja - 1 **1.44**  ·  Dastan Satpaev - 1 **1.44**  ·  Andreas Hountondji - 1 **1.57**  ·  Zeki Amdouni - 1 **1.40**  ·  Marcus Edwards - 1 **1.80**  ·  Mike Ndayishimiye - 1 **1.80**  ·  Aaron Ramsey - 1 **1.73**  ·  Jacob Bruun Larsen - 1 **1.67**  ·  Hannibal Mejbri - 1 **3.50**  ·  Josh Laurent - 1 **2.62**  ·  Lucas Pires - 1 **3.25**  ·  Ugo Raghouber - 1 **2.25**  ·  Anel Ahmedhodzic - 1 **6.00**  ·  Oliver Sonne - 1 **4.33**  ·  Connor Roberts - 1 **6.50**  ·  Bashir Humphreys - 1 **6.00**  ·  Hjalmar Ekdal - 1 **5.00**  ·  Kyle Walker - 1 **6.50**  ·  Max Alleyne - 1 **6.50**  ·  Armando Broja - 2 **3.25**  ·  Dastan Satpaev - 2 **3.25**  ·  Andreas Hountondji - 2 **3.75**  ·  Zeki Amdouni - 2 **2.75**  ·  Marcus Edwards - 2 **5.00**  ·  Mike Ndayishimiye - 2 **5.00**  ·  Aaron Ramsey - 2 **4.50**  ·  Jacob Bruun Larsen - 2 **4.33**  ·  Hannibal Mejbri - 2 **17.00**  ·  Josh Laurent - 2 **11.00**  ·  Lucas Pires - 2 **17.00**  ·  Ugo Raghouber - 2 **9.00**  ·  Anel Ahmedhodzic - 2 **21.00**  ·  Oliver Sonne - 2 **21.00**  ·  Armando Broja - 3 **9.00**  ·  Dastan Satpaev - 3 **9.00**  ·  Andreas Hountondji - 3 **11.00**  ·  Zeki Amdouni - 3 **7.00**  ·  Marcus Edwards - 3 **19.00**  ·  Mike Ndayishimiye - 3 **19.00**  ·  Aaron Ramsey - 3 **17.00**  ·  Jacob Bruun Larsen - 3 **15.00**  ·  Armando Broja - 4 **21.00**  ·  Dastan Satpaev - 4 **21.00**  ·  Andreas Hountondji - 4 **21.00**  ·  Zeki Amdouni - 4 **21.00**  ·  Marcus Edwards - 4 **21.00**  ·  Reo Hatate - 1 **1.91**  ·  Reo Hatate - 2 **6.00**  ·  Reo Hatate - 3 **21.00**  ·  Largie Ramazani - 1 **1.80**  ·  Igor Julio - 1 **4.00**  ·  Largie Ramazani - 2 **5.00**  ·  Igor Julio - 2 **21.00**  ·  Largie Ramazani - 3 **19.00**  ·  Jamie Vardy - 1 **1.53**  ·  Jamie Vardy - 2 **3.75**  ·  Jamie Vardy - 3 **11.00**  ·  Jamie Vardy - 4 **21.00**
+- **Away Player Shots On Target Total:** Dastan Satpaev **13.00**  ·  Reo Hatate **34.00**  ·  Marko Milovanovic **7.50**  ·  Zeki Amdouni **21.00**  ·  Connor Roberts **51.00**  ·  Rocco Robert Shein **41.00**  ·  Odin Bailey **67.00**  ·  Keshi Anderson **29.00**  ·  Oliver Sonne **26.00**  ·  George Brierley **41.00**  ·  Largie Ramazani **29.00**  ·  John Swift **51.00**  ·  Andreas Hountondji **21.00**  ·  Harvey Blair **51.00**  ·  Terry Devlin **51.00**  ·  Marlon Pack **41.00**  ·  Regan Poole **34.00**  ·  Conor Shaughnessy **23.00**  ·  Zak Swanson **21.00**  ·  Anel Ahmedhodzic **15.00**  ·  Aaron Ramsey **34.00**  ·  Ebou Adams **29.00**  ·  Josh Laurent **26.00**  ·  Hannibal Mejbri **51.00**  ·  Bashir Humphreys **19.00**  ·  Abu Kamara **41.00**  ·  Ryan Kavuma-McQueen **34.00**  ·  Igor Julio **19.00**  ·  Madiodio Dia **29.00**  ·  Tyrese Shade **34.00**  ·  Thomas Waddingham **17.00**  ·  Eoin Kenny **17.00**  ·  Marcus Edwards **34.00**  ·  Adrian Segecic **21.00**  ·  Mike Ndayishimiye **29.00**  ·  Enock Agyei **23.00**  ·  Lluc Castell **41.00**  ·  Kyle Walker **67.00**  ·  Max Alleyne **21.00**  ·  Jamie Vardy **17.00**  ·  Lucas Pires **67.00**  ·  Jacob Bruun Larsen **21.00**  ·  Colby Bishop **10.00**  ·  Armando Broja **8.50**  ·  Jayden Meghoma **29.00**  ·  Hjalmar Ekdal **21.00**  ·  Franco Umeh **26.00**  ·  Ugo Raghouber **19.00**  ·  Iyad Mohamed **34.00**
 - **Away Player Shots Total:**
     - 10,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Armando Broja - 1 **1.05**  ·  Dastan Satpaev - 1 **1.05**  ·  Andreas Hountondji - 1 **1.06**  ·  Zeki Amdouni - 1 **1.03**  ·  Marcus Edwards - 1 **1.12**  ·  Mike Ndayishimiye - 1 **1.12**  ·  Aaron Ramsey - 1 **1.05**  ·  Jacob Bruun Larsen - 1 **1.10**  ·  Hannibal Mejbri - 1 **1.50**  ·  Josh Laurent - 1 **1.36**  ·  Lucas Pires - 1 **1.50**  ·  Ugo Raghouber - 1 **1.28**  ·  Anel Ahmedhodzic - 1 **2.10**  ·  Oliver Sonne - 1 **1.83**  ·  Connor Roberts - 1 **2.50**  ·  Bashir Humphreys - 1 **2.10**  ·  Hjalmar Ekdal - 1 **2.10**  ·  Kyle Walker - 1 **2.50**  ·  Max Alleyne - 1 **2.50**  ·  Armando Broja - 2 **1.30**  ·  Dastan Satpaev - 2 **1.30**  ·  Andreas Hountondji - 2 **1.33**  ·  Zeki Amdouni - 2 **1.20**  ·  Marcus Edwards - 2 **1.62**  ·  Mike Ndayishimiye - 2 **1.62**  ·  Aaron Ramsey - 2 **1.28**  ·  Jacob Bruun Larsen - 2 **1.44**  ·  Hannibal Mejbri - 2 **3.25**  ·  Josh Laurent - 2 **2.62**  ·  Lucas Pires - 2 **3.25**  ·  Ugo Raghouber - 2 **2.20**  ·  Anel Ahmedhodzic - 2 **6.00**  ·  Oliver Sonne - 2 **4.50**  ·  Connor Roberts - 2 **9.00**  ·  Bashir Humphreys - 2 **6.00**  ·  Hjalmar Ekdal - 2 **6.00**  ·  Kyle Walker - 2 **9.00**  ·  Max Alleyne - 2 **9.00**  ·  Armando Broja - 3 **1.83**  ·  Dastan Satpaev - 3 **1.83**  ·  Andreas Hountondji - 3 **2.00**  ·  Zeki Amdouni - 3 **1.57**  ·  Marcus Edwards - 3 **2.75**  ·  Mike Ndayishimiye - 3 **2.75**  ·  Aaron Ramsey - 3 **1.80**  ·  Jacob Bruun Larsen - 3 **2.25**  ·  Hannibal Mejbri - 3 **8.00**  ·  Josh Laurent - 3 **6.00**  ·  Lucas Pires - 3 **8.00**  ·  Ugo Raghouber - 3 **4.50**  ·  Anel Ahmedhodzic - 3 **19.00**  ·  Oliver Sonne - 3 **15.00**  ·  Connor Roberts - 3 **21.00**  ·  Bashir Humphreys - 3 **19.00**  ·  Hjalmar Ekdal - 3 **19.00**  ·  Kyle Walker - 3 **21.00**  ·  Max Alleyne - 3 **21.00**  ·  Armando Broja - 4 **3.00**  ·  Dastan Satpaev - 4 **3.00**  ·  Andreas Hountondji - 4 **3.40**  ·  Zeki Amdouni - 4 **2.38**  ·  Marcus Edwards - 4 **5.50**  ·  Mike Ndayishimiye - 4 **5.50**  ·  Aaron Ramsey - 4 **3.00**  ·  Jacob Bruun Larsen - 4 **4.00**  ·  Hannibal Mejbri - 4 **21.00**  ·  Josh Laurent - 4 **15.00**  ·  Lucas Pires - 4 **21.00**  ·  Ugo Raghouber - 4 **11.00**  ·  Armando Broja - 5 **5.50**  ·  Dastan Satpaev - 5 **5.50**  ·  Andreas Hountondji - 5 **6.50**  ·  Zeki Amdouni - 5 **4.00**  ·  Marcus Edwards - 5 **11.00**  ·  Mike Ndayishimiye - 5 **11.00**  ·  Aaron Ramsey - 5 **5.50**  ·  Jacob Bruun Larsen - 5 **9.00**  ·  Armando Broja - 6 **11.00**  ·  Dastan Satpaev - 6 **11.00**  ·  Andreas Hountondji - 6 **13.00**  ·  Zeki Amdouni - 6 **7.00**  ·  Marcus Edwards - 6 **21.00**  ·  Mike Ndayishimiye - 6 **21.00**  ·  Aaron Ramsey - 6 **10.00**  ·  Jacob Bruun Larsen - 6 **17.00**  ·  Armando Broja - 7 **21.00**  ·  Dastan Satpaev - 7 **21.00**  ·  Andreas Hountondji - 7 **21.00**  ·  Zeki Amdouni - 7 **15.00**  ·  Reo Hatate - 1 **1.12**  ·  Reo Hatate - 2 **1.62**  ·  Reo Hatate - 3 **2.75**  ·  Reo Hatate - 4 **5.50**  ·  Reo Hatate - 5 **11.00**  ·  Reo Hatate - 6 **21.00**  ·  Marcus Edwards - 7 **21.00**  ·  Mike Ndayishimiye - 7 **21.00**  ·  Armando Broja - 8 **21.00**  ·  Dastan Satpaev - 8 **21.00**  ·  Ugo Raghouber - 5 **21.00**  ·  Zeki Amdouni - 8 **21.00**  ·  Largie Ramazani - 1 **1.08**  ·  Igor Julio - 1 **1.73**  ·  Largie Ramazani - 2 **1.40**  ·  Igor Julio - 2 **4.33**  ·  Largie Ramazani - 3 **2.10**  ·  Igor Julio - 3 **13.00**  ·  Largie Ramazani - 4 **3.75**  ·  Largie Ramazani - 5 **7.00**  ·  Largie Ramazani - 6 **15.00**  ·  Largie Ramazani - 7 **21.00**  ·  Jamie Vardy - 1 **1.06**  ·  Jamie Vardy - 2 **1.33**  ·  Jamie Vardy - 3 **2.00**  ·  Jamie Vardy - 4 **3.40**  ·  Jamie Vardy - 5 **6.50**  ·  Jamie Vardy - 6 **13.00**  ·  Jamie Vardy - 7 **21.00**  ·  Aaron Ramsey - 7 **19.00**  ·  Jacob Bruun Larsen - 7 **21.00**
-- **Away Player Shots:** Jayden Meghoma - 1 **2.00**  ·  Jayden Meghoma - 2 **5.50**  ·  Jayden Meghoma - 3 **17.00**  ·  Adrian Segecic - 1 **1.14**  ·  Colby Bishop - 1 **1.18**  ·  Marko Milovanovic - 1 **1.08**  ·  Eoin Kenny - 1 **1.22**  ·  Luke Brooke-Smith - 1 **1.30**  ·  Rocco Robert Shein - 1 **2.00**  ·  Abu Kamara - 1 **1.36**  ·  Odin Bailey - 1 **1.50**  ·  Harvey Blair - 1 **1.25**  ·  Keshi Anderson - 1 **1.25**  ·  Ryan Kavuma-McQueen - 1 **1.10**  ·  John Swift - 1 **1.40**  ·  Ebou Adams - 1 **1.44**  ·  Zak Swanson - 1 **1.67**  ·  Terry Devlin - 1 **1.62**  ·  Marlon Pack - 1 **1.83**  ·  Conor Shaughnessy - 1 **2.00**  ·  Madiodio Dia - 1 **2.25**  ·  Regan Poole - 1 **3.00**  ·  Adrian Segecic - 2 **1.67**  ·  Colby Bishop - 2 **1.80**  ·  Marko Milovanovic - 2 **1.40**  ·  Eoin Kenny - 2 **2.00**  ·  Luke Brooke-Smith - 2 **2.25**  ·  Rocco Robert Shein - 2 **5.50**  ·  Abu Kamara - 2 **2.50**  ·  Odin Bailey - 2 **3.25**  ·  Harvey Blair - 2 **2.00**  ·  Keshi Anderson - 2 **2.00**  ·  Ryan Kavuma-McQueen - 2 **1.50**  ·  John Swift - 2 **2.62**  ·  Ebou Adams - 2 **3.00**  ·  Zak Swanson - 2 **3.75**  ·  Terry Devlin - 2 **3.75**  ·  Marlon Pack - 2 **5.00**  ·  Conor Shaughnessy - 2 **5.50**  ·  Madiodio Dia - 2 **7.00**  ·  Regan Poole - 2 **11.00**  ·  Adrian Segecic - 3 **3.00**  ·  Colby Bishop - 3 **3.40**  ·  Marko Milovanovic - 3 **2.10**  ·  Eoin Kenny - 3 **3.75**  ·  Luke Brooke-Smith - 3 **5.00**  ·  Rocco Robert Shein - 3 **17.00**  ·  Abu Kamara - 3 **5.50**  ·  Odin Bailey - 3 **8.00**  ·  Harvey Blair - 3 **4.00**  ·  Keshi Anderson - 3 **4.00**  ·  Ryan Kavuma-McQueen - 3 **2.38**  ·  John Swift - 3 **6.00**  ·  Ebou Adams - 3 **7.00**  ·  Zak Swanson - 3 **11.00**  ·  Terry Devlin - 3 **10.00**  ·  Marlon Pack - 3 **15.00**  ·  Conor Shaughnessy - 3 **17.00**  ·  Madiodio Dia - 3 **21.00**  ·  Regan Poole - 3 **21.00**  ·  Adrian Segecic - 4 **6.00**  ·  Colby Bishop - 4 **7.00**  ·  Marko Milovanovic - 4 **3.75**  ·  Eoin Kenny - 4 **9.00**  ·  Luke Brooke-Smith - 4 **13.00**  ·  Abu Kamara - 4 **15.00**  ·  Odin Bailey - 4 **21.00**  ·  Harvey Blair - 4 **10.00**  ·  Keshi Anderson - 4 **10.00**  ·  Ryan Kavuma-McQueen - 4 **4.33**  ·  John Swift - 4 **15.00**  ·  Ebou Adams - 4 **19.00**  ·  Zak Swanson - 4 **21.00**  ·  Terry Devlin - 4 **21.00**  ·  Adrian Segecic - 5 **13.00**  ·  Colby Bishop - 5 **15.00**  ·  Marko Milovanovic - 5 **7.00**  ·  Eoin Kenny - 5 **19.00**  ·  Luke Brooke-Smith - 5 **21.00**  ·  Adrian Segecic - 6 **21.00**  ·  Colby Bishop - 6 **15.00**  ·  Marko Milovanovic - 6 **15.00**  ·  Eoin Kenny - 6 **21.00**  ·  Iyad Mohamed - 1 **1.44**  ·  Iyad Mohamed - 2 **3.00**  ·  Iyad Mohamed - 3 **7.00**  ·  Ryan Kavuma-McQueen - 5 **9.00**  ·  Marko Milovanovic - 7 **21.00**  ·  Harvey Blair - 5 **21.00**  ·  Keshi Anderson - 5 **21.00**  ·  John Swift - 5 **21.00**  ·  Ryan Kavuma-McQueen - 6 **19.00**  ·  Tyrese Shade - 1 **1.22**  ·  Tyrese Shade - 2 **2.00**  ·  Tyrese Shade - 3 **3.75**  ·  Tyrese Shade - 4 **9.00**  ·  Tyrese Shade - 5 **19.00**  ·  Tyrese Shade - 6 **21.00**  ·  Iyad Mohamed - 4 **19.00**
-- **Goalkeeper Saves:** Gregoire Coudert - 3 **1.91**  ·  Gregoire Coudert - 4 **3.50**  ·  Gregoire Coudert - 5 **7.00**  ·  Gregoire Coudert - 2 **1.30**  ·  Nicolas Schmid - 3 **1.50**  ·  Nicolas Schmid - 4 **2.20**  ·  Nicolas Schmid - 5 **3.75**  ·  Nicolas Schmid - 6 **7.00**  ·  Nicolas Schmid - 2 **1.14**  ·  Gregoire Coudert - 1 **1.05**
-- **Anytime Goal Scorer:** Dastan Satpaev **2.75**  ·  Reo Hatate **4.00**  ·  Marko Milovanovic **3.25**  ·  Zeki Amdouni **2.75**  ·  Connor Roberts **13.00**  ·  Rocco Robert Shein **8.50**  ·  Odin Bailey **7.00**  ·  Keshi Anderson **6.00**  ·  Oliver Sonne **11.00**  ·  George Brierley **8.50**  ·  Largie Ramazani **3.25**  ·  John Swift **6.00**  ·  Andreas Hountondji **2.88**  ·  Harvey Blair **6.00**  ·  Terry Devlin **8.50**  ·  Marlon Pack **8.50**  ·  Regan Poole **15.00**  ·  Conor Shaughnessy **11.00**  ·  Zak Swanson **8.50**  ·  Anel Ahmedhodzic **11.00**  ·  Aaron Ramsey **4.00**  ·  Ebou Adams **7.00**  ·  Josh Laurent **6.50**  ·  Hannibal Mejbri **6.50**  ·  Bashir Humphreys **13.00**  ·  Abu Kamara **6.50**  ·  Ryan Kavuma-McQueen **3.75**  ·  Igor Julio **11.00**  ·  Madiodio Dia **13.00**  ·  Tyrese Shade **4.33**  ·  Thomas Waddingham **3.60**  ·  Eoin Kenny **3.75**  ·  Marcus Edwards **3.60**  ·  Adrian Segecic **4.33**  ·  Mike Ndayishimiye **3.25**  ·  Enock Agyei **3.60**  ·  Lluc Castell **4.75**  ·  Kyle Walker **15.00**  ·  Max Alleyne **13.00**  ·  Jamie Vardy **2.75**  ·  Lucas Pires **7.00**  ·  Jacob Bruun Larsen **3.25**  ·  Colby Bishop **3.60**  ·  Armando Broja **2.60**  ·  Jayden Meghoma **11.00**  ·  Hjalmar Ekdal **13.00**  ·  Franco Umeh **4.75**  ·  Luke Brooke-Smith **6.00**  ·  Ugo Raghouber **6.00**  ·  Iyad Mohamed **7.00**
-- **Player to Score or Assist:** Dastan Satpaev **2.10**  ·  Reo Hatate **2.50**  ·  Marko Milovanovic **2.60**  ·  Zeki Amdouni **1.95**  ·  Connor Roberts **5.00**  ·  Rocco Robert Shein **3.75**  ·  Odin Bailey **4.00**  ·  Keshi Anderson **3.00**  ·  Oliver Sonne **6.00**  ·  George Brierley **4.00**  ·  Largie Ramazani **2.30**  ·  John Swift **3.50**  ·  Andreas Hountondji **2.20**  ·  Harvey Blair **3.25**  ·  Terry Devlin **4.50**  ·  Marlon Pack **3.75**  ·  Regan Poole **10.00**  ·  Conor Shaughnessy **7.00**  ·  Zak Swanson **4.50**  ·  Anel Ahmedhodzic **6.50**  ·  Aaron Ramsey **2.62**  ·  Ebou Adams **6.00**  ·  Josh Laurent **3.40**  ·  Hannibal Mejbri **2.88**  ·  Bashir Humphreys **5.00**  ·  Abu Kamara **3.10**  ·  Ryan Kavuma-McQueen **2.60**  ·  Igor Julio **8.00**  ·  Madiodio Dia **7.50**  ·  Tyrese Shade **2.75**  ·  Thomas Waddingham **2.62**  ·  Eoin Kenny **2.88**  ·  Marcus Edwards **2.50**  ·  Adrian Segecic **2.75**  ·  Mike Ndayishimiye **2.40**  ·  Enock Agyei **2.40**  ·  Lluc Castell **2.50**  ·  Kyle Walker **6.50**  ·  Max Alleyne **6.50**  ·  Jamie Vardy **2.20**  ·  Lucas Pires **3.25**  ·  Jacob Bruun Larsen **2.40**  ·  Colby Bishop **2.60**  ·  Armando Broja **2.00**  ·  Jayden Meghoma **6.50**  ·  Hjalmar Ekdal **6.00**  ·  Franco Umeh **2.88**  ·  Luke Brooke-Smith **3.75**  ·  Ugo Raghouber **3.75**  ·  Iyad Mohamed **5.00**
+- **Away Player Shots:** Jayden Meghoma - 1 **2.00**  ·  Jayden Meghoma - 2 **5.50**  ·  Jayden Meghoma - 3 **17.00**  ·  Adrian Segecic - 1 **1.14**  ·  Colby Bishop - 1 **1.18**  ·  Marko Milovanovic - 1 **1.08**  ·  Eoin Kenny - 1 **1.22**  ·  Luke Brooke-Smith - 1 **1.30**  ·  Rocco Robert Shein - 1 **2.00**  ·  Abu Kamara - 1 **1.25**  ·  Odin Bailey - 1 **1.50**  ·  Harvey Blair - 1 **1.25**  ·  Keshi Anderson - 1 **1.25**  ·  Ryan Kavuma-McQueen - 1 **1.10**  ·  John Swift - 1 **1.40**  ·  Ebou Adams - 1 **1.44**  ·  Zak Swanson - 1 **1.67**  ·  Terry Devlin - 1 **1.62**  ·  Marlon Pack - 1 **1.83**  ·  Conor Shaughnessy - 1 **2.00**  ·  Madiodio Dia - 1 **2.25**  ·  Regan Poole - 1 **3.00**  ·  Adrian Segecic - 2 **1.67**  ·  Colby Bishop - 2 **1.80**  ·  Marko Milovanovic - 2 **1.40**  ·  Eoin Kenny - 2 **2.00**  ·  Luke Brooke-Smith - 2 **2.25**  ·  Rocco Robert Shein - 2 **5.50**  ·  Abu Kamara - 2 **2.10**  ·  Odin Bailey - 2 **3.25**  ·  Harvey Blair - 2 **2.00**  ·  Keshi Anderson - 2 **2.00**  ·  Ryan Kavuma-McQueen - 2 **1.50**  ·  John Swift - 2 **2.62**  ·  Ebou Adams - 2 **3.00**  ·  Zak Swanson - 2 **3.75**  ·  Terry Devlin - 2 **3.75**  ·  Marlon Pack - 2 **5.00**  ·  Conor Shaughnessy - 2 **5.50**  ·  Madiodio Dia - 2 **7.00**  ·  Regan Poole - 2 **11.00**  ·  Adrian Segecic - 3 **3.00**  ·  Colby Bishop - 3 **3.40**  ·  Marko Milovanovic - 3 **2.10**  ·  Eoin Kenny - 3 **3.75**  ·  Luke Brooke-Smith - 3 **5.00**  ·  Rocco Robert Shein - 3 **17.00**  ·  Abu Kamara - 3 **4.33**  ·  Odin Bailey - 3 **8.00**  ·  Harvey Blair - 3 **4.00**  ·  Keshi Anderson - 3 **4.00**  ·  Ryan Kavuma-McQueen - 3 **2.38**  ·  John Swift - 3 **6.00**  ·  Ebou Adams - 3 **7.00**  ·  Zak Swanson - 3 **11.00**  ·  Terry Devlin - 3 **10.00**  ·  Marlon Pack - 3 **15.00**  ·  Conor Shaughnessy - 3 **17.00**  ·  Madiodio Dia - 3 **21.00**  ·  Regan Poole - 3 **21.00**  ·  Adrian Segecic - 4 **6.00**  ·  Colby Bishop - 4 **7.00**  ·  Marko Milovanovic - 4 **3.75**  ·  Eoin Kenny - 4 **9.00**  ·  Luke Brooke-Smith - 4 **13.00**  ·  Abu Kamara - 4 **10.00**  ·  Odin Bailey - 4 **21.00**  ·  Harvey Blair - 4 **10.00**  ·  Keshi Anderson - 4 **10.00**  ·  Ryan Kavuma-McQueen - 4 **4.33**  ·  John Swift - 4 **15.00**  ·  Ebou Adams - 4 **19.00**  ·  Zak Swanson - 4 **21.00**  ·  Terry Devlin - 4 **21.00**  ·  Adrian Segecic - 5 **13.00**  ·  Colby Bishop - 5 **15.00**  ·  Marko Milovanovic - 5 **7.00**  ·  Eoin Kenny - 5 **19.00**  ·  Luke Brooke-Smith - 5 **21.00**  ·  Abu Kamara - 5 **21.00**  ·  Adrian Segecic - 6 **21.00**  ·  Colby Bishop - 6 **15.00**  ·  Marko Milovanovic - 6 **15.00**  ·  Eoin Kenny - 6 **21.00**  ·  Iyad Mohamed - 1 **1.44**  ·  Iyad Mohamed - 2 **3.00**  ·  Iyad Mohamed - 3 **7.00**  ·  Ryan Kavuma-McQueen - 5 **9.00**  ·  Marko Milovanovic - 7 **21.00**  ·  Harvey Blair - 5 **21.00**  ·  Keshi Anderson - 5 **21.00**  ·  John Swift - 5 **21.00**  ·  Ryan Kavuma-McQueen - 6 **19.00**  ·  Tyrese Shade - 1 **1.22**  ·  Tyrese Shade - 2 **2.00**  ·  Tyrese Shade - 3 **3.75**  ·  Tyrese Shade - 4 **9.00**  ·  Tyrese Shade - 5 **19.00**  ·  Tyrese Shade - 6 **21.00**  ·  Iyad Mohamed - 4 **19.00**
+- **Goalkeeper Saves:** Gregoire Coudert - 3 **2.00**  ·  Gregoire Coudert - 4 **3.50**  ·  Gregoire Coudert - 5 **7.00**  ·  Gregoire Coudert - 2 **1.33**  ·  Nicolas Schmid - 3 **1.44**  ·  Nicolas Schmid - 4 **2.20**  ·  Nicolas Schmid - 5 **3.75**  ·  Nicolas Schmid - 6 **7.00**  ·  Nicolas Schmid - 2 **1.14**  ·  Gregoire Coudert - 1 **1.06**
+- **Anytime Goal Scorer:** Dastan Satpaev **2.75**  ·  Reo Hatate **4.00**  ·  Marko Milovanovic **3.20**  ·  Zeki Amdouni **2.75**  ·  Connor Roberts **13.00**  ·  Rocco Robert Shein **9.00**  ·  Odin Bailey **7.50**  ·  Keshi Anderson **6.00**  ·  Oliver Sonne **11.00**  ·  George Brierley **9.00**  ·  Largie Ramazani **3.50**  ·  John Swift **6.00**  ·  Andreas Hountondji **3.20**  ·  Harvey Blair **6.00**  ·  Terry Devlin **9.00**  ·  Marlon Pack **9.00**  ·  Regan Poole **15.00**  ·  Conor Shaughnessy **11.00**  ·  Zak Swanson **9.00**  ·  Anel Ahmedhodzic **11.00**  ·  Aaron Ramsey **4.00**  ·  Ebou Adams **7.50**  ·  Josh Laurent **6.50**  ·  Hannibal Mejbri **6.50**  ·  Bashir Humphreys **13.00**  ·  Abu Kamara **6.50**  ·  Ryan Kavuma-McQueen **4.00**  ·  Igor Julio **11.00**  ·  Madiodio Dia **13.00**  ·  Tyrese Shade **4.50**  ·  Thomas Waddingham **3.75**  ·  Eoin Kenny **4.00**  ·  Marcus Edwards **3.75**  ·  Adrian Segecic **4.50**  ·  Mike Ndayishimiye **3.50**  ·  Enock Agyei **3.75**  ·  Lluc Castell **4.75**  ·  Kyle Walker **15.00**  ·  Max Alleyne **13.00**  ·  Jamie Vardy **3.00**  ·  Lucas Pires **7.50**  ·  Jacob Bruun Larsen **3.50**  ·  Colby Bishop **3.75**  ·  Armando Broja **2.62**  ·  Jayden Meghoma **11.00**  ·  Hjalmar Ekdal **13.00**  ·  Franco Umeh **4.75**  ·  Luke Brooke-Smith **6.00**  ·  Ugo Raghouber **6.00**  ·  Iyad Mohamed **7.50**
+- **Player to Score or Assist:** Dastan Satpaev **2.20**  ·  Reo Hatate **2.62**  ·  Marko Milovanovic **2.60**  ·  Zeki Amdouni **2.05**  ·  Connor Roberts **5.50**  ·  Rocco Robert Shein **3.75**  ·  Odin Bailey **4.00**  ·  Keshi Anderson **2.88**  ·  Oliver Sonne **6.50**  ·  George Brierley **4.33**  ·  Largie Ramazani **2.38**  ·  John Swift **3.25**  ·  Andreas Hountondji **2.40**  ·  Harvey Blair **3.10**  ·  Terry Devlin **4.33**  ·  Marlon Pack **3.75**  ·  Regan Poole **10.00**  ·  Conor Shaughnessy **7.00**  ·  Zak Swanson **4.33**  ·  Anel Ahmedhodzic **7.00**  ·  Aaron Ramsey **2.75**  ·  Ebou Adams **6.00**  ·  Josh Laurent **3.75**  ·  Hannibal Mejbri **3.20**  ·  Bashir Humphreys **5.50**  ·  Abu Kamara **3.10**  ·  Ryan Kavuma-McQueen **2.50**  ·  Igor Julio **8.00**  ·  Madiodio Dia **7.50**  ·  Tyrese Shade **2.88**  ·  Thomas Waddingham **2.60**  ·  Eoin Kenny **2.88**  ·  Marcus Edwards **2.62**  ·  Adrian Segecic **2.88**  ·  Mike Ndayishimiye **2.62**  ·  Enock Agyei **2.62**  ·  Lluc Castell **2.60**  ·  Kyle Walker **7.00**  ·  Max Alleyne **7.00**  ·  Jamie Vardy **2.25**  ·  Lucas Pires **3.50**  ·  Jacob Bruun Larsen **2.40**  ·  Colby Bishop **2.50**  ·  Armando Broja **2.10**  ·  Jayden Meghoma **6.50**  ·  Hjalmar Ekdal **6.50**  ·  Franco Umeh **2.88**  ·  Luke Brooke-Smith **3.50**  ·  Ugo Raghouber **4.00**  ·  Iyad Mohamed **5.50**
 
 ## Estadísticas de equipo
 | | Burnley (total) | Burnley en casa | Portsmouth (total) | Portsmouth fuera |
@@ -208,36 +207,36 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 29% | 36% | 3.25 | +16% |
-| 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
-| 1X2: 1 | 32% | 43% | 37% | 2.20 | -18% |
-| Doble oportunidad: X2 | 68% | 57% | 63% | 1.67 | +4% |
-| Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 57% | 72% | 64% | 1.33 | -14% |
-| Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
-| Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
+| 1X2: 2 | 43% | 31% | 37% | 3.00 | +10% |
+| 1X2: X | 26% | 29% | 27% | 3.25 | -12% |
+| 1X2: 1 | 32% | 40% | 36% | 2.30 | -17% |
+| Doble oportunidad: X2 | 68% | 60% | 64% | 1.57 | +1% |
+| Doble oportunidad: 12 | 74% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 57% | 69% | 63% | 1.36 | -14% |
+| Ambos marcan: No | 45% | 49% | 47% | 1.91 | -11% |
+| Ambos marcan: Sí | 55% | 51% | 53% | 1.80 | -4% |
 | Goles más/menos: Más de 1.5 | 75% | 73% | 74% | 1.30 | -4% |
 | Goles más/menos: Más de 2.5 | 51% | 47% | 49% | 2.00 | -2% |
 | Goles más/menos: Más de 3.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles más/menos: Menos de 1.5 | 25% | 27% | 26% | 3.50 | -10% |
 | Goles más/menos: Menos de 2.5 | 49% | 53% | 51% | 1.80 | -9% |
 | Goles más/menos: Menos de 3.5 | 71% | 73% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles del local: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
-| Goles del local: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles del local: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
-| Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles del local: Más de 1.5 | 35% | 41% | 38% | 2.25 | -14% |
+| Goles del local: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles del local: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -3% |
+| Goles del visitante: Más de 0.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del visitante: Más de 1.5 | 43% | 34% | 39% | 2.75 | +6% |
-| Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles del visitante: Menos de 0.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles del visitante: Menos de 1.5 | 57% | 66% | 61% | 1.40 | -14% |
-| Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.85 | -10% |
-| Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.95 | -0% |
-| 1X2 descanso: 2 | 32% | 25% | 29% | 3.75 | +7% |
-| 1X2 descanso: X | 42% | 43% | 42% | 2.20 | -7% |
-| 1X2 descanso: 1 | 26% | 32% | 29% | 2.88 | -16% |
+| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -5% |
+| 1X2 descanso: 2 | 32% | 26% | 29% | 3.60 | +4% |
+| 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -10% |
+| 1X2 descanso: 1 | 26% | 31% | 28% | 3.00 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

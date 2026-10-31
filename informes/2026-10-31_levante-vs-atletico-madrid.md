@@ -1,10 +1,10 @@
 # Levante – Atletico Madrid
 **LaLiga** · Regular Season - 11 · 31/10/2026 14:00 (hora España) · Estadio Ciudad de Valencia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:52_
 
 - **1X2:** 1 **5.50**  ·  X **4.75**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.18**  ·  X2 **1.17**

@@ -1,13 +1,13 @@
 # Estac Troyes – Le Mans
 **Ligue 1** · Regular Season - 9 · 31/10/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **3.00**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.53**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -17,7 +17,7 @@ _Actualizadas: 31/10 02:02_
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
@@ -33,14 +33,14 @@ _Actualizadas: 31/10 02:02_
     - 8,5: más **1.78** · menos **2.02**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.25**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.25**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.00** · menos **1.22**
+    - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **4.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
@@ -50,13 +50,13 @@ _Actualizadas: 31/10 02:02_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 - **Home Team Total Cards:**
     - 1,5: más **1.67** · menos **2.10**
 - **Away Team Total Cards:**
     - 2,5: más **2.20** · menos **1.62**
 - **Total ShotOnGoal:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **1.67**  ·  X **7.00**  ·  2 **2.75**
 - **Total Shots:**
     - 24,5: más **1.73** · menos **2.00**
@@ -70,7 +70,7 @@ _Actualizadas: 31/10 02:02_
 - **Away Player Shots:** Louis Mafouta - 1 **1.06**  ·  Antoine Rabillard - 1 **1.20**  ·  Dame Gueye - 1 **1.10**  ·  William Harhouz - 1 **1.18**  ·  Erwan Colas - 1 **1.25**  ·  Billal Brahimi - 1 **1.14**  ·  Jean Vercruysse - 1 **1.20**  ·  Lucas Buades - 1 **1.67**  ·  Martin Rossignol - 1 **1.44**  ·  Daouda Traore - 1 **1.53**  ·  Adil Bourabaa - 1 **1.33**  ·  Edwin Quarshie - 1 **1.80**  ·  Lucas Bretelle - 1 **2.00**  ·  Lucas Calodat - 1 **1.80**  ·  Samuel Yohou - 1 **2.25**  ·  Yasser Larouci - 1 **1.44**  ·  Alexandre Lauray - 1 **1.53**  ·  Harold Voyer - 1 **3.40**  ·  Noa Boisse - 1 **3.40**  ·  Rayan Bamba - 1 **3.40**  ·  Theo Eyoum - 1 **3.40**  ·  Raul Torrente - 1 **4.50**  ·  Louis Mafouta - 2 **1.33**  ·  Antoine Rabillard - 2 **1.83**  ·  Dame Gueye - 2 **1.50**  ·  William Harhouz - 2 **1.80**  ·  Erwan Colas - 2 **2.00**  ·  Billal Brahimi - 2 **1.62**  ·  Jean Vercruysse - 2 **1.83**  ·  Lucas Buades - 2 **3.75**  ·  Martin Rossignol - 2 **3.00**  ·  Daouda Traore - 2 **3.40**  ·  Adil Bourabaa - 2 **2.38**  ·  Edwin Quarshie - 2 **4.50**  ·  Lucas Bretelle - 2 **5.50**  ·  Lucas Calodat - 2 **4.50**  ·  Samuel Yohou - 2 **7.00**  ·  Yasser Larouci - 2 **3.00**  ·  Alexandre Lauray - 2 **3.40**  ·  Harold Voyer - 2 **15.00**  ·  Noa Boisse - 2 **15.00**  ·  Rayan Bamba - 2 **15.00**  ·  Theo Eyoum - 2 **15.00**  ·  Raul Torrente - 2 **21.00**  ·  Louis Mafouta - 3 **2.00**  ·  Antoine Rabillard - 3 **3.75**  ·  Dame Gueye - 3 **2.38**  ·  William Harhouz - 3 **3.40**  ·  Erwan Colas - 3 **4.00**  ·  Billal Brahimi - 3 **2.75**  ·  Jean Vercruysse - 3 **3.75**  ·  Lucas Buades - 3 **11.00**  ·  Martin Rossignol - 3 **7.00**  ·  Daouda Traore - 3 **9.00**  ·  Adil Bourabaa - 3 **5.50**  ·  Edwin Quarshie - 3 **13.00**  ·  Lucas Bretelle - 3 **17.00**  ·  Lucas Calodat - 3 **13.00**  ·  Samuel Yohou - 3 **21.00**  ·  Yasser Larouci - 3 **7.00**  ·  Alexandre Lauray - 3 **9.00**  ·  Harold Voyer - 3 **15.00**  ·  Noa Boisse - 3 **15.00**  ·  Rayan Bamba - 3 **13.00**  ·  Theo Eyoum - 3 **15.00**  ·  Raul Torrente - 3 **21.00**  ·  Louis Mafouta - 4 **3.40**  ·  Antoine Rabillard - 4 **8.00**  ·  Dame Gueye - 4 **4.33**  ·  William Harhouz - 4 **7.00**  ·  Erwan Colas - 4 **10.00**  ·  Billal Brahimi - 4 **5.50**  ·  Jean Vercruysse - 4 **8.00**  ·  Lucas Buades - 4 **21.00**  ·  Martin Rossignol - 4 **19.00**  ·  Daouda Traore - 4 **21.00**  ·  Louis Mafouta - 5 **6.50**  ·  Antoine Rabillard - 5 **19.00**  ·  Dame Gueye - 5 **9.00**  ·  William Harhouz - 5 **15.00**  ·  Louis Mafouta - 6 **13.00**  ·  Antoine Rabillard - 6 **11.00**  ·  Dame Gueye - 6 **19.00**  ·  William Harhouz - 6 **13.00**  ·  Adil Bourabaa - 4 **13.00**  ·  Djibril Sidibe - 1 **1.80**  ·  Djibril Sidibe - 2 **4.50**  ·  Djibril Sidibe - 3 **13.00**  ·  Djibril Sidibe - 4 **19.00**  ·  Edwin Quarshie - 4 **21.00**  ·  Lucas Bretelle - 4 **21.00**  ·  Erwan Colas - 5 **21.00**  ·  Louis Mafouta - 7 **21.00**  ·  Dame Gueye - 7 **19.00**  ·  Habib Diallo - 1 **1.07**  ·  Habib Diallo - 2 **1.40**  ·  Habib Diallo - 3 **2.10**  ·  Habib Diallo - 4 **3.75**  ·  Habib Diallo - 5 **7.00**  ·  Habib Diallo - 6 **15.00**  ·  Billal Brahimi - 5 **13.00**  ·  Erwan Colas - 6 **21.00**  ·  Antoine Rabillard - 7 **21.00**  ·  Lucas Calodat - 4 **21.00**  ·  Samuel Yohou - 4 **21.00**  ·  Yasser Larouci - 4 **19.00**  ·  Habib Diallo - 7 **21.00**  ·  William Harhouz - 7 **21.00**  ·  Jean Vercruysse - 5 **19.00**  ·  Lucas Buades - 5 **21.00**  ·  Martin Rossignol - 5 **21.00**  ·  Alexandre Lauray - 4 **21.00**  ·  Billal Brahimi - 6 **21.00**
 - **Goalkeeper Saves:** Nicolas Kocik - 2 **1.12**  ·  Nicolas Kocik - 3 **1.40**  ·  Nicolas Kocik - 4 **2.00**  ·  Nicolas Kocik - 5 **3.40**  ·  Nicolas Kocik - 6 **6.00**  ·  Hillel Konate - 1 **1.05**  ·  Hillel Konate - 2 **1.28**  ·  Hillel Konate - 3 **1.83**  ·  Hillel Konate - 4 **3.40**  ·  Hillel Konate - 5 **6.50**
 - **Anytime Goal Scorer:** Junior Diaz **11.00**  ·  Lucas Bretelle **7.00**  ·  Louis Mafouta **2.88**  ·  Rayan Bamba **9.50**  ·  Timothee Nkada **3.00**  ·  Jeremy Le Douaron **3.40**  ·  Kandet Diawara **3.75**  ·  Yasser Larouci **11.00**  ·  Djibril Sidibe **6.50**  ·  Billal Brahimi **4.50**  ·  Raul Torrente **15.00**  ·  Lucas Calodat **8.00**  ·  Lucas Buades **5.50**  ·  Adil Bourabaa **7.00**  ·  Noah Donkor **4.50**  ·  Anis Ouzenadji **6.50**  ·  Merwan Ifnaoui **4.00**  ·  Yvann Titi **8.50**  ·  Antoine Mille **5.50**  ·  Daouda Traore **6.50**  ·  Alexandre Philiponeau **7.00**  ·  Jean Vercruysse **5.50**  ·  William Harhouz **3.20**  ·  Iron Gomis **5.50**  ·  Yacouba Kone **5.50**  ·  Christ Batola **3.40**  ·  Idrissa Soukouna **8.50**  ·  Lassana Simakha **11.00**  ·  Lenny Videira **7.00**  ·  Habib Diallo **3.00**  ·  Adrien Monfray **9.50**  ·  Mouhamed Diop **5.50**  ·  Paolo Gozzi **11.00**  ·  Renaud Ripart **2.50**  ·  Hugo Picard **4.33**  ·  Lucas Maronnier **8.50**  ·  Dermane Karim **4.00**  ·  Noa Boisse **11.00**  ·  Erwan Colas **4.00**  ·  Theo Eyoum **11.00**  ·  Dame Gueye **2.88**  ·  Edwin Quarshie **7.00**  ·  Antoine Rabillard **3.00**  ·  Martin Rossignol **5.50**  ·  Harold Voyer **11.00**  ·  Samuel Yohou **8.00**  ·  Alexandre Lauray **9.50**
-- **Player to Score or Assist:** Junior Diaz **6.50**  ·  Lucas Bretelle **4.33**  ·  Louis Mafouta **2.25**  ·  Rayan Bamba **5.50**  ·  Timothee Nkada **2.38**  ·  Jeremy Le Douaron **2.50**  ·  Kandet Diawara **2.60**  ·  Yasser Larouci **4.75**  ·  Djibril Sidibe **3.50**  ·  Billal Brahimi **3.10**  ·  Raul Torrente **9.00**  ·  Lucas Calodat **4.33**  ·  Lucas Buades **3.75**  ·  Adil Bourabaa **4.33**  ·  Noah Donkor **3.00**  ·  Anis Ouzenadji **4.00**  ·  Merwan Ifnaoui **2.62**  ·  Yvann Titi **4.75**  ·  Antoine Mille **3.50**  ·  Daouda Traore **4.00**  ·  Alexandre Philiponeau **4.00**  ·  Jean Vercruysse **3.75**  ·  William Harhouz **2.40**  ·  Iron Gomis **3.50**  ·  Yacouba Kone **3.10**  ·  Christ Batola **2.38**  ·  Idrissa Soukouna **3.50**  ·  Lassana Simakha **6.00**  ·  Lenny Videira **4.33**  ·  Habib Diallo **2.30**  ·  Adrien Monfray **6.00**  ·  Mouhamed Diop **3.60**  ·  Paolo Gozzi **6.50**  ·  Renaud Ripart **2.00**  ·  Hugo Picard **3.00**  ·  Lucas Maronnier **4.75**  ·  Dermane Karim **2.50**  ·  Noa Boisse **6.50**  ·  Erwan Colas **2.62**  ·  Theo Eyoum **6.50**  ·  Dame Gueye **2.25**  ·  Edwin Quarshie **4.00**  ·  Antoine Rabillard **2.40**  ·  Martin Rossignol **3.60**  ·  Harold Voyer **6.50**  ·  Samuel Yohou **5.50**  ·  Alexandre Lauray **5.50**
+- **Player to Score or Assist:** Junior Diaz **6.50**  ·  Lucas Bretelle **4.50**  ·  Louis Mafouta **2.05**  ·  Rayan Bamba **5.50**  ·  Timothee Nkada **2.38**  ·  Jeremy Le Douaron **2.50**  ·  Kandet Diawara **2.62**  ·  Yasser Larouci **4.75**  ·  Djibril Sidibe **3.60**  ·  Billal Brahimi **3.25**  ·  Raul Torrente **9.00**  ·  Lucas Calodat **4.33**  ·  Lucas Buades **3.75**  ·  Adil Bourabaa **4.50**  ·  Noah Donkor **3.00**  ·  Anis Ouzenadji **4.33**  ·  Merwan Ifnaoui **2.62**  ·  Yvann Titi **4.75**  ·  Antoine Mille **3.50**  ·  Daouda Traore **4.00**  ·  Alexandre Philiponeau **4.33**  ·  Jean Vercruysse **3.75**  ·  William Harhouz **2.50**  ·  Iron Gomis **3.60**  ·  Yacouba Kone **3.20**  ·  Christ Batola **2.40**  ·  Idrissa Soukouna **3.50**  ·  Lassana Simakha **6.00**  ·  Lenny Videira **4.50**  ·  Habib Diallo **2.30**  ·  Adrien Monfray **6.00**  ·  Mouhamed Diop **3.60**  ·  Paolo Gozzi **6.50**  ·  Renaud Ripart **2.05**  ·  Hugo Picard **3.00**  ·  Lucas Maronnier **4.75**  ·  Dermane Karim **2.50**  ·  Noa Boisse **7.00**  ·  Erwan Colas **2.88**  ·  Theo Eyoum **7.00**  ·  Dame Gueye **2.25**  ·  Edwin Quarshie **4.33**  ·  Antoine Rabillard **2.40**  ·  Martin Rossignol **3.60**  ·  Harold Voyer **7.00**  ·  Samuel Yohou **5.50**  ·  Alexandre Lauray **5.50**
 
 ## Estadísticas de equipo
 | | Estac Troyes (total) | Estac Troyes en casa | Le Mans (total) | Le Mans fuera |
@@ -126,8 +126,8 @@ _Actualizadas: 31/10 02:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Estac Troyes:** Y. Kone (baja, Knee Injury); A. Ouzenadji (baja, Knee Injury); I. Boura (duda, Hip Injury); Y. Titi (duda, Leg Injury); Y. Kone (baja, Knee Injury); A. Ouzenadji (baja, Knee Injury); I. Boura (duda, Hip Injury); Y. Titi (duda, Leg Injury)
-**Le Mans:** A. Bourabaa (baja, Ankle Injury); D. Sidibe (baja, Foot Injury); E. Colas (duda, Injury); Y. Larouci (duda, Groin Injury); H. Voyer (duda, Thigh Injury); A. Bourabaa (baja, Ankle Injury); D. Sidibe (baja, Foot Injury); E. Colas (duda, Injury); Y. Larouci (duda, Groin Injury); H. Voyer (duda, Thigh Injury)
+**Estac Troyes:** Y. Kone (baja, Knee Injury); A. Ouzenadji (baja, Knee Injury); Y. Kone (baja, Knee Injury); A. Ouzenadji (baja, Knee Injury)
+**Le Mans:** A. Bourabaa (baja, Ankle Injury); E. Colas (baja, Injury); D. Sidibe (baja, Foot Injury); A. Bourabaa (baja, Ankle Injury); E. Colas (baja, Injury); D. Sidibe (baja, Foot Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-31 · Ligue 2: Estac Troyes 0-2 Le Mans
@@ -212,9 +212,9 @@ _Goles esperados: local 1,21 · visitante 1,62 · córners esperados 9,8._
 | 1X2: 2 ✅ | 47% | 32% | 39% | 3.00 | +18% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
 | 1X2: 1 | 29% | 41% | 35% | 2.30 | -20% |
-| Doble oportunidad: X2 | 71% | 61% | 66% | 1.53 | +1% |
+| Doble oportunidad: X2 | 71% | 59% | 65% | 1.57 | +2% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 53% | 66% | 60% | 1.40 | -16% |
+| Doble oportunidad: 1X | 53% | 68% | 61% | 1.36 | -17% |
 | Ambos marcan: No | 44% | 44% | 44% | 2.10 | -8% |
 | Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -6% |
 | Goles más/menos: Más de 1.5 | 77% | 76% | 77% | 1.25 | -4% |
@@ -223,9 +223,9 @@ _Goles esperados: local 1,21 · visitante 1,62 · córners esperados 9,8._
 | Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -7% |
 | Goles más/menos: Menos de 2.5 | 46% | 47% | 47% | 2.00 | -6% |
 | Goles más/menos: Menos de 3.5 | 68% | 70% | 69% | 1.36 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
 | Goles del local: Más de 0.5 | 70% | 77% | 73% | 1.22 | -10% |
 | Goles del local: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
@@ -234,13 +234,13 @@ _Goles esperados: local 1,21 · visitante 1,62 · córners esperados 9,8._
 | Goles del local: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +1% |
 | Goles del local: Menos de 2.5 | 88% | 79% | 83% | 1.18 | -2% |
 | Goles del visitante: Más de 0.5 | 80% | 72% | 76% | 1.30 | -1% |
-| Goles del visitante: Más de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +7% |
+| Goles del visitante: Más de 1.5 | 48% | 38% | 43% | 2.50 | +7% |
 | Goles del visitante: Menos de 0.5 | 20% | 28% | 24% | 3.40 | -19% |
 | Goles del visitante: Menos de 1.5 | 52% | 62% | 57% | 1.50 | -14% |
 | Córners más/menos: Más de 8.5 | 56% | 53% | 55% | 1.78 | -3% |
 | Córners más/menos: Menos de 8.5 | 44% | 47% | 45% | 2.02 | -8% |
-| 1X2 descanso: 2 | 35% | 27% | 31% | 3.40 | +6% |
-| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -8% |
-| 1X2 descanso: 1 | 24% | 32% | 28% | 2.88 | -20% |
+| 1X2 descanso: 2 ✅ | 35% | 27% | 31% | 3.50 | +8% |
+| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
+| 1X2 descanso: 1 | 24% | 32% | 28% | 2.88 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

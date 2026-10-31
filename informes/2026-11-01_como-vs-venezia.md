@@ -1,10 +1,10 @@
 # Como – Venezia
 **Serie A** · Regular Season - 10 · 01/11/2026 12:30 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **1.30**  ·  X **5.75**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.40**
@@ -35,14 +35,14 @@ _Actualizadas: 31/10 02:03_
     - 9: más **1.80** · menos **2.00**
     - 9,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.73** · menos **2.00**
+    - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **1.67**  ·  X **2.88**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.17**  ·  2 **3.75**
@@ -64,7 +64,7 @@ _Actualizadas: 31/10 02:03_
 - **ShotOnTarget 1x2:** 1 **1.12**  ·  X **12.00**  ·  2 **7.50**
 - **Total Shots:**
     - 30,5: más **1.80** · menos **1.91**
-- **Shots.1x2:** 1 **1.06**  ·  X **29.00**  ·  2 **11.00**
+- **Shots.1x2:** 1 **1.06**  ·  X **29.00**  ·  2 **10.00**
 - **Home Player Shots On Target Total:** Willy Kambwala - 1 **3.75**  ·  Willy Kambwala - 2 **19.00**  ·  Nicolas Paz - 1 **1.06**  ·  Anastasios Douvikas - 1 **1.12**  ·  Assane Diao - 1 **1.25**  ·  Martin Baturina - 1 **1.18**  ·  Jesus Rodriguez - 1 **1.25**  ·  Jayden Addai - 1 **1.25**  ·  Mattia Liberali - 1 **1.40**  ·  Lucas Da Cunha - 1 **1.44**  ·  Kaiki - 1 **2.20**  ·  Luis Milla - 1 **1.44**  ·  Maxence Caqueret - 1 **1.57**  ·  Jacobo Ramon - 1 **2.10**  ·  Adrian Lahdo - 1 **1.73**  ·  Alberto Dossena - 1 **2.25**  ·  Alex Valle - 1 **2.25**  ·  Maximo Perrone - 1 **2.25**  ·  Marc-Oliver Kempf - 1 **2.62**  ·  Edoardo Goldaniga - 1 **3.25**  ·  Trevoh Chalobah - 1 **2.62**  ·  Yan Couto - 1 **2.62**  ·  Ivan Smolcic - 1 **3.25**  ·  Nicolas Paz - 2 **1.33**  ·  Anastasios Douvikas - 2 **1.67**  ·  Assane Diao - 2 **2.20**  ·  Martin Baturina - 2 **1.83**  ·  Jesus Rodriguez - 2 **2.25**  ·  Jayden Addai - 2 **2.25**  ·  Mattia Liberali - 2 **3.00**  ·  Lucas Da Cunha - 2 **3.25**  ·  Kaiki - 2 **8.00**  ·  Luis Milla - 2 **3.25**  ·  Maxence Caqueret - 2 **3.75**  ·  Jacobo Ramon - 2 **7.00**  ·  Adrian Lahdo - 2 **4.50**  ·  Alberto Dossena - 2 **9.00**  ·  Alex Valle - 2 **9.00**  ·  Maximo Perrone - 2 **9.00**  ·  Marc-Oliver Kempf - 2 **11.00**  ·  Edoardo Goldaniga - 2 **17.00**  ·  Trevoh Chalobah - 2 **11.00**  ·  Yan Couto - 2 **11.00**  ·  Ivan Smolcic - 2 **17.00**  ·  Nicolas Paz - 3 **2.00**  ·  Anastasios Douvikas - 3 **3.00**  ·  Assane Diao - 3 **5.00**  ·  Martin Baturina - 3 **3.75**  ·  Jesus Rodriguez - 3 **5.00**  ·  Jayden Addai - 3 **5.00**  ·  Mattia Liberali - 3 **8.00**  ·  Lucas Da Cunha - 3 **9.00**  ·  Luis Milla - 3 **9.00**  ·  Maxence Caqueret - 3 **13.00**  ·  Jacobo Ramon - 3 **21.00**  ·  Adrian Lahdo - 3 **17.00**  ·  Alex Valle - 3 **21.00**  ·  Maximo Perrone - 3 **21.00**  ·  Nicolas Paz - 4 **3.50**  ·  Anastasios Douvikas - 4 **6.50**  ·  Assane Diao - 4 **13.00**  ·  Martin Baturina - 4 **9.00**  ·  Jesus Rodriguez - 4 **13.00**  ·  Jayden Addai - 4 **13.00**  ·  Mattia Liberali - 4 **21.00**  ·  Lucas Da Cunha - 4 **21.00**  ·  Luis Milla - 4 **21.00**  ·  Nicolas Paz - 5 **7.00**  ·  Anastasios Douvikas - 5 **15.00**  ·  Martin Baturina - 5 **21.00**  ·  Nicolas Paz - 6 **15.00**  ·  Moise Kean - 2 **1.50**  ·  Moise Kean - 3 **2.50**  ·  Moise Kean - 4 **5.00**  ·  Moise Kean - 5 **11.00**  ·  Moise Kean - 6 **21.00**  ·  Moise Kean - 1 **1.10**  ·  Samuele Ricci - 1 **1.73**  ·  Samuele Ricci - 2 **5.00**  ·  Samuele Ricci - 3 **17.00**
 - **Away Player Shots On Target Total:** Martin Baturina **21.00**  ·  Albion Rrahmani **17.00**  ·  John Yeboah **34.00**  ·  Kornel Lisman **51.00**  ·  Redouane Halhal **29.00**  ·  Nicolas Paz **12.00**  ·  Matteo Dagasso **81.00**  ·  Lorenzo Berardi **41.00**  ·  Gianluca Busio **51.00**  ·  Matteo Papaccioli **19.00**  ·  Akor Adams **11.00**  ·  Maxence Caqueret **29.00**  ·  Lion Lauberbach **12.00**  ·  Yan Couto **51.00**  ·  Alfred Duncan **81.00**  ·  Richie Sagrado **41.00**  ·  Ridgeciano Haps **81.00**  ·  Alberto Dossena **7.50**  ·  Edoardo Goldaniga **10.00**  ·  Lucas Da Cunha **26.00**  ·  Marc-Oliver Kempf **9.50**  ·  Alex Valle **51.00**  ·  Kike Perez **51.00**  ·  Toni Fernandez **21.00**  ·  Rufai Mohammed **29.00**  ·  Thierry Correia **17.00**  ·  Adrian Lahdo **19.00**  ·  Lamine Dabo **81.00**  ·  Ale Gomes **34.00**  ·  Joel Schingtienne **21.00**  ·  Jayden Addai **21.00**  ·  Maximo Perrone **26.00**  ·  Jacobo Ramon **8.50**  ·  Mattia Liberali **23.00**  ·  Simone Panada **67.00**  ·  Luis Milla **67.00**  ·  Assane Diao **21.00**  ·  Matias Moreno **21.00**  ·  Moise Kean **5.50**  ·  Jesus Rodriguez **15.00**  ·  Antoine Hainaut **51.00**  ·  Simon Sohm **67.00**  ·  Toma Basic **51.00**  ·  Willy Kambwala **13.00**  ·  Samuele Ricci **34.00**  ·  Anastasios Douvikas **11.00**  ·  Thorir Johann Helgason **67.00**  ·  Armel Bella-Kotchap **29.00**  ·  Trevoh Chalobah **11.00**  ·  Ivan Smolcic **19.00**  ·  Kaiki **21.00**
 - **Away Player Shots Total:**

@@ -1,10 +1,10 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:00_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **2.80**  ·  X **3.60**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.28**  ·  X2 **1.40**

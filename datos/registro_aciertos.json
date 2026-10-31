@@ -1984,16 +1984,16 @@
   "opcion": "Home/Draw",
   "tipo": "resultado",
   "texto": "Brentford o empate",
-  "cuota": 1.28,
+  "cuota": 1.33,
   "frecuencia": 0.842,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.038,
-  "movimiento": 0.0,
-  "ventaja": 0.061,
-  "prob_aprendida": 0.802,
+  "valor_mercado": 0.0,
+  "movimiento": 0.039,
+  "ventaja": 0.09,
+  "prob_aprendida": 0.805,
   "acierto": null
  },
  "1557452|Total - Home|Over 0.5": {
@@ -2764,10 +2764,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.018,
+  "valor_mercado": -0.011,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.625,
+  "prob_aprendida": 0.615,
   "acierto": null
  },
  "1570433|Goals Over/Under|Over 1.5": {
@@ -3324,16 +3324,16 @@
   "opcion": "Santiago Castaneda - 1",
   "tipo": "jugador",
   "texto": "Santiago Castaneda: 1+ tiros",
-  "cuota": 1.62,
-  "frecuencia": 0.857,
+  "cuota": 1.4,
+  "frecuencia": 0.889,
   "jugador_id": 363156,
   "jugador": "Santiago Castaneda",
   "campo": "tiros",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.24,
-  "prob_aprendida": 0.584,
+  "movimiento": -0.136,
+  "ventaja": 0.175,
+  "prob_aprendida": 0.798,
   "acierto": null
  },
  "1552803|Home Player Shots|Noah Cadiou - 1": {
@@ -3461,7 +3461,7 @@
   "valor_mercado": -0.029,
   "movimiento": -0.093,
   "ventaja": 0.015,
-  "prob_aprendida": 0.77,
+  "prob_aprendida": 0.769,
   "acierto": null
  },
  "1557448|Double Chance|Home/Draw": {
@@ -4293,16 +4293,16 @@
   "opcion": "Draw/Away",
   "tipo": "resultado",
   "texto": "Portsmouth o empate",
-  "cuota": 1.67,
+  "cuota": 1.57,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.031,
-  "movimiento": -0.072,
-  "ventaja": 0.201,
-  "prob_aprendida": 0.468,
+  "valor_mercado": -0.013,
+  "movimiento": -0.128,
+  "ventaja": 0.163,
+  "prob_aprendida": 0.546,
   "acierto": null
  },
  "1563232|Away Corners Over/Under|Over 2.5": {
@@ -4381,16 +4381,16 @@
   "opcion": "Jarrod Bowen - 1",
   "tipo": "jugador",
   "texto": "Jarrod Bowen: 1+ tiros a puerta",
-  "cuota": 1.3,
+  "cuota": 1.25,
   "frecuencia": 1.0,
   "jugador_id": 19428,
   "jugador": "Jarrod Bowen",
   "campo": "a_puerta",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": 0.04,
-  "ventaja": 0.231,
-  "prob_aprendida": 0.776,
+  "movimiento": 0.0,
+  "ventaja": 0.2,
+  "prob_aprendida": 0.796,
   "acierto": null
  },
  "1563235|Match Winner|Home": {
@@ -4456,7 +4456,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.023,
   "ventaja": 0.031,
-  "prob_aprendida": 0.735,
+  "prob_aprendida": 0.736,
   "acierto": null
  },
  "1550184|Goals Over/Under|Over 1.5": {
@@ -5355,7 +5355,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.029,
   "ventaja": 0.015,
-  "prob_aprendida": 0.635,
+  "prob_aprendida": 0.636,
   "acierto": null
  },
  "1550180|Total - Home|Over 1.5": {
@@ -5555,10 +5555,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.023,
+  "valor_mercado": -0.015,
   "movimiento": -0.015,
   "ventaja": 0.069,
-  "prob_aprendida": 0.691,
+  "prob_aprendida": 0.698,
   "acierto": null
  },
  "1575535|Total - Away|Over 0.5": {
@@ -5602,7 +5602,7 @@
   "valor_mercado": 0.013,
   "movimiento": 0.121,
   "ventaja": 0.213,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.606,
   "acierto": null
  },
  "1575535|Goals Over/Under|Over 1.5": {
@@ -5646,7 +5646,7 @@
   "valor_mercado": -0.013,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.5,
+  "prob_aprendida": 0.501,
   "acierto": null
  },
  "1575535|Goals Over/Under First Half|Over 0.5": {
@@ -5712,7 +5712,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.15,
-  "prob_aprendida": 0.469,
+  "prob_aprendida": 0.47,
   "acierto": null
  },
  "1569997|Total - Away|Over 0.5": {
@@ -5867,7 +5867,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.016,
   "ventaja": 0.144,
-  "prob_aprendida": 0.533,
+  "prob_aprendida": 0.534,
   "acierto": null
  },
  "1550178|Goals Over/Under|Over 1.5": {
@@ -6245,7 +6245,7 @@
   "valor_mercado": -0.031,
   "movimiento": -0.031,
   "ventaja": 0.059,
-  "prob_aprendida": 0.49,
+  "prob_aprendida": 0.491,
   "acierto": null
  },
  "1575534|Match Winner|Away": {
@@ -6267,7 +6267,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.022,
   "ventaja": 0.145,
-  "prob_aprendida": 0.419,
+  "prob_aprendida": 0.42,
   "acierto": null
  },
  "1569999|Goals Over/Under First Half|Over 0.5": {
@@ -6905,7 +6905,7 @@
   "valor_mercado": null,
   "movimiento": -0.06,
   "ventaja": 0.2,
-  "prob_aprendida": 0.738,
+  "prob_aprendida": 0.737,
   "acierto": null
  },
  "1575210|Player Fouls Committed|Satoshi Tanaka - 1": {
@@ -7160,16 +7160,16 @@
   "opcion": "Ao Tanaka - 1",
   "tipo": "jugador",
   "texto": "Ao Tanaka comete 1+ faltas",
-  "cuota": 1.44,
+  "cuota": 1.28,
   "frecuencia": 0.857,
   "jugador_id": 32966,
   "jugador": "Ao Tanaka",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.163,
-  "prob_aprendida": 0.62,
+  "movimiento": -0.111,
+  "ventaja": 0.076,
+  "prob_aprendida": 0.687,
   "acierto": null
  },
  "1557448|Home Team Total Cards|Over 1.5": {
@@ -7191,7 +7191,7 @@
   "valor_mercado": -0.025,
   "movimiento": -0.025,
   "ventaja": 0.096,
-  "prob_aprendida": 0.456,
+  "prob_aprendida": 0.457,
   "acierto": null
  },
  "1557456|Player Fouls Committed|Jan Paul van Hecke - 1": {
@@ -7204,16 +7204,16 @@
   "opcion": "Jan Paul van Hecke - 1",
   "tipo": "jugador",
   "texto": "Jan Paul van Hecke comete 1+ faltas",
-  "cuota": 1.53,
+  "cuota": 1.44,
   "frecuencia": 0.889,
   "jugador_id": 38695,
   "jugador": "Jan Paul van Hecke",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.235,
-  "prob_aprendida": 0.582,
+  "movimiento": -0.059,
+  "ventaja": 0.194,
+  "prob_aprendida": 0.609,
   "acierto": null
  },
  "1557452|Player Fouls Committed|Mohamed Belloumi - 1": {
@@ -7391,7 +7391,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.481,
+  "prob_aprendida": 0.48,
   "acierto": null
  },
  "1552803|Goals Over/Under - Second Half|Over 0.5": {
@@ -7501,7 +7501,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.2,
-  "prob_aprendida": 0.744,
+  "prob_aprendida": 0.743,
   "acierto": null
  },
  "1557453|Player Fouls Committed|Ryan Gravenberch - 1": {
@@ -7545,7 +7545,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.143,
-  "prob_aprendida": 0.669,
+  "prob_aprendida": 0.668,
   "acierto": null
  },
  "1575207|Player Fouls Committed|Zeno Van Den Bosch - 1": {
@@ -7633,7 +7633,7 @@
   "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.548,
+  "prob_aprendida": 0.549,
   "acierto": null
  },
  "1550181|Player Fouls Committed|Pietro Comuzzo - 1": {
@@ -7721,7 +7721,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.665,
+  "prob_aprendida": 0.666,
   "acierto": null
  },
  "1552802|Total Shots|Over 24.5": {
@@ -7868,16 +7868,16 @@
   "opcion": "Robert Navarro - 1",
   "tipo": "jugador",
   "texto": "Robert Navarro: 1+ tiros a puerta",
-  "cuota": 1.4,
+  "cuota": 1.44,
   "frecuencia": 0.857,
   "jugador_id": 84086,
   "jugador": "Robert Navarro",
   "campo": "a_puerta",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": -0.108,
-  "ventaja": 0.143,
-  "prob_aprendida": 0.698,
+  "movimiento": -0.083,
+  "ventaja": 0.163,
+  "prob_aprendida": 0.686,
   "acierto": null
  },
  "1550184|Total Shots|Over 23.5": {
@@ -7943,7 +7943,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.381,
+  "prob_aprendida": 0.382,
   "acierto": null
  },
  "1570450|Goals Over/Under|Over 1.5": {
@@ -8340,7 +8340,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.036,
-  "prob_aprendida": 0.555,
+  "prob_aprendida": 0.554,
   "acierto": null
  },
  "1563235|Player Fouls Committed|Ben Wilmot - 1": {
@@ -8406,7 +8406,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.167,
-  "prob_aprendida": 0.625,
+  "prob_aprendida": 0.626,
   "acierto": null
  },
  "1635681|Home Player Shots On Target Total|Florian Thauvin - 1": {
@@ -8472,7 +8472,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.119,
-  "prob_aprendida": 0.941,
+  "prob_aprendida": 0.942,
   "acierto": null
  },
  "1552220|Goals Over/Under First Half|Over 0.5": {
@@ -8604,7 +8604,7 @@
   "valor_mercado": -0.012,
   "movimiento": null,
   "ventaja": 0.014,
-  "prob_aprendida": 0.493,
+  "prob_aprendida": 0.494,
   "acierto": null
  },
  "1570434|Home Team Total Cards|Over 0.5": {
@@ -8626,7 +8626,7 @@
   "valor_mercado": 0.099,
   "movimiento": null,
   "ventaja": 0.206,
-  "prob_aprendida": 0.65,
+  "prob_aprendida": 0.649,
   "acierto": null
  },
  "1563232|Away Team Total Cards|Over 1.5": {

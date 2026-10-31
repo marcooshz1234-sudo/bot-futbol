@@ -1,26 +1,26 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:01_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.18**  ·  X **6.25**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **4.50**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.36** · menos **3.10**
+    - 2,5: más **1.33** · menos **3.40**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **3.00** · menos **1.36**
     - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.67** · menos **2.10**
@@ -187,18 +187,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 92% | 93% | 92% | 1.04 | -4% |
 | Ambos marcan: No | 47% | 50% | 49% | 1.83 | -11% |
 | Ambos marcan: Sí | 53% | 50% | 51% | 1.83 | -6% |
-| Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -4% |
+| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -4% |
 | Goles más/menos: Más de 3.5 | 51% | 50% | 50% | 1.83 | -8% |
 | Goles más/menos: Más de 4.5 | 32% | 31% | 31% | 3.00 | -6% |
-| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.10 | -9% |
+| Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -4% |
 | Goles más/menos: Menos de 3.5 | 49% | 50% | 50% | 1.83 | -9% |
 | Goles más/menos: Menos de 4.5 | 68% | 69% | 69% | 1.36 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
 | Goles del local: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 2.5 | 55% | 56% | 56% | 1.67 | -7% |
 | Goles del local: Más de 3.5 | 33% | 35% | 34% | 2.62 | -10% |

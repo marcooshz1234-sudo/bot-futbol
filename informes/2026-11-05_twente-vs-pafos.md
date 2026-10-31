@@ -1,10 +1,10 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:01_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.75**

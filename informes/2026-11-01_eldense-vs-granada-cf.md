@@ -1,14 +1,14 @@
 # Eldense – Granada CF
 **Segunda División** · Regular Season - 12 · 01/11/2026 14:00 (hora España) · Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:53_
 
-- **1X2:** 1 **2.25**  ·  X **3.40**  ·  2 **3.10**
+- **1X2:** 1 **2.30**  ·  X **3.30**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
@@ -30,7 +30,7 @@ _Actualizadas: 31/10 02:03_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.78** · menos **2.02**
+    - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
@@ -43,7 +43,7 @@ _Actualizadas: 31/10 02:03_
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
 - **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.33**
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
@@ -191,14 +191,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 30% | 37% | 3.10 | +13% |
-| 1X2: X | 27% | 28% | 27% | 3.40 | -7% |
-| 1X2: 1 | 30% | 42% | 36% | 2.25 | -19% |
+| 1X2: 2 | 43% | 31% | 37% | 3.00 | +11% |
+| 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
+| 1X2: 1 | 30% | 41% | 35% | 2.30 | -19% |
 | Doble oportunidad: X2 | 70% | 57% | 63% | 1.67 | +6% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 57% | 70% | 64% | 1.36 | -14% |
-| Ambos marcan: No | 51% | 46% | 49% | 2.00 | -3% |
-| Ambos marcan: Sí | 49% | 54% | 51% | 1.73 | -11% |
+| Ambos marcan: No | 51% | 44% | 47% | 2.10 | -0% |
+| Ambos marcan: Sí | 49% | 56% | 53% | 1.67 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 44% | 50% | 47% | 1.90 | -10% |
 | Goles más/menos: Más de 3.5 | 23% | 29% | 26% | 3.25 | -15% |
@@ -217,8 +217,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
 | Goles del visitante: Menos de 0.5 | 26% | 31% | 28% | 3.00 | -15% |
 | Goles del visitante: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
-| Córners más/menos: Más de 9.5 | 46% | 53% | 50% | 1.78 | -12% |
-| Córners más/menos: Menos de 9.5 | 54% | 47% | 50% | 2.02 | +2% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
 | 1X2 descanso: 2 | 31% | 26% | 29% | 3.60 | +3% |
 | 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
 | 1X2 descanso: 1 | 24% | 32% | 28% | 2.88 | -19% |

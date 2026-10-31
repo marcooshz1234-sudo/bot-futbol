@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 31/10/2026 07:56 (hora España)._
+_Actualizado el 31/10/2026 13:56 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -13,26 +13,28 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 |---|---|---|---|---|---|---|---|
 | 13:30 | [Chelsea – Manchester United](informes/2026-10-31_chelsea-vs-manchester-united.md) | Goles más/menos: Más de 4.5 | 4.50 | 41% | 21% | 31% | **+39%** |
 | 13:30 | [Chelsea – Manchester United](informes/2026-10-31_chelsea-vs-manchester-united.md) | Goles del local: Más de 2.5 | 3.25 | 49% | 29% | 39% | **+27%** |
-| 15:00 | [Bologna – Monza](informes/2026-10-31_bologna-vs-monza.md) | Doble oportunidad: X2 | 2.15 | 55% | 44% | 50% | **+7%** |
-| 15:30 | [Borussia Mönchengladbach – SC Paderborn 07](informes/2026-10-31_borussia-monchengladbach-vs-sc-paderborn-07.md) | Goles más/menos: Menos de 2.5 | 2.62 | 45% | 36% | 41% | **+7%** |
-| 15:30 | [Werder Bremen – 1899 Hoffenheim](informes/2026-10-31_werder-bremen-vs-1899-hoffenheim.md) | Goles del local: Más de 2.5 | 3.75 | 39% | 25% | 32% | **+19%** |
-| 15:30 | [Werder Bremen – 1899 Hoffenheim](informes/2026-10-31_werder-bremen-vs-1899-hoffenheim.md) | 1X2: 1 | 2.70 | 51% | 35% | 43% | **+16%** |
-| 15:30 | [FC Schalke 04 – RB Leipzig](informes/2026-10-31_fc-schalke-04-vs-rb-leipzig.md) | Goles más/menos: Menos de 2.5 | 2.75 | 47% | 34% | 41% | **+12%** |
-| 15:30 | [FC Schalke 04 – RB Leipzig](informes/2026-10-31_fc-schalke-04-vs-rb-leipzig.md) | Goles del local: Menos de 0.5 | 3.50 | 36% | 27% | 31% | **+9%** |
+| 15:00 | [Bologna – Monza](informes/2026-10-31_bologna-vs-monza.md) | Doble oportunidad: X2 | 2.20 | 55% | 43% | 49% | **+8%** |
+| 15:30 | [Werder Bremen – 1899 Hoffenheim](informes/2026-10-31_werder-bremen-vs-1899-hoffenheim.md) | Goles del local: Más de 2.5 | 3.50 | 39% | 27% | 33% | **+14%** |
+| 15:30 | [Werder Bremen – 1899 Hoffenheim](informes/2026-10-31_werder-bremen-vs-1899-hoffenheim.md) | 1X2: 1 | 2.40 | 51% | 39% | 45% | **+8%** |
+| 15:30 | [FC Schalke 04 – RB Leipzig](informes/2026-10-31_fc-schalke-04-vs-rb-leipzig.md) | Goles del local: Menos de 0.5 | 3.40 | 36% | 28% | 32% | **+7%** |
+| 15:30 | [FC Schalke 04 – RB Leipzig](informes/2026-10-31_fc-schalke-04-vs-rb-leipzig.md) | Goles más/menos: Menos de 2.5 | 2.50 | 47% | 38% | 43% | **+7%** |
 | 15:30 | [FC Augsburg – SC Freiburg](informes/2026-10-31_fc-augsburg-vs-sc-freiburg.md) | Goles más/menos: Más de 4.5 | 3.75 | 44% | 25% | 35% | **+30%** |
-| 15:30 | [FC Augsburg – SC Freiburg](informes/2026-10-31_fc-augsburg-vs-sc-freiburg.md) | Goles del visitante: Más de 2.5 | 3.25 | 46% | 29% | 37% | **+21%** |
-| 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | 1X2: 2 | 4.20 | 39% | 23% | 31% | **+29%** |
-| 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Doble oportunidad: X2 | 2.30 | 63% | 41% | 52% | **+19%** |
+| 15:30 | [FC Augsburg – SC Freiburg](informes/2026-10-31_fc-augsburg-vs-sc-freiburg.md) | Goles del visitante: Más de 2.5 | 3.40 | 46% | 28% | 37% | **+24%** |
+| 16:00 | [Hull City – Ipswich](informes/2026-10-31_hull-city-vs-ipswich.md) | 1X2: 1 | 2.80 | 42% | 34% | 38% | **+7%** |
+| 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Goles del local: Menos de 1.5 | 2.62 | 55% | 35% | 45% | **+18%** |
+| 16:00 | [Manchester City – Brighton](informes/2026-10-31_manchester-city-vs-brighton.md) | Doble oportunidad: X2 | 2.15 | 63% | 43% | 53% | **+14%** |
 | 16:00 | [Bournemouth – Leeds](informes/2026-10-31_bournemouth-vs-leeds.md) | 1X2: 1 | 2.10 | 61% | 45% | 53% | **+12%** |
+| 16:00 | [Bournemouth – Leeds](informes/2026-10-31_bournemouth-vs-leeds.md) | 1X2 descanso: 1 | 2.75 | 44% | 34% | 39% | **+7%** |
+| 16:00 | [Brentford – Nottingham Forest](informes/2026-10-31_brentford-vs-nottingham-forest.md) | 1X2: 1 | 2.15 | 54% | 44% | 49% | **+6%** |
 | 18:00 | [Udinese – AS Roma](informes/2026-10-31_udinese-vs-as-roma.md) | Goles del visitante: Más de 2.5 | 2.62 | 47% | 35% | 41% | **+9%** |
-| 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles más/menos: Menos de 2.5 | 4.00 | 44% | 24% | 34% | **+35%** |
+| 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles más/menos: Menos de 2.5 | 3.75 | 44% | 25% | 35% | **+29%** |
 | 18:30 | [Bayern München – Borussia Dortmund](informes/2026-10-31_bayern-munchen-vs-borussia-dortmund.md) | Goles del local: Menos de 1.5 | 4.00 | 41% | 23% | 32% | **+29%** |
-| 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Goles del local: Menos de 1.5 | 2.38 | 61% | 39% | 50% | **+19%** |
-| 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Doble oportunidad: X2 | 2.30 | 62% | 41% | 51% | **+18%** |
+| 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Doble oportunidad: X2 | 2.25 | 62% | 42% | 52% | **+16%** |
+| 18:30 | [Tottenham – Crystal Palace](informes/2026-10-31_tottenham-vs-crystal-palace.md) | Goles del local: Menos de 1.5 | 2.25 | 61% | 41% | 51% | **+15%** |
+| 20:45 | [AC Milan – Inter](informes/2026-10-31_ac-milan-vs-inter.md) | 1X2: 1 | 3.70 | 35% | 26% | 30% | **+13%** |
 | 20:45 | [AC Milan – Inter](informes/2026-10-31_ac-milan-vs-inter.md) | Goles más/menos: Más de 3.5 | 2.62 | 49% | 36% | 43% | **+12%** |
-| 20:45 | [AC Milan – Inter](informes/2026-10-31_ac-milan-vs-inter.md) | Goles del local: Más de 1.5 | 2.50 | 51% | 38% | 44% | **+11%** |
 | 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | 1X2: 2 | 3.00 | 47% | 32% | 39% | **+18%** |
-| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | Goles del visitante: Más de 1.5 | 2.50 | 48% | 38% | 43% | **+7%** |
+| 20:45 | [Estac Troyes – Le Mans](informes/2026-10-31_estac-troyes-vs-le-mans.md) | 1X2 descanso: 2 | 3.50 | 35% | 27% | 31% | **+8%** |
 | 21:00 | [Barcelona – Alaves](informes/2026-10-31_barcelona-vs-alaves.md) | Córners más/menos: Menos de 10.5 | 2.10 | 64% | 44% | 54% | **+14%** |
 
 ## 01/11
@@ -42,8 +44,8 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 15:30 | [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) | 1X2: 2 | 2.55 | 49% | 37% | 43% | **+11%** |
 | 17:15 | [Lyon – Angers](informes/2026-11-01_lyon-vs-angers.md) | Goles más/menos: Menos de 2.5 | 2.50 | 47% | 38% | 42% | **+6%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | Goles del visitante: Menos de 0.5 | 3.00 | 40% | 31% | 36% | **+7%** |
-| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.60 | 45% | 26% | 36% | **+29%** |
-| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.38 | 60% | 39% | 50% | **+18%** |
+| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.60 | 45% | 26% | 36% | **+28%** |
+| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.50 | 60% | 38% | 49% | **+22%** |
 
 ## 02/11
 
@@ -54,7 +56,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 20:45 | [Lorient – Stade Brestois 29](informes/2026-11-02_lorient-vs-stade-brestois-29.md) | Goles más/menos: Menos de 1.5 | 3.40 | 39% | 28% | 34% | **+14%** |
 | 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles más/menos: Menos de 2.5 | 2.30 | 56% | 41% | 49% | **+12%** |
 | 20:45 | [Atalanta – Parma](informes/2026-11-02_atalanta-vs-parma.md) | Goles del local: Menos de 1.5 | 2.50 | 51% | 38% | 44% | **+10%** |
-| 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | 1X2: 2 | 3.00 | 44% | 32% | 38% | **+13%** |
+| 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | 1X2: 2 | 2.90 | 44% | 33% | 38% | **+10%** |
 | 21:00 | [Newcastle – Everton](informes/2026-11-02_newcastle-vs-everton.md) | Goles del local: Menos de 1.5 | 1.80 | 67% | 51% | 59% | **+7%** |
 
 ## 03/11

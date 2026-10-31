@@ -1,17 +1,17 @@
 # Monaco – FC Nordsjaelland
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:01_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.48**  ·  X **4.33**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.48** · menos **2.60**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
@@ -22,15 +22,15 @@ _Actualizadas: 30/10 08:01_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.62**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -187,10 +187,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 67% | 84% | 75% | 1.14 | -14% |
 | Ambos marcan: No | 53% | 41% | 47% | 2.25 | +6% |
 | Ambos marcan: Sí | 47% | 59% | 53% | 1.57 | -17% |
-| Goles más/menos: Más de 2.5 | 41% | 64% | 52% | 1.48 | -23% |
+| Goles más/menos: Más de 2.5 | 41% | 65% | 53% | 1.44 | -24% |
 | Goles más/menos: Más de 3.5 | 20% | 44% | 32% | 2.10 | -32% |
 | Goles más/menos: Más de 4.5 | 8% | 27% | 18% | 3.50 | -38% |
-| Goles más/menos: Menos de 2.5 | 59% | 36% | 48% | 2.60 | +24% |
+| Goles más/menos: Menos de 2.5 | 59% | 35% | 47% | 2.70 | +27% |
 | Goles más/menos: Menos de 3.5 | 80% | 56% | 68% | 1.67 | +13% |
 | Goles más/menos: Menos de 4.5 | 92% | 73% | 82% | 1.28 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 77% | 70% | 1.22 | -15% |
@@ -199,16 +199,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 23% | 30% | 4.00 | +20% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 56% | 65% | 1.67 | +8% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 92% | 79% | 86% | 1.18 | +1% |
-| Goles del local: Más de 1.5 | 34% | 69% | 51% | 1.36 | -30% |
-| Goles del local: Más de 2.5 | 12% | 44% | 28% | 2.10 | -41% |
-| Goles del local: Más de 3.5 | 3% | 25% | 14% | 3.75 | -47% |
-| Goles del local: Menos de 1.5 | 66% | 31% | 49% | 3.00 | +46% |
-| Goles del local: Menos de 2.5 | 88% | 56% | 72% | 1.67 | +20% |
-| Goles del local: Menos de 3.5 | 97% | 75% | 86% | 1.25 | +7% |
-| Goles del visitante: Más de 0.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 1.5 | 30% | 25% | 28% | 3.75 | +3% |
-| Goles del visitante: Menos de 0.5 | 33% | 39% | 36% | 2.38 | -14% |
-| Goles del visitante: Menos de 1.5 | 70% | 75% | 72% | 1.25 | -9% |
+| Goles del local: Más de 1.5 | 34% | 66% | 50% | 1.40 | -30% |
+| Goles del local: Más de 2.5 | 12% | 41% | 27% | 2.25 | -40% |
+| Goles del local: Más de 3.5 | 3% | 22% | 13% | 4.33 | -46% |
+| Goles del local: Menos de 1.5 | 66% | 34% | 50% | 2.75 | +37% |
+| Goles del local: Menos de 2.5 | 88% | 59% | 73% | 1.57 | +15% |
+| Goles del local: Menos de 3.5 | 97% | 78% | 87% | 1.20 | +5% |
+| Goles del visitante: Más de 0.5 | 67% | 65% | 66% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles del visitante: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -10% |
+| Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
 | 1X2 descanso: X | 47% | 35% | 41% | 2.62 | +7% |
 | 1X2 descanso: 1 | 28% | 48% | 38% | 1.95 | -26% |
 

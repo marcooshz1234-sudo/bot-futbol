@@ -1,14 +1,14 @@
 # Heerenveen – NEC Nijmegen
 **Eredivisie** · Regular Season - 11 · 31/10/2026 18:45 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:53_
 
-- **1X2:** 1 **2.05**  ·  X **4.00**  ·  2 **3.20**
+- **1X2:** 1 **2.00**  ·  X **4.00**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.22**  ·  X2 **1.73**
-- **Ambos marcan:** Sí **1.33**  ·  No **3.25**
+- **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.36** · menos **3.10**
@@ -42,11 +42,11 @@ _Actualizadas: 31/10 02:02_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
-- **Both Teams To Score - Second Half:** Sí **2.20**  ·  No **1.62**
+- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
 - **To Win Either Half:** 1 **1.53**  ·  2 **1.83**
 - **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **3.00**
 - **Win Both Halves:** 1 **6.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **26.00**  ·  Away/No **9.00**
+- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.00**  ·  Draw/No **26.00**  ·  Away/No **9.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.53**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **4.33**
 - **Home Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
@@ -115,7 +115,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Heerenveen:** L. Smans (duda, Inactive); L. Smans (duda, Inactive)
-**NEC Nijmegen:** B. Nuytinck (baja, Ankle Injury); P. Sandler (baja, Injury); D. Tadic (baja, Calf Injury); E. Mor (duda, Groin Injury); Y. Moslih (duda, Inactive); B. Nuytinck (baja, Ankle Injury); P. Sandler (baja, Injury); D. Tadic (baja, Calf Injury); E. Mor (duda, Groin Injury); Y. Moslih (duda, Inactive)
+**NEC Nijmegen:** D. Geiger (baja, Inactive); E. Mor (baja, Groin Injury); B. Nuytinck (baja, Ankle Injury); P. Sandler (baja, Injury); D. Tadic (baja, Calf Injury); Y. Moslih (duda, Inactive); D. Geiger (baja, Inactive); E. Mor (baja, Groin Injury); B. Nuytinck (baja, Ankle Injury); P. Sandler (baja, Injury); D. Tadic (baja, Calf Injury); Y. Moslih (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-03-22 · Eredivisie: NEC Nijmegen 2-2 Heerenveen
@@ -200,14 +200,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 30% | 26% | 3.20 | -18% |
+| 1X2: 2 | 21% | 29% | 25% | 3.25 | -18% |
 | 1X2: X | 22% | 24% | 23% | 4.00 | -9% |
-| 1X2: 1 | 57% | 46% | 52% | 2.05 | +6% |
+| 1X2: 1 | 57% | 47% | 52% | 2.00 | +4% |
 | Doble oportunidad: X2 | 43% | 54% | 49% | 1.73 | -16% |
 | Doble oportunidad: 12 | 78% | 77% | 78% | 1.22 | -5% |
 | Doble oportunidad: 1X | 79% | 69% | 74% | 1.36 | +0% |
-| Ambos marcan: No | 42% | 29% | 35% | 3.25 | +15% |
-| Ambos marcan: Sí | 58% | 71% | 65% | 1.33 | -14% |
+| Ambos marcan: No | 42% | 31% | 37% | 3.00 | +10% |
+| Ambos marcan: Sí | 58% | 69% | 63% | 1.36 | -14% |
 | Goles más/menos: Más de 2.5 | 60% | 70% | 65% | 1.36 | -12% |
 | Goles más/menos: Más de 3.5 | 37% | 50% | 44% | 1.83 | -20% |
 | Goles más/menos: Más de 4.5 | 20% | 31% | 26% | 3.00 | -23% |

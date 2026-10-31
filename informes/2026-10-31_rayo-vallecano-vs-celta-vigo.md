@@ -1,10 +1,10 @@
 # Rayo Vallecano – Celta Vigo
 **LaLiga** · Regular Season - 11 · 31/10/2026 16:15 (hora España) · Estadio de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **2.40**  ·  X **3.25**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.53**
@@ -125,7 +125,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Rayo Vallecano:** A. Batalla (baja, Broken calfbone); P. Ciss (baja, Yellow Cards); Luiz Felipe (baja, Knee Injury); A. Ratiu (duda, Muscle Injury); A. Batalla (baja, Broken calfbone); P. Ciss (baja, Yellow Cards); Luiz Felipe (baja, Knee Injury); A. Ratiu (duda, Muscle Injury)
-**Celta Vigo:** J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury); J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury)
+**Celta Vigo:** H. F. Cuenca Martinez (baja, Muscle Injury); J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury); H. F. Cuenca Martinez (baja, Muscle Injury); J. El Abdellaoui (baja, Knee Injury); B. Iglesias (baja, Calf Injury); A. Nunez (baja, Groin Injury); M. Roman (baja, Knee Injury); C. Starfelt (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-18 · La Liga: Celta Vigo 3-0 Rayo Vallecano

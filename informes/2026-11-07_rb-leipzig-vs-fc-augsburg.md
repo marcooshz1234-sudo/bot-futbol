@@ -1,7 +1,7 @@
 # RB Leipzig – FC Augsburg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_

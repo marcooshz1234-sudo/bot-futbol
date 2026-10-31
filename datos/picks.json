@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-31 07:56",
+ "generado": "2026-10-31 13:56",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,6 +9,37 @@
  "dias": {
   "2026-10-31": {
    "picks": [
+    {
+     "partido_id": 1575208,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Borussia Mönchengladbach",
+     "visitante": "SC Paderborn 07",
+     "mercado": "Away Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.889,
+     "ventaja": 0.175,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 8/9",
+     "temporada": "8/9",
+     "movimiento": -0.136,
+     "cuota_inicial": 1.62,
+     "posiciones": [
+      18,
+      13,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.798
+    },
     {
      "partido_id": 1552208,
      "fecha": "2026-10-31T18:45",
@@ -36,6 +67,67 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.861
+    },
+    {
+     "partido_id": 1557449,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brentford",
+     "visitante": "Nottingham Forest",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brentford o empate",
+     "cuota": 1.33,
+     "frecuencia": 0.842,
+     "ventaja": 0.09,
+     "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
+     "valor_mercado": 0.0,
+     "movimiento": 0.039,
+     "cuota_inicial": 1.28,
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.6,
+     "posiciones": [
+      6,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.805
+    },
+    {
+     "partido_id": 1563237,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "West Ham",
+     "visitante": "West Brom",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Jarrod Bowen - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Jarrod Bowen",
+     "equipo": "West Ham",
+     "jugador_id": 19428,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Jarrod Bowen: 1+ tiros a puerta",
+     "detalle": "Jarrod Bowen 10/10",
+     "temporada": "12/13",
+     "movimiento": 0.0,
+     "cuota_inicial": 1.25,
+     "arbitro": "Robert Jones",
+     "arbitro_tarjetas": 2.7,
+     "posiciones": [
+      4,
+      6,
+      24
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.796
     },
     {
      "partido_id": 1570435,
@@ -71,67 +163,6 @@
      "prob_aprendida": 0.802
     },
     {
-     "partido_id": 1557449,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brentford",
-     "visitante": "Nottingham Forest",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Brentford o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.842,
-     "ventaja": 0.061,
-     "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
-     "valor_mercado": -0.038,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.28,
-     "arbitro": "Darren England",
-     "arbitro_tarjetas": 3.7,
-     "posiciones": [
-      6,
-      18,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.802
-    },
-    {
-     "partido_id": 1563237,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "West Ham",
-     "visitante": "West Brom",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Jarrod Bowen - 1",
-     "cuota": 1.3,
-     "frecuencia": 1.0,
-     "ventaja": 0.231,
-     "tipo": "jugador",
-     "jugador": "Jarrod Bowen",
-     "equipo": "West Ham",
-     "jugador_id": 19428,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Jarrod Bowen: 1+ tiros a puerta",
-     "detalle": "Jarrod Bowen 10/10",
-     "temporada": "12/13",
-     "movimiento": 0.04,
-     "cuota_inicial": 1.25,
-     "arbitro": "Robert Jones",
-     "arbitro_tarjetas": 2.7,
-     "posiciones": [
-      4,
-      6,
-      24
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.776
-    },
-    {
      "partido_id": 1557448,
      "fecha": "2026-10-31T16:00",
      "competicion": "Premier",
@@ -162,7 +193,7 @@
       20
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.738
+     "prob_aprendida": 0.737
     },
     {
      "partido_id": 1575209,
@@ -194,32 +225,6 @@
      "prob_aprendida": 0.729
     },
     {
-     "partido_id": 1570434,
-     "fecha": "2026-10-31T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Barcelona",
-     "visitante": "Alaves",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 0.5",
-     "tipo": "tarjetas",
-     "texto": "Barcelona ve más de 0,5 tarjetas",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
-     "valor_mercado": 0.099,
-     "arbitro": "Adrian Cordero Vega",
-     "arbitro_tarjetas": 6.7,
-     "posiciones": [
-      1,
-      7,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.65
-    },
-    {
      "partido_id": 1575203,
      "fecha": "2026-10-31T18:30",
      "competicion": "Bundesliga",
@@ -249,6 +254,32 @@
      "prob_aprendida": 0.737
     },
     {
+     "partido_id": 1570434,
+     "fecha": "2026-10-31T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Barcelona",
+     "visitante": "Alaves",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 0.5",
+     "tipo": "tarjetas",
+     "texto": "Barcelona ve más de 0,5 tarjetas",
+     "cuota": 1.44,
+     "frecuencia": 0.9,
+     "ventaja": 0.206,
+     "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
+     "valor_mercado": 0.099,
+     "arbitro": "Adrian Cordero Vega",
+     "arbitro_tarjetas": 6.7,
+     "posiciones": [
+      1,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.649
+    },
+    {
      "partido_id": 1575203,
      "fecha": "2026-10-31T18:30",
      "competicion": "Bundesliga",
@@ -276,6 +307,39 @@
      ],
      "contexto": "mejor_igualado",
      "prob_aprendida": 0.735
+    },
+    {
+     "partido_id": 1557448,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Bournemouth",
+     "visitante": "Leeds",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Ao Tanaka - 1",
+     "cuota": 1.28,
+     "frecuencia": 0.857,
+     "ventaja": 0.076,
+     "tipo": "jugador",
+     "jugador": "Ao Tanaka",
+     "equipo": "Leeds",
+     "jugador_id": 32966,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Ao Tanaka comete 1+ faltas",
+     "detalle": "Ao Tanaka 6/7",
+     "temporada": "6/7",
+     "movimiento": -0.111,
+     "cuota_inicial": 1.44,
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 3.6,
+     "posiciones": [
+      13,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.687
     },
     {
      "partido_id": 1557452,
@@ -340,125 +404,32 @@
      "prob_aprendida": 0.696
     },
     {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Ben Wilmot - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.8,
-     "ventaja": 0.133,
-     "tipo": "jugador",
-     "jugador": "Ben Wilmot",
-     "equipo": "Stoke City",
-     "jugador_id": 30800,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Ben Wilmot comete 1+ faltas",
-     "detalle": "Ben Wilmot 8/10",
-     "temporada": "10/13",
-     "movimiento": -0.318,
-     "cuota_inicial": 2.2,
-     "arbitro": "Adam Herczeg",
-     "arbitro_tarjetas": 4.4,
-     "posiciones": [
-      9,
-      24,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.615
-    },
-    {
-     "partido_id": 1575203,
-     "fecha": "2026-10-31T18:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "Borussia Dortmund",
-     "mercado": "Corners Over Under",
-     "opcion": "Over 9.5",
-     "tipo": "corners",
-     "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
-     "cuota": 1.73,
-     "frecuencia": 0.75,
-     "ventaja": 0.172,
-     "detalle": "Bayern München 7/10 · Borussia Dortmund 8/10",
-     "valor_mercado": 0.018,
-     "posiciones": [
-      1,
-      2,
-      18
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.625
-    },
-    {
-     "partido_id": 1557448,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Bournemouth",
-     "visitante": "Leeds",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Dominic Calvert-Lewin - 1",
+     "partido_id": 1570000,
+     "fecha": "2026-10-31T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Real Sociedad II",
+     "visitante": "Girona",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Girona o empate",
      "cuota": 1.28,
-     "frecuencia": 1.0,
-     "ventaja": 0.219,
-     "tipo": "jugador",
-     "jugador": "Dominic Calvert-Lewin",
-     "equipo": "Leeds",
-     "jugador_id": 18766,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Dominic Calvert-Lewin comete 1+ faltas",
-     "detalle": "Dominic Calvert-Lewin 8/8",
-     "temporada": "8/8",
-     "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.6,
+     "frecuencia": 0.85,
+     "ventaja": 0.069,
+     "detalle": "Real Sociedad II 8/10 · Girona 9/10",
+     "valor_mercado": -0.015,
+     "movimiento": -0.015,
+     "cuota_inicial": 1.3,
+     "arbitro": "Jose Antonio Sanchez Villalobos",
+     "arbitro_tarjetas": 7.0,
      "posiciones": [
-      13,
-      7,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.702
-    },
-    {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Luke Graham - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.8,
-     "ventaja": 0.106,
-     "tipo": "jugador",
-     "jugador": "Luke Graham",
-     "equipo": "Stoke City",
-     "jugador_id": 326968,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Luke Graham comete 1+ faltas",
-     "detalle": "Luke Graham 8/10",
-     "temporada": "9/12",
-     "movimiento": -0.111,
-     "cuota_inicial": 1.62,
-     "arbitro": "Adam Herczeg",
-     "arbitro_tarjetas": 4.4,
-     "posiciones": [
-      9,
-      24,
-      24
+      20,
+      4,
+      22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.633
+     "prob_aprendida": 0.698
     },
     {
      "partido_id": 1575203,
@@ -488,34 +459,6 @@
      ],
      "contexto": "mejor_igualado",
      "prob_aprendida": 0.644
-    },
-    {
-     "partido_id": 1570000,
-     "fecha": "2026-10-31T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Real Sociedad II",
-     "visitante": "Girona",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Girona o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.85,
-     "ventaja": 0.069,
-     "detalle": "Real Sociedad II 8/10 · Girona 9/10",
-     "valor_mercado": -0.023,
-     "movimiento": -0.015,
-     "cuota_inicial": 1.3,
-     "arbitro": "Jose Antonio Sanchez Villalobos",
-     "arbitro_tarjetas": 7.0,
-     "posiciones": [
-      20,
-      4,
-      22
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.691
     },
     {
      "partido_id": 1557456,
@@ -663,7 +606,7 @@
      "detalle": "Daniel Munoz 4/5",
      "temporada": "4/5",
      "arbitro": "Darren England",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       6,
       18,
@@ -671,6 +614,63 @@
      ],
      "contexto": "peor_abismo",
      "prob_aprendida": 0.677
+    },
+    {
+     "partido_id": 1575203,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "Borussia Dortmund",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 9.5",
+     "tipo": "corners",
+     "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Bayern München 7/10 · Borussia Dortmund 8/10",
+     "valor_mercado": -0.011,
+     "posiciones": [
+      1,
+      2,
+      18
+     ],
+     "contexto": "total_igualado",
+     "prob_aprendida": 0.615
+    },
+    {
+     "partido_id": 1557456,
+     "fecha": "2026-10-31T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Tottenham",
+     "visitante": "Crystal Palace",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Jan Paul van Hecke - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.889,
+     "ventaja": 0.194,
+     "tipo": "jugador",
+     "jugador": "Jan Paul van Hecke",
+     "equipo": "Tottenham",
+     "jugador_id": 38695,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Jan Paul van Hecke comete 1+ faltas",
+     "detalle": "Jan Paul van Hecke 8/9",
+     "temporada": "8/9",
+     "movimiento": -0.059,
+     "cuota_inicial": 1.53,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 3.1,
+     "posiciones": [
+      14,
+      17,
+      20
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.609
     },
     {
      "partido_id": 1557449,
@@ -694,7 +694,7 @@
      "detalle": "Vitaly Janelt 8/9",
      "temporada": "8/9",
      "arbitro": "Darren England",
-     "arbitro_tarjetas": 3.7,
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       6,
       18,
@@ -702,68 +702,6 @@
      ],
      "contexto": "mejor_abismo",
      "prob_aprendida": 0.638
-    },
-    {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Pedro Neto - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.875,
-     "ventaja": 0.208,
-     "tipo": "jugador",
-     "jugador": "Pedro Neto",
-     "equipo": "Chelsea",
-     "jugador_id": 1864,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Pedro Neto comete 1+ faltas",
-     "detalle": "Pedro Neto 7/8",
-     "temporada": "7/8",
-     "arbitro": "Peter Bankes",
-     "arbitro_tarjetas": 4.8,
-     "posiciones": [
-      5,
-      16,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.614
-    },
-    {
-     "partido_id": 1557448,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Bournemouth",
-     "visitante": "Leeds",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Ao Tanaka - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.857,
-     "ventaja": 0.163,
-     "tipo": "jugador",
-     "jugador": "Ao Tanaka",
-     "equipo": "Leeds",
-     "jugador_id": 32966,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Ao Tanaka comete 1+ faltas",
-     "detalle": "Ao Tanaka 6/7",
-     "temporada": "6/7",
-     "arbitro": "Michael Salisbury",
-     "arbitro_tarjetas": 3.6,
-     "posiciones": [
-      13,
-      7,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.62
     },
     {
      "partido_id": 1570434,
@@ -797,35 +735,32 @@
      "prob_aprendida": 0.631
     },
     {
-     "partido_id": 1557456,
-     "fecha": "2026-10-31T18:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Tottenham",
-     "visitante": "Crystal Palace",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Jan Paul van Hecke - 1",
-     "cuota": 1.53,
-     "frecuencia": 0.889,
-     "ventaja": 0.235,
-     "tipo": "jugador",
-     "jugador": "Jan Paul van Hecke",
-     "equipo": "Tottenham",
-     "jugador_id": 38695,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Jan Paul van Hecke comete 1+ faltas",
-     "detalle": "Jan Paul van Hecke 8/9",
-     "temporada": "8/9",
-     "arbitro": "Michael Oliver",
-     "arbitro_tarjetas": 3.1,
+     "partido_id": 1563228,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Portsmouth",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Portsmouth o empate",
+     "cuota": 1.57,
+     "frecuencia": 0.8,
+     "ventaja": 0.163,
+     "detalle": "Burnley 9/10 · Portsmouth 7/10",
+     "valor_mercado": -0.013,
+     "movimiento": -0.128,
+     "cuota_inicial": 1.8,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "posiciones": [
-      14,
-      17,
-      20
+      22,
+      12,
+      24
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.582
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.546
     },
     {
      "partido_id": 1569992,
@@ -853,7 +788,7 @@
       22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.606
     },
     {
      "partido_id": 1550186,
@@ -912,119 +847,6 @@
      "prob_aprendida": 0.55
     },
     {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Stoke City gana alguna de las dos partes",
-     "cuota": 1.44,
-     "frecuencia": 0.8,
-     "ventaja": 0.106,
-     "detalle": "Stoke City 7/10 · Preston 9/10",
-     "valor_mercado": 0.029,
-     "movimiento": 0.029,
-     "cuota_inicial": 1.4,
-     "arbitro": "Adam Herczeg",
-     "arbitro_tarjetas": 4.4,
-     "posiciones": [
-      9,
-      24,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.563
-    },
-    {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Pedro Neto - 1",
-     "cuota": 1.73,
-     "frecuencia": 0.875,
-     "ventaja": 0.297,
-     "tipo": "jugador",
-     "jugador": "Pedro Neto",
-     "equipo": "Chelsea",
-     "jugador_id": 1864,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Pedro Neto: 1+ tiros a puerta",
-     "detalle": "Pedro Neto 7/8",
-     "temporada": "7/8",
-     "arbitro": "Peter Bankes",
-     "arbitro_tarjetas": 4.8,
-     "posiciones": [
-      5,
-      16,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.528
-    },
-    {
-     "partido_id": 1563232,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Norwich",
-     "visitante": "Watford",
-     "mercado": "Away Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Watford ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "frecuencia": 0.833,
-     "ventaja": 0.18,
-     "detalle": "Norwich (en contra) 7/9 · Watford 8/9",
-     "valor_mercado": -0.025,
-     "arbitro": "Ben Speedie",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      20,
-      21,
-      24
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.558
-    },
-    {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Stoke City",
-     "cuota": 1.73,
-     "frecuencia": 0.65,
-     "ventaja": 0.072,
-     "detalle": "Stoke City 6/10 · Preston 7/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.036,
-     "cuota_inicial": 1.67,
-     "arbitro": "Adam Herczeg",
-     "arbitro_tarjetas": 4.4,
-     "posiciones": [
-      9,
-      24,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.53
-    },
-    {
      "partido_id": 1570439,
      "fecha": "2026-10-31T14:00",
      "competicion": "LaLiga",
@@ -1047,61 +869,7 @@
       20
      ],
      "contexto": "total_abismo",
-     "prob_aprendida": 0.555
-    },
-    {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Manchester United hace más de 3,5 córners",
-     "cuota": 1.62,
-     "frecuencia": 0.85,
-     "ventaja": 0.233,
-     "detalle": "Chelsea (en contra) 9/10 · Manchester United 8/10",
-     "valor_mercado": 0.045,
-     "arbitro": "Peter Bankes",
-     "arbitro_tarjetas": 4.8,
-     "posiciones": [
-      5,
-      16,
-      20
-     ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.497
-    },
-    {
-     "partido_id": 1563228,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Burnley",
-     "visitante": "Portsmouth",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Portsmouth o empate",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Burnley 9/10 · Portsmouth 7/10",
-     "valor_mercado": 0.031,
-     "movimiento": -0.072,
-     "cuota_inicial": 1.8,
-     "arbitro": "Ruebyn Ricardo",
-     "arbitro_tarjetas": 7.3,
-     "posiciones": [
-      22,
-      12,
-      24
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.468
+     "prob_aprendida": 0.554
     },
     {
      "partido_id": 1570000,
@@ -1127,7 +895,7 @@
       22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.469
+     "prob_aprendida": 0.47
     },
     {
      "partido_id": 1550186,
@@ -1152,7 +920,7 @@
       20
      ],
      "contexto": "total_abismo",
-     "prob_aprendida": 0.481
+     "prob_aprendida": 0.48
     },
     {
      "partido_id": 1570435,
@@ -1206,7 +974,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.548
+     "prob_aprendida": 0.549
     },
     {
      "partido_id": 1570000,
@@ -1232,7 +1000,7 @@
       22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.5
+     "prob_aprendida": 0.501
     },
     {
      "partido_id": 1557448,
@@ -1260,10 +1028,41 @@
       20
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.456
+     "prob_aprendida": 0.457
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1575208,
+     "fecha": "2026-10-31T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Borussia Mönchengladbach",
+     "visitante": "SC Paderborn 07",
+     "mercado": "Away Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.889,
+     "ventaja": 0.175,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 8/9",
+     "temporada": "8/9",
+     "movimiento": -0.136,
+     "cuota_inicial": 1.62,
+     "posiciones": [
+      18,
+      13,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.798
+    },
     {
      "partido_id": 1552208,
      "fecha": "2026-10-31T18:45",
@@ -1291,6 +1090,67 @@
      ],
      "contexto": "mejor_lejos",
      "prob_aprendida": 0.861
+    },
+    {
+     "partido_id": 1557449,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brentford",
+     "visitante": "Nottingham Forest",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brentford o empate",
+     "cuota": 1.33,
+     "frecuencia": 0.842,
+     "ventaja": 0.09,
+     "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
+     "valor_mercado": 0.0,
+     "movimiento": 0.039,
+     "cuota_inicial": 1.28,
+     "arbitro": "Darren England",
+     "arbitro_tarjetas": 3.6,
+     "posiciones": [
+      6,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.805
+    },
+    {
+     "partido_id": 1563237,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "West Ham",
+     "visitante": "West Brom",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Jarrod Bowen - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Jarrod Bowen",
+     "equipo": "West Ham",
+     "jugador_id": 19428,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Jarrod Bowen: 1+ tiros a puerta",
+     "detalle": "Jarrod Bowen 10/10",
+     "temporada": "12/13",
+     "movimiento": 0.0,
+     "cuota_inicial": 1.25,
+     "arbitro": "Robert Jones",
+     "arbitro_tarjetas": 2.7,
+     "posiciones": [
+      4,
+      6,
+      24
+     ],
+     "contexto": "mejor_igualado",
+     "prob_aprendida": 0.796
     },
     {
      "partido_id": 1570435,
@@ -1326,67 +1186,6 @@
      "prob_aprendida": 0.802
     },
     {
-     "partido_id": 1557449,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brentford",
-     "visitante": "Nottingham Forest",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Brentford o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.842,
-     "ventaja": 0.061,
-     "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
-     "valor_mercado": -0.038,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.28,
-     "arbitro": "Darren England",
-     "arbitro_tarjetas": 3.7,
-     "posiciones": [
-      6,
-      18,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.802
-    },
-    {
-     "partido_id": 1563237,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "West Ham",
-     "visitante": "West Brom",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Jarrod Bowen - 1",
-     "cuota": 1.3,
-     "frecuencia": 1.0,
-     "ventaja": 0.231,
-     "tipo": "jugador",
-     "jugador": "Jarrod Bowen",
-     "equipo": "West Ham",
-     "jugador_id": 19428,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Jarrod Bowen: 1+ tiros a puerta",
-     "detalle": "Jarrod Bowen 10/10",
-     "temporada": "12/13",
-     "movimiento": 0.04,
-     "cuota_inicial": 1.25,
-     "arbitro": "Robert Jones",
-     "arbitro_tarjetas": 2.7,
-     "posiciones": [
-      4,
-      6,
-      24
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.776
-    },
-    {
      "partido_id": 1557448,
      "fecha": "2026-10-31T16:00",
      "competicion": "Premier",
@@ -1417,7 +1216,7 @@
       20
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.738
+     "prob_aprendida": 0.737
     },
     {
      "partido_id": 1575209,
@@ -1449,32 +1248,6 @@
      "prob_aprendida": 0.729
     },
     {
-     "partido_id": 1570434,
-     "fecha": "2026-10-31T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Barcelona",
-     "visitante": "Alaves",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 0.5",
-     "tipo": "tarjetas",
-     "texto": "Barcelona ve más de 0,5 tarjetas",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
-     "valor_mercado": 0.099,
-     "arbitro": "Adrian Cordero Vega",
-     "arbitro_tarjetas": 6.7,
-     "posiciones": [
-      1,
-      7,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.65
-    },
-    {
      "partido_id": 1575203,
      "fecha": "2026-10-31T18:30",
      "competicion": "Bundesliga",
@@ -1502,6 +1275,32 @@
      ],
      "contexto": "peor_igualado",
      "prob_aprendida": 0.737
+    },
+    {
+     "partido_id": 1570434,
+     "fecha": "2026-10-31T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Barcelona",
+     "visitante": "Alaves",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 0.5",
+     "tipo": "tarjetas",
+     "texto": "Barcelona ve más de 0,5 tarjetas",
+     "cuota": 1.44,
+     "frecuencia": 0.9,
+     "ventaja": 0.206,
+     "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
+     "valor_mercado": 0.099,
+     "arbitro": "Adrian Cordero Vega",
+     "arbitro_tarjetas": 6.7,
+     "posiciones": [
+      1,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.649
     },
     {
      "partido_id": 1557452,
@@ -1537,39 +1336,6 @@
      "prob_aprendida": 0.713
     },
     {
-     "partido_id": 1563235,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Stoke City",
-     "visitante": "Preston",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Ben Wilmot - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.8,
-     "ventaja": 0.133,
-     "tipo": "jugador",
-     "jugador": "Ben Wilmot",
-     "equipo": "Stoke City",
-     "jugador_id": 30800,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Ben Wilmot comete 1+ faltas",
-     "detalle": "Ben Wilmot 8/10",
-     "temporada": "10/13",
-     "movimiento": -0.318,
-     "cuota_inicial": 2.2,
-     "arbitro": "Adam Herczeg",
-     "arbitro_tarjetas": 4.4,
-     "posiciones": [
-      9,
-      24,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.615
-    },
-    {
      "partido_id": 1570000,
      "fecha": "2026-10-31T14:00",
      "competicion": "Segunda",
@@ -1584,7 +1350,7 @@
      "frecuencia": 0.85,
      "ventaja": 0.069,
      "detalle": "Real Sociedad II 8/10 · Girona 9/10",
-     "valor_mercado": -0.023,
+     "valor_mercado": -0.015,
      "movimiento": -0.015,
      "cuota_inicial": 1.3,
      "arbitro": "Jose Antonio Sanchez Villalobos",
@@ -1595,7 +1361,7 @@
       22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.691
+     "prob_aprendida": 0.698
     },
     {
      "partido_id": 1557456,
@@ -1658,35 +1424,32 @@
      "prob_aprendida": 0.651
     },
     {
-     "partido_id": 1557450,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Chelsea",
-     "visitante": "Manchester United",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Pedro Neto - 1",
-     "cuota": 1.5,
-     "frecuencia": 0.875,
-     "ventaja": 0.208,
-     "tipo": "jugador",
-     "jugador": "Pedro Neto",
-     "equipo": "Chelsea",
-     "jugador_id": 1864,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Pedro Neto comete 1+ faltas",
-     "detalle": "Pedro Neto 7/8",
-     "temporada": "7/8",
-     "arbitro": "Peter Bankes",
-     "arbitro_tarjetas": 4.8,
+     "partido_id": 1563228,
+     "fecha": "2026-10-31T16:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Portsmouth",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Portsmouth o empate",
+     "cuota": 1.57,
+     "frecuencia": 0.8,
+     "ventaja": 0.163,
+     "detalle": "Burnley 9/10 · Portsmouth 7/10",
+     "valor_mercado": -0.013,
+     "movimiento": -0.128,
+     "cuota_inicial": 1.8,
+     "arbitro": "Ruebyn Ricardo",
+     "arbitro_tarjetas": 7.3,
      "posiciones": [
-      5,
-      16,
-      20
+      22,
+      12,
+      24
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.614
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.546
     },
     {
      "partido_id": 1569992,
@@ -1714,7 +1477,7 @@
       22
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.606
     },
     {
      "partido_id": 1550186,
@@ -1773,32 +1536,6 @@
      "prob_aprendida": 0.55
     },
     {
-     "partido_id": 1563232,
-     "fecha": "2026-10-31T13:30",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Norwich",
-     "visitante": "Watford",
-     "mercado": "Away Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Watford ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "frecuencia": 0.833,
-     "ventaja": 0.18,
-     "detalle": "Norwich (en contra) 7/9 · Watford 8/9",
-     "valor_mercado": -0.025,
-     "arbitro": "Ben Speedie",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      20,
-      21,
-      24
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.558
-    },
-    {
      "partido_id": 1570439,
      "fecha": "2026-10-31T14:00",
      "competicion": "LaLiga",
@@ -1821,39 +1558,80 @@
       20
      ],
      "contexto": "total_abismo",
-     "prob_aprendida": 0.555
-    },
-    {
-     "partido_id": 1563228,
-     "fecha": "2026-10-31T16:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Burnley",
-     "visitante": "Portsmouth",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Portsmouth o empate",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Burnley 9/10 · Portsmouth 7/10",
-     "valor_mercado": 0.031,
-     "movimiento": -0.072,
-     "cuota_inicial": 1.8,
-     "arbitro": "Ruebyn Ricardo",
-     "arbitro_tarjetas": 7.3,
-     "posiciones": [
-      22,
-      12,
-      24
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.468
+     "prob_aprendida": 0.554
     }
    ],
    "combis": {
     "segura": {
+     "picks": [
+      {
+       "partido_id": 1575208,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Borussia Mönchengladbach",
+       "visitante": "SC Paderborn 07",
+       "mercado": "Away Player Shots",
+       "opcion": "Santiago Castaneda - 1",
+       "cuota": 1.4,
+       "frecuencia": 0.889,
+       "ventaja": 0.175,
+       "tipo": "jugador",
+       "jugador": "Santiago Castaneda",
+       "equipo": "SC Paderborn 07",
+       "jugador_id": 363156,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Santiago Castaneda: 1+ tiros",
+       "detalle": "Santiago Castaneda 8/9",
+       "temporada": "8/9",
+       "movimiento": -0.136,
+       "cuota_inicial": 1.62,
+       "posiciones": [
+        18,
+        13,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.798
+      },
+      {
+       "partido_id": 1563237,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "West Ham",
+       "visitante": "West Brom",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Jarrod Bowen - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Jarrod Bowen",
+       "equipo": "West Ham",
+       "jugador_id": 19428,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Jarrod Bowen: 1+ tiros a puerta",
+       "detalle": "Jarrod Bowen 10/10",
+       "temporada": "12/13",
+       "movimiento": 0.0,
+       "cuota_inicial": 1.25,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 2.7,
+       "posiciones": [
+        4,
+        6,
+        24
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.796
+      }
+     ],
+     "cuota": 1.75
+    },
+    "cuota_3": {
      "picks": [
       {
        "partido_id": 1552208,
@@ -1915,72 +1693,6 @@
        ],
        "contexto": "mejor_abismo",
        "prob_aprendida": 0.802
-      }
-     ],
-     "cuota": 1.7
-    },
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1557449,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Brentford",
-       "visitante": "Nottingham Forest",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Brentford o empate",
-       "cuota": 1.28,
-       "frecuencia": 0.842,
-       "ventaja": 0.061,
-       "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
-       "valor_mercado": -0.038,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.28,
-       "arbitro": "Darren England",
-       "arbitro_tarjetas": 3.7,
-       "posiciones": [
-        6,
-        18,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.802
-      },
-      {
-       "partido_id": 1563237,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "West Ham",
-       "visitante": "West Brom",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Jarrod Bowen - 1",
-       "cuota": 1.3,
-       "frecuencia": 1.0,
-       "ventaja": 0.231,
-       "tipo": "jugador",
-       "jugador": "Jarrod Bowen",
-       "equipo": "West Ham",
-       "jugador_id": 19428,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Jarrod Bowen: 1+ tiros a puerta",
-       "detalle": "Jarrod Bowen 10/10",
-       "temporada": "12/13",
-       "movimiento": 0.04,
-       "cuota_inicial": 1.25,
-       "arbitro": "Robert Jones",
-       "arbitro_tarjetas": 2.7,
-       "posiciones": [
-        4,
-        6,
-        24
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.776
       },
       {
        "partido_id": 1570434,
@@ -2006,7 +1718,7 @@
         20
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.65
+       "prob_aprendida": 0.649
       },
       {
        "partido_id": 1570439,
@@ -2031,13 +1743,41 @@
         20
        ],
        "contexto": "total_abismo",
-       "prob_aprendida": 0.555
+       "prob_aprendida": 0.554
       }
      ],
-     "cuota": 3.35
+     "cuota": 3.43
     },
     "loca": {
      "picks": [
+      {
+       "partido_id": 1557449,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Brentford",
+       "visitante": "Nottingham Forest",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Brentford o empate",
+       "cuota": 1.33,
+       "frecuencia": 0.842,
+       "ventaja": 0.09,
+       "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
+       "valor_mercado": 0.0,
+       "movimiento": 0.039,
+       "cuota_inicial": 1.28,
+       "arbitro": "Darren England",
+       "arbitro_tarjetas": 3.6,
+       "posiciones": [
+        6,
+        18,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.805
+      },
       {
        "partido_id": 1557448,
        "fecha": "2026-10-31T16:00",
@@ -2069,7 +1809,7 @@
         20
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.738
+       "prob_aprendida": 0.737
       },
       {
        "partido_id": 1575209,
@@ -2101,30 +1841,6 @@
        "prob_aprendida": 0.729
       },
       {
-       "partido_id": 1575203,
-       "fecha": "2026-10-31T18:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Bayern München",
-       "visitante": "Borussia Dortmund",
-       "mercado": "Corners Over Under",
-       "opcion": "Over 9.5",
-       "tipo": "corners",
-       "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
-       "cuota": 1.73,
-       "frecuencia": 0.75,
-       "ventaja": 0.172,
-       "detalle": "Bayern München 7/10 · Borussia Dortmund 8/10",
-       "valor_mercado": 0.018,
-       "posiciones": [
-        1,
-        2,
-        18
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.625
-      },
-      {
        "partido_id": 1570000,
        "fecha": "2026-10-31T14:00",
        "competicion": "Segunda",
@@ -2139,7 +1855,7 @@
        "frecuencia": 0.85,
        "ventaja": 0.069,
        "detalle": "Real Sociedad II 8/10 · Girona 9/10",
-       "valor_mercado": -0.023,
+       "valor_mercado": -0.015,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
        "arbitro": "Jose Antonio Sanchez Villalobos",
@@ -2150,64 +1866,59 @@
         22
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.691
+       "prob_aprendida": 0.698
       },
       {
-       "partido_id": 1569992,
-       "fecha": "2026-10-31T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Albacete",
-       "visitante": "Sabadell",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Sabadell o empate",
-       "cuota": 1.57,
+       "partido_id": 1575203,
+       "fecha": "2026-10-31T18:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Bayern München",
+       "visitante": "Borussia Dortmund",
+       "mercado": "Corners Over Under",
+       "opcion": "Over 9.5",
+       "tipo": "corners",
+       "texto": "Más de 9,5 córners en Bayern München–Borussia Dortmund",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Bayern München 7/10 · Borussia Dortmund 8/10",
+       "valor_mercado": -0.011,
+       "posiciones": [
+        1,
+        2,
+        18
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.615
+      },
+      {
+       "partido_id": 1550186,
+       "fecha": "2026-10-31T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Udinese",
+       "visitante": "AS Roma",
+       "mercado": "Total Shots",
+       "opcion": "Over 26.5",
+       "tipo": "tiros",
+       "texto": "Más de 26,5 tiros en Udinese–AS Roma",
+       "cuota": 1.73,
        "frecuencia": 0.85,
-       "ventaja": 0.213,
-       "detalle": "Albacete 9/10 · Sabadell 8/10",
-       "valor_mercado": 0.013,
-       "movimiento": 0.121,
-       "cuota_inicial": 1.4,
-       "arbitro": "Andres Fuentes Molina",
-       "arbitro_tarjetas": 7.6,
+       "ventaja": 0.272,
+       "detalle": "Udinese 10/10 · AS Roma 7/10",
+       "arbitro": "Fabio Maresca",
+       "arbitro_tarjetas": 5.0,
        "posiciones": [
-        22,
-        10,
-        22
+        17,
+        3,
+        20
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.605
-      },
-      {
-       "partido_id": 1563232,
-       "fecha": "2026-10-31T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Norwich",
-       "visitante": "Watford",
-       "mercado": "Away Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Watford ve más de 1,5 tarjetas",
-       "cuota": 1.53,
-       "frecuencia": 0.833,
-       "ventaja": 0.18,
-       "detalle": "Norwich (en contra) 7/9 · Watford 8/9",
-       "valor_mercado": -0.025,
-       "arbitro": "Ben Speedie",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        20,
-        21,
-        24
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.558
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.48
       }
      ],
-     "cuota": 8.64
+     "cuota": 8.28
     },
     "doble": {
      "picks": [
@@ -2248,24 +1959,24 @@
        "visitante": "Nottingham Forest",
        "mercado": "Double Chance",
        "opcion": "Home/Draw",
-       "cuota": 1.28,
+       "cuota": 1.33,
        "frecuencia": 0.842,
-       "ventaja": 0.061,
+       "ventaja": 0.09,
        "tipo": "resultado",
        "texto": "Brentford o empate",
        "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
-       "valor_mercado": -0.038,
-       "movimiento": 0.0,
+       "valor_mercado": 0.0,
+       "movimiento": 0.039,
        "cuota_inicial": 1.28,
        "arbitro": "Darren England",
-       "arbitro_tarjetas": 3.7,
+       "arbitro_tarjetas": 3.6,
        "posiciones": [
         6,
         18,
         20
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.802
+       "prob_aprendida": 0.805
       },
       {
        "partido_id": 1552211,
@@ -2310,7 +2021,7 @@
        "tipo": "resultado",
        "texto": "Girona o empate",
        "detalle": "Real Sociedad II 8/10 · Girona 9/10",
-       "valor_mercado": -0.023,
+       "valor_mercado": -0.015,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
        "arbitro": "Jose Antonio Sanchez Villalobos",
@@ -2321,7 +2032,35 @@
         22
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.691
+       "prob_aprendida": 0.698
+      },
+      {
+       "partido_id": 1563228,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Burnley",
+       "visitante": "Portsmouth",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 1.57,
+       "frecuencia": 0.8,
+       "ventaja": 0.163,
+       "tipo": "resultado",
+       "texto": "Portsmouth o empate",
+       "detalle": "Burnley 9/10 · Portsmouth 7/10",
+       "valor_mercado": -0.013,
+       "movimiento": -0.128,
+       "cuota_inicial": 1.8,
+       "arbitro": "Ruebyn Ricardo",
+       "arbitro_tarjetas": 7.3,
+       "posiciones": [
+        22,
+        12,
+        24
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.546
       },
       {
        "partido_id": 1569992,
@@ -2349,43 +2088,43 @@
         22
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.605
-      },
-      {
-       "partido_id": 1570441,
-       "fecha": "2026-10-31T16:15",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Rayo Vallecano",
-       "visitante": "Celta Vigo",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.53,
-       "frecuencia": 0.75,
-       "ventaja": 0.096,
-       "tipo": "resultado",
-       "texto": "Celta Vigo o empate",
-       "detalle": "Rayo Vallecano 7/10 · Celta Vigo 8/10",
-       "valor_mercado": -0.025,
-       "movimiento": -0.056,
-       "cuota_inicial": 1.62,
-       "arbitro": "Manuel Jesus Orellana Cid",
-       "arbitro_tarjetas": 6.0,
-       "posiciones": [
-        17,
-        9,
-        20
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.55
+       "prob_aprendida": 0.606
       }
      ],
-     "cuota": 8.67
+     "cuota": 9.25
     }
    },
    "estilos": {
     "tema": {
      "picks": [
+      {
+       "partido_id": 1569992,
+       "fecha": "2026-10-31T21:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Albacete",
+       "visitante": "Sabadell",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Sabadell o empate",
+       "cuota": 1.57,
+       "frecuencia": 0.85,
+       "ventaja": 0.213,
+       "detalle": "Albacete 9/10 · Sabadell 8/10",
+       "valor_mercado": 0.013,
+       "movimiento": 0.121,
+       "cuota_inicial": 1.4,
+       "arbitro": "Andres Fuentes Molina",
+       "arbitro_tarjetas": 7.6,
+       "posiciones": [
+        22,
+        10,
+        22
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.606
+      },
       {
        "partido_id": 1552207,
        "fecha": "2026-10-31T16:30",
@@ -2411,35 +2150,9 @@
        ],
        "contexto": "peor_lejos",
        "prob_aprendida": 0.448
-      },
-      {
-       "partido_id": 1570000,
-       "fecha": "2026-10-31T14:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Real Sociedad II",
-       "visitante": "Girona",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Girona",
-       "cuota": 2.0,
-       "frecuencia": 0.65,
-       "ventaja": 0.15,
-       "detalle": "Real Sociedad II 6/10 · Girona 7/10",
-       "valor_mercado": -0.015,
-       "arbitro": "Jose Antonio Sanchez Villalobos",
-       "arbitro_tarjetas": 7.0,
-       "posiciones": [
-        20,
-        4,
-        22
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.469
       }
      ],
-     "cuota": 4.5,
+     "cuota": 3.53,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
@@ -2456,12 +2169,12 @@
        "opcion": "Home/Draw",
        "tipo": "resultado",
        "texto": "Werder Bremen o empate",
-       "cuota": 1.57,
+       "cuota": 1.5,
        "frecuencia": 0.684,
-       "ventaja": 0.047,
+       "ventaja": 0.018,
        "detalle": "Werder Bremen 7/9 · 1899 Hoffenheim 6/10",
-       "valor_mercado": -0.031,
-       "movimiento": -0.06,
+       "valor_mercado": -0.02,
+       "movimiento": -0.102,
        "cuota_inicial": 1.67,
        "posiciones": [
         7,
@@ -2469,7 +2182,7 @@
         18
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.763
+       "prob_aprendida": 0.788
       },
       {
        "partido_id": 1575203,
@@ -2530,12 +2243,124 @@
        "prob_aprendida": 0.651
       }
      ],
-     "cuota": 3.55,
+     "cuota": 3.39,
      "titulo": "🇩🇪 COMBI BUNDESLIGA",
      "liga": "Bundesliga"
     },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1575203,
+       "fecha": "2026-10-31T18:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Bayern München",
+       "visitante": "Borussia Dortmund",
+       "mercado": "Corners Over Under",
+       "opcion": "Over 10",
+       "tipo": "corners",
+       "texto": "Más de 10 córners en Bayern München–Borussia Dortmund",
+       "cuota": 1.95,
+       "frecuencia": 0.65,
+       "ventaja": 0.137,
+       "detalle": "Bayern München 7/10 · Borussia Dortmund 6/10",
+       "valor_mercado": -0.015,
+       "posiciones": [
+        1,
+        2,
+        18
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.578
+      },
+      {
+       "partido_id": 1575532,
+       "fecha": "2026-10-31T21:30",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "FC Porto",
+       "visitante": "Estoril",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 2.5",
+       "tipo": "corners",
+       "texto": "Estoril hace más de 2,5 córners",
+       "cuota": 1.8,
+       "frecuencia": 0.684,
+       "ventaja": 0.129,
+       "detalle": "FC Porto (en contra) 6/10 · Estoril 7/9",
+       "valor_mercado": 0.017,
+       "arbitro": "Miguel Bertolo Nogueira",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        1,
+        18,
+        18
+       ],
+       "contexto": "peor_abismo",
+       "prob_aprendida": 0.514
+      },
+      {
+       "partido_id": 1570000,
+       "fecha": "2026-10-31T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Real Sociedad II",
+       "visitante": "Girona",
+       "mercado": "Match Winner",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Gana el Girona",
+       "cuota": 2.0,
+       "frecuencia": 0.65,
+       "ventaja": 0.15,
+       "detalle": "Real Sociedad II 6/10 · Girona 7/10",
+       "valor_mercado": -0.015,
+       "arbitro": "Jose Antonio Sanchez Villalobos",
+       "arbitro_tarjetas": 7.0,
+       "posiciones": [
+        20,
+        4,
+        22
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.47
+      }
+     ],
+     "cuota": 7.02
+    },
     "500": {
      "picks": [
+      {
+       "partido_id": 1575208,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Borussia Mönchengladbach",
+       "visitante": "SC Paderborn 07",
+       "mercado": "Away Player Shots",
+       "opcion": "Santiago Castaneda - 1",
+       "cuota": 1.4,
+       "frecuencia": 0.889,
+       "ventaja": 0.175,
+       "tipo": "jugador",
+       "jugador": "Santiago Castaneda",
+       "equipo": "SC Paderborn 07",
+       "jugador_id": 363156,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Santiago Castaneda: 1+ tiros",
+       "detalle": "Santiago Castaneda 8/9",
+       "temporada": "8/9",
+       "movimiento": -0.136,
+       "cuota_inicial": 1.62,
+       "posiciones": [
+        18,
+        13,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.798
+      },
       {
        "partido_id": 1552208,
        "fecha": "2026-10-31T18:45",
@@ -2575,12 +2400,12 @@
        "opcion": "Home/Draw",
        "tipo": "resultado",
        "texto": "Werder Bremen o empate",
-       "cuota": 1.57,
+       "cuota": 1.5,
        "frecuencia": 0.684,
-       "ventaja": 0.047,
+       "ventaja": 0.018,
        "detalle": "Werder Bremen 7/9 · 1899 Hoffenheim 6/10",
-       "valor_mercado": -0.031,
-       "movimiento": -0.06,
+       "valor_mercado": -0.02,
+       "movimiento": -0.102,
        "cuota_inicial": 1.67,
        "posiciones": [
         7,
@@ -2588,7 +2413,68 @@
         18
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.763
+       "prob_aprendida": 0.788
+      },
+      {
+       "partido_id": 1557449,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Brentford",
+       "visitante": "Nottingham Forest",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Brentford o empate",
+       "cuota": 1.33,
+       "frecuencia": 0.842,
+       "ventaja": 0.09,
+       "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
+       "valor_mercado": 0.0,
+       "movimiento": 0.039,
+       "cuota_inicial": 1.28,
+       "arbitro": "Darren England",
+       "arbitro_tarjetas": 3.6,
+       "posiciones": [
+        6,
+        18,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.805
+      },
+      {
+       "partido_id": 1563237,
+       "fecha": "2026-10-31T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "West Ham",
+       "visitante": "West Brom",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Jarrod Bowen - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Jarrod Bowen",
+       "equipo": "West Ham",
+       "jugador_id": 19428,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Jarrod Bowen: 1+ tiros a puerta",
+       "detalle": "Jarrod Bowen 10/10",
+       "temporada": "12/13",
+       "movimiento": 0.0,
+       "cuota_inicial": 1.25,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 2.7,
+       "posiciones": [
+        4,
+        6,
+        24
+       ],
+       "contexto": "mejor_igualado",
+       "prob_aprendida": 0.796
       },
       {
        "partido_id": 1570435,
@@ -2622,67 +2508,6 @@
        ],
        "contexto": "mejor_abismo",
        "prob_aprendida": 0.802
-      },
-      {
-       "partido_id": 1557449,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Brentford",
-       "visitante": "Nottingham Forest",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Brentford o empate",
-       "cuota": 1.28,
-       "frecuencia": 0.842,
-       "ventaja": 0.061,
-       "detalle": "Brentford 8/10 · Nottingham Forest 8/9",
-       "valor_mercado": -0.038,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.28,
-       "arbitro": "Darren England",
-       "arbitro_tarjetas": 3.7,
-       "posiciones": [
-        6,
-        18,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.802
-      },
-      {
-       "partido_id": 1563237,
-       "fecha": "2026-10-31T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "West Ham",
-       "visitante": "West Brom",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Jarrod Bowen - 1",
-       "cuota": 1.3,
-       "frecuencia": 1.0,
-       "ventaja": 0.231,
-       "tipo": "jugador",
-       "jugador": "Jarrod Bowen",
-       "equipo": "West Ham",
-       "jugador_id": 19428,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Jarrod Bowen: 1+ tiros a puerta",
-       "detalle": "Jarrod Bowen 10/10",
-       "temporada": "12/13",
-       "movimiento": 0.04,
-       "cuota_inicial": 1.25,
-       "arbitro": "Robert Jones",
-       "arbitro_tarjetas": 2.7,
-       "posiciones": [
-        4,
-        6,
-        24
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.776
       },
       {
        "partido_id": 1552211,
@@ -2743,33 +2568,7 @@
         20
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.738
-      },
-      {
-       "partido_id": 1570434,
-       "fecha": "2026-10-31T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Barcelona",
-       "visitante": "Alaves",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 0.5",
-       "tipo": "tarjetas",
-       "texto": "Barcelona ve más de 0,5 tarjetas",
-       "cuota": 1.44,
-       "frecuencia": 0.9,
-       "ventaja": 0.206,
-       "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
-       "valor_mercado": 0.099,
-       "arbitro": "Adrian Cordero Vega",
-       "arbitro_tarjetas": 6.7,
-       "posiciones": [
-        1,
-        7,
-        20
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.65
+       "prob_aprendida": 0.737
       },
       {
        "partido_id": 1575203,
@@ -2799,6 +2598,32 @@
        ],
        "contexto": "peor_igualado",
        "prob_aprendida": 0.737
+      },
+      {
+       "partido_id": 1570434,
+       "fecha": "2026-10-31T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Barcelona",
+       "visitante": "Alaves",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 0.5",
+       "tipo": "tarjetas",
+       "texto": "Barcelona ve más de 0,5 tarjetas",
+       "cuota": 1.44,
+       "frecuencia": 0.9,
+       "ventaja": 0.206,
+       "detalle": "Barcelona 8/10 · Alaves (en contra) 10/10",
+       "valor_mercado": 0.099,
+       "arbitro": "Adrian Cordero Vega",
+       "arbitro_tarjetas": 6.7,
+       "posiciones": [
+        1,
+        7,
+        20
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.649
       },
       {
        "partido_id": 1557452,
@@ -2834,39 +2659,6 @@
        "prob_aprendida": 0.713
       },
       {
-       "partido_id": 1563235,
-       "fecha": "2026-10-31T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Stoke City",
-       "visitante": "Preston",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Ben Wilmot - 1",
-       "cuota": 1.5,
-       "frecuencia": 0.8,
-       "ventaja": 0.133,
-       "tipo": "jugador",
-       "jugador": "Ben Wilmot",
-       "equipo": "Stoke City",
-       "jugador_id": 30800,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Ben Wilmot comete 1+ faltas",
-       "detalle": "Ben Wilmot 8/10",
-       "temporada": "10/13",
-       "movimiento": -0.318,
-       "cuota_inicial": 2.2,
-       "arbitro": "Adam Herczeg",
-       "arbitro_tarjetas": 4.4,
-       "posiciones": [
-        9,
-        24,
-        24
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.615
-      },
-      {
        "partido_id": 1570000,
        "fecha": "2026-10-31T14:00",
        "competicion": "Segunda",
@@ -2881,7 +2673,7 @@
        "frecuencia": 0.85,
        "ventaja": 0.069,
        "detalle": "Real Sociedad II 8/10 · Girona 9/10",
-       "valor_mercado": -0.023,
+       "valor_mercado": -0.015,
        "movimiento": -0.015,
        "cuota_inicial": 1.3,
        "arbitro": "Jose Antonio Sanchez Villalobos",
@@ -2892,85 +2684,35 @@
         22
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.691
+       "prob_aprendida": 0.698
       },
       {
-       "partido_id": 1575208,
-       "fecha": "2026-10-31T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Borussia Mönchengladbach",
-       "visitante": "SC Paderborn 07",
-       "mercado": "Home Corners Over/Under",
-       "opcion": "Over 4.5",
-       "tipo": "corners",
-       "texto": "Borussia Mönchengladbach hace más de 4,5 córners",
-       "cuota": 1.67,
-       "frecuencia": 0.722,
-       "ventaja": 0.123,
-       "detalle": "Borussia Mönchengladbach 6/9 · SC Paderborn 07 (en contra) 7/9",
-       "valor_mercado": 0.031,
-       "posiciones": [
-        18,
-        13,
-        18
-       ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.594
-      },
-      {
-       "partido_id": 1563232,
-       "fecha": "2026-10-31T13:30",
+       "partido_id": 1563228,
+       "fecha": "2026-10-31T16:00",
        "competicion": "Championship",
        "liga_id": 40,
-       "local": "Norwich",
-       "visitante": "Watford",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "corners",
-       "texto": "Watford hace más de 2,5 córners",
-       "cuota": 1.62,
-       "frecuencia": 0.7,
-       "ventaja": 0.083,
-       "detalle": "Norwich (en contra) 7/10 · Watford 7/10",
-       "valor_mercado": 0.073,
-       "arbitro": "Ben Speedie",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        20,
-        21,
-        24
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.557
-      },
-      {
-       "partido_id": 1569992,
-       "fecha": "2026-10-31T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Albacete",
-       "visitante": "Sabadell",
+       "local": "Burnley",
+       "visitante": "Portsmouth",
        "mercado": "Double Chance",
        "opcion": "Draw/Away",
        "tipo": "resultado",
-       "texto": "Sabadell o empate",
+       "texto": "Portsmouth o empate",
        "cuota": 1.57,
-       "frecuencia": 0.85,
-       "ventaja": 0.213,
-       "detalle": "Albacete 9/10 · Sabadell 8/10",
-       "valor_mercado": 0.013,
-       "movimiento": 0.121,
-       "cuota_inicial": 1.4,
-       "arbitro": "Andres Fuentes Molina",
-       "arbitro_tarjetas": 7.6,
+       "frecuencia": 0.8,
+       "ventaja": 0.163,
+       "detalle": "Burnley 9/10 · Portsmouth 7/10",
+       "valor_mercado": -0.013,
+       "movimiento": -0.128,
+       "cuota_inicial": 1.8,
+       "arbitro": "Ruebyn Ricardo",
+       "arbitro_tarjetas": 7.3,
        "posiciones": [
         22,
-        10,
-        22
+        12,
+        24
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.605
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.546
       },
       {
        "partido_id": 1552207,
@@ -3013,7 +2755,7 @@
        "frecuencia": 0.684,
        "ventaja": 0.129,
        "detalle": "FC Porto (en contra) 6/10 · Estoril 7/9",
-       "valor_mercado": 0.029,
+       "valor_mercado": 0.017,
        "arbitro": "Miguel Bertolo Nogueira",
        "arbitro_tarjetas": null,
        "posiciones": [
@@ -3022,75 +2764,66 @@
         18
        ],
        "contexto": "peor_abismo",
-       "prob_aprendida": 0.498
+       "prob_aprendida": 0.514
+      },
+      {
+       "partido_id": 1570439,
+       "fecha": "2026-10-31T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Levante",
+       "visitante": "Atletico Madrid",
+       "mercado": "Shots.1x2",
+       "opcion": "Away",
+       "tipo": "tiros",
+       "texto": "Atletico Madrid hace más tiros",
+       "cuota": 1.4,
+       "frecuencia": 0.75,
+       "ventaja": 0.036,
+       "detalle": "Levante 7/10 · Atletico Madrid 8/10",
+       "arbitro": "Ricardo De Burgos Bengoetxea",
+       "arbitro_tarjetas": 4.6,
+       "posiciones": [
+        15,
+        2,
+        20
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.554
+      },
+      {
+       "partido_id": 1575210,
+       "fecha": "2026-10-31T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FC Schalke 04",
+       "visitante": "RB Leipzig",
+       "mercado": "Shots.1x2",
+       "opcion": "Away",
+       "tipo": "tiros",
+       "texto": "RB Leipzig hace más tiros",
+       "cuota": 1.5,
+       "frecuencia": 0.684,
+       "ventaja": 0.018,
+       "detalle": "FC Schalke 04 7/9 · RB Leipzig 6/10",
+       "movimiento": -0.102,
+       "cuota_inicial": 1.67,
+       "posiciones": [
+        16,
+        6,
+        18
+       ],
+       "contexto": "total_abismo",
+       "prob_aprendida": 0.504
       }
      ],
-     "cuota": 695.07
+     "cuota": 480.68
     }
    },
    "combis_partido": []
   },
   "2026-11-01": {
    "picks": [
-    {
-     "partido_id": 1570433,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Real Sociedad",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Robert Navarro - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Robert Navarro",
-     "equipo": "Athletic Club",
-     "jugador_id": 84086,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Robert Navarro: 1+ tiros a puerta",
-     "detalle": "Robert Navarro 6/7",
-     "temporada": "6/7",
-     "movimiento": -0.108,
-     "cuota_inicial": 1.57,
-     "posiciones": [
-      8,
-      5,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.698
-    },
-    {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.44,
-     "frecuencia": 0.7,
-     "ventaja": 0.006,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": 0.0,
-     "movimiento": -0.027,
-     "cuota_inicial": 1.48,
-     "arbitro": "Andrea Colombo",
-     "arbitro_tarjetas": 3.8,
-     "posiciones": [
-      2,
-      10,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.715
-    },
     {
      "partido_id": 1550180,
      "fecha": "2026-11-01T12:30",
@@ -3117,7 +2850,38 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.735
+     "prob_aprendida": 0.736
+    },
+    {
+     "partido_id": 1570433,
+     "fecha": "2026-11-01T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Real Sociedad",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Robert Navarro - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.857,
+     "ventaja": 0.163,
+     "tipo": "jugador",
+     "jugador": "Robert Navarro",
+     "equipo": "Athletic Club",
+     "jugador_id": 84086,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Robert Navarro: 1+ tiros a puerta",
+     "detalle": "Robert Navarro 6/7",
+     "temporada": "6/7",
+     "movimiento": -0.083,
+     "cuota_inicial": 1.57,
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.686
     },
     {
      "partido_id": 1575207,
@@ -3140,13 +2904,15 @@
      "texto": "Rani Khedira comete 1+ faltas",
      "detalle": "Rani Khedira 9/9",
      "temporada": "9/9",
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
       18
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.744
+     "prob_aprendida": 0.743
     },
     {
      "partido_id": 1575207,
@@ -3171,6 +2937,8 @@
      "temporada": "6/7",
      "movimiento": 0.071,
      "cuota_inicial": 1.4,
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
@@ -3231,13 +2999,15 @@
      "texto": "Said El Mala comete 1+ faltas",
      "detalle": "Said El Mala 6/7",
      "temporada": "6/7",
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
       18
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.669
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1575207,
@@ -3260,6 +3030,8 @@
      "texto": "Zeno Van Den Bosch comete 1+ faltas",
      "detalle": "Zeno Van Den Bosch 6/7",
      "temporada": "6/7",
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
@@ -3289,6 +3061,8 @@
      "texto": "David Wolfe comete 1+ faltas",
      "detalle": "David Wolfe 6/7",
      "temporada": "6/7",
+     "arbitro": "Florian Exner",
+     "arbitro_tarjetas": 5.3,
      "posiciones": [
       14,
       11,
@@ -3324,7 +3098,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.625
+     "prob_aprendida": 0.626
     },
     {
      "partido_id": 1570438,
@@ -3350,7 +3124,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.635
+     "prob_aprendida": 0.636
     },
     {
      "partido_id": 1575528,
@@ -3378,7 +3152,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.533
+     "prob_aprendida": 0.534
     },
     {
      "partido_id": 1552214,
@@ -3427,6 +3201,8 @@
      "texto": "Marius Bulter comete 1+ faltas",
      "detalle": "Marius Bulter 5/6",
      "temporada": "5/6",
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
@@ -3487,7 +3263,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.49
+     "prob_aprendida": 0.491
     },
     {
      "partido_id": 1550184,
@@ -3540,69 +3316,10 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.419
+     "prob_aprendida": 0.42
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1570433,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Real Sociedad",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Robert Navarro - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Robert Navarro",
-     "equipo": "Athletic Club",
-     "jugador_id": 84086,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Robert Navarro: 1+ tiros a puerta",
-     "detalle": "Robert Navarro 6/7",
-     "temporada": "6/7",
-     "movimiento": -0.108,
-     "cuota_inicial": 1.57,
-     "posiciones": [
-      8,
-      5,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.698
-    },
-    {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.44,
-     "frecuencia": 0.7,
-     "ventaja": 0.006,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": 0.0,
-     "movimiento": -0.027,
-     "cuota_inicial": 1.48,
-     "arbitro": "Andrea Colombo",
-     "arbitro_tarjetas": 3.8,
-     "posiciones": [
-      2,
-      10,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.715
-    },
     {
      "partido_id": 1550180,
      "fecha": "2026-11-01T12:30",
@@ -3629,7 +3346,38 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.735
+     "prob_aprendida": 0.736
+    },
+    {
+     "partido_id": 1570433,
+     "fecha": "2026-11-01T21:00",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Athletic Club",
+     "visitante": "Real Sociedad",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Robert Navarro - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.857,
+     "ventaja": 0.163,
+     "tipo": "jugador",
+     "jugador": "Robert Navarro",
+     "equipo": "Athletic Club",
+     "jugador_id": 84086,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Robert Navarro: 1+ tiros a puerta",
+     "detalle": "Robert Navarro 6/7",
+     "temporada": "6/7",
+     "movimiento": -0.083,
+     "cuota_inicial": 1.57,
+     "posiciones": [
+      8,
+      5,
+      20
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.686
     },
     {
      "partido_id": 1575207,
@@ -3652,13 +3400,15 @@
      "texto": "Rani Khedira comete 1+ faltas",
      "detalle": "Rani Khedira 9/9",
      "temporada": "9/9",
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       17,
       12,
       18
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.744
+     "prob_aprendida": 0.743
     },
     {
      "partido_id": 1550181,
@@ -3712,6 +3462,8 @@
      "texto": "David Wolfe comete 1+ faltas",
      "detalle": "David Wolfe 6/7",
      "temporada": "6/7",
+     "arbitro": "Florian Exner",
+     "arbitro_tarjetas": 5.3,
      "posiciones": [
       14,
       11,
@@ -3744,7 +3496,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.635
+     "prob_aprendida": 0.636
     },
     {
      "partido_id": 1575528,
@@ -3772,7 +3524,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.533
+     "prob_aprendida": 0.534
     },
     {
      "partido_id": 1552214,
@@ -3826,7 +3578,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.49
+     "prob_aprendida": 0.491
     },
     {
      "partido_id": 1550184,
@@ -3879,42 +3631,39 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.419
+     "prob_aprendida": 0.42
     }
    ],
    "combis": {
     "segura": {
      "picks": [
       {
-       "partido_id": 1570433,
-       "fecha": "2026-11-01T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Athletic Club",
-       "visitante": "Real Sociedad",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Robert Navarro - 1",
-       "cuota": 1.4,
-       "frecuencia": 0.857,
-       "ventaja": 0.143,
-       "tipo": "jugador",
-       "jugador": "Robert Navarro",
-       "equipo": "Athletic Club",
-       "jugador_id": 84086,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Robert Navarro: 1+ tiros a puerta",
-       "detalle": "Robert Navarro 6/7",
-       "temporada": "6/7",
-       "movimiento": -0.108,
-       "cuota_inicial": 1.57,
+       "partido_id": 1550180,
+       "fecha": "2026-11-01T12:30",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Venezia",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Como",
+       "cuota": 1.3,
+       "frecuencia": 0.8,
+       "ventaja": 0.031,
+       "detalle": "Como 7/10 · Venezia 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.023,
+       "cuota_inicial": 1.33,
+       "arbitro": "Maria Sole Ferrieri Caputi",
+       "arbitro_tarjetas": null,
        "posiciones": [
-        8,
-        5,
+        4,
+        20,
         20
        ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.698
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.736
       },
       {
        "partido_id": 1575207,
@@ -3937,47 +3686,108 @@
        "texto": "Rani Khedira comete 1+ faltas",
        "detalle": "Rani Khedira 9/9",
        "temporada": "9/9",
+       "arbitro": "Richard Hempel",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         17,
         12,
         18
        ],
        "contexto": "peor_lejos",
-       "prob_aprendida": 0.744
+       "prob_aprendida": 0.743
       }
      ],
-     "cuota": 1.75
+     "cuota": 1.62
     },
     "cuota_3": {
      "picks": [
       {
-       "partido_id": 1550183,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Cagliari",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
+       "partido_id": 1570433,
+       "fecha": "2026-11-01T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Athletic Club",
+       "visitante": "Real Sociedad",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Robert Navarro - 1",
        "cuota": 1.44,
-       "frecuencia": 0.7,
-       "ventaja": 0.006,
-       "detalle": "Lazio 9/10 · Cagliari 5/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.027,
-       "cuota_inicial": 1.48,
-       "arbitro": "Andrea Colombo",
-       "arbitro_tarjetas": 3.8,
+       "frecuencia": 0.857,
+       "ventaja": 0.163,
+       "tipo": "jugador",
+       "jugador": "Robert Navarro",
+       "equipo": "Athletic Club",
+       "jugador_id": 84086,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Robert Navarro: 1+ tiros a puerta",
+       "detalle": "Robert Navarro 6/7",
+       "temporada": "6/7",
+       "movimiento": -0.083,
+       "cuota_inicial": 1.57,
        "posiciones": [
-        2,
-        10,
+        8,
+        5,
         20
        ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.715
+       "contexto": "peor_igualado",
+       "prob_aprendida": 0.686
       },
+      {
+       "partido_id": 1570438,
+       "fecha": "2026-11-01T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Getafe",
+       "visitante": "Sevilla",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Sevilla o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.75,
+       "ventaja": 0.015,
+       "detalle": "Getafe 8/10 · Sevilla 7/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.029,
+       "cuota_inicial": 1.4,
+       "posiciones": [
+        18,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.636
+      },
+      {
+       "partido_id": 1550184,
+       "fecha": "2026-11-01T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Lecce",
+       "visitante": "Genoa",
+       "mercado": "Total Shots",
+       "opcion": "Over 23.5",
+       "tipo": "tiros",
+       "texto": "Más de 23,5 tiros en Lecce–Genoa",
+       "cuota": 1.8,
+       "frecuencia": 0.75,
+       "ventaja": 0.194,
+       "detalle": "Lecce 8/10 · Genoa 7/10",
+       "arbitro": "Matteo Marchetti",
+       "arbitro_tarjetas": 1.0,
+       "posiciones": [
+        14,
+        13,
+        20
+       ],
+       "contexto": "total_igualado",
+       "prob_aprendida": 0.473
+      }
+     ],
+     "cuota": 3.53
+    },
+    "loca": {
+     "picks": [
       {
        "partido_id": 1550181,
        "fecha": "2026-11-01T15:00",
@@ -4010,95 +3820,6 @@
        "prob_aprendida": 0.699
       },
       {
-       "partido_id": 1550184,
-       "fecha": "2026-11-01T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lecce",
-       "visitante": "Genoa",
-       "mercado": "Total Shots",
-       "opcion": "Over 23.5",
-       "tipo": "tiros",
-       "texto": "Más de 23,5 tiros en Lecce–Genoa",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "Lecce 8/10 · Genoa 7/10",
-       "arbitro": "Matteo Marchetti",
-       "arbitro_tarjetas": 1.0,
-       "posiciones": [
-        14,
-        13,
-        20
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.473
-      }
-     ],
-     "cuota": 3.32
-    },
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1550180,
-       "fecha": "2026-11-01T12:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Como",
-       "visitante": "Venezia",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Como",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "detalle": "Como 7/10 · Venezia 9/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.023,
-       "cuota_inicial": 1.33,
-       "arbitro": "Maria Sole Ferrieri Caputi",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        4,
-        20,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.735
-      },
-      {
-       "partido_id": 1575207,
-       "fecha": "2026-11-01T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Union Berlin",
-       "visitante": "1. FC Köln",
-       "mercado": "Away Player Shots",
-       "opcion": "Said El Mala - 3",
-       "cuota": 1.5,
-       "frecuencia": 0.857,
-       "ventaja": 0.19,
-       "tipo": "jugador",
-       "jugador": "Said El Mala",
-       "equipo": "1. FC Köln",
-       "jugador_id": 432310,
-       "campo": "tiros",
-       "n": 3,
-       "texto": "Said El Mala: 3+ tiros",
-       "detalle": "Said El Mala 6/7",
-       "temporada": "6/7",
-       "movimiento": 0.071,
-       "cuota_inicial": 1.4,
-       "posiciones": [
-        17,
-        12,
-        18
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.713
-      },
-      {
        "partido_id": 1575205,
        "fecha": "2026-11-01T17:30",
        "competicion": "Bundesliga",
@@ -4119,6 +3840,8 @@
        "texto": "David Wolfe comete 1+ faltas",
        "detalle": "David Wolfe 6/7",
        "temporada": "6/7",
+       "arbitro": "Florian Exner",
+       "arbitro_tarjetas": 5.3,
        "posiciones": [
         14,
         11,
@@ -4126,61 +3849,6 @@
        ],
        "contexto": "mejor_igualado",
        "prob_aprendida": 0.641
-      },
-      {
-       "partido_id": 1570433,
-       "fecha": "2026-11-01T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Athletic Club",
-       "visitante": "Real Sociedad",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Mamadou Sarr - 1",
-       "cuota": 1.5,
-       "frecuencia": 0.833,
-       "ventaja": 0.167,
-       "tipo": "jugador",
-       "jugador": "Mamadou Sarr",
-       "equipo": "Real Sociedad",
-       "jugador_id": 276184,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Mamadou Sarr comete 1+ faltas",
-       "detalle": "Mamadou Sarr 5/6",
-       "temporada": "5/6",
-       "posiciones": [
-        8,
-        5,
-        20
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.625
-      },
-      {
-       "partido_id": 1570438,
-       "fecha": "2026-11-01T14:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Getafe",
-       "visitante": "Sevilla",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Sevilla o empate",
-       "cuota": 1.36,
-       "frecuencia": 0.75,
-       "ventaja": 0.015,
-       "detalle": "Getafe 8/10 · Sevilla 7/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.029,
-       "cuota_inicial": 1.4,
-       "posiciones": [
-        18,
-        6,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.635
       },
       {
        "partido_id": 1575528,
@@ -4208,10 +3876,64 @@
         18
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.533
+       "prob_aprendida": 0.534
+      },
+      {
+       "partido_id": 1552214,
+       "fecha": "2026-11-01T14:30",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Telstar",
+       "visitante": "Utrecht",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Utrecht o empate",
+       "cuota": 1.4,
+       "frecuencia": 0.85,
+       "ventaja": 0.136,
+       "detalle": "Telstar 10/10 · Utrecht 7/10",
+       "valor_mercado": -0.028,
+       "arbitro": "Richard Martens",
+       "arbitro_tarjetas": 3.0,
+       "posiciones": [
+        16,
+        11,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.596
+      },
+      {
+       "partido_id": 1575527,
+       "fecha": "2026-11-01T19:00",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Academico Viseu",
+       "visitante": "Rio Ave",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Academico Viseu",
+       "cuota": 1.85,
+       "frecuencia": 0.6,
+       "ventaja": 0.059,
+       "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
+       "valor_mercado": -0.031,
+       "movimiento": -0.031,
+       "cuota_inicial": 1.91,
+       "arbitro": "Joao Goncalves",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        6,
+        16,
+        18
+       ],
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.491
       }
      ],
-     "cuota": 10.31
+     "cuota": 8.59
     },
     "doble": {
      "picks": [
@@ -4239,7 +3961,7 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.864
+       "prob_aprendida": 0.863
       },
       {
        "partido_id": 1570438,
@@ -4265,7 +3987,7 @@
         20
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.635
+       "prob_aprendida": 0.636
       },
       {
        "partido_id": 1569995,
@@ -4302,20 +4024,24 @@
        "visitante": "1. FC Köln",
        "mercado": "Double Chance",
        "opcion": "Draw/Away",
-       "cuota": 1.5,
+       "cuota": 1.44,
        "frecuencia": 0.722,
-       "ventaja": 0.056,
+       "ventaja": 0.028,
        "tipo": "resultado",
        "texto": "1. FC Köln o empate",
        "detalle": "Union Berlin 7/9 · 1. FC Köln 6/9",
-       "valor_mercado": 0.034,
+       "valor_mercado": -0.007,
+       "movimiento": -0.04,
+       "cuota_inicial": 1.5,
+       "arbitro": "Richard Hempel",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         17,
         12,
         18
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.555
+       "prob_aprendida": 0.575
       },
       {
        "partido_id": 1552214,
@@ -4367,10 +4093,10 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.452
+       "prob_aprendida": 0.451
       }
      ],
-     "cuota": 9.73
+     "cuota": 9.34
     }
    },
    "estilos": {
@@ -4400,7 +4126,7 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.864
+       "prob_aprendida": 0.863
       },
       {
        "partido_id": 1575207,
@@ -4423,13 +4149,15 @@
        "texto": "Said El Mala comete 1+ faltas",
        "detalle": "Said El Mala 6/7",
        "temporada": "6/7",
+       "arbitro": "Richard Hempel",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         17,
         12,
         18
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.669
+       "prob_aprendida": 0.668
       }
      ],
      "cuota": 1.9,
@@ -4449,12 +4177,12 @@
        "opcion": "Over 10.5",
        "tipo": "corners",
        "texto": "Más de 10,5 córners en Racing Santander–Real Madrid",
-       "cuota": 1.82,
+       "cuota": 1.8,
        "frecuencia": 0.684,
-       "ventaja": 0.135,
+       "ventaja": 0.129,
        "detalle": "Racing Santander 7/9 · Real Madrid 6/10",
-       "valor_mercado": 0.034,
-       "movimiento": -0.005,
+       "valor_mercado": 0.023,
+       "movimiento": -0.016,
        "cuota_inicial": 1.83,
        "posiciones": [
         14,
@@ -4506,17 +4234,17 @@
        "ventaja": 0.2,
        "detalle": "Liverpool 7/10 · Arsenal (en contra) 7/10",
        "arbitro": "Andrew Madley",
-       "arbitro_tarjetas": 4.0,
+       "arbitro_tarjetas": null,
        "posiciones": [
         4,
         2,
         20
        ],
        "contexto": "total_igualado",
-       "prob_aprendida": 0.455
+       "prob_aprendida": 0.456
       }
      ],
-     "cuota": 6.3
+     "cuota": 6.23
     }
    },
    "combis_partido": []
@@ -4547,7 +4275,7 @@
       18
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.77
+     "prob_aprendida": 0.769
     },
     {
      "partido_id": 1557455,
@@ -4605,7 +4333,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.665
+     "prob_aprendida": 0.666
     },
     {
      "partido_id": 1552803,
@@ -4688,7 +4416,7 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.381
+     "prob_aprendida": 0.382
     }
    ],
    "mejores_por_partido": [
@@ -4716,7 +4444,7 @@
       18
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.77
+     "prob_aprendida": 0.769
     },
     {
      "partido_id": 1557455,
@@ -4774,7 +4502,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.665
+     "prob_aprendida": 0.666
     }
    ],
    "combis": {
@@ -4805,7 +4533,7 @@
         18
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.77
+       "prob_aprendida": 0.769
       },
       {
        "partido_id": 1557455,
@@ -4857,7 +4585,7 @@
         20
        ],
        "contexto": "total_igualado",
-       "prob_aprendida": 0.381
+       "prob_aprendida": 0.382
       }
      ],
      "cuota": 3.33
@@ -5146,13 +4874,15 @@
        "visitante": "Borac Banja Luka",
        "mercado": "Double Chance",
        "opcion": "Draw/Away",
-       "cuota": 1.7,
+       "cuota": 1.67,
        "frecuencia": 0.722,
-       "ventaja": 0.134,
+       "ventaja": 0.123,
        "tipo": "resultado",
        "texto": "Borac Banja Luka o empate",
        "detalle": "Mjallby AIF 6/8 · Borac Banja Luka 7/10",
-       "valor_mercado": 0.018,
+       "valor_mercado": 0.0,
+       "movimiento": -0.018,
+       "cuota_inicial": 1.7,
        "prob_aprendida": 0.461
       },
       {
@@ -5192,7 +4922,7 @@
        "prob_aprendida": 0.404
       }
      ],
-     "cuota": 13.79
+     "cuota": 13.54
     }
    },
    "estilos": {
@@ -5266,7 +4996,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.941
+     "prob_aprendida": 0.942
     },
     {
      "partido_id": 1557463,
@@ -5391,7 +5121,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.493
+     "prob_aprendida": 0.494
     },
     {
      "partido_id": 1570446,
@@ -5441,7 +5171,7 @@
       18
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.941
+     "prob_aprendida": 0.942
     },
     {
      "partido_id": 1557463,
@@ -5542,7 +5272,7 @@
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.493
+     "prob_aprendida": 0.494
     },
     {
      "partido_id": 1570446,
@@ -5595,7 +5325,7 @@
         18
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.941
+       "prob_aprendida": 0.942
       },
       {
        "partido_id": 1557463,
@@ -5678,7 +5408,7 @@
         18
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.941
+       "prob_aprendida": 0.942
       },
       {
        "partido_id": 1557463,
@@ -5726,7 +5456,7 @@
         18
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.561
+       "prob_aprendida": 0.56
       },
       {
        "partido_id": 1552218,

@@ -1,10 +1,10 @@
 # Lyon – Angers
 **Ligue 1** · Regular Season - 9 · 01/11/2026 17:15 (hora España) · Groupama Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:54_
 
 - **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**

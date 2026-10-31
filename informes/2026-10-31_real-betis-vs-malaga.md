@@ -1,10 +1,10 @@
 # Real Betis – Malaga
 **LaLiga** · Regular Season - 11 · 31/10/2026 18:30 (hora España) · Estadio de la Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:02_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **1.30**  ·  X **5.50**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.40**
@@ -133,7 +133,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Real Betis:** F. Bernal (baja, Red Card); J. Firpo (baja, Groin Injury); C. Hernandez (baja, Calf Injury); I. Losada (baja, Coach's decision); F. Bernal (baja, Red Card); J. Firpo (baja, Groin Injury); C. Hernandez (baja, Calf Injury); I. Losada (baja, Coach's decision)
-**Malaga:** J. Cruz (baja, Muscle Injury); J. Lobete (baja, Knee Injury); P. Martinez (baja, Foot Injury); J. Munoz (baja, Calf Injury); A. Ochoa (baja, Knee Injury); D. Murillo (duda, Knee Injury); A. Recio (duda, Illness); J. Cruz (baja, Muscle Injury); J. Lobete (baja, Knee Injury); P. Martinez (baja, Foot Injury); J. Munoz (baja, Calf Injury); A. Ochoa (baja, Knee Injury); D. Murillo (duda, Knee Injury); A. Recio (duda, Illness)
+**Malaga:** J. Cruz (baja, Muscle Injury); J. Lobete (baja, Knee Injury); P. Martinez (baja, Foot Injury); J. Munoz (baja, Calf Injury); D. Murillo (baja, Knee Injury); A. Ochoa (baja, Knee Injury); A. Recio (duda, Illness); J. Cruz (baja, Muscle Injury); J. Lobete (baja, Knee Injury); P. Martinez (baja, Foot Injury); J. Munoz (baja, Calf Injury); D. Murillo (baja, Knee Injury); A. Ochoa (baja, Knee Injury); A. Recio (duda, Illness)
 
 ## Enfrentamientos directos recientes
 - 2025-08-09 · Friendlies Clubs: Malaga 3-1 Real Betis

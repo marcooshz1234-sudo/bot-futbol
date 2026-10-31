@@ -1,10 +1,10 @@
 # FC Porto – Estoril
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 21:30 (hora España) · Estádio do Dragão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **1.17**  ·  X **7.50**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.00**
@@ -16,9 +16,9 @@ _Actualizadas: 31/10 02:03_
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
@@ -208,10 +208,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 47% | 40% | 43% | 2.35 | +2% |
 | Goles más/menos: Menos de 3.5 | 69% | 61% | 65% | 1.53 | -1% |
 | Goles más/menos: Menos de 4.5 | 85% | 78% | 81% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 37% | 2.38 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
 | Goles del local: Más de 1.5 | 67% | 73% | 70% | 1.28 | -11% |
 | Goles del local: Más de 2.5 | 40% | 50% | 45% | 1.83 | -18% |
 | Goles del local: Más de 3.5 | 20% | 28% | 24% | 3.40 | -19% |

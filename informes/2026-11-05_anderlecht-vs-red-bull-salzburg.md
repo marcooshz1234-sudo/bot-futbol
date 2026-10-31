@@ -1,10 +1,10 @@
 # Anderlecht – Red Bull Salzburg
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Lotto Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:00_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.90**  ·  X **3.75**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**

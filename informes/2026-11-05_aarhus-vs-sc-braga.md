@@ -1,19 +1,19 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:00_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.25** · menos **1.33**
+    - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
@@ -32,7 +32,7 @@ _Actualizadas: 30/10 08:00_
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **5.00** · menos **1.17**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
@@ -186,10 +186,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 34% | 54% | 44% | 1.73 | -24% |
 | Goles más/menos: Más de 1.5 | 56% | 73% | 65% | 1.28 | -17% |
 | Goles más/menos: Más de 2.5 | 29% | 49% | 39% | 1.95 | -24% |
-| Goles más/menos: Más de 3.5 | 12% | 29% | 21% | 3.25 | -33% |
+| Goles más/menos: Más de 3.5 | 12% | 28% | 20% | 3.40 | -32% |
 | Goles más/menos: Menos de 1.5 | 44% | 27% | 35% | 3.50 | +23% |
 | Goles más/menos: Menos de 2.5 | 71% | 51% | 61% | 1.85 | +13% |
-| Goles más/menos: Menos de 3.5 | 88% | 71% | 79% | 1.33 | +5% |
+| Goles más/menos: Menos de 3.5 | 88% | 72% | 80% | 1.30 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 38% | 3.00 | +13% |

@@ -1,10 +1,10 @@
 # Barcelona – Alaves
 **LaLiga** · Regular Season - 11 · 31/10/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:53_
 
 - **1X2:** 1 **1.10**  ·  X **10.00**  ·  2 **21.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.06**  ·  X2 **7.00**

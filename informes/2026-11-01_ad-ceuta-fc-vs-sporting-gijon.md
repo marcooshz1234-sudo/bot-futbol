@@ -1,10 +1,10 @@
 # AD Ceuta FC – Sporting Gijon
 **Segunda División** · Regular Season - 12 · 01/11/2026 16:15 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:54_
 
 - **1X2:** 1 **2.60**  ·  X **3.30**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.50**
@@ -13,7 +13,7 @@ _Actualizadas: 31/10 02:03_
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.85** · menos **1.95**
-    - 3,5: más **3.25** · menos **1.33**
+    - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
@@ -29,7 +29,7 @@ _Actualizadas: 31/10 02:03_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -199,10 +199,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.25 | -8% |
 | Goles más/menos: Más de 2.5 | 46% | 51% | 49% | 1.85 | -10% |
-| Goles más/menos: Más de 3.5 | 25% | 29% | 27% | 3.25 | -13% |
+| Goles más/menos: Más de 3.5 | 25% | 31% | 28% | 3.00 | -16% |
 | Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles más/menos: Menos de 2.5 | 54% | 49% | 51% | 1.95 | -0% |
-| Goles más/menos: Menos de 3.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Goles más/menos: Menos de 3.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 32% | 3.00 | -3% |
@@ -215,8 +215,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
 | Goles del visitante: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
 | Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Córners más/menos: Más de 9.5 | 44% | 48% | 46% | 1.98 | -9% |
-| Córners más/menos: Menos de 9.5 | 56% | 52% | 54% | 1.82 | -2% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -4% |
 | 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -2% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 24% | 30% | 27% | 3.10 | -17% |

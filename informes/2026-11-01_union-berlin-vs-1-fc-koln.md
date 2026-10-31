@@ -1,25 +1,25 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España) · An der Alten Försterei
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 02:03_
+_Actualizadas: 31/10 13:54_
 
 - **1X2:** 1 **2.70**  ·  X **3.50**  ·  2 **2.55**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.67** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.53**
+    - 3,5: más **2.62** · menos **1.50**
     - 4,5: más **4.50** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **6.00** · menos **1.12**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
@@ -38,16 +38,16 @@ _Actualizadas: 31/10 02:03_
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.38**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.80**  ·  2 **1.73**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.25**
 - **Win Both Halves:** 1 **9.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **15.00**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **15.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
@@ -73,7 +73,7 @@ _Actualizadas: 31/10 02:03_
 - **Player Fouls Committed:** Said El Mala - 1 **1.40**  ·  Thijs Dallinga - 1 **1.40**  ·  Ragnar Ache - 1 **1.33**  ·  Luca Waldschmidt - 1 **1.33**  ·  Marius Bulter - 1 **1.67**  ·  Reigan Heskey - 1 **1.80**  ·  Jan Thielmann - 1 **1.33**  ·  Isak Johannesson - 1 **1.57**  ·  Linton Maina - 1 **1.50**  ·  Alessio Castro-Montes - 1 **1.33**  ·  Paul Okon-Engstler - 1 **1.22**  ·  Ellyes Skhiri - 1 **1.67**  ·  Jonathan Friemel - 1 **1.33**  ·  Sebastian Sebulonsen - 1 **1.57**  ·  Jahmai Simpson-Pusey - 1 **2.00**  ·  Joel Schmied - 1 **1.25**  ·  Luka Lochoshvili - 1 **1.44**  ·  Tom Krauss - 1 **1.44**  ·  Rav van den Berg - 1 **1.67**  ·  Gideon Mensah - 1 **1.28**  ·  Said El Mala - 2 **2.75**  ·  Thijs Dallinga - 2 **2.75**  ·  Ragnar Ache - 2 **2.50**  ·  Luca Waldschmidt - 2 **2.50**  ·  Marius Bulter - 2 **4.00**  ·  Reigan Heskey - 2 **5.00**  ·  Jan Thielmann - 2 **2.50**  ·  Isak Johannesson - 2 **3.50**  ·  Linton Maina - 2 **3.40**  ·  Alessio Castro-Montes - 2 **2.50**  ·  Paul Okon-Engstler - 2 **1.91**  ·  Ellyes Skhiri - 2 **4.00**  ·  Jonathan Friemel - 2 **2.50**  ·  Sebastian Sebulonsen - 2 **3.50**  ·  Jahmai Simpson-Pusey - 2 **6.00**  ·  Joel Schmied - 2 **2.10**  ·  Luka Lochoshvili - 2 **3.25**  ·  Tom Krauss - 2 **3.00**  ·  Rav van den Berg - 2 **4.00**  ·  Gideon Mensah - 2 **2.25**  ·  Said El Mala - 3 **7.00**  ·  Thijs Dallinga - 3 **7.00**  ·  Ragnar Ache - 3 **6.00**  ·  Luca Waldschmidt - 3 **6.00**  ·  Marius Bulter - 3 **13.00**  ·  Reigan Heskey - 3 **17.00**  ·  Jan Thielmann - 3 **6.00**  ·  Isak Johannesson - 3 **10.00**  ·  Linton Maina - 3 **9.00**  ·  Alessio Castro-Montes - 3 **6.00**  ·  Paul Okon-Engstler - 3 **4.00**  ·  Ellyes Skhiri - 3 **13.00**  ·  Jonathan Friemel - 3 **6.00**  ·  Sebastian Sebulonsen - 3 **10.00**  ·  Jahmai Simpson-Pusey - 3 **21.00**  ·  Joel Schmied - 3 **4.33**  ·  Luka Lochoshvili - 3 **8.00**  ·  Tom Krauss - 3 **8.00**  ·  Rav van den Berg - 3 **13.00**  ·  Said El Mala - 4 **19.00**  ·  Thijs Dallinga - 4 **19.00**  ·  Ragnar Ache - 4 **15.00**  ·  Luca Waldschmidt - 4 **15.00**  ·  Jan Thielmann - 4 **15.00**  ·  Isak Johannesson - 4 **26.00**  ·  Linton Maina - 4 **23.00**  ·  Alessio Castro-Montes - 4 **15.00**  ·  Paul Okon-Engstler - 4 **10.00**  ·  Jonathan Friemel - 4 **15.00**  ·  Sebastian Sebulonsen - 4 **26.00**  ·  Tim Skarke - 1 **1.40**  ·  Emmanuel Latte Lath - 1 **1.40**  ·  Linus Guther - 1 **1.44**  ·  Oliver Burke - 1 **1.73**  ·  Robert Skov - 1 **1.28**  ·  Woo-yeong Jeong - 1 **1.44**  ·  Livan Burcu - 1 **1.33**  ·  Michel Aebischer - 1 **1.20**  ·  Aljoscha Kemlein - 1 **1.40**  ·  Tom Rothe - 1 **1.33**  ·  Andras Schafer - 1 **1.18**  ·  Rani Khedira - 1 **1.25**  ·  Christopher Trimmel - 1 **1.40**  ·  Janik Haberer - 1 **1.33**  ·  Derrick Kohn - 1 **1.22**  ·  Leopold Querfeld - 1 **1.50**  ·  Josip Juranovic - 1 **1.73**  ·  Zeno Van Den Bosch - 1 **1.40**  ·  Tim Skarke - 2 **2.75**  ·  Emmanuel Latte Lath - 2 **2.75**  ·  Linus Guther - 2 **3.00**  ·  Oliver Burke - 2 **4.33**  ·  Robert Skov - 2 **2.25**  ·  Woo-yeong Jeong - 2 **3.00**  ·  Livan Burcu - 2 **2.50**  ·  Michel Aebischer - 2 **1.91**  ·  Aljoscha Kemlein - 2 **2.75**  ·  Tom Rothe - 2 **2.50**  ·  Andras Schafer - 2 **1.80**  ·  Rani Khedira - 2 **2.20**  ·  Christopher Trimmel - 2 **2.75**  ·  Janik Haberer - 2 **2.50**  ·  Derrick Kohn - 2 **2.00**  ·  Leopold Querfeld - 2 **3.25**  ·  Josip Juranovic - 2 **4.33**  ·  Zeno Van Den Bosch - 2 **2.75**  ·  Tim Skarke - 3 **7.00**  ·  Emmanuel Latte Lath - 3 **7.00**  ·  Linus Guther - 3 **8.00**  ·  Oliver Burke - 3 **13.00**  ·  Robert Skov - 3 **5.00**  ·  Woo-yeong Jeong - 3 **8.00**  ·  Livan Burcu - 3 **6.00**  ·  Michel Aebischer - 3 **3.75**  ·  Aljoscha Kemlein - 3 **7.00**  ·  Tom Rothe - 3 **6.00**  ·  Andras Schafer - 3 **3.50**  ·  Rani Khedira - 3 **4.50**  ·  Christopher Trimmel - 3 **7.00**  ·  Janik Haberer - 3 **6.00**  ·  Derrick Kohn - 3 **4.00**  ·  Leopold Querfeld - 3 **9.00**  ·  Josip Juranovic - 3 **13.00**  ·  Zeno Van Den Bosch - 3 **7.00**  ·  Tim Skarke - 4 **19.00**  ·  Emmanuel Latte Lath - 4 **19.00**  ·  Linus Guther - 4 **21.00**  ·  Robert Skov - 4 **13.00**  ·  Woo-yeong Jeong - 4 **21.00**  ·  Livan Burcu - 4 **15.00**  ·  Michel Aebischer - 4 **9.00**  ·  Aljoscha Kemlein - 4 **19.00**  ·  Tom Rothe - 4 **15.00**  ·  Andras Schafer - 4 **8.00**  ·  Rani Khedira - 4 **11.00**  ·  Christopher Trimmel - 4 **19.00**  ·  Janik Haberer - 4 **15.00**  ·  Derrick Kohn - 4 **10.00**  ·  Ohis Uduokhai - 1 **1.30**  ·  Ohis Uduokhai - 2 **2.38**  ·  Ohis Uduokhai - 3 **5.50**  ·  Ohis Uduokhai - 4 **15.00**  ·  Mikey Moore - 1 **2.25**  ·  Mikey Moore - 2 **8.00**  ·  Mikey Moore - 3 **26.00**  ·  Borna Sosa - 1 **1.44**  ·  Borna Sosa - 2 **3.25**  ·  Borna Sosa - 3 **8.00**  ·  Borna Sosa - 4 **21.00**  ·  Leopold Querfeld - 4 **23.00**  ·  Zeno Van Den Bosch - 4 **19.00**  ·  Andras Schafer - 5 **19.00**  ·  Michel Aebischer - 5 **21.00**  ·  Derrick Kohn - 5 **23.00**  ·  Gideon Mensah - 3 **5.00**  ·  Joel Schmied - 4 **11.00**  ·  Gideon Mensah - 4 **13.00**  ·  Tom Krauss - 4 **21.00**  ·  Luka Lochoshvili - 4 **21.00**  ·  Paul Okon-Engstler - 5 **21.00**  ·  Kastriot Imeri - 1 **1.18**  ·  Kastriot Imeri - 2 **1.80**  ·  Kastriot Imeri - 3 **3.50**  ·  Kastriot Imeri - 4 **8.00**  ·  Kastriot Imeri - 5 **19.00**  ·  Joel Schmied - 5 **26.00**  ·  Marin Ljubicic - 1 **1.08**  ·  Marin Ljubicic - 2 **1.40**  ·  Marin Ljubicic - 3 **2.20**  ·  Marin Ljubicic - 4 **4.00**  ·  Marin Ljubicic - 5 **9.00**  ·  Marin Ljubicic - 6 **19.00**  ·  Imad Rondic - 1 **1.67**  ·  Imad Rondic - 2 **4.00**  ·  Imad Rondic - 3 **13.00**  ·  Rani Khedira - 5 **26.00**  ·  Mekhi Gray - 1 **1.40**  ·  Mekhi Gray - 2 **2.75**  ·  Mekhi Gray - 3 **7.00**  ·  Mekhi Gray - 4 **19.00**
 - **Goalkeeper Saves:** Marvin Schwabe - 3 **1.40**  ·  Marvin Schwabe - 4 **2.00**  ·  Marvin Schwabe - 5 **3.40**  ·  Marvin Schwabe - 6 **6.50**  ·  Marvin Schwabe - 2 **1.12**  ·  Frederik Ronnow - 2 **1.14**  ·  Frederik Ronnow - 3 **1.44**  ·  Frederik Ronnow - 4 **2.10**  ·  Frederik Ronnow - 5 **3.75**  ·  Frederik Ronnow - 6 **7.00**
 - **Anytime Goal Scorer:** Kastriot Imeri **4.75**  ·  Isak Johannesson **5.50**  ·  Paul Okon-Engstler **6.00**  ·  Sebastian Sebulonsen **10.00**  ·  Luka Lochoshvili **10.00**  ·  Andras Schafer **7.50**  ·  Said El Mala **2.75**  ·  Malek El Mala **2.75**  ·  Reigan Heskey **4.75**  ·  Emmanuel Latte Lath **2.88**  ·  Rav van den Berg **13.00**  ·  Gideon Mensah **17.00**  ·  Marin Ljubicic **3.00**  ·  Zeno Van Den Bosch **12.00**  ·  Alessio Castro-Montes **7.50**  ·  Josip Juranovic **12.00**  ·  Woo-yeong Jeong **3.50**  ·  Jan Thielmann **5.50**  ·  Luca Waldschmidt **3.40**  ·  Linton Maina **6.00**  ·  Marius Bulter **3.40**  ·  Ragnar Ache **2.75**  ·  Derrick Kohn **12.00**  ·  Ohis Uduokhai **10.00**  ·  Livan Burcu **3.50**  ·  Linus Guther **4.00**  ·  Mekhi Gray **2.75**  ·  Jonathan Friemel **10.00**  ·  Jahmai Simpson-Pusey **10.00**  ·  Assad Kotya-Fofana **8.00**  ·  Mikey Moore **4.00**  ·  Ellyes Skhiri **8.00**  ·  Michel Aebischer **8.00**  ·  Thijs Dallinga **3.00**  ·  Borna Sosa **9.00**  ·  Tom Krauss **10.00**  ·  Oliver Burke **4.00**  ·  Aljoscha Kemlein **8.00**  ·  Christopher Trimmel **8.00**  ·  Janik Haberer **8.00**  ·  Leopold Querfeld **10.00**  ·  Rani Khedira **10.00**  ·  Robert Skov **5.50**  ·  Tim Skarke **4.00**  ·  Tom Rothe **8.00**  ·  Joel Schmied **10.00**  ·  Imad Rondic **3.40**
-- **Player to Score or Assist:** Kastriot Imeri **2.75**  ·  Isak Johannesson **3.20**  ·  Paul Okon-Engstler **3.50**  ·  Sebastian Sebulonsen **4.33**  ·  Luka Lochoshvili **7.00**  ·  Andras Schafer **4.33**  ·  Said El Mala **2.10**  ·  Malek El Mala **2.05**  ·  Reigan Heskey **3.20**  ·  Emmanuel Latte Lath **2.30**  ·  Rav van den Berg **9.00**  ·  Gideon Mensah **6.50**  ·  Marin Ljubicic **2.38**  ·  Zeno Van Den Bosch **7.00**  ·  Alessio Castro-Montes **3.75**  ·  Josip Juranovic **5.00**  ·  Woo-yeong Jeong **2.50**  ·  Jan Thielmann **3.25**  ·  Luca Waldschmidt **2.50**  ·  Linton Maina **3.20**  ·  Marius Bulter **2.25**  ·  Ragnar Ache **2.05**  ·  Derrick Kohn **5.00**  ·  Ohis Uduokhai **6.00**  ·  Livan Burcu **2.75**  ·  Linus Guther **2.75**  ·  Mekhi Gray **2.05**  ·  Jonathan Friemel **4.33**  ·  Jahmai Simpson-Pusey **6.00**  ·  Assad Kotya-Fofana **5.50**  ·  Mikey Moore **2.50**  ·  Ellyes Skhiri **5.00**  ·  Michel Aebischer **4.33**  ·  Thijs Dallinga **2.30**  ·  Borna Sosa **4.00**  ·  Tom Krauss **5.00**  ·  Oliver Burke **2.75**  ·  Aljoscha Kemlein **4.33**  ·  Christopher Trimmel **3.00**  ·  Janik Haberer **3.60**  ·  Leopold Querfeld **6.00**  ·  Rani Khedira **6.00**  ·  Robert Skov **3.00**  ·  Tim Skarke **2.88**  ·  Tom Rothe **4.33**  ·  Joel Schmied **5.50**  ·  Imad Rondic **2.50**
+- **Player to Score or Assist:** Kastriot Imeri **2.62**  ·  Isak Johannesson **3.20**  ·  Paul Okon-Engstler **3.50**  ·  Sebastian Sebulonsen **4.33**  ·  Luka Lochoshvili **7.00**  ·  Andras Schafer **4.33**  ·  Said El Mala **2.10**  ·  Malek El Mala **2.05**  ·  Reigan Heskey **3.10**  ·  Emmanuel Latte Lath **2.30**  ·  Rav van den Berg **9.00**  ·  Gideon Mensah **6.50**  ·  Marin Ljubicic **2.40**  ·  Zeno Van Den Bosch **6.50**  ·  Alessio Castro-Montes **3.75**  ·  Josip Juranovic **5.00**  ·  Woo-yeong Jeong **2.50**  ·  Jan Thielmann **3.20**  ·  Luca Waldschmidt **2.40**  ·  Linton Maina **3.20**  ·  Marius Bulter **2.25**  ·  Ragnar Ache **2.05**  ·  Derrick Kohn **5.00**  ·  Ohis Uduokhai **6.00**  ·  Livan Burcu **2.75**  ·  Linus Guther **2.75**  ·  Mekhi Gray **2.05**  ·  Jonathan Friemel **4.33**  ·  Jahmai Simpson-Pusey **6.00**  ·  Assad Kotya-Fofana **5.50**  ·  Mikey Moore **2.50**  ·  Ellyes Skhiri **5.00**  ·  Michel Aebischer **4.33**  ·  Thijs Dallinga **2.20**  ·  Borna Sosa **3.75**  ·  Tom Krauss **5.00**  ·  Oliver Burke **2.75**  ·  Aljoscha Kemlein **4.33**  ·  Christopher Trimmel **3.00**  ·  Janik Haberer **3.60**  ·  Leopold Querfeld **6.00**  ·  Rani Khedira **6.00**  ·  Robert Skov **3.00**  ·  Tim Skarke **2.88**  ·  Tom Rothe **4.33**  ·  Joel Schmied **5.50**  ·  Imad Rondic **2.40**
 
 ## Estadísticas de equipo
 | | Union Berlin (total) | Union Berlin en casa | 1. FC Köln (total) | 1. FC Köln fuera |
@@ -216,18 +216,18 @@ _Goles esperados: local 1,22 · visitante 1,73 · córners esperados 9,8._
 | 1X2: 2 ✅ | 49% | 37% | 43% | 2.55 | +11% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
 | 1X2: 1 | 27% | 35% | 31% | 2.70 | -16% |
-| Doble oportunidad: X2 | 73% | 62% | 68% | 1.50 | +1% |
+| Doble oportunidad: X2 | 73% | 65% | 69% | 1.44 | -1% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 51% | 65% | 58% | 1.44 | -17% |
+| Doble oportunidad: 1X | 51% | 62% | 56% | 1.50 | -15% |
 | Ambos marcan: No | 42% | 39% | 41% | 2.38 | -4% |
 | Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles más/menos: Más de 2.5 | 57% | 57% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles más/menos: Más de 3.5 | 34% | 36% | 35% | 2.62 | -7% |
 | Goles más/menos: Más de 4.5 | 18% | 21% | 19% | 4.50 | -13% |
 | Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles más/menos: Menos de 2.5 | 43% | 43% | 43% | 2.20 | -5% |
-| Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
+| Goles más/menos: Menos de 3.5 | 66% | 64% | 65% | 1.50 | -3% |
 | Goles más/menos: Menos de 4.5 | 82% | 79% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 39% | 38% | 2.38 | -10% |

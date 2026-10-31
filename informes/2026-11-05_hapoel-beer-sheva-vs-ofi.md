@@ -1,10 +1,10 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 07:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 08:01_
+_Actualizadas: 31/10 13:55_
 
 - **1X2:** 1 **1.95**  ·  X **3.50**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
@@ -22,8 +22,8 @@ _Actualizadas: 30/10 08:01_
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.33** · menos **3.25**
@@ -34,7 +34,7 @@ _Actualizadas: 30/10 08:01_
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.53**  ·  2 **2.10**
@@ -200,10 +200,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 38% | 28% | 2.50 | -29% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 45% | 28% | 36% | 3.40 | +23% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 81% | 62% | 72% | 1.50 | +7% |
-| Goles del local: Más de 1.5 | 14% | 51% | 33% | 1.80 | -41% |
-| Goles del local: Más de 2.5 | 3% | 27% | 15% | 3.50 | -48% |
-| Goles del local: Menos de 1.5 | 86% | 49% | 67% | 1.91 | +29% |
-| Goles del local: Menos de 2.5 | 97% | 73% | 85% | 1.28 | +9% |
+| Goles del local: Más de 1.5 | 14% | 50% | 32% | 1.83 | -42% |
+| Goles del local: Más de 2.5 | 3% | 25% | 14% | 3.75 | -48% |
+| Goles del local: Menos de 1.5 | 86% | 50% | 68% | 1.83 | +25% |
+| Goles del local: Menos de 2.5 | 97% | 75% | 86% | 1.25 | +8% |
 | Goles del visitante: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles del visitante: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
