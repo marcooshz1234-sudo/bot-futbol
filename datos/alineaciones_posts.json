@@ -435,10 +435,145 @@
    "equipos": {}
   },
   "1563235": {
-   "hora": "2026-10-31T12:52:53.180301+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-31T13:04:08.546872+01:00",
+   "xi": [
+    "V. Johansson",
+    "B. Wilmot",
+    "B. Lawal",
+    "L. Graham",
+    "B. Johnson",
+    "El Hadji Djibril Soumaré",
+    "E. Galbraith",
+    "L. Bombino",
+    "J. McGlynn",
+    "R. Boženík",
+    "J. Devenny",
+    "D. Iversen",
+    "O. Offiah",
+    "J. Storey",
+    "A. Hughes",
+    "B. Potts",
+    "L. Leroy",
+    "J. Thompson",
+    "A. Vukčević",
+    "D. Burgzorg",
+    "J. Kenny",
+    "C. Lang"
+   ],
+   "banquillo": [
+    "Bae Jun-Ho",
+    "J. Griffiths",
+    "G. Hirst",
+    "S. Ingelsson",
+    "M. Manhoef",
+    "B. Pearson",
+    "T. Rigo",
+    "M. Talovierov",
+    "J. Tchamadeu",
+    "A. Devine",
+    "J. Erabi",
+    "L. Lindsay",
+    "S. Mills",
+    "A. Moran",
+    "L. Nicholls",
+    "T. Small",
+    "C. Wiley",
+    "Ed Nolan"
+   ],
+   "equipos": {
+    "75": [
+     {
+      "n": "V. Johansson",
+      "pos": "G"
+     },
+     {
+      "n": "B. Wilmot",
+      "pos": "D"
+     },
+     {
+      "n": "B. Lawal",
+      "pos": "D"
+     },
+     {
+      "n": "L. Graham",
+      "pos": "D"
+     },
+     {
+      "n": "B. Johnson",
+      "pos": "M"
+     },
+     {
+      "n": "El Hadji Djibril Soumaré",
+      "pos": "M"
+     },
+     {
+      "n": "E. Galbraith",
+      "pos": "M"
+     },
+     {
+      "n": "L. Bombino",
+      "pos": "M"
+     },
+     {
+      "n": "J. McGlynn",
+      "pos": "F"
+     },
+     {
+      "n": "R. Boženík",
+      "pos": "F"
+     },
+     {
+      "n": "J. Devenny",
+      "pos": "F"
+     }
+    ],
+    "59": [
+     {
+      "n": "D. Iversen",
+      "pos": "G"
+     },
+     {
+      "n": "O. Offiah",
+      "pos": "D"
+     },
+     {
+      "n": "J. Storey",
+      "pos": "D"
+     },
+     {
+      "n": "A. Hughes",
+      "pos": "D"
+     },
+     {
+      "n": "B. Potts",
+      "pos": "M"
+     },
+     {
+      "n": "L. Leroy",
+      "pos": "M"
+     },
+     {
+      "n": "J. Thompson",
+      "pos": "M"
+     },
+     {
+      "n": "A. Vukčević",
+      "pos": "M"
+     },
+     {
+      "n": "D. Burgzorg",
+      "pos": "F"
+     },
+     {
+      "n": "J. Kenny",
+      "pos": "F"
+     },
+     {
+      "n": "C. Lang",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
