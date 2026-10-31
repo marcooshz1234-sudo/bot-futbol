@@ -576,10 +576,145 @@
    }
   },
   "1575208": {
-   "hora": "2026-10-31T14:52:01.222797+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-31T15:03:45.172834+01:00",
+   "xi": [
+    "D. Batz",
+    "D. Hashioka",
+    "P. Sander",
+    "F. Chiarodia",
+    "J. Scally",
+    "Z. Uno",
+    "F. Neuhaus",
+    "L. Ullrich",
+    "W. Mohya",
+    "R. Hack",
+    "S. Machino",
+    "N. Noll",
+    "J. ter Horst",
+    "T. Scheller",
+    "M. Hansen",
+    "S. Castañeda",
+    "L. Curda",
+    "T. Baack",
+    "G. Vidović",
+    "R. Obermair",
+    "M. Pieringer",
+    "S. Marino"
+   ],
+   "banquillo": [
+    "Y. Konoplya",
+    "J. Olschowsky",
+    "K. Stöger",
+    "N. Kühn",
+    "M. Nguefack",
+    "I. Lidberg",
+    "J. Castrop",
+    "D. Herold",
+    "K. Itakura",
+    "C. Lippmann",
+    "R. Philippe",
+    "M. Schubert",
+    "Jonah Benedict Sticker",
+    "S. Tigges",
+    "L. Ulrich",
+    "D. Zeitler",
+    "F. Götze",
+    "Ruben Müller"
+   ],
+   "equipos": {
+    "163": [
+     {
+      "n": "D. Batz",
+      "pos": "G"
+     },
+     {
+      "n": "D. Hashioka",
+      "pos": "D"
+     },
+     {
+      "n": "P. Sander",
+      "pos": "D"
+     },
+     {
+      "n": "F. Chiarodia",
+      "pos": "D"
+     },
+     {
+      "n": "J. Scally",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Uno",
+      "pos": "M"
+     },
+     {
+      "n": "F. Neuhaus",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ullrich",
+      "pos": "M"
+     },
+     {
+      "n": "W. Mohya",
+      "pos": "M"
+     },
+     {
+      "n": "R. Hack",
+      "pos": "M"
+     },
+     {
+      "n": "S. Machino",
+      "pos": "F"
+     }
+    ],
+    "185": [
+     {
+      "n": "N. Noll",
+      "pos": "G"
+     },
+     {
+      "n": "J. ter Horst",
+      "pos": "D"
+     },
+     {
+      "n": "T. Scheller",
+      "pos": "D"
+     },
+     {
+      "n": "M. Hansen",
+      "pos": "D"
+     },
+     {
+      "n": "S. Castañeda",
+      "pos": "M"
+     },
+     {
+      "n": "L. Curda",
+      "pos": "M"
+     },
+     {
+      "n": "T. Baack",
+      "pos": "M"
+     },
+     {
+      "n": "G. Vidović",
+      "pos": "M"
+     },
+     {
+      "n": "R. Obermair",
+      "pos": "M"
+     },
+     {
+      "n": "M. Pieringer",
+      "pos": "F"
+     },
+     {
+      "n": "S. Marino",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1563237": {
    "hora": "2026-10-31T14:57:29.911921+01:00",
