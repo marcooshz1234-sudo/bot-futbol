@@ -560,14 +560,14 @@
   },
   "2026-10-31": {
     "dia": "2026-10-31",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -587,13 +587,19 @@
         "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x2,21 🍀",
         "estado": "pendiente",
         "cuota": 2.21
+      },
+      {
+        "id": "2026-10-31-combi-500",
+        "titulo": "🧮 COMBILOCAS — ¡DE 1€ A 500€! x703,82 🧮",
+        "estado": "pendiente",
+        "cuota": 703.82
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 24
+      "total": 40
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 8,74 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x2,21 🍀 · 2,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 8,74 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x2,21 🍀 · 2,21 · pendiente\n⏳ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x703,82 🧮 · 703,82 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
