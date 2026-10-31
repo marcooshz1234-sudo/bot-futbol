@@ -898,7 +898,7 @@
   {
     "id": "2026-10-31-combi-partido-1557454",
     "fecha": "2026-10-31T15:00",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BRIGHTON MARCA [x1.28]\n✅ MÁS DE 10 CÓRNERS [x1.82]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n✅ MÁS DE 27,5 TIROS [x1.83]\n✅ MÁS DE 3,5 GOLES [x2.00]\n\n🔥 Resultado probable: 2-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,24\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY vs BRIGHTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BRIGHTON MARCA [x1.28]\n✅ MÁS DE 10 CÓRNERS [x1.82]\n✅ MÁS DE 4,5 CÓRNERS EN LA 1ª PARTE [x1.78]\n✅ MÁS DE 27,5 TIROS [x1.83]\n✅ MÁS DE 3,5 GOLES [x2.10]\n\n🔥 Resultado probable: 2-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,60\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -914,7 +914,7 @@
       1.82,
       1.78,
       1.83,
-      2.0
+      2.1
     ],
     "tarjeta": {
       "local": "Manchester City",
@@ -925,7 +925,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/51.png",
       "fecha": "2026-10-31T16:00",
       "liga": "Premier"
-    }
+    },
+    "cuotas_revisadas": "2026-10-31T13:32"
   },
   {
     "id": "2026-10-31-combi-loca",
