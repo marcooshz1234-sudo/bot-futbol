@@ -75,7 +75,7 @@ details summary{cursor:pointer}
 .fila{display:flex;align-items:center;gap:10px;cursor:pointer}
 .hora{font:700 13px var(--f);color:var(--mut);width:40px;flex-shrink:0;font-variant-numeric:tabular-nums}
 .tit{font-weight:700;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.patas{display:flex;gap:3px;margin-top:8px}.patas i{flex:1;height:5px;border-radius:3px;background:var(--card2)}.patas i.v{background:var(--ok)}.patas i.r{background:var(--ko)}.patas i.b{background:color-mix(in srgb,var(--ok) 45%,transparent)}.patas i.m{background:color-mix(in srgb,var(--live) 55%,transparent)}
+.patas{display:flex;gap:3px;margin-top:8px}.patas i{flex:1;height:5px;border-radius:3px;background:var(--card2)}.patas i.v{background:var(--ok)}.patas i.r{background:var(--ko)}.patas i.b{background:color-mix(in srgb,var(--ok) 45%,transparent)}.patas i.m{background:color-mix(in srgb,var(--live) 55%,transparent)}.patas i.c{background:repeating-linear-gradient(90deg,var(--ok) 0 4px,transparent 4px 8px)}
 .hero{text-align:center;padding:16px}.hero b{display:block;font:400 52px/1 var(--t);color:var(--ok)}
 .lista .card{padding:10px 12px}
 .det{margin-top:8px;padding-top:4px;border-top:1px solid var(--line)}
@@ -201,7 +201,7 @@ function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las pat
   const esc2 = partido ? escudosDe(p.picks[0].partido_id) : "";   // 28/10: escudos y el partido como título
   const liga = sinEmoji(p.titulo).replace(/^COMBI LOCAS\s*\|\s*/,"");
   const cabeza = partido && esc2 ? `<span class="tit">${eqP(partido)}</span><span class="mut">${esc(liga)} · Combi del partido</span>` : `<span class="tit">${esc(nombreCorto(p))}</span>${partido?`<span class="mut">${eqP(partido)}</span>`:""}`;
-  const clase = x => x.estado==="verde"||(x.estado==="va_bien"&&x.definitivo)?"v":x.estado==="rojo"?"r":x.estado==="va_bien"?"b":x.estado==="va_mal"?"m":"";
+  const clase = x => x.estado==="verde"||(x.estado==="va_bien"&&x.definitivo)?"v":x.estado==="rojo"?"r":x.estado==="va_bien"?"b":x.estado==="va_mal"?"m":x.estado==="comprobando"?"c":"";
   const barra = p.picks.length>1 ? `<div class="patas">${p.picks.map(x=>`<i class="${clase(x)}"></i>`).join("")}</div>` : "";
   return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span>${esc2}<div class="col sp">${cabeza}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>${barra}
     ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${eqP(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
@@ -372,6 +372,8 @@ function icono(p){
   if(p.estado==="verde" || (p.estado==="va_bien" && p.definitivo)) return `<span style="font-size:22px">✅</span>`;
   if(p.estado==="rojo") return `<span style="font-size:22px">❌</span>`;
   if(p.estado==="no_jugo") return `<span class="chip">No jugó</span>`;
+  if(p.estado==="comprobando") return `<span class="chip" title="Esperando a que se confirme el dato">⏳ Comprobando</span>`;
+  if(p.estado==="anulada") return `<span class="chip">Anulada</span>`;
   if(p.estado==="sin_datos" && ["FT","AET","PEN"].includes(p.estado_partido)) return `<span class="chip">Sin datos</span>`;
   if(p.estado==="va_bien") return `<span class="chip va_bien">Va bien</span>`;
   if(p.estado==="va_mal") return `<span class="chip va_mal">Falta</span>`;

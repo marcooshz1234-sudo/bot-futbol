@@ -855,6 +855,8 @@ def main():
         if x["id"] not in ya:
             conocidos.append(dict(x, fecha=hora(x["fecha"]).strftime("%Y-%m-%dT%H:%M")))
     publicados_hoy = []
+    import confirmar
+    conf = confirmar.Confirmador(ahora)
     desde36 = (ahora - timedelta(days=1)).strftime("%Y-%m-%dT00:00")   # 27/10: ayer entero (la app enseña Ayer/Hoy)
     for p in todos:
         if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
@@ -865,8 +867,8 @@ def main():
             filas = [fila_sel(s, c, directo, conocidos) for s, c in zip(p["sel"], p["cuotas"])]
             for f, t, pa in zip(filas, p.get("textos") or [], p.get("partidos") or []):   # boletos: el texto de bet365
                 f["texto"], f["partido"] = t, f["partido"] or pa
-            est = p.get("resultado") or ("verde" if filas and all(x["estado"] == "verde" for x in filas) else
-                   "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
+            filas = [conf.pata(x) for x in filas]   # 31/10: «comprobando» y «anulada» (confirmar.py)
+            est = p.get("resultado") or confirmar.estado_combi(filas)
             publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                    "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
             continue
@@ -889,11 +891,13 @@ def main():
                           "actualizado_iso": fecha_iso(vivo.get("visto")),
                           "marcador": vivo.get("goles"), "minuto": vivo.get("minuto"), "estado_partido": vivo.get("estado"),
                           "exacto": bool(l["spec"] and l["spec"].get("t") == "exacto")})   # 27/10: no cuenta en el marcador
-        est = p.get("resultado") or ("verde" if all(x["estado"] == "verde" for x in filas) else
-               "rojo" if any(x["estado"] == "rojo" for x in filas) else "pendiente")
+        filas = [conf.pata(x) for x in filas]
+        est = p.get("resultado") or confirmar.estado_combi(filas)
         lista = bool(re.search(r"QUIÉN GANA|RESULTADOS EXACTOS|PICKS PARA|OPCIONES|RACHAS|DATOS PARA", filas and p["texto"].splitlines()[0].upper() or ""))
         publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
+
+    conf.guardar()
 
     # 30/10 (Marcos): datos del panel de control (docs/panel/datos.json)
     try:

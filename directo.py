@@ -79,7 +79,7 @@ def main():
             ids.add(p["id"])
     for pid, fecha in ids_publicados(partidos, ahora).items():
         inicio = datetime.fromisoformat(fecha.replace("Z", "+00:00")).astimezone(MADRID)
-        if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=150):
+        if inicio - timedelta(minutes=5) <= ahora <= inicio + timedelta(minutes=170):   # 31/10: +20 min para las correcciones del final
             ids.add(pid)
     registro = list((leer(DATOS / "registro_aciertos.json", {}) or {}).values())   # guarda también los ya empezados
     for d in list((picks.get("dias") or {}).values()) + [{"picks": registro}]:
