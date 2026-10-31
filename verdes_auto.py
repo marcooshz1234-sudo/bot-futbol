@@ -49,7 +49,8 @@ def main():
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
-        if not legs or len(legs) != len(p.get("picks", [])):
+        # 31/10: una pata anulada (partido aplazado o suspendido) no tumba la combi, como en bet365
+        if not legs or not all(x.get("estado") in ("verde", "anulada") for x in p.get("picks", [])):
             continue
         # 30/10: no se celebra al momento. Espera a que terminen los partidos o a que siga en verde 10 min
         # (si el VAR anula el gol, la pata vuelve a pendiente y no sale el verde)
