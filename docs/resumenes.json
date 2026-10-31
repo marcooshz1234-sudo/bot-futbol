@@ -560,14 +560,14 @@
   },
   "2026-10-31": {
     "dia": "2026-10-31",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -581,13 +581,19 @@
         "titulo": "✅ COMBI LOCAS | LALIGA",
         "estado": "pendiente",
         "cuota": 8.74
+      },
+      {
+        "id": "2026-10-31-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x2,21 🍀",
+        "estado": "pendiente",
+        "cuota": 2.21
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 22
+      "total": 24
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 8,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 9,44 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 8,74 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x2,21 🍀 · 2,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
