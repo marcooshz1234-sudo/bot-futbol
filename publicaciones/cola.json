@@ -2115,6 +2115,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-10-31T23:47",
+    "mensaje_id": 215,
+    "redes": {
+      "threads": "18064746431787633"
+    }
   }
 ]
