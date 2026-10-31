@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-10-31 23:57",
+ "actualizado": "2026-11-01 00:07",
  "redes": {
   "instagram": {
    "seguidores": 21,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
     19,
     19,
-    19,
     20,
     20,
     20,
+    21,
     21
    ]
   },
   "threads": {
    "seguidores": 1375,
-   "hoy": 21,
+   "hoy": 0,
    "serie": [
-    930,
     938,
     983,
     1225,
     1281,
     1354,
+    1375,
     1375
    ]
   },
@@ -41,21 +41,21 @@
    ]
   },
   "telegram": {
-   "seguidores": 176,
-   "hoy": 11,
+   "seguidores": 177,
+   "hoy": 1,
    "serie": [
-    71,
     69,
     80,
     113,
     126,
     165,
-    176
+    176,
+    177
    ]
   }
  },
- "total": 1572,
- "total_hoy": 33,
+ "total": 1573,
+ "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
   "hora": "00:30",
@@ -63,8 +63,8 @@
   "titulo": "Combi Liverpool vs Arsenal"
  },
  "ayer": {
-  "aciertos": 11,
-  "total": 18
+  "aciertos": 53,
+  "total": 85
  },
  "escalera": {
   "dia": 2,
@@ -123,6 +123,12 @@
    "threads": 1375,
    "facebook": 0,
    "telegram": 176
+  },
+  "2026-11-01": {
+   "instagram": 21,
+   "threads": 1375,
+   "facebook": 0,
+   "telegram": 177
   }
  },
  "tipos_instagram": {
