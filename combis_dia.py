@@ -391,6 +391,9 @@ def implica(a, b):
             return True
         if ma == "Win Both Halves" and mb in ("Match Winner", "First Half Winner") and ob == oa:
             return True
+    # 31/10 (Marcos): «ambos marcan» ya incluye «Levante marca» (y el otro): las dos juntas no valen para nada
+    if ma == "Both Teams Score" and oa == "Yes" and mb in ("Total - Home", "Total - Away") and ob == "Over 0.5":
+        return True
     if ma == mb and oa.startswith("Over") and ob.startswith("Over"):
         try:
             return float(oa.split()[-1]) > float(ob.split()[-1])
