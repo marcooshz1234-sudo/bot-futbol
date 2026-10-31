@@ -1577,10 +1577,151 @@
    "equipos": {}
   },
   "1570434": {
-   "hora": "2026-10-31T20:24:29.676889+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-10-31T20:35:09.042671+01:00",
+   "xi": [
+    "Joan García",
+    "B. Farinas",
+    "Pau Cubarsí Paredes",
+    "F. de Jong",
+    "João Cancelo",
+    "Pedri",
+    "Rodri",
+    "Fermín",
+    "Lamine Yamal",
+    "Raphinha",
+    "K. Adeyemi",
+    "Sivera",
+    "Jonny",
+    "N. Tenaglia",
+    "V. Koski",
+    "Yusi",
+    "Angel Pérez",
+    "Guevara",
+    "C. Benavídez",
+    "Denis Suárez",
+    "L. Boyé",
+    "A. Rebbach"
+   ],
+   "banquillo": [
+    "Alejandro Balde",
+    "H. Abdelkarim",
+    "Marc Bernal",
+    "A. Campos",
+    "Gabriel Jesus",
+    "Gavi",
+    "A. Gordon",
+    "D. Livaković",
+    "Gerard Martín",
+    "W. Szczęsny",
+    "E. Tunkara",
+    "Guillem Víctor",
+    "N. Valentini",
+    "Miguel Rodríguez",
+    "A. Giménez",
+    "X. Olaiz",
+    "Hugo Novoa",
+    "Toni Martínez",
+    "Aitor Mañas",
+    "Pablo Ibáñez",
+    "M. Díaz",
+    "Selu Diallo",
+    "Carles Aleñá",
+    "Antonio Blanco"
+   ],
+   "equipos": {
+    "529": [
+     {
+      "n": "Joan García",
+      "pos": "G"
+     },
+     {
+      "n": "B. Farinas",
+      "pos": "D"
+     },
+     {
+      "n": "Pau Cubarsí Paredes",
+      "pos": "D"
+     },
+     {
+      "n": "F. de Jong",
+      "pos": "D"
+     },
+     {
+      "n": "João Cancelo",
+      "pos": "D"
+     },
+     {
+      "n": "Pedri",
+      "pos": "M"
+     },
+     {
+      "n": "Rodri",
+      "pos": "M"
+     },
+     {
+      "n": "Fermín",
+      "pos": "M"
+     },
+     {
+      "n": "Lamine Yamal",
+      "pos": "F"
+     },
+     {
+      "n": "Raphinha",
+      "pos": "F"
+     },
+     {
+      "n": "K. Adeyemi",
+      "pos": "F"
+     }
+    ],
+    "542": [
+     {
+      "n": "Sivera",
+      "pos": "G"
+     },
+     {
+      "n": "Jonny",
+      "pos": "D"
+     },
+     {
+      "n": "N. Tenaglia",
+      "pos": "D"
+     },
+     {
+      "n": "V. Koski",
+      "pos": "D"
+     },
+     {
+      "n": "Yusi",
+      "pos": "D"
+     },
+     {
+      "n": "Angel Pérez",
+      "pos": "M"
+     },
+     {
+      "n": "Guevara",
+      "pos": "M"
+     },
+     {
+      "n": "C. Benavídez",
+      "pos": "M"
+     },
+     {
+      "n": "Denis Suárez",
+      "pos": "M"
+     },
+     {
+      "n": "L. Boyé",
+      "pos": "F"
+     },
+     {
+      "n": "A. Rebbach",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
