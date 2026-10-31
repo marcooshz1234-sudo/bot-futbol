@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31 02:06",
+ "actualizado": "2026-10-31 02:16",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -58,17 +58,20 @@
  "total_hoy": 2,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "11:00",
   "dia": "2026-10-31",
-  "titulo": "De 1 a 500 x428,94"
+  "titulo": "Reto escalera · día 2/7 · x2,21"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 11,
+  "total": 18
+ },
  "escalera": {
-  "dia": 1,
+  "dia": 2,
   "de": 7,
-  "stake": 20.0,
-  "objetivo": 41.6,
-  "fecha": "2026-10-30"
+  "stake": 41.6,
+  "objetivo": 91.94,
+  "fecha": "2026-10-31"
  },
  "historial": {
   "2026-10-23": {
