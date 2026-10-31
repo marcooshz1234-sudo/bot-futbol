@@ -2041,5 +2041,40 @@
       "instagram_story": "17939576349123685",
       "threads_enlace": "18132941563815011"
     }
+  },
+  {
+    "id": "2026-10-31-combi-partido-1570434",
+    "fecha": "2026-10-31T19:47",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 BARCELONA vs ALAVES 🇪🇸\n\n🎯 BARCELONA GANA LAS DOS PARTES [x1.80]\n✅ LAMINE YAMAL MARCA O DA ASISTENCIA [x1.20]\n✅ ANTONIO SIVERA: 3+ PARADAS [x1.40]\n✅ BARCELONA HACE MÁS DE 7,5 CÓRNERS [x1.80]\n✅ BARCELONA VE MÁS DE 0,5 TARJETAS [x1.44]\n✅ MÁS DE 11,5 TIROS A PUERTA [x1.83]\n\n🔥 Resultado probable: 3-0 | 2-0 | 3-1\n💥 Cuota total aprox.: 8,19\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570434|Win Both Halves|Home",
+      "1570434|Player to Score or Assist|Lamine Yamal",
+      "1570434|Goalkeeper Saves|Antonio Sivera - 3",
+      "1570434|Home Corners Over/Under|Over 7.5",
+      "1570434|Home Team Total Cards|Over 0.5",
+      "1570434|Total ShotOnGoal|Over 11.5"
+    ],
+    "cuotas": [
+      1.8,
+      1.2,
+      1.4,
+      1.8,
+      1.44,
+      1.83
+    ],
+    "tarjeta": {
+      "local": "Barcelona",
+      "visitante": "Alaves",
+      "id_l": 529,
+      "id_v": 542,
+      "logo_l": "https://media.api-sports.io/football/teams/529.png",
+      "logo_v": "https://media.api-sports.io/football/teams/542.png",
+      "fecha": "2026-10-31T21:00",
+      "liga": "LaLiga"
+    },
+    "nota": "31/10 19:45: combi del Barça–Alavés pedida por Marcos («sube combi para el partido del barsa»)"
   }
 ]
