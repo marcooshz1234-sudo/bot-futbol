@@ -1024,12 +1024,11 @@
   {
     "id": "2026-10-31-combi-partido-1575203",
     "fecha": "2026-10-31T17:30",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 BAYERN MÜNCHEN vs BORUSSIA DORTMUND 🇩🇪\n\n🎯 TOM BISCHOF COMETE 1+ FALTAS [x1.25]\n✅ BORUSSIA DORTMUND MARCA [x1.36]\n✅ MICHAEL OLISE: 2+ TIROS A PUERTA [x1.57]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n✅ BORUSSIA DORTMUND VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 3,5 GOLES [x1.73]\n\n🔥 Resultado probable: 3-1 | 2-2 | 3-2\n💥 Cuota total aprox.: 9,67\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 BAYERN MÜNCHEN vs BORUSSIA DORTMUND 🇩🇪\n\n🎯 BORUSSIA DORTMUND MARCA [x1.36]\n✅ MICHAEL OLISE: 2+ TIROS A PUERTA [x1.57]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n✅ BORUSSIA DORTMUND VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ MÁS DE 3,5 GOLES [x1.73]\n\n🔥 Resultado probable: 3-1 | 2-2 | 3-2\n💥 Cuota total aprox.: 7,28\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575203|Player Fouls Committed|Tom Bischof - 1",
       "1575203|Total - Away|Over 0.5",
       "1575203|Home Player Shots On Target Total|Michael Olise - 2",
       "1575203|Corners Over Under|Over 9.5",
@@ -1037,7 +1036,6 @@
       "1575203|Goals Over/Under|Over 3.5"
     ],
     "cuotas": [
-      1.25,
       1.36,
       1.57,
       1.73,
@@ -1053,7 +1051,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/165.png",
       "fecha": "2026-10-31T18:30",
       "liga": "Bundesliga"
-    }
+    },
+    "revisado_alineaciones": "2026-10-31T18:03"
   },
   {
     "id": "2026-10-31-combi-partido-1550177",
