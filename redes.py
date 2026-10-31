@@ -46,6 +46,9 @@ MAX_THREADS_DIA = 999     # 27/10: sin tope (lo pidió Marcos)
 PRIORITARIOS = ("verde", "balance", "picks-manana", "datos-manana", "combi-loca", "combi-doble", "combi-partido",
                 "datos-rachas", "datos-finde")   # salen aunque se llegue al tope (los de fútbol sin apuesta, para que sean ~30 %)
 LIMITE_THREADS = 500
+CORTO = ((r" hace más de ", " +"), (r" ve más de ", " +"), (r" comete (\d+)\+ faltas", r" \1+ faltas"),
+         (r": (\d+)\+ tiros a puerta", r" \1+ a puerta"), (r": (\d+)\+ tiros", r" \1+ tiros"), (r"Borussia ", ""))
+BANDERA = re.compile("(?:[\U0001F1E6-\U0001F1FF]{2}|\U0001F3F4[\U000E0020-\U000E007F]+) ?")
 TEMA_THREADS = None   # 26/10: con etiqueta de apuestas los posts se veían 3-10 veces menos; sin etiqueta
 
 THREADS = "https://graph.threads.net/v1.0"
@@ -109,6 +112,15 @@ def threads(p, token):
     t = texto_final(dict(p, texto=p.get("texto_threads") or p["texto"]))   # 28/10: versión corta si la hay
     if len(t) > LIMITE_THREADS:   # sin la frase del dato si no cabe
         t = "\n".join(l for l in t.split("\n") if not l.startswith("📊")).replace("\n\n\n", "\n\n")
+    if len(t) > LIMITE_THREADS:   # 31/10 (de 1€ a 500€, 689): sin las banderas de las patas (🏴󠁧󠁢󠁥󠁮󠁧󠁿 ocupa 7)
+        t = "\n".join(BANDERA.sub("", l) if l.startswith("✅") else l for l in t.split("\n"))
+    if len(t) > LIMITE_THREADS:   # frases más cortas en las patas
+        for a, b in CORTO:
+            t = re.sub(a, b, t)
+    if len(t) > LIMITE_THREADS:   # y si aún no cabe, sin la última línea de cierre
+        lineas = t.rstrip().split("\n")
+        if len(lineas) > 3 and not lineas[-1].startswith("✅"):
+            t = "\n".join(lineas[:-1]).rstrip()
     if len(t) > LIMITE_THREADS:
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     datos = {"media_type": "TEXT", "text": t, "access_token": token}
