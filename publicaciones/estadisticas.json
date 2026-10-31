@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31 15:51",
+ "actualizado": "2026-10-31 16:01",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1364,
-   "hoy": 10,
+   "seguidores": 1363,
+   "hoy": 9,
    "serie": [
     930,
     938,
@@ -24,7 +24,7 @@
     1225,
     1281,
     1354,
-    1364
+    1363
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1554,
- "total_hoy": 15,
+ "total": 1553,
+ "total_hoy": 14,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "16:40",
   "dia": "2026-10-31",
-  "titulo": "La loca del sábado x7,11"
+  "titulo": "Combi Udinese vs As Roma"
  },
  "ayer": {
   "aciertos": 11,
@@ -120,7 +120,7 @@
   },
   "2026-10-31": {
    "instagram": 21,
-   "threads": 1364,
+   "threads": 1363,
    "facebook": 0,
    "telegram": 169
   }
