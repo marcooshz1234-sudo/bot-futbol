@@ -1,10 +1,10 @@
 # Academico Viseu – Rio Ave
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 19:00 (hora España) · Estadio do Fontelo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:01_
+_Actualizadas: 31/10 02:03_
 
 - **1X2:** 1 **1.85**  ·  X **3.60**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
@@ -30,7 +30,7 @@ _Actualizadas: 30/10 14:01_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.25**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | D. Špikić | F | 6 | 183 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 0,74 · córners esperados 9,2._
+_Goles esperados: local 2,02 · visitante 0,74 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,15 +214,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
 | Goles del local: Más de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
 | Goles del local: Más de 2.5 | 33% | 25% | 29% | 3.75 | +9% |
-| Goles del local: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles del local: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -23% |
 | Goles del local: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
 | Goles del local: Menos de 2.5 | 67% | 75% | 71% | 1.25 | -11% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del visitante: Más de 1.5 | 17% | 29% | 23% | 3.25 | -25% |
 | Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +9% |
 | Goles del visitante: Menos de 1.5 | 83% | 71% | 77% | 1.33 | +2% |
-| Córners más/menos: Más de 9.5 | 42% | 48% | 45% | 1.98 | -11% |
-| Córners más/menos: Menos de 9.5 | 58% | 52% | 55% | 1.82 | -0% |
+| Córners más/menos: Más de 9.5 | 42% | 49% | 45% | 1.91 | -13% |
+| Córners más/menos: Menos de 9.5 | 58% | 51% | 55% | 1.80 | -2% |
 | 1X2 descanso: 2 | 13% | 21% | 17% | 4.33 | -25% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -9% |
 | 1X2 descanso: 1 | 48% | 37% | 42% | 2.50 | +6% |

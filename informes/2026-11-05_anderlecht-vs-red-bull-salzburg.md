@@ -1,7 +1,7 @@
 # Anderlecht – Red Bull Salzburg
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Lotto Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | F. Krätzig | D | 2 | 8 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,02 · visitante 0,99 · córners esperados 8,8._
+_Goles esperados: local 2,03 · visitante 0,99 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -190,14 +190,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 82% | 74% | 78% | 1.28 | +0% |
 | Ambos marcan: No | 45% | 39% | 42% | 2.38 | +1% |
 | Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
-| Goles más/menos: Más de 2.5 | 58% | 59% | 58% | 1.62 | -6% |
+| Goles más/menos: Más de 2.5 | 58% | 59% | 58% | 1.62 | -5% |
 | Goles más/menos: Más de 3.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles más/menos: Más de 4.5 | 19% | 22% | 20% | 4.33 | -12% |
 | Goles más/menos: Menos de 2.5 | 42% | 41% | 42% | 2.30 | -4% |
 | Goles más/menos: Menos de 3.5 | 64% | 62% | 63% | 1.53 | -3% |
 | Goles más/menos: Menos de 4.5 | 81% | 78% | 80% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 39% | 2.25 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 39% | 2.25 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 61% | 1.57 | -5% |
 | Goles del local: Más de 1.5 | 60% | 54% | 57% | 1.73 | -2% |
@@ -205,7 +205,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Goles del local: Menos de 2.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles del visitante: Más de 0.5 | 63% | 72% | 68% | 1.30 | -12% |
-| Goles del visitante: Más de 1.5 | 26% | 38% | 32% | 2.50 | -21% |
+| Goles del visitante: Más de 1.5 | 26% | 38% | 32% | 2.50 | -20% |
 | Goles del visitante: Menos de 0.5 | 37% | 28% | 32% | 3.40 | +10% |
 | Goles del visitante: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +2% |
 | 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -19% |

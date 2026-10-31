@@ -1,7 +1,7 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -196,9 +196,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 51% | 40% | 45% | 2.38 | +8% |
 | Goles más/menos: Menos de 3.5 | 73% | 60% | 66% | 1.57 | +4% |
 | Goles más/menos: Menos de 4.5 | 87% | 78% | 83% | 1.22 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
 | Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -20% |
 | Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -27% |

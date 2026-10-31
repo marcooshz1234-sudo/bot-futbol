@@ -1,7 +1,7 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -176,16 +176,16 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Rego Mora | M | 4 | 148 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,74 · córners esperados 9,9._
+_Goles esperados: local 1,22 · visitante 1,73 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 44% | 47% | 2.15 | +0% |
+| 1X2: 2 | 49% | 44% | 46% | 2.15 | -0% |
 | 1X2: X | 24% | 28% | 26% | 3.40 | -13% |
-| 1X2: 1 | 27% | 29% | 28% | 3.25 | -10% |
+| 1X2: 1 | 27% | 29% | 28% | 3.25 | -9% |
 | Doble oportunidad: X2 | 73% | 71% | 72% | 1.33 | -4% |
 | Doble oportunidad: 12 | 76% | 73% | 74% | 1.30 | -3% |
-| Doble oportunidad: 1X | 50% | 56% | 53% | 1.67 | -11% |
+| Doble oportunidad: 1X | 51% | 56% | 54% | 1.67 | -11% |
 | Ambos marcan: No | 42% | 48% | 45% | 1.95 | -12% |
 | Ambos marcan: Sí | 58% | 52% | 55% | 1.80 | -1% |
 | Goles más/menos: Más de 1.5 | 79% | 72% | 76% | 1.33 | +1% |

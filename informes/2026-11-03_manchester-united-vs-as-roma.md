@@ -1,7 +1,7 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:01_
@@ -182,11 +182,11 @@ _Goles esperados: local 1,63 · visitante 1,83 · córners esperados 9,1._
 | 1X2: 2 | 43% | 35% | 39% | 2.70 | +5% |
 | 1X2: X | 22% | 25% | 23% | 3.80 | -11% |
 | 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
-| Doble oportunidad: X2 | 65% | 60% | 63% | 1.57 | -2% |
+| Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
 | Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 57% | 65% | 61% | 1.44 | -12% |
-| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
-| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
+| Ambos marcan: No | 33% | 38% | 35% | 2.50 | -12% |
+| Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
 | Goles más/menos: Más de 2.5 | 67% | 64% | 65% | 1.50 | -2% |
 | Goles más/menos: Más de 3.5 | 45% | 41% | 43% | 2.30 | -0% |
 | Goles más/menos: Más de 4.5 | 27% | 24% | 25% | 4.00 | +1% |
@@ -198,10 +198,10 @@ _Goles esperados: local 1,63 · visitante 1,83 · córners esperados 9,1._
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
-| Goles del local: Menos de 1.5 | 51% | 50% | 51% | 1.83 | -7% |
+| Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
 | Goles del visitante: Más de 1.5 | 55% | 46% | 50% | 2.00 | +1% |

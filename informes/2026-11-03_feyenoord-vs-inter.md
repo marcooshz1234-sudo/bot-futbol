@@ -1,7 +1,7 @@
 # Feyenoord – Inter
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:01_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | I. Provedel | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,06 · visitante 1,77 · córners esperados 9,4._
+_Goles esperados: local 2,06 · visitante 1,76 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -193,11 +193,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -5% |
 | Doble oportunidad: 1X | 66% | 45% | 56% | 2.10 | +17% |
 | Ambos marcan: No | 28% | 35% | 32% | 2.62 | -17% |
-| Ambos marcan: Sí | 72% | 65% | 68% | 1.44 | -1% |
-| Goles más/menos: Más de 2.5 | 74% | 68% | 71% | 1.40 | -1% |
-| Goles más/menos: Más de 3.5 | 53% | 47% | 50% | 2.00 | +1% |
+| Ambos marcan: Sí | 72% | 65% | 68% | 1.44 | -2% |
+| Goles más/menos: Más de 2.5 | 73% | 68% | 71% | 1.40 | -1% |
+| Goles más/menos: Más de 3.5 | 53% | 47% | 50% | 2.00 | +0% |
 | Goles más/menos: Más de 4.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles más/menos: Menos de 2.5 | 26% | 32% | 29% | 3.00 | -13% |
+| Goles más/menos: Menos de 2.5 | 27% | 32% | 29% | 3.00 | -12% |
 | Goles más/menos: Menos de 3.5 | 47% | 53% | 50% | 1.80 | -10% |
 | Goles más/menos: Menos de 4.5 | 66% | 72% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 78% | 80% | 1.20 | -4% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 39% | 61% | 50% | 1.53 | -24% |
 | Goles del visitante: Más de 1.5 | 53% | 65% | 59% | 1.44 | -16% |
 | Goles del visitante: Más de 2.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles del visitante: Menos de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
+| Goles del visitante: Menos de 1.5 | 47% | 35% | 41% | 2.62 | +9% |
 | Goles del visitante: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +2% |
 | 1X2 descanso: 2 | 29% | 44% | 36% | 2.10 | -23% |
 | 1X2 descanso: X | 34% | 35% | 35% | 2.62 | -9% |

@@ -1,13 +1,13 @@
 # Groningen – Sparta Rotterdam
 **Eredivisie** · Regular Season - 11 · 01/11/2026 16:45 (hora España) · Hitachi Capital Mobility Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:01_
+_Actualizadas: 31/10 02:03_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **4.10**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.05**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.00**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
@@ -23,13 +23,13 @@ _Actualizadas: 30/10 14:01_
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.50** · menos **2.50**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 10,5: más **1.73** · menos **2.00**
@@ -51,7 +51,7 @@ _Actualizadas: 30/10 14:01_
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.25**  ·  Menos de 5 **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.92**  ·  Menos de 5 **1.88**
 - **Home Player Shots On Target Total:** Oskar Zawada - 1 **1.28**  ·  Thom van Bergen - 1 **1.22**  ·  Brynjolfur Willumsson - 1 **1.14**  ·  Jacob Ondrejka - 1 **1.40**  ·  Ryan Metu - 1 **1.50**  ·  Nils Eggens - 1 **1.36**  ·  Pelle Clement - 1 **1.62**  ·  David van der Werff - 1 **1.57**  ·  Jahelille Hall - 1 **1.83**  ·  Tika de Jonge - 1 **2.00**  ·  Alvin Nordin - 1 **1.83**  ·  Jorg Schreuders - 1 **2.20**  ·  Travis Hernes - 1 **1.83**  ·  Jismerai Dillema - 1 **1.73**  ·  Nikolas Brandis - 1 **2.00**  ·  Tygo Land - 1 **2.00**  ·  Tyrique Mercera - 1 **2.00**  ·  Marco Rente - 1 **3.00**  ·  Jesper Mosselaar - 1 **3.25**  ·  Mark Csinger - 1 **3.25**  ·  Sven Bouland - 1 **3.25**  ·  Thijmen Blokzijl - 1 **3.25**  ·  Wouter Prins - 1 **3.25**  ·  Elvis van der Laan - 1 **3.50**  ·  Oskar Zawada - 2 **2.38**  ·  Thom van Bergen - 2 **2.00**  ·  Brynjolfur Willumsson - 2 **1.73**  ·  Jacob Ondrejka - 2 **3.00**  ·  Ryan Metu - 2 **3.50**  ·  Nils Eggens - 2 **2.62**  ·  Pelle Clement - 2 **4.00**  ·  David van der Werff - 2 **3.75**  ·  Jahelille Hall - 2 **5.50**  ·  Tika de Jonge - 2 **6.50**  ·  Alvin Nordin - 2 **5.50**  ·  Jorg Schreuders - 2 **8.00**  ·  Travis Hernes - 2 **5.50**  ·  Jismerai Dillema - 2 **4.50**  ·  Nikolas Brandis - 2 **6.50**  ·  Tygo Land - 2 **6.50**  ·  Tyrique Mercera - 2 **6.50**  ·  Marco Rente - 2 **15.00**  ·  Jesper Mosselaar - 2 **17.00**  ·  Mark Csinger - 2 **17.00**  ·  Sven Bouland - 2 **17.00**  ·  Thijmen Blokzijl - 2 **17.00**  ·  Wouter Prins - 2 **17.00**  ·  Elvis van der Laan - 2 **19.00**  ·  Oskar Zawada - 3 **5.50**  ·  Thom van Bergen - 3 **4.33**  ·  Brynjolfur Willumsson - 3 **3.40**  ·  Jacob Ondrejka - 3 **8.00**  ·  Ryan Metu - 3 **10.00**  ·  Nils Eggens - 3 **7.00**  ·  Pelle Clement - 3 **13.00**  ·  David van der Werff - 3 **11.00**  ·  Jahelille Hall - 3 **19.00**  ·  Tika de Jonge - 3 **21.00**  ·  Alvin Nordin - 3 **19.00**  ·  Travis Hernes - 3 **19.00**  ·  Jismerai Dillema - 3 **15.00**  ·  Nikolas Brandis - 3 **21.00**  ·  Tygo Land - 3 **21.00**  ·  Tyrique Mercera - 3 **21.00**  ·  Oskar Zawada - 4 **15.00**  ·  Thom van Bergen - 4 **11.00**  ·  Brynjolfur Willumsson - 4 **7.00**  ·  Jacob Ondrejka - 4 **21.00**  ·  Nils Eggens - 4 **19.00**  ·  Pelle Clement - 4 **19.00**  ·  Oskar Zawada - 5 **21.00**  ·  Thom van Bergen - 5 **21.00**  ·  Brynjolfur Willumsson - 5 **19.00**  ·  Hans Hateboer - 1 **2.75**  ·  Hans Hateboer - 2 **13.00**
 - **Away Player Shots On Target Total:** Brynjolfur Willumsson **6.00**  ·  Tyrique Mercera **23.00**  ·  Elvis van der Laan **13.00**  ·  Mark Csinger **10.00**  ·  Nils Eggens **6.00**  ·  Robin van Cruijsen **12.00**  ·  Giannino Vianello **51.00**  ·  Hans Hateboer **23.00**  ·  Casper Terho **13.00**  ·  Jacob Ondrejka **15.00**  ·  Mitchell Van Bergen **19.00**  ·  Bas Kuipers **26.00**  ·  Oskar Zawada **7.50**  ·  Tygo Land **41.00**  ·  Jens Toornstra **51.00**  ·  Jorg Schreuders **51.00**  ·  Thom van Bergen **11.00**  ·  Wouter Prins **34.00**  ·  Sven Bouland **13.00**  ·  Thijmen Blokzijl **13.00**  ·  Marco Rente **10.00**  ·  Pelle Clement **17.00**  ·  Shunsuke Mito **15.00**  ·  Julian Baas **23.00**  ·  Max de Ligt **34.00**  ·  Teo Quintero **23.00**  ·  Boyd Reith **29.00**  ·  Marvin Young **23.00**  ·  Bruno Martins Indi **29.00**  ·  Lushendry Martes **23.00**  ·  Younes el Meftahi **10.00**  ·  Alwande Roaldsoy **19.00**  ·  Ryan Metu **15.00**  ·  Tika de Jonge **23.00**  ·  Nikolas Brandis **23.00**  ·  David van der Werff **29.00**  ·  Nick Verschuren **15.00**  ·  Milan Zonneveld **13.00**  ·  Joel Ideho **21.00**  ·  Travis Hernes **21.00**
 - **Home Player Shots:** Oskar Zawada - 1 **1.01**  ·  Jacob Ondrejka - 1 **1.04**  ·  Ryan Metu - 1 **1.06**  ·  Nils Eggens - 1 **1.03**  ·  Pelle Clement - 1 **1.06**  ·  David van der Werff - 1 **1.04**  ·  Jahelille Hall - 1 **1.14**  ·  Tika de Jonge - 1 **1.18**  ·  Alvin Nordin - 1 **1.14**  ·  Jorg Schreuders - 1 **1.22**  ·  Travis Hernes - 1 **1.14**  ·  Jismerai Dillema - 1 **1.11**  ·  Nikolas Brandis - 1 **1.18**  ·  Tygo Land - 1 **1.18**  ·  Tyrique Mercera - 1 **1.18**  ·  Marco Rente - 1 **1.40**  ·  Jesper Mosselaar - 1 **1.57**  ·  Mark Csinger - 1 **1.57**  ·  Sven Bouland - 1 **1.57**  ·  Thijmen Blokzijl - 1 **1.57**  ·  Wouter Prins - 1 **1.57**  ·  Elvis van der Laan - 1 **1.67**  ·  Oskar Zawada - 2 **1.10**  ·  Thom van Bergen - 2 **1.03**  ·  Brynjolfur Willumsson - 2 **1.05**  ·  Jacob Ondrejka - 2 **1.22**  ·  Ryan Metu - 2 **1.30**  ·  Nils Eggens - 2 **1.20**  ·  Pelle Clement - 2 **1.33**  ·  David van der Werff - 2 **1.25**  ·  Jahelille Hall - 2 **1.62**  ·  Tika de Jonge - 2 **1.80**  ·  Alvin Nordin - 2 **1.62**  ·  Jorg Schreuders - 2 **2.00**  ·  Travis Hernes - 2 **1.62**  ·  Jismerai Dillema - 2 **1.50**  ·  Nikolas Brandis - 2 **1.80**  ·  Tygo Land - 2 **1.80**  ·  Tyrique Mercera - 2 **1.80**  ·  Marco Rente - 2 **2.62**  ·  Jesper Mosselaar - 2 **3.50**  ·  Mark Csinger - 2 **3.50**  ·  Sven Bouland - 2 **3.50**  ·  Thijmen Blokzijl - 2 **3.50**  ·  Wouter Prins - 2 **3.50**  ·  Elvis van der Laan - 2 **4.00**  ·  Oskar Zawada - 3 **1.30**  ·  Thom van Bergen - 3 **1.12**  ·  Brynjolfur Willumsson - 3 **1.18**  ·  Jacob Ondrejka - 3 **1.67**  ·  Ryan Metu - 3 **1.83**  ·  Nils Eggens - 3 **1.57**  ·  Pelle Clement - 3 **1.91**  ·  David van der Werff - 3 **1.73**  ·  Jahelille Hall - 3 **2.75**  ·  Tika de Jonge - 3 **3.40**  ·  Alvin Nordin - 3 **2.75**  ·  Jorg Schreuders - 3 **4.00**  ·  Travis Hernes - 3 **2.75**  ·  Jismerai Dillema - 3 **2.50**  ·  Nikolas Brandis - 3 **3.40**  ·  Tygo Land - 3 **3.40**  ·  Tyrique Mercera - 3 **3.40**  ·  Marco Rente - 3 **6.50**  ·  Jesper Mosselaar - 3 **10.00**  ·  Mark Csinger - 3 **10.00**  ·  Sven Bouland - 3 **10.00**  ·  Thijmen Blokzijl - 3 **10.00**  ·  Wouter Prins - 3 **10.00**  ·  Elvis van der Laan - 3 **11.00**  ·  Oskar Zawada - 4 **1.73**  ·  Thom van Bergen - 4 **1.33**  ·  Brynjolfur Willumsson - 4 **1.44**  ·  Jacob Ondrejka - 4 **2.62**  ·  Ryan Metu - 4 **3.25**  ·  Nils Eggens - 4 **2.38**  ·  Pelle Clement - 4 **3.40**  ·  David van der Werff - 4 **2.75**  ·  Jahelille Hall - 4 **5.50**  ·  Tika de Jonge - 4 **7.00**  ·  Alvin Nordin - 4 **5.50**  ·  Jorg Schreuders - 4 **9.00**  ·  Travis Hernes - 4 **5.50**  ·  Jismerai Dillema - 4 **4.50**  ·  Nikolas Brandis - 4 **7.00**  ·  Tygo Land - 4 **7.00**  ·  Tyrique Mercera - 4 **7.00**  ·  Marco Rente - 4 **17.00**  ·  Oskar Zawada - 5 **2.62**  ·  Thom van Bergen - 5 **1.73**  ·  Brynjolfur Willumsson - 5 **1.91**  ·  Jacob Ondrejka - 5 **4.33**  ·  Ryan Metu - 5 **6.00**  ·  Nils Eggens - 5 **4.00**  ·  Pelle Clement - 5 **6.50**  ·  David van der Werff - 5 **5.00**  ·  Jahelille Hall - 5 **13.00**  ·  Oskar Zawada - 6 **4.33**  ·  Thom van Bergen - 6 **2.50**  ·  Brynjolfur Willumsson - 6 **2.75**  ·  Jacob Ondrejka - 6 **9.00**  ·  Ryan Metu - 6 **11.00**  ·  Nils Eggens - 6 **8.00**  ·  Pelle Clement - 6 **13.00**  ·  David van der Werff - 6 **10.00**  ·  Oskar Zawada - 7 **8.00**  ·  Thom van Bergen - 7 **3.75**  ·  Brynjolfur Willumsson - 7 **4.50**  ·  Jacob Ondrejka - 7 **17.00**  ·  Ryan Metu - 7 **21.00**  ·  Oskar Zawada - 8 **13.00**  ·  Thom van Bergen - 8 **6.00**  ·  Brynjolfur Willumsson - 8 **8.00**  ·  Oskar Zawada - 9 **21.00**  ·  Tika de Jonge - 5 **15.00**  ·  Alvin Nordin - 5 **13.00**  ·  Travis Hernes - 5 **13.00**  ·  Jismerai Dillema - 5 **10.00**  ·  Nils Eggens - 7 **15.00**  ·  Pelle Clement - 7 **21.00**  ·  Thom van Bergen - 9 **11.00**  ·  Brynjolfur Willumsson - 9 **13.00**  ·  Jesper Mosselaar - 4 **21.00**  ·  Mark Csinger - 4 **21.00**  ·  Sven Bouland - 4 **21.00**  ·  Thijmen Blokzijl - 4 **21.00**  ·  Wouter Prins - 4 **21.00**  ·  Nikolas Brandis - 5 **15.00**  ·  Tygo Land - 5 **15.00**  ·  Tyrique Mercera - 5 **15.00**  ·  Jorg Schreuders - 5 **21.00**  ·  Jahelille Hall - 6 **21.00**  ·  Tika de Jonge - 6 **21.00**  ·  Alvin Nordin - 6 **21.00**  ·  Travis Hernes - 6 **21.00**  ·  David van der Werff - 7 **19.00**  ·  Jacob Ondrejka - 8 **19.00**  ·  Pelle Clement - 8 **21.00**  ·  Nils Eggens - 8 **21.00**  ·  Oskar Zawada - 10 **21.00**  ·  Thom van Bergen - 10 **19.00**  ·  Brynjolfur Willumsson - 10 **21.00**  ·  Jismerai Dillema - 6 **19.00**  ·  Hans Hateboer - 1 **1.44**  ·  Hans Hateboer - 2 **3.00**  ·  Hans Hateboer - 3 **7.00**  ·  Hans Hateboer - 4 **19.00**
@@ -202,15 +202,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 30% | 23% | 27% | 4.10 | +9% |
 | 1X2: X | 19% | 23% | 21% | 4.20 | -12% |
 | 1X2: 1 | 51% | 54% | 53% | 1.75 | -8% |
-| Doble oportunidad: X2 | 49% | 46% | 47% | 2.05 | -3% |
+| Doble oportunidad: X2 | 49% | 47% | 48% | 2.00 | -4% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 70% | 77% | 74% | 1.22 | -10% |
+| Doble oportunidad: 1X | 70% | 77% | 73% | 1.22 | -10% |
 | Ambos marcan: No | 23% | 35% | 29% | 2.62 | -24% |
 | Ambos marcan: Sí | 77% | 65% | 71% | 1.44 | +2% |
 | Goles más/menos: Más de 2.5 | 80% | 65% | 73% | 1.44 | +5% |
 | Goles más/menos: Más de 3.5 | 62% | 46% | 54% | 2.00 | +9% |
 | Goles más/menos: Más de 4.5 | 43% | 27% | 35% | 3.50 | +22% |
-| Goles más/menos: Menos de 2.5 | 20% | 35% | 27% | 2.70 | -27% |
+| Goles más/menos: Menos de 2.5 | 20% | 35% | 27% | 2.70 | -26% |
 | Goles más/menos: Menos de 3.5 | 38% | 54% | 46% | 1.73 | -21% |
 | Goles más/menos: Menos de 4.5 | 57% | 73% | 65% | 1.28 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -2% |
@@ -219,15 +219,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -16% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -11% |
-| Goles del local: Más de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Más de 1.5 | 70% | 61% | 65% | 1.53 | +0% |
 | Goles del local: Más de 2.5 | 44% | 35% | 40% | 2.62 | +4% |
-| Goles del local: Menos de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del local: Menos de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
 | Goles del local: Menos de 2.5 | 56% | 65% | 60% | 1.44 | -13% |
 | Goles del visitante: Más de 0.5 | 85% | 72% | 78% | 1.30 | +2% |
-| Goles del visitante: Más de 1.5 | 56% | 38% | 47% | 2.50 | +17% |
+| Goles del visitante: Más de 1.5 | 56% | 39% | 47% | 2.38 | +13% |
 | Goles del visitante: Menos de 0.5 | 15% | 28% | 22% | 3.40 | -27% |
-| Goles del visitante: Menos de 1.5 | 44% | 62% | 53% | 1.50 | -20% |
-| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -16% |
+| Goles del visitante: Menos de 1.5 | 44% | 61% | 53% | 1.53 | -20% |
+| Córners más/menos: Más de 10.5 | 44% | 54% | 49% | 1.73 | -15% |
 | Córners más/menos: Menos de 10.5 | 56% | 46% | 51% | 2.00 | +2% |
 | 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
 | 1X2 descanso: X | 32% | 35% | 34% | 2.60 | -13% |

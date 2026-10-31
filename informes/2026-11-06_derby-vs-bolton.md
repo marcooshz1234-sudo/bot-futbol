@@ -1,7 +1,7 @@
 # Derby – Bolton
 **Championship** · Regular Season - 15 · 06/11/2026 21:00 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | A. Ito | M | 6 | 247 | 2 | 0 | 3 | 0,5 | 2 | 0,3 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,21 · visitante 1,41 · córners esperados 10,3._
+_Goles esperados: local 1,22 · visitante 1,42 · córners esperados 10,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

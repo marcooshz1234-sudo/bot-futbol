@@ -1,7 +1,7 @@
 # Panathinaikos – CSKA Sofia
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Olympic Stadium of Athens
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_
@@ -171,39 +171,39 @@ _Sin precedentes recientes._
 | Isaac Solet | M | 2 | 18 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,73 · visitante 1,29 · córners esperados 10,1._
+_Goles esperados: local 2,75 · visitante 1,29 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 13% | 15% | 7.00 | +2% |
+| 1X2: 2 | 16% | 13% | 14% | 7.00 | +1% |
 | 1X2: X | 16% | 21% | 18% | 4.50 | -17% |
 | 1X2: 1 | 68% | 66% | 67% | 1.40 | -6% |
 | Doble oportunidad: X2 | 32% | 34% | 33% | 2.75 | -9% |
-| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 84% | 86% | 85% | 1.10 | -7% |
+| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 84% | 86% | 85% | 1.10 | -6% |
 | Ambos marcan: No | 32% | 50% | 41% | 1.83 | -25% |
 | Ambos marcan: Sí | 68% | 50% | 59% | 1.83 | +8% |
 | Goles más/menos: Más de 1.5 | 91% | 78% | 85% | 1.20 | +2% |
-| Goles más/menos: Más de 2.5 | 76% | 56% | 66% | 1.67 | +11% |
-| Goles más/menos: Más de 3.5 | 57% | 35% | 46% | 2.62 | +21% |
-| Goles más/menos: Menos de 1.5 | 9% | 22% | 15% | 4.33 | -33% |
-| Goles más/menos: Menos de 2.5 | 24% | 44% | 34% | 2.15 | -28% |
+| Goles más/menos: Más de 2.5 | 77% | 56% | 66% | 1.67 | +11% |
+| Goles más/menos: Más de 3.5 | 57% | 35% | 46% | 2.62 | +22% |
+| Goles más/menos: Menos de 1.5 | 9% | 22% | 15% | 4.33 | -34% |
+| Goles más/menos: Menos de 2.5 | 23% | 44% | 34% | 2.15 | -28% |
 | Goles más/menos: Menos de 3.5 | 43% | 65% | 54% | 1.44 | -23% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 72% | 77% | 1.30 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 83% | 72% | 77% | 1.30 | +1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 52% | 38% | 45% | 2.50 | +12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 17% | 28% | 23% | 3.40 | -23% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 48% | 62% | 55% | 1.50 | -17% |
 | Goles del local: Más de 1.5 | 76% | 62% | 69% | 1.50 | +4% |
-| Goles del local: Más de 2.5 | 51% | 38% | 44% | 2.50 | +11% |
+| Goles del local: Más de 2.5 | 52% | 38% | 45% | 2.50 | +12% |
 | Goles del local: Menos de 1.5 | 24% | 38% | 31% | 2.50 | -23% |
-| Goles del local: Menos de 2.5 | 49% | 62% | 56% | 1.50 | -17% |
+| Goles del local: Menos de 2.5 | 48% | 62% | 55% | 1.50 | -17% |
 | Goles del visitante: Más de 0.5 | 72% | 54% | 63% | 1.73 | +9% |
 | Goles del visitante: Más de 1.5 | 37% | 21% | 29% | 4.50 | +30% |
 | Goles del visitante: Menos de 0.5 | 28% | 46% | 37% | 2.00 | -26% |
 | Goles del visitante: Menos de 1.5 | 63% | 79% | 71% | 1.18 | -16% |
 | 1X2 descanso: X | 31% | 38% | 34% | 2.50 | -14% |
-| 1X2 descanso: 1 | 51% | 49% | 50% | 1.91 | -4% |
+| 1X2 descanso: 1 | 52% | 49% | 50% | 1.91 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

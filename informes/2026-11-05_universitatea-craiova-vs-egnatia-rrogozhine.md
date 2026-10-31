@@ -1,7 +1,7 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_
@@ -175,7 +175,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 31% | 15% | 23% | 6.25 | +43% |
 | 1X2: X | 24% | 21% | 22% | 4.33 | -3% |
 | 1X2: 1 | 45% | 64% | 55% | 1.44 | -21% |
-| Doble oportunidad: X2 | 55% | 36% | 45% | 2.62 | +19% |
+| Doble oportunidad: X2 | 55% | 36% | 46% | 2.62 | +19% |
 | Doble oportunidad: 12 | 76% | 79% | 78% | 1.20 | -7% |
 | Doble oportunidad: 1X | 69% | 85% | 77% | 1.12 | -14% |
 | Ambos marcan: No | 39% | 50% | 45% | 1.83 | -18% |

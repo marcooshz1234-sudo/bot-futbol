@@ -1,7 +1,7 @@
 # Borussia Dortmund – SV Elversberg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -56,53 +56,53 @@ _Actualizadas: 30/10 19:52_
 ## Estadísticas de equipo
 | | Borussia Dortmund (total) | Borussia Dortmund en casa | SV Elversberg (total) | SV Elversberg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 9 | 5 |
-| Forma (últimos 5) | VVVED | VVEVV | DDVDE | DDEVV |
-| Balance | 9V 2E 1D | 5V 1E 0D | 4V 1E 4D | 2V 1E 2D |
-| Goles a favor / partido | 2,08 | 2,33 | 1,67 | 1,40 |
-| Goles en contra / partido | 0,83 | 1,00 | 2,00 | 1,80 |
-| Goles a favor 1ª parte | 0,83 | 0,83 | 0,78 | 0,40 |
-| Goles a favor 2ª parte | 1,25 | 1,50 | 0,89 | 1,00 |
-| Goles en contra 1ª parte | 0,17 | 0,00 | 0,56 | 0,40 |
-| Goles en contra 2ª parte | 0,67 | 1,00 | 1,44 | 1,40 |
-| Más de 1,5 goles | 67% | 83% | 78% | 60% |
-| Más de 2,5 goles | 58% | 67% | 67% | 60% |
-| Más de 3,5 goles | 42% | 50% | 56% | 60% |
-| Ambos marcan | 42% | 50% | 56% | 40% |
-| Portería a cero | 50% | 50% | 11% | 20% |
-| Se queda sin marcar | 17% | 0% | 44% | 60% |
-| xG a favor | 1,88 | 1,93 | 1,49 | 1,06 |
-| xG en contra | 1,08 | 1,06 | 2,07 | 1,85 |
+| Partidos analizados | 12 | 6 | 10 | 5 |
+| Forma (últimos 5) | VVVED | VVEVV | VDDVD | DDEVV |
+| Balance | 9V 2E 1D | 5V 1E 0D | 5V 1E 4D | 2V 1E 2D |
+| Goles a favor / partido | 2,08 | 2,33 | 1,90 | 1,40 |
+| Goles en contra / partido | 0,83 | 1,00 | 1,90 | 1,80 |
+| Goles a favor 1ª parte | 0,83 | 0,83 | 1,00 | 0,40 |
+| Goles a favor 2ª parte | 1,25 | 1,50 | 0,90 | 1,00 |
+| Goles en contra 1ª parte | 0,17 | 0,00 | 0,50 | 0,40 |
+| Goles en contra 2ª parte | 0,67 | 1,00 | 1,40 | 1,40 |
+| Más de 1,5 goles | 67% | 83% | 80% | 60% |
+| Más de 2,5 goles | 58% | 67% | 70% | 60% |
+| Más de 3,5 goles | 42% | 50% | 60% | 60% |
+| Ambos marcan | 42% | 50% | 60% | 40% |
+| Portería a cero | 50% | 50% | 10% | 20% |
+| Se queda sin marcar | 17% | 0% | 40% | 60% |
+| xG a favor | 1,88 | 1,93 | 1,44 | 1,06 |
+| xG en contra | 1,08 | 1,06 | 1,98 | 1,85 |
 | Tiros / partido | 17,0 | 17,2 | 12,6 | 10,4 |
-| Tiros a puerta / partido | 5,9 | 6,3 | 4,6 | 4,0 |
-| Tiros recibidos | 10,8 | 10,3 | 18,7 | 16,6 |
-| Tiros a puerta recibidos | 3,4 | 3,7 | 4,7 | 4,4 |
+| Tiros a puerta / partido | 5,9 | 6,3 | 4,7 | 4,0 |
+| Tiros recibidos | 10,8 | 10,3 | 17,8 | 16,6 |
+| Tiros a puerta recibidos | 3,4 | 3,7 | 4,4 | 4,4 |
 | Posesión media % | 56 | 58 | 50 | 54 |
 | Córners a favor | 7,6 | 7,5 | 5,4 | 4,0 |
-| Córners en contra | 4,1 | 3,0 | 6,3 | 6,2 |
-| Córners a favor 1ª parte | 3,6 | 3,5 | 3,6 | 2,2 |
+| Córners en contra | 4,1 | 3,0 | 6,8 | 6,2 |
+| Córners a favor 1ª parte | 3,6 | 3,5 | 3,5 | 2,2 |
 | Córners a favor 2ª parte | 4,0 | 4,0 | 1,9 | 1,8 |
-| Córners totales del partido | 11,7 | 10,5 | 11,8 | 10,2 |
-| Córners totales 1ª parte | 5,2 | 4,5 | 6,2 | 4,8 |
-| Córners totales 2ª parte | 6,5 | 6,0 | 5,6 | 5,4 |
-| Más de 8,5 córners | 75% | 67% | 67% | 60% |
-| Más de 9,5 córners | 75% | 67% | 67% | 60% |
-| Más de 10,5 córners | 58% | 50% | 44% | 20% |
-| Faltas cometidas | 10,9 | 11,7 | 12,1 | 11,0 |
-| Faltas recibidas | 10,6 | 11,2 | 11,9 | 12,6 |
-| Amarillas propias | 1,7 | 1,3 | 1,8 | 1,2 |
-| Amarillas del rival | 2,0 | 1,7 | 1,7 | 1,6 |
+| Córners totales del partido | 11,7 | 10,5 | 12,2 | 10,2 |
+| Córners totales 1ª parte | 5,2 | 4,5 | 6,8 | 4,8 |
+| Córners totales 2ª parte | 6,5 | 6,0 | 5,4 | 5,4 |
+| Más de 8,5 córners | 75% | 67% | 70% | 60% |
+| Más de 9,5 córners | 75% | 67% | 70% | 60% |
+| Más de 10,5 córners | 58% | 50% | 50% | 20% |
+| Faltas cometidas | 10,9 | 11,7 | 11,7 | 11,0 |
+| Faltas recibidas | 10,6 | 11,2 | 12,9 | 12,6 |
+| Amarillas propias | 1,7 | 1,3 | 1,6 | 1,2 |
+| Amarillas del rival | 2,0 | 1,7 | 1,8 | 1,6 |
 | Rojas / partido | 0,08 | 0,17 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Borussia Dortmund | Recibe Borussia Dortmund | Tarjetas Borussia Dortmund | Goles SV Elversberg | Recibe SV Elversberg | Tarjetas SV Elversberg |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 0 | 4 | 4 | 2 | 1 |
-| 16-30' | 1 | 0 | 1 | 2 | 1 | 2 |
-| 31-45' | 5 | 2 | 2 | 1 | 2 | 2 |
+| 1-15' | 4 | 0 | 4 | 5 | 2 | 1 |
+| 16-30' | 1 | 0 | 1 | 3 | 1 | 2 |
+| 31-45' | 5 | 2 | 2 | 2 | 2 | 2 |
 | 46-60' | 2 | 3 | 4 | 1 | 4 | 1 |
 | 61-75' | 3 | 3 | 2 | 2 | 2 | 4 |
-| 76-90' | 10 | 2 | 8 | 5 | 8 | 6 |
+| 76-90' | 10 | 2 | 8 | 6 | 9 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,75 +149,75 @@ _Sin precedentes recientes._
 ## Últimos partidos de SV Elversberg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bundesliga | SV Elversberg 4-1 FSV Mainz 05 | casa | 5-11 | 13 (6) - 10 (2) | 0-3 |
 | 2026-10-27 | DFB-Pokal | SV Elversberg 0-2 SV Darmstadt 98 | casa | 18-2 | 26 (6) - 7 (2) | 1-2 |
 | 2026-10-24 | Bundesliga | RB Leipzig 4-0 SV Elversberg | fuera | 6-4 | 5 (1) - 13 (6) | 1-1 |
 | 2026-10-17 | Bundesliga | SV Elversberg 4-3 FC Augsburg | casa | 4-12 | 19 (8) - 29 (8) | 4-3 |
 | 2026-10-10 | Bundesliga | Union Berlin 1-0 SV Elversberg | fuera | 3-7 | 7 (2) - 19 (6) | 1-2 |
 | 2026-09-20 | Bundesliga | FC Schalke 04 0-0 SV Elversberg | fuera | 4-4 | 11 (1) - 13 (1) | 2-1 |
-| 2026-09-13 | Bundesliga | SV Elversberg 1-2 Bayern München | casa | 3-9 | 5 (1) - 28 (6) | 2-0 |
 
 ## Jugadores de SV Elversberg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Kristof | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
-| L. Petkov | M | 9 | 803 | 2 | 2 | 17 | 1,9 | 6 | 0,7 | 11 | 11 | 1,2 | 0 | 0 |
-| Ł. Poręba | M | 9 | 784 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 13 | 7 | 0,8 | 0 | 0 |
-| L. Günther | D | 9 | 745 | 1 | 0 | 5 | 0,6 | 3 | 0,3 | 6 | 9 | 1,0 | 2 | 0 |
-| F. Keidel | D | 9 | 727 | 1 | 3 | 3 | 0,3 | 1 | 0,1 | 11 | 5 | 0,6 | 4 | 0 |
-| L. Pinckert | D | 8 | 720 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 7 | 5 | 0,6 | 1 | 0 |
-| M. Rohr | D | 8 | 712 | 1 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 9 | 1,1 | 1 | 0 |
-| D. Mokwa | F | 9 | 514 | 2 | 0 | 8 | 0,9 | 4 | 0,4 | 8 | 5 | 0,6 | 0 | 0 |
+| N. Kristof | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 2 | 0 |
+| L. Petkov | M | 10 | 891 | 2 | 2 | 19 | 1,9 | 6 | 0,6 | 13 | 13 | 1,3 | 0 | 0 |
+| Ł. Poręba | M | 10 | 874 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 15 | 7 | 0,7 | 0 | 0 |
+| F. Keidel | M | 10 | 817 | 2 | 3 | 6 | 0,6 | 2 | 0,2 | 12 | 5 | 0,5 | 4 | 0 |
+| L. Günther | D | 10 | 813 | 1 | 0 | 5 | 0,5 | 3 | 0,3 | 6 | 9 | 0,9 | 2 | 0 |
+| L. Pinckert | D | 9 | 810 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 7 | 6 | 0,7 | 1 | 0 |
+| M. Rohr | D | 9 | 802 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 7 | 12 | 1,3 | 1 | 0 |
+| D. Mokwa | F | 10 | 602 | 2 | 1 | 10 | 1,0 | 5 | 0,5 | 9 | 5 | 0,5 | 0 | 0 |
 | J. Gyamerah | D | 7 | 485 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 4 | 0,6 | 0 | 0 |
-| William Cole Campbell | M | 8 | 456 | 1 | 0 | 11 | 1,4 | 8 | 1,0 | 7 | 9 | 1,1 | 1 | 0 |
-| M. Krattenmacher | M | 8 | 335 | 3 | 1 | 12 | 1,5 | 6 | 0,8 | 8 | 17 | 2,1 | 1 | 0 |
+| William Cole Campbell | F | 9 | 469 | 2 | 0 | 13 | 1,4 | 10 | 1,1 | 7 | 11 | 1,2 | 1 | 0 |
+| M. Krattenmacher | M | 9 | 412 | 4 | 1 | 13 | 1,4 | 7 | 0,8 | 10 | 24 | 2,7 | 1 | 0 |
+| L. Sirch | D | 9 | 391 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,3 | 0 | 0 |
 | Noah Darvich | M | 6 | 328 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 3 | 3 | 0,5 | 1 | 0 |
-| L. Sirch | D | 8 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,4 | 0 | 0 |
-| F. Schmahl | M | 4 | 215 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 2 | 1 | 0,2 | 1 | 0 |
+| Francis-Ikechukwu Onyeka | M | 8 | 278 | 3 | 1 | 7 | 0,9 | 5 | 0,6 | 7 | 5 | 0,6 | 1 | 0 |
+| F. Schmahl | M | 5 | 228 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 2 | 2 | 0,4 | 1 | 0 |
 | N. Futkeu | F | 7 | 212 | 0 | 1 | 4 | 0,6 | 0 | 0,0 | 4 | 5 | 0,7 | 0 | 0 |
-| Francis-Ikechukwu Onyeka | M | 7 | 201 | 2 | 1 | 6 | 0,9 | 4 | 0,6 | 7 | 2 | 0,3 | 1 | 0 |
 | F. Le Joncour | D | 3 | 181 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Schnellbacher | M | 4 | 121 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 3 | 1 | 0,2 | 0 | 0 |
+| L. Schnellbacher | M | 5 | 123 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 3 | 1 | 0,2 | 0 | 0 |
 | A. Condé | M | 5 | 117 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 3 | 0,6 | 1 | 0 |
-| Tom Zimmerschied | M | 1 | 59 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
+| N. Mickelson | D | 5 | 79 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,12 · visitante 0,83 · córners esperados 10,8._
+_Goles esperados: local 1,99 · visitante 0,86 · córners esperados 11,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 12% | 13% | 8.00 | +0% |
-| 1X2: X | 19% | 16% | 18% | 5.75 | +2% |
-| 1X2: 1 | 67% | 72% | 70% | 1.27 | -11% |
-| Doble oportunidad: X2 | 33% | 26% | 29% | 3.75 | +10% |
-| Doble oportunidad: 12 | 81% | 85% | 83% | 1.14 | -6% |
-| Doble oportunidad: 1X | 86% | 89% | 88% | 1.08 | -5% |
+| 1X2: 2 | 15% | 12% | 13% | 8.00 | +8% |
+| 1X2: X | 21% | 16% | 18% | 5.75 | +6% |
+| 1X2: 1 | 64% | 72% | 68% | 1.27 | -14% |
+| Doble oportunidad: X2 | 36% | 26% | 31% | 3.75 | +16% |
+| Doble oportunidad: 12 | 79% | 85% | 82% | 1.14 | -7% |
+| Doble oportunidad: 1X | 85% | 89% | 87% | 1.08 | -6% |
 | Ambos marcan: No | 50% | 42% | 46% | 2.20 | +2% |
 | Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
-| Goles más/menos: Más de 2.5 | 57% | 72% | 64% | 1.33 | -15% |
-| Goles más/menos: Más de 3.5 | 34% | 53% | 43% | 1.80 | -22% |
-| Goles más/menos: Más de 4.5 | 18% | 34% | 26% | 2.75 | -28% |
-| Goles más/menos: Más de 5.5 | 8% | 21% | 14% | 4.50 | -35% |
-| Goles más/menos: Menos de 2.5 ✅ | 43% | 28% | 36% | 3.40 | +22% |
-| Goles más/menos: Menos de 3.5 | 66% | 47% | 57% | 2.00 | +13% |
-| Goles más/menos: Menos de 4.5 | 82% | 66% | 74% | 1.44 | +7% |
-| Goles más/menos: Menos de 5.5 | 92% | 79% | 86% | 1.20 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 79% | 76% | 1.18 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 50% | 43% | 1.83 | -21% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 25% | 19% | 3.75 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 21% | 24% | 4.50 | +9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 50% | 57% | 1.83 | +4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 75% | 81% | 1.25 | +1% |
-| Goles del local: Más de 1.5 | 62% | 75% | 69% | 1.25 | -14% |
-| Goles del local: Más de 2.5 | 35% | 54% | 45% | 1.73 | -23% |
-| Goles del local: Más de 3.5 | 16% | 31% | 24% | 3.00 | -29% |
-| Goles del local: Menos de 1.5 ✅ | 38% | 25% | 31% | 3.75 | +17% |
-| Goles del local: Menos de 2.5 | 65% | 46% | 55% | 2.00 | +11% |
-| Goles del local: Menos de 3.5 | 84% | 69% | 76% | 1.36 | +4% |
-| Goles del visitante: Más de 0.5 | 57% | 62% | 60% | 1.50 | -11% |
-| Goles del visitante: Más de 1.5 | 20% | 27% | 24% | 3.50 | -18% |
-| Goles del visitante: Menos de 0.5 | 43% | 38% | 40% | 2.50 | +1% |
-| Goles del visitante: Menos de 1.5 | 80% | 73% | 76% | 1.28 | -2% |
-| 1X2 descanso: X | 38% | 30% | 34% | 3.00 | +3% |
-| 1X2 descanso: 1 | 48% | 56% | 52% | 1.62 | -15% |
+| Goles más/menos: Más de 2.5 | 54% | 72% | 63% | 1.33 | -16% |
+| Goles más/menos: Más de 3.5 | 32% | 53% | 42% | 1.80 | -24% |
+| Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |
+| Goles más/menos: Más de 5.5 | 7% | 21% | 14% | 4.50 | -37% |
+| Goles más/menos: Menos de 2.5 ✅ | 46% | 28% | 37% | 3.40 | +26% |
+| Goles más/menos: Menos de 3.5 | 68% | 47% | 58% | 2.00 | +16% |
+| Goles más/menos: Menos de 4.5 | 84% | 66% | 75% | 1.44 | +8% |
+| Goles más/menos: Menos de 5.5 | 93% | 79% | 86% | 1.20 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 79% | 75% | 1.18 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 50% | 42% | 1.83 | -22% |
+| Goles 1ª parte más/menos: Más de 2.5 | 13% | 25% | 19% | 3.75 | -29% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 21% | 25% | 4.50 | +12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 50% | 58% | 1.83 | +5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
+| Goles del local: Más de 1.5 | 59% | 75% | 67% | 1.25 | -16% |
+| Goles del local: Más de 2.5 | 32% | 54% | 43% | 1.73 | -26% |
+| Goles del local: Más de 3.5 | 14% | 31% | 23% | 3.00 | -32% |
+| Goles del local: Menos de 1.5 ✅ | 41% | 25% | 33% | 3.75 | +24% |
+| Goles del local: Menos de 2.5 | 68% | 46% | 57% | 2.00 | +14% |
+| Goles del local: Menos de 3.5 | 86% | 69% | 77% | 1.36 | +5% |
+| Goles del visitante: Más de 0.5 | 58% | 62% | 60% | 1.50 | -10% |
+| Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -0% |
+| Goles del visitante: Menos de 1.5 | 79% | 73% | 76% | 1.28 | -3% |
+| 1X2 descanso: X | 39% | 30% | 35% | 3.00 | +5% |
+| 1X2 descanso: 1 | 46% | 56% | 51% | 1.62 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

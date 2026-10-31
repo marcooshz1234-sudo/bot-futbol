@@ -1,10 +1,10 @@
 # West Ham – West Brom
 **Championship** · Regular Season - 13 · 31/10/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:00_
+_Actualizadas: 31/10 02:02_
 
 - **1X2:** 1 **1.62**  ·  X **4.20**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.25**
@@ -32,7 +32,7 @@ _Actualizadas: 30/10 14:00_
     - 10,5: más **1.73** · menos **2.00**
     - 11: más **1.98** · menos **1.82**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.62** · menos **2.20**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.40**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -44,13 +44,13 @@ _Actualizadas: 30/10 14:00_
 - **To Win Either Half:** 1 **1.33**  ·  2 **2.62**
 - **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **5.50**
 - **Win Both Halves:** 1 **4.33**  ·  2 **19.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **15.00**  ·  Away/No **10.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **15.00**  ·  Away/No **10.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.20**  ·  Menos de 5 **2.25**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.88**  ·  Menos de 5 **1.92**
 - **Home Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**
@@ -66,7 +66,7 @@ _Actualizadas: 30/10 14:00_
 - **Away Player Shots Total:**
     - 9,5: más **2.00** · menos **1.73**
 - **Home Player Shots:** Felipe Morato - 1 **2.62**  ·  Felipe Morato - 2 **9.00**  ·  Felipe Morato - 3 **21.00**  ·  Jarrod Bowen - 1 **1.01**  ·  Joel Piroe - 1 **1.05**  ·  Taty Castellanos - 1 **1.04**  ·  Joshua Ajala - 1 **1.06**  ·  Pablo Felipe - 1 **1.14**  ·  Manor Solomon - 1 **1.28**  ·  Arne Engels - 1 **1.50**  ·  Divine Mukasa - 1 **1.25**  ·  Lewis Orford - 1 **1.22**  ·  Mohamadou Kante - 1 **1.08**  ·  Soungoutou Magassa - 1 **1.67**  ·  Airidas Golambeckis - 1 **2.10**  ·  Konstantinos Mavropanos - 1 **1.28**  ·  Kyle Walker-Peters - 1 **2.25**  ·  Oliver Scarles - 1 **1.80**  ·  Max Kilman - 1 **2.10**  ·  Joel Veltman - 1 **2.25**  ·  Jarrod Bowen - 2 **1.08**  ·  Joel Piroe - 2 **1.25**  ·  Taty Castellanos - 2 **1.22**  ·  Joshua Ajala - 2 **1.30**  ·  Pablo Felipe - 2 **1.67**  ·  Manor Solomon - 2 **2.10**  ·  Arne Engels - 2 **3.00**  ·  Divine Mukasa - 2 **2.00**  ·  Lewis Orford - 2 **1.91**  ·  Mohamadou Kante - 2 **1.44**  ·  Soungoutou Magassa - 2 **4.00**  ·  Airidas Golambeckis - 2 **6.00**  ·  Konstantinos Mavropanos - 2 **2.10**  ·  Kyle Walker-Peters - 2 **7.00**  ·  Oliver Scarles - 2 **4.50**  ·  Max Kilman - 2 **6.00**  ·  Joel Veltman - 2 **7.00**  ·  Jarrod Bowen - 3 **1.30**  ·  Joel Piroe - 3 **1.80**  ·  Taty Castellanos - 3 **1.62**  ·  Joshua Ajala - 3 **1.83**  ·  Pablo Felipe - 3 **2.75**  ·  Manor Solomon - 3 **4.33**  ·  Arne Engels - 3 **8.00**  ·  Divine Mukasa - 3 **4.00**  ·  Lewis Orford - 3 **3.75**  ·  Mohamadou Kante - 3 **2.20**  ·  Soungoutou Magassa - 3 **11.00**  ·  Airidas Golambeckis - 3 **19.00**  ·  Konstantinos Mavropanos - 3 **4.33**  ·  Kyle Walker-Peters - 3 **21.00**  ·  Oliver Scarles - 3 **13.00**  ·  Max Kilman - 3 **19.00**  ·  Joel Veltman - 3 **21.00**  ·  Jarrod Bowen - 4 **1.73**  ·  Joel Piroe - 4 **2.75**  ·  Taty Castellanos - 4 **2.50**  ·  Joshua Ajala - 4 **3.25**  ·  Pablo Felipe - 4 **6.00**  ·  Manor Solomon - 4 **11.00**  ·  Arne Engels - 4 **19.00**  ·  Divine Mukasa - 4 **10.00**  ·  Lewis Orford - 4 **8.00**  ·  Mohamadou Kante - 4 **4.00**  ·  Soungoutou Magassa - 4 **21.00**  ·  Jarrod Bowen - 5 **2.50**  ·  Joel Piroe - 5 **5.00**  ·  Taty Castellanos - 5 **4.33**  ·  Joshua Ajala - 5 **6.00**  ·  Pablo Felipe - 5 **13.00**  ·  Manor Solomon - 5 **21.00**  ·  Arne Engels - 5 **13.00**  ·  Divine Mukasa - 5 **21.00**  ·  Lewis Orford - 5 **19.00**  ·  Mohamadou Kante - 5 **8.00**  ·  Jarrod Bowen - 6 **4.00**  ·  Joel Piroe - 6 **10.00**  ·  Taty Castellanos - 6 **8.00**  ·  Joshua Ajala - 6 **11.00**  ·  Pablo Felipe - 6 **21.00**  ·  Manor Solomon - 6 **21.00**  ·  Arne Engels - 6 **21.00**  ·  Divine Mukasa - 6 **21.00**  ·  Jarrod Bowen - 7 **7.00**  ·  Joel Piroe - 7 **19.00**  ·  Taty Castellanos - 7 **15.00**  ·  Joshua Ajala - 7 **21.00**  ·  Pablo Felipe - 7 **19.00**  ·  Jarrod Bowen - 8 **13.00**  ·  Joel Piroe - 8 **21.00**  ·  Taty Castellanos - 8 **21.00**  ·  Joshua Ajala - 8 **21.00**  ·  Jarrod Bowen - 9 **21.00**  ·  Adama Boiro - 1 **1.80**  ·  Adama Boiro - 2 **4.50**  ·  Adama Boiro - 3 **13.00**  ·  Lewis Orford - 6 **21.00**  ·  Mohamadou Kante - 6 **17.00**  ·  Airidas Golambeckis - 4 **21.00**  ·  Konstantinos Mavropanos - 4 **11.00**  ·  Oliver Scarles - 4 **21.00**  ·  Adama Boiro - 4 **21.00**  ·  Edvin Austbo - 1 **1.04**  ·  Edvin Austbo - 2 **1.22**  ·  Edvin Austbo - 3 **1.67**  ·  Edvin Austbo - 4 **2.62**  ·  Edvin Austbo - 5 **4.33**  ·  Edvin Austbo - 6 **9.00**  ·  Edvin Austbo - 7 **17.00**  ·  Konstantinos Mavropanos - 5 **21.00**  ·  Mohamadou Kante - 7 **21.00**  ·  Tomas Soucek - 1 **1.17**  ·  Tomas Soucek - 2 **1.73**  ·  Tomas Soucek - 3 **3.25**  ·  Tomas Soucek - 4 **6.50**  ·  Tomas Soucek - 5 **13.00**  ·  Tomas Soucek - 6 **21.00**  ·  Konstantinos Mavropanos - 6 **21.00**
-- **Away Player Shots:** Aune Heggebo - 1 **1.22**  ·  Barney Stewart - 1 **1.12**  ·  Jimmy-Jay Morgan - 1 **1.14**  ·  Isaac Price - 1 **1.17**  ·  Tammer Bany - 1 **1.30**  ·  Nathaniel Phillips - 1 **2.62**  ·  Felix Myhre - 1 **2.38**  ·  Jayson Molumby - 1 **2.10**  ·  Harry Whitwell - 1 **2.00**  ·  Rabby Nzingoula - 1 **1.44**  ·  George Campbell - 1 **3.25**  ·  Callum Styles - 1 **1.73**  ·  Ousmane Diakite - 1 **1.80**  ·  Nolan Galves - 1 **3.25**  ·  Chris Mepham - 1 **3.50**  ·  Conor Townsend - 1 **3.50**  ·  Aune Heggebo - 2 **2.00**  ·  Barney Stewart - 2 **1.57**  ·  Jimmy-Jay Morgan - 2 **1.67**  ·  Isaac Price - 2 **1.73**  ·  Tammer Bany - 2 **2.25**  ·  Nathaniel Phillips - 2 **9.00**  ·  Felix Myhre - 2 **8.00**  ·  Jayson Molumby - 2 **6.50**  ·  Harry Whitwell - 2 **6.00**  ·  Rabby Nzingoula - 2 **2.75**  ·  George Campbell - 2 **13.00**  ·  Callum Styles - 2 **4.00**  ·  Ousmane Diakite - 2 **4.50**  ·  Nolan Galves - 2 **13.00**  ·  Chris Mepham - 2 **15.00**  ·  Conor Townsend - 2 **15.00**  ·  Aune Heggebo - 3 **4.00**  ·  Barney Stewart - 3 **2.62**  ·  Jimmy-Jay Morgan - 3 **2.75**  ·  Isaac Price - 3 **3.25**  ·  Tammer Bany - 3 **5.00**  ·  Nathaniel Phillips - 3 **21.00**  ·  Felix Myhre - 3 **21.00**  ·  Jayson Molumby - 3 **19.00**  ·  Harry Whitwell - 3 **19.00**  ·  Rabby Nzingoula - 3 **6.50**  ·  George Campbell - 3 **21.00**  ·  Callum Styles - 3 **13.00**  ·  Ousmane Diakite - 3 **13.00**  ·  Nolan Galves - 3 **21.00**  ·  Aune Heggebo - 4 **9.00**  ·  Barney Stewart - 4 **5.00**  ·  Jimmy-Jay Morgan - 4 **5.50**  ·  Isaac Price - 4 **6.50**  ·  Tammer Bany - 4 **11.00**  ·  Felix Myhre - 4 **19.00**  ·  Aune Heggebo - 5 **21.00**  ·  Barney Stewart - 5 **11.00**  ·  Jimmy-Jay Morgan - 5 **13.00**  ·  Isaac Price - 5 **15.00**  ·  Tammer Bany - 5 **21.00**  ·  Aune Heggebo - 6 **15.00**  ·  Barney Stewart - 6 **21.00**  ·  Jimmy-Jay Morgan - 6 **21.00**  ·  Kareem Tunde - 1 **1.22**  ·  Kareem Tunde - 2 **1.91**  ·  Kareem Tunde - 3 **3.75**  ·  Kareem Tunde - 4 **9.00**  ·  Kareem Tunde - 5 **19.00**  ·  Brayann Pereira - 1 **2.62**  ·  Brayann Pereira - 2 **9.00**  ·  Brayann Pereira - 3 **21.00**  ·  Chris Mepham - 3 **21.00**  ·  Toby Collyer - 1 **2.38**  ·  Matthew Crowther - 1 **1.91**  ·  Toby Collyer - 2 **8.00**  ·  Matthew Crowther - 2 **5.50**  ·  Toby Collyer - 3 **21.00**  ·  Matthew Crowther - 3 **17.00**  ·  Rabby Nzingoula - 4 **17.00**  ·  Callum Styles - 4 **21.00**  ·  Isaac Price - 6 **21.00**  ·  Tammer Bany - 6 **21.00**  ·  Jimmy-Jay Morgan - 7 **21.00**
+- **Away Player Shots:** Aune Heggebo - 1 **1.22**  ·  Barney Stewart - 1 **1.12**  ·  Jimmy-Jay Morgan - 1 **1.14**  ·  Isaac Price - 1 **1.17**  ·  Tammer Bany - 1 **1.30**  ·  Nathaniel Phillips - 1 **2.62**  ·  Felix Myhre - 1 **2.38**  ·  Jayson Molumby - 1 **2.10**  ·  Harry Whitwell - 1 **2.00**  ·  Rabby Nzingoula - 1 **1.44**  ·  George Campbell - 1 **3.25**  ·  Callum Styles - 1 **1.73**  ·  Ousmane Diakite - 1 **1.80**  ·  Nolan Galves - 1 **3.25**  ·  Chris Mepham - 1 **3.50**  ·  Conor Townsend - 1 **3.50**  ·  Aune Heggebo - 2 **2.00**  ·  Barney Stewart - 2 **1.57**  ·  Jimmy-Jay Morgan - 2 **1.67**  ·  Isaac Price - 2 **1.73**  ·  Tammer Bany - 2 **2.25**  ·  Nathaniel Phillips - 2 **9.00**  ·  Felix Myhre - 2 **8.00**  ·  Jayson Molumby - 2 **6.50**  ·  Harry Whitwell - 2 **6.00**  ·  Rabby Nzingoula - 2 **2.75**  ·  George Campbell - 2 **13.00**  ·  Callum Styles - 2 **4.00**  ·  Ousmane Diakite - 2 **4.33**  ·  Nolan Galves - 2 **13.00**  ·  Chris Mepham - 2 **15.00**  ·  Conor Townsend - 2 **15.00**  ·  Aune Heggebo - 3 **4.00**  ·  Barney Stewart - 3 **2.62**  ·  Jimmy-Jay Morgan - 3 **2.75**  ·  Isaac Price - 3 **3.25**  ·  Tammer Bany - 3 **5.00**  ·  Nathaniel Phillips - 3 **21.00**  ·  Felix Myhre - 3 **21.00**  ·  Jayson Molumby - 3 **19.00**  ·  Harry Whitwell - 3 **19.00**  ·  Rabby Nzingoula - 3 **6.50**  ·  George Campbell - 3 **21.00**  ·  Callum Styles - 3 **11.00**  ·  Ousmane Diakite - 3 **13.00**  ·  Nolan Galves - 3 **21.00**  ·  Aune Heggebo - 4 **9.00**  ·  Barney Stewart - 4 **5.00**  ·  Jimmy-Jay Morgan - 4 **5.50**  ·  Isaac Price - 4 **6.50**  ·  Tammer Bany - 4 **11.00**  ·  Felix Myhre - 4 **19.00**  ·  Aune Heggebo - 5 **19.00**  ·  Barney Stewart - 5 **11.00**  ·  Jimmy-Jay Morgan - 5 **13.00**  ·  Isaac Price - 5 **15.00**  ·  Tammer Bany - 5 **21.00**  ·  Aune Heggebo - 6 **15.00**  ·  Barney Stewart - 6 **21.00**  ·  Jimmy-Jay Morgan - 6 **21.00**  ·  Kareem Tunde - 1 **1.22**  ·  Kareem Tunde - 2 **1.91**  ·  Kareem Tunde - 3 **3.75**  ·  Kareem Tunde - 4 **9.00**  ·  Kareem Tunde - 5 **19.00**  ·  Brayann Pereira - 1 **2.62**  ·  Brayann Pereira - 2 **9.00**  ·  Brayann Pereira - 3 **21.00**  ·  Chris Mepham - 3 **21.00**  ·  Toby Collyer - 1 **2.38**  ·  Matthew Crowther - 1 **1.91**  ·  Toby Collyer - 2 **8.00**  ·  Matthew Crowther - 2 **5.50**  ·  Toby Collyer - 3 **21.00**  ·  Matthew Crowther - 3 **17.00**  ·  Rabby Nzingoula - 4 **17.00**  ·  Callum Styles - 4 **21.00**  ·  Isaac Price - 6 **21.00**  ·  Tammer Bany - 6 **21.00**  ·  Jimmy-Jay Morgan - 7 **21.00**
 - **Goalkeeper Saves:** Mads Hermansen - 3 **2.20**  ·  Mads Hermansen - 4 **4.00**  ·  Mads Hermansen - 5 **9.00**  ·  Mads Hermansen - 2 **1.40**  ·  Mads Hermansen - 1 **1.07**  ·  Max O'Leary - 2 **1.12**  ·  Max O'Leary - 3 **1.40**  ·  Max O'Leary - 4 **2.00**  ·  Max O'Leary - 5 **3.40**  ·  Max O'Leary - 6 **6.00**
 - **Anytime Goal Scorer:** Taty Castellanos **2.50**  ·  Arne Engels **4.75**  ·  Manor Solomon **4.33**  ·  Felix Myhre **7.50**  ·  Jayson Molumby **9.00**  ·  Chris Mepham **17.00**  ·  Tomas Soucek **4.33**  ·  Isaac Price **4.00**  ·  Tammer Bany **4.75**  ·  Mohamadou Kante **3.60**  ·  Airidas Golambeckis **9.00**  ·  Divine Mukasa **4.33**  ·  Joel Piroe **2.38**  ·  Callum Styles **8.00**  ·  Ousmane Diakite **12.00**  ·  Nathaniel Phillips **12.00**  ·  Soungoutou Magassa **9.00**  ·  Rabby Nzingoula **7.50**  ·  Max Kilman **10.00**  ·  Joel Veltman **12.00**  ·  Edvin Austbo **3.20**  ·  Brayann Pereira **13.00**  ·  Aune Heggebo **3.60**  ·  George Campbell **13.00**  ·  Kareem Tunde **5.50**  ·  Joshua Ajala **2.50**  ·  Nolan Galves **17.00**  ·  Matthew Crowther **12.00**  ·  Kyle Walker-Peters **10.00**  ·  Jarrod Bowen **2.38**  ·  Konstantinos Mavropanos **4.33**  ·  Pablo Felipe **2.88**  ·  Toby Collyer **13.00**  ·  Felipe Morato **10.00**  ·  Oliver Scarles **9.00**  ·  Adama Boiro **9.00**  ·  Harry Whitwell **9.00**  ·  Conor Townsend **21.00**  ·  Lewis Orford **4.75**  ·  Ezra Mayers **9.00**  ·  Barney Stewart **3.60**  ·  Jimmy-Jay Morgan **3.50**
 - **Player to Score or Assist:** Taty Castellanos **1.91**  ·  Arne Engels **2.50**  ·  Manor Solomon **2.20**  ·  Felix Myhre **4.00**  ·  Jayson Molumby **4.33**  ·  Chris Mepham **11.00**  ·  Tomas Soucek **2.88**  ·  Isaac Price **2.62**  ·  Tammer Bany **3.20**  ·  Mohamadou Kante **2.40**  ·  Airidas Golambeckis **6.00**  ·  Divine Mukasa **2.40**  ·  Joel Piroe **1.91**  ·  Callum Styles **4.50**  ·  Ousmane Diakite **6.50**  ·  Nathaniel Phillips **8.00**  ·  Soungoutou Magassa **4.00**  ·  Rabby Nzingoula **4.50**  ·  Max Kilman **6.50**  ·  Joel Veltman **4.50**  ·  Edvin Austbo **2.05**  ·  Brayann Pereira **7.00**  ·  Aune Heggebo **2.75**  ·  George Campbell **6.50**  ·  Kareem Tunde **3.00**  ·  Joshua Ajala **2.00**  ·  Nolan Galves **6.50**  ·  Matthew Crowther **6.00**  ·  Kyle Walker-Peters **4.00**  ·  Jarrod Bowen **1.62**  ·  Konstantinos Mavropanos **3.75**  ·  Pablo Felipe **1.95**  ·  Toby Collyer **6.50**  ·  Felipe Morato **5.50**  ·  Oliver Scarles **3.60**  ·  Adama Boiro **4.75**  ·  Harry Whitwell **5.00**  ·  Conor Townsend **7.50**  ·  Lewis Orford **2.60**  ·  Ezra Mayers **5.00**  ·  Barney Stewart **2.88**  ·  Jimmy-Jay Morgan **2.75**
@@ -125,7 +125,7 @@ _Actualizadas: 30/10 14:00_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**West Ham:** K. Lamadrid (baja, Injury); K. Lamadrid (baja, Injury)
+**West Ham:** K. Mavropanos (baja, Knee Injury); K. Lamadrid (duda, Injury); J. Veltman (duda, Health problems); K. Mavropanos (baja, Knee Injury); K. Lamadrid (duda, Injury); J. Veltman (duda, Health problems)
 **West Brom:** T. Collyer (baja, Injury); N. Galves (baja, Knee Injury); M. Johnston (baja, Broken Leg); T. Collyer (baja, Injury); N. Galves (baja, Knee Injury); M. Johnston (baja, Broken Leg)
 
 ## Enfrentamientos directos recientes
@@ -211,25 +211,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 20% | 18% | 4.75 | -13% |
+| 1X2: 2 | 17% | 20% | 18% | 4.75 | -14% |
 | 1X2: X | 17% | 22% | 20% | 4.20 | -17% |
-| 1X2: 1 | 66% | 58% | 62% | 1.62 | +0% |
+| 1X2: 1 | 66% | 58% | 62% | 1.62 | +1% |
 | Doble oportunidad: X2 | 34% | 42% | 38% | 2.25 | -15% |
 | Doble oportunidad: 12 | 83% | 78% | 80% | 1.22 | -2% |
 | Doble oportunidad: 1X | 83% | 80% | 82% | 1.18 | -3% |
 | Ambos marcan: No | 33% | 44% | 39% | 2.10 | -18% |
 | Ambos marcan: Sí | 67% | 56% | 61% | 1.67 | +2% |
 | Goles más/menos: Más de 1.5 | 90% | 79% | 84% | 1.20 | +1% |
-| Goles más/menos: Más de 2.5 | 74% | 59% | 66% | 1.62 | +8% |
+| Goles más/menos: Más de 2.5 | 74% | 59% | 67% | 1.62 | +8% |
 | Goles más/menos: Más de 3.5 | 54% | 36% | 45% | 2.62 | +19% |
 | Goles más/menos: Más de 4.5 | 35% | 21% | 28% | 4.50 | +25% |
 | Goles más/menos: Menos de 1.5 | 10% | 21% | 16% | 4.50 | -30% |
-| Goles más/menos: Menos de 2.5 | 26% | 41% | 34% | 2.30 | -23% |
+| Goles más/menos: Menos de 2.5 | 26% | 41% | 33% | 2.30 | -23% |
 | Goles más/menos: Menos de 3.5 | 46% | 64% | 55% | 1.50 | -18% |
 | Goles más/menos: Menos de 4.5 | 65% | 79% | 72% | 1.20 | -13% |
 | Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 39% | 45% | 2.38 | +6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -21% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 61% | 55% | 1.53 | -15% |
 | Goles del local: Más de 1.5 | 73% | 59% | 66% | 1.57 | +4% |
 | Goles del local: Más de 2.5 | 48% | 34% | 41% | 2.75 | +13% |

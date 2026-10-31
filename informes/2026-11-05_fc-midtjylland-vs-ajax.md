@@ -1,7 +1,7 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -190,7 +190,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles más/menos: Más de 4.5 | 24% | 25% | 24% | 3.75 | -8% |
 | Goles más/menos: Menos de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles más/menos: Menos de 3.5 | 58% | 58% | 58% | 1.62 | -7% |
+| Goles más/menos: Menos de 3.5 | 58% | 58% | 58% | 1.62 | -6% |
 | Goles más/menos: Menos de 4.5 | 76% | 75% | 76% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 42% | 2.25 | -7% |
@@ -203,9 +203,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
 | Goles del visitante: Más de 1.5 | 49% | 51% | 50% | 1.80 | -10% |
-| Goles del visitante: Más de 2.5 | 23% | 27% | 25% | 3.50 | -14% |
+| Goles del visitante: Más de 2.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 51% | 49% | 50% | 1.91 | -5% |
-| Goles del visitante: Menos de 2.5 | 77% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Menos de 2.5 | 78% | 73% | 75% | 1.28 | -4% |
 | 1X2 descanso: 2 | 31% | 34% | 32% | 2.75 | -12% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -6% |
 | 1X2 descanso: 1 | 32% | 29% | 30% | 3.20 | -3% |

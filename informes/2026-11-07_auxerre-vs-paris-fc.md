@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -181,38 +181,38 @@ _Sin bajas comunicadas por ahora._
 | Jonathan Ikoné | F | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,19 · visitante 1,89 · córners esperados 9,5._
+_Goles esperados: local 1,15 · visitante 1,83 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 49% | 51% | 1.90 | -2% |
-| 1X2: X | 22% | 26% | 24% | 3.60 | -13% |
-| 1X2: 1 | 24% | 25% | 24% | 3.70 | -9% |
+| 1X2: 2 | 53% | 49% | 51% | 1.90 | -3% |
+| 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
+| 1X2: 1 | 24% | 25% | 25% | 3.70 | -9% |
 | Doble oportunidad: X2 | 76% | 75% | 76% | 1.28 | -3% |
-| Doble oportunidad: 12 | 78% | 75% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 46% | 50% | 48% | 1.91 | -8% |
-| Ambos marcan: No | 41% | 44% | 43% | 2.10 | -11% |
-| Ambos marcan: Sí | 59% | 56% | 57% | 1.67 | -4% |
-| Goles más/menos: Más de 1.5 | 81% | 78% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 60% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Más de 3.5 | 37% | 34% | 36% | 2.75 | -2% |
-| Goles más/menos: Menos de 1.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles más/menos: Menos de 2.5 | 40% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Menos de 3.5 | 63% | 66% | 64% | 1.44 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Goles del local: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles del local: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles del local: Menos de 1.5 | 67% | 66% | 66% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
-| Goles del visitante: Más de 2.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles del visitante: Menos de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Goles del visitante: Menos de 2.5 | 71% | 75% | 73% | 1.25 | -9% |
-| 1X2 descanso: 2 | 40% | 37% | 38% | 2.50 | -4% |
-| 1X2 descanso: X | 39% | 40% | 39% | 2.30 | -9% |
+| Doble oportunidad: 12 | 77% | 75% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 47% | 50% | 48% | 1.91 | -7% |
+| Ambos marcan: No | 43% | 44% | 43% | 2.10 | -9% |
+| Ambos marcan: Sí | 57% | 56% | 57% | 1.67 | -5% |
+| Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -5% |
+| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Menos de 3.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
+| Goles del local: Más de 0.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles del local: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
+| Goles del local: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles del local: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
+| Goles del visitante: Más de 2.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles del visitante: Menos de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Goles del visitante: Menos de 2.5 | 72% | 75% | 74% | 1.25 | -8% |
+| 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -5% |
+| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
 | 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

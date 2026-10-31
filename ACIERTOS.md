@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 144 · aciertos: 88 (61%) · beneficio a 1 € por pick: -22.16 €
+Picks ya jugados: 162 · aciertos: 99 (61%) · beneficio a 1 € por pick: -23.71 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 21 | 30 | 70% | -1.11 € |
-| jugador | 21 | 31 | 68% | -2.09 € |
-| goles | 42 | 71 | 59% | -13.66 € |
-| tiros | 2 | 4 | 50% | -0.47 € |
-| tarjetas | 2 | 5 | 40% | -1.83 € |
+| resultado | 23 | 32 | 72% | -0.58 € |
+| jugador | 24 | 36 | 67% | -2.30 € |
+| goles | 47 | 79 | 59% | -14.26 € |
+| tarjetas | 3 | 6 | 50% | -1.10 € |
+| tiros | 2 | 6 | 33% | -2.47 € |
 | corners | 0 | 1 | 0% | -1.00 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
@@ -19,17 +19,38 @@ Picks ya jugados: 144 · aciertos: 88 (61%) · beneficio a 1 € por pick: -22.1
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
+| Total - Home · Over 0.5 | 4 | 5 | 80% |
 | Double Chance · Draw/Away | 4 | 5 | 80% |
-| Total - Home · Over 0.5 | 3 | 4 | 75% |
-| Goals Over/Under · Over 1.5 | 8 | 11 | 73% |
-| Double Chance · Home/Away | 12 | 18 | 67% |
-| Goals Over/Under First Half · Over 0.5 | 10 | 15 | 67% |
-| Total - Away · Over 0.5 | 8 | 14 | 57% |
-| Both Teams Score · Yes | 4 | 7 | 57% |
-| Goals Over/Under · Over 2.5 | 4 | 8 | 50% |
+| Double Chance · Home/Away | 14 | 20 | 70% |
+| Goals Over/Under · Over 1.5 | 8 | 12 | 67% |
+| Goals Over/Under First Half · Over 0.5 | 11 | 17 | 65% |
+| Total - Away · Over 0.5 | 9 | 15 | 60% |
+| Goals Over/Under · Over 2.5 | 5 | 9 | 56% |
+| Both Teams Score · Yes | 4 | 8 | 50% |
+| Home Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Goals Over/Under - Second Half · Over 0.5 | 1 | 5 | 20% |
 
 ## Últimos días
+
+### 2026-10-30 · 11/18
+- ✅ Amir Richardson: 1+ tiros · 1.50 (1-5)
+- ✅ No hay empate en SV Elversberg–FSV Mainz 05 · 1.25 (4-1)
+- ✅ Phillip Tietz: 3+ tiros · 1.62 (4-1)
+- ✅ Más de 2,5 goles en SV Elversberg–FSV Mainz 05 · 1.50 (4-1)
+- ✅ Más de 1,5 goles en la 2ª parte del SV Elversberg–FSV Mainz 05 · 1.73 (4-1)
+- ❌ FSV Mainz 05 hace más tiros · 1.53 (4-1)
+- ✅ Espanyol marca · 1.53 (0-1)
+- ❌ Ambos marcan en Villarreal–Espanyol · 1.70 (0-1)
+- ❌ Más de 1,5 goles en Sheffield Utd–Wrexham · 1.28 (1-0)
+- ✅ Gol en la 1ª parte del Sheffield Utd–Wrexham · 1.36 (1-0)
+- ✅ Sheffield Utd marca · 1.28 (1-0)
+- ❌ Roberto Fernandez: 2+ tiros · 1.40 (0-1)
+- ✅ Liam Kitching comete 1+ faltas · 1.67 (1-0)
+- ✅ Sheffield Utd ve más de 1,5 tarjetas · 1.73 (1-0)
+- ❌ Thomas Cannon comete 1+ faltas · 1.53 (1-0)
+- ✅ No hay empate en Lille–Lens · 1.28 (1-0)
+- ❌ Gol en la 1ª parte del Lille–Lens · 1.30 (1-0)
+- ❌ Más de 24,5 tiros en Lille–Lens · 1.80 (1-0)
 
 ### 2026-10-29 · 6/9
 - ✅ Gol en la 1ª parte del Frosinone–Lecce · 1.28 (5-1)
@@ -175,17 +196,4 @@ Picks ya jugados: 144 · aciertos: 88 (61%) · beneficio a 1 € por pick: -22.1
 - ✅ Gana el Lazio · 1.48 (2-1)
 - ✅ Más de 1,5 goles en Lazio–Parma · 1.30 (2-1)
 - ✅ Lazio gana alguna de las dos partes · 1.28 (2-1)
-
-### 2026-10-23 · 9/11
-- ✅ Samuele Birindelli: 1+ tiros · 1.33 (3-2)
-- ✅ Más de 1,5 goles en Torino–Monza · 1.25 (3-2)
-- ✅ Monza marca · 1.40 (3-2)
-- ✅ No hay empate en Torino–Monza · 1.30 (3-2)
-- ✅ Gol en la 1ª parte del Stade Brestois 29–Nice · 1.30 (1-2)
-- ✅ Ambos marcan en Torino–Monza · 1.70 (3-2)
-- ✅ Gol en la 1ª parte del Torino–Monza · 1.36 (3-2)
-- ❌ No hay empate en Ipswich–Nottingham Forest · 1.30 (1-1)
-- ✅ Nottingham Forest hace más tiros · 1.73 (1-1)
-- ❌ Nottingham Forest ve más de 1,5 tarjetas · 1.53 (1-1)
-- ✅ Ipswich marca · 1.30 (1-1)
 

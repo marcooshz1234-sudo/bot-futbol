@@ -1,10 +1,10 @@
 # PEC Zwolle – ADO Den Haag
 **Eredivisie** · Regular Season - 11 · 01/11/2026 12:15 (hora España) · MAC³PARK Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:00_
+_Actualizadas: 31/10 02:03_
 
 - **1X2:** 1 **2.25**  ·  X **3.60**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.62**
@@ -12,7 +12,7 @@ _Actualizadas: 30/10 14:00_
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.38** · menos **1.53**
+    - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -204,14 +204,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 50% | 38% | 44% | 2.50 | +9% |
 | Ambos marcan: Sí | 50% | 62% | 56% | 1.50 | -15% |
 | Goles más/menos: Más de 2.5 | 45% | 59% | 52% | 1.60 | -17% |
-| Goles más/menos: Más de 3.5 | 24% | 39% | 31% | 2.38 | -25% |
+| Goles más/menos: Más de 3.5 | 24% | 38% | 31% | 2.50 | -24% |
 | Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -30% |
-| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +10% |
-| Goles más/menos: Menos de 3.5 | 76% | 61% | 69% | 1.53 | +5% |
+| Goles más/menos: Menos de 2.5 | 55% | 41% | 48% | 2.30 | +11% |
+| Goles más/menos: Menos de 3.5 | 76% | 62% | 69% | 1.50 | +4% |
 | Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.20 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 69% | 1.28 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 41% | 35% | 2.25 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 31% | 3.50 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
 | Goles del local: Más de 1.5 | 35% | 50% | 43% | 1.83 | -22% |
 | Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -29% |

@@ -1,7 +1,7 @@
 # Lillestrom – Plzen
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -174,7 +174,7 @@ _Sin precedentes recientes._
 | Jiří Maxim Panoš | M | 1 | 64 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 1,55 · córners esperados 9,1._
+_Goles esperados: local 1,25 · visitante 1,54 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -190,7 +190,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 56% | 62% | 59% | 1.50 | -11% |
 | Goles más/menos: Más de 2.5 | 53% | 60% | 57% | 1.57 | -11% |
 | Goles más/menos: Más de 3.5 | 31% | 40% | 35% | 2.38 | -16% |
-| Goles más/menos: Más de 4.5 | 15% | 22% | 19% | 4.33 | -19% |
+| Goles más/menos: Más de 4.5 | 15% | 22% | 19% | 4.33 | -20% |
 | Goles más/menos: Menos de 2.5 | 47% | 40% | 43% | 2.38 | +3% |
 | Goles más/menos: Menos de 3.5 | 69% | 60% | 65% | 1.57 | +2% |
 | Goles más/menos: Menos de 4.5 | 85% | 78% | 81% | 1.22 | -1% |
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
 | Goles del local: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
 | Goles del local: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
 | Goles del local: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
 | Goles del local: Menos de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |

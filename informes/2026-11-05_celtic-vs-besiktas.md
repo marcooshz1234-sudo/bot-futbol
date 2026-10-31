@@ -1,7 +1,7 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -184,24 +184,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 76% | 41% | 59% | 2.25 | +32% |
 | 1X2: X | 16% | 26% | 21% | 3.60 | -25% |
-| 1X2: 1 | 8% | 33% | 20% | 2.80 | -43% |
+| 1X2: 1 | 8% | 33% | 21% | 2.80 | -43% |
 | Doble oportunidad: X2 | 92% | 68% | 80% | 1.40 | +12% |
 | Doble oportunidad: 12 | 84% | 74% | 79% | 1.28 | +1% |
 | Doble oportunidad: 1X | 24% | 58% | 41% | 1.62 | -33% |
-| Ambos marcan: No | 60% | 39% | 49% | 2.38 | +18% |
-| Ambos marcan: Sí | 40% | 61% | 51% | 1.53 | -23% |
-| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -6% |
-| Goles más/menos: Más de 2.5 | 55% | 59% | 57% | 1.62 | -8% |
+| Ambos marcan: No | 59% | 39% | 49% | 2.38 | +17% |
+| Ambos marcan: Sí | 41% | 61% | 51% | 1.53 | -22% |
+| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
+| Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 3.5 | 33% | 38% | 36% | 2.50 | -11% |
 | Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -4% |
-| Goles más/menos: Menos de 2.5 | 45% | 41% | 43% | 2.30 | -1% |
+| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -1% |
 | Goles más/menos: Menos de 3.5 | 67% | 62% | 64% | 1.53 | -1% |
 | Goles más/menos: Menos de 4.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 38% | 2.38 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 62% | 1.53 | -4% |
 | Goles del local: Más de 0.5 | 45% | 75% | 60% | 1.25 | -25% |
 | Goles del local: Más de 1.5 | 12% | 42% | 27% | 2.20 | -40% |
 | Goles del local: Menos de 0.5 | 55% | 25% | 40% | 3.75 | +50% |

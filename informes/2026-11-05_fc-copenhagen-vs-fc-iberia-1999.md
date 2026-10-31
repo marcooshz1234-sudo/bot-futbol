@@ -1,7 +1,7 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_
@@ -182,7 +182,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 1% | 5% | 3% | 17.00 | -41% |
 | 1X2: X | 4% | 13% | 9% | 7.00 | -40% |
 | 1X2: 1 | 95% | 81% | 88% | 1.14 | +0% |
-| Doble oportunidad: X2 | 5% | 18% | 11% | 5.50 | -37% |
+| Doble oportunidad: X2 | 5% | 18% | 12% | 5.50 | -37% |
 | Doble oportunidad: 12 | 96% | 88% | 92% | 1.10 | +1% |
 | Doble oportunidad: 1X | 99% | 95% | 97% | 1.02 | -1% |
 | Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 54% | 71% | 63% | 1.33 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 57% | 46% | 52% | 2.00 | +4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 23% | 27% | 4.00 | +7% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 23% | 27% | 4.00 | +8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 43% | 54% | 48% | 1.73 | -17% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 70% | 77% | 73% | 1.22 | -11% |
@@ -208,6 +208,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 33% | 46% | 40% | 2.00 | -21% |
 | Goles del visitante: Menos de 0.5 | 67% | 54% | 60% | 1.73 | +4% |
 | 1X2 descanso: X | 19% | 29% | 24% | 3.20 | -23% |
-| 1X2 descanso: 1 | 77% | 64% | 71% | 1.44 | +2% |
+| 1X2 descanso: 1 | 78% | 64% | 71% | 1.44 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

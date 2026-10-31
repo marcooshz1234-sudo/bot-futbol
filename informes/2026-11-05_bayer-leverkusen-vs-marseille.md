@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,35 · visitante 0,98 · córners esperados 9,2._
+_Goles esperados: local 3,33 · visitante 0,97 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,30 +189,30 @@ _Goles esperados: local 3,35 · visitante 0,98 · córners esperados 9,2._
 | Doble oportunidad: X2 | 18% | 35% | 26% | 2.75 | -28% |
 | Doble oportunidad: 12 | 89% | 81% | 85% | 1.18 | +0% |
 | Doble oportunidad: 1X | 93% | 85% | 89% | 1.12 | -1% |
-| Ambos marcan: No | 40% | 44% | 42% | 2.10 | -12% |
-| Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 2.5 | 81% | 66% | 73% | 1.44 | +5% |
-| Goles más/menos: Más de 3.5 | 63% | 43% | 53% | 2.20 | +17% |
-| Goles más/menos: Más de 4.5 ✅ | 44% | 25% | 35% | 3.75 | +29% |
-| Goles más/menos: Menos de 2.5 | 19% | 34% | 27% | 2.75 | -26% |
-| Goles más/menos: Menos de 3.5 | 37% | 57% | 47% | 1.67 | -22% |
-| Goles más/menos: Menos de 4.5 | 56% | 75% | 65% | 1.28 | -16% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -2% |
+| Ambos marcan: No | 40% | 44% | 42% | 2.10 | -11% |
+| Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -4% |
+| Goles más/menos: Más de 2.5 | 80% | 66% | 73% | 1.44 | +5% |
+| Goles más/menos: Más de 3.5 | 62% | 43% | 53% | 2.20 | +16% |
+| Goles más/menos: Más de 4.5 ✅ | 43% | 25% | 34% | 3.75 | +28% |
+| Goles más/menos: Menos de 2.5 | 20% | 34% | 27% | 2.75 | -26% |
+| Goles más/menos: Menos de 3.5 | 38% | 57% | 47% | 1.67 | -21% |
+| Goles más/menos: Menos de 4.5 | 57% | 75% | 66% | 1.28 | -16% |
+| Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 81% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
+| Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 19% | 4.00 | -22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -16% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -11% |
-| Goles del local: Más de 1.5 | 85% | 69% | 77% | 1.36 | +4% |
+| Goles del local: Más de 1.5 | 84% | 69% | 77% | 1.36 | +4% |
 | Goles del local: Más de 2.5 | 65% | 42% | 54% | 2.20 | +18% |
-| Goles del local: Más de 3.5 ✅ | 43% | 23% | 33% | 4.00 | +33% |
-| Goles del local: Menos de 1.5 | 15% | 31% | 23% | 3.00 | -30% |
+| Goles del local: Más de 3.5 ✅ | 43% | 23% | 33% | 4.00 | +32% |
+| Goles del local: Menos de 1.5 | 16% | 31% | 23% | 3.00 | -30% |
 | Goles del local: Menos de 2.5 | 35% | 58% | 46% | 1.62 | -25% |
-| Goles del local: Menos de 3.5 | 57% | 77% | 67% | 1.22 | -19% |
-| Goles del visitante: Más de 0.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del visitante: Más de 1.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles del visitante: Menos de 0.5 | 37% | 38% | 37% | 2.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles del local: Menos de 3.5 | 57% | 77% | 67% | 1.22 | -18% |
+| Goles del visitante: Más de 0.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Más de 1.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles del visitante: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles del visitante: Menos de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
 | 1X2 descanso: X | 26% | 34% | 30% | 2.75 | -17% |
 | 1X2 descanso: 1 | 63% | 51% | 57% | 1.83 | +4% |
 

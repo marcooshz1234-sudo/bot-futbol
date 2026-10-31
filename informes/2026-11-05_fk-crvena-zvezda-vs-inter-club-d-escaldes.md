@@ -1,7 +1,7 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -181,8 +181,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 35% | 11% | 23% | 9.00 | +107% |
 | Doble oportunidad: 12 | 80% | 92% | 86% | 1.07 | -8% |
 | Doble oportunidad: 1X | 85% | 97% | 91% | 1.01 | -8% |
-| Ambos marcan: No | 50% | 62% | 56% | 1.50 | -15% |
-| Ambos marcan: Sí | 50% | 38% | 44% | 2.50 | +9% |
+| Ambos marcan: No | 51% | 62% | 57% | 1.50 | -15% |
+| Ambos marcan: Sí | 49% | 38% | 43% | 2.50 | +9% |
 | Goles más/menos: Más de 2.5 | 55% | 72% | 63% | 1.33 | -16% |
 | Goles más/menos: Más de 3.5 | 32% | 51% | 42% | 1.80 | -25% |
 | Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |

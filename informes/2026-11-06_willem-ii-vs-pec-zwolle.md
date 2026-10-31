@@ -1,7 +1,7 @@
 # Willem II – PEC Zwolle
 **Eredivisie** · Regular Season - 12 · 06/11/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 02:05_
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 63% | 69% | 66% | 1.36 | -10% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 62% | 55% | 59% | 1.70 | -0% |
-| Ambos marcan: No | 41% | 35% | 38% | 2.62 | -0% |
+| Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
 | Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
 | Goles más/menos: Más de 2.5 | 56% | 64% | 60% | 1.48 | -11% |
 | Goles más/menos: Más de 3.5 | 34% | 44% | 39% | 2.10 | -18% |
@@ -215,9 +215,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -6% |
 | Goles del local: Menos de 1.5 | 57% | 56% | 57% | 1.67 | -6% |
 | Goles del local: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del visitante: Más de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
+| Goles del visitante: Más de 1.5 | 43% | 56% | 50% | 1.67 | -17% |
 | Goles del visitante: Más de 2.5 | 19% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 56% | 44% | 50% | 2.10 | +6% |
+| Goles del visitante: Menos de 1.5 | 57% | 44% | 50% | 2.10 | +6% |
 | Goles del visitante: Menos de 2.5 | 81% | 71% | 76% | 1.33 | +1% |
 | 1X2 descanso: 2 | 30% | 36% | 33% | 2.60 | -15% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |

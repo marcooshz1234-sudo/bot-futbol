@@ -1,20 +1,20 @@
 # Lincoln – Birmingham
 **Championship** · Regular Season - 13 · 31/10/2026 13:30 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 13:59_
+_Actualizadas: 31/10 02:02_
 
-- **1X2:** 1 **3.20**  ·  X **3.50**  ·  2 **2.15**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
+- **1X2:** 1 **3.30**  ·  X **3.50**  ·  2 **2.10**
+- **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.30** · menos **3.50**
+    - 1,5: más **1.28** · menos **3.75**
     - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.40** · menos **1.33**
-    - 4,5: más **6.50** · menos **1.11**
+    - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
@@ -33,9 +33,9 @@ _Actualizadas: 30/10 13:59_
     - 9,5: más **1.95** · menos **1.85**
 - **Tarjetas más/menos:**
     - 3,5: más **1.80** · menos **1.91**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.20**  ·  2 **2.75**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
@@ -45,7 +45,7 @@ _Actualizadas: 30/10 13:59_
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.40**
 - **Win Both Halves:** 1 **13.00**  ·  2 **7.00**
 - **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.33**  ·  Home/No **6.00**  ·  Draw/No **10.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
@@ -69,7 +69,7 @@ _Actualizadas: 30/10 13:59_
 - **Away Player Shots:** Liam Millar - 1 **1.10**  ·  Liam Millar - 2 **1.44**  ·  Liam Millar - 3 **2.25**  ·  Liam Millar - 4 **4.00**  ·  Liam Millar - 5 **9.00**  ·  Liam Millar - 6 **17.00**  ·  August Priske - 1 **1.10**  ·  Jay Stansfield - 1 **1.07**  ·  Luis Vazquez - 1 **1.07**  ·  Marvin Ducksch - 1 **1.10**  ·  Carlos Vicente - 1 **1.14**  ·  Demarai Gray - 1 **1.07**  ·  Patrick Roberts - 1 **1.40**  ·  Seung-Ho Paik - 1 **1.40**  ·  Tomoki Iwata - 1 **1.40**  ·  Jhon Solis - 1 **1.44**  ·  Max Bird - 1 **1.40**  ·  Taylor Gardner-Hickman - 1 **1.50**  ·  Ethan Laird - 1 **1.44**  ·  Bright Osayi-Samuel - 1 **2.20**  ·  Dael Fry - 1 **2.62**  ·  Kristoffer Lund - 1 **1.83**  ·  Lee Buchanan - 1 **1.83**  ·  Christoph Klarer - 1 **2.00**  ·  Phil Neumann - 1 **1.73**  ·  Alex Cochrane - 1 **2.38**  ·  August Priske - 2 **1.44**  ·  Jay Stansfield - 2 **1.36**  ·  Luis Vazquez - 2 **1.36**  ·  Marvin Ducksch - 2 **1.44**  ·  Carlos Vicente - 2 **1.67**  ·  Demarai Gray - 2 **1.36**  ·  Patrick Roberts - 2 **2.62**  ·  Seung-Ho Paik - 2 **2.62**  ·  Tomoki Iwata - 2 **2.62**  ·  Jhon Solis - 2 **3.00**  ·  Max Bird - 2 **2.62**  ·  Taylor Gardner-Hickman - 2 **3.25**  ·  Ethan Laird - 2 **3.00**  ·  Bright Osayi-Samuel - 2 **7.00**  ·  Dael Fry - 2 **10.00**  ·  Kristoffer Lund - 2 **5.00**  ·  Lee Buchanan - 2 **5.00**  ·  Christoph Klarer - 2 **6.00**  ·  Phil Neumann - 2 **4.33**  ·  Alex Cochrane - 2 **8.00**  ·  August Priske - 3 **2.25**  ·  Jay Stansfield - 3 **2.00**  ·  Luis Vazquez - 3 **2.00**  ·  Marvin Ducksch - 3 **2.25**  ·  Carlos Vicente - 3 **3.00**  ·  Demarai Gray - 3 **2.00**  ·  Patrick Roberts - 3 **6.00**  ·  Seung-Ho Paik - 3 **6.00**  ·  Tomoki Iwata - 3 **6.00**  ·  Jhon Solis - 3 **7.00**  ·  Max Bird - 3 **6.00**  ·  Taylor Gardner-Hickman - 3 **8.00**  ·  Ethan Laird - 3 **7.00**  ·  Bright Osayi-Samuel - 3 **21.00**  ·  Dael Fry - 3 **21.00**  ·  Kristoffer Lund - 3 **15.00**  ·  Lee Buchanan - 3 **15.00**  ·  August Priske - 4 **4.00**  ·  Jay Stansfield - 4 **3.50**  ·  Luis Vazquez - 4 **3.50**  ·  Marvin Ducksch - 4 **4.00**  ·  Carlos Vicente - 4 **6.00**  ·  Demarai Gray - 4 **3.50**  ·  Patrick Roberts - 4 **15.00**  ·  Seung-Ho Paik - 4 **15.00**  ·  Tomoki Iwata - 4 **15.00**  ·  Jhon Solis - 4 **19.00**  ·  Max Bird - 4 **15.00**  ·  Taylor Gardner-Hickman - 4 **21.00**  ·  Ethan Laird - 4 **19.00**  ·  August Priske - 5 **9.00**  ·  Jay Stansfield - 5 **6.50**  ·  Luis Vazquez - 5 **6.50**  ·  Marvin Ducksch - 5 **9.00**  ·  Carlos Vicente - 5 **13.00**  ·  Demarai Gray - 5 **6.50**  ·  Patrick Roberts - 5 **21.00**  ·  August Priske - 6 **17.00**  ·  Jay Stansfield - 6 **13.00**  ·  Luis Vazquez - 6 **13.00**  ·  Marvin Ducksch - 6 **17.00**  ·  Carlos Vicente - 6 **21.00**  ·  Demarai Gray - 6 **13.00**  ·  August Priske - 7 **19.00**  ·  Jay Stansfield - 7 **21.00**  ·  Alex Cochrane - 3 **21.00**  ·  Christoph Klarer - 3 **19.00**  ·  Phil Neumann - 3 **13.00**  ·  Luis Vazquez - 7 **21.00**  ·  Marvin Ducksch - 7 **17.00**  ·  Demarai Gray - 7 **21.00**  ·  Jay Stansfield - 8 **21.00**  ·  Seung-Ho Paik - 5 **21.00**  ·  Liam Millar - 7 **21.00**  ·  Max Bird - 5 **21.00**
 - **Goalkeeper Saves:** James Beadle - 3 **2.00**  ·  James Beadle - 4 **3.75**  ·  James Beadle - 5 **7.00**  ·  James Beadle - 2 **1.33**  ·  George Wickens - 2 **1.20**  ·  George Wickens - 3 **1.62**  ·  George Wickens - 4 **2.50**  ·  George Wickens - 5 **4.50**  ·  James Beadle - 1 **1.06**  ·  George Wickens - 6 **10.00**
 - **Anytime Goal Scorer:** Freddie Draper **3.25**  ·  Rob Street **3.75**  ·  Dom Jefferies **7.50**  ·  Tom Hamer **13.00**  ·  Tendayi Darikwa **9.00**  ·  Isaac Olaofe **3.50**  ·  Jay Stansfield **2.60**  ·  Taylor Gardner-Hickman **7.50**  ·  Tomoki Iwata **7.50**  ·  Alex Cochrane **13.00**  ·  Christoph Klarer **13.00**  ·  Lee Buchanan **11.00**  ·  Ethan Laird **7.50**  ·  Ben House **4.33**  ·  Tom Bayliss **9.00**  ·  Conor McGrandles **9.00**  ·  Mason Melia **3.75**  ·  Ivan Varfolomeyev **9.00**  ·  Mikkel Ladefoged **3.00**  ·  Andrei Coubis **6.50**  ·  Kristoffer Lund **13.00**  ·  Max Bird **6.00**  ·  Dael Fry **13.00**  ·  Ryley Towler **15.00**  ·  Callum Elder **13.00**  ·  Sonny Bradley **13.00**  ·  Patrick Roberts **6.00**  ·  Liam Millar **3.25**  ·  Luis Vazquez **3.75**  ·  Reeco Hackett **3.75**  ·  Daniel Oyegoke **6.50**  ·  Jhon Solis **7.50**  ·  August Priske **3.00**  ·  Bright Osayi-Samuel **11.00**  ·  Phil Neumann **11.00**  ·  Demarai Gray **3.75**  ·  Chiedozie Ogbene **4.00**  ·  Seung-Ho Paik **6.00**  ·  Carlos Vicente **4.00**  ·  Ethan Wheatley **3.25**  ·  Yunus Emre Konak **9.00**  ·  Marvin Ducksch **3.00**  ·  Deji Elerewe **13.00**  ·  Adam Reach **9.00**
-- **Player to Score or Assist:** Freddie Draper **2.50**  ·  Rob Street **3.10**  ·  Dom Jefferies **4.33**  ·  Tom Hamer **4.50**  ·  Tendayi Darikwa **4.33**  ·  Isaac Olaofe **2.75**  ·  Jay Stansfield **2.00**  ·  Taylor Gardner-Hickman **4.00**  ·  Tomoki Iwata **4.00**  ·  Alex Cochrane **4.75**  ·  Christoph Klarer **7.50**  ·  Lee Buchanan **5.50**  ·  Ethan Laird **3.60**  ·  Ben House **3.20**  ·  Tom Bayliss **3.75**  ·  Conor McGrandles **5.50**  ·  Mason Melia **2.75**  ·  Ivan Varfolomeyev **5.00**  ·  Mikkel Ladefoged **2.25**  ·  Andrei Coubis **3.40**  ·  Kristoffer Lund **6.50**  ·  Max Bird **2.88**  ·  Dael Fry **7.00**  ·  Ryley Towler **9.00**  ·  Callum Elder **4.50**  ·  Sonny Bradley **10.00**  ·  Patrick Roberts **2.75**  ·  Liam Millar **2.38**  ·  Luis Vazquez **2.50**  ·  Reeco Hackett **2.50**  ·  Daniel Oyegoke **5.00**  ·  Jhon Solis **3.60**  ·  August Priske **2.40**  ·  Bright Osayi-Samuel **4.50**  ·  Phil Neumann **8.50**  ·  Demarai Gray **2.20**  ·  Chiedozie Ogbene **2.62**  ·  Seung-Ho Paik **3.50**  ·  Carlos Vicente **2.25**  ·  Ethan Wheatley **2.40**  ·  Yunus Emre Konak **5.00**  ·  Marvin Ducksch **2.25**  ·  Deji Elerewe **5.50**  ·  Adam Reach **4.00**
+- **Player to Score or Assist:** Freddie Draper **2.50**  ·  Rob Street **3.10**  ·  Dom Jefferies **4.33**  ·  Tom Hamer **4.50**  ·  Tendayi Darikwa **4.33**  ·  Isaac Olaofe **2.75**  ·  Jay Stansfield **2.00**  ·  Taylor Gardner-Hickman **4.00**  ·  Tomoki Iwata **4.00**  ·  Alex Cochrane **4.75**  ·  Christoph Klarer **7.50**  ·  Lee Buchanan **5.50**  ·  Ethan Laird **3.50**  ·  Ben House **3.10**  ·  Tom Bayliss **3.75**  ·  Conor McGrandles **5.50**  ·  Mason Melia **2.75**  ·  Ivan Varfolomeyev **5.00**  ·  Mikkel Ladefoged **2.30**  ·  Andrei Coubis **3.40**  ·  Kristoffer Lund **6.00**  ·  Max Bird **2.88**  ·  Dael Fry **7.00**  ·  Ryley Towler **9.00**  ·  Callum Elder **4.50**  ·  Sonny Bradley **10.00**  ·  Patrick Roberts **2.75**  ·  Liam Millar **2.38**  ·  Luis Vazquez **2.50**  ·  Reeco Hackett **2.50**  ·  Daniel Oyegoke **5.00**  ·  Jhon Solis **3.50**  ·  August Priske **2.38**  ·  Bright Osayi-Samuel **4.50**  ·  Phil Neumann **8.50**  ·  Demarai Gray **2.20**  ·  Chiedozie Ogbene **2.62**  ·  Seung-Ho Paik **3.40**  ·  Carlos Vicente **2.25**  ·  Ethan Wheatley **2.40**  ·  Yunus Emre Konak **5.00**  ·  Marvin Ducksch **2.10**  ·  Deji Elerewe **5.50**  ·  Adam Reach **4.00**
 
 ## Estadísticas de equipo
 | | Lincoln (total) | Lincoln en casa | Birmingham (total) | Birmingham fuera |
@@ -126,7 +126,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Lincoln:** T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive); T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive)
-**Birmingham:** M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems)
+**Birmingham:** M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); A. Priske (duda, Health problems); M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); A. Priske (duda, Health problems)
 
 ## Enfrentamientos directos recientes
 - 2025-03-08 · League One: Birmingham 1-0 Lincoln
@@ -208,18 +208,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 44% | 45% | 2.15 | -4% |
+| 1X2: 2 | 46% | 45% | 45% | 2.10 | -5% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 29% | 29% | 29% | 3.20 | -6% |
-| Doble oportunidad: X2 | 71% | 70% | 70% | 1.36 | -5% |
+| 1X2: 1 | 29% | 28% | 29% | 3.30 | -5% |
+| Doble oportunidad: X2 | 71% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 54% | 57% | 55% | 1.67 | -7% |
+| Doble oportunidad: 1X | 54% | 55% | 55% | 1.70 | -7% |
 | Ambos marcan: No | 45% | 46% | 46% | 2.00 | -9% |
 | Ambos marcan: Sí | 55% | 54% | 54% | 1.73 | -6% |
-| Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.30 | -3% |
+| Goles más/menos: Más de 1.5 | 76% | 75% | 75% | 1.28 | -3% |
 | Goles más/menos: Más de 2.5 | 52% | 50% | 51% | 1.91 | -2% |
 | Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles más/menos: Menos de 1.5 | 24% | 25% | 25% | 3.75 | -8% |
 | Goles más/menos: Menos de 2.5 | 48% | 50% | 49% | 1.91 | -7% |
 | Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
@@ -238,8 +238,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -6% |
 | Córners más/menos: Más de 9.5 | 48% | 49% | 49% | 1.95 | -5% |
 | Córners más/menos: Menos de 9.5 | 52% | 51% | 51% | 1.85 | -5% |
-| 1X2 descanso: 2 | 34% | 34% | 34% | 2.75 | -7% |
-| 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -8% |
-| 1X2 descanso: 1 | 24% | 25% | 24% | 3.75 | -9% |
+| 1X2 descanso: 2 | 34% | 34% | 34% | 2.75 | -6% |
+| 1X2 descanso: X | 42% | 43% | 42% | 2.20 | -7% |
+| 1X2 descanso: 1 | 24% | 23% | 24% | 4.00 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Celta Vigo – Union St. Gilloise
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_
@@ -175,7 +175,7 @@ _Sin precedentes recientes._
 | Promise David | F | 1 | 61 | 0 | 0 | 5 | 5,0 | 1 | 1,0 | 1 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,90 · visitante 1,49 · córners esperados 8,4._
+_Goles esperados: local 0,89 · visitante 1,49 · córners esperados 8,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -189,22 +189,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 49% | 71% | 60% | 1.33 | -20% |
 | Ambos marcan: No | 54% | 42% | 48% | 2.20 | +6% |
 | Ambos marcan: Sí | 46% | 58% | 52% | 1.62 | -16% |
-| Goles más/menos: Más de 1.5 | 69% | 78% | 73% | 1.22 | -10% |
-| Goles más/menos: Más de 2.5 | 43% | 57% | 50% | 1.67 | -17% |
+| Goles más/menos: Más de 1.5 | 69% | 78% | 73% | 1.22 | -11% |
+| Goles más/menos: Más de 2.5 | 42% | 57% | 50% | 1.67 | -17% |
 | Goles más/menos: Más de 3.5 | 22% | 34% | 28% | 2.75 | -23% |
 | Goles más/menos: Menos de 1.5 | 31% | 22% | 27% | 4.33 | +15% |
-| Goles más/menos: Menos de 2.5 | 57% | 43% | 50% | 2.20 | +11% |
+| Goles más/menos: Menos de 2.5 | 58% | 43% | 50% | 2.20 | +11% |
 | Goles más/menos: Menos de 3.5 | 78% | 66% | 72% | 1.44 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles del local: Más de 0.5 | 59% | 79% | 69% | 1.18 | -18% |
-| Goles del local: Más de 1.5 | 23% | 50% | 36% | 1.83 | -34% |
-| Goles del local: Más de 2.5 | 6% | 25% | 16% | 3.75 | -41% |
+| Goles del local: Más de 1.5 | 22% | 50% | 36% | 1.83 | -34% |
+| Goles del local: Más de 2.5 | 6% | 25% | 16% | 3.75 | -42% |
 | Goles del local: Menos de 0.5 | 41% | 21% | 31% | 4.50 | +39% |
-| Goles del local: Menos de 1.5 | 77% | 50% | 64% | 1.83 | +17% |
-| Goles del local: Menos de 2.5 | 94% | 75% | 84% | 1.25 | +5% |
+| Goles del local: Menos de 1.5 | 78% | 50% | 64% | 1.83 | +17% |
+| Goles del local: Menos de 2.5 | 94% | 75% | 84% | 1.25 | +6% |
 | Goles del visitante: Más de 0.5 | 77% | 71% | 74% | 1.33 | -1% |
 | Goles del visitante: Más de 1.5 | 44% | 35% | 40% | 2.62 | +4% |
 | Goles del visitante: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -16% |

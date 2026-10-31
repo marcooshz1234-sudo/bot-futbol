@@ -1,7 +1,7 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:02_
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Mikey Moore | F | 3 | 180 | 1 | 1 | 5 | 1,7 | 4 | 1,3 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 0,99 · córners esperados 9,6._
+_Goles esperados: local 1,51 · visitante 0,98 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -205,9 +205,9 @@ _Goles esperados: local 1,51 · visitante 0,99 · córners esperados 9,6._
 | Goles del local: Menos de 0.5 | 22% | 27% | 24% | 3.50 | -14% |
 | Goles del local: Menos de 1.5 | 56% | 61% | 58% | 1.53 | -11% |
 | Goles del visitante: Más de 0.5 | 63% | 73% | 68% | 1.28 | -13% |
-| Goles del visitante: Más de 1.5 | 26% | 39% | 33% | 2.38 | -23% |
+| Goles del visitante: Más de 1.5 | 26% | 39% | 32% | 2.38 | -23% |
 | Goles del visitante: Menos de 0.5 ✅ | 37% | 27% | 32% | 3.50 | +12% |
-| Goles del visitante: Menos de 1.5 | 74% | 61% | 67% | 1.53 | +3% |
+| Goles del visitante: Menos de 1.5 | 74% | 61% | 68% | 1.53 | +3% |
 | 1X2 descanso: 2 | 21% | 29% | 25% | 3.25 | -20% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 35% | 29% | 32% | 3.20 | +3% |

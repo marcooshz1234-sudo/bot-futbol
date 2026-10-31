@@ -1,7 +1,7 @@
 # Portsmouth – Stoke City
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -138,6 +138,6 @@ _Sin bajas comunicadas por ahora._
 | Svante Ingelsson | M | 3 | 190 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 2 | 0,7 | 2 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,41 · visitante 0,94 · córners esperados 9,6._
+_Goles esperados: local 1,42 · visitante 0,94 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

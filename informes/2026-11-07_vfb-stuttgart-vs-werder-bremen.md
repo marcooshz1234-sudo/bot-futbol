@@ -1,7 +1,7 @@
 # VfB Stuttgart – Werder Bremen
 **Bundesliga** · Regular Season - 9 · 07/11/2026 18:30 (hora España) · MHPArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -185,14 +185,14 @@ _Sin bajas comunicadas por ahora._
 | Alexander Schlager | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,93 · visitante 1,82 · córners esperados 9,8._
+_Goles esperados: local 1,94 · visitante 1,81 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 18% | 27% | 5.25 | +44% |
+| 1X2: 2 | 37% | 18% | 27% | 5.25 | +43% |
 | 1X2: X | 21% | 20% | 20% | 4.75 | -3% |
 | 1X2: 1 | 42% | 63% | 52% | 1.48 | -23% |
-| Doble oportunidad: X2 ✅ | 58% | 37% | 48% | 2.62 | +24% |
+| Doble oportunidad: X2 ✅ | 58% | 37% | 47% | 2.62 | +24% |
 | Doble oportunidad: 12 | 79% | 81% | 80% | 1.18 | -6% |
 | Doble oportunidad: 1X | 63% | 82% | 73% | 1.17 | -15% |
 | Ambos marcan: No | 28% | 35% | 32% | 2.62 | -16% |
@@ -209,17 +209,17 @@ _Goles esperados: local 1,93 · visitante 1,82 · córners esperados 9,8._
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
-| Goles del local: Más de 1.5 | 58% | 71% | 64% | 1.33 | -15% |
-| Goles del local: Más de 2.5 | 31% | 46% | 38% | 2.00 | -23% |
-| Goles del local: Más de 3.5 | 13% | 25% | 19% | 3.75 | -29% |
+| Goles del local: Más de 1.5 | 58% | 71% | 64% | 1.33 | -14% |
+| Goles del local: Más de 2.5 | 31% | 46% | 39% | 2.00 | -23% |
+| Goles del local: Más de 3.5 | 13% | 25% | 19% | 3.75 | -28% |
 | Goles del local: Menos de 1.5 ✅ | 42% | 29% | 36% | 3.25 | +16% |
-| Goles del local: Menos de 2.5 | 69% | 54% | 62% | 1.73 | +6% |
+| Goles del local: Menos de 2.5 | 69% | 54% | 61% | 1.73 | +6% |
 | Goles del local: Menos de 3.5 | 87% | 75% | 81% | 1.25 | +1% |
 | Goles del visitante: Más de 0.5 | 84% | 71% | 77% | 1.33 | +3% |
-| Goles del visitante: Más de 1.5 | 54% | 38% | 46% | 2.50 | +15% |
+| Goles del visitante: Más de 1.5 | 54% | 38% | 46% | 2.50 | +14% |
 | Goles del visitante: Menos de 0.5 | 16% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 1.5 | 46% | 62% | 54% | 1.50 | -19% |
 | 1X2 descanso: X | 35% | 32% | 34% | 2.88 | -3% |
-| 1X2 descanso: 1 | 34% | 49% | 41% | 1.91 | -21% |
+| 1X2 descanso: 1 | 34% | 49% | 42% | 1.91 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

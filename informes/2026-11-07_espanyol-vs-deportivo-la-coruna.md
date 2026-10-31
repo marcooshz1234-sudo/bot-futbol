@@ -1,7 +1,7 @@
 # Espanyol – Deportivo La Coruna
 **LaLiga** · Regular Season - 12 · 07/11/2026 16:15 (hora España) · RCDE Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -49,52 +49,52 @@ _Actualizadas: 30/10 19:52_
 ## Estadísticas de equipo
 | | Espanyol (total) | Espanyol en casa | Deportivo La Coruna (total) | Deportivo La Coruna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 6 |
-| Forma (últimos 5) | DDDED | DDEDV | VDEDE | VDDEV |
-| Balance | 2V 2E 7D | 1V 1E 3D | 3V 5E 3D | 2V 2E 2D |
-| Goles a favor / partido | 1,36 | 1,20 | 1,45 | 1,67 |
-| Goles en contra / partido | 1,64 | 1,40 | 1,18 | 1,33 |
-| Goles a favor 1ª parte | 0,73 | 0,60 | 0,55 | 0,50 |
-| Goles a favor 2ª parte | 0,64 | 0,60 | 0,91 | 1,17 |
-| Goles en contra 1ª parte | 0,73 | 0,60 | 0,55 | 0,67 |
-| Goles en contra 2ª parte | 0,91 | 0,80 | 0,64 | 0,67 |
-| Más de 1,5 goles | 91% | 80% | 82% | 83% |
-| Más de 2,5 goles | 64% | 60% | 36% | 50% |
-| Más de 3,5 goles | 18% | 20% | 27% | 33% |
-| Ambos marcan | 73% | 60% | 73% | 67% |
-| Portería a cero | 18% | 20% | 9% | 17% |
-| Se queda sin marcar | 9% | 20% | 18% | 17% |
-| xG a favor | 1,08 | 1,08 | 1,20 | 1,39 |
-| xG en contra | 1,42 | 1,32 | 1,17 | 1,35 |
-| Tiros / partido | 12,8 | 13,8 | 12,0 | 12,0 |
+| Partidos analizados | 12 | 5 | 11 | 6 |
+| Forma (últimos 5) | VDDDE | DDEDV | VDEDE | VDDEV |
+| Balance | 3V 2E 7D | 1V 1E 3D | 3V 5E 3D | 2V 2E 2D |
+| Goles a favor / partido | 1,33 | 1,20 | 1,45 | 1,67 |
+| Goles en contra / partido | 1,50 | 1,40 | 1,18 | 1,33 |
+| Goles a favor 1ª parte | 0,67 | 0,60 | 0,55 | 0,50 |
+| Goles a favor 2ª parte | 0,67 | 0,60 | 0,91 | 1,17 |
+| Goles en contra 1ª parte | 0,67 | 0,60 | 0,55 | 0,67 |
+| Goles en contra 2ª parte | 0,83 | 0,80 | 0,64 | 0,67 |
+| Más de 1,5 goles | 83% | 80% | 82% | 83% |
+| Más de 2,5 goles | 58% | 60% | 36% | 50% |
+| Más de 3,5 goles | 17% | 20% | 27% | 33% |
+| Ambos marcan | 67% | 60% | 73% | 67% |
+| Portería a cero | 25% | 20% | 9% | 17% |
+| Se queda sin marcar | 8% | 20% | 18% | 17% |
+| xG a favor | 1,00 | 1,08 | 1,20 | 1,39 |
+| xG en contra | 1,37 | 1,32 | 1,17 | 1,35 |
+| Tiros / partido | 12,2 | 13,8 | 12,0 | 12,0 |
 | Tiros a puerta / partido | 3,6 | 3,6 | 4,4 | 4,4 |
-| Tiros recibidos | 14,4 | 11,8 | 13,3 | 15,4 |
-| Tiros a puerta recibidos | 5,8 | 4,6 | 4,3 | 3,8 |
-| Posesión media % | 48 | 49 | 48 | 50 |
-| Córners a favor | 3,4 | 1,4 | 5,1 | 5,2 |
-| Córners en contra | 5,9 | 5,6 | 5,2 | 5,4 |
-| Córners a favor 1ª parte | 1,3 | 0,4 | 1,8 | 1,8 |
-| Córners a favor 2ª parte | 1,9 | 1,0 | 3,3 | 3,4 |
+| Tiros recibidos | 14,3 | 11,8 | 13,3 | 15,4 |
+| Tiros a puerta recibidos | 5,7 | 4,6 | 4,3 | 3,8 |
+| Posesión media % | 47 | 49 | 48 | 50 |
+| Córners a favor | 3,3 | 1,4 | 5,1 | 5,2 |
+| Córners en contra | 6,0 | 5,6 | 5,2 | 5,4 |
+| Córners a favor 1ª parte | 1,4 | 0,4 | 1,8 | 1,8 |
+| Córners a favor 2ª parte | 1,8 | 1,0 | 3,3 | 3,4 |
 | Córners totales del partido | 9,3 | 7,0 | 10,3 | 10,6 |
 | Córners totales 1ª parte | 4,2 | 3,0 | 4,8 | 4,8 |
-| Córners totales 2ª parte | 4,6 | 4,0 | 5,5 | 5,8 |
-| Más de 8,5 córners | 45% | 20% | 50% | 60% |
-| Más de 9,5 córners | 45% | 20% | 50% | 60% |
-| Más de 10,5 córners | 27% | 20% | 30% | 40% |
-| Faltas cometidas | 16,9 | 15,4 | 12,3 | 10,8 |
-| Faltas recibidas | 11,2 | 9,0 | 11,9 | 13,0 |
+| Córners totales 2ª parte | 4,7 | 4,0 | 5,5 | 5,8 |
+| Más de 8,5 córners | 50% | 20% | 50% | 60% |
+| Más de 9,5 córners | 50% | 20% | 50% | 60% |
+| Más de 10,5 córners | 25% | 20% | 30% | 40% |
+| Faltas cometidas | 16,6 | 15,4 | 12,3 | 10,8 |
+| Faltas recibidas | 11,5 | 9,0 | 11,9 | 13,0 |
 | Amarillas propias | 3,2 | 2,8 | 2,0 | 2,2 |
-| Amarillas del rival | 2,6 | 2,2 | 2,1 | 2,2 |
-| Rojas / partido | 0,09 | 0,00 | 0,30 | 0,20 |
+| Amarillas del rival | 2,7 | 2,2 | 2,1 | 2,2 |
+| Rojas / partido | 0,08 | 0,00 | 0,30 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Espanyol | Recibe Espanyol | Tarjetas Espanyol | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 2 | 1 | 0 | 1 |
-| 16-30' | 2 | 4 | 5 | 3 | 3 | 3 |
-| 31-45' | 2 | 1 | 6 | 2 | 3 | 3 |
-| 46-60' | 1 | 0 | 3 | 2 | 3 | 2 |
-| 61-75' | 2 | 2 | 5 | 3 | 1 | 2 |
+| 16-30' | 2 | 4 | 6 | 3 | 3 | 3 |
+| 31-45' | 2 | 1 | 7 | 2 | 3 | 3 |
+| 46-60' | 2 | 0 | 3 | 2 | 3 | 2 |
+| 61-75' | 2 | 2 | 6 | 3 | 1 | 2 |
 | 76-90' | 4 | 8 | 16 | 5 | 3 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -113,36 +113,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Espanyol
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | LaLiga | Villarreal 0-1 Espanyol | fuera | 3-7 | 5 (3) - 14 (4) | 3-3 |
 | 2026-10-27 | Copa del Rey | Sestao River 4-3 Espanyol | fuera | 12-7 | 16 (6) - 17 (9) | 4-2 |
 | 2026-10-24 | LaLiga | Racing Santander 2-1 Espanyol | fuera | 4-9 | 11 (1) - 23 (9) | 4-3 |
 | 2026-10-17 | LaLiga | Espanyol 0-1 Atletico Madrid | casa | 4-12 | 10 (2) - 19 (6) | 2-5 |
 | 2026-10-09 | LaLiga | Malaga 1-1 Espanyol | fuera | 2-8 | 9 (4) - 15 (7) | 5-4 |
 | 2026-09-18 | LaLiga | Espanyol 1-3 Elche | casa | 3-3 | 23 (4) - 9 (6) | 2-2 |
-| 2026-09-15 | LaLiga | Rayo Vallecano 2-1 Espanyol | fuera | 5-3 | 19 (5) - 16 (2) | 1-5 |
 
 ## Jugadores de Espanyol
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Roberto Fernández | F | 11 | 942 | 7 | 0 | 22 | 2,0 | 11 | 1,0 | 18 | 13 | 1,2 | 0 | 0 |
-| Omar El Hilali | D | 10 | 915 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 25 | 7 | 0,7 | 3 | 1 |
-| Edu Expósito | M | 11 | 848 | 1 | 0 | 12 | 1,1 | 2 | 0,2 | 10 | 9 | 0,8 | 3 | 0 |
-| Javier Hernández | M | 11 | 831 | 0 | 6 | 10 | 0,9 | 4 | 0,4 | 24 | 13 | 1,2 | 3 | 0 |
-| Roger Hinojo | D | 10 | 751 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 12 | 4 | 0,4 | 4 | 0 |
+| Roberto Fernández | F | 12 | 1032 | 7 | 0 | 22 | 1,8 | 11 | 0,9 | 22 | 13 | 1,1 | 0 | 0 |
+| O. El Hilali | D | 11 | 1005 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 25 | 7 | 0,6 | 3 | 1 |
+| Edu Expósito | M | 12 | 938 | 1 | 0 | 12 | 1,0 | 2 | 0,2 | 10 | 11 | 0,9 | 3 | 0 |
+| Javier Hernandez | M | 12 | 919 | 0 | 6 | 10 | 0,8 | 4 | 0,3 | 24 | 15 | 1,2 | 3 | 0 |
+| L. Cabrera | D | 9 | 840 | 1 | 0 | 10 | 1,1 | 3 | 0,3 | 10 | 3 | 0,3 | 1 | 0 |
+| Roger Hinojo | D | 11 | 812 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 13 | 5 | 0,5 | 5 | 0 |
 | Marko Dmitrović | G | 8 | 750 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Leandro Cabrera | D | 8 | 750 | 0 | 0 | 9 | 1,1 | 2 | 0,2 | 9 | 3 | 0,4 | 1 | 0 |
 | Clemens Riedel | D | 9 | 675 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 14 | 4 | 0,4 | 4 | 0 |
 | Tyrhys Dolan | M | 9 | 593 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 11 | 8 | 0,9 | 1 | 0 |
 | Álex Calatrava | M | 11 | 552 | 1 | 0 | 14 | 1,3 | 5 | 0,5 | 10 | 8 | 0,7 | 3 | 0 |
 | Urko González | M | 10 | 544 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 6 | 0,6 | 3 | 0 |
+| Bryan Zaragoza | M | 9 | 501 | 1 | 2 | 10 | 1,1 | 5 | 0,6 | 4 | 16 | 1,8 | 2 | 0 |
 | Unai Núñez | D | 7 | 450 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 4 | 0,6 | 1 | 0 |
-| Bryan Zaragoza | F | 8 | 424 | 1 | 1 | 8 | 1,0 | 4 | 0,5 | 2 | 14 | 1,8 | 1 | 0 |
-| Pol Lozano | M | 7 | 388 | 0 | 0 | 5 | 0,7 | 2 | 0,3 | 9 | 2 | 0,3 | 2 | 0 |
+| Pol Lozano | M | 8 | 417 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 9 | 2 | 0,2 | 2 | 0 |
+| V. Drkušić | D | 6 | 364 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
+| Ángel Fortuño | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Marcos Fernández | F | 10 | 357 | 2 | 1 | 12 | 1,2 | 5 | 0,5 | 7 | 6 | 0,6 | 2 | 0 |
 | Quilindschy Hartman | D | 6 | 334 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
-| V. Drkušić | D | 5 | 274 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,6 | 0 | 0 |
-| Ángel Fortuño | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Gabriel Moscardo | M | 6 | 246 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 5 | 3 | 0,5 | 1 | 0 |
-| Rafael Bauzà | M | 5 | 163 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 5 | 1,0 | 1 | 0 |
+| Gabriel Moscardo | M | 7 | 248 | 1 | 0 | 4 | 0,6 | 2 | 0,3 | 5 | 4 | 0,6 | 1 | 0 |
+| Rafel Bauzà | M | 6 | 224 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 8 | 8 | 1,3 | 2 | 0 |
 
 ## Últimos partidos de Deportivo La Coruna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | Marc Casadó | M | 3 | 120 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,02 · visitante 1,21 · córners esperados 9,5._
+_Goles esperados: local 0,99 · visitante 1,11 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 40% | 28% | 34% | 3.30 | +14% |
-| 1X2: X | 29% | 29% | 29% | 3.25 | -6% |
-| 1X2: 1 | 31% | 43% | 37% | 2.20 | -19% |
-| Doble oportunidad: X2 | 69% | 57% | 63% | 1.67 | +5% |
-| Doble oportunidad: 12 | 71% | 72% | 71% | 1.33 | -5% |
-| Doble oportunidad: 1X | 60% | 72% | 66% | 1.33 | -13% |
-| Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
-| Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
-| Goles más/menos: Más de 1.5 | 65% | 73% | 69% | 1.30 | -10% |
-| Goles más/menos: Más de 2.5 | 39% | 47% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 3.5 | 19% | 28% | 23% | 3.40 | -20% |
-| Goles más/menos: Menos de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
-| Goles más/menos: Menos de 2.5 | 61% | 53% | 57% | 1.80 | +3% |
-| Goles más/menos: Menos de 3.5 | 81% | 72% | 77% | 1.33 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
-| Goles del local: Más de 1.5 | 27% | 44% | 36% | 2.10 | -25% |
-| Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +19% |
-| Goles del local: Menos de 1.5 | 73% | 56% | 64% | 1.67 | +7% |
-| Goles del visitante: Más de 0.5 | 70% | 66% | 68% | 1.40 | -4% |
-| Goles del visitante: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles del visitante: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -13% |
-| Goles del visitante: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
-| 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | +1% |
-| 1X2 descanso: X | 47% | 42% | 45% | 2.20 | -2% |
-| 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -22% |
+| 1X2: 2 | 38% | 28% | 33% | 3.30 | +10% |
+| 1X2: X | 30% | 29% | 29% | 3.25 | -5% |
+| 1X2: 1 | 32% | 43% | 37% | 2.20 | -18% |
+| Doble oportunidad: X2 | 68% | 57% | 62% | 1.67 | +4% |
+| Doble oportunidad: 12 | 70% | 72% | 71% | 1.33 | -6% |
+| Doble oportunidad: 1X | 62% | 72% | 67% | 1.33 | -11% |
+| Ambos marcan: No | 58% | 47% | 52% | 2.00 | +4% |
+| Ambos marcan: Sí | 42% | 53% | 48% | 1.75 | -16% |
+| Goles más/menos: Más de 1.5 | 62% | 73% | 68% | 1.30 | -12% |
+| Goles más/menos: Más de 2.5 | 35% | 47% | 41% | 2.00 | -17% |
+| Goles más/menos: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
+| Goles más/menos: Menos de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +14% |
+| Goles más/menos: Menos de 2.5 | 65% | 53% | 59% | 1.80 | +6% |
+| Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.33 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 66% | 72% | 1.40 | +0% |
+| Goles del local: Más de 0.5 | 63% | 77% | 70% | 1.22 | -15% |
+| Goles del local: Más de 1.5 | 26% | 44% | 35% | 2.10 | -26% |
+| Goles del local: Menos de 0.5 ✅ | 37% | 23% | 30% | 4.00 | +21% |
+| Goles del local: Menos de 1.5 | 74% | 56% | 65% | 1.67 | +8% |
+| Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
+| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| 1X2 descanso: 2 | 27% | 25% | 26% | 3.75 | -3% |
+| 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
+| 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

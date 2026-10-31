@@ -1,5 +1,46 @@
 # Lecciones del bot
 
+## 2026-10-30
+
+```
+🧠 LECCIONES DEL 30/10
+Picks del bot: 11 ✅ · 7 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan en Villarreal–Espanyol → 1 de 2 equipos que marcan
+• FSV Mainz 05 hace más tiros → Tiros: 13 – 10
+• FSV Mainz 05 o empate → Marcador: 4–1
+• Florian Thauvin: 2+ tiros → 1 de 2 tiros
+• Gana el Villarreal → Marcador: 0–1
+• Gol en la 1ª parte del Lille–Lens → Marcador: 1–0
+• Lens hace más de 4,5 córners → 2 de 5 córners
+• Lens hace más tiros → Tiros: 16 – 5
+• Lens marca → 0 de 1 gol
+• Más de 25,5 tiros en Sheffield Utd–Wrexham → 22 de 26 tiros
+• Más de 27,5 tiros en Villarreal–Espanyol → 19 de 28 tiros
+• Más de 4,5 córners en la 1ª parte en Sheffield Utd–Wrexham → marcador 1-0
+• Nice hace más de 4,5 córners → 4 de 5 córners
+• Wrexham marca → 0 de 1 gol
+
+❌ Fallos de los picks del bot y por qué:
+• Gol en la 1ª parte del Lille–Lens — partido cerrado (1-0): faltó 1 gol en la 1ª parte
+• Ambos marcan en Villarreal–Espanyol — solo marcó un equipo o ninguno (0-1)
+• Más de 1,5 goles en Sheffield Utd–Wrexham — partido cerrado (1-0): faltó 1 gol
+• Roberto Fernandez: 2+ tiros — jugó 90′ e hizo 0 (necesitaba 2)
+• FSV Mainz 05 hace más tiros — no llegó a la línea (4-1)
+• Más de 24,5 tiros en Lille–Lens — no llegó a la línea (1-0)
+• Thomas Cannon comete 1+ faltas — jugó 21′ e hizo 0 (necesitaba 1)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Lille–Lens, Villarreal–Espanyol, Sheffield Utd–Wrexham
+
+📐 Modelo: 99/162 aciertos reales (61%) frente al 72% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬆️ premio mercado jugador:tiros:1: 9/10 (+4 pts)
+⬇️ castigo tipo tiros: 2/6 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-29
 
 ```

@@ -1,7 +1,7 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 02:05_
@@ -181,38 +181,38 @@ _Sin bajas comunicadas por ahora._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,19 · visitante 1,17 · córners esperados 8,8._
+_Goles esperados: local 2,15 · visitante 1,15 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 29% | 24% | 3.25 | -22% |
-| 1X2: X | 20% | 25% | 23% | 3.70 | -17% |
+| 1X2: X | 20% | 25% | 23% | 3.70 | -16% |
 | 1X2: 1 ✅ | 60% | 46% | 53% | 2.00 | +7% |
-| Doble oportunidad: X2 | 40% | 53% | 46% | 1.80 | -17% |
+| Doble oportunidad: X2 | 40% | 53% | 47% | 1.80 | -16% |
 | Doble oportunidad: 12 | 80% | 75% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 80% | 72% | 76% | 1.33 | +1% |
-| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
-| Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
-| Goles más/menos: Más de 2.5 | 65% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 3.5 | 43% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Más de 4.5 | 25% | 22% | 23% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 35% | 40% | 37% | 2.38 | -11% |
-| Goles más/menos: Menos de 3.5 | 57% | 62% | 59% | 1.53 | -9% |
-| Goles más/menos: Menos de 4.5 | 75% | 78% | 77% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles del local: Más de 2.5 ✅ | 37% | 28% | 33% | 3.40 | +11% |
-| Goles del local: Menos de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Goles del local: Menos de 2.5 | 63% | 72% | 67% | 1.30 | -12% |
-| Goles del visitante: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 33% | 39% | 36% | 2.38 | -14% |
-| Goles del visitante: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
-| Goles del visitante: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Ambos marcan: No | 40% | 39% | 39% | 2.38 | -6% |
+| Ambos marcan: Sí | 60% | 61% | 61% | 1.53 | -7% |
+| Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -2% |
+| Goles más/menos: Más de 3.5 | 42% | 38% | 40% | 2.50 | -0% |
+| Goles más/menos: Más de 4.5 | 24% | 22% | 23% | 4.33 | -1% |
+| Goles más/menos: Menos de 2.5 | 36% | 40% | 38% | 2.38 | -10% |
+| Goles más/menos: Menos de 3.5 | 58% | 62% | 60% | 1.53 | -8% |
+| Goles más/menos: Menos de 4.5 | 76% | 78% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles del local: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
+| Goles del local: Más de 2.5 ✅ | 36% | 28% | 32% | 3.40 | +9% |
+| Goles del local: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Goles del local: Menos de 2.5 | 64% | 72% | 68% | 1.30 | -12% |
+| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
+| Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
+| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
 | 1X2 descanso: 2 | 19% | 25% | 22% | 3.75 | -18% |
-| 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -11% |
+| 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -10% |
 | 1X2 descanso: 1 | 45% | 37% | 41% | 2.50 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

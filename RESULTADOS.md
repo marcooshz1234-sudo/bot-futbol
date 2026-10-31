@@ -1,20 +1,20 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 30/10/2026 19:53. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 31/10/2026 02:05. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 40 · **acertados:** 10 (25%)
-- **Beneficio:** -14.10 unidades · **rentabilidad (yield):** -35.2%
-- **Cuota media:** 2.79 · **pendientes:** 71
+- **Picks jugados:** 44 · **acertados:** 11 (25%)
+- **Beneficio:** -14.35 unidades · **rentabilidad (yield):** -32.6%
+- **Cuota media:** 2.83 · **pendientes:** 69
 
-_Con 40 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 44 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 8 | 2 (25%) | -2.65 | -33.1% |
-| Goles más/menos | 8 | 2 (25%) | -3.40 | -42.5% |
-| Goles del visitante | 7 | 1 (14%) | -4.38 | -62.6% |
+| Goles más/menos | 10 | 3 (30%) | -1.65 | -16.5% |
+| 1X2 | 9 | 2 (22%) | -3.65 | -40.6% |
+| Goles del visitante | 8 | 1 (12%) | -5.38 | -67.2% |
 | Goles del local | 6 | 2 (33%) | +0.00 | +0.0% |
 | Doble oportunidad | 5 | 2 (40%) | -0.55 | -11.0% |
 | 1X2 descanso | 3 | 1 (33%) | -0.12 | -4.0% |
@@ -25,6 +25,10 @@ _Con 40 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-30 | Lille – Lens | Goles más/menos: Más de 3.5 | 3.20 | ❌ | -1.00 |
+| 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles del visitante: Más de 2.5 | 3.40 | ❌ | -1.00 |
+| 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles más/menos: Más de 4.5 | 3.75 | ✅ | +2.75 |
+| 2026-10-30 | Nice – Rennes | 1X2: 2 | 2.60 | ❌ | -1.00 |
 | 2026-10-29 | Everton – Newcastle | Goles del visitante: Menos de 0.5 | 3.40 | ❌ | -1.00 |
 | 2026-10-28 | Liverpool – Chelsea | Goles del local: Más de 2.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-28 | Liverpool – Chelsea | Goles más/menos: Más de 4.5 | 3.50 | ❌ | -1.00 |
@@ -61,7 +65,3 @@ _Con 40 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-25 | Athletic Club – Getafe | Goles más/menos: Menos de 1.5 | 3.20 | ❌ | -1.00 |
 | 2026-10-24 | Atletico Madrid – Deportivo La Coruna | Goles más/menos: Menos de 2.5 | 2.50 | ✅ | +1.50 |
 | 2026-10-24 | Atletico Madrid – Deportivo La Coruna | Goles del local: Menos de 1.5 | 3.25 | ✅ | +2.25 |
-| 2026-10-24 | Napoli – AS Roma | 1X2: 2 | 2.70 | ❌ | -1.00 |
-| 2026-10-24 | Racing Santander – Espanyol | 1X2: 2 | 3.00 | ❌ | -1.00 |
-| 2026-10-24 | Aston Villa – Manchester City | Doble oportunidad: 1X | 2.20 | ✅ | +1.20 |
-| 2026-10-24 | Aston Villa – Manchester City | Goles del local: Más de 1.5 | 2.75 | ✅ | +1.75 |

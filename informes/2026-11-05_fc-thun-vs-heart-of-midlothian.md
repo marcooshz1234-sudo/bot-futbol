@@ -1,7 +1,7 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Tom Renaud | M | 4 | 131 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,31 · córners esperados 10,3._
+_Goles esperados: local 1,44 · visitante 1,31 · córners esperados 10,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

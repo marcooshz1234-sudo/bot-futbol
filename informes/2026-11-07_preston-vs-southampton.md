@@ -1,7 +1,7 @@
 # Preston – Southampton
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Deepdale
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -138,6 +138,6 @@ _Sin bajas comunicadas por ahora._
 | C. Jander | M | 3 | 176 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 5 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 2,20 · córners esperados 9,6._
+_Goles esperados: local 1,06 · visitante 2,20 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,17 +1,17 @@
 # FC Augsburg – SC Freiburg
 **Bundesliga** · Regular Season - 8 · 31/10/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 13:59_
+_Actualizadas: 31/10 02:02_
 
 - **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.44** · menos **2.75**
+    - 2,5: más **1.50** · menos **2.62**
     - 3,5: más **2.10** · menos **1.73**
     - 4,5: más **3.75** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
@@ -33,7 +33,7 @@ _Actualizadas: 30/10 13:59_
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 9: más **1.78** · menos **2.02**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.50**  ·  2 **2.62**
@@ -131,7 +131,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **FC Augsburg:** J. Bah (baja, Red Card); N. Banks (baja, Knee Injury); C. Brackelmann (baja, Concussion); S. Mounie (baja, Injury); J. Bah (baja, Red Card); N. Banks (baja, Knee Injury); C. Brackelmann (baja, Concussion); S. Mounie (baja, Injury)
-**SC Freiburg:** J. Makengo (duda, Muscle Injury); D. Scherhant (duda, Foot Injury); P. Treu (duda, Ankle Injury); B. Yilmaz (duda, Lacking Match Fitness); J. Makengo (duda, Muscle Injury); D. Scherhant (duda, Foot Injury); P. Treu (duda, Ankle Injury); B. Yilmaz (duda, Lacking Match Fitness)
+**SC Freiburg:** P. Treu (duda, Ankle Injury); B. Yilmaz (duda, Lacking Match Fitness); P. Treu (duda, Ankle Injury); B. Yilmaz (duda, Lacking Match Fitness)
 
 ## Enfrentamientos directos recientes
 - 2026-01-18 · Bundesliga: FC Augsburg 2-2 SC Freiburg
@@ -210,44 +210,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | F. Müller | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,85 · visitante 2,52 · córners esperados 10,1._
+_Goles esperados: local 1,86 · visitante 2,50 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 53% | 44% | 48% | 2.15 | +4% |
-| 1X2: X | 19% | 25% | 22% | 3.80 | -17% |
-| 1X2: 1 | 28% | 31% | 30% | 3.10 | -8% |
-| Doble oportunidad: X2 | 72% | 69% | 70% | 1.36 | -4% |
-| Doble oportunidad: 12 | 81% | 75% | 78% | 1.25 | -2% |
-| Doble oportunidad: 1X | 47% | 56% | 52% | 1.67 | -14% |
-| Ambos marcan: No | 22% | 34% | 28% | 2.75 | -23% |
-| Ambos marcan: Sí | 78% | 66% | 72% | 1.40 | +1% |
-| Goles más/menos: Más de 2.5 | 81% | 66% | 73% | 1.44 | +6% |
+| 1X2: 2 | 52% | 44% | 48% | 2.15 | +4% |
+| 1X2: X | 19% | 25% | 22% | 3.80 | -16% |
+| 1X2: 1 | 29% | 31% | 30% | 3.10 | -8% |
+| Doble oportunidad: X2 | 71% | 69% | 70% | 1.36 | -5% |
+| Doble oportunidad: 12 | 81% | 75% | 78% | 1.25 | -3% |
+| Doble oportunidad: 1X | 48% | 56% | 52% | 1.67 | -13% |
+| Ambos marcan: No | 23% | 34% | 28% | 2.75 | -23% |
+| Ambos marcan: Sí | 77% | 66% | 72% | 1.40 | +1% |
+| Goles más/menos: Más de 2.5 | 81% | 64% | 72% | 1.50 | +8% |
 | Goles más/menos: Más de 3.5 | 63% | 45% | 54% | 2.10 | +14% |
-| Goles más/menos: Más de 4.5 ✅ | 44% | 25% | 35% | 3.75 | +31% |
-| Goles más/menos: Menos de 2.5 | 19% | 34% | 27% | 2.75 | -27% |
+| Goles más/menos: Más de 4.5 ✅ | 44% | 25% | 35% | 3.75 | +30% |
+| Goles más/menos: Menos de 2.5 | 19% | 36% | 28% | 2.62 | -27% |
 | Goles más/menos: Menos de 3.5 | 37% | 55% | 46% | 1.73 | -21% |
-| Goles más/menos: Menos de 4.5 | 56% | 75% | 65% | 1.28 | -17% |
+| Goles más/menos: Menos de 4.5 | 56% | 75% | 65% | 1.28 | -16% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 56% | 44% | 50% | 2.10 | +6% |
 | Goles 1ª parte más/menos: Más de 2.5 | 29% | 21% | 25% | 4.50 | +13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -23% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 44% | 56% | 50% | 1.67 | -17% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 71% | 79% | 75% | 1.18 | -12% |
-| Goles del local: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Goles del local: Más de 0.5 | 84% | 77% | 81% | 1.22 | -2% |
 | Goles del local: Más de 1.5 | 55% | 46% | 51% | 2.00 | +2% |
-| Goles del local: Más de 2.5 | 28% | 22% | 25% | 4.33 | +8% |
-| Goles del local: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -22% |
+| Goles del local: Más de 2.5 | 29% | 22% | 25% | 4.33 | +9% |
+| Goles del local: Menos de 0.5 | 16% | 23% | 19% | 4.00 | -22% |
 | Goles del local: Menos de 1.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Goles del local: Menos de 2.5 | 72% | 78% | 75% | 1.20 | -10% |
-| Goles del visitante: Más de 1.5 | 72% | 56% | 64% | 1.67 | +6% |
-| Goles del visitante: Más de 2.5 ✅ | 46% | 29% | 38% | 3.25 | +22% |
-| Goles del visitante: Menos de 1.5 | 28% | 44% | 36% | 2.10 | -24% |
-| Goles del visitante: Menos de 2.5 | 54% | 71% | 62% | 1.33 | -17% |
-| Córners más/menos: Más de 9.5 | 50% | 49% | 49% | 1.95 | -3% |
-| Córners más/menos: Menos de 9.5 | 50% | 51% | 51% | 1.85 | -7% |
-| 1X2 descanso: 2 | 42% | 35% | 38% | 2.62 | +1% |
-| 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |
-| 1X2 descanso: 1 | 27% | 28% | 27% | 3.25 | -11% |
+| Goles del local: Menos de 2.5 | 71% | 78% | 75% | 1.20 | -10% |
+| Goles del visitante: Más de 1.5 | 71% | 56% | 63% | 1.67 | +6% |
+| Goles del visitante: Más de 2.5 ✅ | 46% | 29% | 37% | 3.25 | +21% |
+| Goles del visitante: Menos de 1.5 | 29% | 44% | 37% | 2.10 | -23% |
+| Goles del visitante: Menos de 2.5 | 54% | 71% | 63% | 1.33 | -17% |
+| Córners más/menos: Más de 9.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Córners más/menos: Menos de 9.5 | 50% | 50% | 50% | 1.83 | -9% |
+| 1X2 descanso: 2 | 42% | 35% | 38% | 2.62 | +0% |
+| 1X2 descanso: X | 32% | 37% | 34% | 2.50 | -15% |
+| 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

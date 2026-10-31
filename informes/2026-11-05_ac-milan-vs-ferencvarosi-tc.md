@@ -1,7 +1,7 @@
 # AC Milan – Ferencvarosi TC
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:00_
@@ -183,12 +183,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 12% | 26% | 7.50 | +95% |
+| 1X2: 2 | 40% | 12% | 26% | 7.50 | +95% |
 | 1X2: X | 28% | 18% | 23% | 5.25 | +19% |
 | 1X2: 1 | 33% | 70% | 51% | 1.33 | -32% |
-| Doble oportunidad: X2 | 67% | 30% | 48% | 3.25 | +58% |
+| Doble oportunidad: X2 | 67% | 30% | 49% | 3.25 | +58% |
 | Doble oportunidad: 12 | 72% | 83% | 77% | 1.17 | -9% |
-| Doble oportunidad: 1X | 61% | 88% | 74% | 1.10 | -18% |
+| Doble oportunidad: 1X | 60% | 88% | 74% | 1.10 | -18% |
 | Ambos marcan: No | 52% | 50% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 48% | 50% | 49% | 1.91 | -6% |
 | Goles más/menos: Más de 2.5 | 42% | 62% | 52% | 1.53 | -20% |
@@ -208,9 +208,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 90% | 58% | 74% | 1.62 | +19% |
 | Goles del local: Menos de 3.5 | 97% | 77% | 87% | 1.22 | +6% |
 | Goles del visitante: Más de 0.5 | 72% | 56% | 64% | 1.67 | +6% |
-| Goles del visitante: Más de 1.5 | 36% | 22% | 29% | 4.33 | +24% |
+| Goles del visitante: Más de 1.5 | 36% | 22% | 29% | 4.33 | +25% |
 | Goles del visitante: Menos de 0.5 | 28% | 44% | 36% | 2.10 | -24% |
-| Goles del visitante: Menos de 1.5 | 64% | 78% | 71% | 1.20 | -14% |
+| Goles del visitante: Menos de 1.5 | 64% | 78% | 71% | 1.20 | -15% |
 | 1X2 descanso: X | 46% | 35% | 40% | 2.62 | +6% |
 | 1X2 descanso: 1 | 25% | 53% | 39% | 1.73 | -33% |
 

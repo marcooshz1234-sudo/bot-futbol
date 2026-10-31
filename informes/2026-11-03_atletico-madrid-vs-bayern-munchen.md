@@ -1,7 +1,7 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:02_
@@ -184,28 +184,28 @@ _Sin bajas comunicadas por ahora._
 | H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,09 · visitante 1,90 · córners esperados 9,6._
+_Goles esperados: local 1,09 · visitante 1,92 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 48% | 52% | 1.95 | +2% |
+| 1X2: 2 | 57% | 48% | 52% | 1.95 | +2% |
 | 1X2: X | 22% | 24% | 23% | 3.90 | -10% |
-| 1X2: 1 | 21% | 28% | 25% | 3.40 | -16% |
-| Doble oportunidad: X2 | 79% | 72% | 75% | 1.30 | -2% |
+| 1X2: 1 | 21% | 28% | 24% | 3.40 | -17% |
+| Doble oportunidad: X2 | 79% | 72% | 76% | 1.30 | -2% |
 | Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 44% | 52% | 48% | 1.80 | -14% |
-| Ambos marcan: No ✅ | 44% | 31% | 37% | 3.00 | +12% |
-| Ambos marcan: Sí | 56% | 69% | 63% | 1.36 | -15% |
-| Goles más/menos: Más de 2.5 | 57% | 68% | 63% | 1.40 | -12% |
-| Goles más/menos: Más de 3.5 | 35% | 47% | 41% | 2.00 | -18% |
-| Goles más/menos: Más de 4.5 | 18% | 30% | 24% | 3.20 | -23% |
-| Goles más/menos: Menos de 2.5 ✅ | 43% | 32% | 37% | 3.00 | +12% |
+| Doble oportunidad: 1X | 43% | 52% | 48% | 1.80 | -14% |
+| Ambos marcan: No ✅ | 43% | 31% | 37% | 3.00 | +12% |
+| Ambos marcan: Sí | 57% | 69% | 63% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 58% | 68% | 63% | 1.40 | -12% |
+| Goles más/menos: Más de 3.5 | 35% | 47% | 41% | 2.00 | -17% |
+| Goles más/menos: Más de 4.5 | 19% | 30% | 24% | 3.20 | -23% |
+| Goles más/menos: Menos de 2.5 ✅ | 42% | 32% | 37% | 3.00 | +11% |
 | Goles más/menos: Menos de 3.5 | 65% | 53% | 59% | 1.80 | +6% |
-| Goles más/menos: Menos de 4.5 | 82% | 70% | 76% | 1.36 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 75% | 1.20 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Goles más/menos: Menos de 4.5 | 81% | 70% | 76% | 1.36 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 14% | 23% | 19% | 4.00 | -25% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 25% | 4.33 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
 | Goles del local: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
@@ -213,13 +213,13 @@ _Goles esperados: local 1,09 · visitante 1,90 · córners esperados 9,6._
 | Goles del local: Más de 2.5 | 10% | 21% | 15% | 4.50 | -31% |
 | Goles del local: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +14% |
 | Goles del local: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
-| Goles del local: Menos de 2.5 | 90% | 79% | 85% | 1.18 | +0% |
-| Goles del visitante: Más de 1.5 | 56% | 61% | 59% | 1.53 | -10% |
-| Goles del visitante: Más de 2.5 | 30% | 34% | 32% | 2.75 | -13% |
-| Goles del visitante: Menos de 1.5 | 44% | 39% | 41% | 2.38 | -2% |
-| Goles del visitante: Menos de 2.5 | 70% | 66% | 68% | 1.40 | -4% |
-| 1X2 descanso: 2 | 41% | 38% | 40% | 2.40 | -4% |
+| Goles del local: Menos de 2.5 | 90% | 79% | 85% | 1.18 | -0% |
+| Goles del visitante: Más de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles del visitante: Más de 2.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del visitante: Menos de 1.5 | 43% | 39% | 41% | 2.38 | -2% |
+| Goles del visitante: Menos de 2.5 | 70% | 66% | 68% | 1.40 | -5% |
+| 1X2 descanso: 2 | 42% | 38% | 40% | 2.40 | -4% |
 | 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -3% |
-| 1X2 descanso: 1 | 20% | 26% | 23% | 3.50 | -19% |
+| 1X2 descanso: 1 | 20% | 26% | 23% | 3.50 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

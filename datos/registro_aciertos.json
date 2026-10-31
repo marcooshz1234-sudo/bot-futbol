@@ -1748,7 +1748,8 @@
   "movimiento": 0.062,
   "ventaja": 0.196,
   "prob_aprendida": 0.674,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1552802|Double Chance|Home/Away": {
   "partido_id": 1552802,
@@ -1766,7 +1767,8 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1575211|Double Chance|Home/Away": {
   "partido_id": 1575211,
@@ -1784,7 +1786,8 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-1"
  },
  "1552802|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1552802,
@@ -1806,7 +1809,8 @@
   "movimiento": null,
   "ventaja": 0.031,
   "prob_aprendida": 0.739,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1550162|To Win Either Half|Home": {
   "partido_id": 1550162,
@@ -1986,10 +1990,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.015,
+  "valor_mercado": -0.038,
   "movimiento": 0.0,
   "ventaja": 0.061,
-  "prob_aprendida": 0.764,
+  "prob_aprendida": 0.802,
   "acierto": null
  },
  "1557452|Total - Home|Over 0.5": {
@@ -2394,7 +2398,8 @@
   "movimiento": 0.018,
   "ventaja": 0.162,
   "prob_aprendida": 0.582,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1557447|Double Chance|Home/Away": {
   "partido_id": 1557447,
@@ -2731,16 +2736,16 @@
   "opcion": "Over 3.5",
   "tipo": "corners",
   "texto": "Malaga hace más de 3,5 córners",
-  "cuota": 1.73,
+  "cuota": 1.8,
   "frecuencia": 0.789,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.006,
-  "movimiento": null,
-  "ventaja": 0.211,
-  "prob_aprendida": 0.545,
+  "valor_mercado": 0.023,
+  "movimiento": 0.04,
+  "ventaja": 0.234,
+  "prob_aprendida": 0.473,
   "acierto": null
  },
  "1575203|Corners Over Under|Over 9.5": {
@@ -2762,7 +2767,7 @@
   "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.524,
+  "prob_aprendida": 0.625,
   "acierto": null
  },
  "1570433|Goals Over/Under|Over 1.5": {
@@ -3239,7 +3244,8 @@
   "movimiento": null,
   "ventaja": 0.258,
   "prob_aprendida": 0.565,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-1"
  },
  "1552801|Home Player Shots|Amir Richardson - 1": {
   "partido_id": 1552801,
@@ -3261,7 +3267,8 @@
   "movimiento": null,
   "ventaja": 0.208,
   "prob_aprendida": 0.653,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-5"
  },
  "1575209|Home Player Shots On Target Total|Niclas Fullkrug - 1": {
   "partido_id": 1575209,
@@ -3304,7 +3311,7 @@
   "valor_mercado": null,
   "movimiento": 0.128,
   "ventaja": 0.208,
-  "prob_aprendida": 0.701,
+  "prob_aprendida": 0.632,
   "acierto": null
  },
  "1575208|Away Player Shots|Santiago Castaneda - 1": {
@@ -3432,7 +3439,7 @@
   "valor_mercado": -0.025,
   "movimiento": -0.056,
   "ventaja": 0.096,
-  "prob_aprendida": 0.618,
+  "prob_aprendida": 0.55,
   "acierto": null
  },
  "1552803|Double Chance|Home/Draw": {
@@ -3451,10 +3458,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.042,
+  "valor_mercado": -0.029,
   "movimiento": -0.093,
   "ventaja": 0.015,
-  "prob_aprendida": 0.724,
+  "prob_aprendida": 0.77,
   "acierto": null
  },
  "1557448|Double Chance|Home/Draw": {
@@ -3545,7 +3552,8 @@
   "movimiento": 0.0,
   "ventaja": 0.019,
   "prob_aprendida": 0.752,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1563233|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1563233,
@@ -3567,7 +3575,8 @@
   "movimiento": null,
   "ventaja": 0.015,
   "prob_aprendida": 0.78,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1563233|Total - Home|Over 0.5": {
   "partido_id": 1563233,
@@ -3589,7 +3598,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.62,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1552211|Double Chance|Draw/Away": {
   "partido_id": 1552211,
@@ -3632,7 +3642,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.062,
   "ventaja": 0.065,
-  "prob_aprendida": 0.807,
+  "prob_aprendida": 0.861,
   "acierto": null
  },
  "1552211|Both Teams Score|Yes": {
@@ -4050,7 +4060,7 @@
   "valor_mercado": 0.029,
   "movimiento": 0.029,
   "ventaja": 0.106,
-  "prob_aprendida": 0.561,
+  "prob_aprendida": 0.563,
   "acierto": null
  },
  "1563238|Total - Away|Over 0.5": {
@@ -4283,16 +4293,16 @@
   "opcion": "Draw/Away",
   "tipo": "resultado",
   "texto": "Portsmouth o empate",
-  "cuota": 1.7,
+  "cuota": 1.67,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": -0.056,
-  "ventaja": 0.212,
-  "prob_aprendida": 0.515,
+  "valor_mercado": 0.031,
+  "movimiento": -0.072,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.468,
   "acierto": null
  },
  "1563232|Away Corners Over/Under|Over 2.5": {
@@ -4399,10 +4409,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.011,
+  "valor_mercado": 0.0,
   "movimiento": 0.036,
   "ventaja": 0.072,
-  "prob_aprendida": 0.54,
+  "prob_aprendida": 0.53,
   "acierto": null
  },
  "1550179|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -4446,7 +4456,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.023,
   "ventaja": 0.031,
-  "prob_aprendida": 0.755,
+  "prob_aprendida": 0.735,
   "acierto": null
  },
  "1550184|Goals Over/Under|Over 1.5": {
@@ -4736,7 +4746,8 @@
   "movimiento": null,
   "ventaja": 0.186,
   "prob_aprendida": 0.726,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1557452|Home Player Shots|Mohamed Belloumi - 2": {
   "partido_id": 1557452,
@@ -4748,16 +4759,16 @@
   "opcion": "Mohamed Belloumi - 2",
   "tipo": "jugador",
   "texto": "Mohamed Belloumi: 2+ tiros",
-  "cuota": 1.28,
+  "cuota": 1.3,
   "frecuencia": 0.857,
   "jugador_id": 299923,
   "jugador": "Mohamed Belloumi",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
-  "movimiento": 0.0,
-  "ventaja": 0.076,
-  "prob_aprendida": 0.736,
+  "movimiento": 0.016,
+  "ventaja": 0.088,
+  "prob_aprendida": 0.713,
   "acierto": null
  },
  "1570002|Goals Over/Under - Second Half|Over 0.5": {
@@ -5211,7 +5222,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.654,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-1"
  },
  "1575211|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1575211,
@@ -5233,7 +5245,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.501,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-1"
  },
  "1563229|Double Chance|Draw/Away": {
   "partido_id": 1563229,
@@ -5342,7 +5355,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.029,
   "ventaja": 0.015,
-  "prob_aprendida": 0.682,
+  "prob_aprendida": 0.635,
   "acierto": null
  },
  "1550180|Total - Home|Over 1.5": {
@@ -5536,16 +5549,16 @@
   "opcion": "Draw/Away",
   "tipo": "resultado",
   "texto": "Girona o empate",
-  "cuota": 1.3,
+  "cuota": 1.28,
   "frecuencia": 0.85,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": null,
-  "ventaja": 0.081,
-  "prob_aprendida": 0.731,
+  "valor_mercado": -0.023,
+  "movimiento": -0.015,
+  "ventaja": 0.069,
+  "prob_aprendida": 0.691,
   "acierto": null
  },
  "1575535|Total - Away|Over 0.5": {
@@ -5580,16 +5593,16 @@
   "opcion": "Draw/Away",
   "tipo": "resultado",
   "texto": "Sabadell o empate",
-  "cuota": 1.4,
+  "cuota": 1.57,
   "frecuencia": 0.85,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.054,
-  "movimiento": null,
-  "ventaja": 0.136,
-  "prob_aprendida": 0.67,
+  "valor_mercado": 0.013,
+  "movimiento": 0.121,
+  "ventaja": 0.213,
+  "prob_aprendida": 0.605,
   "acierto": null
  },
  "1575535|Goals Over/Under|Over 1.5": {
@@ -5633,7 +5646,7 @@
   "valor_mercado": -0.013,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.475,
+  "prob_aprendida": 0.5,
   "acierto": null
  },
  "1575535|Goals Over/Under First Half|Over 0.5": {
@@ -5696,10 +5709,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.02,
+  "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.15,
-  "prob_aprendida": 0.48,
+  "prob_aprendida": 0.469,
   "acierto": null
  },
  "1569997|Total - Away|Over 0.5": {
@@ -5788,7 +5801,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.056,
-  "prob_aprendida": 0.54,
+  "prob_aprendida": 0.561,
   "acierto": null
  },
  "1569993|Goals Over/Under First Half|Over 0.5": {
@@ -5845,16 +5858,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Arouca",
-  "cuota": 1.83,
+  "cuota": 1.8,
   "frecuencia": 0.7,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.017,
-  "movimiento": 0.0,
-  "ventaja": 0.154,
-  "prob_aprendida": 0.549,
+  "valor_mercado": 0.0,
+  "movimiento": -0.016,
+  "ventaja": 0.144,
+  "prob_aprendida": 0.533,
   "acierto": null
  },
  "1550178|Goals Over/Under|Over 1.5": {
@@ -6056,7 +6069,8 @@
   "movimiento": null,
   "ventaja": 0.18,
   "prob_aprendida": 0.662,
-  "acierto": null
+  "acierto": false,
+  "marcador": "4-1"
  },
  "1575206|Away Player Shots|Maximilian Eggestein - 1": {
   "partido_id": 1575206,
@@ -6143,7 +6157,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.047,
   "ventaja": 0.013,
-  "prob_aprendida": 0.687,
+  "prob_aprendida": 0.585,
   "acierto": null
  },
  "1575203|Total - Away|Over 0.5": {
@@ -6187,7 +6201,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.027,
   "ventaja": 0.006,
-  "prob_aprendida": 0.734,
+  "prob_aprendida": 0.715,
   "acierto": null
  },
  "1575207|Away Player Shots|Said El Mala - 3": {
@@ -6209,7 +6223,7 @@
   "valor_mercado": null,
   "movimiento": 0.071,
   "ventaja": 0.19,
-  "prob_aprendida": 0.759,
+  "prob_aprendida": 0.713,
   "acierto": null
  },
  "1575527|Match Winner|Home": {
@@ -6228,10 +6242,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.046,
+  "valor_mercado": -0.031,
   "movimiento": -0.031,
   "ventaja": 0.059,
-  "prob_aprendida": 0.522,
+  "prob_aprendida": 0.49,
   "acierto": null
  },
  "1575534|Match Winner|Away": {
@@ -6244,16 +6258,16 @@
   "opcion": "Away",
   "tipo": "resultado",
   "texto": "Gana el Santa Clara",
-  "cuota": 2.25,
+  "cuota": 2.2,
   "frecuencia": 0.6,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
   "valor_mercado": 0.0,
-  "movimiento": 0.0,
-  "ventaja": 0.156,
-  "prob_aprendida": 0.427,
+  "movimiento": -0.022,
+  "ventaja": 0.145,
+  "prob_aprendida": 0.419,
   "acierto": null
  },
  "1569999|Goals Over/Under First Half|Over 0.5": {
@@ -6297,7 +6311,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.165,
-  "prob_aprendida": 0.815,
+  "prob_aprendida": 0.743,
   "acierto": null
  },
  "1635662|Total - Home|Over 0.5": {
@@ -6363,7 +6377,7 @@
   "valor_mercado": -0.031,
   "movimiento": null,
   "ventaja": 0.263,
-  "prob_aprendida": 0.609,
+  "prob_aprendida": 0.561,
   "acierto": null
  },
  "1635640|Total - Away|Over 0.5": {
@@ -6671,7 +6685,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.023,
   "ventaja": 0.195,
-  "prob_aprendida": 0.424,
+  "prob_aprendida": 0.41,
   "acierto": null
  },
  "1557450|Away Corners Over/Under|Over 3.5": {
@@ -6693,7 +6707,7 @@
   "valor_mercado": 0.045,
   "movimiento": null,
   "ventaja": 0.233,
-  "prob_aprendida": 0.546,
+  "prob_aprendida": 0.497,
   "acierto": null
  },
  "1557450|Player Fouls Committed|Pedro Neto - 1": {
@@ -6715,7 +6729,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.208,
-  "prob_aprendida": 0.6,
+  "prob_aprendida": 0.614,
   "acierto": null
  },
  "1557450|Home Player Shots On Target Total|Pedro Neto - 1": {
@@ -6737,7 +6751,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.297,
-  "prob_aprendida": 0.522,
+  "prob_aprendida": 0.528,
   "acierto": null
  },
  "1575528|Goals Over/Under First Half|Over 0.5": {
@@ -6803,7 +6817,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.231,
-  "prob_aprendida": 0.71,
+  "prob_aprendida": 0.729,
   "acierto": null
  },
  "1575203|Player Fouls Committed|Felix Nmecha - 1": {
@@ -6825,7 +6839,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.075,
-  "prob_aprendida": 0.723,
+  "prob_aprendida": 0.737,
   "acierto": null
  },
  "1575204|Player Fouls Committed|Ibrahim Maza - 1": {
@@ -6869,7 +6883,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.219,
-  "prob_aprendida": 0.694,
+  "prob_aprendida": 0.702,
   "acierto": null
  },
  "1557448|Player Fouls Committed|Jayden Bogle - 1": {
@@ -6891,7 +6905,7 @@
   "valor_mercado": null,
   "movimiento": -0.06,
   "ventaja": 0.2,
-  "prob_aprendida": 0.73,
+  "prob_aprendida": 0.738,
   "acierto": null
  },
  "1575210|Player Fouls Committed|Satoshi Tanaka - 1": {
@@ -6913,7 +6927,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.629,
+  "prob_aprendida": 0.651,
   "acierto": null
  },
  "1557456|Player Fouls Committed|Anan Khalaili - 1": {
@@ -7023,7 +7037,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.231,
-  "prob_aprendida": 0.671,
+  "prob_aprendida": 0.679,
   "acierto": null
  },
  "1557448|Player Fouls Committed|James Hill - 1": {
@@ -7089,7 +7103,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.075,
-  "prob_aprendida": 0.68,
+  "prob_aprendida": 0.687,
   "acierto": null
  },
  "1557449|Player Fouls Committed|Daniel Munoz - 1": {
@@ -7111,7 +7125,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.019,
-  "prob_aprendida": 0.669,
+  "prob_aprendida": 0.677,
   "acierto": null
  },
  "1557454|Player Fouls Committed|Elliot Anderson - 1": {
@@ -7155,7 +7169,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.607,
+  "prob_aprendida": 0.62,
   "acierto": null
  },
  "1557448|Home Team Total Cards|Over 1.5": {
@@ -7168,16 +7182,16 @@
   "opcion": "Over 1.5",
   "tipo": "tarjetas",
   "texto": "Bournemouth ve más de 1,5 tarjetas",
-  "cuota": 1.57,
+  "cuota": 1.53,
   "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": null,
-  "ventaja": 0.113,
-  "prob_aprendida": 0.481,
+  "valor_mercado": -0.025,
+  "movimiento": -0.025,
+  "ventaja": 0.096,
+  "prob_aprendida": 0.456,
   "acierto": null
  },
  "1557456|Player Fouls Committed|Jan Paul van Hecke - 1": {
@@ -7199,7 +7213,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.568,
+  "prob_aprendida": 0.582,
   "acierto": null
  },
  "1557452|Player Fouls Committed|Mohamed Belloumi - 1": {
@@ -7221,7 +7235,7 @@
   "valor_mercado": null,
   "movimiento": -0.093,
   "ventaja": 0.122,
-  "prob_aprendida": 0.618,
+  "prob_aprendida": 0.632,
   "acierto": null
  },
  "1641972|Total - Home|Over 1.5": {
@@ -7267,7 +7281,8 @@
   "movimiento": null,
   "ventaja": 0.276,
   "prob_aprendida": 0.556,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1575209|Player Fouls Committed|Fisnik Asllani - 1": {
   "partido_id": 1575209,
@@ -7288,7 +7303,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.265,
-  "prob_aprendida": 0.67,
+  "prob_aprendida": 0.696,
   "acierto": null
  },
  "1575203|Player Fouls Committed|Tom Bischof - 1": {
@@ -7310,7 +7325,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.2,
-  "prob_aprendida": 0.72,
+  "prob_aprendida": 0.735,
   "acierto": null
  },
  "1557449|Player Fouls Committed|Vitaly Janelt - 1": {
@@ -7332,7 +7347,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.154,
-  "prob_aprendida": 0.624,
+  "prob_aprendida": 0.638,
   "acierto": null
  },
  "1575203|Home Player Shots On Target Total|Michael Olise - 2": {
@@ -7354,7 +7369,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.633,
+  "prob_aprendida": 0.644,
   "acierto": null
  },
  "1550186|Total Shots|Over 26.5": {
@@ -7376,7 +7391,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.598,
+  "prob_aprendida": 0.481,
   "acierto": null
  },
  "1552803|Goals Over/Under - Second Half|Over 0.5": {
@@ -7486,7 +7501,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.2,
-  "prob_aprendida": 0.73,
+  "prob_aprendida": 0.744,
   "acierto": null
  },
  "1557453|Player Fouls Committed|Ryan Gravenberch - 1": {
@@ -7530,7 +7545,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.143,
-  "prob_aprendida": 0.649,
+  "prob_aprendida": 0.669,
   "acierto": null
  },
  "1575207|Player Fouls Committed|Zeno Van Den Bosch - 1": {
@@ -7552,7 +7567,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.143,
-  "prob_aprendida": 0.644,
+  "prob_aprendida": 0.663,
   "acierto": null
  },
  "1575205|Player Fouls Committed|David Wolfe - 1": {
@@ -7574,7 +7589,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.621,
+  "prob_aprendida": 0.641,
   "acierto": null
  },
  "1575207|Player Fouls Committed|Marius Bulter - 1": {
@@ -7596,7 +7611,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.519,
+  "prob_aprendida": 0.54,
   "acierto": null
  },
  "1550186|To Win Either Half|Away": {
@@ -7618,7 +7633,7 @@
   "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.549,
+  "prob_aprendida": 0.548,
   "acierto": null
  },
  "1550181|Player Fouls Committed|Pietro Comuzzo - 1": {
@@ -7640,7 +7655,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.019,
-  "prob_aprendida": 0.692,
+  "prob_aprendida": 0.699,
   "acierto": null
  },
  "1550181|Player Fouls Committed|Patrizio Masini - 2": {
@@ -7684,7 +7699,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.519,
+  "prob_aprendida": 0.533,
   "acierto": null
  },
  "1550185|Player Fouls Committed|Duje Caleta-Car - 1": {
@@ -7706,7 +7721,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.659,
+  "prob_aprendida": 0.665,
   "acierto": null
  },
  "1552802|Total Shots|Over 24.5": {
@@ -7729,7 +7744,8 @@
   "movimiento": null,
   "ventaja": 0.194,
   "prob_aprendida": 0.535,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1563233|Home Team Total Cards|Over 1.5": {
   "partido_id": 1563233,
@@ -7751,7 +7767,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.459,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1563235|Player Fouls Committed|Luke Graham - 1": {
   "partido_id": 1563235,
@@ -7763,16 +7780,16 @@
   "opcion": "Luke Graham - 1",
   "tipo": "jugador",
   "texto": "Luke Graham comete 1+ faltas",
-  "cuota": 1.62,
+  "cuota": 1.44,
   "frecuencia": 0.8,
   "jugador_id": 326968,
   "jugador": "Luke Graham",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.183,
-  "prob_aprendida": 0.515,
+  "movimiento": -0.111,
+  "ventaja": 0.106,
+  "prob_aprendida": 0.633,
   "acierto": null
  },
  "1569995|Goals Over/Under|Over 1.5": {
@@ -7838,7 +7855,7 @@
   "valor_mercado": -0.028,
   "movimiento": null,
   "ventaja": 0.136,
-  "prob_aprendida": 0.646,
+  "prob_aprendida": 0.596,
   "acierto": null
  },
  "1570433|Home Player Shots On Target Total|Robert Navarro - 1": {
@@ -7860,7 +7877,7 @@
   "valor_mercado": null,
   "movimiento": -0.108,
   "ventaja": 0.143,
-  "prob_aprendida": 0.71,
+  "prob_aprendida": 0.698,
   "acierto": null
  },
  "1550184|Total Shots|Over 23.5": {
@@ -7882,7 +7899,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.592,
+  "prob_aprendida": 0.473,
   "acierto": null
  },
  "1570436|Total - Away|Over 0.5": {
@@ -7926,7 +7943,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.516,
+  "prob_aprendida": 0.381,
   "acierto": null
  },
  "1570450|Goals Over/Under|Over 1.5": {
@@ -8146,7 +8163,7 @@
   "valor_mercado": -0.007,
   "movimiento": null,
   "ventaja": 0.036,
-  "prob_aprendida": 0.686,
+  "prob_aprendida": 0.67,
   "acierto": null
  },
  "1636345|Total - Away|Over 0.5": {
@@ -8190,7 +8207,7 @@
   "valor_mercado": 0.029,
   "movimiento": null,
   "ventaja": 0.143,
-  "prob_aprendida": 0.661,
+  "prob_aprendida": 0.61,
   "acierto": null
  },
  "1636208|Total - Away|Over 0.5": {
@@ -8234,7 +8251,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.086,
-  "prob_aprendida": 0.672,
+  "prob_aprendida": 0.676,
   "acierto": null
  },
  "1636250|To Win Either Half|Away": {
@@ -8256,7 +8273,7 @@
   "valor_mercado": 0.012,
   "movimiento": null,
   "ventaja": 0.258,
-  "prob_aprendida": 0.376,
+  "prob_aprendida": 0.402,
   "acierto": null
  },
  "1563233|Player Fouls Committed|Thomas Cannon - 1": {
@@ -8279,7 +8296,8 @@
   "movimiento": -0.084,
   "ventaja": 0.246,
   "prob_aprendida": 0.613,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1570435|Home Player Shots On Target Total|Abdessamad Ezzalzouli - 1": {
   "partido_id": 1570435,
@@ -8300,7 +8318,7 @@
   "valor_mercado": null,
   "movimiento": 0.025,
   "ventaja": 0.2,
-  "prob_aprendida": 0.819,
+  "prob_aprendida": 0.802,
   "acierto": null
  },
  "1570439|Shots.1x2|Away": {
@@ -8322,7 +8340,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.036,
-  "prob_aprendida": 0.705,
+  "prob_aprendida": 0.555,
   "acierto": null
  },
  "1563235|Player Fouls Committed|Ben Wilmot - 1": {
@@ -8344,7 +8362,7 @@
   "valor_mercado": null,
   "movimiento": -0.318,
   "ventaja": 0.133,
-  "prob_aprendida": 0.6,
+  "prob_aprendida": 0.615,
   "acierto": null
  },
  "1570434|Player Fouls Committed|Lucas Boye - 2": {
@@ -8366,7 +8384,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.154,
-  "prob_aprendida": 0.635,
+  "prob_aprendida": 0.631,
   "acierto": null
  },
  "1570433|Player Fouls Committed|Mamadou Sarr - 1": {
@@ -8388,7 +8406,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.167,
-  "prob_aprendida": 0.628,
+  "prob_aprendida": 0.625,
   "acierto": null
  },
  "1635681|Home Player Shots On Target Total|Florian Thauvin - 1": {
@@ -8432,7 +8450,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.056,
-  "prob_aprendida": 0.768,
+  "prob_aprendida": 0.823,
   "acierto": null
  },
  "1552217|Double Chance|Home/Draw": {
@@ -8454,7 +8472,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.119,
-  "prob_aprendida": 0.892,
+  "prob_aprendida": 0.941,
   "acierto": null
  },
  "1552220|Goals Over/Under First Half|Over 0.5": {
@@ -8520,7 +8538,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.613,
+  "prob_aprendida": 0.639,
   "acierto": null
  },
  "1570446|Double Chance|Draw/Away": {
@@ -8534,15 +8552,15 @@
   "tipo": "resultado",
   "texto": "Deportivo La Coruna o empate",
   "cuota": 1.67,
-  "frecuencia": 0.8,
+  "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
   "valor_mercado": -0.006,
   "movimiento": null,
-  "ventaja": 0.201,
-  "prob_aprendida": 0.531,
+  "ventaja": 0.151,
+  "prob_aprendida": 0.476,
   "acierto": null
  },
  "1552217|Match Winner|Home": {
@@ -8564,7 +8582,7 @@
   "valor_mercado": -0.01,
   "movimiento": null,
   "ventaja": 0.15,
-  "prob_aprendida": 0.49,
+  "prob_aprendida": 0.475,
   "acierto": null
  },
  "1557465|Match Winner|Away": {
@@ -8586,7 +8604,73 @@
   "valor_mercado": -0.012,
   "movimiento": null,
   "ventaja": 0.014,
-  "prob_aprendida": 0.505,
+  "prob_aprendida": 0.493,
+  "acierto": null
+ },
+ "1570434|Home Team Total Cards|Over 0.5": {
+  "partido_id": 1570434,
+  "fecha": "2026-10-31T21:00",
+  "competicion": "LaLiga",
+  "local": "Barcelona",
+  "visitante": "Alaves",
+  "mercado": "Home Team Total Cards",
+  "opcion": "Over 0.5",
+  "tipo": "tarjetas",
+  "texto": "Barcelona ve más de 0,5 tarjetas",
+  "cuota": 1.44,
+  "frecuencia": 0.9,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.099,
+  "movimiento": null,
+  "ventaja": 0.206,
+  "prob_aprendida": 0.65,
+  "acierto": null
+ },
+ "1563232|Away Team Total Cards|Over 1.5": {
+  "partido_id": 1563232,
+  "fecha": "2026-10-31T13:30",
+  "competicion": "Championship",
+  "local": "Norwich",
+  "visitante": "Watford",
+  "mercado": "Away Team Total Cards",
+  "opcion": "Over 1.5",
+  "tipo": "tarjetas",
+  "texto": "Watford ve más de 1,5 tarjetas",
+  "cuota": 1.53,
+  "frecuencia": 0.833,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.025,
+  "movimiento": null,
+  "ventaja": 0.18,
+  "prob_aprendida": 0.558,
+  "acierto": null
+ },
+ "1552218|Double Chance|Draw/Away": {
+  "partido_id": 1552218,
+  "fecha": "2026-11-07T21:00",
+  "competicion": "Eredivisie",
+  "local": "Excelsior",
+  "visitante": "GO Ahead Eagles",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "tipo": "resultado",
+  "texto": "GO Ahead Eagles o empate",
+  "cuota": 1.4,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.028,
+  "movimiento": null,
+  "ventaja": 0.036,
+  "prob_aprendida": 0.574,
   "acierto": null
  }
 }

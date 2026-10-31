@@ -1,10 +1,10 @@
 # Moreirense – Estrela
 **Primeira Liga** · Regular Season - 10 · 31/10/2026 16:30 (hora España) · Parque Joaquim Almeida Freitas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 14:00_
+_Actualizadas: 31/10 02:02_
 
 - **1X2:** 1 **2.80**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
@@ -28,7 +28,7 @@ _Actualizadas: 30/10 14:00_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.20**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -46,7 +46,7 @@ _Actualizadas: 30/10 14:00_
     - 4,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
 - **Home Player Shots On Target Total:** Pedro Jesus - 1 **2.10**  ·  Pedro Jesus - 2 **7.00**  ·  Pedro Jesus - 3 **21.00**  ·  Alexandre Parsemain - 1 **1.67**  ·  Koby Mottoh - 1 **1.67**  ·  Kiko Bondoso - 1 **1.73**  ·  de Sousa Yan Maranhao - 1 **1.73**  ·  Afonso Assis - 1 **1.83**  ·  Costa Landerson - 1 **1.83**  ·  Miguel Silva - 1 **1.83**  ·  Nile John - 1 **1.83**  ·  Afonso Vieira - 1 **2.00**  ·  Michael Dacosta - 1 **2.10**  ·  Rodrigo Alonso - 1 **2.10**  ·  Joao Veloso - 1 **2.50**  ·  Maracas - 1 **3.25**  ·  Jimi Gower - 1 **2.62**  ·  Mateja Stjepanovic - 1 **2.62**  ·  Jose Janderson - 1 **3.75**  ·  Alvaro Martinez - 1 **3.75**  ·  Guilherme Liberato - 1 **3.75**  ·  Kevyn Monteiro - 1 **3.50**  ·  Leandro Santos - 1 **3.75**  ·  Dinis Pinto - 1 **4.50**  ·  Gilberto Batista - 1 **5.00**  ·  Francisco Domingues Kiko - 1 **6.00**  ·  Alexandre Parsemain - 2 **4.33**  ·  Koby Mottoh - 2 **4.33**  ·  Kiko Bondoso - 2 **4.50**  ·  de Sousa Yan Maranhao - 2 **4.50**  ·  Afonso Assis - 2 **6.00**  ·  Costa Landerson - 2 **6.00**  ·  Miguel Silva - 2 **5.50**  ·  Nile John - 2 **5.50**  ·  Afonso Vieira - 2 **6.50**  ·  Michael Dacosta - 2 **7.00**  ·  Rodrigo Alonso - 2 **7.00**  ·  Joao Veloso - 2 **10.00**  ·  Maracas - 2 **15.00**  ·  Jimi Gower - 2 **11.00**  ·  Mateja Stjepanovic - 2 **11.00**  ·  Jose Janderson - 2 **19.00**  ·  Alvaro Martinez - 2 **19.00**  ·  Guilherme Liberato - 2 **19.00**  ·  Kevyn Monteiro - 2 **19.00**  ·  Leandro Santos - 2 **19.00**  ·  Dinis Pinto - 2 **21.00**  ·  Alexandre Parsemain - 3 **15.00**  ·  Koby Mottoh - 3 **15.00**  ·  Kiko Bondoso - 3 **17.00**  ·  de Sousa Yan Maranhao - 3 **17.00**  ·  Afonso Assis - 3 **21.00**  ·  Costa Landerson - 3 **21.00**  ·  Miguel Silva - 3 **19.00**  ·  Nile John - 3 **19.00**  ·  Afonso Vieira - 3 **21.00**  ·  Michael Dacosta - 3 **21.00**  ·  Rodrigo Alonso - 3 **21.00**  ·  Bernardinho Rodrigo Soares - 1 **1.44**  ·  Bernardinho Rodrigo Soares - 2 **3.25**  ·  Bernardinho Rodrigo Soares - 3 **9.00**  ·  Bernardinho Rodrigo Soares - 4 **21.00**  ·  Pinto Tiago Andrade - 1 **1.83**  ·  Pinto Tiago Andrade - 2 **5.50**  ·  Pinto Tiago Andrade - 3 **19.00**  ·  Ascencao Manuel Mendonca - 1 **2.00**  ·  Ascencao Manuel Mendonca - 2 **6.50**  ·  Ascencao Manuel Mendonca - 3 **21.00**  ·  Leonardo Vonic - 1 **1.44**  ·  Leonardo Vonic - 2 **3.25**  ·  Leonardo Vonic - 3 **9.00**  ·  Leonardo Vonic - 4 **21.00**  ·  Chipyoka Songa - 1 **2.10**  ·  Chipyoka Songa - 2 **7.00**  ·  Chipyoka Songa - 3 **21.00**
 - **Away Player Shots On Target Total:** Robinho Botelho **29.00**  ·  Luan Patrick **15.00**  ·  Guilherme Liberato **41.00**  ·  Jose Janderson **15.00**  ·  Jeremy Arevalo **17.00**  ·  Bernardo Schappo **15.00**  ·  Joao Veloso **34.00**  ·  Mateja Stjepanovic **26.00**  ·  Alexandre Parsemain **17.00**  ·  Alvaro Martinez **81.00**  ·  Abraham Marcus **34.00**  ·  Jefferson Encada **17.00**  ·  Rodrigo Alonso **21.00**  ·  de Sousa Yan Maranhao **19.00**  ·  Francisco Domingues Kiko **126.00**  ·  Tom Moustier **29.00**  ·  Costa Landerson **41.00**  ·  Kevyn Monteiro **15.00**  ·  de Jesus Alisson Souza **34.00**  ·  Michael Dacosta **41.00**  ·  Lucas Mincarelli **101.00**  ·  Lovro Zvonarek **29.00**  ·  Atanas Chernev **17.00**  ·  Kevin Hoog-Jansson **29.00**  ·  Stefan Lekovic **21.00**  ·  Eddy Doue **34.00**  ·  Max Scholze **51.00**  ·  Nile John **21.00**  ·  Dinis Pinto **67.00**  ·  Gilberto Batista **34.00**  ·  Luis Rafa Soares **51.00**  ·  Koby Mottoh **12.00**  ·  Beni Souza **41.00**  ·  Santiago Serra **21.00**  ·  Leandro Santos **41.00**  ·  Miguel Silva **17.00**  ·  Ianis Stoica **34.00**  ·  Maracas **13.00**  ·  Kiko Bondoso **34.00**  ·  Jimi Gower **26.00**  ·  Afonso Assis **21.00**  ·  Leandro Antonetti **15.00**
 - **Home Player Shots:** Pedro Jesus - 1 **1.20**  ·  Pedro Jesus - 2 **1.83**  ·  Pedro Jesus - 3 **3.75**  ·  Pedro Jesus - 4 **8.00**  ·  Pedro Jesus - 5 **19.00**  ·  Alexandre Parsemain - 1 **1.10**  ·  Koby Mottoh - 1 **1.10**  ·  Kiko Bondoso - 1 **1.08**  ·  de Sousa Yan Maranhao - 1 **1.11**  ·  Afonso Assis - 1 **1.14**  ·  Costa Landerson - 1 **1.14**  ·  Miguel Silva - 1 **1.14**  ·  Nile John - 1 **1.12**  ·  Afonso Vieira - 1 **1.18**  ·  Michael Dacosta - 1 **1.20**  ·  Rodrigo Alonso - 1 **1.20**  ·  Joao Veloso - 1 **1.33**  ·  Maracas - 1 **1.50**  ·  Jimi Gower - 1 **1.40**  ·  Mateja Stjepanovic - 1 **1.40**  ·  Jose Janderson - 1 **1.73**  ·  Alvaro Martinez - 1 **1.73**  ·  Guilherme Liberato - 1 **1.73**  ·  Kevyn Monteiro - 1 **1.73**  ·  Leandro Santos - 1 **1.73**  ·  Dinis Pinto - 1 **1.83**  ·  Gilberto Batista - 1 **2.00**  ·  Francisco Domingues Kiko - 1 **2.25**  ·  Alexandre Parsemain - 2 **1.44**  ·  Koby Mottoh - 2 **1.44**  ·  Kiko Bondoso - 2 **1.40**  ·  de Sousa Yan Maranhao - 2 **1.53**  ·  Afonso Assis - 2 **1.67**  ·  Costa Landerson - 2 **1.67**  ·  Miguel Silva - 2 **1.67**  ·  Nile John - 2 **1.62**  ·  Afonso Vieira - 2 **1.80**  ·  Michael Dacosta - 2 **1.83**  ·  Rodrigo Alonso - 2 **1.83**  ·  Joao Veloso - 2 **2.38**  ·  Maracas - 2 **3.25**  ·  Jimi Gower - 2 **2.62**  ·  Mateja Stjepanovic - 2 **2.62**  ·  Jose Janderson - 2 **4.00**  ·  Alvaro Martinez - 2 **4.33**  ·  Guilherme Liberato - 2 **4.33**  ·  Kevyn Monteiro - 2 **4.33**  ·  Leandro Santos - 2 **4.33**  ·  Dinis Pinto - 2 **5.00**  ·  Gilberto Batista - 2 **6.00**  ·  Francisco Domingues Kiko - 2 **8.00**  ·  Alexandre Parsemain - 3 **2.25**  ·  Koby Mottoh - 3 **2.25**  ·  Kiko Bondoso - 3 **2.20**  ·  de Sousa Yan Maranhao - 3 **2.50**  ·  Afonso Assis - 3 **3.00**  ·  Costa Landerson - 3 **3.00**  ·  Miguel Silva - 3 **3.00**  ·  Nile John - 3 **2.75**  ·  Afonso Vieira - 3 **3.40**  ·  Michael Dacosta - 3 **3.50**  ·  Rodrigo Alonso - 3 **3.75**  ·  Joao Veloso - 3 **5.50**  ·  Maracas - 3 **8.00**  ·  Jimi Gower - 3 **6.50**  ·  Mateja Stjepanovic - 3 **6.50**  ·  Jose Janderson - 3 **13.00**  ·  Alvaro Martinez - 3 **13.00**  ·  Guilherme Liberato - 3 **13.00**  ·  Kevyn Monteiro - 3 **13.00**  ·  Leandro Santos - 3 **13.00**  ·  Dinis Pinto - 3 **15.00**  ·  Gilberto Batista - 3 **19.00**  ·  Francisco Domingues Kiko - 3 **21.00**  ·  Alexandre Parsemain - 4 **4.00**  ·  Koby Mottoh - 4 **4.00**  ·  Kiko Bondoso - 4 **4.00**  ·  de Sousa Yan Maranhao - 4 **4.50**  ·  Afonso Assis - 4 **6.00**  ·  Costa Landerson - 4 **6.00**  ·  Miguel Silva - 4 **6.00**  ·  Nile John - 4 **5.50**  ·  Afonso Vieira - 4 **7.00**  ·  Michael Dacosta - 4 **8.00**  ·  Rodrigo Alonso - 4 **8.00**  ·  Joao Veloso - 4 **13.00**  ·  Maracas - 4 **19.00**  ·  Jimi Gower - 4 **15.00**  ·  Mateja Stjepanovic - 4 **15.00**  ·  Alexandre Parsemain - 5 **9.00**  ·  Koby Mottoh - 5 **9.00**  ·  Kiko Bondoso - 5 **8.00**  ·  de Sousa Yan Maranhao - 5 **10.00**  ·  Afonso Assis - 5 **13.00**  ·  Costa Landerson - 5 **13.00**  ·  Miguel Silva - 5 **13.00**  ·  Nile John - 5 **11.00**  ·  Alexandre Parsemain - 6 **17.00**  ·  Koby Mottoh - 6 **17.00**  ·  Afonso Vieira - 5 **15.00**  ·  Kiko Bondoso - 6 **17.00**  ·  de Sousa Yan Maranhao - 6 **21.00**  ·  Bernardinho Rodrigo Soares - 1 **1.05**  ·  Bernardinho Rodrigo Soares - 2 **1.25**  ·  Bernardinho Rodrigo Soares - 3 **1.80**  ·  Bernardinho Rodrigo Soares - 4 **2.75**  ·  Bernardinho Rodrigo Soares - 5 **5.00**  ·  Pinto Tiago Andrade - 1 **1.14**  ·  Pinto Tiago Andrade - 2 **1.67**  ·  Pinto Tiago Andrade - 3 **3.00**  ·  Pinto Tiago Andrade - 4 **6.00**  ·  Pinto Tiago Andrade - 5 **13.00**  ·  Pinto Tiago Andrade - 6 **21.00**  ·  Michael Dacosta - 5 **17.00**  ·  Rodrigo Alonso - 5 **19.00**  ·  Bernardinho Rodrigo Soares - 6 **10.00**  ·  Bernardinho Rodrigo Soares - 7 **19.00**  ·  Nile John - 6 **21.00**  ·  Ascencao Manuel Mendonca - 1 **1.17**  ·  Ascencao Manuel Mendonca - 2 **1.80**  ·  Ascencao Manuel Mendonca - 3 **3.25**  ·  Ascencao Manuel Mendonca - 4 **7.00**  ·  Leonardo Vonic - 1 **1.05**  ·  Leonardo Vonic - 2 **1.28**  ·  Leonardo Vonic - 3 **1.80**  ·  Leonardo Vonic - 4 **3.00**  ·  Leonardo Vonic - 5 **5.50**  ·  Leonardo Vonic - 6 **11.00**  ·  Chipyoka Songa - 1 **1.20**  ·  Chipyoka Songa - 2 **1.83**  ·  Chipyoka Songa - 3 **3.75**  ·  Chipyoka Songa - 4 **8.00**  ·  Ascencao Manuel Mendonca - 5 **15.00**  ·  Leonardo Vonic - 7 **21.00**  ·  Chipyoka Songa - 5 **19.00**  ·  Afonso Assis - 6 **21.00**  ·  Costa Landerson - 6 **21.00**  ·  Miguel Silva - 6 **21.00**
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | L. Mincarelli Davin | D | 2 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 1,50 · córners esperados 8,9._
+_Goles esperados: local 1,45 · visitante 1,51 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -195,12 +195,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 39% | 38% | 38% | 2.50 | -4% |
 | 1X2: X | 25% | 29% | 27% | 3.30 | -12% |
-| 1X2: 1 | 37% | 34% | 35% | 2.80 | -1% |
-| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
+| 1X2: 1 | 36% | 34% | 35% | 2.80 | -2% |
+| Doble oportunidad: X2 | 64% | 67% | 65% | 1.40 | -9% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 61% | 63% | 62% | 1.50 | -7% |
-| Ambos marcan: No | 41% | 47% | 44% | 2.00 | -13% |
-| Ambos marcan: Sí | 59% | 53% | 56% | 1.75 | -1% |
+| Ambos marcan: No | 40% | 47% | 44% | 2.00 | -13% |
+| Ambos marcan: Sí | 60% | 53% | 56% | 1.75 | -1% |
 | Goles más/menos: Más de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Goles más/menos: Más de 2.5 | 57% | 49% | 53% | 1.95 | +3% |
 | Goles más/menos: Más de 3.5 | 34% | 28% | 31% | 3.40 | +5% |
@@ -211,17 +211,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
-| Goles del local: Más de 0.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 1.5 | 43% | 38% | 40% | 2.50 | +0% |
-| Goles del local: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles del local: Menos de 1.5 | 57% | 62% | 60% | 1.50 | -10% |
-| Goles del visitante: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles del local: Más de 0.5 | 76% | 71% | 74% | 1.33 | -2% |
+| Goles del local: Más de 1.5 | 42% | 38% | 40% | 2.50 | -0% |
+| Goles del local: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -15% |
+| Goles del local: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
+| Goles del visitante: Más de 0.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 1.5 | 44% | 39% | 42% | 2.38 | -1% |
-| Goles del visitante: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles del visitante: Menos de 0.5 | 22% | 27% | 24% | 3.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 56% | 61% | 58% | 1.53 | -11% |
-| Córners más/menos: Más de 8.5 | 49% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 8.5 | 51% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -6% |
+| Córners más/menos: Más de 8.5 | 49% | 51% | 50% | 1.85 | -7% |
+| Córners más/menos: Menos de 8.5 | 51% | 49% | 50% | 1.95 | -3% |
+| 1X2 descanso: 2 | 31% | 30% | 30% | 3.10 | -6% |
 | 1X2 descanso: X | 40% | 42% | 41% | 2.20 | -9% |
 | 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -4% |
 

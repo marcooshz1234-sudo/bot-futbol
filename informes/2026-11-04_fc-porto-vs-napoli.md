@@ -1,7 +1,7 @@
 # FC Porto – Napoli
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 14:02_
@@ -183,7 +183,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 29% | 29% | 3.30 | -6% |
+| 1X2: 2 | 29% | 29% | 29% | 3.30 | -5% |
 | 1X2: X | 25% | 28% | 26% | 3.40 | -11% |
 | 1X2: 1 | 47% | 44% | 45% | 2.15 | -3% |
 | Doble oportunidad: X2 | 53% | 56% | 55% | 1.67 | -8% |
@@ -191,15 +191,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 71% | 71% | 71% | 1.33 | -5% |
 | Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
 | Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
-| Goles más/menos: Más de 1.5 | 77% | 76% | 76% | 1.25 | -4% |
+| Goles más/menos: Más de 1.5 | 77% | 76% | 77% | 1.25 | -4% |
 | Goles más/menos: Más de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 3.5 | 31% | 32% | 31% | 3.00 | -6% |
-| Goles más/menos: Menos de 1.5 | 23% | 24% | 24% | 4.00 | -6% |
+| Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -6% |
 | Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -6% |
 | Goles más/menos: Menos de 3.5 | 69% | 68% | 69% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |

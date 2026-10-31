@@ -1,7 +1,7 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Merkur-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 08:01_
@@ -177,39 +177,39 @@ _Sin precedentes recientes._
 | V. Tusha | F | 2 | 81 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 4 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 0,68 · córners esperados 9,4._
+_Goles esperados: local 1,42 · visitante 0,68 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 18% | 18% | 18% | 5.00 | -10% |
-| 1X2: X | 27% | 22% | 25% | 4.10 | +1% |
-| 1X2: 1 | 56% | 59% | 57% | 1.55 | -11% |
-| Doble oportunidad: X2 | 44% | 40% | 42% | 2.38 | +1% |
-| Doble oportunidad: 12 | 73% | 78% | 76% | 1.22 | -8% |
+| 1X2: 2 | 18% | 18% | 18% | 5.00 | -9% |
+| 1X2: X | 27% | 22% | 25% | 4.10 | +2% |
+| 1X2: 1 | 55% | 59% | 57% | 1.55 | -12% |
+| Doble oportunidad: X2 | 45% | 40% | 43% | 2.38 | +2% |
+| Doble oportunidad: 12 | 73% | 78% | 75% | 1.22 | -8% |
 | Doble oportunidad: 1X | 82% | 82% | 82% | 1.17 | -4% |
-| Ambos marcan: No | 62% | 42% | 52% | 2.20 | +15% |
-| Ambos marcan: Sí | 38% | 58% | 48% | 1.62 | -23% |
-| Goles más/menos: Más de 2.5 | 36% | 60% | 48% | 1.57 | -25% |
-| Goles más/menos: Más de 3.5 | 17% | 40% | 28% | 2.38 | -33% |
-| Goles más/menos: Más de 4.5 | 6% | 22% | 14% | 4.33 | -38% |
-| Goles más/menos: Menos de 2.5 | 64% | 40% | 52% | 2.38 | +24% |
-| Goles más/menos: Menos de 3.5 | 83% | 60% | 72% | 1.57 | +13% |
+| Ambos marcan: No | 63% | 42% | 52% | 2.20 | +15% |
+| Ambos marcan: Sí | 37% | 58% | 48% | 1.62 | -23% |
+| Goles más/menos: Más de 2.5 | 35% | 60% | 48% | 1.57 | -25% |
+| Goles más/menos: Más de 3.5 | 16% | 40% | 28% | 2.38 | -33% |
+| Goles más/menos: Más de 4.5 | 6% | 22% | 14% | 4.33 | -39% |
+| Goles más/menos: Menos de 2.5 | 65% | 40% | 52% | 2.38 | +25% |
+| Goles más/menos: Menos de 3.5 | 84% | 60% | 72% | 1.57 | +13% |
 | Goles más/menos: Menos de 4.5 | 94% | 78% | 86% | 1.22 | +5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 75% | 68% | 1.25 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 41% | 32% | 2.25 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 25% | 32% | 3.75 | +21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 59% | 68% | 1.57 | +6% |
-| Goles del local: Más de 1.5 | 42% | 61% | 52% | 1.53 | -21% |
-| Goles del local: Más de 2.5 | 18% | 35% | 27% | 2.62 | -30% |
-| Goles del local: Menos de 1.5 | 58% | 39% | 48% | 2.38 | +15% |
-| Goles del local: Menos de 2.5 | 82% | 65% | 73% | 1.44 | +6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 75% | 67% | 1.25 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 41% | 32% | 2.25 | -28% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 25% | 33% | 3.75 | +22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 59% | 68% | 1.57 | +7% |
+| Goles del local: Más de 1.5 | 41% | 61% | 51% | 1.53 | -22% |
+| Goles del local: Más de 2.5 | 17% | 35% | 26% | 2.62 | -31% |
+| Goles del local: Menos de 1.5 | 59% | 39% | 49% | 2.38 | +16% |
+| Goles del local: Menos de 2.5 | 83% | 65% | 74% | 1.44 | +6% |
 | Goles del visitante: Más de 0.5 | 49% | 65% | 57% | 1.44 | -18% |
 | Goles del visitante: Más de 1.5 | 15% | 29% | 22% | 3.25 | -29% |
 | Goles del visitante: Menos de 0.5 | 51% | 35% | 43% | 2.62 | +13% |
 | Goles del visitante: Menos de 1.5 | 85% | 71% | 78% | 1.33 | +4% |
-| 1X2 descanso: X | 47% | 37% | 42% | 2.50 | +5% |
-| 1X2 descanso: 1 | 38% | 45% | 41% | 2.05 | -15% |
+| 1X2 descanso: X | 48% | 37% | 42% | 2.50 | +6% |
+| 1X2 descanso: 1 | 37% | 45% | 41% | 2.05 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

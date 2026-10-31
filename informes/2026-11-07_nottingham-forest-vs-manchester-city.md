@@ -1,7 +1,7 @@
 # Nottingham Forest – Manchester City
 **Premier League** · Regular Season - 10 · 07/11/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 30/10 19:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 02:04._
 
 ## Cuotas Bet365
 _Actualizadas: 30/10 19:52_
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,05 · visitante 1,79 · córners esperados 9,7._
+_Goles esperados: local 1,04 · visitante 1,78 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -190,27 +190,27 @@ _Goles esperados: local 1,05 · visitante 1,79 · córners esperados 9,7._
 | Doble oportunidad: 1X | 45% | 42% | 44% | 2.25 | -2% |
 | Ambos marcan: No | 46% | 42% | 44% | 2.20 | -3% |
 | Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -10% |
-| Goles más/menos: Más de 1.5 | 78% | 79% | 78% | 1.20 | -6% |
+| Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.20 | -6% |
 | Goles más/menos: Más de 2.5 | 54% | 59% | 56% | 1.62 | -9% |
-| Goles más/menos: Más de 3.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles más/menos: Más de 4.5 | 16% | 21% | 18% | 4.50 | -17% |
-| Goles más/menos: Menos de 1.5 | 22% | 21% | 22% | 4.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 46% | 41% | 44% | 2.30 | +0% |
-| Goles más/menos: Menos de 3.5 | 68% | 62% | 65% | 1.53 | -0% |
+| Goles más/menos: Más de 3.5 | 31% | 38% | 35% | 2.50 | -13% |
+| Goles más/menos: Más de 4.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles más/menos: Menos de 2.5 | 46% | 41% | 44% | 2.30 | +1% |
+| Goles más/menos: Menos de 3.5 | 69% | 62% | 65% | 1.53 | -0% |
 | Goles más/menos: Menos de 4.5 | 84% | 79% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 41% | 38% | 2.25 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del local: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -2% |
+| Goles del local: Más de 0.5 | 65% | 66% | 65% | 1.40 | -8% |
 | Goles del local: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
-| Goles del local: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles del local: Menos de 0.5 | 35% | 34% | 35% | 2.75 | -5% |
 | Goles del local: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
-| Goles del visitante: Más de 1.5 | 53% | 58% | 56% | 1.62 | -10% |
-| Goles del visitante: Más de 2.5 | 27% | 34% | 30% | 2.75 | -17% |
-| Goles del visitante: Menos de 1.5 | 47% | 42% | 44% | 2.20 | -2% |
-| Goles del visitante: Menos de 2.5 | 73% | 66% | 70% | 1.40 | -2% |
+| Goles del visitante: Más de 1.5 | 53% | 58% | 55% | 1.62 | -10% |
+| Goles del visitante: Más de 2.5 | 26% | 34% | 30% | 2.75 | -17% |
+| Goles del visitante: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -2% |
+| Goles del visitante: Menos de 2.5 | 74% | 66% | 70% | 1.40 | -2% |
 | 1X2 descanso: 2 | 40% | 42% | 41% | 2.20 | -10% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.40 | -5% |
+| 1X2 descanso: X | 41% | 39% | 40% | 2.40 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

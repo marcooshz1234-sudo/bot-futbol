@@ -1,112 +1,136 @@
 {
- "generado": "2026-10-30 19:53",
+ "generado": "2026-10-31 02:04",
  "estilos": {
   "escalera": {
-   "nota": 1.03,
-   "posts_threads": 3,
-   "resultados": 5,
-   "verdes": 1
+   "nota": 1.219,
+   "posts_threads": 4,
+   "resultados": 6,
+   "verdes": 2
   },
   "datos-rachas": {
-   "nota": 0.914,
+   "nota": 0.933,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 1.186,
+   "nota": 1.247,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 1.412,
+   "nota": 1.583,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-tema": {
-   "nota": 0.897,
+   "nota": 0.908,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "datos-manana": {
-   "nota": 0.899,
+   "nota": 0.91,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores": {
-   "nota": 1.16,
+   "nota": 1.297,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-liga": {
-   "nota": 1.17,
+   "nota": 1.311,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 0.875,
+   "nota": 0.8,
    "posts_threads": 0,
-   "resultados": 1,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 0.991,
+   "nota": 1.143,
    "posts_threads": 2,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550167": {
-   "nota": 0.999,
+   "nota": 1.059,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640387": {
-   "nota": 1.007,
+   "nota": 1.071,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640383": {
-   "nota": 0.983,
+   "nota": 1.035,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550171": {
-   "nota": 0.876,
+   "nota": 0.937,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550172": {
-   "nota": 1.0,
+   "nota": 1.06,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550170": {
-   "nota": 1.217,
+   "nota": 1.375,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640385": {
-   "nota": 0.911,
+   "nota": 0.929,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550169": {
-   "nota": 0.915,
+   "nota": 0.934,
    "posts_threads": 1,
    "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1575211": {
+   "nota": 0.797,
+   "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-partido-1570442": {
+   "nota": 0.807,
+   "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-partido-1563233": {
+   "nota": 0.908,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1552802": {
+   "nota": 0.793,
+   "posts_threads": 1,
+   "resultados": 1,
    "verdes": 0
   }
  }
