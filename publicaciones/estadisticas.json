@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31 11:57",
+ "actualizado": "2026-10-31 12:07",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -58,9 +58,9 @@
  "total_hoy": 7,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "13:30",
   "dia": "2026-10-31",
-  "titulo": "De 1 a 500 x703,82"
+  "titulo": "Combi del sábado x3,75"
  },
  "ayer": {
   "aciertos": 11,
@@ -126,13 +126,13 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 7,
+  "Combi loca (reel)": {
+   "posts": 49,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 48,
+  "Escalera (reel)": {
+   "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -142,7 +142,7 @@
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
