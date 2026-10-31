@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31 01:25",
+ "actualizado": "2026-10-31 01:36",
  "redes": {
   "instagram": {
    "seguidores": 20,
@@ -58,9 +58,9 @@
  "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:30",
+  "hora": "12:00",
   "dia": "2026-10-31",
-  "titulo": "Combi Levante vs Atletico Madrid"
+  "titulo": "De 1 a 500 x428,94"
  },
  "ayer": null,
  "escalera": {
@@ -124,7 +124,7 @@
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 46,
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -140,11 +140,6 @@
   },
   "Verdes/balance (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
