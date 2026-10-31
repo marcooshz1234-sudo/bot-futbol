@@ -1987,5 +1987,38 @@
    "liga": "LaLiga"
   },
   "nota": "31/10 01:36: rehecha sin «ambos marcan» + «Levante marca» juntos; Marcos borra la de las 01:30 («dile que suba la publicacion de nuevo»)"
+ },
+ {
+  "id": "2026-10-31-combi-partido-1570439-bis",
+  "fecha": "2026-10-31T01:43",
+  "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 LEVANTE vs ATLETICO MADRID 🇪🇸\n\n🎯 ATLETICO MADRID HACE MÁS TIROS [x1.40]\n✅ LEVANTE MARCA [x1.44]\n✅ GANA EL ATLETICO MADRID [x1.53]\n✅ LEVANTE HACE MÁS DE 3,5 CÓRNERS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,28\n🟢 VERDE A VERDE 🟢",
+  "foto": null,
+  "origen": "analista",
+  "directo": true,
+  "sel": [
+   "1570439|Shots.1x2|Away",
+   "1570439|Total - Home|Over 0.5",
+   "1570439|Match Winner|Away",
+   "1570439|Home Corners Over/Under|Over 3.5",
+   "1570439|Corners Over Under|Over 9.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.53,
+   1.73,
+   1.83
+  ],
+  "tarjeta": {
+   "local": "Levante",
+   "visitante": "Atletico Madrid",
+   "id_l": 539,
+   "id_v": 530,
+   "logo_l": "https://media.api-sports.io/football/teams/539.png",
+   "logo_v": "https://media.api-sports.io/football/teams/530.png",
+   "fecha": "2026-10-31T14:00",
+   "liga": "LaLiga"
+  },
+  "nota": "31/10 01:42: rehecha sin «ambos marcan» + «Levante marca» juntas (Marcos borra la de las 01:30)"
  }
 ]
