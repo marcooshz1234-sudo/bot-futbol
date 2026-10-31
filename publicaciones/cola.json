@@ -1993,10 +1993,10 @@
     "redes": {
       "instagram_reel": null,
       "threads": "18117164804274897",
-      "instagram": "ya-publicado",
       "instagram_story": "18112535963191804",
       "threads_enlace": "18387938536227534"
-    }
+    },
+    "forzar": true
   },
   {
     "id": "2026-10-31-combi-partido-1570439-bis",
