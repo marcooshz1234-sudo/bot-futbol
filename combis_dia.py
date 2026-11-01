@@ -519,7 +519,9 @@ def combi_partido(pool, cfg):
     pool = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
     return (mejor_combi(pool, cfg["patas"], cfg["cuota"], PARTIDO["prob_min"])
             or mejor_combi(pool, cfg["patas"], cfg["cuota"], PROB_MIN_RELAJADA)
-            or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA))
+            or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA)
+            # 01/11 (Marcos: «tiene que haber contenido diario»): si no llega, 4 cosas con cuota desde 3,5
+            or mejor_combi(pool, (4, 4), (3.5, cfg["cuota"][1]), PROB_MIN_RELAJADA))
 
 
 def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False, por_partido=1, min_jugadores=0):
