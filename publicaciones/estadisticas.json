@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-01 23:52",
+ "actualizado": "2026-11-02 00:00",
  "redes": {
   "instagram": {
    "seguidores": 21,
    "hoy": 0,
    "serie": [
     19,
-    19,
     20,
     20,
     20,
+    21,
     21,
     21
    ]
   },
   "threads": {
    "seguidores": 1407,
-   "hoy": 32,
+   "hoy": 0,
    "serie": [
-    938,
     983,
     1225,
     1281,
     1354,
     1375,
+    1407,
     1407
    ]
   },
@@ -42,20 +42,20 @@
   },
   "telegram": {
    "seguidores": 207,
-   "hoy": 31,
+   "hoy": 0,
    "serie": [
-    69,
     80,
     113,
     126,
     165,
     176,
+    207,
     207
    ]
   }
  },
  "total": 1635,
- "total_hoy": 63,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
   "hora": "00:30",
@@ -63,8 +63,8 @@
   "titulo": "Combi Newcastle vs Everton"
  },
  "ayer": {
-  "aciertos": 70,
-  "total": 117
+  "aciertos": 30,
+  "total": 47
  },
  "escalera": {
   "dia": 1,
@@ -125,6 +125,12 @@
    "telegram": 176
   },
   "2026-11-01": {
+   "instagram": 21,
+   "threads": 1407,
+   "facebook": 0,
+   "telegram": 207
+  },
+  "2026-11-02": {
    "instagram": 21,
    "threads": 1407,
    "facebook": 0,
