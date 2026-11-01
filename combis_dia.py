@@ -157,7 +157,6 @@ def pool_partido(ex, hist, ap):
         if p.get("campo") == "amarillas":
             continue
         # 27/10 (Marcos): falta de jugador solo si la hace SIEMPRE (9 de 10 o más) y solo 1+
-        # 01/11 (Marcos): ahora desde 5 de 6 (De Bruyne, Mamadou Sarr) si es titular fijo
         if p.get("campo") == "faltas_c" and (p.get("n", 1) > 1 or p["frecuencia"] < FALTAS_MIN):
             continue
         if p["cuota"] >= CUOTA_MIN_PATA and ((lok and vok) or p.get("equipo") == (loc["name"] if lok else vis["name"])):
@@ -195,6 +194,16 @@ def pool_partido(ex, hist, ap):
         #   córners en partidos del Bayern: 0 de 4 → menos confianza
         if "Corner" in p["mercado"] and any("Bayern" in n for n in (loc["name"], vis["name"])):
             p["prob_aprendida"] = round(p["prob_aprendida"] * LECCION_SUAVE, 3)
+    # 01/11 (Marcos): fuera lo que casi nunca sale (ambos marcan 47 %)
+    pool = [p for p in pool if not (p["mercado"] in EXCLUIDOS or (p["mercado"] == "Both Teams Score" and p["opcion"] == "Yes"))]
+    # 01/11 (Marcos): cada mercado, corregido con lo que acierta DE VERDAD frente a lo que esperaba el bot
+    cal = calibracion_mercados()
+    for p in pool:
+        f = cal.get(p.get("campo") if p.get("tipo") == "jugador" and p.get("campo") else p["mercado"])
+        if f:
+            p["prob_sin_calibrar"] = p["prob_aprendida"]
+            p["prob_aprendida"] = round(min(0.97, p["prob_aprendida"] * f), 3)
+    pool.sort(key=lambda p: -p["prob_aprendida"])
     # una por mercado (o por jugador y dato): la más probable
     mejor = {}
     for p in pool:
@@ -204,7 +213,7 @@ def pool_partido(ex, hist, ap):
     return sorted(mejor.values(), key=lambda p: -p["prob_aprendida"])
 
 
-FALTAS_MIN = 0.80            # 01/11 (antes 0,90)
+FALTAS_MIN = 0.90            # 01/11: se queda en 9 de 10 (las faltas aciertan 55 % y el bot esperaba 67 %)
 # 01/11 (Marcos: «va a ser un partido caliente»): tarjetas del partido con el árbitro. Con 4+ partidos suyos guardados,
 # cuenta triple (cada partido suyo vale como 3 de los equipos); si casi nunca llega a la línea (≤ 30 %), fuera; si llega
 # casi siempre (≥ 70 %), vale aunque uno de los equipos vea pocas.
@@ -225,6 +234,37 @@ def tarjetas_arbitro(pa, mercado, opcion):
         return None
     linea = float(str(opcion).split()[-1])
     return sum(x > linea for x in t), len(t)
+
+
+EXCLUIDOS = ("Total Goals/Both Teams To Score", "Goalkeeper Saves")
+# 01/11: corrección por mercado con datos/registro_aciertos.json (picks del bot ya jugados). Con pocos picks pesa poco:
+# factor = 1 + (real/esperado − 1) · n / (n + 10), entre 0,60 y 1,15. Mercados con menos de 8 picks, sin tocar.
+CALIBRA = {"min": 8, "peso": 10, "rango": (0.60, 1.15)}
+_CAL = None
+
+
+def calibracion_mercados():
+    global _CAL
+    if _CAL is None:
+        from collections import defaultdict
+        from bot import DATOS
+        g = defaultdict(lambda: [0, 0, 0.0])
+        for v in (leer(DATOS / "registro_aciertos.json", {}) or {}).values():
+            if v.get("acierto") is None:
+                continue
+            esp = v.get("prob_aprendida") or v.get("frecuencia")
+            if not esp:
+                continue
+            k = v.get("campo") if v.get("tipo") == "jugador" and v.get("campo") else v["mercado"]
+            g[k][0] += 1
+            g[k][1] += bool(v["acierto"])
+            g[k][2] += esp
+        _CAL = {}
+        for k, (n, s, e) in g.items():
+            if n >= CALIBRA["min"] and e:
+                f = 1 + (s / e - 1) * n / (n + CALIBRA["peso"])
+                _CAL[k] = round(min(CALIBRA["rango"][1], max(CALIBRA["rango"][0], f)), 3)
+    return _CAL
 
 
 FAVORITO_CLARO = 0.60        # 01/11: favorito claro de bet365 (lecciones de octubre)
