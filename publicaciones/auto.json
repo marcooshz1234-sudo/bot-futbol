@@ -1458,7 +1458,7 @@
   {
     "id": "2026-11-02-combi-partido-1557455",
     "fecha": "2026-11-02T00:30",
-    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 NEWCASTLE vs EVERTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 NEWCASTLE O EMPATE [x1.40]\n✅ THIERNO BARRY: 2+ TIROS [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.62]\n✅ NEWCASTLE HACE MÁS TIROS [x1.44]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 6,12\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 NEWCASTLE vs EVERTON 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 NEWCASTLE O EMPATE [x1.36]\n✅ THIERNO BARRY: 2+ TIROS [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ MÁS DE 2,5 FUERAS DE JUEGO [x1.62]\n✅ NEWCASTLE HACE MÁS TIROS [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 6,20\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1470,11 +1470,11 @@
       "1557455|Shots.1x2|Home"
     ],
     "cuotas": [
-      1.4,
+      1.36,
       1.36,
       1.3,
       1.62,
-      1.44
+      1.5
     ],
     "tarjeta": {
       "local": "Newcastle",
@@ -1485,7 +1485,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/45.png",
       "fecha": "2026-11-02T21:00",
       "liga": "Premier"
-    }
+    },
+    "cuotas_revisadas": "2026-11-01T23:02"
   },
   {
     "id": "2026-11-02-ganadores",
