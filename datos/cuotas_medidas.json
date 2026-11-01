@@ -724,5 +724,147 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-02-newcastle-everton-sin-tarjetas",
+  "fecha": "2026-11-01T23:14",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1557455|Away Player Shots|Thierno Barry - 2",
+   "1557455|Player Fouls Committed|Nico Gonzalez - 2",
+   "1557455|Home Player Shots On Target Total|Harvey Barnes - 1",
+   "1557455|Double Chance|Home/Draw",
+   "1557455|Total - Away|Over 0.5"
+  ],
+  "cuotas": [
+   1.36,
+   1.5,
+   1.44,
+   1.4,
+   1.25
+  ],
+  "real": 8.0,
+  "multiplicando": 5.141,
+  "aj": 1.2216149018122684,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-02-newcastle-everton-con-tarjetas",
+  "fecha": "2026-11-01T23:14",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1557455|Away Player Shots|Thierno Barry - 2",
+   "1557455|Player Fouls Committed|Nico Gonzalez - 2",
+   "1557455|Home Player Shots On Target Total|Harvey Barnes - 1",
+   "1557455|Double Chance|Home/Draw",
+   "1557455|Total - Away|Over 0.5",
+   "1557455|Cards Over/Under|Over 4.5"
+  ],
+  "cuotas": [
+   1.36,
+   1.5,
+   1.44,
+   1.4,
+   1.25,
+   1.73
+  ],
+  "real": 14.0,
+  "multiplicando": 8.894,
+  "aj": 1.2216149018122684,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+tarjetas/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+tarjetas/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+tarjetas/partido",
+    1.0
+   ],
+   [
+    "resultado+tarjetas/partido",
+    1.0
+   ],
+   [
+    "goles+tarjetas/partido",
+    1.0
+   ]
+  ]
  }
 ]
