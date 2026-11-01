@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 10:50",
+ "actualizado": "2026-11-01 11:01",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -58,9 +58,9 @@
  "total_hoy": 42,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "13:30",
   "dia": "2026-11-01",
-  "titulo": "Reto escalera · día 1/7 · x1,96"
+  "titulo": "Combi del domingo x2,83"
  },
  "ayer": {
   "aciertos": 69,
@@ -132,13 +132,13 @@
   }
  },
  "tipos_instagram": {
-  "Combi loca (reel)": {
-   "posts": 53,
+  "Escalera (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 5,
+  "Combi loca (reel)": {
+   "posts": 52,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
