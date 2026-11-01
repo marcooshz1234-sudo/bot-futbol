@@ -181,24 +181,26 @@
     "origen": "Claude (pedida por Marcos el 01/11 17:32: una por partido, lo más seguro)"
   },
   {
-    "id": "2026-11-01-jugadores-noche",
-    "fecha": "2026-11-01T20:45",
-    "titulo": "Jugadores: Napoli + Athletic + Marsella",
-    "cuota": 4.8,
+    "id": "2026-11-01-la-mejor",
+    "fecha": "2026-11-01T18:00",
+    "titulo": "La mejor de la tarde-noche",
+    "cuota": 8.39,
     "sel": [
+      "1570437|Double Chance|Home/Draw",
+      "1550184|Player Fouls Committed|Mikael Egill Ellertsson - 1",
       "1550182|Away Player Shots|Scott McTominay - 2",
       "1550182|Player Fouls Committed|Kevin De Bruyne - 1",
       "1570433|Home Player Shots On Target Total|Robert Navarro - 1",
-      "1570433|Player Fouls Committed|Mamadou Sarr - 1",
-      "1552805|Home Player Shots|Igor Paixao - 2"
+      "1570433|Cards Over/Under|Over 5.5"
     ],
     "cuotas": [
+      1.36,
+      1.33,
       1.33,
       1.44,
       1.44,
-      1.4,
-      1.28
+      1.67
     ],
-    "origen": "Claude (pedida por Marcos el 01/11 17:34: jugadores titulares con lógica)"
+    "origen": "Claude 01/11 17:40: lo mejor de cada partido (todos los mercados)"
   }
 ]
