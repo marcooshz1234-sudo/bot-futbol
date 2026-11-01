@@ -514,5 +514,215 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-01-como-venezia",
+  "fecha": "2026-11-01T12:30",
+  "fuente": "cuota comprobada (Marcos en bet365, mis combis)",
+  "sel": [
+   "1550180|Match Winner|Home",
+   "1550180|Player to Score or Assist|Nicolas Paz",
+   "1550180|Home Corners Over/Under|Over 5.5",
+   "1550180|Total - Away|Over 0.5",
+   "1550180|Total Shots|Over 30.5",
+   "1550180|Player Fouls Committed|Akor Adams - 1",
+   "1550180|Goalkeeper Saves|Filip Stankovic - 4",
+   "1550180|Home Player Shots|Anastasios Douvikas - 4",
+   "1550180|Player Fouls Committed|Martin Baturina - 1",
+   "1550180|Away Player Shots|Lion Lauberbach - 2"
+  ],
+  "cuotas": [
+   1.3,
+   1.44,
+   1.73,
+   1.57,
+   1.8,
+   1.4,
+   1.33,
+   1.44,
+   1.53,
+   1.53
+  ],
+  "real": 18.0,
+  "multiplicando": 57.445,
+  "aj": 1.2103005037478562,
+  "parejas": [
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "corners+resultado/mismo",
+    0.97
+   ],
+   [
+    "resultado+tiros/partido",
+    0.87
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+resultado/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "corners+jugador/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+tiros/partido",
+    0.94
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    0.99
+   ],
+   [
+    "corners+goles/contrario",
+    1.0
+   ],
+   [
+    "corners+tiros/partido",
+    1.0
+   ],
+   [
+    "corners+jugador/partido",
+    1.0
+   ],
+   [
+    "corners+goles/partido",
+    0.99
+   ],
+   [
+    "corners+jugador/mismo",
+    0.93
+   ],
+   [
+    "corners+jugador/partido",
+    1.0
+   ],
+   [
+    "corners+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+goles/partido",
+    0.8
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+tiros/partido",
+    1.0
+   ],
+   [
+    "goles+tiros/partido",
+    0.96
+   ],
+   [
+    "jugador+tiros/partido",
+    0.94
+   ],
+   [
+    "jugador+tiros/partido",
+    1.0
+   ],
+   [
+    "jugador+tiros/partido",
+    0.94
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
  }
 ]
