@@ -77,6 +77,14 @@ def alineacion(api, fid, est, ahora):
     return est["alineaciones"][str(fid)] if len(xi) >= 22 else None
 
 
+def texto_corto(m, o, pa):
+    import picks as P
+    try:
+        return P.texto_pick(m, o, pa["teams"]["home"]["name"], pa["teams"]["away"]["name"])
+    except Exception:
+        return f"{m} {o}"
+
+
 def cuotas_sel():
     """Cuota de cada selección del bot ('partido|mercado|opción') sacada de datos/picks.json."""
     d = leer(DATOS / "picks.json", {}) or {}
@@ -453,6 +461,56 @@ def main():
         if fuera:
             dm(f"📋 Alineaciones · tu combi «{c.get('titulo') or c['id']}» ({c['fecha'][11:16]}):\n"
                + "\n".join(fuera) + "\n\nEn bet365 no te dejará meter a quien no juega: cámbiala antes de que empiece.")
+    # 01/11 (Marcos): si en la alineación falta un jugador CLAVE de ataque (de los 3 con mejor nota) y un post o una
+    # combi tuya lleva «gana», «marca» o tiros de ese equipo, aviso al móvil (no se cambia solo)
+    try:
+        import combis_dia as C
+        import contexto
+        h = historial()
+        for origen, lista in (("post", auto + cola), ("mis", leer(DATOS / "mis_combis.json", []) or [])):
+            for p in lista:
+                if not p.get("sel") or p.get("caducada") or p.get("borrar"):
+                    continue
+                avisos_p = []
+                for s in p["sel"]:
+                    fid_s, m_, o_ = s.split("|", 2)
+                    fid = int(fid_s)
+                    if fid not in inicio or not (-timedelta(minutes=10) <= inicio[fid] - ahora <= VENTANA):
+                        continue
+                    ex = leer(EXTRA / f"{fid}.json", {}) or {}
+                    pa = ex.get("partido")
+                    if not pa:
+                        continue
+                    api = api or API(clave)
+                    al = alineacion(api, fid, est, ahora)
+                    if not al:
+                        continue
+                    pk = {"mercado": m_, "opcion": o_}
+                    import picks as P
+                    if m_ in P.JUG_MERCADOS:
+                        pk.update(tipo="jugador", campo=P.JUG_MERCADOS[m_][0])
+                    if not C.es_ataque(pk):
+                        continue
+                    ld = C.p_lado(pk, pa["teams"]["home"], pa["teams"]["away"])
+                    if ld is None and pk.get("tipo") == "jugador":
+                        nombre = o_.rsplit(" - ", 1)[0]
+                        ld = next((l for l, k in (("local", "home"), ("visitante", "away"))
+                                   if any(es_el(nombre, x["n"]) for x in (al.get("equipos") or {}).get(str(pa["teams"][k]["id"]), []))), None)
+                    if ld is None:
+                        continue
+                    eq = pa["teams"]["home" if ld == "local" else "away"]
+                    for pid, n in contexto.claves(eq["id"], h.get(eq["id"], [])):
+                        if C.pos_jugador(eq["id"], pid, h.get(eq["id"], [])) in ("F", "M") and not any(es_el(n, x) for x in al["xi"]):
+                            k_av = f"clave|{p['id']}|{s}|{n}"
+                            if k_av not in avisados:
+                                avisados.add(k_av)
+                                avisos_p.append(f"• {eq['name']} sin {n} (clave) → «{texto_corto(m_, o_, pa)}»")
+                if avisos_p:
+                    titulo = (p.get("titulo") or p.get("texto", "").strip().splitlines()[0])[:60]
+                    dm(f"📋 Alineaciones · «{titulo}» ({p['fecha'][11:16]}): falta un jugador clave de ataque:\n"
+                       + "\n".join(avisos_p) + "\n\nEsas patas pierden mucho. Mira si quitarlas o cambiarlas antes de que empiece.")
+    except Exception as e:
+        print("aviso de claves:", str(e)[:150])
     est["avisados"] = sorted(avisados)[-500:]
     limite = (ahora - timedelta(days=2)).isoformat()
     est["alineaciones"] = {k: v for k, v in (est.get("alineaciones") or {}).items() if v["hora"] > limite}
