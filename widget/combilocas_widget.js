@@ -7,6 +7,7 @@
 // 01/11 (Marcos): con PARÁMETRO (en el iPhone: mantener pulsado → Editar widget / Personalizar → Parameter) se elige qué
 //   combi sigue: un trozo del nombre de un equipo, p. ej. «madrid» o «burgos». Vacío = la más importante.
 //   Si esa combi ya terminó, enseña cómo acabó (✅ / ❌).
+//   Sin parámetro también se puede fijar una combi desde la app «Mis combis» (botón «📌 En el widget»).
 //   «seguidores» = el widget de antes (seguidores de Threads, Instagram y Telegram); «escalera» = reto escalera.
 // Se actualiza solo: cada vez que se ejecuta mira si hay una versión nueva de este archivo en GitHub y se
 // sobrescribe (la siguiente vez que se pinte ya sale la nueva). Marcos no tiene que tocar nada.
@@ -63,11 +64,19 @@ const normal = t => String(t || "").toLowerCase().normalize("NFD").replace(/[\u0
 
 // las de hoy que siguen vivas: primero las que están en juego, luego las que faltan por empezar.
 // Con parámetro, la combi de ese equipo va la primera (la de hoy; si no hay, la última que hubo).
+const FIJADA = "combilocas_widget_fijada"
+
 function elegir(d, buscar) {
   if (!d) return []
   const hoy = (d.combis || []).filter(c => c.fecha.slice(0, 10) === d.hoy && c.estado === "pendiente").map(resumir)
   hoy.sort((a, b) => (b.vivo - a.vivo))
-  if (!buscar) return hoy
+  if (!buscar) {   // 01/11: la que Marcos fijó desde la app va la primera (aunque ya haya terminado, se ve cómo acabó)
+    const id = Keychain.contains(FIJADA) ? Keychain.get(FIJADA) : null
+    const fija = id && (d.combis || []).find(c => c.id === id)
+    if (!fija) return hoy
+    const r = resumir(fija)
+    return [r, ...hoy.filter(x => x.titulo !== r.titulo)]
+  }
   const cand = (d.combis || []).filter(c => normal(c.titulo).includes(buscar))
     .sort((a, b) => (b.fecha.slice(0, 10) === d.hoy) - (a.fecha.slice(0, 10) === d.hoy) || (b.estado === "pendiente") - (a.estado === "pendiente")
       || b.fecha.localeCompare(a.fecha))
@@ -311,9 +320,23 @@ async function widgetCombis(tam) {
     : tam === "accessoryInline" ? w.presentAccessoryInline() : w.presentMedium()
 }
 
+// 01/11 (Marcos): la combi del widget se elige desde la app «Mis combis» (botón «📌 En el widget»): la app abre
+// scriptable:///run/Combilocas?fijar=<id> y aquí se guarda en el llavero del iPhone. ?fijar= vacío = quitarla.
+async function fijar(id) {
+  if (id) Keychain.set(FIJADA, id)
+  else if (Keychain.contains(FIJADA)) Keychain.remove(FIJADA)
+  const a = new Alert()
+  a.title = id ? "📌 Combi en el widget" : "Widget en automático"
+  a.message = id ? "Tus widgets sin parámetro enseñan ahora esta combi. Ya puedes volver." : "Enseña la combi más importante del día."
+  a.addAction("OK")
+  await a.presentAlert()
+}
+
 await actualizarme()
 const tam = config.widgetFamily || "medium"
 const param = normal(args.widgetParameter)
-if (/^(seguidores|escalera)/.test(param)) await widgetSeguidores(tam, param.replace(/^seguidores\s*/, ""))
+const q = args.queryParameters || {}
+if (config.runsInApp && "fijar" in q) await fijar(q.fijar)
+else if (/^(seguidores|escalera)/.test(param)) await widgetSeguidores(tam, param.replace(/^seguidores\s*/, ""))
 else await widgetCombis(tam)
 Script.complete()
