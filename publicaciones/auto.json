@@ -1389,7 +1389,7 @@
   {
     "id": "2026-11-01-combi-partido-1550182",
     "fecha": "2026-11-01T19:25",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 JUVENTUS vs NAPOLI 🇮🇹\n\n🎯 JUVENTUS O EMPATE [x1.30]\n✅ SCOTT MCTOMINAY: 2+ TIROS [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.40]\n✅ JUVENTUS HACE MÁS TIROS [x1.53]\n✅ MÁS DE 8,5 CÓRNERS [x1.67]\n✅ AMBOS MARCAN [x1.75]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,53\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 JUVENTUS vs NAPOLI 🇮🇹\n\n🎯 JUVENTUS O EMPATE [x1.30]\n✅ SCOTT MCTOMINAY: 2+ TIROS [x1.33]\n✅ GOL EN LA 1ª PARTE [x1.40]\n✅ JUVENTUS HACE MÁS TIROS [x1.53]\n✅ MÁS DE 8,5 CÓRNERS [x1.67]\n✅ AMBOS MARCAN [x1.67]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,19\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1407,7 +1407,7 @@
       1.4,
       1.53,
       1.67,
-      1.75
+      1.67
     ],
     "tarjeta": {
       "local": "Juventus",
@@ -1419,12 +1419,12 @@
       "fecha": "2026-11-01T20:45",
       "liga": "Serie A"
     },
-    "cuotas_revisadas": "2026-11-01T17:59"
+    "cuotas_revisadas": "2026-11-01T18:33"
   },
   {
     "id": "2026-11-01-combi-partido-1570433",
     "fecha": "2026-11-01T20:00",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.30]\n✅ REAL SOCIEDAD MARCA [x1.28]\n✅ ROBERT NAVARRO: 1+ TIROS A PUERTA [x1.44]\n✅ ATHLETIC CLUB HACE MÁS TIROS A PUERTA [x1.53]\n✅ MÁS DE 9,5 CÓRNERS [x1.82]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,39\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ REAL SOCIEDAD MARCA [x1.40]\n✅ ROBERT NAVARRO: 1+ TIROS A PUERTA [x1.44]\n✅ ATHLETIC CLUB HACE MÁS TIROS A PUERTA [x1.53]\n✅ MÁS DE 9,5 CÓRNERS [x1.82]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 7,60\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1437,9 +1437,9 @@
       "1570433|Corners Over Under|Over 9.5"
     ],
     "cuotas": [
-      1.36,
-      1.3,
-      1.28,
+      1.25,
+      1.33,
+      1.4,
       1.44,
       1.53,
       1.82
@@ -1453,7 +1453,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/548.png",
       "fecha": "2026-11-01T21:00",
       "liga": "LaLiga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-01T18:33"
   },
   {
     "id": "2026-11-02-combi-partido-1557455",

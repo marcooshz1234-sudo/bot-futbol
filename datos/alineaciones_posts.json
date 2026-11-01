@@ -2746,10 +2746,148 @@
    }
   },
   "1575534": {
-   "hora": "2026-11-01T18:22:07.657876+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T18:33:20.339403+01:00",
+   "xi": [
+    "Fran Vieites",
+    "G. Szalai",
+    "Rafael Fernandes",
+    "Romain Correia",
+    "Igor Julião",
+    "Rodrigo Andrade",
+    "Raphael Guzzo",
+    "Paulo Henrique",
+    "M. Bassouamina",
+    "Adrián Butzke",
+    "Martín Tejón",
+    "Neneca",
+    "Lucas Soares",
+    "Pedro Pacheco",
+    "Emanuel Fernandes",
+    "Guilherme Romão",
+    "José Luís Rocha Tavares",
+    "Daniel Borges",
+    "Tiago Ribeiro",
+    "Brenner Lucas Gonçalves Santos",
+    "Luis Fernando Santos Oliveira",
+    "Vinícius Lopes"
+   ],
+   "banquillo": [
+    "I. Ayuma",
+    "S. Bamba",
+    "Maurice Osei Boakye",
+    "M. Diouri",
+    "V. Danilović",
+    "Tomás Tavares",
+    "Gonçalo Tabuaço",
+    "N. Ogbeta",
+    "Alfonso Pastor",
+    "Nilton Varela",
+    "I. Alani",
+    "JoÃ£o Vasconcelos",
+    "Tome·de Castro Sousa",
+    "Sorriso",
+    "Ythallo",
+    "Tiago Ribeiro Duarte",
+    "Welinton Torrão",
+    "Léo Jacó",
+    "Seydou Fofana",
+    "Henrique Silva",
+    "Vitinho"
+   ],
+   "equipos": {
+    "214": [
+     {
+      "n": "Fran Vieites",
+      "pos": "G"
+     },
+     {
+      "n": "G. Szalai",
+      "pos": "D"
+     },
+     {
+      "n": "Rafael Fernandes",
+      "pos": "D"
+     },
+     {
+      "n": "Romain Correia",
+      "pos": "D"
+     },
+     {
+      "n": "Igor Julião",
+      "pos": "M"
+     },
+     {
+      "n": "Rodrigo Andrade",
+      "pos": "M"
+     },
+     {
+      "n": "Raphael Guzzo",
+      "pos": "M"
+     },
+     {
+      "n": "Paulo Henrique",
+      "pos": "M"
+     },
+     {
+      "n": "M. Bassouamina",
+      "pos": "F"
+     },
+     {
+      "n": "Adrián Butzke",
+      "pos": "F"
+     },
+     {
+      "n": "Martín Tejón",
+      "pos": "F"
+     }
+    ],
+    "227": [
+     {
+      "n": "Neneca",
+      "pos": "G"
+     },
+     {
+      "n": "Lucas Soares",
+      "pos": "D"
+     },
+     {
+      "n": "Pedro Pacheco",
+      "pos": "D"
+     },
+     {
+      "n": "Emanuel Fernandes",
+      "pos": "D"
+     },
+     {
+      "n": "Guilherme Romão",
+      "pos": "D"
+     },
+     {
+      "n": "José Luís Rocha Tavares",
+      "pos": "M"
+     },
+     {
+      "n": "Daniel Borges",
+      "pos": "M"
+     },
+     {
+      "n": "Tiago Ribeiro",
+      "pos": "M"
+     },
+     {
+      "n": "Brenner Lucas Gonçalves Santos",
+      "pos": "F"
+     },
+     {
+      "n": "Luis Fernando Santos Oliveira",
+      "pos": "F"
+     },
+     {
+      "n": "Vinícius Lopes",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550184": {
    "hora": "2026-11-01T17:42:51.137200+01:00",
