@@ -72,14 +72,18 @@
     "id": "2026-11-01-como-venezia",
     "fecha": "2026-11-01T12:30",
     "titulo": "Como – Venezia",
-    "cuota": 8.83,
+    "cuota": 20.98,
     "sel": [
       "1550180|Match Winner|Home",
       "1550180|Player to Score or Assist|Nicolas Paz",
       "1550180|Home Corners Over/Under|Over 5.5",
       "1550180|Total - Away|Over 0.5",
       "1550180|Total Shots|Over 30.5",
-      "1550180|Player Fouls Committed|Akor Adams - 1"
+      "1550180|Player Fouls Committed|Akor Adams - 1",
+      "1550180|Goalkeeper Saves|Filip Stankovic - 4",
+      "1550180|Home Player Shots|Anastasios Douvikas - 4",
+      "1550180|Player Fouls Committed|Martin Baturina - 1",
+      "1550180|Away Player Shots|Lion Lauberbach - 2"
     ],
     "cuotas": [
       1.3,
@@ -87,7 +91,11 @@
       1.73,
       1.57,
       1.8,
-      1.4
+      1.4,
+      1.33,
+      1.44,
+      1.53,
+      1.53
     ],
     "origen": "Claude (pedida por Marcos el 01/11 12:08)"
   }
