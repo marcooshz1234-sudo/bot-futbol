@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 19:16",
+ "actualizado": "2026-11-01 19:27",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1406,
-   "hoy": 31,
+   "seguidores": 1404,
+   "hoy": 29,
    "serie": [
     938,
     983,
@@ -24,7 +24,7 @@
     1281,
     1354,
     1375,
-    1406
+    1404
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 200,
-   "hoy": 24,
+   "seguidores": 201,
+   "hoy": 25,
    "serie": [
     69,
     80,
@@ -50,17 +50,17 @@
     126,
     165,
     176,
-    200
+    201
    ]
   }
  },
- "total": 1627,
- "total_hoy": 55,
+ "total": 1626,
+ "total_hoy": 54,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:25",
+  "hora": "20:00",
   "dia": "2026-11-01",
-  "titulo": "Combi Juventus vs Napoli"
+  "titulo": "Combi Athletic Club vs Real Sociedad"
  },
  "ayer": {
   "aciertos": 69,
@@ -126,19 +126,19 @@
   },
   "2026-11-01": {
    "instagram": 21,
-   "threads": 1406,
+   "threads": 1404,
    "facebook": 0,
-   "telegram": 200
+   "telegram": 201
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 52,
+   "posts": 53,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

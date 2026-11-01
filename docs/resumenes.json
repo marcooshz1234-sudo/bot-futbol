@@ -664,20 +664,20 @@
   },
   "2026-11-01": {
     "dia": "2026-11-01",
-    "total": 8,
+    "total": 9,
     "cuentas": {
       "verde": 0,
-      "rojo": 5,
-      "pendiente": 3,
-      "sin_datos": 0,
+      "rojo": 4,
+      "pendiente": 4,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 5
     },
     "combis": [
       {
         "id": "2026-11-01-combi-partido-1557453",
         "titulo": "✅ COMBI LOCAS | PREMIER",
-        "estado": "rojo",
+        "estado": "sin_datos",
         "cuota": 9.89
       },
       {
@@ -721,13 +721,19 @@
         "titulo": "✅ COMBI LOCAS | LALIGA",
         "estado": "pendiente",
         "cuota": 8.93
+      },
+      {
+        "id": "2026-11-01-combi-partido-1550182",
+        "titulo": "✅ COMBI LOCAS | SERIE A",
+        "estado": "pendiente",
+        "cuota": 7.19
       }
     ],
     "picks": {
-      "verde": 20,
-      "rojo": 9,
-      "total": 46
+      "verde": 18,
+      "rojo": 8,
+      "total": 51
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 5 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 9,89\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 8,66 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,89! 🍀 · 2,89 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 7,59\n❌ ✅ COMBI LOCAS | BUNDESLIGA · 7,65\n❌ ✅ COMBI LOCAS | LALIGA · 8,97\n⏳ ✅ COMBI LOCAS | LALIGA · 8,93 · pendiente\n\n✅ 0 acertadas · ❌ 5 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 4 EN VERDE 📊\n\n❔ ✅ COMBI LOCAS | PREMIER · 9,89 · faltan datos\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 8,66 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,89! 🍀 · 2,89 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 7,59\n❌ ✅ COMBI LOCAS | BUNDESLIGA · 7,65\n❌ ✅ COMBI LOCAS | LALIGA · 8,97\n⏳ ✅ COMBI LOCAS | LALIGA · 8,93 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 7,19 · pendiente\n\n✅ 0 acertadas · ❌ 4 falladas · ⏳ 5 sin resolver"
   }
 }
