@@ -1,7 +1,7 @@
 # Crystal Palace – 1899 Hoffenheim
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,36 +176,36 @@ _Sin precedentes recientes._
 | Nathan De Cat | M | 5 | 169 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,81 · visitante 1,71 · córners esperados 10,0._
+_Goles esperados: local 1,82 · visitante 1,72 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 ✅ | 37% | 25% | 31% | 3.60 | +12% |
-| 1X2: X | 22% | 25% | 24% | 3.60 | -14% |
-| 1X2: 1 | 41% | 49% | 45% | 1.85 | -17% |
-| Doble oportunidad: X2 | 59% | 52% | 55% | 1.80 | -0% |
+| 1X2: X | 22% | 25% | 24% | 3.60 | -15% |
+| 1X2: 1 | 41% | 49% | 45% | 1.85 | -16% |
+| Doble oportunidad: X2 | 59% | 52% | 55% | 1.80 | -1% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 63% | 74% | 69% | 1.25 | -14% |
 | Ambos marcan: No | 31% | 38% | 34% | 2.50 | -14% |
 | Ambos marcan: Sí | 69% | 62% | 66% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 68% | 60% | 64% | 1.57 | +1% |
-| Goles más/menos: Más de 3.5 | 47% | 41% | 44% | 2.30 | +1% |
+| Goles más/menos: Más de 2.5 | 69% | 60% | 64% | 1.57 | +1% |
+| Goles más/menos: Más de 3.5 | 47% | 41% | 44% | 2.30 | +2% |
 | Goles más/menos: Más de 4.5 | 28% | 24% | 26% | 4.00 | +4% |
-| Goles más/menos: Menos de 2.5 | 32% | 40% | 36% | 2.38 | -15% |
-| Goles más/menos: Menos de 3.5 | 53% | 59% | 56% | 1.62 | -9% |
+| Goles más/menos: Menos de 2.5 | 31% | 40% | 36% | 2.38 | -15% |
+| Goles más/menos: Menos de 3.5 | 53% | 59% | 56% | 1.62 | -10% |
 | Goles más/menos: Menos de 4.5 | 72% | 76% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 42% | 44% | 2.20 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
 | Goles del local: Más de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles del local: Más de 2.5 | 27% | 29% | 28% | 3.25 | -9% |
-| Goles del local: Menos de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Goles del local: Menos de 2.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles del local: Más de 2.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles del local: Menos de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
+| Goles del local: Menos de 2.5 | 73% | 71% | 72% | 1.33 | -5% |
 | Goles del visitante: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Goles del visitante: Más de 1.5 ✅ | 51% | 38% | 44% | 2.50 | +11% |
 | Goles del visitante: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -22% |
-| Goles del visitante: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -16% |
+| Goles del visitante: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -17% |
 | 1X2 descanso: 2 | 31% | 25% | 28% | 3.75 | +4% |
 | 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -9% |
 | 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -14% |

@@ -1,7 +1,7 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:15_
@@ -187,8 +187,8 @@ _Goles esperados: local 1,42 · visitante 1,95 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 52% | 51% | 1.80 | -9% |
-| 1X2: X | 22% | 23% | 22% | 4.10 | -8% |
+| 1X2: 2 | 50% | 52% | 51% | 1.80 | -8% |
+| 1X2: X | 22% | 23% | 22% | 4.10 | -9% |
 | 1X2: 1 | 28% | 26% | 27% | 3.60 | -3% |
 | Doble oportunidad: X2 | 72% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
@@ -202,10 +202,10 @@ _Goles esperados: local 1,42 · visitante 1,95 · córners esperados 9,1._
 | Goles más/menos: Menos de 3.5 | 57% | 50% | 53% | 1.91 | +2% |
 | Goles más/menos: Menos de 4.5 | 75% | 68% | 72% | 1.40 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Goles 1ª parte más/menos: Más de 2.5 | 18% | 25% | 22% | 3.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 50% | 53% | 1.83 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Goles del local: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
 | Goles del local: Más de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
@@ -214,8 +214,8 @@ _Goles esperados: local 1,42 · visitante 1,95 · córners esperados 9,1._
 | Goles del local: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -5% |
 | Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del visitante: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
+| Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
 | 1X2 descanso: 2 | 38% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: X | 37% | 34% | 35% | 2.75 | -3% |

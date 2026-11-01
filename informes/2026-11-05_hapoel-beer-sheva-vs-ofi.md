@@ -1,7 +1,7 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -188,18 +188,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 80% | 52% | 66% | 1.80 | +19% |
 | Doble oportunidad: 12 | 70% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 51% | 74% | 62% | 1.28 | -20% |
-| Ambos marcan: No | 66% | 42% | 54% | 2.20 | +20% |
+| Ambos marcan: No | 66% | 42% | 54% | 2.20 | +19% |
 | Ambos marcan: Sí | 34% | 58% | 46% | 1.62 | -26% |
-| Goles más/menos: Más de 1.5 | 56% | 78% | 67% | 1.22 | -19% |
+| Goles más/menos: Más de 1.5 | 56% | 78% | 67% | 1.22 | -18% |
 | Goles más/menos: Más de 2.5 | 29% | 57% | 43% | 1.67 | -29% |
 | Goles más/menos: Más de 3.5 | 12% | 34% | 23% | 2.75 | -36% |
 | Goles más/menos: Menos de 1.5 | 44% | 22% | 33% | 4.33 | +44% |
 | Goles más/menos: Menos de 2.5 | 71% | 43% | 57% | 2.20 | +26% |
 | Goles más/menos: Menos de 3.5 | 88% | 66% | 77% | 1.44 | +11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 55% | 72% | 64% | 1.30 | -17% |
-| Goles 1ª parte más/menos: Más de 1.5 | 19% | 38% | 28% | 2.50 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 45% | 28% | 36% | 3.40 | +23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 81% | 62% | 72% | 1.50 | +7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 56% | 72% | 64% | 1.30 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 38% | 29% | 2.50 | -29% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 28% | 36% | 3.40 | +22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles del local: Más de 1.5 | 14% | 50% | 32% | 1.83 | -41% |
 | Goles del local: Más de 2.5 | 3% | 25% | 14% | 3.75 | -48% |
 | Goles del local: Menos de 1.5 | 86% | 50% | 68% | 1.83 | +24% |

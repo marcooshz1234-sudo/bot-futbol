@@ -1,7 +1,7 @@
 # Borussia Dortmund – Real Betis
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:49_
@@ -191,13 +191,13 @@ _Goles esperados: local 1,90 · visitante 1,03 · córners esperados 10,3._
 | Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
 | Goles más/menos: Más de 2.5 | 56% | 62% | 59% | 1.53 | -10% |
 | Goles más/menos: Más de 3.5 | 34% | 41% | 37% | 2.30 | -14% |
-| Goles más/menos: Más de 4.5 | 17% | 24% | 20% | 4.00 | -18% |
+| Goles más/menos: Más de 4.5 | 17% | 24% | 21% | 4.00 | -18% |
 | Goles más/menos: Menos de 2.5 | 44% | 38% | 41% | 2.50 | +3% |
 | Goles más/menos: Menos de 3.5 | 66% | 59% | 63% | 1.62 | +1% |
-| Goles más/menos: Menos de 4.5 | 83% | 76% | 80% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
+| Goles más/menos: Menos de 4.5 | 83% | 76% | 79% | 1.25 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
 | Goles del local: Más de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
 | Goles del local: Más de 2.5 | 30% | 34% | 32% | 2.75 | -13% |

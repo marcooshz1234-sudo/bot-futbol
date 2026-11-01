@@ -1,7 +1,7 @@
 # Manchester United – AS Roma
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -177,7 +177,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | D. Rensch | D | 9 | 322 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 1,86 · córners esperados 9,3._
+_Goles esperados: local 1,72 · visitante 1,87 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,29 +189,29 @@ _Goles esperados: local 1,70 · visitante 1,86 · córners esperados 9,3._
 | Doble oportunidad: 1X | 58% | 63% | 60% | 1.50 | -9% |
 | Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
 | Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 69% | 64% | 66% | 1.50 | -0% |
-| Goles más/menos: Más de 3.5 | 48% | 41% | 45% | 2.30 | +2% |
-| Goles más/menos: Más de 4.5 | 29% | 24% | 26% | 4.00 | +5% |
-| Goles más/menos: Menos de 2.5 | 31% | 36% | 34% | 2.62 | -12% |
-| Goles más/menos: Menos de 3.5 | 52% | 59% | 55% | 1.62 | -10% |
+| Goles más/menos: Más de 2.5 | 70% | 64% | 67% | 1.50 | -0% |
+| Goles más/menos: Más de 3.5 | 48% | 41% | 45% | 2.30 | +3% |
+| Goles más/menos: Más de 4.5 | 29% | 24% | 26% | 4.00 | +6% |
+| Goles más/menos: Menos de 2.5 | 30% | 36% | 33% | 2.62 | -12% |
+| Goles más/menos: Menos de 3.5 | 52% | 59% | 55% | 1.62 | -11% |
 | Goles más/menos: Menos de 4.5 | 71% | 76% | 74% | 1.25 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 42% | 44% | 2.20 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 42% | 44% | 2.20 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -10% |
 | Goles del local: Más de 0.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del local: Más de 1.5 | 51% | 50% | 50% | 1.83 | -8% |
-| Goles del local: Más de 2.5 | 24% | 25% | 25% | 3.75 | -7% |
-| Goles del local: Menos de 0.5 | 18% | 21% | 19% | 4.50 | -12% |
-| Goles del local: Menos de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
-| Goles del local: Menos de 2.5 | 76% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 0.5 | 84% | 78% | 81% | 1.20 | -2% |
-| Goles del visitante: Más de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
-| Goles del visitante: Más de 2.5 | 29% | 23% | 26% | 4.00 | +4% |
-| Goles del visitante: Menos de 0.5 | 16% | 22% | 19% | 4.33 | -19% |
-| Goles del visitante: Menos de 1.5 | 45% | 51% | 48% | 1.80 | -14% |
+| Goles del local: Más de 1.5 | 51% | 50% | 51% | 1.83 | -7% |
+| Goles del local: Más de 2.5 | 25% | 25% | 25% | 3.75 | -7% |
+| Goles del local: Menos de 0.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles del local: Menos de 1.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Menos de 2.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 0.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Goles del visitante: Más de 1.5 | 56% | 49% | 52% | 1.91 | -0% |
+| Goles del visitante: Más de 2.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles del visitante: Menos de 0.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del visitante: Menos de 1.5 | 44% | 51% | 48% | 1.80 | -14% |
 | Goles del visitante: Menos de 2.5 | 71% | 77% | 74% | 1.22 | -10% |
-| 1X2 descanso: 2 | 34% | 30% | 32% | 3.10 | -1% |
+| 1X2 descanso: 2 | 34% | 30% | 32% | 3.10 | -0% |
 | 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -8% |
 | 1X2 descanso: 1 | 30% | 32% | 31% | 2.88 | -10% |
 

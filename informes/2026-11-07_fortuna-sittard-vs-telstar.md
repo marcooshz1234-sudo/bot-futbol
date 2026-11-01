@@ -1,7 +1,7 @@
 # Fortuna Sittard – Telstar
 **Eredivisie** · Regular Season - 12 · 07/11/2026 16:30 (hora España) · Fortuna Sittard Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -51,51 +51,51 @@ _Actualizadas: 01/11 02:14_
 ## Estadísticas de equipo
 | | Fortuna Sittard (total) | Fortuna Sittard en casa | Telstar (total) | Telstar fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 11 | 5 |
-| Forma (últimos 5) | EEVEE | VEDDV | DDDED | DDEDV |
-| Balance | 5V 5E 2D | 2V 1E 2D | 1V 3E 7D | 1V 1E 3D |
-| Goles a favor / partido | 1,67 | 1,20 | 1,09 | 0,80 |
-| Goles en contra / partido | 1,67 | 1,80 | 2,09 | 1,20 |
-| Goles a favor 1ª parte | 0,75 | 0,60 | 0,55 | 0,40 |
-| Goles a favor 2ª parte | 0,92 | 0,60 | 0,55 | 0,40 |
-| Goles en contra 1ª parte | 0,50 | 0,60 | 0,91 | 0,60 |
-| Goles en contra 2ª parte | 1,17 | 1,20 | 1,18 | 0,60 |
-| Más de 1,5 goles | 83% | 80% | 73% | 40% |
-| Más de 2,5 goles | 58% | 40% | 64% | 40% |
-| Más de 3,5 goles | 58% | 40% | 55% | 20% |
-| Ambos marcan | 75% | 60% | 55% | 40% |
-| Portería a cero | 17% | 20% | 9% | 20% |
-| Se queda sin marcar | 8% | 20% | 45% | 60% |
-| xG a favor | 0,90 | 0,94 | 1,27 | 0,76 |
-| xG en contra | 2,15 | 2,51 | 2,07 | 1,97 |
-| Tiros / partido | 10,2 | 10,0 | 12,2 | 7,6 |
-| Tiros a puerta / partido | 4,4 | 4,6 | 2,9 | 2,2 |
-| Tiros recibidos | 18,2 | 18,0 | 15,9 | 21,0 |
-| Tiros a puerta recibidos | 5,7 | 7,2 | 6,5 | 6,6 |
-| Posesión media % | 36 | 37 | 48 | 39 |
-| Córners a favor | 3,1 | 4,4 | 4,8 | 3,0 |
-| Córners en contra | 7,6 | 8,8 | 5,7 | 7,8 |
+| Partidos analizados | 12 | 5 | 12 | 5 |
+| Forma (últimos 5) | EEVEE | VEDDV | VDDDE | DDEDV |
+| Balance | 5V 5E 2D | 2V 1E 2D | 2V 3E 7D | 1V 1E 3D |
+| Goles a favor / partido | 1,67 | 1,20 | 1,33 | 0,80 |
+| Goles en contra / partido | 1,67 | 1,80 | 2,08 | 1,20 |
+| Goles a favor 1ª parte | 0,75 | 0,60 | 0,75 | 0,40 |
+| Goles a favor 2ª parte | 0,92 | 0,60 | 0,58 | 0,40 |
+| Goles en contra 1ª parte | 0,50 | 0,60 | 0,92 | 0,60 |
+| Goles en contra 2ª parte | 1,17 | 1,20 | 1,17 | 0,60 |
+| Más de 1,5 goles | 83% | 80% | 75% | 40% |
+| Más de 2,5 goles | 58% | 40% | 67% | 40% |
+| Más de 3,5 goles | 58% | 40% | 58% | 20% |
+| Ambos marcan | 75% | 60% | 58% | 40% |
+| Portería a cero | 17% | 20% | 8% | 20% |
+| Se queda sin marcar | 8% | 20% | 42% | 60% |
+| xG a favor | 0,90 | 0,94 | 1,38 | 0,76 |
+| xG en contra | 2,15 | 2,51 | 2,00 | 1,97 |
+| Tiros / partido | 10,2 | 10,0 | 12,5 | 7,6 |
+| Tiros a puerta / partido | 4,4 | 4,6 | 3,2 | 2,2 |
+| Tiros recibidos | 18,2 | 18,0 | 15,8 | 21,0 |
+| Tiros a puerta recibidos | 5,7 | 7,2 | 6,3 | 6,6 |
+| Posesión media % | 36 | 37 | 47 | 39 |
+| Córners a favor | 3,1 | 4,4 | 4,7 | 3,0 |
+| Córners en contra | 7,6 | 8,8 | 6,0 | 7,8 |
 | Córners a favor 1ª parte | 1,0 | 1,2 | 2,1 | 1,6 |
-| Córners a favor 2ª parte | 1,9 | 3,2 | 2,7 | 1,4 |
-| Córners totales del partido | 10,7 | 13,2 | 10,5 | 10,8 |
-| Córners totales 1ª parte | 4,2 | 5,4 | 4,6 | 4,2 |
+| Córners a favor 2ª parte | 1,9 | 3,2 | 2,6 | 1,4 |
+| Córners totales del partido | 10,7 | 13,2 | 10,7 | 10,8 |
+| Córners totales 1ª parte | 4,2 | 5,4 | 4,8 | 4,2 |
 | Córners totales 2ª parte | 6,1 | 7,8 | 5,9 | 6,6 |
-| Más de 8,5 córners | 75% | 100% | 64% | 60% |
-| Más de 9,5 córners | 58% | 100% | 55% | 60% |
-| Más de 10,5 córners | 58% | 100% | 55% | 60% |
+| Más de 8,5 córners | 75% | 100% | 67% | 60% |
+| Más de 9,5 córners | 58% | 100% | 58% | 60% |
+| Más de 10,5 córners | 58% | 100% | 58% | 60% |
 | Faltas cometidas | 11,3 | 9,4 | 9,9 | 10,4 |
-| Faltas recibidas | 11,5 | 13,2 | 12,7 | 12,8 |
-| Amarillas propias | 1,6 | 0,6 | 1,3 | 1,4 |
-| Amarillas del rival | 1,5 | 2,0 | 1,5 | 1,4 |
-| Rojas / partido | 0,08 | 0,20 | 0,09 | 0,00 |
+| Faltas recibidas | 11,5 | 13,2 | 13,3 | 12,8 |
+| Amarillas propias | 1,6 | 0,6 | 1,2 | 1,4 |
+| Amarillas del rival | 1,5 | 2,0 | 1,6 | 1,4 |
+| Rojas / partido | 0,08 | 0,20 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Fortuna Sittard | Recibe Fortuna Sittard | Tarjetas Fortuna Sittard | Goles Telstar | Recibe Telstar | Tarjetas Telstar |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 1 | 3 | 2 | 3 | 0 |
-| 16-30' | 3 | 3 | 0 | 2 | 4 | 4 |
-| 31-45' | 2 | 2 | 4 | 2 | 3 | 1 |
-| 46-60' | 2 | 4 | 3 | 1 | 6 | 3 |
+| 1-15' | 4 | 1 | 3 | 3 | 3 | 0 |
+| 16-30' | 3 | 3 | 0 | 3 | 4 | 4 |
+| 31-45' | 2 | 2 | 4 | 3 | 4 | 1 |
+| 46-60' | 2 | 4 | 3 | 2 | 7 | 3 |
 | 61-75' | 4 | 3 | 3 | 2 | 3 | 2 |
 | 76-90' | 5 | 7 | 7 | 3 | 4 | 5 |
 
@@ -149,74 +149,74 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Telstar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Eredivisie | Telstar 4-2 Utrecht | casa | 3-9 | 16 (7) - 15 (5) | 0-2 |
 | 2026-10-27 | KNVB Beker | Telstar 0-2 Almere City FC | casa | 7-5 | 15 (1) - 10 (4) | –-– |
 | 2026-10-23 | Eredivisie | GO Ahead Eagles 3-2 Telstar | fuera | 2-4 | 12 (3) - 16 (7) | 1-1 |
 | 2026-10-17 | Eredivisie | Telstar 3-4 Feyenoord | casa | 7-8 | 23 (9) - 21 (11) | 1-4 |
 | 2026-10-11 | Eredivisie | Telstar 2-2 ADO Den Haag | casa | 8-0 | 30 (4) - 3 (2) | 2-1 |
 | 2026-09-20 | Eredivisie | AZ Alkmaar 1-0 Telstar | fuera | 2-5 | 3 (1) - 17 (8) | 1-1 |
-| 2026-09-13 | Eredivisie | Heerenveen 0-0 Telstar | fuera | 6-8 | 12 (2) - 23 (6) | 0-2 |
 
 ## Jugadores de Telstar
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Ronald Koeman Jr | G | 11 | 990 | 2 | 0 | 2 | 0,2 | 2 | 0,2 | 0 | 2 | 0,2 | 2 | 0 |
-| Abdelnour Soualhia | D | 11 | 990 | 1 | 1 | 9 | 0,8 | 1 | 0,1 | 18 | 21 | 1,9 | 3 | 0 |
-| Marvin Peersman | D | 11 | 977 | 0 | 0 | 9 | 0,8 | 3 | 0,3 | 11 | 23 | 2,1 | 1 | 0 |
+| R. Koeman | G | 12 | 1080 | 2 | 0 | 2 | 0,2 | 2 | 0,2 | 0 | 3 | 0,2 | 2 | 0 |
+| A. Soualhia | D | 12 | 1080 | 2 | 1 | 11 | 0,9 | 2 | 0,2 | 19 | 24 | 2,0 | 3 | 0 |
+| M. Peersman | D | 12 | 1039 | 0 | 0 | 9 | 0,8 | 3 | 0,2 | 12 | 23 | 1,9 | 1 | 0 |
+| T. Owusu | M | 12 | 1025 | 5 | 1 | 17 | 1,4 | 5 | 0,4 | 7 | 14 | 1,2 | 0 | 0 |
+| N. Rossen | M | 12 | 1007 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 5 | 10 | 0,8 | 0 | 0 |
 | Patrick Brouwer | M | 11 | 972 | 2 | 2 | 8 | 0,7 | 3 | 0,3 | 10 | 12 | 1,1 | 0 | 0 |
-| Tyrone Owusu | M | 11 | 935 | 4 | 0 | 15 | 1,4 | 4 | 0,4 | 7 | 12 | 1,1 | 0 | 0 |
-| Nils Rossen | M | 11 | 917 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 5 | 8 | 0,7 | 0 | 0 |
-| Sem Valk | D | 9 | 810 | 1 | 1 | 6 | 0,7 | 2 | 0,2 | 6 | 7 | 0,8 | 1 | 0 |
+| S. Valk | D | 10 | 900 | 1 | 1 | 7 | 0,7 | 2 | 0,2 | 6 | 9 | 0,9 | 1 | 0 |
 | Gerald Alders | D | 8 | 596 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 9 | 8 | 1,0 | 2 | 0 |
 | Rui Mendes | F | 9 | 559 | 1 | 0 | 12 | 1,3 | 5 | 0,6 | 2 | 1 | 0,1 | 1 | 0 |
-| Jeff Hardeveld | D | 9 | 530 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 5 | 0,6 | 0 | 0 |
+| J. Hardeveld | D | 10 | 558 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 6 | 0,6 | 0 | 0 |
 | Jelani Seedorf | F | 11 | 510 | 0 | 0 | 9 | 0,8 | 0 | 0,0 | 6 | 4 | 0,4 | 1 | 0 |
-| Nökkvi Þórisson | F | 7 | 417 | 0 | 0 | 14 | 2,0 | 4 | 0,6 | 6 | 0 | 0,0 | 1 | 1 |
-| N. Shenkman | M | 7 | 305 | 1 | 2 | 5 | 0,7 | 1 | 0,1 | 0 | 2 | 0,3 | 0 | 0 |
-| Gabi Caschili | D | 5 | 245 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 4 | 0,8 | 0 | 0 |
-| A. Martha | M | 5 | 200 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 1 | 0,2 | 0 | 0 |
-| Emirhan Demircan | F | 7 | 158 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 4 | 0,6 | 0 | 0 |
+| N. Þórisson | F | 8 | 494 | 1 | 1 | 18 | 2,2 | 7 | 0,9 | 6 | 1 | 0,1 | 1 | 1 |
+| N. Shenkman | M | 8 | 325 | 1 | 2 | 5 | 0,6 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
+| G. Caschili | D | 6 | 306 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 4 | 0,7 | 0 | 0 |
+| A. Martha | M | 6 | 277 | 1 | 1 | 6 | 1,0 | 2 | 0,3 | 6 | 3 | 0,5 | 0 | 0 |
+| Isaiah Ahmed | M | 5 | 232 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 5 | 4 | 0,8 | 1 | 0 |
+| E. Demircan | M | 8 | 228 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 3 | 5 | 0,6 | 0 | 0 |
+| R. Oudsten | D | 6 | 166 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
 | Soufiane Hetli | M | 2 | 153 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 2 | 5 | 2,5 | 0 | 0 |
 | Harrie Kuster | M | 6 | 143 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 7 | 1,2 | 1 | 0 |
-| Isaiah Ahmed | M | 4 | 142 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 1 | 1 | 0,2 | 1 | 0 |
-| R. Oudsten | D | 5 | 137 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 1,16 · córners esperados 9,9._
+_Goles esperados: local 1,51 · visitante 1,29 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 27% | 28% | 3.50 | -3% |
+| 1X2: 2 | 32% | 27% | 30% | 3.50 | +3% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 46% | 47% | 46% | 2.00 | -7% |
-| Doble oportunidad: X2 | 54% | 52% | 53% | 1.80 | -4% |
+| 1X2: 1 | 42% | 47% | 45% | 2.00 | -11% |
+| Doble oportunidad: X2 | 58% | 52% | 55% | 1.80 | -1% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 71% | 74% | 73% | 1.28 | -7% |
-| Ambos marcan: No | 46% | 39% | 42% | 2.38 | +1% |
-| Ambos marcan: Sí | 54% | 61% | 58% | 1.53 | -12% |
-| Goles más/menos: Más de 1.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles más/menos: Más de 2.5 | 51% | 58% | 55% | 1.62 | -12% |
-| Goles más/menos: Más de 3.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles más/menos: Menos de 1.5 | 25% | 21% | 23% | 4.50 | +2% |
-| Goles más/menos: Menos de 2.5 | 49% | 42% | 45% | 2.25 | +2% |
-| Goles más/menos: Menos de 3.5 | 71% | 62% | 67% | 1.50 | +0% |
-| Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 39% | 36% | 2.38 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del local: Más de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Goles del local: Más de 2.5 | 20% | 27% | 24% | 3.50 | -17% |
-| Goles del local: Menos de 1.5 | 54% | 46% | 50% | 2.00 | +0% |
-| Goles del local: Menos de 2.5 | 80% | 73% | 76% | 1.28 | -2% |
-| Goles del visitante: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles del visitante: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles del visitante: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
-| Goles del visitante: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| 1X2 descanso: 2 | 24% | 25% | 24% | 3.75 | -10% |
-| 1X2 descanso: X | 42% | 38% | 40% | 2.40 | -3% |
-| 1X2 descanso: 1 | 34% | 37% | 36% | 2.50 | -11% |
+| Doble oportunidad: 1X | 68% | 74% | 71% | 1.28 | -10% |
+| Ambos marcan: No | 43% | 39% | 41% | 2.38 | -2% |
+| Ambos marcan: Sí | 57% | 61% | 59% | 1.53 | -10% |
+| Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
+| Goles más/menos: Más de 2.5 | 53% | 58% | 56% | 1.62 | -10% |
+| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles más/menos: Más de 4.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
+| Goles más/menos: Menos de 2.5 | 47% | 42% | 44% | 2.25 | -0% |
+| Goles más/menos: Menos de 3.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles más/menos: Menos de 4.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 61% | 63% | 1.53 | -3% |
+| Goles del local: Más de 1.5 | 45% | 54% | 49% | 1.73 | -15% |
+| Goles del local: Más de 2.5 | 19% | 27% | 23% | 3.50 | -19% |
+| Goles del local: Menos de 1.5 | 55% | 46% | 51% | 2.00 | +2% |
+| Goles del local: Menos de 2.5 | 81% | 73% | 77% | 1.28 | -2% |
+| Goles del visitante: Más de 0.5 | 73% | 72% | 72% | 1.30 | -6% |
+| Goles del visitante: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
+| Goles del visitante: Menos de 0.5 | 27% | 28% | 28% | 3.40 | -6% |
+| Goles del visitante: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
+| 1X2 descanso: 2 | 26% | 25% | 25% | 3.75 | -5% |
+| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -4% |
+| 1X2 descanso: 1 | 32% | 37% | 35% | 2.50 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

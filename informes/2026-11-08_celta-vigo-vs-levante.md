@@ -1,7 +1,7 @@
 # Celta Vigo – Levante
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:51_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | Hugo Sotelo | M | 4 | 99 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,09 · córners esperados 8,7._
+_Goles esperados: local 1,12 · visitante 1,08 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 22% | 29% | 4.20 | +20% |
+| 1X2: 2 | 34% | 22% | 28% | 4.20 | +19% |
 | 1X2: X | 29% | 27% | 28% | 3.50 | -2% |
 | 1X2: 1 | 36% | 51% | 44% | 1.83 | -20% |
-| Doble oportunidad: X2 | 64% | 49% | 57% | 1.91 | +8% |
+| Doble oportunidad: X2 | 64% | 49% | 56% | 1.91 | +8% |
 | Doble oportunidad: 12 | 71% | 74% | 72% | 1.28 | -8% |
-| Doble oportunidad: 1X | 65% | 77% | 71% | 1.22 | -13% |
+| Doble oportunidad: 1X | 66% | 77% | 71% | 1.22 | -13% |
 | Ambos marcan: No | 55% | 48% | 52% | 1.95 | +1% |
 | Ambos marcan: Sí | 45% | 52% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 1.5 | 65% | 76% | 71% | 1.25 | -12% |
+| Goles más/menos: Más de 1.5 | 65% | 76% | 70% | 1.25 | -12% |
 | Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -18% |
 | Goles más/menos: Más de 3.5 | 18% | 30% | 24% | 3.20 | -23% |
-| Goles más/menos: Menos de 1.5 | 35% | 24% | 29% | 4.00 | +18% |
+| Goles más/menos: Menos de 1.5 | 35% | 24% | 30% | 4.00 | +18% |
 | Goles más/menos: Menos de 2.5 ✅ | 62% | 47% | 55% | 2.00 | +9% |
 | Goles más/menos: Menos de 3.5 | 82% | 70% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Goles del local: Más de 0.5 | 67% | 79% | 73% | 1.18 | -14% |
+| Goles del local: Más de 0.5 | 68% | 79% | 73% | 1.18 | -13% |
 | Goles del local: Más de 1.5 | 31% | 50% | 40% | 1.83 | -26% |
 | Goles del local: Más de 2.5 | 10% | 25% | 18% | 3.75 | -34% |
-| Goles del local: Menos de 0.5 | 33% | 21% | 27% | 4.50 | +20% |
+| Goles del local: Menos de 0.5 | 32% | 21% | 27% | 4.50 | +20% |
 | Goles del local: Menos de 1.5 ✅ | 69% | 50% | 60% | 1.83 | +9% |
 | Goles del local: Menos de 2.5 | 90% | 75% | 82% | 1.25 | +3% |
-| Goles del visitante: Más de 0.5 | 66% | 65% | 66% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles del visitante: Menos de 0.5 | 34% | 35% | 34% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
+| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 29% | 28% | 29% | 3.40 | -3% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Menos de 1.5 | 71% | 72% | 71% | 1.30 | -7% |
 | 1X2 descanso: 2 | 26% | 21% | 23% | 4.50 | +4% |
 | 1X2 descanso: X | 48% | 41% | 44% | 2.25 | -0% |
 | 1X2 descanso: 1 | 27% | 38% | 33% | 2.40 | -22% |

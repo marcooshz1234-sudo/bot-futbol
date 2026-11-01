@@ -1,7 +1,7 @@
 # Charlton – Bolton
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -170,7 +170,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Luca Stephenson | D | 3 | 272 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,33 · córners esperados 10,1._
+_Goles esperados: local 1,35 · visitante 1,34 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

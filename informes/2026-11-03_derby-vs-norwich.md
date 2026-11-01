@@ -1,7 +1,7 @@
 # Derby – Norwich
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Pride Park Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -183,7 +183,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | S. Field | M | 8 | 339 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 5 | 7 | 0,9 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,91 · córners esperados 9,4._
+_Goles esperados: local 1,23 · visitante 1,91 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -200,13 +200,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 61% | 55% | 58% | 1.73 | -0% |
 | Goles más/menos: Más de 3.5 | 38% | 34% | 36% | 2.75 | -0% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -13% |
+| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
 | Goles más/menos: Menos de 2.5 | 39% | 45% | 42% | 2.10 | -11% |
 | Goles más/menos: Menos de 3.5 | 62% | 66% | 64% | 1.44 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 27% | 3.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles del local: Más de 1.5 | 35% | 38% | 36% | 2.50 | -10% |
 | Goles del local: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |

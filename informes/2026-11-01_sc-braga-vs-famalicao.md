@@ -1,7 +1,7 @@
 # SC Braga – Famalicao
 **Primeira Liga** · Regular Season - 10 · 01/11/2026 21:30 (hora España) · Estádio Municipal de Braga
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -203,14 +203,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 68% | 55% | 61% | 1.70 | +4% |
 | Ambos marcan: Sí | 32% | 45% | 39% | 2.05 | -21% |
 | Goles más/menos: Más de 1.5 | 59% | 71% | 65% | 1.33 | -14% |
-| Goles más/menos: Más de 2.5 | 31% | 45% | 38% | 2.08 | -20% |
+| Goles más/menos: Más de 2.5 | 32% | 45% | 38% | 2.08 | -20% |
 | Goles más/menos: Más de 3.5 | 14% | 25% | 19% | 3.75 | -27% |
-| Goles más/menos: Menos de 1.5 | 41% | 29% | 35% | 3.25 | +15% |
-| Goles más/menos: Menos de 2.5 | 69% | 55% | 62% | 1.73 | +6% |
+| Goles más/menos: Menos de 1.5 | 41% | 29% | 35% | 3.25 | +14% |
+| Goles más/menos: Menos de 2.5 | 68% | 55% | 62% | 1.73 | +6% |
 | Goles más/menos: Menos de 3.5 | 86% | 75% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 57% | 65% | 61% | 1.44 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 35% | 39% | 2.62 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
 | Goles del local: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
 | Goles del local: Más de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
@@ -218,9 +218,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
 | Goles del local: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
 | Goles del local: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles del visitante: Más de 0.5 | 42% | 56% | 49% | 1.67 | -18% |
+| Goles del visitante: Más de 0.5 | 43% | 56% | 49% | 1.67 | -18% |
 | Goles del visitante: Más de 1.5 | 11% | 22% | 16% | 4.33 | -30% |
-| Goles del visitante: Menos de 0.5 | 58% | 44% | 51% | 2.10 | +7% |
+| Goles del visitante: Menos de 0.5 | 57% | 44% | 51% | 2.10 | +7% |
 | Goles del visitante: Menos de 1.5 | 89% | 78% | 84% | 1.20 | +1% |
 | Córners más/menos: Más de 8.5 | 51% | 56% | 53% | 1.67 | -11% |
 | Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -10% |

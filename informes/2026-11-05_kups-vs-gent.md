@@ -1,7 +1,7 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -205,7 +205,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 12% | 28% | 20% | 3.40 | -33% |
 | Goles del visitante: Menos de 1.5 | 67% | 46% | 57% | 2.00 | +13% |
 | Goles del visitante: Menos de 2.5 | 88% | 72% | 80% | 1.30 | +4% |
-| 1X2 descanso: 2 | 34% | 41% | 38% | 2.25 | -15% |
+| 1X2 descanso: 2 | 35% | 41% | 38% | 2.25 | -15% |
 | 1X2 descanso: X | 54% | 40% | 47% | 2.30 | +8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

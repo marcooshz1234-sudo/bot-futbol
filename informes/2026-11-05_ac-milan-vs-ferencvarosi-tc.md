@@ -1,7 +1,7 @@
 # AC Milan – Ferencvarosi TC
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -177,41 +177,41 @@ _Sin precedentes recientes._
 | P. Rommens | M | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,11 · visitante 1,21 · córners esperados 9,3._
+_Goles esperados: local 1,08 · visitante 1,23 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 12% | 25% | 7.50 | +90% |
+| 1X2: 2 | 39% | 12% | 26% | 7.50 | +94% |
 | 1X2: X | 28% | 18% | 23% | 5.25 | +20% |
-| 1X2: 1 | 34% | 70% | 52% | 1.33 | -31% |
-| Doble oportunidad: X2 | 66% | 30% | 48% | 3.25 | +56% |
+| 1X2: 1 | 32% | 70% | 51% | 1.33 | -32% |
+| Doble oportunidad: X2 | 68% | 30% | 49% | 3.25 | +58% |
 | Doble oportunidad: 12 | 72% | 83% | 77% | 1.17 | -10% |
-| Doble oportunidad: 1X | 62% | 88% | 75% | 1.10 | -18% |
-| Ambos marcan: No | 53% | 50% | 51% | 1.91 | -2% |
-| Ambos marcan: Sí | 47% | 50% | 49% | 1.91 | -7% |
-| Goles más/menos: Más de 2.5 | 41% | 62% | 52% | 1.53 | -21% |
-| Goles más/menos: Más de 3.5 | 21% | 40% | 30% | 2.38 | -28% |
+| Doble oportunidad: 1X | 61% | 88% | 74% | 1.10 | -18% |
+| Ambos marcan: No | 53% | 50% | 52% | 1.91 | -1% |
+| Ambos marcan: Sí | 47% | 50% | 48% | 1.91 | -8% |
+| Goles más/menos: Más de 2.5 | 41% | 62% | 51% | 1.53 | -21% |
+| Goles más/menos: Más de 3.5 | 20% | 40% | 30% | 2.38 | -29% |
 | Goles más/menos: Más de 4.5 | 9% | 24% | 16% | 4.00 | -35% |
-| Goles más/menos: Menos de 2.5 | 59% | 38% | 48% | 2.50 | +21% |
-| Goles más/menos: Menos de 3.5 | 79% | 60% | 70% | 1.57 | +10% |
+| Goles más/menos: Menos de 2.5 | 59% | 38% | 49% | 2.50 | +22% |
+| Goles más/menos: Menos de 3.5 | 80% | 60% | 70% | 1.57 | +10% |
 | Goles más/menos: Menos de 4.5 | 91% | 76% | 84% | 1.25 | +5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 75% | 69% | 1.25 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 63% | 75% | 69% | 1.25 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 42% | 35% | 2.20 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 25% | 31% | 3.75 | +15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 25% | 31% | 3.75 | +15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 58% | 65% | 1.62 | +6% |
-| Goles del local: Más de 1.5 | 31% | 69% | 50% | 1.36 | -32% |
-| Goles del local: Más de 2.5 | 10% | 42% | 26% | 2.20 | -42% |
-| Goles del local: Más de 3.5 | 3% | 23% | 13% | 4.00 | -48% |
-| Goles del local: Menos de 1.5 | 69% | 31% | 50% | 3.00 | +51% |
-| Goles del local: Menos de 2.5 | 90% | 58% | 74% | 1.62 | +19% |
-| Goles del local: Menos de 3.5 | 97% | 77% | 87% | 1.22 | +6% |
-| Goles del visitante: Más de 0.5 | 70% | 56% | 63% | 1.67 | +5% |
-| Goles del visitante: Más de 1.5 | 34% | 22% | 28% | 4.33 | +21% |
-| Goles del visitante: Menos de 0.5 | 30% | 44% | 37% | 2.10 | -22% |
-| Goles del visitante: Menos de 1.5 | 66% | 78% | 72% | 1.20 | -14% |
+| Goles del local: Más de 1.5 | 29% | 69% | 49% | 1.36 | -33% |
+| Goles del local: Más de 2.5 | 10% | 42% | 26% | 2.20 | -43% |
+| Goles del local: Más de 3.5 | 2% | 23% | 13% | 4.00 | -48% |
+| Goles del local: Menos de 1.5 | 71% | 31% | 51% | 3.00 | +53% |
+| Goles del local: Menos de 2.5 | 90% | 58% | 74% | 1.62 | +20% |
+| Goles del local: Menos de 3.5 | 98% | 77% | 87% | 1.22 | +6% |
+| Goles del visitante: Más de 0.5 | 71% | 56% | 63% | 1.67 | +6% |
+| Goles del visitante: Más de 1.5 | 35% | 22% | 28% | 4.33 | +22% |
+| Goles del visitante: Menos de 0.5 | 29% | 44% | 37% | 2.10 | -23% |
+| Goles del visitante: Menos de 1.5 | 65% | 78% | 72% | 1.20 | -14% |
 | 1X2 descanso: X | 46% | 35% | 41% | 2.62 | +6% |
-| 1X2 descanso: 1 | 25% | 53% | 39% | 1.73 | -32% |
+| 1X2 descanso: 1 | 25% | 53% | 39% | 1.73 | -33% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Birmingham – Millwall
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -186,10 +186,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 70% | 76% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 1.5 | 79% | 76% | 77% | 1.25 | -3% |
+| Goles más/menos: Más de 1.5 | 79% | 76% | 78% | 1.25 | -3% |
 | Goles más/menos: Más de 2.5 | 56% | 53% | 54% | 1.80 | -2% |
 | Goles más/menos: Más de 3.5 | 33% | 32% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 1.5 | 21% | 24% | 23% | 4.00 | -10% |
+| Goles más/menos: Menos de 1.5 | 21% | 24% | 22% | 4.00 | -10% |
 | Goles más/menos: Menos de 2.5 | 44% | 47% | 46% | 2.00 | -8% |
 | Goles más/menos: Menos de 3.5 | 67% | 68% | 67% | 1.40 | -6% |
 | Goles del local: Más de 1.5 | 49% | 50% | 49% | 1.83 | -10% |

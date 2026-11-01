@@ -1,49 +1,71 @@
 # Napoli – Lazio
 **Serie A** · Regular Season - 11 · 08/11/2026 12:30 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 19:49_
+
+- **1X2:** 1 **1.91**  ·  X **3.50**  ·  2 **3.70**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.20** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.25**  ·  2 **4.00**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.53**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **5.50**
+- **Win Both Halves:** 1 **6.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **12.00**  ·  Away/No **7.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Home Player Shots On Target Total:** Rasmus Hojlund - 1 **1.36**  ·  Scott McTominay - 1 **1.50**  ·  Giovane Nascimento - 1 **1.44**  ·  Lorenzo Lucca - 1 **1.44**  ·  Matteo Politano - 1 **1.62**  ·  Noa Lang - 1 **1.50**  ·  David Neres - 1 **1.57**  ·  Antonio Vergara - 1 **1.57**  ·  Kevin De Bruyne - 1 **1.67**  ·  Andre-Franck Anguissa - 1 **2.10**  ·  Giovanni Di Lorenzo - 1 **3.00**  ·  Billy Gilmour - 1 **3.25**  ·  Leonardo Spinazzola - 1 **3.25**  ·  Amir Rrahmani - 1 **3.25**  ·  Costantino Favasuli - 1 **3.50**  ·  Stanislav Lobotka - 1 **3.50**  ·  Mathias Olivera - 1 **5.50**  ·  Sam Beukema - 1 **5.00**  ·  Rafa Marin - 1 **6.00**  ·  Rasmus Hojlund - 2 **2.62**  ·  Scott McTominay - 2 **3.40**  ·  Giovane Nascimento - 2 **3.25**  ·  Lorenzo Lucca - 2 **3.25**  ·  Matteo Politano - 2 **4.00**  ·  Noa Lang - 2 **3.40**  ·  David Neres - 2 **3.75**  ·  Antonio Vergara - 2 **3.75**  ·  Kevin De Bruyne - 2 **4.33**  ·  Andre-Franck Anguissa - 2 **7.00**  ·  Giovanni Di Lorenzo - 2 **13.00**  ·  Billy Gilmour - 2 **15.00**  ·  Leonardo Spinazzola - 2 **15.00**  ·  Amir Rrahmani - 2 **15.00**  ·  Costantino Favasuli - 2 **19.00**  ·  Stanislav Lobotka - 2 **19.00**  ·  Rasmus Hojlund - 3 **7.00**  ·  Scott McTominay - 3 **10.00**  ·  Giovane Nascimento - 3 **9.00**  ·  Lorenzo Lucca - 3 **9.00**  ·  Matteo Politano - 3 **13.00**  ·  Noa Lang - 3 **10.00**  ·  David Neres - 3 **11.00**  ·  Antonio Vergara - 3 **11.00**  ·  Kevin De Bruyne - 3 **15.00**  ·  Andre-Franck Anguissa - 3 **21.00**  ·  Rasmus Hojlund - 4 **19.00**  ·  Scott McTominay - 4 **21.00**  ·  Giovane Nascimento - 4 **21.00**  ·  Lorenzo Lucca - 4 **21.00**  ·  Noa Lang - 4 **21.00**  ·  Benoit Badiashile - 1 **3.50**  ·  Benoit Badiashile - 2 **19.00**  ·  Milton Pereyra - 1 **1.36**  ·  Luca Marianucci - 1 **3.25**  ·  Milton Pereyra - 2 **2.62**  ·  Luca Marianucci - 2 **17.00**  ·  Milton Pereyra - 3 **6.50**  ·  Milton Pereyra - 4 **19.00**
+- **Home Player Shots:** Rasmus Hojlund - 1 **1.02**  ·  Scott McTominay - 1 **1.02**  ·  Giovane Nascimento - 1 **1.04**  ·  Lorenzo Lucca - 1 **1.04**  ·  Matteo Politano - 1 **1.04**  ·  Noa Lang - 1 **1.02**  ·  David Neres - 1 **1.05**  ·  Antonio Vergara - 1 **1.07**  ·  Kevin De Bruyne - 1 **1.07**  ·  Andre-Franck Anguissa - 1 **1.12**  ·  Giovanni Di Lorenzo - 1 **1.40**  ·  Billy Gilmour - 1 **1.44**  ·  Leonardo Spinazzola - 1 **1.53**  ·  Amir Rrahmani - 1 **1.53**  ·  Costantino Favasuli - 1 **1.73**  ·  Stanislav Lobotka - 1 **1.73**  ·  Mathias Olivera - 1 **2.00**  ·  Sam Beukema - 1 **1.91**  ·  Rafa Marin - 1 **2.25**  ·  Rasmus Hojlund - 2 **1.17**  ·  Scott McTominay - 2 **1.17**  ·  Giovane Nascimento - 2 **1.25**  ·  Lorenzo Lucca - 2 **1.25**  ·  Matteo Politano - 2 **1.25**  ·  Noa Lang - 2 **1.14**  ·  David Neres - 2 **1.28**  ·  Antonio Vergara - 2 **1.36**  ·  Kevin De Bruyne - 2 **1.36**  ·  Andre-Franck Anguissa - 2 **1.62**  ·  Giovanni Di Lorenzo - 2 **2.62**  ·  Billy Gilmour - 2 **3.00**  ·  Leonardo Spinazzola - 2 **3.40**  ·  Amir Rrahmani - 2 **3.40**  ·  Costantino Favasuli - 2 **4.00**  ·  Stanislav Lobotka - 2 **4.33**  ·  Mathias Olivera - 2 **6.00**  ·  Sam Beukema - 2 **5.50**  ·  Rafa Marin - 2 **8.00**  ·  Rasmus Hojlund - 3 **1.50**  ·  Scott McTominay - 3 **1.53**  ·  Giovane Nascimento - 3 **1.73**  ·  Lorenzo Lucca - 3 **1.73**  ·  Matteo Politano - 3 **1.73**  ·  Noa Lang - 3 **1.44**  ·  David Neres - 3 **1.80**  ·  Antonio Vergara - 3 **2.00**  ·  Kevin De Bruyne - 3 **2.00**  ·  Andre-Franck Anguissa - 3 **2.75**  ·  Giovanni Di Lorenzo - 3 **6.00**  ·  Billy Gilmour - 3 **8.00**  ·  Leonardo Spinazzola - 3 **9.00**  ·  Amir Rrahmani - 3 **9.00**  ·  Costantino Favasuli - 3 **13.00**  ·  Stanislav Lobotka - 3 **13.00**  ·  Mathias Olivera - 3 **19.00**  ·  Sam Beukema - 3 **17.00**  ·  Rafa Marin - 3 **21.00**  ·  Rasmus Hojlund - 4 **2.20**  ·  Scott McTominay - 4 **2.20**  ·  Giovane Nascimento - 4 **2.75**  ·  Lorenzo Lucca - 4 **2.75**  ·  Matteo Politano - 4 **2.62**  ·  Noa Lang - 4 **2.00**  ·  David Neres - 4 **3.00**  ·  Antonio Vergara - 4 **3.50**  ·  Kevin De Bruyne - 4 **3.50**  ·  Andre-Franck Anguissa - 4 **5.50**  ·  Giovanni Di Lorenzo - 4 **15.00**  ·  Billy Gilmour - 4 **19.00**  ·  Rasmus Hojlund - 5 **3.75**  ·  Scott McTominay - 5 **3.75**  ·  Giovane Nascimento - 5 **5.00**  ·  Lorenzo Lucca - 5 **5.00**  ·  Matteo Politano - 5 **4.50**  ·  Noa Lang - 5 **3.40**  ·  David Neres - 5 **5.50**  ·  Antonio Vergara - 5 **7.00**  ·  Kevin De Bruyne - 5 **6.50**  ·  Andre-Franck Anguissa - 5 **11.00**  ·  Rasmus Hojlund - 6 **6.50**  ·  Scott McTominay - 6 **6.50**  ·  Giovane Nascimento - 6 **10.00**  ·  Lorenzo Lucca - 6 **10.00**  ·  Matteo Politano - 6 **9.00**  ·  Noa Lang - 6 **5.50**  ·  David Neres - 6 **11.00**  ·  Antonio Vergara - 6 **15.00**  ·  Kevin De Bruyne - 6 **13.00**  ·  Rasmus Hojlund - 7 **13.00**  ·  Scott McTominay - 7 **13.00**  ·  Amir Rrahmani - 4 **21.00**  ·  Leonardo Spinazzola - 4 **21.00**  ·  Benoit Badiashile - 1 **1.73**  ·  Benoit Badiashile - 2 **4.00**  ·  Lorenzo Lucca - 7 **19.00**  ·  Benoit Badiashile - 3 **13.00**  ·  Andre-Franck Anguissa - 6 **21.00**  ·  Noa Lang - 7 **11.00**  ·  Giovane Nascimento - 7 **19.00**  ·  Matteo Politano - 7 **19.00**  ·  David Neres - 7 **21.00**  ·  Kevin De Bruyne - 7 **21.00**  ·  Noa Lang - 8 **19.00**  ·  Rasmus Hojlund - 8 **21.00**  ·  Antonio Vergara - 7 **21.00**  ·  Milton Pereyra - 1 **1.03**  ·  Luca Marianucci - 1 **1.57**  ·  Milton Pereyra - 2 **1.18**  ·  Luca Marianucci - 2 **3.50**  ·  Milton Pereyra - 3 **1.57**  ·  Luca Marianucci - 3 **10.00**  ·  Milton Pereyra - 4 **2.38**  ·  Luca Marianucci - 4 **21.00**  ·  Milton Pereyra - 5 **4.00**  ·  Milton Pereyra - 6 **7.00**  ·  Milton Pereyra - 7 **15.00**  ·  Milton Pereyra - 8 **21.00**  ·  Scott McTominay - 8 **21.00**
+- **Away Player Shots:** Tijjani Noslin - 1 **1.03**  ·  Matteo Cancellieri - 1 **1.07**  ·  Federico Serra - 1 **1.14**  ·  Kenneth Taylor - 1 **1.14**  ·  Mattia Zaccagni - 1 **1.14**  ·  Adrian Przyborek - 1 **1.25**  ·  Davide Frattesi - 1 **1.17**  ·  Fisayo Dele-Bashiru - 1 **1.25**  ·  Danilho Doekhi - 1 **1.33**  ·  Nuno Tavares - 1 **1.36**  ·  Danilo Cataldi - 1 **1.57**  ·  Romano Floriani - 1 **1.80**  ·  Manuel Lazzari - 1 **2.20**  ·  Reda Belahyane - 1 **1.83**  ·  Alfonso Pedraza - 1 **2.25**  ·  Luca Pellegrini - 1 **2.00**  ·  Oliver Provstgaard - 1 **2.20**  ·  Filipe Bordon - 1 **2.25**  ·  Josip Sutalo - 1 **2.25**  ·  Tijjani Noslin - 2 **1.18**  ·  Matteo Cancellieri - 2 **1.36**  ·  Federico Serra - 2 **1.62**  ·  Kenneth Taylor - 2 **1.67**  ·  Mattia Zaccagni - 2 **1.62**  ·  Adrian Przyborek - 2 **2.10**  ·  Davide Frattesi - 2 **1.73**  ·  Fisayo Dele-Bashiru - 2 **2.10**  ·  Danilho Doekhi - 2 **2.50**  ·  Nuno Tavares - 2 **2.50**  ·  Danilo Cataldi - 2 **3.50**  ·  Romano Floriani - 2 **4.50**  ·  Manuel Lazzari - 2 **6.50**  ·  Reda Belahyane - 2 **5.00**  ·  Alfonso Pedraza - 2 **8.00**  ·  Luca Pellegrini - 2 **6.00**  ·  Oliver Provstgaard - 2 **6.50**  ·  Filipe Bordon - 2 **8.00**  ·  Josip Sutalo - 2 **8.00**  ·  Tijjani Noslin - 3 **1.57**  ·  Matteo Cancellieri - 3 **2.10**  ·  Federico Serra - 3 **2.75**  ·  Kenneth Taylor - 3 **2.75**  ·  Mattia Zaccagni - 3 **2.75**  ·  Adrian Przyborek - 3 **4.33**  ·  Davide Frattesi - 3 **3.25**  ·  Fisayo Dele-Bashiru - 3 **4.33**  ·  Danilho Doekhi - 3 **5.50**  ·  Nuno Tavares - 3 **6.00**  ·  Danilo Cataldi - 3 **10.00**  ·  Romano Floriani - 3 **13.00**  ·  Manuel Lazzari - 3 **21.00**  ·  Reda Belahyane - 3 **15.00**  ·  Alfonso Pedraza - 3 **21.00**  ·  Luca Pellegrini - 3 **19.00**  ·  Oliver Provstgaard - 3 **21.00**  ·  Filipe Bordon - 3 **21.00**  ·  Josip Sutalo - 3 **21.00**  ·  Tijjani Noslin - 4 **2.25**  ·  Matteo Cancellieri - 4 **3.50**  ·  Federico Serra - 4 **5.50**  ·  Kenneth Taylor - 4 **6.00**  ·  Mattia Zaccagni - 4 **5.50**  ·  Adrian Przyborek - 4 **10.00**  ·  Davide Frattesi - 4 **6.50**  ·  Fisayo Dele-Bashiru - 4 **10.00**  ·  Danilho Doekhi - 4 **15.00**  ·  Nuno Tavares - 4 **15.00**  ·  Danilo Cataldi - 4 **21.00**  ·  Tijjani Noslin - 5 **3.75**  ·  Matteo Cancellieri - 5 **7.00**  ·  Federico Serra - 5 **13.00**  ·  Kenneth Taylor - 5 **13.00**  ·  Mattia Zaccagni - 5 **13.00**  ·  Adrian Przyborek - 5 **21.00**  ·  Davide Frattesi - 5 **15.00**  ·  Fisayo Dele-Bashiru - 5 **21.00**  ·  Tijjani Noslin - 6 **7.00**  ·  Matteo Cancellieri - 6 **15.00**  ·  Federico Serra - 6 **21.00**  ·  Kenneth Taylor - 6 **21.00**  ·  Mattia Zaccagni - 6 **21.00**  ·  Tijjani Noslin - 7 **13.00**  ·  Matteo Cancellieri - 7 **21.00**  ·  Tijjani Noslin - 8 **21.00**  ·  Albert Gudmundsson - 1 **1.11**  ·  Albert Gudmundsson - 2 **1.50**  ·  Albert Gudmundsson - 3 **2.50**  ·  Albert Gudmundsson - 4 **4.50**  ·  Albert Gudmundsson - 5 **10.00**  ·  Albert Gudmundsson - 6 **19.00**  ·  Andrea Pinamonti - 1 **1.05**  ·  Andrea Pinamonti - 2 **1.28**  ·  Andrea Pinamonti - 3 **1.83**  ·  Andrea Pinamonti - 4 **3.00**  ·  Andrea Pinamonti - 5 **5.50**  ·  Andrea Pinamonti - 6 **11.00**  ·  Andrea Pinamonti - 7 **21.00**  ·  Gustav Isaksen - 1 **1.05**  ·  Gustav Isaksen - 2 **1.25**  ·  Gustav Isaksen - 3 **1.80**  ·  Gustav Isaksen - 4 **2.75**  ·  Gustav Isaksen - 5 **5.00**  ·  Gustav Isaksen - 6 **10.00**  ·  Gustav Isaksen - 7 **19.00**  ·  Diogo Leite - 1 **1.83**  ·  Diogo Leite - 2 **5.00**  ·  Diogo Leite - 3 **15.00**
+- **Player to Score or Assist:** Rasmus Hojlund **2.20**  ·  Scott McTominay **2.38**  ·  Kevin De Bruyne **1.95**  ·  Giovane Nascimento **2.30**  ·  Gustav Isaksen **2.88**  ·  Mattia Zaccagni **3.10**
 
 ## Estadísticas de equipo
 | | Napoli (total) | Napoli en casa | Lazio (total) | Lazio fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 10 | 5 |
+| Partidos analizados | 12 | 6 | 11 | 5 |
 | Forma (últimos 5) | VEVDD | EVVVD | VVVVV | VVVVV |
-| Balance | 5V 2E 5D | 3V 1E 2D | 8V 1E 1D | 5V 0E 0D |
-| Goles a favor / partido | 1,83 | 2,00 | 2,20 | 2,80 |
-| Goles en contra / partido | 1,50 | 1,50 | 0,90 | 0,60 |
+| Balance | 5V 2E 5D | 3V 1E 2D | 9V 1E 1D | 5V 0E 0D |
+| Goles a favor / partido | 1,83 | 2,00 | 2,18 | 2,80 |
+| Goles en contra / partido | 1,50 | 1,50 | 0,91 | 0,60 |
 | Goles a favor 1ª parte | 0,75 | 1,00 | 1,00 | 1,00 |
-| Goles a favor 2ª parte | 1,08 | 1,00 | 1,20 | 1,80 |
-| Goles en contra 1ª parte | 0,50 | 0,50 | 0,20 | 0,40 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 0,70 | 0,20 |
-| Más de 1,5 goles | 75% | 67% | 80% | 80% |
-| Más de 2,5 goles | 58% | 67% | 60% | 60% |
-| Más de 3,5 goles | 42% | 33% | 30% | 20% |
-| Ambos marcan | 58% | 50% | 50% | 40% |
-| Portería a cero | 25% | 33% | 40% | 60% |
-| Se queda sin marcar | 17% | 17% | 10% | 0% |
-| xG a favor | 1,67 | 1,65 | 1,72 | 1,64 |
+| Goles a favor 2ª parte | 1,08 | 1,00 | 1,18 | 1,80 |
+| Goles en contra 1ª parte | 0,50 | 0,50 | 0,27 | 0,40 |
+| Goles en contra 2ª parte | 1,00 | 1,00 | 0,64 | 0,20 |
+| Más de 1,5 goles | 75% | 67% | 82% | 80% |
+| Más de 2,5 goles | 58% | 67% | 64% | 60% |
+| Más de 3,5 goles | 42% | 33% | 27% | 20% |
+| Ambos marcan | 58% | 50% | 55% | 40% |
+| Portería a cero | 25% | 33% | 36% | 60% |
+| Se queda sin marcar | 17% | 17% | 9% | 0% |
+| xG a favor | 1,67 | 1,65 | 1,65 | 1,64 |
 | xG en contra | 1,64 | 1,83 | 1,15 | 1,21 |
-| Tiros / partido | 15,1 | 13,8 | 14,8 | 13,2 |
+| Tiros / partido | 15,1 | 13,8 | 14,5 | 13,2 |
 | Tiros a puerta / partido | 5,8 | 5,5 | 4,5 | 4,4 |
-| Tiros recibidos | 16,8 | 18,0 | 11,9 | 11,8 |
-| Tiros a puerta recibidos | 4,5 | 4,5 | 4,5 | 4,0 |
-| Posesión media % | 51 | 46 | 54 | 50 |
-| Córners a favor | 4,6 | 3,7 | 5,2 | 4,8 |
-| Córners en contra | 4,8 | 5,5 | 4,3 | 4,8 |
-| Córners a favor 1ª parte | 2,2 | 1,5 | 2,0 | 1,8 |
-| Córners a favor 2ª parte | 2,4 | 2,2 | 3,2 | 3,0 |
-| Córners totales del partido | 9,4 | 9,2 | 9,5 | 9,6 |
-| Córners totales 1ª parte | 4,6 | 4,2 | 4,7 | 4,6 |
-| Córners totales 2ª parte | 4,8 | 5,0 | 4,8 | 5,0 |
-| Más de 8,5 córners | 67% | 67% | 70% | 80% |
-| Más de 9,5 córners | 50% | 50% | 60% | 60% |
-| Más de 10,5 córners | 25% | 17% | 40% | 40% |
-| Faltas cometidas | 9,0 | 9,5 | 11,8 | 11,2 |
-| Faltas recibidas | 9,2 | 9,0 | 11,3 | 11,8 |
-| Amarillas propias | 1,2 | 1,5 | 1,8 | 1,6 |
+| Tiros recibidos | 16,8 | 18,0 | 11,6 | 11,8 |
+| Tiros a puerta recibidos | 4,5 | 4,5 | 4,4 | 4,0 |
+| Posesión media % | 51 | 46 | 55 | 50 |
+| Córners a favor | 4,6 | 3,7 | 4,9 | 4,8 |
+| Córners en contra | 4,8 | 5,5 | 4,1 | 4,8 |
+| Córners a favor 1ª parte | 2,2 | 1,5 | 1,8 | 1,8 |
+| Córners a favor 2ª parte | 2,4 | 2,2 | 3,1 | 3,0 |
+| Córners totales del partido | 9,4 | 9,2 | 9,0 | 9,6 |
+| Córners totales 1ª parte | 4,6 | 4,2 | 4,3 | 4,6 |
+| Córners totales 2ª parte | 4,8 | 5,0 | 4,7 | 5,0 |
+| Más de 8,5 córners | 67% | 67% | 64% | 80% |
+| Más de 9,5 córners | 50% | 50% | 55% | 60% |
+| Más de 10,5 córners | 25% | 17% | 36% | 40% |
+| Faltas cometidas | 9,0 | 9,5 | 11,4 | 11,2 |
+| Faltas recibidas | 9,2 | 9,0 | 11,9 | 11,8 |
+| Amarillas propias | 1,2 | 1,5 | 1,7 | 1,6 |
 | Amarillas del rival | 1,6 | 1,0 | 2,4 | 3,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
@@ -51,11 +73,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Napoli | Recibe Napoli | Tarjetas Napoli | Goles Lazio | Recibe Lazio | Tarjetas Lazio |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 4 | 1 | 0 |
-| 16-30' | 4 | 4 | 0 | 3 | 0 | 5 |
-| 31-45' | 2 | 2 | 3 | 3 | 1 | 4 |
+| 16-30' | 4 | 4 | 0 | 3 | 1 | 5 |
+| 31-45' | 2 | 2 | 3 | 4 | 1 | 4 |
 | 46-60' | 4 | 3 | 4 | 6 | 2 | 3 |
 | 61-75' | 4 | 4 | 1 | 3 | 3 | 2 |
-| 76-90' | 5 | 5 | 7 | 3 | 2 | 4 |
+| 76-90' | 5 | 5 | 7 | 4 | 2 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -108,38 +130,55 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lazio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Serie A | Lazio 2-1 Cagliari | casa | 2-2 | 11 (4) - 9 (3) | 1-2 |
 | 2026-10-27 | Serie A | Sassuolo 2-6 Lazio | fuera | 1-2 | 16 (8) - 9 (1) | 1-1 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | casa | 8-3 | 21 (5) - 10 (4) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | fuera | 7-5 | 9 (3) - 9 (2) | 2-0 |
 | 2026-10-11 | Serie A | Lazio 3-1 Monza | casa | 7-6 | 17 (7) - 14 (6) | 3-1 |
 | 2026-09-19 | Serie A | Venezia 0-2 Lazio | fuera | 2-7 | 12 (2) - 17 (6) | 0-6 |
-| 2026-09-12 | Serie A | Lazio 2-2 AC Milan | casa | 2-5 | 8 (6) - 16 (7) | 2-3 |
 
 ## Jugadores de Lazio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Mandas | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| M. Zaccagni | F | 10 | 879 | 2 | 5 | 23 | 2,3 | 11 | 1,1 | 7 | 20 | 2,0 | 3 | 0 |
-| K. Taylor | M | 10 | 786 | 2 | 1 | 9 | 0,9 | 5 | 0,5 | 8 | 12 | 1,2 | 2 | 0 |
-| D. Frattesi | M | 10 | 735 | 3 | 0 | 10 | 1,0 | 4 | 0,4 | 10 | 12 | 1,2 | 0 | 0 |
-| R. Floriani Mussolini | D | 9 | 735 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 12 | 1 | 0,1 | 1 | 0 |
-| O. Provstgaard | D | 9 | 735 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 15 | 1 | 0,1 | 3 | 0 |
-| R. Belahyane | M | 9 | 694 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
-| Nuno Tavares | D | 9 | 657 | 1 | 3 | 8 | 0,9 | 3 | 0,3 | 7 | 9 | 1,0 | 0 | 0 |
-| T. Noslin | F | 9 | 499 | 4 | 2 | 13 | 1,4 | 6 | 0,7 | 3 | 5 | 0,6 | 0 | 0 |
-| J. Šutalo | D | 6 | 474 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
-| G. Isaksen | F | 9 | 469 | 3 | 1 | 14 | 1,6 | 3 | 0,3 | 7 | 12 | 1,3 | 1 | 0 |
+| C. Mandas | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| M. Zaccagni | F | 11 | 934 | 2 | 5 | 24 | 2,2 | 12 | 1,1 | 8 | 22 | 2,0 | 3 | 0 |
+| K. Taylor | M | 11 | 876 | 2 | 1 | 10 | 0,9 | 5 | 0,5 | 10 | 13 | 1,2 | 2 | 0 |
+| R. Floriani Mussolini | D | 10 | 825 | 1 | 0 | 7 | 0,7 | 2 | 0,2 | 13 | 3 | 0,3 | 1 | 0 |
+| O. Provstgaard | D | 10 | 811 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 16 | 1 | 0,1 | 3 | 0 |
+| D. Frattesi | M | 11 | 790 | 3 | 0 | 11 | 1,0 | 5 | 0,5 | 10 | 12 | 1,1 | 0 | 0 |
+| R. Belahyane | M | 10 | 775 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
+| Nuno Tavares | D | 10 | 712 | 1 | 3 | 8 | 0,8 | 3 | 0,3 | 7 | 10 | 1,0 | 0 | 0 |
+| T. Noslin | F | 10 | 589 | 4 | 3 | 14 | 1,4 | 6 | 0,6 | 4 | 5 | 0,5 | 0 | 0 |
+| J. Šutalo | D | 7 | 564 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
+| G. Isaksen | F | 10 | 559 | 4 | 1 | 17 | 1,7 | 4 | 0,4 | 7 | 20 | 2,0 | 1 | 0 |
 | Danilho Doekhi | D | 5 | 413 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 7 | 3 | 0,6 | 1 | 0 |
 | M. Cancellieri | F | 7 | 399 | 1 | 0 | 12 | 1,7 | 3 | 0,4 | 8 | 9 | 1,3 | 2 | 0 |
-| Pedraza | D | 9 | 242 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
-| F. Dele-Bashiru | M | 6 | 240 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 1 | 3 | 0,5 | 1 | 0 |
+| Pedraza | D | 10 | 277 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,3 | 0 | 0 |
+| F. Dele-Bashiru | M | 7 | 275 | 1 | 1 | 6 | 0,9 | 2 | 0,3 | 1 | 5 | 0,7 | 1 | 0 |
 | Boulaye Dia | F | 3 | 230 | 0 | 1 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
 | Nicolò Rovella | M | 3 | 206 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
-| Diogo Leite | D | 4 | 183 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,5 | 1 | 0 |
-| A. Pinamonti | F | 7 | 163 | 1 | 1 | 3 | 0,4 | 1 | 0,1 | 5 | 2 | 0,3 | 0 | 0 |
+| A. Pinamonti | F | 8 | 198 | 2 | 1 | 4 | 0,5 | 2 | 0,2 | 5 | 2 | 0,2 | 1 | 0 |
+| Diogo Leite | D | 5 | 197 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,4 | 1 | 0 |
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,44 · córners esperados 9,5._
+_Goles esperados: local 1,63 · visitante 1,41 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 33% | 25% | 29% | 3.70 | +8% |
+| 1X2: X | 24% | 26% | 25% | 3.50 | -12% |
+| 1X2: 1 | 43% | 48% | 46% | 1.91 | -13% |
+| Ambos marcan: No | 39% | 45% | 42% | 2.05 | -13% |
+| Ambos marcan: Sí | 61% | 55% | 58% | 1.70 | -2% |
+| Goles más/menos: Más de 1.5 | 81% | 76% | 78% | 1.25 | -2% |
+| Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
+| Goles más/menos: Más de 3.5 | 36% | 30% | 33% | 3.20 | +5% |
+| Goles más/menos: Menos de 1.5 | 19% | 24% | 22% | 4.00 | -14% |
+| Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
+| Goles más/menos: Menos de 3.5 | 64% | 70% | 67% | 1.36 | -9% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +0% |
+| 1X2 descanso: X | 40% | 41% | 40% | 2.25 | -10% |
+| 1X2 descanso: 1 | 33% | 37% | 35% | 2.50 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

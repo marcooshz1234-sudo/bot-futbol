@@ -1,7 +1,7 @@
 # Bodo/Glimt – Lille
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -179,42 +179,42 @@ _Sin precedentes recientes._
 | G. Perrin | F | 7 | 209 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,26 · visitante 1,01 · córners esperados 9,4._
+_Goles esperados: local 2,28 · visitante 1,01 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 24% | 20% | 4.00 | -21% |
+| 1X2: 2 | 15% | 24% | 20% | 4.00 | -22% |
 | 1X2: X | 19% | 24% | 21% | 4.00 | -15% |
-| 1X2: 1 | 66% | 53% | 59% | 1.80 | +6% |
-| Doble oportunidad: X2 | 34% | 48% | 41% | 1.95 | -19% |
+| 1X2: 1 | 66% | 53% | 59% | 1.80 | +7% |
+| Doble oportunidad: X2 | 34% | 48% | 41% | 1.95 | -20% |
 | Doble oportunidad: 12 | 81% | 75% | 78% | 1.25 | -2% |
-| Doble oportunidad: 1X | 84% | 77% | 81% | 1.22 | -2% |
+| Doble oportunidad: 1X | 85% | 77% | 81% | 1.22 | -2% |
 | Ambos marcan: No | 43% | 35% | 39% | 2.62 | +3% |
 | Ambos marcan: Sí | 57% | 65% | 61% | 1.44 | -12% |
-| Goles más/menos: Más de 2.5 | 64% | 64% | 64% | 1.50 | -5% |
-| Goles más/menos: Más de 3.5 | 41% | 43% | 42% | 2.20 | -7% |
-| Goles más/menos: Más de 4.5 | 23% | 25% | 24% | 3.75 | -9% |
+| Goles más/menos: Más de 2.5 | 64% | 64% | 64% | 1.50 | -4% |
+| Goles más/menos: Más de 3.5 | 42% | 43% | 42% | 2.20 | -7% |
+| Goles más/menos: Más de 4.5 | 24% | 25% | 25% | 3.75 | -8% |
 | Goles más/menos: Menos de 2.5 | 36% | 36% | 36% | 2.62 | -5% |
-| Goles más/menos: Menos de 3.5 | 59% | 57% | 58% | 1.67 | -4% |
-| Goles más/menos: Menos de 4.5 | 77% | 75% | 76% | 1.28 | -3% |
+| Goles más/menos: Menos de 3.5 | 58% | 57% | 58% | 1.67 | -4% |
+| Goles más/menos: Menos de 4.5 | 76% | 75% | 75% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 42% | 44% | 43% | 2.10 | -10% |
-| Goles 1ª parte más/menos: Más de 2.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
+| Goles 1ª parte más/menos: Más de 2.5 | 17% | 21% | 19% | 4.50 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
-| Goles del local: Más de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
-| Goles del local: Más de 2.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles del local: Menos de 1.5 | 34% | 41% | 38% | 2.25 | -16% |
-| Goles del local: Menos de 2.5 | 61% | 66% | 63% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -5% |
+| Goles del local: Más de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
+| Goles del local: Más de 2.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles del local: Menos de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
+| Goles del local: Menos de 2.5 | 60% | 66% | 63% | 1.40 | -11% |
 | Goles del visitante: Más de 0.5 | 64% | 73% | 68% | 1.28 | -12% |
 | Goles del visitante: Más de 1.5 | 27% | 39% | 33% | 2.38 | -21% |
 | Goles del visitante: Menos de 0.5 | 36% | 27% | 32% | 3.50 | +10% |
 | Goles del visitante: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +2% |
 | 1X2 descanso: 2 | 16% | 23% | 20% | 4.00 | -22% |
-| 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -9% |
-| 1X2 descanso: 1 | 48% | 40% | 44% | 2.30 | +1% |
+| 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -10% |
+| 1X2 descanso: 1 | 48% | 40% | 44% | 2.30 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

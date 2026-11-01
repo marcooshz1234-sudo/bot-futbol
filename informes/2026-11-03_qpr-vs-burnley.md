@@ -1,7 +1,7 @@
 # QPR – Burnley
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -195,9 +195,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 70% | 64% | 67% | 1.50 | +0% |
 | Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 37% | 2.38 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 64% | 1.53 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
 | 1X2 descanso: 2 | 18% | 26% | 22% | 3.60 | -22% |
 | 1X2 descanso: X | 41% | 39% | 40% | 2.38 | -5% |
 | 1X2 descanso: 1 | 42% | 35% | 39% | 2.62 | +1% |

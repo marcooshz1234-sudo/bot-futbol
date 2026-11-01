@@ -1,7 +1,7 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -52,53 +52,53 @@ _Actualizadas: 01/11 02:14_
 ## Estadísticas de equipo
 | | ADO Den Haag (total) | ADO Den Haag en casa | Sparta Rotterdam (total) | Sparta Rotterdam fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 4 |
-| Forma (últimos 5) | EDVEE | DVEDD | EDVED | EDDV |
-| Balance | 1V 4E 6D | 1V 1E 3D | 2V 4E 5D | 1V 1E 2D |
-| Goles a favor / partido | 1,27 | 1,60 | 1,73 | 2,00 |
-| Goles en contra / partido | 2,18 | 2,40 | 2,36 | 2,50 |
-| Goles a favor 1ª parte | 0,27 | 0,00 | 0,73 | 0,75 |
-| Goles a favor 2ª parte | 1,00 | 1,60 | 1,00 | 1,25 |
-| Goles en contra 1ª parte | 1,09 | 1,60 | 1,00 | 0,75 |
-| Goles en contra 2ª parte | 1,09 | 0,80 | 1,36 | 1,75 |
-| Más de 1,5 goles | 100% | 100% | 91% | 100% |
-| Más de 2,5 goles | 64% | 80% | 91% | 100% |
-| Más de 3,5 goles | 55% | 60% | 73% | 75% |
-| Ambos marcan | 82% | 100% | 82% | 100% |
+| Partidos analizados | 12 | 5 | 12 | 5 |
+| Forma (últimos 5) | DEDVE | DVEDD | VEDVE | VEDDV |
+| Balance | 1V 4E 7D | 1V 1E 3D | 3V 4E 5D | 2V 1E 2D |
+| Goles a favor / partido | 1,17 | 1,60 | 1,83 | 2,20 |
+| Goles en contra / partido | 2,08 | 2,40 | 2,33 | 2,40 |
+| Goles a favor 1ª parte | 0,25 | 0,00 | 0,83 | 1,00 |
+| Goles a favor 2ª parte | 0,92 | 1,60 | 1,00 | 1,20 |
+| Goles en contra 1ª parte | 1,08 | 1,60 | 1,08 | 1,00 |
+| Goles en contra 2ª parte | 1,00 | 0,80 | 1,25 | 1,40 |
+| Más de 1,5 goles | 92% | 100% | 92% | 100% |
+| Más de 2,5 goles | 58% | 80% | 92% | 100% |
+| Más de 3,5 goles | 50% | 60% | 75% | 80% |
+| Ambos marcan | 75% | 100% | 83% | 100% |
 | Portería a cero | 0% | 0% | 0% | 0% |
-| Se queda sin marcar | 18% | 0% | 18% | 0% |
-| xG a favor | 1,08 | 1,46 | 1,84 | 2,06 |
-| xG en contra | 2,11 | 1,83 | 1,91 | 1,94 |
-| Tiros / partido | 12,3 | 15,0 | 14,7 | 13,5 |
-| Tiros a puerta / partido | 3,5 | 4,4 | 5,1 | 6,2 |
-| Tiros recibidos | 17,4 | 12,8 | 16,9 | 16,8 |
-| Tiros a puerta recibidos | 6,8 | 6,2 | 5,5 | 5,5 |
-| Posesión media % | 48 | 56 | 46 | 39 |
-| Córners a favor | 3,9 | 4,8 | 5,5 | 5,0 |
-| Córners en contra | 5,4 | 1,8 | 6,7 | 7,8 |
-| Córners a favor 1ª parte | 2,3 | 3,0 | 2,3 | 2,2 |
-| Córners a favor 2ª parte | 1,6 | 1,8 | 3,0 | 2,8 |
-| Córners totales del partido | 9,3 | 6,6 | 12,3 | 12,8 |
-| Córners totales 1ª parte | 4,7 | 3,8 | 6,5 | 6,2 |
-| Córners totales 2ª parte | 4,6 | 2,8 | 5,4 | 6,5 |
-| Más de 8,5 córners | 50% | 40% | 82% | 100% |
-| Más de 9,5 córners | 40% | 20% | 73% | 100% |
-| Más de 10,5 córners | 30% | 0% | 64% | 75% |
-| Faltas cometidas | 14,6 | 17,8 | 10,7 | 8,8 |
-| Faltas recibidas | 9,9 | 11,4 | 11,1 | 9,0 |
-| Amarillas propias | 1,7 | 1,4 | 1,5 | 1,5 |
-| Amarillas del rival | 1,1 | 1,4 | 1,5 | 1,0 |
-| Rojas / partido | 0,10 | 0,00 | 0,00 | 0,00 |
+| Se queda sin marcar | 25% | 0% | 17% | 0% |
+| xG a favor | 1,03 | 1,46 | 1,90 | 2,14 |
+| xG en contra | 2,05 | 1,83 | 1,94 | 1,99 |
+| Tiros / partido | 12,3 | 15,0 | 14,2 | 12,4 |
+| Tiros a puerta / partido | 3,5 | 4,4 | 5,0 | 5,8 |
+| Tiros recibidos | 18,0 | 12,8 | 17,2 | 17,4 |
+| Tiros a puerta recibidos | 6,6 | 6,2 | 5,8 | 6,4 |
+| Posesión media % | 50 | 56 | 45 | 39 |
+| Córners a favor | 3,7 | 4,8 | 5,7 | 5,4 |
+| Córners en contra | 5,6 | 1,8 | 6,3 | 6,6 |
+| Córners a favor 1ª parte | 2,2 | 3,0 | 2,2 | 2,2 |
+| Córners a favor 2ª parte | 1,5 | 1,8 | 3,2 | 3,2 |
+| Córners totales del partido | 9,4 | 6,6 | 12,0 | 12,0 |
+| Córners totales 1ª parte | 4,8 | 3,8 | 6,2 | 5,6 |
+| Córners totales 2ª parte | 4,5 | 2,8 | 5,4 | 6,4 |
+| Más de 8,5 córners | 55% | 40% | 83% | 100% |
+| Más de 9,5 córners | 45% | 20% | 67% | 80% |
+| Más de 10,5 córners | 27% | 0% | 58% | 60% |
+| Faltas cometidas | 14,1 | 17,8 | 11,0 | 9,8 |
+| Faltas recibidas | 10,4 | 11,4 | 10,8 | 8,8 |
+| Amarillas propias | 1,8 | 1,4 | 1,7 | 1,8 |
+| Amarillas del rival | 1,3 | 1,4 | 1,4 | 1,0 |
+| Rojas / partido | 0,09 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles ADO Den Haag | Recibe ADO Den Haag | Tarjetas ADO Den Haag | Goles Sparta Rotterdam | Recibe Sparta Rotterdam | Tarjetas Sparta Rotterdam |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 1 | 3 | 0 | 1 |
-| 16-30' | 2 | 4 | 1 | 2 | 7 | 3 |
-| 31-45' | 0 | 6 | 3 | 3 | 4 | 1 |
-| 46-60' | 6 | 1 | 3 | 4 | 4 | 4 |
-| 61-75' | 2 | 9 | 4 | 3 | 6 | 2 |
-| 76-90' | 3 | 2 | 8 | 4 | 5 | 7 |
+| 1-15' | 1 | 2 | 1 | 4 | 1 | 1 |
+| 16-30' | 2 | 4 | 1 | 3 | 8 | 3 |
+| 31-45' | 0 | 7 | 3 | 3 | 4 | 2 |
+| 46-60' | 6 | 1 | 5 | 4 | 4 | 4 |
+| 61-75' | 2 | 9 | 5 | 3 | 6 | 4 |
+| 76-90' | 3 | 2 | 8 | 5 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -116,110 +116,110 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de ADO Den Haag
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Eredivisie | PEC Zwolle 1-0 ADO Den Haag | fuera | 2-8 | 12 (3) - 24 (5) | 3-3 |
 | 2026-10-27 | KNVB Beker | Excelsior '31 1-1 ADO Den Haag | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Eredivisie | ADO Den Haag 2-3 Heerenveen | casa | 8-2 | 22 (7) - 16 (5) | 1-0 |
 | 2026-10-17 | Eredivisie | ADO Den Haag 2-1 PSV Eindhoven | casa | 3-2 | 14 (2) - 15 (4) | 3-0 |
 | 2026-10-11 | Eredivisie | Telstar 2-2 ADO Den Haag | fuera | 0-8 | 3 (2) - 30 (4) | 1-2 |
 | 2026-09-19 | Eredivisie | ADO Den Haag 1-1 Cambuur | casa | 6-3 | 18 (6) - 8 (3) | 3-2 |
-| 2026-09-12 | Eredivisie | Twente 2-0 ADO Den Haag | fuera | 2-12 | 11 (5) - 24 (12) | 3-1 |
 
 ## Jugadores de ADO Den Haag
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Nikiéma | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| J. Kilo | M | 10 | 900 | 1 | 1 | 6 | 0,6 | 5 | 0,5 | 15 | 7 | 0,7 | 2 | 0 |
-| P. Mulder | D | 10 | 883 | 0 | 0 | 8 | 0,8 | 1 | 0,1 | 19 | 7 | 0,7 | 2 | 0 |
-| E. Rottier | M | 10 | 794 | 2 | 4 | 10 | 1,0 | 5 | 0,5 | 9 | 12 | 1,2 | 2 | 0 |
-| Y. Eduardo | F | 10 | 755 | 3 | 2 | 13 | 1,3 | 5 | 0,5 | 18 | 10 | 1,0 | 1 | 0 |
-| M. Hokke | D | 9 | 652 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 2 | 3 | 0,3 | 0 | 1 |
-| M. Waem | D | 9 | 619 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 3 | 0,3 | 1 | 0 |
+| J. Kilo | M | 11 | 990 | 1 | 1 | 6 | 0,5 | 5 | 0,5 | 17 | 9 | 0,8 | 2 | 0 |
+| K. Nikiéma | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| P. Mulder | D | 11 | 973 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 22 | 7 | 0,6 | 3 | 0 |
+| E. Rottier | M | 11 | 884 | 2 | 4 | 15 | 1,4 | 6 | 0,5 | 10 | 12 | 1,1 | 2 | 0 |
+| Y. Eduardo | F | 11 | 833 | 3 | 2 | 13 | 1,2 | 5 | 0,5 | 19 | 11 | 1,0 | 2 | 0 |
+| M. Hokke | D | 10 | 742 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 2 | 4 | 0,4 | 0 | 1 |
+| M. Waem | D | 10 | 709 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 9 | 3 | 0,3 | 2 | 0 |
+| O. Raterink | D | 9 | 538 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 1 | 0 |
 | S. Sylla | D | 10 | 527 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 12 | 1,2 | 3 | 0 |
-| O. Raterink | D | 8 | 493 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 2 | 0,2 | 1 | 0 |
-| D. van Mieghem | F | 10 | 487 | 0 | 0 | 9 | 0,9 | 3 | 0,3 | 4 | 10 | 1,0 | 0 | 0 |
-| J. Hawkins | M | 9 | 451 | 0 | 0 | 7 | 0,8 | 1 | 0,1 | 5 | 9 | 1,0 | 1 | 0 |
-| J. Jensen-Abbew | D | 6 | 445 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
-| J. Bal | F | 9 | 339 | 1 | 0 | 8 | 0,9 | 3 | 0,3 | 11 | 3 | 0,3 | 0 | 0 |
-| N. Thomas | F | 6 | 293 | 3 | 1 | 8 | 1,3 | 4 | 0,7 | 7 | 3 | 0,5 | 1 | 0 |
-| M. Šín | M | 5 | 260 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 9 | 2 | 0,4 | 0 | 0 |
+| D. van Mieghem | F | 11 | 516 | 0 | 0 | 10 | 0,9 | 4 | 0,4 | 4 | 12 | 1,1 | 0 | 0 |
+| J. Hawkins | F | 10 | 496 | 0 | 0 | 9 | 0,9 | 2 | 0,2 | 5 | 10 | 1,0 | 1 | 0 |
+| J. Jensen-Abbew | D | 7 | 490 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
+| J. Bal | F | 10 | 368 | 1 | 0 | 8 | 0,8 | 3 | 0,3 | 11 | 3 | 0,3 | 0 | 0 |
+| N. Thomas | F | 7 | 354 | 3 | 1 | 8 | 1,1 | 4 | 0,6 | 7 | 7 | 1,0 | 1 | 0 |
+| M. Šín | M | 6 | 321 | 0 | 0 | 6 | 1,0 | 2 | 0,3 | 9 | 2 | 0,3 | 0 | 0 |
 | J. Žambůrek | M | 5 | 218 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 3 | 0,6 | 0 | 0 |
 | Illaijh de Ruijter | D | 5 | 198 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 | Finn de Bruin | M | 4 | 176 | 0 | 1 | 5 | 1,2 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
 | Mylian Jimenez | M | 3 | 154 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 6 | 1 | 0,3 | 1 | 0 |
-| Alejandro Pozo |  | 3 | 74 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
+| D. Bárány | F | 4 | 75 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 3 | 0,8 | 0 | 0 |
 
 ## Últimos partidos de Sparta Rotterdam
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Eredivisie | Groningen 2-3 Sparta Rotterdam | fuera | 7-2 | 8 (4) - 20 (10) | 3-1 |
 | 2026-10-28 | KNVB Beker | Sparta Rotterdam 2-2 Fortuna Sittard | casa | 5-9 | 19 (5) - 14 (5) | 1-3 |
 | 2026-10-25 | Eredivisie | Sparta Rotterdam 1-2 Ajax | casa | 5-3 | 11 (5) - 16 (4) | 1-2 |
 | 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | casa | 3-4 | 22 (8) - 13 (4) | 4-4 |
 | 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | fuera | 6-9 | 18 (8) - 17 (6) | 3-0 |
 | 2026-09-19 | Eredivisie | Sparta Rotterdam 0-4 Heerenveen | casa | 3-6 | 11 (0) - 23 (9) | 2-0 |
-| 2026-09-13 | Eredivisie | PSV Eindhoven 4-1 Sparta Rotterdam | fuera | 5-9 | 10 (6) - 28 (10) | 1-1 |
 
 ## Jugadores de Sparta Rotterdam
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Bas Kuipers | D | 11 | 1020 | 0 | 3 | 5 | 0,5 | 1 | 0,1 | 9 | 7 | 0,6 | 2 | 0 |
-| Marvin Young | D | 11 | 1003 | 2 | 1 | 9 | 0,8 | 3 | 0,3 | 7 | 12 | 1,1 | 1 | 0 |
-| Lushendry Edward Martes | D | 11 | 927 | 2 | 0 | 9 | 0,8 | 6 | 0,5 | 12 | 8 | 0,7 | 3 | 0 |
-| Milan Zonneveld | F | 11 | 802 | 8 | 1 | 30 | 2,7 | 14 | 1,3 | 15 | 11 | 1,0 | 1 | 0 |
-| Nick Verschuren | D | 11 | 783 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 14 | 1,3 | 1 | 0 |
-| B. Martins Indi | D | 9 | 725 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 5 | 0,6 | 1 | 0 |
-| Cedric Hatenboer | M | 7 | 573 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 4 | 6 | 0,9 | 1 | 0 |
-| M. Brouwer | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
+| B. Kuipers | D | 12 | 1110 | 0 | 3 | 5 | 0,4 | 1 | 0,1 | 9 | 7 | 0,6 | 2 | 0 |
+| M. Young | D | 12 | 1093 | 2 | 2 | 9 | 0,8 | 3 | 0,2 | 10 | 14 | 1,2 | 1 | 0 |
+| L. Martes | D | 12 | 1017 | 2 | 0 | 9 | 0,8 | 6 | 0,5 | 15 | 9 | 0,8 | 4 | 0 |
+| M. Zonneveld | F | 12 | 873 | 9 | 1 | 34 | 2,8 | 16 | 1,3 | 15 | 11 | 0,9 | 1 | 0 |
+| N. Verschuren | D | 12 | 828 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 14 | 1,2 | 1 | 0 |
+| B. Martins Indi | D | 10 | 815 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 12 | 5 | 0,5 | 2 | 0 |
+| Cedric Hatenboer | M | 8 | 663 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 7 | 7 | 0,9 | 2 | 0 |
+| M. Brouwer | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
+| I. Babadi | M | 8 | 533 | 1 | 4 | 6 | 0,8 | 3 | 0,4 | 5 | 4 | 0,5 | 2 | 0 |
 | Julian Baas | M | 7 | 533 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 8 | 3 | 0,4 | 1 | 0 |
+| Robin van Cruijsen | M | 11 | 524 | 1 | 0 | 13 | 1,2 | 5 | 0,5 | 4 | 3 | 0,3 | 0 | 0 |
 | Casper Terho | F | 10 | 513 | 1 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 10 | 1,0 | 1 | 0 |
-| Robin van Cruijsen | M | 10 | 489 | 1 | 0 | 12 | 1,2 | 5 | 0,5 | 3 | 3 | 0,3 | 0 | 0 |
+| M. van Bergen | M | 10 | 492 | 0 | 1 | 10 | 1,0 | 5 | 0,5 | 1 | 7 | 0,7 | 1 | 0 |
 | Filip Bednarek | G | 5 | 480 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| Isaac Babadi | M | 7 | 462 | 1 | 4 | 6 | 0,9 | 3 | 0,4 | 4 | 4 | 0,6 | 2 | 0 |
-| J. Toornstra | M | 7 | 423 | 2 | 1 | 6 | 0,9 | 3 | 0,4 | 7 | 4 | 0,6 | 1 | 0 |
-| Shunsuke Mito | M | 5 | 423 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 1 | 7 | 1,4 | 0 | 0 |
-| Mitchell Van Bergen | M | 9 | 405 | 0 | 1 | 9 | 1,0 | 5 | 0,6 | 1 | 5 | 0,6 | 1 | 0 |
+| J. Toornstra | M | 8 | 478 | 2 | 1 | 6 | 0,8 | 3 | 0,4 | 7 | 4 | 0,5 | 1 | 0 |
+| S. Mito | F | 6 | 442 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 1 | 7 | 1,2 | 0 | 0 |
 | Ayoni Santos | F | 3 | 257 | 0 | 0 | 5 | 1,7 | 2 | 0,7 | 2 | 4 | 1,3 | 0 | 0 |
-| Teo Quintero | M | 8 | 211 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 3 | 0,4 | 0 | 0 |
+| Teo Quintero | D | 9 | 256 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 5 | 0,6 | 0 | 0 |
 | Nökkvi Þórisson | F | 3 | 209 | 1 | 1 | 7 | 2,3 | 4 | 1,3 | 9 | 5 | 1,7 | 0 | 0 |
 | Joel Ideho | F | 6 | 143 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 1 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 1,71 · córners esperados 10,0._
+_Goles esperados: local 1,56 · visitante 1,71 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 33% | 36% | 2.80 | +2% |
-| 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
-| 1X2: 1 | 38% | 41% | 39% | 2.30 | -10% |
-| Doble oportunidad: X2 | 62% | 60% | 61% | 1.57 | -4% |
+| 1X2: 2 | 42% | 33% | 38% | 2.80 | +5% |
+| 1X2: X | 23% | 26% | 25% | 3.60 | -12% |
+| 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
+| Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 61% | 67% | 64% | 1.40 | -11% |
-| Ambos marcan: No | 33% | 38% | 35% | 2.50 | -11% |
-| Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
-| Goles más/menos: Más de 2.5 | 66% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 3.5 | 44% | 39% | 41% | 2.38 | -1% |
-| Goles más/menos: Más de 4.5 | 25% | 23% | 24% | 4.00 | -3% |
-| Goles más/menos: Menos de 2.5 | 34% | 40% | 37% | 2.35 | -13% |
-| Goles más/menos: Menos de 3.5 | 56% | 61% | 59% | 1.53 | -10% |
-| Goles más/menos: Menos de 4.5 | 75% | 77% | 76% | 1.22 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
-| Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
-| Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 58% | 67% | 63% | 1.40 | -12% |
+| Ambos marcan: No | 35% | 38% | 36% | 2.50 | -9% |
+| Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -5% |
+| Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 3.5 | 41% | 39% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 4.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.35 | -10% |
+| Goles más/menos: Menos de 3.5 | 59% | 61% | 60% | 1.53 | -8% |
+| Goles más/menos: Menos de 4.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -15% |
+| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
+| Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
 | Goles del visitante: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
 | Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +2% |
 | Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
 | Goles del visitante: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles del visitante: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
-| 1X2 descanso: 2 | 32% | 29% | 30% | 3.20 | -2% |
-| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -9% |
-| 1X2 descanso: 1 | 31% | 32% | 32% | 2.88 | -9% |
+| 1X2 descanso: 2 | 33% | 29% | 31% | 3.20 | -1% |
+| 1X2 descanso: X | 38% | 39% | 38% | 2.40 | -8% |
+| 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

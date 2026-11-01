@@ -1,7 +1,7 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -49,50 +49,50 @@ _Actualizadas: 01/11 02:14_
 ## Estadísticas de equipo
 | | Malaga (total) | Malaga en casa | Racing Santander (total) | Racing Santander fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 11 | 6 |
-| Forma (últimos 5) | DVEDE | DEDEE | VVDED | VDDDD |
-| Balance | 1V 5E 6D | 0V 3E 2D | 4V 2E 5D | 1V 0E 5D |
-| Goles a favor / partido | 0,92 | 1,00 | 1,55 | 1,00 |
-| Goles en contra / partido | 1,75 | 2,00 | 2,36 | 3,00 |
-| Goles a favor 1ª parte | 0,25 | 0,40 | 0,91 | 0,50 |
-| Goles a favor 2ª parte | 0,67 | 0,60 | 0,64 | 0,50 |
-| Goles en contra 1ª parte | 1,00 | 1,20 | 1,18 | 1,50 |
-| Goles en contra 2ª parte | 0,75 | 0,80 | 1,18 | 1,50 |
-| Más de 1,5 goles | 83% | 80% | 91% | 83% |
-| Más de 2,5 goles | 42% | 40% | 73% | 50% |
-| Más de 3,5 goles | 25% | 40% | 55% | 50% |
-| Ambos marcan | 58% | 80% | 64% | 33% |
-| Portería a cero | 17% | 20% | 9% | 17% |
-| Se queda sin marcar | 33% | 20% | 27% | 50% |
-| xG a favor | 0,88 | 1,19 | 1,42 | 0,96 |
-| xG en contra | 1,68 | 1,76 | 2,15 | 3,08 |
-| Tiros / partido | 10,8 | 12,0 | 12,4 | 8,0 |
-| Tiros a puerta / partido | 3,1 | 3,8 | 4,9 | 3,2 |
-| Tiros recibidos | 15,9 | 12,6 | 15,8 | 18,2 |
-| Tiros a puerta recibidos | 5,7 | 5,4 | 6,1 | 7,2 |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | DVEDE | DEDEE | DVVDE | VDDDD |
+| Balance | 1V 5E 6D | 0V 3E 2D | 4V 2E 6D | 1V 0E 5D |
+| Goles a favor / partido | 0,92 | 1,00 | 1,42 | 1,00 |
+| Goles en contra / partido | 1,75 | 2,00 | 2,42 | 3,00 |
+| Goles a favor 1ª parte | 0,25 | 0,40 | 0,83 | 0,50 |
+| Goles a favor 2ª parte | 0,67 | 0,60 | 0,58 | 0,50 |
+| Goles en contra 1ª parte | 1,00 | 1,20 | 1,33 | 1,50 |
+| Goles en contra 2ª parte | 0,75 | 0,80 | 1,08 | 1,50 |
+| Más de 1,5 goles | 83% | 80% | 92% | 83% |
+| Más de 2,5 goles | 42% | 40% | 75% | 50% |
+| Más de 3,5 goles | 25% | 40% | 50% | 50% |
+| Ambos marcan | 58% | 80% | 58% | 33% |
+| Portería a cero | 17% | 20% | 8% | 17% |
+| Se queda sin marcar | 33% | 20% | 33% | 50% |
+| xG a favor | 0,88 | 1,19 | 1,40 | 0,96 |
+| xG en contra | 1,68 | 1,76 | 2,27 | 3,08 |
+| Tiros / partido | 10,8 | 12,0 | 12,2 | 8,0 |
+| Tiros a puerta / partido | 3,1 | 3,8 | 4,5 | 3,2 |
+| Tiros recibidos | 15,9 | 12,6 | 16,4 | 18,2 |
+| Tiros a puerta recibidos | 5,7 | 5,4 | 6,2 | 7,2 |
 | Posesión media % | 49 | 52 | 50 | 51 |
-| Córners a favor | 5,0 | 5,8 | 5,1 | 3,8 |
-| Córners en contra | 5,5 | 4,6 | 7,8 | 9,0 |
-| Córners a favor 1ª parte | 2,0 | 3,0 | 2,3 | 1,6 |
+| Córners a favor | 5,0 | 5,8 | 5,0 | 3,8 |
+| Córners en contra | 5,5 | 4,6 | 7,6 | 9,0 |
+| Córners a favor 1ª parte | 2,0 | 3,0 | 2,2 | 1,6 |
 | Córners a favor 2ª parte | 3,0 | 2,8 | 2,8 | 2,2 |
-| Córners totales del partido | 10,5 | 10,4 | 12,9 | 12,8 |
+| Córners totales del partido | 10,5 | 10,4 | 12,6 | 12,8 |
 | Córners totales 1ª parte | 4,7 | 5,0 | 5,5 | 5,8 |
-| Córners totales 2ª parte | 5,8 | 5,4 | 7,4 | 7,0 |
-| Más de 8,5 córners | 82% | 100% | 90% | 80% |
-| Más de 9,5 córners | 64% | 80% | 90% | 80% |
-| Más de 10,5 córners | 45% | 40% | 80% | 80% |
-| Faltas cometidas | 11,9 | 11,6 | 13,4 | 12,4 |
-| Faltas recibidas | 11,8 | 11,4 | 15,0 | 14,6 |
-| Amarillas propias | 2,4 | 3,0 | 2,7 | 3,0 |
-| Amarillas del rival | 2,3 | 2,8 | 2,6 | 2,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,00 |
+| Córners totales 2ª parte | 5,8 | 5,4 | 7,1 | 7,0 |
+| Más de 8,5 córners | 82% | 100% | 91% | 80% |
+| Más de 9,5 córners | 64% | 80% | 91% | 80% |
+| Más de 10,5 córners | 45% | 40% | 73% | 80% |
+| Faltas cometidas | 11,9 | 11,6 | 13,1 | 12,4 |
+| Faltas recibidas | 11,8 | 11,4 | 14,4 | 14,6 |
+| Amarillas propias | 2,4 | 3,0 | 2,6 | 3,0 |
+| Amarillas del rival | 2,3 | 2,8 | 2,4 | 2,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Malaga | Recibe Malaga | Tarjetas Malaga | Goles Racing Santander | Recibe Racing Santander | Tarjetas Racing Santander |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 0 | 2 | 3 | 3 |
-| 16-30' | 0 | 5 | 4 | 4 | 3 | 5 |
-| 31-45' | 2 | 5 | 8 | 4 | 7 | 6 |
+| 1-15' | 1 | 2 | 0 | 2 | 4 | 3 |
+| 16-30' | 0 | 5 | 4 | 4 | 4 | 5 |
+| 31-45' | 2 | 5 | 8 | 4 | 8 | 8 |
 | 46-60' | 1 | 1 | 1 | 3 | 1 | 3 |
 | 61-75' | 3 | 3 | 7 | 3 | 4 | 6 |
 | 76-90' | 4 | 5 | 9 | 1 | 8 | 6 |
@@ -147,74 +147,74 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Racing Santander
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | LaLiga | Racing Santander 0-3 Real Madrid | casa | 4-6 | 10 (1) - 22 (7) | 2-0 |
 | 2026-10-29 | Copa del Rey | Ribadesella CF 0-2 Racing Santander | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Racing Santander 2-1 Espanyol | casa | 9-4 | 23 (9) - 11 (1) | 3-4 |
 | 2026-10-18 | LaLiga | Osasuna 2-0 Racing Santander | fuera | 4-7 | 9 (1) - 20 (7) | 3-2 |
 | 2026-10-11 | LaLiga | Racing Santander 2-2 Valencia | casa | 8-3 | 20 (11) - 10 (2) | 3-3 |
 | 2026-09-19 | LaLiga | Celta Vigo 5-0 Racing Santander | fuera | 3-3 | 11 (5) - 13 (9) | 5-2 |
-| 2026-09-16 | LaLiga | Barcelona 7-2 Racing Santander | fuera | 0-18 | 5 (3) - 30 (9) | 2-3 |
 
 ## Jugadores de Racing Santander
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Julen Agirrezabala | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| Iñigo Vicente | M | 10 | 812 | 0 | 3 | 6 | 0,6 | 3 | 0,3 | 9 | 21 | 2,1 | 3 | 0 |
+| Julen Agirrezabala | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
+| Iñigo Vicente | M | 11 | 894 | 0 | 3 | 6 | 0,5 | 3 | 0,3 | 10 | 22 | 2,0 | 3 | 0 |
+| Sergio Canales | M | 11 | 823 | 1 | 1 | 17 | 1,5 | 8 | 0,7 | 8 | 19 | 1,7 | 1 | 0 |
+| Álvaro Mantilla | D | 10 | 811 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 12 | 2 | 0,2 | 3 | 0 |
 | Jorge Salinas | D | 10 | 811 | 0 | 1 | 7 | 0,7 | 3 | 0,3 | 11 | 15 | 1,5 | 5 | 0 |
-| Álvaro Mantilla | D | 9 | 782 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 11 | 2 | 0,2 | 3 | 0 |
-| Sergio Canales | M | 10 | 733 | 1 | 1 | 16 | 1,6 | 8 | 0,8 | 7 | 17 | 1,7 | 1 | 0 |
-| Iván Martín | M | 8 | 662 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 8 | 1,0 | 2 | 0 |
-| M. Zabiri | F | 10 | 652 | 8 | 0 | 17 | 1,7 | 13 | 1,3 | 14 | 4 | 0,4 | 4 | 0 |
-| Pablo Ramón | D | 8 | 615 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 9 | 1,1 | 4 | 0 |
-| M. Prati | M | 7 | 504 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 6 | 0,9 | 0 | 0 |
-| J. Belocian | D | 6 | 485 | 1 | 0 | 5 | 0,8 | 3 | 0,5 | 9 | 5 | 0,8 | 1 | 0 |
+| Iván Martín | M | 9 | 744 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 11 | 9 | 1,0 | 2 | 0 |
+| M. Zabiri | F | 11 | 713 | 8 | 0 | 20 | 1,8 | 13 | 1,2 | 14 | 4 | 0,4 | 4 | 0 |
+| Pablo Ramón | D | 9 | 675 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 5 | 10 | 1,1 | 4 | 0 |
+| M. Prati | M | 8 | 594 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 6 | 0,8 | 0 | 0 |
+| J. Belocian | D | 7 | 575 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 10 | 5 | 0,7 | 2 | 0 |
 | Manu Hernando | D | 5 | 397 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 5 | 2 | 0,4 | 1 | 0 |
 | Andrés Martín | M | 6 | 380 | 1 | 0 | 13 | 2,2 | 6 | 1,0 | 4 | 8 | 1,3 | 0 | 0 |
-| Pablo García | F | 6 | 276 | 1 | 0 | 11 | 1,8 | 5 | 0,8 | 0 | 4 | 0,7 | 0 | 0 |
+| Pablo García | F | 7 | 305 | 1 | 0 | 11 | 1,6 | 5 | 0,7 | 0 | 5 | 0,7 | 0 | 0 |
 | Asier Villalibre | F | 8 | 275 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 0 | 7 | 0,9 | 0 | 0 |
 | Gustavo Puerta | M | 3 | 268 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 9 | 3,0 | 1 | 0 |
 | Facundo González | D | 5 | 253 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 3 | 0,6 | 1 | 0 |
-| André Almeida | M | 6 | 236 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 6 | 6 | 1,0 | 0 | 1 |
+| Iker Luque | M | 5 | 250 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 5 | 5 | 1,0 | 1 | 0 |
+| Aarón Martín | D | 6 | 247 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,3 | 0 | 0 |
+| André Almeida | M | 7 | 244 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 6 | 6 | 0,9 | 0 | 1 |
 | M. Gueye | M | 7 | 175 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 2 | 0,3 | 0 | 0 |
-| Iker Luque | F | 4 | 160 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 4 | 1,0 | 0 | 0 |
-| Aarón Martín | D | 5 | 157 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,47 · córners esperados 11,1._
+_Goles esperados: local 1,58 · visitante 1,44 · córners esperados 11,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 35% | 33% | 34% | 2.80 | -4% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 41% | 41% | 41% | 2.30 | -7% |
-| Doble oportunidad: X2 | 59% | 60% | 60% | 1.57 | -6% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
+| 1X2: 1 | 41% | 41% | 41% | 2.30 | -6% |
+| Doble oportunidad: X2 | 59% | 60% | 59% | 1.57 | -7% |
+| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 65% | 67% | 66% | 1.40 | -8% |
-| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
+| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -6% |
 | Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
-| Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
-| Goles más/menos: Más de 2.5 | 59% | 57% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -5% |
-| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -9% |
-| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -9% |
-| Goles más/menos: Menos de 2.5 | 41% | 43% | 42% | 2.20 | -7% |
-| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -5% |
+| Goles más/menos: Más de 1.5 | 80% | 79% | 80% | 1.20 | -4% |
+| Goles más/menos: Más de 2.5 | 58% | 57% | 57% | 1.67 | -4% |
+| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -6% |
+| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles más/menos: Menos de 1.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles más/menos: Menos de 2.5 | 42% | 43% | 43% | 2.20 | -6% |
+| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
+| Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
 | Goles del local: Más de 2.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -8% |
 | Goles del local: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del local: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Goles del visitante: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles del visitante: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
-| 1X2 descanso: 2 | 29% | 29% | 29% | 3.25 | -7% |
+| Goles del visitante: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Goles del visitante: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
+| Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
+| Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
+| 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -8% |
+| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

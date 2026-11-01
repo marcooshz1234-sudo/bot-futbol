@@ -1,7 +1,7 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España) · Estadio Cidade de Barcelos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -187,41 +187,41 @@ _Sin bajas comunicadas por ahora._
 | M. Mitrović | M | 4 | 80 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 0,95 · córners esperados 9,6._
+_Goles esperados: local 0,94 · visitante 0,96 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 38% | 36% | 2.50 | -10% |
-| 1X2: X | 32% | 29% | 31% | 3.25 | -0% |
+| 1X2: 2 | 35% | 38% | 36% | 2.50 | -9% |
+| 1X2: X | 32% | 29% | 31% | 3.25 | -1% |
 | 1X2: 1 | 33% | 33% | 33% | 2.88 | -4% |
 | Doble oportunidad: X2 | 67% | 67% | 67% | 1.40 | -7% |
 | Doble oportunidad: 12 | 68% | 71% | 69% | 1.33 | -8% |
-| Doble oportunidad: 1X | 66% | 63% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 63% | 52% | 58% | 1.80 | +4% |
-| Ambos marcan: Sí | 37% | 48% | 42% | 1.95 | -17% |
-| Goles más/menos: Más de 1.5 | 56% | 69% | 62% | 1.36 | -15% |
-| Goles más/menos: Más de 2.5 | 29% | 43% | 36% | 2.20 | -21% |
-| Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles más/menos: Menos de 1.5 | 44% | 31% | 38% | 3.00 | +13% |
-| Goles más/menos: Menos de 2.5 | 71% | 57% | 64% | 1.65 | +6% |
+| Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
+| Ambos marcan: No | 63% | 52% | 57% | 1.80 | +3% |
+| Ambos marcan: Sí | 37% | 48% | 43% | 1.95 | -17% |
+| Goles más/menos: Más de 1.5 | 56% | 69% | 63% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 29% | 43% | 36% | 2.20 | -20% |
+| Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -28% |
+| Goles más/menos: Menos de 1.5 | 44% | 31% | 37% | 3.00 | +12% |
+| Goles más/menos: Menos de 2.5 | 71% | 57% | 64% | 1.65 | +5% |
 | Goles más/menos: Menos de 3.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 65% | 60% | 1.44 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 20% | 29% | 24% | 3.25 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 71% | 76% | 1.33 | +1% |
-| Goles del local: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 29% | 25% | 3.25 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 71% | 75% | 1.33 | +0% |
+| Goles del local: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
 | Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles del local: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
 | Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
-| Goles del visitante: Más de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
-| Goles del visitante: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
-| Goles del visitante: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del visitante: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
+| Goles del visitante: Menos de 0.5 | 38% | 29% | 34% | 3.25 | +9% |
+| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -9% |
-| 1X2 descanso: 2 | 24% | 29% | 27% | 3.20 | -15% |
+| Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
+| 1X2 descanso: 2 | 25% | 29% | 27% | 3.20 | -15% |
 | 1X2 descanso: X | 52% | 45% | 48% | 2.05 | -1% |
 | 1X2 descanso: 1 | 24% | 26% | 25% | 3.50 | -12% |
 

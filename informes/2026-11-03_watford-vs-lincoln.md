@@ -1,7 +1,7 @@
 # Watford – Lincoln
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -173,7 +173,7 @@ _Sin precedentes recientes._
 | D. Oyegoke | D | 6 | 275 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,51 · córners esperados 9,6._
+_Goles esperados: local 1,15 · visitante 1,51 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -181,7 +181,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 45% | 33% | 39% | 2.80 | +10% |
 | 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 29% | 40% | 34% | 2.35 | -19% |
+| 1X2: 1 | 29% | 40% | 34% | 2.35 | -20% |
 | Doble oportunidad: X2 | 71% | 60% | 66% | 1.57 | +3% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
 | Doble oportunidad: 1X | 55% | 67% | 61% | 1.40 | -15% |

@@ -1,7 +1,7 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -176,7 +176,7 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Rego Mora | M | 4 | 148 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,9._
+_Goles esperados: local 1,23 · visitante 1,71 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -188,24 +188,24 @@ _Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,9._
 | Doble oportunidad: 1X | 51% | 56% | 54% | 1.67 | -10% |
 | Ambos marcan: No | 42% | 48% | 45% | 1.95 | -12% |
 | Ambos marcan: Sí | 58% | 52% | 55% | 1.80 | -1% |
-| Goles más/menos: Más de 1.5 | 79% | 72% | 76% | 1.33 | +1% |
-| Goles más/menos: Más de 2.5 ✅ | 57% | 45% | 51% | 2.10 | +7% |
-| Goles más/menos: Más de 3.5 | 34% | 25% | 30% | 3.75 | +12% |
+| Goles más/menos: Más de 1.5 | 79% | 72% | 76% | 1.33 | +0% |
+| Goles más/menos: Más de 2.5 ✅ | 56% | 45% | 51% | 2.10 | +7% |
+| Goles más/menos: Más de 3.5 | 34% | 25% | 30% | 3.75 | +11% |
 | Goles más/menos: Menos de 1.5 | 21% | 28% | 24% | 3.40 | -17% |
-| Goles más/menos: Menos de 2.5 | 43% | 55% | 49% | 1.73 | -15% |
+| Goles más/menos: Menos de 2.5 | 44% | 55% | 49% | 1.73 | -15% |
 | Goles más/menos: Menos de 3.5 | 66% | 75% | 70% | 1.28 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del local: Más de 0.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del local: Más de 0.5 | 71% | 66% | 68% | 1.40 | -4% |
 | Goles del local: Más de 1.5 | 35% | 31% | 33% | 3.00 | -1% |
-| Goles del local: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles del local: Menos de 0.5 | 29% | 34% | 32% | 2.75 | -13% |
 | Goles del local: Menos de 1.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles del visitante: Más de 0.5 | 82% | 75% | 79% | 1.25 | -2% |
+| Goles del visitante: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Goles del visitante: Más de 1.5 | 51% | 41% | 46% | 2.25 | +4% |
-| Goles del visitante: Menos de 0.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles del visitante: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -16% |
+| Goles del visitante: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
+| Goles del visitante: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
 | 1X2 descanso: 2 | 37% | 32% | 34% | 2.88 | -1% |
 | 1X2 descanso: X | 40% | 44% | 42% | 2.10 | -12% |
 | 1X2 descanso: 1 | 23% | 24% | 24% | 3.75 | -10% |

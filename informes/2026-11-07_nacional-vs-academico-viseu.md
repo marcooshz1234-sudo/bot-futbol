@@ -1,7 +1,7 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,43 +9,43 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Nacional (total) | Nacional en casa | Academico Viseu (total) | Academico Viseu fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 6 |
-| Forma (últimos 5) | VDDDD | VDDDV | VDVVV | VDVVE |
-| Balance | 2V 1E 7D | 2V 0E 3D | 5V 2E 3D | 3V 2E 1D |
-| Goles a favor / partido | 1,00 | 1,20 | 1,30 | 1,50 |
-| Goles en contra / partido | 1,90 | 2,00 | 1,20 | 1,00 |
-| Goles a favor 1ª parte | 0,50 | 0,40 | 0,70 | 1,00 |
-| Goles a favor 2ª parte | 0,50 | 0,80 | 0,60 | 0,50 |
-| Goles en contra 1ª parte | 1,20 | 1,40 | 0,50 | 0,17 |
-| Goles en contra 2ª parte | 0,70 | 0,60 | 0,70 | 0,83 |
-| Más de 1,5 goles | 70% | 80% | 70% | 67% |
-| Más de 2,5 goles | 50% | 60% | 60% | 50% |
-| Más de 3,5 goles | 50% | 60% | 20% | 33% |
-| Ambos marcan | 40% | 40% | 50% | 50% |
-| Portería a cero | 20% | 40% | 20% | 33% |
-| Se queda sin marcar | 40% | 20% | 30% | 17% |
-| xG a favor | 1,08 | 1,36 | 1,18 | 1,33 |
-| xG en contra | 1,87 | 1,45 | 1,74 | 1,90 |
-| Tiros / partido | 10,6 | 12,6 | 9,7 | 8,6 |
-| Tiros a puerta / partido | 3,2 | 3,6 | 3,3 | 3,6 |
-| Tiros recibidos | 15,2 | 13,0 | 18,3 | 23,0 |
-| Tiros a puerta recibidos | 5,8 | 5,0 | 5,6 | 5,6 |
-| Posesión media % | 48 | 50 | 45 | 39 |
-| Córners a favor | 4,3 | 4,8 | 2,4 | 2,0 |
-| Córners en contra | 4,9 | 3,2 | 5,9 | 7,4 |
+| Partidos analizados | 11 | 5 | 10 | 6 |
+| Forma (últimos 5) | DVDDD | VDDDV | VDVVV | VDVVE |
+| Balance | 2V 1E 8D | 2V 0E 3D | 5V 2E 3D | 3V 2E 1D |
+| Goles a favor / partido | 0,91 | 1,20 | 1,30 | 1,50 |
+| Goles en contra / partido | 1,82 | 2,00 | 1,20 | 1,00 |
+| Goles a favor 1ª parte | 0,45 | 0,40 | 0,70 | 1,00 |
+| Goles a favor 2ª parte | 0,45 | 0,80 | 0,60 | 0,50 |
+| Goles en contra 1ª parte | 1,09 | 1,40 | 0,50 | 0,17 |
+| Goles en contra 2ª parte | 0,73 | 0,60 | 0,70 | 0,83 |
+| Más de 1,5 goles | 64% | 80% | 70% | 67% |
+| Más de 2,5 goles | 45% | 60% | 60% | 50% |
+| Más de 3,5 goles | 45% | 60% | 20% | 33% |
+| Ambos marcan | 36% | 40% | 50% | 50% |
+| Portería a cero | 18% | 40% | 20% | 33% |
+| Se queda sin marcar | 45% | 20% | 30% | 17% |
+| xG a favor | 1,01 | 1,36 | 1,18 | 1,33 |
+| xG en contra | 1,75 | 1,45 | 1,74 | 1,90 |
+| Tiros / partido | 10,0 | 12,6 | 9,7 | 8,6 |
+| Tiros a puerta / partido | 3,0 | 3,6 | 3,3 | 3,6 |
+| Tiros recibidos | 14,9 | 13,0 | 18,3 | 23,0 |
+| Tiros a puerta recibidos | 5,7 | 5,0 | 5,6 | 5,6 |
+| Posesión media % | 47 | 50 | 45 | 39 |
+| Córners a favor | 4,1 | 4,8 | 2,4 | 2,0 |
+| Córners en contra | 5,2 | 3,2 | 5,9 | 7,4 |
 | Córners a favor 1ª parte | 2,1 | 2,0 | 1,6 | 1,6 |
-| Córners a favor 2ª parte | 2,2 | 2,8 | 0,9 | 0,4 |
-| Córners totales del partido | 9,2 | 8,0 | 8,3 | 9,4 |
-| Córners totales 1ª parte | 5,1 | 3,6 | 4,9 | 6,6 |
-| Córners totales 2ª parte | 4,1 | 4,4 | 3,4 | 2,8 |
-| Más de 8,5 córners | 56% | 60% | 44% | 60% |
-| Más de 9,5 córners | 56% | 60% | 33% | 40% |
-| Más de 10,5 córners | 33% | 20% | 33% | 40% |
-| Faltas cometidas | 11,9 | 12,2 | 13,8 | 12,4 |
-| Faltas recibidas | 12,2 | 12,0 | 13,2 | 12,8 |
-| Amarillas propias | 1,4 | 1,8 | 3,0 | 3,8 |
+| Córners a favor 2ª parte | 2,0 | 2,8 | 0,9 | 0,4 |
+| Córners totales del partido | 9,3 | 8,0 | 8,3 | 9,4 |
+| Córners totales 1ª parte | 5,0 | 3,6 | 4,9 | 6,6 |
+| Córners totales 2ª parte | 4,3 | 4,4 | 3,4 | 2,8 |
+| Más de 8,5 córners | 60% | 60% | 44% | 60% |
+| Más de 9,5 córners | 60% | 60% | 33% | 40% |
+| Más de 10,5 córners | 30% | 20% | 33% | 40% |
+| Faltas cometidas | 11,7 | 12,2 | 13,8 | 12,4 |
+| Faltas recibidas | 11,6 | 12,0 | 13,2 | 12,8 |
+| Amarillas propias | 1,5 | 1,8 | 3,0 | 3,8 |
 | Amarillas del rival | 2,3 | 2,6 | 1,7 | 1,6 |
-| Rojas / partido | 0,11 | 0,20 | 0,00 | 0,00 |
+| Rojas / partido | 0,10 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Nacional | Recibe Nacional | Tarjetas Nacional | Goles Academico Viseu | Recibe Academico Viseu | Tarjetas Academico Viseu |
@@ -54,8 +54,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 16-30' | 1 | 2 | 0 | 4 | 1 | 1 |
 | 31-45' | 3 | 7 | 4 | 1 | 1 | 4 |
 | 46-60' | 1 | 2 | 4 | 2 | 2 | 3 |
-| 61-75' | 2 | 3 | 3 | 2 | 3 | 5 |
-| 76-90' | 2 | 2 | 5 | 2 | 2 | 13 |
+| 61-75' | 2 | 4 | 4 | 2 | 3 | 5 |
+| 76-90' | 2 | 2 | 6 | 2 | 2 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Nacional
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Primeira Liga | Arouca 1-0 Nacional | fuera | 2-8 | 5 (1) - 12 (5) | 2-2 |
 | 2026-10-25 | Primeira Liga | Nacional 1-0 SC Braga | casa | 4-6 | 8 (4) - 20 (2) | 2-2 |
 | 2026-10-17 | Taça de Portugal | Sanjoanense 1-0 Nacional | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Rio Ave 3-2 Nacional | fuera | 8-8 | 12 (5) - 11 (7) | 0-2 |
 | 2026-09-19 | Primeira Liga | Nacional 0-4 Famalicao | casa | 7-3 | 12 (3) - 12 (7) | 3-3 |
 | 2026-09-12 | Primeira Liga | Nacional 1-3 Alverca | casa | 2-0 | 13 (3) - 10 (7) | 0-3 |
-| 2026-09-05 | Primeira Liga | Sporting CP 2-0 Nacional | fuera | 0-12 | 3 (2) - 19 (8) | 1-2 |
 
 ## Jugadores de Nacional
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Renato Bellucci | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Zé Vitor | D | 9 | 765 | 1 | 0 | 6 | 0,7 | 1 | 0,1 | 9 | 4 | 0,4 | 1 | 0 |
-| Miguel Baeza | M | 9 | 652 | 2 | 0 | 7 | 0,8 | 5 | 0,6 | 2 | 6 | 0,7 | 0 | 0 |
-| Matheus Dias | D | 8 | 637 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 11 | 2 | 0,2 | 3 | 1 |
-| Pablo Ruan | F | 8 | 518 | 1 | 0 | 8 | 1,0 | 4 | 0,5 | 10 | 5 | 0,6 | 0 | 0 |
-| W. Kokolo | D | 7 | 517 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 7 | 3 | 0,4 | 2 | 0 |
+| Renato Bellucci | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Zé Vitor | D | 10 | 855 | 1 | 0 | 7 | 0,7 | 1 | 0,1 | 9 | 4 | 0,4 | 1 | 0 |
+| Miguel Baeza | M | 10 | 733 | 2 | 0 | 8 | 0,8 | 6 | 0,6 | 3 | 7 | 0,7 | 0 | 0 |
+| Matheus Dias | M | 9 | 727 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 12 | 3 | 0,3 | 3 | 1 |
+| W. Kokolo | D | 8 | 607 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 7 | 3 | 0,4 | 2 | 0 |
+| Francisco Gonçalves | D | 6 | 540 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 7 | 2 | 0,3 | 1 | 0 |
+| Pablo Ruan | F | 9 | 537 | 1 | 0 | 8 | 0,9 | 4 | 0,4 | 10 | 5 | 0,6 | 0 | 0 |
+| M. Jensen | D | 8 | 527 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 12 | 1,5 | 1 | 0 |
 | Wesley Gasolina | D | 7 | 496 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 7 | 1,0 | 1 | 0 |
-| Francisco Gonçalves | D | 5 | 450 | 0 | 1 | 2 | 0,4 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
-| Daniel Júnior | M | 8 | 447 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 1 | 22 | 2,8 | 1 | 0 |
-| M. Jensen | D | 7 | 437 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 11 | 1,6 | 1 | 0 |
+| Daniel Júnior | M | 9 | 456 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 23 | 2,6 | 1 | 0 |
+| S. Gavriel | M | 10 | 441 | 0 | 0 | 8 | 0,8 | 4 | 0,4 | 6 | 8 | 0,8 | 1 | 0 |
 | Léo Santos | D | 5 | 405 | 1 | 1 | 5 | 1,0 | 1 | 0,2 | 6 | 2 | 0,4 | 0 | 0 |
-| S. Gavriel | M | 9 | 371 | 0 | 0 | 7 | 0,8 | 4 | 0,4 | 5 | 8 | 0,9 | 1 | 0 |
+| C. Labidi | M | 6 | 370 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 11 | 5 | 0,8 | 0 | 0 |
 | Liziero | M | 4 | 338 | 1 | 1 | 3 | 0,8 | 2 | 0,5 | 8 | 7 | 1,8 | 0 | 0 |
-| C. Labidi | M | 5 | 300 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 9 | 5 | 1,0 | 0 | 0 |
-| Matchoi Djaló | M | 7 | 283 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 3 | 4 | 0,6 | 0 | 0 |
+| Song Min-Kyu | M | 5 | 320 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 0 | 0 |
+| Matchoi Djaló | M | 8 | 303 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 5 | 0,6 | 1 | 0 |
 | Filipe Soares | M | 4 | 249 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 5 | 7 | 1,8 | 2 | 0 |
-| Song Min-Kyu | M | 4 | 239 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,5 | 0 | 0 |
+| N. Kader | F | 3 | 230 | 2 | 0 | 4 | 1,3 | 2 | 0,7 | 4 | 3 | 1,0 | 0 | 0 |
+| A. Obando | F | 7 | 191 | 0 | 0 | 5 | 0,7 | 2 | 0,3 | 1 | 3 | 0,4 | 0 | 0 |
 | Deivison | M | 5 | 191 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| A. Obando | F | 6 | 182 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 1 | 3 | 0,5 | 0 | 0 |
-| N. Kader | F | 2 | 159 | 2 | 0 | 3 | 1,5 | 2 | 1,0 | 4 | 3 | 1,5 | 0 | 0 |
 
 ## Últimos partidos de Academico Viseu
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Dominik Steczyk | F | 3 | 62 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,09 · visitante 1,75 · córners esperados 9,4._
+_Goles esperados: local 1,03 · visitante 1,63 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

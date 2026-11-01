@@ -1,7 +1,7 @@
 # Blackburn – Stoke City
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
 | Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
 | 1X2 descanso: 2 | 27% | 29% | 28% | 3.25 | -9% |
-| 1X2 descanso: X | 44% | 44% | 44% | 2.10 | -8% |
+| 1X2 descanso: X | 43% | 44% | 44% | 2.10 | -8% |
 | 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -54,53 +54,53 @@ _Actualizadas: 01/11 02:14_
 ## Estadísticas de equipo
 | | SC Paderborn 07 (total) | SC Paderborn 07 en casa | Eintracht Frankfurt (total) | Eintracht Frankfurt fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 9 | 6 |
-| Forma (últimos 5) | EDVED | DVDVD | VDVDE | VDDVE |
-| Balance | 3V 3E 4D | 2V 0E 3D | 4V 2E 3D | 3V 1E 2D |
-| Goles a favor / partido | 1,00 | 0,80 | 2,67 | 3,33 |
-| Goles en contra / partido | 1,20 | 1,00 | 2,00 | 2,00 |
-| Goles a favor 1ª parte | 0,60 | 0,40 | 1,89 | 2,33 |
-| Goles a favor 2ª parte | 0,40 | 0,40 | 0,78 | 1,00 |
-| Goles en contra 1ª parte | 0,40 | 0,40 | 0,67 | 0,83 |
-| Goles en contra 2ª parte | 0,80 | 0,60 | 1,33 | 1,17 |
-| Más de 1,5 goles | 50% | 40% | 78% | 83% |
-| Más de 2,5 goles | 40% | 20% | 78% | 83% |
-| Más de 3,5 goles | 30% | 20% | 78% | 83% |
-| Ambos marcan | 30% | 20% | 56% | 50% |
-| Portería a cero | 30% | 20% | 22% | 17% |
-| Se queda sin marcar | 60% | 60% | 22% | 33% |
-| xG a favor | 0,99 | 1,11 | 1,72 | 1,52 |
-| xG en contra | 1,80 | 1,78 | 2,21 | 2,53 |
-| Tiros / partido | 15,2 | 16,8 | 13,5 | 12,2 |
-| Tiros a puerta / partido | 4,3 | 5,0 | 5,4 | 5,0 |
-| Tiros recibidos | 16,4 | 16,8 | 17,2 | 18,0 |
-| Tiros a puerta recibidos | 5,5 | 4,2 | 6,6 | 7,2 |
+| Partidos analizados | 10 | 5 | 10 | 6 |
+| Forma (últimos 5) | EDVED | DVDVD | VVDVD | VDDVE |
+| Balance | 3V 3E 4D | 2V 0E 3D | 5V 2E 3D | 3V 1E 2D |
+| Goles a favor / partido | 1,00 | 0,80 | 2,70 | 3,33 |
+| Goles en contra / partido | 1,20 | 1,00 | 1,90 | 2,00 |
+| Goles a favor 1ª parte | 0,60 | 0,40 | 1,80 | 2,33 |
+| Goles a favor 2ª parte | 0,40 | 0,40 | 0,90 | 1,00 |
+| Goles en contra 1ª parte | 0,40 | 0,40 | 0,70 | 0,83 |
+| Goles en contra 2ª parte | 0,80 | 0,60 | 1,20 | 1,17 |
+| Más de 1,5 goles | 50% | 40% | 80% | 83% |
+| Más de 2,5 goles | 40% | 20% | 80% | 83% |
+| Más de 3,5 goles | 30% | 20% | 80% | 83% |
+| Ambos marcan | 30% | 20% | 60% | 50% |
+| Portería a cero | 30% | 20% | 20% | 17% |
+| Se queda sin marcar | 60% | 60% | 20% | 33% |
+| xG a favor | 0,99 | 1,11 | 1,76 | 1,52 |
+| xG en contra | 1,80 | 1,78 | 2,09 | 2,53 |
+| Tiros / partido | 15,2 | 16,8 | 13,7 | 12,2 |
+| Tiros a puerta / partido | 4,3 | 5,0 | 5,9 | 5,0 |
+| Tiros recibidos | 16,4 | 16,8 | 16,7 | 18,0 |
+| Tiros a puerta recibidos | 5,5 | 4,2 | 6,2 | 7,2 |
 | Posesión media % | 50 | 49 | 50 | 48 |
-| Córners a favor | 5,2 | 5,6 | 4,5 | 3,4 |
-| Córners en contra | 5,8 | 4,6 | 5,2 | 6,0 |
-| Córners a favor 1ª parte | 3,5 | 4,2 | 2,2 | 2,2 |
-| Córners a favor 2ª parte | 1,7 | 1,4 | 2,2 | 1,2 |
-| Córners totales del partido | 11,0 | 10,2 | 9,8 | 9,4 |
-| Córners totales 1ª parte | 5,5 | 6,0 | 5,1 | 5,0 |
+| Córners a favor | 5,2 | 5,6 | 4,7 | 3,4 |
+| Córners en contra | 5,8 | 4,6 | 5,3 | 6,0 |
+| Córners a favor 1ª parte | 3,5 | 4,2 | 2,6 | 2,2 |
+| Córners a favor 2ª parte | 1,7 | 1,4 | 2,1 | 1,2 |
+| Córners totales del partido | 11,0 | 10,2 | 10,0 | 9,4 |
+| Córners totales 1ª parte | 5,5 | 6,0 | 5,4 | 5,0 |
 | Córners totales 2ª parte | 5,5 | 4,2 | 4,6 | 4,4 |
-| Más de 8,5 córners | 90% | 100% | 62% | 60% |
-| Más de 9,5 córners | 70% | 60% | 38% | 20% |
-| Más de 10,5 córners | 50% | 40% | 25% | 20% |
-| Faltas cometidas | 10,3 | 10,6 | 11,1 | 11,8 |
-| Faltas recibidas | 12,0 | 12,6 | 11,9 | 10,8 |
-| Amarillas propias | 1,5 | 1,2 | 2,5 | 3,0 |
-| Amarillas del rival | 1,4 | 1,6 | 1,0 | 0,6 |
+| Más de 8,5 córners | 90% | 100% | 67% | 60% |
+| Más de 9,5 córners | 70% | 60% | 44% | 20% |
+| Más de 10,5 córners | 50% | 40% | 33% | 20% |
+| Faltas cometidas | 10,3 | 10,6 | 11,0 | 11,8 |
+| Faltas recibidas | 12,0 | 12,6 | 11,7 | 10,8 |
+| Amarillas propias | 1,5 | 1,2 | 2,4 | 3,0 |
+| Amarillas del rival | 1,4 | 1,6 | 1,3 | 0,6 |
 | Rojas / partido | 0,10 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles SC Paderborn 07 | Recibe SC Paderborn 07 | Tarjetas SC Paderborn 07 | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 1 | 1 | 7 | 3 | 4 |
+| 1-15' | 0 | 1 | 1 | 8 | 4 | 4 |
 | 16-30' | 4 | 2 | 1 | 2 | 0 | 2 |
 | 31-45' | 2 | 1 | 6 | 8 | 3 | 4 |
-| 46-60' | 0 | 2 | 2 | 2 | 4 | 2 |
-| 61-75' | 3 | 2 | 2 | 3 | 1 | 4 |
-| 76-90' | 1 | 4 | 4 | 2 | 7 | 5 |
+| 46-60' | 0 | 2 | 2 | 3 | 4 | 2 |
+| 61-75' | 3 | 2 | 2 | 4 | 1 | 4 |
+| 76-90' | 1 | 4 | 4 | 2 | 7 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -152,74 +152,74 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Eintracht Frankfurt
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Bundesliga | Eintracht Frankfurt 3-1 Hamburger SV | casa | 6-6 | 15 (10) - 12 (3) | 2-4 |
 | 2026-10-27 | DFB-Pokal | Hamburger SV 1-3 Eintracht Frankfurt | fuera | 3-5 | 12 (5) - 15 (6) | 4-0 |
 | 2026-10-24 | Bundesliga | Borussia Dortmund 1-0 Eintracht Frankfurt | fuera | 1-13 | 8 (3) - 18 (5) | 2-0 |
 | 2026-10-16 | Bundesliga | Eintracht Frankfurt 1-0 1. FC Köln | casa | 7-3 | 15 (7) - 9 (3) | 2-2 |
 | 2026-10-10 | Bundesliga | RB Leipzig 6-0 Eintracht Frankfurt | fuera | 6-3 | 18 (9) - 20 (10) | 3-1 |
 | 2026-09-19 | Bundesliga | Eintracht Frankfurt 2-2 SC Freiburg | casa | 3-5 | 10 (3) - 22 (7) | 2-2 |
-| 2026-09-12 | Bundesliga | FSV Mainz 05 1-3 Eintracht Frankfurt | fuera | 5-4 | 11 (5) - 18 (5) | 2-0 |
 
 ## Jugadores de Eintracht Frankfurt
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Onyedika | M | 8 | 720 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 13 | 4 | 0,5 | 5 | 0 |
-| N. Atubolu | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| R. Koch | D | 8 | 675 | 1 | 1 | 7 | 0,9 | 4 | 0,5 | 6 | 1 | 0,1 | 0 | 0 |
-| J. Burkardt | F | 8 | 640 | 4 | 2 | 14 | 1,8 | 7 | 0,9 | 2 | 11 | 1,4 | 0 | 0 |
-| R. Dōan | M | 7 | 577 | 0 | 1 | 7 | 1,0 | 1 | 0,1 | 3 | 13 | 1,9 | 0 | 0 |
-| Elias Baum | D | 8 | 540 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 6 | 9 | 1,1 | 1 | 0 |
-| L. Brassier | D | 6 | 540 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 5 | 4 | 0,7 | 1 | 0 |
-| K. Kosugi | D | 7 | 535 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 8 | 14 | 2,0 | 1 | 0 |
-| C. Uzun | F | 7 | 517 | 2 | 0 | 10 | 1,4 | 6 | 0,9 | 3 | 10 | 1,4 | 0 | 0 |
-| Y. Ebnoutalib | F | 8 | 511 | 6 | 1 | 17 | 2,1 | 10 | 1,2 | 3 | 7 | 0,9 | 1 | 0 |
-| F. Chaïbi | M | 6 | 392 | 0 | 1 | 11 | 1,8 | 7 | 1,2 | 1 | 2 | 0,3 | 1 | 0 |
+| N. Atubolu | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| R. Onyedika | M | 9 | 810 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 14 | 4 | 0,4 | 5 | 0 |
+| R. Koch | D | 9 | 765 | 1 | 1 | 9 | 1,0 | 6 | 0,7 | 8 | 1 | 0,1 | 1 | 0 |
+| R. Dōan | M | 8 | 667 | 0 | 1 | 8 | 1,0 | 2 | 0,2 | 4 | 16 | 2,0 | 0 | 0 |
+| J. Burkardt | F | 9 | 656 | 4 | 2 | 14 | 1,6 | 7 | 0,8 | 2 | 11 | 1,2 | 0 | 0 |
+| Elias Baum | D | 9 | 630 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 8 | 10 | 1,1 | 2 | 0 |
+| L. Brassier | D | 7 | 630 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 5 | 6 | 0,9 | 1 | 0 |
+| C. Uzun | M | 8 | 606 | 2 | 1 | 13 | 1,6 | 7 | 0,9 | 3 | 12 | 1,5 | 0 | 0 |
+| Y. Ebnoutalib | F | 9 | 585 | 7 | 1 | 19 | 2,1 | 12 | 1,3 | 4 | 8 | 0,9 | 1 | 0 |
+| K. Kosugi | D | 8 | 580 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 14 | 1,8 | 1 | 0 |
+| F. Chaïbi | M | 7 | 482 | 0 | 1 | 14 | 2,0 | 8 | 1,1 | 1 | 3 | 0,4 | 1 | 0 |
+| N. Aséko Nkili | M | 7 | 387 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,9 | 0 | 0 |
 | N. Collins | D | 5 | 330 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 8 | 0 | 0,0 | 2 | 0 |
-| N. Aséko Nkili | M | 6 | 298 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 6 | 6 | 1,0 | 0 | 0 |
 | J. Maluze | D | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
-| M. Götze | M | 6 | 250 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 8 | 3 | 0,5 | 3 | 0 |
-| A. Knauff | F | 4 | 151 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 5 | 0 | 0,0 | 1 | 0 |
+| M. Götze | M | 7 | 251 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 8 | 3 | 0,4 | 3 | 0 |
+| A. Knauff | F | 5 | 196 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 7 | 0 | 0,0 | 1 | 0 |
 | A. Amaimouni | F | 5 | 107 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 3 | 4 | 0,8 | 0 | 0 |
 | Oscar Højlund | M | 2 | 56 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 | L. Arrhov | M | 4 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,30 · visitante 1,58 · córners esperados 9,7._
+_Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 44% | 44% | 44% | 2.10 | -7% |
+| 1X2: 2 | 45% | 44% | 44% | 2.10 | -7% |
 | 1X2: X | 25% | 25% | 25% | 3.80 | -7% |
-| 1X2: 1 | 31% | 31% | 31% | 3.00 | -6% |
+| 1X2: 1 | 31% | 31% | 31% | 3.00 | -7% |
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 56% | 55% | 56% | 1.70 | -5% |
+| Doble oportunidad: 1X | 55% | 55% | 55% | 1.70 | -6% |
 | Ambos marcan: No | 42% | 34% | 38% | 2.75 | +4% |
 | Ambos marcan: Sí | 58% | 66% | 62% | 1.40 | -13% |
 | Goles más/menos: Más de 2.5 | 55% | 66% | 60% | 1.44 | -13% |
 | Goles más/menos: Más de 3.5 | 33% | 45% | 39% | 2.10 | -18% |
-| Goles más/menos: Más de 4.5 | 16% | 27% | 22% | 3.50 | -24% |
+| Goles más/menos: Más de 4.5 | 17% | 27% | 22% | 3.50 | -24% |
 | Goles más/menos: Menos de 2.5 ✅ | 45% | 34% | 40% | 2.75 | +9% |
 | Goles más/menos: Menos de 3.5 | 67% | 55% | 61% | 1.73 | +6% |
-| Goles más/menos: Menos de 4.5 | 84% | 73% | 78% | 1.30 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles más/menos: Menos de 4.5 | 83% | 73% | 78% | 1.30 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
-| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles del local: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
+| Goles del local: Más de 0.5 | 72% | 77% | 75% | 1.22 | -9% |
+| Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
+| Goles del local: Menos de 0.5 | 28% | 23% | 25% | 4.00 | +2% |
 | Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -2% |
-| Goles del visitante: Más de 1.5 | 47% | 56% | 51% | 1.67 | -14% |
-| Goles del visitante: Más de 2.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles del visitante: Menos de 1.5 | 53% | 44% | 49% | 2.10 | +2% |
-| Goles del visitante: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
-| 1X2 descanso: 2 | 33% | 36% | 35% | 2.60 | -10% |
+| Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
+| Goles del visitante: Más de 1.5 | 47% | 56% | 52% | 1.67 | -14% |
+| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -18% |
+| Goles del visitante: Menos de 1.5 | 53% | 44% | 48% | 2.10 | +2% |
+| Goles del visitante: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
+| 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
-| 1X2 descanso: 1 | 26% | 27% | 27% | 3.40 | -10% |
+| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

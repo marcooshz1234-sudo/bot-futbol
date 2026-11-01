@@ -1,7 +1,7 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | O. El Azzouzi | M | 3 | 123 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 2 | 0,7 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,74 · visitante 1,34 · córners esperados 9,4._
+_Goles esperados: local 0,74 · visitante 1,35 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

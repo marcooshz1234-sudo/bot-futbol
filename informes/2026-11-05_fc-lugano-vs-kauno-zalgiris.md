@@ -1,17 +1,17 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 19:48_
 
 - **1X2:** 1 **1.18**  ·  X **6.25**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **4.50**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.33** · menos **3.40**
+    - 2,5: más **1.36** · menos **3.10**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **3.00** · menos **1.36**
     - 5,5: más **5.00** · menos **1.17**
@@ -38,12 +38,13 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.11**  ·  2 **5.00**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.10**  ·  2 **5.00**
 - **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **9.00**
 - **Win Both Halves:** 1 **2.20**  ·  2 **51.00**
 - **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **7.50**  ·  Away/Yes **21.00**  ·  Home/No **2.10**  ·  Draw/No **23.00**  ·  Away/No **23.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.75**
+- **Anytime Goal Scorer:** Joel Bichsel **6.00**  ·  Ezgjan Alioski **2.75**  ·  Fedor Cernych **7.00**  ·  Rokas Lekiatas **15.00**  ·  Vykintas Slivka **12.00**  ·  Gratas Sirgedas **10.00**  ·  Tomas Svedkauskas **2.20**  ·  Ahmed Kendouci **3.40**  ·  Damian Kelvin **6.00**  ·  Fabien Ourega **7.00**  ·  Amine Benchaib **6.00**  ·  Aldayr Hernandez **19.00**  ·  Tautvydas Burdzilauskas **12.00**  ·  Nosa Iyobosa Edokpolor **15.00**  ·  Anton Tolordava **19.00**  ·  Deividas Mikelionis **2.20**  ·  Albian Ajeti **1.44**  ·  Beckham Castro **2.75**  ·  Anthony Kalik **10.00**  ·  Joao Victor Carbone **6.00**  ·  Luca Racic **19.00**  ·  Franco Baldassarra **10.00**  ·  Claudio Cassano **2.75**  ·  Ivan Fiolic **7.50**  ·  Lirim Kastrati **19.00**  ·  Dereck Moncada **2.20**  ·  Elias Pihlstrom **2.38**  ·  Motiejus Burba **6.00**  ·  Daniel Dos Santos **2.38**  ·  Renato Steffen **2.38**  ·  Yanis Cimignani **2.75**  ·  Uran Bislimi **4.00**  ·  Anto Grgic **3.40**  ·  Antonios Papadopoulos **6.00**  ·  Lars Lukas Mai **6.00**  ·  Martim Marques **6.00**  ·  Mattia Zanotti **6.00**  ·  Marko Konatar **19.00**  ·  Joris Moutachy **19.00**  ·  Leon Krekovic **6.00**  ·  Joris Aliukonis **2.20**  ·  Leonardo Ribeiro **5.50**  ·  Nicolo Puddu **2.38**  ·  Jason Parente **2.75**  ·  Bekhruzdjon Karimov **5.00**  ·  Gjan Ajdin **5.00**  ·  Vejas Pocius **7.50**  ·  Adomas Uzkurnys **12.00**  ·  Kevin Behrens **1.83**  ·  Gabriel Debeljuh **5.00**  ·  Hannes Delcroix **6.00**  ·  Yukiyoshi Karashima **8.50**  ·  Abner Renan Oliveira **5.00**
 
 ## Estadísticas de equipo
 | | FC Lugano (total) | FC Lugano en casa | Kauno Žalgiris (total) | Kauno Žalgiris fuera |
@@ -185,12 +186,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 20% | 21% | 21% | 4.50 | -7% |
 | Doble oportunidad: 12 | 88% | 86% | 87% | 1.12 | -3% |
 | Doble oportunidad: 1X | 93% | 93% | 93% | 1.04 | -4% |
-| Ambos marcan: No | 47% | 50% | 49% | 1.83 | -11% |
-| Ambos marcan: Sí | 53% | 50% | 51% | 1.83 | -6% |
-| Goles más/menos: Más de 2.5 | 72% | 72% | 72% | 1.33 | -4% |
+| Ambos marcan: No | 48% | 50% | 49% | 1.83 | -11% |
+| Ambos marcan: Sí | 52% | 50% | 51% | 1.83 | -6% |
+| Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -4% |
 | Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.83 | -7% |
 | Goles más/menos: Más de 4.5 | 32% | 31% | 32% | 3.00 | -5% |
-| Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -5% |
+| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.10 | -9% |
 | Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.83 | -10% |
 | Goles más/menos: Menos de 4.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
@@ -205,8 +206,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del local: Menos de 2.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Goles del local: Menos de 3.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del visitante: Más de 0.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Goles del visitante: Más de 0.5 | 55% | 54% | 54% | 1.73 | -6% |
+| Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -9% |
 | 1X2 descanso: X | 30% | 30% | 30% | 3.10 | -8% |
 | 1X2 descanso: 1 | 60% | 60% | 60% | 1.53 | -8% |
 

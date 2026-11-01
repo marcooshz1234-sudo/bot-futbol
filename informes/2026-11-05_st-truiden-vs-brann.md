@@ -1,47 +1,48 @@
 # St. Truiden – Brann
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Daio Wasabi Stayen
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 19:48_
 
 - **1X2:** 1 **1.70**  ·  X **4.00**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.10**
-- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.57** · menos **2.35**
-    - 3,5: más **2.38** · menos **1.53**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
     - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.11** · menos **6.50**
     - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.33**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.50**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **1.36**  ·  2 **2.38**
-- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **4.33**
-- **Win Both Halves:** 1 **4.50**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **19.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.36**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.50**
+- **Win Both Halves:** 1 **4.33**  ·  2 **17.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **3.40**  ·  Draw/No **17.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.10**
+- **Away Player Shots On Target Total:** Saevar Magnusson **23.00**  ·  Kota Takai **15.00**  ·  Jeremy Kandje Mbambi **10.00**  ·  Bard Finne **13.00**  ·  Niklas Castro **17.00**  ·  Fredrik Knudsen **41.00**  ·  Thore Pedersen **41.00**  ·  Noah Holm **9.00**  ·  Nathanael Mbuku **19.00**  ·  Eggert Aron Gudmundsson **23.00**
+- **Anytime Goal Scorer:** Niklas Jensen Wassberg **7.50**  ·  Julian Laegreid **4.00**  ·  Samed Bazdar **2.20**  ·  Visar Musliu **9.50**  ·  Saevar Magnusson **4.00**  ·  Kristall Ingason **3.60**  ·  Shogo Taniguchi **8.50**  ·  Kota Takai **7.50**  ·  Kaito Matsuzawa **3.60**  ·  Ryan Merlen **4.33**  ·  Illyes Benachour **2.62**  ·  Jay-David Mbalanda **1.95**  ·  Jeremy Kandje Mbambi **7.00**  ·  Jacob Sorensen **8.50**  ·  Taiga Hata **5.00**  ·  Ryotaro Araki **2.75**  ·  Robert-Jan Vanwesemael **7.00**  ·  Alouis Diriken **6.00**  ·  Wolke Janssens **8.50**  ·  Abdoulage Sissako **6.00**  ·  Vetle Dragsnes **13.00**  ·  Joederik Pupe **7.00**  ·  Bard Finne **3.60**  ·  Kristian Eriksen **3.60**  ·  Ilias Sebaoui **2.88**  ·  Oumar Diouf **2.20**  ·  Neraysho Kasanwirjo **9.50**  ·  Arbnor Muja **2.62**  ·  Niklas Castro **3.60**  ·  Joachim Soltvedt **5.00**  ·  Ulrik Mathisen **6.00**  ·  Fredrik Knudsen **13.00**  ·  Thore Pedersen **13.00**  ·  Noah Holm **3.25**  ·  Leo Cornic **9.50**  ·  Nathanael Mbuku **3.10**  ·  Nelson Ishiwatari **3.10**  ·  Shion Shinkawa **2.62**  ·  Frederic Soelle **2.20**  ·  Brage Haugen **9.50**  ·  Sondre Vindenes **8.50**  ·  Andreas Wilhelmsen **13.00**  ·  Jonas Torsvik **9.50**  ·  Eggert Aron Gudmundsson **5.00**
 
 ## Estadísticas de equipo
 | | St. Truiden (total) | St. Truiden en casa | Brann (total) | Brann fuera |

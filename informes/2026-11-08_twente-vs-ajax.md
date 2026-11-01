@@ -1,7 +1,7 @@
 # Twente – Ajax
 **Eredivisie** · Regular Season - 12 · 08/11/2026 14:30 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -54,53 +54,53 @@ _Actualizadas: 31/10 19:50_
 ## Estadísticas de equipo
 | | Twente (total) | Twente en casa | Ajax (total) | Ajax fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 9 | 19 | 9 |
-| Forma (últimos 5) | VVDVE | DVVVV | VVVVD | VVDVV |
-| Balance | 10V 4E 4D | 6V 0E 3D | 13V 4E 2D | 7V 1E 1D |
-| Goles a favor / partido | 2,22 | 2,00 | 2,89 | 3,22 |
-| Goles en contra / partido | 1,11 | 0,89 | 1,32 | 1,22 |
-| Goles a favor 1ª parte | 0,78 | 0,67 | 1,26 | 1,11 |
-| Goles a favor 2ª parte | 1,44 | 1,33 | 1,63 | 2,11 |
-| Goles en contra 1ª parte | 0,50 | 0,44 | 0,68 | 0,56 |
-| Goles en contra 2ª parte | 0,61 | 0,44 | 0,63 | 0,67 |
-| Más de 1,5 goles | 78% | 67% | 95% | 100% |
-| Más de 2,5 goles | 61% | 56% | 79% | 89% |
-| Más de 3,5 goles | 50% | 33% | 68% | 67% |
-| Ambos marcan | 61% | 44% | 79% | 78% |
-| Portería a cero | 28% | 44% | 21% | 22% |
+| Partidos analizados | 19 | 9 | 19 | 9 |
+| Forma (últimos 5) | VVVDV | DVVVV | VVVVD | VVDVV |
+| Balance | 11V 4E 4D | 6V 0E 3D | 13V 4E 2D | 7V 1E 1D |
+| Goles a favor / partido | 2,58 | 2,00 | 2,89 | 3,22 |
+| Goles en contra / partido | 1,05 | 0,89 | 1,32 | 1,22 |
+| Goles a favor 1ª parte | 1,00 | 0,67 | 1,26 | 1,11 |
+| Goles a favor 2ª parte | 1,58 | 1,33 | 1,63 | 2,11 |
+| Goles en contra 1ª parte | 0,47 | 0,44 | 0,68 | 0,56 |
+| Goles en contra 2ª parte | 0,58 | 0,44 | 0,63 | 0,67 |
+| Más de 1,5 goles | 79% | 67% | 95% | 100% |
+| Más de 2,5 goles | 63% | 56% | 79% | 89% |
+| Más de 3,5 goles | 53% | 33% | 68% | 67% |
+| Ambos marcan | 58% | 44% | 79% | 78% |
+| Portería a cero | 32% | 44% | 21% | 22% |
 | Se queda sin marcar | 11% | 11% | 0% | 0% |
-| xG a favor | 2,30 | 2,27 | 2,15 | 2,24 |
-| xG en contra | 0,73 | 0,70 | 1,33 | 1,27 |
-| Tiros / partido | 21,4 | 22,4 | 21,5 | 18,7 |
-| Tiros a puerta / partido | 7,2 | 7,6 | 7,9 | 7,7 |
-| Tiros recibidos | 10,3 | 9,0 | 10,5 | 11,0 |
-| Tiros a puerta recibidos | 3,6 | 3,2 | 4,1 | 4,6 |
-| Posesión media % | 61 | 62 | 62 | 61 |
+| xG a favor | 2,61 | 2,27 | 2,15 | 2,24 |
+| xG en contra | 0,68 | 0,70 | 1,33 | 1,27 |
+| Tiros / partido | 21,7 | 22,4 | 21,5 | 18,7 |
+| Tiros a puerta / partido | 7,6 | 7,6 | 7,9 | 7,7 |
+| Tiros recibidos | 9,7 | 9,0 | 10,5 | 11,0 |
+| Tiros a puerta recibidos | 3,4 | 3,2 | 4,1 | 4,6 |
+| Posesión media % | 62 | 62 | 62 | 61 |
 | Córners a favor | 7,1 | 6,7 | 7,2 | 7,2 |
-| Córners en contra | 3,2 | 3,2 | 3,5 | 4,0 |
-| Córners a favor 1ª parte | 3,6 | 3,3 | 3,9 | 4,8 |
+| Córners en contra | 3,0 | 3,2 | 3,5 | 4,0 |
+| Córners a favor 1ª parte | 3,7 | 3,3 | 3,9 | 4,8 |
 | Córners a favor 2ª parte | 3,4 | 3,3 | 3,2 | 2,4 |
-| Córners totales del partido | 10,2 | 9,9 | 10,6 | 11,2 |
+| Córners totales del partido | 10,1 | 9,9 | 10,6 | 11,2 |
 | Córners totales 1ª parte | 5,3 | 5,4 | 5,3 | 6,4 |
-| Córners totales 2ª parte | 4,9 | 4,4 | 5,4 | 4,8 |
-| Más de 8,5 córners | 78% | 67% | 79% | 89% |
-| Más de 9,5 córners | 56% | 44% | 53% | 67% |
-| Más de 10,5 córners | 44% | 44% | 47% | 67% |
-| Faltas cometidas | 12,2 | 10,4 | 9,5 | 11,2 |
-| Faltas recibidas | 10,3 | 10,2 | 11,1 | 12,2 |
+| Córners totales 2ª parte | 4,8 | 4,4 | 5,4 | 4,8 |
+| Más de 8,5 córners | 74% | 67% | 79% | 89% |
+| Más de 9,5 córners | 53% | 44% | 53% | 67% |
+| Más de 10,5 córners | 42% | 44% | 47% | 67% |
+| Faltas cometidas | 11,8 | 10,4 | 9,5 | 11,2 |
+| Faltas recibidas | 10,1 | 10,2 | 11,1 | 12,2 |
 | Amarillas propias | 1,3 | 1,1 | 1,7 | 2,0 |
 | Amarillas del rival | 1,7 | 1,8 | 1,8 | 1,7 |
-| Rojas / partido | 0,06 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,05 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Twente | Recibe Twente | Tarjetas Twente | Goles Ajax | Recibe Ajax | Tarjetas Ajax |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 2 | 1 | 6 | 1 | 2 |
-| 16-30' | 5 | 6 | 4 | 5 | 4 | 5 |
-| 31-45' | 4 | 1 | 7 | 13 | 8 | 4 |
-| 46-60' | 6 | 6 | 4 | 12 | 3 | 1 |
-| 61-75' | 6 | 2 | 3 | 9 | 2 | 6 |
-| 76-90' | 14 | 3 | 6 | 10 | 8 | 13 |
+| 1-15' | 6 | 2 | 1 | 6 | 1 | 2 |
+| 16-30' | 5 | 6 | 5 | 5 | 4 | 5 |
+| 31-45' | 8 | 1 | 7 | 13 | 8 | 4 |
+| 46-60' | 7 | 6 | 4 | 12 | 3 | 1 |
+| 61-75' | 8 | 2 | 3 | 9 | 2 | 6 |
+| 76-90' | 15 | 3 | 6 | 10 | 8 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -118,33 +118,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Twente
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Eredivisie | Excelsior 0-9 Twente | fuera | 8-0 | 28 (15) - 0 (0) | 1-1 |
 | 2026-10-25 | Eredivisie | AZ Alkmaar 0-2 Twente | fuera | 6-3 | 16 (5) - 13 (5) | 1-3 |
 | 2026-10-22 | Conference League | Lincoln Red Imps FC 1-4 Twente | fuera | 6-1 | 26 (8) - 5 (2) | 2-0 |
 | 2026-10-18 | Eredivisie | Twente 1-2 Utrecht | casa | 5-4 | 24 (5) - 16 (5) | 0-2 |
 | 2026-10-15 | Conference League | Twente 1-0 FC Thun | casa | 6-1 | 22 (5) - 6 (0) | 1-1 |
 | 2026-10-10 | Eredivisie | Fortuna Sittard 1-1 Twente | fuera | 7-5 | 12 (6) - 14 (5) | 1-0 |
-| 2026-09-20 | Eredivisie | Twente 3-2 PSV Eindhoven | casa | 6-5 | 23 (5) - 11 (4) | 1-3 |
 
 ## Jugadores de Twente
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B. van Rooij | D | 17 | 1490 | 0 | 2 | 2 | 0,1 | 2 | 0,1 | 19 | 7 | 0,4 | 1 | 0 |
-| R. Zerrouki | M | 17 | 1452 | 2 | 1 | 18 | 1,1 | 2 | 0,1 | 23 | 11 | 0,6 | 3 | 0 |
-| W. Weghorst | F | 16 | 1375 | 6 | 5 | 40 | 2,5 | 22 | 1,4 | 24 | 24 | 1,5 | 2 | 0 |
-| R. Nijstad | D | 15 | 1349 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 7 | 4 | 0,3 | 1 | 0 |
-| R. Pröpper | D | 16 | 1255 | 3 | 0 | 15 | 0,9 | 8 | 0,5 | 17 | 13 | 0,8 | 3 | 0 |
+| R. Zerrouki | M | 18 | 1542 | 3 | 1 | 20 | 1,1 | 3 | 0,2 | 24 | 12 | 0,7 | 3 | 0 |
+| B. van Rooij | D | 18 | 1535 | 0 | 2 | 4 | 0,2 | 3 | 0,2 | 19 | 8 | 0,4 | 1 | 0 |
+| W. Weghorst | F | 17 | 1438 | 10 | 5 | 45 | 2,6 | 26 | 1,5 | 25 | 24 | 1,4 | 3 | 0 |
+| R. Nijstad | D | 16 | 1394 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 7 | 4 | 0,2 | 1 | 0 |
+| R. Pröpper | D | 17 | 1327 | 3 | 0 | 17 | 1,0 | 8 | 0,5 | 17 | 14 | 0,8 | 3 | 0 |
+| D. Rots | F | 17 | 1166 | 4 | 2 | 28 | 1,6 | 10 | 0,6 | 18 | 18 | 1,1 | 2 | 0 |
+| S. Ørjasæter | F | 16 | 1162 | 2 | 11 | 26 | 1,6 | 12 | 0,8 | 3 | 11 | 0,7 | 1 | 0 |
+| A. Adelgaard | D | 14 | 1145 | 1 | 1 | 9 | 0,6 | 4 | 0,3 | 23 | 10 | 0,7 | 2 | 0 |
 | D. Weidmann | M | 15 | 1134 | 5 | 5 | 35 | 2,3 | 19 | 1,3 | 20 | 29 | 1,9 | 1 | 1 |
-| S. Ørjasæter | M | 15 | 1099 | 2 | 6 | 26 | 1,7 | 12 | 0,8 | 3 | 11 | 0,7 | 1 | 0 |
-| D. Rots | M | 16 | 1076 | 2 | 2 | 24 | 1,5 | 8 | 0,5 | 17 | 18 | 1,1 | 2 | 0 |
-| A. Adelgaard | D | 13 | 1055 | 1 | 1 | 7 | 0,5 | 2 | 0,2 | 21 | 10 | 0,8 | 2 | 0 |
-| Y. Taha | M | 14 | 989 | 3 | 3 | 26 | 1,9 | 9 | 0,6 | 17 | 8 | 0,6 | 3 | 0 |
+| Y. Taha | M | 15 | 1079 | 3 | 3 | 29 | 1,9 | 10 | 0,7 | 17 | 8 | 0,5 | 3 | 0 |
 | Lars Unnerstall | G | 10 | 930 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Pjaca | F | 16 | 786 | 6 | 1 | 19 | 1,2 | 13 | 0,8 | 5 | 5 | 0,3 | 0 | 0 |
+| M. Pjaca | F | 17 | 813 | 6 | 1 | 19 | 1,1 | 13 | 0,8 | 5 | 6 | 0,4 | 0 | 0 |
 | Max Bruns | D | 10 | 758 | 3 | 1 | 8 | 0,8 | 5 | 0,5 | 4 | 6 | 0,6 | 1 | 0 |
-| J. Drommel | G | 7 | 630 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| T. van den Belt | M | 16 | 472 | 2 | 1 | 18 | 1,1 | 8 | 0,5 | 5 | 1 | 0,1 | 0 | 0 |
-| Kristian Hlynsson | M | 10 | 408 | 0 | 0 | 9 | 0,9 | 4 | 0,4 | 6 | 9 | 0,9 | 0 | 0 |
-| Lucas Vennegoor of Hesselink | F | 11 | 260 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 3 | 4 | 0,4 | 0 | 0 |
+| J. Drommel | G | 8 | 720 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| T. van den Belt | M | 17 | 562 | 3 | 2 | 22 | 1,3 | 10 | 0,6 | 6 | 2 | 0,1 | 0 | 0 |
+| K. Hlynsson | M | 11 | 426 | 0 | 0 | 9 | 0,8 | 4 | 0,4 | 6 | 9 | 0,8 | 0 | 0 |
+| Lucas Vennegoor of Hesselink | F | 12 | 287 | 1 | 0 | 7 | 0,6 | 3 | 0,2 | 3 | 4 | 0,3 | 0 | 0 |
 | Filip Thorvaldsen | F | 9 | 212 | 0 | 0 | 11 | 1,2 | 7 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 | Mathias Kjølø | M | 5 | 127 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 3 | 2 | 0,4 | 0 | 0 |
 | S. Lemkin | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
@@ -184,42 +184,42 @@ _Sin bajas comunicadas por ahora._
 | Maarten Paes | G | 5 | 457 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 1,46 · córners esperados 9,5._
+_Goles esperados: local 2,29 · visitante 1,38 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 39% | 34% | 2.35 | -21% |
-| 1X2: X | 21% | 24% | 23% | 3.90 | -12% |
-| 1X2: 1 | 51% | 37% | 44% | 2.50 | +10% |
-| Doble oportunidad: X2 | 49% | 63% | 56% | 1.50 | -16% |
-| Doble oportunidad: 12 | 79% | 76% | 77% | 1.25 | -3% |
-| Doble oportunidad: 1X | 72% | 61% | 66% | 1.57 | +4% |
-| Ambos marcan: No | 33% | 31% | 32% | 3.00 | -3% |
+| 1X2: 2 | 22% | 39% | 31% | 2.35 | -28% |
+| 1X2: X | 20% | 24% | 22% | 3.90 | -15% |
+| 1X2: 1 | 58% | 37% | 47% | 2.50 | +19% |
+| Doble oportunidad: X2 | 42% | 63% | 53% | 1.50 | -21% |
+| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -2% |
+| Doble oportunidad: 1X | 78% | 61% | 69% | 1.57 | +9% |
+| Ambos marcan: No | 33% | 31% | 32% | 3.00 | -4% |
 | Ambos marcan: Sí | 67% | 69% | 68% | 1.36 | -8% |
-| Goles más/menos: Más de 2.5 | 68% | 70% | 69% | 1.36 | -7% |
-| Goles más/menos: Más de 3.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles más/menos: Más de 4.5 | 27% | 29% | 28% | 3.25 | -8% |
-| Goles más/menos: Menos de 2.5 | 32% | 30% | 31% | 3.10 | -3% |
-| Goles más/menos: Menos de 3.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles más/menos: Menos de 4.5 | 73% | 71% | 72% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 23% | 21% | 4.00 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 77% | 79% | 1.22 | -4% |
-| Goles del local: Más de 1.5 | 60% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Más de 2.5 | 33% | 27% | 30% | 3.50 | +5% |
-| Goles del local: Menos de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
-| Goles del local: Menos de 2.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles del visitante: Más de 1.5 | 43% | 54% | 48% | 1.73 | -16% |
-| Goles del visitante: Más de 2.5 | 18% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 57% | 46% | 52% | 2.00 | +3% |
-| Goles del visitante: Menos de 2.5 | 82% | 71% | 76% | 1.33 | +2% |
-| 1X2 descanso: 2 | 25% | 34% | 29% | 2.75 | -20% |
-| 1X2 descanso: X | 36% | 36% | 36% | 2.60 | -7% |
-| 1X2 descanso: 1 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles más/menos: Más de 2.5 | 71% | 70% | 70% | 1.36 | -4% |
+| Goles más/menos: Más de 3.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Goles más/menos: Más de 4.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles más/menos: Menos de 2.5 | 29% | 30% | 30% | 3.10 | -8% |
+| Goles más/menos: Menos de 3.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Goles más/menos: Menos de 4.5 | 69% | 71% | 70% | 1.33 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 22% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 78% | 1.22 | -5% |
+| Goles del local: Más de 1.5 | 67% | 54% | 60% | 1.73 | +4% |
+| Goles del local: Más de 2.5 | 40% | 27% | 33% | 3.50 | +17% |
+| Goles del local: Menos de 1.5 | 33% | 46% | 40% | 2.00 | -20% |
+| Goles del local: Menos de 2.5 | 60% | 73% | 67% | 1.28 | -15% |
+| Goles del visitante: Más de 1.5 | 40% | 54% | 47% | 1.73 | -19% |
+| Goles del visitante: Más de 2.5 | 16% | 29% | 23% | 3.25 | -27% |
+| Goles del visitante: Menos de 1.5 | 60% | 46% | 53% | 2.00 | +6% |
+| Goles del visitante: Menos de 2.5 | 84% | 71% | 77% | 1.33 | +3% |
+| 1X2 descanso: 2 | 22% | 34% | 28% | 2.75 | -24% |
+| 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
+| 1X2 descanso: 1 | 44% | 31% | 37% | 3.00 | +12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Sporting CP – Moreirense
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Afonso Vieira | M | 2 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 0,77 · córners esperados 8,8._
+_Goles esperados: local 2,39 · visitante 0,77 · córners esperados 8,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

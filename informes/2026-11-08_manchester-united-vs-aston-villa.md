@@ -1,7 +1,7 @@
 # Manchester United – Aston Villa
 **Premier League** · Regular Season - 10 · 08/11/2026 17:30 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -179,28 +179,28 @@ _Sin bajas comunicadas por ahora._
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,66 · visitante 1,77 · córners esperados 9,5._
+_Goles esperados: local 1,66 · visitante 1,78 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 41% | 31% | 36% | 3.00 | +8% |
-| 1X2: X | 23% | 26% | 24% | 3.60 | -13% |
+| 1X2: 2 ✅ | 41% | 31% | 36% | 3.00 | +9% |
+| 1X2: X | 22% | 26% | 24% | 3.60 | -13% |
 | 1X2: 1 | 36% | 43% | 40% | 2.20 | -13% |
 | Doble oportunidad: X2 | 64% | 57% | 60% | 1.67 | +0% |
-| Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
+| Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 59% | 70% | 64% | 1.36 | -13% |
 | Ambos marcan: No | 33% | 38% | 35% | 2.50 | -12% |
 | Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
-| Goles más/menos: Más de 2.5 | 66% | 59% | 63% | 1.62 | +1% |
-| Goles más/menos: Más de 3.5 | 45% | 40% | 42% | 2.38 | +0% |
+| Goles más/menos: Más de 2.5 | 67% | 59% | 63% | 1.62 | +2% |
+| Goles más/menos: Más de 3.5 | 45% | 40% | 42% | 2.38 | +1% |
 | Goles más/menos: Más de 4.5 | 26% | 22% | 24% | 4.33 | +4% |
-| Goles más/menos: Menos de 2.5 | 34% | 41% | 37% | 2.30 | -14% |
+| Goles más/menos: Menos de 2.5 | 33% | 41% | 37% | 2.30 | -14% |
 | Goles más/menos: Menos de 3.5 | 55% | 60% | 58% | 1.57 | -9% |
 | Goles más/menos: Menos de 4.5 | 74% | 78% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 42% | 2.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
 | Goles del local: Más de 1.5 | 49% | 50% | 50% | 1.83 | -9% |
 | Goles del local: Más de 2.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles del local: Menos de 1.5 | 51% | 50% | 50% | 1.83 | -8% |

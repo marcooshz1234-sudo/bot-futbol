@@ -1,7 +1,7 @@
 # West Brom – Millwall
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Lukas Jensen | G | 3 | 275 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,48 · visitante 1,38 · córners esperados 10,5._
+_Goles esperados: local 1,48 · visitante 1,39 · córners esperados 10,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

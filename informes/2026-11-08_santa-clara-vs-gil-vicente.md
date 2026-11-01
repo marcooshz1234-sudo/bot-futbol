@@ -1,7 +1,7 @@
 # Santa Clara – GIL Vicente
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Martin Fernández | M | 2 | 73 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 0,78 · córners esperados 9,2._
+_Goles esperados: local 1,09 · visitante 0,79 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

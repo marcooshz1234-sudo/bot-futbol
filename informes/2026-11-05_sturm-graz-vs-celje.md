@@ -1,7 +1,7 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Merkur-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -197,9 +197,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 65% | 40% | 52% | 2.38 | +24% |
 | Goles más/menos: Menos de 3.5 | 84% | 60% | 72% | 1.57 | +13% |
 | Goles más/menos: Menos de 4.5 | 94% | 78% | 86% | 1.22 | +5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 75% | 67% | 1.25 | -16% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 41% | 32% | 2.25 | -28% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 25% | 33% | 3.75 | +22% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 75% | 68% | 1.25 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 41% | 32% | 2.25 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 25% | 32% | 3.75 | +22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 59% | 68% | 1.57 | +6% |
 | Goles del local: Más de 1.5 | 42% | 61% | 51% | 1.53 | -21% |
 | Goles del local: Más de 2.5 | 17% | 35% | 26% | 2.62 | -31% |
@@ -209,7 +209,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 15% | 29% | 22% | 3.25 | -29% |
 | Goles del visitante: Menos de 0.5 | 51% | 35% | 43% | 2.62 | +13% |
 | Goles del visitante: Menos de 1.5 | 85% | 71% | 78% | 1.33 | +4% |
-| 1X2 descanso: X | 48% | 37% | 42% | 2.50 | +6% |
+| 1X2 descanso: X | 48% | 37% | 42% | 2.50 | +5% |
 | 1X2 descanso: 1 | 37% | 45% | 41% | 2.05 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

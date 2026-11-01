@@ -1,7 +1,7 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,18 · córners esperados 9,2._
+_Goles esperados: local 1,38 · visitante 1,18 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

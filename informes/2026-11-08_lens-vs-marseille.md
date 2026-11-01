@@ -1,7 +1,7 @@
 # Lens – Marseille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -184,40 +184,40 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,31 · visitante 1,67 · córners esperados 9,5._
+_Goles esperados: local 2,27 · visitante 1,66 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 28% | 30% | 29% | 3.10 | -10% |
 | 1X2: X | 20% | 25% | 22% | 3.75 | -16% |
-| 1X2: 1 | 52% | 45% | 49% | 2.05 | -0% |
+| 1X2: 1 | 52% | 45% | 49% | 2.05 | -1% |
 | Doble oportunidad: X2 | 48% | 55% | 51% | 1.73 | -11% |
 | Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
 | Doble oportunidad: 1X | 72% | 70% | 71% | 1.36 | -4% |
 | Ambos marcan: No | 27% | 35% | 31% | 2.62 | -18% |
 | Ambos marcan: Sí | 73% | 65% | 69% | 1.44 | -1% |
-| Goles más/menos: Más de 2.5 | 76% | 64% | 70% | 1.50 | +5% |
-| Goles más/menos: Más de 3.5 | 56% | 45% | 51% | 2.10 | +7% |
-| Goles más/menos: Más de 4.5 ✅ | 37% | 25% | 31% | 3.75 | +17% |
-| Goles más/menos: Menos de 2.5 | 24% | 36% | 30% | 2.62 | -21% |
-| Goles más/menos: Menos de 3.5 | 44% | 55% | 49% | 1.73 | -15% |
-| Goles más/menos: Menos de 4.5 | 63% | 75% | 69% | 1.28 | -12% |
+| Goles más/menos: Más de 2.5 | 75% | 64% | 69% | 1.50 | +4% |
+| Goles más/menos: Más de 3.5 | 55% | 45% | 50% | 2.10 | +6% |
+| Goles más/menos: Más de 4.5 ✅ | 36% | 25% | 31% | 3.75 | +15% |
+| Goles más/menos: Menos de 2.5 | 25% | 36% | 31% | 2.62 | -20% |
+| Goles más/menos: Menos de 3.5 | 45% | 55% | 50% | 1.73 | -14% |
+| Goles más/menos: Menos de 4.5 | 64% | 75% | 69% | 1.28 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
-| Goles 1ª parte más/menos: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
+| Goles 1ª parte más/menos: Más de 2.5 | 25% | 21% | 23% | 4.50 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles del local: Más de 1.5 | 67% | 56% | 61% | 1.67 | +3% |
-| Goles del local: Más de 2.5 ✅ | 41% | 29% | 35% | 3.25 | +13% |
-| Goles del local: Menos de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
-| Goles del local: Menos de 2.5 | 59% | 71% | 65% | 1.33 | -13% |
+| Goles del local: Más de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
+| Goles del local: Más de 2.5 ✅ | 40% | 29% | 34% | 3.25 | +12% |
+| Goles del local: Menos de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
+| Goles del local: Menos de 2.5 | 60% | 71% | 66% | 1.33 | -13% |
 | Goles del visitante: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Goles del visitante: Más de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles del visitante: Más de 2.5 | 24% | 21% | 22% | 4.50 | -0% |
-| Goles del visitante: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -16% |
-| Goles del visitante: Menos de 1.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles del visitante: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -8% |
+| Goles del visitante: Más de 1.5 | 49% | 44% | 47% | 2.10 | -2% |
+| Goles del visitante: Más de 2.5 | 23% | 21% | 22% | 4.50 | -1% |
+| Goles del visitante: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles del visitante: Menos de 1.5 | 51% | 56% | 53% | 1.67 | -11% |
+| Goles del visitante: Menos de 2.5 | 77% | 79% | 78% | 1.18 | -8% |
 | 1X2 descanso: 2 | 26% | 26% | 26% | 3.50 | -9% |
 | 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -12% |
 | 1X2 descanso: 1 | 41% | 37% | 39% | 2.50 | -3% |

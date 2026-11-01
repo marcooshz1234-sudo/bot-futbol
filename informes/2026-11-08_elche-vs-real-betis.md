@@ -1,7 +1,7 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -179,11 +179,11 @@ _Sin bajas comunicadas por ahora._
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,48 · visitante 1,61 · córners esperados 9,5._
+_Goles esperados: local 1,48 · visitante 1,62 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 44% | 43% | 2.10 | -11% |
+| 1X2: 2 | 41% | 44% | 43% | 2.10 | -10% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -11% |
 | 1X2: 1 | 35% | 30% | 33% | 3.10 | +1% |
 | Doble oportunidad: X2 | 65% | 70% | 67% | 1.36 | -8% |
@@ -193,12 +193,12 @@ _Goles esperados: local 1,48 · visitante 1,61 · córners esperados 9,5._
 | Ambos marcan: Sí | 62% | 59% | 60% | 1.57 | -5% |
 | Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 60% | 57% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 3.5 | 37% | 36% | 37% | 2.62 | -4% |
+| Goles más/menos: Más de 3.5 | 37% | 36% | 37% | 2.62 | -3% |
 | Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -11% |
 | Goles más/menos: Menos de 2.5 | 40% | 43% | 42% | 2.20 | -8% |
 | Goles más/menos: Menos de 3.5 | 63% | 64% | 63% | 1.50 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
@@ -206,11 +206,11 @@ _Goles esperados: local 1,48 · visitante 1,61 · córners esperados 9,5._
 | Goles del local: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles del local: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
 | Goles del visitante: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del visitante: Más de 1.5 | 48% | 50% | 49% | 1.83 | -11% |
-| Goles del visitante: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
-| Goles del visitante: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles del visitante: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -6% |
-| Goles del visitante: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles del visitante: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles del visitante: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles del visitante: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles del visitante: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
 | 1X2 descanso: 2 | 32% | 34% | 33% | 2.75 | -9% |
 | 1X2 descanso: X | 39% | 40% | 39% | 2.38 | -6% |
 | 1X2 descanso: 1 | 29% | 26% | 27% | 3.60 | -1% |

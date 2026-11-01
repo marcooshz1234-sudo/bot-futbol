@@ -1,7 +1,7 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,40 +176,40 @@ _Sin precedentes recientes._
 | A. Neophytou | F | 6 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,18 · córners esperados 9,6._
+_Goles esperados: local 1,40 · visitante 1,20 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 23% | 27% | 4.00 | +8% |
+| 1X2: 2 | 32% | 23% | 28% | 4.00 | +10% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -3% |
-| 1X2: 1 | 43% | 53% | 48% | 1.73 | -17% |
-| Doble oportunidad: X2 | 57% | 46% | 52% | 2.05 | +6% |
+| 1X2: 1 | 42% | 53% | 47% | 1.73 | -18% |
+| Doble oportunidad: X2 | 58% | 46% | 52% | 2.05 | +7% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 69% | 78% | 73% | 1.22 | -11% |
+| Doble oportunidad: 1X | 68% | 78% | 73% | 1.22 | -11% |
 | Ambos marcan: No | 47% | 41% | 44% | 2.25 | -1% |
 | Ambos marcan: Sí | 53% | 59% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 2.5 | 49% | 60% | 54% | 1.57 | -15% |
+| Goles más/menos: Más de 2.5 | 48% | 60% | 54% | 1.57 | -15% |
 | Goles más/menos: Más de 3.5 | 27% | 40% | 33% | 2.38 | -21% |
-| Goles más/menos: Más de 4.5 | 12% | 22% | 17% | 4.33 | -25% |
-| Goles más/menos: Menos de 2.5 | 51% | 40% | 46% | 2.38 | +9% |
+| Goles más/menos: Más de 4.5 | 12% | 22% | 17% | 4.33 | -26% |
+| Goles más/menos: Menos de 2.5 | 52% | 40% | 46% | 2.38 | +9% |
 | Goles más/menos: Menos de 3.5 | 73% | 60% | 67% | 1.57 | +5% |
 | Goles más/menos: Menos de 4.5 | 88% | 78% | 83% | 1.22 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 41% | 36% | 2.25 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 59% | 64% | 1.57 | +0% |
-| Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -19% |
-| Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -27% |
-| Goles del local: Menos de 1.5 | 58% | 42% | 50% | 2.20 | +11% |
+| Goles del local: Más de 1.5 | 41% | 58% | 49% | 1.62 | -20% |
+| Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -28% |
+| Goles del local: Menos de 1.5 | 59% | 42% | 51% | 2.20 | +12% |
 | Goles del local: Menos de 2.5 | 83% | 69% | 76% | 1.36 | +3% |
-| Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del visitante: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
-| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | +0% |
+| Goles del visitante: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
+| 1X2 descanso: 2 | 26% | 21% | 23% | 4.33 | +2% |
 | 1X2 descanso: X | 43% | 37% | 40% | 2.50 | +1% |
-| 1X2 descanso: 1 | 32% | 41% | 37% | 2.25 | -18% |
+| 1X2 descanso: 1 | 31% | 41% | 36% | 2.25 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Lillestrom – Plzen
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -174,7 +174,7 @@ _Sin precedentes recientes._
 | Jiří Maxim Panoš | M | 1 | 64 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,26 · visitante 1,53 · córners esperados 9,2._
+_Goles esperados: local 1,26 · visitante 1,54 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -182,7 +182,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 44% | 40% | 42% | 2.30 | -3% |
 | 1X2: X | 25% | 26% | 25% | 3.60 | -8% |
-| 1X2: 1 | 31% | 34% | 33% | 2.75 | -10% |
+| 1X2: 1 | 31% | 34% | 33% | 2.75 | -11% |
 | Doble oportunidad: X2 | 69% | 67% | 68% | 1.40 | -5% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 56% | 60% | 58% | 1.57 | -9% |
@@ -201,17 +201,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
 | Goles del local: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
 | Goles del local: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles del local: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
+| Goles del local: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +4% |
 | Goles del local: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
 | Goles del local: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
 | Goles del visitante: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del visitante: Más de 1.5 | 45% | 49% | 47% | 1.91 | -10% |
 | Goles del visitante: Más de 2.5 | 20% | 23% | 22% | 4.00 | -13% |
 | Goles del visitante: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -5% |
-| Goles del visitante: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
+| Goles del visitante: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -5% |
 | Goles del visitante: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -4% |
-| 1X2 descanso: 2 | 33% | 32% | 32% | 2.88 | -7% |
+| 1X2 descanso: 2 | 33% | 32% | 32% | 2.88 | -6% |
 | 1X2 descanso: X | 42% | 38% | 40% | 2.40 | -4% |
-| 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -14% |
+| 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

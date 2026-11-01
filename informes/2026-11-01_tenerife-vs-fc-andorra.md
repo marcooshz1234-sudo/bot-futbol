@@ -1,7 +1,7 @@
 # Tenerife – FC Andorra
 **Segunda División** · Regular Season - 12 · 01/11/2026 21:00 (hora España) · Heliodoro Rodríguez López
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | D. Diaz | M | 6 | 198 | 0 | 0 | 4 | 0,7 | 3 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 1,48 · córners esperados 9,3._
+_Goles esperados: local 1,17 · visitante 1,47 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -206,12 +206,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 56% | 73% | 64% | 1.30 | -17% |
 | Ambos marcan: No | 47% | 51% | 49% | 1.80 | -12% |
 | Ambos marcan: Sí | 53% | 49% | 51% | 1.91 | -3% |
-| Goles más/menos: Más de 1.5 | 74% | 69% | 72% | 1.36 | -3% |
-| Goles más/menos: Más de 2.5 | 49% | 43% | 46% | 2.20 | +2% |
-| Goles más/menos: Más de 3.5 | 28% | 23% | 25% | 4.00 | +2% |
-| Goles más/menos: Menos de 1.5 | 26% | 31% | 28% | 3.00 | -15% |
+| Goles más/menos: Más de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
+| Goles más/menos: Más de 2.5 | 49% | 43% | 46% | 2.20 | +1% |
+| Goles más/menos: Más de 3.5 | 27% | 23% | 25% | 4.00 | +2% |
+| Goles más/menos: Menos de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles más/menos: Menos de 2.5 | 51% | 57% | 54% | 1.65 | -11% |
-| Goles más/menos: Menos de 3.5 | 72% | 77% | 75% | 1.22 | -9% |
+| Goles más/menos: Menos de 3.5 | 73% | 77% | 75% | 1.22 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 29% | 31% | 3.25 | -1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -12% |
@@ -224,9 +224,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 43% | 29% | 36% | 3.25 | +18% |
 | Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
 | Goles del visitante: Menos de 1.5 | 57% | 71% | 64% | 1.33 | -15% |
-| Córners más/menos: Más de 8.5 | 53% | 56% | 54% | 1.67 | -10% |
+| Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -8% |
-| Córners más/menos: Menos de 8.5 | 47% | 44% | 46% | 2.10 | -4% |
+| Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -4% |
 | Córners más/menos: Menos de 9.5 | 56% | 56% | 56% | 1.67 | -6% |
 | 1X2 descanso: 2 | 33% | 21% | 27% | 4.33 | +17% |
 | 1X2 descanso: X | 43% | 45% | 44% | 2.05 | -10% |

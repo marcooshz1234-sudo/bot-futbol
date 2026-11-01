@@ -1,18 +1,18 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 01/11/2026 13:56. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 01/11/2026 19:49. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 69 · **acertados:** 23 (33%)
-- **Beneficio:** -8.24 unidades · **rentabilidad (yield):** -11.9%
-- **Cuota media:** 2.86 · **pendientes:** 61
+- **Picks jugados:** 70 · **acertados:** 23 (33%)
+- **Beneficio:** -9.24 unidades · **rentabilidad (yield):** -13.2%
+- **Cuota media:** 2.86 · **pendientes:** 59
 
-_Con 69 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 70 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 15 | 6 (40%) | +0.70 | +4.7% |
+| 1X2 | 16 | 6 (38%) | -0.30 | -1.9% |
 | Goles más/menos | 15 | 5 (33%) | -1.53 | -10.2% |
 | Goles del local | 12 | 4 (33%) | +0.02 | +0.2% |
 | Goles del visitante | 10 | 2 (20%) | -4.76 | -47.6% |
@@ -25,6 +25,7 @@ _Con 69 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-01 | Union Berlin – 1. FC Köln | 1X2: 2 | 2.60 | ❌ | -1.00 |
 | 2026-10-31 | Barcelona – Alaves | Córners más/menos: Menos de 10.5 | 2.10 | ✅ | +1.10 |
 | 2026-10-31 | Estac Troyes – Le Mans | 1X2 descanso: 2 | 3.50 | ❌ | -1.00 |
 | 2026-10-31 | Estac Troyes – Le Mans | 1X2: 2 | 3.00 | ❌ | -1.00 |
@@ -64,4 +65,3 @@ _Con 69 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-28 | Manchester City – Brighton | Goles del local: Menos de 1.5 | 2.50 | ❌ | -1.00 |
 | 2026-10-28 | Manchester City – Brighton | Doble oportunidad: X2 | 2.25 | ✅ | +1.25 |
 | 2026-10-28 | Venezia – Inter | Goles del visitante: Más de 3.5 | 3.40 | ❌ | -1.00 |
-| 2026-10-28 | Venezia – Inter | Goles más/menos: Más de 4.5 | 3.20 | ❌ | -1.00 |

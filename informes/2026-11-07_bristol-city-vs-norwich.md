@@ -1,7 +1,7 @@
 # Bristol City – Norwich
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | S. Field | M | 8 | 339 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 5 | 7 | 0,9 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,48 · visitante 1,42 · córners esperados 9,5._
+_Goles esperados: local 1,48 · visitante 1,42 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

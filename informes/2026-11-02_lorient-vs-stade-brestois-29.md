@@ -1,7 +1,7 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 02/11/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -203,16 +203,16 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,12 · córners esperados 9,2._
+_Goles esperados: local 0,98 · visitante 1,10 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 31% | 35% | 3.10 | +8% |
+| 1X2: 2 | 38% | 31% | 34% | 3.10 | +7% |
 | 1X2: X | 30% | 31% | 30% | 3.10 | -6% |
-| 1X2: 1 | 31% | 39% | 35% | 2.45 | -14% |
-| Doble oportunidad: X2 | 69% | 62% | 65% | 1.53 | -0% |
+| 1X2: 1 | 32% | 39% | 35% | 2.45 | -14% |
+| Doble oportunidad: X2 | 68% | 62% | 65% | 1.53 | -1% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 61% | 69% | 65% | 1.36 | -11% |
+| Doble oportunidad: 1X | 62% | 69% | 66% | 1.36 | -11% |
 | Ambos marcan: No | 58% | 48% | 53% | 1.95 | +4% |
 | Ambos marcan: Sí | 42% | 52% | 47% | 1.80 | -16% |
 | Goles más/menos: Más de 1.5 | 61% | 72% | 67% | 1.33 | -11% |
@@ -225,18 +225,18 @@ _Goles esperados: local 0,96 · visitante 1,12 · córners esperados 9,2._
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del local: Más de 0.5 | 62% | 73% | 68% | 1.28 | -14% |
-| Goles del local: Más de 1.5 | 25% | 39% | 32% | 2.38 | -24% |
-| Goles del local: Menos de 0.5 ✅ | 38% | 27% | 32% | 3.50 | +14% |
-| Goles del local: Menos de 1.5 | 75% | 61% | 68% | 1.53 | +4% |
+| Goles del local: Más de 0.5 | 62% | 73% | 68% | 1.28 | -13% |
+| Goles del local: Más de 1.5 | 26% | 39% | 32% | 2.38 | -23% |
+| Goles del local: Menos de 0.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
+| Goles del local: Menos de 1.5 | 74% | 61% | 68% | 1.53 | +4% |
 | Goles del visitante: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del visitante: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del visitante: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
 | Córners más/menos: Más de 9.5 | 43% | 44% | 44% | 2.10 | -8% |
 | Córners más/menos: Menos de 9.5 | 57% | 56% | 56% | 1.67 | -6% |
-| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -4% |
+| 1X2 descanso: 2 | 27% | 26% | 27% | 3.60 | -4% |
 | 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
-| 1X2 descanso: 1 | 23% | 30% | 27% | 3.10 | -18% |
+| 1X2 descanso: 1 | 24% | 30% | 27% | 3.10 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

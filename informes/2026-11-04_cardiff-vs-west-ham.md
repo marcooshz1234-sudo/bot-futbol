@@ -1,7 +1,7 @@
 # Cardiff – West Ham
 **Championship** · Regular Season - 14 · 04/11/2026 20:45 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:00_
@@ -201,7 +201,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 39% | 50% | 45% | 1.91 | -15% |
 | Goles más/menos: Menos de 4.5 | 59% | 70% | 64% | 1.36 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 49% | 52% | 1.91 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 23% | 26% | 4.00 | +2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 22% | 19% | 4.33 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 51% | 48% | 1.80 | -13% |

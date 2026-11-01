@@ -1,7 +1,7 @@
 # Portsmouth – Swansea
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -182,7 +182,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
 | Goles más/menos: Menos de 3.5 | 83% | 75% | 79% | 1.28 | +1% |
 | 1X2 descanso: 2 | 26% | 29% | 28% | 3.20 | -12% |
-| 1X2 descanso: X | 49% | 44% | 46% | 2.10 | -3% |
+| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

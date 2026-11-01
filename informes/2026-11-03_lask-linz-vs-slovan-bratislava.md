@@ -1,7 +1,7 @@
 # Lask Linz – Slovan Bratislava
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -179,7 +179,7 @@ _Sin precedentes recientes._
 | R. Čerepkai | F | 3 | 110 | 1 | 0 | 5 | 1,7 | 3 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,22 · visitante 1,35 · córners esperados 9,8._
+_Goles esperados: local 2,22 · visitante 1,35 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,10 +201,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 71% | 72% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles del local: Más de 2.5 | 38% | 44% | 41% | 2.10 | -13% |
 | Goles del local: Más de 3.5 | 18% | 23% | 21% | 4.00 | -16% |
@@ -216,6 +216,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
 | Goles del visitante: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
 | 1X2 descanso: X | 35% | 33% | 34% | 2.75 | -6% |
-| 1X2 descanso: 1 | 43% | 50% | 47% | 1.83 | -15% |
+| 1X2 descanso: 1 | 43% | 50% | 47% | 1.83 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

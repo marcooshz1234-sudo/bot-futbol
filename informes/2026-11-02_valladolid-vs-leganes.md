@@ -1,7 +1,7 @@
 # Valladolid – Leganes
 **Segunda División** · Regular Season - 12 · 02/11/2026 18:30 (hora España) · Estadio José Zorrilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | Enric Franquesa | D | 3 | 144 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 0,92 · córners esperados 9,4._
+_Goles esperados: local 1,49 · visitante 0,93 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -195,22 +195,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 23% | 22% | 23% | 4.33 | -2% |
 | 1X2: X | 26% | 27% | 27% | 3.50 | -7% |
-| 1X2: 1 | 51% | 51% | 51% | 1.83 | -7% |
-| Doble oportunidad: X2 | 49% | 49% | 49% | 1.91 | -6% |
+| 1X2: 1 | 50% | 51% | 51% | 1.83 | -7% |
+| Doble oportunidad: X2 | 50% | 49% | 49% | 1.91 | -6% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 77% | 78% | 77% | 1.20 | -7% |
-| Ambos marcan: No | 53% | 50% | 52% | 1.83 | -5% |
-| Ambos marcan: Sí | 47% | 50% | 48% | 1.83 | -12% |
-| Goles más/menos: Más de 1.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles más/menos: Más de 2.5 | 43% | 47% | 45% | 2.00 | -9% |
-| Goles más/menos: Más de 3.5 | 22% | 28% | 25% | 3.40 | -15% |
-| Goles más/menos: Menos de 1.5 | 31% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 2.5 | 57% | 53% | 55% | 1.80 | -2% |
-| Goles más/menos: Menos de 3.5 | 78% | 72% | 75% | 1.30 | -3% |
+| Ambos marcan: No | 53% | 50% | 52% | 1.83 | -6% |
+| Ambos marcan: Sí | 47% | 50% | 48% | 1.83 | -11% |
+| Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles más/menos: Más de 2.5 | 44% | 47% | 45% | 2.00 | -9% |
+| Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -15% |
+| Goles más/menos: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Menos de 2.5 | 56% | 53% | 55% | 1.80 | -2% |
+| Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 78% | 79% | 78% | 1.18 | -8% |
 | Goles del local: Más de 1.5 | 44% | 49% | 46% | 1.91 | -12% |
 | Goles del local: Más de 2.5 | 19% | 23% | 21% | 4.00 | -15% |

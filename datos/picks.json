@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01 13:56",
+ "generado": "2026-11-01 19:49",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,101 +9,6 @@
  "dias": {
   "2026-11-01": {
    "picks": [
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Rani Khedira - 1",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
-     "tipo": "jugador",
-     "jugador": "Rani Khedira",
-     "equipo": "Union Berlin",
-     "jugador_id": 25300,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Rani Khedira comete 1+ faltas",
-     "detalle": "Rani Khedira 9/9",
-     "temporada": "9/9",
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.757
-    },
-    {
-     "partido_id": 1550181,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Torino",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Pietro Comuzzo - 1",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "tipo": "jugador",
-     "jugador": "Pietro Comuzzo",
-     "equipo": "Torino",
-     "jugador_id": 396637,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Pietro Comuzzo comete 1+ faltas",
-     "detalle": "Pietro Comuzzo 8/10",
-     "temporada": "8/10",
-     "arbitro": "Giuseppe Mucera",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      6,
-      10,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.746
-    },
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Away Player Shots",
-     "opcion": "Said El Mala - 3",
-     "cuota": 1.5,
-     "frecuencia": 0.857,
-     "ventaja": 0.19,
-     "tipo": "jugador",
-     "jugador": "Said El Mala",
-     "equipo": "1. FC Köln",
-     "jugador_id": 432310,
-     "campo": "tiros",
-     "n": 3,
-     "texto": "Said El Mala: 3+ tiros",
-     "detalle": "Said El Mala 6/7",
-     "temporada": "6/7",
-     "movimiento": 0.071,
-     "cuota_inicial": 1.4,
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.725
-    },
     {
      "partido_id": 1570001,
      "fecha": "2026-11-01T21:00",
@@ -133,38 +38,7 @@
       22
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.683
-    },
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Zeno Van Den Bosch - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Zeno Van Den Bosch",
-     "equipo": "Union Berlin",
-     "jugador_id": 303679,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Zeno Van Den Bosch comete 1+ faltas",
-     "detalle": "Zeno Van Den Bosch 6/7",
-     "temporada": "6/7",
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.651
+     "prob_aprendida": 0.751
     },
     {
      "partido_id": 1570433,
@@ -197,66 +71,7 @@
       20
      ],
      "contexto": "peor_igualado",
-     "prob_aprendida": 0.607
-    },
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Said El Mala - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.857,
-     "ventaja": 0.143,
-     "tipo": "jugador",
-     "jugador": "Said El Mala",
-     "equipo": "1. FC Köln",
-     "jugador_id": 432310,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Said El Mala comete 1+ faltas",
-     "detalle": "Said El Mala 6/7",
-     "temporada": "6/7",
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.639
-    },
-    {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.48,
-     "frecuencia": 0.7,
-     "ventaja": 0.024,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": 0.021,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.48,
-     "arbitro": "Andrea Colombo",
-     "arbitro_tarjetas": 3.8,
-     "posiciones": [
-      1,
-      11,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.611
+     "prob_aprendida": 0.609
     },
     {
      "partido_id": 1570433,
@@ -289,299 +104,10 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.611
-    },
-    {
-     "partido_id": 1575205,
-     "fecha": "2026-11-01T17:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Eintracht Frankfurt",
-     "visitante": "Hamburger SV",
-     "mercado": "Player Fouls Committed",
-     "opcion": "David Wolfe - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.857,
-     "ventaja": 0.163,
-     "tipo": "jugador",
-     "jugador": "David Wolfe",
-     "equipo": "Hamburger SV",
-     "jugador_id": 265782,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "David Wolfe comete 1+ faltas",
-     "detalle": "David Wolfe 6/7",
-     "temporada": "6/7",
-     "arbitro": "Florian Exner",
-     "arbitro_tarjetas": 5.3,
-     "posiciones": [
-      15,
-      13,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.626
-    },
-    {
-     "partido_id": 1550184,
-     "fecha": "2026-11-01T18:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lecce",
-     "visitante": "Genoa",
-     "mercado": "Total Shots",
-     "opcion": "Over 23.5",
-     "tipo": "tiros",
-     "texto": "Más de 23,5 tiros en Lecce–Genoa",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Lecce 8/10 · Genoa 7/10",
-     "arbitro": "Matteo Marchetti",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      14,
-      13,
-      20
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.538
-    },
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Marius Bulter - 1",
-     "cuota": 1.67,
-     "frecuencia": 0.833,
-     "ventaja": 0.235,
-     "tipo": "jugador",
-     "jugador": "Marius Bulter",
-     "equipo": "1. FC Köln",
-     "jugador_id": 25242,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Marius Bulter comete 1+ faltas",
-     "detalle": "Marius Bulter 5/6",
-     "temporada": "5/6",
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.522
-    },
-    {
-     "partido_id": 1575528,
-     "fecha": "2026-11-01T16:30",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Arouca",
-     "visitante": "Nacional",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Arouca gana alguna de las dos partes",
-     "cuota": 1.4,
-     "frecuencia": 0.75,
-     "ventaja": 0.036,
-     "detalle": "Arouca 8/10 · Nacional 7/10",
-     "valor_mercado": -0.028,
-     "movimiento": -0.028,
-     "cuota_inicial": 1.44,
-     "arbitro": "Luis Miguel Branco Godinho",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      5,
-      15,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.552
-    },
-    {
-     "partido_id": 1575528,
-     "fecha": "2026-11-01T16:30",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Arouca",
-     "visitante": "Nacional",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Arouca",
-     "cuota": 1.73,
-     "frecuencia": 0.7,
-     "ventaja": 0.122,
-     "detalle": "Arouca 6/10 · Nacional 8/10",
-     "valor_mercado": -0.011,
-     "movimiento": -0.055,
-     "cuota_inicial": 1.83,
-     "arbitro": "Luis Miguel Branco Godinho",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      5,
-      15,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.47
-    },
-    {
-     "partido_id": 1552214,
-     "fecha": "2026-11-01T14:30",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Telstar",
-     "visitante": "Utrecht",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Utrecht o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.85,
-     "ventaja": 0.115,
-     "detalle": "Telstar 10/10 · Utrecht 7/10",
-     "valor_mercado": 0.015,
-     "movimiento": -0.029,
-     "cuota_inicial": 1.4,
-     "arbitro": "Richard Martens",
-     "arbitro_tarjetas": 3.0,
-     "posiciones": [
-      16,
-      11,
-      18
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.494
-    },
-    {
-     "partido_id": 1575527,
-     "fecha": "2026-11-01T19:00",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Academico Viseu",
-     "visitante": "Rio Ave",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Academico Viseu",
-     "cuota": 1.8,
-     "frecuencia": 0.6,
-     "ventaja": 0.044,
-     "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
-     "valor_mercado": -0.037,
-     "movimiento": -0.058,
-     "cuota_inicial": 1.91,
-     "arbitro": "Joao Goncalves",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      6,
-      16,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.403
-    },
-    {
-     "partido_id": 1575534,
-     "fecha": "2026-11-01T19:00",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Maritimo",
-     "visitante": "Santa Clara",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Santa Clara",
-     "cuota": 2.2,
-     "frecuencia": 0.6,
-     "ventaja": 0.145,
-     "detalle": "Maritimo 6/10 · Santa Clara 6/10",
-     "valor_mercado": 0.0,
-     "movimiento": -0.022,
-     "cuota_inicial": 2.25,
-     "arbitro": "Carlos Macedo",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      14,
-      4,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.355
+     "prob_aprendida": 0.487
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1575207,
-     "fecha": "2026-11-01T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Union Berlin",
-     "visitante": "1. FC Köln",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Rani Khedira - 1",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
-     "tipo": "jugador",
-     "jugador": "Rani Khedira",
-     "equipo": "Union Berlin",
-     "jugador_id": 25300,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Rani Khedira comete 1+ faltas",
-     "detalle": "Rani Khedira 9/9",
-     "temporada": "9/9",
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      17,
-      14,
-      18
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.757
-    },
-    {
-     "partido_id": 1550181,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Frosinone",
-     "visitante": "Torino",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Pietro Comuzzo - 1",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "tipo": "jugador",
-     "jugador": "Pietro Comuzzo",
-     "equipo": "Torino",
-     "jugador_id": 396637,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Pietro Comuzzo comete 1+ faltas",
-     "detalle": "Pietro Comuzzo 8/10",
-     "temporada": "8/10",
-     "arbitro": "Giuseppe Mucera",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      6,
-      10,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.746
-    },
     {
      "partido_id": 1570001,
      "fecha": "2026-11-01T21:00",
@@ -611,7 +137,7 @@
       22
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.683
+     "prob_aprendida": 0.751
     },
     {
      "partido_id": 1570433,
@@ -644,722 +170,48 @@
       20
      ],
      "contexto": "peor_igualado",
-     "prob_aprendida": 0.607
-    },
-    {
-     "partido_id": 1550183,
-     "fecha": "2026-11-01T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Cagliari",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.48,
-     "frecuencia": 0.7,
-     "ventaja": 0.024,
-     "detalle": "Lazio 9/10 · Cagliari 5/10",
-     "valor_mercado": 0.021,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.48,
-     "arbitro": "Andrea Colombo",
-     "arbitro_tarjetas": 3.8,
-     "posiciones": [
-      1,
-      11,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.611
-    },
-    {
-     "partido_id": 1575205,
-     "fecha": "2026-11-01T17:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Eintracht Frankfurt",
-     "visitante": "Hamburger SV",
-     "mercado": "Player Fouls Committed",
-     "opcion": "David Wolfe - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.857,
-     "ventaja": 0.163,
-     "tipo": "jugador",
-     "jugador": "David Wolfe",
-     "equipo": "Hamburger SV",
-     "jugador_id": 265782,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "David Wolfe comete 1+ faltas",
-     "detalle": "David Wolfe 6/7",
-     "temporada": "6/7",
-     "arbitro": "Florian Exner",
-     "arbitro_tarjetas": 5.3,
-     "posiciones": [
-      15,
-      13,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.626
-    },
-    {
-     "partido_id": 1550184,
-     "fecha": "2026-11-01T18:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Lecce",
-     "visitante": "Genoa",
-     "mercado": "Total Shots",
-     "opcion": "Over 23.5",
-     "tipo": "tiros",
-     "texto": "Más de 23,5 tiros en Lecce–Genoa",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Lecce 8/10 · Genoa 7/10",
-     "arbitro": "Matteo Marchetti",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      14,
-      13,
-      20
-     ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.538
-    },
-    {
-     "partido_id": 1575528,
-     "fecha": "2026-11-01T16:30",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Arouca",
-     "visitante": "Nacional",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Arouca gana alguna de las dos partes",
-     "cuota": 1.4,
-     "frecuencia": 0.75,
-     "ventaja": 0.036,
-     "detalle": "Arouca 8/10 · Nacional 7/10",
-     "valor_mercado": -0.028,
-     "movimiento": -0.028,
-     "cuota_inicial": 1.44,
-     "arbitro": "Luis Miguel Branco Godinho",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      5,
-      15,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.552
-    },
-    {
-     "partido_id": 1552214,
-     "fecha": "2026-11-01T14:30",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Telstar",
-     "visitante": "Utrecht",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Utrecht o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.85,
-     "ventaja": 0.115,
-     "detalle": "Telstar 10/10 · Utrecht 7/10",
-     "valor_mercado": 0.015,
-     "movimiento": -0.029,
-     "cuota_inicial": 1.4,
-     "arbitro": "Richard Martens",
-     "arbitro_tarjetas": 3.0,
-     "posiciones": [
-      16,
-      11,
-      18
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.494
-    },
-    {
-     "partido_id": 1575527,
-     "fecha": "2026-11-01T19:00",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Academico Viseu",
-     "visitante": "Rio Ave",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Academico Viseu",
-     "cuota": 1.8,
-     "frecuencia": 0.6,
-     "ventaja": 0.044,
-     "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
-     "valor_mercado": -0.037,
-     "movimiento": -0.058,
-     "cuota_inicial": 1.91,
-     "arbitro": "Joao Goncalves",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      6,
-      16,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.403
-    },
-    {
-     "partido_id": 1575534,
-     "fecha": "2026-11-01T19:00",
-     "competicion": "Primeira Liga",
-     "liga_id": 94,
-     "local": "Maritimo",
-     "visitante": "Santa Clara",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Santa Clara",
-     "cuota": 2.2,
-     "frecuencia": 0.6,
-     "ventaja": 0.145,
-     "detalle": "Maritimo 6/10 · Santa Clara 6/10",
-     "valor_mercado": 0.0,
-     "movimiento": -0.022,
-     "cuota_inicial": 2.25,
-     "arbitro": "Carlos Macedo",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      14,
-      4,
-      18
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.355
+     "prob_aprendida": 0.609
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1575207,
-       "fecha": "2026-11-01T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Union Berlin",
-       "visitante": "1. FC Köln",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Rani Khedira - 1",
-       "cuota": 1.25,
-       "frecuencia": 1.0,
-       "ventaja": 0.2,
-       "tipo": "jugador",
-       "jugador": "Rani Khedira",
-       "equipo": "Union Berlin",
-       "jugador_id": 25300,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Rani Khedira comete 1+ faltas",
-       "detalle": "Rani Khedira 9/9",
-       "temporada": "9/9",
-       "arbitro": "Richard Hempel",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        17,
-        14,
-        18
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.757
-      },
-      {
-       "partido_id": 1575528,
-       "fecha": "2026-11-01T16:30",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Arouca",
-       "visitante": "Nacional",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Arouca gana alguna de las dos partes",
-       "cuota": 1.4,
-       "frecuencia": 0.75,
-       "ventaja": 0.036,
-       "detalle": "Arouca 8/10 · Nacional 7/10",
-       "valor_mercado": -0.028,
-       "movimiento": -0.028,
-       "cuota_inicial": 1.44,
-       "arbitro": "Luis Miguel Branco Godinho",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        5,
-        15,
-        18
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.552
-      }
-     ],
-     "cuota": 1.75
-    },
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1550181,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Frosinone",
-       "visitante": "Torino",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Pietro Comuzzo - 1",
-       "cuota": 1.28,
-       "frecuencia": 0.8,
-       "ventaja": 0.019,
-       "tipo": "jugador",
-       "jugador": "Pietro Comuzzo",
-       "equipo": "Torino",
-       "jugador_id": 396637,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Pietro Comuzzo comete 1+ faltas",
-       "detalle": "Pietro Comuzzo 8/10",
-       "temporada": "8/10",
-       "arbitro": "Giuseppe Mucera",
-       "arbitro_tarjetas": 1.0,
-       "posiciones": [
-        6,
-        10,
-        20
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.746
-      },
-      {
-       "partido_id": 1550183,
-       "fecha": "2026-11-01T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Cagliari",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
-       "cuota": 1.48,
-       "frecuencia": 0.7,
-       "ventaja": 0.024,
-       "detalle": "Lazio 9/10 · Cagliari 5/10",
-       "valor_mercado": 0.021,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.48,
-       "arbitro": "Andrea Colombo",
-       "arbitro_tarjetas": 3.8,
-       "posiciones": [
-        1,
-        11,
-        20
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.611
-      },
-      {
-       "partido_id": 1550184,
-       "fecha": "2026-11-01T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lecce",
-       "visitante": "Genoa",
-       "mercado": "Total Shots",
-       "opcion": "Over 23.5",
-       "tipo": "tiros",
-       "texto": "Más de 23,5 tiros en Lecce–Genoa",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "Lecce 8/10 · Genoa 7/10",
-       "arbitro": "Matteo Marchetti",
-       "arbitro_tarjetas": 1.0,
-       "posiciones": [
-        14,
-        13,
-        20
-       ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.538
-      }
-     ],
-     "cuota": 3.41
-    },
-    "loca": {
-     "picks": [
-      {
-       "partido_id": 1570001,
-       "fecha": "2026-11-01T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Tenerife",
-       "visitante": "FC Andorra",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Enric Gallego - 1",
-       "cuota": 1.3,
-       "frecuencia": 0.889,
-       "ventaja": 0.12,
-       "tipo": "jugador",
-       "jugador": "Enric Gallego",
-       "equipo": "Tenerife",
-       "jugador_id": 47581,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Enric Gallego: 1+ tiros a puerta",
-       "detalle": "Enric Gallego 8/9",
-       "temporada": "8/9",
-       "arbitro": "Manuel Angel Perez Hernandez",
-       "arbitro_tarjetas": 6.2,
-       "posiciones": [
-        12,
-        20,
-        22
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.683
-      },
-      {
-       "partido_id": 1570433,
-       "fecha": "2026-11-01T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Athletic Club",
-       "visitante": "Real Sociedad",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Robert Navarro - 1",
-       "cuota": 1.44,
-       "frecuencia": 0.857,
-       "ventaja": 0.163,
-       "tipo": "jugador",
-       "jugador": "Robert Navarro",
-       "equipo": "Athletic Club",
-       "jugador_id": 84086,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Robert Navarro: 1+ tiros a puerta",
-       "detalle": "Robert Navarro 6/7",
-       "temporada": "6/7",
-       "movimiento": -0.083,
-       "cuota_inicial": 1.57,
-       "arbitro": "Alejandro Hernandez",
-       "arbitro_tarjetas": 5.6,
-       "posiciones": [
-        7,
-        5,
-        20
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.607
-      },
-      {
-       "partido_id": 1575205,
-       "fecha": "2026-11-01T17:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "Hamburger SV",
-       "mercado": "Player Fouls Committed",
-       "opcion": "David Wolfe - 1",
-       "cuota": 1.44,
-       "frecuencia": 0.857,
-       "ventaja": 0.163,
-       "tipo": "jugador",
-       "jugador": "David Wolfe",
-       "equipo": "Hamburger SV",
-       "jugador_id": 265782,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "David Wolfe comete 1+ faltas",
-       "detalle": "David Wolfe 6/7",
-       "temporada": "6/7",
-       "arbitro": "Florian Exner",
-       "arbitro_tarjetas": 5.3,
-       "posiciones": [
-        15,
-        13,
-        18
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.626
-      },
-      {
-       "partido_id": 1552214,
-       "fecha": "2026-11-01T14:30",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Telstar",
-       "visitante": "Utrecht",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Utrecht o empate",
-       "cuota": 1.36,
-       "frecuencia": 0.85,
-       "ventaja": 0.115,
-       "detalle": "Telstar 10/10 · Utrecht 7/10",
-       "valor_mercado": 0.015,
-       "movimiento": -0.029,
-       "cuota_inicial": 1.4,
-       "arbitro": "Richard Martens",
-       "arbitro_tarjetas": 3.0,
-       "posiciones": [
-        16,
-        11,
-        18
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.494
-      },
-      {
-       "partido_id": 1575527,
-       "fecha": "2026-11-01T19:00",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Academico Viseu",
-       "visitante": "Rio Ave",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Academico Viseu",
-       "cuota": 1.8,
-       "frecuencia": 0.6,
-       "ventaja": 0.044,
-       "detalle": "Academico Viseu 6/10 · Rio Ave 6/10",
-       "valor_mercado": -0.037,
-       "movimiento": -0.058,
-       "cuota_inicial": 1.91,
-       "arbitro": "Joao Goncalves",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        6,
-        16,
-        18
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.403
-      },
-      {
-       "partido_id": 1575534,
-       "fecha": "2026-11-01T19:00",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Maritimo",
-       "visitante": "Santa Clara",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Santa Clara",
-       "cuota": 2.2,
-       "frecuencia": 0.6,
-       "ventaja": 0.145,
-       "detalle": "Maritimo 6/10 · Santa Clara 6/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.022,
-       "cuota_inicial": 2.25,
-       "arbitro": "Carlos Macedo",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        14,
-        4,
-        18
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.355
-      }
-     ],
-     "cuota": 14.52
-    },
-    "doble": {
-     "picks": [
-      {
-       "partido_id": 1570437,
-       "fecha": "2026-11-01T18:30",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Elche",
-       "visitante": "Valencia",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "cuota": 1.36,
-       "frecuencia": 0.75,
-       "ventaja": 0.015,
-       "tipo": "resultado",
-       "texto": "Elche o empate",
-       "detalle": "Elche 6/10 · Valencia 9/10",
-       "valor_mercado": 0.0,
-       "movimiento": -0.029,
-       "cuota_inicial": 1.4,
-       "arbitro": "Luis Bestard Servera",
-       "arbitro_tarjetas": 5.0,
-       "posiciones": [
-        16,
-        19,
-        20
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.842
-      },
-      {
-       "partido_id": 1552214,
-       "fecha": "2026-11-01T14:30",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Telstar",
-       "visitante": "Utrecht",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.36,
-       "frecuencia": 0.85,
-       "ventaja": 0.115,
-       "tipo": "resultado",
-       "texto": "Utrecht o empate",
-       "detalle": "Telstar 10/10 · Utrecht 7/10",
-       "valor_mercado": 0.015,
-       "movimiento": -0.029,
-       "cuota_inicial": 1.4,
-       "arbitro": "Richard Martens",
-       "arbitro_tarjetas": 3.0,
-       "posiciones": [
-        16,
-        11,
-        18
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.494
-      },
-      {
-       "partido_id": 1575207,
-       "fecha": "2026-11-01T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Union Berlin",
-       "visitante": "1. FC Köln",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.4,
-       "frecuencia": 0.722,
-       "ventaja": 0.008,
-       "tipo": "resultado",
-       "texto": "1. FC Köln o empate",
-       "detalle": "Union Berlin 7/9 · 1. FC Köln 6/9",
-       "valor_mercado": -0.034,
-       "movimiento": -0.067,
-       "cuota_inicial": 1.5,
-       "arbitro": "Richard Hempel",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        17,
-        14,
-        18
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.402
-      },
-      {
-       "partido_id": 1569995,
-       "fecha": "2026-11-01T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "AD Ceuta FC",
-       "visitante": "Sporting Gijon",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.5,
-       "frecuencia": 0.7,
-       "ventaja": 0.033,
-       "tipo": "resultado",
-       "texto": "Sporting Gijon o empate",
-       "detalle": "AD Ceuta FC 8/10 · Sporting Gijon 6/10",
-       "valor_mercado": -0.02,
-       "movimiento": 0.042,
-       "cuota_inicial": 1.44,
-       "arbitro": "Ojaos Valera",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        22,
-        8,
-        22
-       ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.371
-      },
-      {
-       "partido_id": 1570433,
-       "fecha": "2026-11-01T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Athletic Club",
-       "visitante": "Real Sociedad",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.67,
-       "frecuencia": 0.7,
-       "ventaja": 0.101,
-       "tipo": "resultado",
-       "texto": "Real Sociedad o empate",
-       "detalle": "Athletic Club 6/10 · Real Sociedad 8/10",
-       "valor_mercado": -0.035,
-       "movimiento": -0.072,
-       "cuota_inicial": 1.8,
-       "arbitro": "Alejandro Hernandez",
-       "arbitro_tarjetas": 5.6,
-       "posiciones": [
-        7,
-        5,
-        20
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.259
-      },
-      {
-       "partido_id": 1552805,
-       "fecha": "2026-11-01T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Marseille",
-       "visitante": "Toulouse",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.83,
-       "frecuencia": 0.722,
-       "ventaja": 0.176,
-       "tipo": "resultado",
-       "texto": "Toulouse o empate",
-       "detalle": "Marseille 7/10 · Toulouse 6/8",
-       "valor_mercado": -0.016,
-       "movimiento": -0.062,
-       "cuota_inicial": 1.95,
-       "arbitro": "Hakim Ben el Hadj",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        9,
-        11,
-        18
-       ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.225
-      }
-     ],
-     "cuota": 11.87
-    }
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
    },
    "estilos": {},
    "combis_partido": []
   },
   "2026-11-02": {
    "picks": [
+    {
+     "partido_id": 1552803,
+     "fecha": "2026-11-02T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Lorient",
+     "visitante": "Stade Brestois 29",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Lorient o empate",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
+     "valor_mercado": -0.029,
+     "movimiento": -0.093,
+     "cuota_inicial": 1.5,
+     "arbitro": "Jeremie Pignard",
+     "arbitro_tarjetas": 4.5,
+     "posiciones": [
+      10,
+      14,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.825
+    },
     {
      "partido_id": 1557455,
      "fecha": "2026-11-02T21:00",
@@ -1389,7 +241,7 @@
       20
      ],
      "contexto": "peor_igualado",
-     "prob_aprendida": 0.8
+     "prob_aprendida": 0.809
     },
     {
      "partido_id": 1552803,
@@ -1398,26 +250,31 @@
      "liga_id": 61,
      "local": "Lorient",
      "visitante": "Stade Brestois 29",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Lorient o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
-     "valor_mercado": -0.029,
-     "movimiento": -0.093,
-     "cuota_inicial": 1.5,
+     "mercado": "Away Player Shots",
+     "opcion": "Pathe Mboup - 2",
+     "cuota": 1.5,
+     "frecuencia": 0.875,
+     "ventaja": 0.208,
+     "tipo": "jugador",
+     "jugador": "Pathe Mboup",
+     "equipo": "Stade Brestois 29",
+     "jugador_id": 375990,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Pathe Mboup: 2+ tiros",
+     "detalle": "Pathe Mboup 7/8",
+     "temporada": "7/8",
+     "movimiento": 0.128,
+     "cuota_inicial": 1.33,
      "arbitro": "Jeremie Pignard",
      "arbitro_tarjetas": 4.5,
      "posiciones": [
       10,
-      13,
+      14,
       18
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.771
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.673
     },
     {
      "partido_id": 1550185,
@@ -1448,40 +305,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.715
-    },
-    {
-     "partido_id": 1552803,
-     "fecha": "2026-11-02T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lorient",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Away Player Shots",
-     "opcion": "Pathe Mboup - 2",
-     "cuota": 1.5,
-     "frecuencia": 0.875,
-     "ventaja": 0.208,
-     "tipo": "jugador",
-     "jugador": "Pathe Mboup",
-     "equipo": "Stade Brestois 29",
-     "jugador_id": 375990,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Pathe Mboup: 2+ tiros",
-     "detalle": "Pathe Mboup 7/8",
-     "temporada": "7/8",
-     "movimiento": 0.128,
-     "cuota_inicial": 1.33,
-     "arbitro": "Jeremie Pignard",
-     "arbitro_tarjetas": 4.5,
-     "posiciones": [
-      10,
-      13,
-      18
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.667
+     "prob_aprendida": 0.602
     },
     {
      "partido_id": 1550185,
@@ -1512,7 +336,7 @@
       20
      ],
      "contexto": "peor_igualado",
-     "prob_aprendida": 0.556
+     "prob_aprendida": 0.432
     },
     {
      "partido_id": 1550185,
@@ -1537,10 +361,38 @@
       20
      ],
      "contexto": "total_igualado",
-     "prob_aprendida": 0.279
+     "prob_aprendida": 0.272
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1552803,
+     "fecha": "2026-11-02T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Lorient",
+     "visitante": "Stade Brestois 29",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Lorient o empate",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
+     "valor_mercado": -0.029,
+     "movimiento": -0.093,
+     "cuota_inicial": 1.5,
+     "arbitro": "Jeremie Pignard",
+     "arbitro_tarjetas": 4.5,
+     "posiciones": [
+      10,
+      14,
+      18
+     ],
+     "contexto": "mejor_lejos",
+     "prob_aprendida": 0.825
+    },
     {
      "partido_id": 1557455,
      "fecha": "2026-11-02T21:00",
@@ -1570,35 +422,7 @@
       20
      ],
      "contexto": "peor_igualado",
-     "prob_aprendida": 0.8
-    },
-    {
-     "partido_id": 1552803,
-     "fecha": "2026-11-02T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Lorient",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Lorient o empate",
-     "cuota": 1.36,
-     "frecuencia": 0.75,
-     "ventaja": 0.015,
-     "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
-     "valor_mercado": -0.029,
-     "movimiento": -0.093,
-     "cuota_inicial": 1.5,
-     "arbitro": "Jeremie Pignard",
-     "arbitro_tarjetas": 4.5,
-     "posiciones": [
-      10,
-      13,
-      18
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.771
+     "prob_aprendida": 0.809
     },
     {
      "partido_id": 1550185,
@@ -1629,13 +453,41 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.715
+     "prob_aprendida": 0.602
     }
    ],
    "combis": {
     "segura": null,
     "cuota_3": {
      "picks": [
+      {
+       "partido_id": 1552803,
+       "fecha": "2026-11-02T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Lorient",
+       "visitante": "Stade Brestois 29",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Lorient o empate",
+       "cuota": 1.36,
+       "frecuencia": 0.75,
+       "ventaja": 0.015,
+       "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
+       "valor_mercado": -0.029,
+       "movimiento": -0.093,
+       "cuota_inicial": 1.5,
+       "arbitro": "Jeremie Pignard",
+       "arbitro_tarjetas": 4.5,
+       "posiciones": [
+        10,
+        14,
+        18
+       ],
+       "contexto": "mejor_lejos",
+       "prob_aprendida": 0.825
+      },
       {
        "partido_id": 1557455,
        "fecha": "2026-11-02T21:00",
@@ -1665,35 +517,7 @@
         20
        ],
        "contexto": "peor_igualado",
-       "prob_aprendida": 0.8
-      },
-      {
-       "partido_id": 1552803,
-       "fecha": "2026-11-02T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lorient",
-       "visitante": "Stade Brestois 29",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Lorient o empate",
-       "cuota": 1.36,
-       "frecuencia": 0.75,
-       "ventaja": 0.015,
-       "detalle": "Lorient 6/8 · Stade Brestois 29 6/8",
-       "valor_mercado": -0.029,
-       "movimiento": -0.093,
-       "cuota_inicial": 1.5,
-       "arbitro": "Jeremie Pignard",
-       "arbitro_tarjetas": 4.5,
-       "posiciones": [
-        10,
-        13,
-        18
-       ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.771
+       "prob_aprendida": 0.809
       },
       {
        "partido_id": 1550185,
@@ -1718,7 +542,7 @@
         20
        ],
        "contexto": "total_igualado",
-       "prob_aprendida": 0.279
+       "prob_aprendida": 0.272
       }
      ],
      "cuota": 3.33
@@ -1753,7 +577,7 @@
       24
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.859
+     "prob_aprendida": 0.893
     },
     {
      "partido_id": 1635622,
@@ -1778,7 +602,7 @@
      "temporada": "4/5",
      "movimiento": -0.029,
      "cuota_inicial": 1.4,
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.67
     },
     {
      "partido_id": 1563239,
@@ -1802,27 +626,7 @@
       24
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.534
-    },
-    {
-     "partido_id": 1635695,
-     "fecha": "2026-11-03T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Manchester United",
-     "visitante": "AS Roma",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "AS Roma o empate",
-     "cuota": 1.53,
-     "frecuencia": 0.9,
-     "ventaja": 0.246,
-     "detalle": "Manchester United 9/10 · AS Roma 9/10",
-     "valor_mercado": -0.025,
-     "movimiento": -0.025,
-     "cuota_inicial": 1.57,
-     "prob_aprendida": 0.41
+     "prob_aprendida": 0.566
     },
     {
      "partido_id": 1635695,
@@ -1842,7 +646,27 @@
      "valor_mercado": -0.039,
      "movimiento": -0.055,
      "cuota_inicial": 1.83,
-     "prob_aprendida": 0.365
+     "prob_aprendida": 0.435
+    },
+    {
+     "partido_id": 1635695,
+     "fecha": "2026-11-03T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Manchester United",
+     "visitante": "AS Roma",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "AS Roma o empate",
+     "cuota": 1.53,
+     "frecuencia": 0.9,
+     "ventaja": 0.246,
+     "detalle": "Manchester United 9/10 · AS Roma 9/10",
+     "valor_mercado": -0.025,
+     "movimiento": -0.025,
+     "cuota_inicial": 1.57,
+     "prob_aprendida": 0.382
     }
    ],
    "mejores_por_partido": [
@@ -1868,7 +692,7 @@
       24
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.859
+     "prob_aprendida": 0.893
     },
     {
      "partido_id": 1635622,
@@ -1893,7 +717,7 @@
      "temporada": "4/5",
      "movimiento": -0.029,
      "cuota_inicial": 1.4,
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.67
     },
     {
      "partido_id": 1563239,
@@ -1917,7 +741,7 @@
       24
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.534
+     "prob_aprendida": 0.566
     },
     {
      "partido_id": 1635695,
@@ -1926,18 +750,18 @@
      "liga_id": 2,
      "local": "Manchester United",
      "visitante": "AS Roma",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
+     "mercado": "To Win Either Half",
+     "opcion": "Away",
      "tipo": "resultado",
-     "texto": "AS Roma o empate",
-     "cuota": 1.53,
-     "frecuencia": 0.9,
-     "ventaja": 0.246,
-     "detalle": "Manchester United 9/10 · AS Roma 9/10",
-     "valor_mercado": -0.025,
-     "movimiento": -0.025,
-     "cuota_inicial": 1.57,
-     "prob_aprendida": 0.41
+     "texto": "AS Roma gana alguna de las dos partes",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Manchester United 7/10 · AS Roma 8/10",
+     "valor_mercado": -0.039,
+     "movimiento": -0.055,
+     "cuota_inicial": 1.83,
+     "prob_aprendida": 0.435
     }
    ],
    "combis": {
@@ -1952,28 +776,24 @@
   "2026-11-04": {
    "picks": [
     {
-     "partido_id": 1563250,
-     "fecha": "2026-11-04T20:45",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Wrexham",
-     "visitante": "Middlesbrough",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
+     "partido_id": 1635681,
+     "fecha": "2026-11-04T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Lens",
+     "visitante": "Como",
+     "mercado": "Match Winner",
+     "opcion": "Away",
      "tipo": "resultado",
-     "texto": "Middlesbrough o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "detalle": "Wrexham 7/10 · Middlesbrough 9/10",
-     "valor_mercado": 0.041,
-     "posiciones": [
-      18,
-      1,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.512
+     "texto": "Gana el Como",
+     "cuota": 2.2,
+     "frecuencia": 0.65,
+     "ventaja": 0.195,
+     "detalle": "Lens 6/10 · Como 7/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.023,
+     "cuota_inicial": 2.15,
+     "prob_aprendida": 0.445
     },
     {
      "partido_id": 1563248,
@@ -1997,53 +817,53 @@
       24
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.49
+     "prob_aprendida": 0.516
     },
     {
-     "partido_id": 1635681,
-     "fecha": "2026-11-04T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Lens",
-     "visitante": "Como",
-     "mercado": "Match Winner",
-     "opcion": "Away",
+     "partido_id": 1563250,
+     "fecha": "2026-11-04T20:45",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Wrexham",
+     "visitante": "Middlesbrough",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
      "tipo": "resultado",
-     "texto": "Gana el Como",
-     "cuota": 2.2,
-     "frecuencia": 0.65,
-     "ventaja": 0.195,
-     "detalle": "Lens 6/10 · Como 7/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.023,
-     "cuota_inicial": 2.15,
-     "prob_aprendida": 0.349
+     "texto": "Middlesbrough o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Wrexham 7/10 · Middlesbrough 9/10",
+     "valor_mercado": 0.041,
+     "posiciones": [
+      18,
+      1,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.485
     }
    ],
    "mejores_por_partido": [
     {
-     "partido_id": 1563250,
-     "fecha": "2026-11-04T20:45",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Wrexham",
-     "visitante": "Middlesbrough",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
+     "partido_id": 1635681,
+     "fecha": "2026-11-04T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Lens",
+     "visitante": "Como",
+     "mercado": "Match Winner",
+     "opcion": "Away",
      "tipo": "resultado",
-     "texto": "Middlesbrough o empate",
-     "cuota": 1.28,
-     "frecuencia": 0.8,
-     "ventaja": 0.019,
-     "detalle": "Wrexham 7/10 · Middlesbrough 9/10",
-     "valor_mercado": 0.041,
-     "posiciones": [
-      18,
-      1,
-      24
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.512
+     "texto": "Gana el Como",
+     "cuota": 2.2,
+     "frecuencia": 0.65,
+     "ventaja": 0.195,
+     "detalle": "Lens 6/10 · Como 7/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.023,
+     "cuota_inicial": 2.15,
+     "prob_aprendida": 0.445
     },
     {
      "partido_id": 1563248,
@@ -2067,27 +887,31 @@
       24
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.49
+     "prob_aprendida": 0.516
     },
     {
-     "partido_id": 1635681,
-     "fecha": "2026-11-04T21:00",
-     "competicion": "Champions",
-     "liga_id": 2,
-     "local": "Lens",
-     "visitante": "Como",
-     "mercado": "Match Winner",
-     "opcion": "Away",
+     "partido_id": 1563250,
+     "fecha": "2026-11-04T20:45",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Wrexham",
+     "visitante": "Middlesbrough",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
      "tipo": "resultado",
-     "texto": "Gana el Como",
-     "cuota": 2.2,
-     "frecuencia": 0.65,
-     "ventaja": 0.195,
-     "detalle": "Lens 6/10 · Como 7/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.023,
-     "cuota_inicial": 2.15,
-     "prob_aprendida": 0.349
+     "texto": "Middlesbrough o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Wrexham 7/10 · Middlesbrough 9/10",
+     "valor_mercado": 0.041,
+     "posiciones": [
+      18,
+      1,
+      24
+     ],
+     "contexto": "mejor_abismo",
+     "prob_aprendida": 0.485
     }
    ],
    "combis": {
@@ -2122,7 +946,7 @@
      "texto": "Camilo Duran: 1+ tiros a puerta",
      "detalle": "Camilo Duran 4/5",
      "temporada": "4/5",
-     "prob_aprendida": 0.641
+     "prob_aprendida": 0.657
     },
     {
      "partido_id": 1636250,
@@ -2142,7 +966,7 @@
      "valor_mercado": -0.018,
      "movimiento": -0.03,
      "cuota_inicial": 1.67,
-     "prob_aprendida": 0.42
+     "prob_aprendida": 0.459
     },
     {
      "partido_id": 1636250,
@@ -2160,7 +984,7 @@
      "ventaja": 0.143,
      "detalle": "Celtic 4/5 · Beşiktaş 8/9",
      "valor_mercado": 0.029,
-     "prob_aprendida": 0.421
+     "prob_aprendida": 0.377
     }
    ],
    "mejores_por_partido": [
@@ -2185,7 +1009,7 @@
      "texto": "Camilo Duran: 1+ tiros a puerta",
      "detalle": "Camilo Duran 4/5",
      "temporada": "4/5",
-     "prob_aprendida": 0.641
+     "prob_aprendida": 0.657
     }
    ],
    "combis": {
@@ -2210,7 +1034,7 @@
        "texto": "Lillestrom o empate",
        "detalle": "Lillestrom 3/5 · Plzen 4/5",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.797
+       "prob_aprendida": 0.809
       },
       {
        "partido_id": 1636250,
@@ -2228,7 +1052,7 @@
        "texto": "Beşiktaş o empate",
        "detalle": "Celtic 4/5 · Beşiktaş 8/9",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.421
+       "prob_aprendida": 0.377
       },
       {
        "partido_id": 1636245,
@@ -2246,25 +1070,7 @@
        "texto": "Union St. Gilloise o empate",
        "detalle": "Celta Vigo 7/10 · Union St. Gilloise 4/5",
        "valor_mercado": 0.011,
-       "prob_aprendida": 0.31
-      },
-      {
-       "partido_id": 1636302,
-       "fecha": "2026-11-05T18:45",
-       "competicion": "Europa League",
-       "liga_id": 3,
-       "local": "NEC Nijmegen",
-       "visitante": "Omonia Nicosia",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 2.05,
-       "frecuencia": 0.789,
-       "ventaja": 0.302,
-       "tipo": "resultado",
-       "texto": "Omonia Nicosia o empate",
-       "detalle": "NEC Nijmegen 9/10 · Omonia Nicosia 6/9",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.273
+       "prob_aprendida": 0.266
       },
       {
        "partido_id": 1636452,
@@ -2284,7 +1090,25 @@
        "valor_mercado": 0.025,
        "movimiento": -0.018,
        "cuota_inicial": 1.7,
-       "prob_aprendida": 0.275
+       "prob_aprendida": 0.247
+      },
+      {
+       "partido_id": 1636302,
+       "fecha": "2026-11-05T18:45",
+       "competicion": "Europa League",
+       "liga_id": 3,
+       "local": "NEC Nijmegen",
+       "visitante": "Omonia Nicosia",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 2.05,
+       "frecuencia": 0.789,
+       "ventaja": 0.302,
+       "tipo": "resultado",
+       "texto": "Omonia Nicosia o empate",
+       "detalle": "NEC Nijmegen 9/10 · Omonia Nicosia 6/9",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.228
       }
      ],
      "cuota": 13.54
@@ -2307,9 +1131,9 @@
      "tipo": "resultado",
      "texto": "Fortuna Sittard o empate",
      "cuota": 1.28,
-     "frecuencia": 0.9,
-     "ventaja": 0.119,
-     "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+     "frecuencia": 0.85,
+     "ventaja": 0.069,
+     "detalle": "Fortuna Sittard 8/10 · Telstar 9/10",
      "valor_mercado": -0.015,
      "posiciones": [
       6,
@@ -2341,12 +1165,12 @@
      "detalle": "Ermedin Demirovic 7/8",
      "temporada": "7/8",
      "posiciones": [
-      10,
+      11,
       5,
       18
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.726
+     "prob_aprendida": 0.708
     },
     {
      "partido_id": 1575220,
@@ -2370,12 +1194,12 @@
      "detalle": "Santiago Castaneda 9/10",
      "temporada": "9/10",
      "posiciones": [
-      12,
-      15,
+      14,
+      8,
       18
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.652
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.637
     },
     {
      "partido_id": 1557465,
@@ -2397,11 +1221,11 @@
      "cuota_inicial": 1.62,
      "posiciones": [
       19,
-      1,
+      2,
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.432
+     "prob_aprendida": 0.519
     },
     {
      "partido_id": 1557463,
@@ -2425,7 +1249,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.378
+     "prob_aprendida": 0.368
     },
     {
      "partido_id": 1570446,
@@ -2444,12 +1268,12 @@
      "detalle": "Espanyol 8/10 · Deportivo La Coruna 7/10",
      "valor_mercado": -0.006,
      "posiciones": [
+      14,
       13,
-      12,
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.303
+     "prob_aprendida": 0.244
     }
    ],
    "mejores_por_partido": [
@@ -2465,9 +1289,9 @@
      "tipo": "resultado",
      "texto": "Fortuna Sittard o empate",
      "cuota": 1.28,
-     "frecuencia": 0.9,
-     "ventaja": 0.119,
-     "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+     "frecuencia": 0.85,
+     "ventaja": 0.069,
+     "detalle": "Fortuna Sittard 8/10 · Telstar 9/10",
      "valor_mercado": -0.015,
      "posiciones": [
       6,
@@ -2499,12 +1323,12 @@
      "detalle": "Ermedin Demirovic 7/8",
      "temporada": "7/8",
      "posiciones": [
-      10,
+      11,
       5,
       18
      ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.726
+     "prob_aprendida": 0.708
     },
     {
      "partido_id": 1575220,
@@ -2528,12 +1352,12 @@
      "detalle": "Santiago Castaneda 9/10",
      "temporada": "9/10",
      "posiciones": [
-      12,
-      15,
+      14,
+      8,
       18
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.652
+     "contexto": "peor_lejos",
+     "prob_aprendida": 0.637
     },
     {
      "partido_id": 1557465,
@@ -2555,11 +1379,11 @@
      "cuota_inicial": 1.62,
      "posiciones": [
       19,
-      1,
+      2,
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.432
+     "prob_aprendida": 0.519
     },
     {
      "partido_id": 1557463,
@@ -2583,7 +1407,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.378
+     "prob_aprendida": 0.368
     },
     {
      "partido_id": 1570446,
@@ -2602,12 +1426,12 @@
      "detalle": "Espanyol 8/10 · Deportivo La Coruna 7/10",
      "valor_mercado": -0.006,
      "posiciones": [
+      14,
       13,
-      12,
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.303
+     "prob_aprendida": 0.244
     }
    ],
    "combis": {
@@ -2625,9 +1449,9 @@
        "tipo": "resultado",
        "texto": "Fortuna Sittard o empate",
        "cuota": 1.28,
-       "frecuencia": 0.9,
-       "ventaja": 0.119,
-       "detalle": "Fortuna Sittard 8/10 · Telstar 10/10",
+       "frecuencia": 0.85,
+       "ventaja": 0.069,
+       "detalle": "Fortuna Sittard 8/10 · Telstar 9/10",
        "valor_mercado": -0.015,
        "posiciones": [
         6,
@@ -2659,12 +1483,12 @@
        "detalle": "Ermedin Demirovic 7/8",
        "temporada": "7/8",
        "posiciones": [
-        10,
+        11,
         5,
         18
        ],
        "contexto": "peor_lejos",
-       "prob_aprendida": 0.726
+       "prob_aprendida": 0.708
       }
      ],
      "cuota": 1.7
@@ -2700,7 +1524,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.942
+     "prob_aprendida": 0.98
     },
     {
      "partido_id": 1552223,
@@ -2719,12 +1543,41 @@
      "detalle": "Utrecht 7/10 · NEC Nijmegen 9/10",
      "valor_mercado": -0.028,
      "posiciones": [
-      11,
       12,
+      13,
       18
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.84
+     "prob_aprendida": 0.793
+    },
+    {
+     "partido_id": 1552222,
+     "fecha": "2026-11-08T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Twente",
+     "visitante": "Ajax",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Wout Weghorst - 1",
+     "cuota": 1.25,
+     "frecuencia": 0.9,
+     "ventaja": 0.1,
+     "tipo": "jugador",
+     "jugador": "Wout Weghorst",
+     "equipo": "Twente",
+     "jugador_id": 25416,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Wout Weghorst: 1+ tiros a puerta",
+     "detalle": "Wout Weghorst 9/10",
+     "temporada": "12/17",
+     "posiciones": [
+      4,
+      2,
+      18
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.77
     },
     {
      "partido_id": 1552812,
@@ -2748,12 +1601,41 @@
      "detalle": "Pathe Mboup 7/8",
      "temporada": "7/8",
      "posiciones": [
-      13,
-      5,
+      14,
+      3,
       18
      ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.676
+    },
+    {
+     "partido_id": 1550193,
+     "fecha": "2026-11-08T12:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Napoli",
+     "visitante": "Lazio",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Scott McTominay - 1",
+     "cuota": 1.5,
+     "frecuencia": 0.833,
+     "ventaja": 0.167,
+     "tipo": "jugador",
+     "jugador": "Scott McTominay",
+     "equipo": "Napoli",
+     "jugador_id": 903,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Scott McTominay: 1+ tiros a puerta",
+     "detalle": "Scott McTominay 5/6",
+     "temporada": "5/6",
+     "posiciones": [
+      7,
+      1,
+      20
+     ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.675
+     "prob_aprendida": 0.627
     },
     {
      "partido_id": 1552812,
@@ -2777,12 +1659,12 @@
      "detalle": "Pathe Mboup 7/8",
      "temporada": "7/8",
      "posiciones": [
-      13,
-      5,
+      14,
+      3,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.551
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.585
     },
     {
      "partido_id": 1570445,
@@ -2801,36 +1683,12 @@
      "detalle": "Elche 7/10 · Real Betis 9/10",
      "valor_mercado": 0.007,
      "posiciones": [
-      16,
+      17,
       4,
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.492
-    },
-    {
-     "partido_id": 1557459,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Crystal Palace",
-     "visitante": "Liverpool",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Liverpool",
-     "cuota": 1.7,
-     "frecuencia": 0.6,
-     "ventaja": 0.012,
-     "detalle": "Crystal Palace 5/10 · Liverpool 7/10",
-     "valor_mercado": -0.017,
-     "posiciones": [
-      18,
-      5,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.375
+     "prob_aprendida": 0.421
     },
     {
      "partido_id": 1552813,
@@ -2854,7 +1712,7 @@
       18
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.373
+     "prob_aprendida": 0.356
     },
     {
      "partido_id": 1557464,
@@ -2878,7 +1736,7 @@
       20
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.285
+     "prob_aprendida": 0.252
     }
    ],
    "mejores_por_partido": [
@@ -2904,7 +1762,7 @@
       20
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.942
+     "prob_aprendida": 0.98
     },
     {
      "partido_id": 1552223,
@@ -2923,12 +1781,41 @@
      "detalle": "Utrecht 7/10 · NEC Nijmegen 9/10",
      "valor_mercado": -0.028,
      "posiciones": [
-      11,
       12,
+      13,
       18
      ],
      "contexto": "mejor_igualado",
-     "prob_aprendida": 0.84
+     "prob_aprendida": 0.793
+    },
+    {
+     "partido_id": 1552222,
+     "fecha": "2026-11-08T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Twente",
+     "visitante": "Ajax",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Wout Weghorst - 1",
+     "cuota": 1.25,
+     "frecuencia": 0.9,
+     "ventaja": 0.1,
+     "tipo": "jugador",
+     "jugador": "Wout Weghorst",
+     "equipo": "Twente",
+     "jugador_id": 25416,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Wout Weghorst: 1+ tiros a puerta",
+     "detalle": "Wout Weghorst 9/10",
+     "temporada": "12/17",
+     "posiciones": [
+      4,
+      2,
+      18
+     ],
+     "contexto": "peor_igualado",
+     "prob_aprendida": 0.77
     },
     {
      "partido_id": 1552812,
@@ -2952,12 +1839,41 @@
      "detalle": "Pathe Mboup 7/8",
      "temporada": "7/8",
      "posiciones": [
-      13,
-      5,
+      14,
+      3,
       18
      ],
+     "contexto": "peor_abismo",
+     "prob_aprendida": 0.676
+    },
+    {
+     "partido_id": 1550193,
+     "fecha": "2026-11-08T12:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Napoli",
+     "visitante": "Lazio",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Scott McTominay - 1",
+     "cuota": 1.5,
+     "frecuencia": 0.833,
+     "ventaja": 0.167,
+     "tipo": "jugador",
+     "jugador": "Scott McTominay",
+     "equipo": "Napoli",
+     "jugador_id": 903,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Scott McTominay: 1+ tiros a puerta",
+     "detalle": "Scott McTominay 5/6",
+     "temporada": "5/6",
+     "posiciones": [
+      7,
+      1,
+      20
+     ],
      "contexto": "peor_lejos",
-     "prob_aprendida": 0.675
+     "prob_aprendida": 0.627
     },
     {
      "partido_id": 1570445,
@@ -2976,36 +1892,12 @@
      "detalle": "Elche 7/10 · Real Betis 9/10",
      "valor_mercado": 0.007,
      "posiciones": [
-      16,
+      17,
       4,
       20
      ],
      "contexto": "mejor_abismo",
-     "prob_aprendida": 0.492
-    },
-    {
-     "partido_id": 1557459,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Crystal Palace",
-     "visitante": "Liverpool",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Liverpool",
-     "cuota": 1.7,
-     "frecuencia": 0.6,
-     "ventaja": 0.012,
-     "detalle": "Crystal Palace 5/10 · Liverpool 7/10",
-     "valor_mercado": -0.017,
-     "posiciones": [
-      18,
-      5,
-      20
-     ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.375
+     "prob_aprendida": 0.421
     },
     {
      "partido_id": 1552813,
@@ -3029,7 +1921,7 @@
       18
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.373
+     "prob_aprendida": 0.356
     },
     {
      "partido_id": 1557464,
@@ -3053,7 +1945,7 @@
       20
      ],
      "contexto": "mejor_lejos",
-     "prob_aprendida": 0.285
+     "prob_aprendida": 0.252
     }
    ],
    "combis": {
@@ -3081,39 +1973,39 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.942
+       "prob_aprendida": 0.98
       },
       {
-       "partido_id": 1552812,
-       "fecha": "2026-11-08T17:15",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Stade Brestois 29",
-       "visitante": "Lyon",
-       "mercado": "Home Player Shots",
-       "opcion": "Pathe Mboup - 2",
-       "cuota": 1.28,
-       "frecuencia": 0.875,
-       "ventaja": 0.094,
+       "partido_id": 1552222,
+       "fecha": "2026-11-08T14:30",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Twente",
+       "visitante": "Ajax",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Wout Weghorst - 1",
+       "cuota": 1.25,
+       "frecuencia": 0.9,
+       "ventaja": 0.1,
        "tipo": "jugador",
-       "jugador": "Pathe Mboup",
-       "equipo": "Stade Brestois 29",
-       "jugador_id": 375990,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Pathe Mboup: 2+ tiros",
-       "detalle": "Pathe Mboup 7/8",
-       "temporada": "7/8",
+       "jugador": "Wout Weghorst",
+       "equipo": "Twente",
+       "jugador_id": 25416,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Wout Weghorst: 1+ tiros a puerta",
+       "detalle": "Wout Weghorst 9/10",
+       "temporada": "12/17",
        "posiciones": [
-        13,
-        5,
+        4,
+        2,
         18
        ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.675
+       "contexto": "peor_igualado",
+       "prob_aprendida": 0.77
       }
      ],
-     "cuota": 1.64
+     "cuota": 1.6
     },
     "cuota_3": null,
     "loca": null,
@@ -3141,7 +2033,7 @@
         20
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.942
+       "prob_aprendida": 0.98
       },
       {
        "partido_id": 1552223,
@@ -3160,12 +2052,12 @@
        "detalle": "Utrecht 7/10 · NEC Nijmegen 9/10",
        "valor_mercado": -0.028,
        "posiciones": [
-        11,
         12,
+        13,
         18
        ],
        "contexto": "mejor_igualado",
-       "prob_aprendida": 0.84
+       "prob_aprendida": 0.793
       },
       {
        "partido_id": 1570445,
@@ -3184,12 +2076,12 @@
        "detalle": "Elche 7/10 · Real Betis 9/10",
        "valor_mercado": 0.007,
        "posiciones": [
-        16,
+        17,
         4,
         20
        ],
        "contexto": "mejor_abismo",
-       "prob_aprendida": 0.492
+       "prob_aprendida": 0.421
       },
       {
        "partido_id": 1552812,
@@ -3208,12 +2100,12 @@
        "detalle": "Stade Brestois 29 6/8 · Lyon 7/10",
        "valor_mercado": -0.014,
        "posiciones": [
-        13,
-        5,
+        14,
+        3,
         18
        ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.373
+       "contexto": "mejor_abismo",
+       "prob_aprendida": 0.348
       },
       {
        "partido_id": 1552813,
@@ -3237,7 +2129,7 @@
         18
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.373
+       "prob_aprendida": 0.356
       },
       {
        "partido_id": 1557464,
@@ -3261,7 +2153,7 @@
         20
        ],
        "contexto": "mejor_lejos",
-       "prob_aprendida": 0.285
+       "prob_aprendida": 0.252
       }
      ],
      "cuota": 7.98

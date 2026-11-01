@@ -1,7 +1,7 @@
 # Benfica – Lech Poznan
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -180,21 +180,21 @@ _Sin bajas comunicadas por ahora._
 | Gisli Thordarson | M | 1 | 22 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,93 · visitante 1,37 · córners esperados 9,7._
+_Goles esperados: local 3,91 · visitante 1,38 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 7% | 8% | 13.00 | +1% |
-| 1X2: X | 10% | 13% | 11% | 7.00 | -20% |
-| 1X2: 1 | 82% | 80% | 81% | 1.14 | -8% |
-| Doble oportunidad: X2 | 18% | 18% | 18% | 5.50 | -1% |
+| 1X2: 2 | 9% | 7% | 8% | 13.00 | +2% |
+| 1X2: X | 10% | 13% | 12% | 7.00 | -19% |
+| 1X2: 1 | 81% | 80% | 81% | 1.14 | -8% |
+| Doble oportunidad: X2 | 19% | 18% | 18% | 5.50 | -0% |
 | Doble oportunidad: 12 | 90% | 89% | 89% | 1.10 | -2% |
 | Doble oportunidad: 1X | 91% | 94% | 93% | 1.04 | -4% |
 | Ambos marcan: No | 27% | 52% | 39% | 1.80 | -29% |
 | Ambos marcan: Sí | 73% | 48% | 61% | 1.95 | +18% |
-| Goles más/menos: Más de 2.5 | 90% | 72% | 81% | 1.33 | +8% |
+| Goles más/menos: Más de 2.5 | 90% | 72% | 81% | 1.33 | +7% |
 | Goles más/menos: Más de 3.5 | 77% | 50% | 64% | 1.91 | +22% |
 | Goles más/menos: Más de 4.5 | 61% | 32% | 46% | 3.00 | +39% |
 | Goles más/menos: Menos de 2.5 | 10% | 28% | 19% | 3.40 | -35% |
@@ -208,15 +208,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 60% | 75% | 67% | 1.25 | -16% |
 | Goles del local: Más de 1.5 | 90% | 78% | 84% | 1.20 | +1% |
 | Goles del local: Más de 2.5 | 75% | 58% | 66% | 1.62 | +7% |
-| Goles del local: Más de 3.5 | 55% | 35% | 45% | 2.62 | +19% |
-| Goles del local: Más de 4.5 | 36% | 21% | 28% | 4.50 | +27% |
+| Goles del local: Más de 3.5 | 55% | 35% | 45% | 2.62 | +18% |
+| Goles del local: Más de 4.5 | 35% | 21% | 28% | 4.50 | +26% |
 | Goles del local: Menos de 1.5 | 10% | 22% | 16% | 4.33 | -32% |
 | Goles del local: Menos de 2.5 | 25% | 42% | 34% | 2.20 | -26% |
 | Goles del local: Menos de 3.5 | 45% | 65% | 55% | 1.44 | -21% |
-| Goles del local: Menos de 4.5 | 64% | 79% | 72% | 1.18 | -15% |
+| Goles del local: Menos de 4.5 | 65% | 79% | 72% | 1.18 | -15% |
 | Goles del visitante: Más de 0.5 | 75% | 50% | 62% | 1.83 | +14% |
 | Goles del visitante: Menos de 0.5 | 25% | 50% | 38% | 1.83 | -31% |
-| 1X2 descanso: X | 23% | 29% | 26% | 3.25 | -16% |
-| 1X2 descanso: 1 | 64% | 63% | 64% | 1.50 | -5% |
+| 1X2 descanso: X | 23% | 29% | 26% | 3.25 | -15% |
+| 1X2 descanso: 1 | 64% | 63% | 63% | 1.50 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

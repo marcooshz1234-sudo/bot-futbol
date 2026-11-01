@@ -1,7 +1,7 @@
 # Preston – Sheffield Utd
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Deepdale Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -186,7 +186,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 51% | 45% | 48% | 2.05 | -2% |
 | 1X2: X | 26% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 | 24% | 28% | 26% | 3.30 | -14% |
+| 1X2: 1 | 24% | 28% | 26% | 3.30 | -15% |
 | Doble oportunidad: X2 | 76% | 72% | 74% | 1.33 | -2% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 49% | 55% | 52% | 1.73 | -10% |
@@ -214,6 +214,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -5% |
 | 1X2 descanso: 2 | 36% | 35% | 36% | 2.62 | -7% |
 | 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -5% |
-| 1X2 descanso: 1 | 20% | 24% | 22% | 3.75 | -17% |
+| 1X2 descanso: 1 | 20% | 24% | 22% | 3.75 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

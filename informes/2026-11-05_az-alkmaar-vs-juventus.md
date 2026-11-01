@@ -1,7 +1,7 @@
 # AZ Alkmaar – Juventus
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -186,16 +186,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 37% | 47% | 42% | 1.95 | -18% |
 | 1X2: X | 28% | 27% | 27% | 3.40 | -7% |
 | 1X2: 1 | 35% | 26% | 30% | 3.60 | +9% |
-| Doble oportunidad: X2 | 65% | 74% | 69% | 1.28 | -11% |
+| Doble oportunidad: X2 | 65% | 74% | 70% | 1.28 | -11% |
 | Doble oportunidad: 12 | 72% | 73% | 73% | 1.30 | -6% |
 | Doble oportunidad: 1X | 63% | 53% | 58% | 1.80 | +4% |
 | Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
 | Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 43% | 53% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -10% |
+| Goles más/menos: Más de 2.5 | 42% | 53% | 47% | 1.80 | -15% |
 | Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
 | Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 58% | 47% | 53% | 2.00 | +5% |
 | Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
 | Goles del local: Más de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
 | Goles del local: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del local: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles del local: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
 | Goles del visitante: Más de 0.5 | 70% | 79% | 75% | 1.18 | -12% |
 | Goles del visitante: Más de 1.5 | 34% | 50% | 42% | 1.83 | -23% |
 | Goles del visitante: Más de 2.5 | 12% | 25% | 19% | 3.75 | -30% |

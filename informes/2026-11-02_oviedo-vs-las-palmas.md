@@ -1,7 +1,7 @@
 # Oviedo – Las Palmas
 **Segunda División** · Regular Season - 12 · 02/11/2026 16:15 (hora España) · Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | Sergio Ruiz | M | 3 | 80 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 1,25 · córners esperados 10,1._
+_Goles esperados: local 1,98 · visitante 1,24 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -195,8 +195,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 24% | 21% | 22% | 4.50 | +0% |
 | 1X2: X | 22% | 25% | 23% | 3.75 | -12% |
-| 1X2: 1 | 54% | 54% | 54% | 1.73 | -6% |
-| Doble oportunidad: X2 | 46% | 46% | 46% | 2.05 | -6% |
+| 1X2: 1 | 55% | 54% | 54% | 1.73 | -6% |
+| Doble oportunidad: X2 | 45% | 46% | 46% | 2.05 | -7% |
 | Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 76% | 79% | 78% | 1.18 | -8% |
 | Ambos marcan: No | 39% | 50% | 44% | 1.83 | -19% |

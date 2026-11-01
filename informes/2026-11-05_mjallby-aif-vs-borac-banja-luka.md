@@ -1,7 +1,7 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -177,27 +177,27 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 30% | 35% | 3.10 | +8% |
-| 1X2: X | 29% | 27% | 28% | 3.40 | -4% |
-| 1X2: 1 | 31% | 43% | 37% | 2.15 | -20% |
-| Doble oportunidad: X2 | 69% | 57% | 63% | 1.67 | +5% |
+| 1X2: 2 | 39% | 30% | 35% | 3.10 | +7% |
+| 1X2: X | 29% | 27% | 28% | 3.40 | -5% |
+| 1X2: 1 | 32% | 43% | 37% | 2.15 | -20% |
+| Doble oportunidad: X2 | 68% | 57% | 63% | 1.67 | +5% |
 | Doble oportunidad: 12 | 71% | 73% | 72% | 1.30 | -6% |
-| Doble oportunidad: 1X | 60% | 70% | 65% | 1.36 | -11% |
-| Ambos marcan: No | 56% | 49% | 52% | 1.91 | -0% |
+| Doble oportunidad: 1X | 61% | 70% | 65% | 1.36 | -11% |
+| Ambos marcan: No | 56% | 49% | 52% | 1.91 | -1% |
 | Ambos marcan: Sí | 44% | 51% | 48% | 1.80 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 72% | 68% | 1.30 | -11% |
 | Goles más/menos: Más de 2.5 | 38% | 47% | 43% | 2.00 | -15% |
-| Goles más/menos: Más de 3.5 | 18% | 27% | 22% | 3.50 | -22% |
+| Goles más/menos: Más de 3.5 | 18% | 27% | 22% | 3.50 | -21% |
 | Goles más/menos: Menos de 1.5 | 35% | 28% | 32% | 3.40 | +7% |
 | Goles más/menos: Menos de 2.5 | 62% | 53% | 57% | 1.80 | +3% |
 | Goles más/menos: Menos de 3.5 | 82% | 73% | 78% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Goles del local: Más de 0.5 | 64% | 75% | 69% | 1.25 | -13% |
-| Goles del local: Más de 1.5 | 27% | 42% | 35% | 2.20 | -24% |
-| Goles del local: Menos de 0.5 | 36% | 25% | 31% | 3.75 | +15% |
+| Goles del local: Más de 0.5 | 64% | 75% | 70% | 1.25 | -13% |
+| Goles del local: Más de 1.5 | 27% | 42% | 35% | 2.20 | -23% |
+| Goles del local: Menos de 0.5 | 36% | 25% | 30% | 3.75 | +14% |
 | Goles del local: Menos de 1.5 | 73% | 58% | 65% | 1.62 | +6% |
 | Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
 | Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |

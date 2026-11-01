@@ -1,7 +1,7 @@
 # Benfica – Alverca
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España) · Estádio da Luz
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Matheus França | F | 4 | 85 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,19 · visitante 0,86 · córners esperados 9,1._
+_Goles esperados: local 3,21 · visitante 0,87 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -197,35 +197,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 7% | 7% | 7% | 13.00 | -9% |
 | 1X2: X | 11% | 12% | 11% | 8.00 | -9% |
-| 1X2: 1 | 82% | 81% | 82% | 1.17 | -5% |
+| 1X2: 1 | 82% | 81% | 82% | 1.17 | -4% |
 | Doble oportunidad: X2 | 18% | 19% | 18% | 5.00 | -8% |
 | Doble oportunidad: 12 | 89% | 89% | 89% | 1.08 | -4% |
 | Doble oportunidad: 1X | 93% | 92% | 93% | 1.04 | -4% |
-| Ambos marcan: No | 45% | 55% | 50% | 1.70 | -16% |
-| Ambos marcan: Sí | 55% | 45% | 50% | 2.05 | +3% |
+| Ambos marcan: No | 44% | 55% | 50% | 1.70 | -16% |
+| Ambos marcan: Sí | 56% | 45% | 50% | 2.05 | +3% |
 | Goles más/menos: Más de 2.5 | 77% | 70% | 73% | 1.36 | -0% |
-| Goles más/menos: Más de 3.5 | 58% | 49% | 53% | 1.91 | +1% |
-| Goles más/menos: Más de 4.5 | 38% | 29% | 34% | 3.25 | +9% |
+| Goles más/menos: Más de 3.5 | 58% | 49% | 53% | 1.91 | +2% |
+| Goles más/menos: Más de 4.5 | 39% | 29% | 34% | 3.25 | +10% |
 | Goles más/menos: Menos de 2.5 | 23% | 30% | 27% | 3.10 | -17% |
-| Goles más/menos: Menos de 3.5 | 42% | 51% | 47% | 1.80 | -15% |
-| Goles más/menos: Menos de 4.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles más/menos: Menos de 3.5 | 42% | 51% | 47% | 1.80 | -16% |
+| Goles más/menos: Menos de 4.5 | 61% | 71% | 66% | 1.33 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 26% | 23% | 25% | 4.00 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 26% | 23% | 25% | 4.00 | -1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 48% | 51% | 50% | 1.80 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del local: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
 | Goles del local: Más de 2.5 | 62% | 56% | 59% | 1.67 | -2% |
-| Goles del local: Más de 3.5 | 39% | 34% | 37% | 2.75 | +1% |
+| Goles del local: Más de 3.5 | 40% | 34% | 37% | 2.75 | +1% |
 | Goles del local: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles del local: Menos de 2.5 | 38% | 44% | 41% | 2.10 | -13% |
-| Goles del local: Menos de 3.5 | 61% | 66% | 63% | 1.40 | -11% |
-| Goles del visitante: Más de 0.5 | 58% | 49% | 53% | 1.91 | +1% |
+| Goles del local: Menos de 2.5 | 38% | 44% | 41% | 2.10 | -14% |
+| Goles del local: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles del visitante: Más de 0.5 | 58% | 49% | 53% | 1.91 | +2% |
 | Goles del visitante: Menos de 0.5 | 42% | 51% | 47% | 1.80 | -16% |
-| Córners más/menos: Más de 10.5 | 34% | 44% | 39% | 2.10 | -18% |
-| Córners más/menos: Menos de 10.5 | 66% | 56% | 61% | 1.67 | +2% |
-| 1X2 descanso: X | 27% | 30% | 29% | 3.10 | -11% |
-| 1X2 descanso: 1 | 63% | 62% | 62% | 1.50 | -7% |
+| Córners más/menos: Más de 10.5 | 33% | 44% | 39% | 2.10 | -18% |
+| Córners más/menos: Menos de 10.5 | 67% | 56% | 61% | 1.67 | +2% |
+| 1X2 descanso: X | 27% | 30% | 29% | 3.10 | -12% |
+| 1X2 descanso: 1 | 63% | 62% | 62% | 1.50 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

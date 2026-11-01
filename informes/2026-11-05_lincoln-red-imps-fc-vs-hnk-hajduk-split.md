@@ -1,7 +1,7 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -173,37 +173,37 @@ _Sin precedentes recientes._
 | Leander Dendoncker | M | 2 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 2,26 · córners esperados 9,3._
+_Goles esperados: local 0,66 · visitante 2,21 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 74% | 70% | 72% | 1.33 | -4% |
-| 1X2: X | 17% | 20% | 18% | 4.75 | -13% |
-| 1X2: 1 | 9% | 10% | 10% | 9.00 | -12% |
-| Doble oportunidad: X2 | 91% | 89% | 90% | 1.07 | -4% |
-| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 26% | 29% | 28% | 3.25 | -9% |
+| 1X2: 2 | 73% | 70% | 71% | 1.33 | -5% |
+| 1X2: X | 18% | 20% | 19% | 4.75 | -12% |
+| 1X2: 1 | 10% | 10% | 10% | 9.00 | -10% |
+| Doble oportunidad: X2 | 90% | 89% | 90% | 1.07 | -4% |
+| Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 27% | 29% | 28% | 3.25 | -8% |
 | Ambos marcan: No | 57% | 58% | 57% | 1.62 | -7% |
 | Ambos marcan: Sí | 43% | 42% | 43% | 2.20 | -6% |
-| Goles más/menos: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 53% | 54% | 1.80 | -2% |
-| Goles más/menos: Más de 3.5 | 33% | 31% | 32% | 3.00 | -3% |
-| Goles más/menos: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles más/menos: Menos de 2.5 | 44% | 47% | 46% | 2.00 | -8% |
-| Goles más/menos: Menos de 3.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 48% | 49% | 48% | 1.91 | -8% |
+| Goles más/menos: Más de 1.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles más/menos: Más de 2.5 | 55% | 53% | 54% | 1.80 | -3% |
+| Goles más/menos: Más de 3.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles más/menos: Menos de 1.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles más/menos: Menos de 2.5 | 45% | 47% | 46% | 2.00 | -7% |
+| Goles más/menos: Menos de 3.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 35% | 2.62 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 65% | 1.44 | -7% |
+| Goles del local: Más de 0.5 | 48% | 49% | 48% | 1.91 | -7% |
 | Goles del local: Menos de 0.5 | 52% | 51% | 52% | 1.80 | -7% |
-| Goles del visitante: Más de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del visitante: Más de 2.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles del visitante: Menos de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles del visitante: Menos de 2.5 | 61% | 62% | 62% | 1.50 | -8% |
-| 1X2 descanso: 2 | 53% | 52% | 52% | 1.80 | -6% |
+| Goles del visitante: Más de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
+| Goles del visitante: Más de 2.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles del visitante: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles del visitante: Menos de 2.5 | 62% | 62% | 62% | 1.50 | -7% |
+| 1X2 descanso: 2 | 52% | 52% | 52% | 1.80 | -6% |
 | 1X2 descanso: X | 37% | 38% | 37% | 2.50 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

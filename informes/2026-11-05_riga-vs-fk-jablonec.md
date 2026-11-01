@@ -1,10 +1,10 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 19:48_
 
 - **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.57**
@@ -16,14 +16,13 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **8.00** · menos **1.08**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
@@ -33,14 +32,16 @@ _Actualizadas: 31/10 13:55_
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.73**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Away Player Shots On Target Total:** Martin Cedidla **13.00**  ·  Filip Zorvan **41.00**
+- **Anytime Goal Scorer:** Antonijs Cernomordijs **11.00**  ·  Raivis Jurkovskis **11.00**  ·  Maksims Tonisevs **11.00**  ·  Orlando Galo **3.75**  ·  David Nykrin **13.00**  ·  Vakhtang Tchanturishvili **5.00**  ·  Abdulrahman Taiwo **3.50**  ·  Ahmed Ankrah **11.00**  ·  Iago Siqueira **3.50**  ·  Meissa Diop **6.00**  ·  Karl Gameni Wassom **9.00**  ·  Baba Musah **13.00**  ·  Coli Saco **11.00**  ·  Evzen Maly **15.00**  ·  Lamin Jawo **3.25**  ·  Saidou Alioum **6.00**  ·  Dusan Pavlovic **13.00**  ·  Junior Reginaldo **2.75**  ·  Moreira Pedrinho **4.75**  ·  Godinho Paulo **8.00**  ·  Raki Aouani **4.75**  ·  Martins Caio **3.25**  ·  Adam Kubat **7.50**  ·  Samuel Pedro **3.10**  ·  Dominik Holly **6.00**  ·  Jan Chramosta **3.50**  ·  Matej Polidar **6.50**  ·  Martin Cedidla **8.00**  ·  Daniel Soucek **13.00**  ·  Sebastian Nebyla **8.00**  ·  Jan Suchan **4.00**  ·  Nemanja Tekijaski **13.00**  ·  Jiri Slama **9.00**  ·  Filip Zorvan **7.50**  ·  Richard Sedlacek **7.50**  ·  Muhammed Badamosi **2.60**  ·  Garang Kuol **4.00**  ·  Salah Oulad M'Hand **4.00**  ·  Antonin Rusek **3.00**  ·  Nelson Okeke **6.50**  ·  Filip Novak **11.00**
 
 ## Estadísticas de equipo
 | | Riga (total) | Riga en casa | FK Jablonec (total) | FK Jablonec fuera |
@@ -170,7 +171,7 @@ _Sin precedentes recientes._
 | Dominik Hollý | M | 2 | 26 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,91 · visitante 1,56 · córners esperados 9,3._
+_Goles esperados: local 0,91 · visitante 1,57 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -186,13 +187,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -15% |
+| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -1% |
+| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
 | Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 60% | 75% | 67% | 1.25 | -16% |
 | Goles del local: Más de 1.5 | 23% | 42% | 33% | 2.20 | -28% |

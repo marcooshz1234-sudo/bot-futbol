@@ -1,7 +1,7 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Israel Ayuma | M | 5 | 113 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 1,22 · córners esperados 9,3._
+_Goles esperados: local 1,08 · visitante 1,24 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Athletic Club – Real Sociedad
 **LaLiga** · Regular Season - 11 · 01/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -206,25 +206,25 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Héctor Fort | D | 5 | 186 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 1,30 · córners esperados 10,5._
+_Goles esperados: local 1,92 · visitante 1,31 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 26% | 28% | 27% | 3.40 | -8% |
 | 1X2: X | 22% | 27% | 24% | 3.60 | -12% |
 | 1X2: 1 | 52% | 45% | 49% | 2.10 | +2% |
-| Doble oportunidad: X2 | 48% | 57% | 52% | 1.67 | -13% |
+| Doble oportunidad: X2 | 48% | 57% | 52% | 1.67 | -12% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 74% | 70% | 72% | 1.36 | -2% |
 | Ambos marcan: No | 38% | 39% | 38% | 2.38 | -8% |
 | Ambos marcan: Sí | 62% | 61% | 62% | 1.53 | -6% |
 | Goles más/menos: Más de 1.5 | 83% | 79% | 81% | 1.20 | -3% |
-| Goles más/menos: Más de 2.5 | 63% | 57% | 60% | 1.67 | -0% |
-| Goles más/menos: Más de 3.5 | 40% | 36% | 38% | 2.62 | +1% |
+| Goles más/menos: Más de 2.5 | 62% | 57% | 60% | 1.67 | -0% |
+| Goles más/menos: Más de 3.5 | 40% | 36% | 38% | 2.62 | +0% |
 | Goles más/menos: Más de 4.5 | 22% | 21% | 22% | 4.50 | -2% |
 | Goles más/menos: Menos de 1.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles más/menos: Menos de 2.5 | 37% | 43% | 40% | 2.20 | -11% |
-| Goles más/menos: Menos de 3.5 | 60% | 64% | 62% | 1.50 | -8% |
+| Goles más/menos: Menos de 2.5 | 38% | 43% | 40% | 2.20 | -11% |
+| Goles más/menos: Menos de 3.5 | 60% | 64% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 4.5 | 78% | 79% | 78% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
@@ -232,14 +232,14 @@ _Goles esperados: local 1,92 · visitante 1,30 · córners esperados 10,5._
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
 | Goles del local: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del local: Más de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
-| Goles del local: Más de 2.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles del local: Más de 2.5 | 30% | 25% | 28% | 3.75 | +3% |
 | Goles del local: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles del local: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Goles del local: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -9% |
 | Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles del visitante: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |
+| Goles del visitante: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
 | Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -6% |
+| Goles del visitante: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
 | Córners más/menos: Más de 9.5 | 53% | 52% | 53% | 1.82 | -4% |
 | Córners más/menos: Menos de 9.5 | 47% | 48% | 47% | 1.98 | -6% |
 | 1X2 descanso: 2 | 23% | 26% | 24% | 3.60 | -12% |

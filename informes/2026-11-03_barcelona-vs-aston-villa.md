@@ -1,7 +1,7 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -179,14 +179,14 @@ _Sin precedentes recientes._
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,13 · visitante 1,46 · córners esperados 9,4._
+_Goles esperados: local 3,12 · visitante 1,46 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 9% | 12% | 10.00 | +21% |
-| 1X2: X | 15% | 12% | 13% | 8.00 | +5% |
-| 1X2: 1 | 71% | 79% | 75% | 1.20 | -10% |
-| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +3% |
+| 1X2: 2 | 15% | 9% | 12% | 10.00 | +22% |
+| 1X2: X | 15% | 12% | 13% | 8.00 | +6% |
+| 1X2: 1 | 70% | 79% | 75% | 1.20 | -11% |
+| Doble oportunidad: X2 | 30% | 25% | 27% | 3.75 | +3% |
 | Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -5% |
 | Doble oportunidad: 1X | 85% | 90% | 87% | 1.06 | -7% |
 | Ambos marcan: No | 27% | 38% | 32% | 2.50 | -20% |
@@ -200,13 +200,13 @@ _Goles esperados: local 3,13 · visitante 1,46 · córners esperados 9,4._
 | Goles más/menos: Menos de 4.5 | 52% | 59% | 55% | 1.62 | -11% |
 | Goles más/menos: Menos de 5.5 | 69% | 75% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 32% | 29% | 31% | 3.25 | -1% |
+| Goles 1ª parte más/menos: Más de 2.5 | 32% | 29% | 31% | 3.25 | -0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 2.5 | 61% | 61% | 61% | 1.53 | -7% |
+| Goles del local: Más de 2.5 | 60% | 61% | 61% | 1.53 | -7% |
 | Goles del local: Más de 3.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles del local: Más de 4.5 | 21% | 23% | 22% | 4.00 | -12% |
-| Goles del local: Menos de 2.5 | 39% | 39% | 39% | 2.38 | -6% |
+| Goles del local: Menos de 2.5 | 40% | 39% | 39% | 2.38 | -6% |
 | Goles del local: Menos de 3.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del local: Menos de 4.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
@@ -214,6 +214,6 @@ _Goles esperados: local 3,13 · visitante 1,46 · córners esperados 9,4._
 | Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -23% |
 | Goles del visitante: Menos de 1.5 | 57% | 71% | 64% | 1.33 | -15% |
 | 1X2 descanso: X | 28% | 28% | 28% | 3.40 | -5% |
-| 1X2 descanso: 1 | 55% | 60% | 57% | 1.57 | -10% |
+| 1X2 descanso: 1 | 54% | 60% | 57% | 1.57 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

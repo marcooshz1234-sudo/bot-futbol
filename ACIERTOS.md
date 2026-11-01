@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 277 · aciertos: 168 (61%) · beneficio a 1 € por pick: -42.64 €
+Picks ya jugados: 326 · aciertos: 199 (61%) · beneficio a 1 € por pick: -46.22 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 52 | 77 | 68% | -5.54 € |
-| resultado | 35 | 53 | 66% | -4.32 € |
-| goles | 72 | 121 | 60% | -21.53 € |
+| resultado | 42 | 62 | 68% | -2.71 € |
+| jugador | 57 | 88 | 65% | -8.95 € |
+| goles | 91 | 150 | 61% | -23.31 € |
 | tarjetas | 5 | 9 | 56% | -1.13 € |
 | tiros | 3 | 8 | 38% | -2.74 € |
 | corners | 1 | 7 | 14% | -5.38 € |
@@ -19,31 +19,82 @@ Picks ya jugados: 277 · aciertos: 168 (61%) · beneficio a 1 € por pick: -42.
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| To Win Either Half · Home | 3 | 3 | 100% |
-| Total - Home · Over 0.5 | 6 | 7 | 86% |
+| To Win Either Half · Home | 4 | 4 | 100% |
+| Match Winner · Home | 5 | 6 | 83% |
+| Match Winner · Away | 4 | 5 | 80% |
+| Total - Home · Over 0.5 | 6 | 8 | 75% |
 | Double Chance · Home/Draw | 3 | 4 | 75% |
-| Match Winner · Away | 3 | 4 | 75% |
-| Goals Over/Under · Over 1.5 | 12 | 17 | 71% |
-| Double Chance · Home/Away | 15 | 22 | 68% |
-| Match Winner · Home | 2 | 3 | 67% |
-| Goals Over/Under First Half · Over 0.5 | 18 | 28 | 64% |
-| Goals Over/Under · Over 2.5 | 7 | 12 | 58% |
-| Total - Away · Over 0.5 | 15 | 27 | 56% |
-| Double Chance · Draw/Away | 7 | 13 | 54% |
-| Total Goals/Both Teams To Score · o/yes 2.5 | 2 | 4 | 50% |
+| Goals Over/Under · Over 1.5 | 14 | 19 | 74% |
+| Double Chance · Home/Away | 17 | 24 | 71% |
+| Goals Over/Under · Over 2.5 | 10 | 15 | 67% |
+| Goals Over/Under First Half · Over 0.5 | 22 | 34 | 65% |
+| Goals Over/Under - Second Half · Over 1.5 | 3 | 5 | 60% |
+| Total - Away · Over 0.5 | 19 | 33 | 58% |
+| Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 6 | 50% |
 | To Win Either Half · Away | 2 | 4 | 50% |
+| Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Home Team Total Cards · Over 1.5 | 2 | 4 | 50% |
-| Both Teams Score · Yes | 5 | 12 | 42% |
+| Both Teams Score · Yes | 7 | 15 | 47% |
+| Double Chance · Draw/Away | 7 | 15 | 47% |
+| Goals Over/Under - Second Half · Over 0.5 | 3 | 7 | 43% |
 | Shots.1x2 · Away | 1 | 3 | 33% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
-| Goals Over/Under - Second Half · Over 0.5 | 2 | 6 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
 
-### 2026-10-31 · 69/115
+### 2026-11-01 · 30/47
+- ❌ ADO Den Haag marca · 1.25 (1-0)
+- ❌ Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag · 1.80 (1-0)
+- ✅ Gol en la 1ª parte del PEC Zwolle–ADO Den Haag · 1.28 (1-0)
+- ✅ Gana el Como · 1.30 (1-0)
+- ❌ Antoine Hainaut: 1+ tiros · 1.36 (1-0)
+- ❌ Akor Adams: 2+ tiros · 1.40 (1-0)
+- ❌ Como marca 2 o más · 1.28 (1-0)
+- ✅ Sevilla marca · 1.40 (3-1)
+- ✅ Gol en la 2ª parte del Getafe–Sevilla · 1.36 (3-1)
+- ❌ Sevilla o empate · 1.36 (3-1)
+- ✅ Más de 1,5 goles en Getafe–Sevilla · 1.53 (3-1)
+- ✅ Granada CF marca · 1.33 (0-2)
+- ✅ Más de 2,5 goles en Telstar–Utrecht · 1.53 (4-2)
+- ❌ Utrecht o empate · 1.36 (4-2)
+- ✅ Auxerre marca · 1.33 (5-1)
+- ✅ No hay empate en Strasbourg–Auxerre · 1.25 (5-1)
+- ✅ Más de 2,5 goles en Strasbourg–Auxerre · 1.57 (5-1)
+- ✅ Ambos marcan en Strasbourg–Auxerre · 1.57 (5-1)
+- ✅ Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre · 1.80 (5-1)
+- ✅ Gol en la 1ª parte del Strasbourg–Auxerre · 1.28 (5-1)
+- ✅ Alessandro Romano: 1+ tiros · 1.40 (2-1)
+- ❌ Gol en la 1ª parte del Frosinone–Torino · 1.25 (2-0)
+- ✅ Gana el Lazio · 1.48 (2-1)
+- ❌ Pietro Comuzzo comete 1+ faltas · 1.28 (2-0)
+- ✅ Patrizio Masini comete 2+ faltas · 1.62 (2-0)
+- ✅ Said El Mala: 3+ tiros · 1.50 (1-1)
+- ❌ Rani Khedira comete 1+ faltas · 1.25 (1-1)
+- ❌ Said El Mala comete 1+ faltas · 1.40 (1-1)
+- ✅ Zeno Van Den Bosch comete 1+ faltas · 1.40 (1-1)
+- ✅ Marius Bulter comete 1+ faltas · 1.67 (1-1)
+- ❌ Racing Santander marca · 1.44 (0-3)
+- ❌ Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid · 1.62 (0-3)
+- ❌ Ambos marcan en Racing Santander–Real Madrid · 1.50 (0-3)
+- ✅ Gana el Sporting Gijon · 2.15 (0-2)
+- ✅ Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon · 1.36 (0-2)
+- ✅ Más de 1,5 goles en AD Ceuta FC–Sporting Gijon · 1.25 (0-2)
+- ✅ Arouca gana alguna de las dos partes · 1.40 (1-0)
+- ✅ Gana el Arouca · 1.73 (1-0)
+- ❌ Gol en la 1ª parte del Arouca–Nacional · 1.36 (1-0)
+- ✅ Sparta Rotterdam marca · 1.30 (2-3)
+- ✅ Ambos marcan en Groningen–Sparta Rotterdam · 1.44 (2-3)
+- ✅ Más de 2,5 goles en Groningen–Sparta Rotterdam · 1.44 (2-3)
+- ✅ Ambos marcan y más de 2,5 goles en Groningen–Sparta Rotterdam · 1.67 (2-3)
+- ✅ Groningen marca 2 o más · 1.53 (2-3)
+- ❌ Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam · 1.67 (2-3)
+- ✅ No hay empate en Liverpool–Arsenal · 1.30 (0-1)
+- ❌ David Wolfe comete 1+ faltas · 1.44 (3-1)
+
+### 2026-10-31 · 70/117
 - ❌ Manchester United marca · 1.36 (2-0)
 - ✅ Stoke City gana alguna de las dos partes · 1.44 (2-0)
 - ✅ Gol en la 1ª parte del Norwich–Watford · 1.25 (3-2)
@@ -147,7 +198,9 @@ Picks ya jugados: 277 · aciertos: 168 (61%) · beneficio a 1 € por pick: -42.
 - ❌ Ambos marcan en PSV Eindhoven–Willem II · 1.70 (7-0)
 - ✅ Más de 1,5 goles en Estac Troyes–Le Mans · 1.25 (2-0)
 - ❌ Le Mans marca · 1.33 (2-0)
+- ✅ Gol en la 1ª parte del Lyon–Angers · 1.25 (2-0)
 - ✅ Gol en la 1ª parte del Estac Troyes–Le Mans · 1.33 (2-0)
+- ❌ Angers marca · 1.62 (2-0)
 - ✅ Nicolo Barella: 1+ tiros · 1.33 (3-1)
 - ✅ Alaves marca · 1.73 (6-1)
 - ❌ No hay empate en Aston Villa–Fulham · 1.30 (1-1)
@@ -251,52 +304,4 @@ Picks ya jugados: 277 · aciertos: 168 (61%) · beneficio a 1 € por pick: -42.
 - ✅ Más de 1,5 goles en Sevilla–Osasuna · 1.40 (2-0)
 - ✅ No hay empate en Sevilla–Osasuna · 1.33 (2-0)
 - ✅ Youssouf Fofana: 1+ tiros a puerta · 1.80 (2-0)
-
-### 2026-10-25 · 25/46
-- ✅ Más de 2,5 goles en Inter–Fiorentina · 1.44 (2-1)
-- ✅ Inter marca 2 o más · 1.33 (2-1)
-- ❌ Athletic Club ve más de 1,5 tarjetas · 1.73 (4-0)
-- ✅ No hay empate en Genoa–Venezia · 1.30 (1-0)
-- ✅ Bournemouth marca · 1.25 (0-3)
-- ❌ Gol en la 1ª parte del Crystal Palace–Newcastle · 1.25 (0-2)
-- ❌ Más de 1,5 goles en Genoa–Venezia · 1.30 (1-0)
-- ❌ Gol en la 2ª parte del Genoa–Venezia · 1.25 (1-0)
-- ✅ Gol en la 1ª parte del Monaco–Lille · 1.33 (1-1)
-- ✅ Lille marca · 1.40 (1-1)
-- ❌ No hay empate en Monaco–Lille · 1.30 (1-1)
-- ❌ Más de 2,5 fueras de juego en Manchester United–Bournemouth · 1.67 (0-3)
-- ❌ Más de 2,5 goles en Crystal Palace–Newcastle · 1.57 (0-2)
-- ✅ Bournemouth o empate · 1.57 (0-3)
-- ✅ Newcastle ve más de 1,5 tarjetas · 1.50 (0-2)
-- ✅ No hay empate en 1899 Hoffenheim–Bayer Leverkusen · 1.25 (3-0)
-- ✅ Real Betis o empate · 1.36 (0-0)
-- ❌ Más de 2,5 goles en Auxerre–Le Mans · 1.67 (1-1)
-- ❌ Estac Troyes hace más de 3,5 córners · 1.62 (0-0)
-- ✅ Ambos marcan en Auxerre–Le Mans · 1.62 (1-1)
-- ✅ Le Mans marca · 1.30 (1-1)
-- ❌ Gol en la 1ª parte del Auxerre–Le Mans · 1.33 (1-1)
-- ✅ Más de 2,5 goles en Rennes–Strasbourg · 1.44 (3-0)
-- ❌ Strasbourg marca · 1.28 (3-0)
-- ❌ Más de 8,5 tiros a puerta en Auxerre–Le Mans · 1.73 (1-1)
-- ❌ No hay empate en Angers–Lorient · 1.33 (0-0)
-- ❌ Ambos marcan en Rennes–Strasbourg · 1.44 (3-0)
-- ❌ Lorient marca · 1.28 (0-0)
-- ✅ Cameron Archer: 1+ tiros a puerta · 1.40 (1-1)
-- ❌ Danny Namaso: 1+ tiros a puerta · 1.40 (1-1)
-- ✅ Amir Richardson: 1+ tiros · 1.40 (4-3)
-- ❌ Noah Cadiou: 1+ tiros · 1.33 (0-0)
-- ✅ Mahdi Camara: 1+ tiros · 1.33 (3-0)
-- ❌ Jacen Russell-Rowe: 1+ tiros a puerta · 1.53 (0-0)
-- ✅ Maximilian Eggestein: 1+ tiros · 1.40 (1-3)
-- ❌ Gol en la 2ª parte del Sunderland–Leeds · 1.28 (0-0)
-- ✅ Más de 2,5 goles en SC Freiburg–Bayern München · 1.33 (1-3)
-- ❌ Leeds marca · 1.28 (0-0)
-- ✅ Sunderland hace más tiros · 1.80 (0-0)
-- ✅ Leeds o empate · 1.40 (0-0)
-- ❌ Más de 1,5 goles en Sunderland–Leeds · 1.36 (0-0)
-- ✅ Jayden Bogle comete 1+ faltas · 1.30 (0-0)
-- ✅ Más de 1,5 goles en Lecce–Juventus · 1.25 (0-2)
-- ✅ Gol en la 1ª parte del Lecce–Juventus · 1.36 (0-2)
-- ✅ Más de 1,5 goles en Udinese–AC Milan · 1.28 (0-2)
-- ✅ Ambos marcan y más de 2,5 goles en Barcelona–Real Madrid · 1.40 (1-2)
 

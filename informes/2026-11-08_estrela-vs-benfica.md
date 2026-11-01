@@ -1,7 +1,7 @@
 # Estrela – Benfica
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | S. El Karouani | D | 5 | 226 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 4 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 2,93 · córners esperados 9,5._
+_Goles esperados: local 0,97 · visitante 2,96 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

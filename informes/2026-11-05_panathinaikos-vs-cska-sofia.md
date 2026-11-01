@@ -1,10 +1,10 @@
 # Panathinaikos – CSKA Sofia
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Olympic Stadium of Athens
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 19:48_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.50**
@@ -37,11 +37,13 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.28**  ·  2 **3.00**
+- **To Win Either Half:** 1 **1.30**  ·  2 **3.00**
 - **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
 - **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **2.62**  ·  Draw/No **15.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Leo Pereira Augusto **41.00**  ·  Facundo Rodriguez **34.00**  ·  Facundo Pellistri **67.00**  ·  Angelo Martino **26.00**  ·  Santino Andino **26.00**  ·  Vicente Taborda **29.00**  ·  Imran Louza **26.00**  ·  Pedro Chirivella **67.00**  ·  Jean-Philippe Gbamin **81.00**  ·  Cyriel Dessers **10.00**  ·  Anass Saleh-Eddine **67.00**  ·  Victor Kristiansen **34.00**  ·  Davide Calabria **34.00**  ·  Erik Palmer-Brown **19.00**  ·  Tamimou Ouorou **201.00**  ·  Georgios Kyriakopoulos **67.00**  ·  Stefan de Vrij **26.00**
+- **Anytime Goal Scorer:** David Pastor **15.00**  ·  Leo Pereira Augusto **4.75**  ·  Facundo Rodriguez **15.00**  ·  Max Ebong **10.00**  ·  Barry Cotter **12.00**  ·  Ioannis Pittas **3.40**  ·  Facundo Pellistri **3.50**  ·  Isaac Solet **8.00**  ·  Azz-Eddine Ounahi **4.00**  ·  Giannis Bokos **4.00**  ·  Bruno Jordao **10.00**  ·  Mohamed Brahimi **4.75**  ·  Vasilios Lavdas **6.50**  ·  Elmin Rastoder **2.10**  ·  Angelo Martino **10.00**  ·  Santino Andino **3.00**  ·  Vicente Taborda **3.40**  ·  Imran Louza **3.00**  ·  Pedro Chirivella **6.00**  ·  Jean-Philippe Gbamin **15.00**  ·  Leandro Godoy **3.00**  ·  Petko Panayotov **7.50**  ·  James Eto'o **10.00**  ·  Andrey Yordanov **9.00**  ·  Teodor Ivanov **17.00**  ·  Etienne Camara **6.50**  ·  Levi Garcia **2.10**  ·  Sotiris Kontouris **5.50**  ·  Triantafyllos Tsapras **7.50**  ·  Georgios Katris **12.00**  ·  Cyriel Dessers **1.91**  ·  Anass Saleh-Eddine **7.50**  ·  Rick Van Drongelen **10.00**  ·  Alex Tunchev **15.00**  ·  Adriano Jagusic **2.88**  ·  Joel Zwarts **3.75**  ·  Vasil Kaymakanov **3.75**  ·  Panagiotis Biniaris **5.50**  ·  Iason Nebis **2.60**  ·  Victor Kristiansen **12.00**  ·  Dinis Almeida **15.00**  ·  Catalin Itu **6.50**  ·  Davide Calabria **5.50**  ·  Erik Palmer-Brown **12.00**  ·  Andrews Tetteh **1.91**  ·  Tamimou Ouorou **12.00**  ·  Georgios Kyriakopoulos **8.00**  ·  Stefano Sensi **8.00**  ·  Kings Kangwa **4.75**  ·  Stefan de Vrij **15.00**  ·  Georgi Chorbadzhiyski **6.50**
 
 ## Estadísticas de equipo
 | | Panathinaikos (total) | Panathinaikos en casa | CSKA Sofia (total) | CSKA Sofia fuera |
@@ -171,7 +173,7 @@ _Sin precedentes recientes._
 | Isaac Solet | M | 2 | 18 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,77 · visitante 1,28 · córners esperados 10,1._
+_Goles esperados: local 2,78 · visitante 1,28 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -179,7 +181,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 17% | 16% | 5.50 | -12% |
 | 1X2: X | 16% | 22% | 19% | 4.20 | -20% |
-| 1X2: 1 | 69% | 61% | 65% | 1.50 | -2% |
+| 1X2: 1 | 69% | 61% | 65% | 1.50 | -3% |
 | Doble oportunidad: X2 | 31% | 38% | 35% | 2.50 | -13% |
 | Doble oportunidad: 12 | 84% | 78% | 81% | 1.22 | -1% |
 | Doble oportunidad: 1X | 85% | 84% | 84% | 1.14 | -4% |
@@ -188,11 +190,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 91% | 78% | 85% | 1.20 | +2% |
 | Goles más/menos: Más de 2.5 | 77% | 57% | 67% | 1.65 | +11% |
 | Goles más/menos: Más de 3.5 | 58% | 35% | 47% | 2.62 | +22% |
-| Goles más/menos: Más de 4.5 | 38% | 21% | 29% | 4.50 | +33% |
+| Goles más/menos: Más de 4.5 | 38% | 21% | 30% | 4.50 | +33% |
 | Goles más/menos: Menos de 1.5 | 9% | 22% | 15% | 4.33 | -34% |
 | Goles más/menos: Menos de 2.5 | 23% | 43% | 33% | 2.20 | -28% |
 | Goles más/menos: Menos de 3.5 | 42% | 65% | 53% | 1.44 | -23% |
-| Goles más/menos: Menos de 4.5 | 62% | 79% | 71% | 1.18 | -17% |
+| Goles más/menos: Menos de 4.5 | 62% | 79% | 70% | 1.18 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 72% | 78% | 1.30 | +1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 53% | 39% | 46% | 2.38 | +9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 17% | 28% | 22% | 3.40 | -24% |

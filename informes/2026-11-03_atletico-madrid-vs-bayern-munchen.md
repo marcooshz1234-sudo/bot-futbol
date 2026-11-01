@@ -1,7 +1,7 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -185,42 +185,42 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,09 · visitante 1,92 · córners esperados 9,6._
+_Goles esperados: local 1,09 · visitante 1,94 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 57% | 43% | 50% | 2.20 | +10% |
-| 1X2: X | 22% | 24% | 23% | 4.00 | -8% |
+| 1X2: 2 ✅ | 57% | 43% | 50% | 2.20 | +11% |
+| 1X2: X | 22% | 24% | 23% | 4.00 | -9% |
 | 1X2: 1 | 21% | 33% | 27% | 2.88 | -22% |
 | Doble oportunidad: X2 | 79% | 66% | 73% | 1.40 | +2% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 43% | 57% | 50% | 1.62 | -19% |
 | Ambos marcan: No ✅ | 43% | 31% | 37% | 3.00 | +12% |
 | Ambos marcan: Sí | 57% | 69% | 63% | 1.36 | -15% |
-| Goles más/menos: Más de 2.5 | 58% | 68% | 63% | 1.40 | -12% |
-| Goles más/menos: Más de 3.5 | 36% | 47% | 41% | 2.00 | -17% |
-| Goles más/menos: Más de 4.5 | 19% | 28% | 23% | 3.40 | -20% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 32% | 37% | 3.00 | +11% |
-| Goles más/menos: Menos de 3.5 | 64% | 53% | 59% | 1.80 | +5% |
-| Goles más/menos: Menos de 4.5 | 81% | 72% | 77% | 1.33 | +2% |
+| Goles más/menos: Más de 2.5 | 58% | 68% | 63% | 1.40 | -11% |
+| Goles más/menos: Más de 3.5 | 36% | 47% | 42% | 2.00 | -17% |
+| Goles más/menos: Más de 4.5 | 19% | 28% | 24% | 3.40 | -20% |
+| Goles más/menos: Menos de 2.5 | 42% | 32% | 37% | 3.00 | +10% |
+| Goles más/menos: Menos de 3.5 | 64% | 53% | 58% | 1.80 | +5% |
+| Goles más/menos: Menos de 4.5 | 81% | 72% | 76% | 1.33 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -18% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 23% | 19% | 4.00 | -24% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
+| Goles 1ª parte más/menos: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 77% | 81% | 1.22 | -1% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles del local: Más de 0.5 | 66% | 79% | 73% | 1.18 | -14% |
 | Goles del local: Más de 1.5 | 30% | 50% | 40% | 1.83 | -27% |
 | Goles del local: Más de 2.5 | 10% | 25% | 17% | 3.75 | -35% |
-| Goles del local: Menos de 0.5 | 34% | 21% | 27% | 4.50 | +22% |
+| Goles del local: Menos de 0.5 | 34% | 21% | 27% | 4.50 | +23% |
 | Goles del local: Menos de 1.5 | 70% | 50% | 60% | 1.83 | +10% |
 | Goles del local: Menos de 2.5 | 90% | 75% | 83% | 1.25 | +3% |
-| Goles del visitante: Más de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
-| Goles del visitante: Más de 2.5 | 30% | 29% | 30% | 3.25 | -4% |
-| Goles del visitante: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -9% |
-| Goles del visitante: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles del visitante: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles del visitante: Más de 2.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles del visitante: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
+| Goles del visitante: Menos de 2.5 | 69% | 71% | 70% | 1.33 | -7% |
 | 1X2 descanso: 2 | 42% | 35% | 39% | 2.62 | +1% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
-| 1X2 descanso: 1 | 20% | 29% | 24% | 3.20 | -22% |
+| 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -4% |
+| 1X2 descanso: 1 | 19% | 29% | 24% | 3.20 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

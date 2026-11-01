@@ -1,7 +1,7 @@
 # West Brom – Southampton
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles del visitante: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Goles del visitante: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
+| Goles del visitante: Más de 2.5 | 20% | 21% | 21% | 4.50 | -7% |
 | Goles del visitante: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
 | Goles del visitante: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |

@@ -1,7 +1,7 @@
 # Atalanta – Parma
 **Serie A** · Regular Season - 10 · 02/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -209,41 +209,41 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | G. Daffara | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 0,76 · córners esperados 9,5._
+_Goles esperados: local 1,71 · visitante 0,76 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 15% | 16% | 6.25 | +0% |
-| 1X2: X | 24% | 21% | 23% | 4.50 | +2% |
-| 1X2: 1 | 59% | 64% | 61% | 1.50 | -8% |
-| Doble oportunidad: X2 | 41% | 39% | 40% | 2.38 | -5% |
+| 1X2: 2 | 16% | 15% | 16% | 6.25 | -1% |
+| 1X2: X | 24% | 21% | 22% | 4.50 | +1% |
+| 1X2: 1 | 60% | 64% | 62% | 1.50 | -7% |
+| Doble oportunidad: X2 | 40% | 39% | 40% | 2.38 | -6% |
 | Doble oportunidad: 12 | 76% | 78% | 77% | 1.20 | -8% |
-| Doble oportunidad: 1X | 83% | 83% | 83% | 1.12 | -7% |
-| Ambos marcan: No | 57% | 47% | 52% | 2.00 | +3% |
-| Ambos marcan: Sí | 43% | 53% | 48% | 1.75 | -16% |
-| Goles más/menos: Más de 1.5 | 70% | 79% | 74% | 1.20 | -11% |
-| Goles más/menos: Más de 2.5 | 44% | 59% | 51% | 1.62 | -17% |
-| Goles más/menos: Más de 3.5 | 23% | 36% | 30% | 2.62 | -23% |
-| Goles más/menos: Más de 4.5 | 10% | 21% | 16% | 4.50 | -30% |
-| Goles más/menos: Menos de 1.5 | 30% | 21% | 26% | 4.50 | +15% |
-| Goles más/menos: Menos de 2.5 ✅ | 56% | 41% | 49% | 2.30 | +12% |
-| Goles más/menos: Menos de 3.5 | 77% | 64% | 70% | 1.50 | +6% |
-| Goles más/menos: Menos de 4.5 | 90% | 79% | 84% | 1.20 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
-| Goles del local: Más de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles del local: Más de 2.5 | 23% | 35% | 29% | 2.62 | -23% |
-| Goles del local: Menos de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +10% |
-| Goles del local: Menos de 2.5 | 77% | 65% | 71% | 1.44 | +2% |
+| Doble oportunidad: 1X | 84% | 83% | 83% | 1.12 | -7% |
+| Ambos marcan: No | 56% | 47% | 51% | 2.00 | +3% |
+| Ambos marcan: Sí | 44% | 53% | 49% | 1.75 | -15% |
+| Goles más/menos: Más de 1.5 | 71% | 79% | 75% | 1.20 | -10% |
+| Goles más/menos: Más de 2.5 | 45% | 59% | 52% | 1.62 | -16% |
+| Goles más/menos: Más de 3.5 | 24% | 36% | 30% | 2.62 | -21% |
+| Goles más/menos: Más de 4.5 | 11% | 21% | 16% | 4.50 | -29% |
+| Goles más/menos: Menos de 1.5 | 29% | 21% | 25% | 4.50 | +13% |
+| Goles más/menos: Menos de 2.5 ✅ | 55% | 41% | 48% | 2.30 | +11% |
+| Goles más/menos: Menos de 3.5 | 76% | 64% | 70% | 1.50 | +5% |
+| Goles más/menos: Menos de 4.5 | 89% | 79% | 84% | 1.20 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 39% | 34% | 2.38 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
+| Goles del local: Más de 1.5 | 51% | 62% | 57% | 1.50 | -15% |
+| Goles del local: Más de 2.5 | 25% | 35% | 30% | 2.62 | -21% |
+| Goles del local: Menos de 1.5 ✅ | 49% | 38% | 43% | 2.50 | +8% |
+| Goles del local: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 0.5 | 53% | 61% | 57% | 1.53 | -13% |
 | Goles del visitante: Más de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
 | Goles del visitante: Menos de 0.5 | 47% | 39% | 43% | 2.38 | +2% |
 | Goles del visitante: Menos de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: X | 44% | 38% | 41% | 2.50 | +1% |
-| 1X2 descanso: 1 | 41% | 47% | 44% | 2.00 | -12% |
+| 1X2 descanso: X | 43% | 38% | 40% | 2.50 | +1% |
+| 1X2 descanso: 1 | 42% | 47% | 44% | 2.00 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

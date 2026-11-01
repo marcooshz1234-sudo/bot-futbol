@@ -1,7 +1,7 @@
 # Newcastle – Everton
 **Premier League** · Regular Season - 9 · 02/11/2026 21:00 (hora España) · St James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:54_
@@ -216,38 +216,38 @@ _Goles esperados: local 1,19 · visitante 1,43 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 42% | 33% | 38% | 2.90 | +9% |
+| 1X2: 2 ✅ | 43% | 33% | 38% | 2.90 | +9% |
 | 1X2: X | 26% | 27% | 27% | 3.50 | -7% |
 | 1X2: 1 | 31% | 40% | 36% | 2.35 | -16% |
 | Doble oportunidad: X2 | 69% | 60% | 64% | 1.57 | +1% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 58% | 67% | 62% | 1.40 | -13% |
+| Doble oportunidad: 1X | 57% | 67% | 62% | 1.40 | -13% |
 | Ambos marcan: No | 47% | 41% | 44% | 2.25 | -1% |
 | Ambos marcan: Sí | 53% | 59% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.22 | -8% |
-| Goles más/menos: Más de 2.5 | 49% | 55% | 52% | 1.73 | -11% |
+| Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.22 | -7% |
+| Goles más/menos: Más de 2.5 | 49% | 55% | 52% | 1.73 | -10% |
 | Goles más/menos: Más de 3.5 | 27% | 34% | 31% | 2.75 | -16% |
-| Goles más/menos: Menos de 1.5 | 26% | 22% | 24% | 4.33 | +5% |
+| Goles más/menos: Menos de 1.5 | 26% | 22% | 24% | 4.33 | +4% |
 | Goles más/menos: Menos de 2.5 | 51% | 45% | 48% | 2.10 | +1% |
 | Goles más/menos: Menos de 3.5 | 73% | 66% | 69% | 1.44 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 38% | 35% | 2.50 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
 | Goles del local: Más de 0.5 | 70% | 78% | 74% | 1.20 | -11% |
-| Goles del local: Más de 1.5 | 33% | 46% | 40% | 2.00 | -20% |
+| Goles del local: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Goles del local: Más de 2.5 | 12% | 22% | 17% | 4.33 | -27% |
 | Goles del local: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +13% |
-| Goles del local: Menos de 1.5 | 67% | 54% | 60% | 1.73 | +4% |
+| Goles del local: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
 | Goles del local: Menos de 2.5 | 88% | 78% | 83% | 1.20 | -0% |
 | Goles del visitante: Más de 0.5 | 76% | 75% | 76% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles del visitante: Más de 1.5 | 42% | 41% | 42% | 2.25 | -7% |
 | Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -8% |
-| Goles del visitante: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles del visitante: Menos de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
 | Córners más/menos: Más de 10.5 | 42% | 48% | 45% | 1.98 | -11% |
 | Córners más/menos: Menos de 10.5 | 58% | 52% | 55% | 1.82 | -0% |
-| 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -3% |
-| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
+| 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -2% |
+| 1X2 descanso: X | 43% | 40% | 41% | 2.30 | -5% |
 | 1X2 descanso: 1 | 25% | 32% | 28% | 2.88 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
