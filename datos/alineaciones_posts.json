@@ -5,6 +5,8 @@
   "2026-10-31-combi-loca|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
+  "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
+  "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
   "mis|2026-11-01-liverpool-arsenal|1557453|Player Fouls Committed|Dominik Szoboszlai - 1"
  ],
  "alineaciones": {
@@ -2597,10 +2599,151 @@
    }
   },
   "1569993": {
-   "hora": "2026-11-01T17:54:05.388957+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T18:05:10.454226+01:00",
+   "xi": [
+    "Ander Cantero",
+    "Álex",
+    "Oier Luengo",
+    "Grego",
+    "Brais Martínez",
+    "Alberto Dadie",
+    "P. Galdames",
+    "Unai Vencedor",
+    "Javi Llabrés",
+    "Curro Sánchez",
+    "Álex Forés",
+    "R. Matthys",
+    "Pablo Santiago",
+    "J. Mellot",
+    "Alberto Jiménez",
+    "A. Sienra",
+    "Israel Suero",
+    "Barri",
+    "M. Orozco",
+    "Iñigo Córdoba",
+    "A. Jakobsen",
+    "Álvaro Martín"
+   ],
+   "banquillo": [
+    "Mario Cantero",
+    "K. Appin",
+    "Marcelo Expósito",
+    "Fermin Garcia",
+    "Sergio González",
+    "José Gragera",
+    "Bruno Iribarne",
+    "I. Martinez",
+    "Víctor Mollejo",
+    "Irian Ribas",
+    "Ignasi Vilarrasa",
+    "Saúl del Cerro",
+    "F. Ceccherini",
+    "Martín Conde",
+    "Rodrigo Miguel Ferreira Rêgo",
+    "A. Gala",
+    "Varo García",
+    "I. Kostis",
+    "D. Muale Nzanza",
+    "Juanjo Nieto",
+    "A. Saipi",
+    "Raúl Sánchez",
+    "J. Vlak",
+    "Lucas Alcázar"
+   ],
+   "equipos": {
+    "9580": [
+     {
+      "n": "Ander Cantero",
+      "pos": "G"
+     },
+     {
+      "n": "Álex",
+      "pos": "D"
+     },
+     {
+      "n": "Oier Luengo",
+      "pos": "D"
+     },
+     {
+      "n": "Grego",
+      "pos": "D"
+     },
+     {
+      "n": "Brais Martínez",
+      "pos": "D"
+     },
+     {
+      "n": "Alberto Dadie",
+      "pos": "M"
+     },
+     {
+      "n": "P. Galdames",
+      "pos": "M"
+     },
+     {
+      "n": "Unai Vencedor",
+      "pos": "M"
+     },
+     {
+      "n": "Javi Llabrés",
+      "pos": "M"
+     },
+     {
+      "n": "Curro Sánchez",
+      "pos": "F"
+     },
+     {
+      "n": "Álex Forés",
+      "pos": "F"
+     }
+    ],
+    "5254": [
+     {
+      "n": "R. Matthys",
+      "pos": "G"
+     },
+     {
+      "n": "Pablo Santiago",
+      "pos": "D"
+     },
+     {
+      "n": "J. Mellot",
+      "pos": "D"
+     },
+     {
+      "n": "Alberto Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "A. Sienra",
+      "pos": "D"
+     },
+     {
+      "n": "Israel Suero",
+      "pos": "M"
+     },
+     {
+      "n": "Barri",
+      "pos": "M"
+     },
+     {
+      "n": "M. Orozco",
+      "pos": "M"
+     },
+     {
+      "n": "Iñigo Córdoba",
+      "pos": "M"
+     },
+     {
+      "n": "A. Jakobsen",
+      "pos": "F"
+     },
+     {
+      "n": "Álvaro Martín",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575534": {
    "hora": "2026-11-01T17:59:36.787639+01:00",
