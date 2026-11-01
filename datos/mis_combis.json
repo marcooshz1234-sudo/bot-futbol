@@ -227,5 +227,53 @@
       1.28
     ],
     "origen": "Claude 01/11 17:52"
+  },
+  {
+    "id": "2026-11-01-goles",
+    "fecha": "2026-11-01T18:30",
+    "titulo": "Otra buena (goles)",
+    "cuota": 6.64,
+    "sel": [
+      "1550182|Goals Over/Under First Half|Over 0.5",
+      "1570433|Total - Away|Over 0.5",
+      "1575534|Total - Away|Over 0.5",
+      "1570437|Total - Home|Over 0.5",
+      "1552805|Total - Away|Over 0.5",
+      "1575527|Goals Over/Under First Half|Over 0.5",
+      "1575530|Goals Over/Under - Second Half|Over 0.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.28,
+      1.33,
+      1.25,
+      1.28,
+      1.36,
+      1.28
+    ],
+    "origen": "Claude 01/11 17:55"
+  },
+  {
+    "id": "2026-11-01-mixta",
+    "fecha": "2026-11-01T18:30",
+    "titulo": "Otra buena (mixta)",
+    "cuota": 6.1,
+    "sel": [
+      "1552805|Home Player Shots On Target Total|Igor Paixao - 1",
+      "1550182|Total - Home|Over 0.5",
+      "1570433|Shots.1x2|Home",
+      "1575534|Goals Over/Under - Second Half|Over 0.5",
+      "1575527|Total - Away|Over 0.5",
+      "1569993|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.5,
+      1.25,
+      1.25,
+      1.33,
+      1.44,
+      1.36
+    ],
+    "origen": "Claude 01/11 17:55"
   }
 ]
