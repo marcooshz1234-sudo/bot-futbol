@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 02:10",
+ "actualizado": "2026-11-01 02:37",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1377,
-   "hoy": 2,
+   "seguidores": 1378,
+   "hoy": 3,
    "serie": [
     938,
     983,
@@ -24,7 +24,7 @@
     1281,
     1354,
     1375,
-    1377
+    1378
    ]
   },
   "facebook": {
@@ -54,24 +54,24 @@
    ]
   }
  },
- "total": 1577,
- "total_hoy": 5,
+ "total": 1578,
+ "total_hoy": 6,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:15",
+  "hora": "11:00",
   "dia": "2026-11-01",
-  "titulo": "Combi Pec Zwolle vs Ado Den Haag"
+  "titulo": "Reto escalera · día 1/7 · x1,96"
  },
  "ayer": {
-  "aciertos": 53,
-  "total": 85
+  "aciertos": 69,
+  "total": 115
  },
  "escalera": {
-  "dia": 2,
+  "dia": 1,
   "de": 7,
-  "stake": 41.6,
-  "objetivo": 91.94,
-  "fecha": "2026-10-31"
+  "stake": 20.0,
+  "objetivo": 39.2,
+  "fecha": "2026-11-01"
  },
  "historial": {
   "2026-10-23": {
@@ -126,7 +126,7 @@
   },
   "2026-11-01": {
    "instagram": 21,
-   "threads": 1377,
+   "threads": 1378,
    "facebook": 0,
    "telegram": 179
   }
