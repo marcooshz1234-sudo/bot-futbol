@@ -165,8 +165,36 @@ def pool_partido(ex, hist, ap):
     import modelo_goles as M
     lam = M.lambdas(pa["fixture"]["id"])
     gana = favorito(ex)
+    # 01/11 (Marcos): tabla (distancia y zona), forma de los últimos 5 y bajas de jugadores clave
+    import contexto
+    pos = contexto.posiciones(pa["league"]["id"], pa["fixture"]["date"], loc["id"], vis["id"])
+    hl, hv = hist.get(loc["id"], []), hist.get(vis["id"], [])
+    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") == "Missing Fixture"]
+    lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
+    fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
+    pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
+    for p in pool:
+        ld = P.lado_pick(p) if not p.get("equipo") else ("local" if p["equipo"] == loc["name"] else "visitante")
+        p["contexto"] = contexto.de_pick(pos, ld)
+        p["forma"] = contexto.de_forma(hl, hv, loc["id"], vis["id"], ld)
+        p["bajas"] = contexto.de_bajas(bool(fuera[loc["id"]]), bool(fuera[vis["id"]]), ld)
+        p["claves_fuera"] = fuera
+    # 01/11 (Marcos): reglas fuertes (no solo afinar)
+    #  1) falta un clave de ataque de un equipo (lesionado o sancionado): nada de que gane, marque, gane una parte,
+    #     tire más ni tiros de sus jugadores
+    ataque = {eq: [n for pid, n in contexto.claves(eq, h) if lesion(n) and pos_jugador(eq, pid, h) in ("F", "M")]
+              for eq, h in ((loc["id"], hl), (vis["id"], hv))}
+    sin = {"local": bool(ataque[loc["id"]]), "visitante": bool(ataque[vis["id"]])}
+    pool = [p for p in pool if not (sin.get(p_lado(p, loc, vis)) and es_ataque(p))]
+    #  3) favorito en la tabla pero en mala racha: como mucho «gana o empata»
+    pool = [p for p in pool if not (str(p.get("contexto") or "").startswith("mejor_") and p.get("forma") == "forma_peor"
+                                    and p["mercado"] in ("Match Winner", "To Win Either Half", "Win Both Halves"))]
     for p in pool:
         p["prob_aprendida"] = aprender.prob_aprendida(p, ap) or p["frecuencia"]
+        #  2) todo a favor (mejor en la tabla, en mejor forma y el rival con bajas clave): más confianza
+        if str(p.get("contexto") or "").startswith("mejor_") and p.get("forma") == "forma_mejor" and p.get("bajas") == "bajas_rival":
+            p["prob_aprendida"] = min(0.97, p["prob_aprendida"] * TODO_A_FAVOR)
+            p["todo_a_favor"] = True
         # 28/10 (Marcos): en los picks de goles manda también lo que dice bet365 y lo que pasó en partidos
         # del mismo tipo (goles_partido.py), no solo la racha (Parma–Udinese +1,5 acabó 0-0)
         g = G.prob_goles(p, hist, lam, loc["id"], vis["id"])
@@ -234,6 +262,33 @@ def tarjetas_arbitro(pa, mercado, opcion):
         return None
     linea = float(str(opcion).split()[-1])
     return sum(x > linea for x in t), len(t)
+
+
+TODO_A_FAVOR = 1.08   # 01/11: +8 % cuando tabla, forma y bajas van a favor (revisar a mediados de noviembre)
+ATAQUE = ("Match Winner", "To Win Either Half", "Win Both Halves", "Shots.1x2", "ShotOnTarget 1x2")
+
+
+def p_lado(p, loc, vis):
+    import picks as P
+    if p.get("equipo"):
+        return "local" if p["equipo"] == loc["name"] else "visitante"
+    if p["mercado"] in ("Shots.1x2", "ShotOnTarget 1x2"):
+        return {"Home": "local", "Away": "visitante"}.get(p["opcion"])
+    return P.lado_pick(p)
+
+
+def es_ataque(p):
+    """Picks que dependen de que el equipo ataque bien: gana, marca, tira más o tiros de sus jugadores."""
+    return (p["mercado"] in ATAQUE or p["mercado"] in ("Total - Home", "Total - Away")
+            or (p.get("tipo") == "jugador" and p.get("campo") in ("tiros", "a_puerta", "goles", "gol_o_asist")))
+
+
+def pos_jugador(eq, pid, partidos):
+    for p in partidos[:8]:
+        for j in (p.get("jugadores") or {}).get(str(eq)) or []:
+            if j["id"] == pid and j.get("pos"):
+                return j["pos"]
+    return None
 
 
 EXCLUIDOS = ("Total Goals/Both Teams To Score", "Goalkeeper Saves")
@@ -519,7 +574,9 @@ def combi_partido(pool, cfg):
     pool = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
     return (mejor_combi(pool, cfg["patas"], cfg["cuota"], PARTIDO["prob_min"])
             or mejor_combi(pool, cfg["patas"], cfg["cuota"], PROB_MIN_RELAJADA)
-            or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA))
+            or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA)
+            # 01/11 (Marcos: «tiene que haber contenido diario»): si no llega, 4 cosas con cuota desde 3,5
+            or mejor_combi(pool, (4, 4), (3.5, cfg["cuota"][1]), PROB_MIN_RELAJADA))
 
 
 def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False, por_partido=1, min_jugadores=0):

@@ -39,12 +39,29 @@ def main():
     partidos = {p["id"]: p for l in hist.values() for p in l}
     casos = defaultdict(list)     # clave fina -> [(frec, acierto)]
     con_ctx = []                  # (clave fina, contexto, frec, acierto) para medir el contexto de la tabla
+    con_extra = []                # 01/11: (clave fina, etiqueta de forma o de bajas, frec, acierto)
     for p in sorted(partidos.values(), key=lambda x: x["fecha"]):
         antes = {k: [x for x in v if x["fecha"] < p["fecha"]] for k, v in hist.items()}
         loc, vis = p["local"]["id"], p["visitante"]["id"]
         h_loc = [(x, loc) for x in antes.get(loc, [])[:ULTIMOS]]
         h_vis = [(x, vis) for x in antes.get(vis, [])[:ULTIMOS]]
         pos = contexto.posiciones(p.get("liga"), p["fecha"], loc, vis)
+        pl_loc, pl_vis = antes.get(loc, []), antes.get(vis, [])
+        jug = p.get("jugadores") or {}
+        fuera = {}
+        for eq, pl in ((loc, pl_loc), (vis, pl_vis)):
+            jugaron = {j["id"] for j in jug.get(str(eq)) or [] if (j.get("min") or 0) > 0}
+            fuera[eq] = bool(jug.get(str(eq))) and any(pid not in jugaron for pid, _ in contexto.claves(eq, pl))
+        con_datos_jug = bool(jug.get(str(loc))) and bool(jug.get(str(vis)))
+
+        def extra(k, lado, f, y):
+            fo = contexto.de_forma(pl_loc, pl_vis, loc, vis, lado)
+            if fo:
+                con_extra.append((k, fo, f, y))
+            if con_datos_jug:
+                ba = contexto.de_bajas(fuera[loc], fuera[vis], lado)
+                if ba:
+                    con_extra.append((k, ba, f, y))
         if len(h_loc) < MIN_PARTIDOS or len(h_vis) < MIN_PARTIDOS:
             continue
         for mercado, ops in LINEAS.items():
@@ -64,9 +81,11 @@ def main():
                 real = fl(p, loc)
                 if real is not None:
                     casos[f"{mercado}|{op}"].append((frec, 1.0 if real else 0.0))
-                    ctx = contexto.de_pick(pos, lado_pick({"mercado": mercado, "opcion": op}))
+                    ld = lado_pick({"mercado": mercado, "opcion": op})
+                    ctx = contexto.de_pick(pos, ld)
                     if ctx:
                         con_ctx.append((f"{mercado}|{op}", ctx, frec, 1.0 if real else 0.0))
+                    extra(f"{mercado}|{op}", ld, frec, 1.0 if real else 0.0)
         for eq in (loc, vis):
             fijos = plantilla_fija(eq, antes)
             jugaron = {j["id"]: j for j in (p.get("jugadores") or {}).get(str(eq)) or []}
@@ -87,6 +106,7 @@ def main():
                         ctx = contexto.de_pick(pos, "local" if eq == loc else "visitante")
                         if ctx:
                             con_ctx.append((f"jugador:{campo}:{n}", ctx, frec, y))
+                        extra(f"jugador:{campo}:{n}", "local" if eq == loc else "visitante", frec, y)
     # tipo de cada clave
     por_tipo = defaultdict(list)
     for k, l in casos.items():
@@ -112,12 +132,25 @@ def main():
     resumen = lambda l: {"n": len(l), "residuo": round(sum(l) / len(l), 4)}
     salida["contexto"] = {c: resumen(l) for c, l in res.items() if len(l) >= 50}
     salida["contexto_tipo"] = {c: resumen(l) for c, l in res_t.items() if len(l) >= 50}
+    # 01/11 (Marcos): forma de los últimos 5 y bajas de jugadores clave, medidas igual que el contexto
+    res, res_t = defaultdict(list), defaultdict(list)
+    for k, et, f, y in con_extra:
+        v = pred(k, f)
+        if v is None:
+            continue
+        t = f"jugador:{k.split(':')[1]}" if k.startswith("jugador:") else tipo_de(k.split("|")[0])
+        res[et].append(y - v)
+        res_t[f"{t}|{et}"].append(y - v)
+    salida["extra"] = {c: resumen(l) for c, l in res.items() if len(l) >= 50}
+    salida["extra_tipo"] = {c: resumen(l) for c, l in res_t.items() if len(l) >= 50}
     SALIDA.write_text(json.dumps(salida, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     g = salida["global"]
     print(f"Calibración: {g['n']} casos en {len(partidos)} partidos · dice {g['frec_media']:.0%} → "
           f"pasa {g['real']:.0%} (pendiente {g['pendiente']})")
     for c, v in sorted(salida["contexto"].items()):
         print(f"  contexto {c:16} n={v['n']:5}  {v['residuo']:+.1%} respecto a lo previsto")
+    for c, v in sorted(salida["extra"].items()):
+        print(f"  {c:16} n={v['n']:5}  {v['residuo']:+.1%} respecto a lo previsto")
     if "-v" in sys.argv:
         for k, v in sorted(salida["mercados"].items(), key=lambda x: x[1]["real"] - x[1]["frec_media"]):
             print(f"  {k:45} n={v['n']:5} dice {v['frec_media']:.0%} pasa {v['real']:.0%} b={v['pendiente']}")

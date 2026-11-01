@@ -105,7 +105,7 @@ def frec_calibrada(p, cal=None):
     if m:
         w = m["n"] / (m["n"] + 100)          # con pocos casos manda el tipo de mercado
         v = w * recta(m) + (1 - w) * v
-    v += ajuste_contexto(p, cal)
+    v += ajuste_contexto(p, cal) + ajuste_extra(p, cal)
     return con_xg(p, max(0.05, min(0.97, v)))
 
 
@@ -115,10 +115,25 @@ def ajuste_contexto(p, cal):
     ctx = p.get("contexto")
     if not ctx:
         return 0.0
-    c = (cal.get("contexto_tipo") or {}).get(f"{seg_tipo(p)}|{ctx}") or (cal.get("contexto") or {}).get(ctx)
+    import contexto
+    base = contexto.sin_zona(ctx)   # 01/11: con la zona de la tabla; si no hay datos de esa zona, sin ella
+    ct, cc = cal.get("contexto_tipo") or {}, cal.get("contexto") or {}
+    c = ct.get(f"{seg_tipo(p)}|{ctx}") or cc.get(ctx) or ct.get(f"{seg_tipo(p)}|{base}") or cc.get(base)
     if not c:
         return 0.0
     return c["residuo"] * c["n"] / (c["n"] + 200)
+
+
+def ajuste_extra(p, cal):
+    """01/11 (Marcos): forma de los últimos 5 y bajas de jugadores clave (calibrar_historico.py → «extra»)."""
+    v = 0.0
+    for et in (p.get("forma"), p.get("bajas")):
+        if not et:
+            continue
+        c = (cal.get("extra_tipo") or {}).get(f"{seg_tipo(p)}|{et}") or (cal.get("extra") or {}).get(et)
+        if c:
+            v += c["residuo"] * c["n"] / (c["n"] + 200)
+    return v
 
 
 def con_xg(p, v):

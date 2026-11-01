@@ -127,6 +127,9 @@ def leer(ruta, defecto=None):
         return defecto
 
 
+NOTAS_POR_PASADA = 300   # 01/11: 15 peticiones a la API por pasada
+
+
 def escribir(ruta, datos):
     ruta = Path(ruta)
     ruta.parent.mkdir(parents=True, exist_ok=True)
@@ -252,6 +255,8 @@ def recortar_partido(p):
                 "amarillas": (s.get("cards") or {}).get("yellow") or 0,
                 "rojas": (s.get("cards") or {}).get("red") or 0,
                 "paradas": (s.get("goals") or {}).get("saves") or 0,
+                # 01/11 (Marcos): la nota de cada jugador, para saber quiénes son los clave de cada equipo
+                **({"nota": round(float(g["rating"]), 1)} if g.get("rating") else {}),
             })
         reg["jugadores"][str(bloque["team"]["id"])] = lista
     return quitar_goles_anulados(reg)
@@ -367,6 +372,31 @@ def recoger(api):
             escribir(PARTIDOS / f"{reg['id']}.json", reg)
             nuevos += 1
     print(f"- Guardados {nuevos} partidos nuevos")
+
+    # 2b) 01/11: notas de los jugadores en los partidos que ya teníamos (como mucho 300 por pasada, recientes primero)
+    sin_nota = []
+    for ruta in PARTIDOS.glob("*.json"):
+        reg = leer(ruta, {}) or {}
+        js = [j for l in (reg.get("jugadores") or {}).values() for j in l]
+        if js and not any("nota" in j for j in js) and not reg.get("sin_notas"):
+            sin_nota.append((reg.get("fecha", ""), reg["id"]))
+    sin_nota = [fid for _, fid in sorted(sin_nota, reverse=True)[:NOTAS_POR_PASADA]]
+    puestas = 0
+    for i in range(0, len(sin_nota), 20):
+        for p in api.get("fixtures", ids="-".join(map(str, sin_nota[i:i + 20]))) or []:
+            nuevo = recortar_partido(p)
+            ruta = PARTIDOS / f"{nuevo['id']}.json"
+            reg = leer(ruta, {}) or {}
+            notas = {j["id"]: j["nota"] for l in nuevo["jugadores"].values() for j in l if "nota" in j}
+            if not notas:
+                reg["sin_notas"] = True   # la API no tiene notas de este partido: no se vuelve a pedir
+            for l in (reg.get("jugadores") or {}).values():
+                for j in l:
+                    if j["id"] in notas:
+                        j["nota"] = notas[j["id"]]
+            escribir(ruta, reg)
+            puestas += 1
+    print(f"- Notas de jugadores añadidas a {puestas} partidos (quedan {max(0, len(sin_nota) - puestas)} de esta tanda)")
 
     # 3) Próximos partidos: lesiones, cuotas Bet365 y enfrentamientos directos
     limite = ahora() + timedelta(days=DIAS_VISTA)
