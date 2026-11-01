@@ -20,10 +20,11 @@ from datetime import datetime, timedelta
 from bot import EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
-PARTIDO = {"patas": (6, 6), "cuota": (7.0, 10.0), "prob_min": 0.45, "max": 8}   # 29/10 (Marcos): 6 cosas (bet365 no deja más de 6)   # cuota REAL de bet365
+SIN_EN_ESCUDOS = ("corners", "tarjetas")   # 01/11: córners 43 % y tarjetas 36 % en octubre
+PARTIDO = {"patas": (5, 5), "cuota": (5.0, 7.0), "prob_min": 0.45, "max": 8}   # 29/10 (Marcos): 6 cosas (bet365 no deja más de 6)   # cuota REAL de bet365
 # 28/10 (Marcos, prueba de una semana): 2 combis de partido extra de madrugada (00:30 y 01:30) con los partidos grandes
 # del día que no tienen combi a su hora; más cortas si hace falta. La del City a la 01:30 hizo 4,8 mil vistas.
-NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (6, 6), "cuota": (7.0, 10.0), "hasta": "2026-11-04"}   # 29/10: también 7-10 y 6 cosas
+NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (5, 5), "cuota": (5.0, 7.0), "hasta": "2026-11-04"}   # 29/10: también 7-10 y 6 cosas
 # 27/10: en «Crear apuesta» bet365 paga menos que multiplicar, según lo relacionadas que estén las patas.
 # Medido en bet365: Monza–Napoli (McTominay 2+ remates, gol 1ª parte, Napoli gana alguna mitad, Varela 1+ a
 # puerta, Napoli más remates a puerta) multiplica 5,36 y paga 4,60 (0,86); Milan (Ramos marca + Pulisic
@@ -174,6 +175,18 @@ def pool_partido(ex, hist, ap):
                                          or min(x for x in (p.get("prob_bet365"), p.get("prob_tipo"), p["frecuencia"]) if x is not None) < MAS_15["cada_una"]))]
     # 27/10 (Marcos): «más de 2,5 goles» falla mucho: solo si está muy respaldado
     pool = [p for p in pool if not (MAS_25.search(f"{p['mercado']}|{p['opcion']}") and p["prob_aprendida"] < PROB_MIN_25)]
+    # 01/11 (Marcos, lecciones de octubre: 02 Apuestas/Lecciones en Obsidian; solo en ese contexto)
+    fav_loc, fav_vis = gana.get("Home", 0) >= FAVORITO_CLARO, gana.get("Away", 0) >= FAVORITO_CLARO
+    #   córners del favorito claro: se quedan a uno (Everton, Niza, Gladbach, Barça) → fuera; los del partido o del rival sí
+    pool = [p for p in pool if not ((p["mercado"] == "Home Corners Over/Under" and fav_loc)
+                                    or (p["mercado"] == "Away Corners Over/Under" and fav_vis))]
+    for p in pool:
+        #   tarjetas cuando el visitante es favorito claro: 0 de 4 → menos confianza (no se prohíben)
+        if fav_vis and "Card" in p["mercado"]:
+            p["prob_aprendida"] = round(p["prob_aprendida"] * LECCION_SUAVE, 3)
+        #   córners en partidos del Bayern: 0 de 4 → menos confianza
+        if "Corner" in p["mercado"] and any("Bayern" in n for n in (loc["name"], vis["name"])):
+            p["prob_aprendida"] = round(p["prob_aprendida"] * LECCION_SUAVE, 3)
     # una por mercado (o por jugador y dato): la más probable
     mejor = {}
     for p in pool:
@@ -183,6 +196,8 @@ def pool_partido(ex, hist, ap):
     return sorted(mejor.values(), key=lambda p: -p["prob_aprendida"])
 
 
+FAVORITO_CLARO = 0.60        # 01/11: favorito claro de bet365 (lecciones de octubre)
+LECCION_SUAVE = 0.85         # 01/11: lecciones con pocos datos: bajan la confianza, no prohíben (revisar el 15/11)
 FAVORITO_MIN = 0.55          # probabilidad de ganar (bet365, sin margen) para «gana alguna de las dos partes»
 PROB_MIN_A_PUERTA = 0.70
 MAS_15 = {"prob_min": 0.80, "cada_una": 0.75, "max_dia": 1}   # 28/10 (Marcos): +1,5 solo uno al día y muy claro
@@ -426,8 +441,11 @@ def coherente(comb):
 
 
 def combi_partido(pool, cfg):
-    """29/10 (Marcos): combi de un partido con 6 cosas y cuota 7-10. Primero con patas seguras; si no sale, admite
-    alguna algo menos segura; y si aun así no hay 6 posibles, con 5."""
+    """29/10 (Marcos): combi de un partido. Primero con patas seguras; si no sale, admite alguna algo menos segura;
+    y si aun así no hay tantas, con una menos.
+    01/11 (Marcos, lección de octubre: 2 verdes de 30 con 6 cosas a cuota 7-10): 5 cosas (o 4), cuota 5-7 y solo lo
+    que mejor va (jugadores, resultado, goles, tiros): sin córners ni tarjetas."""
+    pool = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
     return (mejor_combi(pool, cfg["patas"], cfg["cuota"], PARTIDO["prob_min"])
             or mejor_combi(pool, cfg["patas"], cfg["cuota"], PROB_MIN_RELAJADA)
             or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA))
