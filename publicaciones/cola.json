@@ -2133,6 +2133,14 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-01-ganadores",
-    "nota": "01/11 21:10: pleno 10/10 de «Quién gana hoy», Marcos dijo subirlo en todas"
+    "nota": "01/11 21:10: pleno 10/10 de «Quién gana hoy», Marcos dijo subirlo en todas",
+    "enviado": "2026-11-01T21:11",
+    "mensaje_id": 228,
+    "redes": {
+      "threads": "18006569925006330"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
