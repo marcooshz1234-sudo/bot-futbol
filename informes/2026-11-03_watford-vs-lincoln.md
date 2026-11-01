@@ -1,10 +1,48 @@
 # Watford – Lincoln
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 13:54_
+
+- **1X2:** 1 **2.35**  ·  X **3.40**  ·  2 **2.80**
+- **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.25**  ·  2 **3.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **8.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **12.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+- **Home Player Shots On Target Total:** Rocco Vata - 1 **1.44**  ·  Amin Nabizada - 1 **1.40**  ·  Luca Kjerrumgaard - 1 **1.50**  ·  Iker Bravo - 1 **1.57**  ·  Martin Payero - 1 **1.73**  ·  Othmane Maamma - 1 **1.67**  ·  Mamadou Doumbia - 1 **1.50**  ·  Edo Kayembe - 1 **2.62**  ·  Jordan Zemura - 1 **3.50**  ·  Marc Bola - 1 **3.40**  ·  Hector Kyprianou - 1 **3.50**  ·  James Clarridge - 1 **3.75**  ·  Omar Traore - 1 **3.40**  ·  Matthew Pollock - 1 **3.50**  ·  Kevin Keben - 1 **4.33**  ·  Rocco Vata - 2 **3.25**  ·  Amin Nabizada - 2 **3.00**  ·  Luca Kjerrumgaard - 2 **3.50**  ·  Iker Bravo - 2 **3.75**  ·  Martin Payero - 2 **4.50**  ·  Othmane Maamma - 2 **4.33**  ·  Mamadou Doumbia - 2 **3.50**  ·  Edo Kayembe - 2 **11.00**  ·  Jordan Zemura - 2 **19.00**  ·  Marc Bola - 2 **17.00**  ·  Hector Kyprianou - 2 **19.00**  ·  James Clarridge - 2 **21.00**  ·  Omar Traore - 2 **17.00**  ·  Matthew Pollock - 2 **19.00**  ·  Kevin Keben - 2 **21.00**  ·  Rocco Vata - 3 **9.00**  ·  Amin Nabizada - 3 **8.00**  ·  Luca Kjerrumgaard - 3 **10.00**  ·  Iker Bravo - 3 **11.00**  ·  Martin Payero - 3 **15.00**  ·  Othmane Maamma - 3 **13.00**  ·  Mamadou Doumbia - 3 **10.00**  ·  Rocco Vata - 4 **21.00**  ·  Amin Nabizada - 4 **21.00**  ·  Soumaila Coulibaly - 1 **3.75**  ·  Soumaila Coulibaly - 2 **21.00**  ·  Branimar Mlacic - 1 **4.33**  ·  Branimar Mlacic - 2 **21.00**  ·  Albert Eames - 1 **3.75**  ·  Albert Eames - 2 **21.00**  ·  Myron Boadu - 1 **1.44**  ·  Stephy Mavididi - 1 **1.44**  ·  Myron Boadu - 2 **3.25**  ·  Stephy Mavididi - 2 **3.25**  ·  Myron Boadu - 3 **9.00**  ·  Stephy Mavididi - 3 **9.00**  ·  Myron Boadu - 4 **21.00**  ·  Stephy Mavididi - 4 **21.00**
+- **Home Player Shots:** Rocco Vata - 1 **1.04**  ·  Amin Nabizada - 1 **1.04**  ·  Luca Kjerrumgaard - 1 **1.06**  ·  Iker Bravo - 1 **1.07**  ·  Martin Payero - 1 **1.11**  ·  Othmane Maamma - 1 **1.10**  ·  Mamadou Doumbia - 1 **1.06**  ·  Edo Kayembe - 1 **1.40**  ·  Jordan Zemura - 1 **1.73**  ·  Marc Bola - 1 **1.50**  ·  Hector Kyprianou - 1 **1.73**  ·  James Clarridge - 1 **1.83**  ·  Omar Traore - 1 **1.62**  ·  Matthew Pollock - 1 **1.73**  ·  Kevin Keben - 1 **2.00**  ·  Rocco Vata - 2 **1.25**  ·  Amin Nabizada - 2 **1.22**  ·  Luca Kjerrumgaard - 2 **1.33**  ·  Iker Bravo - 2 **1.36**  ·  Martin Payero - 2 **1.53**  ·  Othmane Maamma - 2 **1.44**  ·  Mamadou Doumbia - 2 **1.33**  ·  Edo Kayembe - 2 **2.62**  ·  Jordan Zemura - 2 **4.33**  ·  Marc Bola - 2 **3.25**  ·  Hector Kyprianou - 2 **4.33**  ·  James Clarridge - 2 **5.00**  ·  Omar Traore - 2 **3.75**  ·  Matthew Pollock - 2 **4.33**  ·  Kevin Keben - 2 **5.50**  ·  Rocco Vata - 3 **1.67**  ·  Amin Nabizada - 3 **1.67**  ·  Luca Kjerrumgaard - 3 **1.91**  ·  Iker Bravo - 3 **2.00**  ·  Martin Payero - 3 **2.50**  ·  Othmane Maamma - 3 **2.25**  ·  Mamadou Doumbia - 3 **1.91**  ·  Edo Kayembe - 3 **6.00**  ·  Jordan Zemura - 3 **13.00**  ·  Marc Bola - 3 **8.00**  ·  Hector Kyprianou - 3 **13.00**  ·  James Clarridge - 3 **15.00**  ·  Omar Traore - 3 **11.00**  ·  Matthew Pollock - 3 **13.00**  ·  Kevin Keben - 3 **17.00**  ·  Rocco Vata - 4 **2.62**  ·  Amin Nabizada - 4 **2.50**  ·  Luca Kjerrumgaard - 4 **3.25**  ·  Iker Bravo - 4 **3.50**  ·  Martin Payero - 4 **4.50**  ·  Othmane Maamma - 4 **4.00**  ·  Mamadou Doumbia - 4 **3.25**  ·  Edo Kayembe - 4 **15.00**  ·  Rocco Vata - 5 **4.50**  ·  Amin Nabizada - 5 **4.33**  ·  Luca Kjerrumgaard - 5 **6.00**  ·  Iker Bravo - 5 **6.50**  ·  Martin Payero - 5 **10.00**  ·  Othmane Maamma - 5 **9.00**  ·  Mamadou Doumbia - 5 **6.00**  ·  Rocco Vata - 6 **9.00**  ·  Amin Nabizada - 6 **8.00**  ·  Luca Kjerrumgaard - 6 **11.00**  ·  Iker Bravo - 6 **13.00**  ·  Martin Payero - 6 **21.00**  ·  Othmane Maamma - 6 **17.00**  ·  Rocco Vata - 7 **17.00**  ·  Amin Nabizada - 7 **15.00**  ·  Luca Kjerrumgaard - 7 **21.00**  ·  Soumaila Coulibaly - 1 **1.83**  ·  Soumaila Coulibaly - 2 **5.00**  ·  Soumaila Coulibaly - 3 **15.00**  ·  Branimar Mlacic - 1 **2.00**  ·  Branimar Mlacic - 2 **5.50**  ·  Branimar Mlacic - 3 **17.00**  ·  Marc Bola - 4 **19.00**  ·  Albert Eames - 1 **1.83**  ·  Albert Eames - 2 **5.00**  ·  Albert Eames - 3 **15.00**  ·  Mamadou Doumbia - 6 **11.00**  ·  Myron Boadu - 1 **1.05**  ·  Stephy Mavididi - 1 **1.05**  ·  Myron Boadu - 2 **1.25**  ·  Stephy Mavididi - 2 **1.28**  ·  Myron Boadu - 3 **1.73**  ·  Stephy Mavididi - 3 **1.80**  ·  Myron Boadu - 4 **2.75**  ·  Stephy Mavididi - 4 **3.00**  ·  Omar Traore - 4 **21.00**  ·  Myron Boadu - 5 **5.00**  ·  Stephy Mavididi - 5 **5.50**  ·  Myron Boadu - 6 **10.00**  ·  Stephy Mavididi - 6 **10.00**  ·  Myron Boadu - 7 **19.00**  ·  Stephy Mavididi - 7 **19.00**  ·  Iker Bravo - 7 **21.00**  ·  Mamadou Doumbia - 7 **21.00**
+- **Away Player Shots:** Isaac Olaofe - 1 **1.05**  ·  Freddie Draper - 1 **1.05**  ·  Mason Melia - 1 **1.06**  ·  Rob Street - 1 **1.07**  ·  Ben House - 1 **1.11**  ·  Reeco Hackett - 1 **1.06**  ·  Adam Reach - 1 **1.44**  ·  Dom Jefferies - 1 **1.40**  ·  Tom Bayliss - 1 **1.57**  ·  Deji Elerewe - 1 **1.83**  ·  Tendayi Darikwa - 1 **1.57**  ·  Yunus Emre Konak - 1 **1.57**  ·  Conor McGrandles - 1 **1.62**  ·  Andrei Coubis - 1 **1.25**  ·  Ivan Varfolomeyev - 1 **1.73**  ·  Sonny Bradley - 1 **2.00**  ·  Ryley Towler - 1 **2.20**  ·  Callum Elder - 1 **2.00**  ·  Tom Hamer - 1 **2.00**  ·  Isaac Olaofe - 2 **1.28**  ·  Freddie Draper - 2 **1.28**  ·  Mason Melia - 2 **1.33**  ·  Rob Street - 2 **1.36**  ·  Ben House - 2 **1.53**  ·  Reeco Hackett - 2 **1.33**  ·  Adam Reach - 2 **2.75**  ·  Dom Jefferies - 2 **2.62**  ·  Tom Bayliss - 2 **3.50**  ·  Deji Elerewe - 2 **5.00**  ·  Tendayi Darikwa - 2 **3.50**  ·  Yunus Emre Konak - 2 **3.50**  ·  Conor McGrandles - 2 **3.75**  ·  Andrei Coubis - 2 **2.10**  ·  Ivan Varfolomeyev - 2 **4.33**  ·  Sonny Bradley - 2 **5.50**  ·  Ryley Towler - 2 **7.00**  ·  Callum Elder - 2 **5.50**  ·  Tom Hamer - 2 **5.50**  ·  Isaac Olaofe - 3 **1.80**  ·  Freddie Draper - 3 **1.80**  ·  Mason Melia - 3 **1.91**  ·  Rob Street - 3 **2.00**  ·  Ben House - 3 **2.50**  ·  Reeco Hackett - 3 **1.91**  ·  Adam Reach - 3 **7.00**  ·  Dom Jefferies - 3 **6.00**  ·  Tom Bayliss - 3 **10.00**  ·  Deji Elerewe - 3 **15.00**  ·  Tendayi Darikwa - 3 **10.00**  ·  Yunus Emre Konak - 3 **10.00**  ·  Conor McGrandles - 3 **11.00**  ·  Andrei Coubis - 3 **4.33**  ·  Ivan Varfolomeyev - 3 **13.00**  ·  Sonny Bradley - 3 **17.00**  ·  Ryley Towler - 3 **21.00**  ·  Callum Elder - 3 **17.00**  ·  Tom Hamer - 3 **17.00**  ·  Isaac Olaofe - 4 **3.00**  ·  Freddie Draper - 4 **3.00**  ·  Mason Melia - 4 **3.25**  ·  Rob Street - 4 **3.50**  ·  Ben House - 4 **4.50**  ·  Reeco Hackett - 4 **3.25**  ·  Adam Reach - 4 **17.00**  ·  Dom Jefferies - 4 **15.00**  ·  Tom Bayliss - 4 **21.00**  ·  Tendayi Darikwa - 4 **21.00**  ·  Yunus Emre Konak - 4 **21.00**  ·  Isaac Olaofe - 5 **5.50**  ·  Freddie Draper - 5 **5.50**  ·  Mason Melia - 5 **6.00**  ·  Rob Street - 5 **6.50**  ·  Ben House - 5 **10.00**  ·  Reeco Hackett - 5 **6.00**  ·  Isaac Olaofe - 6 **10.00**  ·  Freddie Draper - 6 **10.00**  ·  Mason Melia - 6 **11.00**  ·  Rob Street - 6 **13.00**  ·  Ben House - 6 **21.00**  ·  Reeco Hackett - 6 **11.00**  ·  Isaac Olaofe - 7 **19.00**  ·  Chiedozie Ogbene - 1 **1.14**  ·  Chiedozie Ogbene - 2 **1.62**  ·  Chiedozie Ogbene - 3 **2.75**  ·  Chiedozie Ogbene - 4 **5.50**  ·  Daniel Oyegoke - 1 **1.57**  ·  Daniel Oyegoke - 2 **3.50**  ·  Daniel Oyegoke - 3 **10.00**  ·  Daniel Oyegoke - 4 **21.00**  ·  Ethan Wheatley - 1 **1.05**  ·  Ethan Wheatley - 2 **1.25**  ·  Ethan Wheatley - 3 **1.73**  ·  Ethan Wheatley - 4 **2.75**  ·  Conor McGrandles - 4 **21.00**  ·  Ethan Wheatley - 5 **5.00**  ·  Ethan Wheatley - 6 **10.00**  ·  Ethan Wheatley - 7 **19.00**  ·  Freddie Draper - 7 **19.00**  ·  Mason Melia - 7 **21.00**  ·  Rob Street - 7 **21.00**  ·  Chiedozie Ogbene - 5 **13.00**  ·  Mikkel Ladefoged - 1 **1.04**  ·  Mikkel Ladefoged - 2 **1.20**  ·  Mikkel Ladefoged - 3 **1.62**  ·  Mikkel Ladefoged - 4 **2.50**  ·  Mikkel Ladefoged - 5 **4.00**  ·  Mikkel Ladefoged - 6 **8.00**  ·  Mikkel Ladefoged - 7 **15.00**  ·  Mikkel Ladefoged - 8 **21.00**  ·  Chiedozie Ogbene - 6 **21.00**  ·  Andrei Coubis - 4 **10.00**  ·  Andrei Coubis - 5 **21.00**  ·  Reeco Hackett - 7 **21.00**
+- **Anytime Goal Scorer:** Freddie Draper **3.00**  ·  Rob Street **3.40**  ·  Dom Jefferies **6.50**  ·  Tom Hamer **12.00**  ·  Tendayi Darikwa **8.00**  ·  Hector Kyprianou **9.50**  ·  Isaac Olaofe **3.00**  ·  Ben House **4.00**  ·  Tom Bayliss **8.00**  ·  Conor McGrandles **8.50**  ·  Mason Melia **3.20**  ·  Ivan Varfolomeyev **9.50**  ·  Mikkel Ladefoged **2.62**  ·  James Clarridge **11.00**  ·  Andrei Coubis **5.50**  ·  Ryley Towler **15.00**  ·  Callum Elder **12.00**  ·  Sonny Bradley **12.00**  ·  Edo Kayembe **6.50**  ·  Rocco Vata **3.50**  ·  Matthew Pollock **11.00**  ·  Othmane Maamma **3.75**  ·  Soumaila Coulibaly **11.00**  ·  Reeco Hackett **3.20**  ·  Martin Payero **4.00**  ·  Daniel Oyegoke **8.00**  ·  Omar Traore **8.50**  ·  Marc Bola **9.50**  ·  Albert Eames **11.00**  ·  Branimar Mlacic **12.00**  ·  Luca Kjerrumgaard **3.20**  ·  Mamadou Doumbia **3.20**  ·  Kevin Keben **12.00**  ·  Chiedozie Ogbene **4.33**  ·  Stephy Mavididi **3.00**  ·  Ethan Wheatley **2.88**  ·  Yunus Emre Konak **8.00**  ·  Myron Boadu **2.88**  ·  Iker Bravo **3.75**  ·  Jordan Zemura **9.50**  ·  Deji Elerewe **11.00**  ·  Amin Nabizada **3.40**  ·  Adam Reach **8.00**
+- **Player to Score or Assist:** Freddie Draper **2.30**  ·  Rob Street **2.75**  ·  Reeco Hackett **2.20**  ·  Luca Kjerrumgaard **2.40**  ·  Myron Boadu **2.30**  ·  Amin Nabizada **2.30**
 
 ## Estadísticas de equipo
 | | Watford (total) | Watford en casa | Lincoln (total) | Lincoln fuera |
@@ -137,4 +175,34 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,15 · visitante 1,51 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 45% | 33% | 39% | 2.80 | +10% |
+| 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
+| 1X2: 1 | 29% | 40% | 34% | 2.35 | -19% |
+| Doble oportunidad: X2 | 71% | 60% | 66% | 1.57 | +3% |
+| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -4% |
+| Doble oportunidad: 1X | 55% | 67% | 61% | 1.40 | -15% |
+| Ambos marcan: No | 47% | 44% | 46% | 2.10 | -4% |
+| Ambos marcan: Sí | 53% | 56% | 54% | 1.67 | -9% |
+| Goles más/menos: Más de 1.5 | 74% | 76% | 75% | 1.25 | -6% |
+| Goles más/menos: Más de 2.5 | 50% | 53% | 51% | 1.80 | -8% |
+| Goles más/menos: Más de 3.5 | 28% | 32% | 30% | 3.00 | -11% |
+| Goles más/menos: Menos de 1.5 | 26% | 24% | 25% | 4.00 | -1% |
+| Goles más/menos: Menos de 2.5 | 50% | 47% | 49% | 2.00 | -2% |
+| Goles más/menos: Menos de 3.5 | 72% | 68% | 70% | 1.40 | -2% |
+| Goles del local: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 1.5 | 32% | 44% | 38% | 2.10 | -20% |
+| Goles del local: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles del local: Menos de 1.5 | 68% | 56% | 62% | 1.67 | +3% |
+| Goles del visitante: Más de 0.5 | 78% | 72% | 75% | 1.30 | -2% |
+| Goles del visitante: Más de 1.5 | 44% | 39% | 42% | 2.38 | -1% |
+| Goles del visitante: Menos de 0.5 | 22% | 28% | 25% | 3.40 | -15% |
+| Goles del visitante: Menos de 1.5 | 56% | 61% | 58% | 1.53 | -11% |
+| 1X2 descanso: 2 | 34% | 27% | 31% | 3.40 | +4% |
+| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
+| 1X2 descanso: 1 | 24% | 31% | 27% | 3.00 | -18% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

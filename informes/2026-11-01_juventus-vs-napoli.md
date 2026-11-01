@@ -1,7 +1,7 @@
 # Juventus – Napoli
 **Serie A** · Regular Season - 10 · 01/11/2026 20:45 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:13_
@@ -131,7 +131,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Juventus:** Z. Celik (baja, Muscle Injury); F. Conceicao (baja, Shoulder Injury); N. Gonzalez (baja, Calf Injury); K. Grabara (baja, Knee Injury); M. Locatelli (baja, Knee Injury); A. Milik (baja, Inactive); K. Thuram (baja, Knee Injury); K. Yildiz (baja, Foot Injury); J. Ekhator (duda, Muscle Injury); Z. Celik (baja, Muscle Injury); F. Conceicao (baja, Shoulder Injury); N. Gonzalez (baja, Calf Injury); K. Grabara (baja, Knee Injury); M. Locatelli (baja, Knee Injury); A. Milik (baja, Inactive); K. Thuram (baja, Knee Injury); K. Yildiz (baja, Foot Injury); J. Ekhator (duda, Muscle Injury)
-**Napoli:** Alisson Santos (baja, Muscle Injury); B. Badiashile (baja, Injury); A. Buongiorno (baja, Knee Injury); David Neres (baja, Thigh Injury); C. Favasuli (baja, Thigh Injury); S. Lobotka (baja, Injury); L. Spinazzola (baja, Thigh Injury); Alisson Santos (baja, Muscle Injury); B. Badiashile (baja, Injury); A. Buongiorno (baja, Knee Injury); David Neres (baja, Thigh Injury); C. Favasuli (baja, Thigh Injury); S. Lobotka (baja, Injury); L. Spinazzola (baja, Thigh Injury)
+**Napoli:** Alisson Santos (baja, Muscle Injury); B. Badiashile (baja, Injury); A. Buongiorno (baja, Knee Injury); David Neres (baja, Thigh Injury); C. Favasuli (baja, Thigh Injury); S. Lobotka (baja, Ankle Injury); L. Spinazzola (baja, Thigh Injury); Alisson Santos (baja, Muscle Injury); B. Badiashile (baja, Injury); A. Buongiorno (baja, Knee Injury); David Neres (baja, Thigh Injury); C. Favasuli (baja, Thigh Injury); S. Lobotka (baja, Ankle Injury); L. Spinazzola (baja, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-25 · Serie A: Juventus 3-0 Napoli

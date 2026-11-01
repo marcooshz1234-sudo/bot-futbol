@@ -1,16 +1,16 @@
 # AZ Alkmaar – Juventus
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **3.60**  ·  X **3.40**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.30**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**

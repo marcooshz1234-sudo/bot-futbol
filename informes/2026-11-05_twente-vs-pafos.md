@@ -1,14 +1,14 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.75**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.40** · menos **2.88**
@@ -25,11 +25,12 @@ _Actualizadas: 31/10 13:55_
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **1.91** · menos **1.80**
-    - 3,5: más **3.40** · menos **1.30**
+    - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
 - **1X2 descanso:** 1 **1.67**  ·  X **2.88**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -38,11 +39,12 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.17**  ·  2 **4.00**
+- **To Win Either Half:** 1 **1.17**  ·  2 **3.75**
 - **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **7.00**
 - **Win Both Halves:** 1 **2.62**  ·  2 **34.00**
-- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **7.00**  ·  Away/Yes **13.00**  ·  Home/No **2.25**  ·  Draw/No **21.00**  ·  Away/No **17.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
+- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **7.00**  ·  Away/Yes **13.00**  ·  Home/No **2.38**  ·  Draw/No **23.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
+- **Anytime Goal Scorer:** Afonso Patrao **4.75**  ·  Younes Taha **2.30**  ·  Michal Rosiak **3.60**  ·  Thomas Van den Belt **3.40**  ·  Ken Sema **10.00**  ·  Ramiz Zerrouki **4.75**  ·  Marko Pjaca **2.30**  ·  Nicholas Ioannou **13.00**  ·  Moumi Ngamaleu **5.50**  ·  Jaja Brito **5.50**  ·  Guilherme Peixoto **5.50**  ·  David Luiz **10.00**  ·  Georgios Michael **9.00**  ·  Benjamin Nagel **5.50**  ·  Yoram Zague **13.00**  ·  Wout Weghorst **1.83**  ·  Daan Rots **2.60**  ·  Gijs Besselink **4.75**  ·  Bart van Rooij **6.00**  ·  Julien Mesbahi **8.00**  ·  Max Bruns **6.50**  ·  Daouda Weidmann **4.75**  ·  Kristian Hlynsson **2.20**  ·  Aske Adelgaard **6.00**  ·  Robin Propper **8.00**  ·  Sondre Orjasaeter **2.75**  ·  Naci Unuvar **3.00**  ·  Goncalo Guga **9.00**  ·  Filip Thorvaldsen **2.20**  ·  Samy Mmaee **15.00**  ·  Jordy Bawuah **4.75**  ·  Jonatas Noro **15.00**  ·  Stav Lemkin **6.50**  ·  Pedro Rodrigues Pepe **10.00**  ·  Vlad Dragomir **8.00**  ·  Domingos Quina **8.00**  ·  Christos Efzona **10.00**  ·  David Goldar **10.00**  ·  Ivan Sunjic **9.00**  ·  Joao Correia **7.00**  ·  Krzysztof Kurowski **6.50**  ·  Murad Mammadov **8.00**  ·  Melinos Kais **6.00**  ·  Jip Meilink **5.50**  ·  Anderson Silva **4.75**  ·  Alexandre Brito **13.00**  ·  Lucas Vennegoor of Hesselink **2.60**  ·  Ruud Nijstad **10.00**  ·  Kosmas Ioannou **21.00**  ·  Biel **7.00**  ·  Lele **4.75**  ·  Bruno Felipe **9.00**
 
 ## Estadísticas de equipo
 | | Twente (total) | Twente en casa | Pafos (total) | Pafos fuera |
@@ -182,8 +184,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 30% | 26% | 28% | 3.75 | +5% |
 | Doble oportunidad: 12 | 83% | 85% | 84% | 1.14 | -4% |
 | Doble oportunidad: 1X | 87% | 89% | 88% | 1.08 | -5% |
-| Ambos marcan: No | 43% | 49% | 46% | 1.91 | -13% |
-| Ambos marcan: Sí | 57% | 51% | 54% | 1.80 | -2% |
+| Ambos marcan: No | 43% | 46% | 45% | 2.00 | -11% |
+| Ambos marcan: Sí | 57% | 54% | 55% | 1.73 | -4% |
 | Goles más/menos: Más de 2.5 | 67% | 67% | 67% | 1.40 | -6% |
 | Goles más/menos: Más de 3.5 | 45% | 46% | 46% | 2.00 | -9% |
 | Goles más/menos: Más de 4.5 | 26% | 28% | 27% | 3.40 | -9% |
@@ -198,14 +200,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 81% | 78% | 80% | 1.20 | -4% |
 | Goles del local: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
 | Goles del local: Más de 2.5 | 44% | 49% | 46% | 1.91 | -11% |
-| Goles del local: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles del local: Más de 3.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles del local: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles del local: Menos de 2.5 | 56% | 51% | 54% | 1.80 | -4% |
-| Goles del local: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 0.5 | 62% | 56% | 59% | 1.67 | -1% |
-| Goles del visitante: Más de 1.5 | 26% | 22% | 24% | 4.33 | +2% |
-| Goles del visitante: Menos de 0.5 | 38% | 44% | 41% | 2.10 | -14% |
-| Goles del visitante: Menos de 1.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles del local: Menos de 3.5 | 77% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Más de 0.5 | 62% | 58% | 60% | 1.62 | -3% |
+| Goles del visitante: Más de 1.5 | 26% | 23% | 24% | 4.00 | -2% |
+| Goles del visitante: Menos de 0.5 | 38% | 42% | 40% | 2.20 | -12% |
+| Goles del visitante: Menos de 1.5 | 74% | 77% | 76% | 1.22 | -8% |
 | 1X2 descanso: X | 34% | 32% | 33% | 2.88 | -5% |
 | 1X2 descanso: 1 | 51% | 55% | 53% | 1.67 | -11% |
 

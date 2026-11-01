@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 01/11/2026 08:02 (hora España)._
+_Actualizado el 01/11/2026 13:56 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -11,10 +11,11 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
-| 15:30 | [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) | 1X2: 2 | 2.50 | 49% | 38% | 44% | **+9%** |
+| 15:30 | [Union Berlin – 1. FC Köln](informes/2026-11-01_union-berlin-vs-1-fc-koln.md) | 1X2: 2 | 2.60 | 49% | 37% | 43% | **+12%** |
 | 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | Goles del visitante: Menos de 0.5 | 3.00 | 41% | 31% | 36% | **+9%** |
-| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.50 | 44% | 27% | 36% | **+24%** |
-| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.50 | 60% | 38% | 49% | **+21%** |
+| 18:30 | [Elche – Valencia](informes/2026-11-01_elche-vs-valencia.md) | 1X2: 1 | 2.35 | 51% | 40% | 46% | **+7%** |
+| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | 1X2: 2 | 3.50 | 44% | 27% | 36% | **+25%** |
+| 20:45 | [Marseille – Toulouse](informes/2026-11-01_marseille-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.38 | 60% | 39% | 49% | **+17%** |
 
 ## 02/11
 
@@ -31,7 +32,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
-| 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Doble oportunidad: 1X | 2.50 | 55% | 38% | 46% | **+16%** |
+| 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Doble oportunidad: 1X | 2.30 | 55% | 41% | 48% | **+10%** |
 | 21:00 | [Villarreal – Paris Saint Germain](informes/2026-11-03_villarreal-vs-paris-saint-germain.md) | Goles del local: Más de 1.5 | 2.38 | 52% | 39% | 45% | **+8%** |
 | 21:00 | [Barcelona – Aston Villa](informes/2026-11-03_barcelona-vs-aston-villa.md) | Goles del visitante: Más de 1.5 | 3.25 | 43% | 29% | 36% | **+17%** |
 | 21:00 | [Atletico Madrid – Bayern München](informes/2026-11-03_atletico-madrid-vs-bayern-munchen.md) | Ambos marcan: No | 3.00 | 43% | 31% | 37% | **+12%** |

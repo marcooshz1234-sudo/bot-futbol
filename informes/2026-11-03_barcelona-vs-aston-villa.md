@@ -1,13 +1,13 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:13_
+_Actualizadas: 01/11 13:54_
 
-- **1X2:** 1 **1.25**  ·  X **6.00**  ·  2 **10.00**
-- **Doble oportunidad:** 1X **1.05**  ·  12 **1.12**  ·  X2 **3.75**
+- **1X2:** 1 **1.20**  ·  X **8.00**  ·  2 **10.00**
+- **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
@@ -45,10 +45,10 @@ _Actualizadas: 01/11 02:13_
 - **To Score In Both Halves By Teams:** 1 **1.50**  ·  2 **5.00**
 - **Win Both Halves:** 1 **2.25**  ·  2 **34.00**
 - **Results/Both Teams Score:** Home/Yes **2.05**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.75**  ·  Draw/No **34.00**  ·  Away/No **23.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **5.50**
 - **Away Player Shots On Target Total:** Brian Madjo **13.00**  ·  Rodri **17.00**  ·  Victor Lindelof **26.00**  ·  Alysson Edward **29.00**  ·  Jules Kounde **13.00**  ·  Lamine Yamal **17.00**  ·  Pedri **23.00**  ·  Pau Cubarsi **9.50**  ·  Joao Cancelo **41.00**  ·  Raphinha **21.00**  ·  George Hemmings **67.00**  ·  Ibrahim Mbaye **29.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **10.00**  ·  Emiliano Buendia **29.00**  ·  Andreas Christensen **9.00**  ·  Marc Bernal **8.50**  ·  Eric Garcia **10.00**  ·  Dani Olmo **23.00**  ·  Gavi **34.00**  ·  Fermin Lopez **11.00**  ·  Hamza Abdelkarim **9.50**  ·  Brian Farinas **15.00**  ·  Nicolas Jackson **17.00**  ·  Alex Campos **9.00**  ·  Matty Cash **126.00**  ·  Pau Torres **34.00**  ·  Ross Barkley **67.00**  ·  Anthony Gordon **12.00**  ·  Alejandro Garnacho **51.00**  ·  Taylor Harwood-Bellis **17.00**  ·  Aaron Wan-Bissaka **201.00**  ·  Tammy Abraham **10.00**  ·  Leon Goretzka **41.00**  ·  Frenkie De Jong **41.00**  ·  Alex Balde **41.00**  ·  Ian Maatsen **126.00**  ·  Lamare Bogarde **26.00**  ·  John McGinn **51.00**  ·  Boubacar Kamara **41.00**  ·  Tyrone Mings **23.00**  ·  Matteo Ruggeri **41.00**  ·  Joao Gomes **101.00**  ·  Johan Manzambi **15.00**  ·  Karim Adeyemi **15.00**  ·  Martin Gerard **29.00**
-- **Anytime Goal Scorer:** Brian Madjo **4.00**  ·  Rodri **5.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **5.00**  ·  Jules Kounde **5.50**  ·  Lamine Yamal **1.80**  ·  Pedri **3.60**  ·  Pau Cubarsi **6.50**  ·  Joao Cancelo **5.00**  ·  Raphinha **1.62**  ·  George Hemmings **7.50**  ·  Ibrahim Mbaye **6.00**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.80**  ·  Emiliano Buendia **4.50**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **3.60**  ·  Eric Garcia **5.50**  ·  Dani Olmo **2.50**  ·  Gavi **4.50**  ·  Fermin Lopez **2.38**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **3.10**  ·  Nicolas Jackson **3.60**  ·  Alex Campos **5.50**  ·  Matty Cash **13.00**  ·  Pau Torres **17.00**  ·  Ross Barkley **7.50**  ·  Anthony Gordon **2.00**  ·  Alejandro Garnacho **6.00**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **21.00**  ·  Tammy Abraham **3.60**  ·  Leon Goretzka **8.50**  ·  Frenkie De Jong **4.50**  ·  Alex Balde **6.50**  ·  Ian Maatsen **13.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **6.50**  ·  Boubacar Kamara **13.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **13.00**  ·  Joao Gomes **10.00**  ·  Johan Manzambi **4.00**  ·  Karim Adeyemi **2.00**  ·  Martin Gerard **7.50**
-- **Player to Score or Assist:** Brian Madjo **3.00**  ·  Rodri **2.62**  ·  Victor Lindelof **13.00**  ·  Alysson Edward **3.40**  ·  Jules Kounde **2.88**  ·  Lamine Yamal **1.25**  ·  Pedri **1.91**  ·  Pau Cubarsi **4.50**  ·  Joao Cancelo **2.20**  ·  Raphinha **1.25**  ·  George Hemmings **4.75**  ·  Ibrahim Mbaye **3.50**  ·  Xavi Espart **3.00**  ·  Gabriel Jesus **1.40**  ·  Emiliano Buendia **2.62**  ·  Andreas Christensen **4.00**  ·  Marc Bernal **2.10**  ·  Eric Garcia **3.50**  ·  Dani Olmo **1.62**  ·  Gavi **2.40**  ·  Fermin Lopez **1.50**  ·  Hamza Abdelkarim **1.62**  ·  Brian Farinas **1.83**  ·  Nicolas Jackson **2.60**  ·  Alex Campos **4.00**  ·  Matty Cash **6.50**  ·  Pau Torres **13.00**  ·  Ross Barkley **4.33**  ·  Anthony Gordon **1.36**  ·  Alejandro Garnacho **3.50**  ·  Taylor Harwood-Bellis **9.50**  ·  Aaron Wan-Bissaka **8.50**  ·  Tammy Abraham **2.88**  ·  Leon Goretzka **4.75**  ·  Frenkie De Jong **2.40**  ·  Alex Balde **3.20**  ·  Ian Maatsen **4.75**  ·  Lamare Bogarde **8.50**  ·  John McGinn **4.00**  ·  Boubacar Kamara **6.50**  ·  Tyrone Mings **11.00**  ·  Matteo Ruggeri **6.50**  ·  Joao Gomes **5.50**  ·  Johan Manzambi **2.62**  ·  Karim Adeyemi **1.44**  ·  Martin Gerard **3.25**
+- **Anytime Goal Scorer:** Brian Madjo **4.00**  ·  Rodri **5.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **5.00**  ·  Jules Kounde **5.50**  ·  Lamine Yamal **1.80**  ·  Pedri **4.00**  ·  Pau Cubarsi **6.50**  ·  Joao Cancelo **5.00**  ·  Raphinha **1.62**  ·  George Hemmings **7.50**  ·  Ibrahim Mbaye **5.50**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.80**  ·  Emiliano Buendia **4.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **4.00**  ·  Eric Garcia **5.50**  ·  Dani Olmo **2.50**  ·  Gavi **4.50**  ·  Fermin Lopez **2.38**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **3.10**  ·  Nicolas Jackson **3.25**  ·  Alex Campos **5.50**  ·  Matty Cash **13.00**  ·  Pau Torres **17.00**  ·  Ross Barkley **7.50**  ·  Anthony Gordon **2.00**  ·  Alejandro Garnacho **5.50**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **21.00**  ·  Tammy Abraham **3.60**  ·  Leon Goretzka **8.50**  ·  Frenkie De Jong **4.50**  ·  Alex Balde **6.50**  ·  Ian Maatsen **10.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **6.50**  ·  Boubacar Kamara **13.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **13.00**  ·  Joao Gomes **10.00**  ·  Johan Manzambi **4.00**  ·  Karim Adeyemi **2.00**  ·  Martin Gerard **7.50**
+- **Player to Score or Assist:** Brian Madjo **3.00**  ·  Rodri **2.62**  ·  Victor Lindelof **13.00**  ·  Alysson Edward **3.40**  ·  Jules Kounde **2.88**  ·  Lamine Yamal **1.25**  ·  Pedri **1.91**  ·  Pau Cubarsi **4.50**  ·  Joao Cancelo **2.20**  ·  Raphinha **1.25**  ·  George Hemmings **4.75**  ·  Ibrahim Mbaye **3.50**  ·  Xavi Espart **3.00**  ·  Gabriel Jesus **1.40**  ·  Emiliano Buendia **2.62**  ·  Andreas Christensen **4.00**  ·  Marc Bernal **2.10**  ·  Eric Garcia **3.50**  ·  Dani Olmo **1.62**  ·  Gavi **2.40**  ·  Fermin Lopez **1.50**  ·  Hamza Abdelkarim **1.62**  ·  Brian Farinas **1.83**  ·  Nicolas Jackson **2.60**  ·  Alex Campos **4.00**  ·  Matty Cash **6.50**  ·  Pau Torres **13.00**  ·  Ross Barkley **4.33**  ·  Anthony Gordon **1.36**  ·  Alejandro Garnacho **3.75**  ·  Taylor Harwood-Bellis **9.50**  ·  Aaron Wan-Bissaka **8.50**  ·  Tammy Abraham **2.88**  ·  Leon Goretzka **4.75**  ·  Frenkie De Jong **2.40**  ·  Alex Balde **3.20**  ·  Ian Maatsen **4.75**  ·  Lamare Bogarde **8.50**  ·  John McGinn **4.00**  ·  Boubacar Kamara **6.50**  ·  Tyrone Mings **11.00**  ·  Matteo Ruggeri **6.50**  ·  Joao Gomes **5.50**  ·  Johan Manzambi **2.50**  ·  Karim Adeyemi **1.44**  ·  Martin Gerard **3.25**
 
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Aston Villa (total) | Aston Villa fuera |
@@ -184,11 +184,11 @@ _Goles esperados: local 3,13 · visitante 1,46 · córners esperados 9,4._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 9% | 12% | 10.00 | +21% |
-| 1X2: X | 15% | 16% | 15% | 6.00 | -9% |
-| 1X2: 1 | 71% | 75% | 73% | 1.25 | -9% |
-| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +2% |
+| 1X2: X | 15% | 12% | 13% | 8.00 | +5% |
+| 1X2: 1 | 71% | 79% | 75% | 1.20 | -10% |
+| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +3% |
 | Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -5% |
-| Doble oportunidad: 1X | 85% | 90% | 88% | 1.05 | -8% |
+| Doble oportunidad: 1X | 85% | 90% | 87% | 1.06 | -7% |
 | Ambos marcan: No | 27% | 38% | 32% | 2.50 | -20% |
 | Ambos marcan: Sí | 73% | 62% | 68% | 1.50 | +2% |
 | Goles más/menos: Más de 2.5 | 84% | 78% | 81% | 1.22 | -1% |

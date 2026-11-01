@@ -1,10 +1,10 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 02/11/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:13_
+_Actualizadas: 01/11 13:54_
 
 - **1X2:** 1 **2.45**  ·  X **3.10**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
@@ -43,13 +43,13 @@ _Actualizadas: 01/11 02:13_
 - **To Win Either Half:** 1 **1.80**  ·  2 **2.00**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.33**
 - **Win Both Halves:** 1 **9.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **6.00**  ·  Home/No **4.33**  ·  Draw/No **8.50**  ·  Away/No **5.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **4.00**  ·  Draw/No **8.50**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.25**
 - **Home Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 - **Home Team Total Cards:**
     - 1,5: más **1.67** · menos **2.10**
 - **Away Team Total Cards:**

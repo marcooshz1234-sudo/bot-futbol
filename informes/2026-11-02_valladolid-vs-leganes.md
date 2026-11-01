@@ -1,10 +1,10 @@
 # Valladolid – Leganes
 **Segunda División** · Regular Season - 12 · 02/11/2026 18:30 (hora España) · Estadio José Zorrilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:13_
+_Actualizadas: 01/11 13:54_
 
 - **1X2:** 1 **1.83**  ·  X **3.50**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **1.91**
@@ -29,7 +29,7 @@ _Actualizadas: 01/11 02:13_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.20**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -221,8 +221,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 24% | 25% | 24% | 3.75 | -9% |
 | Goles del visitante: Menos de 0.5 | 40% | 39% | 39% | 2.38 | -6% |
 | Goles del visitante: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -5% |
-| Córners más/menos: Más de 9.5 | 44% | 47% | 46% | 2.00 | -8% |
-| Córners más/menos: Menos de 9.5 | 56% | 53% | 54% | 1.80 | -2% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -4% |
 | 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 36% | 39% | 37% | 2.40 | -11% |
 

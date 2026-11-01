@@ -1,14 +1,14 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
-- **1X2:** 1 **2.88**  ·  X **3.50**  ·  2 **2.20**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.40**
-- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **1X2:** 1 **2.75**  ·  X **3.50**  ·  2 **2.30**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.48** · menos **2.60**
@@ -17,20 +17,20 @@ _Actualizadas: 31/10 13:55_
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **3.20**  ·  X **2.50**  ·  2 **2.75**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **3.10**  ·  X **2.50**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
@@ -38,11 +38,12 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
 - **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.62**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.75**
-- **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.60**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.40**
+- **To Win Either Half:** 1 **1.80**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **2.75**
+- **Win Both Halves:** 1 **9.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.50**
+- **Anytime Goal Scorer:** Oscar Gloukh **3.10**  ·  Thilo Kehrer **8.00**  ·  Gue-Sung Cho **3.00**  ·  Magnus Jensen **6.50**  ·  Mileta Rajovic **2.38**  ·  Edward Chilufya **3.10**  ·  Sofus Johannesen **5.50**  ·  Denil Castillo **5.50**  ·  Ousmane Diao **8.00**  ·  Pedro Bravo **9.00**  ·  Victor Bak Jensen **9.00**  ·  Mads Sorensen **11.00**  ·  David Martinez **3.40**  ·  Friday Etim **2.38**  ·  Alamara Djabi **5.50**  ·  Sofyan Amrabat **6.00**  ·  Jofre Torrents **7.50**  ·  Caio Henrique **9.00**  ·  Toluwalase Arokodare **2.38**  ·  Kjell-Arik Watjen **6.00**  ·  Davy Klaassen **4.33**  ·  Youri Baas **8.00**  ·  Owen Wijndal **8.00**  ·  Dies Janse **9.00**  ·  Oliver Valaker Edvardsen **3.40**  ·  Mikael Uhre **3.00**  ·  Andreas Maxso **13.00**  ·  Marcos Leonardo **2.50**  ·  Abdellah Ouazane **4.00**  ·  Julius Emefile **3.75**  ·  Mohamed Abdalla **3.75**  ·  Stanley Iheanacho **3.10**  ·  Beni Junior Dje **8.00**  ·  Frederik Vestergaard **5.50**  ·  Jorthy Mokio **6.00**  ·  Joseph Okuaghare **6.50**  ·  Steven Berghuis **4.33**  ·  Daley Blind **13.00**  ·  Viktor Tsygankov **3.10**  ·  Simon Adingra **3.75**  ·  Mikel Gogorza **3.25**  ·  Yves Bissouma **6.00**  ·  Abdou Aziz Ndiaye **8.00**  ·  Rasmus Kristensen **9.00**  ·  Martin Erlic **13.00**  ·  Lucas Rosa **8.00**  ·  Hyun-seok Hong **3.75**  ·  Philip Billing **5.50**  ·  Julian Brandt **3.00**  ·  Diego Pugno **2.50**  ·  Aaron Bouwman **7.50**  ·  Rayane Bounida **3.40**
 
 ## Estadísticas de equipo
 | | FC Midtjylland (total) | FC Midtjylland en casa | Ajax (total) | Ajax fuera |
@@ -179,14 +180,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 42% | 40% | 2.20 | -13% |
+| 1X2: 2 | 37% | 40% | 39% | 2.30 | -11% |
 | 1X2: X | 23% | 26% | 25% | 3.50 | -13% |
-| 1X2: 1 | 39% | 32% | 36% | 2.88 | +2% |
-| Doble oportunidad: X2 | 61% | 68% | 64% | 1.40 | -10% |
-| Doble oportunidad: 12 | 77% | 75% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 63% | 57% | 60% | 1.67 | +0% |
-| Ambos marcan: No | 36% | 35% | 36% | 2.62 | -6% |
-| Ambos marcan: Sí | 64% | 65% | 64% | 1.44 | -8% |
+| 1X2: 1 | 39% | 34% | 36% | 2.75 | +0% |
+| Doble oportunidad: X2 | 61% | 67% | 64% | 1.40 | -11% |
+| Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 63% | 60% | 61% | 1.57 | -4% |
+| Ambos marcan: No | 36% | 34% | 35% | 2.75 | -4% |
+| Ambos marcan: Sí | 64% | 66% | 65% | 1.40 | -9% |
 | Goles más/menos: Más de 2.5 | 62% | 64% | 63% | 1.48 | -7% |
 | Goles más/menos: Más de 3.5 | 40% | 44% | 42% | 2.10 | -12% |
 | Goles más/menos: Más de 4.5 | 22% | 25% | 24% | 3.75 | -12% |
@@ -194,21 +195,23 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 60% | 56% | 58% | 1.67 | -3% |
 | Goles más/menos: Menos de 4.5 | 78% | 75% | 76% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 42% | 42% | 2.20 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 44% | 42% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Más de 2.5 | 17% | 21% | 19% | 4.50 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
-| Goles del local: Más de 0.5 | 80% | 77% | 78% | 1.22 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 56% | 58% | 1.67 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Goles del local: Más de 2.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles del local: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -14% |
+| Goles del local: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
 | Goles del local: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Goles del local: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles del local: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
 | Goles del visitante: Más de 2.5 | 21% | 27% | 24% | 3.50 | -16% |
 | Goles del visitante: Menos de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
 | Goles del visitante: Menos de 2.5 | 79% | 73% | 76% | 1.28 | -3% |
-| 1X2 descanso: 2 | 30% | 34% | 32% | 2.75 | -12% |
+| 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -12% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
-| 1X2 descanso: 1 | 31% | 29% | 30% | 3.20 | -3% |
+| 1X2 descanso: 1 | 31% | 30% | 31% | 3.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

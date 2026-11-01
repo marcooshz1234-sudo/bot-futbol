@@ -1,10 +1,49 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 13:55_
+
+- **1X2:** 1 **4.33**  ·  X **3.80**  ·  2 **1.73**
+- **Doble oportunidad:** 1X **2.05**  ·  12 **1.25**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.75** · menos **2.05**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.30**  ·  2 **2.25**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.40**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.62**
+- **Win Both Halves:** 1 **19.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **13.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.60**
+- **Away Player Shots On Target Total:** Ayman Aiki **29.00**  ·  Christian Burgess **17.00**  ·  Julius Eskesen **41.00**
+- **Anytime Goal Scorer:** Aime Omgba **3.40**  ·  Saikou Touray **9.50**  ·  Laszlo Benes **5.00**  ·  Maksim Paskotsi **11.00**  ·  Clinton Antwi **12.00**  ·  Joslyn Luyeye-Lutumba **5.00**  ·  Petteri Pennanen **5.50**  ·  Saku Savolainen **7.50**  ·  Mohammed El Adfaoui **9.50**  ·  Mamadou Diallo **9.50**  ·  Jaime Moreno **3.50**  ·  Taneli Hamalainen **15.00**  ·  Rasmus Tikkanen **12.00**  ·  Piotr Parzyszek **4.33**  ·  Arttu Lotjonen **15.00**  ·  Samuel Pasanen **7.50**  ·  Bob Armah **7.50**  ·  Mouhamed Ngom **9.50**  ·  Abdoul Ayinde **7.50**  ·  Ayman Aiki **4.50**  ·  Michel Ange Balikwisha **2.30**  ·  Max Dean **2.20**  ·  Momodou Sonko **3.75**  ·  Tibe De Vlieger **4.50**  ·  Mathias Delorge-Knieper **7.50**  ·  Tiago Araujo **6.50**  ·  Gilles De Meyer **9.50**  ·  Christian Burgess **12.00**  ·  Julius Eskesen **6.50**  ·  Moctar Diop **2.62**  ·  Ibrahima Cisse **3.00**  ·  Gustav Engvall **3.20**  ·  Matties Volckaert **6.50**  ·  Calvin Kabuye **5.50**  ·  Akseli Puukko **7.00**  ·  Valentin Roman Gasc **6.50**  ·  Abdelkahar Kadri **3.75**  ·  El Hadji Seck **4.50**  ·  Niilo Kujasalo **7.00**  ·  Brahima Magassa **15.00**  ·  Josue Vergara **2.30**  ·  Kasim Adams **19.00**  ·  Saku Heiskanen **15.00**  ·  Abubakar Abdullahi **2.88**  ·  Tommi Jyry **7.50**  ·  Siebe van der Heyden **9.50**  ·  Leonardo Da Silva Lopes **6.50**  ·  Ricardo Jorginho **7.00**  ·  Kyrell Wilson **3.40**  ·  Bi Goore **2.50**
 
 ## Estadísticas de equipo
 | | KuPS (total) | KuPS en casa | Gent (total) | Gent fuera |
@@ -136,4 +175,37 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 0,46 · visitante 1,18 · córners esperados 10,0._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 54% | 54% | 54% | 1.73 | -6% |
+| 1X2: X | 31% | 25% | 28% | 3.80 | +6% |
+| 1X2: 1 | 14% | 22% | 18% | 4.33 | -22% |
+| Doble oportunidad: X2 | 86% | 79% | 82% | 1.20 | -2% |
+| Doble oportunidad: 12 | 69% | 75% | 72% | 1.25 | -10% |
+| Doble oportunidad: 1X | 46% | 46% | 46% | 2.05 | -6% |
+| Ambos marcan: No | 74% | 46% | 60% | 2.00 | +21% |
+| Ambos marcan: Sí | 26% | 54% | 40% | 1.73 | -31% |
+| Goles más/menos: Más de 1.5 | 49% | 77% | 63% | 1.22 | -23% |
+| Goles más/menos: Más de 2.5 | 23% | 54% | 38% | 1.75 | -33% |
+| Goles más/menos: Más de 3.5 | 9% | 34% | 21% | 2.75 | -42% |
+| Goles más/menos: Menos de 1.5 | 51% | 23% | 37% | 4.00 | +49% |
+| Goles más/menos: Menos de 2.5 | 77% | 46% | 62% | 2.05 | +26% |
+| Goles más/menos: Menos de 3.5 | 91% | 66% | 79% | 1.40 | +10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 51% | 71% | 61% | 1.33 | -19% |
+| Goles 1ª parte más/menos: Más de 1.5 | 16% | 38% | 27% | 2.50 | -33% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 29% | 39% | 3.25 | +27% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 84% | 62% | 73% | 1.50 | +10% |
+| Goles del local: Más de 0.5 | 37% | 65% | 51% | 1.44 | -27% |
+| Goles del local: Más de 1.5 | 8% | 28% | 18% | 3.40 | -40% |
+| Goles del local: Menos de 0.5 | 63% | 35% | 49% | 2.62 | +29% |
+| Goles del local: Menos de 1.5 | 92% | 72% | 82% | 1.30 | +7% |
+| Goles del visitante: Más de 1.5 | 33% | 54% | 43% | 1.73 | -25% |
+| Goles del visitante: Más de 2.5 | 12% | 28% | 20% | 3.40 | -33% |
+| Goles del visitante: Menos de 1.5 | 67% | 46% | 57% | 2.00 | +13% |
+| Goles del visitante: Menos de 2.5 | 88% | 72% | 80% | 1.30 | +4% |
+| 1X2 descanso: 2 | 34% | 41% | 38% | 2.25 | -15% |
+| 1X2 descanso: X | 54% | 40% | 47% | 2.30 | +8% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

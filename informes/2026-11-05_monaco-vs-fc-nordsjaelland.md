@@ -1,17 +1,17 @@
 # Monaco – FC Nordsjaelland
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **1.48**  ·  X **4.33**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.70**
+    - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
@@ -29,9 +29,9 @@ _Actualizadas: 31/10 13:55_
     - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.00** · menos **1.36**
+    - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
-- **1X2 descanso:** 1 **1.95**  ·  X **2.62**  ·  2 **5.50**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.62**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
@@ -39,11 +39,12 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.25**  ·  2 **2.75**
+- **To Win Either Half:** 1 **1.25**  ·  2 **3.00**
 - **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **5.00**
 - **Win Both Halves:** 1 **3.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.50**  ·  Home/No **3.00**  ·  Draw/No **21.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.40**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **19.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.40**
+- **Anytime Goal Scorer:** Stephen Acquah **13.00**  ·  Vanderson Campos **6.00**  ·  Markus Walker **6.00**  ·  Hjalte Rasmussen **5.00**  ·  Villum Berthelsen **4.33**  ·  Mika Biereth **2.20**  ·  Denis Zakaria **4.00**  ·  Folarin Balogun **1.95**  ·  Lamine Camara **5.00**  ·  Mohammed Salisu **7.50**  ·  Takumi Minamino **3.10**  ·  Justin Janssen **7.50**  ·  Mark Christensen **7.50**  ·  Peter Ankersen **13.00**  ·  Noah Markmann **15.00**  ·  Victor Nelsson **13.00**  ·  Souleymane Alio **3.40**  ·  Prince Amoako **4.00**  ·  Malte Heyde **8.00**  ·  Ibrahim Adel **5.00**  ·  Pape Cabral **3.25**  ·  Villads Rutkjaer **9.00**  ·  Victor Gustafsen **9.00**  ·  Ilane Toure **6.00**  ·  Matthis Abline **1.95**  ·  Jordan Teze **5.50**  ·  Christian Mawissa Elebi **9.00**  ·  Edan Diop **3.75**  ·  Alexandr Golovin **3.10**  ·  Paris Brunner **1.83**  ·  Flavio Nazinho **5.00**  ·  Alexander Lind **3.40**  ·  Stanis Idumbo-Muzambo **3.25**  ·  Mamadou Coulibaly **3.75**  ·  Nicklas Rojkjaer **6.00**  ·  Runar Norheim **6.50**  ·  Tobias Salquist **15.00**  ·  Mathys Detourbet **3.75**  ·  Mamadou Sadio **5.00**  ·  Matej Tuka **9.00**  ·  Mouekinga Kone **3.40**  ·  William Faber **4.00**  ·  Oumar Konate **1.95**  ·  Safouane Benzahra **2.62**  ·  Anis Soubeir **5.00**  ·  Samuel Nibombe **6.00**  ·  Eric Dier **6.50**  ·  Ansu Fati **2.38**  ·  Ola Solbakken **4.33**  ·  Sadibou Sane **7.50**  ·  Juho Lahteenmaki **6.50**
 
 ## Estadísticas de equipo
 | | Monaco (total) | Monaco en casa | FC Nordsjaelland (total) | FC Nordsjaelland fuera |
@@ -187,10 +188,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 67% | 84% | 76% | 1.14 | -14% |
 | Ambos marcan: No | 53% | 41% | 47% | 2.25 | +6% |
 | Ambos marcan: Sí | 47% | 59% | 53% | 1.57 | -17% |
-| Goles más/menos: Más de 2.5 | 41% | 65% | 53% | 1.44 | -24% |
+| Goles más/menos: Más de 2.5 | 41% | 64% | 52% | 1.48 | -23% |
 | Goles más/menos: Más de 3.5 | 20% | 44% | 32% | 2.10 | -32% |
 | Goles más/menos: Más de 4.5 | 9% | 27% | 18% | 3.50 | -38% |
-| Goles más/menos: Menos de 2.5 | 59% | 35% | 47% | 2.70 | +27% |
+| Goles más/menos: Menos de 2.5 | 59% | 36% | 48% | 2.60 | +24% |
 | Goles más/menos: Menos de 3.5 | 80% | 56% | 68% | 1.67 | +13% |
 | Goles más/menos: Menos de 4.5 | 91% | 73% | 82% | 1.28 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 77% | 70% | 1.22 | -15% |
@@ -206,10 +207,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 88% | 59% | 73% | 1.57 | +15% |
 | Goles del local: Menos de 3.5 | 96% | 78% | 87% | 1.20 | +5% |
 | Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 31% | 30% | 3.00 | -9% |
+| Goles del visitante: Más de 1.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 69% | 70% | 1.36 | -5% |
+| Goles del visitante: Menos de 1.5 | 70% | 71% | 71% | 1.33 | -6% |
 | 1X2 descanso: X | 46% | 35% | 41% | 2.62 | +7% |
-| 1X2 descanso: 1 | 29% | 48% | 38% | 1.95 | -26% |
+| 1X2 descanso: 1 | 29% | 48% | 38% | 1.91 | -27% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

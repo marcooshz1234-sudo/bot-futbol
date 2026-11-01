@@ -1,7 +1,7 @@
 # Cardiff – West Ham
 **Championship** · Regular Season - 14 · 04/11/2026 20:45 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:00_

@@ -1,10 +1,49 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 13:55_
+
+- **1X2:** 1 **9.00**  ·  X **4.75**  ·  2 **1.33**
+- **Doble oportunidad:** 1X **3.25**  ·  12 **1.18**  ·  X2 **1.07**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **9.00**  ·  X **2.50**  ·  2 **1.80**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.20**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **2.10**
+- **Win Both Halves:** 1 **41.00**  ·  2 **3.00**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.50**  ·  Home/No **15.00**  ·  Draw/No **12.00**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.38**
+- **Away Player Shots On Target Total:** Marin Soticek **13.00**  ·  Khalil Fayad **41.00**  ·  Leander Dendoncker **21.00**  ·  Carlos Martin **15.00**  ·  Leite Dali **13.00**
+- **Anytime Goal Scorer:** Etnik Brruti **4.33**  ·  Alvaro Romero **9.50**  ·  Alberto del Moral **5.50**  ·  Adrion Pajaziti **5.50**  ·  Lee Casciaro **6.50**  ·  Graeme Torrilla **15.00**  ·  Ethan Britto **11.00**  ·  Ethan Jolley **19.00**  ·  Bernardo Lopes **23.00**  ·  Bassel Jradi **3.50**  ·  Josip Basic **5.50**  ·  Marin Soticek **2.62**  ·  Toni Garcia **11.00**  ·  Kike Gomez **5.50**  ·  Christian Rutjens **29.00**  ·  Gonzalez Nano **12.00**  ·  Armando Mandi **15.00**  ·  Martinez Joe **15.00**  ·  Ron Raci **9.50**  ·  Ayman El Ghobashy **5.50**  ·  Khalil Fayad **5.00**  ·  Mathieu Acapandie **9.50**  ·  Leander Dendoncker **5.50**  ·  Carlos Martin **2.38**  ·  Alec Van Hoorenbeeck **9.50**  ·  Dennis Hadzikadunic **9.50**  ·  Dario Maresic **9.50**  ·  Marko Livaja **2.10**  ·  Dario Melnjak **4.33**  ·  Simun Hrgovic **3.00**  ·  Michele Sego **2.38**  ·  Luka Hodak **9.50**  ·  Roko Gabric **9.50**  ·  Roko Brajkovic **9.50**  ·  Marino Skelin **8.00**  ·  Adam Guram **3.00**  ·  Julliani Eersteling **19.00**  ·  Yussef Flalhi Idrissi **9.50**  ·  Gabri Cardozo **23.00**  ·  Leon Mason **8.50**  ·  Facundo Alvarez **9.50**  ·  Manu Toledano **5.50**  ·  Andjelo Sutalo **3.50**  ·  Nico Pinto **9.50**  ·  Marco Fossati **4.33**  ·  Aly Coulibaly **11.00**  ·  Jay Coombes **23.00**  ·  Abdoulie Sanyang **2.62**  ·  Alex Mula **9.50**  ·  Leite Dali **2.62**
 
 ## Estadísticas de equipo
 | | Lincoln Red Imps FC (total) | Lincoln Red Imps FC en casa | HNK Hajduk Split (total) | HNK Hajduk Split fuera |
@@ -136,4 +175,35 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 0,66 · visitante 2,26 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 74% | 70% | 72% | 1.33 | -4% |
+| 1X2: X | 17% | 20% | 18% | 4.75 | -13% |
+| 1X2: 1 | 9% | 10% | 10% | 9.00 | -12% |
+| Doble oportunidad: X2 | 91% | 89% | 90% | 1.07 | -4% |
+| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 26% | 29% | 28% | 3.25 | -9% |
+| Ambos marcan: No | 57% | 58% | 57% | 1.62 | -7% |
+| Ambos marcan: Sí | 43% | 42% | 43% | 2.20 | -6% |
+| Goles más/menos: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
+| Goles más/menos: Más de 2.5 | 56% | 53% | 54% | 1.80 | -2% |
+| Goles más/menos: Más de 3.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles más/menos: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles más/menos: Menos de 2.5 | 44% | 47% | 46% | 2.00 | -8% |
+| Goles más/menos: Menos de 3.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 0.5 | 48% | 49% | 48% | 1.91 | -8% |
+| Goles del local: Menos de 0.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Goles del visitante: Más de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
+| Goles del visitante: Más de 2.5 | 39% | 38% | 38% | 2.50 | -4% |
+| Goles del visitante: Menos de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles del visitante: Menos de 2.5 | 61% | 62% | 62% | 1.50 | -8% |
+| 1X2 descanso: 2 | 53% | 52% | 52% | 1.80 | -6% |
+| 1X2 descanso: X | 37% | 38% | 37% | 2.50 | -7% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

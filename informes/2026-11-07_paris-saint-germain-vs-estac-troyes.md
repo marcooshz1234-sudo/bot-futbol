@@ -1,7 +1,7 @@
 # Paris Saint Germain – Estac Troyes
 **Ligue 1** · Regular Season - 10 · 07/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_

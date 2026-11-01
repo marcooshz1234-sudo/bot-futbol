@@ -1,16 +1,16 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
@@ -28,7 +28,7 @@ _Actualizadas: 31/10 13:55_
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.60**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -36,11 +36,12 @@ _Actualizadas: 31/10 13:55_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.25**  ·  2 **1.53**
+- **To Win Either Half:** 1 **2.20**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.25**
-- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.40**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.50**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **Anytime Goal Scorer:** Ruben Furtado **3.75**  ·  Frederik Emmery **6.00**  ·  Oskar Haugstrup **8.00**  ·  Stefen Tchamche **3.25**  ·  Christian Storch **13.00**  ·  Denis Huseinbasic **3.75**  ·  Adrian Barisic **13.00**  ·  Daniel Gretarsson **13.00**  ·  Mikael Anderson **7.50**  ·  Tobias Bech **3.25**  ·  Gift Links **6.00**  ·  Kristian Arnstad **3.75**  ·  Eric Kahl **11.00**  ·  Frederik Tingager **15.00**  ·  Luka Callo **13.00**  ·  Nicolai Poulsen **9.00**  ·  Jacob Andersen **19.00**  ·  Mario Dorgeles **4.33**  ·  Callum McCowatt **3.25**  ·  Kevin Yakob **5.00**  ·  Tomas Oli Kristjansson **5.00**  ·  Yanis da Rocha **11.00**  ·  Joao Aragao **4.33**  ·  Zander Grantzau **13.00**  ·  Diego Rodrigues **7.50**  ·  Rasmus Carstensen **7.50**  ·  Jens Jonsson **11.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.40**  ·  Janni-Luca Serra **4.00**  ·  Sebastian Jorgensen **5.00**  ·  Colin Rosler **13.00**  ·  Gabriel Martinez **3.50**  ·  Tomas Marques **11.00**  ·  James Bogere **3.60**  ·  Markus Solbakken **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.75**  ·  Fran Navarro **2.60**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **8.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Teixeira Luisinho **3.75**  ·  Diogo Travassos **8.00**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **8.00**  ·  Jovan Milosevic **3.00**  ·  Hamza Sengooba **13.00**  ·  Mouhammade Camara **13.00**  ·  Joao Trovisco **3.25**  ·  Tobias Molgaard **13.00**  ·  Jonas Wind **2.75**  ·  Magnus Nordengen Knudsen **8.00**  ·  Gabriel Silva Vieira **3.00**
 
 ## Estadísticas de equipo
 | | Aarhus (total) | Aarhus en casa | SC Braga (total) | SC Braga fuera |
@@ -204,8 +205,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
 | Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
-| 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
-| 1X2 descanso: X | 51% | 42% | 47% | 2.20 | +3% |
-| 1X2 descanso: 1 | 16% | 22% | 19% | 4.33 | -20% |
+| 1X2 descanso: 2 | 34% | 35% | 34% | 2.62 | -10% |
+| 1X2 descanso: X | 51% | 42% | 46% | 2.20 | +2% |
+| 1X2 descanso: 1 | 16% | 23% | 19% | 4.00 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

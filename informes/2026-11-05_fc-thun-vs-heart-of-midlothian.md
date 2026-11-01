@@ -1,10 +1,49 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 13:55_
+
+- **1X2:** 1 **2.50**  ·  X **3.50**  ·  2 **2.60**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.40**  ·  2 **3.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.25**
+- **Win Both Halves:** 1 **8.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **17.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.10**
+- **Away Player Shots On Target Total:** Jamie McCart **21.00**  ·  James Wilson **15.00**  ·  Calvin Miller **13.00**  ·  Harry Milne **67.00**  ·  Eduardo Ageu **26.00**  ·  Sabah Kerjota **34.00**  ·  Tomas Magnusson **34.00**  ·  Laurent Mendy **19.00**  ·  Pierre Kabore **11.00**  ·  Finlay Pollock **41.00**  ·  Elton Kabangu **23.00**  ·  Malachi Fagan-Walcott **13.00**  ·  Jordi Altena **34.00**  ·  Oisin McEntee **15.00**  ·  Blair Spittal **34.00**  ·  Yan Dhanda **41.00**  ·  Craig Halkett **9.00**  ·  Stephen Kingsley **34.00**  ·  Joshua McPake **26.00**  ·  Stuart Findlay **10.00**  ·  Claudio Braga **8.50**  ·  Christian Borchgrevink **81.00**  ·  Amadou Ba-Sy **5.50**  ·  JJ Williams **8.00**  ·  Rogers Mato **8.50**  ·  Sabri Guendouz **15.00**
+- **Anytime Goal Scorer:** Mattias Kait **6.00**  ·  Patrik Kristal **5.00**  ·  Jamie McCart **13.00**  ·  James Wilson **2.88**  ·  Calvin Miller **3.75**  ·  Harry Milne **7.00**  ·  Nicolas Burgy **7.50**  ·  Eduardo Ageu **6.00**  ·  Nico Maier **6.00**  ·  Riccardo Braschi **3.10**  ·  Sabah Kerjota **3.60**  ·  Tomas Magnusson **6.00**  ·  Laurent Mendy **6.00**  ·  Pierre Kabore **2.88**  ·  Olivier Mambwa **11.00**  ·  Finlay Pollock **5.00**  ·  Elton Kabangu **2.50**  ·  Furkan Dursun **2.75**  ·  Malachi Fagan-Walcott **7.50**  ·  Jordi Altena **7.00**  ·  Oisin McEntee **9.50**  ·  Blair Spittal **3.60**  ·  Aron Benjaminsen **3.60**  ·  Yan Dhanda **5.00**  ·  Craig Halkett **7.00**  ·  Stephen Kingsley **9.50**  ·  Joshua McPake **2.88**  ·  Stuart Findlay **7.50**  ·  Noah Christoffersson **2.75**  ·  Claudio Braga **2.62**  ·  Christian Borchgrevink **9.50**  ·  Tom Strannegard **7.50**  ·  Mats Seiler **9.50**  ·  Nils Reichmuth **4.33**  ·  Leart Kabashi **5.00**  ·  Marc Gutbub **2.75**  ·  Jan Bamert **9.50**  ·  Dorian Derbaci **6.00**  ·  Nassim Zoukit **6.00**  ·  Justin Roth **7.50**  ·  Ashvin Balaruban **9.50**  ·  Adam Ilic **6.00**  ·  Fabio Fehr **9.50**  ·  Amadou Ba-Sy **2.88**  ·  Marco Burki **13.00**  ·  Lucien Dahler **9.50**  ·  Gus Stevenson **7.00**  ·  Matthew Gillies **9.50**  ·  Simon Lengen **2.75**  ·  Louis Passavant **9.50**  ·  Fabio Saiz **5.00**  ·  JJ Williams **2.88**  ·  Rogers Mato **2.62**  ·  Brighton Labeau **2.75**  ·  Sabri Guendouz **3.25**
 
 ## Estadísticas de equipo
 | | FC Thun (total) | FC Thun en casa | Heart Of Midlothian (total) | Heart Of Midlothian fuera |
@@ -136,4 +175,42 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,45 · visitante 1,30 · córners esperados 10,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 36% | 35% | 2.60 | -9% |
+| 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
+| 1X2: 1 | 41% | 37% | 39% | 2.50 | -2% |
+| Doble oportunidad: X2 | 59% | 63% | 61% | 1.50 | -8% |
+| Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 66% | 63% | 65% | 1.50 | -3% |
+| Ambos marcan: No | 44% | 38% | 41% | 2.50 | +2% |
+| Ambos marcan: Sí | 56% | 62% | 59% | 1.50 | -11% |
+| Goles más/menos: Más de 2.5 | 52% | 60% | 56% | 1.57 | -12% |
+| Goles más/menos: Más de 3.5 | 30% | 39% | 34% | 2.38 | -18% |
+| Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles más/menos: Menos de 2.5 | 48% | 40% | 44% | 2.35 | +4% |
+| Goles más/menos: Menos de 3.5 | 70% | 61% | 66% | 1.53 | +0% |
+| Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 73% | 71% | 1.28 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 27% | 29% | 3.50 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -2% |
+| Goles del local: Más de 0.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del local: Más de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
+| Goles del local: Más de 2.5 | 18% | 23% | 21% | 4.00 | -18% |
+| Goles del local: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles del local: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles del local: Menos de 2.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles del visitante: Más de 0.5 | 73% | 78% | 75% | 1.20 | -9% |
+| Goles del visitante: Más de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
+| Goles del visitante: Más de 2.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles del visitante: Menos de 0.5 | 27% | 22% | 25% | 4.33 | +6% |
+| Goles del visitante: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
+| Goles del visitante: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -2% |
+| 1X2 descanso: 2 | 27% | 30% | 28% | 3.10 | -12% |
+| 1X2 descanso: X | 42% | 39% | 40% | 2.40 | -3% |
+| 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -7% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

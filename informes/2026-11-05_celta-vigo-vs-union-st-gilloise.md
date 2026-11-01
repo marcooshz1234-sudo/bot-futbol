@@ -1,10 +1,10 @@
 # Celta Vigo – Union St. Gilloise
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **1.95**  ·  X **3.75**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.80**

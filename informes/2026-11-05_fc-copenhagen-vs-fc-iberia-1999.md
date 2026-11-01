@@ -1,24 +1,24 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:55_
+_Actualizadas: 01/11 13:55_
 
-- **1X2:** 1 **1.14**  ·  X **7.00**  ·  2 **17.00**
-- **Doble oportunidad:** 1X **1.02**  ·  12 **1.10**  ·  X2 **5.50**
-- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **1X2:** 1 **1.20**  ·  X **6.00**  ·  2 **13.00**
+- **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **4.33**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **2.88**
-    - 3,5: más **1.91** · menos **1.80**
-    - 4,5: más **3.25** · menos **1.33**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**
-    - 6,5: más **11.00** · menos **1.05**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
+    - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
@@ -31,19 +31,21 @@ _Actualizadas: 31/10 13:55_
 - **Goles del visitante:**
     - 0,5: más **2.00** · menos **1.73**
     - 1,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **1.44**  ·  X **3.20**  ·  2 **12.00**
+- **1X2 descanso:** 1 **1.57**  ·  X **3.00**  ·  2 **9.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
-- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.08**  ·  2 **6.50**
-- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **13.00**
-- **Win Both Halves:** 1 **2.00**  ·  2 **67.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **9.00**  ·  Away/Yes **26.00**  ·  Home/No **1.80**  ·  Draw/No **21.00**  ·  Away/No **26.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.40**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.11**  ·  2 **5.00**
+- **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **10.00**
+- **Win Both Halves:** 1 **2.25**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **7.50**  ·  Away/Yes **21.00**  ·  Home/No **2.00**  ·  Draw/No **21.00**  ·  Away/No **21.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.40**
+- **Away Player Shots On Target Total:** Alex Kral **17.00**  ·  Mads Madsen **13.00**  ·  Mohamed Elyounoussi **7.50**  ·  Andreas Cornelius **5.00**  ·  Magnus Mattsson **12.00**  ·  Thomas Delaney **29.00**  ·  Rodrigo Huescas **23.00**  ·  Marcos Lopez **26.00**  ·  William Clem **17.00**  ·  Dominik Sarapata **13.00**  ·  Viktor Dadason **4.50**  ·  Maher Carrizo **12.00**  ·  Junnosuke Suzuki **12.00**  ·  Phillip Cancar **34.00**  ·  Birger Meling **29.00**  ·  Robert Silva **23.00**  ·  Gabriel Pereira dos Santos **9.00**
+- **Anytime Goal Scorer:** Sebastian Figueredo **19.00**  ·  Alex Kral **4.00**  ·  Mads Madsen **3.10**  ·  Felix Beijmo **6.50**  ·  Mohamed Elyounoussi **1.73**  ·  Andreas Cornelius **1.80**  ·  Magnus Mattsson **2.40**  ·  Thomas Delaney **4.75**  ·  Rodrigo Huescas **5.50**  ·  Marcos Lopez **5.50**  ·  William Clem **5.50**  ·  Thapelo Maseko **3.10**  ·  Vakho Bedoshvili **8.50**  ·  Dominik Sarapata **2.75**  ·  Zviad Natchkebia **8.00**  ·  Viktor Dadason **2.10**  ·  Maher Carrizo **2.40**  ·  Junnosuke Suzuki **5.50**  ·  Asger Sorensen **5.50**  ·  Phillip Cancar **23.00**  ·  Akos Markgraf **7.00**  ·  Geovanni Vianney **2.40**  ·  Khung-hyun Lee **6.00**  ·  Henrik Haraldsen **7.00**  ·  Marvin Nasnas **2.75**  ·  Gunner Olsen **2.10**  ·  Nikoloz Dadiani **12.00**  ·  Nika Sikharulashvili **6.50**  ·  Giorgi Kutsia **12.00**  ·  Andria Bartishvili **7.00**  ·  Bakar Kardava **15.00**  ·  Giorgi Kobuladze **19.00**  ·  Lado Chikhradze **6.50**  ·  Amiran Dzagania **6.50**  ·  Stephen Ende **7.00**  ·  Daniel Kvartskhava **8.50**  ·  Ibrahim Alhassan **10.00**  ·  Eldar Kuliyev **12.00**  ·  Jemal-Giorgi Jinjolava **15.00**  ·  Alexander Amisulashvili **23.00**  ·  Jean-Marc Tiboue **19.00**  ·  Nikoloz Bochorishvili **23.00**  ·  Birger Meling **6.50**  ·  Vahid Selimovic **23.00**  ·  Hunor Nemeth **4.75**  ·  Lucas Cafe **8.00**  ·  Kenay Myrie **4.75**  ·  Robert Silva **2.75**  ·  Giorgi Beridze **10.00**  ·  Gabriel Pereira dos Santos **6.50**
 
 ## Estadísticas de equipo
 | | FC Copenhagen (total) | FC Copenhagen en casa | FC Iberia 1999 (total) | FC Iberia 1999 fuera |
@@ -179,25 +181,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 1% | 5% | 3% | 17.00 | -41% |
-| 1X2: X | 4% | 13% | 9% | 7.00 | -40% |
-| 1X2: 1 | 95% | 81% | 88% | 1.14 | +0% |
-| Doble oportunidad: X2 | 5% | 18% | 11% | 5.50 | -37% |
-| Doble oportunidad: 12 | 96% | 88% | 92% | 1.10 | +1% |
-| Doble oportunidad: 1X | 99% | 95% | 97% | 1.02 | -1% |
-| Ambos marcan: No | 67% | 58% | 63% | 1.62 | +1% |
-| Ambos marcan: Sí | 33% | 42% | 37% | 2.20 | -18% |
-| Goles más/menos: Más de 2.5 | 82% | 67% | 75% | 1.40 | +5% |
-| Goles más/menos: Más de 3.5 | 65% | 49% | 57% | 1.91 | +9% |
-| Goles más/menos: Más de 4.5 | 46% | 29% | 38% | 3.25 | +23% |
-| Goles más/menos: Menos de 2.5 | 18% | 33% | 25% | 2.88 | -28% |
-| Goles más/menos: Menos de 3.5 | 35% | 51% | 43% | 1.80 | -23% |
-| Goles más/menos: Menos de 4.5 | 54% | 71% | 62% | 1.33 | -17% |
+| 1X2: 2 | 1% | 7% | 4% | 13.00 | -44% |
+| 1X2: X | 4% | 15% | 10% | 6.00 | -42% |
+| 1X2: 1 | 95% | 77% | 86% | 1.20 | +3% |
+| Doble oportunidad: X2 | 5% | 22% | 14% | 4.33 | -41% |
+| Doble oportunidad: 12 | 96% | 86% | 91% | 1.12 | +2% |
+| Doble oportunidad: 1X | 99% | 92% | 95% | 1.04 | -1% |
+| Ambos marcan: No | 67% | 51% | 59% | 1.80 | +7% |
+| Ambos marcan: Sí | 33% | 49% | 41% | 1.91 | -23% |
+| Goles más/menos: Más de 2.5 | 82% | 65% | 74% | 1.44 | +6% |
+| Goles más/menos: Más de 3.5 | 65% | 46% | 56% | 2.00 | +12% |
+| Goles más/menos: Más de 4.5 | 46% | 28% | 37% | 3.40 | +26% |
+| Goles más/menos: Menos de 2.5 | 18% | 35% | 26% | 2.70 | -29% |
+| Goles más/menos: Menos de 3.5 | 35% | 54% | 44% | 1.73 | -24% |
+| Goles más/menos: Menos de 4.5 | 54% | 72% | 63% | 1.30 | -18% |
 | Goles 1ª parte más/menos: Más de 0.5 | 86% | 78% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 58% | 46% | 52% | 2.00 | +4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 58% | 49% | 53% | 1.91 | +2% |
 | Goles 1ª parte más/menos: Más de 2.5 | 31% | 23% | 27% | 4.00 | +9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 54% | 48% | 1.73 | -17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 51% | 47% | 1.80 | -16% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 69% | 77% | 73% | 1.22 | -11% |
 | Goles del local: Más de 1.5 | 91% | 77% | 84% | 1.22 | +3% |
 | Goles del local: Más de 2.5 | 77% | 56% | 67% | 1.67 | +11% |
@@ -207,7 +209,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 3.5 | 42% | 65% | 53% | 1.44 | -24% |
 | Goles del visitante: Más de 0.5 | 33% | 46% | 40% | 2.00 | -21% |
 | Goles del visitante: Menos de 0.5 | 67% | 54% | 60% | 1.73 | +4% |
-| 1X2 descanso: X | 19% | 29% | 24% | 3.20 | -24% |
-| 1X2 descanso: 1 | 78% | 64% | 71% | 1.44 | +2% |
+| 1X2 descanso: X | 19% | 31% | 25% | 3.00 | -25% |
+| 1X2 descanso: 1 | 78% | 59% | 69% | 1.57 | +8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

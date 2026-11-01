@@ -1,12 +1,12 @@
 # Lask Linz – Slovan Bratislava
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:13_
+_Actualizadas: 01/11 13:54_
 
-- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **7.00**
+- **1X2:** 1 **1.40**  ·  X **4.75**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
@@ -185,9 +185,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 13% | 18% | 7.00 | +26% |
-| 1X2: X | 20% | 21% | 20% | 4.50 | -8% |
-| 1X2: 1 | 57% | 66% | 62% | 1.42 | -13% |
+| 1X2: 2 | 23% | 13% | 18% | 7.50 | +32% |
+| 1X2: X | 20% | 20% | 20% | 4.75 | -5% |
+| 1X2: 1 | 57% | 68% | 62% | 1.40 | -13% |
 | Doble oportunidad: X2 | 43% | 34% | 39% | 2.75 | +6% |
 | Doble oportunidad: 12 | 80% | 80% | 80% | 1.18 | -6% |
 | Doble oportunidad: 1X | 77% | 86% | 82% | 1.10 | -10% |

@@ -1,10 +1,10 @@
 # AC Milan – Ferencvarosi TC
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:54_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **1.33**  ·  X **5.25**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.25**

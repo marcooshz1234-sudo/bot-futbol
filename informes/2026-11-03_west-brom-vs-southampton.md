@@ -1,10 +1,10 @@
 # West Brom – Southampton
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 13:56._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:13_
+_Actualizadas: 01/11 13:55_
 
 - **1X2:** 1 **2.50**  ·  X **3.50**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
