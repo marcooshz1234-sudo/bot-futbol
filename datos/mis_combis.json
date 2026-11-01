@@ -275,5 +275,26 @@
       1.36
     ],
     "origen": "Claude 01/11 17:55"
+  },
+  {
+    "id": "2026-11-01-cuota-20",
+    "fecha": "2026-11-01T18:30",
+    "titulo": "Cuota 20",
+    "cuota": 19.0,
+    "sel": [
+      "1550182|Away Player Shots|Scott McTominay - 3",
+      "1552805|Home Player Shots|Igor Paixao - 3",
+      "1552805|Match Winner|Home",
+      "1570437|Home Team Total Cards|Over 2.5",
+      "1570433|ShotOnTarget 1x2|Home"
+    ],
+    "cuotas": [
+      1.91,
+      1.8,
+      1.95,
+      1.91,
+      1.53
+    ],
+    "origen": "Claude 01/11 18:00"
   }
 ]
