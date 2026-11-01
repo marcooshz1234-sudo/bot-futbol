@@ -217,6 +217,38 @@ def texto_combi_partido(cp, tj, cuota):
     return "\n".join(lineas)
 
 
+def balance_seguro():
+    """(verdes, rojas, beneficio con 10 €) de los «pick seguro» ya resueltos (docs/resumenes.json)."""
+    res = leer(RAIZ / "docs" / "resumenes.json", {}) or {}
+    v = r = 0
+    gan = 0.0
+    for dia in res.values():
+        for c in dia.get("combis") or []:
+            if c.get("id", "").endswith("-pick-seguro") and c.get("cuota") and c.get("estado") in ("verde", "rojo"):
+                if c["estado"] == "verde":
+                    v += 1
+                    gan += 10 * (c["cuota"] - 1)
+                else:
+                    r += 1
+                    gan -= 10
+    return v, r, gan
+
+
+def texto_seguro(p):
+    """01/11 (Marcos): un solo pick, el más seguro del día, con su balance acumulado."""
+    band = BANDERA.get(p.get("competicion"), "⚽")
+    v, r, gan = balance_seguro()
+    lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
+              f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}",
+              f"✅ {p['texto']}", "",
+              f"🎯 Cuota {num(p['cuota'])}", f"💶 10€ → {num(p['cuota'] * 10)}€"]
+    if v + r:
+        roi = 100 * gan / (10 * (v + r))
+        lineas += ["", f"📊 Pick seguro: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
+    lineas += ["", "🍀 Uno al día, sin locuras"]
+    return "\n".join(lineas)
+
+
 def texto_estrella(cp, cuota):
     """01/11 (Marcos): «partido estrella», solo texto (como «🇮🇹 NAPOLI 🆚 ROMA 🇮🇹», 5.643 visitas en Threads)."""
     band = BANDERA.get(cp.get("competicion"), "⚽")
@@ -288,6 +320,10 @@ def posts_del_dia(dia, d):
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
             apuntar(cp["picks"])
+        if cd.get("seguro"):   # 01/11 (Marcos): pick seguro del día (historial para el VIP)
+            ps, hs = cd["seguro"]
+            posts.append(("pick-seguro", hs, [ps], texto_seguro(ps)))
+            apuntar([ps])
         for cp, cuota, hora in cd.get("estrella") or []:   # 01/11 (Marcos): partido estrella (top 4 de las 5 grandes)
             posts.append((f"estrella-{cp['partido_id']}", hora, cp["picks"], texto_estrella(cp, cuota)))
             apuntar(cp["picks"])

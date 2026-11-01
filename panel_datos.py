@@ -45,7 +45,7 @@ def ajustes(control=None):
 def tipo_post(pid):
     for k, n in (("combi-partido", "Combi con escudos"), ("escalera", "Escalera"), ("picks-manana", "Picks para mañana"),
                  ("combi-tres", "Combi x3"), ("combi-loca", "La loca"), ("ganadores", "Quién gana"),
-                 ("balance", "Balance"), ("verde", "Verde"), ("boleto", "Boleto"), ("personal", "Combi personal")):
+                 ("balance", "Balance"), ("verde", "Verde"), ("boleto", "Boleto"), ("personal", "Combi personal"), ("pick-seguro", "Pick seguro"), ("estrella-", "Partido estrella")):
         if k in pid:
             return n
     return "Otros"
