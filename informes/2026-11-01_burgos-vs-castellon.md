@@ -1,7 +1,7 @@
 # Burgos – Castellón
 **Segunda División** · Regular Season - 12 · 01/11/2026 18:30 (hora España) · Municipal El Plantio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:12_

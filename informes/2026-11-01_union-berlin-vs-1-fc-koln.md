@@ -1,7 +1,7 @@
 # Union Berlin – 1. FC Köln
 **Bundesliga** · Regular Season - 8 · 01/11/2026 15:30 (hora España) · An der Alten Försterei
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:12_

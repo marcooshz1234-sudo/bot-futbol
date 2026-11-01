@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 01/11/2026 02:15 (hora España). Partidos guardados en la base de datos: 1623._
+_Actualizado el 01/11/2026 08:02 (hora España). Partidos guardados en la base de datos: 1623._
 
 
 ## Domingo 01/11
@@ -71,8 +71,8 @@ _Actualizado el 01/11/2026 02:15 (hora España). Partidos guardados en la base d
 - 18:45 · Champions League · [AEK Athens FC – Real Madrid](informes/2026-11-04_aek-athens-fc-vs-real-madrid.md) · 1X2: 8.00 / 7.00 / 1.25
 - 18:45 · Champions League · [Fenerbahçe – Liverpool](informes/2026-11-04_fenerbahce-vs-liverpool.md) · 1X2: 5.00 / 4.50 / 1.57
 - 20:30 · Copa del Rey · [Utebo – Sabadell](informes/2026-11-04_utebo-vs-sabadell.md) · 1X2: 5.50 / 3.90 / 1.60
-- 20:45 · Championship · [Cardiff – West Ham](informes/2026-11-04_cardiff-vs-west-ham.md)
-- 20:45 · Championship · [Wrexham – Middlesbrough](informes/2026-11-04_wrexham-vs-middlesbrough.md)
+- 20:45 · Championship · [Cardiff – West Ham](informes/2026-11-04_cardiff-vs-west-ham.md) · 1X2: 3.60 / 4.00 / 1.85
+- 20:45 · Championship · [Wrexham – Middlesbrough](informes/2026-11-04_wrexham-vs-middlesbrough.md) · 1X2: 3.60 / 3.75 / 1.91
 - 20:45 · Copa del Rey · [Calvo Sotelo – Albacete](informes/2026-11-04_calvo-sotelo-vs-albacete.md) · 1X2: 5.25 / 4.20 / 1.55
 - 21:00 · Champions League · [Lens – Como](informes/2026-11-04_lens-vs-como.md) · 1X2: 2.90 / 3.75 / 2.20
 - 21:00 · Champions League · [Borussia Dortmund – Real Betis](informes/2026-11-04_borussia-dortmund-vs-real-betis.md) · 1X2: 1.75 / 3.90 / 4.20
@@ -81,7 +81,7 @@ _Actualizado el 01/11/2026 02:15 (hora España). Partidos guardados en la base d
 - 21:00 · Champions League · [FC Porto – Napoli](informes/2026-11-04_fc-porto-vs-napoli.md) · 1X2: 2.15 / 3.40 / 3.30
 - 21:00 · Champions League · [Slavia Praha – Arsenal](informes/2026-11-04_slavia-praha-vs-arsenal.md) · 1X2: 8.50 / 6.50 / 1.25
 - 21:00 · Champions League · [Viking – Sabah FA](informes/2026-11-04_viking-vs-sabah-fa.md)
-- 21:00 · Championship · [Bristol City – Wolves](informes/2026-11-04_bristol-city-vs-wolves.md)
+- 21:00 · Championship · [Bristol City – Wolves](informes/2026-11-04_bristol-city-vs-wolves.md) · 1X2: 3.25 / 3.50 / 2.10
 - 21:00 · Copa del Rey · [Badajoz – Tenerife](informes/2026-11-04_badajoz-vs-tenerife.md) · 1X2: 5.75 / 4.00 / 1.57
 
 ## Jueves 05/11
@@ -132,7 +132,7 @@ _Actualizado el 01/11/2026 02:15 (hora España). Partidos guardados en la base d
 - 20:45 · Ligue 1 · [Toulouse – Strasbourg](informes/2026-11-06_toulouse-vs-strasbourg.md) · 1X2: 2.00 / 3.70 / 3.25
 - 21:00 · LaLiga · [Sevilla – Alaves](informes/2026-11-06_sevilla-vs-alaves.md) · 1X2: 2.05 / 3.30 / 3.60
 - 21:00 · Premier League · [Everton – Coventry](informes/2026-11-06_everton-vs-coventry.md) · 1X2: 1.70 / 3.90 / 4.33
-- 21:00 · Championship · [Derby – Bolton](informes/2026-11-06_derby-vs-bolton.md)
+- 21:00 · Championship · [Derby – Bolton](informes/2026-11-06_derby-vs-bolton.md) · 1X2: 2.15 / 3.50 / 3.00
 - 21:45 · Primeira Liga · [Famalicao – Arouca](informes/2026-11-06_famalicao-vs-arouca.md)
 
 ## Sábado 07/11

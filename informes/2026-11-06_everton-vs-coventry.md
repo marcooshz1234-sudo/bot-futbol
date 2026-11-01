@@ -1,10 +1,10 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 07:55_
+_Actualizadas: 01/11 08:01_
 
 - **1X2:** 1 **1.70**  ·  X **3.90**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **2.10**

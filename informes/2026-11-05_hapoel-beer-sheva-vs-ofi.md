@@ -1,7 +1,7 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_

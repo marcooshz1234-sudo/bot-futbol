@@ -1,7 +1,7 @@
 # Strasbourg – Auxerre
 **Ligue 1** · Regular Season - 9 · 01/11/2026 15:00 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:12_

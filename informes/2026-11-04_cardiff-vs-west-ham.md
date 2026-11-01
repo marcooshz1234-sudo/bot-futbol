@@ -1,10 +1,51 @@
 # Cardiff – West Ham
 **Championship** · Regular Season - 14 · 04/11/2026 20:45 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 01/11 08:00_
+
+- **1X2:** 1 **3.60**  ·  X **4.00**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.22**  ·  X2 **1.28**
+- **Ambos marcan:** Sí **1.36**  ·  No **3.00**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.36** · menos **3.20**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.62**  ·  2 **2.30**
+- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.20**
+- **Win Both Halves:** 1 **13.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **2.88**  ·  Home/No **10.00**  ·  Draw/No **26.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **4.00**
+- **Home Player Shots On Target Total:** Rubin Colwill - 1 **1.67**  ·  Yousef Salech - 1 **1.30**  ·  Callum Robinson - 1 **1.40**  ·  Isaak Davies - 1 **1.50**  ·  Chris Willock - 1 **1.57**  ·  Jack Moylan - 1 **1.50**  ·  Cian Ashford - 1 **1.67**  ·  Alex Robertson - 1 **3.00**  ·  David Turnbull - 1 **1.83**  ·  Joel Colwill - 1 **1.83**  ·  Ollie Tanner - 1 **1.73**  ·  Rob Tankiewicz - 1 **2.25**  ·  Perry Ng - 1 **3.25**  ·  Calum Scanlon - 1 **4.33**  ·  Dylan Lawlor - 1 **3.75**  ·  Gabriel Osho - 1 **4.33**  ·  Joel Bagan - 1 **3.75**  ·  Ronan Kpakio - 1 **3.40**  ·  Rubin Colwill - 2 **4.33**  ·  Yousef Salech - 2 **2.38**  ·  Callum Robinson - 2 **3.00**  ·  Isaak Davies - 2 **3.50**  ·  Chris Willock - 2 **3.75**  ·  Jack Moylan - 2 **3.50**  ·  Cian Ashford - 2 **4.33**  ·  Alex Robertson - 2 **13.00**  ·  David Turnbull - 2 **6.00**  ·  Joel Colwill - 2 **6.00**  ·  Ollie Tanner - 2 **4.50**  ·  Rob Tankiewicz - 2 **9.00**  ·  Perry Ng - 2 **15.00**  ·  Calum Scanlon - 2 **21.00**  ·  Dylan Lawlor - 2 **19.00**  ·  Gabriel Osho - 2 **21.00**  ·  Joel Bagan - 2 **19.00**  ·  Ronan Kpakio - 2 **17.00**  ·  Rubin Colwill - 3 **13.00**  ·  Yousef Salech - 3 **5.50**  ·  Callum Robinson - 3 **8.00**  ·  Isaak Davies - 3 **10.00**  ·  Chris Willock - 3 **13.00**  ·  Jack Moylan - 3 **10.00**  ·  Cian Ashford - 3 **13.00**  ·  David Turnbull - 3 **21.00**  ·  Joel Colwill - 3 **21.00**  ·  Ollie Tanner - 3 **15.00**  ·  Yousef Salech - 4 **15.00**  ·  Callum Robinson - 4 **21.00**  ·  Krystian Bielik - 1 **3.25**  ·  Krystian Bielik - 2 **15.00**  ·  Noah Williams - 1 **3.75**  ·  Noah Williams - 2 **19.00**  ·  Charlie Holt - 1 **2.10**  ·  Charlie Holt - 2 **7.00**  ·  Charlie Holt - 3 **21.00**
+- **Away Player Shots On Target Total:** Taty Castellanos **6.00**  ·  Arne Engels **41.00**  ·  Jack Moylan **29.00**  ·  Manor Solomon **29.00**  ·  Tomas Soucek **8.00**  ·  Joel Colwill **21.00**  ·  Krystian Bielik **23.00**  ·  Mohamadou Kante **13.00**  ·  Airidas Golambeckis **10.00**  ·  Divine Mukasa **34.00**  ·  Callum Robinson **11.00**  ·  Joel Piroe **21.00**  ·  Alex Robertson **51.00**  ·  Chris Willock **41.00**  ·  Cian Ashford **34.00**  ·  David Turnbull **41.00**  ·  Joel Bagan **41.00**  ·  Ollie Tanner **34.00**  ·  Perry Ng **21.00**  ·  Ronan Kpakio **81.00**  ·  Rubin Colwill **23.00**  ·  Gabriel Osho **23.00**  ·  Soungoutou Magassa **41.00**  ·  Calum Scanlon **51.00**  ·  Max Kilman **15.00**  ·  Joel Veltman **23.00**  ·  Edvin Austbo **15.00**  ·  Yousef Salech **7.50**  ·  Joshua Ajala **11.00**  ·  Kyle Walker-Peters **81.00**  ·  Jarrod Bowen **11.00**  ·  Konstantinos Mavropanos **8.50**  ·  Pablo Felipe **12.00**  ·  Felipe Morato **17.00**  ·  Oliver Scarles **21.00**  ·  Adama Boiro **67.00**  ·  Lewis Orford **26.00**  ·  Isaak Davies **15.00**  ·  Dylan Lawlor **15.00**
+- **Home Player Shots:** Rubin Colwill - 1 **1.10**  ·  Yousef Salech - 1 **1.02**  ·  Callum Robinson - 1 **1.04**  ·  Isaak Davies - 1 **1.06**  ·  Chris Willock - 1 **1.08**  ·  Jack Moylan - 1 **1.06**  ·  Cian Ashford - 1 **1.10**  ·  Alex Robertson - 1 **1.44**  ·  David Turnbull - 1 **1.17**  ·  Joel Colwill - 1 **1.17**  ·  Ollie Tanner - 1 **1.11**  ·  Rob Tankiewicz - 1 **1.25**  ·  Perry Ng - 1 **1.53**  ·  Calum Scanlon - 1 **2.00**  ·  Dylan Lawlor - 1 **1.80**  ·  Gabriel Osho - 1 **2.00**  ·  Joel Bagan - 1 **1.80**  ·  Ronan Kpakio - 1 **1.62**  ·  Rubin Colwill - 2 **1.44**  ·  Yousef Salech - 2 **1.17**  ·  Callum Robinson - 2 **1.22**  ·  Isaak Davies - 2 **1.33**  ·  Chris Willock - 2 **1.40**  ·  Jack Moylan - 2 **1.33**  ·  Cian Ashford - 2 **1.44**  ·  Alex Robertson - 2 **3.00**  ·  David Turnbull - 2 **1.67**  ·  Joel Colwill - 2 **1.67**  ·  Ollie Tanner - 2 **1.53**  ·  Rob Tankiewicz - 2 **2.10**  ·  Perry Ng - 2 **3.40**  ·  Calum Scanlon - 2 **5.50**  ·  Dylan Lawlor - 2 **4.33**  ·  Gabriel Osho - 2 **5.50**  ·  Joel Bagan - 2 **4.33**  ·  Ronan Kpakio - 2 **3.75**  ·  Rubin Colwill - 3 **2.25**  ·  Yousef Salech - 3 **1.50**  ·  Callum Robinson - 3 **1.67**  ·  Isaak Davies - 3 **1.91**  ·  Chris Willock - 3 **2.10**  ·  Jack Moylan - 3 **1.91**  ·  Cian Ashford - 3 **2.25**  ·  Alex Robertson - 3 **7.00**  ·  David Turnbull - 3 **3.00**  ·  Joel Colwill - 3 **3.00**  ·  Ollie Tanner - 3 **2.50**  ·  Rob Tankiewicz - 3 **4.33**  ·  Perry Ng - 3 **8.00**  ·  Calum Scanlon - 3 **17.00**  ·  Dylan Lawlor - 3 **13.00**  ·  Gabriel Osho - 3 **17.00**  ·  Joel Bagan - 3 **13.00**  ·  Ronan Kpakio - 3 **11.00**  ·  Rubin Colwill - 4 **4.00**  ·  Yousef Salech - 4 **2.10**  ·  Callum Robinson - 4 **2.62**  ·  Isaak Davies - 4 **3.25**  ·  Chris Willock - 4 **3.75**  ·  Jack Moylan - 4 **3.25**  ·  Cian Ashford - 4 **4.00**  ·  Alex Robertson - 4 **19.00**  ·  David Turnbull - 4 **6.00**  ·  Joel Colwill - 4 **6.00**  ·  Ollie Tanner - 4 **4.50**  ·  Rob Tankiewicz - 4 **10.00**  ·  Perry Ng - 4 **21.00**  ·  Rubin Colwill - 5 **9.00**  ·  Yousef Salech - 5 **3.50**  ·  Callum Robinson - 5 **4.50**  ·  Isaak Davies - 5 **6.00**  ·  Chris Willock - 5 **7.00**  ·  Jack Moylan - 5 **6.00**  ·  Cian Ashford - 5 **9.00**  ·  David Turnbull - 5 **13.00**  ·  Joel Colwill - 5 **13.00**  ·  Ollie Tanner - 5 **10.00**  ·  Rubin Colwill - 6 **17.00**  ·  Yousef Salech - 6 **6.00**  ·  Callum Robinson - 6 **9.00**  ·  Isaak Davies - 6 **11.00**  ·  Chris Willock - 6 **15.00**  ·  Jack Moylan - 6 **11.00**  ·  Cian Ashford - 6 **17.00**  ·  David Turnbull - 6 **21.00**  ·  Yousef Salech - 7 **11.00**  ·  Callum Robinson - 7 **17.00**  ·  Isaak Davies - 7 **21.00**  ·  Yousef Salech - 8 **21.00**  ·  Ollie Tanner - 6 **19.00**  ·  Jack Moylan - 7 **21.00**  ·  Krystian Bielik - 1 **1.53**  ·  Krystian Bielik - 2 **3.40**  ·  Krystian Bielik - 3 **8.00**  ·  Joel Colwill - 6 **21.00**  ·  Chris Willock - 7 **21.00**  ·  Rob Tankiewicz - 5 **21.00**  ·  Krystian Bielik - 4 **21.00**  ·  Noah Williams - 1 **1.80**  ·  Noah Williams - 2 **4.33**  ·  Noah Williams - 3 **13.00**  ·  Ronan Kpakio - 4 **21.00**  ·  Charlie Holt - 1 **1.20**  ·  Charlie Holt - 2 **1.83**  ·  Charlie Holt - 3 **3.50**  ·  Charlie Holt - 4 **8.00**  ·  Charlie Holt - 5 **17.00**
+- **Away Player Shots:** Felipe Morato - 1 **1.80**  ·  Felipe Morato - 2 **4.33**  ·  Felipe Morato - 3 **13.00**  ·  Jarrod Bowen - 1 **1.01**  ·  Joel Piroe - 1 **1.02**  ·  Taty Castellanos - 1 **1.02**  ·  Joshua Ajala - 1 **1.02**  ·  Pablo Felipe - 1 **1.04**  ·  Manor Solomon - 1 **1.11**  ·  Arne Engels - 1 **1.17**  ·  Divine Mukasa - 1 **1.11**  ·  Lewis Orford - 1 **1.17**  ·  Mohamadou Kante - 1 **1.08**  ·  Soungoutou Magassa - 1 **1.53**  ·  Airidas Golambeckis - 1 **1.53**  ·  Konstantinos Mavropanos - 1 **1.25**  ·  Kyle Walker-Peters - 1 **1.80**  ·  Oliver Scarles - 1 **1.53**  ·  Max Kilman - 1 **1.80**  ·  Joel Veltman - 1 **2.00**  ·  Jarrod Bowen - 2 **1.10**  ·  Joel Piroe - 2 **1.14**  ·  Taty Castellanos - 2 **1.17**  ·  Joshua Ajala - 2 **1.17**  ·  Pablo Felipe - 2 **1.22**  ·  Manor Solomon - 2 **1.53**  ·  Arne Engels - 2 **1.67**  ·  Divine Mukasa - 2 **1.53**  ·  Lewis Orford - 2 **1.67**  ·  Mohamadou Kante - 2 **1.40**  ·  Soungoutou Magassa - 2 **3.40**  ·  Airidas Golambeckis - 2 **3.40**  ·  Konstantinos Mavropanos - 2 **2.10**  ·  Kyle Walker-Peters - 2 **4.33**  ·  Oliver Scarles - 2 **3.40**  ·  Max Kilman - 2 **4.33**  ·  Joel Veltman - 2 **5.50**  ·  Jarrod Bowen - 3 **1.30**  ·  Joel Piroe - 3 **1.40**  ·  Taty Castellanos - 3 **1.50**  ·  Joshua Ajala - 3 **1.50**  ·  Pablo Felipe - 3 **1.67**  ·  Manor Solomon - 3 **2.50**  ·  Arne Engels - 3 **3.00**  ·  Divine Mukasa - 3 **2.50**  ·  Lewis Orford - 3 **3.00**  ·  Mohamadou Kante - 3 **2.10**  ·  Soungoutou Magassa - 3 **8.00**  ·  Airidas Golambeckis - 3 **8.00**  ·  Konstantinos Mavropanos - 3 **4.33**  ·  Kyle Walker-Peters - 3 **13.00**  ·  Oliver Scarles - 3 **8.00**  ·  Max Kilman - 3 **13.00**  ·  Joel Veltman - 3 **17.00**  ·  Jarrod Bowen - 4 **1.73**  ·  Joel Piroe - 4 **2.00**  ·  Taty Castellanos - 4 **2.10**  ·  Joshua Ajala - 4 **2.10**  ·  Pablo Felipe - 4 **2.62**  ·  Manor Solomon - 4 **4.50**  ·  Arne Engels - 4 **6.00**  ·  Divine Mukasa - 4 **4.50**  ·  Lewis Orford - 4 **6.00**  ·  Mohamadou Kante - 4 **3.75**  ·  Soungoutou Magassa - 4 **21.00**  ·  Jarrod Bowen - 5 **2.62**  ·  Joel Piroe - 5 **3.25**  ·  Taty Castellanos - 5 **3.50**  ·  Joshua Ajala - 5 **3.50**  ·  Pablo Felipe - 5 **4.50**  ·  Manor Solomon - 5 **10.00**  ·  Arne Engels - 5 **13.00**  ·  Divine Mukasa - 5 **10.00**  ·  Lewis Orford - 5 **13.00**  ·  Mohamadou Kante - 5 **7.00**  ·  Jarrod Bowen - 6 **4.00**  ·  Joel Piroe - 6 **5.50**  ·  Taty Castellanos - 6 **6.00**  ·  Joshua Ajala - 6 **6.00**  ·  Pablo Felipe - 6 **9.00**  ·  Manor Solomon - 6 **19.00**  ·  Arne Engels - 6 **21.00**  ·  Divine Mukasa - 6 **19.00**  ·  Jarrod Bowen - 7 **7.00**  ·  Joel Piroe - 7 **10.00**  ·  Taty Castellanos - 7 **11.00**  ·  Joshua Ajala - 7 **11.00**  ·  Pablo Felipe - 7 **17.00**  ·  Jarrod Bowen - 8 **13.00**  ·  Joel Piroe - 8 **19.00**  ·  Taty Castellanos - 8 **21.00**  ·  Joshua Ajala - 8 **21.00**  ·  Jarrod Bowen - 9 **21.00**  ·  Adama Boiro - 1 **1.53**  ·  Adama Boiro - 2 **3.40**  ·  Adama Boiro - 3 **8.00**  ·  Felipe Morato - 4 **21.00**  ·  Lewis Orford - 6 **21.00**  ·  Mohamadou Kante - 6 **15.00**  ·  Airidas Golambeckis - 4 **21.00**  ·  Konstantinos Mavropanos - 4 **10.00**  ·  Kyle Walker-Peters - 4 **21.00**  ·  Oliver Scarles - 4 **21.00**  ·  Adama Boiro - 4 **21.00**  ·  Pablo Felipe - 8 **21.00**  ·  Edvin Austbo - 1 **1.05**  ·  Edvin Austbo - 2 **1.25**  ·  Edvin Austbo - 3 **1.73**  ·  Edvin Austbo - 4 **2.75**  ·  Edvin Austbo - 5 **5.00**  ·  Edvin Austbo - 6 **10.00**  ·  Edvin Austbo - 7 **19.00**  ·  Konstantinos Mavropanos - 5 **21.00**  ·  Mohamadou Kante - 7 **21.00**  ·  Tomas Soucek - 1 **1.08**  ·  Tomas Soucek - 2 **1.40**  ·  Tomas Soucek - 3 **2.20**  ·  Tomas Soucek - 4 **3.75**  ·  Tomas Soucek - 5 **8.00**  ·  Tomas Soucek - 6 **15.00**  ·  Max Kilman - 4 **21.00**  ·  Tomas Soucek - 7 **21.00**
+- **Anytime Goal Scorer:** Taty Castellanos **2.38**  ·  Arne Engels **4.50**  ·  Jack Moylan **3.20**  ·  Manor Solomon **4.00**  ·  Tomas Soucek **4.00**  ·  Joel Colwill **4.50**  ·  Krystian Bielik **7.50**  ·  Mohamadou Kante **3.50**  ·  Airidas Golambeckis **7.50**  ·  Divine Mukasa **4.00**  ·  Rob Tankiewicz **5.50**  ·  Callum Robinson **2.75**  ·  Joel Piroe **2.25**  ·  Alex Robertson **7.00**  ·  Chris Willock **3.50**  ·  Cian Ashford **3.75**  ·  David Turnbull **4.50**  ·  Joel Bagan **10.00**  ·  Ollie Tanner **4.00**  ·  Perry Ng **7.50**  ·  Ronan Kpakio **8.50**  ·  Rubin Colwill **3.75**  ·  Gabriel Osho **12.00**  ·  Soungoutou Magassa **7.50**  ·  Calum Scanlon **12.00**  ·  Max Kilman **10.00**  ·  Joel Veltman **12.00**  ·  Edvin Austbo **2.88**  ·  Yousef Salech **2.38**  ·  Noah Williams **10.00**  ·  Joshua Ajala **2.38**  ·  Charlie Holt **5.00**  ·  Kyle Walker-Peters **10.00**  ·  Jarrod Bowen **2.25**  ·  Konstantinos Mavropanos **5.50**  ·  Pablo Felipe **2.75**  ·  Felipe Morato **10.00**  ·  Oliver Scarles **7.50**  ·  Adama Boiro **7.50**  ·  Lewis Orford **4.50**  ·  Isaak Davies **3.20**  ·  Dylan Lawlor **10.00**
+- **Player to Score or Assist:** Taty Castellanos **1.80**  ·  Arne Engels **2.40**  ·  Jack Moylan **2.20**  ·  Manor Solomon **2.10**  ·  Tomas Soucek **2.75**  ·  Joel Colwill **2.62**  ·  Krystian Bielik **5.00**  ·  Mohamadou Kante **2.30**  ·  Airidas Golambeckis **5.50**  ·  Divine Mukasa **2.30**  ·  Rob Tankiewicz **3.10**  ·  Callum Robinson **2.00**  ·  Joel Piroe **1.83**  ·  Alex Robertson **3.25**  ·  Chris Willock **2.30**  ·  Cian Ashford **2.30**  ·  David Turnbull **2.75**  ·  Joel Bagan **4.75**  ·  Ollie Tanner **2.50**  ·  Perry Ng **4.50**  ·  Ronan Kpakio **3.10**  ·  Rubin Colwill **2.30**  ·  Gabriel Osho **6.50**  ·  Soungoutou Magassa **3.75**  ·  Calum Scanlon **6.50**  ·  Max Kilman **6.50**  ·  Joel Veltman **4.33**  ·  Edvin Austbo **1.95**  ·  Yousef Salech **1.83**  ·  Noah Williams **6.00**  ·  Joshua Ajala **1.91**  ·  Charlie Holt **2.62**  ·  Kyle Walker-Peters **3.75**  ·  Jarrod Bowen **1.57**  ·  Konstantinos Mavropanos **4.75**  ·  Pablo Felipe **1.91**  ·  Felipe Morato **5.00**  ·  Oliver Scarles **3.40**  ·  Adama Boiro **4.33**  ·  Lewis Orford **2.50**  ·  Isaak Davies **2.60**  ·  Dylan Lawlor **6.50**
 
 ## Estadísticas de equipo
 | | Cardiff (total) | Cardiff en casa | West Ham (total) | West Ham fuera |
@@ -141,4 +182,42 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,72 · visitante 2,49 · córners esperados 10,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 55% | 51% | 53% | 1.85 | -2% |
+| 1X2: X | 19% | 23% | 21% | 4.00 | -15% |
+| 1X2: 1 | 26% | 26% | 26% | 3.60 | -6% |
+| Doble oportunidad: X2 | 74% | 72% | 73% | 1.28 | -6% |
+| Doble oportunidad: 12 | 81% | 76% | 79% | 1.22 | -4% |
+| Doble oportunidad: 1X | 45% | 52% | 48% | 1.80 | -13% |
+| Ambos marcan: No | 25% | 31% | 28% | 3.00 | -16% |
+| Ambos marcan: Sí | 75% | 69% | 72% | 1.36 | -2% |
+| Goles más/menos: Más de 2.5 | 79% | 70% | 75% | 1.36 | +2% |
+| Goles más/menos: Más de 3.5 | 61% | 50% | 55% | 1.91 | +6% |
+| Goles más/menos: Más de 4.5 | 41% | 30% | 36% | 3.20 | +14% |
+| Goles más/menos: Menos de 2.5 | 21% | 30% | 25% | 3.20 | -19% |
+| Goles más/menos: Menos de 3.5 | 39% | 50% | 45% | 1.91 | -15% |
+| Goles más/menos: Menos de 4.5 | 59% | 70% | 64% | 1.36 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 84% | 78% | 81% | 1.20 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 49% | 52% | 1.91 | -2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 28% | 23% | 26% | 4.00 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 22% | 19% | 4.33 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 72% | 77% | 74% | 1.22 | -9% |
+| Goles del local: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles del local: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
+| Goles del local: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
+| Goles del local: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles del local: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
+| Goles del local: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
+| Goles del visitante: Más de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
+| Goles del visitante: Más de 2.5 | 45% | 35% | 40% | 2.62 | +6% |
+| Goles del visitante: Menos de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del visitante: Menos de 2.5 | 55% | 65% | 60% | 1.44 | -14% |
+| 1X2 descanso: 2 | 43% | 40% | 41% | 2.30 | -5% |
+| 1X2 descanso: X | 32% | 35% | 33% | 2.62 | -13% |
+| 1X2 descanso: 1 | 25% | 25% | 25% | 3.60 | -9% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Arsenal – Hull City
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_

@@ -1,7 +1,7 @@
 # PSV Eindhoven – Club Brugge KV
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:49_

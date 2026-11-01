@@ -1,7 +1,7 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_

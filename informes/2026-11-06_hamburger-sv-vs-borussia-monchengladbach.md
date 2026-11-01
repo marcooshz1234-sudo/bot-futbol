@@ -1,10 +1,10 @@
 # Hamburger SV – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 9 · 06/11/2026 20:30 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 07:55_
+_Actualizadas: 01/11 08:01_
 
 - **1X2:** 1 **2.25**  ·  X **3.70**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.62**
@@ -12,8 +12,8 @@ _Actualizadas: 31/10 07:55_
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.38** · menos **1.57**
-    - 4,5: más **4.33** · menos **1.22**
+    - 3,5: más **2.30** · menos **1.62**
+    - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
@@ -195,11 +195,11 @@ _Goles esperados: local 1,56 · visitante 1,49 · córners esperados 9,3._
 | Ambos marcan: No | 39% | 38% | 38% | 2.50 | -5% |
 | Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -7% |
 | Goles más/menos: Más de 2.5 | 59% | 60% | 60% | 1.57 | -7% |
-| Goles más/menos: Más de 3.5 | 36% | 40% | 38% | 2.38 | -9% |
-| Goles más/menos: Más de 4.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
+| Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -14% |
 | Goles más/menos: Menos de 2.5 | 41% | 40% | 40% | 2.38 | -4% |
-| Goles más/menos: Menos de 3.5 | 64% | 60% | 62% | 1.57 | -3% |
-| Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
+| Goles más/menos: Menos de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
+| Goles más/menos: Menos de 4.5 | 81% | 76% | 78% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -7% |

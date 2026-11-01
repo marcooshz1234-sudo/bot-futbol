@@ -1,7 +1,7 @@
 # Sassuolo – Fiorentina
 **Serie A** · Regular Season - 10 · 02/11/2026 18:30 (hora España) · Mapei Stadium – Città del Tricolore
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:13_

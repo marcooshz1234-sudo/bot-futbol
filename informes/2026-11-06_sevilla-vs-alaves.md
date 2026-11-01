@@ -1,10 +1,10 @@
 # Sevilla – Alaves
 **LaLiga** · Regular Season - 12 · 06/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 08:02._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 07:55_
+_Actualizadas: 01/11 08:01_
 
 - **1X2:** 1 **2.05**  ·  X **3.30**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.33**  ·  X2 **1.73**

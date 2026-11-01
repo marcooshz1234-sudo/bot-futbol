@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-01 02:15 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-01 08:02 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Domingo 01/11
 
@@ -69,6 +69,8 @@ _Generado el 2026-11-01 02:15 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 20:45 | Middlesbrough o empate | resultado | 1.28 | 80% | Wrexham 7/10 · Middlesbrough 9/10 |
+| 20:45 | West Ham gana alguna de las dos partes | resultado | 1.44 | 75% | Cardiff 7/10 · West Ham 8/10 |
 | 21:00 | Gana el Como | resultado | 2.20 | 65% | Lens 6/10 · Como 7/10 |
 
 ## Jueves 05/11
