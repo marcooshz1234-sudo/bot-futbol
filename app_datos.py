@@ -90,6 +90,11 @@ def estado_seleccion(p, d, registro=None):
 SUBEN = ("Over", "Yes")   # mercados que, una vez cumplidos, ya no se pueden perder
 
 
+SINGULAR = {"goles": "gol", "córners": "córner", "tarjetas": "tarjeta", "amarillas": "amarilla", "tiros a puerta": "tiro a puerta",
+            "tiros": "tiro", "faltas": "falta", "fueras de juego": "fuera de juego", "paradas": "parada",
+            "equipos que marcan": "equipo que marca", "goles o asist.": "gol o asist."}
+
+
 def progreso_sel(mercado, opcion, d):
     """28/10: barra de progreso de una pata guardada como partido|mercado|opción (antes salía siempre vacía)."""
     import picks as P
@@ -110,14 +115,15 @@ def progreso_sel(mercado, opcion, d):
     def barra(valor, objetivo, unidad):
         if valor is None:
             return None
-        if objetivo == 1 and unidad == "goles":
-            unidad = "gol"
-        txt = (f"{valor:g} {unidad} · cumplido ✅" if valor >= objetivo else f"{valor:g} de {objetivo:g} {unidad}")
+        # 01/11 (Marcos): «1 falta», «1 tiro», no «1 faltas» (manda el número que va justo delante)
+        cuenta = valor if valor >= objetivo else objetivo
+        uni = SINGULAR.get(unidad, unidad) if cuenta == 1 else unidad
+        txt = (f"{valor:g} {uni} · cumplido ✅" if valor >= objetivo else f"{valor:g} de {objetivo:g} {uni}")
         return {"actual": valor, "objetivo": objetivo, "unidad": unidad, "texto": txt,
                 "porcentaje": min(100, round(100 * valor / objetivo)) if objetivo else 0}
 
     unidades = {"corners": "córners", "tarjetas": "tarjetas", "amarillas": "amarillas", "a_puerta": "tiros a puerta",
-                "tiros": "tiros", "faltas": "faltas", "fueras_juego": "fueras de juego", "paradas": "paradas"}
+                "tiros": "tiros", "faltas": "faltas", "faltas_c": "faltas", "fueras_juego": "fueras de juego", "paradas": "paradas"}
     # jugadores (tiros, a puerta, faltas, paradas, goles)
     if mercado in P.JUG_MERCADOS:
         campo = P.JUG_MERCADOS[mercado][0]
@@ -125,11 +131,17 @@ def progreso_sel(mercado, opcion, d):
         cand = [j for l in (d.get("jugadores") or {}).values() for j in l if P.mismo_jugador(nombre, j.get("nombre"))]
         if len(cand) != 1 or not cand[0].get("min") or campo not in unidades and campo not in ("goles", "gol_o_asist", "amarillas"):
             return None
-        valor = cand[0].get(campo) if campo != "gol_o_asist" else (cand[0].get("goles") or 0) + (cand[0].get("asist") or 0)
+        dato = lambda x: x.get(campo) if campo != "gol_o_asist" else (x.get("goles") or 0) + (x.get("asist") or 0)
+        valor = dato(cand[0])
         sus = P.sustituto_de(d, cand[0])
-        if sus and campo != "gol_o_asist" and sus.get(campo) is not None and valor is not None:
-            valor += sus[campo]
-        return barra(valor, int(float(n)), {"faltas_c": "faltas", "goles": "goles", "gol_o_asist": "goles o asist."}.get(campo, unidades.get(campo, campo)))
+        if sus and dato(sus) is not None and valor is not None:
+            valor += dato(sus)
+        else:
+            sus = None
+        b = barra(valor, int(float(n)), {"goles": "goles", "gol_o_asist": "goles o asist."}.get(campo, unidades.get(campo, campo)))
+        if b and sus and dato(sus):   # 01/11 (Marcos): lo que hace el que entra por él también cuenta; que se vea en la app
+            b["texto"] += f" (con {sus.get('nombre')}, que entró por él)"
+        return b
     # estadísticas «más de» del partido o de un equipo
     if mercado in P.STATS_OU and o.startswith("Over "):
         campo, ambito = P.STATS_OU[mercado]
@@ -912,6 +924,13 @@ def main():
         lista = bool(re.search(r"QUIÉN GANA|RESULTADOS EXACTOS|PICKS PARA|OPCIONES|RACHAS|DATOS PARA", filas and p["texto"].splitlines()[0].upper() or ""))
         publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
                                "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
+
+    # 01/11 (Marcos): mis combis (docs/mis/datos.json), con el mismo Confirmador para que no se pisen
+    try:
+        import mis_datos
+        mis_datos.main(ahora, conf, directo, conocidos, partidos, dias, ayer, hoy, manana)
+    except Exception as e:
+        print("mis combis:", str(e)[:150])
 
     conf.guardar()
 

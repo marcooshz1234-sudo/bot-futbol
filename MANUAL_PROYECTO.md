@@ -5,7 +5,7 @@
 > mantenerlo y los errores que ya pasaron y no pueden repetirse. Si algo de lo que vas a hacer
 > contradice este documento, pregunta a Marcos antes.
 >
-> Última actualización: 27/10/2026. Copia de este archivo en el repositorio: `MANUAL_PROYECTO.md`.
+> Última actualización: 01/11/2026. Copia de este archivo en el repositorio: `MANUAL_PROYECTO.md`.
 
 ---
 
@@ -29,6 +29,8 @@ a su hora, en todas las redes a la vez.
 | **El Analista** | El bot: datos, picks, combis, posts | Repositorio GitHub `marcooshz1234-sudo/bot-futbol` (público), se ejecuta en GitHub Actions |
 | **El Publicador** | Bot de Telegram `@combilocas_publica_bot`: asistente en el móvil de Marcos | `asistente.py`, workflow `asistente.yml` |
 | **La app** | Panel web con picks, combis publicadas, resultados en directo, estadísticas | `docs/` (GitHub Pages), datos en `docs/datos.json` |
+| **Mis combis** | App solo para Marcos: sus combis pata a pata en directo, picks del bot, partidos del día e historial | `docs/mis/` (GitHub Pages), datos en `docs/mis/datos.json` (los genera `mis_datos.py`) |
+| **El widget** | Widget de Scriptable en el iPhone: sus combis en juego (o los seguidores con el parámetro «seguidores») | `widget/combilocas_widget.js` (se actualiza solo desde GitHub) |
 | ~~El Bot Asesor~~ | IA local en el Mac (Ollama + AnythingLLM) | Descartado el 22/10, no se usa |
 
 El repositorio es **público** a propósito: así los minutos de GitHub Actions son gratis e ilimitados.
@@ -195,7 +197,8 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 8. Los picks se eligen por **lo probable que es que pase**, no solo por «valor» («cosas que vayan a pasar»).
 9. **Ganador del partido** es de los mercados más importantes. En las 5 grandes ligas bet365 lo da por
    ganado si el equipo se pone 2 goles arriba («2 goles de ventaja»). En jugadores, si lo cambian,
-   cuenta lo que haga el que entra (Sustituto+).
+   cuenta lo que haga el que entra (Sustituto+): tiros, tiros a puerta, faltas, paradas, tarjetas y también
+   «marca o da asistencia» (desde el 01/11, como el «Sub On Play On» de bet365). La app dice «con X, que entró por él».
 9 bis. **Todo se cierra a los 90 minutos (más el descuento). La prórroga y los penaltis NO cuentan** para ningún
    mercado: ganador, «gana alguna de las dos partes», goles, ambos marcan, «2 goles de ventaja», córners, tarjetas,
    tiros, faltas, jugadores… (regla de Marcos, 27/10). Solo contaría la prórroga en un mercado de «se clasifica»
@@ -369,7 +372,12 @@ Se corrige solo con los resultados y el día siguiente pone si se superó el esc
 | `boleto_foto.py`, `boleto_patas.py` | Recorte del dinero + lectura de la cuota y de las patas de capturas de bet365 |
 | `cuotas_frescas.py` | Antes de publicar, actualiza cuotas que han cambiado (y la cuota total real) |
 | `alineaciones_posts.py` | Quita de los posts a jugadores que no son titulares |
-| `app_datos.py` | Datos de la app (`docs/datos.json`) |
+| `app_datos.py` | Datos de la app (`docs/datos.json`); en cada vuelta llama a `panel_datos.py` y `mis_datos.py` |
+| `mis_datos.py` | Datos de **Mis combis** (`docs/mis/datos.json`): combis de `datos/mis_combis.json`, probabilidad que les queda, picks, partidos, % por tipo de pata |
+| `docs/mis/index.html` | App **Mis combis** (pestañas Combis, Picks, Partidos, Historial) |
+| `widget/combilocas_widget.js` | Widget de Scriptable (mis combis en juego; parámetro «seguidores» / «escalera» = el de antes) |
+| `datos/mis_combis.json` | Las combis de Marcos (las que sigue la app Mis combis) |
+| `datos/apuestas_marcos.json` | 157 patas de apuestas reales de Marcos (13–17 oct) con acierto/fallo, para el historial por tipo |
 | `publicaciones/auto.json` | Posts que genera el bot (su estado en `enviados.json` y `enviados_redes.json`) |
 | `publicaciones/cola.json` | Posts a mano / verdes / boletos (estado dentro) |
 | `publicaciones/control.json` | Cancelados, pausa y textos cambiados desde el móvil |
@@ -382,6 +390,42 @@ Se corrige solo con los resultados y el día siguiente pone si se superó el esc
 Cada combi lleva `sel` = lista de `"partido_id|mercado|opción"` y `cuotas` = cuota de cada pata.
 Con eso la app sabe cómo va cada pata y `verdes_auto.py` sabe cuándo es verde. **Un post de combi sin
 `sel` no se puede seguir** → siempre hay que guardarlo.
+
+### Mis combis (app solo para Marcos, desde el 01/11)
+- **Qué es**: `docs/mis/index.html`, con el estilo del panel (azul marino). Pestañas:
+  - **Combis**: ayer, hoy y mañana juntos; cada día con su contador (acertadas / falladas / por jugar). Cada pata con
+    el motor de siempre (`fila_sel` + `confirmar.py`): pendiente, va bien, va mal, comprobando, verde, roja, anulada,
+    marcador, minuto y barra de progreso. Combi de un solo partido: el marcador va arriba.
+  - **Picks**: todos los picks del bot del día + las patas de sus combis («🎟️ Tu combi»), por hora de comienzo.
+  - **Partidos**: todos los partidos de ayer, hoy y mañana de nuestras ligas (`COMPETICIONES`), aunque no haya pick.
+  - **Historial**: días anteriores, verdes/rojas y **% de acierto por tipo de pata** (goles, resultado, córners,
+    jugadores, tarjetas, tiros) con sus patas resueltas + `datos/apuestas_marcos.json`, y top 3 de lo que más acierta/falla.
+- **Sin dinero.** Nada de sus combis va a `docs/datos.json` ni a `docs/publica/` (`copia_publica()` solo copia
+  `docs/index.html`; no meter nada de `docs/mis` ahí). Ojo: el repo es público, así que quien tenga el enlace la ve.
+- **Datos**: `mis_datos.py`, llamado por `app_datos.py` en cada vuelta (~3 min) con el **mismo** `Confirmador`
+  (si se usara otro, se pisarían el estado de `datos/confirmar.json`). Los workflows ya hacen `git add -A docs`.
+  Las combis de antes de ayer no pasan por `confirmar.py` (solo guarda 36 h).
+- **Para añadir una combi**: añadirla a `datos/mis_combis.json` con `id`, `fecha` (hora del partido, `AAAA-MM-DDTHH:MM`),
+  `titulo`, `cuota` (la de bet365), `sel` (`"partido_id|mercado|opción"`, igual que los posts) y `cuotas` (una por pata).
+  Sin `sel`/`cuotas` del mismo largo no se puede seguir y se salta.
+- **Probabilidad «Le queda un X %» (orientativa, «según el bot»)**: pata verde 100 %, roja 0 %, anulada no cuenta.
+  Sin empezar: `prob_aprendida` del pool de `combis_dia.py` (o de `picks.json`), si no 1/cuota × 0,95; se guarda en
+  `docs/mis/datos.json` («previas») porque las cuotas desaparecen al empezar. En juego: goles y resultado con Poisson
+  sobre los minutos que quedan de cada parte (goles esperados de bet365, `modelo_goles.lambdas`); córners, tiros,
+  tarjetas, faltas y paradas con el ritmo actual llevado a 90 min (al principio pesa más la línea); «más X que…» con lo
+  que lleva cada equipo. La combi multiplica sus patas y **se ajusta con su cuota de bet365** (las patas del mismo
+  partido van juntas): prob = producto ** a, con «a» tal que antes del partido sale 0,95 / cuota (nunca se sube si el
+  bot la ve mejor; a ≥ 0,4). Cuota justa = 1 / prob.
+
+### El widget de Scriptable (`widget/combilocas_widget.js`)
+- En el iPhone hay un cargador corto que baja este archivo de GitHub cada vez: **lo que se sube aquí le llega solo**.
+- Sin parámetro: sus combis de hoy en juego (si no, las que faltan por empezar), con minuto, marcador, «4 de 6» y lo
+  que le queda. Pequeño = 1, mediano = 2, grande = 6. Bloqueo: rectangular (una combi en 3 líneas), redondo (% que le
+  queda), en línea (una frase).
+- **Parámetro** (mantener pulsado → Editar widget → Parameter): un trozo del nombre de un equipo («madrid») = sigue
+  esa combi (si terminó, ✅/❌); «seguidores» = el widget de antes (Threads, Instagram, Telegram; «seguidores instagram»
+  para el redondo de una red); «escalera» = reto escalera (pequeño).
+- Para probarlo sin iPhone: ejecutarlo en Node con una imitación de la API de Scriptable (lo que se hizo el 01/11).
 
 ### El bot del móvil (`@combilocas_publica_bot`)
 - Comandos: `/hoy`, `/picks`, `/manana`, `/combis`, `/editar`, `/borrar`, `/pausa`, `/reanudar`, `/ayuda`.

@@ -848,14 +848,17 @@ def evaluar_pick(pick, partido):
         j = candidatos[0]
         if not j.get("min"):
             return None  # No convertir un jugador sin participación en un acierto o una pérdida.
-        valor = j.get(campo)
-        if valor is not None and valor < n and campo != "gol_o_asist":
+        def dato(x):
+            if campo == "gol_o_asist":
+                return None if x.get("goles") is None or x.get("asist") is None else x["goles"] + x["asist"]
+            return x.get(campo)
+        valor = dato(j)
+        if valor is not None and valor < n:
             # bet365: si al jugador lo cambian, lo que haga el que entra por él también cuenta
+            # (01/11, Marcos: también en «marca o da asistencia», como el Sub On Play On de bet365)
             sustituto = sustituto_de(partido, j)
-            if sustituto and sustituto.get(campo) is not None:
-                valor += sustituto[campo]
-        if campo == "gol_o_asist":
-            valor = None if j.get("goles") is None or j.get("asist") is None else j["goles"] + j["asist"]
+            if sustituto and dato(sustituto) is not None:
+                valor += dato(sustituto)
         if partido.get("estado") in PRORROGA and valor is not None:
             return jugador_a_90(partido, j, sustituto_de(partido, j), campo, n, valor)
         return None if valor is None else valor >= n
