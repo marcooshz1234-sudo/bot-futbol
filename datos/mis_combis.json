@@ -160,5 +160,24 @@
       1.53
     ],
     "origen": "Claude (pedida por Marcos el 01/11 17:22)"
+  },
+  {
+    "id": "2026-11-01-segura-domingo",
+    "fecha": "2026-11-01T18:30",
+    "titulo": "Segura: Elche + Juve + Athletic + Tenerife",
+    "cuota": 3.2,
+    "sel": [
+      "1570437|Double Chance|Home/Draw",
+      "1550182|Double Chance|Home/Draw",
+      "1570433|Double Chance|Home/Draw",
+      "1570001|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.36,
+      1.33,
+      1.36,
+      1.3
+    ],
+    "origen": "Claude (pedida por Marcos el 01/11 17:32: una por partido, lo más seguro)"
   }
 ]
