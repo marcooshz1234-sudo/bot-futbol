@@ -1,7 +1,7 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -170,37 +170,37 @@ _Sin bajas comunicadas por ahora._
 | Pascal Struijk | D | 6 | 291 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,56 · visitante 2,17 · córners esperados 9,9._
+_Goles esperados: local 0,56 · visitante 2,15 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 75% | 57% | 66% | 1.62 | +6% |
-| 1X2: X | 17% | 26% | 21% | 3.60 | -23% |
+| 1X2: 2 | 74% | 57% | 66% | 1.62 | +6% |
+| 1X2: X | 17% | 26% | 22% | 3.60 | -23% |
 | 1X2: 1 | 8% | 18% | 13% | 5.25 | -32% |
 | Doble oportunidad: X2 | 92% | 82% | 87% | 1.17 | +2% |
 | Doble oportunidad: 12 | 83% | 75% | 79% | 1.28 | +1% |
-| Doble oportunidad: 1X | 25% | 43% | 34% | 2.25 | -23% |
+| Doble oportunidad: 1X | 26% | 43% | 34% | 2.25 | -23% |
 | Ambos marcan: No | 62% | 51% | 57% | 1.80 | +2% |
 | Ambos marcan: Sí | 38% | 49% | 43% | 1.91 | -17% |
-| Goles más/menos: Más de 1.5 | 76% | 73% | 74% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -2% |
-| Goles más/menos: Más de 3.5 | 29% | 28% | 28% | 3.40 | -3% |
-| Goles más/menos: Menos de 1.5 | 24% | 27% | 26% | 3.50 | -11% |
-| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -8% |
+| Goles más/menos: Más de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -3% |
+| Goles más/menos: Más de 3.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles más/menos: Menos de 1.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -7% |
 | Goles más/menos: Menos de 3.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del local: Más de 0.5 | 43% | 58% | 50% | 1.62 | -19% |
+| Goles del local: Más de 0.5 | 43% | 58% | 50% | 1.62 | -18% |
 | Goles del local: Más de 1.5 | 11% | 23% | 17% | 4.00 | -31% |
 | Goles del local: Menos de 0.5 ✅ | 57% | 42% | 50% | 2.20 | +9% |
 | Goles del local: Menos de 1.5 | 89% | 77% | 83% | 1.22 | +1% |
-| Goles del visitante: Más de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles del visitante: Más de 2.5 ✅ | 37% | 27% | 32% | 3.50 | +12% |
-| Goles del visitante: Menos de 1.5 | 36% | 46% | 41% | 2.00 | -17% |
-| Goles del visitante: Menos de 2.5 | 63% | 73% | 68% | 1.28 | -13% |
-| 1X2 descanso: 2 | 53% | 42% | 47% | 2.20 | +4% |
+| Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
+| Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 32% | 3.50 | +11% |
+| Goles del visitante: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Goles del visitante: Menos de 2.5 | 64% | 73% | 68% | 1.28 | -12% |
+| 1X2 descanso: 2 | 52% | 42% | 47% | 2.20 | +4% |
 | 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Rennes – Olympiakos Piraeus
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -176,42 +176,42 @@ _Sin precedentes recientes._
 | K. Fortounis | M | 2 | 83 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,18 · visitante 1,10 · córners esperados 10,6._
+_Goles esperados: local 1,18 · visitante 1,11 · córners esperados 10,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 30% | 32% | 3.10 | -1% |
-| 1X2: X | 29% | 26% | 27% | 3.50 | -4% |
+| 1X2: X | 28% | 26% | 27% | 3.50 | -4% |
 | 1X2: 1 | 38% | 44% | 41% | 2.10 | -14% |
 | Doble oportunidad: X2 | 62% | 56% | 59% | 1.70 | +1% |
-| Doble oportunidad: 12 | 71% | 74% | 73% | 1.28 | -7% |
+| Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
 | Ambos marcan: No | 54% | 42% | 48% | 2.20 | +6% |
 | Ambos marcan: Sí | 46% | 58% | 52% | 1.62 | -16% |
-| Goles más/menos: Más de 1.5 | 66% | 78% | 72% | 1.22 | -12% |
-| Goles más/menos: Más de 2.5 | 40% | 55% | 47% | 1.73 | -18% |
-| Goles más/menos: Más de 3.5 | 20% | 34% | 27% | 2.75 | -26% |
-| Goles más/menos: Menos de 1.5 | 34% | 22% | 28% | 4.33 | +20% |
-| Goles más/menos: Menos de 2.5 | 60% | 45% | 53% | 2.10 | +11% |
+| Goles más/menos: Más de 1.5 | 67% | 78% | 72% | 1.22 | -12% |
+| Goles más/menos: Más de 2.5 | 40% | 55% | 48% | 1.73 | -18% |
+| Goles más/menos: Más de 3.5 | 20% | 34% | 27% | 2.75 | -25% |
+| Goles más/menos: Menos de 1.5 | 33% | 22% | 28% | 4.33 | +20% |
+| Goles más/menos: Menos de 2.5 | 60% | 45% | 52% | 2.10 | +10% |
 | Goles más/menos: Menos de 3.5 | 80% | 66% | 73% | 1.44 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 71% | 67% | 1.33 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 29% | 33% | 3.25 | +8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 26% | 38% | 32% | 2.50 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 29% | 33% | 3.25 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +2% |
-| Goles del local: Más de 0.5 | 69% | 78% | 74% | 1.20 | -12% |
+| Goles del local: Más de 0.5 | 69% | 78% | 74% | 1.20 | -11% |
 | Goles del local: Más de 1.5 | 33% | 49% | 41% | 1.91 | -22% |
-| Goles del local: Más de 2.5 | 12% | 23% | 17% | 4.00 | -30% |
-| Goles del local: Menos de 0.5 | 31% | 22% | 26% | 4.33 | +14% |
+| Goles del local: Más de 2.5 | 12% | 23% | 18% | 4.00 | -30% |
+| Goles del local: Menos de 0.5 | 31% | 22% | 26% | 4.33 | +13% |
 | Goles del local: Menos de 1.5 | 67% | 51% | 59% | 1.80 | +7% |
-| Goles del local: Menos de 2.5 | 88% | 77% | 83% | 1.22 | +1% |
+| Goles del local: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +1% |
 | Goles del visitante: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
 | Goles del visitante: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| 1X2 descanso: 2 | 25% | 26% | 26% | 3.60 | -8% |
+| 1X2 descanso: 2 | 26% | 26% | 26% | 3.60 | -7% |
 | 1X2 descanso: X | 47% | 40% | 44% | 2.30 | +0% |
-| 1X2 descanso: 1 | 28% | 34% | 31% | 2.75 | -16% |
+| 1X2 descanso: 1 | 28% | 34% | 31% | 2.75 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

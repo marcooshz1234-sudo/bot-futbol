@@ -1,7 +1,7 @@
 # Charlton – Bolton
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Charlton:** R. Apter (baja, Knee Injury); C. Sichenje (baja, Knee Injury); M. Godden (duda, Muscle Injury); R. Apter (baja, Knee Injury); C. Sichenje (baja, Knee Injury); M. Godden (duda, Muscle Injury)
+**Bolton:** E. Erhahon (baja, Thigh Injury); R. Hardie (baja, Hamstring Injury); J. McAtee (baja, Knee Injury); J. Nelson (baja, Inactive); E. Erhahon (baja, Thigh Injury); R. Hardie (baja, Hamstring Injury); J. McAtee (baja, Knee Injury); J. Nelson (baja, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2025-01-21 · League One: Bolton 1-2 Charlton
@@ -139,6 +140,6 @@ _Sin bajas comunicadas por ahora._
 | Luca Stephenson | D | 3 | 272 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,35 · córners esperados 10,1._
+_Goles esperados: local 1,35 · visitante 1,33 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

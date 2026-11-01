@@ -1,7 +1,7 @@
 # Monaco – FC Nordsjaelland
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -173,18 +173,18 @@ _Sin precedentes recientes._
 | Malte Heyde | M | 3 | 100 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,10 · córners esperados 9,4._
+_Goles esperados: local 1,22 · visitante 1,09 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 17% | 25% | 5.50 | +37% |
+| 1X2: 2 | 33% | 17% | 25% | 5.50 | +36% |
 | 1X2: X | 28% | 21% | 25% | 4.33 | +7% |
-| 1X2: 1 | 39% | 62% | 50% | 1.48 | -25% |
+| 1X2: 1 | 39% | 62% | 51% | 1.48 | -25% |
 | Doble oportunidad: X2 | 61% | 36% | 49% | 2.62 | +28% |
 | Doble oportunidad: 12 | 72% | 80% | 76% | 1.20 | -9% |
-| Doble oportunidad: 1X | 67% | 84% | 75% | 1.14 | -14% |
+| Doble oportunidad: 1X | 67% | 84% | 76% | 1.14 | -14% |
 | Ambos marcan: No | 53% | 41% | 47% | 2.25 | +6% |
 | Ambos marcan: Sí | 47% | 59% | 53% | 1.57 | -17% |
 | Goles más/menos: Más de 2.5 | 41% | 65% | 53% | 1.44 | -24% |
@@ -199,17 +199,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 23% | 30% | 4.00 | +20% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 56% | 65% | 1.67 | +8% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 92% | 79% | 86% | 1.18 | +1% |
-| Goles del local: Más de 1.5 | 34% | 66% | 50% | 1.40 | -30% |
+| Goles del local: Más de 1.5 | 34% | 66% | 50% | 1.40 | -29% |
 | Goles del local: Más de 2.5 | 12% | 41% | 27% | 2.25 | -40% |
 | Goles del local: Más de 3.5 | 4% | 22% | 13% | 4.33 | -45% |
-| Goles del local: Menos de 1.5 | 66% | 34% | 50% | 2.75 | +37% |
+| Goles del local: Menos de 1.5 | 66% | 34% | 50% | 2.75 | +36% |
 | Goles del local: Menos de 2.5 | 88% | 59% | 73% | 1.57 | +15% |
 | Goles del local: Menos de 3.5 | 96% | 78% | 87% | 1.20 | +5% |
-| Goles del visitante: Más de 0.5 | 67% | 65% | 66% | 1.44 | -6% |
-| Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles del visitante: Menos de 0.5 | 33% | 35% | 34% | 2.62 | -10% |
-| Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 30% | 31% | 30% | 3.00 | -9% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -10% |
+| Goles del visitante: Menos de 1.5 | 70% | 69% | 70% | 1.36 | -5% |
 | 1X2 descanso: X | 46% | 35% | 41% | 2.62 | +7% |
-| 1X2 descanso: 1 | 28% | 48% | 38% | 1.95 | -26% |
+| 1X2 descanso: 1 | 29% | 48% | 38% | 1.95 | -26% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

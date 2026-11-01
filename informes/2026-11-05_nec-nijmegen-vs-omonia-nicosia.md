@@ -1,7 +1,7 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -51,42 +51,42 @@ _Actualizadas: 31/10 13:54_
 ## Estadísticas de equipo
 | | NEC Nijmegen (total) | NEC Nijmegen en casa | Omonia Nicosia (total) | Omonia Nicosia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 9 | 9 | 4 |
-| Forma (últimos 5) | EVEEE | EEEEE | DVVVD | VDED |
-| Balance | 4V 7E 6D | 1V 5E 3D | 5V 1E 3D | 1V 1E 2D |
-| Goles a favor / partido | 1,47 | 1,44 | 1,33 | 1,00 |
-| Goles en contra / partido | 1,94 | 1,89 | 1,00 | 0,75 |
-| Goles a favor 1ª parte | 0,53 | 0,33 | 0,67 | 0,25 |
-| Goles a favor 2ª parte | 0,94 | 1,11 | 0,67 | 0,75 |
-| Goles en contra 1ª parte | 1,18 | 1,11 | 0,33 | 0,25 |
-| Goles en contra 2ª parte | 0,76 | 0,78 | 0,67 | 0,50 |
-| Más de 1,5 goles | 94% | 100% | 44% | 50% |
-| Más de 2,5 goles | 76% | 78% | 33% | 25% |
-| Más de 3,5 goles | 53% | 56% | 22% | 0% |
-| Ambos marcan | 76% | 100% | 33% | 25% |
+| Partidos analizados | 18 | 9 | 9 | 4 |
+| Forma (últimos 5) | DEVEE | EEEEE | DVVVD | VDED |
+| Balance | 4V 7E 7D | 1V 5E 3D | 5V 1E 3D | 1V 1E 2D |
+| Goles a favor / partido | 1,39 | 1,44 | 1,33 | 1,00 |
+| Goles en contra / partido | 1,89 | 1,89 | 1,00 | 0,75 |
+| Goles a favor 1ª parte | 0,50 | 0,33 | 0,67 | 0,25 |
+| Goles a favor 2ª parte | 0,89 | 1,11 | 0,67 | 0,75 |
+| Goles en contra 1ª parte | 1,11 | 1,11 | 0,33 | 0,25 |
+| Goles en contra 2ª parte | 0,78 | 0,78 | 0,67 | 0,50 |
+| Más de 1,5 goles | 89% | 100% | 44% | 50% |
+| Más de 2,5 goles | 72% | 78% | 33% | 25% |
+| Más de 3,5 goles | 50% | 56% | 22% | 0% |
+| Ambos marcan | 72% | 100% | 33% | 25% |
 | Portería a cero | 6% | 0% | 44% | 25% |
-| Se queda sin marcar | 24% | 0% | 22% | 50% |
-| xG a favor | 1,70 | 1,76 | 1,12 | 2,12 |
-| xG en contra | 1,76 | 1,46 | 1,80 | 0,97 |
-| Tiros / partido | 15,2 | 18,8 | 10,7 | 11,0 |
-| Tiros a puerta / partido | 4,9 | 5,8 | 3,9 | 3,5 |
-| Tiros recibidos | 11,7 | 9,7 | 17,2 | 14,5 |
-| Tiros a puerta recibidos | 4,7 | 3,7 | 3,8 | 1,8 |
+| Se queda sin marcar | 28% | 0% | 22% | 50% |
+| xG a favor | 1,68 | 1,76 | 1,12 | 2,12 |
+| xG en contra | 1,74 | 1,46 | 1,80 | 0,97 |
+| Tiros / partido | 15,5 | 18,8 | 10,7 | 11,0 |
+| Tiros a puerta / partido | 4,7 | 5,8 | 3,9 | 3,5 |
+| Tiros recibidos | 11,5 | 9,7 | 17,2 | 14,5 |
+| Tiros a puerta recibidos | 4,6 | 3,7 | 3,8 | 1,8 |
 | Posesión media % | 55 | 62 | 42 | 42 |
-| Córners a favor | 5,1 | 6,8 | 2,8 | 2,2 |
-| Córners en contra | 3,1 | 2,7 | 6,2 | 4,0 |
-| Córners a favor 1ª parte | 1,9 | 2,8 | 1,1 | 1,0 |
+| Córners a favor | 5,2 | 6,8 | 2,8 | 2,2 |
+| Córners en contra | 3,2 | 2,7 | 6,2 | 4,0 |
+| Córners a favor 1ª parte | 2,0 | 2,8 | 1,1 | 1,0 |
 | Córners a favor 2ª parte | 3,2 | 4,0 | 1,7 | 1,3 |
-| Córners totales del partido | 8,2 | 9,4 | 9,0 | 6,2 |
-| Córners totales 1ª parte | 3,5 | 4,1 | 3,0 | 1,0 |
+| Córners totales del partido | 8,4 | 9,4 | 9,0 | 6,2 |
+| Córners totales 1ª parte | 3,7 | 4,1 | 3,0 | 1,0 |
 | Córners totales 2ª parte | 4,6 | 5,2 | 6,0 | 4,3 |
-| Más de 8,5 córners | 41% | 56% | 75% | 50% |
-| Más de 9,5 córners | 29% | 44% | 38% | 0% |
-| Más de 10,5 córners | 29% | 44% | 38% | 0% |
-| Faltas cometidas | 12,5 | 10,4 | 9,7 | 10,7 |
-| Faltas recibidas | 12,4 | 13,2 | 14,2 | 15,7 |
-| Amarillas propias | 1,4 | 1,0 | 1,2 | 1,8 |
-| Amarillas del rival | 1,7 | 2,1 | 3,2 | 3,2 |
+| Más de 8,5 córners | 44% | 56% | 75% | 50% |
+| Más de 9,5 córners | 33% | 44% | 38% | 0% |
+| Más de 10,5 córners | 33% | 44% | 38% | 0% |
+| Faltas cometidas | 12,2 | 10,4 | 9,7 | 10,7 |
+| Faltas recibidas | 12,1 | 13,2 | 14,2 | 15,7 |
+| Amarillas propias | 1,5 | 1,0 | 1,2 | 1,8 |
+| Amarillas del rival | 1,8 | 2,1 | 3,2 | 3,2 |
 | Rojas / partido | 0,06 | 0,00 | 0,38 | 0,50 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -94,10 +94,10 @@ _Actualizadas: 31/10 13:54_
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 5 | 3 | 1 | 1 | 0 |
 | 16-30' | 4 | 5 | 1 | 4 | 0 | 1 |
-| 31-45' | 2 | 10 | 6 | 1 | 2 | 3 |
+| 31-45' | 2 | 10 | 8 | 1 | 2 | 3 |
 | 46-60' | 4 | 5 | 3 | 2 | 1 | 2 |
-| 61-75' | 5 | 5 | 4 | 0 | 1 | 2 |
-| 76-90' | 7 | 3 | 8 | 4 | 4 | 7 |
+| 61-75' | 5 | 6 | 4 | 0 | 1 | 2 |
+| 76-90' | 7 | 3 | 9 | 4 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -110,36 +110,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de NEC Nijmegen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Eredivisie | Heerenveen 1-0 NEC Nijmegen | fuera | 7-5 | 21 (2) - 8 (2) | 3-3 |
 | 2026-10-25 | Eredivisie | NEC Nijmegen 2-2 Groningen | casa | 11-2 | 22 (9) - 9 (3) | 0-3 |
 | 2026-10-22 | Europa League | Dinamo Zagreb 2-4 NEC Nijmegen | fuera | 2-5 | 15 (5) - 16 (10) | 2-1 |
 | 2026-10-18 | Eredivisie | NEC Nijmegen 2-2 Fortuna Sittard | casa | 13-0 | 24 (7) - 5 (3) | 0-2 |
 | 2026-10-15 | Europa League | NEC Nijmegen 1-1 Levski Sofia | casa | 6-1 | 18 (9) - 8 (2) | 1-0 |
 | 2026-10-10 | Eredivisie | Ajax 1-1 NEC Nijmegen | fuera | 4-4 | 8 (2) - 18 (5) | 2-2 |
-| 2026-09-20 | Eredivisie | NEC Nijmegen 1-1 GO Ahead Eagles | casa | 5-7 | 17 (5) - 14 (6) | 0-2 |
 
 ## Jugadores de NEC Nijmegen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Lebreton | M | 17 | 1332 | 2 | 1 | 21 | 1,2 | 7 | 0,4 | 24 | 37 | 2,2 | 5 | 0 |
-| T. Storm | D | 15 | 1309 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 20 | 10 | 0,7 | 3 | 0 |
-| T. Chery | M | 15 | 1292 | 6 | 2 | 37 | 2,5 | 20 | 1,3 | 6 | 8 | 0,5 | 0 | 0 |
-| D. Nejašmić | M | 15 | 1265 | 1 | 2 | 9 | 0,6 | 4 | 0,3 | 9 | 13 | 0,9 | 0 | 0 |
-| B. Linssen | F | 16 | 1204 | 4 | 0 | 28 | 1,8 | 11 | 0,7 | 25 | 6 | 0,4 | 1 | 0 |
-| G. Crettaz | G | 14 | 1158 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 0 | 1 |
-| Clement Bischoff | M | 15 | 1137 | 3 | 2 | 20 | 1,3 | 5 | 0,3 | 9 | 30 | 2,0 | 1 | 0 |
+| N. Lebreton | M | 18 | 1422 | 2 | 1 | 26 | 1,4 | 7 | 0,4 | 24 | 37 | 2,1 | 5 | 0 |
+| T. Storm | D | 16 | 1388 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 20 | 10 | 0,6 | 3 | 0 |
+| T. Chery | F | 16 | 1382 | 6 | 2 | 41 | 2,6 | 21 | 1,3 | 6 | 8 | 0,5 | 0 | 0 |
+| D. Nejašmić | M | 16 | 1355 | 1 | 2 | 9 | 0,6 | 4 | 0,2 | 9 | 14 | 0,9 | 0 | 0 |
+| B. Linssen | F | 17 | 1294 | 4 | 0 | 30 | 1,8 | 11 | 0,6 | 28 | 6 | 0,4 | 2 | 0 |
+| G. Crettaz | G | 15 | 1248 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 0 | 1 |
+| Clement Bischoff | M | 16 | 1210 | 3 | 2 | 21 | 1,3 | 5 | 0,3 | 9 | 32 | 2,0 | 2 | 0 |
 | D. Tadić | F | 13 | 1082 | 0 | 3 | 9 | 0,7 | 4 | 0,3 | 7 | 8 | 0,6 | 1 | 0 |
 | Deveron Fonville | D | 12 | 973 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 15 | 10 | 0,8 | 0 | 0 |
-| Jamiro Monteiro | M | 14 | 707 | 0 | 0 | 9 | 0,6 | 5 | 0,4 | 20 | 8 | 0,6 | 3 | 0 |
+| Jamiro Monteiro | M | 15 | 793 | 0 | 0 | 10 | 0,7 | 5 | 0,3 | 21 | 10 | 0,7 | 3 | 0 |
+| Kevin Kers | M | 12 | 536 | 1 | 0 | 14 | 1,2 | 3 | 0,2 | 7 | 5 | 0,4 | 0 | 0 |
+| P. Schuurs | D | 11 | 485 | 2 | 2 | 7 | 0,6 | 4 | 0,4 | 6 | 0 | 0,0 | 0 | 0 |
 | Brayann Pereira | D | 7 | 454 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 8 | 8 | 1,1 | 3 | 0 |
-| Kevin Kers | M | 11 | 451 | 1 | 0 | 11 | 1,0 | 3 | 0,3 | 6 | 5 | 0,5 | 0 | 0 |
-| Adam Tahaui | F | 9 | 415 | 2 | 0 | 8 | 0,9 | 3 | 0,3 | 2 | 5 | 0,6 | 0 | 0 |
-| P. Schuurs | D | 10 | 412 | 2 | 2 | 7 | 0,7 | 4 | 0,4 | 6 | 0 | 0,0 | 0 | 0 |
+| Adam Tahaui | F | 10 | 420 | 2 | 0 | 8 | 0,8 | 3 | 0,3 | 2 | 6 | 0,6 | 0 | 0 |
 | Nikolas Polster | G | 5 | 400 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
+| Gabriel Brás | D | 7 | 394 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 4 | 0,6 | 1 | 0 |
 | D. Geiger | M | 8 | 388 | 0 | 1 | 4 | 0,5 | 2 | 0,2 | 9 | 5 | 0,6 | 0 | 0 |
-| Gabriel Brás | D | 6 | 383 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 4 | 0,7 | 1 | 0 |
-| K. Sierhuis | F | 10 | 352 | 2 | 1 | 17 | 1,7 | 6 | 0,6 | 2 | 5 | 0,5 | 1 | 0 |
+| K. Sierhuis | F | 11 | 369 | 2 | 1 | 18 | 1,6 | 6 | 0,5 | 2 | 5 | 0,5 | 1 | 0 |
+| A. Kaplan | D | 6 | 359 | 0 | 0 | 9 | 1,5 | 2 | 0,3 | 6 | 9 | 1,5 | 0 | 0 |
 | Bram Nuytinck | D | 8 | 322 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
-| Almugera Raouf Mohammed Kabar | D | 8 | 320 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 8 | 1,0 | 2 | 0 |
 
 ## Últimos partidos de Omonia Nicosia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -176,40 +176,40 @@ _Sin precedentes recientes._
 | A. Neophytou | F | 6 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,44 · visitante 1,21 · córners esperados 9,5._
+_Goles esperados: local 1,43 · visitante 1,18 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 23% | 27% | 4.00 | +10% |
+| 1X2: 2 | 31% | 23% | 27% | 4.00 | +8% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -3% |
-| 1X2: 1 | 42% | 53% | 48% | 1.73 | -17% |
-| Doble oportunidad: X2 | 58% | 46% | 52% | 2.05 | +7% |
+| 1X2: 1 | 43% | 53% | 48% | 1.73 | -17% |
+| Doble oportunidad: X2 | 57% | 46% | 52% | 2.05 | +6% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 68% | 78% | 73% | 1.22 | -11% |
+| Doble oportunidad: 1X | 69% | 78% | 73% | 1.22 | -11% |
 | Ambos marcan: No | 47% | 41% | 44% | 2.25 | -1% |
 | Ambos marcan: Sí | 53% | 59% | 56% | 1.57 | -12% |
-| Goles más/menos: Más de 2.5 | 49% | 60% | 55% | 1.57 | -14% |
-| Goles más/menos: Más de 3.5 | 27% | 40% | 34% | 2.38 | -20% |
-| Goles más/menos: Más de 4.5 | 13% | 22% | 17% | 4.33 | -24% |
-| Goles más/menos: Menos de 2.5 | 51% | 40% | 45% | 2.38 | +8% |
-| Goles más/menos: Menos de 3.5 | 73% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Menos de 4.5 | 87% | 78% | 83% | 1.22 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
+| Goles más/menos: Más de 2.5 | 49% | 60% | 54% | 1.57 | -15% |
+| Goles más/menos: Más de 3.5 | 27% | 40% | 33% | 2.38 | -21% |
+| Goles más/menos: Más de 4.5 | 12% | 22% | 17% | 4.33 | -25% |
+| Goles más/menos: Menos de 2.5 | 51% | 40% | 46% | 2.38 | +9% |
+| Goles más/menos: Menos de 3.5 | 73% | 60% | 67% | 1.57 | +5% |
+| Goles más/menos: Menos de 4.5 | 88% | 78% | 83% | 1.22 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 41% | 36% | 2.25 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 59% | 64% | 1.57 | +0% |
 | Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -19% |
-| Goles del local: Más de 2.5 | 18% | 31% | 24% | 3.00 | -27% |
-| Goles del local: Menos de 1.5 | 58% | 42% | 50% | 2.20 | +10% |
-| Goles del local: Menos de 2.5 | 82% | 69% | 76% | 1.36 | +3% |
-| Goles del visitante: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del visitante: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | +1% |
-| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | +0% |
+| Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -27% |
+| Goles del local: Menos de 1.5 | 58% | 42% | 50% | 2.20 | +11% |
+| Goles del local: Menos de 2.5 | 83% | 69% | 76% | 1.36 | +3% |
+| Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
+| Goles del visitante: Más de 1.5 | 33% | 35% | 34% | 2.62 | -10% |
+| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
+| Goles del visitante: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
+| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | +0% |
+| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | +1% |
 | 1X2 descanso: 1 | 32% | 41% | 37% | 2.25 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

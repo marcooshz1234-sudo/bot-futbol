@@ -1,7 +1,7 @@
 # Birmingham – Millwall
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Birmingham:** M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); A. Priske (duda, Health problems); M. Leonard (baja, Achilles Tendon Injury); Paik Seung-Ho (baja, Health problems); A. Priske (duda, Health problems)
+**Millwall:** T. Arconte (baja, Ankle Injury); C. De Norre (baja, Muscle Injury); L. Jensen (baja, Muscle Injury); F. Marschall (baja, Injury); J. Metcalfe (baja, Yellow Cards); M. Servais (baja, Inactive); M. Luongo (duda, Knee Injury); T. Arconte (baja, Ankle Injury); C. De Norre (baja, Muscle Injury); L. Jensen (baja, Muscle Injury); F. Marschall (baja, Injury); J. Metcalfe (baja, Yellow Cards); M. Servais (baja, Inactive); M. Luongo (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-25 · Championship: Millwall 3-0 Birmingham
@@ -139,6 +140,6 @@ _Sin bajas comunicadas por ahora._
 | Lukas Jensen | G | 3 | 275 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,28 · córners esperados 10,1._
+_Goles esperados: local 1,64 · visitante 1,27 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

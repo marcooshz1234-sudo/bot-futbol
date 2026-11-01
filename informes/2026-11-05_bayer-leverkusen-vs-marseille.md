@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,32 · visitante 1,09 · córners esperados 9,3._
+_Goles esperados: local 3,33 · visitante 1,09 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -187,28 +187,28 @@ _Goles esperados: local 3,32 · visitante 1,09 · córners esperados 9,3._
 | 1X2: X | 12% | 19% | 15% | 4.75 | -26% |
 | 1X2: 1 | 80% | 66% | 73% | 1.40 | +2% |
 | Doble oportunidad: X2 | 20% | 35% | 27% | 2.75 | -25% |
-| Doble oportunidad: 12 | 88% | 81% | 84% | 1.18 | -0% |
+| Doble oportunidad: 12 | 88% | 81% | 85% | 1.18 | -0% |
 | Doble oportunidad: 1X | 91% | 85% | 88% | 1.12 | -1% |
 | Ambos marcan: No | 36% | 44% | 40% | 2.10 | -16% |
-| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | -0% |
+| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | +0% |
 | Goles más/menos: Más de 2.5 | 82% | 66% | 74% | 1.44 | +6% |
 | Goles más/menos: Más de 3.5 | 64% | 43% | 54% | 2.20 | +18% |
-| Goles más/menos: Más de 4.5 ✅ | 45% | 25% | 35% | 3.75 | +32% |
-| Goles más/menos: Menos de 2.5 | 18% | 34% | 26% | 2.75 | -27% |
+| Goles más/menos: Más de 4.5 ✅ | 45% | 25% | 35% | 3.75 | +33% |
+| Goles más/menos: Menos de 2.5 | 18% | 34% | 26% | 2.75 | -28% |
 | Goles más/menos: Menos de 3.5 | 36% | 57% | 46% | 1.67 | -23% |
 | Goles más/menos: Menos de 4.5 | 55% | 75% | 65% | 1.28 | -17% |
 | Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 21% | 25% | 4.50 | +14% |
+| Goles 1ª parte más/menos: Más de 1.5 | 57% | 44% | 51% | 2.10 | +7% |
+| Goles 1ª parte más/menos: Más de 2.5 | 30% | 21% | 25% | 4.50 | +15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -24% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 43% | 56% | 49% | 1.67 | -18% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 70% | 79% | 75% | 1.18 | -12% |
-| Goles del local: Más de 1.5 | 84% | 69% | 77% | 1.36 | +4% |
-| Goles del local: Más de 2.5 | 65% | 42% | 53% | 2.20 | +18% |
-| Goles del local: Más de 3.5 ✅ | 42% | 23% | 33% | 4.00 | +32% |
-| Goles del local: Menos de 1.5 | 16% | 31% | 23% | 3.00 | -30% |
-| Goles del local: Menos de 2.5 | 35% | 58% | 47% | 1.62 | -25% |
-| Goles del local: Menos de 3.5 | 58% | 77% | 67% | 1.22 | -18% |
+| Goles del local: Más de 1.5 | 85% | 69% | 77% | 1.36 | +4% |
+| Goles del local: Más de 2.5 | 65% | 42% | 54% | 2.20 | +18% |
+| Goles del local: Más de 3.5 ✅ | 43% | 23% | 33% | 4.00 | +32% |
+| Goles del local: Menos de 1.5 | 15% | 31% | 23% | 3.00 | -30% |
+| Goles del local: Menos de 2.5 | 35% | 58% | 46% | 1.62 | -25% |
+| Goles del local: Menos de 3.5 | 57% | 77% | 67% | 1.22 | -18% |
 | Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -3% |
 | Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
 | Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |

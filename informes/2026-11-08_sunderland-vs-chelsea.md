@@ -1,7 +1,7 @@
 # Sunderland – Chelsea
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | Estêvão | M | 9 | 284 | 0 | 0 | 13 | 1,4 | 5 | 0,6 | 4 | 7 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,54 · visitante 1,99 · córners esperados 10,2._
+_Goles esperados: local 1,54 · visitante 2,01 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 44% | 46% | 2.10 | -2% |
-| 1X2: X | 22% | 27% | 25% | 3.40 | -17% |
+| 1X2: 2 | 49% | 44% | 46% | 2.10 | -2% |
+| 1X2: X | 22% | 27% | 24% | 3.40 | -17% |
 | 1X2: 1 | 30% | 28% | 29% | 3.30 | -4% |
 | Doble oportunidad: X2 | 70% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 12 | 78% | 73% | 76% | 1.30 | -2% |
-| Doble oportunidad: 1X | 52% | 56% | 54% | 1.70 | -9% |
+| Doble oportunidad: 1X | 51% | 56% | 54% | 1.70 | -9% |
 | Ambos marcan: No | 32% | 45% | 39% | 2.05 | -21% |
 | Ambos marcan: Sí | 68% | 55% | 61% | 1.70 | +4% |
 | Goles más/menos: Más de 1.5 | 87% | 75% | 81% | 1.28 | +3% |
-| Goles más/menos: Más de 2.5 | 68% | 50% | 59% | 1.91 | +13% |
-| Goles más/menos: Más de 3.5 ✅ | 47% | 30% | 38% | 3.20 | +23% |
-| Goles más/menos: Menos de 1.5 | 13% | 25% | 19% | 3.75 | -27% |
-| Goles más/menos: Menos de 2.5 | 32% | 50% | 41% | 1.91 | -22% |
-| Goles más/menos: Menos de 3.5 | 53% | 70% | 62% | 1.36 | -16% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 69% | 74% | 1.36 | +0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 31% | 26% | 3.00 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
-| Goles del local: Más de 0.5 | 78% | 69% | 74% | 1.36 | +0% |
-| Goles del local: Más de 1.5 ✅ | 45% | 34% | 40% | 2.75 | +9% |
-| Goles del local: Menos de 0.5 | 22% | 31% | 26% | 3.00 | -21% |
-| Goles del local: Menos de 1.5 | 55% | 66% | 60% | 1.40 | -15% |
-| Goles del visitante: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 1.5 | 59% | 46% | 53% | 2.00 | +6% |
+| Goles más/menos: Más de 2.5 | 69% | 50% | 59% | 1.91 | +13% |
+| Goles más/menos: Más de 3.5 ✅ | 47% | 30% | 39% | 3.20 | +23% |
+| Goles más/menos: Menos de 1.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles más/menos: Menos de 2.5 | 31% | 50% | 41% | 1.91 | -22% |
+| Goles más/menos: Menos de 3.5 | 53% | 70% | 61% | 1.36 | -16% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -21% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -14% |
+| Goles del local: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Goles del local: Más de 1.5 ✅ | 46% | 34% | 40% | 2.75 | +9% |
+| Goles del local: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -21% |
+| Goles del local: Menos de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
+| Goles del visitante: Más de 0.5 | 87% | 78% | 82% | 1.20 | -1% |
+| Goles del visitante: Más de 1.5 | 60% | 46% | 53% | 2.00 | +6% |
 | Goles del visitante: Más de 2.5 | 32% | 22% | 27% | 4.33 | +17% |
-| Goles del visitante: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -24% |
-| Goles del visitante: Menos de 1.5 | 41% | 54% | 47% | 1.73 | -18% |
-| Goles del visitante: Menos de 2.5 | 68% | 78% | 73% | 1.20 | -12% |
+| Goles del visitante: Menos de 0.5 | 13% | 22% | 18% | 4.33 | -24% |
+| Goles del visitante: Menos de 1.5 | 40% | 54% | 47% | 1.73 | -19% |
+| Goles del visitante: Menos de 2.5 | 68% | 78% | 73% | 1.20 | -13% |
 | 1X2 descanso: 2 | 38% | 34% | 36% | 2.75 | -2% |
 | 1X2 descanso: X | 36% | 42% | 39% | 2.20 | -14% |
 | 1X2 descanso: 1 | 26% | 25% | 25% | 3.75 | -5% |

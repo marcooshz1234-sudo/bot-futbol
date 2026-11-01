@@ -1,7 +1,7 @@
 # Cagliari – Frosinone
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | A. El Azzouzi | M | 4 | 114 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,88 · córners esperados 10,7._
+_Goles esperados: local 1,42 · visitante 1,86 · córners esperados 10,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Bristol City – Wolves
 **Championship** · Regular Season - 14 · 04/11/2026 21:00 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | T. Chirewa | F | 9 | 258 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 8 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,86 · visitante 1,45 · córners esperados 10,1._
+_Goles esperados: local 0,86 · visitante 1,44 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

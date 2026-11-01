@@ -1,7 +1,7 @@
 # SC Freiburg – Union Berlin
 **Bundesliga** · Regular Season - 9 · 08/11/2026 17:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -182,37 +182,37 @@ _Sin bajas comunicadas por ahora._
 | Kastriot Imeri | M | 2 | 103 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 1 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,88 · visitante 0,88 · córners esperados 9,3._
+_Goles esperados: local 2,86 · visitante 0,87 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 16% | 12% | 5.75 | -29% |
+| 1X2: 2 | 8% | 16% | 12% | 5.75 | -29% |
 | 1X2: X | 13% | 22% | 17% | 4.33 | -25% |
 | 1X2: 1 | 78% | 62% | 70% | 1.50 | +5% |
 | Doble oportunidad: X2 | 22% | 38% | 30% | 2.50 | -25% |
 | Doble oportunidad: 12 | 87% | 79% | 83% | 1.20 | -1% |
-| Doble oportunidad: 1X | 91% | 83% | 87% | 1.14 | -1% |
+| Doble oportunidad: 1X | 92% | 83% | 87% | 1.14 | -0% |
 | Ambos marcan: No | 45% | 44% | 45% | 2.10 | -6% |
-| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -7% |
+| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -8% |
 | Goles más/menos: Más de 2.5 | 72% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 3.5 ✅ | 52% | 40% | 46% | 2.38 | +9% |
-| Goles más/menos: Más de 4.5 | 32% | 22% | 27% | 4.33 | +18% |
-| Goles más/menos: Menos de 2.5 | 28% | 40% | 34% | 2.38 | -20% |
-| Goles más/menos: Menos de 3.5 | 48% | 60% | 54% | 1.57 | -15% |
+| Goles más/menos: Más de 3.5 ✅ | 51% | 40% | 46% | 2.38 | +8% |
+| Goles más/menos: Más de 4.5 | 32% | 22% | 27% | 4.33 | +17% |
+| Goles más/menos: Menos de 2.5 | 28% | 40% | 34% | 2.38 | -19% |
+| Goles más/menos: Menos de 3.5 | 49% | 60% | 54% | 1.57 | -14% |
 | Goles más/menos: Menos de 4.5 | 68% | 78% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 42% | 45% | 2.20 | -0% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
 | Goles del local: Más de 1.5 | 78% | 65% | 71% | 1.44 | +3% |
 | Goles del local: Más de 2.5 ✅ | 55% | 38% | 46% | 2.50 | +15% |
 | Goles del local: Menos de 1.5 | 22% | 35% | 29% | 2.62 | -25% |
 | Goles del local: Menos de 2.5 | 45% | 62% | 54% | 1.50 | -19% |
-| Goles del visitante: Más de 0.5 | 59% | 62% | 61% | 1.50 | -9% |
+| Goles del visitante: Más de 0.5 | 58% | 62% | 60% | 1.50 | -10% |
 | Goles del visitante: Más de 1.5 | 22% | 28% | 25% | 3.40 | -16% |
-| Goles del visitante: Menos de 0.5 | 41% | 38% | 39% | 2.50 | -1% |
+| Goles del visitante: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del visitante: Menos de 1.5 | 78% | 72% | 75% | 1.30 | -2% |
-| 1X2 descanso: X | 30% | 36% | 33% | 2.60 | -15% |
+| 1X2 descanso: X | 30% | 36% | 33% | 2.60 | -14% |
 | 1X2 descanso: 1 | 59% | 48% | 53% | 1.95 | +3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

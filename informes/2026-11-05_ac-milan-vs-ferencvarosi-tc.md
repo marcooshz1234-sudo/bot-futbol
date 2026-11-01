@@ -1,7 +1,7 @@
 # AC Milan – Ferencvarosi TC
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:54_
@@ -52,51 +52,51 @@ _Actualizadas: 31/10 13:54_
 ## Estadísticas de equipo
 | | AC Milan (total) | AC Milan en casa | Ferencvarosi TC (total) | Ferencvarosi TC fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 11 | 5 |
-| Forma (últimos 5) | DVDVV | DVVDV | VVVVV | VVEVV |
-| Balance | 6V 3E 3D | 3V 0E 2D | 9V 2E 0D | 4V 1E 0D |
-| Goles a favor / partido | 1,83 | 2,00 | 2,27 | 1,80 |
-| Goles en contra / partido | 1,33 | 1,60 | 0,73 | 0,80 |
-| Goles a favor 1ª parte | 0,67 | 1,00 | 0,91 | 1,00 |
-| Goles a favor 2ª parte | 1,17 | 1,00 | 1,36 | 0,80 |
-| Goles en contra 1ª parte | 0,50 | 0,40 | 0,45 | 0,80 |
-| Goles en contra 2ª parte | 0,83 | 1,20 | 0,27 | 0,00 |
+| Partidos analizados | 13 | 6 | 11 | 5 |
+| Forma (últimos 5) | VDVDV | VDVVD | VVVVV | VVEVV |
+| Balance | 7V 3E 3D | 4V 0E 2D | 9V 2E 0D | 4V 1E 0D |
+| Goles a favor / partido | 1,92 | 2,17 | 2,27 | 1,80 |
+| Goles en contra / partido | 1,31 | 1,50 | 0,73 | 0,80 |
+| Goles a favor 1ª parte | 0,85 | 1,33 | 0,91 | 1,00 |
+| Goles a favor 2ª parte | 1,08 | 0,83 | 1,36 | 0,80 |
+| Goles en contra 1ª parte | 0,54 | 0,50 | 0,45 | 0,80 |
+| Goles en contra 2ª parte | 0,77 | 1,00 | 0,27 | 0,00 |
 | Más de 1,5 goles | 100% | 100% | 82% | 80% |
-| Más de 2,5 goles | 58% | 60% | 73% | 60% |
-| Más de 3,5 goles | 33% | 40% | 36% | 20% |
-| Ambos marcan | 50% | 40% | 64% | 80% |
-| Portería a cero | 33% | 40% | 36% | 20% |
-| Se queda sin marcar | 17% | 20% | 0% | 0% |
-| xG a favor | 1,76 | 1,94 | 2,25 | – |
-| xG en contra | 1,32 | 1,06 | 1,39 | – |
-| Tiros / partido | 12,3 | 12,4 | 11,8 | 11,0 |
-| Tiros a puerta / partido | 4,8 | 4,4 | 4,6 | 3,6 |
-| Tiros recibidos | 11,1 | 9,4 | 15,5 | 18,0 |
-| Tiros a puerta recibidos | 4,0 | 3,6 | 3,7 | 4,0 |
-| Posesión media % | 57 | 62 | 49 | 40 |
-| Córners a favor | 3,6 | 3,6 | 5,4 | 5,2 |
-| Córners en contra | 3,3 | 2,4 | 5,5 | 7,0 |
-| Córners a favor 1ª parte | 1,8 | 1,6 | 2,4 | 2,6 |
+| Más de 2,5 goles | 62% | 67% | 73% | 60% |
+| Más de 3,5 goles | 38% | 50% | 36% | 20% |
+| Ambos marcan | 54% | 50% | 64% | 80% |
+| Portería a cero | 31% | 33% | 36% | 20% |
+| Se queda sin marcar | 15% | 17% | 0% | 0% |
+| xG a favor | 1,68 | 1,74 | 2,25 | – |
+| xG en contra | 1,36 | 1,19 | 1,39 | – |
+| Tiros / partido | 11,9 | 11,5 | 11,8 | 11,0 |
+| Tiros a puerta / partido | 4,7 | 4,3 | 4,6 | 3,6 |
+| Tiros recibidos | 11,7 | 11,0 | 15,5 | 18,0 |
+| Tiros a puerta recibidos | 4,3 | 4,3 | 3,7 | 4,0 |
+| Posesión media % | 56 | 59 | 49 | 40 |
+| Córners a favor | 3,5 | 3,5 | 5,4 | 5,2 |
+| Córners en contra | 3,9 | 3,8 | 5,5 | 7,0 |
+| Córners a favor 1ª parte | 1,7 | 1,5 | 2,4 | 2,6 |
 | Córners a favor 2ª parte | 1,8 | 2,0 | 2,2 | 2,6 |
-| Córners totales del partido | 6,9 | 6,0 | 10,9 | 12,2 |
-| Córners totales 1ª parte | 3,0 | 2,2 | 4,5 | 6,0 |
-| Córners totales 2ª parte | 3,9 | 3,8 | 5,2 | 6,2 |
-| Más de 8,5 córners | 25% | 20% | 73% | 80% |
-| Más de 9,5 córners | 17% | 20% | 73% | 80% |
-| Más de 10,5 córners | 8% | 20% | 55% | 80% |
-| Faltas cometidas | 10,8 | 8,8 | 13,4 | 14,6 |
-| Faltas recibidas | 12,8 | 12,8 | 12,0 | 11,8 |
-| Amarillas propias | 1,7 | 0,6 | 2,0 | 2,2 |
-| Amarillas del rival | 1,8 | 2,6 | 1,1 | 0,2 |
-| Rojas / partido | 0,17 | 0,00 | 0,09 | 0,00 |
+| Córners totales del partido | 7,5 | 7,3 | 10,9 | 12,2 |
+| Córners totales 1ª parte | 3,4 | 3,2 | 4,5 | 6,0 |
+| Córners totales 2ª parte | 4,1 | 4,2 | 5,2 | 6,2 |
+| Más de 8,5 córners | 31% | 33% | 73% | 80% |
+| Más de 9,5 córners | 23% | 33% | 73% | 80% |
+| Más de 10,5 córners | 15% | 33% | 55% | 80% |
+| Faltas cometidas | 10,5 | 8,7 | 13,4 | 14,6 |
+| Faltas recibidas | 12,9 | 13,0 | 12,0 | 11,8 |
+| Amarillas propias | 1,7 | 0,8 | 2,0 | 2,2 |
+| Amarillas del rival | 1,8 | 2,3 | 1,1 | 0,2 |
+| Rojas / partido | 0,15 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles AC Milan | Recibe AC Milan | Tarjetas AC Milan | Goles Ferencvarosi TC | Recibe Ferencvarosi TC | Tarjetas Ferencvarosi TC |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 3 | 1 | 2 | 0 | 2 |
-| 16-30' | 2 | 1 | 2 | 6 | 1 | 2 |
-| 31-45' | 2 | 2 | 5 | 2 | 4 | 3 |
-| 46-60' | 2 | 2 | 2 | 6 | 0 | 2 |
+| 1-15' | 6 | 3 | 1 | 2 | 0 | 2 |
+| 16-30' | 2 | 2 | 2 | 6 | 1 | 2 |
+| 31-45' | 3 | 2 | 5 | 2 | 4 | 3 |
+| 46-60' | 2 | 2 | 4 | 6 | 0 | 2 |
 | 61-75' | 11 | 3 | 3 | 2 | 0 | 4 |
 | 76-90' | 1 | 5 | 9 | 7 | 3 | 10 |
 
@@ -111,36 +111,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de AC Milan
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Serie A | AC Milan 3-1 Inter | casa | 3-11 | 7 (4) - 19 (8) | 2-1 |
 | 2026-10-28 | Serie A | AC Milan 2-4 Bologna | casa | 2-3 | 8 (3) - 9 (5) | 0-2 |
 | 2026-10-25 | Serie A | Udinese 0-2 AC Milan | fuera | 4-5 | 19 (7) - 12 (5) | 2-1 |
 | 2026-10-22 | Europa League | Bournemouth 3-0 AC Milan | fuera | 4-6 | 3 (0) - 20 (7) | 3-2 |
 | 2026-10-18 | Serie A | AC Milan 3-2 Atalanta | casa | 2-2 | 11 (6) - 12 (4) | 1-2 |
 | 2026-10-15 | Europa League | Red Bull Salzburg 0-4 AC Milan | fuera | 2-3 | 15 (10) - 14 (2) | 1-1 |
-| 2026-10-11 | Serie A | Sassuolo 1-1 AC Milan | fuera | 5-3 | 11 (6) - 10 (4) | 4-2 |
 
 ## Jugadores de AC Milan
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Pavlović | D | 12 | 1071 | 0 | 1 | 8 | 0,7 | 3 | 0,2 | 11 | 17 | 1,4 | 3 | 0 |
-| K. De Winter | D | 12 | 1060 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 19 | 7 | 0,6 | 2 | 0 |
-| M. Maignan | G | 12 | 1017 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,2 | 0 | 1 |
-| Gonçalo Ramos | F | 11 | 921 | 3 | 1 | 26 | 2,4 | 11 | 1,0 | 19 | 16 | 1,5 | 1 | 0 |
-| Y. Musah | M | 11 | 769 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 13 | 1,2 | 0 | 0 |
-| Mario Gila | D | 8 | 650 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 7 | 9 | 1,1 | 1 | 0 |
+| S. Pavlović | D | 13 | 1161 | 0 | 1 | 9 | 0,7 | 3 | 0,2 | 13 | 18 | 1,4 | 3 | 0 |
+| K. De Winter | D | 13 | 1150 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 20 | 10 | 0,8 | 3 | 0 |
+| M. Maignan | G | 13 | 1107 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,2 | 0 | 1 |
+| Gonçalo Ramos | F | 12 | 1010 | 3 | 1 | 26 | 2,2 | 11 | 0,9 | 19 | 17 | 1,4 | 1 | 0 |
+| Y. Musah | M | 12 | 851 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 8 | 15 | 1,2 | 0 | 0 |
+| Mario Gila | D | 9 | 740 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 8 | 9 | 1,0 | 1 | 0 |
+| A. Rabiot | M | 11 | 699 | 5 | 4 | 12 | 1,1 | 6 | 0,5 | 12 | 10 | 0,9 | 1 | 0 |
+| L. Modrić | M | 11 | 685 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 4 | 5 | 0,5 | 1 | 0 |
 | Samuel Chukwueze | M | 8 | 614 | 0 | 2 | 7 | 0,9 | 4 | 0,5 | 0 | 2 | 0,2 | 0 | 0 |
-| A. Rabiot | M | 10 | 609 | 4 | 4 | 10 | 1,0 | 5 | 0,5 | 11 | 10 | 1,0 | 1 | 0 |
-| L. Modrić | M | 10 | 595 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 3 | 5 | 0,5 | 1 | 0 |
-| A. Cissè | M | 10 | 545 | 7 | 0 | 15 | 1,5 | 10 | 1,0 | 9 | 14 | 1,4 | 1 | 0 |
-| A. Jashari | M | 10 | 540 | 0 | 0 | 6 | 0,6 | 3 | 0,3 | 4 | 3 | 0,3 | 0 | 0 |
-| D. Bartesaghi | M | 8 | 465 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
-| C. Pulišić | M | 8 | 464 | 2 | 1 | 10 | 1,2 | 7 | 0,9 | 4 | 6 | 0,8 | 1 | 0 |
+| A. Cissè | M | 11 | 553 | 7 | 0 | 16 | 1,5 | 11 | 1,0 | 9 | 15 | 1,4 | 1 | 0 |
+| A. Jashari | M | 11 | 548 | 0 | 0 | 6 | 0,5 | 3 | 0,3 | 4 | 4 | 0,4 | 0 | 0 |
+| C. Pulišić | M | 9 | 546 | 3 | 1 | 11 | 1,2 | 8 | 0,9 | 5 | 7 | 0,8 | 1 | 0 |
+| Diego Moreira | M | 8 | 505 | 4 | 3 | 7 | 0,9 | 5 | 0,6 | 1 | 8 | 1,0 | 1 | 0 |
+| D. Bartesaghi | D | 9 | 472 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 4 | 3 | 0,3 | 0 | 0 |
 | P. Estupiñán | D | 9 | 443 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 1 | 0,1 | 2 | 0 |
-| Diego Moreira | M | 7 | 416 | 3 | 1 | 6 | 0,9 | 4 | 0,6 | 1 | 7 | 1,0 | 0 | 0 |
 | R. Loftus-Cheek | M | 9 | 376 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 3 | 0,3 | 0 | 0 |
-| O. Hutchinson | M | 8 | 358 | 1 | 1 | 6 | 0,8 | 4 | 0,5 | 4 | 5 | 0,6 | 1 | 0 |
+| O. Hutchinson | F | 9 | 359 | 1 | 1 | 6 | 0,7 | 4 | 0,4 | 4 | 6 | 0,7 | 1 | 0 |
 | F. Tomori | D | 5 | 263 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 2 | 3 | 0,6 | 1 | 0 |
+| S. Bocoum | M | 5 | 238 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
 | Alexis Saelemaekers | F | 5 | 218 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 7 | 1,4 | 0 | 0 |
-| S. Bocoum | D | 4 | 155 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Ferencvarosi TC
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -177,41 +177,41 @@ _Sin precedentes recientes._
 | P. Rommens | M | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,26 · córners esperados 9,2._
+_Goles esperados: local 1,11 · visitante 1,21 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 39% | 12% | 26% | 7.50 | +94% |
-| 1X2: X | 28% | 18% | 23% | 5.25 | +19% |
-| 1X2: 1 | 33% | 70% | 51% | 1.33 | -32% |
-| Doble oportunidad: X2 | 67% | 30% | 48% | 3.25 | +57% |
-| Doble oportunidad: 12 | 72% | 83% | 77% | 1.17 | -9% |
-| Doble oportunidad: 1X | 61% | 88% | 74% | 1.10 | -18% |
-| Ambos marcan: No | 52% | 50% | 51% | 1.91 | -3% |
-| Ambos marcan: Sí | 48% | 50% | 49% | 1.91 | -6% |
-| Goles más/menos: Más de 2.5 | 42% | 62% | 52% | 1.53 | -20% |
-| Goles más/menos: Más de 3.5 | 22% | 40% | 31% | 2.38 | -27% |
-| Goles más/menos: Más de 4.5 | 9% | 24% | 17% | 4.00 | -34% |
-| Goles más/menos: Menos de 2.5 | 58% | 38% | 48% | 2.50 | +19% |
-| Goles más/menos: Menos de 3.5 | 78% | 60% | 69% | 1.57 | +9% |
-| Goles más/menos: Menos de 4.5 | 91% | 76% | 83% | 1.25 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 75% | 70% | 1.25 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 42% | 35% | 2.20 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 25% | 30% | 3.75 | +14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 58% | 65% | 1.62 | +5% |
+| 1X2: 2 | 38% | 12% | 25% | 7.50 | +90% |
+| 1X2: X | 28% | 18% | 23% | 5.25 | +20% |
+| 1X2: 1 | 34% | 70% | 52% | 1.33 | -31% |
+| Doble oportunidad: X2 | 66% | 30% | 48% | 3.25 | +56% |
+| Doble oportunidad: 12 | 72% | 83% | 77% | 1.17 | -10% |
+| Doble oportunidad: 1X | 62% | 88% | 75% | 1.10 | -18% |
+| Ambos marcan: No | 53% | 50% | 51% | 1.91 | -2% |
+| Ambos marcan: Sí | 47% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Más de 2.5 | 41% | 62% | 52% | 1.53 | -21% |
+| Goles más/menos: Más de 3.5 | 21% | 40% | 30% | 2.38 | -28% |
+| Goles más/menos: Más de 4.5 | 9% | 24% | 16% | 4.00 | -35% |
+| Goles más/menos: Menos de 2.5 | 59% | 38% | 48% | 2.50 | +21% |
+| Goles más/menos: Menos de 3.5 | 79% | 60% | 70% | 1.57 | +10% |
+| Goles más/menos: Menos de 4.5 | 91% | 76% | 84% | 1.25 | +5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 75% | 69% | 1.25 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 42% | 35% | 2.20 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 25% | 31% | 3.75 | +15% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 58% | 65% | 1.62 | +6% |
 | Goles del local: Más de 1.5 | 31% | 69% | 50% | 1.36 | -32% |
 | Goles del local: Más de 2.5 | 10% | 42% | 26% | 2.20 | -42% |
 | Goles del local: Más de 3.5 | 3% | 23% | 13% | 4.00 | -48% |
-| Goles del local: Menos de 1.5 | 69% | 31% | 50% | 3.00 | +50% |
+| Goles del local: Menos de 1.5 | 69% | 31% | 50% | 3.00 | +51% |
 | Goles del local: Menos de 2.5 | 90% | 58% | 74% | 1.62 | +19% |
 | Goles del local: Menos de 3.5 | 97% | 77% | 87% | 1.22 | +6% |
-| Goles del visitante: Más de 0.5 | 71% | 56% | 64% | 1.67 | +6% |
-| Goles del visitante: Más de 1.5 | 36% | 22% | 29% | 4.33 | +24% |
-| Goles del visitante: Menos de 0.5 | 29% | 44% | 36% | 2.10 | -24% |
-| Goles del visitante: Menos de 1.5 | 64% | 78% | 71% | 1.20 | -14% |
-| 1X2 descanso: X | 46% | 35% | 40% | 2.62 | +6% |
+| Goles del visitante: Más de 0.5 | 70% | 56% | 63% | 1.67 | +5% |
+| Goles del visitante: Más de 1.5 | 34% | 22% | 28% | 4.33 | +21% |
+| Goles del visitante: Menos de 0.5 | 30% | 44% | 37% | 2.10 | -22% |
+| Goles del visitante: Menos de 1.5 | 66% | 78% | 72% | 1.20 | -14% |
+| 1X2 descanso: X | 46% | 35% | 41% | 2.62 | +6% |
 | 1X2 descanso: 1 | 25% | 53% | 39% | 1.73 | -32% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

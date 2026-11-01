@@ -1,7 +1,7 @@
 # Las Palmas – Eldense
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Marcos Bustillo | M | 5 | 146 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 1,23 · córners esperados 10,1._
+_Goles esperados: local 1,32 · visitante 1,22 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

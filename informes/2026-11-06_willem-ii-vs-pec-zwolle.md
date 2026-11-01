@@ -1,7 +1,7 @@
 # Willem II – PEC Zwolle
 **Eredivisie** · Regular Season - 12 · 06/11/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 07:55_
@@ -53,53 +53,53 @@ _Actualizadas: 31/10 07:55_
 ## Estadísticas de equipo
 | | Willem II (total) | Willem II en casa | PEC Zwolle (total) | PEC Zwolle fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 11 | 5 |
-| Forma (últimos 5) | VDDDD | DDDED | DEVDD | EDEVD |
-| Balance | 1V 2E 8D | 0V 1E 4D | 2V 2E 7D | 1V 2E 2D |
-| Goles a favor / partido | 1,27 | 0,80 | 1,09 | 1,20 |
-| Goles en contra / partido | 3,18 | 3,20 | 2,27 | 1,80 |
-| Goles a favor 1ª parte | 0,45 | 0,00 | 0,36 | 0,40 |
-| Goles a favor 2ª parte | 0,82 | 0,80 | 0,73 | 0,80 |
-| Goles en contra 1ª parte | 1,09 | 1,20 | 1,00 | 0,80 |
-| Goles en contra 2ª parte | 2,09 | 2,00 | 1,27 | 1,00 |
-| Más de 1,5 goles | 91% | 80% | 91% | 100% |
-| Más de 2,5 goles | 82% | 80% | 64% | 60% |
-| Más de 3,5 goles | 73% | 60% | 45% | 40% |
-| Ambos marcan | 82% | 60% | 55% | 60% |
+| Partidos analizados | 12 | 5 | 11 | 5 |
+| Forma (últimos 5) | DVDDD | DDDED | DEVDD | EDEVD |
+| Balance | 1V 2E 9D | 0V 1E 4D | 2V 2E 7D | 1V 2E 2D |
+| Goles a favor / partido | 1,17 | 0,80 | 1,09 | 1,20 |
+| Goles en contra / partido | 3,50 | 3,20 | 2,27 | 1,80 |
+| Goles a favor 1ª parte | 0,42 | 0,00 | 0,36 | 0,40 |
+| Goles a favor 2ª parte | 0,75 | 0,80 | 0,73 | 0,80 |
+| Goles en contra 1ª parte | 1,17 | 1,20 | 1,00 | 0,80 |
+| Goles en contra 2ª parte | 2,33 | 2,00 | 1,27 | 1,00 |
+| Más de 1,5 goles | 92% | 80% | 91% | 100% |
+| Más de 2,5 goles | 83% | 80% | 64% | 60% |
+| Más de 3,5 goles | 75% | 60% | 45% | 40% |
+| Ambos marcan | 75% | 60% | 55% | 60% |
 | Portería a cero | 0% | 0% | 9% | 20% |
-| Se queda sin marcar | 18% | 40% | 36% | 20% |
-| xG a favor | 1,23 | 1,22 | 1,03 | 0,94 |
-| xG en contra | 2,28 | 1,84 | 1,87 | 1,64 |
-| Tiros / partido | 11,8 | 12,8 | 11,8 | 12,2 |
-| Tiros a puerta / partido | 2,8 | 2,8 | 4,5 | 4,4 |
+| Se queda sin marcar | 25% | 40% | 36% | 20% |
+| xG a favor | 1,24 | 1,22 | 1,03 | 0,94 |
+| xG en contra | 2,32 | 1,84 | 1,87 | 1,64 |
+| Tiros / partido | 11,2 | 12,8 | 11,8 | 12,2 |
+| Tiros a puerta / partido | 2,7 | 2,8 | 4,5 | 4,4 |
 | Tiros recibidos | 20,2 | 16,6 | 18,5 | 21,2 |
-| Tiros a puerta recibidos | 7,3 | 6,8 | 6,5 | 7,0 |
-| Posesión media % | 43 | 46 | 44 | 40 |
-| Córners a favor | 4,5 | 7,0 | 4,5 | 3,6 |
-| Córners en contra | 5,9 | 4,4 | 7,1 | 7,6 |
-| Córners a favor 1ª parte | 1,8 | 2,4 | 2,0 | 1,8 |
-| Córners a favor 2ª parte | 2,6 | 4,6 | 2,5 | 1,8 |
-| Córners totales del partido | 10,4 | 11,4 | 11,5 | 11,2 |
+| Tiros a puerta recibidos | 7,4 | 6,8 | 6,5 | 7,0 |
+| Posesión media % | 42 | 46 | 44 | 40 |
+| Córners a favor | 4,2 | 7,0 | 4,5 | 3,6 |
+| Córners en contra | 6,3 | 4,4 | 7,1 | 7,6 |
+| Córners a favor 1ª parte | 1,7 | 2,4 | 2,0 | 1,8 |
+| Córners a favor 2ª parte | 2,5 | 4,6 | 2,5 | 1,8 |
+| Córners totales del partido | 10,5 | 11,4 | 11,5 | 11,2 |
 | Córners totales 1ª parte | 4,4 | 4,6 | 5,6 | 6,4 |
-| Córners totales 2ª parte | 6,0 | 6,8 | 5,9 | 4,8 |
-| Más de 8,5 córners | 55% | 60% | 91% | 80% |
-| Más de 9,5 córners | 55% | 60% | 73% | 40% |
-| Más de 10,5 córners | 45% | 60% | 64% | 40% |
-| Faltas cometidas | 10,7 | 11,0 | 11,1 | 9,8 |
-| Faltas recibidas | 9,7 | 10,6 | 10,2 | 9,4 |
+| Córners totales 2ª parte | 6,1 | 6,8 | 5,9 | 4,8 |
+| Más de 8,5 córners | 58% | 60% | 91% | 80% |
+| Más de 9,5 córners | 58% | 60% | 73% | 40% |
+| Más de 10,5 córners | 50% | 60% | 64% | 40% |
+| Faltas cometidas | 10,2 | 11,0 | 11,1 | 9,8 |
+| Faltas recibidas | 9,5 | 10,6 | 10,2 | 9,4 |
 | Amarillas propias | 1,5 | 1,6 | 1,3 | 1,6 |
-| Amarillas del rival | 1,1 | 0,4 | 1,1 | 0,6 |
-| Rojas / partido | 0,09 | 0,00 | 0,09 | 0,00 |
+| Amarillas del rival | 1,0 | 0,4 | 1,1 | 0,6 |
+| Rojas / partido | 0,08 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Willem II | Recibe Willem II | Tarjetas Willem II | Goles PEC Zwolle | Recibe PEC Zwolle | Tarjetas PEC Zwolle |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 4 | 0 | 0 | 1 | 0 |
-| 16-30' | 2 | 2 | 3 | 3 | 6 | 0 |
-| 31-45' | 2 | 6 | 2 | 1 | 4 | 2 |
-| 46-60' | 2 | 5 | 2 | 3 | 3 | 3 |
-| 61-75' | 2 | 11 | 6 | 3 | 5 | 1 |
-| 76-90' | 5 | 7 | 4 | 2 | 6 | 9 |
+| 16-30' | 2 | 3 | 3 | 3 | 6 | 0 |
+| 31-45' | 2 | 7 | 3 | 1 | 4 | 2 |
+| 46-60' | 2 | 7 | 2 | 3 | 3 | 3 |
+| 61-75' | 2 | 12 | 7 | 3 | 5 | 1 |
+| 76-90' | 5 | 9 | 4 | 2 | 6 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -117,35 +117,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Willem II
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Eredivisie | PSV Eindhoven 7-0 Willem II | fuera | 1-11 | 4 (1) - 20 (9) | 2-0 |
 | 2026-10-27 | KNVB Beker | Helmond Sport 3-4 Willem II | fuera | 1-2 | 13 (4) - 18 (5) | 2-2 |
 | 2026-10-24 | Eredivisie | Willem II 1-6 Cambuur | casa | 13-4 | 11 (2) - 19 (11) | 2-0 |
 | 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | fuera | 4-3 | 13 (4) - 22 (8) | 4-4 |
 | 2026-10-11 | Eredivisie | Utrecht 3-1 Willem II | fuera | 3-7 | 9 (2) - 24 (6) | 0-2 |
 | 2026-09-19 | Eredivisie | Willem II 0-1 Fortuna Sittard | casa | 5-3 | 16 (3) - 17 (3) | 3-1 |
-| 2026-09-15 | Eredivisie | Ajax 5-1 Willem II | fuera | 2-14 | 10 (4) - 33 (12) | 0-0 |
 
 ## Jugadores de Willem II
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Finn Stam | D | 11 | 990 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 8 | 9 | 0,8 | 1 | 0 |
-| Devin Haen | F | 11 | 966 | 4 | 2 | 22 | 2,0 | 8 | 0,7 | 8 | 4 | 0,4 | 0 | 0 |
-| Nathan Tjoe-A-On | D | 11 | 935 | 0 | 2 | 7 | 0,6 | 1 | 0,1 | 9 | 6 | 0,5 | 2 | 0 |
-| Uriel van Aalst | M | 10 | 888 | 2 | 2 | 14 | 1,4 | 4 | 0,4 | 6 | 6 | 0,6 | 1 | 0 |
+| F. Stam | D | 12 | 1070 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 9 | 10 | 0,8 | 2 | 0 |
+| D. Haen | F | 12 | 1056 | 4 | 2 | 24 | 2,0 | 8 | 0,7 | 9 | 4 | 0,3 | 0 | 0 |
+| N. Tjoe-A-On | D | 12 | 1025 | 0 | 2 | 8 | 0,7 | 2 | 0,2 | 9 | 7 | 0,6 | 2 | 0 |
+| Uriel van Aalst | M | 11 | 968 | 2 | 2 | 15 | 1,4 | 4 | 0,4 | 6 | 7 | 0,6 | 1 | 0 |
+| H. ter Avest | M | 11 | 832 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 11 | 6 | 0,5 | 1 | 0 |
 | Jaden Slory | F | 11 | 832 | 1 | 0 | 15 | 1,4 | 8 | 0,7 | 9 | 15 | 1,4 | 2 | 1 |
-| Hidde ter Avest | D | 10 | 770 | 0 | 2 | 6 | 0,6 | 1 | 0,1 | 11 | 6 | 0,6 | 1 | 0 |
-| Calvin Twigt | M | 8 | 714 | 0 | 1 | 4 | 0,5 | 0 | 0,0 | 7 | 11 | 1,4 | 0 | 0 |
-| Maxime Delanghe | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| M. Dekker | D | 7 | 531 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 2 | 0,3 | 0 | 0 |
-| Tonny Vilhena | M | 8 | 470 | 2 | 0 | 8 | 1,0 | 2 | 0,2 | 7 | 11 | 1,4 | 1 | 0 |
+| C. Twigt | M | 9 | 804 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 7 | 12 | 1,3 | 0 | 0 |
+| M. Delanghe | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| M. Dekker | D | 8 | 621 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
+| T. Vilhena | M | 9 | 485 | 2 | 0 | 8 | 0,9 | 2 | 0,2 | 7 | 11 | 1,2 | 1 | 0 |
 | Eser Gürbüz | M | 9 | 434 | 2 | 1 | 9 | 1,0 | 2 | 0,2 | 7 | 5 | 0,6 | 1 | 0 |
-| K. Boogaard | M | 5 | 348 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 7 | 2 | 0,4 | 1 | 0 |
-| Per van Loon | M | 7 | 333 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,3 | 0 | 0 |
-| Vito van Crooij | M | 5 | 325 | 0 | 2 | 4 | 0,8 | 0 | 0,0 | 5 | 7 | 1,4 | 2 | 0 |
-| Mats Lemmens | D | 10 | 308 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
-| A. Ciranni | D | 6 | 242 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
+| V. van Crooij | M | 6 | 400 | 0 | 2 | 4 | 0,7 | 0 | 0,0 | 5 | 7 | 1,2 | 2 | 0 |
+| M. Lemmens | D | 11 | 398 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
+| K. Boogaard | M | 6 | 364 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 8 | 2 | 0,3 | 1 | 0 |
+| Per van Loon | M | 8 | 361 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,2 | 0 | 0 |
+| A. Ciranni | D | 7 | 252 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 2 | 0,3 | 0 | 0 |
+| Anass Zarrouk | M | 5 | 248 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 3 | 0,6 | 0 | 0 |
 | Justin Hoogma | D | 3 | 225 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |
 | Karst de Leeuw | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Anass Zarrouk | M | 4 | 174 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 1 | 0,2 | 0 | 0 |
 | T. Didillon | G | 2 | 158 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de PEC Zwolle
@@ -183,44 +183,44 @@ _Sin bajas comunicadas por ahora._
 | T. Velthuis | D | 5 | 88 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,46 · visitante 1,47 · córners esperados 10,2._
+_Goles esperados: local 1,50 · visitante 1,51 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 45% | 41% | 2.10 | -13% |
-| 1X2: X | 25% | 25% | 25% | 3.75 | -7% |
+| 1X2: X | 24% | 25% | 25% | 3.75 | -8% |
 | 1X2: 1 | 38% | 30% | 34% | 3.10 | +5% |
 | Doble oportunidad: X2 | 62% | 69% | 66% | 1.36 | -10% |
-| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 12 | 76% | 75% | 76% | 1.25 | -6% |
 | Doble oportunidad: 1X | 62% | 55% | 59% | 1.70 | -0% |
-| Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
-| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
-| Goles más/menos: Más de 2.5 | 56% | 64% | 60% | 1.48 | -11% |
-| Goles más/menos: Más de 3.5 | 34% | 44% | 39% | 2.10 | -18% |
-| Goles más/menos: Más de 4.5 | 17% | 27% | 22% | 3.50 | -23% |
-| Goles más/menos: Menos de 2.5 | 44% | 36% | 40% | 2.60 | +4% |
-| Goles más/menos: Menos de 3.5 | 66% | 56% | 61% | 1.67 | +2% |
-| Goles más/menos: Menos de 4.5 | 83% | 73% | 78% | 1.28 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 44% | 40% | 2.10 | -15% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 21% | 17% | 4.50 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles del local: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles del local: Más de 2.5 | 18% | 21% | 19% | 4.50 | -12% |
-| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles del local: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
-| Goles del local: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del visitante: Más de 1.5 | 43% | 56% | 49% | 1.67 | -17% |
-| Goles del visitante: Más de 2.5 | 18% | 29% | 24% | 3.25 | -23% |
-| Goles del visitante: Menos de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
-| Goles del visitante: Menos de 2.5 | 82% | 71% | 76% | 1.33 | +2% |
-| 1X2 descanso: 2 | 30% | 36% | 33% | 2.60 | -15% |
-| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
-| 1X2 descanso: 1 | 30% | 27% | 28% | 3.40 | -3% |
+| Ambos marcan: No | 40% | 35% | 38% | 2.62 | -2% |
+| Ambos marcan: Sí | 60% | 65% | 62% | 1.44 | -10% |
+| Goles más/menos: Más de 2.5 | 58% | 64% | 61% | 1.48 | -10% |
+| Goles más/menos: Más de 3.5 | 35% | 44% | 40% | 2.10 | -16% |
+| Goles más/menos: Más de 4.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles más/menos: Menos de 2.5 | 42% | 36% | 39% | 2.60 | +2% |
+| Goles más/menos: Menos de 3.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles más/menos: Menos de 4.5 | 82% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 44% | 41% | 2.10 | -14% |
+| Goles 1ª parte más/menos: Más de 2.5 | 14% | 21% | 18% | 4.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
+| Goles del local: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Goles del local: Más de 2.5 | 19% | 21% | 20% | 4.50 | -11% |
+| Goles del local: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -8% |
+| Goles del local: Menos de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Goles del local: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -5% |
+| Goles del visitante: Más de 1.5 | 44% | 56% | 50% | 1.67 | -16% |
+| Goles del visitante: Más de 2.5 | 19% | 29% | 24% | 3.25 | -22% |
+| Goles del visitante: Menos de 1.5 | 56% | 44% | 50% | 2.10 | +5% |
+| Goles del visitante: Menos de 2.5 | 81% | 71% | 76% | 1.33 | +1% |
+| 1X2 descanso: 2 | 30% | 36% | 33% | 2.60 | -14% |
+| 1X2 descanso: X | 40% | 37% | 39% | 2.50 | -4% |
+| 1X2 descanso: 1 | 30% | 27% | 29% | 3.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

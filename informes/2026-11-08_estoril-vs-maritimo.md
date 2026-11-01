@@ -1,7 +1,7 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,52 +9,52 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Estoril (total) | Estoril en casa | Maritimo (total) | Maritimo fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 6 |
-| Forma (últimos 5) | DEDDD | DDEDE | DVDED | DVEDD |
-| Balance | 0V 3E 7D | 0V 2E 3D | 3V 2E 5D | 2V 1E 3D |
-| Goles a favor / partido | 0,60 | 0,60 | 1,10 | 1,17 |
-| Goles en contra / partido | 1,60 | 1,60 | 2,00 | 2,17 |
+| Partidos analizados | 11 | 5 | 10 | 6 |
+| Forma (últimos 5) | DDEDD | DDEDE | DVDED | DVEDD |
+| Balance | 0V 3E 8D | 0V 2E 3D | 3V 2E 5D | 2V 1E 3D |
+| Goles a favor / partido | 0,55 | 0,60 | 1,10 | 1,17 |
+| Goles en contra / partido | 1,82 | 1,60 | 2,00 | 2,17 |
 | Goles a favor 1ª parte | 0,00 | 0,00 | 0,30 | 0,33 |
-| Goles a favor 2ª parte | 0,60 | 0,60 | 0,80 | 0,83 |
-| Goles en contra 1ª parte | 0,70 | 1,00 | 1,00 | 1,00 |
-| Goles en contra 2ª parte | 0,90 | 0,60 | 1,00 | 1,17 |
-| Más de 1,5 goles | 80% | 80% | 90% | 100% |
-| Más de 2,5 goles | 40% | 40% | 80% | 83% |
-| Más de 3,5 goles | 10% | 20% | 30% | 33% |
-| Ambos marcan | 60% | 60% | 70% | 83% |
-| Portería a cero | 10% | 20% | 10% | 0% |
-| Se queda sin marcar | 40% | 40% | 20% | 17% |
-| xG a favor | 1,05 | 1,22 | 0,83 | 0,89 |
-| xG en contra | 1,49 | 1,36 | 1,48 | 1,48 |
-| Tiros / partido | 14,4 | 18,0 | 9,9 | 10,0 |
-| Tiros a puerta / partido | 5,2 | 6,0 | 3,1 | 3,0 |
-| Tiros recibidos | 13,9 | 9,0 | 14,3 | 15,6 |
-| Tiros a puerta recibidos | 4,3 | 3,0 | 5,8 | 5,6 |
-| Posesión media % | 49 | 55 | 45 | 45 |
-| Córners a favor | 5,0 | 6,8 | 3,1 | 3,4 |
-| Córners en contra | 4,6 | 3,6 | 4,7 | 4,0 |
-| Córners a favor 1ª parte | 2,3 | 3,4 | 1,9 | 2,2 |
-| Córners a favor 2ª parte | 2,7 | 3,4 | 1,2 | 1,2 |
-| Córners totales del partido | 9,6 | 10,4 | 7,8 | 7,4 |
-| Córners totales 1ª parte | 4,4 | 5,6 | 3,7 | 3,8 |
-| Córners totales 2ª parte | 5,1 | 4,8 | 4,1 | 3,6 |
-| Más de 8,5 córners | 78% | 100% | 22% | 20% |
-| Más de 9,5 córners | 44% | 60% | 11% | 20% |
-| Más de 10,5 córners | 33% | 40% | 11% | 20% |
-| Faltas cometidas | 11,7 | 11,8 | 15,0 | 13,2 |
+| Goles a favor 2ª parte | 0,55 | 0,60 | 0,80 | 0,83 |
+| Goles en contra 1ª parte | 0,73 | 1,00 | 1,00 | 1,00 |
+| Goles en contra 2ª parte | 1,09 | 0,60 | 1,00 | 1,17 |
+| Más de 1,5 goles | 82% | 80% | 90% | 100% |
+| Más de 2,5 goles | 45% | 40% | 80% | 83% |
+| Más de 3,5 goles | 18% | 20% | 30% | 33% |
+| Ambos marcan | 55% | 60% | 70% | 83% |
+| Portería a cero | 9% | 20% | 10% | 0% |
+| Se queda sin marcar | 45% | 40% | 20% | 17% |
+| xG a favor | 1,01 | 1,22 | 0,83 | 0,89 |
+| xG en contra | 1,65 | 1,36 | 1,48 | 1,48 |
+| Tiros / partido | 13,7 | 18,0 | 9,9 | 10,0 |
+| Tiros a puerta / partido | 4,7 | 6,0 | 3,1 | 3,0 |
+| Tiros recibidos | 14,9 | 9,0 | 14,3 | 15,6 |
+| Tiros a puerta recibidos | 5,0 | 3,0 | 5,8 | 5,6 |
+| Posesión media % | 48 | 55 | 45 | 45 |
+| Córners a favor | 4,5 | 6,8 | 3,1 | 3,4 |
+| Córners en contra | 4,9 | 3,6 | 4,7 | 4,0 |
+| Córners a favor 1ª parte | 2,1 | 3,4 | 1,9 | 2,2 |
+| Córners a favor 2ª parte | 2,4 | 3,4 | 1,2 | 1,2 |
+| Córners totales del partido | 9,4 | 10,4 | 7,8 | 7,4 |
+| Córners totales 1ª parte | 4,7 | 5,6 | 3,7 | 3,8 |
+| Córners totales 2ª parte | 4,7 | 4,8 | 4,1 | 3,6 |
+| Más de 8,5 córners | 70% | 100% | 22% | 20% |
+| Más de 9,5 córners | 40% | 60% | 11% | 20% |
+| Más de 10,5 córners | 30% | 40% | 11% | 20% |
+| Faltas cometidas | 11,2 | 11,8 | 15,0 | 13,2 |
 | Faltas recibidas | 13,3 | 12,0 | 12,8 | 11,4 |
-| Amarillas propias | 2,2 | 2,4 | 1,9 | 2,0 |
+| Amarillas propias | 2,0 | 2,4 | 1,9 | 2,0 |
 | Amarillas del rival | 1,3 | 1,4 | 2,4 | 1,8 |
-| Rojas / partido | 0,22 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,20 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Estoril | Recibe Estoril | Tarjetas Estoril | Goles Maritimo | Recibe Maritimo | Tarjetas Maritimo |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 3 | 1 | 0 | 3 | 1 |
+| 1-15' | 0 | 4 | 1 | 0 | 3 | 1 |
 | 16-30' | 0 | 2 | 4 | 3 | 3 | 1 |
 | 31-45' | 0 | 2 | 6 | 0 | 4 | 8 |
 | 46-60' | 1 | 1 | 1 | 1 | 3 | 4 |
-| 61-75' | 2 | 3 | 7 | 3 | 2 | 2 |
+| 61-75' | 2 | 6 | 7 | 3 | 2 | 2 |
 | 76-90' | 3 | 5 | 8 | 4 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Estoril
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Primeira Liga | FC Porto 4-0 Estoril | fuera | 0-8 | 7 (0) - 24 (11) | 0-1 |
 | 2026-10-25 | Primeira Liga | Estoril 1-3 Moreirense | casa | 6-3 | 26 (7) - 13 (4) | 3-1 |
 | 2026-10-18 | Taça de Portugal | Salgueiros 1-1 Estoril | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Academico Viseu 2-1 Estoril | fuera | 5-3 | 15 (9) - 15 (6) | 1-3 |
 | 2026-09-20 | Primeira Liga | Estoril 1-2 Casa Pia | casa | 7-4 | 14 (6) - 11 (3) | 3-2 |
 | 2026-09-14 | Primeira Liga | SC Braga 1-0 Estoril | fuera | 2-4 | 12 (1) - 20 (7) | 2-0 |
-| 2026-09-07 | Primeira Liga | Estoril 0-0 Arouca | casa | 8-2 | 18 (8) - 12 (2) | 4-1 |
 
 ## Jugadores de Estoril
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Joel Robles | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | João Carvalho | M | 9 | 768 | 0 | 1 | 16 | 1,8 | 5 | 0,6 | 6 | 16 | 1,8 | 2 | 0 |
-| Ricard Sánchez | D | 9 | 647 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 14 | 4 | 0,4 | 1 | 0 |
+| Ferro | D | 8 | 677 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 2 | 0,2 | 4 | 1 |
+| A. Tsoungui | M | 9 | 662 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 14 | 12 | 1,3 | 2 | 0 |
+| Ricard Sánchez | D | 10 | 648 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 14 | 4 | 0,4 | 1 | 0 |
 | Ismael Sierra Arnal | D | 7 | 630 | 0 | 0 | 8 | 1,1 | 1 | 0,1 | 10 | 6 | 0,9 | 3 | 0 |
 | Yanis Begraoui | F | 7 | 630 | 2 | 0 | 12 | 1,7 | 7 | 1,0 | 0 | 8 | 1,1 | 1 | 0 |
-| Ferro | D | 7 | 603 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 2 | 0,3 | 4 | 1 |
-| A. Tsoungui | M | 8 | 572 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 13 | 11 | 1,4 | 2 | 0 |
-| André Lacximicant | F | 9 | 527 | 0 | 0 | 16 | 1,8 | 9 | 1,0 | 3 | 11 | 1,2 | 1 | 0 |
-| J. Holsgrove | M | 6 | 477 | 0 | 1 | 7 | 1,2 | 4 | 0,7 | 5 | 10 | 1,7 | 1 | 0 |
-| R. Guitane | F | 8 | 458 | 1 | 0 | 10 | 1,2 | 5 | 0,6 | 0 | 13 | 1,6 | 0 | 0 |
+| André Lacximicant | F | 10 | 617 | 0 | 0 | 19 | 1,9 | 9 | 0,9 | 4 | 12 | 1,2 | 1 | 0 |
+| R. Guitane | M | 9 | 548 | 1 | 0 | 11 | 1,2 | 5 | 0,6 | 0 | 16 | 1,8 | 0 | 0 |
+| J. Holsgrove | M | 7 | 493 | 0 | 1 | 7 | 1,0 | 4 | 0,6 | 5 | 11 | 1,6 | 1 | 0 |
 | Fernando Medrano | D | 6 | 438 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 8 | 3 | 0,5 | 1 | 0 |
 | R. Jurišić | D | 4 | 344 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 5 | 1,2 | 0 | 0 |
-| Xavi Sintes | D | 3 | 259 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |
-| N. Omerović | F | 4 | 227 | 0 | 0 | 7 | 1,8 | 2 | 0,5 | 4 | 0 | 0,0 | 1 | 0 |
+| Xavi Sintes | M | 4 | 321 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| N. Omerović | F | 5 | 267 | 0 | 0 | 9 | 1,8 | 2 | 0,4 | 6 | 0 | 0,0 | 1 | 0 |
+| Pedro Carvalho | D | 10 | 262 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
+| Xeka | M | 5 | 209 | 0 | 0 | 5 | 1,0 | 2 | 0,4 | 8 | 5 | 1,0 | 2 | 1 |
 | M. Robin | M | 3 | 195 | 0 | 0 | 4 | 1,3 | 2 | 0,7 | 3 | 2 | 0,7 | 0 | 0 |
-| Xeka | M | 4 | 181 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 8 | 3 | 0,8 | 2 | 1 |
+| Peixinho | M | 7 | 186 | 1 | 0 | 4 | 0,6 | 2 | 0,3 | 3 | 10 | 1,4 | 0 | 0 |
+| J. Arnolin | M | 5 | 179 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 4 | 2 | 0,4 | 2 | 0 |
 | Fabrício Garcia | M | 6 | 175 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 7 | 1,2 | 0 | 0 |
-| Pedro Carvalho | D | 9 | 173 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
-| Peixinho | F | 6 | 136 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 8 | 1,3 | 0 | 0 |
-| Jordan Arnolin | D | 4 | 117 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 4 | 2 | 0,5 | 2 | 0 |
 
 ## Últimos partidos de Maritimo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Israel Ayuma | M | 5 | 113 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,15 · córners esperados 9,4._
+_Goles esperados: local 1,06 · visitante 1,22 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

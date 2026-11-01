@@ -1,7 +1,7 @@
 # Cadiz – Oviedo
 **Segunda División** · Regular Season - 13 · 07/11/2026 16:15 (hora España) · JP Financial Estadio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Chris Ramos | F | 4 | 226 | 1 | 0 | 6 | 1,5 | 2 | 0,5 | 8 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 1,50 · córners esperados 10,1._
+_Goles esperados: local 1,45 · visitante 1,49 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

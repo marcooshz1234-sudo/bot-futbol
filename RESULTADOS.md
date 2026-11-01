@@ -1,30 +1,40 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 31/10/2026 19:51. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 01/11/2026 02:15. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 59 · **acertados:** 19 (32%)
-- **Beneficio:** -9.28 unidades · **rentabilidad (yield):** -15.7%
-- **Cuota media:** 2.85 · **pendientes:** 69
+- **Picks jugados:** 69 · **acertados:** 23 (33%)
+- **Beneficio:** -8.24 unidades · **rentabilidad (yield):** -11.9%
+- **Cuota media:** 2.86 · **pendientes:** 60
 
-_Con 59 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 69 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 13 | 5 (38%) | -1.00 | -7.7% |
-| Goles más/menos | 13 | 4 (31%) | -2.15 | -16.5% |
-| Goles del local | 10 | 4 (40%) | +2.02 | +20.2% |
-| Goles del visitante | 9 | 1 (11%) | -6.38 | -70.9% |
-| Doble oportunidad | 7 | 3 (43%) | -0.40 | -5.7% |
-| 1X2 descanso | 4 | 2 (50%) | +1.63 | +40.8% |
+| 1X2 | 15 | 6 (40%) | +0.70 | +4.7% |
+| Goles más/menos | 15 | 5 (33%) | -1.53 | -10.2% |
+| Goles del local | 12 | 4 (33%) | +0.02 | +0.2% |
+| Goles del visitante | 10 | 2 (20%) | -4.76 | -47.6% |
+| Doble oportunidad | 8 | 3 (38%) | -1.40 | -17.5% |
+| 1X2 descanso | 5 | 2 (40%) | +0.63 | +12.6% |
+| Córners más/menos | 2 | 1 (50%) | +0.10 | +5.0% |
 | Goles 1ª parte más/menos | 2 | 0 (0%) | -2.00 | -100.0% |
-| Córners más/menos | 1 | 0 (0%) | -1.00 | -100.0% |
 
 ## Últimos picks
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-10-31 | Barcelona – Alaves | Córners más/menos: Menos de 10.5 | 2.10 | ✅ | +1.10 |
+| 2026-10-31 | Estac Troyes – Le Mans | 1X2 descanso: 2 | 3.50 | ❌ | -1.00 |
+| 2026-10-31 | Estac Troyes – Le Mans | 1X2: 2 | 3.00 | ❌ | -1.00 |
+| 2026-10-31 | AC Milan – Inter | Goles más/menos: Más de 3.5 | 2.62 | ✅ | +1.62 |
+| 2026-10-31 | AC Milan – Inter | 1X2: 1 | 3.70 | ✅ | +2.70 |
+| 2026-10-31 | Tottenham – Crystal Palace | Goles del local: Menos de 1.5 | 2.25 | ❌ | -1.00 |
+| 2026-10-31 | Tottenham – Crystal Palace | Doble oportunidad: X2 | 2.25 | ❌ | -1.00 |
+| 2026-10-31 | Bayern München – Borussia Dortmund | Goles del local: Menos de 1.5 | 4.00 | ❌ | -1.00 |
+| 2026-10-31 | Bayern München – Borussia Dortmund | Goles más/menos: Menos de 2.5 | 3.75 | ❌ | -1.00 |
+| 2026-10-31 | Udinese – AS Roma | Goles del visitante: Más de 2.5 | 2.62 | ✅ | +1.62 |
 | 2026-10-31 | Brentford – Nottingham Forest | 1X2: 1 | 2.15 | ✅ | +1.15 |
 | 2026-10-31 | Bournemouth – Leeds | 1X2 descanso: 1 | 2.75 | ✅ | +1.75 |
 | 2026-10-31 | Bournemouth – Leeds | 1X2: 1 | 2.10 | ✅ | +1.10 |
@@ -55,13 +65,3 @@ _Con 59 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-28 | Manchester City – Brighton | Doble oportunidad: X2 | 2.25 | ✅ | +1.25 |
 | 2026-10-28 | Venezia – Inter | Goles del visitante: Más de 3.5 | 3.40 | ❌ | -1.00 |
 | 2026-10-28 | Venezia – Inter | Goles más/menos: Más de 4.5 | 3.20 | ❌ | -1.00 |
-| 2026-10-28 | AC Milan – Bologna | Goles 1ª parte más/menos: Menos de 0.5 | 3.25 | ❌ | -1.00 |
-| 2026-10-28 | SC Paderborn 07 – VfB Stuttgart | Doble oportunidad: 1X | 2.38 | ❌ | -1.00 |
-| 2026-10-28 | SC Paderborn 07 – VfB Stuttgart | Goles del visitante: Menos de 1.5 | 2.62 | ✅ | +1.62 |
-| 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles más/menos: Menos de 2.5 | 2.60 | ❌ | -1.00 |
-| 2026-10-27 | Borussia Dortmund – Werder Bremen | Goles del local: Menos de 1.5 | 3.00 | ❌ | -1.00 |
-| 2026-10-27 | Sassuolo – Lazio | Goles del visitante: Menos de 1.5 | 1.91 | ❌ | -1.00 |
-| 2026-10-27 | Sassuolo – Lazio | 1X2: 1 | 3.40 | ❌ | -1.00 |
-| 2026-10-26 | Sevilla – Osasuna | Goles 1ª parte más/menos: Más de 1.5 | 3.25 | ❌ | -1.00 |
-| 2026-10-26 | Sevilla – Osasuna | Goles más/menos: Más de 2.5 | 2.20 | ❌ | -1.00 |
-| 2026-10-25 | Barcelona – Real Madrid | Córners más/menos: Menos de 10.5 | 1.91 | ❌ | -1.00 |

@@ -1,7 +1,7 @@
 # Watford – Lincoln
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Watford:** M. Antonio (baja, Inactive); K. Baah (baja, Knock); E. Bove (baja, Knee Injury); S. Coulibaly (baja, Hamstring Injury); J. Ngakia (baja, Thigh Injury); M. Antonio (baja, Inactive); K. Baah (baja, Knock); E. Bove (baja, Knee Injury); S. Coulibaly (baja, Hamstring Injury); J. Ngakia (baja, Thigh Injury)
+**Lincoln:** T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive); T. Darikwa (baja, Knee Injury); M. Melia (baja, Thigh Injury); E. Wheatley (baja, Inactive)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -134,6 +135,6 @@ _Sin precedentes recientes._
 | D. Oyegoke | D | 6 | 275 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 6 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,51 · córners esperados 9,5._
+_Goles esperados: local 1,15 · visitante 1,51 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Birmingham – Swansea
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | J. Seelt | D | 5 | 151 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,45 · visitante 1,08 · córners esperados 9,4._
+_Goles esperados: local 1,46 · visitante 1,08 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

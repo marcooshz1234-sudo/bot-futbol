@@ -1,10 +1,10 @@
 # Lask Linz – Slovan Bratislava
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:49_
+_Actualizadas: 01/11 02:13_
 
 - **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.75**
@@ -105,7 +105,8 @@ _Actualizadas: 31/10 19:49_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Lask Linz:** G. Bello (baja, Muscle Injury); K. Cheikne (baja, Off the roster); R. Harakate (baja, Knee Injury); A. Smakaj (baja, Off the roster); G. Bello (baja, Muscle Injury); K. Cheikne (baja, Off the roster); R. Harakate (baja, Knee Injury); A. Smakaj (baja, Off the roster)
+**Slovan Bratislava:** A. Griger (baja, Off the roster); M. Kianga (baja, Off the roster); M. Kukharevych (baja, Injury); R. Cerepkai (duda, Back Injury); A. Griger (baja, Off the roster); M. Kianga (baja, Off the roster); M. Kukharevych (baja, Injury); R. Cerepkai (duda, Back Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -178,26 +179,26 @@ _Sin precedentes recientes._
 | R. Čerepkai | F | 3 | 110 | 1 | 0 | 5 | 1,7 | 3 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,22 · visitante 1,36 · córners esperados 9,7._
+_Goles esperados: local 2,22 · visitante 1,35 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 13% | 18% | 7.00 | +27% |
+| 1X2: 2 | 23% | 13% | 18% | 7.00 | +26% |
 | 1X2: X | 20% | 21% | 20% | 4.50 | -8% |
-| 1X2: 1 | 57% | 66% | 61% | 1.42 | -13% |
+| 1X2: 1 | 57% | 66% | 62% | 1.42 | -13% |
 | Doble oportunidad: X2 | 43% | 34% | 39% | 2.75 | +6% |
 | Doble oportunidad: 12 | 80% | 80% | 80% | 1.18 | -6% |
-| Doble oportunidad: 1X | 77% | 86% | 81% | 1.10 | -10% |
-| Ambos marcan: No | 34% | 41% | 37% | 2.25 | -16% |
-| Ambos marcan: Sí | 66% | 59% | 63% | 1.57 | -2% |
-| Goles más/menos: Más de 2.5 | 69% | 66% | 68% | 1.44 | -3% |
+| Doble oportunidad: 1X | 77% | 86% | 82% | 1.10 | -10% |
+| Ambos marcan: No | 34% | 41% | 38% | 2.25 | -16% |
+| Ambos marcan: Sí | 66% | 59% | 62% | 1.57 | -2% |
+| Goles más/menos: Más de 2.5 | 69% | 66% | 67% | 1.44 | -3% |
 | Goles más/menos: Más de 3.5 | 48% | 47% | 48% | 2.00 | -5% |
-| Goles más/menos: Más de 4.5 | 29% | 28% | 29% | 3.40 | -3% |
-| Goles más/menos: Menos de 2.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles más/menos: Más de 4.5 | 29% | 28% | 28% | 3.40 | -3% |
+| Goles más/menos: Menos de 2.5 | 31% | 34% | 33% | 2.75 | -10% |
 | Goles más/menos: Menos de 3.5 | 52% | 53% | 52% | 1.80 | -6% |
-| Goles más/menos: Menos de 4.5 | 71% | 72% | 71% | 1.33 | -5% |
+| Goles más/menos: Menos de 4.5 | 71% | 72% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Goles 1ª parte más/menos: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
@@ -210,10 +211,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 35% | 31% | 33% | 3.00 | -1% |
 | Goles del local: Menos de 2.5 | 62% | 56% | 59% | 1.67 | -2% |
 | Goles del local: Menos de 3.5 | 82% | 77% | 79% | 1.22 | -4% |
-| Goles del visitante: Más de 0.5 | 74% | 65% | 69% | 1.44 | +0% |
+| Goles del visitante: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Goles del visitante: Más de 1.5 | 39% | 29% | 34% | 3.25 | +11% |
 | Goles del visitante: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
-| Goles del visitante: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -13% |
+| Goles del visitante: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
 | 1X2 descanso: X | 35% | 33% | 34% | 2.75 | -6% |
 | 1X2 descanso: 1 | 43% | 50% | 47% | 1.83 | -15% |
 

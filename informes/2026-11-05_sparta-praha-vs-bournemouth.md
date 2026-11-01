@@ -1,7 +1,7 @@
 # Sparta Praha – Bournemouth
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,89 · visitante 2,88 · córners esperados 9,9._
+_Goles esperados: local 0,90 · visitante 2,87 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -204,9 +204,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 23% | 28% | 25% | 3.40 | -15% |
 | Goles del local: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
 | Goles del local: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 78% | 61% | 70% | 1.53 | +6% |
+| Goles del visitante: Más de 1.5 | 78% | 61% | 69% | 1.53 | +6% |
 | Goles del visitante: Más de 2.5 | 55% | 35% | 45% | 2.62 | +18% |
-| Goles del visitante: Menos de 1.5 | 22% | 39% | 30% | 2.38 | -27% |
+| Goles del visitante: Menos de 1.5 | 22% | 39% | 31% | 2.38 | -27% |
 | Goles del visitante: Menos de 2.5 | 45% | 65% | 55% | 1.44 | -21% |
 | 1X2 descanso: 2 | 58% | 45% | 52% | 2.05 | +6% |
 | 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -16% |

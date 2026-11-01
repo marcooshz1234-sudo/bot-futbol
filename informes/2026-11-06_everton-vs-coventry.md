@@ -1,7 +1,7 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 07:55_
@@ -184,21 +184,21 @@ _Goles esperados: local 1,66 · visitante 0,86 · córners esperados 9,4._
 | Doble oportunidad: X2 | 44% | 45% | 44% | 2.10 | -7% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 81% | 79% | 80% | 1.20 | -4% |
-| Ambos marcan: No | 53% | 47% | 50% | 2.00 | -0% |
-| Ambos marcan: Sí | 47% | 53% | 50% | 1.75 | -12% |
+| Ambos marcan: No | 53% | 47% | 50% | 2.00 | +0% |
+| Ambos marcan: Sí | 47% | 53% | 50% | 1.75 | -13% |
 | Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -8% |
-| Goles más/menos: Más de 2.5 | 46% | 55% | 51% | 1.73 | -13% |
+| Goles más/menos: Más de 2.5 | 46% | 55% | 50% | 1.73 | -13% |
 | Goles más/menos: Más de 3.5 | 25% | 32% | 28% | 3.00 | -15% |
 | Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +4% |
-| Goles más/menos: Menos de 2.5 | 54% | 45% | 49% | 2.10 | +4% |
+| Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
 | Goles más/menos: Menos de 3.5 | 75% | 68% | 72% | 1.40 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 1.5 | 50% | 54% | 52% | 1.73 | -11% |
+| Goles del local: Más de 1.5 | 49% | 54% | 52% | 1.73 | -11% |
 | Goles del local: Más de 2.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles del local: Menos de 1.5 | 50% | 46% | 48% | 2.00 | -3% |
+| Goles del local: Menos de 1.5 | 51% | 46% | 48% | 2.00 | -3% |
 | Goles del local: Menos de 2.5 | 77% | 71% | 74% | 1.33 | -2% |
 | Goles del visitante: Más de 0.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 1.5 | 21% | 28% | 24% | 3.40 | -17% |

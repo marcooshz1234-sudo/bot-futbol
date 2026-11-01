@@ -1,10 +1,10 @@
 # Barcelona – Aston Villa
-**Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Camp Nou
+**Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:49_
+_Actualizadas: 01/11 02:13_
 
 - **1X2:** 1 **1.25**  ·  X **6.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.12**  ·  X2 **3.75**
@@ -53,58 +53,59 @@ _Actualizadas: 31/10 19:49_
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Aston Villa (total) | Aston Villa fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 7 |
-| Forma (últimos 5) | DDVVV | DVVVV | DVVVV | DVVVV |
-| Balance | 11V 0E 2D | 5V 0E 1D | 7V 2E 4D | 4V 1E 2D |
-| Goles a favor / partido | 3,92 | 3,83 | 1,85 | 1,43 |
-| Goles en contra / partido | 1,31 | 1,17 | 1,46 | 1,71 |
-| Goles a favor 1ª parte | 1,62 | 1,83 | 1,08 | 1,00 |
-| Goles a favor 2ª parte | 2,31 | 2,00 | 0,77 | 0,43 |
-| Goles en contra 1ª parte | 0,54 | 0,50 | 0,62 | 1,00 |
-| Goles en contra 2ª parte | 0,77 | 0,67 | 0,85 | 0,71 |
-| Más de 1,5 goles | 100% | 100% | 77% | 71% |
-| Más de 2,5 goles | 92% | 83% | 77% | 71% |
-| Más de 3,5 goles | 77% | 50% | 54% | 57% |
-| Ambos marcan | 69% | 67% | 54% | 43% |
-| Portería a cero | 31% | 33% | 23% | 29% |
-| Se queda sin marcar | 0% | 0% | 31% | 43% |
-| xG a favor | 3,23 | 3,22 | 1,66 | 1,65 |
-| xG en contra | 1,21 | 1,02 | 1,67 | 1,88 |
-| Tiros / partido | 21,0 | 23,8 | 14,5 | 15,0 |
-| Tiros a puerta / partido | 8,2 | 8,5 | 5,2 | 4,7 |
-| Tiros recibidos | 7,8 | 6,5 | 15,3 | 16,6 |
-| Tiros a puerta recibidos | 4,0 | 2,7 | 4,9 | 5,3 |
-| Posesión media % | 68 | 71 | 47 | 48 |
-| Córners a favor | 6,5 | 9,7 | 4,5 | 4,0 |
-| Córners en contra | 2,5 | 3,2 | 4,8 | 5,0 |
-| Córners a favor 1ª parte | 3,3 | 5,3 | 2,8 | 2,3 |
-| Córners a favor 2ª parte | 3,2 | 4,3 | 1,7 | 1,7 |
-| Córners totales del partido | 9,0 | 12,8 | 9,3 | 9,0 |
-| Córners totales 1ª parte | 4,5 | 6,7 | 5,2 | 4,7 |
-| Córners totales 2ª parte | 4,5 | 6,2 | 4,2 | 4,3 |
-| Más de 8,5 córners | 38% | 83% | 54% | 57% |
-| Más de 9,5 córners | 38% | 83% | 38% | 29% |
-| Más de 10,5 córners | 38% | 83% | 38% | 29% |
-| Faltas cometidas | 10,2 | 10,2 | 12,0 | 11,6 |
-| Faltas recibidas | 10,6 | 10,7 | 13,5 | 13,1 |
-| Amarillas propias | 1,3 | 1,7 | 2,1 | 2,3 |
-| Amarillas del rival | 1,7 | 2,2 | 2,8 | 2,9 |
-| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,14 |
+| Partidos analizados | 14 | 7 | 14 | 7 |
+| Forma (últimos 5) | VDDVV | VDVVV | EDVVV | DVVVV |
+| Balance | 12V 0E 2D | 6V 0E 1D | 7V 3E 4D | 4V 1E 2D |
+| Goles a favor / partido | 4,07 | 4,14 | 1,79 | 1,43 |
+| Goles en contra / partido | 1,29 | 1,14 | 1,43 | 1,71 |
+| Goles a favor 1ª parte | 1,79 | 2,14 | 1,07 | 1,00 |
+| Goles a favor 2ª parte | 2,29 | 2,00 | 0,71 | 0,43 |
+| Goles en contra 1ª parte | 0,50 | 0,43 | 0,57 | 1,00 |
+| Goles en contra 2ª parte | 0,79 | 0,71 | 0,86 | 0,71 |
+| Más de 1,5 goles | 100% | 100% | 79% | 71% |
+| Más de 2,5 goles | 93% | 86% | 71% | 71% |
+| Más de 3,5 goles | 79% | 57% | 50% | 57% |
+| Ambos marcan | 71% | 71% | 57% | 43% |
+| Portería a cero | 29% | 29% | 21% | 29% |
+| Se queda sin marcar | 0% | 0% | 29% | 43% |
+| xG a favor | 3,23 | 3,22 | 1,67 | 1,65 |
+| xG en contra | 1,17 | 0,97 | 1,71 | 1,88 |
+| Tiros / partido | 20,4 | 22,3 | 14,6 | 15,0 |
+| Tiros a puerta / partido | 8,1 | 8,3 | 5,1 | 4,7 |
+| Tiros recibidos | 7,8 | 6,6 | 15,2 | 16,6 |
+| Tiros a puerta recibidos | 3,9 | 2,7 | 4,9 | 5,3 |
+| Posesión media % | 69 | 72 | 47 | 48 |
+| Córners a favor | 6,4 | 8,9 | 4,7 | 4,0 |
+| Córners en contra | 2,5 | 3,1 | 4,9 | 5,0 |
+| Córners a favor 1ª parte | 3,3 | 5,0 | 3,0 | 2,3 |
+| Córners a favor 2ª parte | 3,1 | 3,9 | 1,7 | 1,7 |
+| Córners totales del partido | 8,9 | 12,0 | 9,6 | 9,0 |
+| Córners totales 1ª parte | 4,6 | 6,6 | 5,3 | 4,7 |
+| Córners totales 2ª parte | 4,2 | 5,4 | 4,4 | 4,3 |
+| Más de 8,5 córners | 36% | 71% | 57% | 57% |
+| Más de 9,5 córners | 36% | 71% | 43% | 29% |
+| Más de 10,5 córners | 36% | 71% | 43% | 29% |
+| Faltas cometidas | 10,4 | 10,7 | 11,6 | 11,6 |
+| Faltas recibidas | 10,6 | 10,7 | 13,4 | 13,1 |
+| Amarillas propias | 1,4 | 1,7 | 2,0 | 2,3 |
+| Amarillas del rival | 1,8 | 2,3 | 2,9 | 2,9 |
+| Rojas / partido | 0,00 | 0,00 | 0,07 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Barcelona | Recibe Barcelona | Tarjetas Barcelona | Goles Aston Villa | Recibe Aston Villa | Tarjetas Aston Villa |
 |---|---|---|---|---|---|---|
-| 1-15' | 7 | 1 | 0 | 5 | 3 | 3 |
-| 16-30' | 8 | 4 | 3 | 2 | 4 | 3 |
-| 31-45' | 6 | 2 | 3 | 7 | 1 | 6 |
-| 46-60' | 9 | 2 | 5 | 2 | 5 | 4 |
-| 61-75' | 9 | 2 | 2 | 5 | 2 | 1 |
-| 76-90' | 12 | 6 | 4 | 3 | 5 | 11 |
+| 1-15' | 8 | 1 | 0 | 5 | 3 | 3 |
+| 16-30' | 9 | 4 | 3 | 2 | 4 | 3 |
+| 31-45' | 8 | 2 | 4 | 8 | 1 | 6 |
+| 46-60' | 9 | 2 | 6 | 2 | 5 | 4 |
+| 61-75' | 10 | 2 | 2 | 5 | 3 | 1 |
+| 76-90' | 13 | 7 | 4 | 3 | 5 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Barcelona:** R. Bardghji (baja, Knee Injury); A. Christensen (baja, Muscle Injury); X. Espart (baja, Ankle Injury); D. Olmo (baja, Groin Injury); E. Garcia (duda, Muscle Injury); J. Kounde (duda, Ankle Injury); R. Bardghji (baja, Knee Injury); A. Christensen (baja, Muscle Injury); X. Espart (baja, Ankle Injury); D. Olmo (baja, Groin Injury); E. Garcia (duda, Muscle Injury); J. Kounde (duda, Ankle Injury)
+**Aston Villa:** B. Madjo (baja, Off the roster); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury); B. Madjo (baja, Off the roster); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury); A. Wan-Bissaka (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -112,107 +113,107 @@ _Sin precedentes recientes._
 ## Últimos partidos de Barcelona
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | LaLiga | Barcelona 6-1 Alaves | casa | 4-3 | 13 (7) - 7 (3) | 2-3 |
 | 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | casa | 6-6 | 18 (6) - 10 (5) | 3-3 |
 | 2026-10-20 | Champions League | Paris Saint Germain 4-2 Barcelona | fuera | 3-2 | 18 (5) - 22 (14) | 1-0 |
 | 2026-10-17 | LaLiga | Real Betis 2-5 Barcelona | fuera | 5-2 | 18 (10) - 6 (5) | 2-3 |
 | 2026-10-13 | Champions League | Galatasaray 1-4 Barcelona | fuera | 6-1 | 22 (11) - 5 (3) | 0-2 |
 | 2026-10-10 | LaLiga | Barcelona 3-0 Getafe | casa | 9-2 | 23 (8) - 4 (1) | 2-4 |
-| 2026-09-19 | LaLiga | Sevilla 1-3 Barcelona | fuera | 3-1 | 24 (7) - 7 (3) | 0-1 |
 
 ## Jugadores de Barcelona
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Lamine Yamal | F | 13 | 1101 | 10 | 10 | 52 | 4,0 | 19 | 1,5 | 13 | 24 | 1,8 | 2 | 0 |
-| Joan García | G | 12 | 1035 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| Pedri | M | 13 | 907 | 1 | 3 | 7 | 0,5 | 1 | 0,1 | 2 | 8 | 0,6 | 0 | 0 |
-| Pau Cubarsí Paredes | D | 10 | 872 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 6 | 2 | 0,2 | 1 | 0 |
-| Gerard Martín | D | 11 | 841 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 6 | 0,5 | 1 | 0 |
-| Rodri | M | 12 | 810 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 9 | 9 | 0,8 | 1 | 0 |
-| Raphinha | F | 11 | 792 | 15 | 3 | 29 | 2,6 | 20 | 1,8 | 3 | 7 | 0,6 | 0 | 0 |
-| Fermín | M | 12 | 776 | 5 | 4 | 18 | 1,5 | 12 | 1,0 | 15 | 10 | 0,8 | 3 | 0 |
-| A. Gordon | F | 12 | 757 | 2 | 4 | 24 | 2,0 | 15 | 1,2 | 5 | 6 | 0,5 | 1 | 0 |
+| Lamine Yamal | F | 14 | 1175 | 12 | 11 | 58 | 4,1 | 22 | 1,6 | 14 | 26 | 1,9 | 2 | 0 |
+| Joan García | G | 13 | 1125 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| Pau Cubarsí Paredes | D | 11 | 962 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 8 | 2 | 0,2 | 1 | 0 |
+| Pedri | M | 14 | 952 | 1 | 3 | 7 | 0,5 | 1 | 0,1 | 3 | 9 | 0,6 | 1 | 0 |
+| Rodri | M | 13 | 900 | 1 | 1 | 5 | 0,4 | 2 | 0,2 | 10 | 11 | 0,8 | 1 | 0 |
+| Fermín | M | 13 | 866 | 6 | 6 | 20 | 1,5 | 13 | 1,0 | 18 | 10 | 0,8 | 3 | 0 |
+| Raphinha | F | 12 | 854 | 17 | 3 | 32 | 2,7 | 22 | 1,8 | 4 | 7 | 0,6 | 0 | 0 |
+| Gerard Martín | D | 12 | 849 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 6 | 0,5 | 1 | 0 |
+| A. Gordon | F | 13 | 773 | 3 | 4 | 25 | 1,9 | 16 | 1,2 | 5 | 6 | 0,5 | 1 | 0 |
 | X. Espart | D | 9 | 724 | 2 | 2 | 7 | 0,8 | 3 | 0,3 | 15 | 6 | 0,7 | 1 | 0 |
 | Eric García | D | 9 | 677 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
-| João Cancelo | D | 10 | 570 | 2 | 1 | 9 | 0,9 | 4 | 0,4 | 7 | 1 | 0,1 | 2 | 0 |
+| João Cancelo | D | 11 | 632 | 2 | 2 | 9 | 0,8 | 4 | 0,4 | 8 | 2 | 0,2 | 3 | 0 |
+| K. Adeyemi | F | 14 | 542 | 4 | 2 | 23 | 1,6 | 10 | 0,7 | 7 | 16 | 1,1 | 2 | 0 |
 | Dani Olmo | M | 12 | 516 | 1 | 4 | 17 | 1,4 | 8 | 0,7 | 5 | 13 | 1,1 | 2 | 0 |
 | Andreas Christensen | D | 7 | 492 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 8 | 2 | 0,3 | 0 | 0 |
+| Marc Bernal | M | 12 | 466 | 0 | 2 | 5 | 0,4 | 1 | 0,1 | 9 | 6 | 0,5 | 0 | 0 |
 | Jules Koundé | D | 8 | 458 | 1 | 1 | 3 | 0,4 | 2 | 0,2 | 5 | 6 | 0,8 | 0 | 0 |
-| K. Adeyemi | F | 13 | 452 | 4 | 2 | 22 | 1,7 | 10 | 0,8 | 5 | 15 | 1,2 | 2 | 0 |
-| Marc Bernal | M | 11 | 421 | 0 | 2 | 5 | 0,5 | 1 | 0,1 | 8 | 3 | 0,3 | 0 | 0 |
-| Gabriel Jesus | F | 8 | 248 | 4 | 0 | 10 | 1,2 | 5 | 0,6 | 2 | 6 | 0,8 | 0 | 0 |
+| Gabriel Jesus | F | 9 | 276 | 4 | 1 | 10 | 1,1 | 5 | 0,6 | 2 | 6 | 0,7 | 0 | 0 |
 | Gavi | M | 7 | 194 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 5 | 2 | 0,3 | 0 | 0 |
-| Dominik Livaković | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Alejandro Balde | D | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
 
 ## Últimos partidos de Aston Villa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Premier League | Aston Villa 1-1 Fulham | casa | 7-7 | 16 (3) - 14 (5) | 1-3 |
 | 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | fuera | 2-6 | 17 (5) - 19 (7) | 3-3 |
 | 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | casa | 4-7 | 8 (2) - 15 (7) | 4-4 |
 | 2026-10-21 | Champions League | Aston Villa 3-1 Viking | casa | 8-6 | 21 (10) - 10 (3) | 0-0 |
 | 2026-10-17 | Premier League | Newcastle 0-1 Aston Villa | fuera | 5-4 | 15 (3) - 16 (1) | 2-6 |
 | 2026-10-14 | Champions League | Aston Villa 6-0 Fenerbahçe | casa | 9-7 | 20 (11) - 15 (4) | 0-2 |
-| 2026-10-10 | Premier League | Aston Villa 2-2 Brentford | casa | 2-2 | 20 (7) - 14 (4) | 2-5 |
 
 ## Jugadores de Aston Villa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J.  McGinn | M | 13 | 991 | 2 | 3 | 16 | 1,2 | 7 | 0,5 | 15 | 31 | 2,4 | 3 | 0 |
-| V. Lindelöf | D | 11 | 990 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
-| Z. Suzuki | G | 11 | 945 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
-| B. Kamara | M | 10 | 855 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 21 | 20 | 2,0 | 0 | 0 |
-| E. Buendía | M | 12 | 818 | 3 | 0 | 26 | 2,2 | 7 | 0,6 | 13 | 20 | 1,7 | 4 | 0 |
-| N. Jackson | F | 11 | 801 | 7 | 0 | 29 | 2,6 | 16 | 1,5 | 4 | 9 | 0,8 | 2 | 0 |
+| V. Lindelöf | D | 12 | 1080 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
+| J.  McGinn | M | 14 | 1078 | 2 | 3 | 17 | 1,2 | 7 | 0,5 | 16 | 31 | 2,2 | 3 | 0 |
+| Z. Suzuki | G | 12 | 1035 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
+| B. Kamara | M | 11 | 934 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 22 | 23 | 2,1 | 0 | 0 |
+| N. Jackson | F | 12 | 891 | 8 | 0 | 31 | 2,6 | 18 | 1,5 | 4 | 11 | 0,9 | 2 | 0 |
+| E. Buendía | M | 13 | 842 | 3 | 0 | 27 | 2,1 | 7 | 0,5 | 13 | 20 | 1,5 | 4 | 0 |
+| M. Cash | D | 10 | 768 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 18 | 12 | 1,2 | 5 | 0 |
 | T. Mings | D | 9 | 711 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 4 | 0,4 | 1 | 0 |
-| M. Cash | D | 9 | 678 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 17 | 10 | 1,1 | 4 | 0 |
-| R. Barkley | M | 13 | 658 | 4 | 2 | 12 | 0,9 | 7 | 0,5 | 13 | 9 | 0,7 | 1 | 0 |
-| João Gomes | M | 9 | 637 | 0 | 2 | 1 | 0,1 | 1 | 0,1 | 14 | 13 | 1,4 | 4 | 1 |
-| I. Maatsen | D | 7 | 600 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 8 | 3 | 0,4 | 2 | 0 |
-| Pau Torres | D | 8 | 562 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 2 | 2 | 0,2 | 0 | 0 |
+| I. Maatsen | D | 8 | 690 | 0 | 0 | 9 | 1,1 | 1 | 0,1 | 8 | 3 | 0,4 | 2 | 0 |
+| R. Barkley | M | 14 | 669 | 4 | 2 | 13 | 0,9 | 7 | 0,5 | 13 | 9 | 0,6 | 1 | 0 |
+| João Gomes | M | 10 | 661 | 0 | 2 | 1 | 0,1 | 1 | 0,1 | 15 | 13 | 1,3 | 4 | 1 |
+| Pau Torres | D | 9 | 652 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
 | George Hemmings | M | 9 | 541 | 0 | 1 | 8 | 0,9 | 2 | 0,2 | 12 | 5 | 0,6 | 0 | 0 |
 | A. Wan-Bissaka | D | 9 | 526 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
-| J. Manzambi | M | 7 | 422 | 3 | 2 | 13 | 1,9 | 6 | 0,9 | 1 | 12 | 1,7 | 1 | 0 |
-| I. Mbaye | M | 9 | 390 | 0 | 4 | 13 | 1,4 | 6 | 0,7 | 5 | 4 | 0,4 | 0 | 0 |
-| Alysson Edward | F | 12 | 359 | 1 | 1 | 9 | 0,8 | 2 | 0,2 | 10 | 6 | 0,5 | 2 | 0 |
+| J. Manzambi | M | 8 | 488 | 3 | 3 | 15 | 1,9 | 7 | 0,9 | 1 | 14 | 1,8 | 1 | 0 |
+| Alysson Edward | M | 13 | 425 | 1 | 1 | 10 | 0,8 | 2 | 0,2 | 11 | 6 | 0,5 | 2 | 0 |
+| I. Mbaye | F | 10 | 414 | 0 | 4 | 13 | 1,3 | 6 | 0,6 | 5 | 5 | 0,5 | 0 | 0 |
 | Matteo Ruggeri | D | 5 | 248 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 | M. Bizot | G | 3 | 225 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,00 · visitante 1,47 · córners esperados 9,3._
+_Goles esperados: local 3,13 · visitante 1,46 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 9% | 13% | 10.00 | +28% |
-| 1X2: X | 15% | 16% | 16% | 6.00 | -7% |
-| 1X2: 1 | 68% | 75% | 72% | 1.25 | -10% |
-| Doble oportunidad: X2 | 32% | 25% | 28% | 3.75 | +7% |
+| 1X2: 2 | 15% | 9% | 12% | 10.00 | +21% |
+| 1X2: X | 15% | 16% | 15% | 6.00 | -9% |
+| 1X2: 1 | 71% | 75% | 73% | 1.25 | -9% |
+| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +2% |
 | Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -5% |
-| Doble oportunidad: 1X | 84% | 90% | 87% | 1.05 | -9% |
+| Doble oportunidad: 1X | 85% | 90% | 88% | 1.05 | -8% |
 | Ambos marcan: No | 27% | 38% | 32% | 2.50 | -20% |
 | Ambos marcan: Sí | 73% | 62% | 68% | 1.50 | +2% |
-| Goles más/menos: Más de 2.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 3.5 | 65% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 4.5 | 46% | 41% | 44% | 2.30 | +1% |
-| Goles más/menos: Más de 5.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles más/menos: Menos de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 3.5 | 35% | 40% | 37% | 2.38 | -11% |
-| Goles más/menos: Menos de 4.5 | 54% | 59% | 56% | 1.62 | -9% |
-| Goles más/menos: Menos de 5.5 | 71% | 75% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 2.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del local: Más de 3.5 | 35% | 39% | 37% | 2.38 | -12% |
-| Goles del local: Más de 4.5 | 18% | 23% | 21% | 4.00 | -16% |
-| Goles del local: Menos de 2.5 | 42% | 39% | 41% | 2.38 | -3% |
-| Goles del local: Menos de 3.5 | 65% | 61% | 63% | 1.53 | -4% |
-| Goles del local: Menos de 4.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles más/menos: Más de 2.5 | 84% | 78% | 81% | 1.22 | -1% |
+| Goles más/menos: Más de 3.5 | 67% | 60% | 64% | 1.57 | +0% |
+| Goles más/menos: Más de 4.5 | 48% | 41% | 45% | 2.30 | +3% |
+| Goles más/menos: Más de 5.5 | 31% | 25% | 28% | 3.75 | +6% |
+| Goles más/menos: Menos de 2.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Menos de 3.5 | 33% | 40% | 36% | 2.38 | -14% |
+| Goles más/menos: Menos de 4.5 | 52% | 59% | 55% | 1.62 | -11% |
+| Goles más/menos: Menos de 5.5 | 69% | 75% | 72% | 1.28 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 32% | 29% | 31% | 3.25 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
+| Goles del local: Más de 2.5 | 61% | 61% | 61% | 1.53 | -7% |
+| Goles del local: Más de 3.5 | 38% | 39% | 39% | 2.38 | -8% |
+| Goles del local: Más de 4.5 | 21% | 23% | 22% | 4.00 | -12% |
+| Goles del local: Menos de 2.5 | 39% | 39% | 39% | 2.38 | -6% |
+| Goles del local: Menos de 3.5 | 62% | 61% | 61% | 1.53 | -6% |
+| Goles del local: Menos de 4.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 ✅ | 43% | 29% | 36% | 3.25 | +18% |
-| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Más de 1.5 ✅ | 43% | 29% | 36% | 3.25 | +17% |
+| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -23% |
 | Goles del visitante: Menos de 1.5 | 57% | 71% | 64% | 1.33 | -15% |
-| 1X2 descanso: X | 29% | 28% | 28% | 3.40 | -4% |
-| 1X2 descanso: 1 | 53% | 60% | 56% | 1.57 | -12% |
+| 1X2 descanso: X | 28% | 28% | 28% | 3.40 | -5% |
+| 1X2 descanso: 1 | 55% | 60% | 57% | 1.57 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

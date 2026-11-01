@@ -1,7 +1,7 @@
 # QPR – Burnley
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**QPR:** R. Burrell (baja, Inactive); T. Lamptey (baja, Inactive); N. Madsen (baja, Injury); A. S. Mbengue (baja, Knee Injury); R. Burrell (baja, Inactive); T. Lamptey (baja, Inactive); N. Madsen (baja, Injury); A. S. Mbengue (baja, Knee Injury)
+**Burnley:** Z. Amdouni (baja, Ankle Injury); B. Amos (baja, Inactive); J. Beyer (baja, Hamstring Injury); J. Bruun Larsen (baja, Injury); B. Humphreys (baja, Muscle Injury); H. Mejbri (baja, Hamstring Injury); M. Obafemi (baja, Inactive); S. Sambo (baja, Inactive); M. Tresor Ndayishimiye (baja, Inactive); A. Broja (duda, Injury); Z. Amdouni (baja, Ankle Injury); B. Amos (baja, Inactive); J. Beyer (baja, Hamstring Injury); J. Bruun Larsen (baja, Injury); B. Humphreys (baja, Muscle Injury); H. Mejbri (baja, Hamstring Injury); M. Obafemi (baja, Inactive); S. Sambo (baja, Inactive); M. Tresor Ndayishimiye (baja, Inactive); A. Broja (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-04-26 · Championship: QPR 0-5 Burnley
@@ -139,6 +140,6 @@ _Sin bajas comunicadas por ahora._
 | Hannibal Mejbri | M | 7 | 358 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,1 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 0,94 · córners esperados 9,3._
+_Goles esperados: local 1,83 · visitante 0,94 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

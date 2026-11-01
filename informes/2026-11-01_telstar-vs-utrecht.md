@@ -1,10 +1,10 @@
 # Telstar – Utrecht
 **Eredivisie** · Regular Season - 11 · 01/11/2026 14:30 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:54_
+_Actualizadas: 01/11 02:12_
 
 - **1X2:** 1 **2.80**  ·  X **3.80**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.40**
@@ -187,44 +187,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Mike Eerdhuijzen | D | 2 | 135 | 0 | 0 | 3 | 1,5 | 1 | 0,5 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,49 · córners esperados 9,8._
+_Goles esperados: local 1,46 · visitante 1,50 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 39% | 41% | 40% | 2.30 | -8% |
-| 1X2: X | 25% | 25% | 25% | 3.80 | -6% |
-| 1X2: 1 | 36% | 34% | 35% | 2.80 | -2% |
-| Doble oportunidad: X2 | 64% | 66% | 65% | 1.40 | -9% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 61% | 59% | 60% | 1.57 | -6% |
-| Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
-| Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
-| Goles más/menos: Más de 2.5 | 56% | 61% | 59% | 1.53 | -10% |
-| Goles más/menos: Más de 3.5 | 34% | 41% | 37% | 2.25 | -16% |
-| Goles más/menos: Más de 4.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 44% | 39% | 41% | 2.40 | -0% |
-| Goles más/menos: Menos de 3.5 | 66% | 59% | 63% | 1.57 | -2% |
-| Goles más/menos: Menos de 4.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
-| Goles del local: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles del local: Más de 1.5 | 42% | 44% | 43% | 2.10 | -10% |
-| Goles del local: Más de 2.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles del local: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -5% |
+| 1X2: X | 24% | 25% | 25% | 3.80 | -6% |
+| 1X2: 1 | 37% | 34% | 35% | 2.80 | -1% |
+| Doble oportunidad: X2 | 63% | 66% | 65% | 1.40 | -9% |
+| Doble oportunidad: 12 | 76% | 74% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 61% | 59% | 60% | 1.57 | -5% |
+| Ambos marcan: No | 40% | 35% | 38% | 2.62 | -1% |
+| Ambos marcan: Sí | 60% | 65% | 62% | 1.44 | -11% |
+| Goles más/menos: Más de 2.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles más/menos: Más de 4.5 | 18% | 23% | 21% | 4.00 | -18% |
+| Goles más/menos: Menos de 2.5 | 43% | 39% | 41% | 2.40 | -1% |
+| Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.57 | -2% |
+| Goles más/menos: Menos de 4.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 42% | 40% | 2.20 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -2% |
+| Goles del local: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
+| Goles del local: Más de 2.5 | 18% | 21% | 19% | 4.50 | -12% |
+| Goles del local: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles del local: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
+| Goles del local: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles del visitante: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
 | Goles del visitante: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
-| Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -2% |
-| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
-| 1X2 descanso: 2 | 31% | 33% | 32% | 2.75 | -12% |
-| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -5% |
-| 1X2 descanso: 1 | 29% | 29% | 29% | 3.20 | -8% |
+| Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
+| Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -1% |
+| 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -13% |
+| 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -6% |
+| 1X2 descanso: 1 | 29% | 29% | 29% | 3.20 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

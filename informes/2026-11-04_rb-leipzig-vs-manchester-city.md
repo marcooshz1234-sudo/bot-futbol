@@ -1,7 +1,7 @@
 # RB Leipzig – Manchester City
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:49_
@@ -182,41 +182,41 @@ _Sin bajas comunicadas por ahora._
 | Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 2,02 · córners esperados 10,2._
+_Goles esperados: local 1,71 · visitante 1,99 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 62% | 54% | 1.53 | -17% |
+| 1X2: 2 | 45% | 62% | 54% | 1.53 | -18% |
 | 1X2: X | 21% | 21% | 21% | 4.50 | -4% |
-| 1X2: 1 | 33% | 17% | 25% | 5.75 | +43% |
-| Doble oportunidad: X2 | 67% | 82% | 74% | 1.14 | -15% |
+| 1X2: 1 | 34% | 17% | 25% | 5.75 | +45% |
+| Doble oportunidad: X2 | 66% | 82% | 74% | 1.14 | -16% |
 | Doble oportunidad: 12 | 79% | 79% | 79% | 1.18 | -7% |
-| Doble oportunidad: 1X | 54% | 39% | 47% | 2.38 | +11% |
+| Doble oportunidad: 1X | 55% | 39% | 47% | 2.38 | +12% |
 | Ambos marcan: No | 29% | 35% | 32% | 2.62 | -15% |
 | Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -3% |
-| Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -4% |
+| Goles más/menos: Más de 2.5 | 71% | 70% | 71% | 1.36 | -4% |
 | Goles más/menos: Más de 3.5 | 51% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Más de 4.5 | 32% | 32% | 32% | 3.00 | -5% |
-| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.20 | -7% |
+| Goles más/menos: Más de 4.5 | 31% | 32% | 32% | 3.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 29% | 30% | 29% | 3.20 | -7% |
 | Goles más/menos: Menos de 3.5 | 49% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Menos de 4.5 | 68% | 68% | 68% | 1.40 | -4% |
+| Goles más/menos: Menos de 4.5 | 69% | 68% | 68% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -11% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 23% | 3.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Goles del local: Más de 0.5 | 82% | 71% | 76% | 1.33 | +2% |
 | Goles del local: Más de 1.5 ✅ | 51% | 35% | 43% | 2.62 | +13% |
 | Goles del local: Menos de 0.5 | 18% | 29% | 24% | 3.25 | -23% |
 | Goles del local: Menos de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
-| Goles del visitante: Más de 1.5 | 60% | 71% | 65% | 1.33 | -13% |
-| Goles del visitante: Más de 2.5 | 33% | 44% | 39% | 2.10 | -19% |
-| Goles del visitante: Más de 3.5 | 15% | 25% | 20% | 3.75 | -26% |
-| Goles del visitante: Menos de 1.5 ✅ | 40% | 29% | 35% | 3.25 | +12% |
-| Goles del visitante: Menos de 2.5 | 67% | 56% | 61% | 1.67 | +3% |
-| Goles del visitante: Menos de 3.5 | 85% | 75% | 80% | 1.25 | +0% |
-| 1X2 descanso: 2 | 36% | 48% | 42% | 1.95 | -18% |
+| Goles del visitante: Más de 1.5 | 59% | 71% | 65% | 1.33 | -14% |
+| Goles del visitante: Más de 2.5 | 32% | 44% | 38% | 2.10 | -20% |
+| Goles del visitante: Más de 3.5 | 14% | 25% | 20% | 3.75 | -27% |
+| Goles del visitante: Menos de 1.5 ✅ | 41% | 29% | 35% | 3.25 | +14% |
+| Goles del visitante: Menos de 2.5 | 68% | 56% | 62% | 1.67 | +3% |
+| Goles del visitante: Menos de 3.5 | 86% | 75% | 80% | 1.25 | +1% |
+| 1X2 descanso: 2 | 36% | 48% | 42% | 1.95 | -19% |
 | 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

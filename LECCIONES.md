@@ -1,5 +1,92 @@
 # Lecciones del bot
 
+## 2026-10-31
+
+```
+🧠 LECCIONES DEL 31/10
+Picks del bot: 69 ✅ · 46 ❌ · 6 sin resultado
+
+❌ Lo que falló en lo publicado:
+• AC Milan hace más de 3,5 córners → 3 de 4 córners
+• AS Roma hace más tiros → Tiros: 15 – 14
+• Abdessamad Ezzalzouli: 1+ tiros a puerta → 0 de 1 tiros a puerta
+• Ambos marcan en Levante–Atletico Madrid → 1 de 2 equipos que marcan
+• Atletico Madrid hace más tiros → Tiros: 20 – 11
+• Barcelona hace más de 7,5 córners → 4 de 8 córners
+• Ben Wilmot comete 1+ faltas → marcador 2-0
+• Borussia Dortmund ve más de 1,5 tarjetas → 1 de 2 tarjetas
+• Borussia Mönchengladbach hace más de 4,5 córners → 4 de 5 córners
+• Crystal Palace hace más de 1,5 fueras de juego → 1 de 2 fueras de juego
+• Crystal Palace marca → 0 de 1 gol
+• Empate al descanso en Levante–Atletico Madrid → Marcador: 0–2
+• Empate al descanso en Udinese–AS Roma → Marcador: 2–5
+• Estoril hace más de 2,5 córners → 0 de 3 córners
+• Fortuna Sittard hace más de 2,5 córners → 1 de 3 córners
+
+❌ Fallos de los picks del bot y por qué:
+• Más de 2,5 goles en Werder Bremen–1899 Hoffenheim — partido cerrado (2-0): faltó 1 gol
+• Ambos marcan en Werder Bremen–1899 Hoffenheim — solo marcó un equipo o ninguno (2-0)
+• Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim — resultado 2-0
+• Leeds marca — Leeds no marcó lo esperado (2-0)
+• Rennes o empate — resultado 5-2
+• Le Mans marca — Le Mans no marcó lo esperado (2-0)
+• No hay empate en Aston Villa–Fulham — resultado 1-1
+• Manchester United marca — Manchester United no marcó lo esperado (2-0)
+• 1899 Hoffenheim marca 2 o más — 1899 Hoffenheim no marcó lo esperado (2-0)
+• 1899 Hoffenheim hace más de 4,5 córners — no llegó a la línea (2-0)
+• Malaga hace más de 3,5 córners — no llegó a la línea (2-1)
+• Más de 9,5 córners en Bayern München–Borussia Dortmund — no llegó a la línea (2-2)
+• Gana el Bayer Leverkusen — resultado 2-4
+• Celta Vigo o empate — resultado 3-0
+• GO Ahead Eagles o empate — resultado 4-0
+• Ambos marcan en Cambuur–GO Ahead Eagles — solo marcó un equipo o ninguno (4-0)
+• Willem II marca — Willem II no marcó lo esperado (7-0)
+• Ambos marcan en PSV Eindhoven–Willem II — solo marcó un equipo o ninguno (7-0)
+• Cardiff marca — Cardiff no marcó lo esperado (3-0)
+• Más de 1,5 goles en Burnley–Portsmouth — partido cerrado (0-0): faltó 2 goles
+• Portsmouth marca — Portsmouth no marcó lo esperado (0-0)
+• Gol en la 1ª parte del Burnley–Portsmouth — partido cerrado (0-0): faltó 1 gol en la 1ª parte
+• Watford hace más de 2,5 córners — no llegó a la línea (3-2)
+• Mohamed Belloumi: 2+ tiros — jugó 90′ e hizo 1 (necesitaba 2)
+• Borussia Mönchengladbach hace más de 4,5 córners — no llegó a la línea (0-0)
+• Girona o empate — resultado 1-0
+• Sabadell o empate — resultado 2-1
+• Girona gana alguna de las dos partes — no llegó a la línea (1-0)
+• Gol en la 1ª parte del Moreirense–Estrela — partido cerrado (2-1): faltó 1 gol en la 1ª parte
+• Gol en la 1ª parte del Real Sociedad II–Girona — partido cerrado (1-0): faltó 1 gol en la 1ª parte
+• Gana el Girona — resultado 1-0
+• Maximilian Eggestein: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Gol en la 1ª parte del Borussia Mönchengladbach–SC Paderborn 07 — partido cerrado (0-0): faltó 1 gol en la 1ª parte
+• Pedro Neto comete 1+ faltas — jugó 87′ e hizo 0 (necesitaba 1)
+• Koki Machida comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Anan Khalaili comete 1+ faltas — jugó 30′ e hizo 0 (necesitaba 1)
+• Adrien Truffert comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Antonio Silva comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Jan Paul van Hecke comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Michael Olise: 2+ tiros a puerta — jugó 84′ e hizo 0 (necesitaba 2)
+• Luke Graham comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Abdessamad Ezzalzouli: 1+ tiros a puerta — jugó 90′ e hizo 0 (necesitaba 1)
+• Atletico Madrid hace más tiros — no llegó a la línea (0-2)
+• Ben Wilmot comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Lucas Boye comete 2+ faltas — jugó 74′ e hizo 1 (necesitaba 2)
+• Watford ve más de 1,5 tarjetas — no llegó a la línea (3-2)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Werder Bremen–1899 Hoffenheim, Bournemouth–Leeds, Chelsea–Manchester United, Real Betis–Malaga, Bayern München–Borussia Dortmund, Cambuur–GO Ahead Eagles, PSV Eindhoven–Willem II, Burnley–Portsmouth, Norwich–Watford, Borussia Mönchengladbach–SC Paderborn 07, Real Sociedad II–Girona, Tottenham–Crystal Palace, Stoke City–Preston
+
+📐 Modelo: 168/277 aciertos reales (61%) frente al 71% que prometían las estadísticas y el 72% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬆️ premio tipo jugador:tiros: 19/23 (+7 pts)
+⬇️ castigo tipo corners: 1/7 (-7 pts)
+⬇️ castigo mercado Double Chance|Draw/Away: 7/13 (-6 pts)
+⬇️ castigo mercado de casas: bet365 paga más: 14/29 (-5 pts)
+⬇️ castigo liga Segunda: 2/7 (-5 pts)
+⬇️ castigo tipo jugador:faltas_c: 21/37 (-4 pts)
+⬇️ castigo tipo resultado: 35/53 (-4 pts)
+⬇️ castigo mercado Both Teams Score|Yes: 5/12 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-30
 
 ```

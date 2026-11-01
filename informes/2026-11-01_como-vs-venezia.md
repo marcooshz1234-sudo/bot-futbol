@@ -1,10 +1,10 @@
 # Como – Venezia
 **Serie A** · Regular Season - 10 · 01/11/2026 12:30 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 13:53_
+_Actualizadas: 01/11 02:12_
 
 - **1X2:** 1 **1.30**  ·  X **5.75**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.40**
@@ -13,7 +13,7 @@ _Actualizadas: 31/10 13:53_
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.40** · menos **3.00**
     - 3,5: más **2.00** · menos **1.80**
-    - 4,5: más **3.40** · menos **1.33**
+    - 4,5: más **3.20** · menos **1.36**
     - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -56,9 +56,9 @@ _Actualizadas: 31/10 13:53_
     - 2,5: más **1.62** · menos **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
 - **Home Team Total Cards:**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **2.50** · menos **1.50**
 - **Away Team Total Cards:**
-    - 2,5: más **1.83** · menos **1.83**
+    - 2,5: más **2.25** · menos **1.57**
 - **Total ShotOnGoal:**
     - 10,5: más **1.80** · menos **1.91**
 - **ShotOnTarget 1x2:** 1 **1.12**  ·  X **12.00**  ·  2 **7.50**
@@ -210,24 +210,24 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Bartol Franjić | D | 2 | 134 | 0 | 0 | 2 | 1,0 | 2 | 1,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,81 · visitante 0,84 · córners esperados 9,8._
+_Goles esperados: local 2,80 · visitante 0,82 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 8% | 10% | 9% | 9.50 | -12% |
+| 1X2: 2 | 8% | 10% | 9% | 9.50 | -13% |
 | 1X2: X | 13% | 17% | 15% | 5.75 | -14% |
-| 1X2: 1 | 78% | 73% | 76% | 1.30 | -2% |
-| Doble oportunidad: X2 | 22% | 28% | 25% | 3.40 | -15% |
+| 1X2: 1 | 78% | 73% | 76% | 1.30 | -1% |
+| Doble oportunidad: X2 | 22% | 28% | 25% | 3.40 | -16% |
 | Doble oportunidad: 12 | 87% | 83% | 85% | 1.14 | -3% |
-| Doble oportunidad: 1X | 92% | 89% | 90% | 1.07 | -4% |
-| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -6% |
-| Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -8% |
+| Doble oportunidad: 1X | 92% | 89% | 90% | 1.07 | -3% |
+| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -5% |
+| Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -9% |
 | Goles más/menos: Más de 2.5 | 70% | 68% | 69% | 1.40 | -3% |
-| Goles más/menos: Más de 3.5 | 49% | 47% | 48% | 2.00 | -3% |
-| Goles más/menos: Más de 4.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Más de 3.5 | 49% | 47% | 48% | 2.00 | -4% |
+| Goles más/menos: Más de 4.5 | 30% | 30% | 30% | 3.20 | -4% |
 | Goles más/menos: Menos de 2.5 | 30% | 32% | 31% | 3.00 | -8% |
 | Goles más/menos: Menos de 3.5 | 51% | 53% | 52% | 1.80 | -7% |
-| Goles más/menos: Menos de 4.5 | 70% | 72% | 71% | 1.33 | -6% |
+| Goles más/menos: Menos de 4.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
 | Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
@@ -240,10 +240,10 @@ _Goles esperados: local 2,81 · visitante 0,84 · córners esperados 9,8._
 | Goles del local: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles del local: Menos de 2.5 | 47% | 50% | 48% | 1.83 | -11% |
 | Goles del local: Menos de 3.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles del visitante: Más de 0.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del visitante: Más de 1.5 | 20% | 23% | 22% | 4.00 | -12% |
-| Goles del visitante: Menos de 0.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 80% | 77% | 78% | 1.22 | -5% |
+| Goles del visitante: Más de 0.5 | 56% | 59% | 58% | 1.57 | -10% |
+| Goles del visitante: Más de 1.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del visitante: Menos de 0.5 | 44% | 41% | 42% | 2.25 | -4% |
+| Goles del visitante: Menos de 1.5 | 80% | 77% | 78% | 1.22 | -4% |
 | Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -8% |
 | 1X2 descanso: X | 31% | 32% | 31% | 2.88 | -9% |

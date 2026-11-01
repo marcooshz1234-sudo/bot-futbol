@@ -1,7 +1,7 @@
 # Levski Sofia – Jagiellonia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · National Stadium Vasil Levski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -177,18 +177,18 @@ _Sin precedentes recientes._
 | Youssuf Sylla | F | 1 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 1,12 · córners esperados 9,6._
+_Goles esperados: local 1,32 · visitante 1,11 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.50 | +2% |
+| 1X2: 2 | 31% | 26% | 29% | 3.50 | +1% |
 | 1X2: X | 27% | 26% | 27% | 3.50 | -6% |
 | 1X2: 1 | 41% | 47% | 44% | 1.95 | -14% |
-| Doble oportunidad: X2 | 59% | 52% | 56% | 1.80 | +0% |
+| Doble oportunidad: X2 | 59% | 52% | 56% | 1.80 | -0% |
 | Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
-| Doble oportunidad: 1X | 68% | 74% | 71% | 1.28 | -9% |
+| Doble oportunidad: 1X | 69% | 74% | 71% | 1.28 | -9% |
 | Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
 | Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
@@ -197,21 +197,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
 | Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +4% |
 | Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
 | Goles del local: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
-| Goles del local: Más de 1.5 | 38% | 49% | 43% | 1.91 | -18% |
+| Goles del local: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
 | Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
 | Goles del local: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +7% |
 | Goles del local: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
 | Goles del local: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
+| Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
+| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
 | 1X2 descanso: 1 | 30% | 36% | 33% | 2.60 | -14% |
 

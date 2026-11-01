@@ -1,10 +1,10 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 19:52_
+_Actualizadas: 01/11 02:14_
 
 - **1X2:** 1 **3.25**  ·  X **3.40**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.33**
@@ -41,7 +41,7 @@ _Actualizadas: 30/10 19:52_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Away Player Shots On Target Total:** Romain Del Castillo **26.00**  ·  Alejandro Rego **17.00**  ·  Hugo Rincon **51.00**  ·  Jonathan Dubasin **21.00**  ·  Nico Williams **29.00**  ·  Aymeric Laporte **15.00**  ·  Benat Gerenabarrena **67.00**  ·  Mauro Echegoyen **41.00**  ·  Raul Moro **41.00**  ·  Rockson Yeboah **19.00**  ·  Benat Prados **67.00**  ·  Inigo Ruiz de Galarreta **51.00**  ·  Alvarez Yeray **21.00**  ·  Iker Munoz **67.00**  ·  Lucas Torro **26.00**  ·  Raul Garcia **13.00**  ·  Jesus Areso **151.00**  ·  Johaneko Louisjean **41.00**  ·  Unai Santos **19.00**  ·  Valentin Rosier **101.00**  ·  Christian Imga **41.00**  ·  Robert Navarro **23.00**  ·  Abel Bretones **67.00**  ·  Aimar Oroz **41.00**  ·  Alejandro Catena **13.00**  ·  Ante Budimir **6.00**  ·  Enzo Boyomo **21.00**  ·  Jon Moncayola **81.00**  ·  Jorge Herrando **21.00**  ·  Aitor Paredes **12.00**  ·  Alex Berenguer **41.00**  ·  Dani Vivian **17.00**  ·  Gorka Guruzeta **12.00**  ·  Mikel Jauregizar **67.00**  ·  Nico Serrano **29.00**  ·  Oihan Sancet **21.00**  ·  Peio Canales **67.00**  ·  Alvaro Djalo **41.00**  ·  Inaki Williams **29.00**  ·  Berchiche Yuri **41.00**  ·  Diego Rico **67.00**  ·  Kike Barja **41.00**  ·  Bordonado Moi Gomez **151.00**  ·  Santos Ruben Garcia **23.00**  ·  Asier Osambela **29.00**  ·  Maroan Sannadi **21.00**  ·  Inigo Arguibide **51.00**
 - **Anytime Goal Scorer:** Romain Del Castillo **4.33**  ·  Alejandro Rego **7.00**  ·  Hugo Rincon **12.00**  ·  Jonathan Dubasin **4.00**  ·  Nico Williams **3.50**  ·  Aymeric Laporte **12.00**  ·  Benat Gerenabarrena **7.50**  ·  Mauro Echegoyen **7.50**  ·  Raul Moro **5.00**  ·  Rockson Yeboah **13.00**  ·  Benat Prados **7.50**  ·  Inigo Ruiz de Galarreta **10.00**  ·  Alvarez Yeray **17.00**  ·  Iker Munoz **9.50**  ·  Lucas Torro **8.50**  ·  Raul Garcia **2.88**  ·  Jesus Areso **21.00**  ·  Johaneko Louisjean **9.50**  ·  Unai Santos **13.00**  ·  Valentin Rosier **12.00**  ·  Christian Imga **5.00**  ·  Robert Navarro **3.75**  ·  Abel Bretones **7.50**  ·  Aimar Oroz **5.00**  ·  Alejandro Catena **10.00**  ·  Ante Budimir **2.50**  ·  Enzo Boyomo **17.00**  ·  Jon Moncayola **8.50**  ·  Jorge Herrando **17.00**  ·  Aitor Paredes **9.50**  ·  Alex Berenguer **4.50**  ·  Dani Vivian **13.00**  ·  Gorka Guruzeta **3.10**  ·  Mikel Jauregizar **7.00**  ·  Nico Serrano **3.50**  ·  Oihan Sancet **3.50**  ·  Peio Canales **5.00**  ·  Alvaro Djalo **5.00**  ·  Inaki Williams **3.10**  ·  Berchiche Yuri **10.00**  ·  Diego Rico **12.00**  ·  Kike Barja **7.00**  ·  Bordonado Moi Gomez **8.50**  ·  Santos Ruben Garcia **5.00**  ·  Asier Osambela **7.00**  ·  Maroan Sannadi **3.25**  ·  Inigo Arguibide **10.00**
-- **Player to Score or Assist:** Romain Del Castillo **2.50**  ·  Alejandro Rego **5.00**  ·  Hugo Rincon **5.00**  ·  Jonathan Dubasin **2.30**  ·  Nico Williams **2.25**  ·  Aymeric Laporte **7.00**  ·  Benat Gerenabarrena **4.50**  ·  Mauro Echegoyen **4.33**  ·  Raul Moro **3.10**  ·  Rockson Yeboah **8.00**  ·  Benat Prados **5.50**  ·  Inigo Ruiz de Galarreta **5.50**  ·  Alvarez Yeray **11.00**  ·  Iker Munoz **7.00**  ·  Lucas Torro **6.50**  ·  Raul Garcia **2.25**  ·  Jesus Areso **6.00**  ·  Johaneko Louisjean **4.75**  ·  Unai Santos **8.00**  ·  Valentin Rosier **6.00**  ·  Christian Imga **3.00**  ·  Robert Navarro **2.60**  ·  Abel Bretones **5.00**  ·  Aimar Oroz **2.88**  ·  Alejandro Catena **5.50**  ·  Ante Budimir **2.10**  ·  Enzo Boyomo **11.00**  ·  Jon Moncayola **4.33**  ·  Jorge Herrando **12.00**  ·  Aitor Paredes **6.50**  ·  Alex Berenguer **2.62**  ·  Dani Vivian **7.50**  ·  Gorka Guruzeta **2.25**  ·  Mikel Jauregizar **4.50**  ·  Nico Serrano **2.40**  ·  Oihan Sancet **2.38**  ·  Peio Canales **2.75**  ·  Alvaro Djalo **3.25**  ·  Inaki Williams **2.20**  ·  Berchiche Yuri **4.33**  ·  Diego Rico **4.75**  ·  Kike Barja **3.60**  ·  Bordonado Moi Gomez **4.75**  ·  Santos Ruben Garcia **2.62**  ·  Asier Osambela **4.33**  ·  Maroan Sannadi **2.25**  ·  Inigo Arguibide **5.00**
+- **Player to Score or Assist:** Romain Del Castillo **2.50**  ·  Alejandro Rego **5.00**  ·  Hugo Rincon **5.00**  ·  Jonathan Dubasin **2.30**  ·  Nico Williams **2.25**  ·  Aymeric Laporte **7.00**  ·  Benat Gerenabarrena **4.75**  ·  Mauro Echegoyen **4.33**  ·  Raul Moro **3.20**  ·  Rockson Yeboah **8.50**  ·  Benat Prados **5.50**  ·  Inigo Ruiz de Galarreta **6.00**  ·  Alvarez Yeray **12.00**  ·  Iker Munoz **7.00**  ·  Lucas Torro **7.00**  ·  Raul Garcia **2.25**  ·  Jesus Areso **6.50**  ·  Johaneko Louisjean **5.00**  ·  Unai Santos **8.50**  ·  Valentin Rosier **6.50**  ·  Christian Imga **3.00**  ·  Robert Navarro **2.62**  ·  Abel Bretones **5.00**  ·  Aimar Oroz **2.88**  ·  Alejandro Catena **5.50**  ·  Ante Budimir **2.10**  ·  Enzo Boyomo **11.00**  ·  Jon Moncayola **4.33**  ·  Jorge Herrando **12.00**  ·  Aitor Paredes **6.50**  ·  Alex Berenguer **2.62**  ·  Dani Vivian **7.50**  ·  Gorka Guruzeta **2.30**  ·  Mikel Jauregizar **4.50**  ·  Nico Serrano **2.50**  ·  Oihan Sancet **2.50**  ·  Peio Canales **2.75**  ·  Alvaro Djalo **3.40**  ·  Inaki Williams **2.20**  ·  Berchiche Yuri **4.33**  ·  Diego Rico **4.75**  ·  Kike Barja **3.60**  ·  Bordonado Moi Gomez **4.75**  ·  Santos Ruben Garcia **2.62**  ·  Asier Osambela **4.33**  ·  Maroan Sannadi **2.38**  ·  Inigo Arguibide **5.00**
 
 ## Estadísticas de equipo
 | | Osasuna (total) | Osasuna en casa | Athletic Club (total) | Athletic Club fuera |
@@ -176,36 +176,36 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Rego Mora | M | 4 | 148 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,73 · córners esperados 9,9._
+_Goles esperados: local 1,23 · visitante 1,72 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 49% | 44% | 46% | 2.15 | -0% |
+| 1X2: 2 | 49% | 44% | 46% | 2.15 | -1% |
 | 1X2: X | 24% | 28% | 26% | 3.40 | -13% |
 | 1X2: 1 | 27% | 29% | 28% | 3.25 | -9% |
-| Doble oportunidad: X2 | 73% | 71% | 72% | 1.33 | -4% |
+| Doble oportunidad: X2 | 73% | 71% | 72% | 1.33 | -5% |
 | Doble oportunidad: 12 | 76% | 73% | 74% | 1.30 | -3% |
 | Doble oportunidad: 1X | 51% | 56% | 54% | 1.67 | -10% |
-| Ambos marcan: No | 42% | 48% | 45% | 1.95 | -13% |
+| Ambos marcan: No | 42% | 48% | 45% | 1.95 | -12% |
 | Ambos marcan: Sí | 58% | 52% | 55% | 1.80 | -1% |
-| Goles más/menos: Más de 1.5 | 80% | 72% | 76% | 1.33 | +1% |
+| Goles más/menos: Más de 1.5 | 79% | 72% | 76% | 1.33 | +1% |
 | Goles más/menos: Más de 2.5 ✅ | 57% | 45% | 51% | 2.10 | +7% |
-| Goles más/menos: Más de 3.5 | 35% | 25% | 30% | 3.75 | +12% |
-| Goles más/menos: Menos de 1.5 | 20% | 28% | 24% | 3.40 | -17% |
+| Goles más/menos: Más de 3.5 | 34% | 25% | 30% | 3.75 | +12% |
+| Goles más/menos: Menos de 1.5 | 21% | 28% | 24% | 3.40 | -17% |
 | Goles más/menos: Menos de 2.5 | 43% | 55% | 49% | 1.73 | -15% |
-| Goles más/menos: Menos de 3.5 | 65% | 75% | 70% | 1.28 | -10% |
+| Goles más/menos: Menos de 3.5 | 66% | 75% | 70% | 1.28 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles del local: Más de 0.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 1.5 | 35% | 31% | 33% | 3.00 | -1% |
-| Goles del local: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles del local: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -13% |
 | Goles del local: Menos de 1.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles del visitante: Más de 0.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles del visitante: Más de 1.5 | 52% | 41% | 46% | 2.25 | +4% |
+| Goles del visitante: Más de 1.5 | 51% | 41% | 46% | 2.25 | +4% |
 | Goles del visitante: Menos de 0.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles del visitante: Menos de 1.5 | 48% | 59% | 54% | 1.57 | -16% |
+| Goles del visitante: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -16% |
 | 1X2 descanso: 2 | 37% | 32% | 34% | 2.88 | -1% |
 | 1X2 descanso: X | 40% | 44% | 42% | 2.10 | -12% |
 | 1X2 descanso: 1 | 23% | 24% | 24% | 3.75 | -10% |

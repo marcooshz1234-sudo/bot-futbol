@@ -1,13 +1,13 @@
 # Nottingham Forest – Manchester City
 **Premier League** · Regular Season - 10 · 07/11/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 19:52_
+_Actualizadas: 01/11 02:14_
 
-- **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.62**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.22**  ·  X2 **1.18**
+- **1X2:** 1 **4.33**  ·  X **3.90**  ·  2 **1.70**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.20**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.20** · menos **4.50**
@@ -22,13 +22,13 @@ _Actualizadas: 30/10 19:52_
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.11** · menos **6.50**
+    - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
+    - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **4.75**  ·  X **2.40**  ·  2 **2.20**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.40**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
@@ -36,14 +36,14 @@ _Actualizadas: 30/10 19:52_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.62**  ·  2 **1.36**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.38**
-- **Win Both Halves:** 1 **19.00**  ·  2 **4.33**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **10.00**  ·  Draw/No **15.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.88**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.40**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.38**
+- **Win Both Halves:** 1 **17.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.20**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.88**
 - **Away Player Shots On Target Total:** Allan Andrade **29.00**  ·  Ousmane Diomande **34.00**  ·  Ayyoub Bouaddi **26.00**  ·  Vitor Reis **21.00**  ·  Jeremy Doku **41.00**  ·  Marc Guehi **15.00**  ·  Daniel Munoz **17.00**  ·  Rayan Ait Nouri **51.00**  ·  Ruben Dias **17.00**  ·  Enzo Fernandez **19.00**  ·  Ryan McAidoo **15.00**  ·  Arnaud Kalimuendo **17.00**  ·  Rayan Cherki **34.00**  ·  Abduqodir Khusanov **29.00**  ·  Nicolas Dominguez **41.00**  ·  Ibrahim Sangare **34.00**  ·  Matheus Nunes **41.00**  ·  Luca Netz **151.00**  ·  Xaver Schlager **126.00**  ·  Floyd Samba **12.00**  ·  Callum Hudson-Odoi **41.00**  ·  Chris Wood **9.00**  ·  Elliot Anderson **41.00**  ·  Morgan Gibbs-White **17.00**  ·  Neco Williams **81.00**  ·  Nikola Milenkovic **15.00**  ·  Ola Aina **51.00**  ·  Ryan Yates **23.00**  ·  Erling Haaland **5.50**  ·  Josko Gvardiol **15.00**  ·  Mateo Kovacic **67.00**  ·  Phil Foden **41.00**  ·  Rico Lewis **101.00**  ·  Antoine Semenyo **23.00**  ·  Liam Delap **7.00**  ·  Igor Jesus **10.00**  ·  Dan Ndoye **41.00**  ·  Iliman-Cheikh Ndiaye **29.00**  ·  James McAtee **51.00**  ·  Nico O'Reilly **19.00**  ·  Jair Cunha **34.00**  ·  Murillo dos Santos **21.00**
-- **Anytime Goal Scorer:** Allan Andrade **3.60**  ·  Ousmane Diomande **17.00**  ·  Ayyoub Bouaddi **7.00**  ·  Vitor Reis **9.00**  ·  Jeremy Doku **4.33**  ·  Marc Guehi **9.00**  ·  Daniel Munoz **7.00**  ·  Rayan Ait Nouri **6.00**  ·  Ruben Dias **12.00**  ·  Enzo Fernandez **4.50**  ·  Ryan McAidoo **3.20**  ·  Arnaud Kalimuendo **3.60**  ·  Rayan Cherki **3.60**  ·  Abduqodir Khusanov **12.00**  ·  Nicolas Dominguez **7.00**  ·  Ibrahim Sangare **10.00**  ·  Matheus Nunes **10.00**  ·  Luca Netz **17.00**  ·  Xaver Schlager **13.00**  ·  Floyd Samba **3.20**  ·  Callum Hudson-Odoi **5.50**  ·  Chris Wood **3.60**  ·  Elliot Anderson **7.00**  ·  Morgan Gibbs-White **3.60**  ·  Neco Williams **10.00**  ·  Nikola Milenkovic **12.00**  ·  Ola Aina **17.00**  ·  Ryan Yates **10.00**  ·  Erling Haaland **1.73**  ·  Josko Gvardiol **9.00**  ·  Mateo Kovacic **7.00**  ·  Phil Foden **3.50**  ·  Rico Lewis **12.00**  ·  Antoine Semenyo **2.62**  ·  Liam Delap **3.60**  ·  Igor Jesus **3.60**  ·  Dan Ndoye **5.50**  ·  Iliman-Cheikh Ndiaye **3.20**  ·  James McAtee **6.50**  ·  Nico O'Reilly **6.00**  ·  Jair Cunha **13.00**  ·  Murillo dos Santos **13.00**
-- **Player to Score or Assist:** Allan Andrade **2.10**  ·  Ousmane Diomande **10.00**  ·  Ayyoub Bouaddi **3.25**  ·  Vitor Reis **6.00**  ·  Jeremy Doku **2.20**  ·  Marc Guehi **5.50**  ·  Daniel Munoz **4.00**  ·  Rayan Ait Nouri **3.25**  ·  Ruben Dias **8.00**  ·  Enzo Fernandez **2.60**  ·  Ryan McAidoo **2.20**  ·  Arnaud Kalimuendo **2.75**  ·  Rayan Cherki **1.80**  ·  Abduqodir Khusanov **8.00**  ·  Nicolas Dominguez **4.50**  ·  Ibrahim Sangare **5.50**  ·  Matheus Nunes **4.00**  ·  Luca Netz **5.50**  ·  Xaver Schlager **7.00**  ·  Floyd Samba **2.05**  ·  Callum Hudson-Odoi **3.25**  ·  Chris Wood **2.88**  ·  Elliot Anderson **3.00**  ·  Morgan Gibbs-White **2.60**  ·  Neco Williams **5.00**  ·  Nikola Milenkovic **8.00**  ·  Ola Aina **8.50**  ·  Ryan Yates **6.00**  ·  Erling Haaland **1.53**  ·  Josko Gvardiol **5.50**  ·  Mateo Kovacic **3.60**  ·  Phil Foden **2.20**  ·  Rico Lewis **4.00**  ·  Antoine Semenyo **2.00**  ·  Liam Delap **2.88**  ·  Igor Jesus **2.88**  ·  Dan Ndoye **3.20**  ·  Iliman-Cheikh Ndiaye **2.10**  ·  James McAtee **3.75**  ·  Nico O'Reilly **3.60**  ·  Jair Cunha **10.00**  ·  Murillo dos Santos **8.50**
+- **Anytime Goal Scorer:** Allan Andrade **3.60**  ·  Ousmane Diomande **17.00**  ·  Ayyoub Bouaddi **7.00**  ·  Vitor Reis **9.00**  ·  Jeremy Doku **4.33**  ·  Marc Guehi **9.00**  ·  Daniel Munoz **7.00**  ·  Rayan Ait Nouri **6.00**  ·  Ruben Dias **12.00**  ·  Enzo Fernandez **4.50**  ·  Ryan McAidoo **3.20**  ·  Arnaud Kalimuendo **3.60**  ·  Rayan Cherki **3.60**  ·  Abduqodir Khusanov **12.00**  ·  Nicolas Dominguez **7.00**  ·  Ibrahim Sangare **10.00**  ·  Matheus Nunes **10.00**  ·  Luca Netz **17.00**  ·  Xaver Schlager **13.00**  ·  Floyd Samba **3.20**  ·  Callum Hudson-Odoi **5.50**  ·  Chris Wood **3.50**  ·  Elliot Anderson **7.00**  ·  Morgan Gibbs-White **3.60**  ·  Neco Williams **10.00**  ·  Nikola Milenkovic **12.00**  ·  Ola Aina **17.00**  ·  Ryan Yates **10.00**  ·  Erling Haaland **1.73**  ·  Josko Gvardiol **9.00**  ·  Mateo Kovacic **7.00**  ·  Phil Foden **3.50**  ·  Rico Lewis **12.00**  ·  Antoine Semenyo **2.62**  ·  Liam Delap **3.60**  ·  Igor Jesus **3.60**  ·  Dan Ndoye **5.50**  ·  Iliman-Cheikh Ndiaye **3.20**  ·  James McAtee **6.50**  ·  Nico O'Reilly **6.00**  ·  Jair Cunha **13.00**  ·  Murillo dos Santos **13.00**
+- **Player to Score or Assist:** Allan Andrade **2.10**  ·  Ousmane Diomande **10.00**  ·  Ayyoub Bouaddi **3.40**  ·  Vitor Reis **6.50**  ·  Jeremy Doku **2.20**  ·  Marc Guehi **5.50**  ·  Daniel Munoz **4.00**  ·  Rayan Ait Nouri **3.25**  ·  Ruben Dias **8.00**  ·  Enzo Fernandez **2.60**  ·  Ryan McAidoo **2.25**  ·  Arnaud Kalimuendo **2.75**  ·  Rayan Cherki **1.80**  ·  Abduqodir Khusanov **8.00**  ·  Nicolas Dominguez **4.50**  ·  Ibrahim Sangare **5.50**  ·  Matheus Nunes **4.00**  ·  Luca Netz **5.50**  ·  Xaver Schlager **7.00**  ·  Floyd Samba **2.05**  ·  Callum Hudson-Odoi **3.25**  ·  Chris Wood **2.75**  ·  Elliot Anderson **3.00**  ·  Morgan Gibbs-White **2.50**  ·  Neco Williams **5.00**  ·  Nikola Milenkovic **8.00**  ·  Ola Aina **8.50**  ·  Ryan Yates **6.00**  ·  Erling Haaland **1.53**  ·  Josko Gvardiol **5.50**  ·  Mateo Kovacic **3.60**  ·  Phil Foden **2.20**  ·  Rico Lewis **4.00**  ·  Antoine Semenyo **2.00**  ·  Liam Delap **2.88**  ·  Igor Jesus **2.88**  ·  Dan Ndoye **3.10**  ·  Iliman-Cheikh Ndiaye **2.10**  ·  James McAtee **3.75**  ·  Nico O'Reilly **3.60**  ·  Jair Cunha **10.00**  ·  Murillo dos Santos **8.50**
 
 ## Estadísticas de equipo
 | | Nottingham Forest (total) | Nottingham Forest en casa | Manchester City (total) | Manchester City fuera |
@@ -178,18 +178,18 @@ _Sin bajas comunicadas por ahora._
 | Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,97 · visitante 1,66 · córners esperados 9,6._
+_Goles esperados: local 0,98 · visitante 1,65 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 57% | 55% | 1.62 | -10% |
-| 1X2: X | 24% | 23% | 24% | 4.00 | -5% |
-| 1X2: 1 | 22% | 20% | 21% | 4.75 | -1% |
-| Doble oportunidad: X2 | 78% | 80% | 79% | 1.18 | -7% |
-| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -7% |
-| Doble oportunidad: 1X | 46% | 42% | 44% | 2.25 | -0% |
-| Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
-| Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -12% |
+| 1X2: 2 | 53% | 55% | 54% | 1.70 | -9% |
+| 1X2: X | 25% | 24% | 24% | 3.90 | -6% |
+| 1X2: 1 | 23% | 21% | 22% | 4.33 | -5% |
+| Doble oportunidad: X2 | 77% | 79% | 78% | 1.20 | -6% |
+| Doble oportunidad: 12 | 75% | 76% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 47% | 45% | 46% | 2.10 | -3% |
+| Ambos marcan: No | 49% | 42% | 46% | 2.20 | +1% |
+| Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
 | Goles más/menos: Más de 1.5 | 74% | 79% | 76% | 1.20 | -8% |
 | Goles más/menos: Más de 2.5 | 49% | 59% | 54% | 1.62 | -13% |
 | Goles más/menos: Más de 3.5 | 27% | 38% | 33% | 2.50 | -19% |
@@ -202,15 +202,16 @@ _Goles esperados: local 0,97 · visitante 1,66 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
-| Goles del local: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
-| Goles del local: Más de 1.5 | 25% | 31% | 28% | 3.00 | -15% |
-| Goles del local: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -2% |
-| Goles del local: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
-| Goles del visitante: Más de 2.5 | 23% | 34% | 29% | 2.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
-| Goles del visitante: Menos de 2.5 | 77% | 66% | 71% | 1.40 | +0% |
+| Goles del local: Más de 0.5 | 63% | 66% | 64% | 1.40 | -10% |
+| Goles del local: Más de 1.5 | 26% | 31% | 28% | 3.00 | -15% |
+| Goles del local: Menos de 0.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles del local: Menos de 1.5 | 74% | 69% | 72% | 1.36 | -3% |
+| Goles del visitante: Más de 1.5 | 49% | 58% | 53% | 1.62 | -14% |
+| Goles del visitante: Más de 2.5 | 23% | 31% | 27% | 3.00 | -19% |
+| Goles del visitante: Menos de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
+| Goles del visitante: Menos de 2.5 | 77% | 69% | 73% | 1.36 | -1% |
 | 1X2 descanso: 2 | 38% | 42% | 40% | 2.20 | -12% |
-| 1X2 descanso: X | 42% | 39% | 40% | 2.40 | -3% |
+| 1X2 descanso: X | 42% | 38% | 40% | 2.40 | -3% |
+| 1X2 descanso: 1 | 20% | 20% | 20% | 4.50 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

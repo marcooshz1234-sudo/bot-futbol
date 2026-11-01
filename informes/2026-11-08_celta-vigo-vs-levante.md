@@ -1,7 +1,7 @@
 # Celta Vigo – Levante
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:51_
@@ -191,10 +191,10 @@ _Goles esperados: local 1,12 · visitante 1,09 · córners esperados 8,7._
 | Doble oportunidad: 1X | 65% | 77% | 71% | 1.22 | -13% |
 | Ambos marcan: No | 55% | 48% | 52% | 1.95 | +1% |
 | Ambos marcan: Sí | 45% | 52% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 1.5 | 65% | 76% | 70% | 1.25 | -12% |
+| Goles más/menos: Más de 1.5 | 65% | 76% | 71% | 1.25 | -12% |
 | Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -18% |
 | Goles más/menos: Más de 3.5 | 18% | 30% | 24% | 3.20 | -23% |
-| Goles más/menos: Menos de 1.5 | 35% | 24% | 30% | 4.00 | +18% |
+| Goles más/menos: Menos de 1.5 | 35% | 24% | 29% | 4.00 | +18% |
 | Goles más/menos: Menos de 2.5 ✅ | 62% | 47% | 55% | 2.00 | +9% |
 | Goles más/menos: Menos de 3.5 | 82% | 70% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
@@ -207,9 +207,9 @@ _Goles esperados: local 1,12 · visitante 1,09 · córners esperados 8,7._
 | Goles del local: Menos de 0.5 | 33% | 21% | 27% | 4.50 | +20% |
 | Goles del local: Menos de 1.5 ✅ | 69% | 50% | 60% | 1.83 | +9% |
 | Goles del local: Menos de 2.5 | 90% | 75% | 82% | 1.25 | +3% |
-| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 0.5 | 66% | 65% | 66% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -10% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 34% | 2.62 | -10% |
 | Goles del visitante: Menos de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
 | 1X2 descanso: 2 | 26% | 21% | 23% | 4.50 | +4% |
 | 1X2 descanso: X | 48% | 41% | 44% | 2.25 | -0% |

@@ -1,7 +1,7 @@
 # Real Sociedad – Lyon
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -177,38 +177,38 @@ _Sin bajas comunicadas por ahora._
 | Rémy Descamps | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,59 · visitante 1,33 · córners esperados 10,5._
+_Goles esperados: local 1,61 · visitante 1,31 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.60 | +4% |
+| 1X2: 2 | 31% | 26% | 29% | 3.60 | +3% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -8% |
-| 1X2: 1 | 44% | 49% | 46% | 1.90 | -12% |
-| Doble oportunidad: X2 | 56% | 50% | 53% | 1.91 | +2% |
+| 1X2: 1 | 44% | 49% | 47% | 1.90 | -11% |
+| Doble oportunidad: X2 | 56% | 50% | 53% | 1.91 | +1% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 68% | 75% | 71% | 1.28 | -9% |
+| Doble oportunidad: 1X | 69% | 75% | 72% | 1.28 | -8% |
 | Ambos marcan: No | 42% | 39% | 40% | 2.38 | -4% |
 | Ambos marcan: Sí | 58% | 61% | 60% | 1.53 | -9% |
 | Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -9% |
 | Goles más/menos: Más de 3.5 | 33% | 40% | 37% | 2.38 | -13% |
-| Goles más/menos: Más de 4.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | +0% |
+| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
+| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | -0% |
 | Goles más/menos: Menos de 3.5 | 67% | 60% | 63% | 1.57 | -0% |
-| Goles más/menos: Menos de 4.5 | 83% | 78% | 81% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
+| Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -3% |
-| Goles del local: Más de 1.5 | 47% | 56% | 51% | 1.67 | -14% |
-| Goles del local: Más de 2.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles del local: Menos de 1.5 | 53% | 44% | 49% | 2.10 | +2% |
-| Goles del local: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
+| Goles del local: Más de 1.5 | 48% | 56% | 52% | 1.67 | -14% |
+| Goles del local: Más de 2.5 | 22% | 29% | 25% | 3.25 | -17% |
+| Goles del local: Menos de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
+| Goles del local: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
 | Goles del visitante: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -8% |
-| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -2% |
-| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -5% |
-| 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -14% |
+| Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
+| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
+| 1X2 descanso: 2 | 26% | 23% | 24% | 4.00 | -2% |
+| 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: 1 | 34% | 38% | 36% | 2.40 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

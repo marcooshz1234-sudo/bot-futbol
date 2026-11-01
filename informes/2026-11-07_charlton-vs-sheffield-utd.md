@@ -1,7 +1,7 @@
 # Charlton – Sheffield Utd
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | F. Seriki | D | 6 | 341 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 10 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,32 · córners esperados 9,8._
+_Goles esperados: local 0,96 · visitante 1,30 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

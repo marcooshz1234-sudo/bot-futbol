@@ -1,7 +1,7 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:49_
@@ -48,52 +48,52 @@ _Actualizadas: 31/10 19:49_
 ## Estadísticas de equipo
 | | Leeds (total) | Leeds en casa | Tottenham (total) | Tottenham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 4 | 10 | 5 |
-| Forma (últimos 5) | DEEDE | EEVE | VVEDD | VEDED |
-| Balance | 3V 5E 3D | 1V 3E 0D | 3V 3E 4D | 1V 2E 2D |
-| Goles a favor / partido | 1,27 | 1,50 | 1,40 | 0,80 |
-| Goles en contra / partido | 1,27 | 0,75 | 1,40 | 1,40 |
-| Goles a favor 1ª parte | 0,45 | 0,75 | 0,30 | 0,00 |
-| Goles a favor 2ª parte | 0,82 | 0,75 | 1,10 | 0,80 |
-| Goles en contra 1ª parte | 0,27 | 0,50 | 0,40 | 0,60 |
-| Goles en contra 2ª parte | 1,00 | 0,25 | 1,00 | 0,80 |
-| Más de 1,5 goles | 73% | 75% | 80% | 80% |
-| Más de 2,5 goles | 27% | 25% | 50% | 40% |
-| Más de 3,5 goles | 18% | 25% | 40% | 20% |
-| Ambos marcan | 55% | 75% | 50% | 40% |
-| Portería a cero | 36% | 25% | 30% | 40% |
-| Se queda sin marcar | 27% | 25% | 40% | 40% |
-| xG a favor | 1,40 | 1,58 | 1,20 | 1,01 |
-| xG en contra | 1,32 | 1,14 | 1,18 | 1,53 |
-| Tiros / partido | 12,3 | 12,8 | 15,1 | 12,8 |
-| Tiros a puerta / partido | 4,0 | 3,8 | 4,8 | 3,4 |
-| Tiros recibidos | 13,5 | 13,5 | 12,5 | 13,8 |
-| Tiros a puerta recibidos | 4,5 | 4,2 | 3,9 | 4,6 |
-| Posesión media % | 50 | 52 | 59 | 56 |
-| Córners a favor | 4,0 | 4,0 | 7,2 | 6,4 |
-| Córners en contra | 3,9 | 4,2 | 4,6 | 4,4 |
-| Córners a favor 1ª parte | 1,8 | 1,8 | 3,3 | 2,0 |
-| Córners a favor 2ª parte | 2,2 | 2,2 | 3,9 | 4,4 |
-| Córners totales del partido | 7,9 | 8,2 | 11,8 | 10,8 |
+| Partidos analizados | 11 | 4 | 11 | 5 |
+| Forma (últimos 5) | DEEDE | EEVE | VVVED | VEDED |
+| Balance | 3V 5E 3D | 1V 3E 0D | 4V 3E 4D | 1V 2E 2D |
+| Goles a favor / partido | 1,27 | 1,50 | 1,45 | 0,80 |
+| Goles en contra / partido | 1,27 | 0,75 | 1,27 | 1,40 |
+| Goles a favor 1ª parte | 0,45 | 0,75 | 0,36 | 0,00 |
+| Goles a favor 2ª parte | 0,82 | 0,75 | 1,09 | 0,80 |
+| Goles en contra 1ª parte | 0,27 | 0,50 | 0,36 | 0,60 |
+| Goles en contra 2ª parte | 1,00 | 0,25 | 0,91 | 0,80 |
+| Más de 1,5 goles | 73% | 75% | 82% | 80% |
+| Más de 2,5 goles | 27% | 25% | 45% | 40% |
+| Más de 3,5 goles | 18% | 25% | 36% | 20% |
+| Ambos marcan | 55% | 75% | 45% | 40% |
+| Portería a cero | 36% | 25% | 36% | 40% |
+| Se queda sin marcar | 27% | 25% | 36% | 40% |
+| xG a favor | 1,40 | 1,58 | 1,42 | 1,01 |
+| xG en contra | 1,32 | 1,14 | 1,08 | 1,53 |
+| Tiros / partido | 12,3 | 12,8 | 16,8 | 12,8 |
+| Tiros a puerta / partido | 4,0 | 3,8 | 5,2 | 3,4 |
+| Tiros recibidos | 13,5 | 13,5 | 11,5 | 13,8 |
+| Tiros a puerta recibidos | 4,5 | 4,2 | 3,6 | 4,6 |
+| Posesión media % | 50 | 52 | 61 | 56 |
+| Córners a favor | 4,0 | 4,0 | 8,3 | 6,4 |
+| Córners en contra | 3,9 | 4,2 | 4,2 | 4,4 |
+| Córners a favor 1ª parte | 1,8 | 1,8 | 3,5 | 2,0 |
+| Córners a favor 2ª parte | 2,2 | 2,2 | 4,7 | 4,4 |
+| Córners totales del partido | 7,9 | 8,2 | 12,5 | 10,8 |
 | Córners totales 1ª parte | 3,5 | 3,8 | 5,7 | 4,0 |
-| Córners totales 2ª parte | 4,5 | 4,5 | 6,1 | 6,8 |
-| Más de 8,5 córners | 36% | 50% | 80% | 80% |
-| Más de 9,5 córners | 27% | 50% | 80% | 80% |
-| Más de 10,5 córners | 18% | 25% | 60% | 40% |
-| Faltas cometidas | 12,7 | 9,8 | 12,7 | 13,8 |
-| Faltas recibidas | 11,5 | 10,8 | 13,6 | 16,2 |
+| Córners totales 2ª parte | 4,5 | 4,5 | 6,7 | 6,8 |
+| Más de 8,5 córners | 36% | 50% | 82% | 80% |
+| Más de 9,5 córners | 27% | 50% | 82% | 80% |
+| Más de 10,5 córners | 18% | 25% | 64% | 40% |
+| Faltas cometidas | 12,7 | 9,8 | 12,3 | 13,8 |
+| Faltas recibidas | 11,5 | 10,8 | 13,3 | 16,2 |
 | Amarillas propias | 1,8 | 1,2 | 1,5 | 2,2 |
-| Amarillas del rival | 2,3 | 2,8 | 2,2 | 2,4 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,20 |
+| Amarillas del rival | 2,3 | 2,8 | 2,1 | 2,4 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Leeds | Recibe Leeds | Tarjetas Leeds | Goles Tottenham | Recibe Tottenham | Tarjetas Tottenham |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 0 | 1 | 1 | 1 | 2 |
-| 16-30' | 1 | 0 | 3 | 0 | 1 | 2 |
+| 1-15' | 1 | 0 | 1 | 1 | 1 | 3 |
+| 16-30' | 1 | 0 | 3 | 1 | 1 | 2 |
 | 31-45' | 3 | 3 | 7 | 2 | 2 | 5 |
 | 46-60' | 5 | 3 | 1 | 1 | 3 | 0 |
-| 61-75' | 2 | 4 | 5 | 2 | 4 | 4 |
+| 61-75' | 2 | 4 | 5 | 3 | 4 | 4 |
 | 76-90' | 2 | 4 | 4 | 8 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -146,70 +146,70 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Tottenham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Premier League | Tottenham 2-0 Crystal Palace | casa | 19-0 | 34 (9) - 2 (1) | 1-1 |
 | 2026-10-24 | Premier League | Chelsea 0-2 Tottenham | fuera | 6-4 | 15 (4) - 7 (4) | 3-2 |
 | 2026-10-19 | Premier League | Tottenham 3-1 Coventry | casa | 4-4 | 16 (5) - 12 (1) | 1-3 |
 | 2026-10-10 | Premier League | Manchester United 1-1 Tottenham | fuera | 4-4 | 12 (3) - 12 (4) | 3-4 |
 | 2026-09-19 | Premier League | Tottenham 2-3 Aston Villa | casa | 11-1 | 20 (7) - 15 (6) | 1-2 |
 | 2026-09-15 | Carabao Cup | Liverpool 3-1 Tottenham | fuera | 9-5 | 17 (6) - 12 (5) | 2-3 |
-| 2026-09-12 | Premier League | Tottenham 0-0 Everton | casa | 5-6 | 14 (2) - 12 (3) | 0-2 |
 
 ## Jugadores de Tottenham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A. Kinský | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| J. van Hecke | D | 9 | 784 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 11 | 7 | 0,8 | 2 | 0 |
-| A. Gray | D | 9 | 760 | 0 | 1 | 5 | 0,6 | 3 | 0,3 | 10 | 12 | 1,3 | 1 | 0 |
-| S. Tonali | M | 8 | 699 | 0 | 1 | 8 | 1,0 | 1 | 0,1 | 5 | 8 | 1,0 | 0 | 0 |
-| Omar Marmoush | F | 8 | 607 | 1 | 0 | 12 | 1,5 | 5 | 0,6 | 13 | 11 | 1,4 | 1 | 0 |
-| M. van de Ven | D | 8 | 582 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 10 | 1,2 | 2 | 0 |
-| A. Robertson | D | 8 | 534 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 1 | 2 | 0,2 | 0 | 0 |
-| M. Tel | M | 8 | 514 | 1 | 0 | 10 | 1,2 | 5 | 0,6 | 5 | 6 | 0,8 | 0 | 0 |
+| A. Kinský | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| J. van Hecke | D | 10 | 874 | 2 | 0 | 10 | 1,0 | 4 | 0,4 | 11 | 7 | 0,7 | 2 | 0 |
+| A. Gray | D | 10 | 805 | 1 | 1 | 6 | 0,6 | 4 | 0,4 | 11 | 12 | 1,2 | 2 | 0 |
+| S. Tonali | M | 9 | 789 | 0 | 1 | 9 | 1,0 | 1 | 0,1 | 6 | 8 | 0,9 | 0 | 0 |
+| Omar Marmoush | M | 9 | 684 | 1 | 0 | 16 | 1,8 | 6 | 0,7 | 15 | 11 | 1,2 | 1 | 0 |
+| M. van de Ven | D | 9 | 672 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 5 | 12 | 1,3 | 2 | 0 |
+| A. Robertson | D | 9 | 611 | 0 | 2 | 5 | 0,6 | 3 | 0,3 | 1 | 2 | 0,2 | 0 | 0 |
+| M. Tel | M | 9 | 602 | 1 | 0 | 14 | 1,6 | 5 | 0,6 | 6 | 8 | 0,9 | 0 | 0 |
+| Mateus Fernandes | M | 11 | 589 | 0 | 2 | 11 | 1,0 | 3 | 0,3 | 14 | 4 | 0,4 | 2 | 0 |
+| M. Kudus | M | 9 | 530 | 0 | 3 | 13 | 1,4 | 2 | 0,2 | 8 | 15 | 1,7 | 0 | 0 |
+| D. Solanke | F | 11 | 525 | 2 | 1 | 14 | 1,3 | 5 | 0,5 | 9 | 8 | 0,7 | 1 | 0 |
 | Rodrigo Bentancur | M | 8 | 506 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 13 | 2 | 0,2 | 1 | 1 |
-| Mateus Fernandes | M | 10 | 499 | 0 | 2 | 8 | 0,8 | 3 | 0,3 | 12 | 4 | 0,4 | 2 | 0 |
-| D. Solanke | F | 10 | 459 | 2 | 1 | 10 | 1,0 | 4 | 0,4 | 9 | 7 | 0,7 | 1 | 0 |
-| M. Kudus | M | 8 | 440 | 0 | 2 | 10 | 1,2 | 2 | 0,2 | 8 | 11 | 1,4 | 0 | 0 |
+| C. Gallagher | M | 8 | 376 | 2 | 0 | 10 | 1,2 | 5 | 0,6 | 6 | 11 | 1,4 | 3 | 0 |
 | Sávio | M | 6 | 365 | 1 | 1 | 5 | 0,8 | 4 | 0,7 | 6 | 6 | 1,0 | 0 | 0 |
-| C. Gallagher | M | 7 | 352 | 2 | 0 | 7 | 1,0 | 4 | 0,6 | 6 | 11 | 1,6 | 3 | 0 |
 | Lucas Bergvall | M | 6 | 333 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 6 | 1 | 0,2 | 1 | 0 |
-| Destiny Udogie | D | 6 | 288 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 8 | 1,3 | 1 | 0 |
+| D. Udogie | D | 7 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 8 | 1,1 | 1 | 0 |
+| Pedro Porro | D | 6 | 294 | 0 | 0 | 10 | 1,7 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
 | Marcos Senesi | D | 3 | 269 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 1,3 | 0 | 0 |
-| Pedro Porro | D | 5 | 249 | 0 | 0 | 7 | 1,4 | 1 | 0,2 | 2 | 4 | 0,8 | 0 | 0 |
 | J. Maddison | M | 7 | 210 | 1 | 0 | 6 | 0,9 | 4 | 0,6 | 0 | 10 | 1,4 | 0 | 0 |
 | Mikey Moore | F | 3 | 180 | 1 | 1 | 5 | 1,7 | 4 | 1,3 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 0,98 · córners esperados 9,5._
+_Goles esperados: local 1,39 · visitante 1,06 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 34% | 29% | 2.75 | -19% |
-| 1X2: X | 26% | 28% | 27% | 3.30 | -10% |
-| 1X2: 1 ✅ | 49% | 38% | 43% | 2.50 | +8% |
-| Doble oportunidad: X2 | 51% | 63% | 57% | 1.50 | -15% |
-| Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 75% | 67% | 71% | 1.40 | -0% |
-| Ambos marcan: No | 52% | 45% | 49% | 2.05 | -1% |
-| Ambos marcan: Sí | 48% | 55% | 51% | 1.70 | -12% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.28 | -7% |
-| Goles más/menos: Más de 2.5 | 45% | 50% | 47% | 1.91 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +3% |
-| Goles más/menos: Menos de 2.5 | 55% | 50% | 53% | 1.91 | +0% |
-| Goles más/menos: Menos de 3.5 | 76% | 72% | 74% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
+| 1X2: 2 | 29% | 34% | 31% | 2.75 | -14% |
+| 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
+| 1X2: 1 | 44% | 38% | 41% | 2.50 | +2% |
+| Doble oportunidad: X2 | 56% | 63% | 59% | 1.50 | -11% |
+| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -5% |
+| Doble oportunidad: 1X | 71% | 67% | 69% | 1.40 | -3% |
+| Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
+| Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
+| Goles más/menos: Más de 1.5 | 70% | 75% | 72% | 1.28 | -7% |
+| Goles más/menos: Más de 2.5 | 44% | 50% | 47% | 1.91 | -10% |
+| Goles más/menos: Más de 3.5 | 23% | 28% | 26% | 3.40 | -13% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles más/menos: Menos de 2.5 | 56% | 50% | 53% | 1.91 | +1% |
+| Goles más/menos: Menos de 3.5 | 77% | 72% | 74% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del local: Más de 1.5 | 44% | 39% | 42% | 2.38 | -1% |
-| Goles del local: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -14% |
-| Goles del local: Menos de 1.5 | 56% | 61% | 58% | 1.53 | -11% |
-| Goles del visitante: Más de 0.5 | 62% | 73% | 68% | 1.28 | -13% |
-| Goles del visitante: Más de 1.5 | 26% | 39% | 32% | 2.38 | -23% |
-| Goles del visitante: Menos de 0.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del visitante: Menos de 1.5 | 74% | 61% | 68% | 1.53 | +3% |
-| 1X2 descanso: 2 | 20% | 27% | 24% | 3.40 | -18% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
-| 1X2 descanso: 1 | 35% | 30% | 33% | 3.10 | +1% |
+| Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles del local: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
+| Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles del local: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
+| Goles del visitante: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
+| Goles del visitante: Más de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
+| Goles del visitante: Menos de 0.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
+| Goles del visitante: Menos de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
+| 1X2 descanso: 2 | 23% | 27% | 25% | 3.40 | -15% |
+| 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
+| 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

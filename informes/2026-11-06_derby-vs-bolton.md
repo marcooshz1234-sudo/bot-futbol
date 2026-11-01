@@ -1,7 +1,7 @@
 # Derby – Bolton
 **Championship** · Regular Season - 15 · 06/11/2026 21:00 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Luca Stephenson | D | 3 | 272 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,54 · córners esperados 10,3._
+_Goles esperados: local 1,36 · visitante 1,53 · córners esperados 10,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

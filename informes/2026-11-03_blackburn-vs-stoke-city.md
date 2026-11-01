@@ -1,7 +1,7 @@
 # Blackburn – Stoke City
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Blackburn:** A. Forshaw (baja, Hip Injury); M. Litherland (baja, Muscle Injury); L. Miller (baja, Achilles Tendon Injury); R. Morishita (duda, Injury); A. Forshaw (baja, Hip Injury); M. Litherland (baja, Muscle Injury); L. Miller (baja, Achilles Tendon Injury); R. Morishita (duda, Injury)
+**Stoke City:** A. Ampah (baja, Knee Injury); E. Bocat (baja, Injury); A. Cresswell (baja, Knee Injury); E. Galbraith (baja, Yellow Cards); S. Gallagher (baja, Injury); A. Ampah (baja, Knee Injury); E. Bocat (baja, Injury); A. Cresswell (baja, Knee Injury); E. Galbraith (baja, Yellow Cards); S. Gallagher (baja, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-11 · Championship: Stoke City 1-1 Blackburn
@@ -139,6 +140,6 @@ _Sin bajas comunicadas por ahora._
 | S. Ingelsson | M | 4 | 199 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,5 | 2 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,27 · córners esperados 10,0._
+_Goles esperados: local 1,33 · visitante 1,27 · córners esperados 10,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

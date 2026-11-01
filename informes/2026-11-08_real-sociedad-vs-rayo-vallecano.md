@@ -1,7 +1,7 @@
 # Real Sociedad – Rayo Vallecano
 **LaLiga** · Regular Season - 12 · 08/11/2026 16:15 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -179,38 +179,38 @@ _Sin bajas comunicadas por ahora._
 | Isi Palazón | M | 5 | 199 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 2 | 5 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,18 · visitante 1,48 · córners esperados 10,7._
+_Goles esperados: local 2,18 · visitante 1,46 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 23% | 24% | 4.10 | -0% |
-| 1X2: X | 21% | 25% | 23% | 3.70 | -15% |
+| 1X2: 2 | 26% | 23% | 24% | 4.10 | -1% |
+| 1X2: X | 20% | 25% | 23% | 3.70 | -15% |
 | 1X2: 1 | 54% | 52% | 53% | 1.80 | -5% |
-| Doble oportunidad: X2 | 46% | 49% | 47% | 1.95 | -7% |
-| Doble oportunidad: 12 | 79% | 74% | 77% | 1.28 | -2% |
+| Doble oportunidad: X2 | 46% | 49% | 47% | 1.95 | -8% |
+| Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -2% |
 | Doble oportunidad: 1X | 74% | 78% | 76% | 1.22 | -7% |
-| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -19% |
+| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -18% |
 | Ambos marcan: Sí | 68% | 58% | 63% | 1.62 | +2% |
 | Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | +0% |
 | Goles más/menos: Más de 2.5 | 71% | 57% | 64% | 1.67 | +6% |
-| Goles más/menos: Más de 3.5 ✅ | 50% | 36% | 43% | 2.62 | +13% |
-| Goles más/menos: Más de 4.5 | 30% | 21% | 26% | 4.50 | +16% |
-| Goles más/menos: Menos de 1.5 | 12% | 21% | 17% | 4.50 | -26% |
+| Goles más/menos: Más de 3.5 ✅ | 49% | 36% | 43% | 2.62 | +13% |
+| Goles más/menos: Más de 4.5 | 30% | 21% | 26% | 4.50 | +15% |
+| Goles más/menos: Menos de 1.5 | 12% | 21% | 17% | 4.50 | -25% |
 | Goles más/menos: Menos de 2.5 | 29% | 43% | 36% | 2.20 | -20% |
-| Goles más/menos: Menos de 3.5 | 50% | 64% | 57% | 1.50 | -15% |
+| Goles más/menos: Menos de 3.5 | 51% | 64% | 57% | 1.50 | -14% |
 | Goles más/menos: Menos de 4.5 | 70% | 79% | 74% | 1.20 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 72% | 76% | 1.30 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 39% | 43% | 2.38 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 28% | 24% | 3.40 | -18% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 72% | 76% | 1.30 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 39% | 43% | 2.38 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 28% | 24% | 3.40 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
 | Goles del local: Más de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
 | Goles del local: Más de 2.5 ✅ | 37% | 28% | 32% | 3.40 | +10% |
 | Goles del local: Menos de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
 | Goles del local: Menos de 2.5 | 63% | 72% | 68% | 1.30 | -12% |
 | Goles del visitante: Más de 0.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del visitante: Más de 1.5 | 43% | 34% | 39% | 2.75 | +6% |
+| Goles del visitante: Más de 1.5 | 43% | 34% | 38% | 2.75 | +6% |
 | Goles del visitante: Menos de 0.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles del visitante: Menos de 1.5 | 57% | 66% | 61% | 1.40 | -14% |
+| Goles del visitante: Menos de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
 | 1X2 descanso: 2 | 24% | 22% | 23% | 4.33 | -2% |
 | 1X2 descanso: X | 35% | 39% | 37% | 2.38 | -12% |
 | 1X2 descanso: 1 | 41% | 39% | 40% | 2.38 | -4% |

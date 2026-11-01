@@ -1,7 +1,7 @@
 # Angers – Nice
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Raymond-Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -182,40 +182,40 @@ _Sin bajas comunicadas por ahora._
 | H. Koutoune | D | 4 | 58 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 1,58 · córners esperados 10,2._
+_Goles esperados: local 1,42 · visitante 1,55 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 45% | 44% | 2.05 | -11% |
+| 1X2: 2 | 41% | 45% | 43% | 2.05 | -12% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
-| 1X2: 1 | 34% | 28% | 31% | 3.30 | +2% |
-| Doble oportunidad: X2 | 66% | 71% | 69% | 1.33 | -9% |
+| 1X2: 1 | 35% | 28% | 32% | 3.30 | +4% |
+| Doble oportunidad: X2 | 65% | 71% | 68% | 1.33 | -9% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 58% | 55% | 56% | 1.73 | -2% |
+| Doble oportunidad: 1X | 59% | 55% | 57% | 1.73 | -1% |
 | Ambos marcan: No | 40% | 42% | 41% | 2.20 | -9% |
 | Ambos marcan: Sí | 60% | 58% | 59% | 1.62 | -5% |
 | Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 3.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -5% |
 | Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -8% |
 | Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
-| Goles más/menos: Menos de 3.5 | 65% | 66% | 66% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Goles más/menos: Menos de 3.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del local: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles del local: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles del local: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles del local: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.18 | -6% |
-| Goles del visitante: Más de 1.5 | 47% | 50% | 48% | 1.83 | -11% |
-| Goles del visitante: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del visitante: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles del visitante: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
-| Goles del visitante: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
-| 1X2 descanso: 2 | 32% | 36% | 34% | 2.60 | -11% |
+| Goles del local: Más de 0.5 | 76% | 71% | 73% | 1.33 | -2% |
+| Goles del local: Más de 1.5 | 41% | 35% | 38% | 2.62 | +1% |
+| Goles del local: Menos de 0.5 | 24% | 29% | 27% | 3.25 | -14% |
+| Goles del local: Menos de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
+| Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Goles del visitante: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Goles del visitante: Más de 2.5 | 20% | 23% | 22% | 4.00 | -12% |
+| Goles del visitante: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
+| Goles del visitante: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del visitante: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -5% |
+| 1X2 descanso: 2 | 32% | 36% | 34% | 2.60 | -12% |
 | 1X2 descanso: X | 40% | 41% | 40% | 2.30 | -7% |
-| 1X2 descanso: 1 | 27% | 23% | 25% | 4.00 | +1% |
+| 1X2 descanso: 1 | 28% | 23% | 26% | 4.00 | +3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

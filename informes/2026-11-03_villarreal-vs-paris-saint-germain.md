@@ -1,10 +1,10 @@
 # Villarreal – Paris Saint Germain
-**Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Ceramica
+**Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Estadio de la Cerámica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:49_
+_Actualizadas: 01/11 02:13_
 
 - **1X2:** 1 **4.33**  ·  X **4.50**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.18**  ·  X2 **1.18**
@@ -106,7 +106,8 @@ _Actualizadas: 31/10 19:49_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Villarreal:** I. Akhomach (baja, Muscle Injury); N. Saliba (baja, Injury); G. Moreno (duda, Injury); I. Akhomach (baja, Muscle Injury); N. Saliba (baja, Injury); G. Moreno (duda, Injury)
+**Paris Saint Germain:** O. Dembele (baja, Thigh Injury); K. Kvaratskhelia (baja, Knee Injury); A. Longoni (baja, Injury); Marquinhos (baja, Thigh Injury); N. Mendes (baja, Muscle Injury); O. Dembele (baja, Thigh Injury); K. Kvaratskhelia (baja, Knee Injury); A. Longoni (baja, Injury); Marquinhos (baja, Thigh Injury); N. Mendes (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -180,41 +181,41 @@ _Sin precedentes recientes._
 | Beraldo | D | 9 | 267 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,72 · visitante 2,04 · córners esperados 9,6._
+_Goles esperados: local 1,73 · visitante 2,03 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 58% | 52% | 1.57 | -18% |
-| 1X2: X | 21% | 20% | 21% | 4.50 | -7% |
-| 1X2: 1 | 33% | 21% | 27% | 4.33 | +18% |
-| Doble oportunidad: X2 | 67% | 81% | 74% | 1.18 | -13% |
+| 1X2: 2 | 45% | 58% | 52% | 1.57 | -19% |
+| 1X2: X | 21% | 20% | 21% | 4.50 | -6% |
+| 1X2: 1 | 34% | 21% | 27% | 4.33 | +18% |
+| Doble oportunidad: X2 | 66% | 81% | 74% | 1.18 | -13% |
 | Doble oportunidad: 12 | 79% | 81% | 80% | 1.18 | -6% |
-| Doble oportunidad: 1X ✅ | 54% | 38% | 46% | 2.50 | +16% |
-| Ambos marcan: No | 28% | 35% | 32% | 2.62 | -16% |
-| Ambos marcan: Sí | 72% | 65% | 68% | 1.44 | -2% |
-| Goles más/menos: Más de 2.5 | 73% | 70% | 71% | 1.36 | -3% |
+| Doble oportunidad: 1X ✅ | 55% | 38% | 46% | 2.50 | +16% |
+| Ambos marcan: No | 29% | 35% | 32% | 2.62 | -16% |
+| Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -2% |
+| Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -3% |
 | Goles más/menos: Más de 3.5 | 52% | 50% | 51% | 1.91 | -3% |
-| Goles más/menos: Más de 4.5 | 33% | 32% | 32% | 3.00 | -3% |
-| Goles más/menos: Menos de 2.5 | 27% | 30% | 29% | 3.20 | -8% |
+| Goles más/menos: Más de 4.5 | 32% | 32% | 32% | 3.00 | -4% |
+| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.20 | -8% |
 | Goles más/menos: Menos de 3.5 | 48% | 50% | 49% | 1.91 | -6% |
-| Goles más/menos: Menos de 4.5 | 67% | 68% | 68% | 1.40 | -5% |
+| Goles más/menos: Menos de 4.5 | 68% | 68% | 68% | 1.40 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Goles 1ª parte más/menos: Más de 2.5 | 23% | 23% | 23% | 4.00 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del local: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
-| Goles del local: Más de 1.5 ✅ | 51% | 39% | 45% | 2.38 | +8% |
+| Goles del local: Más de 1.5 ✅ | 52% | 39% | 45% | 2.38 | +8% |
 | Goles del local: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
-| Goles del local: Menos de 1.5 | 49% | 61% | 55% | 1.53 | -16% |
-| Goles del visitante: Más de 1.5 | 61% | 66% | 63% | 1.40 | -11% |
-| Goles del visitante: Más de 2.5 | 34% | 42% | 38% | 2.20 | -16% |
-| Goles del visitante: Más de 3.5 | 15% | 22% | 18% | 4.33 | -20% |
-| Goles del visitante: Menos de 1.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles del visitante: Menos de 2.5 | 66% | 58% | 62% | 1.62 | +0% |
+| Goles del local: Menos de 1.5 | 48% | 61% | 55% | 1.53 | -16% |
+| Goles del visitante: Más de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles del visitante: Más de 2.5 | 33% | 42% | 38% | 2.20 | -17% |
+| Goles del visitante: Más de 3.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles del visitante: Menos de 1.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles del visitante: Menos de 2.5 | 67% | 58% | 62% | 1.62 | +1% |
 | Goles del visitante: Menos de 3.5 | 85% | 78% | 82% | 1.20 | -2% |
-| 1X2 descanso: 2 | 37% | 48% | 42% | 1.95 | -18% |
+| 1X2 descanso: 2 | 36% | 48% | 42% | 1.95 | -18% |
 | 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Lyon
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -195,24 +195,24 @@ _Goles esperados: local 1,36 · visitante 1,21 · córners esperados 9,7._
 | Ambos marcan: No | 48% | 42% | 45% | 2.20 | -1% |
 | Ambos marcan: Sí | 52% | 58% | 55% | 1.62 | -11% |
 | Goles más/menos: Más de 1.5 | 73% | 78% | 75% | 1.22 | -8% |
-| Goles más/menos: Más de 2.5 | 47% | 55% | 51% | 1.73 | -12% |
+| Goles más/menos: Más de 2.5 | 47% | 55% | 51% | 1.73 | -11% |
 | Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -17% |
 | Goles más/menos: Menos de 1.5 | 27% | 22% | 25% | 4.33 | +7% |
 | Goles más/menos: Menos de 2.5 | 53% | 45% | 49% | 2.10 | +3% |
 | Goles más/menos: Menos de 3.5 | 74% | 66% | 70% | 1.44 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles del local: Más de 1.5 | 39% | 41% | 40% | 2.25 | -9% |
+| Goles del local: Más de 0.5 | 74% | 73% | 74% | 1.28 | -5% |
+| Goles del local: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
 | Goles del local: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles del local: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
+| Goles del local: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
 | Goles del visitante: Más de 0.5 | 70% | 78% | 74% | 1.20 | -11% |
 | Goles del visitante: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Goles del visitante: Más de 2.5 | 12% | 22% | 17% | 4.33 | -27% |
 | Goles del visitante: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +12% |
-| Goles del visitante: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
+| Goles del visitante: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +3% |
 | Goles del visitante: Menos de 2.5 | 88% | 78% | 83% | 1.20 | -0% |
 | 1X2 descanso: 2 | 26% | 32% | 29% | 2.88 | -16% |
 | 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |

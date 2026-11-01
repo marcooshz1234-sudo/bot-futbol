@@ -1,7 +1,7 @@
 # Preston – Sheffield Utd
-**Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Deepdale
+**Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Deepdale Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Preston:** H. Clarke (baja, Knee Injury); L. Gibbs (baja, Muscle Injury); L. Gibson (baja, Inactive); A. McCann (baja, Hamstring Injury); T. Carroll (duda, Ankle Injury); H. Clarke (baja, Knee Injury); L. Gibbs (baja, Muscle Injury); L. Gibson (baja, Inactive); A. McCann (baja, Hamstring Injury); T. Carroll (duda, Ankle Injury)
+**Sheffield Utd:** M. Doherty (baja, Injury); L. Kitching (baja, Yellow Cards); R. One (baja, Inactive); J. Shackleton (baja, Health problems); P. Bamford (duda, Inactive); M. Doherty (baja, Injury); L. Kitching (baja, Yellow Cards); R. One (baja, Inactive); J. Shackleton (baja, Health problems); P. Bamford (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-04-25 · Championship: Sheffield Utd 2-3 Preston
@@ -139,6 +140,6 @@ _Sin bajas comunicadas por ahora._
 | F. Seriki | D | 6 | 341 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 10 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,97 · visitante 1,55 · córners esperados 9,8._
+_Goles esperados: local 0,98 · visitante 1,55 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

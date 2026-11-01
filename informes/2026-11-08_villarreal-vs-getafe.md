@@ -1,7 +1,7 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:51_
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Daniel Carvajal |  | 2 | 170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 1,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 0,80 · córners esperados 10,1._
+_Goles esperados: local 1,98 · visitante 0,79 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -190,22 +190,22 @@ _Goles esperados: local 1,98 · visitante 0,80 · córners esperados 10,1._
 | Doble oportunidad: 1X | 86% | 86% | 86% | 1.11 | -5% |
 | Ambos marcan: No | 53% | 53% | 53% | 1.75 | -7% |
 | Ambos marcan: Sí | 47% | 47% | 47% | 2.00 | -6% |
-| Goles más/menos: Más de 1.5 | 77% | 75% | 76% | 1.28 | -3% |
-| Goles más/menos: Más de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
+| Goles más/menos: Más de 1.5 | 76% | 75% | 75% | 1.28 | -3% |
+| Goles más/menos: Más de 2.5 | 52% | 50% | 51% | 1.91 | -2% |
 | Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 1.5 | 23% | 25% | 24% | 3.75 | -8% |
-| Goles más/menos: Menos de 2.5 | 47% | 50% | 49% | 1.91 | -7% |
+| Goles más/menos: Menos de 1.5 | 24% | 25% | 25% | 3.75 | -8% |
+| Goles más/menos: Menos de 2.5 | 48% | 50% | 49% | 1.91 | -7% |
 | Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
 | Goles del local: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
-| Goles del local: Más de 2.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles del local: Más de 2.5 | 32% | 31% | 31% | 3.00 | -6% |
 | Goles del local: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
-| Goles del local: Menos de 2.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles del local: Menos de 2.5 | 68% | 69% | 69% | 1.36 | -7% |
 | Goles del visitante: Más de 0.5 | 55% | 54% | 54% | 1.73 | -6% |
-| Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -9% |
+| Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -8% |
 | 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -9% |
 | 1X2 descanso: 1 | 46% | 46% | 46% | 2.00 | -8% |
 

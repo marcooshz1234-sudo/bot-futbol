@@ -1,7 +1,7 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -170,15 +170,15 @@ _Sin precedentes recientes._
 | Dominik Hollý | M | 2 | 26 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,90 · visitante 1,57 · córners esperados 9,3._
+_Goles esperados: local 0,91 · visitante 1,56 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 53% | 32% | 43% | 2.88 | +23% |
+| 1X2: 2 | 53% | 32% | 43% | 2.88 | +22% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 22% | 40% | 31% | 2.30 | -29% |
+| 1X2: 1 | 22% | 40% | 31% | 2.30 | -28% |
 | Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +9% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 47% | 67% | 57% | 1.40 | -20% |
@@ -186,24 +186,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -15% |
 | Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
+| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -1% |
 | Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 59% | 75% | 67% | 1.25 | -16% |
+| Goles del local: Más de 0.5 | 60% | 75% | 67% | 1.25 | -16% |
 | Goles del local: Más de 1.5 | 23% | 42% | 33% | 2.20 | -28% |
-| Goles del local: Menos de 0.5 | 41% | 25% | 33% | 3.75 | +23% |
+| Goles del local: Menos de 0.5 | 40% | 25% | 33% | 3.75 | +23% |
 | Goles del local: Menos de 1.5 | 77% | 58% | 67% | 1.62 | +9% |
 | Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
-| Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Goles del visitante: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
 | 1X2 descanso: 2 | 37% | 27% | 32% | 3.50 | +12% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
-| 1X2 descanso: 1 | 19% | 31% | 25% | 3.00 | -26% |
+| 1X2 descanso: 1 | 19% | 31% | 25% | 3.00 | -25% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

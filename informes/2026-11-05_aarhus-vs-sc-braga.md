@@ -1,7 +1,7 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -170,18 +170,18 @@ _Sin precedentes recientes._
 | Diego Rodrigues | M | 6 | 244 | 2 | 0 | 6 | 1,0 | 4 | 0,7 | 2 | 8 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 1,25 · córners esperados 9,3._
+_Goles esperados: local 0,66 · visitante 1,24 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 51% | 48% | 49% | 1.95 | -4% |
+| 1X2: 2 | 50% | 48% | 49% | 1.95 | -5% |
 | 1X2: X | 30% | 28% | 29% | 3.30 | -4% |
-| 1X2: 1 | 20% | 24% | 22% | 3.80 | -17% |
+| 1X2: 1 | 20% | 24% | 22% | 3.80 | -16% |
 | Doble oportunidad: X2 | 80% | 76% | 78% | 1.25 | -2% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 49% | 53% | 51% | 1.80 | -8% |
+| Doble oportunidad: 1X | 50% | 53% | 51% | 1.80 | -8% |
 | Ambos marcan: No | 66% | 46% | 56% | 2.00 | +12% |
 | Ambos marcan: Sí | 34% | 54% | 44% | 1.73 | -24% |
 | Goles más/menos: Más de 1.5 | 57% | 73% | 65% | 1.28 | -17% |
@@ -201,11 +201,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
 | Goles del visitante: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
 | Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +9% |
+| Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
 | Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
 | 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
 | 1X2 descanso: X | 51% | 42% | 47% | 2.20 | +3% |
-| 1X2 descanso: 1 | 15% | 22% | 19% | 4.33 | -20% |
+| 1X2 descanso: 1 | 16% | 22% | 19% | 4.33 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

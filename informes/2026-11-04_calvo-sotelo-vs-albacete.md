@@ -1,7 +1,7 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 04/11/2026 20:45 (hora España) · New Municipal Stadium Ciudad de Puertollano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:49_
@@ -46,53 +46,53 @@ _Actualizadas: 31/10 19:49_
 ## Estadísticas de equipo
 | | Calvo Sotelo (total) | Calvo Sotelo en casa | Albacete (total) | Albacete fuera |
 |---|---|---|---|---|
-| Partidos analizados | 0 | 0 | 11 | 6 |
-| Forma (últimos 5) |  |  | VDDDD | DDDED |
-| Balance | 0V 0E 0D | 0V 0E 0D | 1V 1E 9D | 0V 1E 5D |
-| Goles a favor / partido | – | – | 0,73 | 0,50 |
-| Goles en contra / partido | – | – | 2,00 | 2,33 |
-| Goles a favor 1ª parte | – | – | 0,36 | 0,00 |
-| Goles a favor 2ª parte | – | – | 0,36 | 0,50 |
-| Goles en contra 1ª parte | – | – | 1,00 | 1,33 |
+| Partidos analizados | 0 | 0 | 12 | 6 |
+| Forma (últimos 5) |  |  | VVDDD | DDDED |
+| Balance | 0V 0E 0D | 0V 0E 0D | 2V 1E 9D | 0V 1E 5D |
+| Goles a favor / partido | – | – | 0,83 | 0,50 |
+| Goles en contra / partido | – | – | 1,92 | 2,33 |
+| Goles a favor 1ª parte | – | – | 0,50 | 0,00 |
+| Goles a favor 2ª parte | – | – | 0,33 | 0,50 |
+| Goles en contra 1ª parte | – | – | 0,92 | 1,33 |
 | Goles en contra 2ª parte | – | – | 1,00 | 1,00 |
-| Más de 1,5 goles | – | – | 91% | 100% |
-| Más de 2,5 goles | – | – | 55% | 50% |
-| Más de 3,5 goles | – | – | 18% | 17% |
-| Ambos marcan | – | – | 55% | 50% |
-| Portería a cero | – | – | 9% | 0% |
-| Se queda sin marcar | – | – | 36% | 50% |
-| xG a favor | – | – | 1,25 | 0,98 |
+| Más de 1,5 goles | – | – | 92% | 100% |
+| Más de 2,5 goles | – | – | 58% | 50% |
+| Más de 3,5 goles | – | – | 17% | 17% |
+| Ambos marcan | – | – | 58% | 50% |
+| Portería a cero | – | – | 8% | 0% |
+| Se queda sin marcar | – | – | 33% | 50% |
+| xG a favor | – | – | 1,17 | 0,98 |
 | xG en contra | – | – | 1,73 | 2,06 |
-| Tiros / partido | – | – | 12,9 | 10,2 |
-| Tiros a puerta / partido | – | – | 3,8 | 3,3 |
-| Tiros recibidos | – | – | 13,5 | 16,2 |
-| Tiros a puerta recibidos | – | – | 4,7 | 4,8 |
+| Tiros / partido | – | – | 12,2 | 10,2 |
+| Tiros a puerta / partido | – | – | 3,7 | 3,3 |
+| Tiros recibidos | – | – | 14,5 | 16,2 |
+| Tiros a puerta recibidos | – | – | 4,8 | 4,8 |
 | Posesión media % | – | – | 46 | 42 |
-| Córners a favor | – | – | 5,6 | 4,8 |
-| Córners en contra | – | – | 4,1 | 4,5 |
-| Córners a favor 1ª parte | – | – | 2,7 | 2,3 |
-| Córners a favor 2ª parte | – | – | 2,9 | 2,5 |
-| Córners totales del partido | – | – | 9,7 | 9,3 |
-| Córners totales 1ª parte | – | – | 4,5 | 4,5 |
+| Córners a favor | – | – | 5,8 | 4,8 |
+| Córners en contra | – | – | 4,2 | 4,5 |
+| Córners a favor 1ª parte | – | – | 3,0 | 2,3 |
+| Córners a favor 2ª parte | – | – | 2,8 | 2,5 |
+| Córners totales del partido | – | – | 10,0 | 9,3 |
+| Córners totales 1ª parte | – | – | 4,8 | 4,5 |
 | Córners totales 2ª parte | – | – | 5,2 | 4,8 |
-| Más de 8,5 córners | – | – | 64% | 67% |
-| Más de 9,5 córners | – | – | 45% | 33% |
-| Más de 10,5 córners | – | – | 36% | 17% |
-| Faltas cometidas | – | – | 12,9 | 14,8 |
-| Faltas recibidas | – | – | 11,7 | 10,0 |
-| Amarillas propias | – | – | 2,5 | 2,5 |
-| Amarillas del rival | – | – | 2,1 | 1,3 |
-| Rojas / partido | – | – | 0,09 | 0,17 |
+| Más de 8,5 córners | – | – | 67% | 67% |
+| Más de 9,5 córners | – | – | 50% | 33% |
+| Más de 10,5 córners | – | – | 42% | 17% |
+| Faltas cometidas | – | – | 12,8 | 14,8 |
+| Faltas recibidas | – | – | 12,2 | 10,0 |
+| Amarillas propias | – | – | 2,3 | 2,5 |
+| Amarillas del rival | – | – | 2,2 | 1,3 |
+| Rojas / partido | – | – | 0,17 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Calvo Sotelo | Recibe Calvo Sotelo | Tarjetas Calvo Sotelo | Goles Albacete | Recibe Albacete | Tarjetas Albacete |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 0 | 0 | 2 | 3 | 0 |
+| 1-15' | 0 | 0 | 0 | 3 | 3 | 0 |
 | 16-30' | 0 | 0 | 0 | 1 | 3 | 5 |
-| 31-45' | 0 | 0 | 0 | 1 | 5 | 3 |
+| 31-45' | 0 | 0 | 0 | 2 | 5 | 4 |
 | 46-60' | 0 | 0 | 0 | 0 | 5 | 6 |
-| 61-75' | 0 | 0 | 0 | 0 | 3 | 7 |
-| 76-90' | 0 | 0 | 0 | 4 | 3 | 7 |
+| 61-75' | 0 | 0 | 0 | 0 | 3 | 8 |
+| 76-90' | 0 | 0 | 0 | 4 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -113,36 +113,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Albacete
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Segunda División | Albacete 2-1 Sabadell | casa | 7-6 | 5 (2) - 25 (5) | 1-3 |
 | 2026-10-25 | Segunda División | Albacete 2-0 Eldense | casa | 10-4 | 19 (4) - 10 (1) | 4-4 |
 | 2026-10-17 | Segunda División | Sporting Gijon 2-1 Albacete | fuera | 5-3 | 7 (2) - 11 (5) | 2-3 |
 | 2026-10-12 | Segunda División | Valladolid 5-0 Albacete | fuera | 5-7 | 10 (2) - 19 (7) | 4-2 |
 | 2026-10-03 | Segunda División | Albacete 1-3 Eibar | casa | 6-0 | 22 (6) - 8 (6) | 2-1 |
 | 2026-09-25 | Segunda División | Girona 2-0 Albacete | fuera | 5-3 | 20 (5) - 18 (3) | 5-0 |
-| 2026-09-18 | Segunda División | Albacete 1-2 Cordoba | casa | 4-3 | 13 (3) - 13 (5) | 1-6 |
 
 ## Jugadores de Albacete
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| José Corpas | M | 11 | 990 | 0 | 0 | 22 | 2,0 | 12 | 1,1 | 13 | 17 | 1,5 | 2 | 0 |
-| Lluís López | D | 11 | 975 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 2 | 0,2 | 2 | 0 |
-| Carlos Neva | D | 11 | 970 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 2 | 11 | 1,0 | 0 | 0 |
-| Sergio Ortu | M | 10 | 740 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 13 | 3 | 0,3 | 4 | 1 |
+| Lluís López | D | 12 | 1065 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 2 | 0 |
+| Carlos Neva | D | 12 | 1060 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 2 | 15 | 1,2 | 0 | 0 |
+| José Corpas | F | 12 | 1032 | 0 | 0 | 23 | 1,9 | 12 | 1,0 | 14 | 18 | 1,5 | 2 | 1 |
+| Sergio Ortu | M | 11 | 830 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 14 | 3 | 0,3 | 4 | 1 |
+| Diego Mariño | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
+| Antonio Pacheco | M | 11 | 703 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 9 | 0,8 | 2 | 0 |
 | Mario Soberón | F | 11 | 658 | 0 | 1 | 14 | 1,3 | 5 | 0,5 | 11 | 11 | 1,0 | 1 | 0 |
-| Diego Mariño | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
-| Antonio Pacheco | M | 10 | 613 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 7 | 0,7 | 2 | 0 |
 | Fran Gámez | D | 9 | 599 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 6 | 5 | 0,6 | 2 | 0 |
-| Alex Rubio | F | 9 | 466 | 1 | 0 | 10 | 1,1 | 4 | 0,4 | 15 | 4 | 0,4 | 2 | 0 |
-| Agus Medina | M | 9 | 444 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 9 | 2 | 0,2 | 2 | 0 |
-| Vallejo | D | 6 | 431 | 1 | 0 | 3 | 0,5 | 1 | 0,2 | 4 | 3 | 0,5 | 1 | 0 |
-| San Bartolomé | M | 6 | 400 | 2 | 0 | 6 | 1,0 | 3 | 0,5 | 14 | 4 | 0,7 | 1 | 0 |
-| Víctor Valverde | M | 5 | 370 | 0 | 2 | 11 | 2,2 | 3 | 0,6 | 4 | 6 | 1,2 | 1 | 0 |
+| Vallejo | D | 7 | 521 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 3 | 0,4 | 1 | 0 |
+| Alex Rubio | F | 10 | 491 | 1 | 0 | 11 | 1,1 | 5 | 0,5 | 16 | 4 | 0,4 | 3 | 0 |
+| Agus Medina | M | 10 | 470 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 9 | 2 | 0,2 | 2 | 0 |
+| San Bartolomé | M | 7 | 454 | 2 | 0 | 6 | 0,9 | 3 | 0,4 | 14 | 5 | 0,7 | 1 | 0 |
+| Víctor Valverde | M | 6 | 424 | 0 | 2 | 11 | 1,8 | 3 | 0,5 | 4 | 6 | 1,0 | 1 | 0 |
+| Lorenzo Aguado | M | 7 | 413 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 8 | 14 | 2,0 | 1 | 0 |
 | Carlos Marín | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Lorenzo Aguado | D | 6 | 349 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 8 | 11 | 1,8 | 1 | 0 |
 | Agustín Albarracín | F | 7 | 314 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 8 | 1 | 0,1 | 1 | 0 |
-| Javi Villar | M | 7 | 265 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 0,6 | 2 | 0 |
+| Javi Villar | M | 8 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,5 | 2 | 0 |
+| D. Bernabeu | D | 9 | 271 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 10 | 1,1 | 0 | 0 |
+| Higinio Marín | F | 8 | 270 | 2 | 0 | 9 | 1,1 | 3 | 0,4 | 5 | 10 | 1,2 | 2 | 0 |
 | Javier Moreno | D | 3 | 245 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
-| Pepe Sánchez | D | 3 | 239 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
-| D. Bernabeu | D | 8 | 235 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
 _No hay suficientes partidos de alguno de los dos equipos para calcularlas._

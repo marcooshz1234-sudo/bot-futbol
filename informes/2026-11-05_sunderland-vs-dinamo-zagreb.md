@@ -1,7 +1,7 @@
 # Sunderland – Dinamo Zagreb
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -177,41 +177,41 @@ _Sin precedentes recientes._
 | Iker Almena | M | 3 | 133 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,94 · visitante 1,16 · córners esperados 9,8._
+_Goles esperados: local 1,97 · visitante 1,16 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 15% | 19% | 6.25 | +17% |
-| 1X2: X | 22% | 20% | 21% | 4.50 | -4% |
-| 1X2: 1 | 55% | 65% | 60% | 1.42 | -15% |
-| Doble oportunidad: X2 | 45% | 35% | 40% | 2.75 | +9% |
+| 1X2: 2 | 22% | 15% | 18% | 6.25 | +15% |
+| 1X2: X | 22% | 20% | 21% | 4.50 | -5% |
+| 1X2: 1 | 56% | 65% | 60% | 1.42 | -14% |
+| Doble oportunidad: X2 | 44% | 35% | 39% | 2.75 | +8% |
 | Doble oportunidad: 12 | 78% | 81% | 79% | 1.18 | -6% |
-| Doble oportunidad: 1X | 77% | 85% | 81% | 1.12 | -9% |
-| Ambos marcan: No | 41% | 48% | 45% | 1.95 | -13% |
-| Ambos marcan: Sí | 59% | 52% | 55% | 1.80 | -0% |
-| Goles más/menos: Más de 1.5 | 82% | 79% | 80% | 1.20 | -4% |
-| Goles más/menos: Más de 2.5 | 60% | 59% | 59% | 1.62 | -4% |
-| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles más/menos: Menos de 1.5 | 18% | 21% | 20% | 4.50 | -11% |
-| Goles más/menos: Menos de 2.5 | 40% | 41% | 41% | 2.30 | -6% |
+| Doble oportunidad: 1X | 78% | 85% | 81% | 1.12 | -9% |
+| Ambos marcan: No | 41% | 48% | 44% | 1.95 | -13% |
+| Ambos marcan: Sí | 59% | 52% | 56% | 1.80 | +0% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 80% | 1.20 | -3% |
+| Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.62 | -3% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -7% |
 | Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
-| Goles del local: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles del local: Más de 2.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles del local: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del local: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Más de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
+| Goles del local: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del local: Menos de 1.5 | 41% | 35% | 38% | 2.62 | +1% |
+| Goles del local: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -2% |
 | Goles del visitante: Más de 0.5 | 69% | 59% | 64% | 1.57 | +0% |
 | Goles del visitante: Más de 1.5 | 32% | 25% | 29% | 3.75 | +8% |
 | Goles del visitante: Menos de 0.5 | 31% | 41% | 36% | 2.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 68% | 75% | 71% | 1.25 | -11% |
 | 1X2 descanso: X | 38% | 36% | 37% | 2.60 | -4% |
-| 1X2 descanso: 1 | 41% | 49% | 45% | 1.91 | -14% |
+| 1X2 descanso: 1 | 42% | 49% | 45% | 1.91 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

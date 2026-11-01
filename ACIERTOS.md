@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 247 · aciertos: 152 (62%) · beneficio a 1 € por pick: -35.51 €
+Picks ya jugados: 277 · aciertos: 168 (61%) · beneficio a 1 € por pick: -42.64 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 47 | 67 | 70% | -2.54 € |
-| resultado | 32 | 47 | 68% | -2.55 € |
-| goles | 66 | 111 | 59% | -20.00 € |
-| tarjetas | 4 | 8 | 50% | -1.57 € |
-| tiros | 2 | 7 | 29% | -3.47 € |
-| corners | 1 | 5 | 20% | -3.38 € |
+| jugador | 52 | 77 | 68% | -5.54 € |
+| resultado | 35 | 53 | 66% | -4.32 € |
+| goles | 72 | 121 | 60% | -21.53 € |
+| tarjetas | 5 | 9 | 56% | -1.13 € |
+| tiros | 3 | 8 | 38% | -2.74 € |
+| corners | 1 | 7 | 14% | -5.38 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
@@ -21,27 +21,29 @@ Picks ya jugados: 247 · aciertos: 152 (62%) · beneficio a 1 € por pick: -35.
 |---|---|---|---|
 | To Win Either Half · Home | 3 | 3 | 100% |
 | Total - Home · Over 0.5 | 6 | 7 | 86% |
-| Double Chance · Home/Away | 15 | 21 | 71% |
-| Goals Over/Under · Over 1.5 | 11 | 16 | 69% |
-| Double Chance · Home/Draw | 2 | 3 | 67% |
+| Double Chance · Home/Draw | 3 | 4 | 75% |
+| Match Winner · Away | 3 | 4 | 75% |
+| Goals Over/Under · Over 1.5 | 12 | 17 | 71% |
+| Double Chance · Home/Away | 15 | 22 | 68% |
 | Match Winner · Home | 2 | 3 | 67% |
-| Match Winner · Away | 2 | 3 | 67% |
-| Double Chance · Draw/Away | 7 | 11 | 64% |
-| Goals Over/Under First Half · Over 0.5 | 17 | 27 | 63% |
-| Total - Away · Over 0.5 | 12 | 22 | 55% |
-| Goals Over/Under · Over 2.5 | 6 | 11 | 55% |
-| Both Teams Score · Yes | 5 | 10 | 50% |
+| Goals Over/Under First Half · Over 0.5 | 18 | 28 | 64% |
+| Goals Over/Under · Over 2.5 | 7 | 12 | 58% |
+| Total - Away · Over 0.5 | 15 | 27 | 56% |
+| Double Chance · Draw/Away | 7 | 13 | 54% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 2 | 4 | 50% |
+| To Win Either Half · Away | 2 | 4 | 50% |
 | Home Team Total Cards · Over 1.5 | 2 | 4 | 50% |
+| Both Teams Score · Yes | 5 | 12 | 42% |
 | Shots.1x2 · Away | 1 | 3 | 33% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Goals Over/Under - Second Half · Over 0.5 | 2 | 6 | 33% |
-| To Win Either Half · Away | 1 | 3 | 33% |
+| Total Shots · Over 26.5 | 1 | 3 | 33% |
+| Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
 
-### 2026-10-31 · 53/85
+### 2026-10-31 · 69/115
 - ❌ Manchester United marca · 1.36 (2-0)
 - ✅ Stoke City gana alguna de las dos partes · 1.44 (2-0)
 - ✅ Gol en la 1ª parte del Norwich–Watford · 1.25 (3-2)
@@ -127,6 +129,36 @@ Picks ya jugados: 247 · aciertos: 152 (62%) · beneficio a 1 € por pick: -35.
 - ❌ Gol en la 1ª parte del Moreirense–Estrela · 1.40 (2-1)
 - ❌ Rennes o empate · 1.44 (5-2)
 - ✅ Elye Wahi: 1+ tiros a puerta · 1.40 (5-2)
+- ✅ Gana el AS Roma · 1.57 (2-5)
+- ✅ Más de 26,5 tiros en Udinese–AS Roma · 1.73 (2-5)
+- ✅ AS Roma gana alguna de las dos partes · 1.30 (2-5)
+- ❌ Malaga hace más de 3,5 córners · 1.80 (2-1)
+- ❌ Más de 9,5 córners en Bayern München–Borussia Dortmund · 1.73 (2-2)
+- ✅ Dayot Upamecano: 1+ tiros · 1.62 (2-2)
+- ✅ Borussia Dortmund marca · 1.36 (2-2)
+- ✅ Felix Nmecha comete 1+ faltas · 1.25 (2-2)
+- ❌ Anan Khalaili comete 1+ faltas · 1.28 (2-0)
+- ✅ Omar Marmoush comete 1+ faltas · 1.30 (2-0)
+- ❌ Jan Paul van Hecke comete 1+ faltas · 1.44 (2-0)
+- ❌ Michael Olise: 2+ tiros a puerta · 1.57 (2-2)
+- ❌ Abdessamad Ezzalzouli: 1+ tiros a puerta · 1.25 (2-1)
+- ✅ Heerenveen o empate · 1.36 (1-0)
+- ❌ Willem II marca · 1.67 (7-0)
+- ❌ Ambos marcan en PSV Eindhoven–Willem II · 1.70 (7-0)
+- ✅ Más de 1,5 goles en Estac Troyes–Le Mans · 1.25 (2-0)
+- ❌ Le Mans marca · 1.33 (2-0)
+- ✅ Gol en la 1ª parte del Estac Troyes–Le Mans · 1.33 (2-0)
+- ✅ Nicolo Barella: 1+ tiros · 1.33 (3-1)
+- ✅ Alaves marca · 1.73 (6-1)
+- ❌ No hay empate en Aston Villa–Fulham · 1.30 (1-1)
+- ❌ GO Ahead Eagles o empate · 1.40 (4-0)
+- ❌ Ambos marcan en Cambuur–GO Ahead Eagles · 1.40 (4-0)
+- ✅ Más de 2,5 goles en Cambuur–GO Ahead Eagles · 1.44 (4-0)
+- ✅ Rafik El Arguioui: 1+ tiros a puerta · 1.50 (4-0)
+- ✅ Fulham marca · 1.36 (1-1)
+- ❌ Sabadell o empate · 1.57 (2-1)
+- ❌ Lucas Boye comete 2+ faltas · 1.36 (6-1)
+- ✅ Barcelona ve más de 0,5 tarjetas · 1.44 (6-1)
 
 ### 2026-10-30 · 11/18
 - ✅ Amir Richardson: 1+ tiros · 1.50 (1-5)

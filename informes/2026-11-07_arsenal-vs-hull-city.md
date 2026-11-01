@@ -1,10 +1,10 @@
 # Arsenal – Hull City
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 30/10 19:52_
+_Actualizadas: 01/11 02:14_
 
 - **1X2:** 1 **1.17**  ·  X **7.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.00**
@@ -180,19 +180,19 @@ _Sin bajas comunicadas por ahora._
 | Cody Drameh | D | 3 | 155 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,83 · visitante 0,50 · córners esperados 9,7._
+_Goles esperados: local 1,83 · visitante 0,49 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 6% | 8% | 15.00 | +17% |
+| 1X2: 2 | 9% | 6% | 8% | 15.00 | +16% |
 | 1X2: X | 21% | 13% | 17% | 7.00 | +20% |
 | 1X2: 1 | 70% | 80% | 75% | 1.17 | -12% |
-| Doble oportunidad: X2 | 30% | 19% | 25% | 5.00 | +24% |
+| Doble oportunidad: X2 | 30% | 19% | 25% | 5.00 | +23% |
 | Doble oportunidad: 12 | 79% | 87% | 83% | 1.10 | -8% |
 | Doble oportunidad: 1X | 91% | 93% | 92% | 1.03 | -5% |
 | Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
 | Ambos marcan: Sí | 33% | 42% | 38% | 2.20 | -17% |
-| Goles más/menos: Más de 2.5 | 41% | 64% | 52% | 1.50 | -21% |
+| Goles más/menos: Más de 2.5 | 41% | 64% | 52% | 1.50 | -22% |
 | Goles más/menos: Más de 3.5 | 21% | 41% | 31% | 2.30 | -29% |
 | Goles más/menos: Más de 4.5 | 9% | 24% | 16% | 4.00 | -35% |
 | Goles más/menos: Menos de 2.5 ✅ | 59% | 36% | 48% | 2.62 | +25% |
@@ -208,9 +208,9 @@ _Goles esperados: local 1,83 · visitante 0,50 · córners esperados 9,7._
 | Goles del local: Menos de 1.5 ✅ | 45% | 27% | 36% | 3.50 | +26% |
 | Goles del local: Menos de 2.5 | 72% | 50% | 61% | 1.83 | +12% |
 | Goles del local: Menos de 3.5 | 89% | 71% | 80% | 1.33 | +6% |
-| Goles del visitante: Más de 0.5 | 39% | 44% | 42% | 2.10 | -12% |
-| Goles del visitante: Menos de 0.5 | 61% | 56% | 58% | 1.67 | -3% |
-| 1X2 descanso: X | 43% | 32% | 38% | 2.88 | +8% |
-| 1X2 descanso: 1 | 47% | 60% | 54% | 1.53 | -18% |
+| Goles del visitante: Más de 0.5 | 39% | 44% | 42% | 2.10 | -13% |
+| Goles del visitante: Menos de 0.5 | 61% | 56% | 58% | 1.67 | -2% |
+| 1X2 descanso: X | 43% | 32% | 37% | 2.88 | +8% |
+| 1X2 descanso: 1 | 48% | 60% | 54% | 1.53 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # FC Andorra – Mallorca
 **Segunda División** · Regular Season - 13 · 08/11/2026 14:00 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Arnau Puigmal | M | 5 | 162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 1,12 · córners esperados 9,9._
+_Goles esperados: local 1,36 · visitante 1,11 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Monza – Atalanta
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | R. ObriÄ | D | 4 | 340 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 1,46 · córners esperados 9,5._
+_Goles esperados: local 1,73 · visitante 1,45 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

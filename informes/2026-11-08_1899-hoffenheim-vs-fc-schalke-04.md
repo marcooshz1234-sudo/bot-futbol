@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Schalke 04
 **Bundesliga** · Regular Season - 9 · 08/11/2026 19:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:51_
@@ -184,23 +184,23 @@ _Sin bajas comunicadas por ahora._
 | Adrian Gantenbein | M | 2 | 139 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 0,95 · córners esperados 10,2._
+_Goles esperados: local 1,74 · visitante 0,95 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 20% | 20% | 4.75 | -6% |
-| 1X2: X | 23% | 23% | 23% | 4.10 | -5% |
+| 1X2: 2 | 20% | 20% | 20% | 4.75 | -5% |
+| 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
 | 1X2: 1 | 56% | 58% | 57% | 1.62 | -8% |
-| Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -4% |
-| Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
+| Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -3% |
+| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 80% | 80% | 80% | 1.18 | -6% |
-| Ambos marcan: No | 49% | 39% | 44% | 2.38 | +5% |
-| Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -15% |
-| Goles más/menos: Más de 2.5 | 51% | 64% | 57% | 1.50 | -14% |
-| Goles más/menos: Más de 3.5 | 29% | 45% | 37% | 2.10 | -22% |
+| Ambos marcan: No | 50% | 39% | 44% | 2.38 | +5% |
+| Ambos marcan: Sí | 50% | 61% | 56% | 1.53 | -15% |
+| Goles más/menos: Más de 2.5 | 50% | 64% | 57% | 1.50 | -15% |
+| Goles más/menos: Más de 3.5 | 28% | 45% | 37% | 2.10 | -23% |
 | Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -27% |
-| Goles más/menos: Menos de 2.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
-| Goles más/menos: Menos de 3.5 | 71% | 55% | 63% | 1.73 | +9% |
+| Goles más/menos: Menos de 2.5 ✅ | 50% | 36% | 43% | 2.62 | +13% |
+| Goles más/menos: Menos de 3.5 | 72% | 55% | 63% | 1.73 | +9% |
 | Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.28 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 38% | 2.10 | -19% |
@@ -209,14 +209,14 @@ _Goles esperados: local 1,76 · visitante 0,95 · córners esperados 10,2._
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 62% | 1.67 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -1% |
 | Goles del local: Más de 1.5 | 52% | 62% | 57% | 1.50 | -14% |
-| Goles del local: Más de 2.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles del local: Menos de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +6% |
-| Goles del local: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +3% |
+| Goles del local: Más de 2.5 | 25% | 38% | 31% | 2.50 | -21% |
+| Goles del local: Menos de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +7% |
+| Goles del local: Menos de 2.5 | 75% | 62% | 69% | 1.50 | +3% |
 | Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
 | Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
 | Goles del visitante: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +5% |
 | Goles del visitante: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
-| 1X2 descanso: X | 41% | 36% | 39% | 2.60 | +1% |
+| 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +1% |
 | 1X2 descanso: 1 | 40% | 44% | 42% | 2.10 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

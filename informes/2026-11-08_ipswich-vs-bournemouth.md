@@ -1,7 +1,7 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 19:50_
@@ -179,14 +179,14 @@ _Sin bajas comunicadas por ahora._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
+_Goles esperados: local 1,12 · visitante 2,46 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 67% | 49% | 58% | 1.90 | +10% |
 | 1X2: X | 18% | 26% | 22% | 3.50 | -23% |
-| 1X2: 1 | 15% | 25% | 20% | 3.75 | -25% |
-| Doble oportunidad: X2 | 85% | 76% | 80% | 1.25 | +0% |
+| 1X2: 1 | 16% | 25% | 20% | 3.75 | -25% |
+| Doble oportunidad: X2 | 84% | 76% | 80% | 1.25 | +0% |
 | Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | +0% |
 | Doble oportunidad: 1X | 33% | 50% | 41% | 1.91 | -21% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -11% |
@@ -207,7 +207,7 @@ _Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 | Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles del visitante: Más de 1.5 | 71% | 51% | 61% | 1.80 | +10% |
 | Goles del visitante: Más de 2.5 ✅ | 45% | 27% | 36% | 3.50 | +25% |
-| Goles del visitante: Menos de 1.5 | 29% | 49% | 39% | 1.91 | -26% |
+| Goles del visitante: Menos de 1.5 | 29% | 49% | 39% | 1.91 | -25% |
 | Goles del visitante: Menos de 2.5 | 55% | 73% | 64% | 1.28 | -18% |
 | 1X2 descanso: 2 | 50% | 37% | 44% | 2.50 | +9% |
 | 1X2 descanso: X | 34% | 39% | 36% | 2.38 | -13% |

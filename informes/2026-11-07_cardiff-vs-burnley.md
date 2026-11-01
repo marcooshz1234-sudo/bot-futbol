@@ -1,7 +1,7 @@
 # Cardiff – Burnley
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Hannibal Mejbri | M | 7 | 358 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,1 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,00 · visitante 1,40 · córners esperados 9,9._
+_Goles esperados: local 2,01 · visitante 1,39 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

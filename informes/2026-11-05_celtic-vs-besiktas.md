@@ -1,7 +1,7 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -176,43 +176,43 @@ _Sin precedentes recientes._
 | E. Poku | F | 1 | 20 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,60 · visitante 2,31 · córners esperados 9,6._
+_Goles esperados: local 0,61 · visitante 2,29 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 76% | 41% | 59% | 2.25 | +32% |
-| 1X2: X | 16% | 26% | 21% | 3.60 | -25% |
-| 1X2: 1 | 8% | 33% | 21% | 2.80 | -43% |
+| 1X2: 2 | 75% | 41% | 58% | 2.25 | +31% |
+| 1X2: X | 16% | 26% | 21% | 3.60 | -24% |
+| 1X2: 1 | 8% | 33% | 21% | 2.80 | -42% |
 | Doble oportunidad: X2 | 92% | 68% | 80% | 1.40 | +12% |
 | Doble oportunidad: 12 | 84% | 74% | 79% | 1.28 | +1% |
-| Doble oportunidad: 1X | 24% | 58% | 41% | 1.62 | -33% |
+| Doble oportunidad: 1X | 25% | 58% | 41% | 1.62 | -33% |
 | Ambos marcan: No | 59% | 39% | 49% | 2.38 | +17% |
 | Ambos marcan: Sí | 41% | 61% | 51% | 1.53 | -22% |
-| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -7% |
-| Goles más/menos: Más de 3.5 | 33% | 38% | 36% | 2.50 | -11% |
-| Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -1% |
-| Goles más/menos: Menos de 3.5 | 67% | 62% | 64% | 1.53 | -1% |
+| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -6% |
+| Goles más/menos: Más de 2.5 | 55% | 59% | 57% | 1.62 | -8% |
+| Goles más/menos: Más de 3.5 | 33% | 38% | 35% | 2.50 | -11% |
+| Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -15% |
+| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -4% |
+| Goles más/menos: Menos de 2.5 | 45% | 41% | 43% | 2.30 | -1% |
+| Goles más/menos: Menos de 3.5 | 67% | 62% | 65% | 1.53 | -1% |
 | Goles más/menos: Menos de 4.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 38% | 2.38 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 62% | 1.53 | -4% |
-| Goles del local: Más de 0.5 | 45% | 75% | 60% | 1.25 | -25% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
+| Goles del local: Más de 0.5 | 46% | 75% | 60% | 1.25 | -25% |
 | Goles del local: Más de 1.5 | 12% | 42% | 27% | 2.20 | -40% |
-| Goles del local: Menos de 0.5 | 55% | 25% | 40% | 3.75 | +50% |
+| Goles del local: Menos de 0.5 | 54% | 25% | 40% | 3.75 | +49% |
 | Goles del local: Menos de 1.5 | 88% | 58% | 73% | 1.62 | +18% |
 | Goles del visitante: Más de 0.5 | 90% | 79% | 85% | 1.18 | -0% |
 | Goles del visitante: Más de 1.5 | 67% | 49% | 58% | 1.91 | +10% |
-| Goles del visitante: Más de 2.5 | 41% | 23% | 32% | 4.00 | +28% |
-| Goles del visitante: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -31% |
+| Goles del visitante: Más de 2.5 | 40% | 23% | 32% | 4.00 | +27% |
+| Goles del visitante: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -30% |
 | Goles del visitante: Menos de 1.5 | 33% | 51% | 42% | 1.80 | -24% |
-| Goles del visitante: Menos de 2.5 | 59% | 77% | 68% | 1.22 | -17% |
-| 1X2 descanso: 2 | 54% | 32% | 43% | 2.88 | +25% |
+| Goles del visitante: Menos de 2.5 | 60% | 77% | 68% | 1.22 | -17% |
+| 1X2 descanso: 2 | 54% | 32% | 43% | 2.88 | +24% |
 | 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -10% |
 | 1X2 descanso: 1 | 10% | 29% | 19% | 3.25 | -38% |
 

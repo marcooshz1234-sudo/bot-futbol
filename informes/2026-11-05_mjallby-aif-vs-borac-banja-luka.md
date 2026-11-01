@@ -1,7 +1,7 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 31/10 19:51._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 31/10 13:55_
@@ -171,7 +171,7 @@ _Sin precedentes recientes._
 | Stojan Vranješ | M | 2 | 4 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,19 · córners esperados 9,5._
+_Goles esperados: local 1,02 · visitante 1,18 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -191,15 +191,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 35% | 23% | 29% | 4.00 | +18% |
 | Goles más/menos: Menos de 2.5 | 62% | 46% | 54% | 2.05 | +11% |
 | Goles más/menos: Menos de 3.5 | 82% | 66% | 74% | 1.40 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 38% | 31% | 2.50 | -22% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 29% | 34% | 3.25 | +10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 29% | 34% | 3.25 | +10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 62% | 69% | 1.50 | +3% |
 | Goles del local: Más de 0.5 | 64% | 78% | 71% | 1.20 | -15% |
 | Goles del local: Más de 1.5 | 27% | 46% | 37% | 2.00 | -27% |
 | Goles del local: Más de 2.5 | 8% | 23% | 16% | 4.00 | -37% |
-| Goles del local: Menos de 0.5 | 36% | 22% | 29% | 4.33 | +26% |
-| Goles del local: Menos de 1.5 | 73% | 54% | 63% | 1.73 | +10% |
+| Goles del local: Menos de 0.5 | 36% | 22% | 29% | 4.33 | +25% |
+| Goles del local: Menos de 1.5 | 73% | 54% | 63% | 1.73 | +9% |
 | Goles del local: Menos de 2.5 | 92% | 77% | 84% | 1.22 | +3% |
 | Goles del visitante: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
 | Goles del visitante: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
