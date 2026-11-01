@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 12:00",
+ "actualizado": "2026-11-01 12:10",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1403,
-   "hoy": 28,
+   "seguidores": 1405,
+   "hoy": 30,
    "serie": [
     938,
     983,
@@ -24,7 +24,7 @@
     1281,
     1354,
     1375,
-    1403
+    1405
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 194,
-   "hoy": 18,
+   "seguidores": 195,
+   "hoy": 19,
    "serie": [
     69,
     80,
@@ -50,17 +50,17 @@
     126,
     165,
     176,
-    194
+    195
    ]
   }
  },
- "total": 1618,
- "total_hoy": 46,
+ "total": 1621,
+ "total_hoy": 49,
  "likes_hoy": 0,
  "proximo": {
   "hora": "13:30",
   "dia": "2026-11-01",
-  "titulo": "Combi del domingo x2,83"
+  "titulo": "Combi del domingo x2,89"
  },
  "ayer": {
   "aciertos": 69,
@@ -126,9 +126,9 @@
   },
   "2026-11-01": {
    "instagram": 21,
-   "threads": 1403,
+   "threads": 1405,
    "facebook": 0,
-   "telegram": 194
+   "telegram": 195
   }
  },
  "tipos_instagram": {
