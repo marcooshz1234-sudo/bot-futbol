@@ -33,7 +33,7 @@ NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (5, 5), "cuota": (5.0, 7.0), "has
 PROB_MIN_RELAJADA = 0.35   # 29/10 (Marcos): cuota 7-10 siempre; si no sale, patas desde el 35 %
 FACTOR_MIN = 0.33   # 30/10: Elversberg–Mainz multiplicaba 15,63 y bet365 pagaba 6,00 (0,38): con 0,45 no podía bajar de 7
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
-LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0)}
+LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0), "por_partido": 2, "min_jugadores": 2}   # 01/11 (Marcos): lo mejor de cada partido, 1 o 2 cosas
 PROB_MIN_MULTI = 0.60
 RESULTADO = ("Match Winner", "Double Chance", "To Win Either Half", "First Half Winner", "Win Both Halves")
 
@@ -125,9 +125,16 @@ def pool_partido(ex, hist, ap):
                     continue
                 a, na = P.frecuencia(fl, h_loc)
                 b, nb = P.frecuencia(fv, h_vis)
-                if na < P.MIN_PARTIDOS or nb < P.MIN_PARTIDOS or min(a / na, b / nb) < 0.4:
+                arb = tarjetas_arbitro(pa, m, o)
+                if na < P.MIN_PARTIDOS or nb < P.MIN_PARTIDOS or (min(a / na, b / nb) < 0.4 and not (arb and arb[0] / arb[1] >= ARBITRO["duro"])):
                     continue
                 frec, det = (a + b) / (na + nb), f"{loc['name']} {a}/{na} · {vis['name']} {b}/{nb}"
+                if arb:   # 01/11 (Marcos): las tarjetas también según el árbitro (partido caliente o no)
+                    r, nr = arb
+                    if r / nr <= ARBITRO["blando"]:
+                        continue
+                    frec = (a + b + ARBITRO["peso"] * r) / (na + nb + ARBITRO["peso"] * nr)
+                    det += f" · árbitro {r}/{nr}"
             else:   # copa contra uno de abajo: solo lo de nuestro equipo
                 if P.lado_pick({"mercado": m, "opcion": o}) != ("local" if lok else "visitante"):
                     continue
@@ -150,7 +157,8 @@ def pool_partido(ex, hist, ap):
         if p.get("campo") == "amarillas":
             continue
         # 27/10 (Marcos): falta de jugador solo si la hace SIEMPRE (9 de 10 o más) y solo 1+
-        if p.get("campo") == "faltas_c" and (p.get("n", 1) > 1 or p["frecuencia"] < 0.9):
+        # 01/11 (Marcos): ahora desde 5 de 6 (De Bruyne, Mamadou Sarr) si es titular fijo
+        if p.get("campo") == "faltas_c" and (p.get("n", 1) > 1 or p["frecuencia"] < FALTAS_MIN):
             continue
         if p["cuota"] >= CUOTA_MIN_PATA and ((lok and vok) or p.get("equipo") == (loc["name"] if lok else vis["name"])):
             pool.append(p)
@@ -194,6 +202,29 @@ def pool_partido(ex, hist, ap):
         if k not in mejor or p["prob_aprendida"] > mejor[k]["prob_aprendida"]:
             mejor[k] = p
     return sorted(mejor.values(), key=lambda p: -p["prob_aprendida"])
+
+
+FALTAS_MIN = 0.80            # 01/11 (antes 0,90)
+# 01/11 (Marcos: «va a ser un partido caliente»): tarjetas del partido con el árbitro. Con 4+ partidos suyos guardados,
+# cuenta triple (cada partido suyo vale como 3 de los equipos); si casi nunca llega a la línea (≤ 30 %), fuera; si llega
+# casi siempre (≥ 70 %), vale aunque uno de los equipos vea pocas.
+ARBITRO = {"min": 4, "ultimos": 10, "peso": 3.0, "blando": 0.30, "duro": 0.70}
+_ARBITROS = None
+
+
+def tarjetas_arbitro(pa, mercado, opcion):
+    """(veces que llegó a la línea, partidos) del árbitro en «Cards Over/Under», o None."""
+    global _ARBITROS
+    import picks as P
+    if mercado != "Cards Over/Under" or not str(opcion).startswith("Over"):
+        return None
+    if _ARBITROS is None:
+        _ARBITROS = P.indice_arbitros()
+    t = _ARBITROS.get(P.nombre_arbitro(pa["fixture"].get("referee")) or "", [])[-ARBITRO["ultimos"]:]
+    if len(t) < ARBITRO["min"]:
+        return None
+    linea = float(str(opcion).split()[-1])
+    return sum(x > linea for x in t), len(t)
 
 
 FAVORITO_CLARO = 0.60        # 01/11: favorito claro de bet365 (lecciones de octubre)
@@ -451,10 +482,12 @@ def combi_partido(pool, cfg):
             or mejor_combi(pool, (max(2, cfg["patas"][0] - 1),) * 2, cfg["cuota"], PROB_MIN_RELAJADA))
 
 
-def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
-    """La combinación que más devuelve a la larga (prob × cuota) dentro de los límites."""
+def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False, por_partido=1, min_jugadores=0):
+    """La combinación que más devuelve a la larga (prob × cuota) dentro de los límites.
+    Multi (una_por_partido): hasta `por_partido` cosas de cada partido, distintas y que cuadren entre sí."""
+    from collections import Counter, defaultdict
     best = None
-    cand = [p for p in pool if p["prob_aprendida"] >= prob_min][:18]
+    cand = [p for p in pool if p["prob_aprendida"] >= prob_min][:18 if not una_por_partido else 22]
     # 27/10 (Marcos): los tiros de jugadores le gustan más que los goles: si el partido tiene, la combi lleva
     # al menos 2 (o el único que haya)
     tiros_j = [p for p in pool if familia(p) in ("jugador-tiros", "jugador-a_puerta") and p["prob_aprendida"] >= 0.5]
@@ -465,12 +498,22 @@ def mejor_combi(pool, patas, cuota, prob_min=0.0, una_por_partido=False):
             c = math.prod(p["cuota"] for p in comb)
             if not una_por_partido:   # 27/10: «Crear apuesta» de bet365 no multiplica (patas del mismo partido)
                 c *= factor_crear(comb)
+            else:
+                grupos = defaultdict(list)
+                for p in comb:
+                    grupos[p["partido_id"]].append(p)
+                if max(len(g) for g in grupos.values()) > por_partido:
+                    continue
+                if any(len(g) > 1 and not (coherente(g) and len({familia(p) for p in g}) == len(g)) for g in grupos.values()):
+                    continue
+                for g in grupos.values():   # 2 del mismo partido: bet365 las junta en «Crear apuesta»
+                    if len(g) > 1:
+                        c *= factor_crear(g)
+                if sum(1 for p in comb if p.get("tipo") == "jugador") < min(min_jugadores, n):
+                    continue
             if not cuota[0] <= c <= cuota[1]:
                 continue
-            if una_por_partido and len({p["partido_id"] for p in comb}) < n:
-                continue
             if una_por_partido:
-                from collections import Counter
                 if max(Counter(familia(p) for p in comb).values()) > 2:   # no 3 patas del mismo tipo
                     continue
             if not una_por_partido and not (coherente(comb) and variada(comb)):
@@ -633,9 +676,10 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2
                   and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
             if ok:
-                mejores.append(ok[0])
+                mejores += ok[:cfg.get("por_partido", 1) + 1]   # 01/11: en la loca, las 3 mejores de cada partido
         mejores.sort(key=lambda p: -p["prob_aprendida"])
-        r = mejor_combi(mejores, cfg["patas"], cfg["cuota"], una_por_partido=True)
+        r = mejor_combi(mejores, cfg["patas"], cfg["cuota"], una_por_partido=True,
+                        por_partido=cfg.get("por_partido", 1), min_jugadores=cfg.get("min_jugadores", 0))
         res[clave] = (r[1], r[2], hora) if r else None
         if r:
             usos.update(sel(p) for p in r[1])
