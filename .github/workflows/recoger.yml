@@ -47,6 +47,8 @@ jobs:
           python -u imagenes.py publicaciones/auto.json --pendientes || echo "imagenes.py falló (no bloquea)"
       - name: Quitar imágenes de posts viejos (01/11)
         run: python -u limpiar_media.py || echo "limpiar_media falló (no bloquea)"
+      - name: Informe de rendimiento del mes (01/11, va a Obsidian)
+        run: python -u rendimiento.py || echo "rendimiento falló (no bloquea)"
       - name: Guardar cambios
         run: |
           git config user.name "bot-futbol"
