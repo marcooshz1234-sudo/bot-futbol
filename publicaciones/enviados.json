@@ -235,5 +235,9 @@
   "2026-11-01-escalera": {
     "enviado": "2026-11-01T11:00",
     "mensaje_id": 219
+  },
+  "2026-11-01-combi-tres": {
+    "enviado": "2026-11-01T13:30",
+    "mensaje_id": 220
   }
 }
