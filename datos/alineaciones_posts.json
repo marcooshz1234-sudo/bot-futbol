@@ -9,6 +9,7 @@
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
+  "mis|2026-11-01-la-guapa|1575530|Home Player Shots On Target Total|Pau Victor - 1",
   "mis|2026-11-01-la-mejor|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-liverpool-arsenal|1557453|Player Fouls Committed|Dominik Szoboszlai - 1"
  ],
@@ -3199,10 +3200,151 @@
    "equipos": {}
   },
   "1575530": {
-   "hora": "2026-11-01T20:53:23.124615+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T21:05:08.768328+01:00",
+   "xi": [
+    "Bernardo Fontes",
+    "A. Barišić",
+    "Vitor Carvalho",
+    "Sergio Barcia",
+    "Víctor Gómez",
+    "João Moutinho",
+    "M. Dorgeles",
+    "Diogo Travassos",
+    "Ricardo Horta",
+    "Fran Navarro",
+    "Gabri Martínez",
+    "L. Carević",
+    "Rodrigo Pinheiro",
+    "Víctor Rofino",
+    "L. Realpe",
+    "Gustavo Garcia",
+    "T. van de Looi",
+    "Mathias De Amorim",
+    "R. Beney",
+    "Pedro Santos",
+    "Sorriso",
+    "G. Koutsias"
+   ],
+   "banquillo": [
+    "A. Bajrami",
+    "J. Gorby",
+    "D. Huseinbašić",
+    "G. Lagerbielke",
+    "J. Milošević",
+    "Diego Rodrigues",
+    "Tiago Sá",
+    "E. Tıknaz",
+    "Pau Victor",
+    "J. Wind",
+    "Flinto Augusto Patrão Da Costa",
+    "Diogo Antunes Lobo",
+    "I. Zlobin",
+    "Óscar Aranda",
+    "F. van Breemen",
+    "V. Serafimović",
+    "P. Salas",
+    "Marcos Peña",
+    "Pedro Francisco",
+    "Paulo Moreira",
+    "Mathis Jangeal",
+    "Gil Dias",
+    "U. Abubakar",
+    "Juvenal Augusto Gomes Correia"
+   ],
+   "equipos": {
+    "217": [
+     {
+      "n": "Bernardo Fontes",
+      "pos": "G"
+     },
+     {
+      "n": "A. Barišić",
+      "pos": "D"
+     },
+     {
+      "n": "Vitor Carvalho",
+      "pos": "D"
+     },
+     {
+      "n": "Sergio Barcia",
+      "pos": "D"
+     },
+     {
+      "n": "Víctor Gómez",
+      "pos": "M"
+     },
+     {
+      "n": "João Moutinho",
+      "pos": "M"
+     },
+     {
+      "n": "M. Dorgeles",
+      "pos": "M"
+     },
+     {
+      "n": "Diogo Travassos",
+      "pos": "M"
+     },
+     {
+      "n": "Ricardo Horta",
+      "pos": "F"
+     },
+     {
+      "n": "Fran Navarro",
+      "pos": "F"
+     },
+     {
+      "n": "Gabri Martínez",
+      "pos": "F"
+     }
+    ],
+    "242": [
+     {
+      "n": "L. Carević",
+      "pos": "G"
+     },
+     {
+      "n": "Rodrigo Pinheiro",
+      "pos": "D"
+     },
+     {
+      "n": "Víctor Rofino",
+      "pos": "D"
+     },
+     {
+      "n": "L. Realpe",
+      "pos": "D"
+     },
+     {
+      "n": "Gustavo Garcia",
+      "pos": "D"
+     },
+     {
+      "n": "T. van de Looi",
+      "pos": "M"
+     },
+     {
+      "n": "Mathias De Amorim",
+      "pos": "M"
+     },
+     {
+      "n": "R. Beney",
+      "pos": "M"
+     },
+     {
+      "n": "Pedro Santos",
+      "pos": "M"
+     },
+     {
+      "n": "Sorriso",
+      "pos": "M"
+     },
+     {
+      "n": "G. Koutsias",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
