@@ -2137,7 +2137,8 @@
     "enviado": "2026-11-01T21:11",
     "mensaje_id": 228,
     "redes": {
-      "threads": "18006569925006330"
+      "threads": "18006569925006330",
+      "threads_enlace": "17944083309364874"
     },
     "errores_redes": {
       "instagram": "falta la imagen/vídeo en publicaciones/media"
