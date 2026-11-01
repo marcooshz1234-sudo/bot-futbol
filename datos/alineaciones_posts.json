@@ -5,152 +5,14 @@
   "2026-10-31-combi-loca|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
+  "2026-11-01-combi-partido-1570433|Robert Navarro: 1+ tiros a puerta",
+  "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
+  "mis|2026-11-01-la-mejor|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-liverpool-arsenal|1557453|Player Fouls Committed|Dominik Szoboszlai - 1"
  ],
  "alineaciones": {
-  "1563233": {
-   "hora": "2026-10-30T20:34:52.555365+01:00",
-   "xi": [
-    "M. Cooper",
-    "H. Choudhury",
-    "J. Tanganga",
-    "L. Kitching",
-    "H. Burrows",
-    "Sydie Peck",
-    "K. Phillips",
-    "T. Chong",
-    "R. Donovan",
-    "B. Brereton",
-    "J. Ayew",
-    "A. Patterson",
-    "D. Hyam",
-    "J. Worrall",
-    "C. Doyle",
-    "I. Kaboré",
-    "B. Sheaf",
-    "M. James",
-    "J. Ekomié",
-    "O. Rathbone",
-    "L. O&apos;Brien",
-    "K. Moore"
-   ],
-   "banquillo": [
-    "J. Riedewald",
-    "M. McGuinness",
-    "S. McCallum",
-    "T. Cannon",
-    "T. Campbell",
-    "O. Arblaster",
-    "J. Rothwell",
-    "F. Seriki",
-    "Tommy Betts",
-    "B. Whiteman",
-    "B. Cadamarteri",
-    "M. Cleworth",
-    "G. Dobson",
-    "Daniel Edward Peter Imray",
-    "S. Smith",
-    "G. Thomason",
-    "Z. Vyner",
-    "D. Ward"
-   ],
-   "equipos": {
-    "62": [
-     {
-      "n": "M. Cooper",
-      "pos": "G"
-     },
-     {
-      "n": "H. Choudhury",
-      "pos": "D"
-     },
-     {
-      "n": "J. Tanganga",
-      "pos": "D"
-     },
-     {
-      "n": "L. Kitching",
-      "pos": "D"
-     },
-     {
-      "n": "H. Burrows",
-      "pos": "D"
-     },
-     {
-      "n": "Sydie Peck",
-      "pos": "M"
-     },
-     {
-      "n": "K. Phillips",
-      "pos": "M"
-     },
-     {
-      "n": "T. Chong",
-      "pos": "M"
-     },
-     {
-      "n": "R. Donovan",
-      "pos": "M"
-     },
-     {
-      "n": "B. Brereton",
-      "pos": "M"
-     },
-     {
-      "n": "J. Ayew",
-      "pos": "F"
-     }
-    ],
-    "1837": [
-     {
-      "n": "A. Patterson",
-      "pos": "G"
-     },
-     {
-      "n": "D. Hyam",
-      "pos": "D"
-     },
-     {
-      "n": "J. Worrall",
-      "pos": "D"
-     },
-     {
-      "n": "C. Doyle",
-      "pos": "D"
-     },
-     {
-      "n": "I. Kaboré",
-      "pos": "M"
-     },
-     {
-      "n": "B. Sheaf",
-      "pos": "M"
-     },
-     {
-      "n": "M. James",
-      "pos": "M"
-     },
-     {
-      "n": "J. Ekomié",
-      "pos": "M"
-     },
-     {
-      "n": "O. Rathbone",
-      "pos": "M"
-     },
-     {
-      "n": "L. O&apos;Brien",
-      "pos": "M"
-     },
-     {
-      "n": "K. Moore",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1552802": {
    "hora": "2026-10-30T20:40:51.511550+01:00",
    "xi": [
@@ -3325,13 +3187,154 @@
    }
   },
   "1570433": {
-   "hora": "2026-11-01T20:24:58.121453+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T20:35:40.852474+01:00",
+   "xi": [
+    "Unai Simón",
+    "Hugo Rincón",
+    "Dani Vivian",
+    "Aymeric Laporte",
+    "Yuri",
+    "Beñat Gerenabarrena",
+    "Peio Canales",
+    "Álex Berenguer",
+    "I. Williams",
+    "Nico Williams",
+    "Maroan Sannadi",
+    "Álex Remiro",
+    "J. Aramburu",
+    "Jon Martín",
+    "M. Sarr",
+    "Sergio Gómez",
+    "Barrenetxea",
+    "Carlos Soler",
+    "Jon Gorrotxategi",
+    "Gonçalo Guedes",
+    "Mikel Oyarzabal",
+    "L. Sučić"
+   ],
+   "banquillo": [
+    "Álex Padilla",
+    "Robert Navarro",
+    "J. Louis-Jean",
+    "Mikel Jauregizar",
+    "Beñat Prados",
+    "Alejandro Rego",
+    "Oihan Sancet",
+    "Aitor Paredes",
+    "Nico Serrano",
+    "Jesús Vizcay Hurtado",
+    "Yeray",
+    "Jesús Areso",
+    "Héctor Fort",
+    "Aitor Fraga",
+    "Y. Herrera",
+    "T. Kubo",
+    "Unai Marrero",
+    "Pablo Marín",
+    "Aihen Muñoz",
+    "J. Ochieng",
+    "Jon Pacheco",
+    "Beñat Turrientes",
+    "Zubeldia",
+    "O. Óskarsson"
+   ],
+   "equipos": {
+    "531": [
+     {
+      "n": "Unai Simón",
+      "pos": "G"
+     },
+     {
+      "n": "Hugo Rincón",
+      "pos": "D"
+     },
+     {
+      "n": "Dani Vivian",
+      "pos": "D"
+     },
+     {
+      "n": "Aymeric Laporte",
+      "pos": "D"
+     },
+     {
+      "n": "Yuri",
+      "pos": "D"
+     },
+     {
+      "n": "Beñat Gerenabarrena",
+      "pos": "M"
+     },
+     {
+      "n": "Peio Canales",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Berenguer",
+      "pos": "M"
+     },
+     {
+      "n": "I. Williams",
+      "pos": "M"
+     },
+     {
+      "n": "Nico Williams",
+      "pos": "M"
+     },
+     {
+      "n": "Maroan Sannadi",
+      "pos": "F"
+     }
+    ],
+    "548": [
+     {
+      "n": "Álex Remiro",
+      "pos": "G"
+     },
+     {
+      "n": "J. Aramburu",
+      "pos": "D"
+     },
+     {
+      "n": "Jon Martín",
+      "pos": "D"
+     },
+     {
+      "n": "M. Sarr",
+      "pos": "D"
+     },
+     {
+      "n": "Sergio Gómez",
+      "pos": "D"
+     },
+     {
+      "n": "Barrenetxea",
+      "pos": "M"
+     },
+     {
+      "n": "Carlos Soler",
+      "pos": "M"
+     },
+     {
+      "n": "Jon Gorrotxategi",
+      "pos": "M"
+     },
+     {
+      "n": "Gonçalo Guedes",
+      "pos": "M"
+     },
+     {
+      "n": "Mikel Oyarzabal",
+      "pos": "F"
+     },
+     {
+      "n": "L. Sučić",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570001": {
-   "hora": "2026-11-01T20:24:58.121453+01:00",
+   "hora": "2026-11-01T20:35:40.852474+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

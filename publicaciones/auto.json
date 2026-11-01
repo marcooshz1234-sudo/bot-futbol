@@ -1424,7 +1424,7 @@
   {
     "id": "2026-11-01-combi-partido-1570433",
     "fecha": "2026-11-01T20:00",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ REAL SOCIEDAD MARCA [x1.40]\n✅ ROBERT NAVARRO: 1+ TIROS A PUERTA [x1.44]\n✅ ATHLETIC CLUB HACE MÁS TIROS A PUERTA [x1.53]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 5,17\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ATHLETIC CLUB vs REAL SOCIEDAD 🇪🇸\n\n🎯 ATHLETIC CLUB O EMPATE [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ REAL SOCIEDAD MARCA [x1.40]\n✅ ALEX BERENGUER: 1+ TIROS A PUERTA [x1.50]\n✅ ATHLETIC CLUB HACE MÁS TIROS A PUERTA [x1.53]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 5,39\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1432,14 +1432,14 @@
       "1570433|Double Chance|Home/Draw",
       "1570433|Goals Over/Under First Half|Over 0.5",
       "1570433|Total - Away|Over 0.5",
-      "1570433|Home Player Shots On Target Total|Robert Navarro - 1",
+      "1570433|Home Player Shots On Target Total|Alex Berenguer - 1",
       "1570433|ShotOnTarget 1x2|Home"
     ],
     "cuotas": [
       1.25,
       1.33,
       1.4,
-      1.44,
+      1.5,
       1.53
     ],
     "tarjeta": {
@@ -1452,7 +1452,8 @@
       "fecha": "2026-11-01T21:00",
       "liga": "LaLiga"
     },
-    "cuotas_revisadas": "2026-11-01T19:57"
+    "cuotas_revisadas": "2026-11-01T19:57",
+    "revisado_alineaciones": "2026-11-01T20:35"
   },
   {
     "id": "2026-11-02-combi-partido-1557455",
