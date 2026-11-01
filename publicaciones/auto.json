@@ -1254,7 +1254,7 @@
   {
     "id": "2026-11-01-combi-partido-1550183",
     "fecha": "2026-11-01T14:00",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 LAZIO vs CAGLIARI 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ LAZIO HACE MÁS TIROS A PUERTA [x1.33]\n✅ GANA EL LAZIO [x1.42]\n✅ MATTIA ZACCAGNI: 1+ TIROS A PUERTA [x1.40]\n✅ CAGLIARI MARCA [x1.73]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,06\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 LAZIO vs CAGLIARI 🇮🇹\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ LAZIO HACE MÁS TIROS A PUERTA [x1.33]\n✅ GANA EL LAZIO [x1.48]\n✅ MATTIA ZACCAGNI: 1+ TIROS A PUERTA [x1.40]\n✅ CAGLIARI MARCA [x1.73]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,50\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1269,7 +1269,7 @@
     "cuotas": [
       1.33,
       1.33,
-      1.42,
+      1.48,
       1.4,
       1.73,
       1.73
@@ -1283,7 +1283,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/490.png",
       "fecha": "2026-11-01T15:00",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-11-01T12:31"
   },
   {
     "id": "2026-11-01-combi-partido-1575207",
