@@ -217,6 +217,20 @@ def texto_combi_partido(cp, tj, cuota):
     return "\n".join(lineas)
 
 
+def texto_estrella(cp, cuota):
+    """01/11 (Marcos): «partido estrella», solo texto (como «🇮🇹 NAPOLI 🆚 ROMA 🇮🇹», 5.643 visitas en Threads)."""
+    band = BANDERA.get(cp.get("competicion"), "⚽")
+    partido = f"{cp['local']}–{cp['visitante']}"
+    lineas = [f"{band} {cp['local'].upper()} 🆚 {cp['visitante'].upper()} {band}",
+              f"⭐ PARTIDO ESTRELLA · {cp['fecha'][11:16]} ⭐", ""]
+    for i, p in enumerate(cp["picks"], 1):
+        t = p["texto"].replace(f" en el {partido}", "").replace(f" del {partido}", "").replace(f" en {partido}", "")
+        lineas.append(f"✅{i}. {t}")
+    lineas += ["", f"🎯 Cuota: {num(cuota)}", f"💶 10€ → {num(cuota * 10)}€"]
+    lineas += ["", "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"]
+    return "\n".join(lineas)
+
+
 # 26/10: cierres que invitan a responder (las respuestas son lo que más mueve Threads). La pregunta de
 # siempre ("¿la pintamos de verde?") rendía menos que no poner nada. Se rotan para no repetir.
 CIERRES = ["👇 ¿Qué pata quitarías tú?",
@@ -273,6 +287,9 @@ def posts_del_dia(dia, d):
             pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
+            apuntar(cp["picks"])
+        for cp, cuota, hora in cd.get("estrella") or []:   # 01/11 (Marcos): partido estrella (top 4 de las 5 grandes)
+            posts.append((f"estrella-{cp['partido_id']}", hora, cp["picks"], texto_estrella(cp, cuota)))
             apuntar(cp["picks"])
         for clave_m, titulo in (("tres", "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"), ("loca", "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
             r = cd.get(clave_m)

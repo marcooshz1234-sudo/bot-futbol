@@ -613,6 +613,9 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         cand = [(None, None, cp, c) for cp, c in noche_sel]
         for (h, m), (_, _, cp, c) in zip(NOCHE["horas"], cand):
             res["noche"].append((cp, c, datos_tarjeta(cp), f0n.replace(hour=h, minute=m)))
+    # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
+    # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
+    res["estrella"] = estrellas(pools, salida + res["noche"], dia)
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
     from collections import Counter
@@ -635,6 +638,46 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         if r:
             usos.update(sel(p) for p in r[1])
     return res
+
+
+ESTRELLA = {"top": 4, "ligas": (140, 39, 135, 78, 61), "patas": (4, 4), "cuota": (4.0, 8.0), "max": 2, "antes_h": 3}
+
+
+def top_equipos(n=ESTRELLA["top"]):
+    """Los n primeros de la clasificación de cada una de las 5 grandes ligas."""
+    try:
+        import app_datos
+        return {x["equipo"] for filas in app_datos.clasificaciones().values() for x in filas[:n]}
+    except Exception as e:
+        print("top equipos:", str(e)[:120])
+        return set()
+
+
+def estrellas(pools, ya, dia):
+    """[(cp, cuota, hora)] de los partidos estrella del día (máximo 2: los de más equipos top)."""
+    top = top_equipos()
+    if not top:
+        return []
+    usadas = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for cp, *_ in ya for p in cp["picks"]}
+    cands = []
+    for pool in pools:
+        b = pool[0]
+        n = (b["local"] in top) + (b["visitante"] in top)
+        if not n or b.get("liga_id") not in ESTRELLA["ligas"]:
+            continue
+        libres = [p for p in pool if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in usadas
+                  and familia(p) not in SIN_EN_ESCUDOS]
+        r = (mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PARTIDO["prob_min"])
+             or mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PROB_MIN_RELAJADA))
+        if not r:
+            continue
+        cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
+        cp["picks"] = r[1]
+        inicio = datetime.fromisoformat(b["fecha"]).replace(tzinfo=MADRID)
+        hora = max(inicio - timedelta(hours=ESTRELLA["antes_h"]), inicio.replace(hour=10, minute=0))
+        cands.append((n, r[2], cp, hora))
+    cands.sort(key=lambda x: (-x[0], x[3]))
+    return [(cp, c, h) for _, c, cp, h in cands[:ESTRELLA["max"]]]
 
 
 # ---------------------------------------------------------------- boletos «Crear apuesta» (27/10, Marcos)
