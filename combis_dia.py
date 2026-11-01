@@ -616,6 +616,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
     # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
+    # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
+    res["seguro"] = pick_seguro(pools, dia)
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
     from collections import Counter
@@ -678,6 +680,24 @@ def estrellas(pools, ya, dia):
         cands.append((n, r[2], cp, hora))
     cands.sort(key=lambda x: (-x[0], x[3]))
     return [(cp, c, h) for _, c, cp, h in cands[:ESTRELLA["max"]]]
+
+
+SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador"), "hora": (10, 30), "prob_min": 0.62}
+
+
+def pick_seguro(pools, dia):
+    """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
+    jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo."""
+    hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=SEGURO["hora"][0], minute=SEGURO["hora"][1])
+    cand = [p for pool in pools for p in pool
+            if SEGURO["cuota"][0] <= p["cuota"] <= SEGURO["cuota"][1] and familia(p).split("-")[0] in SEGURO["familias"]
+            and p["prob_aprendida"] >= SEGURO["prob_min"]
+            and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
+    if not cand:
+        return None
+    # más probable; a igualdad, la que más paga a la larga
+    p = max(cand, key=lambda p: (round(p["prob_aprendida"], 2), p["prob_aprendida"] * p["cuota"]))
+    return p, hora
 
 
 # ---------------------------------------------------------------- boletos «Crear apuesta» (27/10, Marcos)
