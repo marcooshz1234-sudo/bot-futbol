@@ -1,0 +1,71 @@
+[
+  {
+    "id": "2026-11-01-madrid",
+    "fecha": "2026-11-01T16:15",
+    "titulo": "Racing – Real Madrid",
+    "cuota": 8.58,
+    "sel": [
+      "1570440|Results/Both Teams Score|Away/Yes",
+      "1570440|Goalkeeper Saves|Thibaut Courtois - 3",
+      "1570440|Away Team Total Cards|Over 1.5",
+      "1570440|Total Shots|Over 30.5",
+      "1570440|ShotOnTarget 1x2|Away",
+      "1570440|Player Fouls Committed|Jeanuel Belocian - 2"
+    ],
+    "cuotas": [
+      1.95,
+      1.67,
+      1.53,
+      1.83,
+      1.14,
+      1.33
+    ],
+    "origen": "Claude (pedida por Marcos el 01/11 09:17)"
+  },
+  {
+    "id": "2026-11-01-liverpool-arsenal",
+    "fecha": "2026-11-01T17:30",
+    "titulo": "Liverpool – Arsenal",
+    "cuota": 8.04,
+    "sel": [
+      "1557453|Total Goals/Both Teams To Score|o/yes 2.5",
+      "1557453|Goals Over/Under First Half|Over 0.5",
+      "1557453|Goalkeeper Saves|David Raya - 3",
+      "1557453|Goalkeeper Saves|Alisson Becker - 3",
+      "1557453|Cards Over/Under|Over 3.5",
+      "1557453|Player Fouls Committed|Dominik Szoboszlai - 1"
+    ],
+    "cuotas": [
+      2.1,
+      1.36,
+      1.62,
+      1.62,
+      1.67,
+      1.28
+    ],
+    "origen": "Claude (pedida por Marcos el 01/11 09:17)"
+  },
+  {
+    "id": "2026-11-01-burgos-castellon",
+    "fecha": "2026-11-01T18:30",
+    "titulo": "Burgos – Castellón",
+    "cuota": 8.73,
+    "sel": [
+      "1569993|Both Teams Score|Yes",
+      "1569993|Goals Over/Under First Half|Over 0.5",
+      "1569993|Double Chance|Draw/Away",
+      "1569993|Away Player Shots|Alvaro Garcia - 3",
+      "1569993|Cards Over/Under|Over 4.5",
+      "1569993|Home Player Shots|Jon Karrikaburu - 1"
+    ],
+    "cuotas": [
+      1.67,
+      1.36,
+      1.28,
+      1.73,
+      1.83,
+      1.06
+    ],
+    "origen": "Claude (pedida por Marcos el 01/11 09:17)"
+  }
+]
