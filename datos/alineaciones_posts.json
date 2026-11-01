@@ -2310,10 +2310,149 @@
    }
   },
   "1570440": {
-   "hora": "2026-11-01T15:38:58.750915+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T15:50:36.753579+01:00",
+   "xi": [
+    "Julen Agirrezabala",
+    "Álvaro Mantilla",
+    "Pablo Ramón",
+    "J. Belocian",
+    "Aarón Martín",
+    "Iván Martín",
+    "M. Prati",
+    "Iker Luque",
+    "Sergio Canales",
+    "Iñigo Vicente",
+    "M. Zabiri",
+    "T. Courtois",
+    "T. Alexander-Arnold",
+    "D. Huijsen",
+    "I. Konaté",
+    "Marc Cucurella",
+    "A. Tchouaméni",
+    "Bernardo Silva",
+    "A. Güler",
+    "J. Bellingham",
+    "Y. Diomande",
+    "Kylian Mbappé"
+   ],
+   "banquillo": [
+    "André Almeida",
+    "Juan Carlos Arana",
+    "Pablo García",
+    "Facundo González",
+    "M. Gueye",
+    "G. Guliashvili",
+    "Manu Hernando",
+    "Pedro Felipe",
+    "Íñigo Sainz-Maza",
+    "Asier Villalibre",
+    "S. Eriksson",
+    "Álvaro Fernández",
+    "Brahim Díaz",
+    "D. Dumfries",
+    "Éder Militão",
+    "Endrick",
+    "Carlos Espí",
+    "A. Lunin",
+    "Sergio Mestre",
+    "Thiago Pitarch",
+    "A. Rüdiger",
+    "E. Camavinga"
+   ],
+   "equipos": {
+    "4665": [
+     {
+      "n": "Julen Agirrezabala",
+      "pos": "G"
+     },
+     {
+      "n": "Álvaro Mantilla",
+      "pos": "D"
+     },
+     {
+      "n": "Pablo Ramón",
+      "pos": "D"
+     },
+     {
+      "n": "J. Belocian",
+      "pos": "D"
+     },
+     {
+      "n": "Aarón Martín",
+      "pos": "D"
+     },
+     {
+      "n": "Iván Martín",
+      "pos": "M"
+     },
+     {
+      "n": "M. Prati",
+      "pos": "M"
+     },
+     {
+      "n": "Iker Luque",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Canales",
+      "pos": "M"
+     },
+     {
+      "n": "Iñigo Vicente",
+      "pos": "M"
+     },
+     {
+      "n": "M. Zabiri",
+      "pos": "F"
+     }
+    ],
+    "541": [
+     {
+      "n": "T. Courtois",
+      "pos": "G"
+     },
+     {
+      "n": "T. Alexander-Arnold",
+      "pos": "D"
+     },
+     {
+      "n": "D. Huijsen",
+      "pos": "D"
+     },
+     {
+      "n": "I. Konaté",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Cucurella",
+      "pos": "D"
+     },
+     {
+      "n": "A. Tchouaméni",
+      "pos": "M"
+     },
+     {
+      "n": "Bernardo Silva",
+      "pos": "M"
+     },
+     {
+      "n": "A. Güler",
+      "pos": "M"
+     },
+     {
+      "n": "J. Bellingham",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Diomande",
+      "pos": "M"
+     },
+     {
+      "n": "Kylian Mbappé",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
