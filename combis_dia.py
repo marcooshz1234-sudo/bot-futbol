@@ -165,6 +165,20 @@ def pool_partido(ex, hist, ap):
     import modelo_goles as M
     lam = M.lambdas(pa["fixture"]["id"])
     gana = favorito(ex)
+    # 01/11 (Marcos): tabla (distancia y zona), forma de los últimos 5 y bajas de jugadores clave
+    import contexto
+    pos = contexto.posiciones(pa["league"]["id"], pa["fixture"]["date"], loc["id"], vis["id"])
+    hl, hv = hist.get(loc["id"], []), hist.get(vis["id"], [])
+    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") == "Missing Fixture"]
+    lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
+    fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
+    pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
+    for p in pool:
+        ld = P.lado_pick(p) if not p.get("equipo") else ("local" if p["equipo"] == loc["name"] else "visitante")
+        p["contexto"] = contexto.de_pick(pos, ld)
+        p["forma"] = contexto.de_forma(hl, hv, loc["id"], vis["id"], ld)
+        p["bajas"] = contexto.de_bajas(bool(fuera[loc["id"]]), bool(fuera[vis["id"]]), ld)
+        p["claves_fuera"] = fuera
     for p in pool:
         p["prob_aprendida"] = aprender.prob_aprendida(p, ap) or p["frecuencia"]
         # 28/10 (Marcos): en los picks de goles manda también lo que dice bet365 y lo que pasó en partidos
