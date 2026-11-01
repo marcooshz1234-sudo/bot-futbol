@@ -667,11 +667,11 @@
     "total": 10,
     "cuentas": {
       "verde": 0,
-      "rojo": 7,
+      "rojo": 6,
       "pendiente": 3,
-      "sin_datos": 0,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -719,7 +719,7 @@
       {
         "id": "2026-11-01-combi-partido-1570437",
         "titulo": "✅ COMBI LOCAS | LALIGA",
-        "estado": "rojo",
+        "estado": "sin_datos",
         "cuota": 8.93
       },
       {
@@ -736,10 +736,10 @@
       }
     ],
     "picks": {
-      "verde": 24,
-      "rojo": 12,
+      "verde": 22,
+      "rojo": 11,
       "total": 56
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 7 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 9,89\n❌ ✅ COMBI LOCAS | PRIMEIRA LIGA · 8,66\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,89! 🍀 · 2,89 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 7,59\n❌ ✅ COMBI LOCAS | BUNDESLIGA · 7,65\n❌ ✅ COMBI LOCAS | LALIGA · 8,97\n❌ ✅ COMBI LOCAS | LALIGA · 8,93\n⏳ ✅ COMBI LOCAS | SERIE A · 7,19 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 5,17 · pendiente\n\n✅ 0 acertadas · ❌ 7 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 6 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 9,89\n❌ ✅ COMBI LOCAS | PRIMEIRA LIGA · 8,66\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,89! 🍀 · 2,89 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 7,59\n❌ ✅ COMBI LOCAS | BUNDESLIGA · 7,65\n❌ ✅ COMBI LOCAS | LALIGA · 8,97\n❔ ✅ COMBI LOCAS | LALIGA · 8,93 · faltan datos\n⏳ ✅ COMBI LOCAS | SERIE A · 7,19 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 5,17 · pendiente\n\n✅ 0 acertadas · ❌ 6 falladas · ⏳ 4 sin resolver"
   }
 }
