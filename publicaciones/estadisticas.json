@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 01:28",
+ "actualizado": "2026-11-01 01:39",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -58,9 +58,9 @@
  "total_hoy": 5,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:30",
+  "hora": "11:15",
   "dia": "2026-11-01",
-  "titulo": "Combi Maritimo vs Santa Clara"
+  "titulo": "Combi Pec Zwolle vs Ado Den Haag"
  },
  "ayer": {
   "aciertos": 53,
@@ -133,7 +133,7 @@
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 52,
+   "posts": 53,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -144,11 +144,6 @@
   },
   "Otros (reel)": {
    "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
