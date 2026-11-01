@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mis combis</title>
+<meta name="theme-color" content="#0a0f1c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Mis combis">
+<link rel="icon" href="../panel/logo.png"><link rel="apple-touch-icon" href="../panel/logo.png">
+<style>
+:root{--bg:#0a0f1c;--card:#141c2f;--card2:#1e2940;--line:#2a3652;--txt:#ffffff;--mut:#9aa8c3;--ok:#22c55e;--ko:#f87171;--warn:#fbbf24;--r:20px}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--txt);font:17px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 80%,transparent);padding:calc(14px + env(safe-area-inset-top)) 16px 10px;display:flex;align-items:center;gap:12px}
+header h1{font-size:22px;margin:0;font-weight:800;letter-spacing:.3px;flex:1}
+header h1 small{display:block;font-size:13px;font-weight:600;color:var(--mut);letter-spacing:.3px}
+.logo{width:46px;height:46px;border-radius:50%;box-shadow:0 0 14px rgba(59,130,246,.5)}
+.mut{color:var(--mut);font-size:14px}
+main{padding:0 16px calc(110px + env(safe-area-inset-bottom));max-width:640px;margin:0 auto}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);margin:20px 2px 10px;font-weight:700;display:flex;gap:10px}
+h2 span{margin-left:auto;letter-spacing:0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);margin-bottom:12px;overflow:hidden}
+.cab{padding:16px;cursor:pointer}
+.r1{display:flex;align-items:center;gap:14px}
+.hora{font-weight:800;font-size:26px;line-height:1;min-width:72px}
+.hora small{display:block;font-size:13px;font-weight:600;color:var(--mut);margin-top:4px}
+.tit{flex:1;min-width:0;font-weight:700;font-size:18px;line-height:1.25}
+.cuota{font-weight:800;font-size:26px;line-height:1;font-variant-numeric:tabular-nums;text-align:right}
+.cuota small{display:block;font-size:12px;font-weight:600;color:var(--mut);margin-top:4px}
+.r2{display:flex;align-items:center;gap:10px;margin-top:12px;font-size:15px;color:var(--mut)}
+.r2 .marc{color:var(--txt);font-weight:800;font-size:18px;font-variant-numeric:tabular-nums}
+.r2 .fl{margin-left:auto;font-size:13px}
+.chip{display:inline-block;font-size:13px;font-weight:700;padding:4px 10px;border-radius:999px;background:var(--card2);color:var(--mut);white-space:nowrap}
+.chip.ok{background:rgba(34,197,94,.15);color:var(--ok)}.chip.ko{background:rgba(248,113,113,.15);color:var(--ko)}.chip.warn{background:rgba(251,191,36,.15);color:var(--warn)}
+.chip.vivo{background:rgba(251,191,36,.15);color:var(--warn)}
+.chip.vivo::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--warn);margin-right:6px;vertical-align:1px;animation:lat 1.2s infinite}
+@keyframes lat{50%{opacity:.25}}
+.tira{display:flex;gap:4px;margin-top:14px}
+.tira i{flex:1;height:7px;border-radius:99px;background:var(--card2)}
+.tira i.ok{background:var(--ok)}.tira i.okb{background:rgba(34,197,94,.45)}.tira i.ko{background:var(--ko)}.tira i.warn{background:var(--warn)}
+.tira i.anu{background:repeating-linear-gradient(45deg,var(--card2) 0 3px,var(--line) 3px 6px)}
+.patas{border-top:1px solid var(--line)}
+.pata{display:flex;gap:12px;padding:14px 16px;border-top:1px solid var(--line);align-items:flex-start}
+.pata:first-child{border-top:0}
+.ico{width:24px;flex:none;text-align:center;font-size:18px;line-height:22px}
+.pata .sp{flex:1;min-width:0}
+.pt{font-size:16.5px;font-weight:600;line-height:1.3}
+.pata.anu .pt{text-decoration:line-through;color:var(--mut)}
+.pm{color:var(--mut);font-size:14px;margin-top:3px;font-variant-numeric:tabular-nums}
+.pr{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.pr b{font-size:18px;font-variant-numeric:tabular-nums}
+.barra{height:8px;border-radius:99px;background:var(--card2);overflow:hidden;margin-top:8px}.barra>div{height:100%;background:var(--ok)}
+.barra.warn>div{background:var(--warn)}.barra.ko>div{background:var(--ko)}
+.bt{font-size:14px;color:var(--mut);margin-top:4px}
+.resumen{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:6px 0}
+.resumen div{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:12px;text-align:center}
+.resumen b{display:block;font-size:28px;font-weight:800}.resumen span{font-size:13px;color:var(--mut)}
+.cont{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 12px}
+.cont div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:8px 6px;text-align:center}
+.cont b{display:block;font-size:22px;font-weight:800;line-height:1.2}.cont span{font-size:12px;color:var(--mut)}
+.dias{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px;margin:4px 0 6px}
+.dias button{border:0;border-radius:10px;padding:9px 0;background:none;color:var(--mut);font:700 15px inherit;font-family:inherit;cursor:pointer}
+.dias button.on{background:var(--card2);color:var(--txt)}
+.lista{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin-bottom:12px}
+.partido{display:flex;align-items:center;gap:12px;padding:12px 14px;border-top:1px solid var(--line)}
+.partido:first-child{border-top:0}
+.partido .h{min-width:52px;font-weight:800;font-size:17px;font-variant-numeric:tabular-nums}
+.partido .h.vivo{color:var(--warn)}.partido .h.fin{color:var(--mut);font-size:14px}
+.eqs{flex:1;min-width:0;display:flex;flex-direction:column;gap:5px}
+.eq{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:600}
+.eq img{width:22px;height:22px;object-fit:contain;flex:none}
+.eq span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.eq b{font-size:17px;font-variant-numeric:tabular-nums;min-width:16px;text-align:right}
+.partido.mio{background:rgba(59,130,246,.08)}
+.tuya{font-size:11px;font-weight:700;color:#93b4ff;margin-top:2px}
+.fuente{font-size:12.5px;color:var(--mut);margin-top:3px}.fuente .tuya{display:inline;margin:0}
+.pata.mio{background:rgba(59,130,246,.08)}
+.prob{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-top:12px;font-size:15px;color:var(--mut)}
+.prob b{font-size:20px;font-weight:800}.prob small{font-size:12px;margin-left:auto}
+.pr .pp{font-size:12px;color:var(--mut);font-weight:600}
+.fam{display:flex;align-items:center;gap:10px;padding:12px 14px;border-top:1px solid var(--line)}
+.fam:first-child{border-top:0}.fam .sp{flex:1;min-width:0}.fam .nm{font-weight:700;font-size:16px}
+.fam .pc{font-weight:800;font-size:20px;min-width:56px;text-align:right}
+.top{padding:10px 14px;border-top:1px solid var(--line);display:flex;gap:10px;font-size:15px}
+.top:first-child{border-top:0}.top span:first-child{flex:1}
+.vacio{text-align:center;color:var(--mut);padding:40px 10px}
+nav{position:fixed;left:0;right:0;bottom:0;z-index:5;background:rgba(10,15,28,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(4,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+nav button{background:none;border:0;color:var(--mut);font:600 12px inherit;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;position:relative;cursor:pointer}
+nav button span{font-size:23px}nav button.on{color:var(--ok)}
+nav .badge{position:absolute;top:0;right:30%;background:var(--card2);color:var(--txt);font-size:10px;font-style:normal;border-radius:99px;padding:1px 6px}
+nav button.on .badge{background:var(--ok);color:#04210f}
+</style>
+</head>
+<body>
+<header>
+  <img src="../panel/logo.png" alt="" class="logo">
+  <h1>Mis combis<small id="sub"></small></h1>
+  <span class="mut" id="act"></span>
+</header>
+<main id="vista"><div class="vacio">Cargando…</div></main>
+<nav id="nav"></nav>
+<script>
+let D = null, tab = "combis", diaP = "hoy", diaK = "hoy", abiertas = new Set();
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const n2 = x => x == null ? "" : Number(x).toFixed(2).replace(".", ",");
+const EN_JUEGO = ["1H","HT","2H","ET","BT","P","LIVE","INT"];
+const TABS = [["combis","🎟️","Combis"],["picks","🎯","Picks"],["partidos","⚽","Partidos"],["hist","📈","Historial"]];
+// estado de la pata → [icono, nombre, color]  (verde solo para lo que va bien o ha salido)
+const EST = {verde:["✅","Verde","ok"], va_bien:["🟢","Va bien","ok"], va_mal:["🟡","Va mal","warn"], comprobando:["⏳","Comprobando","warn"],
+             rojo:["❌","Roja","ko"], anulada:["⊘","Anulada",""], pendiente:["⚪","Pendiente",""], en_juego:["⚪","En juego",""], sin_datos:["❔","Sin datos",""]};
+const est = e => EST[e] || EST.pendiente;
+const dia = c => c.fecha.slice(0,10);
+const fechaLarga = d => new Date(d+"T12:00").toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"});
+
+async function cargar(){
+  try { D = await (await fetch("datos.json?t="+Date.now(), {cache:"no-store"})).json(); }
+  catch(e){ if(!D) $("#vista").innerHTML = `<div class="vacio">Sin conexión. Prueba otra vez.</div>`; return; }
+  $("#act").textContent = "act. " + D.generado.slice(11);
+  pintar();
+}
+
+const colProb = p => p >= 0.5 ? "var(--ok)" : p >= 0.2 ? "var(--warn)" : "var(--ko)";
+const pct = p => p > 0 && p < 0.01 ? "<1 %" : Math.round(100 * p) + " %";
+
+// 01/11 (Marcos): lo que le queda a la combi, según el bot (orientativo)
+function lineaProb(c){
+  if(c.estado !== "pendiente" || c.prob == null) return "";
+  return `<div class="prob">Le queda un <b style="color:${colProb(c.prob)}">${pct(c.prob)}</b>${
+    c.cuota_justa ? `<span>· cuota justa ahora x${c.cuota_justa > 999 ? "999+" : n2(c.cuota_justa)}</span>` : ""}<small>según el bot</small></div>`;
+}
+
+function chipCombi(c){
+  if(c.estado==="verde") return `<span class="chip ok">✅ Verde</span>`;
+  if(c.estado==="rojo") return `<span class="chip ko">❌ Roja</span>`;
+  if(c.estado==="anulada") return `<span class="chip">Anulada</span>`;
+  const v = c.picks.find(p => EN_JUEGO.includes(p.estado_partido));
+  if(v) return `<span class="chip vivo">${v.estado_partido==="HT" ? "Descanso" : (v.minuto ?? "") + "′"}</span>`;
+  if(c.picks.some(p => p.estado==="comprobando")) return `<span class="chip warn">⏳ Comprobando</span>`;
+  return `<span class="chip">Pendiente</span>`;
+}
+
+function infoPata(p){
+  const t = [];
+  if(p.partido) t.push(esc(p.partido) + (p.marcador && p.marcador[0]!=null ? ` · ${p.marcador[0]}–${p.marcador[1]}` : ""));
+  if(EN_JUEGO.includes(p.estado_partido)) t.push(p.estado_partido==="HT" ? "descanso" : `${p.minuto}′`);
+  return t.join(" · ");
+}
+
+function barra(p){
+  const x = p.progreso;
+  if(!x || p.estado==="anulada") return p.estado==="anulada" ? `<div class="bt">Partido aplazado o suspendido: no cuenta</div>` : "";
+  if(x.sin_barra || x.porcentaje==null) return `<div class="bt">${esc(x.texto)}</div>`;
+  const col = ["va_mal","comprobando"].includes(p.estado) ? "warn" : p.estado==="rojo" ? "ko" : "";
+  return `<div class="barra ${col}"><div style="width:${x.porcentaje}%"></div></div><div class="bt">${esc(x.texto)}</div>`;
+}
+
+function pata(p, unico){
+  const [ico, nom, col] = est(p.estado);
+  const chip = ["verde","rojo","pendiente"].includes(p.estado) ? "" : `<span class="chip ${col}">${nom}</span>`;
+  return `<div class="pata ${p.estado==="anulada"?"anu":""}">
+    <div class="ico" title="${nom}">${ico}</div>
+    <div class="sp"><div class="pt">${esc(p.texto)}</div>${unico ? "" : `<div class="pm">${infoPata(p)}</div>`}${barra(p)}</div>
+    <div class="pr">${p.cuota ? `<b>${n2(p.cuota)}</b>` : ""}${chip}${
+      p.prob != null && !["verde","rojo","anulada"].includes(p.estado) ? `<span class="pp">${pct(p.prob)}</span>` : ""}</div></div>`;
+}
+
+function tarjeta(c, plegada){
+  const abierta = plegada ? abiertas.has(c.id) : !abiertas.has(c.id);
+  const unico = new Set(c.picks.map(p => p.partido)).size === 1;   // combi de un partido: el marcador va arriba
+  const m = c.picks.find(p => p.marcador && p.marcador[0]!=null);
+  const verdes = c.picks.filter(p => p.estado==="verde").length, cuentan = c.picks.filter(p => p.estado!=="anulada").length;
+  const tira = c.picks.map(p => `<i class="${p.estado==="va_bien"?"okb":p.estado==="anulada"?"anu":est(p.estado)[2]}"></i>`).join("");
+  return `<div class="card"><div class="cab" onclick="tog('${c.id}')">
+    <div class="r1"><div class="hora">${c.fecha.slice(11,16)}<small>${c.picks.length} patas</small></div>
+      <div class="tit">${esc(c.titulo)}</div><div class="cuota">${n2(c.cuota)}<small>cuota</small></div></div>
+    <div class="r2">${chipCombi(c)}${unico && m ? `<span class="marc">${m.marcador[0]}–${m.marcador[1]}</span>` : ""}
+      <span>${verdes} de ${cuentan} en verde</span><span class="fl">${abierta ? "▲" : "▼"}</span></div>
+    <div class="tira">${tira}</div>${lineaProb(c)}
+  </div>${abierta ? `<div class="patas">${c.picks.map(p => pata(p, unico)).join("")}</div>` : ""}</div>`;
+}
+
+function lista(cs, plegada){
+  return cs.length ? [...cs].sort((a,b) => a.fecha.localeCompare(b.fecha)).map(c => tarjeta(c, plegada)).join("")
+                   : `<div class="vacio">No hay combis guardadas para este día.</div>`;
+}
+
+// 01/11 (Marcos): arriba de cada día, cuántas han salido y cuántas han fallado
+function contador(cs){
+  if(!cs.length) return "";
+  const v = cs.filter(c => c.estado==="verde").length, r = cs.filter(c => c.estado==="rojo").length;
+  return `<div class="cont"><div><b style="color:var(--ok)">${v}</b><span>acertadas</span></div>
+    <div><b style="color:var(--ko)">${r}</b><span>falladas</span></div>
+    <div><b>${cs.length - v - r}</b><span>por jugar</span></div></div>`;
+}
+
+// 01/11 (Marcos): % de acierto por tipo de pata (mis patas resueltas + las 157 de apuestas_marcos.json)
+function porTipo(){
+  const t = D.tipos;
+  if(!t || !t.total) return "";
+  const col = p => p >= 60 ? "var(--ok)" : p >= 45 ? "var(--warn)" : "var(--ko)";
+  const top = (l, titulo) => l.length ? `<h2>${titulo}</h2><div class="lista">${l.map(x =>
+    `<div class="top"><span>${esc(x.nombre)}</span><span class="mut">${x.aciertos}/${x.n}</span><b style="color:${col(x.pct)}">${x.pct} %</b></div>`).join("")}</div>` : "";
+  return `<h2>Por tipo de pata<span>${t.aciertos}/${t.total} · ${Math.round(100*t.aciertos/t.total)} %</span></h2><div class="lista">${
+    t.familias.map(x => `<div class="fam"><div class="sp"><div class="nm">${esc(x.nombre)}</div>
+      <div class="barra ${x.pct >= 60 ? "" : x.pct >= 45 ? "warn" : "ko"}"><div style="width:${x.pct}%"></div></div>
+      <div class="bt">${x.aciertos} de ${x.n} patas</div></div><div class="pc" style="color:${col(x.pct)}">${x.pct} %</div></div>`).join("")}</div>` +
+    top(t.mejor, "Lo que más aciertas") + top(t.peor, "Lo que más fallas");
+}
+
+function historial(){
+  const pasadas = D.combis.filter(c => dia(c) < D.hoy);   // ayer también, para que cuente en el total
+  const cerradas = pasadas.filter(c => ["verde","rojo"].includes(c.estado)), v = cerradas.filter(c => c.estado==="verde").length;
+  return (pasadas.length ? `<div class="resumen"><div><b style="color:var(--ok)">${v}</b><span>verdes</span></div>
+      <div><b style="color:var(--ko)">${cerradas.length - v}</b><span>rojas</span></div>
+      <div><b>${cerradas.length ? Math.round(100*v/cerradas.length) : 0}%</b><span>aciertos</span></div></div>` : "") +
+    porTipo() +
+    (pasadas.length ? [...new Set(pasadas.map(dia))].sort().reverse().map(d => {
+      const cs = pasadas.filter(c => dia(c)===d);
+      return `<h2>${fechaLarga(d)}</h2>${contador(cs)}${lista(cs, true)}`;
+    }).join("") : `<div class="vacio">Todavía no hay combis tuyas de otros días.</div>`);
+}
+
+// 01/11 (Marcos): ayer, hoy y mañana juntos; ayer plegado porque ya está decidido
+function combis(){
+  const dias = [["Ayer", D.ayer, true], ["Hoy", D.hoy, false], ["Mañana", D.manana, false]];
+  return dias.map(([t, d, plegada]) => {
+    const cs = D.combis.filter(c => dia(c)===d);
+    return `<h2>${t} · ${fechaLarga(d)}</h2>${contador(cs)}${lista(cs, plegada)}`;
+  }).join("");
+}
+
+// 01/11 (Marcos): todos los partidos del día de nuestras ligas, aunque no haya pick
+const ORDEN = ["LaLiga","Premier League","Serie A","Bundesliga","Ligue 1","Champions League","Europa League","Conference League",
+               "Segunda División","Championship","Eredivisie","Primeira Liga"];
+const ordenLiga = l => { const i = ORDEN.indexOf(l); return i < 0 ? 99 : i; };
+
+function filaPartido(p, mios){
+  const g = p.goles || [null, null], vivo = EN_JUEGO.includes(p.estado), fin = ["FT","AET","PEN"].includes(p.estado);
+  const h = vivo ? `<div class="h vivo">${p.estado==="HT" ? "Desc." : (p.minuto ?? "") + "′"}</div>`
+          : fin ? `<div class="h fin">Final</div>` : ["PST","CANC","ABD"].includes(p.estado) ? `<div class="h fin">Aplaz.</div>`
+          : `<div class="h">${p.fecha.slice(11,16)}</div>`;
+  const eq = (n, logo, gol) => `<div class="eq">${logo ? `<img src="${esc(logo)}" alt="" loading="lazy">` : ""}<span>${esc(n)}</span>${
+    vivo || fin ? `<b>${gol ?? ""}</b>` : ""}</div>`;
+  return `<div class="partido ${mios ? "mio" : ""}">${h}<div class="eqs">${eq(p.local, p.logo_l, g[0])}${eq(p.visitante, p.logo_v, g[1])}${
+    mios ? `<div class="tuya">🎟️ En tu combi</div>` : ""}</div></div>`;
+}
+
+function partidos(){
+  const d = {ayer: D.ayer, hoy: D.hoy, manana: D.manana}[diaP];
+  const ps = (D.partidos || []).filter(p => p.fecha.slice(0,10)===d);
+  const mios = new Set(D.combis.flatMap(c => c.picks.map(p => p.partido_id)));
+  const ligas = [...new Set(ps.map(p => p.liga))].sort((a,b) => ordenLiga(a) - ordenLiga(b) || a.localeCompare(b));
+  return selDia(diaP, "diaP") +
+    (ps.length ? ligas.map(l => `<h2>${esc(l)}<span>${ps.filter(p => p.liga===l).length}</span></h2><div class="lista">${
+        ps.filter(p => p.liga===l).sort((a,b) => a.fecha.localeCompare(b.fecha)).map(p => filaPartido(p, mios.has(p.id))).join("")}</div>`).join("")
+      : `<div class="vacio">No hay partidos de nuestras ligas este día.</div>`);
+}
+
+const selDia = (k, que) => `<div class="dias">${[["ayer","Ayer"],["hoy","Hoy"],["manana","Mañana"]].map(([d,t]) =>
+  `<button class="${d===k ? "on" : ""}" onclick="${que}='${d}';pintar()">${t}</button>`).join("")}</div>`;
+const norm = t => String(t || "").toLowerCase().replace(/\s+/g, " ").trim();
+
+// 01/11 (Marcos): todos los picks (los del bot y las patas de mis combis) en lista, por hora de comienzo del partido
+function picksDia(){
+  const d = {ayer: D.ayer, hoy: D.hoy, manana: D.manana}[diaK];
+  const part = new Map((D.partidos || []).map(p => [p.id, p]));
+  const filas = (D.picks || []).filter(p => p.fecha.slice(0,10)===d).map(p => ({...p, bot: true}));
+  for(const c of D.combis) for(const x of c.picks){
+    const fecha = (part.get(x.partido_id) || {}).fecha || c.fecha;
+    if(fecha.slice(0,10)!==d) continue;
+    const igual = filas.find(p => p.partido_id===x.partido_id && norm(p.texto)===norm(x.texto));
+    if(igual){ igual.mio = true; igual.progreso = igual.progreso || x.progreso; continue; }
+    filas.push({...x, fecha, mio: true});
+  }
+  if(!filas.length) return selDia(diaK, "diaK") + `<div class="vacio">No hay picks este día.</div>`;
+  filas.sort((a,b) => a.fecha.localeCompare(b.fecha) || String(a.partido).localeCompare(b.partido));
+  const cont = contador(filas.map(p => ({estado: p.estado}))).replace("acertadas","acertados").replace("falladas","fallados");
+  // 01/11 (Marcos): una lista seguida; el partido va en pequeño debajo de cada pick (la cabecera ocupaba mucho)
+  return selDia(diaK, "diaK") + cont + `<div class="lista">${filas.map(p => {
+    const m = part.get(p.partido_id) || {}, g = m.goles || [null, null];
+    const vivo = EN_JUEGO.includes(m.estado), fin = ["FT","AET","PEN"].includes(m.estado);
+    const cuando = vivo ? `<span style="color:var(--warn);font-weight:700">${m.estado==="HT" ? "Desc." : (m.minuto ?? "") + "′"}</span>`
+                 : fin ? "Final" : p.fecha.slice(11,16);
+    const [ico, nom, col] = est(p.estado);
+    const chip = ["verde","rojo","pendiente"].includes(p.estado) ? "" : `<span class="chip ${col}">${nom}</span>`;
+    const info = [cuando, esc(p.partido) + ((vivo || fin) && g[0]!=null ? ` ${g[0]}–${g[1]}` : ""),
+                  p.bot ? `${p.pct}%` : "", p.mio ? `<span class="tuya">🎟️ Tu combi</span>` : ""].filter(Boolean).join(" · ");
+    return `<div class="pata ${p.mio ? "mio" : ""}"><div class="ico" title="${nom}">${ico}</div>
+      <div class="sp"><div class="pt">${esc(p.texto)}</div><div class="fuente">${info}</div>${barra(p)}</div>
+      <div class="pr">${p.cuota ? `<b>${n2(p.cuota)}</b>` : ""}${chip}</div></div>`;
+  }).join("")}</div>`;
+}
+
+function pintar(){
+  const n = {combis: D.combis.filter(c => dia(c)===D.hoy && !["verde","rojo","anulada"].includes(c.estado)).length,
+             partidos: (D.partidos || []).filter(p => EN_JUEGO.includes(p.estado)).length, picks: 0, hist: 0};
+  $("#sub").textContent = tab==="hist" ? "Historial" : tab==="partidos" ? "Partidos de nuestras ligas" : tab==="picks" ? "Todos los picks, por hora" : fechaLarga(D.hoy);
+  $("#vista").innerHTML = tab==="hist" ? historial() : tab==="partidos" ? partidos() : tab==="picks" ? picksDia() : combis();
+  $("#nav").innerHTML = TABS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}${
+    n[k] ? `<i class="badge">${n[k]}</i>` : ""}</button>`).join("");
+}
+function ir(k){ tab = k; abiertas.clear(); pintar(); scrollTo(0,0); }
+function tog(id){ abiertas.has(id) ? abiertas.delete(id) : abiertas.add(id); pintar(); }
+
+cargar();
+setInterval(cargar, 60000);
+document.addEventListener("visibilitychange", () => { if(!document.hidden) cargar(); });
+</script>
+</body>
+</html>

@@ -9,6 +9,8 @@ pide la alineación (1 llamada por partido, se guarda) y comprueba que el jugado
   - Post hecho a mano que aún no ha salido → te avisa para que decidas (/editar o cancelar).
   - Post ya publicado → te avisa (bet365 anula la pata si no juega; con Sustituto+ cuenta el que entre).
 
+  - Combis de Marcos («Mis combis», datos/mis_combis.json) → le avisa con un sustituto si lo hay (01/11).
+
 Estado en datos/alineaciones_posts.json.
 """
 import hashlib
@@ -426,6 +428,31 @@ def main():
         control.setdefault("cancelados", []).extend(cancelar)
         (RAIZ / "publicaciones" / "control.json").write_text(json.dumps(control, ensure_ascii=False, indent=1),
                                                             encoding="utf-8")
+    # 01/11 (Marcos): también sus combis de la app «Mis combis» (datos/mis_combis.json): si un jugador no es
+    # titular, aviso al móvil con un sustituto de su posición si lo hay (Kambwala y Toni Fernández, Como–Venezia)
+    for c in leer(DATOS / "mis_combis.json", []) or []:
+        if not c.get("sel") or c.get("fecha", "") < (ahora - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M"):
+            continue
+        fuera = []
+        for k, fid, jugador, texto_pata in patas_jugador(c, partidos):
+            if not fid or not jugador or fid not in inicio or not (-timedelta(minutes=10) <= inicio[fid] - ahora <= VENTANA):
+                continue
+            api = api or API(clave)
+            al = alineacion(api, fid, est, ahora)
+            if not al or any(es_el(jugador, n) for n in al["xi"]):
+                continue
+            clave_av = f"mis|{c['id']}|{c['sel'][k]}"
+            if clave_av in avisados:
+                continue
+            avisados.add(clave_av)
+            banco = any(es_el(jugador, n) for n in al["banquillo"])
+            pid_, m_, o_ = c["sel"][k].split("|", 2)
+            s = sustituto(int(pid_), m_, o_, al)
+            fuera.append(f"• {texto_pata} ({'banquillo' if banco else 'no convocado'})"
+                         + (f"\n   ↪️ Puedes cambiarla por: {s[2]} (x{num(s[1])})" if s else ""))
+        if fuera:
+            dm(f"📋 Alineaciones · tu combi «{c.get('titulo') or c['id']}» ({c['fecha'][11:16]}):\n"
+               + "\n".join(fuera) + "\n\nEn bet365 no te dejará meter a quien no juega: cámbiala antes de que empiece.")
     est["avisados"] = sorted(avisados)[-500:]
     limite = (ahora - timedelta(days=2)).isoformat()
     est["alineaciones"] = {k: v for k, v in (est.get("alineaciones") or {}).items() if v["hora"] > limite}

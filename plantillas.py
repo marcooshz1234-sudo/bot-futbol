@@ -234,6 +234,13 @@ def cierre(dia, tipo, lista_=False):
     return opciones[(sum(map(ord, dia + tipo))) % len(opciones)]
 
 
+# 31/10 (Marcos): en los posts con muchos picks, que se sepa que no hay que cogerlos todos. Va la última:
+# si en Threads no cabe, es lo primero que se quita (redes.threads)
+POSTS_LISTA = ("picks-manana", "picks-hoy", "ganadores", "combi-500")
+LINEA_LISTA = ("ℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos "
+               "los partidos. Quédate con los que más te gusten 👌")
+
+
 def posts_del_dia(dia, d):
     global FORMATO_27
     FORMATO_27 = dia >= FORMATO_27_DESDE   # el 27 ya está hecho a mano (cola.json)
@@ -440,6 +447,8 @@ def posts_del_dia(dia, d):
         if picks:
             primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
             hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
+        if tipo in POSTS_LISTA:   # 31/10 (Marcos): no hace falta coger todos los picks
+            texto = texto.rstrip() + "\n\n" + LINEA_LISTA
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "foto": None, "origen": "analista", "directo": True,
                        "sel": ["|".join(map(str, clave(p))) for p in picks],

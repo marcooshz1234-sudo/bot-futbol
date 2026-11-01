@@ -17,6 +17,7 @@ Además:
   - 60 min antes de cada post automático te llega el borrador con
     [✅ Vale] [✏️ Cambiar] [❌ Cancelar]. Si no contestas, sale tal cual.
   - Si le mandas un texto o una foto con texto, te pregunta si lo sube ya.
+  - Captura de tu apuesta → «📲 A mis combis»: se guarda en tu app para seguirla en directo (no se publica).
   - Si le mandas la captura de un boleto de bet365 → «🎟️ Es un boleto»: recorta el importe y las
     ganancias, te enseña cómo queda, te pide la cuota y, si dices que sí, sale en Telegram y Threads.
   - /editar → últimos posts publicados para cambiar su texto en el canal.
@@ -507,7 +508,7 @@ class Asistente:
         # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
         orig = (q.get("message") or {}).get("reply_to_message") or {}
         foto_orig = (orig.get("photo") or [{}])[-1].get("file_id")
-        if accion in ("subir", "boleto", "aprender") and not self.borrador and (foto_orig or orig.get("text")):
+        if accion in ("subir", "boleto", "aprender", "mio") and not self.borrador and (foto_orig or orig.get("text")):
             self.borrador = {"texto": orig.get("caption") or orig.get("text") or "", "foto": foto_orig,
                              "msg": orig.get("message_id")}
         if accion in ("boleto_ok", "boleto_cuota") and not self.boleto and foto_orig:
@@ -580,6 +581,8 @@ class Asistente:
             return self.recortar_boleto()
         if accion == "aprender" and self.borrador and self.borrador.get("foto"):
             return self.guardar_para_aprender()
+        if accion == "mio" and self.borrador and self.borrador.get("foto"):
+            return self.a_mis_combis()
         if accion == "boleto_cuota" and self.boleto:
             self.esperando = ("cuota_boleto",)
             return self.enviar("Dime la cuota total, por ejemplo 33,75")
@@ -605,6 +608,43 @@ class Asistente:
         destino.write_bytes(urlopen(f"https://api.telegram.org/file/bot{self.t}/{info['file_path']}", timeout=60).read())
         ok = guardar_archivos([destino], f"captura para aprender {destino.name}")
         return self.enviar("🧠 Guardada para que el bot aprenda (no se publica). Esta noche la leo con las demás."
+                           if ok else "⚠️ No he podido guardarla. Mándamela otra vez.")
+
+    # ---------------------------------------------------------------- mis combis (01/11)
+    def a_mis_combis(self):
+        """01/11 (Marcos): la captura de su apuesta de bet365 → datos/mis_combis.json (app «Mis combis»), con las
+        patas que se reconocen para seguirlas en directo. No se publica nada."""
+        b, self.borrador = self.borrador, None
+        self.enviar("⏳ Leyendo tu apuesta…")
+        try:
+            boleto, cuota = self.preparar_boleto(b["foto"], b.get("msg"))
+        except Exception as e:
+            return self.enviar(f"⚠️ No he podido leerla: {e}. Mándamela otra vez.")
+        patas = boleto.get("patas") or []
+        if not patas:
+            return self.enviar("⚠️ No leo las patas de la captura. Mándamela más nítida o dime la combi por texto.")
+        fechas = []
+        for p in patas:
+            if p.get("sel"):
+                ex = leer(RAIZ / "datos" / "proximos" / f"{p['sel'].split('|')[0]}.json", {}) or {}
+                d = ((ex.get("partido") or {}).get("fixture") or {}).get("date")
+                if d:
+                    fechas.append(datetime.fromisoformat(d).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"))
+        partidos = list(dict.fromkeys(p["partido"] for p in patas))
+        ruta = RAIZ / "datos" / "mis_combis.json"
+        mis = leer(ruta, []) or []
+        ahora = datetime.now(MADRID)
+        mis.append({"id": f"{ahora:%Y-%m-%d}-bet365-{ahora:%H%M%S}", "fecha": min(fechas) if fechas else ahora.strftime("%Y-%m-%dT%H:%M"),
+                    "titulo": " + ".join(partidos)[:80], "cuota": cuota, "cuota_bet365": cuota,
+                    "sel": [p["sel"] or f"0|?|{p['texto']}" for p in patas], "cuotas": [None] * len(patas),
+                    "textos": [p.get("texto_app") or p["texto"] for p in patas], "partidos": [p["partido"] for p in patas],
+                    "origen": "captura de bet365 desde el bot del móvil"})
+        escribir(ruta, mis)
+        ok = guardar_archivos([ruta], f"mis combis: {boleto['id']}")
+        ok_n = sum(1 for p in patas if p.get("sel"))
+        lista = "".join(f"\n{'✅' if p.get('sel') else '❓'} {p.get('texto_app') or p['texto']}" for p in patas)
+        return self.enviar((f"📲 Guardada en tus combis{f' (x{cuota:.2f})'.replace('.', ',') if cuota else ''}. "
+                            f"Sigo {ok_n} de {len(patas)} patas en directo:{lista}")
                            if ok else "⚠️ No he podido guardarla. Mándamela otra vez.")
 
     # ---------------------------------------------------------------- boletos de bet365
@@ -771,6 +811,8 @@ class Asistente:
             botones.insert(0, [("🎟️ Es un boleto de bet365 (recorto el dinero)", "boleto")])
             # 30/10 (Marcos): sus apuestas (abiertas, ganadas, perdidas o con cash out) para que el bot aprenda
             botones.insert(1, [("🧠 Solo para que aprenda (no se publica)", "aprender")])
+            # 01/11 (Marcos): su apuesta a su app «Mis combis» para seguirla en directo (no se publica)
+            botones.insert(1, [("📲 A mis combis (no se publica)", "mio")])
         return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones, responder=m.get("message_id"))
 
     # ---------------------------------------------------------------- bucle
