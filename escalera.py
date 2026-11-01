@@ -37,8 +37,8 @@ PAUSADAS = {"2026-10-29": (140, 141, 143)}
 # 01/11 (Marcos: «mejora las escaleras, no salen nunca»): 3 verdes de 10, nunca pasó del escalón 2. Casi siempre
 # falló la pata floja (más de 2,5, córners, «gana alguna parte», Sevilla o empate con 45 %...). Ahora se elige de lo
 # mismo que las combis (combis_dia.pool_partido, con todas las lecciones, árbitro y jugadores fijos): solo patas que
-# el bot ve al 72 % o más, sin córners ni tarjetas, 2 o 3 de partidos distintos y la pareja/trío MÁS PROBABLE.
-SEGURA = {"prob_min": 0.72, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
+# el bot ve al 68 % o más (ya corregido con lo que acierta de verdad, 01/11), sin córners ni tarjetas, 2 o 3 de partidos distintos y la pareja/trío MÁS PROBABLE.
+SEGURA = {"prob_min": 0.68, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
 FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
 
 
