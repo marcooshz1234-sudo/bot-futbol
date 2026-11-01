@@ -226,5 +226,10 @@
   "2026-11-01-ganadores": {
     "enviado": "2026-11-01T01:00",
     "mensaje_id": 217
+  },
+  "2026-11-01-combi-partido-1575534": {
+    "enviado": "2026-11-01T01:30",
+    "mensaje_id": 218,
+    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1575534.tarjeta.jpg"
   }
 }
