@@ -2597,7 +2597,7 @@
    }
   },
   "1569993": {
-   "hora": "2026-11-01T17:32:25.995541+01:00",
+   "hora": "2026-11-01T17:42:51.137200+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
@@ -2607,6 +2607,155 @@
    "xi": [],
    "banquillo": [],
    "equipos": {}
+  },
+  "1550184": {
+   "hora": "2026-11-01T17:42:51.137200+01:00",
+   "xi": [
+    "W. Falcone",
+    "Danilo Veiga",
+    "J. Siebert",
+    "Tiago Gabriel",
+    "A. Gallo",
+    "Olaf Gorter",
+    "O. Ngom",
+    "Y. Maleh",
+    "K. N’Dri",
+    "N. Štulić",
+    "Joël Monteiro",
+    "J. Bijlow",
+    "A. Marcandalli",
+    "L. Østigård",
+    "J. Vásquez",
+    "M. Ellertsson",
+    "M. Frendrup",
+    "S. Wiafe",
+    "H. Traorè",
+    "Junior Messias",
+    "S. El Shaarawy",
+    "M. Osmajić"
+   ],
+   "banquillo": [
+    "A. Dembélé",
+    "A. Ahmed Fatah",
+    "C. Ndaba",
+    "M. Bleve",
+    "A. Borbei",
+    "Paco Esteban",
+    "S. Fofana",
+    "O. Gandelman",
+    "G. Jean",
+    "M. Kaba",
+    "E. Scott",
+    "Alexsandro Amorim",
+    "T. Baldanzi",
+    "Vítinha",
+    "L. Colombo",
+    "C. Drameh",
+    "K. Ehizibue",
+    "Lukas Klišys",
+    "S. Otoa",
+    "E. Meichtry",
+    "M. Mitaj",
+    "D. Puczka",
+    "S. Sabelli",
+    "F. Stolz",
+    "D. Sow",
+    "D. Sommariva"
+   ],
+   "equipos": {
+    "867": [
+     {
+      "n": "W. Falcone",
+      "pos": "G"
+     },
+     {
+      "n": "Danilo Veiga",
+      "pos": "D"
+     },
+     {
+      "n": "J. Siebert",
+      "pos": "D"
+     },
+     {
+      "n": "Tiago Gabriel",
+      "pos": "D"
+     },
+     {
+      "n": "A. Gallo",
+      "pos": "D"
+     },
+     {
+      "n": "Olaf Gorter",
+      "pos": "M"
+     },
+     {
+      "n": "O. Ngom",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Maleh",
+      "pos": "M"
+     },
+     {
+      "n": "K. N’Dri",
+      "pos": "F"
+     },
+     {
+      "n": "N. Štulić",
+      "pos": "F"
+     },
+     {
+      "n": "Joël Monteiro",
+      "pos": "F"
+     }
+    ],
+    "495": [
+     {
+      "n": "J. Bijlow",
+      "pos": "G"
+     },
+     {
+      "n": "A. Marcandalli",
+      "pos": "D"
+     },
+     {
+      "n": "L. Østigård",
+      "pos": "D"
+     },
+     {
+      "n": "J. Vásquez",
+      "pos": "D"
+     },
+     {
+      "n": "M. Ellertsson",
+      "pos": "M"
+     },
+     {
+      "n": "M. Frendrup",
+      "pos": "M"
+     },
+     {
+      "n": "S. Wiafe",
+      "pos": "M"
+     },
+     {
+      "n": "H. Traorè",
+      "pos": "M"
+     },
+     {
+      "n": "Junior Messias",
+      "pos": "M"
+     },
+     {
+      "n": "S. El Shaarawy",
+      "pos": "M"
+     },
+     {
+      "n": "M. Osmajić",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
