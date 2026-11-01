@@ -4,7 +4,8 @@
   "2026-10-30-combi-partido-1563233|Thomas Cannon comete 1+ faltas",
   "2026-10-31-combi-loca|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
-  "2026-10-31-combi-tres|Cian Ashford: 1+ tiros"
+  "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
+  "mis|2026-11-01-liverpool-arsenal|1557453|Player Fouls Committed|Dominik Szoboszlai - 1"
  ],
  "alineaciones": {
   "1563233": {
@@ -2455,10 +2456,145 @@
    }
   },
   "1557453": {
-   "hora": "2026-11-01T16:50:32.231206+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T17:01:43.632144+01:00",
+   "xi": [
+    "Alisson Becker",
+    "R. Araújo",
+    "J. Jacquet",
+    "V. van Dijk",
+    "M. Kerkez",
+    "A. Mac Allister",
+    "T. Nyoni",
+    "B. Barcola",
+    "F. Wirtz",
+    "C. Gakpo",
+    "A. Isak",
+    "David Raya",
+    "J. Timber",
+    "E. Konsa",
+    "Gabriel Magalhães",
+    "R. Calafiori",
+    "D. Rice",
+    "Bruno Guimarães",
+    "N. Madueke",
+    "M. Ødegaard",
+    "C. Tzolis",
+    "K. Havertz"
+   ],
+   "banquillo": [
+    "R. Ngumoha",
+    "L. Koumas",
+    "Víctor Muñoz",
+    "D. Szoboszlai",
+    "R. Gravenberch",
+    "W. Endo",
+    "K. Tsimikas",
+    "J. Gomez",
+    "G. Mamardashvili",
+    "Martín Zubimendi",
+    "V. Gyökeres",
+    "Kepa",
+    "Cristhian Mosquera",
+    "B. White",
+    "P. Hincapié",
+    "M. Lewis-Skelly",
+    "E. Eze",
+    "Mikel Merino"
+   ],
+   "equipos": {
+    "40": [
+     {
+      "n": "Alisson Becker",
+      "pos": "G"
+     },
+     {
+      "n": "R. Araújo",
+      "pos": "D"
+     },
+     {
+      "n": "J. Jacquet",
+      "pos": "D"
+     },
+     {
+      "n": "V. van Dijk",
+      "pos": "D"
+     },
+     {
+      "n": "M. Kerkez",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mac Allister",
+      "pos": "M"
+     },
+     {
+      "n": "T. Nyoni",
+      "pos": "M"
+     },
+     {
+      "n": "B. Barcola",
+      "pos": "M"
+     },
+     {
+      "n": "F. Wirtz",
+      "pos": "M"
+     },
+     {
+      "n": "C. Gakpo",
+      "pos": "M"
+     },
+     {
+      "n": "A. Isak",
+      "pos": "F"
+     }
+    ],
+    "42": [
+     {
+      "n": "David Raya",
+      "pos": "G"
+     },
+     {
+      "n": "J. Timber",
+      "pos": "D"
+     },
+     {
+      "n": "E. Konsa",
+      "pos": "D"
+     },
+     {
+      "n": "Gabriel Magalhães",
+      "pos": "D"
+     },
+     {
+      "n": "R. Calafiori",
+      "pos": "D"
+     },
+     {
+      "n": "D. Rice",
+      "pos": "M"
+     },
+     {
+      "n": "Bruno Guimarães",
+      "pos": "M"
+     },
+     {
+      "n": "N. Madueke",
+      "pos": "M"
+     },
+     {
+      "n": "M. Ødegaard",
+      "pos": "M"
+     },
+     {
+      "n": "C. Tzolis",
+      "pos": "M"
+     },
+     {
+      "n": "K. Havertz",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1569993": {
    "hora": "2026-11-01T16:56:39.072840+01:00",
