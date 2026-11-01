@@ -34,10 +34,60 @@ NIVELES = [{"valor": True, "rango": (CUOTA_MIN, CUOTA_MAX), "jugador": False},
 PAUSADAS = {"2026-10-29": (140, 141, 143)}
 
 
+# 01/11 (Marcos: «mejora las escaleras, no salen nunca»): 3 verdes de 10, nunca pasó del escalón 2. Casi siempre
+# falló la pata floja (más de 2,5, córners, «gana alguna parte», Sevilla o empate con 45 %...). Ahora se elige de lo
+# mismo que las combis (combis_dia.pool_partido, con todas las lecciones, árbitro y jugadores fijos): solo patas que
+# el bot ve al 72 % o más, sin córners ni tarjetas, 2 o 3 de partidos distintos y la pareja/trío MÁS PROBABLE.
+SEGURA = {"prob_min": 0.72, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
+FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
+
+
+def elegir_pool(fecha):
+    import itertools
+    import math
+    import combis_dia as C
+    import picks as P
+    hist = P.historial()
+    ap = leer(DATOS / "aprendizaje.json") or {}
+    limite = (datetime.now(MADRID) + timedelta(minutes=40)).strftime("%Y-%m-%dT%H:%M")
+    pausadas = PAUSADAS.get(fecha, ())
+    cand = []
+    for f in C.EXTRA.glob("*.json"):
+        ex = leer(f) or {}
+        pa = ex.get("partido")
+        if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != fecha:
+            continue
+        for p in C.pool_partido(ex, hist, ap):
+            k = f"{p['mercado']}|{p['opcion']}"
+            if p["prob_aprendida"] < SEGURA["prob_min"] or any(x in k for x in FUERA) or p["fecha"] <= limite \
+                    or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]):
+                continue
+            cand.append(p)
+            break   # la mejor de cada partido
+    cand = sorted(cand, key=lambda p: -p["prob_aprendida"])[:14]
+    mejor = None
+    for n in range(SEGURA["patas"][0], SEGURA["patas"][1] + 1):
+        for comb in itertools.combinations(cand, n):
+            c = math.prod(p["cuota"] for p in comb)
+            if not SEGURA["rango"][0] <= c <= SEGURA["rango"][1]:
+                continue
+            pr = math.prod(p["prob_aprendida"] for p in comb)
+            if pr >= SEGURA["comb_min"] and (not mejor or pr > mejor[0]):
+                mejor = (pr, list(comb), round(c, 2))
+    return mejor
+
+
 def elegir(dia, compartir=False, fecha=None):
     """Dos picks de partidos distintos con cuota total en rango, los más fiables primero.
     No comparte selección con la combi segura del mismo día; si así no sale ninguna pareja, se permite
     (26/10: ese día la escalera se quedó sin escalón por esa regla)."""
+    if fecha:
+        try:
+            r = elegir_pool(fecha)
+            if r:
+                return r
+        except Exception as e:
+            print("escalera (pool):", str(e)[:150])
     for nivel in NIVELES:
         r = elegir_(dia, compartir, nivel, fecha) or (None if compartir else elegir_(dia, True, nivel, fecha))
         if r:
