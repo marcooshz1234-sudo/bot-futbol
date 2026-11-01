@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01 14:24",
+ "actualizado": "2026-11-01 14:35",
  "redes": {
   "instagram": {
    "seguidores": 21,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 196,
-   "hoy": 20,
+   "seguidores": 197,
+   "hoy": 21,
    "serie": [
     69,
     80,
@@ -50,17 +50,17 @@
     126,
     165,
     176,
-    196
+    197
    ]
   }
  },
- "total": 1622,
- "total_hoy": 50,
+ "total": 1623,
+ "total_hoy": 51,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "15:15",
   "dia": "2026-11-01",
-  "titulo": "Combi Union Berlin vs 1. Fc Köln"
+  "titulo": "Combi Racing Santander vs Real Madrid"
  },
  "ayer": {
   "aciertos": 69,
@@ -128,7 +128,7 @@
    "instagram": 21,
    "threads": 1405,
    "facebook": 0,
-   "telegram": 196
+   "telegram": 197
   }
  },
  "tipos_instagram": {

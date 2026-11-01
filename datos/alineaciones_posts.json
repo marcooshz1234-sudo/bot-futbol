@@ -2016,10 +2016,157 @@
    }
   },
   "1550183": {
-   "hora": "2026-11-01T14:24:30.681108+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-01T14:35:09.160883+01:00",
+   "xi": [
+    "R. Belahyane",
+    "C. Mandas",
+    "M. Zaccagni",
+    "K. Taylor",
+    "Nuno Tavares",
+    "R. Floriani Mussolini",
+    "D. Frattesi",
+    "G. Isaksen",
+    "T. Noslin",
+    "O. Provstgaard",
+    "J. Šutalo",
+    "M. Adopo",
+    "A. Deiola",
+    "A. Fadera",
+    "J. Fazzini",
+    "D. Maldini",
+    "M&apos;Bala Nzola",
+    "A. Obert",
+    "Zé Pedro",
+    "J. Rodríguez",
+    "A. Romano",
+    "E. Caprile"
+   ],
+   "banquillo": [
+    "M. Cancellieri",
+    "Ricardo Bordon",
+    "D. Cataldi",
+    "Filipe Bordon",
+    "F. Dele-Bashiru",
+    "D. Doekhi",
+    "V. Farcomeni",
+    "M. Lazzari",
+    "Diogo Leite",
+    "E. Motta",
+    "Pedraza",
+    "L. Pellegrini",
+    "A. Pinamonti",
+    "A. Przyborek",
+    "D. Renzetti",
+    "Kevin Carlos",
+    "R. Kofler",
+    "J. Liteta",
+    "Y. Massolin",
+    "P. Mendy",
+    "Y. Mina",
+    "B. Radunović",
+    "A. Sherri",
+    "Y. Sugawara",
+    "Ivan Stoyanov Sulev",
+    "Y. Trepy",
+    "H. Winks",
+    "R. Ciervo",
+    "G. Aurelio",
+    "R. Gagliardini"
+   ],
+   "equipos": {
+    "487": [
+     {
+      "n": "R. Belahyane",
+      "pos": "M"
+     },
+     {
+      "n": "C. Mandas",
+      "pos": "G"
+     },
+     {
+      "n": "M. Zaccagni",
+      "pos": "M"
+     },
+     {
+      "n": "K. Taylor",
+      "pos": "M"
+     },
+     {
+      "n": "Nuno Tavares",
+      "pos": "D"
+     },
+     {
+      "n": "R. Floriani Mussolini",
+      "pos": "D"
+     },
+     {
+      "n": "D. Frattesi",
+      "pos": "M"
+     },
+     {
+      "n": "G. Isaksen",
+      "pos": "F"
+     },
+     {
+      "n": "T. Noslin",
+      "pos": "F"
+     },
+     {
+      "n": "O. Provstgaard",
+      "pos": "D"
+     },
+     {
+      "n": "J. Šutalo",
+      "pos": "D"
+     }
+    ],
+    "490": [
+     {
+      "n": "M. Adopo",
+      "pos": "M"
+     },
+     {
+      "n": "A. Deiola",
+      "pos": "M"
+     },
+     {
+      "n": "A. Fadera",
+      "pos": "F"
+     },
+     {
+      "n": "J. Fazzini",
+      "pos": "M"
+     },
+     {
+      "n": "D. Maldini",
+      "pos": "M"
+     },
+     {
+      "n": "M&apos;Bala Nzola",
+      "pos": "F"
+     },
+     {
+      "n": "A. Obert",
+      "pos": "D"
+     },
+     {
+      "n": "Zé Pedro",
+      "pos": "D"
+     },
+     {
+      "n": "J. Rodríguez",
+      "pos": "D"
+     },
+     {
+      "n": "A. Romano",
+      "pos": "M"
+     },
+     {
+      "n": "E. Caprile",
+      "pos": "G"
+     }
+    ]
+   }
   },
   "1575207": {
    "hora": "2026-11-01T14:29:35.114810+01:00",
