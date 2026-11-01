@@ -1356,7 +1356,7 @@
   {
     "id": "2026-11-01-combi-partido-1570437",
     "fecha": "2026-11-01T17:30",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ELCHE vs VALENCIA 🇪🇸\n\n🎯 ELCHE O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.40]\n✅ VALENCIA MARCA [x1.36]\n✅ ELCHE HACE MÁS TIROS A PUERTA [x1.67]\n✅ ELCHE VE MÁS DE 2,5 TARJETAS [x1.91]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 9,53\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 ELCHE vs VALENCIA 🇪🇸\n\n🎯 ELCHE O EMPATE [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.40]\n✅ VALENCIA MARCA [x1.33]\n✅ ELCHE HACE MÁS TIROS A PUERTA [x1.67]\n✅ ELCHE VE MÁS DE 2,5 TARJETAS [x1.83]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 8,93\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1370,9 +1370,9 @@
     "cuotas": [
       1.36,
       1.4,
-      1.36,
+      1.33,
       1.67,
-      1.91
+      1.83
     ],
     "tarjeta": {
       "local": "Elche",
@@ -1383,7 +1383,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/532.png",
       "fecha": "2026-11-01T18:30",
       "liga": "LaLiga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-01T16:01"
   },
   {
     "id": "2026-11-01-combi-partido-1550182",
