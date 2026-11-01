@@ -49,6 +49,8 @@ jobs:
         run: python -u limpiar_media.py || echo "limpiar_media falló (no bloquea)"
       - name: Informe de rendimiento del mes (01/11, va a Obsidian)
         run: python -u rendimiento.py || echo "rendimiento falló (no bloquea)"
+      - name: Informe de redes del mes (01/11, va a Obsidian)
+        run: python -u redes_informe.py || echo "redes_informe falló (no bloquea)"
       - name: Guardar cambios
         run: |
           git config user.name "bot-futbol"
