@@ -177,6 +177,9 @@ STATS_OU = {
     "Offsides Home Total": ("fueras_juego", "home"), "Offsides Away Total": ("fueras_juego", "away"),
     "Saves O/U Home": ("paradas", "home"), "Saves O/U Away": ("paradas", "away"),
     "Total Corners (1st Half)": ("corners_1h", "total"), "Total Corners (2nd Half)": ("corners_2h", "total"),
+    # 02/11: córners de un equipo en una parte (Marcos: «Everton más de 1 córner en la 1ª mitad»)
+    "Home Corners (1st Half)": ("corners_1h", "home"), "Away Corners (1st Half)": ("corners_1h", "away"),
+    "Home Corners (2nd Half)": ("corners_2h", "home"), "Away Corners (2nd Half)": ("corners_2h", "away"),
 }
 STATS_1X2 = {"Corners 1x2": "corners", "ShotOnTarget 1x2": "a_puerta", "Shots.1x2": "tiros"}
 
