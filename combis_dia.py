@@ -33,6 +33,8 @@ NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (5, 5), "cuota": (5.0, 7.0), "has
 PROB_MIN_RELAJADA = 0.35   # 29/10 (Marcos): cuota 7-10 siempre; si no sale, patas desde el 35 %
 FACTOR_MIN = 0.33   # 30/10: Elversberg–Mainz multiplicaba 15,63 y bet365 pagaba 6,00 (0,38): con 0,45 no podía bajar de 7
 EUROPA = (2, 3, 848)   # Champions, Europa League, Conference
+EUROPA_MAX = 5          # 02/11 (Marcos): 4-5 combis con escudos de esos partidos
+LISTAS_EUROPA = {"horas": ((12, 0), (15, 0), (17, 30)), "picks": (12, 15), "prob_min": 0.55}   # 02/11: 2-3 listas de 12-15 picks
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0), "por_partido": 2, "min_jugadores": 2}   # 01/11 (Marcos): lo mejor de cada partido, 1 o 2 cosas
 PROB_MIN_MULTI = 0.60
@@ -708,6 +710,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     partidos = []
     for pool in pools:
         r = combi_partido(pool, PARTIDO)
+        if not r and pool[0].get("liga_id") in EUROPA:   # 02/11: en las europeas, si no hay de 4, de 3 cosas desde cuota 3
+            r = mejor_combi([p for p in pool if familia(p) not in SIN_EN_ESCUDOS], (3, 3), (3.0, PARTIDO["cuota"][1]), PROB_MIN_RELAJADA)
         if r:
             b = pool[0]
             cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
@@ -717,9 +721,10 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # si hay 3 o más, como mucho 1 de otras competiciones
     europa = lambda cp: cp.get("liga_id") in EUROPA
     partidos.sort(key=lambda x: (not europa(x[2]), -x[0], -x[1]))
-    if sum(1 for x in partidos if europa(x[2])) >= 3:
-        otros = [x for x in partidos if not europa(x[2])][:1]
-        partidos = [x for x in partidos if europa(x[2])] + otros
+    # 02/11 (Marcos): «los días de competiciones europeas solo quiero escudos de ellas» (4-5 combis de esos partidos)
+    dia_europeo = any(europa(x[2]) for x in partidos)
+    if dia_europeo:
+        partidos = [x for x in partidos if europa(x[2])]
     # 29/10 (Marcos): por la noche SIEMPRE combis con escudos (dan muchos seguidores) de los partidos más grandes del
     # día (la de las 00:30, la del más grande, p. ej. el PSG). Esa combi es la buena; la de su hora del mismo partido
     # se rehace con otras selecciones y, si no da para otra, ese partido solo sale de noche.
@@ -752,8 +757,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # 27/10 (norma de Marcos): si entre los 3 mejores no hay equipo español, entra el mejor partido español
     # (en España bet365 suele dar aumentos y apuestas aseguradas)
     espanol = lambda cp: cp.get("liga_id") in (140, 141, 143)
-    top = partidos[:PARTIDO["max"]]
-    if not any(espanol(x[2]) for x in top[:3]):
+    top = partidos[:EUROPA_MAX if dia_europeo else PARTIDO["max"]]
+    if not dia_europeo and not any(espanol(x[2]) for x in top[:3]):
         esp = next((x for x in partidos if espanol(x[2])), None)
         if esp and esp not in top:
             top = top[:3] + [esp] + top[3:PARTIDO["max"] - 1]
@@ -792,6 +797,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             res["noche"].append((cp, c, datos_tarjeta(cp), f0n.replace(hour=h, minute=m)))
     # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
     # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
+    res["listas_europa"] = listas_europa(pools, dia) if dia_europeo else []
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
     quita = {cp["partido_id"] for cp, *_ in res["estrella"] if cp.get("repite")}
     if quita:   # el partido estrella sustituye a su combi con escudos
@@ -902,6 +908,41 @@ def ranking_top():
     """02/11: {equipo: puesto} del top 40 mundial (datos/top40.json)."""
     from bot import DATOS
     return {e: i + 1 for i, e in enumerate((leer(DATOS / "top40.json", {}) or {}).get("equipos") or [])}
+
+
+def listas_europa(pools, dia):
+    """02/11 (Marcos): días europeos, 2-3 posts a distintas horas con 12-15 picks de esos partidos («coged los que más
+    os gusten»). [(hora, picks)]. Cada lista, de partidos que empiezan 30 min o más después del post; sin repetir
+    picks entre listas; como mucho 2 por partido en cada lista."""
+    f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
+    cands = []
+    for pool in pools:
+        if not pool or pool[0].get("liga_id") not in EUROPA:
+            continue
+        cands += [p for p in pool if p["prob_aprendida"] >= LISTAS_EUROPA["prob_min"] and familia(p) not in SIN_EN_ESCUDOS]
+    cands.sort(key=lambda p: -p["prob_aprendida"])
+    from collections import Counter
+    usados, salida = Counter(), []
+    for h, m in LISTAS_EUROPA["horas"]:
+        hora = f0.replace(hour=h, minute=m)
+        lista, por = [], {}
+        # primero lo que no ha salido en otra lista; luego, lo que ha salido una vez (como mucho en 2 listas)
+        for p in sorted(cands, key=lambda p: (usados[(p["partido_id"], p["mercado"], p["opcion"])], -p["prob_aprendida"])):
+            k = (p["partido_id"], p["mercado"], p["opcion"])
+            if usados[k] >= 2 or datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=30):
+                continue
+            if por.get(p["partido_id"], 0) >= 2 or any(p.get("jugador") and p.get("jugador") == q.get("jugador") for q in lista):
+                continue
+            lista.append(p)
+            por[p["partido_id"]] = por.get(p["partido_id"], 0) + 1
+            if len(lista) >= LISTAS_EUROPA["picks"][1]:
+                break
+        if len(lista) >= LISTAS_EUROPA["picks"][0]:
+            if salida and {(p["partido_id"], p["mercado"], p["opcion"]) for p in lista} <= {(p["partido_id"], p["mercado"], p["opcion"]) for _, l in salida for p in l}:
+                continue   # nada nuevo
+            usados.update((p["partido_id"], p["mercado"], p["opcion"]) for p in lista)
+            salida.append((hora, sorted(lista, key=lambda p: p["fecha"])))
+    return salida
 
 
 def top_equipos(n=ESTRELLA["top"]):

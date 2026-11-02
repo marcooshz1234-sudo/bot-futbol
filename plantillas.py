@@ -283,6 +283,30 @@ def cierre(dia, tipo, lista_=False):
 # 31/10 (Marcos): en los posts con muchos picks, que se sepa que no hay que cogerlos todos. Va la última:
 # si en Threads no cabe, es lo primero que se quita (redes.threads)
 POSTS_LISTA = ("ganadores", "combi-500")   # 02/11: en picks para hoy/mañana ya lo dice la línea de combinar
+def texto_lista_europa(sel, i, n):
+    """02/11: lista de 12-15 picks de Champions/Europa; la gente coge los que más le gusten."""
+    from combis_dia import EUROPA
+    comps = {p.get("liga_id") for p in sel}
+    titulo = "CHAMPIONS" if comps == {2} else "EUROPA LEAGUE" if comps == {3} else "COPAS EUROPEAS"
+    import re
+
+    def corto_pick(t):   # para que quepan 12-15 en Threads (500)
+        t = re.sub(r"Gol en la 1ª parte del .*", lambda m: "Gol 1ª parte " + m.group(0).split(" del ", 1)[1], t)
+        t = re.sub(r"Gol en la 2ª parte del .*", lambda m: "Gol 2ª parte " + m.group(0).split(" del ", 1)[1], t)
+        t = t.replace("Paris Saint Germain", "PSG").replace("Manchester United", "Man Utd").replace("Manchester City", "Man City")
+        t = t.replace(" gana alguna de las dos partes", " gana una parte").replace(" comete 1+ faltas", ": 1+ falta")
+        t = t.replace("tiros a puerta", "a puerta")
+        return t
+    while True:
+        lineas = [f"🏆⚽ {titulo} · {len(sel)} PICKS PARA HOY 🍀" + (f" ({i}/{n})" if n > 1 else ""), ""]
+        lineas += [f"✅ {corto_pick(p['texto'])}" for p in sel]
+        lineas += ["", "👉 ¡Coge los que más te gusten! ✅", "", "💚 Más picks GRATIS en @combilocas"]
+        texto = "\n".join(lineas)
+        if len(texto) <= 495 or len(sel) <= 10:
+            return texto, sel
+        sel = sel[:-1]
+
+
 def combinar(sel):
     """02/11 (Marcos): «combina máximo 2 o 3» solo si hay 5 picks o más; con menos no tiene sentido."""
     return "⚽ ¡Combina máximo 2 o 3! ✅" if len(sel) >= 5 else "⚽ ¡Cógelos sueltos o combínalos! ✅"
@@ -329,6 +353,9 @@ def posts_del_dia(dia, d):
             ps, hs = cd["seguro"]
             posts.append(("pick-seguro", hs, [ps], texto_seguro(ps)))
             apuntar([ps])
+        for i, (hora, sel) in enumerate(cd.get("listas_europa") or [], 1):   # 02/11 (Marcos): mucho contenido de Champions
+            texto_l, sel = texto_lista_europa(sel, i, len(cd["listas_europa"]))   # sel recortado igual que el texto
+            posts.append((f"lista-europa-{i}", hora, sel, texto_l))
         for cp, cuota, hora in cd.get("estrella") or []:   # 01/11 (Marcos): partido estrella (top 4 de las 5 grandes)
             posts.append((f"estrella-{cp['partido_id']}", hora, cp["picks"], texto_estrella(cp, cuota)))
             apuntar(cp["picks"])
