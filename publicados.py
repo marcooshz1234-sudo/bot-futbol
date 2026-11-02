@@ -43,6 +43,8 @@ def lineas(texto):
         m = re.search(r"·\s*~?(\d+[.,]\d+)\s*$", l.strip())
         if re.search(r"(?i)cuota|€|🆚|\bVS\b", l):
             continue
+        if re.search(r"(?i)pleno|¡\s*verde|otro verde|\d+ de \d+!", l):   # 02/11: títulos («✅ ¡PLENO 10 DE 10!»)
+            continue
         if not m and not re.match(r"^\s*(?:✅|\d[.)]|\d️⃣|[🇦-🇿])", l):
             continue
         cuerpo = l.strip()[:m.start()].strip() if m else l.strip()

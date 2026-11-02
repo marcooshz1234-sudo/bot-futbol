@@ -765,6 +765,11 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
     # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
+    quita = {cp["partido_id"] for cp, *_ in res["estrella"] if cp.get("repite")}
+    if quita:   # el partido estrella sustituye a su combi con escudos
+        res["partidos"] = [x for x in res["partidos"] if x[0]["partido_id"] not in quita]
+        res["noche"] = [x for x in res["noche"] if x[0]["partido_id"] not in quita]
+        salida = res["partidos"]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
     res["seguro"] = pick_seguro(pools, dia)
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
@@ -786,13 +791,23 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         mejores.sort(key=lambda p: -p["prob_aprendida"])
         r = mejor_combi(mejores, cfg["patas"], cfg["cuota"], una_por_partido=True,
                         por_partido=cfg.get("por_partido", 1), min_jugadores=cfg.get("min_jugadores", 0))
+        if not r:   # 02/11: el lunes no salió la loca (con las probabilidades corregidas no llegaba): se afloja un poco
+            mas = []
+            for pool in pools:
+                ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI - 0.08 and usos[sel(p)] < 2
+                      and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
+                mas += ok[:cfg.get("por_partido", 1) + 1]
+            mas.sort(key=lambda p: -p["prob_aprendida"])
+            r = mejor_combi(mas, (cfg["patas"][0], cfg["patas"][1] + 1), (cfg["cuota"][0] * 0.85, cfg["cuota"][1]),
+                            una_por_partido=True, por_partido=cfg.get("por_partido", 1), min_jugadores=0)
         res[clave] = (r[1], r[2], hora) if r else None
         if r:
             usos.update(sel(p) for p in r[1])
     return res
 
 
-ESTRELLA = {"top": 4, "ligas": (140, 39, 135, 78, 61), "patas": (4, 4), "cuota": (4.0, 8.0), "max": 2, "antes_h": 3}
+ESTRELLA = {"top": 4, "ligas": (140, 39, 135, 78, 61, 2, 3),   # 02/11: también Champions y Europa League con un top
+            "patas": (3, 5), "cuota": (4.0, 8.0), "max": 2, "antes_h": 3}   # 02/11: de 3 a 5 cosas (antes 4 justas)
 
 
 def top_equipos(n=ESTRELLA["top"]):
@@ -821,9 +836,16 @@ def estrellas(pools, ya, dia):
                   and familia(p) not in SIN_EN_ESCUDOS]
         r = (mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PARTIDO["prob_min"])
              or mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PROB_MIN_RELAJADA))
+        repite = False
+        if not r:   # 02/11: sin cosas libres, el estrella se queda con las mejores y la combi con escudos de ese partido no sale
+            todas = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
+            r = (mejor_combi(todas, ESTRELLA["patas"], ESTRELLA["cuota"], PARTIDO["prob_min"])
+                 or mejor_combi(todas, ESTRELLA["patas"], ESTRELLA["cuota"], PROB_MIN_RELAJADA))
+            repite = bool(r)
         if not r:
             continue
         cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
+        cp["repite"] = repite
         cp["picks"] = r[1]
         inicio = datetime.fromisoformat(b["fecha"]).replace(tzinfo=MADRID)
         hora = max(inicio - timedelta(hours=ESTRELLA["antes_h"]), inicio.replace(hour=10, minute=0))
