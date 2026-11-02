@@ -898,14 +898,21 @@ def jugadores_estrella(fid):
     return list(salida.values())   # 02/11: de 3 a 5 cosas (antes 4 justas)
 
 
+def ranking_top():
+    """02/11: {equipo: puesto} del top 40 mundial (datos/top40.json)."""
+    from bot import DATOS
+    return {e: i + 1 for i, e in enumerate((leer(DATOS / "top40.json", {}) or {}).get("equipos") or [])}
+
+
 def top_equipos(n=ESTRELLA["top"]):
-    """Los n primeros de la clasificación de cada una de las 5 grandes ligas."""
+    """Los n primeros de la clasificación de cada una de las 5 grandes ligas y (02/11) el top 40 mundial."""
+    out = set(ranking_top())
     try:
         import app_datos
-        return {x["equipo"] for filas in app_datos.clasificaciones().values() for x in filas[:n]}
+        out |= {x["equipo"] for filas in app_datos.clasificaciones().values() for x in filas[:n]}
     except Exception as e:
         print("top equipos:", str(e)[:120])
-        return set()
+    return out
 
 
 def estrellas(pools, ya, dia):
@@ -946,9 +953,11 @@ def estrellas(pools, ya, dia):
         cp["picks"] = r[1]
         inicio = datetime.fromisoformat(b["fecha"]).replace(tzinfo=MADRID)
         hora = max(inicio - timedelta(hours=ESTRELLA["antes_h"]), inicio.replace(hour=10, minute=0))
-        cands.append((n, r[2], cp, hora))
-    cands.sort(key=lambda x: (-x[0], x[3]))
-    return [(cp, c, h) for _, c, cp, h in cands[:ESTRELLA["max"]]]
+        rk = ranking_top()
+        mejor_puesto = sum(rk.get(eq, 60) for eq in (b["local"], b["visitante"]))   # 02/11: desempate por el top 40
+        cands.append((n, r[2], cp, hora, mejor_puesto))
+    cands.sort(key=lambda x: (-x[0], x[4], x[3]))
+    return [(cp, c, h) for _, c, cp, h, _ in cands[:ESTRELLA["max"]]]
 
 
 SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador"), "hora": (10, 30), "prob_min": 0.62}
