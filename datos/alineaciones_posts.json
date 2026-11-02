@@ -2066,10 +2066,288 @@
    }
   },
   "1550185": {
-   "hora": "2026-11-02T17:59:20.638238+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-02T18:10:27.567418+01:00",
+   "xi": [
+    "S. Turati",
+    "S. Walukiewicz",
+    "Fali Candé",
+    "J. Idzes",
+    "J. Doig",
+    "I. Sulemana",
+    "N. Matić",
+    "Vasilije Adžić",
+    "D. Berardi",
+    "S. Esposito",
+    "A. Laurienté",
+    "David de Gea",
+    "Álex Jiménez",
+    "R. Drăgușin",
+    "Viery",
+    "João Mário",
+    "C. Ndour",
+    "N. Fagioli",
+    "M. Brescianini",
+    "Franco Mastantuono",
+    "Mateo Pellegrino",
+    "A. Njie"
+   ],
+   "banquillo": [
+    "I. Van der Brempt",
+    "K. Bowie",
+    "G. Satalino",
+    "D. Bakola",
+    "D. Ćaleta-Car",
+    "S. Cinquegrano",
+    "B. Domínguez",
+    "A. Ghion",
+    "G. Kulla",
+    "L. Lipani",
+    "A. Murić",
+    "Rafael Obrador",
+    "C. Odenthal",
+    "E. Pieragnolo",
+    "N. Pierini",
+    "Valde",
+    "Pote",
+    "L. Lezzerini",
+    "C. Inao OulaÃ¯",
+    "W. Gnonto",
+    "Dodô",
+    "F. Croci",
+    "O. Christensen",
+    "Beto",
+    "D. Beldenti",
+    "Salvatore Cianciulli"
+   ],
+   "equipos": {
+    "488": [
+     {
+      "n": "S. Turati",
+      "pos": "G"
+     },
+     {
+      "n": "S. Walukiewicz",
+      "pos": "D"
+     },
+     {
+      "n": "Fali Candé",
+      "pos": "D"
+     },
+     {
+      "n": "J. Idzes",
+      "pos": "D"
+     },
+     {
+      "n": "J. Doig",
+      "pos": "D"
+     },
+     {
+      "n": "I. Sulemana",
+      "pos": "M"
+     },
+     {
+      "n": "N. Matić",
+      "pos": "M"
+     },
+     {
+      "n": "Vasilije Adžić",
+      "pos": "M"
+     },
+     {
+      "n": "D. Berardi",
+      "pos": "F"
+     },
+     {
+      "n": "S. Esposito",
+      "pos": "F"
+     },
+     {
+      "n": "A. Laurienté",
+      "pos": "F"
+     }
+    ],
+    "502": [
+     {
+      "n": "David de Gea",
+      "pos": "G"
+     },
+     {
+      "n": "Álex Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "R. Drăgușin",
+      "pos": "D"
+     },
+     {
+      "n": "Viery",
+      "pos": "D"
+     },
+     {
+      "n": "João Mário",
+      "pos": "D"
+     },
+     {
+      "n": "C. Ndour",
+      "pos": "M"
+     },
+     {
+      "n": "N. Fagioli",
+      "pos": "M"
+     },
+     {
+      "n": "M. Brescianini",
+      "pos": "M"
+     },
+     {
+      "n": "Franco Mastantuono",
+      "pos": "F"
+     },
+     {
+      "n": "Mateo Pellegrino",
+      "pos": "F"
+     },
+     {
+      "n": "A. Njie",
+      "pos": "F"
+     }
+    ]
+   }
+  },
+  "1570002": {
+   "hora": "2026-11-02T18:10:27.567418+01:00",
+   "xi": [
+    "Álvaro Aceves",
+    "Iván Alejo",
+    "Miguel Rubio",
+    "Pablo Tomeo",
+    "Iván Garriel",
+    "J. Ponceau",
+    "S. Jurić",
+    "T. Ojeda",
+    "Víctor Fernández",
+    "Adrian Arnuncio",
+    "T. Abed",
+    "Raúl Fernández",
+    "Rubén Peña",
+    "Rubén Pulido",
+    "Javi Montero",
+    "Enric Franquesa",
+    "Álex Sancris",
+    "Y. Kechta",
+    "A. Diawara",
+    "Dani Rodríguez",
+    "Ismaël Gharbi",
+    "Álex Millán"
+   ],
+   "banquillo": [
+    "Victor Barberá",
+    "Yeray Cabanzón",
+    "Clerc",
+    "Tomás Fernández Sabatini",
+    "M. Lachuer",
+    "Dani Martín",
+    "Ramón Martínez",
+    "Trilli",
+    "Dani Pérez",
+    "Luis Chacón",
+    "R. Duiven",
+    "Homam Ahmed"
+   ],
+   "equipos": {
+    "720": [
+     {
+      "n": "Álvaro Aceves",
+      "pos": "G"
+     },
+     {
+      "n": "Iván Alejo",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Rubio",
+      "pos": "D"
+     },
+     {
+      "n": "Pablo Tomeo",
+      "pos": "D"
+     },
+     {
+      "n": "Iván Garriel",
+      "pos": "D"
+     },
+     {
+      "n": "J. Ponceau",
+      "pos": "M"
+     },
+     {
+      "n": "S. Jurić",
+      "pos": "M"
+     },
+     {
+      "n": "T. Ojeda",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor Fernández",
+      "pos": "F"
+     },
+     {
+      "n": "Adrian Arnuncio",
+      "pos": "F"
+     },
+     {
+      "n": "T. Abed",
+      "pos": "F"
+     }
+    ],
+    "537": [
+     {
+      "n": "Raúl Fernández",
+      "pos": "G"
+     },
+     {
+      "n": "Rubén Peña",
+      "pos": "D"
+     },
+     {
+      "n": "Rubén Pulido",
+      "pos": "D"
+     },
+     {
+      "n": "Javi Montero",
+      "pos": "D"
+     },
+     {
+      "n": "Enric Franquesa",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Sancris",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Kechta",
+      "pos": "M"
+     },
+     {
+      "n": "A. Diawara",
+      "pos": "M"
+     },
+     {
+      "n": "Dani Rodríguez",
+      "pos": "M"
+     },
+     {
+      "n": "Ismaël Gharbi",
+      "pos": "F"
+     },
+     {
+      "n": "Álex Millán",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
