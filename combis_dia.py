@@ -32,6 +32,7 @@ NOCHE = {"horas": ((0, 30), (1, 30)), "patas": (5, 5), "cuota": (5.0, 7.0), "has
 # a puerta, Monza marca, Monza +3 córners, +28,5 remates) multiplica 9,46 y paga 6,00 (0,63). Por eso ya no es un factor fijo: va por parejas.
 PROB_MIN_RELAJADA = 0.35   # 29/10 (Marcos): cuota 7-10 siempre; si no sale, patas desde el 35 %
 FACTOR_MIN = 0.33   # 30/10: Elversberg–Mainz multiplicaba 15,63 y bet365 pagaba 6,00 (0,38): con 0,45 no podía bajar de 7
+EUROPA = (2, 3, 848)   # Champions, Europa League, Conference
 TRES = {"patas": (2, 4), "cuota": (2.5, 4.0), "hora": (13, 30)}
 LOCA = {"patas": (4, 7), "cuota": (7.0, 10.0), "hora": (16, 0), "por_partido": 2, "min_jugadores": 2}   # 01/11 (Marcos): lo mejor de cada partido, 1 o 2 cosas
 PROB_MIN_MULTI = 0.60
@@ -677,6 +678,11 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != dia:
             continue
         pool = pool_partido(ex, hist, ap)
+        if pool and pa["league"]["id"] in EUROPA:   # 02/11: en Champions/Europa, también jugadores fijos que lo cumplen casi siempre
+            ya_k = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in pool}
+            pool = sorted(pool + [p for p in jugadores_estrella(pa["fixture"]["id"])
+                                  if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in ya_k],
+                          key=lambda p: -p["prob_aprendida"])
         # 29/10 (Marcos): si ya hay otra combi de ese partido puesta a mano (p. ej. la del Everton de las 00:05),
         # la del bot sale diferente: sin repetir ninguna de sus selecciones
         pool = [p for p in pool if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in otras]
@@ -691,7 +697,13 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
             cp["picks"] = r[1]
             partidos.append((grandeza(cp), r[0], cp, r[2]))
-    partidos.sort(key=lambda x: (-x[0], -x[1]))
+    # 02/11 (Marcos): los días de Champions/Europa, las publicaciones sobre todo de esos partidos: van primero y,
+    # si hay 3 o más, como mucho 1 de otras competiciones
+    europa = lambda cp: cp.get("liga_id") in EUROPA
+    partidos.sort(key=lambda x: (not europa(x[2]), -x[0], -x[1]))
+    if sum(1 for x in partidos if europa(x[2])) >= 3:
+        otros = [x for x in partidos if not europa(x[2])][:1]
+        partidos = [x for x in partidos if europa(x[2])] + otros
     # 29/10 (Marcos): por la noche SIEMPRE combis con escudos (dan muchos seguidores) de los partidos más grandes del
     # día (la de las 00:30, la del más grande, p. ej. el PSG). Esa combi es la buena; la de su hora del mismo partido
     # se rehace con otras selecciones y, si no da para otra, ese partido solo sale de noche.
