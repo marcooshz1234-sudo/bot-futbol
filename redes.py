@@ -156,10 +156,33 @@ def texto_enlace(p):
     return TEXTO_ENLACE if "verde" in p.get("id", "") or "balance" in p.get("id", "") else TEXTO_ENLACE_COMBI
 
 
+# 02/11 (Marcos): «quiero que crezca primero en Threads»: el enlace en menos posts. Desde esta hora, solo en los verdes
+# (como mucho 2 al día) y en la loca de las 16:00. Lo demás, sin comentario.
+DESDE_MENOS = "2026-11-02T12:45"
+VERDES_DIA = 2
+
+
+def verdes_con_enlace(dia, sin=None):
+    n = 0
+    for f in (AUTO, COLA):
+        for x in leer(f, []) or []:
+            if "verde" in x.get("id", "") and x.get("fecha", "")[:10] == dia and x.get("id") != sin \
+                    and (x.get("redes") or {}).get("threads_enlace"):
+                n += 1
+    return n
+
+
 def lleva_enlace(p):
     """Verdes (combis, escalera, boletos), balance del día con más acertados que fallados y, desde el 29/10,
-    las combis, listas y boletos."""
+    las combis, listas y boletos. Desde el 02/11: solo verdes (2 al día) y la loca."""
     pid = p.get("id", "")
+    if p.get("fecha", "") >= DESDE_MENOS:
+        if "verde" in pid:
+            return verdes_con_enlace(p["fecha"][:10], pid) < VERDES_DIA
+        if "combi-loca" in pid:
+            from panel_datos import ajustes
+            return bool(ajustes()["enlace_threads"])
+        return False
     if "verde" in pid:
         return True
     if any(k in pid for k in CON_ENLACE) and p.get("fecha", "") >= DESDE_ENLACE:   # los ya publicados, no

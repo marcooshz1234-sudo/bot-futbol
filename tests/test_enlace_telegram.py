@@ -14,6 +14,17 @@ class EnlaceTelegram(unittest.TestCase):
         self.assertTrue(redes.lleva_enlace({"id": "2026-10-30-combi-partido-1552801", "fecha": "2026-10-30T00:30", "texto": "✅"}))
         self.assertTrue(redes.lleva_enlace({"id": "2026-10-30-picks-manana", "fecha": "2026-10-29T23:00", "texto": "🔥"}))
 
+    def test_menos_enlaces_desde_el_2_11(self):
+        with patch.object(redes, "verdes_con_enlace", lambda dia, sin=None: 0):
+            self.assertTrue(redes.lleva_enlace({"id": "2026-11-03-verde-auto-x", "fecha": "2026-11-03T20:00"}))
+        with patch.object(redes, "verdes_con_enlace", lambda dia, sin=None: 2):
+            self.assertFalse(redes.lleva_enlace({"id": "2026-11-03-verde-auto-y", "fecha": "2026-11-03T22:00"}))
+        self.assertTrue(redes.lleva_enlace({"id": "2026-11-03-combi-loca", "fecha": "2026-11-03T16:00", "texto": "🤪"}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-11-03-combi-partido-1", "fecha": "2026-11-03T20:00", "texto": "✅"}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-11-03-picks-manana", "fecha": "2026-11-03T23:00", "texto": "🔥"}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-11-03-balance-picks", "fecha": "2026-11-03T23:45",
+                                             "texto": "✅ 23 acertados · ❌ 9 fallados"}))
+
     def test_comentario_threads_responde_al_post(self):
         llamadas = []
         def falso(metodo, url, params):
