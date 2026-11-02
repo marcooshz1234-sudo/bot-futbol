@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02 22:50",
+ "actualizado": "2026-11-02 23:01",
  "redes": {
   "instagram": {
    "seguidores": 22,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1425,
-   "hoy": 18,
+   "seguidores": 1427,
+   "hoy": 20,
    "serie": [
     983,
     1225,
@@ -24,7 +24,7 @@
     1354,
     1375,
     1407,
-    1425
+    1427
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1660,
- "total_hoy": 25,
+ "total": 1662,
+ "total_hoy": 27,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-11-02",
-  "titulo": "3 picks para mañana"
+  "hora": "00:30",
+  "dia": "2026-11-03",
+  "titulo": "Combi Feyenoord vs Inter"
  },
  "ayer": {
   "aciertos": 42,
@@ -132,7 +132,7 @@
   },
   "2026-11-02": {
    "instagram": 22,
-   "threads": 1425,
+   "threads": 1427,
    "facebook": 0,
    "telegram": 213
   }
