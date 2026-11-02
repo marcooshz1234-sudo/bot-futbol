@@ -492,6 +492,14 @@ def posts_del_dia(dia, d):
             g = ganadores.post(dia)
             if g:
                 posts.append((g[0], g[1], [], g[2]))
+        # 02/11 (Marcos): «los picks de la semana» europea el lunes y su resultado el viernes (semana.py)
+        try:
+            import semana
+            for x in (semana.post(dia), semana.resultado(dia)):
+                if x:
+                    posts.append(x)
+        except Exception as e:
+            print("semana europea:", str(e)[:150])
         if DATOS_ACTIVO and not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
             pv = datos_futbol.previa(dia)
             if pv:
