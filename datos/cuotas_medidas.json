@@ -1000,5 +1000,80 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-02-marcos-6-1550185",
+  "fecha": "2026-11-02T18:07",
+  "fuente": "cuota comprobada (Marcos en bet365, captura 02/11)",
+  "sel": [
+   "1550185|Double Chance|Home/Draw",
+   "1550185|Goals Over/Under First Half|Over 0.5"
+  ],
+  "cuotas": [
+   1.57,
+   1.25
+  ],
+  "real": 2.0,
+  "multiplicando": 1.963,
+  "aj": 1.036327249990562,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-02-marcos-6-1557455",
+  "fecha": "2026-11-02T18:07",
+  "fuente": "cuota comprobada (Marcos en bet365, captura 02/11)",
+  "sel": [
+   "1557455|Home Player Shots On Target Total|Harvey Barnes - 1",
+   "1557455|Player Fouls Committed|Nico Gonzalez - 2"
+  ],
+  "cuotas": [
+   1.44,
+   1.5
+  ],
+  "real": 2.15,
+  "multiplicando": 2.16,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-02-marcos-crear6-1570002",
+  "fecha": "2026-11-02T18:07",
+  "fuente": "cuota comprobada (Marcos en bet365, captura 02/11)",
+  "sel": [
+   "1570002|Double Chance|Home/Draw",
+   "1570002|Goals Over/Under First Half|Over 0.5",
+   "1570002|Goals Over/Under - Second Half|Over 0.5"
+  ],
+  "cuotas": [
+   1.25,
+   1.4,
+   1.25
+  ],
+  "real": 2.05,
+  "multiplicando": 2.188,
+  "aj": 0.9965419942232236,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-02-marcos-crear6-1570436",
+  "fecha": "2026-11-02T18:07",
+  "fuente": "cuota comprobada (Marcos en bet365, captura 02/11)",
+  "sel": [
+   "1570436|Double Chance|Home/Draw",
+   "1570436|Total - Away|Over 0.5"
+  ],
+  "cuotas": [
+   1.28,
+   1.44
+  ],
+  "real": 2.37,
+  "multiplicando": 1.843,
+  "aj": 1.2720419348826215,
+  "parejas": []
  }
 ]
