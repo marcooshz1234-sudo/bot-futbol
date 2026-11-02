@@ -1549,7 +1549,7 @@
   {
     "id": "2026-11-02-combi-partido-1570436",
     "fecha": "2026-11-02T19:10",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 DEPORTIVO LA CORUNA vs OSASUNA 🇪🇸\n\n🎯 DEPORTIVO LA CORUNA O EMPATE [x1.28]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ OSASUNA MARCA [x1.44]\n✅ MÁS DE 23,5 TIROS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 3,83\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 DEPORTIVO LA CORUNA vs OSASUNA 🇪🇸\n\n🎯 DEPORTIVO LA CORUNA O EMPATE [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ OSASUNA MARCA [x1.53]\n✅ MÁS DE 23,5 TIROS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 3,98\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1560,9 +1560,9 @@
       "1570436|Total Shots|Over 23.5"
     ],
     "cuotas": [
-      1.28,
+      1.25,
       1.44,
-      1.44,
+      1.53,
       1.73
     ],
     "tarjeta": {
@@ -1574,7 +1574,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/727.png",
       "fecha": "2026-11-02T21:00",
       "liga": "LaLiga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-02T18:55"
   },
   {
     "id": "2026-11-02-combi-partido-1569998",
