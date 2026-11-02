@@ -753,11 +753,11 @@
     "total": 6,
     "cuentas": {
       "verde": 0,
-      "rojo": 2,
-      "pendiente": 2,
-      "sin_datos": 2,
+      "rojo": 4,
+      "pendiente": 1,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -775,19 +775,19 @@
       {
         "id": "2026-11-02-escalera",
         "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.45
       },
       {
         "id": "2026-11-02-combi-tres",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.7
       },
       {
         "id": "2026-11-02-combi-partido-1570436",
         "titulo": "✅ COMBI LOCAS | LALIGA",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.98
       },
       {
@@ -798,10 +798,10 @@
       }
     ],
     "picks": {
-      "verde": 7,
-      "rojo": 3,
+      "verde": 5,
+      "rojo": 6,
       "total": 22
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 2 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 6,20\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❔ 🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀 · 2,45 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀 · 2,70 · faltan datos\n⏳ ✅ COMBI LOCAS | LALIGA · 3,98 · pendiente\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,99\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 4 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 6,20\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀 · 2,45\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀 · 2,70\n❔ ✅ COMBI LOCAS | LALIGA · 3,98 · faltan datos\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,99\n\n✅ 0 acertadas · ❌ 4 falladas · ⏳ 2 sin resolver"
   }
 }
