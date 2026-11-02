@@ -2177,6 +2177,24 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-02-combi-partido-1570436"
+    "verde_de": "2026-11-02-combi-partido-1570436",
+    "enviado": "2026-11-02T23:13",
+    "mensaje_id": 240,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17899033818609646",
+      "instagram": "18440995417181447",
+      "instagram_story": "17966193084207004"
+    }
+  },
+  {
+    "id": "2026-11-02-balance-auto",
+    "fecha": "2026-11-02T23:15",
+    "texto": "📊 BALANCE DEL LUNES · 6 DE 10 PICKS EN VERDE 🍀\n\n🎯 60 % de acierto\n✅ 6 acertados · ❌ 4 fallados\n\n🔥 Lo mejor: tiros 2/2 · goles 2/2\n⚽ Ganadores: 2/5\n😤 Lo peor: ganadores 2/5\n\n💚 Mañana más picks GRATIS en @combilocas\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
