@@ -1,7 +1,7 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_

@@ -1,10 +1,51 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 02/11 08:31_
+
+- **1X2:** 1 **4.50**  ·  X **3.40**  ·  2 **1.80**
+- **Doble oportunidad:** 1X **1.95**  ·  12 **1.30**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **8.50**
+    - 1,5: más **1.36** · menos **3.20**
+    - 2,5: más **2.20** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.10**  ·  2 **2.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **3.25**
+- **Win Both Halves:** 1 **19.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **4.33**  ·  Home/No **7.00**  ·  Draw/No **8.50**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
+- **Home Player Shots On Target Total:** Vincent Sierro - 1 **3.40**  ·  Vincent Sierro - 2 **17.00**  ·  David Romero - 1 **1.57**  ·  Simone Lontani - 1 **1.83**  ·  El Bilal Toure - 1 **2.10**  ·  Adrian Bernabe - 1 **2.50**  ·  Matija Frigan - 1 **2.00**  ·  Nesta Elphege - 1 **2.00**  ·  Pontus Almqvist - 1 **2.00**  ·  Ousmane Diallo - 1 **3.00**  ·  Christian Ordonez - 1 **2.75**  ·  Benjamin Cremaschi - 1 **3.40**  ·  Sascha Britschgi - 1 **3.40**  ·  Mariano Troilo - 1 **4.00**  ·  Emanuele Valeri - 1 **6.00**  ·  Franco Carboni - 1 **4.00**  ·  Abdou-Salam Konate - 1 **3.75**  ·  Lautaro Valenti - 1 **6.00**  ·  Mandela Keita - 1 **6.00**  ·  Niakhate Ndiaye - 1 **6.00**  ·  Enrico Del Prato - 1 **6.00**  ·  Dominik Drobnic - 1 **6.00**  ·  David Romero - 2 **3.75**  ·  Simone Lontani - 2 **5.50**  ·  El Bilal Toure - 2 **7.00**  ·  Adrian Bernabe - 2 **11.00**  ·  Matija Frigan - 2 **6.50**  ·  Nesta Elphege - 2 **6.50**  ·  Pontus Almqvist - 2 **6.50**  ·  Ousmane Diallo - 2 **13.00**  ·  Christian Ordonez - 2 **13.00**  ·  Benjamin Cremaschi - 2 **17.00**  ·  Sascha Britschgi - 2 **17.00**  ·  Mariano Troilo - 2 **21.00**  ·  Franco Carboni - 2 **21.00**  ·  Abdou-Salam Konate - 2 **21.00**  ·  David Romero - 3 **11.00**  ·  Simone Lontani - 3 **19.00**  ·  El Bilal Toure - 3 **21.00**  ·  Matija Frigan - 3 **21.00**  ·  Nesta Elphege - 3 **21.00**  ·  Pontus Almqvist - 3 **21.00**  ·  Giovanni Fabbian - 1 **3.00**  ·  Giovanni Fabbian - 2 **13.00**  ·  Diego Carlos - 1 **6.00**  ·  Djibril Diallo - 1 **6.00**
+- **Away Player Shots On Target Total:** Rahim Alhassane **51.00**  ·  Mikel Amondarain **15.00**  ·  Vincent Sierro **51.00**  ·  Torbjorn Heggem **26.00**  ·  Martin Vitik **13.00**  ·  David Romero **21.00**  ·  Sascha Britschgi **41.00**  ·  Christian Ordonez **51.00**  ·  Mariano Troilo **23.00**  ·  Matija Frigan **19.00**  ·  Franco Carboni **67.00**  ·  Diego Carlos **21.00**  ·  El Bilal Toure **15.00**  ·  Adrian Bernabe **67.00**  ·  Eivind Helland **34.00**  ·  Nicolo Cambiaghi **34.00**  ·  Nicolo Casale **12.00**  ·  Abdou-Salam Konate **34.00**  ·  Benjamin Cremaschi **51.00**  ·  Nesta Elphege **15.00**  ·  Dominik Drobnic **23.00**  ·  Ousmane Diallo **41.00**  ·  Marco Libra **51.00**  ·  Lewis Ferguson **17.00**  ·  Djibril Diallo **23.00**  ·  Jay Enem **8.00**  ·  Tommaso Pobega **17.00**  ·  Artem Dovbyk **8.00**  ·  Arthur Theate **17.00**  ·  Emanuele Valeri **101.00**  ·  Giovanni Fabbian **23.00**  ·  Jens Odgaard **17.00**  ·  Juan Miranda **41.00**  ·  Lautaro Valenti **19.00**  ·  Lorenzo De Silvestri **26.00**  ·  Mandela Keita **101.00**  ·  Nikola Moro **51.00**  ·  Oussama El Azzouzi **51.00**  ·  Pontus Almqvist **51.00**  ·  Enrico del Prato **23.00**  ·  Nadir Zortea **51.00**  ·  Roberto Piccoli **8.00**  ·  Samuel Mbangula **41.00**  ·  Matteo Darmian **67.00**  ·  Federico Bernardeschi **51.00**
+- **Home Player Shots:** Vincent Sierro - 1 **1.62**  ·  Vincent Sierro - 2 **3.75**  ·  Vincent Sierro - 3 **11.00**  ·  Vincent Sierro - 4 **21.00**  ·  David Romero - 1 **1.06**  ·  Simone Lontani - 1 **1.12**  ·  El Bilal Toure - 1 **1.20**  ·  Adrian Bernabe - 1 **1.25**  ·  Matija Frigan - 1 **1.18**  ·  Nesta Elphege - 1 **1.18**  ·  Pontus Almqvist - 1 **1.17**  ·  Ousmane Diallo - 1 **1.44**  ·  Christian Ordonez - 1 **1.44**  ·  Benjamin Cremaschi - 1 **1.62**  ·  Sascha Britschgi - 1 **1.62**  ·  Mariano Troilo - 1 **1.73**  ·  Emanuele Valeri - 1 **2.00**  ·  Franco Carboni - 1 **1.73**  ·  Abdou-Salam Konate - 1 **1.83**  ·  Lautaro Valenti - 1 **2.25**  ·  Mandela Keita - 1 **2.25**  ·  Niakhate Ndiaye - 1 **2.25**  ·  Enrico Del Prato - 1 **2.00**  ·  Dominik Drobnic - 1 **2.50**  ·  David Romero - 2 **1.33**  ·  Simone Lontani - 2 **1.62**  ·  El Bilal Toure - 2 **1.83**  ·  Adrian Bernabe - 2 **2.00**  ·  Matija Frigan - 2 **1.80**  ·  Nesta Elphege - 2 **1.80**  ·  Pontus Almqvist - 2 **1.80**  ·  Ousmane Diallo - 2 **3.00**  ·  Christian Ordonez - 2 **3.00**  ·  Benjamin Cremaschi - 2 **3.75**  ·  Sascha Britschgi - 2 **3.75**  ·  Mariano Troilo - 2 **4.33**  ·  Emanuele Valeri - 2 **6.00**  ·  Franco Carboni - 2 **4.33**  ·  Abdou-Salam Konate - 2 **5.00**  ·  Lautaro Valenti - 2 **8.00**  ·  Mandela Keita - 2 **8.00**  ·  Niakhate Ndiaye - 2 **8.00**  ·  Enrico Del Prato - 2 **6.00**  ·  Dominik Drobnic - 2 **9.00**  ·  David Romero - 3 **1.91**  ·  Simone Lontani - 3 **2.75**  ·  El Bilal Toure - 3 **3.75**  ·  Adrian Bernabe - 3 **4.00**  ·  Matija Frigan - 3 **3.40**  ·  Nesta Elphege - 3 **3.40**  ·  Pontus Almqvist - 3 **3.40**  ·  Ousmane Diallo - 3 **7.00**  ·  Christian Ordonez - 3 **8.00**  ·  Benjamin Cremaschi - 3 **11.00**  ·  Sascha Britschgi - 3 **11.00**  ·  Mariano Troilo - 3 **13.00**  ·  Emanuele Valeri - 3 **19.00**  ·  Franco Carboni - 3 **13.00**  ·  Abdou-Salam Konate - 3 **15.00**  ·  Lautaro Valenti - 3 **21.00**  ·  Mandela Keita - 3 **21.00**  ·  Niakhate Ndiaye - 3 **21.00**  ·  David Romero - 4 **3.40**  ·  Simone Lontani - 4 **5.50**  ·  El Bilal Toure - 4 **8.00**  ·  Adrian Bernabe - 4 **10.00**  ·  Matija Frigan - 4 **7.00**  ·  Nesta Elphege - 4 **7.00**  ·  Pontus Almqvist - 4 **7.00**  ·  David Romero - 5 **6.50**  ·  Simone Lontani - 5 **13.00**  ·  Giovanni Fabbian - 1 **1.44**  ·  Giovanni Fabbian - 2 **3.00**  ·  Giovanni Fabbian - 3 **7.00**  ·  Giovanni Fabbian - 4 **19.00**  ·  Enrico Del Prato - 3 **19.00**  ·  Christian Ordonez - 4 **19.00**  ·  Sascha Britschgi - 4 **21.00**  ·  Benjamin Cremaschi - 4 **21.00**  ·  Ousmane Diallo - 4 **19.00**  ·  Nesta Elphege - 5 **15.00**  ·  Pontus Almqvist - 5 **15.00**  ·  Adrian Bernabe - 5 **21.00**  ·  Matija Frigan - 5 **15.00**  ·  El Bilal Toure - 5 **19.00**  ·  David Romero - 6 **13.00**  ·  Simone Lontani - 6 **21.00**  ·  David Romero - 7 **21.00**  ·  Diego Carlos - 1 **2.50**  ·  Diego Carlos - 2 **9.00**  ·  Djibril Diallo - 1 **2.50**  ·  Djibril Diallo - 2 **9.00**
+- **Away Player Shots:** Samuel Mbangula - 1 **1.18**  ·  Samuel Mbangula - 2 **1.80**  ·  Samuel Mbangula - 3 **3.40**  ·  Samuel Mbangula - 4 **7.00**  ·  Samuel Mbangula - 5 **15.00**  ·  Arthur Theate - 1 **1.50**  ·  Arthur Theate - 2 **3.25**  ·  Arthur Theate - 3 **8.00**  ·  Arthur Theate - 4 **19.00**  ·  Jens Odgaard - 1 **1.04**  ·  Federico Bernardeschi - 1 **1.02**  ·  Artem Dovbyk - 1 **1.03**  ·  Nicolo Cambiaghi - 1 **1.11**  ·  Tommaso Pobega - 1 **1.20**  ·  Lewis Ferguson - 1 **1.17**  ·  Nikola Moro - 1 **1.33**  ·  Mikel Amondarain - 1 **1.40**  ·  Marco Libra - 1 **1.25**  ·  Nadir Zortea - 1 **1.40**  ·  Juan Miranda - 1 **1.57**  ·  Nicolo Casale - 1 **1.57**  ·  Oussama El Azzouzi - 1 **1.57**  ·  Rahim Alhassane - 1 **1.62**  ·  Eivind Helland - 1 **1.67**  ·  Torbjorn Heggem - 1 **1.83**  ·  Martin Vitik - 1 **1.73**  ·  Lorenzo De Silvestri - 1 **1.83**  ·  Roberto Piccoli - 2 **1.06**  ·  Jens Odgaard - 2 **1.22**  ·  Federico Bernardeschi - 2 **1.17**  ·  Artem Dovbyk - 2 **1.20**  ·  Nicolo Cambiaghi - 2 **1.53**  ·  Tommaso Pobega - 2 **1.83**  ·  Lewis Ferguson - 2 **1.80**  ·  Nikola Moro - 2 **2.38**  ·  Mikel Amondarain - 2 **2.62**  ·  Marco Libra - 2 **2.10**  ·  Nadir Zortea - 2 **2.62**  ·  Juan Miranda - 2 **3.50**  ·  Nicolo Casale - 2 **3.50**  ·  Oussama El Azzouzi - 2 **3.50**  ·  Rahim Alhassane - 2 **3.75**  ·  Eivind Helland - 2 **3.75**  ·  Torbjorn Heggem - 2 **5.00**  ·  Martin Vitik - 2 **4.33**  ·  Lorenzo De Silvestri - 2 **5.00**  ·  Roberto Piccoli - 3 **1.22**  ·  Jens Odgaard - 3 **1.67**  ·  Federico Bernardeschi - 3 **1.50**  ·  Artem Dovbyk - 3 **1.62**  ·  Nicolo Cambiaghi - 3 **2.50**  ·  Tommaso Pobega - 3 **3.50**  ·  Lewis Ferguson - 3 **3.40**  ·  Nikola Moro - 3 **5.50**  ·  Mikel Amondarain - 3 **6.50**  ·  Marco Libra - 3 **4.33**  ·  Nadir Zortea - 3 **6.50**  ·  Juan Miranda - 3 **10.00**  ·  Nicolo Casale - 3 **10.00**  ·  Oussama El Azzouzi - 3 **10.00**  ·  Rahim Alhassane - 3 **10.00**  ·  Eivind Helland - 3 **11.00**  ·  Torbjorn Heggem - 3 **15.00**  ·  Martin Vitik - 3 **13.00**  ·  Lorenzo De Silvestri - 3 **15.00**  ·  Roberto Piccoli - 4 **1.53**  ·  Jens Odgaard - 4 **2.62**  ·  Federico Bernardeschi - 4 **2.20**  ·  Artem Dovbyk - 4 **2.50**  ·  Nicolo Cambiaghi - 4 **4.50**  ·  Tommaso Pobega - 4 **8.00**  ·  Lewis Ferguson - 4 **7.00**  ·  Nikola Moro - 4 **13.00**  ·  Mikel Amondarain - 4 **17.00**  ·  Marco Libra - 4 **10.00**  ·  Roberto Piccoli - 5 **2.10**  ·  Jens Odgaard - 5 **4.50**  ·  Federico Bernardeschi - 5 **3.75**  ·  Artem Dovbyk - 5 **4.00**  ·  Nicolo Cambiaghi - 5 **10.00**  ·  Tommaso Pobega - 5 **17.00**  ·  Roberto Piccoli - 6 **3.40**  ·  Jens Odgaard - 6 **9.00**  ·  Federico Bernardeschi - 6 **6.50**  ·  Artem Dovbyk - 6 **8.00**  ·  Roberto Piccoli - 7 **5.50**  ·  Jens Odgaard - 7 **17.00**  ·  Federico Bernardeschi - 7 **13.00**  ·  Roberto Piccoli - 8 **10.00**  ·  Eivind Helland - 4 **21.00**  ·  Rahim Alhassane - 4 **21.00**  ·  Nadir Zortea - 4 **17.00**  ·  Nicolo Casale - 4 **21.00**  ·  Juan Miranda - 4 **21.00**  ·  Oussama El Azzouzi - 4 **21.00**  ·  Lewis Ferguson - 5 **15.00**  ·  Nicolo Cambiaghi - 6 **21.00**  ·  Artem Dovbyk - 7 **15.00**  ·  Federico Bernardeschi - 8 **21.00**  ·  Artem Dovbyk - 8 **21.00**  ·  Roberto Piccoli - 9 **17.00**  ·  Roberto Piccoli - 10 **21.00**  ·  Jay Enem - 1 **1.01**  ·  Jay Enem - 2 **1.11**  ·  Jay Enem - 3 **1.36**  ·  Jay Enem - 4 **1.83**  ·  Jay Enem - 5 **2.75**  ·  Jay Enem - 6 **4.50**  ·  Jay Enem - 7 **9.00**  ·  Jay Enem - 8 **15.00**  ·  Jay Enem - 9 **21.00**  ·  Marco Libra - 5 **21.00**  ·  Matteo Darmian - 1 **1.62**  ·  Matteo Darmian - 2 **3.75**  ·  Matteo Darmian - 3 **11.00**  ·  Matteo Darmian - 4 **21.00**
+- **Anytime Goal Scorer:** Rahim Alhassane **11.00**  ·  Mikel Amondarain **8.00**  ·  Vincent Sierro **8.50**  ·  Torbjorn Heggem **12.00**  ·  Martin Vitik **9.50**  ·  David Romero **4.33**  ·  Sascha Britschgi **8.50**  ·  Niakhate Ndiaye **13.00**  ·  Christian Ordonez **8.50**  ·  Mariano Troilo **17.00**  ·  Matija Frigan **4.75**  ·  Franco Carboni **12.00**  ·  Diego Carlos **17.00**  ·  El Bilal Toure **5.00**  ·  Adrian Bernabe **7.00**  ·  Eivind Helland **11.00**  ·  Nicolo Cambiaghi **4.75**  ·  Nicolo Casale **8.00**  ·  Abdou-Salam Konate **11.00**  ·  Benjamin Cremaschi **8.50**  ·  Nesta Elphege **4.75**  ·  Dominik Drobnic **17.00**  ·  Ousmane Diallo **7.00**  ·  Marco Libra **5.50**  ·  Lewis Ferguson **5.50**  ·  Simone Lontani **4.33**  ·  Djibril Diallo **17.00**  ·  Jay Enem **2.60**  ·  Tommaso Pobega **5.50**  ·  Artem Dovbyk **2.60**  ·  Arthur Theate **9.50**  ·  Emanuele Valeri **13.00**  ·  Giovanni Fabbian **7.00**  ·  Jens Odgaard **3.50**  ·  Juan Miranda **8.00**  ·  Lautaro Valenti **13.00**  ·  Lorenzo De Silvestri **11.00**  ·  Mandela Keita **13.00**  ·  Nikola Moro **7.00**  ·  Oussama El Azzouzi **8.00**  ·  Pontus Almqvist **5.50**  ·  Enrico del Prato **13.00**  ·  Nadir Zortea **6.50**  ·  Roberto Piccoli **2.60**  ·  Samuel Mbangula **4.75**  ·  Matteo Darmian **8.50**  ·  Federico Bernardeschi **3.40**
+- **Player to Score or Assist:** Rahim Alhassane **6.50**  ·  Mikel Amondarain **5.00**  ·  Vincent Sierro **4.75**  ·  Torbjorn Heggem **8.00**  ·  Martin Vitik **6.00**  ·  David Romero **3.00**  ·  Sascha Britschgi **5.00**  ·  Niakhate Ndiaye **8.50**  ·  Christian Ordonez **6.00**  ·  Mariano Troilo **13.00**  ·  Matija Frigan **3.75**  ·  Franco Carboni **8.00**  ·  Diego Carlos **13.00**  ·  El Bilal Toure **3.75**  ·  Adrian Bernabe **4.50**  ·  Eivind Helland **6.50**  ·  Nicolo Cambiaghi **2.62**  ·  Nicolo Casale **5.50**  ·  Abdou-Salam Konate **5.00**  ·  Benjamin Cremaschi **5.00**  ·  Nesta Elphege **3.40**  ·  Dominik Drobnic **11.00**  ·  Ousmane Diallo **4.00**  ·  Marco Libra **3.50**  ·  Lewis Ferguson **3.50**  ·  Simone Lontani **3.20**  ·  Djibril Diallo **11.00**  ·  Jay Enem **2.20**  ·  Tommaso Pobega **3.60**  ·  Artem Dovbyk **2.00**  ·  Arthur Theate **6.00**  ·  Emanuele Valeri **5.50**  ·  Giovanni Fabbian **4.75**  ·  Jens Odgaard **2.50**  ·  Juan Miranda **3.40**  ·  Lautaro Valenti **9.00**  ·  Lorenzo De Silvestri **6.00**  ·  Mandela Keita **7.00**  ·  Nikola Moro **3.40**  ·  Oussama El Azzouzi **4.50**  ·  Pontus Almqvist **4.33**  ·  Enrico del Prato **8.50**  ·  Nadir Zortea **3.25**  ·  Roberto Piccoli **2.20**  ·  Samuel Mbangula **3.00**  ·  Matteo Darmian **5.50**  ·  Federico Bernardeschi **2.20**
 
 ## Estadísticas de equipo
 | | Parma (total) | Parma en casa | Bologna (total) | Bologna fuera |
@@ -141,4 +182,37 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,74 · visitante 1,35 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 51% | 52% | 52% | 1.80 | -7% |
+| 1X2: X | 28% | 27% | 28% | 3.40 | -5% |
+| 1X2: 1 | 21% | 21% | 21% | 4.50 | -7% |
+| Doble oportunidad: X2 | 79% | 80% | 79% | 1.18 | -6% |
+| Doble oportunidad: 12 | 72% | 72% | 72% | 1.30 | -6% |
+| Doble oportunidad: 1X | 49% | 48% | 48% | 1.95 | -5% |
+| Ambos marcan: No | 61% | 53% | 57% | 1.75 | +0% |
+| Ambos marcan: Sí | 39% | 47% | 43% | 2.00 | -14% |
+| Goles más/menos: Más de 1.5 | 62% | 70% | 66% | 1.36 | -10% |
+| Goles más/menos: Más de 2.5 | 35% | 43% | 39% | 2.20 | -14% |
+| Goles más/menos: Más de 3.5 | 16% | 24% | 20% | 4.00 | -20% |
+| Goles más/menos: Menos de 1.5 ✅ | 38% | 30% | 34% | 3.20 | +9% |
+| Goles más/menos: Menos de 2.5 | 65% | 57% | 61% | 1.67 | +2% |
+| Goles más/menos: Menos de 3.5 | 84% | 76% | 80% | 1.25 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 71% | 74% | 1.33 | -2% |
+| Goles del local: Más de 0.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles del local: Más de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles del local: Menos de 0.5 | 48% | 42% | 45% | 2.20 | -1% |
+| Goles del local: Menos de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
+| Goles del visitante: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles del visitante: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Goles del visitante: Más de 2.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del visitante: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -1% |
+| Goles del visitante: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
+| Goles del visitante: Menos de 2.5 | 85% | 78% | 81% | 1.20 | -2% |
+| 1X2 descanso: 2 | 35% | 37% | 36% | 2.50 | -10% |
+| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

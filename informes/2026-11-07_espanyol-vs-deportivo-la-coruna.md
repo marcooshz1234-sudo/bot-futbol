@@ -1,10 +1,10 @@
 # Espanyol – Deportivo La Coruna
 **LaLiga** · Regular Season - 12 · 07/11/2026 16:15 (hora España) · RCDE Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:14_
+_Actualizadas: 02/11 08:31_
 
 - **1X2:** 1 **2.20**  ·  X **3.25**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
@@ -29,6 +29,8 @@ _Actualizadas: 01/11 02:14_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -42,6 +44,11 @@ _Actualizadas: 01/11 02:14_
 - **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.38**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Away Player Shots On Target Total:** Roger Hinojo **67.00**  ·  Vanja Drkusic **19.00**  ·  Jonathan Asp-Jensen **41.00**  ·  Marcos Fernandez **21.00**  ·  Alex Calatrava **26.00**  ·  Luismi Cruz **51.00**  ·  Javier Hernandez **29.00**  ·  Miguel Loureiro **29.00**  ·  Riki Rodriguez **51.00**  ·  David Mella **34.00**  ·  Diego Villares **51.00**  ·  Joaquin Ximo Navarro **67.00**  ·  Mario Soriano **41.00**  ·  Yeremay Hernandez **29.00**  ·  Roberto Fernandez **10.00**  ·  Jose Maria Gimenez **23.00**  ·  Tyrhys Dolan **15.00**  ·  Lucas Noubi **34.00**  ·  Adama Traore **41.00**  ·  Clemens Riedel **13.00**  ·  Lorenzo Amatucci **81.00**  ·  Urko Gonzalez **23.00**  ·  Giacomo Quagliata **126.00**  ·  Quilindschy Hartman **34.00**  ·  Eduardo Exposito **41.00**  ·  Unai Nunez **21.00**  ·  Marc Casado **101.00**  ·  Teun Gijselhart **17.00**  ·  Adria Altimira **126.00**  ·  Bil Nsongo **12.00**  ·  Pierre-Emerick Aubameyang **11.00**  ·  Bright Ede **17.00**  ·  Victor Mullerat **17.00**  ·  Bryan Zaragoza **29.00**  ·  Gabriel Moscardo **26.00**  ·  Jose Angelino **151.00**  ·  Kevin Sanchez **17.00**  ·  Jofre Carreras **34.00**  ·  Leandro Cabrera **8.00**  ·  Omar El Hilali **126.00**  ·  Pere Milla **10.00**  ·  Pol Lozano **51.00**  ·  Rafael Bauza **41.00**  ·  Zakaria Eddahchouri **15.00**  ·  Jose Flaco Lopez **81.00**
 - **Anytime Goal Scorer:** Roger Hinojo **11.00**  ·  Vanja Drkusic **13.00**  ·  Jonathan Asp-Jensen **4.75**  ·  Marcos Fernandez **3.10**  ·  Alex Calatrava **3.00**  ·  Luismi Cruz **6.00**  ·  Javier Hernandez **3.40**  ·  Miguel Loureiro **15.00**  ·  Riki Rodriguez **8.00**  ·  David Mella **4.00**  ·  Diego Villares **8.00**  ·  Joaquin Ximo Navarro **15.00**  ·  Mario Soriano **5.00**  ·  Yeremay Hernandez **3.40**  ·  Roberto Fernandez **2.60**  ·  Jose Maria Gimenez **19.00**  ·  Tyrhys Dolan **3.75**  ·  Lucas Noubi **15.00**  ·  Adama Traore **6.50**  ·  Clemens Riedel **11.00**  ·  Lorenzo Amatucci **9.00**  ·  Urko Gonzalez **10.00**  ·  Giacomo Quagliata **13.00**  ·  Quilindschy Hartman **6.00**  ·  Eduardo Exposito **5.00**  ·  Unai Nunez **11.00**  ·  Marc Casado **13.00**  ·  Teun Gijselhart **9.00**  ·  Adria Altimira **13.00**  ·  Bil Nsongo **3.75**  ·  Pierre-Emerick Aubameyang **2.75**  ·  Bright Ede **13.00**  ·  Victor Mullerat **3.40**  ·  Martin Ochoa **3.75**  ·  Bryan Zaragoza **3.40**  ·  Gabriel Moscardo **9.00**  ·  Jose Angelino **15.00**  ·  Kevin Sanchez **3.75**  ·  Jofre Carreras **4.00**  ·  Leandro Cabrera **6.50**  ·  Omar El Hilali **13.00**  ·  Pere Milla **3.10**  ·  Pol Lozano **6.00**  ·  Rafael Bauza **5.00**  ·  Zakaria Eddahchouri **3.75**  ·  Jose Flaco Lopez **9.00**
 - **Player to Score or Assist:** Roger Hinojo **4.75**  ·  Vanja Drkusic **7.50**  ·  Jonathan Asp-Jensen **3.00**  ·  Marcos Fernandez **2.50**  ·  Alex Calatrava **2.10**  ·  Luismi Cruz **3.20**  ·  Javier Hernandez **2.20**  ·  Miguel Loureiro **5.50**  ·  Riki Rodriguez **5.00**  ·  David Mella **2.62**  ·  Diego Villares **4.75**  ·  Joaquin Ximo Navarro **6.50**  ·  Mario Soriano **3.10**  ·  Yeremay Hernandez **2.50**  ·  Roberto Fernandez **2.05**  ·  Jose Maria Gimenez **10.00**  ·  Tyrhys Dolan **2.40**  ·  Jose Lopez **4.00**  ·  Lucas Noubi **9.00**  ·  Adama Traore **3.40**  ·  Clemens Riedel **6.00**  ·  Lorenzo Amatucci **5.00**  ·  Urko Gonzalez **4.75**  ·  Giacomo Quagliata **5.50**  ·  Quilindschy Hartman **3.10**  ·  Eduardo Exposito **2.62**  ·  Unai Nunez **8.50**  ·  Marc Casado **6.00**  ·  Teun Gijselhart **4.75**  ·  Adria Altimira **5.50**  ·  Bil Nsongo **2.62**  ·  Pierre-Emerick Aubameyang **2.20**  ·  Bright Ede **6.00**  ·  Victor Mullerat **2.38**  ·  Bryan Zaragoza **2.25**  ·  Gabriel Moscardo **5.00**  ·  Jose Angelino **5.50**  ·  Kevin Sanchez **2.62**  ·  Jofre Carreras **2.50**  ·  Leandro Cabrera **4.75**  ·  Omar El Hilali **4.33**  ·  Pere Milla **2.25**  ·  Pol Lozano **4.00**  ·  Rafael Bauza **3.00**  ·  Zakaria Eddahchouri **2.62**
@@ -209,6 +216,8 @@ _Goles esperados: local 1,01 · visitante 1,11 · córners esperados 9,5._
 | Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
 | 1X2 descanso: 2 | 27% | 25% | 26% | 3.75 | -3% |
 | 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -1% |
 | 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |

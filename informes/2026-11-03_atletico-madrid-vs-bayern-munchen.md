@@ -1,10 +1,10 @@
 # Atletico Madrid – Bayern München
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 02:09_
+_Actualizadas: 02/11 08:30_
 
 - **1X2:** 1 **2.70**  ·  X **4.00**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.22**  ·  X2 **1.40**
@@ -117,8 +117,8 @@ _Actualizadas: 02/11 02:09_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Atletico Madrid:** J. Cardoso (baja, Thigh Injury); M. Hjulmand (baja, Red Card); Koke (baja, Muscle Injury); J. Cardoso (baja, Thigh Injury); M. Hjulmand (baja, Red Card); Koke (baja, Muscle Injury)
-**Bayern München:** T. Buchmann (baja, Knee Injury); L. Diaz (baja, Muscle Injury); J. Musiala (baja, Muscle Injury); M. Neuer (baja, Foot Injury); S. Gnabry (duda, Injury); M. Olise (duda, Injury); I. Saibari (duda, Injury); T. Buchmann (baja, Knee Injury); L. Diaz (baja, Muscle Injury); J. Musiala (baja, Muscle Injury); M. Neuer (baja, Foot Injury); S. Gnabry (duda, Injury); M. Olise (duda, Injury); I. Saibari (duda, Injury)
+**Atletico Madrid:** M. Hjulmand (baja, Red Card); J. Cardoso (duda, Thigh Injury); Koke (duda, Muscle Injury); M. Hjulmand (baja, Red Card); J. Cardoso (duda, Thigh Injury); Koke (duda, Muscle Injury)
+**Bayern München:** L. Diaz (baja, Muscle Injury); S. Gnabry (baja, Muscle Injury); J. Musiala (baja, Muscle Injury); I. Saibari (baja, Injury); M. Neuer (duda, Foot Injury); M. Olise (duda, Injury); L. Diaz (baja, Muscle Injury); S. Gnabry (baja, Muscle Injury); J. Musiala (baja, Muscle Injury); I. Saibari (baja, Injury); M. Neuer (duda, Foot Injury); M. Olise (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2020-12-01 · UEFA Champions League: Atletico Madrid 1-1 Bayern Munich

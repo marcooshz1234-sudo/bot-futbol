@@ -1,10 +1,10 @@
 # Borussia Dortmund – Real Betis
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 02:10_
+_Actualizadas: 02/11 08:30_
 
 - **1X2:** 1 **1.70**  ·  X **4.33**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.20**  ·  X2 **2.10**
@@ -114,7 +114,8 @@ _Actualizadas: 02/11 02:10_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Borussia Dortmund:** E. Can (baja, Knee Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury); E. Can (baja, Knee Injury); G. Konstantelias (baja, Knee Injury); J. Lerma (baja, Muscle Injury)
+**Real Betis:** I. Losada (baja, Coach's decision); J. Firpo (duda, Groin Injury); C. Hernandez (duda, Calf Injury); I. Losada (baja, Coach's decision); J. Firpo (duda, Groin Injury); C. Hernandez (duda, Calf Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

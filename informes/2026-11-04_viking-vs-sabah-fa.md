@@ -1,7 +1,7 @@
 # Viking – Sabah FA
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · SR-Bank Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -60,7 +60,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Viking:** A. Baertelsen (baja, Foot Injury); V. Berisha (baja, Thigh Injury); S. Bjorshol (baja, Knee Injury); K. Frimpong (baja, Off the roster); M. Roseth (baja, Knee Injury); A. Baertelsen (baja, Foot Injury); V. Berisha (baja, Thigh Injury); S. Bjorshol (baja, Knee Injury); K. Frimpong (baja, Off the roster); M. Roseth (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

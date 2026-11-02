@@ -1,10 +1,10 @@
 # Mallorca – Cadiz
 **Segunda División** · Regular Season - 12 · 02/11/2026 21:00 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 02:09_
+_Actualizadas: 02/11 08:30_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.50**
@@ -20,13 +20,13 @@ _Actualizadas: 02/11 02:09_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.50** · menos **1.18**
+    - 1,5: más **5.00** · menos **1.17**
 - **Córners más/menos:**
     - 9,5: más **1.85** · menos **1.95**
 - **Tarjetas más/menos:**
@@ -221,9 +221,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 64% | 44% | 54% | 2.10 | +14% |
 | Goles del local: Menos de 2.5 | 87% | 71% | 79% | 1.33 | +5% |
 | Goles del visitante: Más de 0.5 | 58% | 54% | 56% | 1.73 | -4% |
-| Goles del visitante: Más de 1.5 | 21% | 21% | 21% | 4.50 | -5% |
 | Goles del visitante: Menos de 0.5 | 42% | 46% | 44% | 2.00 | -11% |
-| Goles del visitante: Menos de 1.5 | 79% | 79% | 79% | 1.18 | -7% |
 | Córners más/menos: Más de 9.5 | 48% | 51% | 50% | 1.85 | -8% |
 | Córners más/menos: Menos de 9.5 | 52% | 49% | 50% | 1.95 | -2% |
 | 1X2 descanso: X | 48% | 40% | 44% | 2.30 | +2% |

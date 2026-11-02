@@ -1,20 +1,20 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:14_
+_Actualizadas: 02/11 08:31_
 
-- **1X2:** 1 **7.00**  ·  X **5.00**  ·  2 **1.33**
-- **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.10**
+- **1X2:** 1 **7.50**  ·  X **5.50**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.14**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.75**
-    - 3,5: más **2.10** · menos **1.73**
-    - 4,5: más **3.50** · menos **1.30**
-    - 5,5: más **6.00** · menos **1.12**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -23,30 +23,39 @@ _Actualizadas: 01/11 02:14_
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.50** · menos **1.28**
+    - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.00** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **6.50**  ·  X **2.75**  ·  2 **1.73**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **1X2 descanso:** 1 **7.00**  ·  X **2.88**  ·  2 **1.67**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **3.50**  ·  2 **1.20**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **1.83**
-- **Win Both Halves:** 1 **29.00**  ·  2 **3.00**
-- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.60**  ·  Home/No **15.00**  ·  Draw/No **21.00**  ·  Away/No **2.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.50**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **29.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **12.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **2.50**  ·  Home/No **17.00**  ·  Draw/No **23.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.75**
+- **Home Corners Over/Under:**
+    - 3,5: más **1.91** · menos **1.80**
+- **Away Corners Over/Under:**
+    - 6,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):**
+    - 4,5: más **1.82** · menos **1.98**
 - **Away Player Shots On Target Total:** Yan Diomande **10.00**  ·  Filip Ugrinic **51.00**  ·  Carlos Espi **4.33**  ·  Ibrahima Konate **12.00**  ·  Aurelien Tchouameni **19.00**  ·  Antonio Rudiger **11.00**  ·  Arda Guler **34.00**  ·  Bernardo Silva **51.00**  ·  Aimar Blazquez **10.00**  ·  Thiago Pitarch **34.00**  ·  Ryunosuke Sato **51.00**  ·  Guido Rodriguez **29.00**  ·  David Otorbi **67.00**  ·  Kylian Mbappe **17.00**  ·  Arnau Martinez **34.00**  ·  Jose Pepelu **67.00**  ·  Jesus Vazquez **101.00**  ·  Cesar Tarrega **19.00**  ·  Iker Cordoba **23.00**  ·  Jose Gaya **151.00**  ·  Brahim Diaz **34.00**  ·  Daniel Raba **29.00**  ·  Aliou Dieng **67.00**  ·  Alvaro Carreras **67.00**  ·  Aaron Mayol **101.00**  ·  Justin de Haas **21.00**  ·  Hugo Duro **9.50**  ·  Javi Guerra **51.00**  ·  Luis Rioja **51.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **67.00**  ·  Pablo Maffeo **34.00**  ·  Federico Valverde **51.00**  ·  Jude Bellingham **13.00**  ·  Dean Huijsen **10.00**  ·  Arnaut Danjuma **34.00**  ·  Sadiq Umar **8.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **9.00**  ·  Endrick **15.00**  ·  Denzel Dumfries **15.00**  ·  Harvey Elliott **101.00**  ·  Mouctar Diakhaby **12.00**
-- **Anytime Goal Scorer:** Yan Diomande **2.60**  ·  Filip Ugrinic **6.00**  ·  Carlos Espi **1.83**  ·  Ibrahima Konate **8.00**  ·  Aurelien Tchouameni **6.50**  ·  Antonio Rudiger **8.00**  ·  Arda Guler **4.00**  ·  Bernardo Silva **6.00**  ·  Aimar Blazquez **4.33**  ·  Thiago Pitarch **4.33**  ·  Ryunosuke Sato **6.00**  ·  Guido Rodriguez **9.00**  ·  David Otorbi **7.00**  ·  Kylian Mbappe **1.53**  ·  Arnau Martinez **15.00**  ·  Jose Pepelu **8.00**  ·  Jesus Vazquez **13.00**  ·  Cesar Tarrega **15.00**  ·  Iker Cordoba **15.00**  ·  Jose Gaya **15.00**  ·  Brahim Diaz **4.00**  ·  Daniel Raba **3.60**  ·  Aliou Dieng **15.00**  ·  Alvaro Carreras **7.00**  ·  Aaron Mayol **13.00**  ·  Justin de Haas **15.00**  ·  Hugo Duro **3.60**  ·  Javi Guerra **6.50**  ·  Luis Rioja **7.00**  ·  Marc Cucurella **8.00**  ·  Trent Alexander-Arnold **7.00**  ·  Pablo Maffeo **13.00**  ·  Federico Valverde **5.50**  ·  Jude Bellingham **3.40**  ·  Dean Huijsen **7.00**  ·  Arnaut Danjuma **4.33**  ·  Sadiq Umar **3.40**  ·  Eduardo Camavinga **6.50**  ·  Eder Militao **7.00**  ·  Endrick **2.30**  ·  Denzel Dumfries **6.00**  ·  Harvey Elliott **7.00**  ·  Mouctar Diakhaby **10.00**
-- **Player to Score or Assist:** Yan Diomande **1.73**  ·  Filip Ugrinic **3.75**  ·  Carlos Espi **1.57**  ·  Ibrahima Konate **4.50**  ·  Aurelien Tchouameni **3.75**  ·  Antonio Rudiger **5.00**  ·  Arda Guler **1.80**  ·  Bernardo Silva **2.88**  ·  Aimar Blazquez **3.10**  ·  Thiago Pitarch **2.40**  ·  Ryunosuke Sato **3.75**  ·  Guido Rodriguez **6.50**  ·  David Otorbi **3.75**  ·  Kylian Mbappe **1.28**  ·  Arnau Martinez **6.00**  ·  Jose Pepelu **5.00**  ·  Jesus Vazquez **7.50**  ·  Cesar Tarrega **10.00**  ·  Iker Cordoba **9.50**  ·  Jose Gaya **6.50**  ·  Brahim Diaz **2.10**  ·  Daniel Raba **2.50**  ·  Aliou Dieng **9.50**  ·  Alvaro Carreras **4.00**  ·  Aaron Mayol **5.00**  ·  Justin de Haas **12.00**  ·  Hugo Duro **2.88**  ·  Javi Guerra **3.60**  ·  Luis Rioja **4.00**  ·  Marc Cucurella **3.75**  ·  Trent Alexander-Arnold **2.40**  ·  Pablo Maffeo **10.00**  ·  Federico Valverde **2.60**  ·  Jude Bellingham **2.05**  ·  Dean Huijsen **4.33**  ·  Arnaut Danjuma **3.10**  ·  Sadiq Umar **2.62**  ·  Eduardo Camavinga **4.00**  ·  Eder Militao **4.75**  ·  Endrick **1.62**  ·  Denzel Dumfries **2.60**  ·  Harvey Elliott **3.75**  ·  Mouctar Diakhaby **7.50**
+- **Anytime Goal Scorer:** Yan Diomande **2.50**  ·  Filip Ugrinic **6.00**  ·  Carlos Espi **1.80**  ·  Ibrahima Konate **8.00**  ·  Aurelien Tchouameni **6.50**  ·  Antonio Rudiger **8.00**  ·  Arda Guler **3.75**  ·  Bernardo Silva **5.00**  ·  Aimar Blazquez **4.00**  ·  Thiago Pitarch **4.00**  ·  Ryunosuke Sato **6.00**  ·  Guido Rodriguez **8.50**  ·  David Otorbi **7.00**  ·  Kylian Mbappe **1.44**  ·  Arnau Martinez **15.00**  ·  Jose Pepelu **8.50**  ·  Jesus Vazquez **12.00**  ·  Cesar Tarrega **15.00**  ·  Iker Cordoba **15.00**  ·  Jose Gaya **15.00**  ·  Brahim Diaz **3.75**  ·  Daniel Raba **3.75**  ·  Aliou Dieng **15.00**  ·  Alvaro Carreras **7.00**  ·  Aaron Mayol **12.00**  ·  Justin de Haas **15.00**  ·  Hugo Duro **3.50**  ·  Javi Guerra **6.50**  ·  Luis Rioja **7.00**  ·  Marc Cucurella **8.00**  ·  Trent Alexander-Arnold **7.00**  ·  Pablo Maffeo **12.00**  ·  Federico Valverde **4.75**  ·  Jude Bellingham **3.25**  ·  Dean Huijsen **7.00**  ·  Arnaut Danjuma **4.00**  ·  Sadiq Umar **3.25**  ·  Eduardo Camavinga **6.50**  ·  Eder Militao **7.00**  ·  Endrick **2.25**  ·  Denzel Dumfries **5.00**  ·  Harvey Elliott **7.00**  ·  Mouctar Diakhaby **10.00**
+- **Player to Score or Assist:** Yan Diomande **1.67**  ·  Filip Ugrinic **3.75**  ·  Carlos Espi **1.53**  ·  Ibrahima Konate **4.33**  ·  Aurelien Tchouameni **3.75**  ·  Antonio Rudiger **4.75**  ·  Arda Guler **1.73**  ·  Bernardo Silva **2.75**  ·  Aimar Blazquez **3.00**  ·  Thiago Pitarch **2.30**  ·  Ryunosuke Sato **3.60**  ·  Guido Rodriguez **6.00**  ·  David Otorbi **3.75**  ·  Kylian Mbappe **1.25**  ·  Arnau Martinez **6.00**  ·  Jose Pepelu **5.50**  ·  Jesus Vazquez **7.50**  ·  Cesar Tarrega **10.00**  ·  Iker Cordoba **9.50**  ·  Jose Gaya **6.50**  ·  Brahim Diaz **2.05**  ·  Daniel Raba **2.62**  ·  Aliou Dieng **9.50**  ·  Alvaro Carreras **3.75**  ·  Aaron Mayol **5.00**  ·  Justin de Haas **11.00**  ·  Hugo Duro **2.75**  ·  Javi Guerra **3.60**  ·  Luis Rioja **4.00**  ·  Marc Cucurella **3.75**  ·  Trent Alexander-Arnold **2.30**  ·  Pablo Maffeo **9.50**  ·  Federico Valverde **2.40**  ·  Jude Bellingham **2.00**  ·  Dean Huijsen **4.00**  ·  Arnaut Danjuma **3.00**  ·  Sadiq Umar **2.62**  ·  Eduardo Camavinga **3.75**  ·  Eder Militao **4.50**  ·  Endrick **1.57**  ·  Denzel Dumfries **2.40**  ·  Harvey Elliott **3.75**  ·  Mouctar Diakhaby **7.00**
 
 ## Estadísticas de equipo
 | | Valencia (total) | Valencia en casa | Real Madrid (total) | Real Madrid fuera |
@@ -185,20 +194,20 @@ _Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 71% | 69% | 70% | 1.33 | -7% |
-| 1X2: X | 19% | 18% | 18% | 5.00 | -8% |
-| 1X2: 1 | 10% | 13% | 12% | 7.00 | -18% |
-| Doble oportunidad: X2 | 90% | 88% | 89% | 1.10 | -2% |
-| Doble oportunidad: 12 | 81% | 83% | 82% | 1.17 | -4% |
-| Doble oportunidad: 1X | 29% | 30% | 29% | 3.25 | -4% |
+| 1X2: 2 | 71% | 71% | 71% | 1.30 | -8% |
+| 1X2: X | 19% | 17% | 18% | 5.50 | -3% |
+| 1X2: 1 | 10% | 12% | 11% | 7.50 | -15% |
+| Doble oportunidad: X2 | 90% | 87% | 88% | 1.10 | -3% |
+| Doble oportunidad: 12 | 81% | 84% | 83% | 1.14 | -6% |
+| Doble oportunidad: 1X | 29% | 28% | 29% | 3.40 | -2% |
 | Ambos marcan: No | 57% | 44% | 51% | 2.10 | +7% |
 | Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -18% |
-| Goles más/menos: Más de 2.5 | 52% | 66% | 59% | 1.44 | -15% |
-| Goles más/menos: Más de 3.5 | 30% | 45% | 38% | 2.10 | -21% |
-| Goles más/menos: Más de 4.5 | 15% | 27% | 21% | 3.50 | -27% |
-| Goles más/menos: Menos de 2.5 ✅ | 48% | 34% | 41% | 2.75 | +13% |
-| Goles más/menos: Menos de 3.5 | 70% | 55% | 62% | 1.73 | +8% |
-| Goles más/menos: Menos de 4.5 | 85% | 73% | 79% | 1.30 | +3% |
+| Goles más/menos: Más de 2.5 | 52% | 68% | 60% | 1.40 | -16% |
+| Goles más/menos: Más de 3.5 | 30% | 47% | 39% | 2.00 | -23% |
+| Goles más/menos: Más de 4.5 | 15% | 28% | 21% | 3.40 | -27% |
+| Goles más/menos: Menos de 2.5 ✅ | 48% | 32% | 40% | 3.00 | +19% |
+| Goles más/menos: Menos de 3.5 | 70% | 53% | 61% | 1.80 | +10% |
+| Goles más/menos: Menos de 4.5 | 85% | 72% | 79% | 1.33 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 77% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 22% | 17% | 4.33 | -27% |
@@ -206,16 +215,18 @@ _Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 78% | 83% | 1.20 | -0% |
 | Goles del local: Más de 0.5 | 48% | 61% | 55% | 1.53 | -16% |
-| Goles del local: Más de 1.5 | 14% | 27% | 21% | 3.50 | -28% |
+| Goles del local: Más de 1.5 | 14% | 25% | 20% | 3.75 | -26% |
 | Goles del local: Menos de 0.5 | 52% | 39% | 45% | 2.38 | +8% |
-| Goles del local: Menos de 1.5 | 86% | 73% | 79% | 1.28 | +2% |
-| Goles del visitante: Más de 1.5 | 62% | 71% | 67% | 1.33 | -12% |
-| Goles del visitante: Más de 2.5 | 35% | 46% | 41% | 2.00 | -19% |
-| Goles del visitante: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles del visitante: Menos de 1.5 ✅ | 38% | 29% | 33% | 3.25 | +9% |
-| Goles del visitante: Menos de 2.5 | 65% | 54% | 59% | 1.73 | +3% |
-| Goles del visitante: Menos de 3.5 | 84% | 75% | 79% | 1.25 | -1% |
-| 1X2 descanso: 2 | 50% | 53% | 51% | 1.73 | -11% |
-| 1X2 descanso: X | 38% | 33% | 36% | 2.75 | -2% |
+| Goles del local: Menos de 1.5 | 86% | 75% | 80% | 1.25 | +0% |
+| Goles del visitante: Más de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
+| Goles del visitante: Más de 2.5 | 35% | 50% | 43% | 1.83 | -22% |
+| Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -26% |
+| Goles del visitante: Menos de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
+| Goles del visitante: Menos de 2.5 | 65% | 50% | 57% | 1.83 | +5% |
+| Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +2% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
+| 1X2 descanso: 2 | 50% | 55% | 53% | 1.67 | -12% |
+| 1X2 descanso: X | 38% | 32% | 35% | 2.88 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

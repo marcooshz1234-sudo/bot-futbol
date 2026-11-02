@@ -1,10 +1,10 @@
 # Tarancón – Levante
 **Copa del Rey** · Round of 128 · 05/11/2026 19:00 (hora España) · Estadio Municipal de Tarancon
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 08:01_
+_Actualizadas: 02/11 08:30_
 
 - **1X2:** 1 **15.00**  ·  X **10.00**  ·  2 **1.12**
 - **Doble oportunidad:** 1X **6.50**  ·  12 **1.06**  ·  X2 **1.03**

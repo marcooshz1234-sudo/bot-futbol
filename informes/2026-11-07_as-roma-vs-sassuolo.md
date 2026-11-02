@@ -1,10 +1,55 @@
 # AS Roma – Sassuolo
 **Serie A** · Regular Season - 11 · 07/11/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 02/11 08:31_
+
+- **1X2:** 1 **1.33**  ·  X **5.00**  ·  2 **8.00**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **3.00**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.75** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **6.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.50**
+- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **6.50**
+- **Win Both Halves:** 1 **3.00**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **6.00**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **21.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.40**
+- **Home Player Shots On Target Total:** Leonardo Balerdi - 1 **2.62**  ·  Leonardo Balerdi - 2 **11.00**  ·  Rodrigo Mora - 1 **1.25**  ·  Rodrigo Mora - 2 **2.10**  ·  Rodrigo Mora - 3 **4.50**  ·  Rodrigo Mora - 4 **13.00**  ·  Matias Soule - 1 **1.17**  ·  Paulo Dybala - 1 **1.17**  ·  Lorenzo Pellegrini - 1 **1.30**  ·  Santiago Castro - 1 **1.17**  ·  Niccolo Pisilli - 1 **1.50**  ·  Bryan Cristante - 1 **1.80**  ·  Kouadio Kone - 1 **1.73**  ·  Wesley Lima - 1 **1.80**  ·  Devyne Rensch - 1 **2.00**  ·  Emanuele Lulli - 1 **2.50**  ·  Evan N'Dicka - 1 **2.62**  ·  Daniele Ghilardi - 1 **2.62**  ·  Gianluca Mancini - 1 **2.62**  ·  Konstantinos Koulierakis - 1 **3.25**  ·  Mario Hermoso - 1 **3.25**  ·  Nahuel Molina - 1 **3.25**  ·  Donyell Malen - 2 **1.30**  ·  Matias Soule - 2 **1.80**  ·  Paulo Dybala - 2 **1.83**  ·  Lorenzo Pellegrini - 2 **2.38**  ·  Santiago Castro - 2 **1.83**  ·  Niccolo Pisilli - 2 **3.40**  ·  Bryan Cristante - 2 **5.50**  ·  Kouadio Kone - 2 **4.50**  ·  Wesley Lima - 2 **5.50**  ·  Devyne Rensch - 2 **7.00**  ·  Emanuele Lulli - 2 **10.00**  ·  Evan N'Dicka - 2 **11.00**  ·  Daniele Ghilardi - 2 **11.00**  ·  Gianluca Mancini - 2 **11.00**  ·  Konstantinos Koulierakis - 2 **15.00**  ·  Mario Hermoso - 2 **15.00**  ·  Nahuel Molina - 2 **17.00**  ·  Donyell Malen - 3 **1.91**  ·  Matias Soule - 3 **3.50**  ·  Paulo Dybala - 3 **3.50**  ·  Lorenzo Pellegrini - 3 **5.50**  ·  Santiago Castro - 3 **3.75**  ·  Niccolo Pisilli - 3 **10.00**  ·  Bryan Cristante - 3 **19.00**  ·  Kouadio Kone - 3 **17.00**  ·  Wesley Lima - 3 **19.00**  ·  Devyne Rensch - 3 **21.00**  ·  Donyell Malen - 4 **3.40**  ·  Matias Soule - 4 **8.00**  ·  Paulo Dybala - 4 **9.00**  ·  Lorenzo Pellegrini - 4 **15.00**  ·  Santiago Castro - 4 **9.00**  ·  Niccolo Pisilli - 4 **21.00**  ·  Donyell Malen - 5 **6.50**  ·  Matias Soule - 5 **19.00**  ·  Paulo Dybala - 5 **21.00**  ·  Santiago Castro - 5 **21.00**  ·  Donyell Malen - 6 **15.00**  ·  Donyell Malen - 7 **21.00**  ·  Donyell Malen - 1 **1.05**  ·  Marten de Roon - 1 **2.50**  ·  Marten de Roon - 2 **10.00**
+- **Away Player Shots On Target Total:** Rafael Obrador **151.00**  ·  Niccolo Pisilli **29.00**  ·  Kristian Thorstvedt **34.00**  ·  Evan N'Dicka **11.00**  ·  Duje Caleta-Car **23.00**  ·  Leonardo Balerdi **12.00**  ·  Jay Idzes **15.00**  ·  Nemanja Matic **51.00**  ·  Fedde Leysen **21.00**  ·  Emanuele Lulli **8.50**  ·  Daniele Ghilardi **8.50**  ·  Domenico Berardi **34.00**  ·  Nicholas Pierini **41.00**  ·  Armand Lauriente **34.00**  ·  Cristian Volpato **51.00**  ·  Josh Doig **101.00**  ·  Andrea Ghion **81.00**  ·  Luca Lipani **41.00**  ·  Cas Odenthal **21.00**  ·  Ignace van der Brempt **101.00**  ·  Kieron Bowie **17.00**  ·  Devyne Rensch **51.00**  ·  Laurs Skjellerup **21.00**  ·  Matias Soule **7.00**  ·  Benjamin Dominguez **41.00**  ·  Simone Cinquegrano **101.00**  ·  Rodrigo Mora **21.00**  ·  Gabriel Kulla **17.00**  ·  Nahuel Molina **51.00**  ·  Darryl Bakola **34.00**  ·  Bryan Cristante **10.00**  ·  Gianluca Mancini **9.00**  ·  Lorenzo Pellegrini **21.00**  ·  Mario Hermoso **19.00**  ·  Paulo Dybala **34.00**  ·  Kouadio Kone **34.00**  ·  Santiago Castro **5.00**  ·  Sebastiano Esposito **19.00**  ·  Vasilije Adzic **26.00**  ·  Sebastian Walukiewicz **34.00**  ·  Ibrahim Sulemana **51.00**  ·  Marten de Roon **23.00**  ·  Konstantinos Koulierakis **9.00**  ·  Donyell Malen **11.00**  ·  Fali Cande **17.00**  ·  Wesley Lima **29.00**
+- **Home Player Shots:** Leonardo Balerdi - 1 **1.40**  ·  Leonardo Balerdi - 2 **2.62**  ·  Leonardo Balerdi - 3 **6.00**  ·  Rodrigo Mora - 1 **1.02**  ·  Rodrigo Mora - 2 **1.12**  ·  Rodrigo Mora - 3 **1.40**  ·  Rodrigo Mora - 4 **1.91**  ·  Rodrigo Mora - 5 **3.00**  ·  Rodrigo Mora - 6 **5.00**  ·  Rodrigo Mora - 7 **10.00**  ·  Rodrigo Mora - 8 **17.00**  ·  Lorenzo Pellegrini - 1 **1.01**  ·  Santiago Castro - 1 **1.01**  ·  Niccolo Pisilli - 1 **1.04**  ·  Bryan Cristante - 1 **1.06**  ·  Kouadio Kone - 1 **1.08**  ·  Wesley Lima - 1 **1.08**  ·  Devyne Rensch - 1 **1.18**  ·  Emanuele Lulli - 1 **1.33**  ·  Evan N'Dicka - 1 **1.33**  ·  Daniele Ghilardi - 1 **1.40**  ·  Gianluca Mancini - 1 **1.40**  ·  Konstantinos Koulierakis - 1 **1.53**  ·  Mario Hermoso - 1 **1.53**  ·  Nahuel Molina - 1 **1.57**  ·  Matias Soule - 2 **1.04**  ·  Paulo Dybala - 2 **1.05**  ·  Lorenzo Pellegrini - 2 **1.11**  ·  Santiago Castro - 2 **1.07**  ·  Niccolo Pisilli - 2 **1.22**  ·  Bryan Cristante - 2 **1.30**  ·  Kouadio Kone - 2 **1.40**  ·  Wesley Lima - 2 **1.40**  ·  Devyne Rensch - 2 **1.83**  ·  Emanuele Lulli - 2 **2.38**  ·  Evan N'Dicka - 2 **2.38**  ·  Daniele Ghilardi - 2 **2.62**  ·  Gianluca Mancini - 2 **2.62**  ·  Konstantinos Koulierakis - 2 **3.40**  ·  Mario Hermoso - 2 **3.40**  ·  Nahuel Molina - 2 **3.50**  ·  Donyell Malen - 3 **1.04**  ·  Matias Soule - 3 **1.17**  ·  Paulo Dybala - 3 **1.18**  ·  Lorenzo Pellegrini - 3 **1.33**  ·  Santiago Castro - 3 **1.25**  ·  Niccolo Pisilli - 3 **1.67**  ·  Bryan Cristante - 3 **1.83**  ·  Kouadio Kone - 3 **2.20**  ·  Wesley Lima - 3 **2.10**  ·  Devyne Rensch - 3 **3.40**  ·  Emanuele Lulli - 3 **5.50**  ·  Evan N'Dicka - 3 **5.50**  ·  Daniele Ghilardi - 3 **6.00**  ·  Gianluca Mancini - 3 **6.00**  ·  Konstantinos Koulierakis - 3 **9.00**  ·  Mario Hermoso - 3 **9.00**  ·  Nahuel Molina - 3 **10.00**  ·  Donyell Malen - 4 **1.12**  ·  Matias Soule - 4 **1.40**  ·  Paulo Dybala - 4 **1.44**  ·  Lorenzo Pellegrini - 4 **1.83**  ·  Santiago Castro - 4 **1.62**  ·  Niccolo Pisilli - 4 **2.50**  ·  Bryan Cristante - 4 **3.25**  ·  Kouadio Kone - 4 **3.75**  ·  Wesley Lima - 4 **3.75**  ·  Devyne Rensch - 4 **7.00**  ·  Emanuele Lulli - 4 **13.00**  ·  Evan N'Dicka - 4 **13.00**  ·  Daniele Ghilardi - 4 **15.00**  ·  Gianluca Mancini - 4 **15.00**  ·  Donyell Malen - 5 **1.30**  ·  Matias Soule - 5 **1.83**  ·  Paulo Dybala - 5 **2.00**  ·  Lorenzo Pellegrini - 5 **2.75**  ·  Santiago Castro - 5 **2.38**  ·  Niccolo Pisilli - 5 **4.33**  ·  Bryan Cristante - 5 **6.00**  ·  Kouadio Kone - 5 **8.00**  ·  Wesley Lima - 5 **7.00**  ·  Donyell Malen - 6 **1.62**  ·  Matias Soule - 6 **2.75**  ·  Paulo Dybala - 6 **3.00**  ·  Lorenzo Pellegrini - 6 **4.50**  ·  Santiago Castro - 6 **3.75**  ·  Niccolo Pisilli - 6 **8.00**  ·  Bryan Cristante - 6 **11.00**  ·  Donyell Malen - 7 **2.10**  ·  Matias Soule - 7 **4.33**  ·  Paulo Dybala - 7 **4.50**  ·  Lorenzo Pellegrini - 7 **8.00**  ·  Santiago Castro - 7 **6.50**  ·  Donyell Malen - 8 **3.00**  ·  Matias Soule - 8 **7.00**  ·  Paulo Dybala - 8 **8.00**  ·  Lorenzo Pellegrini - 8 **15.00**  ·  Santiago Castro - 8 **11.00**  ·  Donyell Malen - 9 **4.50**  ·  Matias Soule - 9 **13.00**  ·  Paulo Dybala - 9 **15.00**  ·  Donyell Malen - 10 **7.00**  ·  Donyell Malen - 11 **11.00**  ·  Marten de Roon - 1 **1.33**  ·  Marten de Roon - 2 **2.38**  ·  Marten de Roon - 3 **5.50**  ·  Marten de Roon - 4 **13.00**  ·  Mario Hermoso - 4 **21.00**  ·  Konstantinos Koulierakis - 4 **21.00**  ·  Nahuel Molina - 4 **21.00**  ·  Emanuele Lulli - 5 **21.00**  ·  Evan N'Dicka - 5 **21.00**  ·  Devyne Rensch - 5 **17.00**  ·  Wesley Lima - 6 **15.00**  ·  Kouadio Kone - 6 **17.00**  ·  Leonardo Balerdi - 4 **15.00**  ·  Niccolo Pisilli - 7 **17.00**  ·  Santiago Castro - 9 **19.00**  ·  Matias Soule - 10 **21.00**  ·  Donyell Malen - 12 **19.00**  ·  Devyne Rensch - 6 **21.00**  ·  Bryan Cristante - 7 **21.00**  ·  Kouadio Kone - 7 **21.00**  ·  Niccolo Pisilli - 8 **21.00**  ·  Lorenzo Pellegrini - 9 **21.00**  ·  Paulo Dybala - 10 **21.00**  ·  Donyell Malen - 13 **21.00**
+- **Away Player Shots:** Duje Caleta-Car - 1 **2.38**  ·  Duje Caleta-Car - 2 **8.00**  ·  Duje Caleta-Car - 3 **21.00**  ·  Ignace Van der Brempt - 1 **2.25**  ·  Ignace Van der Brempt - 2 **8.00**  ·  Ignace Van der Brempt - 3 **21.00**  ·  Ibrahim Sulemana - 1 **2.25**  ·  Ibrahim Sulemana - 2 **8.00**  ·  Ibrahim Sulemana - 3 **21.00**  ·  Sebastiano Esposito - 1 **1.07**  ·  Sebastiano Esposito - 2 **1.36**  ·  Sebastiano Esposito - 3 **2.10**  ·  Sebastiano Esposito - 4 **3.50**  ·  Sebastiano Esposito - 5 **7.00**  ·  Sebastiano Esposito - 6 **15.00**  ·  Domenico Berardi - 1 **1.05**  ·  Armand Lauriente - 1 **1.08**  ·  Kieron Bowie - 1 **1.11**  ·  Benjamin Dominguez - 1 **1.22**  ·  Gabriel Kulla - 1 **1.11**  ·  Kristian Thorstvedt - 1 **1.28**  ·  Cristian Volpato - 1 **1.25**  ·  Nicholas Pierini - 1 **1.18**  ·  Vasilije Adzic - 1 **1.40**  ·  Darryl Bakola - 1 **1.53**  ·  Josh Doig - 1 **2.00**  ·  Luca Lipani - 1 **1.57**  ·  Andrea Ghion - 1 **1.73**  ·  Simone Cinquegrano - 1 **1.83**  ·  Rafael Obrador - 1 **2.10**  ·  Jay Idzes - 1 **2.25**  ·  Fedde Leysen - 1 **2.38**  ·  Nemanja Matic - 1 **2.38**  ·  Cas Odenthal - 1 **2.62**  ·  Sebastian Walukiewicz - 1 **2.75**  ·  Domenico Berardi - 2 **1.28**  ·  Armand Lauriente - 2 **1.40**  ·  Kieron Bowie - 2 **1.53**  ·  Benjamin Dominguez - 2 **1.91**  ·  Gabriel Kulla - 2 **1.50**  ·  Kristian Thorstvedt - 2 **2.10**  ·  Cristian Volpato - 2 **2.00**  ·  Nicholas Pierini - 2 **1.80**  ·  Vasilije Adzic - 2 **2.62**  ·  Darryl Bakola - 2 **3.40**  ·  Josh Doig - 2 **6.00**  ·  Luca Lipani - 2 **3.50**  ·  Andrea Ghion - 2 **4.00**  ·  Simone Cinquegrano - 2 **5.00**  ·  Rafael Obrador - 2 **6.00**  ·  Jay Idzes - 2 **8.00**  ·  Fedde Leysen - 2 **8.00**  ·  Nemanja Matic - 2 **8.00**  ·  Cas Odenthal - 2 **10.00**  ·  Sebastian Walukiewicz - 2 **10.00**  ·  Domenico Berardi - 3 **1.80**  ·  Armand Lauriente - 3 **2.10**  ·  Kieron Bowie - 3 **2.50**  ·  Benjamin Dominguez - 3 **3.75**  ·  Gabriel Kulla - 3 **2.50**  ·  Kristian Thorstvedt - 3 **4.33**  ·  Cristian Volpato - 3 **4.00**  ·  Nicholas Pierini - 3 **3.40**  ·  Vasilije Adzic - 3 **6.00**  ·  Darryl Bakola - 3 **9.00**  ·  Josh Doig - 3 **19.00**  ·  Luca Lipani - 3 **10.00**  ·  Andrea Ghion - 3 **11.00**  ·  Simone Cinquegrano - 3 **15.00**  ·  Rafael Obrador - 3 **19.00**  ·  Jay Idzes - 3 **21.00**  ·  Fedde Leysen - 3 **21.00**  ·  Nemanja Matic - 3 **21.00**  ·  Cas Odenthal - 3 **21.00**  ·  Domenico Berardi - 4 **3.00**  ·  Armand Lauriente - 4 **3.75**  ·  Kieron Bowie - 4 **4.50**  ·  Benjamin Dominguez - 4 **8.00**  ·  Gabriel Kulla - 4 **4.50**  ·  Kristian Thorstvedt - 4 **11.00**  ·  Cristian Volpato - 4 **10.00**  ·  Nicholas Pierini - 4 **7.00**  ·  Vasilije Adzic - 4 **15.00**  ·  Darryl Bakola - 4 **21.00**  ·  Luca Lipani - 4 **21.00**  ·  Andrea Ghion - 4 **21.00**  ·  Domenico Berardi - 5 **5.50**  ·  Armand Lauriente - 5 **7.00**  ·  Kieron Bowie - 5 **10.00**  ·  Benjamin Dominguez - 5 **19.00**  ·  Gabriel Kulla - 5 **10.00**  ·  Kristian Thorstvedt - 5 **21.00**  ·  Cristian Volpato - 5 **21.00**  ·  Nicholas Pierini - 5 **15.00**  ·  Domenico Berardi - 6 **11.00**  ·  Armand Lauriente - 6 **15.00**  ·  Kieron Bowie - 6 **21.00**  ·  Benjamin Dominguez - 6 **21.00**  ·  Gabriel Kulla - 6 **19.00**  ·  Domenico Berardi - 7 **21.00**  ·  Armand Lauriente - 7 **17.00**  ·  Domenico Berardi - 8 **21.00**  ·  Sebastiano Esposito - 7 **21.00**  ·  Laurs Skjellerup - 1 **1.18**  ·  Laurs Skjellerup - 2 **1.80**  ·  Laurs Skjellerup - 3 **3.40**  ·  Laurs Skjellerup - 4 **7.00**  ·  Laurs Skjellerup - 5 **15.00**  ·  Laurs Skjellerup - 6 **21.00**  ·  Fali Cande - 1 **2.25**  ·  Fali Cande - 2 **8.00**  ·  Fali Cande - 3 **21.00**
+- **Anytime Goal Scorer:** Rafael Obrador **15.00**  ·  Niccolo Pisilli **3.40**  ·  Kristian Thorstvedt **6.00**  ·  Evan N'Dicka **7.50**  ·  Duje Caleta-Car **15.00**  ·  Leonardo Balerdi **6.50**  ·  Jay Idzes **13.00**  ·  Nemanja Matic **15.00**  ·  Fedde Leysen **15.00**  ·  Emanuele Lulli **5.50**  ·  Daniele Ghilardi **6.50**  ·  Domenico Berardi **4.33**  ·  Nicholas Pierini **5.00**  ·  Armand Lauriente **5.00**  ·  Cristian Volpato **6.00**  ·  Josh Doig **13.00**  ·  Andrea Ghion **11.00**  ·  Luca Lipani **9.00**  ·  Cas Odenthal **21.00**  ·  Ignace van der Brempt **13.00**  ·  Kieron Bowie **4.00**  ·  Devyne Rensch **5.50**  ·  Laurs Skjellerup **5.00**  ·  Matias Soule **2.20**  ·  Benjamin Dominguez **5.50**  ·  Simone Cinquegrano **11.00**  ·  Rodrigo Mora **2.20**  ·  Gabriel Kulla **4.00**  ·  Nahuel Molina **8.00**  ·  Darryl Bakola **7.50**  ·  Bryan Cristante **5.00**  ·  Gianluca Mancini **6.50**  ·  Lorenzo Pellegrini **2.50**  ·  Mario Hermoso **7.50**  ·  Paulo Dybala **2.05**  ·  Kouadio Kone **4.33**  ·  Santiago Castro **1.83**  ·  Sebastiano Esposito **4.00**  ·  Vasilije Adzic **6.50**  ·  Sebastian Walukiewicz **23.00**  ·  Ibrahim Sulemana **13.00**  ·  Marten de Roon **6.50**  ·  Konstantinos Koulierakis **7.50**  ·  Donyell Malen **1.57**  ·  Fali Cande **13.00**  ·  Wesley Lima **5.00**
+- **Player to Score or Assist:** Rafael Obrador **7.50**  ·  Niccolo Pisilli **2.10**  ·  Kristian Thorstvedt **4.00**  ·  Evan N'Dicka **3.40**  ·  Duje Caleta-Car **10.00**  ·  Leonardo Balerdi **3.50**  ·  Jay Idzes **8.50**  ·  Nemanja Matic **8.50**  ·  Fedde Leysen **11.00**  ·  Emanuele Lulli **2.62**  ·  Daniele Ghilardi **4.00**  ·  Domenico Berardi **2.38**  ·  Nicholas Pierini **3.60**  ·  Armand Lauriente **3.00**  ·  Cristian Volpato **3.50**  ·  Josh Doig **7.00**  ·  Andrea Ghion **7.50**  ·  Luca Lipani **4.75**  ·  Cas Odenthal **13.00**  ·  Ignace van der Brempt **6.00**  ·  Kieron Bowie **3.10**  ·  Devyne Rensch **2.75**  ·  Laurs Skjellerup **3.40**  ·  Matias Soule **1.50**  ·  Benjamin Dominguez **3.60**  ·  Simone Cinquegrano **4.50**  ·  Rodrigo Mora **1.57**  ·  Gabriel Kulla **3.00**  ·  Nahuel Molina **3.60**  ·  Darryl Bakola **4.33**  ·  Bryan Cristante **2.88**  ·  Gianluca Mancini **4.00**  ·  Lorenzo Pellegrini **1.73**  ·  Mario Hermoso **4.75**  ·  Paulo Dybala **1.40**  ·  Kouadio Kone **2.60**  ·  Santiago Castro **1.57**  ·  Sebastiano Esposito **2.38**  ·  Vasilije Adzic **4.50**  ·  Sebastian Walukiewicz **12.00**  ·  Ibrahim Sulemana **6.50**  ·  Marten de Roon **3.25**  ·  Konstantinos Koulierakis **4.33**  ·  Donyell Malen **1.33**  ·  Fali Cande **10.00**  ·  Wesley Lima **2.40**
 
 ## Estadísticas de equipo
 | | AS Roma (total) | AS Roma en casa | Sassuolo (total) | Sassuolo fuera |
@@ -141,4 +186,39 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Probabilidades del modelo
 _Goles esperados: local 2,72 · visitante 1,17 · córners esperados 9,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 14% | 12% | 13% | 8.00 | +2% |
+| 1X2: X | 16% | 19% | 17% | 5.00 | -14% |
+| 1X2: 1 | 70% | 70% | 70% | 1.33 | -7% |
+| Doble oportunidad: X2 | 30% | 32% | 31% | 3.00 | -8% |
+| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 86% | 88% | 87% | 1.08 | -6% |
+| Ambos marcan: No | 36% | 45% | 40% | 2.05 | -17% |
+| Ambos marcan: Sí | 64% | 55% | 60% | 1.70 | +1% |
+| Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles más/menos: Más de 3.5 | 54% | 45% | 50% | 2.10 | +5% |
+| Goles más/menos: Más de 4.5 ✅ | 35% | 25% | 30% | 3.75 | +13% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -18% |
+| Goles más/menos: Menos de 3.5 | 46% | 55% | 50% | 1.73 | -13% |
+| Goles más/menos: Menos de 4.5 | 65% | 75% | 70% | 1.28 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 47% | 2.10 | -0% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 21% | 22% | 4.50 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 53% | 1.67 | -12% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 79% | 78% | 1.18 | -9% |
+| Goles del local: Más de 1.5 | 76% | 71% | 73% | 1.33 | -3% |
+| Goles del local: Más de 2.5 | 51% | 46% | 49% | 2.00 | -2% |
+| Goles del local: Más de 3.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles del local: Menos de 1.5 | 24% | 29% | 27% | 3.25 | -13% |
+| Goles del local: Menos de 2.5 | 49% | 54% | 51% | 1.73 | -11% |
+| Goles del local: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles del visitante: Más de 0.5 | 69% | 59% | 64% | 1.57 | +0% |
+| Goles del visitante: Más de 1.5 | 33% | 25% | 29% | 3.75 | +8% |
+| Goles del visitante: Menos de 0.5 | 31% | 41% | 36% | 2.25 | -19% |
+| Goles del visitante: Menos de 1.5 | 67% | 75% | 71% | 1.25 | -11% |
+| 1X2 descanso: X | 31% | 33% | 32% | 2.75 | -11% |
+| 1X2 descanso: 1 | 53% | 53% | 53% | 1.73 | -9% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

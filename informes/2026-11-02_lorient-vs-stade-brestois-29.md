@@ -1,12 +1,12 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 02/11/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 02:09_
+_Actualizadas: 02/11 08:30_
 
-- **1X2:** 1 **2.45**  ·  X **3.10**  ·  2 **3.10**
+- **1X2:** 1 **2.45**  ·  X **3.20**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
@@ -31,6 +31,7 @@ _Actualizadas: 02/11 02:09_
     - 9: más **1.85** · menos **1.95**
     - 9,5: más **2.10** · menos **1.67**
 - **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
     - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
@@ -49,11 +50,11 @@ _Actualizadas: 02/11 02:09_
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Home Team Total Cards:**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
-    - 2,5: más **2.20** · menos **1.62**
+    - 2,5: más **2.10** · menos **1.67**
 - **Total ShotOnGoal:**
     - 8,5: más **1.91** · menos **1.80**
 - **ShotOnTarget 1x2:** 1 **1.83**  ·  X **7.00**  ·  2 **2.30**
@@ -124,7 +125,7 @@ _Actualizadas: 02/11 02:09_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Lorient:** P. Katseris (baja, Muscle Injury); B. Fadiga (duda, Muscle Injury); P. Katseris (baja, Muscle Injury); B. Fadiga (duda, Muscle Injury)
+**Lorient:** B. Fadiga (baja, Muscle Injury); P. Katseris (baja, Muscle Injury); B. Fadiga (baja, Muscle Injury); P. Katseris (baja, Muscle Injury)
 **Stade Brestois 29:** B. Chardonnet (baja, Calf Injury); R. Le Guen (baja, Broken Leg); G. Versini (duda, Leg Injury); B. Chardonnet (baja, Calf Injury); R. Le Guen (baja, Broken Leg); G. Versini (duda, Leg Injury)
 
 ## Enfrentamientos directos recientes
@@ -208,9 +209,9 @@ _Goles esperados: local 0,98 · visitante 1,11 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 31% | 34% | 3.10 | +7% |
-| 1X2: X | 30% | 31% | 30% | 3.10 | -6% |
-| 1X2: 1 | 32% | 39% | 35% | 2.45 | -13% |
+| 1X2: 2 | 38% | 32% | 35% | 3.00 | +5% |
+| 1X2: X | 30% | 30% | 30% | 3.20 | -5% |
+| 1X2: 1 | 32% | 39% | 35% | 2.45 | -14% |
 | Doble oportunidad: X2 | 68% | 62% | 65% | 1.53 | -1% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
 | Doble oportunidad: 1X | 62% | 69% | 66% | 1.36 | -11% |

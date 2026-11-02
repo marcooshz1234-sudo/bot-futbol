@@ -1,10 +1,53 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 02/11 08:31_
+
+- **1X2:** 1 **3.70**  ·  X **3.60**  ·  2 **1.91**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.28**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.75**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **13.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
+- **Home Player Shots On Target Total:** Pedro Goncalves - 1 **1.67**  ·  Pedro Goncalves - 2 **4.33**  ·  Pedro Goncalves - 3 **15.00**  ·  Degnand Gnonto - 1 **1.80**  ·  Degnand Gnonto - 2 **5.00**  ·  Degnand Gnonto - 3 **17.00**  ·  Beto - 1 **1.50**  ·  Beto - 2 **3.40**  ·  Beto - 3 **10.00**  ·  Beto - 4 **21.00**  ·  Mateo Pellegrino - 1 **1.40**  ·  Arthur Atta - 1 **1.83**  ·  Federico Croci - 1 **2.00**  ·  Franco Mastantuono - 1 **1.30**  ·  Marco Brescianini - 1 **3.25**  ·  Cher Ndour - 1 **2.75**  ·  Nicolo Fagioli - 1 **3.25**  ·  Christ Oulai - 1 **3.40**  ·  Alejandro Jimenez - 1 **2.75**  ·  Dodo dos Santos - 1 **3.40**  ·  Luca Ranieri - 1 **5.50**  ·  Viery Lopes - 1 **4.33**  ·  Victor Valdepenas - 1 **4.33**  ·  Marin Pongracic - 1 **6.00**  ·  Radu Dragusin - 1 **5.50**  ·  Mateo Pellegrino - 2 **2.75**  ·  Arthur Atta - 2 **6.00**  ·  Federico Croci - 2 **6.50**  ·  Franco Mastantuono - 2 **2.50**  ·  Marco Brescianini - 2 **15.00**  ·  Cher Ndour - 2 **13.00**  ·  Nicolo Fagioli - 2 **15.00**  ·  Christ Oulai - 2 **17.00**  ·  Alejandro Jimenez - 2 **13.00**  ·  Dodo dos Santos - 2 **17.00**  ·  Viery Lopes - 2 **21.00**  ·  Victor Valdepenas - 2 **21.00**  ·  Mateo Pellegrino - 3 **8.00**  ·  Arthur Atta - 3 **21.00**  ·  Federico Croci - 3 **21.00**  ·  Franco Mastantuono - 3 **6.00**  ·  Mateo Pellegrino - 4 **21.00**  ·  Franco Mastantuono - 4 **17.00**  ·  Alieu Njie - 1 **2.10**  ·  Alieu Njie - 2 **7.00**  ·  Alieu Njie - 3 **21.00**  ·  Brando Mazzeo - 1 **2.25**  ·  Brando Mazzeo - 2 **9.00**  ·  Neto Joao Mario - 1 **3.40**  ·  Neto Joao Mario - 2 **17.00**
+- **Away Player Shots On Target Total:** Dodo dos Santos **101.00**  ·  Edon Zhegrova **34.00**  ·  Randal Kolo Muani **13.00**  ·  Nicolo Fagioli **67.00**  ·  Jhon Lucumi **17.00**  ·  Bremer **17.00**  ·  Zeki Celik **67.00**  ·  Christ Oulai **81.00**  ·  Degnand Gnonto **29.00**  ·  Franco Mastantuono **34.00**  ·  Mateo Pellegrino **9.50**  ·  Nicolas Gonzalez **12.00**  ·  Douglas Luiz **51.00**  ·  Daniele Rugani **21.00**  ·  Joao Mario **67.00**  ·  Cher Ndour **41.00**  ·  Victor Valdepenas **21.00**  ·  Pedro Goncalves **34.00**  ·  Federico Croci **41.00**  ·  Brando Mazzeo **19.00**  ·  Kerim Alajbegovic **15.00**  ·  Lloyd Kelly **34.00**  ·  Pape Sarr **29.00**  ·  Radu Dragusin **19.00**  ·  Luca Ranieri **21.00**  ·  Marin Pongracic **29.00**  ·  Nick Woltemade **6.00**  ·  Alejandro Jimenez **67.00**  ·  Andrea Cambiaso **67.00**  ·  Federico Gatti **13.00**  ·  Teun Koopmeiners **26.00**  ·  Weston McKennie **6.50**  ·  Francisco Conceicao **29.00**  ·  Alieu Njie **26.00**  ·  Pierre Kalulu Kyatengwa **26.00**  ·  Beto **8.50**  ·  Marco Brescianini **41.00**  ·  Arthur Atta **41.00**  ·  Augusto Owusu **21.00**  ·  Viery Lopes **21.00**
+- **Home Player Shots:** Pedro Goncalves - 1 **1.04**  ·  Pedro Goncalves - 2 **1.25**  ·  Pedro Goncalves - 3 **1.73**  ·  Pedro Goncalves - 4 **2.75**  ·  Pedro Goncalves - 5 **5.00**  ·  Pedro Goncalves - 6 **10.00**  ·  Pedro Goncalves - 7 **19.00**  ·  Degnand Gnonto - 1 **1.10**  ·  Degnand Gnonto - 2 **1.44**  ·  Degnand Gnonto - 3 **2.25**  ·  Degnand Gnonto - 4 **4.33**  ·  Degnand Gnonto - 5 **9.00**  ·  Degnand Gnonto - 6 **19.00**  ·  Beto - 1 **1.05**  ·  Beto - 2 **1.30**  ·  Beto - 3 **1.83**  ·  Beto - 4 **3.00**  ·  Beto - 5 **5.50**  ·  Beto - 6 **11.00**  ·  Beto - 7 **21.00**  ·  Mateo Pellegrino - 1 **1.04**  ·  Arthur Atta - 1 **1.12**  ·  Federico Croci - 1 **1.17**  ·  Franco Mastantuono - 1 **1.02**  ·  Marco Brescianini - 1 **1.53**  ·  Cher Ndour - 1 **1.28**  ·  Nicolo Fagioli - 1 **1.33**  ·  Christ Oulai - 1 **1.62**  ·  Alejandro Jimenez - 1 **1.40**  ·  Dodo dos Santos - 1 **1.57**  ·  Luca Ranieri - 1 **2.10**  ·  Viery Lopes - 1 **2.00**  ·  Victor Valdepenas - 1 **2.00**  ·  Marin Pongracic - 1 **2.50**  ·  Radu Dragusin - 1 **2.38**  ·  Mateo Pellegrino - 2 **1.20**  ·  Arthur Atta - 2 **1.53**  ·  Federico Croci - 2 **1.80**  ·  Franco Mastantuono - 2 **1.12**  ·  Marco Brescianini - 2 **3.40**  ·  Cher Ndour - 2 **2.20**  ·  Nicolo Fagioli - 2 **2.38**  ·  Christ Oulai - 2 **3.75**  ·  Alejandro Jimenez - 2 **2.75**  ·  Dodo dos Santos - 2 **3.50**  ·  Luca Ranieri - 2 **6.00**  ·  Viery Lopes - 2 **5.50**  ·  Victor Valdepenas - 2 **5.50**  ·  Marin Pongracic - 2 **9.00**  ·  Radu Dragusin - 2 **8.00**  ·  Mateo Pellegrino - 3 **1.62**  ·  Arthur Atta - 3 **2.62**  ·  Federico Croci - 3 **3.25**  ·  Franco Mastantuono - 3 **1.40**  ·  Marco Brescianini - 3 **9.00**  ·  Cher Ndour - 3 **4.50**  ·  Nicolo Fagioli - 3 **5.50**  ·  Christ Oulai - 3 **11.00**  ·  Alejandro Jimenez - 3 **6.50**  ·  Dodo dos Santos - 3 **10.00**  ·  Luca Ranieri - 3 **19.00**  ·  Viery Lopes - 3 **19.00**  ·  Victor Valdepenas - 3 **17.00**  ·  Marin Pongracic - 3 **21.00**  ·  Radu Dragusin - 3 **21.00**  ·  Mateo Pellegrino - 4 **2.50**  ·  Arthur Atta - 4 **5.00**  ·  Federico Croci - 4 **7.00**  ·  Franco Mastantuono - 4 **1.91**  ·  Marco Brescianini - 4 **21.00**  ·  Cher Ndour - 4 **11.00**  ·  Nicolo Fagioli - 4 **13.00**  ·  Christ Oulai - 4 **21.00**  ·  Alejandro Jimenez - 4 **17.00**  ·  Dodo dos Santos - 4 **21.00**  ·  Mateo Pellegrino - 5 **4.33**  ·  Arthur Atta - 5 **11.00**  ·  Federico Croci - 5 **15.00**  ·  Franco Mastantuono - 5 **3.00**  ·  Cher Ndour - 5 **21.00**  ·  Mateo Pellegrino - 6 **8.00**  ·  Arthur Atta - 6 **21.00**  ·  Franco Mastantuono - 6 **5.00**  ·  Mateo Pellegrino - 7 **15.00**  ·  Franco Mastantuono - 7 **10.00**  ·  Mateo Pellegrino - 8 **21.00**  ·  Franco Mastantuono - 8 **17.00**  ·  Alieu Njie - 1 **1.22**  ·  Alieu Njie - 2 **1.91**  ·  Alieu Njie - 3 **3.75**  ·  Alieu Njie - 4 **8.00**  ·  Alieu Njie - 5 **19.00**  ·  Brando Mazzeo - 1 **1.25**  ·  Brando Mazzeo - 2 **2.10**  ·  Brando Mazzeo - 3 **4.33**  ·  Brando Mazzeo - 4 **10.00**  ·  Brando Mazzeo - 5 **21.00**  ·  Neto Joao Mario - 1 **1.50**  ·  Neto Joao Mario - 2 **3.25**  ·  Neto Joao Mario - 3 **8.00**  ·  Neto Joao Mario - 4 **19.00**
+- **Away Player Shots:** Nick Woltemade - 1 **1.04**  ·  Pape Sarr - 1 **1.25**  ·  Nick Woltemade - 2 **1.22**  ·  Pape Sarr - 2 **2.10**  ·  Nick Woltemade - 3 **1.67**  ·  Pape Sarr - 3 **4.33**  ·  Nick Woltemade - 4 **2.62**  ·  Pape Sarr - 4 **11.00**  ·  Nick Woltemade - 5 **4.50**  ·  Nick Woltemade - 6 **9.00**  ·  Nick Woltemade - 7 **17.00**  ·  Edon Zhegrova - 1 **1.02**  ·  Randal Kolo Muani - 1 **1.04**  ·  Francisco Conceicao - 1 **1.05**  ·  Teun Koopmeiners - 1 **1.05**  ·  Weston McKennie - 1 **1.04**  ·  Nicolas Gonzalez - 1 **1.04**  ·  Douglas Luiz - 1 **1.25**  ·  Andrea Cambiaso - 1 **1.44**  ·  Jhon Lucumi - 1 **1.80**  ·  Lloyd Kelly - 1 **1.80**  ·  Zeki Celik - 1 **1.73**  ·  Daniele Rugani - 1 **1.73**  ·  Federico Gatti - 1 **1.73**  ·  Bremer - 1 **1.73**  ·  Pierre Kalulu Kyatengwa - 1 **2.00**  ·  Kerim Alajbegovic - 2 **1.08**  ·  Edon Zhegrova - 2 **1.14**  ·  Randal Kolo Muani - 2 **1.22**  ·  Francisco Conceicao - 2 **1.25**  ·  Teun Koopmeiners - 2 **1.28**  ·  Weston McKennie - 2 **1.22**  ·  Nicolas Gonzalez - 2 **1.22**  ·  Douglas Luiz - 2 **2.10**  ·  Andrea Cambiaso - 2 **3.00**  ·  Jhon Lucumi - 2 **4.50**  ·  Lloyd Kelly - 2 **4.50**  ·  Zeki Celik - 2 **4.33**  ·  Daniele Rugani - 2 **4.33**  ·  Federico Gatti - 2 **4.33**  ·  Bremer - 2 **4.33**  ·  Pierre Kalulu Kyatengwa - 2 **5.50**  ·  Kerim Alajbegovic - 3 **1.30**  ·  Edon Zhegrova - 3 **1.44**  ·  Randal Kolo Muani - 3 **1.67**  ·  Francisco Conceicao - 3 **1.73**  ·  Teun Koopmeiners - 3 **1.80**  ·  Weston McKennie - 3 **1.67**  ·  Nicolas Gonzalez - 3 **1.67**  ·  Douglas Luiz - 3 **4.33**  ·  Andrea Cambiaso - 3 **7.00**  ·  Jhon Lucumi - 3 **13.00**  ·  Lloyd Kelly - 3 **13.00**  ·  Zeki Celik - 3 **13.00**  ·  Daniele Rugani - 3 **13.00**  ·  Federico Gatti - 3 **13.00**  ·  Bremer - 3 **13.00**  ·  Pierre Kalulu Kyatengwa - 3 **19.00**  ·  Kerim Alajbegovic - 4 **1.73**  ·  Edon Zhegrova - 4 **2.00**  ·  Randal Kolo Muani - 4 **2.62**  ·  Francisco Conceicao - 4 **2.75**  ·  Teun Koopmeiners - 4 **3.00**  ·  Weston McKennie - 4 **2.62**  ·  Nicolas Gonzalez - 4 **2.62**  ·  Douglas Luiz - 4 **11.00**  ·  Andrea Cambiaso - 4 **19.00**  ·  Kerim Alajbegovic - 5 **2.62**  ·  Edon Zhegrova - 5 **3.25**  ·  Randal Kolo Muani - 5 **4.50**  ·  Francisco Conceicao - 5 **5.00**  ·  Teun Koopmeiners - 5 **5.50**  ·  Weston McKennie - 5 **4.33**  ·  Nicolas Gonzalez - 5 **4.33**  ·  Douglas Luiz - 5 **21.00**  ·  Kerim Alajbegovic - 6 **4.00**  ·  Edon Zhegrova - 6 **5.50**  ·  Randal Kolo Muani - 6 **9.00**  ·  Francisco Conceicao - 6 **10.00**  ·  Teun Koopmeiners - 6 **11.00**  ·  Weston McKennie - 6 **9.00**  ·  Nicolas Gonzalez - 6 **9.00**  ·  Kerim Alajbegovic - 7 **7.00**  ·  Edon Zhegrova - 7 **11.00**  ·  Randal Kolo Muani - 7 **17.00**  ·  Francisco Conceicao - 7 **19.00**  ·  Teun Koopmeiners - 7 **21.00**  ·  Weston McKennie - 7 **17.00**  ·  Nicolas Gonzalez - 7 **17.00**  ·  Kerim Alajbegovic - 8 **13.00**  ·  Edon Zhegrova - 8 **19.00**  ·  Kerim Alajbegovic - 9 **21.00**  ·  Kerim Alajbegovic - 1 **1.01**  ·  Pape Sarr - 5 **21.00**  ·  Augusto Owusu - 1 **1.33**  ·  Augusto Owusu - 2 **2.38**  ·  Augusto Owusu - 3 **5.50**  ·  Augusto Owusu - 4 **13.00**
+- **Anytime Goal Scorer:** Dodo dos Santos **10.00**  ·  Edon Zhegrova **3.00**  ·  Randal Kolo Muani **2.75**  ·  Nicolo Fagioli **7.50**  ·  Jhon Lucumi **12.00**  ·  Bremer **9.50**  ·  Zeki Celik **12.00**  ·  Christ Oulai **8.50**  ·  Degnand Gnonto **4.50**  ·  Franco Mastantuono **3.60**  ·  Mateo Pellegrino **3.00**  ·  Nicolas Gonzalez **3.60**  ·  Douglas Luiz **6.00**  ·  Daniele Rugani **9.50**  ·  Joao Mario **10.00**  ·  Cher Ndour **7.50**  ·  Victor Valdepenas **12.00**  ·  Pedro Goncalves **3.75**  ·  Federico Croci **4.75**  ·  Brando Mazzeo **5.50**  ·  Kerim Alajbegovic **3.00**  ·  Lloyd Kelly **12.00**  ·  Pape Sarr **6.00**  ·  Radu Dragusin **15.00**  ·  Luca Ranieri **15.00**  ·  Marin Pongracic **19.00**  ·  Nick Woltemade **2.75**  ·  Alejandro Jimenez **8.50**  ·  Andrea Cambiaso **7.50**  ·  Federico Gatti **9.50**  ·  Teun Koopmeiners **3.00**  ·  Weston McKennie **3.25**  ·  Francisco Conceicao **3.25**  ·  Alieu Njie **5.50**  ·  Pierre Kalulu Kyatengwa **12.00**  ·  Beto **3.10**  ·  Marco Brescianini **7.50**  ·  Arthur Atta **5.50**  ·  Augusto Owusu **6.00**  ·  Viery Lopes **12.00**
+- **Player to Score or Assist:** Dodo dos Santos **4.50**  ·  Edon Zhegrova **2.05**  ·  Randal Kolo Muani **2.25**  ·  Nicolo Fagioli **4.00**  ·  Jhon Lucumi **8.00**  ·  Bremer **7.50**  ·  Zeki Celik **4.33**  ·  Christ Oulai **4.00**  ·  Degnand Gnonto **2.88**  ·  Franco Mastantuono **2.62**  ·  Mateo Pellegrino **2.38**  ·  Nicolas Gonzalez **2.50**  ·  Douglas Luiz **3.20**  ·  Daniele Rugani **7.50**  ·  Cher Ndour **4.00**  ·  Victor Valdepenas **7.50**  ·  Pedro Goncalves **2.62**  ·  Federico Croci **2.88**  ·  Brando Mazzeo **3.10**  ·  Neto Joao Mario **5.50**  ·  Kerim Alajbegovic **2.00**  ·  Lloyd Kelly **6.00**  ·  Pape Sarr **3.75**  ·  Radu Dragusin **12.00**  ·  Luca Ranieri **8.00**  ·  Marin Pongracic **13.00**  ·  Nick Woltemade **2.05**  ·  Alejandro Jimenez **4.75**  ·  Andrea Cambiaso **3.60**  ·  Federico Gatti **6.50**  ·  Teun Koopmeiners **2.10**  ·  Weston McKennie **2.30**  ·  Francisco Conceicao **1.95**  ·  Alieu Njie **4.00**  ·  Pierre Kalulu Kyatengwa **6.50**  ·  Beto **2.62**  ·  Marco Brescianini **5.00**  ·  Arthur Atta **3.40**  ·  Augusto Owusu **3.10**  ·  Viery Lopes **6.50**
 
 ## Estadísticas de equipo
 | | Fiorentina (total) | Fiorentina en casa | Juventus (total) | Juventus fuera |
@@ -141,4 +184,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Probabilidades del modelo
 _Goles esperados: local 0,99 · visitante 1,53 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 50% | 49% | 49% | 1.91 | -6% |
+| 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
+| 1X2: 1 | 25% | 25% | 25% | 3.70 | -8% |
+| Doble oportunidad: X2 | 75% | 74% | 75% | 1.28 | -4% |
+| Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 50% | 52% | 51% | 1.83 | -7% |
+| Ambos marcan: No | 51% | 44% | 48% | 2.10 | -0% |
+| Ambos marcan: Sí | 49% | 56% | 52% | 1.67 | -12% |
+| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -9% |
+| Goles más/menos: Más de 2.5 | 46% | 55% | 50% | 1.73 | -13% |
+| Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
+| Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
+| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
+| Goles del local: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
+| Goles del local: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
+| Goles del local: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
+| Goles del local: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
+| Goles del visitante: Más de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Goles del visitante: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles del visitante: Menos de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
+| Goles del visitante: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
+| 1X2 descanso: 2 | 36% | 37% | 36% | 2.50 | -9% |
+| 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -4% |
+| 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

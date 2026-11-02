@@ -1,17 +1,17 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 02:15_
+_Actualizadas: 02/11 08:31_
 
 - **1X2:** 1 **3.60**  ·  X **4.10**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.22**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
-    - 2,5: más **1.33** · menos **3.40**
+    - 2,5: más **1.36** · menos **3.20**
     - 3,5: más **1.91** · menos **1.91**
     - 4,5: más **3.00** · menos **1.40**
     - 5,5: más **5.00** · menos **1.17**
@@ -25,13 +25,15 @@ _Actualizadas: 01/11 02:15_
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **5.00** · menos **1.17**
     - 4,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.75**  ·  2 **2.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
@@ -43,12 +45,17 @@ _Actualizadas: 01/11 02:15_
 - **Both Teams To Score - Second Half:** Sí **2.25**  ·  No **1.57**
 - **To Win Either Half:** 1 **2.10**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.10**
-- **Win Both Halves:** 1 **13.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **2.75**  ·  Home/No **10.00**  ·  Draw/No **29.00**  ·  Away/No **4.50**
+- **Win Both Halves:** 1 **13.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **2.75**  ·  Home/No **10.00**  ·  Draw/No **26.00**  ·  Away/No **4.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.53**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **4.33**
-- **Away Player Shots On Target Total:** Morten Hjulmand **29.00**  ·  Jonathan David **13.00**  ·  Kang-In Lee **29.00**  ·  Rodri **21.00**  ·  Rodrigo Mendoza **11.00**  ·  Marc Pubill **51.00**  ·  Jules Kounde **17.00**  ·  Alexander Sorloth **6.00**  ·  David Hancko **13.00**  ·  Lamine Yamal **21.00**  ·  Alex Baena **21.00**  ·  Pedri **34.00**  ·  Alex Grimaldo **41.00**  ·  Pau Cubarsi **12.00**  ·  Joao Cancelo **51.00**  ·  Julian Alvarez **23.00**  ·  Raphinha **29.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **13.00**  ·  Andreas Christensen **13.00**  ·  Marc Bernal **12.00**  ·  Eric Garcia **13.00**  ·  Jorge Koke **81.00**  ·  Dani Martinez **81.00**  ·  Dani Olmo **29.00**  ·  Gavi **41.00**  ·  Fermin Lopez **15.00**  ·  Hamza Abdelkarim **12.00**  ·  Brian Farinas **21.00**  ·  Arnau Ortiz **21.00**  ·  Marcos Llorente **81.00**  ·  Robin Le Normand **21.00**  ·  Javier Gil **81.00**  ·  Johnny Cardoso **19.00**  ·  Anthony Gordon **17.00**  ·  Cristian Romero **9.00**  ·  Giuliano Simeone **51.00**  ·  Pablo Barrios **51.00**  ·  Alex Balde **51.00**  ·  Ademola Lookman **26.00**  ·  Karim Adeyemi **21.00**  ·  Martin Gerard **34.00**
-- **Anytime Goal Scorer:** Morten Hjulmand **6.50**  ·  Jonathan David **2.60**  ·  Kang-In Lee **3.40**  ·  Rodri **6.50**  ·  Rodrigo Mendoza **4.50**  ·  Marc Pubill **10.00**  ·  Jules Kounde **7.50**  ·  Alexander Sorloth **2.50**  ·  David Hancko **8.50**  ·  Lamine Yamal **2.20**  ·  Alex Baena **4.00**  ·  Pedri **5.00**  ·  Alex Grimaldo **5.00**  ·  Pau Cubarsi **8.50**  ·  Joao Cancelo **6.50**  ·  Julian Alvarez **2.75**  ·  Raphinha **2.20**  ·  Xavi Espart **6.50**  ·  Gabriel Jesus **2.38**  ·  Andreas Christensen **7.50**  ·  Marc Bernal **5.00**  ·  Eric Garcia **7.50**  ·  Jorge Koke **10.00**  ·  Dani Martinez **10.00**  ·  Dani Olmo **3.40**  ·  Gavi **6.00**  ·  Jorge Castillo **6.50**  ·  Fermin Lopez **3.10**  ·  Hamza Abdelkarim **2.60**  ·  Brian Farinas **4.50**  ·  Jorge Dominguez **10.00**  ·  Arnau Ortiz **3.40**  ·  Marcos Llorente **10.00**  ·  Robin Le Normand **15.00**  ·  Javier Gil **8.50**  ·  Johnny Cardoso **10.00**  ·  Anthony Gordon **2.60**  ·  Cristian Romero **6.50**  ·  Giuliano Simeone **5.50**  ·  Pablo Barrios **6.50**  ·  Alex Balde **8.50**  ·  Ademola Lookman **2.88**  ·  Karim Adeyemi **2.88**  ·  Martin Gerard **10.00**
-- **Player to Score or Assist:** Morten Hjulmand **4.50**  ·  Jonathan David **2.00**  ·  Kang-In Lee **2.30**  ·  Rodri **3.50**  ·  Rodrigo Mendoza **2.75**  ·  Marc Pubill **4.75**  ·  Jules Kounde **3.75**  ·  Alexander Sorloth **2.10**  ·  David Hancko **6.00**  ·  Lamine Yamal **1.53**  ·  Alex Baena **2.25**  ·  Pedri **2.40**  ·  Alex Grimaldo **2.60**  ·  Pau Cubarsi **6.00**  ·  Joao Cancelo **2.88**  ·  Julian Alvarez **2.05**  ·  Raphinha **1.53**  ·  Xavi Espart **3.75**  ·  Gabriel Jesus **1.73**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **2.75**  ·  Eric Garcia **4.75**  ·  Jorge Koke **5.50**  ·  Dani Martinez **5.50**  ·  Dani Olmo **2.10**  ·  Gavi **3.20**  ·  Jorge Castillo **4.50**  ·  Fermin Lopez **1.91**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **2.38**  ·  Jorge Dominguez **6.00**  ·  Arnau Ortiz **2.38**  ·  Marcos Llorente **4.50**  ·  Robin Le Normand **10.00**  ·  Javier Gil **5.00**  ·  Johnny Cardoso **6.50**  ·  Anthony Gordon **1.73**  ·  Cristian Romero **6.00**  ·  Giuliano Simeone **2.75**  ·  Pablo Barrios **4.00**  ·  Alex Balde **4.33**  ·  Ademola Lookman **2.05**  ·  Karim Adeyemi **1.91**  ·  Martin Gerard **4.33**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
+- **Away Player Shots On Target Total:** Morten Hjulmand **41.00**  ·  Jonathan David **13.00**  ·  Kang-In Lee **29.00**  ·  Rodri **21.00**  ·  Rodrigo Mendoza **11.00**  ·  Marc Pubill **41.00**  ·  Jules Kounde **17.00**  ·  Alexander Sorloth **6.00**  ·  David Hancko **13.00**  ·  Lamine Yamal **21.00**  ·  Alex Baena **21.00**  ·  Pedri **41.00**  ·  Alex Grimaldo **41.00**  ·  Pau Cubarsi **12.00**  ·  Joao Cancelo **67.00**  ·  Julian Alvarez **23.00**  ·  Raphinha **23.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **13.00**  ·  Andreas Christensen **13.00**  ·  Marc Bernal **12.00**  ·  Eric Garcia **13.00**  ·  Jorge Koke **81.00**  ·  Obed Vargas **126.00**  ·  Dani Martinez **81.00**  ·  Dani Olmo **29.00**  ·  Gavi **41.00**  ·  Fermin Lopez **15.00**  ·  Hamza Abdelkarim **12.00**  ·  Brian Farinas **19.00**  ·  Orian Goren **34.00**  ·  Arnau Ortiz **21.00**  ·  Marcos Llorente **81.00**  ·  Robin Le Normand **21.00**  ·  Alex Campos **13.00**  ·  Javier Gil **81.00**  ·  Johnny Cardoso **19.00**  ·  Anthony Gordon **17.00**  ·  Cristian Romero **9.00**  ·  Giuliano Simeone **51.00**  ·  Pablo Barrios **51.00**  ·  Frenkie De Jong **51.00**  ·  Alex Balde **51.00**  ·  Ademola Lookman **26.00**  ·  Karim Adeyemi **21.00**  ·  Martin Gerard **34.00**
+- **Anytime Goal Scorer:** Morten Hjulmand **8.50**  ·  Jonathan David **2.60**  ·  Kang-In Lee **3.40**  ·  Rodri **6.50**  ·  Rodrigo Mendoza **4.50**  ·  Marc Pubill **10.00**  ·  Jules Kounde **7.50**  ·  Alexander Sorloth **2.50**  ·  David Hancko **8.50**  ·  Lamine Yamal **2.20**  ·  Alex Baena **4.00**  ·  Pedri **6.00**  ·  Alex Grimaldo **5.00**  ·  Pau Cubarsi **8.50**  ·  Joao Cancelo **7.50**  ·  Julian Alvarez **2.75**  ·  Raphinha **1.95**  ·  Xavi Espart **6.50**  ·  Gabriel Jesus **2.38**  ·  Andreas Christensen **7.50**  ·  Marc Bernal **5.00**  ·  Eric Garcia **7.50**  ·  Jorge Koke **10.00**  ·  Obed Vargas **6.50**  ·  Dani Martinez **10.00**  ·  Dani Olmo **3.40**  ·  Gavi **6.00**  ·  Jorge Castillo **6.50**  ·  Fermin Lopez **3.10**  ·  Hamza Abdelkarim **2.60**  ·  Ebrima Tunkara **2.60**  ·  Brian Farinas **4.00**  ·  Orian Goren **5.00**  ·  Jorge Dominguez **10.00**  ·  Arnau Ortiz **3.40**  ·  Marcos Llorente **10.00**  ·  Robin Le Normand **15.00**  ·  Alex Campos **7.50**  ·  Guillem Victor **6.50**  ·  Javier Gil **8.50**  ·  Johnny Cardoso **10.00**  ·  Anthony Gordon **2.60**  ·  Cristian Romero **6.50**  ·  Giuliano Simeone **5.50**  ·  Pablo Barrios **6.50**  ·  Frenkie De Jong **6.00**  ·  Alex Balde **8.50**  ·  Ademola Lookman **2.88**  ·  Karim Adeyemi **2.60**  ·  Martin Gerard **10.00**
+- **Player to Score or Assist:** Morten Hjulmand **5.00**  ·  Jonathan David **2.00**  ·  Kang-In Lee **2.30**  ·  Rodri **3.50**  ·  Rodrigo Mendoza **2.75**  ·  Marc Pubill **4.75**  ·  Jules Kounde **3.75**  ·  Alexander Sorloth **2.10**  ·  David Hancko **6.00**  ·  Lamine Yamal **1.53**  ·  Alex Baena **2.25**  ·  Pedri **3.20**  ·  Alex Grimaldo **2.60**  ·  Pau Cubarsi **6.00**  ·  Joao Cancelo **3.75**  ·  Julian Alvarez **2.05**  ·  Raphinha **1.53**  ·  Xavi Espart **3.75**  ·  Gabriel Jesus **1.73**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **2.62**  ·  Eric Garcia **4.75**  ·  Jorge Koke **5.50**  ·  Obed Vargas **3.60**  ·  Dani Martinez **5.50**  ·  Dani Olmo **2.10**  ·  Gavi **3.20**  ·  Jorge Castillo **4.50**  ·  Fermin Lopez **1.95**  ·  Hamza Abdelkarim **2.00**  ·  Ebrima Tunkara **1.80**  ·  Brian Farinas **2.62**  ·  Orian Goren **2.60**  ·  Jorge Dominguez **6.00**  ·  Arnau Ortiz **2.40**  ·  Marcos Llorente **4.50**  ·  Robin Le Normand **10.00**  ·  Alex Campos **5.50**  ·  Guillem Victor **3.00**  ·  Javier Gil **5.50**  ·  Johnny Cardoso **6.50**  ·  Anthony Gordon **1.67**  ·  Cristian Romero **6.00**  ·  Giuliano Simeone **2.75**  ·  Pablo Barrios **4.00**  ·  Frenkie De Jong **3.50**  ·  Alex Balde **4.00**  ·  Ademola Lookman **2.05**  ·  Karim Adeyemi **1.80**  ·  Martin Gerard **4.33**
 
 ## Estadísticas de equipo
 | | Atletico Madrid (total) | Atletico Madrid en casa | Barcelona (total) | Barcelona fuera |
@@ -195,10 +202,10 @@ _Goles esperados: local 1,41 · visitante 1,95 · córners esperados 9,1._
 | Doble oportunidad: 1X | 50% | 49% | 49% | 1.95 | -4% |
 | Ambos marcan: No | 35% | 31% | 33% | 3.00 | -1% |
 | Ambos marcan: Sí | 65% | 69% | 67% | 1.36 | -9% |
-| Goles más/menos: Más de 2.5 | 65% | 72% | 69% | 1.33 | -9% |
+| Goles más/menos: Más de 2.5 | 65% | 70% | 68% | 1.36 | -8% |
 | Goles más/menos: Más de 3.5 | 43% | 50% | 47% | 1.91 | -11% |
 | Goles más/menos: Más de 4.5 | 25% | 32% | 28% | 3.00 | -15% |
-| Goles más/menos: Menos de 2.5 ✅ | 35% | 28% | 31% | 3.40 | +7% |
+| Goles más/menos: Menos de 2.5 | 35% | 30% | 32% | 3.20 | +3% |
 | Goles más/menos: Menos de 3.5 | 57% | 50% | 53% | 1.91 | +2% |
 | Goles más/menos: Menos de 4.5 | 75% | 68% | 72% | 1.40 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
@@ -217,6 +224,8 @@ _Goles esperados: local 1,41 · visitante 1,95 · córners esperados 9,1._
 | Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
+| Córners más/menos: Más de 9.5 | 41% | 51% | 46% | 1.85 | -14% |
+| Córners más/menos: Menos de 9.5 | 59% | 49% | 54% | 1.95 | +5% |
 | 1X2 descanso: 2 | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: X | 37% | 34% | 35% | 2.75 | -3% |
 | 1X2 descanso: 1 | 25% | 25% | 25% | 3.75 | -7% |
