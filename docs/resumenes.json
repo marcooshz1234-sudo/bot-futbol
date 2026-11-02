@@ -750,14 +750,14 @@
   },
   "2026-11-02": {
     "dia": "2026-11-02",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -765,6 +765,12 @@
         "titulo": "✅ COMBI LOCAS | PREMIER",
         "estado": "pendiente",
         "cuota": 6.2
+      },
+      {
+        "id": "2026-11-02-pick-seguro",
+        "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
+        "estado": "pendiente",
+        "cuota": 1.5
       }
     ],
     "picks": {
@@ -772,6 +778,6 @@
       "rojo": 0,
       "total": 12
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 6,20 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | PREMIER · 6,20 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }

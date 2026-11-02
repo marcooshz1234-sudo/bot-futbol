@@ -278,5 +278,9 @@
   "2026-11-02-ganadores": {
     "enviado": "2026-11-02T01:00",
     "mensaje_id": 231
+  },
+  "2026-11-02-pick-seguro": {
+    "enviado": "2026-11-02T10:30",
+    "mensaje_id": 232
   }
 }
