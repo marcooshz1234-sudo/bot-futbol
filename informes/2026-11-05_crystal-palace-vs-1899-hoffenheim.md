@@ -1,7 +1,7 @@
 # Crystal Palace – 1899 Hoffenheim
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | Nathan De Cat | M | 5 | 169 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 1,72 · córners esperados 10,0._
+_Goles esperados: local 1,82 · visitante 1,71 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -200,12 +200,12 @@ _Goles esperados: local 1,82 · visitante 1,72 · córners esperados 10,0._
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
 | Goles del local: Más de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
 | Goles del local: Más de 2.5 | 27% | 29% | 28% | 3.25 | -8% |
-| Goles del local: Menos de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
+| Goles del local: Menos de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Goles del local: Menos de 2.5 | 73% | 71% | 72% | 1.33 | -5% |
 | Goles del visitante: Más de 0.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Goles del visitante: Más de 1.5 ✅ | 51% | 38% | 44% | 2.50 | +11% |
 | Goles del visitante: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -22% |
-| Goles del visitante: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -17% |
+| Goles del visitante: Menos de 1.5 | 49% | 62% | 56% | 1.50 | -16% |
 | 1X2 descanso: 2 | 31% | 25% | 28% | 3.75 | +4% |
 | 1X2 descanso: X | 36% | 37% | 37% | 2.50 | -9% |
 | 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -14% |

@@ -1,7 +1,7 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -51,43 +51,43 @@ _Actualizadas: 01/11 02:14_
 ## Estadísticas de equipo
 | | Valencia (total) | Valencia en casa | Real Madrid (total) | Real Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 6 | 14 | 7 |
-| Forma (últimos 5) | DEEDV | DEDDD | VVVVV | VVVDV |
-| Balance | 1V 3E 6D | 0V 2E 4D | 12V 0E 2D | 5V 0E 2D |
-| Goles a favor / partido | 0,70 | 0,50 | 2,71 | 2,14 |
-| Goles en contra / partido | 1,70 | 1,83 | 1,07 | 1,43 |
-| Goles a favor 1ª parte | 0,30 | 0,17 | 1,43 | 1,14 |
-| Goles a favor 2ª parte | 0,40 | 0,33 | 1,29 | 1,00 |
-| Goles en contra 1ª parte | 0,60 | 0,50 | 0,21 | 0,29 |
-| Goles en contra 2ª parte | 1,10 | 1,33 | 0,86 | 1,14 |
-| Más de 1,5 goles | 50% | 50% | 86% | 86% |
-| Más de 2,5 goles | 50% | 50% | 86% | 86% |
-| Más de 3,5 goles | 40% | 33% | 50% | 29% |
-| Ambos marcan | 40% | 33% | 71% | 71% |
-| Portería a cero | 30% | 33% | 21% | 14% |
-| Se queda sin marcar | 50% | 67% | 7% | 14% |
+| Partidos analizados | 11 | 6 | 14 | 7 |
+| Forma (últimos 5) | VDEED | DEDDD | VVVVV | VVVDV |
+| Balance | 2V 3E 6D | 0V 2E 4D | 12V 0E 2D | 5V 0E 2D |
+| Goles a favor / partido | 0,73 | 0,50 | 2,71 | 2,14 |
+| Goles en contra / partido | 1,55 | 1,83 | 1,07 | 1,43 |
+| Goles a favor 1ª parte | 0,27 | 0,17 | 1,43 | 1,14 |
+| Goles a favor 2ª parte | 0,45 | 0,33 | 1,29 | 1,00 |
+| Goles en contra 1ª parte | 0,55 | 0,50 | 0,21 | 0,29 |
+| Goles en contra 2ª parte | 1,00 | 1,33 | 0,86 | 1,14 |
+| Más de 1,5 goles | 45% | 50% | 86% | 86% |
+| Más de 2,5 goles | 45% | 50% | 86% | 86% |
+| Más de 3,5 goles | 36% | 33% | 50% | 29% |
+| Ambos marcan | 36% | 33% | 71% | 71% |
+| Portería a cero | 36% | 33% | 21% | 14% |
+| Se queda sin marcar | 45% | 67% | 7% | 14% |
 | xG a favor | 1,04 | 1,08 | 2,52 | 2,44 |
-| xG en contra | 1,49 | 1,70 | 1,16 | 1,30 |
-| Tiros / partido | 10,9 | 12,3 | 17,1 | 16,7 |
+| xG en contra | 1,47 | 1,70 | 1,16 | 1,30 |
+| Tiros / partido | 10,4 | 12,3 | 17,1 | 16,7 |
 | Tiros a puerta / partido | 2,9 | 3,3 | 7,4 | 6,1 |
 | Tiros recibidos | 15,5 | 16,0 | 13,5 | 12,7 |
-| Tiros a puerta recibidos | 4,9 | 4,5 | 4,8 | 4,9 |
-| Posesión media % | 45 | 40 | 51 | 49 |
-| Córners a favor | 4,2 | 4,2 | 6,4 | 6,4 |
-| Córners en contra | 4,9 | 4,7 | 4,4 | 3,7 |
-| Córners a favor 1ª parte | 1,6 | 1,3 | 3,1 | 3,6 |
-| Córners a favor 2ª parte | 2,6 | 2,8 | 3,3 | 2,9 |
-| Córners totales del partido | 9,1 | 8,8 | 10,8 | 10,1 |
-| Córners totales 1ª parte | 4,4 | 4,2 | 4,9 | 5,1 |
-| Córners totales 2ª parte | 4,7 | 4,7 | 5,9 | 5,0 |
-| Más de 8,5 córners | 60% | 50% | 64% | 57% |
-| Más de 9,5 córners | 60% | 50% | 64% | 57% |
-| Más de 10,5 córners | 30% | 33% | 57% | 43% |
-| Faltas cometidas | 11,6 | 12,5 | 9,2 | 8,7 |
-| Faltas recibidas | 11,2 | 11,3 | 13,5 | 15,7 |
+| Tiros a puerta recibidos | 4,7 | 4,5 | 4,8 | 4,9 |
+| Posesión media % | 44 | 40 | 51 | 49 |
+| Córners a favor | 4,0 | 4,2 | 6,4 | 6,4 |
+| Córners en contra | 5,0 | 4,7 | 4,4 | 3,7 |
+| Córners a favor 1ª parte | 1,5 | 1,3 | 3,1 | 3,6 |
+| Córners a favor 2ª parte | 2,5 | 2,8 | 3,3 | 2,9 |
+| Córners totales del partido | 9,0 | 8,8 | 10,8 | 10,1 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 4,9 | 5,1 |
+| Córners totales 2ª parte | 4,8 | 4,7 | 5,9 | 5,0 |
+| Más de 8,5 córners | 55% | 50% | 64% | 57% |
+| Más de 9,5 córners | 55% | 50% | 64% | 57% |
+| Más de 10,5 córners | 27% | 33% | 57% | 43% |
+| Faltas cometidas | 11,9 | 12,5 | 9,2 | 8,7 |
+| Faltas recibidas | 11,0 | 11,3 | 13,5 | 15,7 |
 | Amarillas propias | 2,3 | 2,2 | 1,8 | 1,9 |
-| Amarillas del rival | 2,3 | 2,7 | 2,6 | 3,1 |
-| Rojas / partido | 0,10 | 0,17 | 0,14 | 0,14 |
+| Amarillas del rival | 2,4 | 2,7 | 2,6 | 3,1 |
+| Rojas / partido | 0,09 | 0,17 | 0,14 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Valencia | Recibe Valencia | Tarjetas Valencia | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid |
@@ -96,8 +96,8 @@ _Actualizadas: 01/11 02:14_
 | 16-30' | 1 | 3 | 4 | 9 | 2 | 2 |
 | 31-45' | 1 | 1 | 6 | 7 | 1 | 2 |
 | 46-60' | 1 | 3 | 2 | 2 | 5 | 4 |
-| 61-75' | 1 | 1 | 4 | 3 | 2 | 6 |
-| 76-90' | 2 | 7 | 7 | 13 | 5 | 11 |
+| 61-75' | 2 | 1 | 5 | 3 | 2 | 6 |
+| 76-90' | 2 | 7 | 8 | 13 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Valencia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | LaLiga | Elche 0-1 Valencia | fuera | 2-6 | 5 (3) - 16 (3) | 2-3 |
 | 2026-10-24 | LaLiga | Valencia 1-2 Villarreal | casa | 6-9 | 9 (5) - 19 (3) | 3-3 |
 | 2026-10-17 | LaLiga | Valencia 0-0 Athletic Club | casa | 2-6 | 16 (3) - 9 (2) | 3-3 |
 | 2026-10-11 | LaLiga | Racing Santander 2-2 Valencia | fuera | 3-8 | 10 (2) - 20 (11) | 3-3 |
 | 2026-09-20 | LaLiga | Valencia 2-3 Real Sociedad | casa | 7-5 | 22 (5) - 21 (6) | 2-3 |
 | 2026-09-15 | LaLiga | Alaves 0-1 Valencia | fuera | 5-2 | 10 (3) - 15 (3) | 4-1 |
-| 2026-09-11 | LaLiga | Sevilla 1-0 Valencia | fuera | 4-6 | 3 (0) - 13 (4) | 2-1 |
 
 ## Jugadores de Valencia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Dimitrievski | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
-| Pepelu | M | 10 | 838 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 11 | 6 | 0,6 | 2 | 0 |
-| Javi Guerra | F | 10 | 810 | 0 | 2 | 12 | 1,2 | 3 | 0,3 | 8 | 10 | 1,0 | 1 | 0 |
-| A. Danjuma | F | 10 | 751 | 0 | 0 | 16 | 1,6 | 6 | 0,6 | 7 | 10 | 1,0 | 0 | 0 |
-| José Gayà | D | 8 | 625 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 9 | 6 | 0,8 | 1 | 0 |
-| F. Ugrinic | M | 10 | 588 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 6 | 12 | 1,2 | 0 | 0 |
-| G. Rodríguez | M | 7 | 583 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 13 | 12 | 1,7 | 3 | 0 |
-| Pablo Maffeo | D | 9 | 583 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 5 | 0,6 | 3 | 0 |
-| César Tárrega | D | 7 | 510 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 4 | 0,6 | 1 | 0 |
+| S. Dimitrievski | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
+| Pepelu | D | 11 | 928 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 11 | 6 | 0,5 | 2 | 0 |
+| Javi Guerra | F | 11 | 898 | 0 | 2 | 12 | 1,1 | 3 | 0,3 | 12 | 11 | 1,0 | 2 | 0 |
+| A. Danjuma | F | 11 | 839 | 0 | 1 | 16 | 1,5 | 6 | 0,5 | 9 | 11 | 1,0 | 0 | 0 |
+| José Gayà | D | 9 | 715 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 6 | 0,7 | 1 | 0 |
+| G. Rodríguez | M | 8 | 673 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 15 | 1,9 | 3 | 0 |
+| Pablo Maffeo | M | 10 | 644 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 6 | 0,6 | 3 | 0 |
+| César Tárrega | D | 8 | 600 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 10 | 4 | 0,5 | 1 | 0 |
+| F. Ugrinic | M | 11 | 600 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 6 | 12 | 1,1 | 0 | 0 |
 | J. de Haas | D | 6 | 458 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
 | Hugo Duro | F | 10 | 429 | 0 | 1 | 6 | 0,6 | 0 | 0,0 | 5 | 11 | 1,1 | 0 | 0 |
-| Jesús Vázquez | D | 8 | 364 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 10 | 1,2 | 0 | 0 |
+| Jesús Vázquez | D | 9 | 366 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 1,1 | 0 | 0 |
+| Arnau Martínez | D | 7 | 361 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 | David Otorbi | M | 9 | 352 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 2 | 5 | 0,6 | 0 | 0 |
-| Mouctar Diakhaby | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 2 | 0 |
+| M. Diakhaby | D | 6 | 334 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 2 | 0 |
+| Luis Rioja | M | 7 | 327 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 2 | 0,3 | 0 | 0 |
 | Ryunosuke Sato | M | 5 | 297 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
-| Arnau Martínez | D | 6 | 271 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
-| Luis Rioja | M | 6 | 249 | 1 | 0 | 3 | 0,5 | 1 | 0,2 | 0 | 2 | 0,3 | 0 | 0 |
+| Aaron Mayol | M | 3 | 258 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 6 | 2 | 0,7 | 1 | 0 |
 | Aliou Dieng | M | 6 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
-| Aaron Mayol | M | 2 | 180 | 1 | 0 | 2 | 1,0 | 1 | 0,5 | 4 | 1 | 0,5 | 1 | 0 |
-| Dani Raba | F | 4 | 176 | 1 | 0 | 4 | 1,0 | 1 | 0,2 | 7 | 6 | 1,5 | 3 | 0 |
+| Dani Raba | F | 5 | 188 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 7 | 7 | 1,4 | 3 | 0 |
 
 ## Últimos partidos de Real Madrid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -181,41 +181,41 @@ _Sin bajas comunicadas por ahora._
 | A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 2,20 · córners esperados 9,6._
+_Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 73% | 69% | 71% | 1.33 | -6% |
-| 1X2: X | 18% | 18% | 18% | 5.00 | -10% |
-| 1X2: 1 | 10% | 13% | 11% | 7.00 | -20% |
+| 1X2: 2 | 71% | 69% | 70% | 1.33 | -7% |
+| 1X2: X | 19% | 18% | 18% | 5.00 | -8% |
+| 1X2: 1 | 10% | 13% | 12% | 7.00 | -18% |
 | Doble oportunidad: X2 | 90% | 88% | 89% | 1.10 | -2% |
-| Doble oportunidad: 12 | 82% | 83% | 82% | 1.17 | -4% |
-| Doble oportunidad: 1X | 27% | 30% | 29% | 3.25 | -7% |
-| Ambos marcan: No | 57% | 44% | 51% | 2.10 | +6% |
+| Doble oportunidad: 12 | 81% | 83% | 82% | 1.17 | -4% |
+| Doble oportunidad: 1X | 29% | 30% | 29% | 3.25 | -4% |
+| Ambos marcan: No | 57% | 44% | 51% | 2.10 | +7% |
 | Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -18% |
-| Goles más/menos: Más de 2.5 | 54% | 66% | 60% | 1.44 | -14% |
-| Goles más/menos: Más de 3.5 | 32% | 45% | 39% | 2.10 | -19% |
-| Goles más/menos: Más de 4.5 | 16% | 27% | 22% | 3.50 | -24% |
-| Goles más/menos: Menos de 2.5 ✅ | 46% | 34% | 40% | 2.75 | +10% |
-| Goles más/menos: Menos de 3.5 | 68% | 55% | 61% | 1.73 | +6% |
-| Goles más/menos: Menos de 4.5 | 84% | 73% | 78% | 1.30 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
-| Goles del local: Más de 0.5 | 48% | 61% | 55% | 1.53 | -17% |
-| Goles del local: Más de 1.5 | 14% | 27% | 20% | 3.50 | -28% |
-| Goles del local: Menos de 0.5 ✅ | 52% | 39% | 45% | 2.38 | +8% |
-| Goles del local: Menos de 1.5 | 86% | 73% | 80% | 1.28 | +2% |
-| Goles del visitante: Más de 1.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Goles del visitante: Más de 2.5 | 38% | 46% | 42% | 2.00 | -16% |
-| Goles del visitante: Más de 3.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 1.5 | 36% | 29% | 32% | 3.25 | +5% |
-| Goles del visitante: Menos de 2.5 | 62% | 54% | 58% | 1.73 | +0% |
-| Goles del visitante: Menos de 3.5 | 82% | 75% | 78% | 1.25 | -2% |
-| 1X2 descanso: 2 | 52% | 53% | 52% | 1.73 | -10% |
-| 1X2 descanso: X | 37% | 33% | 35% | 2.75 | -3% |
+| Goles más/menos: Más de 2.5 | 52% | 66% | 59% | 1.44 | -15% |
+| Goles más/menos: Más de 3.5 | 30% | 45% | 38% | 2.10 | -21% |
+| Goles más/menos: Más de 4.5 | 15% | 27% | 21% | 3.50 | -27% |
+| Goles más/menos: Menos de 2.5 ✅ | 48% | 34% | 41% | 2.75 | +13% |
+| Goles más/menos: Menos de 3.5 | 70% | 55% | 62% | 1.73 | +8% |
+| Goles más/menos: Menos de 4.5 | 85% | 73% | 79% | 1.30 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 77% | 73% | 1.22 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
+| Goles 1ª parte más/menos: Más de 2.5 | 12% | 22% | 17% | 4.33 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 23% | 27% | 4.00 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 88% | 78% | 83% | 1.20 | -0% |
+| Goles del local: Más de 0.5 | 48% | 61% | 55% | 1.53 | -16% |
+| Goles del local: Más de 1.5 | 14% | 27% | 21% | 3.50 | -28% |
+| Goles del local: Menos de 0.5 | 52% | 39% | 45% | 2.38 | +8% |
+| Goles del local: Menos de 1.5 | 86% | 73% | 79% | 1.28 | +2% |
+| Goles del visitante: Más de 1.5 | 62% | 71% | 67% | 1.33 | -12% |
+| Goles del visitante: Más de 2.5 | 35% | 46% | 41% | 2.00 | -19% |
+| Goles del visitante: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
+| Goles del visitante: Menos de 1.5 ✅ | 38% | 29% | 33% | 3.25 | +9% |
+| Goles del visitante: Menos de 2.5 | 65% | 54% | 59% | 1.73 | +3% |
+| Goles del visitante: Menos de 3.5 | 84% | 75% | 79% | 1.25 | -1% |
+| 1X2 descanso: 2 | 50% | 53% | 51% | 1.73 | -11% |
+| 1X2 descanso: X | 38% | 33% | 36% | 2.75 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

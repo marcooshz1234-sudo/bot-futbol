@@ -1,7 +1,7 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
+_Goles esperados: local 1,29 · visitante 1,59 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@ _Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 55% | 55% | 55% | 1.70 | -6% |
-| Ambos marcan: No | 42% | 34% | 38% | 2.75 | +4% |
+| Ambos marcan: No | 42% | 34% | 38% | 2.75 | +5% |
 | Ambos marcan: Sí | 58% | 66% | 62% | 1.40 | -13% |
 | Goles más/menos: Más de 2.5 | 55% | 66% | 60% | 1.44 | -13% |
 | Goles más/menos: Más de 3.5 | 33% | 45% | 39% | 2.10 | -18% |
@@ -215,9 +215,9 @@ _Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
 | Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles del visitante: Más de 1.5 | 47% | 56% | 52% | 1.67 | -14% |
-| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -18% |
+| Goles del visitante: Más de 2.5 | 21% | 29% | 25% | 3.25 | -18% |
 | Goles del visitante: Menos de 1.5 | 53% | 44% | 48% | 2.10 | +2% |
-| Goles del visitante: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
+| Goles del visitante: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -1% |
 | 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
 | 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -10% |

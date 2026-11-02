@@ -1,7 +1,7 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -188,7 +188,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 33% | 38% | 2.80 | +5% |
+| 1X2: 2 | 42% | 33% | 37% | 2.80 | +5% |
 | 1X2: X | 23% | 26% | 25% | 3.60 | -12% |
 | 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
 | Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
@@ -213,11 +213,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
 | Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles del visitante: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
-| Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +2% |
+| Goles del visitante: Más de 1.5 | 51% | 44% | 48% | 2.10 | -0% |
+| Goles del visitante: Más de 2.5 | 24% | 21% | 23% | 4.50 | +2% |
 | Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
-| Goles del visitante: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
-| Goles del visitante: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
+| Goles del visitante: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -12% |
+| Goles del visitante: Menos de 2.5 | 76% | 79% | 77% | 1.18 | -9% |
 | 1X2 descanso: 2 | 33% | 29% | 31% | 3.20 | -1% |
 | 1X2 descanso: X | 38% | 39% | 38% | 2.40 | -8% |
 | 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |

@@ -1,10 +1,10 @@
 # Fenerbahçe – Liverpool
-**Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium Fenerbahce Sukru Saracoglu
+**Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 19:48_
+_Actualizadas: 02/11 02:10_
 
 - **1X2:** 1 **5.00**  ·  X **4.50**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.18**  ·  X2 **1.18**
@@ -176,13 +176,13 @@ _Sin precedentes recientes._
 | G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 1,60 · córners esperados 9,8._
+_Goles esperados: local 1,00 · visitante 1,59 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 51% | 60% | 56% | 1.57 | -12% |
+| 1X2: 2 | 51% | 60% | 56% | 1.57 | -13% |
 | 1X2: X | 25% | 21% | 23% | 4.50 | +4% |
 | 1X2: 1 | 24% | 19% | 21% | 5.00 | +6% |
 | Doble oportunidad: X2 | 76% | 80% | 78% | 1.18 | -8% |
@@ -201,13 +201,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 29% | 3.75 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 56% | 62% | 1.67 | +4% |
 | Goles del local: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del local: Más de 1.5 | 26% | 34% | 30% | 2.75 | -17% |
+| Goles del local: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
 | Goles del local: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
 | Goles del local: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
 | Goles del visitante: Más de 1.5 | 47% | 62% | 55% | 1.50 | -18% |
-| Goles del visitante: Más de 2.5 | 22% | 38% | 30% | 2.50 | -26% |
+| Goles del visitante: Más de 2.5 | 21% | 38% | 29% | 2.50 | -26% |
 | Goles del visitante: Menos de 1.5 | 53% | 38% | 45% | 2.50 | +13% |
-| Goles del visitante: Menos de 2.5 | 78% | 62% | 70% | 1.50 | +6% |
+| Goles del visitante: Menos de 2.5 | 79% | 62% | 71% | 1.50 | +6% |
 | 1X2 descanso: 2 | 37% | 45% | 41% | 2.05 | -15% |
 | 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +2% |
 

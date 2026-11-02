@@ -1,7 +1,7 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -182,15 +182,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 35% | 11% | 23% | 9.00 | +106% |
 | Doble oportunidad: 12 | 80% | 92% | 86% | 1.07 | -8% |
 | Doble oportunidad: 1X | 85% | 97% | 91% | 1.01 | -8% |
-| Ambos marcan: No | 50% | 62% | 56% | 1.50 | -15% |
-| Ambos marcan: Sí | 50% | 38% | 44% | 2.50 | +9% |
+| Ambos marcan: No | 51% | 62% | 57% | 1.50 | -15% |
+| Ambos marcan: Sí | 49% | 38% | 43% | 2.50 | +9% |
 | Goles más/menos: Más de 2.5 | 55% | 72% | 63% | 1.33 | -16% |
 | Goles más/menos: Más de 3.5 | 33% | 51% | 42% | 1.80 | -24% |
-| Goles más/menos: Más de 4.5 | 17% | 34% | 25% | 2.75 | -31% |
+| Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |
 | Goles más/menos: Más de 5.5 | 7% | 21% | 14% | 4.50 | -37% |
 | Goles más/menos: Menos de 2.5 | 45% | 28% | 37% | 3.40 | +24% |
 | Goles más/menos: Menos de 3.5 | 67% | 49% | 58% | 1.91 | +11% |
-| Goles más/menos: Menos de 4.5 | 83% | 66% | 75% | 1.40 | +5% |
+| Goles más/menos: Menos de 4.5 | 84% | 66% | 75% | 1.40 | +5% |
 | Goles más/menos: Menos de 5.5 | 93% | 79% | 86% | 1.18 | +1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
@@ -203,7 +203,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 3.5 | 85% | 58% | 71% | 1.62 | +16% |
 | Goles del local: Menos de 4.5 | 94% | 75% | 85% | 1.25 | +6% |
 | Goles del visitante: Más de 0.5 | 57% | 39% | 48% | 2.38 | +14% |
-| Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -21% |
+| Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -20% |
 | 1X2 descanso: X | 39% | 26% | 32% | 3.60 | +15% |
 | 1X2 descanso: 1 | 47% | 69% | 58% | 1.33 | -23% |
 

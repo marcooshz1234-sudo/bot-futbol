@@ -1,7 +1,7 @@
 # Derby – Bolton
 **Championship** · Regular Season - 15 · 06/11/2026 21:00 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -188,7 +188,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 31% | 36% | 3.00 | +9% |
+| 1X2: 2 | 42% | 31% | 36% | 3.00 | +8% |
 | 1X2: X | 25% | 26% | 26% | 3.50 | -11% |
 | 1X2: 1 | 34% | 43% | 38% | 2.15 | -18% |
 | Doble oportunidad: X2 | 66% | 57% | 61% | 1.67 | +3% |
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 55% | 55% | 55% | 1.73 | -5% |
 | Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -6% |
-| Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -6% |
+| Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -5% |
 | Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
@@ -213,7 +213,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles del local: Menos de 2.5 | 84% | 77% | 81% | 1.22 | -2% |
 | Goles del visitante: Más de 0.5 | 78% | 72% | 75% | 1.30 | -2% |
-| Goles del visitante: Más de 1.5 | 45% | 38% | 41% | 2.50 | +4% |
+| Goles del visitante: Más de 1.5 | 45% | 38% | 41% | 2.50 | +3% |
 | Goles del visitante: Menos de 0.5 | 22% | 28% | 25% | 3.40 | -16% |
 | Goles del visitante: Menos de 1.5 | 55% | 62% | 59% | 1.50 | -12% |
 | 1X2 descanso: 2 | 32% | 26% | 29% | 3.50 | +2% |

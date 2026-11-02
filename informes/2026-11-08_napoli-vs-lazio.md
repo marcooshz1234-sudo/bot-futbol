@@ -1,7 +1,7 @@
 # Napoli – Lazio
 **Serie A** · Regular Season - 11 · 08/11/2026 12:30 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:49_
@@ -31,53 +31,53 @@ _Actualizadas: 01/11 19:49_
 ## Estadísticas de equipo
 | | Napoli (total) | Napoli en casa | Lazio (total) | Lazio fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 11 | 5 |
-| Forma (últimos 5) | VEVDD | EVVVD | VVVVV | VVVVV |
-| Balance | 5V 2E 5D | 3V 1E 2D | 9V 1E 1D | 5V 0E 0D |
-| Goles a favor / partido | 1,83 | 2,00 | 2,18 | 2,80 |
-| Goles en contra / partido | 1,50 | 1,50 | 0,91 | 0,60 |
-| Goles a favor 1ª parte | 0,75 | 1,00 | 1,00 | 1,00 |
-| Goles a favor 2ª parte | 1,08 | 1,00 | 1,18 | 1,80 |
-| Goles en contra 1ª parte | 0,50 | 0,50 | 0,27 | 0,40 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 0,64 | 0,20 |
-| Más de 1,5 goles | 75% | 67% | 82% | 80% |
-| Más de 2,5 goles | 58% | 67% | 64% | 60% |
-| Más de 3,5 goles | 42% | 33% | 27% | 20% |
-| Ambos marcan | 58% | 50% | 55% | 40% |
-| Portería a cero | 25% | 33% | 36% | 60% |
-| Se queda sin marcar | 17% | 17% | 9% | 0% |
-| xG a favor | 1,67 | 1,65 | 1,65 | 1,64 |
-| xG en contra | 1,64 | 1,83 | 1,15 | 1,21 |
-| Tiros / partido | 15,1 | 13,8 | 14,5 | 13,2 |
-| Tiros a puerta / partido | 5,8 | 5,5 | 4,5 | 4,4 |
-| Tiros recibidos | 16,8 | 18,0 | 11,6 | 11,8 |
+| Partidos analizados | 13 | 6 | 11 | 5 |
+| Forma (últimos 5) | DVEVD | EVVVD | VVVVV | VVVVV |
+| Balance | 5V 2E 6D | 3V 1E 2D | 9V 1E 1D | 5V 0E 0D |
+| Goles a favor / partido | 1,69 | 2,00 | 2,18 | 2,80 |
+| Goles en contra / partido | 1,54 | 1,50 | 0,91 | 0,60 |
+| Goles a favor 1ª parte | 0,69 | 1,00 | 1,00 | 1,00 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 1,18 | 1,80 |
+| Goles en contra 1ª parte | 0,46 | 0,50 | 0,27 | 0,40 |
+| Goles en contra 2ª parte | 1,08 | 1,00 | 0,64 | 0,20 |
+| Más de 1,5 goles | 77% | 67% | 82% | 80% |
+| Más de 2,5 goles | 54% | 67% | 64% | 60% |
+| Más de 3,5 goles | 38% | 33% | 27% | 20% |
+| Ambos marcan | 54% | 50% | 55% | 40% |
+| Portería a cero | 23% | 33% | 36% | 60% |
+| Se queda sin marcar | 23% | 17% | 9% | 0% |
+| xG a favor | 1,58 | 1,65 | 1,65 | 1,64 |
+| xG en contra | 1,58 | 1,83 | 1,15 | 1,21 |
+| Tiros / partido | 14,5 | 13,8 | 14,5 | 13,2 |
+| Tiros a puerta / partido | 5,4 | 5,5 | 4,5 | 4,4 |
+| Tiros recibidos | 16,9 | 18,0 | 11,6 | 11,8 |
 | Tiros a puerta recibidos | 4,5 | 4,5 | 4,4 | 4,0 |
 | Posesión media % | 51 | 46 | 55 | 50 |
-| Córners a favor | 4,6 | 3,7 | 4,9 | 4,8 |
-| Córners en contra | 4,8 | 5,5 | 4,1 | 4,8 |
+| Córners a favor | 4,5 | 3,7 | 4,9 | 4,8 |
+| Córners en contra | 5,5 | 5,5 | 4,1 | 4,8 |
 | Córners a favor 1ª parte | 2,2 | 1,5 | 1,8 | 1,8 |
 | Córners a favor 2ª parte | 2,4 | 2,2 | 3,1 | 3,0 |
-| Córners totales del partido | 9,4 | 9,2 | 9,0 | 9,6 |
-| Córners totales 1ª parte | 4,6 | 4,2 | 4,3 | 4,6 |
-| Córners totales 2ª parte | 4,8 | 5,0 | 4,7 | 5,0 |
-| Más de 8,5 córners | 67% | 67% | 64% | 80% |
-| Más de 9,5 córners | 50% | 50% | 55% | 60% |
-| Más de 10,5 córners | 25% | 17% | 36% | 40% |
-| Faltas cometidas | 9,0 | 9,5 | 11,4 | 11,2 |
+| Córners totales del partido | 10,0 | 9,2 | 9,0 | 9,6 |
+| Córners totales 1ª parte | 4,9 | 4,2 | 4,3 | 4,6 |
+| Córners totales 2ª parte | 5,1 | 5,0 | 4,7 | 5,0 |
+| Más de 8,5 córners | 69% | 67% | 64% | 80% |
+| Más de 9,5 córners | 54% | 50% | 55% | 60% |
+| Más de 10,5 córners | 31% | 17% | 36% | 40% |
+| Faltas cometidas | 9,2 | 9,5 | 11,4 | 11,2 |
 | Faltas recibidas | 9,2 | 9,0 | 11,9 | 11,8 |
 | Amarillas propias | 1,2 | 1,5 | 1,7 | 1,6 |
-| Amarillas del rival | 1,6 | 1,0 | 2,4 | 3,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
+| Amarillas del rival | 1,7 | 1,0 | 2,4 | 3,2 |
+| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Napoli | Recibe Napoli | Tarjetas Napoli | Goles Lazio | Recibe Lazio | Tarjetas Lazio |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 4 | 1 | 0 |
 | 16-30' | 4 | 4 | 0 | 3 | 1 | 5 |
-| 31-45' | 2 | 2 | 3 | 4 | 1 | 4 |
+| 31-45' | 2 | 2 | 4 | 4 | 1 | 4 |
 | 46-60' | 4 | 3 | 4 | 6 | 2 | 3 |
-| 61-75' | 4 | 4 | 1 | 3 | 3 | 2 |
-| 76-90' | 5 | 5 | 7 | 4 | 2 | 5 |
+| 61-75' | 4 | 5 | 2 | 3 | 3 | 2 |
+| 76-90' | 5 | 6 | 8 | 4 | 2 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -96,36 +96,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Serie A | Juventus 2-0 Napoli | fuera | 4-13 | 8 (1) - 18 (4) | 1-3 |
 | 2026-10-28 | Serie A | Monza 1-4 Napoli | fuera | 2-2 | 16 (7) - 12 (5) | 0-3 |
 | 2026-10-24 | Serie A | Napoli 3-3 AS Roma | casa | 2-11 | 15 (9) - 24 (4) | 1-4 |
 | 2026-10-20 | Champions League | Napoli 4-3 Bodo/Glimt | casa | 2-5 | 17 (8) - 15 (6) | 3-0 |
 | 2026-10-17 | Serie A | Venezia 1-0 Napoli | fuera | 12-0 | 29 (10) - 9 (4) | 0-2 |
 | 2026-10-13 | Champions League | Villarreal 3-1 Napoli | fuera | 4-4 | 11 (3) - 16 (4) | 3-2 |
-| 2026-10-10 | Serie A | Napoli 3-0 Frosinone | casa | 6-4 | 19 (8) - 17 (1) | 2-0 |
 
 ## Jugadores de Napoli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Di Lorenzo | D | 12 | 1070 | 0 | 2 | 5 | 0,4 | 3 | 0,2 | 7 | 11 | 0,9 | 3 | 0 |
-| Rafa Marín | D | 11 | 963 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 15 | 6 | 0,5 | 2 | 0 |
-| Amir Rrahmani | D | 11 | 945 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
+| G. Di Lorenzo | D | 13 | 1115 | 0 | 2 | 6 | 0,5 | 3 | 0,2 | 7 | 12 | 0,9 | 3 | 0 |
+| Rafa Marín | D | 12 | 1053 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 18 | 7 | 0,6 | 3 | 0 |
+| Amir Rrahmani | D | 12 | 990 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 11 | 6 | 0,5 | 1 | 0 |
 | R. Højlund | F | 12 | 887 | 3 | 0 | 20 | 1,7 | 9 | 0,8 | 8 | 11 | 0,9 | 0 | 0 |
-| K. De Bruyne | M | 12 | 765 | 4 | 2 | 11 | 0,9 | 6 | 0,5 | 11 | 10 | 0,8 | 1 | 0 |
+| K. De Bruyne | M | 13 | 810 | 4 | 2 | 11 | 0,8 | 6 | 0,5 | 11 | 10 | 0,8 | 1 | 0 |
+| A. Meret | G | 9 | 765 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| M. Politano | F | 13 | 761 | 3 | 4 | 12 | 0,9 | 10 | 0,8 | 5 | 7 | 0,5 | 1 | 0 |
 | S. Lobotka | M | 12 | 753 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 4 | 15 | 1,2 | 0 | 0 |
-| M. Politano | F | 12 | 700 | 3 | 4 | 12 | 1,0 | 10 | 0,8 | 5 | 7 | 0,6 | 1 | 0 |
-| A. Meret | G | 8 | 675 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| S. McTominay | M | 8 | 595 | 4 | 0 | 22 | 2,8 | 9 | 1,1 | 3 | 5 | 0,6 | 0 | 0 |
+| S. McTominay | M | 9 | 685 | 4 | 0 | 22 | 2,4 | 9 | 1,0 | 4 | 6 | 0,7 | 0 | 0 |
+| N. Lang | F | 10 | 623 | 1 | 1 | 16 | 1,6 | 8 | 0,8 | 5 | 5 | 0,5 | 1 | 0 |
 | L. Spinazzola | D | 9 | 586 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| N. Lang | F | 9 | 533 | 1 | 1 | 15 | 1,7 | 8 | 0,9 | 4 | 5 | 0,6 | 1 | 0 |
-| B. Gilmour | M | 8 | 499 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 4 | 0,5 | 1 | 0 |
-| M. Olivera | D | 9 | 452 | 0 | 1 | 9 | 1,0 | 2 | 0,2 | 8 | 3 | 0,3 | 0 | 0 |
-| A. Zambo Anguissa | M | 7 | 450 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 2 | 6 | 0,9 | 1 | 0 |
+| B. Gilmour | M | 9 | 544 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 5 | 4 | 0,4 | 1 | 0 |
+| M. Olivera | D | 10 | 531 | 0 | 1 | 9 | 0,9 | 2 | 0,2 | 8 | 3 | 0,3 | 0 | 0 |
+| A. Zambo Anguissa | M | 8 | 529 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 3 | 6 | 0,8 | 1 | 0 |
 | V. Milinković-Savić | G | 5 | 405 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | B. Badiashile | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
+| L. Lucca | F | 11 | 300 | 0 | 0 | 8 | 0,7 | 2 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
-| L. Lucca | F | 10 | 210 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 1 | 0 |
-| A. Vergara | M | 6 | 200 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,3 | 1 | 0 |
-| David Neres | F | 6 | 174 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 2 | 0,3 | 0 | 0 |
+| A. Vergara | M | 7 | 229 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 2 | 2 | 0,3 | 1 | 0 |
+| Giovane | F | 6 | 178 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,5 | 1 | 0 |
 
 ## Últimos partidos de Lazio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -162,23 +162,23 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,41 · córners esperados 9,4._
+_Goles esperados: local 1,58 · visitante 1,39 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 25% | 29% | 3.70 | +8% |
-| 1X2: X | 24% | 26% | 25% | 3.50 | -12% |
-| 1X2: 1 | 43% | 48% | 46% | 1.91 | -13% |
-| Ambos marcan: No | 39% | 45% | 42% | 2.05 | -13% |
-| Ambos marcan: Sí | 61% | 55% | 58% | 1.70 | -2% |
-| Goles más/menos: Más de 1.5 | 81% | 76% | 78% | 1.25 | -2% |
-| Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
-| Goles más/menos: Más de 3.5 | 36% | 30% | 33% | 3.20 | +5% |
-| Goles más/menos: Menos de 1.5 | 19% | 24% | 22% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
-| Goles más/menos: Menos de 3.5 | 64% | 70% | 67% | 1.36 | -9% |
-| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +0% |
-| 1X2 descanso: X | 40% | 41% | 40% | 2.25 | -10% |
-| 1X2 descanso: 1 | 33% | 37% | 35% | 2.50 | -13% |
+| 1X2: 2 | 34% | 25% | 29% | 3.70 | +9% |
+| 1X2: X | 24% | 26% | 25% | 3.50 | -11% |
+| 1X2: 1 | 42% | 48% | 45% | 1.91 | -14% |
+| Ambos marcan: No | 40% | 45% | 43% | 2.05 | -12% |
+| Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
+| Goles más/menos: Más de 1.5 | 80% | 76% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 2.5 | 57% | 53% | 55% | 1.80 | -1% |
+| Goles más/menos: Más de 3.5 | 35% | 30% | 32% | 3.20 | +3% |
+| Goles más/menos: Menos de 1.5 | 20% | 24% | 22% | 4.00 | -12% |
+| Goles más/menos: Menos de 2.5 | 43% | 47% | 45% | 2.00 | -10% |
+| Goles más/menos: Menos de 3.5 | 65% | 70% | 68% | 1.36 | -8% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
+| 1X2 descanso: X | 40% | 41% | 40% | 2.25 | -9% |
+| 1X2 descanso: 1 | 32% | 37% | 35% | 2.50 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

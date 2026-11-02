@@ -1,7 +1,7 @@
 # Fortuna Sittard – Telstar
 **Eredivisie** · Regular Season - 12 · 07/11/2026 16:30 (hora España) · Fortuna Sittard Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -189,20 +189,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 27% | 30% | 3.50 | +3% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 42% | 47% | 45% | 2.00 | -11% |
-| Doble oportunidad: X2 | 58% | 52% | 55% | 1.80 | -1% |
+| 1X2: 1 | 43% | 47% | 45% | 2.00 | -11% |
+| Doble oportunidad: X2 | 57% | 52% | 55% | 1.80 | -1% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 68% | 74% | 71% | 1.28 | -10% |
 | Ambos marcan: No | 43% | 39% | 41% | 2.38 | -2% |
 | Ambos marcan: Sí | 57% | 61% | 59% | 1.53 | -10% |
 | Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
 | Goles más/menos: Más de 2.5 | 53% | 58% | 56% | 1.62 | -10% |
-| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles más/menos: Más de 4.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles más/menos: Más de 4.5 | 15% | 22% | 18% | 4.33 | -20% |
 | Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
 | Goles más/menos: Menos de 2.5 | 47% | 42% | 44% | 2.25 | -0% |
 | Goles más/menos: Menos de 3.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles más/menos: Menos de 4.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Goles más/menos: Menos de 4.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
@@ -211,9 +211,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 19% | 27% | 23% | 3.50 | -19% |
 | Goles del local: Menos de 1.5 | 55% | 46% | 51% | 2.00 | +2% |
 | Goles del local: Menos de 2.5 | 81% | 73% | 77% | 1.28 | -2% |
-| Goles del visitante: Más de 0.5 | 73% | 72% | 72% | 1.30 | -6% |
+| Goles del visitante: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
 | Goles del visitante: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles del visitante: Menos de 0.5 | 27% | 28% | 28% | 3.40 | -6% |
+| Goles del visitante: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -6% |
 | Goles del visitante: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
 | 1X2 descanso: 2 | 26% | 25% | 25% | 3.75 | -5% |
 | 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -4% |

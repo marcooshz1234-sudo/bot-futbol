@@ -2077,8 +2077,8 @@
      14,
      18
     ],
-    "contexto": "mejor_lejos",
-    "prob_aprendida": 0.825
+    "contexto": "mejor_lejos_medio",
+    "prob_aprendida": 0.756
    },
    {
     "partido_id": 1550185,
@@ -2102,8 +2102,8 @@
      17,
      20
     ],
-    "contexto": "total_igualado",
-    "prob_aprendida": 0.272
+    "contexto": "total_igualado_abajo",
+    "prob_aprendida": 0.292
    }
   ],
   "hora": null,

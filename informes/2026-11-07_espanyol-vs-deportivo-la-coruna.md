@@ -1,7 +1,7 @@
 # Espanyol – Deportivo La Coruna
 **LaLiga** · Regular Season - 12 · 07/11/2026 16:15 (hora España) · RCDE Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -185,32 +185,32 @@ _Goles esperados: local 1,01 · visitante 1,11 · córners esperados 9,5._
 |---|---|---|---|---|---|
 | 1X2: 2 ✅ | 38% | 28% | 33% | 3.30 | +9% |
 | 1X2: X | 30% | 29% | 29% | 3.25 | -5% |
-| 1X2: 1 | 33% | 43% | 38% | 2.20 | -17% |
-| Doble oportunidad: X2 | 67% | 57% | 62% | 1.67 | +4% |
+| 1X2: 1 | 32% | 43% | 38% | 2.20 | -17% |
+| Doble oportunidad: X2 | 68% | 57% | 62% | 1.67 | +4% |
 | Doble oportunidad: 12 | 70% | 72% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 62% | 72% | 67% | 1.33 | -11% |
 | Ambos marcan: No | 57% | 47% | 52% | 2.00 | +4% |
 | Ambos marcan: Sí | 43% | 53% | 48% | 1.75 | -16% |
 | Goles más/menos: Más de 1.5 | 63% | 73% | 68% | 1.30 | -12% |
-| Goles más/menos: Más de 2.5 | 36% | 47% | 41% | 2.00 | -17% |
-| Goles más/menos: Más de 3.5 | 16% | 28% | 22% | 3.40 | -24% |
+| Goles más/menos: Más de 2.5 | 36% | 47% | 42% | 2.00 | -17% |
+| Goles más/menos: Más de 3.5 | 17% | 28% | 22% | 3.40 | -24% |
 | Goles más/menos: Menos de 1.5 ✅ | 37% | 27% | 32% | 3.50 | +13% |
-| Goles más/menos: Menos de 2.5 | 64% | 53% | 59% | 1.80 | +5% |
-| Goles más/menos: Menos de 3.5 | 84% | 72% | 78% | 1.33 | +3% |
+| Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
+| Goles más/menos: Menos de 3.5 | 83% | 72% | 78% | 1.33 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -15% |
+| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
 | Goles del local: Más de 1.5 | 27% | 44% | 36% | 2.10 | -25% |
 | Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +20% |
 | Goles del local: Menos de 1.5 | 73% | 56% | 64% | 1.67 | +8% |
 | Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
 | 1X2 descanso: 2 | 27% | 25% | 26% | 3.75 | -3% |
-| 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -0% |
+| 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -1% |
 | 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

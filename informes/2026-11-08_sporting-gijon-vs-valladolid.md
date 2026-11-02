@@ -1,7 +1,7 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Victor Barberá | F | 6 | 202 | 2 | 0 | 10 | 1,7 | 7 | 1,2 | 2 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 0,98 · córners esperados 8,9._
+_Goles esperados: local 1,26 · visitante 0,98 · córners esperados 8,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,16 +1,16 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:49_
+_Actualizadas: 02/11 02:10_
 
 - **1X2:** 1 **2.50**  ·  X **3.30**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.75**
     - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.40** · menos **1.33**
@@ -19,21 +19,21 @@ _Actualizadas: 31/10 19:49_
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del visitante:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.80**  ·  2 **1.83**
@@ -41,7 +41,7 @@ _Actualizadas: 31/10 19:49_
 - **Win Both Halves:** 1 **9.00**  ·  2 **10.00**
 - **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **11.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
-- **Away Player Shots On Target Total:** Gabriel Gudmundsson **81.00**  ·  Nico Elvedi **19.00**  ·  Ao Tanaka **29.00**  ·  Andrew Robertson **34.00**  ·  Brenden Aaronson **81.00**  ·  Daniel James **41.00**  ·  Jayden Bogle **51.00**  ·  Melvin Bard **29.00**  ·  Tarik Muharemovic **15.00**  ·  Jean-Matteo Bahoya **41.00**  ·  Tosin Adarabioyo **19.00**  ·  Conor Gallagher **51.00**  ·  Marcos Senesi **23.00**  ·  Jan Paul van Hecke **15.00**  ·  Sandro Tonali **67.00**  ·  Dominic Calvert-Lewin **5.50**  ·  James Justin **51.00**  ·  Archie Gray **41.00**  ·  Ben Davies **41.00**  ·  Dejan Kulusevski **34.00**  ·  Destiny Udogie **41.00**  ·  Dominic Solanke **12.00**  ·  James Maddison **81.00**  ·  Lucas Bergvall **67.00**  ·  Micky Van de Ven **12.00**  ·  Mohammed Kudus **41.00**  ·  Pedro Porro **81.00**  ·  Rodrigo Bentancur **34.00**  ·  Noah Okafor **17.00**  ·  Anton Stach **51.00**  ·  Mathys Tel **26.00**  ·  Omar Marmoush **21.00**  ·  Sean Longstaff **67.00**  ·  Harry Wilson **34.00**  ·  Mateus Fernandes **41.00**  ·  Savio **51.00**  ·  Jaka Bijol **15.00**  ·  Lukas Nmecha **12.00**  ·  Ethan Ampadu **29.00**  ·  Ilia Gruev **51.00**
+- **Away Player Shots On Target Total:** Gabriel Gudmundsson **81.00**  ·  Nico Elvedi **19.00**  ·  Ao Tanaka **29.00**  ·  Andrew Robertson **41.00**  ·  Brenden Aaronson **81.00**  ·  Daniel James **41.00**  ·  Jayden Bogle **51.00**  ·  Melvin Bard **29.00**  ·  Tarik Muharemovic **15.00**  ·  Jean-Matteo Bahoya **41.00**  ·  Tosin Adarabioyo **23.00**  ·  Conor Gallagher **51.00**  ·  Marcos Senesi **29.00**  ·  Jan Paul van Hecke **19.00**  ·  Sandro Tonali **81.00**  ·  Dominic Calvert-Lewin **5.50**  ·  James Justin **51.00**  ·  Archie Gray **41.00**  ·  Ben Davies **51.00**  ·  Dejan Kulusevski **34.00**  ·  Destiny Udogie **41.00**  ·  Dominic Solanke **12.00**  ·  James Maddison **81.00**  ·  Lucas Bergvall **67.00**  ·  Micky Van de Ven **13.00**  ·  Mohammed Kudus **41.00**  ·  Pedro Porro **81.00**  ·  Rodrigo Bentancur **41.00**  ·  Noah Okafor **17.00**  ·  Anton Stach **51.00**  ·  Mathys Tel **26.00**  ·  Omar Marmoush **21.00**  ·  Sean Longstaff **67.00**  ·  Harry Wilson **29.00**  ·  Mateus Fernandes **41.00**  ·  Savio **51.00**  ·  Jaka Bijol **15.00**  ·  Lukas Nmecha **12.00**  ·  Ethan Ampadu **29.00**  ·  Ilia Gruev **51.00**
 - **Anytime Goal Scorer:** Gabriel Gudmundsson **11.00**  ·  Nico Elvedi **11.00**  ·  Ao Tanaka **6.50**  ·  Andrew Robertson **15.00**  ·  Brenden Aaronson **4.33**  ·  Daniel James **4.33**  ·  Jayden Bogle **8.00**  ·  Melvin Bard **11.00**  ·  Tarik Muharemovic **11.00**  ·  Jean-Matteo Bahoya **5.00**  ·  Tosin Adarabioyo **15.00**  ·  Conor Gallagher **6.00**  ·  Marcos Senesi **19.00**  ·  Jan Paul van Hecke **13.00**  ·  Sandro Tonali **9.00**  ·  Dominic Calvert-Lewin **2.60**  ·  James Justin **11.00**  ·  Archie Gray **10.00**  ·  Ben Davies **15.00**  ·  Dejan Kulusevski **3.75**  ·  Destiny Udogie **13.00**  ·  Dominic Solanke **3.10**  ·  James Maddison **5.00**  ·  Lucas Bergvall **8.00**  ·  Micky Van de Ven **9.00**  ·  Mohammed Kudus **4.33**  ·  Pedro Porro **10.00**  ·  Rodrigo Bentancur **10.00**  ·  Noah Okafor **3.25**  ·  Anton Stach **6.50**  ·  Mathys Tel **4.33**  ·  Omar Marmoush **3.25**  ·  Sean Longstaff **8.00**  ·  Harry Wilson **3.50**  ·  Mateus Fernandes **5.00**  ·  Savio **6.00**  ·  Jaka Bijol **9.00**  ·  Lukas Nmecha **3.10**  ·  Ethan Ampadu **13.00**  ·  Ilia Gruev **11.00**
 - **Player to Score or Assist:** Gabriel Gudmundsson **5.50**  ·  Nico Elvedi **7.50**  ·  Ao Tanaka **3.75**  ·  Andrew Robertson **6.50**  ·  Brenden Aaronson **2.75**  ·  Daniel James **2.88**  ·  Jayden Bogle **4.75**  ·  Melvin Bard **5.50**  ·  Tarik Muharemovic **7.00**  ·  Jean-Matteo Bahoya **3.20**  ·  Tosin Adarabioyo **10.00**  ·  Conor Gallagher **3.50**  ·  Marcos Senesi **12.00**  ·  Jan Paul van Hecke **7.00**  ·  Sandro Tonali **4.00**  ·  Dominic Calvert-Lewin **2.20**  ·  James Justin **6.00**  ·  Archie Gray **5.50**  ·  Ben Davies **11.00**  ·  Dejan Kulusevski **2.40**  ·  Destiny Udogie **6.00**  ·  Dominic Solanke **2.50**  ·  James Maddison **2.88**  ·  Lucas Bergvall **5.00**  ·  Micky Van de Ven **7.00**  ·  Mohammed Kudus **2.62**  ·  Pedro Porro **4.33**  ·  Rodrigo Bentancur **6.00**  ·  Noah Okafor **2.38**  ·  Anton Stach **3.50**  ·  Mathys Tel **3.10**  ·  Omar Marmoush **2.38**  ·  Sean Longstaff **3.40**  ·  Harry Wilson **2.40**  ·  Mateus Fernandes **2.75**  ·  Savio **3.10**  ·  Jaka Bijol **6.50**  ·  Lukas Nmecha **2.50**  ·  Ethan Ampadu **8.00**  ·  Ilia Gruev **5.50**
 
@@ -186,7 +186,7 @@ _Goles esperados: local 1,39 · visitante 1,06 · córners esperados 9,6._
 | 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
 | 1X2: 1 | 44% | 38% | 41% | 2.50 | +2% |
 | Doble oportunidad: X2 | 56% | 63% | 59% | 1.50 | -11% |
-| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
+| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -5% |
 | Doble oportunidad: 1X | 71% | 67% | 69% | 1.40 | -3% |
 | Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
 | Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
@@ -201,13 +201,13 @@ _Goles esperados: local 1,39 · visitante 1,06 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del local: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
+| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -8% |
 | Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del local: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
-| Goles del visitante: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
-| Goles del visitante: Más de 1.5 | 29% | 39% | 34% | 2.38 | -19% |
-| Goles del visitante: Menos de 0.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
-| Goles del visitante: Menos de 1.5 | 71% | 61% | 66% | 1.53 | +1% |
+| Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Goles del visitante: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles del visitante: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del visitante: Menos de 0.5 ✅ | 35% | 28% | 31% | 3.40 | +6% |
+| Goles del visitante: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
 | 1X2 descanso: 2 | 23% | 27% | 25% | 3.40 | -14% |
 | 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
 | 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -3% |

@@ -1,14 +1,14 @@
 # Celta Vigo – Levante
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:51_
+_Actualizadas: 02/11 02:11_
 
 - **1X2:** 1 **1.83**  ·  X **3.50**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
@@ -18,7 +18,7 @@ _Actualizadas: 31/10 19:51_
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.18** · menos **4.50**
@@ -29,7 +29,9 @@ _Actualizadas: 31/10 19:51_
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.50**
+- **Córners más/menos:**
+    - 8,5: más **2.00** · menos **1.80**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.30**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
@@ -37,14 +39,20 @@ _Actualizadas: 31/10 19:51_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.50**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **5.50**
-- **Win Both Halves:** 1 **5.50**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **11.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
-- **Away Player Shots On Target Total:** Miguel Roman **34.00**  ·  Hugo Gonzalez **26.00**  ·  Victor Garcia **34.00**  ·  Javier Rueda **51.00**  ·  Aleix Febas **51.00**  ·  Alvaro Nunez **81.00**  ·  Ivan Romero **19.00**  ·  Jorge Cabello **41.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **15.00**  ·  Aissa Mandi **29.00**  ·  Ifeanyi Ndukwe **34.00**  ·  Nacho Perez **81.00**  ·  Paco Cortes **41.00**  ·  Thiago Fernandez **41.00**  ·  Petar Ratkov **15.00**  ·  Ferran Jutgla **23.00**  ·  Jeremy Toljan **101.00**  ·  Couhaib Driouech **34.00**  ·  Manuel Sanchez **151.00**  ·  Jon Ander Olasagasti **51.00**  ·  Abdoulaye Faye **15.00**  ·  Sebastian Caceres **13.00**  ·  Pablo Duran **17.00**  ·  Hugo Alvarez **29.00**  ·  Javier Rodriguez **34.00**  ·  Javier Galan **101.00**  ·  Jones El-Abdellaoui **26.00**  ·  Hugo Burcio **34.00**  ·  Andres Antanon **15.00**  ·  Yanis Musuayi **8.00**  ·  Marc Santos **101.00**  ·  Borja Iglesias **13.00**  ·  Carl Starfelt **15.00**  ·  Hugo Sotelo **67.00**  ·  Iago Aspas **21.00**  ·  Ilaix Moriba **41.00**  ·  Marcos Alonso **34.00**  ·  Sergio Carreira **67.00**  ·  Williot Swedberg **26.00**  ·  Daniel Requena **23.00**  ·  Axel Tape **26.00**  ·  Yoel Lago **26.00**  ·  Enzo Bardeli **67.00**
+- **To Win Either Half:** 1 **1.40**  ·  2 **2.62**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **5.50**
+- **Win Both Halves:** 1 **5.00**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **4.50**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **11.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 3,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):**
+    - 4: más **2.05** · menos **1.75**
+- **Away Player Shots On Target Total:** Miguel Roman **34.00**  ·  Hugo Gonzalez **23.00**  ·  Victor Garcia **34.00**  ·  Javier Rueda **51.00**  ·  Aleix Febas **51.00**  ·  Alvaro Nunez **81.00**  ·  Ivan Romero **19.00**  ·  Jorge Cabello **41.00**  ·  Oriol Rey **51.00**  ·  Roger Brugue **21.00**  ·  Adrian De la Fuente **15.00**  ·  Aissa Mandi **29.00**  ·  Ifeanyi Ndukwe **34.00**  ·  Nacho Perez **81.00**  ·  Paco Cortes **51.00**  ·  Thiago Fernandez **51.00**  ·  Petar Ratkov **17.00**  ·  Ferran Jutgla **21.00**  ·  Jeremy Toljan **101.00**  ·  Couhaib Driouech **34.00**  ·  Manuel Sanchez **151.00**  ·  Jon Ander Olasagasti **51.00**  ·  Abdoulaye Faye **15.00**  ·  Sebastian Caceres **13.00**  ·  Pablo Duran **17.00**  ·  Hugo Alvarez **26.00**  ·  Javier Rodriguez **29.00**  ·  Javier Galan **101.00**  ·  Angel Arcos **34.00**  ·  Jones El-Abdellaoui **23.00**  ·  Hugo Burcio **29.00**  ·  Andres Antanon **13.00**  ·  Yanis Musuayi **8.50**  ·  Manel Usedo **34.00**  ·  Marc Santos **101.00**  ·  Germain Milla **81.00**  ·  Borja Iglesias **12.00**  ·  Carl Starfelt **15.00**  ·  Hugo Sotelo **67.00**  ·  Iago Aspas **21.00**  ·  Ilaix Moriba **41.00**  ·  Marcos Alonso **34.00**  ·  Sergio Carreira **67.00**  ·  Williot Swedberg **23.00**  ·  Daniel Requena **26.00**  ·  Karl Etta **8.50**  ·  Axel Tape **26.00**  ·  Yoel Lago **26.00**  ·  Enzo Bardeli **67.00**
 - **Anytime Goal Scorer:** Miguel Roman **7.50**  ·  Hugo Gonzalez **2.75**  ·  Victor Garcia **7.50**  ·  Javier Rueda **8.50**  ·  Aleix Febas **6.00**  ·  Alvaro Nunez **8.50**  ·  Ivan Romero **4.00**  ·  Jorge Cabello **19.00**  ·  Oriol Rey **15.00**  ·  Roger Brugue **4.75**  ·  Adrian De la Fuente **8.00**  ·  Aissa Mandi **19.00**  ·  Ifeanyi Ndukwe **15.00**  ·  Nacho Perez **19.00**  ·  Paco Cortes **5.00**  ·  Thiago Fernandez **5.00**  ·  Petar Ratkov **3.25**  ·  Ferran Jutgla **2.60**  ·  Jeremy Toljan **19.00**  ·  Couhaib Driouech **3.60**  ·  Manuel Sanchez **19.00**  ·  Jon Ander Olasagasti **6.50**  ·  Abdoulaye Faye **8.00**  ·  Sebastian Caceres **10.00**  ·  Pablo Duran **2.75**  ·  Hugo Alvarez **3.60**  ·  Javier Rodriguez **8.50**  ·  Javier Galan **11.00**  ·  Jones El-Abdellaoui **4.33**  ·  Hugo Burcio **8.50**  ·  Andres Antanon **4.33**  ·  Yanis Musuayi **4.00**  ·  Marc Santos **15.00**  ·  Borja Iglesias **2.40**  ·  Carl Starfelt **10.00**  ·  Hugo Sotelo **10.00**  ·  Iago Aspas **2.75**  ·  Ilaix Moriba **6.50**  ·  Marcos Alonso **7.50**  ·  Sergio Carreira **8.50**  ·  Williot Swedberg **3.25**  ·  Daniel Requena **5.00**  ·  Axel Tape **19.00**  ·  Yoel Lago **11.00**  ·  Enzo Bardeli **8.00**
-- **Player to Score or Assist:** Miguel Roman **3.40**  ·  Hugo Gonzalez **2.10**  ·  Victor Garcia **4.00**  ·  Javier Rueda **3.75**  ·  Aleix Febas **4.00**  ·  Alvaro Nunez **3.75**  ·  Ivan Romero **3.00**  ·  Jorge Cabello **13.00**  ·  Oriol Rey **6.50**  ·  Roger Brugue **3.00**  ·  Adrian De la Fuente **5.00**  ·  Aissa Mandi **10.00**  ·  Ifeanyi Ndukwe **10.00**  ·  Nacho Perez **7.50**  ·  Paco Cortes **3.75**  ·  Thiago Fernandez **3.10**  ·  Petar Ratkov **2.50**  ·  Ferran Jutgla **2.00**  ·  Jeremy Toljan **7.50**  ·  Couhaib Driouech **2.40**  ·  Manuel Sanchez **6.50**  ·  Jon Ander Olasagasti **4.33**  ·  Abdoulaye Faye **5.50**  ·  Sebastian Caceres **6.00**  ·  Pablo Duran **2.05**  ·  Hugo Alvarez **2.40**  ·  Javier Rodriguez **4.75**  ·  Javier Galan **4.00**  ·  Jones El-Abdellaoui **2.40**  ·  Hugo Burcio **4.75**  ·  Andres Antanon **2.75**  ·  Yanis Musuayi **3.00**  ·  Marc Santos **6.50**  ·  Borja Iglesias **1.95**  ·  Carl Starfelt **7.00**  ·  Hugo Sotelo **5.00**  ·  Iago Aspas **1.91**  ·  Ilaix Moriba **3.75**  ·  Marcos Alonso **4.50**  ·  Sergio Carreira **4.33**  ·  Williot Swedberg **2.20**  ·  Daniel Requena **4.00**  ·  Axel Tape **8.00**  ·  Yoel Lago **6.00**  ·  Enzo Bardeli **4.00**
+- **Player to Score or Assist:** Miguel Roman **3.40**  ·  Hugo Gonzalez **2.10**  ·  Victor Garcia **4.00**  ·  Javier Rueda **3.75**  ·  Aleix Febas **4.00**  ·  Alvaro Nunez **3.75**  ·  Ivan Romero **2.88**  ·  Jorge Cabello **13.00**  ·  Oriol Rey **6.50**  ·  Roger Brugue **3.00**  ·  Adrian De la Fuente **5.00**  ·  Aissa Mandi **10.00**  ·  Ifeanyi Ndukwe **10.00**  ·  Nacho Perez **7.50**  ·  Paco Cortes **3.75**  ·  Thiago Fernandez **3.10**  ·  Petar Ratkov **2.60**  ·  Ferran Jutgla **1.83**  ·  Jeremy Toljan **7.50**  ·  Couhaib Driouech **2.38**  ·  Manuel Sanchez **6.50**  ·  Jon Ander Olasagasti **4.33**  ·  Abdoulaye Faye **5.50**  ·  Sebastian Caceres **6.00**  ·  Pablo Duran **2.05**  ·  Hugo Alvarez **2.38**  ·  Javier Rodriguez **4.75**  ·  Javier Galan **4.00**  ·  Jones El-Abdellaoui **2.40**  ·  Hugo Burcio **4.75**  ·  Andres Antanon **2.75**  ·  Yanis Musuayi **3.00**  ·  Marc Santos **6.50**  ·  Borja Iglesias **1.95**  ·  Carl Starfelt **7.00**  ·  Hugo Sotelo **5.00**  ·  Iago Aspas **1.91**  ·  Ilaix Moriba **3.75**  ·  Marcos Alonso **4.50**  ·  Sergio Carreira **4.33**  ·  Williot Swedberg **2.10**  ·  Daniel Requena **4.00**  ·  Axel Tape **8.00**  ·  Yoel Lago **6.00**  ·  Enzo Bardeli **4.00**
 
 ## Estadísticas de equipo
 | | Celta Vigo (total) | Celta Vigo en casa | Levante (total) | Levante fuera |
@@ -185,34 +193,35 @@ _Goles esperados: local 1,12 · visitante 1,08 · córners esperados 8,7._
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 22% | 28% | 4.20 | +19% |
 | 1X2: X | 29% | 27% | 28% | 3.50 | -2% |
-| 1X2: 1 | 36% | 51% | 44% | 1.83 | -20% |
-| Doble oportunidad: X2 | 64% | 49% | 56% | 1.91 | +8% |
+| 1X2: 1 | 37% | 51% | 44% | 1.83 | -20% |
+| Doble oportunidad: X2 | 63% | 49% | 56% | 1.91 | +8% |
 | Doble oportunidad: 12 | 71% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 66% | 77% | 71% | 1.22 | -13% |
-| Ambos marcan: No | 55% | 48% | 52% | 1.95 | +1% |
-| Ambos marcan: Sí | 45% | 52% | 48% | 1.80 | -13% |
+| Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
+| Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 76% | 70% | 1.25 | -12% |
-| Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -18% |
+| Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -19% |
 | Goles más/menos: Más de 3.5 | 18% | 30% | 24% | 3.20 | -23% |
 | Goles más/menos: Menos de 1.5 | 35% | 24% | 30% | 4.00 | +18% |
 | Goles más/menos: Menos de 2.5 ✅ | 62% | 47% | 55% | 2.00 | +9% |
 | Goles más/menos: Menos de 3.5 | 82% | 70% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Goles del local: Más de 0.5 | 68% | 79% | 73% | 1.18 | -13% |
-| Goles del local: Más de 1.5 | 31% | 50% | 40% | 1.83 | -26% |
+| Goles del local: Más de 1.5 | 31% | 50% | 41% | 1.83 | -26% |
 | Goles del local: Más de 2.5 | 10% | 25% | 18% | 3.75 | -34% |
 | Goles del local: Menos de 0.5 | 32% | 21% | 27% | 4.50 | +20% |
-| Goles del local: Menos de 1.5 ✅ | 69% | 50% | 60% | 1.83 | +9% |
+| Goles del local: Menos de 1.5 ✅ | 69% | 50% | 59% | 1.83 | +9% |
 | Goles del local: Menos de 2.5 | 90% | 75% | 82% | 1.25 | +3% |
 | Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 29% | 28% | 29% | 3.40 | -3% |
 | Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles del visitante: Menos de 1.5 | 71% | 72% | 71% | 1.30 | -7% |
-| 1X2 descanso: 2 | 26% | 21% | 23% | 4.50 | +4% |
-| 1X2 descanso: X | 48% | 41% | 44% | 2.25 | -0% |
-| 1X2 descanso: 1 | 27% | 38% | 33% | 2.40 | -22% |
+| Córners más/menos: Más de 8.5 | 47% | 47% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 8.5 | 53% | 53% | 53% | 1.80 | -5% |
+| 1X2 descanso: X | 48% | 40% | 44% | 2.30 | +1% |
+| 1X2 descanso: 1 | 27% | 40% | 34% | 2.30 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

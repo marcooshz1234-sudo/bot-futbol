@@ -1,7 +1,7 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -188,9 +188,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 80% | 52% | 66% | 1.80 | +19% |
 | Doble oportunidad: 12 | 70% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 51% | 74% | 62% | 1.28 | -20% |
-| Ambos marcan: No | 66% | 42% | 54% | 2.20 | +19% |
+| Ambos marcan: No | 66% | 42% | 54% | 2.20 | +20% |
 | Ambos marcan: Sí | 34% | 58% | 46% | 1.62 | -26% |
-| Goles más/menos: Más de 1.5 | 56% | 78% | 67% | 1.22 | -18% |
+| Goles más/menos: Más de 1.5 | 56% | 78% | 67% | 1.22 | -19% |
 | Goles más/menos: Más de 2.5 | 29% | 57% | 43% | 1.67 | -29% |
 | Goles más/menos: Más de 3.5 | 12% | 34% | 23% | 2.75 | -36% |
 | Goles más/menos: Menos de 1.5 | 44% | 22% | 33% | 4.33 | +44% |

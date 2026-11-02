@@ -1,7 +1,7 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:15_
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | Alejandro Balde | D | 4 | 116 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,95 · córners esperados 9,1._
+_Goles esperados: local 1,41 · visitante 1,95 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -211,13 +211,13 @@ _Goles esperados: local 1,42 · visitante 1,95 · córners esperados 9,1._
 | Goles del local: Más de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
 | Goles del local: Más de 2.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles del local: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles del local: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -5% |
+| Goles del local: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
 | Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del visitante: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
-| 1X2 descanso: 2 | 38% | 41% | 40% | 2.25 | -10% |
+| 1X2 descanso: 2 | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: X | 37% | 34% | 35% | 2.75 | -3% |
 | 1X2 descanso: 1 | 25% | 25% | 25% | 3.75 | -7% |
 

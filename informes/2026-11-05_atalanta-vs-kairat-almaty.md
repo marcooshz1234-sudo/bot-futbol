@@ -1,7 +1,7 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -175,7 +175,7 @@ _Sin precedentes recientes._
 | A. Sadybekov | M | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,96 · visitante 0,57 · córners esperados 9,2._
+_Goles esperados: local 1,96 · visitante 0,56 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -196,13 +196,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 75% | 54% | 64% | 1.73 | +11% |
 | Goles más/menos: Menos de 4.5 | 89% | 72% | 81% | 1.30 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 77% | 72% | 1.22 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 46% | 38% | 2.00 | -23% |
 | Goles 1ª parte más/menos: Más de 2.5 | 10% | 22% | 16% | 4.33 | -31% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 23% | 28% | 4.00 | +13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
 | Goles del local: Más de 1.5 | 58% | 75% | 67% | 1.25 | -17% |
-| Goles del local: Más de 2.5 | 31% | 54% | 42% | 1.73 | -27% |
+| Goles del local: Más de 2.5 | 31% | 54% | 42% | 1.73 | -26% |
 | Goles del local: Más de 3.5 | 14% | 31% | 22% | 3.00 | -33% |
 | Goles del local: Menos de 1.5 | 42% | 25% | 33% | 3.75 | +25% |
 | Goles del local: Menos de 2.5 | 69% | 46% | 58% | 2.00 | +15% |

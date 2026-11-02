@@ -1,7 +1,7 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:48_
@@ -172,23 +172,23 @@ _Sin bajas comunicadas por ahora._
 | Pascal Struijk | D | 6 | 291 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,61 · visitante 2,13 · córners esperados 9,8._
+_Goles esperados: local 0,61 · visitante 2,12 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 73% | 57% | 65% | 1.62 | +5% |
-| 1X2: X | 18% | 26% | 22% | 3.60 | -22% |
-| 1X2: 1 | 9% | 18% | 13% | 5.25 | -30% |
+| 1X2: X | 18% | 26% | 22% | 3.60 | -21% |
+| 1X2: 1 | 9% | 18% | 13% | 5.25 | -29% |
 | Doble oportunidad: X2 | 91% | 82% | 86% | 1.17 | +1% |
-| Doble oportunidad: 12 | 82% | 75% | 79% | 1.28 | +1% |
+| Doble oportunidad: 12 | 82% | 75% | 79% | 1.28 | +0% |
 | Doble oportunidad: 1X | 27% | 43% | 35% | 2.25 | -21% |
 | Ambos marcan: No | 60% | 51% | 56% | 1.80 | +0% |
 | Ambos marcan: Sí | 40% | 49% | 44% | 1.91 | -15% |
-| Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
+| Goles más/menos: Más de 1.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -3% |
 | Goles más/menos: Más de 3.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles más/menos: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles más/menos: Menos de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
+| Goles más/menos: Menos de 1.5 | 24% | 27% | 26% | 3.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -7% |
 | Goles más/menos: Menos de 3.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
@@ -198,8 +198,8 @@ _Goles esperados: local 0,61 · visitante 2,13 · córners esperados 9,8._
 | Goles del local: Más de 1.5 | 12% | 23% | 18% | 4.00 | -28% |
 | Goles del local: Menos de 0.5 ✅ | 55% | 42% | 48% | 2.20 | +7% |
 | Goles del local: Menos de 1.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +0% |
+| Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +9% |
 | Goles del visitante: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
 | Goles del visitante: Menos de 2.5 | 64% | 73% | 69% | 1.28 | -12% |
 | 1X2 descanso: 2 | 51% | 42% | 47% | 2.20 | +3% |

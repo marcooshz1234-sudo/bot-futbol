@@ -1,7 +1,7 @@
 # Hamburger SV – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 9 · 06/11/2026 20:30 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -188,10 +188,10 @@ _Goles esperados: local 1,54 · visitante 1,50 · córners esperados 9,4._
 |---|---|---|---|---|---|
 | 1X2: 2 | 37% | 33% | 35% | 2.80 | -2% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
-| 1X2: 1 | 39% | 41% | 40% | 2.25 | -10% |
+| 1X2: 1 | 39% | 41% | 40% | 2.25 | -9% |
 | Doble oportunidad: X2 | 61% | 58% | 60% | 1.62 | -3% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 63% | 68% | 65% | 1.40 | -9% |
+| Doble oportunidad: 1X | 63% | 68% | 65% | 1.40 | -8% |
 | Ambos marcan: No | 39% | 38% | 38% | 2.50 | -4% |
 | Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -7% |
 | Goles más/menos: Más de 2.5 | 59% | 60% | 59% | 1.57 | -7% |
@@ -212,7 +212,7 @@ _Goles esperados: local 1,54 · visitante 1,50 · córners esperados 9,4._
 | Goles del local: Menos de 2.5 | 80% | 75% | 77% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
-| Goles del visitante: Más de 2.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles del visitante: Más de 2.5 | 19% | 21% | 20% | 4.50 | -11% |
 | Goles del visitante: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -8% |
 | Goles del visitante: Menos de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
 | Goles del visitante: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -5% |

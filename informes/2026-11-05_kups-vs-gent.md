@@ -1,7 +1,7 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -173,7 +173,7 @@ _Sin precedentes recientes._
 | Kyrell Wilson | F | 2 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,46 · visitante 1,18 · córners esperados 10,0._
+_Goles esperados: local 0,46 · visitante 1,19 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -182,7 +182,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 54% | 54% | 54% | 1.73 | -6% |
 | 1X2: X | 31% | 25% | 28% | 3.80 | +6% |
 | 1X2: 1 | 14% | 22% | 18% | 4.33 | -22% |
-| Doble oportunidad: X2 | 86% | 79% | 82% | 1.20 | -2% |
+| Doble oportunidad: X2 | 86% | 79% | 82% | 1.20 | -1% |
 | Doble oportunidad: 12 | 69% | 75% | 72% | 1.25 | -10% |
 | Doble oportunidad: 1X | 46% | 46% | 46% | 2.05 | -6% |
 | Ambos marcan: No | 74% | 46% | 60% | 2.00 | +21% |
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 91% | 66% | 79% | 1.40 | +10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 51% | 71% | 61% | 1.33 | -19% |
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 38% | 27% | 2.50 | -33% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 29% | 39% | 3.25 | +27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 29% | 39% | 3.25 | +26% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 62% | 73% | 1.50 | +10% |
 | Goles del local: Más de 0.5 | 37% | 65% | 51% | 1.44 | -27% |
 | Goles del local: Más de 1.5 | 8% | 28% | 18% | 3.40 | -40% |

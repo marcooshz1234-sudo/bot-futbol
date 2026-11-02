@@ -1,7 +1,7 @@
 # Real Sociedad – Lyon
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -51,52 +51,52 @@ _Actualizadas: 01/11 13:55_
 ## Estadísticas de equipo
 | | Real Sociedad (total) | Real Sociedad en casa | Lyon (total) | Lyon fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 16 | 8 |
-| Forma (últimos 5) | VVVEV | VVDDE | VDDVV | DDDVE |
-| Balance | 7V 2E 4D | 3V 1E 2D | 8V 3E 5D | 2V 2E 4D |
-| Goles a favor / partido | 2,08 | 1,33 | 1,62 | 0,88 |
-| Goles en contra / partido | 1,62 | 1,50 | 1,12 | 1,38 |
-| Goles a favor 1ª parte | 1,08 | 0,83 | 0,88 | 0,50 |
-| Goles a favor 2ª parte | 1,00 | 0,50 | 0,75 | 0,38 |
-| Goles en contra 1ª parte | 0,38 | 0,67 | 0,38 | 0,25 |
-| Goles en contra 2ª parte | 1,23 | 0,83 | 0,75 | 1,12 |
-| Más de 1,5 goles | 85% | 83% | 94% | 88% |
-| Más de 2,5 goles | 77% | 83% | 62% | 50% |
-| Más de 3,5 goles | 46% | 17% | 19% | 0% |
-| Ambos marcan | 69% | 67% | 56% | 50% |
-| Portería a cero | 15% | 17% | 31% | 25% |
-| Se queda sin marcar | 23% | 33% | 19% | 38% |
-| xG a favor | 1,48 | 1,42 | 1,54 | 0,82 |
-| xG en contra | 1,63 | 1,22 | 1,28 | 1,50 |
+| Partidos analizados | 14 | 6 | 16 | 8 |
+| Forma (últimos 5) | DVVVE | VVDDE | VDDVV | DDDVE |
+| Balance | 7V 2E 5D | 3V 1E 2D | 8V 3E 5D | 2V 2E 4D |
+| Goles a favor / partido | 2,00 | 1,33 | 1,62 | 0,88 |
+| Goles en contra / partido | 1,64 | 1,50 | 1,12 | 1,38 |
+| Goles a favor 1ª parte | 1,07 | 0,83 | 0,88 | 0,50 |
+| Goles a favor 2ª parte | 0,93 | 0,50 | 0,75 | 0,38 |
+| Goles en contra 1ª parte | 0,50 | 0,67 | 0,38 | 0,25 |
+| Goles en contra 2ª parte | 1,14 | 0,83 | 0,75 | 1,12 |
+| Más de 1,5 goles | 86% | 83% | 94% | 88% |
+| Más de 2,5 goles | 79% | 83% | 62% | 50% |
+| Más de 3,5 goles | 43% | 17% | 19% | 0% |
+| Ambos marcan | 71% | 67% | 56% | 50% |
+| Portería a cero | 14% | 17% | 31% | 25% |
+| Se queda sin marcar | 21% | 33% | 19% | 38% |
+| xG a favor | 1,47 | 1,42 | 1,54 | 0,82 |
+| xG en contra | 1,73 | 1,22 | 1,28 | 1,50 |
 | Tiros / partido | 14,0 | 14,3 | 13,0 | 10,1 |
 | Tiros a puerta / partido | 5,1 | 5,0 | 5,4 | 4,4 |
-| Tiros recibidos | 15,1 | 11,5 | 12,4 | 13,9 |
-| Tiros a puerta recibidos | 5,2 | 3,7 | 4,6 | 5,5 |
-| Posesión media % | 51 | 52 | 51 | 47 |
-| Córners a favor | 6,2 | 7,7 | 4,8 | 4,8 |
+| Tiros recibidos | 14,9 | 11,5 | 12,4 | 13,9 |
+| Tiros a puerta recibidos | 5,1 | 3,7 | 4,6 | 5,5 |
+| Posesión media % | 52 | 52 | 51 | 47 |
+| Córners a favor | 6,3 | 7,7 | 4,8 | 4,8 |
 | Córners en contra | 4,4 | 4,2 | 5,7 | 6,2 |
-| Córners a favor 1ª parte | 3,2 | 4,2 | 2,2 | 1,5 |
-| Córners a favor 2ª parte | 3,0 | 3,5 | 2,6 | 3,2 |
-| Córners totales del partido | 10,5 | 11,8 | 10,5 | 11,0 |
-| Córners totales 1ª parte | 4,7 | 5,7 | 5,5 | 5,6 |
-| Córners totales 2ª parte | 5,8 | 6,2 | 5,0 | 5,4 |
-| Más de 8,5 córners | 77% | 83% | 69% | 75% |
-| Más de 9,5 córners | 62% | 83% | 69% | 75% |
-| Más de 10,5 córners | 54% | 67% | 50% | 62% |
+| Córners a favor 1ª parte | 3,1 | 4,2 | 2,2 | 1,5 |
+| Córners a favor 2ª parte | 3,1 | 3,5 | 2,6 | 3,2 |
+| Córners totales del partido | 10,7 | 11,8 | 10,5 | 11,0 |
+| Córners totales 1ª parte | 4,9 | 5,7 | 5,5 | 5,6 |
+| Córners totales 2ª parte | 5,9 | 6,2 | 5,0 | 5,4 |
+| Más de 8,5 córners | 79% | 83% | 69% | 75% |
+| Más de 9,5 córners | 64% | 83% | 69% | 75% |
+| Más de 10,5 córners | 57% | 67% | 50% | 62% |
 | Faltas cometidas | 12,1 | 14,8 | 11,3 | 11,5 |
-| Faltas recibidas | 10,5 | 12,2 | 13,1 | 14,1 |
-| Amarillas propias | 2,0 | 1,8 | 1,1 | 1,1 |
-| Amarillas del rival | 2,5 | 2,7 | 1,9 | 1,6 |
-| Rojas / partido | 0,23 | 0,17 | 0,06 | 0,00 |
+| Faltas recibidas | 10,6 | 12,2 | 13,1 | 14,1 |
+| Amarillas propias | 2,1 | 1,8 | 1,1 | 1,1 |
+| Amarillas del rival | 2,4 | 2,7 | 1,9 | 1,6 |
+| Rojas / partido | 0,21 | 0,17 | 0,06 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Real Sociedad | Recibe Real Sociedad | Tarjetas Real Sociedad | Goles Lyon | Recibe Lyon | Tarjetas Lyon |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 1 | 1 | 3 | 0 | 1 |
-| 16-30' | 6 | 2 | 5 | 4 | 3 | 2 |
-| 31-45' | 4 | 2 | 4 | 7 | 3 | 3 |
-| 46-60' | 4 | 3 | 4 | 2 | 3 | 4 |
-| 61-75' | 5 | 7 | 8 | 4 | 5 | 4 |
+| 1-15' | 4 | 2 | 1 | 3 | 0 | 1 |
+| 16-30' | 7 | 2 | 5 | 4 | 3 | 2 |
+| 31-45' | 4 | 3 | 4 | 7 | 3 | 3 |
+| 46-60' | 4 | 3 | 5 | 2 | 3 | 4 |
+| 61-75' | 5 | 7 | 11 | 4 | 5 | 4 |
 | 76-90' | 4 | 6 | 7 | 6 | 4 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -111,36 +111,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Sociedad
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | LaLiga | Athletic Club 2-1 Real Sociedad | fuera | 8-5 | 14 (5) - 13 (3) | 3-2 |
 | 2026-10-25 | LaLiga | Real Sociedad 2-1 Levante | casa | 2-3 | 17 (3) - 6 (2) | 1-3 |
 | 2026-10-22 | Europa League | Lillestrom 0-6 Real Sociedad | fuera | 3-3 | 16 (8) - 14 (2) | 2-1 |
 | 2026-10-18 | LaLiga | Malaga 2-5 Real Sociedad | fuera | 5-4 | 21 (9) - 17 (6) | 2-1 |
 | 2026-10-15 | Europa League | Union St. Gilloise 1-1 Real Sociedad | fuera | 2-4 | 6 (1) - 16 (5) | 1-2 |
 | 2026-10-11 | LaLiga | Real Sociedad 3-2 Deportivo La Coruna | casa | 7-10 | 12 (4) - 21 (7) | 1-2 |
-| 2026-09-20 | LaLiga | Valencia 2-3 Real Sociedad | fuera | 5-7 | 21 (6) - 22 (5) | 3-2 |
 
 ## Jugadores de Real Sociedad
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sergio Gómez | D | 13 | 1060 | 3 | 0 | 7 | 0,5 | 4 | 0,3 | 3 | 5 | 0,4 | 1 | 0 |
-| Jon Martín | D | 12 | 996 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 13 | 10 | 0,8 | 2 | 1 |
-| Mikel Oyarzabal | F | 13 | 912 | 2 | 5 | 18 | 1,4 | 9 | 0,7 | 8 | 16 | 1,2 | 1 | 0 |
-| L. Sučić | M | 12 | 861 | 5 | 0 | 17 | 1,4 | 9 | 0,8 | 5 | 3 | 0,2 | 2 | 0 |
-| Álex Remiro | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Carlos Soler | M | 10 | 719 | 1 | 3 | 7 | 0,7 | 4 | 0,4 | 3 | 6 | 0,6 | 0 | 0 |
-| Gonçalo Guedes | M | 12 | 651 | 2 | 2 | 19 | 1,6 | 8 | 0,7 | 8 | 16 | 1,3 | 0 | 0 |
-| M. Sarr | D | 8 | 643 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 7 | 0,9 | 3 | 0 |
+| Sergio Gómez | D | 14 | 1150 | 3 | 0 | 8 | 0,6 | 4 | 0,3 | 5 | 5 | 0,4 | 1 | 0 |
+| Jon Martín | D | 13 | 1086 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 14 | 11 | 0,8 | 2 | 1 |
+| Mikel Oyarzabal | F | 14 | 1002 | 2 | 5 | 19 | 1,4 | 10 | 0,7 | 9 | 17 | 1,2 | 2 | 0 |
+| L. Sučić | F | 13 | 936 | 6 | 0 | 20 | 1,5 | 10 | 0,8 | 5 | 3 | 0,2 | 2 | 0 |
+| Álex Remiro | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Carlos Soler | M | 11 | 809 | 1 | 3 | 11 | 1,0 | 5 | 0,5 | 3 | 6 | 0,5 | 0 | 0 |
+| Gonçalo Guedes | M | 13 | 740 | 2 | 2 | 20 | 1,5 | 8 | 0,6 | 8 | 18 | 1,4 | 0 | 0 |
+| M. Sarr | D | 9 | 733 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 9 | 1,0 | 4 | 0 |
+| J. Aramburu | D | 9 | 713 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 28 | 15 | 1,7 | 4 | 0 |
+| Barrenetxea | M | 12 | 649 | 2 | 1 | 9 | 0,8 | 4 | 0,3 | 17 | 7 | 0,6 | 1 | 0 |
 | Y. Herrera | M | 11 | 641 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 19 | 14 | 1,3 | 4 | 0 |
-| J. Aramburu | D | 8 | 625 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 25 | 13 | 1,6 | 3 | 0 |
+| O. Óskarsson | F | 12 | 634 | 4 | 0 | 23 | 1,9 | 11 | 0,9 | 15 | 6 | 0,5 | 3 | 1 |
 | Zubeldia | D | 9 | 623 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 2 | 0 |
-| O. Óskarsson | F | 11 | 605 | 4 | 0 | 22 | 2,0 | 10 | 0,9 | 12 | 6 | 0,5 | 3 | 1 |
-| Barrenetxea | F | 11 | 588 | 2 | 1 | 8 | 0,7 | 3 | 0,3 | 15 | 7 | 0,6 | 1 | 0 |
-| Jon Gorrotxategi | M | 10 | 499 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 5 | 0,5 | 1 | 0 |
-| Beñat Turrientes | M | 8 | 456 | 2 | 1 | 7 | 0,9 | 6 | 0,8 | 2 | 2 | 0,2 | 2 | 0 |
-| T. Kubo | M | 9 | 381 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 3 | 7 | 0,8 | 0 | 0 |
-| J. Ochieng | F | 8 | 372 | 1 | 3 | 5 | 0,6 | 2 | 0,2 | 12 | 4 | 0,5 | 0 | 0 |
+| Jon Gorrotxategi | M | 11 | 574 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 7 | 0,6 | 1 | 0 |
+| Beñat Turrientes | M | 9 | 471 | 2 | 1 | 8 | 0,9 | 6 | 0,7 | 2 | 2 | 0,2 | 2 | 0 |
+| T. Kubo | F | 10 | 396 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 3 | 8 | 0,8 | 0 | 0 |
+| J. Ochieng | F | 9 | 373 | 1 | 3 | 5 | 0,6 | 2 | 0,2 | 12 | 4 | 0,4 | 0 | 0 |
 | Unai Marrero | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,8 | 0 | 0 |
 | Luken Beitia | D | 4 | 360 | 0 | 1 | 2 | 0,5 | 1 | 0,2 | 2 | 0 | 0,0 | 1 | 0 |
-| Héctor Fort | D | 5 | 186 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| Héctor Fort | D | 6 | 188 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Lyon
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -177,38 +177,38 @@ _Sin bajas comunicadas por ahora._
 | J. Duranville | F | 5 | 277 | 0 | 0 | 6 | 1,2 | 2 | 0,4 | 4 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,31 · córners esperados 10,4._
+_Goles esperados: local 1,57 · visitante 1,35 · córners esperados 10,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.60 | +4% |
+| 1X2: 2 | 33% | 26% | 29% | 3.60 | +6% |
 | 1X2: X | 25% | 25% | 25% | 3.70 | -8% |
-| 1X2: 1 | 43% | 49% | 46% | 1.90 | -12% |
-| Doble oportunidad: X2 | 57% | 50% | 53% | 1.91 | +2% |
+| 1X2: 1 | 43% | 49% | 46% | 1.90 | -13% |
+| Doble oportunidad: X2 | 57% | 50% | 54% | 1.91 | +3% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 68% | 75% | 71% | 1.28 | -9% |
-| Ambos marcan: No | 42% | 39% | 41% | 2.38 | -3% |
-| Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
-| Goles más/menos: Más de 2.5 | 55% | 60% | 58% | 1.57 | -10% |
-| Goles más/menos: Más de 3.5 | 32% | 40% | 36% | 2.38 | -14% |
-| Goles más/menos: Más de 4.5 | 16% | 22% | 19% | 4.33 | -17% |
-| Goles más/menos: Menos de 2.5 | 45% | 40% | 42% | 2.38 | +1% |
-| Goles más/menos: Menos de 3.5 | 68% | 60% | 64% | 1.57 | +0% |
-| Goles más/menos: Menos de 4.5 | 84% | 78% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 38% | 2.25 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 62% | 1.57 | -3% |
+| Doble oportunidad: 1X | 67% | 75% | 71% | 1.28 | -9% |
+| Ambos marcan: No | 41% | 39% | 40% | 2.38 | -4% |
+| Ambos marcan: Sí | 59% | 61% | 60% | 1.53 | -9% |
+| Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -9% |
+| Goles más/menos: Más de 3.5 | 33% | 40% | 37% | 2.38 | -13% |
+| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -16% |
+| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | +0% |
+| Goles más/menos: Menos de 3.5 | 67% | 60% | 63% | 1.57 | -0% |
+| Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
 | Goles del local: Más de 1.5 | 46% | 56% | 51% | 1.67 | -15% |
 | Goles del local: Más de 2.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del local: Menos de 1.5 | 54% | 44% | 49% | 2.10 | +3% |
 | Goles del local: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles del visitante: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
-| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -1% |
-| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -5% |
-| 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -14% |
+| Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Goles del visitante: Más de 1.5 | 39% | 38% | 38% | 2.50 | -4% |
+| Goles del visitante: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
+| Goles del visitante: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
+| 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | -0% |
+| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

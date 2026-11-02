@@ -1,10 +1,10 @@
 # AEK Athens FC – Real Madrid
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Allwyn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 19:48_
+_Actualizadas: 02/11 02:10_
 
 - **1X2:** 1 **9.00**  ·  X **7.00**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.10**  ·  X2 **1.08**
@@ -179,25 +179,25 @@ _Sin precedentes recientes._
 | A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 2,00 · córners esperados 9,3._
+_Goles esperados: local 1,09 · visitante 1,99 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 59% | 76% | 67% | 1.25 | -16% |
-| 1X2: X | 21% | 14% | 17% | 7.00 | +22% |
+| 1X2: 2 | 58% | 76% | 67% | 1.25 | -16% |
+| 1X2: X | 21% | 14% | 18% | 7.00 | +23% |
 | 1X2: 1 | 20% | 11% | 15% | 9.00 | +38% |
 | Doble oportunidad: X2 | 80% | 88% | 84% | 1.08 | -9% |
 | Doble oportunidad: 12 | 79% | 87% | 83% | 1.10 | -9% |
-| Doble oportunidad: 1X | 41% | 25% | 33% | 3.75 | +25% |
+| Doble oportunidad: 1X | 42% | 25% | 34% | 3.75 | +26% |
 | Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
 | Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -7% |
 | Goles más/menos: Más de 2.5 | 59% | 72% | 66% | 1.33 | -13% |
-| Goles más/menos: Más de 3.5 | 37% | 50% | 44% | 1.91 | -17% |
-| Goles más/menos: Más de 4.5 | 20% | 32% | 26% | 3.00 | -22% |
+| Goles más/menos: Más de 3.5 | 37% | 50% | 43% | 1.91 | -17% |
+| Goles más/menos: Más de 4.5 | 20% | 32% | 26% | 3.00 | -23% |
 | Goles más/menos: Menos de 2.5 | 41% | 28% | 34% | 3.40 | +17% |
-| Goles más/menos: Menos de 3.5 | 63% | 50% | 56% | 1.91 | +8% |
+| Goles más/menos: Menos de 3.5 | 63% | 50% | 57% | 1.91 | +8% |
 | Goles más/menos: Menos de 4.5 | 80% | 68% | 74% | 1.40 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 79% | 77% | 1.18 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 50% | 44% | 1.83 | -19% |
@@ -205,14 +205,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 50% | 56% | 1.83 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 85% | 75% | 80% | 1.25 | -0% |
-| Goles del local: Más de 0.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del local: Más de 1.5 | 29% | 28% | 29% | 3.40 | -3% |
+| Goles del local: Más de 0.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles del local: Más de 1.5 | 30% | 28% | 29% | 3.40 | -3% |
 | Goles del local: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles del local: Menos de 1.5 | 71% | 72% | 71% | 1.30 | -7% |
+| Goles del local: Menos de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
 | Goles del visitante: Más de 1.5 | 59% | 75% | 67% | 1.25 | -16% |
 | Goles del visitante: Más de 2.5 | 32% | 51% | 42% | 1.80 | -25% |
 | Goles del visitante: Más de 3.5 | 14% | 29% | 22% | 3.25 | -30% |
-| Goles del visitante: Menos de 1.5 | 41% | 25% | 33% | 3.75 | +23% |
+| Goles del visitante: Menos de 1.5 | 41% | 25% | 33% | 3.75 | +24% |
 | Goles del visitante: Menos de 2.5 | 68% | 49% | 58% | 1.91 | +11% |
 | Goles del visitante: Menos de 3.5 | 86% | 71% | 78% | 1.33 | +4% |
 | 1X2 descanso: 2 | 43% | 56% | 49% | 1.67 | -18% |

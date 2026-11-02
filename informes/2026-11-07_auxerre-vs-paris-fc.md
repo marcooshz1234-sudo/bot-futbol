@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -181,7 +181,7 @@ _Sin bajas comunicadas por ahora._
 | O. Sissoko | F | 4 | 35 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,21 · córners esperados 9,3._
+_Goles esperados: local 1,04 · visitante 2,20 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,10 +193,10 @@ _Goles esperados: local 1,04 · visitante 2,21 · córners esperados 9,3._
 | Doble oportunidad: 1X | 36% | 50% | 43% | 1.91 | -17% |
 | Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 1.5 | 84% | 78% | 81% | 1.22 | -1% |
+| Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.22 | -1% |
 | Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
 | Goles más/menos: Más de 3.5 | 41% | 34% | 38% | 2.75 | +3% |
-| Goles más/menos: Menos de 1.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.10 | -14% |
 | Goles más/menos: Menos de 3.5 | 59% | 66% | 62% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 71% | 73% | 1.33 | -2% |

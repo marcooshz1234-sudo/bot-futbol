@@ -1,7 +1,7 @@
 # Excelsior – GO Ahead Eagles
 **Eredivisie** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -195,12 +195,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 67% | 68% | 67% | 1.40 | -6% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 55% | 58% | 57% | 1.62 | -8% |
-| Ambos marcan: No | 31% | 34% | 32% | 2.75 | -11% |
-| Ambos marcan: Sí | 69% | 66% | 68% | 1.40 | -5% |
+| Ambos marcan: No | 31% | 34% | 33% | 2.75 | -11% |
+| Ambos marcan: Sí | 69% | 66% | 67% | 1.40 | -6% |
 | Goles más/menos: Más de 2.5 | 69% | 64% | 66% | 1.48 | -2% |
 | Goles más/menos: Más de 3.5 | 48% | 44% | 46% | 2.10 | -4% |
 | Goles más/menos: Más de 4.5 | 29% | 27% | 28% | 3.50 | -3% |
-| Goles más/menos: Menos de 2.5 | 31% | 36% | 34% | 2.60 | -13% |
+| Goles más/menos: Menos de 2.5 | 31% | 36% | 34% | 2.60 | -12% |
 | Goles más/menos: Menos de 3.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Menos de 4.5 | 71% | 73% | 72% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
@@ -216,9 +216,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -7% |
 | Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles del visitante: Más de 2.5 | 30% | 27% | 29% | 3.50 | -0% |
+| Goles del visitante: Más de 2.5 | 30% | 27% | 28% | 3.50 | -0% |
 | Goles del visitante: Menos de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles del visitante: Menos de 2.5 | 70% | 73% | 71% | 1.28 | -9% |
+| Goles del visitante: Menos de 2.5 | 70% | 73% | 72% | 1.28 | -8% |
 | 1X2 descanso: 2 | 36% | 33% | 35% | 2.75 | -5% |
 | 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -9% |
 | 1X2 descanso: 1 | 28% | 30% | 29% | 3.10 | -10% |

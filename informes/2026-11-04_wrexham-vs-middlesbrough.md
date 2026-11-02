@@ -1,10 +1,10 @@
 # Wrexham – Middlesbrough
 **Championship** · Regular Season - 14 · 04/11/2026 20:45 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 08:01_
+_Actualizadas: 02/11 02:10_
 
 - **1X2:** 1 **3.60**  ·  X **3.75**  ·  2 **1.91**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.28**
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Solomon Brynn | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,90 · visitante 1,53 · córners esperados 9,6._
+_Goles esperados: local 0,90 · visitante 1,52 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,9 +199,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 77% | 60% | 69% | 1.57 | +8% |
 | Goles más/menos: Menos de 4.5 | 90% | 78% | 84% | 1.22 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 73% | 69% | 1.28 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 41% | 35% | 2.25 | -22% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 41% | 35% | 2.25 | -22% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 27% | 31% | 3.50 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 59% | 65% | 1.57 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 59% | 65% | 1.57 | +2% |
 | Goles del local: Más de 0.5 | 59% | 72% | 66% | 1.30 | -14% |
 | Goles del local: Más de 1.5 | 23% | 38% | 30% | 2.50 | -25% |
 | Goles del local: Menos de 0.5 | 41% | 28% | 34% | 3.40 | +16% |

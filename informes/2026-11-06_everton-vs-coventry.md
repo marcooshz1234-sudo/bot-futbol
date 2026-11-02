@@ -1,7 +1,7 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -174,7 +174,7 @@ _Sin bajas comunicadas por ahora._
 | Joel Latibeaudiere | D | 3 | 181 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 0,86 · córners esperados 9,4._
+_Goles esperados: local 1,66 · visitante 0,86 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@ _Goles esperados: local 1,67 · visitante 0,86 · córners esperados 9,4._
 | Goles más/menos: Menos de 2.5 | 54% | 45% | 49% | 2.10 | +4% |
 | Goles más/menos: Menos de 3.5 | 75% | 68% | 72% | 1.40 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles del local: Más de 1.5 | 50% | 54% | 52% | 1.73 | -11% |

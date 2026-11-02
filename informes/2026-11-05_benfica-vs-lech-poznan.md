@@ -1,7 +1,7 @@
 # Benfica – Lech Poznan
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Gisli Thordarson | M | 1 | 22 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,91 · visitante 1,38 · córners esperados 9,7._
+_Goles esperados: local 3,90 · visitante 1,38 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -189,16 +189,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 9% | 7% | 8% | 13.00 | +2% |
 | 1X2: X | 10% | 13% | 12% | 7.00 | -19% |
 | 1X2: 1 | 81% | 80% | 81% | 1.14 | -8% |
-| Doble oportunidad: X2 | 19% | 18% | 18% | 5.50 | -0% |
+| Doble oportunidad: X2 | 19% | 18% | 18% | 5.50 | +0% |
 | Doble oportunidad: 12 | 90% | 89% | 89% | 1.10 | -2% |
 | Doble oportunidad: 1X | 91% | 94% | 93% | 1.04 | -4% |
 | Ambos marcan: No | 27% | 52% | 39% | 1.80 | -29% |
 | Ambos marcan: Sí | 73% | 48% | 61% | 1.95 | +18% |
 | Goles más/menos: Más de 2.5 | 90% | 72% | 81% | 1.33 | +7% |
-| Goles más/menos: Más de 3.5 | 77% | 50% | 64% | 1.91 | +22% |
+| Goles más/menos: Más de 3.5 | 77% | 50% | 64% | 1.91 | +21% |
 | Goles más/menos: Más de 4.5 | 61% | 32% | 46% | 3.00 | +39% |
 | Goles más/menos: Menos de 2.5 | 10% | 28% | 19% | 3.40 | -35% |
-| Goles más/menos: Menos de 3.5 | 23% | 50% | 36% | 1.91 | -31% |
+| Goles más/menos: Menos de 3.5 | 23% | 50% | 36% | 1.91 | -30% |
 | Goles más/menos: Menos de 4.5 | 39% | 68% | 54% | 1.40 | -25% |
 | Goles 1ª parte más/menos: Más de 0.5 | 90% | 79% | 85% | 1.18 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 67% | 50% | 58% | 1.83 | +7% |

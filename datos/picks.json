@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01 19:49",
+ "generado": "2026-11-02 02:11",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,181 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-11-01": {
-   "picks": [
-    {
-     "partido_id": 1570001,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Tenerife",
-     "visitante": "FC Andorra",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Enric Gallego - 1",
-     "cuota": 1.3,
-     "frecuencia": 0.889,
-     "ventaja": 0.12,
-     "tipo": "jugador",
-     "jugador": "Enric Gallego",
-     "equipo": "Tenerife",
-     "jugador_id": 47581,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Enric Gallego: 1+ tiros a puerta",
-     "detalle": "Enric Gallego 8/9",
-     "temporada": "8/9",
-     "arbitro": "Manuel Angel Perez Hernandez",
-     "arbitro_tarjetas": 6.2,
-     "posiciones": [
-      12,
-      20,
-      22
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.751
-    },
-    {
-     "partido_id": 1570433,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Real Sociedad",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Robert Navarro - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.857,
-     "ventaja": 0.163,
-     "tipo": "jugador",
-     "jugador": "Robert Navarro",
-     "equipo": "Athletic Club",
-     "jugador_id": 84086,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Robert Navarro: 1+ tiros a puerta",
-     "detalle": "Robert Navarro 6/7",
-     "temporada": "6/7",
-     "movimiento": -0.083,
-     "cuota_inicial": 1.57,
-     "arbitro": "Alejandro Hernandez",
-     "arbitro_tarjetas": 5.6,
-     "posiciones": [
-      7,
-      5,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.609
-    },
-    {
-     "partido_id": 1570433,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Real Sociedad",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Mamadou Sarr - 1",
-     "cuota": 1.4,
-     "frecuencia": 0.833,
-     "ventaja": 0.119,
-     "tipo": "jugador",
-     "jugador": "Mamadou Sarr",
-     "equipo": "Real Sociedad",
-     "jugador_id": 276184,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Mamadou Sarr comete 1+ faltas",
-     "detalle": "Mamadou Sarr 5/6",
-     "temporada": "5/6",
-     "movimiento": -0.067,
-     "cuota_inicial": 1.5,
-     "arbitro": "Alejandro Hernandez",
-     "arbitro_tarjetas": 5.6,
-     "posiciones": [
-      7,
-      5,
-      20
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.487
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1570001,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Tenerife",
-     "visitante": "FC Andorra",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Enric Gallego - 1",
-     "cuota": 1.3,
-     "frecuencia": 0.889,
-     "ventaja": 0.12,
-     "tipo": "jugador",
-     "jugador": "Enric Gallego",
-     "equipo": "Tenerife",
-     "jugador_id": 47581,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Enric Gallego: 1+ tiros a puerta",
-     "detalle": "Enric Gallego 8/9",
-     "temporada": "8/9",
-     "arbitro": "Manuel Angel Perez Hernandez",
-     "arbitro_tarjetas": 6.2,
-     "posiciones": [
-      12,
-      20,
-      22
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.751
-    },
-    {
-     "partido_id": 1570433,
-     "fecha": "2026-11-01T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Athletic Club",
-     "visitante": "Real Sociedad",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Robert Navarro - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.857,
-     "ventaja": 0.163,
-     "tipo": "jugador",
-     "jugador": "Robert Navarro",
-     "equipo": "Athletic Club",
-     "jugador_id": 84086,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Robert Navarro: 1+ tiros a puerta",
-     "detalle": "Robert Navarro 6/7",
-     "temporada": "6/7",
-     "movimiento": -0.083,
-     "cuota_inicial": 1.57,
-     "arbitro": "Alejandro Hernandez",
-     "arbitro_tarjetas": 5.6,
-     "posiciones": [
-      7,
-      5,
-      20
-     ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.609
-    }
-   ],
-   "combis": {
-    "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {},
-   "combis_partido": []
-  },
   "2026-11-02": {
    "picks": [
     {
@@ -209,8 +34,8 @@
       14,
       18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.825
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.756
     },
     {
      "partido_id": 1557455,
@@ -240,8 +65,39 @@
       14,
       20
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.809
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.663
+    },
+    {
+     "partido_id": 1550185,
+     "fecha": "2026-11-02T18:30",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Sassuolo",
+     "visitante": "Fiorentina",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Duje Caleta-Car - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "tipo": "jugador",
+     "jugador": "Duje Caleta-Car",
+     "equipo": "Sassuolo",
+     "jugador_id": 1902,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Duje Caleta-Car comete 1+ faltas",
+     "detalle": "Duje Caleta-Car 4/5",
+     "temporada": "4/5",
+     "arbitro": "Matteo Marcenaro",
+     "arbitro_tarjetas": 4.2,
+     "posiciones": [
+      15,
+      17,
+      20
+     ],
+     "contexto": "mejor_igualado_abajo",
+     "prob_aprendida": 0.589
     },
     {
      "partido_id": 1552803,
@@ -273,39 +129,8 @@
       14,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.673
-    },
-    {
-     "partido_id": 1550185,
-     "fecha": "2026-11-02T18:30",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Sassuolo",
-     "visitante": "Fiorentina",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Duje Caleta-Car - 1",
-     "cuota": 1.33,
-     "frecuencia": 0.8,
-     "ventaja": 0.048,
-     "tipo": "jugador",
-     "jugador": "Duje Caleta-Car",
-     "equipo": "Sassuolo",
-     "jugador_id": 1902,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Duje Caleta-Car comete 1+ faltas",
-     "detalle": "Duje Caleta-Car 4/5",
-     "temporada": "4/5",
-     "arbitro": "Matteo Marcenaro",
-     "arbitro_tarjetas": 4.2,
-     "posiciones": [
-      15,
-      17,
-      20
-     ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.602
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.509
     },
     {
      "partido_id": 1550185,
@@ -335,8 +160,8 @@
       17,
       20
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.432
+     "contexto": "peor_igualado_abajo",
+     "prob_aprendida": 0.422
     },
     {
      "partido_id": 1550185,
@@ -360,8 +185,8 @@
       17,
       20
      ],
-     "contexto": "total_igualado",
-     "prob_aprendida": 0.272
+     "contexto": "total_igualado_abajo",
+     "prob_aprendida": 0.292
     }
    ],
    "mejores_por_partido": [
@@ -390,8 +215,8 @@
       14,
       18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.825
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.756
     },
     {
      "partido_id": 1557455,
@@ -421,8 +246,8 @@
       14,
       20
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.809
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.663
     },
     {
      "partido_id": 1550185,
@@ -452,8 +277,8 @@
       17,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.602
+     "contexto": "mejor_igualado_abajo",
+     "prob_aprendida": 0.589
     }
    ],
    "combis": {
@@ -485,8 +310,8 @@
         14,
         18
        ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.825
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.756
       },
       {
        "partido_id": 1557455,
@@ -516,8 +341,8 @@
         14,
         20
        ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.809
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.663
       },
       {
        "partido_id": 1550185,
@@ -541,8 +366,8 @@
         17,
         20
        ],
-       "contexto": "total_igualado",
-       "prob_aprendida": 0.272
+       "contexto": "total_igualado_abajo",
+       "prob_aprendida": 0.292
       }
      ],
      "cuota": 3.33
@@ -566,18 +391,45 @@
      "opcion": "Home/Draw",
      "tipo": "resultado",
      "texto": "QPR o empate",
-     "cuota": 1.36,
+     "cuota": 1.33,
      "frecuencia": 0.8,
-     "ventaja": 0.065,
+     "ventaja": 0.048,
      "detalle": "QPR 7/10 · Burnley 9/10",
-     "valor_mercado": 0.046,
+     "valor_mercado": 0.031,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
      "posiciones": [
       9,
       22,
       24
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.893
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.878
+    },
+    {
+     "partido_id": 1635622,
+     "fecha": "2026-11-03T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Atletico Madrid",
+     "visitante": "Bayern München",
+     "mercado": "Home Player Shots",
+     "opcion": "Alex Grimaldo - 1",
+     "cuota": 1.28,
+     "frecuencia": 1.0,
+     "ventaja": 0.219,
+     "tipo": "jugador",
+     "jugador": "Alex Grimaldo",
+     "equipo": "Atletico Madrid",
+     "jugador_id": 563,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Alex Grimaldo: 1+ tiros",
+     "detalle": "Alex Grimaldo 10/10",
+     "temporada": "11/11",
+     "movimiento": 0.143,
+     "cuota_inicial": 1.12,
+     "prob_aprendida": 0.818
     },
     {
      "partido_id": 1635622,
@@ -602,7 +454,7 @@
      "temporada": "4/5",
      "movimiento": -0.029,
      "cuota_inicial": 1.4,
-     "prob_aprendida": 0.67
+     "prob_aprendida": 0.635
     },
     {
      "partido_id": 1563239,
@@ -625,8 +477,8 @@
       12,
       24
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.566
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.591
     },
     {
      "partido_id": 1635695,
@@ -639,14 +491,14 @@
      "opcion": "Away",
      "tipo": "resultado",
      "texto": "AS Roma gana alguna de las dos partes",
-     "cuota": 1.73,
+     "cuota": 1.8,
      "frecuencia": 0.75,
-     "ventaja": 0.172,
+     "ventaja": 0.194,
      "detalle": "Manchester United 7/10 · AS Roma 8/10",
-     "valor_mercado": -0.039,
-     "movimiento": -0.055,
+     "valor_mercado": 0.0,
+     "movimiento": -0.016,
      "cuota_inicial": 1.83,
-     "prob_aprendida": 0.435
+     "prob_aprendida": 0.463
     },
     {
      "partido_id": 1635695,
@@ -659,14 +511,14 @@
      "opcion": "Draw/Away",
      "tipo": "resultado",
      "texto": "AS Roma o empate",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.9,
-     "ventaja": 0.246,
+     "ventaja": 0.263,
      "detalle": "Manchester United 9/10 · AS Roma 9/10",
-     "valor_mercado": -0.025,
-     "movimiento": -0.025,
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
      "cuota_inicial": 1.57,
-     "prob_aprendida": 0.382
+     "prob_aprendida": 0.394
     }
    ],
    "mejores_por_partido": [
@@ -681,18 +533,20 @@
      "opcion": "Home/Draw",
      "tipo": "resultado",
      "texto": "QPR o empate",
-     "cuota": 1.36,
+     "cuota": 1.33,
      "frecuencia": 0.8,
-     "ventaja": 0.065,
+     "ventaja": 0.048,
      "detalle": "QPR 7/10 · Burnley 9/10",
-     "valor_mercado": 0.046,
+     "valor_mercado": 0.031,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
      "posiciones": [
       9,
       22,
       24
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.893
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.878
     },
     {
      "partido_id": 1635622,
@@ -701,23 +555,23 @@
      "liga_id": 2,
      "local": "Atletico Madrid",
      "visitante": "Bayern München",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Julian Alvarez - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.8,
-     "ventaja": 0.065,
+     "mercado": "Home Player Shots",
+     "opcion": "Alex Grimaldo - 1",
+     "cuota": 1.28,
+     "frecuencia": 1.0,
+     "ventaja": 0.219,
      "tipo": "jugador",
-     "jugador": "Julian Alvarez",
+     "jugador": "Alex Grimaldo",
      "equipo": "Atletico Madrid",
-     "jugador_id": 6009,
-     "campo": "a_puerta",
+     "jugador_id": 563,
+     "campo": "tiros",
      "n": 1,
-     "texto": "Julian Alvarez: 1+ tiros a puerta",
-     "detalle": "Julian Alvarez 4/5",
-     "temporada": "4/5",
-     "movimiento": -0.029,
-     "cuota_inicial": 1.4,
-     "prob_aprendida": 0.67
+     "texto": "Alex Grimaldo: 1+ tiros",
+     "detalle": "Alex Grimaldo 10/10",
+     "temporada": "11/11",
+     "movimiento": 0.143,
+     "cuota_inicial": 1.12,
+     "prob_aprendida": 0.818
     },
     {
      "partido_id": 1563239,
@@ -740,8 +594,8 @@
       12,
       24
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.566
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.591
     },
     {
      "partido_id": 1635695,
@@ -754,19 +608,147 @@
      "opcion": "Away",
      "tipo": "resultado",
      "texto": "AS Roma gana alguna de las dos partes",
-     "cuota": 1.73,
+     "cuota": 1.8,
      "frecuencia": 0.75,
-     "ventaja": 0.172,
+     "ventaja": 0.194,
      "detalle": "Manchester United 7/10 · AS Roma 8/10",
-     "valor_mercado": -0.039,
-     "movimiento": -0.055,
+     "valor_mercado": 0.0,
+     "movimiento": -0.016,
      "cuota_inicial": 1.83,
-     "prob_aprendida": 0.435
+     "prob_aprendida": 0.463
     }
    ],
    "combis": {
-    "segura": null,
-    "cuota_3": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1563244,
+       "fecha": "2026-11-03T20:45",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "QPR",
+       "visitante": "Burnley",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "QPR o empate",
+       "cuota": 1.33,
+       "frecuencia": 0.8,
+       "ventaja": 0.048,
+       "detalle": "QPR 7/10 · Burnley 9/10",
+       "valor_mercado": 0.031,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "posiciones": [
+        9,
+        22,
+        24
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.878
+      },
+      {
+       "partido_id": 1635622,
+       "fecha": "2026-11-03T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Atletico Madrid",
+       "visitante": "Bayern München",
+       "mercado": "Home Player Shots",
+       "opcion": "Alex Grimaldo - 1",
+       "cuota": 1.28,
+       "frecuencia": 1.0,
+       "ventaja": 0.219,
+       "tipo": "jugador",
+       "jugador": "Alex Grimaldo",
+       "equipo": "Atletico Madrid",
+       "jugador_id": 563,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Alex Grimaldo: 1+ tiros",
+       "detalle": "Alex Grimaldo 10/10",
+       "temporada": "11/11",
+       "movimiento": 0.143,
+       "cuota_inicial": 1.12,
+       "prob_aprendida": 0.818
+      }
+     ],
+     "cuota": 1.7
+    },
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1635622,
+       "fecha": "2026-11-03T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Atletico Madrid",
+       "visitante": "Bayern München",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Julian Alvarez - 1",
+       "cuota": 1.36,
+       "frecuencia": 0.8,
+       "ventaja": 0.065,
+       "tipo": "jugador",
+       "jugador": "Julian Alvarez",
+       "equipo": "Atletico Madrid",
+       "jugador_id": 6009,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Julian Alvarez: 1+ tiros a puerta",
+       "detalle": "Julian Alvarez 4/5",
+       "temporada": "4/5",
+       "movimiento": -0.029,
+       "cuota_inicial": 1.4,
+       "prob_aprendida": 0.635
+      },
+      {
+       "partido_id": 1563239,
+       "fecha": "2026-11-03T21:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Birmingham",
+       "visitante": "Millwall",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Birmingham gana alguna de las dos partes",
+       "cuota": 1.5,
+       "frecuencia": 0.75,
+       "ventaja": 0.083,
+       "detalle": "Birmingham 8/10 · Millwall 7/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        6,
+        12,
+        24
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.591
+      },
+      {
+       "partido_id": 1635695,
+       "fecha": "2026-11-03T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Manchester United",
+       "visitante": "AS Roma",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "AS Roma o empate",
+       "cuota": 1.57,
+       "frecuencia": 0.9,
+       "ventaja": 0.263,
+       "detalle": "Manchester United 9/10 · AS Roma 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.57,
+       "prob_aprendida": 0.394
+      }
+     ],
+     "cuota": 3.2
+    },
     "loca": null,
     "doble": null
    },
@@ -776,6 +758,29 @@
   "2026-11-04": {
    "picks": [
     {
+     "partido_id": 1635651,
+     "fecha": "2026-11-04T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Borussia Dortmund",
+     "visitante": "Real Betis",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Felix Nmecha - 1",
+     "cuota": 1.3,
+     "frecuencia": 0.889,
+     "ventaja": 0.12,
+     "tipo": "jugador",
+     "jugador": "Felix Nmecha",
+     "equipo": "Borussia Dortmund",
+     "jugador_id": 637,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Felix Nmecha comete 1+ faltas",
+     "detalle": "Felix Nmecha 8/9",
+     "temporada": "8/9",
+     "prob_aprendida": 0.626
+    },
+    {
      "partido_id": 1635681,
      "fecha": "2026-11-04T21:00",
      "competicion": "Champions",
@@ -793,7 +798,7 @@
      "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 2.15,
-     "prob_aprendida": 0.445
+     "prob_aprendida": 0.493
     },
     {
      "partido_id": 1563248,
@@ -816,8 +821,8 @@
       8,
       24
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.516
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.541
     },
     {
      "partido_id": 1563250,
@@ -840,12 +845,35 @@
       1,
       24
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.485
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.481
     }
    ],
    "mejores_por_partido": [
     {
+     "partido_id": 1635651,
+     "fecha": "2026-11-04T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Borussia Dortmund",
+     "visitante": "Real Betis",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Felix Nmecha - 1",
+     "cuota": 1.3,
+     "frecuencia": 0.889,
+     "ventaja": 0.12,
+     "tipo": "jugador",
+     "jugador": "Felix Nmecha",
+     "equipo": "Borussia Dortmund",
+     "jugador_id": 637,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Felix Nmecha comete 1+ faltas",
+     "detalle": "Felix Nmecha 8/9",
+     "temporada": "8/9",
+     "prob_aprendida": 0.626
+    },
+    {
      "partido_id": 1635681,
      "fecha": "2026-11-04T21:00",
      "competicion": "Champions",
@@ -863,7 +891,7 @@
      "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 2.15,
-     "prob_aprendida": 0.445
+     "prob_aprendida": 0.493
     },
     {
      "partido_id": 1563248,
@@ -886,8 +914,8 @@
       8,
       24
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.516
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.541
     },
     {
      "partido_id": 1563250,
@@ -910,12 +938,63 @@
       1,
       24
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.485
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.481
     }
    ],
    "combis": {
-    "segura": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1635651,
+       "fecha": "2026-11-04T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Borussia Dortmund",
+       "visitante": "Real Betis",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Felix Nmecha - 1",
+       "cuota": 1.3,
+       "frecuencia": 0.889,
+       "ventaja": 0.12,
+       "tipo": "jugador",
+       "jugador": "Felix Nmecha",
+       "equipo": "Borussia Dortmund",
+       "jugador_id": 637,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Felix Nmecha comete 1+ faltas",
+       "detalle": "Felix Nmecha 8/9",
+       "temporada": "8/9",
+       "prob_aprendida": 0.626
+      },
+      {
+       "partido_id": 1563250,
+       "fecha": "2026-11-04T20:45",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Wrexham",
+       "visitante": "Middlesbrough",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Middlesbrough o empate",
+       "cuota": 1.28,
+       "frecuencia": 0.8,
+       "ventaja": 0.019,
+       "detalle": "Wrexham 7/10 · Middlesbrough 9/10",
+       "valor_mercado": 0.041,
+       "posiciones": [
+        18,
+        1,
+        24
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.481
+      }
+     ],
+     "cuota": 1.66
+    },
     "cuota_3": null,
     "loca": null,
     "doble": null
@@ -946,7 +1025,7 @@
      "texto": "Camilo Duran: 1+ tiros a puerta",
      "detalle": "Camilo Duran 4/5",
      "temporada": "4/5",
-     "prob_aprendida": 0.657
+     "prob_aprendida": 0.621
     },
     {
      "partido_id": 1636250,
@@ -966,7 +1045,7 @@
      "valor_mercado": -0.018,
      "movimiento": -0.03,
      "cuota_inicial": 1.67,
-     "prob_aprendida": 0.459
+     "prob_aprendida": 0.498
     },
     {
      "partido_id": 1636250,
@@ -984,7 +1063,7 @@
      "ventaja": 0.143,
      "detalle": "Celtic 4/5 · Beşiktaş 8/9",
      "valor_mercado": 0.029,
-     "prob_aprendida": 0.377
+     "prob_aprendida": 0.381
     }
    ],
    "mejores_por_partido": [
@@ -1009,7 +1088,7 @@
      "texto": "Camilo Duran: 1+ tiros a puerta",
      "detalle": "Camilo Duran 4/5",
      "temporada": "4/5",
-     "prob_aprendida": 0.657
+     "prob_aprendida": 0.621
     }
    ],
    "combis": {
@@ -1034,7 +1113,7 @@
        "texto": "Lillestrom o empate",
        "detalle": "Lillestrom 3/5 · Plzen 4/5",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.809
+       "prob_aprendida": 0.771
       },
       {
        "partido_id": 1636250,
@@ -1052,7 +1131,7 @@
        "texto": "Beşiktaş o empate",
        "detalle": "Celtic 4/5 · Beşiktaş 8/9",
        "valor_mercado": 0.029,
-       "prob_aprendida": 0.377
+       "prob_aprendida": 0.381
       },
       {
        "partido_id": 1636245,
@@ -1070,7 +1149,25 @@
        "texto": "Union St. Gilloise o empate",
        "detalle": "Celta Vigo 7/10 · Union St. Gilloise 4/5",
        "valor_mercado": 0.011,
-       "prob_aprendida": 0.266
+       "prob_aprendida": 0.298
+      },
+      {
+       "partido_id": 1636302,
+       "fecha": "2026-11-05T18:45",
+       "competicion": "Europa League",
+       "liga_id": 3,
+       "local": "NEC Nijmegen",
+       "visitante": "Omonia Nicosia",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 2.05,
+       "frecuencia": 0.789,
+       "ventaja": 0.302,
+       "tipo": "resultado",
+       "texto": "Omonia Nicosia o empate",
+       "detalle": "NEC Nijmegen 9/10 · Omonia Nicosia 6/9",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.26
       },
       {
        "partido_id": 1636452,
@@ -1090,29 +1187,83 @@
        "valor_mercado": 0.025,
        "movimiento": -0.018,
        "cuota_inicial": 1.7,
-       "prob_aprendida": 0.247
-      },
-      {
-       "partido_id": 1636302,
-       "fecha": "2026-11-05T18:45",
-       "competicion": "Europa League",
-       "liga_id": 3,
-       "local": "NEC Nijmegen",
-       "visitante": "Omonia Nicosia",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 2.05,
-       "frecuencia": 0.789,
-       "ventaja": 0.302,
-       "tipo": "resultado",
-       "texto": "Omonia Nicosia o empate",
-       "detalle": "NEC Nijmegen 9/10 · Omonia Nicosia 6/9",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.228
+       "prob_aprendida": 0.261
       }
      ],
      "cuota": 13.54
     }
+   },
+   "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-06": {
+   "picks": [
+    {
+     "partido_id": 1552817,
+     "fecha": "2026-11-06T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Toulouse",
+     "visitante": "Strasbourg",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Casper Tengstedt - 1",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "tipo": "jugador",
+     "jugador": "Casper Tengstedt",
+     "equipo": "Toulouse",
+     "jugador_id": 162703,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Casper Tengstedt: 1+ tiros a puerta",
+     "detalle": "Casper Tengstedt 4/5",
+     "temporada": "4/5",
+     "posiciones": [
+      11,
+      12,
+      18
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.561
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1552817,
+     "fecha": "2026-11-06T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Toulouse",
+     "visitante": "Strasbourg",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Casper Tengstedt - 1",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "tipo": "jugador",
+     "jugador": "Casper Tengstedt",
+     "equipo": "Toulouse",
+     "jugador_id": 162703,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Casper Tengstedt: 1+ tiros a puerta",
+     "detalle": "Casper Tengstedt 4/5",
+     "temporada": "4/5",
+     "posiciones": [
+      11,
+      12,
+      18
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.561
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
    },
    "estilos": {},
    "combis_partido": []
@@ -1140,8 +1291,8 @@
       16,
       18
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.99
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.949
     },
     {
      "partido_id": 1575214,
@@ -1169,8 +1320,8 @@
       5,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.708
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.696
     },
     {
      "partido_id": 1575220,
@@ -1198,8 +1349,8 @@
       8,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.637
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.643
     },
     {
      "partido_id": 1557465,
@@ -1224,8 +1375,8 @@
       2,
       20
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.519
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.571
     },
     {
      "partido_id": 1557463,
@@ -1248,8 +1399,8 @@
       8,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.368
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.382
     },
     {
      "partido_id": 1570446,
@@ -1272,8 +1423,8 @@
       13,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.244
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.267
     }
    ],
    "mejores_por_partido": [
@@ -1298,8 +1449,8 @@
       16,
       18
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.99
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.949
     },
     {
      "partido_id": 1575214,
@@ -1327,8 +1478,8 @@
       5,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.708
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.696
     },
     {
      "partido_id": 1575220,
@@ -1356,8 +1507,8 @@
       8,
       18
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.637
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.643
     },
     {
      "partido_id": 1557465,
@@ -1382,8 +1533,8 @@
       2,
       20
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.519
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.571
     },
     {
      "partido_id": 1557463,
@@ -1406,8 +1557,8 @@
       8,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.368
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.382
     },
     {
      "partido_id": 1570446,
@@ -1430,8 +1581,8 @@
       13,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.244
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.267
     }
    ],
    "combis": {
@@ -1458,8 +1609,8 @@
         16,
         18
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.99
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.949
       },
       {
        "partido_id": 1575214,
@@ -1487,8 +1638,8 @@
         5,
         18
        ],
-       "contexto": "peor_lejos",
-       "prob_aprendida": 0.708
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.696
       }
      ],
      "cuota": 1.7
@@ -1523,8 +1674,37 @@
       6,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.98
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.933
+    },
+    {
+     "partido_id": 1550191,
+     "fecha": "2026-11-08T18:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Inter",
+     "visitante": "Como",
+     "mercado": "Home Player Shots",
+     "opcion": "Carlos Augusto - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.857,
+     "ventaja": 0.105,
+     "tipo": "jugador",
+     "jugador": "Carlos Augusto",
+     "equipo": "Inter",
+     "jugador_id": 10238,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Carlos Augusto: 1+ tiros",
+     "detalle": "Carlos Augusto 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      2,
+      4,
+      20
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.778
     },
     {
      "partido_id": 1552223,
@@ -1547,8 +1727,8 @@
       13,
       18
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.793
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.748
     },
     {
      "partido_id": 1552222,
@@ -1576,8 +1756,37 @@
       2,
       18
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.77
+     "contexto": "peor_igualado_arriba",
+     "prob_aprendida": 0.737
+    },
+    {
+     "partido_id": 1550192,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Monza",
+     "visitante": "Atalanta",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Gustavo Varela - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.9,
+     "ventaja": 0.186,
+     "tipo": "jugador",
+     "jugador": "Gustavo Varela",
+     "equipo": "Monza",
+     "jugador_id": 340547,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Gustavo Varela: 1+ tiros a puerta",
+     "detalle": "Gustavo Varela 9/10",
+     "temporada": "9/10",
+     "posiciones": [
+      16,
+      13,
+      20
+     ],
+     "contexto": "peor_igualado_abajo",
+     "prob_aprendida": 0.707
     },
     {
      "partido_id": 1552812,
@@ -1605,8 +1814,8 @@
       3,
       18
      ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.676
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.642
     },
     {
      "partido_id": 1550193,
@@ -1616,26 +1825,26 @@
      "local": "Napoli",
      "visitante": "Lazio",
      "mercado": "Home Player Shots On Target Total",
-     "opcion": "Scott McTominay - 1",
+     "opcion": "Noa Lang - 1",
      "cuota": 1.5,
-     "frecuencia": 0.833,
-     "ventaja": 0.167,
+     "frecuencia": 0.8,
+     "ventaja": 0.133,
      "tipo": "jugador",
-     "jugador": "Scott McTominay",
+     "jugador": "Noa Lang",
      "equipo": "Napoli",
-     "jugador_id": 903,
+     "jugador_id": 544,
      "campo": "a_puerta",
      "n": 1,
-     "texto": "Scott McTominay: 1+ tiros a puerta",
-     "detalle": "Scott McTominay 5/6",
-     "temporada": "5/6",
+     "texto": "Noa Lang: 1+ tiros a puerta",
+     "detalle": "Noa Lang 4/5",
+     "temporada": "4/5",
      "posiciones": [
-      7,
+      8,
       1,
       20
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.627
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.602
     },
     {
      "partido_id": 1552812,
@@ -1663,8 +1872,60 @@
       3,
       18
      ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.585
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.529
+    },
+    {
+     "partido_id": 1557462,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Bournemouth",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Bournemouth",
+     "cuota": 1.83,
+     "frecuencia": 0.6,
+     "ventaja": 0.054,
+     "detalle": "Ipswich 5/10 · Bournemouth 7/10",
+     "valor_mercado": -0.057,
+     "movimiento": -0.037,
+     "cuota_inicial": 1.9,
+     "posiciones": [
+      13,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.497
+    },
+    {
+     "partido_id": 1575219,
+     "fecha": "2026-11-08T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "1. FC Köln",
+     "visitante": "Bayer Leverkusen",
+     "mercado": "To Win Either Half",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Bayer Leverkusen gana alguna de las dos partes",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "1. FC Köln 7/10 · Bayer Leverkusen 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.023,
+     "cuota_inicial": 1.33,
+     "posiciones": [
+      13,
+      6,
+      18
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.542
     },
     {
      "partido_id": 1570445,
@@ -1687,8 +1948,32 @@
       4,
       20
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.421
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.434
+    },
+    {
+     "partido_id": 1557464,
+     "fecha": "2026-11-08T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Manchester United",
+     "visitante": "Aston Villa",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Aston Villa o empate",
+     "cuota": 1.67,
+     "frecuencia": 0.85,
+     "ventaja": 0.251,
+     "detalle": "Manchester United 9/10 · Aston Villa 8/10",
+     "valor_mercado": 0.012,
+     "posiciones": [
+      17,
+      9,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.29
     },
     {
      "partido_id": 1552813,
@@ -1711,32 +1996,8 @@
       10,
       18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.356
-    },
-    {
-     "partido_id": 1557464,
-     "fecha": "2026-11-08T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Manchester United",
-     "visitante": "Aston Villa",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Aston Villa o empate",
-     "cuota": 1.67,
-     "frecuencia": 0.85,
-     "ventaja": 0.251,
-     "detalle": "Manchester United 9/10 · Aston Villa 8/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      17,
-      9,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.252
+     "contexto": "mejor_lejos_abajo",
+     "prob_aprendida": 0.344
     }
    ],
    "mejores_por_partido": [
@@ -1761,8 +2022,37 @@
       6,
       20
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.98
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.933
+    },
+    {
+     "partido_id": 1550191,
+     "fecha": "2026-11-08T18:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Inter",
+     "visitante": "Como",
+     "mercado": "Home Player Shots",
+     "opcion": "Carlos Augusto - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.857,
+     "ventaja": 0.105,
+     "tipo": "jugador",
+     "jugador": "Carlos Augusto",
+     "equipo": "Inter",
+     "jugador_id": 10238,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Carlos Augusto: 1+ tiros",
+     "detalle": "Carlos Augusto 6/7",
+     "temporada": "6/7",
+     "posiciones": [
+      2,
+      4,
+      20
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.778
     },
     {
      "partido_id": 1552223,
@@ -1785,8 +2075,8 @@
       13,
       18
      ],
-     "contexto": "mejor_igualado",
-     "prob_aprendida": 0.793
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.748
     },
     {
      "partido_id": 1552222,
@@ -1814,8 +2104,37 @@
       2,
       18
      ],
-     "contexto": "peor_igualado",
-     "prob_aprendida": 0.77
+     "contexto": "peor_igualado_arriba",
+     "prob_aprendida": 0.737
+    },
+    {
+     "partido_id": 1550192,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Monza",
+     "visitante": "Atalanta",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Gustavo Varela - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.9,
+     "ventaja": 0.186,
+     "tipo": "jugador",
+     "jugador": "Gustavo Varela",
+     "equipo": "Monza",
+     "jugador_id": 340547,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Gustavo Varela: 1+ tiros a puerta",
+     "detalle": "Gustavo Varela 9/10",
+     "temporada": "9/10",
+     "posiciones": [
+      16,
+      13,
+      20
+     ],
+     "contexto": "peor_igualado_abajo",
+     "prob_aprendida": 0.707
     },
     {
      "partido_id": 1552812,
@@ -1843,8 +2162,8 @@
       3,
       18
      ],
-     "contexto": "peor_abismo",
-     "prob_aprendida": 0.676
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.642
     },
     {
      "partido_id": 1550193,
@@ -1854,26 +2173,78 @@
      "local": "Napoli",
      "visitante": "Lazio",
      "mercado": "Home Player Shots On Target Total",
-     "opcion": "Scott McTominay - 1",
+     "opcion": "Noa Lang - 1",
      "cuota": 1.5,
-     "frecuencia": 0.833,
-     "ventaja": 0.167,
+     "frecuencia": 0.8,
+     "ventaja": 0.133,
      "tipo": "jugador",
-     "jugador": "Scott McTominay",
+     "jugador": "Noa Lang",
      "equipo": "Napoli",
-     "jugador_id": 903,
+     "jugador_id": 544,
      "campo": "a_puerta",
      "n": 1,
-     "texto": "Scott McTominay: 1+ tiros a puerta",
-     "detalle": "Scott McTominay 5/6",
-     "temporada": "5/6",
+     "texto": "Noa Lang: 1+ tiros a puerta",
+     "detalle": "Noa Lang 4/5",
+     "temporada": "4/5",
      "posiciones": [
-      7,
+      8,
       1,
       20
      ],
-     "contexto": "peor_lejos",
-     "prob_aprendida": 0.627
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.602
+    },
+    {
+     "partido_id": 1557462,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Bournemouth",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Bournemouth",
+     "cuota": 1.83,
+     "frecuencia": 0.6,
+     "ventaja": 0.054,
+     "detalle": "Ipswich 5/10 · Bournemouth 7/10",
+     "valor_mercado": -0.057,
+     "movimiento": -0.037,
+     "cuota_inicial": 1.9,
+     "posiciones": [
+      13,
+      7,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.497
+    },
+    {
+     "partido_id": 1575219,
+     "fecha": "2026-11-08T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "1. FC Köln",
+     "visitante": "Bayer Leverkusen",
+     "mercado": "To Win Either Half",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Bayer Leverkusen gana alguna de las dos partes",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "1. FC Köln 7/10 · Bayer Leverkusen 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.023,
+     "cuota_inicial": 1.33,
+     "posiciones": [
+      13,
+      6,
+      18
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.542
     },
     {
      "partido_id": 1570445,
@@ -1896,8 +2267,32 @@
       4,
       20
      ],
-     "contexto": "mejor_abismo",
-     "prob_aprendida": 0.421
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.434
+    },
+    {
+     "partido_id": 1557464,
+     "fecha": "2026-11-08T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Manchester United",
+     "visitante": "Aston Villa",
+     "mercado": "Double Chance",
+     "opcion": "Draw/Away",
+     "tipo": "resultado",
+     "texto": "Aston Villa o empate",
+     "cuota": 1.67,
+     "frecuencia": 0.85,
+     "ventaja": 0.251,
+     "detalle": "Manchester United 9/10 · Aston Villa 8/10",
+     "valor_mercado": 0.012,
+     "posiciones": [
+      17,
+      9,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.29
     },
     {
      "partido_id": 1552813,
@@ -1920,32 +2315,8 @@
       10,
       18
      ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.356
-    },
-    {
-     "partido_id": 1557464,
-     "fecha": "2026-11-08T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Manchester United",
-     "visitante": "Aston Villa",
-     "mercado": "Double Chance",
-     "opcion": "Draw/Away",
-     "tipo": "resultado",
-     "texto": "Aston Villa o empate",
-     "cuota": 1.67,
-     "frecuencia": 0.85,
-     "ventaja": 0.251,
-     "detalle": "Manchester United 9/10 · Aston Villa 8/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      17,
-      9,
-      20
-     ],
-     "contexto": "mejor_lejos",
-     "prob_aprendida": 0.252
+     "contexto": "mejor_lejos_abajo",
+     "prob_aprendida": 0.344
     }
    ],
    "combis": {
@@ -1972,8 +2343,66 @@
         6,
         20
        ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.98
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.933
+      },
+      {
+       "partido_id": 1550191,
+       "fecha": "2026-11-08T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Inter",
+       "visitante": "Como",
+       "mercado": "Home Player Shots",
+       "opcion": "Carlos Augusto - 1",
+       "cuota": 1.33,
+       "frecuencia": 0.857,
+       "ventaja": 0.105,
+       "tipo": "jugador",
+       "jugador": "Carlos Augusto",
+       "equipo": "Inter",
+       "jugador_id": 10238,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Carlos Augusto: 1+ tiros",
+       "detalle": "Carlos Augusto 6/7",
+       "temporada": "6/7",
+       "posiciones": [
+        2,
+        4,
+        20
+       ],
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.778
+      }
+     ],
+     "cuota": 1.7
+    },
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1552223,
+       "fecha": "2026-11-08T20:00",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Utrecht",
+       "visitante": "NEC Nijmegen",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Utrecht o empate",
+       "cuota": 1.4,
+       "frecuencia": 0.8,
+       "ventaja": 0.086,
+       "detalle": "Utrecht 7/10 · NEC Nijmegen 9/10",
+       "valor_mercado": -0.028,
+       "posiciones": [
+        12,
+        13,
+        18
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.748
       },
       {
        "partido_id": 1552222,
@@ -2001,13 +2430,67 @@
         2,
         18
        ],
-       "contexto": "peor_igualado",
-       "prob_aprendida": 0.77
+       "contexto": "peor_igualado_arriba",
+       "prob_aprendida": 0.737
+      },
+      {
+       "partido_id": 1550192,
+       "fecha": "2026-11-08T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Monza",
+       "visitante": "Atalanta",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Gustavo Varela - 1",
+       "cuota": 1.4,
+       "frecuencia": 0.9,
+       "ventaja": 0.186,
+       "tipo": "jugador",
+       "jugador": "Gustavo Varela",
+       "equipo": "Monza",
+       "jugador_id": 340547,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Gustavo Varela: 1+ tiros a puerta",
+       "detalle": "Gustavo Varela 9/10",
+       "temporada": "9/10",
+       "posiciones": [
+        16,
+        13,
+        20
+       ],
+       "contexto": "peor_igualado_abajo",
+       "prob_aprendida": 0.707
+      },
+      {
+       "partido_id": 1575219,
+       "fecha": "2026-11-08T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "1. FC Köln",
+       "visitante": "Bayer Leverkusen",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Bayer Leverkusen gana alguna de las dos partes",
+       "cuota": 1.36,
+       "frecuencia": 0.75,
+       "ventaja": 0.015,
+       "detalle": "1. FC Köln 7/10 · Bayer Leverkusen 8/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.023,
+       "cuota_inicial": 1.33,
+       "posiciones": [
+        13,
+        6,
+        18
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.542
       }
      ],
-     "cuota": 1.6
+     "cuota": 3.33
     },
-    "cuota_3": null,
     "loca": null,
     "doble": {
      "picks": [
@@ -2032,8 +2515,8 @@
         6,
         20
        ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.98
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.933
       },
       {
        "partido_id": 1552223,
@@ -2056,8 +2539,8 @@
         13,
         18
        ],
-       "contexto": "mejor_igualado",
-       "prob_aprendida": 0.793
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.748
       },
       {
        "partido_id": 1570445,
@@ -2080,8 +2563,8 @@
         4,
         20
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.421
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.434
       },
       {
        "partido_id": 1552812,
@@ -2104,8 +2587,32 @@
         3,
         18
        ],
-       "contexto": "mejor_abismo",
-       "prob_aprendida": 0.348
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.352
+      },
+      {
+       "partido_id": 1557464,
+       "fecha": "2026-11-08T17:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Manchester United",
+       "visitante": "Aston Villa",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "cuota": 1.67,
+       "frecuencia": 0.85,
+       "ventaja": 0.251,
+       "tipo": "resultado",
+       "texto": "Aston Villa o empate",
+       "detalle": "Manchester United 9/10 · Aston Villa 8/10",
+       "valor_mercado": 0.012,
+       "posiciones": [
+        17,
+        9,
+        20
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.29
       },
       {
        "partido_id": 1552813,
@@ -2128,32 +2635,8 @@
         10,
         18
        ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.356
-      },
-      {
-       "partido_id": 1557464,
-       "fecha": "2026-11-08T17:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester United",
-       "visitante": "Aston Villa",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "cuota": 1.67,
-       "frecuencia": 0.85,
-       "ventaja": 0.251,
-       "tipo": "resultado",
-       "texto": "Aston Villa o empate",
-       "detalle": "Manchester United 9/10 · Aston Villa 8/10",
-       "valor_mercado": 0.0,
-       "posiciones": [
-        17,
-        9,
-        20
-       ],
-       "contexto": "mejor_lejos",
-       "prob_aprendida": 0.252
+       "contexto": "mejor_lejos_abajo",
+       "prob_aprendida": 0.344
       }
      ],
      "cuota": 7.98

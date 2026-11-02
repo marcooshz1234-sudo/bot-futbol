@@ -1,7 +1,7 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -172,7 +172,7 @@ _Sin precedentes recientes._
 | Nicolas Moumie Ngamaleu | F | 1 | 47 | 1 | 1 | 1 | 1,0 | 1 | 1,0 | 1 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,74 · visitante 0,94 · córners esperados 10,2._
+_Goles esperados: local 2,74 · visitante 0,93 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -184,11 +184,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 25% | 26% | 25% | 3.75 | -5% |
 | Doble oportunidad: 12 | 85% | 85% | 85% | 1.14 | -3% |
 | Doble oportunidad: 1X | 90% | 89% | 90% | 1.08 | -3% |
-| Ambos marcan: No | 43% | 46% | 45% | 2.00 | -11% |
+| Ambos marcan: No | 43% | 46% | 45% | 2.00 | -10% |
 | Ambos marcan: Sí | 57% | 54% | 55% | 1.73 | -4% |
 | Goles más/menos: Más de 2.5 | 71% | 67% | 69% | 1.40 | -3% |
-| Goles más/menos: Más de 3.5 | 50% | 46% | 48% | 2.00 | -3% |
-| Goles más/menos: Más de 4.5 | 31% | 28% | 29% | 3.40 | -0% |
+| Goles más/menos: Más de 3.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Goles más/menos: Más de 4.5 | 31% | 28% | 29% | 3.40 | -1% |
 | Goles más/menos: Menos de 2.5 | 29% | 33% | 31% | 2.88 | -11% |
 | Goles más/menos: Menos de 3.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Menos de 4.5 | 69% | 72% | 71% | 1.30 | -8% |

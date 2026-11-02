@@ -1531,101 +1531,39 @@
   {
     "id": "2026-11-02-combi-tres",
     "fecha": "2026-11-02T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x3,53! 🍀\n\n✅ 🇵🇹 GIL Vicente o empate\n✅ 🇮🇹 Sassuolo o empate\n✅ 🇫🇷 Pathe Mboup: 2+ tiros\n\n🎯 CUOTA 3,53 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,61! 🍀\n\n✅ 🇪🇸 Valladolid o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thierno Barry: 2+ tiros\n✅ 🇵🇹 GIL Vicente o empate\n\n🎯 CUOTA 2,61 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1575533|Double Chance|Home/Draw",
-      "1550185|Double Chance|Home/Draw",
-      "1552803|Away Player Shots|Pathe Mboup - 2"
+      "1570002|Double Chance|Home/Draw",
+      "1557455|Away Player Shots|Thierno Barry - 2",
+      "1575533|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.5,
-      1.57,
+      1.28,
+      1.36,
       1.5
     ]
   },
   {
-    "id": "2026-11-02-combi-partido-1550185",
-    "fecha": "2026-11-02T17:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs FIORENTINA 🇮🇹\n\n🎯 SASSUOLO O EMPATE [x1.57]\n✅ GOL EN LA 1ª PARTE [x1.25]\n✅ AMBOS MARCAN [x1.44]\n✅ SASSUOLO HACE MÁS TIROS A PUERTA [x2.20]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 5,74\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550185|Double Chance|Home/Draw",
-      "1550185|Goals Over/Under First Half|Over 0.5",
-      "1550185|Both Teams Score|Yes",
-      "1550185|ShotOnTarget 1x2|Home"
-    ],
-    "cuotas": [
-      1.57,
-      1.25,
-      1.44,
-      2.2
-    ],
-    "tarjeta": {
-      "local": "Sassuolo",
-      "visitante": "Fiorentina",
-      "id_l": 488,
-      "id_v": 502,
-      "logo_l": "https://media.api-sports.io/football/teams/488.png",
-      "logo_v": "https://media.api-sports.io/football/teams/502.png",
-      "fecha": "2026-11-02T18:30",
-      "liga": "Serie A"
-    }
-  },
-  {
-    "id": "2026-11-02-combi-partido-1552803",
-    "fecha": "2026-11-02T19:25",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 LORIENT vs STADE BRESTOIS 29 🇫🇷\n\n🎯 LORIENT O EMPATE [x1.36]\n✅ PATHE MBOUP: 2+ TIROS [x1.50]\n✅ LORIENT MARCA [x1.28]\n✅ GOL EN LA 2ª PARTE [x1.25]\n✅ STADE BRESTOIS 29 HACE MÁS TIROS A PUERTA [x2.30]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 6,76\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552803|Double Chance|Home/Draw",
-      "1552803|Away Player Shots|Pathe Mboup - 2",
-      "1552803|Total - Home|Over 0.5",
-      "1552803|Goals Over/Under - Second Half|Over 0.5",
-      "1552803|ShotOnTarget 1x2|Away"
-    ],
-    "cuotas": [
-      1.36,
-      1.5,
-      1.28,
-      1.25,
-      2.3
-    ],
-    "tarjeta": {
-      "local": "Lorient",
-      "visitante": "Stade Brestois 29",
-      "id_l": 97,
-      "id_v": 106,
-      "logo_l": "https://media.api-sports.io/football/teams/97.png",
-      "logo_v": "https://media.api-sports.io/football/teams/106.png",
-      "fecha": "2026-11-02T20:45",
-      "liga": "Ligue 1"
-    }
-  },
-  {
     "id": "2026-11-02-combi-partido-1570436",
-    "fecha": "2026-11-02T20:00",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 DEPORTIVO LA CORUNA vs OSASUNA 🇪🇸\n\n🎯 DEPORTIVO LA CORUNA O EMPATE [x1.28]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ DEPORTIVO LA CORUNA HACE MÁS TIROS A PUERTA [x1.73]\n✅ AMBOS MARCAN [x1.95]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 5,30\n🟢 VERDE A VERDE 🟢",
+    "fecha": "2026-11-02T19:10",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 DEPORTIVO LA CORUNA vs OSASUNA 🇪🇸\n\n🎯 DEPORTIVO LA CORUNA O EMPATE [x1.28]\n✅ GOL EN LA 1ª PARTE [x1.44]\n✅ OSASUNA MARCA [x1.44]\n✅ MÁS DE 23,5 TIROS [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 3,83\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570436|Double Chance|Home/Draw",
       "1570436|Goals Over/Under First Half|Over 0.5",
-      "1570436|ShotOnTarget 1x2|Home",
-      "1570436|Both Teams Score|Yes"
+      "1570436|Total - Away|Over 0.5",
+      "1570436|Total Shots|Over 23.5"
     ],
     "cuotas": [
       1.28,
       1.44,
-      1.73,
-      1.95
+      1.44,
+      1.73
     ],
     "tarjeta": {
       "local": "Deportivo La Coruna",
@@ -1636,6 +1574,36 @@
       "logo_v": "https://media.api-sports.io/football/teams/727.png",
       "fecha": "2026-11-02T21:00",
       "liga": "LaLiga"
+    }
+  },
+  {
+    "id": "2026-11-02-combi-partido-1569998",
+    "fecha": "2026-11-02T19:40",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 MALLORCA vs CADIZ 🇪🇸\n\n🎯 MALLORCA GANA ALGUNA DE LAS DOS PARTES [x1.30]\n✅ GOL EN LA 1ª PARTE [x1.36]\n✅ ALEX SALA: 1+ TIROS A PUERTA [x1.40]\n✅ CADIZ MARCA [x1.73]\n\n🔥 Resultado probable: 1-1 | 2-1 | 0-1\n💥 Cuota total aprox.: 3,99\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1569998|To Win Either Half|Home",
+      "1569998|Goals Over/Under First Half|Over 0.5",
+      "1569998|Home Player Shots On Target Total|Alex Sala - 1",
+      "1569998|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.36,
+      1.4,
+      1.73
+    ],
+    "tarjeta": {
+      "local": "Mallorca",
+      "visitante": "Cadiz",
+      "id_l": 798,
+      "id_v": 724,
+      "logo_l": "https://media.api-sports.io/football/teams/798.png",
+      "logo_v": "https://media.api-sports.io/football/teams/724.png",
+      "fecha": "2026-11-02T21:00",
+      "liga": "Segunda"
     }
   },
   {
@@ -1651,83 +1619,79 @@
   {
     "id": "2026-11-03-pick-seguro",
     "fecha": "2026-11-03T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Portsmouth – Swansea · 20:45\n✅ Portsmouth o empate\n\n🎯 Cuota 1,50\n💶 10€ → 15,00€\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n⭐ Villarreal – Paris Saint Germain · 21:00\n✅ Gana el Paris Saint Germain\n\n🎯 Cuota 1,57\n💶 10€ → 15,70€\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563242|Double Chance|Home/Draw"
+      "1635746|Match Winner|Away"
     ],
     "cuotas": [
-      1.5
+      1.57
     ]
   },
   {
     "id": "2026-11-03-combi-tres",
     "fecha": "2026-11-03T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,71! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 QPR o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Portsmouth o empate\n✅ ⭐ Andres Andrade: 1+ tiros\n\n🎯 CUOTA 2,71 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,67! 🍀\n\n✅ ⭐ Alex Grimaldo: 1+ tiros\n✅ ⭐ Andres Andrade: 1+ tiros\n✅ ⭐ Gana el Paris Saint Germain\n\n🎯 CUOTA 2,67 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563244|Double Chance|Home/Draw",
-      "1563242|Double Chance|Home/Draw",
-      "1635677|Home Player Shots|Andres Andrade - 1"
+      "1635622|Home Player Shots|Alex Grimaldo - 1",
+      "1635677|Home Player Shots|Andres Andrade - 1",
+      "1635746|Match Winner|Away"
     ],
     "cuotas": [
-      1.36,
-      1.5,
-      1.33
+      1.28,
+      1.33,
+      1.57
     ]
   },
   {
-    "id": "2026-11-03-combi-partido-1563240",
-    "fecha": "2026-11-03T18:55",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BLACKBURN vs STOKE CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GOL EN LA 1ª PARTE [x1.44]\n✅ OLADAPO AFOLAYAN: 1+ TIROS A PUERTA [x1.57]\n✅ GOL EN LA 2ª PARTE [x1.28]\n✅ GANA EL STOKE CITY [x2.55]\n\n🔥 Resultado probable: 0-1 | 1-2 | 0-2\n💥 Cuota total aprox.: 6,81\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-11-03-combi-loca",
+    "fecha": "2026-11-03T16:00",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,10! 🤪\n\n✅ ⭐ Alex Grimaldo: 1+ tiros\n✅ ⭐ Andres Andrade: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 QPR o empate\n✅ ⭐ Feyenoord marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jay Stansfield: 1+ tiros a puerta\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Derby marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Portsmouth o empate\n\n🎯 CUOTA 7,10 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563240|Goals Over/Under First Half|Over 0.5",
-      "1563240|Home Player Shots On Target Total|Oladapo Afolayan - 1",
-      "1563240|Goals Over/Under - Second Half|Over 0.5",
-      "1563240|Match Winner|Away"
+      "1635622|Home Player Shots|Alex Grimaldo - 1",
+      "1635677|Home Player Shots|Andres Andrade - 1",
+      "1563244|Double Chance|Home/Draw",
+      "1635662|Total - Home|Over 0.5",
+      "1563239|Home Player Shots On Target Total|Jay Stansfield - 1",
+      "1563241|Total - Home|Over 0.5",
+      "1563242|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.44,
-      1.57,
       1.28,
-      2.55
-    ],
-    "tarjeta": {
-      "local": "Blackburn",
-      "visitante": "Stoke City",
-      "id_l": 67,
-      "id_v": 75,
-      "logo_l": "https://media.api-sports.io/football/teams/67.png",
-      "logo_v": "https://media.api-sports.io/football/teams/75.png",
-      "fecha": "2026-11-03T20:45",
-      "liga": "Championship"
-    }
+      1.33,
+      1.33,
+      1.28,
+      1.28,
+      1.33,
+      1.44
+    ]
   },
   {
     "id": "2026-11-03-combi-partido-1563239",
     "fecha": "2026-11-03T19:40",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BIRMINGHAM vs MILLWALL 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 JAY STANSFIELD: 1+ TIROS A PUERTA [x1.28]\n✅ AUGUST PRISKE: 1+ TIROS A PUERTA [x1.40]\n✅ MILLWALL MARCA [x1.40]\n✅ GANA EL BIRMINGHAM [x1.85]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 6,14\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BIRMINGHAM vs MILLWALL 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 BIRMINGHAM O EMPATE [x1.25]\n✅ JAY STANSFIELD: 1+ TIROS A PUERTA [x1.28]\n✅ AUGUST PRISKE: 1+ TIROS A PUERTA [x1.40]\n✅ MILLWALL MARCA [x1.40]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 4,79\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1563239|Double Chance|Home/Draw",
       "1563239|Home Player Shots On Target Total|Jay Stansfield - 1",
       "1563239|Home Player Shots On Target Total|August Priske - 1",
-      "1563239|Total - Away|Over 0.5",
-      "1563239|Match Winner|Home"
+      "1563239|Total - Away|Over 0.5"
     ],
     "cuotas": [
+      1.25,
       1.28,
       1.4,
-      1.4,
-      1.85
+      1.4
     ],
     "tarjeta": {
       "local": "Birmingham",
@@ -1743,20 +1707,20 @@
   {
     "id": "2026-11-03-combi-partido-1635746",
     "fecha": "2026-11-03T20:00",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VILLARREAL vs PARIS SAINT GERMAIN ⭐\n\n🎯 VILLARREAL MARCA [x1.30]\n✅ ACHRAF HAKIMI: 2+ TIROS [x1.67]\n✅ GANA EL PARIS SAINT GERMAIN [x1.57]\n✅ MÁS DE 3,5 GOLES [x1.91]\n\n🔥 Resultado probable: 1-3 | 2-3 | 1-4\n💥 Cuota total aprox.: 5,14\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VILLARREAL vs PARIS SAINT GERMAIN ⭐\n\n🎯 VILLARREAL MARCA [x1.30]\n✅ GANA EL PARIS SAINT GERMAIN [x1.57]\n✅ ACHRAF HAKIMI: 2+ TIROS [x1.67]\n✅ MÁS DE 3,5 GOLES [x1.91]\n\n🔥 Resultado probable: 1-3 | 2-3 | 1-4\n💥 Cuota total aprox.: 5,68\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1635746|Total - Home|Over 0.5",
-      "1635746|Away Player Shots|Achraf Hakimi - 2",
       "1635746|Match Winner|Away",
+      "1635746|Away Player Shots|Achraf Hakimi - 2",
       "1635746|Goals Over/Under|Over 3.5"
     ],
     "cuotas": [
       1.3,
-      1.67,
       1.57,
+      1.67,
       1.91
     ],
     "tarjeta": {
@@ -1771,36 +1735,6 @@
     }
   },
   {
-    "id": "2026-11-04-combi-partido-1635656",
-    "fecha": "2026-11-04T00:30",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FC PORTO vs NAPOLI ⭐\n\n🎯 SCOTT MCTOMINAY: 2+ TIROS [x1.28]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ NAPOLI MARCA [x1.33]\n✅ EMPATE AL DESCANSO [x2.25]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 6,69\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635656|Away Player Shots|Scott McTominay - 2",
-      "1635656|Goals Over/Under First Half|Over 0.5",
-      "1635656|Total - Away|Over 0.5",
-      "1635656|First Half Winner|Draw"
-    ],
-    "cuotas": [
-      1.28,
-      1.33,
-      1.33,
-      2.25
-    ],
-    "tarjeta": {
-      "local": "FC Porto",
-      "visitante": "Napoli",
-      "id_l": 212,
-      "id_v": 492,
-      "logo_l": "https://media.api-sports.io/football/teams/212.png",
-      "logo_v": "https://media.api-sports.io/football/teams/492.png",
-      "fecha": "2026-11-04T21:00",
-      "liga": "Champions"
-    }
-  },
-  {
     "id": "2026-11-04-ganadores",
     "fecha": "2026-11-04T01:00",
     "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅2. ⭐ Como — Gana o empata\n✅3. ⭐ FC Porto — Gana o empata\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham — Gana o empata\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolves — Gana o empata\n✅6. ⭐ RB Leipzig — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
@@ -1811,71 +1745,53 @@
     "cuotas": []
   },
   {
-    "id": "2026-11-04-pick-seguro",
-    "fecha": "2026-11-04T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bristol City – Wolves · 21:00\n✅ Bristol City o empate\n\n🎯 Cuota 1,70\n💶 10€ → 17,00€\n\n🍀 Uno al día, sin locuras",
+    "id": "2026-11-04-combi-tres",
+    "fecha": "2026-11-04T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,83! 🍀\n\n✅ ⭐ Gana el Real Madrid\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aidan Morris: 1+ tiros\n✅ ⭐ RB Leipzig marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bristol City marca\n\n🎯 CUOTA 2,83 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563247|Double Chance|Home/Draw"
+      "1635606|Match Winner|Away",
+      "1563250|Away Player Shots|Aidan Morris - 1",
+      "1635710|Total - Home|Over 0.5",
+      "1563247|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.7
+      1.25,
+      1.25,
+      1.33,
+      1.36
     ]
   },
   {
-    "id": "2026-11-04-combi-tres",
-    "fecha": "2026-11-04T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,99! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aidan Morris: 1+ tiros\n✅ ⭐ FC Porto o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cardiff o empate\n\n🎯 CUOTA 2,99 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-11-04-combi-loca",
+    "fecha": "2026-11-04T16:00",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x7,24! 🤪\n\n✅ ⭐ Gana el Real Madrid\n✅ ⭐ RB Leipzig marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kieffer Moore: 1+ tiros a puerta\n✅ ⭐ FC Porto o empate\n✅ ⭐ AEK Athens FC marca\n✅ ⭐ Florian Thauvin: 1+ tiros a puerta\n\n🎯 CUOTA 7,24 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563250|Away Player Shots|Aidan Morris - 1",
+      "1635606|Match Winner|Away",
+      "1635710|Total - Home|Over 0.5",
+      "1563250|Home Player Shots On Target Total|Kieffer Moore - 1",
       "1635656|Double Chance|Home/Draw",
-      "1563248|Double Chance|Home/Draw"
+      "1635606|Total - Home|Over 0.5",
+      "1635681|Home Player Shots On Target Total|Florian Thauvin - 1"
     ],
     "cuotas": [
       1.25,
       1.33,
-      1.8
-    ]
-  },
-  {
-    "id": "2026-11-04-combi-partido-1563248",
-    "fecha": "2026-11-04T19:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 CARDIFF vs WEST HAM 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 CARDIFF O EMPATE [x1.80]\n✅ JACK MOYLAN: 1+ TIROS A PUERTA [x1.50]\n✅ AMBOS MARCAN [x1.36]\n✅ WEST HAM MARCA 2 O MÁS [x1.50]\n\n🔥 Resultado probable: 2-2 | 3-2 | 3-3\n💥 Cuota total aprox.: 6,68\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563248|Double Chance|Home/Draw",
-      "1563248|Home Player Shots On Target Total|Jack Moylan - 1",
-      "1563248|Both Teams Score|Yes",
-      "1563248|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.5,
+      1.33,
       1.36,
-      1.5
-    ],
-    "tarjeta": {
-      "local": "Cardiff",
-      "visitante": "West Ham",
-      "id_l": 43,
-      "id_v": 48,
-      "logo_l": "https://media.api-sports.io/football/teams/43.png",
-      "logo_v": "https://media.api-sports.io/football/teams/48.png",
-      "fecha": "2026-11-04T20:45",
-      "liga": "Championship"
-    }
+      1.5,
+      1.36
+    ]
   },
   {
     "id": "2026-11-04-combi-partido-1563250",
     "fecha": "2026-11-04T19:45",
-    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 WREXHAM vs MIDDLESBROUGH 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 AIDAN MORRIS: 1+ TIROS [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.28]\n✅ KIEFFER MOORE: 1+ TIROS A PUERTA [x1.33]\n✅ WREXHAM MARCA [x1.30]\n✅ GANA EL MIDDLESBROUGH [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 5,14\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONSHIP\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 WREXHAM vs MIDDLESBROUGH 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 AIDAN MORRIS: 1+ TIROS [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.28]\n✅ KIEFFER MOORE: 1+ TIROS A PUERTA [x1.33]\n✅ WREXHAM MARCA [x1.30]\n✅ GANA EL MIDDLESBROUGH [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 6,45\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1917,51 +1833,81 @@
   {
     "id": "2026-11-05-pick-seguro",
     "fecha": "2026-11-05T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🟠 Lillestrom – Plzen · 18:45\n✅ Lillestrom o empate\n\n🎯 Cuota 1,57\n💶 10€ → 15,70€\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🟢 Panathinaikos – CSKA Sofia · 21:00\n✅ Gana el Panathinaikos\n\n🎯 Cuota 1,50\n💶 10€ → 15,00€\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636289|Double Chance|Home/Draw"
+      "1636465|Match Winner|Home"
     ],
     "cuotas": [
-      1.57
+      1.5
     ]
   },
   {
     "id": "2026-11-05-combi-tres",
     "fecha": "2026-11-05T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,51! 🍀\n\n✅ 🟠 Crystal Palace o empate\n✅ 🟠 Lillestrom o empate\n✅ 🟢 Gol en la 1ª parte del FC Thun–Heart Of Midlothian\n\n🎯 CUOTA 2,51 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x2,79! 🍀\n\n✅ 🟢 Gana el HNK Hajduk Split\n✅ 🟠 Jon Stankovic: 1+ tiros\n✅ 🟢 Gana el Panathinaikos\n\n🎯 CUOTA 2,79 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636254|Double Chance|Home/Draw",
-      "1636289|Double Chance|Home/Draw",
-      "1636473|Goals Over/Under First Half|Over 0.5"
+      "1636444|Match Winner|Away",
+      "1636339|Home Player Shots|Jon Stankovic - 1",
+      "1636465|Match Winner|Home"
     ],
     "cuotas": [
-      1.25,
-      1.57,
-      1.28
+      1.33,
+      1.4,
+      1.5
     ]
   },
   {
-    "id": "2026-11-05-combi-partido-1636250",
-    "fecha": "2026-11-05T20:00",
-    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 CELTIC vs BEŞIKTAŞ 🟠\n\n🎯 GOL EN LA 1ª PARTE [x1.28]\n✅ CELTIC MARCA [x1.25]\n✅ CAMILO DURAN: 1+ TIROS A PUERTA [x1.40]\n✅ GANA EL BEŞIKTAŞ [x2.25]\n\n💥 Cuota total aprox.: 5,24\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-11-05-combi-partido-1636339",
+    "fecha": "2026-11-05T19:10",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 STURM GRAZ vs CELJE 🟠\n\n🎯 JON STANKOVIC: 1+ TIROS [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.25]\n✅ GANA EL STURM GRAZ [x1.55]\n✅ CELJE MARCA [x1.44]\n\n💥 Cuota total aprox.: 4,55\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636250|Goals Over/Under First Half|Over 0.5",
+      "1636339|Home Player Shots|Jon Stankovic - 1",
+      "1636339|Goals Over/Under First Half|Over 0.5",
+      "1636339|Match Winner|Home",
+      "1636339|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.25,
+      1.55,
+      1.44
+    ],
+    "tarjeta": {
+      "local": "Sturm Graz",
+      "visitante": "Celje",
+      "id_l": 637,
+      "id_v": 4360,
+      "logo_l": "https://media.api-sports.io/football/teams/637.png",
+      "logo_v": "https://media.api-sports.io/football/teams/4360.png",
+      "fecha": "2026-11-05T21:00",
+      "liga": "Europa League"
+    }
+  },
+  {
+    "id": "2026-11-05-combi-partido-1636250",
+    "fecha": "2026-11-05T19:40",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 CELTIC vs BEŞIKTAŞ 🟠\n\n🎯 CELTIC MARCA [x1.25]\n✅ GOL EN LA 1ª PARTE [x1.28]\n✅ CAMILO DURAN: 1+ TIROS A PUERTA [x1.40]\n✅ GANA EL BEŞIKTAŞ [x2.25]\n\n💥 Cuota total aprox.: 5,50\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
       "1636250|Total - Home|Over 0.5",
+      "1636250|Goals Over/Under First Half|Over 0.5",
       "1636250|Home Player Shots On Target Total|Camilo Duran - 1",
       "1636250|Match Winner|Away"
     ],
     "cuotas": [
-      1.28,
       1.25,
+      1.28,
       1.4,
       2.25
     ],
@@ -1975,6 +1921,66 @@
       "fecha": "2026-11-05T21:00",
       "liga": "Europa League"
     }
+  },
+  {
+    "id": "2026-11-05-combi-partido-1636219",
+    "fecha": "2026-11-05T20:00",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 AZ ALKMAAR vs JUVENTUS 🟠\n\n🎯 AZ ALKMAAR MARCA [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ AZ ALKMAAR O EMPATE [x1.80]\n✅ RO-ZANGELO DAAL: 1+ TIROS A PUERTA [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-0 | 2-1\n💥 Cuota total aprox.: 4,55\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636219|Total - Home|Over 0.5",
+      "1636219|Goals Over/Under First Half|Over 0.5",
+      "1636219|Double Chance|Home/Draw",
+      "1636219|Home Player Shots On Target Total|Ro-Zangelo Daal - 1"
+    ],
+    "cuotas": [
+      1.36,
+      1.33,
+      1.8,
+      2.1
+    ],
+    "tarjeta": {
+      "local": "AZ Alkmaar",
+      "visitante": "Juventus",
+      "id_l": 201,
+      "id_v": 496,
+      "logo_l": "https://media.api-sports.io/football/teams/201.png",
+      "logo_v": "https://media.api-sports.io/football/teams/496.png",
+      "fecha": "2026-11-05T21:00",
+      "liga": "Europa League"
+    }
+  },
+  {
+    "id": "2026-11-06-ganadores",
+    "fecha": "2026-11-06T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇪🇸 Castellón — Gana o empata\n✅2. 🇵🇹 Arouca — Gana o empata\n✅3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton — Gana o empata\n✅4. 🇩🇪 Hamburger SV — Gana o empata\n✅5. 🇳🇱 PEC Zwolle — Gana o empata\n✅6. 🇪🇸 Sevilla — Gana o empata\n✅7. 🇮🇹 Venezia — Gana o empata\n✅8. 🇫🇷 Toulouse — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": []
+  },
+  {
+    "id": "2026-11-06-combi-tres",
+    "fecha": "2026-11-06T13:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x3,01! 🍀\n\n✅ 🇪🇸 Sevilla marca\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Everton–Coventry\n✅ 🇫🇷 Toulouse o empate\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Derby o empate\n\n🎯 CUOTA 3,01 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570450|Total - Home|Over 0.5",
+      "1557460|Goals Over/Under First Half|Over 0.5",
+      "1552817|Double Chance|Home/Draw",
+      "1563256|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.25,
+      1.33,
+      1.33,
+      1.36
+    ]
   },
   {
     "id": "2026-11-07-picks-manana",
@@ -1997,7 +2003,7 @@
   {
     "id": "2026-11-07-ganadores",
     "fecha": "2026-11-07T01:00",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇫🇷 Paris Saint Germain — Gana\n✅2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅3. 🇪🇸 Real Madrid — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton — Gana\n✅5. 🇵🇹 Sporting CP — Gana\n✅6. 🇮🇹 AS Roma — Gana\n✅7. 🇩🇪 Bayern München — Gana\n✅8. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal — Gana o empata\n✅9. 🇵🇹 Academico Viseu — Gana o empata\n✅10. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇫🇷 Paris Saint Germain — Gana\n✅2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Middlesbrough — Gana\n✅3. 🇪🇸 Real Madrid — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton — Gana\n✅5. 🇵🇹 Sporting CP — Gana\n✅6. 🇵🇹 Academico Viseu — Gana\n✅7. 🇮🇹 AS Roma — Gana\n✅8. 🇩🇪 Bayern München — Gana\n✅9. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal — Gana o empata\n✅10. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2007,12 +2013,12 @@
   {
     "id": "2026-11-07-pick-seguro",
     "fecha": "2026-11-07T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇳🇱 Excelsior – GO Ahead Eagles · 21:00\n✅ Excelsior o empate\n\n🎯 Cuota 1,62\n💶 10€ → 16,20€\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇩🇪 SC Paderborn 07 – Eintracht Frankfurt · 15:30\n✅ Santiago Castaneda: 1+ tiros\n\n🎯 Cuota 1,62\n💶 10€ → 16,20€\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552218|Double Chance|Home/Draw"
+      "1575220|Home Player Shots|Santiago Castaneda - 1"
     ],
     "cuotas": [
       1.62
@@ -2021,43 +2027,39 @@
   {
     "id": "2026-11-07-combi-tres",
     "fecha": "2026-11-07T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,21! 🍀\n\n✅ 🇳🇱 Fortuna Sittard o empate\n✅ 🇩🇪 Michael Olise: 3+ tiros\n✅ 🇳🇱 ADO Den Haag o empate\n✅ 🇩🇪 Fares Chaibi: 2+ tiros\n\n🎯 CUOTA 3,21 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x2,74! 🍀\n\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇪🇸 Gana el Real Madrid\n✅ 🇩🇪 Santiago Castaneda: 1+ tiros\n\n🎯 CUOTA 2,74 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552217|Double Chance|Home/Draw",
-      "1575217|Away Player Shots|Michael Olise - 3",
-      "1552220|Double Chance|Home/Draw",
-      "1575220|Away Player Shots|Fares Chaibi - 2"
+      "1575212|Match Winner|Home",
+      "1570451|Match Winner|Away",
+      "1575220|Home Player Shots|Santiago Castaneda - 1"
     ],
     "cuotas": [
-      1.28,
-      1.28,
-      1.4,
-      1.4
+      1.27,
+      1.33,
+      1.62
     ]
   },
   {
     "id": "2026-11-07-combi-partido-1552811",
     "fecha": "2026-11-07T16:15",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 AUXERRE vs PARIS FC 🇫🇷\n\n🎯 GOL EN LA 1ª PARTE [x1.33]\n✅ AUXERRE MARCA [x1.36]\n✅ CAMERON ARCHER: 1+ TIROS A PUERTA [x1.50]\n✅ ROMAIN FAIVRE: 1+ TIROS A PUERTA [x2.00]\n✅ PARIS FC O EMPATE [x1.28]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 5,50\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 AUXERRE vs PARIS FC 🇫🇷\n\n🎯 AUXERRE MARCA [x1.36]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ CAMERON ARCHER: 1+ TIROS A PUERTA [x1.50]\n✅ GANA EL PARIS FC [x1.90]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 5,49\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552811|Goals Over/Under First Half|Over 0.5",
       "1552811|Total - Home|Over 0.5",
+      "1552811|Goals Over/Under First Half|Over 0.5",
       "1552811|Home Player Shots On Target Total|Cameron Archer - 1",
-      "1552811|Home Player Shots On Target Total|Romain Faivre - 1",
-      "1552811|Double Chance|Draw/Away"
+      "1552811|Match Winner|Away"
     ],
     "cuotas": [
-      1.33,
       1.36,
+      1.33,
       1.5,
-      2.0,
-      1.28
+      1.9
     ],
     "tarjeta": {
       "local": "Auxerre",
@@ -2073,23 +2075,21 @@
   {
     "id": "2026-11-07-combi-partido-1575214",
     "fecha": "2026-11-07T17:30",
-    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 VFB STUTTGART vs WERDER BREMEN 🇩🇪\n\n🎯 ERMEDIN DEMIROVIC: 3+ TIROS [x1.33]\n✅ WERDER BREMEN MARCA [x1.33]\n✅ GANA EL VFB STUTTGART [x1.48]\n✅ VFB STUTTGART GANA AL DESCANSO [x1.91]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.50]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 5,13\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | BUNDESLIGA\n🇩🇪 VFB STUTTGART vs WERDER BREMEN 🇩🇪\n\n🎯 ERMEDIN DEMIROVIC: 3+ TIROS [x1.33]\n✅ GANA EL VFB STUTTGART [x1.48]\n✅ WERDER BREMEN MARCA [x1.33]\n✅ VFB STUTTGART GANA AL DESCANSO [x1.91]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 5,58\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575214|Home Player Shots|Ermedin Demirovic - 3",
-      "1575214|Total - Away|Over 0.5",
       "1575214|Match Winner|Home",
-      "1575214|First Half Winner|Home",
-      "1575214|Goals Over/Under - Second Half|Over 1.5"
+      "1575214|Total - Away|Over 0.5",
+      "1575214|First Half Winner|Home"
     ],
     "cuotas": [
       1.33,
-      1.33,
       1.48,
-      1.91,
-      1.5
+      1.33,
+      1.91
     ],
     "tarjeta": {
       "local": "VfB Stuttgart",
@@ -2105,19 +2105,23 @@
   {
     "id": "2026-11-08-picks-manana",
     "fecha": "2026-11-07T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton o empate\n✅ 🇳🇱 Wout Weghorst: 1+ tiros a puerta\n✅ 🇳🇱 Utrecht o empate\n✅ 🇫🇷 Pathe Mboup: 2+ tiros\n✅ 🇮🇹 Scott McTominay: 1+ tiros a puerta\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "🔥⚽ COMBILOCAS — ¡7 PICKS PARA MAÑANA! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton o empate\n✅ 🇮🇹 Carlos Augusto: 1+ tiros\n✅ 🇳🇱 Utrecht o empate\n✅ 🇳🇱 Wout Weghorst: 1+ tiros a puerta\n✅ 🇮🇹 Gustavo Varela: 1+ tiros a puerta\n✅ 🇫🇷 Pathe Mboup: 2+ tiros\n✅ 🇮🇹 Noa Lang: 1+ tiros a puerta\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1557458|Double Chance|Home/Draw",
-      "1552222|Home Player Shots On Target Total|Wout Weghorst - 1",
+      "1550191|Home Player Shots|Carlos Augusto - 1",
       "1552223|Double Chance|Home/Draw",
+      "1552222|Home Player Shots On Target Total|Wout Weghorst - 1",
+      "1550192|Home Player Shots On Target Total|Gustavo Varela - 1",
       "1552812|Home Player Shots|Pathe Mboup - 2",
-      "1550193|Home Player Shots On Target Total|Scott McTominay - 1"
+      "1550193|Home Player Shots On Target Total|Noa Lang - 1"
     ],
     "cuotas": [
       1.28,
+      1.33,
+      1.4,
       1.25,
       1.4,
       1.28,
@@ -2127,7 +2131,7 @@
   {
     "id": "2026-11-08-ganadores",
     "fecha": "2026-11-08T01:00",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇩🇪 SC Freiburg — Gana\n✅2. 🇵🇹 Benfica — Gana\n✅3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana o empata\n✅6. 🇪🇸 Real Betis — Gana o empata\n✅7. 🇩🇪 1899 Hoffenheim — Gana o empata\n✅8. 🇵🇹 FC Porto — Gana o empata\n✅9. 🇪🇸 Villarreal — Gana o empata\n✅10. 🇵🇹 SC Braga — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇩🇪 SC Freiburg — Gana\n✅2. 🇵🇹 Benfica — Gana\n✅3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth — Gana\n✅4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool — Gana\n✅5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa — Gana o empata\n✅6. 🇵🇹 SC Braga — Gana o empata\n✅7. 🇪🇸 Real Betis — Gana o empata\n✅8. 🇩🇪 1899 Hoffenheim — Gana o empata\n✅9. 🇵🇹 FC Porto — Gana o empata\n✅10. 🇪🇸 Villarreal — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2137,36 +2141,36 @@
   {
     "id": "2026-11-08-pick-seguro",
     "fecha": "2026-11-08T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇳🇱 Twente – Ajax · 14:30\n✅ Twente o empate\n\n🎯 Cuota 1,57\n💶 10€ → 15,70€\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇩🇪 SC Freiburg – Union Berlin · 17:30\n✅ Gana el SC Freiburg\n\n🎯 Cuota 1,50\n💶 10€ → 15,00€\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1552222|Double Chance|Home/Draw"
+      "1575216|Match Winner|Home"
     ],
     "cuotas": [
-      1.57
+      1.5
     ]
   },
   {
     "id": "2026-11-08-combi-partido-1552221",
     "fecha": "2026-11-08T10:55",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 HEERENVEEN vs FEYENOORD 🇳🇱\n\n🎯 HEERENVEEN MARCA [x1.25]\n✅ HEERENVEEN O EMPATE [x2.10]\n✅ JACOB TRENSKOW: 1+ TIROS A PUERTA [x1.40]\n✅ MAXENCE RIVERA: 2+ TIROS [x1.44]\n✅ MÁS DE 3,5 GOLES [x1.80]\n\n🔥 Resultado probable: 2-2 | 3-1 | 3-2\n💥 Cuota total aprox.: 5,86\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 HEERENVEEN vs FEYENOORD 🇳🇱\n\n🎯 HEERENVEEN MARCA [x1.25]\n✅ MAXENCE RIVERA: 2+ TIROS [x1.44]\n✅ JACOB TRENSKOW: 1+ TIROS A PUERTA [x1.40]\n✅ HEERENVEEN O EMPATE [x2.10]\n✅ MÁS DE 3,5 GOLES [x1.80]\n\n🔥 Resultado probable: 2-2 | 3-1 | 3-2\n💥 Cuota total aprox.: 6,40\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552221|Total - Home|Over 0.5",
-      "1552221|Double Chance|Home/Draw",
-      "1552221|Home Player Shots On Target Total|Jacob Trenskow - 1",
       "1552221|Home Player Shots|Maxence Rivera - 2",
+      "1552221|Home Player Shots On Target Total|Jacob Trenskow - 1",
+      "1552221|Double Chance|Home/Draw",
       "1552221|Goals Over/Under|Over 3.5"
     ],
     "cuotas": [
       1.25,
-      2.1,
-      1.4,
       1.44,
+      1.4,
+      2.1,
       1.8
     ],
     "tarjeta": {
@@ -2183,20 +2187,20 @@
   {
     "id": "2026-11-08-combi-partido-1550193",
     "fecha": "2026-11-08T11:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 NAPOLI vs LAZIO 🇮🇹\n\n🎯 GUSTAV ISAKSEN: 2+ TIROS [x1.25]\n✅ SCOTT MCTOMINAY: 1+ TIROS A PUERTA [x1.50]\n✅ AMBOS MARCAN [x1.70]\n✅ EMPATE AL DESCANSO [x2.25]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-2\n💥 Cuota total aprox.: 6,10\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 NAPOLI vs LAZIO 🇮🇹\n\n🎯 GUSTAV ISAKSEN: 2+ TIROS [x1.25]\n✅ NOA LANG: 1+ TIROS A PUERTA [x1.50]\n✅ SCOTT MCTOMINAY: 1+ TIROS A PUERTA [x1.50]\n✅ EMPATE AL DESCANSO [x2.25]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,62\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1550193|Away Player Shots|Gustav Isaksen - 2",
+      "1550193|Home Player Shots On Target Total|Noa Lang - 1",
       "1550193|Home Player Shots On Target Total|Scott McTominay - 1",
-      "1550193|Both Teams Score|Yes",
       "1550193|First Half Winner|Draw"
     ],
     "cuotas": [
       1.25,
       1.5,
-      1.7,
+      1.5,
       2.25
     ],
     "tarjeta": {
@@ -2213,23 +2217,21 @@
   {
     "id": "2026-11-08-combi-partido-1552222",
     "fecha": "2026-11-08T13:30",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 TWENTE vs AJAX 🇳🇱\n\n🎯 JORTHY MOKIO: 1+ TIROS [x1.44]\n✅ TWENTE O EMPATE [x1.57]\n✅ WOUT WEGHORST: 1+ TIROS A PUERTA [x1.25]\n✅ ROBIN PROPPER: 1+ TIROS [x1.57]\n✅ AMBOS MARCAN [x1.36]\n\n🔥 Resultado probable: 2-1 | 1-1 | 3-1\n💥 Cuota total aprox.: 5,09\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 TWENTE vs AJAX 🇳🇱\n\n🎯 JORTHY MOKIO: 1+ TIROS [x1.33]\n✅ WOUT WEGHORST: 1+ TIROS A PUERTA [x1.25]\n✅ ROBIN PROPPER: 1+ TIROS [x1.80]\n✅ TWENTE O EMPATE [x1.57]\n\n🔥 Resultado probable: 2-1 | 1-1 | 2-0\n💥 Cuota total aprox.: 6,05\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552222|Away Player Shots|Jorthy Mokio - 1",
-      "1552222|Double Chance|Home/Draw",
       "1552222|Home Player Shots On Target Total|Wout Weghorst - 1",
       "1552222|Home Player Shots|Robin Propper - 1",
-      "1552222|Both Teams Score|Yes"
+      "1552222|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.44,
-      1.57,
+      1.33,
       1.25,
-      1.57,
-      1.36
+      1.8,
+      1.57
     ],
     "tarjeta": {
       "local": "Twente",
@@ -2245,19 +2247,19 @@
   {
     "id": "2026-11-08-combi-tres",
     "fecha": "2026-11-08T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x3,13! 🍀\n\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton o empate\n✅ 🇳🇱 Jorthy Mokio: 1+ tiros\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland o empate\n\n🎯 CUOTA 3,13 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,65! 🍀\n\n✅ 🇮🇹 Carlos Augusto: 1+ tiros\n✅ 🇳🇱 Jorthy Mokio: 1+ tiros\n✅ 🇩🇪 Gana el SC Freiburg\n\n🎯 CUOTA 2,65 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557458|Double Chance|Home/Draw",
+      "1550191|Home Player Shots|Carlos Augusto - 1",
       "1552222|Away Player Shots|Jorthy Mokio - 1",
-      "1557466|Double Chance|Home/Draw"
+      "1575216|Match Winner|Home"
     ],
     "cuotas": [
-      1.28,
-      1.44,
-      1.7
+      1.33,
+      1.33,
+      1.5
     ]
   }
 ]

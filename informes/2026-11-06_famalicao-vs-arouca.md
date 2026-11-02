@@ -1,7 +1,7 @@
 # Famalicao – Arouca
 **Primeira Liga** · Regular Season - 11 · 06/11/2026 21:45 (hora España) · Estadio Municipal de Famalicao
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Famalicao (total) | Famalicao en casa | Arouca (total) | Arouca fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 4 | 11 | 6 |
-| Forma (últimos 5) | VDDVE | DEED | VVVVE | VVEED |
-| Balance | 2V 4E 4D | 0V 2E 2D | 7V 2E 2D | 3V 2E 1D |
-| Goles a favor / partido | 1,40 | 0,75 | 1,55 | 1,33 |
-| Goles en contra / partido | 1,20 | 1,75 | 0,91 | 1,17 |
-| Goles a favor 1ª parte | 0,70 | 0,50 | 0,64 | 0,33 |
-| Goles a favor 2ª parte | 0,70 | 0,25 | 0,91 | 1,00 |
-| Goles en contra 1ª parte | 0,40 | 0,50 | 0,45 | 0,33 |
-| Goles en contra 2ª parte | 0,80 | 1,25 | 0,45 | 0,83 |
-| Más de 1,5 goles | 70% | 75% | 55% | 50% |
-| Más de 2,5 goles | 50% | 50% | 45% | 33% |
-| Más de 3,5 goles | 40% | 25% | 27% | 33% |
-| Ambos marcan | 50% | 75% | 36% | 33% |
-| Portería a cero | 30% | 25% | 55% | 50% |
-| Se queda sin marcar | 30% | 25% | 18% | 33% |
-| xG a favor | 1,02 | 0,42 | 1,23 | 1,24 |
-| xG en contra | 1,37 | 1,78 | 1,19 | 1,55 |
-| Tiros / partido | 10,2 | 9,8 | 11,3 | 10,4 |
-| Tiros a puerta / partido | 3,4 | 2,2 | 3,9 | 2,8 |
-| Tiros recibidos | 11,7 | 11,5 | 13,0 | 17,0 |
-| Tiros a puerta recibidos | 3,2 | 3,8 | 3,8 | 5,0 |
-| Posesión media % | 52 | 55 | 52 | 52 |
-| Córners a favor | 5,3 | 5,8 | 3,3 | 1,8 |
-| Córners en contra | 3,9 | 2,8 | 4,4 | 5,3 |
-| Córners a favor 1ª parte | 3,0 | 3,8 | 1,6 | 1,0 |
-| Córners a favor 2ª parte | 2,3 | 2,0 | 1,6 | 0,8 |
-| Córners totales del partido | 9,2 | 8,5 | 7,6 | 7,2 |
-| Córners totales 1ª parte | 5,0 | 5,2 | 3,8 | 3,3 |
+| Partidos analizados | 11 | 4 | 11 | 6 |
+| Forma (últimos 5) | DVDDV | DEED | VVVVE | VVEED |
+| Balance | 2V 4E 5D | 0V 2E 2D | 7V 2E 2D | 3V 2E 1D |
+| Goles a favor / partido | 1,27 | 0,75 | 1,55 | 1,33 |
+| Goles en contra / partido | 1,36 | 1,75 | 0,91 | 1,17 |
+| Goles a favor 1ª parte | 0,64 | 0,50 | 0,64 | 0,33 |
+| Goles a favor 2ª parte | 0,64 | 0,25 | 0,91 | 1,00 |
+| Goles en contra 1ª parte | 0,36 | 0,50 | 0,45 | 0,33 |
+| Goles en contra 2ª parte | 1,00 | 1,25 | 0,45 | 0,83 |
+| Más de 1,5 goles | 73% | 75% | 55% | 50% |
+| Más de 2,5 goles | 55% | 50% | 45% | 33% |
+| Más de 3,5 goles | 36% | 25% | 27% | 33% |
+| Ambos marcan | 45% | 75% | 36% | 33% |
+| Portería a cero | 27% | 25% | 55% | 50% |
+| Se queda sin marcar | 36% | 25% | 18% | 33% |
+| xG a favor | 0,94 | 0,42 | 1,23 | 1,24 |
+| xG en contra | 1,36 | 1,78 | 1,19 | 1,55 |
+| Tiros / partido | 9,6 | 9,8 | 11,3 | 10,4 |
+| Tiros a puerta / partido | 3,2 | 2,2 | 3,9 | 2,8 |
+| Tiros recibidos | 12,0 | 11,5 | 13,0 | 17,0 |
+| Tiros a puerta recibidos | 3,3 | 3,8 | 3,8 | 5,0 |
+| Posesión media % | 51 | 55 | 52 | 52 |
+| Córners a favor | 4,9 | 5,8 | 3,3 | 1,8 |
+| Córners en contra | 4,2 | 2,8 | 4,4 | 5,3 |
+| Córners a favor 1ª parte | 2,7 | 3,8 | 1,6 | 1,0 |
+| Córners a favor 2ª parte | 2,2 | 2,0 | 1,6 | 0,8 |
+| Córners totales del partido | 9,1 | 8,5 | 7,6 | 7,2 |
+| Córners totales 1ª parte | 4,9 | 5,2 | 3,8 | 3,3 |
 | Córners totales 2ª parte | 4,2 | 3,2 | 3,8 | 3,8 |
-| Más de 8,5 córners | 67% | 50% | 36% | 33% |
-| Más de 9,5 córners | 56% | 25% | 36% | 33% |
-| Más de 10,5 córners | 22% | 25% | 18% | 17% |
-| Faltas cometidas | 12,1 | 11,5 | 10,3 | 11,0 |
-| Faltas recibidas | 16,0 | 18,2 | 10,3 | 11,0 |
-| Amarillas propias | 2,0 | 2,0 | 2,4 | 1,8 |
-| Amarillas del rival | 2,6 | 3,0 | 2,2 | 2,0 |
-| Rojas / partido | 0,11 | 0,25 | 0,09 | 0,17 |
+| Más de 8,5 córners | 60% | 50% | 36% | 33% |
+| Más de 9,5 córners | 50% | 25% | 36% | 33% |
+| Más de 10,5 córners | 20% | 25% | 18% | 17% |
+| Faltas cometidas | 11,8 | 11,5 | 10,3 | 11,0 |
+| Faltas recibidas | 16,8 | 18,2 | 10,3 | 11,0 |
+| Amarillas propias | 2,1 | 2,0 | 2,4 | 1,8 |
+| Amarillas del rival | 2,8 | 3,0 | 2,2 | 2,0 |
+| Rojas / partido | 0,20 | 0,25 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Famalicao | Recibe Famalicao | Tarjetas Famalicao | Goles Arouca | Recibe Arouca | Tarjetas Arouca |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 1 | 2 | 1 | 1 | 0 |
-| 16-30' | 0 | 2 | 1 | 4 | 3 | 2 |
-| 31-45' | 3 | 1 | 2 | 2 | 1 | 5 |
-| 46-60' | 1 | 2 | 2 | 3 | 1 | 3 |
-| 61-75' | 1 | 2 | 5 | 1 | 1 | 7 |
-| 76-90' | 5 | 4 | 11 | 6 | 3 | 13 |
+| 16-30' | 0 | 2 | 2 | 4 | 3 | 2 |
+| 31-45' | 3 | 1 | 3 | 2 | 1 | 5 |
+| 46-60' | 1 | 3 | 2 | 3 | 1 | 3 |
+| 61-75' | 1 | 3 | 7 | 1 | 1 | 7 |
+| 76-90' | 5 | 5 | 12 | 6 | 3 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,34 +73,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Famalicao
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Primeira Liga | SC Braga 3-0 Famalicao | fuera | 1-7 | 4 (1) - 15 (4) | 3-5 |
 | 2026-10-25 | Primeira Liga | Rio Ave 0-4 Famalicao | fuera | 2-4 | 12 (5) - 7 (2) | 0-3 |
 | 2026-10-18 | Taça de Portugal | Paredes 1-0 Famalicao | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-12 | Primeira Liga | Famalicao 1-4 Alverca | casa | 8-3 | 13 (2) - 14 (5) | 3-2 |
 | 2026-09-19 | Primeira Liga | Nacional 0-4 Famalicao | fuera | 3-7 | 12 (7) - 12 (3) | 3-3 |
 | 2026-09-13 | Primeira Liga | Famalicao 1-1 Sporting CP | casa | 4-4 | 5 (2) - 16 (5) | 2-4 |
-| 2026-09-05 | Primeira Liga | Estrela 2-2 Famalicao | fuera | 5-5 | 14 (4) - 14 (4) | 2-3 |
 
 ## Jugadores de Famalicao
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Carević | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Rodrigo Pinheiro | D | 9 | 803 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 10 | 12 | 1,3 | 1 | 0 |
-| Mathias De Amorim | M | 9 | 797 | 0 | 3 | 5 | 0,6 | 0 | 0,0 | 21 | 28 | 3,1 | 2 | 0 |
-| Sorriso | M | 9 | 749 | 2 | 2 | 14 | 1,6 | 7 | 0,8 | 4 | 24 | 2,7 | 1 | 0 |
-| G. Koutsias | F | 9 | 693 | 5 | 0 | 13 | 1,4 | 8 | 0,9 | 3 | 7 | 0,8 | 0 | 0 |
-| Finn van Breemen | D | 7 | 630 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 10 | 7 | 1,0 | 3 | 0 |
-| L. Realpe | D | 7 | 601 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 4 | 0,6 | 1 | 0 |
-| Pedro Francisco | D | 8 | 600 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 4 | 8 | 1,0 | 2 | 0 |
-| Gil Dias | M | 8 | 466 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 3 | 0,4 | 1 | 0 |
+| L. Carević | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Mathias De Amorim | M | 10 | 887 | 0 | 3 | 5 | 0,5 | 0 | 0,0 | 21 | 30 | 3,0 | 3 | 0 |
+| Rodrigo Pinheiro | D | 10 | 873 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 11 | 16 | 1,6 | 1 | 1 |
+| Sorriso | M | 10 | 811 | 2 | 2 | 14 | 1,4 | 7 | 0,7 | 5 | 26 | 2,6 | 2 | 0 |
+| G. Koutsias | F | 10 | 783 | 5 | 0 | 13 | 1,3 | 8 | 0,8 | 6 | 8 | 0,8 | 0 | 0 |
+| F. van Breemen | D | 8 | 675 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 11 | 8 | 1,0 | 3 | 0 |
+| L. Realpe | D | 8 | 646 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 4 | 0,5 | 1 | 0 |
+| Pedro Francisco | D | 9 | 628 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 4 | 9 | 1,0 | 2 | 0 |
+| Gil Dias | F | 9 | 480 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 5 | 0,6 | 1 | 0 |
+| T. van de Looi | M | 6 | 468 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
+| Víctor Rofino | D | 5 | 450 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,4 | 2 | 0 |
 | Marcos Peña | M | 6 | 402 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 3 | 2 | 0,3 | 1 | 0 |
-| T. van de Looi | M | 5 | 378 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 6 | 1 | 0,2 | 0 | 0 |
-| Víctor Rofino | D | 4 | 360 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,5 | 2 | 0 |
+| Pedro Santos | M | 8 | 346 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 11 | 1,4 | 0 | 0 |
+| R. Beney | M | 8 | 343 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 10 | 8 | 1,0 | 1 | 1 |
 | Tamás Szücs | M | 6 | 338 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 1 | 5 | 0,8 | 0 | 0 |
-| Pedro Santos | F | 7 | 270 | 1 | 1 | 2 | 0,3 | 1 | 0,1 | 6 | 9 | 1,3 | 0 | 0 |
-| R. Beney | M | 7 | 267 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 9 | 6 | 0,9 | 1 | 1 |
 | Paulo Moreira | M | 4 | 249 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 6 | 1,5 | 1 | 0 |
-| Óscar Aranda | F | 8 | 143 | 2 | 1 | 6 | 0,8 | 5 | 0,6 | 0 | 7 | 0,9 | 0 | 0 |
-| Gustavo Garcia | D | 2 | 100 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
+| Óscar Aranda | F | 9 | 171 | 2 | 1 | 8 | 0,9 | 6 | 0,7 | 1 | 9 | 1,0 | 1 | 0 |
+| Gustavo Garcia | D | 3 | 162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 | U. Abubakar | F | 7 | 98 | 0 | 0 | 5 | 0,7 | 2 | 0,3 | 4 | 4 | 0,6 | 0 | 0 |
 | Leny Meyer | D | 4 | 91 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | F. Mayulu | F | 2 | 13 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,97 · visitante 1,27 · córners esperados 9,4._
+_Goles esperados: local 0,93 · visitante 1,29 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

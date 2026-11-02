@@ -1,7 +1,7 @@
 # Arsenal – Hull City
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -202,15 +202,15 @@ _Goles esperados: local 1,79 · visitante 0,48 · córners esperados 9,8._
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 44% | 35% | 2.10 | -26% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 25% | 31% | 3.75 | +17% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 56% | 65% | 1.67 | +8% |
-| Goles del local: Más de 1.5 | 53% | 73% | 63% | 1.28 | -19% |
+| Goles del local: Más de 1.5 | 54% | 73% | 63% | 1.28 | -19% |
 | Goles del local: Más de 2.5 | 27% | 50% | 38% | 1.83 | -30% |
 | Goles del local: Más de 3.5 | 11% | 29% | 20% | 3.25 | -35% |
-| Goles del local: Menos de 1.5 ✅ | 47% | 27% | 37% | 3.50 | +28% |
+| Goles del local: Menos de 1.5 ✅ | 46% | 27% | 37% | 3.50 | +28% |
 | Goles del local: Menos de 2.5 | 73% | 50% | 62% | 1.83 | +13% |
 | Goles del local: Menos de 3.5 | 89% | 71% | 80% | 1.33 | +7% |
 | Goles del visitante: Más de 0.5 | 38% | 44% | 41% | 2.10 | -14% |
 | Goles del visitante: Menos de 0.5 | 62% | 56% | 59% | 1.67 | -2% |
-| 1X2 descanso: X | 44% | 32% | 38% | 2.88 | +9% |
+| 1X2 descanso: X | 43% | 32% | 38% | 2.88 | +9% |
 | 1X2 descanso: 1 | 47% | 60% | 54% | 1.53 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | A. Neophytou | F | 6 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,40 · visitante 1,20 · córners esperados 9,6._
+_Goles esperados: local 1,41 · visitante 1,20 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -184,7 +184,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 23% | 28% | 4.00 | +10% |
 | 1X2: X | 26% | 24% | 25% | 3.90 | -3% |
-| 1X2: 1 | 42% | 53% | 47% | 1.73 | -18% |
+| 1X2: 1 | 42% | 53% | 48% | 1.73 | -18% |
 | Doble oportunidad: X2 | 58% | 46% | 52% | 2.05 | +7% |
 | Doble oportunidad: 12 | 74% | 76% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 68% | 78% | 73% | 1.22 | -11% |
@@ -208,7 +208,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles del visitante: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| 1X2 descanso: 2 | 26% | 21% | 23% | 4.33 | +2% |
+| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | +2% |
 | 1X2 descanso: X | 43% | 37% | 40% | 2.50 | +1% |
 | 1X2 descanso: 1 | 31% | 41% | 36% | 2.25 | -18% |
 

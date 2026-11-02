@@ -1,5 +1,64 @@
 # Lecciones del bot
 
+## 2026-11-01
+
+```
+🧠 LECCIONES DEL 01/11
+Picks del bot: 41 ✅ · 21 ❌ · 2 sin resultado
+
+❌ Lo que falló en lo publicado:
+• 1. FC Köln hace más tiros a puerta → Tiros a puerta: 2 – 2
+• Ambos marcan en Juventus–Napoli → 1 de 2 equipos que marcan
+• Athletic Club hace más tiros a puerta → Tiros a puerta: 3 – 5
+• Brenner Santos: 1+ tiros → 0 de 1 tiro
+• Elche hace más tiros a puerta → Tiros a puerta: 3 – 3
+• Elche o empate → Marcador: 0–1
+• Empate al descanso en Liverpool–Arsenal → Marcador: 0–1
+• Empate al descanso en Maritimo–Santa Clara → Marcador: 0–2
+• Gol en la 1ª parte del Elche–Valencia → Marcador: 0–1
+• Gol en la 1ª parte del Juventus–Napoli → Marcador: 2–0
+• Liverpool marca → 0 de 1 gol
+• Maritimo o empate → Marcador: 0–2
+• Más de 10,5 córners en Racing Santander–Real Madrid → 10 de 11 córners
+• Más de 3,5 goles en Racing Santander–Real Madrid → 3 de 4 goles
+• Más de 8,5 córners en Lazio–Cagliari → 4 de 9 córners
+
+❌ Fallos de los picks del bot y por qué:
+• Racing Santander marca — Racing Santander no marcó lo esperado (0-3)
+• Real Sociedad o empate — resultado 2-1
+• Toulouse marca — Toulouse no marcó lo esperado (2-0)
+• ADO Den Haag marca — ADO Den Haag no marcó lo esperado (1-0)
+• Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid — resultado 0-3
+• Ambos marcan en Racing Santander–Real Madrid — solo marcó un equipo o ninguno (0-3)
+• Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam — partido cerrado (2-3): faltó 1 gol en la 2ª parte
+• Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag — partido cerrado (1-0): faltó 2 goles en la 2ª parte
+• Antoine Hainaut: 1+ tiros — jugó 62′ e hizo 0 (necesitaba 1)
+• Akor Adams: 2+ tiros — jugó 90′ e hizo 0 (necesitaba 2)
+• Gol en la 1ª parte del Frosinone–Torino — partido cerrado (2-0): faltó 1 gol en la 1ª parte
+• Sevilla o empate — resultado 3-1
+• Como marca 2 o más — Como no marcó lo esperado (1-0)
+• Gol en la 1ª parte del Arouca–Nacional — partido cerrado (1-0): faltó 1 gol en la 1ª parte
+• Rani Khedira comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Said El Mala comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• David Wolfe comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Pietro Comuzzo comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Utrecht o empate — resultado 4-2
+• Robert Navarro: 1+ tiros a puerta — jugó 83′ e hizo 0 (necesitaba 1)
+• Mamadou Sarr comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Racing Santander–Real Madrid, Athletic Club–Real Sociedad, PEC Zwolle–ADO Den Haag, Como–Venezia, Frosinone–Torino, Union Berlin–1. FC Köln
+
+📐 Modelo: 210/341 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo liga Ligue 1: 22/44 (-7 pts)
+⬇️ castigo liga LaLiga: 18/34 (-6 pts)
+⬇️ castigo mercado Total - Away|Over 0.5: 21/36 (-4 pts)
+⬆️ premio liga Primeira Liga: 10/12 (+4 pts)
+⬇️ castigo cuota >1,60: 31/61 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-10-31
 
 ```

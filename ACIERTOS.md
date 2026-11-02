@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 326 · aciertos: 199 (61%) · beneficio a 1 € por pick: -46.22 €
+Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.32 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 42 | 62 | 68% | -2.71 € |
-| jugador | 57 | 88 | 65% | -8.95 € |
-| goles | 91 | 150 | 61% | -23.31 € |
+| resultado | 44 | 65 | 68% | -1.71 € |
+| jugador | 57 | 90 | 63% | -10.95 € |
+| goles | 99 | 159 | 62% | -21.21 € |
 | tarjetas | 5 | 9 | 56% | -1.13 € |
-| tiros | 3 | 8 | 38% | -2.74 € |
+| tiros | 4 | 9 | 44% | -1.94 € |
 | corners | 1 | 7 | 14% | -5.38 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
@@ -20,22 +20,22 @@ Picks ya jugados: 326 · aciertos: 199 (61%) · beneficio a 1 € por pick: -46.
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
 | To Win Either Half · Home | 4 | 4 | 100% |
-| Match Winner · Home | 5 | 6 | 83% |
-| Match Winner · Away | 4 | 5 | 80% |
+| Match Winner · Home | 6 | 7 | 86% |
+| Match Winner · Away | 5 | 6 | 83% |
+| Goals Over/Under · Over 1.5 | 16 | 21 | 76% |
 | Total - Home · Over 0.5 | 6 | 8 | 75% |
 | Double Chance · Home/Draw | 3 | 4 | 75% |
-| Goals Over/Under · Over 1.5 | 14 | 19 | 74% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
+| Goals Over/Under First Half · Over 0.5 | 26 | 38 | 68% |
 | Goals Over/Under · Over 2.5 | 10 | 15 | 67% |
-| Goals Over/Under First Half · Over 0.5 | 22 | 34 | 65% |
 | Goals Over/Under - Second Half · Over 1.5 | 3 | 5 | 60% |
-| Total - Away · Over 0.5 | 19 | 33 | 58% |
+| Total - Away · Over 0.5 | 21 | 36 | 58% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 6 | 50% |
 | To Win Either Half · Away | 2 | 4 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Home Team Total Cards · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 7 | 15 | 47% |
-| Double Chance · Draw/Away | 7 | 15 | 47% |
+| Double Chance · Draw/Away | 7 | 16 | 44% |
 | Goals Over/Under - Second Half · Over 0.5 | 3 | 7 | 43% |
 | Shots.1x2 · Away | 1 | 3 | 33% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
@@ -45,7 +45,7 @@ Picks ya jugados: 326 · aciertos: 199 (61%) · beneficio a 1 € por pick: -46.
 
 ## Últimos días
 
-### 2026-11-01 · 30/47
+### 2026-11-01 · 41/62
 - ❌ ADO Den Haag marca · 1.25 (1-0)
 - ❌ Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag · 1.80 (1-0)
 - ✅ Gol en la 1ª parte del PEC Zwolle–ADO Den Haag · 1.28 (1-0)
@@ -93,6 +93,21 @@ Picks ya jugados: 326 · aciertos: 199 (61%) · beneficio a 1 € por pick: -46.
 - ❌ Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam · 1.67 (2-3)
 - ✅ No hay empate en Liverpool–Arsenal · 1.30 (0-1)
 - ❌ David Wolfe comete 1+ faltas · 1.44 (3-1)
+- ✅ Más de 1,5 goles en Lecce–Genoa · 1.44 (1-2)
+- ✅ Gol en la 1ª parte del Lecce–Genoa · 1.50 (1-2)
+- ✅ Genoa marca · 1.36 (1-2)
+- ✅ Más de 23,5 tiros en Lecce–Genoa · 1.80 (1-2)
+- ✅ Gol en la 1ª parte del Burgos–Castellón · 1.33 (1-1)
+- ✅ Gol en la 1ª parte del Academico Viseu–Rio Ave · 1.36 (2-1)
+- ✅ Gol en la 1ª parte del Maritimo–Santa Clara · 1.53 (0-2)
+- ✅ Santa Clara marca · 1.33 (0-2)
+- ✅ Gana el Academico Viseu · 1.80 (2-1)
+- ✅ Gana el Santa Clara · 2.20 (0-2)
+- ❌ Toulouse marca · 1.33 (2-0)
+- ✅ Más de 1,5 goles en Athletic Club–Real Sociedad · 1.25 (2-1)
+- ❌ Real Sociedad o empate · 1.80 (2-1)
+- ❌ Robert Navarro: 1+ tiros a puerta · 1.44 (2-1)
+- ❌ Mamadou Sarr comete 1+ faltas · 1.40 (2-1)
 
 ### 2026-10-31 · 70/117
 - ❌ Manchester United marca · 1.36 (2-0)

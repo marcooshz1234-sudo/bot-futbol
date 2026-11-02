@@ -1,7 +1,7 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Deniz Gül | F | 3 | 92 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,28 · córners esperados 9,8._
+_Goles esperados: local 1,01 · visitante 1,28 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

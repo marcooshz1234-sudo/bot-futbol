@@ -1,7 +1,7 @@
 # Monaco – FC Nordsjaelland
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -186,29 +186,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 63% | 36% | 50% | 2.62 | +30% |
 | Doble oportunidad: 12 | 72% | 80% | 76% | 1.20 | -9% |
 | Doble oportunidad: 1X | 65% | 84% | 75% | 1.14 | -15% |
-| Ambos marcan: No | 52% | 41% | 47% | 2.25 | +5% |
-| Ambos marcan: Sí | 48% | 59% | 53% | 1.57 | -16% |
-| Goles más/menos: Más de 2.5 | 42% | 64% | 53% | 1.48 | -22% |
-| Goles más/menos: Más de 3.5 | 21% | 44% | 33% | 2.10 | -31% |
+| Ambos marcan: No | 52% | 41% | 46% | 2.25 | +4% |
+| Ambos marcan: Sí | 48% | 59% | 54% | 1.57 | -16% |
+| Goles más/menos: Más de 2.5 | 42% | 64% | 53% | 1.48 | -21% |
+| Goles más/menos: Más de 3.5 | 22% | 44% | 33% | 2.10 | -31% |
 | Goles más/menos: Más de 4.5 | 9% | 27% | 18% | 3.50 | -37% |
 | Goles más/menos: Menos de 2.5 | 58% | 36% | 47% | 2.60 | +22% |
-| Goles más/menos: Menos de 3.5 | 79% | 56% | 67% | 1.67 | +12% |
+| Goles más/menos: Menos de 3.5 | 78% | 56% | 67% | 1.67 | +12% |
 | Goles más/menos: Menos de 4.5 | 91% | 73% | 82% | 1.28 | +5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 44% | 36% | 2.10 | -25% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 44% | 36% | 2.10 | -24% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 21% | 15% | 4.50 | -34% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 56% | 64% | 1.67 | +7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.18 | +1% |
 | Goles del local: Más de 1.5 | 34% | 66% | 50% | 1.40 | -30% |
 | Goles del local: Más de 2.5 | 12% | 41% | 27% | 2.25 | -40% |
-| Goles del local: Más de 3.5 | 3% | 22% | 13% | 4.33 | -46% |
+| Goles del local: Más de 3.5 | 3% | 22% | 13% | 4.33 | -45% |
 | Goles del local: Menos de 1.5 | 66% | 34% | 50% | 2.75 | +37% |
 | Goles del local: Menos de 2.5 | 88% | 59% | 73% | 1.57 | +15% |
 | Goles del local: Menos de 3.5 | 97% | 78% | 87% | 1.20 | +5% |
 | Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 32% | 29% | 31% | 3.25 | -0% |
-| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -12% |
+| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del visitante: Menos de 1.5 | 68% | 71% | 69% | 1.33 | -8% |
 | 1X2 descanso: X | 46% | 35% | 40% | 2.62 | +6% |
 | 1X2 descanso: 1 | 28% | 48% | 38% | 1.91 | -27% |

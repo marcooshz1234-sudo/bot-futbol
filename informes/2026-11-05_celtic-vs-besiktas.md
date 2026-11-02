@@ -1,7 +1,7 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,14 +176,14 @@ _Sin precedentes recientes._
 | E. Poku | F | 1 | 20 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,61 · visitante 2,30 · córners esperados 9,6._
+_Goles esperados: local 0,61 · visitante 2,31 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 76% | 41% | 58% | 2.25 | +31% |
-| 1X2: X | 16% | 26% | 21% | 3.60 | -24% |
+| 1X2: 2 | 76% | 41% | 58% | 2.25 | +32% |
+| 1X2: X | 16% | 26% | 21% | 3.60 | -25% |
 | 1X2: 1 | 8% | 33% | 21% | 2.80 | -42% |
 | Doble oportunidad: X2 | 92% | 68% | 80% | 1.40 | +12% |
 | Doble oportunidad: 12 | 84% | 74% | 79% | 1.28 | +1% |
@@ -192,11 +192,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 41% | 61% | 51% | 1.53 | -22% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -7% |
-| Goles más/menos: Más de 3.5 | 33% | 38% | 36% | 2.50 | -11% |
-| Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -15% |
+| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -1% |
-| Goles más/menos: Menos de 3.5 | 67% | 62% | 64% | 1.53 | -1% |
+| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
 | Goles más/menos: Menos de 4.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
@@ -205,14 +205,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 46% | 75% | 60% | 1.25 | -25% |
 | Goles del local: Más de 1.5 | 13% | 42% | 27% | 2.20 | -40% |
 | Goles del local: Menos de 0.5 | 54% | 25% | 40% | 3.75 | +49% |
-| Goles del local: Menos de 1.5 | 87% | 58% | 73% | 1.62 | +18% |
+| Goles del local: Menos de 1.5 | 87% | 58% | 73% | 1.62 | +17% |
 | Goles del visitante: Más de 0.5 | 90% | 79% | 85% | 1.18 | -0% |
-| Goles del visitante: Más de 1.5 | 67% | 50% | 58% | 1.83 | +7% |
-| Goles del visitante: Más de 2.5 | 40% | 25% | 33% | 3.75 | +22% |
+| Goles del visitante: Más de 1.5 | 67% | 50% | 59% | 1.83 | +7% |
+| Goles del visitante: Más de 2.5 | 41% | 25% | 33% | 3.75 | +23% |
 | Goles del visitante: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -31% |
-| Goles del visitante: Menos de 1.5 | 33% | 50% | 42% | 1.83 | -24% |
-| Goles del visitante: Menos de 2.5 | 60% | 75% | 67% | 1.25 | -16% |
-| 1X2 descanso: 2 | 54% | 33% | 44% | 2.75 | +20% |
+| Goles del visitante: Menos de 1.5 | 33% | 50% | 41% | 1.83 | -24% |
+| Goles del visitante: Menos de 2.5 | 59% | 75% | 67% | 1.25 | -16% |
+| 1X2 descanso: 2 | 54% | 33% | 44% | 2.75 | +21% |
 | 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -11% |
 | 1X2 descanso: 1 | 10% | 28% | 19% | 3.25 | -38% |
 

@@ -1,7 +1,7 @@
 # Sparta Praha – Bournemouth
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -176,7 +176,7 @@ _Sin precedentes recientes._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,90 · visitante 2,88 · córners esperados 9,9._
+_Goles esperados: local 0,90 · visitante 2,87 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -184,19 +184,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 78% | 59% | 69% | 1.55 | +6% |
 | 1X2: X | 13% | 23% | 18% | 4.00 | -27% |
-| 1X2: 1 | 9% | 18% | 13% | 5.25 | -31% |
+| 1X2: 1 | 9% | 18% | 13% | 5.25 | -30% |
 | Doble oportunidad: X2 | 91% | 82% | 86% | 1.17 | +1% |
 | Doble oportunidad: 12 | 87% | 78% | 82% | 1.22 | +1% |
 | Doble oportunidad: 1X | 22% | 40% | 31% | 2.38 | -26% |
 | Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
 | Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |
-| Goles más/menos: Más de 2.5 | 73% | 59% | 66% | 1.62 | +7% |
-| Goles más/menos: Más de 3.5 | 52% | 40% | 46% | 2.38 | +10% |
-| Goles más/menos: Más de 4.5 | 33% | 22% | 27% | 4.33 | +19% |
+| Goles más/menos: Más de 2.5 | 73% | 59% | 66% | 1.62 | +6% |
+| Goles más/menos: Más de 3.5 | 52% | 40% | 46% | 2.38 | +9% |
+| Goles más/menos: Más de 4.5 | 33% | 22% | 27% | 4.33 | +18% |
 | Goles más/menos: Menos de 2.5 | 27% | 41% | 34% | 2.30 | -21% |
 | Goles más/menos: Menos de 3.5 | 48% | 60% | 54% | 1.57 | -15% |
 | Goles más/menos: Menos de 4.5 | 67% | 78% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 73% | 77% | 1.28 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 19% | 27% | 23% | 3.50 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -14% |
@@ -204,11 +204,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 23% | 28% | 25% | 3.40 | -14% |
 | Goles del local: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
 | Goles del local: Menos de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 78% | 61% | 70% | 1.53 | +6% |
+| Goles del visitante: Más de 1.5 | 78% | 61% | 69% | 1.53 | +6% |
 | Goles del visitante: Más de 2.5 | 55% | 35% | 45% | 2.62 | +18% |
-| Goles del visitante: Menos de 1.5 | 22% | 39% | 30% | 2.38 | -28% |
+| Goles del visitante: Menos de 1.5 | 22% | 39% | 31% | 2.38 | -27% |
 | Goles del visitante: Menos de 2.5 | 45% | 65% | 55% | 1.44 | -21% |
 | 1X2 descanso: 2 | 58% | 45% | 52% | 2.05 | +6% |
-| 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -17% |
+| 1X2 descanso: X | 30% | 37% | 33% | 2.50 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

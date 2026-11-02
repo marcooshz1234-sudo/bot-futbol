@@ -1,7 +1,7 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -174,25 +174,25 @@ _Sin bajas comunicadas por ahora._
 | Maarten Paes | G | 5 | 457 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,56 · córners esperados 9,0._
+_Goles esperados: local 1,63 · visitante 1,55 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 40% | 38% | 2.30 | -12% |
+| 1X2: 2 | 36% | 40% | 38% | 2.30 | -12% |
 | 1X2: X | 23% | 26% | 25% | 3.50 | -13% |
 | 1X2: 1 | 40% | 34% | 37% | 2.75 | +1% |
-| Doble oportunidad: X2 | 60% | 67% | 64% | 1.40 | -11% |
+| Doble oportunidad: X2 | 60% | 67% | 63% | 1.40 | -11% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 63% | 60% | 62% | 1.57 | -3% |
-| Ambos marcan: No | 36% | 34% | 35% | 2.75 | -3% |
-| Ambos marcan: Sí | 64% | 66% | 65% | 1.40 | -9% |
+| Doble oportunidad: 1X | 64% | 60% | 62% | 1.57 | -3% |
+| Ambos marcan: No | 37% | 34% | 35% | 2.75 | -3% |
+| Ambos marcan: Sí | 63% | 66% | 65% | 1.40 | -9% |
 | Goles más/menos: Más de 2.5 | 62% | 64% | 63% | 1.48 | -7% |
-| Goles más/menos: Más de 3.5 | 40% | 44% | 42% | 2.10 | -12% |
+| Goles más/menos: Más de 3.5 | 39% | 44% | 42% | 2.10 | -12% |
 | Goles más/menos: Más de 4.5 | 22% | 25% | 23% | 3.75 | -12% |
 | Goles más/menos: Menos de 2.5 | 38% | 36% | 37% | 2.60 | -3% |
-| Goles más/menos: Menos de 3.5 | 60% | 56% | 58% | 1.67 | -3% |
+| Goles más/menos: Menos de 3.5 | 61% | 56% | 58% | 1.67 | -3% |
 | Goles más/menos: Menos de 4.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 44% | 42% | 2.10 | -11% |
@@ -207,9 +207,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 51% | 54% | 52% | 1.73 | -9% |
 | Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles del visitante: Más de 2.5 | 21% | 27% | 24% | 3.50 | -17% |
+| Goles del visitante: Más de 2.5 | 20% | 27% | 24% | 3.50 | -17% |
 | Goles del visitante: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Goles del visitante: Menos de 2.5 | 79% | 73% | 76% | 1.28 | -2% |
+| Goles del visitante: Menos de 2.5 | 80% | 73% | 76% | 1.28 | -2% |
 | 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -13% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
 | 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -5% |

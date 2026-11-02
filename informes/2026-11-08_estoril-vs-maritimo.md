@@ -1,7 +1,7 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,42 +9,42 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Estoril (total) | Estoril en casa | Maritimo (total) | Maritimo fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 10 | 6 |
-| Forma (últimos 5) | DDEDD | DDEDE | DVDED | DVEDD |
-| Balance | 0V 3E 8D | 0V 2E 3D | 3V 2E 5D | 2V 1E 3D |
-| Goles a favor / partido | 0,55 | 0,60 | 1,10 | 1,17 |
+| Partidos analizados | 11 | 5 | 11 | 6 |
+| Forma (últimos 5) | DDEDD | DDEDE | DDVDE | DVEDD |
+| Balance | 0V 3E 8D | 0V 2E 3D | 3V 2E 6D | 2V 1E 3D |
+| Goles a favor / partido | 0,55 | 0,60 | 1,00 | 1,17 |
 | Goles en contra / partido | 1,82 | 1,60 | 2,00 | 2,17 |
-| Goles a favor 1ª parte | 0,00 | 0,00 | 0,30 | 0,33 |
-| Goles a favor 2ª parte | 0,55 | 0,60 | 0,80 | 0,83 |
+| Goles a favor 1ª parte | 0,00 | 0,00 | 0,27 | 0,33 |
+| Goles a favor 2ª parte | 0,55 | 0,60 | 0,73 | 0,83 |
 | Goles en contra 1ª parte | 0,73 | 1,00 | 1,00 | 1,00 |
 | Goles en contra 2ª parte | 1,09 | 0,60 | 1,00 | 1,17 |
-| Más de 1,5 goles | 82% | 80% | 90% | 100% |
-| Más de 2,5 goles | 45% | 40% | 80% | 83% |
-| Más de 3,5 goles | 18% | 20% | 30% | 33% |
-| Ambos marcan | 55% | 60% | 70% | 83% |
-| Portería a cero | 9% | 20% | 10% | 0% |
-| Se queda sin marcar | 45% | 40% | 20% | 17% |
-| xG a favor | 1,01 | 1,22 | 0,83 | 0,89 |
-| xG en contra | 1,65 | 1,36 | 1,48 | 1,48 |
-| Tiros / partido | 13,7 | 18,0 | 9,9 | 10,0 |
-| Tiros a puerta / partido | 4,7 | 6,0 | 3,1 | 3,0 |
-| Tiros recibidos | 14,9 | 9,0 | 14,3 | 15,6 |
-| Tiros a puerta recibidos | 5,0 | 3,0 | 5,8 | 5,6 |
+| Más de 1,5 goles | 82% | 80% | 91% | 100% |
+| Más de 2,5 goles | 45% | 40% | 73% | 83% |
+| Más de 3,5 goles | 18% | 20% | 27% | 33% |
+| Ambos marcan | 55% | 60% | 64% | 83% |
+| Portería a cero | 9% | 20% | 9% | 0% |
+| Se queda sin marcar | 45% | 40% | 27% | 17% |
+| xG a favor | 1,01 | 1,22 | 0,96 | 0,89 |
+| xG en contra | 1,65 | 1,36 | 1,42 | 1,48 |
+| Tiros / partido | 13,7 | 18,0 | 10,6 | 10,0 |
+| Tiros a puerta / partido | 4,7 | 6,0 | 3,4 | 3,0 |
+| Tiros recibidos | 14,9 | 9,0 | 14,0 | 15,6 |
+| Tiros a puerta recibidos | 5,0 | 3,0 | 5,7 | 5,6 |
 | Posesión media % | 48 | 55 | 45 | 45 |
-| Córners a favor | 4,5 | 6,8 | 3,1 | 3,4 |
-| Córners en contra | 4,9 | 3,6 | 4,7 | 4,0 |
-| Córners a favor 1ª parte | 2,1 | 3,4 | 1,9 | 2,2 |
-| Córners a favor 2ª parte | 2,4 | 3,4 | 1,2 | 1,2 |
-| Córners totales del partido | 9,4 | 10,4 | 7,8 | 7,4 |
-| Córners totales 1ª parte | 4,7 | 5,6 | 3,7 | 3,8 |
-| Córners totales 2ª parte | 4,7 | 4,8 | 4,1 | 3,6 |
-| Más de 8,5 córners | 70% | 100% | 22% | 20% |
-| Más de 9,5 córners | 40% | 60% | 11% | 20% |
-| Más de 10,5 córners | 30% | 40% | 11% | 20% |
-| Faltas cometidas | 11,2 | 11,8 | 15,0 | 13,2 |
-| Faltas recibidas | 13,3 | 12,0 | 12,8 | 11,4 |
-| Amarillas propias | 2,0 | 2,4 | 1,9 | 2,0 |
-| Amarillas del rival | 1,3 | 1,4 | 2,4 | 1,8 |
+| Córners a favor | 4,5 | 6,8 | 3,3 | 3,4 |
+| Córners en contra | 4,9 | 3,6 | 4,4 | 4,0 |
+| Córners a favor 1ª parte | 2,1 | 3,4 | 1,7 | 2,2 |
+| Córners a favor 2ª parte | 2,4 | 3,4 | 1,6 | 1,2 |
+| Córners totales del partido | 9,4 | 10,4 | 7,7 | 7,4 |
+| Córners totales 1ª parte | 4,7 | 5,6 | 3,4 | 3,8 |
+| Córners totales 2ª parte | 4,7 | 4,8 | 4,3 | 3,6 |
+| Más de 8,5 córners | 70% | 100% | 20% | 20% |
+| Más de 9,5 córners | 40% | 60% | 10% | 20% |
+| Más de 10,5 córners | 30% | 40% | 10% | 20% |
+| Faltas cometidas | 11,2 | 11,8 | 15,2 | 13,2 |
+| Faltas recibidas | 13,3 | 12,0 | 13,3 | 11,4 |
+| Amarillas propias | 2,0 | 2,4 | 2,0 | 2,0 |
+| Amarillas del rival | 1,3 | 1,4 | 2,5 | 1,8 |
 | Rojas / partido | 0,20 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 4 | 1 | 0 | 3 | 1 |
 | 16-30' | 0 | 2 | 4 | 3 | 3 | 1 |
-| 31-45' | 0 | 2 | 6 | 0 | 4 | 8 |
-| 46-60' | 1 | 1 | 1 | 1 | 3 | 4 |
-| 61-75' | 2 | 6 | 7 | 3 | 2 | 2 |
-| 76-90' | 3 | 5 | 8 | 4 | 5 | 7 |
+| 31-45' | 0 | 2 | 6 | 0 | 5 | 8 |
+| 46-60' | 1 | 1 | 1 | 1 | 4 | 5 |
+| 61-75' | 2 | 6 | 7 | 3 | 2 | 3 |
+| 76-90' | 3 | 5 | 8 | 4 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -107,38 +107,38 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Maritimo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Primeira Liga | Maritimo 0-2 Santa Clara | casa | 5-2 | 17 (6) - 11 (5) | 3-3 |
 | 2026-10-23 | Primeira Liga | Vitória SC 5-0 Maritimo | fuera | 5-6 | 10 (2) - 17 (8) | 3-4 |
 | 2026-10-18 | Taça de Portugal | Alcochetense 1-2 Maritimo | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Maritimo 1-2 FC Porto | casa | 2-6 | 7 (4) - 19 (8) | 1-2 |
 | 2026-09-19 | Primeira Liga | GIL Vicente 1-1 Maritimo | fuera | 3-4 | 10 (3) - 19 (4) | 1-1 |
 | 2026-09-14 | Primeira Liga | Moreirense 3-1 Maritimo | fuera | 5-3 | 9 (2) - 11 (5) | 3-1 |
-| 2026-09-05 | Primeira Liga | Maritimo 0-3 Benfica | casa | 3-5 | 6 (1) - 11 (6) | 2-3 |
 
 ## Jugadores de Maritimo
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Paulo Henrique | D | 9 | 810 | 1 | 0 | 8 | 0,9 | 3 | 0,3 | 8 | 10 | 1,1 | 0 | 0 |
-| Romain Correia | D | 9 | 810 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 5 | 6 | 0,7 | 0 | 0 |
-| Igor Julião | D | 9 | 798 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 19 | 9 | 1,0 | 4 | 0 |
-| Martín Tejón | M | 9 | 747 | 1 | 1 | 15 | 1,7 | 5 | 0,6 | 10 | 22 | 2,4 | 0 | 0 |
-| Raphael Guzzo | M | 9 | 747 | 1 | 0 | 5 | 0,6 | 4 | 0,4 | 13 | 10 | 1,1 | 4 | 0 |
-| Adrián Butzke | F | 9 | 727 | 1 | 0 | 10 | 1,1 | 1 | 0,1 | 14 | 13 | 1,4 | 1 | 0 |
-| Rodrigo Andrade | M | 9 | 685 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 21 | 6 | 0,7 | 3 | 0 |
+| Romain Correia | D | 10 | 900 | 1 | 0 | 6 | 0,6 | 1 | 0,1 | 6 | 6 | 0,6 | 0 | 0 |
+| Paulo Henrique | M | 10 | 900 | 1 | 0 | 9 | 0,9 | 3 | 0,3 | 8 | 12 | 1,2 | 0 | 0 |
+| Igor Julião | M | 10 | 888 | 0 | 0 | 4 | 0,4 | 3 | 0,3 | 21 | 11 | 1,1 | 4 | 0 |
+| Raphael Guzzo | M | 10 | 836 | 1 | 0 | 5 | 0,5 | 4 | 0,4 | 13 | 10 | 1,0 | 4 | 0 |
+| Martín Tejón | F | 10 | 836 | 1 | 1 | 19 | 1,9 | 7 | 0,7 | 12 | 26 | 2,6 | 0 | 0 |
+| Adrián Butzke | F | 10 | 817 | 1 | 0 | 14 | 1,4 | 3 | 0,3 | 15 | 17 | 1,7 | 1 | 0 |
+| Rodrigo Andrade | M | 10 | 751 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 22 | 6 | 0,6 | 3 | 0 |
+| Rafael Fernandes | D | 7 | 627 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 6 | 0,9 | 0 | 0 |
 | Alfonso Pastor | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-| Rafael Fernandes | D | 6 | 537 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
 | Vladan Danilović | M | 7 | 512 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 9 | 5 | 0,7 | 1 | 0 |
-| M. Diouri | F | 5 | 291 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 5 | 1,0 | 0 | 0 |
-| G. Szalai | D | 5 | 280 | 1 | 0 | 4 | 0,8 | 2 | 0,4 | 2 | 1 | 0,2 | 0 | 0 |
-| Fran Vieites | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| Fran Vieites | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 1 | 0 |
+| G. Szalai | D | 6 | 354 | 1 | 0 | 4 | 0,7 | 2 | 0,3 | 4 | 1 | 0,2 | 1 | 0 |
+| M. Diouri | F | 6 | 315 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 7 | 6 | 1,0 | 1 | 0 |
 | M. Dominguez | M | 6 | 257 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 7 | 3 | 0,5 | 1 | 0 |
 | Bryan Limbombe | F | 4 | 188 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
+| I. Alani | M | 4 | 146 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | Tomás Tavares | M | 4 | 132 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 2 | 0 |
-| Maurice Osei Boakye | F | 9 | 129 | 1 | 1 | 3 | 0,3 | 2 | 0,2 | 5 | 5 | 0,6 | 0 | 0 |
-| S. Bamba | F | 7 | 128 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 2 | 6 | 0,9 | 0 | 0 |
-| I. Alani | M | 3 | 122 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Israel Ayuma | M | 5 | 113 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
+| Maurice Osei Boakye | F | 10 | 130 | 1 | 1 | 3 | 0,3 | 2 | 0,2 | 6 | 5 | 0,5 | 0 | 0 |
+| S. Bamba | F | 8 | 129 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 7 | 0,9 | 0 | 0 |
+| I. Ayuma | M | 6 | 129 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 3 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,24 · córners esperados 9,3._
+_Goles esperados: local 1,08 · visitante 1,28 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

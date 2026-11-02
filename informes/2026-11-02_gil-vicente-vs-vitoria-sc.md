@@ -1,10 +1,10 @@
 # GIL Vicente – Vitória SC
 **Primeira Liga** · Regular Season - 10 · 02/11/2026 21:15 (hora España) · Estadio Cidade de Barcelos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:54_
+_Actualizadas: 02/11 02:09_
 
 - **1X2:** 1 **2.88**  ·  X **3.25**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
@@ -194,35 +194,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 35% | 38% | 36% | 2.50 | -9% |
-| 1X2: X | 32% | 29% | 31% | 3.25 | -1% |
-| 1X2: 1 | 33% | 33% | 33% | 2.88 | -4% |
-| Doble oportunidad: X2 | 67% | 67% | 67% | 1.40 | -7% |
+| 1X2: X | 32% | 29% | 30% | 3.25 | -1% |
+| 1X2: 1 | 34% | 33% | 33% | 2.88 | -4% |
+| Doble oportunidad: X2 | 66% | 67% | 67% | 1.40 | -7% |
 | Doble oportunidad: 12 | 68% | 71% | 69% | 1.33 | -8% |
 | Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 63% | 52% | 57% | 1.80 | +3% |
-| Ambos marcan: Sí | 37% | 48% | 43% | 1.95 | -17% |
-| Goles más/menos: Más de 1.5 | 56% | 69% | 63% | 1.36 | -15% |
-| Goles más/menos: Más de 2.5 | 29% | 43% | 36% | 2.20 | -20% |
-| Goles más/menos: Más de 3.5 | 12% | 23% | 18% | 4.00 | -28% |
-| Goles más/menos: Menos de 1.5 | 44% | 31% | 37% | 3.00 | +12% |
-| Goles más/menos: Menos de 2.5 | 71% | 57% | 64% | 1.65 | +5% |
-| Goles más/menos: Menos de 3.5 | 88% | 77% | 82% | 1.22 | +0% |
+| Ambos marcan: No | 62% | 52% | 57% | 1.80 | +3% |
+| Ambos marcan: Sí | 38% | 48% | 43% | 1.95 | -17% |
+| Goles más/menos: Más de 1.5 | 57% | 69% | 63% | 1.36 | -15% |
+| Goles más/menos: Más de 2.5 | 30% | 43% | 36% | 2.20 | -20% |
+| Goles más/menos: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
+| Goles más/menos: Menos de 1.5 | 43% | 31% | 37% | 3.00 | +12% |
+| Goles más/menos: Menos de 2.5 | 70% | 57% | 64% | 1.65 | +5% |
+| Goles más/menos: Menos de 3.5 | 87% | 77% | 82% | 1.22 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 65% | 60% | 1.44 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 44% | 35% | 40% | 2.62 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 71% | 75% | 1.33 | +0% |
 | Goles del local: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
+| Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
 | Goles del local: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
+| Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
 | Goles del visitante: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |
 | Goles del visitante: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
 | Goles del visitante: Menos de 0.5 | 38% | 29% | 34% | 3.25 | +9% |
-| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +1% |
+| Goles del visitante: Menos de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |
 | 1X2 descanso: 2 | 25% | 29% | 27% | 3.20 | -15% |
-| 1X2 descanso: X | 52% | 45% | 48% | 2.05 | -1% |
+| 1X2 descanso: X | 51% | 45% | 48% | 2.05 | -1% |
 | 1X2 descanso: 1 | 24% | 26% | 25% | 3.50 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

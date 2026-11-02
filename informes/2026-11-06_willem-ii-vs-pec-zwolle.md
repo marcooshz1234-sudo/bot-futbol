@@ -1,7 +1,7 @@
 # Willem II – PEC Zwolle
 **Eredivisie** · Regular Season - 12 · 06/11/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -194,7 +194,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 35% | 30% | 33% | 3.10 | +1% |
 | Doble oportunidad: X2 | 65% | 69% | 67% | 1.36 | -9% |
 | Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 60% | 55% | 57% | 1.70 | -2% |
+| Doble oportunidad: 1X | 60% | 55% | 58% | 1.70 | -2% |
 | Ambos marcan: No | 41% | 35% | 38% | 2.62 | +0% |
 | Ambos marcan: Sí | 59% | 65% | 62% | 1.44 | -11% |
 | Goles más/menos: Más de 2.5 | 56% | 64% | 60% | 1.48 | -12% |

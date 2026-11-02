@@ -1,7 +1,7 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:48_
@@ -171,16 +171,16 @@ _Sin precedentes recientes._
 | Dominik Hollý | M | 2 | 26 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,91 · visitante 1,57 · córners esperados 9,3._
+_Goles esperados: local 0,91 · visitante 1,56 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 53% | 32% | 43% | 2.88 | +22% |
+| 1X2: 2 | 53% | 32% | 42% | 2.88 | +22% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
 | 1X2: 1 | 22% | 40% | 31% | 2.30 | -28% |
-| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +9% |
+| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +8% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 47% | 67% | 57% | 1.40 | -20% |
 | Ambos marcan: No | 53% | 46% | 50% | 2.00 | -1% |

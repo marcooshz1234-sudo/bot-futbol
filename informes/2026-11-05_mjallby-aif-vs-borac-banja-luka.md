@@ -1,7 +1,7 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -178,7 +178,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 39% | 30% | 35% | 3.10 | +7% |
-| 1X2: X | 29% | 27% | 28% | 3.40 | -5% |
+| 1X2: X | 29% | 27% | 28% | 3.40 | -4% |
 | 1X2: 1 | 32% | 43% | 37% | 2.15 | -20% |
 | Doble oportunidad: X2 | 68% | 57% | 63% | 1.67 | +5% |
 | Doble oportunidad: 12 | 71% | 73% | 72% | 1.30 | -6% |

@@ -1,10 +1,10 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 02/11/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:54_
+_Actualizadas: 02/11 02:09_
 
 - **1X2:** 1 **2.45**  ·  X **3.10**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
@@ -61,6 +61,7 @@ _Actualizadas: 01/11 13:54_
     - 25,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **1.73**  ·  X **15.00**  ·  2 **2.10**
 - **Home Player Shots On Target Total:** Mohamed Bamba - 1 **1.40**  ·  Tosin Aiyegun - 1 **1.53**  ·  Jean-Victor Makengo - 1 **1.83**  ·  Mamadou Kone - 1 **1.33**  ·  Gabin Bernardeau - 1 **1.91**  ·  Souleymane Faye - 1 **1.53**  ·  Panos Katseris - 1 **1.91**  ·  Theo Le Bris - 1 **3.75**  ·  Noah Cadiou - 1 **2.62**  ·  Daniel Semedo - 1 **2.75**  ·  Arthur Avom - 1 **2.75**  ·  Arsene Kouassi - 1 **3.75**  ·  Enzo Genton - 1 **7.00**  ·  Souleymane Toure - 1 **3.40**  ·  Alec Georgen - 1 **7.00**  ·  Dembo Sylla - 1 **4.33**  ·  Montassar Talbi - 1 **4.00**  ·  Nathaniel Adjei - 1 **7.00**  ·  Mohamed Bamba - 2 **2.75**  ·  Tosin Aiyegun - 2 **3.75**  ·  Jean-Victor Makengo - 2 **5.50**  ·  Mamadou Kone - 2 **2.62**  ·  Gabin Bernardeau - 2 **6.00**  ·  Souleymane Faye - 2 **3.75**  ·  Panos Katseris - 2 **6.00**  ·  Theo Le Bris - 2 **21.00**  ·  Noah Cadiou - 2 **11.00**  ·  Daniel Semedo - 2 **13.00**  ·  Arthur Avom - 2 **13.00**  ·  Arsene Kouassi - 2 **21.00**  ·  Enzo Genton - 2 **19.00**  ·  Souleymane Toure - 2 **17.00**  ·  Alec Georgen - 2 **19.00**  ·  Dembo Sylla - 2 **21.00**  ·  Montassar Talbi - 2 **21.00**  ·  Nathaniel Adjei - 2 **21.00**  ·  Mohamed Bamba - 3 **7.00**  ·  Tosin Aiyegun - 3 **11.00**  ·  Jean-Victor Makengo - 3 **19.00**  ·  Mamadou Kone - 3 **6.50**  ·  Gabin Bernardeau - 3 **21.00**  ·  Souleymane Faye - 3 **11.00**  ·  Panos Katseris - 3 **21.00**  ·  Theo Le Bris - 3 **21.00**  ·  Mohamed Bamba - 4 **21.00**  ·  Mamadou Kone - 4 **17.00**  ·  Isak Jensen - 1 **1.91**  ·  Isak Jensen - 2 **6.00**  ·  Isak Jensen - 3 **21.00**  ·  Isak Jensen - 4 **21.00**  ·  Srdjan Kuzmic - 1 **2.20**  ·  Srdjan Kuzmic - 2 **8.00**  ·  Nosa Obaretin - 1 **5.50**  ·  Nosa Obaretin - 2 **19.00**  ·  Ibrahima Balde - 1 **1.73**  ·  Ibrahima Balde - 2 **4.50**  ·  Ibrahima Balde - 3 **15.00**  ·  Ibrahima Balde - 4 **21.00**
+- **Away Player Shots On Target Total:** Hugo Magnetti **101.00**  ·  Kamory Doumbia **34.00**  ·  Kenny Lala **101.00**  ·  Ludovic Ajorque **8.50**  ·  Isak Jensen **11.00**  ·  Noah Cadiou **23.00**  ·  Joseph Nonge **29.00**  ·  Nathaniel Adjei **21.00**  ·  Arthur Avom **26.00**  ·  Panos Katseris **23.00**  ·  Tosin Aiyegun **10.00**  ·  Jean-Victor Makengo **21.00**  ·  Souleymane Faye **23.00**  ·  Gautier Lloris **23.00**  ·  Joris Chotard **101.00**  ·  Mama Balde **19.00**  ·  Bradley Locko **126.00**  ·  Luc Zogbe **34.00**  ·  Mamady Diambou **34.00**  ·  Dembo Sylla **26.00**  ·  Nosa Obaretin **13.00**  ·  Noah Edjouma **21.00**  ·  Giovani Versini **21.00**  ·  Enzo Genton **15.00**  ·  Enzo Monchatre **19.00**  ·  Mohamed Bamba **10.00**  ·  Montassar Talbi **21.00**  ·  Lucas Tousart **41.00**  ·  Souleymane Toure **13.00**  ·  Alec Georgen **23.00**  ·  Raphael Le Guen **41.00**  ·  Ibrahim Kante **29.00**  ·  Justin Bourgault **81.00**  ·  Gabin Bernardeau **34.00**  ·  Theo Le Bris **23.00**
 - **Away Player Shots Total:**
     - 11,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Mohamed Bamba - 5 **4.00**  ·  Mohamed Bamba - 1 **1.03**  ·  Tosin Aiyegun - 1 **1.07**  ·  Jean-Victor Makengo - 1 **1.11**  ·  Mamadou Kone - 1 **1.02**  ·  Gabin Bernardeau - 1 **1.12**  ·  Souleymane Faye - 1 **1.06**  ·  Panos Katseris - 1 **1.20**  ·  Theo Le Bris - 1 **1.62**  ·  Noah Cadiou - 1 **1.33**  ·  Daniel Semedo - 1 **1.62**  ·  Arthur Avom - 1 **1.50**  ·  Arsene Kouassi - 1 **2.38**  ·  Enzo Genton - 1 **3.00**  ·  Souleymane Toure - 1 **1.67**  ·  Alec Georgen - 1 **3.00**  ·  Dembo Sylla - 1 **2.38**  ·  Montassar Talbi - 1 **1.80**  ·  Nathaniel Adjei - 1 **3.00**  ·  Mohamed Bamba - 2 **1.18**  ·  Tosin Aiyegun - 2 **1.36**  ·  Jean-Victor Makengo - 2 **1.50**  ·  Mamadou Kone - 2 **1.17**  ·  Gabin Bernardeau - 2 **1.53**  ·  Souleymane Faye - 2 **1.33**  ·  Panos Katseris - 2 **1.83**  ·  Theo Le Bris - 2 **3.75**  ·  Noah Cadiou - 2 **2.50**  ·  Daniel Semedo - 2 **3.75**  ·  Arthur Avom - 2 **3.25**  ·  Arsene Kouassi - 2 **8.00**  ·  Enzo Genton - 2 **11.00**  ·  Souleymane Toure - 2 **4.00**  ·  Alec Georgen - 2 **11.00**  ·  Dembo Sylla - 2 **8.00**  ·  Montassar Talbi - 2 **4.50**  ·  Nathaniel Adjei - 2 **11.00**  ·  Mohamed Bamba - 3 **1.57**  ·  Tosin Aiyegun - 3 **2.00**  ·  Jean-Victor Makengo - 3 **2.50**  ·  Mamadou Kone - 3 **1.50**  ·  Gabin Bernardeau - 3 **2.62**  ·  Souleymane Faye - 3 **1.91**  ·  Panos Katseris - 3 **3.50**  ·  Theo Le Bris - 3 **11.00**  ·  Noah Cadiou - 3 **5.50**  ·  Daniel Semedo - 3 **11.00**  ·  Arthur Avom - 3 **8.00**  ·  Arsene Kouassi - 3 **21.00**  ·  Enzo Genton - 3 **11.00**  ·  Souleymane Toure - 3 **11.00**  ·  Alec Georgen - 3 **13.00**  ·  Dembo Sylla - 3 **21.00**  ·  Montassar Talbi - 3 **13.00**  ·  Nathaniel Adjei - 3 **15.00**  ·  Mohamed Bamba - 4 **2.38**  ·  Tosin Aiyegun - 4 **3.50**  ·  Jean-Victor Makengo - 4 **4.50**  ·  Mamadou Kone - 4 **2.20**  ·  Gabin Bernardeau - 4 **5.00**  ·  Souleymane Faye - 4 **3.25**  ·  Panos Katseris - 4 **8.00**  ·  Theo Le Bris - 4 **21.00**  ·  Noah Cadiou - 4 **13.00**  ·  Daniel Semedo - 4 **21.00**  ·  Arthur Avom - 4 **21.00**  ·  Arsene Kouassi - 4 **21.00**  ·  Tosin Aiyegun - 5 **7.00**  ·  Jean-Victor Makengo - 5 **10.00**  ·  Mamadou Kone - 5 **3.75**  ·  Gabin Bernardeau - 5 **11.00**  ·  Souleymane Faye - 5 **6.00**  ·  Panos Katseris - 5 **17.00**  ·  Theo Le Bris - 5 **19.00**  ·  Mohamed Bamba - 6 **7.00**  ·  Tosin Aiyegun - 6 **15.00**  ·  Jean-Victor Makengo - 6 **21.00**  ·  Mamadou Kone - 6 **6.50**  ·  Gabin Bernardeau - 6 **21.00**  ·  Souleymane Faye - 6 **13.00**  ·  Panos Katseris - 6 **21.00**  ·  Mohamed Bamba - 7 **15.00**  ·  Tosin Aiyegun - 7 **21.00**  ·  Mohamed Bamba - 8 **21.00**  ·  Isak Jensen - 1 **1.10**  ·  Isak Jensen - 2 **1.44**  ·  Isak Jensen - 3 **2.25**  ·  Isak Jensen - 4 **4.00**  ·  Isak Jensen - 5 **9.00**  ·  Isak Jensen - 6 **17.00**  ·  Isak Jensen - 7 **17.00**  ·  Isak Jensen - 8 **21.00**  ·  Srdjan Kuzmic - 1 **1.62**  ·  Srdjan Kuzmic - 2 **3.75**  ·  Srdjan Kuzmic - 3 **11.00**  ·  Srdjan Kuzmic - 4 **21.00**  ·  Nosa Obaretin - 1 **1.80**  ·  Nosa Obaretin - 2 **4.50**  ·  Nosa Obaretin - 3 **13.00**  ·  Mamadou Kone - 7 **13.00**  ·  Ibrahima Balde - 1 **1.04**  ·  Ibrahima Balde - 2 **1.25**  ·  Ibrahima Balde - 3 **1.73**  ·  Ibrahima Balde - 4 **2.75**  ·  Ibrahima Balde - 5 **5.00**  ·  Ibrahima Balde - 6 **10.00**  ·  Ibrahima Balde - 7 **19.00**  ·  Souleymane Faye - 7 **21.00**  ·  Mamadou Kone - 8 **21.00**
@@ -203,35 +204,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,98 · visitante 1,10 · córners esperados 9,3._
+_Goles esperados: local 0,98 · visitante 1,11 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 31% | 34% | 3.10 | +7% |
 | 1X2: X | 30% | 31% | 30% | 3.10 | -6% |
-| 1X2: 1 | 32% | 39% | 35% | 2.45 | -14% |
+| 1X2: 1 | 32% | 39% | 35% | 2.45 | -13% |
 | Doble oportunidad: X2 | 68% | 62% | 65% | 1.53 | -1% |
 | Doble oportunidad: 12 | 70% | 69% | 70% | 1.36 | -5% |
 | Doble oportunidad: 1X | 62% | 69% | 66% | 1.36 | -11% |
-| Ambos marcan: No | 58% | 48% | 53% | 1.95 | +4% |
-| Ambos marcan: Sí | 42% | 52% | 47% | 1.80 | -16% |
-| Goles más/menos: Más de 1.5 | 61% | 72% | 67% | 1.33 | -11% |
-| Goles más/menos: Más de 2.5 | 34% | 45% | 40% | 2.10 | -16% |
-| Goles más/menos: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles más/menos: Menos de 1.5 ✅ | 39% | 28% | 33% | 3.40 | +13% |
-| Goles más/menos: Menos de 2.5 | 66% | 55% | 60% | 1.73 | +4% |
+| Ambos marcan: No | 58% | 48% | 53% | 1.95 | +3% |
+| Ambos marcan: Sí | 42% | 52% | 47% | 1.80 | -15% |
+| Goles más/menos: Más de 1.5 | 62% | 72% | 67% | 1.33 | -11% |
+| Goles más/menos: Más de 2.5 | 35% | 45% | 40% | 2.10 | -16% |
+| Goles más/menos: Más de 3.5 | 16% | 25% | 21% | 3.75 | -22% |
+| Goles más/menos: Menos de 1.5 ✅ | 38% | 28% | 33% | 3.40 | +13% |
+| Goles más/menos: Menos de 2.5 | 65% | 55% | 60% | 1.73 | +4% |
 | Goles más/menos: Menos de 3.5 | 84% | 75% | 79% | 1.28 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
-| Goles del local: Más de 0.5 | 62% | 73% | 68% | 1.28 | -13% |
+| Goles del local: Más de 0.5 | 63% | 73% | 68% | 1.28 | -13% |
 | Goles del local: Más de 1.5 | 26% | 39% | 32% | 2.38 | -23% |
-| Goles del local: Menos de 0.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del local: Menos de 1.5 | 74% | 61% | 68% | 1.53 | +4% |
+| Goles del local: Menos de 0.5 ✅ | 37% | 27% | 32% | 3.50 | +12% |
+| Goles del local: Menos de 1.5 | 74% | 61% | 68% | 1.53 | +3% |
 | Goles del visitante: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del visitante: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles del visitante: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del visitante: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del visitante: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
 | Córners más/menos: Más de 9.5 | 43% | 44% | 44% | 2.10 | -8% |
 | Córners más/menos: Menos de 9.5 | 57% | 56% | 56% | 1.67 | -6% |

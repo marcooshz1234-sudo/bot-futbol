@@ -1,12 +1,12 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:50_
+_Actualizadas: 02/11 02:10_
 
-- **1X2:** 1 **3.75**  ·  X **3.50**  ·  2 **1.90**
+- **1X2:** 1 **3.90**  ·  X **3.50**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
@@ -23,13 +23,13 @@ _Actualizadas: 31/10 19:50_
 - **Goles del local:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.80** · menos **1.91**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.38**  ·  2 **2.50**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.38**  ·  2 **2.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -37,14 +37,14 @@ _Actualizadas: 31/10 19:50_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.62**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.62**
 - **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **13.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **13.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
 - **Away Player Shots On Target Total:** Daizen Maeda **11.00**  ·  Alvaro Rodriguez **7.00**  ·  Sindre Walle **17.00**  ·  Cedric Kipre **17.00**  ·  Ben Doak **26.00**  ·  Antonio Silva **13.00**  ·  Marcelino Nunez **51.00**  ·  Julio Soler **81.00**  ·  Darnell Furlong **41.00**  ·  Anis Mehmeti **34.00**  ·  Zian Flemming **11.00**  ·  Bafode Diakite **13.00**  ·  Daniel Jebbison **8.50**  ·  Adrien Truffert **101.00**  ·  Abdoul Ouattara **41.00**  ·  Chuba Akpom **13.00**  ·  Juanlu Sanchez **51.00**  ·  Tyler Adams **67.00**  ·  Luis Florentino **23.00**  ·  Veljko Milosavljevic **23.00**  ·  Alex Toth **34.00**  ·  Adam Smith **126.00**  ·  Alex Scott **51.00**  ·  Justin Kluivert **67.00**  ·  Lewis Cook **81.00**  ·  Marcus Tavernier **26.00**  ·  Ryan Christie **51.00**  ·  Sasa Lukic **34.00**  ·  Dara O'Shea **21.00**  ·  Jack Clarke **34.00**  ·  Jacob Greaves **23.00**  ·  Leif Davis **34.00**  ·  Rayan Vitor **21.00**  ·  Julio Enciso **19.00**  ·  Jaden Philogene-Bidace **67.00**  ·  David Brooks **21.00**  ·  James Hill **11.00**  ·  Kasey McAteer **41.00**  ·  Evanilson **9.00**  ·  Issa Diop **21.00**  ·  Issahaku Fatawu **51.00**  ·  Amine Adli **19.00**  ·  Exequiel Palacios **67.00**  ·  Emersonn Silva **11.00**
-- **Anytime Goal Scorer:** Daizen Maeda **4.00**  ·  Alvaro Rodriguez **2.88**  ·  Sindre Walle **4.33**  ·  Cedric Kipre **12.00**  ·  Ben Doak **4.00**  ·  Antonio Silva **9.00**  ·  Marcelino Nunez **6.00**  ·  Julio Soler **15.00**  ·  Darnell Furlong **15.00**  ·  Anis Mehmeti **4.00**  ·  Zian Flemming **3.60**  ·  Bafode Diakite **9.00**  ·  Daniel Jebbison **2.75**  ·  Adrien Truffert **12.00**  ·  Abdoul Ouattara **7.50**  ·  Chuba Akpom **3.75**  ·  Juanlu Sanchez **5.50**  ·  Tyler Adams **12.00**  ·  Luis Florentino **10.00**  ·  Veljko Milosavljevic **12.00**  ·  Alex Toth **7.50**  ·  Adam Smith **15.00**  ·  Alex Scott **6.00**  ·  Justin Kluivert **3.60**  ·  Lewis Cook **9.00**  ·  Marcus Tavernier **4.00**  ·  Ryan Christie **6.00**  ·  Sasa Lukic **10.00**  ·  Dara O'Shea **12.00**  ·  Jack Clarke **4.00**  ·  Jacob Greaves **15.00**  ·  Leif Davis **12.00**  ·  Rayan Vitor **3.25**  ·  Julio Enciso **4.00**  ·  Jaden Philogene-Bidace **4.00**  ·  David Brooks **3.60**  ·  James Hill **9.00**  ·  Kasey McAteer **4.75**  ·  Evanilson **2.40**  ·  Issa Diop **15.00**  ·  Issahaku Fatawu **5.50**  ·  Amine Adli **3.75**  ·  Exequiel Palacios **7.50**  ·  Emersonn Silva **3.60**
-- **Player to Score or Assist:** Daizen Maeda **2.88**  ·  Alvaro Rodriguez **2.05**  ·  Sindre Walle **3.00**  ·  Cedric Kipre **7.00**  ·  Ben Doak **2.50**  ·  Antonio Silva **6.00**  ·  Marcelino Nunez **4.00**  ·  Julio Soler **8.00**  ·  Darnell Furlong **5.50**  ·  Anis Mehmeti **2.75**  ·  Zian Flemming **2.50**  ·  Bafode Diakite **4.50**  ·  Daniel Jebbison **2.05**  ·  Adrien Truffert **4.00**  ·  Abdoul Ouattara **5.50**  ·  Chuba Akpom **2.88**  ·  Juanlu Sanchez **3.10**  ·  Tyler Adams **7.00**  ·  Luis Florentino **6.50**  ·  Veljko Milosavljevic **8.00**  ·  Alex Toth **2.88**  ·  Adam Smith **8.00**  ·  Alex Scott **3.50**  ·  Justin Kluivert **2.25**  ·  Lewis Cook **4.33**  ·  Marcus Tavernier **2.60**  ·  Ryan Christie **3.10**  ·  Sasa Lukic **5.00**  ·  Dara O'Shea **8.50**  ·  Jack Clarke **2.75**  ·  Jacob Greaves **10.00**  ·  Leif Davis **4.75**  ·  Rayan Vitor **2.25**  ·  Julio Enciso **2.75**  ·  Jaden Philogene-Bidace **2.75**  ·  David Brooks **2.25**  ·  James Hill **6.00**  ·  Kasey McAteer **3.20**  ·  Evanilson **2.00**  ·  Issa Diop **11.00**  ·  Issahaku Fatawu **3.25**  ·  Amine Adli **2.38**  ·  Exequiel Palacios **4.50**  ·  Emersonn Silva **2.75**
+- **Anytime Goal Scorer:** Daizen Maeda **4.00**  ·  Alvaro Rodriguez **2.88**  ·  Sindre Walle **4.50**  ·  Cedric Kipre **12.00**  ·  Ben Doak **4.00**  ·  Antonio Silva **9.00**  ·  Marcelino Nunez **6.00**  ·  Julio Soler **15.00**  ·  Darnell Furlong **15.00**  ·  Anis Mehmeti **4.00**  ·  Zian Flemming **3.60**  ·  Bafode Diakite **9.00**  ·  Daniel Jebbison **2.75**  ·  Adrien Truffert **12.00**  ·  Abdoul Ouattara **7.50**  ·  Chuba Akpom **3.75**  ·  Juanlu Sanchez **5.50**  ·  Tyler Adams **12.00**  ·  Luis Florentino **10.00**  ·  Veljko Milosavljevic **12.00**  ·  Alex Toth **7.50**  ·  Adam Smith **15.00**  ·  Alex Scott **6.00**  ·  Justin Kluivert **3.40**  ·  Lewis Cook **9.00**  ·  Marcus Tavernier **4.00**  ·  Ryan Christie **6.00**  ·  Sasa Lukic **10.00**  ·  Dara O'Shea **12.00**  ·  Jack Clarke **4.00**  ·  Jacob Greaves **15.00**  ·  Leif Davis **12.00**  ·  Rayan Vitor **3.25**  ·  Julio Enciso **4.00**  ·  Jaden Philogene-Bidace **4.00**  ·  David Brooks **3.40**  ·  James Hill **9.00**  ·  Kasey McAteer **4.75**  ·  Evanilson **2.40**  ·  Issa Diop **15.00**  ·  Issahaku Fatawu **5.50**  ·  Amine Adli **3.75**  ·  Exequiel Palacios **7.50**  ·  Emersonn Silva **3.60**
+- **Player to Score or Assist:** Daizen Maeda **2.88**  ·  Alvaro Rodriguez **2.05**  ·  Sindre Walle **3.00**  ·  Cedric Kipre **7.00**  ·  Ben Doak **2.50**  ·  Antonio Silva **6.00**  ·  Marcelino Nunez **4.00**  ·  Julio Soler **8.00**  ·  Darnell Furlong **6.00**  ·  Anis Mehmeti **2.88**  ·  Zian Flemming **2.60**  ·  Bafode Diakite **4.50**  ·  Daniel Jebbison **2.05**  ·  Adrien Truffert **4.00**  ·  Abdoul Ouattara **5.50**  ·  Chuba Akpom **3.00**  ·  Juanlu Sanchez **3.10**  ·  Tyler Adams **7.00**  ·  Luis Florentino **7.00**  ·  Veljko Milosavljevic **8.00**  ·  Alex Toth **2.88**  ·  Adam Smith **8.00**  ·  Alex Scott **3.50**  ·  Justin Kluivert **2.20**  ·  Lewis Cook **4.33**  ·  Marcus Tavernier **2.60**  ·  Ryan Christie **3.10**  ·  Sasa Lukic **5.50**  ·  Dara O'Shea **8.50**  ·  Jack Clarke **2.75**  ·  Jacob Greaves **10.00**  ·  Leif Davis **5.00**  ·  Rayan Vitor **2.25**  ·  Julio Enciso **2.75**  ·  Jaden Philogene-Bidace **2.88**  ·  David Brooks **2.20**  ·  James Hill **6.00**  ·  Kasey McAteer **3.25**  ·  Evanilson **2.00**  ·  Issa Diop **11.00**  ·  Issahaku Fatawu **3.40**  ·  Amine Adli **2.38**  ·  Exequiel Palacios **4.50**  ·  Emersonn Silva **2.75**
 
 ## Estadísticas de equipo
 | | Ipswich (total) | Ipswich en casa | Bournemouth (total) | Bournemouth fuera |
@@ -179,13 +179,13 @@ _Sin bajas comunicadas por ahora._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
+_Goles esperados: local 1,12 · visitante 2,46 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 67% | 49% | 58% | 1.90 | +10% |
+| 1X2: 2 | 67% | 50% | 58% | 1.83 | +7% |
 | 1X2: X | 18% | 26% | 22% | 3.50 | -23% |
-| 1X2: 1 | 16% | 25% | 20% | 3.75 | -25% |
+| 1X2: 1 | 16% | 24% | 20% | 3.90 | -24% |
 | Doble oportunidad: X2 | 84% | 76% | 80% | 1.25 | +0% |
 | Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | +0% |
 | Doble oportunidad: 1X | 33% | 50% | 41% | 1.91 | -21% |
@@ -196,7 +196,7 @@ _Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 | Goles más/menos: Más de 3.5 ✅ | 48% | 34% | 41% | 2.75 | +14% |
 | Goles más/menos: Menos de 1.5 | 13% | 22% | 17% | 4.33 | -25% |
 | Goles más/menos: Menos de 2.5 | 30% | 45% | 38% | 2.10 | -21% |
-| Goles más/menos: Menos de 3.5 | 52% | 66% | 59% | 1.44 | -16% |
+| Goles más/menos: Menos de 3.5 | 52% | 66% | 59% | 1.44 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 72% | 76% | 1.30 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 38% | 42% | 2.50 | +5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 28% | 24% | 3.40 | -17% |
@@ -205,12 +205,12 @@ _Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 | Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 1.5 | 71% | 51% | 61% | 1.80 | +10% |
+| Goles del visitante: Más de 1.5 | 71% | 54% | 62% | 1.73 | +7% |
 | Goles del visitante: Más de 2.5 ✅ | 45% | 27% | 36% | 3.50 | +25% |
-| Goles del visitante: Menos de 1.5 | 29% | 49% | 39% | 1.91 | -26% |
+| Goles del visitante: Menos de 1.5 | 29% | 46% | 38% | 2.00 | -24% |
 | Goles del visitante: Menos de 2.5 | 55% | 73% | 64% | 1.28 | -18% |
-| 1X2 descanso: 2 | 50% | 37% | 44% | 2.50 | +9% |
-| 1X2 descanso: X | 33% | 39% | 36% | 2.38 | -14% |
-| 1X2 descanso: 1 | 17% | 23% | 20% | 4.00 | -20% |
+| 1X2 descanso: 2 | 50% | 39% | 44% | 2.40 | +7% |
+| 1X2 descanso: X | 33% | 39% | 36% | 2.38 | -13% |
+| 1X2 descanso: 1 | 17% | 22% | 19% | 4.33 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

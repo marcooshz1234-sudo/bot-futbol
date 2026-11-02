@@ -1,7 +1,7 @@
 # Fulham – Newcastle
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -186,7 +186,7 @@ _Goles esperados: local 1,66 · visitante 1,10 · córners esperados 10,1._
 | 1X2: 2 | 25% | 31% | 28% | 3.00 | -16% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
 | 1X2: 1 | 51% | 42% | 46% | 2.20 | +2% |
-| Doble oportunidad: X2 | 49% | 57% | 53% | 1.67 | -11% |
+| Doble oportunidad: X2 | 49% | 57% | 53% | 1.67 | -12% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 75% | 70% | 72% | 1.36 | -2% |
 | Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
@@ -197,10 +197,10 @@ _Goles esperados: local 1,66 · visitante 1,10 · córners esperados 10,1._
 | Goles más/menos: Menos de 1.5 | 24% | 22% | 23% | 4.33 | -1% |
 | Goles más/menos: Menos de 2.5 | 48% | 43% | 46% | 2.20 | +0% |
 | Goles más/menos: Menos de 3.5 | 70% | 66% | 68% | 1.44 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
 | Goles del local: Más de 1.5 | 50% | 49% | 49% | 1.91 | -6% |
 | Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -7% |
@@ -211,7 +211,7 @@ _Goles esperados: local 1,66 · visitante 1,10 · córners esperados 10,1._
 | Goles del visitante: Más de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
 | Goles del visitante: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
 | Goles del visitante: Menos de 1.5 | 70% | 61% | 65% | 1.53 | +0% |
-| 1X2 descanso: 2 | 22% | 26% | 24% | 3.50 | -16% |
+| 1X2 descanso: 2 | 21% | 26% | 24% | 3.50 | -16% |
 | 1X2 descanso: X | 41% | 40% | 41% | 2.30 | -6% |
 | 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -3% |
 

@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -54,53 +54,53 @@ _Actualizadas: 01/11 13:55_
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | Marseille (total) | Marseille fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 11 | 6 |
-| Forma (últimos 5) | DVDVV | DVVVV | VDVDV | DVVDD |
-| Balance | 9V 1E 3D | 5V 0E 1D | 4V 0E 7D | 2V 0E 4D |
-| Goles a favor / partido | 2,69 | 2,83 | 1,73 | 1,33 |
-| Goles en contra / partido | 1,38 | 1,17 | 1,73 | 1,67 |
-| Goles a favor 1ª parte | 1,23 | 1,17 | 0,55 | 0,50 |
-| Goles a favor 2ª parte | 1,46 | 1,67 | 1,18 | 0,83 |
-| Goles en contra 1ª parte | 0,69 | 0,83 | 0,64 | 0,67 |
-| Goles en contra 2ª parte | 0,69 | 0,33 | 1,09 | 1,00 |
-| Más de 1,5 goles | 100% | 100% | 73% | 67% |
-| Más de 2,5 goles | 77% | 67% | 55% | 33% |
-| Más de 3,5 goles | 62% | 50% | 45% | 33% |
-| Ambos marcan | 46% | 50% | 45% | 33% |
-| Portería a cero | 46% | 50% | 18% | 17% |
-| Se queda sin marcar | 8% | 0% | 36% | 50% |
-| xG a favor | 2,48 | 2,35 | 1,51 | 1,50 |
-| xG en contra | 1,42 | 1,23 | 1,99 | 1,67 |
+| Partidos analizados | 13 | 6 | 12 | 6 |
+| Forma (últimos 5) | DVDVV | DVVVV | VVDVD | DVVDD |
+| Balance | 9V 1E 3D | 5V 0E 1D | 5V 0E 7D | 2V 0E 4D |
+| Goles a favor / partido | 2,69 | 2,83 | 1,75 | 1,33 |
+| Goles en contra / partido | 1,38 | 1,17 | 1,58 | 1,67 |
+| Goles a favor 1ª parte | 1,23 | 1,17 | 0,67 | 0,50 |
+| Goles a favor 2ª parte | 1,46 | 1,67 | 1,08 | 0,83 |
+| Goles en contra 1ª parte | 0,69 | 0,83 | 0,58 | 0,67 |
+| Goles en contra 2ª parte | 0,69 | 0,33 | 1,00 | 1,00 |
+| Más de 1,5 goles | 100% | 100% | 75% | 67% |
+| Más de 2,5 goles | 77% | 67% | 50% | 33% |
+| Más de 3,5 goles | 62% | 50% | 42% | 33% |
+| Ambos marcan | 46% | 50% | 42% | 33% |
+| Portería a cero | 46% | 50% | 25% | 17% |
+| Se queda sin marcar | 8% | 0% | 33% | 50% |
+| xG a favor | 2,48 | 2,35 | 1,47 | 1,50 |
+| xG en contra | 1,42 | 1,23 | 1,95 | 1,67 |
 | Tiros / partido | 20,5 | 19,5 | 12,9 | 13,3 |
-| Tiros a puerta / partido | 7,5 | 7,8 | 4,4 | 3,5 |
-| Tiros recibidos | 10,6 | 8,8 | 15,6 | 14,7 |
-| Tiros a puerta recibidos | 3,5 | 3,0 | 5,5 | 5,0 |
-| Posesión media % | 60 | 57 | 57 | 59 |
+| Tiros a puerta / partido | 7,5 | 7,8 | 4,2 | 3,5 |
+| Tiros recibidos | 10,6 | 8,8 | 15,5 | 14,7 |
+| Tiros a puerta recibidos | 3,5 | 3,0 | 5,6 | 5,0 |
+| Posesión media % | 60 | 57 | 56 | 59 |
 | Córners a favor | 7,4 | 9,2 | 4,6 | 4,5 |
 | Córners en contra | 3,5 | 3,0 | 3,6 | 3,5 |
-| Córners a favor 1ª parte | 2,6 | 3,5 | 2,6 | 2,7 |
-| Córners a favor 2ª parte | 4,8 | 5,7 | 2,0 | 1,8 |
-| Córners totales del partido | 10,9 | 12,2 | 8,3 | 8,0 |
-| Córners totales 1ª parte | 4,8 | 5,0 | 4,5 | 4,2 |
+| Córners a favor 1ª parte | 2,6 | 3,5 | 2,8 | 2,7 |
+| Córners a favor 2ª parte | 4,8 | 5,7 | 1,8 | 1,8 |
+| Córners totales del partido | 10,9 | 12,2 | 8,2 | 8,0 |
+| Córners totales 1ª parte | 4,8 | 5,0 | 4,4 | 4,2 |
 | Córners totales 2ª parte | 6,2 | 7,2 | 3,8 | 3,8 |
-| Más de 8,5 córners | 54% | 67% | 45% | 33% |
-| Más de 9,5 córners | 46% | 67% | 27% | 17% |
-| Más de 10,5 córners | 46% | 67% | 9% | 17% |
-| Faltas cometidas | 12,6 | 12,0 | 11,5 | 11,8 |
-| Faltas recibidas | 10,0 | 9,3 | 12,0 | 13,8 |
-| Amarillas propias | 1,8 | 1,7 | 1,6 | 1,7 |
-| Amarillas del rival | 1,8 | 1,8 | 2,3 | 2,5 |
-| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
+| Más de 8,5 córners | 54% | 67% | 42% | 33% |
+| Más de 9,5 córners | 46% | 67% | 25% | 17% |
+| Más de 10,5 córners | 46% | 67% | 8% | 17% |
+| Faltas cometidas | 12,6 | 12,0 | 11,7 | 11,8 |
+| Faltas recibidas | 10,0 | 9,3 | 12,2 | 13,8 |
+| Amarillas propias | 1,8 | 1,7 | 1,7 | 1,7 |
+| Amarillas del rival | 1,8 | 1,8 | 2,2 | 2,5 |
+| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen | Goles Marseille | Recibe Marseille | Tarjetas Marseille |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 5 | 1 | 2 | 5 | 0 |
-| 16-30' | 5 | 2 | 3 | 1 | 1 | 1 |
-| 31-45' | 7 | 2 | 3 | 3 | 1 | 5 |
+| 1-15' | 4 | 5 | 1 | 3 | 5 | 0 |
+| 16-30' | 5 | 2 | 3 | 2 | 1 | 1 |
+| 31-45' | 7 | 2 | 3 | 3 | 1 | 6 |
 | 46-60' | 5 | 4 | 3 | 6 | 4 | 0 |
 | 61-75' | 5 | 1 | 5 | 2 | 3 | 2 |
-| 76-90' | 9 | 4 | 11 | 5 | 5 | 11 |
+| 76-90' | 9 | 4 | 11 | 5 | 5 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -147,73 +147,73 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Marseille
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Ligue 1 | Marseille 2-0 Toulouse | casa | 4-3 | 13 (3) - 14 (7) | 2-1 |
 | 2026-10-25 | Ligue 1 | Marseille 4-3 Le Havre | casa | 4-3 | 11 (5) - 21 (7) | 1-3 |
 | 2026-10-22 | Europa League | Sturm Graz 1-0 Marseille | fuera | 4-2 | 14 (1) - 13 (5) | 3-3 |
 | 2026-10-18 | Ligue 1 | Angers 2-5 Marseille | fuera | 5-2 | 21 (8) - 11 (3) | 1-1 |
 | 2026-10-15 | Europa League | Marseille 0-1 Olympiakos Piraeus | casa | 9-1 | 11 (5) - 9 (4) | 2-2 |
 | 2026-10-11 | Ligue 1 | Estac Troyes 0-2 Marseille | fuera | 3-6 | 5 (2) - 15 (3) | 1-4 |
-| 2026-09-20 | Ligue 1 | Marseille 1-2 Paris Saint Germain | casa | 3-7 | 12 (4) - 31 (10) | 4-1 |
 
 ## Jugadores de Marseille
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. de Lange | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| H. Abdelli | M | 11 | 858 | 3 | 1 | 7 | 0,6 | 3 | 0,3 | 13 | 5 | 0,5 | 1 | 0 |
-| A. Gouiri | F | 11 | 820 | 5 | 2 | 15 | 1,4 | 9 | 0,8 | 4 | 7 | 0,6 | 1 | 0 |
-| C. Egan-Riley | D | 10 | 820 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 7 | 0,7 | 0 | 0 |
-| Emerson | D | 10 | 807 | 0 | 3 | 4 | 0,4 | 1 | 0,1 | 6 | 9 | 0,9 | 0 | 0 |
-| T. Weah | M | 10 | 804 | 1 | 2 | 8 | 0,8 | 4 | 0,4 | 14 | 7 | 0,7 | 3 | 1 |
-| A. Harit | M | 10 | 764 | 2 | 1 | 9 | 0,9 | 6 | 0,6 | 6 | 15 | 1,5 | 2 | 0 |
-| Igor Paixão | F | 10 | 713 | 2 | 0 | 23 | 2,3 | 9 | 0,9 | 10 | 12 | 1,2 | 1 | 0 |
-| N. Aguerd | D | 11 | 686 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 1 | 0,1 | 1 | 0 |
-| A. Gomes | M | 11 | 653 | 1 | 1 | 10 | 0,9 | 3 | 0,3 | 9 | 10 | 0,9 | 3 | 0 |
-| P. Højbjerg | M | 8 | 649 | 1 | 0 | 11 | 1,4 | 5 | 0,6 | 11 | 8 | 1,0 | 0 | 0 |
+| J. de Lange | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| H. Abdelli | M | 12 | 931 | 3 | 1 | 8 | 0,7 | 3 | 0,2 | 13 | 6 | 0,5 | 1 | 0 |
+| C. Egan-Riley | D | 11 | 910 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 8 | 0,7 | 1 | 0 |
+| A. Gouiri | F | 12 | 907 | 6 | 3 | 18 | 1,5 | 10 | 0,8 | 7 | 9 | 0,8 | 1 | 0 |
+| T. Weah | D | 11 | 894 | 1 | 2 | 11 | 1,0 | 4 | 0,4 | 14 | 7 | 0,6 | 3 | 1 |
+| A. Harit | M | 11 | 837 | 3 | 1 | 10 | 0,9 | 7 | 0,6 | 6 | 17 | 1,5 | 2 | 0 |
+| Emerson | D | 11 | 826 | 0 | 3 | 4 | 0,4 | 1 | 0,1 | 6 | 9 | 0,8 | 0 | 0 |
+| Igor Paixão | M | 11 | 803 | 2 | 1 | 25 | 2,3 | 9 | 0,8 | 10 | 13 | 1,2 | 1 | 0 |
+| N. Aguerd | D | 12 | 776 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 8 | 1 | 0,1 | 1 | 0 |
+| P. Højbjerg | M | 9 | 739 | 1 | 0 | 11 | 1,2 | 5 | 0,6 | 15 | 10 | 1,1 | 1 | 0 |
+| A. Gomes | M | 12 | 656 | 1 | 1 | 10 | 0,8 | 3 | 0,2 | 9 | 10 | 0,8 | 3 | 0 |
 | K. Abdallah | F | 11 | 430 | 2 | 0 | 15 | 1,4 | 5 | 0,5 | 7 | 6 | 0,5 | 2 | 0 |
-| N. Maupay | F | 10 | 328 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 3 | 8 | 0,8 | 1 | 0 |
-| T. Nnadi | M | 6 | 301 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 11 | 6 | 1,0 | 1 | 0 |
-| G. Kondogbia | M | 6 | 288 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 4 | 0,7 | 0 | 0 |
-| U. Garcia | D | 7 | 192 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
-| K. Bezahaf | D | 3 | 186 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,0 | 0 | 0 |
+| T. Nnadi | M | 7 | 388 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 13 | 9 | 1,3 | 1 | 0 |
+| N. Maupay | F | 11 | 331 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 6 | 8 | 0,7 | 1 | 0 |
+| G. Kondogbia | M | 7 | 305 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 4 | 0,6 | 0 | 0 |
+| U. Garcia | D | 8 | 263 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 2 | 4 | 0,5 | 0 | 0 |
+| K. Bezahaf | D | 4 | 203 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,8 | 0 | 0 |
 | B. Meité | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 4 | 2,0 | 2 | 0 |
 | Nouhoum Kamissoko | M | 2 | 153 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 3 | 3 | 1,5 | 0 | 0 |
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,30 · visitante 1,10 · córners esperados 9,4._
+_Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 15% | 12% | 6.25 | -26% |
-| 1X2: X | 12% | 19% | 16% | 4.75 | -26% |
-| 1X2: 1 | 79% | 66% | 73% | 1.40 | +2% |
-| Doble oportunidad: X2 | 21% | 35% | 28% | 2.75 | -24% |
-| Doble oportunidad: 12 | 88% | 81% | 84% | 1.18 | -0% |
-| Doble oportunidad: 1X | 91% | 85% | 88% | 1.12 | -1% |
-| Ambos marcan: No | 36% | 44% | 40% | 2.10 | -16% |
-| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | +0% |
-| Goles más/menos: Más de 2.5 | 82% | 66% | 74% | 1.44 | +6% |
-| Goles más/menos: Más de 3.5 | 64% | 43% | 54% | 2.20 | +18% |
-| Goles más/menos: Más de 4.5 ✅ | 45% | 25% | 35% | 3.75 | +32% |
-| Goles más/menos: Menos de 2.5 | 18% | 34% | 26% | 2.75 | -27% |
-| Goles más/menos: Menos de 3.5 | 36% | 57% | 46% | 1.67 | -23% |
-| Goles más/menos: Menos de 4.5 | 55% | 75% | 65% | 1.28 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 57% | 44% | 51% | 2.10 | +6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 30% | 21% | 25% | 4.50 | +14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 15% | 23% | 19% | 4.00 | -24% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 43% | 56% | 49% | 1.67 | -18% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 70% | 79% | 75% | 1.18 | -12% |
-| Goles del local: Más de 1.5 | 84% | 69% | 77% | 1.36 | +4% |
-| Goles del local: Más de 2.5 | 64% | 42% | 53% | 2.20 | +17% |
-| Goles del local: Más de 3.5 ✅ | 42% | 23% | 33% | 4.00 | +31% |
-| Goles del local: Menos de 1.5 | 16% | 31% | 23% | 3.00 | -30% |
-| Goles del local: Menos de 2.5 | 36% | 58% | 47% | 1.62 | -24% |
-| Goles del local: Menos de 3.5 | 58% | 77% | 67% | 1.22 | -18% |
-| Goles del visitante: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -11% |
-| Goles del visitante: Menos de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
-| 1X2 descanso: X | 27% | 34% | 30% | 2.75 | -17% |
-| 1X2 descanso: 1 | 61% | 51% | 56% | 1.83 | +2% |
+| 1X2: 2 | 9% | 15% | 12% | 6.25 | -25% |
+| 1X2: X | 12% | 19% | 16% | 4.75 | -24% |
+| 1X2: 1 | 78% | 66% | 72% | 1.40 | +1% |
+| Doble oportunidad: X2 | 22% | 35% | 28% | 2.75 | -23% |
+| Doble oportunidad: 12 | 88% | 81% | 84% | 1.18 | -1% |
+| Doble oportunidad: 1X | 91% | 85% | 88% | 1.12 | -2% |
+| Ambos marcan: No | 37% | 44% | 41% | 2.10 | -15% |
+| Ambos marcan: Sí | 63% | 56% | 59% | 1.67 | -1% |
+| Goles más/menos: Más de 2.5 | 80% | 66% | 73% | 1.44 | +5% |
+| Goles más/menos: Más de 3.5 | 61% | 43% | 52% | 2.20 | +15% |
+| Goles más/menos: Más de 4.5 ✅ | 42% | 25% | 34% | 3.75 | +26% |
+| Goles más/menos: Menos de 2.5 | 20% | 34% | 27% | 2.75 | -25% |
+| Goles más/menos: Menos de 3.5 | 39% | 57% | 48% | 1.67 | -20% |
+| Goles más/menos: Menos de 4.5 | 58% | 75% | 66% | 1.28 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 44% | 50% | 2.10 | +4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 28% | 21% | 25% | 4.50 | +10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 45% | 56% | 50% | 1.67 | -16% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 72% | 79% | 75% | 1.18 | -11% |
+| Goles del local: Más de 1.5 | 82% | 69% | 76% | 1.36 | +3% |
+| Goles del local: Más de 2.5 | 61% | 42% | 52% | 2.20 | +14% |
+| Goles del local: Más de 3.5 ✅ | 39% | 23% | 31% | 4.00 | +25% |
+| Goles del local: Menos de 1.5 | 18% | 31% | 24% | 3.00 | -27% |
+| Goles del local: Menos de 2.5 | 39% | 58% | 48% | 1.62 | -22% |
+| Goles del local: Menos de 3.5 | 61% | 77% | 69% | 1.22 | -16% |
+| Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -4% |
+| Goles del visitante: Más de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
+| 1X2 descanso: X | 28% | 34% | 31% | 2.75 | -16% |
+| 1X2 descanso: 1 | 60% | 51% | 55% | 1.83 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:49_
@@ -201,10 +201,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 44% | 31% | 38% | 3.00 | +13% |
 | Ambos marcan: Sí | 56% | 69% | 62% | 1.36 | -15% |
 | Goles más/menos: Más de 2.5 | 55% | 72% | 63% | 1.33 | -16% |
-| Goles más/menos: Más de 3.5 | 33% | 51% | 42% | 1.80 | -24% |
+| Goles más/menos: Más de 3.5 | 32% | 51% | 42% | 1.80 | -24% |
 | Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |
 | Goles más/menos: Menos de 2.5 | 45% | 28% | 37% | 3.40 | +25% |
-| Goles más/menos: Menos de 3.5 | 67% | 49% | 58% | 1.91 | +11% |
+| Goles más/menos: Menos de 3.5 | 68% | 49% | 58% | 1.91 | +11% |
 | Goles más/menos: Menos de 4.5 | 84% | 66% | 75% | 1.40 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 79% | 75% | 1.18 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |

@@ -1,7 +1,7 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:48_
@@ -174,7 +174,7 @@ _Sin precedentes recientes._
 | Gabriel Debeljuh | F | 2 | 36 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,93 · visitante 0,81 · córners esperados 10,2._
+_Goles esperados: local 2,92 · visitante 0,80 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 2.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Goles del local: Más de 3.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del local: Más de 3.5 | 34% | 35% | 35% | 2.62 | -10% |
 | Goles del local: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del local: Menos de 2.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Goles del local: Menos de 3.5 | 66% | 65% | 65% | 1.44 | -6% |

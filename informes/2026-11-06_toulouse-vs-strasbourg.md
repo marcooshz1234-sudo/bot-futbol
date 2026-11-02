@@ -1,7 +1,7 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -51,53 +51,53 @@ _Actualizadas: 01/11 08:01_
 ## Estadísticas de equipo
 | | Toulouse (total) | Toulouse en casa | Strasbourg (total) | Strasbourg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 8 | 4 | 9 | 5 |
-| Forma (últimos 5) | EVEVE | EVDD | VDDDD | DDDVD |
-| Balance | 2V 4E 2D | 1V 1E 2D | 3V 1E 5D | 1V 0E 4D |
-| Goles a favor / partido | 1,50 | 0,75 | 1,89 | 1,60 |
-| Goles en contra / partido | 1,38 | 1,25 | 2,11 | 2,60 |
-| Goles a favor 1ª parte | 0,12 | 0,00 | 0,56 | 0,60 |
-| Goles a favor 2ª parte | 1,38 | 0,75 | 1,33 | 1,00 |
-| Goles en contra 1ª parte | 0,62 | 0,00 | 0,67 | 1,00 |
-| Goles en contra 2ª parte | 0,75 | 1,25 | 1,44 | 1,60 |
-| Más de 1,5 goles | 75% | 50% | 100% | 100% |
-| Más de 2,5 goles | 62% | 25% | 89% | 100% |
-| Más de 3,5 goles | 50% | 25% | 44% | 40% |
-| Ambos marcan | 50% | 25% | 78% | 60% |
-| Portería a cero | 25% | 25% | 0% | 0% |
-| Se queda sin marcar | 38% | 75% | 22% | 40% |
-| xG a favor | 1,86 | 2,22 | 1,38 | 0,99 |
-| xG en contra | 1,34 | 1,16 | 1,77 | 1,75 |
-| Tiros / partido | 12,8 | 15,5 | 13,0 | 10,4 |
-| Tiros a puerta / partido | 4,4 | 5,0 | 5,0 | 4,4 |
-| Tiros recibidos | 13,9 | 11,8 | 15,2 | 16,8 |
-| Tiros a puerta recibidos | 3,9 | 4,0 | 5,7 | 6,4 |
+| Partidos analizados | 9 | 4 | 9 | 5 |
+| Forma (últimos 5) | DEVEV | EVDD | VDDDD | DDDVD |
+| Balance | 2V 4E 3D | 1V 1E 2D | 3V 1E 5D | 1V 0E 4D |
+| Goles a favor / partido | 1,33 | 0,75 | 1,89 | 1,60 |
+| Goles en contra / partido | 1,44 | 1,25 | 2,11 | 2,60 |
+| Goles a favor 1ª parte | 0,11 | 0,00 | 0,56 | 0,60 |
+| Goles a favor 2ª parte | 1,22 | 0,75 | 1,33 | 1,00 |
+| Goles en contra 1ª parte | 0,78 | 0,00 | 0,67 | 1,00 |
+| Goles en contra 2ª parte | 0,67 | 1,25 | 1,44 | 1,60 |
+| Más de 1,5 goles | 78% | 50% | 100% | 100% |
+| Más de 2,5 goles | 56% | 25% | 89% | 100% |
+| Más de 3,5 goles | 44% | 25% | 44% | 40% |
+| Ambos marcan | 44% | 25% | 78% | 60% |
+| Portería a cero | 22% | 25% | 0% | 0% |
+| Se queda sin marcar | 44% | 75% | 22% | 40% |
+| xG a favor | 1,83 | 2,22 | 1,38 | 0,99 |
+| xG en contra | 1,32 | 1,16 | 1,77 | 1,75 |
+| Tiros / partido | 12,9 | 15,5 | 13,0 | 10,4 |
+| Tiros a puerta / partido | 4,7 | 5,0 | 5,0 | 4,4 |
+| Tiros recibidos | 13,8 | 11,8 | 15,2 | 16,8 |
+| Tiros a puerta recibidos | 3,8 | 4,0 | 5,7 | 6,4 |
 | Posesión media % | 52 | 54 | 48 | 49 |
-| Córners a favor | 4,1 | 5,5 | 2,7 | 2,2 |
+| Córners a favor | 4,0 | 5,5 | 2,7 | 2,2 |
 | Córners en contra | 4,1 | 4,0 | 4,4 | 4,2 |
-| Córners a favor 1ª parte | 2,0 | 2,8 | 1,7 | 1,6 |
-| Córners a favor 2ª parte | 2,1 | 2,8 | 1,0 | 0,6 |
-| Córners totales del partido | 8,2 | 9,5 | 7,1 | 6,4 |
+| Córners a favor 1ª parte | 1,8 | 2,8 | 1,7 | 1,6 |
+| Córners a favor 2ª parte | 2,2 | 2,8 | 1,0 | 0,6 |
+| Córners totales del partido | 8,1 | 9,5 | 7,1 | 6,4 |
 | Córners totales 1ª parte | 3,9 | 5,2 | 3,8 | 4,2 |
-| Córners totales 2ª parte | 4,4 | 4,2 | 3,3 | 2,2 |
-| Más de 8,5 córners | 38% | 50% | 44% | 20% |
-| Más de 9,5 córners | 25% | 50% | 11% | 20% |
-| Más de 10,5 córners | 25% | 50% | 11% | 20% |
-| Faltas cometidas | 16,0 | 16,8 | 11,9 | 13,0 |
-| Faltas recibidas | 13,1 | 13,2 | 9,7 | 8,4 |
-| Amarillas propias | 2,1 | 2,8 | 1,6 | 1,8 |
-| Amarillas del rival | 1,5 | 1,2 | 1,6 | 1,4 |
+| Córners totales 2ª parte | 4,2 | 4,2 | 3,3 | 2,2 |
+| Más de 8,5 córners | 33% | 50% | 44% | 20% |
+| Más de 9,5 córners | 22% | 50% | 11% | 20% |
+| Más de 10,5 córners | 22% | 50% | 11% | 20% |
+| Faltas cometidas | 15,8 | 16,8 | 11,9 | 13,0 |
+| Faltas recibidas | 13,2 | 13,2 | 9,7 | 8,4 |
+| Amarillas propias | 2,0 | 2,8 | 1,6 | 1,8 |
+| Amarillas del rival | 1,6 | 1,2 | 1,6 | 1,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,11 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Toulouse | Recibe Toulouse | Tarjetas Toulouse | Goles Strasbourg | Recibe Strasbourg | Tarjetas Strasbourg |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 0 | 0 | 0 | 1 | 0 |
-| 16-30' | 0 | 2 | 3 | 1 | 1 | 0 |
+| 1-15' | 1 | 1 | 0 | 0 | 1 | 0 |
+| 16-30' | 0 | 3 | 3 | 1 | 1 | 0 |
 | 31-45' | 0 | 3 | 4 | 4 | 4 | 4 |
 | 46-60' | 7 | 0 | 2 | 4 | 2 | 3 |
 | 61-75' | 2 | 3 | 2 | 1 | 4 | 4 |
-| 76-90' | 2 | 3 | 7 | 7 | 7 | 5 |
+| 76-90' | 2 | 3 | 8 | 7 | 7 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Toulouse
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Ligue 1 | Marseille 2-0 Toulouse | fuera | 3-4 | 14 (7) - 13 (3) | 1-2 |
 | 2026-10-25 | Ligue 1 | Toulouse 0-0 Estac Troyes | casa | 4-2 | 7 (3) - 8 (0) | 6-2 |
 | 2026-10-16 | Ligue 1 | Le Mans 0-3 Toulouse | fuera | 2-2 | 13 (5) - 11 (1) | 1-2 |
 | 2026-10-10 | Ligue 1 | Monaco 2-2 Toulouse | fuera | 4-4 | 8 (4) - 16 (4) | 2-2 |
 | 2026-09-19 | Ligue 1 | Toulouse 3-2 Le Havre | casa | 6-7 | 14 (5) - 18 (7) | 3-1 |
 | 2026-09-12 | Ligue 1 | Lorient 2-2 Toulouse | fuera | 3-4 | 13 (4) - 10 (3) | 0-1 |
-| 2026-09-03 | Ligue 1 | Toulouse 0-1 Lille | casa | 6-2 | 24 (10) - 10 (6) | 1-0 |
 
 ## Jugadores de Toulouse
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. McKenzie | D | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 8 | 1,0 | 1 | 0 |
-| C. Cásseres | M | 8 | 720 | 0 | 5 | 5 | 0,6 | 1 | 0,1 | 16 | 15 | 1,9 | 3 | 0 |
-| C. Tapé | D | 8 | 714 | 1 | 0 | 6 | 0,8 | 2 | 0,2 | 11 | 5 | 0,6 | 1 | 0 |
-| T. Jørgensen | M | 8 | 702 | 2 | 1 | 12 | 1,5 | 6 | 0,8 | 10 | 7 | 0,9 | 0 | 0 |
-| G. Restes | G | 7 | 611 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,4 | 0 | 0 |
-| J. Russell-Rowe | F | 8 | 547 | 2 | 0 | 11 | 1,4 | 7 | 0,9 | 7 | 3 | 0,4 | 1 | 0 |
+| M. McKenzie | D | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 13 | 9 | 1,0 | 1 | 0 |
+| C. Cásseres | M | 9 | 810 | 0 | 5 | 9 | 1,0 | 2 | 0,2 | 17 | 20 | 2,2 | 3 | 0 |
+| C. Tapé | D | 9 | 804 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 15 | 5 | 0,6 | 1 | 0 |
+| T. Jørgensen | M | 9 | 792 | 2 | 1 | 14 | 1,6 | 8 | 0,9 | 10 | 8 | 0,9 | 0 | 0 |
+| G. Restes | G | 8 | 701 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,5 | 0 | 0 |
+| J. Russell-Rowe | F | 9 | 604 | 2 | 0 | 15 | 1,7 | 11 | 1,2 | 7 | 3 | 0,3 | 1 | 0 |
+| R. Nicolaisen | D | 6 | 534 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 10 | 6 | 1,0 | 1 | 0 |
+| C. Tengstedt | F | 7 | 496 | 5 | 1 | 21 | 3,0 | 8 | 1,1 | 2 | 6 | 0,9 | 0 | 0 |
 | R. Messali | D | 8 | 472 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 6 | 0,8 | 1 | 0 |
-| R. Nicolaisen | D | 5 | 445 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 8 | 5 | 1,0 | 1 | 0 |
-| C. Tengstedt | F | 6 | 406 | 5 | 1 | 19 | 3,2 | 8 | 1,3 | 1 | 5 | 0,8 | 0 | 0 |
+| N. Sigur | M | 6 | 423 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 8 | 7 | 1,2 | 2 | 0 |
 | Y. Azizi | F | 6 | 342 | 0 | 0 | 7 | 1,2 | 1 | 0,2 | 11 | 6 | 1,0 | 0 | 0 |
-| N. Sigur | M | 5 | 334 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 7 | 6 | 1,2 | 2 | 0 |
 | A. Vossah | M | 7 | 302 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 5 | 0,7 | 1 | 0 |
-| Seny Koumbassa | D | 5 | 294 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,2 | 1 | 0 |
-| N. Schmidt | M | 5 | 224 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 2 | 0 |
-| S. Hidalgo | F | 7 | 221 | 0 | 0 | 6 | 0,9 | 5 | 0,7 | 6 | 5 | 0,7 | 1 | 0 |
-| Julian Vignolo | F | 4 | 185 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 5 | 4 | 1,0 | 0 | 0 |
+| S. Koumbassa | D | 6 | 295 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,2 | 1 | 0 |
+| S. Hidalgo | F | 8 | 254 | 0 | 0 | 6 | 0,8 | 5 | 0,6 | 7 | 7 | 0,9 | 2 | 0 |
+| N. Schmidt | M | 6 | 247 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 2 | 0 |
+| I. Diallo | D | 6 | 230 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 3 | 0,5 | 0 | 0 |
+| A. Dønnum | M | 4 | 188 | 1 | 1 | 2 | 0,5 | 2 | 0,5 | 2 | 6 | 1,5 | 1 | 0 |
+| Julián Vignolo | F | 5 | 186 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 5 | 4 | 0,8 | 0 | 0 |
 | Yann Gboho | M | 2 | 170 | 0 | 1 | 2 | 1,0 | 0 | 0,0 | 3 | 6 | 3,0 | 0 | 0 |
-| Ismail Diallo | D | 5 | 163 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
-| A. Dønnum | M | 3 | 143 | 1 | 1 | 2 | 0,7 | 2 | 0,7 | 1 | 5 | 1,7 | 1 | 0 |
-| Sion Oppong | F | 5 | 119 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 3 | 0,6 | 1 | 0 |
+| S. Oppong | F | 6 | 164 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 0 | 3 | 0,5 | 1 | 0 |
 
 ## Últimos partidos de Strasbourg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -181,38 +181,38 @@ _Sin bajas comunicadas por ahora._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,06 · visitante 1,33 · córners esperados 8,7._
+_Goles esperados: local 1,93 · visitante 1,30 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 29% | 27% | 3.25 | -14% |
-| 1X2: X | 21% | 25% | 23% | 3.70 | -14% |
-| 1X2: 1 | 54% | 46% | 50% | 2.00 | +1% |
-| Doble oportunidad: X2 | 46% | 53% | 50% | 1.80 | -11% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 75% | 72% | 74% | 1.33 | -2% |
-| Ambos marcan: No | 36% | 39% | 37% | 2.38 | -11% |
-| Ambos marcan: Sí | 64% | 61% | 63% | 1.53 | -4% |
-| Goles más/menos: Más de 2.5 | 66% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Más de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Más de 4.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles más/menos: Menos de 2.5 | 34% | 40% | 37% | 2.38 | -12% |
-| Goles más/menos: Menos de 3.5 | 56% | 62% | 59% | 1.53 | -10% |
-| Goles más/menos: Menos de 4.5 | 75% | 78% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Más de 2.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del local: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles del local: Menos de 2.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 0.5 | 74% | 73% | 73% | 1.28 | -6% |
-| Goles del visitante: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
-| Goles del visitante: Menos de 0.5 | 26% | 27% | 27% | 3.50 | -7% |
-| Goles del visitante: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
-| 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -12% |
-| 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -10% |
-| 1X2 descanso: 1 | 41% | 37% | 39% | 2.50 | -3% |
+| 1X2: 2 | 26% | 29% | 27% | 3.25 | -12% |
+| 1X2: X | 22% | 25% | 24% | 3.70 | -13% |
+| 1X2: 1 | 52% | 46% | 49% | 2.00 | -1% |
+| Doble oportunidad: X2 | 48% | 53% | 51% | 1.80 | -9% |
+| Doble oportunidad: 12 | 78% | 75% | 76% | 1.28 | -2% |
+| Doble oportunidad: 1X | 74% | 72% | 73% | 1.33 | -3% |
+| Ambos marcan: No | 38% | 39% | 38% | 2.38 | -8% |
+| Ambos marcan: Sí | 62% | 61% | 62% | 1.53 | -6% |
+| Goles más/menos: Más de 2.5 | 63% | 60% | 61% | 1.57 | -4% |
+| Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -2% |
+| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
+| Goles más/menos: Menos de 2.5 | 37% | 40% | 39% | 2.38 | -8% |
+| Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
+| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
+| Goles del local: Más de 1.5 | 57% | 54% | 56% | 1.73 | -4% |
+| Goles del local: Más de 2.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles del local: Menos de 1.5 | 43% | 46% | 44% | 2.00 | -11% |
+| Goles del local: Menos de 2.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles del visitante: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |
+| Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles del visitante: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
+| 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -11% |
+| 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -9% |
+| 1X2 descanso: 1 | 39% | 37% | 38% | 2.50 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

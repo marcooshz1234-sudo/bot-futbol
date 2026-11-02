@@ -1,7 +1,7 @@
 # VfB Stuttgart – Werder Bremen
 **Bundesliga** · Regular Season - 9 · 07/11/2026 18:30 (hora España) · MHPArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -203,10 +203,10 @@ _Goles esperados: local 2,02 · visitante 1,73 · córners esperados 9,9._
 | Goles más/menos: Menos de 2.5 | 28% | 28% | 28% | 3.40 | -5% |
 | Goles más/menos: Menos de 3.5 | 48% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Menos de 4.5 | 68% | 68% | 68% | 1.40 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 49% | 50% | 49% | 1.83 | -10% |
 | Goles 1ª parte más/menos: Más de 2.5 | 23% | 25% | 24% | 3.75 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 51% | 50% | 51% | 1.83 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 60% | 71% | 65% | 1.33 | -13% |

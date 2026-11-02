@@ -1,7 +1,7 @@
 # Granada CF – Tenerife
 **Segunda División** · Regular Season - 13 · 07/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -138,6 +138,6 @@ _Sin bajas comunicadas por ahora._
 | M. Pittón | M | 4 | 175 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 0,81 · córners esperados 8,8._
+_Goles esperados: local 1,61 · visitante 0,81 · córners esperados 8,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

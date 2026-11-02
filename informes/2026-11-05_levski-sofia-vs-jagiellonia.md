@@ -1,7 +1,7 @@
 # Levski Sofia – Jagiellonia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · National Stadium Vasil Levski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -189,13 +189,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 59% | 52% | 56% | 1.80 | -0% |
 | Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 69% | 74% | 71% | 1.28 | -9% |
-| Ambos marcan: No | 51% | 45% | 48% | 2.05 | -2% |
+| Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
 | Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 76% | 73% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 44% | 53% | 48% | 1.80 | -13% |
 | Goles más/menos: Más de 3.5 | 23% | 32% | 27% | 3.00 | -18% |
 | Goles más/menos: Menos de 1.5 | 30% | 24% | 27% | 4.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +3% |
+| Goles más/menos: Menos de 2.5 | 56% | 47% | 52% | 2.00 | +4% |
 | Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
@@ -211,7 +211,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -5% |
+| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
 | 1X2 descanso: 1 | 30% | 36% | 33% | 2.60 | -14% |
 

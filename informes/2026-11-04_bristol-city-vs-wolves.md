@@ -1,10 +1,10 @@
 # Bristol City – Wolves
 **Championship** · Regular Season - 14 · 04/11/2026 21:00 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 08:01_
+_Actualizadas: 02/11 02:10_
 
 - **1X2:** 1 **3.25**  ·  X **3.50**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.30**  ·  X2 **1.33**
@@ -172,7 +172,7 @@ _Sin bajas comunicadas por ahora._
 | T. Chirewa | F | 9 | 258 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 8 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,86 · visitante 1,45 · córners esperados 10,1._
+_Goles esperados: local 0,86 · visitante 1,44 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -180,8 +180,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 51% | 45% | 48% | 2.10 | -0% |
 | 1X2: X | 27% | 27% | 27% | 3.50 | -6% |
-| 1X2: 1 | 22% | 29% | 26% | 3.25 | -17% |
-| Doble oportunidad: X2 | 78% | 71% | 74% | 1.33 | -1% |
+| 1X2: 1 | 23% | 29% | 26% | 3.25 | -17% |
+| Doble oportunidad: X2 | 77% | 71% | 74% | 1.33 | -1% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 49% | 56% | 53% | 1.70 | -11% |
 | Ambos marcan: No | 56% | 44% | 50% | 2.10 | +5% |
@@ -204,6 +204,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
 | 1X2 descanso: 2 | 36% | 34% | 35% | 2.75 | -5% |
 | 1X2 descanso: X | 46% | 41% | 44% | 2.25 | -2% |
-| 1X2 descanso: 1 | 19% | 25% | 22% | 3.75 | -19% |
+| 1X2 descanso: 1 | 19% | 25% | 22% | 3.75 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

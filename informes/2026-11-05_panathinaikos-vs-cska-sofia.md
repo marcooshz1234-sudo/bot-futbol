@@ -1,7 +1,7 @@
 # Panathinaikos – CSKA Sofia
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Olympic Stadium of Athens
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:48_
@@ -181,7 +181,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 17% | 16% | 5.50 | -12% |
 | 1X2: X | 16% | 22% | 19% | 4.20 | -20% |
-| 1X2: 1 | 69% | 61% | 65% | 1.50 | -3% |
+| 1X2: 1 | 69% | 61% | 65% | 1.50 | -2% |
 | Doble oportunidad: X2 | 31% | 38% | 35% | 2.50 | -13% |
 | Doble oportunidad: 12 | 84% | 78% | 81% | 1.22 | -1% |
 | Doble oportunidad: 1X | 85% | 84% | 84% | 1.14 | -4% |

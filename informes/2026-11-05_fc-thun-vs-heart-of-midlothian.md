@@ -1,7 +1,7 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -179,18 +179,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 36% | 35% | 2.60 | -10% |
+| 1X2: 2 | 33% | 36% | 34% | 2.60 | -10% |
 | 1X2: X | 26% | 27% | 26% | 3.50 | -9% |
 | 1X2: 1 | 41% | 37% | 39% | 2.50 | -2% |
 | Doble oportunidad: X2 | 59% | 63% | 61% | 1.50 | -9% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 67% | 63% | 65% | 1.50 | -3% |
+| Doble oportunidad: 1X | 67% | 63% | 65% | 1.50 | -2% |
 | Ambos marcan: No | 45% | 38% | 41% | 2.50 | +3% |
 | Ambos marcan: Sí | 55% | 62% | 59% | 1.50 | -12% |
 | Goles más/menos: Más de 2.5 | 51% | 60% | 56% | 1.57 | -13% |
 | Goles más/menos: Más de 3.5 | 29% | 39% | 34% | 2.38 | -19% |
 | Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles más/menos: Menos de 2.5 | 49% | 40% | 44% | 2.35 | +4% |
+| Goles más/menos: Menos de 2.5 | 49% | 40% | 44% | 2.35 | +5% |
 | Goles más/menos: Menos de 3.5 | 71% | 61% | 66% | 1.53 | +1% |
 | Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
@@ -207,9 +207,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 36% | 46% | 41% | 2.00 | -17% |
 | Goles del visitante: Más de 2.5 | 14% | 22% | 18% | 4.33 | -24% |
 | Goles del visitante: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +8% |
-| Goles del visitante: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +1% |
+| Goles del visitante: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
-| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -12% |
+| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -13% |
 | 1X2 descanso: X | 42% | 39% | 41% | 2.40 | -3% |
 | 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -6% |
 

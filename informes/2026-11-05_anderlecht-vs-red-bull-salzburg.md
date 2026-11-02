@@ -1,7 +1,7 @@
 # Anderlecht – Red Bull Salzburg
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Lotto Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 13:55_
@@ -198,7 +198,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
 | Goles del local: Más de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
 | Goles del local: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |

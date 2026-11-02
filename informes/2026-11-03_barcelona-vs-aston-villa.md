@@ -1,20 +1,20 @@
 # Barcelona – Aston Villa
 **Champions League** · League Stage - 4 · 03/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:54_
+_Actualizadas: 02/11 02:09_
 
-- **1X2:** 1 **1.20**  ·  X **8.00**  ·  2 **10.00**
-- **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.75**
+- **1X2:** 1 **1.25**  ·  X **7.50**  ·  2 **8.00**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.10**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
-    - 2,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.20** · menos **4.50**
     - 3,5: más **1.57** · menos **2.38**
-    - 4,5: más **2.30** · menos **1.62**
-    - 5,5: más **3.75** · menos **1.28**
+    - 4,5: más **2.20** · menos **1.67**
+    - 5,5: más **3.50** · menos **1.30**
     - 6,5: más **6.00** · menos **1.12**
     - 7,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -29,26 +29,33 @@ _Actualizadas: 01/11 13:54_
     - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
-- **1X2 descanso:** 1 **1.57**  ·  X **3.40**  ·  2 **7.50**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **1.57**  ·  X **3.40**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.40** · menos **2.75**
     - 2,5: más **2.20** · menos **1.62**
-    - 3,5: más **4.00** · menos **1.22**
+    - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
-- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **1.11**  ·  2 **4.00**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **1.12**  ·  2 **3.75**
 - **To Score In Both Halves By Teams:** 1 **1.50**  ·  2 **5.00**
-- **Win Both Halves:** 1 **2.25**  ·  2 **34.00**
-- **Results/Both Teams Score:** Home/Yes **2.05**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.75**  ·  Draw/No **34.00**  ·  Away/No **23.00**
+- **Win Both Halves:** 1 **2.38**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **2.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **11.00**  ·  Home/No **2.75**  ·  Draw/No **34.00**  ·  Away/No **21.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **5.50**
-- **Away Player Shots On Target Total:** Brian Madjo **13.00**  ·  Rodri **17.00**  ·  Victor Lindelof **26.00**  ·  Alysson Edward **29.00**  ·  Jules Kounde **13.00**  ·  Lamine Yamal **17.00**  ·  Pedri **23.00**  ·  Pau Cubarsi **9.50**  ·  Joao Cancelo **41.00**  ·  Raphinha **21.00**  ·  George Hemmings **67.00**  ·  Ibrahim Mbaye **29.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **10.00**  ·  Emiliano Buendia **29.00**  ·  Andreas Christensen **9.00**  ·  Marc Bernal **8.50**  ·  Eric Garcia **10.00**  ·  Dani Olmo **23.00**  ·  Gavi **34.00**  ·  Fermin Lopez **11.00**  ·  Hamza Abdelkarim **9.50**  ·  Brian Farinas **15.00**  ·  Nicolas Jackson **17.00**  ·  Alex Campos **9.00**  ·  Matty Cash **126.00**  ·  Pau Torres **34.00**  ·  Ross Barkley **67.00**  ·  Anthony Gordon **12.00**  ·  Alejandro Garnacho **51.00**  ·  Taylor Harwood-Bellis **17.00**  ·  Aaron Wan-Bissaka **201.00**  ·  Tammy Abraham **10.00**  ·  Leon Goretzka **41.00**  ·  Frenkie De Jong **41.00**  ·  Alex Balde **41.00**  ·  Ian Maatsen **126.00**  ·  Lamare Bogarde **26.00**  ·  John McGinn **51.00**  ·  Boubacar Kamara **41.00**  ·  Tyrone Mings **23.00**  ·  Matteo Ruggeri **41.00**  ·  Joao Gomes **101.00**  ·  Johan Manzambi **15.00**  ·  Karim Adeyemi **15.00**  ·  Martin Gerard **29.00**
-- **Anytime Goal Scorer:** Brian Madjo **4.00**  ·  Rodri **5.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **5.00**  ·  Jules Kounde **5.50**  ·  Lamine Yamal **1.80**  ·  Pedri **4.00**  ·  Pau Cubarsi **6.50**  ·  Joao Cancelo **5.00**  ·  Raphinha **1.62**  ·  George Hemmings **7.50**  ·  Ibrahim Mbaye **5.50**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.80**  ·  Emiliano Buendia **4.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **4.00**  ·  Eric Garcia **5.50**  ·  Dani Olmo **2.50**  ·  Gavi **4.50**  ·  Fermin Lopez **2.38**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **3.10**  ·  Nicolas Jackson **3.25**  ·  Alex Campos **5.50**  ·  Matty Cash **13.00**  ·  Pau Torres **17.00**  ·  Ross Barkley **7.50**  ·  Anthony Gordon **2.00**  ·  Alejandro Garnacho **5.50**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **21.00**  ·  Tammy Abraham **3.60**  ·  Leon Goretzka **8.50**  ·  Frenkie De Jong **4.50**  ·  Alex Balde **6.50**  ·  Ian Maatsen **10.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **6.50**  ·  Boubacar Kamara **13.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **13.00**  ·  Joao Gomes **10.00**  ·  Johan Manzambi **4.00**  ·  Karim Adeyemi **2.00**  ·  Martin Gerard **7.50**
-- **Player to Score or Assist:** Brian Madjo **3.00**  ·  Rodri **2.62**  ·  Victor Lindelof **13.00**  ·  Alysson Edward **3.40**  ·  Jules Kounde **2.88**  ·  Lamine Yamal **1.25**  ·  Pedri **1.91**  ·  Pau Cubarsi **4.50**  ·  Joao Cancelo **2.20**  ·  Raphinha **1.25**  ·  George Hemmings **4.75**  ·  Ibrahim Mbaye **3.50**  ·  Xavi Espart **3.00**  ·  Gabriel Jesus **1.40**  ·  Emiliano Buendia **2.62**  ·  Andreas Christensen **4.00**  ·  Marc Bernal **2.10**  ·  Eric Garcia **3.50**  ·  Dani Olmo **1.62**  ·  Gavi **2.40**  ·  Fermin Lopez **1.50**  ·  Hamza Abdelkarim **1.62**  ·  Brian Farinas **1.83**  ·  Nicolas Jackson **2.60**  ·  Alex Campos **4.00**  ·  Matty Cash **6.50**  ·  Pau Torres **13.00**  ·  Ross Barkley **4.33**  ·  Anthony Gordon **1.36**  ·  Alejandro Garnacho **3.75**  ·  Taylor Harwood-Bellis **9.50**  ·  Aaron Wan-Bissaka **8.50**  ·  Tammy Abraham **2.88**  ·  Leon Goretzka **4.75**  ·  Frenkie De Jong **2.40**  ·  Alex Balde **3.20**  ·  Ian Maatsen **4.75**  ·  Lamare Bogarde **8.50**  ·  John McGinn **4.00**  ·  Boubacar Kamara **6.50**  ·  Tyrone Mings **11.00**  ·  Matteo Ruggeri **6.50**  ·  Joao Gomes **5.50**  ·  Johan Manzambi **2.50**  ·  Karim Adeyemi **1.44**  ·  Martin Gerard **3.25**
+- **Total Shots:**
+    - 29,5: más **1.73** · menos **2.00**
+- **Home Player Shots On Target Total:** Anthony Gordon - 1 **1.25**  ·  Dani Olmo - 1 **1.30**  ·  Fermin Lopez - 1 **1.22**  ·  Brian Farinas - 1 **2.62**  ·  Marc Bernal - 1 **4.00**  ·  Pedri - 1 **2.62**  ·  Frenkie de Jong - 1 **3.50**  ·  Xavi Espart - 1 **4.00**  ·  Gavi - 1 **3.00**  ·  Andreas Christensen - 1 **2.38**  ·  Jules Kounde - 1 **5.50**  ·  Eric Garcia - 1 **4.00**  ·  Alex Balde - 1 **5.50**  ·  Martin Gerard - 1 **5.50**  ·  Pau Cubarsi - 1 **4.50**  ·  Lamine Yamal - 2 **1.73**  ·  Raphinha - 2 **1.62**  ·  Karim Adeyemi - 2 **2.00**  ·  Anthony Gordon - 2 **2.10**  ·  Dani Olmo - 2 **2.38**  ·  Fermin Lopez - 2 **2.10**  ·  Brian Farinas - 2 **11.00**  ·  Marc Bernal - 2 **21.00**  ·  Pedri - 2 **11.00**  ·  Frenkie de Jong - 2 **19.00**  ·  Xavi Espart - 2 **21.00**  ·  Gavi - 2 **13.00**  ·  Andreas Christensen - 2 **9.00**  ·  Eric Garcia - 2 **21.00**  ·  Pau Cubarsi - 2 **21.00**  ·  Lamine Yamal - 3 **3.25**  ·  Raphinha - 3 **3.00**  ·  Karim Adeyemi - 3 **4.33**  ·  Anthony Gordon - 3 **4.50**  ·  Dani Olmo - 3 **5.50**  ·  Fermin Lopez - 3 **4.50**  ·  Lamine Yamal - 4 **7.00**  ·  Raphinha - 4 **6.50**  ·  Karim Adeyemi - 4 **11.00**  ·  Anthony Gordon - 4 **13.00**  ·  Dani Olmo - 4 **15.00**  ·  Fermin Lopez - 4 **11.00**  ·  Lamine Yamal - 5 **17.00**  ·  Raphinha - 5 **15.00**  ·  Karim Adeyemi - 5 **21.00**  ·  Fermin Lopez - 5 **21.00**  ·  Lamine Yamal - 1 **1.14**  ·  Raphinha - 1 **1.12**  ·  Karim Adeyemi - 1 **1.22**  ·  Gabriel Jesus - 1 **1.20**  ·  Gabriel Jesus - 2 **1.91**  ·  Gabriel Jesus - 3 **4.00**  ·  Gabriel Jesus - 4 **10.00**  ·  Gabriel Jesus - 5 **21.00**  ·  Rodri - 1 **2.38**  ·  Joao Cancelo - 1 **2.38**  ·  Rodri - 2 **9.00**  ·  Joao Cancelo - 2 **9.00**  ·  Hamza Abdelkarim - 1 **1.18**  ·  Hamza Abdelkarim - 2 **1.83**  ·  Hamza Abdelkarim - 3 **3.75**  ·  Hamza Abdelkarim - 4 **9.00**  ·  Hamza Abdelkarim - 5 **21.00**  ·  Alex Campos - 1 **2.38**  ·  Alex Campos - 2 **9.00**
+- **Away Player Shots On Target Total:** Brian Madjo **11.00**  ·  Rodri **17.00**  ·  Victor Lindelof **26.00**  ·  Alysson Edward **29.00**  ·  Jules Kounde **13.00**  ·  Lamine Yamal **17.00**  ·  Pedri **26.00**  ·  Pau Cubarsi **9.50**  ·  Joao Cancelo **41.00**  ·  Raphinha **21.00**  ·  George Hemmings **67.00**  ·  Ibrahim Mbaye **26.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **10.00**  ·  Emiliano Buendia **26.00**  ·  Andreas Christensen **9.00**  ·  Marc Bernal **10.00**  ·  Eric Garcia **10.00**  ·  Dani Olmo **23.00**  ·  Gavi **34.00**  ·  Fermin Lopez **11.00**  ·  Hamza Abdelkarim **9.50**  ·  Brian Farinas **15.00**  ·  Nicolas Jackson **15.00**  ·  Alex Campos **9.00**  ·  Matty Cash **126.00**  ·  Pau Torres **34.00**  ·  Ross Barkley **67.00**  ·  Anthony Gordon **12.00**  ·  Alejandro Garnacho **51.00**  ·  Taylor Harwood-Bellis **17.00**  ·  Aaron Wan-Bissaka **201.00**  ·  Tammy Abraham **10.00**  ·  Leon Goretzka **41.00**  ·  Frenkie De Jong **41.00**  ·  Alex Balde **41.00**  ·  Ian Maatsen **101.00**  ·  Lamare Bogarde **26.00**  ·  John McGinn **51.00**  ·  Boubacar Kamara **41.00**  ·  Tyrone Mings **23.00**  ·  Matteo Ruggeri **41.00**  ·  Joao Gomes **101.00**  ·  Johan Manzambi **13.00**  ·  Karim Adeyemi **15.00**  ·  Martin Gerard **29.00**
+- **Away Player Shots Total:**
+    - 8,5: más **1.91** · menos **1.80**
+- **Home Player Shots:** Anthony Gordon - 1 **1.01**  ·  Dani Olmo - 1 **1.03**  ·  Fermin Lopez - 1 **1.01**  ·  Brian Farinas - 1 **1.40**  ·  Marc Bernal - 1 **1.50**  ·  Pedri - 1 **1.40**  ·  Frenkie de Jong - 1 **1.83**  ·  Xavi Espart - 1 **1.83**  ·  Gavi - 1 **1.50**  ·  Andreas Christensen - 1 **1.50**  ·  Jules Kounde - 1 **1.83**  ·  Eric Garcia - 1 **1.57**  ·  Alex Balde - 1 **2.00**  ·  Martin Gerard - 1 **2.38**  ·  Pau Cubarsi - 1 **2.38**  ·  Lamine Yamal - 2 **1.02**  ·  Raphinha - 2 **1.03**  ·  Karim Adeyemi - 2 **1.10**  ·  Anthony Gordon - 2 **1.11**  ·  Dani Olmo - 2 **1.18**  ·  Fermin Lopez - 2 **1.10**  ·  Brian Farinas - 2 **2.75**  ·  Marc Bernal - 2 **3.25**  ·  Pedri - 2 **2.75**  ·  Frenkie de Jong - 2 **5.00**  ·  Xavi Espart - 2 **5.00**  ·  Gavi - 2 **3.25**  ·  Andreas Christensen - 2 **3.25**  ·  Jules Kounde - 2 **5.00**  ·  Eric Garcia - 2 **3.50**  ·  Alex Balde - 2 **6.00**  ·  Martin Gerard - 2 **8.00**  ·  Pau Cubarsi - 2 **8.00**  ·  Lamine Yamal - 3 **1.10**  ·  Raphinha - 3 **1.12**  ·  Karim Adeyemi - 3 **1.33**  ·  Anthony Gordon - 3 **1.36**  ·  Dani Olmo - 3 **1.57**  ·  Fermin Lopez - 3 **1.33**  ·  Brian Farinas - 3 **6.50**  ·  Marc Bernal - 3 **8.00**  ·  Pedri - 3 **6.50**  ·  Frenkie de Jong - 3 **15.00**  ·  Xavi Espart - 3 **15.00**  ·  Gavi - 3 **8.00**  ·  Andreas Christensen - 3 **8.00**  ·  Jules Kounde - 3 **15.00**  ·  Eric Garcia - 3 **10.00**  ·  Alex Balde - 3 **19.00**  ·  Martin Gerard - 3 **21.00**  ·  Pau Cubarsi - 3 **21.00**  ·  Lamine Yamal - 4 **1.25**  ·  Raphinha - 4 **1.33**  ·  Karim Adeyemi - 4 **1.80**  ·  Anthony Gordon - 4 **1.83**  ·  Dani Olmo - 4 **2.25**  ·  Fermin Lopez - 4 **1.80**  ·  Brian Farinas - 4 **17.00**  ·  Marc Bernal - 4 **21.00**  ·  Pedri - 4 **17.00**  ·  Gavi - 4 **21.00**  ·  Andreas Christensen - 4 **21.00**  ·  Eric Garcia - 4 **21.00**  ·  Lamine Yamal - 5 **1.57**  ·  Raphinha - 5 **1.73**  ·  Karim Adeyemi - 5 **2.62**  ·  Anthony Gordon - 5 **2.75**  ·  Dani Olmo - 5 **3.75**  ·  Fermin Lopez - 5 **2.62**  ·  Lamine Yamal - 6 **2.10**  ·  Raphinha - 6 **2.50**  ·  Karim Adeyemi - 6 **4.33**  ·  Anthony Gordon - 6 **4.50**  ·  Dani Olmo - 6 **7.00**  ·  Fermin Lopez - 6 **4.33**  ·  Lamine Yamal - 7 **3.00**  ·  Raphinha - 7 **3.75**  ·  Karim Adeyemi - 7 **8.00**  ·  Anthony Gordon - 7 **9.00**  ·  Dani Olmo - 7 **13.00**  ·  Fermin Lopez - 7 **8.00**  ·  Lamine Yamal - 8 **4.50**  ·  Raphinha - 8 **6.00**  ·  Karim Adeyemi - 8 **15.00**  ·  Anthony Gordon - 8 **15.00**  ·  Dani Olmo - 8 **21.00**  ·  Fermin Lopez - 8 **15.00**  ·  Lamine Yamal - 9 **8.00**  ·  Raphinha - 9 **11.00**  ·  Karim Adeyemi - 9 **21.00**  ·  Anthony Gordon - 9 **21.00**  ·  Lamine Yamal - 10 **13.00**  ·  Raphinha - 10 **19.00**  ·  Karim Adeyemi - 1 **1.01**  ·  Gabriel Jesus - 1 **1.01**  ·  Gabriel Jesus - 2 **1.11**  ·  Gabriel Jesus - 3 **1.36**  ·  Gabriel Jesus - 4 **1.83**  ·  Gabriel Jesus - 5 **2.75**  ·  Gabriel Jesus - 6 **4.50**  ·  Gabriel Jesus - 7 **9.00**  ·  Gabriel Jesus - 8 **15.00**  ·  Lamine Yamal - 11 **21.00**  ·  Fermin Lopez - 9 **21.00**  ·  Rodri - 1 **1.22**  ·  Joao Cancelo - 1 **1.30**  ·  Rodri - 2 **2.00**  ·  Joao Cancelo - 2 **2.25**  ·  Rodri - 3 **4.00**  ·  Joao Cancelo - 3 **5.00**  ·  Rodri - 4 **9.00**  ·  Joao Cancelo - 4 **13.00**  ·  Rodri - 5 **21.00**  ·  Gabriel Jesus - 9 **21.00**  ·  Joao Cancelo - 5 **21.00**  ·  Hamza Abdelkarim - 1 **1.01**  ·  Hamza Abdelkarim - 2 **1.10**  ·  Hamza Abdelkarim - 3 **1.33**  ·  Hamza Abdelkarim - 4 **1.80**  ·  Hamza Abdelkarim - 5 **2.62**  ·  Hamza Abdelkarim - 6 **4.33**  ·  Hamza Abdelkarim - 7 **8.00**  ·  Hamza Abdelkarim - 8 **15.00**  ·  Hamza Abdelkarim - 9 **21.00**  ·  Alex Campos - 1 **1.50**  ·  Alex Campos - 2 **3.25**  ·  Alex Campos - 3 **8.00**  ·  Alex Campos - 4 **21.00**
+- **Away Player Shots:** Taylor Harwood-Bellis - 1 **2.75**  ·  Taylor Harwood-Bellis - 2 **10.00**  ·  Ibrahim Mbaye - 1 **1.30**  ·  Ibrahim Mbaye - 2 **2.38**  ·  Ibrahim Mbaye - 3 **5.00**  ·  Ibrahim Mbaye - 4 **13.00**  ·  Ibrahim Mbaye - 5 **21.00**  ·  Tammy Abraham - 1 **1.17**  ·  Brian Madjo - 1 **1.28**  ·  Emiliano Buendia - 1 **1.22**  ·  Alejandro Garnacho - 1 **1.22**  ·  Johan Manzambi - 1 **1.14**  ·  George Hemmings - 1 **1.62**  ·  Ross Barkley - 1 **1.40**  ·  Alysson Edward - 1 **1.50**  ·  John McGinn - 1 **1.67**  ·  Ian Maatsen - 1 **1.80**  ·  Matty Cash - 1 **2.62**  ·  Lamare Bogarde - 1 **2.10**  ·  Victor Lindelof - 1 **6.00**  ·  Boubacar Kamara - 1 **4.00**  ·  Pau Torres - 1 **4.00**  ·  Tyrone Mings - 1 **3.40**  ·  Aaron Wan-Bissaka - 1 **6.00**  ·  Tammy Abraham - 2 **1.73**  ·  Brian Madjo - 2 **2.20**  ·  Emiliano Buendia - 2 **2.00**  ·  Alejandro Garnacho - 2 **1.91**  ·  Johan Manzambi - 2 **1.67**  ·  George Hemmings - 2 **3.75**  ·  Ross Barkley - 2 **2.62**  ·  Alysson Edward - 2 **3.25**  ·  John McGinn - 2 **4.00**  ·  Ian Maatsen - 2 **4.50**  ·  Matty Cash - 2 **9.00**  ·  Lamare Bogarde - 2 **6.50**  ·  Victor Lindelof - 2 **21.00**  ·  Boubacar Kamara - 2 **19.00**  ·  Pau Torres - 2 **19.00**  ·  Tyrone Mings - 2 **13.00**  ·  Aaron Wan-Bissaka - 2 **21.00**  ·  Tammy Abraham - 3 **3.00**  ·  Brian Madjo - 3 **4.50**  ·  Emiliano Buendia - 3 **4.00**  ·  Alejandro Garnacho - 3 **3.75**  ·  Johan Manzambi - 3 **3.00**  ·  George Hemmings - 3 **10.00**  ·  Ross Barkley - 3 **6.50**  ·  Alysson Edward - 3 **8.00**  ·  John McGinn - 3 **11.00**  ·  Ian Maatsen - 3 **15.00**  ·  Matty Cash - 3 **21.00**  ·  Lamare Bogarde - 3 **21.00**  ·  Tammy Abraham - 4 **6.00**  ·  Brian Madjo - 4 **11.00**  ·  Emiliano Buendia - 4 **9.00**  ·  Alejandro Garnacho - 4 **9.00**  ·  Johan Manzambi - 4 **6.00**  ·  George Hemmings - 4 **21.00**  ·  Ross Barkley - 4 **17.00**  ·  Alysson Edward - 4 **19.00**  ·  Tammy Abraham - 5 **13.00**  ·  Brian Madjo - 5 **21.00**  ·  Emiliano Buendia - 5 **21.00**  ·  Alejandro Garnacho - 5 **19.00**  ·  Johan Manzambi - 5 **13.00**  ·  Tammy Abraham - 6 **21.00**  ·  Nicolas Jackson - 1 **1.12**  ·  Nicolas Jackson - 2 **1.57**  ·  Nicolas Jackson - 3 **2.62**  ·  Nicolas Jackson - 4 **5.00**  ·  Nicolas Jackson - 5 **11.00**  ·  Nicolas Jackson - 6 **21.00**  ·  Joao Gomes - 1 **2.38**  ·  Leon Goretzka - 1 **1.44**  ·  Joao Gomes - 2 **8.00**  ·  Leon Goretzka - 2 **3.00**  ·  Joao Gomes - 3 **21.00**  ·  Leon Goretzka - 3 **7.00**  ·  Leon Goretzka - 4 **19.00**  ·  Johan Manzambi - 6 **21.00**
+- **Anytime Goal Scorer:** Brian Madjo **3.60**  ·  Rodri **5.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **5.00**  ·  Jules Kounde **5.50**  ·  Lamine Yamal **1.80**  ·  Pedri **4.00**  ·  Pau Cubarsi **7.00**  ·  Joao Cancelo **5.00**  ·  Raphinha **1.62**  ·  George Hemmings **7.50**  ·  Ibrahim Mbaye **5.50**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.80**  ·  Emiliano Buendia **4.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **4.00**  ·  Eric Garcia **5.50**  ·  Dani Olmo **2.50**  ·  Gavi **4.50**  ·  Fermin Lopez **2.38**  ·  Hamza Abdelkarim **2.00**  ·  Brian Farinas **3.10**  ·  Nicolas Jackson **3.40**  ·  Alex Campos **5.50**  ·  Matty Cash **13.00**  ·  Pau Torres **17.00**  ·  Ross Barkley **7.50**  ·  Anthony Gordon **2.00**  ·  Alejandro Garnacho **5.50**  ·  Taylor Harwood-Bellis **13.00**  ·  Aaron Wan-Bissaka **21.00**  ·  Tammy Abraham **3.60**  ·  Leon Goretzka **9.00**  ·  Frenkie De Jong **4.50**  ·  Alex Balde **7.00**  ·  Ian Maatsen **11.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **6.00**  ·  Boubacar Kamara **13.00**  ·  Tyrone Mings **17.00**  ·  Matteo Ruggeri **13.00**  ·  Joao Gomes **11.00**  ·  Johan Manzambi **3.60**  ·  Karim Adeyemi **2.00**  ·  Martin Gerard **7.50**
+- **Player to Score or Assist:** Brian Madjo **2.75**  ·  Rodri **2.62**  ·  Victor Lindelof **13.00**  ·  Alysson Edward **3.40**  ·  Jules Kounde **2.88**  ·  Lamine Yamal **1.25**  ·  Pedri **1.91**  ·  Pau Cubarsi **4.50**  ·  Joao Cancelo **2.20**  ·  Raphinha **1.25**  ·  George Hemmings **4.50**  ·  Ibrahim Mbaye **3.50**  ·  Xavi Espart **3.00**  ·  Gabriel Jesus **1.40**  ·  Emiliano Buendia **2.62**  ·  Andreas Christensen **4.00**  ·  Marc Bernal **2.10**  ·  Eric Garcia **3.50**  ·  Dani Olmo **1.62**  ·  Gavi **2.40**  ·  Fermin Lopez **1.50**  ·  Hamza Abdelkarim **1.62**  ·  Brian Farinas **1.83**  ·  Nicolas Jackson **2.60**  ·  Alex Campos **4.00**  ·  Matty Cash **6.50**  ·  Pau Torres **13.00**  ·  Ross Barkley **4.33**  ·  Anthony Gordon **1.36**  ·  Alejandro Garnacho **3.50**  ·  Taylor Harwood-Bellis **9.50**  ·  Aaron Wan-Bissaka **8.00**  ·  Tammy Abraham **2.88**  ·  Leon Goretzka **4.75**  ·  Frenkie De Jong **2.40**  ·  Alex Balde **3.20**  ·  Ian Maatsen **4.75**  ·  Lamare Bogarde **8.50**  ·  John McGinn **3.60**  ·  Boubacar Kamara **6.50**  ·  Tyrone Mings **11.00**  ·  Matteo Ruggeri **6.50**  ·  Joao Gomes **5.50**  ·  Johan Manzambi **2.50**  ·  Karim Adeyemi **1.44**  ·  Martin Gerard **3.25**
 
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Aston Villa (total) | Aston Villa fuera |
@@ -179,41 +186,41 @@ _Sin precedentes recientes._
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,12 · visitante 1,46 · córners esperados 9,4._
+_Goles esperados: local 3,14 · visitante 1,46 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 9% | 12% | 10.00 | +22% |
-| 1X2: X | 15% | 12% | 13% | 8.00 | +6% |
-| 1X2: 1 | 70% | 79% | 75% | 1.20 | -11% |
-| Doble oportunidad: X2 | 30% | 25% | 27% | 3.75 | +3% |
-| Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -5% |
-| Doble oportunidad: 1X | 85% | 90% | 87% | 1.06 | -7% |
+| 1X2: 2 | 15% | 12% | 13% | 8.00 | +6% |
+| 1X2: X | 15% | 13% | 14% | 7.50 | +2% |
+| 1X2: 1 | 71% | 76% | 73% | 1.25 | -9% |
+| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +3% |
+| Doble oportunidad: 12 | 85% | 87% | 86% | 1.10 | -5% |
+| Doble oportunidad: 1X | 85% | 88% | 87% | 1.08 | -6% |
 | Ambos marcan: No | 27% | 38% | 32% | 2.50 | -20% |
 | Ambos marcan: Sí | 73% | 62% | 68% | 1.50 | +2% |
-| Goles más/menos: Más de 2.5 | 84% | 78% | 81% | 1.22 | -1% |
+| Goles más/menos: Más de 2.5 | 84% | 79% | 81% | 1.20 | -2% |
 | Goles más/menos: Más de 3.5 | 67% | 60% | 64% | 1.57 | +0% |
-| Goles más/menos: Más de 4.5 | 48% | 41% | 45% | 2.30 | +3% |
-| Goles más/menos: Más de 5.5 | 31% | 25% | 28% | 3.75 | +6% |
-| Goles más/menos: Menos de 2.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Más de 4.5 | 49% | 43% | 46% | 2.20 | +1% |
+| Goles más/menos: Más de 5.5 | 31% | 27% | 29% | 3.50 | +2% |
+| Goles más/menos: Menos de 2.5 | 16% | 21% | 19% | 4.50 | -16% |
 | Goles más/menos: Menos de 3.5 | 33% | 40% | 36% | 2.38 | -14% |
-| Goles más/menos: Menos de 4.5 | 52% | 59% | 55% | 1.62 | -11% |
-| Goles más/menos: Menos de 5.5 | 69% | 75% | 72% | 1.28 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
+| Goles más/menos: Menos de 4.5 | 51% | 57% | 54% | 1.67 | -10% |
+| Goles más/menos: Menos de 5.5 | 69% | 73% | 71% | 1.30 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 59% | 56% | 58% | 1.67 | -4% |
 | Goles 1ª parte más/menos: Más de 2.5 | 32% | 29% | 31% | 3.25 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 42% | 2.10 | -11% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 2.5 | 60% | 61% | 61% | 1.53 | -7% |
+| Goles del local: Más de 2.5 | 61% | 61% | 61% | 1.53 | -7% |
 | Goles del local: Más de 3.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles del local: Más de 4.5 | 21% | 23% | 22% | 4.00 | -12% |
-| Goles del local: Menos de 2.5 | 40% | 39% | 39% | 2.38 | -6% |
+| Goles del local: Menos de 2.5 | 39% | 39% | 39% | 2.38 | -7% |
 | Goles del local: Menos de 3.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del local: Menos de 4.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 ✅ | 43% | 29% | 36% | 3.25 | +17% |
-| Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -23% |
-| Goles del visitante: Menos de 1.5 | 57% | 71% | 64% | 1.33 | -15% |
-| 1X2 descanso: X | 28% | 28% | 28% | 3.40 | -5% |
-| 1X2 descanso: 1 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
+| Goles del visitante: Más de 1.5 ✅ | 43% | 31% | 37% | 3.00 | +11% |
+| Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -14% |
+| 1X2 descanso: X | 28% | 27% | 28% | 3.40 | -6% |
+| 1X2 descanso: 1 | 55% | 59% | 57% | 1.57 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

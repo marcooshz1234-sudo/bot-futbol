@@ -1,7 +1,7 @@
 # Sevilla – Alaves
 **LaLiga** · Regular Season - 12 · 06/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 08:01_
@@ -176,7 +176,7 @@ _Sin bajas comunicadas por ahora._
 | Hugo Novoa | F | 3 | 89 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,08 · córners esperados 8,6._
+_Goles esperados: local 1,37 · visitante 1,07 · córners esperados 8,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -191,13 +191,13 @@ _Goles esperados: local 1,37 · visitante 1,08 · córners esperados 8,6._
 | Goles más/menos: Más de 1.5 | 70% | 68% | 69% | 1.40 | -3% |
 | Goles más/menos: Más de 2.5 | 44% | 43% | 44% | 2.20 | -4% |
 | Goles más/menos: Más de 3.5 | 23% | 24% | 23% | 4.00 | -6% |
-| Goles más/menos: Menos de 1.5 | 30% | 32% | 31% | 3.00 | -8% |
+| Goles más/menos: Menos de 1.5 | 30% | 32% | 31% | 3.00 | -7% |
 | Goles más/menos: Menos de 2.5 | 56% | 57% | 56% | 1.67 | -6% |
 | Goles más/menos: Menos de 3.5 | 77% | 76% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 29% | 29% | 3.25 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles del local: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles del local: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
 | Goles del local: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |

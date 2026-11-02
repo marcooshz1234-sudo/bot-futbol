@@ -1,7 +1,7 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 02:14_
@@ -189,7 +189,7 @@ _Goles esperados: local 1,58 · visitante 1,44 · córners esperados 11,0._
 | Doble oportunidad: X2 | 59% | 60% | 59% | 1.57 | -7% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 65% | 67% | 66% | 1.40 | -8% |
-| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -6% |
+| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
 | Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 1.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 58% | 57% | 57% | 1.67 | -4% |
@@ -200,9 +200,9 @@ _Goles esperados: local 1,58 · visitante 1,44 · córners esperados 11,0._
 | Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
 | Goles del local: Más de 2.5 | 21% | 22% | 21% | 4.33 | -7% |
@@ -213,8 +213,8 @@ _Goles esperados: local 1,58 · visitante 1,44 · córners esperados 11,0._
 | Goles del visitante: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
 | Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
-| 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
+| 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -7% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -7% |
+| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

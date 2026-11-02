@@ -1,12 +1,12 @@
 # RB Leipzig – Manchester City
-**Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Red Bull Arena
+**Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 01/11 19:49._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 31/10 19:49_
+_Actualizadas: 02/11 02:10_
 
-- **1X2:** 1 **5.75**  ·  X **4.50**  ·  2 **1.53**
+- **1X2:** 1 **5.25**  ·  X **4.75**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.18**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -39,15 +39,15 @@ _Actualizadas: 31/10 19:49_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
-- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.25**
 - **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **1.83**
 - **Win Both Halves:** 1 **19.00**  ·  2 **3.50**
 - **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **2.40**  ·  Home/No **15.00**  ·  Draw/No **26.00**  ·  Away/No **3.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **4.33**
-- **Away Player Shots On Target Total:** Allan Andrade **23.00**  ·  Ayyoub Bouaddi **23.00**  ·  Johan Bakayoko **34.00**  ·  Vitor Reis **17.00**  ·  Andrija Maksimovic **29.00**  ·  Jeremy Doku **29.00**  ·  Marc Guehi **11.00**  ·  Rayan Ait Nouri **41.00**  ·  Willi Orban **17.00**  ·  Ruben Dias **15.00**  ·  Enzo Fernandez **15.00**  ·  Ryan McAidoo **17.00**  ·  Abdoul Kone **17.00**  ·  Rayan Cherki **23.00**  ·  Maxime Esteve **23.00**  ·  Neil El Aynaoui **23.00**  ·  Abduqodir Khusanov **26.00**  ·  Ezechiel Banzuzi **19.00**  ·  Matheus Nunes **41.00**  ·  Rocco Reitz **41.00**  ·  Max Finkgrafe **101.00**  ·  Assan Ouedraogo **34.00**  ·  Samba Konate **26.00**  ·  Benno Kaltefleiter **21.00**  ·  Floyd Samba **9.50**  ·  Elliot Anderson **34.00**  ·  Christopher Nkunku **17.00**  ·  Erling Haaland **4.75**  ·  Josko Gvardiol **11.00**  ·  Mateo Kovacic **51.00**  ·  Phil Foden **29.00**  ·  Rico Lewis **81.00**  ·  Brajan Gruda **23.00**  ·  Antonio Nusa **34.00**  ·  Benjamin Henrichs **67.00**  ·  Castello Lukeba **21.00**  ·  Christoph Baumgartner **15.00**  ·  David Raum **41.00**  ·  Lukas Klostermann **26.00**  ·  Nicolas Seiwald **41.00**  ·  Marc Guiu **13.00**  ·  Iliman-Cheikh Ndiaye **23.00**  ·  Nico O'Reilly **15.00**  ·  Kaden Braithwaite **21.00**  ·  Ridle Baku **41.00**  ·  Tidiam Gomis **21.00**  ·  Romulo da Cruz **21.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **4.00**
+- **Away Player Shots On Target Total:** Allan Andrade **23.00**  ·  Ayyoub Bouaddi **23.00**  ·  Johan Bakayoko **34.00**  ·  Vitor Reis **17.00**  ·  Andrija Maksimovic **29.00**  ·  Jeremy Doku **29.00**  ·  Marc Guehi **11.00**  ·  Rayan Ait Nouri **41.00**  ·  Willi Orban **17.00**  ·  Ruben Dias **15.00**  ·  Enzo Fernandez **15.00**  ·  Ryan McAidoo **17.00**  ·  Abdoul Kone **17.00**  ·  Rayan Cherki **23.00**  ·  Maxime Esteve **29.00**  ·  Neil El Aynaoui **23.00**  ·  Abduqodir Khusanov **26.00**  ·  Ezechiel Banzuzi **21.00**  ·  Matheus Nunes **41.00**  ·  Rocco Reitz **41.00**  ·  Max Finkgrafe **101.00**  ·  Assan Ouedraogo **34.00**  ·  Samba Konate **26.00**  ·  Benno Kaltefleiter **21.00**  ·  Floyd Samba **9.50**  ·  Elliot Anderson **34.00**  ·  Christopher Nkunku **17.00**  ·  Erling Haaland **4.75**  ·  Josko Gvardiol **11.00**  ·  Mateo Kovacic **51.00**  ·  Phil Foden **29.00**  ·  Rico Lewis **81.00**  ·  Brajan Gruda **23.00**  ·  Antonio Nusa **34.00**  ·  Benjamin Henrichs **67.00**  ·  Castello Lukeba **26.00**  ·  Christoph Baumgartner **15.00**  ·  David Raum **41.00**  ·  Lukas Klostermann **34.00**  ·  Nicolas Seiwald **41.00**  ·  Marc Guiu **13.00**  ·  Iliman-Cheikh Ndiaye **23.00**  ·  Nico O'Reilly **15.00**  ·  Kaden Braithwaite **21.00**  ·  Ridle Baku **41.00**  ·  Tidiam Gomis **21.00**  ·  Romulo da Cruz **21.00**
 - **Anytime Goal Scorer:** Allan Andrade **3.00**  ·  Ayyoub Bouaddi **6.00**  ·  Johan Bakayoko **4.00**  ·  Vitor Reis **6.50**  ·  Andrija Maksimovic **5.00**  ·  Jeremy Doku **3.40**  ·  Marc Guehi **6.50**  ·  Rayan Ait Nouri **4.50**  ·  Willi Orban **12.00**  ·  Ruben Dias **10.00**  ·  Enzo Fernandez **4.00**  ·  Ryan McAidoo **3.40**  ·  Abdoul Kone **12.00**  ·  Rayan Cherki **2.50**  ·  Maxime Esteve **19.00**  ·  Neil El Aynaoui **6.00**  ·  Abduqodir Khusanov **10.00**  ·  Ezechiel Banzuzi **6.00**  ·  Matheus Nunes **8.50**  ·  Rocco Reitz **6.00**  ·  Max Finkgrafe **12.00**  ·  Assan Ouedraogo **6.00**  ·  Samba Konate **3.40**  ·  Benno Kaltefleiter **7.50**  ·  Floyd Samba **2.10**  ·  Elliot Anderson **6.00**  ·  Christopher Nkunku **3.40**  ·  Erling Haaland **1.53**  ·  Josko Gvardiol **6.50**  ·  Mateo Kovacic **6.00**  ·  Phil Foden **2.60**  ·  Rico Lewis **10.00**  ·  Brajan Gruda **4.50**  ·  Antonio Nusa **4.50**  ·  Benjamin Henrichs **12.00**  ·  Castello Lukeba **19.00**  ·  Christoph Baumgartner **4.00**  ·  David Raum **10.00**  ·  Lukas Klostermann **19.00**  ·  Nicolas Seiwald **10.00**  ·  Marc Guiu **3.40**  ·  Iliman-Cheikh Ndiaye **2.60**  ·  Nico O'Reilly **4.50**  ·  Kaden Braithwaite **8.50**  ·  Ridle Baku **7.50**  ·  Tidiam Gomis **4.50**  ·  Romulo da Cruz **3.40**
-- **Player to Score or Assist:** Allan Andrade **1.83**  ·  Ayyoub Bouaddi **2.75**  ·  Johan Bakayoko **2.75**  ·  Vitor Reis **4.75**  ·  Andrija Maksimovic **3.20**  ·  Jeremy Doku **1.83**  ·  Marc Guehi **4.50**  ·  Rayan Ait Nouri **2.50**  ·  Willi Orban **9.00**  ·  Ruben Dias **6.50**  ·  Enzo Fernandez **2.20**  ·  Ryan McAidoo **2.20**  ·  Abdoul Kone **9.00**  ·  Rayan Cherki **1.44**  ·  Maxime Esteve **13.00**  ·  Neil El Aynaoui **4.00**  ·  Abduqodir Khusanov **6.50**  ·  Ezechiel Banzuzi **4.00**  ·  Matheus Nunes **3.40**  ·  Rocco Reitz **3.75**  ·  Max Finkgrafe **7.00**  ·  Assan Ouedraogo **3.25**  ·  Samba Konate **2.62**  ·  Benno Kaltefleiter **4.75**  ·  Floyd Samba **1.62**  ·  Elliot Anderson **2.50**  ·  Christopher Nkunku **2.50**  ·  Erling Haaland **1.36**  ·  Josko Gvardiol **4.33**  ·  Mateo Kovacic **3.10**  ·  Phil Foden **1.80**  ·  Rico Lewis **3.40**  ·  Brajan Gruda **2.88**  ·  Antonio Nusa **2.88**  ·  Benjamin Henrichs **5.00**  ·  Castello Lukeba **13.00**  ·  Christoph Baumgartner **2.50**  ·  David Raum **3.75**  ·  Lukas Klostermann **13.00**  ·  Nicolas Seiwald **6.00**  ·  Marc Guiu **2.60**  ·  Iliman-Cheikh Ndiaye **1.80**  ·  Nico O'Reilly **2.88**  ·  Kaden Braithwaite **5.50**  ·  Ridle Baku **4.00**  ·  Tidiam Gomis **3.25**  ·  Romulo da Cruz **2.50**
+- **Player to Score or Assist:** Allan Andrade **1.83**  ·  Ayyoub Bouaddi **2.75**  ·  Johan Bakayoko **2.75**  ·  Vitor Reis **4.75**  ·  Andrija Maksimovic **3.20**  ·  Jeremy Doku **1.83**  ·  Marc Guehi **4.50**  ·  Rayan Ait Nouri **2.50**  ·  Willi Orban **9.00**  ·  Ruben Dias **6.50**  ·  Enzo Fernandez **2.20**  ·  Ryan McAidoo **2.20**  ·  Abdoul Kone **9.00**  ·  Rayan Cherki **1.44**  ·  Maxime Esteve **13.00**  ·  Neil El Aynaoui **4.00**  ·  Abduqodir Khusanov **6.50**  ·  Ezechiel Banzuzi **4.00**  ·  Matheus Nunes **3.40**  ·  Rocco Reitz **3.75**  ·  Max Finkgrafe **7.00**  ·  Assan Ouedraogo **3.25**  ·  Samba Konate **2.62**  ·  Benno Kaltefleiter **4.75**  ·  Floyd Samba **1.62**  ·  Elliot Anderson **2.50**  ·  Christopher Nkunku **2.50**  ·  Erling Haaland **1.36**  ·  Josko Gvardiol **4.33**  ·  Mateo Kovacic **3.10**  ·  Phil Foden **1.80**  ·  Rico Lewis **3.40**  ·  Brajan Gruda **2.88**  ·  Antonio Nusa **2.75**  ·  Benjamin Henrichs **5.00**  ·  Castello Lukeba **13.00**  ·  Christoph Baumgartner **2.50**  ·  David Raum **3.75**  ·  Lukas Klostermann **13.00**  ·  Nicolas Seiwald **6.00**  ·  Marc Guiu **2.60**  ·  Iliman-Cheikh Ndiaye **1.80**  ·  Nico O'Reilly **2.88**  ·  Kaden Braithwaite **5.50**  ·  Ridle Baku **4.00**  ·  Tidiam Gomis **3.25**  ·  Romulo da Cruz **2.50**
 
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | Manchester City (total) | Manchester City fuera |
@@ -186,34 +186,34 @@ _Goles esperados: local 1,72 · visitante 2,00 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 62% | 54% | 1.53 | -18% |
-| 1X2: X | 21% | 21% | 21% | 4.50 | -4% |
-| 1X2: 1 | 34% | 17% | 25% | 5.75 | +44% |
+| 1X2: 2 | 45% | 62% | 53% | 1.53 | -18% |
+| 1X2: X | 21% | 20% | 21% | 4.75 | -2% |
+| 1X2: 1 | 34% | 18% | 26% | 5.25 | +36% |
 | Doble oportunidad: X2 | 66% | 82% | 74% | 1.14 | -16% |
 | Doble oportunidad: 12 | 79% | 79% | 79% | 1.18 | -7% |
 | Doble oportunidad: 1X | 55% | 39% | 47% | 2.38 | +12% |
-| Ambos marcan: No | 29% | 35% | 32% | 2.62 | -16% |
+| Ambos marcan: No | 29% | 35% | 32% | 2.62 | -15% |
 | Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -2% |
 | Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -3% |
-| Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.91 | -4% |
+| Goles más/menos: Más de 3.5 | 51% | 50% | 50% | 1.91 | -4% |
 | Goles más/menos: Más de 4.5 | 32% | 32% | 32% | 3.00 | -5% |
 | Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.20 | -7% |
-| Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.91 | -5% |
+| Goles más/menos: Menos de 3.5 | 49% | 50% | 50% | 1.91 | -5% |
 | Goles más/menos: Menos de 4.5 | 68% | 68% | 68% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 0.5 | 82% | 71% | 76% | 1.33 | +2% |
-| Goles del local: Más de 1.5 ✅ | 51% | 35% | 43% | 2.62 | +13% |
+| Goles del local: Más de 1.5 ✅ | 51% | 35% | 43% | 2.62 | +14% |
 | Goles del local: Menos de 0.5 | 18% | 29% | 24% | 3.25 | -24% |
 | Goles del local: Menos de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
-| Goles del visitante: Más de 1.5 | 60% | 71% | 65% | 1.33 | -13% |
+| Goles del visitante: Más de 1.5 | 59% | 71% | 65% | 1.33 | -13% |
 | Goles del visitante: Más de 2.5 | 32% | 44% | 38% | 2.10 | -19% |
 | Goles del visitante: Más de 3.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles del visitante: Menos de 1.5 ✅ | 40% | 29% | 35% | 3.25 | +13% |
+| Goles del visitante: Menos de 1.5 ✅ | 41% | 29% | 35% | 3.25 | +13% |
 | Goles del visitante: Menos de 2.5 | 68% | 56% | 62% | 1.67 | +3% |
 | Goles del visitante: Menos de 3.5 | 86% | 75% | 80% | 1.25 | +0% |
 | 1X2 descanso: 2 | 36% | 48% | 42% | 1.95 | -18% |
