@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-02 13:26",
+ "actualizado": "2026-11-02 13:36",
  "redes": {
   "instagram": {
-   "seguidores": 21,
-   "hoy": 0,
+   "seguidores": 22,
+   "hoy": 1,
    "serie": [
     19,
     20,
@@ -11,12 +11,12 @@
     20,
     21,
     21,
-    21
+    22
    ]
   },
   "threads": {
-   "seguidores": 1417,
-   "hoy": 10,
+   "seguidores": 1418,
+   "hoy": 11,
    "serie": [
     983,
     1225,
@@ -24,7 +24,7 @@
     1354,
     1375,
     1407,
-    1417
+    1418
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1648,
- "total_hoy": 13,
+ "total": 1650,
+ "total_hoy": 15,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "19:10",
   "dia": "2026-11-02",
-  "titulo": "Combi del lunes x2,70"
+  "titulo": "Combi Deportivo La Coruna vs Osasuna"
  },
  "ayer": {
   "aciertos": 41,
@@ -131,13 +131,18 @@
    "telegram": 207
   },
   "2026-11-02": {
-   "instagram": 21,
-   "threads": 1417,
+   "instagram": 22,
+   "threads": 1418,
    "facebook": 0,
    "telegram": 210
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 51,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 6,
    "likes_media": 0.0,
@@ -145,11 +150,6 @@
   },
   "Otros (reel)": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 51,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
