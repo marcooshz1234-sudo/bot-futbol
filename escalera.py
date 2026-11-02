@@ -43,6 +43,16 @@ FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
 
 
 def elegir_pool(fecha):
+    """02/11: si con lo exigente no sale (el 02/11 no salió y cayó en Lorient + «Fiorentina más tiros» al 27 %),
+    se afloja un poco, pero nunca por debajo del 60 % por pata."""
+    for prob_min, comb_min in ((SEGURA["prob_min"], SEGURA["comb_min"]), (0.60, 0.30)):
+        r = elegir_pool_(fecha, prob_min, comb_min)
+        if r:
+            return r
+    return None
+
+
+def elegir_pool_(fecha, prob_min, comb_min):
     import itertools
     import math
     import combis_dia as C
@@ -59,7 +69,7 @@ def elegir_pool(fecha):
             continue
         for p in C.pool_partido(ex, hist, ap):
             k = f"{p['mercado']}|{p['opcion']}"
-            if p["prob_aprendida"] < SEGURA["prob_min"] or any(x in k for x in FUERA) or p["fecha"] <= limite \
+            if p["prob_aprendida"] < prob_min or any(x in k for x in FUERA) or p["fecha"] <= limite \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]):
                 continue
             cand.append(p)
@@ -72,7 +82,7 @@ def elegir_pool(fecha):
             if not SEGURA["rango"][0] <= c <= SEGURA["rango"][1]:
                 continue
             pr = math.prod(p["prob_aprendida"] for p in comb)
-            if pr >= SEGURA["comb_min"] and (not mejor or pr > mejor[0]):
+            if pr >= comb_min and (not mejor or pr > mejor[0]):
                 mejor = (pr, list(comb), round(c, 2))
     return mejor
 
@@ -108,6 +118,7 @@ def elegir_(dia, compartir, nivel=NIVELES[0], fecha=None):
     if nivel["valor"]:
         picks = [p for p in picks if p.get("prob_aprendida") is None or p["prob_aprendida"] >= 1 / p["cuota"] - 0.03]
     fiab = lambda p: p.get("prob_aprendida") or p["frecuencia"]
+    picks = [p for p in picks if fiab(p) >= 0.60]   # 02/11: nada de patas al 27 % («Fiorentina más tiros»)
     orden = sorted(picks, key=lambda p: (-fiab(p), -p["ventaja"]))
     mejor = None
     for i, a in enumerate(orden):
