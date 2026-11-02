@@ -1119,6 +1119,9 @@ def pick_seguro(pools, dia):
             and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     if not cand:
         return None
+    # 03/11 (Marcos: «cambia el seguro», salía Olise 3+ tiros): primero resultado y goles; jugadores solo si no hay
+    equipo = [p for p in cand if p.get("tipo") != "jugador" and not p.get("jugador")]
+    cand = equipo or cand
     # más probable; a igualdad, la que más paga a la larga
     p = max(cand, key=lambda p: (round(p["prob_aprendida"], 2), p["prob_aprendida"] * p["cuota"]))
     return p, hora
