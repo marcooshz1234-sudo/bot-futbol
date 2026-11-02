@@ -282,7 +282,12 @@ def cierre(dia, tipo, lista_=False):
 
 # 31/10 (Marcos): en los posts con muchos picks, que se sepa que no hay que cogerlos todos. Va la última:
 # si en Threads no cabe, es lo primero que se quita (redes.threads)
-POSTS_LISTA = ("picks-manana", "picks-hoy", "ganadores", "combi-500")
+POSTS_LISTA = ("ganadores", "combi-500")   # 02/11: en picks para hoy/mañana ya lo dice la línea de combinar
+def combinar(sel):
+    """02/11 (Marcos): «combina máximo 2 o 3» solo si hay 5 picks o más; con menos no tiene sentido."""
+    return "⚽ ¡Combina máximo 2 o 3! ✅" if len(sel) >= 5 else "⚽ ¡Cógelos sueltos o combínalos! ✅"
+
+
 LINEA_LISTA = ("ℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos "
                "los partidos. Quédate con los que más te gusten 👌")
 
@@ -436,14 +441,14 @@ def posts_del_dia(dia, d):
         hp, mp = (int(x) for x in ajustes()["hora_picks"].split(":"))
         posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=hp, minute=mp), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA MAÑANA! 🍀\n\n{lista(sel)}\n\n"
-                      "⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas"))
+                      f"{combinar(sel)}\n\n💚 Más picks GRATIS en @combilocas"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
     if len(tarde) >= MIN_LISTA and not FORMATO_27:
         sel = tarde[:7]
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA HOY! 🍀\n\n{lista(sel)}\n\n"
-                      "⚽ ¡Combina máximo 2 o 3! ✅\n\n💚 Más picks GRATIS en @combilocas"))
+                      f"{combinar(sel)}\n\n💚 Más picks GRATIS en @combilocas"))
 
     # 26/10: el bot elige con datos cuáles de los estilos opcionales salen cada día (los 2 que mejor van
     # en vistas de Threads y en verdes, ver aprender.py → datos/estilos.json); el resto sale siempre
