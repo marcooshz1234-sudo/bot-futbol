@@ -2184,7 +2184,8 @@
       "instagram_reel": null,
       "threads": "17899033818609646",
       "instagram": "18440995417181447",
-      "instagram_story": "17966193084207004"
+      "instagram_story": "17966193084207004",
+      "threads_enlace": "18093266636208938"
     }
   },
   {
@@ -2195,6 +2196,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-02T23:16",
+    "mensaje_id": 241,
+    "redes": {
+      "threads": "18183950449440277"
+    }
   }
 ]
