@@ -866,5 +866,51 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-03-atletico-bayern-estrella",
+  "fecha": "2026-11-02T23:37",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1635622|Away Player Shots|Michael Olise - 3",
+   "1635622|Away Player Shots|Joshua Kimmich - 1",
+   "1635622|Player Fouls Committed|Dayot Upamecano - 1",
+   "1635622|Home Player Shots On Target Total|Julian Alvarez - 1"
+  ],
+  "cuotas": [
+   1.57,
+   1.67,
+   1.57,
+   1.4
+  ],
+  "real": 5.6,
+  "multiplicando": 5.763,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
  }
 ]
