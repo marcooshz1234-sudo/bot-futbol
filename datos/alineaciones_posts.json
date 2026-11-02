@@ -2782,16 +2782,298 @@
    }
   },
   "1575529": {
-   "hora": "2026-11-02T20:42:56.611811+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-02T20:53:35.760646+01:00",
+   "xi": [
+    "Samuel Soares",
+    "A. Bah",
+    "Tomás Araújo",
+    "C. Lenglet",
+    "S. Dahl",
+    "F. Aursnes",
+    "João Palhinha",
+    "D. Lukebakio",
+    "G. Prestianni",
+    "A. Schjelderup",
+    "V. Pavlidis",
+    "Matheus Mendes",
+    "Y. Bojang",
+    "Sergi Gómez",
+    "I. James",
+    "Zoubdi",
+    "Ian Luccas",
+    "D. Gui",
+    "Francisco Chissumba",
+    "Chiquinho",
+    "D. Camara",
+    "Figueiredo"
+   ],
+   "banquillo": [
+    "H. Sudakov",
+    "A. Trubin",
+    "Manu",
+    "J. Kamiński",
+    "Tiago Freitas",
+    "S. El Karouani",
+    "C. Echeverri",
+    "J. Durán",
+    "A. Circati",
+    "Daniel Banjaqui",
+    "A. Cabral",
+    "Rafa",
+    "Z. Kassary",
+    "Zé Rafael",
+    "J. Martínez",
+    "Matheus França",
+    "Vasco Moreira",
+    "C. Nuozzi",
+    "André Paulo",
+    "Vivaldo Semedo",
+    "Diogo Filipe Spencer Marques",
+    "Toni Tamarit",
+    "E. Jemide",
+    "S. Merheg"
+   ],
+   "equipos": {
+    "211": [
+     {
+      "n": "Samuel Soares",
+      "pos": "G"
+     },
+     {
+      "n": "A. Bah",
+      "pos": "D"
+     },
+     {
+      "n": "Tomás Araújo",
+      "pos": "D"
+     },
+     {
+      "n": "C. Lenglet",
+      "pos": "D"
+     },
+     {
+      "n": "S. Dahl",
+      "pos": "D"
+     },
+     {
+      "n": "F. Aursnes",
+      "pos": "M"
+     },
+     {
+      "n": "João Palhinha",
+      "pos": "M"
+     },
+     {
+      "n": "D. Lukebakio",
+      "pos": "M"
+     },
+     {
+      "n": "G. Prestianni",
+      "pos": "M"
+     },
+     {
+      "n": "A. Schjelderup",
+      "pos": "M"
+     },
+     {
+      "n": "V. Pavlidis",
+      "pos": "F"
+     }
+    ],
+    "4724": [
+     {
+      "n": "Matheus Mendes",
+      "pos": "G"
+     },
+     {
+      "n": "Y. Bojang",
+      "pos": "D"
+     },
+     {
+      "n": "Sergi Gómez",
+      "pos": "D"
+     },
+     {
+      "n": "I. James",
+      "pos": "D"
+     },
+     {
+      "n": "Zoubdi",
+      "pos": "M"
+     },
+     {
+      "n": "Ian Luccas",
+      "pos": "M"
+     },
+     {
+      "n": "D. Gui",
+      "pos": "M"
+     },
+     {
+      "n": "Francisco Chissumba",
+      "pos": "M"
+     },
+     {
+      "n": "Chiquinho",
+      "pos": "F"
+     },
+     {
+      "n": "D. Camara",
+      "pos": "F"
+     },
+     {
+      "n": "Figueiredo",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575533": {
-   "hora": "2026-11-02T20:42:56.611811+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-02T20:53:35.760646+01:00",
+   "xi": [
+    "Lucão",
+    "Ricardo Esgaio",
+    "Jonathan Buatu",
+    "David Moreira",
+    "José Silva",
+    "A. Lausen",
+    "Diogo Ferreira Prioste",
+    "Murilo",
+    "Santi García",
+    "T. Touré",
+    "Walace",
+    "Lucas Furtado",
+    "T. Strata",
+    "T. Borevković",
+    "A. Sidibé",
+    "João Mendes",
+    "Gonçalo Nogueira",
+    "Beni",
+    "Gustavo",
+    "Samu",
+    "O. Camara",
+    "A. Jakupovic"
+   ],
+   "banquillo": [
+    "M. Fernández",
+    "Guilherme",
+    "Malick Gning",
+    "Gonçalo  Maia Pereira",
+    "Joelson Fernandes",
+    "A. Moreira",
+    "Weverson",
+    "Zé Carlos",
+    "Gil Pinto Martins",
+    "Samuel",
+    "M. Kaba",
+    "Sergio Bermejo",
+    "L. Doucet",
+    "Miguel Maga",
+    "V. Andersson",
+    "Mohammed Kebdani",
+    "M. Mitrović",
+    "A. Ndoye",
+    "V. Ouotro",
+    "Óscar Rivas",
+    "O. Zych",
+    "Miguel Nogueira",
+    "Alan",
+    "Thiago Balieiro"
+   ],
+   "equipos": {
+    "762": [
+     {
+      "n": "Lucão",
+      "pos": "G"
+     },
+     {
+      "n": "Ricardo Esgaio",
+      "pos": "D"
+     },
+     {
+      "n": "Jonathan Buatu",
+      "pos": "D"
+     },
+     {
+      "n": "David Moreira",
+      "pos": "D"
+     },
+     {
+      "n": "José Silva",
+      "pos": "D"
+     },
+     {
+      "n": "A. Lausen",
+      "pos": "M"
+     },
+     {
+      "n": "Diogo Ferreira Prioste",
+      "pos": "M"
+     },
+     {
+      "n": "Murilo",
+      "pos": "M"
+     },
+     {
+      "n": "Santi García",
+      "pos": "M"
+     },
+     {
+      "n": "T. Touré",
+      "pos": "M"
+     },
+     {
+      "n": "Walace",
+      "pos": "F"
+     }
+    ],
+    "224": [
+     {
+      "n": "Lucas Furtado",
+      "pos": "G"
+     },
+     {
+      "n": "T. Strata",
+      "pos": "D"
+     },
+     {
+      "n": "T. Borevković",
+      "pos": "D"
+     },
+     {
+      "n": "A. Sidibé",
+      "pos": "D"
+     },
+     {
+      "n": "João Mendes",
+      "pos": "D"
+     },
+     {
+      "n": "Gonçalo Nogueira",
+      "pos": "M"
+     },
+     {
+      "n": "Beni",
+      "pos": "M"
+     },
+     {
+      "n": "Gustavo",
+      "pos": "M"
+     },
+     {
+      "n": "Samu",
+      "pos": "M"
+     },
+     {
+      "n": "O. Camara",
+      "pos": "M"
+     },
+     {
+      "n": "A. Jakupovic",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
