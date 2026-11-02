@@ -2250,10 +2250,9 @@
     "enviado": "2026-11-02T23:56",
     "mensaje_id": 243,
     "redes": {
-      "threads": "18118027397042322"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "18118027397042322",
+      "instagram_reel": null,
+      "instagram": "18120011174103709"
     }
   },
   {
