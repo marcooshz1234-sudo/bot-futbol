@@ -1018,7 +1018,7 @@ def boletos(dia, hist=None, ap=None, desde=None):
 def texto_boleto(b, n):
     from plantillas import corto
     lineas = [f"🎟️ COMBI CREAR APUESTA {n} · x{num(b['cuota'])}", ""]
-    for cab, patas, c in b["partidos"]:
+    for cab, patas, c in sorted(b["partidos"], key=lambda x: x[0]["fecha"]):   # 02/11: en orden de hora
         lineas.append(f"⚽ {corto(cab['local'])} vs {corto(cab['visitante'])} · {cab['fecha'][11:16]} · x{num(c)}")
         lineas += [f"   • {p['texto']} ({num(p['cuota'])})" for p in patas]
         lineas.append("")

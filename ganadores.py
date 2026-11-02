@@ -107,6 +107,7 @@ def post(dia, hist=None):
     g = ganadores(dia, hist)
     if len(g) < MIN_EQUIPOS:
         return None
+    g = sorted(g, key=lambda x: x[4])   # 02/11 (Marcos): siempre en orden de hora
     lineas = [f"✅{i}. {BANDERA.get(COMPETICION.get(liga), '⚽')} {eq} — {'Gana' if pr >= UMBRAL else 'Gana o empata'}"
               for i, (pr, eq, liga, _, _) in enumerate(g, 1)]
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)

@@ -336,6 +336,7 @@ def posts_del_dia(dia, d):
             r = cd.get(clave_m)
             if r:
                 sel, cuota, hora = r
+                sel = sorted(sel, key=lambda p: p.get("fecha", ""))   # 02/11 (Marcos): siempre en orden de hora
                 apuntar(sel)
                 posts.append((f"combi-{clave_m}", hora, sel, combi(titulo.format(c=num(cuota), n=nombre), sel, cuota)))
         combis = {}   # las combis de antes (11:00, 12:00, 19:00, víspera…) ya no salen
@@ -435,7 +436,7 @@ def posts_del_dia(dia, d):
                  and p["partido_id"] not in {q["partido_id"] for q in mejores}]
         mejores = mejores + extra[:MIN_LISTA - len(mejores)]
     if len(mejores) >= MIN_LISTA:
-        sel = mejores[:7]
+        sel = sorted(mejores[:7], key=lambda p: p.get("fecha", ""))   # 02/11: en orden de hora
         apuntar(sel)
         from panel_datos import ajustes   # 30/10: hora desde el panel
         hp, mp = (int(x) for x in ajustes()["hora_picks"].split(":"))
@@ -444,7 +445,7 @@ def posts_del_dia(dia, d):
                       f"{combinar(sel)}\n\n💚 Más picks GRATIS en @combilocas"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
     if len(tarde) >= MIN_LISTA and not FORMATO_27:
-        sel = tarde[:7]
+        sel = sorted(tarde[:7], key=lambda p: p.get("fecha", ""))   # 02/11: en orden de hora
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA HOY! 🍀\n\n{lista(sel)}\n\n"
