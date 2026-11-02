@@ -6,6 +6,11 @@
   "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
   "2026-11-01-combi-partido-1570433|Robert Navarro: 1+ tiros a puerta",
+  "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
+  "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
+  "clave|2026-11-02-marcos-crear6|1550178|To Win Either Half|Home|E. Elmas",
+  "clave|2026-11-02-marcos-crear6|1550178|Total - Home|Over 1|E. Elmas",
+  "clave|2026-11-02-marcos-menos|1550178|Match Winner|Home|E. Elmas",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -2350,43 +2355,315 @@
    }
   },
   "1552803": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-02T20:24:02.376123+01:00",
+   "xi": [
+    "Y. Mvogo",
+    "N. Adjei",
+    "M. Talbi",
+    "S. Touré",
+    "D. Sylla",
+    "N. Cadiou",
+    "A. Avom",
+    "K. Kouassi",
+    "J. Makengo",
+    "S. Faye",
+    "I. Baldé",
+    "E. Selvik",
+    "K. Lala",
+    "L. Tousart",
+    "G. Lloris",
+    "B. Locko",
+    "J. Chotard",
+    "H. Magnetti",
+    "Mama Baldé",
+    "K. Doumbia",
+    "P. Mboup",
+    "L. Ajorque"
+   ],
+   "banquillo": [
+    "A. Tosin",
+    "S. Kuzmić",
+    "T. Le Bris",
+    "N. Mbamba",
+    "N. Obaretin",
+    "I. Jensen",
+    "A. Georgen",
+    "G. Bernardeau",
+    "B. Kamara",
+    "D. N´Guessan",
+    "Ibrahim Yayiya Kante",
+    "N. Edjouma",
+    "M. Diambou",
+    "J. Bourgault",
+    "J. Nonge Boende",
+    "M. Patouillet"
+   ],
+   "equipos": {
+    "97": [
+     {
+      "n": "Y. Mvogo",
+      "pos": "G"
+     },
+     {
+      "n": "N. Adjei",
+      "pos": "D"
+     },
+     {
+      "n": "M. Talbi",
+      "pos": "D"
+     },
+     {
+      "n": "S. Touré",
+      "pos": "D"
+     },
+     {
+      "n": "D. Sylla",
+      "pos": "M"
+     },
+     {
+      "n": "N. Cadiou",
+      "pos": "M"
+     },
+     {
+      "n": "A. Avom",
+      "pos": "M"
+     },
+     {
+      "n": "K. Kouassi",
+      "pos": "M"
+     },
+     {
+      "n": "J. Makengo",
+      "pos": "M"
+     },
+     {
+      "n": "S. Faye",
+      "pos": "M"
+     },
+     {
+      "n": "I. Baldé",
+      "pos": "F"
+     }
+    ],
+    "106": [
+     {
+      "n": "E. Selvik",
+      "pos": "G"
+     },
+     {
+      "n": "K. Lala",
+      "pos": "D"
+     },
+     {
+      "n": "L. Tousart",
+      "pos": "D"
+     },
+     {
+      "n": "G. Lloris",
+      "pos": "D"
+     },
+     {
+      "n": "B. Locko",
+      "pos": "D"
+     },
+     {
+      "n": "J. Chotard",
+      "pos": "M"
+     },
+     {
+      "n": "H. Magnetti",
+      "pos": "M"
+     },
+     {
+      "n": "Mama Baldé",
+      "pos": "M"
+     },
+     {
+      "n": "K. Doumbia",
+      "pos": "M"
+     },
+     {
+      "n": "P. Mboup",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ajorque",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550178": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-02T20:24:02.376123+01:00",
+   "xi": [
+    "M. Carnesecchi",
+    "D. Zappacosta",
+    "G. Scalvini",
+    "R. ObriÄ",
+    "L. Bernasconi",
+    "Éderson",
+    "Mario Pasalic",
+    "N. Zalewski",
+    "C. De Ketelaere",
+    "J. Rowe",
+    "N. Krstović",
+    "G. Daffara",
+    "E. Del Prato",
+    "M. Troilo",
+    "D. Drobnic",
+    "S. Britschgi",
+    "G. Fabbian",
+    "V. Sierro",
+    "M. Keita",
+    "E. Valeri",
+    "S. Lontani",
+    "E. Touré"
+   ],
+   "banquillo": [
+    "E. Elmas",
+    "J. Idele",
+    "M. Plaia",
+    "L. Samardžić",
+    "M. Sonzogni",
+    "M. Sportiello",
+    "K. Sulemana",
+    "Sergej Levak",
+    "B. Cremaschi",
+    "D. Romero",
+    "C. Ordoñez",
+    "H. Nicolussi",
+    "A. N&apos;Diaye",
+    "Abdou Konate",
+    "S. Ghidotti",
+    "M. Frigan",
+    "N. Elphege",
+    "Diego Carlos",
+    "Ousmane Diallo",
+    "E. Corvi",
+    "F. Carboni",
+    "P. Almqvist"
+   ],
+   "equipos": {
+    "499": [
+     {
+      "n": "M. Carnesecchi",
+      "pos": "G"
+     },
+     {
+      "n": "D. Zappacosta",
+      "pos": "D"
+     },
+     {
+      "n": "G. Scalvini",
+      "pos": "D"
+     },
+     {
+      "n": "R. ObriÄ",
+      "pos": "D"
+     },
+     {
+      "n": "L. Bernasconi",
+      "pos": "D"
+     },
+     {
+      "n": "Éderson",
+      "pos": "M"
+     },
+     {
+      "n": "Mario Pasalic",
+      "pos": "M"
+     },
+     {
+      "n": "N. Zalewski",
+      "pos": "M"
+     },
+     {
+      "n": "C. De Ketelaere",
+      "pos": "M"
+     },
+     {
+      "n": "J. Rowe",
+      "pos": "M"
+     },
+     {
+      "n": "N. Krstović",
+      "pos": "F"
+     }
+    ],
+    "523": [
+     {
+      "n": "G. Daffara",
+      "pos": "G"
+     },
+     {
+      "n": "E. Del Prato",
+      "pos": "D"
+     },
+     {
+      "n": "M. Troilo",
+      "pos": "D"
+     },
+     {
+      "n": "D. Drobnic",
+      "pos": "D"
+     },
+     {
+      "n": "S. Britschgi",
+      "pos": "M"
+     },
+     {
+      "n": "G. Fabbian",
+      "pos": "M"
+     },
+     {
+      "n": "V. Sierro",
+      "pos": "M"
+     },
+     {
+      "n": "M. Keita",
+      "pos": "M"
+     },
+     {
+      "n": "E. Valeri",
+      "pos": "M"
+     },
+     {
+      "n": "S. Lontani",
+      "pos": "F"
+     },
+     {
+      "n": "E. Touré",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557455": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
+   "hora": "2026-11-02T20:24:02.376123+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1569998": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
+   "hora": "2026-11-02T20:24:02.376123+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570436": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
+   "hora": "2026-11-02T20:24:02.376123+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1575529": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
+   "hora": "2026-11-02T20:24:02.376123+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1575533": {
-   "hora": "2026-11-02T20:13:15.809521+01:00",
+   "hora": "2026-11-02T20:24:02.376123+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
