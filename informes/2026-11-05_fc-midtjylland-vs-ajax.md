@@ -1,7 +1,7 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -182,7 +182,7 @@ _Sin bajas comunicadas por ahora._
 | Maarten Paes | G | 5 | 457 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,55 · córners esperados 9,0._
+_Goles esperados: local 1,64 · visitante 1,55 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

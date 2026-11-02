@@ -1,7 +1,7 @@
 # Fulham – Newcastle
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_

@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Bayern München
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Mewa Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -202,7 +202,7 @@ _Goles esperados: local 1,39 · visitante 3,30 · córners esperados 10,0._
 | Goles más/menos: Más de 2.5 | 85% | 78% | 81% | 1.22 | -1% |
 | Goles más/menos: Más de 3.5 | 69% | 59% | 64% | 1.62 | +3% |
 | Goles más/menos: Más de 4.5 | 50% | 41% | 46% | 2.30 | +5% |
-| Goles más/menos: Más de 5.5 | 33% | 25% | 29% | 3.75 | +9% |
+| Goles más/menos: Más de 5.5 | 33% | 25% | 29% | 3.75 | +10% |
 | Goles más/menos: Menos de 2.5 | 15% | 22% | 19% | 4.33 | -19% |
 | Goles más/menos: Menos de 3.5 | 31% | 41% | 36% | 2.30 | -17% |
 | Goles más/menos: Menos de 4.5 | 50% | 59% | 54% | 1.62 | -12% |

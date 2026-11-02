@@ -1,7 +1,7 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -209,7 +209,7 @@ _Goles esperados: local 1,78 · visitante 1,49 · córners esperados 9,8._
 | Goles más/menos: Menos de 2.5 | 36% | 41% | 39% | 2.30 | -11% |
 | Goles más/menos: Menos de 3.5 | 59% | 64% | 61% | 1.50 | -8% |
 | Goles más/menos: Menos de 4.5 | 77% | 79% | 78% | 1.20 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 39% | 40% | 2.38 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 61% | 60% | 1.53 | -9% |
@@ -217,9 +217,9 @@ _Goles esperados: local 1,78 · visitante 1,49 · córners esperados 9,8._
 | Goles del local: Más de 2.5 | 26% | 27% | 27% | 3.50 | -7% |
 | Goles del local: Menos de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
 | Goles del local: Menos de 2.5 | 74% | 73% | 73% | 1.28 | -6% |
-| Goles del visitante: Más de 0.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles del visitante: Más de 0.5 | 78% | 72% | 75% | 1.30 | -3% |
 | Goles del visitante: Más de 1.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles del visitante: Menos de 0.5 | 23% | 28% | 25% | 3.40 | -15% |
+| Goles del visitante: Menos de 0.5 | 22% | 28% | 25% | 3.40 | -15% |
 | Goles del visitante: Menos de 1.5 | 56% | 62% | 59% | 1.50 | -11% |
 | Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |

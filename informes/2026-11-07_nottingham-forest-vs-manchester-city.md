@@ -1,7 +1,7 @@
 # Nottingham Forest – Manchester City
 **Premier League** · Regular Season - 10 · 07/11/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -192,7 +192,7 @@ _Goles esperados: local 0,99 · visitante 1,65 · córners esperados 9,5._
 | Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
 | Goles más/menos: Más de 1.5 | 74% | 79% | 76% | 1.20 | -8% |
 | Goles más/menos: Más de 2.5 | 49% | 59% | 54% | 1.62 | -13% |
-| Goles más/menos: Más de 3.5 | 27% | 38% | 33% | 2.50 | -19% |
+| Goles más/menos: Más de 3.5 | 27% | 38% | 33% | 2.50 | -18% |
 | Goles más/menos: Más de 4.5 | 13% | 21% | 17% | 4.50 | -24% |
 | Goles más/menos: Menos de 1.5 | 26% | 21% | 24% | 4.50 | +6% |
 | Goles más/menos: Menos de 2.5 ✅ | 51% | 41% | 46% | 2.30 | +6% |
@@ -206,7 +206,7 @@ _Goles esperados: local 0,99 · visitante 1,65 · córners esperados 9,5._
 | Goles del local: Más de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles del local: Menos de 0.5 | 37% | 34% | 36% | 2.75 | -2% |
 | Goles del local: Menos de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 49% | 58% | 53% | 1.62 | -14% |
+| Goles del visitante: Más de 1.5 | 49% | 58% | 53% | 1.62 | -13% |
 | Goles del visitante: Más de 2.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles del visitante: Menos de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
 | Goles del visitante: Menos de 2.5 | 77% | 69% | 73% | 1.36 | -1% |

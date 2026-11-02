@@ -1,7 +1,7 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:13_
@@ -208,10 +208,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles del local: Menos de 0.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles del visitante: Más de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del visitante: Más de 2.5 | 38% | 41% | 39% | 2.25 | -11% |
+| Goles del visitante: Más de 2.5 | 38% | 41% | 40% | 2.25 | -11% |
 | Goles del visitante: Más de 3.5 | 18% | 22% | 20% | 4.33 | -14% |
 | Goles del visitante: Menos de 1.5 | 35% | 35% | 35% | 2.62 | -7% |
-| Goles del visitante: Menos de 2.5 | 62% | 59% | 61% | 1.57 | -5% |
+| Goles del visitante: Menos de 2.5 | 62% | 59% | 60% | 1.57 | -5% |
 | Goles del visitante: Menos de 3.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |

@@ -1,7 +1,7 @@
 # Fortuna Sittard – Telstar
 **Eredivisie** · Regular Season - 12 · 07/11/2026 16:30 (hora España) · Fortuna Sittard Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -205,12 +205,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 57% | 61% | 59% | 1.53 | -10% |
 | Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
 | Goles más/menos: Más de 2.5 | 53% | 58% | 56% | 1.62 | -10% |
-| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles más/menos: Más de 4.5 | 15% | 22% | 18% | 4.33 | -20% |
+| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles más/menos: Más de 4.5 | 15% | 22% | 19% | 4.33 | -20% |
 | Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
 | Goles más/menos: Menos de 2.5 | 47% | 42% | 44% | 2.25 | -0% |
 | Goles más/menos: Menos de 3.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles más/menos: Menos de 4.5 | 85% | 78% | 82% | 1.20 | -2% |
+| Goles más/menos: Menos de 4.5 | 85% | 78% | 81% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |

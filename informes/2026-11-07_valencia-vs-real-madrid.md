@@ -1,7 +1,7 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -220,7 +220,7 @@ _Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 | Goles del local: Menos de 1.5 | 86% | 75% | 80% | 1.25 | +0% |
 | Goles del visitante: Más de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
 | Goles del visitante: Más de 2.5 | 35% | 50% | 43% | 1.83 | -22% |
-| Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -26% |
+| Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
 | Goles del visitante: Menos de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
 | Goles del visitante: Menos de 2.5 | 65% | 50% | 57% | 1.83 | +5% |
 | Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +2% |

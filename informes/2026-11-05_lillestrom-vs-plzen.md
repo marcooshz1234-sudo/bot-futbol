@@ -1,7 +1,7 @@
 # Lillestrom – Plzen
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -182,7 +182,7 @@ _Sin precedentes recientes._
 | Jiří Maxim Panoš | M | 1 | 64 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,26 · visitante 1,53 · córners esperados 9,1._
+_Goles esperados: local 1,26 · visitante 1,54 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -216,12 +216,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 45% | 49% | 47% | 1.91 | -10% |
 | Goles del visitante: Más de 2.5 | 20% | 23% | 22% | 4.00 | -13% |
 | Goles del visitante: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -5% |
-| Goles del visitante: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
+| Goles del visitante: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -5% |
 | Goles del visitante: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -4% |
 | Córners más/menos: Más de 10.5 | 34% | 44% | 39% | 2.10 | -18% |
 | Córners más/menos: Menos de 10.5 | 66% | 56% | 61% | 1.67 | +2% |
 | 1X2 descanso: 2 | 33% | 32% | 33% | 2.88 | -6% |
-| 1X2 descanso: X | 42% | 38% | 40% | 2.40 | -4% |
+| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -4% |
 | 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

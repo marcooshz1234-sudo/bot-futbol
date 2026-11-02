@@ -1,14 +1,14 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 19:48_
+_Actualizadas: 02/11 20:00_
 
 - **1X2:** 1 **5.25**  ·  X **3.60**  ·  2 **1.62**
 - **Doble oportunidad:** 1X **2.25**  ·  12 **1.28**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
@@ -28,6 +28,9 @@ _Actualizadas: 01/11 19:48_
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9: más **1.80** · menos **2.00**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.25**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -36,13 +39,19 @@ _Actualizadas: 01/11 19:48_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.36**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.36**
 - **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **2.62**
 - **Win Both Halves:** 1 **21.00**  ·  2 **4.33**
-- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.62**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.62**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.30**
+- **Home Corners Over/Under:**
+    - 3,5: más **1.91** · menos **1.80**
+- **Away Corners Over/Under:**
+    - 5,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 - **Away Player Shots On Target Total:** Maxim De Cuyper **34.00**  ·  Zaid Romero **23.00**  ·  Jaouen Hadjam **21.00**  ·  Ibrahim Osman **29.00**  ·  Olivier Boscagli **51.00**  ·  Ivan Azon **13.00**  ·  Francho Serrano **21.00**  ·  Andres Garcia **41.00**  ·  Sebastian Boselli **29.00**  ·  Diego Gomez **34.00**  ·  Ferdi Kadioglu **51.00**  ·  Mancha Davinchi **51.00**  ·  Zadok Yohanna **17.00**  ·  Michael Svoboda **15.00**  ·  Jean Valou **34.00**  ·  Martin Satriano **10.00**  ·  Pascal Struijk **15.00**  ·  Nehemiah Oriola **34.00**  ·  Promise David **17.00**  ·  Luka Vuskovic **11.00**  ·  Malick Yalcouye **17.00**  ·  Joao Pedro Costinha **51.00**  ·  Enes Unal **17.00**  ·  Moya Borja Mayoral **13.00**  ·  Mario Martin **26.00**  ·  Kiko Femenia **67.00**  ·  Shane Nti **29.00**  ·  Nemanja Gudelj **29.00**  ·  Younes Ibrahim **17.00**  ·  Jesus Martinez **81.00**  ·  Johan Mojica **101.00**  ·  Dani Carvajal **67.00**  ·  Matt O'Riley **15.00**  ·  Georginio Rutter **11.00**  ·  Jack Hinshelwood **12.00**  ·  Lewis Dunk **15.00**  ·  Mats Wieffer **21.00**  ·  Yankuba Minteh **29.00**  ·  Yasin Ayari **41.00**  ·  Orel Mangala **101.00**  ·  Charalampos Kostoulas **8.50**  ·  Abdelkabir Abqar **17.00**  ·  Saba Sazonov **21.00**  ·  Ramon Terrats **51.00**  ·  Chema Andres **9.00**  ·  Alberto Risco **51.00**  ·  Dakonam Djene **19.00**  ·  Pascal Gross **29.00**
-- **Anytime Goal Scorer:** Maxim De Cuyper **4.00**  ·  Zaid Romero **15.00**  ·  Jaouen Hadjam **6.50**  ·  Ibrahim Osman **3.10**  ·  Olivier Boscagli **11.00**  ·  Ivan Azon **4.75**  ·  Francho Serrano **6.50**  ·  Andres Garcia **9.00**  ·  Sebastian Boselli **15.00**  ·  Diego Gomez **3.75**  ·  Ferdi Kadioglu **6.50**  ·  Mancha Davinchi **13.00**  ·  Zadok Yohanna **3.50**  ·  Michael Svoboda **10.00**  ·  Jean Valou **15.00**  ·  Martin Satriano **4.00**  ·  Pascal Struijk **10.00**  ·  Nehemiah Oriola **3.75**  ·  Promise David **2.75**  ·  Luka Vuskovic **8.00**  ·  Malick Yalcouye **3.75**  ·  Joao Pedro Costinha **10.00**  ·  Enes Unal **4.75**  ·  Moya Borja Mayoral **3.25**  ·  Mario Martin **6.00**  ·  Kiko Femenia **15.00**  ·  Shane Nti **3.50**  ·  Nemanja Gudelj **11.00**  ·  Younes Ibrahim **3.75**  ·  Jesus Martinez **9.00**  ·  Johan Mojica **11.00**  ·  Dani Carvajal **19.00**  ·  Matt O'Riley **4.75**  ·  Georginio Rutter **2.75**  ·  Jack Hinshelwood **4.00**  ·  Lewis Dunk **10.00**  ·  Mats Wieffer **8.00**  ·  Yankuba Minteh **3.50**  ·  Yasin Ayari **4.75**  ·  Orel Mangala **11.00**  ·  Charalampos Kostoulas **2.60**  ·  Abdelkabir Abqar **15.00**  ·  Saba Sazonov **15.00**  ·  Ramon Terrats **6.50**  ·  Chema Andres **5.00**  ·  Alberto Risco **6.50**  ·  Dakonam Djene **15.00**  ·  Pascal Gross **3.50**
+- **Anytime Goal Scorer:** Maxim De Cuyper **4.00**  ·  Zaid Romero **15.00**  ·  Jaouen Hadjam **6.50**  ·  Ibrahim Osman **3.10**  ·  Olivier Boscagli **11.00**  ·  Ivan Azon **4.75**  ·  Francho Serrano **6.50**  ·  Andres Garcia **9.00**  ·  Sebastian Boselli **15.00**  ·  Diego Gomez **3.60**  ·  Ferdi Kadioglu **6.50**  ·  Mancha Davinchi **13.00**  ·  Zadok Yohanna **3.50**  ·  Michael Svoboda **10.00**  ·  Jean Valou **15.00**  ·  Martin Satriano **4.00**  ·  Pascal Struijk **10.00**  ·  Nehemiah Oriola **3.60**  ·  Promise David **2.75**  ·  Luka Vuskovic **8.00**  ·  Malick Yalcouye **3.60**  ·  Joao Pedro Costinha **10.00**  ·  Enes Unal **4.75**  ·  Moya Borja Mayoral **3.25**  ·  Mario Martin **6.00**  ·  Kiko Femenia **15.00**  ·  Ibrahima Danfakha **5.00**  ·  Shane Nti **3.50**  ·  Nemanja Gudelj **11.00**  ·  Younes Ibrahim **3.60**  ·  Jesus Martinez **9.00**  ·  Johan Mojica **11.00**  ·  Dani Carvajal **19.00**  ·  Matt O'Riley **4.75**  ·  Georginio Rutter **2.75**  ·  Jack Hinshelwood **4.00**  ·  Lewis Dunk **10.00**  ·  Mats Wieffer **8.00**  ·  Yankuba Minteh **3.50**  ·  Yasin Ayari **4.75**  ·  Orel Mangala **11.00**  ·  Charalampos Kostoulas **2.60**  ·  Abdelkabir Abqar **15.00**  ·  Saba Sazonov **15.00**  ·  Ramon Terrats **6.00**  ·  Chema Andres **5.00**  ·  Alberto Risco **6.50**  ·  Dakonam Djene **15.00**  ·  Pascal Gross **3.50**
+- **Player to Score or Assist:** Maxim De Cuyper **2.05**  ·  Zaid Romero **8.50**  ·  Jaouen Hadjam **3.10**  ·  Ibrahim Osman **2.10**  ·  Olivier Boscagli **4.00**  ·  Ivan Azon **3.50**  ·  Francho Serrano **4.00**  ·  Andres Garcia **5.50**  ·  Sebastian Boselli **9.50**  ·  Diego Gomez **2.60**  ·  Ferdi Kadioglu **3.75**  ·  Mancha Davinchi **5.50**  ·  Zadok Yohanna **2.30**  ·  Michael Svoboda **5.50**  ·  Jean Valou **10.00**  ·  Martin Satriano **3.00**  ·  Pascal Struijk **6.00**  ·  Nehemiah Oriola **2.25**  ·  Promise David **2.05**  ·  Luka Vuskovic **6.00**  ·  Malick Yalcouye **2.40**  ·  Joao Pedro Costinha **3.10**  ·  Enes Unal **3.25**  ·  Moya Borja Mayoral **2.60**  ·  Mario Martin **4.75**  ·  Kiko Femenia **7.50**  ·  Ibrahima Danfakha **3.40**  ·  Shane Nti **1.91**  ·  Nemanja Gudelj **7.00**  ·  Younes Ibrahim **2.30**  ·  Jesus Martinez **5.50**  ·  Johan Mojica **4.75**  ·  Dani Carvajal **8.50**  ·  Matt O'Riley **2.38**  ·  Georginio Rutter **1.95**  ·  Jack Hinshelwood **2.75**  ·  Lewis Dunk **6.50**  ·  Mats Wieffer **3.40**  ·  Yankuba Minteh **1.91**  ·  Yasin Ayari **2.75**  ·  Orel Mangala **6.50**  ·  Charalampos Kostoulas **1.91**  ·  Abdelkabir Abqar **8.00**  ·  Saba Sazonov **11.00**  ·  Ramon Terrats **3.75**  ·  Chema Andres **3.00**  ·  Alberto Risco **4.33**  ·  Dakonam Djene **11.00**  ·  Pascal Gross **2.10**
 
 ## Estadísticas de equipo
 | | Getafe (total) | Getafe en casa | Brighton (total) | Brighton fuera |
@@ -182,13 +191,13 @@ _Goles esperados: local 0,61 · visitante 2,12 · córners esperados 9,8._
 | Doble oportunidad: X2 | 91% | 82% | 86% | 1.17 | +1% |
 | Doble oportunidad: 12 | 82% | 75% | 79% | 1.28 | +0% |
 | Doble oportunidad: 1X | 27% | 43% | 35% | 2.25 | -21% |
-| Ambos marcan: No | 60% | 51% | 56% | 1.80 | +0% |
-| Ambos marcan: Sí | 40% | 49% | 44% | 1.91 | -15% |
+| Ambos marcan: No | 60% | 50% | 55% | 1.83 | +1% |
+| Ambos marcan: Sí | 40% | 50% | 45% | 1.83 | -18% |
 | Goles más/menos: Más de 1.5 | 76% | 73% | 74% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -3% |
+| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -2% |
 | Goles más/menos: Más de 3.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles más/menos: Menos de 1.5 | 24% | 27% | 26% | 3.50 | -10% |
-| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -7% |
+| Goles más/menos: Menos de 1.5 | 24% | 27% | 26% | 3.50 | -11% |
+| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -8% |
 | Goles más/menos: Menos de 3.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
@@ -198,10 +207,12 @@ _Goles esperados: local 0,61 · visitante 2,12 · córners esperados 9,8._
 | Goles del local: Más de 1.5 | 12% | 23% | 18% | 4.00 | -28% |
 | Goles del local: Menos de 0.5 ✅ | 55% | 42% | 48% | 2.20 | +7% |
 | Goles del local: Menos de 1.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +0% |
+| Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del visitante: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +9% |
 | Goles del visitante: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
 | Goles del visitante: Menos de 2.5 | 64% | 73% | 69% | 1.28 | -12% |
+| Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
 | 1X2 descanso: 2 | 51% | 42% | 47% | 2.20 | +3% |
 | 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -11% |
 

@@ -1,7 +1,7 @@
 # Sunderland – Dinamo Zagreb
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:13_
@@ -190,7 +190,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 15% | 18% | 6.25 | +16% |
+| 1X2: 2 | 22% | 15% | 19% | 6.25 | +16% |
 | 1X2: X | 22% | 20% | 21% | 4.50 | -5% |
 | 1X2: 1 | 56% | 65% | 60% | 1.42 | -14% |
 | Doble oportunidad: X2 | 44% | 35% | 39% | 2.75 | +8% |

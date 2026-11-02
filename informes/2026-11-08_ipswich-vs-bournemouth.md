@@ -1,7 +1,7 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 2,46 · córners esperados 8,8._
+_Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

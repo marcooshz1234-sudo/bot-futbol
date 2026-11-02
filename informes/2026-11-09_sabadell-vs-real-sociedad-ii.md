@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Alex Garcia | M | 3 | 174 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 0 | 4 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 0,88 · córners esperados 9,7._
+_Goles esperados: local 1,53 · visitante 0,88 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

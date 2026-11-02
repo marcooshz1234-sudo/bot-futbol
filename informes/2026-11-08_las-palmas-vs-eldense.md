@@ -1,7 +1,7 @@
 # Las Palmas – Eldense
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Las Palmas (total) | Las Palmas en casa | Eldense (total) | Eldense fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 13 | 7 |
-| Forma (últimos 5) | VVDDE | VDEDE | DVDVV | VDVDV |
-| Balance | 5V 2E 5D | 2V 2E 2D | 5V 2E 6D | 3V 0E 4D |
-| Goles a favor / partido | 1,42 | 1,00 | 1,08 | 0,71 |
-| Goles en contra / partido | 1,67 | 1,33 | 1,31 | 1,29 |
-| Goles a favor 1ª parte | 0,50 | 0,67 | 0,15 | 0,29 |
+| Partidos analizados | 13 | 6 | 13 | 7 |
+| Forma (últimos 5) | VVVDD | VDEDE | DVDVV | VDVDV |
+| Balance | 6V 2E 5D | 2V 2E 2D | 5V 2E 6D | 3V 0E 4D |
+| Goles a favor / partido | 1,54 | 1,00 | 1,08 | 0,71 |
+| Goles en contra / partido | 1,69 | 1,33 | 1,31 | 1,29 |
+| Goles a favor 1ª parte | 0,62 | 0,67 | 0,15 | 0,29 |
 | Goles a favor 2ª parte | 0,92 | 0,33 | 0,92 | 0,43 |
-| Goles en contra 1ª parte | 0,67 | 0,67 | 0,77 | 1,00 |
-| Goles en contra 2ª parte | 1,00 | 0,67 | 0,54 | 0,29 |
-| Más de 1,5 goles | 75% | 67% | 62% | 43% |
-| Más de 2,5 goles | 67% | 67% | 46% | 29% |
-| Más de 3,5 goles | 42% | 17% | 23% | 14% |
-| Ambos marcan | 58% | 50% | 38% | 14% |
-| Portería a cero | 33% | 33% | 23% | 29% |
-| Se queda sin marcar | 17% | 33% | 46% | 57% |
-| xG a favor | 0,95 | 0,66 | 1,25 | 0,69 |
-| xG en contra | 1,36 | 1,48 | 1,30 | 1,05 |
-| Tiros / partido | 9,7 | 9,7 | 12,9 | 11,5 |
-| Tiros a puerta / partido | 3,5 | 2,8 | 4,4 | 3,2 |
-| Tiros recibidos | 13,2 | 12,0 | 11,8 | 13,2 |
-| Tiros a puerta recibidos | 4,7 | 4,3 | 4,5 | 4,2 |
+| Goles en contra 1ª parte | 0,62 | 0,67 | 0,77 | 1,00 |
+| Goles en contra 2ª parte | 1,08 | 0,67 | 0,54 | 0,29 |
+| Más de 1,5 goles | 77% | 67% | 62% | 43% |
+| Más de 2,5 goles | 69% | 67% | 46% | 29% |
+| Más de 3,5 goles | 46% | 17% | 23% | 14% |
+| Ambos marcan | 62% | 50% | 38% | 14% |
+| Portería a cero | 31% | 33% | 23% | 29% |
+| Se queda sin marcar | 15% | 33% | 46% | 57% |
+| xG a favor | 1,03 | 0,66 | 1,25 | 0,69 |
+| xG en contra | 1,40 | 1,48 | 1,30 | 1,05 |
+| Tiros / partido | 9,8 | 9,7 | 12,9 | 11,5 |
+| Tiros a puerta / partido | 3,6 | 2,8 | 4,4 | 3,2 |
+| Tiros recibidos | 13,9 | 12,0 | 11,8 | 13,2 |
+| Tiros a puerta recibidos | 4,9 | 4,3 | 4,5 | 4,2 |
 | Posesión media % | 51 | 55 | 51 | 49 |
 | Córners a favor | 4,1 | 4,7 | 5,2 | 4,4 |
-| Córners en contra | 5,6 | 5,3 | 4,8 | 5,1 |
-| Córners a favor 1ª parte | 2,0 | 2,2 | 2,7 | 2,1 |
-| Córners a favor 2ª parte | 2,1 | 2,5 | 2,5 | 2,3 |
-| Córners totales del partido | 9,7 | 10,0 | 10,1 | 9,6 |
-| Córners totales 1ª parte | 4,0 | 4,0 | 4,9 | 4,1 |
-| Córners totales 2ª parte | 5,7 | 6,0 | 5,2 | 5,4 |
-| Más de 8,5 córners | 73% | 83% | 62% | 43% |
-| Más de 9,5 córners | 36% | 33% | 62% | 43% |
-| Más de 10,5 córners | 27% | 33% | 46% | 43% |
-| Faltas cometidas | 12,5 | 11,3 | 12,7 | 12,3 |
-| Faltas recibidas | 15,9 | 17,7 | 12,9 | 11,3 |
-| Amarillas propias | 2,9 | 3,2 | 2,3 | 2,6 |
+| Córners en contra | 5,8 | 5,3 | 4,8 | 5,1 |
+| Córners a favor 1ª parte | 2,2 | 2,2 | 2,7 | 2,1 |
+| Córners a favor 2ª parte | 1,9 | 2,5 | 2,5 | 2,3 |
+| Córners totales del partido | 9,8 | 10,0 | 10,1 | 9,6 |
+| Córners totales 1ª parte | 4,1 | 4,0 | 4,9 | 4,1 |
+| Córners totales 2ª parte | 5,8 | 6,0 | 5,2 | 5,4 |
+| Más de 8,5 córners | 75% | 83% | 62% | 43% |
+| Más de 9,5 córners | 42% | 33% | 62% | 43% |
+| Más de 10,5 córners | 33% | 33% | 46% | 43% |
+| Faltas cometidas | 12,1 | 11,3 | 12,7 | 12,3 |
+| Faltas recibidas | 15,8 | 17,7 | 12,9 | 11,3 |
+| Amarillas propias | 2,8 | 3,2 | 2,3 | 2,6 |
 | Amarillas del rival | 2,2 | 2,5 | 2,8 | 2,7 |
-| Rojas / partido | 0,18 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,17 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Las Palmas | Recibe Las Palmas | Tarjetas Las Palmas | Goles Eldense | Recibe Eldense | Tarjetas Eldense |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 1 | 0 | 3 | 1 |
-| 16-30' | 3 | 5 | 7 | 0 | 3 | 3 |
+| 16-30' | 5 | 5 | 7 | 0 | 3 | 3 |
 | 31-45' | 1 | 0 | 4 | 2 | 4 | 11 |
-| 46-60' | 4 | 5 | 1 | 3 | 2 | 5 |
-| 61-75' | 2 | 3 | 7 | 3 | 2 | 3 |
-| 76-90' | 5 | 4 | 15 | 6 | 3 | 8 |
+| 46-60' | 5 | 5 | 1 | 3 | 2 | 5 |
+| 61-75' | 2 | 4 | 8 | 3 | 2 | 3 |
+| 76-90' | 5 | 5 | 16 | 6 | 3 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -68,31 +68,31 @@ _Sin precedentes recientes._
 ## Últimos partidos de Las Palmas
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Segunda División | Oviedo 2-3 Las Palmas | fuera | 4-7 | 10 (5) - 22 (7) | 2-2 |
 | 2026-10-27 | Copa del Rey | RSD Alcalá 1-3 Las Palmas | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Las Palmas 1-0 Real Sociedad II | casa | 7-6 | 13 (4) - 12 (3) | 3-3 |
 | 2026-10-17 | Segunda División | Las Palmas 0-3 Castellón | casa | 3-6 | 5 (1) - 14 (7) | 7-1 |
 | 2026-10-11 | Segunda División | Mallorca 3-1 Las Palmas | fuera | 2-7 | 4 (2) - 12 (6) | 3-1 |
 | 2026-10-04 | Segunda División | Las Palmas 2-2 Valladolid | casa | 3-6 | 12 (4) - 15 (7) | 3-4 |
-| 2026-09-27 | Segunda División | Eibar 3-2 Las Palmas | fuera | 1-6 | 11 (5) - 18 (6) | 8-0 |
 
 ## Jugadores de Las Palmas
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Valentín Pezzolesi | D | 11 | 990 | 2 | 0 | 6 | 0,5 | 3 | 0,3 | 16 | 20 | 1,8 | 2 | 0 |
-| José Caro | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
-| T. Miyashiro | M | 11 | 892 | 2 | 2 | 8 | 0,7 | 4 | 0,4 | 9 | 19 | 1,7 | 0 | 0 |
-| E. Loiodice | M | 11 | 773 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 21 | 1,9 | 2 | 0 |
-| Juan Herzog | D | 9 | 765 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 10 | 1 | 0,1 | 2 | 0 |
-| Álex Suárez | D | 9 | 761 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 7 | 7 | 0,8 | 3 | 0 |
-| Kirian Rodríguez | M | 11 | 721 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 5 | 13 | 1,2 | 2 | 0 |
-| G. Bonfanti | D | 10 | 692 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 6 | 0,6 | 3 | 0 |
-| Iván Jaime | M | 9 | 657 | 2 | 2 | 16 | 1,8 | 5 | 0,6 | 10 | 13 | 1,4 | 3 | 0 |
-| Manu Fuster | F | 11 | 634 | 1 | 1 | 13 | 1,2 | 7 | 0,6 | 7 | 18 | 1,6 | 1 | 0 |
-| Jesé | F | 9 | 611 | 3 | 1 | 12 | 1,3 | 7 | 0,8 | 8 | 5 | 0,6 | 2 | 1 |
-| Jefté Betancor | F | 10 | 525 | 1 | 1 | 5 | 0,5 | 3 | 0,3 | 4 | 7 | 0,7 | 0 | 0 |
+| José Caro | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
+| Valentín Pezzolesi | D | 12 | 1080 | 2 | 1 | 6 | 0,5 | 3 | 0,2 | 17 | 25 | 2,1 | 2 | 0 |
+| T. Miyashiro | M | 12 | 965 | 3 | 2 | 10 | 0,8 | 6 | 0,5 | 10 | 19 | 1,6 | 1 | 0 |
+| E. Loiodice | M | 12 | 863 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 12 | 21 | 1,8 | 2 | 0 |
+| Juan Herzog | D | 10 | 855 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 12 | 1 | 0,1 | 3 | 0 |
+| Álex Suárez | D | 10 | 851 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 7 | 7 | 0,7 | 3 | 0 |
+| Kirian Rodríguez | M | 12 | 811 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 5 | 15 | 1,2 | 2 | 0 |
+| Iván Jaime | M | 10 | 724 | 2 | 2 | 18 | 1,8 | 6 | 0,6 | 10 | 13 | 1,3 | 3 | 0 |
+| Manu Fuster | F | 12 | 720 | 2 | 1 | 15 | 1,2 | 8 | 0,7 | 8 | 22 | 1,8 | 1 | 0 |
+| G. Bonfanti | D | 11 | 696 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 7 | 0,6 | 3 | 0 |
+| Jesé | F | 10 | 677 | 4 | 1 | 14 | 1,4 | 8 | 0,8 | 8 | 6 | 0,6 | 2 | 1 |
+| Jefté Betancor | F | 11 | 549 | 1 | 1 | 5 | 0,5 | 3 | 0,3 | 4 | 7 | 0,6 | 0 | 0 |
 | Iñaki González | M | 8 | 507 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 12 | 1,5 | 4 | 1 |
-| A. Rodriguez | D | 5 | 249 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 3 | 0,6 | 2 | 0 |
-| Elías Romero | F | 9 | 227 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 5 | 3 | 0,3 | 2 | 0 |
+| A. Rodriguez | D | 6 | 335 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,5 | 2 | 0 |
+| Elías Romero | F | 10 | 244 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 5 | 3 | 0,3 | 2 | 0 |
 | Enrique Clemente | D | 3 | 210 | 1 | 0 | 1 | 0,3 | 1 | 0,3 | 1 | 2 | 0,7 | 0 | 0 |
 | Rafael Cruz | F | 6 | 152 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 2 | 3 | 0,5 | 1 | 0 |
 | Sandro Ramírez | F | 6 | 142 | 1 | 0 | 3 | 0,5 | 2 | 0,3 | 1 | 5 | 0,8 | 0 | 0 |
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Javier Olaizola | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,18 · córners esperados 10,0._
+_Goles esperados: local 1,42 · visitante 1,17 · córners esperados 10,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

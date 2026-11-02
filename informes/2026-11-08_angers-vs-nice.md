@@ -1,7 +1,7 @@
 # Angers – Nice
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Raymond-Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -196,7 +196,7 @@ _Goles esperados: local 1,33 · visitante 1,56 · córners esperados 10,1._
 |---|---|---|---|---|---|
 | 1X2: 2 | 43% | 45% | 44% | 2.05 | -10% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
-| 1X2: 1 | 32% | 28% | 30% | 3.30 | +0% |
+| 1X2: 1 | 32% | 28% | 30% | 3.30 | -0% |
 | Doble oportunidad: X2 | 68% | 71% | 69% | 1.33 | -8% |
 | Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 57% | 55% | 56% | 1.73 | -3% |
@@ -204,7 +204,7 @@ _Goles esperados: local 1,33 · visitante 1,56 · córners esperados 10,1._
 | Ambos marcan: Sí | 58% | 58% | 58% | 1.62 | -6% |
 | Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles más/menos: Más de 2.5 | 55% | 55% | 55% | 1.73 | -5% |
-| Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
+| Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -7% |
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -6% |
 | Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.44 | -4% |
@@ -221,7 +221,7 @@ _Goles esperados: local 1,33 · visitante 1,56 · córners esperados 10,1._
 | Goles del visitante: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
 | Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
 | 1X2 descanso: 2 | 33% | 36% | 34% | 2.60 | -11% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.30 | -6% |
 | 1X2 descanso: 1 | 26% | 23% | 25% | 4.00 | -0% |

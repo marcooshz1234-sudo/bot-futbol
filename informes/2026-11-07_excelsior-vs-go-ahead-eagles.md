@@ -1,7 +1,7 @@
 # Excelsior – GO Ahead Eagles
 **Eredivisie** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -221,9 +221,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -7% |
 | Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles del visitante: Más de 2.5 | 30% | 27% | 28% | 3.50 | -0% |
+| Goles del visitante: Más de 2.5 | 30% | 27% | 29% | 3.50 | -0% |
 | Goles del visitante: Menos de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles del visitante: Menos de 2.5 | 70% | 73% | 72% | 1.28 | -8% |
+| Goles del visitante: Menos de 2.5 | 70% | 73% | 71% | 1.28 | -8% |
 | Córners más/menos: Más de 9.5 | 44% | 51% | 48% | 1.80 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 49% | 52% | 1.91 | -0% |
 | 1X2 descanso: 2 | 36% | 32% | 34% | 2.88 | -2% |

@@ -1,7 +1,7 @@
 # AZ Alkmaar – Juventus
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:13_
@@ -193,8 +193,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 50% | 44% | 1.85 | -19% |
 | 1X2: X | 28% | 26% | 27% | 3.50 | -4% |
-| 1X2: 1 | 34% | 24% | 29% | 3.80 | +10% |
-| Doble oportunidad: X2 | 66% | 74% | 70% | 1.28 | -10% |
+| 1X2: 1 | 33% | 24% | 29% | 3.80 | +10% |
+| Doble oportunidad: X2 | 67% | 74% | 70% | 1.28 | -10% |
 | Doble oportunidad: 12 | 72% | 73% | 72% | 1.30 | -6% |
 | Doble oportunidad: 1X | 62% | 53% | 57% | 1.80 | +3% |
 | Ambos marcan: No | 54% | 45% | 49% | 2.05 | +1% |
@@ -222,7 +222,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 50% | 50% | 50% | 1.83 | -8% |
 | Córners más/menos: Menos de 9.5 | 50% | 50% | 50% | 1.83 | -9% |
 | 1X2 descanso: 2 | 28% | 38% | 33% | 2.50 | -18% |
-| 1X2 descanso: X | 47% | 41% | 44% | 2.30 | +1% |
+| 1X2 descanso: X | 47% | 41% | 44% | 2.30 | +0% |
 | 1X2 descanso: 1 | 25% | 22% | 24% | 4.33 | +2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

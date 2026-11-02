@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.32 €
+Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.66 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
 | resultado | 44 | 65 | 68% | -1.71 € |
-| jugador | 57 | 90 | 63% | -10.95 € |
-| goles | 99 | 159 | 62% | -21.21 € |
+| jugador | 58 | 91 | 64% | -10.65 € |
+| goles | 100 | 160 | 62% | -20.85 € |
 | tarjetas | 5 | 9 | 56% | -1.13 € |
 | tiros | 4 | 9 | 44% | -1.94 € |
 | corners | 1 | 7 | 14% | -5.38 € |
@@ -26,7 +26,7 @@ Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.
 | Total - Home · Over 0.5 | 6 | 8 | 75% |
 | Double Chance · Home/Draw | 3 | 4 | 75% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Goals Over/Under First Half · Over 0.5 | 26 | 38 | 68% |
+| Goals Over/Under First Half · Over 0.5 | 27 | 39 | 69% |
 | Goals Over/Under · Over 2.5 | 10 | 15 | 67% |
 | Goals Over/Under - Second Half · Over 1.5 | 3 | 5 | 60% |
 | Total - Away · Over 0.5 | 21 | 36 | 58% |
@@ -45,7 +45,10 @@ Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.
 
 ## Últimos días
 
-### 2026-11-01 · 41/62
+### 2026-11-02 · 1/1
+- ✅ Gol en la 1ª parte del Oviedo–Las Palmas · 1.36 (2-3)
+
+### 2026-11-01 · 42/63
 - ❌ ADO Den Haag marca · 1.25 (1-0)
 - ❌ Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag · 1.80 (1-0)
 - ✅ Gol en la 1ª parte del PEC Zwolle–ADO Den Haag · 1.28 (1-0)
@@ -108,6 +111,7 @@ Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.
 - ❌ Real Sociedad o empate · 1.80 (2-1)
 - ❌ Robert Navarro: 1+ tiros a puerta · 1.44 (2-1)
 - ❌ Mamadou Sarr comete 1+ faltas · 1.40 (2-1)
+- ✅ Enric Gallego: 1+ tiros a puerta · 1.30 (2-2)
 
 ### 2026-10-31 · 70/117
 - ❌ Manchester United marca · 1.36 (2-0)
@@ -307,16 +311,4 @@ Picks ya jugados: 341 · aciertos: 210 (62%) · beneficio a 1 € por pick: -44.
 - ✅ Ambos marcan en Torino–Como · 1.70 (1-3)
 - ✅ Alessandro Romano: 1+ tiros · 1.36 (4-2)
 - ❌ Paul Mendy comete 2+ faltas · 1.44 (4-2)
-
-### 2026-10-26 · 6/10
-- ✅ Vinicius Lopes: 1+ tiros · 1.25 (1-2)
-- ❌ Más de 26,5 tiros en Paris Saint Germain–Lyon · 1.80 (2-0)
-- ❌ Más de 2,5 goles en Paris Saint Germain–Lyon · 1.36 (2-0)
-- ❌ Lyon marca · 1.44 (2-0)
-- ❌ Ambos marcan en Paris Saint Germain–Lyon · 1.62 (2-0)
-- ✅ Burgos marca · 1.44 (2-3)
-- ✅ Gol en la 1ª parte del FC Andorra–Burgos · 1.40 (2-3)
-- ✅ Más de 1,5 goles en Sevilla–Osasuna · 1.40 (2-0)
-- ✅ No hay empate en Sevilla–Osasuna · 1.33 (2-0)
-- ✅ Youssouf Fofana: 1+ tiros a puerta · 1.80 (2-0)
 

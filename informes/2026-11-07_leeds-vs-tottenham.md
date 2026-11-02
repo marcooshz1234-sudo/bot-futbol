@@ -1,7 +1,7 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -186,7 +186,7 @@ _Goles esperados: local 1,39 · visitante 1,06 · córners esperados 9,6._
 | 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
 | 1X2: 1 | 44% | 38% | 41% | 2.50 | +2% |
 | Doble oportunidad: X2 | 56% | 63% | 59% | 1.50 | -11% |
-| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -5% |
+| Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
 | Doble oportunidad: 1X | 71% | 67% | 69% | 1.40 | -3% |
 | Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
 | Ambos marcan: Sí | 49% | 55% | 52% | 1.70 | -12% |

@@ -1,7 +1,7 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:13_
@@ -187,26 +187,26 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,4._
+_Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 9% | 15% | 12% | 6.25 | -25% |
 | 1X2: X | 12% | 19% | 16% | 4.75 | -24% |
 | 1X2: 1 | 78% | 66% | 72% | 1.40 | +1% |
-| Doble oportunidad: X2 | 22% | 35% | 28% | 2.75 | -23% |
+| Doble oportunidad: X2 | 22% | 35% | 28% | 2.75 | -22% |
 | Doble oportunidad: 12 | 88% | 81% | 84% | 1.18 | -1% |
 | Doble oportunidad: 1X | 91% | 85% | 88% | 1.12 | -2% |
 | Ambos marcan: No | 37% | 44% | 41% | 2.10 | -15% |
 | Ambos marcan: Sí | 63% | 56% | 59% | 1.67 | -1% |
 | Goles más/menos: Más de 2.5 | 80% | 66% | 73% | 1.44 | +5% |
 | Goles más/menos: Más de 3.5 | 61% | 45% | 53% | 2.10 | +12% |
-| Goles más/menos: Más de 4.5 ✅ | 42% | 27% | 34% | 3.50 | +21% |
+| Goles más/menos: Más de 4.5 ✅ | 42% | 27% | 35% | 3.50 | +21% |
 | Goles más/menos: Menos de 2.5 | 20% | 34% | 27% | 2.75 | -25% |
 | Goles más/menos: Menos de 3.5 | 39% | 55% | 47% | 1.73 | -19% |
-| Goles más/menos: Menos de 4.5 | 58% | 73% | 66% | 1.30 | -15% |
+| Goles más/menos: Menos de 4.5 | 58% | 73% | 65% | 1.30 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 44% | 50% | 2.10 | +4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 44% | 50% | 2.10 | +5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 21% | 25% | 4.50 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 56% | 50% | 1.67 | -16% |

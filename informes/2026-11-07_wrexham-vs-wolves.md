@@ -1,7 +1,7 @@
 # Wrexham – Wolves
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | T. Chirewa | F | 9 | 258 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 8 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,75 · visitante 1,26 · córners esperados 9,5._
+_Goles esperados: local 0,75 · visitante 1,27 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

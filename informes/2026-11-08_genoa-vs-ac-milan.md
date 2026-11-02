@@ -1,7 +1,7 @@
 # Genoa – AC Milan
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -182,7 +182,7 @@ _Goles esperados: local 0,95 · visitante 1,35 · córners esperados 9,1._
 | Ambos marcan: Sí | 46% | 48% | 47% | 1.95 | -9% |
 | Goles más/menos: Más de 1.5 | 67% | 72% | 69% | 1.33 | -8% |
 | Goles más/menos: Más de 2.5 | 41% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Más de 3.5 | 20% | 25% | 23% | 3.75 | -15% |
+| Goles más/menos: Más de 3.5 | 20% | 25% | 23% | 3.75 | -14% |
 | Goles más/menos: Menos de 1.5 | 33% | 28% | 31% | 3.40 | +4% |
 | Goles más/menos: Menos de 2.5 | 59% | 55% | 57% | 1.73 | -1% |
 | Goles más/menos: Menos de 3.5 | 80% | 75% | 77% | 1.28 | -1% |

@@ -1,7 +1,7 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -215,9 +215,9 @@ _Goles esperados: local 1,29 · visitante 1,59 · córners esperados 9,8._
 | Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles del visitante: Más de 1.5 | 47% | 56% | 52% | 1.67 | -14% |
-| Goles del visitante: Más de 2.5 | 21% | 29% | 25% | 3.25 | -18% |
+| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -18% |
 | Goles del visitante: Menos de 1.5 | 53% | 44% | 48% | 2.10 | +2% |
-| Goles del visitante: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -1% |
+| Goles del visitante: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
 | 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
 | 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -10% |

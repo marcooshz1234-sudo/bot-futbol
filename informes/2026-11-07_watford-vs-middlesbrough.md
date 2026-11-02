@@ -1,7 +1,7 @@
 # Watford – Middlesbrough
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Solomon Brynn | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,86 · visitante 2,24 · córners esperados 9,9._
+_Goles esperados: local 0,86 · visitante 2,25 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

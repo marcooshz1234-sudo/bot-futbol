@@ -1,7 +1,7 @@
 # Manchester United – Aston Villa
 **Premier League** · Regular Season - 10 · 08/11/2026 17:30 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -179,7 +179,7 @@ _Sin bajas comunicadas por ahora._
 | L. Bogarde | D | 4 | 218 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 5 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,66 · visitante 1,77 · córners esperados 9,5._
+_Goles esperados: local 1,66 · visitante 1,78 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

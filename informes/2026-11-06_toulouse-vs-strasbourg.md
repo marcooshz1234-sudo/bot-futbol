@@ -1,7 +1,7 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -194,7 +194,7 @@ _Goles esperados: local 1,93 · visitante 1,30 · córners esperados 8,7._
 |---|---|---|---|---|---|
 | 1X2: 2 | 26% | 29% | 27% | 3.25 | -12% |
 | 1X2: X | 22% | 25% | 24% | 3.70 | -13% |
-| 1X2: 1 | 52% | 46% | 49% | 2.00 | -1% |
+| 1X2: 1 | 52% | 46% | 49% | 2.00 | -2% |
 | Doble oportunidad: X2 | 48% | 53% | 51% | 1.80 | -9% |
 | Doble oportunidad: 12 | 78% | 75% | 76% | 1.28 | -2% |
 | Doble oportunidad: 1X | 74% | 72% | 73% | 1.33 | -3% |

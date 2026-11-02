@@ -1,7 +1,7 @@
 # Real Sociedad – Lyon
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -189,7 +189,7 @@ _Goles esperados: local 1,57 · visitante 1,35 · córners esperados 10,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 24% | 29% | 3.80 | +8% |
+| 1X2: 2 | 33% | 24% | 29% | 3.80 | +9% |
 | 1X2: X | 25% | 25% | 25% | 3.75 | -8% |
 | 1X2: 1 | 43% | 51% | 47% | 1.80 | -16% |
 | Doble oportunidad: X2 | 57% | 49% | 53% | 1.95 | +3% |
@@ -199,8 +199,8 @@ _Goles esperados: local 1,57 · visitante 1,35 · córners esperados 10,4._
 | Ambos marcan: Sí | 59% | 61% | 60% | 1.53 | -9% |
 | Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -9% |
 | Goles más/menos: Más de 3.5 | 33% | 40% | 37% | 2.38 | -13% |
-| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -16% |
-| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | +0% |
+| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
+| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | -0% |
 | Goles más/menos: Menos de 3.5 | 67% | 60% | 63% | 1.57 | -0% |
 | Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |

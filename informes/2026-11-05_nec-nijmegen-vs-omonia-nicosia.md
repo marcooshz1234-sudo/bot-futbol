@@ -1,7 +1,7 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -183,7 +183,7 @@ _Sin precedentes recientes._
 | A. Neophytou | F | 6 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,41 · visitante 1,20 · córners esperados 9,6._
+_Goles esperados: local 1,41 · visitante 1,20 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

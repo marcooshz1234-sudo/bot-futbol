@@ -1,7 +1,7 @@
 # Benfica – Lech Poznan
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:13_
@@ -194,12 +194,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 7% | 8% | 13.00 | +2% |
+| 1X2: 2 | 9% | 7% | 8% | 13.00 | +3% |
 | 1X2: X | 10% | 12% | 11% | 7.50 | -16% |
 | 1X2: 1 | 81% | 81% | 81% | 1.14 | -8% |
 | Doble oportunidad: X2 | 19% | 18% | 18% | 5.50 | +0% |
 | Doble oportunidad: 12 | 90% | 89% | 89% | 1.10 | -2% |
-| Doble oportunidad: 1X | 91% | 94% | 93% | 1.04 | -4% |
+| Doble oportunidad: 1X | 91% | 94% | 92% | 1.04 | -4% |
 | Ambos marcan: No | 27% | 52% | 39% | 1.80 | -29% |
 | Ambos marcan: Sí | 73% | 48% | 61% | 1.95 | +18% |
 | Goles más/menos: Más de 2.5 | 90% | 72% | 81% | 1.33 | +7% |

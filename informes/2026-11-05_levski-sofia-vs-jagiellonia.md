@@ -1,7 +1,7 @@
 # Levski Sofia – Jagiellonia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · National Stadium Vasil Levski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -184,7 +184,7 @@ _Sin precedentes recientes._
 | Youssuf Sylla | F | 1 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,11 · córners esperados 9,6._
+_Goles esperados: local 1,32 · visitante 1,11 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -218,9 +218,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
+| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -5% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
 | 1X2 descanso: 1 | 30% | 36% | 33% | 2.60 | -14% |
 

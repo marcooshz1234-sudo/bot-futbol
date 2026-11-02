@@ -1,7 +1,7 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,61 · córners esperados 9,5._
+_Goles esperados: local 1,42 · visitante 1,62 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@ _Goles esperados: local 1,42 · visitante 1,61 · córners esperados 9,5._
 | Goles más/menos: Menos de 2.5 | 42% | 43% | 42% | 2.20 | -7% |
 | Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
@@ -216,7 +216,7 @@ _Goles esperados: local 1,42 · visitante 1,61 · córners esperados 9,5._
 | Goles del visitante: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles del visitante: Más de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
 | Goles del visitante: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles del visitante: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles del visitante: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles del visitante: Menos de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles del visitante: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -8% |

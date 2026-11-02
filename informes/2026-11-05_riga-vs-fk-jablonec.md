@@ -1,10 +1,10 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 19:48_
+_Actualizadas: 02/11 20:01_
 
 - **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.57**
@@ -27,6 +27,8 @@ _Actualizadas: 01/11 19:48_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.20**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -40,6 +42,11 @@ _Actualizadas: 01/11 19:48_
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Away Player Shots On Target Total:** Martin Cedidla **13.00**  ·  Filip Zorvan **41.00**
 - **Anytime Goal Scorer:** Antonijs Cernomordijs **11.00**  ·  Raivis Jurkovskis **11.00**  ·  Maksims Tonisevs **11.00**  ·  Orlando Galo **3.75**  ·  David Nykrin **13.00**  ·  Vakhtang Tchanturishvili **5.00**  ·  Abdulrahman Taiwo **3.50**  ·  Ahmed Ankrah **11.00**  ·  Iago Siqueira **3.50**  ·  Meissa Diop **6.00**  ·  Karl Gameni Wassom **9.00**  ·  Baba Musah **13.00**  ·  Coli Saco **11.00**  ·  Evzen Maly **15.00**  ·  Lamin Jawo **3.25**  ·  Saidou Alioum **6.00**  ·  Dusan Pavlovic **13.00**  ·  Junior Reginaldo **2.75**  ·  Moreira Pedrinho **4.75**  ·  Godinho Paulo **8.00**  ·  Raki Aouani **4.75**  ·  Martins Caio **3.25**  ·  Adam Kubat **7.50**  ·  Samuel Pedro **3.10**  ·  Dominik Holly **6.00**  ·  Jan Chramosta **3.50**  ·  Matej Polidar **6.50**  ·  Martin Cedidla **8.00**  ·  Daniel Soucek **13.00**  ·  Sebastian Nebyla **8.00**  ·  Jan Suchan **4.00**  ·  Nemanja Tekijaski **13.00**  ·  Jiri Slama **9.00**  ·  Filip Zorvan **7.50**  ·  Richard Sedlacek **7.50**  ·  Muhammed Badamosi **2.60**  ·  Garang Kuol **4.00**  ·  Salah Oulad M'Hand **4.00**  ·  Antonin Rusek **3.00**  ·  Nelson Okeke **6.50**  ·  Filip Novak **11.00**
 
@@ -180,7 +187,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 53% | 32% | 42% | 2.88 | +22% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
 | 1X2: 1 | 22% | 40% | 31% | 2.30 | -28% |
-| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +8% |
+| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +9% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 47% | 67% | 57% | 1.40 | -20% |
 | Ambos marcan: No | 53% | 46% | 50% | 2.00 | -1% |
@@ -192,9 +199,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
 | Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 32% | 2.75 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 68% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 60% | 75% | 67% | 1.25 | -16% |
 | Goles del local: Más de 1.5 | 23% | 42% | 33% | 2.20 | -28% |
 | Goles del local: Menos de 0.5 | 40% | 25% | 33% | 3.75 | +23% |
@@ -203,6 +210,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
 | 1X2 descanso: 2 | 37% | 27% | 32% | 3.50 | +12% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 19% | 31% | 25% | 3.00 | -25% |

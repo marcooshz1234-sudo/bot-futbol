@@ -1,7 +1,7 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -201,7 +201,7 @@ _Goles esperados: local 1,58 · visitante 1,44 · córners esperados 11,0._
 | Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 1.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 58% | 57% | 57% | 1.67 | -4% |
-| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -6% |
+| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -5% |
 | Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -10% |
 | Goles más/menos: Menos de 1.5 | 20% | 21% | 20% | 4.50 | -8% |
 | Goles más/menos: Menos de 2.5 | 42% | 43% | 43% | 2.20 | -6% |

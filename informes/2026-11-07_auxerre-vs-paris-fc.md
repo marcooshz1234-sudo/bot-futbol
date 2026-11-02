@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -188,22 +188,22 @@ _Sin bajas comunicadas por ahora._
 | O. Sissoko | F | 4 | 35 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,20 · córners esperados 9,3._
+_Goles esperados: local 1,04 · visitante 2,21 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 64% | 52% | 58% | 1.80 | +4% |
-| 1X2: X | 19% | 25% | 22% | 3.70 | -17% |
+| 1X2: X | 19% | 25% | 22% | 3.70 | -18% |
 | 1X2: 1 | 17% | 23% | 20% | 4.00 | -20% |
 | Doble oportunidad: X2 | 83% | 78% | 80% | 1.22 | -2% |
 | Doble oportunidad: 12 | 81% | 74% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 36% | 49% | 42% | 1.95 | -17% |
 | Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.22 | -1% |
+| Goles más/menos: Más de 1.5 | 84% | 78% | 81% | 1.22 | -1% |
 | Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
 | Goles más/menos: Más de 3.5 | 41% | 34% | 38% | 2.75 | +3% |
-| Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Menos de 1.5 | 16% | 22% | 19% | 4.33 | -17% |
 | Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.10 | -14% |
 | Goles más/menos: Menos de 3.5 | 59% | 66% | 62% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 72% | 74% | 1.30 | -4% |
@@ -220,7 +220,7 @@ _Goles esperados: local 1,04 · visitante 2,20 · córners esperados 9,3._
 | Goles del visitante: Menos de 2.5 | 62% | 72% | 67% | 1.30 | -13% |
 | Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
-| 1X2 descanso: 2 | 47% | 39% | 43% | 2.38 | +2% |
+| 1X2 descanso: 2 | 47% | 39% | 43% | 2.38 | +3% |
 | 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -10% |
 | 1X2 descanso: 1 | 17% | 22% | 19% | 4.33 | -17% |
 

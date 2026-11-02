@@ -1,7 +1,7 @@
 # Espanyol – Deportivo La Coruna
 **LaLiga** · Regular Season - 12 · 07/11/2026 16:15 (hora España) · RCDE Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -213,8 +213,8 @@ _Goles esperados: local 1,01 · visitante 1,11 · córners esperados 9,5._
 | Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +20% |
 | Goles del local: Menos de 1.5 | 73% | 56% | 64% | 1.67 | +8% |
 | Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
-| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -9% |
 | Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |

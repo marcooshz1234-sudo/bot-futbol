@@ -1,10 +1,10 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 19:48_
+_Actualizadas: 02/11 20:00_
 
 - **1X2:** 1 **1.45**  ·  X **4.20**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.62**
@@ -21,14 +21,17 @@ _Actualizadas: 01/11 19:48_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.40**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -42,6 +45,12 @@ _Actualizadas: 01/11 19:48_
 - **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **13.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.62**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Away Player Shots On Target Total:** Adrian Rus **17.00**  ·  Baptiste Roux **17.00**
 - **Anytime Goal Scorer:** Deivid Hoxha **4.50**  ·  David Matei **5.50**  ·  Tudor Baluta **7.00**  ·  Oleksandr Romanchuk **8.00**  ·  Nicusor Bancu **8.00**  ·  Numan Ajetovikj **15.00**  ·  Ronaldo Webster **10.00**  ·  Steven Nsimba **2.10**  ·  Monday Etim **2.40**  ·  Alexandru Cicaldau **4.00**  ·  Heriberto Tavares **3.10**  ·  Zamiq Aliyev **23.00**  ·  Adrian Rus **10.00**  ·  Ibrahim Diabate **10.00**  ·  Assad Al Hamlawi **2.10**  ·  Eneo Bitri **12.00**  ·  Alexandru Cretu **7.50**  ·  Baptiste Roux **8.00**  ·  Alessandro Albanese **4.75**  ·  Eljon Sota **15.00**  ·  Ildi Gruda **4.75**  ·  Altin Kryeziu **17.00**  ·  Karim Loukili **6.00**  ·  Geralb Smajli **17.00**  ·  Edison Ndreca **12.00**  ·  Albano Aleksi **15.00**  ·  Jurguens Montenegro **4.50**  ·  Daniel Adjessa **4.50**  ·  Alessandro Kacbufi **17.00**  ·  Andrey Yago **15.00**  ·  Guillem Jaime **17.00**  ·  Reis Bakalli **9.50**  ·  Joao Lameira **5.50**  ·  Samuel Teles **5.50**  ·  Carlos Mora **3.60**  ·  Stefan Baiaram **2.10**  ·  Vladimir Screciu **7.00**  ·  Luca Basceanu **3.10**  ·  Nikola Stevanovic **8.00**  ·  Simon Elisor **2.10**
 
 ## Estadísticas de equipo
@@ -192,14 +201,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 1.5 | 51% | 61% | 56% | 1.53 | -14% |
-| Goles del local: Más de 2.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del local: Menos de 1.5 | 49% | 39% | 44% | 2.38 | +5% |
-| Goles del local: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
-| Goles del visitante: Más de 0.5 | 74% | 56% | 65% | 1.67 | +8% |
-| Goles del visitante: Más de 1.5 | 39% | 22% | 30% | 4.33 | +31% |
-| Goles del visitante: Menos de 0.5 | 26% | 44% | 35% | 2.10 | -26% |
-| Goles del visitante: Menos de 1.5 | 61% | 78% | 70% | 1.20 | -16% |
+| Goles del local: Más de 1.5 | 51% | 59% | 55% | 1.57 | -14% |
+| Goles del local: Más de 2.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles del local: Menos de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
+| Goles del local: Menos de 2.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles del visitante: Más de 0.5 | 74% | 58% | 66% | 1.62 | +7% |
+| Goles del visitante: Más de 1.5 | 39% | 23% | 31% | 4.00 | +24% |
+| Goles del visitante: Menos de 0.5 | 26% | 42% | 34% | 2.20 | -25% |
+| Goles del visitante: Menos de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
+| Córners más/menos: Más de 9.5 | 45% | 46% | 45% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 55% | 54% | 55% | 1.73 | -6% |
 | 1X2 descanso: X | 39% | 38% | 39% | 2.40 | -7% |
 | 1X2 descanso: 1 | 35% | 46% | 41% | 2.00 | -19% |
 

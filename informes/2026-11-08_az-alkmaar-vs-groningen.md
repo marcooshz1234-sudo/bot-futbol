@@ -1,7 +1,7 @@
 # AZ Alkmaar – Groningen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -192,13 +192,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 18% | 17% | 5.25 | -13% |
-| 1X2: X | 17% | 21% | 19% | 4.50 | -15% |
+| 1X2: X | 17% | 21% | 19% | 4.50 | -14% |
 | 1X2: 1 | 67% | 61% | 64% | 1.53 | -2% |
 | Doble oportunidad: X2 | 33% | 40% | 36% | 2.38 | -14% |
 | Doble oportunidad: 12 | 83% | 80% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 85% | 81% | 83% | 1.17 | -3% |
-| Ambos marcan: No | 37% | 35% | 36% | 2.62 | -6% |
-| Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
+| Ambos marcan: No | 36% | 35% | 36% | 2.62 | -6% |
+| Ambos marcan: Sí | 64% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -4% |
 | Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.83 | -8% |
 | Goles más/menos: Más de 4.5 | 32% | 31% | 31% | 3.00 | -6% |
@@ -218,9 +218,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 53% | 56% | 54% | 1.67 | -9% |
 | Goles del local: Menos de 3.5 | 75% | 77% | 76% | 1.22 | -8% |
 | Goles del visitante: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles del visitante: Más de 1.5 | 33% | 35% | 34% | 2.62 | -11% |
 | Goles del visitante: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles del visitante: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
 | 1X2 descanso: X | 33% | 33% | 33% | 2.75 | -9% |
 | 1X2 descanso: 1 | 51% | 47% | 49% | 1.95 | -5% |
 

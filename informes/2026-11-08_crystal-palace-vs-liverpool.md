@@ -1,7 +1,7 @@
 # Crystal Palace – Liverpool
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -194,7 +194,7 @@ _Goles esperados: local 1,26 · visitante 1,95 · córners esperados 9,6._
 | Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -8% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |

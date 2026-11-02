@@ -1,7 +1,7 @@
 # Castellón – Eibar
 **Segunda División** · Regular Season - 13 · 06/11/2026 20:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Sergio Álvarez | M | 2 | 106 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,79 · visitante 0,97 · córners esperados 9,5._
+_Goles esperados: local 1,78 · visitante 0,96 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

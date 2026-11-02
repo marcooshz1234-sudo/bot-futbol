@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Lyon
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -218,7 +218,7 @@ _Goles esperados: local 1,31 · visitante 1,23 · córners esperados 9,7._
 | Goles del local: Menos de 1.5 | 62% | 59% | 61% | 1.57 | -5% |
 | Goles del visitante: Más de 0.5 | 71% | 78% | 75% | 1.20 | -11% |
 | Goles del visitante: Más de 1.5 | 35% | 46% | 41% | 2.00 | -19% |
-| Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -26% |
+| Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
 | Goles del visitante: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
 | Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |

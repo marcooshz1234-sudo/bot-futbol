@@ -1,7 +1,7 @@
 # SC Freiburg – Union Berlin
 **Bundesliga** · Regular Season - 9 · 08/11/2026 17:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -194,7 +194,7 @@ _Goles esperados: local 2,78 · visitante 0,85 · córners esperados 9,3._
 | Doble oportunidad: 1X | 91% | 83% | 87% | 1.14 | -1% |
 | Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
 | Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -9% |
-| Goles más/menos: Más de 2.5 | 70% | 60% | 65% | 1.57 | +2% |
+| Goles más/menos: Más de 2.5 | 70% | 60% | 65% | 1.57 | +3% |
 | Goles más/menos: Más de 3.5 ✅ | 49% | 38% | 44% | 2.50 | +9% |
 | Goles más/menos: Más de 4.5 | 30% | 22% | 26% | 4.33 | +13% |
 | Goles más/menos: Menos de 2.5 | 30% | 40% | 35% | 2.38 | -17% |

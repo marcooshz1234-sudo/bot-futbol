@@ -1,7 +1,7 @@
 # Sparta Praha – Bournemouth
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
 | Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |
 | Goles más/menos: Más de 2.5 | 73% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 3.5 | 52% | 38% | 45% | 2.50 | +12% |
+| Goles más/menos: Más de 3.5 | 52% | 38% | 45% | 2.50 | +13% |
 | Goles más/menos: Más de 4.5 | 33% | 22% | 27% | 4.33 | +18% |
 | Goles más/menos: Menos de 2.5 | 27% | 40% | 34% | 2.38 | -20% |
 | Goles más/menos: Menos de 3.5 | 48% | 62% | 55% | 1.53 | -16% |
@@ -219,7 +219,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 45% | 65% | 55% | 1.44 | -21% |
 | Córners más/menos: Más de 9.5 | 49% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 51% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 2 | 58% | 46% | 52% | 2.00 | +4% |
+| 1X2 descanso: 2 | 58% | 46% | 52% | 2.00 | +5% |
 | 1X2 descanso: X | 30% | 37% | 34% | 2.50 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

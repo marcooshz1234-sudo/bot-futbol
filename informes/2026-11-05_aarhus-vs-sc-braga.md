@@ -1,7 +1,7 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 14:12_
@@ -210,10 +210,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 87% | 71% | 79% | 1.33 | +5% |
 | Goles del visitante: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
 | Goles del visitante: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Goles del visitante: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
+| Goles del visitante: Más de 2.5 | 14% | 22% | 18% | 4.33 | -24% |
 | Goles del visitante: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles del visitante: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles del visitante: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
+| Goles del visitante: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -9% |
