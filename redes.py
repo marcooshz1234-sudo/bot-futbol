@@ -165,7 +165,11 @@ VERDES_DIA = 2
 def verdes_con_enlace(dia, sin=None):
     n = 0
     for f in (AUTO, COLA):
-        for x in leer(f, []) or []:
+        try:
+            lista = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        except Exception:
+            lista = []
+        for x in lista or []:
             if "verde" in x.get("id", "") and x.get("fecha", "")[:10] == dia and x.get("id") != sin \
                     and (x.get("redes") or {}).get("threads_enlace"):
                 n += 1

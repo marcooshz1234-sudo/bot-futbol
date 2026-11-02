@@ -67,3 +67,18 @@ class RecorteMilan28(unittest.TestCase):
         sel = ["1550167|ShotOnTarget 1x2|Home", "1550167|Total - Away|Over 0.5", "1550167|Match Winner|Home", "1550167|Cards Over/Under|Over 3.5"]
         real = combis_dia.cuota_real_sel(sel, [1.44, 1.62, 1.70, 1.80])
         self.assertAlmostEqual(real, 8.0, delta=0.4)   # bet365 pagaba 8,00 (Marcos, 28/10)
+
+
+class SinLogica(unittest.TestCase):
+    """02/11 (Marcos): Depor o empate + marca el Depor + marca Osasuna no tiene lógica."""
+    def p(self, m, o):
+        return {"partido_id": 1, "mercado": m, "opcion": o, "local": "Depor", "visitante": "Osasuna", "cuota": 1.3}
+
+    def test_no_marcan_los_dos_por_separado(self):
+        import combis_dia as C
+        self.assertFalse(C.coherente([self.p("Total - Home", "Over 0.5"), self.p("Total - Away", "Over 0.5")]))
+
+    def test_no_contra_ti_mismo(self):
+        import combis_dia as C
+        self.assertFalse(C.coherente([self.p("Double Chance", "Home/Draw"), self.p("Total - Away", "Over 0.5")]))
+        self.assertTrue(C.coherente([self.p("Double Chance", "Home/Draw"), self.p("Total - Home", "Over 0.5")]))

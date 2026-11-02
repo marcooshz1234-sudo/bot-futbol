@@ -560,6 +560,15 @@ def coherente(comb):
     lados = {P.lado_pick(p) for p in comb if p["mercado"] in RESULTADO} - {None}
     if len(lados) > 1:
         return False
+    # 02/11 (Marcos, Depor–Osasuna: «marca el Depor + Depor o empate + marca Osasuna no tiene lógica»):
+    #  - «marca el local» y «marca el visitante» juntas = ambos marcan por partes: no
+    #  - apostar a un equipo (gana, o empate, gana una parte…) y a que le marca el rival: vas contra ti mismo, no
+    marca = {"local" if p["mercado"] == "Total - Home" else "visitante"
+             for p in comb if p["mercado"] in ("Total - Home", "Total - Away") and str(p["opcion"]).startswith("Over")}
+    if len(marca) > 1:
+        return False
+    if any({"local": "visitante", "visitante": "local"}[l] in marca for l in lados):
+        return False
     jug = [p.get("jugador") for p in comb if p.get("jugador")]
     if len(set(jug)) < len(jug):
         return False
