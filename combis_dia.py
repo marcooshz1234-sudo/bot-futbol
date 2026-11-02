@@ -807,7 +807,67 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
 
 
 ESTRELLA = {"top": 4, "ligas": (140, 39, 135, 78, 61, 2, 3),   # 02/11: también Champions y Europa League con un top
-            "patas": (3, 5), "cuota": (4.0, 8.0), "max": 2, "antes_h": 3}   # 02/11: de 3 a 5 cosas (antes 4 justas)
+            "patas": (3, 5), "cuota": (4.0, 8.0), "cuota_min": 3.0, "max": 2, "antes_h": 3}
+# 02/11 (Marcos): primero los partidos con DOS equipos de arriba (Atlético–Bayern antes que Villarreal–PSG); si no da
+# para cuota 4, se acepta desde 3
+
+
+def jugadores_estrella(fid):
+    """Picks de jugadores para el estrella: titular 60'+ en 5 de los últimos 8 de su equipo y que juegue el último,
+    y que lo cumpla en el 80 % o más de sus partidos de 45'+. Tiros, a puerta y faltas; cuota 1,25–2,00."""
+    import picks as P
+    ex = leer(EXTRA / f"{fid}.json") or {}
+    pa = ex.get("partido")
+    if not pa:
+        return []
+    hist = P.historial()
+    loc, vis = pa["teams"]["home"], pa["teams"]["away"]
+    cal = calibracion_mercados()
+    base = {"partido_id": fid, "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
+            "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
+            "local": loc["name"], "visitante": vis["name"]}
+    salida = {}
+    for m, ops in (ex.get("cuotas") or {}).items():
+        campo = (P.JUG_MERCADOS.get(m) or (None,))[0]
+        if campo not in ("tiros", "a_puerta", "faltas_c"):
+            continue
+        for o, c in ops:
+            try:
+                c = float(c)
+                nombre, n = str(o).rsplit(" - ", 1)
+                n = int(float(n))
+            except (TypeError, ValueError):
+                continue
+            if not 1.25 <= c <= 2.0:
+                continue
+            for eq in (loc, vis):
+                regs, tit = [], 0
+                ult = hist.get(eq["id"], [])[:8]
+                jugo_ultimo = False
+                for i, p in enumerate(ult):
+                    j = next((x for x in (p.get("jugadores") or {}).get(str(eq["id"])) or [] if P.mismo_jugador(nombre, x["nombre"])), None)
+                    if not j:
+                        continue
+                    tit += (j.get("min") or 0) >= 60
+                    if i == 0 and (j.get("min") or 0) >= 45:
+                        jugo_ultimo = True
+                    if (j.get("min") or 0) >= 45:
+                        regs.append(j.get(campo) or 0)
+                if tit < 5 or not jugo_ultimo or len(regs) < 5:
+                    continue
+                frec = sum(x >= n for x in regs) / len(regs)
+                if frec < 0.8:
+                    continue
+                pr = round(min(0.95, frec * cal.get(campo, 1.0)), 3)
+                k = (nombre.strip(), campo)
+                p = dict(base, mercado=m, opcion=o, cuota=c, frecuencia=round(frec, 3), prob_aprendida=pr, tipo="jugador",
+                         jugador=nombre.strip(), equipo=eq["name"], campo=campo, n=n,
+                         texto=P.JUG_MERCADOS[m][1].format(j=nombre.strip(), n=n),
+                         detalle=f"{nombre.strip()} {sum(x >= n for x in regs)}/{len(regs)}")
+                if k not in salida or (p["cuota"] > salida[k]["cuota"] and frec >= salida[k]["frecuencia"] - 0.1):
+                    salida[k] = p
+                break
+    return list(salida.values())   # 02/11: de 3 a 5 cosas (antes 4 justas)
 
 
 def top_equipos(n=ESTRELLA["top"]):
@@ -832,16 +892,25 @@ def estrellas(pools, ya, dia):
         n = (b["local"] in top) + (b["visitante"] in top)
         if not n or b.get("liga_id") not in ESTRELLA["ligas"]:
             continue
+        # 02/11 (Marcos: «que busque alguna cosa más y saque mayor cuota»): en el estrella, también jugadores
+        # titulares que lo cumplen casi siempre aunque no estén en la combi normal (Kane 3+ tiros, Olise, Upamecano…)
+        ya_k = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in pool}
+        pool = pool + [p for p in jugadores_estrella(b["partido_id"]) if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in ya_k]
+        pool.sort(key=lambda p: -p["prob_aprendida"])
         libres = [p for p in pool if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in usadas
                   and familia(p) not in SIN_EN_ESCUDOS]
-        r = (mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PARTIDO["prob_min"])
-             or mejor_combi(libres, ESTRELLA["patas"], ESTRELLA["cuota"], PROB_MIN_RELAJADA))
-        repite = False
-        if not r:   # 02/11: sin cosas libres, el estrella se queda con las mejores y la combi con escudos de ese partido no sale
-            todas = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
-            r = (mejor_combi(todas, ESTRELLA["patas"], ESTRELLA["cuota"], PARTIDO["prob_min"])
-                 or mejor_combi(todas, ESTRELLA["patas"], ESTRELLA["cuota"], PROB_MIN_RELAJADA))
-            repite = bool(r)
+        todas = [p for p in pool if familia(p) not in SIN_EN_ESCUDOS]
+        r, repite = None, False
+        # 02/11: primero cuota 4-8 (con cosas libres y, si no, con las mejores del partido); solo si no, desde 3
+        for rango in (ESTRELLA["cuota"], (ESTRELLA["cuota_min"], ESTRELLA["cuota"][1])):
+            for lista, rep in ((libres, False), (todas, True)):
+                r = (mejor_combi(lista, ESTRELLA["patas"], rango, PARTIDO["prob_min"])
+                     or mejor_combi(lista, ESTRELLA["patas"], rango, PROB_MIN_RELAJADA))
+                if r:
+                    repite = rep
+                    break
+            if r:
+                break
         if not r:
             continue
         cp = {k: b[k] for k in ("partido_id", "fecha", "competicion", "liga_id", "local", "visitante")}
