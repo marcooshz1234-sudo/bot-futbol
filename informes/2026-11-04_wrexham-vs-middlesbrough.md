@@ -1,7 +1,7 @@
 # Wrexham – Middlesbrough
 **Championship** · Regular Season - 14 · 04/11/2026 20:45 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:30_

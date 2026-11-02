@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-02 08:32 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-02 14:14 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Lunes 02/11
 
@@ -67,7 +67,8 @@ _Generado el 2026-11-02 08:32 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.40 | 80% | Camilo Duran 4/5 |
-| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.62 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 18:45 | Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split | corners | 1.67 | 81% | Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7 |
+| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.67 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
 | 21:00 | Beşiktaş o empate | resultado | 1.40 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
 
 ## Viernes 06/11

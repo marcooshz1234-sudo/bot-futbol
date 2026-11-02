@@ -1,14 +1,14 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
-- **1X2:** 1 **1.18**  ·  X **6.25**  ·  2 **15.00**
-- **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **4.50**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
+- **1X2:** 1 **1.17**  ·  X **6.50**  ·  2 **17.00**
+- **Doble oportunidad:** 1X **1.02**  ·  12 **1.11**  ·  X2 **5.00**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.44** · menos **2.70**
@@ -25,13 +25,16 @@ _Actualizadas: 01/11 13:55_
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.73** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
+    - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.91** · menos **1.80**
-    - 1,5: más **6.00** · menos **1.12**
-- **1X2 descanso:** 1 **1.53**  ·  X **3.00**  ·  2 **11.00**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 9: más **1.90** · menos **1.90**
+    - 9,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **1.50**  ·  X **3.10**  ·  2 **11.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
@@ -39,13 +42,18 @@ _Actualizadas: 01/11 13:55_
     - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.10**  ·  2 **5.50**
+- **To Win Either Half:** 1 **1.10**  ·  2 **6.00**
 - **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **11.00**
-- **Win Both Halves:** 1 **2.20**  ·  2 **51.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **8.00**  ·  Away/Yes **23.00**  ·  Home/No **1.91**  ·  Draw/No **19.00**  ·  Away/No **23.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **3.20**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.25**
-- **Away Player Shots On Target Total:** Edmilson de Paula **26.00**  ·  Javison Idele **17.00**  ·  Giacomo Raspadori **9.50**  ·  Aleksandr Martynovich **29.00**  ·  Franck Kessie **26.00**  ·  Olzhas Baybek **41.00**  ·  Damir Kasabulat **67.00**  ·  Luis Mata **101.00**  ·  Adilet Sadybekov **41.00**  ·  Alexander Mrynskiy **51.00**  ·  Jorge Jorginho **29.00**  ·  Giorgio Scalvini **9.50**  ·  Jacopo Mirra **11.00**  ·  Matteo Plaia **11.00**  ·  Digne Pounga **26.00**  ·  Jonathan Rowe **13.00**  ·  Erkin Tapalov **101.00**  ·  Nicola Zalewski **21.00**  ·  Eljif Elmas **21.00**  ·  Gianluca Gaetano **29.00**  ·  Charles De Ketelaere **6.50**  ·  Davide Zappacosta **51.00**  ·  Lazar Samardzic **23.00**  ·  Mario Pasalic **17.00**  ·  Raoul Bellanova **17.00**  ·  Lorenzo Bernasconi **19.00**  ·  Ederson Silva **34.00**  ·  Kamaldeen Sulemana **19.00**  ·  Nikola Krstovic **5.50**  ·  Thomas Kristensen **10.00**  ·  Gianluca Scamacca **6.50**  ·  Relja Obric **8.50**
-- **Anytime Goal Scorer:** Edmilson de Paula **5.50**  ·  Javison Idele **4.00**  ·  Giacomo Raspadori **2.05**  ·  Aleksandr Martynovich **23.00**  ·  Oiva Jukkola **8.00**  ·  Franck Kessie **3.60**  ·  Jaakko Oksanen **12.00**  ·  Ramazan Bagdat **5.50**  ·  Olzhas Baybek **10.00**  ·  Ismail Bekbolat **6.50**  ·  Damir Kasabulat **23.00**  ·  Lev Kurgin **15.00**  ·  Luis Mata **15.00**  ·  Adilet Sadybekov **15.00**  ·  Aleksandr Shirobokov **15.00**  ·  Alexander Mrynskiy **10.00**  ·  Azamat Tuyakbayev **7.00**  ·  Jorge Jorginho **6.50**  ·  Giorgio Scalvini **6.50**  ·  Jacopo Mirra **6.50**  ·  Mansur Birkurmanov **6.00**  ·  Mukhamedali Abish **8.00**  ·  Matteo Plaia **6.50**  ·  Sergej Levak **2.75**  ·  Gustavo Mendonca **12.00**  ·  Marc Gual **6.50**  ·  Adlan Nurgaliev **15.00**  ·  Digne Pounga **3.60**  ·  Andrea Bonanomi **1.57**  ·  Isaac Isoa **1.57**  ·  Jonathan Rowe **2.20**  ·  Lucas Africo **23.00**  ·  Erkin Tapalov **23.00**  ·  Nicola Zalewski **2.50**  ·  Eljif Elmas **2.75**  ·  Gianluca Gaetano **4.33**  ·  Charles De Ketelaere **2.30**  ·  Davide Zappacosta **5.50**  ·  Lazar Samardzic **2.75**  ·  Mario Pasalic **4.00**  ·  Raoul Bellanova **6.00**  ·  Lorenzo Bernasconi **6.50**  ·  Ederson Silva **4.00**  ·  Kamaldeen Sulemana **2.50**  ·  Nikola Krstovic **1.73**  ·  Thomas Kristensen **7.00**  ·  Gianluca Scamacca **1.73**  ·  Relja Obric **6.50**
+- **Win Both Halves:** 1 **2.20**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **8.50**  ·  Away/Yes **26.00**  ·  Home/No **1.83**  ·  Draw/No **19.00**  ·  Away/No **26.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.25**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Away Player Shots On Target Total:** Edmilson de Paula **29.00**  ·  Javison Idele **17.00**  ·  Giacomo Raspadori **9.50**  ·  Aleksandr Martynovich **34.00**  ·  Franck Kessie **26.00**  ·  Olzhas Baybek **41.00**  ·  Damir Kasabulat **67.00**  ·  Luis Mata **101.00**  ·  Adilet Sadybekov **41.00**  ·  Alexander Mrynskiy **51.00**  ·  Jorge Jorginho **29.00**  ·  Giorgio Scalvini **9.50**  ·  Jacopo Mirra **11.00**  ·  Matteo Plaia **11.00**  ·  Digne Pounga **26.00**  ·  Jonathan Rowe **13.00**  ·  Erkin Tapalov **101.00**  ·  Nicola Zalewski **21.00**  ·  Eljif Elmas **21.00**  ·  Gianluca Gaetano **29.00**  ·  Charles De Ketelaere **6.50**  ·  Davide Zappacosta **51.00**  ·  Lazar Samardzic **23.00**  ·  Mario Pasalic **17.00**  ·  Raoul Bellanova **17.00**  ·  Lorenzo Bernasconi **19.00**  ·  Ederson Silva **34.00**  ·  Kamaldeen Sulemana **19.00**  ·  Nikola Krstovic **5.50**  ·  Thomas Kristensen **10.00**  ·  Gianluca Scamacca **6.50**  ·  Relja Obric **8.50**
+- **Anytime Goal Scorer:** Edmilson de Paula **6.00**  ·  Javison Idele **4.00**  ·  Giacomo Raspadori **2.05**  ·  Aleksandr Martynovich **29.00**  ·  Oiva Jukkola **9.00**  ·  Franck Kessie **3.60**  ·  Jaakko Oksanen **12.00**  ·  Ramazan Bagdat **6.00**  ·  Olzhas Baybek **10.00**  ·  Ismail Bekbolat **6.50**  ·  Damir Kasabulat **23.00**  ·  Lev Kurgin **15.00**  ·  Luis Mata **15.00**  ·  Adilet Sadybekov **15.00**  ·  Aleksandr Shirobokov **15.00**  ·  Alexander Mrynskiy **12.00**  ·  Azamat Tuyakbayev **7.00**  ·  Jorge Jorginho **6.50**  ·  Giorgio Scalvini **6.50**  ·  Jacopo Mirra **6.50**  ·  Mansur Birkurmanov **6.00**  ·  Mukhamedali Abish **8.00**  ·  Matteo Plaia **6.50**  ·  Sergej Levak **2.75**  ·  Gustavo Mendonca **15.00**  ·  Marc Gual **6.50**  ·  Adlan Nurgaliev **15.00**  ·  Digne Pounga **3.60**  ·  Andrea Bonanomi **1.57**  ·  Isaac Isoa **1.57**  ·  Jonathan Rowe **2.20**  ·  Lucas Africo **23.00**  ·  Erkin Tapalov **23.00**  ·  Nicola Zalewski **2.50**  ·  Eljif Elmas **2.75**  ·  Gianluca Gaetano **4.33**  ·  Charles De Ketelaere **2.30**  ·  Davide Zappacosta **5.50**  ·  Lazar Samardzic **2.75**  ·  Mario Pasalic **4.00**  ·  Raoul Bellanova **6.00**  ·  Lorenzo Bernasconi **6.50**  ·  Ederson Silva **4.00**  ·  Kamaldeen Sulemana **2.50**  ·  Nikola Krstovic **1.73**  ·  Thomas Kristensen **7.00**  ·  Gianluca Scamacca **1.73**  ·  Relja Obric **6.50**
 
 ## Estadísticas de equipo
 | | Atalanta (total) | Atalanta en casa | Kairat Almaty (total) | Kairat Almaty fuera |
@@ -181,14 +189,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 6% | 8% | 15.00 | +19% |
-| 1X2: X | 20% | 15% | 17% | 6.25 | +8% |
-| 1X2: 1 | 71% | 79% | 75% | 1.18 | -12% |
-| Doble oportunidad: X2 | 29% | 21% | 25% | 4.50 | +14% |
-| Doble oportunidad: 12 | 80% | 86% | 83% | 1.12 | -7% |
-| Doble oportunidad: 1X | 90% | 93% | 92% | 1.03 | -6% |
-| Ambos marcan: No | 63% | 54% | 58% | 1.73 | +1% |
-| Ambos marcan: Sí | 37% | 46% | 42% | 2.00 | -17% |
+| 1X2: 2 | 10% | 6% | 8% | 17.00 | +29% |
+| 1X2: X | 20% | 14% | 17% | 6.50 | +11% |
+| 1X2: 1 | 71% | 80% | 75% | 1.17 | -12% |
+| Doble oportunidad: X2 | 29% | 19% | 24% | 5.00 | +21% |
+| Doble oportunidad: 12 | 80% | 87% | 83% | 1.11 | -7% |
+| Doble oportunidad: 1X | 90% | 94% | 92% | 1.02 | -6% |
+| Ambos marcan: No | 63% | 56% | 59% | 1.67 | -1% |
+| Ambos marcan: Sí | 37% | 44% | 41% | 2.10 | -15% |
 | Goles más/menos: Más de 2.5 | 46% | 65% | 56% | 1.44 | -20% |
 | Goles más/menos: Más de 3.5 | 25% | 46% | 36% | 2.00 | -29% |
 | Goles más/menos: Más de 4.5 | 11% | 28% | 19% | 3.40 | -34% |
@@ -203,13 +211,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
 | Goles del local: Más de 1.5 | 58% | 75% | 67% | 1.25 | -17% |
 | Goles del local: Más de 2.5 | 31% | 54% | 42% | 1.73 | -26% |
-| Goles del local: Más de 3.5 | 14% | 31% | 22% | 3.00 | -33% |
+| Goles del local: Más de 3.5 | 14% | 34% | 24% | 2.75 | -35% |
 | Goles del local: Menos de 1.5 | 42% | 25% | 33% | 3.75 | +25% |
 | Goles del local: Menos de 2.5 | 69% | 46% | 58% | 2.00 | +15% |
-| Goles del local: Menos de 3.5 | 86% | 69% | 78% | 1.36 | +6% |
-| Goles del visitante: Más de 0.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Goles del visitante: Menos de 0.5 | 57% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: X | 41% | 31% | 36% | 3.00 | +7% |
-| 1X2 descanso: 1 | 49% | 61% | 55% | 1.53 | -16% |
+| Goles del local: Menos de 3.5 | 86% | 66% | 76% | 1.40 | +7% |
+| Goles del visitante: Más de 0.5 | 43% | 46% | 45% | 2.00 | -10% |
+| Goles del visitante: Menos de 0.5 | 57% | 54% | 55% | 1.73 | -4% |
+| Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -9% |
+| Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |
+| 1X2 descanso: X | 41% | 30% | 35% | 3.10 | +9% |
+| 1X2 descanso: 1 | 49% | 62% | 55% | 1.50 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
 - **1X2:** 1 **1.07**  ·  X **9.50**  ·  2 **26.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.07**  ·  X2 **9.00**
@@ -30,6 +30,8 @@ _Actualizadas: 01/11 13:55_
 - **Goles del visitante:**
     - 0,5: más **2.38** · menos **1.53**
     - 1,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **1.33**  ·  X **3.60**  ·  2 **17.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
@@ -44,6 +46,12 @@ _Actualizadas: 01/11 13:55_
 - **Win Both Halves:** 1 **1.73**  ·  2 **101.00**
 - **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **12.00**  ·  Away/Yes **41.00**  ·  Home/No **1.57**  ·  Draw/No **23.00**  ·  Away/No **41.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **2.25**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **3.75**
+- **Home Corners Over/Under:**
+    - 6,5: más **1.83** · menos **1.83**
+- **Away Corners Over/Under:**
+    - 2,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
+- **Away Player Shots On Target Total:** Rade Krunic **21.00**  ·  Timi Elsnik **34.00**  ·  Vasilije Kostov **15.00**  ·  Vladimir Lucic **15.00**  ·  Adem Avdic **26.00**  ·  Prado Rodrigao **10.00**  ·  Milos Veljkovic **21.00**  ·  Franklin Tebo **9.50**  ·  Aleksandar Katai **21.00**  ·  Mirko Ivanic **7.00**  ·  Tomas Handel **34.00**  ·  Kim Ye-Geon **12.00**  ·  Marc Jurado **301.00**  ·  Bamba Dieng **4.75**  ·  Mahmudu Bajo **9.00**  ·  Marko Arnautovic **9.00**  ·  Mihailo Ristic **19.00**
 - **Anytime Goal Scorer:** Rade Krunic **4.50**  ·  David Lopez **15.00**  ·  Juan Camara **8.00**  ·  Mohammad Abu Fani **3.40**  ·  Timi Elsnik **4.00**  ·  Angel De La Torre **9.50**  ·  Alex Sanchez **26.00**  ·  Loizos Loizou **1.91**  ·  Marc Rodriguez **21.00**  ·  Vasilije Kostov **2.40**  ·  Vladimir Lucic **2.40**  ·  Adem Avdic **4.50**  ·  Prado Rodrigao **8.00**  ·  Robin Lafarge **34.00**  ·  Yuta Nakayama **4.50**  ·  Kristiyan Balov **1.80**  ·  Milos Veljkovic **8.00**  ·  Franklin Tebo **6.50**  ·  Muhammed Cham Saracevic **2.40**  ·  Osman Bukari **2.40**  ·  Aleksandar Katai **1.73**  ·  Mirko Ivanic **1.91**  ·  Stefan Gudelj **6.50**  ·  Tomas Handel **3.60**  ·  Derrick Luckassen **6.50**  ·  Dimitrije Saric **2.05**  ·  Matej Strika **5.00**  ·  Matej Gashtarov **3.60**  ·  Kim Ye-Geon **1.91**  ·  Maurizio Pochettino **9.50**  ·  Marc Jurado **34.00**  ·  Antonio Otegui **19.00**  ·  Faysal Chouaib **6.00**  ·  Anwar Hernandez **26.00**  ·  Soule Sidibe **8.00**  ·  Lamine Diaby **15.00**  ·  Borja Arellano **6.00**  ·  Alex Aizbitarte Kaxe **5.50**  ·  Hermann Rafinha **6.50**  ·  Madueno Victor Alonso **8.00**  ·  Yerai Davila **8.00**  ·  Domingo Berlanga **9.50**  ·  Pablo Molina **15.00**  ·  Jaouad Erraji **26.00**  ·  Kleber Leite Filho **21.00**  ·  Marc Vargas **21.00**  ·  Alex Prelado **7.50**  ·  Torres Jilmar **21.00**  ·  Arnau Luque Martos **19.00**  ·  Bamba Dieng **1.57**  ·  Adrian Gomes **21.00**  ·  Mahmudu Bajo **3.60**  ·  Marko Arnautovic **1.50**  ·  Mihailo Ristic **5.00**
 
 ## Estadísticas de equipo
@@ -204,6 +212,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 4.5 | 94% | 75% | 85% | 1.25 | +6% |
 | Goles del visitante: Más de 0.5 | 57% | 39% | 48% | 2.38 | +14% |
 | Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -20% |
+| Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
 | 1X2 descanso: X | 39% | 26% | 32% | 3.60 | +15% |
 | 1X2 descanso: 1 | 47% | 69% | 58% | 1.33 | -23% |
 

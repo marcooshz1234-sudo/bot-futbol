@@ -1,7 +1,7 @@
 # Utrecht – NEC Nijmegen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 20:00 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_

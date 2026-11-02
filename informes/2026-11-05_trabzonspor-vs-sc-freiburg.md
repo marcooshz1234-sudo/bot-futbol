@@ -1,20 +1,20 @@
 # Trabzonspor – SC Freiburg
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Papara Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
-- **1X2:** 1 **2.50**  ·  X **3.60**  ·  2 **2.50**
-- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
+- **1X2:** 1 **2.40**  ·  X **3.60**  ·  2 **2.55**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.53** · menos **2.40**
     - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -22,15 +22,18 @@ _Actualizadas: 01/11 13:55_
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.91** · menos **1.80**
+    - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.50**  ·  2 **3.00**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.50**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
@@ -41,10 +44,15 @@ _Actualizadas: 01/11 13:55_
 - **To Win Either Half:** 1 **1.73**  ·  2 **1.73**
 - **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **5.50**  ·  Draw/No **19.00**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **5.50**  ·  Draw/No **19.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
-- **Away Player Shots On Target Total:** Yuito Suzuki **26.00**  ·  Aral Simsir **29.00**  ·  Sidny Cabral **81.00**  ·  Noah Saviolo **11.00**  ·  Rihito Yamamoto **67.00**  ·  Lucas Holer **10.00**  ·  Derry Scherhant **15.00**  ·  Lukas Kubler **41.00**  ·  Christian Gunter **81.00**  ·  Cenk Ozkacar **13.00**  ·  Yannick Engelhardt **67.00**  ·  Berkay Yilmaz **81.00**  ·  Batista Mendy **29.00**  ·  Jan-Niklas Beste **34.00**  ·  Mateo Zelic **13.00**  ·  Gluda Dju Franculino **15.00**  ·  Igor Matanovic **9.00**  ·  Philipp Treu **81.00**  ·  Anthony Jung **29.00**  ·  Bruno Ogbus **23.00**  ·  Jordy Makengo **126.00**  ·  Matthias Ginter **12.00**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **41.00**  ·  Patrick Osterhage **67.00**  ·  Philipp Lienhart **15.00**  ·  Vincenzo Grifo **23.00**  ·  Mohamed Salah **26.00**  ·  Cyriaque Irie **15.00**  ·  Keisuke Goto **15.00**
-- **Anytime Goal Scorer:** Yigithan Cubukcu **7.00**  ·  Ernest Muci **3.25**  ·  Yuito Suzuki **3.00**  ·  Aral Simsir **3.25**  ·  Samet Akaydin **7.00**  ·  Metehan Mimaroglu **3.75**  ·  Sidny Cabral **8.50**  ·  Noah Saviolo **4.33**  ·  Taha Ince **7.50**  ·  Benjamin Bouchouari **7.00**  ·  Rihito Yamamoto **7.00**  ·  Chibuike Nwaiwu **9.50**  ·  Lucas Holer **3.00**  ·  Derry Scherhant **3.25**  ·  Lukas Kubler **7.00**  ·  Christian Gunter **9.50**  ·  Cenk Ozkacar **8.50**  ·  Yannick Engelhardt **8.50**  ·  Berkay Yilmaz **9.50**  ·  Mustafa Eskihellac **7.00**  ·  Ozan Tufan **6.50**  ·  Stefan Savic **9.50**  ·  Batista Mendy **7.00**  ·  Mehmet Nayir **3.00**  ·  Melih Kabasakal **7.00**  ·  Jan-Niklas Beste **3.75**  ·  Oguzhan Ertem **4.33**  ·  Wagner Pina **7.00**  ·  Mateo Zelic **4.00**  ·  Ali Habesoglu **2.25**  ·  Gluda Dju Franculino **2.40**  ·  Kuzey Akcay **7.50**  ·  Hakan Yilmaz **4.33**  ·  Fabinho **7.50**  ·  Igor Matanovic **2.40**  ·  Philipp Treu **9.50**  ·  Ebere Paul Onuachu **2.25**  ·  Anthony Jung **13.00**  ·  Bruno Ogbus **9.50**  ·  Jordy Makengo **13.00**  ·  Matthias Ginter **7.50**  ·  Max Rosenfelder **11.00**  ·  Maximilian Eggestein **5.00**  ·  Patrick Osterhage **7.00**  ·  Philipp Lienhart **9.50**  ·  Vincenzo Grifo **2.75**  ·  Mohamed Salah **2.40**  ·  Cyriaque Irie **4.33**  ·  Keisuke Goto **3.25**  ·  Tim Jabol **7.00**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
+- **Away Player Shots On Target Total:** Yuito Suzuki **26.00**  ·  Aral Simsir **29.00**  ·  Sidny Cabral **81.00**  ·  Noah Saviolo **10.00**  ·  Rihito Yamamoto **67.00**  ·  Lucas Holer **10.00**  ·  Derry Scherhant **15.00**  ·  Lukas Kubler **41.00**  ·  Christian Gunter **81.00**  ·  Cenk Ozkacar **15.00**  ·  Yannick Engelhardt **67.00**  ·  Berkay Yilmaz **81.00**  ·  Batista Mendy **29.00**  ·  Jan-Niklas Beste **34.00**  ·  Mateo Zelic **13.00**  ·  Gluda Dju Franculino **15.00**  ·  Igor Matanovic **10.00**  ·  Philipp Treu **81.00**  ·  Anthony Jung **29.00**  ·  Bruno Ogbus **23.00**  ·  Jordy Makengo **126.00**  ·  Matthias Ginter **12.00**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **41.00**  ·  Patrick Osterhage **67.00**  ·  Philipp Lienhart **15.00**  ·  Vincenzo Grifo **26.00**  ·  Mohamed Salah **26.00**  ·  Cyriaque Irie **15.00**  ·  Keisuke Goto **15.00**
+- **Anytime Goal Scorer:** Yigithan Cubukcu **7.00**  ·  Ernest Muci **3.25**  ·  Yuito Suzuki **3.00**  ·  Aral Simsir **3.25**  ·  Samet Akaydin **7.00**  ·  Metehan Mimaroglu **3.75**  ·  Sidny Cabral **8.50**  ·  Noah Saviolo **4.00**  ·  Taha Ince **7.50**  ·  Benjamin Bouchouari **7.00**  ·  Rihito Yamamoto **7.00**  ·  Chibuike Nwaiwu **9.50**  ·  Lucas Holer **3.00**  ·  Derry Scherhant **3.25**  ·  Lukas Kubler **7.00**  ·  Christian Gunter **9.50**  ·  Cenk Ozkacar **8.50**  ·  Yannick Engelhardt **8.50**  ·  Berkay Yilmaz **9.50**  ·  Mustafa Eskihellac **7.00**  ·  Ozan Tufan **6.50**  ·  Stefan Savic **9.50**  ·  Batista Mendy **7.00**  ·  Mehmet Nayir **3.00**  ·  Melih Kabasakal **7.00**  ·  Jan-Niklas Beste **3.75**  ·  Oguzhan Ertem **4.00**  ·  Wagner Pina **7.00**  ·  Mateo Zelic **4.00**  ·  Ali Habesoglu **2.10**  ·  Gluda Dju Franculino **2.25**  ·  Kuzey Akcay **7.50**  ·  Hakan Yilmaz **4.00**  ·  Fabinho **7.50**  ·  Igor Matanovic **2.60**  ·  Philipp Treu **9.50**  ·  Ebere Paul Onuachu **2.10**  ·  Anthony Jung **13.00**  ·  Bruno Ogbus **9.50**  ·  Jordy Makengo **13.00**  ·  Matthias Ginter **7.50**  ·  Max Rosenfelder **11.00**  ·  Maximilian Eggestein **5.00**  ·  Patrick Osterhage **7.00**  ·  Philipp Lienhart **9.50**  ·  Vincenzo Grifo **2.88**  ·  Mohamed Salah **2.25**  ·  Cyriaque Irie **4.33**  ·  Keisuke Goto **3.25**  ·  Tim Jabol **7.00**
 
 ## Estadísticas de equipo
 | | Trabzonspor (total) | Trabzonspor en casa | SC Freiburg (total) | SC Freiburg fuera |

@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 01/11 19:49_

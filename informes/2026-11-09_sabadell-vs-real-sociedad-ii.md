@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

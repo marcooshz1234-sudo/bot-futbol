@@ -1,7 +1,7 @@
 # AEK Athens FC – Real Madrid
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Allwyn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:30_

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-02 08:32",
+ "generado": "2026-11-02 14:14",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -1472,6 +1472,24 @@
      "prob_aprendida": 0.621
     },
     {
+     "partido_id": 1636444,
+     "fecha": "2026-11-05T18:45",
+     "competicion": "Conference",
+     "liga_id": 848,
+     "local": "Lincoln Red Imps FC",
+     "visitante": "HNK Hajduk Split",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 8.5",
+     "tipo": "corners",
+     "texto": "Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split",
+     "cuota": 1.67,
+     "frecuencia": 0.812,
+     "ventaja": 0.214,
+     "detalle": "Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7",
+     "valor_mercado": -0.018,
+     "prob_aprendida": 0.546
+    },
+    {
      "partido_id": 1636250,
      "fecha": "2026-11-05T21:00",
      "competicion": "Europa League",
@@ -1482,12 +1500,12 @@
      "opcion": "Away",
      "tipo": "resultado",
      "texto": "Beşiktaş gana alguna de las dos partes",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "frecuencia": 0.857,
-     "ventaja": 0.24,
+     "ventaja": 0.258,
      "detalle": "Celtic 4/5 · Beşiktaş 8/9",
-     "valor_mercado": -0.018,
-     "movimiento": -0.03,
+     "valor_mercado": 0.012,
+     "movimiento": 0.0,
      "cuota_inicial": 1.67,
      "prob_aprendida": 0.498
     },
@@ -1533,6 +1551,24 @@
      "detalle": "Camilo Duran 4/5",
      "temporada": "4/5",
      "prob_aprendida": 0.621
+    },
+    {
+     "partido_id": 1636444,
+     "fecha": "2026-11-05T18:45",
+     "competicion": "Conference",
+     "liga_id": 848,
+     "local": "Lincoln Red Imps FC",
+     "visitante": "HNK Hajduk Split",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 8.5",
+     "tipo": "corners",
+     "texto": "Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split",
+     "cuota": 1.67,
+     "frecuencia": 0.812,
+     "ventaja": 0.214,
+     "detalle": "Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7",
+     "valor_mercado": -0.018,
+     "prob_aprendida": 0.546
     }
    ],
    "combis": {
@@ -1628,10 +1664,10 @@
        "tipo": "resultado",
        "texto": "Borac Banja Luka o empate",
        "detalle": "Mjallby AIF 6/8 · Borac Banja Luka 7/10",
-       "valor_mercado": 0.025,
+       "valor_mercado": 0.031,
        "movimiento": -0.018,
        "cuota_inicial": 1.7,
-       "prob_aprendida": 0.261
+       "prob_aprendida": 0.263
       }
      ],
      "cuota": 13.54

@@ -1,49 +1,57 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
-- **1X2:** 1 **9.00**  ·  X **4.75**  ·  2 **1.33**
-- **Doble oportunidad:** 1X **3.25**  ·  12 **1.18**  ·  X2 **1.07**
-- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **1X2:** 1 **10.00**  ·  X **4.75**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.18**  ·  X2 **1.06**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
-    - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **5.50** · menos **1.14**
-    - 5,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.91** · menos **1.80**
-    - 1,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **9.00**  ·  X **2.50**  ·  2 **1.80**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **8.50**  ·  X **2.60**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
-    - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
-- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
-- **To Win Either Half:** 1 **4.33**  ·  2 **1.20**
-- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **2.10**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.18**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **2.00**
 - **Win Both Halves:** 1 **41.00**  ·  2 **3.00**
-- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.50**  ·  Home/No **15.00**  ·  Draw/No **12.00**  ·  Away/No **2.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.38**
-- **Away Player Shots On Target Total:** Marin Soticek **13.00**  ·  Khalil Fayad **41.00**  ·  Leander Dendoncker **21.00**  ·  Carlos Martin **15.00**  ·  Leite Dali **13.00**
-- **Anytime Goal Scorer:** Etnik Brruti **4.33**  ·  Alvaro Romero **9.50**  ·  Alberto del Moral **5.50**  ·  Adrion Pajaziti **5.50**  ·  Lee Casciaro **6.50**  ·  Graeme Torrilla **15.00**  ·  Ethan Britto **11.00**  ·  Ethan Jolley **19.00**  ·  Bernardo Lopes **23.00**  ·  Bassel Jradi **3.50**  ·  Josip Basic **5.50**  ·  Marin Soticek **2.62**  ·  Toni Garcia **11.00**  ·  Kike Gomez **5.50**  ·  Christian Rutjens **29.00**  ·  Gonzalez Nano **12.00**  ·  Armando Mandi **15.00**  ·  Martinez Joe **15.00**  ·  Ron Raci **9.50**  ·  Ayman El Ghobashy **5.50**  ·  Khalil Fayad **5.00**  ·  Mathieu Acapandie **9.50**  ·  Leander Dendoncker **5.50**  ·  Carlos Martin **2.38**  ·  Alec Van Hoorenbeeck **9.50**  ·  Dennis Hadzikadunic **9.50**  ·  Dario Maresic **9.50**  ·  Marko Livaja **2.10**  ·  Dario Melnjak **4.33**  ·  Simun Hrgovic **3.00**  ·  Michele Sego **2.38**  ·  Luka Hodak **9.50**  ·  Roko Gabric **9.50**  ·  Roko Brajkovic **9.50**  ·  Marino Skelin **8.00**  ·  Adam Guram **3.00**  ·  Julliani Eersteling **19.00**  ·  Yussef Flalhi Idrissi **9.50**  ·  Gabri Cardozo **23.00**  ·  Leon Mason **8.50**  ·  Facundo Alvarez **9.50**  ·  Manu Toledano **5.50**  ·  Andjelo Sutalo **3.50**  ·  Nico Pinto **9.50**  ·  Marco Fossati **4.33**  ·  Aly Coulibaly **11.00**  ·  Jay Coombes **23.00**  ·  Abdoulie Sanyang **2.62**  ·  Alex Mula **9.50**  ·  Leite Dali **2.62**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.20**  ·  Home/No **15.00**  ·  Draw/No **13.00**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.60**
+- **Home Corners Over/Under:**
+    - 2,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.72**  ·  Menos de 4 **2.08**
+- **Away Player Shots On Target Total:** Marin Soticek **12.00**  ·  Khalil Fayad **41.00**  ·  Leander Dendoncker **21.00**  ·  Carlos Martin **15.00**  ·  Leite Dali **12.00**
+- **Anytime Goal Scorer:** Etnik Brruti **4.00**  ·  Alvaro Romero **8.00**  ·  Alberto del Moral **5.50**  ·  Adrion Pajaziti **5.50**  ·  Lee Casciaro **6.00**  ·  Graeme Torrilla **15.00**  ·  Ethan Britto **10.00**  ·  Ethan Jolley **17.00**  ·  Bernardo Lopes **23.00**  ·  Bassel Jradi **3.25**  ·  Josip Basic **5.50**  ·  Marin Soticek **2.60**  ·  Toni Garcia **10.00**  ·  Kike Gomez **5.50**  ·  Christian Rutjens **26.00**  ·  Gonzalez Nano **10.00**  ·  Armando Mandi **15.00**  ·  Martinez Joe **15.00**  ·  Ron Raci **9.00**  ·  Ayman El Ghobashy **5.50**  ·  Khalil Fayad **4.75**  ·  Mathieu Acapandie **9.00**  ·  Leander Dendoncker **5.50**  ·  Carlos Martin **2.25**  ·  Alec Van Hoorenbeeck **9.00**  ·  Dennis Hadzikadunic **9.00**  ·  Dario Maresic **9.00**  ·  Marko Livaja **2.00**  ·  Dario Melnjak **4.00**  ·  Simun Hrgovic **2.88**  ·  Michele Sego **2.25**  ·  Luka Hodak **9.00**  ·  Roko Gabric **9.00**  ·  Roko Brajkovic **9.00**  ·  Marino Skelin **7.50**  ·  Adam Guram **2.88**  ·  Julliani Eersteling **17.00**  ·  Yussef Flalhi Idrissi **8.00**  ·  Gabri Cardozo **23.00**  ·  Leon Mason **8.00**  ·  Facundo Alvarez **8.00**  ·  Manu Toledano **5.50**  ·  Andjelo Sutalo **3.25**  ·  Nico Pinto **8.00**  ·  Marco Fossati **4.00**  ·  Aly Coulibaly **10.00**  ·  Jay Coombes **23.00**  ·  Abdoulie Sanyang **2.60**  ·  Alex Mula **8.00**  ·  Leite Dali **2.60**
 
 ## Estadísticas de equipo
 | | Lincoln Red Imps FC (total) | Lincoln Red Imps FC en casa | HNK Hajduk Split (total) | HNK Hajduk Split fuera |
@@ -179,31 +187,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 73% | 70% | 71% | 1.33 | -5% |
-| 1X2: X | 18% | 20% | 19% | 4.75 | -12% |
-| 1X2: 1 | 10% | 10% | 10% | 9.00 | -10% |
-| Doble oportunidad: X2 | 90% | 89% | 90% | 1.07 | -4% |
+| 1X2: 2 | 73% | 71% | 72% | 1.30 | -6% |
+| 1X2: X | 18% | 19% | 19% | 4.75 | -12% |
+| 1X2: 1 | 10% | 9% | 9% | 10.00 | -5% |
+| Doble oportunidad: X2 | 90% | 90% | 90% | 1.06 | -4% |
 | Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 27% | 29% | 28% | 3.25 | -8% |
-| Ambos marcan: No | 57% | 58% | 57% | 1.62 | -7% |
-| Ambos marcan: Sí | 43% | 42% | 43% | 2.20 | -6% |
-| Goles más/menos: Más de 1.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 2.5 | 55% | 53% | 54% | 1.80 | -3% |
-| Goles más/menos: Más de 3.5 | 32% | 31% | 32% | 3.00 | -5% |
-| Goles más/menos: Menos de 1.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 45% | 47% | 46% | 2.00 | -7% |
-| Goles más/menos: Menos de 3.5 | 68% | 69% | 68% | 1.36 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -7% |
-| Goles del local: Más de 0.5 | 48% | 49% | 48% | 1.91 | -7% |
-| Goles del local: Menos de 0.5 | 52% | 51% | 52% | 1.80 | -7% |
-| Goles del visitante: Más de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
-| Goles del visitante: Más de 2.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
-| Goles del visitante: Menos de 2.5 | 62% | 62% | 62% | 1.50 | -7% |
-| 1X2 descanso: 2 | 52% | 52% | 52% | 1.80 | -6% |
-| 1X2 descanso: X | 37% | 38% | 37% | 2.50 | -7% |
+| Doble oportunidad: 1X | 27% | 28% | 28% | 3.40 | -6% |
+| Ambos marcan: No | 57% | 56% | 56% | 1.67 | -6% |
+| Ambos marcan: Sí | 43% | 44% | 44% | 2.10 | -8% |
+| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles más/menos: Más de 2.5 | 55% | 56% | 55% | 1.67 | -7% |
+| Goles más/menos: Más de 3.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 2.5 | 45% | 44% | 45% | 2.15 | -4% |
+| Goles más/menos: Menos de 3.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 39% | 37% | 2.38 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 61% | 63% | 1.53 | -4% |
+| Goles del local: Más de 0.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles del local: Menos de 0.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles del visitante: Más de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
+| Goles del visitante: Más de 2.5 | 38% | 41% | 39% | 2.25 | -11% |
+| Goles del visitante: Más de 3.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles del visitante: Menos de 1.5 | 35% | 35% | 35% | 2.62 | -7% |
+| Goles del visitante: Menos de 2.5 | 62% | 59% | 61% | 1.57 | -5% |
+| Goles del visitante: Menos de 3.5 | 82% | 78% | 80% | 1.20 | -4% |
+| Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
+| 1X2 descanso: 2 | 52% | 54% | 53% | 1.73 | -9% |
+| 1X2 descanso: X | 37% | 36% | 36% | 2.60 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

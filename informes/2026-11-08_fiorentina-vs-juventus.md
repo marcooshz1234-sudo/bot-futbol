@@ -1,7 +1,7 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_

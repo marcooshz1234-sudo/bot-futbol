@@ -1,22 +1,22 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:12_
 
 - **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **6.50** · menos **1.11**
+    - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
@@ -24,10 +24,13 @@ _Actualizadas: 01/11 13:55_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.92** · menos **1.88**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -36,12 +39,18 @@ _Actualizadas: 01/11 13:55_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.57**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.25**
 - **Win Both Halves:** 1 **15.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
-- **Anytime Goal Scorer:** Ruben Furtado **3.75**  ·  Frederik Emmery **6.00**  ·  Oskar Haugstrup **8.00**  ·  Stefen Tchamche **3.25**  ·  Christian Storch **13.00**  ·  Denis Huseinbasic **3.75**  ·  Adrian Barisic **13.00**  ·  Daniel Gretarsson **13.00**  ·  Mikael Anderson **7.50**  ·  Tobias Bech **3.25**  ·  Gift Links **6.00**  ·  Kristian Arnstad **3.75**  ·  Eric Kahl **11.00**  ·  Frederik Tingager **15.00**  ·  Luka Callo **13.00**  ·  Nicolai Poulsen **9.00**  ·  Jacob Andersen **19.00**  ·  Mario Dorgeles **4.33**  ·  Callum McCowatt **3.25**  ·  Kevin Yakob **5.00**  ·  Tomas Oli Kristjansson **5.00**  ·  Yanis da Rocha **11.00**  ·  Joao Aragao **4.33**  ·  Zander Grantzau **13.00**  ·  Diego Rodrigues **7.50**  ·  Rasmus Carstensen **7.50**  ·  Jens Jonsson **11.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.40**  ·  Janni-Luca Serra **4.00**  ·  Sebastian Jorgensen **5.00**  ·  Colin Rosler **13.00**  ·  Gabriel Martinez **3.50**  ·  Tomas Marques **11.00**  ·  James Bogere **3.60**  ·  Markus Solbakken **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.75**  ·  Fran Navarro **2.60**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **8.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Teixeira Luisinho **3.75**  ·  Diogo Travassos **8.00**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **8.00**  ·  Jovan Milosevic **3.00**  ·  Hamza Sengooba **13.00**  ·  Mouhammade Camara **13.00**  ·  Joao Trovisco **3.25**  ·  Tobias Molgaard **13.00**  ·  Jonas Wind **2.75**  ·  Magnus Nordengen Knudsen **8.00**  ·  Gabriel Silva Vieira **3.00**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.33**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.20** · menos **1.62**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
+- **Away Player Shots On Target Total:** Ruben Furtado **34.00**  ·  Denis Huseinbasic **34.00**  ·  Adrian Barisic **21.00**  ·  Mario Dorgeles **41.00**  ·  Yanis da Rocha **21.00**  ·  Joao Aragao **41.00**  ·  Diego Rodrigues **41.00**  ·  Gustaf Lagerbielke **17.00**  ·  Pau Victor **12.00**  ·  Colin Rosler **21.00**  ·  Gabriel Martinez **67.00**  ·  Tomas Marques **51.00**  ·  Adrian Bajrami **23.00**  ·  Luz Ricardo Horta **29.00**  ·  Fran Navarro **6.50**  ·  Felipe Joao Moutinho **51.00**  ·  Jean-Baptiste Gorby **67.00**  ·  Vitor Carvalho **23.00**  ·  Bright Arrey-Mbi **41.00**  ·  Victor Gomez **81.00**  ·  Teixeira Luisinho **19.00**  ·  Diogo Travassos **67.00**  ·  Demir Tiknaz **23.00**  ·  Jovan Milosevic **7.00**  ·  Jonas Wind **11.00**  ·  Magnus Nordengen Knudsen **67.00**  ·  Gabriel Silva Vieira **26.00**
+- **Anytime Goal Scorer:** Ruben Furtado **4.00**  ·  Frederik Emmery **6.00**  ·  Oskar Haugstrup **8.00**  ·  Stefen Tchamche **3.40**  ·  Christian Storch **13.00**  ·  Denis Huseinbasic **4.00**  ·  Adrian Barisic **13.00**  ·  Daniel Gretarsson **13.00**  ·  Mikael Anderson **8.00**  ·  Tobias Bech **3.40**  ·  Gift Links **6.00**  ·  Kristian Arnstad **4.00**  ·  Eric Kahl **11.00**  ·  Frederik Tingager **15.00**  ·  Luka Callo **13.00**  ·  Nicolai Poulsen **9.00**  ·  Jacob Andersen **19.00**  ·  Mario Dorgeles **4.50**  ·  Callum McCowatt **3.40**  ·  Kevin Yakob **5.00**  ·  Tomas Oli Kristjansson **5.00**  ·  Yanis da Rocha **11.00**  ·  Joao Aragao **4.50**  ·  Zander Grantzau **13.00**  ·  Diego Rodrigues **7.50**  ·  Rasmus Carstensen **8.00**  ·  Jens Jonsson **11.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.40**  ·  Janni-Luca Serra **4.00**  ·  Sebastian Jorgensen **5.00**  ·  Colin Rosler **13.00**  ·  Gabriel Martinez **3.50**  ·  Tomas Marques **11.00**  ·  James Bogere **3.75**  ·  Markus Solbakken **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.75**  ·  Fran Navarro **2.62**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **8.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Teixeira Luisinho **4.00**  ·  Diogo Travassos **8.00**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **8.00**  ·  Jovan Milosevic **3.00**  ·  Hamza Sengooba **13.00**  ·  Mouhammade Camara **13.00**  ·  Joao Trovisco **3.40**  ·  Tobias Molgaard **13.00**  ·  Jonas Wind **2.75**  ·  Magnus Nordengen Knudsen **8.00**  ·  Gabriel Silva Vieira **3.00**
 
 ## Estadísticas de equipo
 | | Aarhus (total) | Aarhus en casa | SC Braga (total) | SC Braga fuera |
@@ -183,28 +192,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 81% | 76% | 79% | 1.25 | -2% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -9% |
-| Ambos marcan: No | 66% | 46% | 56% | 2.00 | +13% |
-| Ambos marcan: Sí | 34% | 54% | 44% | 1.73 | -24% |
+| Ambos marcan: No | 66% | 49% | 57% | 1.91 | +10% |
+| Ambos marcan: Sí | 34% | 51% | 43% | 1.80 | -23% |
 | Goles más/menos: Más de 1.5 | 57% | 73% | 65% | 1.28 | -17% |
 | Goles más/menos: Más de 2.5 | 30% | 49% | 39% | 1.95 | -24% |
 | Goles más/menos: Más de 3.5 | 13% | 28% | 20% | 3.40 | -32% |
 | Goles más/menos: Menos de 1.5 | 43% | 27% | 35% | 3.50 | +23% |
 | Goles más/menos: Menos de 2.5 | 70% | 51% | 61% | 1.85 | +13% |
 | Goles más/menos: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 63% | 1.36 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 56% | 66% | 61% | 1.40 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 37% | 3.00 | +12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 34% | 39% | 2.75 | +6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +2% |
 | Goles del local: Más de 0.5 | 47% | 65% | 56% | 1.44 | -20% |
 | Goles del local: Más de 1.5 | 13% | 29% | 21% | 3.25 | -31% |
 | Goles del local: Menos de 0.5 | 53% | 35% | 44% | 2.62 | +16% |
 | Goles del local: Menos de 1.5 | 87% | 71% | 79% | 1.33 | +5% |
-| Goles del visitante: Más de 0.5 | 72% | 78% | 75% | 1.20 | -10% |
+| Goles del visitante: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
 | Goles del visitante: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
 | Goles del visitante: Más de 2.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles del visitante: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +8% |
+| Goles del visitante: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles del visitante: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 82% | 1.20 | -1% |
+| Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -9% |
 | 1X2 descanso: X | 51% | 42% | 46% | 2.20 | +2% |
 | 1X2 descanso: 1 | 15% | 23% | 19% | 4.00 | -24% |

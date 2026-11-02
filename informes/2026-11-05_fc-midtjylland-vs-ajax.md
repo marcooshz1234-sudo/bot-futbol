@@ -1,10 +1,10 @@
 # FC Midtjylland – Ajax
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · MCH Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:12_
 
 - **1X2:** 1 **2.75**  ·  X **3.50**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -30,6 +30,8 @@ _Actualizadas: 01/11 13:55_
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.92** · menos **1.88**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.50**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -43,7 +45,13 @@ _Actualizadas: 01/11 13:55_
 - **Win Both Halves:** 1 **9.00**  ·  2 **7.00**
 - **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **19.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.50**
-- **Anytime Goal Scorer:** Oscar Gloukh **3.10**  ·  Thilo Kehrer **8.00**  ·  Gue-Sung Cho **3.00**  ·  Magnus Jensen **6.50**  ·  Mileta Rajovic **2.38**  ·  Edward Chilufya **3.10**  ·  Sofus Johannesen **5.50**  ·  Denil Castillo **5.50**  ·  Ousmane Diao **8.00**  ·  Pedro Bravo **9.00**  ·  Victor Bak Jensen **9.00**  ·  Mads Sorensen **11.00**  ·  David Martinez **3.40**  ·  Friday Etim **2.38**  ·  Alamara Djabi **5.50**  ·  Sofyan Amrabat **6.00**  ·  Jofre Torrents **7.50**  ·  Caio Henrique **9.00**  ·  Toluwalase Arokodare **2.38**  ·  Kjell-Arik Watjen **6.00**  ·  Davy Klaassen **4.33**  ·  Youri Baas **8.00**  ·  Owen Wijndal **8.00**  ·  Dies Janse **9.00**  ·  Oliver Valaker Edvardsen **3.40**  ·  Mikael Uhre **3.00**  ·  Andreas Maxso **13.00**  ·  Marcos Leonardo **2.50**  ·  Abdellah Ouazane **4.00**  ·  Julius Emefile **3.75**  ·  Mohamed Abdalla **3.75**  ·  Stanley Iheanacho **3.10**  ·  Beni Junior Dje **8.00**  ·  Frederik Vestergaard **5.50**  ·  Jorthy Mokio **6.00**  ·  Joseph Okuaghare **6.50**  ·  Steven Berghuis **4.33**  ·  Daley Blind **13.00**  ·  Viktor Tsygankov **3.10**  ·  Simon Adingra **3.75**  ·  Mikel Gogorza **3.25**  ·  Yves Bissouma **6.00**  ·  Abdou Aziz Ndiaye **8.00**  ·  Rasmus Kristensen **9.00**  ·  Martin Erlic **13.00**  ·  Lucas Rosa **8.00**  ·  Hyun-seok Hong **3.75**  ·  Philip Billing **5.50**  ·  Julian Brandt **3.00**  ·  Diego Pugno **2.50**  ·  Aaron Bouwman **7.50**  ·  Rayane Bounida **3.40**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Away Player Shots On Target Total:** Oscar Gloukh **29.00**  ·  Thilo Kehrer **15.00**  ·  Gue-Sung Cho **11.00**  ·  Edward Chilufya **19.00**  ·  Denil Castillo **51.00**  ·  Ousmane Diao **13.00**  ·  Pedro Bravo **34.00**  ·  Victor Bak Jensen **67.00**  ·  Mads Sorensen **19.00**  ·  David Martinez **41.00**  ·  Friday Etim **7.50**  ·  Alamara Djabi **26.00**  ·  Sofyan Amrabat **29.00**  ·  Jofre Torrents **34.00**  ·  Caio Henrique **81.00**  ·  Toluwalase Arokodare **5.50**  ·  Kjell-Arik Watjen **34.00**  ·  Davy Klaassen **19.00**  ·  Youri Baas **17.00**  ·  Owen Wijndal **101.00**  ·  Dies Janse **15.00**  ·  Oliver Valaker Edvardsen **13.00**  ·  Mikael Uhre **26.00**  ·  Marcos Leonardo **12.00**  ·  Julius Emefile **34.00**  ·  Jorthy Mokio **17.00**  ·  Steven Berghuis **51.00**  ·  Daley Blind **81.00**  ·  Viktor Tsygankov **41.00**  ·  Simon Adingra **34.00**  ·  Mikel Gogorza **13.00**  ·  Yves Bissouma **51.00**  ·  Rasmus Kristensen **29.00**  ·  Martin Erlic **15.00**  ·  Lucas Rosa **67.00**  ·  Hyun-seok Hong **34.00**  ·  Philip Billing **41.00**  ·  Julian Brandt **34.00**  ·  Diego Pugno **9.50**  ·  Aaron Bouwman **12.00**  ·  Rayane Bounida **29.00**
+- **Anytime Goal Scorer:** Oscar Gloukh **3.25**  ·  Thilo Kehrer **8.00**  ·  Gue-Sung Cho **3.00**  ·  Magnus Jensen **6.50**  ·  Mileta Rajovic **2.38**  ·  Edward Chilufya **3.10**  ·  Sofus Johannesen **5.50**  ·  Denil Castillo **5.50**  ·  Ousmane Diao **7.50**  ·  Pedro Bravo **8.00**  ·  Victor Bak Jensen **8.00**  ·  Mads Sorensen **9.00**  ·  David Martinez **3.40**  ·  Friday Etim **2.38**  ·  Alamara Djabi **5.50**  ·  Sofyan Amrabat **6.00**  ·  Jofre Torrents **7.50**  ·  Caio Henrique **9.00**  ·  Toluwalase Arokodare **2.38**  ·  Kjell-Arik Watjen **6.00**  ·  Davy Klaassen **5.00**  ·  Youri Baas **8.00**  ·  Owen Wijndal **8.00**  ·  Dies Janse **9.00**  ·  Oliver Valaker Edvardsen **3.40**  ·  Mikael Uhre **3.00**  ·  Andreas Maxso **11.00**  ·  Marcos Leonardo **2.50**  ·  Abdellah Ouazane **4.00**  ·  Julius Emefile **3.75**  ·  Mohamed Abdalla **3.75**  ·  Stanley Iheanacho **3.10**  ·  Beni Junior Dje **7.50**  ·  Frederik Vestergaard **5.50**  ·  Jorthy Mokio **6.00**  ·  Joseph Okuaghare **6.50**  ·  Steven Berghuis **5.00**  ·  Daley Blind **13.00**  ·  Viktor Tsygankov **3.25**  ·  Simon Adingra **3.75**  ·  Mikel Gogorza **3.25**  ·  Yves Bissouma **6.00**  ·  Abdou Aziz Ndiaye **7.50**  ·  Rasmus Kristensen **8.00**  ·  Martin Erlic **11.00**  ·  Lucas Rosa **8.00**  ·  Hyun-seok Hong **3.75**  ·  Philip Billing **5.50**  ·  Julian Brandt **3.10**  ·  Diego Pugno **2.50**  ·  Aaron Bouwman **7.50**  ·  Rayane Bounida **3.40**
 
 ## Estadísticas de equipo
 | | FC Midtjylland (total) | FC Midtjylland en casa | Ajax (total) | Ajax fuera |
@@ -210,6 +218,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 20% | 27% | 24% | 3.50 | -17% |
 | Goles del visitante: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
 | Goles del visitante: Menos de 2.5 | 80% | 73% | 76% | 1.28 | -2% |
+| Córners más/menos: Más de 9.5 | 40% | 49% | 45% | 1.92 | -14% |
+| Córners más/menos: Menos de 9.5 | 60% | 51% | 55% | 1.88 | +4% |
 | 1X2 descanso: 2 | 30% | 33% | 32% | 2.75 | -13% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
 | 1X2 descanso: 1 | 32% | 30% | 31% | 3.10 | -5% |

@@ -1,7 +1,7 @@
 # Lorient – Stade Brestois 29
 **Ligue 1** · Regular Season - 9 · 02/11/2026 20:45 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:30_

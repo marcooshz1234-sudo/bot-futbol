@@ -1,50 +1,59 @@
 # Monaco – FC Nordsjaelland
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
-- **1X2:** 1 **1.48**  ·  X **4.33**  ·  2 **5.50**
-- **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.62**
+- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **6.00**
+- **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.48** · menos **2.60**
-    - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.50** · menos **1.28**
-    - 5,5: más **6.50** · menos **1.11**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
-- **1X2 descanso:** 1 **1.91**  ·  X **2.62**  ·  2 **5.50**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.90** · menos **1.90**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.75**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **1.25**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **5.00**
-- **Win Both Halves:** 1 **3.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **19.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.40**
-- **Anytime Goal Scorer:** Stephen Acquah **13.00**  ·  Vanderson Campos **6.00**  ·  Markus Walker **6.00**  ·  Hjalte Rasmussen **5.00**  ·  Villum Berthelsen **4.33**  ·  Mika Biereth **2.20**  ·  Denis Zakaria **4.00**  ·  Folarin Balogun **1.95**  ·  Lamine Camara **5.00**  ·  Mohammed Salisu **7.50**  ·  Takumi Minamino **3.10**  ·  Justin Janssen **7.50**  ·  Mark Christensen **7.50**  ·  Peter Ankersen **13.00**  ·  Noah Markmann **15.00**  ·  Victor Nelsson **13.00**  ·  Souleymane Alio **3.40**  ·  Prince Amoako **4.00**  ·  Malte Heyde **8.00**  ·  Ibrahim Adel **5.00**  ·  Pape Cabral **3.25**  ·  Villads Rutkjaer **9.00**  ·  Victor Gustafsen **9.00**  ·  Ilane Toure **6.00**  ·  Matthis Abline **1.95**  ·  Jordan Teze **5.50**  ·  Christian Mawissa Elebi **9.00**  ·  Edan Diop **3.75**  ·  Alexandr Golovin **3.10**  ·  Paris Brunner **1.83**  ·  Flavio Nazinho **5.00**  ·  Alexander Lind **3.40**  ·  Stanis Idumbo-Muzambo **3.25**  ·  Mamadou Coulibaly **3.75**  ·  Nicklas Rojkjaer **6.00**  ·  Runar Norheim **6.50**  ·  Tobias Salquist **15.00**  ·  Mathys Detourbet **3.75**  ·  Mamadou Sadio **5.00**  ·  Matej Tuka **9.00**  ·  Mouekinga Kone **3.40**  ·  William Faber **4.00**  ·  Oumar Konate **1.95**  ·  Safouane Benzahra **2.62**  ·  Anis Soubeir **5.00**  ·  Samuel Nibombe **6.00**  ·  Eric Dier **6.50**  ·  Ansu Fati **2.38**  ·  Ola Solbakken **4.33**  ·  Sadibou Sane **7.50**  ·  Juho Lahteenmaki **6.50**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **5.50**
+- **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **3.00**  ·  Draw/No **21.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.50**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Away Player Shots On Target Total:** Vanderson Campos **19.00**  ·  Mika Biereth **6.50**  ·  Denis Zakaria **6.50**  ·  Folarin Balogun **9.00**  ·  Lamine Camara **41.00**  ·  Mohammed Salisu **12.00**  ·  Takumi Minamino **19.00**  ·  Victor Nelsson **17.00**  ·  Pape Cabral **15.00**  ·  Ilane Toure **15.00**  ·  Matthis Abline **11.00**  ·  Jordan Teze **19.00**  ·  Christian Mawissa Elebi **13.00**  ·  Edan Diop **15.00**  ·  Alexandr Golovin **19.00**  ·  Paris Brunner **5.50**  ·  Flavio Nazinho **10.00**  ·  Alexander Lind **11.00**  ·  Stanis Idumbo-Muzambo **15.00**  ·  Mamadou Coulibaly **15.00**  ·  Mathys Detourbet **15.00**  ·  Oumar Konate **5.50**  ·  Safouane Benzahra **8.50**  ·  Anis Soubeir **19.00**  ·  Samuel Nibombe **15.00**  ·  Eric Dier **10.00**  ·  Ansu Fati **29.00**  ·  Ola Solbakken **34.00**  ·  Sadibou Sane **12.00**
+- **Anytime Goal Scorer:** Stephen Acquah **13.00**  ·  Vanderson Campos **6.00**  ·  Markus Walker **6.00**  ·  Hjalte Rasmussen **5.50**  ·  Villum Berthelsen **4.33**  ·  Mika Biereth **2.20**  ·  Denis Zakaria **4.00**  ·  Folarin Balogun **1.91**  ·  Lamine Camara **4.75**  ·  Mohammed Salisu **7.00**  ·  Takumi Minamino **2.88**  ·  Justin Janssen **7.00**  ·  Mark Christensen **7.00**  ·  Peter Ankersen **13.00**  ·  Noah Markmann **15.00**  ·  Victor Nelsson **13.00**  ·  Souleymane Alio **3.40**  ·  Prince Amoako **4.00**  ·  Malte Heyde **8.00**  ·  Ibrahim Adel **5.50**  ·  Pape Cabral **3.20**  ·  Villads Rutkjaer **9.00**  ·  Victor Gustafsen **9.00**  ·  Ilane Toure **6.00**  ·  Matthis Abline **1.91**  ·  Jordan Teze **5.50**  ·  Christian Mawissa Elebi **9.00**  ·  Edan Diop **3.60**  ·  Alexandr Golovin **2.88**  ·  Paris Brunner **1.83**  ·  Flavio Nazinho **4.75**  ·  Alexander Lind **3.40**  ·  Stanis Idumbo-Muzambo **3.20**  ·  Mamadou Coulibaly **3.60**  ·  Nicklas Rojkjaer **6.00**  ·  Runar Norheim **6.50**  ·  Tobias Salquist **15.00**  ·  Mathys Detourbet **3.60**  ·  Mamadou Sadio **4.75**  ·  Matej Tuka **9.00**  ·  Mouekinga Kone **3.40**  ·  William Faber **4.00**  ·  Oumar Konate **1.91**  ·  Safouane Benzahra **2.50**  ·  Anis Soubeir **4.75**  ·  Samuel Nibombe **6.00**  ·  Eric Dier **6.50**  ·  Ansu Fati **2.30**  ·  Ola Solbakken **4.33**  ·  Sadibou Sane **7.00**  ·  Juho Lahteenmaki **6.50**
 
 ## Estadísticas de equipo
 | | Monaco (total) | Monaco en casa | FC Nordsjaelland (total) | FC Nordsjaelland fuera |
@@ -180,37 +189,39 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 17% | 26% | 5.50 | +42% |
-| 1X2: X | 28% | 21% | 25% | 4.33 | +6% |
-| 1X2: 1 | 37% | 62% | 50% | 1.48 | -26% |
-| Doble oportunidad: X2 | 63% | 36% | 50% | 2.62 | +30% |
-| Doble oportunidad: 12 | 72% | 80% | 76% | 1.20 | -9% |
-| Doble oportunidad: 1X | 65% | 84% | 75% | 1.14 | -15% |
+| 1X2: 2 | 35% | 15% | 25% | 6.00 | +50% |
+| 1X2: X | 28% | 20% | 24% | 4.50 | +8% |
+| 1X2: 1 | 37% | 64% | 51% | 1.42 | -28% |
+| Doble oportunidad: X2 | 63% | 35% | 49% | 2.75 | +34% |
+| Doble oportunidad: 12 | 72% | 81% | 76% | 1.18 | -10% |
+| Doble oportunidad: 1X | 65% | 85% | 75% | 1.12 | -16% |
 | Ambos marcan: No | 52% | 41% | 46% | 2.25 | +4% |
 | Ambos marcan: Sí | 48% | 59% | 54% | 1.57 | -16% |
-| Goles más/menos: Más de 2.5 | 42% | 64% | 53% | 1.48 | -21% |
-| Goles más/menos: Más de 3.5 | 22% | 44% | 33% | 2.10 | -31% |
-| Goles más/menos: Más de 4.5 | 9% | 27% | 18% | 3.50 | -37% |
-| Goles más/menos: Menos de 2.5 | 58% | 36% | 47% | 2.60 | +22% |
-| Goles más/menos: Menos de 3.5 | 78% | 56% | 67% | 1.67 | +12% |
-| Goles más/menos: Menos de 4.5 | 91% | 73% | 82% | 1.28 | +5% |
+| Goles más/menos: Más de 2.5 | 42% | 65% | 54% | 1.44 | -23% |
+| Goles más/menos: Más de 3.5 | 22% | 46% | 34% | 2.00 | -32% |
+| Goles más/menos: Más de 4.5 | 9% | 28% | 18% | 3.40 | -37% |
+| Goles más/menos: Menos de 2.5 | 58% | 35% | 46% | 2.70 | +25% |
+| Goles más/menos: Menos de 3.5 | 78% | 54% | 66% | 1.73 | +14% |
+| Goles más/menos: Menos de 4.5 | 91% | 72% | 82% | 1.30 | +6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 77% | 71% | 1.22 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 44% | 36% | 2.10 | -24% |
-| Goles 1ª parte más/menos: Más de 2.5 | 9% | 21% | 15% | 4.50 | -34% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
+| Goles 1ª parte más/menos: Más de 2.5 | 9% | 22% | 15% | 4.33 | -34% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 23% | 29% | 4.00 | +18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 56% | 64% | 1.67 | +7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.18 | +1% |
-| Goles del local: Más de 1.5 | 34% | 66% | 50% | 1.40 | -30% |
-| Goles del local: Más de 2.5 | 12% | 41% | 27% | 2.25 | -40% |
-| Goles del local: Más de 3.5 | 3% | 22% | 13% | 4.33 | -45% |
-| Goles del local: Menos de 1.5 | 66% | 34% | 50% | 2.75 | +37% |
-| Goles del local: Menos de 2.5 | 88% | 59% | 73% | 1.57 | +15% |
-| Goles del local: Menos de 3.5 | 97% | 78% | 87% | 1.20 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
+| Goles del local: Más de 1.5 | 34% | 69% | 52% | 1.36 | -30% |
+| Goles del local: Más de 2.5 | 12% | 44% | 28% | 2.10 | -41% |
+| Goles del local: Más de 3.5 | 3% | 23% | 13% | 4.00 | -46% |
+| Goles del local: Menos de 1.5 | 66% | 31% | 48% | 3.00 | +45% |
+| Goles del local: Menos de 2.5 | 88% | 56% | 72% | 1.67 | +20% |
+| Goles del local: Menos de 3.5 | 97% | 77% | 87% | 1.22 | +6% |
 | Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 32% | 29% | 31% | 3.25 | -0% |
 | Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del visitante: Menos de 1.5 | 68% | 71% | 69% | 1.33 | -8% |
-| 1X2 descanso: X | 46% | 35% | 40% | 2.62 | +6% |
-| 1X2 descanso: 1 | 28% | 48% | 38% | 1.91 | -27% |
+| Córners más/menos: Más de 9.5 | 44% | 56% | 50% | 1.67 | -17% |
+| Córners más/menos: Menos de 9.5 | 56% | 44% | 50% | 2.10 | +6% |
+| 1X2 descanso: X | 46% | 33% | 39% | 2.75 | +9% |
+| 1X2 descanso: 1 | 28% | 50% | 39% | 1.83 | -29% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

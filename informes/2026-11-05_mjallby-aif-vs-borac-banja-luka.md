@@ -1,19 +1,19 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 14:13._
 
 ## Cuotas Bet365
-_Actualizadas: 01/11 13:55_
+_Actualizadas: 02/11 14:13_
 
 - **1X2:** 1 **2.15**  ·  X **3.40**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
+    - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
@@ -28,12 +28,15 @@ _Actualizadas: 01/11 13:55_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9: más **1.85** · menos **1.95**
+    - 9,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
@@ -41,6 +44,11 @@ _Actualizadas: 01/11 13:55_
 - **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.62** · menos **2.20**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 - **Anytime Goal Scorer:** Ian Hoffmann **5.00**  ·  Aki Samuelsen **3.20**  ·  Luka Juricic **2.62**  ·  Olle Nilsson **3.75**  ·  Olle Lindberg **6.00**  ·  Martin Agnarsson **10.00**  ·  Omar Sijaric **6.00**  ·  Brainimir Cipetic **8.00**  ·  Ali Youssef **3.40**  ·  Max Nielsen **7.50**  ·  Mads Enggard **7.50**  ·  Jeppe Kjaer **3.20**  ·  Jacob Bergstrom **2.88**  ·  Nikola Terzic **4.50**  ·  Tony Miettinen **11.00**  ·  Villiam Granath **4.00**  ·  Stefan Savic **4.50**  ·  Ludvig Tidstrand **4.00**  ·  Viktor Gustafsson **4.00**  ·  Isak Andersen **6.00**  ·  Timo Stavitski **6.00**  ·  Jesper Gustavsson **8.00**  ·  Tom Pettersson **11.00**  ·  Abdullah Iqbal **13.00**  ·  Axel Noren **10.00**  ·  Romeo Leandersson **6.50**  ·  Anderson Esiti **10.00**  ·  Sinisa Sanicanin **19.00**  ·  Ludvig Svanberg **11.00**  ·  Teo Helge **6.00**  ·  Pavle Djajic **4.00**  ·  David Vukovic **5.00**  ·  Sandi Ogrinec **5.00**  ·  Stojan Vranjes **6.00**  ·  Srdjan Grahovac **10.00**  ·  Jurich Carolina **13.00**  ·  Sebastian Herrera **9.00**  ·  Bart Meijers **13.00**  ·  Dani Hodzic **7.50**  ·  Matej Deket **3.00**  ·  Nemanja Jaksic **13.00**  ·  Amar Milak **4.00**  ·  Karlo Peric **2.62**  ·  Abel Pascual **13.00**  ·  Amer Hiros **4.75**  ·  Philip Abrahamsson **4.00**  ·  Paul Colley **3.20**  ·  Andujar Dani Romera **2.62**  ·  Petar Kunic **4.50**  ·  Ivan Kukavica **9.00**  ·  Erik Radan **11.00**  ·  Edon Murseli **2.50**  ·  Ante Roguljic **6.50**  ·  Milos Jojic **6.00**  ·  Viktor Rogan **13.00**  ·  Mans Isaksson **6.00**
 
 ## Estadísticas de equipo
@@ -187,10 +195,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 44% | 51% | 48% | 1.80 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 72% | 68% | 1.30 | -11% |
 | Goles más/menos: Más de 2.5 | 38% | 47% | 43% | 2.00 | -15% |
-| Goles más/menos: Más de 3.5 | 18% | 27% | 22% | 3.50 | -21% |
+| Goles más/menos: Más de 3.5 | 18% | 28% | 23% | 3.40 | -22% |
 | Goles más/menos: Menos de 1.5 | 35% | 28% | 32% | 3.40 | +7% |
 | Goles más/menos: Menos de 2.5 | 62% | 53% | 57% | 1.80 | +3% |
-| Goles más/menos: Menos de 3.5 | 82% | 73% | 78% | 1.28 | -1% |
+| Goles más/menos: Menos de 3.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
@@ -203,6 +211,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
 | Goles del visitante: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Córners más/menos: Más de 9.5 | 45% | 44% | 45% | 2.10 | -6% |
+| Córners más/menos: Menos de 9.5 | 55% | 56% | 55% | 1.67 | -7% |
 | 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | +0% |
 | 1X2 descanso: X | 48% | 43% | 45% | 2.20 | -1% |
 | 1X2 descanso: 1 | 24% | 32% | 28% | 2.88 | -19% |
