@@ -484,5 +484,39 @@
       1.66
     ],
     "origen": "Marcos (captura bet365 02/11)"
+  },
+  {
+    "id": "2026-11-03-marcos-picks",
+    "fecha": "2026-11-03T18:45",
+    "titulo": "Tu combi de los mejores picks x35,9",
+    "cuota": 35.92,
+    "cuota_bet365": 35.92,
+    "sel": [
+      "1635669|Away Player Shots|Ermedin Demirovic - 3",
+      "1635669|Player Fouls Committed|Grischa Promel - 1",
+      "1635723|Player Fouls Committed|Ivan Fresneda - 1",
+      "1635723|Player Fouls Committed|Luis Suarez - 1",
+      "1635627|Away Player Shots|Nicolas Jackson - 2",
+      "1635627|Away Player Shots|Johan Manzambi - 2",
+      "1635640|Away Player Shots|Nabil Bentaleb - 1",
+      "1635662|Away Player Shots|Nicolo Barella - 1",
+      "1635662|Total - Home|Over 0.5",
+      "1635677|Home Player Shots|Andres Andrade - 1",
+      "1563239|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.83,
+      1.3,
+      1.4,
+      1.28,
+      1.4,
+      1.53,
+      1.36,
+      1.36,
+      1.25,
+      1.33,
+      1.28
+    ],
+    "origen": "Marcos (captura bet365 03/11 00:48)"
   }
 ]

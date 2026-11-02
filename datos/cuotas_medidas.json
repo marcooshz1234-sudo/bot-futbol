@@ -912,5 +912,93 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-03-gala-stuttgart",
+  "fecha": "2026-11-03T00:48",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1635669|Away Player Shots|Ermedin Demirovic - 3",
+   "1635669|Player Fouls Committed|Grischa Promel - 1"
+  ],
+  "cuotas": [
+   1.83,
+   1.3
+  ],
+  "real": 2.35,
+  "multiplicando": 2.379,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-03-shakhtar-sporting",
+  "fecha": "2026-11-03T00:48",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1635723|Player Fouls Committed|Ivan Fresneda - 1",
+   "1635723|Player Fouls Committed|Luis Suarez - 1"
+  ],
+  "cuotas": [
+   1.4,
+   1.28
+  ],
+  "real": 1.8,
+  "multiplicando": 1.792,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-03-barca-villa-jug",
+  "fecha": "2026-11-03T00:48",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1635627|Away Player Shots|Nicolas Jackson - 2",
+   "1635627|Away Player Shots|Johan Manzambi - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.53
+  ],
+  "real": 2.15,
+  "multiplicando": 2.142,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-03-feyenoord-inter",
+  "fecha": "2026-11-03T00:48",
+  "fuente": "cuota comprobada (Marcos en bet365)",
+  "sel": [
+   "1635662|Away Player Shots|Nicolo Barella - 1",
+   "1635662|Total - Home|Over 0.5"
+  ],
+  "cuotas": [
+   1.36,
+   1.25
+  ],
+  "real": 1.68,
+  "multiplicando": 1.7,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]
