@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-02 23:52",
+ "actualizado": "2026-11-03 00:02",
  "redes": {
   "instagram": {
    "seguidores": 22,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
-    19,
     20,
     20,
     20,
     21,
     21,
+    22,
     22
    ]
   },
   "threads": {
    "seguidores": 1430,
-   "hoy": 23,
+   "hoy": 0,
    "serie": [
-    983,
     1225,
     1281,
     1354,
     1375,
     1407,
+    1430,
     1430
    ]
   },
@@ -42,20 +42,20 @@
   },
   "telegram": {
    "seguidores": 214,
-   "hoy": 7,
+   "hoy": 0,
    "serie": [
-    80,
     113,
     126,
     165,
     176,
     207,
+    214,
     214
    ]
   }
  },
  "total": 1666,
- "total_hoy": 31,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
   "hora": "00:30",
@@ -63,8 +63,8 @@
   "titulo": "Combi Feyenoord vs Inter"
  },
  "ayer": {
-  "aciertos": 42,
-  "total": 63
+  "aciertos": 1,
+  "total": 1
  },
  "escalera": {
   "dia": 1,
@@ -131,6 +131,12 @@
    "telegram": 207
   },
   "2026-11-02": {
+   "instagram": 22,
+   "threads": 1430,
+   "facebook": 0,
+   "telegram": 214
+  },
+  "2026-11-03": {
    "instagram": 22,
    "threads": 1430,
    "facebook": 0,
