@@ -283,6 +283,29 @@ def cierre(dia, tipo, lista_=False):
 # 31/10 (Marcos): en los posts con muchos picks, que se sepa que no hay que cogerlos todos. Va la última:
 # si en Threads no cabe, es lo primero que se quita (redes.threads)
 POSTS_LISTA = ("ganadores", "combi-500")   # 02/11: en picks para hoy/mañana ya lo dice la línea de combinar
+def texto_multi(sel, cuota, nombre):
+    """03/11: combi de 6-8 partidos con 1-2 cosas de cada uno. Si no cabe en Threads, se quita el último partido."""
+    import math
+    from collections import OrderedDict
+    partidos = OrderedDict()
+    for p in sel:
+        partidos.setdefault(p["partido_id"], []).append(p)
+    while True:
+        lista = [p for l in partidos.values() for p in l]
+        aprox = any(p.get("estimada") for p in lista)
+        lineas = [f"🔥⚽ COMBILOCAS — ¡COMBI DE {len(partidos)} PARTIDOS x{num(cuota)}! 🍀", ""]
+        for l in partidos.values():
+            lineas += [f"✅ {p['texto']}" for p in l]
+        lineas += ["", "⚽ 1 o 2 cosas de cada partido, de las que más salen ✅" + (" (cuota aprox.)" if aprox else ""),
+                   "", "💚 Más picks GRATIS en @combilocas"]
+        texto = "\n".join(lineas)
+        if len(texto) <= 495 or len(partidos) <= 5:
+            return texto, lista
+        ultimo = list(partidos)[-1]
+        quitado = partidos.pop(ultimo)
+        cuota = cuota / max(1.0, math.prod(p["cuota"] for p in quitado))
+
+
 def texto_lista_europa(sel, i, n):
     """02/11: lista de 12-15 picks de Champions/Europa; la gente coge los que más le gusten."""
     from combis_dia import EUROPA
@@ -339,8 +362,11 @@ def posts_del_dia(dia, d):
         except Exception as e:
             print("combis del día:", str(e)[:200])
             cd = {"partidos": []}
+        noche_ids = {cp["picks"][0]["partido_id"] for cp, *_ in cd.get("noche") or []}
         for cp, cuota, tj, hora in cd["partidos"]:
             pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
+            if cp["picks"][0]["partido_id"] in noche_ids:   # 03/11: el mismo partido de madrugada y a su hora: ids distintos
+                pid += "-2"
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
             apuntar(cp["picks"])   # 27/10: cuentan para el «máx. 2 posts por selección» (la lista de picks)
@@ -356,6 +382,11 @@ def posts_del_dia(dia, d):
         for i, (hora, sel) in enumerate(cd.get("listas_europa") or [], 1):   # 02/11 (Marcos): mucho contenido de Champions
             texto_l, sel = texto_lista_europa(sel, i, len(cd["listas_europa"]))   # sel recortado igual que el texto
             posts.append((f"lista-europa-{i}", hora, sel, texto_l))
+        if cd.get("multi"):   # 03/11 (Marcos): 6-8 partidos con 1-2 cosas de cada uno, como las de él y sus colegas
+            sel, cuota, hora = cd["multi"]
+            texto_m, sel = texto_multi(sel, cuota, nombre)
+            posts.append(("combi-multi", hora, sel, texto_m))
+            apuntar(sel)
         for cp, cuota, hora in cd.get("estrella") or []:   # 01/11 (Marcos): partido estrella (top 4 de las 5 grandes)
             posts.append((f"estrella-{cp['partido_id']}", hora, cp["picks"], texto_estrella(cp, cuota)))
             apuntar(cp["picks"])

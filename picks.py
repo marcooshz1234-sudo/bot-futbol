@@ -424,6 +424,13 @@ def evaluador(mercado, opcion, es_local):
             return None
         return lambda p, eq: sum(p["goles"]) > n and min(p["goles"]) > 0
 
+    # 03/11 (Marcos): «ambos equipos reciben tarjeta»
+    if mercado == "Both Teams Cards":
+        if o != "Yes":
+            return None
+        return lambda p, eq: (tarjetas_eq(p, eq) or 0) >= 1 and (tarjetas_eq(p, lado(p, eq)[4]) or 0) >= 1 \
+            if tarjetas_eq(p, eq) is not None else None
+
     # ---- resultado
     def res(p, eq):
         gf, gc = lado(p, eq)[:2]
@@ -573,6 +580,8 @@ def texto_pick(mercado, opcion, local, visit):
     if mercado in JUG_MERCADOS and " - " not in o:
         return JUG_MERCADOS[mercado][1].format(j=o, n=1)
     partido = f"{local}–{visit}"
+    if mercado == "Both Teams Cards":
+        return f"Ambos ven tarjeta en {partido}"
     n = mm = None
     if o.startswith(("Over ", "Under ")):
         n = o.split()[1].replace(".", ",")

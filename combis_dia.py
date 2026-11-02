@@ -154,6 +154,8 @@ def pool_partido(ex, hist, ap):
                      cuota=c, frecuencia=round(frec, 3), ventaja=round(frec - 1 / c, 3), detalle=det)
             pool.append(p)
     pool += tiros_jugadores(ex, hist, base, lok, vok)
+    if lok and vok:   # 03/11 (Marcos): lo que meten él y sus colegas, aunque la API no dé la cuota (cuota aproximada)
+        pool += estimados(ex, base, h_loc, h_vis, loc, vis)
     for p in P.picks_jugadores(ex, hist, base, frec_min=0.6):
         if p.get("campo") in ("tiros", "a_puerta"):
             continue   # los tiros van por tiros_jugadores (sin exigir que paguen de más)
@@ -226,7 +228,10 @@ def pool_partido(ex, hist, ap):
         if "Corner" in p["mercado"] and any("Bayern" in n for n in (loc["name"], vis["name"])):
             p["prob_aprendida"] = round(p["prob_aprendida"] * LECCION_SUAVE, 3)
     # 01/11 (Marcos): fuera lo que casi nunca sale (ambos marcan 47 %)
-    pool = [p for p in pool if not (p["mercado"] in EXCLUIDOS or (p["mercado"] == "Both Teams Score" and p["opcion"] == "Yes"))]
+    pool = [p for p in pool if p["mercado"] not in EXCLUIDOS and not tarjetas_altas(p)]
+    for p in pool:   # 03/11 (Marcos): «ambos marcan» solo junto a «ambos ven tarjeta» (como lo hacen ellos)
+        if p["mercado"] == "Both Teams Score" and p["opcion"] == "Yes":
+            p["solo_con_tarjetas"] = True
     # 01/11 (Marcos): cada mercado, corregido con lo que acierta DE VERDAD frente a lo que esperaba el bot
     cal = calibracion_mercados()
     for p in pool:
@@ -294,6 +299,61 @@ def pos_jugador(eq, pid, partidos):
     return None
 
 
+def suelto_no(p):
+    """03/11: lo que no va solo (ambos marcan, que solo va junto a ambos ven tarjeta)."""
+    return bool(p.get("solo_con_tarjetas"))
+
+
+def tarjetas_altas(p):
+    """03/11 (Marcos): «ambos reciben tarjeta en vez de tantas veces más de 4 tarjetas»: fuera las líneas de más de 3,5."""
+    if p["mercado"] != "Cards Over/Under" or not str(p["opcion"]).startswith("Over"):
+        return False
+    try:
+        return float(str(p["opcion"]).split()[-1]) > 3.5
+    except ValueError:
+        return False
+
+
+# 03/11 (Marcos y sus colegas): mercados de línea baja que salen casi siempre y que la API no siempre trae con cuota
+ESTIMADOS = [("Both Teams Cards", "Yes"), ("Home Corners Over/Under", "Over 2.5"), ("Away Corners Over/Under", "Over 2.5"),
+             ("Shots. Home Total", "Over 7.5"), ("Shots. Away Total", "Over 7.5"), ("Offsides Total", "Over 2.5"),
+             ("Offsides Home Total", "Over 0.5"), ("Offsides Away Total", "Over 0.5")]
+ESTIMADO_FREC = 0.72      # que se haya cumplido en el 72 % o más (los dos equipos juntos, y cada uno en el 50 %+)
+
+
+def estimados(ex, base, h_loc, h_vis, loc, vis):
+    """Picks de ESTIMADOS con cuota aproximada (la de bet365 si viene en los datos). Cuota aprox. = 1 / (prob · 1,06)
+    con prob = frecuencia · 0,95 (bet365 suele pagar algo menos que lo que sale de verdad). Marcados «estimada»."""
+    import picks as P
+    cuotas = ex.get("cuotas") or {}
+    salida = []
+    for m, o in ESTIMADOS:
+        fl, fv = P.evaluador(m, o, True), P.evaluador(m, o, False)
+        if not fl:
+            continue
+        a, na = P.frecuencia(fl, h_loc)
+        b, nb = P.frecuencia(fv, h_vis)
+        if na < P.MIN_PARTIDOS or nb < P.MIN_PARTIDOS or min(a / na, b / nb) < 0.5:
+            continue
+        frec = (a + b) / (na + nb)
+        if frec < ESTIMADO_FREC:
+            continue
+        real = next((float(c) for oo, c in cuotas.get(m, []) if oo == o), None)
+        cuota = real or round(1 / (min(0.92, frec * 0.95) * 1.06), 2)
+        if cuota < 1.15:
+            continue
+        eq = loc["name"] if "Home" in m else vis["name"] if "Away" in m else None
+        texto = {"Both Teams Cards": f"Ambos ven tarjeta en {loc['name']}–{vis['name']}",
+                 "Offsides Total": f"3+ fueras de juego en {loc['name']}–{vis['name']}"}.get(m) or (
+            f"{eq} hace 8+ tiros" if "Shots" in m else f"{eq} hace 3+ córners" if "Corners" in m
+            else f"{eq}: 1+ fuera de juego" if "Offsides" in m else P.texto_pick(m, o, loc["name"], vis["name"]))
+        salida.append(dict(base, mercado=m, opcion=o, tipo=P.tipo_de(m) if m != "Both Teams Cards" else "tarjetas",
+                           texto=texto, cuota=cuota, estimada=real is None,
+                           frecuencia=round(frec, 3), ventaja=round(frec - 1 / cuota, 3),
+                           detalle=f"{loc['name']} {a}/{na} · {vis['name']} {b}/{nb}"))
+    return salida
+
+
 EXCLUIDOS = ("Total Goals/Both Teams To Score", "Goalkeeper Saves")
 # 01/11: corrección por mercado con datos/registro_aciertos.json (picks del bot ya jugados). Con pocos picks pesa poco:
 # factor = 1 + (real/esperado − 1) · n / (n + 10), entre 0,60 y 1,15. Mercados con menos de 8 picks, sin tocar.
@@ -357,6 +417,10 @@ def familia(p):
     m = p["mercado"]
     if p.get("tipo") == "jugador" or p.get("jugador"):
         return f"jugador-{p.get('campo')}"
+    if m == "Both Teams Cards":   # 03/11: no es «tarjetas» (más de X): sale el 68 %
+        return "ambos-tarjeta"
+    if m in ("Home Corners Over/Under", "Away Corners Over/Under") and p.get("opcion") == "Over 2.5":
+        return "corners-bajo"     # 03/11: un equipo 3+ córners sale el 78 %
     if "Corner" in m:
         return "corners"
     if "Card" in m:
@@ -591,6 +655,9 @@ def coherente(comb):
     jug = [p.get("jugador") for p in comb if p.get("jugador")]
     if len(set(jug)) < len(jug):
         return False
+    if any(p.get("solo_con_tarjetas") or (p["mercado"] == "Both Teams Score" and p["opcion"] == "Yes") for p in comb) \
+            and not any(p["mercado"] == "Both Teams Cards" for p in comb):
+        return False
     return any(all(cumple(p, gl, gv) is not False for p in comb) for gl in range(7) for gv in range(7))
 
 
@@ -798,6 +865,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
     # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
     res["listas_europa"] = listas_europa(pools, dia) if dia_europeo else []
+    res["multi"] = combi_multi(pools, dia, dia_europeo)
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
     quita = {cp["partido_id"] for cp, *_ in res["estrella"] if cp.get("repite")}
     if quita:   # el partido estrella sustituye a su combi con escudos
@@ -818,7 +886,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
         for pool in pools:
-            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2
+            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2 and not suelto_no(p)
                   and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
             if ok:
                 mejores += ok[:cfg.get("por_partido", 1) + 1]   # 01/11: en la loca, las 3 mejores de cada partido
@@ -828,7 +896,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         if not r:   # 02/11: el lunes no salió la loca (con las probabilidades corregidas no llegaba): se afloja un poco
             mas = []
             for pool in pools:
-                ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI - 0.08 and usos[sel(p)] < 2
+                ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI - 0.08 and usos[sel(p)] < 2 and not suelto_no(p)
                       and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
                 mas += ok[:cfg.get("por_partido", 1) + 1]
             mas.sort(key=lambda p: -p["prob_aprendida"])
@@ -910,6 +978,42 @@ def ranking_top():
     return {e: i + 1 for i, e in enumerate((leer(DATOS / "top40.json", {}) or {}).get("equipos") or [])}
 
 
+MULTI = {"hora": (14, 30), "partidos": (6, 8), "por_partido": (1.40, 2.00), "prob_min": 0.45}
+
+
+def combi_multi(pools, dia, europeo=False):
+    """03/11 (Marcos, como las que hacen él y sus colegas): 6-8 partidos, 1 o 2 cosas de cada uno («Crear apuesta»
+    de entre 1,40 y 2,00 por partido), lo más probable de cada partido. Días europeos, sobre todo de esos partidos.
+    (picks, cuota, hora) o None."""
+    hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=MULTI["hora"][0], minute=MULTI["hora"][1])
+    por_partido = []
+    for pool in pools:
+        if not pool or datetime.fromisoformat(pool[0]["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=60):
+            continue
+        cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"]][:10]
+        mejor = None
+        for n in (1, 2):
+            for comb in itertools.combinations(cand, n):
+                if n == 1 and suelto_no(comb[0]):
+                    continue
+                if n == 2 and (not coherente(list(comb)) or familia(comb[0]) == familia(comb[1])):
+                    continue
+                c = math.prod(p["cuota"] for p in comb) * (factor_crear(list(comb)) if n == 2 else 1)
+                if not MULTI["por_partido"][0] <= c <= MULTI["por_partido"][1]:
+                    continue
+                pr = math.prod(p["prob_aprendida"] for p in comb)
+                if not mejor or pr > mejor[0]:
+                    mejor = (pr, list(comb), c)
+        if mejor:
+            por_partido.append((pool[0].get("liga_id") in EUROPA if europeo else False, *mejor))
+    por_partido.sort(key=lambda x: (not x[0], -x[1]))
+    elegidos = por_partido[:MULTI["partidos"][1]]
+    if len(elegidos) < MULTI["partidos"][0]:
+        return None
+    picks = sorted([p for _, _, l, _ in elegidos for p in l], key=lambda p: p["fecha"])
+    return picks, round(math.prod(c for *_, c in elegidos), 2), hora
+
+
 def listas_europa(pools, dia):
     """02/11 (Marcos): días europeos, 2-3 posts a distintas horas con 12-15 picks de esos partidos («coged los que más
     os gusten»). [(hora, picks)]. Cada lista, de partidos que empiezan 30 min o más después del post; sin repetir
@@ -919,7 +1023,8 @@ def listas_europa(pools, dia):
     for pool in pools:
         if not pool or pool[0].get("liga_id") not in EUROPA:
             continue
-        cands += [p for p in pool if p["prob_aprendida"] >= LISTAS_EUROPA["prob_min"] and familia(p) not in SIN_EN_ESCUDOS]
+        cands += [p for p in pool if p["prob_aprendida"] >= LISTAS_EUROPA["prob_min"] and familia(p) not in SIN_EN_ESCUDOS
+                  and not suelto_no(p)]
     cands.sort(key=lambda p: -p["prob_aprendida"])
     from collections import Counter
     usados, salida = Counter(), []
@@ -1010,7 +1115,7 @@ def pick_seguro(pools, dia):
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=SEGURO["hora"][0], minute=SEGURO["hora"][1])
     cand = [p for pool in pools for p in pool
             if SEGURO["cuota"][0] <= p["cuota"] <= SEGURO["cuota"][1] and familia(p).split("-")[0] in SEGURO["familias"]
-            and p["prob_aprendida"] >= SEGURO["prob_min"]
+            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada")
             and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     if not cand:
         return None
