@@ -550,6 +550,14 @@ CHOCAN_COMBINADO = ("Match Winner", "Double Chance", "To Win Either Half", "Both
                     "Total - Away", "Goals Over/Under")
 
 
+def lado_jugador(p):
+    """'local' o 'visitante' para un pick de jugador (por su equipo o por el mercado Home/Away)."""
+    if p.get("equipo"):
+        return "local" if p["equipo"] == p.get("local") else "visitante" if p["equipo"] == p.get("visitante") else None
+    m = p.get("mercado", "")
+    return "local" if m.startswith("Home ") else "visitante" if m.startswith("Away ") else None
+
+
 def coherente(comb):
     import picks as P
     from plantillas import cumple
@@ -570,6 +578,14 @@ def coherente(comb):
         return False
     if any({"local": "visitante", "visitante": "local"}[l] in marca for l in lados):
         return False
+    # 02/11 (Marcos, Atlético–Bayern: «Atlético gana o empata» con Kane y Olise 3+ tiros): no se apuesta a que un
+    # equipo no pierde y, a la vez, a que el rival ataca mucho (2 o más tiros de sus jugadores)
+    for l in lados:
+        rival = {"local": "visitante", "visitante": "local"}[l]
+        ataques = sum(1 for p in comb if p.get("campo") in ("tiros", "a_puerta")
+                      and (lado_jugador(p) == rival))
+        if ataques >= 2:
+            return False
     jug = [p.get("jugador") for p in comb if p.get("jugador")]
     if len(set(jug)) < len(jug):
         return False

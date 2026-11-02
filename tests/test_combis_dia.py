@@ -82,3 +82,14 @@ class SinLogica(unittest.TestCase):
         import combis_dia as C
         self.assertFalse(C.coherente([self.p("Double Chance", "Home/Draw"), self.p("Total - Away", "Over 0.5")]))
         self.assertTrue(C.coherente([self.p("Double Chance", "Home/Draw"), self.p("Total - Home", "Over 0.5")]))
+
+
+class NoContraElQueAtaca(unittest.TestCase):
+    def test_atletico_o_empate_con_tiros_del_bayern(self):
+        import combis_dia as C
+        b = {"partido_id": 1, "local": "Atletico Madrid", "visitante": "Bayern"}
+        dc = dict(b, mercado="Double Chance", opcion="Home/Draw")
+        kane = dict(b, mercado="Away Player Shots", opcion="Harry Kane - 3", tipo="jugador", campo="tiros", equipo="Bayern", jugador="Kane")
+        olise = dict(b, mercado="Away Player Shots", opcion="Michael Olise - 3", tipo="jugador", campo="tiros", equipo="Bayern", jugador="Olise")
+        self.assertFalse(C.coherente([dc, kane, olise]))
+        self.assertTrue(C.coherente([dc, kane]))
