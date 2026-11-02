@@ -754,8 +754,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 2,
-      "pendiente": 1,
-      "sin_datos": 3,
+      "pendiente": 0,
+      "sin_datos": 4,
       "no_jugo": 0,
       "sin_resolver": 4
     },
@@ -769,7 +769,7 @@
       {
         "id": "2026-11-02-pick-seguro",
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.5
       },
       {
@@ -802,6 +802,6 @@
       "rojo": 4,
       "total": 22
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 2 EN VERDE 📊\n\n❔ ✅ COMBI LOCAS | PREMIER · 6,20 · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀 · 2,45\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀 · 2,70\n❔ ✅ COMBI LOCAS | LALIGA · 3,98 · faltan datos\n❔ ✅ COMBI LOCAS | SEGUNDA · 3,99 · faltan datos\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 2 EN VERDE 📊\n\n❔ ✅ COMBI LOCAS | PREMIER · 6,20 · faltan datos\n❔ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · faltan datos\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀 · 2,45\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀 · 2,70\n❔ ✅ COMBI LOCAS | LALIGA · 3,98 · faltan datos\n❔ ✅ COMBI LOCAS | SEGUNDA · 3,99 · faltan datos\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
   }
 }
