@@ -809,5 +809,31 @@
       "total": 31
     },
     "texto": "📊 BALANCE DEL LUNES: 2 DE 7 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | PREMIER · 6,20\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x2,45 🍀 · 2,45\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,70! 🍀 · 2,70\n✅ ✅ COMBI LOCAS | LALIGA · 3,98\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,99\n❌ 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-03": {
+    "dia": "2026-11-03",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-03-combi-partido-1635662",
+        "titulo": "✅ COMBI LOCAS | CHAMPIONS",
+        "estado": "pendiente",
+        "cuota": 5.49
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 4
+    },
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 5,49 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
