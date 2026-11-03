@@ -2830,7 +2830,15 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-03-combi-tres-bis"
+    "verde_de": "2026-11-03-combi-tres-bis",
+    "enviado": "2026-11-03T23:16",
+    "mensaje_id": 269,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18179741986452557",
+      "instagram": "18108381073967037",
+      "instagram_story": "18154829563549204"
+    }
   },
   {
     "id": "2026-11-03-balance-auto",
@@ -2840,6 +2848,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-03T23:16",
+    "mensaje_id": 270,
+    "redes": {
+      "threads": "18127358362687503"
+    }
   }
 ]
