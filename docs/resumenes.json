@@ -812,14 +812,14 @@
   },
   "2026-11-03": {
     "dia": "2026-11-03",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -833,13 +833,19 @@
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
         "estado": "pendiente",
         "cuota": 1.67
+      },
+      {
+        "id": "2026-11-03-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀",
+        "estado": "pendiente",
+        "cuota": 1.81
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 18
+      "total": 19
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 5,49 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,67 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 5,49 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,67 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
