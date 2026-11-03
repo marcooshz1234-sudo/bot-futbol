@@ -2345,7 +2345,7 @@
   {
     "id": "2026-11-03-combi-partido-1635662-ter",
     "fecha": "2026-11-03T08:55",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FEYENOORD vs INTER ⭐\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.36]\n✅ FEYENOORD MARCA [x1.25]\n✅ ANDY DIOUF COMETE 1+ FALTAS [x1.40]\n✅ AMBOS VEN TARJETA [x1.26]\n✅ ANIS HADJ MOUSSA: 1+ TIROS A PUERTA [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 4,93\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FEYENOORD vs INTER ⭐\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.36]\n✅ FEYENOORD MARCA [x1.25]\n✅ HAKAN CALHANOGLU COMETE 1+ FALTAS [x1.33]\n✅ AMBOS VEN TARJETA [x1.26]\n✅ ANIS HADJ MOUSSA: 1+ TIROS A PUERTA [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 4,68\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2353,14 +2353,14 @@
     "sel": [
       "1635662|Away Player Shots|Nicolo Barella - 1",
       "1635662|Total - Home|Over 0.5",
-      "1635662|Player Fouls Committed|Andy Diouf - 1",
+      "1635662|Player Fouls Committed|Hakan Calhanoglu - 1",
       "1635662|Both Teams Cards|Yes",
       "1635662|Home Player Shots On Target Total|Anis Hadj Moussa - 1"
     ],
     "cuotas": [
       1.36,
       1.25,
-      1.4,
+      1.33,
       1.26,
       1.67
     ],
@@ -2383,7 +2383,8 @@
       "threads": "17947530729358510",
       "instagram": "17883348534629223",
       "instagram_story": "18106154666200776"
-    }
+    },
+    "revisado_alineaciones": "2026-11-03T20:35"
   },
   {
     "id": "2026-11-03-lista-europa-1",
