@@ -1695,12 +1695,6 @@
    },
    {
     "equipo": 895,
-    "jugador": "J. Addai",
-    "tipo": "Missing Fixture",
-    "motivo": "Off the roster"
-   },
-   {
-    "equipo": 895,
     "jugador": "A. Diao",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1782,12 +1776,6 @@
     "jugador": "J. Addai",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 895,
-    "jugador": "J. Addai",
-    "tipo": "Missing Fixture",
-    "motivo": "Off the roster"
    },
    {
     "equipo": 895,
@@ -2766,13 +2754,13 @@
    {
     "equipo": 94,
     "jugador": "E. Lepaul",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 94,
     "jugador": "B. Samba",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Thigh Injury"
    },
    {
@@ -2820,13 +2808,13 @@
    {
     "equipo": 94,
     "jugador": "E. Lepaul",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 94,
     "jugador": "B. Samba",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Thigh Injury"
    },
    {
@@ -3302,6 +3290,12 @@
     "motivo": "Knee Injury"
    },
    {
+    "equipo": 13976,
+    "jugador": "V. Simic",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
     "equipo": 759,
     "jugador": "A. Baertelsen",
     "tipo": "Missing Fixture",
@@ -3336,6 +3330,12 @@
     "jugador": "M. Roseth",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 13976,
+    "jugador": "V. Simic",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1635662": [
@@ -3679,6 +3679,6 @@
    }
   ]
  },
- "ultima": "2026-11-03T18:32:49.949012+01:00",
+ "ultima": "2026-11-03T19:06:24.923631+01:00",
  "avisados": []
 }
