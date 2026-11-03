@@ -205,6 +205,9 @@ def pool_partido(ex, hist, ap):
         g = G.prob_goles(p, hist, lam, loc["id"], vis["id"])
         if g:
             p["prob_aprendida"], p["prob_bet365"], p["prob_tipo"] = g["prob"], g["bet365"], g["tipo"]
+    # 03/11 (Marcos, «Feyenoord o empate» con el Inter favorito): «X gana o empata» solo si bet365 lo ve al 55 % o más
+    pool = [p for p in pool if not (p["mercado"] == "Double Chance" and p["opcion"] in ("Home/Draw", "Draw/Away")
+                                    and gana.get(p["opcion"].replace("/Draw", "").replace("Draw/", ""), 0) + gana.get("Draw", 0) < DOBLE_MIN)]
     # 28/10 (Marcos): «gana alguna de las dos partes» acertó 3 de 8: solo para el favorito claro de bet365
     pool = [p for p in pool if not (p["mercado"] == "To Win Either Half" and gana.get(p["opcion"], 0) < FAVORITO_MIN)]
     # 28/10: los tiros a puerta del partido acertaron 1 de 4: solo muy respaldados
@@ -387,6 +390,7 @@ def calibracion_mercados():
 
 FAVORITO_CLARO = 0.60        # 01/11: favorito claro de bet365 (lecciones de octubre)
 LECCION_SUAVE = 0.85         # 01/11: lecciones con pocos datos: bajan la confianza, no prohíben (revisar el 15/11)
+DOBLE_MIN = 0.55            # 03/11: «X o empate» solo si bet365 lo ve al 55 %+
 FAVORITO_MIN = 0.55          # probabilidad de ganar (bet365, sin margen) para «gana alguna de las dos partes»
 PROB_MIN_A_PUERTA = 0.70
 MAS_15 = {"prob_min": 0.80, "cada_una": 0.75, "max_dia": 1}   # 28/10 (Marcos): +1,5 solo uno al día y muy claro
