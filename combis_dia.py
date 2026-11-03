@@ -174,8 +174,7 @@ def pool_partido(ex, hist, ap):
     import contexto
     pos = contexto.posiciones(pa["league"]["id"], pa["fixture"]["date"], loc["id"], vis["id"])
     hl, hv = hist.get(loc["id"], []), hist.get(vis["id"], [])
-    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales() \
-        + list(ex.get("no_titulares") or [])
+    les = [l["jugador"] for l in lesiones_de(ex) if l.get("tipo") in BAJA] + bajas_manuales() + no_titulares(ex)
     lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
     fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
     pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
@@ -334,6 +333,22 @@ def fijisimo(p):
         if len(mins) == FIJISIMO[0] and min(mins) >= FIJISIMO[1]:
             return True
     return False
+
+
+def lesiones_de(ex):
+    """Lesiones de la API (las de datos/proximos y las refrescadas cada 30 min en datos/bajas_hoy.json)."""
+    from bot import DATOS
+    fid = str((ex.get("partido") or {}).get("fixture", {}).get("id"))
+    frescas = ((leer(DATOS / "bajas_hoy.json", {}) or {}).get("lesiones") or {}).get(fid) or []
+    return list(ex.get("lesiones") or []) + frescas
+
+
+def no_titulares(ex):
+    """Los que no están en el once cuando ya hay alineación (datos/alineaciones_espera.json)."""
+    from bot import DATOS
+    fid = str((ex.get("partido") or {}).get("fixture", {}).get("id"))
+    g = ((leer(DATOS / "alineaciones_espera.json", {}) or {}).get("xi") or {}).get(fid) or {}
+    return list(ex.get("no_titulares") or g.get("no_titulares") or [])
 
 
 def bajas_manuales():
@@ -991,8 +1006,7 @@ def jugadores_estrella(fid):
     loc, vis = pa["teams"]["home"], pa["teams"]["away"]
     cal = calibracion_mercados()
     # 03/11 (Marcos: «Bastoni está suspendido»): fuera los lesionados y sancionados que da la API
-    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales() \
-        + list(ex.get("no_titulares") or [])
+    fuera = [l["jugador"] for l in lesiones_de(ex) if l.get("tipo") in BAJA] + bajas_manuales() + no_titulares(ex)
     base = {"partido_id": fid, "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
             "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
             "local": loc["name"], "visitante": vis["name"]}

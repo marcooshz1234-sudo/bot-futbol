@@ -22,8 +22,9 @@ TIPOS = ("Missing Fixture", "Questionable")
 
 
 def baja(ex, jugador, manuales):
+    import combis_dia as C
     import picks as P
-    nombres = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in TIPOS] + manuales
+    nombres = [l["jugador"] for l in C.lesiones_de(ex) if l.get("tipo") in TIPOS] + manuales + C.no_titulares(ex)
     return next((n for n in nombres if P.mismo_jugador(jugador, n)), None)
 
 
@@ -67,12 +68,11 @@ def main():
             ini = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
             if not ahora <= ini <= ahora + VENTANA:
                 continue
-            try:
-                ex["lesiones"] = [{"equipo": l["team"]["id"], "jugador": l["player"]["name"],
-                                   "tipo": l["player"].get("type"), "motivo": l["player"].get("reason")}
-                                  for l in api.get("injuries", fixture=pa["fixture"]["id"]) or []]
-                ex["lesiones_hora"] = ahora.isoformat()
-                f.write_text(json.dumps(ex, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            try:   # 03/11: en su estado (datos/bajas_hoy.json), no en datos/proximos (el bucle no guarda esa carpeta)
+                est.setdefault("lesiones", {})[str(pa["fixture"]["id"])] = [
+                    {"equipo": l["team"]["id"], "jugador": l["player"]["name"],
+                     "tipo": l["player"].get("type"), "motivo": l["player"].get("reason")}
+                    for l in api.get("injuries", fixture=pa["fixture"]["id"]) or []]
                 n += 1
             except Exception as e:
                 print("bajas:", pa["fixture"]["id"], str(e)[:120])

@@ -51,6 +51,9 @@ def main():
         ini = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
         if not ini - DESDE <= ahora < ini:
             continue
+        guardada = (est.get("xi") or {}).get(str(fids[0]))
+        if guardada:
+            ex["xi"], ex["no_titulares"] = guardada["xi"], guardada["no_titulares"]
         c = est.setdefault("pedidas", {}).get(str(fids[0]))
         if c and ahora - datetime.fromisoformat(c) < CADA and not ex.get("xi"):
             continue
@@ -73,7 +76,9 @@ def main():
                     conocidos |= {j["nombre"] for j in (partido.get("jugadores") or {}).get(str(e["id"])) or []}
             ex["xi"], ex["banquillo"] = xi, banco
             ex["no_titulares"] = sorted(n for n in conocidos if not any(es_el(n, x) for x in xi))
-            (EXTRA / f"{fids[0]}.json").write_text(json.dumps(ex, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            # 03/11: en el estado (datos/alineaciones_espera.json), no en datos/proximos
+            est.setdefault("xi", {})[str(fids[0])] = {"xi": xi, "no_titulares": ex["no_titulares"]}
+            ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1), encoding="utf-8")
         # ¿algún jugador del post no es titular?
         import picks as P
         fuera = []
