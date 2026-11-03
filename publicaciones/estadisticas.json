@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 10:55",
+ "actualizado": "2026-11-03 11:05",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1451,
-   "hoy": 21,
+   "seguidores": 1453,
+   "hoy": 23,
    "serie": [
     1225,
     1281,
@@ -24,7 +24,7 @@
     1375,
     1407,
     1430,
-    1451
+    1453
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1694,
- "total_hoy": 28,
+ "total": 1696,
+ "total_hoy": 30,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "12:00",
   "dia": "2026-11-03",
-  "titulo": "Reto escalera · día 1/7 · x1,81"
+  "titulo": "Champions · 12 picks para hoy (1/3)"
  },
  "ayer": {
   "aciertos": 15,
@@ -138,29 +138,29 @@
   },
   "2026-11-03": {
    "instagram": 23,
-   "threads": 1451,
+   "threads": 1453,
    "facebook": 0,
    "telegram": 220
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 50,
+   "posts": 49,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
