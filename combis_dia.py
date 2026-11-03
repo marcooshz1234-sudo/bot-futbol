@@ -880,10 +880,30 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     res["listas_europa"] = listas_europa(pools, dia) if dia_europeo else []
     res["multi"] = combi_multi(pools, dia, dia_europeo)
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
-    quita = {cp["partido_id"] for cp, *_ in res["estrella"] if cp.get("repite")}
-    if quita:   # el partido estrella sustituye a su combi con escudos
-        res["partidos"] = [x for x in res["partidos"] if x[0]["partido_id"] not in quita]
-        res["noche"] = [x for x in res["noche"] if x[0]["partido_id"] not in quita]
+    # 03/11 (Marcos: «no puede ser que cancele la combi»): si el estrella usa las mismas cosas que la combi con
+    # escudos de ese partido, la de escudos se rehace con OTRAS cosas del partido; solo si no hay, no sale
+    rep = {cp["partido_id"]: cp for cp, *_ in res["estrella"] if cp.get("repite")}
+    if rep:
+        pool_de = {pool[0]["partido_id"]: pool for pool in pools}
+
+        def rehacer(lista):
+            out = []
+            for x in lista:
+                cp = x[0]
+                if cp["partido_id"] not in rep:
+                    out.append(x)
+                    continue
+                usadas = {(p["mercado"], p["opcion"]) for p in rep[cp["partido_id"]]["picks"]}
+                libres = [p for p in pool_de.get(cp["partido_id"], []) if (p["mercado"], p["opcion"]) not in usadas
+                          and familia(p) not in SIN_EN_ESCUDOS]
+                r = (mejor_combi(libres, (4, 5), (3.5, PARTIDO["cuota"][1]), PROB_MIN_RELAJADA)
+                     or mejor_combi(libres, (3, 3), (3.0, PARTIDO["cuota"][1]), PROB_MIN_RELAJADA))
+                if r:
+                    cp2 = dict(cp, picks=r[1])
+                    out.append((cp2, r[2], datos_tarjeta(cp2), x[3]) if len(x) == 4 else (cp2, r[2]) + tuple(x[2:]))
+            return out
+        res["partidos"] = rehacer(res["partidos"])
+        res["noche"] = rehacer(res["noche"])
         salida = res["partidos"]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
     res["seguro"] = pick_seguro(pools, dia)

@@ -2679,5 +2679,89 @@
       "liga": "Champions"
     },
     "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo"
+  },
+  {
+    "id": "2026-11-03-combi-tres-bis",
+    "fecha": "2026-11-03T15:10",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,54! 🍀\n\n🇩🇪 Harry Kane: 3+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇳🇴 3+ fueras de juego en Bodo/Glimt–Lille\n\n🎯 CUOTA 2,54 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635622|Away Player Shots|Harry Kane - 3",
+      "1635627|Away Player Shots|Johan Manzambi - 2",
+      "1635640|Offsides Total|Over 2.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.53,
+      1.22
+    ],
+    "forzar": true,
+    "nota": "03/11 15:02: rehecho sin Olise; Marcos borró el anterior"
+  },
+  {
+    "id": "2026-11-03-combi-multi-bis",
+    "fecha": "2026-11-03T15:40",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x20,28! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol en la 1ª parte del Portsmouth–Swansea\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nicolas Jackson: 2+ tiros\n🇩🇪 Joshua Kimmich: 1+ tiros\n🇫🇷 Maxima Goffi comete 1+ faltas\n🇳🇱 3+ fueras de juego en Feyenoord–Inter\n🇳🇱 Anis Hadj Moussa: 2+ tiros\n🇸🇰 Slovan Bratislava marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United hace más tiros\n\n⚽ 1 o 2 cosas de cada partido, de las que más salen ✅ (cuota aprox.)\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1563242|Goals Over/Under First Half|Over 0.5",
+      "1635627|Away Player Shots|Nicolas Jackson - 2",
+      "1635622|Away Player Shots|Joshua Kimmich - 1",
+      "1635640|Player Fouls Committed|Maxima Goffi - 1",
+      "1635662|Offsides Total|Over 2.5",
+      "1635662|Home Player Shots|Anis Hadj Moussa - 2",
+      "1635677|Total - Away|Over 0.5",
+      "1635695|Shots.1x2|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.67,
+      1.62,
+      1.19,
+      1.33,
+      1.44,
+      1.73
+    ],
+    "forzar": true,
+    "nota": "03/11 15:02: rehecho sin Olise; Marcos borró el anterior"
+  },
+  {
+    "id": "2026-11-03-combi-partido-1635622-bis",
+    "fecha": "2026-11-03T20:00",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ ATLETICO MADRID vs BAYERN MÜNCHEN ⭐\n\n🎯 JULIAN ALVAREZ: 2+ TIROS [x1.28]\n✅ BAYERN MÜNCHEN: 1+ FUERA DE JUEGO [x1.17]\n✅ GIULIANO SIMEONE COMETE 1+ FALTAS [x1.36]\n✅ ATLETICO MADRID HACE 3+ CÓRNERS [x1.24]\n✅ ATLETICO MADRID O EMPATE [x1.57]\n\n🔥 Resultado probable: 1-1 | 2-2 | 2-1\n💥 Cuota total aprox.: 3,87\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1635622|Home Player Shots|Julian Alvarez - 2",
+      "1635622|Offsides Away Total|Over 0.5",
+      "1635622|Player Fouls Committed|Giuliano Simeone - 1",
+      "1635622|Home Corners Over/Under|Over 2.5",
+      "1635622|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.28,
+      1.17,
+      1.36,
+      1.24,
+      1.57
+    ],
+    "tarjeta": {
+      "local": "Atletico Madrid",
+      "visitante": "Bayern München",
+      "id_l": 530,
+      "id_v": 157,
+      "logo_l": "https://media.api-sports.io/football/teams/530.png",
+      "logo_v": "https://media.api-sports.io/football/teams/157.png",
+      "fecha": "2026-11-03T21:00",
+      "liga": "Champions"
+    },
+    "nota": "03/11 15:02: escudos Atlético–Bayern con cosas distintas al estrella (Marcos no quería que se cancelara)"
   }
 ]

@@ -111,6 +111,8 @@ def quitar_patas(p, indices, cuotas):
     if len(quedan) < 2:
         return "cancelar"
     sel = [p["sel"][k] for k in quedan]
+    if p.get("cuotas") and len(p["cuotas"]) == len(p["sel"]):   # 03/11: las cuotas del propio post, si no están en picks.json
+        cuotas = dict({s: c for s, c in zip(p["sel"], p["cuotas"]) if c}, **cuotas)
     if any(s not in cuotas for s in sel):
         return None
     import combis_dia   # 27/10: con el recorte de «Crear apuesta» si quedan patas del mismo partido

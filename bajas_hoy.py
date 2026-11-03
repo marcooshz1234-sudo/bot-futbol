@@ -27,6 +27,28 @@ def baja(ex, jugador, manuales):
     return next((n for n in nombres if P.mismo_jugador(jugador, n)), None)
 
 
+def rehacer(p, manuales):
+    """El mismo post rehecho por el bot ahora (con las bajas ya quitadas); None si no sale o sigue con alguna baja."""
+    import picks as P
+    import plantillas
+    import re
+    dia = p["id"][:10]
+    base = re.sub(r"-(bis|ter|2)$", "", p["id"])   # los rehechos a mano llevan -bis / -ter
+    try:
+        d = ((leer(DATOS / "picks.json") or {}).get("dias") or {}).get(dia, {})
+        nuevo = next((x for x in plantillas.posts_del_dia(dia, d) if x["id"] == base), None)
+    except Exception as e:
+        print("bajas: no se pudo rehacer", p["id"], str(e)[:120])
+        return None
+    if not nuevo or not nuevo.get("sel"):
+        return None
+    for s in nuevo["sel"]:
+        fid, m, o = s.split("|", 2)
+        if m in P.JUG_MERCADOS and baja(leer(EXTRA / f"{fid}.json") or {}, o.rsplit(" - ", 1)[0], manuales):
+            return None
+    return dict(nuevo, id=p["id"], fecha=p["fecha"], rehecho_bajas=True, forzar=p.get("forzar", False))
+
+
 def main():
     import picks as P
     from alineaciones_posts import cuotas_sel, dm, quitar_patas, rehacer_imagen
@@ -61,7 +83,7 @@ def main():
     avisados = set(est.get("avisados", []))
     control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
     enviados = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
-    cancelar = []
+    cancelar, rehechos = [], []
     en_cola = {p["id"] for p in leer(RAIZ / "publicaciones" / "cola.json", []) or []}
     for nombre in ("auto.json", "cola.json"):
         ruta = RAIZ / "publicaciones" / nombre
@@ -101,6 +123,15 @@ def main():
                 dm(f"🚑 Bajas: «{titulo}» ({p['fecha'][11:16]}) ya está publicado y lleva a {nombres}, que está de baja "
                    "(lesión, sanción o duda). bet365 anula esa pata si no juega. Si quieres, bórralo y lo rehago.")
                 continue
+            # 03/11 (Marcos: «no puede ser que por sacar a Olise cancele la combi»): primero se rehace el post entero
+            # con lo que el bot elegiría ahora (ya sin las bajas), a la misma hora; solo si no se puede, se quita la pata
+            if p.get("origen") in ("analista", "bot", None):
+                nuevo = rehacer(p, manuales)
+                if nuevo:
+                    rehechos.append(nuevo)
+                    dm(f"🚑 Bajas: «{titulo}» ({p['fecha'][11:16]}) llevaba a {nombres}, que está de baja. Lo he rehecho "
+                       f"sin él, a la misma hora. Así sale:\n\n{nuevo['texto']}")
+                    continue
             r = quitar_patas(p, {k for k, _ in fuera}, cuotas_sel())
             if r == "cancelar":
                 cancelar.append(p["id"])
@@ -116,6 +147,13 @@ def main():
                 dm(f"🚑 Bajas: he quitado a {nombres} de «{titulo}» ({p['fecha'][11:16]}): está de baja. Así sale:\n\n{p['texto']}")
         if cambio:
             ruta.write_text(json.dumps(lista, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if rehechos:   # van a la cola con el mismo id (la cola manda sobre auto.json)
+        cola = leer(RAIZ / "publicaciones" / "cola.json", []) or []
+        ids = {x["id"] for x in rehechos}
+        cola = [x for x in cola if x["id"] not in ids] + rehechos
+        (RAIZ / "publicaciones" / "cola.json").write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        for x in rehechos:
+            rehacer_imagen(x)
     if cancelar:
         control.setdefault("cancelados", []).extend(x for x in cancelar if x not in control["cancelados"])
         (RAIZ / "publicaciones" / "control.json").write_text(json.dumps(control, ensure_ascii=False, indent=1), encoding="utf-8")
