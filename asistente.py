@@ -264,6 +264,34 @@ class Asistente:
         c = self.control()
         ahora = datetime.now(MADRID)
         cambios = False
+        # 03/11 (Marcos: «el bot no para de mandarme mensajes»): si salen varios a la vez, UN solo mensaje con todos
+        juntos = [p for p in self.programados()
+                  if not (p.get("enviado") or p.get("caducada") or p["id"] in c["avisados"] or p["id"] in c["cancelados"])
+                  and timedelta(0) < datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) - ahora <= AVISO_ANTES]
+        if len(juntos) >= 2:
+            partes, botones = [], []
+            for n, p in enumerate(juntos, 1):
+                texto = c["textos"].get(p["id"], p["texto"])
+                try:
+                    from revisor import veredicto
+                    av = veredicto(p)
+                except Exception as e:
+                    print("veredicto:", str(e)[:120])
+                    av = None
+                nota = "" if av is None else "🟢 Nada raro" if not av else "⚠️ " + " · ".join(av[:3])
+                partes.append(f"{n}) {p['fecha'][11:16]}\n{texto.strip()}\n{nota}".rstrip())
+                botones.append([(f"✅ {n}", f"ok|{p['id']}"), (f"✏️ {n}", f"cambiar|{p['id']}"), (f"❌ {n}", f"cancelar|{p['id']}")])
+                c["avisados"].append(p["id"])
+            cab = f"📝 Salen {len(juntos)} posts en la próxima hora:\n\n"
+            texto = cab + "\n\n— — —\n\n".join(partes)
+            if len(texto) > 4000:   # muy largo: solo los títulos
+                texto = cab + "\n".join(f"{n}) {p['fecha'][11:16]} · {c['textos'].get(p['id'], p['texto']).strip().splitlines()[0][:70]}"
+                                          for n, p in enumerate(juntos, 1))
+            self.enviar(texto, botones)
+            c["avisados"] = c["avisados"][-200:]
+            escribir(CONTROL, c)
+            guardar("avisos enviados")
+            return
         for p in self.programados():
             if p.get("enviado") or p.get("caducada") or p["id"] in c["avisados"] or p["id"] in c["cancelados"]:
                 continue

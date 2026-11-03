@@ -125,6 +125,7 @@ def fijar(tok, est):
 def partidos_grandes(est, ahora):
     picks = leer(DATOS / "picks.json", {}) or {}
     hechos = set(est.get("grandes", []))
+    bloques = []   # 03/11 (Marcos: demasiados mensajes): todos los partidos en UN mensaje
     for d in (picks.get("dias") or {}).values():
         por_partido = {}
         for p in d.get("picks", []):
@@ -141,9 +142,9 @@ def partidos_grandes(est, ahora):
             hechos.add(str(pid))
             top = sorted(lista, key=lambda p: -(p.get("prob_aprendida") or p["frecuencia"]))[:3]
             datos = "\n".join(f"• {p['texto']}: {p.get('detalle', '')}".rstrip(": ") for p in top)
-            dm(f"⚽ {x['local']}–{x['visitante']} a las {inicio:%H:%M}. Datos para responder en los posts de cuentas "
-               f"grandes de fútbol que hablen del partido (busca el partido en Threads y responde en los que "
-               f"tengan muchas respuestas):\n\n{datos}\n\nUn dato concreto y corto funciona mejor que una opinión.")
+            bloques.append(f"⚽ {x['local']}–{x['visitante']} ({inicio:%H:%M})\n{datos}")
+    if bloques:
+        dm("Datos para responder en Threads a cuentas grandes que hablen de estos partidos:\n\n" + "\n\n".join(bloques))
     est["grandes"] = sorted(hechos)[-300:]
 
 
