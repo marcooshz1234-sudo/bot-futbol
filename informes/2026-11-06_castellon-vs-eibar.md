@@ -1,7 +1,7 @@
 # Castellón – Eibar
 **Segunda División** · Regular Season - 13 · 06/11/2026 20:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_

@@ -1,28 +1,15 @@
 # Picks del Analista
 
-_Generado el 2026-11-03 14:08 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-03 20:00 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 03/11
 
-**🔒 Combi segura · cuota 1,66**
-- QPR o empate (1,28) · QPR 7/10 · Burnley 9/10
-- Alex Grimaldo: 1+ tiros (1,30) · Alex Grimaldo 10/10
-
-**💥 Combi cuota 3-4 · cuota 2,91**
-- Nicolo Barella: 1+ tiros (1,36) · Nicolo Barella 9/10
-- Bryan Mbeumo: 1+ tiros a puerta (1,40) · Bryan Mbeumo 9/10
-- Birmingham gana alguna de las dos partes (1,53) · Birmingham 8/10 · Millwall 7/10
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | QPR o empate | resultado | 1.28 | 80% | QPR 7/10 · Burnley 9/10 |
 | 21:00 | Alex Grimaldo: 1+ tiros | jugador | 1.30 | 100% | Alex Grimaldo 10/10 |
-| 21:00 | Nicolo Barella: 1+ tiros | jugador | 1.36 | 90% | Nicolo Barella 9/10 |
+| 21:00 | Julian Alvarez: 1+ tiros a puerta | jugador | 1.36 | 80% | Julian Alvarez 4/5 |
 | 21:00 | Bryan Mbeumo: 1+ tiros a puerta | jugador | 1.40 | 90% | Bryan Mbeumo 9/10 |
-| 21:00 | Julian Alvarez: 1+ tiros a puerta | jugador | 1.40 | 80% | Julian Alvarez 4/5 |
-| 21:00 | Birmingham gana alguna de las dos partes | resultado | 1.53 | 75% | Birmingham 8/10 · Millwall 7/10 |
-| 21:00 | Benjamin Andre comete 1+ faltas | jugador | 1.28 | 100% | Benjamin Andre 9/9 |
-| 21:00 | Birmingham ve más de 1,5 tarjetas | tarjetas | 1.80 | 80% | Birmingham 9/10 · Millwall (en contra) 7/10 |
+| 21:00 | Birmingham gana alguna de las dos partes | resultado | 1.50 | 75% | Birmingham 8/10 · Millwall 7/10 |
 | 21:00 | Gjivai Zechiel comete 1+ faltas | jugador | 1.36 | 80% | Gjivai Zechiel 8/10 |
 | 21:00 | Maxima Goffi comete 1+ faltas | jugador | 1.62 | 80% | Maxima Goffi 4/5 |
 | 21:00 | Givairo Read comete 1+ faltas | jugador | 1.50 | 80% | Givairo Read 8/10 |
@@ -34,25 +21,23 @@ _Generado el 2026-11-03 14:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Felix Nmecha comete 1+ faltas (1,30) · Felix Nmecha 8/9
 - Matteo Guendouzi comete 1+ faltas (1,30) · Matteo Guendouzi 7/8
 
-**🤪 Combi loca · cuota 9,69**
-- Archie Brown comete 1+ faltas (1,30) · Archie Brown 6/7
-- Gana el Como (2,20) · Lens 6/10 · Como 7/10
-- Jason Knight comete 1+ faltas (1,36) · Jason Knight 9/10
-- West Ham gana alguna de las dos partes (1,44) · Cardiff 7/10 · West Ham 8/10
+**💥 Combi cuota 3-4 · cuota 3,24**
+- Saud Abdulhamid comete 1+ faltas (1,30) · Saud Abdulhamid 4/5
 - Más de 9,5 córners en RB Leipzig–Manchester City (1,73) · RB Leipzig 7/10 · Manchester City 8/10
+- West Ham gana alguna de las dos partes (1,44) · Cardiff 7/10 · West Ham 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 21:00 | Felix Nmecha comete 1+ faltas | jugador | 1.30 | 89% | Felix Nmecha 8/9 |
 | 18:45 | Matteo Guendouzi comete 1+ faltas | jugador | 1.30 | 88% | Matteo Guendouzi 7/8 |
 | 18:45 | Archie Brown comete 1+ faltas | jugador | 1.30 | 86% | Archie Brown 6/7 |
-| 21:00 | Gana el Como | resultado | 2.20 | 65% | Lens 6/10 · Como 7/10 |
 | 21:00 | Saud Abdulhamid comete 1+ faltas | jugador | 1.30 | 80% | Saud Abdulhamid 4/5 |
 | 21:00 | Jason Knight comete 1+ faltas | jugador | 1.36 | 90% | Jason Knight 9/10 |
 | 18:45 | Ngolo Kante comete 1+ faltas | jugador | 1.36 | 83% | Ngolo Kante 5/6 |
 | 21:00 | Lens ve más de 1,5 tarjetas | tarjetas | 1.57 | 75% | Lens 7/10 · Como (en contra) 8/10 |
-| 20:45 | West Ham gana alguna de las dos partes | resultado | 1.44 | 75% | Cardiff 7/10 · West Ham 8/10 |
+| 21:00 | Gana el Como | resultado | 2.20 | 65% | Lens 6/10 · Como 7/10 |
 | 21:00 | Más de 9,5 córners en RB Leipzig–Manchester City | corners | 1.73 | 75% | RB Leipzig 7/10 · Manchester City 8/10 |
+| 20:45 | West Ham gana alguna de las dos partes | resultado | 1.44 | 75% | Cardiff 7/10 · West Ham 8/10 |
 
 ## Jueves 05/11
 
@@ -60,13 +45,11 @@ _Generado el 2026-11-03 14:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Más de 1,5 goles en AZ Alkmaar–Juventus (1,25) · AZ Alkmaar 7/10 · Juventus 10/10
 - Camilo Duran: 1+ tiros a puerta (1,40) · Camilo Duran 4/5
 
-**🤪 Combi loca · cuota 8,14**
+**💥 Combi cuota 3-4 · cuota 3,47**
 - Más de 1,5 goles en Mjallby AIF–Borac Banja Luka (1,33) · Mjallby AIF 6/8 · Borac Banja Luka 8/10
 - Evanilson comete 1+ faltas (1,30) · Evanilson 9/10
-- Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split (1,67) · Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7
-- Timothy Weah comete 1+ faltas (1,28) · Timothy Weah 8/10
-- Beşiktaş gana alguna de las dos partes (1,62) · Celtic 4/5 · Beşiktaş 8/9
-- Dion Beljo comete 1+ faltas (1,36) · Dion Beljo 5/6
+- Dion Beljo comete 1+ faltas (1,28) · Dion Beljo 5/6
+- Beşiktaş gana alguna de las dos partes (1,57) · Celtic 4/5 · Beşiktaş 8/9
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -75,10 +58,10 @@ _Generado el 2026-11-03 14:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.40 | 80% | Camilo Duran 4/5 |
 | 18:45 | Evanilson comete 1+ faltas | jugador | 1.30 | 90% | Evanilson 9/10 |
 | 18:45 | James Hill comete 1+ faltas | jugador | 1.28 | 80% | James Hill 8/10 |
+| 21:00 | Dion Beljo comete 1+ faltas | jugador | 1.28 | 83% | Dion Beljo 5/6 |
 | 18:45 | Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split | corners | 1.67 | 81% | Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7 |
 | 21:00 | Timothy Weah comete 1+ faltas | jugador | 1.28 | 80% | Timothy Weah 8/10 |
-| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.62 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
-| 21:00 | Dion Beljo comete 1+ faltas | jugador | 1.36 | 83% | Dion Beljo 5/6 |
+| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.57 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
 | 18:45 | Koki Machida comete 1+ faltas | jugador | 1.28 | 86% | Koki Machida 6/7 |
 | 21:00 | Miguel Gutierrez comete 1+ faltas | jugador | 1.57 | 80% | Miguel Gutierrez 8/10 |
 | 21:00 | Beşiktaş o empate | resultado | 1.36 | 86% | Celtic 4/5 · Beşiktaş 8/9 |

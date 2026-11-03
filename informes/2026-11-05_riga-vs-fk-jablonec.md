@@ -1,10 +1,10 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -12,9 +12,10 @@ _Actualizadas: 03/11 08:15_
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
+    - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
@@ -35,12 +36,12 @@ _Actualizadas: 03/11 08:15_
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.73**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
@@ -48,7 +49,7 @@ _Actualizadas: 03/11 08:15_
     - 4,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Away Player Shots On Target Total:** Martin Cedidla **13.00**  ·  Filip Zorvan **41.00**
-- **Anytime Goal Scorer:** Antonijs Cernomordijs **11.00**  ·  Raivis Jurkovskis **11.00**  ·  Maksims Tonisevs **11.00**  ·  Orlando Galo **3.75**  ·  David Nykrin **13.00**  ·  Vakhtang Tchanturishvili **5.00**  ·  Abdulrahman Taiwo **3.50**  ·  Ahmed Ankrah **11.00**  ·  Iago Siqueira **3.50**  ·  Meissa Diop **6.00**  ·  Karl Gameni Wassom **9.00**  ·  Baba Musah **13.00**  ·  Coli Saco **11.00**  ·  Evzen Maly **15.00**  ·  Lamin Jawo **3.25**  ·  Saidou Alioum **6.00**  ·  Dusan Pavlovic **13.00**  ·  Junior Reginaldo **2.75**  ·  Moreira Pedrinho **4.75**  ·  Godinho Paulo **8.00**  ·  Raki Aouani **4.75**  ·  Martins Caio **3.25**  ·  Adam Kubat **7.50**  ·  Samuel Pedro **3.10**  ·  Dominik Holly **6.00**  ·  Jan Chramosta **3.50**  ·  Matej Polidar **6.50**  ·  Martin Cedidla **8.00**  ·  Daniel Soucek **13.00**  ·  Sebastian Nebyla **8.00**  ·  Jan Suchan **4.00**  ·  Nemanja Tekijaski **13.00**  ·  Jiri Slama **9.00**  ·  Filip Zorvan **7.50**  ·  Richard Sedlacek **7.50**  ·  Muhammed Badamosi **2.60**  ·  Garang Kuol **4.00**  ·  Salah Oulad M'Hand **4.00**  ·  Antonin Rusek **3.00**  ·  Nelson Okeke **6.50**  ·  Filip Novak **11.00**
+- **Anytime Goal Scorer:** Antonijs Cernomordijs **11.00**  ·  Raivis Jurkovskis **11.00**  ·  Maksims Tonisevs **11.00**  ·  Orlando Galo **3.75**  ·  David Nykrin **13.00**  ·  Vakhtang Tchanturishvili **5.00**  ·  Abdulrahman Taiwo **3.50**  ·  Ahmed Ankrah **11.00**  ·  Iago Siqueira **3.50**  ·  Meissa Diop **6.00**  ·  Karl Gameni Wassom **9.00**  ·  Baba Musah **13.00**  ·  Coli Saco **11.00**  ·  Evzen Maly **15.00**  ·  Lamin Jawo **3.25**  ·  Saidou Alioum **6.00**  ·  Dusan Pavlovic **13.00**  ·  Junior Reginaldo **2.75**  ·  Moreira Pedrinho **4.75**  ·  Godinho Paulo **8.00**  ·  Raki Aouani **4.75**  ·  Martins Caio **3.25**  ·  Adam Kubat **8.00**  ·  Samuel Pedro **3.10**  ·  Dominik Holly **6.00**  ·  Jan Chramosta **3.50**  ·  Matej Polidar **6.50**  ·  Martin Cedidla **8.00**  ·  Daniel Soucek **13.00**  ·  Sebastian Nebyla **8.00**  ·  Jan Suchan **4.33**  ·  Nemanja Tekijaski **13.00**  ·  Jiri Slama **9.00**  ·  Filip Zorvan **8.00**  ·  Richard Sedlacek **8.00**  ·  Muhammed Badamosi **2.60**  ·  Garang Kuol **4.33**  ·  Salah Oulad M'Hand **4.00**  ·  Antonin Rusek **2.88**  ·  Nelson Okeke **6.50**  ·  Filip Novak **11.00**
 
 ## Estadísticas de equipo
 | | Riga (total) | Riga en casa | FK Jablonec (total) | FK Jablonec fuera |
@@ -193,10 +194,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 53% | 46% | 50% | 2.00 | -1% |
 | Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
+| Goles más/menos: Más de 2.5 | 45% | 50% | 47% | 1.90 | -10% |
 | Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
+| Goles más/menos: Menos de 2.5 | 55% | 50% | 53% | 1.90 | -0% |
 | Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |

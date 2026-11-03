@@ -1,10 +1,10 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **1.20**  ·  X **6.25**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **4.33**

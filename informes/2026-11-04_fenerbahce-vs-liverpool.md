@@ -1,58 +1,58 @@
 # Fenerbahçe – Liverpool
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Chobani Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:14_
+_Actualizadas: 03/11 19:58_
 
-- **1X2:** 1 **5.50**  ·  X **4.75**  ·  2 **1.50**
+- **1X2:** 1 **5.75**  ·  X **5.00**  ·  2 **1.48**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.18**  ·  X2 **1.14**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.44** · menos **2.75**
-    - 3,5: más **2.20** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.28**
-    - 5,5: más **6.50** · menos **1.11**
-    - 6,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.50** · menos **1.18**
-    - 4,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **1.80** · menos **2.00**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.67** · menos **2.10**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.62**  ·  2 **1.95**
+    - 3,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.75**  ·  2 **1.91**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **2.75**  ·  2 **1.28**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.00**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.25**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **1.91**
 - **Win Both Halves:** 1 **21.00**  ·  2 **3.50**
-- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.75**  ·  Home/No **13.00**  ·  Draw/No **21.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.40**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **2.50**  ·  Home/No **13.00**  ·  Draw/No **23.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.75**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 5,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 - **Home Team Total Cards:**
     - 2,5: más **2.20** · menos **1.62**
 - **Away Team Total Cards:**
@@ -64,25 +64,26 @@ _Actualizadas: 03/11 08:14_
 - **Total Shots:**
     - 26,5: más **1.80** · menos **1.91**
     - 28,5: más **1.83** · menos **1.83**
+    - 29,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **4.33**  ·  X **17.00**  ·  2 **1.20**
 - **Offsides Total:**
-    - 4,5: más **1.83** · menos **1.83**
+    - 4,5: más **1.80** · menos **1.91**
 - **Offsides Home Total:**
     - 2,5: más **1.57** · menos **2.25**
 - **Offsides Away Total:**
     - 1,5: más **2.00** · menos **1.73**
 - **Home Player Shots On Target Total:** Kojo Oppong - 1 **8.00**  ·  Kerem Akturkoglu - 1 **1.91**  ·  Romelu Lukaku - 1 **1.67**  ·  Vedat Muriqi - 1 **1.57**  ·  Nene Dorgeles - 1 **1.91**  ·  Oguz Aydin - 1 **2.20**  ·  Irfan Kahveci - 1 **2.10**  ·  Mert Hakan Yandas - 1 **2.20**  ·  Matteo Guendouzi - 1 **5.00**  ·  Bartug Elmaz - 1 **2.62**  ·  Ismail Yuksek - 1 **3.75**  ·  Ngolo Kante - 1 **7.00**  ·  Archie Brown - 1 **4.00**  ·  Nelson Semedo - 1 **8.00**  ·  Munir Mercan - 1 **7.00**  ·  Mert Muldur - 1 **7.00**  ·  Milan Skriniar - 1 **7.00**  ·  Mason Greenwood - 2 **2.62**  ·  Kerem Akturkoglu - 2 **6.00**  ·  Romelu Lukaku - 2 **4.33**  ·  Vedat Muriqi - 2 **3.75**  ·  Nene Dorgeles - 2 **6.00**  ·  Oguz Aydin - 2 **8.00**  ·  Irfan Kahveci - 2 **7.00**  ·  Mert Hakan Yandas - 2 **8.00**  ·  Bartug Elmaz - 2 **11.00**  ·  Ismail Yuksek - 2 **21.00**  ·  Archie Brown - 2 **21.00**  ·  Mason Greenwood - 3 **7.00**  ·  Kerem Akturkoglu - 3 **21.00**  ·  Romelu Lukaku - 3 **15.00**  ·  Vedat Muriqi - 3 **11.00**  ·  Nene Dorgeles - 3 **21.00**  ·  Irfan Kahveci - 3 **21.00**  ·  Mert Hakan Yandas - 3 **21.00**  ·  Mason Greenwood - 4 **19.00**  ·  Mason Greenwood - 1 **1.36**  ·  Yigit Efe Demir - 1 **7.00**  ·  Ognjen Mimovic - 1 **6.50**
-- **Away Player Shots On Target Total:** Bradley Barcola **23.00**  ·  Milan Skriniar **19.00**  ·  Matteo Guendouzi **34.00**  ·  Lewis Koumas **8.00**  ·  Konstantinos Tsimikas **67.00**  ·  Luke Chambers **34.00**  ·  Kerem Akturkoglu **34.00**  ·  Irfan Kahveci **34.00**  ·  Ismail Yuksek **23.00**  ·  Mert Muldur **34.00**  ·  Yigit Efe Demir **29.00**  ·  Mason Greenwood **26.00**  ·  Nene Dorgeles **15.00**  ·  Archie Brown **26.00**  ·  Romelu Lukaku **9.00**  ·  Ronald Araujo **10.00**  ·  Vedat Muriqi **7.50**  ·  Oguz Aydin **23.00**  ·  Mert Hakan Yandas **41.00**  ·  Munir Mercan **101.00**  ·  Bartug Elmaz **81.00**  ·  Kojo Oppong **23.00**  ·  Ngolo Kante **81.00**  ·  Ognjen Mimovic **67.00**  ·  Alexis Mac Allister **19.00**  ·  Cody Gakpo **12.00**  ·  Dominik Szoboszlai **34.00**  ·  Joe Gomez **19.00**  ·  Ryan Gravenberch **51.00**  ·  Virgil van Dijk **10.00**  ·  Milos Kerkez **67.00**  ·  Alexander Isak **8.00**  ·  Nelson Semedo **81.00**  ·  Florian Wirtz **29.00**  ·  Trey Nyoni **19.00**  ·  James McConnell **23.00**  ·  Victor Munoz **34.00**  ·  Jayden Danns **8.50**  ·  Rio Ngumoha **15.00**  ·  Jeremy Jacquet **13.00**
+- **Away Player Shots On Target Total:** Bradley Barcola **21.00**  ·  Milan Skriniar **17.00**  ·  Matteo Guendouzi **34.00**  ·  Lewis Koumas **7.50**  ·  Konstantinos Tsimikas **67.00**  ·  Luke Chambers **34.00**  ·  Kerem Akturkoglu **34.00**  ·  Irfan Kahveci **34.00**  ·  Ismail Yuksek **23.00**  ·  Mert Muldur **34.00**  ·  Yigit Efe Demir **29.00**  ·  Mason Greenwood **23.00**  ·  Nene Dorgeles **15.00**  ·  Archie Brown **26.00**  ·  Romelu Lukaku **8.50**  ·  Ronald Araujo **10.00**  ·  Vedat Muriqi **7.00**  ·  Oguz Aydin **23.00**  ·  Mert Hakan Yandas **41.00**  ·  Munir Mercan **101.00**  ·  Bartug Elmaz **67.00**  ·  Kojo Oppong **21.00**  ·  Ngolo Kante **81.00**  ·  Ognjen Mimovic **67.00**  ·  Alexis Mac Allister **19.00**  ·  Cody Gakpo **12.00**  ·  Dominik Szoboszlai **34.00**  ·  Joe Gomez **19.00**  ·  Ryan Gravenberch **51.00**  ·  Virgil van Dijk **8.50**  ·  Milos Kerkez **67.00**  ·  Alexander Isak **7.00**  ·  Nelson Semedo **81.00**  ·  Florian Wirtz **26.00**  ·  Trey Nyoni **19.00**  ·  James McConnell **21.00**  ·  Victor Munoz **34.00**  ·  Jayden Danns **8.50**  ·  Rio Ngumoha **15.00**  ·  Jeremy Jacquet **13.00**
 - **Away Player Shots Total:**
     - 15,5: más **1.73** · menos **2.00**
     - 16,5: más **1.73** · menos **2.00**
     - 17,5: más **2.00** · menos **1.73**
-- **Home Player Shots:** Kojo Oppong - 1 **2.62**  ·  Kojo Oppong - 2 **10.00**  ·  Kerem Akturkoglu - 1 **1.17**  ·  Romelu Lukaku - 1 **1.11**  ·  Vedat Muriqi - 1 **1.03**  ·  Nene Dorgeles - 1 **1.18**  ·  Oguz Aydin - 1 **1.17**  ·  Irfan Kahveci - 1 **1.22**  ·  Mert Hakan Yandas - 1 **1.25**  ·  Matteo Guendouzi - 1 **2.10**  ·  Bartug Elmaz - 1 **1.28**  ·  Ismail Yuksek - 1 **1.50**  ·  Ngolo Kante - 1 **2.50**  ·  Archie Brown - 1 **1.67**  ·  Nelson Semedo - 1 **2.62**  ·  Munir Mercan - 1 **2.10**  ·  Mert Muldur - 1 **2.25**  ·  Milan Skriniar - 1 **2.50**  ·  Mason Greenwood - 2 **1.20**  ·  Kerem Akturkoglu - 2 **1.73**  ·  Romelu Lukaku - 2 **1.53**  ·  Vedat Muriqi - 2 **1.20**  ·  Nene Dorgeles - 2 **1.80**  ·  Oguz Aydin - 2 **1.73**  ·  Irfan Kahveci - 2 **2.00**  ·  Mert Hakan Yandas - 2 **2.10**  ·  Matteo Guendouzi - 2 **6.50**  ·  Bartug Elmaz - 2 **2.20**  ·  Ismail Yuksek - 2 **3.25**  ·  Ngolo Kante - 2 **8.00**  ·  Archie Brown - 2 **4.00**  ·  Nelson Semedo - 2 **10.00**  ·  Munir Mercan - 2 **6.50**  ·  Mert Muldur - 2 **7.00**  ·  Milan Skriniar - 2 **8.00**  ·  Mason Greenwood - 3 **1.57**  ·  Kerem Akturkoglu - 3 **3.00**  ·  Romelu Lukaku - 3 **2.62**  ·  Vedat Muriqi - 3 **1.57**  ·  Nene Dorgeles - 3 **3.40**  ·  Oguz Aydin - 3 **3.25**  ·  Irfan Kahveci - 3 **3.75**  ·  Mert Hakan Yandas - 3 **4.33**  ·  Matteo Guendouzi - 3 **19.00**  ·  Bartug Elmaz - 3 **4.50**  ·  Ismail Yuksek - 3 **8.00**  ·  Ngolo Kante - 3 **21.00**  ·  Archie Brown - 3 **11.00**  ·  Munir Mercan - 3 **19.00**  ·  Mert Muldur - 3 **21.00**  ·  Milan Skriniar - 3 **21.00**  ·  Mason Greenwood - 4 **2.38**  ·  Kerem Akturkoglu - 4 **6.00**  ·  Romelu Lukaku - 4 **5.00**  ·  Vedat Muriqi - 4 **2.38**  ·  Nene Dorgeles - 4 **7.00**  ·  Oguz Aydin - 4 **6.50**  ·  Irfan Kahveci - 4 **9.00**  ·  Mert Hakan Yandas - 4 **10.00**  ·  Bartug Elmaz - 4 **11.00**  ·  Ismail Yuksek - 4 **21.00**  ·  Mason Greenwood - 5 **4.00**  ·  Kerem Akturkoglu - 5 **13.00**  ·  Romelu Lukaku - 5 **11.00**  ·  Vedat Muriqi - 5 **4.00**  ·  Nene Dorgeles - 5 **15.00**  ·  Oguz Aydin - 5 **15.00**  ·  Irfan Kahveci - 5 **19.00**  ·  Mert Hakan Yandas - 5 **21.00**  ·  Bartug Elmaz - 5 **21.00**  ·  Mason Greenwood - 6 **8.00**  ·  Kerem Akturkoglu - 6 **21.00**  ·  Romelu Lukaku - 6 **21.00**  ·  Vedat Muriqi - 6 **8.00**  ·  Mason Greenwood - 7 **15.00**  ·  Vedat Muriqi - 7 **15.00**  ·  Mason Greenwood - 8 **21.00**  ·  Vedat Muriqi - 8 **21.00**  ·  Mason Greenwood - 1 **1.03**  ·  Yigit Efe Demir - 1 **2.10**  ·  Yigit Efe Demir - 2 **6.50**  ·  Yigit Efe Demir - 3 **19.00**  ·  Ognjen Mimovic - 1 **2.50**  ·  Ognjen Mimovic - 2 **8.00**  ·  Ognjen Mimovic - 3 **21.00**
-- **Away Player Shots:** Victor Munoz - 1 **1.04**  ·  Lewis Koumas - 1 **1.03**  ·  Alexander Isak - 1 **1.02**  ·  Cody Gakpo - 1 **1.03**  ·  Rio Ngumoha - 1 **1.06**  ·  Dominik Szoboszlai - 1 **1.10**  ·  Florian Wirtz - 1 **1.07**  ·  Alexis Mac Allister - 1 **1.14**  ·  James McConnell - 1 **1.67**  ·  Trey Nyoni - 1 **1.36**  ·  Virgil van Dijk - 1 **1.67**  ·  Ryan Gravenberch - 1 **1.36**  ·  Luke Chambers - 1 **1.80**  ·  Konstantinos Tsimikas - 1 **2.10**  ·  Jeremy Jacquet - 1 **2.20**  ·  Milos Kerkez - 1 **2.38**  ·  Ronald Araujo - 1 **1.53**  ·  Victor Munoz - 2 **1.25**  ·  Lewis Koumas - 2 **1.20**  ·  Alexander Isak - 2 **1.17**  ·  Cody Gakpo - 2 **1.17**  ·  Rio Ngumoha - 2 **1.30**  ·  Dominik Szoboszlai - 2 **1.44**  ·  Florian Wirtz - 2 **1.36**  ·  Alexis Mac Allister - 2 **1.67**  ·  James McConnell - 2 **4.00**  ·  Trey Nyoni - 2 **2.50**  ·  Virgil van Dijk - 2 **4.00**  ·  Ryan Gravenberch - 2 **2.50**  ·  Luke Chambers - 2 **4.50**  ·  Konstantinos Tsimikas - 2 **6.50**  ·  Jeremy Jacquet - 2 **7.00**  ·  Milos Kerkez - 2 **8.00**  ·  Ronald Araujo - 2 **3.40**  ·  Victor Munoz - 3 **1.73**  ·  Lewis Koumas - 3 **1.62**  ·  Alexander Isak - 3 **1.50**  ·  Cody Gakpo - 3 **1.53**  ·  Rio Ngumoha - 3 **1.83**  ·  Dominik Szoboszlai - 3 **2.25**  ·  Florian Wirtz - 3 **2.00**  ·  Alexis Mac Allister - 3 **3.00**  ·  James McConnell - 3 **11.00**  ·  Trey Nyoni - 3 **5.50**  ·  Virgil van Dijk - 3 **11.00**  ·  Ryan Gravenberch - 3 **5.50**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **21.00**  ·  Jeremy Jacquet - 3 **21.00**  ·  Milos Kerkez - 3 **21.00**  ·  Ronald Araujo - 3 **9.00**  ·  Victor Munoz - 4 **2.62**  ·  Lewis Koumas - 4 **2.50**  ·  Alexander Isak - 4 **2.20**  ·  Cody Gakpo - 4 **2.25**  ·  Rio Ngumoha - 4 **3.25**  ·  Dominik Szoboszlai - 4 **4.00**  ·  Florian Wirtz - 4 **3.50**  ·  Alexis Mac Allister - 4 **6.00**  ·  Trey Nyoni - 4 **15.00**  ·  Ryan Gravenberch - 4 **15.00**  ·  Ronald Araujo - 4 **21.00**  ·  Victor Munoz - 5 **4.50**  ·  Lewis Koumas - 5 **4.00**  ·  Alexander Isak - 5 **3.50**  ·  Cody Gakpo - 5 **3.75**  ·  Rio Ngumoha - 5 **6.00**  ·  Dominik Szoboszlai - 5 **9.00**  ·  Florian Wirtz - 5 **6.50**  ·  Alexis Mac Allister - 5 **13.00**  ·  Victor Munoz - 6 **9.00**  ·  Lewis Koumas - 6 **8.00**  ·  Alexander Isak - 6 **6.00**  ·  Cody Gakpo - 6 **6.50**  ·  Rio Ngumoha - 6 **11.00**  ·  Dominik Szoboszlai - 6 **17.00**  ·  Florian Wirtz - 6 **13.00**  ·  Alexis Mac Allister - 6 **21.00**  ·  Victor Munoz - 7 **17.00**  ·  Lewis Koumas - 7 **15.00**  ·  Alexander Isak - 7 **11.00**  ·  Cody Gakpo - 7 **13.00**  ·  Rio Ngumoha - 7 **21.00**  ·  Lewis Koumas - 8 **21.00**  ·  Alexander Isak - 8 **21.00**  ·  Cody Gakpo - 8 **21.00**  ·  Bradley Barcola - 1 **1.02**  ·  Bradley Barcola - 2 **1.17**  ·  Bradley Barcola - 3 **1.50**  ·  Bradley Barcola - 4 **2.20**  ·  Bradley Barcola - 5 **3.50**  ·  Bradley Barcola - 6 **6.00**  ·  Bradley Barcola - 7 **11.00**  ·  Florian Wirtz - 7 **21.00**  ·  Bradley Barcola - 8 **21.00**  ·  Jayden Danns - 1 **1.04**  ·  Jayden Danns - 2 **1.22**  ·  Jayden Danns - 3 **1.67**  ·  Jayden Danns - 4 **2.62**  ·  Jayden Danns - 5 **4.33**  ·  Jayden Danns - 6 **9.00**  ·  Jayden Danns - 7 **17.00**  ·  Joe Gomez - 1 **1.80**  ·  Joe Gomez - 2 **4.50**  ·  Joe Gomez - 3 **15.00**
+- **Home Player Shots:** Kojo Oppong - 1 **2.62**  ·  Kojo Oppong - 2 **10.00**  ·  Kojo Oppong - 3 **21.00**  ·  Kerem Akturkoglu - 1 **1.17**  ·  Romelu Lukaku - 1 **1.11**  ·  Vedat Muriqi - 1 **1.03**  ·  Nene Dorgeles - 1 **1.18**  ·  Oguz Aydin - 1 **1.17**  ·  Irfan Kahveci - 1 **1.22**  ·  Mert Hakan Yandas - 1 **1.25**  ·  Matteo Guendouzi - 1 **2.10**  ·  Bartug Elmaz - 1 **1.28**  ·  Ismail Yuksek - 1 **1.50**  ·  Ngolo Kante - 1 **2.50**  ·  Archie Brown - 1 **1.67**  ·  Nelson Semedo - 1 **2.62**  ·  Munir Mercan - 1 **2.10**  ·  Mert Muldur - 1 **2.25**  ·  Milan Skriniar - 1 **2.50**  ·  Mason Greenwood - 2 **1.20**  ·  Kerem Akturkoglu - 2 **1.73**  ·  Romelu Lukaku - 2 **1.53**  ·  Vedat Muriqi - 2 **1.20**  ·  Nene Dorgeles - 2 **1.80**  ·  Oguz Aydin - 2 **1.73**  ·  Irfan Kahveci - 2 **2.00**  ·  Mert Hakan Yandas - 2 **2.10**  ·  Matteo Guendouzi - 2 **6.50**  ·  Bartug Elmaz - 2 **2.20**  ·  Ismail Yuksek - 2 **3.25**  ·  Ngolo Kante - 2 **8.00**  ·  Archie Brown - 2 **4.00**  ·  Nelson Semedo - 2 **10.00**  ·  Munir Mercan - 2 **6.50**  ·  Mert Muldur - 2 **7.00**  ·  Milan Skriniar - 2 **8.00**  ·  Mason Greenwood - 3 **1.57**  ·  Kerem Akturkoglu - 3 **3.00**  ·  Romelu Lukaku - 3 **2.62**  ·  Vedat Muriqi - 3 **1.57**  ·  Nene Dorgeles - 3 **3.40**  ·  Oguz Aydin - 3 **3.25**  ·  Irfan Kahveci - 3 **3.75**  ·  Mert Hakan Yandas - 3 **4.33**  ·  Matteo Guendouzi - 3 **19.00**  ·  Bartug Elmaz - 3 **4.50**  ·  Ismail Yuksek - 3 **8.00**  ·  Ngolo Kante - 3 **21.00**  ·  Archie Brown - 3 **11.00**  ·  Nelson Semedo - 3 **21.00**  ·  Munir Mercan - 3 **19.00**  ·  Mert Muldur - 3 **21.00**  ·  Milan Skriniar - 3 **21.00**  ·  Mason Greenwood - 4 **2.38**  ·  Kerem Akturkoglu - 4 **6.00**  ·  Romelu Lukaku - 4 **5.00**  ·  Vedat Muriqi - 4 **2.38**  ·  Nene Dorgeles - 4 **7.00**  ·  Oguz Aydin - 4 **6.50**  ·  Irfan Kahveci - 4 **9.00**  ·  Mert Hakan Yandas - 4 **10.00**  ·  Bartug Elmaz - 4 **11.00**  ·  Ismail Yuksek - 4 **21.00**  ·  Archie Brown - 4 **21.00**  ·  Mason Greenwood - 5 **4.00**  ·  Kerem Akturkoglu - 5 **13.00**  ·  Romelu Lukaku - 5 **11.00**  ·  Vedat Muriqi - 5 **4.00**  ·  Nene Dorgeles - 5 **15.00**  ·  Oguz Aydin - 5 **15.00**  ·  Irfan Kahveci - 5 **19.00**  ·  Mert Hakan Yandas - 5 **21.00**  ·  Bartug Elmaz - 5 **21.00**  ·  Mason Greenwood - 6 **8.00**  ·  Kerem Akturkoglu - 6 **21.00**  ·  Romelu Lukaku - 6 **21.00**  ·  Vedat Muriqi - 6 **8.00**  ·  Nene Dorgeles - 6 **21.00**  ·  Mason Greenwood - 7 **15.00**  ·  Vedat Muriqi - 7 **15.00**  ·  Mason Greenwood - 8 **21.00**  ·  Vedat Muriqi - 8 **21.00**  ·  Mason Greenwood - 1 **1.03**  ·  Yigit Efe Demir - 1 **2.10**  ·  Yigit Efe Demir - 2 **6.50**  ·  Yigit Efe Demir - 3 **19.00**  ·  Ognjen Mimovic - 1 **2.50**  ·  Ognjen Mimovic - 2 **8.00**  ·  Ognjen Mimovic - 3 **21.00**
+- **Away Player Shots:** Victor Munoz - 1 **1.04**  ·  Lewis Koumas - 1 **1.03**  ·  Alexander Isak - 1 **1.02**  ·  Cody Gakpo - 1 **1.02**  ·  Rio Ngumoha - 1 **1.06**  ·  Dominik Szoboszlai - 1 **1.08**  ·  Florian Wirtz - 1 **1.07**  ·  Alexis Mac Allister - 1 **1.14**  ·  James McConnell - 1 **1.67**  ·  Trey Nyoni - 1 **1.36**  ·  Virgil van Dijk - 1 **1.67**  ·  Ryan Gravenberch - 1 **1.36**  ·  Luke Chambers - 1 **1.80**  ·  Konstantinos Tsimikas - 1 **2.10**  ·  Jeremy Jacquet - 1 **2.20**  ·  Milos Kerkez - 1 **2.38**  ·  Ronald Araujo - 1 **1.53**  ·  Victor Munoz - 2 **1.25**  ·  Lewis Koumas - 2 **1.20**  ·  Alexander Isak - 2 **1.17**  ·  Cody Gakpo - 2 **1.17**  ·  Rio Ngumoha - 2 **1.30**  ·  Dominik Szoboszlai - 2 **1.44**  ·  Florian Wirtz - 2 **1.36**  ·  Alexis Mac Allister - 2 **1.67**  ·  James McConnell - 2 **4.00**  ·  Trey Nyoni - 2 **2.50**  ·  Virgil van Dijk - 2 **4.00**  ·  Ryan Gravenberch - 2 **2.50**  ·  Luke Chambers - 2 **4.50**  ·  Konstantinos Tsimikas - 2 **6.50**  ·  Jeremy Jacquet - 2 **7.00**  ·  Milos Kerkez - 2 **8.00**  ·  Ronald Araujo - 2 **3.40**  ·  Victor Munoz - 3 **1.73**  ·  Lewis Koumas - 3 **1.62**  ·  Alexander Isak - 3 **1.50**  ·  Cody Gakpo - 3 **1.53**  ·  Rio Ngumoha - 3 **1.83**  ·  Dominik Szoboszlai - 3 **2.25**  ·  Florian Wirtz - 3 **2.00**  ·  Alexis Mac Allister - 3 **3.00**  ·  James McConnell - 3 **11.00**  ·  Trey Nyoni - 3 **5.50**  ·  Virgil van Dijk - 3 **11.00**  ·  Ryan Gravenberch - 3 **5.50**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **21.00**  ·  Jeremy Jacquet - 3 **21.00**  ·  Milos Kerkez - 3 **21.00**  ·  Ronald Araujo - 3 **9.00**  ·  Victor Munoz - 4 **2.62**  ·  Lewis Koumas - 4 **2.50**  ·  Alexander Isak - 4 **2.10**  ·  Cody Gakpo - 4 **2.20**  ·  Rio Ngumoha - 4 **3.25**  ·  Dominik Szoboszlai - 4 **4.00**  ·  Florian Wirtz - 4 **3.50**  ·  Alexis Mac Allister - 4 **6.00**  ·  Trey Nyoni - 4 **15.00**  ·  Ryan Gravenberch - 4 **15.00**  ·  Ronald Araujo - 4 **21.00**  ·  Victor Munoz - 5 **4.50**  ·  Lewis Koumas - 5 **4.00**  ·  Alexander Isak - 5 **3.50**  ·  Cody Gakpo - 5 **3.75**  ·  Rio Ngumoha - 5 **6.00**  ·  Dominik Szoboszlai - 5 **8.00**  ·  Florian Wirtz - 5 **6.50**  ·  Alexis Mac Allister - 5 **13.00**  ·  Victor Munoz - 6 **9.00**  ·  Lewis Koumas - 6 **8.00**  ·  Alexander Isak - 6 **6.00**  ·  Cody Gakpo - 6 **6.50**  ·  Rio Ngumoha - 6 **11.00**  ·  Dominik Szoboszlai - 6 **17.00**  ·  Florian Wirtz - 6 **13.00**  ·  Alexis Mac Allister - 6 **21.00**  ·  Victor Munoz - 7 **17.00**  ·  Lewis Koumas - 7 **15.00**  ·  Alexander Isak - 7 **11.00**  ·  Cody Gakpo - 7 **13.00**  ·  Rio Ngumoha - 7 **21.00**  ·  Lewis Koumas - 8 **21.00**  ·  Alexander Isak - 8 **21.00**  ·  Cody Gakpo - 8 **21.00**  ·  Bradley Barcola - 1 **1.02**  ·  Bradley Barcola - 2 **1.17**  ·  Bradley Barcola - 3 **1.50**  ·  Bradley Barcola - 4 **2.10**  ·  Bradley Barcola - 5 **3.50**  ·  Bradley Barcola - 6 **6.00**  ·  Bradley Barcola - 7 **11.00**  ·  Florian Wirtz - 7 **21.00**  ·  Bradley Barcola - 8 **21.00**  ·  Jayden Danns - 1 **1.04**  ·  Jayden Danns - 2 **1.22**  ·  Jayden Danns - 3 **1.67**  ·  Jayden Danns - 4 **2.50**  ·  Jayden Danns - 5 **4.33**  ·  Jayden Danns - 6 **8.00**  ·  Jayden Danns - 7 **17.00**  ·  Joe Gomez - 1 **1.80**  ·  Joe Gomez - 2 **4.50**  ·  Joe Gomez - 3 **15.00**
 - **Player Fouls Committed:** Kojo Oppong - 1 **1.36**  ·  Kojo Oppong - 2 **2.62**  ·  Kojo Oppong - 3 **6.50**  ·  Victor Munoz - 1 **1.36**  ·  Lewis Koumas - 1 **1.18**  ·  Alexander Isak - 1 **1.33**  ·  Cody Gakpo - 1 **1.20**  ·  Rio Ngumoha - 1 **1.44**  ·  Dominik Szoboszlai - 1 **1.28**  ·  Florian Wirtz - 1 **1.33**  ·  Alexis Mac Allister - 1 **1.20**  ·  James McConnell - 1 **1.28**  ·  Trey Nyoni - 1 **1.36**  ·  Virgil van Dijk - 1 **1.73**  ·  Ryan Gravenberch - 1 **1.25**  ·  Luke Chambers - 1 **1.73**  ·  Konstantinos Tsimikas - 1 **1.25**  ·  Jeremy Jacquet - 1 **1.22**  ·  Milos Kerkez - 1 **1.40**  ·  Ronald Araujo - 1 **1.36**  ·  Victor Munoz - 2 **2.62**  ·  Lewis Koumas - 2 **1.80**  ·  Alexander Isak - 2 **2.50**  ·  Cody Gakpo - 2 **1.91**  ·  Rio Ngumoha - 2 **3.00**  ·  Dominik Szoboszlai - 2 **2.20**  ·  Florian Wirtz - 2 **2.50**  ·  Alexis Mac Allister - 2 **1.91**  ·  James McConnell - 2 **2.20**  ·  Trey Nyoni - 2 **2.62**  ·  Virgil van Dijk - 2 **4.33**  ·  Ryan Gravenberch - 2 **2.10**  ·  Luke Chambers - 2 **4.33**  ·  Konstantinos Tsimikas - 2 **2.10**  ·  Jeremy Jacquet - 2 **2.00**  ·  Milos Kerkez - 2 **2.75**  ·  Ronald Araujo - 2 **2.62**  ·  Victor Munoz - 3 **6.00**  ·  Lewis Koumas - 3 **3.50**  ·  Alexander Isak - 3 **5.50**  ·  Cody Gakpo - 3 **4.00**  ·  Rio Ngumoha - 3 **8.00**  ·  Dominik Szoboszlai - 3 **5.00**  ·  Florian Wirtz - 3 **5.50**  ·  Alexis Mac Allister - 3 **4.00**  ·  James McConnell - 3 **5.00**  ·  Trey Nyoni - 3 **6.00**  ·  Virgil van Dijk - 3 **15.00**  ·  Ryan Gravenberch - 3 **4.33**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **4.33**  ·  Jeremy Jacquet - 3 **4.00**  ·  Milos Kerkez - 3 **7.00**  ·  Ronald Araujo - 3 **6.00**  ·  Victor Munoz - 4 **17.00**  ·  Lewis Koumas - 4 **8.00**  ·  Alexander Isak - 4 **15.00**  ·  Cody Gakpo - 4 **10.00**  ·  Rio Ngumoha - 4 **21.00**  ·  Dominik Szoboszlai - 4 **13.00**  ·  Florian Wirtz - 4 **15.00**  ·  Alexis Mac Allister - 4 **10.00**  ·  James McConnell - 4 **13.00**  ·  Trey Nyoni - 4 **17.00**  ·  Ryan Gravenberch - 4 **11.00**  ·  Konstantinos Tsimikas - 4 **11.00**  ·  Jeremy Jacquet - 4 **10.00**  ·  Milos Kerkez - 4 **19.00**  ·  Ronald Araujo - 4 **17.00**  ·  Lewis Koumas - 5 **19.00**  ·  Cody Gakpo - 5 **21.00**  ·  Alexis Mac Allister - 5 **21.00**  ·  Kerem Akturkoglu - 1 **1.50**  ·  Romelu Lukaku - 1 **1.44**  ·  Vedat Muriqi - 1 **1.20**  ·  Nene Dorgeles - 1 **1.83**  ·  Oguz Aydin - 1 **1.22**  ·  Irfan Kahveci - 1 **1.22**  ·  Mert Hakan Yandas - 1 **1.36**  ·  Matteo Guendouzi - 1 **1.30**  ·  Bartug Elmaz - 1 **1.53**  ·  Ismail Yuksek - 1 **1.20**  ·  Ngolo Kante - 1 **1.36**  ·  Archie Brown - 1 **1.30**  ·  Nelson Semedo - 1 **1.28**  ·  Munir Mercan - 1 **1.53**  ·  Mert Muldur - 1 **1.83**  ·  Milan Skriniar - 1 **1.36**  ·  Mason Greenwood - 2 **3.75**  ·  Kerem Akturkoglu - 2 **3.40**  ·  Romelu Lukaku - 2 **3.00**  ·  Vedat Muriqi - 2 **1.83**  ·  Nene Dorgeles - 2 **5.00**  ·  Oguz Aydin - 2 **2.00**  ·  Irfan Kahveci - 2 **2.00**  ·  Mert Hakan Yandas - 2 **2.62**  ·  Matteo Guendouzi - 2 **2.38**  ·  Bartug Elmaz - 2 **3.50**  ·  Ismail Yuksek - 2 **1.83**  ·  Ngolo Kante - 2 **2.62**  ·  Archie Brown - 2 **2.38**  ·  Nelson Semedo - 2 **2.25**  ·  Munir Mercan - 2 **3.50**  ·  Mert Muldur - 2 **5.00**  ·  Milan Skriniar - 2 **2.62**  ·  Mason Greenwood - 3 **11.00**  ·  Kerem Akturkoglu - 3 **9.00**  ·  Romelu Lukaku - 3 **8.00**  ·  Vedat Muriqi - 3 **3.75**  ·  Nene Dorgeles - 3 **17.00**  ·  Oguz Aydin - 3 **4.00**  ·  Irfan Kahveci - 3 **4.33**  ·  Mert Hakan Yandas - 3 **6.50**  ·  Matteo Guendouzi - 3 **5.50**  ·  Bartug Elmaz - 3 **10.00**  ·  Ismail Yuksek - 3 **3.75**  ·  Ngolo Kante - 3 **6.50**  ·  Archie Brown - 3 **5.50**  ·  Nelson Semedo - 3 **5.00**  ·  Munir Mercan - 3 **10.00**  ·  Mert Muldur - 3 **17.00**  ·  Milan Skriniar - 3 **6.50**  ·  Kerem Akturkoglu - 4 **23.00**  ·  Romelu Lukaku - 4 **21.00**  ·  Vedat Muriqi - 4 **9.00**  ·  Oguz Aydin - 4 **10.00**  ·  Irfan Kahveci - 4 **11.00**  ·  Mert Hakan Yandas - 4 **17.00**  ·  Matteo Guendouzi - 4 **15.00**  ·  Bartug Elmaz - 4 **26.00**  ·  Ismail Yuksek - 4 **9.00**  ·  Ngolo Kante - 4 **17.00**  ·  Archie Brown - 4 **15.00**  ·  Nelson Semedo - 4 **13.00**  ·  Munir Mercan - 4 **26.00**  ·  Milan Skriniar - 4 **17.00**  ·  Vedat Muriqi - 5 **21.00**  ·  Oguz Aydin - 5 **21.00**  ·  Irfan Kahveci - 5 **23.00**  ·  Ismail Yuksek - 5 **21.00**  ·  Mason Greenwood - 1 **1.62**  ·  Bradley Barcola - 1 **1.20**  ·  Bradley Barcola - 2 **1.83**  ·  Bradley Barcola - 3 **3.75**  ·  Bradley Barcola - 4 **9.00**  ·  Bradley Barcola - 5 **19.00**  ·  Ryan Gravenberch - 5 **26.00**  ·  Konstantinos Tsimikas - 5 **26.00**  ·  Yigit Efe Demir - 1 **1.62**  ·  Yigit Efe Demir - 2 **3.75**  ·  Yigit Efe Demir - 3 **11.00**  ·  Kojo Oppong - 4 **17.00**  ·  Jayden Danns - 1 **1.28**  ·  Jayden Danns - 2 **2.25**  ·  Jayden Danns - 3 **5.00**  ·  Jayden Danns - 4 **13.00**  ·  Jeremy Jacquet - 5 **23.00**  ·  Ognjen Mimovic - 1 **1.53**  ·  Ognjen Mimovic - 2 **3.50**  ·  Ognjen Mimovic - 3 **10.00**  ·  Ognjen Mimovic - 4 **26.00**  ·  Joe Gomez - 1 **1.22**  ·  Joe Gomez - 2 **2.00**  ·  Joe Gomez - 3 **4.00**  ·  Joe Gomez - 4 **10.00**  ·  Joe Gomez - 5 **23.00**
-- **Goalkeeper Saves:** Alisson Becker - 1 **1.05**  ·  Alisson Becker - 2 **1.30**  ·  Alisson Becker - 3 **1.05**  ·  Alisson Becker - 4 **1.30**  ·  Alisson Becker - 5 **1.83**  ·  Alisson Becker - 6 **3.40**  ·  Alisson Becker - 7 **6.50**  ·  Ederson - 2 **1.06**  ·  Ederson - 3 **1.17**  ·  Ederson - 4 **1.44**  ·  Ederson - 5 **2.00**  ·  Ederson - 6 **3.25**  ·  Ederson - 7 **5.50**  ·  Ederson - 8 **10.00**
-- **Anytime Goal Scorer:** Bradley Barcola **2.50**  ·  Milan Skriniar **13.00**  ·  Matteo Guendouzi **9.00**  ·  Lewis Koumas **2.10**  ·  Konstantinos Tsimikas **7.50**  ·  Luke Chambers **7.50**  ·  Kerem Akturkoglu **4.33**  ·  Irfan Kahveci **7.50**  ·  Ismail Yuksek **9.00**  ·  Mert Muldur **13.00**  ·  Yigit Efe Demir **13.00**  ·  Mason Greenwood **3.40**  ·  Nene Dorgeles **4.33**  ·  Archie Brown **9.00**  ·  Romelu Lukaku **3.40**  ·  Ronald Araujo **7.50**  ·  Vedat Muriqi **3.10**  ·  Oguz Aydin **6.00**  ·  Mert Hakan Yandas **6.50**  ·  Munir Mercan **11.00**  ·  Bartug Elmaz **8.00**  ·  Kojo Oppong **13.00**  ·  Ngolo Kante **9.00**  ·  Ognjen Mimovic **11.00**  ·  Alexis Mac Allister **5.00**  ·  Cody Gakpo **2.50**  ·  Dominik Szoboszlai **3.75**  ·  Joe Gomez **11.00**  ·  Ryan Gravenberch **5.50**  ·  Virgil van Dijk **6.50**  ·  Milos Kerkez **7.50**  ·  Alexander Isak **1.95**  ·  Nelson Semedo **15.00**  ·  Florian Wirtz **3.75**  ·  Trey Nyoni **5.00**  ·  James McConnell **5.00**  ·  Victor Munoz **3.75**  ·  Jayden Danns **2.50**  ·  Rio Ngumoha **3.25**  ·  Jeremy Jacquet **7.50**
-- **Player to Score or Assist:** Bradley Barcola **1.73**  ·  Milan Skriniar **8.00**  ·  Matteo Guendouzi **5.50**  ·  Lewis Koumas **1.62**  ·  Konstantinos Tsimikas **3.40**  ·  Luke Chambers **3.40**  ·  Kerem Akturkoglu **2.75**  ·  Irfan Kahveci **4.00**  ·  Ismail Yuksek **4.75**  ·  Mert Muldur **6.50**  ·  Yigit Efe Demir **8.00**  ·  Mason Greenwood **2.30**  ·  Nene Dorgeles **3.00**  ·  Archie Brown **4.75**  ·  Romelu Lukaku **2.50**  ·  Ronald Araujo **4.75**  ·  Vedat Muriqi **2.40**  ·  Oguz Aydin **3.25**  ·  Mert Hakan Yandas **3.75**  ·  Munir Mercan **4.50**  ·  Bartug Elmaz **4.75**  ·  Kojo Oppong **8.50**  ·  Ngolo Kante **5.50**  ·  Ognjen Mimovic **7.00**  ·  Alexis Mac Allister **2.62**  ·  Cody Gakpo **1.80**  ·  Dominik Szoboszlai **2.05**  ·  Joe Gomez **4.00**  ·  Ryan Gravenberch **3.10**  ·  Virgil van Dijk **4.00**  ·  Milos Kerkez **3.75**  ·  Alexander Isak **1.57**  ·  Nelson Semedo **8.50**  ·  Florian Wirtz **2.00**  ·  Trey Nyoni **3.20**  ·  James McConnell **2.30**  ·  Victor Munoz **2.20**  ·  Jayden Danns **1.83**  ·  Rio Ngumoha **2.05**  ·  Jeremy Jacquet **4.50**
+- **Goalkeeper Saves:** Alisson Becker - 1 **1.05**  ·  Alisson Becker - 2 **1.05**  ·  Alisson Becker - 3 **1.30**  ·  Alisson Becker - 4 **1.91**  ·  Alisson Becker - 5 **3.50**  ·  Alisson Becker - 6 **7.00**  ·  Alisson Becker - 7 **6.50**  ·  Ederson - 2 **1.05**  ·  Ederson - 3 **1.18**  ·  Ederson - 4 **1.50**  ·  Ederson - 5 **2.10**  ·  Ederson - 6 **3.40**  ·  Ederson - 7 **5.50**  ·  Ederson - 8 **11.00**
+- **Anytime Goal Scorer:** Bradley Barcola **2.40**  ·  Milan Skriniar **12.00**  ·  Matteo Guendouzi **9.00**  ·  Lewis Koumas **2.00**  ·  Konstantinos Tsimikas **7.00**  ·  Luke Chambers **7.00**  ·  Kerem Akturkoglu **4.00**  ·  Irfan Kahveci **7.00**  ·  Ismail Yuksek **9.00**  ·  Mert Muldur **12.00**  ·  Yigit Efe Demir **12.00**  ·  Mason Greenwood **3.25**  ·  Nene Dorgeles **4.00**  ·  Archie Brown **9.00**  ·  Romelu Lukaku **3.25**  ·  Ronald Araujo **7.00**  ·  Vedat Muriqi **3.00**  ·  Oguz Aydin **6.00**  ·  Mert Hakan Yandas **6.50**  ·  Munir Mercan **10.00**  ·  Bartug Elmaz **8.00**  ·  Kojo Oppong **12.00**  ·  Ngolo Kante **9.00**  ·  Ognjen Mimovic **10.00**  ·  Alexis Mac Allister **4.75**  ·  Cody Gakpo **2.40**  ·  Dominik Szoboszlai **3.50**  ·  Joe Gomez **10.00**  ·  Ryan Gravenberch **5.50**  ·  Virgil van Dijk **6.50**  ·  Milos Kerkez **7.00**  ·  Alexander Isak **1.91**  ·  Nelson Semedo **15.00**  ·  Florian Wirtz **3.50**  ·  Trey Nyoni **4.75**  ·  James McConnell **4.75**  ·  Victor Munoz **3.50**  ·  Jayden Danns **2.40**  ·  Rio Ngumoha **3.10**  ·  Jeremy Jacquet **7.00**
+- **Player to Score or Assist:** Bradley Barcola **1.67**  ·  Milan Skriniar **7.50**  ·  Matteo Guendouzi **5.50**  ·  Lewis Koumas **1.57**  ·  Konstantinos Tsimikas **3.25**  ·  Luke Chambers **3.25**  ·  Kerem Akturkoglu **2.62**  ·  Irfan Kahveci **3.75**  ·  Ismail Yuksek **4.75**  ·  Mert Muldur **6.50**  ·  Yigit Efe Demir **7.50**  ·  Mason Greenwood **2.25**  ·  Nene Dorgeles **2.88**  ·  Archie Brown **4.50**  ·  Romelu Lukaku **2.40**  ·  Ronald Araujo **4.50**  ·  Vedat Muriqi **2.38**  ·  Oguz Aydin **3.20**  ·  Mert Hakan Yandas **3.60**  ·  Munir Mercan **4.33**  ·  Bartug Elmaz **4.75**  ·  Kojo Oppong **8.50**  ·  Ngolo Kante **5.50**  ·  Ognjen Mimovic **7.00**  ·  Alexis Mac Allister **2.50**  ·  Cody Gakpo **1.73**  ·  Dominik Szoboszlai **1.95**  ·  Joe Gomez **4.00**  ·  Ryan Gravenberch **3.00**  ·  Virgil van Dijk **3.75**  ·  Milos Kerkez **3.60**  ·  Alexander Isak **1.53**  ·  Nelson Semedo **8.00**  ·  Florian Wirtz **1.95**  ·  Trey Nyoni **3.10**  ·  James McConnell **2.20**  ·  Victor Munoz **2.10**  ·  Jayden Danns **1.80**  ·  Rio Ngumoha **1.95**  ·  Jeremy Jacquet **4.33**
 
 ## Estadísticas de equipo
 | | Fenerbahçe (total) | Fenerbahçe en casa | Liverpool (total) | Liverpool fuera |
@@ -138,8 +139,8 @@ _Actualizadas: 03/11 08:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Fenerbahçe:** M. Asensio (baja, Knee Injury); A. Diouf (baja, Off the roster); A. Fall (baja, Off the roster); J. Oosterwolde (baja, Achilles Tendon Injury); M. Yandas (baja, Off the roster); N. Ake (duda, Muscle Injury); M. Asensio (baja, Knee Injury); A. Diouf (baja, Off the roster); A. Fall (baja, Off the roster); J. Oosterwolde (baja, Achilles Tendon Injury); M. Yandas (baja, Off the roster); N. Ake (duda, Muscle Injury)
-**Liverpool:** C. Bradley (baja, Knee Injury); F. Chiesa (baja, Off the roster); H. Ekitike (baja, Achilles Tendon Injury); W. Endo (baja, Off the roster); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury); C. Bradley (baja, Knee Injury); F. Chiesa (baja, Off the roster); H. Ekitike (baja, Achilles Tendon Injury); W. Endo (baja, Off the roster); J. Frimpong (baja, Muscle Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury)
+**Fenerbahçe:** N. Ake (baja, Muscle Injury); M. Asensio (baja, Knee Injury); A. Diouf (baja, Off the roster); A. Fall (baja, Off the roster); J. Oosterwolde (baja, Achilles Tendon Injury); M. Yandas (baja, Off the roster); K. Peprah (duda, Injury); N. Ake (baja, Muscle Injury); M. Asensio (baja, Knee Injury); A. Diouf (baja, Off the roster); A. Fall (baja, Off the roster); J. Oosterwolde (baja, Achilles Tendon Injury); M. Yandas (baja, Off the roster); K. Peprah (duda, Injury)
+**Liverpool:** C. Bradley (baja, Knee Injury); F. Chiesa (baja, Off the roster); H. Ekitike (baja, Achilles Tendon Injury); W. Endo (baja, Off the roster); J. Frimpong (baja, Muscle Injury); R. Gravenberch (baja, Heel Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury); C. Bradley (baja, Knee Injury); F. Chiesa (baja, Off the roster); H. Ekitike (baja, Achilles Tendon Injury); W. Endo (baja, Off the roster); J. Frimpong (baja, Muscle Injury); R. Gravenberch (baja, Heel Injury); G. Leoni (baja, Knee Injury); A. Nallo (baja, Leg Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -219,39 +220,39 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 51% | 63% | 57% | 1.50 | -14% |
-| 1X2: X | 25% | 20% | 22% | 4.75 | +7% |
-| 1X2: 1 | 24% | 17% | 20% | 5.50 | +12% |
+| 1X2: 2 | 51% | 64% | 58% | 1.48 | -14% |
+| 1X2: X | 25% | 19% | 22% | 5.00 | +10% |
+| 1X2: 1 | 24% | 17% | 20% | 5.75 | +15% |
 | Doble oportunidad: X2 | 76% | 83% | 79% | 1.14 | -9% |
 | Doble oportunidad: 12 | 75% | 80% | 77% | 1.18 | -9% |
 | Doble oportunidad: 1X | 49% | 38% | 43% | 2.50 | +8% |
-| Ambos marcan: No | 50% | 41% | 45% | 2.25 | +2% |
-| Ambos marcan: Sí | 50% | 59% | 55% | 1.57 | -14% |
-| Goles más/menos: Más de 2.5 | 48% | 66% | 57% | 1.44 | -18% |
-| Goles más/menos: Más de 3.5 | 26% | 43% | 35% | 2.20 | -24% |
-| Goles más/menos: Más de 4.5 | 12% | 25% | 19% | 3.75 | -30% |
-| Goles más/menos: Menos de 2.5 | 52% | 34% | 43% | 2.75 | +19% |
-| Goles más/menos: Menos de 3.5 | 74% | 57% | 65% | 1.67 | +9% |
-| Goles más/menos: Menos de 4.5 | 88% | 75% | 81% | 1.28 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 75% | 71% | 1.25 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 44% | 38% | 2.10 | -21% |
-| Goles 1ª parte más/menos: Más de 2.5 | 11% | 21% | 16% | 4.50 | -30% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 25% | 29% | 3.75 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 56% | 62% | 1.67 | +4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 79% | 84% | 1.18 | -0% |
+| Ambos marcan: No | 50% | 38% | 44% | 2.50 | +9% |
+| Ambos marcan: Sí | 50% | 62% | 56% | 1.50 | -15% |
+| Goles más/menos: Más de 2.5 | 48% | 68% | 58% | 1.40 | -19% |
+| Goles más/menos: Más de 3.5 | 26% | 47% | 37% | 2.00 | -26% |
+| Goles más/menos: Más de 4.5 | 12% | 28% | 20% | 3.40 | -32% |
+| Goles más/menos: Menos de 2.5 | 52% | 32% | 42% | 3.00 | +26% |
+| Goles más/menos: Menos de 3.5 | 74% | 53% | 63% | 1.80 | +14% |
+| Goles más/menos: Menos de 4.5 | 88% | 72% | 80% | 1.33 | +6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 78% | 73% | 1.20 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 46% | 39% | 2.00 | -23% |
+| Goles 1ª parte más/menos: Más de 2.5 | 11% | 23% | 17% | 4.00 | -32% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 22% | 27% | 4.33 | +17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 54% | 61% | 1.73 | +6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 77% | 83% | 1.22 | +1% |
 | Goles del local: Más de 0.5 | 63% | 66% | 65% | 1.40 | -9% |
-| Goles del local: Más de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
+| Goles del local: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
 | Goles del local: Menos de 0.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del local: Menos de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 47% | 66% | 57% | 1.40 | -20% |
-| Goles del visitante: Más de 2.5 | 22% | 41% | 31% | 2.25 | -30% |
-| Goles del visitante: Más de 3.5 | 8% | 21% | 14% | 4.50 | -36% |
-| Goles del visitante: Menos de 1.5 | 53% | 34% | 43% | 2.75 | +19% |
-| Goles del visitante: Menos de 2.5 | 78% | 59% | 69% | 1.57 | +8% |
-| Goles del visitante: Menos de 3.5 | 92% | 79% | 86% | 1.18 | +1% |
+| Goles del local: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
+| Goles del visitante: Más de 1.5 | 47% | 69% | 58% | 1.36 | -21% |
+| Goles del visitante: Más de 2.5 | 22% | 44% | 33% | 2.10 | -31% |
+| Goles del visitante: Más de 3.5 | 8% | 23% | 16% | 4.00 | -38% |
+| Goles del visitante: Menos de 1.5 | 53% | 31% | 42% | 3.00 | +26% |
+| Goles del visitante: Menos de 2.5 | 78% | 56% | 67% | 1.67 | +12% |
+| Goles del visitante: Menos de 3.5 | 92% | 77% | 84% | 1.22 | +3% |
 | Córners más/menos: Más de 9.5 | 47% | 53% | 50% | 1.80 | -10% |
 | Córners más/menos: Menos de 9.5 | 53% | 47% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 37% | 48% | 42% | 1.95 | -17% |
-| 1X2 descanso: X | 43% | 35% | 39% | 2.62 | +3% |
+| 1X2 descanso: 2 | 37% | 49% | 43% | 1.91 | -18% |
+| 1X2 descanso: X | 43% | 34% | 38% | 2.75 | +6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

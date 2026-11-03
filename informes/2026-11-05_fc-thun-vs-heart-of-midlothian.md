@@ -1,10 +1,10 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -12,9 +12,9 @@ _Actualizadas: 03/11 08:15_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.53** · menos **2.40**
-    - 3,5: más **2.25** · menos **1.57**
-    - 4,5: más **4.00** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -200,11 +200,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 44% | 35% | 40% | 2.62 | +5% |
 | Ambos marcan: Sí | 56% | 65% | 60% | 1.44 | -14% |
 | Goles más/menos: Más de 2.5 | 52% | 61% | 56% | 1.53 | -14% |
-| Goles más/menos: Más de 3.5 | 30% | 41% | 35% | 2.25 | -20% |
-| Goles más/menos: Más de 4.5 | 14% | 23% | 19% | 4.00 | -24% |
+| Goles más/menos: Más de 3.5 | 30% | 42% | 36% | 2.20 | -21% |
+| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -26% |
 | Goles más/menos: Menos de 2.5 | 48% | 39% | 44% | 2.40 | +5% |
-| Goles más/menos: Menos de 3.5 | 70% | 59% | 65% | 1.57 | +1% |
-| Goles más/menos: Menos de 4.5 | 86% | 77% | 81% | 1.22 | -1% |
+| Goles más/menos: Menos de 3.5 | 70% | 58% | 64% | 1.62 | +4% |
+| Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |

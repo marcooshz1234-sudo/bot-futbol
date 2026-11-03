@@ -1,10 +1,10 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **6.25**  ·  X **3.80**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
@@ -15,7 +15,6 @@ _Actualizadas: 03/11 08:15_
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
-    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
@@ -50,7 +49,7 @@ _Actualizadas: 03/11 08:15_
     - 5,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 - **Total ShotOnGoal:**
-    - 8,5: más **2.00** · menos **1.73**
+    - 8,5: más **1.91** · menos **1.80**
 - **ShotOnTarget 1x2:** 1 **4.00**  ·  X **8.00**  ·  2 **1.33**
 - **Total Shots:**
     - 24,5: más **1.83** · menos **1.83**

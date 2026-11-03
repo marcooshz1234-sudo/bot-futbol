@@ -1,10 +1,10 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -12,7 +12,7 @@ _Actualizadas: 03/11 08:15_
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.05** · menos **1.75**
+    - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -192,10 +192,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 56% | 50% | 53% | 1.83 | -3% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.83 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 71% | 68% | 1.33 | -10% |
-| Goles más/menos: Más de 2.5 | 38% | 46% | 42% | 2.05 | -14% |
+| Goles más/menos: Más de 2.5 | 38% | 45% | 42% | 2.08 | -13% |
 | Goles más/menos: Más de 3.5 | 18% | 25% | 22% | 3.75 | -19% |
 | Goles más/menos: Menos de 1.5 | 35% | 29% | 32% | 3.25 | +5% |
-| Goles más/menos: Menos de 2.5 | 62% | 54% | 58% | 1.75 | +2% |
+| Goles más/menos: Menos de 2.5 | 62% | 55% | 58% | 1.73 | +1% |
 | Goles más/menos: Menos de 3.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 31% | 28% | 3.00 | -16% |

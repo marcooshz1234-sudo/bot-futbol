@@ -1,13 +1,13 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **1.30**  ·  X **6.00**  ·  2 **8.00**
-- **Doble oportunidad:** 1X **1.07**  ·  12 **1.12**  ·  X2 **3.75**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.12**  ·  X2 **3.40**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
@@ -189,9 +189,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 10% | 12% | 11% | 8.00 | -12% |
 | 1X2: X | 15% | 16% | 15% | 6.00 | -9% |
 | 1X2: 1 | 75% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: X2 | 25% | 25% | 25% | 3.75 | -6% |
-| Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -4% |
-| Doble oportunidad: 1X | 90% | 89% | 90% | 1.07 | -4% |
+| Doble oportunidad: X2 | 25% | 28% | 26% | 3.40 | -11% |
+| Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -5% |
+| Doble oportunidad: 1X | 90% | 88% | 89% | 1.08 | -4% |
 | Ambos marcan: No | 43% | 46% | 45% | 2.00 | -10% |
 | Ambos marcan: Sí | 57% | 54% | 55% | 1.73 | -5% |
 | Goles más/menos: Más de 2.5 | 71% | 65% | 68% | 1.44 | -2% |

@@ -1,19 +1,19 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 04/11/2026 20:45 (hora España) · New Municipal Stadium Ciudad de Puertollano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:14_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **5.75**  ·  X **4.00**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.65** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.50**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**

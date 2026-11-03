@@ -1,10 +1,10 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 08:15_
+_Actualizadas: 03/11 19:59_
 
 - **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.20**  ·  X2 **2.62**
@@ -31,7 +31,7 @@ _Actualizadas: 03/11 08:15_
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.40**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -209,8 +209,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 39% | 23% | 31% | 4.00 | +24% |
 | Goles del visitante: Menos de 0.5 | 26% | 42% | 34% | 2.20 | -25% |
 | Goles del visitante: Menos de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 45% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 55% | 54% | 55% | 1.73 | -6% |
+| Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -8% |
+| Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -3% |
 | 1X2 descanso: X | 39% | 38% | 39% | 2.40 | -7% |
 | 1X2 descanso: 1 | 35% | 46% | 41% | 2.00 | -19% |
 
