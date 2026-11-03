@@ -2535,7 +2535,14 @@
       1.4
     ],
     "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 261,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18108739193195696",
+      "instagram": "18133415512687970"
+    }
   },
   {
     "id": "2026-11-03-estrella-1635622",
@@ -2559,7 +2566,14 @@
       1.4
     ],
     "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 262,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18035268356897005",
+      "instagram": "18122134364303659"
+    }
   },
   {
     "id": "2026-11-03-combi-tres-bis",
@@ -2689,7 +2703,16 @@
       "liga": "Champions"
     },
     "nota": "03/11 15:56: rehecho sin fueras de juego (Marcos) · 03/11 20:16: sin «Gana la Roma» (Roma con 4 bajas; Marcos: sí)",
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635695.tarjeta.jpg",
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 263,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18120905293977304",
+      "instagram": "18109652591289957",
+      "instagram_story": "18081801497756031"
+    }
   },
   {
     "id": "2026-11-03-lista-europa-3",
@@ -2755,7 +2778,16 @@
       "liga": "Champions"
     },
     "nota": "03/11 15:58: sin fueras de juego (Marcos) · 03/11 20:16: ambos marcan en vez de +3,5 goles (PSG con 4 bajas; Marcos: sí)",
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635746.tarjeta.jpg",
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 264,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18090065576270150",
+      "instagram": "18107125319572516",
+      "instagram_story": "17916231501281491"
+    }
   },
   {
     "id": "2026-11-03-combi-partido-1635622-bis",
@@ -2788,6 +2820,15 @@
       "liga": "Champions"
     },
     "nota": "03/11 15:58: sin fueras de juego (Marcos)",
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635622-bis.tarjeta.jpg",
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 265,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18118975072979253",
+      "instagram": "17888057691623230",
+      "instagram_story": "18382191511210399"
+    }
   }
 ]

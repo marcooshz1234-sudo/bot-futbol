@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 20:17",
+ "actualizado": "2026-11-03 20:33",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1497,
-   "hoy": 67,
+   "seguidores": 1498,
+   "hoy": 68,
    "serie": [
     1225,
     1281,
@@ -24,7 +24,7 @@
     1375,
     1407,
     1430,
-    1497
+    1498
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1750,
- "total_hoy": 84,
+ "total": 1751,
+ "total_hoy": 85,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:25",
-  "dia": "2026-11-03",
-  "titulo": "Barcelona aston villa"
+  "hora": "00:30",
+  "dia": "2026-11-04",
+  "titulo": "Combi Fc Porto vs Napoli"
  },
  "ayer": {
   "aciertos": 15,
@@ -138,7 +138,7 @@
   },
   "2026-11-03": {
    "instagram": 23,
-   "threads": 1497,
+   "threads": 1498,
    "facebook": 0,
    "telegram": 230
   }
@@ -149,13 +149,18 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
+  "Combi de partido (reel)": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
