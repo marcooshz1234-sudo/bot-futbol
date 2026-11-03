@@ -2514,33 +2514,6 @@
     }
   },
   {
-    "id": "2026-11-03-combi-loca",
-    "fecha": "2026-11-03T16:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x7,11! 🤪\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Preston hace 3+ córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇩🇪 Joshua Kimmich: 1+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham hace 3+ córners\n🇪🇸 3+ fueras de juego en Villarreal–Paris Saint Germain\n🇳🇴 3+ fueras de juego en Bodo/Glimt–Lille\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bryan Mbeumo: 1+ tiros a puerta\n\n🎯 CUOTA 7,11 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563243|Home Corners Over/Under|Over 2.5",
-      "1635627|Away Player Shots|Johan Manzambi - 2",
-      "1635622|Away Player Shots|Joshua Kimmich - 1",
-      "1563239|Home Corners Over/Under|Over 2.5",
-      "1635746|Offsides Total|Over 2.5",
-      "1635640|Offsides Total|Over 2.5",
-      "1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1"
-    ],
-    "cuotas": [
-      1.17,
-      1.53,
-      1.67,
-      1.17,
-      1.19,
-      1.22,
-      1.4
-    ],
-    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo"
-  },
-  {
     "id": "2026-11-03-lista-europa-3",
     "fecha": "2026-11-03T17:30",
     "texto": "🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (3/3)\n\n🇪🇸 Atletico Madrid hace 8+ tiros\n🇩🇪 Bayern München: 1+ fuera de juego\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol 1ª parte Man Utd–AS Roma\n🇳🇴 Gol 1ª parte Bodo/Glimt–Lille\n🇫🇷 PSG gana una parte\n🇫🇷 Gana el PSG\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nicolas Jackson: 2+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇳🇱 3+ fueras de juego en Feyenoord–Inter\n🇳🇴 3+ fueras de juego en Bodo/Glimt–Lille\n🇳🇱 Anis Hadj Moussa: 2+ tiros\n\n👉 ¡Coge los que más te gusten! ✅\n\n💚 Más picks GRATIS en @combilocas",
@@ -2658,40 +2631,6 @@
     "espera_alineacion": true
   },
   {
-    "id": "2026-11-03-combi-partido-1635695",
-    "fecha": "2026-11-03T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 MANCHESTER UNITED: 1+ FUERA DE JUEGO [x1.35]\n✅ MANCHESTER UNITED HACE 3+ CÓRNERS [x1.32]\n✅ BRYAN MBEUMO: 1+ TIROS A PUERTA [x1.40]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ MÁS DE 27,5 TIROS [x1.80]\n\n🔥 Resultado probable: 1-1 | 1-2 | 0-1\n💥 Cuota total aprox.: 5,17\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635695|Offsides Home Total|Over 0.5",
-      "1635695|Home Corners Over/Under|Over 2.5",
-      "1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1",
-      "1635695|Both Teams Cards|Yes",
-      "1635695|Total Shots|Over 27.5"
-    ],
-    "cuotas": [
-      1.35,
-      1.32,
-      1.4,
-      1.32,
-      1.8
-    ],
-    "tarjeta": {
-      "local": "Manchester United",
-      "visitante": "AS Roma",
-      "id_l": 33,
-      "id_v": 497,
-      "logo_l": "https://media.api-sports.io/football/teams/33.png",
-      "logo_v": "https://media.api-sports.io/football/teams/497.png",
-      "fecha": "2026-11-03T21:00",
-      "liga": "Champions"
-    },
-    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
-    "espera_alineacion": true
-  },
-  {
     "id": "2026-11-03-combi-tres-bis",
     "fecha": "2026-11-03T15:10",
     "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,54! 🍀\n\n🇩🇪 Harry Kane: 3+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇳🇴 3+ fueras de juego en Bodo/Glimt–Lille\n\n🎯 CUOTA 2,54 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -2788,6 +2727,65 @@
       "liga": "Champions"
     },
     "nota": "03/11 15:02: escudos Atlético–Bayern con cosas distintas al estrella (Marcos no quería que se cancelara)",
+    "espera_alineacion": true
+  },
+  {
+    "id": "2026-11-03-combi-loca",
+    "fecha": "2026-11-03T16:00",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x5,99! 🤪\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos ven tarjeta en Charlton–Bolton\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Watford marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos ven tarjeta en Derby–Norwich\n🇪🇸 Alex Grimaldo: 1+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham hace 3+ córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham o empate\n🇫🇷 Paris Saint Germain hace 8+ tiros\n🇳🇴 Bodo/Glimt hace 3+ córners\n\n🎯 CUOTA 5,99 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1563249|Both Teams Cards|Yes",
+      "1563245|Total - Home|Over 0.5",
+      "1563241|Both Teams Cards|Yes",
+      "1635622|Home Player Shots|Alex Grimaldo - 1",
+      "1563239|Home Corners Over/Under|Over 2.5",
+      "1563239|Double Chance|Home/Draw",
+      "1635746|Shots. Away Total|Over 7.5",
+      "1635640|Home Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.26,
+      1.25,
+      1.26,
+      1.3,
+      1.17,
+      1.25,
+      1.26,
+      1.3
+    ],
+    "nota": "03/11 15:56: rehecho sin fueras de juego (Marcos)"
+  },
+  {
+    "id": "2026-11-03-combi-partido-1635695",
+    "fecha": "2026-11-03T20:25",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED HACE MÁS TIROS [x1.73]\n✅ GANA EL AS ROMA [x2.75]\n\n🔥 Resultado probable: 1-2 | 0-1 | 0-2\n💥 Cuota total aprox.: 6,98\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635695|Goals Over/Under First Half|Over 0.5",
+      "1635695|Shots.1x2|Home",
+      "1635695|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.25,
+      1.73,
+      2.75
+    ],
+    "tarjeta": {
+      "local": "Manchester United",
+      "visitante": "AS Roma",
+      "id_l": 33,
+      "id_v": 497,
+      "logo_l": "https://media.api-sports.io/football/teams/33.png",
+      "logo_v": "https://media.api-sports.io/football/teams/497.png",
+      "fecha": "2026-11-03T21:00",
+      "liga": "Champions"
+    },
+    "nota": "03/11 15:56: rehecho sin fueras de juego (Marcos)",
     "espera_alineacion": true
   }
 ]

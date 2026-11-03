@@ -359,8 +359,7 @@ def tarjetas_altas(p):
 
 # 03/11 (Marcos y sus colegas): mercados de línea baja que salen casi siempre y que la API no siempre trae con cuota
 ESTIMADOS = [("Both Teams Cards", "Yes"), ("Home Corners Over/Under", "Over 2.5"), ("Away Corners Over/Under", "Over 2.5"),
-             ("Shots. Home Total", "Over 7.5"), ("Shots. Away Total", "Over 7.5"), ("Offsides Total", "Over 2.5"),
-             ("Offsides Home Total", "Over 0.5"), ("Offsides Away Total", "Over 0.5")]
+             ("Shots. Home Total", "Over 7.5"), ("Shots. Away Total", "Over 7.5")]   # 03/11 (Marcos): sin fueras de juego
 ESTIMADO_FREC = 0.72      # que se haya cumplido en el 72 % o más (los dos equipos juntos, y cada uno en el 50 %+)
 
 
@@ -397,7 +396,8 @@ def estimados(ex, base, h_loc, h_vis, loc, vis):
     return salida
 
 
-EXCLUIDOS = ("Total Goals/Both Teams To Score", "Goalkeeper Saves")
+EXCLUIDOS = ("Total Goals/Both Teams To Score", "Goalkeeper Saves",
+             "Offsides Total", "Offsides Home Total", "Offsides Away Total")   # 03/11 (Marcos): «quita los fueras de juego»
 # 01/11: corrección por mercado con datos/registro_aciertos.json (picks del bot ya jugados). Con pocos picks pesa poco:
 # factor = 1 + (real/esperado − 1) · n / (n + 10), entre 0,60 y 1,15. Mercados con menos de 8 picks, sin tocar.
 CALIBRA = {"min": 8, "peso": 10, "rango": (0.60, 1.15)}
