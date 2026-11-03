@@ -1,19 +1,19 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:07_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **1.07**  ·  X **9.50**  ·  2 **26.00**
-- **Doble oportunidad:** 1X **1.01**  ·  12 **1.07**  ·  X2 **9.00**
-- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
+- **1X2:** 1 **1.06**  ·  X **11.00**  ·  2 **34.00**
+- **Doble oportunidad:** 1X **1.00**  ·  12 **1.05**  ·  X2 **10.00**
+- **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.33** · menos **3.40**
-    - 3,5: más **1.80** · menos **1.91**
-    - 4,5: más **2.75** · menos **1.40**
+    - 2,5: más **1.30** · menos **3.50**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
     - 5,5: más **4.50** · menos **1.18**
     - 6,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -23,36 +23,37 @@ _Actualizadas: 03/11 02:07_
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 2,5: más **1.44** · menos **2.62**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **2.38** · menos **1.53**
-    - 1,5: más **10.00** · menos **1.06**
+    - 0,5: más **2.62** · menos **1.44**
+    - 1,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **1.33**  ·  X **3.60**  ·  2 **17.00**
+- **1X2 descanso:** 1 **1.30**  ·  X **3.75**  ·  2 **21.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
-- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **1.05**  ·  2 **9.00**
-- **To Score In Both Halves By Teams:** 1 **1.44**  ·  2 **17.00**
-- **Win Both Halves:** 1 **1.73**  ·  2 **101.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **12.00**  ·  Away/Yes **41.00**  ·  Home/No **1.57**  ·  Draw/No **23.00**  ·  Away/No **41.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **2.25**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **3.75**
+- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
+- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
+- **To Win Either Half:** 1 **1.04**  ·  2 **11.00**
+- **To Score In Both Halves By Teams:** 1 **1.44**  ·  2 **21.00**
+- **Win Both Halves:** 1 **1.67**  ·  2 **101.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **13.00**  ·  Away/Yes **41.00**  ·  Home/No **1.50**  ·  Draw/No **23.00**  ·  Away/No **41.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **2.10**  ·  u/yes 2.5 **23.00**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 2,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
-- **Away Player Shots On Target Total:** Rade Krunic **21.00**  ·  Timi Elsnik **34.00**  ·  Vasilije Kostov **15.00**  ·  Vladimir Lucic **15.00**  ·  Adem Avdic **26.00**  ·  Prado Rodrigao **10.00**  ·  Milos Veljkovic **21.00**  ·  Franklin Tebo **9.50**  ·  Aleksandar Katai **21.00**  ·  Mirko Ivanic **7.00**  ·  Tomas Handel **34.00**  ·  Kim Ye-Geon **12.00**  ·  Marc Jurado **301.00**  ·  Bamba Dieng **4.75**  ·  Mahmudu Bajo **9.00**  ·  Marko Arnautovic **9.00**  ·  Mihailo Ristic **19.00**
-- **Anytime Goal Scorer:** Rade Krunic **4.50**  ·  David Lopez **15.00**  ·  Juan Camara **8.00**  ·  Mohammad Abu Fani **3.40**  ·  Timi Elsnik **4.00**  ·  Angel De La Torre **9.50**  ·  Alex Sanchez **26.00**  ·  Loizos Loizou **1.91**  ·  Marc Rodriguez **21.00**  ·  Vasilije Kostov **2.40**  ·  Vladimir Lucic **2.40**  ·  Adem Avdic **4.50**  ·  Prado Rodrigao **8.00**  ·  Robin Lafarge **34.00**  ·  Yuta Nakayama **4.50**  ·  Kristiyan Balov **1.80**  ·  Milos Veljkovic **8.00**  ·  Franklin Tebo **6.50**  ·  Muhammed Cham Saracevic **2.40**  ·  Osman Bukari **2.40**  ·  Aleksandar Katai **1.73**  ·  Mirko Ivanic **1.91**  ·  Stefan Gudelj **6.50**  ·  Tomas Handel **3.60**  ·  Derrick Luckassen **6.50**  ·  Dimitrije Saric **2.05**  ·  Matej Strika **5.00**  ·  Matej Gashtarov **3.60**  ·  Kim Ye-Geon **1.91**  ·  Maurizio Pochettino **9.50**  ·  Marc Jurado **34.00**  ·  Antonio Otegui **19.00**  ·  Faysal Chouaib **6.00**  ·  Anwar Hernandez **26.00**  ·  Soule Sidibe **8.00**  ·  Lamine Diaby **15.00**  ·  Borja Arellano **6.00**  ·  Alex Aizbitarte Kaxe **5.50**  ·  Hermann Rafinha **6.50**  ·  Madueno Victor Alonso **8.00**  ·  Yerai Davila **8.00**  ·  Domingo Berlanga **9.50**  ·  Pablo Molina **15.00**  ·  Jaouad Erraji **26.00**  ·  Kleber Leite Filho **21.00**  ·  Marc Vargas **21.00**  ·  Alex Prelado **7.50**  ·  Torres Jilmar **21.00**  ·  Arnau Luque Martos **19.00**  ·  Bamba Dieng **1.57**  ·  Adrian Gomes **21.00**  ·  Mahmudu Bajo **3.60**  ·  Marko Arnautovic **1.50**  ·  Mihailo Ristic **5.00**
+- **Away Player Shots On Target Total:** Rade Krunic **21.00**  ·  Timi Elsnik **34.00**  ·  Vasilije Kostov **15.00**  ·  Vladimir Lucic **15.00**  ·  Adem Avdic **26.00**  ·  Prado Rodrigao **10.00**  ·  Milos Veljkovic **21.00**  ·  Franklin Tebo **9.50**  ·  Aleksandar Katai **21.00**  ·  Mirko Ivanic **6.50**  ·  Tomas Handel **34.00**  ·  Kim Ye-Geon **11.00**  ·  Marc Jurado **401.00**  ·  Bamba Dieng **4.75**  ·  Mahmudu Bajo **9.00**  ·  Marko Arnautovic **9.00**  ·  Mihailo Ristic **19.00**
+- **Anytime Goal Scorer:** Rade Krunic **4.50**  ·  David Lopez **19.00**  ·  Juan Camara **9.50**  ·  Mohammad Abu Fani **3.40**  ·  Timi Elsnik **4.00**  ·  Angel De La Torre **9.50**  ·  Alex Sanchez **34.00**  ·  Loizos Loizou **1.91**  ·  Marc Rodriguez **26.00**  ·  Vasilije Kostov **2.40**  ·  Vladimir Lucic **2.40**  ·  Adem Avdic **4.50**  ·  Prado Rodrigao **8.00**  ·  Robin Lafarge **41.00**  ·  Yuta Nakayama **4.50**  ·  Kristiyan Balov **1.80**  ·  Milos Veljkovic **8.00**  ·  Franklin Tebo **6.50**  ·  Muhammed Cham Saracevic **2.40**  ·  Osman Bukari **2.40**  ·  Aleksandar Katai **1.73**  ·  Mirko Ivanic **1.80**  ·  Stefan Gudelj **6.50**  ·  Tomas Handel **3.60**  ·  Derrick Luckassen **6.50**  ·  Dimitrije Saric **2.05**  ·  Matej Strika **5.00**  ·  Matej Gashtarov **3.60**  ·  Kim Ye-Geon **1.80**  ·  Maurizio Pochettino **12.00**  ·  Marc Jurado **41.00**  ·  Antonio Otegui **21.00**  ·  Faysal Chouaib **6.50**  ·  Anwar Hernandez **34.00**  ·  Soule Sidibe **9.50**  ·  Lamine Diaby **19.00**  ·  Borja Arellano **6.50**  ·  Alex Aizbitarte Kaxe **6.00**  ·  Hermann Rafinha **7.50**  ·  Madueno Victor Alonso **9.50**  ·  Yerai Davila **9.50**  ·  Domingo Berlanga **12.00**  ·  Pablo Molina **19.00**  ·  Jaouad Erraji **34.00**  ·  Kleber Leite Filho **26.00**  ·  Marc Vargas **26.00**  ·  Alex Prelado **8.00**  ·  Torres Jilmar **26.00**  ·  Arnau Luque Martos **21.00**  ·  Bamba Dieng **1.57**  ·  Adrian Gomes **26.00**  ·  Mahmudu Bajo **3.60**  ·  Marko Arnautovic **1.50**  ·  Mihailo Ristic **5.00**
 
 ## Estadísticas de equipo
 | | FK Crvena Zvezda (total) | FK Crvena Zvezda en casa | Inter Club d'Escaldes (total) | Inter Club d'Escaldes fuera |
@@ -184,37 +185,37 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 4% | 9% | 26.00 | +137% |
-| 1X2: X | 20% | 10% | 15% | 9.50 | +43% |
-| 1X2: 1 | 65% | 87% | 76% | 1.07 | -19% |
-| Doble oportunidad: X2 | 35% | 11% | 23% | 9.00 | +106% |
-| Doble oportunidad: 12 | 80% | 92% | 86% | 1.07 | -8% |
-| Doble oportunidad: 1X | 85% | 97% | 91% | 1.01 | -8% |
-| Ambos marcan: No | 50% | 62% | 56% | 1.50 | -15% |
-| Ambos marcan: Sí | 50% | 38% | 44% | 2.50 | +9% |
-| Goles más/menos: Más de 2.5 | 55% | 72% | 63% | 1.33 | -16% |
-| Goles más/menos: Más de 3.5 | 33% | 51% | 42% | 1.80 | -24% |
-| Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |
+| 1X2: 2 | 15% | 3% | 9% | 34.00 | +196% |
+| 1X2: X | 20% | 9% | 14% | 11.00 | +59% |
+| 1X2: 1 | 65% | 89% | 77% | 1.06 | -19% |
+| Doble oportunidad: X2 | 35% | 10% | 22% | 10.00 | +123% |
+| Doble oportunidad: 12 | 80% | 93% | 86% | 1.05 | -9% |
+| Doble oportunidad: 1X | 85% | 97% | 91% | 1.00 | -9% |
+| Ambos marcan: No | 50% | 66% | 58% | 1.40 | -18% |
+| Ambos marcan: Sí | 50% | 34% | 42% | 2.75 | +14% |
+| Goles más/menos: Más de 2.5 | 55% | 73% | 64% | 1.30 | -17% |
+| Goles más/menos: Más de 3.5 | 33% | 54% | 43% | 1.73 | -25% |
+| Goles más/menos: Más de 4.5 | 16% | 35% | 26% | 2.62 | -32% |
 | Goles más/menos: Más de 5.5 | 7% | 21% | 14% | 4.50 | -37% |
-| Goles más/menos: Menos de 2.5 | 45% | 28% | 37% | 3.40 | +25% |
-| Goles más/menos: Menos de 3.5 | 67% | 49% | 58% | 1.91 | +11% |
-| Goles más/menos: Menos de 4.5 | 84% | 66% | 75% | 1.40 | +5% |
+| Goles más/menos: Menos de 2.5 | 45% | 27% | 36% | 3.50 | +26% |
+| Goles más/menos: Menos de 3.5 | 67% | 46% | 57% | 2.00 | +14% |
+| Goles más/menos: Menos de 4.5 | 84% | 65% | 74% | 1.44 | +7% |
 | Goles más/menos: Menos de 5.5 | 93% | 79% | 86% | 1.18 | +1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 50% | 57% | 1.83 | +5% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles del local: Más de 2.5 | 33% | 62% | 48% | 1.50 | -28% |
-| Goles del local: Más de 3.5 | 15% | 42% | 29% | 2.20 | -37% |
-| Goles del local: Más de 4.5 | 6% | 25% | 15% | 3.75 | -43% |
-| Goles del local: Menos de 2.5 | 67% | 38% | 52% | 2.50 | +30% |
-| Goles del local: Menos de 3.5 | 85% | 58% | 71% | 1.62 | +16% |
-| Goles del local: Menos de 4.5 | 94% | 75% | 85% | 1.25 | +6% |
-| Goles del visitante: Más de 0.5 | 57% | 39% | 48% | 2.38 | +14% |
-| Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -21% |
+| Goles del local: Más de 2.5 | 33% | 65% | 49% | 1.44 | -30% |
+| Goles del local: Más de 3.5 | 15% | 44% | 30% | 2.10 | -38% |
+| Goles del local: Más de 4.5 | 6% | 27% | 16% | 3.50 | -43% |
+| Goles del local: Menos de 2.5 | 67% | 35% | 51% | 2.62 | +34% |
+| Goles del local: Menos de 3.5 | 85% | 56% | 70% | 1.67 | +18% |
+| Goles del local: Menos de 4.5 | 94% | 73% | 84% | 1.28 | +7% |
+| Goles del visitante: Más de 0.5 | 57% | 35% | 46% | 2.62 | +21% |
+| Goles del visitante: Menos de 0.5 | 43% | 65% | 54% | 1.44 | -23% |
 | Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
 | Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: X | 39% | 26% | 32% | 3.60 | +16% |
-| 1X2 descanso: 1 | 47% | 69% | 58% | 1.33 | -23% |
+| 1X2 descanso: X | 39% | 25% | 32% | 3.75 | +19% |
+| 1X2 descanso: 1 | 47% | 71% | 59% | 1.30 | -24% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

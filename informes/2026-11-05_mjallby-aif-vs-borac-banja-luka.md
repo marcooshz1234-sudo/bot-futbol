@@ -1,16 +1,16 @@
 # Mjallby AIF – Borac Banja Luka
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Olympia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:07_
+_Actualizadas: 03/11 08:15_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.05** · menos **1.75**
     - 3,5: más **3.75** · menos **1.25**
@@ -46,7 +46,7 @@ _Actualizadas: 03/11 02:07_
     - 4,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 - **Anytime Goal Scorer:** Ian Hoffmann **5.50**  ·  Aki Samuelsen **3.25**  ·  Luka Juricic **2.75**  ·  Olle Nilsson **3.75**  ·  Olle Lindberg **6.00**  ·  Martin Agnarsson **10.00**  ·  Omar Sijaric **6.00**  ·  Brainimir Cipetic **8.50**  ·  Ali Youssef **3.50**  ·  Max Nielsen **7.50**  ·  Mads Enggard **7.50**  ·  Jeppe Kjaer **3.25**  ·  Jacob Bergstrom **2.88**  ·  Nikola Terzic **4.50**  ·  Tony Miettinen **12.00**  ·  Villiam Granath **4.33**  ·  Stefan Savic **4.50**  ·  Ludvig Tidstrand **4.33**  ·  Viktor Gustafsson **4.33**  ·  Isak Andersen **6.00**  ·  Timo Stavitski **6.00**  ·  Jesper Gustavsson **8.50**  ·  Tom Pettersson **12.00**  ·  Abdullah Iqbal **13.00**  ·  Axel Noren **10.00**  ·  Romeo Leandersson **7.00**  ·  Anderson Esiti **10.00**  ·  Sinisa Sanicanin **21.00**  ·  Ludvig Svanberg **12.00**  ·  Teo Helge **6.00**  ·  Pavle Djajic **4.00**  ·  David Vukovic **5.50**  ·  Sandi Ogrinec **5.50**  ·  Stojan Vranjes **6.00**  ·  Srdjan Grahovac **10.00**  ·  Jurich Carolina **13.00**  ·  Sebastian Herrera **9.50**  ·  Bart Meijers **13.00**  ·  Dani Hodzic **7.50**  ·  Matej Deket **3.10**  ·  Nemanja Jaksic **13.00**  ·  Amar Milak **4.50**  ·  Karlo Peric **2.75**  ·  Abel Pascual **13.00**  ·  Amer Hiros **5.00**  ·  Philip Abrahamsson **4.33**  ·  Paul Colley **3.25**  ·  Andujar Dani Romera **2.75**  ·  Petar Kunic **4.50**  ·  Ivan Kukavica **9.50**  ·  Erik Radan **12.00**  ·  Edon Murseli **2.50**  ·  Ante Roguljic **7.00**  ·  Milos Jojic **6.00**  ·  Viktor Rogan **13.00**  ·  Mans Isaksson **6.00**
 
 ## Estadísticas de equipo

@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-03 08:17 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 03/11
 
@@ -8,21 +8,25 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - QPR o empate (1,28) · QPR 7/10 · Burnley 9/10
 - Alex Grimaldo: 1+ tiros (1,30) · Alex Grimaldo 10/10
 
+**💥 Combi cuota 3-4 · cuota 2,91**
+- Nicolo Barella: 1+ tiros (1,36) · Nicolo Barella 9/10
+- Bryan Mbeumo: 1+ tiros a puerta (1,40) · Bryan Mbeumo 9/10
+- Birmingham gana alguna de las dos partes (1,53) · Birmingham 8/10 · Millwall 7/10
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | QPR o empate | resultado | 1.28 | 80% | QPR 7/10 · Burnley 9/10 |
 | 21:00 | Alex Grimaldo: 1+ tiros | jugador | 1.30 | 100% | Alex Grimaldo 10/10 |
 | 21:00 | Nicolo Barella: 1+ tiros | jugador | 1.36 | 90% | Nicolo Barella 9/10 |
-| 21:00 | Bryan Mbeumo: 1+ tiros a puerta | jugador | 1.36 | 90% | Bryan Mbeumo 9/10 |
+| 21:00 | Bryan Mbeumo: 1+ tiros a puerta | jugador | 1.40 | 90% | Bryan Mbeumo 9/10 |
 | 21:00 | Julian Alvarez: 1+ tiros a puerta | jugador | 1.40 | 80% | Julian Alvarez 4/5 |
-| 21:00 | Birmingham gana alguna de las dos partes | resultado | 1.50 | 75% | Birmingham 8/10 · Millwall 7/10 |
+| 21:00 | Birmingham gana alguna de las dos partes | resultado | 1.53 | 75% | Birmingham 8/10 · Millwall 7/10 |
 | 21:00 | Benjamin Andre comete 1+ faltas | jugador | 1.28 | 100% | Benjamin Andre 9/9 |
 | 21:00 | Birmingham ve más de 1,5 tarjetas | tarjetas | 1.80 | 80% | Birmingham 9/10 · Millwall (en contra) 7/10 |
 | 21:00 | Gjivai Zechiel comete 1+ faltas | jugador | 1.36 | 80% | Gjivai Zechiel 8/10 |
 | 21:00 | Maxima Goffi comete 1+ faltas | jugador | 1.62 | 80% | Maxima Goffi 4/5 |
 | 21:00 | Givairo Read comete 1+ faltas | jugador | 1.50 | 80% | Givairo Read 8/10 |
 | 21:00 | Andreas Helmersen comete 2+ faltas | jugador | 1.67 | 80% | Andreas Helmersen 4/5 |
-| 21:00 | AS Roma o empate | resultado | 1.62 | 90% | Manchester United 9/10 · AS Roma 9/10 |
 
 ## Miércoles 04/11
 
@@ -56,15 +60,29 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Más de 1,5 goles en AZ Alkmaar–Juventus (1,25) · AZ Alkmaar 7/10 · Juventus 10/10
 - Camilo Duran: 1+ tiros a puerta (1,40) · Camilo Duran 4/5
 
+**🤪 Combi loca · cuota 8,14**
+- Más de 1,5 goles en Mjallby AIF–Borac Banja Luka (1,33) · Mjallby AIF 6/8 · Borac Banja Luka 8/10
+- Evanilson comete 1+ faltas (1,30) · Evanilson 9/10
+- Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split (1,67) · Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7
+- Timothy Weah comete 1+ faltas (1,28) · Timothy Weah 8/10
+- Beşiktaş gana alguna de las dos partes (1,62) · Celtic 4/5 · Beşiktaş 8/9
+- Dion Beljo comete 1+ faltas (1,36) · Dion Beljo 5/6
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 21:00 | Más de 1,5 goles en AZ Alkmaar–Juventus | goles | 1.25 | 85% | AZ Alkmaar 7/10 · Juventus 10/10 |
 | 18:45 | Más de 1,5 goles en Mjallby AIF–Borac Banja Luka | goles | 1.33 | 78% | Mjallby AIF 6/8 · Borac Banja Luka 8/10 |
 | 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.40 | 80% | Camilo Duran 4/5 |
+| 18:45 | Evanilson comete 1+ faltas | jugador | 1.30 | 90% | Evanilson 9/10 |
+| 18:45 | James Hill comete 1+ faltas | jugador | 1.28 | 80% | James Hill 8/10 |
 | 18:45 | Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split | corners | 1.67 | 81% | Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7 |
-| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.67 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 21:00 | Timothy Weah comete 1+ faltas | jugador | 1.28 | 80% | Timothy Weah 8/10 |
+| 21:00 | Beşiktaş gana alguna de las dos partes | resultado | 1.62 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 21:00 | Dion Beljo comete 1+ faltas | jugador | 1.36 | 83% | Dion Beljo 5/6 |
 | 18:45 | Koki Machida comete 1+ faltas | jugador | 1.28 | 86% | Koki Machida 6/7 |
-| 21:00 | Beşiktaş o empate | resultado | 1.40 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 21:00 | Miguel Gutierrez comete 1+ faltas | jugador | 1.57 | 80% | Miguel Gutierrez 8/10 |
+| 21:00 | Beşiktaş o empate | resultado | 1.36 | 86% | Celtic 4/5 · Beşiktaş 8/9 |
+| 21:00 | Beşiktaş hace más tiros | tiros | 1.67 | 80% | Celtic 4/5 · Beşiktaş 4/5 |
 
 ## Viernes 06/11
 
@@ -79,8 +97,8 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 9/10
 - Más de 1,5 goles en Torino–Lecce (1,33) · Torino 9/10 · Lecce 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,01**
-- Más de 1,5 goles en Leeds–Tottenham (1,28) · Leeds 8/10 · Tottenham 8/10
+**💥 Combi cuota 3-4 · cuota 3,06**
+- Más de 1,5 goles en Leeds–Tottenham (1,30) · Leeds 8/10 · Tottenham 8/10
 - Más de 1,5 goles en Parma–Bologna (1,36) · Parma 9/10 · Bologna 7/10
 - Ermedin Demirovic: 3+ tiros (1,33) · Ermedin Demirovic 7/8
 - Southampton gana alguna de las dos partes (1,30) · Preston 9/10 · Southampton 8/10
@@ -89,7 +107,7 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 |---|---|---|---|---|---|
 | 16:30 | Fortuna Sittard o empate | resultado | 1.28 | 85% | Fortuna Sittard 8/10 · Telstar 9/10 |
 | 15:00 | Más de 1,5 goles en Torino–Lecce | goles | 1.33 | 90% | Torino 9/10 · Lecce 9/10 |
-| 13:30 | Más de 1,5 goles en Leeds–Tottenham | goles | 1.28 | 80% | Leeds 8/10 · Tottenham 8/10 |
+| 13:30 | Más de 1,5 goles en Leeds–Tottenham | goles | 1.30 | 80% | Leeds 8/10 · Tottenham 8/10 |
 | 18:00 | Más de 1,5 goles en Parma–Bologna | goles | 1.36 | 80% | Parma 9/10 · Bologna 7/10 |
 | 18:30 | Ermedin Demirovic: 3+ tiros | jugador | 1.33 | 88% | Ermedin Demirovic 7/8 |
 | 15:30 | Santiago Castaneda: 1+ tiros | jugador | 1.62 | 90% | Santiago Castaneda 9/10 |
@@ -97,7 +115,9 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:00 | Gana el Southampton | resultado | 1.55 | 65% | Preston 7/10 · Southampton 6/10 |
 | 18:30 | Gana el Manchester City | resultado | 1.67 | 60% | Nottingham Forest 6/10 · Manchester City 6/10 |
 | 15:00 | Frosinone gana alguna de las dos partes | resultado | 1.73 | 75% | Cagliari 7/10 · Frosinone 8/10 |
+| 16:30 | Academico Viseu gana alguna de las dos partes | resultado | 1.73 | 75% | Nacional 8/10 · Academico Viseu 7/10 |
 | 15:00 | Frosinone o empate | resultado | 1.44 | 80% | Cagliari 7/10 · Frosinone 9/10 |
+| 16:30 | Academico Viseu o empate | resultado | 1.40 | 75% | Nacional 8/10 · Academico Viseu 7/10 |
 | 13:30 | Tottenham o empate | resultado | 1.50 | 75% | Leeds 8/10 · Tottenham 7/10 |
 | 16:15 | Deportivo La Coruna o empate | resultado | 1.67 | 75% | Espanyol 8/10 · Deportivo La Coruna 7/10 |
 
@@ -107,28 +127,22 @@ _Generado el 2026-11-03 02:08 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Brighton o empate (1,28) · Brighton 9/10 · Brentford 7/10
 - Más de 1,5 goles en Sunderland–Chelsea (1,25) · Sunderland 8/10 · Chelsea 10/10
 
-**💥 Combi cuota 3-4 · cuota 3,47**
+**💥 Combi cuota 3-4 · cuota 3,24**
+- Más de 1,5 goles en Estoril–Maritimo (1,28) · Estoril 8/10 · Maritimo 10/10
 - Carlos Augusto: 1+ tiros (1,33) · Carlos Augusto 6/7
-- Más de 1,5 goles en Genoa–AC Milan (1,33) · Genoa 7/10 · AC Milan 10/10
-- Gustavo Varela: 1+ tiros a puerta (1,40) · Gustavo Varela 9/10
-- Utrecht o empate (1,40) · Utrecht 7/10 · NEC Nijmegen 9/10
-
-**🤪 Combi loca · cuota 8,12**
-- Wout Weghorst: 1+ tiros a puerta (1,25) · Wout Weghorst 9/10
-- Pathe Mboup: 2+ tiros (1,28) · Pathe Mboup 8/9
-- Noa Lang: 1+ tiros a puerta (1,50) · Noa Lang 4/5
-- Bayer Leverkusen gana alguna de las dos partes (1,36) · 1. FC Köln 7/10 · Bayer Leverkusen 8/10
-- Gana el Bournemouth (1,83) · Ipswich 5/10 · Bournemouth 7/10
-- Real Betis o empate (1,36) · Elche 7/10 · Real Betis 9/10
+- Stefan Dzodic: 1+ tiros (1,40) · Stefan Dzodic 8/9
+- Más de 1,5 goles en Genoa–AC Milan (1,36) · Genoa 7/10 · AC Milan 10/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 15:00 | Brighton o empate | resultado | 1.28 | 80% | Brighton 9/10 · Brentford 7/10 |
 | 15:00 | Más de 1,5 goles en Sunderland–Chelsea | goles | 1.25 | 90% | Sunderland 8/10 · Chelsea 10/10 |
+| 16:30 | Más de 1,5 goles en Estoril–Maritimo | goles | 1.28 | 90% | Estoril 8/10 · Maritimo 10/10 |
 | 18:00 | Carlos Augusto: 1+ tiros | jugador | 1.33 | 86% | Carlos Augusto 6/7 |
-| 15:00 | Más de 1,5 goles en Genoa–AC Milan | goles | 1.33 | 85% | Genoa 7/10 · AC Milan 10/10 |
+| 16:15 | Stefan Dzodic: 1+ tiros | jugador | 1.40 | 89% | Stefan Dzodic 8/9 |
 | 15:00 | Gustavo Varela: 1+ tiros a puerta | jugador | 1.40 | 90% | Gustavo Varela 9/10 |
 | 14:30 | Wout Weghorst: 1+ tiros a puerta | jugador | 1.25 | 90% | Wout Weghorst 9/10 |
+| 15:00 | Más de 1,5 goles en Genoa–AC Milan | goles | 1.36 | 85% | Genoa 7/10 · AC Milan 10/10 |
 | 17:15 | Pathe Mboup: 2+ tiros | jugador | 1.28 | 89% | Pathe Mboup 8/9 |
 | 12:30 | Noa Lang: 1+ tiros a puerta | jugador | 1.50 | 80% | Noa Lang 4/5 |
 | 20:00 | Utrecht o empate | resultado | 1.40 | 80% | Utrecht 7/10 · NEC Nijmegen 9/10 |

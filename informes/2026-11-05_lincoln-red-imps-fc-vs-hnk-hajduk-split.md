@@ -1,16 +1,16 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:07_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **10.00**  ·  X **4.75**  ·  2 **1.30**
-- **Doble oportunidad:** 1X **3.40**  ·  12 **1.18**  ·  X2 **1.06**
+- **1X2:** 1 **11.00**  ·  X **5.00**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.18**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
+    - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.20** · menos **4.33**
     - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
@@ -34,7 +34,7 @@ _Actualizadas: 03/11 02:07_
     - 9: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **8.50**  ·  X **2.60**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
@@ -42,8 +42,8 @@ _Actualizadas: 03/11 02:07_
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **4.33**  ·  2 **1.18**
 - **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **2.00**
-- **Win Both Halves:** 1 **41.00**  ·  2 **3.00**
-- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.20**  ·  Home/No **15.00**  ·  Draw/No **13.00**  ·  Away/No **2.00**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.75**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **3.20**  ·  Home/No **17.00**  ·  Draw/No **12.00**  ·  Away/No **2.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 2,5: más **2.00** · menos **1.73**
@@ -187,11 +187,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 73% | 71% | 72% | 1.30 | -6% |
-| 1X2: X | 18% | 19% | 19% | 4.75 | -12% |
-| 1X2: 1 | 10% | 9% | 9% | 10.00 | -5% |
-| Doble oportunidad: X2 | 90% | 90% | 90% | 1.06 | -4% |
-| Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -3% |
+| 1X2: 2 | 73% | 73% | 73% | 1.30 | -6% |
+| 1X2: X | 18% | 19% | 18% | 5.00 | -9% |
+| 1X2: 1 | 10% | 9% | 9% | 11.00 | +0% |
+| Doble oportunidad: X2 | 90% | 91% | 91% | 1.05 | -5% |
+| Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -4% |
 | Doble oportunidad: 1X | 27% | 28% | 28% | 3.40 | -6% |
 | Ambos marcan: No | 57% | 56% | 56% | 1.67 | -6% |
 | Ambos marcan: Sí | 43% | 44% | 44% | 2.10 | -8% |

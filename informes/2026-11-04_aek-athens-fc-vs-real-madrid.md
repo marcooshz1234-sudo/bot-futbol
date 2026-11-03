@@ -1,10 +1,10 @@
 # AEK Athens FC – Real Madrid
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Allwyn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:07_
+_Actualizadas: 03/11 08:14_
 
 - **1X2:** 1 **9.00**  ·  X **7.00**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.10**  ·  X2 **1.07**
@@ -32,7 +32,7 @@ _Actualizadas: 03/11 02:07_
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.92** · menos **1.88**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **2.20** · menos **1.62**
@@ -48,7 +48,7 @@ _Actualizadas: 03/11 02:07_
 - **To Win Either Half:** 1 **4.00**  ·  2 **1.12**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.62**
 - **Win Both Halves:** 1 **41.00**  ·  2 **2.38**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.30**  ·  Home/No **19.00**  ·  Draw/No **29.00**  ·  Away/No **2.50**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.30**  ·  Home/No **21.00**  ·  Draw/No **29.00**  ·  Away/No **2.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
@@ -61,11 +61,11 @@ _Actualizadas: 03/11 02:07_
     - 1,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 10,5: más **2.00** · menos **1.73**
-- **ShotOnTarget 1x2:** 1 **5.50**  ·  X **9.50**  ·  2 **1.20**
+- **ShotOnTarget 1x2:** 1 **5.50**  ·  X **10.00**  ·  2 **1.20**
 - **Total Shots:**
     - 28,5: más **1.73** · menos **2.00**
-    - 29,5: más **2.00** · menos **1.73**
-- **Shots.1x2:** 1 **6.50**  ·  X **21.00**  ·  2 **1.11**
+    - 29,5: más **1.80** · menos **1.91**
+- **Shots.1x2:** 1 **5.50**  ·  X **19.00**  ·  2 **1.14**
 - **Home Player Shots On Target Total:** Aboubakary Koita - 1 **1.67**  ·  Lovro Majer - 1 **2.00**  ·  Oleksandr Zubkov - 1 **1.73**  ·  Derek Kutesa - 1 **2.20**  ·  Dimitrios Kaloskamis - 1 **1.67**  ·  Razvan Marin - 1 **3.25**  ·  Mijat Gacinovic - 1 **2.20**  ·  Petros Mantalos - 1 **2.20**  ·  Kaan Kairinen - 1 **5.50**  ·  Stavros Pilios - 1 **6.50**  ·  Lazaros Rota - 1 **9.00**  ·  Filipe Relvas - 1 **6.50**  ·  Harold Moukoudi - 1 **4.50**  ·  Domagoj Vida - 1 **4.50**  ·  Martin Pavlov Georgiev - 1 **3.75**  ·  Ambrosini Zini - 2 **3.25**  ·  Barnabas Varga - 2 **5.50**  ·  Luka Jovic - 2 **3.40**  ·  Aboubakary Koita - 2 **4.33**  ·  Lovro Majer - 2 **6.50**  ·  Oleksandr Zubkov - 2 **4.50**  ·  Derek Kutesa - 2 **8.00**  ·  Dimitrios Kaloskamis - 2 **4.33**  ·  Razvan Marin - 2 **15.00**  ·  Mijat Gacinovic - 2 **8.00**  ·  Petros Mantalos - 2 **8.00**  ·  Harold Moukoudi - 2 **21.00**  ·  Domagoj Vida - 2 **21.00**  ·  Martin Pavlov Georgiev - 2 **19.00**  ·  Ambrosini Zini - 3 **9.00**  ·  Barnabas Varga - 3 **19.00**  ·  Luka Jovic - 3 **10.00**  ·  Aboubakary Koita - 3 **13.00**  ·  Lovro Majer - 3 **21.00**  ·  Oleksandr Zubkov - 3 **17.00**  ·  Derek Kutesa - 3 **21.00**  ·  Dimitrios Kaloskamis - 3 **13.00**  ·  Mijat Gacinovic - 3 **21.00**  ·  Petros Mantalos - 3 **21.00**  ·  Ambrosini Zini - 4 **21.00**  ·  Luka Jovic - 4 **21.00**  ·  Ambrosini Zini - 1 **1.44**  ·  Barnabas Varga - 1 **1.83**  ·  Luka Jovic - 1 **1.50**  ·  Joao Mario - 1 **2.62**  ·  Joao Mario - 2 **11.00**  ·  Charalambos Lykogiannis - 1 **4.00**  ·  Kervin Arriaga - 1 **4.00**  ·  Charalambos Lykogiannis - 2 **21.00**  ·  Kervin Arriaga - 2 **21.00**  ·  Christos Alexiou - 1 **9.00**  ·  Spyros Christakopoulos - 1 **9.00**
 - **Away Player Shots On Target Total:** Martin Pavlov Georgiev **101.00**  ·  Yan Diomande **8.50**  ·  Oleksandr Zubkov **51.00**  ·  Carlos Espi **4.00**  ·  Ibrahima Konate **11.00**  ·  Aurelien Tchouameni **19.00**  ·  Antonio Rudiger **11.00**  ·  Petros Mantalos **67.00**  ·  Lazaros Rota **151.00**  ·  Arda Guler **29.00**  ·  Barnabas Varga **6.50**  ·  Bernardo Silva **41.00**  ·  Aboubakary Koita **29.00**  ·  Thiago Pitarch **34.00**  ·  Ambrosini Zini **23.00**  ·  Kylian Mbappe **15.00**  ·  Mijat Gacinovic **34.00**  ·  Domagoj Vida **21.00**  ·  Harold Moukoudi **19.00**  ·  Stavros Pilios **201.00**  ·  Brahim Diaz **29.00**  ·  Joao Mario **51.00**  ·  Charalambos Lykogiannis **126.00**  ·  Kaan Kairinen **51.00**  ·  Alvaro Carreras **51.00**  ·  Spyros Christakopoulos **29.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **41.00**  ·  Jude Bellingham **12.00**  ·  Dean Huijsen **8.50**  ·  Dimitrios Kaloskamis **34.00**  ·  Luka Jovic **10.00**  ·  Kervin Arriaga **41.00**  ·  Derek Kutesa **51.00**  ·  Razvan Marin **81.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.50**  ·  Endrick **13.00**  ·  Denzel Dumfries **12.00**  ·  Vinicius Jr. **19.00**  ·  Lovro Majer **34.00**  ·  Christos Alexiou **41.00**  ·  Filipe Relvas **23.00**  ·  Milan Vitalis **101.00**
 - **Away Player Shots Total:**
@@ -241,8 +241,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 41% | 23% | 32% | 4.00 | +28% |
 | Goles del visitante: Menos de 2.5 | 68% | 44% | 56% | 2.10 | +18% |
 | Goles del visitante: Menos de 3.5 | 86% | 66% | 76% | 1.40 | +6% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.92 | -11% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.88 | +1% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
 | 1X2 descanso: 2 | 43% | 59% | 51% | 1.57 | -20% |
 | 1X2 descanso: X | 38% | 30% | 34% | 3.10 | +5% |
 

@@ -1,47 +1,47 @@
 # Pamplona – Eibar
 **Copa del Rey** · Round of 128 · 03/11/2026 19:00 (hora España) · Campo de Futbol Beitikuntzea
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:06_
+_Actualizadas: 03/11 08:14_
 
 - **1X2:** 1 **12.00**  ·  X **6.00**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.12**  ·  X2 **1.05**
-- **Ambos marcan:** Sí **2.38**  ·  No **1.53**
+- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.70** · menos **2.10**
+    - 2,5: más **1.73** · menos **2.08**
     - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.00** · menos **1.17**
+    - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **2.00** · menos **1.73**
-    - 1,5: más **6.50** · menos **1.11**
+    - 0,5: más **2.25** · menos **1.57**
+    - 1,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **1.91** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **1X2 descanso:** 1 **12.00**  ·  X **2.62**  ·  2 **1.62**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
 - **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
 - **To Win Either Half:** 1 **5.50**  ·  2 **1.14**
 - **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.91**
-- **Win Both Halves:** 1 **51.00**  ·  2 **2.50**
-- **Results/Both Teams Score:** Home/Yes **26.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **3.40**  ·  Home/No **19.00**  ·  Draw/No **13.00**  ·  Away/No **1.73**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **3.50**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **2.40**
+- **Win Both Halves:** 1 **67.00**  ·  2 **2.50**
+- **Results/Both Teams Score:** Home/Yes **26.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **3.50**  ·  Home/No **19.00**  ·  Draw/No **12.00**  ·  Away/No **1.73**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **2.40**
 
 ## Estadísticas de equipo
 | | Pamplona (total) | Pamplona en casa | Eibar (total) | Eibar fuera |

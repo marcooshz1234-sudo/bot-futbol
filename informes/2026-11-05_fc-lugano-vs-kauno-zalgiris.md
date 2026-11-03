@@ -1,10 +1,10 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
 - **1X2:** 1 **1.20**  ·  X **6.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.11**  ·  X2 **4.50**
@@ -14,8 +14,13 @@ _Actualizadas: 03/11 02:08_
     - 2,5: más **1.36** · menos **3.10**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **3.00** · menos **1.36**
-    - 5,5: más **5.50** · menos **1.14**
+    - 5,5: más **5.00** · menos **1.17**
     - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.67** · menos **2.10**
@@ -26,7 +31,7 @@ _Actualizadas: 03/11 02:08_
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **5.00** · menos **1.17**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **1.53**  ·  X **3.10**  ·  2 **9.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
@@ -196,6 +201,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.10 | -9% |
 | Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.83 | -10% |
 | Goles más/menos: Menos de 4.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 2.5 | 56% | 56% | 56% | 1.67 | -7% |
 | Goles del local: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
@@ -204,8 +215,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 3.5 | 67% | 66% | 66% | 1.40 | -7% |
 | Goles del visitante: Más de 0.5 | 55% | 54% | 54% | 1.73 | -6% |
 | Goles del visitante: Menos de 0.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Córners más/menos: Más de 9.5 | 51% | 51% | 51% | 1.88 | -5% |
-| Córners más/menos: Menos de 9.5 | 49% | 49% | 49% | 1.92 | -5% |
+| Córners más/menos: Más de 9.5 | 51% | 50% | 50% | 1.83 | -8% |
+| Córners más/menos: Menos de 9.5 | 49% | 50% | 50% | 1.83 | -9% |
 | 1X2 descanso: X | 30% | 30% | 30% | 3.10 | -8% |
 | 1X2 descanso: 1 | 60% | 60% | 60% | 1.53 | -8% |
 

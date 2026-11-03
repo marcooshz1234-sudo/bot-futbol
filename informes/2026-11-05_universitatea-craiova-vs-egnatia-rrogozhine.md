@@ -1,13 +1,13 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **1.45**  ·  X **4.20**  ·  2 **6.00**
-- **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.62**
+- **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.00**
+- **Doble oportunidad:** 1X **1.12**  ·  12 **1.20**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -39,19 +39,19 @@ _Actualizadas: 03/11 02:08_
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.28**  ·  2 **3.25**
 - **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **7.00**
-- **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **13.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.62**
+- **Win Both Halves:** 1 **3.75**  ·  2 **26.00**
+- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **13.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Away Player Shots On Target Total:** Adrian Rus **17.00**  ·  Baptiste Roux **17.00**
-- **Anytime Goal Scorer:** Deivid Hoxha **4.50**  ·  David Matei **5.50**  ·  Tudor Baluta **7.00**  ·  Oleksandr Romanchuk **8.00**  ·  Nicusor Bancu **8.00**  ·  Numan Ajetovikj **15.00**  ·  Ronaldo Webster **10.00**  ·  Steven Nsimba **2.10**  ·  Monday Etim **2.40**  ·  Alexandru Cicaldau **4.00**  ·  Heriberto Tavares **3.10**  ·  Zamiq Aliyev **23.00**  ·  Adrian Rus **10.00**  ·  Ibrahim Diabate **10.00**  ·  Assad Al Hamlawi **2.10**  ·  Eneo Bitri **12.00**  ·  Alexandru Cretu **7.50**  ·  Baptiste Roux **8.00**  ·  Alessandro Albanese **4.75**  ·  Eljon Sota **15.00**  ·  Ildi Gruda **4.75**  ·  Altin Kryeziu **17.00**  ·  Karim Loukili **6.00**  ·  Geralb Smajli **17.00**  ·  Edison Ndreca **12.00**  ·  Albano Aleksi **15.00**  ·  Jurguens Montenegro **4.50**  ·  Daniel Adjessa **4.50**  ·  Alessandro Kacbufi **17.00**  ·  Andrey Yago **15.00**  ·  Guillem Jaime **17.00**  ·  Reis Bakalli **9.50**  ·  Joao Lameira **5.50**  ·  Samuel Teles **5.50**  ·  Carlos Mora **3.60**  ·  Stefan Baiaram **2.10**  ·  Vladimir Screciu **7.00**  ·  Luca Basceanu **3.10**  ·  Nikola Stevanovic **8.00**  ·  Simon Elisor **2.10**
+- **Anytime Goal Scorer:** Deivid Hoxha **4.50**  ·  David Matei **5.50**  ·  Tudor Baluta **7.00**  ·  Oleksandr Romanchuk **8.50**  ·  Nicusor Bancu **8.50**  ·  Numan Ajetovikj **15.00**  ·  Ronaldo Webster **10.00**  ·  Steven Nsimba **2.10**  ·  Monday Etim **2.50**  ·  Alexandru Cicaldau **4.00**  ·  Heriberto Tavares **3.10**  ·  Zamiq Aliyev **23.00**  ·  Adrian Rus **10.00**  ·  Ibrahim Diabate **10.00**  ·  Assad Al Hamlawi **2.10**  ·  Eneo Bitri **12.00**  ·  Alexandru Cretu **7.50**  ·  Baptiste Roux **8.50**  ·  Alessandro Albanese **4.75**  ·  Eljon Sota **15.00**  ·  Ildi Gruda **4.75**  ·  Altin Kryeziu **17.00**  ·  Karim Loukili **6.00**  ·  Geralb Smajli **17.00**  ·  Edison Ndreca **12.00**  ·  Albano Aleksi **15.00**  ·  Jurguens Montenegro **4.50**  ·  Daniel Adjessa **4.50**  ·  Alessandro Kacbufi **17.00**  ·  Andrey Yago **15.00**  ·  Guillem Jaime **17.00**  ·  Reis Bakalli **9.50**  ·  Joao Lameira **5.50**  ·  Samuel Teles **5.50**  ·  Carlos Mora **3.60**  ·  Stefan Baiaram **2.10**  ·  Vladimir Screciu **7.00**  ·  Luca Basceanu **3.10**  ·  Nikola Stevanovic **8.50**  ·  Simon Elisor **2.10**
 
 ## Estadísticas de equipo
 | | Universitatea Craiova (total) | Universitatea Craiova en casa | Egnatia Rrogozhinë (total) | Egnatia Rrogozhinë fuera |
@@ -183,12 +183,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 15% | 23% | 6.00 | +37% |
-| 1X2: X | 24% | 22% | 23% | 4.20 | -5% |
-| 1X2: 1 | 46% | 63% | 55% | 1.45 | -21% |
+| 1X2: 2 | 30% | 16% | 23% | 6.00 | +38% |
+| 1X2: X | 24% | 22% | 23% | 4.33 | -2% |
+| 1X2: 1 | 46% | 63% | 54% | 1.50 | -18% |
 | Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +18% |
-| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 70% | 85% | 77% | 1.12 | -13% |
+| Doble oportunidad: 12 | 76% | 79% | 78% | 1.20 | -7% |
+| Doble oportunidad: 1X | 70% | 85% | 77% | 1.12 | -14% |
 | Ambos marcan: No | 39% | 50% | 45% | 1.83 | -18% |
 | Ambos marcan: Sí | 61% | 50% | 55% | 1.83 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |

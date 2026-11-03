@@ -1,7 +1,7 @@
 # Alverca – Casa Pia
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 19:00 (hora España) · FC Alverca Sports Complex
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 20:01_

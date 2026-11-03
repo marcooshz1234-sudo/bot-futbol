@@ -1,13 +1,13 @@
 # Sunderland – Chelsea
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 02:10_
+_Actualizadas: 03/11 08:16_
 
 - **1X2:** 1 **3.70**  ·  X **3.50**  ·  2 **1.91**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -17,7 +17,7 @@ _Actualizadas: 02/11 02:10_
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
@@ -25,10 +25,10 @@ _Actualizadas: 02/11 02:10_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.25**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -42,7 +42,7 @@ _Actualizadas: 02/11 02:10_
 - **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
 - **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
-- **Away Player Shots On Target Total:** Thomas Meunier **51.00**  ·  Malick Fofana **41.00**  ·  Trai Hume **41.00**  ·  Moises Caicedo **67.00**  ·  Brian Brobbey **9.00**  ·  Jorrel Hato **29.00**  ·  Wilson Isidor **21.00**  ·  Chris Rigg **51.00**  ·  Alan Browne **51.00**  ·  Luke O'Nien **34.00**  ·  Kevin Danso **26.00**  ·  Dayann Methalie **41.00**  ·  Nilson Angulo **29.00**  ·  Chemsdine Talbi **41.00**  ·  Noah Sadiki **101.00**  ·  Romeo Lavia **17.00**  ·  Pep Chavarria **101.00**  ·  Jordan Henderson **151.00**  ·  Enzo Le Fee **51.00**  ·  Valentin Barco **41.00**  ·  Reinildo Mandava **23.00**  ·  Geovany Quenda **41.00**  ·  Jocelin Ta Bi **41.00**  ·  Jules Ahoka **34.00**  ·  Maxence Lacroix **15.00**  ·  Omar Alderete **17.00**  ·  Cole Palmer **17.00**  ·  Levi Colwill **21.00**  ·  Malo Gusto **67.00**  ·  Reece James **67.00**  ·  Wesley Fofana **19.00**  ·  Morgan Rogers **29.00**  ·  Danny Welbeck **9.50**  ·  Estevao **29.00**  ·  Joao Pedro **11.00**  ·  Pedro Neto **34.00**  ·  Josh Acheampong **34.00**  ·  Marco Palestra **67.00**  ·  Granit Xhaka **81.00**  ·  Nordi Mukiele **23.00**  ·  Jamie Bynoe-Gittens **41.00**
+- **Away Player Shots On Target Total:** Thomas Meunier **51.00**  ·  Malick Fofana **41.00**  ·  Trai Hume **41.00**  ·  Moises Caicedo **51.00**  ·  Brian Brobbey **9.00**  ·  Jorrel Hato **29.00**  ·  Wilson Isidor **21.00**  ·  Chris Rigg **51.00**  ·  Alan Browne **51.00**  ·  Luke O'Nien **34.00**  ·  Kevin Danso **26.00**  ·  Dayann Methalie **41.00**  ·  Nilson Angulo **29.00**  ·  Chemsdine Talbi **41.00**  ·  Noah Sadiki **101.00**  ·  Romeo Lavia **17.00**  ·  Pep Chavarria **81.00**  ·  Jordan Henderson **151.00**  ·  Enzo Le Fee **51.00**  ·  Valentin Barco **41.00**  ·  Reinildo Mandava **23.00**  ·  Geovany Quenda **41.00**  ·  Jocelin Ta Bi **41.00**  ·  Jules Ahoka **34.00**  ·  Maxence Lacroix **15.00**  ·  Omar Alderete **19.00**  ·  Cole Palmer **17.00**  ·  Levi Colwill **21.00**  ·  Malo Gusto **67.00**  ·  Reece James **67.00**  ·  Wesley Fofana **17.00**  ·  Morgan Rogers **29.00**  ·  Danny Welbeck **9.00**  ·  Estevao **29.00**  ·  Joao Pedro **10.00**  ·  Pedro Neto **34.00**  ·  Josh Acheampong **34.00**  ·  Marco Palestra **51.00**  ·  Granit Xhaka **81.00**  ·  Nordi Mukiele **23.00**  ·  Jamie Bynoe-Gittens **41.00**
 - **Anytime Goal Scorer:** Thomas Meunier **9.50**  ·  Malick Fofana **4.33**  ·  Trai Hume **9.50**  ·  Moises Caicedo **9.50**  ·  Brian Brobbey **3.20**  ·  Jorrel Hato **12.00**  ·  Wilson Isidor **3.20**  ·  Chris Rigg **6.50**  ·  Alan Browne **8.00**  ·  Luke O'Nien **12.00**  ·  Kevin Danso **15.00**  ·  Dayann Methalie **9.50**  ·  Nilson Angulo **5.00**  ·  Chemsdine Talbi **5.00**  ·  Noah Sadiki **12.00**  ·  Romeo Lavia **8.50**  ·  Pep Chavarria **9.50**  ·  Jordan Henderson **9.50**  ·  Enzo Le Fee **5.50**  ·  Valentin Barco **7.00**  ·  Reinildo Mandava **15.00**  ·  Geovany Quenda **5.00**  ·  Jocelin Ta Bi **6.50**  ·  Jules Ahoka **11.00**  ·  Maxence Lacroix **12.00**  ·  Omar Alderete **12.00**  ·  Cole Palmer **2.75**  ·  Levi Colwill **12.00**  ·  Malo Gusto **12.00**  ·  Reece James **8.00**  ·  Wesley Fofana **12.00**  ·  Morgan Rogers **3.40**  ·  Danny Welbeck **2.75**  ·  Estevao **3.40**  ·  Joao Pedro **2.50**  ·  Pedro Neto **4.00**  ·  Josh Acheampong **12.00**  ·  Marco Palestra **9.50**  ·  Granit Xhaka **8.50**  ·  Nordi Mukiele **12.00**  ·  Jamie Bynoe-Gittens **4.33**
 - **Player to Score or Assist:** Thomas Meunier **5.50**  ·  Malick Fofana **2.75**  ·  Trai Hume **5.50**  ·  Moises Caicedo **5.50**  ·  Brian Brobbey **2.60**  ·  Jorrel Hato **5.00**  ·  Wilson Isidor **2.75**  ·  Chris Rigg **4.00**  ·  Alan Browne **4.75**  ·  Luke O'Nien **9.00**  ·  Kevin Danso **9.50**  ·  Dayann Methalie **5.50**  ·  Nilson Angulo **3.40**  ·  Chemsdine Talbi **3.10**  ·  Noah Sadiki **7.50**  ·  Romeo Lavia **4.33**  ·  Pep Chavarria **4.33**  ·  Jordan Henderson **4.33**  ·  Enzo Le Fee **3.25**  ·  Valentin Barco **3.20**  ·  Reinildo Mandava **9.50**  ·  Geovany Quenda **2.50**  ·  Jocelin Ta Bi **4.00**  ·  Jules Ahoka **6.00**  ·  Maxence Lacroix **7.50**  ·  Omar Alderete **9.00**  ·  Cole Palmer **1.91**  ·  Levi Colwill **7.50**  ·  Malo Gusto **4.33**  ·  Reece James **3.40**  ·  Wesley Fofana **8.00**  ·  Morgan Rogers **2.10**  ·  Danny Welbeck **2.25**  ·  Estevao **2.20**  ·  Joao Pedro **1.91**  ·  Pedro Neto **2.40**  ·  Josh Acheampong **5.50**  ·  Marco Palestra **4.33**  ·  Granit Xhaka **3.75**  ·  Nordi Mukiele **5.00**  ·  Jamie Bynoe-Gittens **2.62**
 
@@ -187,8 +187,8 @@ _Goles esperados: local 1,54 · visitante 2,02 · córners esperados 10,1._
 | 1X2: X | 21% | 26% | 24% | 3.50 | -16% |
 | 1X2: 1 | 30% | 25% | 27% | 3.70 | +1% |
 | Doble oportunidad: X2 | 70% | 74% | 72% | 1.28 | -8% |
-| Doble oportunidad: 12 | 79% | 74% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 51% | 52% | 52% | 1.80 | -7% |
+| Doble oportunidad: 12 | 79% | 74% | 76% | 1.28 | -2% |
+| Doble oportunidad: 1X | 51% | 52% | 52% | 1.83 | -6% |
 | Ambos marcan: No | 32% | 45% | 39% | 2.05 | -21% |
 | Ambos marcan: Sí | 68% | 55% | 61% | 1.70 | +4% |
 | Goles más/menos: Más de 1.5 | 87% | 76% | 82% | 1.25 | +2% |
@@ -197,20 +197,20 @@ _Goles esperados: local 1,54 · visitante 2,02 · córners esperados 10,1._
 | Goles más/menos: Menos de 1.5 | 13% | 24% | 18% | 4.00 | -26% |
 | Goles más/menos: Menos de 2.5 | 31% | 47% | 39% | 2.00 | -22% |
 | Goles más/menos: Menos de 3.5 | 52% | 68% | 60% | 1.40 | -16% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
 | Goles del local: Más de 0.5 | 79% | 66% | 72% | 1.40 | +1% |
 | Goles del local: Más de 1.5 ✅ | 46% | 31% | 38% | 3.00 | +15% |
 | Goles del local: Menos de 0.5 | 21% | 34% | 28% | 2.75 | -24% |
 | Goles del local: Menos de 1.5 | 54% | 69% | 62% | 1.36 | -16% |
-| Goles del visitante: Más de 0.5 | 87% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 1.5 | 60% | 49% | 54% | 1.91 | +3% |
-| Goles del visitante: Más de 2.5 | 33% | 23% | 28% | 4.00 | +12% |
-| Goles del visitante: Menos de 0.5 | 13% | 22% | 18% | 4.33 | -24% |
-| Goles del visitante: Menos de 1.5 | 40% | 51% | 46% | 1.80 | -18% |
-| Goles del visitante: Menos de 2.5 | 67% | 77% | 72% | 1.22 | -12% |
+| Goles del visitante: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
+| Goles del visitante: Más de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
+| Goles del visitante: Más de 2.5 | 33% | 25% | 29% | 3.75 | +8% |
+| Goles del visitante: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles del visitante: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
+| Goles del visitante: Menos de 2.5 | 67% | 75% | 71% | 1.25 | -11% |
 | 1X2 descanso: 2 | 38% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: X | 36% | 41% | 38% | 2.25 | -14% |
 | 1X2 descanso: 1 | 26% | 23% | 25% | 4.00 | -2% |

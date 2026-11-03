@@ -1,13 +1,13 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **2.88**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.57**
+- **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **2.90**
+- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -184,11 +184,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 53% | 32% | 43% | 2.88 | +23% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
-| 1X2: 1 | 22% | 40% | 31% | 2.30 | -29% |
-| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +9% |
-| Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
+| 1X2: 2 | 53% | 32% | 43% | 2.90 | +24% |
+| 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
+| 1X2: 1 | 22% | 41% | 31% | 2.30 | -28% |
+| Doble oportunidad: X2 | 78% | 60% | 69% | 1.57 | +8% |
+| Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 47% | 67% | 57% | 1.40 | -20% |
 | Ambos marcan: No | 53% | 46% | 50% | 2.00 | -1% |
 | Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |

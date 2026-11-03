@@ -1,10 +1,10 @@
 # Alcoyano – Mallorca
 **Copa del Rey** · Round of 128 · 05/11/2026 21:00 (hora España) · Estadio El Collao
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
 - **1X2:** 1 **6.00**  ·  X **4.00**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.12**

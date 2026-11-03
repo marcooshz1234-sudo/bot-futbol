@@ -1,10 +1,10 @@
 # PSV Eindhoven – Club Brugge KV
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:07_
+_Actualizadas: 03/11 08:15_
 
 - **1X2:** 1 **2.00**  ·  X **4.33**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.20**  ·  X2 **1.80**
@@ -33,7 +33,7 @@ _Actualizadas: 03/11 02:07_
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.62**  ·  2 **3.40**

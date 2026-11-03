@@ -1,20 +1,20 @@
 # Twente – Pafos
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **8.50**
-- **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.75**
+- **1X2:** 1 **1.30**  ·  X **6.00**  ·  2 **8.00**
+- **Doble oportunidad:** 1X **1.07**  ·  12 **1.12**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.40** · menos **2.88**
-    - 3,5: más **2.00** · menos **1.73**
-    - 4,5: más **3.40** · menos **1.30**
-    - 5,5: más **6.00** · menos **1.12**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -28,31 +28,31 @@ _Actualizadas: 03/11 02:08_
     - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **1.73**  ·  X **2.88**  ·  2 **7.00**
+    - 9,5: más **1.90** · menos **1.90**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.88**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.18**  ·  2 **3.50**
-- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **6.50**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.17**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **7.00**
 - **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **7.00**  ·  Away/Yes **12.00**  ·  Home/No **2.50**  ·  Draw/No **23.00**  ·  Away/No **17.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.38**  ·  Draw/No **21.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.40**
 - **Home Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 2,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
-- **Away Player Shots On Target Total:** Afonso Patrao **17.00**  ·  Younes Taha **12.00**  ·  Thomas Van den Belt **6.50**  ·  Ken Sema **101.00**  ·  Ramiz Zerrouki **23.00**  ·  Jaja Brito **34.00**  ·  Guilherme Peixoto **26.00**  ·  David Luiz **23.00**  ·  Georgios Michael **51.00**  ·  Benjamin Nagel **26.00**  ·  Yoram Zague **81.00**  ·  Wout Weghorst **3.00**  ·  Daan Rots **13.00**  ·  Gijs Besselink **15.00**  ·  Bart van Rooij **12.00**  ·  Julien Mesbahi **11.00**  ·  Max Bruns **15.00**  ·  Daouda Weidmann **23.00**  ·  Kristian Hlynsson **21.00**  ·  Aske Adelgaard **34.00**  ·  Robin Propper **17.00**  ·  Sondre Orjasaeter **13.00**  ·  Naci Unuvar **15.00**  ·  Jonatas Noro **51.00**  ·  Stav Lemkin **10.00**  ·  Pedro Rodrigues Pepe **101.00**  ·  Vlad Dragomir **67.00**  ·  Domingos Quina **81.00**  ·  David Goldar **21.00**  ·  Ivan Sunjic **101.00**  ·  Joao Correia **41.00**  ·  Krzysztof Kurowski **34.00**  ·  Anderson Silva **26.00**  ·  Alexandre Brito **41.00**  ·  Lucas Vennegoor of Hesselink **4.33**  ·  Ruud Nijstad **13.00**  ·  Lele **21.00**  ·  Bruno Felipe **81.00**
-- **Anytime Goal Scorer:** Afonso Patrao **4.33**  ·  Younes Taha **2.50**  ·  Michal Rosiak **4.00**  ·  Thomas Van den Belt **3.40**  ·  Ken Sema **10.00**  ·  Ramiz Zerrouki **4.75**  ·  Marko Pjaca **2.50**  ·  Nicholas Ioannou **13.00**  ·  Moumi Ngamaleu **5.50**  ·  Jaja Brito **4.75**  ·  Guilherme Peixoto **5.50**  ·  David Luiz **10.00**  ·  Georgios Michael **9.00**  ·  Benjamin Nagel **5.50**  ·  Yoram Zague **13.00**  ·  Wout Weghorst **1.83**  ·  Daan Rots **2.62**  ·  Gijs Besselink **4.75**  ·  Bart van Rooij **6.00**  ·  Julien Mesbahi **8.00**  ·  Max Bruns **7.00**  ·  Daouda Weidmann **4.75**  ·  Kristian Hlynsson **2.20**  ·  Aske Adelgaard **6.00**  ·  Robin Propper **8.00**  ·  Sondre Orjasaeter **2.75**  ·  Naci Unuvar **3.00**  ·  Goncalo Guga **9.00**  ·  Filip Thorvaldsen **2.20**  ·  Samy Mmaee **15.00**  ·  Jordy Bawuah **4.75**  ·  Jonatas Noro **15.00**  ·  Stav Lemkin **7.00**  ·  Pedro Rodrigues Pepe **10.00**  ·  Vlad Dragomir **7.00**  ·  Domingos Quina **7.00**  ·  Christos Efzona **10.00**  ·  David Goldar **10.00**  ·  Ivan Sunjic **9.00**  ·  Joao Correia **6.50**  ·  Krzysztof Kurowski **7.00**  ·  Murad Mammadov **7.00**  ·  Melinos Kais **6.00**  ·  Jip Meilink **5.50**  ·  Anderson Silva **4.33**  ·  Alexandre Brito **13.00**  ·  Lucas Vennegoor of Hesselink **2.62**  ·  Ruud Nijstad **10.00**  ·  Kosmas Ioannou **21.00**  ·  Biel **6.50**  ·  Lele **4.33**  ·  Bruno Felipe **9.00**
+- **Away Player Shots On Target Total:** Afonso Patrao **19.00**  ·  Younes Taha **12.00**  ·  Thomas Van den Belt **6.50**  ·  Ken Sema **101.00**  ·  Ramiz Zerrouki **23.00**  ·  Jaja Brito **34.00**  ·  Guilherme Peixoto **26.00**  ·  David Luiz **23.00**  ·  Georgios Michael **51.00**  ·  Benjamin Nagel **26.00**  ·  Yoram Zague **81.00**  ·  Wout Weghorst **3.00**  ·  Daan Rots **13.00**  ·  Gijs Besselink **15.00**  ·  Bart van Rooij **12.00**  ·  Julien Mesbahi **12.00**  ·  Max Bruns **13.00**  ·  Daouda Weidmann **23.00**  ·  Kristian Hlynsson **21.00**  ·  Aske Adelgaard **34.00**  ·  Robin Propper **17.00**  ·  Sondre Orjasaeter **13.00**  ·  Naci Unuvar **15.00**  ·  Jonatas Noro **51.00**  ·  Stav Lemkin **9.50**  ·  Pedro Rodrigues Pepe **101.00**  ·  Vlad Dragomir **67.00**  ·  Domingos Quina **101.00**  ·  David Goldar **21.00**  ·  Ivan Sunjic **101.00**  ·  Joao Correia **41.00**  ·  Krzysztof Kurowski **29.00**  ·  Anderson Silva **29.00**  ·  Alexandre Brito **41.00**  ·  Lucas Vennegoor of Hesselink **4.33**  ·  Ruud Nijstad **15.00**  ·  Lele **23.00**  ·  Bruno Felipe **81.00**
+- **Anytime Goal Scorer:** Afonso Patrao **4.75**  ·  Younes Taha **2.50**  ·  Michal Rosiak **4.00**  ·  Thomas Van den Belt **3.40**  ·  Ken Sema **11.00**  ·  Ramiz Zerrouki **4.75**  ·  Marko Pjaca **2.50**  ·  Nicholas Ioannou **13.00**  ·  Moumi Ngamaleu **5.50**  ·  Jaja Brito **5.50**  ·  Guilherme Peixoto **5.50**  ·  David Luiz **11.00**  ·  Georgios Michael **9.00**  ·  Benjamin Nagel **5.50**  ·  Yoram Zague **13.00**  ·  Wout Weghorst **1.83**  ·  Daan Rots **2.62**  ·  Gijs Besselink **4.75**  ·  Bart van Rooij **6.00**  ·  Julien Mesbahi **8.00**  ·  Max Bruns **6.50**  ·  Daouda Weidmann **4.75**  ·  Kristian Hlynsson **2.20**  ·  Aske Adelgaard **6.00**  ·  Robin Propper **8.00**  ·  Sondre Orjasaeter **2.75**  ·  Naci Unuvar **3.10**  ·  Goncalo Guga **9.00**  ·  Filip Thorvaldsen **2.20**  ·  Samy Mmaee **15.00**  ·  Jordy Bawuah **4.75**  ·  Jonatas Noro **15.00**  ·  Stav Lemkin **6.50**  ·  Pedro Rodrigues Pepe **11.00**  ·  Vlad Dragomir **8.00**  ·  Domingos Quina **8.00**  ·  Christos Efzona **11.00**  ·  David Goldar **11.00**  ·  Ivan Sunjic **9.00**  ·  Joao Correia **7.00**  ·  Krzysztof Kurowski **6.50**  ·  Murad Mammadov **8.00**  ·  Melinos Kais **6.00**  ·  Jip Meilink **5.50**  ·  Anderson Silva **4.75**  ·  Alexandre Brito **13.00**  ·  Lucas Vennegoor of Hesselink **2.62**  ·  Ruud Nijstad **11.00**  ·  Kosmas Ioannou **21.00**  ·  Biel **7.00**  ·  Lele **4.75**  ·  Bruno Felipe **9.00**
 
 ## Estadísticas de equipo
 | | Twente (total) | Twente en casa | Pafos (total) | Pafos fuera |
@@ -186,20 +186,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 11% | 11% | 8.50 | -10% |
-| 1X2: X | 15% | 16% | 15% | 5.75 | -12% |
-| 1X2: 1 | 75% | 73% | 74% | 1.27 | -6% |
-| Doble oportunidad: X2 | 25% | 26% | 25% | 3.75 | -5% |
-| Doble oportunidad: 12 | 85% | 85% | 85% | 1.14 | -3% |
-| Doble oportunidad: 1X | 90% | 89% | 90% | 1.08 | -3% |
+| 1X2: 2 | 10% | 12% | 11% | 8.00 | -12% |
+| 1X2: X | 15% | 16% | 15% | 6.00 | -9% |
+| 1X2: 1 | 75% | 73% | 74% | 1.30 | -4% |
+| Doble oportunidad: X2 | 25% | 25% | 25% | 3.75 | -6% |
+| Doble oportunidad: 12 | 85% | 85% | 85% | 1.12 | -4% |
+| Doble oportunidad: 1X | 90% | 89% | 90% | 1.07 | -4% |
 | Ambos marcan: No | 43% | 46% | 45% | 2.00 | -10% |
 | Ambos marcan: Sí | 57% | 54% | 55% | 1.73 | -5% |
-| Goles más/menos: Más de 2.5 | 71% | 67% | 69% | 1.40 | -3% |
-| Goles más/menos: Más de 3.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles más/menos: Más de 4.5 | 31% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 2.5 | 29% | 33% | 31% | 2.88 | -11% |
-| Goles más/menos: Menos de 3.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles más/menos: Menos de 4.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles más/menos: Más de 2.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles más/menos: Más de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
+| Goles más/menos: Más de 4.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles más/menos: Menos de 2.5 | 29% | 35% | 32% | 2.70 | -14% |
+| Goles más/menos: Menos de 3.5 | 50% | 56% | 53% | 1.67 | -12% |
+| Goles más/menos: Menos de 4.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -6% |
@@ -212,13 +212,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 24% | 28% | 26% | 3.40 | -12% |
 | Goles del local: Menos de 2.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Goles del local: Menos de 3.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles del visitante: Más de 0.5 | 61% | 59% | 60% | 1.57 | -6% |
-| Goles del visitante: Más de 1.5 | 24% | 25% | 24% | 3.75 | -8% |
-| Goles del visitante: Menos de 0.5 | 39% | 41% | 40% | 2.25 | -10% |
-| Goles del visitante: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -6% |
-| Córners más/menos: Más de 9.5 | 51% | 50% | 50% | 1.83 | -8% |
-| Córners más/menos: Menos de 9.5 | 49% | 50% | 50% | 1.83 | -9% |
+| Goles del visitante: Más de 0.5 | 61% | 58% | 59% | 1.62 | -4% |
+| Goles del visitante: Más de 1.5 | 24% | 23% | 24% | 4.00 | -5% |
+| Goles del visitante: Menos de 0.5 | 39% | 42% | 41% | 2.20 | -10% |
+| Goles del visitante: Menos de 1.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Córners más/menos: Más de 9.5 | 51% | 50% | 50% | 1.90 | -4% |
+| Córners más/menos: Menos de 9.5 | 49% | 50% | 50% | 1.90 | -6% |
 | 1X2 descanso: X | 31% | 33% | 32% | 2.88 | -8% |
-| 1X2 descanso: 1 | 56% | 54% | 55% | 1.73 | -5% |
+| 1X2 descanso: 1 | 56% | 55% | 55% | 1.73 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

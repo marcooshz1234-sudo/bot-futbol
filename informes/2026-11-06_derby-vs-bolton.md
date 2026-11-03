@@ -1,7 +1,7 @@
 # Derby – Bolton
 **Championship** · Regular Season - 15 · 06/11/2026 21:00 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_

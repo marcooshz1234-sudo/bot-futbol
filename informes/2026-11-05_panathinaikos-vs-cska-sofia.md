@@ -1,13 +1,13 @@
 # Panathinaikos – CSKA Sofia
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Olympic Stadium of Athens
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 03/11 08:15_
 
-- **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **5.50**
-- **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.50**
+- **1X2:** 1 **1.55**  ·  X **4.33**  ·  2 **5.50**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.38**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.20** · menos **4.33**
@@ -27,12 +27,12 @@ _Actualizadas: 03/11 02:08_
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
+    - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
     - 9,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
+- **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -43,7 +43,7 @@ _Actualizadas: 03/11 02:08_
 - **To Win Either Half:** 1 **1.30**  ·  2 **3.00**
 - **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
 - **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **2.62**  ·  Draw/No **15.00**  ·  Away/No **11.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **15.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.75**
 - **Home Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
@@ -187,12 +187,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 17% | 16% | 5.50 | -12% |
-| 1X2: X | 16% | 22% | 19% | 4.20 | -20% |
-| 1X2: 1 | 69% | 61% | 65% | 1.50 | -3% |
-| Doble oportunidad: X2 | 31% | 38% | 35% | 2.50 | -13% |
-| Doble oportunidad: 12 | 84% | 78% | 81% | 1.22 | -1% |
-| Doble oportunidad: 1X | 85% | 84% | 84% | 1.14 | -4% |
+| 1X2: 2 | 15% | 17% | 16% | 5.50 | -11% |
+| 1X2: X | 16% | 22% | 19% | 4.33 | -18% |
+| 1X2: 1 | 69% | 61% | 65% | 1.55 | +0% |
+| Doble oportunidad: X2 | 31% | 39% | 35% | 2.38 | -16% |
+| Doble oportunidad: 12 | 84% | 78% | 81% | 1.20 | -3% |
+| Doble oportunidad: 1X | 85% | 82% | 84% | 1.14 | -5% |
 | Ambos marcan: No | 32% | 46% | 39% | 2.00 | -21% |
 | Ambos marcan: Sí | 68% | 54% | 61% | 1.73 | +5% |
 | Goles más/menos: Más de 1.5 | 91% | 78% | 85% | 1.20 | +2% |
@@ -212,12 +212,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 24% | 39% | 31% | 2.38 | -25% |
 | Goles del local: Menos de 2.5 | 48% | 65% | 56% | 1.44 | -19% |
 | Goles del visitante: Más de 0.5 | 72% | 61% | 67% | 1.53 | +2% |
-| Goles del visitante: Más de 1.5 | 37% | 25% | 31% | 3.75 | +16% |
+| Goles del visitante: Más de 1.5 | 37% | 27% | 32% | 3.50 | +11% |
 | Goles del visitante: Menos de 0.5 | 28% | 39% | 33% | 2.38 | -20% |
-| Goles del visitante: Menos de 1.5 | 63% | 75% | 69% | 1.25 | -14% |
+| Goles del visitante: Menos de 1.5 | 63% | 73% | 68% | 1.28 | -13% |
 | Córners más/menos: Más de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
 | Córners más/menos: Menos de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
 | 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |
-| 1X2 descanso: 1 | 52% | 46% | 49% | 2.00 | -2% |
+| 1X2 descanso: 1 | 52% | 46% | 49% | 2.05 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
