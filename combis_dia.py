@@ -174,7 +174,8 @@ def pool_partido(ex, hist, ap):
     import contexto
     pos = contexto.posiciones(pa["league"]["id"], pa["fixture"]["date"], loc["id"], vis["id"])
     hl, hv = hist.get(loc["id"], []), hist.get(vis["id"], [])
-    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales()
+    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales() \
+        + list(ex.get("no_titulares") or [])
     lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
     fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
     pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
@@ -303,6 +304,36 @@ def pos_jugador(eq, pid, partidos):
 
 
 BAJA = ("Missing Fixture", "Questionable")   # 03/11 (Marcos): también los dudosos, fuera
+
+
+def es_jugador(p):
+    return p.get("tipo") == "jugador" or bool(p.get("jugador"))
+
+
+FIJISIMO = (3, 70)   # 03/11: en posts de antes de la alineación, jugadores con 70'+ en cada uno de los 3 últimos partidos
+
+
+def fijisimo(p):
+    """¿El jugador del pick ha jugado 70' o más en cada uno de los 3 últimos partidos de su equipo?"""
+    import picks as P
+    if not es_jugador(p):
+        return True
+    hist = P.historial()
+    eq_nombre = p.get("equipo")
+    ex = leer(EXTRA / f"{p['partido_id']}.json") or {}
+    pa = ex.get("partido") or {}
+    eqs = [pa.get("teams", {}).get(l) for l in ("home", "away")]
+    eqs = [e for e in eqs if e and (not eq_nombre or e["name"] == eq_nombre)]
+    for e in eqs:
+        ult = hist.get(e["id"], [])[:FIJISIMO[0]]
+        mins = []
+        for partido in ult:
+            j = next((x for x in (partido.get("jugadores") or {}).get(str(e["id"])) or []
+                      if P.mismo_jugador(p.get("jugador") or "", x["nombre"])), None)
+            mins.append((j or {}).get("min") or 0)
+        if len(mins) == FIJISIMO[0] and min(mins) >= FIJISIMO[1]:
+            return True
+    return False
 
 
 def bajas_manuales():
@@ -919,7 +950,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
         for pool in pools:
-            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2 and not suelto_no(p)
+            ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2 and not suelto_no(p) and fijisimo(p)
                   and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
             if ok:
                 mejores += ok[:cfg.get("por_partido", 1) + 1]   # 01/11: en la loca, las 3 mejores de cada partido
@@ -930,6 +961,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             mas = []
             for pool in pools:
                 ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI - 0.08 and usos[sel(p)] < 2 and not suelto_no(p)
+                      and fijisimo(p)
                       and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
                 mas += ok[:cfg.get("por_partido", 1) + 1]
             mas.sort(key=lambda p: -p["prob_aprendida"])
@@ -959,7 +991,8 @@ def jugadores_estrella(fid):
     loc, vis = pa["teams"]["home"], pa["teams"]["away"]
     cal = calibracion_mercados()
     # 03/11 (Marcos: «Bastoni está suspendido»): fuera los lesionados y sancionados que da la API
-    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales()
+    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales() \
+        + list(ex.get("no_titulares") or [])
     base = {"partido_id": fid, "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
             "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
             "local": loc["name"], "visitante": vis["name"]}
@@ -1025,7 +1058,7 @@ def combi_multi(pools, dia, europeo=False):
     for pool in pools:
         if not pool or datetime.fromisoformat(pool[0]["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=60):
             continue
-        cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"]][:10]
+        cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"] and fijisimo(p)][:10]
         mejor = None
         for n in (1, 2):
             for comb in itertools.combinations(cand, n):
@@ -1059,7 +1092,7 @@ def listas_europa(pools, dia):
         if not pool or pool[0].get("liga_id") not in EUROPA:
             continue
         cands += [p for p in pool if p["prob_aprendida"] >= LISTAS_EUROPA["prob_min"] and familia(p) not in SIN_EN_ESCUDOS
-                  and not suelto_no(p)]
+                  and not suelto_no(p) and fijisimo(p)]
     cands.sort(key=lambda p: -p["prob_aprendida"])
     from collections import Counter
     usados, salida = Counter(), []
@@ -1150,7 +1183,7 @@ def pick_seguro(pools, dia):
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=SEGURO["hora"][0], minute=SEGURO["hora"][1])
     cand = [p for pool in pools for p in pool
             if SEGURO["cuota"][0] <= p["cuota"] <= SEGURO["cuota"][1] and familia(p).split("-")[0] in SEGURO["familias"]
-            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada")
+            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
             and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     if not cand:
         return None

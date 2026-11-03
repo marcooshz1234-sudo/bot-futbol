@@ -70,7 +70,7 @@ def elegir_pool_(fecha, prob_min, comb_min):
         for p in C.pool_partido(ex, hist, ap):
             k = f"{p['mercado']}|{p['opcion']}"
             if p["prob_aprendida"] < prob_min or any(x in k for x in FUERA) or p["fecha"] <= limite \
-                    or p.get("estimada") or p.get("solo_con_tarjetas") \
+                    or p.get("estimada") or p.get("solo_con_tarjetas") or not C.fijisimo(p) \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]):
                 continue
             cand.append(p)

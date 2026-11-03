@@ -33,6 +33,9 @@ def num(c):
     return f"{c:.2f}".replace(".", ",")
 
 
+ESPERA_TOPE = 35   # 03/11: minutos antes del partido a los que sale sí o sí aunque no haya alineación
+
+
 def bandera_pick(p):
     """03/11 (Marcos): en los posts de varios partidos, la bandera del país del EQUIPO del pick (Olise → 🇩🇪, Shakhtar →
     🇺🇦). Si el pick es del partido entero, la del local. Si no se sabe, la de la competición."""
@@ -376,6 +379,7 @@ def posts_del_dia(dia, d):
 
     combis = d.get("combis") or {}
     tarjetas = {}
+    ids_noche = set()   # 03/11: las de madrugada no esperan a la alineación
     if FORMATO_27:
         # 27/10: el formato de ese martes (combis_dia.py): combi de cada partido con foto, x3 a las 13:30 y loca a las 16:00
         try:
@@ -394,6 +398,7 @@ def posts_del_dia(dia, d):
             apuntar(cp["picks"])   # 27/10: cuentan para el «máx. 2 posts por selección» (la lista de picks)
         for cp, cuota, tj, hora in cd.get("noche") or []:   # 28/10: prueba de combis de madrugada
             pid = f"combi-partido-{cp['picks'][0]['partido_id']}"
+            ids_noche.add(pid)
             tarjetas[pid] = tj
             posts.append((pid, hora, cp["picks"], texto_combi_partido(cp, tj, cuota)))
             apuntar(cp["picks"])
@@ -588,10 +593,18 @@ def posts_del_dia(dia, d):
         print("datos de fútbol:", str(e)[:150])
 
     salida = []
+    import combis_dia as _cd
     for tipo, hora, picks, texto in posts:
+        espera = False
+        # 03/11 (Marcos): las combis con escudos y los estrellas con jugadores salen cuando hay alineación
+        # (alineaciones_espera.py las publica en cuanto sale); como tarde, 35 min antes del partido
+        if (tipo.startswith("combi-partido") or tipo.startswith("estrella")) and tipo not in ids_noche \
+                and any(_cd.es_jugador(x) for x in picks):
+            ini = min(datetime.fromisoformat(x["fecha"]).replace(tzinfo=MADRID) for x in picks)
+            hora, espera = ini - timedelta(minutes=ESPERA_TOPE), True
         if any(es_sin_empate(p["mercado"], p["opcion"]) for p in picks):
             continue  # No eliminar patas de una combi conservando su cuota anterior.
-        if picks:
+        if picks and not espera:
             primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
             hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
         if tipo in POSTS_LISTA:   # 31/10 (Marcos): no hace falta coger todos los picks
@@ -600,6 +613,8 @@ def posts_del_dia(dia, d):
                        "texto": texto, "foto": None, "origen": "analista", "directo": True,
                        "sel": ["|".join(map(str, clave(p))) for p in picks],
                        "cuotas": [p.get("cuota") for p in picks]})
+        if espera:
+            salida[-1]["espera_alineacion"] = True
         if tipo == "combi-partido" and tarjeta:
             salida[-1]["tarjeta"] = tarjeta
         if tipo in tarjetas and tarjetas[tipo]:
