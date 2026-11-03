@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.66 €
+Picks ya jugados: 361 · aciertos: 228 (63%) · beneficio a 1 € por pick: -39.78 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 44 | 65 | 68% | -1.71 € |
-| jugador | 58 | 91 | 64% | -10.65 € |
-| goles | 100 | 160 | 62% | -20.85 € |
+| resultado | 44 | 66 | 67% | -2.71 € |
+| jugador | 63 | 96 | 66% | -9.20 € |
+| goles | 110 | 171 | 64% | -18.22 € |
 | tarjetas | 5 | 9 | 56% | -1.13 € |
-| tiros | 4 | 9 | 44% | -1.94 € |
+| tiros | 5 | 10 | 50% | -1.14 € |
 | corners | 1 | 7 | 14% | -5.38 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
@@ -22,22 +22,22 @@ Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.
 | To Win Either Half · Home | 4 | 4 | 100% |
 | Match Winner · Home | 6 | 7 | 86% |
 | Match Winner · Away | 5 | 6 | 83% |
-| Goals Over/Under · Over 1.5 | 16 | 21 | 76% |
-| Total - Home · Over 0.5 | 6 | 8 | 75% |
-| Double Chance · Home/Draw | 3 | 4 | 75% |
+| Goals Over/Under · Over 1.5 | 18 | 23 | 78% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
+| Total - Home · Over 0.5 | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 27 | 39 | 69% |
-| Goals Over/Under · Over 2.5 | 10 | 15 | 67% |
+| Goals Over/Under · Over 2.5 | 11 | 16 | 69% |
+| Total - Away · Over 0.5 | 23 | 38 | 61% |
+| Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
+| Double Chance · Home/Draw | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 1.5 | 3 | 5 | 60% |
-| Total - Away · Over 0.5 | 21 | 36 | 58% |
+| Both Teams Score · Yes | 8 | 16 | 50% |
+| Shots.1x2 · Away | 2 | 4 | 50% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 6 | 50% |
 | To Win Either Half · Away | 2 | 4 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Home Team Total Cards · Over 1.5 | 2 | 4 | 50% |
-| Both Teams Score · Yes | 7 | 15 | 47% |
 | Double Chance · Draw/Away | 7 | 16 | 44% |
-| Goals Over/Under - Second Half · Over 0.5 | 3 | 7 | 43% |
-| Shots.1x2 · Away | 1 | 3 | 33% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
@@ -45,8 +45,23 @@ Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.
 
 ## Últimos días
 
-### 2026-11-02 · 1/1
+### 2026-11-02 · 15/16
 - ✅ Gol en la 1ª parte del Oviedo–Las Palmas · 1.36 (2-3)
+- ✅ Ambos marcan en Sassuolo–Fiorentina · 1.53 (2-4)
+- ✅ Más de 2,5 goles en Sassuolo–Fiorentina · 1.62 (2-4)
+- ✅ Gol en la 2ª parte del Valladolid–Leganes · 1.28 (4-3)
+- ✅ Fiorentina marca · 1.25 (2-4)
+- ✅ Sassuolo marca · 1.25 (2-4)
+- ✅ Radu Dragusin comete 1+ faltas · 1.40 (2-4)
+- ✅ Fiorentina hace más tiros · 1.80 (2-4)
+- ✅ Pathe Mboup: 2+ tiros · 1.30 (0-2)
+- ❌ Lorient o empate · 1.36 (0-2)
+- ✅ Más de 1,5 goles en Atalanta–Parma · 1.25 (0-3)
+- ✅ Más de 1,5 goles en Deportivo La Coruna–Osasuna · 1.40 (2-1)
+- ✅ Antonito Cordero: 1+ tiros · 1.25 (2-1)
+- ✅ Gol en la 2ª parte del Deportivo La Coruna–Osasuna · 1.30 (2-1)
+- ✅ Thierno Barry: 2+ tiros · 1.25 (0-1)
+- ✅ Osasuna marca · 1.50 (2-1)
 
 ### 2026-11-01 · 42/63
 - ❌ ADO Den Haag marca · 1.25 (1-0)
@@ -113,7 +128,7 @@ Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.
 - ❌ Mamadou Sarr comete 1+ faltas · 1.40 (2-1)
 - ✅ Enric Gallego: 1+ tiros a puerta · 1.30 (2-2)
 
-### 2026-10-31 · 70/117
+### 2026-10-31 · 72/120
 - ❌ Manchester United marca · 1.36 (2-0)
 - ✅ Stoke City gana alguna de las dos partes · 1.44 (2-0)
 - ✅ Gol en la 1ª parte del Norwich–Watford · 1.25 (3-2)
@@ -215,12 +230,15 @@ Picks ya jugados: 343 · aciertos: 212 (62%) · beneficio a 1 € por pick: -43.
 - ✅ Heerenveen o empate · 1.36 (1-0)
 - ❌ Willem II marca · 1.67 (7-0)
 - ❌ Ambos marcan en PSV Eindhoven–Willem II · 1.70 (7-0)
+- ❌ Lorient marca · 1.28 (0-2)
 - ✅ Más de 1,5 goles en Estac Troyes–Le Mans · 1.25 (2-0)
 - ❌ Le Mans marca · 1.33 (2-0)
 - ✅ Gol en la 1ª parte del Lyon–Angers · 1.25 (2-0)
 - ✅ Gol en la 1ª parte del Estac Troyes–Le Mans · 1.33 (2-0)
 - ❌ Angers marca · 1.62 (2-0)
+- ✅ Noah Cadiou: 1+ tiros · 1.25 (0-2)
 - ✅ Nicolo Barella: 1+ tiros · 1.33 (3-1)
+- ✅ Gol en la 2ª parte del Lorient–Stade Brestois 29 · 1.25 (0-2)
 - ✅ Alaves marca · 1.73 (6-1)
 - ❌ No hay empate en Aston Villa–Fulham · 1.30 (1-1)
 - ❌ GO Ahead Eagles o empate · 1.40 (4-0)

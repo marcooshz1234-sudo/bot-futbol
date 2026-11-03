@@ -1,7 +1,7 @@
 # Sevilla – Alaves
 **LaLiga** · Regular Season - 12 · 06/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -194,24 +194,24 @@ _Goles esperados: local 1,37 · visitante 1,07 · córners esperados 8,5._
 | Doble oportunidad: X2 | 56% | 51% | 54% | 1.83 | -2% |
 | Doble oportunidad: 12 | 73% | 72% | 73% | 1.30 | -6% |
 | Doble oportunidad: 1X | 71% | 77% | 74% | 1.22 | -10% |
-| Ambos marcan: No | 51% | 52% | 51% | 1.80 | -7% |
-| Ambos marcan: Sí | 49% | 48% | 49% | 1.95 | -5% |
+| Ambos marcan: No | 51% | 52% | 52% | 1.80 | -7% |
+| Ambos marcan: Sí | 49% | 48% | 48% | 1.95 | -5% |
 | Goles más/menos: Más de 1.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles más/menos: Más de 2.5 | 44% | 43% | 44% | 2.20 | -4% |
-| Goles más/menos: Más de 3.5 | 23% | 24% | 23% | 4.00 | -6% |
-| Goles más/menos: Menos de 1.5 | 30% | 30% | 30% | 3.20 | -5% |
+| Goles más/menos: Más de 3.5 | 23% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 30% | 30% | 30% | 3.20 | -4% |
 | Goles más/menos: Menos de 2.5 | 56% | 57% | 56% | 1.67 | -6% |
 | Goles más/menos: Menos de 3.5 | 77% | 76% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 65% | 65% | 1.44 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 29% | 29% | 3.25 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del local: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -5% |
+| Goles del local: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
 | Goles del local: Más de 1.5 | 40% | 42% | 41% | 2.20 | -10% |
-| Goles del local: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles del local: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
+| Goles del local: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
+| Goles del local: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -4% |
 | Goles del visitante: Más de 0.5 | 66% | 61% | 63% | 1.53 | -3% |
-| Goles del visitante: Más de 1.5 | 29% | 25% | 27% | 3.75 | +2% |
+| Goles del visitante: Más de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles del visitante: Menos de 0.5 | 34% | 39% | 37% | 2.38 | -13% |
 | Goles del visitante: Menos de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Córners más/menos: Más de 8.5 | 45% | 47% | 46% | 2.00 | -7% |

@@ -1,7 +1,7 @@
 # Twente – Ajax
 **Eredivisie** · Regular Season - 12 · 08/11/2026 14:30 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 39% | 31% | 2.35 | -28% |
 | 1X2: X | 20% | 24% | 22% | 3.90 | -15% |
-| 1X2: 1 | 58% | 37% | 48% | 2.50 | +19% |
+| 1X2: 1 | 58% | 37% | 47% | 2.50 | +19% |
 | Doble oportunidad: X2 | 42% | 63% | 53% | 1.50 | -21% |
 | Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -2% |
 | Doble oportunidad: 1X | 78% | 61% | 69% | 1.57 | +9% |
@@ -206,10 +206,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 69% | 71% | 70% | 1.33 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 22% | 4.00 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 1.5 | 67% | 54% | 60% | 1.73 | +4% |
 | Goles del local: Más de 2.5 | 40% | 27% | 33% | 3.50 | +17% |
 | Goles del local: Menos de 1.5 | 33% | 46% | 40% | 2.00 | -20% |
@@ -220,6 +220,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 84% | 71% | 77% | 1.33 | +3% |
 | 1X2 descanso: 2 | 22% | 34% | 28% | 2.75 | -24% |
 | 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
-| 1X2 descanso: 1 | 44% | 31% | 38% | 3.00 | +13% |
+| 1X2 descanso: 1 | 44% | 31% | 37% | 3.00 | +12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

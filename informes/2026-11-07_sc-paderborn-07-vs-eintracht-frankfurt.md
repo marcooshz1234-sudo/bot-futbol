@@ -1,7 +1,7 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -184,11 +184,11 @@ _Sin bajas comunicadas por ahora._
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,59 · córners esperados 9,8._
+_Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 44% | 44% | 2.10 | -7% |
+| 1X2: 2 | 45% | 44% | 45% | 2.10 | -7% |
 | 1X2: X | 25% | 25% | 25% | 3.80 | -7% |
 | 1X2: 1 | 31% | 31% | 31% | 3.00 | -7% |
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
@@ -202,10 +202,10 @@ _Goles esperados: local 1,29 · visitante 1,59 · córners esperados 9,8._
 | Goles más/menos: Menos de 2.5 ✅ | 45% | 34% | 40% | 2.75 | +9% |
 | Goles más/menos: Menos de 3.5 | 67% | 55% | 61% | 1.73 | +6% |
 | Goles más/menos: Menos de 4.5 | 83% | 73% | 78% | 1.30 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
 | Goles del local: Más de 0.5 | 72% | 77% | 75% | 1.22 | -9% |

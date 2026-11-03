@@ -1,10 +1,10 @@
 # Torreense – Ararat-Armenia
-**Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Estadio Algarve
+**Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Estádio Dr. Magalhães Pessoa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:08_
 
 - **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **2.10**

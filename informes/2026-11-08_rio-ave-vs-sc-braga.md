@@ -1,7 +1,7 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | A. Barišić | D | 4 | 302 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,49 · visitante 1,60 · córners esperados 9,3._
+_Goles esperados: local 0,49 · visitante 1,62 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Burgos – Celta de Vigo II
 **Segunda División** · Regular Season - 13 · 07/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Alexis Olmedo | D | 4 | 169 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,91 · visitante 1,08 · córners esperados 9,3._
+_Goles esperados: local 1,92 · visitante 1,08 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

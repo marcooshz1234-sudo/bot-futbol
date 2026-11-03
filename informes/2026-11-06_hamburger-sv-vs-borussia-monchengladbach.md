@@ -1,7 +1,7 @@
 # Hamburger SV – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 9 · 06/11/2026 20:30 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -195,7 +195,7 @@ _Goles esperados: local 1,54 · visitante 1,50 · córners esperados 9,4._
 |---|---|---|---|---|---|
 | 1X2: 2 | 37% | 33% | 35% | 2.80 | -2% |
 | 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
-| 1X2: 1 | 39% | 41% | 40% | 2.25 | -9% |
+| 1X2: 1 | 39% | 41% | 40% | 2.25 | -10% |
 | Doble oportunidad: X2 | 61% | 58% | 60% | 1.62 | -3% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 63% | 68% | 65% | 1.40 | -9% |
@@ -212,15 +212,15 @@ _Goles esperados: local 1,54 · visitante 1,50 · córners esperados 9,4._
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
 | Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -13% |
 | Goles del local: Más de 2.5 | 20% | 25% | 23% | 3.75 | -15% |
 | Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 75% | 77% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 1.5 | 44% | 46% | 45% | 2.00 | -10% |
+| Goles del visitante: Más de 1.5 | 44% | 46% | 45% | 2.00 | -9% |
 | Goles del visitante: Más de 2.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles del visitante: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -8% |
+| Goles del visitante: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -9% |
 | Goles del visitante: Menos de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
 | Goles del visitante: Menos de 2.5 | 81% | 78% | 80% | 1.20 | -4% |
 | Córners más/menos: Más de 9.5 | 44% | 51% | 48% | 1.80 | -14% |

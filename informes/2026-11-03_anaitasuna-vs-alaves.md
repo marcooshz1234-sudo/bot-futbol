@@ -1,10 +1,10 @@
 # Anaitasuna – Alaves
 **Copa del Rey** · Round of 128 · 03/11/2026 19:00 (hora España) · Campo Txerloia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 19:59_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **41.00**  ·  X **15.00**  ·  2 **1.03**
 - **Doble oportunidad:** 1X **15.00**  ·  12 **1.03**  ·  X2 **1.00**
@@ -23,6 +23,17 @@ _Actualizadas: 02/11 19:59_
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **2.50** · menos **1.50**
+    - 1,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.22** · menos **4.00**
+    - 3,5: más **1.57** · menos **2.25**
+    - 4,5: más **2.25** · menos **1.57**
+    - 5,5: más **3.75** · menos **1.25**
+    - 6,5: más **6.50** · menos **1.11**
+    - 7,5: más **13.00** · menos **1.04**
 - **1X2 descanso:** 1 **23.00**  ·  X **5.00**  ·  2 **1.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.06** · menos **10.00**

@@ -1,7 +1,7 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -52,41 +52,41 @@ _Actualizadas: 02/11 08:31_
 ## Estadísticas de equipo
 | | Fiorentina (total) | Fiorentina en casa | Juventus (total) | Juventus fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 7 | 13 | 6 |
-| Forma (últimos 5) | EDDDE | EDEVD | VDVED | DVVED |
-| Balance | 3V 2E 6D | 2V 2E 3D | 7V 3E 3D | 3V 1E 2D |
-| Goles a favor / partido | 1,64 | 1,71 | 1,69 | 1,33 |
+| Partidos analizados | 12 | 7 | 13 | 6 |
+| Forma (últimos 5) | VEDDD | EDEVD | VDVED | DVVED |
+| Balance | 4V 2E 6D | 2V 2E 3D | 7V 3E 3D | 3V 1E 2D |
+| Goles a favor / partido | 1,83 | 1,71 | 1,69 | 1,33 |
 | Goles en contra / partido | 2,00 | 1,71 | 1,00 | 1,17 |
-| Goles a favor 1ª parte | 0,55 | 0,57 | 0,62 | 0,50 |
-| Goles a favor 2ª parte | 1,09 | 1,14 | 1,08 | 0,83 |
-| Goles en contra 1ª parte | 0,91 | 0,86 | 0,54 | 0,67 |
-| Goles en contra 2ª parte | 1,09 | 0,86 | 0,46 | 0,50 |
+| Goles a favor 1ª parte | 0,58 | 0,57 | 0,62 | 0,50 |
+| Goles a favor 2ª parte | 1,25 | 1,14 | 1,08 | 0,83 |
+| Goles en contra 1ª parte | 0,92 | 0,86 | 0,54 | 0,67 |
+| Goles en contra 2ª parte | 1,08 | 0,86 | 0,46 | 0,50 |
 | Más de 1,5 goles | 100% | 100% | 92% | 83% |
-| Más de 2,5 goles | 91% | 86% | 38% | 33% |
-| Más de 3,5 goles | 45% | 43% | 23% | 17% |
-| Ambos marcan | 73% | 71% | 38% | 50% |
-| Portería a cero | 9% | 14% | 46% | 33% |
-| Se queda sin marcar | 18% | 14% | 15% | 17% |
-| xG a favor | 1,49 | 1,74 | 1,50 | 1,60 |
-| xG en contra | 1,53 | 1,17 | 0,74 | 0,84 |
-| Tiros / partido | 16,0 | 18,3 | 16,1 | 18,0 |
+| Más de 2,5 goles | 92% | 86% | 38% | 33% |
+| Más de 3,5 goles | 50% | 43% | 23% | 17% |
+| Ambos marcan | 75% | 71% | 38% | 50% |
+| Portería a cero | 8% | 14% | 46% | 33% |
+| Se queda sin marcar | 17% | 14% | 15% | 17% |
+| xG a favor | 1,60 | 1,74 | 1,50 | 1,60 |
+| xG en contra | 1,47 | 1,17 | 0,74 | 0,84 |
+| Tiros / partido | 15,9 | 18,3 | 16,1 | 18,0 |
 | Tiros a puerta / partido | 5,3 | 5,6 | 5,2 | 5,8 |
-| Tiros recibidos | 13,5 | 11,3 | 9,7 | 10,7 |
-| Tiros a puerta recibidos | 5,3 | 4,6 | 2,8 | 3,0 |
-| Posesión media % | 47 | 49 | 57 | 61 |
-| Córners a favor | 4,8 | 5,9 | 7,4 | 8,3 |
-| Córners en contra | 3,6 | 3,9 | 3,5 | 3,3 |
+| Tiros recibidos | 13,0 | 11,3 | 9,7 | 10,7 |
+| Tiros a puerta recibidos | 5,0 | 4,6 | 2,8 | 3,0 |
+| Posesión media % | 46 | 49 | 57 | 61 |
+| Córners a favor | 4,7 | 5,9 | 7,4 | 8,3 |
+| Córners en contra | 3,8 | 3,9 | 3,5 | 3,3 |
 | Córners a favor 1ª parte | 2,0 | 2,6 | 3,7 | 4,3 |
-| Córners a favor 2ª parte | 2,8 | 3,3 | 3,7 | 4,0 |
-| Córners totales del partido | 8,5 | 9,7 | 10,8 | 11,7 |
-| Córners totales 1ª parte | 3,6 | 4,3 | 5,2 | 5,5 |
-| Córners totales 2ª parte | 4,8 | 5,4 | 5,7 | 6,2 |
-| Más de 8,5 córners | 45% | 71% | 77% | 83% |
-| Más de 9,5 córners | 27% | 43% | 62% | 67% |
-| Más de 10,5 córners | 18% | 29% | 54% | 50% |
-| Faltas cometidas | 11,4 | 12,0 | 12,3 | 13,0 |
+| Córners a favor 2ª parte | 2,7 | 3,3 | 3,7 | 4,0 |
+| Córners totales del partido | 8,4 | 9,7 | 10,8 | 11,7 |
+| Córners totales 1ª parte | 3,5 | 4,3 | 5,2 | 5,5 |
+| Córners totales 2ª parte | 4,9 | 5,4 | 5,7 | 6,2 |
+| Más de 8,5 córners | 42% | 71% | 77% | 83% |
+| Más de 9,5 córners | 25% | 43% | 62% | 67% |
+| Más de 10,5 córners | 17% | 29% | 54% | 50% |
+| Faltas cometidas | 11,7 | 12,0 | 12,3 | 13,0 |
 | Faltas recibidas | 12,2 | 12,0 | 10,7 | 9,7 |
-| Amarillas propias | 2,1 | 2,0 | 1,3 | 1,3 |
+| Amarillas propias | 2,2 | 2,0 | 1,3 | 1,3 |
 | Amarillas del rival | 1,8 | 1,6 | 1,7 | 1,5 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
@@ -94,11 +94,11 @@ _Actualizadas: 02/11 08:31_
 | Tramo | Goles Fiorentina | Recibe Fiorentina | Tarjetas Fiorentina | Goles Juventus | Recibe Juventus | Tarjetas Juventus |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 2 | 3 | 2 | 2 | 1 |
-| 16-30' | 2 | 4 | 4 | 4 | 3 | 6 |
-| 31-45' | 3 | 4 | 1 | 2 | 2 | 0 |
-| 46-60' | 5 | 4 | 4 | 1 | 0 | 4 |
-| 61-75' | 5 | 3 | 7 | 4 | 3 | 3 |
-| 76-90' | 2 | 5 | 4 | 9 | 3 | 4 |
+| 16-30' | 2 | 5 | 4 | 4 | 3 | 6 |
+| 31-45' | 4 | 4 | 3 | 2 | 2 | 0 |
+| 46-60' | 6 | 4 | 4 | 1 | 0 | 4 |
+| 61-75' | 5 | 4 | 7 | 4 | 3 | 3 |
+| 76-90' | 4 | 5 | 5 | 9 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -116,36 +116,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Fiorentina
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Serie A | Sassuolo 2-4 Fiorentina | fuera | 3-5 | 15 (6) - 7 (2) | 3-2 |
 | 2026-10-29 | Serie A | Fiorentina 2-2 Atalanta | casa | 8-2 | 26 (4) - 10 (5) | 3-2 |
 | 2026-10-25 | Serie A | Inter 2-1 Fiorentina | fuera | 1-6 | 7 (2) - 33 (11) | 3-0 |
 | 2026-10-18 | Serie A | Fiorentina 1-3 Como | casa | 11-5 | 19 (7) - 16 (8) | 2-3 |
 | 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | fuera | 4-3 | 13 (3) - 10 (4) | 3-5 |
 | 2026-09-20 | Serie A | Fiorentina 1-1 Napoli | casa | 4-5 | 17 (4) - 13 (5) | 3-0 |
-| 2026-09-15 | Coppa Italia | Fiorentina 3-0 Pisa | casa | 3-0 | 13 (7) - 6 (0) | 2-2 |
 
 ## Jugadores de Fiorentina
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| David de Gea | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
-| R. Drăgușin | D | 11 | 942 | 0 | 2 | 5 | 0,5 | 1 | 0,1 | 11 | 7 | 0,6 | 1 | 0 |
-| C. Ndour | M | 11 | 927 | 1 | 1 | 15 | 1,4 | 5 | 0,5 | 12 | 4 | 0,4 | 1 | 0 |
-| Franco Mastantuono | F | 11 | 792 | 3 | 0 | 28 | 2,5 | 10 | 0,9 | 11 | 27 | 2,5 | 3 | 0 |
-| N. Fagioli | M | 10 | 733 | 0 | 2 | 8 | 0,8 | 4 | 0,4 | 6 | 10 | 1,0 | 1 | 0 |
-| Mateo Pellegrino | F | 10 | 722 | 3 | 0 | 14 | 1,4 | 6 | 0,6 | 6 | 12 | 1,2 | 2 | 0 |
-| Álex Jiménez | D | 9 | 624 | 2 | 3 | 7 | 0,8 | 2 | 0,2 | 2 | 5 | 0,6 | 1 | 0 |
-| Valde | D | 9 | 603 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 9 | 7 | 0,8 | 2 | 0 |
-| A. Njie | F | 8 | 556 | 1 | 2 | 12 | 1,5 | 5 | 0,6 | 6 | 12 | 1,5 | 1 | 0 |
-| Viery | D | 9 | 537 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 10 | 2 | 0,2 | 3 | 0 |
-| M. Brescianini | M | 9 | 478 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 4 | 0,4 | 0 | 0 |
-| João Mário | D | 7 | 414 | 1 | 1 | 7 | 1,0 | 3 | 0,4 | 5 | 8 | 1,1 | 0 | 0 |
+| David de Gea | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 1 | 0 |
+| R. Drăgușin | D | 12 | 1032 | 0 | 2 | 5 | 0,4 | 1 | 0,1 | 12 | 8 | 0,7 | 2 | 0 |
+| C. Ndour | M | 12 | 1017 | 1 | 2 | 15 | 1,2 | 5 | 0,4 | 15 | 4 | 0,3 | 1 | 0 |
+| Franco Mastantuono | F | 12 | 881 | 4 | 0 | 33 | 2,8 | 12 | 1,0 | 12 | 27 | 2,2 | 3 | 0 |
+| Mateo Pellegrino | F | 11 | 799 | 4 | 0 | 16 | 1,5 | 8 | 0,7 | 10 | 14 | 1,3 | 2 | 0 |
+| N. Fagioli | M | 11 | 796 | 0 | 2 | 8 | 0,7 | 4 | 0,4 | 6 | 11 | 1,0 | 1 | 0 |
+| Álex Jiménez | D | 10 | 714 | 2 | 3 | 7 | 0,7 | 2 | 0,2 | 3 | 6 | 0,6 | 1 | 0 |
+| Viery | D | 10 | 627 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 3 | 0,3 | 3 | 0 |
+| A. Njie | F | 9 | 619 | 2 | 3 | 14 | 1,6 | 6 | 0,7 | 9 | 12 | 1,3 | 2 | 0 |
+| Valde | D | 10 | 604 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 7 | 0,7 | 2 | 0 |
+| M. Brescianini | M | 10 | 555 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 5 | 5 | 0,5 | 0 | 0 |
+| João Mário | D | 8 | 504 | 1 | 1 | 8 | 1,0 | 3 | 0,4 | 5 | 11 | 1,4 | 0 | 0 |
 | Arthur Atta | M | 6 | 400 | 0 | 0 | 9 | 1,5 | 3 | 0,5 | 1 | 2 | 0,3 | 0 | 0 |
 | Luca Ranieri | D | 5 | 399 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 2 | 0,4 | 2 | 0 |
-| C. Inao OulaÃ¯ | M | 7 | 335 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 9 | 1,3 | 2 | 0 |
-| W. Gnonto | F | 8 | 319 | 1 | 0 | 7 | 0,9 | 3 | 0,4 | 8 | 3 | 0,4 | 1 | 0 |
+| C. Inao OulaÃ¯ | M | 8 | 362 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 10 | 1,2 | 2 | 0 |
+| W. Gnonto | F | 9 | 346 | 1 | 0 | 7 | 0,8 | 3 | 0,3 | 10 | 3 | 0,3 | 2 | 0 |
 | M. Pongračić | D | 7 | 311 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 2 | 0,3 | 0 | 0 |
-| Beto | F | 8 | 189 | 0 | 1 | 6 | 0,8 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
+| Beto | F | 9 | 202 | 0 | 1 | 8 | 0,9 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 | Dodô | D | 5 | 181 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
-| Pote | M | 7 | 148 | 1 | 0 | 4 | 0,6 | 2 | 0,3 | 1 | 0 | 0,0 | 0 | 0 |
+| Pote | M | 8 | 161 | 1 | 1 | 4 | 0,5 | 2 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Juventus
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -182,38 +182,38 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Boga | F | 8 | 188 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 0 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,99 · visitante 1,53 · córners esperados 9,4._
+_Goles esperados: local 1,07 · visitante 1,49 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 49% | 49% | 1.91 | -6% |
+| 1X2: 2 | 47% | 49% | 48% | 1.91 | -8% |
 | 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
-| 1X2: 1 | 25% | 25% | 25% | 3.70 | -8% |
-| Doble oportunidad: X2 | 75% | 74% | 75% | 1.28 | -4% |
+| 1X2: 1 | 27% | 25% | 26% | 3.70 | -3% |
+| Doble oportunidad: X2 | 73% | 74% | 73% | 1.28 | -6% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 50% | 52% | 51% | 1.83 | -7% |
-| Ambos marcan: No | 51% | 44% | 48% | 2.10 | -0% |
-| Ambos marcan: Sí | 49% | 56% | 52% | 1.67 | -12% |
-| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 55% | 50% | 1.73 | -13% |
-| Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
-| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
-| Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
-| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Doble oportunidad: 1X | 53% | 52% | 52% | 1.83 | -4% |
+| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
+| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
+| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -8% |
+| Goles más/menos: Más de 2.5 | 47% | 55% | 51% | 1.73 | -12% |
+| Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -18% |
+| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +7% |
+| Goles más/menos: Menos de 2.5 | 53% | 45% | 49% | 2.10 | +3% |
+| Goles más/menos: Menos de 3.5 | 74% | 66% | 70% | 1.44 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del local: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles del local: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles del local: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del visitante: Más de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Goles del visitante: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles del visitante: Menos de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
-| Goles del visitante: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
-| 1X2 descanso: 2 | 36% | 37% | 36% | 2.50 | -9% |
-| 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -4% |
-| 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del local: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
+| Goles del local: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles del local: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles del local: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del visitante: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Goles del visitante: Más de 2.5 | 19% | 25% | 22% | 3.75 | -18% |
+| Goles del visitante: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles del visitante: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -2% |
+| 1X2 descanso: 2 | 34% | 37% | 36% | 2.50 | -11% |
+| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
+| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

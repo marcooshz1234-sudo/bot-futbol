@@ -1,10 +1,10 @@
 # Panathinaikos – CSKA Sofia
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Olympic Stadium of Athens
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 20:00_
+_Actualizadas: 03/11 02:08_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.50**
@@ -181,7 +181,7 @@ _Sin precedentes recientes._
 | Isaac Solet | M | 2 | 18 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,78 · visitante 1,28 · córners esperados 10,1._
+_Goles esperados: local 2,77 · visitante 1,28 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -189,7 +189,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 17% | 16% | 5.50 | -12% |
 | 1X2: X | 16% | 22% | 19% | 4.20 | -20% |
-| 1X2: 1 | 69% | 61% | 65% | 1.50 | -2% |
+| 1X2: 1 | 69% | 61% | 65% | 1.50 | -3% |
 | Doble oportunidad: X2 | 31% | 38% | 35% | 2.50 | -13% |
 | Doble oportunidad: 12 | 84% | 78% | 81% | 1.22 | -1% |
 | Doble oportunidad: 1X | 85% | 84% | 84% | 1.14 | -4% |

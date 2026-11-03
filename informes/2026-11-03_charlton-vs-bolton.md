@@ -1,10 +1,10 @@
 # Charlton – Bolton
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 19:59_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **2.25**  ·  X **3.40**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.62**
@@ -230,18 +230,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del local: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles del local: Más de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
+| Goles del local: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Goles del local: Más de 2.5 | 15% | 22% | 19% | 4.33 | -20% |
 | Goles del local: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
 | Goles del local: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -2% |
+| Goles del local: Menos de 2.5 | 85% | 78% | 81% | 1.20 | -2% |
 | Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles del visitante: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
 | Goles del visitante: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
 | Goles del visitante: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Córners más/menos: Más de 10.5 | 42% | 48% | 45% | 1.98 | -11% |
 | Córners más/menos: Menos de 10.5 | 58% | 52% | 55% | 1.82 | +0% |
-| 1X2 descanso: 2 | 28% | 26% | 27% | 3.50 | -4% |
+| 1X2 descanso: 2 | 29% | 26% | 27% | 3.50 | -4% |
 | 1X2 descanso: X | 43% | 40% | 41% | 2.30 | -5% |
 | 1X2 descanso: 1 | 29% | 34% | 31% | 2.75 | -14% |
 

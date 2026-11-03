@@ -1,7 +1,7 @@
 # Cagliari – Frosinone
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -182,40 +182,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 1,81 · córners esperados 10,5._
+_Goles esperados: local 1,38 · visitante 1,79 · córners esperados 10,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 47% | 38% | 43% | 2.45 | +5% |
 | 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
 | 1X2: 1 | 30% | 35% | 32% | 2.70 | -13% |
-| Doble oportunidad: X2 | 70% | 65% | 68% | 1.44 | -2% |
+| Doble oportunidad: X2 | 70% | 65% | 68% | 1.44 | -3% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 53% | 61% | 57% | 1.53 | -13% |
-| Ambos marcan: No | 37% | 38% | 37% | 2.50 | -7% |
-| Ambos marcan: Sí | 63% | 62% | 63% | 1.50 | -6% |
-| Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
-| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
+| Ambos marcan: No | 38% | 38% | 38% | 2.50 | -6% |
+| Ambos marcan: Sí | 62% | 62% | 62% | 1.50 | -6% |
+| Goles más/menos: Más de 2.5 | 61% | 60% | 61% | 1.57 | -5% |
+| Goles más/menos: Más de 3.5 | 39% | 40% | 39% | 2.38 | -6% |
+| Goles más/menos: Más de 4.5 | 21% | 22% | 22% | 4.33 | -6% |
+| Goles más/menos: Menos de 2.5 | 39% | 40% | 39% | 2.38 | -7% |
+| Goles más/menos: Menos de 3.5 | 61% | 60% | 61% | 1.57 | -5% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
 | Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
 | Goles del local: Más de 1.5 | 40% | 46% | 43% | 2.00 | -13% |
-| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -18% |
 | Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
 | Goles del local: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -2% |
 | Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 84% | 79% | 81% | 1.18 | -4% |
-| Goles del visitante: Más de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Goles del visitante: Más de 2.5 | 27% | 23% | 25% | 4.00 | +1% |
-| Goles del visitante: Menos de 0.5 | 16% | 21% | 19% | 4.50 | -16% |
-| Goles del visitante: Menos de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles del visitante: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
+| Goles del visitante: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles del visitante: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
+| Goles del visitante: Más de 2.5 | 27% | 23% | 25% | 4.00 | -0% |
+| Goles del visitante: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -16% |
+| Goles del visitante: Menos de 1.5 | 47% | 51% | 49% | 1.80 | -12% |
+| Goles del visitante: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -8% |
 | 1X2 descanso: 2 | 36% | 32% | 34% | 2.88 | -2% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -8% |
 | 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -15% |

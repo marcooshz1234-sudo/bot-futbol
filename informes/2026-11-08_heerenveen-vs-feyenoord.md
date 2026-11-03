@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 20:01_
@@ -193,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | Gonçalo Borges | F | 2 | 44 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,73 · córners esperados 9,5._
+_Goles esperados: local 1,14 · visitante 1,73 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -208,10 +208,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 44% | 35% | 40% | 2.62 | +4% |
 | Ambos marcan: Sí | 56% | 65% | 60% | 1.44 | -13% |
 | Goles más/menos: Más de 2.5 | 55% | 67% | 61% | 1.40 | -15% |
-| Goles más/menos: Más de 3.5 | 32% | 49% | 40% | 1.91 | -23% |
+| Goles más/menos: Más de 3.5 | 32% | 49% | 41% | 1.91 | -23% |
 | Goles más/menos: Más de 4.5 | 16% | 29% | 23% | 3.25 | -26% |
 | Goles más/menos: Menos de 2.5 | 45% | 33% | 39% | 2.88 | +12% |
-| Goles más/menos: Menos de 3.5 | 68% | 51% | 60% | 1.80 | +7% |
+| Goles más/menos: Menos de 3.5 | 68% | 51% | 59% | 1.80 | +7% |
 | Goles más/menos: Menos de 4.5 | 84% | 71% | 77% | 1.33 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 49% | 42% | 1.91 | -20% |
@@ -219,11 +219,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 51% | 58% | 1.80 | +4% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 77% | 82% | 1.22 | -0% |
-| Goles del local: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 0.5 | 68% | 75% | 72% | 1.25 | -11% |
 | Goles del local: Más de 1.5 | 32% | 42% | 37% | 2.20 | -18% |
-| Goles del local: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles del local: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +7% |
 | Goles del local: Menos de 1.5 | 68% | 58% | 63% | 1.62 | +2% |
-| Goles del visitante: Más de 1.5 | 52% | 66% | 59% | 1.40 | -18% |
+| Goles del visitante: Más de 1.5 | 52% | 66% | 59% | 1.40 | -17% |
 | Goles del visitante: Más de 2.5 | 25% | 41% | 33% | 2.25 | -26% |
 | Goles del visitante: Más de 3.5 | 10% | 22% | 16% | 4.33 | -32% |
 | Goles del visitante: Menos de 1.5 | 48% | 34% | 41% | 2.75 | +13% |

@@ -1,7 +1,7 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -50,42 +50,42 @@ _Actualizadas: 02/11 08:31_
 ## Estadísticas de equipo
 | | Parma (total) | Parma en casa | Bologna (total) | Bologna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 7 | 10 | 5 |
-| Forma (últimos 5) | EDDDV | EDVED | VVVDV | VVVDD |
-| Balance | 2V 2E 7D | 2V 2E 3D | 4V 2E 4D | 3V 0E 2D |
-| Goles a favor / partido | 0,64 | 0,71 | 1,40 | 1,60 |
-| Goles en contra / partido | 1,55 | 1,14 | 1,30 | 1,00 |
-| Goles a favor 1ª parte | 0,27 | 0,43 | 0,50 | 0,40 |
-| Goles a favor 2ª parte | 0,36 | 0,29 | 0,90 | 1,20 |
-| Goles en contra 1ª parte | 0,82 | 0,71 | 0,50 | 0,40 |
-| Goles en contra 2ª parte | 0,73 | 0,43 | 0,80 | 0,60 |
-| Más de 1,5 goles | 82% | 71% | 70% | 60% |
-| Más de 2,5 goles | 45% | 29% | 50% | 40% |
+| Partidos analizados | 12 | 7 | 10 | 5 |
+| Forma (últimos 5) | VEDDD | EDVED | VVVDV | VVVDD |
+| Balance | 3V 2E 7D | 2V 2E 3D | 4V 2E 4D | 3V 0E 2D |
+| Goles a favor / partido | 0,83 | 0,71 | 1,40 | 1,60 |
+| Goles en contra / partido | 1,42 | 1,14 | 1,30 | 1,00 |
+| Goles a favor 1ª parte | 0,33 | 0,43 | 0,50 | 0,40 |
+| Goles a favor 2ª parte | 0,50 | 0,29 | 0,90 | 1,20 |
+| Goles en contra 1ª parte | 0,75 | 0,71 | 0,50 | 0,40 |
+| Goles en contra 2ª parte | 0,67 | 0,43 | 0,80 | 0,60 |
+| Más de 1,5 goles | 83% | 71% | 70% | 60% |
+| Más de 2,5 goles | 50% | 29% | 50% | 40% |
 | Más de 3,5 goles | 0% | 0% | 30% | 20% |
-| Ambos marcan | 36% | 29% | 60% | 40% |
-| Portería a cero | 18% | 29% | 10% | 20% |
-| Se queda sin marcar | 55% | 57% | 30% | 40% |
-| xG a favor | 0,84 | 0,96 | 1,45 | 1,37 |
-| xG en contra | 1,69 | 1,27 | 1,34 | 1,00 |
-| Tiros / partido | 10,4 | 11,3 | 11,6 | 9,8 |
+| Ambos marcan | 33% | 29% | 60% | 40% |
+| Portería a cero | 25% | 29% | 10% | 20% |
+| Se queda sin marcar | 50% | 57% | 30% | 40% |
+| xG a favor | 0,80 | 0,96 | 1,45 | 1,37 |
+| xG en contra | 1,81 | 1,27 | 1,34 | 1,00 |
+| Tiros / partido | 10,0 | 11,3 | 11,6 | 9,8 |
 | Tiros a puerta / partido | 3,6 | 3,9 | 4,0 | 4,0 |
-| Tiros recibidos | 16,4 | 12,9 | 11,3 | 10,2 |
-| Tiros a puerta recibidos | 5,0 | 4,4 | 3,8 | 2,8 |
-| Posesión media % | 43 | 45 | 48 | 44 |
-| Córners a favor | 3,9 | 4,7 | 4,0 | 2,8 |
-| Córners en contra | 5,9 | 4,7 | 5,1 | 4,8 |
-| Córners a favor 1ª parte | 2,0 | 2,0 | 1,7 | 0,8 |
+| Tiros recibidos | 16,7 | 12,9 | 11,3 | 10,2 |
+| Tiros a puerta recibidos | 5,1 | 4,4 | 3,8 | 2,8 |
+| Posesión media % | 42 | 45 | 48 | 44 |
+| Córners a favor | 4,0 | 4,7 | 4,0 | 2,8 |
+| Córners en contra | 6,1 | 4,7 | 5,1 | 4,8 |
+| Córners a favor 1ª parte | 2,1 | 2,0 | 1,7 | 0,8 |
 | Córners a favor 2ª parte | 1,9 | 2,7 | 2,3 | 2,0 |
-| Córners totales del partido | 9,8 | 9,4 | 9,1 | 7,6 |
-| Córners totales 1ª parte | 5,4 | 4,9 | 3,6 | 2,4 |
+| Córners totales del partido | 10,1 | 9,4 | 9,1 | 7,6 |
+| Córners totales 1ª parte | 5,6 | 4,9 | 3,6 | 2,4 |
 | Córners totales 2ª parte | 4,5 | 4,6 | 5,5 | 5,2 |
-| Más de 8,5 córners | 55% | 43% | 40% | 40% |
-| Más de 9,5 córners | 36% | 14% | 40% | 40% |
-| Más de 10,5 córners | 36% | 14% | 30% | 20% |
-| Faltas cometidas | 11,2 | 12,3 | 13,1 | 12,0 |
-| Faltas recibidas | 13,1 | 13,6 | 14,6 | 15,4 |
-| Amarillas propias | 1,4 | 1,6 | 2,1 | 1,2 |
-| Amarillas del rival | 1,6 | 2,0 | 2,1 | 1,4 |
+| Más de 8,5 córners | 58% | 43% | 40% | 40% |
+| Más de 9,5 córners | 42% | 14% | 40% | 40% |
+| Más de 10,5 córners | 42% | 14% | 30% | 20% |
+| Faltas cometidas | 11,1 | 12,3 | 13,1 | 12,0 |
+| Faltas recibidas | 12,7 | 13,6 | 14,6 | 15,4 |
+| Amarillas propias | 1,2 | 1,6 | 2,1 | 1,2 |
+| Amarillas del rival | 1,5 | 2,0 | 2,1 | 1,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -93,8 +93,8 @@ _Actualizadas: 02/11 08:31_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 3 | 1 | 3 | 2 | 0 |
 | 16-30' | 1 | 3 | 2 | 1 | 2 | 2 |
-| 31-45' | 2 | 3 | 1 | 1 | 1 | 6 |
-| 46-60' | 1 | 2 | 3 | 4 | 2 | 3 |
+| 31-45' | 3 | 3 | 1 | 1 | 1 | 6 |
+| 46-60' | 3 | 2 | 3 | 4 | 2 | 3 |
 | 61-75' | 0 | 3 | 1 | 2 | 3 | 3 |
 | 76-90' | 3 | 3 | 8 | 3 | 3 | 7 |
 
@@ -114,36 +114,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Parma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Serie A | Atalanta 0-3 Parma | fuera | 5-8 | 6 (3) - 20 (6) | 0-0 |
 | 2026-10-28 | Serie A | Parma 0-0 Udinese | casa | 3-6 | 8 (2) - 20 (5) | 1-2 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | fuera | 3-8 | 10 (4) - 21 (5) | 1-1 |
 | 2026-10-19 | Serie A | Parma 0-3 Torino | casa | 6-2 | 25 (8) - 9 (3) | 3-2 |
 | 2026-10-10 | Serie A | Inter 3-0 Parma | fuera | 1-3 | 9 (2) - 19 (6) | –-– |
 | 2026-09-20 | Serie A | Parma 2-1 Genoa | casa | 2-5 | 5 (2) - 12 (5) | 3-3 |
-| 2026-09-14 | Serie A | Como 2-1 Parma | fuera | 4-11 | 12 (4) - 29 (7) | 0-1 |
 
 ## Jugadores de Parma
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Del Prato | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 4 | 5 | 0,5 | 2 | 0 |
-| M. Troilo | D | 10 | 895 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 7 | 8 | 0,8 | 3 | 0 |
-| M. Keita | M | 11 | 864 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 6 | 27 | 2,5 | 1 | 0 |
-| E. Valeri | D | 11 | 852 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 5 | 0,5 | 0 | 0 |
+| E. Del Prato | D | 11 | 990 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 4 | 5 | 0,5 | 2 | 0 |
+| M. Troilo | D | 11 | 985 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 9 | 0,8 | 3 | 0 |
+| M. Keita | M | 12 | 954 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 27 | 2,2 | 1 | 0 |
+| E. Valeri | M | 12 | 942 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 5 | 6 | 0,5 | 0 | 0 |
+| E. Touré | F | 12 | 876 | 0 | 2 | 13 | 1,1 | 6 | 0,5 | 12 | 10 | 0,8 | 0 | 0 |
 | E. Corvi | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| E. Touré | M | 11 | 802 | 0 | 2 | 13 | 1,2 | 6 | 0,5 | 11 | 10 | 0,9 | 0 | 0 |
-| S. Britschgi | M | 9 | 591 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 4 | 0,4 | 1 | 0 |
-| S. Lontani | F | 10 | 512 | 4 | 0 | 16 | 1,6 | 6 | 0,6 | 7 | 9 | 0,9 | 1 | 0 |
-| D. Drobnic | D | 6 | 495 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
+| S. Britschgi | M | 10 | 681 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 4 | 0,4 | 1 | 0 |
+| S. Lontani | F | 11 | 579 | 5 | 0 | 17 | 1,5 | 7 | 0,6 | 7 | 11 | 1,0 | 1 | 0 |
+| D. Drobnic | D | 7 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
+| C. Ordoñez | M | 9 | 481 | 0 | 0 | 6 | 0,7 | 0 | 0,0 | 4 | 8 | 0,9 | 0 | 0 |
+| V. Sierro | M | 7 | 476 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 11 | 5 | 0,7 | 1 | 0 |
 | D. Romero | F | 9 | 468 | 2 | 0 | 18 | 2,0 | 10 | 1,1 | 6 | 8 | 0,9 | 0 | 0 |
 | Adrián Bernabé | M | 8 | 465 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 6 | 17 | 2,1 | 0 | 0 |
-| C. Ordoñez | M | 8 | 458 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 4 | 8 | 1,0 | 0 | 0 |
 | Diego Carlos | D | 6 | 423 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 7 | 1 | 0,2 | 1 | 0 |
-| V. Sierro | M | 6 | 387 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 9 | 4 | 0,7 | 1 | 0 |
-| G. Fabbian | M | 8 | 303 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 8 | 6 | 0,8 | 0 | 0 |
-| M. Frigan | F | 8 | 242 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 3 | 5 | 0,6 | 0 | 0 |
+| G. Fabbian | M | 9 | 377 | 1 | 2 | 4 | 0,4 | 2 | 0,2 | 9 | 6 | 0,7 | 0 | 0 |
+| G. Daffara | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| M. Frigan | F | 9 | 258 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 6 | 0,7 | 0 | 0 |
+| N. Elphege | F | 7 | 241 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
 | F. Carboni | M | 4 | 229 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| Nesta Elphege | F | 6 | 225 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 | Abdou-Salam Konate | M | 4 | 205 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,5 | 1 | 0 |
-| G. Daffara | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de Bologna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -180,39 +180,39 @@ _Sin bajas comunicadas por ahora._
 | O. El Azzouzi | M | 3 | 123 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 2 | 0,7 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,74 · visitante 1,35 · córners esperados 9,4._
+_Goles esperados: local 0,80 · visitante 1,34 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 51% | 52% | 52% | 1.80 | -7% |
+| 1X2: 2 | 50% | 52% | 51% | 1.80 | -9% |
 | 1X2: X | 28% | 27% | 28% | 3.40 | -5% |
-| 1X2: 1 | 21% | 21% | 21% | 4.50 | -7% |
-| Doble oportunidad: X2 | 79% | 80% | 79% | 1.18 | -6% |
+| 1X2: 1 | 22% | 21% | 21% | 4.50 | -3% |
+| Doble oportunidad: X2 | 78% | 80% | 79% | 1.18 | -7% |
 | Doble oportunidad: 12 | 72% | 72% | 72% | 1.30 | -6% |
-| Doble oportunidad: 1X | 49% | 48% | 48% | 1.95 | -5% |
-| Ambos marcan: No | 61% | 53% | 57% | 1.75 | +0% |
-| Ambos marcan: Sí | 39% | 47% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 1.5 | 62% | 70% | 66% | 1.36 | -10% |
-| Goles más/menos: Más de 2.5 | 35% | 43% | 39% | 2.20 | -14% |
-| Goles más/menos: Más de 3.5 | 16% | 24% | 20% | 4.00 | -20% |
-| Goles más/menos: Menos de 1.5 ✅ | 38% | 30% | 34% | 3.20 | +9% |
-| Goles más/menos: Menos de 2.5 | 65% | 57% | 61% | 1.67 | +2% |
-| Goles más/menos: Menos de 3.5 | 84% | 76% | 80% | 1.25 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 0.5 | 52% | 58% | 55% | 1.62 | -11% |
-| Goles del local: Más de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles del local: Menos de 0.5 | 48% | 42% | 45% | 2.20 | -1% |
-| Goles del local: Menos de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
+| Doble oportunidad: 1X | 50% | 48% | 49% | 1.95 | -4% |
+| Ambos marcan: No | 60% | 53% | 56% | 1.75 | -1% |
+| Ambos marcan: Sí | 40% | 47% | 44% | 2.00 | -13% |
+| Goles más/menos: Más de 1.5 | 63% | 70% | 67% | 1.36 | -9% |
+| Goles más/menos: Más de 2.5 | 36% | 43% | 40% | 2.20 | -13% |
+| Goles más/menos: Más de 3.5 | 17% | 24% | 20% | 4.00 | -19% |
+| Goles más/menos: Menos de 1.5 ✅ | 37% | 30% | 33% | 3.20 | +7% |
+| Goles más/menos: Menos de 2.5 | 64% | 57% | 60% | 1.67 | +1% |
+| Goles más/menos: Menos de 3.5 | 83% | 76% | 80% | 1.25 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 61% | 65% | 63% | 1.44 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 35% | 37% | 2.62 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 71% | 74% | 1.33 | -2% |
+| Goles del local: Más de 0.5 | 55% | 58% | 56% | 1.62 | -9% |
+| Goles del local: Más de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles del local: Menos de 0.5 | 45% | 42% | 44% | 2.20 | -4% |
+| Goles del local: Menos de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles del visitante: Más de 0.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del visitante: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Goles del visitante: Más de 2.5 | 15% | 22% | 19% | 4.33 | -20% |
+| Goles del visitante: Más de 2.5 | 15% | 22% | 18% | 4.33 | -20% |
 | Goles del visitante: Menos de 0.5 | 26% | 23% | 25% | 4.00 | -1% |
 | Goles del visitante: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del visitante: Menos de 2.5 | 85% | 78% | 81% | 1.20 | -2% |
-| 1X2 descanso: 2 | 35% | 37% | 36% | 2.50 | -10% |
+| Goles del visitante: Menos de 2.5 | 85% | 78% | 82% | 1.20 | -2% |
+| 1X2 descanso: 2 | 34% | 37% | 36% | 2.50 | -11% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Borussia Dortmund – SV Elversberg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -187,14 +187,14 @@ _Sin precedentes recientes._
 | N. Mickelson | D | 5 | 79 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,07 · visitante 0,93 · córners esperados 10,9._
+_Goles esperados: local 2,06 · visitante 0,93 · córners esperados 10,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 16% | 12% | 14% | 8.00 | +11% |
-| 1X2: X | 20% | 16% | 18% | 5.75 | +4% |
-| 1X2: 1 | 64% | 72% | 68% | 1.27 | -14% |
-| Doble oportunidad: X2 | 36% | 26% | 31% | 3.75 | +17% |
+| 1X2: X | 20% | 16% | 18% | 5.75 | +5% |
+| 1X2: 1 | 63% | 72% | 68% | 1.27 | -14% |
+| Doble oportunidad: X2 | 37% | 26% | 31% | 3.75 | +17% |
 | Doble oportunidad: 12 | 80% | 85% | 82% | 1.14 | -6% |
 | Doble oportunidad: 1X | 84% | 89% | 87% | 1.08 | -6% |
 | Ambos marcan: No | 47% | 42% | 45% | 2.20 | -2% |
@@ -215,14 +215,14 @@ _Goles esperados: local 2,07 · visitante 0,93 · córners esperados 10,9._
 | Goles 1ª parte más/menos: Menos de 2.5 | 86% | 75% | 80% | 1.25 | +0% |
 | Goles del local: Más de 1.5 | 61% | 75% | 68% | 1.25 | -15% |
 | Goles del local: Más de 2.5 | 34% | 54% | 44% | 1.73 | -24% |
-| Goles del local: Más de 3.5 | 16% | 31% | 23% | 3.00 | -30% |
+| Goles del local: Más de 3.5 | 15% | 31% | 23% | 3.00 | -30% |
 | Goles del local: Menos de 1.5 ✅ | 39% | 25% | 32% | 3.75 | +20% |
 | Goles del local: Menos de 2.5 | 66% | 46% | 56% | 2.00 | +12% |
-| Goles del local: Menos de 3.5 | 84% | 69% | 77% | 1.36 | +4% |
+| Goles del local: Menos de 3.5 | 85% | 69% | 77% | 1.36 | +4% |
 | Goles del visitante: Más de 0.5 | 61% | 62% | 62% | 1.50 | -8% |
 | Goles del visitante: Más de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles del visitante: Menos de 0.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles del visitante: Menos de 1.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Menos de 1.5 | 76% | 73% | 75% | 1.28 | -5% |
 | Córners más/menos: Más de 10.5 | 48% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 10.5 | 52% | 54% | 53% | 1.73 | -9% |
 | 1X2 descanso: X | 38% | 30% | 34% | 3.10 | +5% |

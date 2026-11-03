@@ -1,7 +1,7 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Dominik Steczyk | F | 3 | 62 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,05 · visitante 1,55 · córners esperados 9,5._
+_Goles esperados: local 1,07 · visitante 1,57 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

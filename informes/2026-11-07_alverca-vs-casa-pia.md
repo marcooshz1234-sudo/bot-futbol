@@ -1,7 +1,7 @@
 # Alverca – Casa Pia
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 19:00 (hora España) · FC Alverca Sports Complex
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 20:01_
@@ -41,52 +41,52 @@ _Actualizadas: 02/11 20:01_
 ## Estadísticas de equipo
 | | Alverca (total) | Alverca en casa | Casa Pia (total) | Casa Pia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 11 | 6 |
-| Forma (últimos 5) | DDVVV | DVDEE | DVVDV | VVVED |
-| Balance | 3V 2E 5D | 1V 2E 2D | 3V 1E 7D | 3V 1E 2D |
-| Goles a favor / partido | 1,30 | 1,00 | 0,55 | 0,83 |
-| Goles en contra / partido | 1,50 | 1,20 | 1,73 | 0,67 |
-| Goles a favor 1ª parte | 0,60 | 0,40 | 0,18 | 0,17 |
-| Goles a favor 2ª parte | 0,70 | 0,60 | 0,36 | 0,67 |
-| Goles en contra 1ª parte | 0,50 | 0,20 | 0,64 | 0,33 |
+| Partidos analizados | 11 | 5 | 11 | 6 |
+| Forma (últimos 5) | DDDVV | DVDEE | DVVDV | VVVED |
+| Balance | 3V 2E 6D | 1V 2E 2D | 3V 1E 7D | 3V 1E 2D |
+| Goles a favor / partido | 1,18 | 1,00 | 0,55 | 0,83 |
+| Goles en contra / partido | 1,45 | 1,20 | 1,73 | 0,67 |
+| Goles a favor 1ª parte | 0,55 | 0,40 | 0,18 | 0,17 |
+| Goles a favor 2ª parte | 0,64 | 0,60 | 0,36 | 0,67 |
+| Goles en contra 1ª parte | 0,45 | 0,20 | 0,64 | 0,33 |
 | Goles en contra 2ª parte | 1,00 | 1,00 | 1,09 | 0,33 |
-| Más de 1,5 goles | 80% | 60% | 55% | 50% |
-| Más de 2,5 goles | 50% | 40% | 27% | 17% |
-| Más de 3,5 goles | 40% | 20% | 18% | 0% |
-| Ambos marcan | 60% | 60% | 18% | 17% |
-| Portería a cero | 10% | 20% | 27% | 50% |
-| Se queda sin marcar | 30% | 20% | 64% | 50% |
-| xG a favor | 1,47 | 1,43 | 0,80 | 0,92 |
+| Más de 1,5 goles | 73% | 60% | 55% | 50% |
+| Más de 2,5 goles | 45% | 40% | 27% | 17% |
+| Más de 3,5 goles | 36% | 20% | 18% | 0% |
+| Ambos marcan | 55% | 60% | 18% | 17% |
+| Portería a cero | 9% | 20% | 27% | 50% |
+| Se queda sin marcar | 36% | 20% | 64% | 50% |
+| xG a favor | 1,39 | 1,43 | 0,80 | 0,92 |
 | xG en contra | 1,64 | 1,48 | 1,73 | 1,66 |
-| Tiros / partido | 11,8 | 11,6 | 9,9 | 10,0 |
+| Tiros / partido | 11,4 | 11,6 | 9,9 | 10,0 |
 | Tiros a puerta / partido | 3,8 | 2,8 | 2,7 | 3,2 |
 | Tiros recibidos | 12,7 | 12,8 | 16,5 | 17,0 |
 | Tiros a puerta recibidos | 4,2 | 4,6 | 5,8 | 5,6 |
 | Posesión media % | 41 | 41 | 43 | 43 |
-| Córners a favor | 4,1 | 5,0 | 4,0 | 4,6 |
-| Córners en contra | 3,2 | 2,4 | 6,1 | 7,2 |
-| Córners a favor 1ª parte | 1,6 | 1,8 | 1,6 | 1,8 |
-| Córners a favor 2ª parte | 2,5 | 3,2 | 2,4 | 2,8 |
-| Córners totales del partido | 7,3 | 7,4 | 10,1 | 11,8 |
-| Córners totales 1ª parte | 3,5 | 3,2 | 4,6 | 5,8 |
-| Córners totales 2ª parte | 3,8 | 4,2 | 5,5 | 6,0 |
-| Más de 8,5 córners | 40% | 40% | 50% | 60% |
-| Más de 9,5 córners | 40% | 40% | 50% | 60% |
-| Más de 10,5 córners | 40% | 40% | 40% | 60% |
-| Faltas cometidas | 14,1 | 11,2 | 12,1 | 11,0 |
+| Córners a favor | 4,2 | 5,0 | 4,0 | 4,6 |
+| Córners en contra | 3,6 | 2,4 | 6,1 | 7,2 |
+| Córners a favor 1ª parte | 1,5 | 1,8 | 1,6 | 1,8 |
+| Córners a favor 2ª parte | 2,6 | 3,2 | 2,4 | 2,8 |
+| Córners totales del partido | 7,8 | 7,4 | 10,1 | 11,8 |
+| Córners totales 1ª parte | 3,8 | 3,2 | 4,6 | 5,8 |
+| Córners totales 2ª parte | 4,0 | 4,2 | 5,5 | 6,0 |
+| Más de 8,5 córners | 45% | 40% | 50% | 60% |
+| Más de 9,5 córners | 45% | 40% | 50% | 60% |
+| Más de 10,5 córners | 45% | 40% | 40% | 60% |
+| Faltas cometidas | 14,2 | 11,2 | 12,1 | 11,0 |
 | Faltas recibidas | 11,3 | 11,6 | 13,3 | 12,8 |
-| Amarillas propias | 2,0 | 1,6 | 2,2 | 1,8 |
-| Amarillas del rival | 1,8 | 2,8 | 2,0 | 1,8 |
-| Rojas / partido | 0,30 | 0,60 | 0,20 | 0,00 |
+| Amarillas propias | 2,1 | 1,6 | 2,2 | 1,8 |
+| Amarillas del rival | 1,7 | 2,8 | 2,0 | 1,8 |
+| Rojas / partido | 0,27 | 0,60 | 0,20 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Alverca | Recibe Alverca | Tarjetas Alverca | Goles Casa Pia | Recibe Casa Pia | Tarjetas Casa Pia |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 2 | 3 | 0 | 3 | 2 |
+| 1-15' | 2 | 2 | 4 | 0 | 3 | 2 |
 | 16-30' | 1 | 1 | 2 | 0 | 2 | 1 |
 | 31-45' | 3 | 2 | 6 | 2 | 2 | 2 |
-| 46-60' | 2 | 5 | 2 | 0 | 5 | 3 |
-| 61-75' | 2 | 1 | 4 | 2 | 4 | 6 |
+| 46-60' | 2 | 6 | 3 | 0 | 5 | 3 |
+| 61-75' | 2 | 1 | 5 | 2 | 4 | 6 |
 | 76-90' | 3 | 4 | 5 | 2 | 3 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -102,36 +102,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Alverca
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Primeira Liga | Benfica 1-0 Alverca | fuera | 5-8 | 8 (4) - 13 (4) | 3-1 |
 | 2026-10-24 | Primeira Liga | Alverca 0-1 Arouca | casa | 3-3 | 10 (1) - 17 (4) | 1-2 |
 | 2026-10-18 | Taça de Portugal | Tondela 2-0 Alverca | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-12 | Primeira Liga | Famalicao 1-4 Alverca | fuera | 3-8 | 14 (5) - 13 (2) | 2-3 |
 | 2026-09-19 | Primeira Liga | Alverca 1-0 Rio Ave | casa | 8-3 | 23 (6) - 6 (3) | 2-2 |
 | 2026-09-12 | Primeira Liga | Nacional 1-3 Alverca | fuera | 0-2 | 10 (7) - 13 (3) | 3-0 |
-| 2026-09-05 | Primeira Liga | Alverca 1-2 SC Braga | casa | 2-2 | 6 (2) - 16 (6) | 2-4 |
 
 ## Jugadores de Alverca
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Matheus Mendes | G | 9 | 810 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
-| I. James | D | 9 | 774 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
-| Figueiredo | F | 9 | 703 | 2 | 0 | 12 | 1,3 | 5 | 0,6 | 14 | 15 | 1,7 | 2 | 0 |
+| Matheus Mendes | G | 10 | 900 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
+| I. James | D | 10 | 860 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
+| Figueiredo | F | 10 | 762 | 2 | 0 | 14 | 1,4 | 7 | 0,7 | 17 | 18 | 1,8 | 2 | 0 |
+| Y. Bojang | D | 9 | 693 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 5 | 3 | 0,3 | 4 | 0 |
+| D. Gui | M | 9 | 661 | 0 | 0 | 9 | 1,0 | 2 | 0,2 | 15 | 6 | 0,7 | 2 | 0 |
+| Chiquinho | F | 8 | 647 | 2 | 2 | 17 | 2,1 | 6 | 0,8 | 15 | 36 | 4,5 | 2 | 0 |
 | S. Baseya | D | 8 | 636 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 11 | 1,4 | 0 | 1 |
-| Y. Bojang | D | 8 | 603 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 3 | 0,4 | 3 | 0 |
-| D. Gui | M | 8 | 571 | 0 | 0 | 8 | 1,0 | 2 | 0,2 | 13 | 6 | 0,8 | 2 | 0 |
-| Chiquinho | F | 7 | 557 | 2 | 2 | 15 | 2,1 | 5 | 0,7 | 13 | 30 | 4,3 | 1 | 0 |
-| Ian Luccas | M | 7 | 501 | 1 | 0 | 9 | 1,3 | 2 | 0,3 | 5 | 3 | 0,4 | 1 | 0 |
+| Ian Luccas | M | 8 | 576 | 1 | 0 | 9 | 1,1 | 2 | 0,2 | 6 | 3 | 0,4 | 2 | 0 |
+| Sergi Gómez | D | 7 | 548 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 0 | 0,0 | 0 | 0 |
+| Francisco Chissumba | M | 9 | 518 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 9 | 2 | 0,2 | 1 | 0 |
+| Diogo Filipe Spencer Marques | D | 6 | 460 | 0 | 3 | 3 | 0,5 | 1 | 0,2 | 8 | 4 | 0,7 | 2 | 0 |
 | Rayan | M | 8 | 460 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 7 | 3 | 0,4 | 0 | 0 |
-| Francisco Chissumba | M | 8 | 459 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 2 | 0,2 | 1 | 0 |
-| Sergi Gómez | D | 6 | 458 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 0 | 0,0 | 0 | 0 |
-| Diogo Filipe Spencer Marques | M | 5 | 429 | 0 | 3 | 3 | 0,6 | 1 | 0,2 | 8 | 3 | 0,6 | 2 | 0 |
-| Vivaldo Semedo | F | 8 | 382 | 3 | 0 | 8 | 1,0 | 4 | 0,5 | 9 | 5 | 0,6 | 0 | 0 |
-| Zoubdi | F | 5 | 306 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 0 | 0,0 | 1 | 0 |
-| D. Camara | F | 5 | 305 | 3 | 0 | 10 | 2,0 | 6 | 1,2 | 3 | 1 | 0,2 | 1 | 0 |
+| Vivaldo Semedo | F | 9 | 397 | 3 | 0 | 8 | 0,9 | 4 | 0,4 | 9 | 5 | 0,6 | 0 | 0 |
+| Zoubdi | M | 6 | 396 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 7 | 0 | 0,0 | 1 | 0 |
+| D. Camara | F | 6 | 380 | 3 | 0 | 10 | 1,7 | 6 | 1,0 | 6 | 1 | 0,2 | 1 | 0 |
 | André Vidigal | F | 7 | 292 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 4 | 3 | 0,4 | 1 | 1 |
 | Bastien Meupiyou | D | 2 | 173 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 1,0 | 0 | 0 |
+| Matheus França | F | 5 | 116 | 0 | 0 | 5 | 1,0 | 3 | 0,6 | 3 | 1 | 0,2 | 0 | 0 |
 | S. Merheg | F | 4 | 94 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | Toni Tamarit | M | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| Matheus França | F | 4 | 85 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Casa Pia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -168,31 +168,31 @@ _Sin bajas comunicadas por ahora._
 | P. Sequeira | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 0,85 · córners esperados 9,6._
+_Goles esperados: local 1,68 · visitante 0,77 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 18% | 20% | 19% | 4.75 | -10% |
-| 1X2: X | 24% | 25% | 24% | 3.80 | -9% |
-| 1X2: 1 | 58% | 56% | 57% | 1.67 | -5% |
-| Doble oportunidad: X2 | 42% | 44% | 43% | 2.15 | -8% |
+| 1X2: 2 | 17% | 20% | 18% | 4.75 | -13% |
+| 1X2: X | 24% | 25% | 24% | 3.80 | -8% |
+| 1X2: 1 | 59% | 56% | 57% | 1.67 | -4% |
+| Doble oportunidad: X2 | 41% | 44% | 42% | 2.15 | -9% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 82% | 80% | 81% | 1.18 | -4% |
-| Ambos marcan: No | 53% | 48% | 50% | 1.95 | -2% |
-| Ambos marcan: Sí | 47% | 52% | 50% | 1.80 | -11% |
-| Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
-| Goles más/menos: Más de 2.5 | 48% | 51% | 49% | 1.85 | -9% |
-| Goles más/menos: Más de 3.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
-| Goles más/menos: Menos de 2.5 | 52% | 49% | 51% | 1.95 | -1% |
-| Goles más/menos: Menos de 3.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -5% |
+| Doble oportunidad: 1X | 83% | 80% | 82% | 1.18 | -4% |
+| Ambos marcan: No | 56% | 48% | 52% | 1.95 | +2% |
+| Ambos marcan: Sí | 44% | 52% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 2.5 | 44% | 51% | 48% | 1.85 | -11% |
+| Goles más/menos: Más de 3.5 | 23% | 31% | 27% | 3.00 | -18% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 27% | 3.75 | +3% |
+| Goles más/menos: Menos de 2.5 | 56% | 49% | 52% | 1.95 | +2% |
+| Goles más/menos: Menos de 3.5 | 77% | 69% | 73% | 1.36 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
 | 1X2 descanso: 1 | 41% | 41% | 41% | 2.25 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

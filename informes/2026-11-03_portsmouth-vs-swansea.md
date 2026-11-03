@@ -1,16 +1,16 @@
 # Portsmouth – Swansea
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 20:00_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **2.62**  ·  X **3.30**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.30** · menos **3.50**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.30**
@@ -19,8 +19,16 @@ _Actualizadas: 02/11 20:00_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.82** · menos **1.98**
+    - 9,5: más **1.80** · menos **1.91**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.10**  ·  2 **3.25**
@@ -41,11 +49,18 @@ _Actualizadas: 02/11 20:00_
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
+- **Home Team Total Cards:**
+    - 1,5: más **1.57** · menos **2.25**
+- **Away Team Total Cards:**
+    - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 7,5: más **1.83** · menos **1.83**
+- **ShotOnTarget 1x2:** 1 **1.83**  ·  X **6.50**  ·  2 **2.40**
 - **Total Shots:**
     - 23,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.50**  ·  X **15.00**  ·  2 **2.60**
 - **Home Player Shots On Target Total:** Jayden Meghoma - 1 **5.00**  ·  Adrian Segecic - 1 **1.91**  ·  Colby Bishop - 1 **1.80**  ·  Marko Milovanovic - 1 **1.50**  ·  Eoin Kenny - 1 **2.00**  ·  Luke Brooke-Smith - 1 **2.38**  ·  Rocco Robert Shein - 1 **5.00**  ·  Abu Kamara - 1 **2.62**  ·  Odin Bailey - 1 **3.40**  ·  Harvey Blair - 1 **2.20**  ·  Keshi Anderson - 1 **2.25**  ·  Ryan Kavuma-McQueen - 1 **1.62**  ·  John Swift - 1 **2.25**  ·  Ebou Adams - 1 **3.40**  ·  Zak Swanson - 1 **3.00**  ·  Terry Devlin - 1 **3.00**  ·  Marlon Pack - 1 **4.00**  ·  Conor Shaughnessy - 1 **4.33**  ·  Madiodio Dia - 1 **6.00**  ·  Regan Poole - 1 **8.00**  ·  Adrian Segecic - 2 **6.00**  ·  Colby Bishop - 2 **5.50**  ·  Marko Milovanovic - 2 **3.40**  ·  Eoin Kenny - 2 **6.50**  ·  Luke Brooke-Smith - 2 **10.00**  ·  Abu Kamara - 2 **11.00**  ·  Odin Bailey - 2 **17.00**  ·  Harvey Blair - 2 **8.00**  ·  Keshi Anderson - 2 **8.00**  ·  Ryan Kavuma-McQueen - 2 **4.00**  ·  John Swift - 2 **8.00**  ·  Ebou Adams - 2 **17.00**  ·  Zak Swanson - 2 **15.00**  ·  Terry Devlin - 2 **15.00**  ·  Marlon Pack - 2 **21.00**  ·  Conor Shaughnessy - 2 **21.00**  ·  Adrian Segecic - 3 **21.00**  ·  Colby Bishop - 3 **19.00**  ·  Marko Milovanovic - 3 **10.00**  ·  Eoin Kenny - 3 **21.00**  ·  Ryan Kavuma-McQueen - 3 **13.00**  ·  Marko Milovanovic - 4 **21.00**  ·  Iyad Mohamed - 1 **3.75**  ·  Iyad Mohamed - 2 **19.00**  ·  Tyrese Shade - 1 **2.20**  ·  Tyrese Shade - 2 **8.00**
+- **Away Player Shots On Target Total:** Adam Idah **7.00**  ·  Marko Milovanovic **7.00**  ·  Zan Vipotnik **9.00**  ·  Ben Cabango **17.00**  ·  Rocco Robert Shein **41.00**  ·  Odin Bailey **51.00**  ·  Keshi Anderson **23.00**  ·  Elijah Just **29.00**  ·  Melker Widell **29.00**  ·  Joseph Opoku **29.00**  ·  Filip Lissah **15.00**  ·  John Swift **41.00**  ·  Harvey Blair **41.00**  ·  Josh Murphy **41.00**  ·  Terry Devlin **51.00**  ·  Marlon Pack **41.00**  ·  Regan Poole **34.00**  ·  Conor Shaughnessy **23.00**  ·  Zak Swanson **21.00**  ·  Jay Fulton **51.00**  ·  Josh Tymon **51.00**  ·  Josh Key **41.00**  ·  Ebou Adams **26.00**  ·  Abu Kamara **34.00**  ·  Ji-Sung Eom **29.00**  ·  Baptista Goncalo Franco **51.00**  ·  Ryan Kavuma-McQueen **29.00**  ·  Moussa Yeo **26.00**  ·  Marko Stamenic **34.00**  ·  Stephen Welsh **21.00**  ·  Madiodio Dia **29.00**  ·  Tyrese Shade **29.00**  ·  Thomas Waddingham **17.00**  ·  Stephen Eustaquio **29.00**  ·  Eoin Kenny **17.00**  ·  Adrian Segecic **19.00**  ·  Carter Heywood **13.00**  ·  Colby Bishop **9.50**  ·  Jayden Meghoma **29.00**  ·  Ross Stewart **11.00**  ·  Tiago Parente **51.00**  ·  Franco Umeh **23.00**  ·  Iyad Mohamed **29.00**  ·  Jeremy Monga **41.00**  ·  Jenson Seelt **15.00**  ·  Ronald Martins **21.00**
 - **Away Player Shots Total:**
     - 10,5: más **1.91** · menos **1.80**
 - **Home Player Shots:** Jayden Meghoma - 1 **1.80**  ·  Jayden Meghoma - 2 **4.50**  ·  Jayden Meghoma - 3 **13.00**  ·  Adrian Segecic - 1 **1.10**  ·  Colby Bishop - 1 **1.12**  ·  Marko Milovanovic - 1 **1.05**  ·  Eoin Kenny - 1 **1.17**  ·  Luke Brooke-Smith - 1 **1.22**  ·  Rocco Robert Shein - 1 **1.80**  ·  Abu Kamara - 1 **1.28**  ·  Odin Bailey - 1 **1.40**  ·  Harvey Blair - 1 **1.18**  ·  Keshi Anderson - 1 **1.18**  ·  Ryan Kavuma-McQueen - 1 **1.06**  ·  John Swift - 1 **1.30**  ·  Ebou Adams - 1 **1.36**  ·  Zak Swanson - 1 **1.53**  ·  Terry Devlin - 1 **1.44**  ·  Marlon Pack - 1 **1.73**  ·  Conor Shaughnessy - 1 **1.80**  ·  Madiodio Dia - 1 **2.00**  ·  Regan Poole - 1 **2.62**  ·  Adrian Segecic - 2 **1.44**  ·  Colby Bishop - 2 **1.57**  ·  Marko Milovanovic - 2 **1.25**  ·  Eoin Kenny - 2 **1.73**  ·  Luke Brooke-Smith - 2 **2.00**  ·  Rocco Robert Shein - 2 **4.50**  ·  Abu Kamara - 2 **2.10**  ·  Odin Bailey - 2 **2.62**  ·  Harvey Blair - 2 **1.80**  ·  Keshi Anderson - 2 **1.80**  ·  Ryan Kavuma-McQueen - 2 **1.33**  ·  John Swift - 2 **2.25**  ·  Ebou Adams - 2 **2.50**  ·  Zak Swanson - 2 **3.40**  ·  Terry Devlin - 2 **3.00**  ·  Marlon Pack - 2 **4.00**  ·  Conor Shaughnessy - 2 **4.50**  ·  Madiodio Dia - 2 **6.00**  ·  Regan Poole - 2 **10.00**  ·  Adrian Segecic - 3 **2.38**  ·  Colby Bishop - 3 **2.62**  ·  Marko Milovanovic - 3 **1.73**  ·  Eoin Kenny - 3 **3.25**  ·  Luke Brooke-Smith - 3 **3.75**  ·  Rocco Robert Shein - 3 **13.00**  ·  Abu Kamara - 3 **4.33**  ·  Odin Bailey - 3 **6.00**  ·  Harvey Blair - 3 **3.25**  ·  Keshi Anderson - 3 **3.25**  ·  Ryan Kavuma-McQueen - 3 **1.91**  ·  John Swift - 3 **4.50**  ·  Ebou Adams - 3 **5.50**  ·  Zak Swanson - 3 **8.00**  ·  Terry Devlin - 3 **8.00**  ·  Marlon Pack - 3 **13.00**  ·  Conor Shaughnessy - 3 **13.00**  ·  Madiodio Dia - 3 **19.00**  ·  Adrian Segecic - 4 **4.33**  ·  Colby Bishop - 4 **5.00**  ·  Marko Milovanovic - 4 **2.75**  ·  Eoin Kenny - 4 **6.50**  ·  Luke Brooke-Smith - 4 **9.00**  ·  Abu Kamara - 4 **11.00**  ·  Odin Bailey - 4 **15.00**  ·  Harvey Blair - 4 **7.00**  ·  Keshi Anderson - 4 **7.00**  ·  Ryan Kavuma-McQueen - 4 **3.40**  ·  John Swift - 4 **11.00**  ·  Ebou Adams - 4 **15.00**  ·  Zak Swanson - 4 **21.00**  ·  Terry Devlin - 4 **19.00**  ·  Adrian Segecic - 5 **9.00**  ·  Colby Bishop - 5 **11.00**  ·  Marko Milovanovic - 5 **5.00**  ·  Eoin Kenny - 5 **15.00**  ·  Luke Brooke-Smith - 5 **19.00**  ·  Abu Kamara - 5 **21.00**  ·  Adrian Segecic - 6 **19.00**  ·  Colby Bishop - 6 **21.00**  ·  Marko Milovanovic - 6 **10.00**  ·  Eoin Kenny - 6 **21.00**  ·  Iyad Mohamed - 1 **1.36**  ·  Iyad Mohamed - 2 **2.50**  ·  Iyad Mohamed - 3 **5.50**  ·  Ryan Kavuma-McQueen - 5 **6.50**  ·  Marko Milovanovic - 7 **19.00**  ·  Harvey Blair - 5 **15.00**  ·  Keshi Anderson - 5 **15.00**  ·  John Swift - 5 **21.00**  ·  Ryan Kavuma-McQueen - 6 **13.00**  ·  Tyrese Shade - 1 **1.17**  ·  Tyrese Shade - 2 **1.73**  ·  Tyrese Shade - 3 **3.25**  ·  Tyrese Shade - 4 **6.50**  ·  Tyrese Shade - 5 **15.00**  ·  Tyrese Shade - 6 **21.00**  ·  Iyad Mohamed - 4 **15.00**  ·  Ryan Kavuma-McQueen - 7 **21.00**
@@ -186,7 +201,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Seelt | D | 5 | 151 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,05 · visitante 1,09 · córners esperados 9,5._
+_Goles esperados: local 1,04 · visitante 1,09 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -206,14 +221,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 37% | 27% | 32% | 3.50 | +12% |
 | Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
 | Goles más/menos: Menos de 3.5 | 83% | 73% | 78% | 1.30 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 63% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -1% |
-| Córners más/menos: Más de 9.5 | 45% | 52% | 48% | 1.82 | -12% |
-| Córners más/menos: Menos de 9.5 | 55% | 48% | 52% | 1.98 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 73% | 1.36 | -1% |
+| Goles del local: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles del local: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles del local: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
+| Goles del local: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del visitante: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
+| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +4% |
+| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -0% |
+| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.80 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.91 | -1% |
 | 1X2 descanso: 2 | 26% | 28% | 27% | 3.25 | -11% |
-| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
+| 1X2 descanso: X | 49% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: 1 | 25% | 28% | 27% | 3.25 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

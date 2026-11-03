@@ -1,7 +1,7 @@
 # Inter – Como
 **Serie A** · Regular Season - 11 · 08/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -174,31 +174,31 @@ _Sin bajas comunicadas por ahora._
 | Moise Kean | F | 4 | 158 | 0 | 1 | 3 | 0,8 | 3 | 0,8 | 2 | 3 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,84 · visitante 1,57 · córners esperados 9,8._
+_Goles esperados: local 1,83 · visitante 1,56 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 33% | 23% | 28% | 4.10 | +15% |
-| 1X2: X | 22% | 23% | 23% | 4.00 | -9% |
+| 1X2: X | 22% | 23% | 23% | 4.00 | -8% |
 | 1X2: 1 | 44% | 54% | 49% | 1.73 | -15% |
 | Doble oportunidad: X2 | 56% | 46% | 51% | 2.05 | +4% |
 | Doble oportunidad: 12 | 78% | 77% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 67% | 77% | 72% | 1.22 | -12% |
-| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -10% |
-| Ambos marcan: Sí | 67% | 65% | 66% | 1.44 | -6% |
+| Ambos marcan: No | 34% | 35% | 35% | 2.62 | -9% |
+| Ambos marcan: Sí | 66% | 65% | 65% | 1.44 | -6% |
 | Goles más/menos: Más de 2.5 | 66% | 64% | 65% | 1.50 | -3% |
-| Goles más/menos: Más de 3.5 | 44% | 45% | 45% | 2.10 | -6% |
-| Goles más/menos: Más de 4.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles más/menos: Menos de 2.5 | 34% | 36% | 35% | 2.62 | -8% |
+| Goles más/menos: Más de 3.5 | 44% | 45% | 45% | 2.10 | -7% |
+| Goles más/menos: Más de 4.5 | 25% | 25% | 25% | 3.75 | -5% |
+| Goles más/menos: Menos de 2.5 | 34% | 36% | 35% | 2.62 | -7% |
 | Goles más/menos: Menos de 3.5 | 56% | 55% | 55% | 1.73 | -4% |
-| Goles más/menos: Menos de 4.5 | 74% | 75% | 74% | 1.28 | -5% |
+| Goles más/menos: Menos de 4.5 | 75% | 75% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 44% | 44% | 44% | 2.10 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 81% | 79% | 80% | 1.18 | -5% |
-| 1X2 descanso: 2 | 28% | 23% | 26% | 4.00 | +3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 79% | 80% | 1.18 | -5% |
+| 1X2 descanso: 2 | 28% | 23% | 26% | 4.00 | +2% |
 | 1X2 descanso: X | 37% | 36% | 36% | 2.60 | -6% |
 | 1X2 descanso: 1 | 35% | 41% | 38% | 2.25 | -14% |
 

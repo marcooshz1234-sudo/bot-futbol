@@ -1,10 +1,10 @@
 # Real Sociedad – Lyon
-**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta
+**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:12_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.95**
@@ -211,9 +211,9 @@ _Goles esperados: local 1,57 · visitante 1,35 · córners esperados 10,4._
 | Goles del local: Más de 2.5 | 21% | 31% | 26% | 3.00 | -22% |
 | Goles del local: Menos de 1.5 | 54% | 44% | 49% | 2.10 | +3% |
 | Goles del local: Menos de 2.5 | 79% | 69% | 74% | 1.36 | +1% |
-| Goles del visitante: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
+| Goles del visitante: Más de 0.5 | 74% | 71% | 73% | 1.33 | -4% |
 | Goles del visitante: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
-| Goles del visitante: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -11% |
+| Goles del visitante: Menos de 0.5 | 26% | 29% | 27% | 3.25 | -11% |
 | Goles del visitante: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
 | Córners más/menos: Más de 10.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Córners más/menos: Menos de 10.5 | 56% | 56% | 56% | 1.67 | -7% |

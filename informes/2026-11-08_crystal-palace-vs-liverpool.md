@@ -1,7 +1,7 @@
 # Crystal Palace – Liverpool
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,26 · visitante 1,95 · córners esperados 9,6._
+_Goles esperados: local 1,25 · visitante 1,95 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@ _Goles esperados: local 1,26 · visitante 1,95 · córners esperados 9,6._
 | 1X2: 1 | 24% | 21% | 23% | 4.33 | -1% |
 | Doble oportunidad: X2 | 76% | 79% | 77% | 1.20 | -7% |
 | Doble oportunidad: 12 | 78% | 78% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 46% | 43% | 45% | 2.20 | -1% |
+| Doble oportunidad: 1X | 46% | 43% | 45% | 2.20 | -2% |
 | Ambos marcan: No | 39% | 42% | 41% | 2.20 | -11% |
 | Ambos marcan: Sí | 61% | 58% | 59% | 1.62 | -4% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
@@ -203,10 +203,10 @@ _Goles esperados: local 1,26 · visitante 1,95 · córners esperados 9,6._
 | Goles del local: Más de 0.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 1.5 | 36% | 31% | 33% | 3.00 | +0% |
 | Goles del local: Menos de 0.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles del local: Menos de 1.5 | 64% | 69% | 67% | 1.36 | -10% |
-| Goles del visitante: Más de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
+| Goles del local: Menos de 1.5 | 64% | 69% | 67% | 1.36 | -9% |
+| Goles del visitante: Más de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
 | Goles del visitante: Más de 2.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del visitante: Menos de 1.5 | 42% | 41% | 42% | 2.25 | -7% |
+| Goles del visitante: Menos de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles del visitante: Menos de 2.5 | 69% | 66% | 68% | 1.40 | -5% |
 | 1X2 descanso: 2 | 40% | 44% | 42% | 2.10 | -12% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |

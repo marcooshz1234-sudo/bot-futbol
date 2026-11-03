@@ -1,7 +1,7 @@
 # Derby – Bolton
 **Championship** · Regular Season - 15 · 06/11/2026 21:00 (hora España) · Pride Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | Luca Stephenson | D | 3 | 272 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 1,53 · córners esperados 10,3._
+_Goles esperados: local 1,35 · visitante 1,54 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,7 +199,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 42% | 31% | 36% | 3.00 | +9% |
 | 1X2: X | 25% | 26% | 26% | 3.50 | -11% |
 | 1X2: 1 | 34% | 43% | 38% | 2.15 | -18% |
-| Doble oportunidad: X2 | 66% | 57% | 61% | 1.67 | +3% |
+| Doble oportunidad: X2 | 66% | 57% | 62% | 1.67 | +3% |
 | Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 58% | 70% | 64% | 1.36 | -13% |
 | Ambos marcan: No | 42% | 42% | 42% | 2.20 | -7% |
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Goles del local: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles del local: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
 | Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
 | Goles del local: Más de 2.5 | 16% | 23% | 19% | 4.00 | -22% |
 | Goles del local: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
@@ -228,6 +228,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 10.5 | 57% | 54% | 55% | 1.73 | -4% |
 | 1X2 descanso: 2 | 32% | 26% | 29% | 3.50 | +2% |
 | 1X2 descanso: X | 41% | 40% | 40% | 2.30 | -7% |
-| 1X2 descanso: 1 | 27% | 34% | 30% | 2.75 | -16% |
+| 1X2 descanso: 1 | 27% | 34% | 30% | 2.75 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

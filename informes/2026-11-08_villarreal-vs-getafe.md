@@ -1,7 +1,7 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -190,17 +190,17 @@ _Goles esperados: local 1,95 · visitante 0,86 · córners esperados 10,0._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 16% | 14% | 15% | 6.50 | -2% |
-| 1X2: X | 21% | 22% | 22% | 4.10 | -11% |
+| 1X2: X | 21% | 22% | 22% | 4.10 | -10% |
 | 1X2: 1 | 63% | 63% | 63% | 1.45 | -8% |
 | Doble oportunidad: X2 | 37% | 36% | 37% | 2.62 | -4% |
 | Doble oportunidad: 12 | 79% | 78% | 78% | 1.22 | -4% |
 | Doble oportunidad: 1X | 84% | 86% | 85% | 1.11 | -6% |
-| Ambos marcan: No | 50% | 53% | 52% | 1.75 | -9% |
-| Ambos marcan: Sí | 50% | 47% | 48% | 2.00 | -4% |
+| Ambos marcan: No | 51% | 53% | 52% | 1.75 | -9% |
+| Ambos marcan: Sí | 49% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Más de 1.5 | 77% | 76% | 77% | 1.25 | -4% |
 | Goles más/menos: Más de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 3.5 | 31% | 32% | 31% | 3.00 | -6% |
-| Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -6% |
 | Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -6% |
 | Goles más/menos: Menos de 3.5 | 69% | 68% | 69% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 69% | 70% | 1.36 | -5% |
@@ -215,7 +215,7 @@ _Goles esperados: local 1,95 · visitante 0,86 · córners esperados 10,0._
 | Goles del visitante: Menos de 0.5 | 42% | 46% | 44% | 2.00 | -11% |
 | Córners más/menos: Más de 9.5 | 50% | 53% | 51% | 1.78 | -9% |
 | Córners más/menos: Menos de 9.5 | 50% | 47% | 49% | 2.02 | -2% |
-| 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -7% |
+| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
 | 1X2 descanso: 1 | 45% | 48% | 46% | 1.95 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

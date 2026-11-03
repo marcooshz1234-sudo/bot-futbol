@@ -1,10 +1,10 @@
 # Sunderland – Dinamo Zagreb
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:08_
 
 - **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.75**
@@ -200,20 +200,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 59% | 53% | 56% | 1.75 | -1% |
 | Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.20 | -3% |
 | Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -4% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -7% |
 | Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -12% |
 | Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -7% |
 | Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.53 | -5% |
 | Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Más de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
-| Goles del local: Más de 2.5 | 32% | 38% | 35% | 2.50 | -14% |
+| Goles del local: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
 | Goles del local: Menos de 1.5 | 41% | 38% | 39% | 2.50 | -1% |
-| Goles del local: Menos de 2.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del local: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -2% |
 | Goles del visitante: Más de 0.5 | 69% | 58% | 63% | 1.62 | +3% |
 | Goles del visitante: Más de 1.5 | 33% | 23% | 28% | 4.00 | +12% |
 | Goles del visitante: Menos de 0.5 | 31% | 42% | 37% | 2.20 | -19% |
@@ -221,6 +221,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 48% | 49% | 49% | 1.92 | -7% |
 | Córners más/menos: Menos de 9.5 | 52% | 51% | 51% | 1.88 | -3% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
-| 1X2 descanso: 1 | 42% | 48% | 45% | 1.91 | -14% |
+| 1X2 descanso: 1 | 41% | 48% | 45% | 1.91 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

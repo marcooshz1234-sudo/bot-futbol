@@ -1,10 +1,10 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **1.40**  ·  X **4.75**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.75**
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,3._
+_Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@ _Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,3._
 | Goles más/menos: Menos de 3.5 | 39% | 55% | 47% | 1.73 | -19% |
 | Goles más/menos: Menos de 4.5 | 58% | 73% | 65% | 1.30 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 44% | 50% | 2.10 | +5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 44% | 50% | 2.10 | +4% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 21% | 25% | 4.50 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 56% | 50% | 1.67 | -16% |
@@ -223,7 +223,7 @@ _Goles esperados: local 3,17 · visitante 1,08 · córners esperados 9,3._
 | Goles del visitante: Menos de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -10% |
 | Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
-| 1X2 descanso: X | 28% | 34% | 31% | 2.75 | -16% |
+| 1X2 descanso: X | 28% | 34% | 31% | 2.75 | -15% |
 | 1X2 descanso: 1 | 60% | 51% | 55% | 1.83 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

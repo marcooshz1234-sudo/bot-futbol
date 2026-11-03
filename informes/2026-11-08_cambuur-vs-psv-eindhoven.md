@@ -1,7 +1,7 @@
 # Cambuur – PSV Eindhoven
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -193,22 +193,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 63% | 69% | 66% | 1.36 | -10% |
 | 1X2: X | 19% | 18% | 18% | 5.25 | -4% |
-| 1X2: 1 | 18% | 13% | 16% | 7.00 | +11% |
+| 1X2: 1 | 18% | 13% | 16% | 7.00 | +10% |
 | Doble oportunidad: X2 | 82% | 87% | 84% | 1.10 | -7% |
 | Doble oportunidad: 12 | 81% | 82% | 81% | 1.17 | -5% |
 | Doble oportunidad: 1X | 37% | 32% | 34% | 3.00 | +3% |
 | Ambos marcan: No | 37% | 35% | 36% | 2.62 | -5% |
 | Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
-| Goles más/menos: Más de 2.5 | 69% | 76% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 3.5 | 47% | 58% | 53% | 1.62 | -15% |
+| Goles más/menos: Más de 2.5 | 69% | 76% | 72% | 1.25 | -9% |
+| Goles más/menos: Más de 3.5 | 47% | 58% | 52% | 1.62 | -15% |
 | Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles más/menos: Más de 5.5 | 15% | 23% | 19% | 4.00 | -23% |
-| Goles más/menos: Menos de 2.5 | 31% | 24% | 27% | 4.00 | +10% |
-| Goles más/menos: Menos de 3.5 | 53% | 42% | 47% | 2.20 | +4% |
+| Goles más/menos: Menos de 2.5 | 31% | 24% | 28% | 4.00 | +10% |
+| Goles más/menos: Menos de 3.5 | 53% | 42% | 48% | 2.20 | +5% |
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles más/menos: Menos de 5.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 28% | 24% | 3.40 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 28% | 24% | 3.40 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 46% | 50% | 2.00 | +1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |

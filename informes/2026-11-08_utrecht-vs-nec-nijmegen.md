@@ -1,7 +1,7 @@
 # Utrecht – NEC Nijmegen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 20:00 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Bram Nuytinck | D | 8 | 322 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,74 · visitante 1,56 · córners esperados 9,2._
+_Goles esperados: local 1,73 · visitante 1,57 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -6% |
 | Goles del local: Más de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles del local: Más de 2.5 | 25% | 27% | 26% | 3.50 | -9% |
 | Goles del local: Menos de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
@@ -228,7 +228,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 42% | 56% | 49% | 1.67 | -18% |
 | Córners más/menos: Menos de 9.5 | 58% | 44% | 51% | 2.10 | +7% |
 | 1X2 descanso: 2 | 29% | 29% | 29% | 3.20 | -7% |
-| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
+| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -6% |
 | 1X2 descanso: 1 | 33% | 34% | 34% | 2.75 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

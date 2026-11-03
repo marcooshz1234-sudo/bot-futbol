@@ -1,7 +1,7 @@
 # Torino – Lecce
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -191,22 +191,22 @@ _Goles esperados: local 1,63 · visitante 1,04 · córners esperados 9,2._
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 76% | 80% | 78% | 1.18 | -8% |
 | Ambos marcan: No | 48% | 52% | 50% | 1.80 | -10% |
-| Ambos marcan: Sí | 52% | 48% | 50% | 1.95 | -2% |
+| Ambos marcan: Sí | 52% | 48% | 50% | 1.95 | -3% |
 | Goles más/menos: Más de 1.5 | 75% | 72% | 73% | 1.33 | -3% |
-| Goles más/menos: Más de 2.5 | 50% | 45% | 48% | 2.10 | -0% |
-| Goles más/menos: Más de 3.5 | 28% | 25% | 27% | 3.75 | +0% |
+| Goles más/menos: Más de 2.5 | 50% | 45% | 47% | 2.10 | -0% |
+| Goles más/menos: Más de 3.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles más/menos: Menos de 1.5 | 25% | 28% | 27% | 3.40 | -9% |
-| Goles más/menos: Menos de 2.5 | 50% | 55% | 52% | 1.73 | -9% |
+| Goles más/menos: Menos de 2.5 | 50% | 55% | 53% | 1.73 | -9% |
 | Goles más/menos: Menos de 3.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 66% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 31% | 32% | 3.00 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 34% | 33% | 2.75 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del local: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
+| Goles del local: Más de 1.5 | 48% | 49% | 48% | 1.91 | -7% |
 | Goles del local: Más de 2.5 | 22% | 23% | 23% | 4.00 | -8% |
 | Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -11% |
-| Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -7% |
+| Goles del local: Menos de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles del local: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 0.5 | 65% | 59% | 62% | 1.57 | -3% |
 | Goles del visitante: Más de 1.5 | 28% | 25% | 26% | 3.75 | -1% |

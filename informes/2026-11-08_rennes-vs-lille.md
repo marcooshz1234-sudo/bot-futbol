@@ -1,7 +1,7 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -189,18 +189,18 @@ _Sin bajas comunicadas por ahora._
 | G. Perrin | F | 7 | 209 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,78 · visitante 1,49 · córners esperados 9,8._
+_Goles esperados: local 1,78 · visitante 1,50 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 29% | 31% | 3.30 | +1% |
+| 1X2: 2 | 33% | 29% | 31% | 3.30 | +1% |
 | 1X2: X | 23% | 25% | 24% | 3.70 | -11% |
-| 1X2: 1 | 45% | 46% | 45% | 2.05 | -7% |
-| Doble oportunidad: X2 | 55% | 55% | 55% | 1.73 | -5% |
+| 1X2: 1 | 44% | 46% | 45% | 2.05 | -7% |
+| Doble oportunidad: X2 | 56% | 55% | 55% | 1.73 | -5% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 68% | 71% | 69% | 1.33 | -8% |
-| Ambos marcan: No | 36% | 41% | 38% | 2.25 | -14% |
-| Ambos marcan: Sí | 64% | 59% | 62% | 1.57 | -3% |
+| Doble oportunidad: 1X | 67% | 71% | 69% | 1.33 | -8% |
+| Ambos marcan: No | 35% | 41% | 38% | 2.25 | -14% |
+| Ambos marcan: Sí | 65% | 59% | 62% | 1.57 | -3% |
 | Goles más/menos: Más de 1.5 | 84% | 79% | 81% | 1.20 | -2% |
 | Goles más/menos: Más de 2.5 | 64% | 59% | 61% | 1.62 | -1% |
 | Goles más/menos: Más de 3.5 | 41% | 36% | 39% | 2.62 | +2% |
@@ -209,7 +209,7 @@ _Goles esperados: local 1,78 · visitante 1,49 · córners esperados 9,8._
 | Goles más/menos: Menos de 2.5 | 36% | 41% | 39% | 2.30 | -11% |
 | Goles más/menos: Menos de 3.5 | 59% | 64% | 61% | 1.50 | -8% |
 | Goles más/menos: Menos de 4.5 | 77% | 79% | 78% | 1.20 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 39% | 40% | 2.38 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 61% | 60% | 1.53 | -9% |

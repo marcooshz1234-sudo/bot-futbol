@@ -1,7 +1,7 @@
 # Napoli – Lazio
 **Serie A** · Regular Season - 11 · 08/11/2026 12:30 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 20:01_
@@ -183,40 +183,40 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,39 · córners esperados 9,5._
+_Goles esperados: local 1,58 · visitante 1,38 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 28% | 31% | 3.30 | +2% |
+| 1X2: 2 | 33% | 28% | 31% | 3.30 | +1% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 42% | 46% | 44% | 2.00 | -12% |
-| Doble oportunidad: X2 | 58% | 53% | 56% | 1.80 | +0% |
+| 1X2: 1 | 42% | 46% | 44% | 2.00 | -11% |
+| Doble oportunidad: X2 | 58% | 53% | 55% | 1.80 | -0% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 66% | 72% | 69% | 1.33 | -8% |
-| Ambos marcan: No | 40% | 45% | 43% | 2.05 | -12% |
-| Ambos marcan: Sí | 60% | 55% | 57% | 1.70 | -3% |
+| Doble oportunidad: 1X | 67% | 72% | 69% | 1.33 | -8% |
+| Ambos marcan: No | 41% | 45% | 43% | 2.05 | -12% |
+| Ambos marcan: Sí | 59% | 55% | 57% | 1.70 | -3% |
 | Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 3.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -5% |
 | Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -8% |
 | Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
-| Goles más/menos: Menos de 3.5 | 65% | 66% | 66% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -5% |
+| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
 | Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -9% |
 | Goles del local: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
 | Goles del local: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 0.5 | 75% | 69% | 72% | 1.36 | -2% |
-| Goles del visitante: Más de 1.5 | 41% | 34% | 37% | 2.75 | +2% |
+| Goles del visitante: Más de 1.5 | 40% | 34% | 37% | 2.75 | +2% |
 | Goles del visitante: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -16% |
-| Goles del visitante: Menos de 1.5 | 59% | 66% | 63% | 1.40 | -12% |
+| Goles del visitante: Menos de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
 | 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
 | 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -8% |
-| 1X2 descanso: 1 | 32% | 35% | 34% | 2.62 | -11% |
+| 1X2 descanso: 1 | 33% | 35% | 34% | 2.62 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

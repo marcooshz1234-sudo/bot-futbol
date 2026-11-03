@@ -1,22 +1,22 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:12_
+_Actualizadas: 03/11 02:07_
 
-- **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **1.95**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**
+- **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.30**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **7.00** · menos **1.10**
+    - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
@@ -31,7 +31,7 @@ _Actualizadas: 02/11 14:12_
 - **Córners más/menos:**
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.92** · menos **1.88**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.62**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -39,18 +39,22 @@ _Actualizadas: 02/11 14:12_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.25**  ·  2 **1.57**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.53**
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.25**
-- **Win Both Halves:** 1 **15.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.33**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.40**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **10.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 - **Home Corners Over/Under:**
     - 4,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
-- **Away Player Shots On Target Total:** Ruben Furtado **34.00**  ·  Denis Huseinbasic **34.00**  ·  Adrian Barisic **21.00**  ·  Mario Dorgeles **41.00**  ·  Yanis da Rocha **21.00**  ·  Joao Aragao **41.00**  ·  Diego Rodrigues **41.00**  ·  Gustaf Lagerbielke **17.00**  ·  Pau Victor **12.00**  ·  Colin Rosler **21.00**  ·  Gabriel Martinez **67.00**  ·  Tomas Marques **51.00**  ·  Adrian Bajrami **23.00**  ·  Luz Ricardo Horta **29.00**  ·  Fran Navarro **6.50**  ·  Felipe Joao Moutinho **51.00**  ·  Jean-Baptiste Gorby **67.00**  ·  Vitor Carvalho **23.00**  ·  Bright Arrey-Mbi **41.00**  ·  Victor Gomez **81.00**  ·  Teixeira Luisinho **19.00**  ·  Diogo Travassos **67.00**  ·  Demir Tiknaz **23.00**  ·  Jovan Milosevic **7.00**  ·  Jonas Wind **11.00**  ·  Magnus Nordengen Knudsen **67.00**  ·  Gabriel Silva Vieira **26.00**
-- **Anytime Goal Scorer:** Ruben Furtado **4.00**  ·  Frederik Emmery **6.00**  ·  Oskar Haugstrup **8.00**  ·  Stefen Tchamche **3.40**  ·  Christian Storch **13.00**  ·  Denis Huseinbasic **4.00**  ·  Adrian Barisic **13.00**  ·  Daniel Gretarsson **13.00**  ·  Mikael Anderson **8.00**  ·  Tobias Bech **3.40**  ·  Gift Links **6.00**  ·  Kristian Arnstad **4.00**  ·  Eric Kahl **11.00**  ·  Frederik Tingager **15.00**  ·  Luka Callo **13.00**  ·  Nicolai Poulsen **9.00**  ·  Jacob Andersen **19.00**  ·  Mario Dorgeles **4.50**  ·  Callum McCowatt **3.40**  ·  Kevin Yakob **5.00**  ·  Tomas Oli Kristjansson **5.00**  ·  Yanis da Rocha **11.00**  ·  Joao Aragao **4.50**  ·  Zander Grantzau **13.00**  ·  Diego Rodrigues **7.50**  ·  Rasmus Carstensen **8.00**  ·  Jens Jonsson **11.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.40**  ·  Janni-Luca Serra **4.00**  ·  Sebastian Jorgensen **5.00**  ·  Colin Rosler **13.00**  ·  Gabriel Martinez **3.50**  ·  Tomas Marques **11.00**  ·  James Bogere **3.75**  ·  Markus Solbakken **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.75**  ·  Fran Navarro **2.62**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **8.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Teixeira Luisinho **4.00**  ·  Diogo Travassos **8.00**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **8.00**  ·  Jovan Milosevic **3.00**  ·  Hamza Sengooba **13.00**  ·  Mouhammade Camara **13.00**  ·  Joao Trovisco **3.40**  ·  Tobias Molgaard **13.00**  ·  Jonas Wind **2.75**  ·  Magnus Nordengen Knudsen **8.00**  ·  Gabriel Silva Vieira **3.00**
+- **Home Player Shots On Target Total:** Callum McCowatt - 1 **1.57**  ·  Callum McCowatt - 2 **3.75**  ·  Callum McCowatt - 3 **13.00**  ·  James Bogere - 1 **1.67**  ·  Stefen Tchamche - 1 **1.57**  ·  Janni-Luca Serra - 1 **1.73**  ·  Kristian Arnstad - 1 **1.67**  ·  Frederik Emmery - 1 **2.25**  ·  Gift Links - 1 **2.25**  ·  Kevin Yakob - 1 **2.10**  ·  Mikael Anderson - 1 **2.50**  ·  Sebastian Jorgensen - 1 **2.10**  ·  Tomas Oli Kristjansson - 1 **2.10**  ·  Magnus Nordengen Knudsen - 1 **3.25**  ·  Oskar Haugstrup - 1 **3.25**  ·  Nicolai Poulsen - 1 **3.50**  ·  Eric Kahl - 1 **3.40**  ·  Jens Jonsson - 1 **3.75**  ·  Rasmus Carstensen - 1 **3.25**  ·  Markus Solbakken - 1 **3.75**  ·  Christian Storch - 1 **6.00**  ·  Hamza Sengooba - 1 **6.00**  ·  Mouhammade Camara - 1 **6.00**  ·  Frederik Tingager - 1 **4.50**  ·  Luka Callo - 1 **6.00**  ·  Tobias Molgaard - 1 **6.00**  ·  Zander Grantzau - 1 **6.00**  ·  Jacob Andersen - 1 **5.50**  ·  Tobias Bech - 2 **3.25**  ·  James Bogere - 2 **4.33**  ·  Stefen Tchamche - 2 **3.75**  ·  Janni-Luca Serra - 2 **4.50**  ·  Kristian Arnstad - 2 **4.33**  ·  Frederik Emmery - 2 **9.00**  ·  Gift Links - 2 **9.00**  ·  Kevin Yakob - 2 **7.00**  ·  Mikael Anderson - 2 **10.00**  ·  Sebastian Jorgensen - 2 **7.00**  ·  Tomas Oli Kristjansson - 2 **7.00**  ·  Magnus Nordengen Knudsen - 2 **17.00**  ·  Oskar Haugstrup - 2 **17.00**  ·  Nicolai Poulsen - 2 **19.00**  ·  Eric Kahl - 2 **17.00**  ·  Jens Jonsson - 2 **21.00**  ·  Rasmus Carstensen - 2 **17.00**  ·  Markus Solbakken - 2 **21.00**  ·  Frederik Tingager - 2 **21.00**  ·  Tobias Bech - 3 **9.00**  ·  James Bogere - 3 **13.00**  ·  Stefen Tchamche - 3 **13.00**  ·  Janni-Luca Serra - 3 **15.00**  ·  Kristian Arnstad - 3 **13.00**  ·  Kevin Yakob - 3 **21.00**  ·  Sebastian Jorgensen - 3 **21.00**  ·  Tomas Oli Kristjansson - 3 **21.00**  ·  Tobias Bech - 4 **21.00**  ·  Tobias Bech - 1 **1.44**  ·  Daniel Gretarsson - 1 **6.00**  ·  Colin Rosler - 1 **6.00**
+- **Away Player Shots On Target Total:** Ruben Furtado **34.00**  ·  Denis Huseinbasic **34.00**  ·  Adrian Barisic **21.00**  ·  Mario Dorgeles **41.00**  ·  Yanis da Rocha **21.00**  ·  Joao Aragao **41.00**  ·  Diego Rodrigues **41.00**  ·  Gustaf Lagerbielke **17.00**  ·  Pau Victor **11.00**  ·  Colin Rosler **21.00**  ·  Gabriel Martinez **51.00**  ·  Tomas Marques **51.00**  ·  Adrian Bajrami **23.00**  ·  Luz Ricardo Horta **29.00**  ·  Fran Navarro **6.50**  ·  Felipe Joao Moutinho **51.00**  ·  Jean-Baptiste Gorby **67.00**  ·  Vitor Carvalho **23.00**  ·  Bright Arrey-Mbi **41.00**  ·  Victor Gomez **81.00**  ·  Teixeira Luisinho **19.00**  ·  Diogo Travassos **67.00**  ·  Demir Tiknaz **23.00**  ·  Jovan Milosevic **7.00**  ·  Flinto Costa **26.00**  ·  Diogo Lobo **67.00**  ·  Jonas Wind **11.00**  ·  Magnus Nordengen Knudsen **67.00**  ·  Gabriel Silva Vieira **26.00**
+- **Home Player Shots:** Callum McCowatt - 1 **1.06**  ·  Callum McCowatt - 2 **1.30**  ·  Callum McCowatt - 3 **1.83**  ·  Callum McCowatt - 4 **3.25**  ·  Callum McCowatt - 5 **5.50**  ·  Callum McCowatt - 6 **11.00**  ·  Callum McCowatt - 7 **21.00**  ·  James Bogere - 1 **1.08**  ·  Stefen Tchamche - 1 **1.08**  ·  Janni-Luca Serra - 1 **1.11**  ·  Kristian Arnstad - 1 **1.10**  ·  Frederik Emmery - 1 **1.18**  ·  Gift Links - 1 **1.28**  ·  Kevin Yakob - 1 **1.20**  ·  Mikael Anderson - 1 **1.28**  ·  Sebastian Jorgensen - 1 **1.20**  ·  Tomas Oli Kristjansson - 1 **1.20**  ·  Magnus Nordengen Knudsen - 1 **1.57**  ·  Oskar Haugstrup - 1 **1.57**  ·  Nicolai Poulsen - 1 **1.67**  ·  Eric Kahl - 1 **1.67**  ·  Jens Jonsson - 1 **1.73**  ·  Rasmus Carstensen - 1 **1.57**  ·  Markus Solbakken - 1 **1.83**  ·  Christian Storch - 1 **2.25**  ·  Hamza Sengooba - 1 **2.25**  ·  Mouhammade Camara - 1 **2.25**  ·  Frederik Tingager - 1 **2.10**  ·  Luka Callo - 1 **2.25**  ·  Tobias Molgaard - 1 **2.25**  ·  Zander Grantzau - 1 **2.25**  ·  Jacob Andersen - 1 **2.25**  ·  Tobias Bech - 2 **1.14**  ·  James Bogere - 2 **1.44**  ·  Stefen Tchamche - 2 **1.40**  ·  Janni-Luca Serra - 2 **1.53**  ·  Kristian Arnstad - 2 **1.44**  ·  Frederik Emmery - 2 **1.83**  ·  Gift Links - 2 **2.20**  ·  Kevin Yakob - 2 **1.83**  ·  Mikael Anderson - 2 **2.20**  ·  Sebastian Jorgensen - 2 **1.83**  ·  Tomas Oli Kristjansson - 2 **1.83**  ·  Magnus Nordengen Knudsen - 2 **3.50**  ·  Oskar Haugstrup - 2 **3.50**  ·  Nicolai Poulsen - 2 **4.00**  ·  Eric Kahl - 2 **3.75**  ·  Jens Jonsson - 2 **4.33**  ·  Rasmus Carstensen - 2 **3.50**  ·  Markus Solbakken - 2 **5.00**  ·  Christian Storch - 2 **7.00**  ·  Hamza Sengooba - 2 **7.00**  ·  Mouhammade Camara - 2 **7.00**  ·  Frederik Tingager - 2 **6.00**  ·  Luka Callo - 2 **8.00**  ·  Tobias Molgaard - 2 **8.00**  ·  Zander Grantzau - 2 **8.00**  ·  Jacob Andersen - 2 **8.00**  ·  Tobias Bech - 3 **1.44**  ·  James Bogere - 3 **2.25**  ·  Stefen Tchamche - 3 **2.10**  ·  Janni-Luca Serra - 3 **2.50**  ·  Kristian Arnstad - 3 **2.25**  ·  Frederik Emmery - 3 **3.40**  ·  Gift Links - 3 **4.33**  ·  Kevin Yakob - 3 **3.75**  ·  Mikael Anderson - 3 **4.50**  ·  Sebastian Jorgensen - 3 **3.75**  ·  Tomas Oli Kristjansson - 3 **3.75**  ·  Magnus Nordengen Knudsen - 3 **10.00**  ·  Oskar Haugstrup - 3 **10.00**  ·  Nicolai Poulsen - 3 **11.00**  ·  Eric Kahl - 3 **11.00**  ·  Jens Jonsson - 3 **13.00**  ·  Rasmus Carstensen - 3 **10.00**  ·  Markus Solbakken - 3 **15.00**  ·  Christian Storch - 3 **21.00**  ·  Hamza Sengooba - 3 **21.00**  ·  Mouhammade Camara - 3 **21.00**  ·  Frederik Tingager - 3 **19.00**  ·  Luka Callo - 3 **21.00**  ·  Tobias Molgaard - 3 **21.00**  ·  Zander Grantzau - 3 **21.00**  ·  Jacob Andersen - 3 **21.00**  ·  Tobias Bech - 4 **2.10**  ·  James Bogere - 4 **4.00**  ·  Stefen Tchamche - 4 **3.75**  ·  Janni-Luca Serra - 4 **4.50**  ·  Kristian Arnstad - 4 **4.00**  ·  Frederik Emmery - 4 **7.00**  ·  Gift Links - 4 **11.00**  ·  Kevin Yakob - 4 **8.00**  ·  Mikael Anderson - 4 **11.00**  ·  Sebastian Jorgensen - 4 **8.00**  ·  Tomas Oli Kristjansson - 4 **8.00**  ·  Magnus Nordengen Knudsen - 4 **21.00**  ·  Oskar Haugstrup - 4 **21.00**  ·  Eric Kahl - 4 **21.00**  ·  Rasmus Carstensen - 4 **21.00**  ·  Tobias Bech - 5 **3.40**  ·  James Bogere - 5 **8.00**  ·  Stefen Tchamche - 5 **7.00**  ·  Janni-Luca Serra - 5 **10.00**  ·  Kristian Arnstad - 5 **9.00**  ·  Frederik Emmery - 5 **17.00**  ·  Gift Links - 5 **21.00**  ·  Kevin Yakob - 5 **17.00**  ·  Mikael Anderson - 5 **21.00**  ·  Sebastian Jorgensen - 5 **17.00**  ·  Tomas Oli Kristjansson - 5 **17.00**  ·  Tobias Bech - 6 **6.00**  ·  James Bogere - 6 **17.00**  ·  Stefen Tchamche - 6 **15.00**  ·  Janni-Luca Serra - 6 **21.00**  ·  Kristian Arnstad - 6 **17.00**  ·  Tobias Bech - 7 **11.00**  ·  Stefen Tchamche - 7 **21.00**  ·  Tobias Bech - 8 **19.00**  ·  Tobias Bech - 1 **1.02**  ·  Daniel Gretarsson - 1 **2.20**  ·  Daniel Gretarsson - 2 **6.50**  ·  Daniel Gretarsson - 3 **21.00**  ·  Colin Rosler - 1 **2.25**  ·  Colin Rosler - 2 **8.00**  ·  Colin Rosler - 3 **21.00**
+- **Away Player Shots:** Luz Ricardo Horta - 1 **1.02**  ·  Fran Navarro - 1 **1.03**  ·  Pau Victor - 1 **1.02**  ·  Jonas Wind - 1 **1.04**  ·  Gabriel Silva Vieira - 1 **1.05**  ·  Gabriel Martinez - 1 **1.08**  ·  Teixeira Luisinho - 1 **1.08**  ·  Joao Aragao - 1 **1.14**  ·  Mario Dorgeles - 1 **1.14**  ·  Felipe Joao Moutinho - 1 **1.33**  ·  Vitor Carvalho - 1 **1.28**  ·  Demir Tiknaz - 1 **1.53**  ·  Denis Huseinbasic - 1 **1.10**  ·  Diego Rodrigues - 1 **1.53**  ·  Jean-Baptiste Gorby - 1 **1.53**  ·  Victor Gomez - 1 **1.50**  ·  Bright Arrey-Mbi - 1 **1.62**  ·  Diogo Travassos - 1 **1.53**  ·  Sergio Barcia - 1 **1.57**  ·  Adrian Bajrami - 1 **2.00**  ·  Adrian Barisic - 1 **2.00**  ·  Gustaf Lagerbielke - 1 **1.83**  ·  Yanis da Rocha - 1 **1.83**  ·  Luz Ricardo Horta - 2 **1.12**  ·  Fran Navarro - 2 **1.20**  ·  Pau Victor - 2 **1.17**  ·  Jonas Wind - 2 **1.22**  ·  Gabriel Silva Vieira - 2 **1.28**  ·  Gabriel Martinez - 2 **1.40**  ·  Teixeira Luisinho - 2 **1.44**  ·  Joao Aragao - 2 **1.62**  ·  Mario Dorgeles - 2 **1.62**  ·  Felipe Joao Moutinho - 2 **2.38**  ·  Vitor Carvalho - 2 **2.20**  ·  Demir Tiknaz - 2 **3.40**  ·  Denis Huseinbasic - 2 **1.44**  ·  Diego Rodrigues - 2 **3.40**  ·  Jean-Baptiste Gorby - 2 **3.40**  ·  Victor Gomez - 2 **3.25**  ·  Bright Arrey-Mbi - 2 **3.75**  ·  Diogo Travassos - 2 **3.40**  ·  Sergio Barcia - 2 **3.50**  ·  Adrian Bajrami - 2 **5.50**  ·  Adrian Barisic - 2 **6.00**  ·  Gustaf Lagerbielke - 2 **5.00**  ·  Yanis da Rocha - 2 **5.00**  ·  Luz Ricardo Horta - 3 **1.40**  ·  Fran Navarro - 3 **1.62**  ·  Pau Victor - 3 **1.50**  ·  Jonas Wind - 3 **1.67**  ·  Gabriel Silva Vieira - 3 **1.80**  ·  Gabriel Martinez - 3 **2.10**  ·  Teixeira Luisinho - 3 **2.25**  ·  Joao Aragao - 3 **2.75**  ·  Mario Dorgeles - 3 **2.75**  ·  Felipe Joao Moutinho - 3 **5.50**  ·  Vitor Carvalho - 3 **4.50**  ·  Demir Tiknaz - 3 **9.00**  ·  Denis Huseinbasic - 3 **2.25**  ·  Diego Rodrigues - 3 **9.00**  ·  Jean-Baptiste Gorby - 3 **9.00**  ·  Victor Gomez - 3 **8.00**  ·  Bright Arrey-Mbi - 3 **10.00**  ·  Diogo Travassos - 3 **9.00**  ·  Sergio Barcia - 3 **10.00**  ·  Adrian Bajrami - 3 **17.00**  ·  Adrian Barisic - 3 **19.00**  ·  Gustaf Lagerbielke - 3 **15.00**  ·  Yanis da Rocha - 3 **15.00**  ·  Luz Ricardo Horta - 4 **1.91**  ·  Fran Navarro - 4 **2.50**  ·  Pau Victor - 4 **2.20**  ·  Jonas Wind - 4 **2.62**  ·  Gabriel Silva Vieira - 4 **3.00**  ·  Gabriel Martinez - 4 **3.75**  ·  Teixeira Luisinho - 4 **4.00**  ·  Joao Aragao - 4 **5.50**  ·  Mario Dorgeles - 4 **5.50**  ·  Felipe Joao Moutinho - 4 **13.00**  ·  Vitor Carvalho - 4 **11.00**  ·  Demir Tiknaz - 4 **21.00**  ·  Denis Huseinbasic - 4 **4.00**  ·  Diego Rodrigues - 4 **21.00**  ·  Jean-Baptiste Gorby - 4 **21.00**  ·  Victor Gomez - 4 **21.00**  ·  Bright Arrey-Mbi - 4 **21.00**  ·  Diogo Travassos - 4 **21.00**  ·  Sergio Barcia - 4 **21.00**  ·  Luz Ricardo Horta - 5 **3.00**  ·  Fran Navarro - 5 **4.00**  ·  Pau Victor - 5 **3.50**  ·  Jonas Wind - 5 **4.50**  ·  Gabriel Silva Vieira - 5 **5.50**  ·  Gabriel Martinez - 5 **7.00**  ·  Teixeira Luisinho - 5 **8.00**  ·  Joao Aragao - 5 **13.00**  ·  Mario Dorgeles - 5 **13.00**  ·  Felipe Joao Moutinho - 5 **21.00**  ·  Vitor Carvalho - 5 **21.00**  ·  Luz Ricardo Horta - 6 **5.50**  ·  Fran Navarro - 6 **8.00**  ·  Pau Victor - 6 **6.50**  ·  Jonas Wind - 6 **9.00**  ·  Gabriel Silva Vieira - 6 **10.00**  ·  Gabriel Martinez - 6 **15.00**  ·  Teixeira Luisinho - 6 **17.00**  ·  Joao Aragao - 6 **21.00**  ·  Mario Dorgeles - 6 **21.00**  ·  Luz Ricardo Horta - 7 **10.00**  ·  Fran Navarro - 7 **15.00**  ·  Pau Victor - 7 **13.00**  ·  Jonas Wind - 7 **17.00**  ·  Gabriel Silva Vieira - 7 **19.00**  ·  Gabriel Martinez - 7 **21.00**  ·  Luz Ricardo Horta - 8 **17.00**  ·  Fran Navarro - 8 **21.00**  ·  Pau Victor - 8 **21.00**  ·  Jovan Milosevic - 1 **1.05**  ·  Jovan Milosevic - 2 **1.28**  ·  Jovan Milosevic - 3 **1.80**  ·  Jovan Milosevic - 4 **3.00**  ·  Jovan Milosevic - 5 **5.50**  ·  Jovan Milosevic - 6 **10.00**  ·  Jovan Milosevic - 7 **19.00**  ·  Tomas Marques - 1 **1.83**  ·  Joao Trovisco - 1 **1.05**  ·  Joao Trovisco - 2 **1.28**  ·  Tomas Marques - 2 **5.00**  ·  Joao Trovisco - 3 **1.83**  ·  Tomas Marques - 3 **15.00**  ·  Joao Trovisco - 4 **3.00**  ·  Joao Trovisco - 5 **5.50**  ·  Denis Huseinbasic - 5 **9.00**  ·  Joao Trovisco - 6 **11.00**  ·  Joao Trovisco - 7 **21.00**  ·  Ruben Furtado - 1 **1.10**  ·  Ruben Furtado - 2 **1.44**  ·  Ruben Furtado - 3 **2.25**  ·  Ruben Furtado - 4 **4.00**  ·  Ruben Furtado - 5 **9.00**  ·  Ruben Furtado - 6 **17.00**  ·  Denis Huseinbasic - 6 **17.00**  ·  Flinto Costa - 1 **1.05**  ·  Diogo Lobo - 1 **1.50**  ·  Flinto Costa - 2 **1.28**  ·  Diogo Lobo - 2 **3.25**  ·  Flinto Costa - 3 **1.80**  ·  Diogo Lobo - 3 **8.00**  ·  Flinto Costa - 4 **2.75**  ·  Diogo Lobo - 4 **21.00**  ·  Flinto Costa - 5 **5.00**  ·  Flinto Costa - 6 **10.00**  ·  Flinto Costa - 7 **19.00**
+- **Anytime Goal Scorer:** Ruben Furtado **3.75**  ·  Frederik Emmery **6.00**  ·  Oskar Haugstrup **8.00**  ·  Stefen Tchamche **3.50**  ·  Christian Storch **13.00**  ·  Denis Huseinbasic **3.75**  ·  Adrian Barisic **13.00**  ·  Daniel Gretarsson **13.00**  ·  Mikael Anderson **8.00**  ·  Tobias Bech **3.50**  ·  Gift Links **6.00**  ·  Kristian Arnstad **3.75**  ·  Eric Kahl **11.00**  ·  Frederik Tingager **15.00**  ·  Luka Callo **13.00**  ·  Nicolai Poulsen **9.00**  ·  Jacob Andersen **19.00**  ·  Mario Dorgeles **4.33**  ·  Callum McCowatt **3.50**  ·  Kevin Yakob **5.00**  ·  Tomas Oli Kristjansson **5.00**  ·  Yanis da Rocha **11.00**  ·  Joao Aragao **4.33**  ·  Zander Grantzau **13.00**  ·  Diego Rodrigues **7.50**  ·  Rasmus Carstensen **8.00**  ·  Jens Jonsson **11.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.40**  ·  Janni-Luca Serra **4.00**  ·  Sebastian Jorgensen **5.00**  ·  Colin Rosler **13.00**  ·  Gabriel Martinez **3.50**  ·  Tomas Marques **11.00**  ·  James Bogere **3.75**  ·  Markus Solbakken **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.75**  ·  Fran Navarro **2.60**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **8.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Teixeira Luisinho **3.75**  ·  Diogo Travassos **7.50**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **8.00**  ·  Jovan Milosevic **3.00**  ·  Hamza Sengooba **13.00**  ·  Mouhammade Camara **13.00**  ·  Joao Trovisco **3.10**  ·  Flinto Costa **3.00**  ·  Diogo Lobo **7.50**  ·  Tobias Molgaard **13.00**  ·  Jonas Wind **2.75**  ·  Magnus Nordengen Knudsen **8.00**  ·  Gabriel Silva Vieira **3.00**
+- **Player to Score or Assist:** Ruben Furtado **2.25**  ·  Frederik Emmery **3.10**  ·  Oskar Haugstrup **4.50**  ·  Stefen Tchamche **2.62**  ·  Christian Storch **8.00**  ·  Denis Huseinbasic **2.88**  ·  Adrian Barisic **8.50**  ·  Daniel Gretarsson **8.50**  ·  Mikael Anderson **3.75**  ·  Tobias Bech **2.50**  ·  Gift Links **3.00**  ·  Kristian Arnstad **2.88**  ·  Eric Kahl **6.00**  ·  Frederik Tingager **9.50**  ·  Luka Callo **9.00**  ·  Nicolai Poulsen **6.00**  ·  Jacob Andersen **9.00**  ·  Mario Dorgeles **2.88**  ·  Callum McCowatt **2.50**  ·  Kevin Yakob **3.20**  ·  Tomas Oli Kristjansson **2.88**  ·  Yanis da Rocha **4.50**  ·  Joao Aragao **2.50**  ·  Zander Grantzau **8.00**  ·  Diego Rodrigues **3.75**  ·  Rasmus Carstensen **5.00**  ·  Jens Jonsson **5.50**  ·  Gustaf Lagerbielke **6.00**  ·  Pau Victor **1.91**  ·  Janni-Luca Serra **2.88**  ·  Sebastian Jorgensen **2.88**  ·  Colin Rosler **9.50**  ·  Gabriel Martinez **2.30**  ·  Tomas Marques **4.50**  ·  James Bogere **2.88**  ·  Markus Solbakken **4.75**  ·  Adrian Bajrami **7.50**  ·  Luz Ricardo Horta **1.83**  ·  Fran Navarro **1.91**  ·  Felipe Joao Moutinho **3.50**  ·  Jean-Baptiste Gorby **3.75**  ·  Vitor Carvalho **4.50**  ·  Bright Arrey-Mbi **6.00**  ·  Victor Gomez **4.00**  ·  Teixeira Luisinho **2.25**  ·  Diogo Travassos **5.00**  ·  Demir Tiknaz **3.25**  ·  Sergio Barcia **4.75**  ·  Jovan Milosevic **2.10**  ·  Hamza Sengooba **9.00**  ·  Mouhammade Camara **6.50**  ·  Joao Trovisco **2.10**  ·  Flinto Costa **2.00**  ·  Diogo Lobo **3.40**  ·  Tobias Molgaard **8.00**  ·  Jonas Wind **2.10**  ·  Magnus Nordengen Knudsen **5.00**  ·  Gabriel Silva Vieira **2.20**
 
 ## Estadísticas de equipo
 | | Aarhus (total) | Aarhus en casa | SC Braga (total) | SC Braga fuera |
@@ -180,44 +184,44 @@ _Sin precedentes recientes._
 | A. Barišić | D | 4 | 302 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,63 · visitante 1,27 · córners esperados 9,3._
+_Goles esperados: local 0,64 · visitante 1,30 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 52% | 48% | 50% | 1.95 | -3% |
-| 1X2: X | 30% | 28% | 29% | 3.30 | -5% |
-| 1X2: 1 | 19% | 24% | 22% | 3.80 | -18% |
-| Doble oportunidad: X2 | 81% | 76% | 79% | 1.25 | -2% |
-| Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -9% |
-| Ambos marcan: No | 66% | 49% | 57% | 1.91 | +10% |
+| 1X2: 2 | 53% | 48% | 50% | 1.95 | -2% |
+| 1X2: X | 29% | 27% | 28% | 3.40 | -4% |
+| 1X2: 1 | 18% | 25% | 21% | 3.80 | -18% |
+| Doble oportunidad: X2 | 82% | 75% | 78% | 1.25 | -2% |
+| Doble oportunidad: 12 | 71% | 72% | 72% | 1.30 | -7% |
+| Doble oportunidad: 1X | 47% | 52% | 50% | 1.80 | -10% |
+| Ambos marcan: No | 66% | 49% | 57% | 1.91 | +9% |
 | Ambos marcan: Sí | 34% | 51% | 43% | 1.80 | -23% |
-| Goles más/menos: Más de 1.5 | 57% | 73% | 65% | 1.28 | -17% |
-| Goles más/menos: Más de 2.5 | 30% | 49% | 39% | 1.95 | -24% |
-| Goles más/menos: Más de 3.5 | 13% | 28% | 20% | 3.40 | -32% |
-| Goles más/menos: Menos de 1.5 | 43% | 27% | 35% | 3.50 | +23% |
-| Goles más/menos: Menos de 2.5 | 70% | 51% | 61% | 1.85 | +13% |
-| Goles más/menos: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 56% | 66% | 61% | 1.40 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 20% | 34% | 27% | 2.75 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 34% | 39% | 2.75 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 66% | 73% | 1.40 | +2% |
+| Goles más/menos: Más de 1.5 | 58% | 73% | 65% | 1.28 | -16% |
+| Goles más/menos: Más de 2.5 | 31% | 49% | 40% | 1.95 | -23% |
+| Goles más/menos: Más de 3.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles más/menos: Menos de 1.5 | 42% | 27% | 35% | 3.50 | +21% |
+| Goles más/menos: Menos de 2.5 | 69% | 51% | 60% | 1.85 | +12% |
+| Goles más/menos: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 57% | 69% | 63% | 1.36 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 21% | 34% | 27% | 2.75 | -25% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 43% | 31% | 37% | 3.00 | +11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 66% | 73% | 1.40 | +2% |
 | Goles del local: Más de 0.5 | 47% | 65% | 56% | 1.44 | -20% |
 | Goles del local: Más de 1.5 | 13% | 29% | 21% | 3.25 | -31% |
 | Goles del local: Menos de 0.5 | 53% | 35% | 44% | 2.62 | +16% |
 | Goles del local: Menos de 1.5 | 87% | 71% | 79% | 1.33 | +5% |
-| Goles del visitante: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
-| Goles del visitante: Más de 1.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Goles del visitante: Más de 2.5 | 14% | 22% | 18% | 4.33 | -24% |
-| Goles del visitante: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
-| Goles del visitante: Menos de 1.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles del visitante: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
+| Goles del visitante: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
+| Goles del visitante: Más de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
+| Goles del visitante: Más de 2.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles del visitante: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
+| Goles del visitante: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
+| Goles del visitante: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -2% |
 | Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
-| 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -9% |
-| 1X2 descanso: X | 51% | 42% | 46% | 2.20 | +2% |
-| 1X2 descanso: 1 | 15% | 23% | 19% | 4.00 | -24% |
+| 1X2 descanso: 2 | 35% | 36% | 35% | 2.60 | -8% |
+| 1X2 descanso: X | 50% | 42% | 46% | 2.20 | +2% |
+| 1X2 descanso: 1 | 15% | 22% | 18% | 4.33 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

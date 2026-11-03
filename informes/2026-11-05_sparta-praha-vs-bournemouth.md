@@ -1,10 +1,10 @@
 # Sparta Praha – Bournemouth
-**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · epet ARENA
+**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Stadion Letná
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:12_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **5.50**  ·  X **4.10**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.22**  ·  X2 **1.14**
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 13% | 22% | 18% | 4.10 | -27% |
 | 1X2: 1 | 9% | 17% | 13% | 5.50 | -30% |
 | Doble oportunidad: X2 | 91% | 84% | 87% | 1.14 | -0% |
-| Doble oportunidad: 12 | 87% | 78% | 82% | 1.22 | +0% |
+| Doble oportunidad: 12 | 87% | 78% | 82% | 1.22 | +1% |
 | Doble oportunidad: 1X | 22% | 38% | 30% | 2.50 | -24% |
 | Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
 | Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |

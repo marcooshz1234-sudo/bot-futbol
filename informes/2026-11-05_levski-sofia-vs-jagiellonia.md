@@ -1,12 +1,12 @@
 # Levski Sofia – Jagiellonia
-**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · National Stadium Vasil Levski
+**Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Vasil Levski National Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:12_
+_Actualizadas: 03/11 02:07_
 
-- **1X2:** 1 **1.95**  ·  X **3.50**  ·  2 **3.50**
+- **1X2:** 1 **1.95**  ·  X **3.60**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
@@ -184,16 +184,16 @@ _Sin precedentes recientes._
 | Youssuf Sylla | F | 1 | 30 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,11 · córners esperados 9,5._
+_Goles esperados: local 1,32 · visitante 1,11 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 26% | 29% | 3.50 | +1% |
-| 1X2: X | 27% | 26% | 27% | 3.50 | -6% |
-| 1X2: 1 | 41% | 47% | 44% | 1.95 | -14% |
-| Doble oportunidad: X2 | 59% | 52% | 56% | 1.80 | -0% |
+| 1X2: 2 | 31% | 25% | 28% | 3.80 | +7% |
+| 1X2: X | 27% | 26% | 27% | 3.60 | -3% |
+| 1X2: 1 | 41% | 49% | 45% | 1.95 | -12% |
+| Doble oportunidad: X2 | 59% | 52% | 56% | 1.80 | +0% |
 | Doble oportunidad: 12 | 73% | 74% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 69% | 74% | 71% | 1.28 | -9% |
 | Ambos marcan: No | 51% | 45% | 48% | 2.05 | -1% |
@@ -206,7 +206,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 77% | 68% | 73% | 1.40 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | Goles del local: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
 | Goles del local: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
@@ -218,8 +218,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
+| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -4% |
 | 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -5% |
 | 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -3% |
 | 1X2 descanso: 1 | 30% | 36% | 33% | 2.60 | -14% |

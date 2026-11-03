@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Bayern München
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Mewa Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | H. Ito | D | 4 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 3,30 · córners esperados 10,0._
+_Goles esperados: local 1,38 · visitante 3,31 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -208,20 +208,20 @@ _Goles esperados: local 1,39 · visitante 3,30 · córners esperados 10,0._
 | Goles más/menos: Menos de 4.5 | 50% | 59% | 54% | 1.62 | -12% |
 | Goles más/menos: Menos de 5.5 | 67% | 75% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles 1ª parte más/menos: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 33% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 66% | 71% | 69% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 67% | 71% | 69% | 1.33 | -9% |
 | Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -8% |
 | Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
 | Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
-| Goles del visitante: Más de 1.5 | 84% | 75% | 80% | 1.25 | -1% |
+| Goles del visitante: Más de 1.5 | 84% | 75% | 80% | 1.25 | -0% |
 | Goles del visitante: Más de 2.5 | 64% | 51% | 58% | 1.80 | +4% |
 | Goles del visitante: Más de 3.5 ✅ | 42% | 31% | 37% | 3.00 | +10% |
-| Goles del visitante: Menos de 1.5 | 16% | 25% | 20% | 3.75 | -23% |
+| Goles del visitante: Menos de 1.5 | 16% | 25% | 20% | 3.75 | -24% |
 | Goles del visitante: Menos de 2.5 | 36% | 49% | 42% | 1.91 | -19% |
 | Goles del visitante: Menos de 3.5 | 58% | 69% | 63% | 1.36 | -14% |
-| 1X2 descanso: 2 | 57% | 51% | 54% | 1.83 | -1% |
+| 1X2 descanso: 2 | 58% | 51% | 54% | 1.83 | -1% |
 | 1X2 descanso: X | 27% | 31% | 29% | 3.00 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

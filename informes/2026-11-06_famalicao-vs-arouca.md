@@ -1,7 +1,7 @@
 # Famalicao – Arouca
 **Primeira Liga** · Regular Season - 11 · 06/11/2026 21:45 (hora España) · Estadio Municipal de Famalicao
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | F. Mayulu | F | 2 | 13 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 1,29 · córners esperados 9,4._
+_Goles esperados: local 0,94 · visitante 1,31 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

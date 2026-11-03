@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Schalke 04
 **Bundesliga** · Regular Season - 9 · 08/11/2026 19:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:11_
@@ -208,11 +208,11 @@ _Goles esperados: local 1,75 · visitante 0,95 · córners esperados 10,3._
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -27% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Goles del local: Más de 1.5 | 52% | 62% | 57% | 1.50 | -14% |
 | Goles del local: Más de 2.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles del local: Menos de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +6% |
+| Goles del local: Menos de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +7% |
 | Goles del local: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +3% |
 | Goles del visitante: Más de 0.5 | 61% | 69% | 65% | 1.36 | -11% |
 | Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -20% |

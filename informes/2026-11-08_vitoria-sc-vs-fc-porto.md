@@ -1,7 +1,7 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,43 +9,43 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Vitória SC (total) | Vitória SC en casa | FC Porto (total) | FC Porto fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 13 | 6 |
-| Forma (últimos 5) | VVDED | VEEVD | VVDDV | VDVVV |
-| Balance | 3V 2E 5D | 2V 2E 1D | 10V 0E 3D | 5V 0E 1D |
-| Goles a favor / partido | 1,10 | 1,40 | 2,08 | 2,33 |
-| Goles en contra / partido | 1,00 | 0,40 | 0,77 | 0,83 |
-| Goles a favor 1ª parte | 0,20 | 0,40 | 0,85 | 1,00 |
-| Goles a favor 2ª parte | 0,90 | 1,00 | 1,23 | 1,33 |
-| Goles en contra 1ª parte | 0,40 | 0,00 | 0,23 | 0,33 |
-| Goles en contra 2ª parte | 0,60 | 0,40 | 0,54 | 0,50 |
-| Más de 1,5 goles | 50% | 40% | 85% | 83% |
-| Más de 2,5 goles | 30% | 20% | 54% | 67% |
-| Más de 3,5 goles | 20% | 20% | 31% | 33% |
-| Ambos marcan | 30% | 20% | 38% | 50% |
-| Portería a cero | 40% | 60% | 46% | 50% |
-| Se queda sin marcar | 40% | 40% | 15% | 0% |
-| xG a favor | 1,67 | 2,16 | 1,92 | 1,72 |
-| xG en contra | 0,98 | 0,42 | 1,09 | 0,91 |
-| Tiros / partido | 17,7 | 21,8 | 15,1 | 13,0 |
-| Tiros a puerta / partido | 4,6 | 5,8 | 5,8 | 5,2 |
-| Tiros recibidos | 9,1 | 7,0 | 11,8 | 11,8 |
-| Tiros a puerta recibidos | 2,9 | 2,0 | 3,4 | 3,3 |
+| Partidos analizados | 11 | 5 | 13 | 6 |
+| Forma (últimos 5) | EVVDE | VEEVD | VVDDV | VDVVV |
+| Balance | 3V 3E 5D | 2V 2E 1D | 10V 0E 3D | 5V 0E 1D |
+| Goles a favor / partido | 1,00 | 1,40 | 2,08 | 2,33 |
+| Goles en contra / partido | 0,91 | 0,40 | 0,77 | 0,83 |
+| Goles a favor 1ª parte | 0,18 | 0,40 | 0,85 | 1,00 |
+| Goles a favor 2ª parte | 0,82 | 1,00 | 1,23 | 1,33 |
+| Goles en contra 1ª parte | 0,36 | 0,00 | 0,23 | 0,33 |
+| Goles en contra 2ª parte | 0,55 | 0,40 | 0,54 | 0,50 |
+| Más de 1,5 goles | 45% | 40% | 85% | 83% |
+| Más de 2,5 goles | 27% | 20% | 54% | 67% |
+| Más de 3,5 goles | 18% | 20% | 31% | 33% |
+| Ambos marcan | 27% | 20% | 38% | 50% |
+| Portería a cero | 45% | 60% | 46% | 50% |
+| Se queda sin marcar | 45% | 40% | 15% | 0% |
+| xG a favor | 1,55 | 2,16 | 1,92 | 1,72 |
+| xG en contra | 0,95 | 0,42 | 1,09 | 0,91 |
+| Tiros / partido | 17,0 | 21,8 | 15,1 | 13,0 |
+| Tiros a puerta / partido | 4,3 | 5,8 | 5,8 | 5,2 |
+| Tiros recibidos | 9,2 | 7,0 | 11,8 | 11,8 |
+| Tiros a puerta recibidos | 2,7 | 2,0 | 3,4 | 3,3 |
 | Posesión media % | 54 | 61 | 52 | 53 |
-| Córners a favor | 5,8 | 7,0 | 5,8 | 5,3 |
-| Córners en contra | 4,0 | 2,8 | 3,5 | 3,7 |
-| Córners a favor 1ª parte | 2,4 | 3,0 | 3,2 | 3,2 |
-| Córners a favor 2ª parte | 3,3 | 4,0 | 2,5 | 2,2 |
-| Córners totales del partido | 9,8 | 9,8 | 9,2 | 9,0 |
-| Córners totales 1ª parte | 5,2 | 4,8 | 4,8 | 4,8 |
-| Córners totales 2ª parte | 4,6 | 5,0 | 4,4 | 4,2 |
-| Más de 8,5 córners | 44% | 40% | 46% | 50% |
-| Más de 9,5 córners | 44% | 40% | 46% | 50% |
-| Más de 10,5 córners | 44% | 40% | 38% | 50% |
-| Faltas cometidas | 15,7 | 13,6 | 13,3 | 14,3 |
-| Faltas recibidas | 10,1 | 9,0 | 11,5 | 12,2 |
-| Amarillas propias | 2,8 | 2,0 | 1,1 | 1,2 |
+| Córners a favor | 5,5 | 7,0 | 5,8 | 5,3 |
+| Córners en contra | 3,8 | 2,8 | 3,5 | 3,7 |
+| Córners a favor 1ª parte | 2,3 | 3,0 | 3,2 | 3,2 |
+| Córners a favor 2ª parte | 3,2 | 4,0 | 2,5 | 2,2 |
+| Córners totales del partido | 9,3 | 9,8 | 9,2 | 9,0 |
+| Córners totales 1ª parte | 4,9 | 4,8 | 4,8 | 4,8 |
+| Córners totales 2ª parte | 4,4 | 5,0 | 4,4 | 4,2 |
+| Más de 8,5 córners | 40% | 40% | 46% | 50% |
+| Más de 9,5 córners | 40% | 40% | 46% | 50% |
+| Más de 10,5 córners | 40% | 40% | 38% | 50% |
+| Faltas cometidas | 16,2 | 13,6 | 13,3 | 14,3 |
+| Faltas recibidas | 10,8 | 9,0 | 11,5 | 12,2 |
+| Amarillas propias | 2,6 | 2,0 | 1,1 | 1,2 |
 | Amarillas del rival | 2,3 | 1,8 | 1,9 | 1,5 |
-| Rojas / partido | 0,11 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,10 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Vitória SC | Recibe Vitória SC | Tarjetas Vitória SC | Goles FC Porto | Recibe FC Porto | Tarjetas FC Porto |
@@ -53,7 +53,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 1 | 1 | 2 | 4 | 0 | 1 |
 | 16-30' | 0 | 2 | 6 | 1 | 2 | 0 |
 | 31-45' | 1 | 1 | 4 | 6 | 1 | 4 |
-| 46-60' | 2 | 4 | 3 | 5 | 4 | 3 |
+| 46-60' | 2 | 4 | 4 | 5 | 4 | 3 |
 | 61-75' | 3 | 1 | 7 | 7 | 1 | 2 |
 | 76-90' | 4 | 2 | 8 | 4 | 2 | 5 |
 
@@ -73,35 +73,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Vitória SC
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Primeira Liga | GIL Vicente 0-0 Vitória SC | fuera | 3-2 | 11 (2) - 10 (1) | 1-2 |
 | 2026-10-23 | Primeira Liga | Vitória SC 5-0 Maritimo | casa | 6-5 | 17 (8) - 10 (2) | 4-3 |
 | 2026-10-17 | Taça de Portugal | Recreativa de Lamelas 0-1 Vitória SC | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Benfica 2-0 Vitória SC | fuera | 6-11 | 8 (0) - 23 (5) | 5-2 |
 | 2026-09-20 | Primeira Liga | Vitória SC 1-1 Moreirense | casa | 3-0 | 16 (5) - 7 (3) | 0-0 |
 | 2026-09-12 | Primeira Liga | Academico Viseu 2-1 Vitória SC | fuera | 8-4 | 22 (7) - 10 (4) | 3-4 |
-| 2026-09-06 | Primeira Liga | Vitória SC 0-0 Casa Pia | casa | 17-4 | 29 (8) - 7 (3) | 2-2 |
 
 ## Jugadores de Vitória SC
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| João Mendes | D | 9 | 810 | 0 | 0 | 10 | 1,1 | 3 | 0,3 | 10 | 2 | 0,2 | 0 | 0 |
-| Samu | M | 9 | 730 | 1 | 1 | 13 | 1,4 | 6 | 0,7 | 16 | 7 | 0,8 | 2 | 0 |
+| João Mendes | D | 10 | 900 | 0 | 0 | 11 | 1,1 | 3 | 0,3 | 11 | 3 | 0,3 | 0 | 0 |
+| Samu | M | 10 | 806 | 1 | 1 | 14 | 1,4 | 6 | 0,6 | 20 | 8 | 0,8 | 2 | 0 |
+| T. Strata | D | 10 | 777 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 16 | 3 | 0,3 | 2 | 0 |
 | O. Zych | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Thiago Balieiro | D | 8 | 720 | 0 | 0 | 7 | 0,9 | 1 | 0,1 | 14 | 3 | 0,4 | 3 | 0 |
-| T. Strata | D | 9 | 687 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 13 | 3 | 0,3 | 2 | 0 |
-| Gustavo | M | 8 | 592 | 1 | 0 | 22 | 2,8 | 7 | 0,9 | 13 | 11 | 1,4 | 4 | 0 |
-| Gonçalo Nogueira | M | 9 | 539 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 8 | 0,9 | 3 | 0 |
-| O. Camara | M | 9 | 520 | 1 | 0 | 13 | 1,4 | 6 | 0,7 | 5 | 7 | 0,8 | 1 | 0 |
-| Beni | M | 9 | 488 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 6 | 0,7 | 0 | 0 |
-| L. Doucet | M | 9 | 478 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 4 | 0,4 | 1 | 0 |
-| A. Ndoye | F | 7 | 428 | 1 | 0 | 17 | 2,4 | 4 | 0,6 | 11 | 8 | 1,1 | 0 | 1 |
-| Miguel Nogueira | M | 8 | 409 | 0 | 3 | 8 | 1,0 | 0 | 0,0 | 5 | 6 | 0,8 | 2 | 0 |
+| Gustavo | M | 9 | 681 | 1 | 0 | 22 | 2,4 | 7 | 0,8 | 14 | 13 | 1,4 | 4 | 0 |
+| Gonçalo Nogueira | M | 10 | 629 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 14 | 11 | 1,1 | 3 | 0 |
+| O. Camara | M | 10 | 610 | 1 | 0 | 19 | 1,9 | 7 | 0,7 | 6 | 8 | 0,8 | 1 | 0 |
+| Beni | M | 10 | 577 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 7 | 0,7 | 0 | 0 |
+| L. Doucet | M | 10 | 479 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 4 | 0,4 | 1 | 0 |
+| A. Ndoye | F | 8 | 443 | 1 | 0 | 18 | 2,2 | 4 | 0,5 | 11 | 10 | 1,2 | 0 | 1 |
+| A. Jakupovic | F | 6 | 420 | 2 | 0 | 13 | 2,2 | 5 | 0,8 | 5 | 7 | 1,2 | 1 | 0 |
+| Miguel Nogueira | F | 9 | 410 | 0 | 3 | 8 | 0,9 | 0 | 0,0 | 5 | 6 | 0,7 | 2 | 0 |
 | Óscar Rivas | D | 5 | 379 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 5 | 2 | 0,4 | 2 | 0 |
-| A. Jakupovic | F | 5 | 345 | 2 | 0 | 12 | 2,4 | 5 | 1,0 | 3 | 5 | 1,0 | 1 | 0 |
-| T. Borevković | D | 4 | 283 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 3 | 4 | 1,0 | 3 | 0 |
-| A. Sidibé | D | 3 | 233 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
+| T. Borevković | D | 5 | 373 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 4 | 6 | 1,2 | 4 | 0 |
+| A. Sidibé | D | 4 | 323 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 4 | 1,0 | 0 | 0 |
+| Lucas Furtado | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Miguel Maga | D | 3 | 123 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |
-| Alan | M | 3 | 99 | 0 | 2 | 2 | 0,7 | 2 | 0,7 | 1 | 3 | 1,0 | 0 | 0 |
-| Lucas Furtado | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Alan | M | 4 | 113 | 0 | 2 | 2 | 0,5 | 2 | 0,5 | 2 | 3 | 0,8 | 0 | 0 |
 | M. Mitrović | M | 4 | 80 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Últimos partidos de FC Porto
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Deniz Gül | F | 3 | 92 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,28 · córners esperados 9,7._
+_Goles esperados: local 0,97 · visitante 1,24 · córners esperados 9,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,10 +1,10 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:08_
 
 - **1X2:** 1 **2.80**  ·  X **3.60**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.28**  ·  X2 **1.40**
@@ -183,46 +183,46 @@ _Sin precedentes recientes._
 | E. Poku | F | 1 | 20 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,61 · visitante 2,31 · córners esperados 9,5._
+_Goles esperados: local 0,61 · visitante 2,34 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 76% | 41% | 58% | 2.25 | +32% |
+| 1X2: 2 | 76% | 41% | 59% | 2.25 | +32% |
 | 1X2: X | 16% | 26% | 21% | 3.60 | -25% |
-| 1X2: 1 | 8% | 33% | 21% | 2.80 | -42% |
+| 1X2: 1 | 8% | 33% | 21% | 2.80 | -43% |
 | Doble oportunidad: X2 | 92% | 68% | 80% | 1.40 | +12% |
 | Doble oportunidad: 12 | 84% | 74% | 79% | 1.28 | +1% |
 | Doble oportunidad: 1X | 24% | 58% | 41% | 1.62 | -33% |
-| Ambos marcan: No | 59% | 39% | 49% | 2.38 | +17% |
+| Ambos marcan: No | 59% | 39% | 49% | 2.38 | +16% |
 | Ambos marcan: Sí | 41% | 61% | 51% | 1.53 | -22% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -7% |
-| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles más/menos: Más de 4.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Más de 2.5 | 57% | 59% | 58% | 1.62 | -7% |
+| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles más/menos: Más de 4.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -6% |
+| Goles más/menos: Menos de 2.5 | 43% | 41% | 42% | 2.30 | -3% |
 | Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
-| Goles más/menos: Menos de 4.5 | 83% | 79% | 81% | 1.20 | -3% |
+| Goles más/menos: Menos de 4.5 | 82% | 79% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Goles del local: Más de 0.5 | 46% | 75% | 60% | 1.25 | -25% |
-| Goles del local: Más de 1.5 | 13% | 42% | 27% | 2.20 | -40% |
-| Goles del local: Menos de 0.5 | 54% | 25% | 40% | 3.75 | +49% |
-| Goles del local: Menos de 1.5 | 87% | 58% | 73% | 1.62 | +17% |
-| Goles del visitante: Más de 0.5 | 90% | 79% | 85% | 1.18 | -0% |
-| Goles del visitante: Más de 1.5 | 67% | 50% | 59% | 1.83 | +7% |
-| Goles del visitante: Más de 2.5 | 41% | 23% | 32% | 4.00 | +28% |
-| Goles del visitante: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -31% |
-| Goles del visitante: Menos de 1.5 | 33% | 50% | 41% | 1.83 | -24% |
-| Goles del visitante: Menos de 2.5 | 59% | 77% | 68% | 1.22 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles del local: Más de 0.5 | 46% | 75% | 60% | 1.25 | -24% |
+| Goles del local: Más de 1.5 | 13% | 42% | 28% | 2.20 | -39% |
+| Goles del local: Menos de 0.5 | 54% | 25% | 40% | 3.75 | +48% |
+| Goles del local: Menos de 1.5 | 87% | 58% | 72% | 1.62 | +17% |
+| Goles del visitante: Más de 0.5 | 90% | 79% | 85% | 1.18 | +0% |
+| Goles del visitante: Más de 1.5 | 68% | 50% | 59% | 1.83 | +8% |
+| Goles del visitante: Más de 2.5 | 41% | 23% | 32% | 4.00 | +30% |
+| Goles del visitante: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -32% |
+| Goles del visitante: Menos de 1.5 | 32% | 50% | 41% | 1.83 | -25% |
+| Goles del visitante: Menos de 2.5 | 59% | 77% | 68% | 1.22 | -18% |
 | Córners más/menos: Más de 10.5 | 37% | 50% | 44% | 1.83 | -20% |
 | Córners más/menos: Menos de 10.5 | 63% | 50% | 56% | 1.83 | +3% |
-| 1X2 descanso: 2 | 54% | 32% | 43% | 2.88 | +25% |
-| 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -11% |
+| 1X2 descanso: 2 | 55% | 32% | 44% | 2.88 | +25% |
+| 1X2 descanso: X | 36% | 39% | 37% | 2.38 | -11% |
 | 1X2 descanso: 1 | 10% | 29% | 19% | 3.25 | -38% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

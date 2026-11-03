@@ -1,10 +1,10 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **1.07**  ·  X **9.50**  ·  2 **26.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.07**  ·  X2 **9.00**
@@ -178,13 +178,13 @@ _Sin precedentes recientes._
 | Adrian Da Cunha | D | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,04 · visitante 0,84 · córners esperados 9,0._
+_Goles esperados: local 2,03 · visitante 0,84 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 4% | 9% | 26.00 | +136% |
+| 1X2: 2 | 15% | 4% | 9% | 26.00 | +137% |
 | 1X2: X | 20% | 10% | 15% | 9.50 | +43% |
 | 1X2: 1 | 65% | 87% | 76% | 1.07 | -19% |
 | Doble oportunidad: X2 | 35% | 11% | 23% | 9.00 | +106% |
@@ -196,7 +196,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 33% | 51% | 42% | 1.80 | -24% |
 | Goles más/menos: Más de 4.5 | 16% | 34% | 25% | 2.75 | -31% |
 | Goles más/menos: Más de 5.5 | 7% | 21% | 14% | 4.50 | -37% |
-| Goles más/menos: Menos de 2.5 | 45% | 28% | 37% | 3.40 | +24% |
+| Goles más/menos: Menos de 2.5 | 45% | 28% | 37% | 3.40 | +25% |
 | Goles más/menos: Menos de 3.5 | 67% | 49% | 58% | 1.91 | +11% |
 | Goles más/menos: Menos de 4.5 | 84% | 66% | 75% | 1.40 | +5% |
 | Goles más/menos: Menos de 5.5 | 93% | 79% | 86% | 1.18 | +1% |
@@ -211,10 +211,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 3.5 | 85% | 58% | 71% | 1.62 | +16% |
 | Goles del local: Menos de 4.5 | 94% | 75% | 85% | 1.25 | +6% |
 | Goles del visitante: Más de 0.5 | 57% | 39% | 48% | 2.38 | +14% |
-| Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -20% |
+| Goles del visitante: Menos de 0.5 | 43% | 61% | 52% | 1.53 | -21% |
 | Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
 | Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: X | 39% | 26% | 32% | 3.60 | +15% |
+| 1X2 descanso: X | 39% | 26% | 32% | 3.60 | +16% |
 | 1X2 descanso: 1 | 47% | 69% | 58% | 1.33 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

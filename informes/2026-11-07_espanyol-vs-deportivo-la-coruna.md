@@ -1,7 +1,7 @@
 # Espanyol – Deportivo La Coruna
 **LaLiga** · Regular Season - 12 · 07/11/2026 16:15 (hora España) · RCDE Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -56,53 +56,53 @@ _Actualizadas: 02/11 08:31_
 ## Estadísticas de equipo
 | | Espanyol (total) | Espanyol en casa | Deportivo La Coruna (total) | Deportivo La Coruna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 11 | 6 |
-| Forma (últimos 5) | VDDDE | DDEDV | VDEDE | VDDEV |
-| Balance | 3V 2E 7D | 1V 1E 3D | 3V 5E 3D | 2V 2E 2D |
-| Goles a favor / partido | 1,33 | 1,20 | 1,45 | 1,67 |
-| Goles en contra / partido | 1,50 | 1,40 | 1,18 | 1,33 |
-| Goles a favor 1ª parte | 0,67 | 0,60 | 0,55 | 0,50 |
-| Goles a favor 2ª parte | 0,67 | 0,60 | 0,91 | 1,17 |
-| Goles en contra 1ª parte | 0,67 | 0,60 | 0,55 | 0,67 |
-| Goles en contra 2ª parte | 0,83 | 0,80 | 0,64 | 0,67 |
-| Más de 1,5 goles | 83% | 80% | 82% | 83% |
-| Más de 2,5 goles | 58% | 60% | 36% | 50% |
-| Más de 3,5 goles | 17% | 20% | 27% | 33% |
-| Ambos marcan | 67% | 60% | 73% | 67% |
-| Portería a cero | 25% | 20% | 9% | 17% |
-| Se queda sin marcar | 8% | 20% | 18% | 17% |
-| xG a favor | 1,00 | 1,08 | 1,20 | 1,39 |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | VDDDE | DDEDV | VVDED | VDDEV |
+| Balance | 3V 2E 7D | 1V 1E 3D | 4V 5E 3D | 2V 2E 2D |
+| Goles a favor / partido | 1,33 | 1,20 | 1,50 | 1,67 |
+| Goles en contra / partido | 1,50 | 1,40 | 1,17 | 1,33 |
+| Goles a favor 1ª parte | 0,67 | 0,60 | 0,50 | 0,50 |
+| Goles a favor 2ª parte | 0,67 | 0,60 | 1,00 | 1,17 |
+| Goles en contra 1ª parte | 0,67 | 0,60 | 0,58 | 0,67 |
+| Goles en contra 2ª parte | 0,83 | 0,80 | 0,58 | 0,67 |
+| Más de 1,5 goles | 83% | 80% | 83% | 83% |
+| Más de 2,5 goles | 58% | 60% | 42% | 50% |
+| Más de 3,5 goles | 17% | 20% | 25% | 33% |
+| Ambos marcan | 67% | 60% | 75% | 67% |
+| Portería a cero | 25% | 20% | 8% | 17% |
+| Se queda sin marcar | 8% | 20% | 17% | 17% |
+| xG a favor | 1,00 | 1,08 | 1,31 | 1,39 |
 | xG en contra | 1,37 | 1,32 | 1,17 | 1,35 |
-| Tiros / partido | 12,2 | 13,8 | 12,0 | 12,0 |
-| Tiros a puerta / partido | 3,6 | 3,6 | 4,4 | 4,4 |
-| Tiros recibidos | 14,3 | 11,8 | 13,3 | 15,4 |
-| Tiros a puerta recibidos | 5,7 | 4,6 | 4,3 | 3,8 |
-| Posesión media % | 47 | 49 | 48 | 50 |
-| Córners a favor | 3,3 | 1,4 | 5,1 | 5,2 |
-| Córners en contra | 6,0 | 5,6 | 5,2 | 5,4 |
-| Córners a favor 1ª parte | 1,4 | 0,4 | 1,8 | 1,8 |
-| Córners a favor 2ª parte | 1,8 | 1,0 | 3,3 | 3,4 |
+| Tiros / partido | 12,2 | 13,8 | 12,5 | 12,0 |
+| Tiros a puerta / partido | 3,6 | 3,6 | 4,6 | 4,4 |
+| Tiros recibidos | 14,3 | 11,8 | 13,1 | 15,4 |
+| Tiros a puerta recibidos | 5,7 | 4,6 | 4,1 | 3,8 |
+| Posesión media % | 47 | 49 | 49 | 50 |
+| Córners a favor | 3,3 | 1,4 | 5,4 | 5,2 |
+| Córners en contra | 6,0 | 5,6 | 4,9 | 5,4 |
+| Córners a favor 1ª parte | 1,4 | 0,4 | 1,9 | 1,8 |
+| Córners a favor 2ª parte | 1,8 | 1,0 | 3,5 | 3,4 |
 | Córners totales del partido | 9,3 | 7,0 | 10,3 | 10,6 |
-| Córners totales 1ª parte | 4,2 | 3,0 | 4,8 | 4,8 |
+| Córners totales 1ª parte | 4,2 | 3,0 | 4,7 | 4,8 |
 | Córners totales 2ª parte | 4,7 | 4,0 | 5,5 | 5,8 |
-| Más de 8,5 córners | 50% | 20% | 50% | 60% |
-| Más de 9,5 córners | 50% | 20% | 50% | 60% |
-| Más de 10,5 córners | 25% | 20% | 30% | 40% |
-| Faltas cometidas | 16,6 | 15,4 | 12,3 | 10,8 |
-| Faltas recibidas | 11,5 | 9,0 | 11,9 | 13,0 |
-| Amarillas propias | 3,2 | 2,8 | 2,0 | 2,2 |
-| Amarillas del rival | 2,7 | 2,2 | 2,1 | 2,2 |
-| Rojas / partido | 0,08 | 0,00 | 0,30 | 0,20 |
+| Más de 8,5 córners | 50% | 20% | 55% | 60% |
+| Más de 9,5 córners | 50% | 20% | 55% | 60% |
+| Más de 10,5 córners | 25% | 20% | 27% | 40% |
+| Faltas cometidas | 16,6 | 15,4 | 11,6 | 10,8 |
+| Faltas recibidas | 11,5 | 9,0 | 12,0 | 13,0 |
+| Amarillas propias | 3,2 | 2,8 | 1,8 | 2,2 |
+| Amarillas del rival | 2,7 | 2,2 | 2,3 | 2,2 |
+| Rojas / partido | 0,08 | 0,00 | 0,27 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Espanyol | Recibe Espanyol | Tarjetas Espanyol | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 2 | 1 | 0 | 1 |
 | 16-30' | 2 | 4 | 6 | 3 | 3 | 3 |
-| 31-45' | 2 | 1 | 7 | 2 | 3 | 3 |
+| 31-45' | 2 | 1 | 7 | 2 | 4 | 3 |
 | 46-60' | 2 | 0 | 3 | 2 | 3 | 2 |
-| 61-75' | 2 | 2 | 6 | 3 | 1 | 2 |
-| 76-90' | 4 | 8 | 16 | 5 | 3 | 12 |
+| 61-75' | 2 | 2 | 6 | 4 | 1 | 2 |
+| 76-90' | 4 | 8 | 16 | 6 | 3 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -154,72 +154,72 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Deportivo La Coruna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | LaLiga | Deportivo La Coruna 2-1 Osasuna | casa | 8-2 | 18 (7) - 11 (2) | 0-4 |
 | 2026-10-29 | Copa del Rey | Auriense 0-3 Deportivo La Coruna | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Atletico Madrid 1-0 Deportivo La Coruna | fuera | 4-3 | 15 (5) - 20 (4) | 2-4 |
 | 2026-10-16 | LaLiga | Deportivo La Coruna 1-1 Levante | casa | 3-5 | 13 (5) - 11 (4) | 3-2 |
 | 2026-10-11 | LaLiga | Real Sociedad 3-2 Deportivo La Coruna | fuera | 10-7 | 21 (7) - 12 (4) | 2-1 |
 | 2026-09-20 | LaLiga | Deportivo La Coruna 1-1 Real Betis | casa | 11-5 | 24 (7) - 11 (4) | 1-1 |
-| 2026-09-16 | LaLiga | Deportivo La Coruna 0-1 Sevilla | casa | 4-4 | 4 (3) - 11 (6) | 1-4 |
 
 ## Jugadores de Deportivo La Coruna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Leo Román | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| G. Quagliata | D | 10 | 818 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 13 | 16 | 1,6 | 2 | 0 |
-| Mario Soriano | M | 10 | 778 | 1 | 2 | 9 | 0,9 | 3 | 0,3 | 7 | 12 | 1,2 | 1 | 0 |
-| B. Nsongo | F | 10 | 669 | 1 | 0 | 15 | 1,5 | 5 | 0,5 | 9 | 6 | 0,6 | 1 | 0 |
-| L. Amatucci | M | 8 | 657 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 15 | 7 | 0,9 | 3 | 1 |
-| Ximo Navarro | D | 8 | 652 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 4 | 6 | 0,8 | 2 | 0 |
-| J. Giménez | D | 7 | 599 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 6 | 1 | 0,1 | 2 | 0 |
-| Pierre-Emerick Aubameyang | F | 7 | 560 | 5 | 2 | 14 | 2,0 | 10 | 1,4 | 4 | 2 | 0,3 | 0 | 0 |
-| Luismi Cruz | F | 10 | 550 | 1 | 1 | 6 | 0,6 | 3 | 0,3 | 15 | 12 | 1,2 | 1 | 0 |
+| Leo Román | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| G. Quagliata | D | 11 | 874 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 13 | 16 | 1,5 | 2 | 0 |
+| Mario Soriano | M | 11 | 867 | 2 | 2 | 11 | 1,0 | 5 | 0,5 | 7 | 13 | 1,2 | 1 | 0 |
+| B. Nsongo | F | 11 | 759 | 2 | 0 | 19 | 1,7 | 7 | 0,6 | 12 | 8 | 0,7 | 1 | 0 |
+| L. Amatucci | M | 9 | 747 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 15 | 9 | 1,0 | 3 | 1 |
+| J. Giménez | D | 8 | 689 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 1 | 0,1 | 2 | 0 |
+| Ximo Navarro | D | 9 | 653 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 4 | 6 | 0,7 | 2 | 0 |
+| Luismi Cruz | F | 11 | 619 | 1 | 2 | 8 | 0,7 | 3 | 0,3 | 15 | 13 | 1,2 | 1 | 0 |
+| P. Aubameyang | F | 8 | 581 | 5 | 2 | 15 | 1,9 | 11 | 1,4 | 4 | 2 | 0,2 | 0 | 0 |
+| Peke | M | 10 | 511 | 1 | 1 | 8 | 0,8 | 6 | 0,6 | 4 | 13 | 1,3 | 2 | 0 |
+| Adrià Alti | D | 8 | 484 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 9 | 1,1 | 3 | 1 |
 | Bright Ede | D | 6 | 461 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 1 | 2 | 0,3 | 1 | 0 |
 | Lucas Noubi | D | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 5 | 1,0 | 1 | 0 |
-| Peke | F | 9 | 421 | 1 | 1 | 5 | 0,6 | 5 | 0,6 | 4 | 10 | 1,1 | 2 | 0 |
-| Adrià Alti | D | 7 | 394 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 8 | 1,1 | 3 | 1 |
-| Riki Rodríguez | M | 7 | 371 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 3 | 3 | 0,4 | 0 | 0 |
+| Miguel Loureiro | D | 7 | 392 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 4 | 0,6 | 0 | 0 |
+| Riki Rodríguez | M | 8 | 372 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 3 | 3 | 0,4 | 0 | 0 |
 | Diego Villares | M | 6 | 319 | 1 | 0 | 5 | 0,8 | 1 | 0,2 | 4 | 2 | 0,3 | 0 | 0 |
-| Miguel Loureiro | D | 6 | 302 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,3 | 0 | 0 |
+| David Mella | M | 6 | 314 | 0 | 0 | 6 | 1,0 | 3 | 0,5 | 3 | 3 | 0,5 | 1 | 0 |
 | Jonathan Asp Jensen | M | 8 | 262 | 0 | 0 | 9 | 1,1 | 6 | 0,8 | 2 | 2 | 0,2 | 0 | 0 |
-| David Mella | D | 5 | 225 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 3 | 3 | 0,6 | 1 | 0 |
-| Adama Traoré | F | 7 | 205 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 5 | 7 | 1,0 | 0 | 0 |
+| Adama Traoré | F | 8 | 239 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 7 | 0,9 | 0 | 0 |
 | Marc Casadó | M | 3 | 120 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 2,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,11 · córners esperados 9,5._
+_Goles esperados: local 1,00 · visitante 1,15 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 38% | 28% | 33% | 3.30 | +9% |
-| 1X2: X | 30% | 29% | 29% | 3.25 | -5% |
-| 1X2: 1 | 32% | 43% | 38% | 2.20 | -17% |
-| Doble oportunidad: X2 | 68% | 57% | 62% | 1.67 | +4% |
-| Doble oportunidad: 12 | 70% | 72% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 62% | 72% | 67% | 1.33 | -11% |
-| Ambos marcan: No | 57% | 47% | 52% | 2.00 | +4% |
-| Ambos marcan: Sí | 43% | 53% | 48% | 1.75 | -16% |
-| Goles más/menos: Más de 1.5 | 63% | 73% | 68% | 1.30 | -12% |
-| Goles más/menos: Más de 2.5 | 36% | 47% | 42% | 2.00 | -17% |
-| Goles más/menos: Más de 3.5 | 17% | 28% | 22% | 3.40 | -24% |
-| Goles más/menos: Menos de 1.5 ✅ | 37% | 27% | 32% | 3.50 | +13% |
-| Goles más/menos: Menos de 2.5 | 64% | 53% | 58% | 1.80 | +5% |
-| Goles más/menos: Menos de 3.5 | 83% | 72% | 78% | 1.33 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del local: Más de 0.5 | 64% | 77% | 70% | 1.22 | -14% |
-| Goles del local: Más de 1.5 | 27% | 44% | 36% | 2.10 | -25% |
-| Goles del local: Menos de 0.5 | 36% | 23% | 30% | 4.00 | +20% |
-| Goles del local: Menos de 1.5 | 73% | 56% | 64% | 1.67 | +8% |
-| Goles del visitante: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del visitante: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del visitante: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| 1X2: 2 ✅ | 39% | 28% | 34% | 3.30 | +11% |
+| 1X2: X | 29% | 29% | 29% | 3.25 | -5% |
+| 1X2: 1 | 32% | 43% | 37% | 2.20 | -18% |
+| Doble oportunidad: X2 | 68% | 57% | 63% | 1.67 | +5% |
+| Doble oportunidad: 12 | 71% | 72% | 71% | 1.33 | -5% |
+| Doble oportunidad: 1X | 61% | 72% | 66% | 1.33 | -12% |
+| Ambos marcan: No | 57% | 47% | 52% | 2.00 | +3% |
+| Ambos marcan: Sí | 43% | 53% | 48% | 1.75 | -15% |
+| Goles más/menos: Más de 1.5 | 63% | 73% | 68% | 1.30 | -11% |
+| Goles más/menos: Más de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
+| Goles más/menos: Más de 3.5 | 17% | 28% | 23% | 3.40 | -23% |
+| Goles más/menos: Menos de 1.5 ✅ | 37% | 27% | 32% | 3.50 | +11% |
+| Goles más/menos: Menos de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
+| Goles más/menos: Menos de 3.5 | 83% | 72% | 77% | 1.33 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -1% |
+| Goles del local: Más de 0.5 | 63% | 77% | 70% | 1.22 | -15% |
+| Goles del local: Más de 1.5 | 27% | 44% | 35% | 2.10 | -26% |
+| Goles del local: Menos de 0.5 | 37% | 23% | 30% | 4.00 | +20% |
+| Goles del local: Menos de 1.5 | 73% | 56% | 65% | 1.67 | +8% |
+| Goles del visitante: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
+| Goles del visitante: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
+| Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: 2 | 27% | 25% | 26% | 3.75 | -3% |
-| 1X2 descanso: X | 49% | 42% | 45% | 2.20 | -1% |
+| 1X2 descanso: 2 | 28% | 25% | 26% | 3.75 | -1% |
+| 1X2 descanso: X | 48% | 42% | 45% | 2.20 | -1% |
 | 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

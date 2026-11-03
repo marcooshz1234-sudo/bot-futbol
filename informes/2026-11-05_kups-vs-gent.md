@@ -1,10 +1,10 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 14:13_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **5.00**  ·  X **3.75**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.17**
@@ -188,7 +188,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 54% | 56% | 55% | 1.65 | -9% |
 | 1X2: X | 31% | 25% | 28% | 3.75 | +5% |
-| 1X2: 1 | 14% | 19% | 17% | 5.00 | -17% |
+| 1X2: 1 | 14% | 19% | 16% | 5.00 | -18% |
 | Doble oportunidad: X2 | 86% | 81% | 83% | 1.17 | -2% |
 | Doble oportunidad: 12 | 69% | 76% | 72% | 1.25 | -10% |
 | Doble oportunidad: 1X | 46% | 43% | 44% | 2.20 | -2% |
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 34% | 25% | 2.75 | -31% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 49% | 31% | 40% | 3.00 | +20% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 66% | 75% | 1.40 | +5% |
-| Goles del local: Más de 0.5 | 37% | 58% | 47% | 1.62 | -23% |
+| Goles del local: Más de 0.5 | 37% | 58% | 47% | 1.62 | -24% |
 | Goles del local: Más de 1.5 | 8% | 23% | 16% | 4.00 | -38% |
 | Goles del local: Menos de 0.5 | 63% | 42% | 53% | 2.20 | +16% |
 | Goles del local: Menos de 1.5 | 92% | 77% | 84% | 1.22 | +3% |

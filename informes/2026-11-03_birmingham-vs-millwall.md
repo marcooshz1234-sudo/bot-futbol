@@ -1,16 +1,16 @@
 # Birmingham – Millwall
 **Championship** · Regular Season - 14 · 03/11/2026 21:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 20:00_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **1.91**  ·  X **3.60**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**
@@ -52,6 +52,10 @@ _Actualizadas: 02/11 20:00_
 - **Away Corners Over/Under:**
     - 4,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Home Team Total Cards:**
+    - 1,5: más **1.80** · menos **1.91**
+- **Away Team Total Cards:**
+    - 1,5: más **1.57** · menos **2.25**
 - **Total ShotOnGoal:**
     - 8,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.50**  ·  X **7.50**  ·  2 **3.25**
@@ -208,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 25% | 27% | 3.75 | +2% |
+| 1X2: 2 | 30% | 25% | 27% | 3.75 | +3% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
 | 1X2: 1 | 46% | 49% | 48% | 1.91 | -9% |
 | Doble oportunidad: X2 | 54% | 51% | 53% | 1.83 | -4% |
@@ -216,10 +220,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 70% | 75% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 1.5 | 79% | 76% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 1.5 | 79% | 76% | 77% | 1.25 | -3% |
 | Goles más/menos: Más de 2.5 | 56% | 53% | 54% | 1.80 | -2% |
 | Goles más/menos: Más de 3.5 | 33% | 32% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 1.5 | 21% | 24% | 22% | 4.00 | -10% |
+| Goles más/menos: Menos de 1.5 | 21% | 24% | 23% | 4.00 | -10% |
 | Goles más/menos: Menos de 2.5 | 44% | 47% | 46% | 2.00 | -8% |
 | Goles más/menos: Menos de 3.5 | 67% | 68% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
@@ -239,7 +243,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 10.5 | 42% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Menos de 10.5 | 58% | 54% | 56% | 1.73 | -3% |
 | 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
-| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -7% |
 | 1X2 descanso: 1 | 35% | 37% | 36% | 2.50 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,93 · visitante 1,30 · córners esperados 8,7._
+_Goles esperados: local 1,92 · visitante 1,30 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -198,21 +198,21 @@ _Goles esperados: local 1,93 · visitante 1,30 · córners esperados 8,7._
 | Doble oportunidad: X2 | 48% | 53% | 51% | 1.80 | -9% |
 | Doble oportunidad: 12 | 78% | 75% | 76% | 1.28 | -2% |
 | Doble oportunidad: 1X | 74% | 72% | 73% | 1.33 | -3% |
-| Ambos marcan: No | 38% | 39% | 38% | 2.38 | -8% |
-| Ambos marcan: Sí | 62% | 61% | 62% | 1.53 | -6% |
-| Goles más/menos: Más de 2.5 | 63% | 60% | 61% | 1.57 | -4% |
+| Ambos marcan: No | 38% | 39% | 39% | 2.38 | -8% |
+| Ambos marcan: Sí | 62% | 61% | 61% | 1.53 | -6% |
+| Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
 | Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -2% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 37% | 40% | 39% | 2.38 | -8% |
+| Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -8% |
 | Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
-| Goles del local: Más de 1.5 | 57% | 54% | 56% | 1.73 | -4% |
-| Goles del local: Más de 2.5 | 30% | 28% | 29% | 3.40 | -1% |
-| Goles del local: Menos de 1.5 | 43% | 46% | 44% | 2.00 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
+| Goles del local: Más de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
+| Goles del local: Más de 2.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles del local: Menos de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
 | Goles del local: Menos de 2.5 | 70% | 72% | 71% | 1.30 | -8% |
 | Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
 | Goles del visitante: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |

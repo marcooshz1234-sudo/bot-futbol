@@ -1,10 +1,10 @@
 # Preston – Sheffield Utd
 **Championship** · Regular Season - 14 · 03/11/2026 20:45 (hora España) · Deepdale Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 19:59_
+_Actualizadas: 03/11 02:07_
 
 - **1X2:** 1 **3.40**  ·  X **3.40**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.30**  ·  X2 **1.30**
@@ -20,8 +20,17 @@ _Actualizadas: 02/11 19:59_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **1.91**
+    - 10,5: más **1.80** · menos **2.00**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.30**  ·  2 **2.75**
@@ -201,12 +210,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 51% | 45% | 48% | 2.10 | +0% |
 | 1X2: X | 26% | 28% | 27% | 3.40 | -10% |
 | 1X2: 1 | 24% | 28% | 26% | 3.40 | -12% |
-| Doble oportunidad: X2 | 76% | 72% | 74% | 1.30 | -4% |
+| Doble oportunidad: X2 | 76% | 72% | 74% | 1.30 | -3% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 49% | 55% | 52% | 1.70 | -11% |
 | Ambos marcan: No | 51% | 42% | 47% | 2.20 | +3% |
 | Ambos marcan: Sí | 49% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -7% |
+| Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -8% |
 | Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -11% |
 | Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +4% |
@@ -216,8 +225,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Córners más/menos: Más de 10.5 | 40% | 51% | 46% | 1.80 | -18% |
-| Córners más/menos: Menos de 10.5 | 60% | 49% | 54% | 1.91 | +4% |
+| Goles del local: Más de 0.5 | 62% | 71% | 67% | 1.33 | -11% |
+| Goles del local: Más de 1.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles del local: Menos de 0.5 | 38% | 29% | 33% | 3.25 | +8% |
+| Goles del local: Menos de 1.5 | 74% | 65% | 69% | 1.44 | +0% |
+| Goles del visitante: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
+| Goles del visitante: Más de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Goles del visitante: Más de 2.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del visitante: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -7% |
+| Goles del visitante: Menos de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
+| Goles del visitante: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -5% |
+| Córners más/menos: Más de 10.5 | 40% | 53% | 46% | 1.80 | -17% |
+| Córners más/menos: Menos de 10.5 | 60% | 47% | 54% | 2.00 | +8% |
 | 1X2 descanso: 2 | 36% | 34% | 35% | 2.75 | -3% |
 | 1X2 descanso: X | 44% | 41% | 42% | 2.30 | -3% |
 | 1X2 descanso: 1 | 20% | 25% | 23% | 3.75 | -15% |

@@ -1,10 +1,61 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 03/11 02:08_
+
+- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
+- **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.62** · menos **2.30**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 11: más **1.85** · menos **1.95**
+    - 11,5: más **2.00** · menos **1.73**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.33**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.25**
+- **Win Both Halves:** 1 **19.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.00**  ·  Home/No **11.00**  ·  Draw/No **15.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Away Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.80**  ·  Menos de 5 **2.00**
+- **Home Player Shots On Target Total:** Mathias Jorgensen - 2 **6.00**  ·  Mathias Jorgensen - 3 **21.00**  ·  Andri Gudjohnsen - 1 **1.44**  ·  Ryoya Morishita - 1 **1.83**  ·  Todd Cantwell - 1 **1.83**  ·  Augustus Kargbo - 1 **1.73**  ·  Oladapo Afolayan - 1 **1.73**  ·  Mathias Jorgensen - 1 **1.83**  ·  Moussa Baradji - 1 **3.00**  ·  Jayden Fevrier - 1 **1.83**  ·  Kristi Montgomery - 1 **3.25**  ·  Sean McLoughlin - 1 **6.00**  ·  Dion De Neve - 1 **3.25**  ·  Jake Garrett - 1 **3.40**  ·  Sam Morsy - 1 **3.00**  ·  Tom Atcheson - 1 **6.00**  ·  Adam Forshaw - 1 **3.75**  ·  Hayden Carter - 1 **6.00**  ·  Harry Pickering - 1 **6.00**  ·  Yuri Ribeiro - 1 **6.00**  ·  Ryan Alebiosu - 1 **3.50**  ·  Andri Gudjohnsen - 2 **3.25**  ·  Ryoya Morishita - 2 **5.50**  ·  Todd Cantwell - 2 **6.00**  ·  Augustus Kargbo - 2 **4.50**  ·  Oladapo Afolayan - 2 **4.50**  ·  Moussa Baradji - 2 **15.00**  ·  Jayden Fevrier - 2 **5.50**  ·  Kristi Montgomery - 2 **17.00**  ·  Dion De Neve - 2 **17.00**  ·  Jake Garrett - 2 **17.00**  ·  Sam Morsy - 2 **13.00**  ·  Adam Forshaw - 2 **21.00**  ·  Ryan Alebiosu - 2 **19.00**  ·  Andri Gudjohnsen - 3 **9.00**  ·  Ryoya Morishita - 3 **19.00**  ·  Todd Cantwell - 3 **21.00**  ·  Augustus Kargbo - 3 **15.00**  ·  Oladapo Afolayan - 3 **15.00**  ·  Jayden Fevrier - 3 **19.00**  ·  Andri Gudjohnsen - 4 **21.00**  ·  Gady Beyuku - 1 **3.75**  ·  Gady Beyuku - 2 **21.00**
+- **Away Player Shots On Target Total:** Taty Castellanos **6.50**  ·  Kristi Montgomery **34.00**  ·  Arne Engels **41.00**  ·  Manor Solomon **29.00**  ·  Andri Gudjohnsen **13.00**  ·  Tomas Soucek **7.50**  ·  Jayden Fevrier **81.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **15.00**  ·  Augustus Kargbo **34.00**  ·  Yuki Ohashi **23.00**  ·  Mohamadou Kante **13.00**  ·  Airidas Golambeckis **10.00**  ·  Scott Wharton **19.00**  ·  Divine Mukasa **34.00**  ·  Joel Piroe **21.00**  ·  Todd Cantwell **29.00**  ·  Harry Pickering **51.00**  ·  Hayden Carter **26.00**  ·  Adam Forshaw **101.00**  ·  Soungoutou Magassa **41.00**  ·  Sean McLoughlin **26.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **81.00**  ·  Max Kilman **15.00**  ·  Joel Veltman **21.00**  ·  Edvin Austbo **17.00**  ·  Joshua Ajala **12.00**  ·  Ryoya Morishita **34.00**  ·  Kyle Walker-Peters **81.00**  ·  Yuri Ribeiro **126.00**  ·  Jarrod Bowen **11.00**  ·  Konstantinos Mavropanos **5.50**  ·  Pablo Felipe **12.00**  ·  Felipe Morato **17.00**  ·  Oliver Scarles **21.00**  ·  Adama Boiro **67.00**  ·  Oladapo Afolayan **19.00**  ·  Sam Morsy **67.00**  ·  Lewis Orford **26.00**  ·  Ezra Mayers **17.00**
+- **Home Player Shots:** Mathias Jorgensen - 2 **1.67**  ·  Mathias Jorgensen - 3 **3.00**  ·  Mathias Jorgensen - 4 **6.00**  ·  Mathias Jorgensen - 5 **13.00**  ·  Andri Gudjohnsen - 1 **1.06**  ·  Ryoya Morishita - 1 **1.14**  ·  Todd Cantwell - 1 **1.17**  ·  Augustus Kargbo - 1 **1.11**  ·  Oladapo Afolayan - 1 **1.11**  ·  Mathias Jorgensen - 1 **1.17**  ·  Moussa Baradji - 1 **1.36**  ·  Jayden Fevrier - 1 **1.14**  ·  Kristi Montgomery - 1 **1.57**  ·  Sean McLoughlin - 1 **2.25**  ·  Dion De Neve - 1 **1.57**  ·  Jake Garrett - 1 **1.62**  ·  Sam Morsy - 1 **1.44**  ·  Tom Atcheson - 1 **2.62**  ·  Adam Forshaw - 1 **1.83**  ·  Hayden Carter - 1 **2.25**  ·  Harry Pickering - 1 **2.25**  ·  Yuri Ribeiro - 1 **2.25**  ·  Ryan Alebiosu - 1 **1.62**  ·  Andri Gudjohnsen - 2 **1.33**  ·  Ryoya Morishita - 2 **1.62**  ·  Todd Cantwell - 2 **1.67**  ·  Augustus Kargbo - 2 **1.53**  ·  Oladapo Afolayan - 2 **1.53**  ·  Moussa Baradji - 2 **2.62**  ·  Jayden Fevrier - 2 **1.62**  ·  Kristi Montgomery - 2 **3.50**  ·  Sean McLoughlin - 2 **8.00**  ·  Dion De Neve - 2 **3.50**  ·  Jake Garrett - 2 **3.75**  ·  Sam Morsy - 2 **3.00**  ·  Tom Atcheson - 2 **9.00**  ·  Adam Forshaw - 2 **5.00**  ·  Hayden Carter - 2 **8.00**  ·  Harry Pickering - 2 **8.00**  ·  Yuri Ribeiro - 2 **8.00**  ·  Ryan Alebiosu - 2 **3.75**  ·  Andri Gudjohnsen - 3 **1.91**  ·  Ryoya Morishita - 3 **2.75**  ·  Todd Cantwell - 3 **3.00**  ·  Augustus Kargbo - 3 **2.50**  ·  Oladapo Afolayan - 3 **2.50**  ·  Moussa Baradji - 3 **6.00**  ·  Jayden Fevrier - 3 **2.75**  ·  Kristi Montgomery - 3 **10.00**  ·  Sean McLoughlin - 3 **21.00**  ·  Dion De Neve - 3 **10.00**  ·  Jake Garrett - 3 **11.00**  ·  Sam Morsy - 3 **7.00**  ·  Tom Atcheson - 3 **21.00**  ·  Adam Forshaw - 3 **15.00**  ·  Hayden Carter - 3 **21.00**  ·  Harry Pickering - 3 **21.00**  ·  Yuri Ribeiro - 3 **21.00**  ·  Ryan Alebiosu - 3 **10.00**  ·  Andri Gudjohnsen - 4 **3.40**  ·  Ryoya Morishita - 4 **5.50**  ·  Todd Cantwell - 4 **6.00**  ·  Augustus Kargbo - 4 **4.50**  ·  Oladapo Afolayan - 4 **4.50**  ·  Moussa Baradji - 4 **15.00**  ·  Jayden Fevrier - 4 **5.50**  ·  Kristi Montgomery - 4 **21.00**  ·  Dion De Neve - 4 **21.00**  ·  Jake Garrett - 4 **21.00**  ·  Sam Morsy - 4 **19.00**  ·  Andri Gudjohnsen - 5 **6.00**  ·  Ryoya Morishita - 5 **13.00**  ·  Todd Cantwell - 5 **13.00**  ·  Augustus Kargbo - 5 **10.00**  ·  Oladapo Afolayan - 5 **10.00**  ·  Jayden Fevrier - 5 **13.00**  ·  Andri Gudjohnsen - 6 **13.00**  ·  Ryoya Morishita - 6 **21.00**  ·  Todd Cantwell - 6 **21.00**  ·  Augustus Kargbo - 6 **21.00**  ·  Oladapo Afolayan - 6 **21.00**  ·  Mathias Jorgensen - 6 **21.00**  ·  Andri Gudjohnsen - 7 **21.00**  ·  Gady Beyuku - 1 **1.83**  ·  Gady Beyuku - 2 **5.00**  ·  Gady Beyuku - 3 **15.00**  ·  Jayden Fevrier - 6 **21.00**  ·  Ryan Alebiosu - 4 **21.00**
+- **Away Player Shots:** Felipe Morato - 1 **1.73**  ·  Felipe Morato - 2 **4.33**  ·  Felipe Morato - 3 **13.00**  ·  Jarrod Bowen - 1 **1.01**  ·  Joel Piroe - 1 **1.02**  ·  Taty Castellanos - 1 **1.03**  ·  Joshua Ajala - 1 **1.03**  ·  Pablo Felipe - 1 **1.04**  ·  Manor Solomon - 1 **1.11**  ·  Arne Engels - 1 **1.17**  ·  Divine Mukasa - 1 **1.11**  ·  Lewis Orford - 1 **1.17**  ·  Mohamadou Kante - 1 **1.08**  ·  Soungoutou Magassa - 1 **1.57**  ·  Airidas Golambeckis - 1 **1.57**  ·  Konstantinos Mavropanos - 1 **1.11**  ·  Kyle Walker-Peters - 1 **1.73**  ·  Oliver Scarles - 1 **1.57**  ·  Max Kilman - 1 **1.73**  ·  Joel Veltman - 1 **1.83**  ·  Jarrod Bowen - 2 **1.08**  ·  Joel Piroe - 2 **1.14**  ·  Taty Castellanos - 2 **1.20**  ·  Joshua Ajala - 2 **1.20**  ·  Pablo Felipe - 2 **1.22**  ·  Manor Solomon - 2 **1.53**  ·  Arne Engels - 2 **1.67**  ·  Divine Mukasa - 2 **1.53**  ·  Lewis Orford - 2 **1.67**  ·  Mohamadou Kante - 2 **1.40**  ·  Soungoutou Magassa - 2 **3.50**  ·  Airidas Golambeckis - 2 **3.50**  ·  Konstantinos Mavropanos - 2 **1.53**  ·  Kyle Walker-Peters - 2 **4.33**  ·  Oliver Scarles - 2 **3.50**  ·  Max Kilman - 2 **4.33**  ·  Joel Veltman - 2 **5.00**  ·  Jarrod Bowen - 3 **1.30**  ·  Joel Piroe - 3 **1.44**  ·  Taty Castellanos - 3 **1.62**  ·  Joshua Ajala - 3 **1.62**  ·  Pablo Felipe - 3 **1.67**  ·  Manor Solomon - 3 **2.50**  ·  Arne Engels - 3 **3.00**  ·  Divine Mukasa - 3 **2.50**  ·  Lewis Orford - 3 **3.00**  ·  Mohamadou Kante - 3 **2.20**  ·  Soungoutou Magassa - 3 **10.00**  ·  Airidas Golambeckis - 3 **10.00**  ·  Konstantinos Mavropanos - 3 **2.50**  ·  Kyle Walker-Peters - 3 **13.00**  ·  Oliver Scarles - 3 **10.00**  ·  Max Kilman - 3 **13.00**  ·  Joel Veltman - 3 **15.00**  ·  Jarrod Bowen - 4 **1.73**  ·  Joel Piroe - 4 **2.00**  ·  Taty Castellanos - 4 **2.38**  ·  Joshua Ajala - 4 **2.38**  ·  Pablo Felipe - 4 **2.62**  ·  Manor Solomon - 4 **4.50**  ·  Arne Engels - 4 **6.00**  ·  Divine Mukasa - 4 **4.50**  ·  Lewis Orford - 4 **6.00**  ·  Mohamadou Kante - 4 **3.75**  ·  Soungoutou Magassa - 4 **21.00**  ·  Jarrod Bowen - 5 **2.50**  ·  Joel Piroe - 5 **3.40**  ·  Taty Castellanos - 5 **4.00**  ·  Joshua Ajala - 5 **4.00**  ·  Pablo Felipe - 5 **4.50**  ·  Manor Solomon - 5 **10.00**  ·  Arne Engels - 5 **13.00**  ·  Divine Mukasa - 5 **10.00**  ·  Lewis Orford - 5 **13.00**  ·  Mohamadou Kante - 5 **8.00**  ·  Jarrod Bowen - 6 **4.00**  ·  Joel Piroe - 6 **5.50**  ·  Taty Castellanos - 6 **8.00**  ·  Joshua Ajala - 6 **8.00**  ·  Pablo Felipe - 6 **9.00**  ·  Manor Solomon - 6 **21.00**  ·  Arne Engels - 6 **21.00**  ·  Divine Mukasa - 6 **21.00**  ·  Jarrod Bowen - 7 **7.00**  ·  Joel Piroe - 7 **11.00**  ·  Taty Castellanos - 7 **15.00**  ·  Joshua Ajala - 7 **15.00**  ·  Pablo Felipe - 7 **17.00**  ·  Jarrod Bowen - 8 **13.00**  ·  Joel Piroe - 8 **19.00**  ·  Taty Castellanos - 8 **21.00**  ·  Joshua Ajala - 8 **21.00**  ·  Jarrod Bowen - 9 **21.00**  ·  Adama Boiro - 1 **1.57**  ·  Adama Boiro - 2 **3.50**  ·  Adama Boiro - 3 **10.00**  ·  Lewis Orford - 6 **21.00**  ·  Mohamadou Kante - 6 **15.00**  ·  Airidas Golambeckis - 4 **21.00**  ·  Konstantinos Mavropanos - 4 **4.50**  ·  Oliver Scarles - 4 **21.00**  ·  Adama Boiro - 4 **21.00**  ·  Edvin Austbo - 1 **1.06**  ·  Edvin Austbo - 2 **1.30**  ·  Edvin Austbo - 3 **1.83**  ·  Edvin Austbo - 4 **3.00**  ·  Edvin Austbo - 5 **5.50**  ·  Edvin Austbo - 6 **11.00**  ·  Edvin Austbo - 7 **21.00**  ·  Konstantinos Mavropanos - 5 **10.00**  ·  Tomas Soucek - 1 **1.08**  ·  Tomas Soucek - 2 **1.40**  ·  Tomas Soucek - 3 **2.20**  ·  Tomas Soucek - 4 **3.75**  ·  Tomas Soucek - 5 **8.00**  ·  Tomas Soucek - 6 **15.00**  ·  Konstantinos Mavropanos - 6 **21.00**
+- **Anytime Goal Scorer:** Taty Castellanos **2.50**  ·  Kristi Montgomery **8.00**  ·  Arne Engels **4.50**  ·  Manor Solomon **4.00**  ·  Andri Gudjohnsen **3.25**  ·  Tomas Soucek **4.00**  ·  Jayden Fevrier **4.33**  ·  Jake Garrett **8.50**  ·  Mathias Jorgensen **4.50**  ·  Augustus Kargbo **4.00**  ·  Yuki Ohashi **4.00**  ·  Mohamadou Kante **3.60**  ·  Airidas Golambeckis **8.00**  ·  Scott Wharton **13.00**  ·  Divine Mukasa **4.00**  ·  Moussa Baradji **8.00**  ·  Joel Piroe **2.30**  ·  Todd Cantwell **4.50**  ·  Harry Pickering **13.00**  ·  Hayden Carter **13.00**  ·  Adam Forshaw **11.00**  ·  Soungoutou Magassa **8.00**  ·  Sean McLoughlin **13.00**  ·  Dion De Neve **8.00**  ·  Ryan Alebiosu **9.50**  ·  Max Kilman **9.50**  ·  Gady Beyuku **11.00**  ·  Joel Veltman **11.00**  ·  Edvin Austbo **3.10**  ·  Joshua Ajala **2.50**  ·  Ryoya Morishita **4.33**  ·  Harvey Pates **11.00**  ·  Kyle Walker-Peters **9.50**  ·  Yuri Ribeiro **13.00**  ·  Jarrod Bowen **2.20**  ·  Konstantinos Mavropanos **4.00**  ·  Pablo Felipe **2.75**  ·  Felipe Morato **9.50**  ·  Oliver Scarles **8.00**  ·  Adama Boiro **8.00**  ·  Oladapo Afolayan **4.00**  ·  Sam Morsy **7.00**  ·  Lewis Orford **4.50**  ·  Ezra Mayers **8.00**  ·  Isaac Dunn **7.00**  ·  Tom Atcheson **17.00**
+- **Player to Score or Assist:** Taty Castellanos **1.83**  ·  Kristi Montgomery **4.75**  ·  Arne Engels **2.40**  ·  Manor Solomon **2.10**  ·  Andri Gudjohnsen **2.75**  ·  Tomas Soucek **2.62**  ·  Jayden Fevrier **2.75**  ·  Jake Garrett **5.00**  ·  Mathias Jorgensen **3.10**  ·  Augustus Kargbo **2.75**  ·  Yuki Ohashi **3.00**  ·  Mohamadou Kante **2.40**  ·  Airidas Golambeckis **5.50**  ·  Scott Wharton **10.00**  ·  Divine Mukasa **2.30**  ·  Moussa Baradji **4.33**  ·  Joel Piroe **1.91**  ·  Todd Cantwell **2.75**  ·  Harry Pickering **6.50**  ·  Hayden Carter **9.50**  ·  Adam Forshaw **6.00**  ·  Soungoutou Magassa **3.75**  ·  Sean McLoughlin **10.00**  ·  Dion De Neve **4.00**  ·  Ryan Alebiosu **5.00**  ·  Max Kilman **6.50**  ·  Gady Beyuku **5.50**  ·  Joel Veltman **4.33**  ·  Edvin Austbo **2.00**  ·  Joshua Ajala **1.95**  ·  Ryoya Morishita **2.62**  ·  Harvey Pates **4.75**  ·  Kyle Walker-Peters **4.00**  ·  Yuri Ribeiro **6.50**  ·  Jarrod Bowen **1.57**  ·  Konstantinos Mavropanos **3.40**  ·  Pablo Felipe **1.91**  ·  Felipe Morato **5.00**  ·  Oliver Scarles **3.40**  ·  Adama Boiro **4.33**  ·  Oladapo Afolayan **2.62**  ·  Sam Morsy **4.00**  ·  Lewis Orford **2.50**  ·  Ezra Mayers **4.50**  ·  Isaac Dunn **4.33**  ·  Tom Atcheson **9.00**
 
 ## Estadísticas de equipo
 | | Blackburn (total) | Blackburn en casa | West Ham (total) | West Ham fuera |
@@ -139,4 +190,39 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,36 · visitante 2,52 · córners esperados 10,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 63% | 58% | 60% | 1.60 | -3% |
+| 1X2: X | 18% | 23% | 21% | 4.00 | -17% |
+| 1X2: 1 | 19% | 19% | 19% | 5.00 | -6% |
+| Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -5% |
+| Doble oportunidad: 12 | 82% | 78% | 80% | 1.22 | -3% |
+| Doble oportunidad: 1X | 37% | 41% | 39% | 2.30 | -10% |
+| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -18% |
+| Ambos marcan: Sí | 68% | 58% | 63% | 1.62 | +2% |
+| Goles más/menos: Más de 2.5 | 74% | 59% | 67% | 1.62 | +8% |
+| Goles más/menos: Más de 3.5 | 54% | 40% | 47% | 2.38 | +12% |
+| Goles más/menos: Más de 4.5 | 35% | 22% | 28% | 4.33 | +23% |
+| Goles más/menos: Menos de 2.5 | 26% | 41% | 33% | 2.30 | -23% |
+| Goles más/menos: Menos de 3.5 | 46% | 60% | 53% | 1.57 | -17% |
+| Goles más/menos: Menos de 4.5 | 65% | 78% | 72% | 1.22 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
+| Goles del local: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
+| Goles del local: Más de 1.5 | 39% | 29% | 34% | 3.25 | +11% |
+| Goles del local: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles del local: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles del visitante: Más de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
+| Goles del visitante: Más de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Menos de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
+| Goles del visitante: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Córners más/menos: Más de 11.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Córners más/menos: Menos de 11.5 | 63% | 54% | 58% | 1.73 | +1% |
+| 1X2 descanso: 2 | 48% | 44% | 46% | 2.10 | -3% |
+| 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Venezia – Udinese
 **Serie A** · Regular Season - 11 · 06/11/2026 20:45 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 08:31_
@@ -181,14 +181,14 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Vakoun Issouf Bayo | F | 5 | 182 | 2 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 2 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 1,34 · córners esperados 9,6._
+_Goles esperados: local 1,67 · visitante 1,34 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 31% | 30% | 30% | 3.10 | -6% |
 | 1X2: X | 24% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 46% | 43% | 44% | 2.15 | -4% |
-| Doble oportunidad: X2 | 54% | 57% | 56% | 1.67 | -7% |
+| 1X2: 1 | 45% | 43% | 44% | 2.15 | -5% |
+| Doble oportunidad: X2 | 55% | 57% | 56% | 1.67 | -7% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 69% | 70% | 69% | 1.36 | -6% |
 | Ambos marcan: No | 40% | 42% | 41% | 2.20 | -9% |
@@ -197,18 +197,18 @@ _Goles esperados: local 1,68 · visitante 1,34 · córners esperados 9,6._
 | Goles más/menos: Más de 2.5 | 58% | 55% | 56% | 1.73 | -2% |
 | Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -10% |
-| Goles más/menos: Menos de 2.5 | 42% | 45% | 44% | 2.10 | -9% |
+| Goles más/menos: Menos de 2.5 | 42% | 45% | 44% | 2.10 | -8% |
 | Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.44 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
 | Goles del local: Más de 0.5 | 81% | 78% | 80% | 1.20 | -4% |
 | Goles del local: Más de 1.5 | 50% | 49% | 49% | 1.91 | -6% |
-| Goles del local: Más de 2.5 | 24% | 23% | 24% | 4.00 | -6% |
-| Goles del local: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -13% |
+| Goles del local: Más de 2.5 | 24% | 23% | 23% | 4.00 | -6% |
+| Goles del local: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -12% |
 | Goles del local: Menos de 1.5 | 50% | 51% | 51% | 1.80 | -9% |
-| Goles del local: Menos de 2.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Goles del local: Menos de 2.5 | 76% | 77% | 77% | 1.22 | -7% |
 | Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles del visitante: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
 | Goles del visitante: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |

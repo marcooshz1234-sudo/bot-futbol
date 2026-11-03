@@ -1,7 +1,7 @@
 # Leganes – Albacete
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Leganes (total) | Leganes en casa | Albacete (total) | Albacete fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | EDDDD | EDDVV | VVDDD | DDDED |
-| Balance | 3V 3E 5D | 2V 1E 2D | 2V 1E 9D | 0V 1E 5D |
-| Goles a favor / partido | 0,64 | 1,00 | 0,83 | 0,50 |
-| Goles en contra / partido | 1,45 | 1,20 | 1,92 | 2,33 |
-| Goles a favor 1ª parte | 0,27 | 0,40 | 0,50 | 0,00 |
-| Goles a favor 2ª parte | 0,36 | 0,60 | 0,33 | 0,50 |
-| Goles en contra 1ª parte | 0,45 | 0,60 | 0,92 | 1,33 |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | DEDDD | EDDVV | VVDDD | DDDED |
+| Balance | 3V 3E 6D | 2V 1E 2D | 2V 1E 9D | 0V 1E 5D |
+| Goles a favor / partido | 0,83 | 1,00 | 0,83 | 0,50 |
+| Goles en contra / partido | 1,67 | 1,20 | 1,92 | 2,33 |
+| Goles a favor 1ª parte | 0,33 | 0,40 | 0,50 | 0,00 |
+| Goles a favor 2ª parte | 0,50 | 0,60 | 0,33 | 0,50 |
+| Goles en contra 1ª parte | 0,67 | 0,60 | 0,92 | 1,33 |
 | Goles en contra 2ª parte | 1,00 | 0,60 | 1,00 | 1,00 |
-| Más de 1,5 goles | 64% | 60% | 92% | 100% |
-| Más de 2,5 goles | 27% | 20% | 58% | 50% |
-| Más de 3,5 goles | 18% | 20% | 17% | 17% |
-| Ambos marcan | 27% | 40% | 58% | 50% |
-| Portería a cero | 27% | 20% | 8% | 0% |
-| Se queda sin marcar | 55% | 40% | 33% | 50% |
-| xG a favor | 1,21 | 2,13 | 1,17 | 0,98 |
-| xG en contra | 1,57 | 0,99 | 1,73 | 2,06 |
-| Tiros / partido | 10,7 | 13,8 | 12,2 | 10,2 |
-| Tiros a puerta / partido | 3,4 | 5,2 | 3,7 | 3,3 |
-| Tiros recibidos | 17,9 | 17,8 | 14,5 | 16,2 |
-| Tiros a puerta recibidos | 5,3 | 4,8 | 4,8 | 4,8 |
-| Posesión media % | 45 | 47 | 46 | 42 |
+| Más de 1,5 goles | 67% | 60% | 92% | 100% |
+| Más de 2,5 goles | 33% | 20% | 58% | 50% |
+| Más de 3,5 goles | 25% | 20% | 17% | 17% |
+| Ambos marcan | 33% | 40% | 58% | 50% |
+| Portería a cero | 25% | 20% | 8% | 0% |
+| Se queda sin marcar | 50% | 40% | 33% | 50% |
+| xG a favor | 1,34 | 2,13 | 1,17 | 0,98 |
+| xG en contra | 1,74 | 0,99 | 1,73 | 2,06 |
+| Tiros / partido | 11,6 | 13,8 | 12,2 | 10,2 |
+| Tiros a puerta / partido | 3,9 | 5,2 | 3,7 | 3,3 |
+| Tiros recibidos | 17,8 | 17,8 | 14,5 | 16,2 |
+| Tiros a puerta recibidos | 5,7 | 4,8 | 4,8 | 4,8 |
+| Posesión media % | 46 | 47 | 46 | 42 |
 | Córners a favor | 3,5 | 4,2 | 5,8 | 4,8 |
 | Córners en contra | 5,8 | 5,4 | 4,2 | 4,5 |
-| Córners a favor 1ª parte | 2,2 | 3,2 | 3,0 | 2,3 |
-| Córners a favor 2ª parte | 1,3 | 1,0 | 2,8 | 2,5 |
+| Córners a favor 1ª parte | 2,1 | 3,2 | 3,0 | 2,3 |
+| Córners a favor 2ª parte | 1,4 | 1,0 | 2,8 | 2,5 |
 | Córners totales del partido | 9,3 | 9,6 | 10,0 | 9,3 |
-| Córners totales 1ª parte | 4,2 | 5,2 | 4,8 | 4,5 |
-| Córners totales 2ª parte | 5,1 | 4,4 | 5,2 | 4,8 |
-| Más de 8,5 córners | 64% | 60% | 67% | 67% |
-| Más de 9,5 córners | 45% | 60% | 50% | 33% |
-| Más de 10,5 córners | 36% | 40% | 42% | 17% |
-| Faltas cometidas | 16,1 | 15,4 | 12,8 | 14,8 |
+| Córners totales 1ª parte | 4,1 | 5,2 | 4,8 | 4,5 |
+| Córners totales 2ª parte | 5,2 | 4,4 | 5,2 | 4,8 |
+| Más de 8,5 córners | 67% | 60% | 67% | 67% |
+| Más de 9,5 córners | 50% | 60% | 50% | 33% |
+| Más de 10,5 córners | 33% | 40% | 42% | 17% |
+| Faltas cometidas | 15,7 | 15,4 | 12,8 | 14,8 |
 | Faltas recibidas | 12,3 | 12,2 | 12,2 | 10,0 |
-| Amarillas propias | 3,0 | 3,6 | 2,3 | 2,5 |
-| Amarillas del rival | 2,3 | 2,2 | 2,2 | 1,3 |
-| Rojas / partido | 0,18 | 0,20 | 0,17 | 0,17 |
+| Amarillas propias | 3,2 | 3,6 | 2,3 | 2,5 |
+| Amarillas del rival | 2,2 | 2,2 | 2,2 | 1,3 |
+| Rojas / partido | 0,17 | 0,20 | 0,17 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Leganes | Recibe Leganes | Tarjetas Leganes | Goles Albacete | Recibe Albacete | Tarjetas Albacete |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 3 | 3 | 3 | 0 |
-| 16-30' | 1 | 3 | 6 | 1 | 3 | 5 |
-| 31-45' | 0 | 1 | 3 | 2 | 5 | 4 |
-| 46-60' | 2 | 5 | 2 | 0 | 5 | 6 |
-| 61-75' | 0 | 3 | 8 | 0 | 3 | 8 |
-| 76-90' | 2 | 3 | 13 | 4 | 4 | 7 |
+| 1-15' | 2 | 2 | 3 | 3 | 3 | 0 |
+| 16-30' | 2 | 5 | 6 | 1 | 3 | 5 |
+| 31-45' | 0 | 1 | 4 | 2 | 5 | 4 |
+| 46-60' | 2 | 6 | 4 | 0 | 5 | 6 |
+| 61-75' | 1 | 3 | 9 | 0 | 3 | 8 |
+| 76-90' | 3 | 3 | 14 | 4 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leganes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Segunda División | Valladolid 4-3 Leganes | fuera | 4-6 | 21 (10) - 17 (10) | 5-1 |
 | 2026-10-24 | Segunda División | Leganes 1-1 Mallorca | casa | 7-4 | 13 (4) - 10 (3) | 5-4 |
 | 2026-10-16 | Segunda División | Leganes 0-1 Cordoba | casa | 4-7 | 9 (2) - 20 (3) | 4-2 |
 | 2026-10-11 | Segunda División | Almeria 3-0 Leganes | fuera | 3-8 | 7 (1) - 18 (8) | 5-2 |
 | 2026-10-03 | Segunda División | Cadiz 4-0 Leganes | fuera | 4-5 | 12 (1) - 24 (9) | 3-2 |
 | 2026-09-28 | Segunda División | Leganes 0-2 Castellón | casa | 4-4 | 15 (2) - 22 (7) | 6-1 |
-| 2026-09-20 | Segunda División | Leganes 3-2 Granada CF | casa | 6-4 | 21 (12) - 21 (7) | 2-4 |
 
 ## Jugadores de Leganes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Naim García | F | 11 | 854 | 2 | 1 | 14 | 1,3 | 5 | 0,5 | 12 | 10 | 0,9 | 1 | 0 |
+| Naim García | F | 12 | 860 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 12 | 10 | 0,8 | 1 | 0 |
+| Ismaël Gharbi | M | 11 | 839 | 2 | 1 | 13 | 1,2 | 5 | 0,5 | 8 | 16 | 1,5 | 2 | 0 |
+| Y. Kechta | M | 12 | 829 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 25 | 9 | 0,8 | 4 | 0 |
+| Z. Buurmeester | M | 12 | 803 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 10 | 2 | 0,2 | 1 | 0 |
 | Luca Zidane | G | 9 | 784 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
 | Lalo Aguilar | D | 9 | 771 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 8 | 5 | 0,6 | 0 | 0 |
-| Z. Buurmeester | M | 11 | 768 | 0 | 0 | 6 | 0,5 | 3 | 0,3 | 10 | 2 | 0,2 | 1 | 0 |
-| Ismaël Gharbi | M | 10 | 764 | 2 | 1 | 13 | 1,3 | 5 | 0,5 | 8 | 16 | 1,6 | 2 | 0 |
 | Miguel Atienza | M | 9 | 749 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 9 | 1,0 | 0 | 0 |
-| Y. Kechta | M | 11 | 739 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 23 | 6 | 0,5 | 3 | 0 |
 | Marvel | D | 9 | 735 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 8 | 7 | 0,8 | 4 | 0 |
 | Ignasi Miquel | D | 8 | 671 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 8 | 1,0 | 1 | 0 |
-| P. Soko | M | 11 | 595 | 1 | 0 | 11 | 1,0 | 6 | 0,5 | 8 | 4 | 0,4 | 0 | 0 |
-| Álex Sancris | M | 8 | 444 | 0 | 1 | 9 | 1,1 | 3 | 0,4 | 7 | 5 | 0,6 | 3 | 0 |
-| Álvaro Morata | F | 7 | 435 | 0 | 0 | 6 | 0,9 | 0 | 0,0 | 21 | 8 | 1,1 | 2 | 1 |
-| Dani Rodríguez | M | 11 | 432 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 13 | 1,2 | 1 | 0 |
-| Javi Montero | D | 6 | 407 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 7 | 1,2 | 1 | 0 |
+| P. Soko | F | 12 | 640 | 1 | 0 | 13 | 1,1 | 7 | 0,6 | 8 | 4 | 0,3 | 0 | 0 |
+| Álex Sancris | M | 9 | 534 | 0 | 2 | 14 | 1,6 | 5 | 0,6 | 8 | 7 | 0,8 | 3 | 0 |
+| Javi Montero | D | 7 | 497 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 10 | 7 | 1,0 | 2 | 0 |
+| Dani Rodríguez | M | 12 | 477 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 15 | 14 | 1,2 | 1 | 0 |
+| Álvaro Morata | F | 8 | 470 | 2 | 0 | 10 | 1,2 | 3 | 0,4 | 22 | 9 | 1,1 | 3 | 1 |
+| Rubén Pulido | D | 9 | 387 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 7 | 2 | 0,2 | 4 | 0 |
+| Rubén Peña | D | 7 | 348 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 4 | 0,6 | 1 | 0 |
 | Álvaro Tejero | M | 5 | 314 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 8 | 1,6 | 0 | 0 |
-| Rubén Pulido | D | 8 | 297 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 6 | 2 | 0,2 | 3 | 0 |
-| Rubén Peña | D | 6 | 264 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 4 | 0,7 | 0 | 0 |
-| Álex Millán | F | 7 | 209 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 6 | 5 | 0,7 | 2 | 0 |
-| Raúl Fernández | G | 3 | 203 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
-| Enric Franquesa | D | 3 | 144 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 1 | 0 |
+| Raúl Fernández | G | 4 | 293 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
+| Álex Millán | F | 8 | 264 | 2 | 0 | 10 | 1,2 | 5 | 0,6 | 6 | 8 | 1,0 | 2 | 0 |
+| Enric Franquesa | D | 4 | 234 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,5 | 1 | 0 |
 
 ## Últimos partidos de Albacete
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Javier Moreno | D | 3 | 245 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 0,95 · córners esperados 9,8._
+_Goles esperados: local 1,51 · visitante 1,04 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,5 +1,32 @@
 # Lecciones del bot
 
+## 2026-11-02
+
+```
+🧠 LECCIONES DEL 02/11
+Picks del bot: 15 ✅ · 1 ❌ · 1 sin resultado
+
+❌ Lo que falló en lo publicado:
+• ATALANTA — GANA → Marcador: 0–3
+• Atalanta ve más de 0,5 tarjetas → 0 de 1 tarjeta
+• Gol en la 1ª parte del Mallorca–Cadiz → Marcador: 2–1
+• Gol en la 1ª parte del Newcastle–Everton → Marcador: 0–1
+• Lorient o empate → Marcador: 0–2
+• Más de 2,5 fueras de juego en Newcastle–Everton → 2 de 3 fueras de juego
+• Newcastle o empate → Marcador: 0–1
+
+❌ Fallos de los picks del bot y por qué:
+• Lorient o empate — resultado 0-2
+
+📐 Modelo: 228/361 aciertos reales (63%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬆️ premio tipo jugador:tiros: 25/31 (+8 pts)
+⬇️ castigo tipo goles: 110/171 (-4 pts)
+⬆️ premio liga Segunda: 11/16 (+4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-01
 
 ```

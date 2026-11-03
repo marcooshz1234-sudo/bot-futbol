@@ -1,7 +1,7 @@
 # Real Sociedad – Rayo Vallecano
 **LaLiga** · Regular Season - 12 · 08/11/2026 16:15 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 02/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 02:08._
 
 ## Cuotas Bet365
 _Actualizadas: 02/11 02:10_
@@ -209,7 +209,7 @@ _Goles esperados: local 2,19 · visitante 1,50 · córners esperados 10,8._
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 28% | 24% | 3.40 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
 | Goles del local: Más de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles del local: Más de 2.5 | 37% | 29% | 33% | 3.25 | +8% |
 | Goles del local: Menos de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
