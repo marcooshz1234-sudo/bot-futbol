@@ -2332,5 +2332,39 @@
       "instagram": "18646515160063580",
       "instagram_story": "18096608768672814"
     }
+  },
+  {
+    "id": "2026-11-03-combi-partido-1635662-ter",
+    "fecha": "2026-11-03T08:55",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FEYENOORD vs INTER ⭐\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.36]\n✅ FEYENOORD MARCA [x1.25]\n✅ ANDY DIOUF COMETE 1+ FALTAS [x1.40]\n✅ AMBOS VEN TARJETA [x1.26]\n✅ ANIS HADJ MOUSSA: 1+ TIROS A PUERTA [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 4,93\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1635662|Away Player Shots|Nicolo Barella - 1",
+      "1635662|Total - Home|Over 0.5",
+      "1635662|Player Fouls Committed|Andy Diouf - 1",
+      "1635662|Both Teams Cards|Yes",
+      "1635662|Home Player Shots On Target Total|Anis Hadj Moussa - 1"
+    ],
+    "cuotas": [
+      1.36,
+      1.25,
+      1.4,
+      1.26,
+      1.67
+    ],
+    "tarjeta": {
+      "local": "Feyenoord",
+      "visitante": "Inter",
+      "id_l": 209,
+      "id_v": 505,
+      "logo_l": "https://media.api-sports.io/football/teams/209.png",
+      "logo_v": "https://media.api-sports.io/football/teams/505.png",
+      "fecha": "2026-11-03T21:00",
+      "liga": "Champions"
+    },
+    "nota": "03/11 08:53: Marcos borró la -bis (Bastoni sancionado) y pidió subirla de nuevo"
   }
 ]
