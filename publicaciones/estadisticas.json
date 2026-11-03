@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 00:05",
+ "actualizado": "2026-11-04 00:16",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1528,
-   "hoy": 8,
+   "seguidores": 1531,
+   "hoy": 11,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1528
+    1531
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 236,
-   "hoy": 4,
+   "seguidores": 239,
+   "hoy": 7,
    "serie": [
     126,
     165,
@@ -50,12 +50,12 @@
     207,
     214,
     232,
-    236
+    239
    ]
   }
  },
- "total": 1787,
- "total_hoy": 12,
+ "total": 1793,
+ "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
   "hora": "00:30",
@@ -141,24 +141,19 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1528,
+   "threads": 1531,
    "facebook": 0,
-   "telegram": 236
+   "telegram": 239
   }
  },
  "tipos_instagram": {
-  "Otros": {
-   "posts": 1,
+  "Verdes/balance (reel)": {
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
    "posts": 50,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
