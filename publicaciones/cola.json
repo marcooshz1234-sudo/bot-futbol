@@ -559,6 +559,15 @@
     }
   },
   {
+    "id": "2026-10-26-concurso",
+    "fecha": "2026-10-26T10:00",
+    "texto": "🏆 CONCURSO DE LA SEMANA · EL PICK DE LOS SEGUIDORES 🏆\n\nMándale cada día tu pick a @combilocas_publica_bot por privado:\n/pick Más de 2,5 goles en Inter–Fiorentina\n\nEl bot lo corrige solo y el domingo por la noche publicamos el ranking aquí 🏅\n\nSolo es un juego: no hace falta apostar.",
+    "foto": null,
+    "origen": "bot",
+    "enviado": "2026-10-26T10:02",
+    "mensaje_id": 112
+  },
+  {
     "id": "2026-10-26-sevilla-osasuna",
     "fecha": "2026-10-26T13:00",
     "texto": "🇪🇸⚽ SEVILLA 🆚 OSASUNA — PICK PARA HOY\n\n✅ Más de 1,5 goles\n\n🎯 Cuota de referencia: 1,36 (captura del 24/10)\n\n📊 Se cumplió en 7 de los 9 últimos partidos de cada equipo. Revisa el precio antes de apostar.\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -575,15 +584,6 @@
     "nota": "movido a 19:45 el 26/10 para que salga con las alineaciones confirmadas",
     "enviado": "2026-10-26T20:05",
     "mensaje_id": 119
-  },
-  {
-    "id": "2026-10-26-concurso",
-    "fecha": "2026-10-26T10:00",
-    "texto": "🏆 CONCURSO DE LA SEMANA · EL PICK DE LOS SEGUIDORES 🏆\n\nMándale cada día tu pick a @combilocas_publica_bot por privado:\n/pick Más de 2,5 goles en Inter–Fiorentina\n\nEl bot lo corrige solo y el domingo por la noche publicamos el ranking aquí 🏅\n\nSolo es un juego: no hace falta apostar.",
-    "foto": null,
-    "origen": "bot",
-    "enviado": "2026-10-26T10:02",
-    "mensaje_id": 112
   },
   {
     "id": "2026-10-26-verde-auto-2026-10-26-combi-segura",
@@ -679,6 +679,73 @@
     ]
   },
   {
+    "id": "2026-10-27-boleto-x33",
+    "fecha": "2026-10-27T10:15",
+    "texto": "🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": "publicaciones/fotos/2026-10-27-boleto-x33.jpg",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "enviado": "2026-10-27T10:15",
+    "mensaje_id": 124,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18639907471038479"
+    },
+    "sel": [
+      "1550172|Total - Home|Over 0.5",
+      "1550172|Player Shots On Target Total|Gustavo Varela - 1",
+      "1550171|To Win Either Half|Away",
+      "1550171|Home Team Total Cards|Over 1.5",
+      "1640383|Player Shots On Target Total|Evanilson - 1",
+      "1640383|Player Shots Total|Johan Manzambi - 2",
+      "1640387|Player Shots On Target Total|Joshua King - 1",
+      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
+      "1550167|Away Corners Over/Under|Over 2.5",
+      "1550173|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "textos": [
+      "Monza marca",
+      "Gustavo Varela: 1+ tiros a puerta",
+      "Juventus gana alguna de las dos partes",
+      "Genoa ve más de 1,5 tarjetas",
+      "Evanilson: 1+ tiros a puerta",
+      "Johan Manzambi: 2+ tiros",
+      "Joshua King: 1+ tiros a puerta",
+      "Lewis Ferguson comete 1+ faltas",
+      "Bologna hace más de 2,5 córners",
+      "Parma marca"
+    ],
+    "partidos": [
+      "Monza – Napoli",
+      "Monza – Napoli",
+      "Genoa – Juventus",
+      "Genoa – Juventus",
+      "Bournemouth – Aston Villa",
+      "Bournemouth – Aston Villa",
+      "Fulham – Crystal Palace",
+      "AC Milan – Bologna",
+      "AC Milan – Bologna",
+      "Parma – Udinese"
+    ]
+  },
+  {
     "id": "2026-10-27-combi-tres-datos",
     "fecha": "2026-10-27T13:30",
     "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,86! 🍀\n\n✅ 🇩🇪 Gana el Borussia Dortmund\n✅ 🇩🇪 Eintracht Frankfurt o empate\n✅ 🇪🇸 Girona gana al descanso\n\n🎯 CUOTA 2,86 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -741,6 +808,61 @@
     }
   },
   {
+    "id": "2026-10-27-combi-partido-1638566",
+    "fecha": "2026-10-27T16:08",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 HAMBURGER SV vs EINTRACHT FRANKFURT 🇩🇪\n\n🎯 EINTRACHT FRANKFURT O EMPATE [x1.33]\n✅ EINTRACHT FRANKFURT GANA ALGUNA DE LAS DOS PARTES [x1.53]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.83]\n✅ MÁS DE 1,5 GOLES EN LA 1ª PARTE [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 6,19\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Hamburger SV",
+      "visitante": "Eintracht Frankfurt",
+      "id_l": 175,
+      "id_v": 169,
+      "logo_l": "https://media.api-sports.io/football/teams/175.png",
+      "logo_v": "https://media.api-sports.io/football/teams/169.png",
+      "fecha": "2026-10-27T18:00",
+      "liga": "DFB-Pokal"
+    },
+    "sel": [
+      "1638566|Double Chance|Draw/Away",
+      "1638566|To Win Either Half|Away",
+      "1638566|Total Corners (1st Half)|Over 4",
+      "1638566|Goals Over/Under First Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.53,
+      1.83,
+      2.1
+    ],
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 16:06",
+    "enviado": "2026-10-27T16:08",
+    "mensaje_id": 131,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18120703123947842",
+      "instagram": "18134668720787251",
+      "instagram_story": "18109680422262940"
+    }
+  },
+  {
+    "id": "2026-10-27-resultados-exactos",
+    "fecha": "2026-10-27T16:37",
+    "texto": "🎯 COMBILOCAS — ¡RESULTADOS EXACTOS DE HOY! 🍀\n\n✅ 🇩🇪 Hamburgo 1-2 Eintracht Frankfurt\n✅ 🇩🇪 Rot-Weiss Essen 0-2 RB Leipzig\n✅ 🇮🇹 Sassuolo 1-2 Lazio\n✅ 🇪🇸 Cuarte 0-2 Girona\n✅ 🇩🇪 Borussia Dortmund 2-1 Werder Bremen\n✅ 🇮🇹 Roma 2-1 Cagliari\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fleetwood 0-3 Arsenal\n✅ 🇪🇸 Manacor 0-3 Villarreal\n\n👇 ¿Cuántos acertamos? Deja el tuyo 💬",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "nota": "aprobada por Marcos el 27/10 16:32 (sin seguimiento: no es combi)",
+    "enviado": "2026-10-27T16:37",
+    "mensaje_id": 132,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18031794917683230",
+      "instagram": "18099462137097015"
+    }
+  },
+  {
     "id": "2026-10-27-combi-sassuolo-lazio",
     "fecha": "2026-10-27T17:40",
     "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 SASSUOLO vs LAZIO 🇮🇹\n\n🎯 LAZIO VE MÁS DE 1,5 TARJETAS [x1.50]\n✅ LAZIO GANA ALGUNA DE LAS DOS PARTES [x1.57]\n✅ MÁS DE 8,5 TIROS A PUERTA [x1.73]\n✅ MÁS DE 8,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 7,05\n🟢 VERDE A VERDE 🟢",
@@ -772,81 +894,6 @@
     "nota": "rehecha el 27/10 10:30 con la cuota real de Crear apuesta (Marcos); no salió: el bucle estuvo parado de 16:49 a 18:45 y el partido ya había empezado",
     "forzar": true,
     "caducada": "quitada"
-  },
-  {
-    "id": "2026-10-27-combi-borussia-dortmund-werder-bremen",
-    "fecha": "2026-10-27T20:00",
-    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BORUSSIA DORTMUND vs WERDER BREMEN 🇩🇪\n\n🎯 GANA EL BORUSSIA DORTMUND [x1.40]\n✅ BORUSSIA DORTMUND MARCA 2 O MÁS [x1.36]\n✅ WERDER BREMEN MARCA [x1.53]\n✅ MÁS DE 2,5 GOLES [x1.48]\n✅ BORUSSIA DORTMUND HACE MÁS DE 6,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,46\n🟢 VERDE A VERDE 🟢",
-    "tarjeta": {
-      "local": "Borussia Dortmund",
-      "visitante": "Werder Bremen",
-      "id_l": 165,
-      "id_v": 162,
-      "logo_l": "https://media.api-sports.io/football/teams/165.png",
-      "logo_v": "https://media.api-sports.io/football/teams/162.png",
-      "fecha": "2026-10-27T20:45",
-      "liga": "DFB-Pokal"
-    },
-    "sel": [
-      "1638561|Match Winner|Home",
-      "1638561|Total - Home|Over 1.5",
-      "1638561|Total - Away|Over 0.5",
-      "1638561|Goals Over/Under|Over 2.5",
-      "1638561|Home Corners Over/Under|Over 6.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.36,
-      1.53,
-      1.48,
-      1.73
-    ],
-    "foto": null,
-    "origen": "bot",
-    "directo": true,
-    "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
-    "forzar": true,
-    "caducada": "quitada"
-  },
-  {
-    "id": "2026-10-27-combi-torino-como",
-    "fecha": "2026-10-27T19:30",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 TORINO vs COMO 🇮🇹\n\n🎯 TORINO MARCA [x1.44]\n✅ MÁS DE 2,5 TARJETAS [x1.57]\n✅ MÁS DE 9,5 TIROS A PUERTA [x2.00]\n✅ TORINO HACE MÁS DE 3,5 CÓRNERS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 8,27\n🟢 VERDE A VERDE 🟢",
-    "tarjeta": {
-      "local": "Torino",
-      "visitante": "Como",
-      "id_l": 503,
-      "id_v": 895,
-      "logo_l": "https://media.api-sports.io/football/teams/503.png",
-      "logo_v": "https://media.api-sports.io/football/teams/895.png",
-      "fecha": "2026-10-27T20:45",
-      "liga": "Serie A"
-    },
-    "sel": [
-      "1550175|Total - Home|Over 0.5",
-      "1550175|Cards Over/Under|Over 2.5",
-      "1550175|Total ShotOnGoal|Over 9.5",
-      "1550175|Home Corners Over/Under|Over 3.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.57,
-      2.0,
-      2.1
-    ],
-    "foto": null,
-    "origen": "bot",
-    "directo": true,
-    "nota": "aprobada por Marcos el 27/10 02:16",
-    "forzar": true,
-    "foto_tg": "publicaciones/media/2026-10-27-combi-torino-como.tarjeta.jpg",
-    "enviado": "2026-10-27T19:30",
-    "mensaje_id": 135,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18091700438220005",
-      "instagram": "18081727970712034"
-    }
   },
   {
     "id": "2026-10-27-combi-as-roma-cagliari",
@@ -922,126 +969,79 @@
     "caducada": "quitada"
   },
   {
-    "id": "2026-10-27-boleto-x33",
-    "fecha": "2026-10-27T10:15",
-    "texto": "🎟️ COMBILOCAS — ¡CREAR APUESTA x33,75! 🍀\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": "publicaciones/fotos/2026-10-27-boleto-x33.jpg",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "enviado": "2026-10-27T10:15",
-    "mensaje_id": 124,
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18639907471038479"
-    },
-    "sel": [
-      "1550172|Total - Home|Over 0.5",
-      "1550172|Player Shots On Target Total|Gustavo Varela - 1",
-      "1550171|To Win Either Half|Away",
-      "1550171|Home Team Total Cards|Over 1.5",
-      "1640383|Player Shots On Target Total|Evanilson - 1",
-      "1640383|Player Shots Total|Johan Manzambi - 2",
-      "1640387|Player Shots On Target Total|Joshua King - 1",
-      "1550167|Player Fouls Committed|Lewis Ferguson - 1",
-      "1550167|Away Corners Over/Under|Over 2.5",
-      "1550173|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "textos": [
-      "Monza marca",
-      "Gustavo Varela: 1+ tiros a puerta",
-      "Juventus gana alguna de las dos partes",
-      "Genoa ve más de 1,5 tarjetas",
-      "Evanilson: 1+ tiros a puerta",
-      "Johan Manzambi: 2+ tiros",
-      "Joshua King: 1+ tiros a puerta",
-      "Lewis Ferguson comete 1+ faltas",
-      "Bologna hace más de 2,5 córners",
-      "Parma marca"
-    ],
-    "partidos": [
-      "Monza – Napoli",
-      "Monza – Napoli",
-      "Genoa – Juventus",
-      "Genoa – Juventus",
-      "Bournemouth – Aston Villa",
-      "Bournemouth – Aston Villa",
-      "Fulham – Crystal Palace",
-      "AC Milan – Bologna",
-      "AC Milan – Bologna",
-      "Parma – Udinese"
-    ]
-  },
-  {
-    "id": "2026-10-27-combi-partido-1638566",
-    "fecha": "2026-10-27T16:08",
-    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 HAMBURGER SV vs EINTRACHT FRANKFURT 🇩🇪\n\n🎯 EINTRACHT FRANKFURT O EMPATE [x1.33]\n✅ EINTRACHT FRANKFURT GANA ALGUNA DE LAS DOS PARTES [x1.53]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.83]\n✅ MÁS DE 1,5 GOLES EN LA 1ª PARTE [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-2\n💥 Cuota total aprox.: 6,19\n🟢 VERDE A VERDE 🟢",
+    "id": "2026-10-27-combi-torino-como",
+    "fecha": "2026-10-27T19:30",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 TORINO vs COMO 🇮🇹\n\n🎯 TORINO MARCA [x1.44]\n✅ MÁS DE 2,5 TARJETAS [x1.57]\n✅ MÁS DE 9,5 TIROS A PUERTA [x2.00]\n✅ TORINO HACE MÁS DE 3,5 CÓRNERS [x2.10]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 8,27\n🟢 VERDE A VERDE 🟢",
     "tarjeta": {
-      "local": "Hamburger SV",
-      "visitante": "Eintracht Frankfurt",
-      "id_l": 175,
-      "id_v": 169,
-      "logo_l": "https://media.api-sports.io/football/teams/175.png",
-      "logo_v": "https://media.api-sports.io/football/teams/169.png",
-      "fecha": "2026-10-27T18:00",
-      "liga": "DFB-Pokal"
+      "local": "Torino",
+      "visitante": "Como",
+      "id_l": 503,
+      "id_v": 895,
+      "logo_l": "https://media.api-sports.io/football/teams/503.png",
+      "logo_v": "https://media.api-sports.io/football/teams/895.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "Serie A"
     },
     "sel": [
-      "1638566|Double Chance|Draw/Away",
-      "1638566|To Win Either Half|Away",
-      "1638566|Total Corners (1st Half)|Over 4",
-      "1638566|Goals Over/Under First Half|Over 1.5"
+      "1550175|Total - Home|Over 0.5",
+      "1550175|Cards Over/Under|Over 2.5",
+      "1550175|Total ShotOnGoal|Over 9.5",
+      "1550175|Home Corners Over/Under|Over 3.5"
     ],
     "cuotas": [
-      1.33,
-      1.53,
-      1.83,
+      1.44,
+      1.57,
+      2.0,
       2.1
     ],
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 16:06",
-    "enviado": "2026-10-27T16:08",
-    "mensaje_id": 131,
+    "nota": "aprobada por Marcos el 27/10 02:16",
+    "forzar": true,
+    "foto_tg": "publicaciones/media/2026-10-27-combi-torino-como.tarjeta.jpg",
+    "enviado": "2026-10-27T19:30",
+    "mensaje_id": 135,
     "redes": {
       "instagram_reel": null,
-      "threads": "18120703123947842",
-      "instagram": "18134668720787251",
-      "instagram_story": "18109680422262940"
+      "threads": "18091700438220005",
+      "instagram": "18081727970712034"
     }
   },
   {
-    "id": "2026-10-27-resultados-exactos",
-    "fecha": "2026-10-27T16:37",
-    "texto": "🎯 COMBILOCAS — ¡RESULTADOS EXACTOS DE HOY! 🍀\n\n✅ 🇩🇪 Hamburgo 1-2 Eintracht Frankfurt\n✅ 🇩🇪 Rot-Weiss Essen 0-2 RB Leipzig\n✅ 🇮🇹 Sassuolo 1-2 Lazio\n✅ 🇪🇸 Cuarte 0-2 Girona\n✅ 🇩🇪 Borussia Dortmund 2-1 Werder Bremen\n✅ 🇮🇹 Roma 2-1 Cagliari\n✅ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fleetwood 0-3 Arsenal\n✅ 🇪🇸 Manacor 0-3 Villarreal\n\n👇 ¿Cuántos acertamos? Deja el tuyo 💬",
+    "id": "2026-10-27-combi-borussia-dortmund-werder-bremen",
+    "fecha": "2026-10-27T20:00",
+    "texto": "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BORUSSIA DORTMUND vs WERDER BREMEN 🇩🇪\n\n🎯 GANA EL BORUSSIA DORTMUND [x1.40]\n✅ BORUSSIA DORTMUND MARCA 2 O MÁS [x1.36]\n✅ WERDER BREMEN MARCA [x1.53]\n✅ MÁS DE 2,5 GOLES [x1.48]\n✅ BORUSSIA DORTMUND HACE MÁS DE 6,5 CÓRNERS [x1.73]\n\n🔥 Resultado probable: 2-1 | 3-1 | 3-2\n💥 Cuota total aprox.: 7,46\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Borussia Dortmund",
+      "visitante": "Werder Bremen",
+      "id_l": 165,
+      "id_v": 162,
+      "logo_l": "https://media.api-sports.io/football/teams/165.png",
+      "logo_v": "https://media.api-sports.io/football/teams/162.png",
+      "fecha": "2026-10-27T20:45",
+      "liga": "DFB-Pokal"
+    },
+    "sel": [
+      "1638561|Match Winner|Home",
+      "1638561|Total - Home|Over 1.5",
+      "1638561|Total - Away|Over 0.5",
+      "1638561|Goals Over/Under|Over 2.5",
+      "1638561|Home Corners Over/Under|Over 6.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.36,
+      1.53,
+      1.48,
+      1.73
+    ],
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "nota": "aprobada por Marcos el 27/10 16:32 (sin seguimiento: no es combi)",
-    "enviado": "2026-10-27T16:37",
-    "mensaje_id": 132,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18031794917683230",
-      "instagram": "18099462137097015"
-    }
+    "nota": "quitada por Marcos el 27/10 10:29 (cuota real de Crear apuesta ~3,5, no llega a 7)",
+    "forzar": true,
+    "caducada": "quitada"
   },
   {
     "id": "2026-10-27-verde-auto-2026-10-27-escalera",
@@ -1700,6 +1700,26 @@
     }
   },
   {
+    "id": "2026-10-29-verde-auto-2026-10-29-combi-partido-1550169",
+    "fecha": "2026-10-29T22:48",
+    "texto": "✅💚 ¡VERDE x7,15! COMBI LOCAS · FIORENTINA vs ATALANTA 💚✅\n\n✅ Atalanta marca\n✅ Fiorentina o empate\n✅ Gol en la 1ª parte del Fiorentina–Atalanta\n✅ Cher Ndour: 1+ tiros\n✅ Fiorentina hace más tiros\n✅ Fiorentina ve más de 1,5 tarjetas\n\n🎯 Cuota 7,15\n💶 10€ → 71,50€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-10-29-combi-partido-1550169",
+    "enviado": "2026-10-29T22:49",
+    "mensaje_id": 173,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17914984146287308",
+      "instagram": "18023977493936481",
+      "instagram_story": "17999542332030026",
+      "threads_enlace": "18158271667522774"
+    }
+  },
+  {
     "id": "2026-10-29-por-un-corner",
     "fecha": "2026-10-29T23:06",
     "texto": "😩 ¡POR UN CÓRNER! 😩\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 EVERTON 3-1 NEWCASTLE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n✅ GOL EN LA 1ª PARTE\n✅ NEWCASTLE VE MÁS DE 1,5 TARJETAS\n❌ EVERTON HACE MÁS DE 4,5 CÓRNERS (se quedó en 4)\n✅ MÁS DE 26,5 TIROS\n✅ MÁS DE 9,5 CÓRNERS\n\n💔 4 de 5 y la x9,10 se nos escapa por UN córner\n\n💪 Mañana más combis con escudos 🍀",
@@ -1727,23 +1747,19 @@
     }
   },
   {
-    "id": "2026-10-29-verde-auto-2026-10-29-combi-partido-1550169",
-    "fecha": "2026-10-29T22:48",
-    "texto": "✅💚 ¡VERDE x7,15! COMBI LOCAS · FIORENTINA vs ATALANTA 💚✅\n\n✅ Atalanta marca\n✅ Fiorentina o empate\n✅ Gol en la 1ª parte del Fiorentina–Atalanta\n✅ Cher Ndour: 1+ tiros\n✅ Fiorentina hace más tiros\n✅ Fiorentina ve más de 1,5 tarjetas\n\n🎯 Cuota 7,15\n💶 10€ → 71,50€\n\n¿Quién la llevaba? 👇💚",
+    "id": "2026-10-29-balance-auto",
+    "fecha": "2026-10-29T23:15",
+    "texto": "📊 BALANCE DEL JUEVES · 21 DE 25 PICKS EN VERDE 🍀\n\n🎯 84 % de acierto\n✅ 21 acertados · ❌ 4 fallados\n\n🔥 Lo mejor: tarjetas 2/2 · tiros 6/7\n⚽ Ganadores: 7/7\n😤 Lo peor: córners 1/3\n\n💚 Mañana más picks GRATIS en @combilocas\n🍀 ¿Cuántos llevabas tú? 👇",
     "foto": null,
     "origen": "bot",
     "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-10-29-combi-partido-1550169",
-    "enviado": "2026-10-29T22:49",
-    "mensaje_id": 173,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "enviado": "2026-10-29T23:16",
+    "mensaje_id": 178,
     "redes": {
-      "instagram_reel": null,
-      "threads": "17914984146287308",
-      "instagram": "18023977493936481",
-      "instagram_story": "17999542332030026",
-      "threads_enlace": "18158271667522774"
+      "threads": "18056385071588417",
+      "threads_enlace": "18108824462217644"
     }
   },
   {
@@ -1837,22 +1853,6 @@
       "threads_enlace": "18121705222950463"
     },
     "cuota_bet365": 14.0
-  },
-  {
-    "id": "2026-10-29-balance-auto",
-    "fecha": "2026-10-29T23:15",
-    "texto": "📊 BALANCE DEL JUEVES · 21 DE 25 PICKS EN VERDE 🍀\n\n🎯 84 % de acierto\n✅ 21 acertados · ❌ 4 fallados\n\n🔥 Lo mejor: tarjetas 2/2 · tiros 6/7\n⚽ Ganadores: 7/7\n😤 Lo peor: córners 1/3\n\n💚 Mañana más picks GRATIS en @combilocas\n🍀 ¿Cuántos llevabas tú? 👇",
-    "foto": null,
-    "origen": "bot",
-    "directo": true,
-    "facebook": "texto",
-    "sin_instagram": true,
-    "enviado": "2026-10-29T23:16",
-    "mensaje_id": 178,
-    "redes": {
-      "threads": "18056385071588417",
-      "threads_enlace": "18108824462217644"
-    }
   },
   {
     "id": "2026-10-30-combiloca-personal",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": "2026-10-31-combi-partido-1570439-bis",
-    "fecha": "2026-10-31T01:37",
+    "fecha": "2026-10-31T01:43",
     "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 LEVANTE vs ATLETICO MADRID 🇪🇸\n\n🎯 ATLETICO MADRID HACE MÁS TIROS [x1.40]\n✅ LEVANTE MARCA [x1.44]\n✅ GANA EL ATLETICO MADRID [x1.53]\n✅ LEVANTE HACE MÁS DE 3,5 CÓRNERS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,28\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
@@ -1992,55 +1992,12 @@
     "mensaje_id": 197,
     "redes": {
       "instagram_reel": null,
-      "threads": "18117164804274897",
-      "instagram_story": "18112535963191804",
-      "threads_enlace": "18387938536227534",
-      "instagram": "18134804704767395"
+      "threads": "18098850515376036",
+      "instagram_story": "17939576349123685",
+      "threads_enlace": "18132941563815011",
+      "instagram": "ya-publicado"
     },
     "forzar": true
-  },
-  {
-    "id": "2026-10-31-combi-partido-1570439-bis",
-    "fecha": "2026-10-31T01:43",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 LEVANTE vs ATLETICO MADRID 🇪🇸\n\n🎯 ATLETICO MADRID HACE MÁS TIROS [x1.40]\n✅ LEVANTE MARCA [x1.44]\n✅ GANA EL ATLETICO MADRID [x1.53]\n✅ LEVANTE HACE MÁS DE 3,5 CÓRNERS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 7,28\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570439|Shots.1x2|Away",
-      "1570439|Total - Home|Over 0.5",
-      "1570439|Match Winner|Away",
-      "1570439|Home Corners Over/Under|Over 3.5",
-      "1570439|Corners Over Under|Over 9.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.44,
-      1.53,
-      1.73,
-      1.83
-    ],
-    "tarjeta": {
-      "local": "Levante",
-      "visitante": "Atletico Madrid",
-      "id_l": 539,
-      "id_v": 530,
-      "logo_l": "https://media.api-sports.io/football/teams/539.png",
-      "logo_v": "https://media.api-sports.io/football/teams/530.png",
-      "fecha": "2026-10-31T14:00",
-      "liga": "LaLiga"
-    },
-    "nota": "31/10 01:42: rehecha sin «ambos marcan» + «Levante marca» juntas (Marcos borra la de las 01:30)",
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1570439-bis.tarjeta.jpg",
-    "enviado": "2026-10-31T01:46",
-    "mensaje_id": 198,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18098850515376036",
-      "instagram": "ya-publicado",
-      "instagram_story": "17939576349123685",
-      "threads_enlace": "18132941563815011"
-    }
   },
   {
     "id": "2026-10-31-combi-partido-1570434",
@@ -2256,50 +2213,6 @@
     }
   },
   {
-    "id": "2026-11-03-combi-partido-1635627",
-    "fecha": "2026-11-03T12:15",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ BARCELONA vs ASTON VILLA ⭐\n\n🎯 GANA EL BARCELONA [x1.25]\n✅ BARCELONA MARCA 3 O MÁS [x1.53]\n✅ MÁS DE 3,5 GOLES [x1.57]\n✅ LAMINE YAMAL: 4+ TIROS [x1.25]\n✅ NICOLAS JACKSON: 3+ TIROS [x2.10]\n✅ BARCELONA VE MÁS DE 1,5 TARJETAS [x2.20]\n\n🔥 Resultado probable: 3-1 | 3-2 | 4-1\n💥 Cuota total aprox.: 11,00\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635627|Match Winner|Home",
-      "1635627|Total - Home|Over 2.5",
-      "1635627|Goals Over/Under|Over 3.5",
-      "1635627|Home Player Shots|Lamine Yamal - 4",
-      "1635627|Away Player Shots|Nicolas Jackson - 3",
-      "1635627|Home Team Total Cards|Over 1.5"
-    ],
-    "cuotas": [
-      1.25,
-      1.53,
-      1.57,
-      1.25,
-      2.1,
-      2.2
-    ],
-    "tarjeta": {
-      "local": "Barcelona",
-      "visitante": "Aston Villa",
-      "id_l": 529,
-      "id_v": 66,
-      "logo_l": "https://media.api-sports.io/football/teams/529.png",
-      "logo_v": "https://media.api-sports.io/football/teams/66.png",
-      "fecha": "2026-11-03T21:00",
-      "liga": "Champions"
-    },
-    "nota": "03/11 00:00: Marcos «a las 12:15 sube una del Barça con escudos de cuota 10»",
-    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635627.tarjeta.jpg",
-    "enviado": "2026-11-03T12:15",
-    "mensaje_id": 251,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18107616650629675",
-      "instagram": "18428616190159335",
-      "instagram_story": "18225189661338357"
-    }
-  },
-  {
     "id": "2026-11-03-combi-partido-1635662-bis",
     "fecha": "2026-11-03T02:17",
     "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FEYENOORD vs INTER ⭐\n\n🎯 NICOLO BARELLA: 1+ TIROS [x1.36]\n✅ ALESSANDRO BASTONI COMETE 1+ FALTAS [x1.25]\n✅ ANDY DIOUF COMETE 1+ FALTAS [x1.40]\n✅ AMBOS VEN TARJETA [x1.26]\n✅ ANIS HADJ MOUSSA: 1+ TIROS A PUERTA [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,08\n🟢 VERDE A VERDE 🟢",
@@ -2431,6 +2344,50 @@
     }
   },
   {
+    "id": "2026-11-03-combi-partido-1635627",
+    "fecha": "2026-11-03T12:15",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ BARCELONA vs ASTON VILLA ⭐\n\n🎯 GANA EL BARCELONA [x1.25]\n✅ BARCELONA MARCA 3 O MÁS [x1.53]\n✅ MÁS DE 3,5 GOLES [x1.57]\n✅ LAMINE YAMAL: 4+ TIROS [x1.25]\n✅ NICOLAS JACKSON: 3+ TIROS [x2.10]\n✅ BARCELONA VE MÁS DE 1,5 TARJETAS [x2.20]\n\n🔥 Resultado probable: 3-1 | 3-2 | 4-1\n💥 Cuota total aprox.: 11,00\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635627|Match Winner|Home",
+      "1635627|Total - Home|Over 2.5",
+      "1635627|Goals Over/Under|Over 3.5",
+      "1635627|Home Player Shots|Lamine Yamal - 4",
+      "1635627|Away Player Shots|Nicolas Jackson - 3",
+      "1635627|Home Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.53,
+      1.57,
+      1.25,
+      2.1,
+      2.2
+    ],
+    "tarjeta": {
+      "local": "Barcelona",
+      "visitante": "Aston Villa",
+      "id_l": 529,
+      "id_v": 66,
+      "logo_l": "https://media.api-sports.io/football/teams/529.png",
+      "logo_v": "https://media.api-sports.io/football/teams/66.png",
+      "fecha": "2026-11-03T21:00",
+      "liga": "Champions"
+    },
+    "nota": "03/11 00:00: Marcos «a las 12:15 sube una del Barça con escudos de cuota 10»",
+    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635627.tarjeta.jpg",
+    "enviado": "2026-11-03T12:15",
+    "mensaje_id": 251,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18107616650629675",
+      "instagram": "18428616190159335",
+      "instagram_story": "18225189661338357"
+    }
+  },
+  {
     "id": "2026-11-03-combi-multi",
     "fecha": "2026-11-03T14:30",
     "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,21! 🍀\n\n✅ Nicolas Jackson: 2+ tiros\n✅ Michael Olise: 3+ tiros\n✅ Maxima Goffi comete 1+ faltas\n✅ Achraf Hakimi: 2+ tiros\n✅ Bryan Mbeumo: 1+ tiros a puerta\n✅ 3+ fueras de juego en Feyenoord–Inter\n✅ Anis Hadj Moussa: 2+ tiros\n✅ Slovan Bratislava marca\n✅ Birmingham hace 3+ córners\n✅ Birmingham o empate\n\n⚽ 1 o 2 cosas de cada partido, de las que más salen ✅ (cuota aprox.)\n\n💚 Más picks GRATIS en @combilocas",
@@ -2512,68 +2469,6 @@
       "instagram_reel": null,
       "threads": "17865488313694903",
       "instagram": "17895547161439819"
-    }
-  },
-  {
-    "id": "2026-11-03-estrella-1635627",
-    "fecha": "2026-11-03T20:25",
-    "texto": "⭐ BARCELONA 🆚 ASTON VILLA ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Nicolas Jackson: 2+ tiros\n✅2. Johan Manzambi: 2+ tiros\n✅3. Ambos ven tarjeta\n✅4. Aston Villa marca\n✅5. Más de 1,5 goles en la 2ª parte\n\n🎯 Cuota: 4,06\n💶 10€ → 40,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635627|Away Player Shots|Nicolas Jackson - 2",
-      "1635627|Away Player Shots|Johan Manzambi - 2",
-      "1635627|Both Teams Cards|Yes",
-      "1635627|Total - Away|Over 0.5",
-      "1635627|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.53,
-      1.32,
-      1.4,
-      1.4
-    ],
-    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
-    "espera_alineacion": true,
-    "enviado": "2026-11-03T20:25",
-    "mensaje_id": 261,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18108739193195696",
-      "instagram": "18133415512687970"
-    }
-  },
-  {
-    "id": "2026-11-03-estrella-1635622",
-    "fecha": "2026-11-03T20:25",
-    "texto": "⭐ ATLETICO MADRID 🆚 BAYERN MÜNCHEN ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Harry Kane: 3+ tiros\n✅2. Alex Grimaldo: 1+ tiros\n✅3. Joshua Kimmich: 1+ tiros\n✅4. Dayot Upamecano comete 1+ faltas\n✅5. Julian Alvarez: 1+ tiros a puerta\n\n🎯 Cuota: 5,94\n💶 10€ → 59,40€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635622|Away Player Shots|Harry Kane - 3",
-      "1635622|Home Player Shots|Alex Grimaldo - 1",
-      "1635622|Away Player Shots|Joshua Kimmich - 1",
-      "1635622|Player Fouls Committed|Dayot Upamecano - 1",
-      "1635622|Home Player Shots On Target Total|Julian Alvarez - 1"
-    ],
-    "cuotas": [
-      1.36,
-      1.3,
-      1.67,
-      1.44,
-      1.4
-    ],
-    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
-    "espera_alineacion": true,
-    "enviado": "2026-11-03T20:25",
-    "mensaje_id": 262,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18035268356897005",
-      "instagram": "18122134364303659"
     }
   },
   {
@@ -2675,6 +2570,102 @@
     }
   },
   {
+    "id": "2026-11-03-lista-europa-3",
+    "fecha": "2026-11-03T17:30",
+    "texto": "🏆⚽ CHAMPIONS · 8 PICKS PARA HOY 🍀 (3/3)\n\n🇪🇸 Atletico Madrid hace 8+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol 1ª parte Man Utd–AS Roma\n🇳🇴 Gol 1ª parte Bodo/Glimt–Lille\n🇫🇷 PSG gana una parte\n🇫🇷 Gana el PSG\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nicolas Jackson: 2+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇳🇱 Anis Hadj Moussa: 2+ tiros\n\n👉 ¡Coge los que más te gusten! ✅\n\n💚 Más picks GRATIS en @combilocas",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635622|Shots. Home Total|Over 7.5",
+      "1635695|Goals Over/Under First Half|Over 0.5",
+      "1635640|Goals Over/Under First Half|Over 0.5",
+      "1635746|To Win Either Half|Away",
+      "1635746|Match Winner|Away",
+      "1635627|Away Player Shots|Nicolas Jackson - 2",
+      "1635627|Away Player Shots|Johan Manzambi - 2",
+      "1635662|Home Player Shots|Anis Hadj Moussa - 2"
+    ],
+    "cuotas": [
+      1.17,
+      1.25,
+      1.25,
+      1.33,
+      1.67,
+      1.4,
+      1.53,
+      1.33
+    ],
+    "nota": "03/11 15:58: sin fueras de juego (Marcos) · 03/11 18:10: marcado como publicado a mano (el bucle no pudo guardar su estado)",
+    "enviado": "2026-11-03T16:41",
+    "redes": {
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
+  },
+  {
+    "id": "2026-11-03-estrella-1635627",
+    "fecha": "2026-11-03T20:25",
+    "texto": "⭐ BARCELONA 🆚 ASTON VILLA ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Nicolas Jackson: 2+ tiros\n✅2. Johan Manzambi: 2+ tiros\n✅3. Ambos ven tarjeta\n✅4. Aston Villa marca\n✅5. Más de 1,5 goles en la 2ª parte\n\n🎯 Cuota: 4,06\n💶 10€ → 40,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635627|Away Player Shots|Nicolas Jackson - 2",
+      "1635627|Away Player Shots|Johan Manzambi - 2",
+      "1635627|Both Teams Cards|Yes",
+      "1635627|Total - Away|Over 0.5",
+      "1635627|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.53,
+      1.32,
+      1.4,
+      1.4
+    ],
+    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
+    "espera_alineacion": true,
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 261,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18108739193195696",
+      "instagram": "18133415512687970"
+    }
+  },
+  {
+    "id": "2026-11-03-estrella-1635622",
+    "fecha": "2026-11-03T20:25",
+    "texto": "⭐ ATLETICO MADRID 🆚 BAYERN MÜNCHEN ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Harry Kane: 3+ tiros\n✅2. Alex Grimaldo: 1+ tiros\n✅3. Joshua Kimmich: 1+ tiros\n✅4. Dayot Upamecano comete 1+ faltas\n✅5. Julian Alvarez: 1+ tiros a puerta\n\n🎯 Cuota: 5,94\n💶 10€ → 59,40€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635622|Away Player Shots|Harry Kane - 3",
+      "1635622|Home Player Shots|Alex Grimaldo - 1",
+      "1635622|Away Player Shots|Joshua Kimmich - 1",
+      "1635622|Player Fouls Committed|Dayot Upamecano - 1",
+      "1635622|Home Player Shots On Target Total|Julian Alvarez - 1"
+    ],
+    "cuotas": [
+      1.36,
+      1.3,
+      1.67,
+      1.44,
+      1.4
+    ],
+    "nota": "03/11 15:00: rehecho sin Olise (lesionado) y con banderas del equipo",
+    "espera_alineacion": true,
+    "enviado": "2026-11-03T20:25",
+    "mensaje_id": 262,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18035268356897005",
+      "instagram": "18122134364303659"
+    }
+  },
+  {
     "id": "2026-11-03-combi-partido-1635695",
     "fecha": "2026-11-03T20:25",
     "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED HACE MÁS TIROS [x1.73]\n✅ MANCHESTER UNITED O EMPATE [x1.40]\n✅ BRYAN MBEUMO: 1+ TIROS A PUERTA [x1.40]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-0\n💥 Cuota total aprox.: 4,24\n🟢 VERDE A VERDE 🟢",
@@ -2713,40 +2704,6 @@
       "threads": "18120905293977304",
       "instagram": "18109652591289957",
       "instagram_story": "18081801497756031"
-    }
-  },
-  {
-    "id": "2026-11-03-lista-europa-3",
-    "fecha": "2026-11-03T17:30",
-    "texto": "🏆⚽ CHAMPIONS · 8 PICKS PARA HOY 🍀 (3/3)\n\n🇪🇸 Atletico Madrid hace 8+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gol 1ª parte Man Utd–AS Roma\n🇳🇴 Gol 1ª parte Bodo/Glimt–Lille\n🇫🇷 PSG gana una parte\n🇫🇷 Gana el PSG\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nicolas Jackson: 2+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Johan Manzambi: 2+ tiros\n🇳🇱 Anis Hadj Moussa: 2+ tiros\n\n👉 ¡Coge los que más te gusten! ✅\n\n💚 Más picks GRATIS en @combilocas",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635622|Shots. Home Total|Over 7.5",
-      "1635695|Goals Over/Under First Half|Over 0.5",
-      "1635640|Goals Over/Under First Half|Over 0.5",
-      "1635746|To Win Either Half|Away",
-      "1635746|Match Winner|Away",
-      "1635627|Away Player Shots|Nicolas Jackson - 2",
-      "1635627|Away Player Shots|Johan Manzambi - 2",
-      "1635662|Home Player Shots|Anis Hadj Moussa - 2"
-    ],
-    "cuotas": [
-      1.17,
-      1.25,
-      1.25,
-      1.33,
-      1.67,
-      1.4,
-      1.53,
-      1.33
-    ],
-    "nota": "03/11 15:58: sin fueras de juego (Marcos) · 03/11 18:10: marcado como publicado a mano (el bucle no pudo guardar su estado)",
-    "enviado": "2026-11-03T16:41",
-    "redes": {
-      "threads": "ya-publicado",
-      "instagram": "ya-publicado"
     }
   },
   {
@@ -2834,7 +2791,7 @@
   },
   {
     "id": "2026-11-03-verde-auto-2026-11-03-pick-seguro",
-    "fecha": "2026-11-03T21:36",
+    "fecha": "2026-11-03T22:01",
     "texto": "✅💚 ¡VERDE x1,67! PICK SEGURO DEL DÍA 💚✅\n\n✅ Gana el Paris Saint Germain\n\n🎯 Cuota 1,67\n💶 10€ → 16,70€\n\n¿Quién la llevaba? 👇💚",
     "foto": null,
     "origen": "bot",
@@ -2846,9 +2803,9 @@
     "mensaje_id": 267,
     "redes": {
       "instagram_reel": null,
-      "threads": "17918899995263478",
-      "instagram": "17873314482643899",
-      "instagram_story": "18109390433248845",
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado",
+      "instagram_story": "17928315681431221",
       "threads_enlace": "17873773545643570"
     }
   }
