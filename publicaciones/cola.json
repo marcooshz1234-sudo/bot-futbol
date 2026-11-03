@@ -2662,19 +2662,21 @@
   {
     "id": "2026-11-03-combi-partido-1635695",
     "fecha": "2026-11-03T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED HACE MÁS TIROS [x1.73]\n✅ GANA EL AS ROMA [x2.75]\n\n🔥 Resultado probable: 1-2 | 0-1 | 0-2\n💥 Cuota total aprox.: 6,98\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 GOL EN LA 1ª PARTE [x1.25]\n✅ MANCHESTER UNITED HACE MÁS TIROS [x1.73]\n✅ MANCHESTER UNITED O EMPATE [x1.40]\n✅ BRYAN MBEUMO: 1+ TIROS A PUERTA [x1.40]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-0\n💥 Cuota total aprox.: 4,24\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1635695|Goals Over/Under First Half|Over 0.5",
       "1635695|Shots.1x2|Home",
-      "1635695|Match Winner|Away"
+      "1635695|Double Chance|Home/Draw",
+      "1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1"
     ],
     "cuotas": [
       1.25,
       1.73,
-      2.75
+      1.4,
+      1.4
     ],
     "tarjeta": {
       "local": "Manchester United",
@@ -2686,7 +2688,7 @@
       "fecha": "2026-11-03T21:00",
       "liga": "Champions"
     },
-    "nota": "03/11 15:56: rehecho sin fueras de juego (Marcos)",
+    "nota": "03/11 15:56: rehecho sin fueras de juego (Marcos) · 03/11 20:16: sin «Gana la Roma» (Roma con 4 bajas; Marcos: sí)",
     "espera_alineacion": true
   },
   {
@@ -2726,7 +2728,7 @@
   {
     "id": "2026-11-03-combi-partido-1635746",
     "fecha": "2026-11-03T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VILLARREAL vs PARIS SAINT GERMAIN ⭐\n\n🎯 VILLARREAL HACE 3+ CÓRNERS [x1.18]\n✅ ACHRAF HAKIMI: 2+ TIROS [x1.44]\n✅ GANA EL PARIS SAINT GERMAIN [x1.67]\n✅ MÁS DE 3,5 GOLES [x1.80]\n\n🔥 Resultado probable: 1-3 | 2-3 | 1-4\n💥 Cuota total aprox.: 4,89\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VILLARREAL vs PARIS SAINT GERMAIN ⭐\n\n🎯 VILLARREAL HACE 3+ CÓRNERS [x1.18]\n✅ ACHRAF HAKIMI: 2+ TIROS [x1.44]\n✅ GANA EL PARIS SAINT GERMAIN [x1.67]\n✅ AMBOS MARCAN [x1.40]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 3,97\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2734,13 +2736,13 @@
       "1635746|Home Corners Over/Under|Over 2.5",
       "1635746|Away Player Shots|Achraf Hakimi - 2",
       "1635746|Match Winner|Away",
-      "1635746|Goals Over/Under|Over 3.5"
+      "1635746|Both Teams Score|Yes"
     ],
     "cuotas": [
       1.18,
       1.44,
       1.67,
-      1.8
+      1.4
     ],
     "tarjeta": {
       "local": "Villarreal",
@@ -2752,7 +2754,7 @@
       "fecha": "2026-11-03T21:00",
       "liga": "Champions"
     },
-    "nota": "03/11 15:58: sin fueras de juego (Marcos)",
+    "nota": "03/11 15:58: sin fueras de juego (Marcos) · 03/11 20:16: ambos marcan en vez de +3,5 goles (PSG con 4 bajas; Marcos: sí)",
     "espera_alineacion": true
   },
   {
