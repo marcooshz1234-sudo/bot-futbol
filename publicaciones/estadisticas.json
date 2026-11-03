@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 00:26",
+ "actualizado": "2026-11-04 00:34",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1531,
-   "hoy": 11,
+   "seguidores": 1532,
+   "hoy": 12,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1531
+    1532
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1792,
- "total_hoy": 17,
+ "total": 1793,
+ "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
+  "hora": "01:00",
   "dia": "2026-11-04",
-  "titulo": "Combi Fc Porto vs Napoli"
+  "titulo": "Quién gana hoy"
  },
  "ayer": null,
  "escalera": {
@@ -141,19 +141,19 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1531,
+   "threads": 1532,
    "facebook": 0,
    "telegram": 238
   }
  },
  "tipos_instagram": {
-  "Verdes/balance (reel)": {
-   "posts": 3,
+  "Combi loca (reel)": {
+   "posts": 50,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 50,
+  "Verdes/balance (reel)": {
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
