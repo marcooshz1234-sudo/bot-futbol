@@ -2870,6 +2870,14 @@
     "directo": true,
     "resultado": "verde",
     "forzar": true,
-    "nota": "04/11 00:12: Marcos borró el de las 23:50 (Instagram salió con la imagen vieja x584 y Threads sin foto). Vuelve a salir con su captura de las 21:22 con ticks"
+    "nota": "04/11 00:12: Marcos borró el de las 23:50 (Instagram salió con la imagen vieja x584 y Threads sin foto). Vuelve a salir con su captura de las 21:22 con ticks",
+    "enviado": "2026-11-04T00:12",
+    "mensaje_id": 272,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17960674824015883",
+      "instagram": "18130770667878725",
+      "instagram_story": "18124696487314499"
+    }
   }
 ]
