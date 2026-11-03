@@ -1960,7 +1960,7 @@
   {
     "id": "2026-11-03-combi-partido-1635622",
     "fecha": "2026-11-03T20:00",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ ATLETICO MADRID vs BAYERN MÜNCHEN ⭐\n\n🎯 HARRY KANE: 3+ TIROS [x1.36]\n✅ MICHAEL OLISE: 3+ TIROS [x1.57]\n✅ JOSHUA KIMMICH: 1+ TIROS [x1.67]\n✅ DAYOT UPAMECANO COMETE 1+ FALTAS [x1.44]\n✅ JULIAN ALVAREZ: 1+ TIROS A PUERTA [x1.40]\n\n🔥 Resultado probable: 1-2 | 1-1 | 1-3\n💥 Cuota total aprox.: 6,86\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ ATLETICO MADRID vs BAYERN MÜNCHEN ⭐\n\n🎯 HARRY KANE: 3+ TIROS [x1.36]\n✅ MICHAEL OLISE: 3+ TIROS [x1.57]\n✅ JOSHUA KIMMICH: 1+ TIROS [x1.67]\n✅ DAYOT UPAMECANO COMETE 1+ FALTAS [x1.44]\n✅ JULIAN ALVAREZ: 1+ TIROS A PUERTA [x1.36]\n\n🔥 Resultado probable: 1-2 | 1-1 | 1-3\n💥 Cuota total aprox.: 6,66\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1976,7 +1976,7 @@
       1.57,
       1.67,
       1.44,
-      1.4
+      1.36
     ],
     "tarjeta": {
       "local": "Atletico Madrid",
@@ -1987,7 +1987,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/157.png",
       "fecha": "2026-11-03T21:00",
       "liga": "Champions"
-    }
+    },
+    "cuotas_revisadas": "2026-11-03T18:32"
   },
   {
     "id": "2026-11-04-combi-partido-1635656",

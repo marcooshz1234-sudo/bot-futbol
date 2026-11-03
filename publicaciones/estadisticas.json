@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 15:39",
+ "actualizado": "2026-11-03 18:33",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1472,
-   "hoy": 42,
+   "seguidores": 1494,
+   "hoy": 64,
    "serie": [
     1225,
     1281,
@@ -24,7 +24,7 @@
     1375,
     1407,
     1430,
-    1472
+    1494
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 224,
-   "hoy": 10,
+   "seguidores": 229,
+   "hoy": 15,
    "serie": [
     113,
     126,
@@ -50,17 +50,17 @@
     176,
     207,
     214,
-    224
+    229
    ]
   }
  },
- "total": 1719,
- "total_hoy": 53,
+ "total": 1746,
+ "total_hoy": 80,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:40",
+  "hora": "19:40",
   "dia": "2026-11-03",
-  "titulo": "Combi de 7 partidos x20,28"
+  "titulo": "Combi Manchester United vs As Roma"
  },
  "ayer": {
   "aciertos": 15,
@@ -138,9 +138,9 @@
   },
   "2026-11-03": {
    "instagram": 23,
-   "threads": 1472,
+   "threads": 1494,
    "facebook": 0,
-   "telegram": 224
+   "telegram": 229
   }
  },
  "tipos_instagram": {
