@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-03 08:17 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-03 14:08 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 03/11
 
@@ -86,36 +86,45 @@ _Generado el 2026-11-03 08:17 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Viernes 06/11
 
+**🔒 Combi segura · cuota 1,74**
+- Akor Adams: 1+ tiros a puerta (1,36) · Akor Adams 8/10
+- Casper Tengstedt: 1+ tiros a puerta (1,28) · Casper Tengstedt 4/5
+
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Akor Adams: 1+ tiros a puerta | jugador | 1.36 | 80% | Akor Adams 8/10 |
-| 20:45 | Casper Tengstedt: 1+ tiros a puerta | jugador | 1.36 | 80% | Casper Tengstedt 4/5 |
+| 20:45 | Casper Tengstedt: 1+ tiros a puerta | jugador | 1.28 | 80% | Casper Tengstedt 4/5 |
+| 21:45 | Arouca o empate | resultado | 1.80 | 80% | Famalicao 8/10 · Arouca 8/10 |
 
 ## Sábado 07/11
 
-**🔒 Combi segura · cuota 1,70**
+**🔒 Combi segura · cuota 1,64**
 - Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 9/10
-- Más de 1,5 goles en Torino–Lecce (1,33) · Torino 9/10 · Lecce 9/10
+- Santiago Castaneda: 1+ tiros (1,28) · Santiago Castaneda 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,06**
+**🤪 Combi loca · cuota 9,21**
+- Más de 1,5 goles en Torino–Lecce (1,28) · Torino 9/10 · Lecce 9/10
 - Más de 1,5 goles en Leeds–Tottenham (1,30) · Leeds 8/10 · Tottenham 8/10
 - Más de 1,5 goles en Parma–Bologna (1,36) · Parma 9/10 · Bologna 7/10
 - Ermedin Demirovic: 3+ tiros (1,33) · Ermedin Demirovic 7/8
 - Southampton gana alguna de las dos partes (1,30) · Preston 9/10 · Southampton 8/10
+- Ante Budimir: 1+ tiros a puerta (1,36) · Ante Budimir 8/9
+- Academico Viseu gana alguna de las dos partes (1,73) · Nacional 8/10 · Academico Viseu 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 16:30 | Fortuna Sittard o empate | resultado | 1.28 | 85% | Fortuna Sittard 8/10 · Telstar 9/10 |
-| 15:00 | Más de 1,5 goles en Torino–Lecce | goles | 1.33 | 90% | Torino 9/10 · Lecce 9/10 |
+| 15:30 | Santiago Castaneda: 1+ tiros | jugador | 1.28 | 90% | Santiago Castaneda 9/10 |
+| 15:00 | Más de 1,5 goles en Torino–Lecce | goles | 1.28 | 90% | Torino 9/10 · Lecce 9/10 |
 | 13:30 | Más de 1,5 goles en Leeds–Tottenham | goles | 1.30 | 80% | Leeds 8/10 · Tottenham 8/10 |
 | 18:00 | Más de 1,5 goles en Parma–Bologna | goles | 1.36 | 80% | Parma 9/10 · Bologna 7/10 |
 | 18:30 | Ermedin Demirovic: 3+ tiros | jugador | 1.33 | 88% | Ermedin Demirovic 7/8 |
-| 15:30 | Santiago Castaneda: 1+ tiros | jugador | 1.62 | 90% | Santiago Castaneda 9/10 |
 | 16:00 | Southampton gana alguna de las dos partes | resultado | 1.30 | 85% | Preston 9/10 · Southampton 8/10 |
 | 16:00 | Gana el Southampton | resultado | 1.55 | 65% | Preston 7/10 · Southampton 6/10 |
+| 18:30 | Ante Budimir: 1+ tiros a puerta | jugador | 1.36 | 89% | Ante Budimir 8/9 |
+| 16:30 | Academico Viseu gana alguna de las dos partes | resultado | 1.73 | 75% | Nacional 8/10 · Academico Viseu 7/10 |
 | 18:30 | Gana el Manchester City | resultado | 1.67 | 60% | Nottingham Forest 6/10 · Manchester City 6/10 |
 | 15:00 | Frosinone gana alguna de las dos partes | resultado | 1.73 | 75% | Cagliari 7/10 · Frosinone 8/10 |
-| 16:30 | Academico Viseu gana alguna de las dos partes | resultado | 1.73 | 75% | Nacional 8/10 · Academico Viseu 7/10 |
 | 15:00 | Frosinone o empate | resultado | 1.44 | 80% | Cagliari 7/10 · Frosinone 9/10 |
 | 16:30 | Academico Viseu o empate | resultado | 1.40 | 75% | Nacional 8/10 · Academico Viseu 7/10 |
 | 13:30 | Tottenham o empate | resultado | 1.50 | 75% | Leeds 8/10 · Tottenham 7/10 |
@@ -127,18 +136,30 @@ _Generado el 2026-11-03 08:17 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Brighton o empate (1,28) · Brighton 9/10 · Brentford 7/10
 - Más de 1,5 goles en Sunderland–Chelsea (1,25) · Sunderland 8/10 · Chelsea 10/10
 
-**💥 Combi cuota 3-4 · cuota 3,24**
+**💥 Combi cuota 3-4 · cuota 3,17**
 - Más de 1,5 goles en Estoril–Maritimo (1,28) · Estoril 8/10 · Maritimo 10/10
+- Más de 1,5 goles en Sporting Gijon–Valladolid (1,33) · Sporting Gijon 8/10 · Valladolid 8/10
 - Carlos Augusto: 1+ tiros (1,33) · Carlos Augusto 6/7
 - Stefan Dzodic: 1+ tiros (1,40) · Stefan Dzodic 8/9
+
+**🤪 Combi loca · cuota 13,27**
+- Más de 1,5 goles en Fiorentina–Juventus (1,25) · Fiorentina 10/10 · Juventus 10/10
+- Gustavo Varela: 1+ tiros a puerta (1,40) · Gustavo Varela 9/10
+- Wout Weghorst: 1+ tiros a puerta (1,25) · Wout Weghorst 9/10
 - Más de 1,5 goles en Genoa–AC Milan (1,36) · Genoa 7/10 · AC Milan 10/10
+- Pathe Mboup: 2+ tiros (1,28) · Pathe Mboup 8/9
+- Utrecht o empate (1,40) · Utrecht 7/10 · NEC Nijmegen 9/10
+- Bayer Leverkusen gana alguna de las dos partes (1,36) · 1. FC Köln 7/10 · Bayer Leverkusen 8/10
+- Gana el Bournemouth (1,83) · Ipswich 5/10 · Bournemouth 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 15:00 | Brighton o empate | resultado | 1.28 | 80% | Brighton 9/10 · Brentford 7/10 |
 | 15:00 | Más de 1,5 goles en Sunderland–Chelsea | goles | 1.25 | 90% | Sunderland 8/10 · Chelsea 10/10 |
 | 16:30 | Más de 1,5 goles en Estoril–Maritimo | goles | 1.28 | 90% | Estoril 8/10 · Maritimo 10/10 |
+| 18:30 | Más de 1,5 goles en Sporting Gijon–Valladolid | goles | 1.33 | 80% | Sporting Gijon 8/10 · Valladolid 8/10 |
 | 18:00 | Carlos Augusto: 1+ tiros | jugador | 1.33 | 86% | Carlos Augusto 6/7 |
+| 20:45 | Más de 1,5 goles en Fiorentina–Juventus | goles | 1.25 | 100% | Fiorentina 10/10 · Juventus 10/10 |
 | 16:15 | Stefan Dzodic: 1+ tiros | jugador | 1.40 | 89% | Stefan Dzodic 8/9 |
 | 15:00 | Gustavo Varela: 1+ tiros a puerta | jugador | 1.40 | 90% | Gustavo Varela 9/10 |
 | 14:30 | Wout Weghorst: 1+ tiros a puerta | jugador | 1.25 | 90% | Wout Weghorst 9/10 |

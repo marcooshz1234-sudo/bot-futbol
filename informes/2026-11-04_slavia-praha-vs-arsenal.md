@@ -1,7 +1,7 @@
 # Slavia Praha – Arsenal
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Sinobo Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:15_

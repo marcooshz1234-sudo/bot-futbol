@@ -1,7 +1,7 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_

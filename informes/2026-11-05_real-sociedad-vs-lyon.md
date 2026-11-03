@@ -1,7 +1,7 @@
 # Real Sociedad – Lyon
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Anoeta Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:15_

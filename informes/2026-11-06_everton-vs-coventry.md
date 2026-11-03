@@ -1,25 +1,25 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 14:08._
 
 ## Cuotas Bet365
-_Actualizadas: 02/11 08:31_
+_Actualizadas: 03/11 14:07_
 
 - **1X2:** 1 **1.70**  ·  X **3.90**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **2.10**
-- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.25** · menos **4.00**
+    - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **3.00** · menos **1.40**
+    - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.50** · menos **1.11**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
@@ -27,24 +27,24 @@ _Actualizadas: 02/11 08:31_
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.40** · menos **1.30**
+    - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.38**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.40**  ·  2 **2.62**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **5.50**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **5.50**
 - **Win Both Halves:** 1 **4.50**  ·  2 **19.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **13.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.60**
-- **Away Player Shots On Target Total:** Caleb Yirenkyi **34.00**  ·  Hayden Hackney **51.00**  ·  Frank Onyeka **51.00**  ·  Carlos Alcaraz **41.00**  ·  Stephen Mfuni **29.00**  ·  Brandon Thomas-Asante **41.00**  ·  Ellis Simms **9.50**  ·  Yann Gboho **23.00**  ·  Matt Grimes **101.00**  ·  Ephron Mason-Clark **29.00**  ·  Jack Rudoni **15.00**  ·  Tatsuhiro Sakamoto **67.00**  ·  Victor Torp **51.00**  ·  Josh Eccles **81.00**  ·  Milan van Ewijk **126.00**  ·  Bobby Thomas **21.00**  ·  Jay Dasilva **151.00**  ·  Joel Latibeaudiere **26.00**  ·  Gustavo Hamer **51.00**  ·  Ainsley Maitland-Niles **67.00**  ·  Sidiki Cherif **26.00**  ·  Merlin Rohl **41.00**  ·  Vitaliy Mykolenko **81.00**  ·  Christian Norgaard **29.00**  ·  Braiden Graham **13.00**  ·  Taiwo Awoniyi **11.00**  ·  Kiernan Dewsbury-Hall **29.00**  ·  Jack Grealish **34.00**  ·  Ethan Pinnock **21.00**  ·  Jake O'Brien **13.00**  ·  James Garner **51.00**  ·  James Tarkowski **11.00**  ·  Jarrad Branthwaite **11.00**  ·  Michael Keane **11.00**  ·  Tyler Dibling **29.00**  ·  Brennan Johnson **21.00**  ·  Loum Tchaouna **51.00**  ·  Tyrique George **19.00**  ·  Thierno Barry **7.00**  ·  Harrison Armstrong **34.00**
-- **Anytime Goal Scorer:** Caleb Yirenkyi **7.50**  ·  Hayden Hackney **6.50**  ·  Frank Onyeka **10.00**  ·  Carlos Alcaraz **4.50**  ·  Stephen Mfuni **12.00**  ·  Brandon Thomas-Asante **4.50**  ·  Ellis Simms **3.75**  ·  Yann Gboho **3.75**  ·  Matt Grimes **12.00**  ·  Ephron Mason-Clark **4.50**  ·  Jack Rudoni **6.50**  ·  Tatsuhiro Sakamoto **7.00**  ·  Victor Torp **5.50**  ·  Josh Eccles **9.50**  ·  Milan van Ewijk **15.00**  ·  Bobby Thomas **12.00**  ·  Jay Dasilva **19.00**  ·  Joel Latibeaudiere **19.00**  ·  Gustavo Hamer **5.50**  ·  Ainsley Maitland-Niles **7.50**  ·  Sidiki Cherif **4.33**  ·  Merlin Rohl **5.00**  ·  Vitaliy Mykolenko **8.50**  ·  Christian Norgaard **7.50**  ·  Braiden Graham **2.88**  ·  Taiwo Awoniyi **3.50**  ·  Kiernan Dewsbury-Hall **3.40**  ·  Jack Grealish **3.60**  ·  Ethan Pinnock **15.00**  ·  Jake O'Brien **7.50**  ·  James Garner **5.50**  ·  James Tarkowski **7.50**  ·  Jarrad Branthwaite **7.50**  ·  Michael Keane **7.50**  ·  Tyler Dibling **4.50**  ·  Brennan Johnson **3.40**  ·  Loum Tchaouna **5.50**  ·  Tyrique George **3.00**  ·  Thierno Barry **2.50**  ·  Harrison Armstrong **6.50**
-- **Player to Score or Assist:** Caleb Yirenkyi **4.75**  ·  Hayden Hackney **3.20**  ·  Frank Onyeka **5.50**  ·  Carlos Alcaraz **2.60**  ·  Stephen Mfuni **8.00**  ·  Brandon Thomas-Asante **3.10**  ·  Ellis Simms **3.10**  ·  Yann Gboho **2.75**  ·  Matt Grimes **6.50**  ·  Ephron Mason-Clark **2.88**  ·  Jack Rudoni **3.60**  ·  Tatsuhiro Sakamoto **4.00**  ·  Victor Torp **3.25**  ·  Josh Eccles **6.00**  ·  Milan van Ewijk **6.00**  ·  Bobby Thomas **7.50**  ·  Jay Dasilva **9.50**  ·  Joel Latibeaudiere **11.00**  ·  Gustavo Hamer **3.00**  ·  Ainsley Maitland-Niles **3.40**  ·  Sidiki Cherif **3.10**  ·  Merlin Rohl **2.88**  ·  Vitaliy Mykolenko **5.00**  ·  Christian Norgaard **4.33**  ·  Braiden Graham **2.25**  ·  Taiwo Awoniyi **2.88**  ·  Kiernan Dewsbury-Hall **2.20**  ·  Jack Grealish **1.95**  ·  Ethan Pinnock **10.00**  ·  Jake O'Brien **5.50**  ·  James Garner **2.75**  ·  James Tarkowski **5.50**  ·  Jarrad Branthwaite **5.50**  ·  Michael Keane **5.50**  ·  Tyler Dibling **2.75**  ·  Brennan Johnson **2.40**  ·  Loum Tchaouna **4.00**  ·  Tyrique George **2.20**  ·  Thierno Barry **2.10**  ·  Harrison Armstrong **3.50**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.62**
+- **Away Player Shots On Target Total:** Caleb Yirenkyi **34.00**  ·  Hayden Hackney **51.00**  ·  Frank Onyeka **51.00**  ·  Carlos Alcaraz **41.00**  ·  Stephen Mfuni **29.00**  ·  Brandon Thomas-Asante **41.00**  ·  Ellis Simms **9.50**  ·  Yann Gboho **23.00**  ·  Matt Grimes **101.00**  ·  Ephron Mason-Clark **29.00**  ·  Jack Rudoni **15.00**  ·  Tatsuhiro Sakamoto **67.00**  ·  Victor Torp **51.00**  ·  Josh Eccles **81.00**  ·  Milan van Ewijk **126.00**  ·  Bobby Thomas **17.00**  ·  Jay Dasilva **151.00**  ·  Joel Latibeaudiere **26.00**  ·  Gustavo Hamer **51.00**  ·  Ainsley Maitland-Niles **67.00**  ·  Sidiki Cherif **23.00**  ·  Merlin Rohl **41.00**  ·  Vitaliy Mykolenko **81.00**  ·  Christian Norgaard **29.00**  ·  Braiden Graham **13.00**  ·  Taiwo Awoniyi **11.00**  ·  Kiernan Dewsbury-Hall **29.00**  ·  Jack Grealish **34.00**  ·  Ethan Pinnock **21.00**  ·  Jake O'Brien **13.00**  ·  James Garner **51.00**  ·  James Tarkowski **11.00**  ·  Jarrad Branthwaite **11.00**  ·  Michael Keane **11.00**  ·  Tyler Dibling **29.00**  ·  Brennan Johnson **21.00**  ·  Loum Tchaouna **51.00**  ·  Tyrique George **19.00**  ·  Thierno Barry **6.50**  ·  Harrison Armstrong **34.00**
+- **Anytime Goal Scorer:** Caleb Yirenkyi **7.50**  ·  Hayden Hackney **6.00**  ·  Frank Onyeka **10.00**  ·  Carlos Alcaraz **4.50**  ·  Stephen Mfuni **12.00**  ·  Brandon Thomas-Asante **4.50**  ·  Ellis Simms **3.75**  ·  Yann Gboho **3.75**  ·  Matt Grimes **12.00**  ·  Ephron Mason-Clark **4.50**  ·  Jack Rudoni **6.00**  ·  Tatsuhiro Sakamoto **7.00**  ·  Victor Torp **5.50**  ·  Josh Eccles **9.50**  ·  Milan van Ewijk **15.00**  ·  Bobby Thomas **10.00**  ·  Jay Dasilva **19.00**  ·  Joel Latibeaudiere **19.00**  ·  Gustavo Hamer **5.50**  ·  Ainsley Maitland-Niles **7.50**  ·  Sidiki Cherif **3.75**  ·  Merlin Rohl **4.75**  ·  Vitaliy Mykolenko **8.50**  ·  Christian Norgaard **7.50**  ·  Braiden Graham **2.75**  ·  Taiwo Awoniyi **3.50**  ·  Kiernan Dewsbury-Hall **3.25**  ·  Jack Grealish **3.60**  ·  Ethan Pinnock **15.00**  ·  Jake O'Brien **7.50**  ·  James Garner **5.50**  ·  James Tarkowski **7.50**  ·  Jarrad Branthwaite **7.50**  ·  Michael Keane **7.50**  ·  Tyler Dibling **4.50**  ·  Brennan Johnson **3.25**  ·  Loum Tchaouna **5.50**  ·  Tyrique George **3.00**  ·  Thierno Barry **2.50**  ·  Harrison Armstrong **6.00**
+- **Player to Score or Assist:** Caleb Yirenkyi **4.75**  ·  Hayden Hackney **3.20**  ·  Frank Onyeka **5.50**  ·  Carlos Alcaraz **2.50**  ·  Stephen Mfuni **8.00**  ·  Brandon Thomas-Asante **3.10**  ·  Ellis Simms **3.10**  ·  Yann Gboho **2.62**  ·  Matt Grimes **6.50**  ·  Ephron Mason-Clark **2.88**  ·  Jack Rudoni **3.50**  ·  Tatsuhiro Sakamoto **3.75**  ·  Victor Torp **3.25**  ·  Josh Eccles **6.00**  ·  Milan van Ewijk **6.00**  ·  Bobby Thomas **7.00**  ·  Jay Dasilva **9.00**  ·  Joel Latibeaudiere **11.00**  ·  Gustavo Hamer **3.00**  ·  Ainsley Maitland-Niles **3.40**  ·  Sidiki Cherif **2.88**  ·  Merlin Rohl **2.88**  ·  Vitaliy Mykolenko **4.75**  ·  Christian Norgaard **4.00**  ·  Braiden Graham **2.25**  ·  Taiwo Awoniyi **2.75**  ·  Kiernan Dewsbury-Hall **2.10**  ·  Jack Grealish **1.95**  ·  Ethan Pinnock **10.00**  ·  Jake O'Brien **5.50**  ·  James Garner **2.75**  ·  James Tarkowski **5.50**  ·  Jarrad Branthwaite **5.50**  ·  Michael Keane **5.50**  ·  Tyler Dibling **2.75**  ·  Brennan Johnson **2.40**  ·  Loum Tchaouna **4.00**  ·  Tyrique George **2.20**  ·  Thierno Barry **2.10**  ·  Harrison Armstrong **3.50**
 
 ## Estadísticas de equipo
 | | Everton (total) | Everton en casa | Coventry (total) | Coventry fuera |
@@ -184,14 +184,14 @@ _Goles esperados: local 1,68 · visitante 0,84 · córners esperados 9,4._
 | Doble oportunidad: X2 | 43% | 45% | 44% | 2.10 | -8% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 81% | 79% | 80% | 1.20 | -4% |
-| Ambos marcan: No | 54% | 47% | 50% | 2.00 | +0% |
-| Ambos marcan: Sí | 46% | 53% | 50% | 1.75 | -13% |
-| Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -8% |
+| Ambos marcan: No | 54% | 45% | 49% | 2.05 | +1% |
+| Ambos marcan: Sí | 46% | 55% | 51% | 1.70 | -14% |
+| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -9% |
 | Goles más/menos: Más de 2.5 | 46% | 55% | 51% | 1.73 | -13% |
-| Goles más/menos: Más de 3.5 | 25% | 32% | 28% | 3.00 | -15% |
-| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +4% |
+| Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
 | Goles más/menos: Menos de 2.5 | 54% | 45% | 49% | 2.10 | +4% |
-| Goles más/menos: Menos de 3.5 | 75% | 68% | 72% | 1.40 | +0% |
+| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
@@ -201,9 +201,9 @@ _Goles esperados: local 1,68 · visitante 0,84 · córners esperados 9,4._
 | Goles del local: Menos de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
 | Goles del local: Menos de 2.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -13% |
-| Goles del visitante: Más de 1.5 | 21% | 28% | 24% | 3.40 | -18% |
+| Goles del visitante: Más de 1.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +3% |
-| Goles del visitante: Menos de 1.5 | 79% | 72% | 76% | 1.30 | -1% |
+| Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
 | 1X2 descanso: X | 43% | 39% | 41% | 2.38 | -2% |
 | 1X2 descanso: 1 | 40% | 41% | 41% | 2.25 | -8% |
 
