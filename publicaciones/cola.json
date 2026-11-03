@@ -2818,6 +2818,7 @@
     "directo": true,
     "resultado": "verde",
     "forzar": true,
-    "nota": "03/11 22:30: captura de Marcos (dinero recortado). Fecha provisional: se adelanta cuando acaben los 9 partidos y estén todos verdes"
+    "nota": "03/11 22:30: captura de Marcos (dinero recortado). Fecha provisional: se adelanta cuando acaben los 9 partidos y estén todos verdes",
+    "caducada": "cancelado"
   }
 ]
