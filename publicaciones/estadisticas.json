@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 14:58",
+ "actualizado": "2026-11-03 15:08",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1469,
-   "hoy": 39,
+   "seguidores": 1471,
+   "hoy": 41,
    "serie": [
     1225,
     1281,
@@ -24,7 +24,7 @@
     1375,
     1407,
     1430,
-    1469
+    1471
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 222,
-   "hoy": 8,
+   "seguidores": 223,
+   "hoy": 9,
    "serie": [
     113,
     126,
@@ -50,17 +50,17 @@
     176,
     207,
     214,
-    222
+    223
    ]
   }
  },
- "total": 1714,
- "total_hoy": 48,
+ "total": 1717,
+ "total_hoy": 51,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "15:10",
   "dia": "2026-11-03",
-  "titulo": "Champions · 13 picks para hoy (2/3)"
+  "titulo": "Combi del martes x2,54"
  },
  "ayer": {
   "aciertos": 15,
@@ -138,19 +138,19 @@
   },
   "2026-11-03": {
    "instagram": 23,
-   "threads": 1469,
+   "threads": 1471,
    "facebook": 0,
-   "telegram": 222
+   "telegram": 223
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 50,
+   "posts": 51,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
