@@ -929,6 +929,8 @@ def jugadores_estrella(fid):
     hist = P.historial()
     loc, vis = pa["teams"]["home"], pa["teams"]["away"]
     cal = calibracion_mercados()
+    # 03/11 (Marcos: «Bastoni está suspendido»): fuera los lesionados y sancionados que da la API
+    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") == "Missing Fixture"]
     base = {"partido_id": fid, "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
             "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
             "local": loc["name"], "visitante": vis["name"]}
@@ -944,7 +946,7 @@ def jugadores_estrella(fid):
                 n = int(float(n))
             except (TypeError, ValueError):
                 continue
-            if not 1.25 <= c <= 2.0:
+            if not 1.25 <= c <= 2.0 or any(P.mismo_jugador(nombre, f) for f in fuera):
                 continue
             for eq in (loc, vis):
                 regs, tit = [], 0
