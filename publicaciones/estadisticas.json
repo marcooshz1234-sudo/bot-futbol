@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
- "actualizado": "2026-11-03 22:43",
-=======
  "actualizado": "2026-11-03 22:53",
->>>>>>> Stashed changes
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -19,13 +15,8 @@
    ]
   },
   "threads": {
-<<<<<<< Updated upstream
-   "seguidores": 1507,
-   "hoy": 77,
-=======
    "seguidores": 1508,
    "hoy": 78,
->>>>>>> Stashed changes
    "serie": [
     1225,
     1281,
@@ -33,11 +24,7 @@
     1375,
     1407,
     1430,
-<<<<<<< Updated upstream
-    1507
-=======
     1508
->>>>>>> Stashed changes
    ]
   },
   "facebook": {
@@ -67,13 +54,8 @@
    ]
   }
  },
-<<<<<<< Updated upstream
- "total": 1761,
- "total_hoy": 95,
-=======
  "total": 1762,
  "total_hoy": 96,
->>>>>>> Stashed changes
  "likes_hoy": 0,
  "proximo": {
   "hora": "23:59",
@@ -156,11 +138,7 @@
   },
   "2026-11-03": {
    "instagram": 23,
-<<<<<<< Updated upstream
-   "threads": 1507,
-=======
    "threads": 1508,
->>>>>>> Stashed changes
    "facebook": 0,
    "telegram": 231
   }
