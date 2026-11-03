@@ -816,8 +816,8 @@
     "cuentas": {
       "verde": 2,
       "rojo": 1,
-      "pendiente": 14,
-      "sin_datos": 1,
+      "pendiente": 13,
+      "sin_datos": 2,
       "no_jugo": 0,
       "sin_resolver": 15
     },
@@ -879,7 +879,7 @@
       {
         "id": "2026-11-03-combi-multi-bis",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x20,28! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -932,10 +932,10 @@
       }
     ],
     "picks": {
-      "verde": 28,
+      "verde": 29,
       "rojo": 1,
       "total": 71
     },
-    "texto": "📊 BALANCE DEL MARTES: 2 DE 3 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 5,49 · pendiente\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,67\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ CHAMPIONS · 12 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 11,00 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,88! 🍀 · 2,88 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,21! 🍀 · pendiente\n⏳ 🏆⚽ CHAMPIONS · 12 PICKS PARA HOY 🍀 (2/3) · pendiente\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,54! 🍀 · 2,54\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x20,28! 🍀 · pendiente\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x5,99! 🤪 · 5,99 · faltan datos\n❌ 🏆⚽ CHAMPIONS · 8 PICKS PARA HOY 🍀 (3/3)\n⏳ ⭐ BARCELONA 🆚 ASTON VILLA ⭐ · 4,06 · pendiente\n⏳ ⭐ ATLETICO MADRID 🆚 BAYERN MÜNCHEN ⭐ · 5,94 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,24 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 3,97 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 3,31 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,41 · pendiente\n\n✅ 2 acertadas · ❌ 1 falladas · ⏳ 15 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 2 DE 3 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 5,49 · pendiente\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,67\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ CHAMPIONS · 12 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 11,00 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,88! 🍀 · 2,88 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,21! 🍀 · pendiente\n⏳ 🏆⚽ CHAMPIONS · 12 PICKS PARA HOY 🍀 (2/3) · pendiente\n✅ 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES x2,54! 🍀 · 2,54\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x20,28! 🍀 · faltan datos\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MARTES x5,99! 🤪 · 5,99 · faltan datos\n❌ 🏆⚽ CHAMPIONS · 8 PICKS PARA HOY 🍀 (3/3)\n⏳ ⭐ BARCELONA 🆚 ASTON VILLA ⭐ · 4,06 · pendiente\n⏳ ⭐ ATLETICO MADRID 🆚 BAYERN MÜNCHEN ⭐ · 5,94 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,24 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 3,97 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 3,31 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,41 · pendiente\n\n✅ 2 acertadas · ❌ 1 falladas · ⏳ 15 sin resolver"
   }
 }
