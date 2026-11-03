@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 22:23",
+ "actualizado": "2026-11-03 22:33",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1506,
-   "hoy": 76,
+   "seguidores": 1507,
+   "hoy": 77,
    "serie": [
     1225,
     1281,
@@ -24,7 +24,7 @@
     1375,
     1407,
     1430,
-    1506
+    1507
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1760,
- "total_hoy": 94,
+ "total": 1761,
+ "total_hoy": 95,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
-  "dia": "2026-11-04",
-  "titulo": "Combi Fc Porto vs Napoli"
+  "hora": "23:59",
+  "dia": "2026-11-03",
+  "titulo": "Verde x584 9 de 9 en champions"
  },
  "ayer": {
   "aciertos": 15,
@@ -138,7 +138,7 @@
   },
   "2026-11-03": {
    "instagram": 23,
-   "threads": 1506,
+   "threads": 1507,
    "facebook": 0,
    "telegram": 231
   }
