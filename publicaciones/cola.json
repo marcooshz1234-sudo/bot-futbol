@@ -2820,5 +2820,26 @@
     "forzar": true,
     "nota": "03/11 22:30: captura de Marcos (dinero recortado). Fecha provisional: se adelanta cuando acaben los 9 partidos y estén todos verdes",
     "caducada": "cancelado"
+  },
+  {
+    "id": "2026-11-03-verde-auto-2026-11-03-combi-tres-bis",
+    "fecha": "2026-11-03T23:15",
+    "texto": "✅💚 ¡VERDE x2,54! 🔥⚽ COMBILOCAS — ¡COMBI DEL MARTES! 💚✅\n\n✅ Harry Kane: 3+ tiros\n✅ Johan Manzambi: 2+ tiros\n✅ Más de 2,5 fueras de juego en Bodo/Glimt–Lille\n\n🎯 Cuota 2,54\n💶 10€ → 25,40€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-03-combi-tres-bis"
+  },
+  {
+    "id": "2026-11-03-balance-auto",
+    "fecha": "2026-11-03T23:15",
+    "texto": "📊 BALANCE DEL MARTES · 44 DE 66 PICKS EN VERDE 🍀\n\n🎯 67 % de acierto\n✅ 44 acertados · ❌ 22 fallados\n\n🔥 Lo mejor: córners 5/5 · faltas 3/3\n⚽ Ganadores: 12/18\n😤 Lo peor: goles 5/12\n\n💚 Mañana más picks GRATIS en @combilocas\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
