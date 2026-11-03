@@ -45,7 +45,7 @@ def lineas(texto):
             continue
         if re.search(r"(?i)pleno|¡\s*verde|otro verde|\d+ de \d+!", l):   # 02/11: títulos («✅ ¡PLENO 10 DE 10!»)
             continue
-        if not m and not re.match(r"^\s*(?:✅|\d[.)]|\d️⃣|[🇦-🇿])", l):
+        if not m and not re.match(r"^\s*(?:✅|\d[.)]|\d️⃣|[🇦-🇿]|🏴)", l):   # 03/11: 🏴 (Inglaterra, Escocia) también
             continue
         cuerpo = l.strip()[:m.start()].strip() if m else l.strip()
         cuerpo = re.sub(r"^[^A-Za-zÁÉÍÓÚáéíóúÑñ]*", "", cuerpo)              # ✅1. 🔴 1️⃣ banderas...

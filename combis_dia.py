@@ -174,7 +174,7 @@ def pool_partido(ex, hist, ap):
     import contexto
     pos = contexto.posiciones(pa["league"]["id"], pa["fixture"]["date"], loc["id"], vis["id"])
     hl, hv = hist.get(loc["id"], []), hist.get(vis["id"], [])
-    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") == "Missing Fixture"]
+    les = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales()
     lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
     fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
     pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
@@ -300,6 +300,15 @@ def pos_jugador(eq, pid, partidos):
             if j["id"] == pid and j.get("pos"):
                 return j["pos"]
     return None
+
+
+BAJA = ("Missing Fixture", "Questionable")   # 03/11 (Marcos): también los dudosos, fuera
+
+
+def bajas_manuales():
+    """03/11 (Marcos: «Olise lesionado», la API no lo daba): datos/bajas_manuales.json."""
+    from bot import DATOS
+    return list((leer(DATOS / "bajas_manuales.json", {}) or {}).get("jugadores") or [])
 
 
 def suelto_no(p):
@@ -930,7 +939,7 @@ def jugadores_estrella(fid):
     loc, vis = pa["teams"]["home"], pa["teams"]["away"]
     cal = calibracion_mercados()
     # 03/11 (Marcos: «Bastoni está suspendido»): fuera los lesionados y sancionados que da la API
-    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") == "Missing Fixture"]
+    fuera = [l["jugador"] for l in ex.get("lesiones") or [] if l.get("tipo") in BAJA] + bajas_manuales()
     base = {"partido_id": fid, "fecha": datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
             "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
             "local": loc["name"], "visitante": vis["name"]}

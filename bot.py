@@ -407,6 +407,27 @@ def recoger(api):
     ]
     proximos.sort(key=lambda p: p["fixture"]["date"])
     print(f"- Próximos partidos en {DIAS_VISTA} días: {len(proximos)}")
+    # 03/11 (Marcos): bandera del país de cada equipo en los posts; los de copas europeas que no tenemos, a la API
+    try:
+        import semana
+        paises = leer(DATOS / "paises_equipos.json", {}) or {}
+        pedidos = 0
+        for p in proximos:
+            if p["league"]["id"] not in (2, 3, 848):
+                continue
+            for lado in ("home", "away"):
+                t = p["teams"][lado]
+                if pedidos >= 40 or semana.pais_equipo(t["name"]) or t["name"] in paises:
+                    continue
+                r = api.get("teams", id=t["id"]) or []
+                pedidos += 1
+                if r and (r[0].get("team") or {}).get("country"):
+                    paises[t["name"]] = r[0]["team"]["country"]
+        if pedidos:
+            escribir(DATOS / "paises_equipos.json", paises)
+            print(f"- Países de equipos pedidos a la API: {pedidos}")
+    except Exception as e:
+        print("países de equipos:", str(e)[:150])
     for p in proximos:
         fid = p["fixture"]["id"]
         ruta = EXTRA / f"{fid}.json"

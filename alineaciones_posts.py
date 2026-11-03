@@ -98,10 +98,13 @@ def cuotas_sel():
     return out
 
 
+MARCA = r"^(?:✅|🏴\S*|[🇦-🇿]{2})"   # 03/11: las patas pueden empezar por la bandera del equipo
+
+
 def quitar_patas(p, indices, cuotas):
     """Quita del texto (y de sel) las patas con esos índices; recalcula la cuota. None si no se puede."""
     lineas = p["texto"].split("\n")
-    patas = [i for i, l in enumerate(lineas) if re.match(r"^✅(\d+\.)? ", l)]
+    patas = [i for i, l in enumerate(lineas) if re.match(MARCA + r"(\d+\.)? ", l)]
     if len(patas) != len(p.get("sel") or []) or not patas:
         return None
     quedan = [k for k in range(len(patas)) if k not in indices]
@@ -121,7 +124,7 @@ def quitar_patas(p, indices, cuotas):
             n += 1
             l = re.sub(r"^✅\d+\. ", f"✅{n}. ", l)
         nuevas.append(l)
-    quitadas = [re.sub(r"^✅(\d+\.)? ", "", lineas[patas[k]]).split(" · ")[0] for k in indices]
+    quitadas = [re.sub(MARCA + r"(\d+\.)? ", "", lineas[patas[k]]).split(" · ")[0] for k in indices]
     nuevas = [l for l in nuevas if not (l.startswith("📊") and any(q in l for q in quitadas))]
     if nuevas:   # la cuota del título (p. ej. «COMBINADA x3,41»)
         nuevas[0] = re.sub(r"x\d+,\d\d", "x" + num(total), nuevas[0])

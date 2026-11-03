@@ -35,11 +35,18 @@ def pais_equipo(nombre):
                     continue
                 for lado in ("home", "away"):
                     idx.setdefault(x["teams"][lado]["name"], x["league"].get("country"))
+        idx.update(leer(DATOS / "paises_equipos.json", {}) or {})   # 03/11: equipos de copas europeas (bot.py los pide a la API)
         pais_equipo.idx = idx
     return pais_equipo.idx.get(nombre)
 
 
-BANDERAS = {"Spain": "🇪🇸", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Italy": "🇮🇹", "Germany": "🇩🇪", "France": "🇫🇷", "Portugal": "🇵🇹",
+BANDERAS = {"Slovakia": "🇸🇰", "Hungary": "🇭🇺", "Slovenia": "🇸🇮", "Kazakhstan": "🇰🇿", "Cyprus": "🇨🇾", "Armenia": "🇦🇲",
+            "Lithuania": "🇱🇹", "Georgia": "🇬🇪", "Gibraltar": "🇬🇮", "Andorra": "🇦🇩", "Azerbaijan": "🇦🇿", "Bulgaria": "🇧🇬",
+            "Sweden": "🇸🇪", "Israel": "🇮🇱", "Romania": "🇷🇴", "Finland": "🇫🇮", "Ireland": "🇮🇪", "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "Iceland": "🇮🇸", "Latvia": "🇱🇻", "Estonia": "🇪🇪", "Albania": "🇦🇱", "Montenegro": "🇲🇪", "Bosnia": "🇧🇦",
+            "Moldova": "🇲🇩", "Kosovo": "🇽🇰", "Belarus": "🇧🇾", "Russia": "🇷🇺", "Malta": "🇲🇹", "Luxembourg": "🇱🇺",
+            "Faroe-Islands": "🇫🇴", "North-Macedonia": "🇲🇰", "Brazil": "🇧🇷", "Argentina": "🇦🇷", "USA": "🇺🇸", "Mexico": "🇲🇽",
+            "Spain": "🇪🇸", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Italy": "🇮🇹", "Germany": "🇩🇪", "France": "🇫🇷", "Portugal": "🇵🇹",
             "Netherlands": "🇳🇱", "Austria": "🇦🇹", "Belgium": "🇧🇪", "Turkey": "🇹🇷", "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
             "Norway": "🇳🇴", "Denmark": "🇩🇰", "Greece": "🇬🇷", "Switzerland": "🇨🇭", "Serbia": "🇷🇸",
             "Croatia": "🇭🇷", "Czech-Republic": "🇨🇿", "Ukraine": "🇺🇦", "Poland": "🇵🇱"}

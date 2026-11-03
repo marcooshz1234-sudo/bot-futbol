@@ -33,10 +33,32 @@ def num(c):
     return f"{c:.2f}".replace(".", ",")
 
 
+def bandera_pick(p):
+    """03/11 (Marcos): en los posts de varios partidos, la bandera del país del EQUIPO del pick (Olise → 🇩🇪, Shakhtar →
+    🇺🇦). Si el pick es del partido entero, la del local. Si no se sabe, la de la competición."""
+    import semana
+    import picks as P
+    eq = p.get("equipo")
+    if not eq:
+        m = p.get("mercado", "")
+        lado_ = P.lado_pick(p)
+        if m in ("Shots.1x2", "ShotOnTarget 1x2"):
+            lado_ = {"Home": "local", "Away": "visitante"}.get(p.get("opcion"))
+        elif lado_ is None and (" Home" in m or m.startswith("Home")):
+            lado_ = "local"
+        elif lado_ is None and (" Away" in m or m.startswith("Away")):
+            lado_ = "visitante"
+        eq = p.get("visitante") if lado_ == "visitante" else p.get("local")
+    pais = semana.pais_equipo(eq) if eq else None
+    # si no se sabe el país, ✅ (las banderas de competición como ⭐ no las entiende el seguimiento de picks)
+    return semana.BANDERAS.get(pais) or "✅"
+
+
 def lista(picks):
     """27/10: como los posts que más gustaron: una línea por selección con la bandera, sin cuota por pata
-    ni números (la cuota de cada pata va en el post como dato aparte: "cuotas")."""
-    return "\n".join(f"✅ {BANDERA.get(p.get('competicion'), '⚽')} {p['texto']}" for p in picks)
+    ni números (la cuota de cada pata va en el post como dato aparte: "cuotas").
+    03/11 (Marcos): la bandera es la del país del equipo del pick, en lugar del ✅."""
+    return "\n".join(f"{bandera_pick(p)} {p['texto']}" for p in picks)
 
 
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
@@ -295,7 +317,7 @@ def texto_multi(sel, cuota, nombre):
         aprox = any(p.get("estimada") for p in lista)
         lineas = [f"🔥⚽ COMBILOCAS — ¡COMBI DE {len(partidos)} PARTIDOS x{num(cuota)}! 🍀", ""]
         for l in partidos.values():
-            lineas += [f"✅ {p['texto']}" for p in l]
+            lineas += [f"{bandera_pick(p)} {p['texto']}" for p in l]
         lineas += ["", "⚽ 1 o 2 cosas de cada partido, de las que más salen ✅" + (" (cuota aprox.)" if aprox else ""),
                    "", "💚 Más picks GRATIS en @combilocas"]
         texto = "\n".join(lineas)
@@ -322,7 +344,7 @@ def texto_lista_europa(sel, i, n):
         return t
     while True:
         lineas = [f"🏆⚽ {titulo} · {len(sel)} PICKS PARA HOY 🍀" + (f" ({i}/{n})" if n > 1 else ""), ""]
-        lineas += [f"✅ {corto_pick(p['texto'])}" for p in sel]
+        lineas += [f"{bandera_pick(p)} {corto_pick(p['texto'])}" for p in sel]
         lineas += ["", "👉 ¡Coge los que más te gusten! ✅", "", "💚 Más picks GRATIS en @combilocas"]
         texto = "\n".join(lineas)
         if len(texto) <= 495 or len(sel) <= 10:
