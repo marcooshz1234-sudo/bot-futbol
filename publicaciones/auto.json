@@ -1787,7 +1787,7 @@
   {
     "id": "2026-11-03-combi-partido-1635695",
     "fecha": "2026-11-03T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 MANCHESTER UNITED HACE 3+ CÓRNERS [x1.32]\n✅ BRYAN MBEUMO: 1+ TIROS A PUERTA [x1.40]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ MÁS DE 27,5 TIROS [x1.80]\n✅ AMBOS MARCAN [x1.44]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,30\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ MANCHESTER UNITED vs AS ROMA ⭐\n\n🎯 MANCHESTER UNITED HACE 3+ CÓRNERS [x1.32]\n✅ BRYAN MBEUMO: 1+ TIROS A PUERTA [x1.40]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ MÁS DE 27,5 TIROS [x1.80]\n✅ AMBOS MARCAN [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 5,52\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1803,7 +1803,7 @@
       1.4,
       1.32,
       1.8,
-      1.44
+      1.5
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -1815,12 +1815,13 @@
       "logo_v": "https://media.api-sports.io/football/teams/497.png",
       "fecha": "2026-11-03T21:00",
       "liga": "Champions"
-    }
+    },
+    "cuotas_revisadas": "2026-11-03T20:16"
   },
   {
     "id": "2026-11-03-estrella-1635627",
     "fecha": "2026-11-03T20:25",
-    "texto": "⭐ BARCELONA 🆚 ASTON VILLA ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Nicolas Jackson: 2+ tiros\n✅2. Johan Manzambi: 2+ tiros\n✅3. Ambos ven tarjeta\n✅4. Ambos marcan en la 2ª parte\n\n🎯 Cuota: 5,67\n💶 10€ → 56,70€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⭐ BARCELONA 🆚 ASTON VILLA ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Nicolas Jackson: 2+ tiros\n✅2. Johan Manzambi: 2+ tiros\n✅3. Ambos ven tarjeta\n✅4. Ambos marcan en la 2ª parte\n\n🎯 Cuota: 5,67\n💶 10€ → 55,30€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -1832,11 +1833,12 @@
     ],
     "cuotas": [
       1.4,
-      1.57,
+      1.53,
       1.32,
       2.2
     ],
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "cuotas_revisadas": "2026-11-03T20:16"
   },
   {
     "id": "2026-11-03-estrella-1635622",
