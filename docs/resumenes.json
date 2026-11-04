@@ -943,29 +943,29 @@
     "total": 15,
     "cuentas": {
       "verde": 0,
-      "rojo": 7,
-      "pendiente": 6,
-      "sin_datos": 2,
+      "rojo": 9,
+      "pendiente": 0,
+      "sin_datos": 6,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 6
     },
     "combis": [
       {
         "id": "2026-11-04-combi-partido-1635656",
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 6.38
       },
       {
         "id": "2026-11-04-combi-partido-1635681",
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 4.21
       },
       {
         "id": "2026-11-04-pick-seguro",
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 1.7
       },
       {
@@ -1001,7 +1001,7 @@
       {
         "id": "2026-11-04-combi-tres",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.31
       },
       {
@@ -1019,33 +1019,33 @@
       {
         "id": "2026-11-04-combi-loca",
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 6.63
       },
       {
         "id": "2026-11-04-combi-partido-1635745",
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.37
       },
       {
         "id": "2026-11-04-estrella-1635656",
         "titulo": "⭐ FC PORTO 🆚 NAPOLI ⭐",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 4.46
       },
       {
         "id": "2026-11-04-estrella-1635651",
         "titulo": "⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 4.3
       }
     ],
     "picks": {
-      "verde": 41,
-      "rojo": 9,
+      "verde": 18,
+      "rojo": 10,
       "total": 70
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 7 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n❔ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70 · faltan datos\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2)\n❌ ✅ COMBI LOCAS | CHAMPIONS · 10,62\n❌ ✅ COMBI LOCAS | CHAMPIONS · 9,16\n❌ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · pendiente\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (2/2)\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪 · 6,63 · faltan datos\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 3,37 · pendiente\n⏳ ⭐ FC PORTO 🆚 NAPOLI ⭐ · 4,46 · pendiente\n⏳ ⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐ · 4,30 · pendiente\n\n✅ 0 acertadas · ❌ 7 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 9 EN VERDE 📊\n\n❔ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · faltan datos\n❔ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · faltan datos\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2)\n❌ ✅ COMBI LOCAS | CHAMPIONS · 10,62\n❌ ✅ COMBI LOCAS | CHAMPIONS · 9,16\n❌ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (2/2)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪 · 6,63\n❔ ✅ COMBI LOCAS | CHAMPIONS · 3,37 · faltan datos\n❔ ⭐ FC PORTO 🆚 NAPOLI ⭐ · 4,46 · faltan datos\n❔ ⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐ · 4,30 · faltan datos\n\n✅ 0 acertadas · ❌ 9 falladas · ⏳ 6 sin resolver"
   }
 }
