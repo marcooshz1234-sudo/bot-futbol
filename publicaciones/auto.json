@@ -2041,21 +2041,19 @@
   {
     "id": "2026-11-04-combi-partido-1635745",
     "fecha": "2026-11-04T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VIKING vs SABAH FA ⭐\n\n🎯 ZLATKO TRIPIC: 1+ TIROS A PUERTA [x1.33]\n✅ KRISTOFFER ASKILDSEN COMETE 1+ FALTAS [x1.40]\n✅ PETER CHRISTIANSEN COMETE 2+ FALTAS [x1.67]\n✅ SABAH FA HACE 3+ CÓRNERS [x1.15]\n✅ MÁS DE 28,5 TIROS [x1.83]\n\n💥 Cuota total aprox.: 5,38\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VIKING vs SABAH FA ⭐\n\n🎯 ZLATKO TRIPIC: 1+ TIROS A PUERTA [x1.33]\n✅ KRISTOFFER ASKILDSEN COMETE 1+ FALTAS [x1.40]\n✅ SABAH FA HACE 3+ CÓRNERS [x1.15]\n✅ MÁS DE 28,5 TIROS [x1.83]\n\n💥 Cuota total aprox.: 3,37\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1635745|Home Player Shots On Target Total|Zlatko Tripic - 1",
       "1635745|Player Fouls Committed|Kristoffer Askildsen - 1",
-      "1635745|Player Fouls Committed|Peter Christiansen - 2",
       "1635745|Away Corners Over/Under|Over 2.5",
       "1635745|Total Shots|Over 28.5"
     ],
     "cuotas": [
       1.33,
       1.4,
-      1.67,
       1.15,
       1.83
     ],
@@ -2069,7 +2067,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/13976.png",
       "fecha": "2026-11-04T21:00",
       "liga": "Champions"
-    }
+    },
+    "revisado_alineaciones": "2026-11-04T20:45"
   },
   {
     "id": "2026-11-04-estrella-1635656",

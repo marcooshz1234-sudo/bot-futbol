@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 20:22",
+ "actualizado": "2026-11-04 20:46",
  "redes": {
   "instagram": {
    "seguidores": 24,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1628,
-   "hoy": 108,
+   "seguidores": 1630,
+   "hoy": 110,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1628
+    1630
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1898,
- "total_hoy": 123,
+ "total": 1900,
+ "total_hoy": 125,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:25",
-  "dia": "2026-11-04",
-  "titulo": "Combi Viking vs Sabah Fa"
+  "hora": "01:00",
+  "dia": "2026-11-05",
+  "titulo": "Quién gana hoy"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,19 +144,24 @@
   },
   "2026-11-04": {
    "instagram": 24,
-   "threads": 1628,
+   "threads": 1630,
    "facebook": 0,
    "telegram": 246
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
-   "posts": 48,
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -167,11 +172,6 @@
   },
   "Verdes/balance (reel)": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
