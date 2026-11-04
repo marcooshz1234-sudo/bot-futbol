@@ -551,5 +551,100 @@
   "cash_out": 196.27,
   "origen": "Marcos (captura bet365 03/11 22:20: cash out 196,27 € con 1 € hacia el 60')",
   "aumento": "+25 % combinadas aumentadas"
+ },
+ {
+  "id": "2026-11-04-marcos-dobles",
+  "fecha": "2026-11-04T16:30",
+  "titulo": "Tu combi de dobles y ganadores x17,39",
+  "cuota": 17.39,
+  "cuota_bet365": 17.39,
+  "sel": [
+   "1635681|Double Chance|Home/Away",
+   "1635656|Double Chance|Home/Draw",
+   "1635707|Double Chance|Home/Draw",
+   "1636324|Double Chance|Home/Draw",
+   "1635606|Match Winner|Away",
+   "1635658|Match Winner|Away",
+   "1635651|Match Winner|Home",
+   "1635726|Match Winner|Away",
+   "1635710|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.25,
+   1.25,
+   1.36,
+   1.36,
+   1.22,
+   1.48,
+   1.72,
+   1.25,
+   1.55
+  ],
+  "importe": 8.0,
+  "origen": "Marcos (captura bet365 04/11 14:20)"
+ },
+ {
+  "id": "2026-11-04-marcos-ganadores",
+  "fecha": "2026-11-04T16:30",
+  "titulo": "Tu combi de 9 ganadores x108,48",
+  "cuota": 108.48,
+  "cuota_bet365": 108.48,
+  "sel": [
+   "1635606|Match Winner|Away",
+   "1635658|Match Winner|Away",
+   "1635681|Match Winner|Away",
+   "1635656|Match Winner|Home",
+   "1635707|Match Winner|Home",
+   "1635726|Match Winner|Away",
+   "1635651|Match Winner|Home",
+   "1635710|Match Winner|Away",
+   "1636324|Match Winner|Home"
+  ],
+  "cuotas": [
+   1.22,
+   1.48,
+   2.15,
+   1.95,
+   2.0,
+   1.25,
+   1.72,
+   1.55,
+   2.15
+  ],
+  "importe": 6.89,
+  "origen": "Marcos (captura bet365 04/11 14:20)",
+  "nota": "+25 % combinadas aumentadas"
+ },
+ {
+  "id": "2026-11-04-marcos-sorpresas",
+  "fecha": "2026-11-04T16:30",
+  "titulo": "Tu combi con Betis y Brujas x267,35",
+  "cuota": 267.35,
+  "cuota_bet365": 267.35,
+  "sel": [
+   "1635606|Match Winner|Away",
+   "1635651|Match Winner|Away",
+   "1635658|Match Winner|Away",
+   "1635710|Match Winner|Away",
+   "1635656|Match Winner|Home",
+   "1635726|Match Winner|Away",
+   "1635707|Match Winner|Away",
+   "1635681|Match Winner|Away",
+   "1635745|Match Winner|Home"
+  ],
+  "cuotas": [
+   1.22,
+   4.2,
+   1.48,
+   1.55,
+   1.95,
+   1.25,
+   3.1,
+   2.15,
+   1.4
+  ],
+  "importe": 4.96,
+  "origen": "Marcos (captura bet365 04/11 14:20)",
+  "nota": "créditos de apuesta"
  }
 ]
