@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 18:02",
+ "actualizado": "2026-11-04 18:13",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1606,
-   "hoy": 86,
+   "seguidores": 1611,
+   "hoy": 91,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1606
+    1611
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 242,
-   "hoy": 10,
+   "seguidores": 243,
+   "hoy": 11,
    "serie": [
     126,
     165,
@@ -50,17 +50,17 @@
     207,
     214,
     232,
-    242
+    243
    ]
   }
  },
- "total": 1871,
- "total_hoy": 96,
+ "total": 1877,
+ "total_hoy": 102,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:10",
+  "hora": "20:25",
   "dia": "2026-11-04",
-  "titulo": "Combi Aek Athens Fc vs Real Madrid"
+  "titulo": "Combi Viking vs Sabah Fa"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,9 +144,9 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1606,
+   "threads": 1611,
    "facebook": 0,
-   "telegram": 242
+   "telegram": 243
   }
  },
  "tipos_instagram": {
