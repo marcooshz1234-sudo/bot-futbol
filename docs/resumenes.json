@@ -942,18 +942,18 @@
     "dia": "2026-11-04",
     "total": 15,
     "cuentas": {
-      "verde": 0,
-      "rojo": 9,
+      "verde": 2,
+      "rojo": 10,
       "pendiente": 0,
-      "sin_datos": 6,
+      "sin_datos": 3,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 3
     },
     "combis": [
       {
         "id": "2026-11-04-combi-partido-1635656",
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 6.38
       },
       {
@@ -1025,13 +1025,13 @@
       {
         "id": "2026-11-04-combi-partido-1635745",
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.37
       },
       {
         "id": "2026-11-04-estrella-1635656",
         "titulo": "⭐ FC PORTO 🆚 NAPOLI ⭐",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 4.46
       },
       {
@@ -1042,10 +1042,10 @@
       }
     ],
     "picks": {
-      "verde": 20,
-      "rojo": 10,
+      "verde": 33,
+      "rojo": 11,
       "total": 70
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 9 EN VERDE 📊\n\n❔ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · faltan datos\n❔ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · faltan datos\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2)\n❌ ✅ COMBI LOCAS | CHAMPIONS · 10,62\n❌ ✅ COMBI LOCAS | CHAMPIONS · 9,16\n❌ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (2/2)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪 · 6,63\n❔ ✅ COMBI LOCAS | CHAMPIONS · 3,37 · faltan datos\n❔ ⭐ FC PORTO 🆚 NAPOLI ⭐ · 4,46 · faltan datos\n❔ ⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐ · 4,30 · faltan datos\n\n✅ 0 acertadas · ❌ 9 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 2 DE 12 EN VERDE 📊\n\n✅ ✅ COMBI LOCAS | CHAMPIONS · 6,38\n❔ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · faltan datos\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2)\n❌ ✅ COMBI LOCAS | CHAMPIONS · 10,62\n❌ ✅ COMBI LOCAS | CHAMPIONS · 9,16\n❌ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (2/2)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪 · 6,63\n❌ ✅ COMBI LOCAS | CHAMPIONS · 3,37\n✅ ⭐ FC PORTO 🆚 NAPOLI ⭐ · 4,46\n❔ ⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐ · 4,30 · faltan datos\n\n✅ 2 acertadas · ❌ 10 falladas · ⏳ 3 sin resolver"
   }
 }
