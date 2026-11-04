@@ -3137,6 +3137,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-04T23:15",
+    "mensaje_id": 294,
+    "redes": {
+      "threads": "18398865622167663"
+    }
   }
 ]
