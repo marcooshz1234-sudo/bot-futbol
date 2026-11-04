@@ -646,5 +646,84 @@
   "importe": 4.96,
   "origen": "Marcos (captura bet365 04/11 14:20)",
   "nota": "créditos de apuesta"
+ },
+ {
+  "id": "2026-11-04-cobertura-a",
+  "fecha": "2026-11-04T18:45",
+  "titulo": "Cobertura A · caen los ingleses x82,78",
+  "cuota": 82.78,
+  "sel": [
+   "1635606|Match Winner|Away",
+   "1635658|Double Chance|Home/Draw",
+   "1635651|Match Winner|Home",
+   "1635656|Match Winner|Home",
+   "1635681|Double Chance|Draw/Away",
+   "1635707|Match Winner|Home",
+   "1635710|Double Chance|Home/Draw",
+   "1635726|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.22,
+   2.5,
+   1.72,
+   1.95,
+   1.36,
+   2.0,
+   2.38,
+   1.25
+  ],
+  "origen": "Marcos (04/11 14:26: «ya he metido estas tres»; cuotas de la propuesta, sin captura)"
+ },
+ {
+  "id": "2026-11-04-cobertura-b",
+  "fecha": "2026-11-04T18:45",
+  "titulo": "Cobertura B · empates x96,57",
+  "cuota": 96.57,
+  "sel": [
+   "1635606|Match Winner|Away",
+   "1635658|Match Winner|Away",
+   "1635651|Match Winner|Draw",
+   "1635656|Double Chance|Home/Draw",
+   "1635681|Match Winner|Draw",
+   "1635707|Double Chance|Home/Draw",
+   "1635710|Match Winner|Away",
+   "1635726|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.22,
+   1.48,
+   4.33,
+   1.25,
+   3.75,
+   1.36,
+   1.55,
+   1.25
+  ],
+  "origen": "Marcos (04/11 14:26: «ya he metido estas tres»; cuotas de la propuesta, sin captura)"
+ },
+ {
+  "id": "2026-11-04-cobertura-c",
+  "fecha": "2026-11-04T18:45",
+  "titulo": "Cobertura C · sorpresas x61,6",
+  "cuota": 61.6,
+  "sel": [
+   "1635606|Match Winner|Away",
+   "1635658|Match Winner|Away",
+   "1635651|Double Chance|Draw/Away",
+   "1635656|Match Winner|Away",
+   "1635681|Match Winner|Away",
+   "1635710|Match Winner|Away",
+   "1635726|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.22,
+   1.48,
+   2.1,
+   3.9,
+   2.15,
+   1.55,
+   1.25
+  ],
+  "origen": "Marcos (04/11 14:26: «ya he metido estas tres»; cuotas de la propuesta, sin captura)"
  }
 ]
