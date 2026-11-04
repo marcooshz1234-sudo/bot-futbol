@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04 08:24",
+ "generado": "2026-11-04 14:10",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -1360,6 +1360,8 @@
      "texto": "Thierno Barry: 1+ tiros a puerta",
      "detalle": "Thierno Barry 9/10",
      "temporada": "10/11",
+     "arbitro": "Stuart Attwell",
+     "arbitro_tarjetas": 6.2,
      "posiciones": [
       7,
       16,
@@ -1420,6 +1422,8 @@
      "temporada": "4/5",
      "movimiento": -0.059,
      "cuota_inicial": 1.36,
+     "arbitro": "Mathieu Vernice",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       12,
       13,
@@ -1480,6 +1484,8 @@
      "texto": "Thierno Barry: 1+ tiros a puerta",
      "detalle": "Thierno Barry 9/10",
      "temporada": "10/11",
+     "arbitro": "Stuart Attwell",
+     "arbitro_tarjetas": 6.2,
      "posiciones": [
       7,
       16,
@@ -1540,6 +1546,8 @@
      "temporada": "4/5",
      "movimiento": -0.059,
      "cuota_inicial": 1.36,
+     "arbitro": "Mathieu Vernice",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       12,
       13,
@@ -1602,6 +1610,8 @@
        "texto": "Thierno Barry: 1+ tiros a puerta",
        "detalle": "Thierno Barry 9/10",
        "temporada": "10/11",
+       "arbitro": "Stuart Attwell",
+       "arbitro_tarjetas": 6.2,
        "posiciones": [
         7,
         16,
@@ -1870,6 +1880,58 @@
      "prob_aprendida": 0.7
     },
     {
+     "partido_id": 1557457,
+     "fecha": "2026-11-07T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Arsenal",
+     "visitante": "Hull City",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Mohamed Belloumi - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.875,
+     "ventaja": 0.123,
+     "tipo": "jugador",
+     "jugador": "Mohamed Belloumi",
+     "equipo": "Hull City",
+     "jugador_id": 299923,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Mohamed Belloumi comete 1+ faltas",
+     "detalle": "Mohamed Belloumi 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      1,
+      11,
+      20
+     ],
+     "contexto": "peor_abismo_arriba",
+     "prob_aprendida": 0.69
+    },
+    {
+     "partido_id": 1557465,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Nottingham Forest",
+     "visitante": "Manchester City",
+     "mercado": "Offsides Away Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Manchester City hace más de 0,5 fueras de juego",
+     "cuota": 1.5,
+     "frecuencia": 0.895,
+     "ventaja": 0.228,
+     "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
+     "posiciones": [
+      19,
+      2,
+      20
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.621
+    },
+    {
      "partido_id": 1557465,
      "fecha": "2026-11-07T18:30",
      "competicion": "Premier",
@@ -1880,12 +1942,12 @@
      "opcion": "Away",
      "tipo": "resultado",
      "texto": "Gana el Manchester City",
-     "cuota": 1.67,
+     "cuota": 1.7,
      "frecuencia": 0.6,
-     "ventaja": 0.001,
+     "ventaja": 0.012,
      "detalle": "Nottingham Forest 6/10 · Manchester City 6/10",
-     "valor_mercado": -0.029,
-     "movimiento": 0.031,
+     "valor_mercado": -0.017,
+     "movimiento": 0.049,
      "cuota_inicial": 1.62,
      "posiciones": [
       19,
@@ -1893,36 +1955,36 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.602
+     "prob_aprendida": 0.616
     },
     {
-     "partido_id": 1570448,
-     "fecha": "2026-11-07T18:30",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Osasuna",
-     "visitante": "Athletic Club",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Ante Budimir - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.889,
-     "ventaja": 0.154,
+     "partido_id": 1557461,
+     "fecha": "2026-11-07T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Fulham",
+     "visitante": "Newcastle",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Calvin Bassey - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.8,
+     "ventaja": 0.086,
      "tipo": "jugador",
-     "jugador": "Ante Budimir",
-     "equipo": "Osasuna",
-     "jugador_id": 46746,
-     "campo": "a_puerta",
+     "jugador": "Calvin Bassey",
+     "equipo": "Fulham",
+     "jugador_id": 152967,
+     "campo": "faltas_c",
      "n": 1,
-     "texto": "Ante Budimir: 1+ tiros a puerta",
-     "detalle": "Ante Budimir 8/9",
-     "temporada": "8/9",
+     "texto": "Calvin Bassey comete 1+ faltas",
+     "detalle": "Calvin Bassey 8/10",
+     "temporada": "8/10",
      "posiciones": [
       15,
-      7,
+      13,
       20
      ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.562
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.59
     },
     {
      "partido_id": 1557463,
@@ -1952,6 +2014,35 @@
      ],
      "contexto": "mejor_igualado_medio",
      "prob_aprendida": 0.502
+    },
+    {
+     "partido_id": 1557461,
+     "fecha": "2026-11-07T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Fulham",
+     "visitante": "Newcastle",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Nico Gonzalez - 2",
+     "cuota": 1.67,
+     "frecuencia": 0.875,
+     "ventaja": 0.276,
+     "tipo": "jugador",
+     "jugador": "Nico Gonzalez",
+     "equipo": "Newcastle",
+     "jugador_id": 161933,
+     "campo": "faltas_c",
+     "n": 2,
+     "texto": "Nico Gonzalez comete 2+ faltas",
+     "detalle": "Nico Gonzalez 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      15,
+      13,
+      20
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.445
     },
     {
      "partido_id": 1563257,
@@ -2140,59 +2231,85 @@
      "prob_aprendida": 0.673
     },
     {
+     "partido_id": 1557457,
+     "fecha": "2026-11-07T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Arsenal",
+     "visitante": "Hull City",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Mohamed Belloumi - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.875,
+     "ventaja": 0.123,
+     "tipo": "jugador",
+     "jugador": "Mohamed Belloumi",
+     "equipo": "Hull City",
+     "jugador_id": 299923,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Mohamed Belloumi comete 1+ faltas",
+     "detalle": "Mohamed Belloumi 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      1,
+      11,
+      20
+     ],
+     "contexto": "peor_abismo_arriba",
+     "prob_aprendida": 0.69
+    },
+    {
      "partido_id": 1557465,
      "fecha": "2026-11-07T18:30",
      "competicion": "Premier",
      "liga_id": 39,
      "local": "Nottingham Forest",
      "visitante": "Manchester City",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Manchester City",
-     "cuota": 1.67,
-     "frecuencia": 0.6,
-     "ventaja": 0.001,
-     "detalle": "Nottingham Forest 6/10 · Manchester City 6/10",
-     "valor_mercado": -0.029,
-     "movimiento": 0.031,
-     "cuota_inicial": 1.62,
+     "mercado": "Offsides Away Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Manchester City hace más de 0,5 fueras de juego",
+     "cuota": 1.5,
+     "frecuencia": 0.895,
+     "ventaja": 0.228,
+     "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
      "posiciones": [
       19,
       2,
       20
      ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.602
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.621
     },
     {
-     "partido_id": 1570448,
-     "fecha": "2026-11-07T18:30",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Osasuna",
-     "visitante": "Athletic Club",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Ante Budimir - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.889,
-     "ventaja": 0.154,
+     "partido_id": 1557461,
+     "fecha": "2026-11-07T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Fulham",
+     "visitante": "Newcastle",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Calvin Bassey - 1",
+     "cuota": 1.4,
+     "frecuencia": 0.8,
+     "ventaja": 0.086,
      "tipo": "jugador",
-     "jugador": "Ante Budimir",
-     "equipo": "Osasuna",
-     "jugador_id": 46746,
-     "campo": "a_puerta",
+     "jugador": "Calvin Bassey",
+     "equipo": "Fulham",
+     "jugador_id": 152967,
+     "campo": "faltas_c",
      "n": 1,
-     "texto": "Ante Budimir: 1+ tiros a puerta",
-     "detalle": "Ante Budimir 8/9",
-     "temporada": "8/9",
+     "texto": "Calvin Bassey comete 1+ faltas",
+     "detalle": "Calvin Bassey 8/10",
+     "temporada": "8/10",
      "posiciones": [
       15,
-      7,
+      13,
       20
      ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.562
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.59
     },
     {
      "partido_id": 1563257,
@@ -2364,6 +2481,63 @@
        "prob_aprendida": 0.728
       },
       {
+       "partido_id": 1557465,
+       "fecha": "2026-11-07T18:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Nottingham Forest",
+       "visitante": "Manchester City",
+       "mercado": "Offsides Away Total",
+       "opcion": "Over 0.5",
+       "tipo": "fueras de juego",
+       "texto": "Manchester City hace más de 0,5 fueras de juego",
+       "cuota": 1.5,
+       "frecuencia": 0.895,
+       "ventaja": 0.228,
+       "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
+       "posiciones": [
+        19,
+        2,
+        20
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.621
+      }
+     ],
+     "cuota": 3.24
+    },
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1557463,
+       "fecha": "2026-11-07T13:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Leeds",
+       "visitante": "Tottenham",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Dominic Calvert-Lewin - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Dominic Calvert-Lewin",
+       "equipo": "Leeds",
+       "jugador_id": 18766,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Dominic Calvert-Lewin comete 1+ faltas",
+       "detalle": "Dominic Calvert-Lewin 9/9",
+       "temporada": "9/9",
+       "posiciones": [
+        12,
+        9,
+        20
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.732
+      },
+      {
        "partido_id": 1563258,
        "fecha": "2026-11-07T16:00",
        "competicion": "Championship",
@@ -2386,16 +2560,36 @@
        ],
        "contexto": "mejor_abismo_medio",
        "prob_aprendida": 0.673
-      }
-     ],
-     "cuota": 3.35
-    },
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
+      },
+      {
+       "partido_id": 1557457,
+       "fecha": "2026-11-07T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Arsenal",
+       "visitante": "Hull City",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Mohamed Belloumi - 1",
+       "cuota": 1.33,
+       "frecuencia": 0.875,
+       "ventaja": 0.123,
+       "tipo": "jugador",
+       "jugador": "Mohamed Belloumi",
+       "equipo": "Hull City",
+       "jugador_id": 299923,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Mohamed Belloumi comete 1+ faltas",
+       "detalle": "Mohamed Belloumi 7/8",
+       "temporada": "7/8",
+       "posiciones": [
+        1,
+        11,
+        20
+       ],
+       "contexto": "peor_abismo_arriba",
+       "prob_aprendida": 0.69
+      },
       {
        "partido_id": 1557465,
        "fecha": "2026-11-07T18:30",
@@ -2407,12 +2601,12 @@
        "opcion": "Away",
        "tipo": "resultado",
        "texto": "Gana el Manchester City",
-       "cuota": 1.67,
+       "cuota": 1.7,
        "frecuencia": 0.6,
-       "ventaja": 0.001,
+       "ventaja": 0.012,
        "detalle": "Nottingham Forest 6/10 · Manchester City 6/10",
-       "valor_mercado": -0.029,
-       "movimiento": 0.031,
+       "valor_mercado": -0.017,
+       "movimiento": 0.049,
        "cuota_inicial": 1.62,
        "posiciones": [
         19,
@@ -2420,7 +2614,92 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.616
+      },
+      {
+       "partido_id": 1557461,
+       "fecha": "2026-11-07T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Fulham",
+       "visitante": "Newcastle",
+       "mercado": "Player Fouls Committed",
+       "opcion": "Calvin Bassey - 1",
+       "cuota": 1.4,
+       "frecuencia": 0.8,
+       "ventaja": 0.086,
+       "tipo": "jugador",
+       "jugador": "Calvin Bassey",
+       "equipo": "Fulham",
+       "jugador_id": 152967,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Calvin Bassey comete 1+ faltas",
+       "detalle": "Calvin Bassey 8/10",
+       "temporada": "8/10",
+       "posiciones": [
+        15,
+        13,
+        20
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.59
+      },
+      {
+       "partido_id": 1563257,
+       "fecha": "2026-11-07T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Portsmouth",
+       "visitante": "Stoke City",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 4.5",
+       "tipo": "corners",
+       "texto": "Stoke City hace más de 4,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        10,
+        4,
+        24
+       ],
+       "contexto": "mejor_lejos_arriba",
+       "prob_aprendida": 0.418
+      }
+     ],
+     "cuota": 10.61
+    },
+    "doble": null
+   },
+   "estilos": {
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1563260,
+       "fecha": "2026-11-07T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Watford",
+       "visitante": "Middlesbrough",
+       "mercado": "Home Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Watford hace más de 3,5 córners",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Watford 6/10 · Middlesbrough (en contra) 7/10",
+       "valor_mercado": 0.028,
+       "posiciones": [
+        20,
+        2,
+        24
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.511
       },
       {
        "partido_id": 1550188,
@@ -2433,23 +2712,23 @@
        "opcion": "Away",
        "tipo": "resultado",
        "texto": "Gana el Frosinone",
-       "cuota": 2.45,
+       "cuota": 2.5,
        "frecuencia": 0.6,
-       "ventaja": 0.192,
+       "ventaja": 0.2,
        "detalle": "Cagliari 6/10 · Frosinone 6/10",
-       "valor_mercado": 0.008,
+       "valor_mercado": 0.029,
+       "movimiento": 0.02,
+       "cuota_inicial": 2.45,
        "posiciones": [
         12,
         6,
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.491
+       "prob_aprendida": 0.413
       }
      ],
-     "cuota": 4.09,
-     "titulo": "✈️ SÁBADO DE LOS DE FUERA",
-     "tema": "fuera"
+     "cuota": 4.58
     }
    },
    "combis_partido": []

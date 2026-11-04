@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-04 08:24 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-04 14:10 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Miércoles 04/11
 
@@ -74,11 +74,19 @@ _Generado el 2026-11-04 08:24 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 9/10
 - Santiago Castaneda: 1+ tiros (1,28) · Santiago Castaneda 9/10
 
-**💥 Combi cuota 3-4 · cuota 3,35**
+**💥 Combi cuota 3-4 · cuota 3,24**
 - West Brom o empate (1,30) · West Brom 8/10 · Millwall 8/10
 - Más de 1,5 goles en Torino–Lecce (1,28) · Torino 9/10 · Lecce 9/10
 - Jayden Bogle comete 1+ faltas (1,30) · Jayden Bogle 9/9
+- Manchester City hace más de 0,5 fueras de juego (1,50) · Nottingham Forest (en contra) 9/10 · Manchester City 8/9
+
+**🤪 Combi loca · cuota 10,61**
+- Dominic Calvert-Lewin comete 1+ faltas (1,25) · Dominic Calvert-Lewin 9/9
 - Gana el Southampton (1,55) · Preston 7/10 · Southampton 6/10
+- Mohamed Belloumi comete 1+ faltas (1,33) · Mohamed Belloumi 7/8
+- Gana el Manchester City (1,70) · Nottingham Forest 6/10 · Manchester City 6/10
+- Calvin Bassey comete 1+ faltas (1,40) · Calvin Bassey 8/10
+- Stoke City hace más de 4,5 córners (1,73) · Portsmouth (en contra) 8/10 · Stoke City 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -91,9 +99,12 @@ _Generado el 2026-11-04 08:24 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:00 | Gana el Southampton | resultado | 1.55 | 65% | Preston 7/10 · Southampton 6/10 |
 | 13:30 | Omar Marmoush comete 1+ faltas | jugador | 1.28 | 100% | Omar Marmoush 8/8 |
 | 13:30 | Ao Tanaka comete 1+ faltas | jugador | 1.30 | 88% | Ao Tanaka 7/8 |
-| 18:30 | Gana el Manchester City | resultado | 1.67 | 60% | Nottingham Forest 6/10 · Manchester City 6/10 |
-| 18:30 | Ante Budimir: 1+ tiros a puerta | jugador | 1.36 | 89% | Ante Budimir 8/9 |
+| 16:00 | Mohamed Belloumi comete 1+ faltas | jugador | 1.33 | 88% | Mohamed Belloumi 7/8 |
+| 18:30 | Manchester City hace más de 0,5 fueras de juego | fueras de juego | 1.50 | 90% | Nottingham Forest (en contra) 9/10 · Manchester City 8/9 |
+| 18:30 | Gana el Manchester City | resultado | 1.70 | 60% | Nottingham Forest 6/10 · Manchester City 6/10 |
+| 16:00 | Calvin Bassey comete 1+ faltas | jugador | 1.40 | 80% | Calvin Bassey 8/10 |
 | 13:30 | Jan Paul van Hecke comete 1+ faltas | jugador | 1.40 | 80% | Jan Paul van Hecke 8/10 |
+| 16:00 | Nico Gonzalez comete 2+ faltas | jugador | 1.67 | 88% | Nico Gonzalez 7/8 |
 | 13:30 | Stoke City hace más de 4,5 córners | corners | 1.73 | 75% | Portsmouth (en contra) 8/10 · Stoke City 7/10 |
 
 ## Domingo 08/11

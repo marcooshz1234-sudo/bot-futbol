@@ -1,12 +1,12 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 14:09_
 
-- **1X2:** 1 **3.00**  ·  X **3.80**  ·  2 **2.10**
+- **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.25**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
@@ -196,9 +196,9 @@ _Goles esperados: local 1,28 · visitante 1,61 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 44% | 45% | 2.10 | -6% |
-| 1X2: X | 24% | 25% | 24% | 3.80 | -7% |
-| 1X2: 1 | 31% | 31% | 31% | 3.00 | -8% |
+| 1X2: 2 | 45% | 44% | 45% | 2.15 | -4% |
+| 1X2: X | 24% | 25% | 25% | 3.80 | -6% |
+| 1X2: 1 | 31% | 31% | 31% | 3.10 | -5% |
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 55% | 55% | 55% | 1.70 | -6% |

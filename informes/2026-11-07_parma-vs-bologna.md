@@ -1,12 +1,12 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 14:09_
 
-- **1X2:** 1 **4.50**  ·  X **3.40**  ·  2 **1.80**
+- **1X2:** 1 **4.75**  ·  X **3.50**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.30**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
@@ -191,9 +191,9 @@ _Goles esperados: local 0,80 · visitante 1,35 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 52% | 51% | 1.80 | -9% |
-| 1X2: X | 28% | 27% | 28% | 3.40 | -6% |
-| 1X2: 1 | 22% | 21% | 21% | 4.50 | -4% |
+| 1X2: 2 | 50% | 53% | 51% | 1.80 | -8% |
+| 1X2: X | 28% | 27% | 28% | 3.50 | -3% |
+| 1X2: 1 | 22% | 20% | 21% | 4.75 | +0% |
 | Doble oportunidad: X2 | 78% | 80% | 79% | 1.18 | -7% |
 | Doble oportunidad: 12 | 72% | 72% | 72% | 1.30 | -6% |
 | Doble oportunidad: 1X | 50% | 48% | 49% | 1.95 | -4% |

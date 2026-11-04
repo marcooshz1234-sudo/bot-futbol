@@ -1,7 +1,7 @@
 # Aarhus – SC Braga
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Cepheus Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:22_

@@ -1,12 +1,12 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 14:09_
 
-- **1X2:** 1 **2.30**  ·  X **3.60**  ·  2 **2.80**
+- **1X2:** 1 **2.38**  ·  X **3.60**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -194,9 +194,9 @@ _Goles esperados: local 1,57 · visitante 1,45 · córners esperados 11,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 33% | 34% | 2.80 | -4% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 41% | 41% | 41% | 2.30 | -7% |
+| 1X2: 2 | 35% | 34% | 35% | 2.80 | -3% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
+| 1X2: 1 | 41% | 40% | 40% | 2.38 | -4% |
 | Doble oportunidad: X2 | 59% | 60% | 60% | 1.57 | -6% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 65% | 67% | 66% | 1.40 | -8% |

@@ -1,7 +1,7 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 02:10_

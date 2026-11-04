@@ -1,7 +1,7 @@
 # Rennes – Olympiakos Piraeus
 **Europa League** · League Stage - 4 · 04/11/2026 16:30 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:21_

@@ -1,16 +1,16 @@
 # Borussia Dortmund – SV Elversberg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 14:09_
 
-- **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **8.50**
+- **1X2:** 1 **1.28**  ·  X **6.00**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.33** · menos **3.40**
     - 3,5: más **1.80** · menos **2.00**
     - 4,5: más **2.75** · menos **1.44**
@@ -47,7 +47,7 @@ _Actualizadas: 03/11 14:07_
 - **To Win Either Half:** 1 **1.14**  ·  2 **3.75**
 - **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **6.00**
 - **Win Both Halves:** 1 **2.62**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **2.30**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.62**  ·  Draw/No **29.00**  ·  Away/No **19.00**
+- **Results/Both Teams Score:** Home/Yes **2.30**  ·  Draw/Yes **6.50**  ·  Away/Yes **12.00**  ·  Home/No **2.62**  ·  Draw/No **29.00**  ·  Away/No **19.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 6,5: más **1.73** · menos **2.00**
@@ -193,9 +193,9 @@ _Goles esperados: local 2,05 · visitante 0,95 · córners esperados 10,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 11% | 14% | 8.50 | +17% |
-| 1X2: X | 21% | 16% | 18% | 5.75 | +5% |
-| 1X2: 1 | 63% | 73% | 68% | 1.27 | -14% |
+| 1X2: 2 | 17% | 10% | 14% | 9.00 | +22% |
+| 1X2: X | 21% | 16% | 18% | 6.00 | +9% |
+| 1X2: 1 | 63% | 74% | 68% | 1.28 | -13% |
 | Doble oportunidad: X2 | 37% | 26% | 31% | 3.75 | +18% |
 | Doble oportunidad: 12 | 79% | 85% | 82% | 1.14 | -6% |
 | Doble oportunidad: 1X | 83% | 89% | 86% | 1.08 | -7% |

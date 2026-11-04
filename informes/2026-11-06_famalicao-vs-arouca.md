@@ -1,7 +1,7 @@
 # Famalicao – Arouca
 **Primeira Liga** · Regular Season - 11 · 06/11/2026 21:45 (hora España) · Estadio Municipal 22 de Junho
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_

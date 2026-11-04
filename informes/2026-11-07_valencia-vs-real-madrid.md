@@ -1,20 +1,20 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 14:09_
 
-- **1X2:** 1 **7.50**  ·  X **5.50**  ·  2 **1.30**
+- **1X2:** 1 **8.00**  ·  X **5.50**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.40**  ·  12 **1.14**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.40** · menos **3.00**
     - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.40** · menos **1.33**
-    - 5,5: más **5.50** · menos **1.14**
+    - 5,5: más **6.00** · menos **1.12**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
@@ -22,12 +22,12 @@ _Actualizadas: 03/11 14:07_
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **11.00** · menos **1.05**
+    - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.28** · menos **3.50**
+    - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **1.83** · menos **1.83**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
@@ -43,21 +43,21 @@ _Actualizadas: 03/11 14:07_
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.80**
 - **Win Both Halves:** 1 **34.00**  ·  2 **2.62**
 - **Results/Both Teams Score:** Home/Yes **12.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **2.50**  ·  Home/No **17.00**  ·  Draw/No **23.00**  ·  Away/No **2.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.60**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.50**
 - **Home Corners Over/Under:**
     - 3,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 6,5: más **2.10** · menos **1.67**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
 - **Home Player Shots On Target Total:** Harvey Elliott - 1 **2.75**  ·  Harvey Elliott - 2 **13.00**  ·  Arnaut Danjuma - 1 **1.83**  ·  Hugo Duro - 1 **1.62**  ·  Sadiq Umar - 1 **1.62**  ·  Daniel Raba - 1 **1.57**  ·  Filip Ugrinic - 1 **2.50**  ·  Ryunosuke Sato - 1 **2.38**  ·  Javi Guerra - 1 **2.38**  ·  Luis Rioja - 1 **3.25**  ·  Jose Pepelu - 1 **3.50**  ·  Guido Rodriguez - 1 **3.25**  ·  Mouctar Diakhaby - 1 **3.75**  ·  Cesar Tarrega - 1 **5.50**  ·  Justin de Haas - 1 **3.75**  ·  Aliou Dieng - 1 **5.50**  ·  Jesus Vazquez - 1 **5.50**  ·  Jose Gaya - 1 **5.00**  ·  Iker Cordoba - 1 **5.50**  ·  Arnaut Danjuma - 2 **5.50**  ·  Hugo Duro - 2 **4.00**  ·  Sadiq Umar - 2 **4.00**  ·  Daniel Raba - 2 **3.75**  ·  Filip Ugrinic - 2 **10.00**  ·  Ryunosuke Sato - 2 **10.00**  ·  Javi Guerra - 2 **9.00**  ·  Luis Rioja - 2 **17.00**  ·  Jose Pepelu - 2 **19.00**  ·  Guido Rodriguez - 2 **17.00**  ·  Mouctar Diakhaby - 2 **19.00**  ·  Justin de Haas - 2 **21.00**  ·  Arnaut Danjuma - 3 **19.00**  ·  Hugo Duro - 3 **13.00**  ·  Sadiq Umar - 3 **13.00**  ·  Daniel Raba - 3 **11.00**  ·  Arnau Martinez - 1 **5.50**  ·  David Otorbi - 1 **3.25**  ·  Aaron Mayol - 1 **4.33**  ·  Pablo Maffeo - 1 **4.33**  ·  David Otorbi - 2 **17.00**  ·  Aaron Mayol - 2 **21.00**  ·  Pablo Maffeo - 2 **21.00**  ·  Aimar Blazquez - 1 **2.00**  ·  Aimar Blazquez - 2 **6.50**  ·  Aimar Blazquez - 3 **21.00**
-- **Away Player Shots On Target Total:** Yan Diomande **9.50**  ·  Filip Ugrinic **51.00**  ·  Carlos Espi **4.33**  ·  Ibrahima Konate **12.00**  ·  Aurelien Tchouameni **19.00**  ·  Antonio Rudiger **11.00**  ·  Arda Guler **34.00**  ·  Bernardo Silva **41.00**  ·  Aimar Blazquez **10.00**  ·  Thiago Pitarch **34.00**  ·  Ryunosuke Sato **51.00**  ·  Guido Rodriguez **26.00**  ·  David Otorbi **67.00**  ·  Kylian Mbappe **17.00**  ·  Arnau Martinez **34.00**  ·  Jose Pepelu **81.00**  ·  Jesus Vazquez **101.00**  ·  Cesar Tarrega **19.00**  ·  Iker Cordoba **23.00**  ·  Jose Gaya **126.00**  ·  Brahim Diaz **34.00**  ·  Daniel Raba **29.00**  ·  Aliou Dieng **67.00**  ·  Alvaro Carreras **67.00**  ·  Aaron Mayol **101.00**  ·  Justin de Haas **21.00**  ·  Hugo Duro **9.00**  ·  Javi Guerra **51.00**  ·  Luis Rioja **51.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **67.00**  ·  Pablo Maffeo **34.00**  ·  Federico Valverde **41.00**  ·  Jude Bellingham **12.00**  ·  Dean Huijsen **10.00**  ·  Arnaut Danjuma **34.00**  ·  Sadiq Umar **8.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **8.50**  ·  Endrick **15.00**  ·  Denzel Dumfries **13.00**  ·  Harvey Elliott **101.00**  ·  Mouctar Diakhaby **12.00**
+- **Away Player Shots On Target Total:** Yan Diomande **10.00**  ·  Filip Ugrinic **51.00**  ·  Carlos Espi **4.33**  ·  Ibrahima Konate **12.00**  ·  Aurelien Tchouameni **19.00**  ·  Antonio Rudiger **11.00**  ·  Arda Guler **34.00**  ·  Bernardo Silva **51.00**  ·  Aimar Blazquez **12.00**  ·  Thiago Pitarch **34.00**  ·  Ryunosuke Sato **51.00**  ·  Guido Rodriguez **26.00**  ·  David Otorbi **67.00**  ·  Kylian Mbappe **17.00**  ·  Arnau Martinez **34.00**  ·  Jose Pepelu **81.00**  ·  Jesus Vazquez **126.00**  ·  Cesar Tarrega **19.00**  ·  Iker Cordoba **23.00**  ·  Jose Gaya **126.00**  ·  Brahim Diaz **34.00**  ·  Daniel Raba **29.00**  ·  Aliou Dieng **67.00**  ·  Alvaro Carreras **51.00**  ·  Aaron Mayol **101.00**  ·  Justin de Haas **21.00**  ·  Dimitri Foulquier **67.00**  ·  Hugo Duro **9.00**  ·  Javi Guerra **51.00**  ·  Luis Rioja **51.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **51.00**  ·  Pablo Maffeo **34.00**  ·  Federico Valverde **41.00**  ·  Jude Bellingham **13.00**  ·  Dean Huijsen **9.00**  ·  Arnaut Danjuma **41.00**  ·  Sadiq Umar **8.50**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **8.00**  ·  Endrick **15.00**  ·  Denzel Dumfries **13.00**  ·  Harvey Elliott **126.00**  ·  Mouctar Diakhaby **12.00**
 - **Home Player Shots:** Harvey Elliott - 1 **1.36**  ·  Harvey Elliott - 2 **2.62**  ·  Harvey Elliott - 3 **6.00**  ·  Harvey Elliott - 4 **15.00**  ·  Arnaut Danjuma - 1 **1.11**  ·  Hugo Duro - 1 **1.08**  ·  Sadiq Umar - 1 **1.08**  ·  Daniel Raba - 1 **1.07**  ·  Filip Ugrinic - 1 **1.33**  ·  Ryunosuke Sato - 1 **1.22**  ·  Javi Guerra - 1 **1.28**  ·  Luis Rioja - 1 **1.57**  ·  Jose Pepelu - 1 **1.67**  ·  Guido Rodriguez - 1 **1.53**  ·  Mouctar Diakhaby - 1 **1.80**  ·  Cesar Tarrega - 1 **2.38**  ·  Justin de Haas - 1 **1.80**  ·  Aliou Dieng - 1 **2.38**  ·  Jesus Vazquez - 1 **2.38**  ·  Jose Gaya - 1 **2.20**  ·  Iker Cordoba - 1 **2.38**  ·  Arnaut Danjuma - 2 **1.53**  ·  Hugo Duro - 2 **1.40**  ·  Sadiq Umar - 2 **1.40**  ·  Daniel Raba - 2 **1.36**  ·  Filip Ugrinic - 2 **2.38**  ·  Ryunosuke Sato - 2 **2.00**  ·  Javi Guerra - 2 **2.20**  ·  Luis Rioja - 2 **3.50**  ·  Jose Pepelu - 2 **4.00**  ·  Guido Rodriguez - 2 **3.40**  ·  Mouctar Diakhaby - 2 **4.33**  ·  Cesar Tarrega - 2 **8.00**  ·  Justin de Haas - 2 **4.50**  ·  Aliou Dieng - 2 **8.00**  ·  Jesus Vazquez - 2 **8.00**  ·  Jose Gaya - 2 **7.00**  ·  Iker Cordoba - 2 **8.00**  ·  Arnaut Danjuma - 3 **2.50**  ·  Hugo Duro - 3 **2.20**  ·  Sadiq Umar - 3 **2.20**  ·  Daniel Raba - 3 **2.00**  ·  Filip Ugrinic - 3 **5.50**  ·  Ryunosuke Sato - 3 **4.00**  ·  Javi Guerra - 3 **4.50**  ·  Luis Rioja - 3 **10.00**  ·  Jose Pepelu - 3 **11.00**  ·  Guido Rodriguez - 3 **9.00**  ·  Mouctar Diakhaby - 3 **13.00**  ·  Cesar Tarrega - 3 **21.00**  ·  Justin de Haas - 3 **13.00**  ·  Aliou Dieng - 3 **21.00**  ·  Jesus Vazquez - 3 **21.00**  ·  Jose Gaya - 3 **21.00**  ·  Iker Cordoba - 3 **21.00**  ·  Arnaut Danjuma - 4 **4.50**  ·  Hugo Duro - 4 **3.75**  ·  Sadiq Umar - 4 **3.75**  ·  Daniel Raba - 4 **3.50**  ·  Filip Ugrinic - 4 **13.00**  ·  Ryunosuke Sato - 4 **9.00**  ·  Javi Guerra - 4 **11.00**  ·  Luis Rioja - 4 **21.00**  ·  Arnaut Danjuma - 5 **10.00**  ·  Hugo Duro - 5 **8.00**  ·  Sadiq Umar - 5 **8.00**  ·  Daniel Raba - 5 **6.50**  ·  Ryunosuke Sato - 5 **21.00**  ·  Javi Guerra - 5 **21.00**  ·  Arnaut Danjuma - 6 **21.00**  ·  Hugo Duro - 6 **15.00**  ·  Sadiq Umar - 6 **15.00**  ·  Daniel Raba - 6 **13.00**  ·  Daniel Raba - 7 **21.00**  ·  Arnau Martinez - 1 **2.38**  ·  Arnau Martinez - 2 **8.00**  ·  Arnau Martinez - 3 **21.00**  ·  Guido Rodriguez - 4 **21.00**  ·  David Otorbi - 1 **1.57**  ·  Aaron Mayol - 1 **2.00**  ·  Pablo Maffeo - 1 **2.00**  ·  David Otorbi - 2 **3.50**  ·  Aaron Mayol - 2 **5.50**  ·  Pablo Maffeo - 2 **5.50**  ·  David Otorbi - 3 **10.00**  ·  Aaron Mayol - 3 **17.00**  ·  Pablo Maffeo - 3 **17.00**  ·  David Otorbi - 4 **21.00**  ·  Aimar Blazquez - 1 **1.18**  ·  Aimar Blazquez - 2 **1.80**  ·  Aimar Blazquez - 3 **3.40**  ·  Aimar Blazquez - 4 **7.00**  ·  Aimar Blazquez - 5 **15.00**
 - **Away Player Shots:** Jude Bellingham - 1 **1.06**  ·  Yan Diomande - 1 **1.03**  ·  Arda Guler - 1 **1.08**  ·  Brahim Diaz - 1 **1.08**  ·  Denzel Dumfries - 1 **1.18**  ·  Thiago Pitarch - 1 **1.11**  ·  Aurelien Tchouameni - 1 **1.22**  ·  Federico Valverde - 1 **1.18**  ·  Bernardo Silva - 1 **1.25**  ·  Trent Alexander-Arnold - 1 **1.40**  ·  Eduardo Camavinga - 1 **1.40**  ·  Dean Huijsen - 1 **1.30**  ·  Alvaro Carreras - 1 **1.40**  ·  Antonio Rudiger - 1 **1.57**  ·  Eder Militao - 1 **1.40**  ·  Marc Cucurella - 1 **1.57**  ·  Ibrahima Konate - 1 **1.57**  ·  Endrick - 2 **1.08**  ·  Jude Bellingham - 2 **1.33**  ·  Yan Diomande - 2 **1.20**  ·  Arda Guler - 2 **1.40**  ·  Brahim Diaz - 2 **1.40**  ·  Denzel Dumfries - 2 **1.80**  ·  Thiago Pitarch - 2 **1.53**  ·  Aurelien Tchouameni - 2 **2.00**  ·  Federico Valverde - 2 **1.80**  ·  Bernardo Silva - 2 **2.10**  ·  Trent Alexander-Arnold - 2 **2.62**  ·  Eduardo Camavinga - 2 **2.62**  ·  Dean Huijsen - 2 **2.25**  ·  Alvaro Carreras - 2 **2.62**  ·  Antonio Rudiger - 2 **3.50**  ·  Eder Militao - 2 **2.62**  ·  Marc Cucurella - 2 **3.50**  ·  Ibrahima Konate - 2 **3.50**  ·  Kylian Mbappe - 3 **1.05**  ·  Carlos Espi - 3 **1.12**  ·  Endrick - 3 **1.28**  ·  Jude Bellingham - 3 **1.91**  ·  Yan Diomande - 3 **1.62**  ·  Arda Guler - 3 **2.20**  ·  Brahim Diaz - 3 **2.20**  ·  Denzel Dumfries - 3 **3.40**  ·  Thiago Pitarch - 3 **2.50**  ·  Aurelien Tchouameni - 3 **4.00**  ·  Federico Valverde - 3 **3.40**  ·  Bernardo Silva - 3 **4.33**  ·  Trent Alexander-Arnold - 3 **6.00**  ·  Eduardo Camavinga - 3 **6.00**  ·  Dean Huijsen - 3 **5.00**  ·  Alvaro Carreras - 3 **6.00**  ·  Antonio Rudiger - 3 **10.00**  ·  Eder Militao - 3 **6.00**  ·  Marc Cucurella - 3 **10.00**  ·  Ibrahima Konate - 3 **10.00**  ·  Kylian Mbappe - 4 **1.14**  ·  Carlos Espi - 4 **1.33**  ·  Endrick - 4 **1.67**  ·  Jude Bellingham - 4 **3.40**  ·  Yan Diomande - 4 **2.50**  ·  Arda Guler - 4 **3.75**  ·  Brahim Diaz - 4 **3.75**  ·  Denzel Dumfries - 4 **7.00**  ·  Thiago Pitarch - 4 **4.50**  ·  Aurelien Tchouameni - 4 **9.00**  ·  Federico Valverde - 4 **7.00**  ·  Bernardo Silva - 4 **10.00**  ·  Trent Alexander-Arnold - 4 **15.00**  ·  Eduardo Camavinga - 4 **15.00**  ·  Dean Huijsen - 4 **11.00**  ·  Alvaro Carreras - 4 **15.00**  ·  Antonio Rudiger - 4 **21.00**  ·  Eder Militao - 4 **15.00**  ·  Marc Cucurella - 4 **21.00**  ·  Ibrahima Konate - 4 **21.00**  ·  Kylian Mbappe - 5 **1.33**  ·  Carlos Espi - 5 **1.73**  ·  Endrick - 5 **2.50**  ·  Jude Bellingham - 5 **6.00**  ·  Yan Diomande - 5 **4.00**  ·  Arda Guler - 5 **8.00**  ·  Brahim Diaz - 5 **8.00**  ·  Denzel Dumfries - 5 **15.00**  ·  Thiago Pitarch - 5 **10.00**  ·  Aurelien Tchouameni - 5 **21.00**  ·  Federico Valverde - 5 **15.00**  ·  Bernardo Silva - 5 **21.00**  ·  Dean Huijsen - 5 **21.00**  ·  Kylian Mbappe - 6 **1.67**  ·  Carlos Espi - 6 **2.38**  ·  Endrick - 6 **4.00**  ·  Jude Bellingham - 6 **13.00**  ·  Yan Diomande - 6 **8.00**  ·  Arda Guler - 6 **15.00**  ·  Brahim Diaz - 6 **15.00**  ·  Thiago Pitarch - 6 **21.00**  ·  Kylian Mbappe - 7 **2.20**  ·  Carlos Espi - 7 **3.50**  ·  Endrick - 7 **7.00**  ·  Jude Bellingham - 7 **21.00**  ·  Yan Diomande - 7 **15.00**  ·  Kylian Mbappe - 8 **3.25**  ·  Carlos Espi - 8 **6.00**  ·  Endrick - 8 **13.00**  ·  Yan Diomande - 8 **21.00**  ·  Kylian Mbappe - 9 **5.00**  ·  Carlos Espi - 9 **10.00**  ·  Endrick - 9 **21.00**  ·  Kylian Mbappe - 10 **8.00**  ·  Carlos Espi - 10 **17.00**  ·  Kylian Mbappe - 11 **13.00**  ·  Carlos Espi - 11 **21.00**  ·  Kylian Mbappe - 12 **21.00**  ·  Endrick - 1 **1.01**  ·  Kylian Mbappe - 2 **1.01**  ·  Carlos Espi - 2 **1.03**
 - **Anytime Goal Scorer:** Yan Diomande **2.60**  ·  Filip Ugrinic **6.00**  ·  Carlos Espi **1.80**  ·  Ibrahima Konate **8.00**  ·  Aurelien Tchouameni **6.50**  ·  Antonio Rudiger **8.00**  ·  Arda Guler **3.60**  ·  Bernardo Silva **5.50**  ·  Aimar Blazquez **4.75**  ·  Thiago Pitarch **4.00**  ·  Ryunosuke Sato **6.00**  ·  Guido Rodriguez **9.00**  ·  David Otorbi **8.00**  ·  Kylian Mbappe **1.50**  ·  Arnau Martinez **15.00**  ·  Jose Pepelu **9.00**  ·  Jesus Vazquez **15.00**  ·  Cesar Tarrega **15.00**  ·  Iker Cordoba **15.00**  ·  Jose Gaya **15.00**  ·  Brahim Diaz **3.60**  ·  Daniel Raba **3.75**  ·  Aliou Dieng **15.00**  ·  Alvaro Carreras **6.50**  ·  Aaron Mayol **12.00**  ·  Justin de Haas **15.00**  ·  Dimitri Foulquier **15.00**  ·  Hugo Duro **3.60**  ·  Javi Guerra **6.50**  ·  Luis Rioja **8.00**  ·  Marc Cucurella **8.00**  ·  Trent Alexander-Arnold **6.50**  ·  Pablo Maffeo **12.00**  ·  Federico Valverde **4.75**  ·  Jude Bellingham **3.25**  ·  Dean Huijsen **6.50**  ·  Arnaut Danjuma **4.75**  ·  Sadiq Umar **3.60**  ·  Eduardo Camavinga **6.50**  ·  Eder Militao **6.50**  ·  Endrick **2.30**  ·  Denzel Dumfries **5.50**  ·  Harvey Elliott **8.00**  ·  Mouctar Diakhaby **10.00**
-- **Player to Score or Assist:** Yan Diomande **1.67**  ·  Filip Ugrinic **3.75**  ·  Carlos Espi **1.53**  ·  Ibrahima Konate **4.33**  ·  Aurelien Tchouameni **3.75**  ·  Antonio Rudiger **4.75**  ·  Arda Guler **1.73**  ·  Bernardo Silva **2.75**  ·  Aimar Blazquez **3.00**  ·  Thiago Pitarch **2.30**  ·  Ryunosuke Sato **3.60**  ·  Guido Rodriguez **6.00**  ·  David Otorbi **3.75**  ·  Kylian Mbappe **1.25**  ·  Arnau Martinez **6.00**  ·  Jose Pepelu **5.50**  ·  Jesus Vazquez **7.50**  ·  Cesar Tarrega **10.00**  ·  Iker Cordoba **9.50**  ·  Jose Gaya **6.50**  ·  Brahim Diaz **2.05**  ·  Daniel Raba **2.62**  ·  Aliou Dieng **9.50**  ·  Alvaro Carreras **3.75**  ·  Aaron Mayol **5.00**  ·  Justin de Haas **11.00**  ·  Hugo Duro **2.88**  ·  Javi Guerra **3.60**  ·  Luis Rioja **4.00**  ·  Marc Cucurella **3.75**  ·  Trent Alexander-Arnold **2.30**  ·  Pablo Maffeo **9.50**  ·  Federico Valverde **2.40**  ·  Jude Bellingham **2.00**  ·  Dean Huijsen **4.00**  ·  Arnaut Danjuma **3.25**  ·  Sadiq Umar **2.62**  ·  Eduardo Camavinga **3.75**  ·  Eder Militao **4.50**  ·  Endrick **1.57**  ·  Denzel Dumfries **2.40**  ·  Harvey Elliott **3.75**  ·  Mouctar Diakhaby **7.00**
+- **Player to Score or Assist:** Yan Diomande **1.67**  ·  Filip Ugrinic **3.75**  ·  Carlos Espi **1.53**  ·  Ibrahima Konate **4.50**  ·  Aurelien Tchouameni **3.75**  ·  Antonio Rudiger **4.75**  ·  Arda Guler **1.73**  ·  Bernardo Silva **2.75**  ·  Aimar Blazquez **3.25**  ·  Thiago Pitarch **2.30**  ·  Ryunosuke Sato **3.75**  ·  Guido Rodriguez **6.50**  ·  David Otorbi **4.00**  ·  Kylian Mbappe **1.25**  ·  Arnau Martinez **6.50**  ·  Jose Pepelu **5.50**  ·  Jesus Vazquez **8.50**  ·  Cesar Tarrega **10.00**  ·  Iker Cordoba **9.50**  ·  Jose Gaya **6.50**  ·  Brahim Diaz **1.95**  ·  Daniel Raba **2.75**  ·  Aliou Dieng **9.50**  ·  Alvaro Carreras **3.60**  ·  Aaron Mayol **5.00**  ·  Justin de Haas **12.00**  ·  Dimitri Foulquier **9.00**  ·  Hugo Duro **3.00**  ·  Javi Guerra **3.60**  ·  Luis Rioja **4.33**  ·  Marc Cucurella **3.75**  ·  Trent Alexander-Arnold **2.30**  ·  Pablo Maffeo **10.00**  ·  Federico Valverde **2.40**  ·  Jude Bellingham **2.00**  ·  Dean Huijsen **4.00**  ·  Arnaut Danjuma **3.40**  ·  Sadiq Umar **2.88**  ·  Eduardo Camavinga **3.75**  ·  Eder Militao **4.33**  ·  Endrick **1.57**  ·  Denzel Dumfries **2.40**  ·  Harvey Elliott **4.00**  ·  Mouctar Diakhaby **7.50**
 
 ## Estadísticas de equipo
 | | Valencia (total) | Valencia en casa | Real Madrid (total) | Real Madrid fuera |
@@ -196,9 +196,9 @@ _Goles esperados: local 0,66 · visitante 2,11 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 71% | 71% | 71% | 1.30 | -8% |
-| 1X2: X | 19% | 17% | 18% | 5.50 | -3% |
-| 1X2: 1 | 10% | 12% | 11% | 7.50 | -15% |
+| 1X2: 2 | 71% | 71% | 71% | 1.33 | -6% |
+| 1X2: X | 19% | 17% | 18% | 5.50 | -2% |
+| 1X2: 1 | 10% | 12% | 11% | 8.00 | -11% |
 | Doble oportunidad: X2 | 90% | 87% | 88% | 1.10 | -3% |
 | Doble oportunidad: 12 | 81% | 84% | 83% | 1.14 | -6% |
 | Doble oportunidad: 1X | 29% | 28% | 29% | 3.40 | -3% |
@@ -216,14 +216,14 @@ _Goles esperados: local 0,66 · visitante 2,11 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Goles del local: Más de 0.5 | 48% | 61% | 55% | 1.53 | -16% |
+| Goles del local: Más de 0.5 | 48% | 59% | 54% | 1.57 | -16% |
 | Goles del local: Más de 1.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles del local: Menos de 0.5 | 52% | 39% | 45% | 2.38 | +8% |
+| Goles del local: Menos de 0.5 | 52% | 41% | 46% | 2.25 | +4% |
 | Goles del local: Menos de 1.5 | 86% | 75% | 80% | 1.25 | +0% |
-| Goles del visitante: Más de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
+| Goles del visitante: Más de 1.5 | 62% | 72% | 67% | 1.30 | -12% |
 | Goles del visitante: Más de 2.5 | 35% | 50% | 43% | 1.83 | -22% |
 | Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
-| Goles del visitante: Menos de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
+| Goles del visitante: Menos de 1.5 ✅ | 38% | 28% | 33% | 3.40 | +11% |
 | Goles del visitante: Menos de 2.5 | 65% | 50% | 57% | 1.83 | +5% |
 | Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
