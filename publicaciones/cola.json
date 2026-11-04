@@ -2912,7 +2912,16 @@
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "nota": "04/11 01:10: Marcos «la del Barça con escudos ha tenido muchos likes, mañana una a la misma hora del Madrid» y otra del Liverpool después"
+    "nota": "04/11 01:10: Marcos «la del Barça con escudos ha tenido muchos likes, mañana una a la misma hora del Madrid» y otra del Liverpool después",
+    "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635606-madrid.tarjeta.jpg",
+    "enviado": "2026-11-04T12:15",
+    "mensaje_id": 280,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18190986967412018",
+      "instagram": "18047006996829817",
+      "instagram_story": "18211383562374011"
+    }
   },
   {
     "id": "2026-11-04-combi-partido-1635658-liverpool",
