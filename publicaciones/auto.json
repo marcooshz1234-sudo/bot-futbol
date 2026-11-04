@@ -2041,7 +2041,7 @@
   {
     "id": "2026-11-04-combi-partido-1635745",
     "fecha": "2026-11-04T20:25",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VIKING vs SABAH FA ⭐\n\n🎯 ZLATKO TRIPIC: 1+ TIROS A PUERTA [x1.36]\n✅ GIANNI STENSNESS COMETE 1+ FALTAS [x1.44]\n✅ PETER CHRISTIANSEN COMETE 2+ FALTAS [x1.67]\n✅ SABAH FA HACE 3+ CÓRNERS [x1.15]\n✅ MÁS DE 28,5 TIROS [x1.83]\n\n💥 Cuota total aprox.: 5,66\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ VIKING vs SABAH FA ⭐\n\n🎯 ZLATKO TRIPIC: 1+ TIROS A PUERTA [x1.33]\n✅ GIANNI STENSNESS COMETE 1+ FALTAS [x1.36]\n✅ PETER CHRISTIANSEN COMETE 2+ FALTAS [x1.67]\n✅ SABAH FA HACE 3+ CÓRNERS [x1.15]\n✅ MÁS DE 28,5 TIROS [x1.83]\n\n💥 Cuota total aprox.: 5,23\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2053,8 +2053,8 @@
       "1635745|Total Shots|Over 28.5"
     ],
     "cuotas": [
+      1.33,
       1.36,
-      1.44,
       1.67,
       1.15,
       1.83
@@ -2069,12 +2069,13 @@
       "logo_v": "https://media.api-sports.io/football/teams/13976.png",
       "fecha": "2026-11-04T21:00",
       "liga": "Champions"
-    }
+    },
+    "cuotas_revisadas": "2026-11-04T18:55"
   },
   {
     "id": "2026-11-04-estrella-1635656",
     "fecha": "2026-11-04T20:25",
-    "texto": "⭐ FC PORTO 🆚 NAPOLI ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Scott McTominay: 2+ tiros\n✅2. Gana el FC Porto\n✅3. Más de 26,5 tiros\n\n🎯 Cuota: 4,26\n💶 10€ → 42,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⭐ FC PORTO 🆚 NAPOLI ⭐\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Scott McTominay: 2+ tiros\n✅2. Gana el FC Porto\n✅3. Más de 26,5 tiros\n\n🎯 Cuota: 4,26\n💶 10€ → 36,90€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2086,9 +2087,10 @@
     "cuotas": [
       1.44,
       1.9,
-      2.0
+      1.73
     ],
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "cuotas_revisadas": "2026-11-04T18:55"
   },
   {
     "id": "2026-11-04-estrella-1635651",
