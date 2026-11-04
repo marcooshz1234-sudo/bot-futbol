@@ -1,10 +1,10 @@
 # Crystal Palace – 1899 Hoffenheim
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:08_
+_Actualizadas: 04/11 08:22_
 
 - **1X2:** 1 **1.85**  ·  X **4.00**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **1.91**
@@ -52,9 +52,9 @@ _Actualizadas: 04/11 02:08_
     - 4,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Home Team Total Cards:**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **2.25** · menos **1.57**
 - **Away Team Total Cards:**
-    - 2,5: más **2.00** · menos **1.73**
+    - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 9,5: más **1.91** · menos **1.80**
 - **ShotOnTarget 1x2:** 1 **1.40**  ·  X **8.00**  ·  2 **3.50**

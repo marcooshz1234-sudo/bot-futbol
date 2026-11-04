@@ -1,10 +1,10 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadion Graz-Liebenau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:09_
+_Actualizadas: 04/11 08:22_
 
 - **1X2:** 1 **1.53**  ·  X **4.33**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.38**
@@ -30,7 +30,7 @@ _Actualizadas: 04/11 02:09_
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.88** · menos **1.92**
 - **Tarjetas más/menos:**
     - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
@@ -219,8 +219,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 14% | 28% | 21% | 3.40 | -29% |
 | Goles del visitante: Menos de 0.5 | 52% | 38% | 45% | 2.50 | +12% |
 | Goles del visitante: Menos de 1.5 | 86% | 72% | 79% | 1.30 | +3% |
-| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Córners más/menos: Más de 9.5 | 44% | 51% | 47% | 1.88 | -11% |
+| Córners más/menos: Menos de 9.5 | 56% | 49% | 53% | 1.92 | +1% |
 | 1X2 descanso: X | 47% | 37% | 42% | 2.50 | +5% |
 | 1X2 descanso: 1 | 39% | 46% | 42% | 2.00 | -15% |
 

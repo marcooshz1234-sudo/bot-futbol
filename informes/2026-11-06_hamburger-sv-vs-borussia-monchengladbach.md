@@ -1,10 +1,10 @@
 # Hamburger SV – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 9 · 06/11/2026 20:30 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:09_
+_Actualizadas: 04/11 08:22_
 
 - **1X2:** 1 **2.38**  ·  X **3.60**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**

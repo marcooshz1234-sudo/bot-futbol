@@ -1,10 +1,10 @@
 # FC Lugano – Kauno Žalgiris
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · AIL Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:09_
+_Actualizadas: 04/11 08:22_
 
 - **1X2:** 1 **1.20**  ·  X **6.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.11**  ·  X2 **4.33**
@@ -14,7 +14,7 @@ _Actualizadas: 04/11 02:09_
     - 2,5: más **1.36** · menos **3.10**
     - 3,5: más **1.83** · menos **1.83**
     - 4,5: más **3.00** · menos **1.36**
-    - 5,5: más **5.00** · menos **1.17**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.18** · menos **4.50**
@@ -31,7 +31,7 @@ _Actualizadas: 04/11 02:09_
     - 0,5: más **1.80** · menos **1.91**
     - 1,5: más **5.00** · menos **1.17**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.88** · menos **1.92**
 - **1X2 descanso:** 1 **1.53**  ·  X **3.10**  ·  2 **9.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**
@@ -215,8 +215,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -5% |
 | Goles del visitante: Más de 0.5 | 55% | 51% | 53% | 1.80 | -4% |
 | Goles del visitante: Menos de 0.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Córners más/menos: Más de 9.5 | 50% | 50% | 50% | 1.83 | -8% |
-| Córners más/menos: Menos de 9.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Córners más/menos: Más de 9.5 | 50% | 51% | 50% | 1.88 | -5% |
+| Córners más/menos: Menos de 9.5 | 50% | 49% | 50% | 1.92 | -5% |
 | 1X2 descanso: X | 30% | 30% | 30% | 3.10 | -8% |
 | 1X2 descanso: 1 | 60% | 60% | 60% | 1.53 | -8% |
 

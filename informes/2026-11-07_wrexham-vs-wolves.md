@@ -1,7 +1,7 @@
 # Wrexham – Wolves
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 02:09_

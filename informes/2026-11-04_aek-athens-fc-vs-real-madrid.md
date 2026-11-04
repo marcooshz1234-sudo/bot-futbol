@@ -1,14 +1,14 @@
 # AEK Athens FC – Real Madrid
 **Champions League** · League Stage - 4 · 04/11/2026 18:45 (hora España) · Allwyn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:08_
+_Actualizadas: 04/11 08:21_
 
-- **1X2:** 1 **11.00**  ·  X **7.50**  ·  2 **1.20**
-- **Doble oportunidad:** 1X **4.00**  ·  12 **1.10**  ·  X2 **1.05**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **13.00**  ·  X **7.50**  ·  2 **1.18**
+- **Doble oportunidad:** 1X **4.33**  ·  12 **1.10**  ·  X2 **1.05**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
     - 2,5: más **1.28** · menos **3.75**
@@ -18,21 +18,21 @@ _Actualizadas: 04/11 02:08_
     - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.20**
     - 3,5: más **2.62** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.92** · menos **1.88**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 3,5: más **1.91** · menos **1.80**
     - 4,5: más **2.20** · menos **1.62**
@@ -42,14 +42,14 @@ _Actualizadas: 04/11 02:08_
     - 1,5: más **1.50** · menos **2.50**
     - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **13.00** · menos **1.04**
+    - 4,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **4.33**  ·  2 **1.11**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.57**
 - **Win Both Halves:** 1 **41.00**  ·  2 **2.25**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.20**  ·  Home/No **23.00**  ·  Draw/No **34.00**  ·  Away/No **2.38**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.33**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.20**  ·  Home/No **23.00**  ·  Draw/No **34.00**  ·  Away/No **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.50**
 - **Home Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
@@ -68,7 +68,7 @@ _Actualizadas: 04/11 02:08_
     - 30,5: más **2.00** · menos **1.73**
 - **Shots.1x2:** 1 **5.50**  ·  X **19.00**  ·  2 **1.14**
 - **Home Player Shots On Target Total:** Aboubakary Koita - 1 **1.67**  ·  Lovro Majer - 1 **2.00**  ·  Oleksandr Zubkov - 1 **1.73**  ·  Derek Kutesa - 1 **2.20**  ·  Dimitrios Kaloskamis - 1 **1.67**  ·  Razvan Marin - 1 **3.25**  ·  Mijat Gacinovic - 1 **2.20**  ·  Petros Mantalos - 1 **2.20**  ·  Kaan Kairinen - 1 **5.50**  ·  Stavros Pilios - 1 **6.50**  ·  Lazaros Rota - 1 **9.00**  ·  Filipe Relvas - 1 **6.50**  ·  Harold Moukoudi - 1 **4.50**  ·  Domagoj Vida - 1 **4.50**  ·  Martin Pavlov Georgiev - 1 **3.75**  ·  Ambrosini Zini - 2 **3.25**  ·  Barnabas Varga - 2 **5.50**  ·  Luka Jovic - 2 **3.40**  ·  Aboubakary Koita - 2 **4.33**  ·  Lovro Majer - 2 **6.50**  ·  Oleksandr Zubkov - 2 **4.50**  ·  Derek Kutesa - 2 **8.00**  ·  Dimitrios Kaloskamis - 2 **4.33**  ·  Razvan Marin - 2 **15.00**  ·  Mijat Gacinovic - 2 **8.00**  ·  Petros Mantalos - 2 **8.00**  ·  Harold Moukoudi - 2 **21.00**  ·  Domagoj Vida - 2 **21.00**  ·  Martin Pavlov Georgiev - 2 **19.00**  ·  Ambrosini Zini - 3 **9.00**  ·  Barnabas Varga - 3 **19.00**  ·  Luka Jovic - 3 **10.00**  ·  Aboubakary Koita - 3 **13.00**  ·  Lovro Majer - 3 **21.00**  ·  Oleksandr Zubkov - 3 **17.00**  ·  Derek Kutesa - 3 **21.00**  ·  Dimitrios Kaloskamis - 3 **13.00**  ·  Mijat Gacinovic - 3 **21.00**  ·  Petros Mantalos - 3 **21.00**  ·  Ambrosini Zini - 4 **21.00**  ·  Luka Jovic - 4 **21.00**  ·  Ambrosini Zini - 1 **1.44**  ·  Barnabas Varga - 1 **1.83**  ·  Luka Jovic - 1 **1.50**  ·  Joao Mario - 1 **2.62**  ·  Joao Mario - 2 **11.00**  ·  Charalambos Lykogiannis - 1 **4.00**  ·  Kervin Arriaga - 1 **4.00**  ·  Charalambos Lykogiannis - 2 **21.00**  ·  Kervin Arriaga - 2 **21.00**  ·  Christos Alexiou - 1 **9.00**  ·  Spyros Christakopoulos - 1 **9.00**
-- **Away Player Shots On Target Total:** Martin Pavlov Georgiev **126.00**  ·  Yan Diomande **8.50**  ·  Oleksandr Zubkov **51.00**  ·  Carlos Espi **4.00**  ·  Ibrahima Konate **11.00**  ·  Aurelien Tchouameni **19.00**  ·  Antonio Rudiger **11.00**  ·  Petros Mantalos **81.00**  ·  Lazaros Rota **201.00**  ·  Arda Guler **29.00**  ·  Barnabas Varga **6.50**  ·  Bernardo Silva **41.00**  ·  Aboubakary Koita **29.00**  ·  Thiago Pitarch **34.00**  ·  Ambrosini Zini **26.00**  ·  Kylian Mbappe **15.00**  ·  Mijat Gacinovic **41.00**  ·  Domagoj Vida **26.00**  ·  Harold Moukoudi **23.00**  ·  Stavros Pilios **201.00**  ·  Brahim Diaz **29.00**  ·  Joao Mario **67.00**  ·  Charalambos Lykogiannis **126.00**  ·  Kaan Kairinen **67.00**  ·  Alvaro Carreras **51.00**  ·  Spyros Christakopoulos **34.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **41.00**  ·  Jude Bellingham **11.00**  ·  Dean Huijsen **8.50**  ·  Dimitrios Kaloskamis **41.00**  ·  Luka Jovic **11.00**  ·  Kervin Arriaga **51.00**  ·  Derek Kutesa **67.00**  ·  Razvan Marin **81.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.50**  ·  Endrick **13.00**  ·  Denzel Dumfries **12.00**  ·  Vinicius Jr. **19.00**  ·  Lovro Majer **34.00**  ·  Christos Alexiou **51.00**  ·  Filipe Relvas **29.00**  ·  Milan Vitalis **101.00**
+- **Away Player Shots On Target Total:** Martin Pavlov Georgiev **101.00**  ·  Yan Diomande **8.50**  ·  Oleksandr Zubkov **51.00**  ·  Carlos Espi **4.00**  ·  Ibrahima Konate **11.00**  ·  Aurelien Tchouameni **17.00**  ·  Antonio Rudiger **10.00**  ·  Petros Mantalos **67.00**  ·  Lazaros Rota **151.00**  ·  Arda Guler **29.00**  ·  Barnabas Varga **6.00**  ·  Bernardo Silva **41.00**  ·  Aboubakary Koita **29.00**  ·  Thiago Pitarch **34.00**  ·  Ambrosini Zini **23.00**  ·  Kylian Mbappe **15.00**  ·  Mijat Gacinovic **34.00**  ·  Domagoj Vida **26.00**  ·  Harold Moukoudi **23.00**  ·  Stavros Pilios **201.00**  ·  Brahim Diaz **29.00**  ·  Joao Mario **51.00**  ·  Charalambos Lykogiannis **126.00**  ·  Kaan Kairinen **67.00**  ·  Alvaro Carreras **51.00**  ·  Spyros Christakopoulos **29.00**  ·  Marc Cucurella **21.00**  ·  Trent Alexander-Arnold **51.00**  ·  Federico Valverde **41.00**  ·  Jude Bellingham **11.00**  ·  Dean Huijsen **8.50**  ·  Dimitrios Kaloskamis **41.00**  ·  Luka Jovic **11.00**  ·  Kervin Arriaga **51.00**  ·  Derek Kutesa **51.00**  ·  Razvan Marin **81.00**  ·  Eduardo Camavinga **51.00**  ·  Eder Militao **7.50**  ·  Endrick **13.00**  ·  Denzel Dumfries **12.00**  ·  Vinicius Jr. **19.00**  ·  Lovro Majer **34.00**  ·  Christos Alexiou **41.00**  ·  Filipe Relvas **29.00**  ·  Milan Vitalis **101.00**
 - **Away Player Shots Total:**
     - 16,5: más **1.73** · menos **2.00**
     - 17,5: más **2.00** · menos **1.73**
@@ -77,8 +77,8 @@ _Actualizadas: 04/11 02:08_
 - **Away Player Shots:** Jude Bellingham - 1 **1.05**  ·  Yan Diomande - 1 **1.10**  ·  Arda Guler - 1 **1.07**  ·  Brahim Diaz - 1 **1.20**  ·  Denzel Dumfries - 1 **1.25**  ·  Thiago Pitarch - 1 **1.44**  ·  Aurelien Tchouameni - 1 **1.22**  ·  Federico Valverde - 1 **1.20**  ·  Bernardo Silva - 1 **1.44**  ·  Trent Alexander-Arnold - 1 **1.25**  ·  Eduardo Camavinga - 1 **1.53**  ·  Dean Huijsen - 1 **1.62**  ·  Alvaro Carreras - 1 **2.62**  ·  Antonio Rudiger - 1 **1.62**  ·  Eder Militao - 1 **1.25**  ·  Marc Cucurella - 1 **1.62**  ·  Ibrahima Konate - 1 **2.62**  ·  Endrick - 2 **1.11**  ·  Vinicius Jr. - 2 **1.17**  ·  Jude Bellingham - 2 **1.30**  ·  Yan Diomande - 2 **1.50**  ·  Arda Guler - 2 **1.36**  ·  Brahim Diaz - 2 **1.83**  ·  Denzel Dumfries - 2 **2.10**  ·  Thiago Pitarch - 2 **3.00**  ·  Aurelien Tchouameni - 2 **2.00**  ·  Federico Valverde - 2 **1.83**  ·  Bernardo Silva - 2 **3.00**  ·  Trent Alexander-Arnold - 2 **2.10**  ·  Eduardo Camavinga - 2 **3.40**  ·  Dean Huijsen - 2 **3.75**  ·  Alvaro Carreras - 2 **9.00**  ·  Antonio Rudiger - 2 **3.75**  ·  Eder Militao - 2 **2.10**  ·  Marc Cucurella - 2 **3.75**  ·  Ibrahima Konate - 2 **9.00**  ·  Kylian Mbappe - 3 **1.06**  ·  Carlos Espi - 3 **1.25**  ·  Endrick - 3 **1.36**  ·  Vinicius Jr. - 3 **1.53**  ·  Jude Bellingham - 3 **1.83**  ·  Yan Diomande - 3 **2.38**  ·  Arda Guler - 3 **2.00**  ·  Brahim Diaz - 3 **3.75**  ·  Denzel Dumfries - 3 **4.33**  ·  Thiago Pitarch - 3 **7.00**  ·  Aurelien Tchouameni - 3 **4.00**  ·  Federico Valverde - 3 **3.75**  ·  Bernardo Silva - 3 **7.00**  ·  Trent Alexander-Arnold - 3 **4.33**  ·  Eduardo Camavinga - 3 **9.00**  ·  Dean Huijsen - 3 **10.00**  ·  Antonio Rudiger - 3 **10.00**  ·  Eder Militao - 3 **4.33**  ·  Marc Cucurella - 3 **10.00**  ·  Kylian Mbappe - 4 **1.18**  ·  Carlos Espi - 4 **1.57**  ·  Endrick - 4 **1.83**  ·  Vinicius Jr. - 4 **2.20**  ·  Jude Bellingham - 4 **3.00**  ·  Yan Diomande - 4 **4.33**  ·  Arda Guler - 4 **3.50**  ·  Brahim Diaz - 4 **8.00**  ·  Denzel Dumfries - 4 **11.00**  ·  Thiago Pitarch - 4 **19.00**  ·  Aurelien Tchouameni - 4 **9.00**  ·  Federico Valverde - 4 **8.00**  ·  Bernardo Silva - 4 **19.00**  ·  Trent Alexander-Arnold - 4 **11.00**  ·  Eduardo Camavinga - 4 **21.00**  ·  Dean Huijsen - 4 **21.00**  ·  Antonio Rudiger - 4 **21.00**  ·  Eder Militao - 4 **11.00**  ·  Marc Cucurella - 4 **21.00**  ·  Kylian Mbappe - 5 **1.40**  ·  Carlos Espi - 5 **2.20**  ·  Endrick - 5 **2.75**  ·  Vinicius Jr. - 5 **3.75**  ·  Jude Bellingham - 5 **5.50**  ·  Yan Diomande - 5 **9.00**  ·  Arda Guler - 5 **6.50**  ·  Brahim Diaz - 5 **19.00**  ·  Denzel Dumfries - 5 **21.00**  ·  Aurelien Tchouameni - 5 **21.00**  ·  Federico Valverde - 5 **19.00**  ·  Trent Alexander-Arnold - 5 **21.00**  ·  Kylian Mbappe - 6 **1.80**  ·  Carlos Espi - 6 **3.50**  ·  Endrick - 6 **4.50**  ·  Vinicius Jr. - 6 **6.50**  ·  Jude Bellingham - 6 **11.00**  ·  Yan Diomande - 6 **19.00**  ·  Arda Guler - 6 **13.00**  ·  Kylian Mbappe - 7 **2.50**  ·  Carlos Espi - 7 **6.00**  ·  Endrick - 7 **8.00**  ·  Vinicius Jr. - 7 **13.00**  ·  Jude Bellingham - 7 **21.00**  ·  Arda Guler - 7 **21.00**  ·  Kylian Mbappe - 8 **3.75**  ·  Carlos Espi - 8 **11.00**  ·  Endrick - 8 **15.00**  ·  Vinicius Jr. - 8 **21.00**  ·  Kylian Mbappe - 9 **6.00**  ·  Carlos Espi - 9 **19.00**  ·  Endrick - 9 **21.00**  ·  Kylian Mbappe - 10 **10.00**  ·  Kylian Mbappe - 11 **17.00**  ·  Kylian Mbappe - 12 **21.00**  ·  Carlos Espi - 1 **1.01**  ·  Endrick - 1 **1.01**  ·  Vinicius Jr. - 1 **1.02**  ·  Kylian Mbappe - 2 **1.01**  ·  Carlos Espi - 2 **1.07**  ·  Eder Militao - 5 **21.00**
 - **Player Fouls Committed:** Aboubakary Koita - 1 **1.06**  ·  Lovro Majer - 1 **1.05**  ·  Oleksandr Zubkov - 1 **1.30**  ·  Derek Kutesa - 1 **1.62**  ·  Dimitrios Kaloskamis - 1 **1.30**  ·  Razvan Marin - 1 **1.02**  ·  Mijat Gacinovic - 1 **1.01**  ·  Petros Mantalos - 1 **1.01**  ·  Kaan Kairinen - 1 **1.14**  ·  Stavros Pilios - 1 **1.25**  ·  Lazaros Rota - 1 **1.06**  ·  Filipe Relvas - 1 **1.36**  ·  Harold Moukoudi - 1 **1.36**  ·  Domagoj Vida - 1 **1.11**  ·  Martin Pavlov Georgiev - 1 **1.50**  ·  Ambrosini Zini - 2 **1.73**  ·  Barnabas Varga - 2 **1.73**  ·  Luka Jovic - 2 **1.44**  ·  Aboubakary Koita - 2 **1.33**  ·  Lovro Majer - 2 **1.28**  ·  Oleksandr Zubkov - 2 **2.38**  ·  Derek Kutesa - 2 **3.75**  ·  Dimitrios Kaloskamis - 2 **2.38**  ·  Razvan Marin - 2 **1.12**  ·  Mijat Gacinovic - 2 **1.10**  ·  Petros Mantalos - 2 **1.10**  ·  Kaan Kairinen - 2 **1.62**  ·  Stavros Pilios - 2 **2.10**  ·  Lazaros Rota - 2 **1.33**  ·  Filipe Relvas - 2 **2.62**  ·  Harold Moukoudi - 2 **2.62**  ·  Domagoj Vida - 2 **1.53**  ·  Martin Pavlov Georgiev - 2 **3.40**  ·  Ambrosini Zini - 3 **3.40**  ·  Barnabas Varga - 3 **3.40**  ·  Luka Jovic - 3 **2.38**  ·  Aboubakary Koita - 3 **2.00**  ·  Lovro Majer - 3 **1.83**  ·  Oleksandr Zubkov - 3 **5.50**  ·  Derek Kutesa - 3 **11.00**  ·  Dimitrios Kaloskamis - 3 **5.50**  ·  Razvan Marin - 3 **1.44**  ·  Mijat Gacinovic - 3 **1.33**  ·  Petros Mantalos - 3 **1.33**  ·  Kaan Kairinen - 3 **3.00**  ·  Stavros Pilios - 3 **4.33**  ·  Lazaros Rota - 3 **2.00**  ·  Filipe Relvas - 3 **6.50**  ·  Harold Moukoudi - 3 **6.50**  ·  Domagoj Vida - 3 **2.62**  ·  Martin Pavlov Georgiev - 3 **9.00**  ·  Ambrosini Zini - 4 **7.00**  ·  Barnabas Varga - 4 **7.00**  ·  Luka Jovic - 4 **4.33**  ·  Aboubakary Koita - 4 **3.50**  ·  Lovro Majer - 4 **3.25**  ·  Oleksandr Zubkov - 4 **15.00**  ·  Dimitrios Kaloskamis - 4 **15.00**  ·  Razvan Marin - 4 **2.00**  ·  Mijat Gacinovic - 4 **1.80**  ·  Petros Mantalos - 4 **1.80**  ·  Kaan Kairinen - 4 **6.00**  ·  Stavros Pilios - 4 **11.00**  ·  Lazaros Rota - 4 **3.50**  ·  Filipe Relvas - 4 **19.00**  ·  Harold Moukoudi - 4 **19.00**  ·  Ambrosini Zini - 5 **17.00**  ·  Barnabas Varga - 5 **17.00**  ·  Luka Jovic - 5 **10.00**  ·  Aboubakary Koita - 5 **7.00**  ·  Lovro Majer - 5 **6.00**  ·  Razvan Marin - 5 **3.40**  ·  Mijat Gacinovic - 5 **2.75**  ·  Petros Mantalos - 5 **2.75**  ·  Kaan Kairinen - 5 **15.00**  ·  Luka Jovic - 6 **21.00**  ·  Aboubakary Koita - 6 **15.00**  ·  Lovro Majer - 6 **13.00**  ·  Razvan Marin - 6 **6.00**  ·  Mijat Gacinovic - 6 **4.50**  ·  Petros Mantalos - 6 **4.50**  ·  Lovro Majer - 7 **23.00**  ·  Ambrosini Zini - 1 **1.17**  ·  Barnabas Varga - 1 **1.17**  ·  Luka Jovic - 1 **1.08**  ·  Joao Mario - 1 **1.08**  ·  Joao Mario - 2 **1.44**  ·  Joao Mario - 3 **2.38**  ·  Joao Mario - 4 **4.33**  ·  Joao Mario - 5 **10.00**  ·  Joao Mario - 6 **21.00**  ·  Jude Bellingham - 1 **1.25**  ·  Yan Diomande - 1 **1.57**  ·  Arda Guler - 1 **1.30**  ·  Brahim Diaz - 1 **1.67**  ·  Denzel Dumfries - 1 **1.22**  ·  Thiago Pitarch - 1 **1.25**  ·  Aurelien Tchouameni - 1 **1.22**  ·  Federico Valverde - 1 **1.67**  ·  Bernardo Silva - 1 **1.28**  ·  Trent Alexander-Arnold - 1 **1.50**  ·  Eduardo Camavinga - 1 **1.18**  ·  Dean Huijsen - 1 **1.50**  ·  Alvaro Carreras - 1 **1.33**  ·  Antonio Rudiger - 1 **1.73**  ·  Eder Militao - 1 **1.22**  ·  Marc Cucurella - 1 **1.22**  ·  Ibrahima Konate - 1 **1.25**  ·  Endrick - 2 **2.38**  ·  Vinicius Jr. - 2 **2.62**  ·  Jude Bellingham - 2 **2.10**  ·  Yan Diomande - 2 **3.75**  ·  Arda Guler - 2 **2.38**  ·  Brahim Diaz - 2 **4.33**  ·  Denzel Dumfries - 2 **2.00**  ·  Thiago Pitarch - 2 **2.20**  ·  Aurelien Tchouameni - 2 **2.00**  ·  Federico Valverde - 2 **4.33**  ·  Bernardo Silva - 2 **2.20**  ·  Trent Alexander-Arnold - 2 **3.25**  ·  Eduardo Camavinga - 2 **1.83**  ·  Dean Huijsen - 2 **3.25**  ·  Alvaro Carreras - 2 **2.62**  ·  Antonio Rudiger - 2 **4.50**  ·  Eder Militao - 2 **2.00**  ·  Marc Cucurella - 2 **2.00**  ·  Ibrahima Konate - 2 **2.10**  ·  Kylian Mbappe - 3 **19.00**  ·  Carlos Espi - 3 **3.40**  ·  Endrick - 3 **5.50**  ·  Vinicius Jr. - 3 **6.50**  ·  Jude Bellingham - 3 **4.33**  ·  Yan Diomande - 3 **11.00**  ·  Arda Guler - 3 **5.50**  ·  Brahim Diaz - 3 **13.00**  ·  Denzel Dumfries - 3 **4.00**  ·  Thiago Pitarch - 3 **4.50**  ·  Aurelien Tchouameni - 3 **4.00**  ·  Federico Valverde - 3 **13.00**  ·  Bernardo Silva - 3 **5.00**  ·  Trent Alexander-Arnold - 3 **9.00**  ·  Eduardo Camavinga - 3 **3.50**  ·  Dean Huijsen - 3 **9.00**  ·  Alvaro Carreras - 3 **6.00**  ·  Antonio Rudiger - 3 **15.00**  ·  Eder Militao - 3 **4.00**  ·  Marc Cucurella - 3 **4.00**  ·  Ibrahima Konate - 3 **4.33**  ·  Carlos Espi - 4 **7.00**  ·  Endrick - 4 **13.00**  ·  Vinicius Jr. - 4 **17.00**  ·  Jude Bellingham - 4 **11.00**  ·  Yan Diomande - 4 **26.00**  ·  Arda Guler - 4 **13.00**  ·  Denzel Dumfries - 4 **10.00**  ·  Thiago Pitarch - 4 **11.00**  ·  Aurelien Tchouameni - 4 **10.00**  ·  Bernardo Silva - 4 **13.00**  ·  Trent Alexander-Arnold - 4 **23.00**  ·  Eduardo Camavinga - 4 **8.00**  ·  Dean Huijsen - 4 **23.00**  ·  Alvaro Carreras - 4 **17.00**  ·  Eder Militao - 4 **10.00**  ·  Marc Cucurella - 4 **10.00**  ·  Ibrahima Konate - 4 **11.00**  ·  Carlos Espi - 5 **17.00**  ·  Jude Bellingham - 5 **26.00**  ·  Denzel Dumfries - 5 **23.00**  ·  Thiago Pitarch - 5 **26.00**  ·  Aurelien Tchouameni - 5 **23.00**  ·  Eduardo Camavinga - 5 **19.00**  ·  Carlos Espi - 6 **23.00**  ·  Kylian Mbappe - 1 **1.91**  ·  Carlos Espi - 1 **1.17**  ·  Endrick - 1 **1.30**  ·  Vinicius Jr. - 1 **1.36**  ·  Kylian Mbappe - 2 **5.50**  ·  Carlos Espi - 2 **1.80**  ·  Marc Cucurella - 5 **23.00**  ·  Ibrahima Konate - 5 **26.00**  ·  Milan Vitalis - 1 **1.25**  ·  Charalambos Lykogiannis - 1 **1.17**  ·  Kervin Arriaga - 1 **1.20**  ·  Milan Vitalis - 2 **2.10**  ·  Charalambos Lykogiannis - 2 **1.73**  ·  Kervin Arriaga - 2 **1.91**  ·  Milan Vitalis - 3 **4.33**  ·  Charalambos Lykogiannis - 3 **3.40**  ·  Kervin Arriaga - 3 **3.75**  ·  Milan Vitalis - 4 **11.00**  ·  Charalambos Lykogiannis - 4 **7.00**  ·  Kervin Arriaga - 4 **9.00**  ·  Milan Vitalis - 5 **26.00**  ·  Eder Militao - 5 **23.00**  ·  Domagoj Vida - 4 **5.00**  ·  Domagoj Vida - 5 **11.00**  ·  Lazaros Rota - 5 **7.00**  ·  Charalambos Lykogiannis - 5 **17.00**  ·  Kervin Arriaga - 5 **21.00**  ·  Stavros Pilios - 5 **26.00**  ·  Domagoj Vida - 6 **23.00**  ·  Lazaros Rota - 6 **15.00**  ·  Mijat Gacinovic - 7 **9.00**  ·  Petros Mantalos - 7 **9.00**  ·  Razvan Marin - 7 **11.00**  ·  Mijat Gacinovic - 8 **17.00**  ·  Petros Mantalos - 8 **17.00**  ·  Razvan Marin - 8 **21.00**  ·  Martin Pavlov Georgiev - 4 **23.00**  ·  Christos Alexiou - 1 **1.17**  ·  Spyros Christakopoulos - 1 **1.14**  ·  Spyros Christakopoulos - 2 **1.67**  ·  Christos Alexiou - 2 **1.73**  ·  Spyros Christakopoulos - 3 **3.25**  ·  Christos Alexiou - 3 **3.40**  ·  Spyros Christakopoulos - 4 **6.50**  ·  Christos Alexiou - 4 **7.00**  ·  Spyros Christakopoulos - 5 **15.00**  ·  Christos Alexiou - 5 **17.00**
 - **Goalkeeper Saves:** Thibaut Courtois - 2 **1.28**  ·  Thibaut Courtois - 3 **1.83**  ·  Thibaut Courtois - 4 **3.25**  ·  Thibaut Courtois - 5 **6.50**  ·  Thibaut Courtois - 1 **1.05**  ·  Andriy Lunin - 2 **1.05**  ·  Andriy Lunin - 3 **1.05**  ·  Andriy Lunin - 4 **1.30**  ·  Andriy Lunin - 5 **1.30**  ·  Andriy Lunin - 6 **1.91**  ·  Andriy Lunin - 1 **1.05**  ·  Alberto Brignoli - 2 **1.08**  ·  Alberto Brignoli - 3 **1.28**  ·  Alberto Brignoli - 4 **1.73**  ·  Alberto Brignoli - 5 **2.62**  ·  Andriy Lunin - 7 **1.91**  ·  Alberto Brignoli - 6 **4.33**  ·  Alberto Brignoli - 7 **8.00**  ·  Andriy Lunin **6.50**
-- **Anytime Goal Scorer:** Martin Pavlov Georgiev **19.00**  ·  Yan Diomande **2.40**  ·  Oleksandr Zubkov **5.50**  ·  Carlos Espi **1.67**  ·  Ibrahima Konate **7.50**  ·  Aurelien Tchouameni **6.00**  ·  Antonio Rudiger **7.50**  ·  Petros Mantalos **8.00**  ·  Lazaros Rota **19.00**  ·  Arda Guler **3.25**  ·  Barnabas Varga **3.75**  ·  Bernardo Silva **5.00**  ·  Aboubakary Koita **6.00**  ·  Thiago Pitarch **3.75**  ·  Ambrosini Zini **3.75**  ·  Kylian Mbappe **1.36**  ·  Mijat Gacinovic **8.00**  ·  Domagoj Vida **15.00**  ·  Harold Moukoudi **15.00**  ·  Stavros Pilios **21.00**  ·  Brahim Diaz **3.25**  ·  Joao Mario **6.50**  ·  Charalambos Lykogiannis **15.00**  ·  Kaan Kairinen **11.00**  ·  Alvaro Carreras **6.00**  ·  Spyros Christakopoulos **19.00**  ·  Marc Cucurella **7.50**  ·  Trent Alexander-Arnold **6.00**  ·  Federico Valverde **4.33**  ·  Jude Bellingham **3.10**  ·  Dean Huijsen **6.00**  ·  Dimitrios Kaloskamis **6.00**  ·  Luka Jovic **3.60**  ·  Kervin Arriaga **11.00**  ·  Derek Kutesa **6.50**  ·  Razvan Marin **9.50**  ·  Eduardo Camavinga **6.00**  ·  Eder Militao **6.00**  ·  Endrick **2.20**  ·  Denzel Dumfries **5.00**  ·  Vinicius Jr. **2.05**  ·  Lovro Majer **5.50**  ·  Christos Alexiou **19.00**  ·  Filipe Relvas **15.00**  ·  Milan Vitalis **11.00**
-- **Player to Score or Assist:** Martin Pavlov Georgiev **11.00**  ·  Yan Diomande **1.57**  ·  Oleksandr Zubkov **3.10**  ·  Carlos Espi **1.44**  ·  Ibrahima Konate **4.00**  ·  Aurelien Tchouameni **3.50**  ·  Antonio Rudiger **4.50**  ·  Petros Mantalos **3.75**  ·  Lazaros Rota **5.50**  ·  Arda Guler **1.62**  ·  Barnabas Varga **2.75**  ·  Bernardo Silva **2.50**  ·  Aboubakary Koita **3.50**  ·  Thiago Pitarch **2.20**  ·  Ambrosini Zini **2.75**  ·  Kylian Mbappe **1.20**  ·  Mijat Gacinovic **4.33**  ·  Domagoj Vida **8.00**  ·  Harold Moukoudi **9.00**  ·  Stavros Pilios **7.50**  ·  Brahim Diaz **1.83**  ·  Joao Mario **3.50**  ·  Charalambos Lykogiannis **6.00**  ·  Kaan Kairinen **7.00**  ·  Alvaro Carreras **3.40**  ·  Spyros Christakopoulos **7.00**  ·  Marc Cucurella **3.40**  ·  Trent Alexander-Arnold **2.10**  ·  Federico Valverde **2.25**  ·  Jude Bellingham **1.91**  ·  Dean Huijsen **3.75**  ·  Dimitrios Kaloskamis **3.60**  ·  Luka Jovic **2.50**  ·  Kervin Arriaga **7.00**  ·  Derek Kutesa **3.75**  ·  Razvan Marin **3.75**  ·  Eduardo Camavinga **3.60**  ·  Eder Militao **4.00**  ·  Endrick **1.50**  ·  Denzel Dumfries **2.25**  ·  Vinicius Jr. **1.36**  ·  Lovro Majer **3.40**  ·  Christos Alexiou **13.00**  ·  Filipe Relvas **9.00**  ·  Milan Vitalis **5.50**
+- **Anytime Goal Scorer:** Martin Pavlov Georgiev **19.00**  ·  Yan Diomande **2.25**  ·  Oleksandr Zubkov **5.50**  ·  Carlos Espi **1.67**  ·  Ibrahima Konate **7.50**  ·  Aurelien Tchouameni **6.00**  ·  Antonio Rudiger **7.50**  ·  Petros Mantalos **8.00**  ·  Lazaros Rota **19.00**  ·  Arda Guler **3.25**  ·  Barnabas Varga **4.33**  ·  Bernardo Silva **5.00**  ·  Aboubakary Koita **6.00**  ·  Thiago Pitarch **3.75**  ·  Ambrosini Zini **3.75**  ·  Kylian Mbappe **1.36**  ·  Mijat Gacinovic **8.00**  ·  Domagoj Vida **15.00**  ·  Harold Moukoudi **15.00**  ·  Stavros Pilios **21.00**  ·  Brahim Diaz **3.25**  ·  Joao Mario **6.50**  ·  Charalambos Lykogiannis **15.00**  ·  Kaan Kairinen **11.00**  ·  Alvaro Carreras **6.00**  ·  Spyros Christakopoulos **19.00**  ·  Marc Cucurella **7.50**  ·  Trent Alexander-Arnold **6.00**  ·  Federico Valverde **4.33**  ·  Jude Bellingham **2.88**  ·  Dean Huijsen **6.00**  ·  Dimitrios Kaloskamis **6.00**  ·  Luka Jovic **3.75**  ·  Kervin Arriaga **11.00**  ·  Derek Kutesa **6.50**  ·  Razvan Marin **9.50**  ·  Eduardo Camavinga **6.00**  ·  Eder Militao **6.00**  ·  Endrick **2.20**  ·  Denzel Dumfries **5.00**  ·  Vinicius Jr. **2.00**  ·  Lovro Majer **5.50**  ·  Christos Alexiou **19.00**  ·  Filipe Relvas **15.00**  ·  Milan Vitalis **11.00**
+- **Player to Score or Assist:** Martin Pavlov Georgiev **11.00**  ·  Yan Diomande **1.53**  ·  Oleksandr Zubkov **3.20**  ·  Carlos Espi **1.44**  ·  Ibrahima Konate **4.00**  ·  Aurelien Tchouameni **3.40**  ·  Antonio Rudiger **4.50**  ·  Petros Mantalos **3.75**  ·  Lazaros Rota **6.00**  ·  Arda Guler **1.62**  ·  Barnabas Varga **3.00**  ·  Bernardo Silva **2.50**  ·  Aboubakary Koita **3.60**  ·  Thiago Pitarch **2.10**  ·  Ambrosini Zini **2.75**  ·  Kylian Mbappe **1.20**  ·  Mijat Gacinovic **4.50**  ·  Domagoj Vida **8.00**  ·  Harold Moukoudi **9.00**  ·  Stavros Pilios **8.00**  ·  Brahim Diaz **1.83**  ·  Joao Mario **3.60**  ·  Charalambos Lykogiannis **6.50**  ·  Kaan Kairinen **7.00**  ·  Alvaro Carreras **3.40**  ·  Spyros Christakopoulos **7.00**  ·  Marc Cucurella **3.40**  ·  Trent Alexander-Arnold **2.10**  ·  Federico Valverde **2.25**  ·  Jude Bellingham **1.83**  ·  Dean Huijsen **3.60**  ·  Dimitrios Kaloskamis **4.00**  ·  Luka Jovic **2.62**  ·  Kervin Arriaga **7.00**  ·  Derek Kutesa **3.75**  ·  Razvan Marin **4.00**  ·  Eduardo Camavinga **3.50**  ·  Eder Militao **4.00**  ·  Endrick **1.44**  ·  Denzel Dumfries **2.25**  ·  Vinicius Jr. **1.36**  ·  Lovro Majer **3.40**  ·  Christos Alexiou **13.00**  ·  Filipe Relvas **9.00**  ·  Milan Vitalis **5.50**
 
 ## Estadísticas de equipo
 | | AEK Athens FC (total) | AEK Athens FC en casa | Real Madrid (total) | Real Madrid fuera |
@@ -212,14 +212,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 79% | 67% | 1.20 | -19% |
+| 1X2: 2 | 56% | 80% | 68% | 1.18 | -20% |
 | 1X2: X | 22% | 13% | 17% | 7.50 | +31% |
-| 1X2: 1 | 22% | 9% | 15% | 11.00 | +69% |
-| Doble oportunidad: X2 | 78% | 90% | 84% | 1.05 | -12% |
-| Doble oportunidad: 12 | 78% | 86% | 82% | 1.10 | -10% |
-| Doble oportunidad: 1X | 44% | 24% | 34% | 4.00 | +36% |
-| Ambos marcan: No | 43% | 44% | 43% | 2.10 | -9% |
-| Ambos marcan: Sí | 57% | 56% | 57% | 1.67 | -6% |
+| 1X2: 1 | 22% | 7% | 15% | 13.00 | +91% |
+| Doble oportunidad: X2 | 78% | 91% | 84% | 1.05 | -11% |
+| Doble oportunidad: 12 | 78% | 87% | 82% | 1.10 | -9% |
+| Doble oportunidad: 1X | 44% | 22% | 33% | 4.33 | +44% |
+| Ambos marcan: No | 43% | 45% | 44% | 2.05 | -10% |
+| Ambos marcan: Sí | 57% | 55% | 56% | 1.70 | -5% |
 | Goles más/menos: Más de 2.5 | 58% | 75% | 66% | 1.28 | -15% |
 | Goles más/menos: Más de 3.5 | 36% | 55% | 45% | 1.73 | -22% |
 | Goles más/menos: Más de 4.5 | 19% | 36% | 28% | 2.62 | -28% |
@@ -228,22 +228,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 64% | 45% | 55% | 2.10 | +15% |
 | Goles más/menos: Menos de 4.5 | 81% | 64% | 72% | 1.50 | +9% |
 | Goles más/menos: Menos de 5.5 | 91% | 79% | 85% | 1.20 | +2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 50% | 44% | 1.83 | -19% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 75% | 80% | 1.25 | +0% |
-| Goles del local: Más de 0.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del local: Más de 1.5 | 31% | 25% | 28% | 3.75 | +5% |
-| Goles del local: Menos de 0.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Menos de 1.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles del visitante: Más de 1.5 | 57% | 78% | 68% | 1.20 | -19% |
-| Goles del visitante: Más de 2.5 | 30% | 56% | 43% | 1.67 | -29% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 51% | 45% | 1.80 | -19% |
+| Goles 1ª parte más/menos: Más de 2.5 | 15% | 27% | 21% | 3.50 | -27% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 49% | 55% | 1.91 | +5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 73% | 79% | 1.28 | +1% |
+| Goles del local: Más de 0.5 | 67% | 58% | 62% | 1.62 | +1% |
+| Goles del local: Más de 1.5 | 31% | 23% | 27% | 4.00 | +8% |
+| Goles del local: Menos de 0.5 | 33% | 42% | 38% | 2.20 | -17% |
+| Goles del local: Menos de 1.5 | 69% | 77% | 73% | 1.22 | -11% |
+| Goles del visitante: Más de 1.5 | 57% | 79% | 68% | 1.18 | -20% |
+| Goles del visitante: Más de 2.5 | 30% | 58% | 44% | 1.62 | -29% |
 | Goles del visitante: Más de 3.5 | 13% | 35% | 24% | 2.62 | -37% |
-| Goles del visitante: Menos de 1.5 | 43% | 22% | 32% | 4.33 | +41% |
-| Goles del visitante: Menos de 2.5 | 70% | 44% | 57% | 2.10 | +20% |
+| Goles del visitante: Más de 4.5 | 4% | 21% | 13% | 4.50 | -43% |
+| Goles del visitante: Menos de 1.5 | 43% | 21% | 32% | 4.50 | +44% |
+| Goles del visitante: Menos de 2.5 | 70% | 42% | 56% | 2.20 | +24% |
 | Goles del visitante: Menos de 3.5 | 87% | 65% | 76% | 1.44 | +9% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.92 | -11% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.88 | +1% |
+| Goles del visitante: Menos de 4.5 | 96% | 79% | 87% | 1.18 | +3% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 54% | 1.83 | -2% |
 | 1X2 descanso: 2 | 41% | 60% | 51% | 1.53 | -22% |
 | 1X2 descanso: X | 39% | 29% | 34% | 3.20 | +8% |
 

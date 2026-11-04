@@ -1,7 +1,7 @@
 # Nottingham Forest – Manchester City
 **Premier League** · Regular Season - 10 · 07/11/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_

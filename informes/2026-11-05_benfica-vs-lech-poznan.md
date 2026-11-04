@@ -1,10 +1,10 @@
 # Benfica – Lech Poznan
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Estádio da Luz
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:09_
+_Actualizadas: 04/11 08:22_
 
 - **1X2:** 1 **1.14**  ·  X **8.00**  ·  2 **19.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.08**  ·  X2 **5.50**
@@ -23,13 +23,13 @@ _Actualizadas: 04/11 02:09_
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.57** · menos **2.25**
+    - 2,5: más **1.53** · menos **2.38**
     - 3,5: más **2.38** · menos **1.53**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.80** · menos **1.91**
-    - 1,5: más **5.00** · menos **1.17**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **1.95** · menos **1.85**
@@ -56,8 +56,9 @@ _Actualizadas: 04/11 02:09_
     - 3,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
 - **Home Team Total Cards:**
-    - 1,5: más **1.73** · menos **2.00**
+    - 1,5: más **1.91** · menos **1.80**
 - **Away Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
     - 2,5: más **2.25** · menos **1.57**
 - **Home Player Shots On Target Total:** Rafa Silva - 1 **1.11**  ·  Rafa Silva - 2 **1.53**  ·  Rafa Silva - 3 **2.62**  ·  Rafa Silva - 4 **5.50**  ·  Rafa Silva - 5 **13.00**  ·  Rafa Silva - 6 **21.00**  ·  Claudio Reis Anisio Cabral - 1 **1.17**  ·  Dodi Lukebakio - 1 **1.18**  ·  Gianluca Prestianni - 1 **1.12**  ·  Andreas Schjelderup - 1 **1.14**  ·  Georgiy Sudakov - 1 **1.22**  ·  Leandro Barreiro - 1 **1.57**  ·  Miguel Figueiredo - 1 **1.57**  ·  Fredrik Aursnes - 1 **1.50**  ·  Daniel Banjaqui - 1 **1.83**  ·  Enzo Barrenechea - 1 **1.91**  ·  Samuel Dahl - 1 **1.83**  ·  Jose Neto - 1 **2.10**  ·  Silva Manu - 1 **2.10**  ·  Tomas Araujo - 1 **2.10**  ·  Gabriel Indio - 1 **2.50**  ·  Clement Lenglet - 1 **2.62**  ·  Alexander Bah - 1 **2.75**  ·  Vangelis Pavlidis - 2 **1.40**  ·  Jhon Duran - 2 **1.50**  ·  Jakub Kaminski - 2 **1.83**  ·  Claudio Reis Anisio Cabral - 2 **1.80**  ·  Dodi Lukebakio - 2 **1.83**  ·  Gianluca Prestianni - 2 **1.67**  ·  Andreas Schjelderup - 2 **1.67**  ·  Georgiy Sudakov - 2 **2.00**  ·  Leandro Barreiro - 2 **3.75**  ·  Miguel Figueiredo - 2 **3.75**  ·  Fredrik Aursnes - 2 **3.40**  ·  Daniel Banjaqui - 2 **5.50**  ·  Enzo Barrenechea - 2 **6.00**  ·  Samuel Dahl - 2 **5.50**  ·  Jose Neto - 2 **7.00**  ·  Silva Manu - 2 **7.00**  ·  Tomas Araujo - 2 **7.00**  ·  Gabriel Indio - 2 **10.00**  ·  Clement Lenglet - 2 **11.00**  ·  Alexander Bah - 2 **13.00**  ·  Vangelis Pavlidis - 3 **2.20**  ·  Jhon Duran - 3 **2.50**  ·  Jakub Kaminski - 3 **3.50**  ·  Claudio Reis Anisio Cabral - 3 **3.50**  ·  Dodi Lukebakio - 3 **3.75**  ·  Gianluca Prestianni - 3 **3.00**  ·  Andreas Schjelderup - 3 **3.25**  ·  Georgiy Sudakov - 3 **4.33**  ·  Leandro Barreiro - 3 **11.00**  ·  Miguel Figueiredo - 3 **11.00**  ·  Fredrik Aursnes - 3 **10.00**  ·  Daniel Banjaqui - 3 **19.00**  ·  Enzo Barrenechea - 3 **21.00**  ·  Samuel Dahl - 3 **19.00**  ·  Jose Neto - 3 **21.00**  ·  Silva Manu - 3 **21.00**  ·  Tomas Araujo - 3 **21.00**  ·  Vangelis Pavlidis - 4 **4.00**  ·  Jhon Duran - 4 **5.00**  ·  Jakub Kaminski - 4 **9.00**  ·  Claudio Reis Anisio Cabral - 4 **8.00**  ·  Dodi Lukebakio - 4 **10.00**  ·  Gianluca Prestianni - 4 **6.50**  ·  Andreas Schjelderup - 4 **7.00**  ·  Georgiy Sudakov - 4 **11.00**  ·  Fredrik Aursnes - 4 **21.00**  ·  Vangelis Pavlidis - 5 **9.00**  ·  Jhon Duran - 5 **11.00**  ·  Jakub Kaminski - 5 **21.00**  ·  Claudio Reis Anisio Cabral - 5 **19.00**  ·  Dodi Lukebakio - 5 **21.00**  ·  Gianluca Prestianni - 5 **15.00**  ·  Andreas Schjelderup - 5 **17.00**  ·  Georgiy Sudakov - 5 **21.00**  ·  Vangelis Pavlidis - 6 **19.00**  ·  Jhon Duran - 6 **21.00**  ·  Vangelis Pavlidis - 1 **1.07**  ·  Jhon Duran - 1 **1.10**  ·  Jakub Kaminski - 1 **1.17**  ·  Souffian El Karouani - 1 **1.36**  ·  Souffian El Karouani - 2 **2.75**  ·  Souffian El Karouani - 3 **7.00**  ·  Souffian El Karouani - 4 **19.00**  ·  Claudio Echeverri - 1 **1.28**  ·  Claudio Echeverri - 2 **2.25**  ·  Claudio Echeverri - 3 **5.50**  ·  Claudio Echeverri - 4 **15.00**  ·  Carvalho Goncalo Moreira - 1 **1.28**  ·  Joao Palhinha - 1 **1.57**  ·  Alessandro Circati - 1 **2.25**  ·  Carvalho Goncalo Moreira - 2 **2.25**  ·  Joao Palhinha - 2 **3.75**  ·  Alessandro Circati - 2 **9.00**  ·  Carvalho Goncalo Moreira - 3 **5.00**  ·  Joao Palhinha - 3 **11.00**  ·  Carvalho Goncalo Moreira - 4 **13.00**  ·  Tiago Freitas - 1 **1.62**  ·  Tiago Freitas - 2 **4.00**  ·  Tiago Freitas - 3 **13.00**
 - **Away Player Shots On Target Total:** Georgiy Sudakov **21.00**  ·  Alexander Bah **21.00**  ·  Fredrik Aursnes **21.00**  ·  Vangelis Pavlidis **5.00**  ·  Pablo Rodriguez **67.00**  ·  Dodi Lukebakio **21.00**  ·  Alex Douglas **26.00**  ·  Jhon Duran **3.75**  ·  Leandro Barreiro **29.00**  ·  Mikael Ishak **21.00**  ·  Radoslaw Murawski **126.00**  ·  Wojciech Monka **26.00**  ·  Joel Pereira **101.00**  ·  Fillip Jagiello **81.00**  ·  Carvalho Goncalo Moreira **15.00**  ·  Claudio Echeverri **23.00**  ·  Allahyar Sayyadmanesh **17.00**  ·  Robert Gumny **34.00**  ·  Luis Palma **51.00**  ·  Rafa Silva **17.00**  ·  Souffian El Karouani **26.00**  ·  Terry Yegbe **21.00**  ·  Patrik Walemark **23.00**  ·  Clement Lenglet **9.50**  ·  Yannick Agnero **17.00**  ·  Gustav Berggren **101.00**  ·  Jose Neto **23.00**  ·  Andreas Schjelderup **26.00**  ·  Gianluca Prestianni **23.00**  ·  Tomas Araujo **7.50**  ·  Daniel Banjaqui **41.00**  ·  Claudio Reis Anisio Cabral **7.50**  ·  Wojciech Szymczak **19.00**  ·  Miguel Figueiredo **15.00**  ·  Silva Manu **19.00**  ·  Mateusz Skrzypczak **21.00**  ·  Joao Moutinho **34.00**  ·  Hubert Janyszka **21.00**  ·  Enzo Barrenechea **17.00**  ·  Karol Delikat **51.00**  ·  Piotr Bartczak **151.00**  ·  Daniel Hakans **34.00**  ·  Antoni Kozubal **101.00**  ·  Michal Gurgul **151.00**  ·  Samuel Dahl **41.00**  ·  Joao Palhinha **12.00**  ·  Alessandro Circati **7.00**  ·  Leo Bengtsson **67.00**  ·  Jakub Kaminski **21.00**
@@ -222,14 +223,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 2.5 | 39% | 25% | 32% | 3.75 | +19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 35% | 50% | 42% | 1.83 | -23% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 61% | 75% | 68% | 1.25 | -15% |
-| Goles del local: Más de 2.5 | 73% | 59% | 66% | 1.57 | +3% |
+| Goles del local: Más de 2.5 | 73% | 61% | 67% | 1.53 | +2% |
 | Goles del local: Más de 3.5 | 52% | 39% | 46% | 2.38 | +9% |
 | Goles del local: Más de 4.5 | 33% | 22% | 27% | 4.33 | +18% |
-| Goles del local: Menos de 2.5 | 27% | 41% | 34% | 2.25 | -23% |
+| Goles del local: Menos de 2.5 | 27% | 39% | 33% | 2.38 | -21% |
 | Goles del local: Menos de 3.5 | 48% | 61% | 54% | 1.53 | -17% |
 | Goles del local: Menos de 4.5 | 67% | 78% | 73% | 1.20 | -13% |
-| Goles del visitante: Más de 0.5 | 74% | 51% | 63% | 1.80 | +13% |
-| Goles del visitante: Menos de 0.5 | 26% | 49% | 37% | 1.91 | -28% |
+| Goles del visitante: Más de 0.5 | 74% | 50% | 62% | 1.83 | +13% |
+| Goles del visitante: Menos de 0.5 | 26% | 50% | 38% | 1.83 | -30% |
 | Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |
 | 1X2 descanso: X | 24% | 27% | 25% | 3.40 | -13% |
