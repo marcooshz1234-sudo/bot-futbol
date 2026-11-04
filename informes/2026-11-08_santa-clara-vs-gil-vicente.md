@@ -1,7 +1,7 @@
 # Santa Clara – GIL Vicente
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 28% | 38% | 33% | 2.50 | -19% |
 | Goles más/menos: Menos de 1.5 | 46% | 38% | 42% | 2.50 | +4% |
 | Goles más/menos: Menos de 2.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 55% | 61% | 58% | 1.53 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 55% | 61% | 58% | 1.53 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 25% | 22% | 3.75 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 45% | 39% | 42% | 2.38 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 81% | 75% | 78% | 1.25 | -2% |

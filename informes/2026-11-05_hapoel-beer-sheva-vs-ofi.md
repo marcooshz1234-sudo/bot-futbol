@@ -1,15 +1,16 @@
 # Hapoel Beer Sheva – OFI
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Giulești
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **2.00**  ·  X **3.75**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.67** · menos **2.20**
     - 3,5: más **2.62** · menos **1.50**
@@ -50,6 +51,10 @@ _Actualizadas: 03/11 19:59_
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Home Team Total Cards:**
+    - 2,5: más **1.80** · menos **1.91**
+- **Away Team Total Cards:**
+    - 2,5: más **2.25** · menos **1.57**
 - **Home Player Shots On Target Total:** Amankwah Forson - 1 **1.57**  ·  Amankwah Forson - 2 **3.75**  ·  Amankwah Forson - 3 **13.00**  ·  Amir Ganah - 2 **3.75**  ·  Dan Biton - 2 **6.50**  ·  Eliel Peretz - 2 **4.50**  ·  Hamode Kanaan - 2 **4.50**  ·  Adrian Ugarriza - 3 **6.00**  ·  Igor Zlatanovic - 3 **8.00**  ·  Javon East - 3 **9.00**  ·  Yonas Malede - 3 **9.00**  ·  Adrian Ugarriza - 1 **1.30**  ·  Amir Ganah - 1 **1.57**  ·  Igor Zlatanovic - 1 **1.40**  ·  Javon East - 1 **1.44**  ·  Yonas Malede - 1 **1.44**  ·  Joao Victor Sousa - 1 **1.67**  ·  Eliel Peretz - 1 **1.73**  ·  Hamode Kanaan - 1 **1.73**  ·  Mohammed Abu Rumi - 1 **1.73**  ·  Zahi Ahmed - 1 **1.73**  ·  Dan Biton - 1 **2.00**  ·  Lucas Ventura - 1 **3.25**  ·  Miguel Vitor - 1 **2.62**  ·  Niv Yehoshua - 1 **2.62**  ·  Idan Nachmias - 1 **3.25**  ·  Itay Rotman - 1 **3.75**  ·  Matan Baltaxa - 1 **3.75**  ·  Miguel Pedro Amador - 1 **4.33**  ·  Guy Mizrahi - 1 **4.33**  ·  Ofir Davidadze - 1 **4.33**  ·  Adrian Ugarriza - 2 **2.38**  ·  Igor Zlatanovic - 2 **3.00**  ·  Javon East - 2 **3.25**  ·  Yonas Malede - 2 **3.25**  ·  Joao Victor Sousa - 2 **4.33**  ·  Mohammed Abu Rumi - 2 **4.50**  ·  Zahi Ahmed - 2 **4.50**  ·  Lucas Ventura - 2 **15.00**  ·  Miguel Vitor - 2 **11.00**  ·  Niv Yehoshua - 2 **11.00**  ·  Idan Nachmias - 2 **15.00**  ·  Itay Rotman - 2 **19.00**  ·  Matan Baltaxa - 2 **19.00**  ·  Miguel Pedro Amador - 2 **21.00**  ·  Guy Mizrahi - 2 **21.00**  ·  Ofir Davidadze - 2 **21.00**  ·  Amir Ganah - 3 **13.00**  ·  Joao Victor Sousa - 3 **13.00**  ·  Eliel Peretz - 3 **15.00**  ·  Hamode Kanaan - 3 **15.00**  ·  Mohammed Abu Rumi - 3 **15.00**  ·  Zahi Ahmed - 3 **15.00**  ·  Dan Biton - 3 **21.00**  ·  Adrian Ugarriza - 4 **15.00**  ·  Igor Zlatanovic - 4 **21.00**  ·  Javon East - 4 **21.00**  ·  Yonas Malede - 4 **21.00**  ·  Djibril Diop - 1 **4.33**  ·  Djibril Diop - 2 **21.00**  ·  Lucas Ventura Nonoca - 1 **3.25**  ·  Lucas Ventura Nonoca - 2 **15.00**
 - **Away Player Shots On Target Total:** Joao Victor Sousa **34.00**  ·  Guy Mizrahi **101.00**  ·  Emmanouil Chnaris **51.00**  ·  Konstantinos Lagoudakis **29.00**  ·  Idan Nachmias **15.00**  ·  Eliel Peretz **34.00**  ·  Matan Baltaxa **15.00**  ·  Anastasios Chatzigiovanis **19.00**  ·  Zahi Ahmed **19.00**  ·  Igor Zlatanovic **9.00**  ·  Amir Ganah **34.00**  ·  Lucas Ventura **34.00**  ·  Hamode Kanaan **26.00**  ·  Miguel Vitor **9.50**  ·  Kresimir Krizmanic **29.00**  ·  Athanasios Sitmalidis **34.00**  ·  Pavlos Kenourgiakis **67.00**  ·  Adrian Ugarriza **6.50**  ·  Amankwah Forson **21.00**  ·  Aaron Iseka **29.00**  ·  Lorenzo Dickmann **26.00**  ·  Christos Sielis **29.00**  ·  Dimitris Nikolaou **41.00**  ·  Andreas Bouchalakis **34.00**  ·  Taxiarchis Fountas **51.00**  ·  Giannis Theodosoulakis **34.00**  ·  Thiago Nuss **13.00**  ·  Giannis Apostolakis **34.00**  ·  Zisis Karachalios **34.00**  ·  Borja Gonzalez **41.00**  ·  Nikolaos Marinakis **34.00**  ·  Kenan Kodro **29.00**  ·  Achilleas Poungouras **34.00**  ·  Miguel Pedro Amador **23.00**  ·  Thiago Romano **34.00**  ·  Yonas Malede **12.00**  ·  Athanasios Androutsos **34.00**  ·  Giorgos Kanellopoulos **26.00**  ·  Javon East **15.00**  ·  Djibril Diop **17.00**  ·  Itay Rotman **15.00**  ·  Niv Yehoshua **51.00**  ·  Mohammed Abu Rumi **19.00**  ·  Ofir Davidadze **51.00**  ·  Aitor Cantalapiedra **67.00**  ·  Nikolaos Athanasiou **101.00**  ·  Konstantinos Kostoulas **29.00**
 - **Home Player Shots:** Amankwah Forson - 1 **1.08**  ·  Amankwah Forson - 2 **1.40**  ·  Amankwah Forson - 3 **2.10**  ·  Amankwah Forson - 4 **3.75**  ·  Amankwah Forson - 5 **7.00**  ·  Amankwah Forson - 6 **15.00**  ·  Amankwah Forson - 7 **21.00**  ·  Amir Ganah - 2 **1.40**  ·  Dan Biton - 2 **1.80**  ·  Eliel Peretz - 2 **1.53**  ·  Hamode Kanaan - 2 **1.53**  ·  Adrian Ugarriza - 3 **1.50**  ·  Igor Zlatanovic - 3 **1.67**  ·  Javon East - 3 **1.80**  ·  Yonas Malede - 3 **1.80**  ·  Adrian Ugarriza - 1 **1.02**  ·  Amir Ganah - 1 **1.08**  ·  Igor Zlatanovic - 1 **1.04**  ·  Javon East - 1 **1.05**  ·  Yonas Malede - 1 **1.05**  ·  Joao Victor Sousa - 1 **1.10**  ·  Eliel Peretz - 1 **1.11**  ·  Hamode Kanaan - 1 **1.11**  ·  Mohammed Abu Rumi - 1 **1.11**  ·  Zahi Ahmed - 1 **1.11**  ·  Dan Biton - 1 **1.18**  ·  Lucas Ventura - 1 **1.40**  ·  Miguel Vitor - 1 **1.40**  ·  Niv Yehoshua - 1 **1.40**  ·  Idan Nachmias - 1 **1.57**  ·  Itay Rotman - 1 **1.80**  ·  Matan Baltaxa - 1 **1.80**  ·  Miguel Pedro Amador - 1 **1.83**  ·  Guy Mizrahi - 1 **2.00**  ·  Ofir Davidadze - 1 **2.00**  ·  Adrian Ugarriza - 2 **1.17**  ·  Igor Zlatanovic - 2 **1.22**  ·  Javon East - 2 **1.28**  ·  Yonas Malede - 2 **1.28**  ·  Joao Victor Sousa - 2 **1.44**  ·  Mohammed Abu Rumi - 2 **1.53**  ·  Zahi Ahmed - 2 **1.53**  ·  Lucas Ventura - 2 **2.62**  ·  Miguel Vitor - 2 **2.62**  ·  Niv Yehoshua - 2 **2.62**  ·  Idan Nachmias - 2 **3.50**  ·  Itay Rotman - 2 **4.33**  ·  Matan Baltaxa - 2 **4.33**  ·  Miguel Pedro Amador - 2 **4.50**  ·  Guy Mizrahi - 2 **5.50**  ·  Ofir Davidadze - 2 **5.50**  ·  Amir Ganah - 3 **2.10**  ·  Joao Victor Sousa - 3 **2.25**  ·  Eliel Peretz - 3 **2.50**  ·  Hamode Kanaan - 3 **2.50**  ·  Mohammed Abu Rumi - 3 **2.50**  ·  Zahi Ahmed - 3 **2.50**  ·  Dan Biton - 3 **3.40**  ·  Lucas Ventura - 3 **6.00**  ·  Miguel Vitor - 3 **6.00**  ·  Niv Yehoshua - 3 **6.00**  ·  Idan Nachmias - 3 **10.00**  ·  Itay Rotman - 3 **13.00**  ·  Matan Baltaxa - 3 **13.00**  ·  Miguel Pedro Amador - 3 **15.00**  ·  Guy Mizrahi - 3 **17.00**  ·  Ofir Davidadze - 3 **17.00**  ·  Adrian Ugarriza - 4 **2.20**  ·  Igor Zlatanovic - 4 **2.62**  ·  Javon East - 4 **3.00**  ·  Yonas Malede - 4 **3.00**  ·  Amir Ganah - 4 **3.75**  ·  Joao Victor Sousa - 4 **4.00**  ·  Eliel Peretz - 4 **4.50**  ·  Hamode Kanaan - 4 **4.50**  ·  Mohammed Abu Rumi - 4 **4.50**  ·  Zahi Ahmed - 4 **4.50**  ·  Dan Biton - 4 **7.00**  ·  Lucas Ventura - 4 **15.00**  ·  Miguel Vitor - 4 **15.00**  ·  Niv Yehoshua - 4 **15.00**  ·  Adrian Ugarriza - 5 **3.50**  ·  Igor Zlatanovic - 5 **4.50**  ·  Javon East - 5 **5.50**  ·  Yonas Malede - 5 **5.50**  ·  Amir Ganah - 5 **7.00**  ·  Joao Victor Sousa - 5 **9.00**  ·  Eliel Peretz - 5 **10.00**  ·  Hamode Kanaan - 5 **10.00**  ·  Mohammed Abu Rumi - 5 **10.00**  ·  Zahi Ahmed - 5 **10.00**  ·  Dan Biton - 5 **15.00**  ·  Adrian Ugarriza - 6 **6.50**  ·  Igor Zlatanovic - 6 **9.00**  ·  Javon East - 6 **10.00**  ·  Yonas Malede - 6 **10.00**  ·  Adrian Ugarriza - 7 **13.00**  ·  Igor Zlatanovic - 7 **17.00**  ·  Hamode Kanaan - 6 **21.00**  ·  Idan Nachmias - 4 **21.00**  ·  Amir Ganah - 6 **15.00**  ·  Mohammed Abu Rumi - 6 **21.00**  ·  Djibril Diop - 1 **2.00**  ·  Djibril Diop - 2 **5.50**  ·  Djibril Diop - 3 **17.00**  ·  Lucas Ventura Nonoca - 1 **1.53**  ·  Lucas Ventura Nonoca - 2 **3.40**  ·  Lucas Ventura Nonoca - 3 **9.00**  ·  Lucas Ventura Nonoca - 4 **21.00**  ·  Joao Victor Sousa - 6 **17.00**  ·  Eliel Peretz - 6 **21.00**  ·  Zahi Ahmed - 6 **21.00**  ·  Javon East - 7 **19.00**  ·  Yonas Malede - 7 **19.00**  ·  Adrian Ugarriza - 8 **21.00**  ·  Amir Ganah - 7 **21.00**
@@ -185,18 +190,18 @@ _Sin precedentes recientes._
 | A. Leya | F | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 1,21 · córners esperados 9,6._
+_Goles esperados: local 0,65 · visitante 1,21 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 49% | 27% | 38% | 3.50 | +34% |
-| 1X2: X | 30% | 25% | 28% | 3.75 | +5% |
-| 1X2: 1 | 20% | 48% | 34% | 2.00 | -32% |
+| 1X2: 2 | 50% | 27% | 38% | 3.50 | +35% |
+| 1X2: X | 30% | 25% | 28% | 3.75 | +4% |
+| 1X2: 1 | 20% | 48% | 34% | 2.00 | -33% |
 | Doble oportunidad: X2 | 80% | 52% | 66% | 1.80 | +19% |
 | Doble oportunidad: 12 | 70% | 75% | 72% | 1.25 | -10% |
-| Doble oportunidad: 1X | 51% | 73% | 62% | 1.28 | -21% |
+| Doble oportunidad: 1X | 50% | 73% | 62% | 1.28 | -21% |
 | Ambos marcan: No | 66% | 41% | 54% | 2.25 | +21% |
 | Ambos marcan: Sí | 34% | 59% | 46% | 1.57 | -27% |
 | Goles más/menos: Más de 1.5 | 56% | 79% | 67% | 1.20 | -19% |
@@ -209,19 +214,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 96% | 79% | 87% | 1.20 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 72% | 64% | 1.30 | -17% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 38% | 29% | 2.50 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 28% | 36% | 3.40 | +23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 28% | 36% | 3.40 | +22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles del local: Más de 1.5 | 14% | 51% | 33% | 1.80 | -41% |
 | Goles del local: Más de 2.5 | 3% | 27% | 15% | 3.50 | -48% |
-| Goles del local: Menos de 1.5 | 86% | 49% | 67% | 1.91 | +28% |
+| Goles del local: Menos de 1.5 | 86% | 49% | 67% | 1.91 | +29% |
 | Goles del local: Menos de 2.5 | 97% | 73% | 85% | 1.28 | +9% |
 | Goles del visitante: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles del visitante: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del visitante: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles del visitante: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
 | Goles del visitante: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Córners más/menos: Más de 9.5 | 46% | 49% | 47% | 1.91 | -10% |
 | Córners más/menos: Menos de 9.5 | 54% | 51% | 53% | 1.80 | -5% |
-| 1X2 descanso: 2 | 33% | 25% | 29% | 3.75 | +8% |
+| 1X2 descanso: 2 | 33% | 25% | 29% | 3.75 | +9% |
 | 1X2 descanso: X | 51% | 39% | 45% | 2.38 | +8% |
 | 1X2 descanso: 1 | 16% | 36% | 26% | 2.60 | -33% |
 

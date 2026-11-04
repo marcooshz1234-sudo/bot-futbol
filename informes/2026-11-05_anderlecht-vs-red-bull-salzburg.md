@@ -1,10 +1,10 @@
 # Anderlecht – Red Bull Salzburg
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Lotto Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:08_
 
 - **1X2:** 1 **1.91**  ·  X **3.80**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.83**
@@ -29,7 +29,7 @@ _Actualizadas: 03/11 19:59_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.92** · menos **1.88**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.40**  ·  2 **4.00**
@@ -50,6 +50,11 @@ _Actualizadas: 03/11 19:59_
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Home Team Total Cards:**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **2.50** · menos **1.50**
+- **Away Team Total Cards:**
+    - 2,5: más **1.91** · menos **1.80**
 - **Home Player Shots On Target Total:** Mihajlo Cvetkovic - 1 **1.28**  ·  Adriano Bertaccini - 1 **1.40**  ·  Danylo Sikan - 1 **1.36**  ·  Jayden Onia-Seke - 1 **1.40**  ·  Tristan Degreef - 1 **1.50**  ·  Enric Llansana - 1 **1.80**  ·  Lukas Ambros - 1 **1.73**  ·  Mario Stroeykens - 1 **1.73**  ·  Oliver Antman - 1 **1.73**  ·  Joshua-Williame Nga Kana - 1 **1.83**  ·  Giulian Biancone - 1 **6.00**  ·  Ali Maamar - 1 **3.00**  ·  Kais Barry - 1 **2.75**  ·  Leo Petrot - 1 **3.25**  ·  Ludwig Augustinsson - 1 **3.00**  ·  Marco Kana - 1 **3.25**  ·  Noah Kalonji - 1 **2.75**  ·  Zoumana Keita - 1 **3.75**  ·  Mihajlo Cvetkovic - 2 **2.25**  ·  Adriano Bertaccini - 2 **3.00**  ·  Danylo Sikan - 2 **2.62**  ·  Jayden Onia-Seke - 2 **3.00**  ·  Tristan Degreef - 2 **3.40**  ·  Enric Llansana - 2 **5.00**  ·  Lukas Ambros - 2 **4.50**  ·  Mario Stroeykens - 2 **4.50**  ·  Oliver Antman - 2 **4.50**  ·  Joshua-Williame Nga Kana - 2 **5.50**  ·  Ali Maamar - 2 **13.00**  ·  Kais Barry - 2 **13.00**  ·  Leo Petrot - 2 **17.00**  ·  Ludwig Augustinsson - 2 **13.00**  ·  Marco Kana - 2 **17.00**  ·  Noah Kalonji - 2 **13.00**  ·  Zoumana Keita - 2 **21.00**  ·  Mihajlo Cvetkovic - 3 **5.00**  ·  Adriano Bertaccini - 3 **8.00**  ·  Danylo Sikan - 3 **7.00**  ·  Jayden Onia-Seke - 3 **8.00**  ·  Tristan Degreef - 3 **10.00**  ·  Enric Llansana - 3 **17.00**  ·  Lukas Ambros - 3 **15.00**  ·  Mario Stroeykens - 3 **15.00**  ·  Oliver Antman - 3 **15.00**  ·  Joshua-Williame Nga Kana - 3 **19.00**  ·  Mihajlo Cvetkovic - 4 **13.00**  ·  Adriano Bertaccini - 4 **21.00**  ·  Danylo Sikan - 4 **19.00**  ·  Jayden Onia-Seke - 4 **21.00**  ·  Tristan Degreef - 4 **21.00**  ·  Andrew Omobamidele - 1 **3.40**  ·  Andrew Omobamidele - 2 **17.00**  ·  Ilias Koutsoupias - 1 **1.62**  ·  Ilias Koutsoupias - 2 **4.00**  ·  Ilias Koutsoupias - 3 **13.00**  ·  Thelonious Aasgaard - 1 **1.36**  ·  Thelonious Aasgaard - 2 **2.62**  ·  Thelonious Aasgaard - 3 **7.00**  ·  Thelonious Aasgaard - 4 **19.00**  ·  Marten Winkler - 1 **1.57**  ·  Marten Winkler - 2 **3.75**  ·  Marten Winkler - 3 **11.00**  ·  Tawfik Bentayeb - 1 **1.36**  ·  Noa Ojea - 1 **1.73**  ·  Romeo Amane - 1 **1.83**  ·  Tawfik Bentayeb - 2 **2.62**  ·  Noa Ojea - 2 **4.50**  ·  Romeo Amane - 2 **5.50**  ·  Tawfik Bentayeb - 3 **7.00**  ·  Noa Ojea - 3 **15.00**  ·  Romeo Amane - 3 **19.00**  ·  Tawfik Bentayeb - 4 **19.00**  ·  Oleg Reabciuk - 1 **3.00**  ·  Oleg Reabciuk - 2 **13.00**
 - **Away Player Shots On Target Total:** Aboubacar Camara **34.00**  ·  Leandro Morgalla **29.00**  ·  Romeo Amane **29.00**  ·  Oliver Antman **34.00**  ·  Thelonious Aasgaard **15.00**  ·  Kevin Boma **26.00**  ·  Oleg Reabciuk **23.00**  ·  Zoumana Keita **19.00**  ·  Dominik Schmid **81.00**  ·  Sota Kitano **34.00**  ·  Lukas Ambros **34.00**  ·  Leo Petrot **13.00**  ·  Tristan Degreef **21.00**  ·  Karim Konate **26.00**  ·  Gaoussou Diakite **34.00**  ·  Edmund Baidoo **21.00**  ·  John Mellberg **17.00**  ·  Adriano Bertaccini **17.00**  ·  Soumaila Diabate **51.00**  ·  Abubakr Barry **51.00**  ·  Mario Stroeykens **34.00**  ·  Marco Kana **19.00**  ·  Stefan Lainer **51.00**  ·  Giulian Biancone **21.00**  ·  Jesper Lindstrom **41.00**  ·  Frans Kratzig **34.00**  ·  Marten Winkler **21.00**  ·  Enric Llansana **29.00**  ·  Ilias Koutsoupias **34.00**  ·  Damir Redzic **29.00**  ·  Danylo Sikan **15.00**  ·  Tawfik Bentayeb **15.00**  ·  Joshua-Williame Nga Kana **29.00**  ·  Noah Kalonji **17.00**  ·  Jayden Onia-Seke **17.00**  ·  Valentin Zabransky **17.00**  ·  Kais Barry **12.00**  ·  Noa Ojea **34.00**  ·  Anrie Chase **17.00**  ·  Haris Tabakovic **9.00**  ·  Tim Drexler **19.00**  ·  Umut Tohumcu **81.00**  ·  Mihajlo Cvetkovic **15.00**  ·  Andrew Omobamidele **15.00**  ·  Yorbe Vertessen **21.00**  ·  Bartosz Mazurek **41.00**
 - **Home Player Shots:** Mihajlo Cvetkovic - 1 **1.02**  ·  Adriano Bertaccini - 1 **1.04**  ·  Danylo Sikan - 1 **1.03**  ·  Jayden Onia-Seke - 1 **1.04**  ·  Tristan Degreef - 1 **1.03**  ·  Enric Llansana - 1 **1.08**  ·  Lukas Ambros - 1 **1.11**  ·  Mario Stroeykens - 1 **1.11**  ·  Oliver Antman - 1 **1.11**  ·  Joshua-Williame Nga Kana - 1 **1.14**  ·  Giulian Biancone - 1 **2.25**  ·  Ali Maamar - 1 **1.44**  ·  Kais Barry - 1 **1.44**  ·  Leo Petrot - 1 **1.57**  ·  Ludwig Augustinsson - 1 **1.44**  ·  Marco Kana - 1 **1.57**  ·  Noah Kalonji - 1 **1.44**  ·  Zoumana Keita - 1 **1.83**  ·  Mihajlo Cvetkovic - 2 **1.14**  ·  Adriano Bertaccini - 2 **1.22**  ·  Danylo Sikan - 2 **1.20**  ·  Jayden Onia-Seke - 2 **1.22**  ·  Tristan Degreef - 2 **1.20**  ·  Enric Llansana - 2 **1.44**  ·  Lukas Ambros - 2 **1.53**  ·  Mario Stroeykens - 2 **1.53**  ·  Oliver Antman - 2 **1.53**  ·  Joshua-Williame Nga Kana - 2 **1.67**  ·  Giulian Biancone - 2 **8.00**  ·  Ali Maamar - 2 **3.00**  ·  Kais Barry - 2 **3.00**  ·  Leo Petrot - 2 **3.50**  ·  Ludwig Augustinsson - 2 **3.00**  ·  Marco Kana - 2 **3.50**  ·  Noah Kalonji - 2 **3.00**  ·  Zoumana Keita - 2 **5.00**  ·  Mihajlo Cvetkovic - 3 **1.44**  ·  Adriano Bertaccini - 3 **1.67**  ·  Danylo Sikan - 3 **1.62**  ·  Jayden Onia-Seke - 3 **1.67**  ·  Tristan Degreef - 3 **1.57**  ·  Enric Llansana - 3 **2.20**  ·  Lukas Ambros - 3 **2.50**  ·  Mario Stroeykens - 3 **2.50**  ·  Oliver Antman - 3 **2.50**  ·  Joshua-Williame Nga Kana - 3 **3.00**  ·  Giulian Biancone - 3 **21.00**  ·  Ali Maamar - 3 **7.00**  ·  Kais Barry - 3 **7.00**  ·  Leo Petrot - 3 **10.00**  ·  Ludwig Augustinsson - 3 **7.00**  ·  Marco Kana - 3 **10.00**  ·  Noah Kalonji - 3 **7.00**  ·  Mihajlo Cvetkovic - 4 **2.00**  ·  Adriano Bertaccini - 4 **2.62**  ·  Danylo Sikan - 4 **2.38**  ·  Jayden Onia-Seke - 4 **2.62**  ·  Tristan Degreef - 4 **2.38**  ·  Enric Llansana - 4 **4.00**  ·  Lukas Ambros - 4 **4.50**  ·  Mario Stroeykens - 4 **4.50**  ·  Oliver Antman - 4 **4.50**  ·  Joshua-Williame Nga Kana - 4 **6.00**  ·  Mihajlo Cvetkovic - 5 **3.40**  ·  Adriano Bertaccini - 5 **4.50**  ·  Danylo Sikan - 5 **4.00**  ·  Jayden Onia-Seke - 5 **4.33**  ·  Tristan Degreef - 5 **4.00**  ·  Enric Llansana - 5 **8.00**  ·  Mihajlo Cvetkovic - 6 **5.50**  ·  Adriano Bertaccini - 6 **9.00**  ·  Danylo Sikan - 6 **8.00**  ·  Jayden Onia-Seke - 6 **8.00**  ·  Andrew Omobamidele - 1 **1.62**  ·  Andrew Omobamidele - 2 **3.75**  ·  Andrew Omobamidele - 3 **11.00**  ·  Ilias Koutsoupias - 1 **1.08**  ·  Ilias Koutsoupias - 2 **1.40**  ·  Ilias Koutsoupias - 3 **2.20**  ·  Ilias Koutsoupias - 4 **3.75**  ·  Thelonious Aasgaard - 1 **1.03**  ·  Thelonious Aasgaard - 2 **1.20**  ·  Thelonious Aasgaard - 3 **1.62**  ·  Thelonious Aasgaard - 4 **2.38**  ·  Thelonious Aasgaard - 5 **4.00**  ·  Thelonious Aasgaard - 6 **8.00**  ·  Thelonious Aasgaard - 7 **15.00**  ·  Thelonious Aasgaard - 8 **21.00**  ·  Ilias Koutsoupias - 5 **8.00**  ·  Lukas Ambros - 5 **10.00**  ·  Zoumana Keita - 3 **15.00**  ·  Kais Barry - 4 **19.00**  ·  Noah Kalonji - 4 **19.00**  ·  Ali Maamar - 4 **19.00**  ·  Ludwig Augustinsson - 4 **19.00**  ·  Leo Petrot - 4 **21.00**  ·  Marco Kana - 4 **21.00**  ·  Mario Stroeykens - 5 **10.00**  ·  Oliver Antman - 5 **10.00**  ·  Joshua-Williame Nga Kana - 5 **13.00**  ·  Tristan Degreef - 6 **7.00**  ·  Enric Llansana - 6 **17.00**  ·  Lukas Ambros - 6 **21.00**  ·  Mario Stroeykens - 6 **21.00**  ·  Oliver Antman - 6 **21.00**  ·  Joshua-Williame Nga Kana - 6 **21.00**  ·  Danylo Sikan - 7 **15.00**  ·  Mihajlo Cvetkovic - 7 **11.00**  ·  Tristan Degreef - 7 **15.00**  ·  Adriano Bertaccini - 7 **17.00**  ·  Jayden Onia-Seke - 7 **17.00**  ·  Danylo Sikan - 8 **21.00**  ·  Mihajlo Cvetkovic - 8 **19.00**  ·  Tristan Degreef - 8 **21.00**  ·  Marten Winkler - 1 **1.07**  ·  Marten Winkler - 2 **1.36**  ·  Marten Winkler - 3 **2.00**  ·  Marten Winkler - 4 **3.50**  ·  Marten Winkler - 5 **6.50**  ·  Marten Winkler - 6 **13.00**  ·  Tawfik Bentayeb - 1 **1.03**  ·  Noa Ojea - 1 **1.11**  ·  Romeo Amane - 1 **1.12**  ·  Tawfik Bentayeb - 2 **1.20**  ·  Noa Ojea - 2 **1.50**  ·  Romeo Amane - 2 **1.62**  ·  Tawfik Bentayeb - 3 **1.62**  ·  Noa Ojea - 3 **2.50**  ·  Romeo Amane - 3 **2.75**  ·  Tawfik Bentayeb - 4 **2.38**  ·  Noa Ojea - 4 **4.50**  ·  Romeo Amane - 4 **5.50**  ·  Tawfik Bentayeb - 5 **4.00**  ·  Noa Ojea - 5 **10.00**  ·  Romeo Amane - 5 **11.00**  ·  Tawfik Bentayeb - 6 **8.00**  ·  Tawfik Bentayeb - 7 **15.00**  ·  Ilias Koutsoupias - 6 **15.00**  ·  Oleg Reabciuk - 1 **1.44**  ·  Oleg Reabciuk - 2 **3.00**  ·  Oleg Reabciuk - 3 **7.00**  ·  Oleg Reabciuk - 4 **19.00**  ·  Marten Winkler - 7 **21.00**  ·  Romeo Amane - 6 **21.00**  ·  Tawfik Bentayeb - 8 **21.00**  ·  Andrew Omobamidele - 4 **21.00**  ·  Noa Ojea - 6 **19.00**
@@ -186,42 +191,42 @@ _Sin precedentes recientes._
 | F. Krätzig | D | 2 | 8 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,05 · visitante 0,99 · córners esperados 8,8._
+_Goles esperados: local 2,06 · visitante 0,98 · córners esperados 8,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 25% | 21% | 3.80 | -19% |
+| 1X2: 2 | 17% | 25% | 21% | 3.80 | -20% |
 | 1X2: X | 21% | 25% | 23% | 3.80 | -13% |
 | 1X2: 1 | 62% | 50% | 56% | 1.91 | +7% |
 | Doble oportunidad: X2 | 38% | 51% | 44% | 1.83 | -19% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 83% | 75% | 79% | 1.25 | -2% |
-| Ambos marcan: No | 45% | 39% | 42% | 2.38 | +1% |
-| Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
-| Goles más/menos: Más de 2.5 | 58% | 59% | 59% | 1.62 | -5% |
+| Ambos marcan: No | 46% | 39% | 42% | 2.38 | +1% |
+| Ambos marcan: Sí | 54% | 61% | 58% | 1.53 | -12% |
+| Goles más/menos: Más de 2.5 | 59% | 59% | 59% | 1.62 | -5% |
 | Goles más/menos: Más de 3.5 | 36% | 40% | 38% | 2.38 | -10% |
 | Goles más/menos: Más de 4.5 | 19% | 22% | 21% | 4.33 | -11% |
-| Goles más/menos: Menos de 2.5 | 42% | 41% | 41% | 2.30 | -5% |
+| Goles más/menos: Menos de 2.5 | 41% | 41% | 41% | 2.30 | -5% |
 | Goles más/menos: Menos de 3.5 | 64% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
 | Goles del local: Más de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles del local: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
-| Goles del local: Menos de 2.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles del visitante: Más de 0.5 | 63% | 71% | 67% | 1.33 | -11% |
+| Goles del local: Más de 2.5 | 34% | 29% | 32% | 3.25 | +2% |
+| Goles del local: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Goles del local: Menos de 2.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles del visitante: Más de 0.5 | 62% | 71% | 67% | 1.33 | -11% |
 | Goles del visitante: Más de 1.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles del visitante: Menos de 0.5 | 37% | 29% | 33% | 3.25 | +8% |
-| Goles del visitante: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +2% |
-| Córners más/menos: Más de 9.5 | 39% | 49% | 44% | 1.92 | -15% |
-| Córners más/menos: Menos de 9.5 | 61% | 51% | 56% | 1.88 | +5% |
+| Goles del visitante: Menos de 0.5 | 38% | 29% | 33% | 3.25 | +8% |
+| Goles del visitante: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +3% |
+| Córners más/menos: Más de 9.5 | 39% | 50% | 45% | 1.83 | -18% |
+| Córners más/menos: Menos de 9.5 | 61% | 50% | 55% | 1.83 | +1% |
 | 1X2 descanso: 2 | 17% | 23% | 20% | 4.00 | -20% |
-| 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -8% |
-| 1X2 descanso: 1 | 45% | 38% | 42% | 2.40 | +0% |
+| 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -9% |
+| 1X2 descanso: 1 | 45% | 38% | 42% | 2.40 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

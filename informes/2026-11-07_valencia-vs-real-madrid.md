@@ -1,7 +1,7 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
+_Goles esperados: local 0,66 · visitante 2,11 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -201,20 +201,20 @@ _Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 | 1X2: 1 | 10% | 12% | 11% | 7.50 | -15% |
 | Doble oportunidad: X2 | 90% | 87% | 88% | 1.10 | -3% |
 | Doble oportunidad: 12 | 81% | 84% | 83% | 1.14 | -6% |
-| Doble oportunidad: 1X | 29% | 28% | 29% | 3.40 | -2% |
-| Ambos marcan: No | 58% | 45% | 51% | 2.05 | +5% |
-| Ambos marcan: Sí | 42% | 55% | 49% | 1.70 | -17% |
+| Doble oportunidad: 1X | 29% | 28% | 29% | 3.40 | -3% |
+| Ambos marcan: No | 57% | 45% | 51% | 2.05 | +5% |
+| Ambos marcan: Sí | 43% | 55% | 49% | 1.70 | -17% |
 | Goles más/menos: Más de 2.5 | 52% | 68% | 60% | 1.40 | -16% |
-| Goles más/menos: Más de 3.5 | 30% | 47% | 39% | 2.00 | -23% |
+| Goles más/menos: Más de 3.5 | 30% | 47% | 39% | 2.00 | -22% |
 | Goles más/menos: Más de 4.5 | 15% | 28% | 21% | 3.40 | -27% |
 | Goles más/menos: Menos de 2.5 ✅ | 48% | 32% | 40% | 3.00 | +19% |
 | Goles más/menos: Menos de 3.5 | 70% | 53% | 61% | 1.80 | +10% |
-| Goles más/menos: Menos de 4.5 | 85% | 72% | 79% | 1.33 | +5% |
+| Goles más/menos: Menos de 4.5 | 85% | 72% | 79% | 1.33 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 78% | 74% | 1.20 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 23% | 18% | 4.00 | -29% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles del local: Más de 0.5 | 48% | 61% | 55% | 1.53 | -16% |
 | Goles del local: Más de 1.5 | 14% | 25% | 20% | 3.75 | -26% |
@@ -225,10 +225,10 @@ _Goles esperados: local 0,66 · visitante 2,10 · córners esperados 9,6._
 | Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
 | Goles del visitante: Menos de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
 | Goles del visitante: Menos de 2.5 | 65% | 50% | 57% | 1.83 | +5% |
-| Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +2% |
+| Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
 | 1X2 descanso: 2 | 50% | 55% | 53% | 1.67 | -12% |
-| 1X2 descanso: X | 38% | 32% | 35% | 2.88 | +2% |
+| 1X2 descanso: X | 38% | 32% | 35% | 2.88 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

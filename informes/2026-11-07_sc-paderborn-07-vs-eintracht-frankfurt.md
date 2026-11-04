@@ -1,7 +1,7 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -192,44 +192,44 @@ _Sin bajas comunicadas por ahora._
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,60 · córners esperados 9,9._
+_Goles esperados: local 1,28 · visitante 1,61 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 44% | 45% | 2.10 | -7% |
-| 1X2: X | 25% | 25% | 25% | 3.80 | -7% |
-| 1X2: 1 | 31% | 31% | 31% | 3.00 | -7% |
+| 1X2: 2 | 45% | 44% | 45% | 2.10 | -6% |
+| 1X2: X | 24% | 25% | 24% | 3.80 | -7% |
+| 1X2: 1 | 31% | 31% | 31% | 3.00 | -8% |
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
-| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 55% | 55% | 55% | 1.70 | -6% |
-| Ambos marcan: No | 42% | 34% | 38% | 2.75 | +5% |
+| Ambos marcan: No | 42% | 34% | 38% | 2.75 | +4% |
 | Ambos marcan: Sí | 58% | 66% | 62% | 1.40 | -13% |
 | Goles más/menos: Más de 2.5 | 55% | 66% | 60% | 1.44 | -13% |
 | Goles más/menos: Más de 3.5 | 33% | 45% | 39% | 2.10 | -18% |
-| Goles más/menos: Más de 4.5 | 17% | 27% | 22% | 3.50 | -24% |
+| Goles más/menos: Más de 4.5 | 17% | 27% | 22% | 3.50 | -23% |
 | Goles más/menos: Menos de 2.5 ✅ | 45% | 34% | 40% | 2.75 | +9% |
 | Goles más/menos: Menos de 3.5 | 67% | 55% | 61% | 1.73 | +6% |
 | Goles más/menos: Menos de 4.5 | 83% | 73% | 78% | 1.30 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 0.5 | 72% | 77% | 75% | 1.22 | -9% |
+| Goles del local: Más de 0.5 | 72% | 77% | 74% | 1.22 | -9% |
 | Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
 | Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles del local: Menos de 0.5 | 28% | 23% | 25% | 4.00 | +2% |
+| Goles del local: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +2% |
 | Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 1.5 | 47% | 56% | 52% | 1.67 | -14% |
-| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -18% |
-| Goles del visitante: Menos de 1.5 | 53% | 44% | 48% | 2.10 | +2% |
+| Goles del visitante: Más de 1.5 | 48% | 56% | 52% | 1.67 | -14% |
+| Goles del visitante: Más de 2.5 | 22% | 29% | 25% | 3.25 | -17% |
+| Goles del visitante: Menos de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
 | Goles del visitante: Menos de 2.5 | 78% | 71% | 75% | 1.33 | -1% |
 | Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -10% |
+| 1X2 descanso: 2 | 34% | 36% | 35% | 2.60 | -9% |
 | 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
-| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -10% |
+| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -222,9 +222,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
 | Goles del visitante: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
 | Goles del visitante: Menos de 1.5 | 63% | 66% | 65% | 1.40 | -9% |
-| Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
-| Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.91 | -7% |
-| 1X2 descanso: 2 | 30% | 25% | 27% | 3.75 | +2% |
+| Córners más/menos: Más de 8.5 | 51% | 51% | 51% | 1.80 | -7% |
+| Córners más/menos: Menos de 8.5 | 49% | 49% | 49% | 1.91 | -7% |
+| 1X2 descanso: 2 | 30% | 25% | 27% | 3.75 | +3% |
 | 1X2 descanso: X | 46% | 42% | 44% | 2.20 | -4% |
 | 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 

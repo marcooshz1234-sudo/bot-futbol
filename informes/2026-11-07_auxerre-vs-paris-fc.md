@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 17:15 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | O. Sissoko | F | 4 | 35 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,20 · córners esperados 9,3._
+_Goles esperados: local 1,04 · visitante 2,19 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -198,17 +198,17 @@ _Goles esperados: local 1,04 · visitante 2,20 · córners esperados 9,3._
 | Doble oportunidad: X2 | 83% | 78% | 80% | 1.22 | -2% |
 | Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 36% | 49% | 42% | 1.95 | -17% |
-| Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
-| Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
+| Ambos marcan: No | 43% | 44% | 43% | 2.10 | -9% |
+| Ambos marcan: Sí | 57% | 56% | 57% | 1.67 | -6% |
 | Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
-| Goles más/menos: Más de 3.5 | 41% | 34% | 37% | 2.75 | +3% |
+| Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +3% |
 | Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -16% |
-| Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.10 | -14% |
-| Goles más/menos: Menos de 3.5 | 59% | 66% | 63% | 1.44 | -10% |
+| Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.10 | -13% |
+| Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
 | Goles del local: Más de 0.5 | 65% | 66% | 65% | 1.40 | -8% |
 | Goles del local: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |

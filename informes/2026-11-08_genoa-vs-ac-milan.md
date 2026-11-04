@@ -1,7 +1,7 @@
 # Genoa – AC Milan
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España) · Stadio Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -187,18 +187,18 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alexis Saelemaekers | F | 5 | 218 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 7 | 1,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,33 · córners esperados 9,1._
+_Goles esperados: local 0,96 · visitante 1,34 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 53% | 49% | 1.75 | -14% |
+| 1X2: 2 | 46% | 53% | 49% | 1.75 | -14% |
 | 1X2: X | 28% | 26% | 27% | 3.50 | -5% |
-| 1X2: 1 | 27% | 21% | 24% | 4.50 | +7% |
+| 1X2: 1 | 27% | 21% | 24% | 4.50 | +6% |
 | Doble oportunidad: X2 | 73% | 80% | 76% | 1.18 | -10% |
 | Doble oportunidad: 12 | 72% | 73% | 73% | 1.28 | -7% |
-| Doble oportunidad: 1X | 55% | 47% | 51% | 2.00 | +2% |
-| Ambos marcan: No | 54% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: Sí | 46% | 48% | 47% | 1.95 | -9% |
+| Doble oportunidad: 1X | 54% | 47% | 51% | 2.00 | +1% |
+| Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
+| Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
 | Goles más/menos: Más de 1.5 | 67% | 70% | 69% | 1.36 | -7% |
 | Goles más/menos: Más de 2.5 | 40% | 45% | 43% | 2.10 | -10% |
 | Goles más/menos: Más de 3.5 | 20% | 25% | 23% | 3.75 | -15% |
@@ -206,22 +206,22 @@ _Goles esperados: local 0,96 · visitante 1,33 · córners esperados 9,1._
 | Goles más/menos: Menos de 2.5 | 60% | 55% | 57% | 1.73 | -1% |
 | Goles más/menos: Menos de 3.5 | 80% | 75% | 77% | 1.28 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
 | Goles del local: Más de 0.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del local: Más de 1.5 | 25% | 23% | 24% | 4.00 | -3% |
-| Goles del local: Menos de 0.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles del local: Menos de 1.5 | 75% | 77% | 76% | 1.22 | -8% |
+| Goles del local: Más de 1.5 | 25% | 23% | 24% | 4.00 | -4% |
+| Goles del local: Menos de 0.5 | 38% | 41% | 40% | 2.25 | -10% |
+| Goles del local: Menos de 1.5 | 75% | 77% | 76% | 1.22 | -7% |
 | Goles del visitante: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles del visitante: Más de 1.5 | 39% | 46% | 42% | 2.00 | -15% |
+| Goles del visitante: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
 | Goles del visitante: Más de 2.5 | 15% | 23% | 19% | 4.00 | -23% |
-| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +4% |
-| Goles del visitante: Menos de 1.5 | 61% | 54% | 58% | 1.73 | -0% |
-| Goles del visitante: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
+| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
+| Goles del visitante: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
+| Goles del visitante: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -2% |
 | Córners más/menos: Más de 8.5 | 51% | 50% | 50% | 1.83 | -8% |
 | Córners más/menos: Menos de 8.5 | 49% | 50% | 50% | 1.83 | -9% |
-| 1X2 descanso: 2 | 32% | 38% | 35% | 2.40 | -15% |
+| 1X2 descanso: 2 | 33% | 38% | 35% | 2.40 | -15% |
 | 1X2 descanso: X | 46% | 44% | 45% | 2.10 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

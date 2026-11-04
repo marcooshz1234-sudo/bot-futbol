@@ -1,10 +1,10 @@
 # Willem II – PEC Zwolle
 **Eredivisie** · Regular Season - 12 · 06/11/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **2.75**  ·  X **3.60**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**
@@ -100,7 +100,8 @@ _Actualizadas: 03/11 14:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Willem II:** J. Hoogma (baja, Knee Injury); A. Lachkar (baja, Groin Injury); J. Hoogma (baja, Knee Injury); A. Lachkar (baja, Groin Injury)
+**PEC Zwolle:** S. Floranus (baja, Injury); F. Krastev (baja, Achilles Tendon Injury); G. Rahajaan (baja, Inactive); S. Floranus (baja, Injury); F. Krastev (baja, Achilles Tendon Injury); G. Rahajaan (baja, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2025-05-14 · Eredivisie: Willem II 1-2 PEC Zwolle
@@ -186,12 +187,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 40% | 40% | 2.38 | -5% |
-| 1X2: X | 25% | 26% | 25% | 3.60 | -9% |
+| 1X2: X | 25% | 26% | 25% | 3.60 | -8% |
 | 1X2: 1 | 35% | 34% | 35% | 2.75 | -5% |
 | Doble oportunidad: X2 | 65% | 66% | 66% | 1.40 | -8% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 60% | 61% | 60% | 1.53 | -8% |
-| Ambos marcan: No | 41% | 38% | 39% | 2.50 | -2% |
+| Ambos marcan: No | 41% | 38% | 39% | 2.50 | -1% |
 | Ambos marcan: Sí | 59% | 62% | 61% | 1.50 | -9% |
 | Goles más/menos: Más de 2.5 | 56% | 61% | 58% | 1.53 | -11% |
 | Goles más/menos: Más de 3.5 | 33% | 41% | 37% | 2.25 | -16% |
@@ -200,8 +201,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 67% | 59% | 63% | 1.57 | -1% |
 | Goles más/menos: Menos de 4.5 | 83% | 77% | 80% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 42% | 39% | 2.20 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
 | Córners más/menos: Más de 10.5 | 43% | 48% | 45% | 1.98 | -10% |
 | Córners más/menos: Menos de 10.5 | 57% | 52% | 55% | 1.82 | -1% |

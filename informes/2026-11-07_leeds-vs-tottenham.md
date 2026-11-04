@@ -1,7 +1,7 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -178,30 +178,30 @@ _Sin bajas comunicadas por ahora._
 | Mikey Moore | F | 3 | 180 | 1 | 1 | 5 | 1,7 | 4 | 1,3 | 0 | 3 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,38 · visitante 1,06 · córners esperados 9,6._
+_Goles esperados: local 1,38 · visitante 1,06 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 29% | 36% | 32% | 2.62 | -16% |
+| 1X2: 2 | 29% | 36% | 32% | 2.62 | -15% |
 | 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
 | 1X2: 1 | 44% | 36% | 40% | 2.60 | +4% |
 | Doble oportunidad: X2 | 56% | 63% | 59% | 1.50 | -11% |
 | Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -5% |
 | Doble oportunidad: 1X | 71% | 67% | 69% | 1.40 | -3% |
 | Ambos marcan: No | 51% | 47% | 49% | 2.00 | -2% |
-| Ambos marcan: Sí | 49% | 53% | 51% | 1.75 | -10% |
-| Goles más/menos: Más de 1.5 | 70% | 73% | 72% | 1.30 | -7% |
+| Ambos marcan: Sí | 49% | 53% | 51% | 1.75 | -11% |
+| Goles más/menos: Más de 1.5 | 70% | 73% | 71% | 1.30 | -7% |
 | Goles más/menos: Más de 2.5 | 44% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 3.5 | 23% | 28% | 26% | 3.40 | -13% |
-| Goles más/menos: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -0% |
+| Goles más/menos: Menos de 1.5 | 30% | 27% | 29% | 3.50 | -0% |
 | Goles más/menos: Menos de 2.5 | 56% | 50% | 53% | 1.91 | +1% |
 | Goles más/menos: Menos de 3.5 | 77% | 72% | 74% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -8% |
+| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
 | Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
 | Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
 | Goles del visitante: Más de 0.5 | 65% | 72% | 69% | 1.30 | -10% |

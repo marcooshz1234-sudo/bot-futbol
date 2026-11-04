@@ -1,10 +1,10 @@
 # Getafe – Brighton
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **6.25**  ·  X **3.80**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
@@ -194,39 +194,39 @@ _Sin bajas comunicadas por ahora._
 | Pascal Struijk | D | 6 | 291 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,60 · visitante 2,12 · córners esperados 9,8._
+_Goles esperados: local 0,60 · visitante 2,15 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 73% | 60% | 66% | 1.57 | +4% |
+| 1X2: 2 | 73% | 60% | 67% | 1.57 | +5% |
 | 1X2: X | 18% | 25% | 21% | 3.80 | -19% |
-| 1X2: 1 | 9% | 15% | 12% | 6.25 | -24% |
+| 1X2: 1 | 9% | 15% | 12% | 6.25 | -25% |
 | Doble oportunidad: X2 | 91% | 83% | 87% | 1.14 | -1% |
-| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | -0% |
+| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | +0% |
 | Doble oportunidad: 1X | 27% | 43% | 35% | 2.20 | -23% |
-| Ambos marcan: No | 60% | 51% | 56% | 1.80 | +0% |
+| Ambos marcan: No | 60% | 51% | 56% | 1.80 | +1% |
 | Ambos marcan: Sí | 40% | 49% | 44% | 1.91 | -16% |
-| Goles más/menos: Más de 1.5 | 76% | 73% | 74% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 51% | 49% | 50% | 1.95 | -3% |
-| Goles más/menos: Más de 3.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles más/menos: Menos de 1.5 | 24% | 27% | 26% | 3.50 | -10% |
-| Goles más/menos: Menos de 2.5 | 49% | 51% | 50% | 1.85 | -7% |
-| Goles más/menos: Menos de 3.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
-| Goles del local: Más de 0.5 | 45% | 56% | 51% | 1.67 | -16% |
-| Goles del local: Más de 1.5 | 12% | 22% | 17% | 4.33 | -26% |
-| Goles del local: Menos de 0.5 | 55% | 44% | 49% | 2.10 | +4% |
+| Goles más/menos: Más de 1.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles más/menos: Más de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
+| Goles más/menos: Más de 3.5 | 30% | 29% | 29% | 3.25 | -5% |
+| Goles más/menos: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles más/menos: Menos de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
+| Goles más/menos: Menos de 3.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles del local: Más de 0.5 | 45% | 56% | 50% | 1.67 | -16% |
+| Goles del local: Más de 1.5 | 12% | 22% | 17% | 4.33 | -27% |
+| Goles del local: Menos de 0.5 | 55% | 44% | 50% | 2.10 | +4% |
 | Goles del local: Menos de 1.5 | 88% | 78% | 83% | 1.20 | -0% |
 | Goles del visitante: Más de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del visitante: Más de 2.5 | 36% | 29% | 32% | 3.25 | +5% |
-| Goles del visitante: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -16% |
-| Goles del visitante: Menos de 2.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Córners más/menos: Más de 9.5 | 47% | 46% | 47% | 2.00 | -6% |
-| Córners más/menos: Menos de 9.5 | 53% | 54% | 53% | 1.73 | -8% |
-| 1X2 descanso: 2 | 51% | 44% | 48% | 2.10 | -0% |
-| 1X2 descanso: X | 38% | 41% | 40% | 2.25 | -11% |
+| Goles del visitante: Más de 2.5 ✅ | 36% | 29% | 33% | 3.25 | +6% |
+| Goles del visitante: Menos de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
+| Goles del visitante: Menos de 2.5 | 64% | 71% | 67% | 1.33 | -11% |
+| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -8% |
+| 1X2 descanso: 2 | 52% | 44% | 48% | 2.10 | +1% |
+| 1X2 descanso: X | 38% | 41% | 39% | 2.25 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

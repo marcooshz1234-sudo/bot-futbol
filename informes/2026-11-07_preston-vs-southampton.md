@@ -1,10 +1,10 @@
 # Preston – Southampton
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Deepdale
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 04/11 02:10_
 
 - **1X2:** 1 **5.25**  ·  X **4.20**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.17**
@@ -61,53 +61,53 @@ _Actualizadas: 03/11 02:08_
 ## Estadísticas de equipo
 | | Preston (total) | Preston en casa | Southampton (total) | Southampton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 15 | 7 |
-| Forma (últimos 5) | DEDDD | EDDVD | VVEVV | VVDEE |
-| Balance | 1V 3E 11D | 1V 2E 5D | 9V 3E 3D | 3V 2E 2D |
-| Goles a favor / partido | 0,73 | 0,75 | 2,07 | 1,43 |
-| Goles en contra / partido | 2,13 | 1,88 | 1,13 | 1,14 |
-| Goles a favor 1ª parte | 0,40 | 0,25 | 0,93 | 0,71 |
-| Goles a favor 2ª parte | 0,33 | 0,50 | 1,13 | 0,71 |
-| Goles en contra 1ª parte | 0,80 | 0,50 | 0,47 | 0,57 |
-| Goles en contra 2ª parte | 1,33 | 1,38 | 0,67 | 0,57 |
-| Más de 1,5 goles | 80% | 75% | 80% | 86% |
-| Más de 2,5 goles | 60% | 50% | 60% | 43% |
-| Más de 3,5 goles | 40% | 38% | 47% | 14% |
-| Ambos marcan | 60% | 62% | 73% | 71% |
-| Portería a cero | 0% | 0% | 27% | 29% |
-| Se queda sin marcar | 40% | 38% | 7% | 0% |
-| xG a favor | 1,20 | 1,30 | 1,76 | 1,55 |
-| xG en contra | 1,56 | 1,38 | 1,30 | 1,32 |
-| Tiros / partido | 11,3 | 12,0 | 15,7 | 17,0 |
-| Tiros a puerta / partido | 2,4 | 2,6 | 4,9 | 4,9 |
-| Tiros recibidos | 16,7 | 14,9 | 15,5 | 15,9 |
-| Tiros a puerta recibidos | 5,3 | 5,0 | 4,5 | 5,1 |
-| Posesión media % | 40 | 42 | 57 | 59 |
-| Córners a favor | 4,9 | 6,1 | 5,1 | 5,1 |
-| Córners en contra | 6,0 | 5,4 | 4,7 | 4,7 |
-| Córners a favor 1ª parte | 1,9 | 1,8 | 2,3 | 1,7 |
-| Córners a favor 2ª parte | 3,1 | 4,4 | 2,9 | 3,4 |
-| Córners totales del partido | 10,9 | 11,5 | 9,8 | 9,9 |
-| Córners totales 1ª parte | 4,4 | 4,5 | 4,7 | 4,4 |
-| Córners totales 2ª parte | 6,5 | 7,0 | 5,1 | 5,4 |
-| Más de 8,5 córners | 67% | 62% | 40% | 43% |
-| Más de 9,5 córners | 53% | 50% | 40% | 43% |
-| Más de 10,5 córners | 47% | 50% | 33% | 29% |
-| Faltas cometidas | 11,4 | 9,2 | 8,0 | 7,9 |
-| Faltas recibidas | 9,9 | 10,2 | 12,9 | 13,0 |
-| Amarillas propias | 2,1 | 2,0 | 1,8 | 1,9 |
-| Amarillas del rival | 1,3 | 1,1 | 2,4 | 2,3 |
-| Rojas / partido | 0,13 | 0,12 | 0,07 | 0,00 |
+| Partidos analizados | 16 | 9 | 16 | 8 |
+| Forma (últimos 5) | DDEDD | DEDDV | EVVEV | EVVDE |
+| Balance | 1V 3E 12D | 1V 2E 6D | 9V 4E 3D | 3V 3E 2D |
+| Goles a favor / partido | 0,81 | 0,89 | 2,00 | 1,38 |
+| Goles en contra / partido | 2,19 | 2,00 | 1,12 | 1,12 |
+| Goles a favor 1ª parte | 0,44 | 0,33 | 0,88 | 0,62 |
+| Goles a favor 2ª parte | 0,38 | 0,56 | 1,12 | 0,75 |
+| Goles en contra 1ª parte | 0,94 | 0,78 | 0,50 | 0,62 |
+| Goles en contra 2ª parte | 1,25 | 1,22 | 0,62 | 0,50 |
+| Más de 1,5 goles | 81% | 78% | 81% | 88% |
+| Más de 2,5 goles | 62% | 56% | 56% | 38% |
+| Más de 3,5 goles | 44% | 44% | 44% | 12% |
+| Ambos marcan | 62% | 67% | 75% | 75% |
+| Portería a cero | 0% | 0% | 25% | 25% |
+| Se queda sin marcar | 38% | 33% | 6% | 0% |
+| xG a favor | 1,19 | 1,25 | 1,73 | 1,53 |
+| xG en contra | 1,60 | 1,47 | 1,36 | 1,44 |
+| Tiros / partido | 11,0 | 11,3 | 15,4 | 16,1 |
+| Tiros a puerta / partido | 2,4 | 2,6 | 4,8 | 4,6 |
+| Tiros recibidos | 16,8 | 15,2 | 15,6 | 16,0 |
+| Tiros a puerta recibidos | 5,2 | 5,0 | 4,5 | 5,1 |
+| Posesión media % | 40 | 42 | 56 | 58 |
+| Córners a favor | 4,8 | 5,8 | 5,1 | 5,1 |
+| Córners en contra | 5,8 | 5,1 | 4,6 | 4,5 |
+| Córners a favor 1ª parte | 1,8 | 1,7 | 2,1 | 1,5 |
+| Córners a favor 2ª parte | 3,0 | 4,1 | 3,0 | 3,6 |
+| Córners totales del partido | 10,6 | 10,9 | 9,7 | 9,6 |
+| Córners totales 1ª parte | 4,2 | 4,1 | 4,4 | 4,0 |
+| Córners totales 2ª parte | 6,4 | 6,8 | 5,2 | 5,6 |
+| Más de 8,5 córners | 62% | 56% | 38% | 38% |
+| Más de 9,5 córners | 50% | 44% | 38% | 38% |
+| Más de 10,5 córners | 44% | 44% | 31% | 25% |
+| Faltas cometidas | 11,4 | 9,6 | 8,1 | 8,1 |
+| Faltas recibidas | 9,8 | 9,9 | 12,9 | 13,0 |
+| Amarillas propias | 2,1 | 1,9 | 1,8 | 1,8 |
+| Amarillas del rival | 1,2 | 1,0 | 2,4 | 2,2 |
+| Rojas / partido | 0,12 | 0,11 | 0,06 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Preston | Recibe Preston | Tarjetas Preston | Goles Southampton | Recibe Southampton | Tarjetas Southampton |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 3 | 6 | 6 | 2 | 4 |
-| 16-30' | 2 | 3 | 3 | 2 | 3 | 4 |
-| 31-45' | 1 | 6 | 3 | 6 | 2 | 4 |
-| 46-60' | 1 | 5 | 8 | 5 | 3 | 6 |
-| 61-75' | 0 | 6 | 7 | 4 | 3 | 3 |
-| 76-90' | 4 | 9 | 8 | 8 | 4 | 7 |
+| 1-15' | 4 | 3 | 6 | 6 | 2 | 4 |
+| 16-30' | 2 | 4 | 3 | 2 | 4 | 4 |
+| 31-45' | 1 | 8 | 3 | 6 | 2 | 4 |
+| 46-60' | 1 | 5 | 8 | 6 | 3 | 6 |
+| 61-75' | 0 | 6 | 8 | 4 | 3 | 4 |
+| 76-90' | 5 | 9 | 8 | 8 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -124,107 +124,107 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Preston
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Championship | Preston 2-3 Sheffield Utd | casa | 3-3 | 6 (2) - 18 (5) | 1-0 |
 | 2026-10-31 | Championship | Stoke City 2-0 Preston | fuera | 7-9 | 3 (0) - 18 (6) | 2-2 |
 | 2026-10-24 | Championship | Preston 1-1 West Brom | casa | 6-9 | 19 (4) - 20 (5) | 1-1 |
 | 2026-10-17 | Championship | Wrexham 4-1 Preston | fuera | 2-8 | 11 (1) - 17 (6) | 4-2 |
 | 2026-10-13 | Championship | Birmingham 4-0 Preston | fuera | 3-6 | 6 (1) - 19 (7) | 2-1 |
 | 2026-10-10 | Championship | Preston 0-1 Millwall | casa | 4-4 | 12 (1) - 11 (3) | 1-2 |
-| 2026-09-19 | Championship | QPR 2-2 Preston | fuera | 3-10 | 14 (3) - 33 (7) | 2-2 |
 
 ## Jugadores de Preston
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. Iversen | G | 14 | 1266 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| J. Thompson | M | 14 | 1145 | 1 | 1 | 7 | 0,5 | 3 | 0,2 | 19 | 26 | 1,9 | 4 | 0 |
-| J. Storey | D | 13 | 1093 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 5 | 13 | 1,0 | 0 | 0 |
-| A. Devine | M | 14 | 1089 | 1 | 0 | 10 | 0,7 | 2 | 0,1 | 7 | 9 | 0,6 | 0 | 0 |
-| L. Leroy | M | 14 | 1052 | 0 | 1 | 9 | 0,6 | 0 | 0,0 | 14 | 13 | 0,9 | 4 | 0 |
-| C. Lang | F | 15 | 879 | 3 | 0 | 18 | 1,2 | 9 | 0,6 | 19 | 10 | 0,7 | 0 | 0 |
-| A. Vukčević | M | 13 | 858 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 7 | 0,5 | 3 | 0 |
-| O. Offiah | D | 12 | 844 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 6 | 0,5 | 0 | 0 |
-| A. Hughes | D | 10 | 817 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 6 | 0,6 | 3 | 0 |
+| D. Iversen | G | 15 | 1356 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| J. Thompson | M | 15 | 1235 | 1 | 1 | 7 | 0,5 | 3 | 0,2 | 24 | 26 | 1,7 | 4 | 0 |
+| L. Leroy | M | 15 | 1142 | 1 | 1 | 10 | 0,7 | 1 | 0,1 | 16 | 13 | 0,9 | 5 | 0 |
+| J. Storey | D | 14 | 1138 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 5 | 14 | 1,0 | 0 | 0 |
+| A. Devine | M | 15 | 1115 | 1 | 1 | 11 | 0,7 | 2 | 0,1 | 7 | 9 | 0,6 | 0 | 0 |
+| C. Lang | F | 16 | 956 | 4 | 0 | 19 | 1,2 | 10 | 0,6 | 21 | 11 | 0,7 | 0 | 0 |
+| O. Offiah | D | 13 | 934 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 7 | 0,5 | 0 | 0 |
+| A. Hughes | D | 11 | 907 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 11 | 6 | 0,5 | 3 | 0 |
+| A. Vukčević | M | 14 | 903 | 0 | 2 | 2 | 0,1 | 1 | 0,1 | 7 | 7 | 0,5 | 3 | 0 |
 | D. Burgzorg | F | 14 | 814 | 0 | 3 | 8 | 0,6 | 4 | 0,3 | 6 | 5 | 0,4 | 1 | 0 |
 | Harry Clarke | M | 9 | 705 | 0 | 0 | 7 | 0,8 | 1 | 0,1 | 10 | 3 | 0,3 | 4 | 0 |
+| S. Mills | M | 10 | 608 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 20 | 7 | 0,7 | 3 | 1 |
+| J. Erabi | F | 15 | 579 | 2 | 0 | 13 | 0,9 | 6 | 0,4 | 6 | 8 | 0,5 | 2 | 0 |
 | Lewis Gibson | D | 8 | 525 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 10 | 1,2 | 1 | 1 |
-| S. Mills | M | 9 | 519 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 20 | 5 | 0,6 | 3 | 1 |
-| J. Erabi | F | 14 | 515 | 2 | 0 | 12 | 0,9 | 6 | 0,4 | 6 | 8 | 0,6 | 2 | 0 |
-| J. Kenny | F | 7 | 453 | 2 | 0 | 18 | 2,6 | 5 | 0,7 | 4 | 3 | 0,4 | 0 | 0 |
-| L. Lindsay | D | 6 | 442 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 9 | 8 | 1,3 | 1 | 0 |
+| L. Lindsay | D | 7 | 487 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 10 | 8 | 1,1 | 1 | 0 |
+| J. Kenny | F | 8 | 466 | 2 | 0 | 18 | 2,2 | 5 | 0,6 | 4 | 3 | 0,4 | 0 | 0 |
+| A. Moran | M | 7 | 309 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 3 | 5 | 0,7 | 1 | 0 |
 | Ali McCann | M | 4 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,8 | 3 | 0 |
 | T. Small | D | 10 | 288 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | Pol Valentín | D | 5 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
-| A. Moran | M | 6 | 219 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 2 | 4 | 0,7 | 1 | 0 |
 
 ## Últimos partidos de Southampton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Championship | West Brom 1-1 Southampton | fuera | 5-3 | 10 (3) - 17 (5) | 1-2 |
 | 2026-10-31 | Championship | Southampton 4-1 QPR | casa | 9-4 | 19 (9) - 12 (2) | 0-3 |
 | 2026-10-24 | Championship | West Ham 2-3 Southampton | fuera | 6-14 | 15 (7) - 28 (11) | 2-1 |
 | 2026-10-17 | Championship | Southampton 0-0 Bolton | casa | 5-3 | 14 (2) - 14 (3) | 2-4 |
 | 2026-10-14 | Championship | Norwich 0-1 Southampton | fuera | 3-5 | 15 (4) - 12 (4) | 2-2 |
 | 2026-10-11 | Championship | Southampton 1-0 Portsmouth | casa | 2-4 | 7 (3) - 16 (3) | 5-3 |
-| 2026-09-19 | Championship | Wrexham 2-1 Southampton | fuera | 3-2 | 20 (7) - 8 (4) | 4-1 |
 
 ## Jugadores de Southampton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Daniel Peretz | G | 15 | 1356 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| J. Bree | D | 15 | 1310 | 2 | 1 | 7 | 0,5 | 2 | 0,1 | 9 | 3 | 0,2 | 2 | 0 |
-| F. Azaz | M | 15 | 1143 | 3 | 6 | 18 | 1,2 | 8 | 0,5 | 7 | 14 | 0,9 | 1 | 0 |
-| R. Manning | D | 14 | 1068 | 1 | 4 | 8 | 0,6 | 2 | 0,1 | 11 | 18 | 1,3 | 4 | 0 |
+| Daniel Peretz | G | 16 | 1446 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,2 | 0 | 0 |
+| J. Bree | D | 16 | 1400 | 2 | 1 | 8 | 0,5 | 2 | 0,1 | 9 | 4 | 0,2 | 2 | 0 |
+| F. Azaz | M | 16 | 1233 | 3 | 6 | 20 | 1,2 | 9 | 0,6 | 7 | 15 | 0,9 | 1 | 0 |
+| R. Manning | D | 15 | 1158 | 1 | 4 | 9 | 0,6 | 2 | 0,1 | 11 | 18 | 1,2 | 4 | 0 |
+| K. Matsuki | M | 16 | 1083 | 4 | 1 | 21 | 1,3 | 8 | 0,5 | 14 | 21 | 1,3 | 1 | 0 |
+| K. Schlotterbeck | D | 12 | 1077 | 2 | 0 | 13 | 1,1 | 4 | 0,3 | 6 | 10 | 0,8 | 1 | 0 |
 | Léo Scienza | M | 14 | 1018 | 3 | 2 | 23 | 1,6 | 13 | 0,9 | 5 | 30 | 2,1 | 1 | 0 |
-| K. Matsuki | M | 15 | 995 | 4 | 1 | 20 | 1,3 | 8 | 0,5 | 13 | 20 | 1,3 | 1 | 0 |
-| K. Schlotterbeck | D | 11 | 987 | 2 | 0 | 12 | 1,1 | 4 | 0,4 | 4 | 7 | 0,6 | 1 | 0 |
-| J. Stephens | D | 11 | 909 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
-| F. Downes | M | 13 | 883 | 0 | 2 | 3 | 0,2 | 0 | 0,0 | 12 | 14 | 1,1 | 3 | 0 |
-| J. Ward-Prowse | M | 11 | 868 | 1 | 1 | 10 | 0,9 | 5 | 0,5 | 3 | 7 | 0,6 | 0 | 0 |
+| J. Stephens | D | 12 | 999 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 1 | 3 | 0,2 | 0 | 0 |
+| F. Downes | M | 14 | 973 | 0 | 2 | 4 | 0,3 | 0 | 0,0 | 16 | 16 | 1,1 | 4 | 0 |
+| J. Ward-Prowse | M | 12 | 958 | 1 | 1 | 10 | 0,8 | 5 | 0,4 | 3 | 7 | 0,6 | 0 | 0 |
 | C. Larin | F | 13 | 776 | 8 | 0 | 32 | 2,5 | 15 | 1,2 | 20 | 9 | 0,7 | 3 | 0 |
 | Nathan Wood | D | 8 | 640 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 3 | 0,4 | 2 | 0 |
-| L. Dobbin | F | 13 | 569 | 1 | 0 | 11 | 0,8 | 4 | 0,3 | 5 | 12 | 0,9 | 1 | 0 |
+| L. Dobbin | F | 14 | 588 | 1 | 0 | 12 | 0,9 | 5 | 0,4 | 5 | 12 | 0,9 | 1 | 0 |
 | Cameron Bragg | M | 11 | 568 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 8 | 10 | 0,9 | 4 | 1 |
-| T. Fellows | M | 9 | 447 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 3 | 6 | 0,7 | 1 | 0 |
+| T. Fellows | M | 10 | 449 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 3 | 6 | 0,6 | 1 | 0 |
+| S. Edozie | M | 11 | 340 | 1 | 1 | 6 | 0,5 | 5 | 0,5 | 3 | 13 | 1,2 | 0 | 0 |
 | Welington | D | 7 | 311 | 2 | 0 | 3 | 0,4 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
-| S. Edozie | M | 10 | 250 | 0 | 1 | 5 | 0,5 | 4 | 0,4 | 2 | 11 | 1,1 | 0 | 0 |
-| D. Mubama | F | 12 | 234 | 1 | 1 | 9 | 0,8 | 2 | 0,2 | 4 | 7 | 0,6 | 1 | 0 |
+| D. Mubama | F | 13 | 305 | 1 | 1 | 9 | 0,7 | 2 | 0,2 | 5 | 8 | 0,6 | 1 | 0 |
 | Taylor Harwood-Bellis | D | 2 | 186 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 0 | 4 | 2,0 | 0 | 0 |
 | C. Jander | M | 3 | 176 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 5 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,98 · visitante 2,24 · córners esperados 9,9._
+_Goles esperados: local 1,02 · visitante 2,30 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 66% | 60% | 63% | 1.55 | -2% |
-| 1X2: X | 19% | 22% | 21% | 4.20 | -14% |
-| 1X2: 1 | 15% | 18% | 16% | 5.25 | -14% |
+| 1X2: X | 19% | 22% | 20% | 4.20 | -14% |
+| 1X2: 1 | 15% | 18% | 17% | 5.25 | -13% |
 | Doble oportunidad: X2 | 85% | 82% | 83% | 1.17 | -3% |
 | Doble oportunidad: 12 | 81% | 78% | 80% | 1.22 | -3% |
 | Doble oportunidad: 1X | 34% | 40% | 37% | 2.38 | -12% |
-| Ambos marcan: No | 44% | 41% | 43% | 2.25 | -4% |
-| Ambos marcan: Sí | 56% | 59% | 57% | 1.57 | -10% |
-| Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 3.5 | 40% | 41% | 41% | 2.30 | -6% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -8% |
-| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles más/menos: Menos de 3.5 | 60% | 59% | 59% | 1.62 | -4% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
-| Goles del local: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 1.5 | 26% | 29% | 27% | 3.25 | -11% |
-| Goles del local: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles del local: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -3% |
-| Goles del visitante: Más de 1.5 | 65% | 62% | 64% | 1.50 | -4% |
-| Goles del visitante: Más de 2.5 | 39% | 38% | 38% | 2.50 | -5% |
-| Goles del visitante: Menos de 1.5 | 35% | 38% | 36% | 2.50 | -10% |
-| Goles del visitante: Menos de 2.5 | 61% | 62% | 62% | 1.50 | -7% |
-| Córners más/menos: Más de 11.5 | 32% | 46% | 39% | 2.00 | -21% |
-| Córners más/menos: Menos de 11.5 | 68% | 54% | 61% | 1.73 | +5% |
-| 1X2 descanso: 2 | 48% | 45% | 47% | 2.05 | -4% |
-| 1X2 descanso: X | 36% | 36% | 36% | 2.60 | -7% |
+| Ambos marcan: No | 43% | 41% | 42% | 2.25 | -6% |
+| Ambos marcan: Sí | 57% | 59% | 58% | 1.57 | -9% |
+| Goles más/menos: Más de 2.5 | 64% | 62% | 63% | 1.53 | -3% |
+| Goles más/menos: Más de 3.5 | 42% | 41% | 42% | 2.30 | -4% |
+| Goles más/menos: Más de 4.5 | 24% | 24% | 24% | 4.00 | -4% |
+| Goles más/menos: Menos de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles más/menos: Menos de 3.5 | 58% | 59% | 58% | 1.62 | -6% |
+| Goles más/menos: Menos de 4.5 | 76% | 76% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
+| Goles del local: Más de 0.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 1.5 | 27% | 29% | 28% | 3.25 | -9% |
+| Goles del local: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles del local: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles del visitante: Más de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
+| Goles del visitante: Más de 2.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles del visitante: Menos de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles del visitante: Menos de 2.5 | 60% | 62% | 61% | 1.50 | -8% |
+| Córners más/menos: Más de 11.5 | 31% | 46% | 39% | 2.00 | -22% |
+| Córners más/menos: Menos de 11.5 | 69% | 54% | 61% | 1.73 | +6% |
+| 1X2 descanso: 2 | 49% | 45% | 47% | 2.05 | -3% |
+| 1X2 descanso: X | 35% | 36% | 36% | 2.60 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

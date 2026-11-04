@@ -1,7 +1,7 @@
 # Cagliari – Frosinone
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -190,24 +190,24 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,38 · visitante 1,79 · córners esperados 10,5._
+_Goles esperados: local 1,38 · visitante 1,79 · córners esperados 10,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 47% | 38% | 43% | 2.45 | +4% |
 | 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
 | 1X2: 1 | 30% | 35% | 33% | 2.62 | -14% |
-| Doble oportunidad: X2 | 70% | 65% | 68% | 1.44 | -3% |
+| Doble oportunidad: X2 | 70% | 65% | 68% | 1.44 | -2% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 53% | 61% | 57% | 1.53 | -13% |
 | Ambos marcan: No | 38% | 35% | 37% | 2.62 | -4% |
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
-| Goles más/menos: Más de 2.5 | 61% | 60% | 61% | 1.57 | -5% |
-| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -8% |
+| Goles más/menos: Más de 2.5 | 61% | 60% | 61% | 1.57 | -4% |
+| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -7% |
 | Goles más/menos: Más de 4.5 | 21% | 22% | 22% | 4.33 | -6% |
 | Goles más/menos: Menos de 2.5 | 39% | 40% | 39% | 2.38 | -7% |
 | Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
-| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -4% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
@@ -220,14 +220,14 @@ _Goles esperados: local 1,38 · visitante 1,79 · córners esperados 10,5._
 | Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del visitante: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
-| Goles del visitante: Más de 2.5 | 27% | 23% | 25% | 4.00 | -0% |
+| Goles del visitante: Más de 2.5 | 27% | 23% | 25% | 4.00 | +0% |
 | Goles del visitante: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -16% |
 | Goles del visitante: Menos de 1.5 | 47% | 51% | 49% | 1.80 | -12% |
-| Goles del visitante: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -8% |
+| Goles del visitante: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
 | Córners más/menos: Más de 10.5 | 45% | 46% | 46% | 2.00 | -9% |
 | Córners más/menos: Menos de 10.5 | 55% | 54% | 54% | 1.73 | -6% |
 | 1X2 descanso: 2 | 36% | 32% | 34% | 2.88 | -2% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -8% |
-| 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -15% |
+| 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

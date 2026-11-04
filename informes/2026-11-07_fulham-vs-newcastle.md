@@ -1,7 +1,7 @@
 # Fulham – Newcastle
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -182,7 +182,7 @@ _Sin bajas comunicadas por ahora._
 | B. Touré | F | 8 | 185 | 2 | 0 | 6 | 0,8 | 4 | 0,5 | 4 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 1,08 · córners esperados 10,1._
+_Goles esperados: local 1,69 · visitante 1,09 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,29 +193,29 @@ _Goles esperados: local 1,68 · visitante 1,08 · córners esperados 10,1._
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 76% | 70% | 73% | 1.36 | -1% |
 | Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -12% |
+| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
 | Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.20 | -7% |
-| Goles más/menos: Más de 2.5 | 52% | 57% | 54% | 1.67 | -9% |
+| Goles más/menos: Más de 2.5 | 52% | 57% | 55% | 1.67 | -9% |
 | Goles más/menos: Más de 3.5 | 30% | 36% | 33% | 2.62 | -13% |
-| Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -20% |
-| Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +1% |
-| Goles más/menos: Menos de 2.5 | 48% | 43% | 46% | 2.20 | +0% |
+| Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -19% |
+| Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +0% |
+| Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | -0% |
 | Goles más/menos: Menos de 3.5 | 70% | 64% | 67% | 1.50 | +0% |
-| Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.20 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -13% |
+| Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.20 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 37% | 2.38 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 64% | 1.53 | -3% |
-| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
-| Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
-| Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
+| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -8% |
+| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -6% |
 | Goles del visitante: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 1.5 | 29% | 38% | 33% | 2.50 | -16% |
-| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del visitante: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
+| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +4% |
+| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -0% |
 | 1X2 descanso: 2 | 21% | 26% | 23% | 3.60 | -16% |
-| 1X2 descanso: X | 41% | 39% | 40% | 2.38 | -4% |
-| 1X2 descanso: 1 | 38% | 35% | 36% | 2.62 | -5% |
+| 1X2 descanso: X | 41% | 39% | 40% | 2.38 | -5% |
+| 1X2 descanso: 1 | 38% | 35% | 37% | 2.62 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

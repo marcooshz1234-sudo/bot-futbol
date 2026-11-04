@@ -1,10 +1,10 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.20**  ·  X2 **2.62**
@@ -188,9 +188,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 46% | 63% | 54% | 1.50 | -18% |
 | Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +18% |
 | Doble oportunidad: 12 | 76% | 79% | 78% | 1.20 | -7% |
-| Doble oportunidad: 1X | 70% | 85% | 77% | 1.12 | -14% |
-| Ambos marcan: No | 39% | 50% | 45% | 1.83 | -18% |
-| Ambos marcan: Sí | 61% | 50% | 55% | 1.83 | +1% |
+| Doble oportunidad: 1X | 70% | 85% | 77% | 1.12 | -13% |
+| Ambos marcan: No | 40% | 50% | 45% | 1.83 | -18% |
+| Ambos marcan: Sí | 60% | 50% | 55% | 1.83 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.70 | -3% |
 | Goles más/menos: Más de 3.5 | 36% | 35% | 36% | 2.62 | -6% |
@@ -202,10 +202,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 1.5 | 51% | 59% | 55% | 1.57 | -14% |
-| Goles del local: Más de 2.5 | 24% | 34% | 29% | 2.75 | -20% |
+| Goles del local: Más de 2.5 | 25% | 34% | 29% | 2.75 | -20% |
 | Goles del local: Menos de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
-| Goles del local: Menos de 2.5 | 76% | 66% | 71% | 1.40 | -1% |
-| Goles del visitante: Más de 0.5 | 74% | 58% | 66% | 1.62 | +7% |
+| Goles del local: Menos de 2.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles del visitante: Más de 0.5 | 74% | 58% | 66% | 1.62 | +6% |
 | Goles del visitante: Más de 1.5 | 39% | 23% | 31% | 4.00 | +24% |
 | Goles del visitante: Menos de 0.5 | 26% | 42% | 34% | 2.20 | -25% |
 | Goles del visitante: Menos de 1.5 | 61% | 77% | 69% | 1.22 | -16% |

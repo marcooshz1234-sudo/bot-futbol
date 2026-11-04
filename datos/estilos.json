@@ -1,38 +1,38 @@
 {
- "generado": "2026-11-03 20:00",
+ "generado": "2026-11-04 02:10",
  "estilos": {
   "escalera": {
-   "nota": 1.377,
-   "posts_threads": 7,
-   "resultados": 9,
+   "nota": 1.524,
+   "posts_threads": 8,
+   "resultados": 10,
    "verdes": 2
   },
   "datos-rachas": {
-   "nota": 0.974,
+   "nota": 0.969,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 1.673,
+   "nota": 1.827,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 2.125,
+   "nota": 2.281,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-tema": {
-   "nota": 0.932,
+   "nota": 0.928,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "datos-manana": {
-   "nota": 0.935,
+   "nota": 0.932,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -50,43 +50,43 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 0.714,
+   "nota": 0.688,
    "posts_threads": 0,
-   "resultados": 4,
+   "resultados": 5,
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 1.336,
+   "nota": 1.307,
    "posts_threads": 5,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550167": {
-   "nota": 1.189,
+   "nota": 1.171,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640387": {
-   "nota": 1.209,
+   "nota": 1.191,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640383": {
-   "nota": 1.147,
+   "nota": 1.132,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550171": {
-   "nota": 1.069,
+   "nota": 1.051,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550172": {
-   "nota": 1.191,
+   "nota": 1.173,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -98,37 +98,37 @@
    "verdes": 0
   },
   "combi-partido-1640385": {
-   "nota": 0.967,
+   "nota": 0.962,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550169": {
-   "nota": 0.976,
+   "nota": 0.971,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575211": {
-   "nota": 0.831,
+   "nota": 0.826,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1570442": {
-   "nota": 0.848,
+   "nota": 0.842,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1563233": {
-   "nota": 0.931,
+   "nota": 0.928,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1552802": {
-   "nota": 0.823,
+   "nota": 0.819,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
@@ -152,105 +152,123 @@
    "verdes": 0
   },
   "combi-partido-1575204": {
-   "nota": 0.85,
+   "nota": 0.844,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1557454": {
-   "nota": 0.992,
+   "nota": 0.986,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-loca": {
-   "nota": 0.818,
+   "nota": 0.814,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550186": {
-   "nota": 0.988,
+   "nota": 0.981,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557456": {
-   "nota": 1.0,
+   "nota": 0.993,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575203": {
-   "nota": 0.88,
+   "nota": 0.873,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550177": {
-   "nota": 0.96,
+   "nota": 0.955,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1552210": {
-   "nota": 0.944,
+   "nota": 0.94,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550183": {
-   "nota": 1.009,
+   "nota": 1.001,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575207": {
-   "nota": 0.854,
+   "nota": 0.849,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1570440": {
-   "nota": 0.958,
+   "nota": 0.946,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1570437": {
-   "nota": 0.984,
+   "nota": 0.978,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550182": {
-   "nota": 1.049,
+   "nota": 1.039,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1570433": {
-   "nota": 0.957,
+   "nota": 0.952,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "pick-seguro": {
-   "nota": 1.154,
-   "posts_threads": 1,
+   "nota": 1.411,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1570436": {
-   "nota": 1.356,
+   "nota": 1.329,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1569998": {
-   "nota": 1.025,
+   "nota": 1.016,
    "posts_threads": 1,
    "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1635662": {
+   "nota": 0.875,
+   "posts_threads": 0,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "lista-europa-2": {
+   "nota": 1.25,
+   "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "combi-partido-1635677": {
+   "nota": 1.122,
+   "posts_threads": 1,
+   "resultados": 1,
    "verdes": 0
   }
  }

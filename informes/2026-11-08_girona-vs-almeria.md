@@ -1,7 +1,7 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -198,9 +198,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 54% | 42% | 48% | 2.25 | +8% |
 | Goles más/menos: Menos de 3.5 | 76% | 62% | 69% | 1.50 | +4% |
 | Goles más/menos: Menos de 4.5 | 89% | 79% | 84% | 1.18 | -1% |
-| Goles del local: Más de 1.5 | 39% | 50% | 45% | 1.83 | -18% |
+| Goles del local: Más de 1.5 | 39% | 50% | 45% | 1.83 | -19% |
 | Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -24% |
-| Goles del local: Menos de 1.5 | 61% | 50% | 55% | 1.83 | +1% |
+| Goles del local: Menos de 1.5 | 61% | 50% | 55% | 1.83 | +2% |
 | Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | -0% |
 | Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
 | Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
@@ -208,6 +208,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
 | 1X2 descanso: 2 | 25% | 26% | 25% | 3.60 | -9% |
 | 1X2 descanso: X | 44% | 39% | 42% | 2.38 | -1% |
-| 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -13% |
+| 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

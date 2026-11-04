@@ -1,18 +1,18 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 03/11/2026 20:00. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 04/11/2026 02:10. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 81 · **acertados:** 27 (33%)
-- **Beneficio:** -9.34 unidades · **rentabilidad (yield):** -11.5%
-- **Cuota media:** 2.85 · **pendientes:** 46
+- **Picks jugados:** 83 · **acertados:** 28 (34%)
+- **Beneficio:** -9.09 unidades · **rentabilidad (yield):** -11.0%
+- **Cuota media:** 2.85 · **pendientes:** 43
 
-_Con 81 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 83 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 20 | 7 (35%) | -1.10 | -5.5% |
+| 1X2 | 22 | 8 (36%) | -0.85 | -3.9% |
 | Goles más/menos | 17 | 5 (29%) | -3.53 | -20.8% |
 | Goles del local | 15 | 7 (47%) | +4.72 | +31.5% |
 | Goles del visitante | 12 | 2 (17%) | -6.76 | -56.3% |
@@ -25,6 +25,8 @@ _Con 81 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-03 | Atletico Madrid – Bayern München | 1X2: 2 | 2.25 | ✅ | +1.25 |
+| 2026-11-03 | Manchester United – AS Roma | 1X2: 2 | 2.90 | ❌ | -1.00 |
 | 2026-11-02 | Newcastle – Everton | Goles del local: Menos de 1.5 | 1.83 | ✅ | +0.83 |
 | 2026-11-02 | Newcastle – Everton | 1X2: 2 | 3.20 | ✅ | +2.20 |
 | 2026-11-02 | Atalanta – Parma | Goles del local: Menos de 1.5 | 2.62 | ✅ | +1.62 |
@@ -63,5 +65,3 @@ _Con 81 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-31 | Chelsea – Manchester United | Goles del local: Más de 2.5 | 3.25 | ❌ | -1.00 |
 | 2026-10-31 | Chelsea – Manchester United | Goles más/menos: Más de 4.5 | 4.50 | ❌ | -1.00 |
 | 2026-10-30 | Lille – Lens | Goles más/menos: Más de 3.5 | 3.20 | ❌ | -1.00 |
-| 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles del visitante: Más de 2.5 | 3.40 | ❌ | -1.00 |
-| 2026-10-30 | SV Elversberg – FSV Mainz 05 | Goles más/menos: Más de 4.5 | 3.75 | ✅ | +2.75 |

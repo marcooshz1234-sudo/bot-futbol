@@ -1,7 +1,7 @@
 # Sporting CP – Moreirense
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -47,43 +47,43 @@ _Actualizadas: 03/11 14:07_
 ## Estadísticas de equipo
 | | Sporting CP (total) | Sporting CP en casa | Moreirense (total) | Moreirense fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 11 | 6 |
-| Forma (últimos 5) | VDDVV | DDEVV | VVDDE | VDEDV |
-| Balance | 8V 3E 2D | 4V 1E 2D | 4V 2E 5D | 2V 1E 3D |
-| Goles a favor / partido | 2,31 | 2,29 | 1,18 | 1,00 |
-| Goles en contra / partido | 1,15 | 1,57 | 1,64 | 1,50 |
-| Goles a favor 1ª parte | 1,15 | 1,29 | 0,73 | 0,83 |
-| Goles a favor 2ª parte | 1,15 | 1,00 | 0,45 | 0,17 |
-| Goles en contra 1ª parte | 0,31 | 0,43 | 0,64 | 0,83 |
-| Goles en contra 2ª parte | 0,85 | 1,14 | 1,00 | 0,67 |
-| Más de 1,5 goles | 100% | 100% | 73% | 67% |
-| Más de 2,5 goles | 69% | 86% | 64% | 50% |
-| Más de 3,5 goles | 62% | 71% | 45% | 33% |
-| Ambos marcan | 69% | 86% | 55% | 50% |
-| Portería a cero | 31% | 14% | 9% | 17% |
+| Partidos analizados | 14 | 7 | 11 | 6 |
+| Forma (últimos 5) | VVDDV | DDEVV | VVDDE | VDEDV |
+| Balance | 9V 3E 2D | 4V 1E 2D | 4V 2E 5D | 2V 1E 3D |
+| Goles a favor / partido | 2,21 | 2,29 | 1,18 | 1,00 |
+| Goles en contra / partido | 1,07 | 1,57 | 1,64 | 1,50 |
+| Goles a favor 1ª parte | 1,07 | 1,29 | 0,73 | 0,83 |
+| Goles a favor 2ª parte | 1,14 | 1,00 | 0,45 | 0,17 |
+| Goles en contra 1ª parte | 0,29 | 0,43 | 0,64 | 0,83 |
+| Goles en contra 2ª parte | 0,79 | 1,14 | 1,00 | 0,67 |
+| Más de 1,5 goles | 93% | 100% | 73% | 67% |
+| Más de 2,5 goles | 64% | 86% | 64% | 50% |
+| Más de 3,5 goles | 57% | 71% | 45% | 33% |
+| Ambos marcan | 64% | 86% | 55% | 50% |
+| Portería a cero | 36% | 14% | 9% | 17% |
 | Se queda sin marcar | 0% | 0% | 36% | 33% |
-| xG a favor | 2,04 | 2,09 | 0,78 | 0,71 |
-| xG en contra | 0,97 | 1,01 | 1,64 | 1,81 |
-| Tiros / partido | 14,5 | 14,4 | 8,7 | 7,6 |
-| Tiros a puerta / partido | 5,6 | 4,9 | 3,0 | 3,0 |
-| Tiros recibidos | 10,6 | 10,0 | 16,1 | 18,8 |
-| Tiros a puerta recibidos | 3,3 | 3,7 | 4,8 | 5,8 |
-| Posesión media % | 57 | 58 | 38 | 39 |
-| Córners a favor | 4,8 | 6,1 | 2,3 | 1,3 |
-| Córners en contra | 3,1 | 2,1 | 4,4 | 4,7 |
-| Córners a favor 1ª parte | 3,0 | 4,0 | 1,1 | 0,8 |
+| xG a favor | 1,99 | 2,09 | 0,78 | 0,71 |
+| xG en contra | 1,04 | 1,01 | 1,64 | 1,81 |
+| Tiros / partido | 14,3 | 14,4 | 8,7 | 7,6 |
+| Tiros a puerta / partido | 5,4 | 4,9 | 3,0 | 3,0 |
+| Tiros recibidos | 10,9 | 10,0 | 16,1 | 18,8 |
+| Tiros a puerta recibidos | 3,4 | 3,7 | 4,8 | 5,8 |
+| Posesión media % | 56 | 58 | 38 | 39 |
+| Córners a favor | 4,6 | 6,1 | 2,3 | 1,3 |
+| Córners en contra | 3,4 | 2,1 | 4,4 | 4,7 |
+| Córners a favor 1ª parte | 2,9 | 4,0 | 1,1 | 0,8 |
 | Córners a favor 2ª parte | 1,8 | 2,1 | 1,2 | 0,5 |
-| Córners totales del partido | 7,9 | 8,3 | 6,6 | 6,0 |
+| Córners totales del partido | 8,0 | 8,3 | 6,6 | 6,0 |
 | Córners totales 1ª parte | 4,1 | 4,9 | 3,2 | 2,5 |
-| Córners totales 2ª parte | 3,8 | 3,4 | 3,5 | 3,5 |
-| Más de 8,5 córners | 38% | 43% | 27% | 33% |
-| Más de 9,5 córners | 23% | 43% | 18% | 17% |
-| Más de 10,5 córners | 23% | 43% | 0% | 0% |
-| Faltas cometidas | 12,1 | 11,6 | 13,3 | 13,0 |
-| Faltas recibidas | 12,9 | 14,9 | 13,7 | 12,4 |
-| Amarillas propias | 2,1 | 2,4 | 2,0 | 1,7 |
-| Amarillas del rival | 2,7 | 3,6 | 1,8 | 1,3 |
-| Rojas / partido | 0,08 | 0,14 | 0,09 | 0,17 |
+| Córners totales 2ª parte | 3,9 | 3,4 | 3,5 | 3,5 |
+| Más de 8,5 córners | 43% | 43% | 27% | 33% |
+| Más de 9,5 córners | 21% | 43% | 18% | 17% |
+| Más de 10,5 córners | 21% | 43% | 0% | 0% |
+| Faltas cometidas | 12,5 | 11,6 | 13,3 | 13,0 |
+| Faltas recibidas | 12,7 | 14,9 | 13,7 | 12,4 |
+| Amarillas propias | 2,0 | 2,4 | 2,0 | 1,7 |
+| Amarillas del rival | 2,6 | 3,6 | 1,8 | 1,3 |
+| Rojas / partido | 0,07 | 0,14 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sporting CP | Recibe Sporting CP | Tarjetas Sporting CP | Goles Moreirense | Recibe Moreirense | Tarjetas Moreirense |
@@ -91,8 +91,8 @@ _Actualizadas: 03/11 14:07_
 | 1-15' | 6 | 2 | 1 | 3 | 2 | 3 |
 | 16-30' | 6 | 1 | 5 | 5 | 2 | 1 |
 | 31-45' | 4 | 0 | 2 | 0 | 3 | 7 |
-| 46-60' | 6 | 0 | 3 | 2 | 4 | 3 |
-| 61-75' | 4 | 7 | 6 | 0 | 2 | 6 |
+| 46-60' | 7 | 0 | 3 | 2 | 4 | 3 |
+| 61-75' | 4 | 7 | 7 | 0 | 2 | 6 |
 | 76-90' | 4 | 5 | 11 | 3 | 5 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -111,36 +111,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sporting CP
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Champions League | Shakhtar Donetsk 0-1 Sporting CP | fuera | 2-7 | 11 (3) - 14 (4) | 1-1 |
 | 2026-10-30 | Primeira Liga | Casa Pia 0-2 Sporting CP | fuera | 4-3 | 23 (11) - 12 (2) | 2-2 |
 | 2026-10-25 | Primeira Liga | Sporting CP 1-2 Academico Viseu | casa | 11-0 | 28 (4) - 9 (3) | 2-4 |
 | 2026-10-21 | Champions League | Sporting CP 2-3 Lask Linz | casa | 7-4 | 16 (4) - 11 (7) | 2-5 |
 | 2026-10-13 | Champions League | Lens 0-2 Sporting CP | fuera | 3-6 | 11 (5) - 21 (6) | 0-2 |
 | 2026-10-09 | Primeira Liga | SC Braga 1-3 Sporting CP | fuera | 2-5 | 9 (3) - 16 (4) | 1-1 |
-| 2026-09-19 | Primeira Liga | Sporting CP 2-2 Arouca | casa | 4-2 | 10 (3) - 15 (5) | 4-5 |
 
 ## Jugadores de Sporting CP
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sergi Altimira | M | 13 | 1162 | 1 | 0 | 7 | 0,5 | 2 | 0,2 | 17 | 15 | 1,2 | 3 | 0 |
-| Gonçalo Inácio | D | 12 | 1080 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 8 | 7 | 0,6 | 2 | 0 |
-| I. Doumbia | M | 13 | 1025 | 1 | 1 | 13 | 1,0 | 1 | 0,1 | 14 | 4 | 0,3 | 2 | 0 |
-| M. Araújo | D | 12 | 1010 | 1 | 2 | 12 | 1,0 | 5 | 0,4 | 13 | 18 | 1,5 | 4 | 0 |
-| Iván Fresneda | D | 13 | 931 | 0 | 4 | 6 | 0,5 | 3 | 0,2 | 19 | 9 | 0,7 | 1 | 0 |
-| L. Suárez | F | 13 | 913 | 12 | 1 | 38 | 2,9 | 18 | 1,4 | 17 | 10 | 0,8 | 5 | 0 |
-| Geny Catamo | M | 13 | 894 | 3 | 4 | 17 | 1,3 | 9 | 0,7 | 9 | 23 | 1,8 | 3 | 0 |
-| Rui Silva | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Eduardo Quaresma | D | 9 | 672 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,6 | 2 | 0 |
-| R. Zalazar | M | 9 | 600 | 3 | 1 | 11 | 1,2 | 5 | 0,6 | 1 | 6 | 0,7 | 0 | 0 |
+| Sergi Altimira | M | 14 | 1252 | 1 | 0 | 7 | 0,5 | 2 | 0,1 | 19 | 16 | 1,1 | 3 | 0 |
+| Gonçalo Inácio | D | 13 | 1170 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 9 | 8 | 0,6 | 2 | 0 |
+| I. Doumbia | M | 14 | 1113 | 2 | 1 | 15 | 1,1 | 2 | 0,1 | 16 | 4 | 0,3 | 2 | 0 |
+| M. Araújo | M | 13 | 1098 | 1 | 2 | 14 | 1,1 | 6 | 0,5 | 17 | 18 | 1,4 | 5 | 0 |
+| L. Suárez | F | 14 | 1003 | 12 | 1 | 42 | 3,0 | 18 | 1,3 | 18 | 13 | 0,9 | 5 | 0 |
+| Geny Catamo | M | 14 | 977 | 3 | 4 | 17 | 1,2 | 9 | 0,6 | 10 | 25 | 1,8 | 3 | 0 |
+| Iván Fresneda | D | 14 | 938 | 0 | 4 | 6 | 0,4 | 3 | 0,2 | 19 | 9 | 0,6 | 1 | 0 |
+| Rui Silva | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Eduardo Quaresma | D | 10 | 762 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 5 | 0,5 | 2 | 0 |
+| R. Zalazar | M | 10 | 620 | 3 | 1 | 11 | 1,1 | 5 | 0,5 | 1 | 7 | 0,7 | 0 | 0 |
 | Flávio Gonçalves | F | 11 | 558 | 3 | 1 | 11 | 1,0 | 7 | 0,6 | 7 | 11 | 1,0 | 1 | 0 |
 | N. Irankunda | M | 10 | 504 | 0 | 2 | 11 | 1,1 | 2 | 0,2 | 8 | 12 | 1,2 | 1 | 0 |
 | Luis Guilherme | M | 11 | 415 | 0 | 0 | 7 | 0,6 | 4 | 0,4 | 2 | 8 | 0,7 | 0 | 0 |
+| F. Ioannidis | F | 13 | 414 | 2 | 2 | 14 | 1,1 | 5 | 0,4 | 7 | 7 | 0,5 | 0 | 0 |
 | Z. Debast | D | 6 | 410 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 5 | 2 | 0,3 | 0 | 1 |
 | Kaique | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
-| F. Ioannidis | F | 12 | 344 | 2 | 2 | 14 | 1,2 | 5 | 0,4 | 7 | 6 | 0,5 | 0 | 0 |
+| S. Andersen | M | 11 | 344 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 11 | 7 | 0,6 | 1 | 0 |
 | G. Vagiannidis | D | 6 | 320 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 7 | 1,2 | 0 | 0 |
-| S. Andersen | M | 10 | 254 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 7 | 6 | 0,6 | 1 | 0 |
 | Ibrahima Ba | D | 2 | 180 | 0 | 0 | 3 | 1,5 | 0 | 0,0 | 0 | 3 | 1,5 | 0 | 0 |
-| João Simões | M | 4 | 160 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 1 | 0 |
+| João Simões | M | 5 | 162 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 1 | 0 |
 
 ## Últimos partidos de Moreirense
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -177,29 +177,29 @@ _Sin bajas comunicadas por ahora._
 | Afonso Vieira | M | 2 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,42 · visitante 0,78 · córners esperados 8,8._
+_Goles esperados: local 2,47 · visitante 0,77 · córners esperados 8,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 6% | 8% | 15.00 | +23% |
-| 1X2: X | 16% | 12% | 14% | 7.50 | +8% |
-| 1X2: 1 | 73% | 81% | 77% | 1.14 | -12% |
-| Doble oportunidad: X2 | 27% | 18% | 22% | 5.50 | +21% |
+| 1X2: 2 | 10% | 6% | 8% | 15.00 | +19% |
+| 1X2: X | 16% | 12% | 14% | 7.50 | +6% |
+| 1X2: 1 | 75% | 81% | 78% | 1.14 | -11% |
+| Doble oportunidad: X2 | 25% | 18% | 22% | 5.50 | +18% |
 | Doble oportunidad: 12 | 84% | 88% | 86% | 1.10 | -5% |
 | Doble oportunidad: 1X | 90% | 94% | 92% | 1.03 | -5% |
-| Ambos marcan: No | 50% | 56% | 53% | 1.67 | -11% |
-| Ambos marcan: Sí | 50% | 44% | 47% | 2.10 | -1% |
-| Goles más/menos: Más de 2.5 | 62% | 67% | 65% | 1.40 | -9% |
-| Goles más/menos: Más de 3.5 | 40% | 46% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 4.5 | 22% | 29% | 26% | 3.25 | -17% |
-| Goles más/menos: Menos de 2.5 | 38% | 33% | 35% | 2.88 | +2% |
-| Goles más/menos: Menos de 3.5 | 60% | 54% | 57% | 1.73 | -2% |
-| Goles más/menos: Menos de 4.5 | 78% | 71% | 74% | 1.33 | -1% |
-| Córners más/menos: Más de 9.5 | 38% | 49% | 43% | 1.91 | -17% |
-| Córners más/menos: Menos de 9.5 | 62% | 51% | 57% | 1.80 | +2% |
-| 1X2 descanso: X | 35% | 29% | 32% | 3.20 | +1% |
-| 1X2 descanso: 1 | 54% | 64% | 59% | 1.44 | -16% |
+| Ambos marcan: No | 51% | 56% | 53% | 1.67 | -11% |
+| Ambos marcan: Sí | 49% | 44% | 47% | 2.10 | -2% |
+| Goles más/menos: Más de 2.5 | 63% | 67% | 65% | 1.40 | -9% |
+| Goles más/menos: Más de 3.5 | 41% | 46% | 43% | 2.00 | -13% |
+| Goles más/menos: Más de 4.5 | 23% | 29% | 26% | 3.25 | -16% |
+| Goles más/menos: Menos de 2.5 | 37% | 33% | 35% | 2.88 | +1% |
+| Goles más/menos: Menos de 3.5 | 59% | 54% | 57% | 1.73 | -2% |
+| Goles más/menos: Menos de 4.5 | 77% | 71% | 74% | 1.33 | -1% |
+| Córners más/menos: Más de 9.5 | 38% | 49% | 44% | 1.91 | -17% |
+| Córners más/menos: Menos de 9.5 | 62% | 51% | 56% | 1.80 | +2% |
+| 1X2 descanso: X | 34% | 29% | 31% | 3.20 | +0% |
+| 1X2 descanso: 1 | 55% | 64% | 59% | 1.44 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

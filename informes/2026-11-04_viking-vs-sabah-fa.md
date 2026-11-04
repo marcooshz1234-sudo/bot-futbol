@@ -1,10 +1,82 @@
 # Viking – Sabah FA
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · SR-Bank Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 04/11 02:08_
+
+- **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.17**  ·  X2 **2.75**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.00** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **1.80**  ·  X **2.88**  ·  2 **6.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.20**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **5.00**
+- **Win Both Halves:** 1 **3.25**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **2.38**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **3.00**  ·  Draw/No **26.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **4.00**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Home Team Total Cards:**
+    - 1,5: más **1.91** · menos **1.80**
+- **Away Team Total Cards:**
+    - 2,5: más **2.50** · menos **1.50**
+- **Total ShotOnGoal:**
+    - 10,5: más **1.91** · menos **1.80**
+- **ShotOnTarget 1x2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.10**
+- **Total Shots:**
+    - 26,5: más **1.91** · menos **1.80**
+    - 28,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.33**  ·  X **17.00**  ·  2 **3.40**
+- **Home Player Shots On Target Total:** Essien Bassey - 1 **3.75**  ·  Essien Bassey - 2 **21.00**  ·  Erik Botheim - 1 **1.36**  ·  Peter Christiansen - 1 **1.28**  ·  Amin Cosic - 1 **1.36**  ·  Niklas Fuglestad - 1 **1.36**  ·  Romano Postema - 1 **1.36**  ·  Zlatko Tripic - 1 **1.36**  ·  Gianni Stensness - 1 **1.80**  ·  Simen Kvia-Egeskog - 1 **1.83**  ·  Henrik Bjordal - 1 **2.20**  ·  Herman Haugen - 1 **2.00**  ·  Joe Bell - 1 **2.38**  ·  Tobias Moi - 1 **2.20**  ·  Kristoffer Haugen - 1 **2.38**  ·  Viljar Vevatne - 1 **2.38**  ·  Henrik Falchener - 1 **3.00**  ·  Henrik Heggheim - 1 **2.38**  ·  Kristoffer Askildsen - 1 **3.00**  ·  Jesper Daland - 1 **3.50**  ·  Vetle Auklend - 1 **3.50**  ·  Erik Botheim - 2 **2.62**  ·  Peter Christiansen - 2 **2.38**  ·  Amin Cosic - 2 **2.62**  ·  Niklas Fuglestad - 2 **2.62**  ·  Romano Postema - 2 **2.62**  ·  Zlatko Tripic - 2 **2.62**  ·  Gianni Stensness - 2 **5.00**  ·  Simen Kvia-Egeskog - 2 **6.00**  ·  Henrik Bjordal - 2 **8.00**  ·  Herman Haugen - 2 **6.50**  ·  Joe Bell - 2 **10.00**  ·  Tobias Moi - 2 **8.00**  ·  Kristoffer Haugen - 2 **10.00**  ·  Viljar Vevatne - 2 **10.00**  ·  Henrik Falchener - 2 **15.00**  ·  Henrik Heggheim - 2 **10.00**  ·  Kristoffer Askildsen - 2 **15.00**  ·  Jesper Daland - 2 **19.00**  ·  Vetle Auklend - 2 **19.00**  ·  Erik Botheim - 3 **7.00**  ·  Peter Christiansen - 3 **5.50**  ·  Amin Cosic - 3 **6.50**  ·  Niklas Fuglestad - 3 **6.50**  ·  Romano Postema - 3 **6.50**  ·  Zlatko Tripic - 3 **6.50**  ·  Gianni Stensness - 3 **19.00**  ·  Simen Kvia-Egeskog - 3 **21.00**  ·  Herman Haugen - 3 **21.00**  ·  Erik Botheim - 4 **19.00**  ·  Peter Christiansen - 4 **15.00**  ·  Amin Cosic - 4 **19.00**  ·  Niklas Fuglestad - 4 **19.00**  ·  Romano Postema - 4 **19.00**  ·  Zlatko Tripic - 4 **19.00**  ·  Jakob Hansen - 1 **1.91**  ·  Jakob Hansen - 2 **6.00**  ·  Jakob Hansen - 3 **21.00**
+- **Away Player Shots On Target Total:** Khayal Aliyev **34.00**  ·  Aleksey Isaev **41.00**  ·  Kristoffer Askildsen **41.00**  ·  Rahman Dashdamirov **21.00**  ·  Steve Solvet **17.00**  ·  Gianni Stensness **8.50**  ·  Abdulakh Khaybulayev **67.00**  ·  Kaheem Parris **41.00**  ·  Ivan Lepinjica **41.00**  ·  Umarali Rakhmonaliev **51.00**  ·  Tellur Mutallimov **51.00**  ·  Xander Severina **26.00**  ·  Jesper Daland **15.00**  ·  Akim Zedadka **101.00**  ·  Zinedine Ould Khaled **23.00**  ·  Christian Nwachukwu **41.00**  ·  Kristoffer Haugen **15.00**  ·  Peter Christiansen **9.50**  ·  Zlatko Tripic **13.00**  ·  Erik Botheim **4.33**  ·  Romano Postema **9.50**  ·  Niklas Fuglestad **23.00**  ·  Simen Kvia-Egeskog **21.00**  ·  Jakob Hansen **21.00**  ·  Vetle Auklend **34.00**  ·  Joe Bell **41.00**  ·  Viljar Vevatne **9.00**  ·  Herman Haugen **29.00**  ·  Tobias Moi **41.00**  ·  Henrik Heggheim **12.00**  ·  Rauf Rustamli **41.00**  ·  Henrik Falchener **9.50**  ·  Henrik Bjordal **7.00**  ·  Younes Lachaab **34.00**  ·  Veljko Simic **19.00**  ·  Joy-Lance Mickels **19.00**  ·  Rodrigo Fernandes **81.00**  ·  Essien Bassey **51.00**  ·  Erivaldo Almeida **21.00**  ·  Orphe Mbina **19.00**  ·  Godfed Boakye **21.00**  ·  Aiden McCarthy **21.00**  ·  Amin Cosic **13.00**  ·  Du Queiroz **67.00**  ·  Tymoteusz Puchacz **81.00**
+- **Away Player Shots Total:**
+    - 10,5: más **1.80** · menos **1.91**
+    - 11,5: más **1.80** · menos **1.91**
+- **Home Player Shots:** Essien Bassey - 1 **1.50**  ·  Essien Bassey - 2 **3.25**  ·  Essien Bassey - 3 **8.00**  ·  Essien Bassey - 4 **21.00**  ·  Erik Botheim - 1 **1.02**  ·  Peter Christiansen - 1 **1.02**  ·  Amin Cosic - 1 **1.02**  ·  Niklas Fuglestad - 1 **1.02**  ·  Romano Postema - 1 **1.02**  ·  Zlatko Tripic - 1 **1.04**  ·  Gianni Stensness - 1 **1.14**  ·  Simen Kvia-Egeskog - 1 **1.18**  ·  Henrik Bjordal - 1 **1.20**  ·  Herman Haugen - 1 **1.22**  ·  Joe Bell - 1 **1.28**  ·  Tobias Moi - 1 **1.28**  ·  Kristoffer Haugen - 1 **1.33**  ·  Viljar Vevatne - 1 **1.33**  ·  Henrik Falchener - 1 **1.57**  ·  Henrik Heggheim - 1 **1.57**  ·  Kristoffer Askildsen - 1 **1.22**  ·  Jesper Daland - 1 **1.73**  ·  Vetle Auklend - 1 **1.73**  ·  Erik Botheim - 2 **1.14**  ·  Peter Christiansen - 2 **1.14**  ·  Amin Cosic - 2 **1.17**  ·  Niklas Fuglestad - 2 **1.17**  ·  Romano Postema - 2 **1.17**  ·  Zlatko Tripic - 2 **1.22**  ·  Gianni Stensness - 2 **1.67**  ·  Simen Kvia-Egeskog - 2 **1.80**  ·  Henrik Bjordal - 2 **1.83**  ·  Herman Haugen - 2 **1.91**  ·  Joe Bell - 2 **2.20**  ·  Tobias Moi - 2 **2.20**  ·  Kristoffer Haugen - 2 **2.50**  ·  Viljar Vevatne - 2 **2.50**  ·  Henrik Falchener - 2 **3.50**  ·  Henrik Heggheim - 2 **3.50**  ·  Kristoffer Askildsen - 2 **2.00**  ·  Jesper Daland - 2 **4.33**  ·  Vetle Auklend - 2 **4.33**  ·  Erik Botheim - 3 **1.44**  ·  Peter Christiansen - 3 **1.44**  ·  Amin Cosic - 3 **1.50**  ·  Niklas Fuglestad - 3 **1.50**  ·  Romano Postema - 3 **1.50**  ·  Zlatko Tripic - 3 **1.67**  ·  Gianni Stensness - 3 **2.75**  ·  Simen Kvia-Egeskog - 3 **3.40**  ·  Henrik Bjordal - 3 **3.50**  ·  Herman Haugen - 3 **3.75**  ·  Joe Bell - 3 **4.33**  ·  Tobias Moi - 3 **4.33**  ·  Kristoffer Haugen - 3 **5.50**  ·  Viljar Vevatne - 3 **5.50**  ·  Henrik Falchener - 3 **9.00**  ·  Henrik Heggheim - 3 **9.00**  ·  Kristoffer Askildsen - 3 **4.00**  ·  Erik Botheim - 4 **2.00**  ·  Peter Christiansen - 4 **2.00**  ·  Amin Cosic - 4 **2.20**  ·  Niklas Fuglestad - 4 **2.20**  ·  Romano Postema - 4 **2.20**  ·  Zlatko Tripic - 4 **2.62**  ·  Gianni Stensness - 4 **5.50**  ·  Erik Botheim - 5 **3.40**  ·  Peter Christiansen - 5 **3.40**  ·  Amin Cosic - 5 **3.75**  ·  Niklas Fuglestad - 5 **3.75**  ·  Romano Postema - 5 **3.75**  ·  Zlatko Tripic - 5 **4.50**  ·  Simen Kvia-Egeskog - 4 **7.00**  ·  Kristoffer Askildsen - 4 **9.00**  ·  Henrik Bjordal - 4 **8.00**  ·  Herman Haugen - 4 **9.00**  ·  Erik Botheim - 6 **5.50**  ·  Peter Christiansen - 6 **5.50**  ·  Vetle Auklend - 3 **13.00**  ·  Jesper Daland - 3 **13.00**  ·  Henrik Heggheim - 4 **21.00**  ·  Tobias Moi - 4 **11.00**  ·  Henrik Falchener - 4 **21.00**  ·  Viljar Vevatne - 4 **13.00**  ·  Joe Bell - 4 **11.00**  ·  Tobias Moi - 5 **21.00**  ·  Henrik Bjordal - 5 **17.00**  ·  Kristoffer Askildsen - 5 **21.00**  ·  Erik Botheim - 7 **11.00**  ·  Erik Botheim - 8 **19.00**  ·  Jakob Hansen - 1 **1.20**  ·  Jakob Hansen - 2 **1.83**  ·  Jakob Hansen - 3 **3.50**  ·  Jakob Hansen - 4 **8.00**  ·  Simen Kvia-Egeskog - 5 **15.00**  ·  Kristoffer Haugen - 4 **13.00**  ·  Joe Bell - 5 **21.00**  ·  Jakob Hansen - 5 **17.00**  ·  Herman Haugen - 5 **19.00**  ·  Gianni Stensness - 5 **13.00**  ·  Romano Postema - 6 **6.50**  ·  Zlatko Tripic - 6 **9.00**  ·  Amin Cosic - 6 **6.50**  ·  Niklas Fuglestad - 6 **6.50**  ·  Peter Christiansen - 7 **11.00**  ·  Romano Postema - 7 **13.00**  ·  Zlatko Tripic - 7 **17.00**  ·  Amin Cosic - 7 **13.00**  ·  Niklas Fuglestad - 7 **13.00**  ·  Peter Christiansen - 8 **19.00**  ·  Romano Postema - 8 **21.00**  ·  Gianni Stensness - 6 **21.00**  ·  Amin Cosic - 8 **21.00**  ·  Niklas Fuglestad - 8 **21.00**
+- **Away Player Shots:** Khayal Aliyev - 1 **1.05**  ·  Veljko Simic - 1 **1.05**  ·  Joy-Lance Mickels - 1 **1.06**  ·  Orphe Mbina - 1 **1.06**  ·  Xander Severina - 1 **1.11**  ·  Younes Lachaab - 1 **1.11**  ·  Kaheem Parris - 1 **1.14**  ·  Christian Nwachukwu - 1 **1.20**  ·  Aleksey Isaev - 1 **1.40**  ·  Rauf Rustamli - 1 **1.50**  ·  Umarali Rakhmonaliev - 1 **1.33**  ·  Zinedine Ould Khaled - 1 **1.50**  ·  Abdulakh Khaybulayev - 1 **1.53**  ·  Du Queiroz - 1 **1.57**  ·  Ivan Lepinjica - 1 **1.57**  ·  Steve Solvet - 1 **1.57**  ·  Tellur Mutallimov - 1 **1.57**  ·  Rodrigo Fernandes - 1 **1.73**  ·  Tymoteusz Puchacz - 1 **1.83**  ·  Rahman Dashdamirov - 1 **2.00**  ·  Aiden McCarthy - 1 **2.10**  ·  Akim Zedadka - 1 **2.10**  ·  Godfed Boakye - 1 **2.10**  ·  Erivaldo Almeida - 1 **2.25**  ·  Khayal Aliyev - 2 **1.25**  ·  Veljko Simic - 2 **1.28**  ·  Joy-Lance Mickels - 2 **1.33**  ·  Orphe Mbina - 2 **1.33**  ·  Xander Severina - 2 **1.53**  ·  Younes Lachaab - 2 **1.53**  ·  Kaheem Parris - 2 **1.62**  ·  Christian Nwachukwu - 2 **1.83**  ·  Aleksey Isaev - 2 **2.75**  ·  Rauf Rustamli - 2 **3.25**  ·  Umarali Rakhmonaliev - 2 **2.50**  ·  Zinedine Ould Khaled - 2 **3.25**  ·  Abdulakh Khaybulayev - 2 **3.40**  ·  Du Queiroz - 2 **3.50**  ·  Ivan Lepinjica - 2 **3.50**  ·  Steve Solvet - 2 **3.50**  ·  Tellur Mutallimov - 2 **3.50**  ·  Rodrigo Fernandes - 2 **4.33**  ·  Tymoteusz Puchacz - 2 **5.00**  ·  Rahman Dashdamirov - 2 **6.00**  ·  Aiden McCarthy - 2 **6.50**  ·  Akim Zedadka - 2 **6.50**  ·  Godfed Boakye - 2 **6.50**  ·  Erivaldo Almeida - 2 **8.00**  ·  Khayal Aliyev - 3 **1.73**  ·  Veljko Simic - 3 **1.80**  ·  Joy-Lance Mickels - 3 **1.91**  ·  Orphe Mbina - 3 **1.91**  ·  Xander Severina - 3 **2.50**  ·  Younes Lachaab - 3 **2.50**  ·  Kaheem Parris - 3 **2.75**  ·  Christian Nwachukwu - 3 **3.50**  ·  Aleksey Isaev - 3 **6.50**  ·  Rauf Rustamli - 3 **8.00**  ·  Umarali Rakhmonaliev - 3 **5.50**  ·  Zinedine Ould Khaled - 3 **8.00**  ·  Abdulakh Khaybulayev - 3 **9.00**  ·  Du Queiroz - 3 **10.00**  ·  Ivan Lepinjica - 3 **10.00**  ·  Steve Solvet - 3 **10.00**  ·  Tellur Mutallimov - 3 **10.00**  ·  Rodrigo Fernandes - 3 **13.00**  ·  Khayal Aliyev - 4 **2.75**  ·  Veljko Simic - 4 **2.75**  ·  Joy-Lance Mickels - 4 **3.25**  ·  Orphe Mbina - 4 **3.25**  ·  Xander Severina - 4 **4.50**  ·  Younes Lachaab - 4 **4.50**  ·  Kaheem Parris - 4 **5.50**  ·  Christian Nwachukwu - 4 **8.00**  ·  Khayal Aliyev - 5 **5.00**  ·  Veljko Simic - 5 **5.00**  ·  Joy-Lance Mickels - 5 **6.00**  ·  Orphe Mbina - 5 **6.00**  ·  Erivaldo Almeida - 3 **21.00**  ·  Aiden McCarthy - 3 **21.00**  ·  Godfed Boakye - 3 **21.00**  ·  Akim Zedadka - 3 **21.00**  ·  Rahman Dashdamirov - 3 **19.00**  ·  Tymoteusz Puchacz - 3 **15.00**  ·  Steve Solvet - 4 **21.00**  ·  Aleksey Isaev - 4 **17.00**  ·  Ivan Lepinjica - 4 **21.00**  ·  Umarali Rakhmonaliev - 4 **13.00**  ·  Abdulakh Khaybulayev - 4 **21.00**  ·  Du Queiroz - 4 **21.00**  ·  Tellur Mutallimov - 4 **21.00**  ·  Rauf Rustamli - 4 **19.00**  ·  Zinedine Ould Khaled - 4 **19.00**  ·  Younes Lachaab - 5 **10.00**  ·  Xander Severina - 5 **10.00**  ·  Kaheem Parris - 5 **11.00**  ·  Joy-Lance Mickels - 6 **13.00**  ·  Khayal Aliyev - 6 **10.00**  ·  Cafar Muxtarov - 1 **1.53**  ·  Cafar Muxtarov - 2 **3.40**  ·  Cafar Muxtarov - 3 **9.00**  ·  Cafar Muxtarov - 4 **21.00**  ·  Christian Nwachukwu - 5 **17.00**  ·  Orphe Mbina - 6 **13.00**  ·  Veljko Simic - 6 **10.00**  ·  Joy-Lance Mickels - 7 **21.00**  ·  Orphe Mbina - 7 **21.00**  ·  Veljko Simic - 7 **19.00**  ·  Kaheem Parris - 6 **21.00**  ·  Xander Severina - 6 **21.00**  ·  Younes Lachaab - 6 **21.00**  ·  Khayal Aliyev - 7 **19.00**
+- **Player Fouls Committed:** Essien Bassey - 1 **1.67**  ·  Essien Bassey - 2 **4.33**  ·  Essien Bassey - 3 **13.00**  ·  Khayal Aliyev - 1 **1.22**  ·  Veljko Simic - 1 **1.28**  ·  Joy-Lance Mickels - 1 **1.28**  ·  Orphe Mbina - 1 **1.22**  ·  Xander Severina - 1 **1.28**  ·  Younes Lachaab - 1 **1.28**  ·  Kaheem Parris - 1 **1.30**  ·  Christian Nwachukwu - 1 **1.44**  ·  Aleksey Isaev - 1 **1.22**  ·  Rauf Rustamli - 1 **1.33**  ·  Umarali Rakhmonaliev - 1 **1.25**  ·  Zinedine Ould Khaled - 1 **1.36**  ·  Abdulakh Khaybulayev - 1 **1.28**  ·  Du Queiroz - 1 **1.30**  ·  Ivan Lepinjica - 1 **1.12**  ·  Steve Solvet - 1 **1.20**  ·  Tellur Mutallimov - 1 **1.30**  ·  Rodrigo Fernandes - 1 **1.28**  ·  Tymoteusz Puchacz - 1 **1.62**  ·  Rahman Dashdamirov - 1 **1.53**  ·  Aiden McCarthy - 1 **1.30**  ·  Akim Zedadka - 1 **1.11**  ·  Godfed Boakye - 1 **1.30**  ·  Erivaldo Almeida - 1 **1.28**  ·  Khayal Aliyev - 2 **2.00**  ·  Veljko Simic - 2 **2.25**  ·  Joy-Lance Mickels - 2 **2.25**  ·  Orphe Mbina - 2 **2.00**  ·  Xander Severina - 2 **2.25**  ·  Younes Lachaab - 2 **2.20**  ·  Kaheem Parris - 2 **2.38**  ·  Christian Nwachukwu - 2 **3.00**  ·  Aleksey Isaev - 2 **2.00**  ·  Rauf Rustamli - 2 **2.50**  ·  Umarali Rakhmonaliev - 2 **2.10**  ·  Zinedine Ould Khaled - 2 **2.62**  ·  Abdulakh Khaybulayev - 2 **2.25**  ·  Du Queiroz - 2 **2.38**  ·  Ivan Lepinjica - 2 **1.57**  ·  Steve Solvet - 2 **1.83**  ·  Tellur Mutallimov - 2 **2.38**  ·  Rodrigo Fernandes - 2 **2.25**  ·  Tymoteusz Puchacz - 2 **4.00**  ·  Rahman Dashdamirov - 2 **3.50**  ·  Aiden McCarthy - 2 **2.38**  ·  Akim Zedadka - 2 **1.53**  ·  Godfed Boakye - 2 **2.38**  ·  Erivaldo Almeida - 2 **2.25**  ·  Khayal Aliyev - 3 **4.33**  ·  Veljko Simic - 3 **5.00**  ·  Joy-Lance Mickels - 3 **5.00**  ·  Orphe Mbina - 3 **4.33**  ·  Xander Severina - 3 **5.00**  ·  Younes Lachaab - 3 **5.00**  ·  Kaheem Parris - 3 **5.50**  ·  Christian Nwachukwu - 3 **8.00**  ·  Aleksey Isaev - 3 **4.33**  ·  Rauf Rustamli - 3 **6.00**  ·  Umarali Rakhmonaliev - 3 **4.50**  ·  Zinedine Ould Khaled - 3 **6.50**  ·  Abdulakh Khaybulayev - 3 **5.00**  ·  Du Queiroz - 3 **5.50**  ·  Ivan Lepinjica - 3 **2.62**  ·  Steve Solvet - 3 **3.75**  ·  Tellur Mutallimov - 3 **5.50**  ·  Rodrigo Fernandes - 3 **5.00**  ·  Khayal Aliyev - 4 **10.00**  ·  Veljko Simic - 4 **13.00**  ·  Joy-Lance Mickels - 4 **13.00**  ·  Orphe Mbina - 4 **10.00**  ·  Xander Severina - 4 **13.00**  ·  Younes Lachaab - 4 **13.00**  ·  Kaheem Parris - 4 **15.00**  ·  Christian Nwachukwu - 4 **21.00**  ·  Khayal Aliyev - 5 **23.00**  ·  Orphe Mbina - 5 **23.00**  ·  Erivaldo Almeida - 3 **5.00**  ·  Aiden McCarthy - 3 **5.50**  ·  Godfed Boakye - 3 **5.50**  ·  Akim Zedadka - 3 **2.62**  ·  Rahman Dashdamirov - 3 **10.00**  ·  Tymoteusz Puchacz - 3 **11.00**  ·  Steve Solvet - 4 **9.00**  ·  Aleksey Isaev - 4 **10.00**  ·  Ivan Lepinjica - 4 **5.50**  ·  Umarali Rakhmonaliev - 4 **11.00**  ·  Abdulakh Khaybulayev - 4 **13.00**  ·  Erivaldo Almeida - 4 **13.00**  ·  Rodrigo Fernandes - 4 **13.00**  ·  Aiden McCarthy - 4 **15.00**  ·  Du Queiroz - 4 **15.00**  ·  Godfed Boakye - 4 **15.00**  ·  Tellur Mutallimov - 4 **15.00**  ·  Rauf Rustamli - 4 **15.00**  ·  Akim Zedadka - 4 **5.00**  ·  Zinedine Ould Khaled - 4 **17.00**  ·  Rahman Dashdamirov - 4 **26.00**  ·  Steve Solvet - 5 **21.00**  ·  Aleksey Isaev - 5 **23.00**  ·  Ivan Lepinjica - 5 **13.00**  ·  Umarali Rakhmonaliev - 5 **26.00**  ·  Erik Botheim - 1 **1.40**  ·  Peter Christiansen - 1 **1.14**  ·  Amin Cosic - 1 **1.40**  ·  Niklas Fuglestad - 1 **1.40**  ·  Romano Postema - 1 **1.57**  ·  Zlatko Tripic - 1 **1.22**  ·  Gianni Stensness - 1 **1.44**  ·  Simen Kvia-Egeskog - 1 **1.83**  ·  Henrik Bjordal - 1 **1.28**  ·  Herman Haugen - 1 **1.40**  ·  Joe Bell - 1 **1.28**  ·  Tobias Moi - 1 **1.17**  ·  Kristoffer Haugen - 1 **1.57**  ·  Viljar Vevatne - 1 **1.40**  ·  Henrik Falchener - 1 **1.33**  ·  Henrik Heggheim - 1 **1.07**  ·  Kristoffer Askildsen - 1 **1.40**  ·  Jesper Daland - 1 **1.40**  ·  Vetle Auklend - 1 **1.33**  ·  Erik Botheim - 2 **2.75**  ·  Peter Christiansen - 2 **1.67**  ·  Amin Cosic - 2 **2.75**  ·  Niklas Fuglestad - 2 **2.75**  ·  Romano Postema - 2 **3.75**  ·  Zlatko Tripic - 2 **2.00**  ·  Gianni Stensness - 2 **3.25**  ·  Simen Kvia-Egeskog - 2 **5.50**  ·  Henrik Bjordal - 2 **2.20**  ·  Herman Haugen - 2 **2.75**  ·  Joe Bell - 2 **2.25**  ·  Tobias Moi - 2 **1.80**  ·  Kristoffer Haugen - 2 **3.75**  ·  Viljar Vevatne - 2 **2.75**  ·  Henrik Falchener - 2 **2.50**  ·  Henrik Heggheim - 2 **1.40**  ·  Kristoffer Askildsen - 2 **2.75**  ·  Jesper Daland - 2 **2.75**  ·  Vetle Auklend - 2 **2.50**  ·  Erik Botheim - 3 **7.00**  ·  Peter Christiansen - 3 **3.00**  ·  Amin Cosic - 3 **7.00**  ·  Niklas Fuglestad - 3 **7.00**  ·  Romano Postema - 3 **11.00**  ·  Zlatko Tripic - 3 **4.00**  ·  Gianni Stensness - 3 **8.00**  ·  Simen Kvia-Egeskog - 3 **17.00**  ·  Henrik Bjordal - 3 **5.00**  ·  Herman Haugen - 3 **7.00**  ·  Joe Bell - 3 **5.00**  ·  Tobias Moi - 3 **3.40**  ·  Kristoffer Haugen - 3 **11.00**  ·  Viljar Vevatne - 3 **7.00**  ·  Henrik Falchener - 3 **5.50**  ·  Henrik Heggheim - 3 **2.20**  ·  Kristoffer Askildsen - 3 **7.00**  ·  Erik Botheim - 4 **19.00**  ·  Peter Christiansen - 4 **6.50**  ·  Amin Cosic - 4 **19.00**  ·  Niklas Fuglestad - 4 **19.00**  ·  Romano Postema - 4 **26.00**  ·  Zlatko Tripic - 4 **10.00**  ·  Gianni Stensness - 4 **21.00**  ·  Peter Christiansen - 5 **15.00**  ·  Zlatko Tripic - 5 **23.00**  ·  Kristoffer Askildsen - 4 **19.00**  ·  Henrik Bjordal - 4 **13.00**  ·  Herman Haugen - 4 **19.00**  ·  Vetle Auklend - 3 **5.50**  ·  Jesper Daland - 3 **7.00**  ·  Henrik Heggheim - 4 **4.00**  ·  Tobias Moi - 4 **7.00**  ·  Vetle Auklend - 4 **15.00**  ·  Henrik Falchener - 4 **15.00**  ·  Jesper Daland - 4 **19.00**  ·  Viljar Vevatne - 4 **19.00**  ·  Joe Bell - 4 **13.00**  ·  Henrik Heggheim - 5 **8.00**  ·  Tobias Moi - 5 **17.00**  ·  Henrik Heggheim - 6 **17.00**  ·  Akim Zedadka - 5 **11.00**  ·  Ivan Lepinjica - 6 **26.00**  ·  Jakob Hansen - 1 **1.40**  ·  Jakob Hansen - 2 **2.75**  ·  Jakob Hansen - 3 **7.00**  ·  Jakob Hansen - 4 **19.00**  ·  Cafar Muxtarov - 1 **1.30**  ·  Cafar Muxtarov - 2 **2.38**  ·  Cafar Muxtarov - 3 **5.50**  ·  Cafar Muxtarov - 4 **15.00**  ·  Kristoffer Haugen - 4 **26.00**  ·  Akim Zedadka - 6 **23.00**
+- **Goalkeeper Saves:** Stas Pokatilov **11.00**  ·  Stas Pokatilov - 2 **1.11**  ·  Stas Pokatilov - 3 **1.36**  ·  Stas Pokatilov - 4 **1.91**  ·  Stas Pokatilov - 5 **3.25**  ·  Stas Pokatilov - 6 **5.50**  ·  Arild Ostbo - 2 **1.14**  ·  Arild Ostbo - 3 **1.50**  ·  Arild Ostbo - 4 **2.20**  ·  Arild Ostbo - 5 **3.75**  ·  Arild Ostbo - 6 **7.00**  ·  Arild Ostbo - 7 **10.00**  ·  Stas Pokatilov - 7 **11.00**
+- **Anytime Goal Scorer:** Khayal Aliyev **4.50**  ·  Aleksey Isaev **7.00**  ·  Kristoffer Askildsen **4.50**  ·  Rahman Dashdamirov **15.00**  ·  Steve Solvet **12.00**  ·  Gianni Stensness **6.50**  ·  Abdulakh Khaybulayev **8.50**  ·  Kaheem Parris **5.00**  ·  Ivan Lepinjica **10.00**  ·  Umarali Rakhmonaliev **5.50**  ·  Tellur Mutallimov **8.50**  ·  Xander Severina **5.00**  ·  Jesper Daland **8.50**  ·  Akim Zedadka **15.00**  ·  Zinedine Ould Khaled **10.00**  ·  Christian Nwachukwu **5.50**  ·  Kristoffer Haugen **5.50**  ·  Peter Christiansen **1.95**  ·  Zlatko Tripic **2.10**  ·  Erik Botheim **1.73**  ·  Romano Postema **1.95**  ·  Niklas Fuglestad **2.62**  ·  Simen Kvia-Egeskog **2.38**  ·  Jakob Hansen **2.88**  ·  Vetle Auklend **4.00**  ·  Joe Bell **4.50**  ·  Viljar Vevatne **6.50**  ·  Herman Haugen **3.50**  ·  Tobias Moi **8.50**  ·  Henrik Heggheim **8.50**  ·  Rauf Rustamli **7.50**  ·  Henrik Falchener **7.00**  ·  Henrik Bjordal **2.75**  ·  Younes Lachaab **5.00**  ·  Veljko Simic **3.75**  ·  Joy-Lance Mickels **3.50**  ·  Rodrigo Fernandes **10.00**  ·  Essien Bassey **7.00**  ·  Erivaldo Almeida **15.00**  ·  Orphe Mbina **3.75**  ·  Godfed Boakye **15.00**  ·  Aiden McCarthy **15.00**  ·  Amin Cosic **2.62**  ·  Cafar Muxtarov **7.00**  ·  Du Queiroz **7.50**  ·  Tymoteusz Puchacz **10.00**
+- **Player to Score or Assist:** Khayal Aliyev **3.20**  ·  Aleksey Isaev **3.40**  ·  Kristoffer Askildsen **3.00**  ·  Rahman Dashdamirov **8.50**  ·  Steve Solvet **7.50**  ·  Gianni Stensness **4.75**  ·  Abdulakh Khaybulayev **5.00**  ·  Kaheem Parris **3.20**  ·  Ivan Lepinjica **5.00**  ·  Umarali Rakhmonaliev **4.33**  ·  Tellur Mutallimov **5.50**  ·  Xander Severina **3.40**  ·  Jesper Daland **5.00**  ·  Akim Zedadka **6.50**  ·  Zinedine Ould Khaled **6.50**  ·  Christian Nwachukwu **3.40**  ·  Kristoffer Haugen **3.50**  ·  Peter Christiansen **1.53**  ·  Zlatko Tripic **1.30**  ·  Erik Botheim **1.40**  ·  Romano Postema **1.73**  ·  Niklas Fuglestad **1.80**  ·  Simen Kvia-Egeskog **1.73**  ·  Jakob Hansen **1.91**  ·  Vetle Auklend **2.50**  ·  Joe Bell **2.75**  ·  Viljar Vevatne **4.00**  ·  Herman Haugen **2.10**  ·  Tobias Moi **5.00**  ·  Henrik Heggheim **5.00**  ·  Rauf Rustamli **5.00**  ·  Henrik Falchener **4.50**  ·  Henrik Bjordal **1.80**  ·  Younes Lachaab **3.20**  ·  Veljko Simic **2.62**  ·  Joy-Lance Mickels **2.60**  ·  Rodrigo Fernandes **5.00**  ·  Essien Bassey **2.75**  ·  Erivaldo Almeida **8.50**  ·  Orphe Mbina **2.75**  ·  Godfed Boakye **8.50**  ·  Aiden McCarthy **8.50**  ·  Amin Cosic **1.73**  ·  Cafar Muxtarov **4.33**  ·  Du Queiroz **5.00**  ·  Tymoteusz Puchacz **4.75**
 
 ## Estadísticas de equipo
 | | Viking (total) | Viking en casa | Sabah FA (total) | Sabah FA fuera |
@@ -134,6 +206,45 @@ _Sin precedentes recientes._
 | Tellur Mutallimov | D | 2 | 34 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,37 · visitante 1,69 · córners esperados 10,3._
+_Goles esperados: local 2,36 · visitante 1,72 · córners esperados 10,2._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 28% | 14% | 21% | 6.50 | +38% |
+| 1X2: X | 20% | 19% | 19% | 5.00 | -4% |
+| 1X2: 1 | 52% | 67% | 60% | 1.40 | -17% |
+| Doble oportunidad: X2 | 48% | 34% | 41% | 2.75 | +13% |
+| Doble oportunidad: 12 | 80% | 81% | 81% | 1.17 | -6% |
+| Doble oportunidad: 1X | 72% | 85% | 78% | 1.11 | -13% |
+| Ambos marcan: No | 26% | 39% | 32% | 2.38 | -23% |
+| Ambos marcan: Sí | 74% | 61% | 68% | 1.53 | +4% |
+| Goles más/menos: Más de 2.5 | 77% | 72% | 75% | 1.33 | -1% |
+| Goles más/menos: Más de 3.5 | 58% | 50% | 54% | 1.91 | +3% |
+| Goles más/menos: Más de 4.5 | 39% | 32% | 35% | 3.00 | +6% |
+| Goles más/menos: Menos de 2.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles más/menos: Menos de 3.5 | 42% | 50% | 46% | 1.91 | -12% |
+| Goles más/menos: Menos de 4.5 | 61% | 68% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
+| Goles 1ª parte más/menos: Más de 2.5 | 27% | 23% | 25% | 4.00 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 47% | 51% | 49% | 1.80 | -12% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -8% |
+| Goles del local: Más de 1.5 | 68% | 72% | 70% | 1.30 | -9% |
+| Goles del local: Más de 2.5 | 42% | 49% | 45% | 1.91 | -13% |
+| Goles del local: Más de 3.5 | 21% | 27% | 24% | 3.50 | -16% |
+| Goles del local: Menos de 1.5 | 32% | 28% | 30% | 3.40 | +1% |
+| Goles del local: Menos de 2.5 | 58% | 51% | 55% | 1.80 | -2% |
+| Goles del local: Menos de 3.5 | 79% | 73% | 76% | 1.28 | -3% |
+| Goles del visitante: Más de 0.5 | 82% | 66% | 74% | 1.40 | +4% |
+| Goles del visitante: Más de 1.5 | 51% | 31% | 41% | 3.00 | +24% |
+| Goles del visitante: Menos de 0.5 | 18% | 34% | 26% | 2.75 | -29% |
+| Goles del visitante: Menos de 1.5 | 49% | 69% | 59% | 1.36 | -20% |
+| Córners más/menos: Más de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
+| Córners más/menos: Menos de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
+| 1X2 descanso: X | 33% | 32% | 33% | 2.88 | -6% |
+| 1X2 descanso: 1 | 41% | 52% | 47% | 1.80 | -16% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

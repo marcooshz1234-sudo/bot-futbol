@@ -1,7 +1,7 @@
 # Sunderland – Chelsea
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -179,40 +179,40 @@ _Sin bajas comunicadas por ahora._
 | Estêvão | M | 9 | 284 | 0 | 0 | 13 | 1,4 | 5 | 0,6 | 4 | 7 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,54 · visitante 2,02 · córners esperados 10,1._
+_Goles esperados: local 1,53 · visitante 2,01 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 49% | 48% | 49% | 1.91 | -7% |
-| 1X2: X | 21% | 26% | 24% | 3.50 | -16% |
-| 1X2: 1 | 30% | 25% | 27% | 3.70 | +1% |
-| Doble oportunidad: X2 | 70% | 74% | 72% | 1.28 | -8% |
-| Doble oportunidad: 12 | 79% | 74% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 51% | 52% | 52% | 1.83 | -6% |
+| 1X2: X | 22% | 26% | 24% | 3.50 | -16% |
+| 1X2: 1 | 29% | 25% | 27% | 3.70 | +1% |
+| Doble oportunidad: X2 | 71% | 74% | 72% | 1.28 | -7% |
+| Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -2% |
+| Doble oportunidad: 1X | 51% | 52% | 51% | 1.83 | -6% |
 | Ambos marcan: No | 32% | 45% | 39% | 2.05 | -21% |
 | Ambos marcan: Sí | 68% | 55% | 61% | 1.70 | +4% |
 | Goles más/menos: Más de 1.5 | 87% | 76% | 82% | 1.25 | +2% |
 | Goles más/menos: Más de 2.5 | 69% | 53% | 61% | 1.80 | +9% |
-| Goles más/menos: Más de 3.5 ✅ | 48% | 32% | 40% | 3.00 | +19% |
+| Goles más/menos: Más de 3.5 ✅ | 47% | 32% | 40% | 3.00 | +19% |
 | Goles más/menos: Menos de 1.5 | 13% | 24% | 18% | 4.00 | -26% |
-| Goles más/menos: Menos de 2.5 | 31% | 47% | 39% | 2.00 | -22% |
-| Goles más/menos: Menos de 3.5 | 52% | 68% | 60% | 1.40 | -16% |
+| Goles más/menos: Menos de 2.5 | 31% | 47% | 39% | 2.00 | -21% |
+| Goles más/menos: Menos de 3.5 | 53% | 68% | 60% | 1.40 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles del local: Más de 0.5 | 79% | 66% | 72% | 1.40 | +1% |
-| Goles del local: Más de 1.5 ✅ | 46% | 31% | 38% | 3.00 | +15% |
-| Goles del local: Menos de 0.5 | 21% | 34% | 28% | 2.75 | -24% |
-| Goles del local: Menos de 1.5 | 54% | 69% | 62% | 1.36 | -16% |
+| Goles del local: Más de 0.5 | 78% | 66% | 72% | 1.40 | +1% |
+| Goles del local: Más de 1.5 ✅ | 45% | 31% | 38% | 3.00 | +15% |
+| Goles del local: Menos de 0.5 | 22% | 34% | 28% | 2.75 | -24% |
+| Goles del local: Menos de 1.5 | 55% | 69% | 62% | 1.36 | -16% |
 | Goles del visitante: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del visitante: Más de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
+| Goles del visitante: Más de 1.5 | 60% | 50% | 55% | 1.83 | +0% |
 | Goles del visitante: Más de 2.5 | 33% | 25% | 29% | 3.75 | +8% |
 | Goles del visitante: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles del visitante: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
+| Goles del visitante: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -17% |
 | Goles del visitante: Menos de 2.5 | 67% | 75% | 71% | 1.25 | -11% |
 | 1X2 descanso: 2 | 38% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: X | 36% | 41% | 38% | 2.25 | -14% |
-| 1X2 descanso: 1 | 26% | 23% | 25% | 4.00 | -2% |
+| 1X2 descanso: 1 | 26% | 23% | 24% | 4.00 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

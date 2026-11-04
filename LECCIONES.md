@@ -1,5 +1,63 @@
 # Lecciones del bot
 
+## 2026-11-03
+
+```
+🧠 LECCIONES DEL 03/11
+Picks del bot: 10 ✅ · 17 ❌ · 1 sin resultado
+
+❌ Lo que falló en lo publicado:
+• Alex Grimaldo: 1+ tiros → 0 de 1 tiro
+• Ambos marcan en Villarreal–Paris Saint Germain → 1 de 2 equipos que marcan
+• Ambos ven tarjeta en Derby–Norwich → Marcador: 0–4
+• Aston Villa marca → 0 de 1 gol
+• Atletico Madrid o empate → Marcador: 0–2
+• Barcelona ve más de 1,5 tarjetas → 1 de 2 tarjetas
+• Bodo/Glimt hace más de 7,5 tiros → 4 de 8 tiros
+• Bryan Mbeumo: 1+ tiros a puerta → 0 de 1 tiro a puerta
+• Feyenoord marca → 0 de 1 gol
+• Feyenoord o empate → Marcador: 0–3
+• Gol en la 1ª parte del Bodo/Glimt–Lille → Marcador: 0–0
+• Julian Alvarez: 1+ tiros a puerta → 0 de 1 tiro a puerta
+• Michael Olise: 3+ tiros → 1 de 3 tiros
+• Más de 1,5 goles en la 2ª parte del Lask Linz–Slovan Bratislava → Marcador: 4–0
+• Más de 2,5 fueras de juego en Feyenoord–Inter → 2 de 3 fueras de juego
+
+❌ Fallos de los picks del bot y por qué:
+• Feyenoord marca — Feyenoord no marcó lo esperado (0-3)
+• Villarreal marca — Villarreal no marcó lo esperado (0-6)
+• AS Roma o empate — resultado 3-2
+• Lille marca — Lille no marcó lo esperado (0-0)
+• Ambos marcan en Villarreal–Paris Saint Germain — solo marcó un equipo o ninguno (0-6)
+• Aston Villa marca — Aston Villa no marcó lo esperado (3-0)
+• Slovan Bratislava marca — Slovan Bratislava no marcó lo esperado (4-0)
+• Ambos marcan en Barcelona–Aston Villa — solo marcó un equipo o ninguno (3-0)
+• Ambos marcan y más de 2,5 goles en Barcelona–Aston Villa — resultado 3-0
+• Ambos marcan y más de 2,5 goles en Villarreal–Paris Saint Germain — resultado 0-6
+• Julian Alvarez: 1+ tiros a puerta — jugó 75′ e hizo 0 (necesitaba 1)
+• Carlos Augusto: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Alex Grimaldo: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Nicolo Barella: 1+ tiros — jugó 78′ e hizo 0 (necesitaba 1)
+• Bryan Mbeumo: 1+ tiros a puerta — jugó 90′ e hizo 0 (necesitaba 1)
+• Givairo Read comete 1+ faltas — jugó 62′ e hizo 0 (necesitaba 1)
+• Birmingham ve más de 1,5 tarjetas — no llegó a la línea (3-0)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Feyenoord–Inter, Villarreal–Paris Saint Germain, Manchester United–AS Roma, Barcelona–Aston Villa, Atletico Madrid–Bayern München
+
+📐 Modelo: 238/388 aciertos reales (61%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo liga Champions: 8/24 (-11 pts)
+⬇️ castigo liga Ligue 1: 25/49 (-7 pts)
+⬇️ castigo mercado Total - Away|Over 0.5: 23/41 (-7 pts)
+⬇️ castigo tipo goles: 113/183 (-6 pts)
+⬆️ premio tipo jugador:tiros: 25/34 (+6 pts)
+⬇️ castigo tipo tarjetas: 5/10 (-5 pts)
+⬇️ castigo mercado Home Team Total Cards|Over 1.5: 2/5 (-4 pts)
+⬇️ castigo liga LaLiga: 21/37 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-02
 
 ```

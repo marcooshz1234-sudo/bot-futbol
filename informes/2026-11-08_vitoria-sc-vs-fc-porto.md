@@ -1,7 +1,7 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -190,14 +190,14 @@ _Sin bajas comunicadas por ahora._
 | Deniz Gül | F | 3 | 92 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,97 · visitante 1,24 · córners esperados 9,6._
+_Goles esperados: local 0,97 · visitante 1,23 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 59% | 51% | 1.57 | -20% |
-| 1X2: X | 29% | 23% | 26% | 4.10 | +5% |
+| 1X2: X | 29% | 23% | 26% | 4.10 | +6% |
 | 1X2: 1 | 29% | 18% | 23% | 5.20 | +22% |
 | Doble oportunidad: X2 | 71% | 81% | 76% | 1.17 | -11% |
 | Doble oportunidad: 12 | 71% | 78% | 74% | 1.22 | -9% |
@@ -207,7 +207,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 65% | 77% | 71% | 1.22 | -14% |
 | Goles más/menos: Más de 2.5 | 38% | 54% | 46% | 1.75 | -20% |
 | Goles más/menos: Más de 3.5 | 18% | 34% | 26% | 2.75 | -29% |
-| Goles más/menos: Menos de 1.5 | 35% | 23% | 29% | 4.00 | +17% |
+| Goles más/menos: Menos de 1.5 | 35% | 23% | 29% | 4.00 | +18% |
 | Goles más/menos: Menos de 2.5 | 62% | 46% | 54% | 2.05 | +11% |
 | Goles más/menos: Menos de 3.5 | 82% | 66% | 74% | 1.40 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 71% | 66% | 1.33 | -12% |

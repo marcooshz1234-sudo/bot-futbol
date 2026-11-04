@@ -1,7 +1,7 @@
 # SC Freiburg – Union Berlin
 **Bundesliga** · Regular Season - 9 · 08/11/2026 17:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -196,13 +196,13 @@ _Goles esperados: local 2,78 · visitante 0,85 · córners esperados 9,3._
 |---|---|---|---|---|---|
 | 1X2: 2 | 9% | 16% | 13% | 5.75 | -28% |
 | 1X2: X | 14% | 22% | 18% | 4.20 | -24% |
-| 1X2: 1 | 77% | 61% | 69% | 1.53 | +6% |
-| Doble oportunidad: X2 | 23% | 40% | 31% | 2.38 | -26% |
+| 1X2: 1 | 78% | 61% | 69% | 1.53 | +6% |
+| Doble oportunidad: X2 | 22% | 40% | 31% | 2.38 | -26% |
 | Doble oportunidad: 12 | 86% | 77% | 82% | 1.22 | -0% |
 | Doble oportunidad: 1X | 91% | 83% | 87% | 1.14 | -1% |
 | Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
 | Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
-| Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | +0% |
+| Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | -0% |
 | Goles más/menos: Más de 2.5 | 70% | 59% | 64% | 1.62 | +4% |
 | Goles más/menos: Más de 3.5 ✅ | 49% | 38% | 44% | 2.50 | +9% |
 | Goles más/menos: Más de 4.5 | 30% | 21% | 25% | 4.50 | +15% |
@@ -219,9 +219,9 @@ _Goles esperados: local 2,78 · visitante 0,85 · córners esperados 9,3._
 | Goles del local: Menos de 1.5 | 23% | 39% | 31% | 2.38 | -26% |
 | Goles del local: Menos de 2.5 | 47% | 65% | 56% | 1.44 | -19% |
 | Goles del visitante: Más de 0.5 | 57% | 62% | 60% | 1.50 | -10% |
-| Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -16% |
+| Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -17% |
 | Goles del visitante: Menos de 0.5 | 43% | 38% | 40% | 2.50 | +0% |
-| Goles del visitante: Menos de 1.5 | 79% | 73% | 76% | 1.28 | -3% |
+| Goles del visitante: Menos de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
 | 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |

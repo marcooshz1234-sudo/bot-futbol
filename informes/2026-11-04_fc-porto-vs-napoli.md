@@ -1,10 +1,10 @@
 # FC Porto – Napoli
 **Champions League** · League Stage - 4 · 04/11/2026 21:00 (hora España) · Estádio do Dragão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:08_
 
 - **1X2:** 1 **1.91**  ·  X **3.70**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
@@ -52,7 +52,7 @@ _Actualizadas: 03/11 19:59_
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
 - **Home Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
@@ -206,42 +206,42 @@ _Sin precedentes recientes._
 | Giovane | F | 6 | 178 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 1,18 · córners esperados 9,6._
+_Goles esperados: local 1,71 · visitante 1,17 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 24% | 26% | 3.90 | -0% |
+| 1X2: 2 | 26% | 24% | 25% | 3.90 | -2% |
 | 1X2: X | 24% | 26% | 25% | 3.70 | -8% |
-| 1X2: 1 | 49% | 50% | 50% | 1.91 | -5% |
-| Doble oportunidad: X2 | 51% | 51% | 51% | 1.83 | -7% |
+| 1X2: 1 | 50% | 50% | 50% | 1.91 | -4% |
+| Doble oportunidad: X2 | 50% | 51% | 51% | 1.83 | -7% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 73% | 75% | 74% | 1.25 | -7% |
+| Doble oportunidad: 1X | 74% | 75% | 75% | 1.25 | -7% |
 | Ambos marcan: No | 44% | 42% | 43% | 2.20 | -5% |
 | Ambos marcan: Sí | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 54% | 55% | 55% | 1.73 | -5% |
-| Goles más/menos: Más de 3.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles más/menos: Más de 2.5 | 55% | 55% | 55% | 1.73 | -5% |
+| Goles más/menos: Más de 3.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles más/menos: Menos de 2.5 | 46% | 45% | 45% | 2.10 | -5% |
-| Goles más/menos: Menos de 3.5 | 68% | 66% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 38% | 36% | 2.50 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 62% | 64% | 1.50 | -5% |
-| Goles del local: Más de 1.5 | 50% | 51% | 51% | 1.80 | -8% |
-| Goles del local: Más de 2.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles del local: Menos de 1.5 | 50% | 49% | 49% | 1.91 | -6% |
-| Goles del local: Menos de 2.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -5% |
+| Goles más/menos: Menos de 3.5 | 67% | 66% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
+| Goles del local: Más de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
+| Goles del local: Más de 2.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles del local: Menos de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
+| Goles del local: Menos de 2.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
-| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del visitante: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Córners más/menos: Más de 9.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 54% | 54% | 54% | 1.73 | -7% |
-| 1X2 descanso: 2 | 23% | 23% | 23% | 4.00 | -8% |
-| 1X2 descanso: X | 41% | 40% | 40% | 2.30 | -7% |
-| 1X2 descanso: 1 | 37% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: 2 | 22% | 23% | 23% | 4.00 | -9% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 37% | 37% | 37% | 2.50 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

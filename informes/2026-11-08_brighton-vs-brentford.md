@@ -1,7 +1,7 @@
 # Brighton – Brentford
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Amex Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -181,7 +181,7 @@ _Sin bajas comunicadas por ahora._
 | H. Valdimarsson | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,04 · visitante 1,10 · córners esperados 9,7._
+_Goles esperados: local 2,05 · visitante 1,10 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,30 +189,30 @@ _Goles esperados: local 2,04 · visitante 1,10 · córners esperados 9,7._
 | 1X2: X | 21% | 25% | 23% | 3.70 | -15% |
 | 1X2: 1 | 59% | 50% | 55% | 1.85 | +1% |
 | Doble oportunidad: X2 | 41% | 50% | 45% | 1.91 | -13% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.28 | -2% |
+| Doble oportunidad: 12 | 79% | 75% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 80% | 75% | 78% | 1.28 | -1% |
-| Ambos marcan: No | 42% | 39% | 41% | 2.38 | -3% |
-| Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
+| Ambos marcan: No | 42% | 39% | 40% | 2.38 | -4% |
+| Ambos marcan: Sí | 58% | 61% | 60% | 1.53 | -9% |
 | Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 3.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -7% |
-| Goles más/menos: Menos de 3.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
+| Goles más/menos: Más de 3.5 | 39% | 40% | 39% | 2.38 | -7% |
+| Goles más/menos: Más de 4.5 | 21% | 22% | 22% | 4.33 | -7% |
+| Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -8% |
+| Goles más/menos: Menos de 3.5 | 61% | 60% | 61% | 1.57 | -5% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
 | Goles del local: Más de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
 | Goles del local: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles del local: Menos de 1.5 | 39% | 44% | 42% | 2.10 | -12% |
 | Goles del local: Menos de 2.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles del visitante: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
+| Goles del visitante: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles del visitante: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles del visitante: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
+| Goles del visitante: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles del visitante: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | 1X2 descanso: 2 | 19% | 23% | 21% | 4.00 | -16% |
-| 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -9% |
+| 1X2 descanso: X | 37% | 38% | 38% | 2.40 | -9% |
 | 1X2 descanso: 1 | 44% | 38% | 41% | 2.40 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

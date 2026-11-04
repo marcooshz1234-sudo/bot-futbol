@@ -1,7 +1,7 @@
 # Cambuur – PSV Eindhoven
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -182,7 +182,7 @@ _Sin bajas comunicadas por ahora._
 | A. Santos | M | 5 | 96 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 2,35 · córners esperados 9,9._
+_Goles esperados: local 1,19 · visitante 2,36 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -205,12 +205,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles más/menos: Menos de 5.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 28% | 24% | 3.40 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 46% | 50% | 2.00 | +1% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 28% | 24% | 3.40 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 46% | 50% | 2.00 | +0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Córners más/menos: Más de 10.5 | 40% | 48% | 44% | 1.98 | -13% |
 | Córners más/menos: Menos de 10.5 | 60% | 52% | 56% | 1.82 | +2% |
-| 1X2 descanso: 2 | 47% | 54% | 50% | 1.73 | -13% |
+| 1X2 descanso: 2 | 47% | 54% | 51% | 1.73 | -13% |
 | 1X2 descanso: X | 34% | 31% | 33% | 3.00 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 04/11 02:10_
 
 - **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
@@ -49,7 +49,7 @@ _Actualizadas: 03/11 02:08_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.80**  ·  Menos de 5 **2.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.10**  ·  Menos de 5 **2.30**
 - **Home Player Shots On Target Total:** Mathias Jorgensen - 2 **6.00**  ·  Mathias Jorgensen - 3 **21.00**  ·  Andri Gudjohnsen - 1 **1.44**  ·  Ryoya Morishita - 1 **1.83**  ·  Todd Cantwell - 1 **1.83**  ·  Augustus Kargbo - 1 **1.73**  ·  Oladapo Afolayan - 1 **1.73**  ·  Mathias Jorgensen - 1 **1.83**  ·  Moussa Baradji - 1 **3.00**  ·  Jayden Fevrier - 1 **1.83**  ·  Kristi Montgomery - 1 **3.25**  ·  Sean McLoughlin - 1 **6.00**  ·  Dion De Neve - 1 **3.25**  ·  Jake Garrett - 1 **3.40**  ·  Sam Morsy - 1 **3.00**  ·  Tom Atcheson - 1 **6.00**  ·  Adam Forshaw - 1 **3.75**  ·  Hayden Carter - 1 **6.00**  ·  Harry Pickering - 1 **6.00**  ·  Yuri Ribeiro - 1 **6.00**  ·  Ryan Alebiosu - 1 **3.50**  ·  Andri Gudjohnsen - 2 **3.25**  ·  Ryoya Morishita - 2 **5.50**  ·  Todd Cantwell - 2 **6.00**  ·  Augustus Kargbo - 2 **4.50**  ·  Oladapo Afolayan - 2 **4.50**  ·  Moussa Baradji - 2 **15.00**  ·  Jayden Fevrier - 2 **5.50**  ·  Kristi Montgomery - 2 **17.00**  ·  Dion De Neve - 2 **17.00**  ·  Jake Garrett - 2 **17.00**  ·  Sam Morsy - 2 **13.00**  ·  Adam Forshaw - 2 **21.00**  ·  Ryan Alebiosu - 2 **19.00**  ·  Andri Gudjohnsen - 3 **9.00**  ·  Ryoya Morishita - 3 **19.00**  ·  Todd Cantwell - 3 **21.00**  ·  Augustus Kargbo - 3 **15.00**  ·  Oladapo Afolayan - 3 **15.00**  ·  Jayden Fevrier - 3 **19.00**  ·  Andri Gudjohnsen - 4 **21.00**  ·  Gady Beyuku - 1 **3.75**  ·  Gady Beyuku - 2 **21.00**
 - **Away Player Shots On Target Total:** Taty Castellanos **6.50**  ·  Kristi Montgomery **34.00**  ·  Arne Engels **41.00**  ·  Manor Solomon **29.00**  ·  Andri Gudjohnsen **13.00**  ·  Tomas Soucek **7.50**  ·  Jayden Fevrier **81.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **15.00**  ·  Augustus Kargbo **34.00**  ·  Yuki Ohashi **23.00**  ·  Mohamadou Kante **13.00**  ·  Airidas Golambeckis **10.00**  ·  Scott Wharton **19.00**  ·  Divine Mukasa **34.00**  ·  Joel Piroe **21.00**  ·  Todd Cantwell **29.00**  ·  Harry Pickering **51.00**  ·  Hayden Carter **26.00**  ·  Adam Forshaw **101.00**  ·  Soungoutou Magassa **41.00**  ·  Sean McLoughlin **26.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **81.00**  ·  Max Kilman **15.00**  ·  Joel Veltman **21.00**  ·  Edvin Austbo **17.00**  ·  Joshua Ajala **12.00**  ·  Ryoya Morishita **34.00**  ·  Kyle Walker-Peters **81.00**  ·  Yuri Ribeiro **126.00**  ·  Jarrod Bowen **11.00**  ·  Konstantinos Mavropanos **5.50**  ·  Pablo Felipe **12.00**  ·  Felipe Morato **17.00**  ·  Oliver Scarles **21.00**  ·  Adama Boiro **67.00**  ·  Oladapo Afolayan **19.00**  ·  Sam Morsy **67.00**  ·  Lewis Orford **26.00**  ·  Ezra Mayers **17.00**
 - **Home Player Shots:** Mathias Jorgensen - 2 **1.67**  ·  Mathias Jorgensen - 3 **3.00**  ·  Mathias Jorgensen - 4 **6.00**  ·  Mathias Jorgensen - 5 **13.00**  ·  Andri Gudjohnsen - 1 **1.06**  ·  Ryoya Morishita - 1 **1.14**  ·  Todd Cantwell - 1 **1.17**  ·  Augustus Kargbo - 1 **1.11**  ·  Oladapo Afolayan - 1 **1.11**  ·  Mathias Jorgensen - 1 **1.17**  ·  Moussa Baradji - 1 **1.36**  ·  Jayden Fevrier - 1 **1.14**  ·  Kristi Montgomery - 1 **1.57**  ·  Sean McLoughlin - 1 **2.25**  ·  Dion De Neve - 1 **1.57**  ·  Jake Garrett - 1 **1.62**  ·  Sam Morsy - 1 **1.44**  ·  Tom Atcheson - 1 **2.62**  ·  Adam Forshaw - 1 **1.83**  ·  Hayden Carter - 1 **2.25**  ·  Harry Pickering - 1 **2.25**  ·  Yuri Ribeiro - 1 **2.25**  ·  Ryan Alebiosu - 1 **1.62**  ·  Andri Gudjohnsen - 2 **1.33**  ·  Ryoya Morishita - 2 **1.62**  ·  Todd Cantwell - 2 **1.67**  ·  Augustus Kargbo - 2 **1.53**  ·  Oladapo Afolayan - 2 **1.53**  ·  Moussa Baradji - 2 **2.62**  ·  Jayden Fevrier - 2 **1.62**  ·  Kristi Montgomery - 2 **3.50**  ·  Sean McLoughlin - 2 **8.00**  ·  Dion De Neve - 2 **3.50**  ·  Jake Garrett - 2 **3.75**  ·  Sam Morsy - 2 **3.00**  ·  Tom Atcheson - 2 **9.00**  ·  Adam Forshaw - 2 **5.00**  ·  Hayden Carter - 2 **8.00**  ·  Harry Pickering - 2 **8.00**  ·  Yuri Ribeiro - 2 **8.00**  ·  Ryan Alebiosu - 2 **3.75**  ·  Andri Gudjohnsen - 3 **1.91**  ·  Ryoya Morishita - 3 **2.75**  ·  Todd Cantwell - 3 **3.00**  ·  Augustus Kargbo - 3 **2.50**  ·  Oladapo Afolayan - 3 **2.50**  ·  Moussa Baradji - 3 **6.00**  ·  Jayden Fevrier - 3 **2.75**  ·  Kristi Montgomery - 3 **10.00**  ·  Sean McLoughlin - 3 **21.00**  ·  Dion De Neve - 3 **10.00**  ·  Jake Garrett - 3 **11.00**  ·  Sam Morsy - 3 **7.00**  ·  Tom Atcheson - 3 **21.00**  ·  Adam Forshaw - 3 **15.00**  ·  Hayden Carter - 3 **21.00**  ·  Harry Pickering - 3 **21.00**  ·  Yuri Ribeiro - 3 **21.00**  ·  Ryan Alebiosu - 3 **10.00**  ·  Andri Gudjohnsen - 4 **3.40**  ·  Ryoya Morishita - 4 **5.50**  ·  Todd Cantwell - 4 **6.00**  ·  Augustus Kargbo - 4 **4.50**  ·  Oladapo Afolayan - 4 **4.50**  ·  Moussa Baradji - 4 **15.00**  ·  Jayden Fevrier - 4 **5.50**  ·  Kristi Montgomery - 4 **21.00**  ·  Dion De Neve - 4 **21.00**  ·  Jake Garrett - 4 **21.00**  ·  Sam Morsy - 4 **19.00**  ·  Andri Gudjohnsen - 5 **6.00**  ·  Ryoya Morishita - 5 **13.00**  ·  Todd Cantwell - 5 **13.00**  ·  Augustus Kargbo - 5 **10.00**  ·  Oladapo Afolayan - 5 **10.00**  ·  Jayden Fevrier - 5 **13.00**  ·  Andri Gudjohnsen - 6 **13.00**  ·  Ryoya Morishita - 6 **21.00**  ·  Todd Cantwell - 6 **21.00**  ·  Augustus Kargbo - 6 **21.00**  ·  Oladapo Afolayan - 6 **21.00**  ·  Mathias Jorgensen - 6 **21.00**  ·  Andri Gudjohnsen - 7 **21.00**  ·  Gady Beyuku - 1 **1.83**  ·  Gady Beyuku - 2 **5.00**  ·  Gady Beyuku - 3 **15.00**  ·  Jayden Fevrier - 6 **21.00**  ·  Ryan Alebiosu - 4 **21.00**
@@ -60,53 +60,53 @@ _Actualizadas: 03/11 02:08_
 ## Estadísticas de equipo
 | | Blackburn (total) | Blackburn en casa | West Ham (total) | West Ham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 16 | 7 |
-| Forma (últimos 5) | DVDVV | VVVDD | DDVVE | VVEVE |
-| Balance | 6V 3E 6D | 4V 0E 3D | 8V 4E 4D | 4V 3E 0D |
-| Goles a favor / partido | 1,47 | 1,71 | 2,62 | 2,71 |
-| Goles en contra / partido | 1,53 | 1,29 | 1,44 | 1,14 |
-| Goles a favor 1ª parte | 0,67 | 0,71 | 1,12 | 1,00 |
-| Goles a favor 2ª parte | 0,80 | 1,00 | 1,50 | 1,71 |
-| Goles en contra 1ª parte | 0,87 | 0,57 | 1,00 | 0,86 |
-| Goles en contra 2ª parte | 0,67 | 0,71 | 0,44 | 0,29 |
-| Más de 1,5 goles | 87% | 100% | 94% | 86% |
-| Más de 2,5 goles | 80% | 86% | 81% | 71% |
-| Más de 3,5 goles | 33% | 14% | 69% | 71% |
-| Ambos marcan | 73% | 86% | 75% | 71% |
-| Portería a cero | 20% | 14% | 25% | 29% |
-| Se queda sin marcar | 13% | 0% | 0% | 0% |
-| xG a favor | 0,98 | 1,45 | 2,03 | 1,78 |
-| xG en contra | 1,77 | 1,28 | 1,28 | 1,60 |
-| Tiros / partido | 12,1 | 13,9 | 16,4 | 15,6 |
-| Tiros a puerta / partido | 4,2 | 4,9 | 6,4 | 5,7 |
-| Tiros recibidos | 17,4 | 16,1 | 11,8 | 13,3 |
-| Tiros a puerta recibidos | 4,2 | 3,1 | 3,8 | 4,0 |
-| Posesión media % | 48 | 47 | 55 | 55 |
+| Partidos analizados | 16 | 8 | 16 | 7 |
+| Forma (últimos 5) | DDVDV | DVVVD | DDVVE | VVEVE |
+| Balance | 6V 3E 7D | 4V 0E 4D | 8V 4E 4D | 4V 3E 0D |
+| Goles a favor / partido | 1,44 | 1,62 | 2,62 | 2,71 |
+| Goles en contra / partido | 1,56 | 1,38 | 1,44 | 1,14 |
+| Goles a favor 1ª parte | 0,62 | 0,62 | 1,12 | 1,00 |
+| Goles a favor 2ª parte | 0,81 | 1,00 | 1,50 | 1,71 |
+| Goles en contra 1ª parte | 0,88 | 0,62 | 1,00 | 0,86 |
+| Goles en contra 2ª parte | 0,69 | 0,75 | 0,44 | 0,29 |
+| Más de 1,5 goles | 88% | 100% | 94% | 86% |
+| Más de 2,5 goles | 81% | 88% | 81% | 71% |
+| Más de 3,5 goles | 31% | 12% | 69% | 71% |
+| Ambos marcan | 75% | 88% | 75% | 71% |
+| Portería a cero | 19% | 12% | 25% | 29% |
+| Se queda sin marcar | 12% | 0% | 0% | 0% |
+| xG a favor | 1,05 | 1,51 | 2,03 | 1,78 |
+| xG en contra | 1,72 | 1,24 | 1,28 | 1,60 |
+| Tiros / partido | 12,2 | 13,9 | 16,4 | 15,6 |
+| Tiros a puerta / partido | 4,1 | 4,6 | 6,4 | 5,7 |
+| Tiros recibidos | 17,0 | 15,5 | 11,8 | 13,3 |
+| Tiros a puerta recibidos | 4,1 | 3,1 | 3,8 | 4,0 |
+| Posesión media % | 49 | 48 | 55 | 55 |
 | Córners a favor | 6,1 | 6,0 | 6,5 | 7,0 |
-| Córners en contra | 5,7 | 5,4 | 4,6 | 3,7 |
-| Córners a favor 1ª parte | 2,9 | 2,9 | 2,6 | 2,7 |
-| Córners a favor 2ª parte | 3,3 | 3,1 | 3,9 | 4,3 |
+| Córners en contra | 5,6 | 5,4 | 4,6 | 3,7 |
+| Córners a favor 1ª parte | 3,0 | 3,1 | 2,6 | 2,7 |
+| Córners a favor 2ª parte | 3,1 | 2,9 | 3,9 | 4,3 |
 | Córners totales del partido | 11,8 | 11,4 | 11,1 | 10,7 |
-| Córners totales 1ª parte | 5,5 | 4,9 | 4,8 | 4,3 |
-| Córners totales 2ª parte | 6,3 | 6,6 | 6,3 | 6,4 |
-| Más de 8,5 córners | 87% | 86% | 75% | 57% |
-| Más de 9,5 córners | 80% | 71% | 62% | 57% |
-| Más de 10,5 córners | 60% | 43% | 56% | 57% |
-| Faltas cometidas | 11,3 | 10,3 | 10,4 | 10,9 |
-| Faltas recibidas | 10,5 | 10,1 | 10,5 | 9,9 |
-| Amarillas propias | 2,1 | 2,4 | 1,8 | 2,3 |
-| Amarillas del rival | 1,5 | 1,4 | 1,4 | 1,0 |
-| Rojas / partido | 0,07 | 0,00 | 0,06 | 0,14 |
+| Córners totales 1ª parte | 5,6 | 5,1 | 4,8 | 4,3 |
+| Córners totales 2ª parte | 6,2 | 6,2 | 6,3 | 6,4 |
+| Más de 8,5 córners | 88% | 88% | 75% | 57% |
+| Más de 9,5 córners | 81% | 75% | 62% | 57% |
+| Más de 10,5 córners | 62% | 50% | 56% | 57% |
+| Faltas cometidas | 11,4 | 10,5 | 10,4 | 10,9 |
+| Faltas recibidas | 11,1 | 11,2 | 10,5 | 9,9 |
+| Amarillas propias | 2,2 | 2,5 | 1,8 | 2,3 |
+| Amarillas del rival | 1,6 | 1,8 | 1,4 | 1,0 |
+| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Blackburn | Recibe Blackburn | Tarjetas Blackburn | Goles West Ham | Recibe West Ham | Tarjetas West Ham |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 5 | 2 | 3 | 5 | 1 |
 | 16-30' | 3 | 4 | 5 | 5 | 6 | 3 |
-| 31-45' | 4 | 4 | 9 | 10 | 5 | 5 |
+| 31-45' | 4 | 5 | 10 | 10 | 5 | 5 |
 | 46-60' | 8 | 4 | 4 | 6 | 2 | 3 |
-| 61-75' | 0 | 3 | 5 | 8 | 2 | 4 |
-| 76-90' | 4 | 3 | 8 | 10 | 3 | 13 |
+| 61-75' | 0 | 4 | 5 | 8 | 2 | 4 |
+| 76-90' | 5 | 3 | 10 | 10 | 3 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -122,36 +122,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Blackburn
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Championship | Blackburn 1-2 Stoke City | casa | 6-5 | 14 (3) - 11 (3) | 3-4 |
 | 2026-10-31 | Championship | Swansea 4-0 Blackburn | fuera | 2-1 | 7 (2) - 20 (9) | 1-0 |
 | 2026-10-24 | Championship | Blackburn 2-0 Wrexham | casa | 7-9 | 16 (5) - 24 (1) | 3-2 |
 | 2026-10-17 | Championship | West Brom 3-2 Blackburn | fuera | 4-8 | 10 (2) - 25 (4) | 3-2 |
 | 2026-10-13 | Championship | Bristol City 0-1 Blackburn | fuera | 5-10 | 3 (1) - 20 (7) | –-– |
 | 2026-10-10 | Championship | Blackburn 2-1 Cardiff | casa | 11-6 | 17 (8) - 10 (1) | 1-0 |
-| 2026-09-19 | Championship | Portsmouth 2-2 Blackburn | fuera | 7-9 | 8 (5) - 22 (7) | 1-2 |
 
 ## Jugadores de Blackburn
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. McLoughlin | D | 15 | 1350 | 1 | 1 | 5 | 0,3 | 1 | 0,1 | 11 | 12 | 0,8 | 2 | 0 |
-| R. Alebiosu | D | 14 | 1214 | 0 | 1 | 7 | 0,5 | 2 | 0,1 | 7 | 4 | 0,3 | 0 | 0 |
-| T. Cantwell | M | 15 | 1167 | 2 | 2 | 24 | 1,6 | 12 | 0,8 | 15 | 17 | 1,1 | 5 | 0 |
-| Kristi Montgomery | M | 14 | 1097 | 1 | 1 | 4 | 0,3 | 2 | 0,1 | 16 | 9 | 0,6 | 2 | 0 |
-| O. Afolayan | M | 15 | 1088 | 5 | 2 | 26 | 1,7 | 13 | 0,9 | 27 | 26 | 1,7 | 2 | 0 |
+| S. McLoughlin | D | 16 | 1440 | 1 | 1 | 6 | 0,4 | 1 | 0,1 | 11 | 14 | 0,9 | 2 | 0 |
+| T. Cantwell | M | 16 | 1257 | 2 | 2 | 25 | 1,6 | 13 | 0,8 | 17 | 19 | 1,2 | 5 | 0 |
+| R. Alebiosu | D | 15 | 1255 | 0 | 1 | 7 | 0,5 | 2 | 0,1 | 7 | 4 | 0,3 | 0 | 0 |
+| O. Afolayan | M | 16 | 1166 | 5 | 2 | 30 | 1,9 | 13 | 0,8 | 29 | 32 | 2,0 | 2 | 0 |
+| Kristi Montgomery | M | 15 | 1164 | 1 | 1 | 4 | 0,3 | 2 | 0,1 | 17 | 9 | 0,6 | 2 | 0 |
+| B. Tóth | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
+| Sam Morsy | M | 14 | 1030 | 0 | 1 | 6 | 0,4 | 2 | 0,1 | 18 | 11 | 0,8 | 5 | 0 |
 | R. Morishita | M | 13 | 1013 | 2 | 3 | 10 | 0,8 | 6 | 0,5 | 7 | 11 | 0,8 | 0 | 0 |
-| B. Tóth | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,5 | 0 | 0 |
-| Sam Morsy | M | 13 | 940 | 0 | 1 | 5 | 0,4 | 1 | 0,1 | 16 | 9 | 0,7 | 5 | 0 |
+| H. Pickering | D | 12 | 930 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 0,8 | 3 | 0 |
 | Tom Atcheson | D | 11 | 903 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 9 | 4 | 0,4 | 3 | 1 |
-| H. Pickering | D | 11 | 863 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 0,9 | 3 | 0 |
-| A. Guðjohnsen | F | 13 | 808 | 9 | 1 | 17 | 1,3 | 11 | 0,8 | 11 | 11 | 0,8 | 2 | 0 |
-| H. Carter | D | 10 | 638 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
-| J. Fevrier | M | 15 | 566 | 1 | 1 | 19 | 1,3 | 6 | 0,4 | 8 | 9 | 0,6 | 1 | 0 |
-| Yuri Ribeiro | D | 7 | 389 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,7 | 1 | 0 |
+| A. Guðjohnsen | F | 14 | 898 | 10 | 1 | 18 | 1,3 | 12 | 0,9 | 13 | 13 | 0,9 | 3 | 0 |
+| H. Carter | D | 11 | 728 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 2 | 1 | 0,1 | 2 | 0 |
+| J. Fevrier | M | 16 | 633 | 1 | 1 | 21 | 1,3 | 6 | 0,4 | 8 | 10 | 0,6 | 1 | 0 |
+| Yuri Ribeiro | D | 8 | 412 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,6 | 1 | 0 |
 | Aynsley Pears | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| M. Baradji | M | 7 | 296 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 6 | 5 | 0,7 | 1 | 0 |
 | A. Forshaw | M | 6 | 294 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,7 | 2 | 0 |
-| M. Baradji | M | 6 | 273 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 6 | 4 | 0,7 | 1 | 0 |
 | J. Garrett | M | 8 | 227 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 4 | 0,5 | 1 | 0 |
-| Y. Ohashi | F | 5 | 128 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 6 | 5 | 1,0 | 0 | 0 |
-| Gady Beyuku | D | 3 | 122 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 2 | 2 | 0,7 | 1 | 0 |
+| Gady Beyuku | D | 4 | 171 | 0 | 0 | 4 | 1,0 | 0 | 0,0 | 3 | 4 | 1,0 | 1 | 0 |
+| Y. Ohashi | F | 6 | 140 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 7 | 5 | 0,8 | 0 | 0 |
 
 ## Últimos partidos de West Ham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | T. Souček | M | 5 | 127 | 3 | 0 | 5 | 1,0 | 3 | 0,6 | 2 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 2,52 · córners esperados 10,4._
+_Goles esperados: local 1,37 · visitante 2,53 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -196,26 +196,26 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 63% | 58% | 60% | 1.60 | -3% |
 | 1X2: X | 18% | 23% | 21% | 4.00 | -17% |
-| 1X2: 1 | 19% | 19% | 19% | 5.00 | -6% |
+| 1X2: 1 | 19% | 19% | 19% | 5.00 | -5% |
 | Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -5% |
 | Doble oportunidad: 12 | 82% | 78% | 80% | 1.22 | -3% |
 | Doble oportunidad: 1X | 37% | 41% | 39% | 2.30 | -10% |
-| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -18% |
-| Ambos marcan: Sí | 68% | 58% | 63% | 1.62 | +2% |
-| Goles más/menos: Más de 2.5 | 74% | 59% | 67% | 1.62 | +8% |
-| Goles más/menos: Más de 3.5 | 54% | 40% | 47% | 2.38 | +12% |
-| Goles más/menos: Más de 4.5 | 35% | 22% | 28% | 4.33 | +23% |
-| Goles más/menos: Menos de 2.5 | 26% | 41% | 33% | 2.30 | -23% |
-| Goles más/menos: Menos de 3.5 | 46% | 60% | 53% | 1.57 | -17% |
-| Goles más/menos: Menos de 4.5 | 65% | 78% | 72% | 1.22 | -13% |
+| Ambos marcan: No | 31% | 42% | 37% | 2.20 | -19% |
+| Ambos marcan: Sí | 69% | 58% | 63% | 1.62 | +2% |
+| Goles más/menos: Más de 2.5 | 75% | 59% | 67% | 1.62 | +8% |
+| Goles más/menos: Más de 3.5 | 55% | 40% | 47% | 2.38 | +12% |
+| Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +24% |
+| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -23% |
+| Goles más/menos: Menos de 3.5 | 45% | 60% | 53% | 1.57 | -17% |
+| Goles más/menos: Menos de 4.5 | 65% | 78% | 71% | 1.22 | -13% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
-| Goles del local: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
-| Goles del local: Más de 1.5 | 39% | 29% | 34% | 3.25 | +11% |
-| Goles del local: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
-| Goles del local: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles del local: Más de 0.5 | 75% | 65% | 70% | 1.44 | +0% |
+| Goles del local: Más de 1.5 | 40% | 29% | 34% | 3.25 | +12% |
+| Goles del local: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -20% |
+| Goles del local: Menos de 1.5 | 60% | 71% | 66% | 1.33 | -13% |
 | Goles del visitante: Más de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
 | Goles del visitante: Más de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
@@ -223,6 +223,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 11.5 | 37% | 46% | 42% | 2.00 | -17% |
 | Córners más/menos: Menos de 11.5 | 63% | 54% | 58% | 1.73 | +1% |
 | 1X2 descanso: 2 | 48% | 44% | 46% | 2.10 | -3% |
-| 1X2 descanso: X | 33% | 37% | 35% | 2.50 | -13% |
+| 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

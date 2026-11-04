@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Schalke 04
 **Bundesliga** · Regular Season - 9 · 08/11/2026 19:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -177,21 +177,21 @@ _Sin bajas comunicadas por ahora._
 | Adrian Gantenbein | M | 2 | 139 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,75 · visitante 0,95 · córners esperados 10,3._
+_Goles esperados: local 1,74 · visitante 0,96 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 20% | 20% | 4.75 | -5% |
-| 1X2: X | 23% | 23% | 23% | 4.10 | -5% |
+| 1X2: 2 | 21% | 20% | 20% | 4.75 | -5% |
+| 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
 | 1X2: 1 | 56% | 58% | 57% | 1.62 | -8% |
 | Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -3% |
-| Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 80% | 80% | 80% | 1.18 | -6% |
+| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
+| Doble oportunidad: 1X | 79% | 80% | 80% | 1.18 | -6% |
 | Ambos marcan: No | 49% | 39% | 44% | 2.38 | +5% |
 | Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -15% |
 | Goles más/menos: Más de 2.5 | 51% | 64% | 57% | 1.50 | -14% |
-| Goles más/menos: Más de 3.5 | 29% | 45% | 37% | 2.10 | -22% |
-| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -26% |
+| Goles más/menos: Más de 3.5 | 29% | 45% | 37% | 2.10 | -23% |
+| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -27% |
 | Goles más/menos: Menos de 2.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
 | Goles más/menos: Menos de 3.5 | 71% | 55% | 63% | 1.73 | +9% |
 | Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.28 | +3% |
@@ -199,7 +199,7 @@ _Goles esperados: local 1,75 · visitante 0,95 · córners esperados 10,3._
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -27% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Córners más/menos: Más de 9.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Córners más/menos: Menos de 9.5 | 48% | 46% | 47% | 2.00 | -5% |

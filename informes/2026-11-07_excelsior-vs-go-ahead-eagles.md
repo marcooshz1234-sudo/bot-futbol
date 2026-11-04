@@ -1,7 +1,7 @@
 # Excelsior – GO Ahead Eagles
 **Eredivisie** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | Eus Waayers | D | 1 | 31 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,92 · córners esperados 9,4._
+_Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -213,19 +213,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 42% | 44% | 2.20 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
-| Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del local: Más de 1.5 | 49% | 46% | 47% | 2.00 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -10% |
+| Goles del local: Más de 0.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Goles del local: Más de 1.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -8% |
-| Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -11% |
-| Goles del local: Menos de 1.5 | 51% | 54% | 53% | 1.73 | -9% |
+| Goles del local: Menos de 0.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles del local: Menos de 1.5 | 51% | 54% | 52% | 1.73 | -9% |
 | Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
 | Goles del visitante: Más de 0.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 57% | 50% | 54% | 1.83 | -2% |
-| Goles del visitante: Más de 2.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles del visitante: Más de 2.5 | 30% | 25% | 28% | 3.75 | +3% |
 | Goles del visitante: Menos de 0.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles del visitante: Menos de 1.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Goles del visitante: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Menos de 2.5 | 70% | 75% | 72% | 1.25 | -9% |
 | Córners más/menos: Más de 9.5 | 44% | 53% | 48% | 1.80 | -13% |
 | Córners más/menos: Menos de 9.5 | 56% | 47% | 52% | 2.00 | +3% |
 | 1X2 descanso: 2 | 36% | 32% | 34% | 2.88 | -2% |

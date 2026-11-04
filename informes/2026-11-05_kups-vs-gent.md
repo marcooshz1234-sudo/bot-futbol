@@ -1,10 +1,10 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.22**  ·  X2 **1.17**
@@ -189,12 +189,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 57% | 56% | 1.65 | -8% |
+| 1X2: 2 | 55% | 57% | 56% | 1.65 | -8% |
 | 1X2: X | 31% | 24% | 27% | 4.00 | +10% |
 | 1X2: 1 | 14% | 19% | 17% | 5.00 | -17% |
 | Doble oportunidad: X2 | 86% | 80% | 83% | 1.17 | -3% |
 | Doble oportunidad: 12 | 69% | 77% | 73% | 1.22 | -11% |
-| Doble oportunidad: 1X | 46% | 43% | 44% | 2.20 | -3% |
+| Doble oportunidad: 1X | 45% | 43% | 44% | 2.20 | -3% |
 | Ambos marcan: No | 74% | 50% | 62% | 1.83 | +14% |
 | Ambos marcan: Sí | 26% | 50% | 38% | 1.83 | -31% |
 | Goles más/menos: Más de 1.5 | 49% | 73% | 61% | 1.28 | -22% |
@@ -211,13 +211,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 8% | 23% | 16% | 4.00 | -38% |
 | Goles del local: Menos de 0.5 | 63% | 42% | 53% | 2.20 | +16% |
 | Goles del local: Menos de 1.5 | 92% | 77% | 84% | 1.22 | +3% |
-| Goles del visitante: Más de 1.5 | 33% | 54% | 43% | 1.73 | -25% |
+| Goles del visitante: Más de 1.5 | 33% | 54% | 44% | 1.73 | -25% |
 | Goles del visitante: Más de 2.5 | 12% | 28% | 20% | 3.40 | -33% |
-| Goles del visitante: Menos de 1.5 | 67% | 46% | 57% | 2.00 | +13% |
+| Goles del visitante: Menos de 1.5 | 67% | 46% | 56% | 2.00 | +13% |
 | Goles del visitante: Menos de 2.5 | 88% | 72% | 80% | 1.30 | +4% |
 | Córners más/menos: Más de 9.5 | 49% | 54% | 52% | 1.73 | -11% |
 | Córners más/menos: Menos de 9.5 | 51% | 46% | 48% | 2.00 | -3% |
-| 1X2 descanso: 2 | 35% | 42% | 38% | 2.20 | -16% |
-| 1X2 descanso: X | 54% | 41% | 48% | 2.25 | +7% |
+| 1X2 descanso: 2 | 35% | 42% | 38% | 2.20 | -15% |
+| 1X2 descanso: X | 54% | 41% | 47% | 2.25 | +7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

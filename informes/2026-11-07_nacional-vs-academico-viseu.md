@@ -1,7 +1,7 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -190,20 +190,20 @@ _Sin bajas comunicadas por ahora._
 | Dominik Steczyk | F | 3 | 62 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,57 · córners esperados 9,5._
+_Goles esperados: local 1,06 · visitante 1,56 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 49% | 40% | 45% | 2.30 | +3% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2: X | 25% | 27% | 26% | 3.40 | -10% |
 | 1X2: 1 | 26% | 32% | 29% | 2.90 | -16% |
 | Doble oportunidad: X2 | 74% | 67% | 71% | 1.40 | -1% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 51% | 60% | 56% | 1.57 | -13% |
 | Ambos marcan: No | 48% | 45% | 47% | 2.05 | -4% |
-| Ambos marcan: Sí | 52% | 55% | 53% | 1.70 | -9% |
+| Ambos marcan: Sí | 52% | 55% | 53% | 1.70 | -10% |
 | Goles más/menos: Más de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles más/menos: Más de 2.5 | 49% | 51% | 50% | 1.85 | -7% |
 | Goles más/menos: Más de 3.5 | 27% | 29% | 28% | 3.25 | -9% |
@@ -214,18 +214,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles del local: Más de 0.5 | 65% | 71% | 68% | 1.33 | -9% |
 | Goles del local: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
+| Goles del local: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +3% |
 | Goles del local: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Goles del visitante: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Goles del visitante: Más de 1.5 | 46% | 42% | 44% | 2.20 | -2% |
 | Goles del visitante: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
 | Goles del visitante: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -10% |
 | Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.88 | -10% |
-| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.92 | +0% |
+| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.92 | +1% |
 | 1X2 descanso: 2 | 36% | 31% | 33% | 3.00 | +0% |
-| 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
+| 1X2 descanso: X | 43% | 42% | 42% | 2.20 | -7% |
 | 1X2 descanso: 1 | 22% | 27% | 24% | 3.50 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Wrexham – Wolves
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **2.90**  ·  X **3.40**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.40**
@@ -184,15 +184,15 @@ _Sin precedentes recientes._
 | T. Chirewa | F | 9 | 258 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 8 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,75 · visitante 1,27 · córners esperados 9,5._
+_Goles esperados: local 0,74 · visitante 1,27 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 49% | 42% | 45% | 2.20 | -1% |
-| 1X2: X | 29% | 27% | 28% | 3.40 | -4% |
-| 1X2: 1 | 22% | 32% | 27% | 2.90 | -22% |
+| 1X2: 2 | 49% | 42% | 45% | 2.20 | -0% |
+| 1X2: X | 29% | 27% | 28% | 3.40 | -5% |
+| 1X2: 1 | 22% | 32% | 27% | 2.90 | -23% |
 | Doble oportunidad: X2 | 78% | 69% | 73% | 1.40 | +3% |
 | Doble oportunidad: 12 | 71% | 74% | 72% | 1.30 | -6% |
 | Doble oportunidad: 1X | 51% | 58% | 54% | 1.67 | -9% |
@@ -208,14 +208,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 22% | 35% | 29% | 2.62 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 31% | 36% | 3.00 | +9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 78% | 65% | 71% | 1.44 | +3% |
-| Goles del local: Más de 0.5 | 53% | 71% | 62% | 1.33 | -18% |
+| Goles del local: Más de 0.5 | 52% | 71% | 62% | 1.33 | -18% |
 | Goles del local: Más de 1.5 | 17% | 35% | 26% | 2.62 | -31% |
-| Goles del local: Menos de 0.5 | 47% | 29% | 38% | 3.25 | +24% |
+| Goles del local: Menos de 0.5 | 48% | 29% | 38% | 3.25 | +25% |
 | Goles del local: Menos de 1.5 | 83% | 65% | 74% | 1.44 | +6% |
 | Goles del visitante: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles del visitante: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
+| Goles del visitante: Más de 1.5 | 36% | 44% | 40% | 2.10 | -15% |
 | Goles del visitante: Más de 2.5 | 14% | 21% | 17% | 4.50 | -23% |
-| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
+| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -1% |
 | Goles del visitante: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
 | Goles del visitante: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -2% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |

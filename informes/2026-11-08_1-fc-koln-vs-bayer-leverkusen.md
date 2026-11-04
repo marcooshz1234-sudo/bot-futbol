@@ -1,7 +1,7 @@
 # 1. FC Köln – Bayer Leverkusen
 **Bundesliga** · Regular Season - 9 · 08/11/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -192,29 +192,29 @@ _Sin bajas comunicadas por ahora._
 | M. Terrier | F | 4 | 117 | 0 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,83 · córners esperados 10,0._
+_Goles esperados: local 1,28 · visitante 1,84 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 55% | 52% | 1.70 | -11% |
+| 1X2: 2 | 51% | 55% | 53% | 1.70 | -11% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -7% |
-| 1X2: 1 | 27% | 23% | 25% | 4.10 | +2% |
+| 1X2: 1 | 27% | 23% | 25% | 4.10 | +1% |
 | Doble oportunidad: X2 | 73% | 77% | 75% | 1.22 | -8% |
 | Doble oportunidad: 12 | 77% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 50% | 45% | 47% | 2.10 | -0% |
+| Doble oportunidad: 1X | 49% | 45% | 47% | 2.10 | -1% |
 | Ambos marcan: No | 39% | 35% | 37% | 2.62 | -2% |
 | Ambos marcan: Sí | 61% | 65% | 63% | 1.44 | -10% |
 | Goles más/menos: Más de 2.5 | 60% | 68% | 64% | 1.40 | -10% |
 | Goles más/menos: Más de 3.5 | 38% | 47% | 43% | 2.00 | -15% |
-| Goles más/menos: Más de 4.5 | 20% | 28% | 24% | 3.40 | -18% |
-| Goles más/menos: Menos de 2.5 ✅ | 40% | 32% | 36% | 3.00 | +8% |
+| Goles más/menos: Más de 4.5 | 21% | 28% | 24% | 3.40 | -17% |
+| Goles más/menos: Menos de 2.5 ✅ | 40% | 32% | 36% | 3.00 | +7% |
 | Goles más/menos: Menos de 3.5 | 62% | 53% | 57% | 1.80 | +3% |
-| Goles más/menos: Menos de 4.5 | 80% | 72% | 76% | 1.33 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 46% | 43% | 2.00 | -14% |
+| Goles más/menos: Menos de 4.5 | 79% | 72% | 76% | 1.33 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Goles 1ª parte más/menos: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -2% |
 | Goles del local: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles del local: Más de 1.5 | 37% | 39% | 38% | 2.38 | -10% |
@@ -222,12 +222,12 @@ _Goles esperados: local 1,28 · visitante 1,83 · córners esperados 10,0._
 | Goles del local: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
 | Goles del visitante: Más de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
 | Goles del visitante: Más de 2.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles del visitante: Menos de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
+| Goles del visitante: Menos de 1.5 | 45% | 35% | 40% | 2.62 | +5% |
 | Goles del visitante: Menos de 2.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -12% |
 | Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
 | 1X2 descanso: 2 | 38% | 43% | 40% | 2.20 | -11% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -3% |
+| 1X2 descanso: X | 38% | 36% | 37% | 2.62 | -3% |
 | 1X2 descanso: 1 | 23% | 22% | 23% | 4.33 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

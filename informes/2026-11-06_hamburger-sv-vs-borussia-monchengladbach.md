@@ -1,13 +1,13 @@
 # Hamburger SV – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 9 · 06/11/2026 20:30 (hora España) · Volksparkstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 02:09_
 
-- **1X2:** 1 **2.35**  ·  X **3.60**  ·  2 **2.70**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.57**
+- **1X2:** 1 **2.38**  ·  X **3.60**  ·  2 **2.70**
+- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.20** · menos **4.50**
@@ -16,27 +16,27 @@ _Actualizadas: 03/11 14:07_
     - 4,5: más **4.50** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
-- **Goles del visitante:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.80** · menos **2.00**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.38**  ·  2 **3.20**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **1.73**  ·  2 **1.83**
@@ -50,11 +50,11 @@ _Actualizadas: 03/11 14:07_
     - 4,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
 - **Home Player Shots On Target Total:** David Wolfe - 1 **3.75**  ·  David Wolfe - 2 **19.00**  ·  Patson Daka - 1 **1.36**  ·  Terem Moffi - 1 **1.28**  ·  Yussuf Poulsen - 1 **1.57**  ·  Martin Adeline - 1 **2.25**  ·  Albert Gronbaek - 1 **1.62**  ·  Otto Stange - 1 **1.57**  ·  Immanuel Pherai - 1 **1.73**  ·  Bilal Nadir - 1 **2.25**  ·  Alexander Rossing-Lelesiit - 1 **1.83**  ·  Bakery Jatta - 1 **2.25**  ·  Albert Sambi Lokonga - 1 **2.25**  ·  Nicolai Remberg - 1 **3.25**  ·  Kofi Amoako - 1 **3.25**  ·  Louis Lemke - 1 **3.25**  ·  Nicolas Capaldo - 1 **3.25**  ·  Jordan Torunarigha - 1 **6.00**  ·  Miro Muheim - 1 **3.75**  ·  Shafiq Nandja - 1 **3.75**  ·  Sebastiaan Bornauw - 1 **4.33**  ·  Warmed Omari - 1 **6.00**  ·  Patson Daka - 2 **2.62**  ·  Terem Moffi - 2 **2.38**  ·  Yussuf Poulsen - 2 **3.75**  ·  Martin Adeline - 2 **9.00**  ·  Albert Gronbaek - 2 **4.00**  ·  Otto Stange - 2 **3.75**  ·  Immanuel Pherai - 2 **4.50**  ·  Bilal Nadir - 2 **9.00**  ·  Alexander Rossing-Lelesiit - 2 **5.50**  ·  Bakery Jatta - 2 **9.00**  ·  Albert Sambi Lokonga - 2 **9.00**  ·  Nicolai Remberg - 2 **17.00**  ·  Kofi Amoako - 2 **17.00**  ·  Louis Lemke - 2 **17.00**  ·  Nicolas Capaldo - 2 **17.00**  ·  Miro Muheim - 2 **19.00**  ·  Shafiq Nandja - 2 **19.00**  ·  Sebastiaan Bornauw - 2 **21.00**  ·  Patson Daka - 3 **7.00**  ·  Terem Moffi - 3 **5.50**  ·  Yussuf Poulsen - 3 **13.00**  ·  Martin Adeline - 3 **21.00**  ·  Albert Gronbaek - 3 **13.00**  ·  Otto Stange - 3 **13.00**  ·  Immanuel Pherai - 3 **17.00**  ·  Bilal Nadir - 3 **21.00**  ·  Alexander Rossing-Lelesiit - 3 **19.00**  ·  Bakery Jatta - 3 **21.00**  ·  Albert Sambi Lokonga - 3 **21.00**  ·  Patson Daka - 4 **19.00**  ·  Terem Moffi - 4 **15.00**  ·  Zakaria El Ouahdi - 1 **2.50**  ·  Zakaria El Ouahdi - 2 **10.00**  ·  Fabio Vieira - 1 **1.73**  ·  Fabio Vieira - 2 **4.50**  ·  Fabio Vieira - 3 **17.00**
-- **Away Player Shots On Target Total:** Tim Kleindienst **6.50**  ·  David Wolfe **29.00**  ·  Kevin Stoger **51.00**  ·  Hugo Bolin **23.00**  ·  Kevin Diks **23.00**  ·  Yukhym Konoplya **51.00**  ·  Albert Gronbaek **29.00**  ·  Ko Itakura **17.00**  ·  Kofi Amoako **29.00**  ·  Wael Mohya **29.00**  ·  Joseph Scally **34.00**  ·  Terem Moffi **11.00**  ·  Daiki Hashioka **41.00**  ·  Nicolas Capaldo **67.00**  ·  Zakaria El Ouahdi **51.00**  ·  Robin Hack **19.00**  ·  Jordan Torunarigha **21.00**  ·  Immanuel Pherai **34.00**  ·  Fabio Chiarodia **26.00**  ·  Florian Neuhaus **41.00**  ·  Franck Honorat **41.00**  ·  Lukas Ullrich **101.00**  ·  Philipp Sander **26.00**  ·  Nicolas Kuhn **7.50**  ·  Isac Lidberg **11.00**  ·  David Herold **41.00**  ·  Alexander Rossing-Lelesiit **26.00**  ·  Enzo Leopold **67.00**  ·  Jens Castrop **21.00**  ·  Bakery Jatta **23.00**  ·  Miro Muheim **81.00**  ·  Shafiq Nandja **12.00**  ·  Fritz Fleck **19.00**  ·  Louis Lemke **67.00**  ·  Fabio Vieira **29.00**  ·  Warmed Omari **41.00**  ·  Jan Leszczynski **13.00**  ·  Mathieu Nguefack **51.00**  ·  Lion Schweers **17.00**  ·  Otto Stange **11.00**  ·  Albert Sambi Lokonga **67.00**  ·  Yussuf Poulsen **17.00**  ·  Bilal Nadir **23.00**  ·  Patson Daka **15.00**  ·  Nicolai Remberg **41.00**  ·  Shuto Machino **15.00**  ·  Sebastiaan Bornauw **19.00**  ·  Martin Adeline **29.00**  ·  Joel Agyekum **13.00**  ·  Zento Uno **51.00**
+- **Away Player Shots On Target Total:** Tim Kleindienst **6.50**  ·  David Wolfe **29.00**  ·  Kevin Stoger **51.00**  ·  Hugo Bolin **23.00**  ·  Kevin Diks **23.00**  ·  Yukhym Konoplya **51.00**  ·  Albert Gronbaek **34.00**  ·  Ko Itakura **17.00**  ·  Kofi Amoako **29.00**  ·  Wael Mohya **34.00**  ·  Joseph Scally **34.00**  ·  Terem Moffi **11.00**  ·  Daiki Hashioka **41.00**  ·  Nicolas Capaldo **67.00**  ·  Zakaria El Ouahdi **51.00**  ·  Robin Hack **19.00**  ·  Jordan Torunarigha **23.00**  ·  Immanuel Pherai **34.00**  ·  Fabio Chiarodia **26.00**  ·  Florian Neuhaus **41.00**  ·  Franck Honorat **41.00**  ·  Lukas Ullrich **101.00**  ·  Philipp Sander **29.00**  ·  Nicolas Kuhn **8.00**  ·  Isac Lidberg **12.00**  ·  David Herold **41.00**  ·  Alexander Rossing-Lelesiit **26.00**  ·  Enzo Leopold **67.00**  ·  Jens Castrop **23.00**  ·  Bakery Jatta **23.00**  ·  Miro Muheim **81.00**  ·  Shafiq Nandja **12.00**  ·  Fritz Fleck **19.00**  ·  Louis Lemke **67.00**  ·  Fabio Vieira **34.00**  ·  Warmed Omari **41.00**  ·  Jan Leszczynski **15.00**  ·  Mathieu Nguefack **51.00**  ·  Lion Schweers **17.00**  ·  Otto Stange **11.00**  ·  Albert Sambi Lokonga **67.00**  ·  Yussuf Poulsen **17.00**  ·  Bilal Nadir **26.00**  ·  Patson Daka **15.00**  ·  Nicolai Remberg **51.00**  ·  Shuto Machino **17.00**  ·  Sebastiaan Bornauw **19.00**  ·  Martin Adeline **34.00**  ·  Joel Agyekum **15.00**  ·  Zento Uno **51.00**
 - **Home Player Shots:** David Wolfe - 1 **1.67**  ·  David Wolfe - 2 **4.00**  ·  David Wolfe - 3 **11.00**  ·  David Wolfe - 4 **21.00**  ·  Patson Daka - 1 **1.03**  ·  Terem Moffi - 1 **1.02**  ·  Yussuf Poulsen - 1 **1.07**  ·  Martin Adeline - 1 **1.25**  ·  Albert Gronbaek - 1 **1.05**  ·  Otto Stange - 1 **1.07**  ·  Immanuel Pherai - 1 **1.11**  ·  Bilal Nadir - 1 **1.18**  ·  Alexander Rossing-Lelesiit - 1 **1.14**  ·  Bakery Jatta - 1 **1.25**  ·  Albert Sambi Lokonga - 1 **1.25**  ·  Nicolai Remberg - 1 **1.57**  ·  Kofi Amoako - 1 **1.57**  ·  Louis Lemke - 1 **1.44**  ·  Nicolas Capaldo - 1 **1.57**  ·  Jordan Torunarigha - 1 **2.25**  ·  Miro Muheim - 1 **1.80**  ·  Shafiq Nandja - 1 **1.80**  ·  Sebastiaan Bornauw - 1 **2.00**  ·  Warmed Omari - 1 **2.25**  ·  Patson Daka - 2 **1.20**  ·  Terem Moffi - 2 **1.17**  ·  Yussuf Poulsen - 2 **1.40**  ·  Martin Adeline - 2 **2.10**  ·  Albert Gronbaek - 2 **1.28**  ·  Otto Stange - 2 **1.40**  ·  Immanuel Pherai - 2 **1.53**  ·  Bilal Nadir - 2 **1.83**  ·  Alexander Rossing-Lelesiit - 2 **1.62**  ·  Bakery Jatta - 2 **2.10**  ·  Albert Sambi Lokonga - 2 **2.10**  ·  Nicolai Remberg - 2 **3.50**  ·  Kofi Amoako - 2 **3.50**  ·  Louis Lemke - 2 **2.75**  ·  Nicolas Capaldo - 2 **3.50**  ·  Jordan Torunarigha - 2 **8.00**  ·  Miro Muheim - 2 **4.33**  ·  Shafiq Nandja - 2 **4.33**  ·  Sebastiaan Bornauw - 2 **5.50**  ·  Warmed Omari - 2 **8.00**  ·  Patson Daka - 3 **1.57**  ·  Terem Moffi - 3 **1.50**  ·  Yussuf Poulsen - 3 **2.10**  ·  Martin Adeline - 3 **4.33**  ·  Albert Gronbaek - 3 **1.83**  ·  Otto Stange - 3 **2.10**  ·  Immanuel Pherai - 3 **2.50**  ·  Bilal Nadir - 3 **3.40**  ·  Alexander Rossing-Lelesiit - 3 **2.75**  ·  Bakery Jatta - 3 **4.33**  ·  Albert Sambi Lokonga - 3 **4.33**  ·  Nicolai Remberg - 3 **10.00**  ·  Kofi Amoako - 3 **10.00**  ·  Louis Lemke - 3 **7.00**  ·  Nicolas Capaldo - 3 **10.00**  ·  Jordan Torunarigha - 3 **21.00**  ·  Miro Muheim - 3 **13.00**  ·  Shafiq Nandja - 3 **13.00**  ·  Patson Daka - 4 **2.38**  ·  Terem Moffi - 4 **2.10**  ·  Yussuf Poulsen - 4 **3.75**  ·  Martin Adeline - 4 **10.00**  ·  Albert Gronbaek - 4 **3.00**  ·  Otto Stange - 4 **3.75**  ·  Immanuel Pherai - 4 **4.50**  ·  Bilal Nadir - 4 **7.00**  ·  Alexander Rossing-Lelesiit - 4 **5.50**  ·  Bakery Jatta - 4 **10.00**  ·  Patson Daka - 5 **4.00**  ·  Terem Moffi - 5 **3.50**  ·  Yussuf Poulsen - 5 **7.00**  ·  Martin Adeline - 5 **21.00**  ·  Albert Gronbaek - 5 **5.50**  ·  Otto Stange - 5 **7.00**  ·  Patson Daka - 6 **8.00**  ·  Zakaria El Ouahdi - 1 **1.33**  ·  Zakaria El Ouahdi - 2 **2.38**  ·  Zakaria El Ouahdi - 3 **5.50**  ·  Zakaria El Ouahdi - 4 **13.00**  ·  Zakaria El Ouahdi - 5 **21.00**  ·  Sebastiaan Bornauw - 3 **19.00**  ·  Terem Moffi - 6 **6.00**  ·  Yussuf Poulsen - 6 **15.00**  ·  Fabio Vieira - 1 **1.11**  ·  Fabio Vieira - 2 **1.53**  ·  Fabio Vieira - 3 **2.50**  ·  Fabio Vieira - 4 **4.50**  ·  Albert Sambi Lokonga - 4 **10.00**  ·  Kofi Amoako - 4 **21.00**  ·  Nicolas Capaldo - 4 **21.00**  ·  Louis Lemke - 4 **17.00**  ·  Fabio Vieira - 5 **10.00**  ·  Immanuel Pherai - 5 **10.00**  ·  Fabio Vieira - 6 **21.00**  ·  Otto Stange - 6 **15.00**  ·  Immanuel Pherai - 6 **21.00**  ·  Albert Gronbaek - 6 **11.00**  ·  Patson Daka - 7 **15.00**  ·  Patson Daka - 8 **21.00**  ·  Warmed Omari - 3 **21.00**  ·  Nicolai Remberg - 4 **21.00**  ·  Alexander Rossing-Lelesiit - 5 **13.00**  ·  Albert Sambi Lokonga - 5 **21.00**  ·  Bakery Jatta - 5 **21.00**  ·  Bilal Nadir - 5 **17.00**  ·  Alexander Rossing-Lelesiit - 6 **21.00**  ·  Terem Moffi - 7 **11.00**  ·  Otto Stange - 7 **21.00**  ·  Albert Gronbaek - 7 **21.00**  ·  Yussuf Poulsen - 7 **21.00**  ·  Terem Moffi - 8 **21.00**  ·  Bilal Nadir - 6 **21.00**
 - **Away Player Shots:** Tim Kleindienst - 1 **1.02**  ·  Shuto Machino - 1 **1.04**  ·  Isac Lidberg - 1 **1.05**  ·  Hugo Bolin - 1 **1.06**  ·  Florian Neuhaus - 1 **1.11**  ·  Kevin Stoger - 1 **1.12**  ·  Robin Hack - 1 **1.11**  ·  Wael Mohya - 1 **1.06**  ·  Franck Honorat - 1 **1.18**  ·  Zento Uno - 1 **1.20**  ·  Kevin Diks - 1 **1.22**  ·  Enzo Leopold - 1 **1.53**  ·  Philipp Sander - 1 **1.33**  ·  Ko Itakura - 1 **1.67**  ·  Daiki Hashioka - 1 **1.57**  ·  Jan Leszczynski - 1 **1.57**  ·  Yukhym Konoplya - 1 **1.57**  ·  David Herold - 1 **1.80**  ·  Joseph Scally - 1 **1.53**  ·  Lukas Ullrich - 1 **1.62**  ·  Fabio Chiarodia - 1 **2.50**  ·  Tim Kleindienst - 2 **1.12**  ·  Shuto Machino - 2 **1.20**  ·  Isac Lidberg - 2 **1.28**  ·  Hugo Bolin - 2 **1.33**  ·  Florian Neuhaus - 2 **1.53**  ·  Kevin Stoger - 2 **1.62**  ·  Robin Hack - 2 **1.53**  ·  Wael Mohya - 2 **1.33**  ·  Franck Honorat - 2 **1.80**  ·  Zento Uno - 2 **1.83**  ·  Kevin Diks - 2 **1.91**  ·  Enzo Leopold - 2 **3.40**  ·  Philipp Sander - 2 **2.38**  ·  Ko Itakura - 2 **4.00**  ·  Daiki Hashioka - 2 **3.50**  ·  Jan Leszczynski - 2 **3.50**  ·  Yukhym Konoplya - 2 **3.50**  ·  David Herold - 2 **4.33**  ·  Joseph Scally - 2 **3.40**  ·  Lukas Ullrich - 2 **3.75**  ·  Fabio Chiarodia - 2 **9.00**  ·  Tim Kleindienst - 3 **1.40**  ·  Shuto Machino - 3 **1.62**  ·  Isac Lidberg - 3 **1.80**  ·  Hugo Bolin - 3 **1.91**  ·  Florian Neuhaus - 3 **2.50**  ·  Kevin Stoger - 3 **2.75**  ·  Robin Hack - 3 **2.50**  ·  Wael Mohya - 3 **1.91**  ·  Franck Honorat - 3 **3.40**  ·  Zento Uno - 3 **3.75**  ·  Kevin Diks - 3 **3.75**  ·  Enzo Leopold - 3 **9.00**  ·  Philipp Sander - 3 **5.50**  ·  Ko Itakura - 3 **11.00**  ·  Daiki Hashioka - 3 **10.00**  ·  Jan Leszczynski - 3 **10.00**  ·  Yukhym Konoplya - 3 **10.00**  ·  David Herold - 3 **13.00**  ·  Joseph Scally - 3 **9.00**  ·  Lukas Ullrich - 3 **10.00**  ·  Tim Kleindienst - 4 **1.91**  ·  Shuto Machino - 4 **2.50**  ·  Isac Lidberg - 4 **3.00**  ·  Hugo Bolin - 4 **3.40**  ·  Florian Neuhaus - 4 **4.50**  ·  Kevin Stoger - 4 **5.50**  ·  Robin Hack - 4 **4.50**  ·  Wael Mohya - 4 **3.25**  ·  Franck Honorat - 4 **7.00**  ·  Zento Uno - 4 **8.00**  ·  Kevin Diks - 4 **8.00**  ·  Enzo Leopold - 4 **21.00**  ·  Philipp Sander - 4 **13.00**  ·  Tim Kleindienst - 5 **3.25**  ·  Shuto Machino - 5 **4.33**  ·  Isac Lidberg - 5 **5.50**  ·  Hugo Bolin - 5 **6.50**  ·  Florian Neuhaus - 5 **10.00**  ·  Kevin Stoger - 5 **11.00**  ·  Robin Hack - 5 **10.00**  ·  Wael Mohya - 5 **6.00**  ·  Franck Honorat - 5 **15.00**  ·  Zento Uno - 5 **19.00**  ·  Tim Kleindienst - 6 **5.50**  ·  Shuto Machino - 6 **8.00**  ·  Isac Lidberg - 6 **11.00**  ·  Hugo Bolin - 6 **13.00**  ·  Tim Kleindienst - 7 **10.00**  ·  Tim Kleindienst - 8 **19.00**  ·  Nicolas Kuhn - 1 **1.08**  ·  Nicolas Kuhn - 2 **1.40**  ·  Nicolas Kuhn - 3 **2.20**  ·  Nicolas Kuhn - 4 **3.75**  ·  Nicolas Kuhn - 5 **8.00**  ·  Ko Itakura - 4 **21.00**  ·  Nicolas Kuhn - 6 **15.00**  ·  Fabio Chiarodia - 3 **21.00**  ·  Joseph Scally - 4 **21.00**  ·  Lukas Ullrich - 4 **21.00**  ·  Jan Leszczynski - 4 **21.00**  ·  Yukhym Konoplya - 4 **21.00**  ·  Robin Hack - 6 **21.00**  ·  Florian Neuhaus - 6 **21.00**  ·  Wael Mohya - 6 **13.00**  ·  Isac Lidberg - 7 **21.00**  ·  Kevin Diks - 5 **19.00**  ·  Shuto Machino - 7 **15.00**  ·  Hugo Bolin - 7 **21.00**  ·  Daiki Hashioka - 4 **21.00**  ·  Kevin Stoger - 6 **21.00**  ·  Franck Honorat - 6 **21.00**  ·  Nicolas Kuhn - 7 **21.00**  ·  Tim Kleindienst - 9 **21.00**  ·  Philipp Sander - 5 **21.00**  ·  Mathieu Nguefack - 1 **1.30**  ·  Mathieu Nguefack - 3 **5.00**  ·  Mathieu Nguefack - 2 **2.38**  ·  Mathieu Nguefack - 4 **13.00**  ·  Mathieu Nguefack - 5 **21.00**  ·  Shuto Machino - 8 **21.00**  ·  Fritz Fleck - 1 **1.11**  ·  Fritz Fleck - 2 **1.50**  ·  Fritz Fleck - 3 **2.50**  ·  Fritz Fleck - 4 **4.50**  ·  Fritz Fleck - 5 **10.00**  ·  Fritz Fleck - 6 **19.00**  ·  Wael Mohya - 7 **21.00**
-- **Anytime Goal Scorer:** Tim Kleindienst **2.60**  ·  David Wolfe **9.50**  ·  Kevin Stoger **5.50**  ·  Hugo Bolin **3.75**  ·  Kevin Diks **5.00**  ·  Yukhym Konoplya **9.50**  ·  Albert Gronbaek **3.50**  ·  Ko Itakura **8.50**  ·  Kofi Amoako **7.50**  ·  Wael Mohya **3.50**  ·  Joseph Scally **7.00**  ·  Terem Moffi **2.30**  ·  Daiki Hashioka **9.50**  ·  Nicolas Capaldo **7.50**  ·  Zakaria El Ouahdi **5.50**  ·  Robin Hack **3.75**  ·  Jordan Torunarigha **13.00**  ·  Immanuel Pherai **3.75**  ·  Fabio Chiarodia **17.00**  ·  Florian Neuhaus **4.50**  ·  Franck Honorat **4.50**  ·  Lukas Ullrich **11.00**  ·  Philipp Sander **5.50**  ·  Nicolas Kuhn **3.50**  ·  Isac Lidberg **2.88**  ·  David Herold **9.50**  ·  Alexander Rossing-Lelesiit **4.00**  ·  Enzo Leopold **7.00**  ·  Jens Castrop **5.50**  ·  Bakery Jatta **5.00**  ·  Miro Muheim **9.50**  ·  Shafiq Nandja **9.50**  ·  Fritz Fleck **3.75**  ·  Louis Lemke **7.50**  ·  Fabio Vieira **3.75**  ·  Warmed Omari **13.00**  ·  Jan Leszczynski **9.50**  ·  Mathieu Nguefack **5.50**  ·  Iaia Manco Danfa **2.30**  ·  Lion Schweers **9.50**  ·  Jason Bissi-Mouelle **11.00**  ·  Josiah Uwakhone **4.00**  ·  Otto Stange **3.40**  ·  Albert Sambi Lokonga **5.00**  ·  Yussuf Poulsen **3.40**  ·  Bilal Nadir **5.50**  ·  Patson Daka **2.40**  ·  Nicolai Remberg **7.50**  ·  Shuto Machino **2.88**  ·  Sebastiaan Bornauw **11.00**  ·  Martin Adeline **5.00**  ·  Joel Agyekum **9.50**  ·  Zento Uno **5.50**
-- **Player to Score or Assist:** Tim Kleindienst **2.05**  ·  David Wolfe **4.00**  ·  Kevin Stoger **3.10**  ·  Hugo Bolin **2.62**  ·  Kevin Diks **3.50**  ·  Yukhym Konoplya **4.50**  ·  Albert Gronbaek **2.38**  ·  Ko Itakura **5.50**  ·  Kofi Amoako **4.00**  ·  Wael Mohya **2.50**  ·  Joseph Scally **4.00**  ·  Terem Moffi **1.91**  ·  Daiki Hashioka **5.50**  ·  Nicolas Capaldo **4.00**  ·  Zakaria El Ouahdi **3.40**  ·  Robin Hack **2.60**  ·  Jordan Torunarigha **5.00**  ·  Immanuel Pherai **2.50**  ·  Fabio Chiarodia **10.00**  ·  Florian Neuhaus **2.88**  ·  Franck Honorat **2.50**  ·  Lukas Ullrich **5.50**  ·  Philipp Sander **3.60**  ·  Nicolas Kuhn **2.30**  ·  Isac Lidberg **2.25**  ·  David Herold **4.50**  ·  Alexander Rossing-Lelesiit **2.75**  ·  Enzo Leopold **4.00**  ·  Jens Castrop **3.50**  ·  Bakery Jatta **3.00**  ·  Miro Muheim **3.60**  ·  Shafiq Nandja **5.50**  ·  Fritz Fleck **2.62**  ·  Louis Lemke **3.60**  ·  Fabio Vieira **2.38**  ·  Warmed Omari **7.50**  ·  Jan Leszczynski **4.50**  ·  Mathieu Nguefack **3.50**  ·  Iaia Manco Danfa **1.83**  ·  Lion Schweers **7.00**  ·  Jason Bissi-Mouelle **6.50**  ·  Josiah Uwakhone **2.50**  ·  Otto Stange **2.40**  ·  Albert Sambi Lokonga **3.25**  ·  Yussuf Poulsen **2.50**  ·  Bilal Nadir **3.20**  ·  Patson Daka **2.00**  ·  Nicolai Remberg **4.00**  ·  Shuto Machino **2.30**  ·  Sebastiaan Bornauw **8.50**  ·  Martin Adeline **2.88**  ·  Joel Agyekum **5.50**  ·  Zento Uno **4.00**
+- **Anytime Goal Scorer:** Tim Kleindienst **2.75**  ·  David Wolfe **10.00**  ·  Kevin Stoger **6.00**  ·  Hugo Bolin **4.00**  ·  Kevin Diks **5.50**  ·  Yukhym Konoplya **10.00**  ·  Albert Gronbaek **3.60**  ·  Ko Itakura **9.00**  ·  Kofi Amoako **8.00**  ·  Wael Mohya **3.60**  ·  Joseph Scally **7.50**  ·  Terem Moffi **2.38**  ·  Daiki Hashioka **10.00**  ·  Nicolas Capaldo **8.00**  ·  Zakaria El Ouahdi **6.00**  ·  Robin Hack **4.00**  ·  Jordan Torunarigha **13.00**  ·  Immanuel Pherai **4.00**  ·  Fabio Chiarodia **17.00**  ·  Florian Neuhaus **4.75**  ·  Franck Honorat **4.75**  ·  Lukas Ullrich **12.00**  ·  Philipp Sander **6.00**  ·  Nicolas Kuhn **3.60**  ·  Isac Lidberg **3.00**  ·  David Herold **10.00**  ·  Alexander Rossing-Lelesiit **4.33**  ·  Enzo Leopold **7.50**  ·  Jens Castrop **6.00**  ·  Bakery Jatta **5.50**  ·  Miro Muheim **10.00**  ·  Shafiq Nandja **10.00**  ·  Fritz Fleck **4.00**  ·  Louis Lemke **8.00**  ·  Fabio Vieira **4.00**  ·  Warmed Omari **13.00**  ·  Jan Leszczynski **10.00**  ·  Mathieu Nguefack **6.00**  ·  Iaia Manco Danfa **2.38**  ·  Lion Schweers **10.00**  ·  Jason Bissi-Mouelle **12.00**  ·  Josiah Uwakhone **4.33**  ·  Otto Stange **3.50**  ·  Albert Sambi Lokonga **5.50**  ·  Yussuf Poulsen **3.50**  ·  Bilal Nadir **6.00**  ·  Patson Daka **2.50**  ·  Nicolai Remberg **8.00**  ·  Shuto Machino **3.00**  ·  Sebastiaan Bornauw **12.00**  ·  Martin Adeline **5.50**  ·  Joel Agyekum **10.00**  ·  Zento Uno **6.00**
+- **Player to Score or Assist:** Tim Kleindienst **2.10**  ·  David Wolfe **4.00**  ·  Kevin Stoger **3.25**  ·  Hugo Bolin **2.75**  ·  Kevin Diks **3.50**  ·  Yukhym Konoplya **4.75**  ·  Albert Gronbaek **2.50**  ·  Ko Itakura **6.00**  ·  Kofi Amoako **4.33**  ·  Wael Mohya **2.60**  ·  Joseph Scally **4.33**  ·  Terem Moffi **1.95**  ·  Daiki Hashioka **6.00**  ·  Nicolas Capaldo **4.33**  ·  Zakaria El Ouahdi **3.40**  ·  Robin Hack **2.75**  ·  Jordan Torunarigha **5.50**  ·  Immanuel Pherai **2.60**  ·  Fabio Chiarodia **10.00**  ·  Florian Neuhaus **3.00**  ·  Franck Honorat **2.60**  ·  Lukas Ullrich **5.50**  ·  Philipp Sander **3.75**  ·  Nicolas Kuhn **2.38**  ·  Isac Lidberg **2.30**  ·  David Herold **4.75**  ·  Alexander Rossing-Lelesiit **2.88**  ·  Enzo Leopold **4.00**  ·  Jens Castrop **3.60**  ·  Bakery Jatta **3.20**  ·  Miro Muheim **3.75**  ·  Shafiq Nandja **5.50**  ·  Fritz Fleck **2.75**  ·  Louis Lemke **3.75**  ·  Fabio Vieira **2.50**  ·  Warmed Omari **8.00**  ·  Jan Leszczynski **4.75**  ·  Mathieu Nguefack **3.60**  ·  Iaia Manco Danfa **1.91**  ·  Lion Schweers **7.00**  ·  Jason Bissi-Mouelle **6.50**  ·  Josiah Uwakhone **2.62**  ·  Otto Stange **2.50**  ·  Albert Sambi Lokonga **3.40**  ·  Yussuf Poulsen **2.60**  ·  Bilal Nadir **3.40**  ·  Patson Daka **2.10**  ·  Nicolai Remberg **4.00**  ·  Shuto Machino **2.38**  ·  Sebastiaan Bornauw **9.00**  ·  Martin Adeline **3.00**  ·  Joel Agyekum **5.50**  ·  Zento Uno **4.00**
 
 ## Estadísticas de equipo
 | | Hamburger SV (total) | Hamburger SV en casa | Borussia Mönchengladbach (total) | Borussia Mönchengladbach fuera |
@@ -110,7 +110,8 @@ _Actualizadas: 03/11 14:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Hamburger SV:** B. Nadir (baja, Muscle Injury); N. Remberg (baja, Knee Injury); F. Vieira (baja, Thigh Injury); M. Vuskovic (baja, Doping); N. Capaldo (duda, Muscle Injury); Y. Poulsen (duda, Hip Injury); B. Nadir (baja, Muscle Injury); N. Remberg (baja, Knee Injury); F. Vieira (baja, Thigh Injury); M. Vuskovic (baja, Doping); N. Capaldo (duda, Muscle Injury); Y. Poulsen (duda, Hip Injury)
+**Borussia Mönchengladbach:** H. Bolin (baja, Muscle Injury); N. Kuhn (baja, Muscle Injury); E. Leopold (baja, Knee Injury); J. Leszczynski (baja, Knee Injury); K. Diks (duda, Personal Reasons); F. Fleck (duda, Muscle Injury); F. Honorat (duda, Muscle Injury); T. Kleindienst (duda, Muscle Injury); M. Nicolas (duda, Injury); H. Bolin (baja, Muscle Injury); N. Kuhn (baja, Muscle Injury); E. Leopold (baja, Knee Injury); J. Leszczynski (baja, Knee Injury); K. Diks (duda, Personal Reasons); F. Fleck (duda, Muscle Injury); F. Honorat (duda, Muscle Injury); T. Kleindienst (duda, Muscle Injury); M. Nicolas (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-17 · Bundesliga: Hamburger SV 0-0 Borussia Mönchengladbach
@@ -189,46 +190,44 @@ _Sin bajas comunicadas por ahora._
 | Tim Kleindienst | F | 3 | 219 | 0 | 0 | 4 | 1,3 | 1 | 0,3 | 8 | 1 | 0,3 | 2 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,54 · visitante 1,50 · córners esperados 9,4._
+_Goles esperados: local 1,54 · visitante 1,51 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 34% | 36% | 2.70 | -3% |
+| 1X2: 2 | 37% | 35% | 36% | 2.70 | -3% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 39% | 40% | 39% | 2.35 | -8% |
-| Doble oportunidad: X2 | 61% | 60% | 61% | 1.57 | -5% |
-| Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 63% | 66% | 64% | 1.44 | -7% |
+| 1X2: 1 | 39% | 39% | 39% | 2.38 | -7% |
+| Doble oportunidad: X2 | 61% | 60% | 60% | 1.57 | -5% |
+| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
+| Doble oportunidad: 1X | 63% | 67% | 65% | 1.40 | -9% |
 | Ambos marcan: No | 39% | 39% | 39% | 2.38 | -7% |
 | Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 59% | 59% | 1.62 | -5% |
 | Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -5% |
-| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -10% |
+| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles más/menos: Menos de 2.5 | 41% | 41% | 41% | 2.30 | -5% |
-| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
+| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -5% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -13% |
-| Goles del local: Más de 2.5 | 20% | 25% | 23% | 3.75 | -15% |
-| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -5% |
-| Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -4% |
-| Goles del local: Menos de 2.5 | 80% | 75% | 77% | 1.25 | -3% |
-| Goles del visitante: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 1.5 | 44% | 46% | 45% | 2.00 | -9% |
-| Goles del visitante: Más de 2.5 | 19% | 22% | 20% | 4.33 | -12% |
-| Goles del visitante: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles del visitante: Menos de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del visitante: Menos de 2.5 | 81% | 78% | 80% | 1.20 | -4% |
-| Córners más/menos: Más de 9.5 | 44% | 51% | 48% | 1.80 | -14% |
-| Córners más/menos: Menos de 9.5 | 56% | 49% | 52% | 1.91 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 73% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 27% | 3.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
+| Goles del local: Más de 0.5 | 79% | 78% | 78% | 1.20 | -6% |
+| Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
+| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Menos de 0.5 | 21% | 22% | 22% | 4.33 | -7% |
+| Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Goles del visitante: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles del visitante: Menos de 1.5 | 56% | 56% | 56% | 1.67 | -7% |
+| Córners más/menos: Más de 9.5 | 44% | 53% | 48% | 1.80 | -13% |
+| Córners más/menos: Menos de 9.5 | 56% | 47% | 52% | 2.00 | +3% |
 | 1X2 descanso: 2 | 30% | 29% | 29% | 3.20 | -6% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -7% |
+| 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -7% |
 | 1X2 descanso: 1 | 31% | 32% | 31% | 2.88 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # FC Andorra – Mallorca
 **Segunda División** · Regular Season - 13 · 08/11/2026 14:00 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

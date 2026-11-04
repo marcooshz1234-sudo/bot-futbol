@@ -1,7 +1,7 @@
 # RB Leipzig – FC Augsburg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -192,16 +192,16 @@ _Sin bajas comunicadas por ahora._
 | K. Schlotterbeck | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 2 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,99 · visitante 1,66 · córners esperados 10,4._
+_Goles esperados: local 2,98 · visitante 1,66 · córners esperados 10,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 17% | 18% | 5.50 | -1% |
+| 1X2: 2 | 19% | 17% | 18% | 5.50 | +0% |
 | 1X2: X | 16% | 20% | 18% | 4.75 | -15% |
-| 1X2: 1 | 65% | 63% | 64% | 1.48 | -5% |
-| Doble oportunidad: X2 | 35% | 36% | 36% | 2.62 | -6% |
+| 1X2: 1 | 64% | 63% | 64% | 1.48 | -5% |
+| Doble oportunidad: X2 | 36% | 36% | 36% | 2.62 | -6% |
 | Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -6% |
+| Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -7% |
 | Ambos marcan: No | 23% | 34% | 28% | 2.75 | -22% |
 | Ambos marcan: Sí | 77% | 66% | 72% | 1.40 | +0% |
 | Goles más/menos: Más de 2.5 | 84% | 75% | 79% | 1.28 | +2% |
@@ -210,22 +210,22 @@ _Goles esperados: local 2,99 · visitante 1,66 · córners esperados 10,4._
 | Goles más/menos: Más de 5.5 | 32% | 22% | 27% | 4.33 | +17% |
 | Goles más/menos: Menos de 2.5 | 16% | 25% | 21% | 3.75 | -23% |
 | Goles más/menos: Menos de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Menos de 4.5 | 50% | 64% | 57% | 1.50 | -15% |
+| Goles más/menos: Menos de 4.5 | 50% | 64% | 57% | 1.50 | -14% |
 | Goles más/menos: Menos de 5.5 | 68% | 78% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 60% | 51% | 56% | 1.80 | +1% |
 | Goles 1ª parte más/menos: Más de 2.5 | 33% | 27% | 30% | 3.50 | +5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 67% | 73% | 70% | 1.28 | -10% |
 | Goles del local: Más de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 2.5 | 58% | 50% | 54% | 1.83 | -2% |
-| Goles del local: Más de 3.5 | 35% | 28% | 31% | 3.40 | +7% |
+| Goles del local: Más de 2.5 | 57% | 50% | 54% | 1.83 | -2% |
+| Goles del local: Más de 3.5 | 35% | 28% | 31% | 3.40 | +6% |
 | Goles del local: Menos de 1.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 2.5 | 42% | 50% | 46% | 1.83 | -15% |
+| Goles del local: Menos de 2.5 | 43% | 50% | 46% | 1.83 | -15% |
 | Goles del local: Menos de 3.5 | 65% | 72% | 69% | 1.30 | -11% |
 | Goles del visitante: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
-| Goles del visitante: Más de 1.5 ✅ | 49% | 38% | 43% | 2.50 | +9% |
+| Goles del visitante: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +9% |
 | Goles del visitante: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
-| Goles del visitante: Menos de 1.5 | 51% | 62% | 57% | 1.50 | -15% |
+| Goles del visitante: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -15% |
 | Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -11% |
 | Córners más/menos: Menos de 10.5 | 56% | 51% | 54% | 1.80 | -4% |
 | 1X2 descanso: X | 29% | 32% | 30% | 2.88 | -13% |

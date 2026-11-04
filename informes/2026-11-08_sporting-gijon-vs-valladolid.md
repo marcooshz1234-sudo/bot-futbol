@@ -1,7 +1,7 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -188,28 +188,28 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 30% | 28% | 29% | 3.25 | -6% |
 | 1X2: X | 27% | 29% | 28% | 3.20 | -10% |
 | 1X2: 1 | 43% | 43% | 43% | 2.15 | -8% |
-| Doble oportunidad: X2 | 57% | 57% | 57% | 1.67 | -5% |
+| Doble oportunidad: X2 | 57% | 57% | 57% | 1.67 | -4% |
 | Doble oportunidad: 12 | 73% | 70% | 72% | 1.36 | -3% |
 | Doble oportunidad: 1X | 70% | 72% | 71% | 1.33 | -5% |
 | Ambos marcan: No | 52% | 50% | 51% | 1.83 | -7% |
 | Ambos marcan: Sí | 48% | 50% | 49% | 1.83 | -10% |
 | Goles más/menos: Más de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles más/menos: Más de 2.5 | 43% | 46% | 45% | 2.05 | -8% |
+| Goles más/menos: Más de 2.5 | 43% | 46% | 45% | 2.05 | -9% |
 | Goles más/menos: Más de 3.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles más/menos: Menos de 1.5 | 31% | 29% | 30% | 3.25 | -3% |
 | Goles más/menos: Menos de 2.5 | 57% | 54% | 55% | 1.75 | -3% |
 | Goles más/menos: Menos de 3.5 | 78% | 73% | 75% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
 | Goles del local: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles del local: Más de 1.5 | 39% | 42% | 41% | 2.20 | -11% |
 | Goles del local: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
 | Goles del local: Menos de 1.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles del visitante: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles del visitante: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles del visitante: Más de 1.5 | 29% | 31% | 30% | 3.00 | -10% |
-| Goles del visitante: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles del visitante: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -6% |
 | Goles del visitante: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
 | 1X2 descanso: 2 | 23% | 24% | 24% | 3.75 | -10% |
 | 1X2 descanso: X | 45% | 44% | 44% | 2.10 | -7% |

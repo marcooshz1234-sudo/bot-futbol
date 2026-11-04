@@ -1,7 +1,7 @@
 # Nottingham Forest – Manchester City
 **Premier League** · Regular Season - 10 · 07/11/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -178,39 +178,39 @@ _Sin bajas comunicadas por ahora._
 | Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,98 · visitante 1,65 · córners esperados 9,5._
+_Goles esperados: local 0,98 · visitante 1,68 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 53% | 55% | 54% | 1.67 | -10% |
-| 1X2: X | 24% | 24% | 24% | 3.90 | -6% |
-| 1X2: 1 | 22% | 21% | 22% | 4.33 | -5% |
-| Doble oportunidad: X2 | 78% | 79% | 79% | 1.20 | -6% |
+| 1X2: 2 | 54% | 55% | 55% | 1.67 | -9% |
+| 1X2: X | 24% | 24% | 24% | 3.90 | -7% |
+| 1X2: 1 | 22% | 21% | 22% | 4.33 | -7% |
+| Doble oportunidad: X2 | 78% | 79% | 79% | 1.20 | -5% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 47% | 44% | 46% | 2.15 | -2% |
+| Doble oportunidad: 1X | 46% | 44% | 45% | 2.15 | -3% |
 | Ambos marcan: No | 49% | 42% | 46% | 2.20 | +1% |
 | Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
-| Goles más/menos: Más de 1.5 | 74% | 79% | 76% | 1.20 | -8% |
-| Goles más/menos: Más de 2.5 | 49% | 59% | 54% | 1.62 | -13% |
-| Goles más/menos: Más de 3.5 | 27% | 38% | 33% | 2.50 | -19% |
-| Goles más/menos: Más de 4.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles más/menos: Menos de 1.5 | 26% | 21% | 24% | 4.50 | +6% |
-| Goles más/menos: Menos de 2.5 ✅ | 51% | 41% | 46% | 2.30 | +6% |
-| Goles más/menos: Menos de 3.5 | 73% | 62% | 67% | 1.53 | +3% |
+| Goles más/menos: Más de 1.5 | 74% | 79% | 77% | 1.20 | -8% |
+| Goles más/menos: Más de 2.5 | 50% | 59% | 54% | 1.62 | -12% |
+| Goles más/menos: Más de 3.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles más/menos: Más de 4.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles más/menos: Menos de 1.5 | 26% | 21% | 23% | 4.50 | +5% |
+| Goles más/menos: Menos de 2.5 | 50% | 41% | 46% | 2.30 | +5% |
+| Goles más/menos: Menos de 3.5 | 72% | 62% | 67% | 1.53 | +3% |
 | Goles más/menos: Menos de 4.5 | 87% | 79% | 83% | 1.20 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
-| Goles del local: Más de 0.5 | 63% | 66% | 64% | 1.40 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 59% | 63% | 1.57 | -1% |
+| Goles del local: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles del local: Más de 1.5 | 26% | 31% | 28% | 3.00 | -15% |
-| Goles del local: Menos de 0.5 | 37% | 34% | 36% | 2.75 | -2% |
+| Goles del local: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -2% |
 | Goles del local: Menos de 1.5 | 74% | 69% | 72% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 49% | 58% | 53% | 1.62 | -13% |
-| Goles del visitante: Más de 2.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles del visitante: Menos de 1.5 | 51% | 42% | 47% | 2.20 | +2% |
-| Goles del visitante: Menos de 2.5 | 77% | 69% | 73% | 1.36 | -1% |
-| 1X2 descanso: 2 | 38% | 42% | 40% | 2.20 | -12% |
+| Goles del visitante: Más de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
+| Goles del visitante: Más de 2.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles del visitante: Menos de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
+| Goles del visitante: Menos de 2.5 | 76% | 69% | 73% | 1.36 | -1% |
+| 1X2 descanso: 2 | 39% | 42% | 40% | 2.20 | -11% |
 | 1X2 descanso: X | 42% | 39% | 40% | 2.40 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

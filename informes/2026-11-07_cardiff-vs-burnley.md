@@ -1,7 +1,7 @@
 # Cardiff – Burnley
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Cardiff (total) | Cardiff en casa | Burnley (total) | Burnley fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 15 | 7 |
-| Forma (últimos 5) | DVEVD | VVVEE | EDDEV | DVDED |
-| Balance | 4V 5E 6D | 4V 3E 1D | 1V 8E 6D | 1V 2E 4D |
-| Goles a favor / partido | 1,53 | 2,12 | 1,20 | 1,29 |
-| Goles en contra / partido | 1,60 | 1,25 | 1,73 | 2,14 |
-| Goles a favor 1ª parte | 1,00 | 1,38 | 0,67 | 1,00 |
-| Goles a favor 2ª parte | 0,53 | 0,75 | 0,53 | 0,29 |
-| Goles en contra 1ª parte | 0,93 | 0,88 | 0,73 | 1,00 |
-| Goles en contra 2ª parte | 0,67 | 0,38 | 1,00 | 1,14 |
-| Más de 1,5 goles | 87% | 88% | 87% | 86% |
-| Más de 2,5 goles | 67% | 62% | 60% | 71% |
-| Más de 3,5 goles | 40% | 50% | 47% | 71% |
-| Ambos marcan | 73% | 88% | 80% | 71% |
-| Portería a cero | 7% | 12% | 20% | 29% |
-| Se queda sin marcar | 20% | 0% | 13% | 14% |
-| xG a favor | 1,81 | 2,46 | 1,40 | 1,71 |
-| xG en contra | 1,55 | 1,18 | 1,56 | 1,71 |
-| Tiros / partido | 16,1 | 19,2 | 14,5 | 16,0 |
-| Tiros a puerta / partido | 5,8 | 6,1 | 4,2 | 5,0 |
-| Tiros recibidos | 14,0 | 10,9 | 13,6 | 15,7 |
-| Tiros a puerta recibidos | 4,9 | 3,5 | 4,7 | 5,9 |
-| Posesión media % | 61 | 63 | 51 | 52 |
-| Córners a favor | 6,5 | 6,9 | 5,3 | 6,0 |
-| Córners en contra | 4,6 | 3,4 | 4,3 | 3,7 |
-| Córners a favor 1ª parte | 2,9 | 3,2 | 2,6 | 3,0 |
-| Córners a favor 2ª parte | 3,7 | 3,6 | 2,7 | 3,0 |
-| Córners totales del partido | 11,1 | 10,2 | 9,7 | 9,7 |
+| Partidos analizados | 15 | 8 | 16 | 8 |
+| Forma (últimos 5) | DVEVD | VVVEE | EEDDE | EDVDE |
+| Balance | 4V 5E 6D | 4V 3E 1D | 1V 9E 6D | 1V 3E 4D |
+| Goles a favor / partido | 1,53 | 2,12 | 1,19 | 1,25 |
+| Goles en contra / partido | 1,60 | 1,25 | 1,69 | 2,00 |
+| Goles a favor 1ª parte | 1,00 | 1,38 | 0,69 | 1,00 |
+| Goles a favor 2ª parte | 0,53 | 0,75 | 0,50 | 0,25 |
+| Goles en contra 1ª parte | 0,93 | 0,88 | 0,69 | 0,88 |
+| Goles en contra 2ª parte | 0,67 | 0,38 | 1,00 | 1,12 |
+| Más de 1,5 goles | 87% | 88% | 88% | 88% |
+| Más de 2,5 goles | 67% | 62% | 56% | 62% |
+| Más de 3,5 goles | 40% | 50% | 44% | 62% |
+| Ambos marcan | 73% | 88% | 81% | 75% |
+| Portería a cero | 7% | 12% | 19% | 25% |
+| Se queda sin marcar | 20% | 0% | 12% | 12% |
+| xG a favor | 1,81 | 2,46 | 1,32 | 1,52 |
+| xG en contra | 1,55 | 1,18 | 1,57 | 1,72 |
+| Tiros / partido | 16,1 | 19,2 | 13,8 | 14,5 |
+| Tiros a puerta / partido | 5,8 | 6,1 | 4,0 | 4,5 |
+| Tiros recibidos | 14,0 | 10,9 | 14,0 | 16,2 |
+| Tiros a puerta recibidos | 4,9 | 3,5 | 4,7 | 5,8 |
+| Posesión media % | 61 | 63 | 51 | 50 |
+| Córners a favor | 6,5 | 6,9 | 5,1 | 5,4 |
+| Córners en contra | 4,6 | 3,4 | 4,6 | 4,2 |
+| Córners a favor 1ª parte | 2,9 | 3,2 | 2,4 | 2,6 |
+| Córners a favor 2ª parte | 3,7 | 3,6 | 2,6 | 2,8 |
+| Córners totales del partido | 11,1 | 10,2 | 9,6 | 9,6 |
 | Córners totales 1ª parte | 4,9 | 5,1 | 4,3 | 4,1 |
-| Córners totales 2ª parte | 6,2 | 5,1 | 5,3 | 5,6 |
-| Más de 8,5 córners | 60% | 50% | 53% | 43% |
-| Más de 9,5 córners | 53% | 38% | 33% | 14% |
-| Más de 10,5 córners | 53% | 38% | 27% | 14% |
-| Faltas cometidas | 9,9 | 9,8 | 9,9 | 9,7 |
-| Faltas recibidas | 14,1 | 15,0 | 9,8 | 9,4 |
-| Amarillas propias | 1,9 | 1,9 | 1,7 | 1,4 |
-| Amarillas del rival | 2,1 | 2,0 | 1,8 | 1,7 |
-| Rojas / partido | 0,07 | 0,00 | 0,07 | 0,14 |
+| Córners totales 2ª parte | 6,2 | 5,1 | 5,3 | 5,5 |
+| Más de 8,5 córners | 60% | 50% | 56% | 50% |
+| Más de 9,5 córners | 53% | 38% | 31% | 12% |
+| Más de 10,5 córners | 53% | 38% | 25% | 12% |
+| Faltas cometidas | 9,9 | 9,8 | 9,8 | 9,4 |
+| Faltas recibidas | 14,1 | 15,0 | 9,5 | 8,9 |
+| Amarillas propias | 1,9 | 1,9 | 1,8 | 1,5 |
+| Amarillas del rival | 2,1 | 2,0 | 1,8 | 1,6 |
+| Rojas / partido | 0,07 | 0,00 | 0,06 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Cardiff | Recibe Cardiff | Tarjetas Cardiff | Goles Burnley | Recibe Burnley | Tarjetas Burnley |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 6 | 2 | 2 | 4 | 0 |
+| 1-15' | 3 | 6 | 2 | 2 | 4 | 1 |
 | 16-30' | 4 | 5 | 4 | 5 | 3 | 3 |
-| 31-45' | 8 | 3 | 6 | 3 | 4 | 3 |
+| 31-45' | 8 | 3 | 6 | 4 | 4 | 3 |
 | 46-60' | 1 | 5 | 5 | 5 | 5 | 2 |
-| 61-75' | 3 | 2 | 0 | 0 | 6 | 7 |
-| 76-90' | 4 | 3 | 13 | 3 | 4 | 11 |
+| 61-75' | 3 | 2 | 0 | 0 | 7 | 7 |
+| 76-90' | 4 | 3 | 13 | 3 | 4 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -107,38 +107,38 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Burnley
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Championship | QPR 1-1 Burnley | fuera | 1-8 | 4 (1) - 20 (5) | 2-1 |
 | 2026-10-31 | Championship | Burnley 0-0 Portsmouth | casa | 5-2 | 18 (4) - 5 (0) | 1-1 |
 | 2026-10-24 | Championship | Lincoln 4-1 Burnley | fuera | 5-2 | 8 (4) - 21 (7) | 1-1 |
 | 2026-10-16 | Championship | Burnley 1-2 Wolves | casa | 3-6 | 15 (4) - 20 (8) | 2-1 |
 | 2026-10-13 | Championship | Burnley 2-2 Charlton | casa | 7-7 | 18 (4) - 9 (5) | 2-1 |
 | 2026-10-10 | Championship | Watford 0-4 Burnley | fuera | 2-6 | 17 (8) - 14 (6) | –-– |
-| 2026-09-19 | Championship | Burnley 1-1 Derby | casa | 4-6 | 6 (2) - 17 (6) | 4-2 |
 
 ## Jugadores de Burnley
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Laurent | M | 14 | 1097 | 1 | 1 | 14 | 1,0 | 6 | 0,4 | 21 | 11 | 0,8 | 4 | 1 |
-| K. Walker | D | 13 | 1043 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 6 | 0,5 | 2 | 0 |
+| J. Laurent | M | 15 | 1187 | 1 | 1 | 15 | 1,0 | 6 | 0,4 | 23 | 11 | 0,7 | 5 | 1 |
+| K. Walker | D | 14 | 1133 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 6 | 6 | 0,4 | 2 | 0 |
 | Max Alleyne | M | 12 | 998 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 5 | 5 | 0,4 | 1 | 0 |
-| L. Ramazani | M | 10 | 729 | 2 | 1 | 17 | 1,7 | 5 | 0,5 | 14 | 9 | 0,9 | 0 | 0 |
+| L. Ramazani | M | 11 | 819 | 3 | 1 | 19 | 1,7 | 6 | 0,5 | 15 | 9 | 0,8 | 0 | 0 |
+| Lucas Pires | D | 12 | 802 | 0 | 4 | 7 | 0,6 | 1 | 0,1 | 8 | 5 | 0,4 | 2 | 0 |
+| Igor | D | 9 | 788 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 8 | 3 | 0,3 | 2 | 0 |
 | Max Weiss | G | 8 | 727 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Lucas Pires | D | 11 | 712 | 0 | 4 | 7 | 0,6 | 1 | 0,1 | 8 | 4 | 0,4 | 2 | 0 |
+| G. Coudert | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
 | J. Bruun Larsen | M | 11 | 711 | 2 | 2 | 9 | 0,8 | 6 | 0,5 | 1 | 6 | 0,5 | 0 | 0 |
-| Igor | D | 8 | 698 | 0 | 2 | 3 | 0,4 | 1 | 0,1 | 8 | 3 | 0,4 | 2 | 0 |
 | C. Roberts | D | 9 | 659 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 8 | 0,9 | 0 | 0 |
-| G. Coudert | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,3 | 1 | 0 |
 | U. Raghouber | M | 12 | 628 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 8 | 0,7 | 2 | 0 |
+| R. Hatate | M | 10 | 620 | 1 | 2 | 6 | 0,6 | 1 | 0,1 | 11 | 10 | 1,0 | 2 | 0 |
 | Zeki Amdouni | F | 11 | 617 | 3 | 1 | 18 | 1,6 | 8 | 0,7 | 11 | 8 | 0,7 | 0 | 0 |
-| O. Sonne | D | 10 | 591 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 6 | 3 | 0,3 | 1 | 0 |
+| H. Ekdal | D | 9 | 615 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 10 | 1,1 | 1 | 0 |
+| O. Sonne | D | 11 | 593 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 7 | 3 | 0,3 | 2 | 0 |
 | Anel Ahmedhodžić | D | 7 | 584 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 3 | 0,4 | 1 | 0 |
-| R. Hatate | M | 9 | 544 | 1 | 2 | 6 | 0,7 | 1 | 0,1 | 10 | 10 | 1,1 | 2 | 0 |
-| A. Ramsey | M | 9 | 543 | 1 | 0 | 11 | 1,2 | 3 | 0,3 | 6 | 4 | 0,4 | 1 | 0 |
-| H. Ekdal | D | 8 | 525 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 8 | 1,0 | 1 | 0 |
-| M. Edwards | M | 11 | 522 | 1 | 1 | 13 | 1,2 | 5 | 0,5 | 4 | 10 | 0,9 | 1 | 0 |
+| M. Edwards | M | 12 | 580 | 1 | 1 | 13 | 1,1 | 5 | 0,4 | 4 | 10 | 0,8 | 1 | 0 |
+| A. Ramsey | M | 10 | 575 | 1 | 0 | 11 | 1,1 | 3 | 0,3 | 6 | 4 | 0,4 | 1 | 0 |
 | D. Satpaev | M | 7 | 388 | 0 | 0 | 7 | 1,0 | 4 | 0,6 | 2 | 4 | 0,6 | 0 | 0 |
-| Hannibal Mejbri | M | 7 | 358 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 8 | 1,1 | 1 | 0 |
+| A. Hountondji | M | 9 | 362 | 1 | 0 | 10 | 1,1 | 5 | 0,6 | 2 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,01 · visitante 1,40 · córners esperados 9,9._
+_Goles esperados: local 2,00 · visitante 1,37 · córners esperados 9,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

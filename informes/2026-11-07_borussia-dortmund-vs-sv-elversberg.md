@@ -1,7 +1,7 @@
 # Borussia Dortmund – SV Elversberg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -189,42 +189,42 @@ _Sin precedentes recientes._
 | N. Mickelson | D | 5 | 79 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,06 · visitante 0,93 · córners esperados 10,9._
+_Goles esperados: local 2,05 · visitante 0,95 · córners esperados 10,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 16% | 11% | 14% | 8.50 | +15% |
-| 1X2: X | 20% | 16% | 18% | 5.75 | +5% |
-| 1X2: 1 | 63% | 73% | 68% | 1.27 | -13% |
-| Doble oportunidad: X2 | 37% | 26% | 31% | 3.75 | +17% |
-| Doble oportunidad: 12 | 80% | 85% | 82% | 1.14 | -6% |
-| Doble oportunidad: 1X | 84% | 89% | 87% | 1.08 | -6% |
-| Ambos marcan: No | 47% | 42% | 45% | 2.20 | -2% |
-| Ambos marcan: Sí | 53% | 58% | 55% | 1.62 | -10% |
+| 1X2: 2 | 17% | 11% | 14% | 8.50 | +17% |
+| 1X2: X | 21% | 16% | 18% | 5.75 | +5% |
+| 1X2: 1 | 63% | 73% | 68% | 1.27 | -14% |
+| Doble oportunidad: X2 | 37% | 26% | 31% | 3.75 | +18% |
+| Doble oportunidad: 12 | 79% | 85% | 82% | 1.14 | -6% |
+| Doble oportunidad: 1X | 83% | 89% | 86% | 1.08 | -7% |
+| Ambos marcan: No | 46% | 42% | 44% | 2.20 | -2% |
+| Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -10% |
 | Goles más/menos: Más de 2.5 | 58% | 72% | 65% | 1.33 | -14% |
 | Goles más/menos: Más de 3.5 | 35% | 53% | 44% | 1.80 | -21% |
-| Goles más/menos: Más de 4.5 | 18% | 34% | 26% | 2.75 | -27% |
+| Goles más/menos: Más de 4.5 | 19% | 34% | 26% | 2.75 | -27% |
 | Goles más/menos: Más de 5.5 | 8% | 21% | 15% | 4.50 | -34% |
-| Goles más/menos: Menos de 2.5 ✅ | 42% | 28% | 35% | 3.40 | +20% |
+| Goles más/menos: Menos de 2.5 ✅ | 42% | 28% | 35% | 3.40 | +19% |
 | Goles más/menos: Menos de 3.5 | 65% | 47% | 56% | 2.00 | +12% |
-| Goles más/menos: Menos de 4.5 | 82% | 66% | 74% | 1.44 | +6% |
+| Goles más/menos: Menos de 4.5 | 81% | 66% | 74% | 1.44 | +6% |
 | Goles más/menos: Menos de 5.5 | 92% | 79% | 85% | 1.20 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 50% | 44% | 1.83 | -20% |
-| Goles 1ª parte más/menos: Más de 2.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 15% | 25% | 20% | 3.75 | -26% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 86% | 75% | 80% | 1.25 | +0% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 75% | 80% | 1.25 | +0% |
 | Goles del local: Más de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
 | Goles del local: Más de 2.5 | 34% | 54% | 44% | 1.73 | -24% |
 | Goles del local: Más de 3.5 | 15% | 31% | 23% | 3.00 | -30% |
 | Goles del local: Menos de 1.5 ✅ | 39% | 23% | 31% | 4.00 | +25% |
-| Goles del local: Menos de 2.5 | 66% | 46% | 56% | 2.00 | +12% |
+| Goles del local: Menos de 2.5 | 66% | 46% | 56% | 2.00 | +13% |
 | Goles del local: Menos de 3.5 | 85% | 69% | 77% | 1.36 | +4% |
-| Goles del visitante: Más de 0.5 | 61% | 62% | 62% | 1.50 | -8% |
-| Goles del visitante: Más de 1.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles del visitante: Menos de 0.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles del visitante: Menos de 1.5 | 76% | 73% | 75% | 1.28 | -5% |
+| Goles del visitante: Más de 0.5 | 61% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Más de 1.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles del visitante: Menos de 0.5 | 39% | 38% | 38% | 2.50 | -5% |
+| Goles del visitante: Menos de 1.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Córners más/menos: Más de 10.5 | 48% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 10.5 | 52% | 54% | 53% | 1.73 | -9% |
 | 1X2 descanso: X | 38% | 30% | 34% | 3.00 | +3% |

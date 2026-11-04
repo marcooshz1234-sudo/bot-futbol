@@ -1,10 +1,10 @@
 # Castellón – Eibar
-**Segunda División** · Regular Season - 13 · 06/11/2026 20:30 (hora España) · Estadio Municipal de Castalia
+**Segunda División** · Regular Season - 13 · 06/11/2026 20:30 (hora España) · Estadio Municipal Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 14:07_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **1.57**  ·  X **3.90**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.30**
@@ -187,8 +187,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 18% | 19% | 5.25 | -1% |
 | 1X2: X | 23% | 24% | 24% | 3.90 | -8% |
-| 1X2: 1 | 57% | 59% | 58% | 1.57 | -10% |
-| Doble oportunidad: X2 | 43% | 42% | 43% | 2.30 | -2% |
+| 1X2: 1 | 56% | 59% | 58% | 1.57 | -10% |
+| Doble oportunidad: X2 | 44% | 42% | 43% | 2.30 | -2% |
 | Doble oportunidad: 12 | 77% | 77% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 80% | 82% | 81% | 1.17 | -5% |
 | Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
@@ -200,8 +200,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 41% | 37% | 2.25 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 59% | 63% | 1.57 | -1% |
 | Goles del local: Más de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
 | Goles del local: Más de 2.5 | 26% | 35% | 31% | 2.62 | -20% |

@@ -1,7 +1,7 @@
 # Monza – Atalanta
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -205,17 +205,17 @@ _Goles esperados: local 1,76 · visitante 1,48 · córners esperados 9,6._
 | Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Más de 3.5 | 41% | 40% | 40% | 2.38 | -4% |
 | Goles más/menos: Más de 4.5 | 23% | 22% | 22% | 4.33 | -3% |
-| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -8% |
+| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -9% |
 | Goles más/menos: Menos de 3.5 | 59% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 77% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Más de 0.5 | 83% | 73% | 78% | 1.28 | -0% |
-| Goles del local: Más de 1.5 ✅ | 52% | 39% | 46% | 2.38 | +9% |
+| Goles del local: Más de 1.5 ✅ | 53% | 39% | 46% | 2.38 | +9% |
 | Goles del local: Menos de 0.5 | 17% | 27% | 22% | 3.50 | -23% |
-| Goles del local: Menos de 1.5 | 48% | 61% | 54% | 1.53 | -17% |
+| Goles del local: Menos de 1.5 | 47% | 61% | 54% | 1.53 | -17% |
 | Goles del visitante: Más de 1.5 | 44% | 54% | 49% | 1.73 | -16% |
 | Goles del visitante: Más de 2.5 | 19% | 28% | 23% | 3.40 | -21% |
 | Goles del visitante: Menos de 1.5 | 56% | 46% | 51% | 2.00 | +3% |

@@ -1,7 +1,7 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:08_
@@ -196,7 +196,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 65% | 61% | 63% | 1.53 | -3% |
-| 1X2: X | 24% | 23% | 23% | 4.10 | -5% |
+| 1X2: X | 24% | 23% | 23% | 4.10 | -4% |
 | 1X2: 1 | 11% | 16% | 14% | 5.75 | -22% |
 | Doble oportunidad: X2 | 89% | 85% | 87% | 1.12 | -3% |
 | Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
@@ -206,7 +206,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 62% | 75% | 69% | 1.25 | -14% |
 | Goles más/menos: Más de 2.5 | 35% | 53% | 44% | 1.80 | -21% |
 | Goles más/menos: Más de 3.5 | 16% | 31% | 24% | 3.00 | -29% |
-| Goles más/menos: Menos de 1.5 | 38% | 25% | 31% | 3.75 | +17% |
+| Goles más/menos: Menos de 1.5 | 38% | 25% | 31% | 3.75 | +18% |
 | Goles más/menos: Menos de 2.5 | 65% | 47% | 56% | 2.00 | +12% |
 | Goles más/menos: Menos de 3.5 | 84% | 69% | 76% | 1.36 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
@@ -219,7 +219,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 91% | 77% | 84% | 1.22 | +2% |
 | Goles del visitante: Más de 1.5 | 48% | 59% | 54% | 1.57 | -16% |
 | Goles del visitante: Más de 2.5 | 22% | 34% | 28% | 2.75 | -23% |
-| Goles del visitante: Menos de 1.5 | 52% | 41% | 46% | 2.25 | +4% |
+| Goles del visitante: Menos de 1.5 | 52% | 41% | 46% | 2.25 | +5% |
 | Goles del visitante: Menos de 2.5 | 78% | 66% | 72% | 1.40 | +1% |
 | Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |

@@ -1,7 +1,7 @@
 # Real Sociedad – Rayo Vallecano
 **LaLiga** · Regular Season - 12 · 08/11/2026 16:15 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -189,21 +189,21 @@ _Sin bajas comunicadas por ahora._
 | Isi Palazón | M | 5 | 199 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 2 | 5 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,19 · visitante 1,50 · córners esperados 10,8._
+_Goles esperados: local 2,17 · visitante 1,50 · córners esperados 10,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 20% | 23% | 4.75 | +9% |
-| 1X2: X | 20% | 24% | 22% | 3.90 | -13% |
+| 1X2: 2 | 26% | 20% | 23% | 4.75 | +10% |
+| 1X2: X | 21% | 24% | 22% | 3.90 | -13% |
 | 1X2: 1 | 53% | 56% | 55% | 1.67 | -9% |
-| Doble oportunidad: X2 | 47% | 44% | 45% | 2.15 | -2% |
-| Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
+| Doble oportunidad: X2 | 47% | 44% | 46% | 2.15 | -2% |
+| Doble oportunidad: 12 | 79% | 76% | 78% | 1.25 | -3% |
 | Doble oportunidad: 1X | 74% | 80% | 77% | 1.18 | -9% |
 | Ambos marcan: No | 31% | 44% | 38% | 2.10 | -21% |
 | Ambos marcan: Sí | 69% | 56% | 62% | 1.67 | +4% |
 | Goles más/menos: Más de 1.5 | 88% | 79% | 84% | 1.20 | +0% |
 | Goles más/menos: Más de 2.5 | 71% | 59% | 65% | 1.62 | +5% |
-| Goles más/menos: Más de 3.5 ✅ | 50% | 36% | 43% | 2.62 | +14% |
+| Goles más/menos: Más de 3.5 ✅ | 50% | 36% | 43% | 2.62 | +13% |
 | Goles más/menos: Más de 4.5 | 31% | 21% | 26% | 4.50 | +17% |
 | Goles más/menos: Menos de 1.5 | 12% | 21% | 16% | 4.50 | -26% |
 | Goles más/menos: Menos de 2.5 | 29% | 41% | 35% | 2.30 | -19% |
@@ -213,10 +213,10 @@ _Goles esperados: local 2,19 · visitante 1,50 · córners esperados 10,8._
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 28% | 24% | 3.40 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
-| Goles del local: Más de 1.5 | 64% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 2.5 | 37% | 31% | 34% | 3.00 | +3% |
+| Goles del local: Más de 1.5 | 64% | 58% | 61% | 1.62 | -2% |
+| Goles del local: Más de 2.5 | 37% | 31% | 34% | 3.00 | +2% |
 | Goles del local: Menos de 1.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles del local: Menos de 2.5 | 63% | 69% | 66% | 1.36 | -11% |
+| Goles del local: Menos de 2.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles del visitante: Más de 0.5 | 78% | 66% | 72% | 1.40 | +1% |
 | Goles del visitante: Más de 1.5 ✅ | 44% | 31% | 38% | 3.00 | +13% |
 | Goles del visitante: Menos de 0.5 | 22% | 34% | 28% | 2.75 | -23% |
@@ -224,6 +224,6 @@ _Goles esperados: local 2,19 · visitante 1,50 · córners esperados 10,8._
 | Córners más/menos: Más de 10.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 10.5 | 53% | 54% | 53% | 1.73 | -8% |
 | 1X2 descanso: X | 35% | 39% | 37% | 2.40 | -12% |
-| 1X2 descanso: 1 | 41% | 42% | 42% | 2.20 | -8% |
+| 1X2 descanso: 1 | 41% | 42% | 42% | 2.20 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

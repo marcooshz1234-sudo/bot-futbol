@@ -1,7 +1,7 @@
 # Las Palmas – Eldense
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -198,13 +198,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 75% | 66% | 71% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
 | Goles del local: Más de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
 | Goles del local: Más de 2.5 | 16% | 23% | 20% | 4.00 | -21% |
 | Goles del local: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles del local: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
+| Goles del local: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +1% |
 | Goles del local: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
 | Goles del visitante: Más de 0.5 | 68% | 71% | 70% | 1.33 | -8% |
 | Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |

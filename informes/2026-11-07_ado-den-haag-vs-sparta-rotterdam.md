@@ -1,7 +1,7 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 14:07_
@@ -190,45 +190,45 @@ _Sin bajas comunicadas por ahora._
 | Joel Ideho | F | 6 | 143 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 1 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,71 · córners esperados 9,9._
+_Goles esperados: local 1,56 · visitante 1,72 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 33% | 38% | 2.80 | +5% |
-| 1X2: X | 23% | 26% | 25% | 3.60 | -12% |
+| 1X2: X | 23% | 26% | 24% | 3.60 | -12% |
 | 1X2: 1 | 35% | 41% | 38% | 2.30 | -13% |
 | Doble oportunidad: X2 | 65% | 60% | 62% | 1.57 | -2% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 58% | 67% | 63% | 1.40 | -12% |
 | Ambos marcan: No | 35% | 38% | 36% | 2.50 | -9% |
 | Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -5% |
-| Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
-| Goles más/menos: Más de 3.5 | 41% | 39% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 3.5 | 42% | 39% | 40% | 2.38 | -4% |
 | Goles más/menos: Más de 4.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.35 | -10% |
-| Goles más/menos: Menos de 3.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Goles más/menos: Menos de 4.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
+| Goles más/menos: Menos de 2.5 | 36% | 40% | 38% | 2.35 | -10% |
+| Goles más/menos: Menos de 3.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Goles más/menos: Menos de 4.5 | 77% | 77% | 77% | 1.22 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 42% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
 | Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -15% |
+| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
 | Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -3% |
+| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Goles del visitante: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
 | Goles del visitante: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
-| Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +2% |
+| Goles del visitante: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
 | Goles del visitante: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
 | Goles del visitante: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles del visitante: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -13% |
+| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -2% |
-| 1X2 descanso: 2 | 33% | 29% | 31% | 3.20 | -1% |
+| 1X2 descanso: 2 | 33% | 29% | 31% | 3.20 | -0% |
 | 1X2 descanso: X | 38% | 39% | 38% | 2.40 | -8% |
 | 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |
 

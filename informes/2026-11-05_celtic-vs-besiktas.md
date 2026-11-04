@@ -1,49 +1,50 @@
 # Celtic – Beşiktaş
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Celtic Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 19:59_
+_Actualizadas: 04/11 02:09_
 
 - **1X2:** 1 **3.10**  ·  X **3.70**  ·  2 **2.15**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.36**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.30** · menos **1.62**
-    - 4,5: más **4.33** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
+    - 4,5: más **4.00** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.95** · menos **1.85**
+    - 10,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.40**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.91**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.75**
 - **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **17.00**  ·  Away/No **4.33**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **17.00**  ·  Away/No **4.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
@@ -56,14 +57,15 @@ _Actualizadas: 03/11 19:59_
     - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 9,5: más **2.00** · menos **1.73**
-- **ShotOnTarget 1x2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.73**
+    - 10,5: más **1.91** · menos **1.80**
+- **ShotOnTarget 1x2:** 1 **2.60**  ·  X **8.00**  ·  2 **1.67**
 - **Total Shots:**
     - 23,5: más **1.83** · menos **1.83**
     - 24,5: más **1.83** · menos **1.83**
     - 27,5: más **1.91** · menos **1.80**
-- **Shots.1x2:** 1 **2.25**  ·  X **15.00**  ·  2 **1.67**
+- **Shots.1x2:** 1 **2.20**  ·  X **15.00**  ·  2 **1.67**
 - **Home Player Shots On Target Total:** Mvula Lotomba - 1 **3.40**  ·  Mvula Lotomba - 2 **17.00**  ·  Callum Osmand - 1 **1.57**  ·  Joao Pedro Jota - 1 **1.57**  ·  Alex Oxlade-Chamberlain - 1 **2.10**  ·  Callum McGregor - 1 **3.00**  ·  Luke McCowan - 1 **1.67**  ·  Hyun-Jun Yang - 1 **1.83**  ·  James Forrest - 1 **1.83**  ·  Sean McArdle - 1 **1.83**  ·  Kieran Tierney - 1 **3.00**  ·  Dane Murray - 1 **3.75**  ·  Colby Donovan - 1 **3.75**  ·  Liam Scales - 1 **3.75**  ·  Auston Trusty - 1 **6.00**  ·  Anthony Ralston - 1 **7.00**  ·  Cameron Carter-Vickers - 1 **7.00**  ·  Benjamin Nygren - 2 **3.25**  ·  Camilo Duran - 2 **3.00**  ·  Kasper Hogh - 2 **2.75**  ·  Sebastian Tounekti - 2 **3.75**  ·  Callum Osmand - 2 **3.75**  ·  Joao Pedro Jota - 2 **3.75**  ·  Alex Oxlade-Chamberlain - 2 **7.00**  ·  Callum McGregor - 2 **13.00**  ·  Luke McCowan - 2 **4.33**  ·  Hyun-Jun Yang - 2 **6.00**  ·  James Forrest - 2 **6.00**  ·  Sean McArdle - 2 **6.00**  ·  Kieran Tierney - 2 **13.00**  ·  Dane Murray - 2 **21.00**  ·  Colby Donovan - 2 **21.00**  ·  Liam Scales - 2 **21.00**  ·  Benjamin Nygren - 3 **9.00**  ·  Camilo Duran - 3 **8.00**  ·  Kasper Hogh - 3 **7.00**  ·  Sebastian Tounekti - 3 **13.00**  ·  Callum Osmand - 3 **11.00**  ·  Joao Pedro Jota - 3 **11.00**  ·  Alex Oxlade-Chamberlain - 3 **21.00**  ·  Luke McCowan - 3 **13.00**  ·  Hyun-Jun Yang - 3 **21.00**  ·  James Forrest - 3 **21.00**  ·  Sean McArdle - 3 **21.00**  ·  Benjamin Nygren - 4 **21.00**  ·  Camilo Duran - 4 **21.00**  ·  Kasper Hogh - 4 **21.00**  ·  Camilo Duran - 1 **1.40**  ·  Benjamin Nygren - 1 **1.44**  ·  Kasper Hogh - 1 **1.40**  ·  Sebastian Tounekti - 1 **1.57**  ·  Oliver Sorensen - 1 **2.62**  ·  Oliver Sorensen - 2 **11.00**  ·  Joel van den Berg - 1 **2.62**  ·  Joel van den Berg - 2 **11.00**  ·  Shumaira Mheuka - 1 **1.44**  ·  Haissem Hassan - 1 **1.83**  ·  Liam Kennedy - 1 **1.83**  ·  Mika Baur - 1 **2.25**  ·  Shumaira Mheuka - 2 **3.25**  ·  Haissem Hassan - 2 **6.00**  ·  Liam Kennedy - 2 **6.00**  ·  Mika Baur - 2 **9.00**  ·  Shumaira Mheuka - 3 **9.00**  ·  Haissem Hassan - 3 **21.00**  ·  Liam Kennedy - 3 **21.00**  ·  Shumaira Mheuka - 4 **21.00**  ·  Landon Emenalo - 1 **3.75**  ·  Landon Emenalo - 2 **21.00**  ·  Lucas Clearie - 1 **1.67**  ·  Lucas Clearie - 2 **4.33**  ·  Lucas Clearie - 3 **13.00**  ·  Joseph Haney - 1 **3.40**  ·  Joseph Haney - 2 **17.00**
-- **Away Player Shots On Target Total:** Callum McGregor **67.00**  ·  Liam Scales **17.00**  ·  Kassoum Ouattara **67.00**  ·  Landon Emenalo **26.00**  ·  Sean McArdle **21.00**  ·  Haissem Hassan **29.00**  ·  Vaclav Cerny **34.00**  ·  Milot Rashica **34.00**  ·  Oliver Sorensen **34.00**  ·  Benjamin Nygren **19.00**  ·  Emmanuel Agbadou **19.00**  ·  Orkun Kokcu **26.00**  ·  Semih Kilicsoy **19.00**  ·  Emirhan Topcu **15.00**  ·  James Forrest **21.00**  ·  Anthony Ralston **51.00**  ·  Callum Osmand **8.50**  ·  Joel van den Berg **34.00**  ·  Michael Murillo **51.00**  ·  Auston Trusty **21.00**  ·  Camilo Duran **17.00**  ·  Dane Murray **26.00**  ·  Joao Pedro Jota **29.00**  ·  Hyeon-gyu Oh **12.00**  ·  Kasper Hogh **6.50**  ·  Luke McCowan **34.00**  ·  Hyun-Jun Yang **15.00**  ·  Cameron Carter-Vickers **34.00**  ·  Mika Baur **51.00**  ·  Sebastian Tounekti **23.00**  ·  Mvula Lotomba **81.00**  ·  Ridvan Yilmaz **67.00**  ·  Colby Donovan **67.00**  ·  Salih Ozcan **51.00**  ·  Taylan Bulut **23.00**  ·  Kartal Yilmaz **67.00**  ·  Alex Oxlade-Chamberlain **41.00**  ·  Jean Onana **34.00**  ·  Yasin Ozcan **29.00**  ·  Ernest Poku **34.00**  ·  Tiago Djalo **11.00**  ·  Ilhan Fakili **34.00**  ·  Shumaira Mheuka **9.50**  ·  Liam Kennedy **9.00**  ·  Lucas Clearie **26.00**  ·  Leandro Trossard **51.00**  ·  Junior Olaitan **26.00**  ·  Dusan Vlahovic **8.50**  ·  Kieran Tierney **67.00**  ·  Onyinye Ndidi **26.00**
+- **Away Player Shots On Target Total:** Callum McGregor **67.00**  ·  Liam Scales **17.00**  ·  Kassoum Ouattara **67.00**  ·  Landon Emenalo **26.00**  ·  Sean McArdle **21.00**  ·  Haissem Hassan **26.00**  ·  Vaclav Cerny **29.00**  ·  Milot Rashica **34.00**  ·  Oliver Sorensen **29.00**  ·  Benjamin Nygren **19.00**  ·  Emmanuel Agbadou **19.00**  ·  Orkun Kokcu **23.00**  ·  Semih Kilicsoy **19.00**  ·  Emirhan Topcu **15.00**  ·  James Forrest **21.00**  ·  Anthony Ralston **51.00**  ·  Callum Osmand **8.00**  ·  Joel van den Berg **29.00**  ·  Michael Murillo **51.00**  ·  Auston Trusty **21.00**  ·  Camilo Duran **17.00**  ·  Dane Murray **26.00**  ·  Joao Pedro Jota **29.00**  ·  Hyeon-gyu Oh **12.00**  ·  Kasper Hogh **6.00**  ·  Luke McCowan **34.00**  ·  Hyun-Jun Yang **15.00**  ·  Cameron Carter-Vickers **34.00**  ·  Mika Baur **51.00**  ·  Sebastian Tounekti **21.00**  ·  Mvula Lotomba **81.00**  ·  Ridvan Yilmaz **67.00**  ·  Colby Donovan **67.00**  ·  Salih Ozcan **51.00**  ·  Taylan Bulut **26.00**  ·  Kartal Yilmaz **67.00**  ·  Alex Oxlade-Chamberlain **41.00**  ·  Jean Onana **34.00**  ·  Yasin Ozcan **29.00**  ·  Ernest Poku **34.00**  ·  Tiago Djalo **12.00**  ·  Ilhan Fakili **29.00**  ·  Shumaira Mheuka **9.50**  ·  Liam Kennedy **8.50**  ·  Lucas Clearie **23.00**  ·  Leandro Trossard **51.00**  ·  Junior Olaitan **26.00**  ·  Dusan Vlahovic **8.50**  ·  Kieran Tierney **67.00**  ·  Onyinye Ndidi **26.00**
 - **Away Player Shots Total:**
     - 12,5: más **1.80** · menos **1.91**
     - 14,5: más **2.00** · menos **1.73**
@@ -72,7 +74,7 @@ _Actualizadas: 03/11 19:59_
 - **Player Fouls Committed:** Mvula Lotomba - 1 **1.40**  ·  Mvula Lotomba - 2 **2.75**  ·  Mvula Lotomba - 3 **7.00**  ·  Mvula Lotomba - 4 **19.00**  ·  Callum Osmand - 1 **1.36**  ·  Joao Pedro Jota - 1 **1.25**  ·  Alex Oxlade-Chamberlain - 1 **1.22**  ·  Callum McGregor - 1 **1.33**  ·  Luke McCowan - 1 **1.22**  ·  Hyun-Jun Yang - 1 **1.36**  ·  James Forrest - 1 **3.25**  ·  Sean McArdle - 1 **1.25**  ·  Kieran Tierney - 1 **1.22**  ·  Dane Murray - 1 **1.36**  ·  Colby Donovan - 1 **1.25**  ·  Liam Scales - 1 **1.33**  ·  Auston Trusty - 1 **1.50**  ·  Anthony Ralston - 1 **1.36**  ·  Cameron Carter-Vickers - 1 **1.36**  ·  Benjamin Nygren - 2 **1.83**  ·  Camilo Duran - 2 **3.50**  ·  Kasper Hogh - 2 **1.83**  ·  Sebastian Tounekti - 2 **2.75**  ·  Callum Osmand - 2 **2.62**  ·  Joao Pedro Jota - 2 **2.20**  ·  Alex Oxlade-Chamberlain - 2 **2.00**  ·  Callum McGregor - 2 **2.38**  ·  Luke McCowan - 2 **2.00**  ·  Hyun-Jun Yang - 2 **2.62**  ·  James Forrest - 2 **13.00**  ·  Sean McArdle - 2 **2.20**  ·  Kieran Tierney - 2 **2.00**  ·  Dane Murray - 2 **2.62**  ·  Colby Donovan - 2 **2.20**  ·  Liam Scales - 2 **2.38**  ·  Auston Trusty - 2 **3.40**  ·  Anthony Ralston - 2 **2.62**  ·  Cameron Carter-Vickers - 2 **2.62**  ·  Benjamin Nygren - 3 **3.75**  ·  Camilo Duran - 3 **10.00**  ·  Kasper Hogh - 3 **3.75**  ·  Sebastian Tounekti - 3 **7.00**  ·  Callum Osmand - 3 **6.50**  ·  Joao Pedro Jota - 3 **4.50**  ·  Alex Oxlade-Chamberlain - 3 **4.00**  ·  Callum McGregor - 3 **5.50**  ·  Luke McCowan - 3 **4.00**  ·  Hyun-Jun Yang - 3 **6.50**  ·  Sean McArdle - 3 **4.50**  ·  Kieran Tierney - 3 **4.00**  ·  Dane Murray - 3 **6.50**  ·  Colby Donovan - 3 **4.50**  ·  Liam Scales - 3 **5.50**  ·  Auston Trusty - 3 **9.00**  ·  Anthony Ralston - 3 **6.50**  ·  Cameron Carter-Vickers - 3 **6.50**  ·  Benjamin Nygren - 4 **9.00**  ·  Camilo Duran - 4 **26.00**  ·  Kasper Hogh - 4 **9.00**  ·  Sebastian Tounekti - 4 **19.00**  ·  Callum Osmand - 4 **17.00**  ·  Joao Pedro Jota - 4 **11.00**  ·  Alex Oxlade-Chamberlain - 4 **10.00**  ·  Callum McGregor - 4 **15.00**  ·  Luke McCowan - 4 **10.00**  ·  Hyun-Jun Yang - 4 **17.00**  ·  Sean McArdle - 4 **11.00**  ·  Kieran Tierney - 4 **10.00**  ·  Dane Murray - 4 **17.00**  ·  Colby Donovan - 4 **11.00**  ·  Liam Scales - 4 **15.00**  ·  Auston Trusty - 4 **23.00**  ·  Benjamin Nygren - 5 **19.00**  ·  Kasper Hogh - 5 **19.00**  ·  Joao Pedro Jota - 5 **26.00**  ·  Alex Oxlade-Chamberlain - 5 **23.00**  ·  Luke McCowan - 5 **23.00**  ·  Sean McArdle - 5 **26.00**  ·  Kieran Tierney - 5 **23.00**  ·  Camilo Duran - 1 **1.57**  ·  Benjamin Nygren - 1 **1.20**  ·  Kasper Hogh - 1 **1.20**  ·  Sebastian Tounekti - 1 **1.40**  ·  Orkun Kokcu - 1 **1.22**  ·  Vaclav Cerny - 1 **2.00**  ·  Hyeon-gyu Oh - 1 **1.44**  ·  Semih Kilicsoy - 1 **1.28**  ·  Leandro Trossard - 1 **1.80**  ·  Ilhan Fakili - 1 **1.44**  ·  Junior Olaitan - 1 **1.44**  ·  Kartal Yilmaz - 1 **1.62**  ·  Jean Onana - 1 **1.33**  ·  Onyinye Ndidi - 1 **1.17**  ·  Kassoum Ouattara - 1 **1.20**  ·  Salih Ozcan - 1 **1.17**  ·  Ridvan Yilmaz - 1 **1.62**  ·  Emirhan Topcu - 1 **1.44**  ·  Michael Murillo - 1 **1.36**  ·  Taylan Bulut - 1 **1.62**  ·  Tiago Djalo - 1 **1.33**  ·  Emmanuel Agbadou - 1 **1.62**  ·  Yasin Ozcan - 1 **1.62**  ·  Dusan Vlahovic - 2 **3.00**  ·  Orkun Kokcu - 2 **2.00**  ·  Vaclav Cerny - 2 **6.00**  ·  Hyeon-gyu Oh - 2 **3.00**  ·  Semih Kilicsoy - 2 **2.20**  ·  Leandro Trossard - 2 **4.50**  ·  Ilhan Fakili - 2 **3.00**  ·  Junior Olaitan - 2 **3.00**  ·  Kartal Yilmaz - 2 **3.75**  ·  Jean Onana - 2 **2.38**  ·  Onyinye Ndidi - 2 **1.80**  ·  Kassoum Ouattara - 2 **1.91**  ·  Salih Ozcan - 2 **1.80**  ·  Ridvan Yilmaz - 2 **4.00**  ·  Emirhan Topcu - 2 **3.00**  ·  Michael Murillo - 2 **2.62**  ·  Taylan Bulut - 2 **4.00**  ·  Tiago Djalo - 2 **2.50**  ·  Emmanuel Agbadou - 2 **3.75**  ·  Yasin Ozcan - 2 **4.00**  ·  Dusan Vlahovic - 3 **8.00**  ·  Orkun Kokcu - 3 **4.33**  ·  Vaclav Cerny - 3 **21.00**  ·  Hyeon-gyu Oh - 3 **8.00**  ·  Semih Kilicsoy - 3 **5.00**  ·  Leandro Trossard - 3 **15.00**  ·  Ilhan Fakili - 3 **8.00**  ·  Junior Olaitan - 3 **8.00**  ·  Kartal Yilmaz - 3 **11.00**  ·  Jean Onana - 3 **5.50**  ·  Onyinye Ndidi - 3 **3.40**  ·  Kassoum Ouattara - 3 **3.75**  ·  Salih Ozcan - 3 **3.40**  ·  Ridvan Yilmaz - 3 **11.00**  ·  Emirhan Topcu - 3 **8.00**  ·  Michael Murillo - 3 **6.50**  ·  Taylan Bulut - 3 **11.00**  ·  Tiago Djalo - 3 **6.00**  ·  Emmanuel Agbadou - 3 **11.00**  ·  Yasin Ozcan - 3 **11.00**  ·  Dusan Vlahovic - 4 **21.00**  ·  Orkun Kokcu - 4 **10.00**  ·  Hyeon-gyu Oh - 4 **21.00**  ·  Semih Kilicsoy - 4 **13.00**  ·  Ilhan Fakili - 4 **21.00**  ·  Junior Olaitan - 4 **21.00**  ·  Jean Onana - 4 **15.00**  ·  Onyinye Ndidi - 4 **8.00**  ·  Kassoum Ouattara - 4 **9.00**  ·  Salih Ozcan - 4 **8.00**  ·  Emirhan Topcu - 4 **21.00**  ·  Michael Murillo - 4 **17.00**  ·  Tiago Djalo - 4 **15.00**  ·  Orkun Kokcu - 5 **23.00**  ·  Semih Kilicsoy - 5 **26.00**  ·  Dusan Vlahovic - 1 **1.44**  ·  Oliver Sorensen - 1 **1.25**  ·  Oliver Sorensen - 2 **2.20**  ·  Oliver Sorensen - 3 **4.50**  ·  Oliver Sorensen - 4 **11.00**  ·  Joel van den Berg - 1 **1.36**  ·  Joel van den Berg - 2 **2.62**  ·  Joel van den Berg - 3 **6.50**  ·  Joel van den Berg - 4 **17.00**  ·  Onyinye Ndidi - 5 **17.00**  ·  Oliver Sorensen - 5 **26.00**  ·  Shumaira Mheuka - 1 **1.40**  ·  Haissem Hassan - 1 **1.62**  ·  Liam Kennedy - 1 **1.25**  ·  Mika Baur - 1 **1.36**  ·  Shumaira Mheuka - 2 **2.75**  ·  Haissem Hassan - 2 **3.75**  ·  Liam Kennedy - 2 **2.20**  ·  Mika Baur - 2 **2.62**  ·  Shumaira Mheuka - 3 **7.00**  ·  Haissem Hassan - 3 **11.00**  ·  Liam Kennedy - 3 **4.50**  ·  Mika Baur - 3 **6.50**  ·  Shumaira Mheuka - 4 **19.00**  ·  Liam Kennedy - 4 **11.00**  ·  Mika Baur - 4 **17.00**  ·  Liam Kennedy - 5 **26.00**  ·  Kassoum Ouattara - 5 **21.00**  ·  Salih Ozcan - 5 **17.00**  ·  Anthony Ralston - 4 **17.00**  ·  Cameron Carter-Vickers - 4 **17.00**  ·  Colby Donovan - 5 **26.00**  ·  Ernest Poku - 1 **1.73**  ·  Ernest Poku - 2 **4.33**  ·  Ernest Poku - 3 **13.00**  ·  Landon Emenalo - 1 **1.44**  ·  Landon Emenalo - 2 **3.25**  ·  Landon Emenalo - 3 **8.00**  ·  Landon Emenalo - 4 **21.00**  ·  Lucas Clearie - 1 **1.57**  ·  Lucas Clearie - 2 **3.50**  ·  Lucas Clearie - 3 **10.00**  ·  Lucas Clearie - 4 **26.00**  ·  Joseph Haney - 1 **1.36**  ·  Joseph Haney - 2 **2.62**  ·  Joseph Haney - 3 **6.50**  ·  Joseph Haney - 4 **17.00**
 - **Goalkeeper Saves:** Viljami Sinisalo - 2 **1.07**  ·  Viljami Sinisalo - 3 **1.25**  ·  Viljami Sinisalo - 4 **1.67**  ·  Viljami Sinisalo - 5 **2.50**  ·  Viljami Sinisalo - 6 **4.00**  ·  Viljami Sinisalo - 7 **8.00**  ·  Alexander Nubel - 3 **1.50**  ·  Alexander Nubel - 2 **1.14**  ·  Alexander Nubel - 4 **2.20**  ·  Alexander Nubel - 5 **3.75**  ·  Alexander Nubel - 6 **7.00**
 - **Anytime Goal Scorer:** Callum McGregor **7.00**  ·  Liam Scales **11.00**  ·  Kassoum Ouattara **7.00**  ·  Landon Emenalo **11.00**  ·  Sean McArdle **4.50**  ·  Haissem Hassan **4.50**  ·  Vaclav Cerny **3.60**  ·  Milot Rashica **4.00**  ·  Oliver Sorensen **7.00**  ·  Benjamin Nygren **2.88**  ·  Emmanuel Agbadou **9.50**  ·  Orkun Kokcu **2.75**  ·  Semih Kilicsoy **2.50**  ·  Emirhan Topcu **8.50**  ·  James Forrest **4.50**  ·  Anthony Ralston **21.00**  ·  Callum Osmand **3.40**  ·  Joel van den Berg **7.00**  ·  Michael Murillo **7.50**  ·  Auston Trusty **13.00**  ·  Camilo Duran **2.75**  ·  Dane Murray **11.00**  ·  Joao Pedro Jota **3.40**  ·  Umit Akdag **7.50**  ·  Hyeon-gyu Oh **2.50**  ·  Kasper Hogh **2.62**  ·  Luke McCowan **4.33**  ·  Hyun-Jun Yang **4.50**  ·  Cameron Carter-Vickers **21.00**  ·  Mika Baur **6.00**  ·  Sebastian Tounekti **4.00**  ·  Mvula Lotomba **8.50**  ·  Ridvan Yilmaz **7.50**  ·  Colby Donovan **11.00**  ·  Salih Ozcan **7.00**  ·  Taylan Bulut **7.50**  ·  Kartal Yilmaz **7.50**  ·  Alex Oxlade-Chamberlain **5.00**  ·  Jean Onana **6.50**  ·  Yasin Ozcan **9.50**  ·  Ernest Poku **4.33**  ·  Joseph Haney **8.50**  ·  Tiago Djalo **7.50**  ·  Ilhan Fakili **3.60**  ·  Shumaira Mheuka **2.88**  ·  Liam Kennedy **4.50**  ·  Lucas Clearie **4.33**  ·  Leandro Trossard **3.10**  ·  Junior Olaitan **4.33**  ·  Dusan Vlahovic **1.83**  ·  Kieran Tierney **7.00**  ·  Onyinye Ndidi **6.50**
-- **Player to Score or Assist:** Callum McGregor **4.33**  ·  Liam Scales **6.00**  ·  Kassoum Ouattara **3.50**  ·  Landon Emenalo **7.00**  ·  Sean McArdle **3.00**  ·  Haissem Hassan **2.75**  ·  Vaclav Cerny **2.25**  ·  Milot Rashica **2.30**  ·  Oliver Sorensen **4.00**  ·  Benjamin Nygren **2.20**  ·  Emmanuel Agbadou **5.50**  ·  Orkun Kokcu **1.91**  ·  Semih Kilicsoy **1.91**  ·  Emirhan Topcu **5.50**  ·  James Forrest **2.75**  ·  Anthony Ralston **6.00**  ·  Callum Osmand **2.50**  ·  Joel van den Berg **4.00**  ·  Michael Murillo **4.00**  ·  Auston Trusty **9.50**  ·  Camilo Duran **2.20**  ·  Dane Murray **7.50**  ·  Joao Pedro Jota **2.50**  ·  Umit Akdag **5.50**  ·  Hyeon-gyu Oh **2.00**  ·  Kasper Hogh **2.10**  ·  Luke McCowan **2.75**  ·  Hyun-Jun Yang **3.00**  ·  Cameron Carter-Vickers **15.00**  ·  Mika Baur **3.40**  ·  Sebastian Tounekti **2.40**  ·  Mvula Lotomba **4.33**  ·  Ridvan Yilmaz **4.33**  ·  Colby Donovan **4.50**  ·  Salih Ozcan **4.33**  ·  Taylan Bulut **4.33**  ·  Kartal Yilmaz **3.25**  ·  Alex Oxlade-Chamberlain **3.20**  ·  Jean Onana **3.20**  ·  Yasin Ozcan **6.00**  ·  Ernest Poku **2.38**  ·  Joseph Haney **4.00**  ·  Tiago Djalo **6.00**  ·  Ilhan Fakili **2.60**  ·  Shumaira Mheuka **2.20**  ·  Liam Kennedy **2.75**  ·  Lucas Clearie **3.00**  ·  Leandro Trossard **2.10**  ·  Junior Olaitan **2.40**  ·  Dusan Vlahovic **1.57**  ·  Kieran Tierney **3.40**  ·  Onyinye Ndidi **2.88**
+- **Player to Score or Assist:** Callum McGregor **4.33**  ·  Liam Scales **6.00**  ·  Kassoum Ouattara **3.50**  ·  Landon Emenalo **7.00**  ·  Sean McArdle **3.00**  ·  Haissem Hassan **2.75**  ·  Vaclav Cerny **2.20**  ·  Milot Rashica **2.30**  ·  Oliver Sorensen **4.00**  ·  Benjamin Nygren **2.10**  ·  Emmanuel Agbadou **5.50**  ·  Orkun Kokcu **1.91**  ·  Semih Kilicsoy **1.91**  ·  Emirhan Topcu **5.50**  ·  James Forrest **2.75**  ·  Anthony Ralston **6.00**  ·  Callum Osmand **2.50**  ·  Joel van den Berg **4.00**  ·  Michael Murillo **4.00**  ·  Auston Trusty **9.50**  ·  Camilo Duran **2.20**  ·  Dane Murray **7.50**  ·  Joao Pedro Jota **2.50**  ·  Umit Akdag **5.50**  ·  Hyeon-gyu Oh **2.00**  ·  Kasper Hogh **2.10**  ·  Luke McCowan **2.75**  ·  Hyun-Jun Yang **3.00**  ·  Cameron Carter-Vickers **15.00**  ·  Mika Baur **3.40**  ·  Sebastian Tounekti **2.40**  ·  Mvula Lotomba **4.33**  ·  Ridvan Yilmaz **4.33**  ·  Colby Donovan **4.50**  ·  Salih Ozcan **4.33**  ·  Taylan Bulut **4.33**  ·  Kartal Yilmaz **3.25**  ·  Alex Oxlade-Chamberlain **3.20**  ·  Jean Onana **3.20**  ·  Yasin Ozcan **6.00**  ·  Ernest Poku **2.38**  ·  Joseph Haney **4.00**  ·  Tiago Djalo **6.00**  ·  Ilhan Fakili **2.60**  ·  Shumaira Mheuka **2.20**  ·  Liam Kennedy **2.75**  ·  Lucas Clearie **3.00**  ·  Leandro Trossard **2.05**  ·  Junior Olaitan **2.40**  ·  Dusan Vlahovic **1.57**  ·  Kieran Tierney **3.40**  ·  Onyinye Ndidi **2.88**
 
 ## Estadísticas de equipo
 | | Celtic (total) | Celtic en casa | Beşiktaş (total) | Beşiktaş fuera |
@@ -202,42 +204,42 @@ _Sin precedentes recientes._
 | E. Poku | F | 1 | 20 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,61 · visitante 2,34 · córners esperados 9,5._
+_Goles esperados: local 0,63 · visitante 2,20 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 76% | 44% | 60% | 2.15 | +29% |
-| 1X2: X | 16% | 26% | 21% | 3.70 | -23% |
-| 1X2: 1 | 8% | 30% | 19% | 3.10 | -40% |
-| Doble oportunidad: X2 | 92% | 69% | 80% | 1.36 | +9% |
-| Doble oportunidad: 12 | 84% | 75% | 80% | 1.25 | -1% |
-| Doble oportunidad: 1X | 24% | 56% | 40% | 1.67 | -33% |
-| Ambos marcan: No | 59% | 38% | 48% | 2.50 | +20% |
-| Ambos marcan: Sí | 41% | 62% | 52% | 1.50 | -22% |
-| Goles más/menos: Más de 2.5 | 57% | 60% | 58% | 1.57 | -8% |
-| Goles más/menos: Más de 3.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Más de 4.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 2.5 | 43% | 40% | 42% | 2.38 | -1% |
-| Goles más/menos: Menos de 3.5 | 66% | 59% | 62% | 1.62 | +1% |
-| Goles más/menos: Menos de 4.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
-| Goles del local: Más de 0.5 | 46% | 75% | 60% | 1.25 | -24% |
-| Goles del local: Más de 1.5 | 13% | 41% | 27% | 2.25 | -40% |
-| Goles del local: Menos de 0.5 | 54% | 25% | 40% | 3.75 | +48% |
-| Goles del local: Menos de 1.5 | 87% | 59% | 73% | 1.57 | +15% |
-| Goles del visitante: Más de 1.5 | 68% | 51% | 60% | 1.80 | +7% |
-| Goles del visitante: Más de 2.5 | 41% | 27% | 34% | 3.50 | +19% |
-| Goles del visitante: Menos de 1.5 | 32% | 49% | 40% | 1.91 | -23% |
-| Goles del visitante: Menos de 2.5 | 59% | 73% | 66% | 1.28 | -16% |
-| Córners más/menos: Más de 10.5 | 37% | 49% | 43% | 1.95 | -16% |
-| Córners más/menos: Menos de 10.5 | 63% | 51% | 57% | 1.85 | +6% |
-| 1X2 descanso: 2 | 55% | 35% | 45% | 2.62 | +17% |
-| 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -11% |
-| 1X2 descanso: 1 | 10% | 27% | 18% | 3.40 | -38% |
+| 1X2: 2 | 73% | 44% | 59% | 2.15 | +26% |
+| 1X2: X | 17% | 26% | 21% | 3.70 | -21% |
+| 1X2: 1 | 9% | 30% | 20% | 3.10 | -38% |
+| Doble oportunidad: X2 | 91% | 70% | 80% | 1.36 | +9% |
+| Doble oportunidad: 12 | 83% | 74% | 78% | 1.28 | +0% |
+| Doble oportunidad: 1X | 27% | 57% | 42% | 1.67 | -30% |
+| Ambos marcan: No | 58% | 38% | 48% | 2.50 | +20% |
+| Ambos marcan: Sí | 42% | 62% | 52% | 1.50 | -22% |
+| Goles más/menos: Más de 2.5 | 54% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Más de 3.5 | 32% | 41% | 36% | 2.30 | -16% |
+| Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -21% |
+| Goles más/menos: Menos de 2.5 | 46% | 40% | 43% | 2.38 | +2% |
+| Goles más/menos: Menos de 3.5 | 68% | 59% | 64% | 1.62 | +3% |
+| Goles más/menos: Menos de 4.5 | 84% | 76% | 80% | 1.25 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 41% | 38% | 2.25 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 59% | 62% | 1.57 | -3% |
+| Goles del local: Más de 0.5 | 47% | 75% | 61% | 1.25 | -24% |
+| Goles del local: Más de 1.5 | 13% | 42% | 28% | 2.20 | -39% |
+| Goles del local: Menos de 0.5 | 53% | 25% | 39% | 3.75 | +46% |
+| Goles del local: Menos de 1.5 | 87% | 58% | 72% | 1.62 | +17% |
+| Goles del visitante: Más de 1.5 | 65% | 51% | 58% | 1.80 | +4% |
+| Goles del visitante: Más de 2.5 | 38% | 27% | 32% | 3.50 | +13% |
+| Goles del visitante: Menos de 1.5 | 35% | 49% | 42% | 1.91 | -20% |
+| Goles del visitante: Menos de 2.5 | 62% | 73% | 68% | 1.28 | -13% |
+| Córners más/menos: Más de 10.5 | 37% | 50% | 43% | 1.83 | -20% |
+| Córners más/menos: Menos de 10.5 | 63% | 50% | 57% | 1.83 | +3% |
+| 1X2 descanso: 2 | 52% | 35% | 44% | 2.62 | +14% |
+| 1X2 descanso: X | 37% | 38% | 38% | 2.40 | -10% |
+| 1X2 descanso: 1 | 10% | 27% | 19% | 3.40 | -36% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 361 · aciertos: 228 (63%) · beneficio a 1 € por pick: -39.78 €
+Picks ya jugados: 388 · aciertos: 238 (61%) · beneficio a 1 € por pick: -52.37 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 44 | 66 | 67% | -2.71 € |
-| jugador | 63 | 96 | 66% | -9.20 € |
-| goles | 110 | 171 | 64% | -18.22 € |
-| tarjetas | 5 | 9 | 56% | -1.13 € |
+| resultado | 47 | 70 | 67% | -2.13 € |
+| jugador | 67 | 106 | 63% | -13.53 € |
+| goles | 113 | 183 | 62% | -26.06 € |
 | tiros | 5 | 10 | 50% | -1.14 € |
+| tarjetas | 5 | 10 | 50% | -2.13 € |
 | corners | 1 | 7 | 14% | -5.38 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
@@ -19,31 +19,61 @@ Picks ya jugados: 361 · aciertos: 228 (63%) · beneficio a 1 € por pick: -39.
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| To Win Either Half · Home | 4 | 4 | 100% |
+| To Win Either Half · Home | 5 | 5 | 100% |
 | Match Winner · Home | 6 | 7 | 86% |
 | Match Winner · Away | 5 | 6 | 83% |
 | Goals Over/Under · Over 1.5 | 18 | 23 | 78% |
+| Goals Over/Under · Over 2.5 | 13 | 18 | 72% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Total - Home · Over 0.5 | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 27 | 39 | 69% |
-| Goals Over/Under · Over 2.5 | 11 | 16 | 69% |
-| Total - Away · Over 0.5 | 23 | 38 | 61% |
+| Double Chance · Home/Draw | 4 | 6 | 67% |
+| Goals Over/Under - Second Half · Over 1.5 | 4 | 6 | 67% |
+| Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
-| Double Chance · Home/Draw | 3 | 5 | 60% |
-| Goals Over/Under - Second Half · Over 1.5 | 3 | 5 | 60% |
-| Both Teams Score · Yes | 8 | 16 | 50% |
+| To Win Either Half · Away | 3 | 5 | 60% |
+| Total - Home · Over 0.5 | 7 | 12 | 58% |
+| Total - Away · Over 0.5 | 23 | 41 | 56% |
 | Shots.1x2 · Away | 2 | 4 | 50% |
-| Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 6 | 50% |
-| To Win Either Half · Away | 2 | 4 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
-| Home Team Total Cards · Over 1.5 | 2 | 4 | 50% |
-| Double Chance · Draw/Away | 7 | 16 | 44% |
+| Both Teams Score · Yes | 8 | 18 | 44% |
+| Double Chance · Draw/Away | 7 | 17 | 41% |
+| Home Team Total Cards · Over 1.5 | 2 | 5 | 40% |
+| Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-03 · 10/27
+- ✅ QPR o empate · 1.28 (1-1)
+- ❌ Feyenoord marca · 1.30 (0-3)
+- ❌ Villarreal marca · 1.30 (0-6)
+- ❌ AS Roma o empate · 1.62 (3-2)
+- ❌ Lille marca · 1.28 (0-0)
+- ❌ Ambos marcan en Villarreal–Paris Saint Germain · 1.44 (0-6)
+- ✅ Más de 2,5 goles en Villarreal–Paris Saint Germain · 1.36 (0-6)
+- ✅ Más de 2,5 goles en Feyenoord–Inter · 1.40 (0-3)
+- ❌ Aston Villa marca · 1.44 (3-0)
+- ❌ Slovan Bratislava marca · 1.44 (4-0)
+- ❌ Ambos marcan en Barcelona–Aston Villa · 1.50 (3-0)
+- ❌ Ambos marcan y más de 2,5 goles en Barcelona–Aston Villa · 1.62 (3-0)
+- ❌ Ambos marcan y más de 2,5 goles en Villarreal–Paris Saint Germain · 1.62 (0-6)
+- ✅ Más de 1,5 goles en la 2ª parte del Barcelona–Aston Villa · 1.40 (3-0)
+- ❌ Julian Alvarez: 1+ tiros a puerta · 1.36 (0-2)
+- ❌ Carlos Augusto: 1+ tiros · 1.33 (0-3)
+- ✅ AS Roma gana alguna de las dos partes · 1.80 (3-2)
+- ✅ Birmingham gana alguna de las dos partes · 1.50 (3-0)
+- ❌ Alex Grimaldo: 1+ tiros · 1.30 (0-2)
+- ❌ Nicolo Barella: 1+ tiros · 1.36 (0-3)
+- ❌ Bryan Mbeumo: 1+ tiros a puerta · 1.40 (3-2)
+- ✅ Benjamin Andre comete 1+ faltas · 1.28 (0-0)
+- ✅ Andreas Helmersen comete 1+ faltas · 1.36 (0-0)
+- ✅ Gjivai Zechiel comete 1+ faltas · 1.36 (0-3)
+- ❌ Givairo Read comete 1+ faltas · 1.50 (0-3)
+- ✅ Andreas Helmersen comete 2+ faltas · 1.67 (0-0)
+- ❌ Birmingham ve más de 1,5 tarjetas · 1.80 (3-0)
 
 ### 2026-11-02 · 15/16
 - ✅ Gol en la 1ª parte del Oviedo–Las Palmas · 1.36 (2-3)
@@ -317,16 +347,4 @@ Picks ya jugados: 361 · aciertos: 228 (63%) · beneficio a 1 € por pick: -39.
 - ✅ Bayern München marca 3 o más · 1.25 (6-1)
 - ✅ Ryan Gravenberch comete 1+ faltas · 1.25 (1-1)
 - ✅ Pedro Neto comete 1+ faltas · 1.25 (1-1)
-
-### 2026-10-27 · 9/10
-- ✅ FC Augsburg marca 2 o más · 1.28 (2-4)
-- ✅ Lazio o empate · 1.33 (2-6)
-- ✅ No hay empate en Sassuolo–Lazio · 1.30 (2-6)
-- ✅ Gana el Lazio · 2.10 (2-6)
-- ✅ Torino marca · 1.44 (1-3)
-- ✅ Gol en la 1ª parte del Torino–Como · 1.30 (1-3)
-- ✅ No hay empate en Torino–Como · 1.28 (1-3)
-- ✅ Ambos marcan en Torino–Como · 1.70 (1-3)
-- ✅ Alessandro Romano: 1+ tiros · 1.36 (4-2)
-- ❌ Paul Mendy comete 2+ faltas · 1.44 (4-2)
 

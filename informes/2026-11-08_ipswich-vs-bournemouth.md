@@ -1,7 +1,7 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
 _Actualizadas: 03/11 08:16_
@@ -182,7 +182,7 @@ _Sin bajas comunicadas por ahora._
 | Juanlu Sánchez | D | 3 | 116 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 0 | 3 | 1,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
+_Goles esperados: local 1,12 · visitante 2,46 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -191,14 +191,14 @@ _Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 | 1X2: 1 | 16% | 24% | 20% | 3.90 | -24% |
 | Doble oportunidad: X2 | 84% | 76% | 80% | 1.25 | +0% |
 | Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | +0% |
-| Doble oportunidad: 1X | 33% | 50% | 41% | 1.91 | -21% |
+| Doble oportunidad: 1X | 33% | 50% | 42% | 1.91 | -21% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -11% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 1.5 | 87% | 78% | 83% | 1.22 | +1% |
-| Goles más/menos: Más de 2.5 | 70% | 57% | 63% | 1.67 | +6% |
-| Goles más/menos: Más de 3.5 ✅ | 48% | 34% | 41% | 2.75 | +14% |
+| Goles más/menos: Más de 2.5 | 69% | 57% | 63% | 1.67 | +5% |
+| Goles más/menos: Más de 3.5 ✅ | 48% | 34% | 41% | 2.75 | +13% |
 | Goles más/menos: Menos de 1.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles más/menos: Menos de 2.5 | 30% | 43% | 37% | 2.20 | -19% |
+| Goles más/menos: Menos de 2.5 | 31% | 43% | 37% | 2.20 | -19% |
 | Goles más/menos: Menos de 3.5 | 52% | 66% | 59% | 1.44 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 72% | 76% | 1.30 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 38% | 42% | 2.50 | +5% |
@@ -208,9 +208,9 @@ _Goles esperados: local 1,12 · visitante 2,47 · córners esperados 8,8._
 | Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 1.5 | 71% | 54% | 62% | 1.73 | +7% |
+| Goles del visitante: Más de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
 | Goles del visitante: Más de 2.5 ✅ | 45% | 27% | 36% | 3.50 | +25% |
-| Goles del visitante: Menos de 1.5 | 29% | 46% | 38% | 2.00 | -24% |
+| Goles del visitante: Menos de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
 | Goles del visitante: Menos de 2.5 | 55% | 73% | 64% | 1.28 | -18% |
 | 1X2 descanso: 2 | 50% | 38% | 44% | 2.40 | +6% |
 | 1X2 descanso: X | 33% | 39% | 36% | 2.38 | -14% |

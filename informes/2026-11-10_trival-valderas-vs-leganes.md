@@ -1,10 +1,10 @@
 # Trival Valderas – Leganes
 **Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 03/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 02:10._
 
 ## Cuotas Bet365
-_Actualizadas: 03/11 02:08_
+_Actualizadas: 04/11 02:10_
 
 - **1X2:** 1 **26.00**  ·  X **8.00**  ·  2 **1.09**
 - **Doble oportunidad:** 1X **8.00**  ·  12 **1.08**  ·  X2 **1.01**
