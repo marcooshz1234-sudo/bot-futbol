@@ -717,6 +717,12 @@
    },
    {
     "equipo": 543,
+    "jugador": "A. Fidalgo",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 543,
     "jugador": "J. Firpo",
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
@@ -750,6 +756,12 @@
     "jugador": "J. Lerma",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 543,
+    "jugador": "A. Fidalgo",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
    },
    {
     "equipo": 543,
@@ -1263,6 +1275,12 @@
    },
    {
     "equipo": 492,
+    "jugador": "G. Di Lorenzo",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
     "jugador": "C. Favasuli",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1281,6 +1299,12 @@
    },
    {
     "equipo": 492,
+    "jugador": "M. Olivera",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
     "jugador": "L. Spinazzola",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1293,25 +1317,7 @@
    },
    {
     "equipo": 492,
-    "jugador": "G. Di Lorenzo",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "R. Hojlund",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 492,
     "jugador": "V. Milinkovic-Savic",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "M. Olivera",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
    },
@@ -1377,6 +1383,12 @@
    },
    {
     "equipo": 492,
+    "jugador": "G. Di Lorenzo",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
     "jugador": "C. Favasuli",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1395,6 +1407,12 @@
    },
    {
     "equipo": 492,
+    "jugador": "M. Olivera",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
     "jugador": "L. Spinazzola",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1407,25 +1425,7 @@
    },
    {
     "equipo": 492,
-    "jugador": "G. Di Lorenzo",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "R. Hojlund",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 492,
     "jugador": "V. Milinkovic-Savic",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "M. Olivera",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
    }
@@ -1695,6 +1695,12 @@
    },
    {
     "equipo": 895,
+    "jugador": "T. Chalobah",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 895,
     "jugador": "A. Diao",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1727,12 +1733,6 @@
     "equipo": 895,
     "jugador": "J. Rodriguez",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 895,
-    "jugador": "T. Chalobah",
-    "tipo": "Questionable",
     "motivo": "Injury"
    },
    {
@@ -1779,6 +1779,12 @@
    },
    {
     "equipo": 895,
+    "jugador": "T. Chalobah",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 895,
     "jugador": "A. Diao",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -1811,12 +1817,6 @@
     "equipo": 895,
     "jugador": "J. Rodriguez",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 895,
-    "jugador": "T. Chalobah",
-    "tipo": "Questionable",
     "motivo": "Injury"
    }
   ],
@@ -2754,14 +2754,14 @@
    {
     "equipo": 94,
     "jugador": "E. Lepaul",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 94,
-    "jugador": "B. Samba",
+    "jugador": "V. Rongier",
     "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 553,
@@ -2808,14 +2808,14 @@
    {
     "equipo": 94,
     "jugador": "E. Lepaul",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 94,
-    "jugador": "B. Samba",
+    "jugador": "V. Rongier",
     "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 553,
@@ -2863,6 +2863,12 @@
   "1635710": [
    {
     "equipo": 173,
+    "jugador": "M. Finkgrafe",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 173,
     "jugador": "M. Guiu",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
@@ -2890,6 +2896,12 @@
     "jugador": "A. Semenyo",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 173,
+    "jugador": "M. Finkgrafe",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
    },
    {
     "equipo": 173,
@@ -3106,12 +3118,6 @@
     "motivo": "Thigh Injury"
    },
    {
-    "equipo": 42,
-    "jugador": "W. Saliba",
-    "tipo": "Missing Fixture",
-    "motivo": "Back Injury"
-   },
-   {
     "equipo": 560,
     "jugador": "T. Chory",
     "tipo": "Missing Fixture",
@@ -3170,12 +3176,6 @@
     "jugador": "B. Saka",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 42,
-    "jugador": "W. Saliba",
-    "tipo": "Missing Fixture",
-    "motivo": "Back Injury"
    }
   ],
   "1563248": [
@@ -3679,6 +3679,6 @@
    }
   ]
  },
- "ultima": "2026-11-04T02:42:03.197483+01:00",
+ "ultima": "2026-11-04T03:12:04.312983+01:00",
  "avisados": []
 }
