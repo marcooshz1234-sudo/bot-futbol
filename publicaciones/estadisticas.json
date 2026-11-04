@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 12:12",
+ "actualizado": "2026-11-04 12:32",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1559,
-   "hoy": 39,
+   "seguidores": 1560,
+   "hoy": 40,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1559
+    1560
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1824,
- "total_hoy": 49,
+ "total": 1825,
+ "total_hoy": 50,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:15",
+  "hora": "13:00",
   "dia": "2026-11-04",
-  "titulo": "Combi Aek Athens Fc vs Real Madrid"
+  "titulo": "Quién gana hoy en champions"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,7 +144,7 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1559,
+   "threads": 1560,
    "facebook": 0,
    "telegram": 242
   }
