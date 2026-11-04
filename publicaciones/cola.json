@@ -3099,7 +3099,17 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-04-combi-partido-1635656"
+    "verde_de": "2026-11-04-combi-partido-1635656",
+    "enviado": "2026-11-04T23:11",
+    "mensaje_id": 292,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18081493364711744",
+      "instagram_story": "18135593413676692"
+    },
+    "errores_redes": {
+      "instagram": "contenedor ERROR: ERROR"
+    }
   },
   {
     "id": "2026-11-04-verde-auto-2026-11-04-estrella-1635656",
@@ -3110,6 +3120,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-04-estrella-1635656"
+    "verde_de": "2026-11-04-estrella-1635656",
+    "enviado": "2026-11-04T23:11",
+    "mensaje_id": 293,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18119850736785583",
+      "instagram": "17889353586652982",
+      "instagram_story": "18121472878756621"
+    }
   }
 ]
