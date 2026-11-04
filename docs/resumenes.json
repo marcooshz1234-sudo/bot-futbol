@@ -940,14 +940,14 @@
   },
   "2026-11-04": {
     "dia": "2026-11-04",
-    "total": 8,
+    "total": 9,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 8,
+      "pendiente": 9,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 9
     },
     "combis": [
       {
@@ -997,6 +997,12 @@
         "titulo": "🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-04-combi-tres",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀",
+        "estado": "pendiente",
+        "cuota": 3.31
       }
     ],
     "picks": {
@@ -1004,6 +1010,6 @@
       "rojo": 0,
       "total": 43
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 10,62 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 9,16 · pendiente\n⏳ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 10,62 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 9,16 · pendiente\n⏳ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
   }
 }
