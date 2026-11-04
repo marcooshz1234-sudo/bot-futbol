@@ -3105,10 +3105,9 @@
     "redes": {
       "instagram_reel": null,
       "threads": "18081493364711744",
-      "instagram_story": "18135593413676692"
-    },
-    "errores_redes": {
-      "instagram": "contenedor ERROR: ERROR"
+      "instagram_story": "18135593413676692",
+      "instagram": "18159815884449041",
+      "threads_enlace": "18247656373311425"
     }
   },
   {
@@ -3129,5 +3128,15 @@
       "instagram": "17889353586652982",
       "instagram_story": "18121472878756621"
     }
+  },
+  {
+    "id": "2026-11-04-balance-auto",
+    "fecha": "2026-11-04T23:15",
+    "texto": "📊 BALANCE DEL MIÉRCOLES · 50 DE 70 PICKS EN VERDE 🍀\n\n🎯 71 % de acierto\n✅ 50 acertados · ❌ 20 fallados\n\n🔥 Lo mejor: goles 12/14 · tiros 12/14\n⚽ Ganadores: 11/17\n😤 Lo peor: tarjetas 1/3\n\n💚 Mañana más picks GRATIS en @combilocas\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
