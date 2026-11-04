@@ -74,290 +74,6 @@
   "mis|2026-11-03-marcos-picks|1635723|Player Fouls Committed|Ivan Fresneda - 1"
  ],
  "alineaciones": {
-  "1552803": {
-   "hora": "2026-11-02T20:24:02.376123+01:00",
-   "xi": [
-    "Y. Mvogo",
-    "N. Adjei",
-    "M. Talbi",
-    "S. Touré",
-    "D. Sylla",
-    "N. Cadiou",
-    "A. Avom",
-    "K. Kouassi",
-    "J. Makengo",
-    "S. Faye",
-    "I. Baldé",
-    "E. Selvik",
-    "K. Lala",
-    "L. Tousart",
-    "G. Lloris",
-    "B. Locko",
-    "J. Chotard",
-    "H. Magnetti",
-    "Mama Baldé",
-    "K. Doumbia",
-    "P. Mboup",
-    "L. Ajorque"
-   ],
-   "banquillo": [
-    "A. Tosin",
-    "S. Kuzmić",
-    "T. Le Bris",
-    "N. Mbamba",
-    "N. Obaretin",
-    "I. Jensen",
-    "A. Georgen",
-    "G. Bernardeau",
-    "B. Kamara",
-    "D. N´Guessan",
-    "Ibrahim Yayiya Kante",
-    "N. Edjouma",
-    "M. Diambou",
-    "J. Bourgault",
-    "J. Nonge Boende",
-    "M. Patouillet"
-   ],
-   "equipos": {
-    "97": [
-     {
-      "n": "Y. Mvogo",
-      "pos": "G"
-     },
-     {
-      "n": "N. Adjei",
-      "pos": "D"
-     },
-     {
-      "n": "M. Talbi",
-      "pos": "D"
-     },
-     {
-      "n": "S. Touré",
-      "pos": "D"
-     },
-     {
-      "n": "D. Sylla",
-      "pos": "M"
-     },
-     {
-      "n": "N. Cadiou",
-      "pos": "M"
-     },
-     {
-      "n": "A. Avom",
-      "pos": "M"
-     },
-     {
-      "n": "K. Kouassi",
-      "pos": "M"
-     },
-     {
-      "n": "J. Makengo",
-      "pos": "M"
-     },
-     {
-      "n": "S. Faye",
-      "pos": "M"
-     },
-     {
-      "n": "I. Baldé",
-      "pos": "F"
-     }
-    ],
-    "106": [
-     {
-      "n": "E. Selvik",
-      "pos": "G"
-     },
-     {
-      "n": "K. Lala",
-      "pos": "D"
-     },
-     {
-      "n": "L. Tousart",
-      "pos": "D"
-     },
-     {
-      "n": "G. Lloris",
-      "pos": "D"
-     },
-     {
-      "n": "B. Locko",
-      "pos": "D"
-     },
-     {
-      "n": "J. Chotard",
-      "pos": "M"
-     },
-     {
-      "n": "H. Magnetti",
-      "pos": "M"
-     },
-     {
-      "n": "Mama Baldé",
-      "pos": "M"
-     },
-     {
-      "n": "K. Doumbia",
-      "pos": "M"
-     },
-     {
-      "n": "P. Mboup",
-      "pos": "M"
-     },
-     {
-      "n": "L. Ajorque",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1550178": {
-   "hora": "2026-11-02T20:24:02.376123+01:00",
-   "xi": [
-    "M. Carnesecchi",
-    "D. Zappacosta",
-    "G. Scalvini",
-    "R. ObriÄ",
-    "L. Bernasconi",
-    "Éderson",
-    "Mario Pasalic",
-    "N. Zalewski",
-    "C. De Ketelaere",
-    "J. Rowe",
-    "N. Krstović",
-    "G. Daffara",
-    "E. Del Prato",
-    "M. Troilo",
-    "D. Drobnic",
-    "S. Britschgi",
-    "G. Fabbian",
-    "V. Sierro",
-    "M. Keita",
-    "E. Valeri",
-    "S. Lontani",
-    "E. Touré"
-   ],
-   "banquillo": [
-    "E. Elmas",
-    "J. Idele",
-    "M. Plaia",
-    "L. Samardžić",
-    "M. Sonzogni",
-    "M. Sportiello",
-    "K. Sulemana",
-    "Sergej Levak",
-    "B. Cremaschi",
-    "D. Romero",
-    "C. Ordoñez",
-    "H. Nicolussi",
-    "A. N&apos;Diaye",
-    "Abdou Konate",
-    "S. Ghidotti",
-    "M. Frigan",
-    "N. Elphege",
-    "Diego Carlos",
-    "Ousmane Diallo",
-    "E. Corvi",
-    "F. Carboni",
-    "P. Almqvist"
-   ],
-   "equipos": {
-    "499": [
-     {
-      "n": "M. Carnesecchi",
-      "pos": "G"
-     },
-     {
-      "n": "D. Zappacosta",
-      "pos": "D"
-     },
-     {
-      "n": "G. Scalvini",
-      "pos": "D"
-     },
-     {
-      "n": "R. ObriÄ",
-      "pos": "D"
-     },
-     {
-      "n": "L. Bernasconi",
-      "pos": "D"
-     },
-     {
-      "n": "Éderson",
-      "pos": "M"
-     },
-     {
-      "n": "Mario Pasalic",
-      "pos": "M"
-     },
-     {
-      "n": "N. Zalewski",
-      "pos": "M"
-     },
-     {
-      "n": "C. De Ketelaere",
-      "pos": "M"
-     },
-     {
-      "n": "J. Rowe",
-      "pos": "M"
-     },
-     {
-      "n": "N. Krstović",
-      "pos": "F"
-     }
-    ],
-    "523": [
-     {
-      "n": "G. Daffara",
-      "pos": "G"
-     },
-     {
-      "n": "E. Del Prato",
-      "pos": "D"
-     },
-     {
-      "n": "M. Troilo",
-      "pos": "D"
-     },
-     {
-      "n": "D. Drobnic",
-      "pos": "D"
-     },
-     {
-      "n": "S. Britschgi",
-      "pos": "M"
-     },
-     {
-      "n": "G. Fabbian",
-      "pos": "M"
-     },
-     {
-      "n": "V. Sierro",
-      "pos": "M"
-     },
-     {
-      "n": "M. Keita",
-      "pos": "M"
-     },
-     {
-      "n": "E. Valeri",
-      "pos": "M"
-     },
-     {
-      "n": "S. Lontani",
-      "pos": "F"
-     },
-     {
-      "n": "E. Touré",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1557455": {
    "hora": "2026-11-02T20:42:56.611811+01:00",
    "xi": [
@@ -3681,61 +3397,331 @@
    }
   },
   "1563250": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-04T20:24:25.079430+01:00",
+   "xi": [
+    "A. Patterson",
+    "M. Cleworth",
+    "J. Worrall",
+    "C. Doyle",
+    "I. Kaboré",
+    "G. Dobson",
+    "B. Whiteman",
+    "G. Thomason",
+    "L. O&apos;Brien",
+    "J. Ekomié",
+    "K. Moore",
+    "R. Vítek",
+    "L. Ayling",
+    "A. Phillips",
+    "A. Malanda",
+    "C. Brittain",
+    "A. Morris",
+    "S. Berhalter",
+    "Neto Borges",
+    "A. Cozier-Duberry",
+    "T. Conway",
+    "K. Joseph"
+   ],
+   "banquillo": [
+    "Daniel Edward Peter Imray",
+    "B. Cadamarteri",
+    "D. Hyam",
+    "R. Longman",
+    "O. Rathbone",
+    "B. Sheaf",
+    "M. James",
+    "Z. Vyner",
+    "D. Ward",
+    "M. Arfsten",
+    "C. Barron",
+    "S. Brynn",
+    "S. Byram",
+    "Leo Castledine",
+    "R. McGree",
+    "M. Peart-Harris",
+    "J. Sarmiento",
+    "D. Strelec"
+   ],
+   "equipos": {
+    "1837": [
+     {
+      "n": "A. Patterson",
+      "pos": "G"
+     },
+     {
+      "n": "M. Cleworth",
+      "pos": "D"
+     },
+     {
+      "n": "J. Worrall",
+      "pos": "D"
+     },
+     {
+      "n": "C. Doyle",
+      "pos": "D"
+     },
+     {
+      "n": "I. Kaboré",
+      "pos": "M"
+     },
+     {
+      "n": "G. Dobson",
+      "pos": "M"
+     },
+     {
+      "n": "B. Whiteman",
+      "pos": "M"
+     },
+     {
+      "n": "G. Thomason",
+      "pos": "M"
+     },
+     {
+      "n": "L. O&apos;Brien",
+      "pos": "M"
+     },
+     {
+      "n": "J. Ekomié",
+      "pos": "M"
+     },
+     {
+      "n": "K. Moore",
+      "pos": "F"
+     }
+    ],
+    "70": [
+     {
+      "n": "R. Vítek",
+      "pos": "G"
+     },
+     {
+      "n": "L. Ayling",
+      "pos": "D"
+     },
+     {
+      "n": "A. Phillips",
+      "pos": "D"
+     },
+     {
+      "n": "A. Malanda",
+      "pos": "D"
+     },
+     {
+      "n": "C. Brittain",
+      "pos": "M"
+     },
+     {
+      "n": "A. Morris",
+      "pos": "M"
+     },
+     {
+      "n": "S. Berhalter",
+      "pos": "M"
+     },
+     {
+      "n": "Neto Borges",
+      "pos": "M"
+     },
+     {
+      "n": "A. Cozier-Duberry",
+      "pos": "M"
+     },
+     {
+      "n": "T. Conway",
+      "pos": "M"
+     },
+     {
+      "n": "K. Joseph",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1563248": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-04T20:24:25.079430+01:00",
+   "xi": [
+    "N. Trott",
+    "P. Ng",
+    "W. Fish",
+    "J. Bagan",
+    "C. Scanlon",
+    "A. Robertson",
+    "J. Moylan",
+    "O. Tanner",
+    "R. Colwill",
+    "C. Willock",
+    "Y. Salech",
+    "M. Hermansen",
+    "J. Veltman",
+    "K. Mavropanos",
+    "M. Kilman",
+    "Morato",
+    "J. Bowen",
+    "S. Magassa",
+    "A. Engels",
+    "M. Solomon",
+    "D. Mukasa",
+    "V. Castellanos"
+   ],
+   "banquillo": [
+    "P. Moreno",
+    "Charlie Holt",
+    "J. Colwill",
+    "Cian Ashford",
+    "R. Kpakio",
+    "T. Perrett",
+    "R. Tankiewicz",
+    "D. Turnbull",
+    "H. Tyrer",
+    "A. Areola",
+    "E. Austbö",
+    "A. Golambeckis",
+    "M. Kanté",
+    "Ezra Mayers",
+    "L. Orford",
+    "J. Piroe",
+    "O. Scarles",
+    "T. Souček"
+   ],
+   "equipos": {
+    "43": [
+     {
+      "n": "N. Trott",
+      "pos": "G"
+     },
+     {
+      "n": "P. Ng",
+      "pos": "D"
+     },
+     {
+      "n": "W. Fish",
+      "pos": "D"
+     },
+     {
+      "n": "J. Bagan",
+      "pos": "D"
+     },
+     {
+      "n": "C. Scanlon",
+      "pos": "D"
+     },
+     {
+      "n": "A. Robertson",
+      "pos": "M"
+     },
+     {
+      "n": "J. Moylan",
+      "pos": "M"
+     },
+     {
+      "n": "O. Tanner",
+      "pos": "M"
+     },
+     {
+      "n": "R. Colwill",
+      "pos": "M"
+     },
+     {
+      "n": "C. Willock",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Salech",
+      "pos": "F"
+     }
+    ],
+    "48": [
+     {
+      "n": "M. Hermansen",
+      "pos": "G"
+     },
+     {
+      "n": "J. Veltman",
+      "pos": "D"
+     },
+     {
+      "n": "K. Mavropanos",
+      "pos": "D"
+     },
+     {
+      "n": "M. Kilman",
+      "pos": "D"
+     },
+     {
+      "n": "Morato",
+      "pos": "D"
+     },
+     {
+      "n": "J. Bowen",
+      "pos": "M"
+     },
+     {
+      "n": "S. Magassa",
+      "pos": "M"
+     },
+     {
+      "n": "A. Engels",
+      "pos": "M"
+     },
+     {
+      "n": "M. Solomon",
+      "pos": "M"
+     },
+     {
+      "n": "D. Mukasa",
+      "pos": "M"
+     },
+     {
+      "n": "V. Castellanos",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1635656": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635651": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635745": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635681": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1563247": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635710": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635726": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635707": {
-   "hora": "2026-11-04T20:13:45.482201+01:00",
+   "hora": "2026-11-04T20:24:25.079430+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

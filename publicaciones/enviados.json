@@ -379,5 +379,18 @@
   "2026-11-04-combi-loca": {
     "enviado": "2026-11-04T16:00",
     "mensaje_id": 286
+  },
+  "2026-11-04-combi-partido-1635745": {
+    "enviado": "2026-11-04T20:25",
+    "mensaje_id": 289,
+    "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635745.tarjeta.jpg"
+  },
+  "2026-11-04-estrella-1635656": {
+    "enviado": "2026-11-04T20:25",
+    "mensaje_id": 290
+  },
+  "2026-11-04-estrella-1635651": {
+    "enviado": "2026-11-04T20:25",
+    "mensaje_id": 291
   }
 }
