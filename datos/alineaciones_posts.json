@@ -35,6 +35,8 @@
   "clave|2026-11-03-lista-europa-2|1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1|Y. Tielemans",
   "clave|2026-11-03-marcos-picks|1635640|Away Player Shots|Nabil Bentaleb - 1|N. Bentaleb",
   "clave|2026-11-03-marcos-picks|1635669|Away Player Shots|Ermedin Demirovic - 3|A. Stiller",
+  "clave|2026-11-04-marcos-ganadores|1636324|Match Winner|Home|Esteban Lepaul",
+  "clave|2026-11-04-quien-gana-champions|1636324|Match Winner|Home|Esteban Lepaul",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -3500,10 +3502,151 @@
    }
   },
   "1636324": {
-   "hora": "2026-11-04T15:57:13.203028+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-04T16:07:59.057776+01:00",
+   "xi": [
+    "B. Samba",
+    "B. Reynolds",
+    "A. Rouault",
+    "C. Cresswell",
+    "Gonçalo Oliveira",
+    "M. Nagida",
+    "S. Szymański",
+    "A. Thomasson",
+    "M. Camara",
+    "B. Dia",
+    "Mousa Tamari",
+    "S. Ortega",
+    "M. Saliakas",
+    "P. Retsos",
+    "David Carmo",
+    "S. Onyemaechi",
+    "S. Hezze",
+    "G. Puerta",
+    "L. Bailey",
+    "Gustavo Sá",
+    "K. Fortounis",
+    "A. González"
+   ],
+   "banquillo": [
+    "Kilian Belazzoug",
+    "I. Soumaré",
+    "V. Rongier",
+    "A. Nordin",
+    "Q. Merlin",
+    "Eliezer Mayenda",
+    "N. Lemaître",
+    "A. Ait Boudlal",
+    "L. Blas",
+    "D. Cissé",
+    "H. Do Marcolino",
+    "Elias Legendre Quiñonez",
+    "R. Yaremchuk",
+    "Chiquinho",
+    "R. Freuler",
+    "P. Toufakis",
+    "N. Tiknizyan",
+    "Z. Smajlović",
+    "L. Pirola",
+    "M. Pedersen",
+    "Gelson Martins",
+    "Jota Silva",
+    "I. Georgakopoulos",
+    "D. Stournaras"
+   ],
+   "equipos": {
+    "94": [
+     {
+      "n": "B. Samba",
+      "pos": "G"
+     },
+     {
+      "n": "B. Reynolds",
+      "pos": "D"
+     },
+     {
+      "n": "A. Rouault",
+      "pos": "D"
+     },
+     {
+      "n": "C. Cresswell",
+      "pos": "D"
+     },
+     {
+      "n": "Gonçalo Oliveira",
+      "pos": "D"
+     },
+     {
+      "n": "M. Nagida",
+      "pos": "D"
+     },
+     {
+      "n": "S. Szymański",
+      "pos": "M"
+     },
+     {
+      "n": "A. Thomasson",
+      "pos": "M"
+     },
+     {
+      "n": "M. Camara",
+      "pos": "M"
+     },
+     {
+      "n": "B. Dia",
+      "pos": "F"
+     },
+     {
+      "n": "Mousa Tamari",
+      "pos": "F"
+     }
+    ],
+    "553": [
+     {
+      "n": "S. Ortega",
+      "pos": "G"
+     },
+     {
+      "n": "M. Saliakas",
+      "pos": "D"
+     },
+     {
+      "n": "P. Retsos",
+      "pos": "D"
+     },
+     {
+      "n": "David Carmo",
+      "pos": "D"
+     },
+     {
+      "n": "S. Onyemaechi",
+      "pos": "D"
+     },
+     {
+      "n": "S. Hezze",
+      "pos": "M"
+     },
+     {
+      "n": "G. Puerta",
+      "pos": "M"
+     },
+     {
+      "n": "L. Bailey",
+      "pos": "M"
+     },
+     {
+      "n": "Gustavo Sá",
+      "pos": "M"
+     },
+     {
+      "n": "K. Fortounis",
+      "pos": "M"
+     },
+     {
+      "n": "A. González",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
