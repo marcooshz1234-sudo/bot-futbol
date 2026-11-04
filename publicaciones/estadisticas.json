@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 10:51",
+ "actualizado": "2026-11-04 11:01",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1554,
-   "hoy": 34,
+   "seguidores": 1555,
+   "hoy": 35,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1554
+    1555
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1816,
- "total_hoy": 41,
+ "total": 1817,
+ "total_hoy": 42,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "12:00",
   "dia": "2026-11-04",
-  "titulo": "Reto escalera · día 1/7 · x1,81"
+  "titulo": "Copas europeas · 12 picks para hoy (1/"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,19 +144,24 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1554,
+   "threads": 1555,
    "facebook": 0,
    "telegram": 239
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 49,
+   "posts": 48,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -167,11 +172,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
