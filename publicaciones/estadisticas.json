@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 14:02",
+ "actualizado": "2026-11-04 14:39",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1573,
-   "hoy": 53,
+   "seguidores": 1578,
+   "hoy": 58,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1573
+    1578
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 242,
-   "hoy": 10,
+   "seguidores": 241,
+   "hoy": 9,
    "serie": [
     126,
     165,
@@ -50,17 +50,17 @@
     207,
     214,
     232,
-    242
+    241
    ]
   }
  },
- "total": 1838,
- "total_hoy": 63,
+ "total": 1842,
+ "total_hoy": 67,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "15:00",
   "dia": "2026-11-04",
-  "titulo": "Combi de 7 partidos x14,95"
+  "titulo": "Copas europeas · 11 picks para hoy (2/"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,9 +144,9 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1573,
+   "threads": 1578,
    "facebook": 0,
-   "telegram": 242
+   "telegram": 241
   }
  },
  "tipos_instagram": {

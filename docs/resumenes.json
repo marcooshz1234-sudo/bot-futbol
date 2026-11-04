@@ -940,14 +940,14 @@
   },
   "2026-11-04": {
     "dia": "2026-11-04",
-    "total": 9,
+    "total": 10,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 9,
+      "pendiente": 10,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -1003,13 +1003,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀",
         "estado": "pendiente",
         "cuota": 3.31
+      },
+      {
+        "id": "2026-11-04-combi-multi",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 43
+      "total": 45
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 10,62 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 9,16 · pendiente\n⏳ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2) · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 10,62 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 9,16 · pendiente\n⏳ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
   }
 }
