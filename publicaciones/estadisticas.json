@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 11:51",
+ "actualizado": "2026-11-04 12:02",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1557,
-   "hoy": 37,
+   "seguidores": 1559,
+   "hoy": 39,
    "serie": [
     1281,
     1354,
@@ -24,7 +24,7 @@
     1407,
     1430,
     1520,
-    1557
+    1559
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 1821,
- "total_hoy": 46,
+ "total": 1823,
+ "total_hoy": 48,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "12:15",
   "dia": "2026-11-04",
-  "titulo": "Copas europeas · 12 picks para hoy (1/"
+  "titulo": "Combi Aek Athens Fc vs Real Madrid"
  },
  "ayer": {
   "aciertos": 10,
@@ -144,12 +144,17 @@
   },
   "2026-11-04": {
    "instagram": 23,
-   "threads": 1557,
+   "threads": 1559,
    "facebook": 0,
    "telegram": 241
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 48,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 4,
    "likes_media": 0.0,
@@ -157,11 +162,6 @@
   },
   "Otros (reel)": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 48,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
