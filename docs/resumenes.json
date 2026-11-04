@@ -940,14 +940,14 @@
   },
   "2026-11-04": {
     "dia": "2026-11-04",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -955,13 +955,19 @@
         "titulo": "✅ COMBI LOCAS | CHAMPIONS",
         "estado": "pendiente",
         "cuota": 6.38
+      },
+      {
+        "id": "2026-11-04-combi-partido-1635681",
+        "titulo": "✅ COMBI LOCAS | CHAMPIONS",
+        "estado": "pendiente",
+        "cuota": 4.21
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 9
+      "total": 14
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 6,38 · pendiente\n⏳ ✅ COMBI LOCAS | CHAMPIONS · 4,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
