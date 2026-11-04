@@ -613,6 +613,12 @@
   "1635707": [
    {
     "equipo": 197,
+    "jugador": "S. Lammers",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 197,
     "jugador": "A. Nagalo",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
@@ -637,14 +643,8 @@
    },
    {
     "equipo": 197,
-    "jugador": "S. Lammers",
-    "tipo": "Questionable",
-    "motivo": "Lacking Match Fitness"
-   },
-   {
-    "equipo": 197,
     "jugador": "P. Wanner",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
    },
    {
@@ -655,6 +655,12 @@
    },
    {
     "equipo": 197,
+    "jugador": "S. Lammers",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 197,
     "jugador": "A. Nagalo",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
@@ -679,14 +685,8 @@
    },
    {
     "equipo": 197,
-    "jugador": "S. Lammers",
-    "tipo": "Questionable",
-    "motivo": "Lacking Match Fitness"
-   },
-   {
-    "equipo": 197,
     "jugador": "P. Wanner",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
    },
    {
@@ -1316,12 +1316,6 @@
     "motivo": "Ankle Injury"
    },
    {
-    "equipo": 492,
-    "jugador": "V. Milinkovic-Savic",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
     "equipo": 212,
     "jugador": "Gabriel Mec",
     "tipo": "Missing Fixture",
@@ -1422,12 +1416,6 @@
     "jugador": "K. De Bruyne",
     "tipo": "Questionable",
     "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "V. Milinkovic-Savic",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    }
   ],
   "1635723": [
@@ -2759,6 +2747,12 @@
    },
    {
     "equipo": 94,
+    "jugador": "A. Ait Boudlal",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 94,
     "jugador": "V. Rongier",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
@@ -2810,6 +2804,12 @@
     "jugador": "E. Lepaul",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 94,
+    "jugador": "A. Ait Boudlal",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    },
    {
     "equipo": 94,
@@ -2886,12 +2886,6 @@
     "motivo": "Off the roster"
    },
    {
-    "equipo": 173,
-    "jugador": "M. Esteve",
-    "tipo": "Questionable",
-    "motivo": "Knock"
-   },
-   {
     "equipo": 50,
     "jugador": "A. Semenyo",
     "tipo": "Missing Fixture",
@@ -2920,12 +2914,6 @@
     "jugador": "L. Zingerle",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
-   },
-   {
-    "equipo": 173,
-    "jugador": "M. Esteve",
-    "tipo": "Questionable",
-    "motivo": "Knock"
    },
    {
     "equipo": 50,
@@ -3089,6 +3077,12 @@
    },
    {
     "equipo": 560,
+    "jugador": "I. Schranz",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 560,
     "jugador": "S. Isife",
     "tipo": "Questionable",
     "motivo": "Illness"
@@ -3098,18 +3092,6 @@
     "jugador": "E. Pitak",
     "tipo": "Questionable",
     "motivo": "Health problems"
-   },
-   {
-    "equipo": 560,
-    "jugador": "L. Provod",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 560,
-    "jugador": "I. Schranz",
-    "tipo": "Questionable",
-    "motivo": "Illness"
    },
    {
     "equipo": 42,
@@ -3149,6 +3131,12 @@
    },
    {
     "equipo": 560,
+    "jugador": "I. Schranz",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 560,
     "jugador": "S. Isife",
     "tipo": "Questionable",
     "motivo": "Illness"
@@ -3158,18 +3146,6 @@
     "jugador": "E. Pitak",
     "tipo": "Questionable",
     "motivo": "Health problems"
-   },
-   {
-    "equipo": 560,
-    "jugador": "L. Provod",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 560,
-    "jugador": "I. Schranz",
-    "tipo": "Questionable",
-    "motivo": "Illness"
    },
    {
     "equipo": 42,
@@ -3679,6 +3655,6 @@
    }
   ]
  },
- "ultima": "2026-11-04T10:53:10.446286+01:00",
+ "ultima": "2026-11-04T11:30:03.157979+01:00",
  "avisados": []
 }
