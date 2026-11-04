@@ -10,12 +10,20 @@
   "2026-11-03-combi-multi|Maxima Goffi comete 1+ faltas",
   "2026-11-03-combi-partido-1635662-ter|Andy Diouf comete 1+ faltas",
   "2026-11-03-lista-europa-2|Maxima Goffi comete 1+ faltas",
+  "2026-11-04-combi-partido-1635606|Aurelien Tchouameni comete 1+ faltas",
+  "2026-11-04-combi-partido-1635606|Vinicius Jr.: 2+ tiros",
+  "2026-11-04-combi-partido-1635658|Florian Wirtz comete 1+ faltas",
+  "2026-11-04-combi-partido-1635658|Kerem Akturkoglu comete 1+ faltas",
+  "2026-11-04-combi-partido-1635658|Milos Kerkez comete 1+ faltas",
+  "2026-11-04-combi-partido-1635658|Vedat Muriqi: 1+ tiros a puerta",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-crear6|1550178|To Win Either Half|Home|E. Elmas",
   "clave|2026-11-02-marcos-crear6|1550178|Total - Home|Over 1|E. Elmas",
   "clave|2026-11-02-marcos-menos|1550178|Match Winner|Home|E. Elmas",
+  "clave|2026-11-02-semana-europa|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-02-semana-europa|1635658|Match Winner|Away|A. Isak",
   "clave|2026-11-03-combi-multi-bis|1635622|Away Player Shots|Joshua Kimmich - 1|Luis Díaz",
   "clave|2026-11-03-combi-multi-bis|1635677|Total - Away|Over 0.5|T. Barseghyan",
   "clave|2026-11-03-combi-multi-bis|1635695|Shots.1x2|Home|Y. Tielemans",
@@ -35,7 +43,25 @@
   "clave|2026-11-03-lista-europa-2|1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1|Y. Tielemans",
   "clave|2026-11-03-marcos-picks|1635640|Away Player Shots|Nabil Bentaleb - 1|N. Bentaleb",
   "clave|2026-11-03-marcos-picks|1635669|Away Player Shots|Ermedin Demirovic - 3|A. Stiller",
+  "clave|2026-11-04-cobertura-a|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-cobertura-b|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-cobertura-b|1635658|Match Winner|Away|A. Isak",
+  "clave|2026-11-04-cobertura-c|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-cobertura-c|1635658|Match Winner|Away|A. Isak",
+  "clave|2026-11-04-combi-multi|1635606|Total - Home|Over 0.5|R. Marin",
+  "clave|2026-11-04-combi-partido-1635606-madrid|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-combi-partido-1635606-madrid|1635606|Total - Away|Over 2.5|A. Güler",
+  "clave|2026-11-04-combi-partido-1635606|1635606|Player to Score or Assist|Kylian Mbappe|A. Güler",
+  "clave|2026-11-04-combi-partido-1635658-liverpool|1635658|Match Winner|Away|A. Isak",
+  "clave|2026-11-04-marcos-dobles|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-marcos-dobles|1635658|Match Winner|Away|A. Isak",
+  "clave|2026-11-04-marcos-ganadores|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-marcos-ganadores|1635658|Match Winner|Away|A. Isak",
   "clave|2026-11-04-marcos-ganadores|1636324|Match Winner|Home|Esteban Lepaul",
+  "clave|2026-11-04-marcos-sorpresas|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-marcos-sorpresas|1635658|Match Winner|Away|A. Isak",
+  "clave|2026-11-04-quien-gana-champions|1635606|Match Winner|Away|A. Güler",
+  "clave|2026-11-04-quien-gana-champions|1635658|Match Winner|Away|A. Isak",
   "clave|2026-11-04-quien-gana-champions|1636324|Match Winner|Home|Esteban Lepaul",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
@@ -3365,16 +3391,294 @@
    }
   },
   "1635658": {
-   "hora": "2026-11-04T18:14:07.712826+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-04T18:24:53.595437+01:00",
+   "xi": [
+    "Ederson",
+    "Nélson Semedo",
+    "M. Škriniar",
+    "K. Peprah Oppong",
+    "A. Brown",
+    "M. Guendouzi",
+    "N. Kanté",
+    "İ. Yüksek",
+    "M. Greenwood",
+    "R. Lukaku",
+    "İ. Kahveci",
+    "Alisson Becker",
+    "J. Gomez",
+    "J. Jacquet",
+    "V. van Dijk",
+    "K. Tsimikas",
+    "A. Mac Allister",
+    "T. Nyoni",
+    "Víctor Muñoz",
+    "D. Szoboszlai",
+    "R. Ngumoha",
+    "B. Barcola"
+   ],
+   "banquillo": [
+    "N. Dorgeles",
+    "V. Muriqi",
+    "M. Müldür",
+    "O. MimoviÄ",
+    "L. Mercan",
+    "M. Günok",
+    "B. Elmaz",
+    "Y. Demir",
+    "T. Çetin",
+    "O. Aydın",
+    "K. Aktürkoğlu",
+    "F. Woodman",
+    "F. Wirtz",
+    "J. McConnell",
+    "G. Mamardashvili",
+    "L. Koumas",
+    "M. Kerkez",
+    "A. Isak",
+    "C. Gakpo",
+    "J. Danns",
+    "L. Chambers",
+    "R. Araújo"
+   ],
+   "equipos": {
+    "611": [
+     {
+      "n": "Ederson",
+      "pos": "G"
+     },
+     {
+      "n": "Nélson Semedo",
+      "pos": "D"
+     },
+     {
+      "n": "M. Škriniar",
+      "pos": "D"
+     },
+     {
+      "n": "K. Peprah Oppong",
+      "pos": "D"
+     },
+     {
+      "n": "A. Brown",
+      "pos": "D"
+     },
+     {
+      "n": "M. Guendouzi",
+      "pos": "M"
+     },
+     {
+      "n": "N. Kanté",
+      "pos": "M"
+     },
+     {
+      "n": "İ. Yüksek",
+      "pos": "M"
+     },
+     {
+      "n": "M. Greenwood",
+      "pos": "F"
+     },
+     {
+      "n": "R. Lukaku",
+      "pos": "F"
+     },
+     {
+      "n": "İ. Kahveci",
+      "pos": "F"
+     }
+    ],
+    "40": [
+     {
+      "n": "Alisson Becker",
+      "pos": "G"
+     },
+     {
+      "n": "J. Gomez",
+      "pos": "D"
+     },
+     {
+      "n": "J. Jacquet",
+      "pos": "D"
+     },
+     {
+      "n": "V. van Dijk",
+      "pos": "D"
+     },
+     {
+      "n": "K. Tsimikas",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mac Allister",
+      "pos": "M"
+     },
+     {
+      "n": "T. Nyoni",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor Muñoz",
+      "pos": "M"
+     },
+     {
+      "n": "D. Szoboszlai",
+      "pos": "M"
+     },
+     {
+      "n": "R. Ngumoha",
+      "pos": "M"
+     },
+     {
+      "n": "B. Barcola",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1635606": {
-   "hora": "2026-11-04T18:14:07.712826+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-04T18:24:53.595437+01:00",
+   "xi": [
+    "A. Brignoli",
+    "L. Rota",
+    "H. Moukoudi",
+    "Filipe Relvas",
+    "S. Pilios",
+    "L. Majer",
+    "K. Arriaga",
+    "K. Kairinen",
+    "A. Koita",
+    "M. Gaćinović",
+    "L. Jović",
+    "T. Courtois",
+    "D. Dumfries",
+    "Éder Militão",
+    "A. Rüdiger",
+    "Marc Cucurella",
+    "Bernardo Silva",
+    "E. Camavinga",
+    "Y. Diomande",
+    "J. Bellingham",
+    "Vinícius Júnior",
+    "Kylian Mbappé"
+   ],
+   "banquillo": [
+    "Marios Balamotis",
+    "C. Lykogiannis",
+    "P. Mantalos",
+    "R. Marin",
+    "T. Strakosha",
+    "B. Varga",
+    "D. Vida",
+    "M. Vitális",
+    "Zini",
+    "O. Zubkov",
+    "Álvaro Fernández",
+    "Endrick",
+    "Carlos Espí",
+    "D. Huijsen",
+    "I. Konaté",
+    "A. Lunin",
+    "Sergio Martínez",
+    "Sergio Mestre",
+    "Thiago Pitarch",
+    "F. Valverde",
+    "T. Alexander-Arnold",
+    "Brahim Díaz"
+   ],
+   "equipos": {
+    "575": [
+     {
+      "n": "A. Brignoli",
+      "pos": "G"
+     },
+     {
+      "n": "L. Rota",
+      "pos": "D"
+     },
+     {
+      "n": "H. Moukoudi",
+      "pos": "D"
+     },
+     {
+      "n": "Filipe Relvas",
+      "pos": "D"
+     },
+     {
+      "n": "S. Pilios",
+      "pos": "D"
+     },
+     {
+      "n": "L. Majer",
+      "pos": "M"
+     },
+     {
+      "n": "K. Arriaga",
+      "pos": "M"
+     },
+     {
+      "n": "K. Kairinen",
+      "pos": "M"
+     },
+     {
+      "n": "A. Koita",
+      "pos": "M"
+     },
+     {
+      "n": "M. Gaćinović",
+      "pos": "F"
+     },
+     {
+      "n": "L. Jović",
+      "pos": "F"
+     }
+    ],
+    "541": [
+     {
+      "n": "T. Courtois",
+      "pos": "G"
+     },
+     {
+      "n": "D. Dumfries",
+      "pos": "D"
+     },
+     {
+      "n": "Éder Militão",
+      "pos": "D"
+     },
+     {
+      "n": "A. Rüdiger",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Cucurella",
+      "pos": "D"
+     },
+     {
+      "n": "Bernardo Silva",
+      "pos": "M"
+     },
+     {
+      "n": "E. Camavinga",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Diomande",
+      "pos": "M"
+     },
+     {
+      "n": "J. Bellingham",
+      "pos": "M"
+     },
+     {
+      "n": "Vinícius Júnior",
+      "pos": "M"
+     },
+     {
+      "n": "Kylian Mbappé",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

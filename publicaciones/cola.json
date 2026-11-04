@@ -2966,22 +2966,20 @@
   {
     "id": "2026-11-04-combi-partido-1635606",
     "fecha": "2026-11-04T18:10",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ AEK ATHENS FC vs REAL MADRID ⭐\n\n🎯 MBAPPÉ MARCA O ASISTE [x1.20]\n✅ VINICIUS JR.: 2+ TIROS [x1.17]\n✅ TCHOUAMENI COMETE 1+ FALTAS [x1.22]\n✅ MÁS DE 3,5 GOLES [x1.80]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.53]\n\n🔥 Resultado probable: 1-3 | 2-3 | 1-4\n💥 Cuota total aprox.: 9,01\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ AEK ATHENS FC vs REAL MADRID ⭐\n\n🎯 MBAPPÉ MARCA O ASISTE [x1.20]\n✅ JUDE BELLINGHAM COMETE 1+ FALTAS [x1.25]\n✅ MÁS DE 3,5 GOLES [x1.80]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.53]\n\n🔥 Resultado probable: 1-3 | 2-3 | 1-4\n💥 Cuota total aprox.: 4,59\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1635606|Player to Score or Assist|Kylian Mbappe",
-      "1635606|Away Player Shots|Vinicius Jr. - 2",
-      "1635606|Player Fouls Committed|Aurelien Tchouameni - 1",
+      "1635606|Player Fouls Committed|Jude Bellingham - 1",
       "1635606|Goals Over/Under|Over 3.5",
       "1635606|Total Corners (1st Half)|Over 4",
       "1635606|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.2,
-      1.17,
-      1.22,
+      1.25,
       1.8,
       1.91,
       1.53
@@ -3006,28 +3004,27 @@
       "threads": "18136031869743249",
       "instagram": "18133403161758442",
       "instagram_story": "18137784157680266"
-    }
+    },
+    "revisado_alineaciones": "2026-11-04T18:24"
   },
   {
     "id": "2026-11-04-combi-partido-1635658",
     "fecha": "2026-11-04T18:10",
-    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FENERBAHÇE vs LIVERPOOL ⭐\n\n🎯 VEDAT MURIQI: 1+ TIROS A PUERTA [x1.57]\n✅ KEREM AKTURKOGLU COMETE 1+ FALTAS [x1.50]\n✅ FLORIAN WIRTZ COMETE 1+ FALTAS [x1.33]\n✅ MILOS KERKEZ COMETE 1+ FALTAS [x1.40]\n✅ FENERBAHÇE MARCA [x1.40]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-2\n💥 Cuota total aprox.: 11,73\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FENERBAHÇE vs LIVERPOOL ⭐\n\n🎯 MATTEO GUENDOUZI COMETE 1+ FALTAS [x1.30]\n✅ DOMINIK SZOBOSZLAI COMETE 1+ FALTAS [x1.28]\n✅ JEREMY JACQUET COMETE 1+ FALTAS [x1.22]\n✅ FENERBAHÇE MARCA [x1.40]\n✅ MÁS DE 4 CÓRNERS EN LA 1ª PARTE [x1.91]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-2\n💥 Cuota total aprox.: 4,40\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635658|Home Player Shots On Target Total|Vedat Muriqi - 1",
-      "1635658|Player Fouls Committed|Kerem Akturkoglu - 1",
-      "1635658|Player Fouls Committed|Florian Wirtz - 1",
-      "1635658|Player Fouls Committed|Milos Kerkez - 1",
+      "1635658|Player Fouls Committed|Matteo Guendouzi - 1",
+      "1635658|Player Fouls Committed|Dominik Szoboszlai - 1",
+      "1635658|Player Fouls Committed|Jeremy Jacquet - 1",
       "1635658|Total - Home|Over 0.5",
       "1635658|Total Corners (1st Half)|Over 4"
     ],
     "cuotas": [
-      1.57,
-      1.5,
-      1.33,
-      1.4,
+      1.3,
+      1.28,
+      1.22,
       1.4,
       1.91
     ],
@@ -3051,7 +3048,8 @@
       "threads": "18024954131712812",
       "instagram": "18139074541632537",
       "instagram_story": "18030535814857062"
-    }
+    },
+    "revisado_alineaciones": "2026-11-04T18:24"
   },
   {
     "id": "2026-11-04-quien-gana-champions",
