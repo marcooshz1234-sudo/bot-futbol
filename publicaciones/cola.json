@@ -2880,5 +2880,69 @@
       "instagram_story": "18124696487314499",
       "threads_enlace": "18168967597474001"
     }
+  },
+  {
+    "id": "2026-11-04-combi-partido-1635606-madrid",
+    "fecha": "2026-11-04T12:15",
+    "sel": [
+      "1635606|Match Winner|Away",
+      "1635606|Total - Away|Over 2.5",
+      "1635606|To Score In Both Halves By Teams|Away",
+      "1635606|Total Shots|Over 28.5",
+      "1635606|Corners Over Under|Over 9.5"
+    ],
+    "cuotas": [
+      1.22,
+      1.67,
+      1.57,
+      1.73,
+      1.92
+    ],
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ AEK ATHENS FC vs REAL MADRID ⭐\n\n🎯 GANA EL REAL MADRID [x1.22]\n✅ REAL MADRID MARCA 3 O MÁS [x1.67]\n✅ REAL MADRID MARCA EN LAS DOS PARTES [x1.57]\n✅ MÁS DE 28,5 TIROS [x1.73]\n✅ MÁS DE 9,5 CÓRNERS [x1.92]\n\n🔥 Resultado probable: 1-3 | 0-3 | 1-4\n💥 Cuota total aprox.: 10,62\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "AEK Athens FC",
+      "visitante": "Real Madrid",
+      "id_l": 575,
+      "id_v": 541,
+      "logo_l": "https://media.api-sports.io/football/teams/575.png",
+      "logo_v": "https://media.api-sports.io/football/teams/541.png",
+      "fecha": "2026-11-04T18:45",
+      "liga": "Champions"
+    },
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "nota": "04/11 01:10: Marcos «la del Barça con escudos ha tenido muchos likes, mañana una a la misma hora del Madrid» y otra del Liverpool después"
+  },
+  {
+    "id": "2026-11-04-combi-partido-1635658-liverpool",
+    "fecha": "2026-11-04T12:30",
+    "sel": [
+      "1635658|Match Winner|Away",
+      "1635658|To Score In Both Halves By Teams|Away",
+      "1635658|Total Shots|Over 26.5",
+      "1635658|Corners Over Under|Over 9.5"
+    ],
+    "cuotas": [
+      1.48,
+      1.91,
+      1.8,
+      1.8
+    ],
+    "texto": "✅ COMBI LOCAS | CHAMPIONS\n⭐ FENERBAHÇE vs LIVERPOOL ⭐\n\n🎯 GANA EL LIVERPOOL [x1.48]\n✅ LIVERPOOL MARCA EN LAS DOS PARTES [x1.91]\n✅ MÁS DE 26,5 TIROS [x1.80]\n✅ MÁS DE 9,5 CÓRNERS [x1.80]\n\n🔥 Resultado probable: 1-2 | 0-2 | 1-3\n💥 Cuota total aprox.: 9,16\n🟢 VERDE A VERDE 🟢",
+    "tarjeta": {
+      "local": "Fenerbahçe",
+      "visitante": "Liverpool",
+      "id_l": 611,
+      "id_v": 40,
+      "logo_l": "https://media.api-sports.io/football/teams/611.png",
+      "logo_v": "https://media.api-sports.io/football/teams/40.png",
+      "fecha": "2026-11-04T18:45",
+      "liga": "Champions"
+    },
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "nota": "04/11 01:10: Marcos «la del Barça con escudos ha tenido muchos likes, mañana una a la misma hora del Madrid» y otra del Liverpool después"
   }
 ]
