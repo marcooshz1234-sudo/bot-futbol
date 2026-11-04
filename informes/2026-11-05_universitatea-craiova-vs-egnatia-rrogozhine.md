@@ -1,10 +1,10 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:22_
+_Actualizadas: 04/11 20:01_
 
 - **1X2:** 1 **1.45**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
@@ -30,7 +30,7 @@ _Actualizadas: 04/11 08:22_
     - 0,5: más **1.67** · menos **2.10**
     - 1,5: más **4.33** · menos **1.20**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -50,7 +50,7 @@ _Actualizadas: 04/11 08:22_
     - 3,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Away Player Shots On Target Total:** Adrian Rus **17.00**  ·  Baptiste Roux **17.00**
-- **Anytime Goal Scorer:** Deivid Hoxha **4.75**  ·  David Matei **5.50**  ·  Tudor Baluta **7.00**  ·  Oleksandr Romanchuk **8.00**  ·  Nicusor Bancu **8.00**  ·  Numan Ajetovikj **15.00**  ·  Ronaldo Webster **10.00**  ·  Steven Nsimba **2.10**  ·  Monday Etim **2.50**  ·  Alexandru Cicaldau **4.00**  ·  Heriberto Tavares **3.10**  ·  Zamiq Aliyev **23.00**  ·  Adrian Rus **10.00**  ·  Ibrahim Diabate **10.00**  ·  Assad Al Hamlawi **2.10**  ·  Eneo Bitri **15.00**  ·  Alexandru Cretu **7.50**  ·  Baptiste Roux **8.00**  ·  Alessandro Albanese **5.50**  ·  Eljon Sota **15.00**  ·  Ildi Gruda **5.50**  ·  Altin Kryeziu **17.00**  ·  Karim Loukili **6.00**  ·  Geralb Smajli **17.00**  ·  Edison Ndreca **15.00**  ·  Albano Aleksi **15.00**  ·  Jurguens Montenegro **4.75**  ·  Daniel Adjessa **4.50**  ·  Alessandro Kacbufi **17.00**  ·  Andrey Yago **15.00**  ·  Guillem Jaime **17.00**  ·  Reis Bakalli **9.50**  ·  Joao Lameira **5.50**  ·  Samuel Teles **5.50**  ·  Carlos Mora **3.60**  ·  Stefan Baiaram **2.10**  ·  Vladimir Screciu **7.00**  ·  Luca Basceanu **3.10**  ·  Nikola Stevanovic **8.00**  ·  Simon Elisor **2.10**
+- **Anytime Goal Scorer:** Deivid Hoxha **4.75**  ·  David Matei **5.50**  ·  Tudor Baluta **7.00**  ·  Oleksandr Romanchuk **8.00**  ·  Nicusor Bancu **8.00**  ·  Numan Ajetovikj **15.00**  ·  Ronaldo Webster **10.00**  ·  Steven Nsimba **2.10**  ·  Monday Etim **2.40**  ·  Alexandru Cicaldau **4.00**  ·  Heriberto Tavares **3.10**  ·  Zamiq Aliyev **23.00**  ·  Adrian Rus **10.00**  ·  Ibrahim Diabate **10.00**  ·  Assad Al Hamlawi **2.10**  ·  Eneo Bitri **15.00**  ·  Alexandru Cretu **7.50**  ·  Baptiste Roux **8.00**  ·  Alessandro Albanese **5.50**  ·  Eljon Sota **15.00**  ·  Ildi Gruda **5.50**  ·  Altin Kryeziu **17.00**  ·  Karim Loukili **6.00**  ·  Geralb Smajli **17.00**  ·  Edison Ndreca **15.00**  ·  Albano Aleksi **15.00**  ·  Jurguens Montenegro **4.75**  ·  Daniel Adjessa **4.50**  ·  Alessandro Kacbufi **17.00**  ·  Andrey Yago **15.00**  ·  Guillem Jaime **17.00**  ·  Reis Bakalli **9.50**  ·  Joao Lameira **5.50**  ·  Samuel Teles **5.50**  ·  Carlos Mora **3.60**  ·  Stefan Baiaram **2.10**  ·  Vladimir Screciu **7.00**  ·  Luca Basceanu **3.10**  ·  Nikola Stevanovic **8.00**  ·  Simon Elisor **2.10**
 
 ## Estadísticas de equipo
 | | Universitatea Craiova (total) | Universitatea Craiova en casa | Egnatia Rrogozhinë (total) | Egnatia Rrogozhinë fuera |
@@ -188,11 +188,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +17% |
 | Doble oportunidad: 12 | 76% | 80% | 78% | 1.18 | -8% |
 | Doble oportunidad: 1X | 70% | 85% | 77% | 1.11 | -14% |
-| Ambos marcan: No | 40% | 50% | 45% | 1.83 | -18% |
-| Ambos marcan: Sí | 60% | 50% | 55% | 1.83 | +1% |
+| Ambos marcan: No | 39% | 50% | 45% | 1.83 | -18% |
+| Ambos marcan: Sí | 61% | 50% | 55% | 1.83 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -3% |
 | Goles más/menos: Menos de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.10 | -10% |
 | Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.40 | -9% |
@@ -208,8 +208,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 39% | 22% | 30% | 4.33 | +31% |
 | Goles del visitante: Menos de 0.5 | 26% | 44% | 35% | 2.10 | -26% |
 | Goles del visitante: Menos de 1.5 | 61% | 78% | 70% | 1.20 | -16% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 45% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 55% | 54% | 55% | 1.73 | -6% |
+| Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -8% |
+| Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -3% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: 1 | 35% | 48% | 42% | 1.95 | -19% |
 

@@ -1,7 +1,7 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -201,23 +201,23 @@ _Goles esperados: local 1,08 · visitante 1,15 · córners esperados 9,6._
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 73% | 69% | 1.30 | -10% |
-| Goles más/menos: Más de 2.5 | 39% | 47% | 43% | 2.00 | -14% |
+| Goles más/menos: Más de 2.5 | 38% | 47% | 43% | 2.00 | -14% |
 | Goles más/menos: Más de 3.5 | 19% | 27% | 23% | 3.50 | -20% |
 | Goles más/menos: Menos de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
-| Goles más/menos: Menos de 2.5 | 61% | 53% | 57% | 1.80 | +3% |
+| Goles más/menos: Menos de 2.5 | 62% | 53% | 57% | 1.80 | +3% |
 | Goles más/menos: Menos de 3.5 | 81% | 73% | 77% | 1.30 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 31% | 28% | 3.00 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del local: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
 | Goles del local: Más de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
-| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +2% |
+| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
 | Goles del local: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
 | Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
+| Goles del visitante: Más de 1.5 | 32% | 39% | 35% | 2.38 | -16% |
 | Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
+| Goles del visitante: Menos de 1.5 | 68% | 61% | 65% | 1.53 | -1% |
 | Córners más/menos: Más de 9.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 54% | 54% | 54% | 1.73 | -7% |
 | 1X2 descanso: 2 | 27% | 30% | 28% | 3.10 | -12% |

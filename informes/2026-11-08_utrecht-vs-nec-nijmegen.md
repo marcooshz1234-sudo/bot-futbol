@@ -1,7 +1,7 @@
 # Utrecht – NEC Nijmegen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 20:00 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -191,42 +191,42 @@ _Sin bajas comunicadas por ahora._
 | Bram Nuytinck | D | 8 | 322 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,77 · visitante 1,59 · córners esperados 9,2._
+_Goles esperados: local 1,77 · visitante 1,60 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 35% | 35% | 35% | 2.70 | -5% |
-| 1X2: X | 23% | 25% | 24% | 3.80 | -9% |
+| 1X2: X | 23% | 25% | 24% | 3.80 | -10% |
 | 1X2: 1 | 42% | 40% | 41% | 2.38 | -2% |
 | Doble oportunidad: X2 | 58% | 61% | 59% | 1.53 | -9% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 65% | 65% | 65% | 1.44 | -7% |
 | Ambos marcan: No | 34% | 35% | 35% | 2.62 | -9% |
 | Ambos marcan: Sí | 66% | 65% | 65% | 1.44 | -6% |
-| Goles más/menos: Más de 2.5 | 65% | 62% | 64% | 1.50 | -4% |
-| Goles más/menos: Más de 3.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles más/menos: Más de 4.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles más/menos: Menos de 2.5 | 35% | 38% | 36% | 2.50 | -9% |
-| Goles más/menos: Menos de 3.5 | 57% | 58% | 57% | 1.62 | -7% |
+| Goles más/menos: Más de 2.5 | 66% | 62% | 64% | 1.50 | -4% |
+| Goles más/menos: Más de 3.5 | 44% | 42% | 43% | 2.20 | -5% |
+| Goles más/menos: Más de 4.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles más/menos: Menos de 2.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles más/menos: Menos de 3.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Menos de 4.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
 | Goles del local: Más de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles del local: Más de 2.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles del local: Menos de 1.5 | 47% | 49% | 48% | 1.91 | -8% |
-| Goles del local: Menos de 2.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles del local: Más de 2.5 | 26% | 27% | 27% | 3.50 | -7% |
+| Goles del local: Menos de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
+| Goles del local: Menos de 2.5 | 74% | 73% | 73% | 1.28 | -6% |
 | Goles del visitante: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
-| Goles del visitante: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
-| Goles del visitante: Más de 2.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles del visitante: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -12% |
+| Goles del visitante: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |
+| Goles del visitante: Más de 2.5 | 22% | 22% | 22% | 4.33 | -6% |
+| Goles del visitante: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
 | Goles del visitante: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Goles del visitante: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Córners más/menos: Más de 9.5 | 42% | 56% | 49% | 1.67 | -18% |
-| Córners más/menos: Menos de 9.5 | 58% | 44% | 51% | 2.10 | +7% |
+| Goles del visitante: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Córners más/menos: Más de 9.5 | 43% | 56% | 49% | 1.67 | -18% |
+| Córners más/menos: Menos de 9.5 | 57% | 44% | 51% | 2.10 | +7% |
 | 1X2 descanso: 2 | 29% | 30% | 30% | 3.10 | -8% |
 | 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: 1 | 34% | 32% | 33% | 2.88 | -5% |

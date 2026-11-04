@@ -1,7 +1,7 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -194,7 +194,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 65% | 62% | 64% | 1.53 | -3% |
+| 1X2: 2 | 65% | 62% | 63% | 1.53 | -3% |
 | 1X2: X | 24% | 22% | 23% | 4.20 | -3% |
 | 1X2: 1 | 11% | 16% | 13% | 6.00 | -20% |
 | Doble oportunidad: X2 | 89% | 83% | 86% | 1.14 | -2% |

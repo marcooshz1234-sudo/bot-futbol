@@ -1,7 +1,7 @@
 # SC Freiburg – Union Berlin
 **Bundesliga** · Regular Season - 9 · 08/11/2026 17:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -196,19 +196,19 @@ _Goles esperados: local 2,78 · visitante 0,85 · córners esperados 9,3._
 |---|---|---|---|---|---|
 | 1X2: 2 | 9% | 16% | 12% | 6.00 | -26% |
 | 1X2: X | 14% | 22% | 18% | 4.33 | -23% |
-| 1X2: 1 | 78% | 62% | 70% | 1.53 | +7% |
-| Doble oportunidad: X2 | 22% | 40% | 31% | 2.38 | -26% |
+| 1X2: 1 | 77% | 62% | 70% | 1.53 | +7% |
+| Doble oportunidad: X2 | 23% | 40% | 31% | 2.38 | -26% |
 | Doble oportunidad: 12 | 86% | 77% | 82% | 1.22 | -0% |
 | Doble oportunidad: 1X | 91% | 83% | 87% | 1.14 | -1% |
 | Ambos marcan: No | 46% | 45% | 46% | 2.05 | -6% |
 | Ambos marcan: Sí | 54% | 55% | 54% | 1.70 | -8% |
 | Goles más/menos: Más de 1.5 | 88% | 79% | 83% | 1.20 | -0% |
 | Goles más/menos: Más de 2.5 | 70% | 59% | 64% | 1.62 | +4% |
-| Goles más/menos: Más de 3.5 ✅ | 49% | 38% | 44% | 2.50 | +9% |
+| Goles más/menos: Más de 3.5 ✅ | 49% | 38% | 43% | 2.50 | +9% |
 | Goles más/menos: Más de 4.5 | 30% | 21% | 25% | 4.50 | +15% |
 | Goles más/menos: Menos de 1.5 | 12% | 21% | 17% | 4.50 | -25% |
 | Goles más/menos: Menos de 2.5 | 30% | 41% | 36% | 2.30 | -18% |
-| Goles más/menos: Menos de 3.5 | 51% | 62% | 56% | 1.53 | -14% |
+| Goles más/menos: Menos de 3.5 | 51% | 62% | 57% | 1.53 | -14% |
 | Goles más/menos: Menos de 4.5 | 70% | 79% | 75% | 1.20 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 73% | 76% | 1.28 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 41% | 44% | 2.25 | -1% |
@@ -216,7 +216,7 @@ _Goles esperados: local 2,78 · visitante 0,85 · córners esperados 9,3._
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
 | Goles del local: Más de 1.5 | 77% | 61% | 69% | 1.53 | +5% |
 | Goles del local: Más de 2.5 ✅ | 53% | 35% | 44% | 2.62 | +15% |
-| Goles del local: Menos de 1.5 | 23% | 39% | 31% | 2.38 | -26% |
+| Goles del local: Menos de 1.5 | 23% | 39% | 31% | 2.38 | -25% |
 | Goles del local: Menos de 2.5 | 47% | 65% | 56% | 1.44 | -19% |
 | Goles del visitante: Más de 0.5 | 57% | 62% | 60% | 1.50 | -10% |
 | Goles del visitante: Más de 1.5 | 21% | 27% | 24% | 3.50 | -17% |

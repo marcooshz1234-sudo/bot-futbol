@@ -1,10 +1,10 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 04/11 20:02_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
@@ -201,10 +201,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 51% | 60% | 56% | 1.57 | -13% |
 | Ambos marcan: No | 48% | 47% | 47% | 2.00 | -5% |
 | Ambos marcan: Sí | 52% | 53% | 53% | 1.75 | -8% |
-| Goles más/menos: Más de 1.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles más/menos: Más de 1.5 | 74% | 73% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 49% | 49% | 49% | 1.95 | -5% |
 | Goles más/menos: Más de 3.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles más/menos: Menos de 1.5 | 26% | 27% | 26% | 3.50 | -7% |
+| Goles más/menos: Menos de 1.5 | 26% | 27% | 27% | 3.50 | -7% |
 | Goles más/menos: Menos de 2.5 | 51% | 51% | 51% | 1.85 | -5% |
 | Goles más/menos: Menos de 3.5 | 73% | 72% | 73% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |

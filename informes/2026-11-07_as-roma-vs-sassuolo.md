@@ -1,7 +1,7 @@
 # AS Roma – Sassuolo
 **Serie A** · Regular Season - 11 · 07/11/2026 20:45 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -191,7 +191,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | B. Domínguez | M | 8 | 248 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 1 | 10 | 1,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,89 · visitante 1,21 · córners esperados 9,5._
+_Goles esperados: local 2,88 · visitante 1,21 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -203,10 +203,10 @@ _Goles esperados: local 2,89 · visitante 1,21 · córners esperados 9,5._
 | Doble oportunidad: 1X | 87% | 90% | 88% | 1.07 | -6% |
 | Ambos marcan: No | 34% | 42% | 38% | 2.20 | -16% |
 | Ambos marcan: Sí | 66% | 58% | 62% | 1.62 | +0% |
-| Goles más/menos: Más de 2.5 | 78% | 68% | 73% | 1.40 | +2% |
+| Goles más/menos: Más de 2.5 | 77% | 68% | 73% | 1.40 | +2% |
 | Goles más/menos: Más de 3.5 | 58% | 50% | 54% | 1.91 | +4% |
 | Goles más/menos: Más de 4.5 ✅ | 39% | 30% | 34% | 3.20 | +10% |
-| Goles más/menos: Menos de 2.5 | 22% | 32% | 27% | 3.00 | -19% |
+| Goles más/menos: Menos de 2.5 | 23% | 32% | 27% | 3.00 | -19% |
 | Goles más/menos: Menos de 3.5 | 42% | 50% | 46% | 1.91 | -13% |
 | Goles más/menos: Menos de 4.5 | 61% | 70% | 66% | 1.36 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |

@@ -1,10 +1,10 @@
 # Riga – FK Jablonec
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Skonto stadions
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:22_
+_Actualizadas: 04/11 20:01_
 
 - **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -30,7 +30,7 @@ _Actualizadas: 04/11 08:22_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.20**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -209,12 +209,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 41% | 25% | 33% | 3.75 | +23% |
 | Goles del local: Menos de 1.5 | 77% | 58% | 67% | 1.62 | +9% |
 | Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.95 | -10% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.85 | -0% |
-| 1X2 descanso: 2 | 38% | 27% | 32% | 3.50 | +12% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -14% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -3% |
+| 1X2 descanso: 2 | 38% | 27% | 32% | 3.50 | +13% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 19% | 31% | 25% | 3.00 | -26% |
 

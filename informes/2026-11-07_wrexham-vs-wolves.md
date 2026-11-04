@@ -1,7 +1,7 @@
 # Wrexham – Wolves
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -200,10 +200,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 38% | 56% | 47% | 1.67 | -22% |
 | Goles más/menos: Más de 1.5 | 60% | 75% | 67% | 1.28 | -14% |
 | Goles más/menos: Más de 2.5 | 33% | 50% | 41% | 1.91 | -21% |
-| Goles más/menos: Más de 3.5 | 15% | 30% | 22% | 3.20 | -29% |
+| Goles más/menos: Más de 3.5 | 14% | 30% | 22% | 3.20 | -29% |
 | Goles más/menos: Menos de 1.5 | 40% | 25% | 33% | 3.75 | +23% |
 | Goles más/menos: Menos de 2.5 | 67% | 50% | 59% | 1.91 | +12% |
-| Goles más/menos: Menos de 3.5 | 85% | 70% | 78% | 1.36 | +6% |
+| Goles más/menos: Menos de 3.5 | 86% | 70% | 78% | 1.36 | +6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 58% | 69% | 64% | 1.36 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 22% | 35% | 29% | 2.62 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 31% | 36% | 3.00 | +9% |

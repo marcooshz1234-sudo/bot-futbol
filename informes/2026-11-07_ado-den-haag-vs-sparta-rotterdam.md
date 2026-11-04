@@ -1,7 +1,7 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -203,7 +203,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 58% | 67% | 63% | 1.40 | -12% |
 | Ambos marcan: No | 35% | 38% | 36% | 2.50 | -9% |
-| Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -5% |
+| Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -4% |
 | Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Más de 3.5 | 42% | 39% | 40% | 2.38 | -4% |
 | Goles más/menos: Más de 4.5 | 23% | 23% | 23% | 4.00 | -7% |

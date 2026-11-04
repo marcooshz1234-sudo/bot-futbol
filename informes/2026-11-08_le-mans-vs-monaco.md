@@ -1,7 +1,7 @@
 # Le Mans – Monaco
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Marie-Marvingt
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -186,24 +186,24 @@ _Sin bajas comunicadas por ahora._
 | T. Minamino | M | 3 | 146 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,86 · córners esperados 9,1._
+_Goles esperados: local 1,07 · visitante 1,87 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 55% | 55% | 1.73 | -4% |
-| 1X2: X | 23% | 24% | 23% | 4.00 | -7% |
+| 1X2: 2 | 56% | 55% | 56% | 1.73 | -4% |
+| 1X2: X | 22% | 24% | 23% | 4.00 | -7% |
 | 1X2: 1 | 22% | 21% | 21% | 4.50 | -4% |
 | Doble oportunidad: X2 | 78% | 79% | 79% | 1.18 | -7% |
-| Doble oportunidad: 12 | 77% | 76% | 77% | 1.22 | -6% |
+| Doble oportunidad: 12 | 78% | 76% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 44% | 45% | 45% | 2.05 | -8% |
 | Ambos marcan: No | 44% | 41% | 43% | 2.25 | -4% |
 | Ambos marcan: Sí | 56% | 59% | 57% | 1.57 | -10% |
-| Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -7% |
+| Goles más/menos: Más de 2.5 | 56% | 59% | 58% | 1.62 | -7% |
 | Goles más/menos: Más de 3.5 | 34% | 40% | 37% | 2.38 | -12% |
-| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -2% |
+| Goles más/menos: Más de 4.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles más/menos: Menos de 2.5 | 44% | 41% | 42% | 2.30 | -2% |
 | Goles más/menos: Menos de 3.5 | 66% | 60% | 63% | 1.57 | -1% |
-| Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
+| Goles más/menos: Menos de 4.5 | 82% | 78% | 80% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
@@ -214,11 +214,11 @@ _Goles esperados: local 1,07 · visitante 1,86 · córners esperados 9,1._
 | Goles del local: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del visitante: Más de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles del visitante: Más de 2.5 | 29% | 31% | 30% | 3.00 | -10% |
-| Goles del visitante: Menos de 1.5 | 44% | 42% | 43% | 2.20 | -4% |
+| Goles del visitante: Menos de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
 | Goles del visitante: Menos de 2.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Córners más/menos: Más de 8.5 | 50% | 50% | 50% | 1.83 | -8% |
 | Córners más/menos: Menos de 8.5 | 50% | 50% | 50% | 1.83 | -9% |
-| 1X2 descanso: 2 | 41% | 42% | 42% | 2.20 | -9% |
+| 1X2 descanso: 2 | 41% | 42% | 42% | 2.20 | -8% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: 1 | 20% | 21% | 20% | 4.50 | -9% |
 

@@ -1,7 +1,7 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,63 · córners esperados 9,5._
+_Goles esperados: local 1,41 · visitante 1,63 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

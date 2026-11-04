@@ -1,17 +1,17 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:22_
+_Actualizadas: 04/11 20:01_
 
 - **1X2:** 1 **1.17**  ·  X **6.50**  ·  2 **17.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.11**  ·  X2 **5.00**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.40** · menos **2.75**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
     - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**
@@ -183,43 +183,43 @@ _Sin precedentes recientes._
 | N. Bochorishvili | D | 2 | 29 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 4,18 · visitante 0,39 · córners esperados 9,4._
+_Goles esperados: local 4,16 · visitante 0,39 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 1% | 6% | 3% | 17.00 | -41% |
-| 1X2: X | 4% | 14% | 9% | 6.50 | -42% |
+| 1X2: X | 4% | 14% | 9% | 6.50 | -41% |
 | 1X2: 1 | 95% | 80% | 88% | 1.17 | +2% |
 | Doble oportunidad: X2 | 5% | 19% | 12% | 5.00 | -40% |
-| Doble oportunidad: 12 | 96% | 87% | 92% | 1.11 | +2% |
+| Doble oportunidad: 12 | 96% | 87% | 91% | 1.11 | +2% |
 | Doble oportunidad: 1X | 99% | 94% | 96% | 1.02 | -2% |
 | Ambos marcan: No | 68% | 56% | 62% | 1.67 | +3% |
 | Ambos marcan: Sí | 32% | 44% | 38% | 2.10 | -20% |
-| Goles más/menos: Más de 2.5 | 83% | 66% | 75% | 1.40 | +5% |
+| Goles más/menos: Más de 2.5 | 83% | 67% | 75% | 1.40 | +5% |
 | Goles más/menos: Más de 3.5 | 67% | 46% | 57% | 2.00 | +13% |
-| Goles más/menos: Más de 4.5 | 48% | 28% | 38% | 3.40 | +29% |
-| Goles más/menos: Menos de 2.5 | 17% | 34% | 25% | 2.75 | -31% |
+| Goles más/menos: Más de 4.5 | 48% | 28% | 38% | 3.40 | +28% |
+| Goles más/menos: Menos de 2.5 | 17% | 33% | 25% | 2.88 | -29% |
 | Goles más/menos: Menos de 3.5 | 33% | 54% | 43% | 1.73 | -25% |
 | Goles más/menos: Menos de 4.5 | 52% | 72% | 62% | 1.30 | -19% |
-| Goles 1ª parte más/menos: Más de 0.5 | 86% | 77% | 82% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 59% | 46% | 53% | 2.00 | +6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 32% | 22% | 27% | 4.33 | +17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 14% | 23% | 18% | 4.00 | -26% |
+| Goles 1ª parte más/menos: Más de 0.5 | 86% | 77% | 81% | 1.22 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 59% | 46% | 53% | 2.00 | +5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 32% | 22% | 27% | 4.33 | +16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 14% | 23% | 19% | 4.00 | -26% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 41% | 54% | 47% | 1.73 | -18% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 68% | 78% | 73% | 1.20 | -12% |
 | Goles del local: Más de 1.5 | 92% | 77% | 84% | 1.22 | +3% |
-| Goles del local: Más de 2.5 | 79% | 54% | 66% | 1.73 | +15% |
+| Goles del local: Más de 2.5 | 79% | 54% | 66% | 1.73 | +14% |
 | Goles del local: Más de 3.5 | 60% | 34% | 47% | 2.75 | +29% |
 | Goles del local: Menos de 1.5 | 8% | 23% | 16% | 4.00 | -37% |
 | Goles del local: Menos de 2.5 | 21% | 46% | 34% | 2.00 | -32% |
-| Goles del local: Menos de 3.5 | 40% | 66% | 53% | 1.40 | -26% |
+| Goles del local: Menos de 3.5 | 40% | 66% | 53% | 1.40 | -25% |
 | Goles del visitante: Más de 0.5 | 32% | 46% | 39% | 2.00 | -21% |
 | Goles del visitante: Menos de 0.5 | 68% | 54% | 61% | 1.73 | +5% |
-| Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -7% |
+| Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -8% |
 | Córners más/menos: Menos de 9.5 | 56% | 56% | 56% | 1.67 | -7% |
-| 1X2 descanso: X | 18% | 30% | 24% | 3.10 | -26% |
+| 1X2 descanso: X | 18% | 30% | 24% | 3.10 | -25% |
 | 1X2 descanso: 1 | 79% | 62% | 70% | 1.50 | +5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Estrela – Benfica
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -223,7 +223,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 2.5 | 55% | 49% | 52% | 1.91 | -2% |
 | Goles del visitante: Más de 3.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles del visitante: Menos de 1.5 | 22% | 27% | 24% | 3.50 | -15% |
+| Goles del visitante: Menos de 1.5 | 22% | 27% | 24% | 3.50 | -14% |
 | Goles del visitante: Menos de 2.5 | 45% | 51% | 48% | 1.80 | -13% |
 | Goles del visitante: Menos de 3.5 | 68% | 72% | 70% | 1.30 | -9% |
 | Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |

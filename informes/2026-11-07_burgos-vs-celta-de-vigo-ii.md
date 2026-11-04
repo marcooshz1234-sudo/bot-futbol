@@ -1,10 +1,10 @@
 # Burgos – Celta de Vigo II
 **Segunda División** · Regular Season - 13 · 07/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 04/11 20:02_
 
 - **1X2:** 1 **1.70**  ·  X **3.50**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.00**
@@ -195,8 +195,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 43% | 46% | 45% | 2.00 | -10% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 79% | 79% | 79% | 1.17 | -7% |
-| Ambos marcan: No | 43% | 50% | 47% | 1.83 | -14% |
-| Ambos marcan: Sí | 57% | 50% | 53% | 1.83 | -3% |
+| Ambos marcan: No | 44% | 50% | 47% | 1.83 | -14% |
+| Ambos marcan: Sí | 56% | 50% | 53% | 1.83 | -3% |
 | Goles más/menos: Más de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles más/menos: Más de 2.5 | 58% | 49% | 53% | 1.95 | +4% |
 | Goles más/menos: Más de 3.5 | 35% | 29% | 32% | 3.25 | +5% |

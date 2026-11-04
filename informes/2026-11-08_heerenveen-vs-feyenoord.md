@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 02:10_
@@ -213,15 +213,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 69% | 51% | 60% | 1.80 | +9% |
 | Goles más/menos: Menos de 4.5 | 85% | 71% | 78% | 1.33 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 78% | 74% | 1.20 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 49% | 42% | 1.91 | -21% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 49% | 42% | 1.91 | -21% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 23% | 18% | 4.00 | -28% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 22% | 26% | 4.33 | +11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 51% | 58% | 1.80 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 51% | 58% | 1.80 | +5% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 77% | 82% | 1.22 | +0% |
 | Goles del local: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
-| Goles del local: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
+| Goles del local: Más de 1.5 | 31% | 41% | 36% | 2.25 | -18% |
 | Goles del local: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
-| Goles del local: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
+| Goles del local: Menos de 1.5 | 69% | 59% | 64% | 1.57 | +0% |
 | Goles del visitante: Más de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
 | Goles del visitante: Más de 2.5 | 23% | 39% | 31% | 2.38 | -26% |
 | Goles del visitante: Menos de 1.5 | 51% | 35% | 43% | 2.62 | +13% |

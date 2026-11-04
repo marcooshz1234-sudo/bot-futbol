@@ -1,10 +1,10 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 02:10_
+_Actualizadas: 04/11 20:02_
 
 - **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
@@ -32,6 +32,8 @@ _Actualizadas: 04/11 02:10_
 - **Córners más/menos:**
     - 11: más **1.85** · menos **1.95**
     - 11,5: más **2.00** · menos **1.73**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -49,7 +51,7 @@ _Actualizadas: 04/11 02:10_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.10**  ·  Menos de 5 **2.30**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.80**  ·  Menos de 5 **2.00**
 - **Home Player Shots On Target Total:** Mathias Jorgensen - 2 **6.00**  ·  Mathias Jorgensen - 3 **21.00**  ·  Andri Gudjohnsen - 1 **1.44**  ·  Ryoya Morishita - 1 **1.83**  ·  Todd Cantwell - 1 **1.83**  ·  Augustus Kargbo - 1 **1.73**  ·  Oladapo Afolayan - 1 **1.73**  ·  Mathias Jorgensen - 1 **1.83**  ·  Moussa Baradji - 1 **3.00**  ·  Jayden Fevrier - 1 **1.83**  ·  Kristi Montgomery - 1 **3.25**  ·  Sean McLoughlin - 1 **6.00**  ·  Dion De Neve - 1 **3.25**  ·  Jake Garrett - 1 **3.40**  ·  Sam Morsy - 1 **3.00**  ·  Tom Atcheson - 1 **6.00**  ·  Adam Forshaw - 1 **3.75**  ·  Hayden Carter - 1 **6.00**  ·  Harry Pickering - 1 **6.00**  ·  Yuri Ribeiro - 1 **6.00**  ·  Ryan Alebiosu - 1 **3.50**  ·  Andri Gudjohnsen - 2 **3.25**  ·  Ryoya Morishita - 2 **5.50**  ·  Todd Cantwell - 2 **6.00**  ·  Augustus Kargbo - 2 **4.50**  ·  Oladapo Afolayan - 2 **4.50**  ·  Moussa Baradji - 2 **15.00**  ·  Jayden Fevrier - 2 **5.50**  ·  Kristi Montgomery - 2 **17.00**  ·  Dion De Neve - 2 **17.00**  ·  Jake Garrett - 2 **17.00**  ·  Sam Morsy - 2 **13.00**  ·  Adam Forshaw - 2 **21.00**  ·  Ryan Alebiosu - 2 **19.00**  ·  Andri Gudjohnsen - 3 **9.00**  ·  Ryoya Morishita - 3 **19.00**  ·  Todd Cantwell - 3 **21.00**  ·  Augustus Kargbo - 3 **15.00**  ·  Oladapo Afolayan - 3 **15.00**  ·  Jayden Fevrier - 3 **19.00**  ·  Andri Gudjohnsen - 4 **21.00**  ·  Gady Beyuku - 1 **3.75**  ·  Gady Beyuku - 2 **21.00**
 - **Away Player Shots On Target Total:** Taty Castellanos **6.50**  ·  Kristi Montgomery **34.00**  ·  Arne Engels **41.00**  ·  Manor Solomon **29.00**  ·  Andri Gudjohnsen **13.00**  ·  Tomas Soucek **7.50**  ·  Jayden Fevrier **81.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **15.00**  ·  Augustus Kargbo **34.00**  ·  Yuki Ohashi **23.00**  ·  Mohamadou Kante **13.00**  ·  Airidas Golambeckis **10.00**  ·  Scott Wharton **19.00**  ·  Divine Mukasa **34.00**  ·  Joel Piroe **21.00**  ·  Todd Cantwell **29.00**  ·  Harry Pickering **51.00**  ·  Hayden Carter **26.00**  ·  Adam Forshaw **101.00**  ·  Soungoutou Magassa **41.00**  ·  Sean McLoughlin **26.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **81.00**  ·  Max Kilman **15.00**  ·  Joel Veltman **21.00**  ·  Edvin Austbo **17.00**  ·  Joshua Ajala **12.00**  ·  Ryoya Morishita **34.00**  ·  Kyle Walker-Peters **81.00**  ·  Yuri Ribeiro **126.00**  ·  Jarrod Bowen **11.00**  ·  Konstantinos Mavropanos **5.50**  ·  Pablo Felipe **12.00**  ·  Felipe Morato **17.00**  ·  Oliver Scarles **21.00**  ·  Adama Boiro **67.00**  ·  Oladapo Afolayan **19.00**  ·  Sam Morsy **67.00**  ·  Lewis Orford **26.00**  ·  Ezra Mayers **17.00**
 - **Home Player Shots:** Mathias Jorgensen - 2 **1.67**  ·  Mathias Jorgensen - 3 **3.00**  ·  Mathias Jorgensen - 4 **6.00**  ·  Mathias Jorgensen - 5 **13.00**  ·  Andri Gudjohnsen - 1 **1.06**  ·  Ryoya Morishita - 1 **1.14**  ·  Todd Cantwell - 1 **1.17**  ·  Augustus Kargbo - 1 **1.11**  ·  Oladapo Afolayan - 1 **1.11**  ·  Mathias Jorgensen - 1 **1.17**  ·  Moussa Baradji - 1 **1.36**  ·  Jayden Fevrier - 1 **1.14**  ·  Kristi Montgomery - 1 **1.57**  ·  Sean McLoughlin - 1 **2.25**  ·  Dion De Neve - 1 **1.57**  ·  Jake Garrett - 1 **1.62**  ·  Sam Morsy - 1 **1.44**  ·  Tom Atcheson - 1 **2.62**  ·  Adam Forshaw - 1 **1.83**  ·  Hayden Carter - 1 **2.25**  ·  Harry Pickering - 1 **2.25**  ·  Yuri Ribeiro - 1 **2.25**  ·  Ryan Alebiosu - 1 **1.62**  ·  Andri Gudjohnsen - 2 **1.33**  ·  Ryoya Morishita - 2 **1.62**  ·  Todd Cantwell - 2 **1.67**  ·  Augustus Kargbo - 2 **1.53**  ·  Oladapo Afolayan - 2 **1.53**  ·  Moussa Baradji - 2 **2.62**  ·  Jayden Fevrier - 2 **1.62**  ·  Kristi Montgomery - 2 **3.50**  ·  Sean McLoughlin - 2 **8.00**  ·  Dion De Neve - 2 **3.50**  ·  Jake Garrett - 2 **3.75**  ·  Sam Morsy - 2 **3.00**  ·  Tom Atcheson - 2 **9.00**  ·  Adam Forshaw - 2 **5.00**  ·  Hayden Carter - 2 **8.00**  ·  Harry Pickering - 2 **8.00**  ·  Yuri Ribeiro - 2 **8.00**  ·  Ryan Alebiosu - 2 **3.75**  ·  Andri Gudjohnsen - 3 **1.91**  ·  Ryoya Morishita - 3 **2.75**  ·  Todd Cantwell - 3 **3.00**  ·  Augustus Kargbo - 3 **2.50**  ·  Oladapo Afolayan - 3 **2.50**  ·  Moussa Baradji - 3 **6.00**  ·  Jayden Fevrier - 3 **2.75**  ·  Kristi Montgomery - 3 **10.00**  ·  Sean McLoughlin - 3 **21.00**  ·  Dion De Neve - 3 **10.00**  ·  Jake Garrett - 3 **11.00**  ·  Sam Morsy - 3 **7.00**  ·  Tom Atcheson - 3 **21.00**  ·  Adam Forshaw - 3 **15.00**  ·  Hayden Carter - 3 **21.00**  ·  Harry Pickering - 3 **21.00**  ·  Yuri Ribeiro - 3 **21.00**  ·  Ryan Alebiosu - 3 **10.00**  ·  Andri Gudjohnsen - 4 **3.40**  ·  Ryoya Morishita - 4 **5.50**  ·  Todd Cantwell - 4 **6.00**  ·  Augustus Kargbo - 4 **4.50**  ·  Oladapo Afolayan - 4 **4.50**  ·  Moussa Baradji - 4 **15.00**  ·  Jayden Fevrier - 4 **5.50**  ·  Kristi Montgomery - 4 **21.00**  ·  Dion De Neve - 4 **21.00**  ·  Jake Garrett - 4 **21.00**  ·  Sam Morsy - 4 **19.00**  ·  Andri Gudjohnsen - 5 **6.00**  ·  Ryoya Morishita - 5 **13.00**  ·  Todd Cantwell - 5 **13.00**  ·  Augustus Kargbo - 5 **10.00**  ·  Oladapo Afolayan - 5 **10.00**  ·  Jayden Fevrier - 5 **13.00**  ·  Andri Gudjohnsen - 6 **13.00**  ·  Ryoya Morishita - 6 **21.00**  ·  Todd Cantwell - 6 **21.00**  ·  Augustus Kargbo - 6 **21.00**  ·  Oladapo Afolayan - 6 **21.00**  ·  Mathias Jorgensen - 6 **21.00**  ·  Andri Gudjohnsen - 7 **21.00**  ·  Gady Beyuku - 1 **1.83**  ·  Gady Beyuku - 2 **5.00**  ·  Gady Beyuku - 3 **15.00**  ·  Jayden Fevrier - 6 **21.00**  ·  Ryan Alebiosu - 4 **21.00**
@@ -204,7 +206,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 69% | 58% | 63% | 1.62 | +2% |
 | Goles más/menos: Más de 2.5 | 75% | 59% | 67% | 1.62 | +8% |
 | Goles más/menos: Más de 3.5 | 55% | 40% | 47% | 2.38 | +12% |
-| Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +24% |
+| Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +23% |
 | Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -23% |
 | Goles más/menos: Menos de 3.5 | 45% | 60% | 53% | 1.57 | -17% |
 | Goles más/menos: Menos de 4.5 | 65% | 78% | 71% | 1.22 | -13% |

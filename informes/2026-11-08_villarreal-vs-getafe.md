@@ -1,7 +1,7 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -208,15 +208,15 @@ _Goles esperados: local 1,86 · visitante 0,93 · córners esperados 10,1._
 | Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -5% |
 | Goles más/menos: Menos de 3.5 | 69% | 68% | 69% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 1.5 | 55% | 61% | 58% | 1.53 | -11% |
 | Goles del local: Más de 2.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles del local: Menos de 1.5 | 45% | 39% | 42% | 2.38 | -0% |
 | Goles del local: Menos de 2.5 | 71% | 65% | 68% | 1.44 | -2% |
-| Goles del visitante: Más de 0.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del visitante: Menos de 0.5 | 39% | 46% | 43% | 2.00 | -14% |
+| Goles del visitante: Más de 0.5 | 60% | 54% | 57% | 1.73 | -1% |
+| Goles del visitante: Menos de 0.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Más de 9.5 | 50% | 53% | 51% | 1.78 | -8% |
 | Córners más/menos: Menos de 9.5 | 50% | 47% | 49% | 2.02 | -2% |
 | 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -6% |

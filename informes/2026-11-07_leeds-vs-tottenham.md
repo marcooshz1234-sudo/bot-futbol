@@ -1,10 +1,10 @@
 # Leeds – Tottenham
 **Premier League** · Regular Season - 10 · 07/11/2026 13:30 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 04/11 20:02_
 
 - **1X2:** 1 **2.62**  ·  X **3.30**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.44**

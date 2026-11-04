@@ -1,7 +1,7 @@
 # Sporting CP – Moreirense
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -191,14 +191,14 @@ _Sin bajas comunicadas por ahora._
 | Afonso Vieira | M | 2 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,47 · visitante 0,77 · córners esperados 8,8._
+_Goles esperados: local 2,46 · visitante 0,77 · córners esperados 8,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 10% | 7% | 8% | 13.00 | +10% |
-| 1X2: X | 16% | 12% | 14% | 8.00 | +10% |
+| 1X2: X | 16% | 12% | 14% | 8.00 | +11% |
 | 1X2: 1 | 75% | 81% | 78% | 1.17 | -9% |
 | Doble oportunidad: X2 | 25% | 19% | 22% | 5.00 | +12% |
 | Doble oportunidad: 12 | 84% | 88% | 86% | 1.10 | -5% |
@@ -219,10 +219,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del local: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles del local: Más de 2.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Goles del local: Más de 3.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles del local: Más de 3.5 | 23% | 31% | 27% | 3.00 | -18% |
 | Goles del local: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +2% |
 | Goles del local: Menos de 2.5 | 55% | 46% | 51% | 2.00 | +2% |
-| Goles del local: Menos de 3.5 | 76% | 69% | 73% | 1.36 | -1% |
+| Goles del local: Menos de 3.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del visitante: Más de 0.5 | 54% | 46% | 50% | 2.00 | +0% |
 | Goles del visitante: Menos de 0.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Más de 9.5 | 38% | 47% | 43% | 2.00 | -14% |

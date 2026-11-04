@@ -1,7 +1,7 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -227,7 +227,7 @@ _Goles esperados: local 1,30 · visitante 1,95 · córners esperados 9,1._
 | Goles del local: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
+| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
 | Goles del visitante: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
 | Córners más/menos: Más de 10.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |

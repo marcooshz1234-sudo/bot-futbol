@@ -1,7 +1,7 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -59,42 +59,42 @@ _Actualizadas: 04/11 08:23_
 ## Estadísticas de equipo
 | | Rennes (total) | Rennes en casa | Lille (total) | Lille fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 13 | 6 |
-| Forma (últimos 5) | DVEDV | VVVVV | EVEDE | EEDDV |
-| Balance | 6V 3E 3D | 5V 1E 0D | 5V 4E 4D | 2V 2E 2D |
-| Goles a favor / partido | 2,00 | 2,50 | 1,23 | 0,83 |
-| Goles en contra / partido | 1,83 | 1,00 | 1,23 | 1,00 |
-| Goles a favor 1ª parte | 1,08 | 1,17 | 0,77 | 0,50 |
-| Goles a favor 2ª parte | 0,92 | 1,33 | 0,46 | 0,33 |
-| Goles en contra 1ª parte | 1,00 | 0,50 | 0,38 | 0,17 |
-| Goles en contra 2ª parte | 0,83 | 0,50 | 0,85 | 0,83 |
-| Más de 1,5 goles | 83% | 83% | 69% | 67% |
-| Más de 2,5 goles | 83% | 83% | 38% | 33% |
-| Más de 3,5 goles | 58% | 50% | 23% | 0% |
-| Ambos marcan | 67% | 67% | 46% | 33% |
-| Portería a cero | 25% | 33% | 46% | 50% |
-| Se queda sin marcar | 17% | 0% | 15% | 33% |
-| xG a favor | 2,03 | 1,94 | 1,28 | 0,94 |
-| xG en contra | 2,14 | 1,56 | 1,46 | 1,91 |
-| Tiros / partido | 17,6 | 18,7 | 10,8 | 9,8 |
-| Tiros a puerta / partido | 6,4 | 7,0 | 4,3 | 4,3 |
-| Tiros recibidos | 13,8 | 11,7 | 13,9 | 15,8 |
-| Tiros a puerta recibidos | 5,2 | 4,2 | 4,2 | 5,7 |
-| Posesión media % | 53 | 53 | 49 | 46 |
-| Córners a favor | 6,0 | 6,3 | 3,5 | 2,8 |
-| Córners en contra | 5,6 | 5,5 | 4,6 | 5,5 |
-| Córners a favor 1ª parte | 2,8 | 3,0 | 1,4 | 1,5 |
-| Córners a favor 2ª parte | 3,2 | 3,3 | 2,2 | 1,3 |
-| Córners totales del partido | 11,6 | 11,8 | 8,2 | 8,3 |
-| Córners totales 1ª parte | 5,7 | 5,8 | 3,2 | 3,5 |
-| Córners totales 2ª parte | 5,9 | 6,0 | 5,0 | 4,8 |
-| Más de 8,5 córners | 75% | 67% | 38% | 33% |
-| Más de 9,5 córners | 67% | 67% | 31% | 33% |
-| Más de 10,5 córners | 58% | 50% | 15% | 17% |
-| Faltas cometidas | 11,9 | 12,0 | 10,7 | 10,2 |
-| Faltas recibidas | 11,9 | 12,2 | 14,0 | 14,3 |
-| Amarillas propias | 2,0 | 2,2 | 1,5 | 1,5 |
-| Amarillas del rival | 2,2 | 2,2 | 1,6 | 1,8 |
+| Partidos analizados | 13 | 7 | 13 | 6 |
+| Forma (últimos 5) | EDVED | EVVVV | EVEDE | EEDDV |
+| Balance | 6V 4E 3D | 5V 2E 0D | 5V 4E 4D | 2V 2E 2D |
+| Goles a favor / partido | 1,85 | 2,14 | 1,23 | 0,83 |
+| Goles en contra / partido | 1,69 | 0,86 | 1,23 | 1,00 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,77 | 0,50 |
+| Goles a favor 2ª parte | 0,85 | 1,14 | 0,46 | 0,33 |
+| Goles en contra 1ª parte | 0,92 | 0,43 | 0,38 | 0,17 |
+| Goles en contra 2ª parte | 0,77 | 0,43 | 0,85 | 0,83 |
+| Más de 1,5 goles | 77% | 71% | 69% | 67% |
+| Más de 2,5 goles | 77% | 71% | 38% | 33% |
+| Más de 3,5 goles | 54% | 43% | 23% | 0% |
+| Ambos marcan | 62% | 57% | 46% | 33% |
+| Portería a cero | 31% | 43% | 46% | 50% |
+| Se queda sin marcar | 23% | 14% | 15% | 33% |
+| xG a favor | 1,91 | 1,74 | 1,28 | 0,94 |
+| xG en contra | 2,04 | 1,47 | 1,46 | 1,91 |
+| Tiros / partido | 16,9 | 17,3 | 10,8 | 9,8 |
+| Tiros a puerta / partido | 6,2 | 6,6 | 4,3 | 4,3 |
+| Tiros recibidos | 13,6 | 11,7 | 13,9 | 15,8 |
+| Tiros a puerta recibidos | 5,0 | 4,0 | 4,2 | 5,7 |
+| Posesión media % | 52 | 51 | 49 | 46 |
+| Córners a favor | 5,8 | 5,9 | 3,5 | 2,8 |
+| Córners en contra | 5,4 | 5,1 | 4,6 | 5,5 |
+| Córners a favor 1ª parte | 2,8 | 2,9 | 1,4 | 1,5 |
+| Córners a favor 2ª parte | 3,0 | 3,0 | 2,2 | 1,3 |
+| Córners totales del partido | 11,2 | 11,0 | 8,2 | 8,3 |
+| Córners totales 1ª parte | 5,6 | 5,7 | 3,2 | 3,5 |
+| Córners totales 2ª parte | 5,5 | 5,3 | 5,0 | 4,8 |
+| Más de 8,5 córners | 69% | 57% | 38% | 33% |
+| Más de 9,5 córners | 62% | 57% | 31% | 33% |
+| Más de 10,5 córners | 54% | 43% | 15% | 17% |
+| Faltas cometidas | 12,2 | 12,4 | 10,7 | 10,2 |
+| Faltas recibidas | 11,8 | 12,0 | 14,0 | 14,3 |
+| Amarillas propias | 1,9 | 2,0 | 1,5 | 1,5 |
+| Amarillas del rival | 2,1 | 1,9 | 1,6 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,15 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -105,7 +105,7 @@ _Actualizadas: 04/11 08:23_
 | 31-45' | 4 | 4 | 5 | 3 | 2 | 2 |
 | 46-60' | 3 | 3 | 5 | 0 | 3 | 3 |
 | 61-75' | 2 | 3 | 3 | 2 | 6 | 4 |
-| 76-90' | 6 | 5 | 9 | 4 | 2 | 12 |
+| 76-90' | 6 | 5 | 11 | 4 | 2 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -123,36 +123,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Rennes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Europa League | Rennes 0-0 Olympiakos Piraeus | casa | 3-3 | 9 (4) - 12 (3) | 1-0 |
 | 2026-10-30 | Ligue 1 | Nice 5-2 Rennes | fuera | 7-4 | 18 (9) - 17 (8) | 3-4 |
 | 2026-10-25 | Ligue 1 | Rennes 3-0 Strasbourg | casa | 2-4 | 15 (5) - 12 (4) | 1-3 |
 | 2026-10-22 | Europa League | Juventus 2-2 Rennes | fuera | 5-7 | 16 (5) - 14 (4) | 1-1 |
 | 2026-10-18 | Ligue 1 | Paris FC 4-3 Rennes | fuera | 4-3 | 12 (7) - 19 (9) | 4-3 |
 | 2026-10-15 | Europa League | Rennes 2-1 OFI | casa | 13-3 | 25 (9) - 2 (1) | 3-2 |
-| 2026-10-11 | Ligue 1 | Rennes 4-1 Auxerre | casa | 12-5 | 21 (10) - 12 (5) | 3-0 |
 
 ## Jugadores de Rennes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Cresswell | D | 12 | 1080 | 0 | 1 | 12 | 1,0 | 2 | 0,2 | 12 | 8 | 0,7 | 2 | 0 |
-| V. Rongier | M | 12 | 901 | 1 | 0 | 12 | 1,0 | 6 | 0,5 | 14 | 7 | 0,6 | 1 | 0 |
-| B. Samba | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
-| M. Camara | M | 11 | 811 | 0 | 0 | 10 | 0,9 | 5 | 0,5 | 10 | 12 | 1,1 | 2 | 0 |
-| M. Nagida | M | 12 | 780 | 1 | 2 | 15 | 1,2 | 7 | 0,6 | 9 | 13 | 1,1 | 0 | 0 |
-| Mousa Tamari | F | 12 | 764 | 1 | 1 | 17 | 1,4 | 7 | 0,6 | 4 | 8 | 0,7 | 1 | 0 |
-| A. Thomasson | M | 11 | 727 | 2 | 2 | 6 | 0,5 | 2 | 0,2 | 17 | 13 | 1,2 | 2 | 0 |
-| A. Rouault | D | 8 | 720 | 0 | 0 | 7 | 0,9 | 2 | 0,2 | 6 | 2 | 0,2 | 2 | 0 |
+| C. Cresswell | D | 13 | 1170 | 0 | 1 | 13 | 1,0 | 3 | 0,2 | 13 | 8 | 0,6 | 2 | 0 |
+| B. Samba | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
+| V. Rongier | M | 13 | 931 | 1 | 0 | 14 | 1,1 | 7 | 0,5 | 17 | 7 | 0,5 | 2 | 0 |
+| M. Camara | M | 12 | 901 | 0 | 0 | 10 | 0,8 | 5 | 0,4 | 12 | 12 | 1,0 | 2 | 0 |
+| M. Nagida | D | 13 | 870 | 1 | 2 | 15 | 1,2 | 7 | 0,5 | 9 | 16 | 1,2 | 0 | 0 |
+| Mousa Tamari | F | 13 | 844 | 1 | 1 | 20 | 1,5 | 9 | 0,7 | 4 | 11 | 0,8 | 1 | 0 |
+| A. Rouault | D | 9 | 810 | 0 | 0 | 8 | 0,9 | 2 | 0,2 | 7 | 3 | 0,3 | 2 | 0 |
+| A. Thomasson | M | 12 | 808 | 2 | 2 | 6 | 0,5 | 2 | 0,2 | 23 | 15 | 1,2 | 2 | 0 |
 | Esteban Lepaul | F | 9 | 719 | 7 | 0 | 36 | 4,0 | 19 | 2,1 | 5 | 4 | 0,4 | 1 | 0 |
+| S. Szymański | M | 11 | 704 | 4 | 1 | 12 | 1,1 | 4 | 0,4 | 3 | 8 | 0,7 | 0 | 0 |
 | P. Frankowski | M | 10 | 676 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 15 | 7 | 0,7 | 2 | 0 |
-| S. Szymański | M | 10 | 644 | 4 | 1 | 11 | 1,1 | 4 | 0,4 | 3 | 8 | 0,8 | 0 | 0 |
 | A. Ait Boudlal | D | 8 | 640 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 8 | 1,0 | 3 | 0 |
-| B. Reynolds | D | 9 | 449 | 0 | 3 | 3 | 0,3 | 1 | 0,1 | 7 | 3 | 0,3 | 0 | 0 |
-| L. Blas | F | 10 | 434 | 0 | 1 | 16 | 1,6 | 6 | 0,6 | 6 | 7 | 0,7 | 0 | 0 |
+| B. Reynolds | D | 10 | 539 | 0 | 3 | 4 | 0,4 | 1 | 0,1 | 9 | 3 | 0,3 | 0 | 0 |
+| L. Blas | F | 11 | 444 | 0 | 1 | 16 | 1,5 | 6 | 0,5 | 6 | 7 | 0,6 | 0 | 0 |
+| B. Dia | F | 11 | 419 | 5 | 0 | 8 | 0,7 | 6 | 0,5 | 4 | 4 | 0,4 | 1 | 0 |
 | I. Soumaré | F | 9 | 415 | 0 | 1 | 9 | 1,0 | 4 | 0,4 | 6 | 9 | 1,0 | 1 | 0 |
-| B. Dia | F | 10 | 338 | 5 | 0 | 8 | 0,8 | 6 | 0,6 | 4 | 2 | 0,2 | 1 | 0 |
 | Q. Merlin | D | 5 | 250 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 6 | 3 | 0,6 | 1 | 0 |
-| Eliezer Mayenda | F | 10 | 207 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 2 | 4 | 0,4 | 0 | 0 |
+| Eliezer Mayenda | F | 11 | 216 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 2 | 4 | 0,4 | 0 | 0 |
 | N. Lemaître | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| D. Cissé | M | 5 | 132 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 7 | 5 | 1,0 | 1 | 0 |
+| D. Cissé | M | 6 | 141 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 7 | 5 | 0,8 | 1 | 0 |
 
 ## Últimos partidos de Lille
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -189,42 +189,42 @@ _Sin bajas comunicadas por ahora._
 | G. Perrin | F | 8 | 213 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,45 · córners esperados 9,7._
+_Goles esperados: local 1,57 · visitante 1,42 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 29% | 31% | 3.30 | +4% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 42% | 45% | 43% | 2.10 | -9% |
-| Doble oportunidad: X2 | 58% | 56% | 57% | 1.70 | -3% |
+| 1X2: 2 | 35% | 29% | 32% | 3.30 | +4% |
+| 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
+| 1X2: 1 | 41% | 45% | 43% | 2.10 | -9% |
+| Doble oportunidad: X2 | 59% | 56% | 57% | 1.70 | -3% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
-| Ambos marcan: No | 39% | 39% | 39% | 2.38 | -8% |
-| Ambos marcan: Sí | 61% | 61% | 61% | 1.53 | -6% |
-| Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
-| Goles más/menos: Más de 2.5 | 59% | 59% | 59% | 1.62 | -4% |
-| Goles más/menos: Más de 3.5 | 37% | 38% | 37% | 2.50 | -6% |
-| Goles más/menos: Más de 4.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles más/menos: Menos de 2.5 | 41% | 41% | 41% | 2.30 | -6% |
-| Goles más/menos: Menos de 3.5 | 63% | 62% | 63% | 1.53 | -4% |
-| Goles más/menos: Menos de 4.5 | 80% | 79% | 80% | 1.20 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
-| Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
-| Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 1.5 | 43% | 39% | 41% | 2.38 | -3% |
-| Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -12% |
-| Goles del visitante: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
-| Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
-| Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -1% |
+| Doble oportunidad: 1X | 65% | 70% | 68% | 1.36 | -8% |
+| Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
+| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -7% |
+| Goles más/menos: Más de 1.5 | 80% | 79% | 79% | 1.20 | -5% |
+| Goles más/menos: Más de 2.5 | 58% | 59% | 58% | 1.62 | -6% |
+| Goles más/menos: Más de 3.5 | 35% | 38% | 37% | 2.50 | -9% |
+| Goles más/menos: Más de 4.5 | 18% | 21% | 20% | 4.50 | -11% |
+| Goles más/menos: Menos de 1.5 | 20% | 21% | 21% | 4.50 | -8% |
+| Goles más/menos: Menos de 2.5 | 42% | 41% | 42% | 2.30 | -4% |
+| Goles más/menos: Menos de 3.5 | 65% | 62% | 63% | 1.53 | -3% |
+| Goles más/menos: Menos de 4.5 | 82% | 79% | 80% | 1.20 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
+| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
+| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
+| Goles del visitante: Más de 1.5 | 42% | 39% | 40% | 2.38 | -4% |
+| Goles del visitante: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
 | 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -3% |
-| 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -7% |
-| 1X2 descanso: 1 | 33% | 35% | 34% | 2.62 | -11% |
+| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
+| 1X2 descanso: 1 | 32% | 35% | 34% | 2.62 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

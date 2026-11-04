@@ -1,7 +1,7 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -202,12 +202,12 @@ _Goles esperados: local 1,22 · visitante 1,83 · córners esperados 10,0._
 | Ambos marcan: Sí | 59% | 50% | 55% | 1.91 | +4% |
 | Goles más/menos: Más de 1.5 | 81% | 70% | 76% | 1.36 | +3% |
 | Goles más/menos: Más de 2.5 | 59% | 45% | 52% | 2.10 | +9% |
-| Goles más/menos: Más de 3.5 ✅ | 36% | 24% | 30% | 4.00 | +21% |
+| Goles más/menos: Más de 3.5 ✅ | 36% | 24% | 30% | 4.00 | +20% |
 | Goles más/menos: Menos de 1.5 | 19% | 30% | 24% | 3.20 | -22% |
 | Goles más/menos: Menos de 2.5 | 41% | 55% | 48% | 1.73 | -17% |
 | Goles más/menos: Menos de 3.5 | 64% | 76% | 70% | 1.25 | -13% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 31% | 35% | 3.00 | +5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 31% | 35% | 3.00 | +4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Goles del local: Más de 0.5 | 70% | 65% | 67% | 1.44 | -3% |

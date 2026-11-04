@@ -1,10 +1,10 @@
 # West Brom – Millwall
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 04/11 20:02_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.80**
@@ -21,30 +21,33 @@ _Actualizadas: 04/11 08:23_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
+    - 10,5: más **1.67** · menos **2.10**
     - 11: más **1.90** · menos **1.90**
     - 11,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.25**  ·  2 **4.00**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.30**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
+- **To Win Either Half:** 1 **1.53**  ·  2 **2.10**
 - **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.33**
-- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **6.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Win Both Halves:** 1 **6.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
 - **Home Corners Over/Under:**
     - 6,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
@@ -54,8 +57,8 @@ _Actualizadas: 04/11 08:23_
 - **Away Player Shots On Target Total:** Mihailo Ivanovic **6.50**  ·  Felix Myhre **23.00**  ·  Jayson Molumby **51.00**  ·  Chris Mepham **21.00**  ·  Isaac Price **12.00**  ·  Caleb Taylor **10.00**  ·  Jenson Metcalfe **67.00**  ·  Benicio Baker-Boaitey **51.00**  ·  Lyndon Dykes **11.00**  ·  Daniel Kelly **51.00**  ·  Tammer Bany **21.00**  ·  Tairyk Arconte **19.00**  ·  Joshua Coburn **8.00**  ·  Mathis Servais **21.00**  ·  Derek Mazou-Sacko **81.00**  ·  Callum Styles **101.00**  ·  Ousmane Diakite **41.00**  ·  Mark Sykes **51.00**  ·  Tristan Crama **19.00**  ·  Romain Esse **41.00**  ·  Ryan Leonard **81.00**  ·  Casper De Norre **51.00**  ·  Jake Cooper **13.00**  ·  Nathaniel Phillips **11.00**  ·  Alfie Doughty **81.00**  ·  Yanis Issoufou **34.00**  ·  Rabby Nzingoula **29.00**  ·  Danny Batth **21.00**  ·  Elkan Baggott **23.00**  ·  Jordi Osei-Tutu **81.00**  ·  Camiel Neghli **19.00**  ·  Brayann Pereira **21.00**  ·  Kyrell Lisbie **21.00**  ·  Zak Lovelace **21.00**  ·  Aune Heggebo **8.50**  ·  George Campbell **17.00**  ·  Kareem Tunde **23.00**  ·  Nolan Galves **51.00**  ·  Matthew Crowther **23.00**  ·  Toby Collyer **51.00**  ·  Harry Whitwell **34.00**  ·  Conor Townsend **81.00**  ·  Luke Cundle **41.00**  ·  Barney Stewart **12.00**  ·  Jimmy-Jay Morgan **12.00**  ·  Zak Sturge **67.00**
 - **Home Player Shots:** Aune Heggebo - 1 **1.04**  ·  Barney Stewart - 1 **1.04**  ·  Jimmy-Jay Morgan - 1 **1.03**  ·  Isaac Price - 1 **1.05**  ·  Tammer Bany - 1 **1.07**  ·  Nathaniel Phillips - 1 **1.53**  ·  Felix Myhre - 1 **1.20**  ·  Jayson Molumby - 1 **1.44**  ·  Harry Whitwell - 1 **1.44**  ·  Rabby Nzingoula - 1 **1.20**  ·  George Campbell - 1 **1.80**  ·  Callum Styles - 1 **1.40**  ·  Ousmane Diakite - 1 **1.53**  ·  Nolan Galves - 1 **2.00**  ·  Chris Mepham - 1 **2.00**  ·  Conor Townsend - 1 **2.38**  ·  Aune Heggebo - 2 **1.20**  ·  Barney Stewart - 2 **1.20**  ·  Jimmy-Jay Morgan - 2 **1.20**  ·  Isaac Price - 2 **1.28**  ·  Tammer Bany - 2 **1.36**  ·  Nathaniel Phillips - 2 **3.40**  ·  Felix Myhre - 2 **1.83**  ·  Jayson Molumby - 2 **3.00**  ·  Harry Whitwell - 2 **3.00**  ·  Rabby Nzingoula - 2 **1.83**  ·  George Campbell - 2 **4.33**  ·  Callum Styles - 2 **2.62**  ·  Ousmane Diakite - 2 **3.40**  ·  Nolan Galves - 2 **5.50**  ·  Chris Mepham - 2 **5.50**  ·  Conor Townsend - 2 **8.00**  ·  Aune Heggebo - 3 **1.62**  ·  Barney Stewart - 3 **1.62**  ·  Jimmy-Jay Morgan - 3 **1.57**  ·  Isaac Price - 3 **1.80**  ·  Tammer Bany - 3 **2.00**  ·  Nathaniel Phillips - 3 **9.00**  ·  Felix Myhre - 3 **3.75**  ·  Jayson Molumby - 3 **7.00**  ·  Harry Whitwell - 3 **7.00**  ·  Rabby Nzingoula - 3 **3.75**  ·  George Campbell - 3 **13.00**  ·  Callum Styles - 3 **6.00**  ·  Ousmane Diakite - 3 **9.00**  ·  Nolan Galves - 3 **17.00**  ·  Aune Heggebo - 4 **2.50**  ·  Barney Stewart - 4 **2.50**  ·  Jimmy-Jay Morgan - 4 **2.38**  ·  Isaac Price - 4 **3.00**  ·  Tammer Bany - 4 **3.50**  ·  Nathaniel Phillips - 4 **21.00**  ·  Felix Myhre - 4 **8.00**  ·  Jayson Molumby - 4 **19.00**  ·  Aune Heggebo - 5 **4.00**  ·  Barney Stewart - 5 **4.00**  ·  Jimmy-Jay Morgan - 5 **4.00**  ·  Isaac Price - 5 **5.50**  ·  Tammer Bany - 5 **6.50**  ·  Aune Heggebo - 6 **8.00**  ·  Barney Stewart - 6 **8.00**  ·  Jimmy-Jay Morgan - 6 **8.00**  ·  Kareem Tunde - 1 **1.08**  ·  Kareem Tunde - 2 **1.40**  ·  Kareem Tunde - 3 **2.20**  ·  Kareem Tunde - 4 **3.75**  ·  Kareem Tunde - 5 **8.00**  ·  Kareem Tunde - 6 **15.00**  ·  Brayann Pereira - 1 **1.80**  ·  Brayann Pereira - 2 **4.33**  ·  Brayann Pereira - 3 **13.00**  ·  Harry Whitwell - 4 **19.00**  ·  Chris Mepham - 3 **17.00**  ·  Toby Collyer - 1 **1.80**  ·  Matthew Crowther - 1 **1.50**  ·  Toby Collyer - 2 **4.33**  ·  Matthew Crowther - 2 **3.25**  ·  Toby Collyer - 3 **13.00**  ·  Matthew Crowther - 3 **8.00**  ·  Conor Townsend - 3 **21.00**  ·  Rabby Nzingoula - 4 **8.00**  ·  Callum Styles - 4 **15.00**  ·  Matthew Crowther - 4 **21.00**  ·  Ousmane Diakite - 4 **21.00**  ·  Felix Myhre - 5 **17.00**  ·  Isaac Price - 6 **10.00**  ·  Tammer Bany - 6 **13.00**  ·  Aune Heggebo - 7 **15.00**  ·  Barney Stewart - 7 **15.00**  ·  Jimmy-Jay Morgan - 7 **15.00**  ·  Isaac Price - 7 **19.00**  ·  Tammer Bany - 7 **21.00**  ·  Aune Heggebo - 8 **21.00**  ·  Barney Stewart - 8 **21.00**  ·  Jimmy-Jay Morgan - 8 **21.00**  ·  Rabby Nzingoula - 5 **17.00**
 - **Away Player Shots:** Ryan Leonard - 1 **2.00**  ·  Ryan Leonard - 2 **5.50**  ·  Ryan Leonard - 3 **17.00**  ·  Joshua Coburn - 1 **1.07**  ·  Mihailo Ivanovic - 1 **1.07**  ·  Camiel Neghli - 1 **1.06**  ·  Kyrell Lisbie - 1 **1.08**  ·  Tairyk Arconte - 1 **1.10**  ·  Lyndon Dykes - 1 **1.07**  ·  Zak Lovelace - 1 **1.14**  ·  Mathis Servais - 1 **1.25**  ·  Benicio Baker-Boaitey - 1 **1.25**  ·  Mark Sykes - 1 **1.25**  ·  Caleb Taylor - 1 **1.28**  ·  Luke Cundle - 1 **1.44**  ·  Alfie Doughty - 1 **1.80**  ·  Jenson Metcalfe - 1 **1.40**  ·  Daniel Kelly - 1 **1.62**  ·  Derek Mazou-Sacko - 1 **1.80**  ·  Jake Cooper - 1 **1.80**  ·  Casper De Norre - 1 **1.80**  ·  Jordi Osei-Tutu - 1 **1.73**  ·  Tristan Crama - 1 **2.00**  ·  Danny Batth - 1 **2.38**  ·  Elkan Baggott - 1 **2.00**  ·  Zak Sturge - 1 **2.38**  ·  Joshua Coburn - 2 **1.36**  ·  Mihailo Ivanovic - 2 **1.36**  ·  Camiel Neghli - 2 **1.33**  ·  Kyrell Lisbie - 2 **1.40**  ·  Tairyk Arconte - 2 **1.44**  ·  Lyndon Dykes - 2 **1.36**  ·  Zak Lovelace - 2 **1.62**  ·  Mathis Servais - 2 **2.10**  ·  Benicio Baker-Boaitey - 2 **2.10**  ·  Mark Sykes - 2 **2.10**  ·  Caleb Taylor - 2 **2.20**  ·  Luke Cundle - 2 **3.00**  ·  Alfie Doughty - 2 **4.33**  ·  Jenson Metcalfe - 2 **2.75**  ·  Daniel Kelly - 2 **3.75**  ·  Derek Mazou-Sacko - 2 **4.33**  ·  Jake Cooper - 2 **4.33**  ·  Casper De Norre - 2 **4.33**  ·  Jordi Osei-Tutu - 2 **4.33**  ·  Tristan Crama - 2 **5.50**  ·  Danny Batth - 2 **8.00**  ·  Elkan Baggott - 2 **5.50**  ·  Zak Sturge - 2 **8.00**  ·  Joshua Coburn - 3 **2.00**  ·  Mihailo Ivanovic - 3 **2.00**  ·  Camiel Neghli - 3 **1.91**  ·  Kyrell Lisbie - 3 **2.10**  ·  Tairyk Arconte - 3 **2.25**  ·  Lyndon Dykes - 3 **2.00**  ·  Zak Lovelace - 3 **2.75**  ·  Mathis Servais - 3 **4.33**  ·  Benicio Baker-Boaitey - 3 **4.33**  ·  Mark Sykes - 3 **4.33**  ·  Caleb Taylor - 3 **4.50**  ·  Luke Cundle - 3 **7.00**  ·  Alfie Doughty - 3 **13.00**  ·  Jenson Metcalfe - 3 **6.50**  ·  Daniel Kelly - 3 **11.00**  ·  Derek Mazou-Sacko - 3 **13.00**  ·  Jake Cooper - 3 **13.00**  ·  Casper De Norre - 3 **13.00**  ·  Jordi Osei-Tutu - 3 **13.00**  ·  Tristan Crama - 3 **17.00**  ·  Danny Batth - 3 **21.00**  ·  Elkan Baggott - 3 **17.00**  ·  Zak Sturge - 3 **21.00**  ·  Joshua Coburn - 4 **3.50**  ·  Mihailo Ivanovic - 4 **3.50**  ·  Camiel Neghli - 4 **3.40**  ·  Kyrell Lisbie - 4 **3.75**  ·  Tairyk Arconte - 4 **4.00**  ·  Lyndon Dykes - 4 **3.50**  ·  Zak Lovelace - 4 **5.50**  ·  Mathis Servais - 4 **10.00**  ·  Benicio Baker-Boaitey - 4 **10.00**  ·  Mark Sykes - 4 **10.00**  ·  Caleb Taylor - 4 **11.00**  ·  Luke Cundle - 4 **19.00**  ·  Jenson Metcalfe - 4 **17.00**  ·  Daniel Kelly - 4 **21.00**  ·  Joshua Coburn - 5 **6.50**  ·  Mihailo Ivanovic - 5 **6.50**  ·  Camiel Neghli - 5 **6.00**  ·  Kyrell Lisbie - 5 **7.00**  ·  Tairyk Arconte - 5 **9.00**  ·  Lyndon Dykes - 5 **6.50**  ·  Zak Lovelace - 5 **13.00**  ·  Mathis Servais - 5 **21.00**  ·  Benicio Baker-Boaitey - 5 **21.00**  ·  Mark Sykes - 5 **21.00**  ·  Joshua Coburn - 6 **13.00**  ·  Mihailo Ivanovic - 6 **13.00**  ·  Camiel Neghli - 6 **13.00**  ·  Kyrell Lisbie - 6 **15.00**  ·  Tairyk Arconte - 6 **17.00**  ·  Lyndon Dykes - 6 **13.00**  ·  Zak Lovelace - 6 **21.00**  ·  Joshua Coburn - 7 **21.00**  ·  Mihailo Ivanovic - 7 **21.00**  ·  Romain Esse - 1 **1.20**  ·  Romain Esse - 2 **1.83**  ·  Romain Esse - 3 **3.75**  ·  Romain Esse - 4 **8.00**  ·  Romain Esse - 5 **17.00**  ·  Kyrell Lisbie - 7 **21.00**  ·  Camiel Neghli - 7 **21.00**  ·  Lyndon Dykes - 7 **21.00**  ·  Caleb Taylor - 5 **21.00**  ·  Yanis Issoufou - 1 **1.25**  ·  Yanis Issoufou - 2 **2.10**  ·  Yanis Issoufou - 3 **4.33**  ·  Yanis Issoufou - 4 **10.00**  ·  Yanis Issoufou - 5 **21.00**  ·  Romain Esse - 6 **21.00**
-- **Anytime Goal Scorer:** Mihailo Ivanovic **3.40**  ·  Felix Myhre **5.00**  ·  Jayson Molumby **7.00**  ·  Chris Mepham **12.00**  ·  Isaac Price **3.00**  ·  Caleb Taylor **7.00**  ·  Jenson Metcalfe **8.00**  ·  Benicio Baker-Boaitey **5.50**  ·  Lyndon Dykes **3.40**  ·  Daniel Kelly **8.50**  ·  Tammer Bany **3.40**  ·  Tairyk Arconte **4.00**  ·  Joshua Coburn **3.40**  ·  Mathis Servais **5.50**  ·  Derek Mazou-Sacko **11.00**  ·  Callum Styles **6.50**  ·  Ousmane Diakite **8.00**  ·  Mark Sykes **5.50**  ·  Tristan Crama **12.00**  ·  Romain Esse **4.50**  ·  Ryan Leonard **12.00**  ·  Casper De Norre **11.00**  ·  Jake Cooper **11.00**  ·  Nathaniel Phillips **8.00**  ·  Alfie Doughty **11.00**  ·  Yanis Issoufou **5.50**  ·  Rabby Nzingoula **5.00**  ·  Danny Batth **15.00**  ·  Elkan Baggott **12.00**  ·  Jordi Osei-Tutu **9.50**  ·  Camiel Neghli **4.33**  ·  Brayann Pereira **11.00**  ·  Kyrell Lisbie **3.60**  ·  Zak Lovelace **4.33**  ·  Aune Heggebo **2.75**  ·  George Campbell **11.00**  ·  Kareem Tunde **3.75**  ·  Nolan Galves **12.00**  ·  Matthew Crowther **8.00**  ·  Toby Collyer **11.00**  ·  Harry Whitwell **7.00**  ·  Conor Townsend **15.00**  ·  Luke Cundle **7.00**  ·  Barney Stewart **2.75**  ·  Jimmy-Jay Morgan **2.50**  ·  Zak Sturge **15.00**
-- **Player to Score or Assist:** Mihailo Ivanovic **2.38**  ·  Felix Myhre **2.88**  ·  Jayson Molumby **3.20**  ·  Chris Mepham **8.00**  ·  Isaac Price **2.05**  ·  Caleb Taylor **5.50**  ·  Jenson Metcalfe **4.33**  ·  Benicio Baker-Boaitey **3.60**  ·  Lyndon Dykes **2.60**  ·  Daniel Kelly **5.50**  ·  Tammer Bany **2.38**  ·  Tairyk Arconte **2.88**  ·  Joshua Coburn **2.50**  ·  Mathis Servais **3.40**  ·  Derek Mazou-Sacko **3.75**  ·  Callum Styles **3.50**  ·  Ousmane Diakite **4.50**  ·  Mark Sykes **3.10**  ·  Tristan Crama **6.50**  ·  Romain Esse **2.88**  ·  Ryan Leonard **6.00**  ·  Casper De Norre **4.75**  ·  Jake Cooper **6.50**  ·  Nathaniel Phillips **5.50**  ·  Alfie Doughty **3.75**  ·  Yanis Issoufou **3.10**  ·  Rabby Nzingoula **3.20**  ·  Danny Batth **11.00**  ·  Elkan Baggott **7.00**  ·  Jordi Osei-Tutu **4.75**  ·  Camiel Neghli **2.88**  ·  Brayann Pereira **5.00**  ·  Kyrell Lisbie **2.38**  ·  Zak Lovelace **2.75**  ·  Aune Heggebo **2.05**  ·  George Campbell **4.75**  ·  Kareem Tunde **2.20**  ·  Nolan Galves **4.50**  ·  Matthew Crowther **4.33**  ·  Toby Collyer **4.50**  ·  Harry Whitwell **3.75**  ·  Conor Townsend **5.00**  ·  Luke Cundle **3.75**  ·  Barney Stewart **2.10**  ·  Jimmy-Jay Morgan **2.00**  ·  Zak Sturge **7.00**
+- **Anytime Goal Scorer:** Mihailo Ivanovic **3.40**  ·  Felix Myhre **5.00**  ·  Jayson Molumby **7.00**  ·  Chris Mepham **12.00**  ·  Isaac Price **3.00**  ·  Caleb Taylor **7.00**  ·  Jenson Metcalfe **7.50**  ·  Benicio Baker-Boaitey **5.50**  ·  Lyndon Dykes **3.40**  ·  Daniel Kelly **8.50**  ·  Tammer Bany **3.40**  ·  Tairyk Arconte **3.75**  ·  Joshua Coburn **3.40**  ·  Mathis Servais **5.50**  ·  Derek Mazou-Sacko **10.00**  ·  Callum Styles **6.50**  ·  Ousmane Diakite **7.50**  ·  Mark Sykes **5.50**  ·  Tristan Crama **12.00**  ·  Romain Esse **5.00**  ·  Ryan Leonard **12.00**  ·  Casper De Norre **10.00**  ·  Jake Cooper **10.00**  ·  Nathaniel Phillips **7.50**  ·  Alfie Doughty **10.00**  ·  Yanis Issoufou **5.50**  ·  Rabby Nzingoula **5.00**  ·  Danny Batth **15.00**  ·  Elkan Baggott **12.00**  ·  Jordi Osei-Tutu **9.50**  ·  Camiel Neghli **4.33**  ·  Brayann Pereira **10.00**  ·  Kyrell Lisbie **3.50**  ·  Zak Lovelace **4.33**  ·  Aune Heggebo **2.62**  ·  George Campbell **10.00**  ·  Kareem Tunde **3.60**  ·  Nolan Galves **12.00**  ·  Matthew Crowther **7.50**  ·  Toby Collyer **10.00**  ·  Harry Whitwell **7.00**  ·  Conor Townsend **15.00**  ·  Luke Cundle **7.00**  ·  Barney Stewart **2.62**  ·  Jimmy-Jay Morgan **2.50**  ·  Zak Sturge **15.00**
+- **Player to Score or Assist:** Mihailo Ivanovic **2.30**  ·  Felix Myhre **2.88**  ·  Jayson Molumby **3.10**  ·  Chris Mepham **8.00**  ·  Isaac Price **2.00**  ·  Caleb Taylor **5.50**  ·  Jenson Metcalfe **4.33**  ·  Benicio Baker-Boaitey **3.60**  ·  Lyndon Dykes **2.50**  ·  Daniel Kelly **5.50**  ·  Tammer Bany **2.30**  ·  Tairyk Arconte **2.88**  ·  Joshua Coburn **2.50**  ·  Mathis Servais **3.40**  ·  Derek Mazou-Sacko **3.60**  ·  Callum Styles **3.40**  ·  Ousmane Diakite **4.33**  ·  Mark Sykes **3.10**  ·  Tristan Crama **6.50**  ·  Romain Esse **3.00**  ·  Ryan Leonard **6.00**  ·  Casper De Norre **4.75**  ·  Jake Cooper **6.00**  ·  Nathaniel Phillips **5.50**  ·  Alfie Doughty **3.60**  ·  Yanis Issoufou **3.00**  ·  Rabby Nzingoula **3.10**  ·  Danny Batth **11.00**  ·  Elkan Baggott **6.50**  ·  Jordi Osei-Tutu **4.75**  ·  Camiel Neghli **2.88**  ·  Brayann Pereira **5.00**  ·  Kyrell Lisbie **2.30**  ·  Zak Lovelace **2.75**  ·  Aune Heggebo **2.00**  ·  George Campbell **4.75**  ·  Kareem Tunde **2.20**  ·  Nolan Galves **4.50**  ·  Matthew Crowther **4.00**  ·  Toby Collyer **4.50**  ·  Harry Whitwell **3.75**  ·  Conor Townsend **5.00**  ·  Luke Cundle **3.75**  ·  Barney Stewart **2.10**  ·  Jimmy-Jay Morgan **2.00**  ·  Zak Sturge **7.00**
 
 ## Estadísticas de equipo
 | | West Brom (total) | West Brom en casa | Millwall (total) | Millwall fuera |
@@ -204,30 +207,32 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 66% | 73% | 70% | 1.30 | -9% |
 | Ambos marcan: No | 43% | 44% | 44% | 2.10 | -9% |
 | Ambos marcan: Sí | 57% | 56% | 56% | 1.67 | -6% |
-| Goles más/menos: Más de 1.5 | 78% | 76% | 77% | 1.25 | -4% |
+| Goles más/menos: Más de 1.5 | 77% | 76% | 77% | 1.25 | -4% |
 | Goles más/menos: Más de 2.5 | 54% | 53% | 53% | 1.80 | -4% |
 | Goles más/menos: Más de 3.5 | 32% | 32% | 32% | 3.00 | -5% |
-| Goles más/menos: Menos de 1.5 | 22% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -7% |
 | Goles más/menos: Menos de 2.5 | 46% | 47% | 47% | 2.00 | -7% |
 | Goles más/menos: Menos de 3.5 | 68% | 68% | 68% | 1.40 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del local: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
-| Goles del local: Más de 1.5 | 44% | 49% | 46% | 1.91 | -11% |
-| Goles del local: Más de 2.5 | 19% | 23% | 21% | 4.00 | -15% |
-| Goles del local: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles del local: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -4% |
-| Goles del local: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles del local: Más de 0.5 | 78% | 79% | 78% | 1.18 | -7% |
+| Goles del local: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Goles del local: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles del local: Menos de 0.5 | 22% | 21% | 22% | 4.50 | -3% |
+| Goles del local: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles del local: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del visitante: Más de 1.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del visitante: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles del visitante: Menos de 1.5 | 62% | 66% | 64% | 1.40 | -11% |
+| Córners más/menos: Más de 10.5 | 44% | 56% | 50% | 1.67 | -17% |
 | Córners más/menos: Más de 11.5 | 37% | 44% | 40% | 2.10 | -15% |
+| Córners más/menos: Menos de 10.5 | 56% | 44% | 50% | 2.10 | +5% |
 | Córners más/menos: Menos de 11.5 | 63% | 56% | 60% | 1.67 | -0% |
 | 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
-| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
-| 1X2 descanso: 1 | 32% | 35% | 34% | 2.62 | -12% |
+| 1X2 descanso: X | 41% | 41% | 41% | 2.30 | -6% |
+| 1X2 descanso: 1 | 32% | 36% | 34% | 2.60 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

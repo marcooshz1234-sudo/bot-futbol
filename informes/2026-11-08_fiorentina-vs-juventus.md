@@ -1,7 +1,7 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -189,7 +189,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Boga | F | 8 | 188 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 0 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,06 · visitante 1,50 · córners esperados 9,4._
+_Goles esperados: local 1,07 · visitante 1,50 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -201,28 +201,28 @@ _Goles esperados: local 1,06 · visitante 1,50 · córners esperados 9,4._
 | Doble oportunidad: 1X | 53% | 53% | 53% | 1.80 | -5% |
 | Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
 | Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -7% |
+| Goles más/menos: Más de 1.5 | 73% | 76% | 74% | 1.25 | -7% |
 | Goles más/menos: Más de 2.5 | 47% | 53% | 50% | 1.80 | -10% |
 | Goles más/menos: Más de 3.5 | 26% | 32% | 29% | 3.00 | -14% |
-| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +3% |
+| Goles más/menos: Menos de 1.5 | 27% | 24% | 26% | 4.00 | +3% |
 | Goles más/menos: Menos de 2.5 | 53% | 47% | 50% | 2.00 | +0% |
 | Goles más/menos: Menos de 3.5 | 74% | 68% | 71% | 1.40 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
+| Goles del local: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles del local: Más de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
-| Goles del local: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
+| Goles del local: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles del local: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | Goles del visitante: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Goles del visitante: Más de 1.5 | 44% | 49% | 46% | 1.91 | -12% |
 | Goles del visitante: Más de 2.5 | 19% | 23% | 21% | 4.00 | -15% |
-| Goles del visitante: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -4% |
+| Goles del visitante: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -5% |
 | Goles del visitante: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -3% |
 | Goles del visitante: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Córners más/menos: Más de 9.5 | 44% | 51% | 47% | 1.88 | -11% |
-| Córners más/menos: Menos de 9.5 | 56% | 49% | 53% | 1.92 | +1% |
+| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.88 | -11% |
+| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.92 | +1% |
 | 1X2 descanso: 2 | 34% | 35% | 35% | 2.60 | -9% |
 | 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
 | 1X2 descanso: 1 | 22% | 25% | 23% | 3.75 | -12% |

@@ -1,7 +1,7 @@
 # Paris Saint Germain – Estac Troyes
 **Ligue 1** · Regular Season - 10 · 07/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -208,11 +208,11 @@ _Goles esperados: local 3,46 · visitante 0,69 · córners esperados 9,0._
 | Ambos marcan: No | 52% | 52% | 52% | 1.80 | -7% |
 | Ambos marcan: Sí | 48% | 48% | 48% | 1.95 | -6% |
 | Goles más/menos: Más de 2.5 | 78% | 75% | 76% | 1.28 | -2% |
-| Goles más/menos: Más de 3.5 | 60% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Más de 3.5 | 59% | 55% | 57% | 1.73 | -1% |
 | Goles más/menos: Más de 4.5 | 40% | 36% | 38% | 2.62 | +0% |
 | Goles más/menos: Más de 5.5 | 24% | 21% | 22% | 4.50 | +1% |
 | Goles más/menos: Menos de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles más/menos: Menos de 3.5 | 40% | 45% | 43% | 2.10 | -10% |
+| Goles más/menos: Menos de 3.5 | 41% | 45% | 43% | 2.10 | -10% |
 | Goles más/menos: Menos de 4.5 | 60% | 64% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 5.5 | 76% | 79% | 78% | 1.20 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
@@ -231,7 +231,7 @@ _Goles esperados: local 3,46 · visitante 0,69 · córners esperados 9,0._
 | Córners más/menos: Más de 9.5 | 40% | 49% | 45% | 1.95 | -13% |
 | Córners más/menos: Menos de 8.5 | 51% | 50% | 50% | 1.83 | -8% |
 | Córners más/menos: Menos de 9.5 | 60% | 51% | 55% | 1.85 | +3% |
-| 1X2 descanso: X | 25% | 26% | 25% | 3.50 | -11% |
+| 1X2 descanso: X | 25% | 26% | 26% | 3.50 | -11% |
 | 1X2 descanso: 1 | 68% | 66% | 67% | 1.40 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

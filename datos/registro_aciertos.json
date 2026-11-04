@@ -8681,7 +8681,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.069,
-  "prob_aprendida": 0.894,
+  "prob_aprendida": 0.893,
   "acierto": null
  },
  "1552220|Goals Over/Under First Half|Over 0.5": {
@@ -8813,7 +8813,7 @@
   "valor_mercado": -0.017,
   "movimiento": 0.049,
   "ventaja": 0.012,
-  "prob_aprendida": 0.616,
+  "prob_aprendida": 0.597,
   "acierto": null
  },
  "1570434|Home Team Total Cards|Over 0.5": {
@@ -9482,7 +9482,7 @@
   "valor_mercado": -0.01,
   "movimiento": 0.005,
   "ventaja": 0.076,
-  "prob_aprendida": 0.552,
+  "prob_aprendida": 0.533,
   "acierto": null
  },
  "1575219|To Win Either Half|Away": {
@@ -10015,10 +10015,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.013,
+  "valor_mercado": 0.034,
   "movimiento": -0.045,
   "ventaja": 0.083,
-  "prob_aprendida": 0.382,
+  "prob_aprendida": 0.324,
   "acierto": null
  },
  "1635710|Corners Over Under|Over 9.5": {
@@ -10037,10 +10037,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.028,
+  "valor_mercado": -0.039,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.357,
+  "prob_aprendida": 0.352,
   "acierto": null
  },
  "1636219|Goals Over/Under|Over 1.5": {
@@ -10414,7 +10414,7 @@
   "valor_mercado": -0.016,
   "movimiento": -0.023,
   "ventaja": 0.1,
-  "prob_aprendida": 0.81,
+  "prob_aprendida": 0.811,
   "acierto": null
  },
  "1570009|Away Player Shots|Stefan Dzodic - 1": {
@@ -10502,7 +10502,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.798,
+  "prob_aprendida": 0.799,
   "acierto": null
  },
  "1550189|Goals Over/Under|Over 1.5": {
@@ -10625,16 +10625,16 @@
   "opcion": "Gianni Stensness - 1",
   "tipo": "jugador",
   "texto": "Gianni Stensness comete 1+ faltas",
-  "cuota": 1.44,
+  "cuota": 1.36,
   "frecuencia": 0.8,
   "jugador_id": 6937,
   "jugador": "Gianni Stensness",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.106,
-  "prob_aprendida": 0.444,
+  "movimiento": -0.056,
+  "ventaja": 0.065,
+  "prob_aprendida": 0.47,
   "acierto": null
  },
  "1635745|Player Fouls Committed|Peter Christiansen - 2": {
@@ -10788,7 +10788,7 @@
   "valor_mercado": 0.032,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.578,
+  "prob_aprendida": 0.585,
   "acierto": null
  },
  "1563261|Double Chance|Home/Draw": {
@@ -10807,10 +10807,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.008,
+  "valor_mercado": 0.016,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.861,
+  "prob_aprendida": 0.873,
   "acierto": null
  },
  "1557463|Player Fouls Committed|Jayden Bogle - 1": {
@@ -10964,7 +10964,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.699,
+  "prob_aprendida": 0.7,
   "acierto": null
  },
  "1557459|Player Fouls Committed|Jeremy Jacquet - 1": {
@@ -11229,6 +11229,94 @@
   "movimiento": null,
   "ventaja": 0.276,
   "prob_aprendida": 0.445,
+  "acierto": null
+ },
+ "1570450|Player Fouls Committed|Lucas Boye - 2": {
+  "partido_id": 1570450,
+  "fecha": "2026-11-06T21:00",
+  "competicion": "LaLiga",
+  "local": "Sevilla",
+  "visitante": "Alaves",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Lucas Boye - 2",
+  "tipo": "jugador",
+  "texto": "Lucas Boye comete 2+ faltas",
+  "cuota": 1.3,
+  "frecuencia": 0.8,
+  "jugador_id": 608,
+  "jugador": "Lucas Boye",
+  "campo": "faltas_c",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.031,
+  "prob_aprendida": 0.484,
+  "acierto": null
+ },
+ "1570012|Goals Over/Under|Over 1.5": {
+  "partido_id": 1570012,
+  "fecha": "2026-11-07T18:30",
+  "competicion": "Segunda",
+  "local": "Leganes",
+  "visitante": "Albacete",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en Leganes–Albacete",
+  "cuota": 1.28,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.016,
+  "movimiento": null,
+  "ventaja": 0.019,
+  "prob_aprendida": 0.836,
+  "acierto": null
+ },
+ "1570005|Away Player Shots|Mikel Goti - 1": {
+  "partido_id": 1570005,
+  "fecha": "2026-11-07T16:15",
+  "competicion": "Segunda",
+  "local": "Cadiz",
+  "visitante": "Oviedo",
+  "mercado": "Away Player Shots",
+  "opcion": "Mikel Goti - 1",
+  "tipo": "jugador",
+  "texto": "Mikel Goti: 1+ tiros",
+  "cuota": 1.25,
+  "frecuencia": 0.857,
+  "jugador_id": 288384,
+  "jugador": "Mikel Goti",
+  "campo": "tiros",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.057,
+  "prob_aprendida": 0.837,
+  "acierto": null
+ },
+ "1570005|Goals Over/Under|Over 1.5": {
+  "partido_id": 1570005,
+  "fecha": "2026-11-07T16:15",
+  "competicion": "Segunda",
+  "local": "Cadiz",
+  "visitante": "Oviedo",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en Cadiz–Oviedo",
+  "cuota": 1.36,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.015,
+  "movimiento": null,
+  "ventaja": 0.115,
+  "prob_aprendida": 0.772,
   "acierto": null
  }
 }

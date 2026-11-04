@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Lyon
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | J. Duranville | F | 5 | 277 | 0 | 0 | 6 | 1,2 | 2 | 0,4 | 4 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,36 · visitante 1,23 · córners esperados 9,7._
+_Goles esperados: local 1,35 · visitante 1,22 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@ _Goles esperados: local 1,36 · visitante 1,23 · córners esperados 9,7._
 | Doble oportunidad: X2 | 60% | 67% | 64% | 1.40 | -11% |
 | Doble oportunidad: 12 | 74% | 73% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 66% | 60% | 63% | 1.57 | -1% |
-| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -4% |
+| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 1.5 | 73% | 76% | 75% | 1.25 | -7% |
 | Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -10% |
@@ -219,13 +219,13 @@ _Goles esperados: local 1,36 · visitante 1,23 · córners esperados 9,7._
 | Goles del visitante: Más de 0.5 | 71% | 78% | 74% | 1.20 | -11% |
 | Goles del visitante: Más de 1.5 | 35% | 46% | 41% | 2.00 | -19% |
 | Goles del visitante: Más de 2.5 | 13% | 22% | 17% | 4.33 | -26% |
-| Goles del visitante: Menos de 0.5 | 29% | 22% | 26% | 4.33 | +10% |
+| Goles del visitante: Menos de 0.5 | 29% | 22% | 26% | 4.33 | +11% |
 | Goles del visitante: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
 | Goles del visitante: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -13% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | -0% |
 | 1X2 descanso: 2 | 26% | 32% | 29% | 2.88 | -16% |
-| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
+| 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |
 | 1X2 descanso: 1 | 30% | 27% | 29% | 3.40 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

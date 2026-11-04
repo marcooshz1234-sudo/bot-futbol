@@ -1,7 +1,7 @@
 # Portsmouth – Stoke City
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -202,10 +202,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 45% | 50% | 48% | 1.83 | -13% |
 | Goles más/menos: Más de 1.5 | 66% | 70% | 68% | 1.36 | -7% |
 | Goles más/menos: Más de 2.5 | 40% | 45% | 42% | 2.10 | -11% |
-| Goles más/menos: Más de 3.5 | 20% | 24% | 22% | 4.00 | -13% |
+| Goles más/menos: Más de 3.5 | 19% | 24% | 22% | 4.00 | -13% |
 | Goles más/menos: Menos de 1.5 | 34% | 30% | 32% | 3.20 | +2% |
 | Goles más/menos: Menos de 2.5 | 60% | 55% | 58% | 1.73 | -0% |
-| Goles más/menos: Menos de 3.5 | 80% | 76% | 78% | 1.25 | -2% |
+| Goles más/menos: Menos de 3.5 | 81% | 76% | 78% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |

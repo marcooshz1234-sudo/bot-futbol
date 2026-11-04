@@ -1,7 +1,7 @@
 # VfB Stuttgart – Werder Bremen
 **Bundesliga** · Regular Season - 9 · 07/11/2026 18:30 (hora España) · MHPArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:09_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Alexander Schlager | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,93 · visitante 1,73 · córners esperados 9,9._
+_Goles esperados: local 1,93 · visitante 1,72 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

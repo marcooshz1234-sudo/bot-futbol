@@ -1,7 +1,7 @@
 # AZ Alkmaar – Groningen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 14:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -207,10 +207,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
 | Goles más/menos: Más de 2.5 | 72% | 67% | 69% | 1.40 | -3% |
 | Goles más/menos: Más de 3.5 | 51% | 46% | 49% | 2.00 | -3% |
-| Goles más/menos: Más de 4.5 | 32% | 28% | 30% | 3.40 | +1% |
+| Goles más/menos: Más de 4.5 | 31% | 28% | 30% | 3.40 | +1% |
 | Goles más/menos: Menos de 2.5 | 28% | 33% | 31% | 2.88 | -12% |
 | Goles más/menos: Menos de 3.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles más/menos: Menos de 4.5 | 68% | 72% | 70% | 1.30 | -8% |
+| Goles más/menos: Menos de 4.5 | 69% | 72% | 70% | 1.30 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -5% |
