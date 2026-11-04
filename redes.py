@@ -229,7 +229,10 @@ def instagram(p, token, reel=False):
     url = url_media(p, "mp4" if reel else "jpg")   # la tarjeta es muy apaisada para Instagram: solo en Threads
     if not url:
         raise RuntimeError("falta la imagen/vídeo en publicaciones/media")
-    params = {"caption": texto_final(p), "access_token": token}
+    # 04/11: el pie de foto de Instagram tampoco lleva dinero (norma de Marcos; la escalera sí)
+    from imagenes import sin_dinero
+    pie = texto_final(p) if "escalera" in p.get("id", "") else sin_dinero(texto_final(p))
+    params = {"caption": pie, "access_token": token}
     params.update({"media_type": "REELS", "video_url": url, "share_to_feed": "true",
                    "thumb_offset": "500"}   # portada = el post entero (primer fotograma)
                   if reel else {"image_url": url})
