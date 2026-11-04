@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 10:20",
+ "actualizado": "2026-11-04 10:31",
  "redes": {
   "instagram": {
    "seguidores": 23,
@@ -58,9 +58,9 @@
  "total_hoy": 41,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-04",
-  "titulo": "Pick seguro del día"
+  "titulo": "Reto escalera · día 1/7 · x1,81"
  },
  "ayer": {
   "aciertos": 10,
@@ -150,8 +150,13 @@
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
-   "posts": 50,
+   "posts": 49,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -167,11 +172,6 @@
   },
   "Escalera (reel)": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
