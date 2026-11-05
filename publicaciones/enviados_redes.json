@@ -755,10 +755,11 @@
   "redes": {
    "instagram_reel": null,
    "threads": "17883191325629356",
-   "threads_enlace": "18419141359093421"
+   "threads_enlace": "18419141359093421",
+   "instagram": null
   },
   "errores_redes": {
-   "instagram": "No module named 'playwright'"
+   "instagram": "caducado: no salió a tiempo"
   }
  }
 }
