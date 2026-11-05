@@ -1,10 +1,10 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 05/11 08:26_
 
 - **1X2:** 1 **1.95**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.80**

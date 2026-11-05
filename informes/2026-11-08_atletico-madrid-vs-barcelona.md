@@ -1,7 +1,7 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_

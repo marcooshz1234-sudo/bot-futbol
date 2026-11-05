@@ -3890,8 +3890,33 @@
   "dia": "2026-11-05",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 2.0,
+  "cuota": 1.96,
   "picks": [
+   {
+    "partido_id": 1636465,
+    "fecha": "2026-11-05T21:00",
+    "competicion": "Conference",
+    "liga_id": 848,
+    "local": "Panathinaikos",
+    "visitante": "CSKA Sofia",
+    "mercado": "Match Winner",
+    "opcion": "Home",
+    "tipo": "resultado",
+    "texto": "Gana el Panathinaikos",
+    "cuota": 1.42,
+    "frecuencia": 0.556,
+    "ventaja": -0.149,
+    "detalle": "Panathinaikos 6/8 · CSKA Sofia 4/10",
+    "contexto": null,
+    "forma": "forma_mejor",
+    "bajas": "bajas_ninguno",
+    "claves_fuera": {
+     "617": [],
+     "853": []
+    },
+    "prob_aprendida": 0.756,
+    "prob_sin_calibrar": 0.6573327108732107
+   },
    {
     "partido_id": 1636444,
     "fecha": "2026-11-05T18:45",
@@ -3916,31 +3941,6 @@
     },
     "prob_aprendida": 0.755,
     "prob_sin_calibrar": 0.6565093195158693
-   },
-   {
-    "partido_id": 1636465,
-    "fecha": "2026-11-05T21:00",
-    "competicion": "Conference",
-    "liga_id": 848,
-    "local": "Panathinaikos",
-    "visitante": "CSKA Sofia",
-    "mercado": "Match Winner",
-    "opcion": "Home",
-    "tipo": "resultado",
-    "texto": "Gana el Panathinaikos",
-    "cuota": 1.45,
-    "frecuencia": 0.556,
-    "ventaja": -0.134,
-    "detalle": "Panathinaikos 6/8 · CSKA Sofia 4/10",
-    "contexto": null,
-    "forma": "forma_mejor",
-    "bajas": "bajas_ninguno",
-    "claves_fuera": {
-     "617": [],
-     "853": []
-    },
-    "prob_aprendida": 0.745,
-    "prob_sin_calibrar": 0.6478620940689367
    }
   ],
   "hora": null,

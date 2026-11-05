@@ -1,7 +1,7 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_

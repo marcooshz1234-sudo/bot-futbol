@@ -1,10 +1,10 @@
 # Birmingham – Swansea
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:11_
+_Actualizadas: 05/11 08:25_
 
 - **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.95**

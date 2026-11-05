@@ -1,10 +1,10 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 08:23_
+_Actualizadas: 05/11 08:26_
 
 - **1X2:** 1 **1.40**  ·  X **4.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.20**  ·  X2 **2.75**

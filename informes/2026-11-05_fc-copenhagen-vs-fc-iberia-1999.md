@@ -1,21 +1,20 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:10_
+_Actualizadas: 05/11 08:24_
 
 - **1X2:** 1 **1.17**  ·  X **6.50**  ·  2 **17.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.11**  ·  X2 **5.00**
-- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **2.88**
-    - 3,5: más **2.00** · menos **1.73**
-    - 4,5: más **3.40** · menos **1.30**
-    - 5,5: más **6.00** · menos **1.12**
-    - 6,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
@@ -46,13 +45,13 @@ _Actualizadas: 05/11 02:10_
 - **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **11.00**
 - **Win Both Halves:** 1 **2.20**  ·  2 **67.00**
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **8.50**  ·  Away/Yes **23.00**  ·  Home/No **1.83**  ·  Draw/No **19.00**  ·  Away/No **26.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 5,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 2,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
-- **Away Player Shots On Target Total:** Alex Kral **17.00**  ·  Mads Madsen **13.00**  ·  Mohamed Elyounoussi **7.00**  ·  Andreas Cornelius **5.00**  ·  Magnus Mattsson **12.00**  ·  Thomas Delaney **29.00**  ·  Rodrigo Huescas **26.00**  ·  Marcos Lopez **29.00**  ·  William Clem **13.00**  ·  Dominik Sarapata **13.00**  ·  Viktor Dadason **4.50**  ·  Maher Carrizo **12.00**  ·  Junnosuke Suzuki **12.00**  ·  Phillip Cancar **41.00**  ·  Birger Meling **29.00**  ·  Robert Silva **23.00**  ·  Gabriel Pereira dos Santos **9.50**
+- **Away Player Shots On Target Total:** Alex Kral **17.00**  ·  Mads Madsen **15.00**  ·  Mohamed Elyounoussi **7.50**  ·  Andreas Cornelius **5.50**  ·  Magnus Mattsson **12.00**  ·  Thomas Delaney **29.00**  ·  Rodrigo Huescas **26.00**  ·  Marcos Lopez **29.00**  ·  William Clem **15.00**  ·  Dominik Sarapata **13.00**  ·  Viktor Dadason **4.33**  ·  Maher Carrizo **12.00**  ·  Junnosuke Suzuki **12.00**  ·  Phillip Cancar **41.00**  ·  Birger Meling **29.00**  ·  Robert Silva **23.00**  ·  Gabriel Pereira dos Santos **9.50**
 - **Anytime Goal Scorer:** Sebastian Figueredo **21.00**  ·  Alex Kral **4.33**  ·  Mads Madsen **3.20**  ·  Felix Beijmo **6.50**  ·  Mohamed Elyounoussi **1.73**  ·  Andreas Cornelius **1.83**  ·  Magnus Mattsson **2.50**  ·  Thomas Delaney **4.75**  ·  Rodrigo Huescas **5.50**  ·  Marcos Lopez **6.00**  ·  William Clem **4.33**  ·  Thapelo Maseko **3.20**  ·  Vakho Bedoshvili **9.00**  ·  Dominik Sarapata **2.75**  ·  Zviad Natchkebia **8.00**  ·  Viktor Dadason **2.30**  ·  Maher Carrizo **2.50**  ·  Junnosuke Suzuki **6.00**  ·  Asger Sorensen **6.00**  ·  Phillip Cancar **23.00**  ·  Akos Markgraf **7.00**  ·  Geovanni Vianney **2.50**  ·  Khung-hyun Lee **6.00**  ·  Henrik Haraldsen **7.00**  ·  Marvin Nasnas **2.75**  ·  Gunner Olsen **2.30**  ·  Nikoloz Dadiani **12.00**  ·  Nika Sikharulashvili **6.00**  ·  Giorgi Kutsia **12.00**  ·  Andria Bartishvili **7.00**  ·  Bakar Kardava **15.00**  ·  Giorgi Kobuladze **21.00**  ·  Lado Chikhradze **6.00**  ·  Amiran Dzagania **6.00**  ·  Stephen Ende **6.50**  ·  Daniel Kvartskhava **9.00**  ·  Ibrahim Alhassan **10.00**  ·  Eldar Kuliyev **12.00**  ·  Jemal-Giorgi Jinjolava **15.00**  ·  Alexander Amisulashvili **23.00**  ·  Jean-Marc Tiboue **21.00**  ·  Nikoloz Bochorishvili **23.00**  ·  Birger Meling **6.50**  ·  Vahid Selimovic **23.00**  ·  Hunor Nemeth **4.75**  ·  Lucas Cafe **8.00**  ·  Kenay Myrie **4.75**  ·  Robert Silva **2.75**  ·  Giorgi Beridze **10.00**  ·  Gabriel Pereira dos Santos **6.50**
 
 ## Estadísticas de equipo
@@ -195,14 +194,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 5% | 19% | 12% | 5.00 | -40% |
 | Doble oportunidad: 12 | 96% | 87% | 91% | 1.11 | +2% |
 | Doble oportunidad: 1X | 99% | 94% | 96% | 1.02 | -2% |
-| Ambos marcan: No | 68% | 56% | 62% | 1.67 | +3% |
-| Ambos marcan: Sí | 32% | 44% | 38% | 2.10 | -20% |
-| Goles más/menos: Más de 2.5 | 83% | 67% | 75% | 1.40 | +5% |
-| Goles más/menos: Más de 3.5 | 67% | 46% | 57% | 2.00 | +13% |
-| Goles más/menos: Más de 4.5 | 48% | 28% | 38% | 3.40 | +28% |
-| Goles más/menos: Menos de 2.5 | 17% | 33% | 25% | 2.88 | -29% |
-| Goles más/menos: Menos de 3.5 | 33% | 54% | 43% | 1.73 | -25% |
-| Goles más/menos: Menos de 4.5 | 52% | 72% | 62% | 1.30 | -19% |
+| Ambos marcan: No | 68% | 59% | 63% | 1.57 | -1% |
+| Ambos marcan: Sí | 32% | 41% | 37% | 2.25 | -18% |
+| Goles más/menos: Más de 2.5 | 83% | 64% | 74% | 1.48 | +9% |
+| Goles más/menos: Más de 3.5 | 67% | 44% | 56% | 2.10 | +17% |
+| Goles más/menos: Más de 4.5 | 48% | 25% | 36% | 3.75 | +37% |
+| Goles más/menos: Menos de 2.5 | 17% | 36% | 26% | 2.60 | -31% |
+| Goles más/menos: Menos de 3.5 | 33% | 56% | 44% | 1.67 | -26% |
+| Goles más/menos: Menos de 4.5 | 52% | 75% | 64% | 1.25 | -21% |
 | Goles 1ª parte más/menos: Más de 0.5 | 86% | 77% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 59% | 46% | 53% | 2.00 | +5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 32% | 22% | 27% | 4.33 | +16% |

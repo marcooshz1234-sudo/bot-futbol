@@ -1,10 +1,10 @@
 # VfB Stuttgart – Werder Bremen
 **Bundesliga** · Regular Season - 9 · 07/11/2026 18:30 (hora España) · MHP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:11_
+_Actualizadas: 05/11 08:25_
 
 - **1X2:** 1 **1.62**  ·  X **4.75**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.18**  ·  X2 **2.30**

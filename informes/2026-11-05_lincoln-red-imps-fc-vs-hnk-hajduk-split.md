@@ -1,10 +1,10 @@
 # Lincoln Red Imps FC – HNK Hajduk Split
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Europa Point Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:09_
+_Actualizadas: 05/11 08:24_
 
 - **1X2:** 1 **8.00**  ·  X **4.75**  ·  2 **1.38**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.18**  ·  X2 **1.08**
@@ -13,7 +13,7 @@ _Actualizadas: 05/11 02:09_
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.70** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.40**
+    - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -49,7 +49,7 @@ _Actualizadas: 05/11 02:09_
     - 2,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Away Player Shots On Target Total:** Marin Soticek **13.00**  ·  Khalil Fayad **41.00**  ·  Leander Dendoncker **21.00**  ·  Carlos Martin **15.00**  ·  Leite Dali **13.00**
 - **Anytime Goal Scorer:** Etnik Brruti **4.50**  ·  Alvaro Romero **8.00**  ·  Alberto del Moral **5.50**  ·  Adrion Pajaziti **5.50**  ·  Lee Casciaro **5.50**  ·  Graeme Torrilla **12.00**  ·  Ethan Britto **9.50**  ·  Ethan Jolley **17.00**  ·  Bernardo Lopes **17.00**  ·  Bassel Jradi **3.40**  ·  Josip Basic **5.50**  ·  Marin Soticek **2.75**  ·  Toni Garcia **9.50**  ·  Kike Gomez **4.75**  ·  Christian Rutjens **23.00**  ·  Gonzalez Nano **10.00**  ·  Armando Mandi **12.00**  ·  Martinez Joe **12.00**  ·  Ron Raci **9.50**  ·  Ayman El Ghobashy **4.75**  ·  Khalil Fayad **4.75**  ·  Mathieu Acapandie **9.50**  ·  Leander Dendoncker **5.50**  ·  Carlos Martin **2.30**  ·  Alec Van Hoorenbeeck **9.50**  ·  Dennis Hadzikadunic **9.50**  ·  Dario Maresic **9.50**  ·  Marko Livaja **2.05**  ·  Dario Melnjak **4.50**  ·  Simun Hrgovic **3.00**  ·  Michele Sego **2.30**  ·  Luka Hodak **9.50**  ·  Roko Gabric **9.50**  ·  Roko Brajkovic **9.50**  ·  Marino Skelin **8.00**  ·  Adam Guram **3.00**  ·  Julliani Eersteling **17.00**  ·  Yussef Flalhi Idrissi **8.00**  ·  Gabri Cardozo **17.00**  ·  Leon Mason **7.50**  ·  Facundo Alvarez **8.00**  ·  Manu Toledano **4.75**  ·  Andjelo Sutalo **3.40**  ·  Nico Pinto **8.00**  ·  Marco Fossati **4.50**  ·  Aly Coulibaly **9.50**  ·  Jay Coombes **17.00**  ·  Abdoulie Sanyang **2.75**  ·  Alex Mula **8.00**  ·  Leite Dali **2.75**
 
@@ -197,10 +197,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 43% | 46% | 45% | 2.00 | -11% |
 | Goles más/menos: Más de 1.5 | 78% | 77% | 77% | 1.22 | -5% |
 | Goles más/menos: Más de 2.5 | 55% | 55% | 55% | 1.70 | -6% |
-| Goles más/menos: Más de 3.5 | 33% | 34% | 33% | 2.75 | -9% |
+| Goles más/menos: Más de 3.5 | 33% | 35% | 34% | 2.62 | -11% |
 | Goles más/menos: Menos de 1.5 | 22% | 23% | 23% | 4.00 | -10% |
 | Goles más/menos: Menos de 2.5 | 45% | 45% | 45% | 2.10 | -6% |
-| Goles más/menos: Menos de 3.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles más/menos: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -5% |

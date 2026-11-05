@@ -1,10 +1,10 @@
 # Borussia Dortmund – SV Elversberg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:10_
+_Actualizadas: 05/11 08:25_
 
 - **1X2:** 1 **1.30**  ·  X **6.00**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.12**  ·  X2 **3.50**

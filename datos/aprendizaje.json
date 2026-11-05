@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05 02:11",
+ "generado": "2026-11-05 08:26",
  "picks_usados": 410,
  "aciertos": 253,
  "prometido_medio": 0.707,
@@ -1742,6 +1742,26 @@
    "n": 1,
    "aciertos": 1
   },
+  "equipo|Rennes|Match Winner|gana": {
+   "ajuste": -0.0498,
+   "n": 1,
+   "aciertos": 0
+  },
+  "equipo|FC Porto|Match Winner|gana": {
+   "ajuste": 0.0522,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Como|Match Winner|gana": {
+   "ajuste": 0.076,
+   "n": 2,
+   "aciertos": 2
+  },
+  "equipo|PSV Eindhoven|Match Winner|gana": {
+   "ajuste": -0.0535,
+   "n": 1,
+   "aciertos": 0
+  },
   "jugador|Kylian Mbappe|gol_o_asist": {
    "ajuste": 0.0183,
    "n": 1,
@@ -1771,26 +1791,6 @@
    "ajuste": 0.0313,
    "n": 1,
    "aciertos": 1
-  },
-  "equipo|Rennes|Match Winner|gana": {
-   "ajuste": -0.0498,
-   "n": 1,
-   "aciertos": 0
-  },
-  "equipo|FC Porto|Match Winner|gana": {
-   "ajuste": 0.0522,
-   "n": 1,
-   "aciertos": 1
-  },
-  "equipo|Como|Match Winner|gana": {
-   "ajuste": 0.076,
-   "n": 2,
-   "aciertos": 2
-  },
-  "equipo|PSV Eindhoven|Match Winner|gana": {
-   "ajuste": -0.0535,
-   "n": 1,
-   "aciertos": 0
   },
   "equipo|Sassuolo|Total|Over 0.5": {
    "ajuste": -0.0399,

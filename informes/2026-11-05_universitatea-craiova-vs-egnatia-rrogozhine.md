@@ -1,19 +1,19 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:10_
+_Actualizadas: 05/11 08:24_
 
-- **1X2:** 1 **1.45**  ·  X **4.50**  ·  2 **6.50**
+- **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.70** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.40**
+    - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -31,13 +31,13 @@ _Actualizadas: 05/11 02:10_
     - 1,5: más **4.33** · menos **1.20**
 - **Córners más/menos:**
     - 9,5: más **2.02** · menos **1.78**
-- **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **6.50**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.50**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.25**  ·  2 **3.40**
 - **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **7.00**
@@ -182,9 +182,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 14% | 22% | 6.50 | +46% |
+| 1X2: 2 | 30% | 13% | 22% | 7.00 | +53% |
 | 1X2: X | 24% | 21% | 22% | 4.50 | -0% |
-| 1X2: 1 | 46% | 65% | 55% | 1.45 | -20% |
+| 1X2: 1 | 46% | 66% | 56% | 1.42 | -21% |
 | Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +18% |
 | Doble oportunidad: 12 | 76% | 80% | 78% | 1.18 | -8% |
 | Doble oportunidad: 1X | 70% | 85% | 77% | 1.11 | -14% |
@@ -192,10 +192,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 61% | 50% | 55% | 1.83 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 3.5 | 37% | 34% | 35% | 2.75 | -3% |
+| Goles más/menos: Más de 3.5 | 37% | 35% | 36% | 2.62 | -5% |
 | Goles más/menos: Menos de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Menos de 3.5 | 63% | 66% | 65% | 1.40 | -9% |
+| Goles más/menos: Menos de 3.5 | 63% | 65% | 64% | 1.44 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
@@ -210,7 +210,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 61% | 78% | 70% | 1.20 | -17% |
 | Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -8% |
 | Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -3% |
-| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -4% |
-| 1X2 descanso: 1 | 35% | 48% | 42% | 1.95 | -19% |
+| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -5% |
+| 1X2 descanso: 1 | 35% | 49% | 42% | 1.91 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

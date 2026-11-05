@@ -1,21 +1,21 @@
 # FK Crvena Zvezda – Inter Club d'Escaldes
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stadion Rajko Mit
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:09_
+_Actualizadas: 05/11 08:24_
 
-- **1X2:** 1 **1.06**  ·  X **11.00**  ·  2 **34.00**
+- **1X2:** 1 **1.06**  ·  X **11.00**  ·  2 **29.00**
 - **Doble oportunidad:** 1X **1.00**  ·  12 **1.05**  ·  X2 **10.00**
 - **Ambos marcan:** Sí **2.62**  ·  No **1.44**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.30** · menos **3.50**
+    - 1,5: más **1.07** · menos **9.00**
+    - 2,5: más **1.28** · menos **3.60**
     - 3,5: más **1.73** · menos **2.00**
     - 4,5: más **2.62** · menos **1.44**
-    - 5,5: más **4.50** · menos **1.18**
-    - 6,5: más **9.00** · menos **1.07**
+    - 5,5: más **4.33** · menos **1.20**
+    - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
@@ -32,7 +32,7 @@ _Actualizadas: 05/11 02:09_
     - 0,5: más **2.50** · menos **1.50**
     - 1,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **1.30**  ·  X **3.75**  ·  2 **19.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
@@ -185,22 +185,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 3% | 9% | 34.00 | +195% |
+| 1X2: 2 | 15% | 3% | 9% | 29.00 | +158% |
 | 1X2: X | 20% | 9% | 14% | 11.00 | +58% |
-| 1X2: 1 | 65% | 89% | 77% | 1.06 | -18% |
+| 1X2: 1 | 65% | 88% | 77% | 1.06 | -19% |
 | Doble oportunidad: X2 | 35% | 10% | 22% | 10.00 | +123% |
 | Doble oportunidad: 12 | 80% | 93% | 86% | 1.05 | -9% |
 | Doble oportunidad: 1X | 85% | 97% | 91% | 1.00 | -9% |
 | Ambos marcan: No | 50% | 65% | 57% | 1.44 | -17% |
 | Ambos marcan: Sí | 50% | 35% | 43% | 2.62 | +11% |
-| Goles más/menos: Más de 2.5 | 55% | 73% | 64% | 1.30 | -17% |
+| Goles más/menos: Más de 2.5 | 55% | 74% | 64% | 1.28 | -18% |
 | Goles más/menos: Más de 3.5 | 33% | 54% | 43% | 1.73 | -25% |
 | Goles más/menos: Más de 4.5 | 17% | 35% | 26% | 2.62 | -32% |
-| Goles más/menos: Más de 5.5 | 7% | 21% | 14% | 4.50 | -37% |
-| Goles más/menos: Menos de 2.5 | 45% | 27% | 36% | 3.50 | +26% |
+| Goles más/menos: Más de 5.5 | 7% | 22% | 14% | 4.33 | -37% |
+| Goles más/menos: Menos de 2.5 | 45% | 26% | 36% | 3.60 | +28% |
 | Goles más/menos: Menos de 3.5 | 67% | 46% | 57% | 2.00 | +14% |
 | Goles más/menos: Menos de 4.5 | 83% | 65% | 74% | 1.44 | +7% |
-| Goles más/menos: Menos de 5.5 | 93% | 79% | 86% | 1.18 | +1% |
+| Goles más/menos: Menos de 5.5 | 93% | 78% | 86% | 1.20 | +3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 51% | 44% | 1.80 | -21% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 27% | 20% | 3.50 | -30% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 64% | 49% | 56% | 1.91 | +8% |
@@ -213,8 +213,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 4.5 | 94% | 73% | 84% | 1.28 | +7% |
 | Goles del visitante: Más de 0.5 | 57% | 38% | 47% | 2.50 | +18% |
 | Goles del visitante: Menos de 0.5 | 43% | 62% | 53% | 1.50 | -21% |
-| Córners más/menos: Más de 9.5 | 41% | 47% | 44% | 2.00 | -12% |
-| Córners más/menos: Menos de 9.5 | 59% | 53% | 56% | 1.80 | +1% |
+| Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
 | 1X2 descanso: X | 39% | 24% | 32% | 3.75 | +18% |
 | 1X2 descanso: 1 | 47% | 71% | 59% | 1.30 | -24% |
 

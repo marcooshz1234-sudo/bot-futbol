@@ -1,18 +1,18 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Stadion de Goffert
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:09_
+_Actualizadas: 05/11 08:24_
 
-- **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **4.00**
+- **1X2:** 1 **1.75**  ·  X **4.10**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.00**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.38** · menos **1.57**
+    - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -197,19 +197,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 24% | 28% | 4.00 | +13% |
-| 1X2: X | 26% | 22% | 24% | 4.20 | +1% |
-| 1X2: 1 | 41% | 54% | 48% | 1.75 | -17% |
+| 1X2: 2 | 33% | 23% | 28% | 4.00 | +13% |
+| 1X2: X | 26% | 23% | 24% | 4.10 | -0% |
+| 1X2: 1 | 41% | 54% | 47% | 1.75 | -17% |
 | Doble oportunidad: X2 | 59% | 47% | 53% | 2.00 | +6% |
 | Doble oportunidad: 12 | 74% | 77% | 75% | 1.22 | -8% |
 | Doble oportunidad: 1X | 67% | 77% | 72% | 1.22 | -12% |
 | Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
 | Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
 | Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -13% |
-| Goles más/menos: Más de 3.5 | 28% | 40% | 34% | 2.38 | -19% |
+| Goles más/menos: Más de 3.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles más/menos: Más de 4.5 | 13% | 22% | 18% | 4.33 | -24% |
 | Goles más/menos: Menos de 2.5 | 50% | 40% | 45% | 2.38 | +7% |
-| Goles más/menos: Menos de 3.5 | 72% | 60% | 66% | 1.57 | +4% |
+| Goles más/menos: Menos de 3.5 | 72% | 62% | 67% | 1.53 | +3% |
 | Goles más/menos: Menos de 4.5 | 87% | 78% | 82% | 1.22 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -17% |

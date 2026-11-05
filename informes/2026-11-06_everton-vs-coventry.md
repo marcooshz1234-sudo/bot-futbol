@@ -1,10 +1,10 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:10_
+_Actualizadas: 05/11 08:25_
 
 - **1X2:** 1 **1.70**  ·  X **4.00**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.10**
@@ -30,7 +30,7 @@ _Actualizadas: 05/11 02:10_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.38**  ·  2 **4.75**
@@ -237,8 +237,8 @@ _Goles esperados: local 1,68 · visitante 0,84 · córners esperados 9,4._
 | Goles del visitante: Más de 1.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +3% |
 | Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Córners más/menos: Más de 9.5 | 44% | 51% | 47% | 1.88 | -11% |
-| Córners más/menos: Menos de 9.5 | 56% | 49% | 53% | 1.92 | +1% |
+| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
 | 1X2 descanso: X | 43% | 39% | 41% | 2.38 | -3% |
 | 1X2 descanso: 1 | 40% | 42% | 41% | 2.20 | -10% |
 

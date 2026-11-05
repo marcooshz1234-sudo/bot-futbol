@@ -1,26 +1,26 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:09_
+_Actualizadas: 05/11 08:24_
 
 - **1X2:** 1 **1.17**  ·  X **7.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.00**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **2.88**
-    - 3,5: más **1.91** · menos **1.80**
-    - 4,5: más **3.25** · menos **1.33**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.36** · menos **3.10**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **3.00** · menos **1.36**
     - 5,5: más **5.50** · menos **1.14**
-    - 6,5: más **11.00** · menos **1.05**
+    - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del local:**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.73** · menos **2.00**
@@ -34,19 +34,19 @@ _Actualizadas: 05/11 02:09_
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.90** · menos **1.90**
     - 9,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **1.50**  ·  X **3.10**  ·  2 **11.00**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.20**  ·  2 **11.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **6.00** · menos **1.12**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.10**  ·  2 **5.50**
-- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **11.00**
-- **Win Both Halves:** 1 **2.10**  ·  2 **67.00**
+- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **10.00**
+- **Win Both Halves:** 1 **2.10**  ·  2 **51.00**
 - **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **8.50**  ·  Away/Yes **23.00**  ·  Home/No **1.83**  ·  Draw/No **21.00**  ·  Away/No **26.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.75**
 - **Home Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
@@ -197,12 +197,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 90% | 93% | 92% | 1.03 | -6% |
 | Ambos marcan: No | 62% | 54% | 58% | 1.73 | +0% |
 | Ambos marcan: Sí | 38% | 46% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 2.5 | 47% | 67% | 57% | 1.40 | -20% |
-| Goles más/menos: Más de 3.5 | 25% | 49% | 37% | 1.91 | -29% |
-| Goles más/menos: Más de 4.5 | 12% | 29% | 20% | 3.25 | -34% |
-| Goles más/menos: Menos de 2.5 | 53% | 33% | 43% | 2.88 | +24% |
-| Goles más/menos: Menos de 3.5 | 75% | 51% | 63% | 1.80 | +14% |
-| Goles más/menos: Menos de 4.5 | 88% | 71% | 80% | 1.33 | +6% |
+| Goles más/menos: Más de 2.5 | 47% | 70% | 58% | 1.36 | -21% |
+| Goles más/menos: Más de 3.5 | 25% | 50% | 38% | 1.83 | -31% |
+| Goles más/menos: Más de 4.5 | 12% | 31% | 21% | 3.00 | -36% |
+| Goles más/menos: Menos de 2.5 | 53% | 30% | 42% | 3.10 | +30% |
+| Goles más/menos: Menos de 3.5 | 75% | 50% | 62% | 1.83 | +14% |
+| Goles más/menos: Menos de 4.5 | 88% | 69% | 79% | 1.36 | +7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 78% | 73% | 1.20 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 49% | 40% | 1.91 | -25% |
 | Goles 1ª parte más/menos: Más de 2.5 | 10% | 23% | 17% | 4.00 | -33% |
@@ -221,7 +221,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 43% | 44% | 44% | 2.10 | -9% |
 | Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
 | Córners más/menos: Menos de 9.5 | 57% | 56% | 56% | 1.67 | -6% |
-| 1X2 descanso: X | 40% | 30% | 35% | 3.10 | +9% |
-| 1X2 descanso: 1 | 49% | 62% | 55% | 1.50 | -17% |
+| 1X2 descanso: X | 40% | 28% | 34% | 3.20 | +10% |
+| 1X2 descanso: 1 | 49% | 63% | 56% | 1.44 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
