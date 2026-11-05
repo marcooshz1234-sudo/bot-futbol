@@ -2408,7 +2408,7 @@
   {
     "id": "2026-11-05-combi-partido-1636229",
     "fecha": "2026-11-05T20:25",
-    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 BENFICA vs LECH POZNAN 🟠\n\n🎯 ALEXANDER BAH: 1+ TIROS [x1.40]\n✅ AMBOS VEN TARJETA [x1.18]\n✅ BENFICA GANA AL DESCANSO [x1.40]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.50]\n✅ LECH POZNAN HACE MÁS DE 2,5 CÓRNERS [x1.62]\n\n💥 Cuota total aprox.: 5,72\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 BENFICA vs LECH POZNAN 🟠\n\n🎯 ALEXANDER BAH: 1+ TIROS [x1.40]\n✅ AMBOS VEN TARJETA [x1.18]\n✅ BENFICA GANA AL DESCANSO [x1.44]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.50]\n✅ LECH POZNAN HACE MÁS DE 2,5 CÓRNERS [x1.62]\n\n💥 Cuota total aprox.: 5,86\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2422,7 +2422,7 @@
     "cuotas": [
       1.4,
       1.18,
-      1.4,
+      1.44,
       1.5,
       1.62
     ],
@@ -2436,12 +2436,13 @@
       "logo_v": "https://media.api-sports.io/football/teams/347.png",
       "fecha": "2026-11-05T21:00",
       "liga": "Europa League"
-    }
+    },
+    "cuotas_revisadas": "2026-11-05T18:58"
   },
   {
     "id": "2026-11-05-combi-partido-1636219",
     "fecha": "2026-11-05T20:25",
-    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 AZ ALKMAAR vs JUVENTUS 🟠\n\n🎯 AZ ALKMAAR MARCA [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ RO-ZANGELO DAAL: 1+ TIROS A PUERTA [x2.10]\n✅ JUVENTUS HACE MÁS TIROS [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-0 | 1-2\n💥 Cuota total aprox.: 4,87\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 AZ ALKMAAR vs JUVENTUS 🟠\n\n🎯 AZ ALKMAAR MARCA [x1.40]\n✅ GOL EN LA 1ª PARTE [x1.33]\n✅ RO-ZANGELO DAAL: 1+ TIROS A PUERTA [x2.10]\n✅ JUVENTUS HACE MÁS TIROS [x1.53]\n\n🔥 Resultado probable: 1-1 | 1-0 | 1-2\n💥 Cuota total aprox.: 5,03\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2455,7 +2456,7 @@
       1.4,
       1.33,
       2.1,
-      1.5
+      1.53
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -2467,7 +2468,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/496.png",
       "fecha": "2026-11-05T21:00",
       "liga": "Europa League"
-    }
+    },
+    "cuotas_revisadas": "2026-11-05T18:58"
   },
   {
     "id": "2026-11-05-combi-partido-1636223",
@@ -2503,7 +2505,7 @@
   {
     "id": "2026-11-05-estrella-1636223",
     "fecha": "2026-11-05T20:25",
-    "texto": "🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Igor Paixao: 2+ tiros\n✅2. Ibrahim Maza comete 1+ faltas\n✅3. Miguel Gutierrez comete 1+ faltas\n✅4. Gana el Bayer Leverkusen\n\n🎯 Cuota: 4,20\n💶 10€ → 42,00€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Igor Paixao: 2+ tiros\n✅2. Ibrahim Maza comete 1+ faltas\n✅3. Miguel Gutierrez comete 1+ faltas\n✅4. Gana el Bayer Leverkusen\n\n🎯 Cuota: 4,20\n💶 10€ → 36,40€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2516,15 +2518,16 @@
     "cuotas": [
       1.53,
       1.28,
-      1.57,
-      1.33
+      1.44,
+      1.3
     ],
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "cuotas_revisadas": "2026-11-05T18:58"
   },
   {
     "id": "2026-11-05-estrella-1636219",
     "fecha": "2026-11-05T20:25",
-    "texto": "🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Mexx Meerdink: 1+ tiros a puerta\n✅2. Lewis Schouten comete 1+ faltas\n✅3. AZ Alkmaar hace 3+ córners\n✅4. Más de 24,5 tiros\n✅5. Ambos ven tarjeta\n\n🎯 Cuota: 4,19\n💶 10€ → 41,90€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Mexx Meerdink: 1+ tiros a puerta\n✅2. Lewis Schouten comete 1+ faltas\n✅3. AZ Alkmaar hace 3+ córners\n✅4. Más de 24,5 tiros\n✅5. Ambos ven tarjeta\n\n🎯 Cuota: 4,19\n💶 10€ → 41,40€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2536,13 +2539,14 @@
       "1636219|Both Teams Cards|Yes"
     ],
     "cuotas": [
-      1.28,
+      1.33,
       1.33,
       1.17,
       1.91,
       1.32
     ],
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "cuotas_revisadas": "2026-11-05T18:58"
   },
   {
     "id": "2026-11-06-ganadores",
