@@ -2375,7 +2375,7 @@
   {
     "id": "2026-11-05-combi-partido-1636254",
     "fecha": "2026-11-05T18:10",
-    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 CRYSTAL PALACE vs 1899 HOFFENHEIM 🟠\n\n🎯 FISNIK ASLLANI COMETE 1+ FALTAS [x1.44]\n✅ DAICHI KAMADA: 1+ TIROS [x1.36]\n✅ WOUTER BURGER: 1+ TIROS [x1.30]\n✅ ADAM HLOZEK COMETE 1+ FALTAS [x1.50]\n✅ CRYSTAL PALACE O EMPATE [x1.25]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-0\n💥 Cuota total aprox.: 5,09\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 CRYSTAL PALACE vs 1899 HOFFENHEIM 🟠\n\n🎯 FISNIK ASLLANI COMETE 1+ FALTAS [x1.44]\n✅ DAICHI KAMADA: 1+ TIROS [x1.36]\n✅ WOUTER BURGER: 1+ TIROS [x1.30]\n✅ CRYSTAL PALACE O EMPATE [x1.25]\n\n🔥 Resultado probable: 1-1 | 2-1 | 1-0\n💥 Cuota total aprox.: 3,42\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2383,14 +2383,12 @@
       "1636254|Player Fouls Committed|Fisnik Asllani - 1",
       "1636254|Home Player Shots|Daichi Kamada - 1",
       "1636254|Away Player Shots|Wouter Burger - 1",
-      "1636254|Player Fouls Committed|Adam Hlozek - 1",
       "1636254|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.44,
       1.36,
       1.3,
-      1.5,
       1.25
     ],
     "espera_alineacion": true,
@@ -2404,7 +2402,8 @@
       "fecha": "2026-11-05T18:45",
       "liga": "Europa League"
     },
-    "cuotas_revisadas": "2026-11-05T16:44"
+    "cuotas_revisadas": "2026-11-05T16:44",
+    "revisado_alineaciones": "2026-11-05T18:25"
   },
   {
     "id": "2026-11-05-combi-partido-1636229",
