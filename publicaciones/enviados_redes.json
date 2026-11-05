@@ -789,28 +789,22 @@
   "redes": {
    "instagram_reel": null,
    "threads": "18569793196077671",
-   "instagram_story": "18127719134483561"
-  },
-  "errores_redes": {
-   "instagram": "No module named 'playwright'"
+   "instagram_story": "18127719134483561",
+   "instagram": "18084893735709998"
   }
  },
  "2026-11-05-estrella-1636223": {
   "redes": {
    "instagram_reel": null,
-   "threads": "17998681874833755"
-  },
-  "errores_redes": {
-   "instagram": "No module named 'playwright'"
+   "threads": "17998681874833755",
+   "instagram": "18101047655420633"
   }
  },
  "2026-11-05-estrella-1636219": {
   "redes": {
    "instagram_reel": null,
-   "threads": "18130831016504728"
-  },
-  "errores_redes": {
-   "instagram": "No module named 'playwright'"
+   "threads": "18130831016504728",
+   "instagram": "18107954423569273"
   }
  }
 }
