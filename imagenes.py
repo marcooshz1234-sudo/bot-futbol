@@ -74,10 +74,10 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
     titulo, sub, lineas, cuota, dato = partes(p["texto"])
     w, h = (1080, 1920) if vertical else (1080, 1350)
     n = len(lineas)
-    fl = 40 if n <= 5 else 35 if n <= 7 else 31
+    fl = 40 if n <= 5 else 35 if n <= 7 else 31 if n <= 12 else 26 if n <= 16 else 22   # 05/11: listas de 18 partidos
     if vertical:
         fl += 8
-    gap = 14 if n <= 7 else 10
+    gap = 14 if n <= 7 else 10 if n <= 12 else 6 if n <= 16 else 4
     if foto_b64 and not vertical:   # con foto de escudos hay menos sitio en 1080x1350
         fl -= 4
         gap = 10

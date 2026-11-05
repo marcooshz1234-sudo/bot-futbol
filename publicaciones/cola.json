@@ -3143,5 +3143,54 @@
     "redes": {
       "threads": "18398865622167663"
     }
+  },
+  {
+    "id": "2026-11-05-ambos-marcan-18",
+    "fecha": "2026-11-05T13:00",
+    "texto": "⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀\n\n🏆 EUROPA LEAGUE\n🇪🇸 Real Sociedad–Lyon\n🇮🇹 Milan–Ferencváros\n🇳🇱 NEC–Omonia\n🇳🇴 Lillestrøm–Plzeň\n🇪🇸 Celta–Union SG\n🇵🇹 Torreense–Ararat\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland–Dinamo\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic–Beşiktaş\n\n🏆 CONFERENCE\n🇨🇭 Thun–Hearts\n🇩🇰 Midtjylland–Ajax\n🇬🇮 Lincoln–Hajduk\n🇹🇷 Trabzonspor–Friburgo\n🇧🇪 St. Truiden–Brann\n🇨🇭 Lugano–Kauno\n🇫🇷 Mónaco–Nordsjælland\n🇬🇷 Panathinaikos–CSKA\n🇳🇱 Twente–Pafos\n🇷🇴 Craiova–Egnatia\n\n🎯 CUOTA APROX. 8.462 🚀\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636319|Both Teams Score|Yes",
+      "1636289|Both Teams Score|Yes",
+      "1636302|Both Teams Score|Yes",
+      "1636208|Both Teams Score|Yes",
+      "1636347|Both Teams Score|Yes",
+      "1636345|Both Teams Score|Yes",
+      "1636250|Both Teams Score|Yes",
+      "1636245|Both Teams Score|Yes",
+      "1636473|Both Teams Score|Yes",
+      "1636448|Both Teams Score|Yes",
+      "1636444|Both Teams Score|Yes",
+      "1636476|Both Teams Score|Yes",
+      "1636483|Both Teams Score|Yes",
+      "1636465|Both Teams Score|Yes",
+      "1636478|Both Teams Score|Yes",
+      "1636447|Both Teams Score|Yes",
+      "1636456|Both Teams Score|Yes",
+      "1636469|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57,
+      1.5,
+      1.57,
+      1.8,
+      1.95,
+      1.8,
+      1.44,
+      1.62,
+      1.44,
+      1.4,
+      2.0,
+      1.44,
+      1.83,
+      1.8,
+      1.8,
+      1.83,
+      1.57,
+      1.57
+    ],
+    "nota": "05/11 04:12: Marcos «sube una de estas mañana» (ambos marcan, 18 partidos)"
   }
 ]
