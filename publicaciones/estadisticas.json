@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 15:55",
+ "actualizado": "2026-11-05 16:06",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1815,
-   "hoy": 177,
+   "seguidores": 1820,
+   "hoy": 182,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1815
+    1820
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 267,
-   "hoy": 22,
+   "seguidores": 268,
+   "hoy": 23,
    "serie": [
     165,
     176,
@@ -50,17 +50,17 @@
     214,
     232,
     245,
-    267
+    268
    ]
   }
  },
- "total": 2107,
- "total_hoy": 200,
+ "total": 2113,
+ "total_hoy": 206,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "17:30",
   "dia": "2026-11-05",
-  "titulo": "La loca del jueves x6,73"
+  "titulo": "Copas europeas · 12 picks para hoy (3/"
  },
  "ayer": {
   "aciertos": 15,
@@ -150,9 +150,9 @@
   },
   "2026-11-05": {
    "instagram": 25,
-   "threads": 1815,
+   "threads": 1820,
    "facebook": 0,
-   "telegram": 267
+   "telegram": 268
   }
  },
  "tipos_instagram": {

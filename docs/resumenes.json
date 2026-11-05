@@ -1050,14 +1050,14 @@
   },
   "2026-11-05": {
     "dia": "2026-11-05",
-    "total": 9,
+    "total": 10,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 9,
+      "pendiente": 10,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -1113,6 +1113,12 @@
         "titulo": "🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3)",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-05-combi-loca",
+        "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪",
+        "estado": "pendiente",
+        "cuota": 6.73
       }
     ],
     "picks": {
@@ -1120,6 +1126,6 @@
       "rojo": 0,
       "total": 72
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3) · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3) · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
   }
 }
