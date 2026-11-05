@@ -17,6 +17,7 @@ def leer(r):
 def main(base, a, b):
     va, vb, vo = leer(a), leer(b), leer(base)
     quitados = {p["id"] for p in vo} - {p["id"] for p in va} | ({p["id"] for p in vo} - {p["id"] for p in vb})
+    base_por_id = {p["id"]: p for p in vo}
     final = {}
     for lista in (va, vb):
         for p in lista:
@@ -32,7 +33,11 @@ def main(base, a, b):
                 elif v not in (None, "", {}, []) and x.get(k) in (None, "", {}, []):
                     x[k] = v
                 elif k in ("texto", "editar_texto", "fecha", "borrar", "caducada") and v != x.get(k):
-                    x[k] = v   # la versión que llega (cambio más reciente) manda en el contenido
+                    # 05/11 (se perdió el cambio de hora de un post): manda la versión que CAMBIÓ ese campo respecto
+                    # a la base; si las dos lo cambiaron, la que llega
+                    previo = (base_por_id.get(p["id"]) or {}).get(k)
+                    if v != previo:
+                        x[k] = v
     salida = sorted(final.values(), key=lambda p: p.get("fecha", ""))
     json.dump(salida, open(a, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     open(a, "a", encoding="utf-8").write("\n")
