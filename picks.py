@@ -686,8 +686,19 @@ TIROS_CUOTA_DEBIL = 3.5                          # equipo con cuota de ganar ≥
 TIROS_MARGEN_MEDIA = {"tiros": 0.3, "a_puerta": 0.0}   # 1+ tiros pide media ≥ 1,3; 1+ a puerta, media ≥ 1
 
 
+SUFIJOS = {"jr", "jr.", "junior", "jnr", "filho", "neto", "sr"}
+
+
+def sin_sufijo(t):
+    """05/11 (Marcos: «Vinicius sí jugó»): «Vinicius Jr.» y «Vinícius Júnior» son el mismo; fuera el sufijo final."""
+    t = [x.strip(".") for x in t]
+    while len(t) > 1 and t[-1] in SUFIJOS:
+        t = t[:-1]
+    return t
+
+
 def mismo_jugador(a, b):
-    a, b = norm(a).split(), norm(b).split()
+    a, b = sin_sufijo(norm(a).split()), sin_sufijo(norm(b).split())
     if not a or not b:
         return False
     return a == b or (a[-1] == b[-1] and a[0][0] == b[0][0])

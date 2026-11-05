@@ -37,10 +37,16 @@ def norm(t):
 
 
 def es_el(nombre_post, nombre_api):
-    a, b = norm(nombre_post).split(), norm(nombre_api).split()
+    a, b = sin_sufijo(norm(nombre_post).split()), sin_sufijo(norm(nombre_api).split())
     if not a or not b:
         return False
     return a == b or a[-1] == b[-1] or (len(a) == 1 and a[0] in b)
+
+
+def sin_sufijo(t):
+    """05/11: «Vinicius Jr.» (bet365) = «Vinícius Júnior» (API): fuera jr/junior/filho/neto al final."""
+    from picks import sin_sufijo as s
+    return s(t)
 
 
 def num(x):
