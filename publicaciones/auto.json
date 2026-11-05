@@ -2342,7 +2342,7 @@
   {
     "id": "2026-11-05-combi-partido-1636383",
     "fecha": "2026-11-05T17:45",
-    "texto": "✅ COMBI LOCAS | CONFERENCE\n🟢 ATALANTA vs KAIRAT ALMATY 🟢\n\n🎯 KAIRAT ALMATY HACE 8+ TIROS [x1.22]\n✅ AMBOS VEN TARJETA [x1.28]\n✅ KAIRAT ALMATY MARCA [x1.91]\n✅ KAIRAT ALMATY HACE MÁS DE 2,5 CÓRNERS [x1.67]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.62]\n\n💥 Cuota total aprox.: 6,00\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | CONFERENCE\n🟢 ATALANTA vs KAIRAT ALMATY 🟢\n\n🎯 KAIRAT ALMATY HACE 8+ TIROS [x1.22]\n✅ AMBOS VEN TARJETA [x1.28]\n✅ KAIRAT ALMATY MARCA [x1.91]\n✅ KAIRAT ALMATY HACE MÁS DE 2,5 CÓRNERS [x1.80]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.57]\n\n💥 Cuota total aprox.: 6,26\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2357,8 +2357,8 @@
       1.22,
       1.28,
       1.91,
-      1.67,
-      1.62
+      1.8,
+      1.57
     ],
     "tarjeta": {
       "local": "Atalanta",
@@ -2369,7 +2369,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/664.png",
       "fecha": "2026-11-05T18:45",
       "liga": "Conference"
-    }
+    },
+    "cuotas_revisadas": "2026-11-05T16:17"
   },
   {
     "id": "2026-11-05-combi-partido-1636254",
