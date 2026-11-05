@@ -138,7 +138,7 @@ def textos_picks(picks, dia):
     peores = sorted((k for k in tipos if tipos[k][1] >= 2 and pct(k) < 0.5 and k not in mejores), key=lambda k: (pct(k), -tipos[k][1]))
     if peores:
         lineas.append(f"😤 Lo peor: {fmt(peores[0])}")
-    lineas += ['', '💚 Mañana más picks GRATIS en @combilocas', '🍀 ¿Cuántos llevabas tú? 👇']
+    lineas += ['', '🔔 Mañana más picks: activad las notificaciones 👀', '🍀 ¿Cuántos llevabas tú? 👇']
     texto = '\n'.join(l for i, l in enumerate(lineas) if l or (i and lineas[i - 1]))
     return texto, texto
 

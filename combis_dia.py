@@ -1073,7 +1073,7 @@ def combi_multi(pools, dia, europeo=False):
         if not pool or datetime.fromisoformat(pool[0]["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=60):
             continue
         cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"] and fijisimo(p)][:10]
-        mejor = None
+        mejor, mejor_n = None, {}
         for n in (1, 2):
             for comb in itertools.combinations(cand, n):
                 if n == 1 and suelto_no(comb[0]):
@@ -1084,8 +1084,12 @@ def combi_multi(pools, dia, europeo=False):
                 if not MULTI["por_partido"][0] <= c <= MULTI["por_partido"][1]:
                     continue
                 pr = math.prod(p["prob_aprendida"] for p in comb)
-                if not mejor or pr > mejor[0]:
-                    mejor = (pr, list(comb), c)
+                if n not in mejor_n or pr > mejor_n[n][0]:
+                    mejor_n[n] = (pr, list(comb), c)
+        # 05/11 (Marcos): «pone 1 o 2 cosas por partido y casi solo hay una»: si hay pareja que sale casi tanto
+        # como lo mejor suelto (80 %), van dos cosas de ese partido
+        uno, dos = mejor_n.get(1), mejor_n.get(2)
+        mejor = dos if dos and (not uno or dos[0] >= uno[0] * 0.8) else uno
         if mejor:
             por_partido.append((pool[0].get("liga_id") in EUROPA if europeo else False, *mejor))
     por_partido.sort(key=lambda x: (not x[0], -x[1]))
@@ -1119,6 +1123,9 @@ def listas_europa(pools, dia):
             if usados[k] >= 2 or datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=30):
                 continue
             if por.get(p["partido_id"], 0) >= 2 or any(p.get("jugador") and p.get("jugador") == q.get("jugador") for q in lista):
+                continue
+            # 05/11 (Marcos): sin cosas que ya van dentro de otra («Gana el Bournemouth» + «Bournemouth gana una parte»)
+            if any(q["partido_id"] == p["partido_id"] and (implica(p, q) or implica(q, p)) for q in lista):
                 continue
             lista.append(p)
             por[p["partido_id"]] = por.get(p["partido_id"], 0) + 1

@@ -96,6 +96,15 @@ def excluido(mercado, opcion):
         return True
     if mercado == "Total Goals/Both Teams To Score" and not o.startswith("o/yes"):
         return True
+    # 05/11 (Marcos): nada de «gol en la 1ª parte» ni de «más de 2,5 goles» (o más) en el partido
+    if mercado in ("Goals Over/Under First Half", "Both Teams Score - First Half"):
+        return True
+    if mercado in ("Goals Over/Under", "Total Goals/Both Teams To Score") and o.startswith(("Over", "o/yes")):
+        try:
+            if float(o.split()[-1]) >= 2.5:
+                return True
+        except ValueError:
+            pass
     return False
 
 

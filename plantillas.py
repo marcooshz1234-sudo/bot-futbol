@@ -307,7 +307,22 @@ def cierre(dia, tipo, lista_=False):
 
 # 31/10 (Marcos): en los posts con muchos picks, que se sepa que no hay que cogerlos todos. Va la última:
 # si en Threads no cabe, es lo primero que se quita (redes.threads)
-POSTS_LISTA = ("ganadores", "combi-500")   # 02/11: en picks para hoy/mañana ya lo dice la línea de combinar
+POSTS_LISTA = ("ganadores", "combi-500")
+# 05/11 (Marcos): nada de «@combilocas» en los textos: en Telegram ese @ lleva a OTRO canal
+CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
+
+
+def con_equipo(p):
+    """05/11 (Marcos): los jugadores con su equipo: «Milot Avdyli (Sturm Graz): 1+ tiros»."""
+    t, j, eq = p["texto"], p.get("jugador"), p.get("equipo")
+    if not j or not eq or eq in t or j not in t:
+        return t
+    try:
+        from ganadores_win import CORTO
+        eq = CORTO.get(eq, eq)
+    except Exception:
+        pass
+    return t.replace(j, f"{j} ({eq})", 1)   # 02/11: en picks para hoy/mañana ya lo dice la línea de combinar
 def texto_multi(sel, cuota, nombre):
     """03/11: combi de 6-8 partidos con 1-2 cosas de cada uno. Si no cabe en Threads, se quita el último partido."""
     import math
@@ -320,9 +335,12 @@ def texto_multi(sel, cuota, nombre):
         aprox = any(p.get("estimada") for p in lista)
         lineas = [f"🔥⚽ COMBILOCAS — ¡COMBI DE {len(partidos)} PARTIDOS x{num(cuota)}! 🍀", ""]
         for l in partidos.values():
-            lineas += [f"{bandera_pick(p)} {p['texto']}" for p in l]
-        lineas += ["", "⚽ 1 o 2 cosas de cada partido, de las que más salen ✅" + (" (cuota aprox.)" if aprox else ""),
-                   "", "💚 Más picks GRATIS en @combilocas"]
+            lineas += [f"{bandera_pick(p)} {con_equipo(p)}" for p in l]
+        # 05/11 (Marcos): que no diga «1 o 2 cosas» si casi todo es una por partido
+        dobles = sum(len(l) > 1 for l in partidos.values())
+        frase = ("⚽ 1 o 2 cosas de cada partido, de las que más salen ✅" if dobles * 2 >= len(partidos)
+                 else "⚽ Lo que más sale de cada partido ✅")
+        lineas += ["", frase + (" (cuota aprox.)" if aprox else ""), "", CIERRE_TELEGRAM]
         texto = "\n".join(lineas)
         if len(texto) <= 495 or len(partidos) <= 5:
             return texto, lista
@@ -347,8 +365,8 @@ def texto_lista_europa(sel, i, n):
         return t
     while True:
         lineas = [f"🏆⚽ {titulo} · {len(sel)} PICKS PARA HOY 🍀" + (f" ({i}/{n})" if n > 1 else ""), ""]
-        lineas += [f"{bandera_pick(p)} {corto_pick(p['texto'])}" for p in sel]
-        lineas += ["", "👉 ¡Coge los que más te gusten! ✅", "", "💚 Más picks GRATIS en @combilocas"]
+        lineas += [f"{bandera_pick(p)} {corto_pick(con_equipo(p))}" for p in sel]
+        lineas += ["", "👉 ¡Coge los que más te gusten! ✅", "", CIERRE_TELEGRAM]
         texto = "\n".join(lineas)
         if len(texto) <= 495 or len(sel) <= 10:
             return texto, sel
@@ -527,14 +545,14 @@ def posts_del_dia(dia, d):
         hp, mp = (int(x) for x in ajustes()["hora_picks"].split(":"))
         posts.append(("picks-manana", (f - timedelta(days=1)).replace(hour=hp, minute=mp), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA MAÑANA! 🍀\n\n{lista(sel)}\n\n"
-                      f"{combinar(sel)}\n\n💚 Más picks GRATIS en @combilocas"))
+                      f"{combinar(sel)}\n\n{CIERRE_TELEGRAM}"))
     tarde = [p for p in mejores_para_lista(libres(d.get("picks") or [])) if p["fecha"][11:] >= "18:30"]
     if len(tarde) >= MIN_LISTA and not FORMATO_27:
         sel = sorted(tarde[:7], key=lambda p: p.get("fecha", ""))   # 02/11: en orden de hora
         apuntar(sel)
         posts.append(("picks-hoy", f.replace(hour=17, minute=30), sel,
                       f"🔥⚽ COMBILOCAS — ¡{len(sel)} PICKS PARA HOY! 🍀\n\n{lista(sel)}\n\n"
-                      f"{combinar(sel)}\n\n💚 Más picks GRATIS en @combilocas"))
+                      f"{combinar(sel)}\n\n{CIERRE_TELEGRAM}"))
 
     # 26/10: el bot elige con datos cuáles de los estilos opcionales salen cada día (los 2 que mejor van
     # en vistas de Threads y en verdes, ver aprender.py → datos/estilos.json); el resto sale siempre
