@@ -754,7 +754,8 @@
  "2026-11-05-combi-loca": {
   "redes": {
    "instagram_reel": null,
-   "threads": "17883191325629356"
+   "threads": "17883191325629356",
+   "threads_enlace": "18419141359093421"
   },
   "errores_redes": {
    "instagram": "No module named 'playwright'"
