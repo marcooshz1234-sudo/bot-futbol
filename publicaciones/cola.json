@@ -3304,6 +3304,24 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-05-combi-partido-1636229"
+    "verde_de": "2026-11-05-combi-partido-1636229",
+    "enviado": "2026-11-05T23:14",
+    "mensaje_id": 311,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17874292005645587",
+      "instagram": "17985067460901386",
+      "instagram_story": "17882015280631945"
+    }
+  },
+  {
+    "id": "2026-11-05-balance-auto",
+    "fecha": "2026-11-05T23:16",
+    "texto": "📊 BALANCE DEL JUEVES · 47 DE 72 PICKS EN VERDE 🍀\n\n🎯 65 % de acierto\n✅ 47 acertados · ❌ 25 fallados\n\n🔥 Lo mejor: tarjetas 3/3 · faltas 2/2\n⚽ Ganadores: 16/24\n😤 Lo peor: tiros 6/13\n\n🔔 Mañana más picks: activad las notificaciones 👀\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
