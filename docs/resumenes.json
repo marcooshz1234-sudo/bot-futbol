@@ -1053,11 +1053,11 @@
     "total": 16,
     "cuentas": {
       "verde": 2,
-      "rojo": 12,
+      "rojo": 14,
       "pendiente": 0,
-      "sin_datos": 2,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 0
     },
     "combis": [
       {
@@ -1147,21 +1147,21 @@
       {
         "id": "2026-11-05-estrella-1636223",
         "titulo": "🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 4.26
       },
       {
         "id": "2026-11-05-estrella-1636219",
         "titulo": "🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 4.9
       }
     ],
     "picks": {
-      "verde": 47,
-      "rojo": 25,
+      "verde": 57,
+      "rojo": 31,
       "total": 100
     },
-    "texto": "📊 BALANCE DEL JUEVES: 2 DE 14 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3)\n❌ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3)\n❌ ✅ COMBI LOCAS | CONFERENCE · 6,26\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,42\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,93\n❔ 🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠 · 4,26 · faltan datos\n❔ 🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠 · 4,90 · faltan datos\n\n✅ 2 acertadas · ❌ 12 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 2 DE 16 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3)\n❌ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3)\n❌ ✅ COMBI LOCAS | CONFERENCE · 6,26\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,42\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,93\n❌ 🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠 · 4,26\n❌ 🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠 · 4,90\n\n✅ 2 acertadas · ❌ 14 falladas · ⏳ 0 sin resolver"
   }
 }
