@@ -3242,5 +3242,27 @@
     "redes": {
       "threads": "18112736174225147"
     }
+  },
+  {
+    "id": "2026-11-05-ganadores-conference-bis",
+    "fecha": "2026-11-05T12:15",
+    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Win\n2. 🇷🇸 Estrella Roja - Win\n3. 🇵🇹 Braga - Win\n4. 🇭🇷 Hajduk Split - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n6. 🇩🇰 Copenhague - Win\n7. 🇫🇷 Mónaco - Win\n8. 🇬🇷 Panathinaikos - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1636383|Match Winner|Home",
+      "1636399|Match Winner|Home",
+      "1636376|Match Winner|Away",
+      "1636444|Match Winner|Away",
+      "1636416|Match Winner|Away",
+      "1636408|Match Winner|Home",
+      "1636456|Match Winner|Home",
+      "1636465|Match Winner|Home"
+    ],
+    "nota": "05/11 12:15: Marcos borró la de las 11:52 (ponía GANA); de nuevo con WIN"
   }
 ]
