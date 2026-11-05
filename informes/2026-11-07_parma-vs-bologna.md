@@ -1,10 +1,10 @@
 # Parma – Bologna
-**Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Stadio Ennio Tardini
+**Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **4.75**  ·  X **3.50**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.30**  ·  X2 **1.18**
@@ -187,41 +187,41 @@ _Sin bajas comunicadas por ahora._
 | O. El Azzouzi | M | 3 | 123 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 2 | 0,7 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,80 · visitante 1,35 · córners esperados 9,4._
+_Goles esperados: local 0,80 · visitante 1,33 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 53% | 51% | 1.80 | -8% |
+| 1X2: 2 | 49% | 53% | 51% | 1.80 | -8% |
 | 1X2: X | 28% | 27% | 28% | 3.50 | -3% |
-| 1X2: 1 | 22% | 20% | 21% | 4.75 | +0% |
+| 1X2: 1 | 22% | 20% | 21% | 4.75 | +1% |
 | Doble oportunidad: X2 | 78% | 80% | 79% | 1.18 | -7% |
 | Doble oportunidad: 12 | 72% | 72% | 72% | 1.30 | -6% |
-| Doble oportunidad: 1X | 50% | 48% | 49% | 1.95 | -4% |
-| Ambos marcan: No | 59% | 52% | 56% | 1.80 | +0% |
-| Ambos marcan: Sí | 41% | 48% | 44% | 1.95 | -13% |
-| Goles más/menos: Más de 1.5 | 63% | 70% | 67% | 1.36 | -9% |
-| Goles más/menos: Más de 2.5 | 36% | 45% | 41% | 2.10 | -14% |
-| Goles más/menos: Más de 3.5 | 17% | 24% | 20% | 4.00 | -18% |
-| Goles más/menos: Menos de 1.5 ✅ | 37% | 30% | 33% | 3.20 | +6% |
-| Goles más/menos: Menos de 2.5 | 64% | 55% | 59% | 1.73 | +2% |
-| Goles más/menos: Menos de 3.5 | 83% | 76% | 80% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 65% | 63% | 1.44 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 29% | 27% | 3.25 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 35% | 37% | 2.62 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 71% | 73% | 1.33 | -2% |
+| Doble oportunidad: 1X | 51% | 48% | 49% | 1.95 | -4% |
+| Ambos marcan: No | 60% | 52% | 56% | 1.80 | +0% |
+| Ambos marcan: Sí | 40% | 48% | 44% | 1.95 | -14% |
+| Goles más/menos: Más de 1.5 | 63% | 70% | 66% | 1.36 | -10% |
+| Goles más/menos: Más de 2.5 | 36% | 45% | 40% | 2.10 | -15% |
+| Goles más/menos: Más de 3.5 | 17% | 24% | 20% | 4.00 | -19% |
+| Goles más/menos: Menos de 1.5 ✅ | 37% | 30% | 34% | 3.20 | +7% |
+| Goles más/menos: Menos de 2.5 | 64% | 55% | 60% | 1.73 | +3% |
+| Goles más/menos: Menos de 3.5 | 83% | 76% | 80% | 1.25 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles del local: Más de 0.5 | 55% | 58% | 56% | 1.62 | -9% |
 | Goles del local: Más de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles del local: Menos de 0.5 | 45% | 42% | 44% | 2.20 | -4% |
 | Goles del local: Menos de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles del visitante: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles del visitante: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Goles del visitante: Más de 2.5 | 15% | 22% | 19% | 4.33 | -20% |
-| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
-| Goles del visitante: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del visitante: Menos de 2.5 | 85% | 78% | 81% | 1.20 | -2% |
+| Goles del visitante: Más de 1.5 | 38% | 46% | 42% | 2.00 | -15% |
+| Goles del visitante: Más de 2.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +4% |
+| Goles del visitante: Menos de 1.5 | 62% | 54% | 58% | 1.73 | -0% |
+| Goles del visitante: Menos de 2.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Córners más/menos: Más de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
 | Córners más/menos: Menos de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
-| 1X2 descanso: 2 | 34% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -4% |
+| 1X2 descanso: 2 | 34% | 37% | 36% | 2.50 | -11% |
+| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

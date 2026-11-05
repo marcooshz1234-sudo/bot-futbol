@@ -1,10 +1,10 @@
 # Anderlecht – Red Bull Salzburg
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Lotto Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:09_
 
 - **1X2:** 1 **1.95**  ·  X **3.75**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.80**
@@ -29,7 +29,7 @@ _Actualizadas: 04/11 20:01_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.92** · menos **1.88**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.40**  ·  2 **3.75**
@@ -203,13 +203,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 38% | 52% | 45% | 1.80 | -19% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 83% | 73% | 78% | 1.28 | -0% |
-| Ambos marcan: No | 46% | 39% | 42% | 2.38 | +1% |
-| Ambos marcan: Sí | 54% | 61% | 58% | 1.53 | -12% |
-| Goles más/menos: Más de 2.5 | 58% | 59% | 59% | 1.62 | -5% |
-| Goles más/menos: Más de 3.5 | 36% | 40% | 38% | 2.38 | -10% |
+| Ambos marcan: No | 45% | 39% | 42% | 2.38 | +1% |
+| Ambos marcan: Sí | 55% | 61% | 58% | 1.53 | -12% |
+| Goles más/menos: Más de 2.5 | 59% | 59% | 59% | 1.62 | -5% |
+| Goles más/menos: Más de 3.5 | 36% | 40% | 38% | 2.38 | -9% |
 | Goles más/menos: Más de 4.5 | 19% | 22% | 21% | 4.33 | -11% |
-| Goles más/menos: Menos de 2.5 | 42% | 41% | 41% | 2.30 | -5% |
-| Goles más/menos: Menos de 3.5 | 64% | 60% | 62% | 1.57 | -2% |
+| Goles más/menos: Menos de 2.5 | 41% | 41% | 41% | 2.30 | -5% |
+| Goles más/menos: Menos de 3.5 | 64% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
@@ -219,12 +219,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 34% | 28% | 31% | 3.40 | +5% |
 | Goles del local: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
 | Goles del local: Menos de 2.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 0.5 | 62% | 72% | 67% | 1.30 | -12% |
+| Goles del visitante: Más de 0.5 | 63% | 72% | 67% | 1.30 | -12% |
 | Goles del visitante: Más de 1.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles del visitante: Menos de 0.5 | 38% | 28% | 33% | 3.40 | +11% |
-| Goles del visitante: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +3% |
-| Córners más/menos: Más de 9.5 | 39% | 50% | 45% | 1.83 | -19% |
-| Córners más/menos: Menos de 9.5 | 61% | 50% | 55% | 1.83 | +2% |
+| Goles del visitante: Menos de 0.5 | 37% | 28% | 33% | 3.40 | +11% |
+| Goles del visitante: Menos de 1.5 | 74% | 62% | 68% | 1.50 | +2% |
+| Córners más/menos: Más de 9.5 | 39% | 49% | 44% | 1.92 | -15% |
+| Córners más/menos: Menos de 9.5 | 61% | 51% | 56% | 1.88 | +5% |
 | 1X2 descanso: 2 | 17% | 25% | 21% | 3.75 | -22% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -9% |
 | 1X2 descanso: 1 | 45% | 37% | 41% | 2.50 | +3% |

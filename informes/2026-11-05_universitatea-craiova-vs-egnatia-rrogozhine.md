@@ -1,10 +1,10 @@
 # Universitatea Craiova – Egnatia Rrogozhinë
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.45**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
@@ -176,38 +176,38 @@ _Sin precedentes recientes._
 | Jurguens Montenegro | F | 1 | 18 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,71 · visitante 1,34 · córners esperados 9,4._
+_Goles esperados: local 1,71 · visitante 1,35 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 14% | 22% | 6.50 | +45% |
-| 1X2: X | 24% | 21% | 22% | 4.50 | +0% |
+| 1X2: 2 | 30% | 14% | 22% | 6.50 | +46% |
+| 1X2: X | 24% | 21% | 22% | 4.50 | -0% |
 | 1X2: 1 | 46% | 65% | 55% | 1.45 | -20% |
-| Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +17% |
+| Doble oportunidad: X2 | 54% | 36% | 45% | 2.62 | +18% |
 | Doble oportunidad: 12 | 76% | 80% | 78% | 1.18 | -8% |
 | Doble oportunidad: 1X | 70% | 85% | 77% | 1.11 | -14% |
 | Ambos marcan: No | 39% | 50% | 45% | 1.83 | -18% |
 | Ambos marcan: Sí | 61% | 50% | 55% | 1.83 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -3% |
+| Goles más/menos: Más de 3.5 | 37% | 34% | 35% | 2.75 | -3% |
 | Goles más/menos: Menos de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles más/menos: Menos de 3.5 | 63% | 66% | 65% | 1.40 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 38% | 38% | 2.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 62% | 62% | 1.50 | -7% |
 | Goles del local: Más de 1.5 | 51% | 61% | 56% | 1.53 | -14% |
 | Goles del local: Más de 2.5 | 25% | 35% | 30% | 2.62 | -21% |
 | Goles del local: Menos de 1.5 | 49% | 39% | 44% | 2.38 | +5% |
 | Goles del local: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 0.5 | 74% | 56% | 65% | 1.67 | +8% |
-| Goles del visitante: Más de 1.5 | 39% | 22% | 30% | 4.33 | +31% |
+| Goles del visitante: Más de 1.5 | 39% | 22% | 30% | 4.33 | +32% |
 | Goles del visitante: Menos de 0.5 | 26% | 44% | 35% | 2.10 | -26% |
-| Goles del visitante: Menos de 1.5 | 61% | 78% | 70% | 1.20 | -16% |
+| Goles del visitante: Menos de 1.5 | 61% | 78% | 70% | 1.20 | -17% |
 | Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.02 | -8% |
 | Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.78 | -3% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -4% |

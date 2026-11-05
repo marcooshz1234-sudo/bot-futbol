@@ -1,10 +1,10 @@
 # NEC Nijmegen – Omonia Nicosia
 **Europa League** · League Stage - 4 · 05/11/2026 18:45 (hora España) · Stadion de Goffert
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:00_
+_Actualizadas: 05/11 02:09_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.00**
@@ -29,7 +29,7 @@ _Actualizadas: 04/11 20:00_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **4.33**
@@ -51,8 +51,9 @@ _Actualizadas: 04/11 20:00_
     - 3,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Home Team Total Cards:**
-    - 1,5: más **1.73** · menos **2.00**
+    - 1,5: más **2.00** · menos **1.73**
 - **Away Team Total Cards:**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.25** · menos **1.57**
 - **Home Player Shots On Target Total:** Mitchel Bakker - 1 **1.53**  ·  Mitchel Bakker - 2 **3.50**  ·  Mitchel Bakker - 3 **11.00**  ·  Bryan Linssen - 1 **1.33**  ·  Kaj Sierhuis - 1 **1.22**  ·  Clement Bischoff - 1 **1.40**  ·  Kevin Kers - 1 **1.36**  ·  Emre Mor - 1 **1.44**  ·  Willum Willumsson - 1 **1.44**  ·  Dusan Tadic - 1 **1.53**  ·  Noe Lebreton - 1 **1.53**  ·  Isak Hansen-Aaroen - 1 **1.62**  ·  Jamiro Monteiro - 1 **1.62**  ·  Adam Tahaui - 1 **1.83**  ·  Merijn van de Wiel - 1 **2.50**  ·  Bram Nuytinck - 1 **3.25**  ·  Darko Nejasmic - 1 **3.25**  ·  Deveron Fonville - 1 **3.40**  ·  Tobias Storm - 1 **3.40**  ·  Philippe Sandler - 1 **3.50**  ·  Tjaronn Chery - 2 **2.00**  ·  Bryan Linssen - 2 **2.50**  ·  Kaj Sierhuis - 2 **2.00**  ·  Clement Bischoff - 2 **2.75**  ·  Kevin Kers - 2 **2.62**  ·  Emre Mor - 2 **3.25**  ·  Willum Willumsson - 2 **3.25**  ·  Dusan Tadic - 2 **3.50**  ·  Noe Lebreton - 2 **3.50**  ·  Isak Hansen-Aaroen - 2 **4.00**  ·  Jamiro Monteiro - 2 **4.00**  ·  Adam Tahaui - 2 **5.50**  ·  Merijn van de Wiel - 2 **10.00**  ·  Bram Nuytinck - 2 **15.00**  ·  Darko Nejasmic - 2 **17.00**  ·  Deveron Fonville - 2 **17.00**  ·  Tobias Storm - 2 **17.00**  ·  Philippe Sandler - 2 **19.00**  ·  Tjaronn Chery - 3 **4.00**  ·  Bryan Linssen - 3 **6.00**  ·  Kaj Sierhuis - 3 **4.33**  ·  Clement Bischoff - 3 **8.00**  ·  Kevin Kers - 3 **7.00**  ·  Emre Mor - 3 **9.00**  ·  Willum Willumsson - 3 **9.00**  ·  Dusan Tadic - 3 **11.00**  ·  Noe Lebreton - 3 **11.00**  ·  Isak Hansen-Aaroen - 3 **13.00**  ·  Jamiro Monteiro - 3 **13.00**  ·  Adam Tahaui - 3 **19.00**  ·  Tjaronn Chery - 4 **11.00**  ·  Bryan Linssen - 4 **17.00**  ·  Kaj Sierhuis - 4 **11.00**  ·  Clement Bischoff - 4 **21.00**  ·  Kevin Kers - 4 **19.00**  ·  Emre Mor - 4 **21.00**  ·  Willum Willumsson - 4 **21.00**  ·  Tjaronn Chery - 5 **21.00**  ·  Kaj Sierhuis - 5 **21.00**  ·  Tjaronn Chery - 1 **1.22**  ·  Ahmetcan Kaplan - 1 **3.00**  ·  Ahmetcan Kaplan - 2 **13.00**  ·  Almugera Kabar - 1 **3.25**  ·  Gabriel Bras - 1 **3.40**  ·  Almugera Kabar - 2 **17.00**  ·  Gabriel Bras - 2 **17.00**  ·  Perr Schuurs - 1 **2.50**  ·  Perr Schuurs - 2 **10.00**  ·  Ayodele Thomas - 1 **1.62**  ·  Dennis Geiger - 1 **2.50**  ·  Ayodele Thomas - 2 **4.00**  ·  Dennis Geiger - 2 **10.00**  ·  Ayodele Thomas - 3 **13.00**  ·  Yassin Moslih - 1 **3.00**  ·  Yassin Moslih - 2 **13.00**
 - **Away Player Shots On Target Total:** Kaj Sierhuis **4.00**  ·  Chrysis Evangelou **41.00**  ·  Jure Balkovec **51.00**  ·  Willum Willumsson **15.00**  ·  Lubomir Satka **21.00**  ·  Clement Bischoff **17.00**  ·  Loic Nego **81.00**  ·  Andronikos Kakoullis **19.00**  ·  Christos Konstantinidis **19.00**  ·  Konstantinos Panagi **26.00**  ·  Andreas Christou **51.00**  ·  Yassin Moslih **10.00**  ·  Darko Nejasmic **13.00**  ·  Noe Lebreton **7.00**  ·  Deveron Fonville **12.00**  ·  Merijn van de Wiel **7.00**  ·  Bryan Linssen **4.00**  ·  Jean-Kevin Duverne **23.00**  ·  Lois Diony **17.00**  ·  Tjaronn Chery **4.50**  ·  Carel Eiting **51.00**  ·  Luuk Brouwers **17.00**  ·  Philippe Sandler **19.00**  ·  Bram Nuytinck **13.00**  ·  Dusan Tadic **51.00**  ·  Ahmetcan Kaplan **10.00**  ·  Isak Hansen-Aaroen **17.00**  ·  Jamiro Monteiro **34.00**  ·  David Akintola **29.00**  ·  Ayodele Thomas **21.00**  ·  Moses Odubajo **21.00**  ·  Kevin Kers **12.00**  ·  Florin Tanase **29.00**  ·  Muamer Tankovic **51.00**  ·  Ewandro Costa **29.00**  ·  Angelos Neofytou **17.00**  ·  Mateusz Musialowski **29.00**  ·  Fotis Kitsos **51.00**  ·  Mateo Maric **34.00**  ·  Senou Coulibaly **17.00**  ·  Panagiotis Christoforou **17.00**  ·  Vladimiros Savva **29.00**  ·  Adam Tahaui **8.50**  ·  Gabriel Bras **12.00**  ·  Emre Mor **15.00**  ·  Panagiotis Andreou **51.00**  ·  Stefan Simic **21.00**  ·  Mihlali Mayambela **29.00**  ·  Jaden Montnor **29.00**  ·  Dennis Geiger **67.00**  ·  Perr Schuurs **10.00**  ·  Almugera Kabar **34.00**  ·  Tobias Storm **12.00**
@@ -190,26 +191,26 @@ _Sin precedentes recientes._
 | A. Neophytou | F | 6 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,24 · córners esperados 9,6._
+_Goles esperados: local 1,43 · visitante 1,25 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 33% | 24% | 28% | 4.00 | +13% |
-| 1X2: X | 26% | 22% | 24% | 4.20 | +2% |
+| 1X2: X | 26% | 22% | 24% | 4.20 | +1% |
 | 1X2: 1 | 41% | 54% | 48% | 1.75 | -17% |
-| Doble oportunidad: X2 | 59% | 47% | 53% | 2.00 | +5% |
+| Doble oportunidad: X2 | 59% | 47% | 53% | 2.00 | +6% |
 | Doble oportunidad: 12 | 74% | 77% | 75% | 1.22 | -8% |
 | Doble oportunidad: 1X | 67% | 77% | 72% | 1.22 | -12% |
-| Ambos marcan: No | 46% | 41% | 44% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
-| Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -14% |
-| Goles más/menos: Más de 3.5 | 28% | 40% | 34% | 2.38 | -20% |
+| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
+| Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
+| Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -13% |
+| Goles más/menos: Más de 3.5 | 28% | 40% | 34% | 2.38 | -19% |
 | Goles más/menos: Más de 4.5 | 13% | 22% | 18% | 4.33 | -24% |
 | Goles más/menos: Menos de 2.5 | 50% | 40% | 45% | 2.38 | +7% |
 | Goles más/menos: Menos de 3.5 | 72% | 60% | 66% | 1.57 | +4% |
-| Goles más/menos: Menos de 4.5 | 87% | 78% | 82% | 1.22 | +1% |
+| Goles más/menos: Menos de 4.5 | 87% | 78% | 82% | 1.22 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 41% | 37% | 2.25 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 27% | 29% | 3.50 | +1% |
@@ -222,8 +223,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -7% |
 | Goles del visitante: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -10% |
 | Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Córners más/menos: Más de 9.5 | 46% | 49% | 47% | 1.91 | -10% |
-| Córners más/menos: Menos de 9.5 | 54% | 51% | 53% | 1.80 | -5% |
+| Córners más/menos: Más de 9.5 | 46% | 47% | 46% | 2.00 | -7% |
+| Córners más/menos: Menos de 9.5 | 54% | 53% | 54% | 1.80 | -4% |
 | 1X2 descanso: 2 | 26% | 21% | 24% | 4.33 | +3% |
 | 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -0% |
 | 1X2 descanso: 1 | 31% | 41% | 36% | 2.25 | -18% |

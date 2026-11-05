@@ -1,10 +1,10 @@
 # Torino – Lecce
-**Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Stadio Olimpico di Torino
+**Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Stadio Olimpico Grande Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.75**  ·  X **3.60**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.30**  ·  X2 **2.00**
@@ -190,37 +190,37 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Kaba | M | 7 | 173 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 4 | 0,6 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,03 · córners esperados 9,2._
+_Goles esperados: local 1,63 · visitante 1,03 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 24% | 19% | 22% | 5.00 | +8% |
+| 1X2: 2 | 24% | 19% | 21% | 5.00 | +7% |
 | 1X2: X | 25% | 26% | 26% | 3.60 | -8% |
-| 1X2: 1 | 51% | 54% | 53% | 1.75 | -8% |
+| 1X2: 1 | 51% | 54% | 53% | 1.75 | -7% |
 | Doble oportunidad: X2 | 49% | 47% | 48% | 2.00 | -4% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 76% | 80% | 78% | 1.18 | -8% |
 | Ambos marcan: No | 48% | 48% | 48% | 1.95 | -6% |
 | Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 1.5 | 74% | 75% | 74% | 1.28 | -5% |
-| Goles más/menos: Más de 2.5 | 49% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Más de 3.5 | 27% | 30% | 29% | 3.20 | -8% |
+| Goles más/menos: Más de 2.5 | 50% | 50% | 50% | 1.91 | -5% |
+| Goles más/menos: Más de 3.5 | 28% | 30% | 29% | 3.20 | -8% |
 | Goles más/menos: Menos de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles más/menos: Menos de 2.5 | 51% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Menos de 3.5 | 73% | 70% | 71% | 1.36 | -3% |
+| Goles más/menos: Menos de 2.5 | 50% | 50% | 50% | 1.91 | -4% |
+| Goles más/menos: Menos de 3.5 | 72% | 70% | 71% | 1.36 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 69% | 69% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
-| Goles del local: Más de 2.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles del local: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
-| Goles del local: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles del local: Más de 1.5 | 49% | 51% | 50% | 1.80 | -10% |
+| Goles del local: Más de 2.5 | 23% | 25% | 24% | 3.75 | -11% |
+| Goles del local: Menos de 1.5 | 51% | 49% | 50% | 1.91 | -5% |
+| Goles del local: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Goles del visitante: Más de 1.5 | 28% | 27% | 27% | 3.50 | -5% |
-| Goles del visitante: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -9% |
-| Goles del visitante: Menos de 1.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Córners más/menos: Más de 8.5 | 51% | 56% | 54% | 1.67 | -11% |
+| Goles del visitante: Más de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles del visitante: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles del visitante: Menos de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Córners más/menos: Más de 8.5 | 51% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Menos de 8.5 | 49% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: X | 42% | 41% | 42% | 2.25 | -6% |
 | 1X2 descanso: 1 | 37% | 39% | 38% | 2.38 | -9% |

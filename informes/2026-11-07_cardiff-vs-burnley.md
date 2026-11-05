@@ -1,10 +1,10 @@
 # Cardiff – Burnley
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **2.25**  ·  X **3.60**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.62**
@@ -63,53 +63,53 @@ _Actualizadas: 04/11 20:02_
 ## Estadísticas de equipo
 | | Cardiff (total) | Cardiff en casa | Burnley (total) | Burnley fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 16 | 8 |
-| Forma (últimos 5) | DVEVD | VVVEE | EEDDE | EDVDE |
-| Balance | 4V 5E 6D | 4V 3E 1D | 1V 9E 6D | 1V 3E 4D |
-| Goles a favor / partido | 1,53 | 2,12 | 1,19 | 1,25 |
-| Goles en contra / partido | 1,60 | 1,25 | 1,69 | 2,00 |
-| Goles a favor 1ª parte | 1,00 | 1,38 | 0,69 | 1,00 |
-| Goles a favor 2ª parte | 0,53 | 0,75 | 0,50 | 0,25 |
-| Goles en contra 1ª parte | 0,93 | 0,88 | 0,69 | 0,88 |
-| Goles en contra 2ª parte | 0,67 | 0,38 | 1,00 | 1,12 |
-| Más de 1,5 goles | 87% | 88% | 88% | 88% |
-| Más de 2,5 goles | 67% | 62% | 56% | 62% |
-| Más de 3,5 goles | 40% | 50% | 44% | 62% |
-| Ambos marcan | 73% | 88% | 81% | 75% |
-| Portería a cero | 7% | 12% | 19% | 25% |
-| Se queda sin marcar | 20% | 0% | 12% | 12% |
-| xG a favor | 1,81 | 2,46 | 1,32 | 1,52 |
-| xG en contra | 1,55 | 1,18 | 1,57 | 1,72 |
-| Tiros / partido | 16,1 | 19,2 | 13,8 | 14,5 |
-| Tiros a puerta / partido | 5,8 | 6,1 | 4,0 | 4,5 |
-| Tiros recibidos | 14,0 | 10,9 | 14,0 | 16,2 |
-| Tiros a puerta recibidos | 4,9 | 3,5 | 4,7 | 5,8 |
-| Posesión media % | 61 | 63 | 51 | 50 |
-| Córners a favor | 6,5 | 6,9 | 5,1 | 5,4 |
-| Córners en contra | 4,6 | 3,4 | 4,6 | 4,2 |
+| Partidos analizados | 16 | 9 | 16 | 8 |
+| Forma (últimos 5) | EDVEV | EVVVE | EEDDE | EDVDE |
+| Balance | 4V 6E 6D | 4V 4E 1D | 1V 9E 6D | 1V 3E 4D |
+| Goles a favor / partido | 1,62 | 2,22 | 1,19 | 1,25 |
+| Goles en contra / partido | 1,69 | 1,44 | 1,69 | 2,00 |
+| Goles a favor 1ª parte | 1,12 | 1,56 | 0,69 | 1,00 |
+| Goles a favor 2ª parte | 0,50 | 0,67 | 0,50 | 0,25 |
+| Goles en contra 1ª parte | 0,88 | 0,78 | 0,69 | 0,88 |
+| Goles en contra 2ª parte | 0,81 | 0,67 | 1,00 | 1,12 |
+| Más de 1,5 goles | 88% | 89% | 88% | 88% |
+| Más de 2,5 goles | 69% | 67% | 56% | 62% |
+| Más de 3,5 goles | 44% | 56% | 44% | 62% |
+| Ambos marcan | 75% | 89% | 81% | 75% |
+| Portería a cero | 6% | 11% | 19% | 25% |
+| Se queda sin marcar | 19% | 0% | 12% | 12% |
+| xG a favor | 1,77 | 2,27 | 1,32 | 1,52 |
+| xG en contra | 1,63 | 1,39 | 1,57 | 1,72 |
+| Tiros / partido | 15,6 | 17,9 | 13,8 | 14,5 |
+| Tiros a puerta / partido | 5,7 | 5,9 | 4,0 | 4,5 |
+| Tiros recibidos | 14,2 | 11,7 | 14,0 | 16,2 |
+| Tiros a puerta recibidos | 5,2 | 4,2 | 4,7 | 5,8 |
+| Posesión media % | 60 | 61 | 51 | 50 |
+| Córners a favor | 6,4 | 6,6 | 5,1 | 5,4 |
+| Córners en contra | 4,7 | 3,7 | 4,6 | 4,2 |
 | Córners a favor 1ª parte | 2,9 | 3,2 | 2,4 | 2,6 |
-| Córners a favor 2ª parte | 3,7 | 3,6 | 2,6 | 2,8 |
+| Córners a favor 2ª parte | 3,5 | 3,3 | 2,6 | 2,8 |
 | Córners totales del partido | 11,1 | 10,2 | 9,6 | 9,6 |
-| Córners totales 1ª parte | 4,9 | 5,1 | 4,3 | 4,1 |
-| Córners totales 2ª parte | 6,2 | 5,1 | 5,3 | 5,5 |
-| Más de 8,5 córners | 60% | 50% | 56% | 50% |
-| Más de 9,5 córners | 53% | 38% | 31% | 12% |
-| Más de 10,5 córners | 53% | 38% | 25% | 12% |
-| Faltas cometidas | 9,9 | 9,8 | 9,8 | 9,4 |
-| Faltas recibidas | 14,1 | 15,0 | 9,5 | 8,9 |
-| Amarillas propias | 1,9 | 1,9 | 1,8 | 1,5 |
-| Amarillas del rival | 2,1 | 2,0 | 1,8 | 1,6 |
-| Rojas / partido | 0,07 | 0,00 | 0,06 | 0,12 |
+| Córners totales 1ª parte | 4,9 | 5,0 | 4,3 | 4,1 |
+| Córners totales 2ª parte | 6,2 | 5,2 | 5,3 | 5,5 |
+| Más de 8,5 córners | 62% | 56% | 56% | 50% |
+| Más de 9,5 córners | 56% | 44% | 31% | 12% |
+| Más de 10,5 córners | 50% | 33% | 25% | 12% |
+| Faltas cometidas | 9,9 | 9,7 | 9,8 | 9,4 |
+| Faltas recibidas | 13,9 | 14,6 | 9,5 | 8,9 |
+| Amarillas propias | 1,8 | 1,7 | 1,8 | 1,5 |
+| Amarillas del rival | 2,1 | 2,1 | 1,8 | 1,6 |
+| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Cardiff | Recibe Cardiff | Tarjetas Cardiff | Goles Burnley | Recibe Burnley | Tarjetas Burnley |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 6 | 2 | 2 | 4 | 1 |
+| 1-15' | 4 | 6 | 2 | 2 | 4 | 1 |
 | 16-30' | 4 | 5 | 4 | 5 | 3 | 3 |
-| 31-45' | 8 | 3 | 6 | 4 | 4 | 3 |
-| 46-60' | 1 | 5 | 5 | 5 | 5 | 2 |
-| 61-75' | 3 | 2 | 0 | 0 | 7 | 7 |
-| 76-90' | 4 | 3 | 13 | 3 | 4 | 12 |
+| 31-45' | 10 | 3 | 6 | 4 | 4 | 3 |
+| 46-60' | 1 | 6 | 5 | 5 | 5 | 2 |
+| 61-75' | 3 | 3 | 0 | 0 | 7 | 7 |
+| 76-90' | 4 | 4 | 13 | 3 | 4 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -127,33 +127,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Cardiff
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Championship | Cardiff 3-3 West Ham | casa | 4-6 | 7 (4) - 18 (10) | 0-3 |
 | 2026-10-31 | Championship | Wolves 3-0 Cardiff | fuera | 5-3 | 13 (9) - 13 (4) | 2-4 |
 | 2026-10-24 | Championship | Cardiff 1-0 Birmingham | casa | 3-3 | 16 (4) - 7 (2) | 1-2 |
 | 2026-10-17 | Championship | Middlesbrough 2-2 Cardiff | fuera | 4-11 | 7 (3) - 36 (12) | 2-0 |
 | 2026-10-13 | Championship | Cardiff 5-1 Watford | casa | 6-1 | 22 (10) - 14 (4) | 1-4 |
 | 2026-10-10 | Championship | Blackburn 2-1 Cardiff | fuera | 6-11 | 10 (1) - 17 (8) | 0-1 |
-| 2026-09-19 | Championship | Cardiff 3-1 Charlton | casa | 6-1 | 27 (8) - 6 (3) | 5-3 |
 
 ## Jugadores de Cardiff
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Trott | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,3 | 0 | 0 |
-| J. Bagan | D | 15 | 1329 | 0 | 0 | 4 | 0,3 | 2 | 0,1 | 13 | 6 | 0,4 | 4 | 0 |
-| A. Robertson | M | 15 | 1320 | 0 | 0 | 8 | 0,5 | 4 | 0,3 | 9 | 21 | 1,4 | 4 | 0 |
-| P. Ng | D | 14 | 1260 | 1 | 1 | 10 | 0,7 | 3 | 0,2 | 17 | 31 | 2,2 | 5 | 0 |
-| J. Moylan | M | 15 | 1145 | 7 | 3 | 34 | 2,3 | 17 | 1,1 | 9 | 24 | 1,6 | 2 | 0 |
-| O. Tanner | M | 14 | 1106 | 2 | 4 | 25 | 1,8 | 10 | 0,7 | 14 | 6 | 0,4 | 3 | 0 |
-| Y. Salech | F | 12 | 993 | 6 | 2 | 36 | 3,0 | 20 | 1,7 | 15 | 5 | 0,4 | 1 | 0 |
+| N. Trott | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 0 | 0 |
+| J. Bagan | D | 16 | 1419 | 0 | 1 | 4 | 0,2 | 2 | 0,1 | 13 | 7 | 0,4 | 4 | 0 |
+| A. Robertson | M | 16 | 1410 | 0 | 1 | 8 | 0,5 | 4 | 0,2 | 9 | 22 | 1,4 | 4 | 0 |
+| P. Ng | D | 15 | 1332 | 1 | 1 | 11 | 0,7 | 3 | 0,2 | 17 | 31 | 2,1 | 5 | 0 |
+| J. Moylan | M | 16 | 1235 | 10 | 3 | 37 | 2,3 | 20 | 1,2 | 12 | 28 | 1,8 | 2 | 0 |
+| O. Tanner | M | 15 | 1196 | 2 | 4 | 26 | 1,7 | 10 | 0,7 | 14 | 6 | 0,4 | 3 | 0 |
+| Y. Salech | F | 13 | 1083 | 6 | 2 | 37 | 2,8 | 21 | 1,6 | 16 | 6 | 0,5 | 1 | 0 |
 | G. Osho | D | 11 | 975 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 5 | 7 | 0,6 | 0 | 1 |
-| J. Colwill | M | 15 | 839 | 1 | 0 | 14 | 0,9 | 4 | 0,3 | 21 | 40 | 2,7 | 3 | 0 |
-| C. Willock | M | 15 | 805 | 0 | 1 | 7 | 0,5 | 4 | 0,3 | 3 | 13 | 0,9 | 0 | 0 |
-| Cian Ashford | F | 15 | 801 | 2 | 3 | 15 | 1,0 | 9 | 0,6 | 3 | 11 | 0,7 | 1 | 0 |
+| J. Colwill | M | 16 | 874 | 1 | 0 | 14 | 0,9 | 4 | 0,2 | 21 | 40 | 2,5 | 3 | 0 |
+| C. Willock | M | 16 | 861 | 0 | 1 | 7 | 0,4 | 4 | 0,2 | 3 | 13 | 0,8 | 0 | 0 |
+| Cian Ashford | F | 16 | 835 | 2 | 3 | 15 | 0,9 | 9 | 0,6 | 3 | 11 | 0,7 | 1 | 0 |
 | K. Bielik | D | 7 | 583 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 6 | 7 | 1,0 | 1 | 0 |
-| C. Scanlon | D | 12 | 414 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 8 | 0,7 | 0 | 0 |
-| R. Kpakio | D | 9 | 406 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 6 | 6 | 0,7 | 0 | 0 |
-| D. Turnbull | M | 11 | 384 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 6 | 3 | 0,3 | 0 | 0 |
-| R. Colwill | M | 7 | 359 | 1 | 1 | 4 | 0,6 | 3 | 0,4 | 10 | 7 | 1,0 | 3 | 0 |
-| W. Fish | D | 4 | 250 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| C. Scanlon | D | 13 | 486 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 8 | 0,6 | 0 | 0 |
+| R. Kpakio | D | 10 | 424 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 7 | 6 | 0,6 | 0 | 0 |
+| R. Colwill | M | 8 | 414 | 1 | 1 | 4 | 0,5 | 3 | 0,4 | 11 | 9 | 1,1 | 3 | 0 |
+| D. Turnbull | M | 12 | 402 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 6 | 4 | 0,3 | 0 | 0 |
+| W. Fish | D | 5 | 340 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
 | I. Davies | F | 10 | 203 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 4 | 2 | 0,2 | 1 | 0 |
 | Callum Robinson | F | 7 | 182 | 2 | 0 | 5 | 0,7 | 4 | 0,6 | 0 | 2 | 0,3 | 0 | 0 |
 | Dylan Lawlor | D | 3 | 115 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 0 | 0,0 | 0 | 0 |
@@ -193,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | A. Hountondji | M | 9 | 362 | 1 | 0 | 10 | 1,1 | 5 | 0,6 | 2 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,99 · visitante 1,37 · córners esperados 9,9._
+_Goles esperados: local 2,00 · visitante 1,38 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -205,32 +205,32 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 48% | 58% | 53% | 1.62 | -14% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 74% | 68% | 71% | 1.40 | -1% |
-| Ambos marcan: No | 36% | 39% | 37% | 2.38 | -11% |
-| Ambos marcan: Sí | 64% | 61% | 63% | 1.53 | -4% |
+| Ambos marcan: No | 35% | 39% | 37% | 2.38 | -11% |
+| Ambos marcan: Sí | 65% | 61% | 63% | 1.53 | -4% |
 | Goles más/menos: Más de 1.5 | 85% | 79% | 82% | 1.20 | -2% |
-| Goles más/menos: Más de 2.5 | 65% | 59% | 62% | 1.62 | +0% |
-| Goles más/menos: Más de 3.5 | 43% | 36% | 40% | 2.62 | +4% |
-| Goles más/menos: Más de 4.5 | 25% | 21% | 23% | 4.50 | +3% |
+| Goles más/menos: Más de 2.5 | 66% | 59% | 62% | 1.62 | +1% |
+| Goles más/menos: Más de 3.5 | 44% | 36% | 40% | 2.62 | +5% |
+| Goles más/menos: Más de 4.5 | 25% | 21% | 23% | 4.50 | +4% |
 | Goles más/menos: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -19% |
-| Goles más/menos: Menos de 2.5 | 35% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Menos de 3.5 | 57% | 64% | 60% | 1.50 | -10% |
+| Goles más/menos: Menos de 2.5 | 34% | 41% | 38% | 2.30 | -13% |
+| Goles más/menos: Menos de 3.5 | 56% | 64% | 60% | 1.50 | -10% |
 | Goles más/menos: Menos de 4.5 | 75% | 79% | 77% | 1.20 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 39% | 41% | 2.38 | -2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
-| Goles del local: Más de 0.5 | 86% | 78% | 82% | 1.20 | -1% |
+| Goles del local: Más de 0.5 | 87% | 78% | 82% | 1.20 | -1% |
 | Goles del local: Más de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del local: Más de 2.5 | 32% | 23% | 28% | 4.00 | +11% |
-| Goles del local: Menos de 0.5 | 14% | 22% | 18% | 4.33 | -24% |
+| Goles del local: Más de 2.5 | 32% | 23% | 28% | 4.00 | +12% |
+| Goles del local: Menos de 0.5 | 13% | 22% | 18% | 4.33 | -24% |
 | Goles del local: Menos de 1.5 | 41% | 51% | 46% | 1.80 | -17% |
 | Goles del local: Menos de 2.5 | 68% | 77% | 72% | 1.22 | -12% |
-| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -7% |
-| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -10% |
-| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -5% |
+| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
+| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Córners más/menos: Más de 9.5 | 49% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 9.5 | 51% | 46% | 49% | 2.00 | -2% |
+| Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
+| Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -2% |
 | 1X2 descanso: 2 | 24% | 29% | 26% | 3.25 | -15% |
 | 1X2 descanso: X | 37% | 39% | 38% | 2.38 | -10% |
 | 1X2 descanso: 1 | 40% | 32% | 36% | 2.88 | +4% |

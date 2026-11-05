@@ -3914,8 +3914,8 @@
      "667": [],
      "608": []
     },
-    "prob_aprendida": 0.717,
-    "prob_sin_calibrar": 0.6232103107792937
+    "prob_aprendida": 0.755,
+    "prob_sin_calibrar": 0.6565093195158693
    },
    {
     "partido_id": 1636465,
@@ -3939,8 +3939,8 @@
      "617": [],
      "853": []
     },
-    "prob_aprendida": 0.712,
-    "prob_sin_calibrar": 0.6192242047131099
+    "prob_aprendida": 0.745,
+    "prob_sin_calibrar": 0.6478620940689367
    }
   ],
   "hora": null,

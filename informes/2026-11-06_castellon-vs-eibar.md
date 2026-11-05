@@ -1,10 +1,10 @@
 # Castellón – Eibar
 **Segunda División** · Regular Season - 13 · 06/11/2026 20:30 (hora España) · Estadio Municipal Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.62**  ·  X **4.00**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -185,13 +185,13 @@ _Sin bajas comunicadas por ahora._
 | Sergio Álvarez | M | 2 | 106 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 0,95 · córners esperados 9,6._
+_Goles esperados: local 1,76 · visitante 0,96 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 18% | 19% | 5.25 | +0% |
+| 1X2: 2 | 20% | 18% | 19% | 5.25 | +1% |
 | 1X2: X | 23% | 24% | 24% | 4.00 | -6% |
 | 1X2: 1 | 56% | 58% | 57% | 1.62 | -7% |
 | Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -3% |
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 51% | 59% | 55% | 1.60 | -12% |
 | Goles más/menos: Más de 3.5 | 29% | 38% | 33% | 2.50 | -17% |
 | Goles más/menos: Más de 4.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles más/menos: Menos de 2.5 | 49% | 41% | 45% | 2.30 | +4% |
+| Goles más/menos: Menos de 2.5 | 49% | 41% | 45% | 2.30 | +3% |
 | Goles más/menos: Menos de 3.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Goles más/menos: Menos de 4.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 73% | 71% | 1.28 | -9% |
@@ -213,13 +213,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 26% | 34% | 30% | 2.75 | -18% |
 | Goles del local: Menos de 1.5 | 47% | 41% | 44% | 2.25 | -0% |
 | Goles del local: Menos de 2.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del visitante: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Goles del visitante: Más de 0.5 | 62% | 66% | 64% | 1.40 | -11% |
 | Goles del visitante: Más de 1.5 | 25% | 31% | 28% | 3.00 | -16% |
-| Goles del visitante: Menos de 0.5 | 39% | 34% | 36% | 2.75 | -1% |
+| Goles del visitante: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del visitante: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -4% |
 | 1X2 descanso: X | 41% | 38% | 39% | 2.50 | -2% |
-| 1X2 descanso: 1 | 41% | 43% | 42% | 2.20 | -8% |
+| 1X2 descanso: 1 | 40% | 43% | 42% | 2.20 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

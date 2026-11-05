@@ -1,10 +1,10 @@
 # Atalanta – Kairat Almaty
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:09_
 
 - **1X2:** 1 **1.17**  ·  X **7.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.00**
@@ -14,7 +14,7 @@ _Actualizadas: 04/11 20:01_
     - 2,5: más **1.40** · menos **2.88**
     - 3,5: más **1.91** · menos **1.80**
     - 4,5: más **3.25** · menos **1.33**
-    - 5,5: más **6.00** · menos **1.12**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
@@ -183,45 +183,45 @@ _Sin precedentes recientes._
 | A. Sadybekov | M | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,94 · visitante 0,58 · córners esperados 9,2._
+_Goles esperados: local 1,97 · visitante 0,58 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 6% | 8% | 15.00 | +24% |
-| 1X2: X | 20% | 13% | 17% | 7.00 | +17% |
+| 1X2: 2 | 10% | 6% | 8% | 15.00 | +21% |
+| 1X2: X | 20% | 13% | 17% | 7.00 | +16% |
 | 1X2: 1 | 70% | 80% | 75% | 1.17 | -12% |
-| Doble oportunidad: X2 | 30% | 19% | 25% | 5.00 | +24% |
+| Doble oportunidad: X2 | 30% | 19% | 24% | 5.00 | +22% |
 | Doble oportunidad: 12 | 80% | 87% | 84% | 1.10 | -8% |
 | Doble oportunidad: 1X | 90% | 93% | 92% | 1.03 | -6% |
 | Ambos marcan: No | 62% | 54% | 58% | 1.73 | +0% |
 | Ambos marcan: Sí | 38% | 46% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 2.5 | 46% | 67% | 57% | 1.40 | -21% |
-| Goles más/menos: Más de 3.5 | 25% | 49% | 37% | 1.91 | -30% |
-| Goles más/menos: Más de 4.5 | 11% | 29% | 20% | 3.25 | -35% |
-| Goles más/menos: Menos de 2.5 | 54% | 33% | 43% | 2.88 | +25% |
+| Goles más/menos: Más de 2.5 | 47% | 67% | 57% | 1.40 | -20% |
+| Goles más/menos: Más de 3.5 | 25% | 49% | 37% | 1.91 | -29% |
+| Goles más/menos: Más de 4.5 | 12% | 29% | 20% | 3.25 | -34% |
+| Goles más/menos: Menos de 2.5 | 53% | 33% | 43% | 2.88 | +24% |
 | Goles más/menos: Menos de 3.5 | 75% | 51% | 63% | 1.80 | +14% |
-| Goles más/menos: Menos de 4.5 | 89% | 71% | 80% | 1.33 | +6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 78% | 72% | 1.20 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 49% | 39% | 1.91 | -25% |
+| Goles más/menos: Menos de 4.5 | 88% | 71% | 80% | 1.33 | +6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 78% | 73% | 1.20 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 49% | 40% | 1.91 | -25% |
 | Goles 1ª parte más/menos: Más de 2.5 | 10% | 23% | 17% | 4.00 | -33% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 22% | 28% | 4.33 | +19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 51% | 61% | 1.80 | +9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 22% | 27% | 4.33 | +18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 51% | 60% | 1.80 | +9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 90% | 77% | 83% | 1.22 | +2% |
-| Goles del local: Más de 1.5 | 58% | 77% | 67% | 1.22 | -18% |
-| Goles del local: Más de 2.5 | 31% | 54% | 42% | 1.73 | -27% |
-| Goles del local: Más de 3.5 | 13% | 34% | 23% | 2.75 | -36% |
-| Goles del local: Menos de 1.5 | 42% | 23% | 33% | 4.00 | +32% |
-| Goles del local: Menos de 2.5 | 69% | 46% | 58% | 2.00 | +16% |
-| Goles del local: Menos de 3.5 | 87% | 66% | 77% | 1.40 | +7% |
+| Goles del local: Más de 1.5 | 59% | 77% | 68% | 1.22 | -17% |
+| Goles del local: Más de 2.5 | 32% | 54% | 43% | 1.73 | -26% |
+| Goles del local: Más de 3.5 | 14% | 34% | 24% | 2.75 | -35% |
+| Goles del local: Menos de 1.5 | 41% | 23% | 32% | 4.00 | +29% |
+| Goles del local: Menos de 2.5 | 68% | 46% | 57% | 2.00 | +15% |
+| Goles del local: Menos de 3.5 | 86% | 66% | 76% | 1.40 | +7% |
 | Goles del visitante: Más de 0.5 | 44% | 49% | 46% | 1.91 | -12% |
 | Goles del visitante: Menos de 0.5 | 56% | 51% | 54% | 1.80 | -3% |
 | Córners más/menos: Más de 8.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Córners más/menos: Más de 9.5 | 43% | 44% | 44% | 2.10 | -9% |
 | Córners más/menos: Menos de 8.5 | 48% | 44% | 46% | 2.10 | -3% |
 | Córners más/menos: Menos de 9.5 | 57% | 56% | 56% | 1.67 | -6% |
-| 1X2 descanso: X | 41% | 30% | 35% | 3.10 | +10% |
-| 1X2 descanso: 1 | 48% | 62% | 55% | 1.50 | -17% |
+| 1X2 descanso: X | 40% | 30% | 35% | 3.10 | +9% |
+| 1X2 descanso: 1 | 49% | 62% | 55% | 1.50 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

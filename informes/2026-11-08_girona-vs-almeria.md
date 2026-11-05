@@ -1,7 +1,7 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,15 · córners esperados 9,2._
+_Goles esperados: local 1,35 · visitante 1,16 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -220,9 +220,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +5% |
 | Goles del local: Menos de 1.5 | 61% | 50% | 55% | 1.83 | +2% |
 | Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | -0% |
-| Goles del visitante: Más de 0.5 | 68% | 69% | 69% | 1.36 | -7% |
-| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del visitante: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -7% |
+| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
 | Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
 | Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -9% |
 | Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |

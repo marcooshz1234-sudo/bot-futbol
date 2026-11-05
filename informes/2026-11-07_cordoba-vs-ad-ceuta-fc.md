@@ -1,10 +1,10 @@
 # Cordoba – AD Ceuta FC
-**Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España)
+**Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Estadio Nuevo Arcángel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **1.55**  ·  X **4.20**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.38**
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | O. Sadik | F | 7 | 294 | 0 | 0 | 10 | 1,4 | 4 | 0,6 | 3 | 6 | 0,9 | 2 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,47 · visitante 1,47 · córners esperados 9,3._
+_Goles esperados: local 2,47 · visitante 1,48 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,7 +201,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 41% | 40% | 40% | 2.38 | -4% |
 | Doble oportunidad: 12 | 81% | 78% | 80% | 1.22 | -3% |
 | Doble oportunidad: 1X | 78% | 82% | 80% | 1.17 | -7% |
-| Ambos marcan: No | 29% | 39% | 34% | 2.38 | -18% |
+| Ambos marcan: No | 29% | 39% | 34% | 2.38 | -19% |
 | Ambos marcan: Sí | 71% | 61% | 66% | 1.53 | +1% |
 | Goles más/menos: Más de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Goles más/menos: Más de 3.5 | 56% | 44% | 50% | 2.10 | +5% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
 | Goles 1ª parte más/menos: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
 | Goles del local: Más de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
@@ -222,9 +222,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 55% | 59% | 57% | 1.57 | -11% |
 | Goles del local: Menos de 3.5 | 76% | 79% | 78% | 1.18 | -8% |
 | Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Goles del visitante: Más de 1.5 | 43% | 34% | 38% | 2.75 | +6% |
+| Goles del visitante: Más de 1.5 | 43% | 34% | 39% | 2.75 | +6% |
 | Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
+| Goles del visitante: Menos de 1.5 | 57% | 66% | 61% | 1.40 | -14% |
 | Córners más/menos: Más de 10.5 | 35% | 47% | 41% | 2.00 | -17% |
 | Córners más/menos: Menos de 10.5 | 65% | 53% | 59% | 1.80 | +6% |
 | 1X2 descanso: X | 33% | 35% | 34% | 2.62 | -11% |

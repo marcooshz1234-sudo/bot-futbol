@@ -1,7 +1,7 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -186,13 +186,13 @@ _Sin bajas comunicadas por ahora._
 | M. Lachuer | M | 7 | 221 | 0 | 0 | 5 | 0,7 | 3 | 0,4 | 6 | 4 | 0,6 | 3 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,06 · córners esperados 9,0._
+_Goles esperados: local 1,34 · visitante 1,07 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 31% | 30% | 3.00 | -10% |
+| 1X2: 2 | 30% | 31% | 30% | 3.00 | -9% |
 | 1X2: X | 27% | 30% | 28% | 3.10 | -12% |
 | 1X2: 1 | 43% | 40% | 41% | 2.30 | -5% |
 | Doble oportunidad: X2 | 57% | 57% | 57% | 1.67 | -4% |
@@ -222,6 +222,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 60% | 56% | 58% | 1.67 | -4% |
 | 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -10% |
 | 1X2 descanso: X | 45% | 44% | 45% | 2.10 | -6% |
-| 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -6% |
+| 1X2 descanso: 1 | 31% | 31% | 31% | 3.00 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # FC Thun – Heart Of Midlothian
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Stockhorn Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -21,10 +21,10 @@ _Actualizadas: 04/11 20:01_
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
@@ -185,40 +185,40 @@ _Sin precedentes recientes._
 | Tom Renaud | M | 4 | 131 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,46 · visitante 1,29 · córners esperados 10,2._
+_Goles esperados: local 1,46 · visitante 1,30 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 31% | 32% | 3.00 | -3% |
+| 1X2: 2 | 34% | 31% | 32% | 3.00 | -3% |
 | 1X2: X | 25% | 26% | 26% | 3.60 | -7% |
 | 1X2: 1 | 41% | 43% | 42% | 2.20 | -8% |
-| Doble oportunidad: X2 | 59% | 57% | 58% | 1.67 | -4% |
+| Doble oportunidad: X2 | 59% | 57% | 58% | 1.67 | -3% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 67% | 70% | 68% | 1.36 | -7% |
-| Ambos marcan: No | 44% | 35% | 40% | 2.62 | +5% |
-| Ambos marcan: Sí | 56% | 65% | 60% | 1.44 | -14% |
-| Goles más/menos: Más de 2.5 | 52% | 61% | 56% | 1.53 | -14% |
-| Goles más/menos: Más de 3.5 | 30% | 42% | 36% | 2.20 | -21% |
-| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles más/menos: Menos de 2.5 | 48% | 39% | 44% | 2.40 | +5% |
-| Goles más/menos: Menos de 3.5 | 70% | 58% | 64% | 1.62 | +4% |
-| Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.25 | +0% |
+| Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
+| Ambos marcan: No | 44% | 35% | 40% | 2.62 | +4% |
+| Ambos marcan: Sí | 56% | 65% | 60% | 1.44 | -13% |
+| Goles más/menos: Más de 2.5 | 52% | 61% | 57% | 1.53 | -13% |
+| Goles más/menos: Más de 3.5 | 30% | 42% | 36% | 2.20 | -20% |
+| Goles más/menos: Más de 4.5 | 15% | 25% | 20% | 3.75 | -26% |
+| Goles más/menos: Menos de 2.5 | 48% | 39% | 43% | 2.40 | +4% |
+| Goles más/menos: Menos de 3.5 | 70% | 58% | 64% | 1.62 | +3% |
+| Goles más/menos: Menos de 4.5 | 85% | 75% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
-| Goles del local: Más de 1.5 | 43% | 54% | 48% | 1.73 | -17% |
-| Goles del local: Más de 2.5 | 18% | 27% | 22% | 3.50 | -22% |
-| Goles del local: Menos de 1.5 | 57% | 46% | 52% | 2.00 | +4% |
+| Goles del local: Más de 1.5 | 43% | 51% | 47% | 1.80 | -15% |
+| Goles del local: Más de 2.5 | 18% | 27% | 22% | 3.50 | -21% |
+| Goles del local: Menos de 1.5 | 57% | 49% | 53% | 1.91 | +1% |
 | Goles del local: Menos de 2.5 | 82% | 73% | 78% | 1.28 | -1% |
-| Goles del visitante: Más de 0.5 | 72% | 77% | 75% | 1.22 | -9% |
-| Goles del visitante: Más de 1.5 | 37% | 44% | 41% | 2.10 | -15% |
-| Goles del visitante: Más de 2.5 | 14% | 21% | 17% | 4.50 | -22% |
-| Goles del visitante: Menos de 0.5 | 28% | 23% | 25% | 4.00 | +2% |
+| Goles del visitante: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
+| Goles del visitante: Más de 1.5 | 37% | 44% | 41% | 2.10 | -14% |
+| Goles del visitante: Más de 2.5 | 14% | 21% | 18% | 4.50 | -21% |
+| Goles del visitante: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
 | Goles del visitante: Menos de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
-| Goles del visitante: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -3% |
+| Goles del visitante: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
 | Córners más/menos: Más de 9.5 | 51% | 54% | 52% | 1.73 | -9% |
 | Córners más/menos: Menos de 9.5 | 49% | 46% | 48% | 2.00 | -5% |
 | 1X2 descanso: 2 | 27% | 29% | 28% | 3.25 | -10% |

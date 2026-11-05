@@ -1,10 +1,10 @@
 # KuPS – Gent
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Tammelan Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **5.00**  ·  X **3.90**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.17**
@@ -184,7 +184,7 @@ _Sin precedentes recientes._
 | Kyrell Wilson | F | 2 | 35 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,46 · visitante 1,19 · córners esperados 10,0._
+_Goles esperados: local 0,46 · visitante 1,20 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -192,17 +192,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 55% | 57% | 56% | 1.65 | -8% |
 | 1X2: X | 31% | 24% | 28% | 3.90 | +8% |
-| 1X2: 1 | 14% | 19% | 17% | 5.00 | -17% |
+| 1X2: 1 | 14% | 19% | 16% | 5.00 | -18% |
 | Doble oportunidad: X2 | 86% | 81% | 83% | 1.17 | -2% |
 | Doble oportunidad: 12 | 69% | 76% | 72% | 1.25 | -10% |
 | Doble oportunidad: 1X | 45% | 43% | 44% | 2.20 | -3% |
 | Ambos marcan: No | 74% | 50% | 62% | 1.83 | +14% |
 | Ambos marcan: Sí | 26% | 50% | 38% | 1.83 | -31% |
 | Goles más/menos: Más de 1.5 | 49% | 73% | 61% | 1.28 | -22% |
-| Goles más/menos: Más de 2.5 | 23% | 50% | 36% | 1.90 | -31% |
+| Goles más/menos: Más de 2.5 | 23% | 50% | 37% | 1.90 | -31% |
 | Goles más/menos: Más de 3.5 | 9% | 29% | 19% | 3.25 | -39% |
 | Goles más/menos: Menos de 1.5 | 51% | 27% | 39% | 3.50 | +36% |
-| Goles más/menos: Menos de 2.5 | 77% | 50% | 64% | 1.90 | +21% |
+| Goles más/menos: Menos de 2.5 | 77% | 50% | 63% | 1.90 | +21% |
 | Goles más/menos: Menos de 3.5 | 91% | 71% | 81% | 1.33 | +8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 51% | 69% | 60% | 1.36 | -18% |
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 34% | 25% | 2.75 | -31% |
@@ -212,13 +212,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 8% | 23% | 16% | 4.00 | -38% |
 | Goles del local: Menos de 0.5 | 63% | 42% | 53% | 2.20 | +16% |
 | Goles del local: Menos de 1.5 | 92% | 77% | 84% | 1.22 | +3% |
-| Goles del visitante: Más de 1.5 | 33% | 54% | 44% | 1.73 | -25% |
+| Goles del visitante: Más de 1.5 | 34% | 54% | 44% | 1.73 | -25% |
 | Goles del visitante: Más de 2.5 | 12% | 28% | 20% | 3.40 | -33% |
-| Goles del visitante: Menos de 1.5 | 67% | 46% | 56% | 2.00 | +13% |
+| Goles del visitante: Menos de 1.5 | 66% | 46% | 56% | 2.00 | +13% |
 | Goles del visitante: Menos de 2.5 | 88% | 72% | 80% | 1.30 | +4% |
 | Córners más/menos: Más de 9.5 | 49% | 54% | 51% | 1.73 | -11% |
 | Córners más/menos: Menos de 9.5 | 51% | 46% | 49% | 2.00 | -3% |
 | 1X2 descanso: 2 | 35% | 42% | 38% | 2.20 | -15% |
-| 1X2 descanso: X | 54% | 41% | 48% | 2.25 | +7% |
+| 1X2 descanso: X | 54% | 41% | 47% | 2.25 | +7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

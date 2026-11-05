@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 388 · aciertos: 238 (61%) · beneficio a 1 € por pick: -52.37 €
+Picks ya jugados: 410 · aciertos: 253 (62%) · beneficio a 1 € por pick: -52.83 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 47 | 70 | 67% | -2.13 € |
-| jugador | 67 | 106 | 63% | -13.53 € |
-| goles | 113 | 183 | 62% | -26.06 € |
+| resultado | 49 | 73 | 67% | -1.49 € |
+| goles | 118 | 188 | 63% | -23.90 € |
+| jugador | 74 | 118 | 63% | -16.29 € |
+| tarjetas | 6 | 11 | 55% | -1.63 € |
 | tiros | 5 | 10 | 50% | -1.14 € |
-| tarjetas | 5 | 10 | 50% | -2.13 € |
-| corners | 1 | 7 | 14% | -5.38 € |
+| corners | 1 | 8 | 12% | -6.38 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
@@ -21,23 +21,23 @@ Picks ya jugados: 388 · aciertos: 238 (61%) · beneficio a 1 € por pick: -52.
 |---|---|---|---|
 | To Win Either Half · Home | 5 | 5 | 100% |
 | Match Winner · Home | 6 | 7 | 86% |
-| Match Winner · Away | 5 | 6 | 83% |
+| Match Winner · Away | 6 | 7 | 86% |
 | Goals Over/Under · Over 1.5 | 18 | 23 | 78% |
-| Goals Over/Under · Over 2.5 | 13 | 18 | 72% |
+| Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 27 | 39 | 69% |
 | Double Chance · Home/Draw | 4 | 6 | 67% |
-| Goals Over/Under - Second Half · Over 1.5 | 4 | 6 | 67% |
+| To Win Either Half · Away | 4 | 6 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
+| Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
-| To Win Either Half · Away | 3 | 5 | 60% |
-| Total - Home · Over 0.5 | 7 | 12 | 58% |
 | Total - Away · Over 0.5 | 23 | 41 | 56% |
 | Shots.1x2 · Away | 2 | 4 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
+| Home Team Total Cards · Over 1.5 | 3 | 6 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
-| Double Chance · Draw/Away | 7 | 17 | 41% |
-| Home Team Total Cards · Over 1.5 | 2 | 5 | 40% |
+| Double Chance · Draw/Away | 7 | 18 | 39% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
@@ -45,6 +45,30 @@ Picks ya jugados: 388 · aciertos: 238 (61%) · beneficio a 1 € por pick: -52.
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-04 · 15/22
+- ✅ AEK Athens FC marca · 1.44 (2-3)
+- ✅ Fenerbahçe marca · 1.33 (3-2)
+- ❌ Matteo Guendouzi comete 1+ faltas · 1.30 (3-2)
+- ✅ Archie Brown comete 1+ faltas · 1.30 (3-2)
+- ✅ Ngolo Kante comete 1+ faltas · 1.36 (3-2)
+- ❌ Middlesbrough o empate · 1.28 (2-0)
+- ✅ West Ham gana alguna de las dos partes · 1.44 (3-3)
+- ✅ Más de 2,5 goles en RB Leipzig–Manchester City · 1.36 (2-3)
+- ✅ Más de 1,5 goles en la 2ª parte del RB Leipzig–Manchester City · 1.53 (2-3)
+- ✅ Más de 2,5 goles en Lens–Como · 1.50 (1-9)
+- ✅ Gana el Como · 2.20 (1-9)
+- ✅ Florian Thauvin: 1+ tiros a puerta · 1.36 (1-9)
+- ❌ Felix Nmecha comete 1+ faltas · 1.30 (2-1)
+- ✅ Ruben Aguilar comete 1+ faltas · 1.30 (1-9)
+- ❌ Saud Abdulhamid comete 1+ faltas · 1.30 (1-9)
+- ✅ Jason Knight comete 1+ faltas · 1.28 (1-2)
+- ✅ Lens ve más de 1,5 tarjetas · 1.50 (1-9)
+- ❌ Más de 9,5 córners en RB Leipzig–Manchester City · 1.73 (2-3)
+- ✅ Peter Christiansen: 1+ tiros a puerta · 1.28 (4-1)
+- ❌ Kristoffer Askildsen comete 1+ faltas · 1.40 (4-1)
+- ✅ Gianni Stensness comete 1+ faltas · 1.36 (4-1)
+- ❌ Peter Christiansen comete 2+ faltas · 1.67 (4-1)
 
 ### 2026-11-03 · 10/27
 - ✅ QPR o empate · 1.28 (1-1)
@@ -310,41 +334,4 @@ Picks ya jugados: 388 · aciertos: 238 (61%) · beneficio a 1 € por pick: -52.
 - ✅ Thierno Barry: 1+ tiros a puerta · 1.28 (3-1)
 - ❌ Radu Dragusin comete 1+ faltas · 1.50 (2-2)
 - ❌ Groningen marca 2 o más · 1.40 (0-2)
-
-### 2026-10-28 · 20/35
-- ❌ Gol en la 2ª parte del Parma–Udinese · 1.28 (0-0)
-- ❌ Más de 1,5 goles en Parma–Udinese · 1.33 (0-0)
-- ❌ No hay empate en Parma–Udinese · 1.36 (0-0)
-- ❌ Udinese marca · 1.33 (0-0)
-- ✅ Gana el Inter · 1.36 (0-2)
-- ✅ Akor Adams: 1+ tiros a puerta · 1.67 (0-2)
-- ✅ Antoine Hainaut: 1+ tiros · 1.36 (0-2)
-- ✅ Akor Adams: 2+ tiros · 1.33 (0-2)
-- ✅ Lewis Ferguson comete 1+ faltas · 1.25 (2-4)
-- ✅ Nicolo Barella: 1+ tiros · 1.30 (0-2)
-- ❌ Matias Moreno comete 1+ faltas · 1.30 (0-2)
-- ❌ Gol en la 1ª parte del Parma–Udinese · 1.44 (0-0)
-- ✅ Ambos marcan en Sparta Rotterdam–Fortuna Sittard · 1.50 (2-2)
-- ✅ Fortuna Sittard marca · 1.33 (2-2)
-- ✅ Gol en la 1ª parte del Sparta Rotterdam–Fortuna Sittard · 1.28 (2-2)
-- ✅ Más de 1,5 goles en Genoa–Juventus · 1.44 (2-0)
-- ✅ No hay empate en Monza–Napoli · 1.28 (1-4)
-- ❌ Gol en la 2ª parte del Genoa–Juventus · 1.33 (2-0)
-- ❌ Juventus gana alguna de las dos partes · 1.40 (2-0)
-- ✅ Monza marca · 1.40 (1-4)
-- ✅ Samuele Birindelli: 1+ tiros · 1.40 (1-4)
-- ✅ Gustavo Varela: 1+ tiros a puerta · 1.57 (1-4)
-- ✅ Gustavo Varela: 2+ tiros · 1.40 (1-4)
-- ❌ Milutin Osmajic: 1+ tiros a puerta · 1.83 (2-0)
-- ❌ Brentford o empate · 1.28 (3-2)
-- ✅ Gol en la 1ª parte del Bournemouth–Aston Villa · 1.30 (3-0)
-- ❌ Genoa ve más de 1,5 tarjetas · 1.73 (2-0)
-- ❌ Chris Richards comete 1+ faltas · 1.67 (0-1)
-- ✅ Más de 2,5 goles en Bournemouth–Aston Villa · 1.70 (3-0)
-- ❌ 1899 Hoffenheim marca 2 o más · 1.33 (1-1)
-- ❌ Mikael Egill Ellertsson comete 1+ faltas · 1.28 (2-0)
-- ❌ Kevin De Bruyne comete 1+ faltas · 1.57 (1-4)
-- ✅ Bayern München marca 3 o más · 1.25 (6-1)
-- ✅ Ryan Gravenberch comete 1+ faltas · 1.25 (1-1)
-- ✅ Pedro Neto comete 1+ faltas · 1.25 (1-1)
 

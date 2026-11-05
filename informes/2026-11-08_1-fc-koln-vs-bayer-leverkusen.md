@@ -1,7 +1,7 @@
 # 1. FC Köln – Bayer Leverkusen
 **Bundesliga** · Regular Season - 9 · 08/11/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | M. Terrier | F | 4 | 117 | 0 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,84 · córners esperados 10,0._
+_Goles esperados: local 1,29 · visitante 1,85 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -204,10 +204,10 @@ _Goles esperados: local 1,28 · visitante 1,84 · córners esperados 10,0._
 | Doble oportunidad: 1X | 49% | 46% | 48% | 2.05 | -2% |
 | Ambos marcan: No | 39% | 35% | 37% | 2.62 | -2% |
 | Ambos marcan: Sí | 61% | 65% | 63% | 1.44 | -10% |
-| Goles más/menos: Más de 2.5 | 60% | 68% | 64% | 1.40 | -10% |
-| Goles más/menos: Más de 3.5 | 38% | 47% | 43% | 2.00 | -15% |
+| Goles más/menos: Más de 2.5 | 61% | 68% | 64% | 1.40 | -10% |
+| Goles más/menos: Más de 3.5 | 38% | 47% | 43% | 2.00 | -14% |
 | Goles más/menos: Más de 4.5 | 21% | 28% | 24% | 3.40 | -17% |
-| Goles más/menos: Menos de 2.5 ✅ | 40% | 32% | 36% | 3.00 | +7% |
+| Goles más/menos: Menos de 2.5 ✅ | 39% | 32% | 36% | 3.00 | +7% |
 | Goles más/menos: Menos de 3.5 | 62% | 53% | 57% | 1.80 | +3% |
 | Goles más/menos: Menos de 4.5 | 79% | 72% | 76% | 1.33 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 77% | 76% | 1.22 | -8% |

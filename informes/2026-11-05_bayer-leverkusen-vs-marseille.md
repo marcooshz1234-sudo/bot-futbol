@@ -1,10 +1,10 @@
 # Bayer Leverkusen – Marseille
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.36**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.00**
@@ -73,7 +73,7 @@ _Actualizadas: 04/11 20:01_
 - **Player Fouls Committed:** Moussa Diaby - 1 **1.57**  ·  Moussa Diaby - 2 **3.75**  ·  Moussa Diaby - 3 **11.00**  ·  Patrik Schick - 1 **1.25**  ·  Christian Kofane - 1 **1.10**  ·  Victor Boniface - 1 **1.40**  ·  Ibrahim Maza - 1 **1.28**  ·  Eliesse Ben Seghir - 1 **1.14**  ·  Martin Terrier - 1 **1.83**  ·  Afonso Moreira - 1 **1.20**  ·  Montrell Culbreath - 1 **1.25**  ·  Nathan Tella - 1 **1.14**  ·  Jonas Hofmann - 1 **1.80**  ·  Malik Tillman - 1 **1.33**  ·  Aleix Garcia - 1 **2.00**  ·  Ezequiel Fernandez - 1 **1.20**  ·  Facundo Medina - 1 **1.25**  ·  Robert Andrich - 1 **1.12**  ·  Vazquez Lucas - 1 **1.14**  ·  Miguel Gutierrez - 1 **1.57**  ·  Edmond Tapsoba - 1 **1.44**  ·  Jarell Quansah - 1 **1.67**  ·  Loic Bade - 1 **1.40**  ·  Tim Oermann - 1 **1.67**  ·  Patrik Schick - 2 **2.10**  ·  Christian Kofane - 2 **1.50**  ·  Victor Boniface - 2 **2.75**  ·  Ibrahim Maza - 2 **2.25**  ·  Eliesse Ben Seghir - 2 **1.73**  ·  Martin Terrier - 2 **5.50**  ·  Afonso Moreira - 2 **1.91**  ·  Montrell Culbreath - 2 **2.10**  ·  Nathan Tella - 2 **1.73**  ·  Jonas Hofmann - 2 **5.00**  ·  Malik Tillman - 2 **2.50**  ·  Aleix Garcia - 2 **6.00**  ·  Ezequiel Fernandez - 2 **1.91**  ·  Facundo Medina - 2 **2.10**  ·  Robert Andrich - 2 **1.62**  ·  Vazquez Lucas - 2 **1.73**  ·  Miguel Gutierrez - 2 **3.75**  ·  Edmond Tapsoba - 2 **3.00**  ·  Jarell Quansah - 2 **4.00**  ·  Loic Bade - 2 **2.75**  ·  Tim Oermann - 2 **4.00**  ·  Patrik Schick - 3 **4.33**  ·  Christian Kofane - 3 **2.38**  ·  Victor Boniface - 3 **7.00**  ·  Ibrahim Maza - 3 **5.00**  ·  Eliesse Ben Seghir - 3 **3.25**  ·  Martin Terrier - 3 **17.00**  ·  Afonso Moreira - 3 **3.75**  ·  Montrell Culbreath - 3 **4.33**  ·  Nathan Tella - 3 **3.25**  ·  Jonas Hofmann - 3 **15.00**  ·  Malik Tillman - 3 **6.00**  ·  Aleix Garcia - 3 **21.00**  ·  Ezequiel Fernandez - 3 **3.75**  ·  Facundo Medina - 3 **4.33**  ·  Robert Andrich - 3 **2.75**  ·  Vazquez Lucas - 3 **3.25**  ·  Miguel Gutierrez - 3 **11.00**  ·  Edmond Tapsoba - 3 **8.00**  ·  Jarell Quansah - 3 **13.00**  ·  Loic Bade - 3 **7.00**  ·  Tim Oermann - 3 **13.00**  ·  Patrik Schick - 4 **11.00**  ·  Christian Kofane - 4 **4.50**  ·  Victor Boniface - 4 **19.00**  ·  Ibrahim Maza - 4 **13.00**  ·  Eliesse Ben Seghir - 4 **6.50**  ·  Afonso Moreira - 4 **9.00**  ·  Montrell Culbreath - 4 **11.00**  ·  Nathan Tella - 4 **6.50**  ·  Malik Tillman - 4 **15.00**  ·  Ezequiel Fernandez - 4 **9.00**  ·  Facundo Medina - 4 **11.00**  ·  Robert Andrich - 4 **6.00**  ·  Vazquez Lucas - 4 **6.50**  ·  Edmond Tapsoba - 4 **21.00**  ·  Loic Bade - 4 **19.00**  ·  Patrik Schick - 5 **23.00**  ·  Christian Kofane - 5 **10.00**  ·  Eliesse Ben Seghir - 5 **15.00**  ·  Afonso Moreira - 5 **21.00**  ·  Montrell Culbreath - 5 **23.00**  ·  Nathan Tella - 5 **15.00**  ·  Ezequiel Fernandez - 5 **21.00**  ·  Christian Kofane - 6 **21.00**  ·  Guela Doue - 1 **1.12**  ·  Guela Doue - 2 **1.62**  ·  Guela Doue - 3 **2.75**  ·  Amine Gouiri - 1 **1.44**  ·  Igor Paixao - 1 **1.50**  ·  Himad Abdelli - 1 **1.40**  ·  Keyliane Abdallah - 1 **1.40**  ·  Neal Maupay - 1 **1.50**  ·  Tadjidine Mmadi - 1 **1.57**  ·  Faris Moumbagna - 1 **1.12**  ·  Amine Harit - 1 **1.25**  ·  Timothy Weah - 1 **1.28**  ·  Angel Gomes - 1 **1.17**  ·  Pierre Hojbjerg - 1 **1.12**  ·  Emerson Palmieri - 1 **1.25**  ·  Geoffrey Kondogbia - 1 **1.36**  ·  Tochukwu Nnadi - 1 **1.18**  ·  Ulisses Garcia - 1 **1.22**  ·  Kelyann Bezahaf - 1 **1.36**  ·  Bamo Meite - 1 **1.33**  ·  Derek Cornelius - 1 **1.33**  ·  Nayef Aguerd - 1 **1.18**  ·  CJ Egan-Riley - 1 **1.44**  ·  Amine Gouiri - 2 **3.00**  ·  Igor Paixao - 2 **3.40**  ·  Himad Abdelli - 2 **2.75**  ·  Keyliane Abdallah - 2 **2.75**  ·  Neal Maupay - 2 **3.40**  ·  Tadjidine Mmadi - 2 **3.50**  ·  Faris Moumbagna - 2 **1.57**  ·  Amine Harit - 2 **2.10**  ·  Timothy Weah - 2 **2.20**  ·  Angel Gomes - 2 **1.73**  ·  Pierre Hojbjerg - 2 **1.62**  ·  Emerson Palmieri - 2 **2.10**  ·  Geoffrey Kondogbia - 2 **2.62**  ·  Tochukwu Nnadi - 2 **1.83**  ·  Ulisses Garcia - 2 **2.00**  ·  Kelyann Bezahaf - 2 **2.62**  ·  Bamo Meite - 2 **2.50**  ·  Derek Cornelius - 2 **2.50**  ·  Nayef Aguerd - 2 **1.83**  ·  CJ Egan-Riley - 2 **3.00**  ·  Amine Gouiri - 3 **8.00**  ·  Igor Paixao - 3 **9.00**  ·  Himad Abdelli - 3 **7.00**  ·  Keyliane Abdallah - 3 **7.00**  ·  Neal Maupay - 3 **9.00**  ·  Tadjidine Mmadi - 3 **10.00**  ·  Faris Moumbagna - 3 **2.62**  ·  Amine Harit - 3 **4.33**  ·  Timothy Weah - 3 **5.00**  ·  Angel Gomes - 3 **3.25**  ·  Pierre Hojbjerg - 3 **2.75**  ·  Emerson Palmieri - 3 **4.33**  ·  Geoffrey Kondogbia - 3 **6.50**  ·  Tochukwu Nnadi - 3 **3.50**  ·  Ulisses Garcia - 3 **4.00**  ·  Kelyann Bezahaf - 3 **6.50**  ·  Bamo Meite - 3 **6.00**  ·  Derek Cornelius - 3 **6.00**  ·  Nayef Aguerd - 3 **3.50**  ·  CJ Egan-Riley - 3 **8.00**  ·  Amine Gouiri - 4 **21.00**  ·  Igor Paixao - 4 **23.00**  ·  Himad Abdelli - 4 **19.00**  ·  Keyliane Abdallah - 4 **19.00**  ·  Neal Maupay - 4 **23.00**  ·  Tadjidine Mmadi - 4 **26.00**  ·  Faris Moumbagna - 4 **5.50**  ·  Amine Harit - 4 **11.00**  ·  Timothy Weah - 4 **13.00**  ·  Angel Gomes - 4 **7.00**  ·  Pierre Hojbjerg - 4 **6.00**  ·  Emerson Palmieri - 4 **11.00**  ·  Geoffrey Kondogbia - 4 **17.00**  ·  Tochukwu Nnadi - 4 **8.00**  ·  Ulisses Garcia - 4 **10.00**  ·  Kelyann Bezahaf - 4 **17.00**  ·  Bamo Meite - 4 **15.00**  ·  Derek Cornelius - 4 **15.00**  ·  Nayef Aguerd - 4 **8.00**  ·  Faris Moumbagna - 5 **13.00**  ·  Amine Harit - 5 **26.00**  ·  Timothy Weah - 5 **26.00**  ·  Angel Gomes - 5 **15.00**  ·  Pierre Hojbjerg - 5 **13.00**  ·  Faris Moumbagna - 6 **26.00**  ·  Guela Doue - 4 **6.00**  ·  CJ Egan-Riley - 4 **21.00**  ·  Robert Andrich - 5 **13.00**  ·  Vazquez Lucas - 5 **15.00**  ·  Facundo Medina - 5 **23.00**  ·  Nouhoum Kamissoko - 1 **1.18**  ·  Nouhoum Kamissoko - 2 **1.83**  ·  Nouhoum Kamissoko - 3 **3.50**  ·  Nouhoum Kamissoko - 4 **8.00**  ·  Guela Doue - 5 **13.00**  ·  Robert Andrich - 6 **26.00**  ·  Nayef Aguerd - 5 **19.00**  ·  Emerson Palmieri - 5 **26.00**  ·  Nouhoum Kamissoko - 5 **19.00**  ·  Alexi Koum - 1 **1.91**  ·  Alexi Koum - 2 **5.50**  ·  Alexi Koum - 3 **19.00**  ·  Pierre Hojbjerg - 6 **26.00**  ·  Tochukwu Nnadi - 5 **19.00**  ·  Ulisses Garcia - 5 **23.00**  ·  Antoine Valero - 1 **1.50**  ·  Gabriel Minutillo - 1 **1.28**  ·  Antoine Valero - 2 **3.40**  ·  Gabriel Minutillo - 2 **2.25**  ·  Antoine Valero - 3 **9.00**  ·  Gabriel Minutillo - 3 **5.00**  ·  Gabriel Minutillo - 4 **13.00**  ·  Antoine Valero - 4 **23.00**  ·  Guela Doue - 6 **26.00**
 - **Goalkeeper Saves:** Mark Flekken - 3 **1.80**  ·  Mark Flekken - 4 **3.00**  ·  Mark Flekken - 5 **6.00**  ·  Mark Flekken - 6 **11.00**  ·  Mark Flekken - 2 **1.25**  ·  Mark Flekken - 1 **1.05**  ·  Jeffrey de Lange - 2 **1.05**  ·  Jeffrey de Lange - 3 **1.20**  ·  Jeffrey de Lange - 4 **1.53**  ·  Jeffrey de Lange - 5 **2.20**  ·  Jeffrey de Lange - 6 **3.50**  ·  Jeffrey de Lange - 1 **1.05**  ·  Jeffrey de Lange - 7 **6.00**  ·  Jeffrey de Lange - 8 **11.00**  ·  Jeffrey de Lange **11.00**
 - **Anytime Goal Scorer:** Faris Moumbagna **4.33**  ·  Angel Gomes **6.00**  ·  Malik Tillman **3.00**  ·  Eliesse Ben Seghir **2.60**  ·  Loic Bade **7.00**  ·  Ulisses Garcia **10.00**  ·  Amine Gouiri **4.00**  ·  Ibrahim Maza **3.00**  ·  Guela Doue **8.00**  ·  Pierre Hojbjerg **10.00**  ·  Aleix Garcia **4.75**  ·  Tochukwu Nnadi **10.00**  ·  Geoffrey Kondogbia **10.00**  ·  Montrell Culbreath **3.40**  ·  Tadjidine Mmadi **5.50**  ·  Neal Maupay **4.33**  ·  CJ Egan-Riley **13.00**  ·  Amine Harit **6.00**  ·  Derek Cornelius **13.00**  ·  Facundo Medina **8.00**  ·  Himad Abdelli **5.50**  ·  Emerson Palmieri **10.00**  ·  Miguel Gutierrez **7.00**  ·  Moussa Diaby **2.20**  ·  Ezequiel Fernandez **6.00**  ·  Nouhoum Kamissoko **9.00**  ·  Kelyann Bezahaf **13.00**  ·  Bamo Meite **13.00**  ·  Jarell Quansah **6.50**  ·  Antoine Valero **3.60**  ·  Gabriel Minutillo **2.60**  ·  Kenan Doganay **4.75**  ·  Dustin Buck **3.40**  ·  Nayef Aguerd **13.00**  ·  Keyliane Abdallah **6.00**  ·  Igor Paixao **4.75**  ·  Timothy Weah **8.00**  ·  Vazquez Lucas **4.75**  ·  Edmond Tapsoba **6.00**  ·  Jonas Hofmann **3.00**  ·  Martin Terrier **2.50**  ·  Nathan Tella **2.60**  ·  Patrik Schick **1.67**  ·  Robert Andrich **6.00**  ·  Victor Boniface **2.05**  ·  Tim Oermann **10.00**  ·  Alexi Koum **13.00**  ·  Christian Kofane **2.05**  ·  Afonso Moreira **2.60**
-- **Player to Score or Assist:** Faris Moumbagna **3.20**  ·  Angel Gomes **4.00**  ·  Malik Tillman **1.95**  ·  Eliesse Ben Seghir **1.95**  ·  Loic Bade **5.00**  ·  Ulisses Garcia **5.50**  ·  Amine Gouiri **2.88**  ·  Ibrahim Maza **1.83**  ·  Guela Doue **2.88**  ·  Pierre Hojbjerg **6.00**  ·  Aleix Garcia **2.05**  ·  Tochukwu Nnadi **7.50**  ·  Geoffrey Kondogbia **6.50**  ·  Montrell Culbreath **2.25**  ·  Tadjidine Mmadi **3.75**  ·  Neal Maupay **3.10**  ·  CJ Egan-Riley **8.50**  ·  Amine Harit **3.60**  ·  Derek Cornelius **8.50**  ·  Facundo Medina **3.40**  ·  Himad Abdelli **3.60**  ·  Emerson Palmieri **4.75**  ·  Miguel Gutierrez **3.00**  ·  Moussa Diaby **1.57**  ·  Ezequiel Fernandez **3.25**  ·  Nouhoum Kamissoko **5.50**  ·  Kelyann Bezahaf **5.50**  ·  Bamo Meite **8.50**  ·  Jarell Quansah **4.50**  ·  Antoine Valero **2.75**  ·  Gabriel Minutillo **1.80**  ·  Kenan Doganay **2.75**  ·  Dustin Buck **1.95**  ·  Nayef Aguerd **8.50**  ·  Keyliane Abdallah **3.25**  ·  Igor Paixao **3.00**  ·  Timothy Weah **4.75**  ·  Vazquez Lucas **2.50**  ·  Edmond Tapsoba **2.75**  ·  Jonas Hofmann **1.95**  ·  Martin Terrier **1.83**  ·  Nathan Tella **1.83**  ·  Patrik Schick **1.40**  ·  Robert Andrich **4.50**  ·  Victor Boniface **1.57**  ·  Tim Oermann **7.00**  ·  Alexi Koum **8.50**  ·  Christian Kofane **1.62**  ·  Afonso Moreira **1.73**
+- **Player to Score or Assist:** Faris Moumbagna **3.20**  ·  Angel Gomes **4.00**  ·  Malik Tillman **1.95**  ·  Eliesse Ben Seghir **1.91**  ·  Loic Bade **5.00**  ·  Ulisses Garcia **5.50**  ·  Amine Gouiri **2.88**  ·  Ibrahim Maza **1.83**  ·  Guela Doue **2.88**  ·  Pierre Hojbjerg **6.00**  ·  Aleix Garcia **2.05**  ·  Tochukwu Nnadi **7.50**  ·  Geoffrey Kondogbia **6.50**  ·  Montrell Culbreath **2.25**  ·  Tadjidine Mmadi **3.75**  ·  Neal Maupay **3.10**  ·  CJ Egan-Riley **8.50**  ·  Amine Harit **3.75**  ·  Derek Cornelius **8.50**  ·  Facundo Medina **3.40**  ·  Himad Abdelli **3.60**  ·  Emerson Palmieri **4.75**  ·  Miguel Gutierrez **2.88**  ·  Moussa Diaby **1.53**  ·  Ezequiel Fernandez **3.25**  ·  Nouhoum Kamissoko **5.50**  ·  Kelyann Bezahaf **5.50**  ·  Bamo Meite **8.50**  ·  Jarell Quansah **4.33**  ·  Antoine Valero **2.75**  ·  Gabriel Minutillo **1.73**  ·  Kenan Doganay **2.75**  ·  Dustin Buck **1.91**  ·  Nayef Aguerd **8.50**  ·  Keyliane Abdallah **3.50**  ·  Igor Paixao **3.00**  ·  Timothy Weah **4.75**  ·  Vazquez Lucas **2.50**  ·  Edmond Tapsoba **2.75**  ·  Jonas Hofmann **1.95**  ·  Martin Terrier **1.83**  ·  Nathan Tella **1.83**  ·  Patrik Schick **1.40**  ·  Robert Andrich **4.50**  ·  Victor Boniface **1.57**  ·  Tim Oermann **7.00**  ·  Alexi Koum **8.50**  ·  Christian Kofane **1.62**  ·  Afonso Moreira **1.73**
 
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | Marseille (total) | Marseille fuera |
@@ -204,43 +204,43 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,10 · visitante 1,12 · córners esperados 9,4._
+_Goles esperados: local 3,14 · visitante 1,11 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 13% | 12% | 7.00 | -17% |
-| 1X2: X | 13% | 17% | 15% | 5.50 | -17% |
-| 1X2: 1 | 77% | 69% | 73% | 1.36 | -1% |
-| Doble oportunidad: X2 | 23% | 31% | 27% | 3.00 | -18% |
+| 1X2: 2 | 10% | 13% | 12% | 7.00 | -18% |
+| 1X2: X | 13% | 17% | 15% | 5.50 | -18% |
+| 1X2: 1 | 77% | 69% | 73% | 1.36 | -0% |
+| Doble oportunidad: X2 | 23% | 31% | 27% | 3.00 | -19% |
 | Doble oportunidad: 12 | 87% | 83% | 85% | 1.14 | -3% |
 | Doble oportunidad: 1X | 90% | 86% | 88% | 1.10 | -3% |
 | Ambos marcan: No | 36% | 44% | 40% | 2.10 | -16% |
 | Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | +0% |
-| Goles más/menos: Más de 2.5 | 79% | 66% | 72% | 1.44 | +4% |
-| Goles más/menos: Más de 3.5 | 61% | 45% | 53% | 2.10 | +11% |
-| Goles más/menos: Más de 4.5 ✅ | 41% | 27% | 34% | 3.50 | +20% |
-| Goles más/menos: Menos de 2.5 | 21% | 34% | 28% | 2.75 | -24% |
+| Goles más/menos: Más de 2.5 | 80% | 66% | 73% | 1.44 | +5% |
+| Goles más/menos: Más de 3.5 | 61% | 45% | 53% | 2.10 | +12% |
+| Goles más/menos: Más de 4.5 ✅ | 42% | 27% | 35% | 3.50 | +21% |
+| Goles más/menos: Menos de 2.5 | 20% | 34% | 27% | 2.75 | -25% |
 | Goles más/menos: Menos de 3.5 | 39% | 55% | 47% | 1.73 | -19% |
-| Goles más/menos: Menos de 4.5 | 59% | 73% | 66% | 1.30 | -14% |
+| Goles más/menos: Menos de 4.5 | 58% | 73% | 65% | 1.30 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 55% | 46% | 51% | 2.00 | +1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 55% | 46% | 51% | 2.00 | +2% |
 | Goles 1ª parte más/menos: Más de 2.5 | 28% | 22% | 25% | 4.33 | +8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 16% | 23% | 20% | 4.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 45% | 54% | 49% | 1.73 | -15% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 72% | 78% | 75% | 1.20 | -10% |
-| Goles del local: Más de 1.5 | 82% | 71% | 76% | 1.33 | +1% |
-| Goles del local: Más de 2.5 | 60% | 46% | 53% | 2.00 | +6% |
-| Goles del local: Más de 3.5 ✅ | 38% | 25% | 31% | 3.75 | +17% |
-| Goles del local: Menos de 1.5 | 18% | 29% | 24% | 3.25 | -23% |
-| Goles del local: Menos de 2.5 | 40% | 54% | 47% | 1.73 | -19% |
-| Goles del local: Menos de 3.5 | 62% | 75% | 69% | 1.25 | -14% |
+| Goles del local: Más de 1.5 | 82% | 71% | 77% | 1.33 | +2% |
+| Goles del local: Más de 2.5 | 61% | 46% | 54% | 2.00 | +7% |
+| Goles del local: Más de 3.5 ✅ | 38% | 25% | 32% | 3.75 | +19% |
+| Goles del local: Menos de 1.5 | 18% | 29% | 23% | 3.25 | -24% |
+| Goles del local: Menos de 2.5 | 39% | 54% | 46% | 1.73 | -20% |
+| Goles del local: Menos de 3.5 | 62% | 75% | 68% | 1.25 | -15% |
 | Goles del visitante: Más de 0.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 1.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles del visitante: Más de 1.5 | 30% | 27% | 29% | 3.50 | +0% |
 | Goles del visitante: Menos de 0.5 | 33% | 39% | 36% | 2.38 | -14% |
-| Goles del visitante: Menos de 1.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles del visitante: Menos de 1.5 | 70% | 73% | 71% | 1.28 | -9% |
 | Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -10% |
 | Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
 | 1X2 descanso: X | 28% | 33% | 31% | 2.75 | -16% |
-| 1X2 descanso: 1 | 59% | 53% | 56% | 1.73 | -4% |
+| 1X2 descanso: 1 | 59% | 53% | 56% | 1.73 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

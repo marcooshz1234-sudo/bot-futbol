@@ -1,10 +1,10 @@
 # West Brom – Millwall
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.80**
@@ -193,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | Lukas Jensen | G | 3 | 275 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,50 · visitante 1,33 · córners esperados 10,4._
+_Goles esperados: local 1,51 · visitante 1,34 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -203,34 +203,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 25% | 26% | 26% | 3.50 | -10% |
 | 1X2: 1 | 41% | 46% | 44% | 2.00 | -12% |
 | Doble oportunidad: X2 | 59% | 53% | 56% | 1.80 | +0% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -5% |
+| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 66% | 73% | 70% | 1.30 | -9% |
-| Ambos marcan: No | 43% | 44% | 44% | 2.10 | -9% |
-| Ambos marcan: Sí | 57% | 56% | 56% | 1.67 | -6% |
-| Goles más/menos: Más de 1.5 | 77% | 76% | 77% | 1.25 | -4% |
+| Ambos marcan: No | 43% | 44% | 43% | 2.10 | -9% |
+| Ambos marcan: Sí | 57% | 56% | 57% | 1.67 | -6% |
+| Goles más/menos: Más de 1.5 | 78% | 76% | 77% | 1.25 | -4% |
 | Goles más/menos: Más de 2.5 | 54% | 53% | 53% | 1.80 | -4% |
 | Goles más/menos: Más de 3.5 | 32% | 32% | 32% | 3.00 | -5% |
-| Goles más/menos: Menos de 1.5 | 23% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 22% | 24% | 23% | 4.00 | -8% |
 | Goles más/menos: Menos de 2.5 | 46% | 47% | 47% | 2.00 | -7% |
-| Goles más/menos: Menos de 3.5 | 68% | 68% | 68% | 1.40 | -4% |
+| Goles más/menos: Menos de 3.5 | 68% | 68% | 68% | 1.40 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del local: Más de 0.5 | 78% | 79% | 78% | 1.18 | -7% |
+| Goles del local: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Goles del local: Más de 2.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del local: Menos de 0.5 | 22% | 21% | 22% | 4.50 | -3% |
+| Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -3% |
 | Goles del local: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
 | Goles del local: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 38% | 34% | 36% | 2.75 | -1% |
+| Goles del visitante: Más de 1.5 | 39% | 34% | 36% | 2.75 | -1% |
 | Goles del visitante: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles del visitante: Menos de 1.5 | 62% | 66% | 64% | 1.40 | -11% |
-| Córners más/menos: Más de 10.5 | 44% | 56% | 50% | 1.67 | -17% |
-| Córners más/menos: Más de 11.5 | 37% | 44% | 40% | 2.10 | -15% |
+| Goles del visitante: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
+| Córners más/menos: Más de 10.5 | 44% | 56% | 50% | 1.67 | -16% |
+| Córners más/menos: Más de 11.5 | 37% | 44% | 41% | 2.10 | -15% |
 | Córners más/menos: Menos de 10.5 | 56% | 44% | 50% | 2.10 | +5% |
-| Córners más/menos: Menos de 11.5 | 63% | 56% | 60% | 1.67 | -0% |
+| Córners más/menos: Menos de 11.5 | 63% | 56% | 59% | 1.67 | -1% |
 | 1X2 descanso: 2 | 27% | 23% | 25% | 4.00 | +1% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.30 | -6% |
 | 1X2 descanso: 1 | 32% | 36% | 34% | 2.60 | -12% |

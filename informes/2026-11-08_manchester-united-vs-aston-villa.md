@@ -1,7 +1,7 @@
 # Manchester United – Aston Villa
 **Premier League** · Regular Season - 10 · 08/11/2026 17:30 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -219,27 +219,27 @@ _Goles esperados: local 1,68 · visitante 1,70 · córners esperados 9,4._
 | Doble oportunidad: X2 | 62% | 57% | 59% | 1.67 | -1% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 61% | 70% | 65% | 1.36 | -11% |
-| Ambos marcan: No | 34% | 38% | 36% | 2.50 | -11% |
-| Ambos marcan: Sí | 66% | 62% | 64% | 1.50 | -3% |
+| Ambos marcan: No | 33% | 38% | 35% | 2.50 | -11% |
+| Ambos marcan: Sí | 67% | 62% | 65% | 1.50 | -3% |
 | Goles más/menos: Más de 2.5 | 66% | 59% | 62% | 1.62 | +1% |
 | Goles más/menos: Más de 3.5 | 44% | 40% | 42% | 2.38 | -1% |
 | Goles más/menos: Más de 4.5 | 25% | 22% | 24% | 4.33 | +2% |
 | Goles más/menos: Menos de 2.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Menos de 3.5 | 56% | 60% | 58% | 1.57 | -8% |
+| Goles más/menos: Menos de 3.5 | 56% | 60% | 58% | 1.57 | -9% |
 | Goles más/menos: Menos de 4.5 | 75% | 78% | 76% | 1.22 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
 | Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
 | Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Goles del visitante: Más de 1.5 | 51% | 42% | 47% | 2.20 | +2% |
+| Goles del visitante: Más de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
 | Goles del visitante: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 1.5 | 49% | 58% | 53% | 1.62 | -13% |
-| Córners más/menos: Más de 9.5 | 44% | 54% | 49% | 1.73 | -15% |
+| Goles del visitante: Menos de 1.5 | 49% | 58% | 53% | 1.62 | -14% |
+| Córners más/menos: Más de 9.5 | 44% | 54% | 49% | 1.73 | -16% |
 | Córners más/menos: Menos de 9.5 | 56% | 46% | 51% | 2.00 | +2% |
 | 1X2 descanso: 2 | 32% | 27% | 30% | 3.40 | +1% |
 | 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -9% |

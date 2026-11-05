@@ -1,10 +1,10 @@
 # Malaga – Racing Santander
-**LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · Estadio La Rosaleda
+**LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **2.38**  ·  X **3.60**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -190,28 +190,28 @@ _Sin bajas comunicadas por ahora._
 | M. Gueye | M | 7 | 175 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,45 · córners esperados 11,0._
+_Goles esperados: local 1,56 · visitante 1,45 · córners esperados 11,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 35% | 34% | 35% | 2.80 | -3% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 41% | 40% | 40% | 2.38 | -4% |
-| Doble oportunidad: X2 | 59% | 60% | 60% | 1.57 | -6% |
+| 1X2: 1 | 40% | 40% | 40% | 2.38 | -5% |
+| Doble oportunidad: X2 | 60% | 60% | 60% | 1.57 | -6% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 65% | 67% | 66% | 1.40 | -8% |
 | Ambos marcan: No | 40% | 39% | 39% | 2.38 | -6% |
 | Ambos marcan: Sí | 60% | 61% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 1.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 58% | 57% | 57% | 1.67 | -4% |
-| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -6% |
+| Goles más/menos: Más de 3.5 | 35% | 36% | 36% | 2.62 | -6% |
 | Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -11% |
 | Goles más/menos: Menos de 1.5 | 20% | 21% | 20% | 4.50 | -8% |
 | Goles más/menos: Menos de 2.5 | 42% | 43% | 43% | 2.20 | -6% |
-| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
+| Goles más/menos: Menos de 3.5 | 65% | 64% | 64% | 1.50 | -4% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
@@ -226,7 +226,7 @@ _Goles esperados: local 1,57 · visitante 1,45 · córners esperados 11,0._
 | Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
 | Córners más/menos: Más de 10.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Córners más/menos: Menos de 10.5 | 51% | 54% | 52% | 1.73 | -10% |
-| 1X2 descanso: 2 | 28% | 29% | 29% | 3.25 | -7% |
+| 1X2 descanso: 2 | 29% | 29% | 29% | 3.25 | -7% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
 | 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -8% |
 

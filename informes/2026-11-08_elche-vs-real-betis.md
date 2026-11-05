@@ -1,7 +1,7 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -59,42 +59,42 @@ _Actualizadas: 04/11 08:23_
 ## Estadísticas de equipo
 | | Elche (total) | Elche en casa | Real Betis (total) | Real Betis fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 14 | 6 |
-| Forma (últimos 5) | DVVEE | DEDDD | VEVDV | EEVVD |
-| Balance | 3V 4E 5D | 0V 1E 4D | 10V 2E 2D | 3V 2E 1D |
-| Goles a favor / partido | 1,42 | 0,80 | 1,79 | 1,50 |
-| Goles en contra / partido | 1,58 | 2,40 | 1,36 | 1,50 |
-| Goles a favor 1ª parte | 0,42 | 0,00 | 0,86 | 1,00 |
-| Goles a favor 2ª parte | 1,00 | 0,80 | 0,93 | 0,50 |
-| Goles en contra 1ª parte | 0,92 | 1,20 | 0,50 | 0,83 |
-| Goles en contra 2ª parte | 0,67 | 1,20 | 0,86 | 0,67 |
-| Más de 1,5 goles | 75% | 60% | 57% | 67% |
-| Más de 2,5 goles | 58% | 60% | 50% | 50% |
-| Más de 3,5 goles | 50% | 60% | 36% | 33% |
-| Ambos marcan | 58% | 40% | 57% | 67% |
-| Portería a cero | 25% | 20% | 43% | 33% |
-| Se queda sin marcar | 33% | 60% | 7% | 17% |
-| xG a favor | 1,25 | 1,21 | 1,68 | 1,65 |
-| xG en contra | 1,77 | 2,00 | 1,63 | 1,60 |
-| Tiros / partido | 11,9 | 13,4 | 17,6 | 17,8 |
-| Tiros a puerta / partido | 4,5 | 4,0 | 6,2 | 5,3 |
-| Tiros recibidos | 14,3 | 11,2 | 13,6 | 15,2 |
-| Tiros a puerta recibidos | 4,4 | 4,0 | 5,2 | 5,7 |
-| Posesión media % | 52 | 59 | 52 | 54 |
+| Partidos analizados | 12 | 5 | 15 | 7 |
+| Forma (últimos 5) | DVVEE | DEDDD | DVEVD | DEEVV |
+| Balance | 3V 4E 5D | 0V 1E 4D | 10V 2E 3D | 3V 2E 2D |
+| Goles a favor / partido | 1,42 | 0,80 | 1,73 | 1,43 |
+| Goles en contra / partido | 1,58 | 2,40 | 1,40 | 1,57 |
+| Goles a favor 1ª parte | 0,42 | 0,00 | 0,80 | 0,86 |
+| Goles a favor 2ª parte | 1,00 | 0,80 | 0,93 | 0,57 |
+| Goles en contra 1ª parte | 0,92 | 1,20 | 0,47 | 0,71 |
+| Goles en contra 2ª parte | 0,67 | 1,20 | 0,93 | 0,86 |
+| Más de 1,5 goles | 75% | 60% | 60% | 71% |
+| Más de 2,5 goles | 58% | 60% | 53% | 57% |
+| Más de 3,5 goles | 50% | 60% | 33% | 29% |
+| Ambos marcan | 58% | 40% | 60% | 71% |
+| Portería a cero | 25% | 20% | 40% | 29% |
+| Se queda sin marcar | 33% | 60% | 7% | 14% |
+| xG a favor | 1,25 | 1,21 | 1,62 | 1,54 |
+| xG en contra | 1,77 | 2,00 | 1,70 | 1,75 |
+| Tiros / partido | 11,9 | 13,4 | 17,1 | 16,9 |
+| Tiros a puerta / partido | 4,5 | 4,0 | 6,1 | 5,1 |
+| Tiros recibidos | 14,3 | 11,2 | 13,7 | 15,1 |
+| Tiros a puerta recibidos | 4,4 | 4,0 | 5,3 | 5,7 |
+| Posesión media % | 52 | 59 | 52 | 53 |
 | Córners a favor | 4,5 | 4,4 | 5,1 | 4,7 |
-| Córners en contra | 4,3 | 3,4 | 5,3 | 6,5 |
-| Córners a favor 1ª parte | 1,5 | 2,0 | 3,2 | 3,0 |
-| Córners a favor 2ª parte | 3,0 | 2,4 | 1,9 | 1,7 |
-| Córners totales del partido | 8,8 | 7,8 | 10,4 | 11,2 |
-| Córners totales 1ª parte | 3,7 | 4,0 | 5,1 | 5,2 |
-| Córners totales 2ª parte | 5,1 | 3,8 | 5,2 | 6,0 |
-| Más de 8,5 córners | 27% | 20% | 64% | 83% |
-| Más de 9,5 córners | 27% | 20% | 57% | 83% |
-| Más de 10,5 córners | 27% | 20% | 43% | 50% |
-| Faltas cometidas | 12,8 | 14,2 | 10,4 | 10,0 |
-| Faltas recibidas | 13,6 | 12,8 | 11,8 | 8,7 |
-| Amarillas propias | 2,5 | 2,6 | 1,9 | 1,2 |
-| Amarillas del rival | 2,0 | 1,6 | 2,4 | 1,3 |
+| Córners en contra | 4,3 | 3,4 | 5,1 | 5,9 |
+| Córners a favor 1ª parte | 1,5 | 2,0 | 3,1 | 2,7 |
+| Córners a favor 2ª parte | 3,0 | 2,4 | 2,0 | 2,0 |
+| Córners totales del partido | 8,8 | 7,8 | 10,1 | 10,6 |
+| Córners totales 1ª parte | 3,7 | 4,0 | 5,0 | 4,9 |
+| Córners totales 2ª parte | 5,1 | 3,8 | 5,1 | 5,7 |
+| Más de 8,5 córners | 27% | 20% | 60% | 71% |
+| Más de 9,5 córners | 27% | 20% | 53% | 71% |
+| Más de 10,5 córners | 27% | 20% | 40% | 43% |
+| Faltas cometidas | 12,8 | 14,2 | 10,6 | 10,4 |
+| Faltas recibidas | 13,6 | 12,8 | 12,0 | 9,6 |
+| Amarillas propias | 2,5 | 2,6 | 2,0 | 1,6 |
+| Amarillas del rival | 2,0 | 1,6 | 2,5 | 1,7 |
 | Rojas / partido | 0,09 | 0,00 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -102,10 +102,10 @@ _Actualizadas: 04/11 08:23_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 3 | 2 | 1 | 2 | 0 |
 | 16-30' | 3 | 4 | 3 | 1 | 2 | 2 |
-| 31-45' | 2 | 4 | 7 | 10 | 3 | 3 |
-| 46-60' | 2 | 0 | 2 | 6 | 5 | 5 |
-| 61-75' | 4 | 4 | 8 | 3 | 4 | 6 |
-| 76-90' | 6 | 4 | 9 | 4 | 3 | 11 |
+| 31-45' | 2 | 4 | 7 | 10 | 3 | 4 |
+| 46-60' | 2 | 0 | 2 | 6 | 6 | 5 |
+| 61-75' | 4 | 4 | 8 | 4 | 5 | 7 |
+| 76-90' | 6 | 4 | 9 | 4 | 3 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,74 +157,74 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Betis
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Champions League | Borussia Dortmund 2-1 Real Betis | fuera | 5-2 | 11 (4) - 15 (6) | 4-4 |
 | 2026-10-31 | LaLiga | Real Betis 2-1 Malaga | casa | 10-3 | 23 (6) - 10 (4) | 2-2 |
 | 2026-10-25 | LaLiga | Celta Vigo 0-0 Real Betis | fuera | 4-3 | 15 (2) - 12 (4) | 1-2 |
 | 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | casa | 4-4 | 23 (10) - 12 (2) | 1-2 |
 | 2026-10-17 | LaLiga | Real Betis 2-5 Barcelona | casa | 2-5 | 6 (5) - 18 (10) | 3-2 |
 | 2026-10-14 | Champions League | Real Betis 3-2 FC Porto | casa | 5-1 | 17 (7) - 11 (5) | 4-3 |
-| 2026-10-11 | LaLiga | Real Betis 5-2 Osasuna | casa | 8-4 | 20 (7) - 11 (5) | 2-5 |
 
 ## Jugadores de Real Betis
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Álvaro Vallés | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Natan | D | 12 | 1051 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 3 | 6 | 0,5 | 3 | 0 |
-| Fran García | D | 12 | 940 | 0 | 2 | 3 | 0,2 | 1 | 0,1 | 6 | 11 | 0,9 | 1 | 0 |
+| Álvaro Vallés | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Natan | D | 13 | 1141 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 4 | 7 | 0,5 | 4 | 0 |
+| Fran García | D | 13 | 960 | 0 | 2 | 3 | 0,2 | 1 | 0,1 | 6 | 11 | 0,8 | 1 | 0 |
+| Antony | M | 14 | 934 | 0 | 1 | 32 | 2,3 | 16 | 1,1 | 12 | 14 | 1,0 | 0 | 0 |
 | Héctor Bellerín | D | 12 | 929 | 0 | 1 | 5 | 0,4 | 3 | 0,2 | 8 | 3 | 0,2 | 2 | 0 |
-| Marc Roca | M | 11 | 886 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 18 | 9 | 0,8 | 3 | 0 |
+| Marc Roca | M | 12 | 898 | 0 | 1 | 8 | 0,7 | 2 | 0,2 | 18 | 10 | 0,8 | 3 | 0 |
 | Pablo Fornals | M | 13 | 876 | 1 | 2 | 17 | 1,3 | 3 | 0,2 | 10 | 8 | 0,6 | 0 | 0 |
-| Antony | F | 13 | 872 | 0 | 1 | 31 | 2,4 | 16 | 1,2 | 11 | 13 | 1,0 | 0 | 0 |
-| A. Ezzalzouli | M | 10 | 783 | 4 | 0 | 28 | 2,8 | 10 | 1,0 | 7 | 16 | 1,6 | 1 | 0 |
-| Isco | M | 13 | 759 | 4 | 2 | 18 | 1,4 | 13 | 1,0 | 12 | 18 | 1,4 | 0 | 0 |
+| A. Ezzalzouli | M | 11 | 873 | 4 | 1 | 30 | 2,7 | 11 | 1,0 | 9 | 19 | 1,7 | 1 | 0 |
+| Isco | M | 14 | 787 | 4 | 2 | 18 | 1,3 | 13 | 0,9 | 14 | 19 | 1,4 | 1 | 0 |
 | Marc Bartra | D | 10 | 715 | 4 | 0 | 14 | 1,4 | 9 | 0,9 | 1 | 3 | 0,3 | 0 | 0 |
+| F. Bernal | M | 11 | 620 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 12 | 6 | 0,5 | 3 | 1 |
+| T. Parrott | F | 12 | 619 | 2 | 1 | 13 | 1,1 | 5 | 0,4 | 5 | 7 | 0,6 | 0 | 0 |
 | Cucho Hernández | F | 10 | 617 | 3 | 2 | 12 | 1,2 | 8 | 0,8 | 5 | 8 | 0,8 | 1 | 0 |
+| N. Deossa | M | 15 | 611 | 0 | 1 | 24 | 1,6 | 7 | 0,5 | 15 | 14 | 0,9 | 2 | 0 |
 | Rodrigo Riquelme | M | 13 | 576 | 2 | 1 | 11 | 0,8 | 5 | 0,4 | 7 | 13 | 1,0 | 1 | 0 |
-| Facundo Bernal | M | 10 | 542 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 11 | 5 | 0,5 | 3 | 1 |
-| T. Parrott | F | 11 | 541 | 2 | 1 | 13 | 1,2 | 5 | 0,5 | 5 | 7 | 0,6 | 0 | 0 |
-| N. Deossa | M | 14 | 521 | 0 | 1 | 21 | 1,5 | 6 | 0,4 | 14 | 10 | 0,7 | 2 | 0 |
-| V. Gómez | D | 6 | 467 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 5 | 3 | 0,5 | 1 | 0 |
-| Diego Llorente | D | 5 | 377 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 2 | 0 |
-| Ángel Ortiz | D | 7 | 331 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 2 | 0,3 | 2 | 0 |
-| Dani Ceballos | M | 9 | 291 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 12 | 1,3 | 1 | 0 |
+| V. Gómez | D | 7 | 537 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 3 | 0,4 | 2 | 0 |
+| Diego Llorente | D | 6 | 467 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,3 | 2 | 0 |
+| Ángel Ortiz | D | 8 | 421 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 7 | 2 | 0,2 | 3 | 0 |
+| Dani Ceballos | M | 10 | 353 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 14 | 1,4 | 1 | 0 |
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,41 · visitante 1,63 · córners esperados 9,5._
+_Goles esperados: local 1,43 · visitante 1,62 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 45% | 44% | 2.10 | -8% |
+| 1X2: 2 | 42% | 45% | 44% | 2.10 | -8% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 33% | 29% | 31% | 3.30 | +2% |
-| Doble oportunidad: X2 | 67% | 70% | 68% | 1.36 | -7% |
+| 1X2: 1 | 34% | 29% | 31% | 3.30 | +3% |
+| Doble oportunidad: X2 | 66% | 70% | 68% | 1.36 | -7% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 57% | 55% | 56% | 1.73 | -3% |
+| Doble oportunidad: 1X | 58% | 55% | 57% | 1.73 | -2% |
 | Ambos marcan: No | 39% | 41% | 40% | 2.25 | -10% |
 | Ambos marcan: Sí | 61% | 59% | 60% | 1.57 | -6% |
 | Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
-| Goles más/menos: Más de 2.5 | 59% | 57% | 58% | 1.67 | -4% |
-| Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -5% |
+| Goles más/menos: Más de 2.5 | 59% | 57% | 58% | 1.67 | -3% |
+| Goles más/menos: Más de 3.5 | 37% | 36% | 36% | 2.62 | -4% |
 | Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -9% |
-| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -9% |
+| Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -10% |
 | Goles más/menos: Menos de 2.5 | 41% | 43% | 42% | 2.20 | -7% |
-| Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
+| Goles más/menos: Menos de 3.5 | 63% | 64% | 64% | 1.50 | -5% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles del local: Más de 0.5 | 76% | 72% | 74% | 1.30 | -4% |
-| Goles del local: Más de 1.5 | 41% | 38% | 39% | 2.50 | -1% |
+| Goles del local: Más de 0.5 | 76% | 72% | 74% | 1.30 | -3% |
+| Goles del local: Más de 1.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del local: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles del local: Menos de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
+| Goles del local: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
 | Goles del visitante: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles del visitante: Más de 2.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles del visitante: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles del visitante: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -5% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
-| 1X2 descanso: 2 | 33% | 35% | 34% | 2.62 | -10% |
+| Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
+| 1X2 descanso: 2 | 33% | 35% | 34% | 2.62 | -11% |
 | 1X2 descanso: X | 39% | 39% | 39% | 2.38 | -7% |
-| 1X2 descanso: 1 | 27% | 26% | 27% | 3.60 | -4% |
+| 1X2 descanso: 1 | 28% | 26% | 27% | 3.60 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

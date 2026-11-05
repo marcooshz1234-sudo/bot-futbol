@@ -1,7 +1,7 @@
 # Las Palmas – Eldense
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -183,7 +183,7 @@ _Sin precedentes recientes._
 | Javier Olaizola | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,14 · córners esperados 10,0._
+_Goles esperados: local 1,37 · visitante 1,15 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -191,7 +191,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 31% | 29% | 30% | 3.25 | -3% |
 | 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 42% | 44% | 43% | 2.10 | -9% |
+| 1X2: 1 | 42% | 44% | 43% | 2.10 | -10% |
 | Doble oportunidad: X2 | 58% | 56% | 57% | 1.70 | -3% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 69% | 71% | 70% | 1.33 | -7% |
@@ -200,7 +200,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 72% | 77% | 74% | 1.22 | -10% |
 | Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -11% |
 | Goles más/menos: Más de 3.5 | 25% | 34% | 29% | 2.75 | -20% |
-| Goles más/menos: Menos de 1.5 | 28% | 23% | 26% | 4.00 | +4% |
+| Goles más/menos: Menos de 1.5 | 28% | 23% | 26% | 4.00 | +3% |
 | Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +1% |
 | Goles más/menos: Menos de 3.5 | 75% | 66% | 71% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
@@ -211,9 +211,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
 | Goles del local: Más de 2.5 | 16% | 23% | 20% | 4.00 | -21% |
 | Goles del local: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles del local: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +1% |
+| Goles del local: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
 | Goles del local: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del visitante: Más de 0.5 | 68% | 71% | 70% | 1.33 | -8% |
+| Goles del visitante: Más de 0.5 | 68% | 71% | 70% | 1.33 | -7% |
 | Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
 | Goles del visitante: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
 | Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
@@ -221,6 +221,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 51% | 48% | 49% | 1.98 | -2% |
 | 1X2 descanso: 2 | 25% | 25% | 25% | 3.75 | -7% |
 | 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 31% | 34% | 33% | 2.75 | -11% |
+| 1X2 descanso: 1 | 31% | 34% | 32% | 2.75 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -201,27 +201,27 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 69% | 55% | 62% | 1.73 | +7% |
 | Doble oportunidad: 12 | 72% | 73% | 72% | 1.30 | -6% |
 | Doble oportunidad: 1X | 59% | 73% | 66% | 1.30 | -14% |
-| Ambos marcan: No | 52% | 47% | 49% | 2.00 | -1% |
-| Ambos marcan: Sí | 48% | 53% | 51% | 1.75 | -12% |
+| Ambos marcan: No | 52% | 47% | 50% | 2.00 | -1% |
+| Ambos marcan: Sí | 48% | 53% | 50% | 1.75 | -12% |
 | Goles más/menos: Más de 1.5 | 68% | 75% | 72% | 1.25 | -10% |
 | Goles más/menos: Más de 2.5 | 42% | 50% | 46% | 1.90 | -13% |
 | Goles más/menos: Más de 3.5 | 21% | 29% | 25% | 3.25 | -18% |
 | Goles más/menos: Menos de 1.5 | 32% | 25% | 28% | 3.75 | +6% |
 | Goles más/menos: Menos de 2.5 | 58% | 50% | 54% | 1.90 | +3% |
-| Goles más/menos: Menos de 3.5 | 79% | 71% | 75% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 33% | 3.00 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles más/menos: Menos de 3.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 31% | 2.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 69% | 1.40 | -3% |
 | Goles del local: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del local: Más de 1.5 | 29% | 46% | 38% | 2.00 | -24% |
-| Goles del local: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
+| Goles del local: Más de 2.5 | 9% | 22% | 16% | 4.33 | -33% |
 | Goles del local: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +15% |
-| Goles del local: Menos de 1.5 | 71% | 54% | 62% | 1.73 | +7% |
-| Goles del local: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles del local: Menos de 1.5 | 71% | 54% | 62% | 1.73 | +8% |
+| Goles del local: Menos de 2.5 | 91% | 78% | 84% | 1.20 | +1% |
 | Goles del visitante: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del visitante: Más de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles del visitante: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles del visitante: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles del visitante: Menos de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Córners más/menos: Más de 8.5 | 51% | 51% | 51% | 1.80 | -7% |
 | Córners más/menos: Menos de 8.5 | 49% | 49% | 49% | 1.91 | -7% |

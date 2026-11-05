@@ -1,7 +1,7 @@
 # Celta Vigo – Levante
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -189,23 +189,23 @@ _Sin bajas comunicadas por ahora._
 | Hugo Sotelo | M | 4 | 99 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,13 · visitante 1,07 · córners esperados 8,7._
+_Goles esperados: local 1,13 · visitante 1,08 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 21% | 28% | 4.50 | +24% |
 | 1X2: X | 29% | 26% | 28% | 3.60 | -0% |
-| 1X2: 1 | 37% | 53% | 45% | 1.80 | -19% |
+| 1X2: 1 | 37% | 53% | 45% | 1.80 | -20% |
 | Doble oportunidad: X2 | 63% | 49% | 56% | 1.91 | +7% |
 | Doble oportunidad: 12 | 71% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 66% | 77% | 72% | 1.22 | -13% |
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 76% | 70% | 1.25 | -12% |
-| Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -19% |
+| Goles más/menos: Más de 2.5 | 38% | 53% | 45% | 1.80 | -18% |
 | Goles más/menos: Más de 3.5 | 18% | 30% | 24% | 3.20 | -23% |
 | Goles más/menos: Menos de 1.5 | 35% | 24% | 30% | 4.00 | +18% |
-| Goles más/menos: Menos de 2.5 ✅ | 62% | 47% | 55% | 2.00 | +10% |
+| Goles más/menos: Menos de 2.5 ✅ | 62% | 47% | 55% | 2.00 | +9% |
 | Goles más/menos: Menos de 3.5 | 82% | 70% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 35% | 30% | 2.62 | -21% |
@@ -217,7 +217,7 @@ _Goles esperados: local 1,13 · visitante 1,07 · córners esperados 8,7._
 | Goles del local: Menos de 2.5 | 89% | 73% | 81% | 1.28 | +4% |
 | Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Goles del visitante: Más de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -10% |
+| Goles del visitante: Menos de 0.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles del visitante: Menos de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Córners más/menos: Más de 8.5 | 47% | 47% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 8.5 | 53% | 53% | 53% | 1.80 | -5% |

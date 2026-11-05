@@ -1,7 +1,7 @@
 # Sunderland – Chelsea
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -218,8 +218,8 @@ _Goles esperados: local 1,53 · visitante 2,01 · córners esperados 10,1._
 |---|---|---|---|---|---|
 | 1X2: 2 | 49% | 47% | 48% | 2.00 | -4% |
 | 1X2: X | 22% | 26% | 24% | 3.60 | -14% |
-| 1X2: 1 | 29% | 26% | 28% | 3.60 | +0% |
-| Doble oportunidad: X2 | 71% | 74% | 72% | 1.28 | -8% |
+| 1X2: 1 | 30% | 26% | 28% | 3.60 | +0% |
+| Doble oportunidad: X2 | 70% | 74% | 72% | 1.28 | -8% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 51% | 52% | 52% | 1.80 | -7% |
 | Ambos marcan: No | 32% | 45% | 39% | 2.05 | -21% |

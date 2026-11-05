@@ -1,10 +1,10 @@
 # Charlton – Sheffield Utd
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **3.30**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.33**
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | F. Seriki | D | 7 | 373 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 10 | 1,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 1,32 · córners esperados 9,6._
+_Goles esperados: local 0,93 · visitante 1,33 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -200,10 +200,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 46% | 45% | 45% | 2.05 | -7% |
 | 1X2: X | 28% | 27% | 28% | 3.40 | -6% |
-| 1X2: 1 | 26% | 28% | 27% | 3.30 | -10% |
+| 1X2: 1 | 26% | 28% | 27% | 3.30 | -11% |
 | Doble oportunidad: X2 | 74% | 72% | 73% | 1.33 | -3% |
 | Doble oportunidad: 12 | 72% | 73% | 73% | 1.30 | -6% |
-| Doble oportunidad: 1X | 54% | 55% | 55% | 1.73 | -5% |
+| Doble oportunidad: 1X | 54% | 55% | 55% | 1.73 | -6% |
 | Ambos marcan: No | 56% | 46% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 44% | 54% | 49% | 1.73 | -15% |
 | Goles más/menos: Más de 1.5 | 66% | 75% | 70% | 1.28 | -10% |
@@ -216,20 +216,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 0.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del local: Más de 0.5 | 60% | 69% | 65% | 1.36 | -12% |
 | Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 0.5 | 39% | 31% | 35% | 3.00 | +6% |
+| Goles del local: Menos de 0.5 | 40% | 31% | 35% | 3.00 | +6% |
 | Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del visitante: Más de 1.5 | 38% | 46% | 42% | 2.00 | -16% |
+| Goles del visitante: Más de 0.5 | 73% | 77% | 75% | 1.22 | -8% |
+| Goles del visitante: Más de 1.5 | 38% | 46% | 42% | 2.00 | -15% |
 | Goles del visitante: Más de 2.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles del visitante: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +0% |
-| Goles del visitante: Menos de 1.5 | 62% | 54% | 58% | 1.73 | +0% |
+| Goles del visitante: Menos de 0.5 | 27% | 23% | 25% | 4.00 | -0% |
+| Goles del visitante: Menos de 1.5 | 62% | 54% | 58% | 1.73 | -0% |
 | Goles del visitante: Menos de 2.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Córners más/menos: Más de 10.5 | 38% | 46% | 42% | 2.00 | -16% |
-| Córners más/menos: Menos de 10.5 | 62% | 54% | 58% | 1.73 | +0% |
-| 1X2 descanso: 2 | 32% | 34% | 33% | 2.75 | -9% |
-| 1X2 descanso: X | 47% | 42% | 44% | 2.20 | -2% |
+| Córners más/menos: Menos de 10.5 | 62% | 54% | 58% | 1.73 | -0% |
+| 1X2 descanso: 2 | 33% | 34% | 33% | 2.75 | -9% |
+| 1X2 descanso: X | 47% | 42% | 44% | 2.20 | -3% |
 | 1X2 descanso: 1 | 21% | 25% | 23% | 3.75 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

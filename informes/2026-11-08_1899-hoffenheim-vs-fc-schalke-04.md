@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Schalke 04
 **Bundesliga** · Regular Season - 9 · 08/11/2026 19:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -192,24 +192,24 @@ _Sin bajas comunicadas por ahora._
 | Adrian Gantenbein | M | 2 | 139 | 0 | 1 | 1 | 0,5 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,74 · visitante 0,96 · córners esperados 10,3._
+_Goles esperados: local 1,75 · visitante 0,96 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 21% | 19% | 20% | 5.00 | -1% |
 | 1X2: X | 24% | 22% | 23% | 4.33 | -1% |
 | 1X2: 1 | 56% | 59% | 57% | 1.62 | -7% |
-| Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -3% |
+| Doble oportunidad: X2 | 44% | 42% | 43% | 2.25 | -4% |
 | Doble oportunidad: 12 | 76% | 78% | 77% | 1.20 | -7% |
 | Doble oportunidad: 1X | 79% | 80% | 80% | 1.17 | -7% |
 | Ambos marcan: No | 49% | 39% | 44% | 2.38 | +5% |
-| Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -15% |
+| Ambos marcan: Sí | 51% | 61% | 56% | 1.53 | -14% |
 | Goles más/menos: Más de 2.5 | 51% | 64% | 57% | 1.50 | -14% |
 | Goles más/menos: Más de 3.5 | 29% | 43% | 36% | 2.20 | -21% |
 | Goles más/menos: Más de 4.5 | 14% | 24% | 19% | 4.00 | -25% |
 | Goles más/menos: Menos de 2.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
 | Goles más/menos: Menos de 3.5 | 71% | 57% | 64% | 1.67 | +7% |
-| Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +2% |
+| Goles más/menos: Menos de 4.5 | 86% | 76% | 81% | 1.25 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -27% |
@@ -217,9 +217,9 @@ _Goles esperados: local 1,74 · visitante 0,96 · córners esperados 10,3._
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Goles del local: Más de 1.5 | 52% | 62% | 57% | 1.50 | -14% |
-| Goles del local: Más de 2.5 | 25% | 38% | 31% | 2.50 | -21% |
+| Goles del local: Más de 2.5 | 26% | 38% | 32% | 2.50 | -21% |
 | Goles del local: Menos de 1.5 ✅ | 48% | 38% | 43% | 2.50 | +7% |
-| Goles del local: Menos de 2.5 | 75% | 62% | 69% | 1.50 | +3% |
+| Goles del local: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +3% |
 | Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |

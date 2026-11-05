@@ -1,7 +1,7 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | A. Barišić | D | 4 | 302 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,49 · visitante 1,62 · córners esperados 9,3._
+_Goles esperados: local 0,49 · visitante 1,61 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -209,9 +209,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 65% | 47% | 56% | 2.00 | +12% |
 | Goles más/menos: Menos de 3.5 | 84% | 69% | 76% | 1.36 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 35% | 30% | 2.62 | -23% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 35% | 29% | 2.62 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 29% | 34% | 3.25 | +12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
 | Goles del local: Más de 0.5 | 39% | 58% | 48% | 1.62 | -22% |
 | Goles del local: Más de 1.5 | 9% | 22% | 15% | 4.33 | -34% |
 | Goles del local: Menos de 0.5 | 61% | 42% | 52% | 2.20 | +14% |
@@ -222,7 +222,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 78% | 69% | 73% | 1.36 | -0% |
 | Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.95 | -11% |
 | Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.85 | +0% |
-| 1X2 descanso: 2 | 44% | 45% | 45% | 2.05 | -9% |
+| 1X2 descanso: 2 | 44% | 45% | 44% | 2.05 | -9% |
 | 1X2 descanso: X | 46% | 39% | 43% | 2.38 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

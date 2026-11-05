@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -193,8 +193,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 19% | 20% | 5.00 | +1% |
 | 1X2: X | 26% | 25% | 25% | 3.70 | -6% |
-| 1X2: 1 | 53% | 56% | 54% | 1.65 | -10% |
-| Doble oportunidad: X2 | 47% | 45% | 46% | 2.10 | -3% |
+| 1X2: 1 | 52% | 56% | 54% | 1.65 | -10% |
+| Doble oportunidad: X2 | 48% | 45% | 46% | 2.10 | -3% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 78% | 81% | 79% | 1.18 | -6% |
 | Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 22% | 28% | 25% | 3.40 | -15% |
 | Goles más/menos: Menos de 1.5 | 31% | 27% | 29% | 3.50 | +0% |
 | Goles más/menos: Menos de 2.5 | 57% | 51% | 54% | 1.85 | -0% |
-| Goles más/menos: Menos de 3.5 | 78% | 72% | 75% | 1.30 | -2% |
+| Goles más/menos: Menos de 3.5 | 78% | 72% | 75% | 1.30 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Goles del local: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -4% |
+| Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles del local: Menos de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles del visitante: Más de 0.5 | 59% | 58% | 58% | 1.62 | -6% |

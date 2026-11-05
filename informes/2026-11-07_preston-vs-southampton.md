@@ -1,10 +1,10 @@
 # Preston – Southampton
-**Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Deepdale
+**Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Deepdale Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **4.33**  ·  X **3.90**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | C. Jander | M | 3 | 176 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 5 | 1,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,02 · visitante 2,30 · córners esperados 9,7._
+_Goles esperados: local 1,01 · visitante 2,30 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -200,10 +200,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 66% | 55% | 60% | 1.70 | +3% |
 | 1X2: X | 19% | 24% | 21% | 3.90 | -17% |
-| 1X2: 1 | 15% | 21% | 18% | 4.33 | -20% |
+| 1X2: 1 | 15% | 21% | 18% | 4.33 | -21% |
 | Doble oportunidad: X2 | 85% | 81% | 83% | 1.18 | -2% |
 | Doble oportunidad: 12 | 81% | 78% | 80% | 1.22 | -3% |
-| Doble oportunidad: 1X | 34% | 41% | 38% | 2.30 | -13% |
+| Doble oportunidad: 1X | 34% | 41% | 38% | 2.30 | -14% |
 | Ambos marcan: No | 43% | 41% | 42% | 2.25 | -6% |
 | Ambos marcan: Sí | 57% | 59% | 58% | 1.57 | -9% |
 | Goles más/menos: Más de 2.5 | 64% | 59% | 62% | 1.62 | -0% |
@@ -227,7 +227,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 11.5 | 31% | 46% | 39% | 2.00 | -22% |
 | Córners más/menos: Menos de 11.5 | 69% | 54% | 61% | 1.73 | +6% |
 | 1X2 descanso: 2 | 49% | 42% | 45% | 2.20 | +0% |
-| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: 1 | 16% | 21% | 18% | 4.50 | -17% |
+| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -9% |
+| 1X2 descanso: 1 | 16% | 21% | 18% | 4.50 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

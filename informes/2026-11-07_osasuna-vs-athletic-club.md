@@ -1,10 +1,10 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **3.60**  ·  X **3.50**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.30**  ·  X2 **1.30**
@@ -188,12 +188,12 @@ _Sin bajas comunicadas por ahora._
 | Dani Vivian | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,83 · córners esperados 10,0._
+_Goles esperados: local 1,22 · visitante 1,84 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 52% | 46% | 49% | 2.05 | +1% |
-| 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
+| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
 | 1X2: 1 | 25% | 26% | 26% | 3.60 | -7% |
 | Doble oportunidad: X2 | 75% | 72% | 74% | 1.30 | -4% |
 | Doble oportunidad: 12 | 77% | 72% | 75% | 1.30 | -3% |
@@ -202,14 +202,14 @@ _Goles esperados: local 1,22 · visitante 1,83 · córners esperados 10,0._
 | Ambos marcan: Sí | 59% | 50% | 55% | 1.91 | +4% |
 | Goles más/menos: Más de 1.5 | 81% | 70% | 76% | 1.36 | +3% |
 | Goles más/menos: Más de 2.5 | 59% | 45% | 52% | 2.10 | +9% |
-| Goles más/menos: Más de 3.5 ✅ | 36% | 24% | 30% | 4.00 | +20% |
+| Goles más/menos: Más de 3.5 ✅ | 37% | 24% | 30% | 4.00 | +21% |
 | Goles más/menos: Menos de 1.5 | 19% | 30% | 24% | 3.20 | -22% |
 | Goles más/menos: Menos de 2.5 | 41% | 55% | 48% | 1.73 | -17% |
-| Goles más/menos: Menos de 3.5 | 64% | 76% | 70% | 1.25 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 31% | 35% | 3.00 | +4% |
+| Goles más/menos: Menos de 3.5 | 63% | 76% | 70% | 1.25 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 31% | 35% | 3.00 | +5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 69% | 65% | 1.36 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 69% | 65% | 1.36 | -11% |
 | Goles del local: Más de 0.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 1.5 | 34% | 29% | 32% | 3.25 | +3% |
 | Goles del local: Menos de 0.5 | 30% | 35% | 33% | 2.62 | -15% |
@@ -222,6 +222,6 @@ _Goles esperados: local 1,22 · visitante 1,83 · córners esperados 10,0._
 | Córners más/menos: Menos de 8.5 | 42% | 44% | 43% | 2.10 | -9% |
 | 1X2 descanso: 2 | 39% | 33% | 36% | 2.75 | -1% |
 | 1X2 descanso: X | 39% | 44% | 41% | 2.10 | -13% |
-| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -9% |
+| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

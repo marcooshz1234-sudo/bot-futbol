@@ -1,10 +1,10 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
@@ -62,53 +62,53 @@ _Actualizadas: 04/11 20:02_
 ## Estadísticas de equipo
 | | Blackburn (total) | Blackburn en casa | West Ham (total) | West Ham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 16 | 7 |
-| Forma (últimos 5) | DDVDV | DVVVD | DDVVE | VVEVE |
-| Balance | 6V 3E 7D | 4V 0E 4D | 8V 4E 4D | 4V 3E 0D |
-| Goles a favor / partido | 1,44 | 1,62 | 2,62 | 2,71 |
-| Goles en contra / partido | 1,56 | 1,38 | 1,44 | 1,14 |
-| Goles a favor 1ª parte | 0,62 | 0,62 | 1,12 | 1,00 |
-| Goles a favor 2ª parte | 0,81 | 1,00 | 1,50 | 1,71 |
-| Goles en contra 1ª parte | 0,88 | 0,62 | 1,00 | 0,86 |
-| Goles en contra 2ª parte | 0,69 | 0,75 | 0,44 | 0,29 |
-| Más de 1,5 goles | 88% | 100% | 94% | 86% |
-| Más de 2,5 goles | 81% | 88% | 81% | 71% |
-| Más de 3,5 goles | 31% | 12% | 69% | 71% |
-| Ambos marcan | 75% | 88% | 75% | 71% |
-| Portería a cero | 19% | 12% | 25% | 29% |
+| Partidos analizados | 16 | 8 | 17 | 8 |
+| Forma (últimos 5) | DDVDV | DVVVD | EDDVV | EVVEV |
+| Balance | 6V 3E 7D | 4V 0E 4D | 8V 5E 4D | 4V 4E 0D |
+| Goles a favor / partido | 1,44 | 1,62 | 2,65 | 2,75 |
+| Goles en contra / partido | 1,56 | 1,38 | 1,53 | 1,38 |
+| Goles a favor 1ª parte | 0,62 | 0,62 | 1,06 | 0,88 |
+| Goles a favor 2ª parte | 0,81 | 1,00 | 1,59 | 1,88 |
+| Goles en contra 1ª parte | 0,88 | 0,62 | 1,12 | 1,12 |
+| Goles en contra 2ª parte | 0,69 | 0,75 | 0,41 | 0,25 |
+| Más de 1,5 goles | 88% | 100% | 94% | 88% |
+| Más de 2,5 goles | 81% | 88% | 82% | 75% |
+| Más de 3,5 goles | 31% | 12% | 71% | 75% |
+| Ambos marcan | 75% | 88% | 76% | 75% |
+| Portería a cero | 19% | 12% | 24% | 25% |
 | Se queda sin marcar | 12% | 0% | 0% | 0% |
-| xG a favor | 1,05 | 1,51 | 2,03 | 1,78 |
-| xG en contra | 1,72 | 1,24 | 1,28 | 1,60 |
-| Tiros / partido | 12,2 | 13,9 | 16,4 | 15,6 |
-| Tiros a puerta / partido | 4,1 | 4,6 | 6,4 | 5,7 |
-| Tiros recibidos | 17,0 | 15,5 | 11,8 | 13,3 |
+| xG a favor | 1,05 | 1,51 | 2,07 | 1,90 |
+| xG en contra | 1,72 | 1,24 | 1,28 | 1,54 |
+| Tiros / partido | 12,2 | 13,9 | 16,5 | 15,9 |
+| Tiros a puerta / partido | 4,1 | 4,6 | 6,6 | 6,2 |
+| Tiros recibidos | 17,0 | 15,5 | 11,5 | 12,5 |
 | Tiros a puerta recibidos | 4,1 | 3,1 | 3,8 | 4,0 |
 | Posesión media % | 49 | 48 | 55 | 55 |
-| Córners a favor | 6,1 | 6,0 | 6,5 | 7,0 |
-| Córners en contra | 5,6 | 5,4 | 4,6 | 3,7 |
-| Córners a favor 1ª parte | 3,0 | 3,1 | 2,6 | 2,7 |
-| Córners a favor 2ª parte | 3,1 | 2,9 | 3,9 | 4,3 |
-| Córners totales del partido | 11,8 | 11,4 | 11,1 | 10,7 |
-| Córners totales 1ª parte | 5,6 | 5,1 | 4,8 | 4,3 |
+| Córners a favor | 6,1 | 6,0 | 6,5 | 6,9 |
+| Córners en contra | 5,6 | 5,4 | 4,5 | 3,8 |
+| Córners a favor 1ª parte | 3,0 | 3,1 | 2,5 | 2,5 |
+| Córners a favor 2ª parte | 3,1 | 2,9 | 4,0 | 4,4 |
+| Córners totales del partido | 11,8 | 11,4 | 11,0 | 10,6 |
+| Córners totales 1ª parte | 5,6 | 5,1 | 4,7 | 4,2 |
 | Córners totales 2ª parte | 6,2 | 6,2 | 6,3 | 6,4 |
-| Más de 8,5 córners | 88% | 88% | 75% | 57% |
-| Más de 9,5 córners | 81% | 75% | 62% | 57% |
-| Más de 10,5 córners | 62% | 50% | 56% | 57% |
-| Faltas cometidas | 11,4 | 10,5 | 10,4 | 10,9 |
-| Faltas recibidas | 11,1 | 11,2 | 10,5 | 9,9 |
-| Amarillas propias | 2,2 | 2,5 | 1,8 | 2,3 |
-| Amarillas del rival | 1,6 | 1,8 | 1,4 | 1,0 |
-| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,14 |
+| Más de 8,5 córners | 88% | 88% | 76% | 62% |
+| Más de 9,5 córners | 81% | 75% | 65% | 62% |
+| Más de 10,5 córners | 62% | 50% | 53% | 50% |
+| Faltas cometidas | 11,4 | 10,5 | 10,5 | 10,9 |
+| Faltas recibidas | 11,1 | 11,2 | 10,4 | 9,8 |
+| Amarillas propias | 2,2 | 2,5 | 1,8 | 2,4 |
+| Amarillas del rival | 1,6 | 1,8 | 1,4 | 0,9 |
+| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Blackburn | Recibe Blackburn | Tarjetas Blackburn | Goles West Ham | Recibe West Ham | Tarjetas West Ham |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 5 | 2 | 3 | 5 | 1 |
-| 16-30' | 3 | 4 | 5 | 5 | 6 | 3 |
-| 31-45' | 4 | 5 | 10 | 10 | 5 | 5 |
-| 46-60' | 8 | 4 | 4 | 6 | 2 | 3 |
-| 61-75' | 0 | 4 | 5 | 8 | 2 | 4 |
-| 76-90' | 5 | 3 | 10 | 10 | 3 | 13 |
+| 1-15' | 3 | 5 | 2 | 3 | 6 | 1 |
+| 16-30' | 3 | 4 | 5 | 5 | 6 | 5 |
+| 31-45' | 4 | 5 | 10 | 10 | 7 | 5 |
+| 46-60' | 8 | 4 | 4 | 7 | 2 | 3 |
+| 61-75' | 0 | 4 | 5 | 9 | 2 | 4 |
+| 76-90' | 5 | 3 | 10 | 11 | 3 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -158,70 +158,70 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de West Ham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Championship | Cardiff 3-3 West Ham | fuera | 6-4 | 18 (10) - 7 (4) | 3-0 |
 | 2026-10-31 | Championship | West Ham 1-3 West Brom | casa | 8-6 | 14 (5) - 12 (3) | 3-1 |
 | 2026-10-24 | Championship | West Ham 2-3 Southampton | casa | 14-6 | 28 (11) - 15 (7) | 1-2 |
 | 2026-10-17 | Championship | Swansea 0-1 West Ham | fuera | 1-6 | 9 (4) - 11 (0) | 2-0 |
 | 2026-10-14 | Championship | Lincoln 0-6 West Ham | fuera | 11-3 | 32 (12) - 5 (0) | 2-0 |
 | 2026-10-09 | Championship | West Ham 1-1 QPR | casa | 4-1 | 12 (5) - 7 (3) | 2-4 |
-| 2026-09-19 | Championship | Millwall 2-2 West Ham | fuera | 11-3 | 15 (6) - 19 (7) | 4-1 |
 
 ## Jugadores de West Ham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Kilman | D | 16 | 1449 | 1 | 0 | 12 | 0,8 | 4 | 0,2 | 12 | 5 | 0,3 | 3 | 0 |
-| J. Bowen | M | 16 | 1328 | 9 | 6 | 38 | 2,4 | 23 | 1,4 | 6 | 19 | 1,2 | 1 | 0 |
-| M. Hermansen | G | 14 | 1269 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 1 | 0 |
-| A. Engels | M | 14 | 1168 | 0 | 3 | 8 | 0,6 | 2 | 0,1 | 9 | 17 | 1,2 | 2 | 0 |
-| K. Mavropanos | D | 13 | 1127 | 5 | 1 | 18 | 1,4 | 9 | 0,7 | 11 | 11 | 0,8 | 3 | 0 |
-| M. Solomon | F | 15 | 1010 | 2 | 2 | 12 | 0,8 | 6 | 0,4 | 11 | 17 | 1,1 | 1 | 0 |
-| V. Castellanos | F | 15 | 952 | 4 | 3 | 33 | 2,2 | 15 | 1,0 | 19 | 13 | 0,9 | 4 | 0 |
-| M. Kanté | F | 15 | 910 | 3 | 3 | 16 | 1,1 | 6 | 0,4 | 20 | 5 | 0,3 | 1 | 1 |
+| M. Kilman | D | 17 | 1539 | 2 | 0 | 13 | 0,8 | 5 | 0,3 | 16 | 5 | 0,3 | 4 | 0 |
+| J. Bowen | M | 17 | 1418 | 9 | 8 | 40 | 2,4 | 24 | 1,4 | 6 | 20 | 1,2 | 1 | 0 |
+| M. Hermansen | G | 15 | 1359 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 1 | 0 |
+| A. Engels | M | 15 | 1258 | 1 | 3 | 9 | 0,6 | 3 | 0,2 | 10 | 18 | 1,2 | 2 | 0 |
+| K. Mavropanos | D | 14 | 1217 | 5 | 1 | 20 | 1,4 | 9 | 0,6 | 11 | 12 | 0,9 | 3 | 0 |
+| M. Solomon | M | 16 | 1079 | 2 | 2 | 14 | 0,9 | 6 | 0,4 | 11 | 18 | 1,1 | 1 | 0 |
+| V. Castellanos | F | 16 | 997 | 4 | 3 | 35 | 2,2 | 17 | 1,1 | 19 | 14 | 0,9 | 4 | 0 |
+| D. Mukasa | M | 14 | 971 | 4 | 1 | 14 | 1,0 | 6 | 0,4 | 7 | 8 | 0,6 | 2 | 0 |
+| M. Kanté | M | 16 | 955 | 3 | 3 | 17 | 1,1 | 7 | 0,4 | 20 | 6 | 0,4 | 1 | 1 |
 | K. Walker-Peters | D | 13 | 887 | 1 | 2 | 3 | 0,2 | 3 | 0,2 | 14 | 9 | 0,7 | 1 | 0 |
-| D. Mukasa | M | 13 | 881 | 3 | 1 | 13 | 1,0 | 5 | 0,4 | 7 | 8 | 0,6 | 2 | 0 |
+| J. Piroe | F | 15 | 678 | 3 | 2 | 21 | 1,4 | 10 | 0,7 | 7 | 5 | 0,3 | 0 | 0 |
 | Pablo | F | 11 | 671 | 2 | 2 | 15 | 1,4 | 7 | 0,6 | 16 | 16 | 1,5 | 2 | 0 |
-| J. Piroe | F | 14 | 633 | 3 | 1 | 19 | 1,4 | 9 | 0,6 | 5 | 4 | 0,3 | 0 | 0 |
-| Morato | D | 10 | 612 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 9 | 6 | 0,6 | 2 | 0 |
+| J. Veltman | D | 13 | 669 | 0 | 2 | 1 | 0,1 | 1 | 0,1 | 5 | 11 | 0,8 | 2 | 0 |
+| Morato | D | 11 | 657 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 10 | 6 | 0,5 | 2 | 0 |
 | O. Scarles | D | 10 | 590 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 3 | 0,3 | 2 | 0 |
-| J. Veltman | D | 12 | 581 | 0 | 2 | 1 | 0,1 | 1 | 0,1 | 4 | 9 | 0,8 | 1 | 0 |
 | Lewis Orford | M | 11 | 514 | 0 | 2 | 4 | 0,4 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
-| E. Austbö | M | 9 | 321 | 2 | 2 | 8 | 0,9 | 5 | 0,6 | 3 | 1 | 0,1 | 0 | 0 |
+| E. Austbö | F | 10 | 342 | 2 | 2 | 10 | 1,0 | 6 | 0,6 | 3 | 1 | 0,1 | 0 | 0 |
 | A. Golambeckis | D | 4 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
 | F. Herrick | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| T. Souček | M | 5 | 127 | 3 | 0 | 5 | 1,0 | 3 | 0,6 | 2 | 2 | 0,4 | 0 | 0 |
+| Ezra Mayers | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 2,53 · córners esperados 10,4._
+_Goles esperados: local 1,37 · visitante 2,55 · córners esperados 10,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 63% | 58% | 60% | 1.60 | -3% |
-| 1X2: X | 18% | 23% | 21% | 4.00 | -17% |
-| 1X2: 1 | 19% | 19% | 19% | 5.00 | -5% |
+| 1X2: 2 | 63% | 58% | 61% | 1.60 | -3% |
+| 1X2: X | 18% | 23% | 21% | 4.00 | -18% |
+| 1X2: 1 | 19% | 19% | 19% | 5.00 | -6% |
 | Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -5% |
 | Doble oportunidad: 12 | 82% | 78% | 80% | 1.22 | -3% |
 | Doble oportunidad: 1X | 37% | 41% | 39% | 2.30 | -10% |
 | Ambos marcan: No | 31% | 42% | 37% | 2.20 | -19% |
 | Ambos marcan: Sí | 69% | 58% | 63% | 1.62 | +2% |
 | Goles más/menos: Más de 2.5 | 75% | 59% | 67% | 1.62 | +8% |
-| Goles más/menos: Más de 3.5 | 55% | 40% | 47% | 2.38 | +12% |
-| Goles más/menos: Más de 4.5 | 35% | 22% | 29% | 4.33 | +23% |
-| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -23% |
+| Goles más/menos: Más de 3.5 | 55% | 40% | 47% | 2.38 | +13% |
+| Goles más/menos: Más de 4.5 | 36% | 22% | 29% | 4.33 | +25% |
+| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -24% |
 | Goles más/menos: Menos de 3.5 | 45% | 60% | 53% | 1.57 | -17% |
-| Goles más/menos: Menos de 4.5 | 65% | 78% | 71% | 1.22 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 77% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 23% | 3.50 | -21% |
+| Goles más/menos: Menos de 4.5 | 64% | 78% | 71% | 1.22 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 78% | 1.28 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 51% | 41% | 46% | 2.25 | +4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 22% | 3.50 | -21% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 49% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Más de 0.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Goles del local: Más de 1.5 | 40% | 29% | 34% | 3.25 | +12% |
 | Goles del local: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -20% |
 | Goles del local: Menos de 1.5 | 60% | 71% | 66% | 1.33 | -13% |
-| Goles del visitante: Más de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
-| Goles del visitante: Más de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles del visitante: Menos de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
-| Goles del visitante: Menos de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Goles del visitante: Más de 1.5 | 72% | 61% | 67% | 1.53 | +2% |
+| Goles del visitante: Más de 2.5 | 47% | 35% | 41% | 2.62 | +8% |
+| Goles del visitante: Menos de 1.5 | 28% | 39% | 33% | 2.38 | -20% |
+| Goles del visitante: Menos de 2.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Córners más/menos: Más de 11.5 | 37% | 46% | 42% | 2.00 | -17% |
 | Córners más/menos: Menos de 11.5 | 63% | 54% | 58% | 1.73 | +1% |
 | 1X2 descanso: 2 | 48% | 44% | 46% | 2.10 | -3% |

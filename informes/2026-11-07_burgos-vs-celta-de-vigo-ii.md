@@ -1,10 +1,10 @@
 # Burgos – Celta de Vigo II
-**Segunda División** · Regular Season - 13 · 07/11/2026 14:00 (hora España)
+**Segunda División** · Regular Season - 13 · 07/11/2026 14:00 (hora España) · Municipal El Plantio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.70**  ·  X **3.50**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.00**
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | Alexis Olmedo | D | 4 | 169 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 1,08 · córners esperados 9,3._
+_Goles esperados: local 1,92 · visitante 1,09 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -195,13 +195,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 43% | 46% | 45% | 2.00 | -10% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 79% | 79% | 79% | 1.17 | -7% |
-| Ambos marcan: No | 44% | 50% | 47% | 1.83 | -14% |
-| Ambos marcan: Sí | 56% | 50% | 53% | 1.83 | -3% |
+| Ambos marcan: No | 43% | 50% | 47% | 1.83 | -15% |
+| Ambos marcan: Sí | 57% | 50% | 53% | 1.83 | -2% |
 | Goles más/menos: Más de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles más/menos: Más de 2.5 | 58% | 49% | 53% | 1.95 | +4% |
 | Goles más/menos: Más de 3.5 | 35% | 29% | 32% | 3.25 | +5% |
-| Goles más/menos: Menos de 1.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles más/menos: Menos de 2.5 | 42% | 51% | 47% | 1.85 | -13% |
+| Goles más/menos: Menos de 1.5 | 20% | 27% | 23% | 3.50 | -19% |
+| Goles más/menos: Menos de 2.5 | 42% | 51% | 47% | 1.85 | -14% |
 | Goles más/menos: Menos de 3.5 | 65% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 34% | 36% | 2.75 | -2% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -9% |
 | Goles del local: Menos de 2.5 | 70% | 69% | 69% | 1.36 | -6% |
 | Goles del visitante: Más de 0.5 | 66% | 56% | 61% | 1.67 | +2% |
-| Goles del visitante: Más de 1.5 | 30% | 21% | 25% | 4.50 | +13% |
+| Goles del visitante: Más de 1.5 | 30% | 21% | 25% | 4.50 | +14% |
 | Goles del visitante: Menos de 0.5 | 34% | 44% | 39% | 2.10 | -18% |
 | Goles del visitante: Menos de 1.5 | 70% | 79% | 75% | 1.18 | -12% |
 | Córners más/menos: Más de 8.5 | 52% | 53% | 52% | 1.80 | -6% |

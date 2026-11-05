@@ -1,10 +1,10 @@
 # RB Leipzig – FC Augsburg
-**Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Red Bull Arena
+**Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.45**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.62**
@@ -62,53 +62,53 @@ _Actualizadas: 04/11 14:09_
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | FC Augsburg (total) | FC Augsburg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 10 | 5 |
-| Forma (últimos 5) | VVVDD | VVVVV | DVEDE | VDDVV |
-| Balance | 8V 0E 5D | 5V 0E 0D | 4V 3E 3D | 3V 0E 2D |
-| Goles a favor / partido | 2,54 | 3,80 | 2,40 | 3,00 |
-| Goles en contra / partido | 1,54 | 0,00 | 1,70 | 2,00 |
-| Goles a favor 1ª parte | 0,85 | 1,40 | 0,70 | 0,80 |
-| Goles a favor 2ª parte | 1,69 | 2,40 | 1,70 | 2,20 |
-| Goles en contra 1ª parte | 0,69 | 0,00 | 0,60 | 1,00 |
-| Goles en contra 2ª parte | 0,85 | 0,00 | 1,10 | 1,00 |
-| Más de 1,5 goles | 92% | 80% | 100% | 100% |
-| Más de 2,5 goles | 77% | 80% | 80% | 80% |
-| Más de 3,5 goles | 62% | 60% | 60% | 80% |
-| Ambos marcan | 38% | 0% | 80% | 80% |
-| Portería a cero | 54% | 100% | 20% | 20% |
-| Se queda sin marcar | 8% | 0% | 0% | 0% |
-| xG a favor | 2,27 | 3,09 | 2,04 | 1,92 |
-| xG en contra | 1,70 | 1,15 | 2,44 | 2,39 |
-| Tiros / partido | 17,0 | 19,2 | 17,6 | 18,4 |
-| Tiros a puerta / partido | 6,5 | 8,0 | 6,8 | 7,0 |
-| Tiros recibidos | 13,2 | 11,8 | 18,0 | 18,6 |
-| Tiros a puerta recibidos | 5,7 | 4,6 | 6,0 | 7,4 |
-| Posesión media % | 53 | 51 | 47 | 47 |
-| Córners a favor | 5,7 | 5,4 | 5,3 | 5,8 |
-| Córners en contra | 5,9 | 7,4 | 5,4 | 5,0 |
+| Partidos analizados | 14 | 6 | 10 | 5 |
+| Forma (últimos 5) | DVVVD | DVVVV | DVEDE | VDDVV |
+| Balance | 8V 0E 6D | 5V 0E 1D | 4V 3E 3D | 3V 0E 2D |
+| Goles a favor / partido | 2,50 | 3,50 | 2,40 | 3,00 |
+| Goles en contra / partido | 1,64 | 0,50 | 1,70 | 2,00 |
+| Goles a favor 1ª parte | 0,79 | 1,17 | 0,70 | 0,80 |
+| Goles a favor 2ª parte | 1,71 | 2,33 | 1,70 | 2,20 |
+| Goles en contra 1ª parte | 0,71 | 0,17 | 0,60 | 1,00 |
+| Goles en contra 2ª parte | 0,93 | 0,33 | 1,10 | 1,00 |
+| Más de 1,5 goles | 93% | 83% | 100% | 100% |
+| Más de 2,5 goles | 79% | 83% | 80% | 80% |
+| Más de 3,5 goles | 64% | 67% | 60% | 80% |
+| Ambos marcan | 43% | 17% | 80% | 80% |
+| Portería a cero | 50% | 83% | 20% | 20% |
+| Se queda sin marcar | 7% | 0% | 0% | 0% |
+| xG a favor | 2,17 | 2,72 | 2,04 | 1,92 |
+| xG en contra | 1,74 | 1,33 | 2,44 | 2,39 |
+| Tiros / partido | 16,8 | 18,3 | 17,6 | 18,4 |
+| Tiros a puerta / partido | 6,5 | 7,7 | 6,8 | 7,0 |
+| Tiros recibidos | 13,1 | 11,8 | 18,0 | 18,6 |
+| Tiros a puerta recibidos | 5,6 | 4,7 | 6,0 | 7,4 |
+| Posesión media % | 52 | 49 | 47 | 47 |
+| Córners a favor | 5,6 | 5,3 | 5,3 | 5,8 |
+| Córners en contra | 5,7 | 6,7 | 5,4 | 5,0 |
 | Córners a favor 1ª parte | 2,4 | 2,0 | 2,8 | 3,2 |
-| Córners a favor 2ª parte | 3,3 | 3,4 | 2,5 | 2,6 |
-| Córners totales del partido | 11,6 | 12,8 | 10,7 | 10,8 |
-| Córners totales 1ª parte | 5,0 | 6,2 | 5,2 | 5,0 |
-| Córners totales 2ª parte | 6,6 | 6,6 | 5,5 | 5,8 |
-| Más de 8,5 córners | 85% | 100% | 60% | 60% |
-| Más de 9,5 córners | 69% | 80% | 60% | 60% |
-| Más de 10,5 córners | 54% | 60% | 60% | 60% |
-| Faltas cometidas | 10,7 | 12,0 | 10,1 | 12,6 |
-| Faltas recibidas | 13,1 | 13,8 | 10,0 | 11,2 |
-| Amarillas propias | 1,2 | 1,0 | 1,5 | 2,0 |
-| Amarillas del rival | 1,5 | 1,6 | 1,8 | 2,2 |
-| Rojas / partido | 0,08 | 0,00 | 0,10 | 0,00 |
+| Córners a favor 2ª parte | 3,3 | 3,3 | 2,5 | 2,6 |
+| Córners totales del partido | 11,4 | 12,0 | 10,7 | 10,8 |
+| Córners totales 1ª parte | 4,9 | 5,7 | 5,2 | 5,0 |
+| Córners totales 2ª parte | 6,5 | 6,3 | 5,5 | 5,8 |
+| Más de 8,5 córners | 79% | 83% | 60% | 60% |
+| Más de 9,5 córners | 64% | 67% | 60% | 60% |
+| Más de 10,5 córners | 50% | 50% | 60% | 60% |
+| Faltas cometidas | 11,4 | 13,3 | 10,1 | 12,6 |
+| Faltas recibidas | 12,6 | 12,7 | 10,0 | 11,2 |
+| Amarillas propias | 1,4 | 1,5 | 1,5 | 2,0 |
+| Amarillas del rival | 1,6 | 1,7 | 1,8 | 2,2 |
+| Rojas / partido | 0,07 | 0,00 | 0,10 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig | Goles FC Augsburg | Recibe FC Augsburg | Tarjetas FC Augsburg |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 4 | 2 | 2 | 3 | 1 |
-| 16-30' | 3 | 1 | 2 | 4 | 3 | 3 |
-| 31-45' | 4 | 4 | 2 | 1 | 0 | 4 |
-| 46-60' | 4 | 5 | 3 | 6 | 2 | 2 |
-| 61-75' | 5 | 2 | 5 | 5 | 3 | 3 |
-| 76-90' | 13 | 4 | 5 | 7 | 6 | 3 |
+| 16-30' | 3 | 1 | 3 | 4 | 3 | 3 |
+| 31-45' | 4 | 5 | 3 | 1 | 0 | 4 |
+| 46-60' | 5 | 6 | 4 | 6 | 2 | 2 |
+| 61-75' | 6 | 2 | 5 | 5 | 3 | 3 |
+| 76-90' | 13 | 5 | 6 | 7 | 6 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -126,31 +126,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de RB Leipzig
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Champions League | RB Leipzig 2-3 Manchester City | casa | 5-3 | 14 (6) - 12 (5) | 4-2 |
 | 2026-10-31 | Bundesliga | FC Schalke 04 0-2 RB Leipzig | fuera | 7-3 | 18 (10) - 6 (1) | 0-2 |
 | 2026-10-27 | DFB-Pokal | Rot-Weiß Essen 1-2 RB Leipzig | fuera | 7-5 | 11 (2) - 9 (1) | 3-2 |
 | 2026-10-24 | Bundesliga | RB Leipzig 4-0 SV Elversberg | casa | 4-6 | 13 (6) - 5 (1) | 1-1 |
 | 2026-10-21 | Champions League | Real Madrid 4-1 RB Leipzig | fuera | 1-7 | 11 (6) - 18 (11) | 1-1 |
 | 2026-10-17 | Bundesliga | Bayern München 6-1 RB Leipzig | fuera | 3-11 | 12 (4) - 29 (17) | 0-1 |
-| 2026-10-13 | Champions League | RB Leipzig 1-0 PSV Eindhoven | casa | 6-12 | 19 (7) - 11 (5) | 1-2 |
 
 ## Jugadores de RB Leipzig
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| W. Orbán | D | 13 | 1170 | 2 | 1 | 16 | 1,2 | 4 | 0,3 | 11 | 10 | 0,8 | 1 | 0 |
-| D. Raum | D | 12 | 1037 | 0 | 1 | 3 | 0,2 | 3 | 0,2 | 8 | 3 | 0,2 | 0 | 0 |
-| A. Nusa | M | 13 | 999 | 5 | 7 | 29 | 2,2 | 15 | 1,2 | 6 | 19 | 1,5 | 3 | 0 |
-| M. Vandevoordt | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| C. Lukeba | D | 10 | 883 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 3 | 0,3 | 1 | 0 |
-| E. Banzuzi | M | 12 | 873 | 2 | 3 | 20 | 1,7 | 7 | 0,6 | 23 | 17 | 1,4 | 1 | 0 |
-| N. El Aynaoui | M | 11 | 871 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 7 | 13 | 1,2 | 3 | 0 |
-| R. Baku | D | 11 | 725 | 3 | 0 | 11 | 1,0 | 7 | 0,6 | 7 | 14 | 1,3 | 0 | 0 |
-| B. Gruda | M | 11 | 677 | 2 | 2 | 15 | 1,4 | 8 | 0,7 | 10 | 20 | 1,8 | 0 | 0 |
-| T. Gomis | F | 13 | 631 | 4 | 3 | 22 | 1,7 | 10 | 0,8 | 4 | 11 | 0,8 | 0 | 0 |
-| N. Seiwald | M | 12 | 586 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 11 | 1 | 0,1 | 1 | 1 |
-| C. Nkunku | M | 9 | 586 | 4 | 2 | 11 | 1,2 | 8 | 0,9 | 11 | 13 | 1,4 | 1 | 0 |
-| Rômulo | F | 9 | 571 | 4 | 0 | 15 | 1,7 | 9 | 1,0 | 8 | 11 | 1,2 | 0 | 0 |
-| R. Reitz | M | 9 | 406 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 6 | 10 | 1,1 | 2 | 0 |
-| B. Henrichs | D | 10 | 361 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 5 | 5 | 0,5 | 1 | 0 |
+| W. Orbán | D | 14 | 1260 | 2 | 1 | 16 | 1,1 | 4 | 0,3 | 11 | 10 | 0,7 | 1 | 0 |
+| D. Raum | D | 13 | 1127 | 0 | 1 | 4 | 0,3 | 3 | 0,2 | 12 | 3 | 0,2 | 1 | 0 |
+| M. Vandevoordt | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| A. Nusa | F | 14 | 1072 | 6 | 7 | 31 | 2,2 | 17 | 1,2 | 6 | 20 | 1,4 | 3 | 0 |
+| C. Lukeba | D | 11 | 973 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
+| E. Banzuzi | M | 13 | 963 | 2 | 3 | 22 | 1,7 | 7 | 0,5 | 24 | 19 | 1,5 | 1 | 0 |
+| N. El Aynaoui | M | 12 | 945 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 9 | 14 | 1,2 | 4 | 0 |
+| R. Baku | D | 12 | 799 | 4 | 0 | 13 | 1,1 | 9 | 0,8 | 11 | 14 | 1,2 | 1 | 0 |
+| B. Gruda | F | 12 | 767 | 2 | 3 | 17 | 1,4 | 9 | 0,8 | 12 | 21 | 1,8 | 0 | 0 |
+| T. Gomis | F | 14 | 654 | 4 | 3 | 23 | 1,6 | 10 | 0,7 | 5 | 12 | 0,9 | 0 | 0 |
+| Rômulo | F | 10 | 638 | 4 | 0 | 15 | 1,5 | 9 | 0,9 | 8 | 11 | 1,1 | 0 | 0 |
+| C. Nkunku | F | 10 | 619 | 4 | 3 | 11 | 1,1 | 8 | 0,8 | 13 | 13 | 1,3 | 1 | 0 |
+| N. Seiwald | M | 13 | 602 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 12 | 1 | 0,1 | 1 | 1 |
+| R. Reitz | M | 10 | 423 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 6 | 11 | 1,1 | 2 | 0 |
+| B. Henrichs | D | 11 | 377 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 6 | 5 | 0,5 | 1 | 0 |
 | A. MaksimoviÄ | M | 8 | 332 | 2 | 1 | 4 | 0,5 | 3 | 0,4 | 2 | 0 | 0,0 | 0 | 0 |
 | M. Estève | D | 4 | 287 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
 | Ø. Nyland | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 1 | 0 |
@@ -192,42 +192,42 @@ _Sin bajas comunicadas por ahora._
 | K. Schlotterbeck | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 2 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,98 · visitante 1,66 · córners esperados 10,4._
+_Goles esperados: local 2,95 · visitante 1,68 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 16% | 18% | 6.00 | +5% |
+| 1X2: 2 | 20% | 16% | 18% | 6.00 | +7% |
 | 1X2: X | 16% | 19% | 18% | 5.00 | -12% |
-| 1X2: 1 | 64% | 65% | 65% | 1.45 | -6% |
-| Doble oportunidad: X2 | 36% | 36% | 36% | 2.62 | -6% |
+| 1X2: 1 | 64% | 65% | 64% | 1.45 | -7% |
+| Doble oportunidad: X2 | 36% | 36% | 36% | 2.62 | -5% |
 | Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -7% |
+| Doble oportunidad: 1X | 80% | 83% | 82% | 1.14 | -7% |
 | Ambos marcan: No | 23% | 31% | 27% | 3.00 | -19% |
 | Ambos marcan: Sí | 77% | 69% | 73% | 1.36 | -1% |
 | Goles más/menos: Más de 2.5 | 84% | 75% | 79% | 1.28 | +2% |
-| Goles más/menos: Más de 3.5 | 68% | 57% | 63% | 1.67 | +4% |
-| Goles más/menos: Más de 4.5 ✅ | 50% | 36% | 43% | 2.62 | +13% |
+| Goles más/menos: Más de 3.5 | 68% | 57% | 62% | 1.67 | +4% |
+| Goles más/menos: Más de 4.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
 | Goles más/menos: Más de 5.5 | 32% | 22% | 27% | 4.33 | +17% |
-| Goles más/menos: Menos de 2.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles más/menos: Menos de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Menos de 4.5 | 50% | 64% | 57% | 1.50 | -14% |
+| Goles más/menos: Menos de 2.5 | 16% | 25% | 21% | 3.75 | -22% |
+| Goles más/menos: Menos de 3.5 | 32% | 43% | 38% | 2.20 | -17% |
+| Goles más/menos: Menos de 4.5 | 51% | 64% | 57% | 1.50 | -14% |
 | Goles más/menos: Menos de 5.5 | 68% | 78% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
-| Goles 1ª parte más/menos: Más de 2.5 | 33% | 27% | 30% | 3.50 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
+| Goles 1ª parte más/menos: Más de 2.5 | 33% | 27% | 30% | 3.50 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -15% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles del local: Más de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 2.5 | 57% | 50% | 54% | 1.83 | -2% |
-| Goles del local: Más de 3.5 | 35% | 28% | 31% | 3.40 | +6% |
-| Goles del local: Menos de 1.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 2.5 | 43% | 50% | 46% | 1.83 | -15% |
-| Goles del local: Menos de 3.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles del local: Más de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
+| Goles del local: Más de 2.5 | 57% | 50% | 53% | 1.83 | -2% |
+| Goles del local: Más de 3.5 | 34% | 28% | 31% | 3.40 | +5% |
+| Goles del local: Menos de 1.5 | 21% | 27% | 24% | 3.50 | -17% |
+| Goles del local: Menos de 2.5 | 43% | 50% | 47% | 1.83 | -15% |
+| Goles del local: Menos de 3.5 | 66% | 72% | 69% | 1.30 | -10% |
 | Goles del visitante: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
-| Goles del visitante: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +9% |
+| Goles del visitante: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +10% |
 | Goles del visitante: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
-| Goles del visitante: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -15% |
-| Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -11% |
-| Córners más/menos: Menos de 10.5 | 56% | 51% | 54% | 1.80 | -4% |
+| Goles del visitante: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
+| Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Córners más/menos: Menos de 10.5 | 56% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 29% | 31% | 30% | 3.00 | -10% |
 | 1X2 descanso: 1 | 50% | 51% | 50% | 1.83 | -8% |
 

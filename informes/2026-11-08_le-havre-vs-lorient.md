@@ -1,7 +1,7 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -188,40 +188,40 @@ _Sin bajas comunicadas por ahora._
 | Nosa Edward Obaretin | D | 2 | 25 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,15 · córners esperados 9,6._
+_Goles esperados: local 1,08 · visitante 1,13 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 37% | 37% | 2.55 | -5% |
+| 1X2: 2 | 37% | 37% | 37% | 2.55 | -6% |
 | 1X2: X | 29% | 29% | 29% | 3.30 | -5% |
 | 1X2: 1 | 34% | 34% | 34% | 2.80 | -5% |
-| Doble oportunidad: X2 | 66% | 67% | 67% | 1.40 | -7% |
+| Doble oportunidad: X2 | 66% | 67% | 66% | 1.40 | -7% |
 | Doble oportunidad: 12 | 71% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -6% |
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 73% | 69% | 1.30 | -10% |
 | Goles más/menos: Más de 2.5 | 38% | 47% | 43% | 2.00 | -14% |
-| Goles más/menos: Más de 3.5 | 19% | 27% | 23% | 3.50 | -20% |
-| Goles más/menos: Menos de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +8% |
+| Goles más/menos: Más de 3.5 | 18% | 27% | 23% | 3.50 | -20% |
+| Goles más/menos: Menos de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +9% |
 | Goles más/menos: Menos de 2.5 | 62% | 53% | 57% | 1.80 | +3% |
-| Goles más/menos: Menos de 3.5 | 81% | 73% | 77% | 1.30 | +0% |
+| Goles más/menos: Menos de 3.5 | 82% | 73% | 77% | 1.30 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 31% | 28% | 3.00 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
-| Goles del local: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles del local: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
 | Goles del local: Más de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
-| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
+| Goles del local: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles del local: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
-| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 39% | 35% | 2.38 | -16% |
-| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 1.5 | 68% | 61% | 65% | 1.53 | -1% |
+| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |
+| Goles del visitante: Más de 1.5 | 31% | 39% | 35% | 2.38 | -16% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
+| Goles del visitante: Menos de 1.5 | 69% | 61% | 65% | 1.53 | -1% |
 | Córners más/menos: Más de 9.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 54% | 54% | 54% | 1.73 | -7% |
 | 1X2 descanso: 2 | 27% | 30% | 28% | 3.10 | -12% |
-| 1X2 descanso: X | 47% | 44% | 45% | 2.10 | -5% |
-| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2 descanso: X | 47% | 44% | 46% | 2.10 | -4% |
+| 1X2 descanso: 1 | 26% | 27% | 26% | 3.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

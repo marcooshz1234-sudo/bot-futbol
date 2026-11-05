@@ -1,10 +1,10 @@
 # Everton – Coventry
 **Premier League** · Regular Season - 10 · 06/11/2026 21:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.70**  ·  X **4.00**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.10**
@@ -30,7 +30,7 @@ _Actualizadas: 04/11 20:01_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.88** · menos **1.92**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.38**  ·  2 **4.75**
@@ -207,7 +207,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Joel Latibeaudiere | D | 3 | 181 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 0,84 · córners esperados 9,4._
+_Goles esperados: local 1,68 · visitante 0,84 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -219,26 +219,26 @@ _Goles esperados: local 1,67 · visitante 0,84 · córners esperados 9,4._
 | Doble oportunidad: 1X | 81% | 79% | 80% | 1.18 | -5% |
 | Ambos marcan: No | 54% | 45% | 50% | 2.05 | +2% |
 | Ambos marcan: Sí | 46% | 55% | 50% | 1.70 | -14% |
-| Goles más/menos: Más de 1.5 | 71% | 78% | 75% | 1.22 | -9% |
+| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -9% |
 | Goles más/menos: Más de 2.5 | 46% | 55% | 50% | 1.73 | -13% |
-| Goles más/menos: Más de 3.5 | 24% | 34% | 29% | 2.75 | -19% |
-| Goles más/menos: Menos de 1.5 | 29% | 22% | 25% | 4.33 | +9% |
+| Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
 | Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
-| Goles más/menos: Menos de 3.5 | 76% | 66% | 71% | 1.44 | +2% |
+| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 72% | 69% | 1.30 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 28% | 31% | 3.40 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles del local: Más de 1.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles del local: Más de 2.5 | 23% | 29% | 26% | 3.25 | -15% |
+| Goles del local: Más de 2.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles del local: Menos de 1.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles del local: Menos de 2.5 | 77% | 71% | 74% | 1.33 | -2% |
+| Goles del local: Menos de 2.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -13% |
 | Goles del visitante: Más de 1.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +3% |
-| Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | +0% |
-| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Córners más/menos: Más de 9.5 | 44% | 51% | 47% | 1.88 | -11% |
+| Córners más/menos: Menos de 9.5 | 56% | 49% | 53% | 1.92 | +1% |
 | 1X2 descanso: X | 43% | 39% | 41% | 2.38 | -3% |
 | 1X2 descanso: 1 | 40% | 42% | 41% | 2.20 | -10% |
 

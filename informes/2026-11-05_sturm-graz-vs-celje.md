@@ -1,10 +1,10 @@
 # Sturm Graz – Celje
 **Europa League** · League Stage - 4 · 05/11/2026 21:00 (hora España) · Stadion Graz-Liebenau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.53**  ·  X **4.33**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.38**
@@ -51,6 +51,10 @@ _Actualizadas: 04/11 20:01_
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
+- **Home Team Total Cards:**
+    - 1,5: más **1.67** · menos **2.10**
+- **Away Team Total Cards:**
+    - 2,5: más **2.50** · menos **1.50**
 - **Home Player Shots On Target Total:** Joshua Quarshie - 1 **3.50**  ·  Joshua Quarshie - 2 **19.00**  ·  Albert Vallci - 1 **3.25**  ·  Arjan Malic - 1 **2.62**  ·  Jon Stankovic - 1 **2.62**  ·  Jurgen Heil - 1 **2.62**  ·  Luis Balbo - 1 **2.50**  ·  Niklas Geyrhofer - 1 **3.75**  ·  Paul Koller - 1 **2.62**  ·  Petar Petrovic - 1 **2.10**  ·  Gizo Mamageishvili - 2 **3.50**  ·  Jacob Hodl - 2 **3.75**  ·  Julian Halwachs - 2 **3.75**  ·  Luca Weinhandl - 2 **6.00**  ·  Valmir Matoshi - 2 **3.50**  ·  Axel Kayombo - 3 **5.00**  ·  Belmin Beganovic - 3 **4.00**  ·  Filip Rozga - 3 **8.00**  ·  Nelson Weiper - 3 **5.00**  ·  Otar Kiteishvili - 3 **4.00**  ·  Oumar Diakite - 3 **4.50**  ·  Seedy Jatta - 3 **4.00**  ·  Simon Seidl - 3 **5.00**  ·  Axel Kayombo - 1 **1.28**  ·  Belmin Beganovic - 1 **1.20**  ·  Filip Rozga - 1 **1.40**  ·  Gizo Mamageishvili - 1 **1.53**  ·  Jacob Hodl - 1 **1.57**  ·  Julian Halwachs - 1 **1.57**  ·  Luca Weinhandl - 1 **1.83**  ·  Nelson Weiper - 1 **1.28**  ·  Otar Kiteishvili - 1 **1.20**  ·  Oumar Diakite - 1 **1.25**  ·  Seedy Jatta - 1 **1.20**  ·  Simon Seidl - 1 **1.25**  ·  Valmir Matoshi - 1 **1.53**  ·  Belmin Beganovic - 2 **1.91**  ·  Otar Kiteishvili - 2 **1.91**  ·  Seedy Jatta - 2 **1.91**  ·  Simon Seidl - 2 **2.20**  ·  Axel Kayombo - 2 **2.25**  ·  Filip Rozga - 2 **3.00**  ·  Nelson Weiper - 2 **2.25**  ·  Oumar Diakite - 2 **2.10**  ·  Petar Petrovic - 2 **7.00**  ·  Luis Balbo - 2 **10.00**  ·  Jurgen Heil - 2 **11.00**  ·  Paul Koller - 2 **11.00**  ·  Arjan Malic - 2 **11.00**  ·  Jon Stankovic - 2 **11.00**  ·  Albert Vallci - 2 **15.00**  ·  Niklas Geyrhofer - 2 **21.00**  ·  Gizo Mamageishvili - 3 **10.00**  ·  Valmir Matoshi - 3 **10.00**  ·  Julian Halwachs - 3 **11.00**  ·  Jacob Hodl - 3 **11.00**  ·  Luca Weinhandl - 3 **21.00**  ·  Petar Petrovic - 3 **21.00**  ·  Belmin Beganovic - 4 **10.00**  ·  Otar Kiteishvili - 4 **10.00**  ·  Seedy Jatta - 4 **10.00**  ·  Simon Seidl - 4 **13.00**  ·  Axel Kayombo - 4 **13.00**  ·  Filip Rozga - 4 **21.00**  ·  Nelson Weiper - 4 **13.00**  ·  Oumar Diakite - 4 **11.00**  ·  Jacob Hodl - 4 **21.00**  ·  Belmin Beganovic - 5 **21.00**  ·  Otar Kiteishvili - 5 **21.00**  ·  Seedy Jatta - 5 **21.00**  ·  Jonas Peinhart - 1 **1.25**  ·  Mate Grgic - 1 **1.25**  ·  Szymon Wlodarczyk - 1 **1.28**  ·  Jonas Petritsch - 1 **1.57**  ·  Gabriel Haider - 1 **3.50**  ·  Jonas Peinhart - 2 **2.20**  ·  Mate Grgic - 2 **2.20**  ·  Szymon Wlodarczyk - 2 **2.25**  ·  Jonas Petritsch - 2 **3.75**  ·  Gabriel Haider - 2 **19.00**  ·  Jonas Peinhart - 3 **5.00**  ·  Mate Grgic - 3 **5.00**  ·  Szymon Wlodarczyk - 3 **5.00**  ·  Jonas Petritsch - 3 **11.00**  ·  Jonas Peinhart - 4 **13.00**  ·  Mate Grgic - 4 **13.00**  ·  Szymon Wlodarczyk - 4 **13.00**  ·  Kelechi Nnamdi - 1 **2.62**  ·  Kelechi Nnamdi - 2 **11.00**
 - **Away Player Shots On Target Total:** Papa Daniel **34.00**  ·  Niklas Geyrhofer **23.00**  ·  Otar Kiteishvili **12.00**  ·  Belmin Beganovic **5.50**  ·  Blaz Kramer **8.50**  ·  Armandas Kucys **13.00**  ·  Artemijus Tutyskinas **29.00**  ·  Pijus Sirvys **34.00**  ·  Gizo Mamageishvili **29.00**  ·  Oumar Diakite **8.00**  ·  Veton Tusha **29.00**  ·  Darko Hrka **15.00**  ·  Milot Avdyli **51.00**  ·  Axel Kayombo **9.00**  ·  Filip Rozga **26.00**  ·  Julian Halwachs **13.00**  ·  Gabriel Haider **26.00**  ·  Rudi Pozeg Vancas **29.00**  ·  Luca Weinhandl **10.00**  ·  Luis Balbo **21.00**  ·  Simon Seidl **15.00**  ·  Seedy Jatta **5.50**  ·  Paul Koller **11.00**  ·  Jon Stankovic **10.00**  ·  Arjan Malic **15.00**  ·  Jurgen Heil **23.00**  ·  Zan Zuzek **23.00**  ·  Joshua Quarshie **13.00**  ·  Andrej Kotnik **15.00**  ·  Petar Petrovic **7.50**  ·  Ivan Calusic **34.00**  ·  Dejan Suhovrsnik **21.00**  ·  Yaya Dukuly **41.00**  ·  Mario Kvesic **41.00**  ·  Svit Seslar **21.00**  ·  Jost Pisek **26.00**  ·  Mark Zabukovnik **41.00**  ·  Damjan Vuklisevic **26.00**  ·  Albert Vallci **13.00**  ·  Alpha Dionkou **51.00**  ·  Valmir Matoshi **29.00**  ·  Leonardo Koutris **126.00**  ·  Nino Vukasovic **67.00**  ·  Matic Ivansek **23.00**  ·  Zan Sega **29.00**  ·  Luka Vesner Ticic **41.00**  ·  Jacob Hodl **34.00**  ·  Nelson Weiper **15.00**  ·  Benjamin Verbic **41.00**  ·  Lukasz Bejger **29.00**
 - **Home Player Shots:** Joshua Quarshie - 1 **1.73**  ·  Joshua Quarshie - 2 **4.33**  ·  Joshua Quarshie - 3 **13.00**  ·  Albert Vallci - 1 **1.50**  ·  Arjan Malic - 1 **1.40**  ·  Jon Stankovic - 1 **1.25**  ·  Jurgen Heil - 1 **1.40**  ·  Luis Balbo - 1 **1.33**  ·  Niklas Geyrhofer - 1 **1.83**  ·  Paul Koller - 1 **1.40**  ·  Petar Petrovic - 1 **1.20**  ·  Gizo Mamageishvili - 2 **1.33**  ·  Jacob Hodl - 2 **1.33**  ·  Julian Halwachs - 2 **1.36**  ·  Luca Weinhandl - 2 **1.67**  ·  Valmir Matoshi - 2 **1.33**  ·  Axel Kayombo - 3 **1.44**  ·  Belmin Beganovic - 3 **1.33**  ·  Filip Rozga - 3 **1.44**  ·  Nelson Weiper - 3 **1.44**  ·  Otar Kiteishvili - 3 **1.30**  ·  Oumar Diakite - 3 **1.40**  ·  Seedy Jatta - 3 **1.33**  ·  Simon Seidl - 3 **1.44**  ·  Axel Kayombo - 1 **1.02**  ·  Belmin Beganovic - 1 **1.01**  ·  Filip Rozga - 1 **1.02**  ·  Gizo Mamageishvili - 1 **1.06**  ·  Jacob Hodl - 1 **1.06**  ·  Julian Halwachs - 1 **1.07**  ·  Luca Weinhandl - 1 **1.17**  ·  Nelson Weiper - 1 **1.02**  ·  Otar Kiteishvili - 1 **1.01**  ·  Oumar Diakite - 1 **1.02**  ·  Seedy Jatta - 1 **1.01**  ·  Simon Seidl - 1 **1.02**  ·  Valmir Matoshi - 1 **1.06**  ·  Belmin Beganovic - 2 **1.10**  ·  Otar Kiteishvili - 2 **1.10**  ·  Seedy Jatta - 2 **1.10**  ·  Simon Seidl - 2 **1.14**  ·  Axel Kayombo - 2 **1.14**  ·  Filip Rozga - 2 **1.14**  ·  Nelson Weiper - 2 **1.14**  ·  Oumar Diakite - 2 **1.12**  ·  Petar Petrovic - 2 **1.83**  ·  Luis Balbo - 2 **2.38**  ·  Jurgen Heil - 2 **2.62**  ·  Paul Koller - 2 **2.62**  ·  Arjan Malic - 2 **2.62**  ·  Jon Stankovic - 2 **2.10**  ·  Albert Vallci - 2 **3.25**  ·  Niklas Geyrhofer - 2 **5.00**  ·  Gizo Mamageishvili - 3 **1.91**  ·  Valmir Matoshi - 3 **1.91**  ·  Julian Halwachs - 3 **2.00**  ·  Jacob Hodl - 3 **1.91**  ·  Luca Weinhandl - 3 **3.00**  ·  Petar Petrovic - 3 **3.75**  ·  Luis Balbo - 3 **5.00**  ·  Jurgen Heil - 3 **6.00**  ·  Paul Koller - 3 **6.00**  ·  Arjan Malic - 3 **6.00**  ·  Jon Stankovic - 3 **4.33**  ·  Albert Vallci - 3 **8.00**  ·  Niklas Geyrhofer - 3 **15.00**  ·  Belmin Beganovic - 4 **1.80**  ·  Otar Kiteishvili - 4 **1.73**  ·  Seedy Jatta - 4 **1.80**  ·  Simon Seidl - 4 **2.00**  ·  Axel Kayombo - 4 **2.00**  ·  Filip Rozga - 4 **2.10**  ·  Nelson Weiper - 4 **2.00**  ·  Oumar Diakite - 4 **1.91**  ·  Gizo Mamageishvili - 4 **3.25**  ·  Valmir Matoshi - 4 **3.25**  ·  Julian Halwachs - 4 **3.50**  ·  Jacob Hodl - 4 **3.40**  ·  Luca Weinhandl - 4 **6.00**  ·  Petar Petrovic - 4 **8.00**  ·  Luis Balbo - 4 **13.00**  ·  Belmin Beganovic - 5 **2.62**  ·  Otar Kiteishvili - 5 **2.62**  ·  Seedy Jatta - 5 **2.62**  ·  Simon Seidl - 5 **3.25**  ·  Axel Kayombo - 5 **3.40**  ·  Filip Rozga - 5 **3.40**  ·  Nelson Weiper - 5 **3.40**  ·  Oumar Diakite - 5 **3.00**  ·  Gizo Mamageishvili - 5 **6.00**  ·  Valmir Matoshi - 5 **6.00**  ·  Julian Halwachs - 5 **6.50**  ·  Jacob Hodl - 5 **6.00**  ·  Belmin Beganovic - 6 **4.33**  ·  Otar Kiteishvili - 6 **4.00**  ·  Seedy Jatta - 6 **4.33**  ·  Simon Seidl - 6 **5.50**  ·  Axel Kayombo - 6 **5.50**  ·  Filip Rozga - 6 **6.00**  ·  Nelson Weiper - 6 **5.50**  ·  Oumar Diakite - 6 **5.00**  ·  Belmin Beganovic - 7 **8.00**  ·  Otar Kiteishvili - 7 **7.00**  ·  Seedy Jatta - 7 **8.00**  ·  Simon Seidl - 7 **10.00**  ·  Axel Kayombo - 7 **11.00**  ·  Gizo Mamageishvili - 6 **13.00**  ·  Valmir Matoshi - 6 **13.00**  ·  Jacob Hodl - 6 **13.00**  ·  Filip Rozga - 7 **11.00**  ·  Oumar Diakite - 7 **9.00**  ·  Nelson Weiper - 7 **11.00**  ·  Albert Vallci - 4 **21.00**  ·  Jurgen Heil - 4 **15.00**  ·  Paul Koller - 4 **15.00**  ·  Otar Kiteishvili - 8 **13.00**  ·  Luca Weinhandl - 5 **13.00**  ·  Arjan Malic - 4 **15.00**  ·  Jon Stankovic - 4 **10.00**  ·  Jon Stankovic - 5 **21.00**  ·  Gizo Mamageishvili - 7 **21.00**  ·  Filip Rozga - 8 **19.00**  ·  Petar Petrovic - 5 **17.00**  ·  Luca Weinhandl - 6 **21.00**  ·  Jonas Peinhart - 1 **1.02**  ·  Mate Grgic - 1 **1.02**  ·  Szymon Wlodarczyk - 1 **1.02**  ·  Jonas Petritsch - 1 **1.07**  ·  Gabriel Haider - 1 **1.73**  ·  Jonas Peinhart - 2 **1.14**  ·  Mate Grgic - 2 **1.14**  ·  Szymon Wlodarczyk - 2 **1.14**  ·  Jonas Petritsch - 2 **1.36**  ·  Gabriel Haider - 2 **4.33**  ·  Jonas Peinhart - 3 **1.44**  ·  Mate Grgic - 3 **1.44**  ·  Szymon Wlodarczyk - 3 **1.44**  ·  Jonas Petritsch - 3 **2.00**  ·  Gabriel Haider - 3 **13.00**  ·  Jonas Peinhart - 4 **2.00**  ·  Mate Grgic - 4 **2.00**  ·  Szymon Wlodarczyk - 4 **2.00**  ·  Jonas Petritsch - 4 **3.50**  ·  Jonas Peinhart - 5 **3.25**  ·  Mate Grgic - 5 **3.25**  ·  Szymon Wlodarczyk - 5 **3.40**  ·  Jonas Petritsch - 5 **6.50**  ·  Jonas Peinhart - 6 **5.50**  ·  Mate Grgic - 6 **5.50**  ·  Szymon Wlodarczyk - 6 **5.50**  ·  Jonas Peinhart - 7 **10.00**  ·  Mate Grgic - 7 **10.00**  ·  Szymon Wlodarczyk - 7 **11.00**  ·  Julian Halwachs - 6 **13.00**  ·  Jonas Petritsch - 6 **13.00**  ·  Belmin Beganovic - 8 **15.00**  ·  Seedy Jatta - 8 **15.00**  ·  Kelechi Nnamdi - 1 **1.40**  ·  Kelechi Nnamdi - 2 **2.62**  ·  Kelechi Nnamdi - 3 **6.00**  ·  Kelechi Nnamdi - 4 **15.00**  ·  Luis Balbo - 5 **21.00**  ·  Jacob Hodl - 7 **21.00**  ·  Valmir Matoshi - 7 **21.00**  ·  Axel Kayombo - 8 **19.00**  ·  Jonas Peinhart - 8 **19.00**  ·  Mate Grgic - 8 **19.00**  ·  Nelson Weiper - 8 **19.00**  ·  Simon Seidl - 8 **19.00**  ·  Szymon Wlodarczyk - 8 **19.00**  ·  Oumar Diakite - 8 **17.00**  ·  Otar Kiteishvili - 9 **21.00**  ·  Jonas Petritsch - 7 **21.00**  ·  Julian Halwachs - 7 **21.00**  ·  Belmin Beganovic - 9 **21.00**  ·  Seedy Jatta - 9 **21.00**
@@ -187,40 +191,40 @@ _Sin precedentes recientes._
 | V. Tusha | F | 2 | 81 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 4 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 0,66 · córners esperados 9,4._
+_Goles esperados: local 1,47 · visitante 0,65 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 16% | 17% | 5.75 | -5% |
+| 1X2: 2 | 16% | 16% | 16% | 5.75 | -6% |
 | 1X2: X | 27% | 22% | 24% | 4.33 | +5% |
 | 1X2: 1 | 57% | 62% | 59% | 1.53 | -9% |
 | Doble oportunidad: X2 | 43% | 39% | 41% | 2.38 | -2% |
 | Doble oportunidad: 12 | 73% | 78% | 76% | 1.20 | -9% |
-| Doble oportunidad: 1X | 83% | 82% | 83% | 1.14 | -6% |
-| Ambos marcan: No | 63% | 44% | 54% | 2.10 | +12% |
-| Ambos marcan: Sí | 37% | 56% | 46% | 1.67 | -22% |
-| Goles más/menos: Más de 2.5 | 36% | 60% | 48% | 1.57 | -25% |
-| Goles más/menos: Más de 3.5 | 17% | 40% | 28% | 2.38 | -33% |
-| Goles más/menos: Más de 4.5 | 7% | 22% | 14% | 4.33 | -38% |
-| Goles más/menos: Menos de 2.5 | 64% | 40% | 52% | 2.38 | +24% |
-| Goles más/menos: Menos de 3.5 | 83% | 60% | 72% | 1.57 | +13% |
-| Goles más/menos: Menos de 4.5 | 93% | 78% | 86% | 1.22 | +5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 75% | 68% | 1.25 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 41% | 32% | 2.25 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 25% | 32% | 3.75 | +21% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 59% | 68% | 1.57 | +6% |
+| Doble oportunidad: 1X | 84% | 82% | 83% | 1.14 | -5% |
+| Ambos marcan: No | 63% | 44% | 54% | 2.10 | +13% |
+| Ambos marcan: Sí | 37% | 56% | 46% | 1.67 | -23% |
+| Goles más/menos: Más de 2.5 | 35% | 60% | 48% | 1.57 | -25% |
+| Goles más/menos: Más de 3.5 | 16% | 40% | 28% | 2.38 | -33% |
+| Goles más/menos: Más de 4.5 | 6% | 22% | 14% | 4.33 | -39% |
+| Goles más/menos: Menos de 2.5 | 65% | 40% | 52% | 2.38 | +24% |
+| Goles más/menos: Menos de 3.5 | 84% | 60% | 72% | 1.57 | +13% |
+| Goles más/menos: Menos de 4.5 | 94% | 78% | 86% | 1.22 | +5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 75% | 68% | 1.25 | -16% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 41% | 32% | 2.25 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 25% | 32% | 3.75 | +22% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 59% | 68% | 1.57 | +6% |
 | Goles del local: Más de 1.5 | 43% | 62% | 53% | 1.50 | -21% |
 | Goles del local: Más de 2.5 | 18% | 38% | 28% | 2.50 | -30% |
 | Goles del local: Menos de 1.5 | 57% | 38% | 47% | 2.50 | +18% |
 | Goles del local: Menos de 2.5 | 82% | 62% | 72% | 1.50 | +8% |
 | Goles del visitante: Más de 0.5 | 48% | 62% | 55% | 1.50 | -17% |
-| Goles del visitante: Más de 1.5 | 14% | 28% | 21% | 3.40 | -29% |
+| Goles del visitante: Más de 1.5 | 14% | 28% | 21% | 3.40 | -30% |
 | Goles del visitante: Menos de 0.5 | 52% | 38% | 45% | 2.50 | +12% |
 | Goles del visitante: Menos de 1.5 | 86% | 72% | 79% | 1.30 | +3% |
-| Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
+| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
 | 1X2 descanso: X | 47% | 37% | 42% | 2.50 | +5% |
 | 1X2 descanso: 1 | 39% | 46% | 42% | 2.00 | -15% |
 

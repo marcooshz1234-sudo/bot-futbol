@@ -1,7 +1,7 @@
 # Brighton – Brentford
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Amex Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -215,18 +215,18 @@ _Goles esperados: local 2,05 · visitante 1,10 · córners esperados 9,7._
 | Doble oportunidad: X2 | 41% | 49% | 45% | 1.91 | -14% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 80% | 75% | 78% | 1.25 | -3% |
-| Ambos marcan: No | 42% | 39% | 40% | 2.38 | -4% |
-| Ambos marcan: Sí | 58% | 61% | 60% | 1.53 | -9% |
+| Ambos marcan: No | 42% | 39% | 41% | 2.38 | -4% |
+| Ambos marcan: Sí | 58% | 61% | 59% | 1.53 | -9% |
 | Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 3.5 | 39% | 38% | 38% | 2.50 | -4% |
-| Goles más/menos: Más de 4.5 | 21% | 22% | 22% | 4.33 | -7% |
+| Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -7% |
 | Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -8% |
 | Goles más/menos: Menos de 3.5 | 61% | 62% | 62% | 1.53 | -6% |
-| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -4% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 41% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -7% |
 | Goles del local: Más de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
 | Goles del local: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles del local: Menos de 1.5 | 39% | 44% | 42% | 2.10 | -12% |

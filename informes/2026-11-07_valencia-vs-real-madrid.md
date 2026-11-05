@@ -1,10 +1,10 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **8.00**  ·  X **5.50**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.40**  ·  12 **1.14**  ·  X2 **1.10**
@@ -62,53 +62,53 @@ _Actualizadas: 04/11 14:09_
 ## Estadísticas de equipo
 | | Valencia (total) | Valencia en casa | Real Madrid (total) | Real Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 14 | 7 |
-| Forma (últimos 5) | VDEED | DEDDD | VVVVV | VVVDV |
-| Balance | 2V 3E 6D | 0V 2E 4D | 12V 0E 2D | 5V 0E 2D |
-| Goles a favor / partido | 0,73 | 0,50 | 2,71 | 2,14 |
-| Goles en contra / partido | 1,55 | 1,83 | 1,07 | 1,43 |
-| Goles a favor 1ª parte | 0,27 | 0,17 | 1,43 | 1,14 |
-| Goles a favor 2ª parte | 0,45 | 0,33 | 1,29 | 1,00 |
-| Goles en contra 1ª parte | 0,55 | 0,50 | 0,21 | 0,29 |
-| Goles en contra 2ª parte | 1,00 | 1,33 | 0,86 | 1,14 |
-| Más de 1,5 goles | 45% | 50% | 86% | 86% |
-| Más de 2,5 goles | 45% | 50% | 86% | 86% |
-| Más de 3,5 goles | 36% | 33% | 50% | 29% |
-| Ambos marcan | 36% | 33% | 71% | 71% |
-| Portería a cero | 36% | 33% | 21% | 14% |
-| Se queda sin marcar | 45% | 67% | 7% | 14% |
-| xG a favor | 1,04 | 1,08 | 2,52 | 2,44 |
-| xG en contra | 1,47 | 1,70 | 1,16 | 1,30 |
-| Tiros / partido | 10,4 | 12,3 | 17,1 | 16,7 |
-| Tiros a puerta / partido | 2,9 | 3,3 | 7,4 | 6,1 |
-| Tiros recibidos | 15,5 | 16,0 | 13,5 | 12,7 |
+| Partidos analizados | 11 | 6 | 15 | 8 |
+| Forma (últimos 5) | VDEED | DEDDD | VVVVV | VVVVD |
+| Balance | 2V 3E 6D | 0V 2E 4D | 13V 0E 2D | 6V 0E 2D |
+| Goles a favor / partido | 0,73 | 0,50 | 2,73 | 2,25 |
+| Goles en contra / partido | 1,55 | 1,83 | 1,13 | 1,50 |
+| Goles a favor 1ª parte | 0,27 | 0,17 | 1,40 | 1,12 |
+| Goles a favor 2ª parte | 0,45 | 0,33 | 1,33 | 1,12 |
+| Goles en contra 1ª parte | 0,55 | 0,50 | 0,27 | 0,38 |
+| Goles en contra 2ª parte | 1,00 | 1,33 | 0,87 | 1,12 |
+| Más de 1,5 goles | 45% | 50% | 87% | 88% |
+| Más de 2,5 goles | 45% | 50% | 87% | 88% |
+| Más de 3,5 goles | 36% | 33% | 53% | 38% |
+| Ambos marcan | 36% | 33% | 73% | 75% |
+| Portería a cero | 36% | 33% | 20% | 12% |
+| Se queda sin marcar | 45% | 67% | 7% | 12% |
+| xG a favor | 1,04 | 1,08 | 2,57 | 2,56 |
+| xG en contra | 1,47 | 1,70 | 1,15 | 1,26 |
+| Tiros / partido | 10,4 | 12,3 | 17,6 | 17,6 |
+| Tiros a puerta / partido | 2,9 | 3,3 | 7,5 | 6,4 |
+| Tiros recibidos | 15,5 | 16,0 | 13,2 | 12,2 |
 | Tiros a puerta recibidos | 4,7 | 4,5 | 4,8 | 4,9 |
-| Posesión media % | 44 | 40 | 51 | 49 |
-| Córners a favor | 4,0 | 4,2 | 6,4 | 6,4 |
-| Córners en contra | 5,0 | 4,7 | 4,4 | 3,7 |
-| Córners a favor 1ª parte | 1,5 | 1,3 | 3,1 | 3,6 |
-| Córners a favor 2ª parte | 2,5 | 2,8 | 3,3 | 2,9 |
-| Córners totales del partido | 9,0 | 8,8 | 10,8 | 10,1 |
-| Córners totales 1ª parte | 4,2 | 4,2 | 4,9 | 5,1 |
-| Córners totales 2ª parte | 4,8 | 4,7 | 5,9 | 5,0 |
-| Más de 8,5 córners | 55% | 50% | 64% | 57% |
-| Más de 9,5 córners | 55% | 50% | 64% | 57% |
-| Más de 10,5 córners | 27% | 33% | 57% | 43% |
-| Faltas cometidas | 11,9 | 12,5 | 9,2 | 8,7 |
-| Faltas recibidas | 11,0 | 11,3 | 13,5 | 15,7 |
-| Amarillas propias | 2,3 | 2,2 | 1,8 | 1,9 |
-| Amarillas del rival | 2,4 | 2,7 | 2,6 | 3,1 |
-| Rojas / partido | 0,09 | 0,17 | 0,14 | 0,14 |
+| Posesión media % | 44 | 40 | 52 | 52 |
+| Córners a favor | 4,0 | 4,2 | 6,5 | 6,5 |
+| Córners en contra | 5,0 | 4,7 | 4,1 | 3,2 |
+| Córners a favor 1ª parte | 1,5 | 1,3 | 3,1 | 3,5 |
+| Córners a favor 2ª parte | 2,5 | 2,8 | 3,3 | 3,0 |
+| Córners totales del partido | 9,0 | 8,8 | 10,5 | 9,8 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 4,7 | 4,9 |
+| Córners totales 2ª parte | 4,8 | 4,7 | 5,8 | 4,9 |
+| Más de 8,5 córners | 55% | 50% | 60% | 50% |
+| Más de 9,5 córners | 55% | 50% | 60% | 50% |
+| Más de 10,5 córners | 27% | 33% | 53% | 38% |
+| Faltas cometidas | 11,9 | 12,5 | 9,7 | 9,6 |
+| Faltas recibidas | 11,0 | 11,3 | 13,2 | 14,9 |
+| Amarillas propias | 2,3 | 2,2 | 1,7 | 1,8 |
+| Amarillas del rival | 2,4 | 2,7 | 2,5 | 2,9 |
+| Rojas / partido | 0,09 | 0,17 | 0,13 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Valencia | Recibe Valencia | Tarjetas Valencia | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 2 | 4 | 0 | 2 |
+| 1-15' | 1 | 2 | 2 | 4 | 1 | 2 |
 | 16-30' | 1 | 3 | 4 | 9 | 2 | 2 |
-| 31-45' | 1 | 1 | 6 | 7 | 1 | 2 |
+| 31-45' | 1 | 1 | 6 | 8 | 1 | 2 |
 | 46-60' | 1 | 3 | 2 | 2 | 5 | 4 |
-| 61-75' | 2 | 1 | 5 | 3 | 2 | 6 |
-| 76-90' | 2 | 7 | 8 | 13 | 5 | 11 |
+| 61-75' | 2 | 1 | 5 | 3 | 3 | 7 |
+| 76-90' | 2 | 7 | 8 | 15 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -160,75 +160,75 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Madrid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Champions League | AEK Athens FC 2-3 Real Madrid | fuera | 7-0 | 24 (8) - 9 (5) | 1-1 |
 | 2026-11-01 | LaLiga | Racing Santander 0-3 Real Madrid | fuera | 6-4 | 22 (7) - 10 (1) | 0-2 |
 | 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | fuera | 6-6 | 10 (5) - 18 (6) | 3-3 |
 | 2026-10-21 | Champions League | Real Madrid 4-1 RB Leipzig | casa | 7-1 | 18 (11) - 11 (6) | 1-1 |
 | 2026-10-18 | LaLiga | Real Madrid 4-1 Sevilla | casa | 1-2 | 15 (8) - 11 (5) | 2-2 |
 | 2026-10-14 | Champions League | AS Roma 3-4 Real Madrid | fuera | 9-5 | 16 (8) - 14 (7) | 1-3 |
-| 2026-10-10 | LaLiga | Real Madrid 1-0 Villarreal | casa | 9-3 | 11 (4) - 15 (4) | 5-2 |
 
 ## Jugadores de Real Madrid
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Kylian Mbappé | F | 14 | 1251 | 15 | 3 | 59 | 4,2 | 40 | 2,9 | 9 | 19 | 1,4 | 2 | 0 |
-| T. Courtois | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| J. Bellingham | M | 14 | 1136 | 4 | 3 | 24 | 1,7 | 12 | 0,9 | 11 | 40 | 2,9 | 2 | 0 |
+| Kylian Mbappé | F | 15 | 1341 | 16 | 3 | 66 | 4,4 | 43 | 2,9 | 9 | 20 | 1,3 | 2 | 0 |
+| T. Courtois | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Bellingham | M | 15 | 1222 | 5 | 3 | 27 | 1,8 | 13 | 0,9 | 11 | 43 | 2,9 | 2 | 0 |
+| F. Valverde | M | 14 | 1094 | 2 | 2 | 10 | 0,7 | 5 | 0,4 | 7 | 4 | 0,3 | 0 | 0 |
 | I. Konaté | D | 12 | 1080 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 13 | 4 | 0,3 | 4 | 0 |
-| F. Valverde | D | 13 | 1071 | 1 | 2 | 9 | 0,7 | 4 | 0,3 | 7 | 4 | 0,3 | 0 | 0 |
+| Marc Cucurella | D | 15 | 1014 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 18 | 4 | 0,3 | 1 | 0 |
 | D. Huijsen | D | 11 | 952 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 6 | 0,5 | 2 | 1 |
-| Marc Cucurella | D | 14 | 933 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 13 | 4 | 0,3 | 0 | 0 |
-| Vinícius Júnior | M | 11 | 801 | 1 | 3 | 22 | 2,0 | 9 | 0,8 | 11 | 27 | 2,5 | 2 | 1 |
+| Vinícius Júnior | M | 12 | 882 | 1 | 3 | 25 | 2,1 | 9 | 0,8 | 11 | 29 | 2,4 | 2 | 1 |
+| Y. Diomande | M | 15 | 810 | 4 | 4 | 17 | 1,1 | 6 | 0,4 | 10 | 18 | 1,2 | 1 | 0 |
 | A. Güler | M | 13 | 773 | 3 | 5 | 24 | 1,8 | 13 | 1,0 | 6 | 18 | 1,4 | 1 | 0 |
-| Y. Diomande | M | 14 | 743 | 4 | 4 | 16 | 1,1 | 6 | 0,4 | 10 | 18 | 1,3 | 1 | 0 |
+| D. Dumfries | D | 11 | 694 | 0 | 1 | 5 | 0,5 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
+| Bernardo Silva | M | 12 | 637 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 11 | 9 | 0,8 | 0 | 0 |
 | A. Tchouaméni | M | 9 | 619 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 4 | 3 | 0,3 | 2 | 0 |
-| D. Dumfries | D | 10 | 604 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 4 | 4 | 0,4 | 1 | 0 |
-| Bernardo Silva | M | 11 | 570 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 10 | 9 | 0,8 | 0 | 0 |
-| A. Rüdiger | D | 6 | 486 | 2 | 0 | 3 | 0,5 | 3 | 0,5 | 4 | 4 | 0,7 | 1 | 0 |
+| A. Rüdiger | D | 7 | 576 | 2 | 0 | 3 | 0,4 | 3 | 0,4 | 4 | 4 | 0,6 | 1 | 0 |
+| E. Camavinga | M | 12 | 468 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 16 | 11 | 0,9 | 2 | 0 |
 | T. Alexander-Arnold | D | 8 | 435 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
-| E. Camavinga | M | 11 | 378 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 10 | 10 | 0,9 | 2 | 0 |
-| Álvaro Fernández | D | 8 | 340 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 3 | 0,4 | 3 | 0 |
-| Brahim Díaz | M | 7 | 234 | 0 | 2 | 3 | 0,4 | 0 | 0,0 | 1 | 4 | 0,6 | 0 | 0 |
-| Endrick | F | 5 | 117 | 1 | 0 | 5 | 1,0 | 3 | 0,6 | 0 | 2 | 0,4 | 0 | 0 |
-| A. Lunin | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Álvaro Fernández | D | 9 | 349 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 3 | 0,3 | 3 | 0 |
+| Brahim Díaz | M | 8 | 243 | 0 | 3 | 4 | 0,5 | 0 | 0,0 | 1 | 5 | 0,6 | 0 | 0 |
+| Endrick | F | 6 | 140 | 1 | 0 | 7 | 1,2 | 3 | 0,5 | 1 | 2 | 0,3 | 0 | 0 |
+| Éder Militão | D | 2 | 100 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 1 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,66 · visitante 2,11 · córners esperados 9,6._
+_Goles esperados: local 0,67 · visitante 2,18 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 71% | 71% | 71% | 1.33 | -6% |
-| 1X2: X | 19% | 17% | 18% | 5.50 | -2% |
-| 1X2: 1 | 10% | 12% | 11% | 8.00 | -11% |
-| Doble oportunidad: X2 | 90% | 87% | 88% | 1.10 | -3% |
-| Doble oportunidad: 12 | 81% | 84% | 83% | 1.14 | -6% |
-| Doble oportunidad: 1X | 29% | 28% | 29% | 3.40 | -3% |
+| 1X2: 2 | 72% | 71% | 72% | 1.33 | -5% |
+| 1X2: X | 18% | 17% | 18% | 5.50 | -4% |
+| 1X2: 1 | 10% | 12% | 11% | 8.00 | -13% |
+| Doble oportunidad: X2 | 90% | 87% | 89% | 1.10 | -2% |
+| Doble oportunidad: 12 | 82% | 84% | 83% | 1.14 | -5% |
+| Doble oportunidad: 1X | 28% | 28% | 28% | 3.40 | -4% |
 | Ambos marcan: No | 57% | 45% | 51% | 2.05 | +5% |
 | Ambos marcan: Sí | 43% | 55% | 49% | 1.70 | -17% |
-| Goles más/menos: Más de 2.5 | 52% | 68% | 60% | 1.40 | -16% |
-| Goles más/menos: Más de 3.5 | 30% | 47% | 39% | 2.00 | -22% |
-| Goles más/menos: Más de 4.5 | 15% | 28% | 21% | 3.40 | -27% |
-| Goles más/menos: Menos de 2.5 ✅ | 48% | 32% | 40% | 3.00 | +19% |
-| Goles más/menos: Menos de 3.5 | 70% | 53% | 61% | 1.80 | +10% |
-| Goles más/menos: Menos de 4.5 | 85% | 72% | 79% | 1.33 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 78% | 74% | 1.20 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
-| Goles 1ª parte más/menos: Más de 2.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 54% | 60% | 1.73 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Goles del local: Más de 0.5 | 48% | 59% | 54% | 1.57 | -16% |
-| Goles del local: Más de 1.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles del local: Menos de 0.5 | 52% | 41% | 46% | 2.25 | +4% |
-| Goles del local: Menos de 1.5 | 86% | 75% | 80% | 1.25 | +0% |
-| Goles del visitante: Más de 1.5 | 62% | 72% | 67% | 1.30 | -12% |
-| Goles del visitante: Más de 2.5 | 35% | 50% | 43% | 1.83 | -22% |
-| Goles del visitante: Más de 3.5 | 16% | 28% | 22% | 3.40 | -25% |
-| Goles del visitante: Menos de 1.5 ✅ | 38% | 28% | 33% | 3.40 | +11% |
-| Goles del visitante: Menos de 2.5 | 65% | 50% | 57% | 1.83 | +5% |
-| Goles del visitante: Menos de 3.5 | 84% | 72% | 78% | 1.30 | +1% |
+| Goles más/menos: Más de 2.5 | 54% | 68% | 61% | 1.40 | -14% |
+| Goles más/menos: Más de 3.5 | 32% | 47% | 40% | 2.00 | -21% |
+| Goles más/menos: Más de 4.5 | 16% | 28% | 22% | 3.40 | -25% |
+| Goles más/menos: Menos de 2.5 ✅ | 46% | 32% | 39% | 3.00 | +16% |
+| Goles más/menos: Menos de 3.5 | 68% | 53% | 60% | 1.80 | +9% |
+| Goles más/menos: Menos de 4.5 | 84% | 72% | 78% | 1.33 | +4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 13% | 23% | 18% | 4.00 | -27% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 77% | 82% | 1.22 | -0% |
+| Goles del local: Más de 0.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles del local: Más de 1.5 | 15% | 25% | 20% | 3.75 | -26% |
+| Goles del local: Menos de 0.5 | 51% | 41% | 46% | 2.25 | +4% |
+| Goles del local: Menos de 1.5 | 85% | 75% | 80% | 1.25 | +0% |
+| Goles del visitante: Más de 1.5 | 64% | 72% | 68% | 1.30 | -11% |
+| Goles del visitante: Más de 2.5 | 37% | 50% | 44% | 1.83 | -20% |
+| Goles del visitante: Más de 3.5 | 18% | 28% | 23% | 3.40 | -23% |
+| Goles del visitante: Menos de 1.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
+| Goles del visitante: Menos de 2.5 | 63% | 50% | 56% | 1.83 | +3% |
+| Goles del visitante: Menos de 3.5 | 82% | 72% | 77% | 1.30 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 50% | 55% | 53% | 1.67 | -12% |
-| 1X2 descanso: X | 38% | 32% | 35% | 2.88 | +1% |
+| 1X2 descanso: 2 | 51% | 55% | 53% | 1.67 | -11% |
+| 1X2 descanso: X | 38% | 32% | 35% | 2.88 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

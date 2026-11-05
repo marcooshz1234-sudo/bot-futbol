@@ -1,10 +1,10 @@
 # FC Copenhagen – FC Iberia 1999
 **Conference League** · League Stage - 3 · 05/11/2026 21:00 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **1.17**  ·  X **6.50**  ·  2 **17.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.11**  ·  X2 **5.00**
@@ -183,7 +183,7 @@ _Sin precedentes recientes._
 | N. Bochorishvili | D | 2 | 29 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 4,16 · visitante 0,39 · córners esperados 9,4._
+_Goles esperados: local 4,17 · visitante 0,39 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 3.5 | 60% | 34% | 47% | 2.75 | +29% |
 | Goles del local: Menos de 1.5 | 8% | 23% | 16% | 4.00 | -37% |
 | Goles del local: Menos de 2.5 | 21% | 46% | 34% | 2.00 | -32% |
-| Goles del local: Menos de 3.5 | 40% | 66% | 53% | 1.40 | -25% |
+| Goles del local: Menos de 3.5 | 40% | 66% | 53% | 1.40 | -26% |
 | Goles del visitante: Más de 0.5 | 32% | 46% | 39% | 2.00 | -21% |
 | Goles del visitante: Menos de 0.5 | 68% | 54% | 61% | 1.73 | +5% |
 | Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -8% |

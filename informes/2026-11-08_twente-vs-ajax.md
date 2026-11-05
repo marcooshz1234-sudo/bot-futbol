@@ -1,7 +1,7 @@
 # Twente – Ajax
 **Eredivisie** · Regular Season - 12 · 08/11/2026 14:30 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -190,23 +190,23 @@ _Sin bajas comunicadas por ahora._
 | Maarten Paes | G | 5 | 457 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,28 · visitante 1,37 · córners esperados 9,5._
+_Goles esperados: local 2,28 · visitante 1,38 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 33% | 28% | 2.90 | -20% |
+| 1X2: 2 | 23% | 33% | 28% | 2.90 | -20% |
 | 1X2: X | 20% | 25% | 22% | 3.80 | -15% |
-| 1X2: 1 | 58% | 42% | 50% | 2.25 | +13% |
+| 1X2: 1 | 58% | 42% | 50% | 2.25 | +12% |
 | Doble oportunidad: X2 | 42% | 57% | 49% | 1.67 | -17% |
 | Doble oportunidad: 12 | 80% | 76% | 78% | 1.25 | -3% |
-| Doble oportunidad: 1X | 78% | 68% | 73% | 1.40 | +2% |
-| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -10% |
+| Doble oportunidad: 1X | 77% | 68% | 73% | 1.40 | +2% |
+| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -11% |
 | Ambos marcan: Sí | 67% | 65% | 66% | 1.44 | -5% |
-| Goles más/menos: Más de 2.5 | 71% | 64% | 67% | 1.48 | -1% |
+| Goles más/menos: Más de 2.5 | 71% | 64% | 67% | 1.48 | -0% |
 | Goles más/menos: Más de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles más/menos: Más de 4.5 | 30% | 27% | 29% | 3.50 | -0% |
+| Goles más/menos: Más de 4.5 | 30% | 27% | 29% | 3.50 | +0% |
 | Goles más/menos: Menos de 2.5 | 29% | 36% | 33% | 2.60 | -15% |
 | Goles más/menos: Menos de 3.5 | 50% | 56% | 53% | 1.67 | -11% |
 | Goles más/menos: Menos de 4.5 | 70% | 73% | 71% | 1.28 | -9% |
@@ -214,16 +214,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 44% | 46% | 2.10 | -4% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 56% | 54% | 1.67 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 56% | 54% | 1.67 | -9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 66% | 54% | 60% | 1.73 | +4% |
 | Goles del local: Más de 2.5 | 40% | 28% | 34% | 3.40 | +15% |
 | Goles del local: Menos de 1.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Goles del local: Menos de 2.5 | 60% | 72% | 66% | 1.30 | -14% |
-| Goles del visitante: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
+| Goles del visitante: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles del visitante: Más de 1.5 | 40% | 49% | 44% | 1.91 | -15% |
 | Goles del visitante: Más de 2.5 | 16% | 23% | 20% | 4.00 | -21% |
-| Goles del visitante: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
+| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +2% |
 | Goles del visitante: Menos de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
 | Goles del visitante: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.90 | -10% |

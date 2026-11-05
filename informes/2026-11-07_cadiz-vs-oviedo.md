@@ -1,10 +1,10 @@
 # Cadiz – Oviedo
-**Segunda División** · Regular Season - 13 · 07/11/2026 16:15 (hora España) · JP Financial Estadio
+**Segunda División** · Regular Season - 13 · 07/11/2026 16:15 (hora España) · Nuevo Mirandilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:02_
+_Actualizadas: 05/11 02:11_
 
 - **1X2:** 1 **2.70**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.44**
@@ -197,15 +197,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 36% | 34% | 35% | 2.70 | -6% |
 | Doble oportunidad: X2 | 64% | 66% | 65% | 1.44 | -6% |
 | Doble oportunidad: 12 | 76% | 70% | 73% | 1.36 | -1% |
-| Doble oportunidad: 1X | 60% | 64% | 62% | 1.50 | -7% |
+| Doble oportunidad: 1X | 60% | 64% | 62% | 1.50 | -8% |
 | Ambos marcan: No | 39% | 50% | 44% | 1.83 | -19% |
 | Ambos marcan: Sí | 61% | 50% | 56% | 1.83 | +2% |
 | Goles más/menos: Más de 1.5 | 81% | 69% | 75% | 1.36 | +2% |
 | Goles más/menos: Más de 2.5 | 59% | 44% | 51% | 2.15 | +10% |
-| Goles más/menos: Más de 3.5 | 36% | 25% | 31% | 3.75 | +15% |
+| Goles más/menos: Más de 3.5 | 37% | 25% | 31% | 3.75 | +16% |
 | Goles más/menos: Menos de 1.5 | 19% | 31% | 25% | 3.00 | -25% |
 | Goles más/menos: Menos de 2.5 | 41% | 56% | 49% | 1.67 | -19% |
-| Goles más/menos: Menos de 3.5 | 64% | 75% | 69% | 1.25 | -13% |
+| Goles más/menos: Menos de 3.5 | 63% | 75% | 69% | 1.25 | -14% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 29% | 34% | 3.25 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
@@ -214,7 +214,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 43% | 34% | 39% | 2.75 | +6% |
 | Goles del local: Menos de 0.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles del local: Menos de 1.5 | 57% | 66% | 61% | 1.40 | -14% |
-| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles del visitante: Más de 0.5 | 79% | 71% | 75% | 1.33 | +0% |
 | Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |

@@ -1,7 +1,7 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -189,42 +189,42 @@ _Sin bajas comunicadas por ahora._
 | G. Perrin | F | 8 | 213 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,42 · córners esperados 9,6._
+_Goles esperados: local 1,58 · visitante 1,40 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 29% | 32% | 3.30 | +4% |
+| 1X2: 2 | 34% | 29% | 31% | 3.30 | +3% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 41% | 45% | 43% | 2.10 | -9% |
-| Doble oportunidad: X2 | 59% | 56% | 57% | 1.70 | -3% |
+| 1X2: 1 | 42% | 45% | 43% | 2.10 | -9% |
+| Doble oportunidad: X2 | 58% | 56% | 57% | 1.70 | -3% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 65% | 70% | 68% | 1.36 | -8% |
+| Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
 | Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
-| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -7% |
+| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 1.5 | 80% | 79% | 79% | 1.20 | -5% |
-| Goles más/menos: Más de 2.5 | 58% | 59% | 58% | 1.62 | -6% |
-| Goles más/menos: Más de 3.5 | 35% | 38% | 37% | 2.50 | -9% |
-| Goles más/menos: Más de 4.5 | 18% | 21% | 20% | 4.50 | -11% |
-| Goles más/menos: Menos de 1.5 | 20% | 21% | 21% | 4.50 | -8% |
-| Goles más/menos: Menos de 2.5 | 42% | 41% | 42% | 2.30 | -4% |
-| Goles más/menos: Menos de 3.5 | 65% | 62% | 63% | 1.53 | -3% |
+| Goles más/menos: Más de 2.5 | 57% | 59% | 58% | 1.62 | -6% |
+| Goles más/menos: Más de 3.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles más/menos: Más de 4.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles más/menos: Menos de 1.5 | 20% | 21% | 21% | 4.50 | -7% |
+| Goles más/menos: Menos de 2.5 | 43% | 41% | 42% | 2.30 | -3% |
+| Goles más/menos: Menos de 3.5 | 65% | 62% | 64% | 1.53 | -3% |
 | Goles más/menos: Menos de 4.5 | 82% | 79% | 80% | 1.20 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
-| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
+| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -11% |
 | Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
 | Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 42% | 39% | 40% | 2.38 | -4% |
-| Goles del visitante: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles del visitante: Menos de 1.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
+| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -3% |
+| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -4% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 32% | 35% | 34% | 2.62 | -12% |
+| 1X2 descanso: 1 | 32% | 35% | 34% | 2.62 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

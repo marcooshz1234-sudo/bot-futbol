@@ -1,10 +1,10 @@
 # Bristol City – Norwich
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**
@@ -33,6 +33,8 @@ _Actualizadas: 04/11 14:09_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 3,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.30**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -51,6 +53,10 @@ _Actualizadas: 04/11 14:09_
 - **Away Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
+- **Home Team Total Cards:**
+    - 1,5: más **2.00** · menos **1.73**
+- **Away Team Total Cards:**
+    - 1,5: más **1.57** · menos **2.25**
 - **Home Player Shots On Target Total:** Lorent Tolaj - 1 **1.40**  ·  Dominic Ballard - 1 **1.28**  ·  Sam Greenwood - 1 **1.50**  ·  Scott Twine - 1 **1.57**  ·  Sam Bell - 1 **1.57**  ·  Tomi Horvat - 1 **1.67**  ·  Jed Wallace - 1 **2.25**  ·  Yu Hirakawa - 1 **1.67**  ·  Jason Knight - 1 **3.25**  ·  Rio Cardines - 1 **3.50**  ·  Rob Dickie - 1 **3.75**  ·  Adam Randell - 1 **3.25**  ·  Joe Williams - 1 **3.25**  ·  Lisav Eissat - 1 **3.50**  ·  Luke McNally - 1 **3.75**  ·  Cameron Pring - 1 **3.75**  ·  Robert Atkinson - 1 **3.75**  ·  George Tanner - 1 **4.33**  ·  Gibson Yah - 1 **3.25**  ·  Noah Eile - 1 **4.33**  ·  Lorent Tolaj - 2 **2.75**  ·  Dominic Ballard - 2 **2.25**  ·  Sam Greenwood - 2 **3.40**  ·  Scott Twine - 2 **3.75**  ·  Sam Bell - 2 **3.75**  ·  Tomi Horvat - 2 **4.33**  ·  Jed Wallace - 2 **9.00**  ·  Yu Hirakawa - 2 **4.33**  ·  Jason Knight - 2 **15.00**  ·  Rio Cardines - 2 **19.00**  ·  Rob Dickie - 2 **19.00**  ·  Adam Randell - 2 **17.00**  ·  Joe Williams - 2 **17.00**  ·  Lisav Eissat - 2 **19.00**  ·  Luke McNally - 2 **19.00**  ·  Cameron Pring - 2 **19.00**  ·  Robert Atkinson - 2 **19.00**  ·  George Tanner - 2 **21.00**  ·  Gibson Yah - 2 **15.00**  ·  Noah Eile - 2 **21.00**  ·  Lorent Tolaj - 3 **7.00**  ·  Dominic Ballard - 3 **5.00**  ·  Sam Greenwood - 3 **10.00**  ·  Scott Twine - 3 **11.00**  ·  Sam Bell - 3 **11.00**  ·  Tomi Horvat - 3 **13.00**  ·  Yu Hirakawa - 3 **13.00**  ·  Lorent Tolaj - 4 **21.00**  ·  Dominic Ballard - 4 **13.00**  ·  Sam Greenwood - 4 **21.00**  ·  Elijah Adebayo - 1 **1.40**  ·  Brian De Keersmaecker - 1 **2.25**  ·  Elijah Adebayo - 2 **3.00**  ·  Brian De Keersmaecker - 2 **9.00**  ·  Elijah Adebayo - 3 **8.00**  ·  Elijah Adebayo - 4 **21.00**
 - **Away Player Shots On Target Total:** Errol Mundle-Smith **15.00**  ·  Tomi Horvat **34.00**  ·  Jason Knight **29.00**  ·  Lorent Tolaj **17.00**  ·  Jovon Makama **29.00**  ·  Mohamed Toure **12.00**  ·  Mathias Kvistgaarden **15.00**  ·  Pelle Mattsson **67.00**  ·  Rio Cardines **81.00**  ·  Kenny McLean **41.00**  ·  Bruno Ferreira Alves **17.00**  ·  Gibson Yah **15.00**  ·  Jose Cordoba **19.00**  ·  Lisav Eissat **13.00**  ·  Elijah Adebayo **6.50**  ·  Jed Wallace **51.00**  ·  Sam Bell **26.00**  ·  Scott Twine **29.00**  ·  Yu Hirakawa **34.00**  ·  Joe Williams **67.00**  ·  Luke McNally **13.00**  ·  Rob Dickie **19.00**  ·  Cameron Pring **23.00**  ·  Robert Atkinson **13.00**  ·  George Tanner **101.00**  ·  Sam Field **34.00**  ·  Oscar Schwartau **34.00**  ·  Ante Crnac **23.00**  ·  Anis Ben Slimane **34.00**  ·  Benjamin Chrisene **34.00**  ·  Kellen Fisher **51.00**  ·  Jack Stacey **101.00**  ·  Harry Darling **10.00**  ·  Andre Brooks **23.00**  ·  Adam Randell **67.00**  ·  Anthony Musaba **26.00**  ·  Dominic Ballard **11.00**  ·  Brian De Keersmaecker **41.00**  ·  Noah Eile **17.00**  ·  Sam Greenwood **29.00**  ·  Mirko Topic **34.00**  ·  Papa Diallo **34.00**  ·  Lucien Mahovo **15.00**  ·  Darlin Yongwa **51.00**  ·  Ruairi McConville **13.00**  ·  Paris Maghoma **19.00**  ·  Jacob Wright **34.00**
 - **Home Player Shots:** Lorent Tolaj - 1 **1.04**  ·  Dominic Ballard - 1 **1.02**  ·  Sam Greenwood - 1 **1.06**  ·  Scott Twine - 1 **1.05**  ·  Sam Bell - 1 **1.07**  ·  Tomi Horvat - 1 **1.10**  ·  Jed Wallace - 1 **1.25**  ·  Yu Hirakawa - 1 **1.10**  ·  Jason Knight - 1 **1.53**  ·  Rio Cardines - 1 **1.67**  ·  Rob Dickie - 1 **1.80**  ·  Adam Randell - 1 **1.57**  ·  Joe Williams - 1 **1.57**  ·  Lisav Eissat - 1 **1.67**  ·  Luke McNally - 1 **1.80**  ·  Cameron Pring - 1 **1.80**  ·  Robert Atkinson - 1 **1.80**  ·  George Tanner - 1 **2.00**  ·  Gibson Yah - 1 **1.53**  ·  Noah Eile - 1 **2.00**  ·  Lorent Tolaj - 2 **1.20**  ·  Dominic Ballard - 2 **1.14**  ·  Sam Greenwood - 2 **1.30**  ·  Scott Twine - 2 **1.28**  ·  Sam Bell - 2 **1.36**  ·  Tomi Horvat - 2 **1.44**  ·  Jed Wallace - 2 **2.10**  ·  Yu Hirakawa - 2 **1.44**  ·  Jason Knight - 2 **3.40**  ·  Rio Cardines - 2 **4.00**  ·  Rob Dickie - 2 **4.33**  ·  Adam Randell - 2 **3.50**  ·  Joe Williams - 2 **3.50**  ·  Lisav Eissat - 2 **4.00**  ·  Luke McNally - 2 **4.33**  ·  Cameron Pring - 2 **4.33**  ·  Robert Atkinson - 2 **4.33**  ·  George Tanner - 2 **5.50**  ·  Gibson Yah - 2 **3.40**  ·  Noah Eile - 2 **5.50**  ·  Lorent Tolaj - 3 **1.62**  ·  Dominic Ballard - 3 **1.44**  ·  Sam Greenwood - 3 **1.83**  ·  Scott Twine - 3 **1.80**  ·  Sam Bell - 3 **2.00**  ·  Tomi Horvat - 3 **2.25**  ·  Jed Wallace - 3 **4.33**  ·  Yu Hirakawa - 3 **2.25**  ·  Jason Knight - 3 **9.00**  ·  Rio Cardines - 3 **11.00**  ·  Rob Dickie - 3 **13.00**  ·  Adam Randell - 3 **10.00**  ·  Joe Williams - 3 **10.00**  ·  Lisav Eissat - 3 **11.00**  ·  Luke McNally - 3 **13.00**  ·  Cameron Pring - 3 **13.00**  ·  Robert Atkinson - 3 **13.00**  ·  George Tanner - 3 **17.00**  ·  Gibson Yah - 3 **9.00**  ·  Noah Eile - 3 **17.00**  ·  Lorent Tolaj - 4 **2.50**  ·  Dominic Ballard - 4 **2.00**  ·  Sam Greenwood - 4 **3.00**  ·  Scott Twine - 4 **3.00**  ·  Sam Bell - 4 **3.50**  ·  Tomi Horvat - 4 **4.00**  ·  Jed Wallace - 4 **10.00**  ·  Yu Hirakawa - 4 **4.00**  ·  Jason Knight - 4 **21.00**  ·  Adam Randell - 4 **21.00**  ·  Lorent Tolaj - 5 **4.00**  ·  Dominic Ballard - 5 **3.40**  ·  Sam Greenwood - 5 **5.50**  ·  Scott Twine - 5 **5.50**  ·  Sam Bell - 5 **6.50**  ·  Tomi Horvat - 5 **9.00**  ·  Jed Wallace - 5 **21.00**  ·  Yu Hirakawa - 5 **9.00**  ·  Lorent Tolaj - 6 **8.00**  ·  Dominic Ballard - 6 **5.50**  ·  Sam Greenwood - 6 **11.00**  ·  Scott Twine - 6 **11.00**  ·  Sam Bell - 6 **13.00**  ·  Tomi Horvat - 6 **17.00**  ·  Yu Hirakawa - 6 **17.00**  ·  Lorent Tolaj - 7 **15.00**  ·  Dominic Ballard - 7 **11.00**  ·  Sam Greenwood - 7 **21.00**  ·  Scott Twine - 7 **21.00**  ·  Lorent Tolaj - 8 **21.00**  ·  Dominic Ballard - 8 **19.00**  ·  Sam Bell - 7 **21.00**  ·  Joe Williams - 4 **21.00**  ·  Elijah Adebayo - 1 **1.04**  ·  Brian De Keersmaecker - 1 **1.25**  ·  Elijah Adebayo - 2 **1.22**  ·  Brian De Keersmaecker - 2 **2.10**  ·  Elijah Adebayo - 3 **1.67**  ·  Brian De Keersmaecker - 3 **4.33**  ·  Elijah Adebayo - 4 **2.62**  ·  Brian De Keersmaecker - 4 **10.00**  ·  Elijah Adebayo - 5 **4.50**  ·  Brian De Keersmaecker - 5 **21.00**  ·  Elijah Adebayo - 6 **9.00**  ·  Elijah Adebayo - 7 **17.00**  ·  Gibson Yah - 4 **21.00**
@@ -61,53 +67,53 @@ _Actualizadas: 04/11 14:09_
 ## Estadísticas de equipo
 | | Bristol City (total) | Bristol City en casa | Norwich (total) | Norwich fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 17 | 9 |
-| Forma (últimos 5) | VEDDE | DDVDV | VVVDD | VVDDD |
-| Balance | 5V 3E 6D | 2V 0E 5D | 8V 0E 9D | 4V 0E 5D |
-| Goles a favor / partido | 1,07 | 0,43 | 1,94 | 1,78 |
-| Goles en contra / partido | 1,29 | 1,00 | 1,82 | 2,00 |
-| Goles a favor 1ª parte | 0,43 | 0,29 | 1,12 | 1,00 |
-| Goles a favor 2ª parte | 0,64 | 0,14 | 0,82 | 0,78 |
-| Goles en contra 1ª parte | 0,50 | 0,43 | 0,82 | 1,00 |
-| Goles en contra 2ª parte | 0,79 | 0,57 | 1,00 | 1,00 |
-| Más de 1,5 goles | 57% | 29% | 82% | 89% |
-| Más de 2,5 goles | 43% | 14% | 82% | 89% |
-| Más de 3,5 goles | 29% | 0% | 53% | 56% |
-| Ambos marcan | 50% | 14% | 65% | 56% |
-| Portería a cero | 14% | 14% | 6% | 11% |
-| Se queda sin marcar | 43% | 71% | 29% | 33% |
-| xG a favor | 1,44 | 1,14 | 1,52 | 1,64 |
-| xG en contra | 1,31 | 1,23 | 1,48 | 1,49 |
-| Tiros / partido | 15,0 | 15,9 | 14,4 | 13,1 |
-| Tiros a puerta / partido | 4,7 | 4,4 | 4,9 | 4,7 |
-| Tiros recibidos | 12,1 | 12,0 | 11,4 | 11,7 |
-| Tiros a puerta recibidos | 2,9 | 2,4 | 4,3 | 4,6 |
-| Posesión media % | 47 | 52 | 52 | 50 |
-| Córners a favor | 5,9 | 7,1 | 4,7 | 4,1 |
-| Córners en contra | 5,6 | 5,6 | 3,7 | 4,2 |
-| Córners a favor 1ª parte | 3,1 | 3,6 | 1,8 | 1,8 |
-| Córners a favor 2ª parte | 2,9 | 3,6 | 2,9 | 2,3 |
-| Córners totales del partido | 11,6 | 12,7 | 8,4 | 8,3 |
-| Córners totales 1ª parte | 5,9 | 6,4 | 3,3 | 3,7 |
-| Córners totales 2ª parte | 5,7 | 6,3 | 5,1 | 4,7 |
-| Más de 8,5 córners | 71% | 71% | 47% | 44% |
-| Más de 9,5 córners | 71% | 71% | 41% | 33% |
-| Más de 10,5 córners | 57% | 71% | 24% | 22% |
-| Faltas cometidas | 10,9 | 10,6 | 10,9 | 9,4 |
-| Faltas recibidas | 10,7 | 11,7 | 11,4 | 12,3 |
-| Amarillas propias | 1,2 | 1,1 | 2,0 | 1,6 |
-| Amarillas del rival | 1,9 | 2,3 | 1,7 | 1,8 |
-| Rojas / partido | 0,07 | 0,14 | 0,06 | 0,11 |
+| Partidos analizados | 15 | 8 | 17 | 9 |
+| Forma (últimos 5) | DVEDD | DDDVD | VVVDD | VVDDD |
+| Balance | 5V 3E 7D | 2V 0E 6D | 8V 0E 9D | 4V 0E 5D |
+| Goles a favor / partido | 1,07 | 0,50 | 1,94 | 1,78 |
+| Goles en contra / partido | 1,33 | 1,12 | 1,82 | 2,00 |
+| Goles a favor 1ª parte | 0,47 | 0,38 | 1,12 | 1,00 |
+| Goles a favor 2ª parte | 0,60 | 0,12 | 0,82 | 0,78 |
+| Goles en contra 1ª parte | 0,47 | 0,38 | 0,82 | 1,00 |
+| Goles en contra 2ª parte | 0,87 | 0,75 | 1,00 | 1,00 |
+| Más de 1,5 goles | 60% | 38% | 82% | 89% |
+| Más de 2,5 goles | 47% | 25% | 82% | 89% |
+| Más de 3,5 goles | 27% | 0% | 53% | 56% |
+| Ambos marcan | 53% | 25% | 65% | 56% |
+| Portería a cero | 13% | 12% | 6% | 11% |
+| Se queda sin marcar | 40% | 62% | 29% | 33% |
+| xG a favor | 1,39 | 1,08 | 1,52 | 1,64 |
+| xG en contra | 1,37 | 1,37 | 1,48 | 1,49 |
+| Tiros / partido | 14,3 | 14,5 | 14,4 | 13,1 |
+| Tiros a puerta / partido | 4,6 | 4,2 | 4,9 | 4,7 |
+| Tiros recibidos | 12,5 | 12,6 | 11,4 | 11,7 |
+| Tiros a puerta recibidos | 3,3 | 3,1 | 4,3 | 4,6 |
+| Posesión media % | 46 | 50 | 52 | 50 |
+| Córners a favor | 5,7 | 6,5 | 4,7 | 4,1 |
+| Córners en contra | 5,6 | 5,5 | 3,7 | 4,2 |
+| Córners a favor 1ª parte | 2,9 | 3,2 | 1,8 | 1,8 |
+| Córners a favor 2ª parte | 2,7 | 3,2 | 2,9 | 2,3 |
+| Córners totales del partido | 11,3 | 12,0 | 8,4 | 8,3 |
+| Córners totales 1ª parte | 5,7 | 6,1 | 3,3 | 3,7 |
+| Córners totales 2ª parte | 5,5 | 5,9 | 5,1 | 4,7 |
+| Más de 8,5 córners | 67% | 62% | 47% | 44% |
+| Más de 9,5 córners | 67% | 62% | 41% | 33% |
+| Más de 10,5 córners | 53% | 62% | 24% | 22% |
+| Faltas cometidas | 10,7 | 10,2 | 10,9 | 9,4 |
+| Faltas recibidas | 10,6 | 11,4 | 11,4 | 12,3 |
+| Amarillas propias | 1,3 | 1,2 | 2,0 | 1,6 |
+| Amarillas del rival | 1,9 | 2,1 | 1,7 | 1,8 |
+| Rojas / partido | 0,07 | 0,12 | 0,06 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bristol City | Recibe Bristol City | Tarjetas Bristol City | Goles Norwich | Recibe Norwich | Tarjetas Norwich |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 2 | 1 | 8 | 6 | 2 |
 | 16-30' | 1 | 1 | 2 | 6 | 5 | 7 |
-| 31-45' | 3 | 4 | 4 | 5 | 3 | 5 |
+| 31-45' | 4 | 4 | 4 | 5 | 3 | 5 |
 | 46-60' | 1 | 6 | 4 | 3 | 9 | 6 |
-| 61-75' | 1 | 1 | 2 | 8 | 3 | 8 |
-| 76-90' | 7 | 4 | 5 | 3 | 5 | 8 |
+| 61-75' | 1 | 1 | 3 | 8 | 3 | 8 |
+| 76-90' | 7 | 6 | 6 | 3 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -125,36 +131,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bristol City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Championship | Bristol City 1-2 Wolves | casa | 2-5 | 5 (3) - 17 (8) | 2-1 |
 | 2026-10-31 | Championship | Bolton 2-3 Bristol City | fuera | 4-11 | 14 (9) - 19 (6) | 1-1 |
 | 2026-10-24 | Championship | Stoke City 0-0 Bristol City | fuera | 6-5 | 8 (0) - 11 (1) | 2-1 |
 | 2026-10-17 | Championship | Bristol City 0-1 Sheffield Utd | casa | 3-5 | 7 (1) - 16 (2) | 1-1 |
 | 2026-10-13 | Championship | Bristol City 0-1 Blackburn | casa | 10-5 | 20 (7) - 3 (1) | –-– |
 | 2026-10-10 | Championship | Charlton 1-1 Bristol City | fuera | 5-5 | 13 (3) - 12 (4) | 1-2 |
-| 2026-09-18 | Championship | Bristol City 1-0 Watford | casa | 2-5 | 17 (7) - 10 (2) | 2-5 |
 
 ## Jugadores de Bristol City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Knight | M | 14 | 1235 | 1 | 1 | 5 | 0,4 | 2 | 0,1 | 19 | 11 | 0,8 | 4 | 0 |
+| J. Knight | M | 15 | 1325 | 1 | 1 | 5 | 0,3 | 2 | 0,1 | 21 | 12 | 0,8 | 4 | 0 |
 | Sam Tickle | G | 12 | 1085 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Rio Cardines | M | 13 | 992 | 0 | 6 | 6 | 0,5 | 1 | 0,1 | 4 | 8 | 0,6 | 1 | 0 |
-| L. Eissat | D | 12 | 963 | 1 | 0 | 10 | 0,8 | 3 | 0,2 | 14 | 1 | 0,1 | 2 | 0 |
-| G. Tanner | D | 12 | 918 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 6 | 3 | 0,2 | 0 | 0 |
-| Y. Hirakawa | M | 13 | 776 | 1 | 0 | 13 | 1,0 | 8 | 0,6 | 8 | 13 | 1,0 | 0 | 0 |
-| D. Ballard | M | 14 | 768 | 4 | 0 | 23 | 1,6 | 8 | 0,6 | 13 | 10 | 0,7 | 0 | 0 |
-| L. Tolaj | F | 11 | 762 | 2 | 1 | 27 | 2,5 | 10 | 0,9 | 23 | 13 | 1,2 | 1 | 0 |
-| C. Pring | D | 12 | 717 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 9 | 0,8 | 0 | 0 |
+| Rio Cardines | M | 14 | 1059 | 0 | 6 | 6 | 0,4 | 1 | 0,1 | 4 | 8 | 0,6 | 1 | 0 |
+| L. Eissat | D | 13 | 1053 | 1 | 0 | 10 | 0,8 | 3 | 0,2 | 14 | 1 | 0,1 | 2 | 0 |
+| G. Tanner | D | 13 | 1008 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 6 | 5 | 0,4 | 0 | 0 |
+| L. Tolaj | F | 12 | 852 | 2 | 1 | 28 | 2,3 | 10 | 0,8 | 23 | 13 | 1,1 | 1 | 0 |
+| Y. Hirakawa | M | 14 | 808 | 1 | 0 | 13 | 0,9 | 8 | 0,6 | 8 | 13 | 0,9 | 0 | 0 |
+| C. Pring | D | 13 | 807 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 10 | 11 | 0,8 | 1 | 0 |
+| D. Ballard | F | 15 | 791 | 4 | 0 | 24 | 1,6 | 9 | 0,6 | 13 | 10 | 0,7 | 0 | 0 |
+| S. Twine | M | 12 | 773 | 5 | 0 | 16 | 1,3 | 9 | 0,8 | 6 | 20 | 1,7 | 0 | 0 |
+| J. Williams | M | 11 | 757 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 4 | 7 | 0,6 | 2 | 0 |
 | Rob Dickie | D | 8 | 711 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 9 | 12 | 1,5 | 1 | 0 |
-| S. Twine | M | 11 | 706 | 4 | 0 | 14 | 1,3 | 8 | 0,7 | 4 | 17 | 1,5 | 0 | 0 |
-| J. Williams | M | 10 | 672 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 4 | 7 | 0,7 | 2 | 0 |
-| J. Wallace | M | 13 | 583 | 0 | 2 | 7 | 0,5 | 4 | 0,3 | 5 | 5 | 0,4 | 0 | 0 |
+| J. Wallace | M | 14 | 606 | 0 | 2 | 7 | 0,5 | 4 | 0,3 | 5 | 5 | 0,4 | 0 | 0 |
 | Robert Atkinson | D | 7 | 465 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
+| L. McNally | D | 5 | 450 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 3 | 3 | 0,6 | 2 | 0 |
 | Sam Greenwood | M | 11 | 446 | 0 | 0 | 11 | 1,0 | 7 | 0,6 | 10 | 12 | 1,1 | 1 | 0 |
 | G. Yah | M | 9 | 439 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 6 | 7 | 0,8 | 0 | 0 |
-| L. McNally | D | 4 | 360 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 2 | 2 | 0,5 | 1 | 0 |
-| A. Randell | M | 7 | 333 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 8 | 1,1 | 2 | 1 |
+| A. Randell | M | 8 | 338 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 8 | 1,0 | 2 | 1 |
+| B. Collins | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | B. De Keersmaecker | M | 5 | 189 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
-| B. Collins | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Norwich
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -191,42 +197,42 @@ _Sin bajas comunicadas por ahora._
 | K. Fisher | D | 8 | 424 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 7 | 9 | 1,1 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,44 · visitante 1,47 · córners esperados 9,5._
+_Goles esperados: local 1,44 · visitante 1,52 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 36% | 37% | 2.55 | -5% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -12% |
-| 1X2: 1 | 37% | 36% | 37% | 2.55 | -7% |
-| Doble oportunidad: X2 | 63% | 63% | 63% | 1.50 | -5% |
-| Doble oportunidad: 12 | 75% | 73% | 74% | 1.30 | -3% |
-| Doble oportunidad: 1X | 62% | 63% | 62% | 1.50 | -6% |
-| Ambos marcan: No | 41% | 41% | 41% | 2.25 | -7% |
-| Ambos marcan: Sí | 59% | 59% | 59% | 1.57 | -8% |
-| Goles más/menos: Más de 1.5 | 79% | 78% | 78% | 1.22 | -4% |
-| Goles más/menos: Más de 2.5 | 56% | 55% | 55% | 1.73 | -4% |
-| Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -7% |
-| Goles más/menos: Menos de 1.5 | 21% | 22% | 22% | 4.33 | -6% |
-| Goles más/menos: Menos de 2.5 | 44% | 45% | 45% | 2.10 | -6% |
-| Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
+| 1X2: 2 | 40% | 36% | 38% | 2.55 | -3% |
+| 1X2: X | 24% | 27% | 26% | 3.40 | -12% |
+| 1X2: 1 | 36% | 36% | 36% | 2.55 | -8% |
+| Doble oportunidad: X2 | 64% | 63% | 64% | 1.50 | -4% |
+| Doble oportunidad: 12 | 76% | 73% | 74% | 1.30 | -3% |
+| Doble oportunidad: 1X | 60% | 63% | 62% | 1.50 | -7% |
+| Ambos marcan: No | 40% | 41% | 41% | 2.25 | -8% |
+| Ambos marcan: Sí | 60% | 59% | 59% | 1.57 | -7% |
+| Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -8% |
+| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
+| Goles más/menos: Menos de 3.5 | 65% | 66% | 66% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Goles del local: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles del local: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del local: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
 | Goles del local: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
-| Goles del visitante: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles del visitante: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles del visitante: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
-| Córners más/menos: Más de 9.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Córners más/menos: Menos de 9.5 | 55% | 46% | 51% | 2.00 | +2% |
-| 1X2 descanso: 2 | 30% | 30% | 30% | 3.10 | -7% |
-| 1X2 descanso: X | 41% | 40% | 40% | 2.30 | -7% |
-| 1X2 descanso: 1 | 29% | 30% | 30% | 3.10 | -8% |
+| Goles del visitante: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
+| Goles del visitante: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del visitante: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
+| Córners más/menos: Más de 9.5 | 44% | 54% | 49% | 1.73 | -15% |
+| Córners más/menos: Menos de 9.5 | 56% | 46% | 51% | 2.00 | +2% |
+| 1X2 descanso: 2 | 31% | 30% | 30% | 3.10 | -6% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 29% | 30% | 29% | 3.10 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

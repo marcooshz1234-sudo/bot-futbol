@@ -1,12 +1,12 @@
 # Trabzonspor – SC Freiburg
 **Conference League** · League Stage - 3 · 05/11/2026 18:45 (hora España) · Papara Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 20:01_
+_Actualizadas: 05/11 02:10_
 
-- **1X2:** 1 **2.45**  ·  X **3.70**  ·  2 **2.62**
+- **1X2:** 1 **2.40**  ·  X **3.70**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -42,7 +42,7 @@ _Actualizadas: 04/11 20:01_
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **3.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **17.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.40**

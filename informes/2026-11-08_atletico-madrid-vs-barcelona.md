@@ -1,7 +1,7 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 14:10_
@@ -195,7 +195,7 @@ _Sin bajas comunicadas por ahora._
 | B. Farinas | D | 2 | 172 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,30 · visitante 1,95 · córners esperados 9,1._
+_Goles esperados: local 1,29 · visitante 1,95 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -220,14 +220,14 @@ _Goles esperados: local 1,30 · visitante 1,95 · córners esperados 9,1._
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 50% | 54% | 1.83 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 75% | 79% | 1.25 | -1% |
 | Goles del local: Más de 0.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del local: Más de 1.5 | 37% | 44% | 41% | 2.10 | -14% |
-| Goles del local: Más de 2.5 | 14% | 21% | 18% | 4.50 | -21% |
-| Goles del local: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +1% |
+| Goles del local: Más de 1.5 | 37% | 44% | 41% | 2.10 | -15% |
+| Goles del local: Más de 2.5 | 14% | 21% | 17% | 4.50 | -21% |
+| Goles del local: Menos de 0.5 | 27% | 23% | 25% | 4.00 | +2% |
 | Goles del local: Menos de 1.5 | 63% | 56% | 59% | 1.67 | -1% |
-| Goles del local: Menos de 2.5 | 86% | 79% | 82% | 1.18 | -3% |
+| Goles del local: Menos de 2.5 | 86% | 79% | 83% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
+| Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 2.5 | 69% | 62% | 66% | 1.50 | -1% |
 | Córners más/menos: Más de 10.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Córners más/menos: Más de 9.5 | 42% | 50% | 46% | 1.83 | -16% |

@@ -1,7 +1,7 @@
 # Monza – Atalanta
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -189,7 +189,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Giacomo Raspadori | M | 7 | 350 | 2 | 1 | 8 | 1,1 | 5 | 0,7 | 6 | 6 | 0,9 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 1,48 · córners esperados 9,6._
+_Goles esperados: local 1,77 · visitante 1,49 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -197,19 +197,19 @@ _Goles esperados: local 1,76 · visitante 1,48 · córners esperados 9,6._
 | 1X2: X | 23% | 27% | 25% | 3.60 | -11% |
 | 1X2: 1 ✅ | 44% | 28% | 36% | 3.40 | +23% |
 | Doble oportunidad: X2 | 56% | 71% | 63% | 1.33 | -16% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
+| Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 67% | 55% | 61% | 1.73 | +6% |
 | Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
 | Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
 | Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Más de 3.5 | 41% | 40% | 40% | 2.38 | -4% |
 | Goles más/menos: Más de 4.5 | 23% | 22% | 22% | 4.33 | -3% |
-| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -8% |
+| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -9% |
 | Goles más/menos: Menos de 3.5 | 59% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 77% | 78% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Más de 0.5 | 83% | 73% | 78% | 1.28 | -0% |
 | Goles del local: Más de 1.5 ✅ | 53% | 39% | 46% | 2.38 | +9% |

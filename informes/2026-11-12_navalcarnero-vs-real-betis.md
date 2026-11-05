@@ -1,7 +1,7 @@
 # Navalcarnero – Real Betis
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Santo Domingo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 20:02_
@@ -48,42 +48,42 @@ _Actualizadas: 04/11 20:02_
 ## Estadísticas de equipo
 | | Navalcarnero (total) | Navalcarnero en casa | Real Betis (total) | Real Betis fuera |
 |---|---|---|---|---|
-| Partidos analizados | 0 | 0 | 14 | 6 |
-| Forma (últimos 5) |  |  | VEVDV | EEVVD |
-| Balance | 0V 0E 0D | 0V 0E 0D | 10V 2E 2D | 3V 2E 1D |
-| Goles a favor / partido | – | – | 1,79 | 1,50 |
-| Goles en contra / partido | – | – | 1,36 | 1,50 |
-| Goles a favor 1ª parte | – | – | 0,86 | 1,00 |
-| Goles a favor 2ª parte | – | – | 0,93 | 0,50 |
-| Goles en contra 1ª parte | – | – | 0,50 | 0,83 |
-| Goles en contra 2ª parte | – | – | 0,86 | 0,67 |
-| Más de 1,5 goles | – | – | 57% | 67% |
-| Más de 2,5 goles | – | – | 50% | 50% |
-| Más de 3,5 goles | – | – | 36% | 33% |
-| Ambos marcan | – | – | 57% | 67% |
-| Portería a cero | – | – | 43% | 33% |
-| Se queda sin marcar | – | – | 7% | 17% |
-| xG a favor | – | – | 1,68 | 1,65 |
-| xG en contra | – | – | 1,63 | 1,60 |
-| Tiros / partido | – | – | 17,6 | 17,8 |
-| Tiros a puerta / partido | – | – | 6,2 | 5,3 |
-| Tiros recibidos | – | – | 13,6 | 15,2 |
-| Tiros a puerta recibidos | – | – | 5,2 | 5,7 |
-| Posesión media % | – | – | 52 | 54 |
+| Partidos analizados | 0 | 0 | 15 | 7 |
+| Forma (últimos 5) |  |  | DVEVD | DEEVV |
+| Balance | 0V 0E 0D | 0V 0E 0D | 10V 2E 3D | 3V 2E 2D |
+| Goles a favor / partido | – | – | 1,73 | 1,43 |
+| Goles en contra / partido | – | – | 1,40 | 1,57 |
+| Goles a favor 1ª parte | – | – | 0,80 | 0,86 |
+| Goles a favor 2ª parte | – | – | 0,93 | 0,57 |
+| Goles en contra 1ª parte | – | – | 0,47 | 0,71 |
+| Goles en contra 2ª parte | – | – | 0,93 | 0,86 |
+| Más de 1,5 goles | – | – | 60% | 71% |
+| Más de 2,5 goles | – | – | 53% | 57% |
+| Más de 3,5 goles | – | – | 33% | 29% |
+| Ambos marcan | – | – | 60% | 71% |
+| Portería a cero | – | – | 40% | 29% |
+| Se queda sin marcar | – | – | 7% | 14% |
+| xG a favor | – | – | 1,62 | 1,54 |
+| xG en contra | – | – | 1,70 | 1,75 |
+| Tiros / partido | – | – | 17,1 | 16,9 |
+| Tiros a puerta / partido | – | – | 6,1 | 5,1 |
+| Tiros recibidos | – | – | 13,7 | 15,1 |
+| Tiros a puerta recibidos | – | – | 5,3 | 5,7 |
+| Posesión media % | – | – | 52 | 53 |
 | Córners a favor | – | – | 5,1 | 4,7 |
-| Córners en contra | – | – | 5,3 | 6,5 |
-| Córners a favor 1ª parte | – | – | 3,2 | 3,0 |
-| Córners a favor 2ª parte | – | – | 1,9 | 1,7 |
-| Córners totales del partido | – | – | 10,4 | 11,2 |
-| Córners totales 1ª parte | – | – | 5,1 | 5,2 |
-| Córners totales 2ª parte | – | – | 5,2 | 6,0 |
-| Más de 8,5 córners | – | – | 64% | 83% |
-| Más de 9,5 córners | – | – | 57% | 83% |
-| Más de 10,5 córners | – | – | 43% | 50% |
-| Faltas cometidas | – | – | 10,4 | 10,0 |
-| Faltas recibidas | – | – | 11,8 | 8,7 |
-| Amarillas propias | – | – | 1,9 | 1,2 |
-| Amarillas del rival | – | – | 2,4 | 1,3 |
+| Córners en contra | – | – | 5,1 | 5,9 |
+| Córners a favor 1ª parte | – | – | 3,1 | 2,7 |
+| Córners a favor 2ª parte | – | – | 2,0 | 2,0 |
+| Córners totales del partido | – | – | 10,1 | 10,6 |
+| Córners totales 1ª parte | – | – | 5,0 | 4,9 |
+| Córners totales 2ª parte | – | – | 5,1 | 5,7 |
+| Más de 8,5 córners | – | – | 60% | 71% |
+| Más de 9,5 córners | – | – | 53% | 71% |
+| Más de 10,5 córners | – | – | 40% | 43% |
+| Faltas cometidas | – | – | 10,6 | 10,4 |
+| Faltas recibidas | – | – | 12,0 | 9,6 |
+| Amarillas propias | – | – | 2,0 | 1,6 |
+| Amarillas del rival | – | – | 2,5 | 1,7 |
 | Rojas / partido | – | – | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -91,10 +91,10 @@ _Actualizadas: 04/11 20:02_
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 0 | 0 | 1 | 2 | 0 |
 | 16-30' | 0 | 0 | 0 | 1 | 2 | 2 |
-| 31-45' | 0 | 0 | 0 | 10 | 3 | 3 |
-| 46-60' | 0 | 0 | 0 | 6 | 5 | 5 |
-| 61-75' | 0 | 0 | 0 | 3 | 4 | 6 |
-| 76-90' | 0 | 0 | 0 | 4 | 3 | 11 |
+| 31-45' | 0 | 0 | 0 | 10 | 3 | 4 |
+| 46-60' | 0 | 0 | 0 | 6 | 6 | 5 |
+| 61-75' | 0 | 0 | 0 | 4 | 5 | 7 |
+| 76-90' | 0 | 0 | 0 | 4 | 3 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,35 +115,35 @@ _Sin precedentes recientes._
 ## Últimos partidos de Real Betis
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | Champions League | Borussia Dortmund 2-1 Real Betis | fuera | 5-2 | 11 (4) - 15 (6) | 4-4 |
 | 2026-10-31 | LaLiga | Real Betis 2-1 Malaga | casa | 10-3 | 23 (6) - 10 (4) | 2-2 |
 | 2026-10-25 | LaLiga | Celta Vigo 0-0 Real Betis | fuera | 4-3 | 15 (2) - 12 (4) | 1-2 |
 | 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | casa | 4-4 | 23 (10) - 12 (2) | 1-2 |
 | 2026-10-17 | LaLiga | Real Betis 2-5 Barcelona | casa | 2-5 | 6 (5) - 18 (10) | 3-2 |
 | 2026-10-14 | Champions League | Real Betis 3-2 FC Porto | casa | 5-1 | 17 (7) - 11 (5) | 4-3 |
-| 2026-10-11 | LaLiga | Real Betis 5-2 Osasuna | casa | 8-4 | 20 (7) - 11 (5) | 2-5 |
 
 ## Jugadores de Real Betis
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Álvaro Vallés | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Natan | D | 12 | 1051 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 3 | 6 | 0,5 | 3 | 0 |
-| Fran García | D | 12 | 940 | 0 | 2 | 3 | 0,2 | 1 | 0,1 | 6 | 11 | 0,9 | 1 | 0 |
+| Álvaro Vallés | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Natan | D | 13 | 1141 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 4 | 7 | 0,5 | 4 | 0 |
+| Fran García | D | 13 | 960 | 0 | 2 | 3 | 0,2 | 1 | 0,1 | 6 | 11 | 0,8 | 1 | 0 |
+| Antony | M | 14 | 934 | 0 | 1 | 32 | 2,3 | 16 | 1,1 | 12 | 14 | 1,0 | 0 | 0 |
 | Héctor Bellerín | D | 12 | 929 | 0 | 1 | 5 | 0,4 | 3 | 0,2 | 8 | 3 | 0,2 | 2 | 0 |
-| Marc Roca | M | 11 | 886 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 18 | 9 | 0,8 | 3 | 0 |
+| Marc Roca | M | 12 | 898 | 0 | 1 | 8 | 0,7 | 2 | 0,2 | 18 | 10 | 0,8 | 3 | 0 |
 | Pablo Fornals | M | 13 | 876 | 1 | 2 | 17 | 1,3 | 3 | 0,2 | 10 | 8 | 0,6 | 0 | 0 |
-| Antony | F | 13 | 872 | 0 | 1 | 31 | 2,4 | 16 | 1,2 | 11 | 13 | 1,0 | 0 | 0 |
-| A. Ezzalzouli | M | 10 | 783 | 4 | 0 | 28 | 2,8 | 10 | 1,0 | 7 | 16 | 1,6 | 1 | 0 |
-| Isco | M | 13 | 759 | 4 | 2 | 18 | 1,4 | 13 | 1,0 | 12 | 18 | 1,4 | 0 | 0 |
+| A. Ezzalzouli | M | 11 | 873 | 4 | 1 | 30 | 2,7 | 11 | 1,0 | 9 | 19 | 1,7 | 1 | 0 |
+| Isco | M | 14 | 787 | 4 | 2 | 18 | 1,3 | 13 | 0,9 | 14 | 19 | 1,4 | 1 | 0 |
 | Marc Bartra | D | 10 | 715 | 4 | 0 | 14 | 1,4 | 9 | 0,9 | 1 | 3 | 0,3 | 0 | 0 |
+| F. Bernal | M | 11 | 620 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 12 | 6 | 0,5 | 3 | 1 |
+| T. Parrott | F | 12 | 619 | 2 | 1 | 13 | 1,1 | 5 | 0,4 | 5 | 7 | 0,6 | 0 | 0 |
 | Cucho Hernández | F | 10 | 617 | 3 | 2 | 12 | 1,2 | 8 | 0,8 | 5 | 8 | 0,8 | 1 | 0 |
+| N. Deossa | M | 15 | 611 | 0 | 1 | 24 | 1,6 | 7 | 0,5 | 15 | 14 | 0,9 | 2 | 0 |
 | Rodrigo Riquelme | M | 13 | 576 | 2 | 1 | 11 | 0,8 | 5 | 0,4 | 7 | 13 | 1,0 | 1 | 0 |
-| Facundo Bernal | M | 10 | 542 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 11 | 5 | 0,5 | 3 | 1 |
-| T. Parrott | F | 11 | 541 | 2 | 1 | 13 | 1,2 | 5 | 0,5 | 5 | 7 | 0,6 | 0 | 0 |
-| N. Deossa | M | 14 | 521 | 0 | 1 | 21 | 1,5 | 6 | 0,4 | 14 | 10 | 0,7 | 2 | 0 |
-| V. Gómez | D | 6 | 467 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 5 | 3 | 0,5 | 1 | 0 |
-| Diego Llorente | D | 5 | 377 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 2 | 0 |
-| Ángel Ortiz | D | 7 | 331 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 2 | 0,3 | 2 | 0 |
-| Dani Ceballos | M | 9 | 291 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 12 | 1,3 | 1 | 0 |
+| V. Gómez | D | 7 | 537 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 3 | 0,4 | 2 | 0 |
+| Diego Llorente | D | 6 | 467 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,3 | 2 | 0 |
+| Ángel Ortiz | D | 8 | 421 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 7 | 2 | 0,2 | 3 | 0 |
+| Dani Ceballos | M | 10 | 353 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 14 | 1,4 | 1 | 0 |
 | Junior Firpo | D | 3 | 230 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo

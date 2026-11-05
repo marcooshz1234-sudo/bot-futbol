@@ -1,5 +1,50 @@
 # Lecciones del bot
 
+## 2026-11-04
+
+```
+🧠 LECCIONES DEL 04/11
+Picks del bot: 15 ✅ · 7 ❌ · 2 sin resultado
+
+❌ Lo que falló en lo publicado:
+• Ambos ven tarjeta en Lens–Como → Marcador: 1–9
+• Ambos ven tarjeta en Rennes–Olympiakos Piraeus → Marcador: 0–0
+• Borussia Dortmund hace más de 2,5 córners → 2 de 3 córners
+• Bristol City hace más de 2,5 córners → 2 de 3 córners
+• Bristol City hace más de 7,5 tiros → 5 de 8 tiros
+• Felix Nmecha comete 1+ faltas → 0 de 1 falta
+• Gana el Liverpool → Marcador: 3–2
+• Gana el Middlesbrough → Marcador: 2–0
+• Gana el PSV Eindhoven → Marcador: 1–2
+• Gana el Rennes → Marcador: 0–0
+• Gol en la 1ª parte del Borussia Dortmund–Real Betis → Marcador: 2–1
+• Gol en la 1ª parte del Rennes–Olympiakos Piraeus → Marcador: 0–0
+• Jude Bellingham comete 1+ faltas → 0 de 1 falta
+• Kristoffer Askildsen comete 1+ faltas → 0 de 1 falta
+• Matteo Guendouzi comete 1+ faltas → 0 de 1 falta
+
+❌ Fallos de los picks del bot y por qué:
+• Middlesbrough o empate — resultado 2-0
+• Felix Nmecha comete 1+ faltas — jugó 75′ e hizo 0 (necesitaba 1)
+• Matteo Guendouzi comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Saud Abdulhamid comete 1+ faltas — jugó 45′ e hizo 0 (necesitaba 1)
+• Más de 9,5 córners en RB Leipzig–Manchester City — no llegó a la línea (2-3)
+• Kristoffer Askildsen comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Peter Christiansen comete 2+ faltas — jugó 34′ e hizo 1 (necesitaba 2)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Viking–Sabah FA
+
+📐 Modelo: 253/410 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo mercado Double Chance|Draw/Away: 7/18 (-12 pts)
+⬇️ castigo liga Champions: 21/43 (-9 pts)
+⬇️ castigo tipo jugador:faltas_c: 34/61 (-8 pts)
+⬇️ castigo mercado de casas: bet365 paga más: 22/41 (-7 pts)
+⬆️ premio mercado de casas: bet365 paga menos: 17/25 (+3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-03
 
 ```

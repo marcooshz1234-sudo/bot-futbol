@@ -1,10 +1,10 @@
 # Cagliari – Frosinone
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:09_
+_Actualizadas: 05/11 02:10_
 
 - **1X2:** 1 **2.75**  ·  X **3.50**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.40**
@@ -190,44 +190,44 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,38 · visitante 1,79 · córners esperados 10,4._
+_Goles esperados: local 1,37 · visitante 1,80 · córners esperados 10,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 ✅ | 47% | 38% | 43% | 2.50 | +7% |
+| 1X2: 2 ✅ | 48% | 38% | 43% | 2.50 | +7% |
 | 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 30% | 35% | 32% | 2.75 | -11% |
-| Doble oportunidad: X2 | 70% | 66% | 68% | 1.40 | -5% |
+| 1X2: 1 | 29% | 35% | 32% | 2.75 | -12% |
+| Doble oportunidad: X2 | 71% | 66% | 68% | 1.40 | -4% |
 | Doble oportunidad: 12 | 77% | 72% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 53% | 62% | 57% | 1.50 | -14% |
+| Doble oportunidad: 1X | 52% | 62% | 57% | 1.50 | -15% |
 | Ambos marcan: No | 38% | 35% | 37% | 2.62 | -4% |
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
-| Goles más/menos: Más de 2.5 | 61% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -7% |
+| Goles más/menos: Más de 2.5 | 61% | 60% | 61% | 1.57 | -5% |
+| Goles más/menos: Más de 3.5 | 39% | 41% | 40% | 2.30 | -8% |
 | Goles más/menos: Más de 4.5 | 21% | 22% | 22% | 4.33 | -6% |
 | Goles más/menos: Menos de 2.5 | 39% | 40% | 39% | 2.38 | -7% |
 | Goles más/menos: Menos de 3.5 | 61% | 59% | 60% | 1.62 | -3% |
-| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -5% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 78% | 1.22 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Goles del local: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
-| Goles del local: Más de 1.5 | 40% | 46% | 43% | 2.00 | -13% |
-| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -18% |
-| Goles del local: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
-| Goles del local: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -2% |
+| Goles del local: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles del local: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
+| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
+| Goles del local: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +2% |
+| Goles del local: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -1% |
 | Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
-| Goles del visitante: Más de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
+| Goles del visitante: Más de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
 | Goles del visitante: Más de 2.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del visitante: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -16% |
-| Goles del visitante: Menos de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
+| Goles del visitante: Menos de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
 | Goles del visitante: Menos de 2.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Córners más/menos: Más de 10.5 | 45% | 46% | 46% | 2.00 | -9% |
 | Córners más/menos: Menos de 10.5 | 55% | 54% | 54% | 1.73 | -6% |
-| 1X2 descanso: 2 | 36% | 32% | 34% | 2.88 | -2% |
+| 1X2 descanso: 2 | 37% | 32% | 34% | 2.88 | -1% |
 | 1X2 descanso: X | 38% | 38% | 38% | 2.40 | -8% |
-| 1X2 descanso: 1 | 25% | 30% | 28% | 3.10 | -14% |
+| 1X2 descanso: 1 | 25% | 30% | 27% | 3.10 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

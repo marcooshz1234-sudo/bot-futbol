@@ -1,7 +1,7 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 04/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 04/11 08:23_
@@ -189,37 +189,37 @@ _Sin bajas comunicadas por ahora._
 | S. Sazonov | D | 8 | 223 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 5 | 0,6 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,86 · visitante 0,93 · córners esperados 10,1._
+_Goles esperados: local 1,85 · visitante 0,93 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 18% | 12% | 15% | 8.00 | +21% |
+| 1X2: 2 | 19% | 12% | 15% | 8.00 | +22% |
 | 1X2: X | 22% | 20% | 21% | 4.75 | +1% |
 | 1X2: 1 | 59% | 68% | 64% | 1.40 | -11% |
 | Doble oportunidad: X2 | 41% | 35% | 38% | 2.75 | +4% |
 | Doble oportunidad: 12 | 78% | 79% | 78% | 1.20 | -6% |
-| Doble oportunidad: 1X | 82% | 86% | 84% | 1.10 | -8% |
-| Ambos marcan: No | 49% | 53% | 51% | 1.75 | -11% |
+| Doble oportunidad: 1X | 81% | 86% | 84% | 1.10 | -8% |
+| Ambos marcan: No | 49% | 53% | 51% | 1.75 | -10% |
 | Ambos marcan: Sí | 51% | 47% | 49% | 2.00 | -2% |
-| Goles más/menos: Más de 1.5 | 77% | 76% | 76% | 1.25 | -4% |
+| Goles más/menos: Más de 1.5 | 77% | 76% | 76% | 1.25 | -5% |
 | Goles más/menos: Más de 2.5 | 53% | 53% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 3.5 | 31% | 32% | 31% | 3.00 | -6% |
-| Goles más/menos: Menos de 1.5 | 23% | 24% | 24% | 4.00 | -6% |
+| Goles más/menos: Más de 3.5 | 30% | 32% | 31% | 3.00 | -7% |
+| Goles más/menos: Menos de 1.5 | 23% | 24% | 24% | 4.00 | -5% |
 | Goles más/menos: Menos de 2.5 | 47% | 47% | 47% | 2.00 | -5% |
-| Goles más/menos: Menos de 3.5 | 69% | 68% | 69% | 1.40 | -4% |
+| Goles más/menos: Menos de 3.5 | 70% | 68% | 69% | 1.40 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 1.5 | 55% | 61% | 58% | 1.53 | -11% |
-| Goles del local: Más de 2.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles del local: Más de 2.5 | 28% | 35% | 32% | 2.62 | -17% |
 | Goles del local: Menos de 1.5 | 45% | 39% | 42% | 2.38 | -0% |
-| Goles del local: Menos de 2.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del local: Menos de 2.5 | 72% | 65% | 68% | 1.44 | -2% |
 | Goles del visitante: Más de 0.5 | 60% | 54% | 57% | 1.73 | -1% |
 | Goles del visitante: Menos de 0.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Más de 9.5 | 50% | 53% | 51% | 1.78 | -8% |
 | Córners más/menos: Menos de 9.5 | 50% | 47% | 49% | 2.02 | -2% |
-| 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -6% |
-| 1X2 descanso: 1 | 43% | 48% | 45% | 1.91 | -13% |
+| 1X2 descanso: X | 40% | 38% | 39% | 2.40 | -5% |
+| 1X2 descanso: 1 | 42% | 48% | 45% | 1.91 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
