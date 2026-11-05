@@ -2188,10 +2188,9 @@
       1.15,
       1.19,
       1.62,
-      1.44,
+      1.57,
       1.24
-    ],
-    "cuotas_revisadas": "2026-11-05T10:30"
+    ]
   },
   {
     "id": "2026-11-05-combi-tres",
@@ -2550,6 +2549,72 @@
     "cuotas": []
   },
   {
+    "id": "2026-11-06-ganadores-win",
+    "fecha": "2026-11-06T10:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Castellón - Win\n2. 🇫🇷 Toulouse - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton - Win\n4. 🇪🇸 Sevilla - Win\n5. 🇵🇹 Famalicao - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1570006|Match Winner|Home",
+      "1552817|Match Winner|Home",
+      "1557460|Match Winner|Home",
+      "1570450|Match Winner|Home",
+      "1575539|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.62,
+      2.05,
+      1.7,
+      1.91,
+      2.0
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/5254.png",
+          "nombre": "Castellón",
+          "pick": "WIN"
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/96.png",
+          "nombre": "Toulouse",
+          "pick": "WIN"
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/45.png",
+          "nombre": "Everton",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/536.png",
+          "nombre": "Sevilla",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/242.png",
+          "nombre": "Famalicao",
+          "pick": "WIN"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-06-pick-seguro",
     "fecha": "2026-11-06T10:30",
     "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton – Coventry · 21:00\n✅ Gana el Everton\n\n🎯 Cuota 1,70\n💶 10€ → 17,00€\n\n📊 Pick seguro: 2 ✅ · 1 ❌ · +6 %\n\n🍀 Uno al día, sin locuras",
@@ -2854,6 +2919,99 @@
     "directo": true,
     "sel": [],
     "cuotas": []
+  },
+  {
+    "id": "2026-11-07-ganadores-win",
+    "fecha": "2026-11-07T10:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇪 Bayern - Win\n2. 🇩🇪 Dortmund - Win\n3. 🇩🇪 Leipzig - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win\n5. 🇮🇹 Roma - Win\n6. 🇫🇷 PSG - Win\n7. 🇪🇸 Real Madrid - Win\n8. 🇵🇹 Sporting - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1575217|Match Winner|Away",
+      "1575212|Match Winner|Home",
+      "1575213|Match Winner|Home",
+      "1557457|Match Winner|Home",
+      "1550187|Match Winner|Home",
+      "1552815|Match Winner|Home",
+      "1570451|Match Winner|Away",
+      "1575543|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.33,
+      1.3,
+      1.45,
+      1.17,
+      1.3,
+      1.11,
+      1.3,
+      1.17
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/157.png",
+          "nombre": "Bayern",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/165.png",
+          "nombre": "Dortmund",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/173.png",
+          "nombre": "Leipzig",
+          "pick": "WIN"
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/42.png",
+          "nombre": "Arsenal",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/497.png",
+          "nombre": "Roma",
+          "pick": "WIN"
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/85.png",
+          "nombre": "PSG",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/541.png",
+          "nombre": "Real Madrid",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/228.png",
+          "nombre": "Sporting",
+          "pick": "WIN"
+        }
+      ]
+    }
   },
   {
     "id": "2026-11-07-pick-seguro",
@@ -3258,6 +3416,99 @@
     "directo": true,
     "sel": [],
     "cuotas": []
+  },
+  {
+    "id": "2026-11-08-ganadores-win",
+    "fecha": "2026-11-08T10:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇳🇱 Feyenoord - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool - Win\n3. 🇳🇱 AZ Alkmaar - Win\n4. 🇳🇱 PSV - Win\n5. 🇩🇪 Friburgo - Win\n6. 🇪🇸 Villarreal - Win\n7. 🇵🇹 FC Porto - Win\n8. 🇵🇹 Benfica - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1552221|Match Winner|Away",
+      "1557459|Match Winner|Away",
+      "1552224|Match Winner|Home",
+      "1552219|Match Winner|Away",
+      "1575216|Match Winner|Home",
+      "1570452|Match Winner|Home",
+      "1575544|Match Winner|Away",
+      "1575538|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.67,
+      1.6,
+      1.53,
+      1.36,
+      1.53,
+      1.4,
+      1.62,
+      1.25
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/209.png",
+          "nombre": "Feyenoord",
+          "pick": "WIN"
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/40.png",
+          "nombre": "Liverpool",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/201.png",
+          "nombre": "AZ Alkmaar",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/197.png",
+          "nombre": "PSV",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/160.png",
+          "nombre": "Friburgo",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/533.png",
+          "nombre": "Villarreal",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/212.png",
+          "nombre": "FC Porto",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/211.png",
+          "nombre": "Benfica",
+          "pick": "WIN"
+        }
+      ]
+    }
   },
   {
     "id": "2026-11-08-pick-seguro",
