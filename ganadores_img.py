@@ -108,6 +108,7 @@ def _logo(lado):
 
 
 def html_oro(filas, titulo, liga=None):
+    texto_bajo = bool(liga) and str(liga).endswith("-trofeo.png")   # 05/11: logo recortado → nombre en letras debajo
     css = _fuente("Anton", "Anton-Regular.ttf") + _fuente("Oswald", "Oswald[wght].ttf") + _fuente("Cinzel", "Cinzel[wght].ttf") + """
 body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-family:Oswald;
  background:radial-gradient(ellipse at 50% 45%,#ffffff 0%,#fff9ea 45%,#f3dfae 100%)}
@@ -125,7 +126,9 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
 .linea{position:absolute;left:300px;right:300px;height:0;border-top:3px dashed #d4a017}
 .linea.t{top:58px} .linea.bo{bottom:58px}
 .estrella{position:absolute;width:44px;left:653px} .estrella.t{top:36px} .estrella.bo{bottom:36px}
-.liga{position:absolute;top:22px;left:0;right:0;display:flex;justify-content:center}
+.liga{position:absolute;top:22px;left:0;right:0;display:flex;flex-direction:column;align-items:center}
+.liga .lt{font-family:Cinzel;font-weight:900;font-size:30px;letter-spacing:5px;color:#1a1408;margin-top:4px}
+.liga.conl img{height:100px}
 .liga img{height:150px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25))}
 .conliga .linea.t,.conliga .estrella.t{display:none}
 .conliga .lista{top:186px}
@@ -168,7 +171,8 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
             + ESTRELLA.replace('class="estrella"', 'class="estrella bo"'))
     con = liga and Path(liga).exists()
     return (f"<html><head><meta charset='utf-8'><style>{css}</style></head><body class='{"conliga" if con else ""}'>{deco}"
-            + (f"<div class='liga'>{_img(liga).replace('class=\"esc\"', '')}</div>" if con
+            + (f"<div class='liga{' conl' if texto_bajo else ''}'>{_img(liga).replace('class=\"esc\"', '')}"
+               + (f"<div class='lt'>{html.escape(titulo)}</div>" if texto_bajo else "") + "</div>" if con
                else f"<div class='titulo'>{html.escape(titulo)}</div>")
             + f"<div class='lista'>{lis}</div><div class='pie'>@COMBILOCAS</div></body></html>")
 

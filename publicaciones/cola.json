@@ -3192,5 +3192,49 @@
       1.57
     ],
     "nota": "05/11 04:12: Marcos «sube una de estas mañana» (ambos marcan, 18 partidos)"
+  },
+  {
+    "id": "2026-11-05-ganadores-europa",
+    "fecha": "2026-11-05T12:30",
+    "texto": "🏆 EUROPA LEAGUE - GANADORES\n\n1. 🇮🇹 Milan - Gana\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Gana\n3. 🇪🇸 Real Sociedad - Gana\n4. 🇳🇱 NEC - Gana\n5. 🇵🇹 Benfica - Gana\n6. 🇩🇪 Leverkusen - Gana\n7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland - Gana\n8. 🇦🇹 Sturm Graz - Gana\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1636208|Match Winner|Home",
+      "1636337|Match Winner|Away",
+      "1636319|Match Winner|Home",
+      "1636302|Match Winner|Home",
+      "1636229|Match Winner|Home",
+      "1636223|Match Winner|Home",
+      "1636345|Match Winner|Home",
+      "1636339|Match Winner|Home"
+    ],
+    "nota": "05/11 04:34: Marcos «súbelos, solo a Threads» (formato ganadores con escudos, plantilla oro)"
+  },
+  {
+    "id": "2026-11-05-ganadores-conference",
+    "fecha": "2026-11-05T14:00",
+    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Gana\n2. 🇷🇸 Estrella Roja - Gana\n3. 🇵🇹 Braga - Gana\n4. 🇭🇷 Hajduk Split - Gana\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Gana\n6. 🇩🇰 Copenhague - Gana\n7. 🇫🇷 Mónaco - Gana\n8. 🇬🇷 Panathinaikos - Gana\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1636383|Match Winner|Home",
+      "1636399|Match Winner|Home",
+      "1636376|Match Winner|Away",
+      "1636444|Match Winner|Away",
+      "1636416|Match Winner|Away",
+      "1636408|Match Winner|Home",
+      "1636456|Match Winner|Home",
+      "1636465|Match Winner|Home"
+    ],
+    "nota": "05/11 04:34: Marcos «súbelos, solo a Threads» (formato ganadores con escudos, plantilla oro)"
   }
 ]
