@@ -1,10 +1,10 @@
 # Las Palmas – Eldense
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:10_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.70**

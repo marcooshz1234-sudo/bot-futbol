@@ -1,10 +1,10 @@
 # Estoril – Maritimo
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:26_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.30**  ·  X2 **1.73**

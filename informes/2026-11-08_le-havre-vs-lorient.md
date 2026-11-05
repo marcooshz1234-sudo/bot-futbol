@@ -1,10 +1,10 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:26_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **2.80**  ·  X **3.30**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**

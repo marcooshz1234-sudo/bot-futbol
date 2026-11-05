@@ -1,30 +1,21 @@
 # Picks del Analista
 
-_Generado el 2026-11-05 11:55 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-05 20:02 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Jueves 05/11
 
 **🔒 Combi segura · cuota 1,66**
-- Más de 1,5 goles en Mjallby AIF–Borac Banja Luka (1,30) · Mjallby AIF 6/8 · Borac Banja Luka 8/10
-- James Hill comete 1+ faltas (1,28) · James Hill 8/10
-
-**💥 Combi cuota 3-4 · cuota 2,99**
-- Camilo Duran: 1+ tiros a puerta (1,40) · Camilo Duran 4/5
-- Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split (1,67) · Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7
+- Más de 1,5 goles en Celta Vigo–Union St. Gilloise (1,30) · Celta Vigo 7/10 · Union St. Gilloise 5/5
 - Dion Beljo comete 1+ faltas (1,28) · Dion Beljo 5/6
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 18:45 | Más de 1,5 goles en Mjallby AIF–Borac Banja Luka | goles | 1.30 | 78% | Mjallby AIF 6/8 · Borac Banja Luka 8/10 |
-| 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.40 | 80% | Camilo Duran 4/5 |
-| 18:45 | Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split | corners | 1.67 | 81% | Lincoln Red Imps FC 8/9 · HNK Hajduk Split 5/7 |
-| 18:45 | James Hill comete 1+ faltas | jugador | 1.28 | 80% | James Hill 8/10 |
+| 21:00 | Más de 1,5 goles en Celta Vigo–Union St. Gilloise | goles | 1.30 | 80% | Celta Vigo 7/10 · Union St. Gilloise 5/5 |
+| 21:00 | Camilo Duran: 1+ tiros a puerta | jugador | 1.36 | 80% | Camilo Duran 4/5 |
 | 21:00 | Dion Beljo comete 1+ faltas | jugador | 1.28 | 83% | Dion Beljo 5/6 |
-| 21:00 | Josip Misic comete 1+ faltas | jugador | 1.40 | 100% | Josip Misic 7/7 |
 | 21:00 | Timothy Weah comete 1+ faltas | jugador | 1.28 | 80% | Timothy Weah 8/10 |
-| 18:45 | Real Sociedad ve más de 1,5 tarjetas | tarjetas | 1.57 | 80% | Real Sociedad 8/10 · Lyon (en contra) 8/10 |
-| 21:00 | Miguel Gutierrez comete 1+ faltas | jugador | 1.57 | 80% | Miguel Gutierrez 8/10 |
-| 18:45 | Koki Machida comete 1+ faltas | jugador | 1.28 | 86% | Koki Machida 6/7 |
+| 21:00 | Miguel Gutierrez comete 1+ faltas | jugador | 1.44 | 80% | Miguel Gutierrez 8/10 |
+| 21:00 | Lech Poznan hace más de 2,5 córners | corners | 1.62 | 84% | Benfica (en contra) 8/10 · Lech Poznan 8/9 |
 | 21:00 | Beşiktaş hace más tiros | tiros | 1.67 | 80% | Celtic 4/5 · Beşiktaş 4/5 |
 
 ## Viernes 06/11
@@ -46,38 +37,36 @@ _Generado el 2026-11-05 11:55 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Sábado 07/11
 
-**🔒 Combi segura · cuota 1,66**
-- West Brom o empate (1,30) · West Brom 8/10 · Millwall 8/10
+**🔒 Combi segura · cuota 1,64**
+- Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 9/10
 - Más de 1,5 goles en Leganes–Albacete (1,28) · Leganes 7/10 · Albacete 9/10
 
 **💥 Combi cuota 3-4 · cuota 3,19**
-- Fortuna Sittard o empate (1,28) · Fortuna Sittard 8/10 · Telstar 9/10
 - Más de 1,5 goles en Cadiz–Oviedo (1,30) · Cadiz 8/10 · Oviedo 9/10
 - Santiago Castaneda: 1+ tiros (1,28) · Santiago Castaneda 9/10
+- Más de 1,5 goles en Torino–Lecce (1,28) · Torino 9/10 · Lecce 9/10
 - Manchester City hace más de 0,5 fueras de juego (1,50) · Nottingham Forest (en contra) 9/10 · Manchester City 8/9
 
-**🤪 Combi loca · cuota 12,00**
-- Más de 1,5 goles en Torino–Lecce (1,28) · Torino 9/10 · Lecce 9/10
+**🤪 Combi loca · cuota 10,23**
 - Más de 1,5 goles en Parma–Bologna (1,36) · Parma 9/10 · Bologna 7/10
 - Jack Moylan: 1+ tiros a puerta (1,33) · Jack Moylan 8/10
+- Gana el Southampton (1,67) · Preston 7/10 · Southampton 6/10
 - Ermedin Demirovic: 1+ tiros a puerta (1,28) · Ermedin Demirovic 8/9
 - Arsenal ve más de 0,5 tarjetas (1,53) · Arsenal 9/10 · Hull City (en contra) 8/10
 - Stoke City hace más de 4,5 córners (1,73) · Portsmouth (en contra) 8/10 · Stoke City 7/10
-- QPR ve más de 1,5 tarjetas (1,53) · QPR 8/10 · Lincoln (en contra) 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 16:00 | West Brom o empate | resultado | 1.30 | 80% | West Brom 8/10 · Millwall 8/10 |
 | 16:30 | Fortuna Sittard o empate | resultado | 1.28 | 85% | Fortuna Sittard 8/10 · Telstar 9/10 |
 | 18:30 | Más de 1,5 goles en Leganes–Albacete | goles | 1.28 | 80% | Leganes 7/10 · Albacete 9/10 |
 | 16:15 | Más de 1,5 goles en Cadiz–Oviedo | goles | 1.30 | 85% | Cadiz 8/10 · Oviedo 9/10 |
 | 15:30 | Santiago Castaneda: 1+ tiros | jugador | 1.28 | 90% | Santiago Castaneda 9/10 |
 | 15:00 | Más de 1,5 goles en Torino–Lecce | goles | 1.28 | 90% | Torino 9/10 · Lecce 9/10 |
-| 16:00 | Camiel Neghli: 1+ tiros | jugador | 1.30 | 100% | Camiel Neghli 10/10 |
 | 18:00 | Más de 1,5 goles en Parma–Bologna | goles | 1.36 | 80% | Parma 9/10 · Bologna 7/10 |
 | 18:30 | Gana el Manchester City | resultado | 1.73 | 60% | Nottingham Forest 6/10 · Manchester City 6/10 |
 | 18:30 | Manchester City hace más de 0,5 fueras de juego | fueras de juego | 1.50 | 90% | Nottingham Forest (en contra) 9/10 · Manchester City 8/9 |
 | 16:00 | Jack Moylan: 1+ tiros a puerta | jugador | 1.33 | 80% | Jack Moylan 8/10 |
+| 16:00 | Gana el Southampton | resultado | 1.67 | 65% | Preston 7/10 · Southampton 6/10 |
 | 18:30 | Ermedin Demirovic: 1+ tiros a puerta | jugador | 1.28 | 89% | Ermedin Demirovic 8/9 |
 | 13:30 | Jayden Bogle comete 1+ faltas | jugador | 1.30 | 100% | Jayden Bogle 9/9 |
 | 16:00 | Arsenal ve más de 0,5 tarjetas | tarjetas | 1.53 | 85% | Arsenal 9/10 · Hull City (en contra) 8/10 |
@@ -105,18 +94,18 @@ _Generado el 2026-11-05 11:55 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Más de 1,5 goles en Sunderland–Chelsea (1,25) · Sunderland 8/10 · Chelsea 10/10
 - Wout Weghorst: 1+ tiros a puerta (1,25) · Wout Weghorst 9/10
 
-**💥 Combi cuota 3-4 · cuota 2,99**
+**💥 Combi cuota 3-4 · cuota 3,18**
 - Más de 1,5 goles en Sporting Gijon–Valladolid (1,33) · Sporting Gijon 8/10 · Valladolid 8/10
-- Más de 1,5 goles en Estoril–Maritimo (1,25) · Estoril 8/10 · Maritimo 10/10
-- Utrecht o empate (1,44) · Utrecht 7/10 · NEC Nijmegen 9/10
 - Sebastian Szymanski: 1+ tiros (1,25) · Sebastian Szymanski 8/9
+- Gana el Bournemouth (1,91) · Ipswich 5/10 · Bournemouth 7/10
 
-**🤪 Combi loca · cuota 9,43**
+**🤪 Combi loca · cuota 8,88**
+- Más de 1,5 goles en Estoril–Maritimo (1,25) · Estoril 8/10 · Maritimo 10/10
 - Más de 1,5 goles en Fiorentina–Juventus (1,25) · Fiorentina 10/10 · Juventus 10/10
 - Más de 1,5 goles en Genoa–AC Milan (1,36) · Genoa 7/10 · AC Milan 10/10
-- Gana el Bournemouth (1,91) · Ipswich 5/10 · Bournemouth 7/10
 - Pathe Mboup: 1+ tiros a puerta (1,40) · Pathe Mboup 8/9
 - Jeremy Jacquet comete 1+ faltas (1,28) · Jeremy Jacquet 8/10
+- Vitaly Janelt comete 1+ faltas (1,44) · Vitaly Janelt 9/10
 - Heerenveen hace más de 3,5 córners (1,62) · Heerenveen 8/10 · Feyenoord (en contra) 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
@@ -126,7 +115,6 @@ _Generado el 2026-11-05 11:55 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 16:30 | Más de 1,5 goles en Estoril–Maritimo | goles | 1.25 | 90% | Estoril 8/10 · Maritimo 10/10 |
 | 20:45 | Más de 1,5 goles en Fiorentina–Juventus | goles | 1.25 | 100% | Fiorentina 10/10 · Juventus 10/10 |
 | 15:00 | Más de 1,5 goles en Genoa–AC Milan | goles | 1.36 | 85% | Genoa 7/10 · AC Milan 10/10 |
-| 20:00 | Utrecht o empate | resultado | 1.44 | 80% | Utrecht 7/10 · NEC Nijmegen 9/10 |
 | 14:30 | Wout Weghorst: 1+ tiros a puerta | jugador | 1.25 | 90% | Wout Weghorst 9/10 |
 | 15:00 | Sebastian Szymanski: 1+ tiros | jugador | 1.25 | 89% | Sebastian Szymanski 8/9 |
 | 15:00 | Gana el Bournemouth | resultado | 1.91 | 60% | Ipswich 5/10 · Bournemouth 7/10 |
@@ -142,5 +130,6 @@ _Generado el 2026-11-05 11:55 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | Keane Lewis-Potter comete 1+ faltas | jugador | 1.57 | 80% | Keane Lewis-Potter 8/10 |
 | 15:00 | Cole Palmer comete 1+ faltas | jugador | 1.53 | 80% | Cole Palmer 8/10 |
 | 15:00 | Adrien Truffert comete 1+ faltas | jugador | 1.28 | 80% | Adrien Truffert 8/10 |
+| 20:45 | Radu Dragusin comete 1+ faltas | jugador | 1.53 | 80% | Radu Dragusin 8/10 |
 | 15:00 | Exequiel Palacios comete 1+ faltas | jugador | 1.62 | 83% | Exequiel Palacios 5/6 |
 | 15:00 | Mikael Egill Ellertsson comete 1+ faltas | jugador | 1.50 | 80% | Mikael Egill Ellertsson 8/10 |

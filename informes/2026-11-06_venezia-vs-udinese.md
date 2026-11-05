@@ -1,10 +1,10 @@
 # Venezia – Udinese
 **Serie A** · Regular Season - 11 · 06/11/2026 20:45 (hora España) · Stadio Pier Luigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 19:59_
 
 - **1X2:** 1 **2.25**  ·  X **3.40**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.62**
@@ -21,16 +21,16 @@ _Actualizadas: 05/11 08:25_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
+    - 9,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -56,7 +56,7 @@ _Actualizadas: 05/11 08:25_
     - 28,5: más **1.73** · menos **2.00**
 - **Shots.1x2:** 1 **1.53**  ·  X **15.00**  ·  2 **2.50**
 - **Home Player Shots On Target Total:** Toni Fernandez - 1 **1.73**  ·  Toni Fernandez - 2 **4.50**  ·  Toni Fernandez - 3 **15.00**  ·  Toni Fernandez - 4 **21.00**  ·  Pasquale Mazzocchi - 1 **5.50**  ·  Pasquale Mazzocchi - 2 **13.00**  ·  Akor Adams - 1 **1.25**  ·  John Yeboah - 1 **1.30**  ·  Kike Perez - 1 **2.75**  ·  Albion Rrahmani - 1 **1.33**  ·  Lion Lauberbach - 1 **1.28**  ·  Gianluca Busio - 1 **2.10**  ·  Kornel Lisman - 1 **1.73**  ·  Simone Panada - 1 **2.20**  ·  Toma Basic - 1 **1.73**  ·  Lorenzo Berardi - 1 **1.62**  ·  Thorir Johann Helgason - 1 **1.91**  ·  Antoine Hainaut - 1 **3.40**  ·  Lamine Dabo - 1 **1.83**  ·  Richie Sagrado - 1 **2.10**  ·  Simon Sohm - 1 **4.00**  ·  Matteo Dagasso - 1 **2.38**  ·  Thierry Correia - 1 **3.25**  ·  Matias Moreno - 1 **9.00**  ·  Ale Gomes - 1 **9.00**  ·  Armel Bella-Kotchap - 1 **15.00**  ·  Joel Schingtienne - 1 **15.00**  ·  Redouane Halhal - 1 **5.50**  ·  Akor Adams - 2 **2.20**  ·  John Yeboah - 2 **2.38**  ·  Kike Perez - 2 **13.00**  ·  Albion Rrahmani - 2 **2.62**  ·  Lion Lauberbach - 2 **2.25**  ·  Gianluca Busio - 2 **7.00**  ·  Kornel Lisman - 2 **4.50**  ·  Simone Panada - 2 **8.00**  ·  Toma Basic - 2 **4.50**  ·  Lorenzo Berardi - 2 **4.00**  ·  Thorir Johann Helgason - 2 **6.00**  ·  Antoine Hainaut - 2 **17.00**  ·  Lamine Dabo - 2 **5.50**  ·  Richie Sagrado - 2 **7.00**  ·  Simon Sohm - 2 **21.00**  ·  Matteo Dagasso - 2 **9.00**  ·  Thierry Correia - 2 **15.00**  ·  Matias Moreno - 2 **17.00**  ·  Ale Gomes - 2 **21.00**  ·  Armel Bella-Kotchap - 2 **19.00**  ·  Joel Schingtienne - 2 **19.00**  ·  Redouane Halhal - 2 **19.00**  ·  Akor Adams - 3 **5.00**  ·  John Yeboah - 3 **5.50**  ·  Kike Perez - 3 **8.00**  ·  Albion Rrahmani - 3 **6.50**  ·  Lion Lauberbach - 3 **5.50**  ·  Gianluca Busio - 3 **21.00**  ·  Kornel Lisman - 3 **15.00**  ·  Simone Panada - 3 **15.00**  ·  Toma Basic - 3 **15.00**  ·  Lorenzo Berardi - 3 **13.00**  ·  Thorir Johann Helgason - 3 **21.00**  ·  Lamine Dabo - 3 **19.00**  ·  Richie Sagrado - 3 **21.00**  ·  Akor Adams - 4 **13.00**  ·  John Yeboah - 4 **15.00**  ·  Kike Perez - 4 **21.00**  ·  Albion Rrahmani - 4 **19.00**  ·  Lion Lauberbach - 4 **15.00**  ·  John Yeboah - 5 **21.00**  ·  Juan Jesus - 1 **15.00**  ·  Juan Jesus - 2 **21.00**  ·  Rufai Mohammed - 1 **4.00**  ·  Rufai Mohammed - 2 **21.00**
-- **Away Player Shots On Target Total:** Jesper Karlstrom **51.00**  ·  Albion Rrahmani **11.00**  ·  John Yeboah **26.00**  ·  Giorgi Chakvetadze **41.00**  ·  Juan David Arizala **41.00**  ·  Jakub Piotrowski **9.50**  ·  Kornel Lisman **34.00**  ·  Redouane Halhal **21.00**  ·  Matteo Dagasso **51.00**  ·  Giulio Vinciati **21.00**  ·  Lorenzo Berardi **26.00**  ·  Gianluca Busio **29.00**  ·  Akor Adams **8.50**  ·  Lion Lauberbach **8.00**  ·  Alfred Duncan **51.00**  ·  Richie Sagrado **29.00**  ·  Ridgeciano Haps **51.00**  ·  Mergim Vojvoda **51.00**  ·  Kike Perez **29.00**  ·  Nicolo Bertola **12.00**  ·  Toni Fernandez **13.00**  ·  Rufai Mohammed **21.00**  ·  Thierry Correia **12.00**  ·  Lamine Dabo **51.00**  ·  Unai Gomez **41.00**  ·  Lennon Miller **67.00**  ·  Ale Gomes **23.00**  ·  Nicolo Zaniolo **9.00**  ·  Joel Schingtienne **15.00**  ·  Lazar Jovanovic **12.00**  ·  Simone Panada **41.00**  ·  David Alaba **126.00**  ·  Matias Moreno **15.00**  ·  Antoine Hainaut **34.00**  ·  Simon Sohm **41.00**  ·  Toma Basic **29.00**  ·  Alessandro Zanoli **51.00**  ·  Thorir Johann Helgason **34.00**  ·  Armel Bella-Kotchap **21.00**  ·  Christian Kabasele **12.00**  ·  Enzo Ebosse **21.00**  ·  Hassane Kamara **81.00**  ·  James Abankwah **23.00**  ·  Jurgen Ekkelenkamp **23.00**  ·  Keinan Davis **11.00**  ·  Matteo Palma **19.00**  ·  Oier Zarraga **51.00**  ·  Sandi Lovric **41.00**  ·  Oumar Solet **13.00**
+- **Away Player Shots On Target Total:** Jesper Karlstrom **67.00**  ·  Albion Rrahmani **11.00**  ·  John Yeboah **26.00**  ·  Giorgi Chakvetadze **41.00**  ·  Juan David Arizala **41.00**  ·  Jakub Piotrowski **9.50**  ·  Kornel Lisman **34.00**  ·  Redouane Halhal **21.00**  ·  Matteo Dagasso **51.00**  ·  Giulio Vinciati **21.00**  ·  Lorenzo Berardi **26.00**  ·  Gianluca Busio **29.00**  ·  Akor Adams **8.50**  ·  Lion Lauberbach **8.00**  ·  Alfred Duncan **51.00**  ·  Richie Sagrado **29.00**  ·  Ridgeciano Haps **51.00**  ·  Mergim Vojvoda **41.00**  ·  Kike Perez **29.00**  ·  Nicolo Bertola **12.00**  ·  Toni Fernandez **15.00**  ·  Rufai Mohammed **21.00**  ·  Thierry Correia **12.00**  ·  Lamine Dabo **51.00**  ·  Unai Gomez **41.00**  ·  Lennon Miller **67.00**  ·  Ale Gomes **23.00**  ·  Nicolo Zaniolo **9.00**  ·  Joel Schingtienne **15.00**  ·  Lazar Jovanovic **12.00**  ·  Simone Panada **41.00**  ·  David Alaba **126.00**  ·  Matias Moreno **15.00**  ·  Antoine Hainaut **34.00**  ·  Simon Sohm **41.00**  ·  Toma Basic **29.00**  ·  Alessandro Zanoli **51.00**  ·  Thorir Johann Helgason **34.00**  ·  Armel Bella-Kotchap **21.00**  ·  Christian Kabasele **13.00**  ·  Enzo Ebosse **21.00**  ·  Hassane Kamara **81.00**  ·  James Abankwah **23.00**  ·  Jurgen Ekkelenkamp **23.00**  ·  Keinan Davis **11.00**  ·  Matteo Palma **21.00**  ·  Oier Zarraga **51.00**  ·  Sandi Lovric **41.00**  ·  Oumar Solet **13.00**
 - **Away Player Shots Total:**
     - 12,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Toni Fernandez - 1 **1.07**  ·  Toni Fernandez - 2 **1.36**  ·  Toni Fernandez - 3 **2.00**  ·  Toni Fernandez - 4 **3.50**  ·  Toni Fernandez - 5 **7.00**  ·  Toni Fernandez - 6 **15.00**  ·  Toni Fernandez - 7 **21.00**  ·  Pasquale Mazzocchi - 1 **1.80**  ·  Pasquale Mazzocchi - 2 **4.50**  ·  Pasquale Mazzocchi - 3 **13.00**  ·  Akor Adams - 1 **1.01**  ·  John Yeboah - 1 **1.01**  ·  Kike Perez - 1 **1.14**  ·  Albion Rrahmani - 1 **1.01**  ·  Lion Lauberbach - 1 **1.02**  ·  Gianluca Busio - 1 **1.11**  ·  Kornel Lisman - 1 **1.11**  ·  Simone Panada - 1 **1.17**  ·  Toma Basic - 1 **1.11**  ·  Lorenzo Berardi - 1 **1.07**  ·  Thorir Johann Helgason - 1 **1.12**  ·  Antoine Hainaut - 1 **1.53**  ·  Lamine Dabo - 1 **1.12**  ·  Richie Sagrado - 1 **1.14**  ·  Simon Sohm - 1 **1.53**  ·  Matteo Dagasso - 1 **1.17**  ·  Thierry Correia - 1 **1.25**  ·  Matias Moreno - 1 **2.10**  ·  Ale Gomes - 1 **2.62**  ·  Armel Bella-Kotchap - 1 **3.50**  ·  Joel Schingtienne - 1 **4.33**  ·  Redouane Halhal - 1 **2.10**  ·  Akor Adams - 2 **1.12**  ·  John Yeboah - 2 **1.11**  ·  Kike Perez - 2 **1.67**  ·  Albion Rrahmani - 2 **1.10**  ·  Lion Lauberbach - 2 **1.14**  ·  Gianluca Busio - 2 **1.53**  ·  Kornel Lisman - 2 **1.50**  ·  Simone Panada - 2 **1.73**  ·  Toma Basic - 2 **1.50**  ·  Lorenzo Berardi - 2 **1.36**  ·  Thorir Johann Helgason - 2 **1.62**  ·  Antoine Hainaut - 2 **3.40**  ·  Lamine Dabo - 2 **1.62**  ·  Richie Sagrado - 2 **1.67**  ·  Simon Sohm - 2 **3.40**  ·  Matteo Dagasso - 2 **1.73**  ·  Thierry Correia - 2 **2.00**  ·  Matias Moreno - 2 **6.00**  ·  Ale Gomes - 2 **9.00**  ·  Armel Bella-Kotchap - 2 **15.00**  ·  Joel Schingtienne - 2 **21.00**  ·  Redouane Halhal - 2 **6.00**  ·  Akor Adams - 3 **1.40**  ·  John Yeboah - 3 **1.36**  ·  Kike Perez - 3 **2.75**  ·  Albion Rrahmani - 3 **1.33**  ·  Lion Lauberbach - 3 **1.44**  ·  Gianluca Busio - 3 **2.62**  ·  Kornel Lisman - 3 **2.50**  ·  Simone Panada - 3 **3.00**  ·  Toma Basic - 3 **2.50**  ·  Lorenzo Berardi - 3 **2.00**  ·  Thorir Johann Helgason - 3 **2.62**  ·  Antoine Hainaut - 3 **9.00**  ·  Lamine Dabo - 3 **2.62**  ·  Richie Sagrado - 3 **2.75**  ·  Simon Sohm - 3 **9.00**  ·  Matteo Dagasso - 3 **3.00**  ·  Thierry Correia - 3 **4.00**  ·  Matias Moreno - 3 **19.00**  ·  Ale Gomes - 3 **17.00**  ·  Armel Bella-Kotchap - 3 **13.00**  ·  Joel Schingtienne - 3 **13.00**  ·  Redouane Halhal - 3 **19.00**  ·  Akor Adams - 4 **1.91**  ·  John Yeboah - 4 **1.83**  ·  Kike Perez - 4 **6.00**  ·  Albion Rrahmani - 4 **1.80**  ·  Lion Lauberbach - 4 **2.00**  ·  Gianluca Busio - 4 **5.00**  ·  Kornel Lisman - 4 **4.50**  ·  Simone Panada - 4 **6.50**  ·  Toma Basic - 4 **4.50**  ·  Lorenzo Berardi - 4 **3.50**  ·  Thorir Johann Helgason - 4 **5.50**  ·  Antoine Hainaut - 4 **21.00**  ·  Akor Adams - 5 **3.00**  ·  John Yeboah - 5 **2.75**  ·  Kike Perez - 5 **13.00**  ·  Albion Rrahmani - 5 **2.75**  ·  Lion Lauberbach - 5 **3.40**  ·  Gianluca Busio - 5 **11.00**  ·  Akor Adams - 6 **5.00**  ·  John Yeboah - 6 **4.50**  ·  Kike Perez - 6 **21.00**  ·  Albion Rrahmani - 6 **4.50**  ·  Lion Lauberbach - 6 **5.50**  ·  Akor Adams - 7 **10.00**  ·  John Yeboah - 7 **9.00**  ·  Pasquale Mazzocchi - 4 **19.00**  ·  Lamine Dabo - 4 **5.50**  ·  Matteo Dagasso - 4 **6.50**  ·  Richie Sagrado - 4 **6.00**  ·  Simon Sohm - 4 **21.00**  ·  Kornel Lisman - 5 **10.00**  ·  Toma Basic - 5 **10.00**  ·  Simone Panada - 5 **15.00**  ·  Kike Perez - 7 **8.00**  ·  John Yeboah - 8 **17.00**  ·  Thierry Correia - 4 **10.00**  ·  Matias Moreno - 4 **21.00**  ·  Thierry Correia - 5 **21.00**  ·  Matteo Dagasso - 5 **15.00**  ·  Lamine Dabo - 5 **11.00**  ·  Simone Panada - 6 **17.00**  ·  Thorir Johann Helgason - 5 **11.00**  ·  Antoine Hainaut - 5 **15.00**  ·  Toma Basic - 6 **19.00**  ·  Lion Lauberbach - 7 **11.00**  ·  Lorenzo Berardi - 5 **7.00**  ·  Kornel Lisman - 6 **19.00**  ·  Gianluca Busio - 6 **21.00**  ·  Albion Rrahmani - 7 **8.00**  ·  Akor Adams - 8 **17.00**  ·  Kike Perez - 8 **15.00**  ·  John Yeboah - 9 **21.00**  ·  Lorenzo Berardi - 6 **15.00**  ·  Kike Perez - 9 **21.00**  ·  Richie Sagrado - 5 **13.00**  ·  Simon Sohm - 5 **21.00**  ·  Kornel Lisman - 7 **21.00**  ·  Albion Rrahmani - 8 **15.00**  ·  Lion Lauberbach - 8 **19.00**  ·  John Yeboah - 10 **21.00**  ·  Juan Jesus - 1 **3.50**  ·  Juan Jesus - 2 **15.00**  ·  Juan Jesus - 3 **17.00**  ·  Rufai Mohammed - 1 **1.62**  ·  Rufai Mohammed - 2 **3.75**  ·  Rufai Mohammed - 3 **10.00**  ·  Rufai Mohammed - 4 **21.00**  ·  Thorir Johann Helgason - 6 **21.00**  ·  Gianluca Busio - 7 **19.00**  ·  Lamine Dabo - 6 **21.00**  ·  Richie Sagrado - 6 **21.00**  ·  Lorenzo Berardi - 7 **21.00**  ·  Albion Rrahmani - 9 **21.00**
@@ -221,18 +221,18 @@ _Goles esperados: local 1,66 · visitante 1,33 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Goles del local: Más de 2.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -10% |
-| Goles del local: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
-| Goles del local: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 0.5 | 81% | 78% | 80% | 1.20 | -4% |
+| Goles del local: Más de 1.5 | 49% | 46% | 48% | 2.00 | -4% |
+| Goles del local: Más de 2.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles del local: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -12% |
+| Goles del local: Menos de 1.5 | 51% | 54% | 52% | 1.73 | -10% |
+| Goles del local: Menos de 2.5 | 77% | 78% | 78% | 1.20 | -7% |
 | Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles del visitante: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -8% |
 | Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Córners más/menos: Más de 9.5 | 46% | 48% | 47% | 1.98 | -7% |
-| Córners más/menos: Menos de 9.5 | 54% | 52% | 53% | 1.82 | -4% |
+| Córners más/menos: Más de 9.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Córners más/menos: Menos de 9.5 | 54% | 51% | 53% | 1.80 | -5% |
 | 1X2 descanso: 2 | 26% | 26% | 26% | 3.50 | -9% |
 | 1X2 descanso: X | 40% | 41% | 40% | 2.25 | -9% |
 | 1X2 descanso: 1 | 34% | 33% | 34% | 2.75 | -7% |

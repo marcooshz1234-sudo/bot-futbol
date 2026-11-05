@@ -1,10 +1,10 @@
 # Twente – Ajax
 **Eredivisie** · Regular Season - 12 · 08/11/2026 14:30 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **2.25**  ·  X **3.80**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.25**  ·  X2 **1.62**

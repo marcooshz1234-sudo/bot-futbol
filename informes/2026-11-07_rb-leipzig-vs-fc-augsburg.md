@@ -1,10 +1,10 @@
 # RB Leipzig – FC Augsburg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:00_
 
 - **1X2:** 1 **1.45**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.62**
@@ -32,7 +32,9 @@ _Actualizadas: 05/11 08:25_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 10,5: más **1.98** · menos **1.82**
+    - 10,5: más **1.91** · menos **1.80**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **1.83**  ·  X **3.00**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
@@ -236,8 +238,8 @@ _Goles esperados: local 2,95 · visitante 1,68 · córners esperados 10,3._
 | Goles del visitante: Más de 1.5 ✅ | 50% | 39% | 45% | 2.38 | +6% |
 | Goles del visitante: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
 | Goles del visitante: Menos de 1.5 | 50% | 61% | 55% | 1.53 | -15% |
-| Córners más/menos: Más de 10.5 | 44% | 48% | 46% | 1.98 | -9% |
-| Córners más/menos: Menos de 10.5 | 56% | 52% | 54% | 1.82 | -1% |
+| Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Córners más/menos: Menos de 10.5 | 56% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 29% | 31% | 30% | 3.00 | -10% |
 | 1X2 descanso: 1 | 50% | 51% | 50% | 1.83 | -8% |
 

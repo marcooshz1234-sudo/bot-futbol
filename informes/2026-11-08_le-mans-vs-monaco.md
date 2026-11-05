@@ -1,10 +1,10 @@
 # Le Mans – Monaco
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Marie-Marvingt
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:26_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **4.50**  ·  X **4.00**  ·  2 **1.73**
 - **Doble oportunidad:** 1X **2.05**  ·  12 **1.22**  ·  X2 **1.18**

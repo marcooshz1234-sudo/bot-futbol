@@ -1,10 +1,10 @@
 # Cordoba – AD Ceuta FC
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Estadio Nuevo Arcángel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:00_
 
 - **1X2:** 1 **1.55**  ·  X **4.20**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.38**
@@ -32,7 +32,7 @@ _Actualizadas: 05/11 08:25_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
+    - 10,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.62**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -226,8 +226,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 43% | 34% | 39% | 2.75 | +6% |
 | Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
 | Goles del visitante: Menos de 1.5 | 57% | 66% | 61% | 1.40 | -14% |
-| Córners más/menos: Más de 10.5 | 35% | 47% | 41% | 2.00 | -17% |
-| Córners más/menos: Menos de 10.5 | 65% | 53% | 59% | 1.80 | +6% |
+| Córners más/menos: Más de 10.5 | 35% | 49% | 42% | 1.91 | -20% |
+| Córners más/menos: Menos de 10.5 | 65% | 51% | 58% | 1.80 | +5% |
 | 1X2 descanso: X | 33% | 35% | 34% | 2.62 | -11% |
 | 1X2 descanso: 1 | 46% | 46% | 46% | 2.00 | -8% |
 

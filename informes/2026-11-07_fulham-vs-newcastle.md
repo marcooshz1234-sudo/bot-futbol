@@ -1,10 +1,10 @@
 # Fulham – Newcastle
 **Premier League** · Regular Season - 10 · 07/11/2026 16:00 (hora España) · Craven Cottage
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:00_
 
 - **1X2:** 1 **2.05**  ·  X **3.60**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.73**
@@ -13,7 +13,7 @@ _Actualizadas: 05/11 08:25_
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.67** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.53**
+    - 3,5: más **2.62** · menos **1.50**
     - 4,5: más **4.50** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -219,11 +219,11 @@ _Goles esperados: local 1,68 · visitante 1,08 · córners esperados 10,0._
 | Ambos marcan: Sí | 54% | 59% | 56% | 1.57 | -11% |
 | Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.20 | -7% |
 | Goles más/menos: Más de 2.5 | 52% | 57% | 55% | 1.67 | -9% |
-| Goles más/menos: Más de 3.5 | 30% | 38% | 34% | 2.50 | -15% |
+| Goles más/menos: Más de 3.5 | 30% | 36% | 33% | 2.62 | -13% |
 | Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +1% |
 | Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | +0% |
-| Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.53 | +1% |
+| Goles más/menos: Menos de 3.5 | 70% | 64% | 67% | 1.50 | +0% |
 | Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.20 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 37% | 2.38 | -13% |

@@ -1,10 +1,10 @@
 # Crystal Palace – Liverpool
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **5.25**  ·  X **4.33**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.20**  ·  X2 **1.17**

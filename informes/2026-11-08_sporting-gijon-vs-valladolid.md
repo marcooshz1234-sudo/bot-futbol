@@ -1,10 +1,10 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 04/11 14:10_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **2.30**  ·  X **3.10**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.36**  ·  X2 **1.67**

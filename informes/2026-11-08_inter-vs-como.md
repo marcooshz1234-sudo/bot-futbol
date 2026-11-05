@@ -1,10 +1,10 @@
 # Inter – Como
 **Serie A** · Regular Season - 11 · 08/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:26_
+_Actualizadas: 05/11 20:01_
 
 - **1X2:** 1 **1.91**  ·  X **4.20**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **1.95**

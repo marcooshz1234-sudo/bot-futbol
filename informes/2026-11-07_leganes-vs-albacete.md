@@ -1,10 +1,10 @@
 # Leganes – Albacete
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 08:25_
+_Actualizadas: 05/11 20:00_
 
 - **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.91**
