@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 02:01",
+ "actualizado": "2026-11-05 02:37",
  "redes": {
   "instagram": {
    "seguidores": 24,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1643,
-   "hoy": 5,
+   "seguidores": 1645,
+   "hoy": 7,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1643
+    1645
    ]
   },
   "facebook": {
@@ -54,15 +54,18 @@
    ]
   }
  },
- "total": 1912,
- "total_hoy": 5,
+ "total": 1914,
+ "total_hoy": 7,
  "likes_hoy": 0,
  "proximo": {
   "hora": "10:30",
   "dia": "2026-11-05",
   "titulo": "Pick seguro del día"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 15,
+  "total": 22
+ },
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -147,7 +150,7 @@
   },
   "2026-11-05": {
    "instagram": 24,
-   "threads": 1643,
+   "threads": 1645,
    "facebook": 0,
    "telegram": 245
   }
