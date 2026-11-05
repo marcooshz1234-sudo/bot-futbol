@@ -3329,5 +3329,89 @@
     "redes": {
       "threads": "18201910441350042"
     }
+  },
+  {
+    "id": "2026-11-06-ganadores-win",
+    "fecha": "2026-11-06T00:40",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇳🇱 PEC Zwolle - Win\n2. 🇪🇸 Castellón - Win\n3. 🇫🇷 Toulouse - Win\n4. 🇮🇹 Venezia - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton - Win\n6. 🇪🇸 Sevilla - Win\n7. 🇵🇹 Famalicão - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1552216|Match Winner|Away",
+      "1570006|Match Winner|Home",
+      "1552817|Match Winner|Home",
+      "1550196|Match Winner|Home",
+      "1557460|Match Winner|Home",
+      "1570450|Match Winner|Home",
+      "1575539|Match Winner|Home"
+    ],
+    "cuotas": [
+      2.3,
+      1.62,
+      2.05,
+      2.25,
+      1.7,
+      1.91,
+      2.1
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/193.png",
+          "nombre": "PEC Zwolle",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/5254.png",
+          "nombre": "Castellón",
+          "pick": "WIN"
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/96.png",
+          "nombre": "Toulouse",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/517.png",
+          "nombre": "Venezia",
+          "pick": "WIN"
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/45.png",
+          "nombre": "Everton",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/536.png",
+          "nombre": "Sevilla",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/242.png",
+          "nombre": "Famalicão",
+          "pick": "WIN"
+        }
+      ]
+    }
   }
 ]

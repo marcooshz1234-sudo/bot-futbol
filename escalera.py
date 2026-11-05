@@ -39,8 +39,9 @@ PAUSADAS = {"2026-10-29": (140, 141, 143)}
 # mismo que las combis (combis_dia.pool_partido, con todas las lecciones, árbitro y jugadores fijos): solo patas que
 # el bot ve al 68 % o más (ya corregido con lo que acierta de verdad, 01/11), sin córners ni tarjetas, 2 o 3 de partidos distintos y la pareja/trío MÁS PROBABLE.
 SEGURA = {"prob_min": 0.68, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
+# 06/11: también una sola pata a ≈x2 (sin el filtro de 68 %, que es por pata de pareja): gana la opción que más sale
 # 06/11 (Marcos, opción A: seguir a ≈x2): sin patas con ventaja negativa; si ningún día sale así, como mucho −0,05
-MIN_VENTAJA = [0.0]
+MIN_VENTAJA = [-0.03]   # un pelín negativa (Sevilla −0,02) es empate técnico
 FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
 
 
@@ -63,29 +64,41 @@ def elegir_pool_(fecha, prob_min, comb_min):
     ap = leer(DATOS / "aprendizaje.json") or {}
     limite = (datetime.now(MADRID) + timedelta(minutes=40)).strftime("%Y-%m-%dT%H:%M")
     pausadas = PAUSADAS.get(fecha, ())
-    cand = []
+    cand, solas = [], []
     for f in C.EXTRA.glob("*.json"):
         ex = leer(f) or {}
         pa = ex.get("partido")
         if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != fecha:
             continue
+        ya = False
         for p in C.pool_partido(ex, hist, ap):
             k = f"{p['mercado']}|{p['opcion']}"
-            if p["prob_aprendida"] < prob_min or any(x in k for x in FUERA) or p["fecha"] <= limite \
+            if any(x in k for x in FUERA) or p["fecha"] <= limite \
                     or p.get("estimada") or p.get("solo_con_tarjetas") or not C.fijisimo(p) \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]) \
                     or (p.get("ventaja") or 0) < MIN_VENTAJA[0]:   # 06/11 (Marcos): nada que bet365 vea mejor que el bot
                 continue
-            cand.append(p)
-            break   # la mejor de cada partido
+            if SEGURA["rango"][0] <= p["cuota"] <= SEGURA["rango"][1]:
+                solas.append(p)   # 06/11 (Marcos: «Gana el Sevilla» sola salía más que la pareja/trío del bot)
+            if p["prob_aprendida"] < prob_min:
+                continue
+            if not ya:
+                cand.append(p)
+                ya = True   # la mejor de cada partido para las parejas
     cand = sorted(cand, key=lambda p: -p["prob_aprendida"])[:14]
+    # 06/11: probabilidad prudente: ni más de lo que ve el bot ni más de 5 puntos por encima de bet365 (sin margen)
+    # (el bot veía «Gana el Académico Viseu» a 2,35 al 66 % y bet365 al 40 %: no es una escalera segura)
+    prud = lambda p: min(p["prob_aprendida"], 1 / p["cuota"] / 1.05 + 0.05)
     mejor = None
+    for p in solas:
+        if prud(p) >= comb_min and (not mejor or prud(p) > mejor[0]):
+            mejor = (prud(p), [p], round(p["cuota"], 2))
     for n in range(SEGURA["patas"][0], SEGURA["patas"][1] + 1):
         for comb in itertools.combinations(cand, n):
             c = math.prod(p["cuota"] for p in comb)
             if not SEGURA["rango"][0] <= c <= SEGURA["rango"][1]:
                 continue
-            pr = math.prod(p["prob_aprendida"] for p in comb)
+            pr = math.prod(prud(p) for p in comb)
             if pr >= comb_min and (not mejor or pr > mejor[0]):
                 mejor = (pr, list(comb), round(c, 2))
     return mejor
@@ -107,7 +120,7 @@ def elegir(dia, compartir=False, fecha=None):
         if r:
             return r
     # «todos los días tiene que haber escalera» (29/10): se afloja la ventaja poco a poco, y en último caso sin filtro
-    siguiente = {0.0: -0.05, -0.05: -9.0}.get(MIN_VENTAJA[0])
+    siguiente = {-0.03: -0.06, -0.06: -9.0}.get(MIN_VENTAJA[0])
     if siguiente is not None:
         antes, MIN_VENTAJA[0] = MIN_VENTAJA[0], siguiente
         try:

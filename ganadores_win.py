@@ -25,7 +25,7 @@ CORTO = {"Bayer Leverkusen": "Leverkusen", "AC Milan": "Milan", "NEC Nijmegen": 
          "Atletico Madrid": "Atlético", "Borussia Dortmund": "Dortmund", "Manchester City": "Man City",
          "Manchester United": "Man United", "Inter": "Inter", "Real Betis": "Betis", "AS Roma": "Roma",
          "PSV Eindhoven": "PSV", "SC Freiburg": "Friburgo", "Sporting CP": "Sporting", "RB Leipzig": "Leipzig",
-         "Hamburger SV": "Hamburgo", "Atletico Madrid": "Atlético"}
+         "Hamburger SV": "Hamburgo", "Famalicao": "Famalicão", "Atletico Madrid": "Atlético"}
 
 
 def candidatos(dia, minimo=None):
