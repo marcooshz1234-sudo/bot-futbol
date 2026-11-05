@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 12:54",
+ "actualizado": "2026-11-05 13:05",
  "redes": {
   "instagram": {
    "seguidores": 24,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1760,
-   "hoy": 122,
+   "seguidores": 1765,
+   "hoy": 127,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1760
+    1765
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 265,
-   "hoy": 20,
+   "seguidores": 266,
+   "hoy": 21,
    "serie": [
     165,
     176,
@@ -50,17 +50,17 @@
     214,
     232,
     245,
-    265
+    266
    ]
   }
  },
- "total": 2049,
- "total_hoy": 142,
+ "total": 2055,
+ "total_hoy": 148,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:00",
+  "hora": "13:30",
   "dia": "2026-11-05",
-  "titulo": "Ambos marcan · 18 partidos"
+  "titulo": "Combi del jueves x3,36"
  },
  "ayer": {
   "aciertos": 15,
@@ -150,9 +150,9 @@
   },
   "2026-11-05": {
    "instagram": 24,
-   "threads": 1760,
+   "threads": 1765,
    "facebook": 0,
-   "telegram": 265
+   "telegram": 266
   }
  },
  "tipos_instagram": {
