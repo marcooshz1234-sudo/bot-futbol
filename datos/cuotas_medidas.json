@@ -1075,5 +1075,335 @@
   "multiplicando": 1.843,
   "aj": 1.2720419348826215,
   "parejas": []
+ },
+ {
+  "id": "2026-11-05-marcos-video-sund-din-3.00",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636345|Total - Away|Over 0.5",
+   "1636345|Player Fouls Committed|Josip Misic - 1",
+   "1636345|Player Fouls Committed|Dion Beljo - 1"
+  ],
+  "cuotas": [
+   1.57,
+   1.4,
+   1.28
+  ],
+  "real": 3.0,
+  "multiplicando": 2.813,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-celtic-bes-2.25",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636250|To Win Either Half|Away",
+   "1636250|Home Player Shots On Target Total|Camilo Duran - 1"
+  ],
+  "cuotas": [
+   1.62,
+   1.4
+  ],
+  "real": 2.25,
+  "multiplicando": 2.268,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-lev-weah-1.66",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636223|Match Winner|Home",
+   "1636223|Player Fouls Committed|Timothy Weah - 1"
+  ],
+  "cuotas": [
+   1.33,
+   1.28
+  ],
+  "real": 1.66,
+  "multiplicando": 1.702,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-mil-o25-1.80",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636208|Match Winner|Home",
+   "1636208|Goals Over/Under|Over 2.5"
+  ],
+  "cuotas": [
+   1.33,
+   1.53
+  ],
+  "real": 1.8,
+  "multiplicando": 2.035,
+  "aj": 0.8782019267330718,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-05-marcos-video-cp-btts-o25-1.72",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636254|Both Teams Score|Yes",
+   "1636254|Goals Over/Under|Over 2.5"
+  ],
+  "cuotas": [
+   1.5,
+   1.5
+  ],
+  "real": 1.72,
+  "multiplicando": 2.25,
+  "aj": 0.755899803265071,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-05-marcos-video-cp-faltas-1.83",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636254|Player Fouls Committed|Koki Machida - 1",
+   "1636254|Player Fouls Committed|Fisnik Asllani - 1"
+  ],
+  "cuotas": [
+   1.28,
+   1.44
+  ],
+  "real": 1.83,
+  "multiplicando": 1.843,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-rso-tiros-1.86",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636319|Shots.1x2|Home",
+   "1636319|To Win Either Half|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.33
+  ],
+  "real": 1.86,
+  "multiplicando": 1.862,
+  "aj": null,
+  "parejas": [
+   [
+    "resultado+tiros/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-ben-bah-1.95",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636229|Home Player Shots|Alexander Bah - 1",
+   "1636229|First Half Winner|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.4
+  ],
+  "real": 1.95,
+  "multiplicando": 1.96,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-celtic-duran-btts-1.90",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636250|Home Player Shots On Target Total|Camilo Duran - 1",
+   "1636250|Both Teams Score|Yes"
+  ],
+  "cuotas": [
+   1.4,
+   1.44
+  ],
+  "real": 1.9,
+  "multiplicando": 2.016,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-spa-bou-1.75",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636337|Match Winner|Away",
+   "1636337|ShotOnTarget 1x2|Away"
+  ],
+  "cuotas": [
+   1.5,
+   1.33
+  ],
+  "real": 1.75,
+  "multiplicando": 1.995,
+  "aj": null,
+  "parejas": [
+   [
+    "resultado+tiros/mismo",
+    0.78
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-lev-guti-1.95",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636223|Match Winner|Home",
+   "1636223|Player Fouls Committed|Miguel Gutierrez - 1"
+  ],
+  "cuotas": [
+   1.33,
+   1.57
+  ],
+  "real": 1.95,
+  "multiplicando": 2.088,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-az-schouten-1.80",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636219|Total - Home|Over 0.5",
+   "1636219|Player Fouls Committed|Lewis Schouten - 1"
+  ],
+  "cuotas": [
+   1.4,
+   1.33
+  ],
+  "real": 1.8,
+  "multiplicando": 1.862,
+  "aj": null,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-az-tarj-schouten-2.10",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636219|Cards Over/Under|Over 3.5",
+   "1636219|Player Fouls Committed|Lewis Schouten - 1"
+  ],
+  "cuotas": [
+   1.62,
+   1.33
+  ],
+  "real": 2.1,
+  "multiplicando": 2.155,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+tarjetas/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-sund-mikic-2.30",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636345|Match Winner|Home",
+   "1636345|Player Fouls Committed|Noa Mikic - 1"
+  ],
+  "cuotas": [
+   1.48,
+   1.57
+  ],
+  "real": 2.3,
+  "multiplicando": 2.324,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-05-marcos-video-sturm-avdyli-2.45",
+  "fecha": "2026-11-05T13:38",
+  "fuente": "cuota comprobada (vídeo bet365 de Marcos 05/11 13:38)",
+  "sel": [
+   "1636339|Match Winner|Home",
+   "1636339|Away Player Shots|Milot Avdyli - 1"
+  ],
+  "cuotas": [
+   1.5,
+   1.62
+  ],
+  "real": 2.45,
+  "multiplicando": 2.43,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ]
+  ]
  }
 ]
