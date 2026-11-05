@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 20:41",
+ "actualizado": "2026-11-05 20:51",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1889,
-   "hoy": 251,
+   "seguidores": 1891,
+   "hoy": 253,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1889
+    1891
    ]
   },
   "facebook": {
@@ -54,8 +54,8 @@
    ]
   }
  },
- "total": 2186,
- "total_hoy": 279,
+ "total": 2188,
+ "total_hoy": 281,
  "likes_hoy": 0,
  "proximo": {
   "hora": "01:00",
@@ -150,14 +150,19 @@
   },
   "2026-11-05": {
    "instagram": 25,
-   "threads": 1889,
+   "threads": 1891,
    "facebook": 0,
    "telegram": 272
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
-   "posts": 46,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -172,12 +177,7 @@
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
-   "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
