@@ -1163,5 +1163,31 @@
       "total": 100
     },
     "texto": "📊 BALANCE DEL JUEVES: 2 DE 16 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3)\n❌ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3)\n❌ ✅ COMBI LOCAS | CONFERENCE · 6,26\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,42\n✅ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,93\n❌ 🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠 · 4,26\n❌ 🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠 · 4,90\n\n✅ 2 acertadas · ❌ 14 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-06": {
+    "dia": "2026-11-06",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-06-ganadores-win",
+        "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 7
+    },
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
