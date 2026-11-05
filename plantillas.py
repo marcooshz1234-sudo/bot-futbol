@@ -619,6 +619,14 @@ def posts_del_dia(dia, d):
             salida[-1]["tarjeta"] = tarjeta
         if tipo in tarjetas and tarjetas[tipo]:
             salida[-1]["tarjeta"] = tarjetas[tipo]
+    # 05/11 (Marcos): «GANADORES» con escudos cada día, solo en Threads (ganadores_win.py)
+    try:
+        import ganadores_win
+        w = ganadores_win.post(dia)
+        if w:
+            salida.append(w)
+    except Exception as e:
+        print("ganadores win:", str(e)[:150])
     return salida
 
 

@@ -301,6 +301,14 @@ def pendientes_de(cola, ahora, control=None, estado=None):
 
 def main():
     cola = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
+    # 05/11: «GANADORES» (solo Threads): su tarjeta con la plantilla oro, si aún no está
+    for p in cola:
+        if p.get("ganadores_img") and not p.get("enviado") and not (MEDIA / f"{p['id']}.tarjeta.jpg").exists():
+            try:
+                import ganadores_win
+                print("Ganadores:", ganadores_win.hacer_imagen(p))
+            except Exception as e:
+                print("ganadores (imagen):", str(e)[:150])
     ids = set(sys.argv[2:]) - {"--pendientes"}
     pendientes = "--pendientes" in sys.argv   # solo los que aún no han salido y cuyo texto ha cambiado
     if pendientes:

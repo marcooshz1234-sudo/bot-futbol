@@ -107,6 +107,14 @@ def _logo(lado):
     return f'<div class="logo {lado}"><img src="data:image/png;base64,{b}"></div>'
 
 
+def _centrar(n, con_logo):
+    """05/11: con menos de 8 filas (viernes), la lista centrada en vez de pegada arriba."""
+    if n >= 8:
+        return ""
+    alto = 86 if con_logo else 90
+    return f"top:{(186 if con_logo else 146) + (8 - n) * alto // 2}px"
+
+
 def html_oro(filas, titulo, liga=None):
     texto_bajo = bool(liga) and str(liga).endswith("-trofeo.png")   # 05/11: logo recortado → nombre en letras debajo
     css = _fuente("Anton", "Anton-Regular.ttf") + _fuente("Oswald", "Oswald[wght].ttf") + _fuente("Cinzel", "Cinzel[wght].ttf") + """
@@ -174,7 +182,7 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
             + (f"<div class='liga{' conl' if texto_bajo else ''}'>{_img(liga).replace('class=\"esc\"', '')}"
                + (f"<div class='lt'>{html.escape(titulo)}</div>" if texto_bajo else "") + "</div>" if con
                else f"<div class='titulo'>{html.escape(titulo)}</div>")
-            + f"<div class='lista'>{lis}</div><div class='pie'>@COMBILOCAS</div></body></html>")
+            + f"<div class='lista' style='{_centrar(len(filas), con)}'>{lis}</div><div class='pie'>@COMBILOCAS</div></body></html>")
 
 
 def logo_liga(liga_id):
