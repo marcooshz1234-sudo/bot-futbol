@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 11:58",
+ "actualizado": "2026-11-05 12:08",
  "redes": {
   "instagram": {
    "seguidores": 24,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1738,
-   "hoy": 100,
+   "seguidores": 1744,
+   "hoy": 106,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1738
+    1744
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2025,
- "total_hoy": 118,
+ "total": 2031,
+ "total_hoy": 124,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "13:00",
   "dia": "2026-11-05",
-  "titulo": "Copas europeas · 13 picks para hoy (1/"
+  "titulo": "Ambos marcan · 18 partidos"
  },
  "ayer": {
   "aciertos": 15,
@@ -150,12 +150,17 @@
   },
   "2026-11-05": {
    "instagram": 24,
-   "threads": 1738,
+   "threads": 1744,
    "facebook": 0,
    "telegram": 263
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 44,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 4,
    "likes_media": 0.0,
@@ -163,11 +168,6 @@
   },
   "Otros (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
