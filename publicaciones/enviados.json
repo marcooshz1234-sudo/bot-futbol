@@ -438,5 +438,18 @@
     "enviado": "2026-11-05T18:10",
     "mensaje_id": 306,
     "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636254.tarjeta.jpg"
+  },
+  "2026-11-05-combi-partido-1636229": {
+    "enviado": "2026-11-05T20:25",
+    "mensaje_id": 307,
+    "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636229.tarjeta.jpg"
+  },
+  "2026-11-05-estrella-1636223": {
+    "enviado": "2026-11-05T20:25",
+    "mensaje_id": 308
+  },
+  "2026-11-05-estrella-1636219": {
+    "enviado": "2026-11-05T20:25",
+    "mensaje_id": 309
   }
 }

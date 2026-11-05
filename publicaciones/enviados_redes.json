@@ -784,5 +784,33 @@
    "instagram": "17885605674625602",
    "instagram_story": "18136423366727437"
   }
+ },
+ "2026-11-05-combi-partido-1636229": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "18569793196077671",
+   "instagram_story": "18127719134483561"
+  },
+  "errores_redes": {
+   "instagram": "No module named 'playwright'"
+  }
+ },
+ "2026-11-05-estrella-1636223": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "17998681874833755"
+  },
+  "errores_redes": {
+   "instagram": "No module named 'playwright'"
+  }
+ },
+ "2026-11-05-estrella-1636219": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "18130831016504728"
+  },
+  "errores_redes": {
+   "instagram": "No module named 'playwright'"
+  }
  }
 }
