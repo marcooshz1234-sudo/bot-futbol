@@ -309,6 +309,7 @@ def cierre(dia, tipo, lista_=False):
 # si en Threads no cabe, es lo primero que se quita (redes.threads)
 POSTS_LISTA = ("ganadores", "combi-500")
 # 05/11 (Marcos): nada de «@combilocas» en los textos: en Telegram ese @ lleva a OTRO canal
+MUY_LARGA = 10   # picks a partir de los que se dice «coged los que más os gusten»
 CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
 
 
@@ -333,14 +334,13 @@ def texto_multi(sel, cuota, nombre):
     while True:
         lista = [p for l in partidos.values() for p in l]
         aprox = any(p.get("estimada") for p in lista)
-        lineas = [f"🔥⚽ COMBILOCAS — ¡COMBI DE {len(partidos)} PARTIDOS x{num(cuota)}! 🍀", ""]
+        lineas = [f"🔥⚽ COMBILOCAS — ¡COMBI DE {len(partidos)} PARTIDOS {'≈' if aprox else ''}x{num(cuota)}! 🍀", ""]
         for l in partidos.values():
             lineas += [f"{bandera_pick(p)} {con_equipo(p)}" for p in l]
-        # 05/11 (Marcos): que no diga «1 o 2 cosas» si casi todo es una por partido
-        dobles = sum(len(l) > 1 for l in partidos.values())
-        frase = ("⚽ 1 o 2 cosas de cada partido, de las que más salen ✅" if dobles * 2 >= len(partidos)
-                 else "⚽ Lo que más sale de cada partido ✅")
-        lineas += ["", frase + (" (cuota aprox.)" if aprox else ""), "", CIERRE_TELEGRAM]
+        # 05/11 (Marcos): sin la frase de «1 o 2 cosas de cada partido»; solo si es muy larga, que cojan lo que les guste
+        if len(lista) >= MUY_LARGA:
+            lineas += ["", "👉 ¡Coged los picks que más os gusten! ✅"]
+        lineas += ["", CIERRE_TELEGRAM]
         texto = "\n".join(lineas)
         if len(texto) <= 495 or len(partidos) <= 5:
             return texto, lista
