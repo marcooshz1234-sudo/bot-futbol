@@ -1047,5 +1047,31 @@
       "total": 70
     },
     "texto": "📊 BALANCE DEL MIÉRCOLES: 2 DE 15 EN VERDE 📊\n\n✅ ✅ COMBI LOCAS | CHAMPIONS · 6,38\n❌ ✅ COMBI LOCAS | CHAMPIONS · 4,21\n❌ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,70\n❌ 🪜 RETO ESCALERA · DÍA 1/7 · x1,81 🍀 · 1,81\n❌ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (1/2)\n❌ ✅ COMBI LOCAS | CHAMPIONS · 10,62\n❌ ✅ COMBI LOCAS | CHAMPIONS · 9,16\n❌ 🏆⚽ QUIÉN GANA HOY EN CHAMPIONS · COMBILOCAS 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x3,31! 🍀 · 3,31\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,76! 🍀\n❌ 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (2/2)\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL MIÉRCOLES x6,63! 🤪 · 6,63\n❌ ✅ COMBI LOCAS | CHAMPIONS · 3,37\n✅ ⭐ FC PORTO 🆚 NAPOLI ⭐ · 4,46\n❌ ⭐ BORUSSIA DORTMUND 🆚 REAL BETIS ⭐ · 4,30\n\n✅ 2 acertadas · ❌ 13 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-05": {
+    "dia": "2026-11-05",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-05-ganadores-europa",
+        "titulo": "🏆 EUROPA LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 12
+    },
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
