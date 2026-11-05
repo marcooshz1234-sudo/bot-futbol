@@ -38,6 +38,12 @@ ESTRELLA = """<svg viewBox="0 0 40 40" class="estrella"><path d="M20 0 L25 15 L4
 fill="#e3a71b" stroke="#8a6508" stroke-width="1.5"/></svg>"""
 
 
+def _logo(lado):
+    """05/11 (Marcos: «quita las coronas y pon algo que nos represente»): el logo de Combilocas en un aro dorado."""
+    b = base64.b64encode((RAIZ / "docs" / "logo.png").read_bytes()).decode()
+    return f'<div class="logo {lado}"><img src="data:image/png;base64,{b}"></div>'
+
+
 def html_oro(filas, titulo):
     css = _fuente("Anton", "Anton-Regular.ttf") + _fuente("Oswald", "Oswald[wght].ttf") + _fuente("Cinzel", "Cinzel[wght].ttf") + """
 body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-family:Oswald;
@@ -50,7 +56,9 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
 .bl{bottom:40px;left:-120px;transform:rotate(38deg)} .bl.b{bottom:130px;left:-140px}
 .br{bottom:40px;right:-120px;transform:rotate(-38deg)} .br.b{bottom:130px;right:-140px}
 .marco{position:absolute;inset:14px;border:4px solid #d4a017;border-radius:34px;box-shadow:inset 0 0 0 3px #fff3c4,inset 0 0 40px rgba(212,160,23,.5)}
-.corona{position:absolute;width:120px;top:420px} .izq{left:40px;transform:rotate(-14deg)} .der{right:40px;transform:rotate(14deg)}
+.logo{position:absolute;top:410px;width:150px;height:150px;border-radius:50%;padding:7px;
+ background:conic-gradient(#7a5300,#fff3c4,#d4a017,#7a5300,#ffe58a,#a66f00,#7a5300);box-shadow:0 6px 18px rgba(120,80,0,.45)}
+.logo img{width:100%;height:100%;border-radius:50%;display:block} .logo.izq{left:42px} .logo.der{right:42px}
 .linea{position:absolute;left:300px;right:300px;height:0;border-top:3px dashed #d4a017}
 .linea.t{top:58px} .linea.bo{bottom:58px}
 .estrella{position:absolute;width:44px;left:653px} .estrella.t{top:36px} .estrella.bo{bottom:36px}
@@ -66,7 +74,7 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
 .fl{position:relative;z-index:1;width:84px;height:56px;margin-left:-22px;transform:skewX(-18deg);background:#fff;border:3px solid #d4a017;
  border-radius:6px;display:flex;align-items:center;justify-content:center;overflow:hidden}
 .fl span{transform:skewX(18deg);font-size:46px;line-height:1}
-.esc{position:relative;z-index:1;width:64px;height:64px;object-fit:contain;margin:0 18px 0 26px}
+.esc{position:relative;z-index:1;width:92px;height:92px;object-fit:contain;margin:-6px 10px -6px 18px;filter:drop-shadow(0 3px 4px rgba(0,0,0,.25))}
 .nom{position:relative;z-index:1;flex:1;font-weight:700;font-size:36px;color:#16223f;text-align:center}
 .flecha{position:relative;z-index:1;font-family:Anton;color:#e39a00;font-size:42px;margin-right:12px}
 .pick{position:relative;z-index:1;display:flex;align-items:center;gap:12px;height:62px;padding:0 28px 0 10px;border-radius:34px;
@@ -85,7 +93,7 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
                 f'{_img(f["escudo"])}<div class="nom">{html.escape(f["nombre"])}</div><div class="flecha">➜</div>'
                 f'<div class="pick"><div class="ck">{marca}</div><b>{html.escape(f["pick"])}</b></div></div>')
     deco = ('<div class="rayos"></div>' + "".join(f'<div class="esq {p}"></div><div class="esq b {p}"></div>' for p in ("tl", "tr", "bl", "br"))
-            + '<div class="marco"></div>' + CORONA.format(c="corona izq", i="izq") + CORONA.format(c="corona der", i="der")
+            + '<div class="marco"></div>' + _logo("izq") + _logo("der")
             + '<div class="linea t"></div><div class="linea bo"></div>' + ESTRELLA.replace('class="estrella"', 'class="estrella t"')
             + ESTRELLA.replace('class="estrella"', 'class="estrella bo"'))
     return (f"<html><head><meta charset='utf-8'><style>{css}</style></head><body>{deco}"
