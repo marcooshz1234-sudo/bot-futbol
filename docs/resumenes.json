@@ -1050,14 +1050,14 @@
   },
   "2026-11-05": {
     "dia": "2026-11-05",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -1101,13 +1101,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀",
         "estado": "pendiente",
         "cuota": 3.36
+      },
+      {
+        "id": "2026-11-05-combi-multi",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 61
+      "total": 64
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }

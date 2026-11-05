@@ -6107,8 +6107,253 @@
    }
   ],
   "1636478": [],
-  "1636408": []
+  "1636408": [],
+  "1575218": [
+   {
+    "equipo": 175,
+    "jugador": "B. Nadir",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Remberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "F. Vieira",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "M. Vuskovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Doping"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Capaldo",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "Y. Poulsen",
+    "tipo": "Questionable",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "H. Bolin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "N. Kuhn",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "E. Leopold",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "J. Leszczynski",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "K. Diks",
+    "tipo": "Questionable",
+    "motivo": "Personal Reasons"
+   },
+   {
+    "equipo": 163,
+    "jugador": "F. Fleck",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "F. Honorat",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "T. Kleindienst",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "M. Nicolas",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "B. Nadir",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Remberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "F. Vieira",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "M. Vuskovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Doping"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Capaldo",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "Y. Poulsen",
+    "tipo": "Questionable",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "H. Bolin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "N. Kuhn",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "E. Leopold",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "J. Leszczynski",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "K. Diks",
+    "tipo": "Questionable",
+    "motivo": "Personal Reasons"
+   },
+   {
+    "equipo": 163,
+    "jugador": "F. Fleck",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "F. Honorat",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "T. Kleindienst",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "M. Nicolas",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
+  ],
+  "1552216": [
+   {
+    "equipo": 195,
+    "jugador": "J. Hoogma",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "A. Lachkar",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "S. Floranus",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "F. Krastev",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "G. Rahajaan",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 195,
+    "jugador": "J. Hoogma",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "A. Lachkar",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "S. Floranus",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "F. Krastev",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 193,
+    "jugador": "G. Rahajaan",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   }
+  ],
+  "1570006": []
  },
- "ultima": "2026-11-05T13:42:29.843840+01:00",
+ "ultima": "2026-11-05T14:41:01.067394+01:00",
  "avisados": []
 }

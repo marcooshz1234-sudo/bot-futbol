@@ -412,5 +412,9 @@
   "2026-11-05-combi-tres": {
     "enviado": "2026-11-05T13:30",
     "mensaje_id": 300
+  },
+  "2026-11-05-combi-multi": {
+    "enviado": "2026-11-05T14:41",
+    "mensaje_id": 301
   }
 }
