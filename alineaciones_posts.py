@@ -452,6 +452,8 @@ def main():
     for c in leer(DATOS / "mis_combis.json", []) or []:
         if not c.get("sel") or c.get("fecha", "") < (ahora - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M"):
             continue
+        if ya_apostada(c):   # 05/11 (Marcos): «el bot me habla mucho»: lo ya metido en bet365 no se puede cambiar
+            continue
         fuera = []
         for k, fid, jugador, texto_pata in patas_jugador(c, partidos):
             if not fid or not jugador or fid not in inicio or not (-timedelta(minutes=10) <= inicio[fid] - ahora <= VENTANA):
@@ -478,7 +480,9 @@ def main():
         import combis_dia as C
         import contexto
         h = historial()
-        for origen, lista in (("post", auto + cola), ("mis", leer(DATOS / "mis_combis.json", []) or [])):
+        juntos = {}   # 05/11 (Marcos): «el bot me habla mucho» → un solo mensaje con todo, no uno por combi
+        mis = [c for c in leer(DATOS / "mis_combis.json", []) or [] if not ya_apostada(c)]
+        for origen, lista in (("post", auto + cola), ("mis", mis)):
             for p in lista:
                 if not p.get("sel") or p.get("caducada") or p.get("borrar"):
                     continue
@@ -515,17 +519,33 @@ def main():
                             k_av = f"clave|{p['id']}|{s}|{n}"
                             if k_av not in avisados:
                                 avisados.add(k_av)
-                                avisos_p.append(f"• {eq['name']} sin {n} (clave) → «{texto_corto(m_, o_, pa)}»")
-                if avisos_p:
-                    titulo = (p.get("titulo") or p.get("texto", "").strip().splitlines()[0])[:60]
-                    dm(f"📋 Alineaciones · «{titulo}» ({p['fecha'][11:16]}): falta un jugador clave de ataque:\n"
-                       + "\n".join(avisos_p) + "\n\nEsas patas pierden mucho. Mira si quitarlas o cambiarlas antes de que empiece.")
+                                avisos_p.append((f"{eq['name']} sin {n}", texto_corto(m_, o_, pa)))
+                titulo = (p.get("titulo") or p.get("texto", "").strip().splitlines()[0])[:40]
+                for falta, pata in avisos_p:
+                    juntos.setdefault(falta, {}).setdefault(pata, []).append(f"{titulo} ({p['fecha'][11:16]})")
+        if juntos:
+            lineas = []
+            for falta, patas in juntos.items():
+                lineas.append(f"• {falta} (clave)")
+                for pata, combis in patas.items():
+                    lineas.append(f"   → «{pata}» en {len(combis)} combi{'s' if len(combis) > 1 else ''}: "
+                                  + ", ".join(combis[:3]) + (" …" if len(combis) > 3 else ""))
+            dm("📋 Alineaciones: faltan jugadores clave de ataque:\n" + "\n".join(lineas)
+               + "\n\nEsas patas pierden mucho. Mira si quitarlas o cambiarlas antes de que empiece.")
     except Exception as e:
         print("aviso de claves:", str(e)[:150])
     est["avisados"] = sorted(avisados)[-500:]
     limite = (ahora - timedelta(days=2)).isoformat()
     est["alineaciones"] = {k: v for k, v in (est.get("alineaciones") or {}).items() if v["hora"] > limite}
     ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def ya_apostada(c):
+    """05/11: combi de «Mis combis» ya metida en bet365 (tiene importe): no hay nada que cambiar, no se avisa."""
+    try:
+        return float(c.get("importe") or 0) > 0
+    except (TypeError, ValueError):
+        return False
 
 
 if __name__ == "__main__":
