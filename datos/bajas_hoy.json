@@ -6352,8 +6352,510 @@
     "motivo": "Inactive"
    }
   ],
-  "1570006": []
+  "1570006": [],
+  "1563256": [
+   {
+    "equipo": 69,
+    "jugador": "P. Agyemang",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "E. Cashin",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 69,
+    "jugador": "M. Clarke",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "C. Forsyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "S. Langas",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "D. Murkin",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "C. Taylor",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "J. Ward",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Erhahon",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "R. Hardie",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. McAtee",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. Nelson",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Toal",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "G. Bazunu",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 69,
+    "jugador": "P. Agyemang",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "E. Cashin",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 69,
+    "jugador": "M. Clarke",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "C. Forsyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "S. Langas",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "D. Murkin",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "C. Taylor",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "J. Ward",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Erhahon",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "R. Hardie",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. McAtee",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. Nelson",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Toal",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "G. Bazunu",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   }
+  ],
+  "1557460": [
+   {
+    "equipo": 45,
+    "jugador": "T. George",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 45,
+    "jugador": "J. Grealish",
+    "tipo": "Questionable",
+    "motivo": "Coach's decision"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "A. Amenda",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "H. Wright",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "J. Eccles",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "B. Thomas",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "L. Woolfenden",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 45,
+    "jugador": "T. George",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 45,
+    "jugador": "J. Grealish",
+    "tipo": "Questionable",
+    "motivo": "Coach's decision"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "A. Amenda",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "H. Wright",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "J. Eccles",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "B. Thomas",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "L. Woolfenden",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1570450": [
+   {
+    "equipo": 536,
+    "jugador": "M. Bueno",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Marcao",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Peque",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "I. Romero",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "M. Sierra",
+    "tipo": "Questionable",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "M. Rodriguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "M. Bueno",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Marcao",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Peque",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "I. Romero",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "M. Sierra",
+    "tipo": "Questionable",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "M. Rodriguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ],
+  "1550196": [
+   {
+    "equipo": 517,
+    "jugador": "A. Adorante",
+    "tipo": "Missing Fixture",
+    "motivo": "Hernia"
+   },
+   {
+    "equipo": 517,
+    "jugador": "B. Franjic",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "M. Sverko",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "T. Correia",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "D. Alaba",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "I. Gueye",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "V. Bayo",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "O. Solet",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "A. Zanoli",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "A. Adorante",
+    "tipo": "Missing Fixture",
+    "motivo": "Hernia"
+   },
+   {
+    "equipo": 517,
+    "jugador": "B. Franjic",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "M. Sverko",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "T. Correia",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "D. Alaba",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "I. Gueye",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "V. Bayo",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "O. Solet",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 494,
+    "jugador": "A. Zanoli",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1552817": [
+   {
+    "equipo": 96,
+    "jugador": "A. Donnum",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 96,
+    "jugador": "R. Messali",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 96,
+    "jugador": "M. Niflore",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "J. Panichelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "F. Balde",
+    "tipo": "Questionable",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 96,
+    "jugador": "A. Donnum",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 96,
+    "jugador": "R. Messali",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 96,
+    "jugador": "M. Niflore",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "J. Panichelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "F. Balde",
+    "tipo": "Questionable",
+    "motivo": "Leg Injury"
+   }
+  ]
  },
- "ultima": "2026-11-05T14:41:01.067394+01:00",
+ "ultima": "2026-11-05T15:12:46.647629+01:00",
  "avisados": []
 }
