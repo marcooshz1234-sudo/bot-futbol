@@ -2408,19 +2408,17 @@
   {
     "id": "2026-11-05-combi-partido-1636229",
     "fecha": "2026-11-05T20:25",
-    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 BENFICA vs LECH POZNAN 🟠\n\n🎯 ALEXANDER BAH: 1+ TIROS [x1.40]\n✅ AMBOS VEN TARJETA [x1.18]\n✅ BENFICA GANA AL DESCANSO [x1.40]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.50]\n✅ LECH POZNAN HACE MÁS DE 2,5 CÓRNERS [x1.62]\n\n💥 Cuota total aprox.: 5,69\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | EUROPA LEAGUE\n🟠 BENFICA vs LECH POZNAN 🟠\n\n🎯 AMBOS VEN TARJETA [x1.18]\n✅ BENFICA GANA AL DESCANSO [x1.40]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.50]\n✅ LECH POZNAN HACE MÁS DE 2,5 CÓRNERS [x1.62]\n\n💥 Cuota total aprox.: 3,93\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636229|Home Player Shots|Alexander Bah - 1",
       "1636229|Both Teams Cards|Yes",
       "1636229|First Half Winner|Home",
       "1636229|Goals Over/Under - Second Half|Over 1.5",
       "1636229|Away Corners Over/Under|Over 2.5"
     ],
     "cuotas": [
-      1.4,
       1.18,
       1.4,
       1.5,
@@ -2436,7 +2434,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/347.png",
       "fecha": "2026-11-05T21:00",
       "liga": "Europa League"
-    }
+    },
+    "revisado_alineaciones": "2026-11-05T20:40"
   },
   {
     "id": "2026-11-05-estrella-1636223",

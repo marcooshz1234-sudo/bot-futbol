@@ -1054,8 +1054,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 16,
-      "sin_datos": 0,
+      "pendiente": 5,
+      "sin_datos": 11,
       "no_jugo": 0,
       "sin_resolver": 16
     },
@@ -1063,7 +1063,7 @@
       {
         "id": "2026-11-05-ganadores-europa",
         "titulo": "🏆 EUROPA LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1075,43 +1075,43 @@
       {
         "id": "2026-11-05-escalera",
         "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.96
       },
       {
         "id": "2026-11-05-ganadores-conference",
         "titulo": "🏆 CONFERENCE LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-05-lista-europa-1",
         "titulo": "🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3)",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-05-ambos-marcan-18",
         "titulo": "⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 8.462
       },
       {
         "id": "2026-11-05-combi-tres",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.36
       },
       {
         "id": "2026-11-05-combi-multi",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-05-lista-europa-2",
         "titulo": "🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3)",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1123,26 +1123,26 @@
       {
         "id": "2026-11-05-lista-europa-3",
         "titulo": "🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3)",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-05-combi-partido-1636383",
         "titulo": "✅ COMBI LOCAS | CONFERENCE",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 6.26
       },
       {
         "id": "2026-11-05-combi-partido-1636254",
         "titulo": "✅ COMBI LOCAS | EUROPA LEAGUE",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.42
       },
       {
         "id": "2026-11-05-combi-partido-1636229",
         "titulo": "✅ COMBI LOCAS | EUROPA LEAGUE",
         "estado": "pendiente",
-        "cuota": 5.69
+        "cuota": 3.93
       },
       {
         "id": "2026-11-05-estrella-1636223",
@@ -1158,10 +1158,10 @@
       }
     ],
     "picks": {
-      "verde": 15,
+      "verde": 2,
       "rojo": 0,
       "total": 100
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · pendiente\n⏳ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3) · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73 · pendiente\n⏳ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3) · pendiente\n⏳ ✅ COMBI LOCAS | CONFERENCE · 6,26 · pendiente\n⏳ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,42 · pendiente\n⏳ ✅ COMBI LOCAS | EUROPA LEAGUE · 5,69 · pendiente\n⏳ 🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠 · 4,26 · pendiente\n⏳ 🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠 · 4,90 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n❔ 🏆 EUROPA LEAGUE - GANADORES · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❔ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · faltan datos\n❔ 🏆 CONFERENCE LEAGUE - GANADORES · faltan datos\n❔ 🏆⚽ COPAS EUROPEAS · 13 PICKS PARA HOY 🍀 (1/3) · faltan datos\n❔ ⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀 · 8,46 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL JUEVES x3,36! 🍀 · 3,36 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,82! 🍀 · faltan datos\n❔ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (2/3) · faltan datos\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL JUEVES x6,73! 🤪 · 6,73 · pendiente\n❔ 🏆⚽ COPAS EUROPEAS · 12 PICKS PARA HOY 🍀 (3/3) · faltan datos\n❔ ✅ COMBI LOCAS | CONFERENCE · 6,26 · faltan datos\n❔ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,42 · faltan datos\n⏳ ✅ COMBI LOCAS | EUROPA LEAGUE · 3,93 · pendiente\n⏳ 🟠 BAYER LEVERKUSEN 🆚 MARSEILLE 🟠 · 4,26 · pendiente\n⏳ 🟠 AZ ALKMAAR 🆚 JUVENTUS 🟠 · 4,90 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
   }
 }
