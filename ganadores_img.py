@@ -44,7 +44,7 @@ def _logo(lado):
     return f'<div class="logo {lado}"><img src="data:image/png;base64,{b}"></div>'
 
 
-def html_oro(filas, titulo):
+def html_oro(filas, titulo, liga=None):
     css = _fuente("Anton", "Anton-Regular.ttf") + _fuente("Oswald", "Oswald[wght].ttf") + _fuente("Cinzel", "Cinzel[wght].ttf") + """
 body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-family:Oswald;
  background:radial-gradient(ellipse at 50% 45%,#ffffff 0%,#fff9ea 45%,#f3dfae 100%)}
@@ -62,6 +62,8 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
 .linea{position:absolute;left:300px;right:300px;height:0;border-top:3px dashed #d4a017}
 .linea.t{top:58px} .linea.bo{bottom:58px}
 .estrella{position:absolute;width:44px;left:653px} .estrella.t{top:36px} .estrella.bo{bottom:36px}
+.liga{position:absolute;top:66px;left:0;right:0;display:flex;justify-content:center}
+.liga img{height:76px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25))}
 .titulo{position:absolute;top:84px;left:0;right:0;text-align:center;font-family:Cinzel;font-weight:900;font-size:40px;
  letter-spacing:6px;color:#7a5300;text-shadow:0 1px 0 #fff}
 .lista{position:absolute;top:146px;left:230px;right:230px}
@@ -97,7 +99,24 @@ body{margin:0;width:1350px;height:1000px;overflow:hidden;position:relative;font-
             + '<div class="linea t"></div><div class="linea bo"></div>' + ESTRELLA.replace('class="estrella"', 'class="estrella t"')
             + ESTRELLA.replace('class="estrella"', 'class="estrella bo"'))
     return (f"<html><head><meta charset='utf-8'><style>{css}</style></head><body>{deco}"
-            f"<div class='titulo'>{html.escape(titulo)}</div><div class='lista'>{lis}</div><div class='pie'>@COMBILOCAS</div></body></html>")
+            + (f"<div class='liga'>{_img(liga).replace('class=\"esc\"', '')}</div>" if liga and Path(liga).exists()
+               else f"<div class='titulo'>{html.escape(titulo)}</div>")
+            + f"<div class='lista'>{lis}</div><div class='pie'>@COMBILOCAS</div></body></html>")
+
+
+def logo_liga(liga_id):
+    """Logo oficial de la competición (API-Football), guardado en publicaciones/media/escudos/liga-<id>.png.
+    Si no se puede descargar (sin red), None y sale el nombre en letras."""
+    import urllib.request
+    ruta = RAIZ / "publicaciones" / "media" / "escudos" / f"liga-{liga_id}.png"
+    if not ruta.exists():
+        try:
+            ruta.parent.mkdir(parents=True, exist_ok=True)
+            ruta.write_bytes(urllib.request.urlopen(f"https://media.api-sports.io/football/leagues/{liga_id}.png", timeout=10).read())
+        except Exception as e:
+            print("logo de liga:", e)
+            return None
+    return str(ruta)
 
 
 def html_noche(filas, titulo):
@@ -143,13 +162,13 @@ body{margin:0;width:1080px;height:1350px;overflow:hidden;position:relative;font-
 PLANTILLAS = {"oro": (html_oro, (1350, 1000)), "noche": (html_noche, (1080, 1350))}
 
 
-def generar(filas, titulo, salida, plantilla="oro"):
+def generar(filas, titulo, salida, plantilla="oro", liga=None):
     from playwright.sync_api import sync_playwright
     hacer, (w, h) = PLANTILLAS[plantilla]
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": w, "height": h})
-        pg.set_content(hacer(filas, titulo))
+        pg.set_content(hacer(filas, titulo, liga) if plantilla == "oro" else hacer(filas, titulo))
         pg.wait_for_timeout(800)
         pg.screenshot(path=str(salida), type="jpeg", quality=92)
         b.close()
