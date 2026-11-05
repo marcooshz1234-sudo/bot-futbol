@@ -1050,14 +1050,14 @@
   },
   "2026-11-05": {
     "dia": "2026-11-05",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -1071,13 +1071,19 @@
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
         "estado": "pendiente",
         "cuota": 1.5
+      },
+      {
+        "id": "2026-11-05-escalera",
+        "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀",
+        "estado": "pendiente",
+        "cuota": 1.96
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 13
+      "total": 15
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,96 🍀 · 1,96 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
