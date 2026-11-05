@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 18:05",
+ "actualizado": "2026-11-05 18:15",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1867,
-   "hoy": 229,
+   "seguidores": 1870,
+   "hoy": 232,
    "serie": [
     1354,
     1375,
@@ -24,7 +24,7 @@
     1430,
     1520,
     1638,
-    1867
+    1870
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2162,
- "total_hoy": 255,
+ "total": 2165,
+ "total_hoy": 258,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:10",
+  "hora": "20:25",
   "dia": "2026-11-05",
-  "titulo": "Combi Crystal Palace vs 1899 Hoffenhei"
+  "titulo": "Combi Benfica vs Lech Poznan"
  },
  "ayer": {
   "aciertos": 15,
@@ -150,7 +150,7 @@
   },
   "2026-11-05": {
    "instagram": 25,
-   "threads": 1867,
+   "threads": 1870,
    "facebook": 0,
    "telegram": 270
   }
