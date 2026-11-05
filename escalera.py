@@ -39,6 +39,8 @@ PAUSADAS = {"2026-10-29": (140, 141, 143)}
 # mismo que las combis (combis_dia.pool_partido, con todas las lecciones, árbitro y jugadores fijos): solo patas que
 # el bot ve al 68 % o más (ya corregido con lo que acierta de verdad, 01/11), sin córners ni tarjetas, 2 o 3 de partidos distintos y la pareja/trío MÁS PROBABLE.
 SEGURA = {"prob_min": 0.68, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
+# 06/11 (Marcos, opción A: seguir a ≈x2): sin patas con ventaja negativa; si ningún día sale así, como mucho −0,05
+MIN_VENTAJA = [0.0]
 FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
 
 
@@ -71,7 +73,8 @@ def elegir_pool_(fecha, prob_min, comb_min):
             k = f"{p['mercado']}|{p['opcion']}"
             if p["prob_aprendida"] < prob_min or any(x in k for x in FUERA) or p["fecha"] <= limite \
                     or p.get("estimada") or p.get("solo_con_tarjetas") or not C.fijisimo(p) \
-                    or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]):
+                    or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]) \
+                    or (p.get("ventaja") or 0) < MIN_VENTAJA[0]:   # 06/11 (Marcos): nada que bet365 vea mejor que el bot
                 continue
             cand.append(p)
             break   # la mejor de cada partido
@@ -103,6 +106,14 @@ def elegir(dia, compartir=False, fecha=None):
         r = elegir_(dia, compartir, nivel, fecha) or (None if compartir else elegir_(dia, True, nivel, fecha))
         if r:
             return r
+    # «todos los días tiene que haber escalera» (29/10): se afloja la ventaja poco a poco, y en último caso sin filtro
+    siguiente = {0.0: -0.05, -0.05: -9.0}.get(MIN_VENTAJA[0])
+    if siguiente is not None:
+        antes, MIN_VENTAJA[0] = MIN_VENTAJA[0], siguiente
+        try:
+            return elegir(dia, compartir, fecha)
+        finally:
+            MIN_VENTAJA[0] = antes
     return None
 
 
@@ -119,7 +130,7 @@ def elegir_(dia, compartir, nivel=NIVELES[0], fecha=None):
     if nivel["valor"]:
         picks = [p for p in picks if p.get("prob_aprendida") is None or p["prob_aprendida"] >= 1 / p["cuota"] - 0.03]
     fiab = lambda p: p.get("prob_aprendida") or p["frecuencia"]
-    picks = [p for p in picks if fiab(p) >= 0.60]   # 02/11: nada de patas al 27 % («Fiorentina más tiros»)
+    picks = [p for p in picks if fiab(p) >= 0.60 and (p.get("ventaja") or 0) >= MIN_VENTAJA[0]]   # 06/11 sin ventaja negativa · 02/11: nada de patas al 27 % («Fiorentina más tiros»)
     orden = sorted(picks, key=lambda p: (-fiab(p), -p["ventaja"]))
     mejor = None
     for i, a in enumerate(orden):
