@@ -2626,7 +2626,7 @@
   {
     "id": "2026-11-06-combi-partido-1575539",
     "fecha": "2026-11-06T20:45",
-    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 FAMALICAO vs AROUCA 🇵🇹\n\n🎯 FAMALICAO HACE 3+ CÓRNERS [x1.28]\n✅ GOL EN LA 2ª PARTE [x1.25]\n✅ AROUCA MARCA [x1.40]\n✅ EMPATE AL DESCANSO [x2.10]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 4,39\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 FAMALICAO vs AROUCA 🇵🇹\n\n🎯 FAMALICAO HACE 3+ CÓRNERS [x1.28]\n✅ GOL EN LA 2ª PARTE [x1.28]\n✅ AROUCA MARCA [x1.44]\n✅ EMPATE AL DESCANSO [x2.05]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 4,52\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2638,9 +2638,9 @@
     ],
     "cuotas": [
       1.28,
-      1.25,
-      1.4,
-      2.1
+      1.28,
+      1.44,
+      2.05
     ],
     "tarjeta": {
       "local": "Famalicao",
@@ -2651,7 +2651,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/240.png",
       "fecha": "2026-11-06T21:45",
       "liga": "Primeira Liga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-06T19:17"
   },
   {
     "id": "2026-11-07-picks-manana",
