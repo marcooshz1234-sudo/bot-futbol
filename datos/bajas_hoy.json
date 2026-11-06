@@ -6861,8 +6861,24 @@
   "1563262": [],
   "1557463": [],
   "1570447": [],
-  "1570004": []
+  "1570004": [],
+  "1550195": [
+   {
+    "equipo": 503,
+    "jugador": "P. Pellegri",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   }
+  ],
+  "1550188": [
+   {
+    "equipo": 490,
+    "jugador": "Riyad Idrissi",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   }
+  ]
  },
- "ultima": "2026-11-06T08:23:54.069501+01:00",
+ "ultima": "2026-11-06T09:02:10.975008+01:00",
  "avisados": []
 }
