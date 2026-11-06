@@ -145,3 +145,4 @@
 2026-11-05 13:51:47 arranca el bot del móvil
 2026-11-05 19:41:12 arranca el bot del móvil
 2026-11-06 01:40:33 arranca el bot del móvil
+2026-11-06 02:12:10 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
