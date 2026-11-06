@@ -862,10 +862,11 @@
   "redes": {
    "instagram_reel": null,
    "instagram_story": "18254253058309635",
-   "threads": "18396630487166635"
+   "threads": "18396630487166635",
+   "instagram": null
   },
   "errores_redes": {
-   "instagram": "No module named 'playwright'"
+   "instagram": "caducado: no salió a tiempo"
   }
  }
 }
