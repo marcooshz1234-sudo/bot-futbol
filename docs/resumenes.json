@@ -1166,14 +1166,14 @@
   },
   "2026-11-06": {
     "dia": "2026-11-06",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -1187,13 +1187,19 @@
         "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀",
         "estado": "pendiente",
         "cuota": 2.1
+      },
+      {
+        "id": "2026-11-06-semana-europa-resultado",
+        "titulo": "📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 17
+      "total": 26
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n⏳ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
