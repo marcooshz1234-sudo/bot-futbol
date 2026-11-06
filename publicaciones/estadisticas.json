@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 13:22",
+ "actualizado": "2026-11-06 13:33",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1935,
-   "hoy": 29,
+   "seguidores": 1936,
+   "hoy": 30,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1935
+    1936
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 283,
-   "hoy": 6,
+   "seguidores": 284,
+   "hoy": 7,
    "serie": [
     176,
     207,
@@ -50,17 +50,17 @@
     232,
     245,
     277,
-    283
+    284
    ]
   }
  },
- "total": 2243,
- "total_hoy": 35,
+ "total": 2245,
+ "total_hoy": 37,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:30",
   "dia": "2026-11-06",
-  "titulo": "Combi del viernes x2,96"
+  "titulo": "Combi de 6 partidos x15,24"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,12 +156,17 @@
   },
   "2026-11-06": {
    "instagram": 25,
-   "threads": 1935,
+   "threads": 1936,
    "facebook": 0,
-   "telegram": 283
+   "telegram": 284
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 44,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Picks (reel)": {
    "posts": 1,
    "likes_media": 0.0,
@@ -172,18 +177,13 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 43,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Combi de partido (reel)": {
    "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
