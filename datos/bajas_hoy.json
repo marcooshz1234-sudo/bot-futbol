@@ -6904,8 +6904,44 @@
   "1550194": [],
   "1552811": [],
   "1552220": [],
-  "1575536": []
+  "1575536": [],
+  "1550187": [
+   {
+    "equipo": 488,
+    "jugador": "I. Koné",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 488,
+    "jugador": "E. Pieragnolo",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   },
+   {
+    "equipo": 488,
+    "jugador": "Fali Candé",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   },
+   {
+    "equipo": 488,
+    "jugador": "D. Boloca",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Bruise"
+   },
+   {
+    "equipo": 488,
+    "jugador": "Y. Paz",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   }
+  ],
+  "1570010": [],
+  "1570451": [],
+  "1552218": [],
+  "1552815": []
  },
- "ultima": "2026-11-06T14:34:42.248388+01:00",
+ "ultima": "2026-11-06T15:08:03.795662+01:00",
  "avisados": []
 }
