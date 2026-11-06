@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 15:17",
+ "actualizado": "2026-11-06 15:44",
  "redes": {
   "instagram": {
    "seguidores": 26,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1946,
-   "hoy": 40,
+   "seguidores": 1950,
+   "hoy": 44,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1946
+    1950
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2256,
- "total_hoy": 48,
+ "total": 2260,
+ "total_hoy": 52,
  "likes_hoy": 0,
  "proximo": {
   "hora": "16:00",
   "dia": "2026-11-06",
-  "titulo": "La loca del viernes x6,09"
+  "titulo": "La loca del viernes x6,23"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,7 +156,7 @@
   },
   "2026-11-06": {
    "instagram": 26,
-   "threads": 1946,
+   "threads": 1950,
    "facebook": 0,
    "telegram": 284
   }
