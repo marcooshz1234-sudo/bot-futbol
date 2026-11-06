@@ -1166,14 +1166,14 @@
   },
   "2026-11-06": {
     "dia": "2026-11-06",
-    "total": 6,
+    "total": 7,
     "cuentas": {
       "verde": 0,
       "rojo": 1,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -1211,6 +1211,12 @@
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪",
         "estado": "pendiente",
         "cuota": 6.23
+      },
+      {
+        "id": "2026-11-06-combi-partido-1570450",
+        "titulo": "✅ COMBI LOCAS | LALIGA",
+        "estado": "pendiente",
+        "cuota": 4.3
       }
     ],
     "picks": {
@@ -1218,6 +1224,6 @@
       "rojo": 2,
       "total": 38
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 1 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n❌ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪 · 6,23 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 1 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n❌ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪 · 6,23 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 4,30 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 6 sin resolver"
   }
 }
