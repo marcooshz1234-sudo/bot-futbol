@@ -41,8 +41,10 @@ PAUSADAS = {"2026-10-29": (140, 141, 143)}
 SEGURA = {"prob_min": 0.68, "rango": (1.80, 2.40), "patas": (2, 3), "comb_min": 0.50}
 # 06/11: también una sola pata a ≈x2 (sin el filtro de 68 %, que es por pata de pareja): gana la opción que más sale
 # 06/11 (Marcos, opción A: seguir a ≈x2): sin patas con ventaja negativa; si ningún día sale así, como mucho −0,05
-MIN_VENTAJA = [-0.03]   # un pelín negativa (Sevilla −0,02) es empate técnico
-FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5")
+MIN_VENTAJA = [-0.10]   # 06/11: la probabilidad prudente ya manda; −0,03 dejó fuera al Sevilla (salió «empate al descanso»)
+# 06/11 (Marcos): nada de descanso / 1ª o 2ª parte en la escalera («Empate al descanso» no)
+FUERA = ("Corner", "Card", "To Win Either Half", "Over 2.5", "Over 3.5", "First Half", "Second Half", "Halftime",
+         "HT/FT", "1st Half", "2nd Half")
 
 
 def elegir_pool(fecha):
@@ -120,7 +122,7 @@ def elegir(dia, compartir=False, fecha=None):
         if r:
             return r
     # «todos los días tiene que haber escalera» (29/10): se afloja la ventaja poco a poco, y en último caso sin filtro
-    siguiente = {-0.03: -0.06, -0.06: -9.0}.get(MIN_VENTAJA[0])
+    siguiente = {-0.10: -9.0}.get(MIN_VENTAJA[0])
     if siguiente is not None:
         antes, MIN_VENTAJA[0] = MIN_VENTAJA[0], siguiente
         try:
