@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Bayern München
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · MEWA Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:21_

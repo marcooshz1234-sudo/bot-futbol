@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06 08:22",
+ "generado": "2026-11-06 14:10",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -192,7 +192,7 @@
      "detalle": "Florian Neuhaus 4/5",
      "temporada": "4/5",
      "arbitro": "Sven Jablonski",
-     "arbitro_tarjetas": 2.2,
+     "arbitro_tarjetas": 2.8,
      "posiciones": [
       15,
       18,
@@ -353,7 +353,7 @@
      "detalle": "Florian Neuhaus 4/5",
      "temporada": "4/5",
      "arbitro": "Sven Jablonski",
-     "arbitro_tarjetas": 2.2,
+     "arbitro_tarjetas": 2.8,
      "posiciones": [
       15,
       18,
@@ -525,7 +525,7 @@
      "movimiento": -0.21,
      "cuota_inicial": 1.62,
      "arbitro": "Bastian Dankert",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       14,
       8,
@@ -938,7 +938,7 @@
      "movimiento": 0.049,
      "cuota_inicial": 1.22,
      "arbitro": "Soren Storks",
-     "arbitro_tarjetas": 5.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       11,
       5,
@@ -969,7 +969,7 @@
      "detalle": "Marco Grull 7/8",
      "temporada": "7/8",
      "arbitro": "Soren Storks",
-     "arbitro_tarjetas": 5.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       11,
       5,
@@ -1031,7 +1031,7 @@
      "detalle": "Fabian Rieder 8/10",
      "temporada": "8/10",
      "arbitro": "Daniel Schlager",
-     "arbitro_tarjetas": 3.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       4,
       10,
@@ -1221,7 +1221,7 @@
      "detalle": "Grischa Promel 9/10",
      "temporada": "10/11",
      "arbitro": "Soren Storks",
-     "arbitro_tarjetas": 5.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       11,
       5,
@@ -1455,7 +1455,7 @@
      "movimiento": -0.21,
      "cuota_inicial": 1.62,
      "arbitro": "Bastian Dankert",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       14,
       8,
@@ -1744,7 +1744,7 @@
      "movimiento": 0.049,
      "cuota_inicial": 1.22,
      "arbitro": "Soren Storks",
-     "arbitro_tarjetas": 5.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       11,
       5,
@@ -1806,7 +1806,7 @@
      "detalle": "Fabian Rieder 8/10",
      "temporada": "8/10",
      "arbitro": "Daniel Schlager",
-     "arbitro_tarjetas": 3.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       4,
       10,
@@ -2013,7 +2013,7 @@
        "movimiento": -0.21,
        "cuota_inicial": 1.62,
        "arbitro": "Bastian Dankert",
-       "arbitro_tarjetas": 4.0,
+       "arbitro_tarjetas": null,
        "posiciones": [
         14,
         8,
@@ -2402,7 +2402,7 @@
        "movimiento": -0.21,
        "cuota_inicial": 1.62,
        "arbitro": "Bastian Dankert",
-       "arbitro_tarjetas": 4.0,
+       "arbitro_tarjetas": null,
        "posiciones": [
         14,
         8,
@@ -2686,7 +2686,7 @@
        "movimiento": 0.049,
        "cuota_inicial": 1.22,
        "arbitro": "Soren Storks",
-       "arbitro_tarjetas": 5.0,
+       "arbitro_tarjetas": null,
        "posiciones": [
         11,
         5,
@@ -2774,7 +2774,7 @@
        "detalle": "Fabian Rieder 8/10",
        "temporada": "8/10",
        "arbitro": "Daniel Schlager",
-       "arbitro_tarjetas": 3.0,
+       "arbitro_tarjetas": null,
        "posiciones": [
         4,
         10,
@@ -2888,8 +2888,8 @@
      "valor_mercado": -0.008,
      "movimiento": 0.0,
      "cuota_inicial": 1.28,
-     "arbitro": "M. Oliver",
-     "arbitro_tarjetas": 2.9,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       3,
       6,
@@ -2916,8 +2916,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
-     "arbitro": "J. Gillett",
-     "arbitro_tarjetas": 4.1,
+     "arbitro": "Jarred Gillett",
+     "arbitro_tarjetas": 5.0,
      "prob_xg": 0.804,
      "xg_esperado": 3.02,
      "posiciones": [
@@ -2972,6 +2972,8 @@
      "valor_mercado": -0.016,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
+     "arbitro": "Jose Bessa",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
      "posiciones": [
@@ -3059,6 +3061,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 2.9,
      "prob_xg": 0.793,
      "xg_esperado": 2.95,
      "posiciones": [
@@ -3152,6 +3156,8 @@
      "temporada": "9/10",
      "movimiento": 0.029,
      "cuota_inicial": 1.4,
+     "arbitro": "Claudio Giuseppe Allegretta",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       18,
       13,
@@ -3181,8 +3187,8 @@
      "texto": "James Hill comete 1+ faltas",
      "detalle": "James Hill 8/10",
      "temporada": "11/13",
-     "arbitro": "S. Hooper",
-     "arbitro_tarjetas": 3.0,
+     "arbitro": "Simon Hooper",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       14,
       8,
@@ -3214,6 +3220,8 @@
      "temporada": "8/9",
      "movimiento": 0.157,
      "cuota_inicial": 1.08,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       5,
       2,
@@ -3243,8 +3251,8 @@
      "texto": "Jeremy Jacquet comete 1+ faltas",
      "detalle": "Jeremy Jacquet 8/10",
      "temporada": "10/13",
-     "arbitro": "T. Harrington",
-     "arbitro_tarjetas": 3.1,
+     "arbitro": "Tony Harrington",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       18,
       5,
@@ -3275,7 +3283,7 @@
      "detalle": "Zeno Van Den Bosch 7/8",
      "temporada": "7/8",
      "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 2.8,
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       3,
       16,
@@ -3306,7 +3314,7 @@
      "detalle": "Fisnik Asllani 7/7",
      "temporada": "7/7",
      "arbitro": "Martin Petersen",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       12,
       17,
@@ -3336,8 +3344,8 @@
      "texto": "Vitaly Janelt comete 1+ faltas",
      "detalle": "Vitaly Janelt 9/10",
      "temporada": "9/10",
-     "arbitro": "M. Oliver",
-     "arbitro_tarjetas": 2.9,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       3,
       6,
@@ -3512,7 +3520,7 @@
      "detalle": "Satoshi Tanaka 7/8",
      "temporada": "7/8",
      "arbitro": "Martin Petersen",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       12,
       17,
@@ -3542,8 +3550,8 @@
      "texto": "Keane Lewis-Potter comete 1+ faltas",
      "detalle": "Keane Lewis-Potter 8/10",
      "temporada": "8/10",
-     "arbitro": "M. Oliver",
-     "arbitro_tarjetas": 2.9,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       3,
       6,
@@ -3573,8 +3581,8 @@
      "texto": "Cole Palmer comete 1+ faltas",
      "detalle": "Cole Palmer 8/10",
      "temporada": "8/10",
-     "arbitro": "J. Gillett",
-     "arbitro_tarjetas": 4.1,
+     "arbitro": "Jarred Gillett",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       20,
       4,
@@ -3605,7 +3613,7 @@
      "detalle": "Koki Machida 7/8",
      "temporada": "7/8",
      "arbitro": "Martin Petersen",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       12,
       17,
@@ -3629,8 +3637,8 @@
      "frecuencia": 0.778,
      "ventaja": 0.179,
      "detalle": "Sunderland 7/9 · Chelsea 7/9",
-     "arbitro": "J. Gillett",
-     "arbitro_tarjetas": 4.1,
+     "arbitro": "Jarred Gillett",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       20,
       4,
@@ -3661,7 +3669,7 @@
      "detalle": "Miguel Gutierrez 8/10",
      "temporada": "9/12",
      "arbitro": "Felix Zwayer",
-     "arbitro_tarjetas": 3.3,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       13,
       6,
@@ -3720,8 +3728,8 @@
      "texto": "Exequiel Palacios comete 1+ faltas",
      "detalle": "Exequiel Palacios 5/6",
      "temporada": "5/6",
-     "arbitro": "S. Hooper",
-     "arbitro_tarjetas": 3.0,
+     "arbitro": "Simon Hooper",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       14,
       8,
@@ -3812,7 +3820,7 @@
      "detalle": "Marius Bulter 6/7",
      "temporada": "6/7",
      "arbitro": "Felix Zwayer",
-     "arbitro_tarjetas": 3.3,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       13,
       6,
@@ -3842,6 +3850,8 @@
      "texto": "Mikael Egill Ellertsson comete 1+ faltas",
      "detalle": "Mikael Egill Ellertsson 8/10",
      "temporada": "8/10",
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 2.9,
      "posiciones": [
       11,
       5,
@@ -3872,7 +3882,7 @@
      "detalle": "Jordy Makengo 8/10",
      "temporada": "9/12",
      "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 2.8,
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       3,
       16,
@@ -3905,7 +3915,7 @@
      "movimiento": 0.146,
      "cuota_inicial": 1.57,
      "arbitro": "Martin Petersen",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       12,
       17,
@@ -3913,6 +3923,32 @@
      ],
      "contexto": "mejor_lejos_abajo",
      "prob_aprendida": 0.468
+    },
+    {
+     "partido_id": 1575216,
+     "fecha": "2026-11-08T17:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Freiburg",
+     "visitante": "Union Berlin",
+     "mercado": "Cards Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "tarjetas",
+     "texto": "Más de 3,5 tarjetas en SC Freiburg–Union Berlin",
+     "cuota": 1.73,
+     "frecuencia": 0.85,
+     "ventaja": 0.272,
+     "detalle": "SC Freiburg 8/10 · Union Berlin 9/10",
+     "valor_mercado": 0.0,
+     "arbitro": "Sascha Stegemann",
+     "arbitro_tarjetas": 3.0,
+     "posiciones": [
+      3,
+      16,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.391
     }
    ],
    "mejores_por_partido": [
@@ -3934,8 +3970,8 @@
      "valor_mercado": -0.008,
      "movimiento": 0.0,
      "cuota_inicial": 1.28,
-     "arbitro": "M. Oliver",
-     "arbitro_tarjetas": 2.9,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       3,
       6,
@@ -3962,8 +3998,8 @@
      "valor_mercado": 0.0,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
-     "arbitro": "J. Gillett",
-     "arbitro_tarjetas": 4.1,
+     "arbitro": "Jarred Gillett",
+     "arbitro_tarjetas": 5.0,
      "prob_xg": 0.804,
      "xg_esperado": 3.02,
      "posiciones": [
@@ -4018,6 +4054,8 @@
      "valor_mercado": -0.016,
      "movimiento": -0.023,
      "cuota_inicial": 1.28,
+     "arbitro": "Jose Bessa",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.719,
      "xg_esperado": 2.53,
      "posiciones": [
@@ -4105,6 +4143,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 1.33,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 2.9,
      "prob_xg": 0.793,
      "xg_esperado": 2.95,
      "posiciones": [
@@ -4169,6 +4209,8 @@
      "temporada": "9/10",
      "movimiento": 0.029,
      "cuota_inicial": 1.4,
+     "arbitro": "Claudio Giuseppe Allegretta",
+     "arbitro_tarjetas": 1.0,
      "posiciones": [
       18,
       13,
@@ -4198,8 +4240,8 @@
      "texto": "James Hill comete 1+ faltas",
      "detalle": "James Hill 8/10",
      "temporada": "11/13",
-     "arbitro": "S. Hooper",
-     "arbitro_tarjetas": 3.0,
+     "arbitro": "Simon Hooper",
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       14,
       8,
@@ -4231,6 +4273,8 @@
      "temporada": "8/9",
      "movimiento": 0.157,
      "cuota_inicial": 1.08,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       5,
       2,
@@ -4260,8 +4304,8 @@
      "texto": "Jeremy Jacquet comete 1+ faltas",
      "detalle": "Jeremy Jacquet 8/10",
      "temporada": "10/13",
-     "arbitro": "T. Harrington",
-     "arbitro_tarjetas": 3.1,
+     "arbitro": "Tony Harrington",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       18,
       5,
@@ -4292,7 +4336,7 @@
      "detalle": "Zeno Van Den Bosch 7/8",
      "temporada": "7/8",
      "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 2.8,
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       3,
       16,
@@ -4323,7 +4367,7 @@
      "detalle": "Fisnik Asllani 7/7",
      "temporada": "7/7",
      "arbitro": "Martin Petersen",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": null,
      "posiciones": [
       12,
       17,
@@ -4467,7 +4511,7 @@
      "detalle": "Miguel Gutierrez 8/10",
      "temporada": "9/12",
      "arbitro": "Felix Zwayer",
-     "arbitro_tarjetas": 3.3,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       13,
       6,
@@ -4558,8 +4602,8 @@
        "valor_mercado": -0.008,
        "movimiento": 0.0,
        "cuota_inicial": 1.28,
-       "arbitro": "M. Oliver",
-       "arbitro_tarjetas": 2.9,
+       "arbitro": "Michael Oliver",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         3,
         6,
@@ -4586,8 +4630,8 @@
        "valor_mercado": 0.0,
        "movimiento": -0.023,
        "cuota_inicial": 1.28,
-       "arbitro": "J. Gillett",
-       "arbitro_tarjetas": 4.1,
+       "arbitro": "Jarred Gillett",
+       "arbitro_tarjetas": 5.0,
        "prob_xg": 0.804,
        "xg_esperado": 3.02,
        "posiciones": [
@@ -4707,6 +4751,8 @@
        "valor_mercado": -0.016,
        "movimiento": -0.023,
        "cuota_inicial": 1.28,
+       "arbitro": "Jose Bessa",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.719,
        "xg_esperado": 2.53,
        "posiciones": [
@@ -4763,6 +4809,8 @@
        "valor_mercado": 0.0,
        "movimiento": 0.023,
        "cuota_inicial": 1.33,
+       "arbitro": "Davide Massa",
+       "arbitro_tarjetas": 2.9,
        "prob_xg": 0.793,
        "xg_esperado": 2.95,
        "posiciones": [
@@ -4805,35 +4853,6 @@
        "prob_aprendida": 0.761
       },
       {
-       "partido_id": 1552222,
-       "fecha": "2026-11-08T14:30",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Twente",
-       "visitante": "Ajax",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Wout Weghorst - 1",
-       "cuota": 1.25,
-       "frecuencia": 0.9,
-       "ventaja": 0.1,
-       "tipo": "jugador",
-       "jugador": "Wout Weghorst",
-       "equipo": "Twente",
-       "jugador_id": 25416,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Wout Weghorst: 1+ tiros a puerta",
-       "detalle": "Wout Weghorst 9/10",
-       "temporada": "13/18",
-       "posiciones": [
-        4,
-        2,
-        18
-       ],
-       "contexto": "peor_igualado_arriba",
-       "prob_aprendida": 0.717
-      },
-      {
        "partido_id": 1550192,
        "fecha": "2026-11-08T15:00",
        "competicion": "Serie A",
@@ -4856,6 +4875,8 @@
        "temporada": "9/10",
        "movimiento": 0.029,
        "cuota_inicial": 1.4,
+       "arbitro": "Claudio Giuseppe Allegretta",
+       "arbitro_tarjetas": 1.0,
        "posiciones": [
         18,
         13,
@@ -4865,32 +4886,64 @@
        "prob_aprendida": 0.691
       },
       {
-       "partido_id": 1557466,
+       "partido_id": 1557462,
        "fecha": "2026-11-08T15:00",
        "competicion": "Premier",
        "liga_id": 39,
-       "local": "Sunderland",
-       "visitante": "Chelsea",
-       "mercado": "Offsides Total",
-       "opcion": "Over 2.5",
-       "tipo": "fueras de juego",
-       "texto": "Más de 2,5 fueras de juego en Sunderland–Chelsea",
-       "cuota": 1.67,
-       "frecuencia": 0.778,
-       "ventaja": 0.179,
-       "detalle": "Sunderland 7/9 · Chelsea 7/9",
-       "arbitro": "J. Gillett",
-       "arbitro_tarjetas": 4.1,
+       "local": "Ipswich",
+       "visitante": "Bournemouth",
+       "mercado": "Player Fouls Committed",
+       "opcion": "James Hill - 1",
+       "cuota": 1.3,
+       "frecuencia": 0.8,
+       "ventaja": 0.031,
+       "tipo": "jugador",
+       "jugador": "James Hill",
+       "equipo": "Bournemouth",
+       "jugador_id": 20093,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "James Hill comete 1+ faltas",
+       "detalle": "James Hill 8/10",
+       "temporada": "11/13",
+       "arbitro": "Simon Hooper",
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
-        20,
-        4,
+        14,
+        8,
         20
        ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.703
+      },
+      {
+       "partido_id": 1575216,
+       "fecha": "2026-11-08T17:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SC Freiburg",
+       "visitante": "Union Berlin",
+       "mercado": "Cards Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "tarjetas",
+       "texto": "Más de 3,5 tarjetas en SC Freiburg–Union Berlin",
+       "cuota": 1.73,
+       "frecuencia": 0.85,
+       "ventaja": 0.272,
+       "detalle": "SC Freiburg 8/10 · Union Berlin 9/10",
+       "valor_mercado": 0.0,
+       "arbitro": "Sascha Stegemann",
+       "arbitro_tarjetas": 3.0,
+       "posiciones": [
+        3,
+        16,
+        18
+       ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.498
+       "prob_aprendida": 0.391
       }
      ],
-     "cuota": 8.18
+     "cuota": 8.81
     },
     "doble": null
    },

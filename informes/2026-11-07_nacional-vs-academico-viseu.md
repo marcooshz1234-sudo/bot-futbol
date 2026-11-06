@@ -1,7 +1,7 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España) · Estádio da Madeira
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:21_

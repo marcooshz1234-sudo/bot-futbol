@@ -12293,5 +12293,27 @@
   "ventaja": 0.286,
   "prob_aprendida": 0.537,
   "acierto": null
+ },
+ "1575216|Cards Over/Under|Over 3.5": {
+  "partido_id": 1575216,
+  "fecha": "2026-11-08T17:30",
+  "competicion": "Bundesliga",
+  "local": "SC Freiburg",
+  "visitante": "Union Berlin",
+  "mercado": "Cards Over/Under",
+  "opcion": "Over 3.5",
+  "tipo": "tarjetas",
+  "texto": "Más de 3,5 tarjetas en SC Freiburg–Union Berlin",
+  "cuota": 1.73,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.272,
+  "prob_aprendida": 0.391,
+  "acierto": null
  }
 }

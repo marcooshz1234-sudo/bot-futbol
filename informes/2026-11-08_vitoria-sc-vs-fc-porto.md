@@ -1,7 +1,7 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España) · Estádio D. Afonso Henriques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:22_

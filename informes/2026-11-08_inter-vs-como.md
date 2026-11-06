@@ -1,7 +1,7 @@
 # Inter – Como
 **Serie A** · Regular Season - 11 · 08/11/2026 18:00 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:22_

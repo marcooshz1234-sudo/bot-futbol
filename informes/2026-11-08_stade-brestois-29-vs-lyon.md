@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Lyon
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:22_

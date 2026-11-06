@@ -1,7 +1,7 @@
 # Manchester United – Aston Villa
 **Premier League** · Regular Season - 10 · 08/11/2026 17:30 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:22_

@@ -1,7 +1,7 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · El Molinón-Enrique Castro Quini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:22_

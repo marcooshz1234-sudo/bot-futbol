@@ -1,7 +1,7 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 19:00 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:21_

@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-06 08:22 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-06 14:10 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 06/11
 
@@ -84,14 +84,14 @@ _Generado el 2026-11-06 08:22 (hora España). Cuotas de Bet365. Criterio: cuota 
 - Jorthy Mokio: 1+ tiros (1,40) · Jorthy Mokio 9/10
 - Heerenveen hace más de 3,5 córners (1,62) · Heerenveen 8/10 · Feyenoord (en contra) 7/10
 
-**🤪 Combi loca · cuota 8,18**
+**🤪 Combi loca · cuota 8,81**
 - Más de 1,5 goles en Estoril–Maritimo (1,25) · Estoril 8/10 · Maritimo 10/10
 - Más de 1,5 goles en Girona–Almeria (1,25) · Girona 8/10 · Almeria 9/10
 - Más de 1,5 goles en Genoa–AC Milan (1,36) · Genoa 7/10 · AC Milan 10/10
 - Lamine Yamal: 3+ tiros (1,28) · Lamine Yamal 10/10
-- Wout Weghorst: 1+ tiros a puerta (1,25) · Wout Weghorst 9/10
 - Gustavo Varela: 1+ tiros a puerta (1,44) · Gustavo Varela 9/10
-- Más de 2,5 fueras de juego en Sunderland–Chelsea (1,67) · Sunderland 7/9 · Chelsea 7/9
+- James Hill comete 1+ faltas (1,30) · James Hill 8/10
+- Más de 3,5 tarjetas en SC Freiburg–Union Berlin (1,73) · SC Freiburg 8/10 · Union Berlin 9/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
@@ -130,3 +130,4 @@ _Generado el 2026-11-06 08:22 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | Mikael Egill Ellertsson comete 1+ faltas | jugador | 1.50 | 80% | Mikael Egill Ellertsson 8/10 |
 | 17:30 | Jordy Makengo comete 1+ faltas | jugador | 1.67 | 80% | Jordy Makengo 8/10 |
 | 19:30 | Alexander Prass: 1+ tiros a puerta | jugador | 1.80 | 80% | Alexander Prass 4/5 |
+| 17:30 | Más de 3,5 tarjetas en SC Freiburg–Union Berlin | tarjetas | 1.73 | 85% | SC Freiburg 8/10 · Union Berlin 9/10 |

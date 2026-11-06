@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 06/11/2026 08:22 (hora España). Partidos guardados en la base de datos: 1727._
+_Actualizado el 06/11/2026 14:09 (hora España). Partidos guardados en la base de datos: 1727._
 
 
 ## Viernes 06/11
@@ -95,16 +95,22 @@ _Actualizado el 06/11/2026 08:22 (hora España). Partidos guardados en la base d
 - 21:30 · Primeira Liga · [Estrela – Benfica](informes/2026-11-08_estrela-vs-benfica.md) · 1X2: 10.00 / 6.00 / 1.25
 
 ## Lunes 09/11
-- 20:30 · Segunda División · [Sabadell – Real Sociedad II](informes/2026-11-09_sabadell-vs-real-sociedad-ii.md) · 1X2: 1.67 / 3.60 / 4.75
+- 20:30 · Segunda División · [Sabadell – Real Sociedad II](informes/2026-11-09_sabadell-vs-real-sociedad-ii.md) · 1X2: 1.73 / 3.60 / 4.75
 
 ## Martes 10/11
-- 20:00 · Copa del Rey · [Badajoz – Tenerife](informes/2026-11-10_badajoz-vs-tenerife.md) · 1X2: 5.00 / 3.90 / 1.67
+- 19:00 · Copa del Rey · [Pamplona – Eibar](informes/2026-11-10_pamplona-vs-eibar.md) · 1X2: 12.00 / 6.25 / 1.22
+- 19:00 · Copa del Rey · [Anaitasuna – Alaves](informes/2026-11-10_anaitasuna-vs-alaves.md) · 1X2: 41.00 / 15.00 / 1.03
 - 20:00 · Copa del Rey · [Trival Valderas – Leganes](informes/2026-11-10_trival-valderas-vs-leganes.md)
 - 21:00 · Copa del Rey · [Tavernes – Valencia](informes/2026-11-10_tavernes-vs-valencia.md) · 1X2: 51.00 / 26.00 / 1.00
 
 ## Jueves 12/11
+- 18:30 · Copa del Rey · [Calvo Sotelo – Albacete](informes/2026-11-12_calvo-sotelo-vs-albacete.md) · 1X2: 5.75 / 4.00 / 1.57
 - 19:00 · Copa del Rey · [Navalcarnero – Real Betis](informes/2026-11-12_navalcarnero-vs-real-betis.md) · 1X2: 19.00 / 9.00 / 1.10
+- 19:00 · Copa del Rey · [Tarancón – Levante](informes/2026-11-12_tarancon-vs-levante.md) · 1X2: 15.00 / 9.50 / 1.12
 
 ## Viernes 13/11
 - 20:30 · Segunda División · [Leganes – Burgos](informes/2026-11-13_leganes-vs-burgos.md)
 - 21:00 · Copa del Rey · [Salamanca UDS – Celta Vigo](informes/2026-11-13_salamanca-uds-vs-celta-vigo.md) · 1X2: 8.00 / 5.00 / 1.36
+
+## Sábado 14/11
+- 14:00 · Segunda División · [Valladolid – Castellón](informes/2026-11-14_valladolid-vs-castellon.md)

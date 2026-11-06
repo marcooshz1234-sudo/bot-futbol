@@ -1,7 +1,7 @@
 # 1. FC Köln – Bayer Leverkusen
 **Bundesliga** · Regular Season - 9 · 08/11/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:21_

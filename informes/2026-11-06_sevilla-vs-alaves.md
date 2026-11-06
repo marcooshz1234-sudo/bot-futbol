@@ -1,7 +1,7 @@
 # Sevilla – Alaves
 **LaLiga** · Regular Season - 12 · 06/11/2026 21:00 (hora España) · Estadio Ramón Sánchez-Pizjuán
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:20_

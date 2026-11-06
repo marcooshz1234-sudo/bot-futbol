@@ -1,7 +1,7 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 14:09._
 
 ## Cuotas Bet365
 _Actualizadas: 06/11 08:21_
