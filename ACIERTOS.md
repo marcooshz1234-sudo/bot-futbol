@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 410 · aciertos: 253 (62%) · beneficio a 1 € por pick: -52.83 €
+Picks ya jugados: 439 · aciertos: 274 (62%) · beneficio a 1 € por pick: -52.28 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 49 | 73 | 67% | -1.49 € |
-| goles | 118 | 188 | 63% | -23.90 € |
-| jugador | 74 | 118 | 63% | -16.29 € |
-| tarjetas | 6 | 11 | 55% | -1.63 € |
-| tiros | 5 | 10 | 50% | -1.14 € |
-| corners | 1 | 8 | 12% | -6.38 € |
+| resultado | 49 | 76 | 64% | -4.49 € |
+| jugador | 81 | 126 | 64% | -14.97 € |
+| goles | 128 | 201 | 64% | -23.26 € |
+| tarjetas | 8 | 13 | 62% | -0.33 € |
+| tiros | 6 | 11 | 55% | -0.47 € |
+| corners | 2 | 10 | 20% | -6.76 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
@@ -20,31 +20,62 @@ Picks ya jugados: 410 · aciertos: 253 (62%) · beneficio a 1 € por pick: -52.
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
 | To Win Either Half · Home | 5 | 5 | 100% |
-| Match Winner · Home | 6 | 7 | 86% |
 | Match Winner · Away | 6 | 7 | 86% |
-| Goals Over/Under · Over 1.5 | 18 | 23 | 78% |
+| Goals Over/Under · Over 1.5 | 21 | 26 | 81% |
+| Match Winner · Home | 6 | 8 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Goals Over/Under First Half · Over 0.5 | 27 | 39 | 69% |
+| Goals Over/Under First Half · Over 0.5 | 30 | 44 | 68% |
 | Double Chance · Home/Draw | 4 | 6 | 67% |
-| To Win Either Half · Away | 4 | 6 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
+| Home Team Total Cards · Over 1.5 | 5 | 8 | 62% |
+| Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
-| Total - Away · Over 0.5 | 23 | 41 | 56% |
-| Shots.1x2 · Away | 2 | 4 | 50% |
+| Total - Away · Over 0.5 | 27 | 46 | 59% |
+| To Win Either Half · Away | 4 | 7 | 57% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
-| Home Team Total Cards · Over 1.5 | 3 | 6 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
-| Double Chance · Draw/Away | 7 | 18 | 39% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
+| Double Chance · Draw/Away | 7 | 19 | 37% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-05 · 21/29
+- ✅ Gol en la 1ª parte del FC Midtjylland–Ajax · 1.28 (1-6)
+- ✅ Gol en la 1ª parte del Crystal Palace–1899 Hoffenheim · 1.28 (1-1)
+- ❌ Gol en la 1ª parte del Levski Sofia–Jagiellonia · 1.33 (1-0)
+- ✅ Omonia Nicosia marca · 1.36 (3-1)
+- ✅ Ferencvarosi TC marca · 1.67 (0-2)
+- ❌ Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split · 1.67 (1-0)
+- ✅ Más de 1,5 goles en Mjallby AIF–Borac Banja Luka · 1.30 (2-0)
+- ✅ Koki Machida comete 1+ faltas · 1.28 (1-1)
+- ❌ Evanilson comete 1+ faltas · 1.30 (1-3)
+- ✅ James Hill comete 1+ faltas · 1.28 (1-3)
+- ✅ Real Sociedad ve más de 1,5 tarjetas · 1.57 (1-1)
+- ✅ Gol en la 1ª parte del Universitatea Craiova–Egnatia Rrogozhinë · 1.30 (2-0)
+- ❌ FC Nordsjaelland marca · 1.53 (2-0)
+- ❌ Gol en la 1ª parte del Getafe–Brighton · 1.36 (0-1)
+- ✅ FK Jablonec marca · 1.33 (1-1)
+- ❌ Gana el Bayer Leverkusen · 1.40 (0-1)
+- ✅ Dinamo Zagreb marca · 1.57 (0-2)
+- ❌ Beşiktaş o empate · 1.36 (3-2)
+- ✅ Camilo Duran: 1+ tiros a puerta · 1.36 (3-2)
+- ❌ Beşiktaş gana alguna de las dos partes · 1.57 (3-2)
+- ✅ Más de 1,5 goles en AZ Alkmaar–Juventus · 1.25 (1-2)
+- ✅ Timothy Weah comete 1+ faltas · 1.28 (0-1)
+- ✅ Dion Beljo comete 1+ faltas · 1.28 (0-2)
+- ✅ Miguel Gutierrez comete 1+ faltas · 1.44 (0-1)
+- ✅ Beşiktaş hace más tiros · 1.67 (3-2)
+- ✅ Benfica ve más de 1,5 tarjetas · 1.73 (3-1)
+- ✅ Josip Misic comete 1+ faltas · 1.40 (0-2)
+- ✅ Más de 1,5 goles en Celta Vigo–Union St. Gilloise · 1.30 (1-2)
+- ✅ Lech Poznan hace más de 2,5 córners · 1.62 (3-1)
 
 ### 2026-11-04 · 15/22
 - ✅ AEK Athens FC marca · 1.44 (2-3)
@@ -323,15 +354,4 @@ Picks ya jugados: 410 · aciertos: 253 (62%) · beneficio a 1 € por pick: -52.
 - ✅ No hay empate en Lille–Lens · 1.28 (1-0)
 - ❌ Gol en la 1ª parte del Lille–Lens · 1.30 (1-0)
 - ❌ Más de 24,5 tiros en Lille–Lens · 1.80 (1-0)
-
-### 2026-10-29 · 6/9
-- ✅ Gol en la 1ª parte del Frosinone–Lecce · 1.28 (5-1)
-- ✅ No hay empate en Frosinone–Lecce · 1.28 (5-1)
-- ✅ Frosinone gana alguna de las dos partes · 1.50 (5-1)
-- ❌ No hay empate en Fiorentina–Atalanta · 1.30 (2-2)
-- ✅ Atalanta marca · 1.25 (2-2)
-- ✅ Thierno Barry: 2+ tiros · 1.28 (3-1)
-- ✅ Thierno Barry: 1+ tiros a puerta · 1.28 (3-1)
-- ❌ Radu Dragusin comete 1+ faltas · 1.50 (2-2)
-- ❌ Groningen marca 2 o más · 1.40 (0-2)
 

@@ -1,10 +1,10 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:00_
+_Actualizadas: 06/11 02:14_
 
 - **1X2:** 1 **4.50**  ·  X **3.50**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.18**
@@ -31,7 +31,7 @@ _Actualizadas: 05/11 20:00_
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
-    - 3,5: más **2.20** · menos **1.62**
+    - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.10**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -55,7 +55,7 @@ _Actualizadas: 05/11 20:00_
 - **Total Shots:**
     - 23,5: más **1.83** · menos **1.83**
     - 24,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **2.88**  ·  X **15.00**  ·  2 **1.44**
+- **Shots.1x2:** 1 **3.25**  ·  X **15.00**  ·  2 **1.36**
 - **Home Player Shots On Target Total:** Vincent Sierro - 1 **6.00**  ·  Vincent Sierro - 2 **17.00**  ·  David Romero - 1 **1.80**  ·  Simone Lontani - 1 **2.00**  ·  El Bilal Toure - 1 **1.91**  ·  Adrian Bernabe - 1 **2.50**  ·  Matija Frigan - 1 **1.80**  ·  Nesta Elphege - 1 **1.57**  ·  Pontus Almqvist - 1 **1.91**  ·  Ousmane Diallo - 1 **2.38**  ·  Christian Ordonez - 1 **5.50**  ·  Benjamin Cremaschi - 1 **6.00**  ·  Sascha Britschgi - 1 **6.50**  ·  Mariano Troilo - 1 **8.00**  ·  Emanuele Valeri - 1 **5.00**  ·  Franco Carboni - 1 **5.00**  ·  Abdou-Salam Konate - 1 **4.00**  ·  Lautaro Valenti - 1 **6.00**  ·  Mandela Keita - 1 **6.00**  ·  Niakhate Ndiaye - 1 **10.00**  ·  Enrico Del Prato - 1 **5.00**  ·  Dominik Drobnic - 1 **13.00**  ·  David Romero - 2 **5.00**  ·  Simone Lontani - 2 **6.50**  ·  El Bilal Toure - 2 **6.00**  ·  Adrian Bernabe - 2 **11.00**  ·  Matija Frigan - 2 **5.00**  ·  Nesta Elphege - 2 **3.75**  ·  Pontus Almqvist - 2 **6.00**  ·  Ousmane Diallo - 2 **9.00**  ·  Christian Ordonez - 2 **13.00**  ·  Benjamin Cremaschi - 2 **17.00**  ·  Sascha Britschgi - 2 **17.00**  ·  Mariano Troilo - 2 **21.00**  ·  Franco Carboni - 2 **21.00**  ·  Abdou-Salam Konate - 2 **21.00**  ·  David Romero - 3 **17.00**  ·  Simone Lontani - 3 **21.00**  ·  El Bilal Toure - 3 **21.00**  ·  Matija Frigan - 3 **17.00**  ·  Nesta Elphege - 3 **11.00**  ·  Pontus Almqvist - 3 **21.00**  ·  Giovanni Fabbian - 1 **3.00**  ·  Giovanni Fabbian - 2 **15.00**  ·  Diego Carlos - 1 **13.00**  ·  Djibril Diallo - 1 **13.00**
 - **Away Player Shots On Target Total:** Rahim Alhassane **51.00**  ·  Mikel Amondarain **15.00**  ·  Vincent Sierro **51.00**  ·  Torbjorn Heggem **23.00**  ·  Martin Vitik **12.00**  ·  David Romero **21.00**  ·  Thomas de Martis **13.00**  ·  Sascha Britschgi **41.00**  ·  Christian Ordonez **51.00**  ·  Mariano Troilo **23.00**  ·  Matija Frigan **19.00**  ·  Franco Carboni **67.00**  ·  Hans Nicolussi Caviglia **67.00**  ·  Diego Carlos **21.00**  ·  El Bilal Toure **15.00**  ·  Adrian Bernabe **67.00**  ·  Eivind Helland **34.00**  ·  Nicolo Cambiaghi **34.00**  ·  Nicolo Casale **11.00**  ·  Abdou-Salam Konate **34.00**  ·  Benjamin Cremaschi **51.00**  ·  Nesta Elphege **15.00**  ·  Dominik Drobnic **23.00**  ·  Ousmane Diallo **41.00**  ·  Marco Libra **51.00**  ·  Lewis Ferguson **19.00**  ·  Djibril Diallo **23.00**  ·  Luca Lo Monaco **21.00**  ·  Jay Enem **8.50**  ·  Tommaso Pobega **19.00**  ·  Artem Dovbyk **8.50**  ·  Arthur Theate **17.00**  ·  Emanuele Valeri **101.00**  ·  Giovanni Fabbian **23.00**  ·  Jens Odgaard **17.00**  ·  Juan Miranda **41.00**  ·  Lautaro Valenti **19.00**  ·  Lorenzo De Silvestri **26.00**  ·  Mandela Keita **101.00**  ·  Nikola Moro **51.00**  ·  Oussama El Azzouzi **51.00**  ·  Pontus Almqvist **51.00**  ·  Riccardo Orsolini **19.00**  ·  Enrico del Prato **23.00**  ·  Nadir Zortea **51.00**  ·  Roberto Piccoli **8.00**  ·  Samuel Mbangula **41.00**  ·  Matteo Darmian **67.00**  ·  Federico Bernardeschi **51.00**
 - **Away Player Shots Total:**
@@ -200,14 +200,14 @@ _Sin bajas comunicadas por ahora._
 | O. El Azzouzi | M | 3 | 123 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 2 | 0,7 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,80 · visitante 1,33 · córners esperados 9,4._
+_Goles esperados: local 0,80 · visitante 1,32 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 49% | 52% | 51% | 1.83 | -8% |
+| 1X2: 2 | 49% | 52% | 50% | 1.83 | -8% |
 | 1X2: X | 28% | 27% | 28% | 3.50 | -3% |
-| 1X2: 1 | 22% | 21% | 22% | 4.50 | -2% |
-| Doble oportunidad: X2 | 78% | 79% | 78% | 1.18 | -8% |
+| 1X2: 1 | 23% | 21% | 22% | 4.50 | -2% |
+| Doble oportunidad: X2 | 77% | 79% | 78% | 1.18 | -8% |
 | Doble oportunidad: 12 | 72% | 73% | 72% | 1.28 | -8% |
 | Doble oportunidad: 1X | 51% | 49% | 50% | 1.91 | -5% |
 | Ambos marcan: No | 60% | 52% | 56% | 1.80 | +0% |
@@ -226,15 +226,15 @@ _Goles esperados: local 0,80 · visitante 1,33 · córners esperados 9,4._
 | Goles del local: Más de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles del local: Menos de 0.5 | 45% | 42% | 44% | 2.20 | -4% |
 | Goles del local: Menos de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Goles del visitante: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
+| Goles del visitante: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
 | Goles del visitante: Más de 1.5 | 38% | 46% | 42% | 2.00 | -15% |
 | Goles del visitante: Más de 2.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +4% |
+| Goles del visitante: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
 | Goles del visitante: Menos de 1.5 | 62% | 54% | 58% | 1.73 | -0% |
 | Goles del visitante: Menos de 2.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Córners más/menos: Más de 8.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Córners más/menos: Menos de 8.5 | 46% | 50% | 48% | 1.83 | -12% |
-| 1X2 descanso: 2 | 34% | 37% | 36% | 2.50 | -11% |
+| Córners más/menos: Más de 8.5 | 53% | 50% | 52% | 1.83 | -5% |
+| Córners más/menos: Menos de 8.5 | 47% | 50% | 48% | 1.83 | -12% |
+| 1X2 descanso: 2 | 34% | 37% | 35% | 2.50 | -11% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

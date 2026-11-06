@@ -1,10 +1,10 @@
 # RB Leipzig – FC Augsburg
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Leipzig Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:00_
+_Actualizadas: 06/11 02:13_
 
 - **1X2:** 1 **1.45**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.62**
@@ -53,7 +53,7 @@ _Actualizadas: 05/11 20:00_
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**
 - **Total ShotOnGoal:**
     - 11,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **1.28**  ·  X **10.00**  ·  2 **4.50**
@@ -204,38 +204,38 @@ _Sin bajas comunicadas por ahora._
 | K. Schlotterbeck | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 2 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,95 · visitante 1,68 · córners esperados 10,3._
+_Goles esperados: local 2,99 · visitante 1,68 · córners esperados 10,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 16% | 18% | 6.00 | +7% |
+| 1X2: 2 | 20% | 16% | 18% | 6.00 | +6% |
 | 1X2: X | 16% | 19% | 18% | 5.00 | -12% |
-| 1X2: 1 | 64% | 65% | 64% | 1.45 | -7% |
-| Doble oportunidad: X2 | 36% | 36% | 36% | 2.62 | -5% |
+| 1X2: 1 | 64% | 65% | 65% | 1.45 | -6% |
+| Doble oportunidad: X2 | 36% | 36% | 36% | 2.62 | -6% |
 | Doble oportunidad: 12 | 84% | 80% | 82% | 1.17 | -4% |
 | Doble oportunidad: 1X | 80% | 84% | 82% | 1.12 | -8% |
 | Ambos marcan: No | 23% | 34% | 28% | 2.75 | -22% |
 | Ambos marcan: Sí | 77% | 66% | 72% | 1.40 | +0% |
-| Goles más/menos: Más de 2.5 | 84% | 75% | 79% | 1.28 | +2% |
-| Goles más/menos: Más de 3.5 | 68% | 57% | 62% | 1.67 | +4% |
-| Goles más/menos: Más de 4.5 ✅ | 49% | 36% | 43% | 2.62 | +12% |
-| Goles más/menos: Más de 5.5 | 32% | 22% | 27% | 4.33 | +17% |
-| Goles más/menos: Menos de 2.5 | 16% | 25% | 21% | 3.75 | -22% |
-| Goles más/menos: Menos de 3.5 | 32% | 43% | 38% | 2.20 | -17% |
-| Goles más/menos: Menos de 4.5 | 51% | 64% | 57% | 1.50 | -14% |
-| Goles más/menos: Menos de 5.5 | 68% | 78% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 60% | 51% | 56% | 1.80 | +0% |
-| Goles 1ª parte más/menos: Más de 2.5 | 33% | 27% | 30% | 3.50 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -15% |
+| Goles más/menos: Más de 2.5 | 84% | 75% | 80% | 1.28 | +2% |
+| Goles más/menos: Más de 3.5 | 69% | 57% | 63% | 1.67 | +5% |
+| Goles más/menos: Más de 4.5 ✅ | 50% | 36% | 43% | 2.62 | +13% |
+| Goles más/menos: Más de 5.5 | 33% | 22% | 27% | 4.33 | +18% |
+| Goles más/menos: Menos de 2.5 | 16% | 25% | 20% | 3.75 | -23% |
+| Goles más/menos: Menos de 3.5 | 31% | 43% | 37% | 2.20 | -18% |
+| Goles más/menos: Menos de 4.5 | 50% | 64% | 57% | 1.50 | -15% |
+| Goles más/menos: Menos de 5.5 | 67% | 78% | 73% | 1.22 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 60% | 51% | 56% | 1.80 | +1% |
+| Goles 1ª parte más/menos: Más de 2.5 | 33% | 27% | 30% | 3.50 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -16% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles del local: Más de 1.5 | 79% | 73% | 76% | 1.28 | -2% |
-| Goles del local: Más de 2.5 | 57% | 50% | 53% | 1.83 | -2% |
-| Goles del local: Más de 3.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del local: Menos de 1.5 | 21% | 27% | 24% | 3.50 | -17% |
-| Goles del local: Menos de 2.5 | 43% | 50% | 47% | 1.83 | -15% |
-| Goles del local: Menos de 3.5 | 66% | 72% | 69% | 1.30 | -10% |
+| Goles del local: Más de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
+| Goles del local: Más de 2.5 | 57% | 50% | 54% | 1.83 | -2% |
+| Goles del local: Más de 3.5 ✅ | 35% | 28% | 31% | 3.40 | +7% |
+| Goles del local: Menos de 1.5 | 20% | 27% | 23% | 3.50 | -18% |
+| Goles del local: Menos de 2.5 | 43% | 50% | 46% | 1.83 | -15% |
+| Goles del local: Menos de 3.5 | 65% | 72% | 69% | 1.30 | -11% |
 | Goles del visitante: Más de 0.5 | 81% | 72% | 77% | 1.30 | -0% |
-| Goles del visitante: Más de 1.5 ✅ | 50% | 39% | 45% | 2.38 | +6% |
+| Goles del visitante: Más de 1.5 | 50% | 39% | 45% | 2.38 | +6% |
 | Goles del visitante: Menos de 0.5 | 19% | 28% | 23% | 3.40 | -21% |
 | Goles del visitante: Menos de 1.5 | 50% | 61% | 55% | 1.53 | -15% |
 | Córners más/menos: Más de 10.5 | 44% | 49% | 46% | 1.91 | -12% |

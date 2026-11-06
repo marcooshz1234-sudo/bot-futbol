@@ -1,10 +1,10 @@
 # Sporting CP – Moreirense
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 21:30 (hora España) · Estádio José Alvalade
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:01_
+_Actualizadas: 06/11 02:14_
 
 - **1X2:** 1 **1.18**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.08**  ·  X2 **5.00**
@@ -191,43 +191,43 @@ _Sin bajas comunicadas por ahora._
 | Afonso Vieira | M | 2 | 104 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,42 · visitante 0,78 · córners esperados 8,8._
+_Goles esperados: local 2,44 · visitante 0,77 · córners esperados 8,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 7% | 9% | 13.00 | +13% |
-| 1X2: X | 16% | 13% | 14% | 7.50 | +8% |
+| 1X2: 2 | 10% | 7% | 9% | 13.00 | +12% |
+| 1X2: X | 16% | 13% | 14% | 7.50 | +7% |
 | 1X2: 1 | 74% | 80% | 77% | 1.18 | -9% |
-| Doble oportunidad: X2 | 26% | 19% | 23% | 5.00 | +14% |
+| Doble oportunidad: X2 | 26% | 19% | 23% | 5.00 | +13% |
 | Doble oportunidad: 12 | 84% | 89% | 86% | 1.08 | -7% |
 | Doble oportunidad: 1X | 90% | 92% | 91% | 1.04 | -5% |
 | Ambos marcan: No | 51% | 55% | 53% | 1.70 | -10% |
 | Ambos marcan: Sí | 49% | 45% | 47% | 2.05 | -3% |
 | Goles más/menos: Más de 2.5 | 62% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 3.5 | 40% | 44% | 42% | 2.10 | -12% |
-| Goles más/menos: Más de 4.5 | 22% | 27% | 24% | 3.50 | -15% |
+| Goles más/menos: Más de 4.5 | 22% | 27% | 24% | 3.50 | -14% |
 | Goles más/menos: Menos de 2.5 | 38% | 35% | 36% | 2.70 | -2% |
 | Goles más/menos: Menos de 3.5 | 60% | 56% | 58% | 1.67 | -3% |
 | Goles más/menos: Menos de 4.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 46% | 43% | 2.00 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 57% | 1.73 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del local: Más de 1.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles del local: Más de 1.5 | 70% | 75% | 72% | 1.25 | -9% |
 | Goles del local: Más de 2.5 | 44% | 54% | 49% | 1.73 | -16% |
 | Goles del local: Más de 3.5 | 23% | 31% | 27% | 3.00 | -19% |
-| Goles del local: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +4% |
-| Goles del local: Menos de 2.5 | 56% | 46% | 51% | 2.00 | +3% |
+| Goles del local: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +3% |
+| Goles del local: Menos de 2.5 | 56% | 46% | 51% | 2.00 | +2% |
 | Goles del local: Menos de 3.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del visitante: Más de 0.5 | 54% | 46% | 50% | 2.00 | +0% |
 | Goles del visitante: Menos de 0.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Más de 9.5 | 38% | 49% | 43% | 1.91 | -17% |
 | Córners más/menos: Menos de 9.5 | 62% | 51% | 57% | 1.80 | +2% |
-| 1X2 descanso: X | 35% | 31% | 33% | 3.00 | -2% |
-| 1X2 descanso: 1 | 54% | 61% | 57% | 1.50 | -14% |
+| 1X2 descanso: X | 34% | 31% | 32% | 3.00 | -3% |
+| 1X2 descanso: 1 | 54% | 61% | 58% | 1.50 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

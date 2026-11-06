@@ -8198,7 +8198,8 @@
   "movimiento": null,
   "ventaja": 0.108,
   "prob_aprendida": 0.794,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-6"
  },
  "1636254|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1636254,
@@ -8220,7 +8221,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.837,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1636483|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1636483,
@@ -8242,7 +8244,8 @@
   "movimiento": null,
   "ventaja": 0.031,
   "prob_aprendida": 0.815,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1636286|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1636286,
@@ -8264,7 +8267,8 @@
   "movimiento": null,
   "ventaja": 0.072,
   "prob_aprendida": 0.801,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1636456|Total - Away|Over 0.5": {
   "partido_id": 1636456,
@@ -8286,7 +8290,8 @@
   "movimiento": null,
   "ventaja": 0.18,
   "prob_aprendida": 0.66,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1636302|Total - Away|Over 0.5": {
   "partido_id": 1636302,
@@ -8308,7 +8313,8 @@
   "movimiento": null,
   "ventaja": 0.159,
   "prob_aprendida": 0.765,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-1"
  },
  "1636416|Goals Over/Under First Half|Over 0.5": {
   "partido_id": 1636416,
@@ -8330,7 +8336,8 @@
   "movimiento": null,
   "ventaja": 0.015,
   "prob_aprendida": 0.773,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1636466|Total - Away|Over 0.5": {
   "partido_id": 1636466,
@@ -8352,7 +8359,8 @@
   "movimiento": null,
   "ventaja": 0.026,
   "prob_aprendida": 0.766,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1636223|Match Winner|Home": {
   "partido_id": 1636223,
@@ -8374,7 +8382,8 @@
   "movimiento": null,
   "ventaja": 0.036,
   "prob_aprendida": 0.67,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1636345|Total - Away|Over 0.5": {
   "partido_id": 1636345,
@@ -8396,7 +8405,8 @@
   "movimiento": null,
   "ventaja": 0.153,
   "prob_aprendida": 0.675,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1636250|Double Chance|Draw/Away": {
   "partido_id": 1636250,
@@ -8418,7 +8428,8 @@
   "movimiento": -0.029,
   "ventaja": 0.122,
   "prob_aprendida": 0.457,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-2"
  },
  "1636208|Total - Away|Over 0.5": {
   "partido_id": 1636208,
@@ -8440,7 +8451,8 @@
   "movimiento": null,
   "ventaja": 0.251,
   "prob_aprendida": 0.612,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1636250|Home Player Shots On Target Total|Camilo Duran - 1": {
   "partido_id": 1636250,
@@ -8462,7 +8474,8 @@
   "movimiento": -0.029,
   "ventaja": 0.065,
   "prob_aprendida": 0.628,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-2"
  },
  "1636250|To Win Either Half|Away": {
   "partido_id": 1636250,
@@ -8484,7 +8497,8 @@
   "movimiento": -0.06,
   "ventaja": 0.22,
   "prob_aprendida": 0.548,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-2"
  },
  "1563233|Player Fouls Committed|Thomas Cannon - 1": {
   "partido_id": 1563233,
@@ -8688,7 +8702,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.069,
-  "prob_aprendida": 0.883,
+  "prob_aprendida": 0.858,
   "acierto": null
  },
  "1552220|Goals Over/Under First Half|Over 0.5": {
@@ -8754,7 +8768,7 @@
   "valor_mercado": null,
   "movimiento": -0.21,
   "ventaja": 0.119,
-  "prob_aprendida": 0.789,
+  "prob_aprendida": 0.812,
   "acierto": null
  },
  "1570446|Double Chance|Draw/Away": {
@@ -8977,7 +8991,7 @@
   "valor_mercado": null,
   "movimiento": -0.067,
   "ventaja": 0.175,
-  "prob_aprendida": 0.565,
+  "prob_aprendida": 0.555,
   "acierto": null
  },
  "1552812|Home Player Shots|Pathe Mboup - 2": {
@@ -8999,7 +9013,7 @@
   "valor_mercado": null,
   "movimiento": 0.195,
   "ventaja": 0.235,
-  "prob_aprendida": 0.596,
+  "prob_aprendida": 0.601,
   "acierto": null
  },
  "1570445|Double Chance|Draw/Away": {
@@ -9314,7 +9328,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.709,
+  "prob_aprendida": 0.717,
   "acierto": null
  },
  "1550193|Home Player Shots On Target Total|Scott McTominay - 1": {
@@ -9404,7 +9418,7 @@
   "valor_mercado": null,
   "movimiento": -0.059,
   "ventaja": 0.019,
-  "prob_aprendida": 0.6,
+  "prob_aprendida": 0.609,
   "acierto": null
  },
  "1550191|Home Player Shots|Carlos Augusto - 1": {
@@ -9825,16 +9839,16 @@
   "opcion": "Akor Adams - 1",
   "tipo": "jugador",
   "texto": "Akor Adams: 1+ tiros a puerta",
-  "cuota": 1.36,
+  "cuota": 1.28,
   "frecuencia": 0.8,
   "jugador_id": 57446,
   "jugador": "Akor Adams",
   "campo": "a_puerta",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.065,
-  "prob_aprendida": 0.639,
+  "movimiento": -0.059,
+  "ventaja": 0.019,
+  "prob_aprendida": 0.735,
   "acierto": null
  },
  "1550195|Goals Over/Under|Over 1.5": {
@@ -9856,7 +9870,7 @@
   "valor_mercado": -0.008,
   "movimiento": -0.038,
   "ventaja": 0.119,
-  "prob_aprendida": 0.802,
+  "prob_aprendida": 0.81,
   "acierto": null
  },
  "1550188|To Win Either Half|Away": {
@@ -9945,7 +9959,8 @@
   "movimiento": null,
   "ventaja": 0.214,
   "prob_aprendida": 0.548,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1635640|Player Fouls Committed|Andreas Helmersen - 2": {
   "partido_id": 1635640,
@@ -9989,7 +10004,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.023,
   "ventaja": 0.1,
-  "prob_aprendida": 0.822,
+  "prob_aprendida": 0.823,
   "acierto": null
  },
  "1563239|Home Team Total Cards|Over 1.5": {
@@ -10081,7 +10096,8 @@
   "movimiento": null,
   "ventaja": 0.05,
   "prob_aprendida": 0.808,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1636452|Goals Over/Under|Over 1.5": {
   "partido_id": 1636452,
@@ -10103,7 +10119,8 @@
   "movimiento": 0.066,
   "ventaja": 0.009,
   "prob_aprendida": 0.771,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1636254|Player Fouls Committed|Koki Machida - 1": {
   "partido_id": 1636254,
@@ -10125,7 +10142,8 @@
   "movimiento": null,
   "ventaja": 0.076,
   "prob_aprendida": 0.499,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1557463|Goals Over/Under|Over 1.5": {
   "partido_id": 1557463,
@@ -10168,7 +10186,7 @@
   "valor_mercado": -0.007,
   "movimiento": null,
   "ventaja": 0.065,
-  "prob_aprendida": 0.757,
+  "prob_aprendida": 0.747,
   "acierto": null
  },
  "1563258|To Win Either Half|Away": {
@@ -10234,7 +10252,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.023,
   "ventaja": 0.115,
-  "prob_aprendida": 0.757,
+  "prob_aprendida": 0.751,
   "acierto": null
  },
  "1636337|Player Fouls Committed|Evanilson - 1": {
@@ -10257,7 +10275,8 @@
   "movimiento": null,
   "ventaja": 0.131,
   "prob_aprendida": 0.599,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-3"
  },
  "1636337|Player Fouls Committed|James Hill - 1": {
   "partido_id": 1636337,
@@ -10279,7 +10298,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.596,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-3"
  },
  "1636223|Player Fouls Committed|Timothy Weah - 1": {
   "partido_id": 1636223,
@@ -10301,7 +10321,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.573,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1636345|Player Fouls Committed|Dion Beljo - 1": {
   "partido_id": 1636345,
@@ -10323,7 +10344,8 @@
   "movimiento": -0.059,
   "ventaja": 0.052,
   "prob_aprendida": 0.576,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1636223|Player Fouls Committed|Miguel Gutierrez - 1": {
   "partido_id": 1636223,
@@ -10345,7 +10367,8 @@
   "movimiento": -0.083,
   "ventaja": 0.106,
   "prob_aprendida": 0.503,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1636250|Shots.1x2|Away": {
   "partido_id": 1636250,
@@ -10367,7 +10390,8 @@
   "movimiento": null,
   "ventaja": 0.201,
   "prob_aprendida": 0.374,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-2"
  },
  "1575540|To Win Either Half|Away": {
   "partido_id": 1575540,
@@ -10432,7 +10456,7 @@
   "valor_mercado": -0.016,
   "movimiento": -0.023,
   "ventaja": 0.1,
-  "prob_aprendida": 0.808,
+  "prob_aprendida": 0.822,
   "acierto": null
  },
  "1570009|Away Player Shots|Stefan Dzodic - 1": {
@@ -10520,7 +10544,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.797,
+  "prob_aprendida": 0.81,
   "acierto": null
  },
  "1550189|Goals Over/Under|Over 1.5": {
@@ -10701,7 +10725,8 @@
   "movimiento": null,
   "ventaja": 0.163,
   "prob_aprendida": 0.498,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1636229|Home Team Total Cards|Over 1.5": {
   "partido_id": 1636229,
@@ -10723,7 +10748,8 @@
   "movimiento": null,
   "ventaja": 0.264,
   "prob_aprendida": 0.359,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-1"
  },
  "1563256|Away Player Shots|Josh Sheehan - 1": {
   "partido_id": 1563256,
@@ -10788,7 +10814,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.42,
+  "prob_aprendida": 0.394,
   "acierto": null
  },
  "1552221|Home Corners Over/Under|Over 3.5": {
@@ -10810,7 +10836,7 @@
   "valor_mercado": 0.032,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.51,
+  "prob_aprendida": 0.529,
   "acierto": null
  },
  "1563261|Double Chance|Home/Draw": {
@@ -10854,7 +10880,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.231,
-  "prob_aprendida": 0.645,
+  "prob_aprendida": 0.712,
   "acierto": null
  },
  "1557463|Player Fouls Committed|Dominic Calvert-Lewin - 1": {
@@ -10898,7 +10924,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.219,
-  "prob_aprendida": 0.623,
+  "prob_aprendida": 0.69,
   "acierto": null
  },
  "1557463|Player Fouls Committed|Ao Tanaka - 1": {
@@ -10920,7 +10946,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.106,
-  "prob_aprendida": 0.617,
+  "prob_aprendida": 0.684,
   "acierto": null
  },
  "1557463|Player Fouls Committed|Jan Paul van Hecke - 1": {
@@ -10942,7 +10968,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.086,
-  "prob_aprendida": 0.451,
+  "prob_aprendida": 0.5,
   "acierto": null
  },
  "1557462|Player Fouls Committed|Evanilson - 1": {
@@ -10986,7 +11012,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.616,
+  "prob_aprendida": 0.703,
   "acierto": null
  },
  "1557459|Player Fouls Committed|Jeremy Jacquet - 1": {
@@ -11008,7 +11034,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.019,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.672,
   "acierto": null
  },
  "1557458|Player Fouls Committed|Vitaly Janelt - 1": {
@@ -11030,7 +11056,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.206,
-  "prob_aprendida": 0.564,
+  "prob_aprendida": 0.612,
   "acierto": null
  },
  "1557462|Player Fouls Committed|Adrien Truffert - 1": {
@@ -11074,7 +11100,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.49,
+  "prob_aprendida": 0.539,
   "acierto": null
  },
  "1557466|Player Fouls Committed|Cole Palmer - 1": {
@@ -11096,7 +11122,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.488,
+  "prob_aprendida": 0.537,
   "acierto": null
  },
  "1557462|Player Fouls Committed|Exequiel Palacios - 1": {
@@ -11118,7 +11144,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.216,
-  "prob_aprendida": 0.433,
+  "prob_aprendida": 0.503,
   "acierto": null
  },
  "1557466|Offsides Total|Over 2.5": {
@@ -11140,7 +11166,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.179,
-  "prob_aprendida": 0.489,
+  "prob_aprendida": 0.498,
   "acierto": null
  },
  "1557464|Home Player Shots On Target Total|Bryan Mbeumo - 1": {
@@ -11162,7 +11188,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.528,
+  "prob_aprendida": 0.516,
   "acierto": null
  },
  "1557457|Player Fouls Committed|Mohamed Belloumi - 1": {
@@ -11184,7 +11210,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.123,
-  "prob_aprendida": 0.607,
+  "prob_aprendida": 0.674,
   "acierto": null
  },
  "1557465|Offsides Away Total|Over 0.5": {
@@ -11206,7 +11232,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.228,
-  "prob_aprendida": 0.646,
+  "prob_aprendida": 0.63,
   "acierto": null
  },
  "1557461|Player Fouls Committed|Calvin Bassey - 1": {
@@ -11228,7 +11254,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.086,
-  "prob_aprendida": 0.538,
+  "prob_aprendida": 0.586,
   "acierto": null
  },
  "1557461|Player Fouls Committed|Nico Gonzalez - 2": {
@@ -11250,7 +11276,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.276,
-  "prob_aprendida": 0.366,
+  "prob_aprendida": 0.424,
   "acierto": null
  },
  "1570450|Player Fouls Committed|Lucas Boye - 2": {
@@ -11272,7 +11298,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.395,
+  "prob_aprendida": 0.449,
   "acierto": null
  },
  "1570012|Goals Over/Under|Over 1.5": {
@@ -11291,10 +11317,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.016,
+  "valor_mercado": -0.008,
   "movimiento": null,
   "ventaja": 0.019,
-  "prob_aprendida": 0.834,
+  "prob_aprendida": 0.835,
   "acierto": null
  },
  "1570005|Away Player Shots|Mikel Goti - 1": {
@@ -11335,10 +11361,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.008,
+  "valor_mercado": -0.023,
   "movimiento": -0.044,
   "ventaja": 0.081,
-  "prob_aprendida": 0.826,
+  "prob_aprendida": 0.893,
   "acierto": null
  },
  "1550196|Player Fouls Committed|Redouane Halhal - 1": {
@@ -11360,7 +11386,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.075,
-  "prob_aprendida": 0.616,
+  "prob_aprendida": 0.684,
   "acierto": null
  },
  "1563256|Player Fouls Committed|Josh Sheehan - 1": {
@@ -11382,7 +11408,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.567,
+  "prob_aprendida": 0.638,
   "acierto": null
  },
  "1550196|Player Fouls Committed|Juan Jesus - 1": {
@@ -11395,16 +11421,16 @@
   "opcion": "Juan Jesus - 1",
   "tipo": "jugador",
   "texto": "Juan Jesus comete 1+ faltas",
-  "cuota": 1.36,
+  "cuota": 1.28,
   "frecuencia": 0.833,
   "jugador_id": 774,
   "jugador": "Juan Jesus",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.098,
-  "prob_aprendida": 0.556,
+  "movimiento": -0.059,
+  "ventaja": 0.052,
+  "prob_aprendida": 0.668,
   "acierto": null
  },
  "1575218|Player Fouls Committed|Florian Neuhaus - 1": {
@@ -11426,7 +11452,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.048,
-  "prob_aprendida": 0.531,
+  "prob_aprendida": 0.602,
   "acierto": null
  },
  "1563256|Player Fouls Committed|Carlton Morris - 1": {
@@ -11439,16 +11465,16 @@
   "opcion": "Carlton Morris - 1",
   "tipo": "jugador",
   "texto": "Carlton Morris comete 1+ faltas",
-  "cuota": 1.5,
+  "cuota": 1.33,
   "frecuencia": 0.8,
   "jugador_id": 19083,
   "jugador": "Carlton Morris",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.133,
-  "prob_aprendida": 0.496,
+  "movimiento": -0.113,
+  "ventaja": 0.048,
+  "prob_aprendida": 0.638,
   "acierto": null
  },
  "1575214|Home Player Shots On Target Total|Ermedin Demirovic - 1": {
@@ -11470,7 +11496,7 @@
   "valor_mercado": null,
   "movimiento": 0.049,
   "ventaja": 0.108,
-  "prob_aprendida": 0.67,
+  "prob_aprendida": 0.679,
   "acierto": null
  },
  "1563254|Home Player Shots On Target Total|Jack Moylan - 1": {
@@ -11492,7 +11518,7 @@
   "valor_mercado": null,
   "movimiento": -0.022,
   "ventaja": 0.048,
-  "prob_aprendida": 0.66,
+  "prob_aprendida": 0.67,
   "acierto": null
  },
  "1563262|Home Player Shots On Target Total|Kieffer Moore - 1": {
@@ -11514,7 +11540,7 @@
   "valor_mercado": null,
   "movimiento": 0.103,
   "ventaja": 0.133,
-  "prob_aprendida": 0.59,
+  "prob_aprendida": 0.581,
   "acierto": null
  },
  "1557457|Home Team Total Cards|Over 0.5": {
@@ -11536,7 +11562,7 @@
   "valor_mercado": 0.055,
   "movimiento": null,
   "ventaja": 0.196,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.613,
   "acierto": null
  },
  "1575214|Player Fouls Committed|Marco Grull - 1": {
@@ -11558,7 +11584,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.094,
-  "prob_aprendida": 0.567,
+  "prob_aprendida": 0.638,
   "acierto": null
  },
  "1575217|Player Fouls Committed|Tom Bischof - 1": {
@@ -11580,7 +11606,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.248,
-  "prob_aprendida": 0.549,
+  "prob_aprendida": 0.62,
   "acierto": null
  },
  "1575217|Player Fouls Committed|Dayot Upamecano - 1": {
@@ -11602,7 +11628,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.475,
+  "prob_aprendida": 0.526,
   "acierto": null
  },
  "1575214|Player Fouls Committed|Grischa Promel - 1": {
@@ -11624,7 +11650,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.206,
-  "prob_aprendida": 0.485,
+  "prob_aprendida": 0.537,
   "acierto": null
  },
  "1557457|Player Fouls Committed|Gabriel Magalhaes - 1": {
@@ -11637,16 +11663,16 @@
   "opcion": "Gabriel Magalhaes - 1",
   "tipo": "jugador",
   "texto": "Gabriel Magalhaes comete 1+ faltas",
-  "cuota": 1.91,
+  "cuota": 1.67,
   "frecuencia": 0.8,
   "jugador_id": 22224,
   "jugador": "Gabriel Magalhaes",
   "campo": "faltas_c",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.276,
-  "prob_aprendida": 0.372,
+  "movimiento": -0.126,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.492,
   "acierto": null
  },
  "1636345|Player Fouls Committed|Josip Misic - 1": {
@@ -11669,7 +11695,8 @@
   "movimiento": -0.085,
   "ventaja": 0.286,
   "prob_aprendida": 0.534,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1563261|Away Player Shots|Camiel Neghli - 1": {
   "partido_id": 1563261,
@@ -11712,7 +11739,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.598,
+  "prob_aprendida": 0.669,
   "acierto": null
  },
  "1575213|Player Fouls Committed|Fabian Rieder - 1": {
@@ -11734,7 +11761,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.031,
-  "prob_aprendida": 0.539,
+  "prob_aprendida": 0.61,
   "acierto": null
  },
  "1570448|Player Fouls Committed|Alex Berenguer - 1": {
@@ -11756,7 +11783,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.139,
-  "prob_aprendida": 0.476,
+  "prob_aprendida": 0.522,
   "acierto": null
  },
  "1563259|Home Team Total Cards|Over 1.5": {
@@ -11778,7 +11805,7 @@
   "valor_mercado": -0.159,
   "movimiento": null,
   "ventaja": 0.096,
-  "prob_aprendida": 0.465,
+  "prob_aprendida": 0.559,
   "acierto": null
  },
  "1552816|Home Player Shots|Sebastian Szymanski - 1": {
@@ -11800,7 +11827,7 @@
   "valor_mercado": null,
   "movimiento": 0.157,
   "ventaja": 0.089,
-  "prob_aprendida": 0.734,
+  "prob_aprendida": 0.758,
   "acierto": null
  },
  "1550190|Player Fouls Committed|Mikael Egill Ellertsson - 1": {
@@ -11822,7 +11849,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.426,
+  "prob_aprendida": 0.476,
   "acierto": null
  },
  "1636245|Goals Over/Under|Over 1.5": {
@@ -11845,7 +11872,8 @@
   "movimiento": 0.066,
   "ventaja": 0.031,
   "prob_aprendida": 0.776,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1636229|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1636229,
@@ -11867,7 +11895,8 @@
   "movimiento": -0.064,
   "ventaja": 0.225,
   "prob_aprendida": 0.419,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-1"
  },
  "1550189|Player Fouls Committed|Radu Dragusin - 1": {
   "partido_id": 1550189,
@@ -11888,7 +11917,359 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.463,
+  "prob_aprendida": 0.512,
+  "acierto": null
+ },
+ "1563262|Away Player Shots|Rafiki Said - 2": {
+  "partido_id": 1563262,
+  "fecha": "2026-11-07T13:30",
+  "competicion": "Championship",
+  "local": "Wrexham",
+  "visitante": "Wolves",
+  "mercado": "Away Player Shots",
+  "opcion": "Rafiki Said - 2",
+  "tipo": "jugador",
+  "texto": "Rafiki Said: 2+ tiros",
+  "cuota": 1.28,
+  "frecuencia": 1.0,
+  "jugador_id": 194116,
+  "jugador": "Rafiki Said",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": -0.111,
+  "ventaja": 0.219,
+  "prob_aprendida": 0.785,
+  "acierto": null
+ },
+ "1552815|Away Corners Over/Under|Over 2.5": {
+  "partido_id": 1552815,
+  "fecha": "2026-11-07T21:05",
+  "competicion": "Ligue 1",
+  "local": "Paris Saint Germain",
+  "visitante": "Estac Troyes",
+  "mercado": "Away Corners Over/Under",
+  "opcion": "Over 2.5",
+  "tipo": "corners",
+  "texto": "Estac Troyes hace más de 2,5 córners",
+  "cuota": 1.57,
+  "frecuencia": 0.895,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.013,
+  "movimiento": -0.142,
+  "ventaja": 0.258,
+  "prob_aprendida": 0.444,
+  "acierto": null
+ },
+ "1570009|Goals Over/Under|Over 1.5": {
+  "partido_id": 1570009,
+  "fecha": "2026-11-08T16:15",
+  "competicion": "Segunda",
+  "local": "Girona",
+  "visitante": "Almeria",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en Girona–Almeria",
+  "cuota": 1.25,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.025,
+  "movimiento": 0.059,
+  "ventaja": 0.05,
+  "prob_aprendida": 0.811,
+  "acierto": null
+ },
+ "1552222|Away Player Shots|Jorthy Mokio - 1": {
+  "partido_id": 1552222,
+  "fecha": "2026-11-08T14:30",
+  "competicion": "Eredivisie",
+  "local": "Twente",
+  "visitante": "Ajax",
+  "mercado": "Away Player Shots",
+  "opcion": "Jorthy Mokio - 1",
+  "tipo": "jugador",
+  "texto": "Jorthy Mokio: 1+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 0.9,
+  "jugador_id": 443829,
+  "jugador": "Jorthy Mokio",
+  "campo": "tiros",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": -0.028,
+  "ventaja": 0.186,
+  "prob_aprendida": 0.728,
+  "acierto": null
+ },
+ "1570443|Away Player Shots|Lamine Yamal - 3": {
+  "partido_id": 1570443,
+  "fecha": "2026-11-08T21:00",
+  "competicion": "LaLiga",
+  "local": "Atletico Madrid",
+  "visitante": "Barcelona",
+  "mercado": "Away Player Shots",
+  "opcion": "Lamine Yamal - 3",
+  "tipo": "jugador",
+  "texto": "Lamine Yamal: 3+ tiros",
+  "cuota": 1.28,
+  "frecuencia": 1.0,
+  "jugador_id": 386828,
+  "jugador": "Lamine Yamal",
+  "campo": "tiros",
+  "n": 3,
+  "valor_mercado": null,
+  "movimiento": 0.049,
+  "ventaja": 0.219,
+  "prob_aprendida": 0.761,
+  "acierto": null
+ },
+ "1575216|Player Fouls Committed|Zeno Van Den Bosch - 1": {
+  "partido_id": 1575216,
+  "fecha": "2026-11-08T17:30",
+  "competicion": "Bundesliga",
+  "local": "SC Freiburg",
+  "visitante": "Union Berlin",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Zeno Van Den Bosch - 1",
+  "tipo": "jugador",
+  "texto": "Zeno Van Den Bosch comete 1+ faltas",
+  "cuota": 1.33,
+  "frecuencia": 0.875,
+  "jugador_id": 303679,
+  "jugador": "Zeno Van Den Bosch",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.123,
+  "prob_aprendida": 0.638,
+  "acierto": null
+ },
+ "1575215|Player Fouls Committed|Fisnik Asllani - 1": {
+  "partido_id": 1575215,
+  "fecha": "2026-11-08T19:30",
+  "competicion": "Bundesliga",
+  "local": "1899 Hoffenheim",
+  "visitante": "FC Schalke 04",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Fisnik Asllani - 1",
+  "tipo": "jugador",
+  "texto": "Fisnik Asllani comete 1+ faltas",
+  "cuota": 1.4,
+  "frecuencia": 1.0,
+  "jugador_id": 202501,
+  "jugador": "Fisnik Asllani",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.286,
+  "prob_aprendida": 0.621,
+  "acierto": null
+ },
+ "1570449|Player Fouls Committed|Jorge De Frutos - 1": {
+  "partido_id": 1570449,
+  "fecha": "2026-11-08T16:15",
+  "competicion": "LaLiga",
+  "local": "Real Sociedad",
+  "visitante": "Rayo Vallecano",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Jorge De Frutos - 1",
+  "tipo": "jugador",
+  "texto": "Jorge De Frutos comete 1+ faltas",
+  "cuota": 1.25,
+  "frecuencia": 0.857,
+  "jugador_id": 128582,
+  "jugador": "Jorge De Frutos",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.057,
+  "prob_aprendida": 0.613,
+  "acierto": null
+ },
+ "1570444|Player Fouls Committed|Ivan Romero - 1": {
+  "partido_id": 1570444,
+  "fecha": "2026-11-08T18:30",
+  "competicion": "LaLiga",
+  "local": "Celta Vigo",
+  "visitante": "Levante",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Ivan Romero - 1",
+  "tipo": "jugador",
+  "texto": "Ivan Romero comete 1+ faltas",
+  "cuota": 1.28,
+  "frecuencia": 0.8,
+  "jugador_id": 192032,
+  "jugador": "Ivan Romero",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.019,
+  "prob_aprendida": 0.595,
+  "acierto": null
+ },
+ "1575215|Player Fouls Committed|Satoshi Tanaka - 1": {
+  "partido_id": 1575215,
+  "fecha": "2026-11-08T19:30",
+  "competicion": "Bundesliga",
+  "local": "1899 Hoffenheim",
+  "visitante": "FC Schalke 04",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Satoshi Tanaka - 1",
+  "tipo": "jugador",
+  "texto": "Satoshi Tanaka comete 1+ faltas",
+  "cuota": 1.53,
+  "frecuencia": 0.875,
+  "jugador_id": 33142,
+  "jugador": "Satoshi Tanaka",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.221,
+  "prob_aprendida": 0.546,
+  "acierto": null
+ },
+ "1575215|Player Fouls Committed|Koki Machida - 1": {
+  "partido_id": 1575215,
+  "fecha": "2026-11-08T19:30",
+  "competicion": "Bundesliga",
+  "local": "1899 Hoffenheim",
+  "visitante": "FC Schalke 04",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Koki Machida - 1",
+  "tipo": "jugador",
+  "texto": "Koki Machida comete 1+ faltas",
+  "cuota": 1.33,
+  "frecuencia": 0.875,
+  "jugador_id": 33067,
+  "jugador": "Koki Machida",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.123,
+  "prob_aprendida": 0.563,
+  "acierto": null
+ },
+ "1575219|Player Fouls Committed|Miguel Gutierrez - 1": {
+  "partido_id": 1575219,
+  "fecha": "2026-11-08T15:30",
+  "competicion": "Bundesliga",
+  "local": "1. FC Köln",
+  "visitante": "Bayer Leverkusen",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Miguel Gutierrez - 1",
+  "tipo": "jugador",
+  "texto": "Miguel Gutierrez comete 1+ faltas",
+  "cuota": 1.73,
+  "frecuencia": 0.8,
+  "jugador_id": 162032,
+  "jugador": "Miguel Gutierrez",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.222,
+  "prob_aprendida": 0.491,
+  "acierto": null
+ },
+ "1570443|Player Fouls Committed|Marc Pubill - 1": {
+  "partido_id": 1570443,
+  "fecha": "2026-11-08T21:00",
+  "competicion": "LaLiga",
+  "local": "Atletico Madrid",
+  "visitante": "Barcelona",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Marc Pubill - 1",
+  "tipo": "jugador",
+  "texto": "Marc Pubill comete 1+ faltas",
+  "cuota": 1.36,
+  "frecuencia": 0.8,
+  "jugador_id": 295793,
+  "jugador": "Marc Pubill",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.065,
+  "prob_aprendida": 0.543,
+  "acierto": null
+ },
+ "1575219|Player Fouls Committed|Marius Bulter - 1": {
+  "partido_id": 1575219,
+  "fecha": "2026-11-08T15:30",
+  "competicion": "Bundesliga",
+  "local": "1. FC Köln",
+  "visitante": "Bayer Leverkusen",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Marius Bulter - 1",
+  "tipo": "jugador",
+  "texto": "Marius Bulter comete 1+ faltas",
+  "cuota": 1.73,
+  "frecuencia": 0.857,
+  "jugador_id": 25242,
+  "jugador": "Marius Bulter",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.279,
+  "prob_aprendida": 0.484,
+  "acierto": null
+ },
+ "1575216|Player Fouls Committed|Jordy Makengo - 1": {
+  "partido_id": 1575216,
+  "fecha": "2026-11-08T17:30",
+  "competicion": "Bundesliga",
+  "local": "SC Freiburg",
+  "visitante": "Union Berlin",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Jordy Makengo - 1",
+  "tipo": "jugador",
+  "texto": "Jordy Makengo comete 1+ faltas",
+  "cuota": 1.67,
+  "frecuencia": 0.8,
+  "jugador_id": 191160,
+  "jugador": "Jordy Makengo",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.449,
+  "acierto": null
+ },
+ "1575215|Home Player Shots On Target Total|Alexander Prass - 1": {
+  "partido_id": 1575215,
+  "fecha": "2026-11-08T19:30",
+  "competicion": "Bundesliga",
+  "local": "1899 Hoffenheim",
+  "visitante": "FC Schalke 04",
+  "mercado": "Home Player Shots On Target Total",
+  "opcion": "Alexander Prass - 1",
+  "tipo": "jugador",
+  "texto": "Alexander Prass: 1+ tiros a puerta",
+  "cuota": 1.8,
+  "frecuencia": 0.8,
+  "jugador_id": 7327,
+  "jugador": "Alexander Prass",
+  "campo": "a_puerta",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": 0.146,
+  "ventaja": 0.244,
+  "prob_aprendida": 0.468,
   "acierto": null
  }
 }

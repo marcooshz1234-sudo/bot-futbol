@@ -1,10 +1,10 @@
 # Estrela – Benfica
-**Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
+**Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estadio Jose Gomes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:02_
+_Actualizadas: 06/11 02:15_
 
 - **1X2:** 1 **10.00**  ·  X **6.00**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.14**  ·  X2 **1.06**
@@ -60,53 +60,53 @@ _Actualizadas: 05/11 20:02_
 ## Estadísticas de equipo
 | | Estrela (total) | Estrela en casa | Benfica (total) | Benfica fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 19 | 10 |
+| Partidos analizados | 11 | 5 | 20 | 10 |
 | Forma (últimos 5) | DDVDD | DDVEE | VVVVV | VVDVV |
-| Balance | 3V 4E 4D | 1V 2E 2D | 15V 2E 2D | 7V 1E 2D |
+| Balance | 3V 4E 4D | 1V 2E 2D | 16V 2E 2D | 7V 1E 2D |
 | Goles a favor / partido | 1,55 | 1,20 | 2,95 | 2,80 |
-| Goles en contra / partido | 1,82 | 1,80 | 0,84 | 0,90 |
-| Goles a favor 1ª parte | 0,27 | 0,20 | 1,16 | 0,80 |
-| Goles a favor 2ª parte | 1,27 | 1,00 | 1,79 | 2,00 |
-| Goles en contra 1ª parte | 0,73 | 1,00 | 0,32 | 0,40 |
-| Goles en contra 2ª parte | 1,09 | 0,80 | 0,53 | 0,50 |
+| Goles en contra / partido | 1,82 | 1,80 | 0,85 | 0,90 |
+| Goles a favor 1ª parte | 0,27 | 0,20 | 1,15 | 0,80 |
+| Goles a favor 2ª parte | 1,27 | 1,00 | 1,80 | 2,00 |
+| Goles en contra 1ª parte | 0,73 | 1,00 | 0,30 | 0,40 |
+| Goles en contra 2ª parte | 1,09 | 0,80 | 0,55 | 0,50 |
 | Más de 1,5 goles | 91% | 100% | 95% | 100% |
-| Más de 2,5 goles | 73% | 60% | 79% | 80% |
-| Más de 3,5 goles | 45% | 40% | 58% | 50% |
-| Ambos marcan | 73% | 60% | 63% | 60% |
-| Portería a cero | 0% | 0% | 37% | 40% |
+| Más de 2,5 goles | 73% | 60% | 80% | 80% |
+| Más de 3,5 goles | 45% | 40% | 60% | 50% |
+| Ambos marcan | 73% | 60% | 65% | 60% |
+| Portería a cero | 0% | 0% | 35% | 40% |
 | Se queda sin marcar | 27% | 40% | 0% | 0% |
 | xG a favor | 1,27 | 1,03 | 2,29 | 1,96 |
-| xG en contra | 1,36 | 1,68 | 0,80 | 0,78 |
-| Tiros / partido | 13,1 | 13,0 | 19,8 | 16,3 |
-| Tiros a puerta / partido | 4,0 | 4,0 | 7,1 | 6,0 |
-| Tiros recibidos | 10,9 | 11,2 | 9,2 | 10,4 |
-| Tiros a puerta recibidos | 4,6 | 4,8 | 3,2 | 3,6 |
+| xG en contra | 1,36 | 1,68 | 0,78 | 0,78 |
+| Tiros / partido | 13,1 | 13,0 | 20,0 | 16,3 |
+| Tiros a puerta / partido | 4,0 | 4,0 | 7,3 | 6,0 |
+| Tiros recibidos | 10,9 | 11,2 | 9,0 | 10,4 |
+| Tiros a puerta recibidos | 4,6 | 4,8 | 3,3 | 3,6 |
 | Posesión media % | 52 | 49 | 62 | 60 |
-| Córners a favor | 4,4 | 5,4 | 7,1 | 4,8 |
+| Córners a favor | 4,4 | 5,4 | 7,0 | 4,8 |
 | Córners en contra | 4,3 | 5,0 | 3,1 | 3,5 |
 | Córners a favor 1ª parte | 2,2 | 3,0 | 3,9 | 2,2 |
 | Córners a favor 2ª parte | 2,2 | 2,4 | 3,1 | 2,6 |
-| Córners totales del partido | 8,7 | 10,4 | 10,2 | 8,3 |
-| Córners totales 1ª parte | 4,2 | 4,8 | 5,2 | 3,7 |
+| Córners totales del partido | 8,7 | 10,4 | 10,1 | 8,3 |
+| Córners totales 1ª parte | 4,2 | 4,8 | 5,0 | 3,7 |
 | Córners totales 2ª parte | 4,5 | 5,6 | 5,0 | 4,6 |
-| Más de 8,5 córners | 60% | 80% | 68% | 50% |
-| Más de 9,5 córners | 40% | 60% | 58% | 40% |
-| Más de 10,5 córners | 30% | 40% | 53% | 30% |
-| Faltas cometidas | 11,4 | 11,8 | 11,3 | 12,0 |
-| Faltas recibidas | 11,9 | 12,2 | 14,2 | 14,1 |
-| Amarillas propias | 2,1 | 2,0 | 2,1 | 2,5 |
-| Amarillas del rival | 2,1 | 2,0 | 2,4 | 2,4 |
-| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,20 |
+| Más de 8,5 córners | 60% | 80% | 70% | 50% |
+| Más de 9,5 córners | 40% | 60% | 55% | 40% |
+| Más de 10,5 córners | 30% | 40% | 50% | 30% |
+| Faltas cometidas | 11,4 | 11,8 | 11,5 | 12,0 |
+| Faltas recibidas | 11,9 | 12,2 | 14,1 | 14,1 |
+| Amarillas propias | 2,1 | 2,0 | 2,0 | 2,5 |
+| Amarillas del rival | 2,1 | 2,0 | 2,3 | 2,4 |
+| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Estrela | Recibe Estrela | Tarjetas Estrela | Goles Benfica | Recibe Benfica | Tarjetas Benfica |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 5 | 1 | 9 | 1 | 4 |
+| 1-15' | 0 | 5 | 1 | 10 | 1 | 4 |
 | 16-30' | 1 | 1 | 6 | 6 | 0 | 4 |
-| 31-45' | 2 | 2 | 3 | 7 | 5 | 8 |
-| 46-60' | 5 | 5 | 4 | 15 | 4 | 3 |
-| 61-75' | 6 | 2 | 1 | 9 | 3 | 9 |
-| 76-90' | 3 | 5 | 7 | 10 | 3 | 14 |
+| 31-45' | 2 | 2 | 3 | 7 | 5 | 9 |
+| 46-60' | 5 | 5 | 4 | 15 | 4 | 4 |
+| 61-75' | 6 | 2 | 1 | 10 | 4 | 9 |
+| 76-90' | 3 | 5 | 7 | 11 | 3 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -158,77 +158,77 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Benfica
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Europa League | Benfica 3-1 Lech Poznan | casa | 6-3 | 24 (12) - 6 (5) | 2-1 |
 | 2026-11-02 | Primeira Liga | Benfica 1-0 Alverca | casa | 8-5 | 13 (4) - 8 (4) | 1-3 |
 | 2026-10-26 | Primeira Liga | Santa Clara 1-2 Benfica | fuera | 3-2 | 16 (3) - 13 (6) | 5-4 |
 | 2026-10-22 | Europa League | Omonia Nicosia 1-4 Benfica | fuera | 5-4 | 23 (10) - 7 (5) | 4-1 |
 | 2026-10-15 | Europa League | Benfica 4-1 Celtic | casa | 8-6 | 26 (7) - 14 (7) | 3-0 |
 | 2026-10-11 | Primeira Liga | Benfica 2-0 Vitória SC | casa | 11-6 | 23 (5) - 8 (0) | 2-5 |
-| 2026-09-20 | Primeira Liga | FC Porto 3-1 Benfica | fuera | 3-3 | 12 (3) - 20 (7) | 5-3 |
 
 ## Jugadores de Benfica
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Tomás Araújo | D | 13 | 1131 | 0 | 2 | 8 | 0,6 | 1 | 0,1 | 16 | 2 | 0,2 | 5 | 0 |
-| G. Prestianni | M | 13 | 971 | 7 | 6 | 39 | 3,0 | 18 | 1,4 | 3 | 31 | 2,4 | 2 | 0 |
+| Tomás Araújo | D | 14 | 1200 | 0 | 2 | 8 | 0,6 | 1 | 0,1 | 17 | 2 | 0,1 | 5 | 0 |
+| G. Prestianni | F | 14 | 999 | 8 | 6 | 42 | 3,0 | 19 | 1,4 | 3 | 31 | 2,2 | 2 | 0 |
 | S. Dahl | D | 12 | 949 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 13 | 7 | 0,6 | 2 | 0 |
 | V. Pavlidis | F | 13 | 920 | 12 | 3 | 34 | 2,6 | 19 | 1,5 | 12 | 17 | 1,3 | 2 | 0 |
 | Samuel Soares | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | C. Lenglet | D | 10 | 845 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 13 | 6 | 0,6 | 3 | 1 |
-| João Palhinha | M | 11 | 823 | 0 | 0 | 14 | 1,3 | 2 | 0,2 | 14 | 19 | 1,7 | 4 | 0 |
+| João Palhinha | M | 12 | 844 | 0 | 0 | 14 | 1,2 | 2 | 0,2 | 14 | 19 | 1,6 | 4 | 0 |
 | A. Bah | D | 10 | 792 | 2 | 1 | 11 | 1,1 | 6 | 0,6 | 10 | 18 | 1,8 | 3 | 0 |
-| Rafa | M | 11 | 700 | 1 | 0 | 9 | 0,8 | 4 | 0,4 | 6 | 15 | 1,4 | 0 | 0 |
-| F. Aursnes | M | 9 | 589 | 2 | 0 | 5 | 0,6 | 2 | 0,2 | 10 | 4 | 0,4 | 1 | 0 |
+| Rafa | M | 12 | 762 | 2 | 0 | 12 | 1,0 | 6 | 0,5 | 8 | 17 | 1,4 | 0 | 0 |
+| A. Schjelderup | M | 14 | 638 | 1 | 2 | 16 | 1,1 | 5 | 0,4 | 4 | 11 | 0,8 | 0 | 0 |
+| H. Sudakov | M | 12 | 638 | 2 | 1 | 9 | 0,8 | 4 | 0,3 | 9 | 8 | 0,7 | 2 | 0 |
+| F. Aursnes | M | 10 | 617 | 2 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 4 | 0,4 | 1 | 0 |
 | L. Barreiro | M | 9 | 567 | 2 | 1 | 10 | 1,1 | 5 | 0,6 | 15 | 13 | 1,4 | 2 | 0 |
-| A. Schjelderup | M | 13 | 556 | 1 | 2 | 14 | 1,1 | 4 | 0,3 | 3 | 9 | 0,7 | 0 | 0 |
-| H. Sudakov | M | 11 | 548 | 1 | 0 | 8 | 0,7 | 3 | 0,3 | 9 | 8 | 0,7 | 2 | 0 |
-| D. Lukebakio | M | 12 | 390 | 1 | 1 | 10 | 0,8 | 6 | 0,5 | 5 | 7 | 0,6 | 0 | 0 |
-| A. Circati | D | 7 | 368 | 0 | 0 | 6 | 0,9 | 0 | 0,0 | 3 | 1 | 0,1 | 1 | 0 |
-| A. Trubin | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
-| Daniel Banjaqui | D | 3 | 261 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 1 | 0 |
-| J. Durán | F | 11 | 260 | 3 | 0 | 11 | 1,0 | 3 | 0,3 | 6 | 6 | 0,5 | 3 | 1 |
-| Enzo Barrenechea | M | 5 | 254 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 5 | 1,0 | 1 | 0 |
-| S. El Karouani | D | 5 | 226 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 4 | 0,8 | 2 | 0 |
+| A. Circati | D | 8 | 458 | 0 | 0 | 6 | 0,8 | 0 | 0,0 | 3 | 1 | 0,1 | 1 | 0 |
+| D. Lukebakio | F | 13 | 398 | 1 | 1 | 13 | 1,0 | 8 | 0,6 | 7 | 7 | 0,5 | 0 | 0 |
+| A. Trubin | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Daniel Banjaqui | D | 4 | 351 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 4 | 4 | 1,0 | 2 | 0 |
+| J. Durán | F | 12 | 350 | 3 | 0 | 16 | 1,3 | 5 | 0,4 | 8 | 9 | 0,8 | 3 | 1 |
+| S. El Karouani | D | 6 | 316 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 5 | 5 | 0,8 | 2 | 0 |
+| E. Barrenechea | M | 6 | 282 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 3 | 5 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 2,87 · córners esperados 9,6._
+_Goles esperados: local 0,90 · visitante 2,77 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 77% | 75% | 76% | 1.25 | -5% |
-| 1X2: X | 14% | 16% | 15% | 6.00 | -12% |
-| 1X2: 1 | 9% | 9% | 9% | 10.00 | -6% |
-| Doble oportunidad: X2 | 91% | 90% | 90% | 1.06 | -4% |
+| 1X2: 2 | 76% | 75% | 76% | 1.25 | -5% |
+| 1X2: X | 14% | 16% | 15% | 6.00 | -11% |
+| 1X2: 1 | 10% | 9% | 9% | 10.00 | -5% |
+| Doble oportunidad: X2 | 90% | 90% | 90% | 1.06 | -4% |
 | Doble oportunidad: 12 | 86% | 84% | 85% | 1.14 | -3% |
-| Doble oportunidad: 1X | 23% | 26% | 24% | 3.75 | -9% |
-| Ambos marcan: No | 42% | 48% | 45% | 1.95 | -12% |
-| Ambos marcan: Sí | 58% | 52% | 55% | 1.80 | -1% |
-| Goles más/menos: Más de 2.5 | 73% | 65% | 69% | 1.44 | -0% |
-| Goles más/menos: Más de 3.5 | 53% | 44% | 49% | 2.10 | +2% |
-| Goles más/menos: Más de 4.5 | 34% | 27% | 30% | 3.50 | +6% |
-| Goles más/menos: Menos de 2.5 | 27% | 35% | 31% | 2.70 | -17% |
-| Goles más/menos: Menos de 3.5 | 47% | 56% | 51% | 1.67 | -14% |
-| Goles más/menos: Menos de 4.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 81% | 77% | 79% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 23% | 22% | 23% | 4.33 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 23% | 21% | 4.00 | -15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 78% | 77% | 1.20 | -7% |
-| Goles del local: Más de 0.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Más de 1.5 | 24% | 21% | 23% | 4.50 | +2% |
-| Goles del local: Menos de 0.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Goles del local: Menos de 1.5 | 76% | 79% | 77% | 1.18 | -9% |
-| Goles del visitante: Más de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Goles del visitante: Más de 2.5 | 55% | 49% | 52% | 1.91 | -1% |
-| Goles del visitante: Más de 3.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles del visitante: Menos de 1.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles del visitante: Menos de 2.5 | 45% | 51% | 48% | 1.80 | -13% |
-| Goles del visitante: Menos de 3.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: 2 | 58% | 57% | 57% | 1.62 | -7% |
-| 1X2 descanso: X | 30% | 32% | 31% | 2.88 | -11% |
+| Doble oportunidad: 1X | 24% | 26% | 25% | 3.75 | -8% |
+| Ambos marcan: No | 44% | 48% | 46% | 1.95 | -10% |
+| Ambos marcan: Sí | 56% | 52% | 54% | 1.80 | -3% |
+| Goles más/menos: Más de 2.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles más/menos: Más de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
+| Goles más/menos: Más de 4.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles más/menos: Menos de 2.5 | 29% | 35% | 32% | 2.70 | -14% |
+| Goles más/menos: Menos de 3.5 | 50% | 56% | 53% | 1.67 | -12% |
+| Goles más/menos: Menos de 4.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles del local: Más de 0.5 | 59% | 54% | 57% | 1.73 | -2% |
+| Goles del local: Más de 1.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles del local: Menos de 0.5 | 41% | 46% | 43% | 2.00 | -13% |
+| Goles del local: Menos de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
+| Goles del visitante: Más de 1.5 | 76% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Más de 2.5 | 52% | 49% | 50% | 1.91 | -4% |
+| Goles del visitante: Más de 3.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles del visitante: Menos de 1.5 | 24% | 27% | 25% | 3.50 | -12% |
+| Goles del visitante: Menos de 2.5 | 48% | 51% | 50% | 1.80 | -11% |
+| Goles del visitante: Menos de 3.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
+| 1X2 descanso: 2 | 57% | 57% | 57% | 1.62 | -8% |
+| 1X2 descanso: X | 31% | 32% | 32% | 2.88 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

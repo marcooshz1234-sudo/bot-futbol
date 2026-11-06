@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 05/11 08:26_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 22% | 19% | 21% | 4.75 | -2% |
-| 1X2: X | 26% | 26% | 26% | 3.60 | -8% |
+| 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
 | 1X2: 1 | 52% | 55% | 54% | 1.67 | -10% |
 | Doble oportunidad: X2 | 48% | 44% | 46% | 2.15 | -1% |
 | Doble oportunidad: 12 | 74% | 75% | 74% | 1.28 | -5% |
@@ -207,7 +207,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 78% | 73% | 75% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del local: Más de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Goles del local: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
@@ -219,7 +219,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Córners más/menos: Más de 9.5 | 47% | 47% | 47% | 2.00 | -6% |
 | Córners más/menos: Menos de 9.5 | 53% | 53% | 53% | 1.80 | -5% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
+| 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 37% | 40% | 38% | 2.30 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,5 +1,54 @@
 # Lecciones del bot
 
+## 2026-11-05
+
+```
+🧠 LECCIONES DEL 05/11
+Picks del bot: 21 ✅ · 8 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan en AC Milan–Ferencvarosi TC → 1 de 2 equipos que marcan
+• Ambos marcan en FC Lugano–Kauno Žalgiris → 1 de 2 equipos que marcan
+• Ambos marcan en Lillestrom–Plzen → 1 de 2 equipos que marcan
+• Ambos marcan en Lincoln Red Imps FC–HNK Hajduk Split → 1 de 2 equipos que marcan
+• Ambos marcan en Monaco–FC Nordsjaelland → 1 de 2 equipos que marcan
+• Ambos marcan en Sunderland–Dinamo Zagreb → 1 de 2 equipos que marcan
+• Ambos marcan en Trabzonspor–SC Freiburg → 1 de 2 equipos que marcan
+• Ambos marcan en Universitatea Craiova–Egnatia Rrogozhinë → 1 de 2 equipos que marcan
+• Atalanta - Gana → Marcador: 1–1
+• Braga - Gana → Marcador: 0–0
+• Brighton hace más tiros a puerta → Tiros a puerta: 4 – 3
+• FC Midtjylland hace más de 2,5 córners → 1 de 3 córners
+• Gana el Bayer Leverkusen → Marcador: 0–1
+• Gana el HNK Hajduk Split → Marcador: 1–0
+• Gana el Sturm Graz → Marcador: 2–3
+
+❌ Fallos de los picks del bot y por qué:
+• Gol en la 1ª parte del Levski Sofia–Jagiellonia — partido cerrado (1-0): faltó 1 gol en la 1ª parte
+• FC Nordsjaelland marca — FC Nordsjaelland no marcó lo esperado (2-0)
+• Gol en la 1ª parte del Getafe–Brighton — partido cerrado (0-1): faltó 1 gol en la 1ª parte
+• Gana el Bayer Leverkusen — resultado 0-1
+• Beşiktaş o empate — resultado 3-2
+• Beşiktaş gana alguna de las dos partes — no llegó a la línea (3-2)
+• Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split — no llegó a la línea (1-0)
+• Evanilson comete 1+ faltas — jugó 30′ e hizo 0 (necesitaba 1)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Celtic–Beşiktaş
+
+📐 Modelo: 274/439 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo corners: 2/10 (-9 pts)
+⬆️ premio mercado de casas: bet365 paga menos: 20/28 (+7 pts)
+⬆️ premio mercado Goals Over/Under|Over 1.5: 21/26 (+7 pts)
+⬇️ castigo tipo jugador:faltas_c: 40/68 (-7 pts)
+⬆️ premio liga Europa League: 17/22 (+6 pts)
+⬇️ castigo mercado Total - Away|Over 0.5: 27/46 (-5 pts)
+⬇️ castigo mercado de casas: bet365 paga más: 26/46 (-5 pts)
+⬇️ castigo cuota >1,60: 40/77 (-3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-04
 
 ```

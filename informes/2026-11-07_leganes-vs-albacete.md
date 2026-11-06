@@ -1,10 +1,10 @@
 # Leganes – Albacete
 **Segunda División** · Regular Season - 13 · 07/11/2026 18:30 (hora España) · Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:00_
+_Actualizadas: 06/11 02:14_
 
 - **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.91**
@@ -197,26 +197,26 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 26% | 24% | 25% | 3.80 | -4% |
 | 1X2: X | 26% | 27% | 26% | 3.40 | -10% |
 | 1X2: 1 | 48% | 49% | 48% | 1.90 | -8% |
-| Doble oportunidad: X2 | 52% | 50% | 51% | 1.91 | -3% |
+| Doble oportunidad: X2 | 52% | 50% | 51% | 1.91 | -2% |
 | Doble oportunidad: 12 | 74% | 74% | 74% | 1.30 | -4% |
 | Doble oportunidad: 1X | 74% | 76% | 75% | 1.25 | -6% |
-| Ambos marcan: No | 49% | 49% | 49% | 1.91 | -6% |
-| Ambos marcan: Sí | 51% | 51% | 51% | 1.80 | -8% |
+| Ambos marcan: No | 50% | 49% | 49% | 1.91 | -6% |
+| Ambos marcan: Sí | 50% | 51% | 51% | 1.80 | -8% |
 | Goles más/menos: Más de 1.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles más/menos: Más de 2.5 | 47% | 49% | 48% | 1.95 | -7% |
 | Goles más/menos: Más de 3.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles más/menos: Menos de 1.5 | 28% | 27% | 27% | 3.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 53% | 51% | 52% | 1.85 | -4% |
+| Goles más/menos: Menos de 2.5 | 53% | 51% | 52% | 1.85 | -3% |
 | Goles más/menos: Menos de 3.5 | 75% | 71% | 73% | 1.33 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
 | Goles del local: Más de 0.5 | 78% | 78% | 78% | 1.20 | -6% |
-| Goles del local: Más de 1.5 | 45% | 49% | 47% | 1.91 | -11% |
+| Goles del local: Más de 1.5 | 44% | 49% | 46% | 1.91 | -11% |
 | Goles del local: Más de 2.5 | 19% | 23% | 21% | 4.00 | -15% |
 | Goles del local: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles del local: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
+| Goles del local: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -4% |
 | Goles del local: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Goles del visitante: Más de 0.5 | 65% | 65% | 65% | 1.44 | -7% |
 | Goles del visitante: Más de 1.5 | 28% | 29% | 29% | 3.25 | -7% |
@@ -225,7 +225,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |
 | 1X2 descanso: 2 | 22% | 21% | 21% | 4.33 | -7% |
-| 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
+| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
 | 1X2 descanso: 1 | 35% | 37% | 36% | 2.50 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # Toulouse – Strasbourg
 **Ligue 1** · Regular Season - 10 · 06/11/2026 20:45 (hora España) · Stadium Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 19:59_
+_Actualizadas: 06/11 02:13_
 
 - **1X2:** 1 **2.05**  ·  X **3.80**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.73**
@@ -49,7 +49,7 @@ _Actualizadas: 05/11 19:59_
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
 - **Home Team Total Cards:**
     - 2,5: más **2.20** · menos **1.62**
 - **Away Team Total Cards:**
@@ -204,32 +204,32 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Guéla Doué | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,93 · visitante 1,29 · córners esperados 8,7._
+_Goles esperados: local 1,95 · visitante 1,30 · córners esperados 8,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 29% | 27% | 3.30 | -10% |
-| 1X2: X | 22% | 25% | 24% | 3.80 | -11% |
-| 1X2: 1 | 52% | 46% | 49% | 2.05 | +1% |
-| Doble oportunidad: X2 | 48% | 54% | 51% | 1.73 | -12% |
-| Doble oportunidad: 12 | 78% | 75% | 76% | 1.25 | -4% |
-| Doble oportunidad: 1X | 74% | 71% | 73% | 1.33 | -4% |
-| Ambos marcan: No | 38% | 39% | 39% | 2.38 | -8% |
-| Ambos marcan: Sí | 62% | 61% | 61% | 1.53 | -6% |
-| Goles más/menos: Más de 2.5 | 62% | 59% | 61% | 1.62 | -2% |
-| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 38% | 41% | 39% | 2.30 | -9% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
-| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
-| Goles del local: Más de 1.5 | 57% | 54% | 56% | 1.73 | -4% |
-| Goles del local: Más de 2.5 | 30% | 27% | 29% | 3.50 | +0% |
-| Goles del local: Menos de 1.5 | 43% | 46% | 44% | 2.00 | -11% |
-| Goles del local: Menos de 2.5 | 70% | 73% | 71% | 1.28 | -9% |
+| 1X2: 2 | 25% | 29% | 27% | 3.30 | -11% |
+| 1X2: X | 22% | 25% | 23% | 3.80 | -11% |
+| 1X2: 1 | 53% | 46% | 49% | 2.05 | +1% |
+| Doble oportunidad: X2 | 47% | 54% | 51% | 1.73 | -12% |
+| Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
+| Doble oportunidad: 1X | 75% | 71% | 73% | 1.33 | -3% |
+| Ambos marcan: No | 38% | 39% | 38% | 2.38 | -9% |
+| Ambos marcan: Sí | 62% | 61% | 62% | 1.53 | -6% |
+| Goles más/menos: Más de 2.5 | 63% | 59% | 61% | 1.62 | -1% |
+| Goles más/menos: Más de 3.5 | 41% | 40% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 4.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles más/menos: Menos de 2.5 | 37% | 41% | 39% | 2.30 | -10% |
+| Goles más/menos: Menos de 3.5 | 59% | 60% | 60% | 1.57 | -6% |
+| Goles más/menos: Menos de 4.5 | 77% | 78% | 78% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
+| Goles del local: Más de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles del local: Más de 2.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles del local: Menos de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Goles del local: Menos de 2.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles del visitante: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
 | Goles del visitante: Más de 1.5 | 37% | 39% | 38% | 2.38 | -9% |
 | Goles del visitante: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -5% |
@@ -237,7 +237,7 @@ _Goles esperados: local 1,93 · visitante 1,29 · córners esperados 8,7._
 | Córners más/menos: Más de 8.5 | 47% | 51% | 49% | 1.80 | -12% |
 | Córners más/menos: Menos de 8.5 | 53% | 49% | 51% | 1.91 | -3% |
 | 1X2 descanso: 2 | 23% | 26% | 24% | 3.60 | -13% |
-| 1X2 descanso: X | 38% | 39% | 38% | 2.40 | -8% |
+| 1X2 descanso: X | 37% | 39% | 38% | 2.40 | -9% |
 | 1X2 descanso: 1 | 40% | 36% | 38% | 2.60 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

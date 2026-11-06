@@ -1,10 +1,10 @@
 # Cambuur – PSV Eindhoven
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:01_
+_Actualizadas: 06/11 02:14_
 
 - **1X2:** 1 **7.00**  ·  X **5.50**  ·  2 **1.36**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.14**  ·  X2 **1.10**
@@ -193,42 +193,42 @@ _Sin bajas comunicadas por ahora._
 | A. Santos | M | 5 | 96 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 2,33 · córners esperados 9,9._
+_Goles esperados: local 1,20 · visitante 2,31 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 63% | 69% | 66% | 1.36 | -10% |
-| 1X2: X | 19% | 17% | 18% | 5.50 | -1% |
-| 1X2: 1 | 18% | 13% | 16% | 7.00 | +12% |
-| Doble oportunidad: X2 | 82% | 86% | 84% | 1.10 | -8% |
+| 1X2: 2 | 62% | 69% | 66% | 1.36 | -11% |
+| 1X2: X | 19% | 17% | 18% | 5.50 | -0% |
+| 1X2: 1 | 19% | 13% | 16% | 7.00 | +12% |
+| Doble oportunidad: X2 | 81% | 86% | 84% | 1.10 | -8% |
 | Doble oportunidad: 12 | 81% | 83% | 82% | 1.14 | -7% |
-| Doble oportunidad: 1X | 37% | 31% | 34% | 3.00 | +3% |
+| Doble oportunidad: 1X | 38% | 31% | 35% | 3.00 | +4% |
 | Ambos marcan: No | 37% | 35% | 36% | 2.62 | -5% |
 | Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 2.5 | 68% | 74% | 71% | 1.28 | -9% |
-| Goles más/menos: Más de 3.5 | 47% | 56% | 51% | 1.67 | -14% |
-| Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles más/menos: Más de 5.5 | 15% | 22% | 18% | 4.33 | -22% |
-| Goles más/menos: Menos de 2.5 | 32% | 26% | 29% | 3.60 | +4% |
-| Goles más/menos: Menos de 3.5 | 53% | 44% | 49% | 2.10 | +2% |
+| Goles más/menos: Más de 3.5 | 46% | 56% | 51% | 1.67 | -15% |
+| Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -19% |
+| Goles más/menos: Más de 5.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles más/menos: Menos de 2.5 | 32% | 26% | 29% | 3.60 | +5% |
+| Goles más/menos: Menos de 3.5 | 54% | 44% | 49% | 2.10 | +3% |
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles más/menos: Menos de 5.5 | 85% | 78% | 82% | 1.20 | -2% |
+| Goles más/menos: Menos de 5.5 | 86% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -18% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles del local: Más de 0.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Goles del local: Más de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
+| Goles del local: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles del local: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del local: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 67% | 75% | 71% | 1.25 | -11% |
 | Goles del visitante: Más de 2.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Goles del visitante: Más de 3.5 | 21% | 29% | 25% | 3.25 | -19% |
-| Goles del visitante: Menos de 1.5 | 33% | 25% | 29% | 3.75 | +8% |
+| Goles del visitante: Más de 3.5 | 20% | 29% | 25% | 3.25 | -20% |
+| Goles del visitante: Menos de 1.5 | 33% | 25% | 29% | 3.75 | +9% |
 | Goles del visitante: Menos de 2.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del visitante: Menos de 3.5 | 79% | 71% | 75% | 1.33 | -0% |
+| Goles del visitante: Menos de 3.5 | 80% | 71% | 75% | 1.33 | +0% |
 | Córners más/menos: Más de 10.5 | 40% | 49% | 44% | 1.91 | -15% |
 | Córners más/menos: Menos de 10.5 | 60% | 51% | 56% | 1.80 | -0% |
 | 1X2 descanso: 2 | 47% | 53% | 50% | 1.73 | -14% |

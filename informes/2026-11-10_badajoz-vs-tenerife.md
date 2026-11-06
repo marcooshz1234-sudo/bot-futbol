@@ -1,10 +1,10 @@
 # Badajoz – Tenerife
 **Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Estadio Nuevo Vivero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:11_
+_Actualizadas: 06/11 02:15_
 
 - **1X2:** 1 **5.00**  ·  X **3.90**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.25**  ·  X2 **1.17**

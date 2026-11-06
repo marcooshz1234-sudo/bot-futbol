@@ -1,10 +1,10 @@
 # Rio Ave – SC Braga
-**Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España)
+**Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estádio dos Arcos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:02_
+_Actualizadas: 06/11 02:15_
 
 - **1X2:** 1 **6.00**  ·  X **4.20**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
@@ -58,52 +58,52 @@ _Actualizadas: 05/11 20:02_
 ## Estadísticas de equipo
 | | Rio Ave (total) | Rio Ave en casa | SC Braga (total) | SC Braga fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 18 | 9 |
-| Forma (últimos 5) | DDVVD | DVEDD | VDVDD | DDEDV |
-| Balance | 3V 1E 7D | 1V 1E 3D | 9V 4E 5D | 2V 4E 3D |
-| Goles a favor / partido | 0,91 | 1,20 | 1,22 | 0,67 |
-| Goles en contra / partido | 2,09 | 3,00 | 0,78 | 1,00 |
-| Goles a favor 1ª parte | 0,36 | 0,40 | 0,50 | 0,22 |
-| Goles a favor 2ª parte | 0,55 | 0,80 | 0,72 | 0,44 |
-| Goles en contra 1ª parte | 0,82 | 1,40 | 0,22 | 0,44 |
-| Goles en contra 2ª parte | 1,27 | 1,60 | 0,56 | 0,56 |
-| Más de 1,5 goles | 73% | 100% | 56% | 44% |
-| Más de 2,5 goles | 55% | 80% | 44% | 44% |
-| Más de 3,5 goles | 45% | 80% | 17% | 11% |
-| Ambos marcan | 27% | 40% | 28% | 33% |
-| Portería a cero | 18% | 0% | 61% | 44% |
-| Se queda sin marcar | 55% | 60% | 28% | 56% |
-| xG a favor | 0,73 | 0,94 | 1,32 | 1,16 |
-| xG en contra | 1,73 | 1,69 | 0,78 | 0,83 |
-| Tiros / partido | 8,0 | 9,6 | 13,9 | 11,6 |
-| Tiros a puerta / partido | 3,2 | 3,2 | 4,4 | 3,4 |
-| Tiros recibidos | 15,5 | 14,4 | 8,2 | 8,1 |
-| Tiros a puerta recibidos | 5,7 | 5,8 | 2,4 | 3,0 |
-| Posesión media % | 47 | 48 | 58 | 58 |
-| Córners a favor | 4,0 | 4,8 | 4,9 | 4,5 |
-| Córners en contra | 5,6 | 4,8 | 2,8 | 3,5 |
-| Córners a favor 1ª parte | 2,1 | 2,0 | 1,6 | 1,1 |
-| Córners a favor 2ª parte | 1,9 | 2,8 | 2,5 | 2,9 |
-| Córners totales del partido | 9,6 | 9,6 | 7,6 | 8,0 |
-| Córners totales 1ª parte | 4,9 | 4,4 | 2,5 | 2,2 |
-| Córners totales 2ª parte | 4,7 | 5,2 | 4,1 | 4,9 |
-| Más de 8,5 córners | 70% | 60% | 38% | 38% |
-| Más de 9,5 córners | 50% | 40% | 25% | 38% |
-| Más de 10,5 córners | 40% | 40% | 6% | 12% |
-| Faltas cometidas | 10,4 | 10,4 | 13,7 | 14,9 |
-| Faltas recibidas | 12,5 | 13,6 | 13,1 | 14,0 |
+| Partidos analizados | 11 | 5 | 19 | 10 |
+| Forma (últimos 5) | DDVVD | DVEDD | EVDVD | EDDED |
+| Balance | 3V 1E 7D | 1V 1E 3D | 9V 5E 5D | 2V 5E 3D |
+| Goles a favor / partido | 0,91 | 1,20 | 1,16 | 0,60 |
+| Goles en contra / partido | 2,09 | 3,00 | 0,74 | 0,90 |
+| Goles a favor 1ª parte | 0,36 | 0,40 | 0,47 | 0,20 |
+| Goles a favor 2ª parte | 0,55 | 0,80 | 0,68 | 0,40 |
+| Goles en contra 1ª parte | 0,82 | 1,40 | 0,21 | 0,40 |
+| Goles en contra 2ª parte | 1,27 | 1,60 | 0,53 | 0,50 |
+| Más de 1,5 goles | 73% | 100% | 53% | 40% |
+| Más de 2,5 goles | 55% | 80% | 42% | 40% |
+| Más de 3,5 goles | 45% | 80% | 16% | 10% |
+| Ambos marcan | 27% | 40% | 26% | 30% |
+| Portería a cero | 18% | 0% | 63% | 50% |
+| Se queda sin marcar | 55% | 60% | 32% | 60% |
+| xG a favor | 0,73 | 0,94 | 1,40 | 1,33 |
+| xG en contra | 1,73 | 1,69 | 0,84 | 0,94 |
+| Tiros / partido | 8,0 | 9,6 | 14,7 | 13,4 |
+| Tiros a puerta / partido | 3,2 | 3,2 | 4,6 | 3,9 |
+| Tiros recibidos | 15,5 | 14,4 | 8,6 | 8,9 |
+| Tiros a puerta recibidos | 5,7 | 5,8 | 2,5 | 3,2 |
+| Posesión media % | 47 | 48 | 57 | 57 |
+| Córners a favor | 4,0 | 4,8 | 5,0 | 4,8 |
+| Córners en contra | 5,6 | 4,8 | 2,7 | 3,3 |
+| Córners a favor 1ª parte | 2,1 | 2,0 | 1,6 | 1,3 |
+| Córners a favor 2ª parte | 1,9 | 2,8 | 2,6 | 3,0 |
+| Córners totales del partido | 9,6 | 9,6 | 7,7 | 8,1 |
+| Córners totales 1ª parte | 4,9 | 4,4 | 2,5 | 2,3 |
+| Córners totales 2ª parte | 4,7 | 5,2 | 4,2 | 5,0 |
+| Más de 8,5 córners | 70% | 60% | 41% | 44% |
+| Más de 9,5 córners | 50% | 40% | 24% | 33% |
+| Más de 10,5 córners | 40% | 40% | 6% | 11% |
+| Faltas cometidas | 10,4 | 10,4 | 13,7 | 14,8 |
+| Faltas recibidas | 12,5 | 13,6 | 12,7 | 13,2 |
 | Amarillas propias | 1,7 | 1,6 | 1,9 | 2,0 |
-| Amarillas del rival | 1,1 | 0,8 | 2,4 | 2,8 |
+| Amarillas del rival | 1,1 | 0,8 | 2,4 | 2,7 |
 | Rojas / partido | 0,30 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Rio Ave | Recibe Rio Ave | Tarjetas Rio Ave | Goles SC Braga | Recibe SC Braga | Tarjetas SC Braga |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 4 | 0 | 3 | 1 | 0 |
-| 16-30' | 0 | 3 | 0 | 2 | 2 | 4 |
+| 16-30' | 0 | 3 | 0 | 2 | 2 | 5 |
 | 31-45' | 3 | 2 | 4 | 3 | 2 | 6 |
 | 46-60' | 2 | 5 | 6 | 4 | 3 | 2 |
-| 61-75' | 2 | 2 | 1 | 5 | 2 | 3 |
+| 61-75' | 2 | 2 | 1 | 5 | 2 | 4 |
 | 76-90' | 2 | 7 | 13 | 6 | 4 | 19 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -156,73 +156,73 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de SC Braga
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Conference League | Aarhus 0-0 SC Braga | fuera | 7-2 | 26 (8) - 14 (5) | 2-2 |
 | 2026-11-01 | Primeira Liga | SC Braga 3-0 Famalicao | casa | 7-1 | 15 (4) - 4 (1) | 5-3 |
 | 2026-10-25 | Primeira Liga | Nacional 1-0 SC Braga | fuera | 6-4 | 20 (2) - 8 (4) | 2-2 |
 | 2026-10-22 | Conference League | SC Braga 2-0 Gent | casa | 6-3 | 22 (10) - 10 (1) | 2-1 |
 | 2026-10-19 | Primeira Liga | SC Braga 1-2 GIL Vicente | casa | 4-1 | 18 (6) - 10 (4) | 3-3 |
 | 2026-10-15 | Conference League | FC Copenhagen 3-0 SC Braga | fuera | 3-3 | 6 (1) - 9 (6) | 0-2 |
-| 2026-10-09 | Primeira Liga | SC Braga 1-3 Sporting CP | casa | 5-2 | 16 (4) - 9 (3) | 1-1 |
 
 ## Jugadores de SC Braga
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Bernardo Fontes | G | 14 | 1264 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| Víctor Gómez | D | 14 | 1099 | 1 | 2 | 12 | 0,9 | 3 | 0,2 | 11 | 11 | 0,8 | 1 | 0 |
-| João Moutinho | M | 14 | 1050 | 0 | 0 | 7 | 0,5 | 1 | 0,1 | 15 | 12 | 0,9 | 3 | 0 |
-| Pau Victor | F | 14 | 996 | 6 | 1 | 20 | 1,4 | 14 | 1,0 | 24 | 19 | 1,4 | 3 | 0 |
-| G. Lagerbielke | D | 11 | 985 | 0 | 0 | 8 | 0,7 | 4 | 0,4 | 11 | 9 | 0,8 | 2 | 0 |
+| Bernardo Fontes | G | 15 | 1354 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| Victor Gómez | D | 15 | 1188 | 1 | 2 | 12 | 0,8 | 3 | 0,2 | 11 | 11 | 0,7 | 1 | 0 |
+| João Moutinho | M | 15 | 1140 | 0 | 0 | 7 | 0,5 | 1 | 0,1 | 18 | 12 | 0,8 | 3 | 0 |
+| Gustaf Lagerbielke | D | 12 | 1075 | 0 | 0 | 10 | 0,8 | 4 | 0,3 | 13 | 10 | 0,8 | 2 | 0 |
+| Pau Víctor | F | 15 | 1073 | 6 | 1 | 22 | 1,5 | 15 | 1,0 | 25 | 19 | 1,3 | 3 | 0 |
 | Vitor Carvalho | M | 11 | 877 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 9 | 8 | 0,7 | 2 | 0 |
+| Ricardo Horta | M | 10 | 775 | 1 | 0 | 15 | 1,5 | 3 | 0,3 | 3 | 5 | 0,5 | 1 | 0 |
+| Jean-Baptiste Gorby | M | 10 | 714 | 0 | 2 | 4 | 0,4 | 1 | 0,1 | 9 | 2 | 0,2 | 3 | 0 |
 | Demir Ege Tıknaz | M | 11 | 711 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 12 | 7 | 0,6 | 1 | 0 |
-| Ricardo Horta | M | 9 | 698 | 1 | 0 | 14 | 1,6 | 3 | 0,3 | 3 | 5 | 0,6 | 1 | 0 |
 | Gabriel Silva | M | 12 | 690 | 0 | 1 | 15 | 1,2 | 6 | 0,5 | 10 | 26 | 2,2 | 0 | 0 |
-| J. Gorby | M | 9 | 624 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 6 | 1 | 0,1 | 3 | 0 |
 | A. Bajrami | D | 9 | 598 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 16 | 3 | 0,3 | 2 | 0 |
 | Sergio Barcia | D | 10 | 597 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 14 | 6 | 0,6 | 3 | 0 |
-| M. Dorgeles | M | 11 | 507 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 5 | 6 | 0,5 | 0 | 0 |
-| Diogo Travassos | D | 9 | 496 | 0 | 0 | 6 | 0,7 | 4 | 0,4 | 12 | 9 | 1,0 | 1 | 0 |
-| Fran Navarro | F | 10 | 462 | 1 | 0 | 10 | 1,0 | 3 | 0,3 | 13 | 13 | 1,3 | 2 | 0 |
-| Gabri Martínez | M | 10 | 431 | 2 | 0 | 12 | 1,2 | 6 | 0,6 | 8 | 10 | 1,0 | 3 | 0 |
-| B. Arrey-Mbi | D | 5 | 343 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
+| Diogo Travassos | D | 10 | 586 | 0 | 0 | 7 | 0,7 | 5 | 0,5 | 13 | 10 | 1,0 | 2 | 0 |
+| Mario Dorgeles | M | 12 | 569 | 0 | 1 | 13 | 1,1 | 5 | 0,4 | 5 | 6 | 0,5 | 0 | 0 |
+| Gabriel Martínez | M | 11 | 520 | 2 | 0 | 16 | 1,5 | 8 | 0,7 | 10 | 10 | 0,9 | 3 | 0 |
+| Fran Navarro | F | 11 | 475 | 1 | 0 | 11 | 1,0 | 4 | 0,4 | 14 | 14 | 1,3 | 2 | 0 |
+| Adrian Leon Barišić | D | 5 | 392 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 5 | 2 | 0,4 | 2 | 0 |
+| Bright Arrey-Mbi | D | 6 | 344 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 | J. Milošević | F | 8 | 332 | 0 | 0 | 12 | 1,5 | 4 | 0,5 | 3 | 7 | 0,9 | 0 | 0 |
 | D. Huseinbašić | M | 9 | 313 | 0 | 0 | 9 | 1,0 | 3 | 0,3 | 8 | 4 | 0,4 | 0 | 0 |
-| A. Barišić | D | 4 | 302 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 4 | 2 | 0,5 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,49 · visitante 1,61 · córners esperados 9,3._
+_Goles esperados: local 0,51 · visitante 1,62 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 65% | 62% | 63% | 1.53 | -3% |
-| 1X2: X | 24% | 22% | 23% | 4.20 | -3% |
-| 1X2: 1 | 11% | 16% | 13% | 6.00 | -20% |
+| 1X2: X | 24% | 22% | 23% | 4.20 | -2% |
+| 1X2: 1 | 11% | 16% | 14% | 6.00 | -19% |
 | Doble oportunidad: X2 | 89% | 83% | 86% | 1.14 | -2% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 35% | 40% | 37% | 2.38 | -11% |
-| Ambos marcan: No | 69% | 50% | 59% | 1.91 | +13% |
-| Ambos marcan: Sí | 31% | 50% | 41% | 1.91 | -22% |
-| Goles más/menos: Más de 1.5 | 62% | 75% | 69% | 1.25 | -14% |
-| Goles más/menos: Más de 2.5 | 35% | 53% | 44% | 1.80 | -21% |
-| Goles más/menos: Más de 3.5 | 16% | 31% | 24% | 3.00 | -29% |
-| Goles más/menos: Menos de 1.5 | 38% | 25% | 31% | 3.75 | +18% |
-| Goles más/menos: Menos de 2.5 | 65% | 47% | 56% | 2.00 | +12% |
-| Goles más/menos: Menos de 3.5 | 84% | 69% | 76% | 1.36 | +4% |
+| Doble oportunidad: 1X | 35% | 40% | 38% | 2.38 | -11% |
+| Ambos marcan: No | 68% | 50% | 59% | 1.91 | +13% |
+| Ambos marcan: Sí | 32% | 50% | 41% | 1.91 | -22% |
+| Goles más/menos: Más de 1.5 | 63% | 75% | 69% | 1.25 | -14% |
+| Goles más/menos: Más de 2.5 | 36% | 53% | 44% | 1.80 | -20% |
+| Goles más/menos: Más de 3.5 | 17% | 31% | 24% | 3.00 | -28% |
+| Goles más/menos: Menos de 1.5 | 37% | 25% | 31% | 3.75 | +17% |
+| Goles más/menos: Menos de 2.5 | 64% | 47% | 56% | 2.00 | +12% |
+| Goles más/menos: Menos de 3.5 | 83% | 69% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 35% | 29% | 2.62 | -23% |
+| Goles 1ª parte más/menos: Más de 1.5 | 24% | 35% | 30% | 2.62 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 29% | 34% | 3.25 | +12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del local: Más de 0.5 | 39% | 58% | 48% | 1.62 | -22% |
-| Goles del local: Más de 1.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles del local: Menos de 0.5 | 61% | 42% | 52% | 2.20 | +14% |
-| Goles del local: Menos de 1.5 | 91% | 78% | 85% | 1.20 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del local: Más de 0.5 | 40% | 58% | 49% | 1.62 | -21% |
+| Goles del local: Más de 1.5 | 9% | 22% | 16% | 4.33 | -33% |
+| Goles del local: Menos de 0.5 | 60% | 42% | 51% | 2.20 | +13% |
+| Goles del local: Menos de 1.5 | 91% | 78% | 84% | 1.20 | +1% |
 | Goles del visitante: Más de 1.5 | 48% | 58% | 53% | 1.62 | -14% |
 | Goles del visitante: Más de 2.5 | 22% | 31% | 27% | 3.00 | -20% |
 | Goles del visitante: Menos de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
 | Goles del visitante: Menos de 2.5 | 78% | 69% | 73% | 1.36 | -0% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.95 | -11% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.85 | +0% |
-| 1X2 descanso: 2 | 44% | 45% | 44% | 2.05 | -9% |
+| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.95 | -10% |
+| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.85 | -0% |
+| 1X2 descanso: 2 | 43% | 45% | 44% | 2.05 | -9% |
 | 1X2 descanso: X | 46% | 39% | 43% | 2.38 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

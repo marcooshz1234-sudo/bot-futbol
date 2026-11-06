@@ -1,10 +1,10 @@
 # Famalicao – Arouca
 **Primeira Liga** · Regular Season - 11 · 06/11/2026 21:45 (hora España) · Estadio Municipal 22 de Junho
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 19:59_
+_Actualizadas: 06/11 02:13_
 
 - **1X2:** 1 **2.10**  ·  X **3.30**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.70**
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | F. Mayulu | F | 2 | 13 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,94 · visitante 1,31 · córners esperados 9,4._
+_Goles esperados: local 0,93 · visitante 1,31 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,29 +202,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 55% | 73% | 64% | 1.30 | -17% |
 | Ambos marcan: No | 56% | 48% | 52% | 1.95 | +1% |
 | Ambos marcan: Sí | 44% | 52% | 48% | 1.80 | -13% |
-| Goles más/menos: Más de 1.5 | 66% | 71% | 68% | 1.33 | -9% |
-| Goles más/menos: Más de 2.5 | 39% | 46% | 43% | 2.05 | -13% |
+| Goles más/menos: Más de 1.5 | 65% | 71% | 68% | 1.33 | -9% |
+| Goles más/menos: Más de 2.5 | 39% | 46% | 42% | 2.05 | -13% |
 | Goles más/menos: Más de 3.5 | 19% | 27% | 23% | 3.50 | -20% |
-| Goles más/menos: Menos de 1.5 | 34% | 29% | 32% | 3.25 | +3% |
-| Goles más/menos: Menos de 2.5 | 61% | 54% | 57% | 1.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 35% | 29% | 32% | 3.25 | +3% |
+| Goles más/menos: Menos de 2.5 | 61% | 54% | 58% | 1.75 | +1% |
 | Goles más/menos: Menos de 3.5 | 81% | 73% | 77% | 1.28 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 66% | 1.36 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 34% | 3.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 70% | 1.40 | -1% |
 | Goles del local: Más de 0.5 | 61% | 77% | 69% | 1.22 | -16% |
-| Goles del local: Más de 1.5 | 24% | 46% | 35% | 2.00 | -29% |
+| Goles del local: Más de 1.5 | 24% | 46% | 35% | 2.00 | -30% |
 | Goles del local: Más de 2.5 | 7% | 22% | 14% | 4.33 | -38% |
 | Goles del local: Menos de 0.5 | 39% | 23% | 31% | 4.00 | +25% |
 | Goles del local: Menos de 1.5 | 76% | 54% | 65% | 1.73 | +12% |
 | Goles del local: Menos de 2.5 | 93% | 78% | 86% | 1.20 | +3% |
-| Goles del visitante: Más de 0.5 | 73% | 66% | 70% | 1.40 | -2% |
+| Goles del visitante: Más de 0.5 | 73% | 66% | 70% | 1.40 | -3% |
 | Goles del visitante: Más de 1.5 | 38% | 31% | 34% | 3.00 | +3% |
-| Goles del visitante: Menos de 0.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles del visitante: Menos de 0.5 | 27% | 34% | 30% | 2.75 | -16% |
 | Goles del visitante: Menos de 1.5 | 62% | 69% | 66% | 1.36 | -11% |
 | Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -11% |
-| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -4% |
-| 1X2 descanso: 2 | 32% | 23% | 28% | 4.00 | +10% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
+| 1X2 descanso: 2 | 32% | 23% | 27% | 4.00 | +10% |
 | 1X2 descanso: X | 47% | 44% | 45% | 2.10 | -5% |
 | 1X2 descanso: 1 | 21% | 33% | 27% | 2.75 | -25% |
 

@@ -1,10 +1,10 @@
 # Alverca – Casa Pia
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 19:00 (hora España) · Complexo Desportivo FC Alverca
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 05/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 20:01_
+_Actualizadas: 06/11 02:14_
 
 - **1X2:** 1 **1.75**  ·  X **3.80**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **2.00**
@@ -197,31 +197,31 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 41% | 47% | 44% | 2.00 | -12% |
 | Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 83% | 78% | 81% | 1.20 | -3% |
-| Ambos marcan: No | 56% | 50% | 53% | 1.91 | +2% |
-| Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -11% |
+| Ambos marcan: No | 56% | 50% | 53% | 1.91 | +1% |
+| Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -10% |
+| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
 | Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
 | Goles más/menos: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
 | Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
 | Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
 | Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
-| Goles del local: Más de 2.5 | 23% | 25% | 24% | 3.75 | -9% |
+| Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -9% |
 | Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -11% |
 | Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
-| Goles del local: Menos de 2.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 54% | 61% | 57% | 1.53 | -12% |
 | Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +2% |
+| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +1% |
 | Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Córners más/menos: Más de 9.5 | 47% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 9.5 | 53% | 50% | 51% | 1.83 | -6% |
-| 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -5% |
-| 1X2 descanso: 1 | 41% | 40% | 41% | 2.30 | -7% |
+| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
+| 1X2 descanso: 1 | 41% | 40% | 41% | 2.30 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
