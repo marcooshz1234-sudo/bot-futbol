@@ -1170,8 +1170,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
-      "sin_datos": 0,
+      "pendiente": 4,
+      "sin_datos": 1,
       "no_jugo": 0,
       "sin_resolver": 5
     },
@@ -1191,7 +1191,7 @@
       {
         "id": "2026-11-06-semana-europa-resultado",
         "titulo": "📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1212,6 +1212,6 @@
       "rojo": 0,
       "total": 35
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n⏳ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n❔ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆 · faltan datos\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
