@@ -861,10 +861,10 @@
  "2026-11-06-combi-partido-1575539": {
   "redes": {
    "instagram_reel": null,
-   "instagram_story": "18254253058309635"
+   "instagram_story": "18254253058309635",
+   "threads": "18396630487166635"
   },
   "errores_redes": {
-   "threads": "400: An unknown error occurred",
    "instagram": "No module named 'playwright'"
   }
  }
