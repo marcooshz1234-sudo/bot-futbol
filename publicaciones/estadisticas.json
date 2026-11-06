@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 19:58",
+ "actualizado": "2026-11-06 20:08",
  "redes": {
   "instagram": {
    "seguidores": 26,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1983,
-   "hoy": 77,
+   "seguidores": 1986,
+   "hoy": 80,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1983
+    1986
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2300,
- "total_hoy": 92,
+ "total": 2303,
+ "total_hoy": 95,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:00",
+  "hora": "20:45",
   "dia": "2026-11-06",
-  "titulo": "Combi Sevilla vs Alaves"
+  "titulo": "Combi Famalicao vs Arouca"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,7 +156,7 @@
   },
   "2026-11-06": {
    "instagram": 26,
-   "threads": 1983,
+   "threads": 1986,
    "facebook": 0,
    "telegram": 291
   }
