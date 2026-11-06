@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 13:54",
+ "actualizado": "2026-11-06 14:36",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1938,
-   "hoy": 32,
+   "seguidores": 1944,
+   "hoy": 38,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1938
+    1944
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2247,
- "total_hoy": 39,
+ "total": 2253,
+ "total_hoy": 45,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "16:00",
   "dia": "2026-11-06",
-  "titulo": "Combi de 6 partidos x15,24"
+  "titulo": "La loca del viernes x6,09"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,14 +156,14 @@
   },
   "2026-11-06": {
    "instagram": 25,
-   "threads": 1938,
+   "threads": 1944,
    "facebook": 0,
    "telegram": 284
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 44,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -173,7 +173,7 @@
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
