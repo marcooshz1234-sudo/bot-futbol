@@ -61,7 +61,7 @@ def lista(picks):
     """27/10: como los posts que más gustaron: una línea por selección con la bandera, sin cuota por pata
     ni números (la cuota de cada pata va en el post como dato aparte: "cuotas").
     03/11 (Marcos): la bandera es la del país del equipo del pick, en lugar del ✅."""
-    return "\n".join(f"{bandera_pick(p)} {p['texto']}" for p in picks)
+    return "\n".join(f"{bandera_pick(p)} {con_equipo(p)}" for p in picks)
 
 
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
@@ -265,7 +265,7 @@ def texto_seguro(p):
     v, r, gan = balance_seguro()
     lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
               f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}",
-              f"✅ {p['texto']}", "",
+              f"✅ {con_equipo(p)}", "",
               f"🎯 Cuota {num(p['cuota'])}", f"💶 10€ → {num(p['cuota'] * 10)}€"]
     if v + r:
         roi = 100 * gan / (10 * (v + r))
