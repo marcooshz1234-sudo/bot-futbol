@@ -164,6 +164,7 @@
   "clave|2026-11-05-marcos-dieces-favoritos|1636337|Match Winner|Away|Evanilson",
   "clave|2026-11-05-marcos-dieces-favoritos|1636465|Match Winner|Home|Etienne Camara",
   "clave|2026-11-06-ganadores-win|1552216|Match Winner|Away|Thijs Oosting",
+  "clave|2026-11-06-ganadores-win|1575539|Match Winner|Home|Marcos Peña",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -6120,10 +6121,151 @@
    }
   },
   "1575539": {
-   "hora": "2026-11-06T21:04:06.282186+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-06T21:15:33.140253+01:00",
+   "xi": [
+    "L. Carević",
+    "Gustavo Garcia",
+    "Víctor Rofino",
+    "F. van Breemen",
+    "Pedro Francisco",
+    "T. van de Looi",
+    "Mathias De Amorim",
+    "R. Beney",
+    "Pedro Santos",
+    "Sorriso",
+    "G. Koutsias",
+    "I. de Arruabarrena",
+    "Tiago Esgaio",
+    "José Fontán",
+    "Javi Sánchez",
+    "O. Lebedenko",
+    "E. van Ee",
+    "Mateo Flores",
+    "A. Trezza",
+    "T. Fukui",
+    "N. Djouahra",
+    "Barbero"
+   ],
+   "banquillo": [
+    "Marcos Peña",
+    "U. Abubakar",
+    "Óscar Aranda",
+    "Gil Dias",
+    "Gabriel",
+    "Juvenal Augusto Gomes Correia",
+    "Mathis Jangeal",
+    "Paulo Moreira",
+    "L. Realpe",
+    "P. Salas",
+    "V. Serafimović",
+    "I. Zlobin",
+    "Mario Climent",
+    "Pablo Gozálbez",
+    "Lee Hyun-Ju",
+    "B. Mansilla",
+    "F. Mayulu",
+    "Diogo Monteiro",
+    "D. Nandín",
+    "B. Popović",
+    "G. Rukavina",
+    "L. Shahar",
+    "J. Vinarčík",
+    "Mamadu Balde"
+   ],
+   "equipos": {
+    "242": [
+     {
+      "n": "L. Carević",
+      "pos": "G"
+     },
+     {
+      "n": "Gustavo Garcia",
+      "pos": "D"
+     },
+     {
+      "n": "Víctor Rofino",
+      "pos": "D"
+     },
+     {
+      "n": "F. van Breemen",
+      "pos": "D"
+     },
+     {
+      "n": "Pedro Francisco",
+      "pos": "D"
+     },
+     {
+      "n": "T. van de Looi",
+      "pos": "M"
+     },
+     {
+      "n": "Mathias De Amorim",
+      "pos": "M"
+     },
+     {
+      "n": "R. Beney",
+      "pos": "M"
+     },
+     {
+      "n": "Pedro Santos",
+      "pos": "M"
+     },
+     {
+      "n": "Sorriso",
+      "pos": "M"
+     },
+     {
+      "n": "G. Koutsias",
+      "pos": "F"
+     }
+    ],
+    "240": [
+     {
+      "n": "I. de Arruabarrena",
+      "pos": "G"
+     },
+     {
+      "n": "Tiago Esgaio",
+      "pos": "D"
+     },
+     {
+      "n": "José Fontán",
+      "pos": "D"
+     },
+     {
+      "n": "Javi Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "O. Lebedenko",
+      "pos": "D"
+     },
+     {
+      "n": "E. van Ee",
+      "pos": "M"
+     },
+     {
+      "n": "Mateo Flores",
+      "pos": "M"
+     },
+     {
+      "n": "A. Trezza",
+      "pos": "M"
+     },
+     {
+      "n": "T. Fukui",
+      "pos": "M"
+     },
+     {
+      "n": "N. Djouahra",
+      "pos": "M"
+     },
+     {
+      "n": "Barbero",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
