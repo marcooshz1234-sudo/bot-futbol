@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 01:45",
+ "actualizado": "2026-11-06 02:39",
  "redes": {
   "instagram": {
    "seguidores": 25,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1909,
-   "hoy": 3,
+   "seguidores": 1912,
+   "hoy": 6,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1909
+    1912
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 277,
-   "hoy": 0,
+   "seguidores": 278,
+   "hoy": 1,
    "serie": [
     176,
     207,
@@ -50,25 +50,28 @@
     232,
     245,
     277,
-    277
+    278
    ]
   }
  },
- "total": 2211,
- "total_hoy": 3,
+ "total": 2215,
+ "total_hoy": 7,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "10:00",
   "dia": "2026-11-06",
-  "titulo": "Pick seguro del día"
+  "titulo": "Partidos de hoy - ganadores"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 21,
+  "total": 29
+ },
  "escalera": {
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 39.2,
-  "fecha": "2026-11-05"
+  "objetivo": 42.0,
+  "fecha": "2026-11-06"
  },
  "historial": {
   "2026-10-23": {
@@ -153,9 +156,9 @@
   },
   "2026-11-06": {
    "instagram": 25,
-   "threads": 1909,
+   "threads": 1912,
    "facebook": 0,
-   "telegram": 277
+   "telegram": 278
   }
  },
  "tipos_instagram": {
