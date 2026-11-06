@@ -857,5 +857,15 @@
    "instagram": "17885263914628169",
    "instagram_story": "18657197410002072"
   }
+ },
+ "2026-11-06-combi-partido-1575539": {
+  "redes": {
+   "instagram_reel": null,
+   "instagram_story": "18254253058309635"
+  },
+  "errores_redes": {
+   "threads": "400: An unknown error occurred",
+   "instagram": "No module named 'playwright'"
+  }
  }
 }
