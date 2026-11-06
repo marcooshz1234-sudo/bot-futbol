@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 20:41",
+ "actualizado": "2026-11-06 20:52",
  "redes": {
   "instagram": {
    "seguidores": 26,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1986,
-   "hoy": 80,
+   "seguidores": 1987,
+   "hoy": 81,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1986
+    1987
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2303,
- "total_hoy": 95,
+ "total": 2304,
+ "total_hoy": 96,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:45",
+  "hora": "23:00",
   "dia": "2026-11-06",
-  "titulo": "Combi Famalicao vs Arouca"
+  "titulo": "7 picks para mañana"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,7 +156,7 @@
   },
   "2026-11-06": {
    "instagram": 26,
-   "threads": 1986,
+   "threads": 1987,
    "facebook": 0,
    "telegram": 291
   }
